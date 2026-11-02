@@ -1,0 +1,1641 @@
+{
+ "name": "メルカリ",
+ "aliases": [],
+ "context": "証券コード4385／情報・通信業／プライム（内国株式）／2026.06期 売上高229,293百万円 営業利益率19.1%",
+ "researched_at": "2026-11-02T18:07:19.903243+00:00",
+ "official_url": "https://jp.mercari.com/",
+ "identified_by": "search:yahoo_jp:メルカリ",
+ "profile": {
+  "売上高": [
+   {
+    "label": "売上収益",
+    "value": "",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上収益（注5）",
+    "value": "149,807 36,418 186,225 6,407 192,633 － 192,633",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の売上収益又は振替高",
+    "value": "－ － － 1,801 1,801 △1,801 －",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上収益（注5）",
+    "value": "180,858 40,782 221,640 7,653 229,293 － 229,293",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の売上収益又は振替高",
+    "value": "－ － － 2,514 2,514 △2,514 －",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "メルカリ - 日本最大のフリマサービス",
+    "url": "https://jp.mercari.com/",
+    "pass": 1
+   },
+   {
+    "quote": "フリーワードから商品をさがす",
+    "url": "https://jp.mercari.com/",
+    "pass": 1
+   },
+   {
+    "quote": "メルカリは不要となった持ち物を販売したい人と、商品を購入したい人をマッチングするプラットホームで主にスマートフォンアプリとして提供されています",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "従来のリサイクルショップは常に商品を店頭に豊富に揃え、販売していく必要があるため不用品を売却したい顧客、購入したい顧客が来店しやすい好立地に店舗を構えること、また他の店舗と比較し競争力の高い価格で仕入れなるべく高値で販売をすることが収益の源泉のため、買取マニュアルを整備することが、他社との勝負を分ける重要な差別化要素と言えます",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "収益モデルでみると、高利益で商品を販売する一方で店舗の維持費や人件費、仕入れコストといった経費、また仕入れた在庫が売れないというリスクも抱えています",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "まずメルカリは店舗を経由せず不用品を販売したい人と、商品を安く購入したい個人同士の取引を仲介するオンラインプラットホームを提供しています",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "【ソリューションプロバイダー】",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "またメルカリでは個人間取引に必要なすべてをトータルで提供するソリューションプロバイダーのビジネスモデルを採用しています",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "個人同士のマッチングに加え、メルカリが一旦料金を預かり商品到着後に支払いが実行されるというエスクローサービスを導入することで個人間の売買の安全性を担保しています",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "さらにマッチング後の商品発送時も物流企業やコンビニエンスストアと連携しQRコードで簡単に商品を発送できるように環境を整えています",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "ショップでの売買のように単に商品の売買をするという価値だけでなく、だれでも気軽に指先一つで簡単に楽しく出品や買いものができるというユーザー体験を提供し、身の回りの品物を売買するという新たな文化を普及させ市場を拡大させてきました",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "現在メルカリは業界パイオニアとして先行者利益と発送方法の利便性向上といったサービスの向上、CMなどの集客施策によって囲い込みに成功していると言えそうです",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "出前サービスもこの形です",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "MAUとは、1か月に1回以上サービスを使った人の数のことです（advertimes 2026年8月）",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "メルカリの主な収益は、商品が売れたときに出品者から受け取る販売手数料10%です",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "GMVとは、アプリ上で売買された商品の金額を合計したものです",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "ネットワーク効果とは、利用者が増えるほどサービスの価値が高まる現象のことです",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "支援サービスを見る",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "購入者が商品を受け取って評価したあとに、出品者へ売上金が入る流れです",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "メルペイは、フリマで得た売上金をそのまま買い物や支払いに使えるサービスです",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "フリマで商品が売れても、銀行へ振り込むと200円の手数料がかかります",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "本業で生まれたお金の流れを、自社の別サービスへ還流させる設計",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "経済圏とは、1つの会社のサービス群の中で、お金や利用者が行き来する範囲のことです",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "フリマで出品し、商品が売れる",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "フリマで別の商品を購入 → STEP1へ戻る",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "越境取引とは、国境を越えて海外の買い手へ商品を売ることです",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "メルカリでは、日本の出品者が出した商品を、海外の利用者が購入できる仕組みを整えてきました",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "農家や個人商店が、フリマと同じ手順で商品を出せる点が特徴です",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "すでに集まっている買い手に、事業者の商品を届けられます",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "メルカリ ハロは、短時間だけ働きたい人と、人手が欲しい店や企業をつなぐサービスでした",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "それでも同社は2025年10月14日、サービスの終了を発表します",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "理由は「市場環境の変化やサービスの利用状況などから総合的に判断した」と説明されています",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "12月18日にサービス終了",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス面でも、2024年9月に「AI出品サポート」を始めました",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "写真を撮ってカテゴリを選ぶだけで、商品説明や価格をAIが入力する機能です（同社リリース 2024年9月10日）",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月の開始から約1年9カ月、2025年12月18日にサービスを終えました",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社メルカリ｜「メルカリ ハロ」のサービス提供終了について（2025年10月14日）",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "当社の提供するサービスを通じて「人の可能性を広げること」への想いを込めたグループミッション「あらゆる価値を循環させ、あらゆる人の可能性を広げる」の達成に向け、グループ一丸となり邁進しています",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "サービス概要",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "従来型の店舗における中古品売買は、来店に時間を要する、取り扱い商品が限定的である、買取業者が仲介するため売手と買手の双方にとって価格が不透明であるなどの課題があり、また、インターネットオークションを利用した中古品売買も、出品が煩雑で難しい、入札プロセスに時間がかかるといった課題がありました",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "「メルカリ」では、スマートフォンやWebから誰でも簡単に商品を出品・購入することができます",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "更に、出品者・購入者ともに個人が中心であるため、誰でも手軽に不要品を販売してお金に換える楽しみや、ユニークな商品を探す「宝探し」感覚での買物を体験することができます",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループが運営するサービス",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "2019年10月から日本で出品された商品を海外から購入可能な越境取引を開始し、2025年9月からは、世界共通アプリ「メルカリ グローバルアプリ」の提供を開始いたしました",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "Fintechでは、スマホ決済サービス「メルペイ」を運営しております",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの保有する高い技術力と「メルカリ」独自のお客さま・情報基盤を活用し、Creditサービスを中心に新たな信用の創造に伴う事業の拡大に努めております",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "「メルカリ」は、2013年のサービス開始以来、日本を中心に継続的に成長しております",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "2018年のブランドリニューアル以降、サービスの利便性向上に注力しながら認知度と評価を確立し、米国においても循環型社会の実現に欠かせない存在となることを目指しております",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "（注）取引手数料は商品代金の10％であり、取引手数料が当社グループの売上高として計上されます",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループで行う事業は、提供するサービスの性質上、生産実績の記載になじまないため、当該記載を省略しております",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループで行う事業は、提供するサービスの性質上、受注実績の記載になじまないため、当該記載を省略しております",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの運転資金需要のうち主なものは、当社グループのサービスを効果的に拡大していくための広告宣伝費及び開発に係る人件費、並びにFintech事業において提供する与信関連サービスの拡大に伴う営業債権及び貸付金の増加であります",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "特に与信関連サービスに係る資金需要は、当該サービスのご利用の拡大に伴い増加する性質を有しております",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、Fintech事業における与信関連サービスに係る資金需要につきましては、債権の回収金を返済原資とし当社グループに対して返済義務が遡及しない形式（ノンリコース形式）による債権流動化を優先的に活用し、財務の健全性の確保に努めております",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、前記「第2 事業の状況 3 事業等のリスク」に記載のとおり、事業環境、サービスの性質、国際事業展開、コンプライアンス等、様々なリスク要因が当社グループの経営成績に重要な影響を与える可能性があると認識しております",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、当社グループは常に市場動向に留意しつつ、内部管理体制を強化し、優秀な人材を確保し、市場のニーズに合ったサービスを展開していくことにより、経営成績に重要な影響を与えるリスク要因を分散・低減し、適切に対応を行って参ります",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "(4）製品及びサービスの区分ごとの外部顧客からの売上収益",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "おそらく、この数年の「誤算」だったのは、国内外のインフレの影響が、C2Cサービスの需要減を引き起こしたことだ",
+    "url": "https://www.businessinsider.jp/article/292203/",
+    "pass": 3
+   },
+   {
+    "quote": "「USの中では今、GenZ（Z世代）にフォーカスしていて、今回の手数料モデルの変更で、低価格な商品のトランザクションが増えてます",
+    "url": "https://www.businessinsider.jp/article/292203/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、ハロで稼いだ給与がメルペイの残高になり、QR決済などを通じて外で使えたりメルカリの商品購入に使えたり —— という世界観だ",
+    "url": "https://www.businessinsider.jp/article/292203/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "メルカリが業界にイノベーションを起こした画期的なビジネスモデルとは？ | 株式会社マキシマイズのオープンイノベーション・DX・イノベーション・サーキュラーエコノミー人材育成",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "[公式]ビジネスモデルナビゲーターWebサイトはこちら",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル構築",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルナビゲーター",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル・新規事業創出",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "メルカリが業界にイノベーションを起こした画期的なビジネスモデルとは？",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "今回はリユース市場にイノベーションを起こしたメルカリのビジネスモデルを、ビジネスモデル・ナビゲーター手法によるビジネスモデルの定義「ビジネスモデルの4軸」とビジネスモデル・パターンカードを使用して解説していきたいと思います",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "まずはメルカリが既存のリユース市場をどのように変革してきたのか、ビジネスモデルの4軸を使用して、従来のリサイクルショップとメルカリのビジネスモデルを分析していきたいと思います",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "【ビジネスモデルの4軸とは】",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルの4軸は、ビジネスモデルをシンプルかつ抜けもれなく定義することで、ビジネスモデルの設計や検討を容易に行うために開発されました",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、顧客は誰でどんな困りごとを持っているかというWHOの軸、顧客へ提供する提供価値は何かというWHATの軸、どのような手段で価値を提供するのか差別化をするのかというHOWの軸、なぜ儲かるのかというWHYの軸の４軸でビジネスモデルを定義します",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "特にビジネスモデル4軸のうち2軸以上が変化したとき、ビジネスモデルの構造が変わったとみなし、ビジネスモデル・イノベーションと呼んでいます",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルの4軸は、新規事業の設計だけでなく、既存事業の分析、企画内容の精査などにも利用することができます",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "【従来のリサイクルショップのビジネスモデル】",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "それでは、従来のリサイクルショップのビジネスモデルを4軸で分析します",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "収益モデルでみると、高利益で商品を販売する一方で店舗の維持費や人件費、仕入れコストといった経費、また仕入れた在庫が売れないというリスクも抱えています",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "【業界を変革したメルカリのビジネスモデルとは？】",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "従来のリユースショップとメルカリのビジネスモデルモデルを4軸で表現し比較するとWho以外の3軸全てが変化しておりビジネスモデルのイノベーションが起きているという事がわかります",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "それではどういったビジネスモデルパターンを使用してビジネスモデルのイノベーションを起こしたのか順番に見ていきたいと思います",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "またメルカリでは個人間取引に必要なすべてをトータルで提供するソリューションプロバイダーのビジネスモデルを採用しています",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "今回はメルカリと既存のリサイクルショップをビジネスモデルの4軸とビジネスモデルパターンを使用して比較、分析をしました",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "4軸でビジネスモデルを分解する事でビジネスモデルの強みは何か、何が勝負を分けるのかといった点も明らかにすることができます",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "今後もビジネスモデル・ナビゲーターの事例やセミナーの情報などご紹介させていただきます",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "～サーキュラー・エコノミーにおけるビジネスモデルを創造する～",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "メルカリのビジネスモデル｜強みと成功要因・収益構造",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "経営戦略やビジネスモデル、人材・組織づくり、マーケティング、財務、法務など、日々の意思決定に役立つ実践的な知見と、経営者自身の言葉による気づきをお届けします",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "経営戦略・ビジネスモデル",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事は、コントリ編集部のビジネスモデル研究ノートを材料に、2026年9月時点の公式発表と照合してまとめたものです",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "収益構造、不安を消す仕組み、フィンテック、米国事業を順に見ていきます",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "メルカリのビジネスモデルとは｜出品無料・成約時10%の両面市場",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "メルカリの収益構造｜取引が成立したときだけ稼ぐ仕組み",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "無料配達の仕組みから学ぶビジネスモデル",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "楽天グループのビジネスモデル",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業のサブスクリプション型ビジネスモデル事例",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル一覧｜収益の仕組み30種",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンスのビジネスモデル",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "セブンイレブンのビジネスモデル",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "まとめ｜メルカリのビジネスモデルは「取引が生まれ続ける場」でできている",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "メルカリのビジネスモデルは、出品無料・成約時10%の手数料という入り口の低さから始まります",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "Q1. メルカリのビジネスモデルを一言でいうと何ですか？",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事は、コントリ編集部のビジネスモデル研究ノートをもとに、2026年9月時点で上記の公開情報を照合して作成しました",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "ナイキのビジネスモデル徹底解説｜ファブレス経営とブ...",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "akippaはどうやって稼ぐ？土地を持たないビジネスモデル",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "［事業系統図］",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "山田はメルカリ ハロのビジネスモデル、そして",
+    "url": "https://www.businessinsider.jp/article/292203/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "具体的には、顧客は誰でどんな困りごとを持っているかというWHOの軸、顧客へ提供する提供価値は何かというWHATの軸、どのような手段で価値を提供するのか差別化をするのかというHOWの軸、なぜ儲かるのかというWHYの軸の４軸でビジネスモデルを定義します",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "従来のリサイクルショップは常に商品を店頭に豊富に揃え、販売していく必要があるため不用品を売却したい顧客、購入したい顧客が来店しやすい好立地に店舗を構えること、また他の店舗と比較し競争力の高い価格で仕入れなるべく高値で販売をすることが収益の源泉のため、買取マニュアルを整備することが、他社との勝負を分ける重要な差別化要素と言えます",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で不用品を販売する利用者にとっては、不用品を持ち込むだけで良いという利便性はありますが、基本的に査定額の根拠は不明瞭で割安に感じる額が提示されることが一般的と言えます",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "また利用者にとっては自分が納得できる金額で販売することができ、一般的にリサイクルショップの買い取り額より高く値付けすることができ、購入者する側もリサイクルショップで購入する場合も割安で購入することができます",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "また利用者同士を相互に評価することでも信用を担保しトラブルが発生しにくい仕組みも構築しています",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "ショップでの売買のように単に商品の売買をするという価値だけでなく、だれでも気軽に指先一つで簡単に楽しく出品や買いものができるというユーザー体験を提供し、身の回りの品物を売買するという新たな文化を普及させ市場を拡大させてきました",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "このように既存のリユース市場を確信したメルカリですが、マッチングプラットホームのビジネス自体の参入障壁は決して高いものではないため、売り手と買い手、双方のアクティブユーザーをどれだけ囲い込みできるのかにかかっています",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "両面市場とは、性質の違う2つの利用者グループを同じ場に集め、その出会いを価値にするモデルのことです",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "国内フリマの月間利用者数（MAU）は2,400万人を超えています",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "、月間利用者数は2,400万人超",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "ネットワーク効果とは、利用者が増えるほどサービスの価値が高まる現象のことです",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "ネットワーク効果｜利用者が利用者を呼ぶ好循環",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "一度回り出すと、利用者の多さそのものが参入障壁になる",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "1つは、先に利用者を集めたことによるネットワーク効果です",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "どれも、利用者が最初の一歩をためらう理由を一つずつ消すための工夫です",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の不安をどう扱うかは、業種を問わず経営者の方が向き合うテーマではないでしょうか",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "どの仕組みも、お客様が口にしない不安から逆算して作られている点に注目してください",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "利用者自身が互いを見ている状態をつくることで、運営の手間も抑えられる",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "信頼の管理を、利用者の手に一部ゆだねた設計",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の声を集めて次のお客様に見せる工夫は、店舗の口コミ掲示や施工事例の公開にも通じるものです",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "利用者が増えれば、不正を働こうとする人も入り込みます",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "柱は「不正利用者の徹底排除」と「お客さまの徹底保護」の2つです（同社リリース）",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "利用者2,000万人を超える場を守るには、人手だけでは足りません",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "売る、使う、増やすという流れがアプリの中で完結し、利用者がメルカリに戻ってくる理由になっています",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "利用者にとっては、手間と手数料が省けて便利です",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "経済圏とは、1つの会社のサービス群の中で、お金や利用者が行き来する範囲のことです",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "メルカリの場合は、フリマの売上金という「すでに利用者の手元にあるお金」が入り口です",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "与信とは、利用者の支払い能力を見きわめ、お金を立て替えたり貸したりすることです",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "しかも、その柱は本業の利用者とデータの上に立っています",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "同じ期の米国の月間利用者数は前年から減っており、中国発の低価格ECとの競争が重荷になったと報じられています",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "メルカリでは、日本の出品者が出した商品を、海外の利用者が購入できる仕組みを整えてきました",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "一度築いた場を、別の顧客層へ開いていく",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との契約から生じる収益",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上収益（注5）",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "4．「US」は配送売上を顧客から受け取る対価の総額で認識しており、20,431百万円を計上しております",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "5．「外部顧客への売上収益」は、顧客との契約から生じる収益及びその他の源泉から生じる収益が含まれております",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "4．「US」は配送売上を顧客から受け取る対価の総額で認識しており、22,370百万円を計上しております",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "(4）製品及びサービスの区分ごとの外部顧客からの売上収益",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "(6）主要な顧客に関する情報",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上収益のうち、連結損益計算書の売上収益の10％以上を占める顧客が存在しないため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "『可処分所得』みたいなものが減ると、どうしても（ユーザー自身の）購買力が落ちる",
+    "url": "https://www.businessinsider.jp/article/292203/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "従来のリサイクルショップは常に商品を店頭に豊富に揃え、販売していく必要があるため不用品を売却したい顧客、購入したい顧客が来店しやすい好立地に店舗を構えること、また他の店舗と比較し競争力の高い価格で仕入れなるべく高値で販売をすることが収益の源泉のため、買取マニュアルを整備することが、他社との勝負を分ける重要な差別化要素と言えます",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "収益モデルでみると、高利益で商品を販売する一方で店舗の維持費や人件費、仕入れコストといった経費、また仕入れた在庫が売れないというリスクも抱えています",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "まずメルカリは店舗を経由せず不用品を販売したい人と、商品を安く購入したい個人同士の取引を仲介するオンラインプラットホームを提供しています",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "自社で仕入れや販売は行わないため、店舗の運営や仕入れコスト不良在庫を抱えるリスクがなく、運営コストを圧縮でき、取引額の10％を手数料として徴収するだけで充分な利益を稼ぎ出すことができます",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "今後もビジネスモデル・ナビゲーターの事例やセミナーの情報などご紹介させていただきます",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "広告代理店、中国向け電子コミック配信事業、プロ野球独立リーグ球団運営を経て現職",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "「サーキュラーエコノミー・ナビゲーター」紹介セミナー",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "海外先進100社のDX成功アプローチ紹介セミナー２",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "書籍DXナビゲーターで紹介されているテンプレートと記入サンプルをダウンロードいただけます",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "売上金 → メルペイ残高 → 店舗・ネットでの買い物や支払いに利用",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の声を集めて次のお客様に見せる工夫は、店舗の口コミ掲示や施工事例の公開にも通じるものです",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "店舗・ネットで決済、メルカードやあと払いで支払い",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "いただいた回答は記事でご紹介させていただく場合があります",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "いただいた回答は今後の記事でご紹介させていただきます",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "従来型の店舗における中古品売買は、来店に時間を要する、取り扱い商品が限定的である、買取業者が仲介するため売手と買手の双方にとって価格が不透明であるなどの課題があり、また、インターネットオークションを利用した中古品売買も、出品が煩雑で難しい、入札プロセスに時間がかかるといった課題がありました",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、越境取引における海外パートナーサイト経由のお客さまは含まない",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "自社で仕入れや販売は行わないため、店舗の運営や仕入れコスト不良在庫を抱えるリスクがなく、運営コストを圧縮でき、取引額の10％を手数料として徴収するだけで充分な利益を稼ぎ出すことができます",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "出品無料・成約時だけ手数料10%のマーケットプレイス",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "フリマの手数料に、決済のメルペイと米国事業が加わった3事業体制が、いまの同社の姿です",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "手数料10%",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "出典：メルカリ公式ヘルプ「メルカリの手数料」（2026年9月確認）",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちコントリ編集部は、手数料率の高さより「取引が生まれ続ける場の厚み」に強さの核があると捉えています",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "メルカリの主な収益は、商品が売れたときに出品者から受け取る販売手数料10%です",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "出品は無料で、売れて初めて手数料が発生します（メルカリ公式ヘルプ）",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、手数料の仕組みと、その裏で回る好循環を順に見ていきます",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "手数料が競合より高いのに選ばれる理由にも触れます",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "収益の柱は販売手数料10%",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば3,000円の服が売れると、300円が販売手数料です",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "売上金を銀行口座へ移すときは、一律200円の振込手数料がかかります（メルカリ公式ヘルプ）",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "取引の数が増えるほど、手数料が積み上がっていく",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "手数料はこの流通の上に乗っています",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "手数料が高くても選ばれる理由｜Yahoo!フリマ・ラクマとの比較",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "販売手数料だけを比べると、メルカリは主要3社のなかで高めです",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "主要フリマアプリの手数料を、公表情報で並べました",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "主要フリマアプリの販売手数料比較",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "手数料が高くても選ばれる理由は、主に2つと考えられます",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "売り手から見れば、手数料が5%安くても、売れるまでの時間が長ければ得になりません",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "手数料の安さではなく、安心で選ばれています",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "フリマで商品が売れても、銀行へ振り込むと200円の手数料がかかります",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "利用者にとっては、手間と手数料が省けて便利です",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "フリマの手数料だけに頼らない収益源が、着実に育ってきました",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業のサブスクリプション型ビジネスモデル事例",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "（注）取引手数料は商品代金の10％であり、取引手数料が当社グループの売上高として計上されます",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度においては、コア体験の強化を通じて、お客さま数・単価・頻度がバランスよく成長する基盤が確立し、その結果、当連結会計年度のGMV（注1）は前年同期比14.7％増の12,856億円となり、2023年6月期以来となる二桁成長へ回帰しております",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカ事業の手数料モデルの変更や、レイオフを背景とする組織再編は、ビジネスの観点で「厳しい決断」だった",
+    "url": "https://www.businessinsider.jp/article/292203/",
+    "pass": 3
+   },
+   {
+    "quote": "手数料モデルの変更をやり切って、これでうまくいくのであれば良いし、そうでないのであれば、ブレイクイーブン（＝人員削減をしてでも黒字化）を目指す —— その目標をブラさない方針でやっていた」",
+    "url": "https://www.businessinsider.jp/article/292203/",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、手数料モデルの変更だけでは再浮上できなかった結果、このタイミングでレイオフを断行することになった",
+    "url": "https://www.businessinsider.jp/article/292203/",
+    "pass": 3
+   },
+   {
+    "quote": "少なからず、手数料モデル変更の手応えも見えてきていると言う",
+    "url": "https://www.businessinsider.jp/article/292203/",
+    "pass": 3
+   },
+   {
+    "quote": "「USの中では今、GenZ（Z世代）にフォーカスしていて、今回の手数料モデルの変更で、低価格な商品のトランザクションが増えてます",
+    "url": "https://www.businessinsider.jp/article/292203/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "収益モデルでみると、高利益で商品を販売する一方で店舗の維持費や人件費、仕入れコストといった経費、また仕入れた在庫が売れないというリスクも抱えています",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "自社で仕入れや販売は行わないため、店舗の運営や仕入れコスト不良在庫を抱えるリスクがなく、運営コストを圧縮でき、取引額の10％を手数料として徴収するだけで充分な利益を稼ぎ出すことができます",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "このように既存のリユース市場を確信したメルカリですが、マッチングプラットホームのビジネス自体の参入障壁は決して高いものではないため、売り手と買い手、双方のアクティブユーザーをどれだけ囲い込みできるのかにかかっています",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "4軸でビジネスモデルを分解する事でビジネスモデルの強みは何か、何が勝負を分けるのかといった点も明らかにすることができます",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "新規事業立ち上げ、事業開発に強みを持つ",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "メルカリのビジネスモデル｜強みと成功要因・収益構造",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "倉庫の隅で出番を待つ在庫や、使われなくなった設備",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "在庫を持たず、取引が成立したときに販売価格の10%を受け取ります",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "この仕組みの要点は、メルカリが在庫を持たないことです",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "一度回り出すと、利用者の多さそのものが参入障壁になる",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "あなたの会社の強みを、",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "メルカリの強み｜知らない人との取引の不安を消す仕組み",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "メルカリの強みの核は、見知らぬ個人どうしの取引から「不安」を取り除く仕組みです",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "メルカリの強み｜不安を消す4つの仕組み",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "加盟店と粗利を分け合う「",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "掛け率の計算方法｜卸値の決め方で中小メーカーの粗利が残る",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "駿河屋との提携による取扱在庫の拡充に加え、新たにグローバルアプリの提供を開始するなど、将来の成長に向けた取り組みが着実に前進しております",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "タイミーに対する「強み」について「（スポットワークのマーケットは）ウィナー・テイクス・オール（勝者総取り）ではない」",
+    "url": "https://www.businessinsider.jp/article/292203/",
+    "pass": 3
+   },
+   {
+    "quote": "タイミーに対する「強み」があるとすれば、やはりメルカリの経済圏のなかで、マネーを流通できる可能性があることだ",
+    "url": "https://www.businessinsider.jp/article/292203/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "2026年6月期 セグメント別コア営業利益",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "（単一セグメント）",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "単一セグメントの企業の場合は、連結（あるいは単体）の売上と営業利益を反映しています",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "以上の結果、Japan Business（注4）の当連結会計年度の業績は、売上収益180,858百万円（前年同期比20.7％増）、セグメント利益51,316百万円（前年同期比47.2％増）となりました",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、地道なプロダクトの磨き込みの効果が想定よりも早く業績に結びついた結果、セグメント利益は1,664百万円（前年同期比125.8％増）となり、ブレイクイーブンを維持しながらGMVのプラス成長を実現しています",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "4．第1四半期連結会計期間より、従来「Japan Region」としていたセグメント名称を「Japan Business」に変更",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "当該変更は報告セグメントの名称変更のみであり、セグメント情報に与える影響はなし",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告セグメント計",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "（注）セグメント間の取引については相殺消去しております",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "6.セグメント情報",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "(1）報告セグメントの概要",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの事業セグメントは、当社及び子会社の構成単位のうち分離された財務情報が入手可能であり、取締役会・執行役会が経営資源の配分の決定及び業績を評価するために、定期的に検討を行う対象となっているものであります",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループでは国内におけるフリマアプリ「メルカリ」を中核にする「Japan Business」及び米国におけるフリマアプリ「Mercari」を運営する「US」を報告セグメントとして区分し、グループ戦略を立案・決定しております",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告セグメントの決定に際して、集約された事業セグメントはありません",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、各報告セグメントに含まれる主な内容は、以下のとおりであります",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "(2）報告セグメントに関する情報",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント間の売上収益は市場実勢価格に基づいております",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント間の売上収益又は振替高",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年6月期の連結売上収益は2,292億円で、過去最高でした（同社決算短信）",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "2013年、スマホ専用のフリマアプリとして誕生",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月期の業績は、主要3事業すべてが増収増益でした",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年6月期",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月期",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月期",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月期は、当期利益も354億円と過去最高でした",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月には上場後初めて、上限100億円の自社株買いを発表しました（日本経済新聞 2026年8月）",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月期 セグメント別コア営業利益",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月期の国内フリマの流通総額（GMV）は1兆2,856億円でした（LIMO 2026年8月）",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年9月時点の各社公表情報をもとにコントリ編集部が整理",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年5月21日、メルカリは安心・安全の強化策を発表しました",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月期、Fintech事業のコア営業利益は91億円まで伸びました",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月期のFintechのコア営業利益91億円は、Marketplaceの429億円に次ぐ規模です",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月期もコア営業利益20億円を確保しています",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "2014年の進出から、長く赤字が続いた挑戦でした",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "2014年からの米国挑戦と初の通期黒字",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月期、米国事業のコア営業利益は9億円でした",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月期は黒字を保ちながら、流通総額を11%伸ばしました（advertimes 2026年8月）",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月期は20億円",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月期の越境取引の流通総額は1,122億円でした",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年10月に本格提供が始まりました（同社リリース）",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月に始まり、2025年6月には登録者が1,200万人を超えていました",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年5月",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月期有価証券報告書より",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "2019年10月から日本で出品された商品を海外から購入可能な越境取引を開始し、2025年9月からは、世界共通アプリ「メルカリ グローバルアプリ」の提供を開始いたしました",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "2022年11月に提供を開始した「メルカリ」「メルペイ」の利用履歴や行動履歴に基づくAI与信を生かしたクレジットカード「メルカード」は、632万枚に達するなど順調に拡大を続け、グループシナジーの創出が進捗しております",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "2018年のブランドリニューアル以降、サービスの利便性向上に注力しながら認知度と評価を確立し、米国においても循環型社会の実現に欠かせない存在となることを目指しております",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "2024年6月期の新規参入というところでは、タイミーの競合にあたるスポットワーク仲介の「メルカリ ハロ」も注目されている",
+    "url": "https://www.businessinsider.jp/article/292203/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年5月20日",
+    "url": "https://tv.apple.com/jp/episode/%E3%83%A1%E3%83%AB%E3%82%AB%E3%83%AA%E7%A4%BE%E9%95%B7-%E5%B1%B1%E7%94%B0%E9%80%B2%E5%A4%AA%E9%83%8E/umc.cmc.pwl2ktcfmllwozw2r8pl3i3m?showId=umc.cmc.15q35pao1wkg7nxhyysje9o8j",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "メルカリ が業界にイノベーションを起こした画期的な ビジネス ... — メルカリ が業界にイノベーションを起こした画期的な ビジネス ... maximize.co.jp https://maximize.co.jp > イノベーション",
+    "url": "https://maximize.co.jp/760/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "メルカリ の ビジネスモデル ｜強みと成功要因・収益構造 — メルカリ の ビジネスモデル ｜強みと成功要因・収益構造 コントリ https://comtri.jp > コラム > 経営戦略・ビジネスモデル",
+    "url": "https://comtri.jp/business-model-mercari/",
+    "pass": 3
+   },
+   {
+    "quote": "メルカリ の ビジネスモデル と事業意義 | 日本の成長企業 — メルカリ の ビジネスモデル と事業意義 | 日本の成長企業 プロコミットキャリア https://www.procommitcareer.co.jp > mercari_koizumi01",
+    "url": "https://www.procommitcareer.co.jp/growing/mercari_koizumi01",
+    "pass": 3
+   },
+   {
+    "quote": "メルカリ - Bizgram - 図解総研 — メルカリ - Bizgram - 図解総研 株式会社図解総研 https://bizgram.zukai.co > ...",
+    "url": "https://bizgram.zukai.co/f91db6798c27/n642g77bwtuc",
+    "pass": 3
+   },
+   {
+    "quote": "決算 情報 | 株式会社 メルカリ — 決算 情報 | 株式会社 メルカリ 株式会社メルカリ https://about.mercari.com > library > results",
+    "url": "https://about.mercari.com/ir/library/results/",
+    "pass": 3
+   },
+   {
+    "quote": "IR/投資家情報 | 株式会社 メルカリ — IR/投資家情報 | 株式会社 メルカリ Mercari https://about.mercari.com > ...",
+    "url": "https://about.mercari.com/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "IR News | 株式会社 メルカリ - Mercari — IR News | 株式会社 メルカリ - Mercari 株式会社メルカリ https://about.mercari.com > news",
+    "url": "https://about.mercari.com/ir/news/",
+    "pass": 3
+   },
+   {
+    "quote": "メルカリ [4385]：FY2026.6 4Q 決算説明資料 2026年8月5日 ... — メルカリ [4385]：FY2026.6 4Q 決算説明資料 2026年8月5日 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260804508835/",
+    "pass": 3
+   },
+   {
+    "quote": "ガバナンス体制 | 株式会社 メルカリ — ガバナンス体制 | 株式会社 メルカリ 株式会社メルカリ https://about.mercari.com > governance-structure",
+    "url": "https://about.mercari.com/sustainability/governance/governance-structure/",
+    "pass": 3
+   },
+   {
+    "quote": "メルカリ 【4385】の 事業 内容 - キタイシホン — メルカリ 【4385】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/4385/business",
+    "pass": 3
+   },
+   {
+    "quote": "メルカリ の子会社は2社。それぞれの位置づけを組織図を使っ ... — メルカリ の子会社は2社。それぞれの位置づけを組織図を使っ ... 転職picks https://tenshokupicks.jp > 記事",
+    "url": "https://tenshokupicks.jp/companies/mercari/81/",
+    "pass": 3
+   },
+   {
+    "quote": "メルカリ - Wikipedia — メルカリ - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > メルカリ",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%AB%E3%82%AB%E3%83%AA",
+    "pass": 3
+   },
+   {
+    "quote": "上場7年目の メルカリ 、創業者・山田進太郎、“反省”を語る ... — 上場7年目の メルカリ 、創業者・山田進太郎、“反省”を語る ... Business Insider Japan https://www.businessinsider.jp > ビジネス",
+    "url": "https://www.businessinsider.jp/article/292203/",
+    "pass": 3
+   },
+   {
+    "quote": "メルカリ社長 山田進太郎 - ‎Apple TV — メルカリ社長 山田進太郎 - ‎Apple TV ‎Apple TV https://tv.apple.com > episode > メルカリ社長-山田進太郎",
+    "url": "https://tv.apple.com/jp/episode/%E3%83%A1%E3%83%AB%E3%82%AB%E3%83%AA%E7%A4%BE%E9%95%B7-%E5%B1%B1%E7%94%B0%E9%80%B2%E5%A4%AA%E9%83%8E/umc.cmc.pwl2ktcfmllwozw2r8pl3i3m?showId=umc.cmc.15q35pao1wkg7nxhyysje9o8j",
+    "pass": 3
+   },
+   {
+    "quote": "メルカリ 山田 社長 、一気呵成のAIネーティブ化で始める「普通 ... — メルカリ 山田 社長 、一気呵成のAIネーティブ化で始める「普通 ... 日経ビジネス電子版 https://business.nikkei.com > 編集長インタビュー",
+    "url": "https://business.nikkei.com/atcl/NBD/19/00119/00350/",
+    "pass": 3
+   },
+   {
+    "quote": "メルカリ が「AI」と「スタートアップ回帰」を推進する理由 — メルカリ が「AI」と「スタートアップ回帰」を推進する理由 Forbes JAPAN https://forbesjapan.com > テクノロジー > AI",
+    "url": "https://forbesjapan.com/articles/detail/82714",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://jp.mercari.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://maximize.co.jp/760/innovation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://comtri.jp/business-model-mercari/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://about.mercari.com/ir/library/results/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://about.mercari.com/ir/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://about.mercari.com/sustainability/governance/governance-structure/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kitaishihon.com/company/4385/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessinsider.jp/article/292203/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tv.apple.com/jp/episode/%E3%83%A1%E3%83%AB%E3%82%AB%E3%83%AA%E7%A4%BE%E9%95%B7-%E5%B1%B1%E7%94%B0%E9%80%B2%E5%A4%AA%E9%83%8E/umc.cmc.pwl2ktcfmllwozw2r8pl3i3m?showId=umc.cmc.15q35pao1wkg7nxhyysje9o8j",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "メルカリ",
+   "results": [
+    "https://jp.mercari.com/?srsltid=AYCX9vLKYwYKny63B-ZHgl-ywqBw6OPUmauy5TvO-L7H3fejszLFzn-X",
+    "https://apps.apple.com/jp/app/%E3%83%95%E3%83%AA%E3%83%9E%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AF%E3%83%A1%E3%83%AB%E3%82%AB%E3%83%AA-%E3%83%A1%E3%83%AB%E3%83%9A%E3%82%A4%E3%81%AE%E3%82%B9%E3%83%9E%E3%83%9B%E6%B1%BA%E6%B8%88%E3%81%A7%E3%82%82%E3%81%A3%E3%81%A8%E3%81%8A%E5%BE%97/id667861049",
+    "https://about.mercari.com/",
+    "https://www.instagram.com/mercari_jp/",
+    "https://play.google.com/store/apps/details?id=com.kouzoh.mercari",
+    "https://careers.mercari.com/",
+    "https://grokipedia.com/page/Mercari_Mobile",
+    "http://mymacys.net/",
+    "https://login.macys.net/sso/WSFederationServlet/metaAlias/main/wsidp2?wa=wsignin1.0&wtrealm=urn:federation:MicrosoftOnline",
+    "https://login.macys.net/sso/XUI/"
+   ]
+  },
+  {
+   "query": "メルカリ ビジネスモデル",
+   "results": [
+    "https://maximize.co.jp/760/innovation/",
+    "https://comtri.jp/business-model-mercari/",
+    "https://www.procommitcareer.co.jp/growing/mercari_koizumi01",
+    "https://bizgram.zukai.co/f91db6798c27/n642g77bwtuc",
+    "https://note.com/umind558/n/nfe2a33dc065d",
+    "https://about.mercari.com/ir/strategy/business-description/",
+    "https://bizplan.media/?p=603",
+    "https://about.mercari.com/about/about-us/",
+    "https://vizologi.com/ja/business-strategy-canvas/mercari-business-model-canvas/",
+    "https://support.google.com/googlenest/answer/9245832?hl=en"
+   ]
+  },
+  {
+   "query": "メルカリ 決算説明資料",
+   "results": [
+    "https://about.mercari.com/ir/library/results/",
+    "https://about.mercari.com/ir/",
+    "https://about.mercari.com/ir/news/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260804508835/",
+    "https://pdf.irpocket.com/C4385/LXNk/vDVU/VCqm.pdf",
+    "https://about.mercari.com/ir/calendar/",
+    "https://froggy.smbcnikko.co.jp/55916/",
+    "https://ir-compass.com/ir_docs/%E3%83%A1%E3%83%AB%E3%82%AB%E3%83%AA2026%E5%B9%B46%E6%9C%88%E6%9C%9F3q%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99/",
+    "https://www.flyertalk.com/forum/delta-air-lines-skymiles/1966564-economy-vs-comfort-long-haul-a330.html",
+    "https://www.flyertalk.com/forum/delta-air-lines-skymiles/1943171-guide-getting-bumped-delta.html"
+   ]
+  },
+  {
+   "query": "メルカリ 事業系統図",
+   "results": [
+    "https://about.mercari.com/sustainability/governance/governance-structure/",
+    "https://kitaishihon.com/company/4385/business",
+    "https://tenshokupicks.jp/companies/mercari/81/",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100CY9H.pdf",
+    "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%AB%E3%82%AB%E3%83%AA",
+    "https://pj.mercari.com/impact-report/FY2025_6_ImpactReport_JP.pdf",
+    "https://pdf.irpocket.com/C4385/xoA3/IjHJ/Cxq7/siM8.pdf",
+    "https://bizgram.zukai.co/f91db6798c27/n642g77bwtuc",
+    "https://about.mercari.com/about/about-us/",
+    "https://www.reddit.com/r/Printify/comments/14er1z6/sample_promo_code/"
+   ]
+  },
+  {
+   "query": "メルカリ 社長 インタビュー",
+   "results": [
+    "https://www.businessinsider.jp/article/292203/",
+    "https://tv.apple.com/jp/episode/%E3%83%A1%E3%83%AB%E3%82%AB%E3%83%AA%E7%A4%BE%E9%95%B7-%E5%B1%B1%E7%94%B0%E9%80%B2%E5%A4%AA%E9%83%8E/umc.cmc.pwl2ktcfmllwozw2r8pl3i3m?showId=umc.cmc.15q35pao1wkg7nxhyysje9o8j",
+    "https://business.nikkei.com/atcl/NBD/19/00119/00350/",
+    "https://x.com/suadd",
+    "https://forbesjapan.com/articles/detail/82714",
+    "https://about.mercari.com/ir/strategy/message/",
+    "https://asm.asahi.com/article/11163325",
+    "https://cir.nii.ac.jp/crid/1520853832384801280",
+    "https://www.verywellhealth.com/acid-reflux-medicine-8770293",
+    "https://www.webmd.com/heartburn-gerd/treating-heartburn-over-counter-medicine"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索5回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索5回）",
+  "事業内容": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索5回）"
+ }
+}

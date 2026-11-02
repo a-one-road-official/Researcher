@@ -1,0 +1,1107 @@
+{
+ "name": "サイバートラスト",
+ "aliases": [],
+ "context": "証券コード4498／情報・通信業／グロース（内国株式）／2026.03期 売上高8,360百万円 営業利益率19.7%",
+ "researched_at": "2026-11-02T18:06:21.179914+00:00",
+ "official_url": "https://www.cybertrust.co.jp/",
+ "identified_by": "search:yahoo_jp:サイバートラスト",
+ "profile": {},
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "柔軟性と拡張性に優れたお客様ブランド認証局アウトソーシングサービス",
+    "url": "https://www.cybertrust.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の組込み Linux 製品に影響する脆弱性情報（CVE）を検査・対策",
+    "url": "https://www.cybertrust.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社はこの領域において、長年にわたり日本国内で自社の電子認証センターで電子認証局を運営し、数多くのユーザーやデバイスに電子証明書を発行してきた実績があります",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/web-report/",
+    "pass": 1
+   },
+   {
+    "quote": "それも利用者から信頼を得ている理由です",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/3minutes/",
+    "pass": 1
+   },
+   {
+    "quote": "導入されているお客様一例",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/3minutes/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客向けシステムにおけるBCP対策",
+    "url": "https://www.cybertrust.co.jp/miracle-linux/",
+    "pass": 1
+   },
+   {
+    "quote": "監視システムはどの環境にも必要で、かつ顧客データを取り扱う可能性も高いため、",
+    "url": "https://www.cybertrust.co.jp/zabbix/",
+    "pass": 1
+   },
+   {
+    "quote": "ZBX の Web フロントエンドのユーザーに対してパスワードポリシーを設定できるようになります",
+    "url": "https://www.cybertrust.co.jp/zabbix/",
+    "pass": 1
+   },
+   {
+    "quote": "またプラグインを追加することで MIRACLE ZBX で検知した障害情報をお客様が持つ既存システムと柔軟に連携し管理することも可能です",
+    "url": "https://www.cybertrust.co.jp/zabbix/",
+    "pass": 1
+   },
+   {
+    "quote": "※本構成は、お客様にてご用意いただいた HW 上に、サイバートラストにて製品を構築するソリューションパックとなります",
+    "url": "https://www.cybertrust.co.jp/zabbix/",
+    "pass": 1
+   },
+   {
+    "quote": "Zabbix 7.0 : 非特権ユーザーにおける障害画面の表示遅延と改善策",
+    "url": "https://www.cybertrust.co.jp/zabbix/",
+    "pass": 1
+   }
+  ],
+  "何を": [
+   {
+    "quote": "トラストサービス",
+    "url": "https://www.cybertrust.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "iTrust 本人確認サービス",
+    "url": "https://www.cybertrust.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "iTrust リモート署名サービス",
+    "url": "https://www.cybertrust.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "脆弱性診断サービス",
+    "url": "https://www.cybertrust.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "プラットフォームサービス",
+    "url": "https://www.cybertrust.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サーバーソリューション",
+    "url": "https://www.cybertrust.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "AlmaLinux OS サポートサービス",
+    "url": "https://www.cybertrust.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "CentOS ソリューション",
+    "url": "https://www.cybertrust.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "脆弱性管理ソリューション",
+    "url": "https://www.cybertrust.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "IoT 組込みソリューション",
+    "url": "https://www.cybertrust.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "IoT・組込み Linux サービス",
+    "url": "https://www.cybertrust.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "SBOM 管理 ＆ 脆弱性通知サービス",
+    "url": "https://www.cybertrust.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "超高速起動ソリューション Warp!!",
+    "url": "https://www.cybertrust.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "業界・目的別ソリューション",
+    "url": "https://www.cybertrust.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "トラストサービスのための電子認証基盤",
+    "url": "https://www.cybertrust.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サイバートラストの電子署名サービスがエメラダの金融機関向け業務支援プラットフォームに採用",
+    "url": "https://www.cybertrust.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サイバートラスト、データ主権確保を実現する PQC 対応可能な鍵管理サービスを提供開始",
+    "url": "https://www.cybertrust.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サイバートラスト、スマートホーム分野の業界標準規格「Matter」対応デバイスメーカー向けに認証局の構築・運用代行サービスを提供開始",
+    "url": "https://www.cybertrust.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "シヤチハタ、エヴィクサー、サイバートラスト、 来歴検証サービス「SIGNED SOUND」における C2PA 署名主体確認を実装",
+    "url": "https://www.cybertrust.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "SSL/TLS サーバー証明書発行サービス、S/MIME 証明書発行サービスに関するお知らせ",
+    "url": "https://www.cybertrust.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "SSL/TLS サーバー証明書をはじめとした電子認証サービスや電子証明書ソリューション、情報セキュリティサービスなどをご提供しております",
+    "url": "https://www.cybertrust.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "本人確認サービス、リモート署名サービス、電子署名用証明書はこちらから",
+    "url": "https://www.cybertrust.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "端末認証用証明書発行管理サービス",
+    "url": "https://www.cybertrust.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "認証局アウトソーシングサービス",
+    "url": "https://www.cybertrust.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "柔軟性と拡張性に優れたお客様ブランド認証局アウトソーシングサービス",
+    "url": "https://www.cybertrust.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "トラストサービス",
+    "url": "https://www.cybertrust.co.jp/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "iTrust 本人確認サービス",
+    "url": "https://www.cybertrust.co.jp/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "iTrust リモート署名サービス",
+    "url": "https://www.cybertrust.co.jp/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "脆弱性診断サービス",
+    "url": "https://www.cybertrust.co.jp/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "プラットフォームサービス",
+    "url": "https://www.cybertrust.co.jp/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "サーバーソリューション",
+    "url": "https://www.cybertrust.co.jp/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "AlmaLinux OS サポートサービス",
+    "url": "https://www.cybertrust.co.jp/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "CentOS ソリューション",
+    "url": "https://www.cybertrust.co.jp/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "脆弱性管理ソリューション",
+    "url": "https://www.cybertrust.co.jp/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "IoT 組込みソリューション",
+    "url": "https://www.cybertrust.co.jp/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "IoT・組込み Linux サービス",
+    "url": "https://www.cybertrust.co.jp/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "SBOM 管理 ＆ 脆弱性通知サービス",
+    "url": "https://www.cybertrust.co.jp/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "超高速起動ソリューション Warp!!",
+    "url": "https://www.cybertrust.co.jp/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "業界・目的別ソリューション",
+    "url": "https://www.cybertrust.co.jp/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション紹介",
+    "url": "https://www.cybertrust.co.jp/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "トラストサービス",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "iTrust 本人確認サービス",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "iTrust リモート署名サービス",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "脆弱性診断サービス",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "プラットフォームサービス",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "サーバーソリューション",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "AlmaLinux OS サポートサービス",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "CentOS ソリューション",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "脆弱性管理ソリューション",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "IoT 組込みソリューション",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "IoT・組込み Linux サービス",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "SBOM 管理 ＆ 脆弱性通知サービス",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "超高速起動ソリューション Warp!!",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "業界・目的別ソリューション",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "トラストサービス",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "iTrust 本人確認サービス",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "iTrust リモート署名サービス",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "脆弱性診断サービス",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "プラットフォームサービス",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "サーバーソリューション",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/message/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "販売パートナー",
+    "url": "https://www.cybertrust.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サイバートラストパートナーネットワークは、",
+    "url": "https://www.cybertrust.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー皆様のビジネスの成長に貢献できるよう販売支援、技術支援を行うパートナーエコシステムです",
+    "url": "https://www.cybertrust.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サイバートラストパートナーネットワーク詳細",
+    "url": "https://www.cybertrust.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "販売パートナー",
+    "url": "https://www.cybertrust.co.jp/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション紹介",
+    "url": "https://www.cybertrust.co.jp/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "販売パートナー",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "販売パートナー",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "販売パートナー",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/web-report/",
+    "pass": 1
+   },
+   {
+    "quote": "社会や技術の変化に応じて、当社に不足している技術や機能についても、新規事業開発やパートナー連携を通じて積極的に取り込んでいきたいと考えています",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/web-report/",
+    "pass": 1
+   },
+   {
+    "quote": "当社と価値観や方向性を共有できるパートナー企業とともに、新たな事業を立ち上げていくことも視野に入れています",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/web-report/",
+    "pass": 1
+   },
+   {
+    "quote": "iTrustのサービス内容や強み、導入事例も踏まえながら、今後の展望について紹介します",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/web-report/",
+    "pass": 1
+   },
+   {
+    "quote": "iTrustをより多く活用していただくためには、我々単独よりも、さまざまなパートナー企業様との連携が必要になります",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/web-report/",
+    "pass": 1
+   },
+   {
+    "quote": "このようにiTrustはパートナー企業様のサービスに「信頼を担保する仕組み」として組み込まれ、さまざまなデジタル取引の前提となる「トラスト基盤」として機能しています",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/web-report/",
+    "pass": 1
+   },
+   {
+    "quote": "販売パートナー",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/result/",
+    "pass": 1
+   },
+   {
+    "quote": "販売パートナー",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "販売パートナー",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/3minutes/",
+    "pass": 1
+   },
+   {
+    "quote": "使用した分（トランザクション）だけ収益が発生する従量課金制の収益増加のポイントは、利用回数が多いサービスを提供する企業とパートナーを組むこと",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/3minutes/",
+    "pass": 1
+   },
+   {
+    "quote": "販売パートナー",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "販売パートナー",
+    "url": "https://www.cybertrust.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "販売パートナー",
+    "url": "https://www.cybertrust.co.jp/miracle-linux/",
+    "pass": 1
+   },
+   {
+    "quote": "サイバートラスト パートナーネットワーク",
+    "url": "https://www.cybertrust.co.jp/miracle-linux/",
+    "pass": 1
+   },
+   {
+    "quote": "オープンソースを活用したサービスを提供する全国の企業に向けて、サイバートラストがオープンソースの技術情報提供とエンタープライズビジネスの知見を活かしたプリセールス支援を行うパートナーエコシステムです",
+    "url": "https://www.cybertrust.co.jp/miracle-linux/",
+    "pass": 1
+   },
+   {
+    "quote": "「MIRACLE LINUX」の導入や利用における技術支援と、CentOS Linux からの移行サービスを対象に、加入されたパートナー各社に向けて、オンライン・オフラインでの支援をいたします",
+    "url": "https://www.cybertrust.co.jp/miracle-linux/",
+    "pass": 1
+   },
+   {
+    "quote": "販売パートナー",
+    "url": "https://www.cybertrust.co.jp/vul-hammer/",
+    "pass": 1
+   },
+   {
+    "quote": "販売パートナー",
+    "url": "https://www.cybertrust.co.jp/zabbix/",
+    "pass": 1
+   },
+   {
+    "quote": "販売パートナー",
+    "url": "https://www.cybertrust.co.jp/corporate/about-cybertrust.html",
+    "pass": 1
+   },
+   {
+    "quote": "画像をクリックすると紹介動画を再生いただけます.",
+    "url": "https://www.cybertrust.co.jp/corporate/about-cybertrust.html",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "お問い合わせから最短でライセンスを発行する",
+    "url": "https://www.cybertrust.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "100 台規模の基幹システムを AlmaLinux に移行し、保守費用の大幅削減と脆弱性対策を実現",
+    "url": "https://www.cybertrust.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "リカーリング型",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/3minutes/",
+    "pass": 1
+   },
+   {
+    "quote": "リカーリング型収益モデル",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/3minutes/",
+    "pass": 1
+   },
+   {
+    "quote": "リカーリング型収益割合",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/3minutes/",
+    "pass": 1
+   },
+   {
+    "quote": "リカーリング型収益モデルを構築しています",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/3minutes/",
+    "pass": 1
+   },
+   {
+    "quote": "サイバートラストはこのリカーリング型収益モデルにより",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/3minutes/",
+    "pass": 1
+   },
+   {
+    "quote": "リカーリング型収益モデルとは？",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/3minutes/",
+    "pass": 1
+   },
+   {
+    "quote": "リカーリング型収益モデルは、",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/3minutes/",
+    "pass": 1
+   },
+   {
+    "quote": "従量課金制とは",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/3minutes/",
+    "pass": 1
+   },
+   {
+    "quote": "使った分だけ増える従量課金制",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/3minutes/",
+    "pass": 1
+   },
+   {
+    "quote": "使用した分（トランザクション）だけ収益が発生する従量課金制の収益増加のポイントは、利用回数が多いサービスを提供する企業とパートナーを組むこと",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/3minutes/",
+    "pass": 1
+   },
+   {
+    "quote": "お客さまのシステム用途に合わせ、お得なライセンス体系もご用意しています",
+    "url": "https://www.cybertrust.co.jp/miracle-linux/",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス無償の MIRACLE LINUX 8.4 リリースにともない、MIRACLE LINUX 8 Asianux Inside は販売終了しました",
+    "url": "https://www.cybertrust.co.jp/miracle-linux/",
+    "pass": 1
+   },
+   {
+    "quote": "RHEL / CentOS のアプリケーションと互換性があり、RHEL / CentOS互換 OS として利用できるライセンス無償の国産 Linux OS",
+    "url": "https://www.cybertrust.co.jp/miracle-linux/",
+    "pass": 1
+   },
+   {
+    "quote": "公式イメージはライセンス無償でご利用いただけます",
+    "url": "https://www.cybertrust.co.jp/miracle-linux/",
+    "pass": 1
+   },
+   {
+    "quote": "オープンソースでライセンスコストを削減",
+    "url": "https://www.cybertrust.co.jp/zabbix/",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026 年 11 月 20 日までの期間限定販売",
+    "url": "https://www.cybertrust.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年 10 月 26 日",
+    "url": "https://www.cybertrust.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年 10 月 22 日",
+    "url": "https://www.cybertrust.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年 10 月 19 日",
+    "url": "https://www.cybertrust.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年 09 月 28 日",
+    "url": "https://www.cybertrust.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年 09 月 02 日",
+    "url": "https://www.cybertrust.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年 11 月 02 日",
+    "url": "https://www.cybertrust.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年 10 月 28 日",
+    "url": "https://www.cybertrust.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年 10 月 30 日",
+    "url": "https://www.cybertrust.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年 10 月 29 日",
+    "url": "https://www.cybertrust.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月開催 DNP THE SESSION 2026 SPRING",
+    "url": "https://www.cybertrust.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期の決算説明において、中長期の成長イメージとして新たな成長領域を提示させていただきました",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/web-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年のサービス開始以降、DXの進展とともに導入は広がってきました",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/web-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年、世界経済フォーラム年次総会（ダボス会議）において、 DFFT（Data Free Flow with Trust：信頼性のある自由なデータ流通）という概念が国際的に打ち出されました",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/web-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 Web株主通信",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/web-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年 08 月 26 日",
+    "url": "https://www.cybertrust.co.jp/miracle-linux/",
+    "pass": 1
+   },
+   {
+    "quote": "2025 年 07 月 14 日",
+    "url": "https://www.cybertrust.co.jp/miracle-linux/",
+    "pass": 1
+   },
+   {
+    "quote": "2024 年 10 月 17 日",
+    "url": "https://www.cybertrust.co.jp/miracle-linux/",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年 10 月 21 日",
+    "url": "https://www.cybertrust.co.jp/miracle-linux/",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年 09 月 30 日",
+    "url": "https://www.cybertrust.co.jp/miracle-linux/",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年 08 月 12 日",
+    "url": "https://www.cybertrust.co.jp/miracle-linux/",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年 07 月 29 日",
+    "url": "https://www.cybertrust.co.jp/miracle-linux/",
+    "pass": 1
+   },
+   {
+    "quote": "2025 年の崖は終わっていない：Linux OS の EOL 問題が示す日本企業の DX 課題の現在地【後編】",
+    "url": "https://www.cybertrust.co.jp/miracle-linux/",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年 06 月 30 日",
+    "url": "https://www.cybertrust.co.jp/miracle-linux/",
+    "pass": 1
+   },
+   {
+    "quote": "2025 年の崖は終わっていない：Linux OS の EOL 問題が示す日本企業の DX 課題の現在地【前編】",
+    "url": "https://www.cybertrust.co.jp/miracle-linux/",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年 08 月 26 日",
+    "url": "https://www.cybertrust.co.jp/vul-hammer/",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年 08 月 20 日",
+    "url": "https://www.cybertrust.co.jp/vul-hammer/",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年 02 月 13 日",
+    "url": "https://www.cybertrust.co.jp/vul-hammer/",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年 09 月 14 日",
+    "url": "https://www.cybertrust.co.jp/zabbix/",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年 09 月 07 日",
+    "url": "https://www.cybertrust.co.jp/zabbix/",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年 07 月 01 日",
+    "url": "https://www.cybertrust.co.jp/zabbix/",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年 10 月 14 日",
+    "url": "https://www.cybertrust.co.jp/zabbix/",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年 09 月 01 日",
+    "url": "https://www.cybertrust.co.jp/zabbix/",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年 08 月 18 日",
+    "url": "https://www.cybertrust.co.jp/zabbix/",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年 08 月 03 日",
+    "url": "https://www.cybertrust.co.jp/zabbix/",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年 04 月 16 日",
+    "url": "https://www.cybertrust.co.jp/zabbix/",
+    "pass": 1
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "このように専門性の高い電子認証（またはトラストサービス）の分野は参入障壁が非常に高く、新規参入企業が短期間で構築できるものではありません",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/web-report/",
+    "pass": 1
+   },
+   {
+    "quote": "Matter対応の家電関連製品の製造は、台湾をはじめとしたアジア企業が強みを持っており、当社も台湾企業と協業しながら、家電製品向け認証サービスを展開しています",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/web-report/",
+    "pass": 1
+   },
+   {
+    "quote": "iTrustのサービス内容や強み、導入事例も踏まえながら、今後の展望について紹介します",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/web-report/",
+    "pass": 1
+   },
+   {
+    "quote": "他社のサービスと比べて、iTrustの強みはどこにありますか？",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/web-report/",
+    "pass": 1
+   },
+   {
+    "quote": "最大の強みは、30年の実績が生む「真似できない信頼」",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/web-report/",
+    "pass": 1
+   },
+   {
+    "quote": "技術的には参入可能であっても、「信頼」が重視される領域であるがゆえに、実質的な参入障壁は高いと考えています",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/web-report/",
+    "pass": 1
+   },
+   {
+    "quote": "iTrustの強みと選ばれる理由もここにあります",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/web-report/",
+    "pass": 1
+   },
+   {
+    "quote": "我々の強みは「このデータは本当に白です（信頼できる）」と言い切れることになります",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/web-report/",
+    "pass": 1
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "リカーリング型収益モデル",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/3minutes/",
+    "pass": 1
+   },
+   {
+    "quote": "リカーリング型収益モデルを構築しています",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/3minutes/",
+    "pass": 1
+   },
+   {
+    "quote": "サイバートラストはこのリカーリング型収益モデルにより",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/3minutes/",
+    "pass": 1
+   },
+   {
+    "quote": "リカーリング型収益モデルとは？",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/3minutes/",
+    "pass": 1
+   },
+   {
+    "quote": "リカーリング型収益モデルは、",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/3minutes/",
+    "pass": 1
+   },
+   {
+    "quote": "2つの収益構造から成り立っています",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/3minutes/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "3分でわかる サイバートラスト — 3分でわかる サイバートラスト サイバートラスト https://www.cybertrust.co.jp > corporate",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/3minutes/",
+    "pass": 3
+   },
+   {
+    "quote": "サイバートラスト — サイバートラスト サイバートラスト https://www.cybertrust.co.jp",
+    "url": "https://www.cybertrust.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "サイバートラスト の事業内容 — サイバートラスト の事業内容 サイバートラスト https://www.cybertrust.co.jp > business",
+    "url": "https://www.cybertrust.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "トップメッセージ - サイバートラスト — トップメッセージ - サイバートラスト サイバートラスト https://www.cybertrust.co.jp > corporate > message",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/message/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 - サイバートラスト — 決算説明資料 - サイバートラスト サイバートラスト https://www.cybertrust.co.jp > corporate > material",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/material/",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信 - サイバートラスト — 決算 短信 - サイバートラスト サイバートラスト https://www.cybertrust.co.jp > corporate > result",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/result/",
+    "pass": 3
+   },
+   {
+    "quote": "IR 情報 - サイバートラスト — IR 情報 - サイバートラスト サイバートラスト https://www.cybertrust.co.jp > corporate",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "有価証券報告書 - サイバートラスト — 有価証券報告書 - サイバートラスト サイバートラスト https://www.cybertrust.co.jp > corporate > secrities",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/secrities/",
+    "pass": 3
+   },
+   {
+    "quote": "【 サイバートラスト 】[4498]IR情報 中期経営計画や 決算 短信 — 【 サイバートラスト 】[4498]IR情報 中期経営計画や 決算 短信 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=4498",
+    "pass": 3
+   },
+   {
+    "quote": "サイバートラスト 企業情報トップ — サイバートラスト 企業情報トップ サイバートラスト https://www.cybertrust.co.jp > corporate",
+    "url": "https://www.cybertrust.co.jp/corporate/",
+    "pass": 3
+   },
+   {
+    "quote": "コーポレート・ガバナンス - サイバートラスト — コーポレート・ガバナンス - サイバートラスト サイバートラスト https://www.cybertrust.co.jp > corporate > governance",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/governance/",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報｜企業情報 - サイバートラスト — 会社情報｜企業情報 - サイバートラスト サイバートラスト https://www.cybertrust.co.jp > 企業情報",
+    "url": "https://www.cybertrust.co.jp/corporate/information.html",
+    "pass": 3
+   },
+   {
+    "quote": "サイバートラスト について｜企業情報 — サイバートラスト について｜企業情報 サイバートラスト https://www.cybertrust.co.jp > corporate > about-cybertrust",
+    "url": "https://www.cybertrust.co.jp/corporate/about-cybertrust.html",
+    "pass": 3
+   },
+   {
+    "quote": "Web 株主通信 2026 年版｜IR 情報 - サイバートラスト — Web 株主通信 2026 年版｜IR 情報 - サイバートラスト サイバートラスト https://www.cybertrust.co.jp > corporate > web-report",
+    "url": "https://www.cybertrust.co.jp/corporate/ir/web-report/2026.html",
+    "pass": 3
+   },
+   {
+    "quote": "サイバートラスト 社員 インタビュー — サイバートラスト 社員 インタビュー サイバートラスト https://www.cybertrust.co.jp > 採用情報",
+    "url": "https://www.cybertrust.co.jp/corporate/recruit/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "サイバートラスト 【4498】の 社長 ・役員 - キタイシホン — サイバートラスト 【4498】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/4498/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "サイバートラスト (4498) : IRwith(IR情報) 2026年3 ... - みんかぶ — サイバートラスト (4498) : IRwith(IR情報) 2026年3 ... - みんかぶ みんかぶ https://minkabu.jp > ... > 投稿記事一覧",
+    "url": "https://minkabu.jp/stock/4498/ir/articles/artic_hGWddn",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.cybertrust.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybertrust.co.jp/corporate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybertrust.co.jp/corporate/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybertrust.co.jp/corporate/ir/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybertrust.co.jp/corporate/ir/web-report/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.cybertrust.co.jp/corporate/ir/result/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybertrust.co.jp/corporate/ir/highlight/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybertrust.co.jp/corporate/ir/3minutes/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybertrust.co.jp/corporate/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybertrust.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybertrust.co.jp/miracle-linux/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybertrust.co.jp/vul-hammer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybertrust.co.jp/zabbix/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybertrust.co.jp/corporate/about-cybertrust.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.cybertrust.co.jp/business/img/business-domain.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": []
+ },
+ "search_log": [
+  {
+   "query": "サイバートラスト",
+   "results": [
+    "https://www.cybertrust.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%83%88%E3%83%A9%E3%82%B9%E3%83%88",
+    "https://www.nikkei.com/nkd/company/?scode=4498",
+    "https://kabutan.jp/stock/?code=4498",
+    "https://ja.wikipedia.org/wiki/サイバートラスト",
+    "https://grokipedia.com/page/Cybertrust_Japan",
+    "https://www.treasurydirect.gov/help-center/faqs/slgsafe-faqs/",
+    "https://www.treasurydirect.gov/tdhome.htm",
+    "https://www.treasurydirect.gov/files/government/fedinvest/fedInvest-caia-instructions.pdf",
+    "https://www.treasurydirect.gov/legal-information/terms/"
+   ]
+  },
+  {
+   "query": "サイバートラスト ビジネスモデル",
+   "results": [
+    "https://www.cybertrust.co.jp/corporate/ir/3minutes/",
+    "https://www.cybertrust.co.jp/",
+    "https://www.cybertrust.co.jp/business/",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250630/20250627502892.pdf",
+    "https://www.cybertrust.co.jp/corporate/ir/message/",
+    "https://www.cybertrust.co.jp/blog/",
+    "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%83%88%E3%83%A9%E3%82%B9%E3%83%88",
+    "https://www.cybertrust.co.jp/corporate/ir/",
+    "https://www.teldevice.co.jp/semiconductor/manufacturers/cybertrust/",
+    "https://en.wikipedia.org/wiki/Old_Friends_Senior_Dog_Sanctuary"
+   ]
+  },
+  {
+   "query": "サイバートラスト 決算説明資料",
+   "results": [
+    "https://www.cybertrust.co.jp/corporate/ir/material/",
+    "https://www.cybertrust.co.jp/corporate/ir/result/",
+    "https://www.cybertrust.co.jp/corporate/ir/",
+    "https://www.cybertrust.co.jp/corporate/ir/secrities/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=4498",
+    "https://www.cybertrust.co.jp/corporate/ir/news/",
+    "https://www.cybertrust.co.jp/corporate/ir/faq/",
+    "https://www.resorttrust.co.jp/ir/library/presentation/",
+    "https://community.withairbnb.com/t5/Help/AIRBNB-cannot-verify-Photo-ID/m-p/480873",
+    "https://community.withairbnb.com/t5/Help/boat-insurance/m-p/231780"
+   ]
+  },
+  {
+   "query": "サイバートラスト 事業系統図",
+   "results": [
+    "https://www.cybertrust.co.jp/corporate/",
+    "https://www.cybertrust.co.jp/",
+    "https://www.cybertrust.co.jp/corporate/ir/governance/",
+    "https://www.cybertrust.co.jp/corporate/information.html",
+    "https://www.cybertrust.co.jp/corporate/about-cybertrust.html",
+    "https://www.cybertrust.co.jp/corporate/ir/",
+    "https://www.cybertrust.co.jp/corporate/office.html",
+    "https://pdf.irpocket.com/C4498/OtX6/WoNA/FOHH.pdf",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250630/20250627502892.pdf"
+   ]
+  },
+  {
+   "query": "サイバートラスト 社長 インタビュー",
+   "results": [
+    "https://www.cybertrust.co.jp/corporate/ir/web-report/2026.html",
+    "https://www.cybertrust.co.jp/corporate/recruit/interview/",
+    "https://kitaishihon.com/company/4498/board-of-director",
+    "https://www.youtube.com/watch?v=j21rEBd-E5s",
+    "https://minkabu.jp/stock/4498/ir/articles/artic_hGWddn",
+    "https://kigyo-scope.jp/company/4498/ceo/",
+    "https://japan.zdnet.com/article/35227871/",
+    "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%83%88%E3%83%A9%E3%82%B9%E3%83%88",
+    "https://www.weeklybcn.com/journal/news/detail/20180323_161564.html",
+    "https://www.cprtraininghawaii.com/blog/when-should-responders-switch-during-cpr/"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部0頁・検索5回）",
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部0頁・検索5回）",
+  "事業内容": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部0頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部0頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部0頁・検索5回）"
+ }
+}

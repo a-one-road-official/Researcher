@@ -1,0 +1,631 @@
+{
+ "name": "ユーソナー",
+ "aliases": [],
+ "context": "証券コード431A／情報・通信業／グロース（内国株式）／2025.12期 売上高7,192百万円 営業利益率19.3%",
+ "researched_at": "2026-11-02T18:07:14.504954+00:00",
+ "official_url": "https://usonar.co.jp/",
+ "identified_by": "search:yahoo_jp:ユーソナー",
+ "profile": {},
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "顧客データ統合ソリューション",
+    "url": "https://usonar.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先の情報登録",
+    "url": "https://usonar.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "与信・取引先チェック",
+    "url": "https://usonar.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザー勉強会",
+    "url": "https://usonar.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客データ統合ソリューション",
+    "url": "https://usonar.co.jp/howto/businesscard/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先の情報登録",
+    "url": "https://usonar.co.jp/howto/businesscard/",
+    "pass": 1
+   },
+   {
+    "quote": "与信・取引先チェック",
+    "url": "https://usonar.co.jp/howto/businesscard/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザー勉強会",
+    "url": "https://usonar.co.jp/howto/businesscard/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客データ統合ソリューション",
+    "url": "https://usonar.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先の情報登録",
+    "url": "https://usonar.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "与信・取引先チェック",
+    "url": "https://usonar.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザー勉強会",
+    "url": "https://usonar.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客データ統合ソリューション",
+    "url": "https://usonar.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "取引先の情報登録",
+    "url": "https://usonar.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "与信・取引先チェック",
+    "url": "https://usonar.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザー勉強会",
+    "url": "https://usonar.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客データ統合ソリューション",
+    "url": "https://usonar.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "取引先の情報登録",
+    "url": "https://usonar.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "与信・取引先チェック",
+    "url": "https://usonar.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザー勉強会",
+    "url": "https://usonar.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "独自構築の法人データベース『LBC』と名寄せ・クレンジング技術により、顧客企業のDX推進・AI利活用を支援する企業です",
+    "url": "https://www.youtube.com/watch?v=nY3ZgmMoM9o",
+    "pass": 3
+   },
+   {
+    "quote": "【クラシコム20期連続増収増益】バズを捨てる最強戦略／熱狂しない経営の正体／なぜ顧客を追わないのか／持続的成長の完全方程式／PL直結の利益構造／【PIVOT BUSINESS】",
+    "url": "https://www.youtube.com/watch?v=nY3ZgmMoM9o",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "顧客データ統合ソリューション",
+    "url": "https://usonar.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "その他の提供サービス",
+    "url": "https://usonar.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "企業・製品ニュース",
+    "url": "https://usonar.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーソナーの製品一覧",
+    "url": "https://usonar.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス概要",
+    "url": "https://usonar.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "その他法人データ提供サービス",
+    "url": "https://usonar.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "登記ソナー(サービスサイト)",
+    "url": "https://usonar.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス(ユーソナー)",
+    "url": "https://usonar.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス資料",
+    "url": "https://usonar.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客データ統合ソリューション",
+    "url": "https://usonar.co.jp/howto/businesscard/",
+    "pass": 1
+   },
+   {
+    "quote": "その他の提供サービス",
+    "url": "https://usonar.co.jp/howto/businesscard/",
+    "pass": 1
+   },
+   {
+    "quote": "企業・製品ニュース",
+    "url": "https://usonar.co.jp/howto/businesscard/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーソナーの製品一覧",
+    "url": "https://usonar.co.jp/howto/businesscard/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス概要",
+    "url": "https://usonar.co.jp/howto/businesscard/",
+    "pass": 1
+   },
+   {
+    "quote": "その他法人データ提供サービス",
+    "url": "https://usonar.co.jp/howto/businesscard/",
+    "pass": 1
+   },
+   {
+    "quote": "登記ソナー(サービスサイト)",
+    "url": "https://usonar.co.jp/howto/businesscard/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス(ユーソナー)",
+    "url": "https://usonar.co.jp/howto/businesscard/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス資料",
+    "url": "https://usonar.co.jp/howto/businesscard/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客データ統合ソリューション",
+    "url": "https://usonar.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "その他の提供サービス",
+    "url": "https://usonar.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "企業・製品ニュース",
+    "url": "https://usonar.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーソナーの製品一覧",
+    "url": "https://usonar.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス概要",
+    "url": "https://usonar.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "その他法人データ提供サービス",
+    "url": "https://usonar.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "登記ソナー(サービスサイト)",
+    "url": "https://usonar.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス(ユーソナー)",
+    "url": "https://usonar.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス資料",
+    "url": "https://usonar.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客データ統合ソリューション",
+    "url": "https://usonar.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "その他の提供サービス",
+    "url": "https://usonar.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "企業・製品ニュース",
+    "url": "https://usonar.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "ユーソナーの製品一覧",
+    "url": "https://usonar.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス概要",
+    "url": "https://usonar.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "その他法人データ提供サービス",
+    "url": "https://usonar.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "登記ソナー(サービスサイト)",
+    "url": "https://usonar.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス(ユーソナー)",
+    "url": "https://usonar.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス資料",
+    "url": "https://usonar.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客データ統合ソリューション",
+    "url": "https://usonar.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "その他の提供サービス",
+    "url": "https://usonar.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "企業・製品ニュース",
+    "url": "https://usonar.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ユーソナーの製品一覧",
+    "url": "https://usonar.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス概要",
+    "url": "https://usonar.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "その他法人データ提供サービス",
+    "url": "https://usonar.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "登記ソナー(サービスサイト)",
+    "url": "https://usonar.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス(ユーソナー)",
+    "url": "https://usonar.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス資料",
+    "url": "https://usonar.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "【2026年8月期 通期決算説明会】日本PCサービス（6025） IR Live",
+    "url": "https://www.youtube.com/watch?v=nY3ZgmMoM9o",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "オフィス紹介",
+    "url": "https://usonar.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "オフィス紹介",
+    "url": "https://usonar.co.jp/howto/businesscard/",
+    "pass": 1
+   },
+   {
+    "quote": "オフィス紹介",
+    "url": "https://usonar.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "オフィス紹介",
+    "url": "https://usonar.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "オフィス紹介",
+    "url": "https://usonar.co.jp/company/history.html",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "企業概要・沿革",
+    "url": "https://usonar.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "企業概要・沿革",
+    "url": "https://usonar.co.jp/howto/businesscard/",
+    "pass": 1
+   },
+   {
+    "quote": "企業概要・沿革",
+    "url": "https://usonar.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "企業概要・沿革",
+    "url": "https://usonar.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "企業概要・沿革",
+    "url": "https://usonar.co.jp/company/history.html",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "企業データベース活用なら ユーソナー ｜ 法人企業データを ... — 企業データベース活用なら ユーソナー ｜ 法人企業データを ... ユーソナー https://usonar.co.jp",
+    "url": "https://usonar.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "「SaaS is Dead」「SaaS is Weak」を考える～AI時代に ... — 「SaaS is Dead」「SaaS is Weak」を考える～AI時代に ... ユーソナー https://usonar.co.jp > blog",
+    "url": "https://usonar.co.jp/blog/b_1696.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本最大級の法人企業データベース「LBC」と大規模言語 ... — 日本最大級の法人企業データベース「LBC」と大規模言語 ... ユーソナー https://usonar.co.jp > news",
+    "url": "https://usonar.co.jp/news/20230804_6127.html",
+    "pass": 3
+   },
+   {
+    "quote": "【IPO銘柄分析シリーズ】 ユーソナー （431A）法人データの ... — 【IPO銘柄分析シリーズ】 ユーソナー （431A）法人データの ... note https://note.com > ビジネス > スタートアップ・VC",
+    "url": "https://note.com/dejire/n/ne21569f0bafa",
+    "pass": 3
+   },
+   {
+    "quote": "uSonar（ ユーソナー ）の強みとは？主な機能・価格・導入 ... — uSonar（ ユーソナー ）の強みとは？主な機能・価格・導入 ... cloudfit.co.jp https://cloudfit.co.jp > article",
+    "url": "https://cloudfit.co.jp/article/228",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 - ユーソナー — 決算説明資料 - ユーソナー uSonar https://usonar.co.jp > library > presentation",
+    "url": "https://usonar.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "ユーソナー (431A) 決算説明 会【 資料 ・アンケートは概要欄 ... — ユーソナー (431A) 決算説明 会【 資料 ・アンケートは概要欄 ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=nY3ZgmMoM9o",
+    "pass": 3
+   },
+   {
+    "quote": "よくあるご質問 - ユーソナー — よくあるご質問 - ユーソナー ユーソナー https://usonar.co.jp > faq",
+    "url": "https://usonar.co.jp/ir/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "2026/08/07開催 ユーソナー (431A) 決算説明 会 オンライン開催 — 2026/08/07開催 ユーソナー (431A) 決算説明 会 オンライン開催 ログミーFinance https://finance.logmi.jp > IRイベント",
+    "url": "https://finance.logmi.jp/ir_event/1040",
+    "pass": 3
+   },
+   {
+    "quote": "電子公告・ 決算 公告 - ユーソナー — 電子公告・ 決算 公告 - ユーソナー uSonar https://usonar.co.jp > notices",
+    "url": "https://usonar.co.jp/ir/notices/",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報 - ユーソナー — 会社情報 - ユーソナー ユーソナー https://usonar.co.jp > company",
+    "url": "https://usonar.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス / 顧客データ統合ソリューション - ユーソナー — サービス / 顧客データ統合ソリューション - ユーソナー ユーソナー https://usonar.co.jp > service > usonar",
+    "url": "https://usonar.co.jp/service/usonar/index.php",
+    "pass": 3
+   },
+   {
+    "quote": "ユーソナー 、mソナーに「組織俯瞰図」機能を実装～保有する ... — ユーソナー 、mソナーに「組織俯瞰図」機能を実装～保有する ... PR TIMES https://prtimes.jp > 商品サービス",
+    "url": "https://prtimes.jp/main/html/rd/p/000000157.000005101.html",
+    "pass": 3
+   },
+   {
+    "quote": "代表メッセージ | ユーソナー — 代表メッセージ | ユーソナー ユーソナー https://usonar.co.jp > company > message",
+    "url": "https://usonar.co.jp/company/message.html",
+    "pass": 3
+   },
+   {
+    "quote": "ユーソナー 導入しDX推進中の事例、10社の インタビュー 記事 ... — ユーソナー 導入しDX推進中の事例、10社の インタビュー 記事 ... uSonar https://usonar.co.jp > news",
+    "url": "https://usonar.co.jp/news/20240207_416.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - ユーソナー — 会社概要 - ユーソナー ユーソナー https://usonar.co.jp > company > about",
+    "url": "https://usonar.co.jp/company/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "ユーソナー 17日上場 長竹克仁 社長 「あらゆるデータを一元 ... — ユーソナー 17日上場 長竹克仁 社長 「あらゆるデータを一元 ... 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXZQOUC298H00Z20C25A9000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ユーソナー ［431A］ IPO - YouTube — ユーソナー ［431A］ IPO - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=pNocmVhSOzM&vl=ja",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://usonar.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://usonar.co.jp/howto/businesscard/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://usonar.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://usonar.co.jp/company/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://usonar.co.jp/company/history.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://usonar.co.jp/_pack/img/howto_businesscard_kv_01.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.youtube.com/watch?v=nY3ZgmMoM9o",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ユーソナー",
+   "results": [
+    "https://usonar.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%82%BD%E3%83%8A%E3%83%BC",
+    "https://x.com/usonar_jp",
+    "https://www.hitachi-solutions.co.jp/usonar/",
+    "https://www.openwork.jp/a0910000000G2dO/pr/",
+    "https://ja.wikipedia.org/wiki/ユーソナー",
+    "https://usonar.co.jp/company/",
+    "https://finance.yahoo.co.jp/quote/431A.T",
+    "https://finance.yahoo.co.jp/quote/431A.T/profile",
+    "https://boxil.jp/service/7797/"
+   ]
+  },
+  {
+   "query": "ユーソナー ビジネスモデル",
+   "results": [
+    "https://usonar.co.jp/",
+    "https://usonar.co.jp/blog/b_1696.html",
+    "https://usonar.co.jp/news/20230804_6127.html",
+    "https://note.com/dejire/n/ne21569f0bafa",
+    "https://cloudfit.co.jp/article/228",
+    "https://usonar.co.jp/service/usonar/index.php",
+    "https://usonar.co.jp/case/20230329_162.html",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000G2dO&q_no=9",
+    "https://note.com/nobiru_kabu_inu/n/n2fcc36b0f73c",
+    "https://ja.wikipedia.org/wiki/ユーソナー"
+   ]
+  },
+  {
+   "query": "ユーソナー 決算説明資料",
+   "results": [
+    "https://usonar.co.jp/ir/library/presentation/",
+    "https://www.youtube.com/watch?v=nY3ZgmMoM9o",
+    "https://usonar.co.jp/ir/faq/",
+    "https://finance.logmi.jp/ir_event/1040",
+    "https://usonar.co.jp/ir/notices/",
+    "https://www.nikkei.com/nkd/company/disclose/?scode=431A",
+    "https://www.buffett-code.com/company/431A/library",
+    "https://kabutan.jp/news/marketnews/?b=n202605290310",
+    "https://usonar.co.jp/ir/management/message/",
+    "https://usonar.co.jp/ir/"
+   ]
+  },
+  {
+   "query": "ユーソナー 事業系統図",
+   "results": [
+    "https://usonar.co.jp/news/20260518_1763.html",
+    "https://usonar.co.jp/",
+    "https://usonar.co.jp/company/",
+    "https://usonar.co.jp/service/usonar/index.php",
+    "https://prtimes.jp/main/html/rd/p/000000157.000005101.html",
+    "https://cloudfit.co.jp/article/228",
+    "https://www.itreview.jp/products/usonar/profile",
+    "https://usonar.co.jp/case/core-database/",
+    "https://evort.jp/article/usonar-usonar",
+    "https://ja.wikipedia.org/wiki/ユーソナー"
+   ]
+  },
+  {
+   "query": "ユーソナー 社長 インタビュー",
+   "results": [
+    "https://usonar.co.jp/company/message.html",
+    "https://usonar.co.jp/news/20240207_416.html",
+    "https://usonar.co.jp/company/about.html",
+    "https://www.nikkei.com/article/DGXZQOUC298H00Z20C25A9000000/",
+    "https://www.youtube.com/watch?v=pNocmVhSOzM&vl=ja",
+    "https://note.com/usonar/n/nd173528fa0b1",
+    "https://usonar.co.jp/company/board.html",
+    "https://japan.cnet.com/extra/usonar_202512/35241651/",
+    "https://job.mynavi.jp/28/pc/search/corp105079/premium.html",
+    "https://www.youtube.com/watch?v=pNocmVhSOzM"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部1頁・検索5回）",
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部1頁・検索5回）",
+  "事業内容": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部1頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部1頁・検索5回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部1頁・検索5回）",
+  "お金の形": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部1頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部1頁・検索5回）",
+  "利益の源泉": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部1頁・検索5回）"
+ }
+}

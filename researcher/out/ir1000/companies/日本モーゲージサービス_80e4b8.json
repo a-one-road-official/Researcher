@@ -1,0 +1,920 @@
+{
+ "name": "日本モーゲージサービス",
+ "aliases": [],
+ "context": "証券コード7192／その他金融業／スタンダード（内国株式）／2026.03期 売上高7,960百万円 営業利益率19.9%",
+ "researched_at": "2026-11-02T18:06:08.071552+00:00",
+ "official_url": "",
+ "identified_by": "not_found",
+ "profile": {
+  "売上高": [
+   {
+    "label": "営業収益",
+    "value": "",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への営業収益",
+    "value": "3,625,693 3,308,839 631,252 7,565,785 － 7,565,785",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部 営業収益又は振替高",
+    "value": "－ 39,986 2,511 42,497 △42,497 －",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への営業収益",
+    "value": "3,907,185 3,374,740 678,302 7,960,229 － 7,960,229",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部 営業収益又は振替高",
+    "value": "－ 29,073 2,288 31,361 △31,361 －",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "ビジネスモデル": [
+   {
+    "quote": "独自のビジネスモデルにより、高い利益率と安定性を確保しています",
+    "url": "https://www.msj-group.jp/ir/individual/3minutes/",
+    "pass": 3
+   },
+   {
+    "quote": "MSJグループは、金融リスクを最小限に抑えた独自のビジネスモデルにより、高い利益率と安定性を実現しています",
+    "url": "https://www.msj-group.jp/ir/individual/3minutes/",
+    "pass": 3
+   },
+   {
+    "quote": "MSJグループは1996年の創業以来、「住宅金融とITの融合」にこだわって、住宅産業における新たなビジネスモデルをつくりだしてまいりました",
+    "url": "https://www.msj-group.jp/ir/individual/3minutes/",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループでは、一棟の住宅に対しローン・保険・保証等の金融サービスをクロス販売する積上げ型のビジネスモデルを推進し、事業シナジーに重点を置いた経営を行っております",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "BtoBtoC型のビジネスモデルとなり、住宅事業者の様々な販売ニーズに対応し「販売金融」として住宅ローンを提供することで、住宅事業者の販売促進の面で貢献しております",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "以上述べた内容を事業系統図によって示すと次のとおりとなります",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "1996年の創業以来、一貫して「中小住宅会社の経営課題を解決する」という使命を掲げ、住宅金融とITを融合させた独自のサービスを開発してきました",
+    "url": "https://www.msj-group.jp/ir/individual/3minutes/",
+    "pass": 3
+   },
+   {
+    "quote": "MSJグループ各社の専門性を結集し、住宅会社の販売支援・住宅品質に対するリスクヘッジ・業務効率化といった多様な課題を、90種以上のサービス群を組み合わせて解決しています",
+    "url": "https://www.msj-group.jp/ir/individual/3minutes/",
+    "pass": 3
+   },
+   {
+    "quote": "サービスを立ち上げるタイミングで専業の会社を設立した結果、現在のグループ5社の形になりました",
+    "url": "https://www.msj-group.jp/ir/individual/3minutes/",
+    "pass": 3
+   },
+   {
+    "quote": "住宅会社へ最適な経営支援ソリューションを提供しています",
+    "url": "https://www.msj-group.jp/ir/individual/3minutes/",
+    "pass": 3
+   },
+   {
+    "quote": "サービスは、以下の3つの事業セグメントで展開しています",
+    "url": "https://www.msj-group.jp/ir/individual/3minutes/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの事業は、住宅建設の初期営業段階から、引き渡し後のメンテナンス・リフォーム・売却まで、住宅ライフサイクル全体をカバーし、90種以上の商品で住生活を支えています",
+    "url": "https://www.msj-group.jp/ir/individual/3minutes/",
+    "pass": 3
+   },
+   {
+    "quote": "また、サービスを提供するだけでなくコンサルティングを重視し、住宅会社の多様な経営課題に応じた最適なソリューションを提案しています",
+    "url": "https://www.msj-group.jp/ir/individual/3minutes/",
+    "pass": 3
+   },
+   {
+    "quote": "「このサービスで変わった」―住宅会社のリアルな声",
+    "url": "https://www.msj-group.jp/ir/individual/3minutes/",
+    "pass": 3
+   },
+   {
+    "quote": "当社の住宅ローン商品は、原則として融資後すぐに債権を譲渡・売却するオフバランス型スキームを採用しています",
+    "url": "https://www.msj-group.jp/ir/individual/3minutes/",
+    "pass": 3
+   },
+   {
+    "quote": "また、新築住宅かし保険、地盤保証、住宅設備延長修理保証などの保険・保証商品においても、再保険によるオフバランス化を活用することで保険金支払いリスクや補修費用リスクを外部に移転し、財務健全性の維持に努めています",
+    "url": "https://www.msj-group.jp/ir/individual/3minutes/",
+    "pass": 3
+   },
+   {
+    "quote": "（日本モーゲージサービス株式会社）",
+    "url": "https://www.msj-group.jp/ir/individual/3minutes/",
+    "pass": 3
+   },
+   {
+    "quote": "日本モーゲージサービス【7192】の事業内容 - キタイシホン",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "日本モーゲージサービス",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、当社及び連結子会社３社（株式会社ハウスジーメン、株式会社住宅アカデメイア、一般社団法人住宅技術協議会）にて構成されており、中小規模の住宅事業者への経営支援を目的として、住宅分野に特化したローン・保険・保証等の金融サービスや住宅事業クラウドシステム等を提供しております",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "事業・サービスの主な内容",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "フラット３５をはじめとした、住宅ローン等住宅金融サービスの提供",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "・日本モーゲージサービス株式会社（当社）",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "住宅瑕疵（かし）保険をはじめとした、住宅の品質確保のための商品・サービス等の提供",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "住宅引渡後の住宅保証サービスや、住宅事業クラウドシステム等の提供",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループでは、一棟の住宅に対しローン・保険・保証等の金融サービスをクロス販売する積上げ型のビジネスモデルを推進し、事業シナジーに重点を置いた経営を行っております",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "住宅が建設され、メンテナンスやリフォームを行いながら生活し、やがて中古住宅流通等にて次世代へと住み継がれる長い住宅ライフサイクルにおいて必要となる、ローン・保険・保証等の金融サービスをカバーし、クラウドと一体で提供できる住宅金融サービス会社は、唯一となります",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "サービス概念図は下図のとおりになります",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "独立行政法人住宅金融支援機構（以下、「住宅金融支援機構」という）との提携による「フラット３５」をはじめ、住宅ローン（固定金利型及び変動金利型）並びにつなぎローン等の住宅金融サービスを、住宅事業者を介して消費者（住宅資金需要者）に貸付けております",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "主な商品・サービスの概要は以下のとおりになります",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "商品・サービス",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "他にも、住宅性能評価など、住宅建設分野における様々な審査・検査サービスおよび地盤保証等を住宅事業者に提供し、住宅品質の確保や可視化に貢献しております",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお全ての保険・保証等サービスに関しては、再保険等の仕組みによりリスクを最小化しております",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループにおける新規事業を担うセグメントとして、各種住宅保証サービスの提供および、住宅事業クラウドシステムの開発をしております",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "多くの中小住宅事業者が抱えるストック型事業への転換という経営課題を、住宅保証サービスをはじめとしたアフターメンテナンス分野の保証商品で支援し、また住宅事業クラウドを基軸に住宅事業者のDX化・経営合理化に貢献しております",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "当事業における主な収入は、住宅メンテナンス保証等の住宅保証サービスの役務提供による、住宅保証サービス管理収入（アドミニストレーションフィー）等となっております",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお保証等サービスに関しては、再保険等の仕組みによりリスクを最小化しております",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "このような事業環境のもと、当社グループは創業当時から掲げる「住宅事業者の経営を支援し、住宅産業の課題を解決する」という基本方針に基づき、グループ一体となり差別化を訴求する営業活動や、住宅事業者のサポート業務、住宅事業者の多角化経営を支援するための中古住宅向け戦略商品の開発検討等に注力し、各事業を推進いたしました",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "住宅金融事業におきましては、事業の継続的成長に向け商品の多角化を推進するとともに、幅広い商品ラインナップやコンサルティング力等の強みを活かし、住宅事業者への経営支援やサポートを推進いたしました",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度における融資実行件数（銀行代理ローン商品及び提携ローン商品を除く）は前年同期比で5.6％の増加となり、なかでも主力商品である「ＭＳＪフラット３５」の融資実行件数が増加しました",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、融資手数料の価格競争が激化するなかにおいても、当社では住宅事業者への販売支援により差別化を強化し買取再販ローンを推進する等、商品の多角化による地道な収益積上げを行い、収益性の向上に努めました",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "住宅瑕疵保険等事業におきましては、主力商品である戸建住宅及び共同住宅の「新築住宅かし保険」の販売を推進するため、従前より注力しております住宅事業クラウドシステム「助っ人クラウド」及び「地盤保証」の同時提案による差別化を前面に打ち出した積極的な営業活動を展開・継続し、幅広い商品ラインナップを組み合わせて住宅事業者の経営支援を行う等、クロス販売を推進いたしました",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "（日本モーゲージサービス株式会社）",
+    "url": "https://www.msj-group.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "【日本モーゲージサービス】[7192]IR情報 中期経営計画や決算短信 | 日経電子版",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=7192",
+    "pass": 3
+   },
+   {
+    "quote": "日本モーゲージサービス",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=7192",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=7192",
+    "pass": 3
+   },
+   {
+    "quote": "日本モーゲージサービス（MSJグループ）、noteはじめます｜日本モーゲージサービス株式会社（7192）｜MSJグループ",
+    "url": "https://note.com/msj_group/n/nc00cc5e1d155",
+    "pass": 3
+   },
+   {
+    "quote": "日本モーゲージサービス（MSJグループ）、noteはじめます",
+    "url": "https://note.com/msj_group/n/nc00cc5e1d155",
+    "pass": 3
+   },
+   {
+    "quote": "日本モーゲージサービス株式会社（7192）｜MSJグループ",
+    "url": "https://note.com/msj_group/n/nc00cc5e1d155",
+    "pass": 3
+   },
+   {
+    "quote": "日本モーゲージサービス株式会社（東証スタンダード：7192）のIR・広報担当です",
+    "url": "https://note.com/msj_group/n/nc00cc5e1d155",
+    "pass": 3
+   },
+   {
+    "quote": "株主や投資家の皆さまをはじめ、多くの方に日本モーゲージサービスおよびMSJグループを知っていただけるよう、様々な情報を発信していく予定です",
+    "url": "https://note.com/msj_group/n/nc00cc5e1d155",
+    "pass": 3
+   },
+   {
+    "quote": "MSJグループは、住宅金融事業を展開する日本モーゲージサービス株式会社と、連結子会社である、株式会社ハウスジーメン、株式会社住宅アカデメイア、一般社団法人住宅技術協議会、および非連結子会社である、株式会社GAI建築確認によって構成される、独立系の企業グループです",
+    "url": "https://note.com/msj_group/n/nc00cc5e1d155",
+    "pass": 3
+   },
+   {
+    "quote": "日本モーゲージサービスは、英語表記：",
+    "url": "https://note.com/msj_group/n/nc00cc5e1d155",
+    "pass": 3
+   },
+   {
+    "quote": "提供するサービスは、日本モーゲージサービスではフラット35をはじめとした「",
+    "url": "https://note.com/msj_group/n/nc00cc5e1d155",
+    "pass": 3
+   },
+   {
+    "quote": "MSJグループのサービスラインナップは、住宅金融分野において長い住宅ライフサイクルをカバーする唯一の存在だと自負しております",
+    "url": "https://note.com/msj_group/n/nc00cc5e1d155",
+    "pass": 3
+   },
+   {
+    "quote": "MSJグループの商品はB to B to Cモデルで提供しており、",
+    "url": "https://note.com/msj_group/n/nc00cc5e1d155",
+    "pass": 3
+   },
+   {
+    "quote": "ですが、もしかしたら皆さんのお住まいも、住宅会社さんを通じてわたしたちのサービスが支えているのかもしれませんね",
+    "url": "https://note.com/msj_group/n/nc00cc5e1d155",
+    "pass": 3
+   },
+   {
+    "quote": "MSJグループの事業や提供するサービスはもちろんのこと、住宅市場の動向についても発信していきます",
+    "url": "https://note.com/msj_group/n/nc00cc5e1d155",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料の解説、決算説明会や開示情報などのお知らせ、よくある質問と回答など、日本モーゲージサービスの決算について詳細をお伝えしていきます",
+    "url": "https://note.com/msj_group/n/nc00cc5e1d155",
+    "pass": 3
+   },
+   {
+    "quote": "日本モーゲージサービス",
+    "url": "https://note.com/msj_group/n/nc00cc5e1d155",
+    "pass": 3
+   },
+   {
+    "quote": "日本モーゲージサービス株式会社（7192）のIR・広報担当が発信するnoteです",
+    "url": "https://note.com/msj_group/n/nc00cc5e1d155",
+    "pass": 3
+   },
+   {
+    "quote": "日本モーゲージサービス 株式会社",
+    "url": "https://www.msj-group.jp/recruit-info/interview-list/",
+    "pass": 3
+   },
+   {
+    "quote": "多彩な金融商品を提供する",
+    "url": "https://www.msj-group.jp/recruit-info/interview-list/",
+    "pass": 3
+   },
+   {
+    "quote": "新たなサービスを構築し",
+    "url": "https://www.msj-group.jp/recruit-info/interview-list/",
+    "pass": 3
+   },
+   {
+    "quote": "（日本モーゲージサービス株式会社）",
+    "url": "https://www.msj-group.jp/recruit-info/interview-list/",
+    "pass": 3
+   },
+   {
+    "quote": "日本モーゲージサービス［7192］東証１部 NS - YouTube",
+    "url": "https://www.youtube.com/watch?v=qh3TsOeoVkY",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "MSJグループの概要を１分動画でご紹介しています",
+    "url": "https://www.msj-group.jp/ir/individual/3minutes/",
+    "pass": 3
+   },
+   {
+    "quote": "住宅会社をはじめとした活用事例を、インタビュー形式で公式noteにてご紹介しています",
+    "url": "https://www.msj-group.jp/ir/individual/3minutes/",
+    "pass": 3
+   },
+   {
+    "quote": "ローン取扱事業会社やコンサルティング会社等とアライアンスパートナー・代理店として契約し、全国に販売チャネルを持ち、広告宣伝によらない営業展開を行っております",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "販売費及び一般管理費は、住宅金融事業において代理店手数料が増加したことにより、前連結会計年度と比較して98,182千円増加し、4,109,212千円（同2.4％増）となりました",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=7192",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=7192",
+    "pass": 3
+   },
+   {
+    "quote": "note pro自己紹介記事まとめ",
+    "url": "https://note.com/msj_group/n/nc00cc5e1d155",
+    "pass": 3
+   },
+   {
+    "quote": "多様なフィールドで活躍し、チャレンジし続けるMSJグループの社員をご紹介",
+    "url": "https://www.msj-group.jp/recruit-info/interview-list/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "一般的に銀行では貸付債権を保有して利息収入を得る一方で、当社では住宅ローン契約に伴う手数料（融資事務手数料など）を主な収益源としています",
+    "url": "https://www.msj-group.jp/ir/individual/3minutes/",
+    "pass": 3
+   },
+   {
+    "quote": "当事業における主な収入は、住宅ローンの融資実行による融資手数料収入、利息収入およびサービシングフィー収入等となっております",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "多くの中小住宅事業者が抱えるストック型事業への転換という経営課題を、住宅保証サービスをはじめとしたアフターメンテナンス分野の保証商品で支援し、また住宅事業クラウドを基軸に住宅事業者のDX化・経営合理化に貢献しております",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "融資金額においても住宅価格高騰等の影響により増加し、融資手数料収入を押し上げる要因となりました",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、融資手数料の価格競争が激化するなかにおいても、当社では住宅事業者への販売支援により差別化を強化し買取再販ローンを推進する等、商品の多角化による地道な収益積上げを行い、収益性の向上に努めました",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "販売費及び一般管理費は、住宅金融事業において代理店手数料が増加したことにより、前連結会計年度と比較して98,182千円増加し、4,109,212千円（同2.4％増）となりました",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "、WORLD MARKETZ / ストックボイス公式",
+    "url": "https://www.youtube.com/watch?v=qh3TsOeoVkY",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "サービスは、以下の3つの事業セグメントで展開しています",
+    "url": "https://www.msj-group.jp/ir/individual/3minutes/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの概要は以下のとおりになります",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名称",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの中核となるセグメントです",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、３つのセグメントのなかで取引先となる住宅事業者の数が最も多く、住宅業界における当社グループネットワークの拡大に寄与しております",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループにおける新規事業を担うセグメントとして、各種住宅保証サービスの提供および、住宅事業クラウドシステムの開発をしております",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントごとの経営成績は次のとおりです",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度の販売実績をセグメントごとに示すと、次のとおりです",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "（注）セグメント間の取引については相殺消去しております",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループのセグメントのうち、住宅金融事業では、住宅ローンの貸付に必要な資金を銀行より借入れることにより調達しております",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "（セグメント情報等）",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 報告セグメントの概要",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの報告セグメントは、当社の構成単位のうち分離された財務情報が入手可能であり、取締役会が、経営資源の配分の決定及び業績を評価するために、定期的に検討を行う対象となっているものです",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループはサービス別の事業単位から構成されており、経済的特徴やサービスの内容等が概ね類似している事業セグメントを集約した「住宅金融事業」「住宅瑕疵保険等事業」「住宅アカデメイア事業」の３つを報告セグメントとしております",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 報告セグメントごとの営業収益、利益又は損失、資産その他の項目の金額の算定方法",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告されている事業セグメントの会計処理方法は、「連結財務諸表作成のための基本となる重要な事項」における記載と概ね同一です",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告セグメントの利益は、営業利益ベースの数値であります",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント間の内部営業収益及び振替高は市場価格等に基づいております",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "1996年の創業以来、一貫して「中小住宅会社の経営課題を解決する」という使命を掲げ、住宅金融とITを融合させた独自のサービスを開発してきました",
+    "url": "https://www.msj-group.jp/ir/individual/3minutes/",
+    "pass": 3
+   },
+   {
+    "quote": "1978年に林業の会社を創業し、住宅設計ソフト（CAD）会社や住宅専門のシンクタンクを経験",
+    "url": "https://www.msj-group.jp/ir/individual/3minutes/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期有価証券報告書より",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月3日（火）",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=7192",
+    "pass": 3
+   },
+   {
+    "quote": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=7192",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期第１四半期 決算説明資料",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=7192",
+    "pass": 3
+   },
+   {
+    "quote": "2024年12月19日 11:11",
+    "url": "https://note.com/msj_group/n/nc00cc5e1d155",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期第２四半期（中間期）決算説明資料",
+    "url": "https://note.com/msj_group/n/nc00cc5e1d155",
+    "pass": 3
+   },
+   {
+    "quote": "2018年09月13日 東証１部に上場となりました",
+    "url": "https://www.youtube.com/watch?v=qh3TsOeoVkY",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月30日 驚愕の決算！ 半導体企業は儲かりすぎ！【朝倉慶の株式投資・株式相場解説】",
+    "url": "https://www.youtube.com/watch?v=qh3TsOeoVkY",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "また、３つのセグメントのなかで取引先となる住宅事業者の数が最も多く、住宅業界における当社グループネットワークの拡大に寄与しております",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "こうした環境のなか、当社グループの顧客層である全国の中小住宅事業者（工務店・ビルダー）を取り巻く経営環境は一層厳しさを増し、与信力の低下等により資金繰りが悪化するケースも増加しました",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、金融サービスを取り扱っており、また主に住宅・不動産関連の業界に属する住宅事業者及び住宅を購入等する消費者を顧客としていることから、金利、住宅の建設・流通、国内の人口等の動向や不動産に関わる税制や消費税法の改正等の影響を受けることがあります",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社は顧客への貸付を行うと同時に、当該貸付債権を独立行政法人住宅金融支援機構に譲渡し、この譲渡代金を銀行からの借入金返済に充てております",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "増収も主要な目標のひとつと考えておりますが、顧客・投資家・株主・従業員・社会等のステークホルダーに対する責任を果たすためには、健全で積極的な投資を継続し持続的に成長していくことが肝要であるとの価値観から、増収よりも増益に重きを置き、「営業利益」を重要な指標として位置付けております",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への営業収益",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "本邦以外の外部顧客への営業収益がないため、該当事項はありません",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "(3) 主要な顧客ごとの情報",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への営業収益のうち、連結損益計算書の営業収益の10％以上を占める相手先がないため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "住宅瑕疵（かし）保険を販売できるのは、全国でも国土交通大臣が指定した５法人のみであり、参入障壁の高い事業となっております",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "住宅金融事業におきましては、事業の継続的成長に向け商品の多角化を推進するとともに、幅広い商品ラインナップやコンサルティング力等の強みを活かし、住宅事業者への経営支援やサポートを推進いたしました",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "日本モーゲージサービス 【7192】の事業内容 - キタイシホン — 日本モーゲージサービス 【7192】の事業内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "3分でわかるMSJグループ｜ 日本モーゲージサービス 株式会社 ... — 3分でわかるMSJグループ｜ 日本モーゲージサービス 株式会社 ... note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/msj_group/n/nd7c485392125",
+    "pass": 3
+   },
+   {
+    "quote": "日本モーゲージサービス 株式会社 の求人・中途採用情報 - doda — 日本モーゲージサービス 株式会社 の求人・中途採用情報 - doda doda https://doda.jp > CompanyJobs > j_id__10092619323",
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10092619323/",
+    "pass": 3
+   },
+   {
+    "quote": "日本モーゲージサービス ［7192］東証1部 NS - YouTube — 日本モーゲージサービス ［7192］東証1部 NS - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=qh3TsOeoVkY",
+    "pass": 3
+   },
+   {
+    "quote": "【 日本モーゲージサービス 】[7192]IR情報 中期経営計画や 決算 ... — 【 日本モーゲージサービス 】[7192]IR情報 中期経営計画や 決算 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=7192",
+    "pass": 3
+   },
+   {
+    "quote": "日本モーゲージサービス - (訂正版)2026年3月期 決算説明資料 — 日本モーゲージサービス - (訂正版)2026年3月期 決算説明資料 NewsPicks https://newspicks.com > news",
+    "url": "https://newspicks.com/news/16758418/",
+    "pass": 3
+   },
+   {
+    "quote": "日本モーゲージサービス 【7192】の 事業 内容 - キタイシホン — 日本モーゲージサービス 【7192】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/7192/business",
+    "pass": 3
+   },
+   {
+    "quote": "はじめまして。 日本モーゲージサービス （MSJグループ） - note — はじめまして。 日本モーゲージサービス （MSJグループ） - note note https://note.com > 投資・マネー > 投資・マネー全般",
+    "url": "https://note.com/msj_group/n/nc00cc5e1d155",
+    "pass": 3
+   },
+   {
+    "quote": "住宅の建築を計画されるお客様 - 日本モーゲージサービス — 住宅の建築を計画されるお客様 - 日本モーゲージサービス 日本モーゲージサービス株式会社 https://www.m-s-j.jp > meetyourneeds > plan2",
+    "url": "https://www.m-s-j.jp/meetyourneeds/plan2.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本モーゲージサービス 【7192】の 社長 ・役員 - キタイシホン — 日本モーゲージサービス 【7192】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/7192/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "日本モーゲージサービス 株式会社（7192）｜MSJグループ - note — 日本モーゲージサービス 株式会社（7192）｜MSJグループ - note note https://note.com > msj_group",
+    "url": "https://note.com/msj_group",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.msj-group.jp/ir/individual/3minutes/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/7192/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.msj-group.jp/ir/library/presentation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=7192",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/7192/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/msj_group/n/nc00cc5e1d155",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.msj-group.jp/recruit-info/interview-list/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=qh3TsOeoVkY",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日本モーゲージサービス",
+   "results": [
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=7192",
+    "https://www.m-s-j.jp/meetyourneeds/plan4-proposalA.html",
+    "https://www.msj-group.jp/",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10092619323/",
+    "https://www.youtube.com/watch?v=qh3TsOeoVkY",
+    "https://www.openwork.jp/company.php?m_id=a0C10000010Yuyo",
+    "https://note.com/msj_group",
+    "https://ja.wikipedia.org/wiki/日本モーゲージサービス",
+    "https://ja.wikipedia.org/wiki/日本",
+    "https://zh.wikipedia.org/wiki/日本"
+   ]
+  },
+  {
+   "query": "株式会社日本モーゲージサービス",
+   "results": [
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=7192",
+    "https://www.m-s-j.jp/meetyourneeds/plan1-proposalC.html",
+    "https://www.openwork.jp/company.php?m_id=a0C10000010Yuyo",
+    "https://www.msj-group.jp/",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10092619323/",
+    "https://note.com/msj_group",
+    "https://kitaishihon.com/company/7192/business",
+    "https://www.r-agent.com/company/66170/",
+    "https://www.yahoo.com/",
+    "https://www.reddit.com/r/fantasyhockey/comments/al8qv0/yahoo_minimum_goalie_starts/"
+   ]
+  },
+  {
+   "query": "日本モーゲージサービス 株式会社",
+   "results": [
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=7192",
+    "https://www.m-s-j.jp/meetyourneeds/plan1-proposalC.html",
+    "https://www.msj-group.jp/",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10092619323/",
+    "https://www.openwork.jp/company.php?m_id=a0C10000010Yuyo",
+    "https://note.com/msj_group",
+    "https://sharedresearch.jp/ja/companies/7192",
+    "https://kitaishihon.com/company/7192/business",
+    "https://ja.wikipedia.org/wiki/日本",
+    "https://zh.wikipedia.org/wiki/日本"
+   ]
+  },
+  {
+   "query": "日本モーゲージサービス ビジネスモデル",
+   "results": [
+    "https://www.msj-group.jp/ir/individual/3minutes/",
+    "https://kitaishihon.com/company/7192/business",
+    "https://note.com/msj_group/n/nd7c485392125",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10092619323/",
+    "https://www.youtube.com/watch?v=qh3TsOeoVkY",
+    "https://www.fisco.co.jp/wordpress/wp-content/uploads/msj20190610.pdf",
+    "https://www.m-s-j.jp/meetyourneeds/plan2.html",
+    "https://note.com/msj_group/n/n91346d4e039c",
+    "https://www.youtube.com/watch?v=nYjjpfHVXEw",
+    "https://ja.wikipedia.org/wiki/日本"
+   ]
+  },
+  {
+   "query": "日本モーゲージサービス 決算説明資料",
+   "results": [
+    "https://www.msj-group.jp/ir/library/presentation/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=7192",
+    "https://www.msj-group.jp/ir/",
+    "https://note.com/msj_group/n/n91346d4e039c",
+    "https://newspicks.com/news/16758418/",
+    "https://www.msj-group.jp/ir/library/event-archive/",
+    "https://www.m-s-j.jp/download/1-4.html",
+    "https://www.fisco.co.jp/wordpress/wp-content/uploads/msj20190610.pdf",
+    "https://ja.wikipedia.org/wiki/日本",
+    "https://zh.wikipedia.org/wiki/日本"
+   ]
+  },
+  {
+   "query": "日本モーゲージサービス 事業系統図",
+   "results": [
+    "https://kitaishihon.com/company/7192/business",
+    "https://note.com/msj_group/n/nc00cc5e1d155",
+    "https://www.m-s-j.jp/meetyourneeds/plan2.html",
+    "https://www.msj-group.jp/vision/ourbusiness/",
+    "https://www.youtube.com/watch?v=qh3TsOeoVkY",
+    "https://note.com/msj_group/n/n91346d4e039c",
+    "https://www.fisco.co.jp/wordpress/wp-content/uploads/msj20190610.pdf",
+    "https://www.ipokiso.com/company/2016/m-s-j.html",
+    "https://diamond.jp/zai/articles/-/107984",
+    "https://ja.wikipedia.org/wiki/日本"
+   ]
+  },
+  {
+   "query": "日本モーゲージサービス 社長 インタビュー",
+   "results": [
+    "https://www.msj-group.jp/recruit-info/interview-list/",
+    "https://www.youtube.com/watch?v=qh3TsOeoVkY",
+    "https://kitaishihon.com/company/7192/board-of-director",
+    "https://note.com/msj_group",
+    "https://www.nikkei.com/article/DGXMZO10345400W6A201C1000000/",
+    "https://www.msj-group.jp/recruit-info/interview-list/interview-detail-007/",
+    "https://note.com/msj_group/n/n91346d4e039c",
+    "https://www.openwork.jp/company.php?m_id=a0C10000010Yuyo",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10092619323/",
+    "https://ja.wikipedia.org/wiki/日本"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）",
+  "従業員数": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）",
+  "事業内容": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）"
+ }
+}

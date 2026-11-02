@@ -1,0 +1,1407 @@
+{
+ "name": "ワークマン",
+ "aliases": [],
+ "context": "証券コード7564／小売業／スタンダード（内国株式）／2026.03期 売上高160,851百万円 営業利益率18.5%",
+ "researched_at": "2026-11-02T18:10:09.999583+00:00",
+ "official_url": "https://workman.jp/",
+ "identified_by": "search:yahoo_jp:ワークマン",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立年月日",
+    "value": "1979年11月30日 (実質上の存続会社であります株式会社ワークマンの設立年月日は　1982年8月19日)",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E4%BC%81%E6%A5%AD%E6%A6%82%E8%A6%81",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "フランチャイズシステムで作業服、作業関連用品、アウトドア・スポーツウエア及びカジュアルウエアを販売する専門店をチェーン展開",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E4%BC%81%E6%A5%AD%E6%A6%82%E8%A6%81",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "440名（2026年3月末現在）",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E4%BC%81%E6%A5%AD%E6%A6%82%E8%A6%81",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "サービス・ガイド",
+    "url": "https://workman.jp/shop/default.aspx",
+    "pass": 1
+   },
+   {
+    "quote": "商品カタログ",
+    "url": "https://workman.jp/shop/default.aspx",
+    "pass": 1
+   },
+   {
+    "quote": "商品カテゴリー",
+    "url": "https://workman.jp/shop/default.aspx",
+    "pass": 1
+   },
+   {
+    "quote": "当サイトではより良いサービス提供の為、Cookieを利用しております",
+    "url": "https://workman.jp/shop/default.aspx",
+    "pass": 1
+   },
+   {
+    "quote": "ワークマンが提供するサービスとは何か",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "それは大きく分類して「商品」「価格」「フランチャイズシステム」 「フレンドリーサービス」「ネットワーク」「社会貢献」に集約することができます",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "その人たちが、それぞれの分野において最良の環境で仕事ができるよう、優れたサービスを提供していくのが私たちの役割です",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "現在は一般のお客様にも、日常生活やレジャーシーンでご利用いただける様に、サービスを拡大しております",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "プロの人たちが満足できる商品の提供",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "様々な現場で働く人たちに、その作業に最適の商品を提供すること",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "環境に配慮した製品づくりでサステナビリティへの取り組みも進めています",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "低価格であることは極めて重要なサービスで、ワークマンはあらゆる努力を行って低価格を追求しています",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "10年、20年と地域に根を下ろしてお客様と信頼関係を築き上げた店長が、地域の特性、お客様のニーズに合わせて商品を提供いたします",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "フレンドリーサービス",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "お客様が気持ちよく買い物ができる環境の提供もきわめて重要なサービスです",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "チェーンストアの使命は、ひとりでも多くのお客様にサービスを提供することです",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "ワークマンは、日本全国の働く人たちにサービスを提供するために、積極的にネットワークの拡大を進めています",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "チェーンストアにとっては優れた商品の提供こそが最も重要な社会貢献ですが、その他に、地域のため、社会のために様々な社会貢献活動を行っています",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "災害時の支援物資の提供、グループが推進する「ベイシア21世紀財団」を通しての地域への貢献、省資源、二酸化炭素削減のための活動など、ワークマンにとっても大切な社会に対するサービスであると考え、積極的に推進しています",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "その真価は、圧倒的な機能性と低価格を両立した製品力に、データ駆動型の店舗運営を掛け合わせた、独自の高密度フランチャイズ経済圏への構造転換にある――",
+    "url": "https://mindmeister.jp/posts/bm-workman",
+    "pass": 3
+   },
+   {
+    "quote": "① 高機能と低価格を両立する製品開発（コアバリュー）",
+    "url": "https://mindmeister.jp/posts/bm-workman",
+    "pass": 3
+   },
+   {
+    "quote": "という、過酷な現場で鍛えられた製品力から一般消費者を巻き込む店舗展開、そして無駄を徹底的に排除したデータ主導の運営体制へと広がるバリューチェーンの流れに沿ってダイレクトに構造化している点です",
+    "url": "https://mindmeister.jp/posts/bm-workman",
+    "pass": 3
+   },
+   {
+    "quote": "ワークマンの最大の強みは、プロの職人が認める圧倒的な機能性と、競合を寄せ付けない低価格を両立した商品開発力にあります",
+    "url": "https://mindmeister.jp/posts/bm-workman",
+    "pass": 3
+   },
+   {
+    "quote": "同社の成長を力強く牽引しているのが、プロ向けの商品を一般消費者向けにリブランディングして展開する新業態の開拓です",
+    "url": "https://mindmeister.jp/posts/bm-workman",
+    "pass": 3
+   },
+   {
+    "quote": "製品の基本スペックは従来の作業服と同じでありながら、見せ方と店舗の雰囲気を変えるだけで広大な未開拓市場を開拓するこの戦略が、強靭な成長基盤として機能しています",
+    "url": "https://mindmeister.jp/posts/bm-workman",
+    "pass": 3
+   },
+   {
+    "quote": "ワークマンの事業戦略は、プロ仕様の技術を安く届ける製品開発力、一般層や女性層を熱狂させる",
+    "url": "https://mindmeister.jp/posts/bm-workman",
+    "pass": 3
+   },
+   {
+    "quote": "サービスナウ",
+    "url": "https://mindmeister.jp/posts/bm-workman",
+    "pass": 3
+   },
+   {
+    "quote": "▼人材・コンサル・専門サービス",
+    "url": "https://mindmeister.jp/posts/bm-workman",
+    "pass": 3
+   },
+   {
+    "quote": "「ベイシアグループ」の事業は、ショッピングセンター、ホームセンターを核とした小売事業を主力事業とし、サービス事業、デベロッパー事業等の拡充に努め、事業の多角化を図っております",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E4%BC%81%E6%A5%AD%E6%A6%82%E8%A6%81",
+    "pass": 3
+   },
+   {
+    "quote": "●カインズフードサービス",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "●ベイシアグループソリューション",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "●いせやコーポレーション●ベイシア総合保険サービス",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "●カインズ総合保険サービス",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "物販・サービス 10社",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "流通サービス 20社",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "プロの職人にとって必要不可欠な商品を取り扱っている",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "商品代金は本部が貸付、資金繰りが不要",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "プライベート・ブランド商品",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "競合他社と差別化した「高機能×低価格」商品",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・すべての業態で取扱商品は概ね同じであり「見せ方」を変えて様々な顧客にアピール",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "商品開発（商材別売上高）",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "建設業や製造業、サービス業など、",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "様の「声」に合わせて取扱商品を拡大",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "毎日が低価格で商品を販売するという政策",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "商品開発（EDLP商品）",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "規模と綿密な商品計画で",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "商品開発（ＰＢ商品）",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■PB商品の開発目的「客層の拡大・競合他社との差別化」",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年３月期 PB商品売上高1,185億77百万円（前期比6.1％増）",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ＰＢ商品販売推移",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■PB商品の競合優位性",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・在庫備蓄型流通センターを拠点に、注文から2日後の営業時間前に商品が届く体制",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■当社製品はAスポーツブランドの1/3、アウトドアブランドの1/2の",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "● 快適ワーク製品で新たな価値を創造",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "《トップインタビュー2026》ワークマン社長 小濱英之氏 独自素材の製品で成長目指す | 繊研新聞",
+    "url": "https://senken.co.jp/posts/workman-260225",
+    "pass": 3
+   },
+   {
+    "quote": "《トップインタビュー2026》ワークマン社長 小濱英之氏 独自素材の製品で成長目指す",
+    "url": "https://senken.co.jp/posts/workman-260225",
+    "pass": 3
+   },
+   {
+    "quote": "作業服・用品の商品と店舗の強靭（きょうじん）化に注力しつつ、ベーシック衣料のファミリー業態「ワークマンカラーズ」の店舗網を広げ、持続的成長を目指す",
+    "url": "https://senken.co.jp/posts/workman-260225",
+    "pass": 3
+   },
+   {
+    "quote": "ワークマン、マス化製品軸に拡大 200億円規模の商品を育成",
+    "url": "https://senken.co.jp/posts/workman-260225",
+    "pass": 3
+   },
+   {
+    "quote": "《トップに聞く》ハイドサイン社長兼チーフデザイナー 吉井秀雄氏 衣服から衣服への製品循環を検証",
+    "url": "https://senken.co.jp/posts/workman-260225",
+    "pass": 3
+   },
+   {
+    "quote": "繊研新聞社のサービス",
+    "url": "https://senken.co.jp/posts/workman-260225",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "ワークマンで揃う防災ライト特集！普段の生活やアウトドアで使えて、もしもの停電・災害時にも頼れるおすすめライト3選をご紹介",
+    "url": "https://workman.jp/shop/default.aspx",
+    "pass": 1
+   },
+   {
+    "quote": "防水防寒機能で人気のイージスやストレッチ性の高い防寒ブルゾン、裏アルミで暖かい防寒ブルゾンをご紹介！",
+    "url": "https://workman.jp/shop/default.aspx",
+    "pass": 1
+   },
+   {
+    "quote": "ちょっとした雨や肌寒く感じる時間帯に1枚あると便利なアウターブルゾンと撥水機能つきのウィンドブレーカーをご紹介！",
+    "url": "https://workman.jp/shop/default.aspx",
+    "pass": 1
+   },
+   {
+    "quote": "ワークマンでお取り寄せ可能なメーカーの作業服をご紹介します",
+    "url": "https://workman.jp/shop/default.aspx",
+    "pass": 1
+   },
+   {
+    "quote": "店舗受け取り",
+    "url": "https://workman.jp/shop/default.aspx",
+    "pass": 1
+   },
+   {
+    "quote": "店舗取り置き",
+    "url": "https://workman.jp/shop/default.aspx",
+    "pass": 1
+   },
+   {
+    "quote": "お気に入り店舗",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "フランチャイズ",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "また、店舗の混雑状況により電話に出られない場合がございます",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "※ワークマンプラスの一部店舗（SC店）はカジュアルのみ取扱",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "ショッピングセンター内店舗",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "ショッピングセンター内のワークマンプラス8店舗",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "ニューオープンの店舗一覧へ",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "店舗アルバイト",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "それは大きく分類して「商品」「価格」「フランチャイズシステム」 「フレンドリーサービス」「ネットワーク」「社会貢献」に集約することができます",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "フランチャイズシステム",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "フランチャイズシステムは、最も地域に密着した小売形態です",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "個人フランチャイズ経営者募集",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "店舗アルバイト募集",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "その真価は、圧倒的な機能性と低価格を両立した製品力に、データ駆動型の店舗運営を掛け合わせた、独自の高密度フランチャイズ経済圏への構造転換にある――",
+    "url": "https://mindmeister.jp/posts/bm-workman",
+    "pass": 3
+   },
+   {
+    "quote": "という、過酷な現場で鍛えられた製品力から一般消費者を巻き込む店舗展開、そして無駄を徹底的に排除したデータ主導の運営体制へと広がるバリューチェーンの流れに沿ってダイレクトに構造化している点です",
+    "url": "https://mindmeister.jp/posts/bm-workman",
+    "pass": 3
+   },
+   {
+    "quote": "製品の基本スペックは従来の作業服と同じでありながら、見せ方と店舗の雰囲気を変えるだけで広大な未開拓市場を開拓するこの戦略が、強靭な成長基盤として機能しています",
+    "url": "https://mindmeister.jp/posts/bm-workman",
+    "pass": 3
+   },
+   {
+    "quote": "」と、ロードサイドを中心とした強固なフランチャイズ（FC）網です",
+    "url": "https://mindmeister.jp/posts/bm-workman",
+    "pass": 3
+   },
+   {
+    "quote": "同社では本部がすべての在庫をコントロールするのではなく、独自の需要予測システムを各店舗の店長が使いこなし、つねに最適な発注を行える環境を整えています",
+    "url": "https://mindmeister.jp/posts/bm-workman",
+    "pass": 3
+   },
+   {
+    "quote": "とくに、標準化された店舗レイアウトと、加盟店オーナーへの手厚い金銭的サポートによって離職率を低く抑え、地域密着型の安定運営を実現しています",
+    "url": "https://mindmeister.jp/posts/bm-workman",
+    "pass": 3
+   },
+   {
+    "quote": "自社の新規事業立案や、思考の整理に迷ったときは、今回ご紹介した公開マップの構造をベースに、自社の事業戦略のマッピングを試してみてはいかがでしょうか",
+    "url": "https://mindmeister.jp/posts/bm-workman",
+    "pass": 3
+   },
+   {
+    "quote": "このサイトはMeisterLabs社の公式パートナーである",
+    "url": "https://mindmeister.jp/posts/bm-workman",
+    "pass": 3
+   },
+   {
+    "quote": "お気に入り店舗",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1/%E6%B1%BA%E7%AE%97%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "フランチャイズ",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1/%E6%B1%BA%E7%AE%97%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "また、店舗の混雑状況により電話に出られない場合がございます",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1/%E6%B1%BA%E7%AE%97%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "※ワークマンプラスの一部店舗（SC店）はカジュアルのみ取扱",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1/%E6%B1%BA%E7%AE%97%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "ショッピングセンター内店舗",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1/%E6%B1%BA%E7%AE%97%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "ショッピングセンター内のワークマンプラス8店舗",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1/%E6%B1%BA%E7%AE%97%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "ニューオープンの店舗一覧へ",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1/%E6%B1%BA%E7%AE%97%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "店舗アルバイト",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1/%E6%B1%BA%E7%AE%97%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "個人フランチャイズ経営者募集",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1/%E6%B1%BA%E7%AE%97%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "店舗アルバイト募集",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1/%E6%B1%BA%E7%AE%97%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "お気に入り店舗",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "フランチャイズ",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "また、店舗の混雑状況により電話に出られない場合がございます",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "※ワークマンプラスの一部店舗（SC店）はカジュアルのみ取扱",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "ショッピングセンター内店舗",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "ショッピングセンター内のワークマンプラス8店舗",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "ニューオープンの店舗一覧へ",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "店舗アルバイト",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "個人フランチャイズ経営者募集",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "店舗アルバイト募集",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "お気に入り店舗",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E4%BC%81%E6%A5%AD%E6%A6%82%E8%A6%81",
+    "pass": 3
+   },
+   {
+    "quote": "フランチャイズ",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E4%BC%81%E6%A5%AD%E6%A6%82%E8%A6%81",
+    "pass": 3
+   },
+   {
+    "quote": "また、店舗の混雑状況により電話に出られない場合がございます",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E4%BC%81%E6%A5%AD%E6%A6%82%E8%A6%81",
+    "pass": 3
+   },
+   {
+    "quote": "※ワークマンプラスの一部店舗（SC店）はカジュアルのみ取扱",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E4%BC%81%E6%A5%AD%E6%A6%82%E8%A6%81",
+    "pass": 3
+   },
+   {
+    "quote": "ショッピングセンター内店舗",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E4%BC%81%E6%A5%AD%E6%A6%82%E8%A6%81",
+    "pass": 3
+   },
+   {
+    "quote": "ショッピングセンター内のワークマンプラス8店舗",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E4%BC%81%E6%A5%AD%E6%A6%82%E8%A6%81",
+    "pass": 3
+   },
+   {
+    "quote": "ニューオープンの店舗一覧へ",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E4%BC%81%E6%A5%AD%E6%A6%82%E8%A6%81",
+    "pass": 3
+   },
+   {
+    "quote": "店舗アルバイト",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E4%BC%81%E6%A5%AD%E6%A6%82%E8%A6%81",
+    "pass": 3
+   },
+   {
+    "quote": "フランチャイズシステムで作業服、作業関連用品、アウトドア・スポーツウエア及びカジュアルウエアを販売する専門店をチェーン展開",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E4%BC%81%E6%A5%AD%E6%A6%82%E8%A6%81",
+    "pass": 3
+   },
+   {
+    "quote": "47都道府県 1,094店舗（2026年3月末現在）",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E4%BC%81%E6%A5%AD%E6%A6%82%E8%A6%81",
+    "pass": 3
+   },
+   {
+    "quote": "個人フランチャイズ経営者募集",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E4%BC%81%E6%A5%AD%E6%A6%82%E8%A6%81",
+    "pass": 3
+   },
+   {
+    "quote": "店舗アルバイト募集",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E4%BC%81%E6%A5%AD%E6%A6%82%E8%A6%81",
+    "pass": 3
+   },
+   {
+    "quote": "●フランチャイズ・システム",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "ビジネスモデル - ワークマン公式サイト",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "【ビジネスモデル図解2026】ワークマンの事業戦略を構造化する（公開マップあり） ｜【公式】MindMeister（マインドマイスター）",
+    "url": "https://mindmeister.jp/posts/bm-workman",
+    "pass": 3
+   },
+   {
+    "quote": "【ビジネスモデル図解2026】ワークマンの事業戦略を構造化する（公開マップあり） ｜【公式】MindMeister（マインドマイスター） has loaded",
+    "url": "https://mindmeister.jp/posts/bm-workman",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル図解",
+    "url": "https://mindmeister.jp/posts/bm-workman",
+    "pass": 3
+   },
+   {
+    "quote": "【ビジネスモデル図解2026】ワークマンの事業戦略を構造化する（公開マップあり）",
+    "url": "https://mindmeister.jp/posts/bm-workman",
+    "pass": 3
+   },
+   {
+    "quote": "💁‍♂️ この記事は、身近な企業をテーマに、マインドマップツールを用いて、メタ的にビジネスモデルを図解する試みです",
+    "url": "https://mindmeister.jp/posts/bm-workman",
+    "pass": 3
+   },
+   {
+    "quote": "「ビジネスモデル図解」一覧",
+    "url": "https://mindmeister.jp/posts/bm-workman",
+    "pass": 3
+   },
+   {
+    "quote": "1. ワークマンのビジネスモデル構造マップ",
+    "url": "https://mindmeister.jp/posts/bm-workman",
+    "pass": 3
+   },
+   {
+    "quote": "以下は、ワークマンが過酷なアパレル市場で圧倒的な地位を築くビジネスモデルの全体像を、わかりやすく階層化して構築したマインドマップです",
+    "url": "https://mindmeister.jp/posts/bm-workman",
+    "pass": 3
+   },
+   {
+    "quote": "【ビジネスモデル図解2026】Sansanの事業戦略を構造化する（公開マップあり）",
+    "url": "https://mindmeister.jp/posts/bm-workman",
+    "pass": 3
+   },
+   {
+    "quote": "【ビジネスモデル図解2026】ベイカレントの事業戦略を構造化する（公開マップあり）",
+    "url": "https://mindmeister.jp/posts/bm-workman",
+    "pass": 3
+   },
+   {
+    "quote": "【ビジネスモデル図解2026】アイシンの事業戦略を構造化する（公開マップあり）",
+    "url": "https://mindmeister.jp/posts/bm-workman",
+    "pass": 3
+   },
+   {
+    "quote": "【ビジネスモデル図解2026】デンソーの事業戦略を構造化する（公開マップあり）",
+    "url": "https://mindmeister.jp/posts/bm-workman",
+    "pass": 3
+   },
+   {
+    "quote": "【ビジネスモデル図解2026】DeNAの事業戦略を構造化する（公開マップあり）",
+    "url": "https://mindmeister.jp/posts/bm-workman",
+    "pass": 3
+   },
+   {
+    "quote": "【ビジネスモデル図解2026】東京海上HDの事業戦略を構造化する（公開マップあり）",
+    "url": "https://mindmeister.jp/posts/bm-workman",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E4%BC%81%E6%A5%AD%E6%A6%82%E8%A6%81",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "創業時よりわれわれのお客様は、「働く人たち」 という産業の大きな部分を担うプロの人たちが中心です",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "現在は一般のお客様にも、日常生活やレジャーシーンでご利用いただける様に、サービスを拡大しております",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "10年、20年と地域に根を下ろしてお客様と信頼関係を築き上げた店長が、地域の特性、お客様のニーズに合わせて商品を提供いたします",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "お客様が気持ちよく買い物ができる環境の提供もきわめて重要なサービスです",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "チェーンストアの使命は、ひとりでも多くのお客様にサービスを提供することです",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "② 新業態開発による顧客層の拡大（成長基盤）",
+    "url": "https://mindmeister.jp/posts/bm-workman",
+    "pass": 3
+   },
+   {
+    "quote": "」の展開により、これまですれ違うことのなかった一般のライトユーザーや女性層を爆発的に取り込みました",
+    "url": "https://mindmeister.jp/posts/bm-workman",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の声を経営に活かします 「機能と価格に新基準」",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "お客様のニーズに合った店舗展開",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・すべての業態で取扱商品は概ね同じであり「見せ方」を変えて様々な顧客にアピール",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客 プロ80％・一般20％",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客 一般100％",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客 プロ60％・一般40％",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "幅広いお客様の作業環境をサポート",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「よい品をより安く」お客様に提供することで、",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の信頼を獲得し、固定客の増加を目指します",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "③ 来店いただいたお客様の固定客化",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "お客様メリット加盟店メリット",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■新たなワーク需要の創出と価格訴求で安定した顧客基盤を構築",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・主要顧客であるプロ顧客に対して、付加価値を提供し快適な",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・お客様に「やるね！」と言ってもらえるよう、業界最安値",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・お客様にお買い物の楽しさを提供",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・お客様の「声」にお応えし、普段使い出来",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■一般顧客のリピーター化",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "●顧客満足度の低下",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ワーとの信頼性を築き上げたユーザーであるため、",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "おける興味や関心が高い潜在顧客へのアプローチ",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "無印良品の公式アプリ 顧客情報2726万件が流出の可能性",
+    "url": "https://senken.co.jp/posts/workman-260225",
+    "pass": 3
+   },
+   {
+    "quote": "児島発の国産ジーンズ「オモトデニム」が好調 海外販売先が急増",
+    "url": "https://senken.co.jp/posts/workman-260225",
+    "pass": 3
+   },
+   {
+    "quote": "なぜコスモスは16年連続で顧客満足度1位なのか？ ドラッグストア最新調査で見えた強さの秘密",
+    "url": "https://diamond-rm.net/management/topinterview/511156/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "本記事では、成功企業の強みを直感的に理解し、自社の事業計画に転用できるよう、同社の戦略を1枚のマップに構造化して公開します",
+    "url": "https://mindmeister.jp/posts/bm-workman",
+    "pass": 3
+   },
+   {
+    "quote": "これを活用することで、いかにして同社が流行の波に左右されやすい衣服業界において、在庫リスクを極限まで抑えて継続的に稼ぐ力を構築しているかという構造が一目で判断できるようになります",
+    "url": "https://mindmeister.jp/posts/bm-workman",
+    "pass": 3
+   },
+   {
+    "quote": "上で提示した3つの強みの柱について、ワークマンの模倣困難な競争優位性がどこにあるのか、構造を深掘りして解説します",
+    "url": "https://mindmeister.jp/posts/bm-workman",
+    "pass": 3
+   },
+   {
+    "quote": "ワークマンの最大の強みは、プロの職人が認める圧倒的な機能性と、競合を寄せ付けない低価格を両立した商品開発力にあります",
+    "url": "https://mindmeister.jp/posts/bm-workman",
+    "pass": 3
+   },
+   {
+    "quote": "同社では本部がすべての在庫をコントロールするのではなく、独自の需要予測システムを各店舗の店長が使いこなし、つねに最適な発注を行える環境を整えています",
+    "url": "https://mindmeister.jp/posts/bm-workman",
+    "pass": 3
+   },
+   {
+    "quote": "100年間の競争優位を創出し、",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上伸長や在庫買取などに対して一時金を支給",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "低荒利率（約36％）でも高収益",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "④ 在庫リスクの低減",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・在庫備蓄型流通センターを拠点に、注文から2日後の営業時間前に商品が届く体制",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "●業態ごとの強みを明確にし、各業態が共存共栄できる体制構築",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・在庫削減と機能や価格面において商品価値",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "冬物の販売期間が短くなり、当社の強みである防寒作業服などは、在庫を多く抱えていたものの振るわない結果となった",
+    "url": "https://diamond-rm.net/management/topinterview/511156/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ビジネスモデル - ワークマン 公式サイト — ビジネスモデル - ワークマン 公式サイト ワークマン公式サイト https://www.workman.co.jp > ビジネス情報",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "【 ビジネスモデル 図解2026】 ワークマン の事業戦略を構造化 ... — 【 ビジネスモデル 図解2026】 ワークマン の事業戦略を構造化 ... mindmeister.jp https://mindmeister.jp > posts > bm-workman",
+    "url": "https://mindmeister.jp/posts/bm-workman",
+    "pass": 3
+   },
+   {
+    "quote": "5年で年商規模を2倍にした ワークマン のBuisiness ... — 5年で年商規模を2倍にした ワークマン のBuisiness ... タナベコンサルティング https://review.tanabeconsulting.co.jp > wholesale",
+    "url": "https://review.tanabeconsulting.co.jp/studygroupreport/wholesale/47563/",
+    "pass": 3
+   },
+   {
+    "quote": "企業概要 - ワークマン 公式サイト — 企業概要 - ワークマン 公式サイト ワークマン公式サイト https://www.workman.co.jp > ビジネス情報",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E4%BC%81%E6%A5%AD%E6%A6%82%E8%A6%81",
+    "pass": 3
+   },
+   {
+    "quote": "決算 情報 - ワークマン 公式サイト — 決算 情報 - ワークマン 公式サイト ワークマン公式サイト https://www.workman.co.jp > IR情報",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1/%E6%B1%BA%E7%AE%97%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 - ワークマン 公式サイト — IR情報 - ワークマン 公式サイト ワークマン公式サイト https://www.workman.co.jp > ir情報",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "IRニュース - ワークマン 公式サイト — IRニュース - ワークマン 公式サイト ワークマン公式サイト https://www.workman.co.jp > IR情報",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1/ir%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "【 ワークマン 】[7564] 決算 発表や業務・財務情報 | 日経電子版 — 【 ワークマン 】[7564] 決算 発表や業務・財務情報 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kessan",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=7564",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ワークマン – 2025年3月期 決算説明 会 資料 — 株式会社 ワークマン – 2025年3月期 決算説明 会 資料 ワークマン公式サイト PDF https://www.workman.co.jp > ir_info > pdf",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/44ki_03_kessan.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会社説明資料 株式会社 ワークマン — 会社説明資料 株式会社 ワークマン ワークマン公式サイト PDF https://www.workman.co.jp > pdf > 2024_11_tousika",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "新業態 事業 部のしごと - ワークマン 公式サイト — 新業態 事業 部のしごと - ワークマン 公式サイト ワークマン公式サイト https://www.workman.co.jp > 新卒・キャリア 採用情報",
+    "url": "https://www.workman.co.jp/%E6%8E%A1%E7%94%A8%E6%83%85%E5%A0%B1/saiyou_shingyoutai",
+    "pass": 3
+   },
+   {
+    "quote": "ワークマン 【7564】の 事業 内容 - キタイシホン — ワークマン 【7564】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/7564/business",
+    "pass": 3
+   },
+   {
+    "quote": "ワークマン - Wikipedia — ワークマン - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > ワークマン",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%9E%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "《トップ インタビュー 2026》 ワークマン社長 小濱英之氏 独自 ... — 《トップ インタビュー 2026》 ワークマン社長 小濱英之氏 独自 ... 繊研新聞 https://senken.co.jp > posts > workman-260225",
+    "url": "https://senken.co.jp/posts/workman-260225",
+    "pass": 3
+   },
+   {
+    "quote": "ワークマン 土屋哲雄専務取締役 インタビュー 、組織再編で作業 ... — ワークマン 土屋哲雄専務取締役 インタビュー 、組織再編で作業 ... ダイヤモンド・チェーンストアオンライン https://diamond-rm.net > 経営 > ワークマンの経営",
+    "url": "https://diamond-rm.net/management/topinterview/511156/",
+    "pass": 3
+   },
+   {
+    "quote": "3枚看板で躍進する ワークマン の方程式 すべての源はプロ職人 — 3枚看板で躍進する ワークマン の方程式 すべての源はプロ職人 superceo.jp https://superceo.jp > tokusyu > manga",
+    "url": "https://superceo.jp/tokusyu/manga/100817",
+    "pass": 3
+   },
+   {
+    "quote": "ワークマン社長 7000字ロング インタビュー 国内店舗数は ... — ワークマン社長 7000字ロング インタビュー 国内店舗数は ... 東洋経済オンライン https://toyokeizai.net > articles",
+    "url": "https://toyokeizai.net/articles/-/568837?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "【 インタビュー 】 ワークマン社長 小濱英之氏／「エブリデー ... — 【 インタビュー 】 ワークマン社長 小濱英之氏／「エブリデー ... Instagram https://www.instagram.com > CZJUM-sF_Ju",
+    "url": "https://www.instagram.com/p/CZJUM-sF_Ju/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2027年 3月期 決算関連資料",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1/%E6%B1%BA%E7%AE%97%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算短信［日本基準］（非連結）",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1/%E6%B1%BA%E7%AE%97%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算説明会質疑応答",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1/%E6%B1%BA%E7%AE%97%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算説明会資料",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1/%E6%B1%BA%E7%AE%97%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期 第1四半期 FACT BOOK",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1/%E6%B1%BA%E7%AE%97%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "2026年 3月期 決算関連資料",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1/%E6%B1%BA%E7%AE%97%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 決算短信［日本基準］（非連結）",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1/%E6%B1%BA%E7%AE%97%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 第3四半期決算短信［日本基準］（非連結）",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1/%E6%B1%BA%E7%AE%97%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 第2四半期決算短信［日本基準］（非連結）",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1/%E6%B1%BA%E7%AE%97%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 第1四半期決算短信［日本基準］（非連結）",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1/%E6%B1%BA%E7%AE%97%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 決算説明会質疑応答",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1/%E6%B1%BA%E7%AE%97%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 決算説明会動画",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1/%E6%B1%BA%E7%AE%97%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "2026年３月期 決算説明会資料",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1/%E6%B1%BA%E7%AE%97%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 決算FACT BOOK",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1/%E6%B1%BA%E7%AE%97%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 第3四半期決算説明会質疑応答",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1/%E6%B1%BA%E7%AE%97%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 第3四半期決算説明会資料",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1/%E6%B1%BA%E7%AE%97%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "2026年３月期 第3四半期FACT BOOK",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1/%E6%B1%BA%E7%AE%97%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 第2四半期決算説明会質疑応答",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1/%E6%B1%BA%E7%AE%97%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 第2四半期決算説明会動画",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1/%E6%B1%BA%E7%AE%97%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 第2四半期決算説明会資料",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1/%E6%B1%BA%E7%AE%97%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 第2四半期 FACT BOOK",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1/%E6%B1%BA%E7%AE%97%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 第1四半期決算説明会質疑応答",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1/%E6%B1%BA%E7%AE%97%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 第1四半期決算説明会資料",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1/%E6%B1%BA%E7%AE%97%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 第1四半期 FACT BOOK",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1/%E6%B1%BA%E7%AE%97%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "2025年 3月期 決算関連資料",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1/%E6%B1%BA%E7%AE%97%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算説明会質疑応答",
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "1979年11月30日",
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E4%BC%81%E6%A5%AD%E6%A6%82%E8%A6%81",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月末 FC比率 94.2％",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年３月期 PB商品売上高1,185億77百万円（前期比6.1％増）",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2017年度 2018年度 2019年度 2020年度 2021年度 2022年度 2023年度 2024年度(予)",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2014年～",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2018年～",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020年～",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "―まず、ワークマンの業態とこれまでの沿革について教えてください",
+    "url": "https://diamond-rm.net/management/topinterview/511156/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年6月、専務取締役経営企画部・開発本部・情報システム部・ロジスティクス部担当（現任）に就任",
+    "url": "https://diamond-rm.net/management/topinterview/511156/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年に、プロ職人に加えて一般消費者もターゲットにした2つ目の業態「WORKMANPlus（ワークマンプラス）」を導入した",
+    "url": "https://diamond-rm.net/management/topinterview/511156/",
+    "pass": 3
+   },
+   {
+    "quote": "2010年東京大学文学部卒業、12年同大学院修士課程（社会心理学）修了",
+    "url": "https://diamond-rm.net/management/topinterview/511156/",
+    "pass": 3
+   },
+   {
+    "quote": "2017年1月15日号～最新号の検索ができます",
+    "url": "https://diamond-rm.net/management/topinterview/511156/",
+    "pass": 3
+   },
+   {
+    "quote": "1970年4月に設立された「流通ビジネスを元気にする」流通情報出版社です",
+    "url": "https://diamond-rm.net/management/topinterview/511156/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "一定額の収入（月額50万円＋売上歩合）",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■円安の長期化に伴い、一部商品の単価見直しで収益性を確保",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サブスクリプション",
+    "url": "https://diamond-rm.net/management/topinterview/511156/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "●商品別売上構成",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業績データ（商品別売上構成）",
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://workman.jp/shop/default.aspx",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://workman.jp/pdf/leaflet_20261106.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mindmeister.jp/posts/bm-workman",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1/%E6%B1%BA%E7%AE%97%E6%83%85%E5%A0%B1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E4%BC%81%E6%A5%AD%E6%A6%82%E8%A6%81",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://senken.co.jp/posts/workman-260225",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://diamond-rm.net/management/topinterview/511156/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ワークマン",
+   "results": [
+    "https://workman.jp/shop/default.aspx?srsltid=AYCX9vKi9fbhgi5LxpLqHW1SqaL8BMzo3vqZMRimTUKfb6LfkKYR50Id",
+    "https://www.workman.co.jp/",
+    "https://www.instagram.com/workman_plus/?hl=ja",
+    "https://www.workman.co.jp/store",
+    "https://x.com/workman_plus",
+    "https://search.rakuten.co.jp/search/mall/%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%9E%E3%83%B3+%E5%85%AC%E5%BC%8F+%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3+%E3%82%B9%E3%83%88%E3%82%A2/",
+    "https://ja.wikipedia.org/wiki/ワークマン",
+    "https://en.wikipedia.org/wiki/Microsoft",
+    "https://www.microsoft.com/en-us/",
+    "https://account.microsoft.com/account"
+   ]
+  },
+  {
+   "query": "ワークマン ビジネスモデル",
+   "results": [
+    "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "https://mindmeister.jp/posts/bm-workman",
+    "https://note.com/jafcogroup8595/n/n7b661d3555b1",
+    "https://review.tanabeconsulting.co.jp/studygroupreport/wholesale/47563/",
+    "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E4%BC%81%E6%A5%AD%E6%A6%82%E8%A6%81",
+    "https://www.shopowner-support.net/glossary/differentiation/workmandiff/",
+    "https://www.youtube.com/watch?v=KVBCLnClNPU",
+    "https://xtrend.nikkei.com/atcl/contents/18/00190/00072/",
+    "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "https://www.walmart.com/"
+   ]
+  },
+  {
+   "query": "ワークマン 決算説明資料",
+   "results": [
+    "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1/%E6%B1%BA%E7%AE%97%E6%83%85%E5%A0%B1",
+    "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1",
+    "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1/ir%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=7564",
+    "https://www.workman.co.jp/ir_info/pdf/2025/44ki_03_kessan.pdf",
+    "https://www.moomoo.com/news/notice/307819915/workman-materials-for-the-first-quarter-earnings-presentation-for-the",
+    "https://edinetdb.jp/company/E03296/ir-docs/",
+    "https://www.workman.co.jp/ir%E6%83%85%E5%A0%B1/%E5%80%8B%E4%BA%BA%E6%8A%95%E8%B3%87%E5%AE%B6%E3%81%AE%E7%9A%86%E6%A7%98%E3%81%B8",
+    "https://en.wikipedia.org/wiki/New_York_City_Police_Academy",
+    "https://en.wikipedia.org/wiki/New_York_City_Police_Department"
+   ]
+  },
+  {
+   "query": "ワークマン 事業系統図",
+   "results": [
+    "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E4%BC%81%E6%A5%AD%E6%A6%82%E8%A6%81",
+    "https://www.workman.co.jp/ir_info/pdf/2025/2024_11_tousika.pdf",
+    "https://www.workman.co.jp/%E6%8E%A1%E7%94%A8%E6%83%85%E5%A0%B1/saiyou_shingyoutai",
+    "https://kitaishihon.com/company/7564/business",
+    "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%9E%E3%83%B3",
+    "https://www.porterprize.org/pastwinner/2019/10/25174336.html",
+    "https://www.workman.co.jp/ir_info/pdf/h28/H28_09_tousika.pdf",
+    "https://job.mynavi.jp/28/pc/search/corp200198/outline.html",
+    "https://mindmeister.jp/posts/bm-workman",
+    "https://carblens.org/foods/almond-flour"
+   ]
+  },
+  {
+   "query": "ワークマン 社長 インタビュー",
+   "results": [
+    "https://senken.co.jp/posts/workman-260225",
+    "https://diamond-rm.net/management/topinterview/511156/",
+    "https://superceo.jp/tokusyu/manga/100817",
+    "https://toyokeizai.net/articles/-/568837?display=b",
+    "https://www.instagram.com/p/CZJUM-sF_Ju/",
+    "https://www.weekly-economist.com/interview/kohama_hideyuki/",
+    "https://x.com/SENKENplus/status/2026492353780031967",
+    "https://www.workman.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%83%85%E5%A0%B1/%E3%83%88%E3%83%83%E3%83%97%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8",
+    "https://www.edgetreeservice.com/",
+    "https://www.yelp.com/biz/edge-tree-service-south-hadley"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部8頁・検索5回）"
+ }
+}

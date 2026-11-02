@@ -1,0 +1,931 @@
+{
+ "name": "ライズ・コンサルティング・グループ",
+ "aliases": [],
+ "context": "証券コード9168／サービス業／グロース（内国株式）／2026.02期 売上高8,421百万円 営業利益率20.2%",
+ "researched_at": "2026-11-02T18:05:09.299279+00:00",
+ "official_url": "https://www.rise-cg.co.jp/",
+ "identified_by": "search:yahoo_jp:ライズ・コンサルティング・グループ",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2010年12月",
+    "url": "https://www.rise-cg.co.jp/about/profile/",
+    "pass": 1
+   },
+   {
+    "label": "創業",
+    "value": "2012年2月",
+    "url": "https://www.rise-cg.co.jp/about/profile/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "430名（2026年8月末時点）",
+    "url": "https://www.rise-cg.co.jp/about/profile/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "AI-BPR実践伴走プログラムサービス",
+    "url": "https://www.rise-cg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "AI活用によるIT構築・保守運用コスト削減支援サービス",
+    "url": "https://www.rise-cg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "AI駆動開発推進ソリューションサービスのご紹介",
+    "url": "https://www.rise-cg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "生成AI×業務改善研修サービスのご紹介",
+    "url": "https://www.rise-cg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "EU理事会、CBAM強化案の交渉方針で合意 - 川下製品拡大は何をどう変えるか",
+    "url": "https://www.rise-cg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルティングサービスを提供し、",
+    "url": "https://www.rise-cg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "クライアントの多様な課題に対し、最適なソリューションを提供します",
+    "url": "https://www.rise-cg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関するご質問やご相談など、",
+    "url": "https://www.rise-cg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "近年、AI、IoT、ロボティクス、ブロックチェーン等先端テクノロジー（NewTech）の進化は著しく、企業はこの進化を取り入れ商品・サービスを革新する、またDisruptionへ対処する等大きな事業変革を行う必要性に直面しています",
+    "url": "https://www.rise-cg.co.jp/about/our-approach/",
+    "pass": 1
+   },
+   {
+    "quote": "「伴走型」の経営支援サービス",
+    "url": "https://www.rise-cg.co.jp/about/our-approach/",
+    "pass": 1
+   },
+   {
+    "quote": "ライズ・コンサルティング・グループはクライアントの課題解決の「実行」を重視したコンサルティングサービスを提供します",
+    "url": "https://www.rise-cg.co.jp/about/our-approach/",
+    "pass": 1
+   },
+   {
+    "quote": "膨大な時間とコストを掛け、数百枚のレポートを作成し、評論を重ねるだけの従来型のコンサルティングサービスでは課題解決は実現されません",
+    "url": "https://www.rise-cg.co.jp/about/our-approach/",
+    "pass": 1
+   },
+   {
+    "quote": "我々のコンサルティングサービスでは、レポートの作成だけではなく、課題解決のための「実行」を支援することを重視しています",
+    "url": "https://www.rise-cg.co.jp/about/our-approach/",
+    "pass": 1
+   },
+   {
+    "quote": "多くのコンサルティングファームでは、未熟なコンサルタントを大量に採用するケースや、外部の下請け会社を自社のコンサルタントとして提供することがあり、サービスクオリティの低下やパフォーマンス不足の要因となっています",
+    "url": "https://www.rise-cg.co.jp/about/our-approach/",
+    "pass": 1
+   },
+   {
+    "quote": "国際協力銀行、ボストン・コンサルティング・グループ、大手製薬会社、大手教育サービス会社、語学教育サービス会社を経て、ライズ・コンサルティング・グループに参画",
+    "url": "https://www.rise-cg.co.jp/about/professionals/",
+    "pass": 1
+   },
+   {
+    "quote": "金融、ITサービス企業、公共を中心に、DX変革、新規事業、業務改革に関する幅広い経験を有する",
+    "url": "https://www.rise-cg.co.jp/about/professionals/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ経営基盤刷新、ITグランドデザイン、ビジネス・IT領域における各種PMO、チェンジマネジメント、CX変革、新規デジタルサービス開発・PoCなど、企業変革に関わる幅広い支援実績を有する",
+    "url": "https://www.rise-cg.co.jp/about/professionals/",
+    "pass": 1
+   },
+   {
+    "quote": "15年以上にわたり、IT・DX領域を中心に、戦略策定、第三者評価、コスト削減、新サービス立ち上げなどの幅広い経験を有する",
+    "url": "https://www.rise-cg.co.jp/about/professionals/",
+    "pass": 1
+   },
+   {
+    "quote": "製品企画・設計開発から需給、調達、生産、物流まで、事業オペレーション全体を横断した戦略策定、業務改革、DX・AI活用を一貫して支援してきた",
+    "url": "https://www.rise-cg.co.jp/about/professionals/",
+    "pass": 1
+   },
+   {
+    "quote": "欧州・中南米地域、グローバル白物家電事業、グローバルソリューション事業担当執行役員などを歴任",
+    "url": "https://www.rise-cg.co.jp/about/professionals/",
+    "pass": 1
+   },
+   {
+    "quote": "エーオンヒューイットジャパン株式会社(現 エーオンソリューションズジャパン株式会社) 入社",
+    "url": "https://www.rise-cg.co.jp/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "GEフリートサービス株式会社 代表取締役社長",
+    "url": "https://www.rise-cg.co.jp/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "」をミッションに掲げ、主要事業のコンサルティングサービスを通じ、企業や団体、国や自治体などが抱える様々な課題の解決に取り組んでいます",
+    "url": "https://www.rise-cg.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "が「戦略の実行」と「成果の上昇」にこだわったコンサルティングサービスの提供を目的として経営コンサルタント業務を開始",
+    "url": "https://www.rise-cg.co.jp/about/history/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "コンサルタント紹介",
+    "url": "https://www.rise-cg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "研修体系と組織体制の紹介",
+    "url": "https://www.rise-cg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "AI駆動開発推進ソリューションサービスのご紹介",
+    "url": "https://www.rise-cg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "生成AI×業務改善研修サービスのご紹介",
+    "url": "https://www.rise-cg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "各分野の専門家であるコンサルタントをご紹介します",
+    "url": "https://www.rise-cg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルタント紹介",
+    "url": "https://www.rise-cg.co.jp/about/our-approach/",
+    "pass": 1
+   },
+   {
+    "quote": "研修体系と組織体制の紹介",
+    "url": "https://www.rise-cg.co.jp/about/our-approach/",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルタント紹介｜ライズ・コンサルティング・グループ",
+    "url": "https://www.rise-cg.co.jp/about/professionals/",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルタント紹介",
+    "url": "https://www.rise-cg.co.jp/about/professionals/",
+    "pass": 1
+   },
+   {
+    "quote": "研修体系と組織体制の紹介",
+    "url": "https://www.rise-cg.co.jp/about/professionals/",
+    "pass": 1
+   },
+   {
+    "quote": "現在は、クライアント開拓、戦略的パートナーシップ推進、成長施策を管掌するBusiness Development Departmentの部門責任者として事業を牽引",
+    "url": "https://www.rise-cg.co.jp/about/professionals/",
+    "pass": 1
+   },
+   {
+    "quote": "事業推進に向けた仕組みの構築とパートナーネットワークの組成に強みを持つ",
+    "url": "https://www.rise-cg.co.jp/about/professionals/",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルタント紹介",
+    "url": "https://www.rise-cg.co.jp/career/workplace-environment/",
+    "pass": 1
+   },
+   {
+    "quote": "研修体系と組織体制の紹介",
+    "url": "https://www.rise-cg.co.jp/career/workplace-environment/",
+    "pass": 1
+   },
+   {
+    "quote": "ライズの特徴や実績を、客観的なデータを通してご紹介します",
+    "url": "https://www.rise-cg.co.jp/career/workplace-environment/",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルタント紹介",
+    "url": "https://www.rise-cg.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "研修体系と組織体制の紹介",
+    "url": "https://www.rise-cg.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルタント紹介",
+    "url": "https://www.rise-cg.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "研修体系と組織体制の紹介",
+    "url": "https://www.rise-cg.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルタント紹介",
+    "url": "https://www.rise-cg.co.jp/ir/performance/",
+    "pass": 1
+   },
+   {
+    "quote": "研修体系と組織体制の紹介",
+    "url": "https://www.rise-cg.co.jp/ir/performance/",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルタント紹介",
+    "url": "https://www.rise-cg.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "研修体系と組織体制の紹介",
+    "url": "https://www.rise-cg.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルタント紹介",
+    "url": "https://www.rise-cg.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "研修体系と組織体制の紹介",
+    "url": "https://www.rise-cg.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルタント紹介",
+    "url": "https://www.rise-cg.co.jp/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "研修体系と組織体制の紹介",
+    "url": "https://www.rise-cg.co.jp/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ベルテクス・パートナーズ 入社",
+    "url": "https://www.rise-cg.co.jp/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "ミライズ税理士法人 設立 パートナー(現任)",
+    "url": "https://www.rise-cg.co.jp/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "松田綜合法律事務所 パートナー弁護士(現任)",
+    "url": "https://www.rise-cg.co.jp/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルタント紹介",
+    "url": "https://www.rise-cg.co.jp/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "研修体系と組織体制の紹介",
+    "url": "https://www.rise-cg.co.jp/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルタント紹介",
+    "url": "https://www.rise-cg.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "研修体系と組織体制の紹介",
+    "url": "https://www.rise-cg.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルタント紹介",
+    "url": "https://www.rise-cg.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "研修体系と組織体制の紹介",
+    "url": "https://www.rise-cg.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルタント紹介",
+    "url": "https://www.rise-cg.co.jp/about/corporate-identity/",
+    "pass": 1
+   },
+   {
+    "quote": "研修体系と組織体制の紹介",
+    "url": "https://www.rise-cg.co.jp/about/corporate-identity/",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルタント紹介",
+    "url": "https://www.rise-cg.co.jp/about/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "研修体系と組織体制の紹介",
+    "url": "https://www.rise-cg.co.jp/about/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルタント紹介",
+    "url": "https://www.rise-cg.co.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "研修体系と組織体制の紹介",
+    "url": "https://www.rise-cg.co.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルタント紹介",
+    "url": "https://www.rise-cg.co.jp/about/our-clients/",
+    "pass": 1
+   },
+   {
+    "quote": "研修体系と組織体制の紹介",
+    "url": "https://www.rise-cg.co.jp/about/our-clients/",
+    "pass": 1
+   },
+   {
+    "quote": "各業界を牽引する、当社の主要な取引先をご紹介します",
+    "url": "https://www.rise-cg.co.jp/about/our-clients/",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "AI活用によるIT構築・保守運用コスト削減支援サービス",
+    "url": "https://www.rise-cg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "IT構築・保守運用コストの可視化からAI適用...",
+    "url": "https://www.rise-cg.co.jp/",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "中期経営計画の策定支援、DX、FinTech、AIを活用した新たな顧客体験の創出まで、新規事業開発を中心に数多くの企業の価値創出を実現",
+    "url": "https://www.rise-cg.co.jp/about/professionals/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、継続的な企業価値向上を実現し、株主、取引先及び従業員等に対する社会的責任を果たすためには、経営の健全性、効率性及び透明性の確保が不可欠であるとの認識に立ち、内部統制の整備・運用及びリスク管理の徹底によるコーポレート・ガバナンスの強化に努めております",
+    "url": "https://www.rise-cg.co.jp/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "主要取引先｜ライズ・コンサルティング・グループ",
+    "url": "https://www.rise-cg.co.jp/about/our-clients/",
+    "pass": 1
+   },
+   {
+    "quote": "各業界を牽引する、当社の主要な取引先をご紹介します",
+    "url": "https://www.rise-cg.co.jp/about/our-clients/",
+    "pass": 1
+   },
+   {
+    "quote": "主要取引先 ページTOPへ戻る",
+    "url": "https://www.rise-cg.co.jp/about/our-clients/",
+    "pass": 1
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "机上の提言にとどまらず、実行局面まで伴走し、成果創出につなげる実行支援型コンサルティングに強みを持つ",
+    "url": "https://www.rise-cg.co.jp/about/professionals/",
+    "pass": 1
+   },
+   {
+    "quote": "構想策定から実行までの一気通貫の伴走支援とプロジェクトマネジメント（PMP保有）に強みを持つ",
+    "url": "https://www.rise-cg.co.jp/about/professionals/",
+    "pass": 1
+   },
+   {
+    "quote": "現場に入り込み、クライアントを巻き込んだプロジェクトの実行・推進に強みを持つ",
+    "url": "https://www.rise-cg.co.jp/about/professionals/",
+    "pass": 1
+   },
+   {
+    "quote": "戦略策定にとどまらず、文化・組織・プロセスの変革から実際の成果創出までを一気通貫で伴走支援することに強みを持つ",
+    "url": "https://www.rise-cg.co.jp/about/professionals/",
+    "pass": 1
+   },
+   {
+    "quote": "新規事業開発、マーケティング・営業戦略の策定・実行支援に強みを持つ",
+    "url": "https://www.rise-cg.co.jp/about/professionals/",
+    "pass": 1
+   },
+   {
+    "quote": "事業推進に向けた仕組みの構築とパートナーネットワークの組成に強みを持つ",
+    "url": "https://www.rise-cg.co.jp/about/professionals/",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年5月29日時点",
+    "url": "https://www.rise-cg.co.jp/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "1998年4月",
+    "url": "https://www.rise-cg.co.jp/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2001年4月",
+    "url": "https://www.rise-cg.co.jp/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2008年10月",
+    "url": "https://www.rise-cg.co.jp/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年11月",
+    "url": "https://www.rise-cg.co.jp/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年4月",
+    "url": "https://www.rise-cg.co.jp/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年4月",
+    "url": "https://www.rise-cg.co.jp/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年10月",
+    "url": "https://www.rise-cg.co.jp/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年5月",
+    "url": "https://www.rise-cg.co.jp/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年10月",
+    "url": "https://www.rise-cg.co.jp/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年10月",
+    "url": "https://www.rise-cg.co.jp/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年6月",
+    "url": "https://www.rise-cg.co.jp/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年5月",
+    "url": "https://www.rise-cg.co.jp/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月",
+    "url": "https://www.rise-cg.co.jp/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2007年4月",
+    "url": "https://www.rise-cg.co.jp/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2012年5月",
+    "url": "https://www.rise-cg.co.jp/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年4月",
+    "url": "https://www.rise-cg.co.jp/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月",
+    "url": "https://www.rise-cg.co.jp/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年2月",
+    "url": "https://www.rise-cg.co.jp/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "1997年4月",
+    "url": "https://www.rise-cg.co.jp/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年4月",
+    "url": "https://www.rise-cg.co.jp/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年2月",
+    "url": "https://www.rise-cg.co.jp/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年5月",
+    "url": "https://www.rise-cg.co.jp/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年9月",
+    "url": "https://www.rise-cg.co.jp/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年8月",
+    "url": "https://www.rise-cg.co.jp/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月29日(金)",
+    "url": "https://www.rise-cg.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月14日(火)",
+    "url": "https://www.rise-cg.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月期 第1四半期決算発表",
+    "url": "https://www.rise-cg.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月14日(水)",
+    "url": "https://www.rise-cg.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月期 第2四半期決算発表",
+    "url": "https://www.rise-cg.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年1月13日(水)予定",
+    "url": "https://www.rise-cg.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月期 第3四半期決算発表",
+    "url": "https://www.rise-cg.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年4月予定",
+    "url": "https://www.rise-cg.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月期 通期決算発表",
+    "url": "https://www.rise-cg.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年12月",
+    "url": "https://www.rise-cg.co.jp/about/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2012年2月",
+    "url": "https://www.rise-cg.co.jp/about/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革｜ライズ・コンサルティング・グループ",
+    "url": "https://www.rise-cg.co.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ティング・グループの沿革",
+    "url": "https://www.rise-cg.co.jp/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 ページTOPへ戻る",
+    "url": "https://www.rise-cg.co.jp/about/history/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "独自の手法 - ライズ・コンサルティング・グループ — 独自の手法 - ライズ・コンサルティング・グループ ライズ・コンサルティング・グループ https://www.rise-cg.co.jp > about > our-approach",
+    "url": "https://www.rise-cg.co.jp/about/our-approach/",
+    "pass": 3
+   },
+   {
+    "quote": "インサイト - ライズ・コンサルティング・グループ — インサイト - ライズ・コンサルティング・グループ ライズ・コンサルティング・グループ https://www.rise-cg.co.jp > insight",
+    "url": "https://www.rise-cg.co.jp/insight",
+    "pass": 3
+   },
+   {
+    "quote": "ライズ ・ コンサルティング ・ グループ とは？強み・評判・年収 ... — ライズ ・ コンサルティング ・ グループ とは？強み・評判・年収 ... タイグロンパートナーズ https://www.tiglon-partners.com > knowledge",
+    "url": "https://www.tiglon-partners.com/knowledge/a10bb00000055sdyaa/16719/",
+    "pass": 3
+   },
+   {
+    "quote": "ライズ ・ コンサルティング ・ グループ ／Rise Consulting ... — ライズ ・ コンサルティング ・ グループ ／Rise Consulting ... LinkedIn https://jp.linkedin.com > rise-consulting-group-inc-",
+    "url": "https://jp.linkedin.com/company/rise-consulting-group-inc-",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ライズ ・ コンサルティング ・ グループ ｜経営改革×DX ... — 株式会社 ライズ ・ コンサルティング ・ グループ ｜経営改革×DX ... ライズ・コンサルティング・グループ https://www.rise-cg.co.jp",
+    "url": "https://www.rise-cg.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 ｜IR｜ ライズ ・ コンサルティング ・ グループ — 決算説明資料 ｜IR｜ ライズ ・ コンサルティング ・ グループ ライズ・コンサルティング・グループ https://www.rise-cg.co.jp > presentations",
+    "url": "https://www.rise-cg.co.jp/ir/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "IRカレンダー - 株式会社ライズ・コンサルティング・グループ — IRカレンダー - 株式会社ライズ・コンサルティング・グループ ライズ・コンサルティング・グループ https://www.rise-cg.co.jp > calendar",
+    "url": "https://www.rise-cg.co.jp/ir/calendar/",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリ - 株式会社ライズ・コンサルティング・グループ — IRライブラリ - 株式会社ライズ・コンサルティング・グループ ライズ・コンサルティング・グループ https://www.rise-cg.co.jp > library",
+    "url": "https://www.rise-cg.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "IR FAQ よくあるご質問 - ライズ・コンサルティング・グループ — IR FAQ よくあるご質問 - ライズ・コンサルティング・グループ ライズ・コンサルティング・グループ https://www.rise-cg.co.jp > faq",
+    "url": "https://www.rise-cg.co.jp/ir/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "経営成績｜IR - 株式会社ライズ・コンサルティング・グループ — 経営成績｜IR - 株式会社ライズ・コンサルティング・グループ ライズ・コンサルティング・グループ https://www.rise-cg.co.jp > performance",
+    "url": "https://www.rise-cg.co.jp/ir/performance/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - ライズ・コンサルティング・グループ — 会社概要 - ライズ・コンサルティング・グループ ライズ・コンサルティング・グループ https://www.rise-cg.co.jp > about > profile",
+    "url": "https://www.rise-cg.co.jp/about/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "研修体系と組織体制の紹介｜ ライズ ・ コンサルティング ... — 研修体系と組織体制の紹介｜ ライズ ・ コンサルティング ... ライズ・コンサルティング・グループ https://www.rise-cg.co.jp > career > organizations-systems",
+    "url": "https://www.rise-cg.co.jp/career/organizations-systems/",
+    "pass": 3
+   },
+   {
+    "quote": "コーポレート・ガバナンス｜IR — コーポレート・ガバナンス｜IR ライズ・コンサルティング・グループ https://www.rise-cg.co.jp > governance",
+    "url": "https://www.rise-cg.co.jp/ir/governance/",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルタント紹介 - ライズ・コンサルティング・グループ — コンサルタント紹介 - ライズ・コンサルティング・グループ ライズ・コンサルティング・グループ https://www.rise-cg.co.jp > about > professionals",
+    "url": "https://www.rise-cg.co.jp/about/professionals/",
+    "pass": 3
+   },
+   {
+    "quote": "社員 インタビュー - ライズ・コンサルティング・グループ — 社員 インタビュー - ライズ・コンサルティング・グループ ライズ・コンサルティング・グループ https://www.rise-cg.co.jp > career > interview",
+    "url": "https://www.rise-cg.co.jp/career/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "パートナー インタビュー - ライズ・コンサルティング・グループ — パートナー インタビュー - ライズ・コンサルティング・グループ ライズ・コンサルティング・グループ https://www.rise-cg.co.jp > career > interview > partner",
+    "url": "https://www.rise-cg.co.jp/career/interview/partner/",
+    "pass": 3
+   },
+   {
+    "quote": "1. ライズ ・ コンサルティング ・ グループ インタビュー - ムービン — 1. ライズ ・ コンサルティング ・ グループ インタビュー - ムービン movin.co.jp https://www.movin.co.jp > interview > interviewRISE",
+    "url": "https://www.movin.co.jp/firm/interview/interviewRISE.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 ライズ ・ コンサルティング ・ グループ 】TMTプラクティス ... — 【 ライズ ・ コンサルティング ・ グループ 】TMTプラクティス ... fortna.co.jp https://fortna.co.jp > 企業インタビュー",
+    "url": "https://fortna.co.jp/rise_consuling_interview1/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.rise-cg.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rise-cg.co.jp/about/our-approach/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rise-cg.co.jp/about/professionals/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rise-cg.co.jp/career/workplace-environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rise-cg.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rise-cg.co.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rise-cg.co.jp/ir/performance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rise-cg.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rise-cg.co.jp/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rise-cg.co.jp/ir/executive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rise-cg.co.jp/ir/governance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rise-cg.co.jp/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rise-cg.co.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rise-cg.co.jp/about/corporate-identity/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rise-cg.co.jp/about/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rise-cg.co.jp/about/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rise-cg.co.jp/about/our-clients/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rise-cg.co.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rise-cg.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rise-cg.co.jp/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": []
+ },
+ "search_log": [
+  {
+   "query": "ライズ・コンサルティング・グループ",
+   "results": [
+    "https://www.rise-cg.co.jp/",
+    "https://www.openwork.jp/company.php?m_id=a0C1000000qqPel",
+    "https://www.instagram.com/rise.consulting.group/",
+    "https://hrmos.co/pages/rise-cg/jobs",
+    "https://www.nikkei.com/nkd/company/?scode=9168",
+    "https://www.rise-cg.co.jp/about/",
+    "https://www.tiglon-partners.com/knowledge/a10bb00000055sdyaa/16719/",
+    "https://jp.linkedin.com/company/rise-consulting-group-inc-",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=9168",
+    "https://www.unlockly-agent.jp/companies/株式会社ライズ・コンサルティング・グループ/"
+   ]
+  },
+  {
+   "query": "ライズ・コンサルティング・グループ ビジネスモデル",
+   "results": [
+    "https://www.rise-cg.co.jp/about/our-approach/",
+    "https://www.rise-cg.co.jp/insight",
+    "https://www.tiglon-partners.com/knowledge/a10bb00000055sdyaa/16719/",
+    "https://jp.linkedin.com/company/rise-consulting-group-inc-",
+    "https://www.rise-cg.co.jp/",
+    "https://www.rise-cg.co.jp/service-strategy/",
+    "https://hrmos.co/pages/rise-cg/jobs/0000000sbu2f",
+    "https://www.rise-cg.co.jp/about/professionals/",
+    "https://edinetdb.jp/company/E38895/midterm-plans/",
+    "https://www.rise-cg.co.jp/about/"
+   ]
+  },
+  {
+   "query": "ライズ・コンサルティング・グループ 決算説明資料",
+   "results": [
+    "https://www.rise-cg.co.jp/ir/presentations/",
+    "https://www.rise-cg.co.jp/ir/calendar/",
+    "https://www.rise-cg.co.jp/ir/library/",
+    "https://www.rise-cg.co.jp/ir/faq/",
+    "https://www.rise-cg.co.jp/ir/performance/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=9168",
+    "https://kabutan.jp/stock/finance?code=9168",
+    "https://www.rise-cg.co.jp/ir/meeting/",
+    "https://finance.logmi.jp/articles/382715",
+    "https://edinetdb.jp/company/E38895/presentations/"
+   ]
+  },
+  {
+   "query": "ライズ・コンサルティング・グループ 事業系統図",
+   "results": [
+    "https://www.rise-cg.co.jp/about/profile/",
+    "https://www.rise-cg.co.jp/career/organizations-systems/",
+    "https://www.rise-cg.co.jp/ir/governance/",
+    "https://www.rise-cg.co.jp/",
+    "https://www.rise-cg.co.jp/about/professionals/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=9168",
+    "https://www.jpx.co.jp/listing/stocks/new/aocfb400000040u4-att/09RiseConsultingGroup-1s.pdf",
+    "https://note.com/stock1/n/nfee13bdff43e",
+    "https://my-vision.co.jp/consultant/general/firms/rise-cg",
+    "https://vizora.meequs.com/ja/company/rise-consulting-group"
+   ]
+  },
+  {
+   "query": "ライズ・コンサルティング・グループ 社長 インタビュー",
+   "results": [
+    "https://www.rise-cg.co.jp/career/interview/",
+    "https://www.rise-cg.co.jp/career/interview/partner/",
+    "https://www.movin.co.jp/firm/interview/interviewRISE.html",
+    "https://fortna.co.jp/rise_consuling_interview1/",
+    "https://www.rise-cg.co.jp/about/profile/",
+    "https://www.antelope.co.jp/interview/detail.html?INTERVIEW=82&PAGE=2",
+    "https://jp.linkedin.com/posts/axis-consulting-corpopration_%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A9%E3%82%A4%E3%82%BA%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97-strategy-talent-development-activity-7445409708397723648-B-PO",
+    "https://www.rise-cg.co.jp/ir/message/",
+    "https://shachomeikan.jp/industry_article/3108"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部0頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部0頁・検索5回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部0頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部0頁・検索5回）"
+ }
+}

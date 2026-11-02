@@ -1,0 +1,1336 @@
+{
+ "name": "フリージア・マクロス",
+ "aliases": [],
+ "context": "証券コード6343／機械／スタンダード（内国株式）／2026.03期 売上高6,874百万円 営業利益率18.7%",
+ "researched_at": "2026-11-02T18:08:23.760828+00:00",
+ "official_url": "",
+ "identified_by": "not_found",
+ "profile": {
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "1,918,891 4,966,206 86,621 6,971,719",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部売上高又は 振替高",
+    "value": "18,100 48,777 242,505 309,382",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "1,881,456 4,855,972 136,077 6,873,506",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部売上高又は 振替高",
+    "value": "― 48,357 243,757 292,115",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "前連結会計年度 当連結会計年度",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "label": "連結財務諸表の売上高",
+    "value": "6,971,719 6,873,506",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "経営者は、これらの見積りについて、過去の実績や現状を勘案し合理的に判断しておりますが、実際の結果は、顧客の設備投資の動向など将来の不確実な経済条件の変動の結果によって影響を受ける可能性等の見積り特有の不確実性があるため、これらの見積りと異なる場合があります",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との契約から生じる収益",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "本邦の外部顧客への売上高が連結損益計算書の売上高の90％を超えるため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "３．主要な顧客ごとの情報",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高のうち、連結損益計算書の売上高の10％以上を占める相手先がないため、記載はありません",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "主要部品取引先一覧",
+    "url": "http://www.freesiamacross-extruder.com/jp/investors_relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社のグループは、モノ創りの上流から下流までの各工程を垂直統合させた上で、モノ創りそのものにお客様に参",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "お客様のご協力の結果、各工程に高い計画性がもたらせられることに",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループとしては、市場動向や顧客のニーズ、相手先企業の経営状況、市場での優位性、買収価格の適切性",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の実績や現状を勘案し合理的に判断しておりますが、実際の結果は、顧客の設備投資の動向など将来の不確実な経",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "お客様にモノ創りそのものに参加してい",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社及び連結子会社の顧客との契約から生じる収益に関する主要な事業における主な履行義務の内容及",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当該商品又は製品の支配が顧客に移転される時までの期間が通常の期間である場合を除き、商品又は製",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "品を顧客の指定した場所へ配送、引渡し、検収を受けた時点で収益を認識しております",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "物件の引渡又は工事完了時に当該商品又は製品の支配が顧客に移転されることから、物件の引渡又は工",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出荷時から当該商品又は製品の支配が顧客に移転されるときまでの期間が通常の期間であると考えられ",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※１ 受取手形及び売掛金のうち、顧客との契約から生じた債権の金額は、それぞれ以下のとおりであります",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※１ 顧客との契約から生じる収益",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高については、顧客との契約から生じる収益及びそれ以外の収益を区分して記載しておりません",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "受取手形及び売掛金並びに短期貸付金は、取引先の信用リスクに晒されています",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１）信用リスク（取引先の契約不履行に係るリスク）の管理",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、営業債権及び貸付金について、経理部が主要な取引先の状況を定期的にモニタリングし、取引",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/6343/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "消費者と作り手による協力を生産や流通に取り入れることこそ、我々グループが掲げる「配給」（顧客参加型の製造供給システム）の理念だ",
+    "url": "https://www.tsr-net.co.jp/data/detail/1191293_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "取引先に「安心」を与えるWeb認証シール",
+    "url": "https://www.tsr-net.co.jp/data/detail/1191293_1527.html",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "投資・流通サービス事業",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "製造から供給まで行う「製造供給事業」(プラスチック押出機、土木試験機、各種容器類、プリント基板等並びに地中掘削用ドリル、マシン等)と総合的な住宅関連事業を扱う「住宅関連事業」(ログハウス、高級スウェーデン住宅、マンション、家具類、防蟻、防水等住宅関連工事、不動産)、「投資・流通サービス事業」(投資・再生支援事業、パソコン周辺機器、部品及びソフト)の３業態に分れております",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 機械、機器・・・・・・・主な製品は、プラスチック押出機、土木試験機等であります",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "(4) 住宅関連・・・・・・・・主な製品は、ログハウス、高級スウェーデン住宅、マンション、家具等及び住宅関連工事施工等を行っております",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "「投資・流通サービス事業」",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "(6) 投資・流通サービス・・・投資・再生支援等を当社が、また、投資・再生支援、パソコン周辺機器、部品及びソフト等の仕入、販売等をフリージアトレーディング㈱が行っております",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "ハ．投資・流通サービス事業",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "投資・流通サービス事業(千円)",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "２ 製造供給事業及び住宅関連事業の一部及び投資・流通サービス事業は受注高＝販売実績です",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、「製造供給事業」「住宅関連事業」「投資・流通サービス事業」を報告セグメントとしております",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "「投資・流通サービス事業」は、投資再生支援、パソコン周辺機器、部品及びソフト等の販売等を行っております",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "サービス事業",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "商品及び製品販売",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "１．製品及びサービスごとの情報",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=6343",
+    "pass": 3
+   },
+   {
+    "quote": "また、東京証券取引所の定める適時開示規則、金融商品取引法等に沿って、適正な情報開示を実施いたします",
+    "url": "http://www.freesiamacross-extruder.com/jp/investors_relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社又は当社連結子会社の関与時に発生した、または発生する可能性のある行動基準違反（不公正取引の強要、賄賂の申出・要求、脅迫行為、強圧行為、セクハラ、その他社会常識的に不適切とされる可能性のあるすべての行為を含む）の早期発見・是正と当社の商品・製品等に関する改善を速やかに行うことを目的として、情報相談窓口を設けました",
+    "url": "http://www.freesiamacross-extruder.com/jp/investors_relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "【根拠条文】 金融商品取引法第24条第１項",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ウェーデン住宅、マンション、家具類、防蟻、防水等住宅関連工事、不動産）、「投資・流通サービス事業」（投",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1）機械、機器・・・・・・・主な製品は、プラスチック押出機、土木試験機等であります",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(5）住宅関連・・・・・・・・主な製品は、ログハウス、高級スウェーデン住宅、マンション、家具等及び住宅関",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「投資・流通サービス事業」",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(7）投資・流通サービス・・・投資・再生支援等を当社が、また、投資・再生支援、パソコン周辺機器、部品及び",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "東京都千代田区 10,000 投資・流通サービス事業 －[100]",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "投資・流通サービス事業 46 （10）",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "投資・流通サービス事業 － （－）",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４ 住宅関連事業及び投資・流通サービス事業の従業員は、製造供給事業の従業員が兼務しております",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "格でありながらも従来以上の高品質な製品を作りつづけることができます",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、製造供給事業（主要製品：プラスチック押出機、土木試験機、プリント基板、筐体、紙、アルミ",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "容器及び地中掘削用のドリル、マシン等）、住宅関連事業（主要製品：ログハウス、マンション、住宅工事施工（防",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "蟻、防水、断熱工事等））、投資・流通サービス事業（投資再生支援等）をそれぞれ行っている様々な事業を行う中",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ハ.投資・流通サービス事業",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "投資・流通サービス事業（千円） － －",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "投資・流通サービス事業 94,471 116.4 － －",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 製造供給事業及び住宅関連事業の一部及び投資・流通サービス事業は受注高＝販売実績です",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "投資・流通サービス事業（千円） 94,471 116.4",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サービス事業",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "上場金融商品取引所名",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "又は登録認可金融商品",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金融機関 金融商品取引業者 その他の法人 外国法人等 個人その他 計個人以外 個人",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "参加型製造供給体制により、低価格でありながら高品質な製品を作りつづけることができます",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、金融商品取引法第193条の２第１項の規定に基づき、連結会計年度（令和４年４月１日から令和５年３月",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金融商品取引業者",
+    "url": "https://kitaishihon.com/company/6343/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "投資・流通サービス事業",
+    "url": "https://kitaishihon.com/company/6343/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "商品・サービス",
+    "url": "https://www.tsr-net.co.jp/data/detail/1191293_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "商品・サービストップ",
+    "url": "https://www.tsr-net.co.jp/data/detail/1191293_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "商品案内動画",
+    "url": "https://www.tsr-net.co.jp/data/detail/1191293_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "商品・サービスTOP",
+    "url": "https://www.tsr-net.co.jp/data/detail/1191293_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "標準化すべき商品は、日本風に言えば「ケの日",
+    "url": "https://www.tsr-net.co.jp/data/detail/1191293_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "ケの日の商品はコロナ禍でもよく売れたが、デパートは「ハレの日」の商品が多いため苦戦する",
+    "url": "https://www.tsr-net.co.jp/data/detail/1191293_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "ハレの日の商品は感性を楽しむものだ",
+    "url": "https://www.tsr-net.co.jp/data/detail/1191293_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "両者を使い分け、ケの日の商品の生産性を上げ、浮いたお金でハレの日のオーダーメイドを作るという消費になれば、パイは減らず、作り手の付加価値も高まる",
+    "url": "https://www.tsr-net.co.jp/data/detail/1191293_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "この記事に関するサービス",
+    "url": "https://www.tsr-net.co.jp/data/detail/1191293_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "インターネット企業情報サービス（tsr-van2）",
+    "url": "https://www.tsr-net.co.jp/data/detail/1191293_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "1,200円の低価格でいつでもどこでも簡単に企業情報を取得できるインターネット企業情報サービスです",
+    "url": "https://www.tsr-net.co.jp/data/detail/1191293_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "TSRのデータベースから、お客さまのご要望に応じてデータを抽出してご提供するサービスです",
+    "url": "https://www.tsr-net.co.jp/data/detail/1191293_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "佐川急便（株）（TSRコード:641070357、京都市南区）は10月23日、Webサイトの「お荷物問い合わせサービス」への第三者による不正アクセスについて、流出した可能性のある個人情報の件数が最大約5,323万件（重複を含む）に及ぶことを発表した",
+    "url": "https://www.tsr-net.co.jp/data/detail/1191293_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "WEB請求書サービス",
+    "url": "https://www.tsr-net.co.jp/data/detail/1191293_1527.html",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、この３事業は、セグメント区分と同一であります",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの業績は、次のとおりであります",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "光栄工業㈱が連結除外となり同社の売上が減少したことなどにより、売上高は1,881百万円と前年同期に比べ55百万円減少し、セグメント利益は53百万円と前年同期に比べ54百万円の減少となりました",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント利益は、1,136百万円と前年同期に比べ11百万円の減少となりました",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "本事業においては、衣料品関連の売上が増加したことなどにより、売上高は379百万円と前年同期に比べ50百万円増加し、セグメント利益は90百万円と前年同期に比べ1百万円の増加となりました",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度の生産実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "(注) セグメント間取引については、相殺消去しております",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度の受注状況をセグメントごとに示すと、次のとおりであります",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "(注) １ セグメント間取引については、相殺消去しております",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度の販売実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、セグメント別の売上高等につきましては、「(１)経営成績等の状況の概要①財政状態及び経営成績の状況」をご参照ください",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "(セグメント情報等)",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "１．報告セグメントの概要",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの報告セグメントにつきましては、構成単位のうち分離された財務情報が入手可能であり、当社取締役会が、事業の業績を評価し、また経営資源の配分など、定期的に検討を行う対象となっております",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、「製造供給事業」「住宅関連事業」「投資・流通サービス事業」を報告セグメントとしております",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "２．報告セグメントごとの売上高、利益又は損失、資産、負債その他の項目の金額の算定方法",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告されている事業セグメントの会計処理の方法は、連結財務諸表作成のために採用している会計処理基準に基づく金額により記載しております",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "業は、セグメント区分と同一であります",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１ 「主要な事業の内容」欄には、セグメントの名称を記載しております",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの名称 従業員数（人）",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの業績は、次のとおりであります",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "万円増加しましたが、セグメント損失は141百万円（前年同期セグメント損失24百万円）となりました",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント利益は、1,007百万円と前",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本事業においては、売上高は323百万円と前年同期に比べ32百万円増加し、セグメント利益は105百万円と前年",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度の生産実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）セグメント間取引については、相殺消去しております",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度の受注状況をセグメントごとに示すと、次のとおりであります",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの名称 受注高（千円） 前年同期比（％） 受注残高（千円） 前年同期比（％）",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１ セグメント間取引については、相殺消去しております",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度の販売実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、セグメント別の売上高等につきましては、「（１）経営成績等の状況の概要①財政状態及び経営成績",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会社名 事業所名（所在地） セグメントの名称 設備の内容",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "との契約から生じる収益の金額は、連結財務諸表「注記事項（セグメント情報等）３．報告セグメントごとの",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(注) １ 「主要な事業の内容」欄には、セグメントの名称を記載しております",
+    "url": "https://kitaishihon.com/company/6343/board-of-director",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "以上の結果、営業利益は1,284百万円となり、前年同期に比べ63百万円(4.7％)減少し、売上高営業利益率は18.7％と前年同期(19.3％)より悪化しました",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "更なる高収益体制の確立を進めてまいります",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ではなく、粗利益率、営業利益率等の率の改善による財務基盤の健全化、財務体質の強化へ努力を集中いたしま",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "以上の結果、営業利益は975百万円となり、前年同期に比べ126百万円（11.5％）減少し、売上高営業利益率",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ソワール社は、在庫に経営の厳しさが表れている",
+    "url": "https://www.tsr-net.co.jp/data/detail/1191293_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年12月期末の在庫が約55億円",
+    "url": "https://www.tsr-net.co.jp/data/detail/1191293_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "量で考えると1年分の売上を超える在庫を期首から抱えている",
+    "url": "https://www.tsr-net.co.jp/data/detail/1191293_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "株主総会では、「僕らの（株主）提案を引っ込めるから、お互いに人を出してチームを作って在庫調査をさせてほしい",
+    "url": "https://www.tsr-net.co.jp/data/detail/1191293_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "虎の子の財産を売るのであれば、それを資金繰りに回し、借入返済は一旦棚上げしてもらい、在庫を償却して損金を立て、その間に（不動産売却で）手に入れた資金を元手にダウンサイジングすべきだ",
+    "url": "https://www.tsr-net.co.jp/data/detail/1191293_1527.html",
+    "pass": 3
+   },
+   {
+    "quote": "特に、在庫に関しては以前から問題視していたようだ",
+    "url": "https://www.tsr-net.co.jp/data/detail/1191293_1527.html",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年3月期有価証券報告書より",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "令和７年４月１日",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "令和８年３月31日",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "令和６年４月１日",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "令和７年３月31日",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月3日（火）",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=6343",
+    "pass": 3
+   },
+   {
+    "quote": "令和９年３月期 第１四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=6343",
+    "pass": 3
+   },
+   {
+    "quote": "令和4年3月期決算短信の発表が期末後50日を超えたことに関するお知らせ",
+    "url": "http://www.freesiamacross-extruder.com/jp/investors_relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和4年3月期決算発表延期に関するお知らせ",
+    "url": "http://www.freesiamacross-extruder.com/jp/investors_relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和9年3月期",
+    "url": "http://www.freesiamacross-extruder.com/jp/investors_relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和8年8月14日",
+    "url": "http://www.freesiamacross-extruder.com/jp/investors_relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和９年３月期 第１四半期決算短信〔日本基準〕（連結）",
+    "url": "http://www.freesiamacross-extruder.com/jp/investors_relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和8年3月期",
+    "url": "http://www.freesiamacross-extruder.com/jp/investors_relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和8年5月20日",
+    "url": "http://www.freesiamacross-extruder.com/jp/investors_relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和８年３月期 決算短信〔日本基準〕（連結）",
+    "url": "http://www.freesiamacross-extruder.com/jp/investors_relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和8年2月16日",
+    "url": "http://www.freesiamacross-extruder.com/jp/investors_relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和８年３月期 第3四半期（中間期）決算短信〔日本基準〕（連結）",
+    "url": "http://www.freesiamacross-extruder.com/jp/investors_relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和7年11月14日",
+    "url": "http://www.freesiamacross-extruder.com/jp/investors_relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和８年３月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+    "url": "http://www.freesiamacross-extruder.com/jp/investors_relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和7年8月14日",
+    "url": "http://www.freesiamacross-extruder.com/jp/investors_relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和８年３月期 第１四半期決算短信〔日本基準〕（連結）",
+    "url": "http://www.freesiamacross-extruder.com/jp/investors_relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和7年3月期",
+    "url": "http://www.freesiamacross-extruder.com/jp/investors_relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和7年5月20日",
+    "url": "http://www.freesiamacross-extruder.com/jp/investors_relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和７年３月期 決算短信〔日本基準〕（連結）",
+    "url": "http://www.freesiamacross-extruder.com/jp/investors_relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和7年2月14日",
+    "url": "http://www.freesiamacross-extruder.com/jp/investors_relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和７年３月期 第３四半期決算短信〔日本基準〕（連結）",
+    "url": "http://www.freesiamacross-extruder.com/jp/investors_relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和6年11月14日",
+    "url": "http://www.freesiamacross-extruder.com/jp/investors_relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和７年３月期 第２四半期決算短信〔日本基準〕（連結）",
+    "url": "http://www.freesiamacross-extruder.com/jp/investors_relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和6年08月14日",
+    "url": "http://www.freesiamacross-extruder.com/jp/investors_relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和７年３月期 第１四半期決算短信〔日本基準〕（連結）",
+    "url": "http://www.freesiamacross-extruder.com/jp/investors_relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和6年3月期",
+    "url": "http://www.freesiamacross-extruder.com/jp/investors_relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和6年05月20日",
+    "url": "http://www.freesiamacross-extruder.com/jp/investors_relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "昭和20年10月 谷藤商事合資会社創立",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "昭和21年３月 谷藤商事合資会社の機械部として発足",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "昭和22年10月 東京都江戸川区深川木場に谷藤機械工業株式会社を設立",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "昭和24年～26年 斯界で初めて各種土質試験用機械の製作、販売開始",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "昭和38年７月 資本金１億円、７月22日東京証券取引所第２部上場",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "昭和45年１月 プラスチック押出機の分野に進出",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "昭和53年２月 資本金５億円",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "昭和55年１月 埼玉県騎西町に埼玉工場を新設、移転",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "昭和56年７月 フリージアソーラーシステム株式会社設立",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成２年４月 資本金25億2,520万円",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成２年５月 フリージアホーム株式会社設立",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成３年２月 プラスチック押出機及び土木試験機の製造、販売を事業の柱と定め、不採算部門を整理",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成３年４月 株式会社マクロスに社名変更",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成３年10月 資本金５億4,606万円に減資",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成３年12月 資本金７億9,256万円",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成７年３月 資本金13億8,086万円",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成７年４月 フリージア・マクロス株式会社に社名変更",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成９年７月 フリージアソーラーシステム株式会社の社名をフリージアトレーディング株式会社に変更",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成13年２月 資本金14億5,227万円",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成13年３月 資本金14億9,727万円",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成13年12月 資本金17億4,176万円",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成14年２月 資本金19億346万円",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成14年２月 資本金20億7,776万円",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成15年３月 １：２の株式分割を実施",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成17年８月 １：２の株式分割を実施",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期有価証券報告書より",
+    "url": "https://kitaishihon.com/company/6343/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "平成12年３月",
+    "url": "https://kitaishihon.com/company/6343/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "平成19年６月",
+    "url": "https://kitaishihon.com/company/6343/board-of-director",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "フリージア ・ マクロス 【6343】の事業内容 - キタイシホン — フリージア ・ マクロス 【6343】の事業内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "フリージア ・ マクロス 株式会社及びその関係者による大規模買 ... — フリージア ・ マクロス 株式会社及びその関係者による大規模買 ... 日本取引所グループ PDF https://www2.jpx.co.jp > disc",
+    "url": "https://www2.jpx.co.jp/disc/80400/140120220210586493.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【 フリージア ・ マクロス 】[6343] 過去10年間の株価推移 | 日経 ... — 【 フリージア ・ マクロス 】[6343] 過去10年間の株価推移 | 日経 ... 日本経済新聞 https://www.nikkei.com > company > history > yprice",
+    "url": "https://www.nikkei.com/nkd/company/history/yprice/?scode=6343",
+    "pass": 3
+   },
+   {
+    "quote": "【 フリージア ・ マクロス 】[6343]IR情報 中期経営計画や 決算 短信 — 【 フリージア ・ マクロス 】[6343]IR情報 中期経営計画や 決算 短信 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=6343",
+    "pass": 3
+   },
+   {
+    "quote": "フリージア ・ マクロス 【6343】の最新 決算 発表、業績修正 - 株探 — フリージア ・ マクロス 【6343】の最新 決算 発表、業績修正 - 株探 株探 https://kabutan.jp > フリージア・マクロス (6343) > 決算",
+    "url": "https://kabutan.jp/stock/finance?code=6343",
+    "pass": 3
+   },
+   {
+    "quote": "フリージア ・ マクロス 【6343】のIR 資料 - キタイシホン — フリージア ・ マクロス 【6343】のIR 資料 - キタイシホン キタイシホン https://kitaishihon.com > company > ir-library",
+    "url": "https://kitaishihon.com/company/6343/ir-library",
+    "pass": 3
+   },
+   {
+    "quote": "フリージア ・ マクロス 【6343】の 事業 内容 - キタイシホン — フリージア ・ マクロス 【6343】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/6343/business",
+    "pass": 3
+   },
+   {
+    "quote": "【 フリージア ・ マクロス 】[6343]企業概要 社員数や役員報酬 ... — 【 フリージア ・ マクロス 】[6343]企業概要 社員数や役員報酬 ... 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6343",
+    "pass": 3
+   },
+   {
+    "quote": "フリージア ・ マクロス — フリージア ・ マクロス finance-frontend-pc-dist.west.edge.storage-yahoo.jp PDF https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp > ...",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20240703/20240627539704.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6343 フリージア ・ マクロス | 株式情報、企業分析 - IRBANK — 6343 フリージア ・ マクロス | 株式情報、企業分析 - IRBANK IRBANK https://irbank.net > ...",
+    "url": "https://irbank.net/E01620",
+    "pass": 3
+   },
+   {
+    "quote": "フリージア ・ マクロス 【6343】の 社長 ・役員 - キタイシホン — フリージア ・ マクロス 【6343】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/6343/board-of-director",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=6343",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=6343",
+    "pass": 3
+   },
+   {
+    "quote": "パートナー体制",
+    "url": "https://www.tsr-net.co.jp/data/detail/1191293_1527.html",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "持分法による投資利益が82百万円増加し、支払手数料が77百万円減少したことなどによります",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "①【ストックオプション制度の内容】",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年額5,500万円以内，監査等委員である取締役の報酬額を年額1,500万円以内とすることを定めております",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "支払手数料 86,998 9,248",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "支払手数料 301,083 313,792",
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.freesiamacross-extruder.com/jp/company_idea.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/6343/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=6343",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.freesiamacross-extruder.com/jp/investors_relations.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kitaishihon.com/company/6343/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/6343/board-of-director",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsr-net.co.jp/data/detail/1191293_1527.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "フリージア・マクロス",
+   "results": [
+    "https://www.freesiamacross-extruder.com/jp/company_information.html",
+    "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AA%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%BB%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%B9",
+    "https://www.freesiamacross-extruder.com/jp/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=6343",
+    "https://kabutan.jp/stock/?code=6343",
+    "https://minkabu.jp/stock/6343",
+    "https://shikiho.toyokeizai.net/stocks/6343/corporate",
+    "https://ja.wikipedia.org/wiki/フリージア・マクロス",
+    "https://ja.wikipedia.org/wiki/佐々木ベジ",
+    "http://www.freesiamacross-extruder.com/"
+   ]
+  },
+  {
+   "query": "株式会社フリージア・マクロス",
+   "results": [
+    "https://www.freesiamacross-extruder.com/jp/company_information.html",
+    "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AA%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%BB%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%B9",
+    "https://www.freesiamacross-extruder.com/jp/",
+    "http://group.freesia.co.jp/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=6343",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrL7&q_no=8",
+    "https://shikiho.toyokeizai.net/stocks/6343/corporate",
+    "https://kabutan.jp/stock/?code=6343",
+    "https://ja.wikipedia.org/wiki/フリージア・マクロス",
+    "https://ja.wikipedia.org/wiki/佐々木ベジ"
+   ]
+  },
+  {
+   "query": "フリージア・マクロス 株式会社",
+   "results": [
+    "https://www.freesiamacross-extruder.com/jp/company_information.html",
+    "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AA%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%BB%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%B9",
+    "https://www.freesiamacross-extruder.com/jp/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=6343",
+    "https://kabutan.jp/stock/?code=6343",
+    "https://shikiho.toyokeizai.net/stocks/6343/corporate",
+    "http://group.freesia.co.jp/",
+    "https://ja.wikipedia.org/wiki/フリージア・マクロス",
+    "https://ja.wikipedia.org/wiki/佐々木ベジ",
+    "http://www.freesiamacross-extruder.com/jp/"
+   ]
+  },
+  {
+   "query": "フリージアマクロス",
+   "results": [
+    "https://www.freesiamacross-extruder.com/jp/company_information.html",
+    "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AA%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%BB%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%B9",
+    "https://www.freesiamacross-extruder.com/jp/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=6343",
+    "https://kabutan.jp/stock/?code=6343",
+    "https://ja.wikipedia.org/wiki/フリージアマクロス",
+    "https://ja.wikipedia.org/wiki/フリージア・マクロス",
+    "https://ja.wikipedia.org/wiki/佐々木ベジ",
+    "http://www.freesiamacross-extruder.com/",
+    "http://group.freesia.co.jp/"
+   ]
+  },
+  {
+   "query": "フリージア・マクロス ビジネスモデル",
+   "results": [
+    "https://www.freesiamacross-extruder.com/jp/company_idea.html",
+    "https://kitaishihon.com/company/6343/business",
+    "https://www2.jpx.co.jp/disc/80400/140120220210586493.pdf",
+    "https://www.nikkei.com/nkd/company/history/yprice/?scode=6343",
+    "https://shikiho.toyokeizai.net/stocks/6343",
+    "https://compalyze.co.jp/company/3010001000012",
+    "https://investalk.jp/6343/freesia-macross-2026-03-earnings/",
+    "https://scouter.monex.co.jp/report/top/6343",
+    "https://ja.wikipedia.org/wiki/フリージア・マクロス",
+    "https://consovation.com/株式会社フリージア・マクロスのビジネスモデル/"
+   ]
+  },
+  {
+   "query": "フリージア・マクロス 決算説明資料",
+   "results": [
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=6343",
+    "http://www.freesiamacross-extruder.com/jp/investors_relations.html",
+    "https://kabutan.jp/stock/finance?code=6343",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250520/20250515555674.pdf",
+    "https://kitaishihon.com/company/6343/ir-library",
+    "https://finance.matsui.co.jp/stock/6343/settlement/index",
+    "http://ke.kabupro.jp/code/6343.htm",
+    "https://www.buffett-code.com/company/6343/library",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260710591656/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260516539185/"
+   ]
+  },
+  {
+   "query": "フリージア・マクロス 事業系統図",
+   "results": [
+    "https://www.freesiamacross-extruder.com/jp/pdf/securities/2023-80th.pdf",
+    "https://kitaishihon.com/company/6343/business",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=6343",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20240703/20240627539704.pdf",
+    "https://irbank.net/E01620",
+    "https://shikiho.toyokeizai.net/stocks/6343/corporate",
+    "https://edinetdb.jp/company/E01620/text",
+    "https://scouter.monex.co.jp/report/top/6343",
+    "https://ja.wikipedia.org/wiki/フリージア・マクロス",
+    "http://www.freesiamacross-extruder.com/jp/company_business.html"
+   ]
+  },
+  {
+   "query": "フリージア・マクロス 社長 インタビュー",
+   "results": [
+    "https://kitaishihon.com/company/6343/board-of-director",
+    "https://www.tsr-net.co.jp/data/detail/1191293_1527.html",
+    "https://www.freesiamacross-extruder.com/jp/",
+    "https://ja.wikipedia.org/wiki/%E5%A5%A5%E5%B1%B1%E4%B8%80%E5%AF%B8%E6%B3%95%E5%B8%AB",
+    "https://maonline.jp/articles/tsr0388-sasaki-vege-interview1",
+    "https://j-lic.com/companies/6343/directors",
+    "https://diamond.jp/zai/articles/-/18310",
+    "https://baseconnect.in/keyman/3d6a8d49-8d5b-5960-b4ca-baff63326b24",
+    "https://cir.nii.ac.jp/crid/1520853833169079680",
+    "https://ja.wikipedia.org/wiki/佐々木ベジ"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索8回）",
+  "従業員数": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索8回）",
+  "事業内容": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索8回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索8回）"
+ }
+}

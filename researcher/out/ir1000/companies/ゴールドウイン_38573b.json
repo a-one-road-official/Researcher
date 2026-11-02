@@ -1,0 +1,853 @@
+{
+ "name": "ゴールドウイン",
+ "aliases": [],
+ "context": "証券コード8111／繊維製品／プライム（内国株式）／2026.03期 売上高137,516百万円 営業利益率18.8%",
+ "researched_at": "2026-11-02T18:09:04.092082+00:00",
+ "official_url": "https://www.goldwin.co.jp/",
+ "identified_by": "search:yahoo_jp:ゴールドウイン",
+ "profile": {
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "126,907 188,500",
+    "url": "https://about.goldwin.co.jp/ir/mid-term",
+    "pass": 3
+   },
+   {
+    "label": "売上高の拡大",
+    "value": "販売効率の改善 資本構成の最適化",
+    "url": "https://about.goldwin.co.jp/ir/mid-term",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "ビジネスモデル": [
+   {
+    "quote": "「実需型ビジネスモデル」 を世界市場へ展開",
+    "url": "https://about.goldwin.co.jp/ir/mid-term",
+    "pass": 3
+   },
+   {
+    "quote": "バリュー・チェーンの領域拡張に伴う新しいビジネスモデルの創造",
+    "url": "https://about.goldwin.co.jp/ir/mid-term",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "企画力、生産基盤、直営店や取引先との密な連携、リペア対応など当社のサプライチェーン全体によってブランド価値が築かれています",
+    "url": "https://about.goldwin.co.jp/ir/mid-term",
+    "pass": 3
+   },
+   {
+    "quote": "会員プログラムを通じた顧客満足度の向上",
+    "url": "https://about.goldwin.co.jp/ir/mid-term",
+    "pass": 3
+   },
+   {
+    "quote": "「我々は当初、顧客がどのようなものを選ぶのか、どんな人が来るのかを調査する目的もありました",
+    "url": "https://omoharareal.com/navi/interview/detail/5645",
+    "pass": 3
+   },
+   {
+    "quote": "我々も、多くのお客様に無駄なくいつでも使える製品でアウトドアスポーツを楽しんでもらいたい",
+    "url": "https://www.fashionsnap.com/article/top-interview-2026-goldwin/",
+    "pass": 3
+   },
+   {
+    "quote": "山の専門店にはどうしても行きづらいお客様でも、洋服の専門店なら手に取りやすい",
+    "url": "https://www.fashionsnap.com/article/top-interview-2026-goldwin/",
+    "pass": 3
+   },
+   {
+    "quote": "新しいお客様が製品に触れる良い機会になってい",
+    "url": "https://www.fashionsnap.com/article/top-interview-2026-goldwin/",
+    "pass": 3
+   },
+   {
+    "quote": "フットウェアを強化することで、多くのお客様にトレッキングに行ってもらいたい",
+    "url": "https://www.fashionsnap.com/article/top-interview-2026-goldwin/",
+    "pass": 3
+   },
+   {
+    "quote": "将来的には、販売スタッフがガイドの資格を持ち、ツアーリーダーとしてお客様と地域のコミュニティをつなぎ、自然保護活動へとつなげていく",
+    "url": "https://www.fashionsnap.com/article/top-interview-2026-goldwin/",
+    "pass": 3
+   },
+   {
+    "quote": "私自身も2026年1月にザ・ノース・フェイスのチーム、お客様と一緒にエベレストへトレッキングに行きます",
+    "url": "https://www.fashionsnap.com/article/top-interview-2026-goldwin/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "商品・サービス",
+    "url": "https://about.goldwin.co.jp/ir/mid-term",
+    "pass": 3
+   },
+   {
+    "quote": "IRメール配信サービス",
+    "url": "https://about.goldwin.co.jp/ir/mid-term",
+    "pass": 3
+   },
+   {
+    "quote": "“CORE”マーケットでは、アウトドアで必要とされる機能や素材開発により革新的な製品を提供し、“MORE”マーケットでは、“CORE”で培った機能を日常着へ提案し、より幅広いシーンで使用ができています",
+    "url": "https://about.goldwin.co.jp/ir/mid-term",
+    "pass": 3
+   },
+   {
+    "quote": "ライフスタイルでのCORE製品販売",
+    "url": "https://about.goldwin.co.jp/ir/mid-term",
+    "pass": 3
+   },
+   {
+    "quote": "製品開発（Lab）",
+    "url": "https://about.goldwin.co.jp/ir/mid-term",
+    "pass": 3
+   },
+   {
+    "quote": "商品・サービス",
+    "url": "https://about.goldwin.co.jp/about/business",
+    "pass": 3
+   },
+   {
+    "quote": "IRメール配信サービス",
+    "url": "https://about.goldwin.co.jp/about/business",
+    "pass": 3
+   },
+   {
+    "quote": "バイオベンチャーのSpiberと共同開発した構造タンパク質「ブリュード・プロテイン™繊維」を使用した製品に代表される環境負荷低減のための製品開発にも積極的に取り組みながら、製品の回収、リサイクルやリペアを積極的に推奨するなど、循環型のモノづくりを徹底しています",
+    "url": "https://about.goldwin.co.jp/about/business",
+    "pass": 3
+   },
+   {
+    "quote": "その他にも、「THE NORTH FACE Kid’s Nature School」、やNEUTRALWORKS.のコンディショニングサービスなど、ブランドごと遊びやスポーツ、アクティビティを通じた様々な体験を提供していきます",
+    "url": "https://about.goldwin.co.jp/about/business",
+    "pass": 3
+   },
+   {
+    "quote": "商品・サービス",
+    "url": "https://about.goldwin.co.jp/ir/supplement",
+    "pass": 3
+   },
+   {
+    "quote": "IRメール配信サービス",
+    "url": "https://about.goldwin.co.jp/ir/supplement",
+    "pass": 3
+   },
+   {
+    "quote": "商品・サービス",
+    "url": "https://about.goldwin.co.jp/ir",
+    "pass": 3
+   },
+   {
+    "quote": "IRメール配信サービス",
+    "url": "https://about.goldwin.co.jp/ir",
+    "pass": 3
+   },
+   {
+    "quote": "商品・サービス",
+    "url": "https://about.goldwin.co.jp/about/organization",
+    "pass": 3
+   },
+   {
+    "quote": "IRメール配信サービス",
+    "url": "https://about.goldwin.co.jp/about/organization",
+    "pass": 3
+   },
+   {
+    "quote": "商品・サービス",
+    "url": "https://about.goldwin.co.jp/sitemap",
+    "pass": 3
+   },
+   {
+    "quote": "IRメール配信サービス",
+    "url": "https://about.goldwin.co.jp/sitemap",
+    "pass": 3
+   },
+   {
+    "quote": "このように、気候やニーズが変化する中で、売り場からは、長期間値引きせずに売れる商品を作ってほしいという要望があります",
+    "url": "https://www.fashionsnap.com/article/top-interview-2026-goldwin/",
+    "pass": 3
+   },
+   {
+    "quote": "我々も、多くのお客様に無駄なくいつでも使える製品でアウトドアスポーツを楽しんでもらいたい",
+    "url": "https://www.fashionsnap.com/article/top-interview-2026-goldwin/",
+    "pass": 3
+   },
+   {
+    "quote": "より多様な環境に対応できる、ソリューションとなる製品群の提案を広げていきます",
+    "url": "https://www.fashionsnap.com/article/top-interview-2026-goldwin/",
+    "pass": 3
+   },
+   {
+    "quote": "──気候変動というピンチが、新たな製品開発の機会というチャンスにもなっているということですね",
+    "url": "https://www.fashionsnap.com/article/top-interview-2026-goldwin/",
+    "pass": 3
+   },
+   {
+    "quote": "新製品開発を余儀なくされると、我々がこれまでに経験していないことを考える機会になるわけです",
+    "url": "https://www.fashionsnap.com/article/top-interview-2026-goldwin/",
+    "pass": 3
+   },
+   {
+    "quote": "クオリティを追求した製品が多くの人に購入してもらえるのは、非常に良いことだと思っています",
+    "url": "https://www.fashionsnap.com/article/top-interview-2026-goldwin/",
+    "pass": 3
+   },
+   {
+    "quote": "これまでは、専門性の高い製品はアウトドアの専門知識や接客技術を持つ店舗で販売すべきだという考えが基本でしたが、洋服の専門店でもしっかり理解して売ってくれるところはある",
+    "url": "https://www.fashionsnap.com/article/top-interview-2026-goldwin/",
+    "pass": 3
+   },
+   {
+    "quote": "新しいお客様が製品に触れる良い機会になってい",
+    "url": "https://www.fashionsnap.com/article/top-interview-2026-goldwin/",
+    "pass": 3
+   },
+   {
+    "quote": "協業することで、インパクトのある良い製品ができたと思っています",
+    "url": "https://www.fashionsnap.com/article/top-interview-2026-goldwin/",
+    "pass": 3
+   },
+   {
+    "quote": "したことで、徐々にオールシーズン商品に成長しています",
+    "url": "https://www.fashionsnap.com/article/top-interview-2026-goldwin/",
+    "pass": 3
+   },
+   {
+    "quote": "そうした製品は山の専門店ではなかなか扱ってもらえなかったので、自ら直営店を作るようになりました",
+    "url": "https://www.fashionsnap.com/article/top-interview-2026-goldwin/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には旅行会社のアルパインツアーサービスを子会社化",
+    "url": "https://www.fashionsnap.com/article/top-interview-2026-goldwin/",
+    "pass": 3
+   },
+   {
+    "quote": "我々ゴールドウインはアウトドアとスポーツの専門家ですし、アドベンチャートラベルの可能性に対して、製品もアイデアも人も提供できます",
+    "url": "https://www.fashionsnap.com/article/top-interview-2026-goldwin/",
+    "pass": 3
+   },
+   {
+    "quote": "製品開発では、より機能的で快適なものに先端的なデザインを搭載し、他社では作れないようなアイテムの開発を加速させていきます",
+    "url": "https://www.fashionsnap.com/article/top-interview-2026-goldwin/",
+    "pass": 3
+   },
+   {
+    "quote": "フィールドで得られる実感が、私たちの製品が持つ真の価値を理解し、ブランドとして他との違いを作っていくことになるからです",
+    "url": "https://www.fashionsnap.com/article/top-interview-2026-goldwin/",
+    "pass": 3
+   },
+   {
+    "quote": "ジンズHD田中亮社長 「グローバル定番商品」がヒット、国内で“圧倒的”な存在へ",
+    "url": "https://www.fashionsnap.com/article/top-interview-2026-goldwin/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "役員紹介 / スキル",
+    "url": "https://about.goldwin.co.jp/ir/mid-term",
+    "pass": 3
+   },
+   {
+    "quote": "「ゴールドウイン」ブランドは、各出店地域の特性や需要に合わせた店舗を展開し、10年後に売上高500億円に伸長させ、「ザ・ノース・フェイス」は、サプライチェーンの強みを活かしながら、新たな市場を開拓していく方針です",
+    "url": "https://about.goldwin.co.jp/ir/mid-term",
+    "pass": 3
+   },
+   {
+    "quote": "中国北京店舗の成功事例を踏まえ、中国大陸の現地パートナーのリテール開発力や交渉力を活かし、１級都市のプライムロケーションを中心に年間4店舗のペースで出店を進める方針です",
+    "url": "https://about.goldwin.co.jp/ir/mid-term",
+    "pass": 3
+   },
+   {
+    "quote": "・出店拡大（15店舗体制）",
+    "url": "https://about.goldwin.co.jp/ir/mid-term",
+    "pass": 3
+   },
+   {
+    "quote": "・現地企業パートナーと事業展開に向けたジョイントベンチャー設立",
+    "url": "https://about.goldwin.co.jp/ir/mid-term",
+    "pass": 3
+   },
+   {
+    "quote": "・事業経験豊富の現地パートナー（YOUNGONE OUTDOOR Corporation）と連携",
+    "url": "https://about.goldwin.co.jp/ir/mid-term",
+    "pass": 3
+   },
+   {
+    "quote": "役員紹介 / スキル",
+    "url": "https://about.goldwin.co.jp/about/business",
+    "pass": 3
+   },
+   {
+    "quote": "「PLAY EARTH ADVENTURE」は、環境省と国立公園オフィシャルパートナーシップを締結し、日本が世界に誇る国立公園をフィールドとしたさまざまな体験価値を提供する「National Parks of Japan」を運営",
+    "url": "https://about.goldwin.co.jp/about/business",
+    "pass": 3
+   },
+   {
+    "quote": "役員紹介 / スキル",
+    "url": "https://about.goldwin.co.jp/ir/supplement",
+    "pass": 3
+   },
+   {
+    "quote": "役員紹介 / スキル",
+    "url": "https://about.goldwin.co.jp/ir",
+    "pass": 3
+   },
+   {
+    "quote": "役員紹介 / スキル",
+    "url": "https://about.goldwin.co.jp/about/organization",
+    "pass": 3
+   },
+   {
+    "quote": "役員紹介 / スキル",
+    "url": "https://about.goldwin.co.jp/sitemap",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ先店舗",
+    "url": "https://about.goldwin.co.jp/sitemap",
+    "pass": 3
+   },
+   {
+    "quote": "明治通り沿いを中心にゴールドウインが日本と韓国の商標ライセンスを持つ「THE NORTH FACE（ザ・ノース・フェイス）」だけでも6店舗、同ブランドをオモハラのひとつのアイコンへと押し上げ、2020年に代表取締役社長に就任したのが渡辺貴生氏だ",
+    "url": "https://omoharareal.com/navi/interview/detail/5645",
+    "pass": 3
+   },
+   {
+    "quote": "「最初のビームスは、小さい店舗にアメリカ西海岸のスタイルの服がたくさん置いてありました",
+    "url": "https://omoharareal.com/navi/interview/detail/5645",
+    "pass": 3
+   },
+   {
+    "quote": "それは、アメリカのライフスタイルと「アメカジ」の文脈を日本で初めて体系的に紹介した、アメリカ好きの教典的な雑誌",
+    "url": "https://omoharareal.com/navi/interview/detail/5645",
+    "pass": 3
+   },
+   {
+    "quote": "このストリートファッションとの接続を経て、同店舗の",
+    "url": "https://omoharareal.com/navi/interview/detail/5645",
+    "pass": 3
+   },
+   {
+    "quote": "店舗リニューアルの際、初めて店名として「ザ・ノース・フェイス」の名が掲げられた",
+    "url": "https://omoharareal.com/navi/interview/detail/5645",
+    "pass": 3
+   },
+   {
+    "quote": "2000年代初頭の店舗リニューアル時、店舗前に作った“余白”のスペース 写真提供：株式会社ゴールドウイン",
+    "url": "https://omoharareal.com/navi/interview/detail/5645",
+    "pass": 3
+   },
+   {
+    "quote": "店舗面積を最大化するのではなく、あえて通りに「余白」を差し出すこと",
+    "url": "https://omoharareal.com/navi/interview/detail/5645",
+    "pass": 3
+   },
+   {
+    "quote": "そして店舗を通じて気づいた“街と繋がること”の本質",
+    "url": "https://omoharareal.com/navi/interview/detail/5645",
+    "pass": 3
+   },
+   {
+    "quote": "質問、自己紹介など",
+    "url": "https://omoharareal.com/navi/interview/detail/5645",
+    "pass": 3
+   },
+   {
+    "quote": "これまでは、専門性の高い製品はアウトドアの専門知識や接客技術を持つ店舗で販売すべきだという考えが基本でしたが、洋服の専門店でもしっかり理解して売ってくれるところはある",
+    "url": "https://www.fashionsnap.com/article/top-interview-2026-goldwin/",
+    "pass": 3
+   },
+   {
+    "quote": "──2025年は、ザ・ノース・フェイスで店舗の大型化も目立った1年でした",
+    "url": "https://www.fashionsnap.com/article/top-interview-2026-goldwin/",
+    "pass": 3
+   },
+   {
+    "quote": "新丸ビル4階の店舗では、ファッションアプローチの「ザ・ノース・フェイス パープルレーベル（THE NORTH FACE PURPLE LABEL）」とパフォーマンスラインであるサミットシリーズの両方を提案しています",
+    "url": "https://www.fashionsnap.com/article/top-interview-2026-goldwin/",
+    "pass": 3
+   },
+   {
+    "quote": "──大型化した店舗では、今後の成長軸として期待する",
+    "url": "https://www.fashionsnap.com/article/top-interview-2026-goldwin/",
+    "pass": 3
+   },
+   {
+    "quote": "中国に8店舗を出店し、この1月31日にはロンドン、2月にソウル、3月にニューヨークに出店予定と、引き続きグローバルで出店を強化しています",
+    "url": "https://www.fashionsnap.com/article/top-interview-2026-goldwin/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント情報",
+    "url": "https://about.goldwin.co.jp/ir/mid-term",
+    "pass": 3
+   },
+   {
+    "quote": "中計最終年度に自主管理売上比率60%を目指す",
+    "url": "https://about.goldwin.co.jp/ir/mid-term",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://about.goldwin.co.jp/about/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://about.goldwin.co.jp/ir/supplement",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://about.goldwin.co.jp/ir",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://about.goldwin.co.jp/about/organization",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://about.goldwin.co.jp/sitemap",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "「ゴールドウイン」ブランドは、各出店地域の特性や需要に合わせた店舗を展開し、10年後に売上高500億円に伸長させ、「ザ・ノース・フェイス」は、サプライチェーンの強みを活かしながら、新たな市場を開拓していく方針です",
+    "url": "https://about.goldwin.co.jp/ir/mid-term",
+    "pass": 3
+   },
+   {
+    "quote": "今後も強みを活かし、引き続き新たな市場を開拓していく方針です",
+    "url": "https://about.goldwin.co.jp/ir/mid-term",
+    "pass": 3
+   },
+   {
+    "quote": "流動在庫の徹底",
+    "url": "https://about.goldwin.co.jp/ir/mid-term",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2025年3月期～2029年3月期",
+    "url": "https://about.goldwin.co.jp/ir/mid-term",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://about.goldwin.co.jp/ir/mid-term",
+    "pass": 3
+   },
+   {
+    "quote": "2029年3月期",
+    "url": "https://about.goldwin.co.jp/ir/mid-term",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月期までの10年間で「ザ・ノース・フェイス」の売上高は約5倍に成長し、売上高は975億円を達成しました",
+    "url": "https://about.goldwin.co.jp/ir/mid-term",
+    "pass": 3
+   },
+   {
+    "quote": "2033年3月期売上高",
+    "url": "https://about.goldwin.co.jp/ir/mid-term",
+    "pass": 3
+   },
+   {
+    "quote": "2017年には研究開発施設「ゴールドウイン テック・ラボ」を設置し、身体の動きに追随するウエアの機能開発や環境による身体の生理現象、高い品質を保つための検査など、常にリサーチを続け、実験的なものづくりも継続的におこなっています",
+    "url": "https://about.goldwin.co.jp/about/business",
+    "pass": 3
+   },
+   {
+    "quote": "2021年に遊びを通じて人と自然の新たな関係をつくっていくコンセプト「PLAY EARTH」を掲げ、「PLAY EARTH PARK」などの取り組みを通じて未来を担う子どもたちに遊びの機会と場を提供しています",
+    "url": "https://about.goldwin.co.jp/about/business",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月1日～10月31日",
+    "url": "https://about.goldwin.co.jp/ir",
+    "pass": 3
+   },
+   {
+    "quote": "1960年千葉県出身",
+    "url": "https://omoharareal.com/navi/interview/detail/5645",
+    "pass": 3
+   },
+   {
+    "quote": "2020年4月、社長に就任",
+    "url": "https://omoharareal.com/navi/interview/detail/5645",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月より現職を務め、現在は27年に「Play Earth Park Naturing Forest」の開業を目指している",
+    "url": "https://omoharareal.com/navi/interview/detail/5645",
+    "pass": 3
+   },
+   {
+    "quote": "1976年・『U.S.A. catalog』に見たTHE NORTH FACEの衝撃",
+    "url": "https://omoharareal.com/navi/interview/detail/5645",
+    "pass": 3
+   },
+   {
+    "quote": "1982年にゴールドウインに入社した渡辺氏はエレッセの担当を経て、1985年、念願だったザ・ノース・フェイスの事業担当に就く",
+    "url": "https://omoharareal.com/navi/interview/detail/5645",
+    "pass": 3
+   },
+   {
+    "quote": "1985年に原宿駅竹下口周辺にオープンしたザ・ノース・フェイス国内初の直営店「WEATHER STATION」写真提供：株式会社ゴールドウイン",
+    "url": "https://omoharareal.com/navi/interview/detail/5645",
+    "pass": 3
+   },
+   {
+    "quote": "1990年代に入ると、NYでヒップホップカルチャーと結びついた「ヌプシジャケット」が大流行した",
+    "url": "https://omoharareal.com/navi/interview/detail/5645",
+    "pass": 3
+   },
+   {
+    "quote": "2025年7月「THE NORTH FACE 丸の内」のオープン時に展示された初代ヌプシジャケット",
+    "url": "https://omoharareal.com/navi/interview/detail/5645",
+    "pass": 3
+   },
+   {
+    "quote": "1970年代に西海岸の風を吸収していた渡辺氏が、ブランドを通じて街の若者たちと結ばれた瞬間と言えよう",
+    "url": "https://omoharareal.com/navi/interview/detail/5645",
+    "pass": 3
+   },
+   {
+    "quote": "1993年に明治通り沿い「THE NORTH FACE MOUNTAIN」の場所に移転 建物の外壁に今の面影を見ることができる",
+    "url": "https://omoharareal.com/navi/interview/detail/5645",
+    "pass": 3
+   },
+   {
+    "quote": "2000年代初頭の店舗リニューアル時、店舗前に作った“余白”のスペース 写真提供：株式会社ゴールドウイン",
+    "url": "https://omoharareal.com/navi/interview/detail/5645",
+    "pass": 3
+   },
+   {
+    "quote": "2024年、ゴールドウインは渋谷・松濤にあった本社を北青山3丁目の「青朋ビル」に移転した",
+    "url": "https://omoharareal.com/navi/interview/detail/5645",
+    "pass": 3
+   },
+   {
+    "quote": "2020年に代表取締役社長に就任した氏は移転プロジェクトを若いチームに一任し、一切口出しをしなかったという",
+    "url": "https://omoharareal.com/navi/interview/detail/5645",
+    "pass": 3
+   },
+   {
+    "quote": "2021年には長期ヴィジョン「PLAY EARTH 2030」を策定し、次なる成長軸と見込むゴールドウインブランドでグローバル売上高500億円を掲げるなど、変革期を迎えている",
+    "url": "https://www.fashionsnap.com/article/top-interview-2026-goldwin/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月から現職を務める",
+    "url": "https://www.fashionsnap.com/article/top-interview-2026-goldwin/",
+    "pass": 3
+   },
+   {
+    "quote": "1950年、富山県小矢部市で津澤メリヤス製造所として創業",
+    "url": "https://www.fashionsnap.com/article/top-interview-2026-goldwin/",
+    "pass": 3
+   },
+   {
+    "quote": "1970年代以降は、「ザ・ノース・フェイス」をはじめとした海外ブランドとのライセンス契約を締結",
+    "url": "https://www.fashionsnap.com/article/top-interview-2026-goldwin/",
+    "pass": 3
+   },
+   {
+    "quote": "2017年には研究開発施設「ゴールドウインテック・ラボ」を設立し、2015年にスパイバーとのバイオ素材開発を開始",
+    "url": "https://www.fashionsnap.com/article/top-interview-2026-goldwin/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年、未来への探究のためのプラットフォーム「ゴールドウイン ゼロ」を始動した",
+    "url": "https://www.fashionsnap.com/article/top-interview-2026-goldwin/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年からは「人を挑戦に導き、人と自然の可能性をひろげる」をパーパスに掲げ、未来のネイチャーパーク「プレイアースパーク ネイチャーリング フォレスト」などの取り組みを通じて、単なるモノの販売を超えた価値提供を推進している",
+    "url": "https://www.fashionsnap.com/article/top-interview-2026-goldwin/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期売上高は前期比4.3％増の1323億円、営業利益が同8.1％減の219億円",
+    "url": "https://www.fashionsnap.com/article/top-interview-2026-goldwin/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年春に企業パーパス「人を挑戦に導き、人と自然の可能性をひろげる」を制定しましたが、社内外に浸透してきた手応えはありますか",
+    "url": "https://www.fashionsnap.com/article/top-interview-2026-goldwin/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年5月に本社を北青山に移転したのに合わせてパーパスを発表すると同時に、コーポレートアイデンティティとブランドアイデンティティを統合し、全てのコミュニケーションで統一しました",
+    "url": "https://www.fashionsnap.com/article/top-interview-2026-goldwin/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年7月にオープンしたザ・ノース・フェイス 丸の内店",
+    "url": "https://www.fashionsnap.com/article/top-interview-2026-goldwin/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年4〜9月期の同ブランド売上においても、フットウェア含むギア全体として前年同期比8.1%増と好調でした",
+    "url": "https://www.fashionsnap.com/article/top-interview-2026-goldwin/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には旅行会社のアルパインツアーサービスを子会社化",
+    "url": "https://www.fashionsnap.com/article/top-interview-2026-goldwin/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年初夏の開業を目指し、アウトドア施設「プレイアースパーク ネイチャーリング フォレスト（Play Earth Park Naturing Forest）」を建設中",
+    "url": "https://www.fashionsnap.com/article/top-interview-2026-goldwin/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年01月21日",
+    "url": "https://www.fashionsnap.com/article/top-interview-2026-goldwin/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "事業内容 | About ゴールドウイン について - Goldwin Inc. — 事業内容 | About ゴールドウイン について - Goldwin Inc. Goldwin Inc. https://about.goldwin.co.jp > about > business",
+    "url": "https://about.goldwin.co.jp/about/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上5300億円突破！ ゴールドウイン のグローバル戦略と ... — 売上5300億円突破！ ゴールドウイン のグローバル戦略と ... note https://note.com > ビジネス > マーケティング",
+    "url": "https://note.com/career_marke/n/nede7ce8e021b",
+    "pass": 3
+   },
+   {
+    "quote": "ゴールドウイン 【8111】の事業内容 - キタイシホン — ゴールドウイン 【8111】の事業内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/8111/business",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 株式会社 ゴールドウイン - NTTドコモビジネス — 導入事例 株式会社 ゴールドウイン - NTTドコモビジネス NTTドコモビジネス https://www.ntt.com > ホーム > 導入事例 / 取り組み事例",
+    "url": "https://www.ntt.com/business/case-studies/sdpf/goldwin.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 ゴールドウイン 】[8111]IR情報 中期経営計画や 決算 短信 — 【 ゴールドウイン 】[8111]IR情報 中期経営計画や 決算 短信 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=8111",
+    "pass": 3
+   },
+   {
+    "quote": "ゴールドウイン （8111）の 決算 発表 資料 一覧 - IRBANK — ゴールドウイン （8111）の 決算 発表 資料 一覧 - IRBANK IRBANK https://irbank.net > 繊維製品 > ゴールドウイン",
+    "url": "https://irbank.net/E00603/reports",
+    "pass": 3
+   },
+   {
+    "quote": "ゴールドウイン 【8111】のIR動画 - キタイシホン — ゴールドウイン 【8111】のIR動画 - キタイシホン キタイシホン https://kitaishihon.com > company > ir-meeting",
+    "url": "https://kitaishihon.com/company/8111/ir-meeting",
+    "pass": 3
+   },
+   {
+    "quote": "組織図 | About ゴールドウイン について - Goldwin Inc. — 組織図 | About ゴールドウイン について - Goldwin Inc. Goldwin Inc. https://about.goldwin.co.jp > about > organization",
+    "url": "https://about.goldwin.co.jp/about/organization",
+    "pass": 3
+   },
+   {
+    "quote": "ゴールドウイン 【8111】の 事業 内容 - キタイシホン — ゴールドウイン 【8111】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/8111/business",
+    "pass": 3
+   },
+   {
+    "quote": "ゴールドウイン - Wikipedia — ゴールドウイン - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > ゴールドウイン",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A6%E3%82%A4%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ゴールドウイン | 導入事例 - ウイングアーク1st — 株式会社 ゴールドウイン | 導入事例 - ウイングアーク1st ウイングアーク１ｓｔ https://www.wingarc.com > 導入事例",
+    "url": "https://www.wingarc.com/product/usecase/1431.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ゴールドウイン ・代表取締役 社長 CEO 渡辺貴生 — 株式会社 ゴールドウイン ・代表取締役 社長 CEO 渡辺貴生 OMOHARAREAL https://omoharareal.com > navi > interview > detail",
+    "url": "https://omoharareal.com/navi/interview/detail/5645",
+    "pass": 3
+   },
+   {
+    "quote": "【トップに聞く 2026】 ゴールドウイン 渡辺貴生 社長 「気候 ... — 【トップに聞く 2026】 ゴールドウイン 渡辺貴生 社長 「気候 ... fashionsnap.com https://www.fashionsnap.com > ... > ビジネス > トップに聞く",
+    "url": "https://www.fashionsnap.com/article/top-interview-2026-goldwin/",
+    "pass": 3
+   },
+   {
+    "quote": "ゴールドウイン 渡辺貴生 社長 が語る“プレミアムスポーツ”新市場 — ゴールドウイン 渡辺貴生 社長 が語る“プレミアムスポーツ”新市場 WWDJAPAN https://www.wwdjapan.com > articles",
+    "url": "https://www.wwdjapan.com/articles/2182767",
+    "pass": 3
+   },
+   {
+    "quote": "ゴールドウイン 渡辺貴生 社長 CEO「人と違うものづくりで第三 ... — ゴールドウイン 渡辺貴生 社長 CEO「人と違うものづくりで第三 ... 日経ビジネス電子版 https://business.nikkei.com > ゴールドウインの野望",
+    "url": "https://business.nikkei.com/atcl/gen/19/00860/030400002/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "明治通り沿いを中心にゴールドウインが日本と韓国の商標ライセンスを持つ「THE NORTH FACE（ザ・ノース・フェイス）」だけでも6店舗、同ブランドをオモハラのひとつのアイコンへと押し上げ、2020年に代表取締役社長に就任したのが渡辺貴生氏だ",
+    "url": "https://omoharareal.com/navi/interview/detail/5645",
+    "pass": 3
+   },
+   {
+    "quote": "ゴールドウインはスキーにルーツを持ち、ザ・ノース・フェイスの他にも幅広いスポーツブランドのライセンス販売で時代をリードする存在でした",
+    "url": "https://omoharareal.com/navi/interview/detail/5645",
+    "pass": 3
+   },
+   {
+    "quote": "1970年代以降は、「ザ・ノース・フェイス」をはじめとした海外ブランドとのライセンス契約を締結",
+    "url": "https://www.fashionsnap.com/article/top-interview-2026-goldwin/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.goldwin.co.jp/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://about.goldwin.co.jp/ir/mid-term",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://about.goldwin.co.jp/about/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://about.goldwin.co.jp/ir/supplement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://about.goldwin.co.jp/ir",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://about.goldwin.co.jp/about/organization",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://about.goldwin.co.jp/sitemap",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://omoharareal.com/navi/interview/detail/5645",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fashionsnap.com/article/top-interview-2026-goldwin/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ゴールドウイン",
+   "results": [
+    "https://www.goldwin.co.jp/store/?srsltid=AYCX9vL9_cgZcn1eSTB-vVKOv-pjeWCQdVJYxT-0MyASRJlpuwp2oS5y",
+    "https://jp.goldwin.global/",
+    "https://about.goldwin.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A6%E3%82%A4%E3%83%B3",
+    "https://www.instagram.com/goldwin_jp/",
+    "https://www.goldwin-global.com/jp/brand/",
+    "https://ja.wikipedia.org/wiki/ゴールドウイン",
+    "https://www.goldwin.co.jp/store/",
+    "https://us.goldwin.global/",
+    "https://about.goldwin.co.jp/eng/"
+   ]
+  },
+  {
+   "query": "ゴールドウイン ビジネスモデル",
+   "results": [
+    "https://about.goldwin.co.jp/ir/mid-term",
+    "https://about.goldwin.co.jp/about/business",
+    "https://note.com/career_marke/n/nede7ce8e021b",
+    "https://kitaishihon.com/company/8111/business",
+    "https://www.ntt.com/business/case-studies/sdpf/goldwin.html",
+    "https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A6%E3%82%A4%E3%83%B3",
+    "https://finance.logmi.jp/articles/385909",
+    "https://www.goldwin-global.com/jp/brand/",
+    "https://jp.linkedin.com/company/goldwin-goldwin-inc",
+    "https://bizi-mo.com/c/goldwin"
+   ]
+  },
+  {
+   "query": "ゴールドウイン 決算説明資料",
+   "results": [
+    "https://about.goldwin.co.jp/ir/supplement",
+    "https://about.goldwin.co.jp/ir",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=8111",
+    "https://irbank.net/E00603/reports",
+    "https://kitaishihon.com/company/8111/ir-meeting",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250513545821.pdf",
+    "https://finance.biggo.jp/news/ir_8111.T_20260806_bc9579184613",
+    "https://about.goldwin.co.jp/ir/individuals",
+    "https://www.buffett-code.com/company/8111/library",
+    "https://edinetdb.jp/company/E00603/presentations/"
+   ]
+  },
+  {
+   "query": "ゴールドウイン 事業系統図",
+   "results": [
+    "https://about.goldwin.co.jp/about/organization",
+    "https://about.goldwin.co.jp/sitemap",
+    "https://kitaishihon.com/company/8111/business",
+    "https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A6%E3%82%A4%E3%83%B3",
+    "https://www.wingarc.com/product/usecase/1431.html",
+    "https://it.impress.co.jp/articles/-/28952",
+    "https://www.goldwin-global.com/jp/brand/",
+    "http://www.kansai-venture.org/wp-content/uploads/2023/04/41fddb1c8199d3f3d140ee18fca626ce.pdf",
+    "https://markezine.jp/article/detail/72328",
+    "https://ja.wikipedia.org/wiki/ゴールドウイン"
+   ]
+  },
+  {
+   "query": "ゴールドウイン 社長 インタビュー",
+   "results": [
+    "https://omoharareal.com/navi/interview/detail/5645",
+    "https://www.fashionsnap.com/article/top-interview-2026-goldwin/",
+    "https://about.goldwin.co.jp/ir/voice/vol-6",
+    "https://www.wwdjapan.com/articles/2182767",
+    "https://business.nikkei.com/atcl/gen/19/00860/030400002/",
+    "https://www.instagram.com/p/CY3T8X4PfDx/",
+    "https://the-shashi.com/tse/8111/ceo/",
+    "https://kitaishihon.com/company/8111/board-of-director",
+    "https://forbesjapan.com/articles/detail/80183",
+    "https://www.wwdjapan.com/articles/1924376"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索5回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索5回）",
+  "事業内容": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索5回）"
+ }
+}

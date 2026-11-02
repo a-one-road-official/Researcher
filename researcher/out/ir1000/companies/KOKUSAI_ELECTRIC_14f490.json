@@ -1,0 +1,2181 @@
+{
+ "name": "ＫＯＫＵＳＡＩ　ＥＬＥＣＴＲＩＣ",
+ "aliases": [],
+ "context": "証券コード6525／電気機器／プライム（内国株式）／2026.03期 売上高235,079百万円 営業利益率17.8%",
+ "researched_at": "2026-11-02T18:13:26.843571+00:00",
+ "official_url": "https://www.kokusai-electric.com/",
+ "identified_by": "search:ddgs:google:KOKUSAI ELECTRIC",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立年月日",
+    "value": "2017/2/2（当社設立の経緯は沿革に記載しています）",
+    "url": "https://www.kokusai-electric.com/company/outline",
+    "pass": 1
+   },
+   {
+    "label": "会社の設立はいつですか？",
+    "value": "当社の前身である株式会社国際電気は1949年に創業しました。それ以来、当社は株式会社国際電気の一事業として、2000年からは株式会社日立国際電気の一事業として歩んできましたが、2017年に投資ファンドであるKohlberg Kravis Roberts & Co. L.P.を株主に迎え、2018年には半導体製造装置専業メーカーである株式会社KOKUSAI ELECTRICとして独立し、新たなスタートを切りました。 詳細は「 沿革 」をご覧ください。",
+    "url": "https://www.kokusai-electric.com/ir/faq",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2017年 2月2日 （HKEホールディングス合同会社）",
+    "url": "https://ja.wikipedia.org/wiki/KOKUSAI_ELECTRIC",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "単体:1,193人 連結:2,609人 （2026年3月31日時点）",
+    "url": "https://www.kokusai-electric.com/company/outline",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "連結：2483名 単独：1125名 （2024年3月） [ 3 ]",
+    "url": "https://ja.wikipedia.org/wiki/KOKUSAI_ELECTRIC",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容を教えてください。",
+    "value": "当社グループは、半導体製造装置事業の単一セグメントですが、ビジネス単位で分類すると、半導体製造装置の製造・販売を手掛ける「装置ビジネス」と、それら装置の部品販売、保守サービス、装置の移設・改造、中古装置の販売などを手掛ける「サービスビジネス」があります。",
+    "url": "https://www.kokusai-electric.com/ir/faq",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "半導体製造装置の開発・製造・販売・保守サービス及びそれに附帯関連する事業",
+    "url": "https://ja.wikipedia.org/wiki/KOKUSAI_ELECTRIC",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "連結：1808億38百万円 単独：1312億60百万円 （2024年3月期） [ 3 ]",
+    "url": "https://ja.wikipedia.org/wiki/KOKUSAI_ELECTRIC",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "製品・サービス情報",
+    "url": "https://www.kokusai-electric.com/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスサポート",
+    "url": "https://www.kokusai-electric.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス情報",
+    "url": "https://www.kokusai-electric.com/ir",
+    "pass": 1
+   },
+   {
+    "quote": "サービスサポート",
+    "url": "https://www.kokusai-electric.com/ir",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス情報",
+    "url": "https://www.kokusai-electric.com/company/outline",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社国際電気セミコンダクターサービス",
+    "url": "https://www.kokusai-electric.com/company/outline",
+    "pass": 1
+   },
+   {
+    "quote": "サービスサポート",
+    "url": "https://www.kokusai-electric.com/company/outline",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス情報",
+    "url": "https://www.kokusai-electric.com/ir/library/integratedreport",
+    "pass": 1
+   },
+   {
+    "quote": "サービスサポート",
+    "url": "https://www.kokusai-electric.com/ir/library/integratedreport",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス情報",
+    "url": "https://www.kokusai-electric.com/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "サービスサポート",
+    "url": "https://www.kokusai-electric.com/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス情報",
+    "url": "https://www.kokusai-electric.com/company/strength",
+    "pass": 1
+   },
+   {
+    "quote": "ALD技術とバッチ成膜技術を融合した当社グループのバッチALD技術は、難易度の高い薄膜形成と高生産性を両立することで、高アスペクト比の溝や孔を多数持つウェーハに対しても、高い生産性で、ステップカバレッジに優れた成膜が可能となるため、半導体の進化への対応と幅広いアプリケーションへの展開を実現する最も論理的なソリューションと言えます",
+    "url": "https://www.kokusai-electric.com/company/strength",
+    "pass": 1
+   },
+   {
+    "quote": "半導体デバイスの微細化・複雑化に伴い低温環境での成膜需要が高まっており、トリートメント技術は低温環境で膜質改善を可能にするソリューションとしても需要が拡大しています",
+    "url": "https://www.kokusai-electric.com/company/strength",
+    "pass": 1
+   },
+   {
+    "quote": "サービスサポート",
+    "url": "https://www.kokusai-electric.com/company/strength",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス情報",
+    "url": "https://www.kokusai-electric.com/company/business",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、当社およびグループ会社7社で構成され、半導体製造装置の開発・製造・販売・搬入・セットアップと、その装置のメンテナンス・修理・部品販売などのサービスを主要事業としています",
+    "url": "https://www.kokusai-electric.com/company/business",
+    "pass": 1
+   },
+   {
+    "quote": "この成膜工程は、ウェーハ上の回路形成において重要な役割を担うことから、各装置に高度な技術と信頼性の高い製品提供が不可欠となりますが、当社グループの主力製品であるバッチ成膜装置は、世界中の半導体デバイスメーカーから高く評価され、世界トップクラスのシェアを有しています",
+    "url": "https://www.kokusai-electric.com/company/business",
+    "pass": 1
+   },
+   {
+    "quote": "技術と、一度に複数枚のウェーハへの成膜を可能とするバッチ成膜技術を組み合わせたバッチALD技術は、高難易度成膜と高生産性を両立するための論理的なソリューションです",
+    "url": "https://www.kokusai-electric.com/company/business",
+    "pass": 1
+   },
+   {
+    "quote": "半導体デバイスの微細化、複雑化に伴い低温環境での成膜需要が高まる中で、低温環境でも膜質を維持するソリューションとして近年需要が拡大しています",
+    "url": "https://www.kokusai-electric.com/company/business",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループが製造・販売する半導体製造装置のアフターサービスを行っています",
+    "url": "https://www.kokusai-electric.com/company/business",
+    "pass": 1
+   },
+   {
+    "quote": "そのため、耐久性の高い製品はもちろん、製品のメンテナンスや修理・部品販売、装置の移設・改造等のアフターサービスを提供しています",
+    "url": "https://www.kokusai-electric.com/company/business",
+    "pass": 1
+   },
+   {
+    "quote": "サービスサポート",
+    "url": "https://www.kokusai-electric.com/company/business",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス情報",
+    "url": "https://www.kokusai-electric.com/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "当社の前身は、株式会社日立製作所の子会社として事業運営していた株式会社日立国際電気（旧 国際電気株式会社）における成膜プロセスソリューション事業（半導体製造装置事業）です",
+    "url": "https://www.kokusai-electric.com/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社日立製作所および株式会社日立国際電気は、当時の株式会社日立国際電気が運営していた映像・通信ソリューション事業および成膜プロセスソリューション事業のそれぞれについて経営の最適化を追求することをめざし、2017年2月に新たな資本パートナーとして投資ファンドであるKohlberg Kravis Roberts & Co. L.P（以下、「KKR」）を成膜プロセスソリューション事業の分割による売却先に選定しました",
+    "url": "https://www.kokusai-electric.com/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "その後、2018年6月に株式会社日立国際電気が会社分割を行い、同社の成膜プロセスソリューション事業をHKEホールディングス株式会社（現 当社）が承継し、同時に株式会社KOKUSAI ELECTRICに商号変更して現在に至ります",
+    "url": "https://www.kokusai-electric.com/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "国際電気システムサービス株式会社（現 株式会社国際電気セミコンダクターサービス）を設立",
+    "url": "https://www.kokusai-electric.com/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "国際電気システムサービス株式会社が通信・情報部門を日立電子システムサービス株式会社に営業譲渡し、株式会社国際電気セミコンダクターサービスに商号変更",
+    "url": "https://www.kokusai-electric.com/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "会社分割により、株式会社日立国際電気の成膜プロセスソリューション事業をHKEホールディングス株式会社（現 当社）が承継し、株式会社KOKUSAI ELECTRICに商号変更",
+    "url": "https://www.kokusai-electric.com/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "サービスサポート",
+    "url": "https://www.kokusai-electric.com/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス情報",
+    "url": "https://www.kokusai-electric.com/csr/environment",
+    "pass": 1
+   },
+   {
+    "quote": "サービスサポート",
+    "url": "https://www.kokusai-electric.com/csr/environment",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス情報",
+    "url": "https://www.kokusai-electric.com/ir/finance",
+    "pass": 1
+   },
+   {
+    "quote": "サービスサポート",
+    "url": "https://www.kokusai-electric.com/ir/finance",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス情報",
+    "url": "https://www.kokusai-electric.com/ir/investors",
+    "pass": 1
+   },
+   {
+    "quote": "サービスサポート",
+    "url": "https://www.kokusai-electric.com/ir/investors",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス情報",
+    "url": "https://www.kokusai-electric.com/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "サービスサポート",
+    "url": "https://www.kokusai-electric.com/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス情報",
+    "url": "https://www.kokusai-electric.com/ir/dividend",
+    "pass": 1
+   },
+   {
+    "quote": "サービスサポート",
+    "url": "https://www.kokusai-electric.com/ir/dividend",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス情報",
+    "url": "https://www.kokusai-electric.com/ir/faq",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、半導体製造装置事業の単一セグメントですが、ビジネス単位で分類すると、半導体製造装置の製造・販売を手掛ける「装置ビジネス」と、それら装置の部品販売、保守サービス、装置の移設・改造、中古装置の販売などを手掛ける「サービスビジネス」があります",
+    "url": "https://www.kokusai-electric.com/ir/faq",
+    "pass": 1
+   },
+   {
+    "quote": "どのような製品を販売しているのですか？",
+    "url": "https://www.kokusai-electric.com/ir/faq",
+    "pass": 1
+   },
+   {
+    "quote": "サービスサポート",
+    "url": "https://www.kokusai-electric.com/ir/faq",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス情報",
+    "url": "https://www.kokusai-electric.com/ir/disclaimer",
+    "pass": 1
+   },
+   {
+    "quote": "サービスサポート",
+    "url": "https://www.kokusai-electric.com/ir/disclaimer",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス情報",
+    "url": "https://www.kokusai-electric.com/ir/contact",
+    "pass": 1
+   },
+   {
+    "quote": "サービスサポート",
+    "url": "https://www.kokusai-electric.com/ir/contact",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス情報",
+    "url": "https://www.kokusai-electric.com/news/document?category=stockholder",
+    "pass": 1
+   },
+   {
+    "quote": "サービスサポート",
+    "url": "https://www.kokusai-electric.com/news/document?category=stockholder",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス情報",
+    "url": "https://www.kokusai-electric.com/ir/library/result",
+    "pass": 1
+   },
+   {
+    "quote": "サービスサポート",
+    "url": "https://www.kokusai-electric.com/ir/library/result",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス情報",
+    "url": "https://www.kokusai-electric.com/ir/library/disclosure",
+    "pass": 1
+   },
+   {
+    "quote": "サービスサポート",
+    "url": "https://www.kokusai-electric.com/ir/library/disclosure",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス情報",
+    "url": "https://www.kokusai-electric.com/ir/library/securities",
+    "pass": 1
+   },
+   {
+    "quote": "サービスサポート",
+    "url": "https://www.kokusai-electric.com/ir/library/securities",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス情報",
+    "url": "https://www.kokusai-electric.com/ir/library/businessbriefing",
+    "pass": 1
+   },
+   {
+    "quote": "サービスサポート",
+    "url": "https://www.kokusai-electric.com/ir/library/businessbriefing",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス情報",
+    "url": "https://www.kokusai-electric.com/ir/library/Shareholdersnewsletter",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "私たちの理念や事業に加えて、私たちの業界をご紹介します",
+    "url": "https://www.kokusai-electric.com/",
+    "pass": 1
+   },
+   {
+    "quote": "進化する半導体の最先端を担う企業として、私たちが推進しているサステナビリティ経営についてご紹介します",
+    "url": "https://www.kokusai-electric.com/",
+    "pass": 1
+   },
+   {
+    "quote": "世界で高いシェアを誇る、成膜プロセス装置、トリートメントプロセス装置等をご紹介します",
+    "url": "https://www.kokusai-electric.com/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ会社紹介",
+    "url": "https://www.kokusai-electric.com/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体業界の紹介",
+    "url": "https://www.kokusai-electric.com/",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介MOVIE",
+    "url": "https://www.kokusai-electric.com/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ会社紹介",
+    "url": "https://www.kokusai-electric.com/ir",
+    "pass": 1
+   },
+   {
+    "quote": "半導体業界の紹介",
+    "url": "https://www.kokusai-electric.com/ir",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介MOVIE",
+    "url": "https://www.kokusai-electric.com/ir",
+    "pass": 1
+   },
+   {
+    "quote": "グループ会社紹介",
+    "url": "https://www.kokusai-electric.com/company/outline",
+    "pass": 1
+   },
+   {
+    "quote": "半導体業界の紹介",
+    "url": "https://www.kokusai-electric.com/company/outline",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介MOVIE",
+    "url": "https://www.kokusai-electric.com/company/outline",
+    "pass": 1
+   },
+   {
+    "quote": "グループ会社紹介",
+    "url": "https://www.kokusai-electric.com/ir/library/integratedreport",
+    "pass": 1
+   },
+   {
+    "quote": "半導体業界の紹介",
+    "url": "https://www.kokusai-electric.com/ir/library/integratedreport",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介MOVIE",
+    "url": "https://www.kokusai-electric.com/ir/library/integratedreport",
+    "pass": 1
+   },
+   {
+    "quote": "グループ会社紹介",
+    "url": "https://www.kokusai-electric.com/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "半導体業界の紹介",
+    "url": "https://www.kokusai-electric.com/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介MOVIE",
+    "url": "https://www.kokusai-electric.com/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "グループ会社紹介",
+    "url": "https://www.kokusai-electric.com/company/strength",
+    "pass": 1
+   },
+   {
+    "quote": "半導体業界の紹介",
+    "url": "https://www.kokusai-electric.com/company/strength",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介MOVIE",
+    "url": "https://www.kokusai-electric.com/company/strength",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介 | 株式会社 KOKUSAI ELECTRIC",
+    "url": "https://www.kokusai-electric.com/company/business",
+    "pass": 1
+   },
+   {
+    "quote": "グループ会社紹介",
+    "url": "https://www.kokusai-electric.com/company/business",
+    "pass": 1
+   },
+   {
+    "quote": "半導体業界の紹介",
+    "url": "https://www.kokusai-electric.com/company/business",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介MOVIE",
+    "url": "https://www.kokusai-electric.com/company/business",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社日立製作所および株式会社日立国際電気は、当時の株式会社日立国際電気が運営していた映像・通信ソリューション事業および成膜プロセスソリューション事業のそれぞれについて経営の最適化を追求することをめざし、2017年2月に新たな資本パートナーとして投資ファンドであるKohlberg Kravis Roberts & Co. L.P（以下、「KKR」）を成膜プロセスソリューション事業の分割による売却先に選定しました",
+    "url": "https://www.kokusai-electric.com/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "グループ会社紹介",
+    "url": "https://www.kokusai-electric.com/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "半導体業界の紹介",
+    "url": "https://www.kokusai-electric.com/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介MOVIE",
+    "url": "https://www.kokusai-electric.com/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループのバリューチェーンを通じた温室効果ガス排出量をご紹介しています",
+    "url": "https://www.kokusai-electric.com/csr/environment",
+    "pass": 1
+   },
+   {
+    "quote": "当社の環境会計をご紹介しています",
+    "url": "https://www.kokusai-electric.com/csr/environment",
+    "pass": 1
+   },
+   {
+    "quote": "当社の環境に対する課題と具体的対策についてご紹介しています",
+    "url": "https://www.kokusai-electric.com/csr/environment",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループにおける気候関連の情報開示をご紹介しています",
+    "url": "https://www.kokusai-electric.com/csr/environment",
+    "pass": 1
+   },
+   {
+    "quote": "TNFD提言に基づく情報開示をご紹介しています",
+    "url": "https://www.kokusai-electric.com/csr/environment",
+    "pass": 1
+   },
+   {
+    "quote": "独立した第三者保証報告書をご紹介しています",
+    "url": "https://www.kokusai-electric.com/csr/environment",
+    "pass": 1
+   },
+   {
+    "quote": "グループ会社紹介",
+    "url": "https://www.kokusai-electric.com/csr/environment",
+    "pass": 1
+   },
+   {
+    "quote": "半導体業界の紹介",
+    "url": "https://www.kokusai-electric.com/csr/environment",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介MOVIE",
+    "url": "https://www.kokusai-electric.com/csr/environment",
+    "pass": 1
+   },
+   {
+    "quote": "グループ会社紹介",
+    "url": "https://www.kokusai-electric.com/ir/finance",
+    "pass": 1
+   },
+   {
+    "quote": "半導体業界の紹介",
+    "url": "https://www.kokusai-electric.com/ir/finance",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介MOVIE",
+    "url": "https://www.kokusai-electric.com/ir/finance",
+    "pass": 1
+   },
+   {
+    "quote": "KOKUSAI ELECTRICグループの主要事業についてご紹介します",
+    "url": "https://www.kokusai-electric.com/ir/investors",
+    "pass": 1
+   },
+   {
+    "quote": "成膜プロセス、トリートメント（膜質改善）プロセスの技術についてご紹介します",
+    "url": "https://www.kokusai-electric.com/ir/investors",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介MOVIE",
+    "url": "https://www.kokusai-electric.com/ir/investors",
+    "pass": 1
+   },
+   {
+    "quote": "グループ会社紹介",
+    "url": "https://www.kokusai-electric.com/ir/investors",
+    "pass": 1
+   },
+   {
+    "quote": "半導体業界の紹介",
+    "url": "https://www.kokusai-electric.com/ir/investors",
+    "pass": 1
+   },
+   {
+    "quote": "グループ会社紹介",
+    "url": "https://www.kokusai-electric.com/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "半導体業界の紹介",
+    "url": "https://www.kokusai-electric.com/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介MOVIE",
+    "url": "https://www.kokusai-electric.com/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "グループ会社紹介",
+    "url": "https://www.kokusai-electric.com/ir/dividend",
+    "pass": 1
+   },
+   {
+    "quote": "半導体業界の紹介",
+    "url": "https://www.kokusai-electric.com/ir/dividend",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介MOVIE",
+    "url": "https://www.kokusai-electric.com/ir/dividend",
+    "pass": 1
+   },
+   {
+    "quote": "グループ会社紹介",
+    "url": "https://www.kokusai-electric.com/ir/faq",
+    "pass": 1
+   },
+   {
+    "quote": "半導体業界の紹介",
+    "url": "https://www.kokusai-electric.com/ir/faq",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介MOVIE",
+    "url": "https://www.kokusai-electric.com/ir/faq",
+    "pass": 1
+   },
+   {
+    "quote": "グループ会社紹介",
+    "url": "https://www.kokusai-electric.com/ir/disclaimer",
+    "pass": 1
+   },
+   {
+    "quote": "半導体業界の紹介",
+    "url": "https://www.kokusai-electric.com/ir/disclaimer",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介MOVIE",
+    "url": "https://www.kokusai-electric.com/ir/disclaimer",
+    "pass": 1
+   },
+   {
+    "quote": "グループ会社紹介",
+    "url": "https://www.kokusai-electric.com/ir/contact",
+    "pass": 1
+   },
+   {
+    "quote": "半導体業界の紹介",
+    "url": "https://www.kokusai-electric.com/ir/contact",
+    "pass": 1
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "KOKUSAI ELECTRICの強み",
+    "url": "https://www.kokusai-electric.com/",
+    "pass": 1
+   },
+   {
+    "quote": "KOKUSAI ELECTRICの強み",
+    "url": "https://www.kokusai-electric.com/ir",
+    "pass": 1
+   },
+   {
+    "quote": "KOKUSAI ELECTRICの強み",
+    "url": "https://www.kokusai-electric.com/company/outline",
+    "pass": 1
+   },
+   {
+    "quote": "KOKUSAI ELECTRICの強み",
+    "url": "https://www.kokusai-electric.com/ir/library/integratedreport",
+    "pass": 1
+   },
+   {
+    "quote": "KOKUSAI ELECTRICの強み",
+    "url": "https://www.kokusai-electric.com/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "KOKUSAI ELECTRICの強み | 株式会社 KOKUSAI ELECTRIC",
+    "url": "https://www.kokusai-electric.com/company/strength",
+    "pass": 1
+   },
+   {
+    "quote": "KOKUSAI ELECTRICの強み",
+    "url": "https://www.kokusai-electric.com/company/strength",
+    "pass": 1
+   },
+   {
+    "quote": "KOKUSAI ELECTRICの強み",
+    "url": "https://www.kokusai-electric.com/company/business",
+    "pass": 1
+   },
+   {
+    "quote": "KOKUSAI ELECTRICの強み",
+    "url": "https://www.kokusai-electric.com/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "KOKUSAI ELECTRICの強み",
+    "url": "https://www.kokusai-electric.com/csr/environment",
+    "pass": 1
+   },
+   {
+    "quote": "KOKUSAI ELECTRICの強み",
+    "url": "https://www.kokusai-electric.com/ir/finance",
+    "pass": 1
+   },
+   {
+    "quote": "KOKUSAI ELECTRICの強み",
+    "url": "https://www.kokusai-electric.com/ir/investors",
+    "pass": 1
+   },
+   {
+    "quote": "KOKUSAI ELECTRICの強み",
+    "url": "https://www.kokusai-electric.com/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "KOKUSAI ELECTRICの強み",
+    "url": "https://www.kokusai-electric.com/ir/dividend",
+    "pass": 1
+   },
+   {
+    "quote": "KOKUSAI ELECTRICの強み",
+    "url": "https://www.kokusai-electric.com/ir/faq",
+    "pass": 1
+   },
+   {
+    "quote": "KOKUSAI ELECTRICの強み",
+    "url": "https://www.kokusai-electric.com/ir/disclaimer",
+    "pass": 1
+   },
+   {
+    "quote": "KOKUSAI ELECTRICの強み",
+    "url": "https://www.kokusai-electric.com/ir/contact",
+    "pass": 1
+   },
+   {
+    "quote": "KOKUSAI ELECTRICの強み",
+    "url": "https://www.kokusai-electric.com/news/document?category=stockholder",
+    "pass": 1
+   },
+   {
+    "quote": "KOKUSAI ELECTRICの強み",
+    "url": "https://www.kokusai-electric.com/ir/library/result",
+    "pass": 1
+   },
+   {
+    "quote": "KOKUSAI ELECTRICの強み",
+    "url": "https://www.kokusai-electric.com/ir/library/disclosure",
+    "pass": 1
+   },
+   {
+    "quote": "KOKUSAI ELECTRICの強み",
+    "url": "https://www.kokusai-electric.com/ir/library/securities",
+    "pass": 1
+   },
+   {
+    "quote": "KOKUSAI ELECTRICの強み",
+    "url": "https://www.kokusai-electric.com/ir/library/businessbriefing",
+    "pass": 1
+   },
+   {
+    "quote": "KOKUSAI ELECTRICの強み",
+    "url": "https://www.kokusai-electric.com/ir/library/Shareholdersnewsletter",
+    "pass": 1
+   },
+   {
+    "quote": "また、過去数年間にわたる財務概況を掲載するとともに、当社の強みや中長期的な経営戦略、中期経営計画を特定し、「トップコミットメント」ページを中心に説明しています",
+    "url": "https://www.kokusai-electric.com/csr/report/process/2026",
+    "pass": 1
+   },
+   {
+    "quote": "KOKUSAI ELECTRICの強み",
+    "url": "https://www.kokusai-electric.com/csr/report/process/2026",
+    "pass": 1
+   },
+   {
+    "quote": "KOKUSAI ELECTRICの強み",
+    "url": "https://www.kokusai-electric.com/csr/report/enquete2026",
+    "pass": 1
+   },
+   {
+    "quote": "KOKUSAI ELECTRICの強み",
+    "url": "https://www.kokusai-electric.com/csr/environment/policy",
+    "pass": 1
+   },
+   {
+    "quote": "＊２: 調整後営業利益率 ＝ 調整後営業利益 ÷ 売上収益",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2026-07/irmeeting_presentation_2026062603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "調整後営業利益率＊２",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2026-07/irmeeting_presentation_2026062603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■ 調整後営業利益率",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2026-06/%E7%AC%AC11%E6%9C%9F%E6%A0%AA%E4%B8%BB%E9%80%9A%E4%BF%A1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "旧日立国際電気から継承した高度な薄膜形成技術と高い装置信頼性を強みに、バッチ式成膜装置の分野において世界トップクラスの市場シェアを誇り、ロジックやメモリを中心とする世界中の先端半導体デバイスの高性能化と高集積化を足元から力強く支えています",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "●高品質で信頼性の高い半導体製造装置を提供し、微細化が進む半導体産業において高い歩留まりと生産効率を実現することが大きな強みです",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、これまでの顧客との取引で蓄積されたデータやノウハウが、新製品開発や既存装置の改良に活用されていることも強みです",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "KOKUSAI ELECTRICは成膜工程に強みを持つため、微細化の進んだ先端メモリやロジックにも対応可能です",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした投資がなければ顧客の要望に応えられず、市場競争で後れを取ってしまうリスクが高まるため、コストはかかっても技術力を高めることが長期的な競争優位につながると判断しているのです",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体業界では常に新しい課題やニーズが生まれるため、この好循環を回し続けることが競争優位を保つ鍵になっています",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2027年3月期 第1四半期（2025年4月～6月）決算説明会 質疑応答集",
+    "url": "https://www.kokusai-electric.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期（2026年4月～6月）決算説明会のプレゼンテーションのテキスト版",
+    "url": "https://www.kokusai-electric.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期（2025年4月～6月）決算説明会 質疑応答集",
+    "url": "https://www.kokusai-electric.com/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期（2026年4月～6月）決算説明会のプレゼンテーションのテキスト版",
+    "url": "https://www.kokusai-electric.com/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2017/2/2（当社設立の経緯は沿革に記載しています）",
+    "url": "https://www.kokusai-electric.com/company/outline",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 株式会社 KOKUSAI ELECTRIC",
+    "url": "https://www.kokusai-electric.com/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "1990年代",
+    "url": "https://www.kokusai-electric.com/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2000年代",
+    "url": "https://www.kokusai-electric.com/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2010年代",
+    "url": "https://www.kokusai-electric.com/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2020年代",
+    "url": "https://www.kokusai-electric.com/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期より",
+    "url": "https://www.kokusai-electric.com/ir/dividend",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期から、「国際財務報告基準（International Financial Reporting Standards：IFRS）」を適用しております",
+    "url": "https://www.kokusai-electric.com/ir/faq",
+    "pass": 1
+   },
+   {
+    "quote": "2023年10月25日です",
+    "url": "https://www.kokusai-electric.com/ir/faq",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期（2025年4月～6月）決算説明会 質疑応答集",
+    "url": "https://www.kokusai-electric.com/news/document?category=stockholder",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期（2026年4月～6月）決算説明会のプレゼンテーションのテキスト版",
+    "url": "https://www.kokusai-electric.com/news/document?category=stockholder",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期（中間期）および通期連結業績予想の修正並びに配当予想の修正に関するお知らせ",
+    "url": "https://www.kokusai-electric.com/news/document?category=stockholder",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期（2026年4月～6月）決算説明資料",
+    "url": "https://www.kokusai-electric.com/news/document?category=stockholder",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算短信〔IFRS〕（連結）",
+    "url": "https://www.kokusai-electric.com/news/document?category=stockholder",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 有価証券報告書",
+    "url": "https://www.kokusai-electric.com/news/document?category=stockholder",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算説明会 質疑応答集を公開しました",
+    "url": "https://www.kokusai-electric.com/news/document?category=stockholder",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期（2025年4月～2026年3月）決算説明会のプレゼンテーションのテキスト版",
+    "url": "https://www.kokusai-electric.com/news/document?category=stockholder",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期（2025年4月～2026年3月）決算説明資料",
+    "url": "https://www.kokusai-electric.com/news/document?category=stockholder",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算短信〔IFRS〕（連結）",
+    "url": "https://www.kokusai-electric.com/news/document?category=stockholder",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期（2025年4月～12月）決算説明会 質疑応答集",
+    "url": "https://www.kokusai-electric.com/news/document?category=stockholder",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期（2025年4月～12月）決算説明会のプレゼンテーションのテキスト版",
+    "url": "https://www.kokusai-electric.com/news/document?category=stockholder",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第3四半期（2025年4月～12月） 決算説明資料",
+    "url": "https://www.kokusai-electric.com/news/document?category=stockholder",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期決算短信〔IFRS〕（連結）",
+    "url": "https://www.kokusai-electric.com/news/document?category=stockholder",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年4月1日付執行役員体制について",
+    "url": "https://www.kokusai-electric.com/news/document?category=stockholder",
+    "pass": 1
+   },
+   {
+    "quote": "2019年9月期から2023年3月期の財務情報",
+    "url": "https://www.kokusai-electric.com/ir/library/result",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期から2023年3月期の財務諸表はこちらをご参照ください",
+    "url": "https://www.kokusai-electric.com/ir/library/result",
+    "pass": 1
+   },
+   {
+    "quote": "2019年9月期から2021年3月期の財務諸表はこちらをご参照ください",
+    "url": "https://www.kokusai-electric.com/ir/library/result",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年 9 月 15 日",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2026-09/260915_Joint%20research%20with%20YNU_j_final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年3月31日",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2025-12/CorporateProfile2025_251215.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年Gartnerの分類に基づく市場シェア※4",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2025-12/CorporateProfile2025_251215.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年3月期※ 2025年3月期 2026年3月期 2027年3月期 （予想）",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2026-06/%E7%AC%AC11%E6%9C%9F%E6%A0%AA%E4%B8%BB%E9%80%9A%E4%BF%A1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年 6 月 26 日",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2026-06/Notice_of_Resolutions_Adopted_at_The_11th_Annual_Shareholders_Meeting_jp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年３月期",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2017年２月に投資ファンドである",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2021年４月１日 2,538 22,483 23,540 3,720 343 52,624",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年３月31日 2,577 22,899 24,874 4,094 675 55,119",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年３月31日 2,598 24,413 26,814 4,273 2,323 60,421",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2021年４月１日 47 15,773 17,592 3,040 － 36,452",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年３月31日 47 16,207 19,670 3,197 － 39,121",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年３月31日 47 16,567 21,628 3,404 － 41,646",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2021年４月１日 2,491 6,710 5,948 680 343 16,172",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年３月31日 2,530 6,692 5,204 897 675 15,998",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年３月31日 2,551 7,846 5,186 869 2,323 18,775",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2021年４月１日 59,065 1,359 64,567 28,244 79 94,249",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年３月31日 59,065 1,535 64,567 28,244 118 94,464",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年３月31日 59,065 1,711 64,567 28,244 55 94,577",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2021年４月１日 － 957 9,685 8,473 59 19,174",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年３月31日 － 1,137 12,913 11,298 67 25,415",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年３月31日 － 1,313 16,142 14,122 32 31,609",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2021年４月１日 59,065 402 54,882 19,771 20 75,075",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年３月31日 59,065 398 51,654 16,946 51 69,049",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年３月31日 59,065 398 48,425 14,122 23 62,968",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年３月31日 51,654 16.0 16,946 6.0",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年３月31日 48,425 15.0 14,122 5.0",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2021年４月１日 88 966 1,054",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年３月31日 94 1,160 1,254",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "私たちは、現状に満足することなくそれぞれの領域で日々技術を磨き、それらを融合することでお客様のニーズに対応するためのイノベーションを生み出しています",
+    "url": "https://www.kokusai-electric.com/company/strength",
+    "pass": 1
+   },
+   {
+    "quote": "また、中古装置の販売等も行っているほか、お客様に当社グループが製造した半導体製造装置を、最も効率良く、正しくご使用いただくため、装置のメンテナンスや操作方法をレクチャーするトレーニングセンタも設置しています",
+    "url": "https://www.kokusai-electric.com/company/business",
+    "pass": 1
+   },
+   {
+    "quote": "投資に関する決定は利用者ご自身の判断でなさるようお願いいたします",
+    "url": "https://www.kokusai-electric.com/ir/disclaimer",
+    "pass": 1
+   },
+   {
+    "quote": "また、通信環境やお客様のコンピュータの状況、その他の理由により当ウェブサイトを正常に利用できない場合があります",
+    "url": "https://www.kokusai-electric.com/ir/disclaimer",
+    "pass": 1
+   },
+   {
+    "quote": "当社株式に関する以下の事務手続きについては、お取引先の証券会社にお問い合わせください",
+    "url": "https://www.kokusai-electric.com/ir/contact",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の先端デバイス開発スピードへの対応",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2026-07/irmeeting_presentation_2026062603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① イノベーションによる高付加価値製品の継続的な創出とお客様のニーズを",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2026-07/irmeeting_presentation_2026062603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "対話を通じてお客様が抱える課題を深く理解し、",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2026-07/irmeeting_presentation_2026062603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様への提案力の強化",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2026-07/irmeeting_presentation_2026062603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社製品のライフサイクル全体でお客様のニーズに合わせたサービスを提供",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2026-07/irmeeting_presentation_2026062603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（生産管理・顧客管理等の",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2026-07/irmeeting_presentation_2026062603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客関係資産及び技術関連資産は、日立国際電気の支配を獲得したことにより認識されたものであります（注",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・顧客関係資産 20年",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループでは、IFRS第９号「金融商品」に基づく利息及び配当収益等を除く顧客との契約について、",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ステップ１：顧客との契約を識別する",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "上記５ステップアプローチに基づき、顧客との契約内容に応じて、契約の結合及び複数の履行義務の識別",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "を行っており、顧客との契約において約束された値引きなどを控除した金額で取引価格を算定しておりま",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "機器の販売の収益認識については、顧客との契約内容に基づいて、顧客が当該機器等に対する支配を獲",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "負担が当社から顧客に移転する時期等に応じて、顧客に引き渡された時点、又は顧客の検収がなされた時",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "設の取引は、作業完了によって資産の所有に伴う重大なリスクと経済価値が顧客に移転した時期等を勘案",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(4）主要な顧客に関する情報",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上収益のうち、連結損益計算書の売上収益の10％以上を占める相手先は以下のとおりであ",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ソフトウェア 顧客関係資産 技術関連資産 その他 合計",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "連結財政状態計算書に計上されている重要な無形資産は、企業結合において取得した顧客関係資産及び技",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客関係資産 技術関連資産",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客関係資産 △15,816 △14,828 3,168 988",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "機器の販売における履行義務は、顧客との契約に基づき、受注した半導体製造装置を納入し、据付を行",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "半導体製造装置の納入については、日本における国内販売においては主に顧客により",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品が検収された時点で、韓国における国内販売においては主に顧客に製品が納品された時点で、顧客に",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "おいてはインコタームズ等で定められた貿易条件に基づき、主に船積を行った時点で顧客に製品の支配が",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "半導体製造装置の据付を行い、顧客により検収された時点で支配が顧客に移転し、履行義務が充足される",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、当社グループの製品の販売取引において、検収時等、顧客が当該製品の支配を獲得する時点より",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "前に顧客から受け取った前受金については、契約負債に計上しております",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "設の取引における履行義務は、顧客との契約に基づき、半導体製造装置のプロセスの書き換えやアップグ",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "レード等を行うことであり、作業が完了し顧客により検収された時点で支配が顧客に移転し、履行義務が",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "対する支配が顧客に移転し、履行義務が充足されると判断し、経過期間を指標としたアウトプット法に基",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "装置そのものの性能はもちろん、故障率を低減する設計や保守サービスの充実により、顧客が安心して長期利用できる点が評価されています",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "特に成膜装置の分野で専門性を高めてきたため、顧客の求める歩留まり向上を確実に実現でき、信頼性の高い価値提案が可能になりました",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "新素材や新プロセスの研究にも積極的に取り組み、顧客のニーズに合わせたカスタム対応を行っています",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "KOKUSAI ELECTRICは装置のライフサイクル全体を自社内で管理し、顧客とのやり取りを密に行うことで、迅速にアップデートを重ねながら市場に合わせた最適な装置開発と改良を実施しています",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした一貫体制によって品質の高い装置提供が可能となり、顧客満足度を高めています",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "●高度な技術力を持つエンジニアや研究者、最新の製造設備や試験装置などを含むインフラ、そして多くの顧客データや研究成果が主要なリソースです",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、これまでの顧客との取引で蓄積されたデータやノウハウが、新製品開発や既存装置の改良に活用されていることも強みです",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "KOKUSAI ELECTRICは顧客や材料メーカーと密な関係を築き、共同研究や試作を繰り返すことで新しいプロセスを迅速に実用化しています",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "●直接販売や技術サポートを通じ、顧客企業と緊密にコミュニケーションを取っています",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "KOKUSAI ELECTRICは専門チームを世界各地に配置し、顧客が必要とするサポートを途切れなく提供することによって信頼を勝ち取り、販売チャネルを拡大しています",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との関係",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "アップグレードやプロセス改善にも柔軟に対応して顧客満足度を高めています",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "もし不具合が発生すれば、顧客の生産効率や品質に大きな影響を与えます",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "KOKUSAI ELECTRICは販売した装置が最大限のパフォーマンスを発揮できるよう、継続的な保守点検と改良提案を行うことで、顧客の稼働率と歩留まり向上を支えています",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした伴走型のサポート体制は顧客の信頼を集め、リピートオーダーや新規顧客からの紹介に直結しているのです",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客セグメント",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "●半導体メーカー全般が対象となりますが、特にメモリやロジック、パワー半導体など幅広い分野の企業を顧客としています",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした柔軟性と技術力が、幅広い顧客セグメントを取り込む理由となっています",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客側も装置を長期稼働させるメリットがあるため、互いにメリットのある仕組みとして定着しているのです",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした投資がなければ顧客の要望に応えられず、市場競争で後れを取ってしまうリスクが高まるため、コストはかかっても技術力を高めることが長期的な競争優位につながると判断しているのです",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "KOKUSAI ELECTRICは技術力によって高品質の装置を提供し、それにより顧客満足度を向上させています",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客が得るメリットは高い歩留まりと安定稼働で、それが評判となって新たな契約や追加発注につながります",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "投資によって開発された新技術や改良された装置は、より高い付加価値を生み出していき、再び顧客満足度を高めるサイクルが回っていきます",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "このように、技術力と顧客満足度、そして投資力が三位一体となり、継続的な成長を支える仕組みが形成されています",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "当社グループは、半導体製造装置事業の単一セグメントですが、ビジネス単位で分類すると、半導体製造装置の製造・販売を手掛ける「装置ビジネス」と、それら装置の部品販売、保守サービス、装置の移設・改造、中古装置の販売などを手掛ける「サービスビジネス」があります",
+    "url": "https://www.kokusai-electric.com/ir/faq",
+    "pass": 1
+   },
+   {
+    "quote": "■ 部品販売、 保守サービス、",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2025-12/CorporateProfile2025_251215.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "有償修理保守サービス",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2025-12/CorporateProfile2025_251215.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "造装置の製造・販売・保守サービスを主な内容として事業活動をしております",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "仲介手数料、弁護士費用、デュー・デリジェンス費用等の、企業結合に関連して発生する取引費用は、発",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① ストック・オプション制度",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、株式に基づく報酬制度として、ストック・オプション制度を採用しており、当該ストック・オ",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当該ストック・オプションは、毎期、持分決済か現金決",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "持分決済型の場合は、ストック・オプションについて、付与日に",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "おける公正価値によって見積もり、最終的に権利確定すると予想されるストック・オプションの数を考慮",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "付与されたストック・オプションの公正価値は、ストッ",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "② リストリクテッド・ストック・ユニット制度",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、報酬制度として、リストリクテッド・ストック・ユニット制度を採用しており、２年間にわた",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "リストリクテッド・ストック・ユニットは、付与日における公正価値によって見積もり、権利確定期",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "付与されたリストリクテッド・ストック・ユニットの公正価値はモンテカルロ",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、借手として、主として半導体製造装置の製造・販売・保守サービスのための当社本社、国",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は新株予約権方式によるストック・オプション制度を採用しており、会社法の規定に基づき、新株",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "約期間にわたって製品の保守メンテナンスサービスを提供することであり、経過期間にわたりサービスに",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "販売手数料 1,324 981",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、株式に基づく報酬として、ストック・オプション制度、リストリクテッド・ストック・ユニット制",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(1）ストック・オプション制度",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① ストック・オプションの内容",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社のストック・オプション制度は、企業価値向上に対する意欲や士気を高めることを目的として、当",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当該ストック・オプションは、直接の親会社であるKKR HKE",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当該ストック・オプションは、毎期、持分決済か現金決済のいずれの可能性が高いかを評価し、その評",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社が発行しているストック・オプションの内容は、以下のとおりであります",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株式の種類別のストック・",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "権利確定条件 「第４ 提出会社の状況 １ 株式等の状況 (2）新株予約権等の状況 ① ストックオプション制度の内容」に記載のとおりであります",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株式会社ＫＯＫＵＳＡＩ ＥＬＥＣＴＲＩＣは、半導体製造プロセスにおける「成膜（薄膜形成）」および「熱処理」プロセス用装置の開発・製造・販売・保守サービスをグローバルに展開する大手の半導体製造装置メーカーです",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "装置そのものの性能はもちろん、故障率を低減する設計や保守サービスの充実により、顧客が安心して長期利用できる点が評価されています",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "●装置の研究開発や設計、製造から販売、さらに保守サービスまで一貫して行っている点が特徴です",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "KOKUSAI ELECTRICは販売した装置が最大限のパフォーマンスを発揮できるよう、継続的な保守点検と改良提案を行うことで、顧客の稼働率と歩留まり向上を支えています",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "●装置の販売収益とメンテナンスや保守契約などのサービス収益が主要な柱です",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体製造装置は高額であるため、販売単価も大きな収益源となりますが、それだけでは安定した収入を確保しにくい面があります",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "KOKUSAI ELECTRICは初任給として月額24万円程度を提示しており、完全週休二日制を基本としています",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "企業概要と最近の業績能美防災株式会社【全体の業績】能美防災株式会社は、火災報知設備や消火設備、防排煙設備などの開発・製造から、設計、施工、保守点検に至るまでを一貫して手掛ける総合防災設備メーカーの最大手です",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "VIP倶楽部を詳しく見る（月額2,838円）",
+    "url": "https://finance.yahoo.co.jp/quote/6525.T/financials",
+    "pass": 3
+   },
+   {
+    "quote": "半導体製造装置の開発・製造・販売・保守サービス及びそれに附帯関連する事業",
+    "url": "https://ja.wikipedia.org/wiki/KOKUSAI_ELECTRIC",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/KOKUSAI_ELECTRIC",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "当社グループは、半導体製造装置事業の単一セグメントですが、ビジネス単位で分類すると、半導体製造装置の製造・販売を手掛ける「装置ビジネス」と、それら装置の部品販売、保守サービス、装置の移設・改造、中古装置の販売などを手掛ける「サービスビジネス」があります",
+    "url": "https://www.kokusai-electric.com/ir/faq",
+    "pass": 1
+   },
+   {
+    "quote": "アプリケーション別売上構成比＊３",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2026-07/irmeeting_presentation_2026062603.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "６．セグメント情報",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(1）報告セグメントの概要",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの事業セグメントは、当社の構成単位のうち分離された財務情報が入手可能であり、取締役",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは半導体製造装置事業を行っており、事業セグメントは半導体製造装置事業単一となってお",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(2）セグメント収益及び業績に関する情報",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、半導体製造装置事業による単一セグメントであるため、記載を省略しております",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "のれんの減損テストは単一の事業セグメントである半導体",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客セグメント",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした柔軟性と技術力が、幅広い顧客セグメントを取り込む理由となっています",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "主な事業セグメント",
+    "url": "https://finance.yahoo.co.jp/quote/6525.T/financials",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社KOKUSAI ELECTRICは、半導体製造装置事業を単一セグメントとして展開しています",
+    "url": "https://finance.yahoo.co.jp/quote/6525.T/financials",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "・当社グループのビジネスモデルにおいて、当該金融資産の契約上のキャッシュ・フローを回収す",
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "KOKUSAI ELECTRICが描く成長戦略とビジネスモデルの魅力 | チームマイクの企業分析",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "KOKUSAI ELECTRICが描く成長戦略とビジネスモデルの魅力",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "KOKUSAI ELECTRICは装置導入後のメンテナンス契約や、設備のアップグレード依頼を受けることで、定常的な収益を得るビジネスモデルを確立しています",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "ミネベアミツミの魅力に迫る ビジネスモデルと成長戦略を徹底解説",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "日置電機のビジネスモデルを徹底解剖 未来を変える計測技術の魅力",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "能美防災株式会社のビジネスモデルと成長戦略",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社大真空のビジネスモデルが生み出す魅力と成長戦略",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社日東工業の魅力とビジネスモデルがひも解く成長戦略",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社スミダコーポレーションのビジネスモデル徹底解説 成長戦略に注目",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "湖北工業のビジネスモデルを深掘り 成長戦略に注目",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "ソシオネクストの成長戦略を徹底解剖 最新IR資料とビジネスモデルが示す未来",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ドライケミカル株式会社の『ビジネスモデル』と圧倒的競争力を解",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社動力のIR資料から紐解く次世代へのビジネスモデルと成長戦略",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ガイシの驚異的なビジネスモデルと次世代へ向けた成長戦略を徹底解説",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   },
+   {
+    "quote": "マーチャント・バンカーズの隠された成長戦略と驚異のビジネスモデル",
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "TOP | 株式会社 KOKUSAI ELECTRIC — 半導体製造装置メーカー 半導体デバイスの性能を左右する成膜プロセス、トリートメント（膜質改善）プロセスを軸に半導体デバイスの進化を担うKOKUSAI ELECTRICグループ。 私たちの理念や事業に加えて、私たちの業界をご紹介します。",
+    "url": "https://www.kokusai-electric.com/",
+    "pass": 3
+   },
+   {
+    "quote": "KOKUSAI ELECTRICが描く成長戦略とビジネスモデルの魅力 — Feb 19, 2025 · KOKUSAI ELECTRICは装置のライフサイクル全体を自社内で管理し、顧客とのやり取りを密に行うことで、迅速にアップデートを重ねながら市場に合わせた最適な装置開発と改良を実施しています。",
+    "url": "https://consovation.com/kokusai-electricが描く成長戦略とビジネスモデルの魅力/",
+    "pass": 3
+   },
+   {
+    "quote": "兼業投資家向け KOKUSAI ELECTRIC（6525）の事業モデルと2027年3月期... — Aug 18, 2026 · 3. ビジネスモデルと収益構造 収益源 同社の売上は、半導体製造装置を販売する「装置ビジネス」と、納入済み装置の保守や部品販売を行う「サービスビジネス」の2つから成り立ちます。 2027年3月期からは開示区分が見直されました。",
+    "url": "https://note.com/sokyokutei/n/n2487121f8fba",
+    "pass": 3
+   },
+   {
+    "quote": "KOKUSAI ELECTRIC 企業研究 | SemiMap — May 16, 2026 · KOKUSAI ELECTRICは、ウェーハを複数枚まとめて成膜するバッチ式の装置と、膜質を改善するトリートメント装置に絞った前工程装置メーカーです。 2026年3月期の売上収益 2,351億円 のうち、装置ビジネスが 1,400億円 、サービスビジネスが 951億円 でした。",
+    "url": "https://semimap.ai/site/semiconductor-company-research/kokusai-electric/",
+    "pass": 3
+   },
+   {
+    "quote": "【KOKUSAI ELECTRIC】減益決算の嘘。生成AI向けHBM/3D-NANDの微細化を... — Jun 20, 2026 · 2. キャパシティの深掘り：2026年末「砺波新工場」稼働がトリガーする、V字回復の物量爆発 3. ビジネスモデルの深掘り：ASM・AMATの反撃を無力化する「改造（アップグレード）ビジネス」の防壁",
+    "url": "https://note.com/loyal_myrtle1528/n/nb36433d870cf",
+    "pass": 3
+   },
+   {
+    "quote": "決算短信・決算説明資料 | 株式会社 KOKUSAI ELECTRIC — KOKUSAI ELECTRICの強み 会社概要 企業理念 経営方針・経営戦略 事業紹介 グループ会社紹介 半導体業界の紹介 沿革 会社紹介MOVIE サステナビリティ情報 サステナビリティ 事業 環境課題の解決 社会課題の解決 ガバナンスの強化 製品・サービス情報 サービス ...",
+    "url": "https://www.kokusai-electric.com/ir/library/result",
+    "pass": 3
+   },
+   {
+    "quote": "(株)KOKUSAI ELECTRIC【6525】：決算情報 - Yahoo!ファイナンス — Aug 6, 2026 · (株)KOKUSAI ELECTRIC【6525】の決算短信を生成AIで要約した内容をご覧いただけます。Yahoo!ファイナンスでは株価速報、チャート、ランキング、ポートフォリオ、ニュース、掲示板など投資判断に役立つ情報を掲載しています。",
+    "url": "https://finance.yahoo.co.jp/quote/6525.T/financials",
+    "pass": 3
+   },
+   {
+    "quote": "KOKUSAI ELECTRIC（65250）のIR情報・決算資料 | IRBANK — KOKUSAI ELECTRIC（65250）のIR情報・決算資料 β版IRBANKでは、 すべての機能 が無料で使える 無料期間延長中 無料でβ版をはじめる 登録すると永久30%OFFと米株版の先行利用も付きます 2026/08/06 2027年3月期第1四半期 (2026年4月～6月)決算説明資料（14:00）",
+    "url": "https://irbank.net/65250/ir",
+    "pass": 3
+   },
+   {
+    "quote": "6525 KOKUSAI ELECTRIC | 2026年3月期第2四半期 ... - IR BANK — Nov 11, 2025 · 2025年3月期決算短信〔IFRS〕 (連結)（14:30） 6525 KOKUSAI ELECTRIC、通期親会社の所有者帰属の当期利益 60.92%増 の360億400万円で着地 2025/03/27 資金の借入れ及び借入金の期限前返済に関するお知らせ（16:00） 2025/03/18 当社株式の貸借銘柄選定に関するお知らせ（17:00 ...",
+    "url": "https://irbank.net/6525/140120251111595671",
+    "pass": 3
+   },
+   {
+    "quote": "【KOKUSAI ELECTRIC】 [6525]決算発表や業務・財務情報 | 日経電子版 — 4 days ago · 【日本経済新聞】KOKUSAI ELECTRIC [6525]の配当・売上高・営業利益など決算情報を収録。中間業績や貸借対照表、キャッシュフローの状況や ...",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=6525",
+    "pass": 3
+   },
+   {
+    "quote": "KOKUSAI ELECTRIC - Wikipedia — KOKUSAI ELECTRIC ... 株式会社KOKUSAI ELECTRIC （コクサイエレクトリック、 英: KOKUSAI ELECTRIC CORPORATION）は、 東京都 千代田区 に本社を置く 日本 の 半導体製造装置 メーカー。 日立国際電気 （現：国際電気）の半導体製造装置部門が独立するかたちで設立された。",
+    "url": "https://ja.wikipedia.org/wiki/KOKUSAI_ELECTRIC",
+    "pass": 3
+   },
+   {
+    "quote": "TOP | KOKUSAI ELECTRIC CORPORATION — This is KOKUSAI ELECTRIC's official website. It provides information on the development, manufacturing, and sales of semiconductor manufacturing equipment, and about the company, CSR, recruitment, etc.",
+    "url": "https://www.kokusai-electric.com/en/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "分断された業務と情報を一つに - KOKUSAI ELECTRICはグローバル8社を... — 18 hours ago · KOKUSAI ELECTRICは、工程管理と問い合わせ管理にServiceNowを採用し、グローバル8社、千数百ユーザーを対象に、4言語で展開した。10月27～28日に開催さ ...",
+    "url": "https://news.mynavi.jp/techplus/article/20261102-5240727/",
+    "pass": 3
+   },
+   {
+    "quote": "Kokusai Electric 組織図と経営陣 - theofficialboard.jp — Kokusai Electric 組織図 kokusai-electric.com has 16人のエグゼクティブ +81 352 978 530 エグゼクティブを加える",
+    "url": "https://www.theofficialboard.jp/組織図/kokusai-electric-2",
+    "pass": 3
+   },
+   {
+    "quote": "社長あいさつ - 株式会社 KOKUSAI ELECTRIC — 2018年に半導体製造装置メーカー「株式会社KOKUSAI ELECTRIC」として再スタートを切り、2023年10月に東京証券取引所プライム市場に上場して以降も、世界中の半導体デバイスメーカーの多様なニーズにお応えしてきました。",
+    "url": "https://www.kokusai-electric.com/company/message/",
+    "pass": 3
+   },
+   {
+    "quote": "KOKUSAI、新社長に塚田和徳氏 独立後の成長図る — Jan 27, 2025 · 旧日立製作所系の半導体製造装置メーカーのKOKUSAI ELECTRICは27日、塚田和徳・取締役専務執行役員（59）が4月1日付で社長に昇格する人事を発表した。",
+    "url": "https://www.nikkei.com/article/DGXZQOUC2776Y0X20C25A1000000/",
+    "pass": 3
+   },
+   {
+    "quote": "KOKUSAI ELECTRIC金井氏インタビュー - ラジオNIKKEI — Dec 4, 2023 · 10月25日に新規上場しました、 KOKUSAI ELECTRIC（6525・東証プライム） 金井 史幸（かない・ふみゆき）代表取締役社長執行役員に、インタビューを行いました。 聞き手：日本経済新聞 鈴木 亮 編集委員 ＜音声はこちらからお聴きください＞",
+    "url": "https://www.radionikkei.jp/marketpress/ipo6525.html",
+    "pass": 3
+   },
+   {
+    "quote": "半導体投資「手は抜けない」 KOKUSAI ELECTRIC社長 — Feb 16, 2024 · 製造装置のうち、ウェハー表面に膜を作る成膜装置の一部で世界シェア1位を誇り、昨年中の国内最大規模となる上場を果たした「KOKUSAI ELECTRIC ...",
+    "url": "https://www.asahi.com/articles/ASS2H66DSS1QULFA00T.html",
+    "pass": 3
+   },
+   {
+    "quote": "（株）KOKUSAI ELECTRIC 代表取締役 社長執行役員 金井史幸氏 | 電子... — 代表取締役 社長執行役員を務める金井史幸氏にこれまでの歩み、そして今後の事業戦略を伺った。 ―― 上場おめでとうございます。 まずはここまでを振り返って。 金井 「長かった」というのが率直なところだ。",
+    "url": "https://www.sangyo-times.jp/article.aspx?ID=13236",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.kokusai-electric.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kokusai-electric.com/ir",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kokusai-electric.com/company/outline",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kokusai-electric.com/ir/library/integratedreport",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kokusai-electric.com/ir/calendar",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kokusai-electric.com/company/strength",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kokusai-electric.com/company/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kokusai-electric.com/company/history",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kokusai-electric.com/csr/environment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kokusai-electric.com/ir/finance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kokusai-electric.com/ir/investors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kokusai-electric.com/ir/library",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kokusai-electric.com/ir/dividend",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kokusai-electric.com/ir/faq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kokusai-electric.com/ir/disclaimer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kokusai-electric.com/ir/contact",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kokusai-electric.com/news/document?category=stockholder",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kokusai-electric.com/ir/library/result",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kokusai-electric.com/ir/library/disclosure",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kokusai-electric.com/ir/library/securities",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kokusai-electric.com/ir/library/businessbriefing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kokusai-electric.com/ir/library/Shareholdersnewsletter",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kokusai-electric.com/csr/report/process/2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kokusai-electric.com/csr/report/enquete2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kokusai-electric.com/csr/environment/policy",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.kokusai-electric.com/sites/default/files/2026-09/260915_Joint%20research%20with%20YNU_j_final.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kokusai-electric.com/sites/default/files/2025-12/CorporateProfile2025_251215.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kokusai-electric.com//sites/default/files/2025-03/To%20shareholders%20who%20receive%20dividends%20via%20Dividend%20Receipt.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kokusai-electric.com//sites/default/files/2026-06/irmeeting_QA_20260626.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kokusai-electric.com/sites/default/files/2026-07/irmeeting_presentation_2026062603.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kokusai-electric.com/sites/default/files/2026-06/%E7%AC%AC11%E6%9C%9F%E6%A0%AA%E4%B8%BB%E9%80%9A%E4%BF%A1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kokusai-electric.com/sites/default/files/2026-06/Notice_of_Resolutions_Adopted_at_The_11th_Annual_Shareholders_Meeting_jp.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kokusai-electric.com/sites/default/files/2024-02/Consolidated_Financial_Statementsfor_2022_2023.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kokusai-electric.com/sites/default/files/2023-03/c_business_thum_1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kokusai-electric.com/sites/default/files/2023-03/c_business_01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kokusai-electric.com/sites/default/files/2023-03/c_business_04.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://consovation.com/kokusai-electric%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E9%AD%85%E5%8A%9B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.co.jp/quote/6525.T/financials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/KOKUSAI_ELECTRIC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUC2776Y0X20C25A1000000/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "KOKUSAI ELECTRIC",
+   "results": [
+    "https://ja.wikipedia.org/wiki/KOKUSAI_ELECTRIC",
+    "https://en.wikipedia.org/wiki/Kokusai_Electric",
+    "https://grokipedia.com/page/kokusai_electric",
+    "https://www.kokusai-electric.com/en/index.html",
+    "https://www.kokusai-electric.com/",
+    "https://www.ksec.com/",
+    "https://kesh.kokusai-electric.com/en/",
+    "https://www.kokusaidenki.co.jp/global/en/index.html"
+   ]
+  },
+  {
+   "query": "KOKUSAI ELECTRIC ビジネスモデル",
+   "results": [
+    "https://www.kokusai-electric.com/",
+    "https://consovation.com/kokusai-electricが描く成長戦略とビジネスモデルの魅力/",
+    "https://note.com/sokyokutei/n/n2487121f8fba",
+    "https://semimap.ai/site/semiconductor-company-research/kokusai-electric/",
+    "https://note.com/loyal_myrtle1528/n/nb36433d870cf",
+    "https://tokyuhangakupan.hatenadiary.jp/entry/2025/12/22/141813",
+    "https://www.kokusai-electric.com/sites/default/files/2024-08/IR+Day2024_Part+1_text++version_J_03.pdf"
+   ]
+  },
+  {
+   "query": "KOKUSAI ELECTRIC 決算説明資料",
+   "results": [
+    "https://www.kokusai-electric.com/ir/library/result",
+    "https://finance.yahoo.co.jp/quote/6525.T/financials",
+    "https://irbank.net/65250/ir",
+    "https://irbank.net/6525/140120251111595671",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=6525",
+    "https://www2.jpx.co.jp/disc/65250/140120260806511220.pdf",
+    "https://www.kokusai-electric.com/en/ir/library/result",
+    "https://www.kokusai-electric.com/latest_report",
+    "https://irbank.net/E37488/results",
+    "https://irbank.net/6525/ir"
+   ]
+  },
+  {
+   "query": "KOKUSAI ELECTRIC 事業系統図",
+   "results": [
+    "https://ja.wikipedia.org/wiki/KOKUSAI_ELECTRIC",
+    "https://www.kokusai-electric.com/",
+    "https://www.kokusai-electric.com/en/index.html",
+    "https://news.mynavi.jp/techplus/article/20261102-5240727/",
+    "https://www.theofficialboard.jp/組織図/kokusai-electric-2",
+    "https://www.kokusaidenki.co.jp/global/en/index.html",
+    "https://kesh.kokusai-electric.com/company/outline/pdf/corporateprofile_jp_240122.pdf"
+   ]
+  },
+  {
+   "query": "KOKUSAI ELECTRIC 社長 インタビュー",
+   "results": [
+    "https://www.kokusai-electric.com/company/message/",
+    "https://www.nikkei.com/article/DGXZQOUC2776Y0X20C25A1000000/",
+    "https://www.radionikkei.jp/marketpress/ipo6525.html",
+    "https://www.asahi.com/articles/ASS2H66DSS1QULFA00T.html",
+    "https://www.sangyo-times.jp/article.aspx?ID=13236",
+    "https://www.sangyo-times.jp/article.aspx?ID=13727",
+    "https://www.kokusai-electric.com/sites/default/files/2026-06/第11期株主通信.pdf"
+   ]
+  }
+ ],
+ "missing": {}
+}

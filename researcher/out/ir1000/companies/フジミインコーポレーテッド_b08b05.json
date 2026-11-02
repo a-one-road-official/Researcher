@@ -1,0 +1,1779 @@
+{
+ "name": "フジミインコーポレーテッド",
+ "aliases": [],
+ "context": "証券コード5384／ガラス・土石製品／プライム（内国株式）／2026.03期 売上高69,404百万円 営業利益率19.9%",
+ "researched_at": "2026-11-02T18:05:08.437828+00:00",
+ "official_url": "https://www.fujimiinc.co.jp/",
+ "identified_by": "search:yahoo_jp:フジミインコーポレーテッド",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立年月日",
+    "value": "1953（昭和28）年3月20日",
+    "url": "https://www.fujimiinc.co.jp/company/overview.html",
+    "pass": 1
+   },
+   {
+    "label": "設立と沿革",
+    "value": "「オンリーワン、ナンバーワン」への道",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "1,305名（単体911名）",
+    "url": "https://www.fujimiinc.co.jp/company/overview.html",
+    "pass": 1
+   },
+   {
+    "label": "社風と従業員満足度",
+    "value": "「強く、やさしく、面白い」の実現へ",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "半導体製造プロセスの心臓部を支える",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "製品をお探しの方",
+    "url": "https://www.fujimiinc.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.fujimiinc.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "機能材・新規材、溶射材製品を探す",
+    "url": "https://www.fujimiinc.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "機能材・新規材製品",
+    "url": "https://www.fujimiinc.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "フジミは、幅広い分野の製品に対応する研磨材等の製造販売を行っています",
+    "url": "https://www.fujimiinc.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.fujimiinc.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "研磨ソリューション",
+    "url": "https://www.fujimiinc.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "フジミは、幅広い分野の製品に対応する研磨材等の製造販売を行っています",
+    "url": "https://www.fujimiinc.co.jp/company/overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "蓄積されたノウハウと研究開発力から生まれた製品の数々は､光学レンズ用研磨材から出発し、シリコンウェハーに代表される半導体基板の鏡面研磨、半導体チップの多層配線に必要なCMP（化学的機械的平坦化）、コンピュータ用ハードディスクの研磨など高精度が求められる先端産業に欠かせぬものとなっています",
+    "url": "https://www.fujimiinc.co.jp/company/overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.fujimiinc.co.jp/company/overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "研磨ソリューション",
+    "url": "https://www.fujimiinc.co.jp/company/overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "フジミは、幅広い分野の製品に対応する研磨材等の製造販売を行っています",
+    "url": "https://www.fujimiinc.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.fujimiinc.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "研磨ソリューション",
+    "url": "https://www.fujimiinc.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "フジミは、幅広い分野の製品に対応する研磨材等の製造販売を行っています",
+    "url": "https://www.fujimiinc.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.fujimiinc.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "研磨ソリューション",
+    "url": "https://www.fujimiinc.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "フジミは、幅広い分野の製品に対応する研磨材等の製造販売を行っています",
+    "url": "https://www.fujimiinc.co.jp/ir/library/earning.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.fujimiinc.co.jp/ir/library/earning.html",
+    "pass": 1
+   },
+   {
+    "quote": "研磨ソリューション",
+    "url": "https://www.fujimiinc.co.jp/ir/library/earning.html",
+    "pass": 1
+   },
+   {
+    "quote": "フジミは、幅広い分野の製品に対応する研磨材等の製造販売を行っています",
+    "url": "https://www.fujimiinc.co.jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.fujimiinc.co.jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "研磨ソリューション",
+    "url": "https://www.fujimiinc.co.jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "フジミは、幅広い分野の製品に対応する研磨材等の製造販売を行っています",
+    "url": "https://www.fujimiinc.co.jp/ir/management/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.fujimiinc.co.jp/ir/management/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "研磨ソリューション",
+    "url": "https://www.fujimiinc.co.jp/ir/management/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "フジミは、幅広い分野の製品に対応する研磨材等の製造販売を行っています",
+    "url": "https://www.fujimiinc.co.jp/ir/governance/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.fujimiinc.co.jp/ir/governance/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "研磨ソリューション",
+    "url": "https://www.fujimiinc.co.jp/ir/governance/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "フジミは、幅広い分野の製品に対応する研磨材等の製造販売を行っています",
+    "url": "https://www.fujimiinc.co.jp/ir/financial/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.fujimiinc.co.jp/ir/financial/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "研磨ソリューション",
+    "url": "https://www.fujimiinc.co.jp/ir/financial/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "フジミは、幅広い分野の製品に対応する研磨材等の製造販売を行っています",
+    "url": "https://www.fujimiinc.co.jp/ir/library/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.fujimiinc.co.jp/ir/library/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "研磨ソリューション",
+    "url": "https://www.fujimiinc.co.jp/ir/library/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "フジミは、幅広い分野の製品に対応する研磨材等の製造販売を行っています",
+    "url": "https://www.fujimiinc.co.jp/ir/event/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.fujimiinc.co.jp/ir/event/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "研磨ソリューション",
+    "url": "https://www.fujimiinc.co.jp/ir/event/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "フジミは、幅広い分野の製品に対応する研磨材等の製造販売を行っています",
+    "url": "https://www.fujimiinc.co.jp/ir/stock/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.fujimiinc.co.jp/ir/stock/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "研磨ソリューション",
+    "url": "https://www.fujimiinc.co.jp/ir/stock/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "フジミは、幅広い分野の製品に対応する研磨材等の製造販売を行っています",
+    "url": "https://www.fujimiinc.co.jp/csr/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.fujimiinc.co.jp/csr/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "フジミは、幅広い分野の製品に対応する研磨材等の製造販売を行っています",
+    "url": "https://www.fujimiinc.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・技術に関するお問い合わせ",
+    "url": "https://www.fujimiinc.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・技術以外に関するお問い合わせ",
+    "url": "https://www.fujimiinc.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "フジミは、幅広い分野の製品に対応する研磨材等の製造販売を行っています",
+    "url": "https://www.fujimiinc.co.jp/inquiry/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・技術に関するお問い合わせ",
+    "url": "https://www.fujimiinc.co.jp/inquiry/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・技術以外に関するお問い合わせ",
+    "url": "https://www.fujimiinc.co.jp/inquiry/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "フジミは、幅広い分野の製品に対応する研磨材等の製造販売を行っています",
+    "url": "https://www.fujimiinc.co.jp/ir/individual/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.fujimiinc.co.jp/ir/individual/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "研磨ソリューション",
+    "url": "https://www.fujimiinc.co.jp/ir/individual/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品の強み | 個人投資家の皆様へ | 株主・投資家情報 | フジミインコーポレーテッド",
+    "url": "https://www.fujimiinc.co.jp/ir/individual/strong.html",
+    "pass": 1
+   },
+   {
+    "quote": "フジミは、幅広い分野の製品に対応する研磨材等の製造販売を行っています",
+    "url": "https://www.fujimiinc.co.jp/ir/individual/strong.html",
+    "pass": 1
+   },
+   {
+    "quote": "近年、半導体回路集積度向上に伴い、表面加工の微細化が常に求められ、当社製品は市場においてなくてはならない存在であり、半導体産業の成長に大きく貢献しています",
+    "url": "https://www.fujimiinc.co.jp/ir/individual/strong.html",
+    "pass": 1
+   },
+   {
+    "quote": "国内外において、組織の中核にある開発と営業が一体となってお客様の声に耳を傾け、圧倒的な存在感を備えた商品を開発し、いち早く市場に投入し拡販すること",
+    "url": "https://www.fujimiinc.co.jp/ir/individual/strong.html",
+    "pass": 1
+   },
+   {
+    "quote": "エレクトロニクス製品の小型化・高性能化に伴って、半導体チップの高集積化・微細化が進んでおり、配線工程においても原子レベルでの平坦化が要求されています",
+    "url": "https://www.fujimiinc.co.jp/ir/individual/strong.html",
+    "pass": 1
+   },
+   {
+    "quote": "開発部門と営業部門が一体となって業務を推進する組織が、よりスムーズにお客様の意向を直接汲み取った商品設計の実現を促進しています",
+    "url": "https://www.fujimiinc.co.jp/ir/individual/strong.html",
+    "pass": 1
+   },
+   {
+    "quote": "技術的進歩の早いディスク業界においては、お客様のニーズを即座に商品に反映させていくスピード感が欠かせません",
+    "url": "https://www.fujimiinc.co.jp/ir/individual/strong.html",
+    "pass": 1
+   },
+   {
+    "quote": "現在、1,500社を越えるお客様に多彩な製品とそれに付随する技術と知識を提供するとともに商品開発、企画段階でのテスト製品の提供などで、積極的な支援を行っています",
+    "url": "https://www.fujimiinc.co.jp/ir/individual/strong.html",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "沿革 | フジミについて | フジミインコーポレーテッド",
+    "url": "https://www.fujimiinc.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1950年-1959年",
+    "url": "https://www.fujimiinc.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1950年8月",
+    "url": "https://www.fujimiinc.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1953年3月",
+    "url": "https://www.fujimiinc.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1959年7月",
+    "url": "https://www.fujimiinc.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1960年-1969年",
+    "url": "https://www.fujimiinc.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1960年6月",
+    "url": "https://www.fujimiinc.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1961年1月",
+    "url": "https://www.fujimiinc.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1967年7月",
+    "url": "https://www.fujimiinc.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1970年-1979年",
+    "url": "https://www.fujimiinc.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1970年5月",
+    "url": "https://www.fujimiinc.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1977年1月",
+    "url": "https://www.fujimiinc.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1980年-1989年",
+    "url": "https://www.fujimiinc.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1980年10月",
+    "url": "https://www.fujimiinc.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1984年6月",
+    "url": "https://www.fujimiinc.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1985年1月",
+    "url": "https://www.fujimiinc.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1988年5月",
+    "url": "https://www.fujimiinc.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1988年9月",
+    "url": "https://www.fujimiinc.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1990年-1999年",
+    "url": "https://www.fujimiinc.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1990年11月",
+    "url": "https://www.fujimiinc.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1991年10月",
+    "url": "https://www.fujimiinc.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1993年10月",
+    "url": "https://www.fujimiinc.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1994年6月-9月",
+    "url": "https://www.fujimiinc.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1995年4月",
+    "url": "https://www.fujimiinc.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1996年10月",
+    "url": "https://www.fujimiinc.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期",
+    "url": "https://www.fujimiinc.co.jp/ir/library/earning.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.fujimiinc.co.jp/ir/library/earning.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.fujimiinc.co.jp/ir/library/earning.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.fujimiinc.co.jp/ir/library/earning.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://www.fujimiinc.co.jp/ir/library/earning.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://www.fujimiinc.co.jp/ir/library/earning.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期",
+    "url": "https://www.fujimiinc.co.jp/ir/library/earning.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月期",
+    "url": "https://www.fujimiinc.co.jp/ir/library/earning.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年3月期",
+    "url": "https://www.fujimiinc.co.jp/ir/library/earning.html",
+    "pass": 1
+   },
+   {
+    "quote": "2018年3月期",
+    "url": "https://www.fujimiinc.co.jp/ir/library/earning.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年3月期",
+    "url": "https://www.fujimiinc.co.jp/ir/library/earning.html",
+    "pass": 1
+   },
+   {
+    "quote": "2016年3月期",
+    "url": "https://www.fujimiinc.co.jp/ir/library/earning.html",
+    "pass": 1
+   },
+   {
+    "quote": "2015年3月期",
+    "url": "https://www.fujimiinc.co.jp/ir/library/earning.html",
+    "pass": 1
+   },
+   {
+    "quote": "2014年3月期",
+    "url": "https://www.fujimiinc.co.jp/ir/library/earning.html",
+    "pass": 1
+   },
+   {
+    "quote": "2013年3月期",
+    "url": "https://www.fujimiinc.co.jp/ir/library/earning.html",
+    "pass": 1
+   },
+   {
+    "quote": "2012年3月期",
+    "url": "https://www.fujimiinc.co.jp/ir/library/earning.html",
+    "pass": 1
+   },
+   {
+    "quote": "1950年、不二見研磨材工業所を創立し人造精密研磨材の生産を開始",
+    "url": "https://www.fujimiinc.co.jp/ir/individual/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1953年、不二見研磨材工業株式会社を設立",
+    "url": "https://www.fujimiinc.co.jp/ir/individual/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1959年には高純度絶縁アルミナの生産を開始し、研磨材メーカーとしてのフジミが産声を上げました",
+    "url": "https://www.fujimiinc.co.jp/ir/individual/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1970年に稲沢工場の操業を開始",
+    "url": "https://www.fujimiinc.co.jp/ir/individual/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1980年10月の本社ビル完成を皮切りに、［COMPOL］シリーズ開発、ハードディスク用ポリシング材［MEDIPOL-N］シリーズ開発、FUJIMI CORPORATION設立（米国イリノイ州）、各務原工場操業開始、FUJIMI AMERICA INC.設立（米国オレゴン州）など、業務拡大の基盤を確立しました",
+    "url": "https://www.fujimiinc.co.jp/ir/individual/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1991年、国内関連会社3社を合併し現社名に商号変更",
+    "url": "https://www.fujimiinc.co.jp/ir/individual/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.fujimiinc.co.jp/ir/library/report.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.fujimiinc.co.jp/ir/library/report.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.fujimiinc.co.jp/ir/library/report.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://www.fujimiinc.co.jp/ir/library/report.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://www.fujimiinc.co.jp/ir/library/report.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期",
+    "url": "https://www.fujimiinc.co.jp/ir/library/report.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月期",
+    "url": "https://www.fujimiinc.co.jp/ir/library/report.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年3月期",
+    "url": "https://www.fujimiinc.co.jp/ir/library/report.html",
+    "pass": 1
+   },
+   {
+    "quote": "2018年3月期",
+    "url": "https://www.fujimiinc.co.jp/ir/library/report.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年3月期",
+    "url": "https://www.fujimiinc.co.jp/ir/library/report.html",
+    "pass": 1
+   },
+   {
+    "quote": "2016年3月期",
+    "url": "https://www.fujimiinc.co.jp/ir/library/report.html",
+    "pass": 1
+   },
+   {
+    "quote": "2015年3月期",
+    "url": "https://www.fujimiinc.co.jp/ir/library/report.html",
+    "pass": 1
+   },
+   {
+    "quote": "2014年3月期",
+    "url": "https://www.fujimiinc.co.jp/ir/library/report.html",
+    "pass": 1
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント別売上推移",
+    "url": "https://www.fujimiinc.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別売上推移",
+    "url": "https://www.fujimiinc.co.jp/ir/financial/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別売上の推移をご紹介します",
+    "url": "https://www.fujimiinc.co.jp/ir/financial/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別売上推移",
+    "url": "https://www.fujimiinc.co.jp/ir/financial/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期及び2024年3月期における連結売上高の海外売上構成比は、ともに77.5％となっており、今後も高い比率で推移するものと想定いたします",
+    "url": "https://www.fujimiinc.co.jp/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "先端半導体向けの構成比が高く、AI半導体ブームは追い風だ",
+    "url": "https://toyokeizai.net/articles/-/941387?display=b",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "当社の中長期経営計画をご紹介します",
+    "url": "https://www.fujimiinc.co.jp/ir/management/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社の年度経営方針をご紹介します",
+    "url": "https://www.fujimiinc.co.jp/ir/management/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業展開やその他の会社活動に関して、リスク要因となりうる事項をご紹介します",
+    "url": "https://www.fujimiinc.co.jp/ir/management/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "フジミの反社会勢力への対応をご紹介します",
+    "url": "https://www.fujimiinc.co.jp/ir/management/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "フジミのIR活動における姿勢と方針をご紹介します",
+    "url": "https://www.fujimiinc.co.jp/ir/management/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "フジミのガバナンス体制と、その仕組みをご紹介します",
+    "url": "https://www.fujimiinc.co.jp/ir/governance/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "フジミの内部統制システムについてご紹介します",
+    "url": "https://www.fujimiinc.co.jp/ir/governance/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "リスク管理、内部監査および監査委員会監査の状況についてご紹介します",
+    "url": "https://www.fujimiinc.co.jp/ir/governance/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "フジミの役員をご紹介します",
+    "url": "https://www.fujimiinc.co.jp/ir/governance/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "役員の報酬内容の決定方針、報酬の支払額についてご紹介します",
+    "url": "https://www.fujimiinc.co.jp/ir/governance/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "フジミの社外役員の独立性に関する基準をご紹介します",
+    "url": "https://www.fujimiinc.co.jp/ir/governance/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "フジミの株式の大量取得行為に関する対応策をご紹介します",
+    "url": "https://www.fujimiinc.co.jp/ir/governance/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "フジミの情報公開方針ついてご紹介します",
+    "url": "https://www.fujimiinc.co.jp/ir/governance/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "主な連結業績・財務数値の推移をご紹介します",
+    "url": "https://www.fujimiinc.co.jp/ir/financial/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "連結貸借対照表、損益計算書、キャッシュ・フロー計算書をご紹介します",
+    "url": "https://www.fujimiinc.co.jp/ir/financial/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別売上の推移をご紹介します",
+    "url": "https://www.fujimiinc.co.jp/ir/financial/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "設備投資、研究開発の費用をご紹介します",
+    "url": "https://www.fujimiinc.co.jp/ir/financial/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "当該期における業績や財産の状況を記載した決算短信をご紹介します",
+    "url": "https://www.fujimiinc.co.jp/ir/library/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社の概況、事業の状況などを記載した有価証券報告書等をご紹介します",
+    "url": "https://www.fujimiinc.co.jp/ir/library/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主様向けに事業内容や経営、株式などの状況を解説した報告書をご紹介します",
+    "url": "https://www.fujimiinc.co.jp/ir/library/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループの中長期的な企業価値向上に向けて、価値創造プロセスと財務・非財務情報等を掲載した「統合報告書」をご紹介します",
+    "url": "https://www.fujimiinc.co.jp/ir/library/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "1年間のIRイベントをご紹介します",
+    "url": "https://www.fujimiinc.co.jp/ir/event/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "決算説明会の配布資料、主な質疑応答などをご紹介します",
+    "url": "https://www.fujimiinc.co.jp/ir/event/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主総会の招集通知書、決議通知書、議決権行使結果などをご紹介します",
+    "url": "https://www.fujimiinc.co.jp/ir/event/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業年度や単元株式数、株主名簿管理人などの株式の概況をご紹介します",
+    "url": "https://www.fujimiinc.co.jp/ir/stock/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "大株主一覧、株主構成をご紹介します",
+    "url": "https://www.fujimiinc.co.jp/ir/stock/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "配当金、自己株式の取得、株主優待についての情報をご紹介します",
+    "url": "https://www.fujimiinc.co.jp/ir/stock/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "住所変更、配当金受取などの株式に関する事務手続きについてご紹介します",
+    "url": "https://www.fujimiinc.co.jp/ir/stock/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "業績などを分析し、当社株式の推奨・論評などを行っているアナリストをご紹介します",
+    "url": "https://www.fujimiinc.co.jp/ir/stock/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "電子公告をご紹介します",
+    "url": "https://www.fujimiinc.co.jp/ir/stock/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "代表取締役会長 関敬史から、「環境への取り組み」の概要をご紹介します",
+    "url": "https://www.fujimiinc.co.jp/csr/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "フジミの環境方針、行動指針をご紹介します",
+    "url": "https://www.fujimiinc.co.jp/csr/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "年度環境目標をご紹介します",
+    "url": "https://www.fujimiinc.co.jp/csr/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "地球温暖化対策、省資源対策、廃棄物削減対策を重要課題として捉えた環境負荷低減活動をご紹介します",
+    "url": "https://www.fujimiinc.co.jp/csr/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "これらのご要望に積極に応えることで、お客様と信頼関係を築き、頼れるパートナーを目指しています",
+    "url": "https://www.fujimiinc.co.jp/ir/individual/strong.html",
+    "pass": 1
+   },
+   {
+    "quote": "（４）当社は、取締役・社外取締役候補者の指名に際しては、会長を議長とし、社内取締役を構成メンバーとする選任会議にて取締役・社外",
+    "url": "https://www.fujimiinc.co.jp/ir/governance/file/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、常勤監査役については、当社の事業や財務内容等に関して豊富な知見を有している人材を指名しており、社外監査役については、各",
+    "url": "https://www.fujimiinc.co.jp/ir/governance/file/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "分野における豊富な経験・知見を有し、経営全般を監視して取締役会の透明性を高めるとともに、企業価値の向上に貢献できる人材を指名",
+    "url": "https://www.fujimiinc.co.jp/ir/governance/file/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名された各監査役候補者は、監査役会の同意を得た後、取締役会にて当社の選任基準に合致しているかを含めて審議した",
+    "url": "https://www.fujimiinc.co.jp/ir/governance/file/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "員会を設置し、取締役等の指名・報酬などの特に重要な事項に関する検討に対し、適宜独立社外取締役の適切な関与・助言を得ております",
+    "url": "https://www.fujimiinc.co.jp/ir/governance/file/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名委員会又は報酬委員会に相当する",
+    "url": "https://www.fujimiinc.co.jp/ir/governance/file/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名委員会に相当",
+    "url": "https://www.fujimiinc.co.jp/ir/governance/file/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、指名委員会及び報酬委員会に相当する任意の委員会として、会長を委員長とし、社長、役付取締役、社外取締役を構成メンバーとする",
+    "url": "https://www.fujimiinc.co.jp/ir/governance/file/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．業務執行、監査・監督、指名、報酬決定等の機能に係る事項（現状のコーポレート・ガバナンス体制の概要）",
+    "url": "https://www.fujimiinc.co.jp/ir/governance/file/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年版｢すごい中堅企業｣100社リスト／日本酒､コンビニから造船､海底ケーブル部品まで／優良中堅企業を一挙紹介",
+    "url": "https://toyokeizai.net/articles/-/941387?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "損害保険代理店の契約解除問題が大炎上､金融庁と国交省が連名で損保各社に異例の｢…",
+    "url": "https://toyokeizai.net/articles/-/941387?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "お金の話をするとパートナーが不機嫌になります",
+    "url": "https://toyokeizai.net/articles/-/941387?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "サービス紹介へ",
+    "url": "https://www.nikkei.com/article/DGXZQOFD142Y00U4A210C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/article/DGXZQOFD142Y00U4A210C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "講演会向け講師紹介",
+    "url": "https://www.nikkei.com/article/DGXZQOFD142Y00U4A210C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/article/DGXZQOFD142Y00U4A210C2000000/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "国内外において、組織の中核にある開発と営業が一体となってお客様の声に耳を傾け、圧倒的な存在感を備えた商品を開発し、いち早く市場に投入し拡販すること",
+    "url": "https://www.fujimiinc.co.jp/ir/individual/strong.html",
+    "pass": 1
+   },
+   {
+    "quote": "LSIを製造する半導体デバイスメーカーのお客様に向け、CMP用研磨材を提供しています",
+    "url": "https://www.fujimiinc.co.jp/ir/individual/strong.html",
+    "pass": 1
+   },
+   {
+    "quote": "そうしたニーズに的確かつスピーディーに応え続けるフジミは業界から高い評価をいただき、多くのお客様にCMP用研磨材をお使いいただいています",
+    "url": "https://www.fujimiinc.co.jp/ir/individual/strong.html",
+    "pass": 1
+   },
+   {
+    "quote": "営業、開発、マーケティングが一体となってお客様ニーズの把握に努め、より迅速なアクションへとつながるこの組織も、フジミの強みをさらに拡大する一要因といえます",
+    "url": "https://www.fujimiinc.co.jp/ir/individual/strong.html",
+    "pass": 1
+   },
+   {
+    "quote": "ハードディスク市場は、お客様が扱う情報量の増大に伴い、急成長を遂げ、フジミはその市場の追い風を受けて活躍の領域を広げてきました",
+    "url": "https://www.fujimiinc.co.jp/ir/individual/strong.html",
+    "pass": 1
+   },
+   {
+    "quote": "開発部門と営業部門が一体となって業務を推進する組織が、よりスムーズにお客様の意向を直接汲み取った商品設計の実現を促進しています",
+    "url": "https://www.fujimiinc.co.jp/ir/individual/strong.html",
+    "pass": 1
+   },
+   {
+    "quote": "技術的進歩の早いディスク業界においては、お客様のニーズを即座に商品に反映させていくスピード感が欠かせません",
+    "url": "https://www.fujimiinc.co.jp/ir/individual/strong.html",
+    "pass": 1
+   },
+   {
+    "quote": "そういう意味でも、お客様に密着したフジミならではの開発体制は大きな武器だといえます",
+    "url": "https://www.fujimiinc.co.jp/ir/individual/strong.html",
+    "pass": 1
+   },
+   {
+    "quote": "現在、1,500社を越えるお客様に多彩な製品とそれに付随する技術と知識を提供するとともに商品開発、企画段階でのテスト製品の提供などで、積極的な支援を行っています",
+    "url": "https://www.fujimiinc.co.jp/ir/individual/strong.html",
+    "pass": 1
+   },
+   {
+    "quote": "「コミュニケーションを大切に、お客様を力強く支援する」というこの企業姿勢にもお客様から高い評価いただいています",
+    "url": "https://www.fujimiinc.co.jp/ir/individual/strong.html",
+    "pass": 1
+   },
+   {
+    "quote": "その体験を大切に、フジミはお客様からの声や質問、ご要望に真摯に対応しています",
+    "url": "https://www.fujimiinc.co.jp/ir/individual/strong.html",
+    "pass": 1
+   },
+   {
+    "quote": "フジミではお客様より技術的質問のほか、試作のご要望もいただくことがあります",
+    "url": "https://www.fujimiinc.co.jp/ir/individual/strong.html",
+    "pass": 1
+   },
+   {
+    "quote": "これらのご要望に積極に応えることで、お客様と信頼関係を築き、頼れるパートナーを目指しています",
+    "url": "https://www.fujimiinc.co.jp/ir/individual/strong.html",
+    "pass": 1
+   },
+   {
+    "quote": "コミュニケーションを大切に、お客様の力になること",
+    "url": "https://www.fujimiinc.co.jp/ir/individual/strong.html",
+    "pass": 1
+   },
+   {
+    "quote": "この企業姿勢もお客様からご評価いただいているポイントです",
+    "url": "https://www.fujimiinc.co.jp/ir/individual/strong.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様目線の実践",
+    "url": "https://www.fujimiinc.co.jp/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "～お客様要求に適う原材料の安定調達～",
+    "url": "https://www.fujimiinc.co.jp/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "購入先の選定にあたっては、生産能力、納期、品質管理能力、コスト、技術開発力、お客様サービス等を総合的に評価し、複数の購入先を確保することを基本としておりますが、一部の品目においては一社購買になっております",
+    "url": "https://www.fujimiinc.co.jp/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "これらについて長期間供給を受けられない場合、当社グループの生産活動が遅滞し、業績に影響を与える可能性があるため、販売先に対し代替原料の認定を推進する等の対策を講じてまいります",
+    "url": "https://www.fujimiinc.co.jp/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "しかしながら、予想を超えた技術・市場の変化により、お客様の技術的なニーズを満たす製品を速やかに提供できない場合は、将来の成長と収益性を低下させ、当社グループの業績に大きな影響を与える可能性があります",
+    "url": "https://www.fujimiinc.co.jp/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "このようなリスクに対応するため、当社グループでは、日本のほか、米国、台湾に研究拠点を設け、お客様のすぐ近くで、お客様の求める製品をタイムリーに提供できるよう、お客様と一体となって新製品の開発を推進しております",
+    "url": "https://www.fujimiinc.co.jp/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "Ｍ＆Ａの検討にあたっては、対象となる市場の動向や顧客ニーズ、被買収企業の業績、財務状況、技術優位性や市場競争力、将来事業計画及びシナジー効果に加え、Ｍ＆Ａに伴うリスク分析結果等を考慮しております",
+    "url": "https://www.fujimiinc.co.jp/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "このようなリスクに対応するため、当社グループでは品質保証体制を継続的に改善し、お客様からの新たな要求に対する品質改善に努めるだけでなく、品質に関わるクレームを受けた際には原因の根本対策による再発防止を徹底する等、高度化するお客様からの品質要求に応えるための体制を整備しております",
+    "url": "https://www.fujimiinc.co.jp/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、半導体基板の研磨工程には、粗研磨から最終研磨まで複数の研磨工程があり、当社グループはその全ての工程の研磨材を手掛け、最終仕上げ面をお客様の求めに応じ高品位かつ効率的に発現させうる、各工程における最適な研磨材とプロセスを提供しております",
+    "url": "https://www.fujimiinc.co.jp/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "このようなリスクに対応するため、お客様から最新情報を入手し、アナリストや投資家とのコミュニケーションを通じて市場動向の把握、分析及び事業戦略を立案する等、適宜対策を講じております",
+    "url": "https://www.fujimiinc.co.jp/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、激化するグローバル競争や高度化するお客様のニーズに柔軟に対応するため、多様なバックグラウンドを持つ人材の",
+    "url": "https://www.fujimiinc.co.jp/ir/governance/file/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "とするべく、女性活躍推進施策等の実行、グローバル人材及びお客様の課題を解決する力量を備えた人材確保及び育成施策の実行、",
+    "url": "https://www.fujimiinc.co.jp/ir/governance/file/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "フジミ取引先持株会 1,960,660 2.59",
+    "url": "https://www.fujimiinc.co.jp/ir/governance/file/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "d 上場会社を主要な取引先とする者又はその業務執行者",
+    "url": "https://www.fujimiinc.co.jp/ir/governance/file/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "e 上場会社の主要な取引先又はその業務執行者",
+    "url": "https://www.fujimiinc.co.jp/ir/governance/file/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "h 上場会社の取引先（d、e及びｆのいずれにも該当しないもの）の業務執行者（本人のみ）",
+    "url": "https://www.fujimiinc.co.jp/ir/governance/file/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "川下政美氏は、当社の取引先である日本",
+    "url": "https://www.fujimiinc.co.jp/ir/governance/file/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "石川修平氏は、当社の取引先であるNGK",
+    "url": "https://www.fujimiinc.co.jp/ir/governance/file/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "f 上場会社を主要な取引先とする者又はその業務執行者",
+    "url": "https://www.fujimiinc.co.jp/ir/governance/file/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "g 上場会社の主要な取引先又はその業務執行者",
+    "url": "https://www.fujimiinc.co.jp/ir/governance/file/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "j 上場会社の取引先（f、g及びhのいずれにも該当しないもの）の業務執行者（本人のみ）",
+    "url": "https://www.fujimiinc.co.jp/ir/governance/file/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "岡野勝氏は、当社の取引先である三菱電",
+    "url": "https://www.fujimiinc.co.jp/ir/governance/file/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "企業価値の向上を目指し、株主、お客様、地域社会の皆様から信頼される企業となるよう、コーポレート・ガバナンスの充実を図っております",
+    "url": "https://www.fujimiinc.co.jp/ir/governance/file/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、経営姿勢として**「お客様の視点に立って独自のソリューションを提案します」**と掲げている通り、単に製品を売るのではなく、顧客が抱える課題を「磨く」技術で解決することに重きを置いています",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、顧客である半導体メーカーは、価格の安さよりも「品質の安定性」と「信頼性」を最優先します",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との共同開発:",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の「こんな表面を作りたい」という極秘の要求に対し、フジミは数千、数万のレシピの中から最適な砥粒（研磨粒子）の種類、大きさ、形状、そして化学薬品の配合を提案し、試行錯誤を繰り返して最適なスラリーを創り上げていくのです",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "フジミのスラリーは、顧客の製造プロセスそのものに深く組み込まれている",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "フジミの真の競合は、同じように顧客と長年の信頼関係を築いている数少ないグローバル企業（米国のCMCマテリアルズなど）に限られるのです",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "前述の通り、顧客との共同開発が中心であり、常に次世代、次々世代の半導体技術を見据えた開発を行っています",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の技術的な課題を理解し、日本の開発部門と連携して解決策を提案する「技術コンサルタント」です",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "世界中の半導体工場の近くに技術サポート拠点を配置し、顧客の要求に迅速に対応できる体制も大きな強みです",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "このように、フジミは研究開発から技術サポートまで、顧客と一体となった独自のバリューチェーンを構築することで、他社に模倣できない価値を提供し続けているのです",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "フジミの製品は、顧客の歩留まりを左右する極めて重要な「機能材」であるため、価格競争に巻き込まれにくい",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、顧客のあらゆるニーズにワンストップで応えることが可能です",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との深い信頼関係:",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "天然鉱物や合成原料から作られた砥粒の塊を、顧客の要求に合わせて精密に粉砕し、ふるい分ける技術です",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "研究開発体制：顧客の未来を共に創る",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "日本、米国、台湾といった、世界の半導体開発の最前線にR&D拠点を構え、顧客である半導体メーカーと日常的に情報交換や共同開発を行っています",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、顧客の次世代プロセスの情報をいち早く入手し、開発に活かすことができます",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の未来の製品開発を、素材の力で支える",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "この堅実な経営方針が、財務の安定性と、従業員や顧客からの長期的な信頼に繋がっています",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内の主力工場に加え、台湾にも生産拠点を持ち、顧客の近くで製造・供給できる体制を整えています",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "特定顧客への依存リスク:",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "フジミの顧客は、世界の大手半導体メーカー数社に集約される傾向があります",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "製品の強み | 個人投資家の皆様へ | 株主・投資家情報 | フジミインコーポレーテッド",
+    "url": "https://www.fujimiinc.co.jp/ir/individual/strong.html",
+    "pass": 1
+   },
+   {
+    "quote": "営業、開発、マーケティングが一体となってお客様ニーズの把握に努め、より迅速なアクションへとつながるこの組織も、フジミの強みをさらに拡大する一要因といえます",
+    "url": "https://www.fujimiinc.co.jp/ir/individual/strong.html",
+    "pass": 1
+   },
+   {
+    "quote": "売上高営業利益率",
+    "url": "https://www.fujimiinc.co.jp/ir/financial/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "しかしながら、国内外に多様な競合企業が存在するため、当社グループの競争優位が脅かされたり、当社製品を上回る性能の新製品が競合企業により開発・上市されるリスクがあります",
+    "url": "https://www.fujimiinc.co.jp/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、各種社内規程を整備するとともに、販売・購買・在庫管理の各業務プロセスや決算・財務報告プロセスにチェックとコントロー",
+    "url": "https://www.fujimiinc.co.jp/ir/governance/file/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【直近の業績・財務状況】シリコンサイクルを乗りこなす高収益企業（定性評価）",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、フジミは高い技術力を価格に転嫁しやすく、結果として20%を超えるような高い営業利益率を実現しています",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "競合優位性：鉄壁の参入障壁を築く「認定ビジネス」",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "フジミのビジネスモデルの核心であり、最大の強みが**「認定ビジネス」**と呼ばれるものです",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "これは、装置メーカーである荏原などとは全く異なる、素材メーカー特有の参入障壁を築いています",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "この「共同開発」と「認定」というプロセスが、新規参入者にとって乗り越えられないほどの高い壁（参入障壁）となっています",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "世界中の半導体工場の近くに技術サポート拠点を配置し、顧客の要求に迅速に対応できる体制も大きな強みです",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "PL（損益計算書）分析：景気の波と構造的な高収益性の同居",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "驚異的に安定した高い営業利益率:",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "売上が変動する一方で、特筆すべきは営業利益率の高さと安定性です",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "長年の高収益経営の結果、BSには潤沢な現預金が積み上がっています",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "CMPスラリー市場は、技術的な参入障壁が極めて高いため、グローバルに見ても数社しかプレイヤーが存在しない「寡占市場」です",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "フジミのポジションと強み:",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "主力である半導体向け材料事業で、最先端分野での競争優位性をさらに盤石なものにする",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "研究開発で一度つまずけば、競争優位性が一気に揺らぐリスクがあります",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "フジミの強みである「すり合わせ技術」や「職人的なノウハウ」は、一朝一夕には身につくものではありません",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "ポジティブ要素（強み・機会）",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "鉄壁の参入障壁:",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との共同開発と認定プロセスに裏打ちされたビジネスモデルは、他社の模倣を許さない極めて高い参入障壁を築いています",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "構造的な高収益性と盤石な財務:",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "フジミインコーポレーテッドは、**「半導体という巨大な成長産業の、最も美味しく、かつ参入障壁が高い領域で、圧倒的な技術力を武器に確固たる地位を築いている、唯一無二の存在」**です",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "短期的な業績はシリコンサイクルの波に揺れることは避けられませんが、その根幹にある競争優位性は揺るぎません",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "決算短信・有報・適時開示から日本企業の強み・成長余地・リスクを整理",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "ストックオプションの付与対象者",
+    "url": "https://www.fujimiinc.co.jp/ir/governance/file/governance.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "一度採用されれば、その半導体チップの生産が続く限り、安定した収益が見込めるストック型の性質を持っています",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "サンリオの快進撃を支える緻密なライセンス戦略／｢投げ売り｣脱却でブランド価値向上､ロイヤルティー収入は5年で6倍に",
+    "url": "https://toyokeizai.net/articles/-/941387?display=b",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "この記事では、単なる業績数字の解説に留まらず、なぜフジミが世界中の半導体メーカーから選ばれ続けるのか、その圧倒的な技術力と、鉄壁とも言えるビジネスモデルの神髄に迫ります",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "【ビジネスモデルの詳細分析】模倣不可能な「共同開発」と「認定ビジネス」の壁",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "フジミの圧倒的な競争力は、そのユニークなビジネスモデルに根差しています",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "収益構造：高付加価値な「消耗品」が生み出す継続的収益",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "これは、フジミのビジネスモデルにとって極めて重要な意味を持ちます",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "フジミは、景気（シリコンサイクル）の波で売上は変動するものの、常に高い利益率を確保できる、非常に強固な収益構造を持っているのです",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "フジミのビジネスモデルの核心であり、最大の強みが**「認定ビジネス」**と呼ばれるものです",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "これは、前述したビジネスモデルの強さに起因します",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との共同開発と認定プロセスに裏打ちされたビジネスモデルは、他社の模倣を許さない極めて高い参入障壁を築いています",
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "研磨材で世界シェア約9割の フジミインコーポレーテッド — 研磨材で世界シェア約9割の フジミインコーポレーテッド 東洋経済オンライン https://toyokeizai.net > articles",
+    "url": "https://toyokeizai.net/articles/-/941387?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容 - 採用情報 - フジミインコーポレーテッド — 事業内容 - 採用情報 - フジミインコーポレーテッド フジミインコーポレーテッド https://recruit.fujimiinc.co.jp > company > business",
+    "url": "https://recruit.fujimiinc.co.jp/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "中長期経営計画 | 経営方針 | 株主・投資家情報 — 中長期経営計画 | 経営方針 | 株主・投資家情報 フジミインコーポレーテッド https://www.fujimiinc.co.jp > management > plan",
+    "url": "https://www.fujimiinc.co.jp/ir/management/plan.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 | IRイベント | 株主・投資家情報 — 決算説明 会 | IRイベント | 株主・投資家情報 フジミインコーポレーテッド https://www.fujimiinc.co.jp > event > presentation",
+    "url": "https://www.fujimiinc.co.jp/ir/event/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家情報 - フジミインコーポレーテッド — 株主・投資家情報 - フジミインコーポレーテッド フジミインコーポレーテッド https://www.fujimiinc.co.jp > ...",
+    "url": "https://www.fujimiinc.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリー | 株主・投資家情報 — IRライブラリー | 株主・投資家情報 フジミインコーポレーテッド https://www.fujimiinc.co.jp > library",
+    "url": "https://www.fujimiinc.co.jp/ir/library/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信 | IRライブラリー | 株主・投資家情報 — 決算 短信 | IRライブラリー | 株主・投資家情報 フジミインコーポレーテッド https://www.fujimiinc.co.jp > library > earning",
+    "url": "https://www.fujimiinc.co.jp/ir/library/earning.html",
+    "pass": 3
+   },
+   {
+    "quote": "IRイベント | 株主・投資家情報 - フジミインコーポレーテッド — IRイベント | 株主・投資家情報 - フジミインコーポレーテッド フジミインコーポレーテッド https://www.fujimiinc.co.jp > event",
+    "url": "https://www.fujimiinc.co.jp/ir/event/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "組織図 | フジミについて - フジミインコーポレーテッド — 組織図 | フジミについて - フジミインコーポレーテッド フジミインコーポレーテッド https://www.fujimiinc.co.jp > company > organization",
+    "url": "https://www.fujimiinc.co.jp/company/organization.html",
+    "pass": 3
+   },
+   {
+    "quote": "フジミについて - フジミインコーポレーテッド — フジミについて - フジミインコーポレーテッド フジミインコーポレーテッド https://www.fujimiinc.co.jp > company",
+    "url": "https://www.fujimiinc.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "事業 所案内 | フジミについて - フジミインコーポレーテッド — 事業 所案内 | フジミについて - フジミインコーポレーテッド フジミインコーポレーテッド https://www.fujimiinc.co.jp > company > network",
+    "url": "https://www.fujimiinc.co.jp/company/network.html",
+    "pass": 3
+   },
+   {
+    "quote": "サイトマップ - フジミインコーポレーテッド — サイトマップ - フジミインコーポレーテッド フジミインコーポレーテッド https://www.fujimiinc.co.jp > sitemap",
+    "url": "https://www.fujimiinc.co.jp/sitemap/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "フジミインコーポレーテッド 、 社長 に鈴木勝弘氏 - 日刊工業新聞 — フジミインコーポレーテッド 、 社長 に鈴木勝弘氏 - 日刊工業新聞 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/782133",
+    "pass": 3
+   },
+   {
+    "quote": "社長 ごあいさつ - フジミインコーポレーテッド — 社長 ごあいさつ - フジミインコーポレーテッド フジミインコーポレーテッド https://www.fujimiinc.co.jp > company > message",
+    "url": "https://www.fujimiinc.co.jp/company/message.html",
+    "pass": 3
+   },
+   {
+    "quote": "＜新 社長 ＞ フジミインコーポレーテッド は鈴木氏 - 産経ニュース — ＜新 社長 ＞ フジミインコーポレーテッド は鈴木氏 - 産経ニュース 産経ニュース https://www.sankei.com > 経済 > 人事",
+    "url": "https://www.sankei.com/article/20260515-GJCOODH5XFP3LJSUMKAJEJOS54/",
+    "pass": 3
+   },
+   {
+    "quote": "フジミインコーポレーテッド 新規事業本部長 森永 均 氏 — フジミインコーポレーテッド 新規事業本部長 森永 均 氏 BSRweb https://bsrweb.jp > article",
+    "url": "https://bsrweb.jp/article/000746?srsltid=AYCX9vLuOuQ196ahyB7MsK9CNaEqqxhWN_rEvbYb9xu5nBkJ1imq9PHA",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.fujimiinc.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujimiinc.co.jp/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujimiinc.co.jp/company/overview.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujimiinc.co.jp/ir/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujimiinc.co.jp/ir/individual/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujimiinc.co.jp/ir/library/earning.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujimiinc.co.jp/ir/news/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujimiinc.co.jp/ir/management/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujimiinc.co.jp/ir/governance/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujimiinc.co.jp/ir/financial/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujimiinc.co.jp/ir/library/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujimiinc.co.jp/ir/event/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujimiinc.co.jp/ir/stock/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujimiinc.co.jp/csr/environment/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujimiinc.co.jp/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujimiinc.co.jp/inquiry/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujimiinc.co.jp/ir/individual/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujimiinc.co.jp/ir/individual/strong.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujimiinc.co.jp/ir/library/report.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujimiinc.co.jp/ir/individual/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujimiinc.co.jp/ir/financial/highlight.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujimiinc.co.jp/ir/management/plan.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujimiinc.co.jp/ir/management/message.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujimiinc.co.jp/ir/management/risk.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujimiinc.co.jp/ir/individual/dividend.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.fujimiinc.co.jp/csr/multisteakholder.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fujimiinc.co.jp/ir/governance/file/governance.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fujimiinc.co.jp/ir/governance/file/standingrule.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toyokeizai.net/articles/-/941387?display=b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOFD142Y00U4A210C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/782133",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "フジミインコーポレーテッド",
+   "results": [
+    "https://www.fujimiinc.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8%E3%83%9F%E3%82%A4%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%9D%E3%83%AC%E3%83%BC%E3%83%86%E3%83%83%E3%83%89",
+    "https://www.nikkei.com/nkd/company/?scode=5384",
+    "https://job.mynavi.jp/27/pc/search/corp50571/outline.html",
+    "https://pr.mono.ipros.com/fujimiinc/",
+    "https://doda.jp/DodaFront/View/Company/j_id__00009382166/",
+    "https://ja.wikipedia.org/wiki/フジミインコーポレーテッド",
+    "https://finance.yahoo.co.jp/quote/5384.T/profile",
+    "https://www.traders.co.jp/stocks/61_5384/achievement",
+    "https://www.fujimiinc.co.jp/company/index.html"
+   ]
+  },
+  {
+   "query": "フジミインコーポレーテッド ビジネスモデル",
+   "results": [
+    "https://note.com/tatsuya_sabato/n/nd7da15ed677b",
+    "https://toyokeizai.net/articles/-/941387?display=b",
+    "https://recruit.fujimiinc.co.jp/company/business.html",
+    "https://www.fujimiinc.co.jp/ir/management/plan.html",
+    "https://kabutan.jp/news/marketnews/?b=n202510140241",
+    "https://www.fujimiinc.co.jp/ir/governance/structure.html",
+    "https://note.com/fisco_jp/n/nd4c67b81f358",
+    "https://irzukan.click/companies/5384",
+    "https://consovation.com/フジミインコーポレーテッドが実現するビジネス/",
+    "https://www.youtube.com/watch?v=yTrIE0-p9ww"
+   ]
+  },
+  {
+   "query": "フジミインコーポレーテッド 決算説明資料",
+   "results": [
+    "https://www.fujimiinc.co.jp/ir/event/presentation.html",
+    "https://www.fujimiinc.co.jp/ir/",
+    "https://www.fujimiinc.co.jp/ir/library/index.html",
+    "https://www.fujimiinc.co.jp/ir/library/earning.html",
+    "https://www.fujimiinc.co.jp/ir/event/index.html",
+    "https://www.fujimiinc.co.jp/ir/event/calendar.html",
+    "https://www.fujimiinc.co.jp/ir/news/index.html",
+    "https://edinetdb.jp/company/E01207/ir-docs/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=5384",
+    "https://www.fujimiinc.co.jp/ir/faq.html"
+   ]
+  },
+  {
+   "query": "フジミインコーポレーテッド 事業系統図",
+   "results": [
+    "https://www.fujimiinc.co.jp/company/organization.html",
+    "https://www.fujimiinc.co.jp/company/",
+    "https://www.fujimiinc.co.jp/company/network.html",
+    "https://www.fujimiinc.co.jp/sitemap/index.html",
+    "https://www.fujimiinc.co.jp/ir/management/plan.html",
+    "https://ir-library.kitaishihon.com/IrLibrary/5384_integrated_2025_mf01.pdf",
+    "https://www.ircms.jp/irexport/fujimiinc/file/a73773888995809.pdf",
+    "https://www.fujimiinc.co.jp/ir/governance/structure.html",
+    "https://ja.wikipedia.org/wiki/フジミインコーポレーテッド",
+    "https://vizora.meequs.com/ja/company/fujimi"
+   ]
+  },
+  {
+   "query": "フジミインコーポレーテッド 社長 インタビュー",
+   "results": [
+    "https://www.nikkei.com/article/DGXZQOFD142Y00U4A210C2000000/",
+    "https://www.nikkan.co.jp/articles/view/782133",
+    "https://www.fujimiinc.co.jp/company/message.html",
+    "https://www.sankei.com/article/20260515-GJCOODH5XFP3LJSUMKAJEJOS54/",
+    "https://bsrweb.jp/article/000746?srsltid=AYCX9vLuOuQ196ahyB7MsK9CNaEqqxhWN_rEvbYb9xu5nBkJ1imq9PHA",
+    "https://www.hokkoku.co.jp/articles/-/2106689",
+    "https://kinyu-joshi.jp/report/5mXiSq",
+    "https://www.nikkei.com/article/DGXZQODZ00017_U6A510C2000000/",
+    "https://biz.chunichi.co.jp/news/article/10/125455/",
+    "https://www.onecareer.jp/experiences/companies/6938/middle_categories/interview"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像3件／外部4頁・検索5回）"
+ }
+}

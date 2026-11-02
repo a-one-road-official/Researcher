@@ -1,0 +1,1644 @@
+{
+ "name": "エスティック",
+ "aliases": [],
+ "context": "証券コード6161／機械／スタンダード（内国株式）／2026.03期 売上高8,034百万円 営業利益率19.6%",
+ "researched_at": "2026-11-02T18:06:29.232379+00:00",
+ "official_url": "https://www.estic.co.jp/",
+ "identified_by": "search:yahoo_jp:エスティック",
+ "profile": {
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "3.4倍 営業利益：4.7倍 粗利率：35% → 46%（11％上昇）",
+    "url": "https://www.estic.co.jp/ir/presentations/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "label": "売上高",
+    "value": "3.4倍 営業利益：4.7倍 粗利率：35% → 46%（11％上昇）",
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "電動工具、産業用ロボット・自動組立ラインの製造ならびに販売",
+    "url": "https://tenshoku.mynavi.jp/company/287928/",
+    "pass": 3
+   }
+  ],
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1993年8月25日",
+    "url": "https://tenshoku.mynavi.jp/company/287928/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "1993年",
+    "url": "https://shachomeikan.jp/industry_article/2424",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "213名（2023年3月時点）",
+    "url": "https://tenshoku.mynavi.jp/company/287928/",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "連結246名（2024年3月）",
+    "url": "https://shachomeikan.jp/industry_article/2424",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "ナットランナ、サーボプレスなど締結・圧入の総合ソリューション | 株式会社エスティック",
+    "url": "https://www.estic.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ",
+    "url": "https://www.estic.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サポートサービス",
+    "url": "https://www.estic.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "生産終了製品",
+    "url": "https://www.estic.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.estic.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "⽣産終了製品",
+    "url": "https://www.estic.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "従来製品を進化させた新型コードレスナットランナ",
+    "url": "https://www.estic.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報を見る",
+    "url": "https://www.estic.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ナットランナ、サーボプレスなど、多様な締付・圧入に対応する製品をご用意しています",
+    "url": "https://www.estic.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品：マイクロナットランナ",
+    "url": "https://www.estic.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品：ハンドナットランナ",
+    "url": "https://www.estic.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品：コードレスナットランナ",
+    "url": "https://www.estic.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ",
+    "url": "https://www.estic.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "サポートサービス",
+    "url": "https://www.estic.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "生産終了製品",
+    "url": "https://www.estic.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.estic.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "⽣産終了製品",
+    "url": "https://www.estic.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ",
+    "url": "https://www.estic.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "サポートサービス",
+    "url": "https://www.estic.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "生産終了製品",
+    "url": "https://www.estic.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.estic.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "⽣産終了製品",
+    "url": "https://www.estic.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ",
+    "url": "https://www.estic.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "サポートサービス",
+    "url": "https://www.estic.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "生産終了製品",
+    "url": "https://www.estic.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.estic.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "⽣産終了製品",
+    "url": "https://www.estic.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ",
+    "url": "https://www.estic.co.jp/sustainability/environment/management/",
+    "pass": 1
+   },
+   {
+    "quote": "サポートサービス",
+    "url": "https://www.estic.co.jp/sustainability/environment/management/",
+    "pass": 1
+   },
+   {
+    "quote": "生産終了製品",
+    "url": "https://www.estic.co.jp/sustainability/environment/management/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.estic.co.jp/sustainability/environment/management/",
+    "pass": 1
+   },
+   {
+    "quote": "⽣産終了製品",
+    "url": "https://www.estic.co.jp/sustainability/environment/management/",
+    "pass": 1
+   },
+   {
+    "quote": "環境配慮商品・サービスの提供",
+    "url": "https://www.estic.co.jp/sustainability/environment/management/",
+    "pass": 1
+   },
+   {
+    "quote": "環境に優しい製品の開発とその普及に努めます",
+    "url": "https://www.estic.co.jp/sustainability/environment/management/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ",
+    "url": "https://www.estic.co.jp/sustainability/environment/carbon_neutral/",
+    "pass": 1
+   },
+   {
+    "quote": "サポートサービス",
+    "url": "https://www.estic.co.jp/sustainability/environment/carbon_neutral/",
+    "pass": 1
+   },
+   {
+    "quote": "生産終了製品",
+    "url": "https://www.estic.co.jp/sustainability/environment/carbon_neutral/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.estic.co.jp/sustainability/environment/carbon_neutral/",
+    "pass": 1
+   },
+   {
+    "quote": "⽣産終了製品",
+    "url": "https://www.estic.co.jp/sustainability/environment/carbon_neutral/",
+    "pass": 1
+   },
+   {
+    "quote": "環境に配慮した製品開発",
+    "url": "https://www.estic.co.jp/sustainability/environment/carbon_neutral/",
+    "pass": 1
+   },
+   {
+    "quote": "当社製品のナットランナ・プレスは電動のため、空圧・油圧機器と比較して環境負荷を大幅に軽減し、ユーザーの脱炭素化による環境負荷軽減に寄与しております",
+    "url": "https://www.estic.co.jp/sustainability/environment/carbon_neutral/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ",
+    "url": "https://www.estic.co.jp/sustainability/environment/recycling_society/",
+    "pass": 1
+   },
+   {
+    "quote": "サポートサービス",
+    "url": "https://www.estic.co.jp/sustainability/environment/recycling_society/",
+    "pass": 1
+   },
+   {
+    "quote": "生産終了製品",
+    "url": "https://www.estic.co.jp/sustainability/environment/recycling_society/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.estic.co.jp/sustainability/environment/recycling_society/",
+    "pass": 1
+   },
+   {
+    "quote": "⽣産終了製品",
+    "url": "https://www.estic.co.jp/sustainability/environment/recycling_society/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ",
+    "url": "https://www.estic.co.jp/sustainability/environment/biodiversity/",
+    "pass": 1
+   },
+   {
+    "quote": "サポートサービス",
+    "url": "https://www.estic.co.jp/sustainability/environment/biodiversity/",
+    "pass": 1
+   },
+   {
+    "quote": "生産終了製品",
+    "url": "https://www.estic.co.jp/sustainability/environment/biodiversity/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.estic.co.jp/sustainability/environment/biodiversity/",
+    "pass": 1
+   },
+   {
+    "quote": "⽣産終了製品",
+    "url": "https://www.estic.co.jp/sustainability/environment/biodiversity/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ",
+    "url": "https://www.estic.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "サポートサービス",
+    "url": "https://www.estic.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "生産終了製品",
+    "url": "https://www.estic.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.estic.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "⽣産終了製品",
+    "url": "https://www.estic.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ",
+    "url": "https://www.estic.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "サポートサービス",
+    "url": "https://www.estic.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "生産終了製品",
+    "url": "https://www.estic.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.estic.co.jp/ir/calendar/",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "平成5年8月25日",
+    "url": "https://www.estic.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 株式会社エスティック",
+    "url": "https://www.estic.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2035年目標",
+    "url": "https://www.estic.co.jp/sustainability/environment/carbon_neutral/",
+    "pass": 1
+   },
+   {
+    "quote": "2050年目標",
+    "url": "https://www.estic.co.jp/sustainability/environment/carbon_neutral/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月以降、大阪の全事業所において当社が調達する全電力量に相当する非化石証書を購入しています",
+    "url": "https://www.estic.co.jp/sustainability/environment/carbon_neutral/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年に設立した本社社屋、2023年に建設した技術開発センターは全てLED照明を導入しています",
+    "url": "https://www.estic.co.jp/sustainability/environment/recycling_society/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第2四半期 (中間期) 決算短信(463.5 KB)",
+    "url": "https://www.estic.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 決算説明資料(2.9 MB)",
+    "url": "https://www.estic.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第2四半期決算発表",
+    "url": "https://www.estic.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第1四半期決算発表",
+    "url": "https://www.estic.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 決算説明資料(2.9 MB)",
+    "url": "https://www.estic.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 決算短信発表",
+    "url": "https://www.estic.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 第3四半期決算発表",
+    "url": "https://www.estic.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 第2四半期 決算説明資料(8.8 MB)",
+    "url": "https://www.estic.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 第2四半期決算発表",
+    "url": "https://www.estic.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 第1四半期決算発表",
+    "url": "https://www.estic.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年３月期 決算説明資料(2.2 MB)",
+    "url": "https://www.estic.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年３月期 決算短信発表",
+    "url": "https://www.estic.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年３月期 第3四半期決算発表",
+    "url": "https://www.estic.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年３月期 第2四半期 決算説明資料(2.3 MB)",
+    "url": "https://www.estic.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年３月期 第2四半期決算発表",
+    "url": "https://www.estic.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年３月期 第1四半期決算発表",
+    "url": "https://www.estic.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年３月期 決算説明資料(3.5 MB)",
+    "url": "https://www.estic.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年３月期 決算短信発表",
+    "url": "https://www.estic.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年３月期 第3四半期決算発表",
+    "url": "https://www.estic.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年３月期 第2四半期 決算説明資料(3.0 MB)",
+    "url": "https://www.estic.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年３月期 第2四半期決算発表",
+    "url": "https://www.estic.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年３月期 第1四半期決算発表",
+    "url": "https://www.estic.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年３月期 決算説明資料(1.8 MB)",
+    "url": "https://www.estic.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年３月期 決算短信発表",
+    "url": "https://www.estic.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年３月期 第3四半期決算発表",
+    "url": "https://www.estic.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年３月期 第2四半期 決算説明資料(2.3 MB)",
+    "url": "https://www.estic.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年３月期 第2四半期決算発表",
+    "url": "https://www.estic.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度（2026年3月期）",
+    "url": "https://www.estic.co.jp/ir/presentations/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 決算説明会",
+    "url": "https://www.estic.co.jp/ir/presentations/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 決算説明資料（pdf: 2.9 MB）",
+    "url": "https://www.estic.co.jp/ir/presentations/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 決算説明会 質疑応答（サマリー）（pdf: 476.1 KB）",
+    "url": "https://www.estic.co.jp/ir/presentations/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 第2四半期 決算説明会",
+    "url": "https://www.estic.co.jp/ir/presentations/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 第2四半期 決算説明資料（pdf: 8.8 MB）",
+    "url": "https://www.estic.co.jp/ir/presentations/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 第2四半期 決算説明会 質疑応答（サマリー）（pdf: 506.0 KB）",
+    "url": "https://www.estic.co.jp/ir/presentations/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度（2026年3月期）",
+    "url": "https://www.estic.co.jp/ir/meeting-documents/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年定時株主総会招集通知及び株主総会資料（pdf: 984.7 KB）",
+    "url": "https://www.estic.co.jp/ir/meeting-documents/",
+    "pass": 1
+   },
+   {
+    "quote": "平成30年３月期第２四半期累計期間業績予想と実績値との差異に関するお知らせ(99.5 KB)",
+    "url": "https://www.estic.co.jp/ir/press-release/",
+    "pass": 1
+   },
+   {
+    "quote": "平成20年３月期業績予想の修正に関するお知らせ(12.3 KB)",
+    "url": "https://www.estic.co.jp/ir/press-release/",
+    "pass": 1
+   },
+   {
+    "quote": "平成18年３月期期末配当予想の修正に関するお知らせ(10.0 KB)",
+    "url": "https://www.estic.co.jp/ir/press-release/",
+    "pass": 1
+   },
+   {
+    "quote": "平成18年３月期の業績見通しについて(22.7 KB)",
+    "url": "https://www.estic.co.jp/ir/press-release/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 (2026年3月21日〜2027年3月20日)",
+    "url": "https://www.estic.co.jp/ir/brief-note/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第2四半期 (中間期) 決算短信(463.5 KB)",
+    "url": "https://www.estic.co.jp/ir/brief-note/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第1四半期決算短信(531.3 KB)",
+    "url": "https://www.estic.co.jp/ir/brief-note/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 (2025年3月21日〜2026年3月20日)",
+    "url": "https://www.estic.co.jp/ir/brief-note/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 決算短信(598.4 KB)",
+    "url": "https://www.estic.co.jp/ir/brief-note/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 第3四半期決算短信(398.1 KB)",
+    "url": "https://www.estic.co.jp/ir/brief-note/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 第2四半期 (中間期) 決算短信(399.9 KB)",
+    "url": "https://www.estic.co.jp/ir/brief-note/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 第1四半期決算短信(378.6 KB)",
+    "url": "https://www.estic.co.jp/ir/brief-note/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 (2024年3月21日〜2025年3月20日)",
+    "url": "https://www.estic.co.jp/ir/brief-note/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年３月期 決算短信(576.2 KB)",
+    "url": "https://www.estic.co.jp/ir/brief-note/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年３月期 第3四半期決算短信(354.0 KB)",
+    "url": "https://www.estic.co.jp/ir/brief-note/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年３月期 第2四半期 (中間期) 決算短信(335.5 KB)",
+    "url": "https://www.estic.co.jp/ir/brief-note/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年３月期 第1四半期決算短信(317.5 KB)",
+    "url": "https://www.estic.co.jp/ir/brief-note/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 (2023年3月21日〜2024年3月20日)",
+    "url": "https://www.estic.co.jp/ir/brief-note/",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "当社製品のナットランナ・プレスは電動のため、空圧・油圧機器と比較して環境負荷を大幅に軽減し、ユーザーの脱炭素化による環境負荷軽減に寄与しております",
+    "url": "https://www.estic.co.jp/sustainability/environment/carbon_neutral/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先各位 2026 年 4 ⽉吉⽇",
+    "url": "https://www.estic.co.jp/news/kakakukaitei_oshirase_jp_W2601.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取引先各位 2025 年 12 ⽉吉⽇",
+    "url": "https://www.estic.co.jp/news/kakakukaitei_oshirase_jp_W2501.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "定、ならびに送料をお客様へご負担いただく運びとなりましたので、ここにご案内申し上げます",
+    "url": "https://www.estic.co.jp/news/kakakukaitei_oshirase_jp_W2501.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の主力販売先である自動車産業では、電動化や自動運転技術の高度化に向けた開発が進むな",
+    "url": "https://www.estic.co.jp/ir/brief-note/irk20261029.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の主力販売先である自動車産業では、EV市場の成長鈍化や政策動向の変化を背景に、一部メ",
+    "url": "https://www.estic.co.jp/ir/brief-note/irk20261029.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "自動車メーカーを中心とした既存大口ユーザー向けのハンドナットランナ販売が堅調に推移した",
+    "url": "https://www.estic.co.jp/ir/brief-note/irk20261029.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の主力販売先である自動車産業では、新エネルギー車（NEV）市場の拡大が続く一方、メーカ",
+    "url": "https://www.estic.co.jp/ir/brief-note/irk20261029.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "既存自動車メーカー以外のユーザー開拓を進めるとともに、営業・サービス体制の強化を通じた販",
+    "url": "https://www.estic.co.jp/ir/brief-note/irk20261029.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "引き続き、顧客層の多様化を加速させる事で販売基盤を拡大し、",
+    "url": "https://www.estic.co.jp/ir/brief-note/irk20261029.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "欧州地域では、自動車産業における設備投資に慎重な動きが見られる中、既存大口ユーザー向け",
+    "url": "https://www.estic.co.jp/ir/brief-note/irk20261029.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "アジア市場 × 重点顧客 × 新機種により高収益成長を実現",
+    "url": "https://www.estic.co.jp/ir/presentations/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① 重点顧客（日系自動車大手） ： 高単価・継続取引・海外展開",
+    "url": "https://www.estic.co.jp/ir/presentations/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "② 成長顧客（ローカル/外資企業）： 設備投資拡大・高トルク帯需要",
+    "url": "https://www.estic.co.jp/ir/presentations/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ターゲット顧客の選択と集中により効率的に拡大",
+    "url": "https://www.estic.co.jp/ir/presentations/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "成長戦略｜② ユーザー多様化の進展と今後の拡張余地",
+    "url": "https://www.estic.co.jp/ir/presentations/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【顧客構成】 （2022年3月期）",
+    "url": "https://www.estic.co.jp/ir/presentations/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・ 既存顧客基盤の深耕により安定的な成長を実現",
+    "url": "https://www.estic.co.jp/ir/presentations/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・ 海外市場（北米）における現地顧客開拓により成長領域を拡張",
+    "url": "https://www.estic.co.jp/ir/presentations/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 国内設備中心から、海外ユーザー向け標準品ビジネスへシフト",
+    "url": "https://www.estic.co.jp/ir/presentations/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "“地域×顧客×技術”で成長機会を取り込む",
+    "url": "https://www.estic.co.jp/ir/presentations/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（グローバル×顧客多様化）",
+    "url": "https://www.estic.co.jp/ir/presentations/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "中と顧客ポートフォリオの多様化により、安定的な売上成長を実現",
+    "url": "https://www.estic.co.jp/ir/presentations/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "“地域×顧客”の分散により外部環境耐性を強化",
+    "url": "https://www.estic.co.jp/ir/presentations/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "アジア市場 × 重点顧客 × 新機種により高収益成長を実現",
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① 重点顧客（日系自動車大手） ： 高単価・継続取引・海外展開",
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "② 成長顧客（ローカル/外資企業）： 設備投資拡大・高トルク帯需要",
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ターゲット顧客の選択と集中により効率的に拡大",
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "成長戦略｜② ユーザー多様化の進展と今後の拡張余地",
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【顧客構成】 （2022年3月期）",
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・ 既存顧客基盤の深耕により安定的な成長を実現",
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・ 海外市場（北米）における現地顧客開拓により成長領域を拡張",
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 国内設備中心から、海外ユーザー向け標準品ビジネスへシフト",
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "“地域×顧客×技術”で成長機会を取り込む",
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（グローバル×顧客多様化）",
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "中と顧客ポートフォリオの多様化により、安定的な売上成長を実現",
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "“地域×顧客”の分散により外部環境耐性を強化",
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "世界的なEV需要の鈍化により、主要ユーザー投資計画遅延２",
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2025.05.09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・海外大手ユーザー認証取得促進",
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2025.05.09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・ユーザー多様化推進",
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2025.05.09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・新規重点攻略ユーザー育成",
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2025.05.09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・ユーザー多様化に向けた製品拡充",
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2025.05.09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "関税政策が顧客の設備投資動向に与える影響を精査中であり、現時点",
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2025.05.09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "付設備で、ユーザーニーズに",
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2025.05.09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "マイナビ転職では、サイトの継続的な改善や、ユーザーのみなさまに最適化された広告を配信すること等を目的に、Cookie等の「インフォマティブデータ」を利用しています",
+    "url": "https://tenshoku.mynavi.jp/company/287928/",
+    "pass": 3
+   },
+   {
+    "quote": "その時、お客様から「ナットランナは良い商品だから使いたい」と声をかけられました",
+    "url": "https://shachomeikan.jp/industry_article/2424",
+    "pass": 3
+   },
+   {
+    "quote": "当時、弊社の海外取引先は主にアジアで、父の強い人脈もありました",
+    "url": "https://shachomeikan.jp/industry_article/2424",
+    "pass": 3
+   },
+   {
+    "quote": "当時は、代理店契約を結んでいた米国の中堅設備メーカーに机を置いて営業をしていましたが全く上手くいかず、成果が出なかったこともあり、欧米流のやり方ではなく弊社独自のやり方でお客様をサポートするためにも、現地法人（ESTIC America）を設立することを決断しました",
+    "url": "https://shachomeikan.jp/industry_article/2424",
+    "pass": 3
+   },
+   {
+    "quote": "現地に法人を構え、長期的なサポートが可能になったことで、お客様にタイムリーな技術サポートが供給できるようになり、価格帯も現地の慣習に合わせて再構築しました",
+    "url": "https://shachomeikan.jp/industry_article/2424",
+    "pass": 3
+   },
+   {
+    "quote": "当初は知名度が低く苦労しましたが、独自の反力低減技術、納期面やサポート体制の良さが口コミで広がり、多くの顧客から支持を得ることができました",
+    "url": "https://shachomeikan.jp/industry_article/2424",
+    "pass": 3
+   },
+   {
+    "quote": "現地の声を把握し、日本で開発した製品を現地でカスタマイズし、より顧客満足度の高い製品を提供したいと思います",
+    "url": "https://shachomeikan.jp/industry_article/2424",
+    "pass": 3
+   },
+   {
+    "quote": "また、現場でどういうことをすればお客様に採用していただけるのか、何をすればリピートしていただけるのか、リアルな現場を体験できた事が今に活かされていると感じます",
+    "url": "https://www.green-japan.com/company/9654/interview",
+    "pass": 3
+   },
+   {
+    "quote": "そこでまずは、実際に当社の製品を買っていただいたお客様を訪問することから始めました",
+    "url": "https://www.green-japan.com/company/9654/interview",
+    "pass": 3
+   },
+   {
+    "quote": "そういった事例が数多くありましたので、販売したお客様へのサポートの仕方やマージン設定等、代理店との契約内容を見直しました",
+    "url": "https://www.green-japan.com/company/9654/interview",
+    "pass": 3
+   },
+   {
+    "quote": "また、ある程度販売数が見込める大手ユーザーなら、メリットを感じてもらえるよう意図的に価格を下げてもらうよう説得する等、販売する上での課題を一つずつクリアにしていきました",
+    "url": "https://www.green-japan.com/company/9654/interview",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信",
+    "url": "https://www.green-japan.com/company/9654/interview",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "従業員に対するストックオプションに関するお知らせ(20.2 KB)",
+    "url": "https://www.estic.co.jp/ir/press-release/",
+    "pass": 1
+   },
+   {
+    "quote": "取締役に対するストックオプションに関するお知らせ(17.7 KB)",
+    "url": "https://www.estic.co.jp/ir/press-release/",
+    "pass": 1
+   },
+   {
+    "quote": "① 重点顧客（日系自動車大手） ： 高単価・継続取引・海外展開",
+    "url": "https://www.estic.co.jp/ir/presentations/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・ サービスビジネス拡大（保守・校正・点検）",
+    "url": "https://www.estic.co.jp/ir/presentations/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① 重点顧客（日系自動車大手） ： 高単価・継続取引・海外展開",
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・ サービスビジネス拡大（保守・校正・点検）",
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "（セグメント情報等の注記） ………………………………………………………………………10",
+    "url": "https://www.estic.co.jp/ir/brief-note/irk20261029.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "大型装置案件の減少による減収影響があったものの、セグメントバランス改善やユニット案件を",
+    "url": "https://www.estic.co.jp/ir/brief-note/irk20261029.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "利益状況は、ハンドナットランナの増収に加え、比較的利益率の低いネジ締付装置の減収に伴うセグメントバラ",
+    "url": "https://www.estic.co.jp/ir/brief-note/irk20261029.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(前年同期比24.8％増)、国内売上高1,042百万円(前年同期比16.1％減)、売上全体に占める海外売上比率は73.0％",
+    "url": "https://www.estic.co.jp/ir/brief-note/irk20261029.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(前年同期は64.5％)、国内売上比率は27.0%(前年同期は35.5％)となりました",
+    "url": "https://www.estic.co.jp/ir/brief-note/irk20261029.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、当社製品は、ネジ締付装置、同部品及びネジ締付工具でありますので、単一セグメントとして市場環境を",
+    "url": "https://www.estic.co.jp/ir/brief-note/irk20261029.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.estic.co.jp/ir/brief-note/irk20261029.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.estic.co.jp/ir/brief-note/irk20261029.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "とする単一セグメントで事業活動を展開しているため、セグメント情報の記載を省略しております",
+    "url": "https://www.estic.co.jp/ir/brief-note/irk20261029.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上構成の変化により、比較的利益率の低いネジ締付装置の比率が上昇したことに加え、原材料",
+    "url": "https://www.estic.co.jp/ir/presentations/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "海外売上比率",
+    "url": "https://www.estic.co.jp/ir/presentations/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金額 構成比 金額 構成比 増減額 増減率",
+    "url": "https://www.estic.co.jp/ir/presentations/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上構成の変化により、比較的利益率の低いネジ締付装置の比率が上昇したことに加え、原材料",
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "海外売上比率",
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金額 構成比 金額 構成比 増減額 増減率",
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社製品の説明 （製品セグメント）",
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2025.05.09.pdf",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "ンスの改善により、営業利益959百万円(前年同期比65.7％増)、売上高営業利益率24.8％(前年同期は16.5％）、経",
+    "url": "https://www.estic.co.jp/ir/brief-note/irk20261029.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "アジア市場 × 重点顧客 × 新機種により高収益成長を実現",
+    "url": "https://www.estic.co.jp/ir/presentations/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２.拡大に向けた方針 ３.多様化を支える競争優位性",
+    "url": "https://www.estic.co.jp/ir/presentations/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "高収益成長は継続、さらなる成長加速には構造転換が必要",
+    "url": "https://www.estic.co.jp/ir/presentations/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① 高収益成長を実現したビジネスモデル（過去）",
+    "url": "https://www.estic.co.jp/ir/presentations/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高：3.4倍 営業利益：4.7倍 粗利率：35% → 46%（11％上昇）",
+    "url": "https://www.estic.co.jp/ir/presentations/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 営業利益 売上総利益率(%)",
+    "url": "https://www.estic.co.jp/ir/presentations/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "創業期に確立した「堅実かつ高収益な経営モデル」と、",
+    "url": "https://www.estic.co.jp/ir/presentations/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・ 在庫戦略の再構築（海外在庫30％カバー）",
+    "url": "https://www.estic.co.jp/ir/presentations/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "継承（創業以来の強み）と進化（構造改革）の融合を設計し、未来永劫、必要とされる会社へ",
+    "url": "https://www.estic.co.jp/ir/presentations/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "経営基盤 ｜持続的成長を支える高収益モデルを確立",
+    "url": "https://www.estic.co.jp/ir/presentations/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "”営業利益率20％前後を長期安定的に維持する“ブレの小さい高収益体質”",
+    "url": "https://www.estic.co.jp/ir/presentations/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上総利益率",
+    "url": "https://www.estic.co.jp/ir/presentations/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "アジア市場 × 重点顧客 × 新機種により高収益成長を実現",
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２.拡大に向けた方針 ３.多様化を支える競争優位性",
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "高収益成長は継続、さらなる成長加速には構造転換が必要",
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① 高収益成長を実現したビジネスモデル（過去）",
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高：3.4倍 営業利益：4.7倍 粗利率：35% → 46%（11％上昇）",
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 営業利益 売上総利益率(%)",
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "創業期に確立した「堅実かつ高収益な経営モデル」と、",
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・ 在庫戦略の再構築（海外在庫30％カバー）",
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "継承（創業以来の強み）と進化（構造改革）の融合を設計し、未来永劫、必要とされる会社へ",
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "経営基盤 ｜持続的成長を支える高収益モデルを確立",
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "”営業利益率20％前後を長期安定的に維持する“ブレの小さい高収益体質”",
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上総利益率",
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "原材料高・賃上げによるコスト増、営業利益率２０％確保５",
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2025.05.09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・海外拠点での中間在庫戦略",
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2025.05.09.pdf",
+    "pass": 2
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "◆ P11 連結業績予想（品種別売上） ➢ P26 経営基盤（収益モデル）",
+    "url": "https://www.estic.co.jp/ir/presentations/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① 高収益成長を実現したビジネスモデル（過去）",
+    "url": "https://www.estic.co.jp/ir/presentations/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "収益モデル高度化",
+    "url": "https://www.estic.co.jp/ir/presentations/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "投資タイミングに依存しない収益構造の構築により、売上の質と利",
+    "url": "https://www.estic.co.jp/ir/presentations/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "経営基盤 ｜持続的成長を支える高収益モデルを確立",
+    "url": "https://www.estic.co.jp/ir/presentations/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◆ P11 連結業績予想（品種別売上） ➢ P26 経営基盤（収益モデル）",
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① 高収益成長を実現したビジネスモデル（過去）",
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "収益モデル高度化",
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "投資タイミングに依存しない収益構造の構築により、売上の質と利",
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "経営基盤 ｜持続的成長を支える高収益モデルを確立",
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "• 海外は韓国・中国代理店を通じた限定展開",
+    "url": "https://www.estic.co.jp/ir/presentations/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 海外は韓国・中国代理店を通じた限定展開",
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2026.05.19.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・アジア代理店ミーティング開催",
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2025.05.09.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=6161",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=6161",
+    "pass": 3
+   },
+   {
+    "quote": "当時は、代理店契約を結んでいた米国の中堅設備メーカーに机を置いて営業をしていましたが全く上手くいかず、成果が出なかったこともあり、欧米流のやり方ではなく弊社独自のやり方でお客様をサポートするためにも、現地法人（ESTIC America）を設立することを決断しました",
+    "url": "https://shachomeikan.jp/industry_article/2424",
+    "pass": 3
+   },
+   {
+    "quote": "店舗向けBGMの配信サービスで国内トップシェア",
+    "url": "https://shachomeikan.jp/industry_article/2424",
+    "pass": 3
+   },
+   {
+    "quote": "店舗のDX推進にも注力",
+    "url": "https://shachomeikan.jp/industry_article/2424",
+    "pass": 3
+   },
+   {
+    "quote": "当時、代理店契約を結んでいたミシガンにある200人規模の設備メーカーで机を借りて仕事をしていたのですが、日本語を話せるのは私しかいません",
+    "url": "https://www.green-japan.com/company/9654/interview",
+    "pass": 3
+   },
+   {
+    "quote": "当時、代理店も製品サポートを現地でできるレベルの製品知識もなく、また、適切な販売価格帯などの重要な情報を把握できていませんでした",
+    "url": "https://www.green-japan.com/company/9654/interview",
+    "pass": 3
+   },
+   {
+    "quote": "そういった事例が数多くありましたので、販売したお客様へのサポートの仕方やマージン設定等、代理店との契約内容を見直しました",
+    "url": "https://www.green-japan.com/company/9654/interview",
+    "pass": 3
+   },
+   {
+    "quote": "代理店とのコミュニケーションを密に取り、製品サポートをしっかり行う事で良いビジネスのサイクルが回り始めました",
+    "url": "https://www.green-japan.com/company/9654/interview",
+    "pass": 3
+   },
+   {
+    "quote": "エンジニアがエンジニアを紹介したくなる会社",
+    "url": "https://www.green-japan.com/company/9654/interview",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社を知る | 株式会社 エスティック — 会社を知る | 株式会社 エスティック 株式会社エスティック https://www.estic.co.jp > recruit > company",
+    "url": "https://www.estic.co.jp/recruit/company/",
+    "pass": 3
+   },
+   {
+    "quote": "エスティック (6161) の企業概要・業績・財務・IR資料 — エスティック (6161) の企業概要・業績・財務・IR資料 crex-data.com https://www.crex-data.com > 企業",
+    "url": "https://www.crex-data.com/company/6161",
+    "pass": 3
+   },
+   {
+    "quote": "【国内トップシェア企業】株式会社 エスティック のナット ... — 【国内トップシェア企業】株式会社 エスティック のナット ... ee-ties.com https://www.ee-ties.com > ... > 株式会社エスティック",
+    "url": "https://www.ee-ties.com/magazine/15958/",
+    "pass": 3
+   },
+   {
+    "quote": "エスティック インアウトリビング | estic inc — エスティック インアウトリビング | estic inc エスティック インアウトリビング https://estic-inoutliving.com > company",
+    "url": "https://estic-inoutliving.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "6161 エスティック 第1期株の学校修了生レポート — 6161 エスティック 第1期株の学校修了生レポート みんなの運用会議 https://double-growth.com > 銘柄研究所",
+    "url": "https://double-growth.com/6161_estic/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 | 株式会社 エスティック — 決算説明 会 | 株式会社 エスティック エスティック https://www.estic.co.jp > presentations",
+    "url": "https://www.estic.co.jp/ir/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "【 エスティック 】[6161]IR情報 中期経営計画や 決算 短信 | 日経 ... — 【 エスティック 】[6161]IR情報 中期経営計画や 決算 短信 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=6161",
+    "pass": 3
+   },
+   {
+    "quote": "過去の 決算説明 会 | 株式会社 エスティック — 過去の 決算説明 会 | 株式会社 エスティック 株式会社エスティック https://www.estic.co.jp > presentations > archive",
+    "url": "https://www.estic.co.jp/ir/presentations/archive/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "エスティック 【6161】のIR 資料 - バフェット・コード — エスティック 【6161】のIR 資料 - バフェット・コード バフェット・コード https://www.buffett-code.com > company > library",
+    "url": "https://www.buffett-code.com/company/6161/library",
+    "pass": 3
+   },
+   {
+    "quote": "【 エスティック 】[6161]適時開示情報 株主総会や定款関連 — 【 エスティック 】[6161]適時開示情報 株主総会や定款関連 日本経済新聞 https://www.nikkei.com > nkd > company > disclose",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=6161",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 株式会社 エスティック — 会社概要 | 株式会社 エスティック 株式会社エスティック https://www.estic.co.jp > company",
+    "url": "https://www.estic.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 エスティック の会社概要 - マイナビ転職 — 株式会社 エスティック の会社概要 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > company",
+    "url": "https://tenshoku.mynavi.jp/company/287928/",
+    "pass": 3
+   },
+   {
+    "quote": "エスティック | 企業情報 - イプロス — エスティック | 企業情報 - イプロス 製造業向け情報検索サイト イプロスものづくり https://www.ipros.com > その他建設業",
+    "url": "https://www.ipros.com/company/detail/296245/",
+    "pass": 3
+   },
+   {
+    "quote": "【 エスティック 】[6161]企業概要 社員数や役員報酬・資本金 — 【 エスティック 】[6161]企業概要 社員数や役員報酬・資本金 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6161",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 エスティック 代表取締役 社長 鈴木 弘英 - 社長名鑑 — 株式会社 エスティック 代表取締役 社長 鈴木 弘英 - 社長名鑑 社長名鑑 https://shachomeikan.jp > industry_article",
+    "url": "https://shachomeikan.jp/industry_article/2424",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 エスティック の社員 インタビュー | IT/Web業界の転職 ... — 株式会社 エスティック の社員 インタビュー | IT/Web業界の転職 ... 転職サイトGreen https://www.green-japan.com > company > interview",
+    "url": "https://www.green-japan.com/company/9654/interview",
+    "pass": 3
+   },
+   {
+    "quote": "【 エスティック (6161)伊勢嶋常務に インタビュー ... - YouTube — 【 エスティック (6161)伊勢嶋常務に インタビュー ... - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=FkLYUMM83UQ",
+    "pass": 3
+   },
+   {
+    "quote": "代表あいさつ | 株式会社 エスティック — 代表あいさつ | 株式会社 エスティック 株式会社エスティック https://www.estic.co.jp > company > message",
+    "url": "https://www.estic.co.jp/company/message/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.estic.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.estic.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.estic.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.estic.co.jp/sustainability/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.estic.co.jp/sustainability/environment/management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.estic.co.jp/sustainability/environment/carbon_neutral/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.estic.co.jp/sustainability/environment/recycling_society/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.estic.co.jp/sustainability/environment/biodiversity/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.estic.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.estic.co.jp/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.estic.co.jp/ir/presentations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.estic.co.jp/ir/meeting-documents/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.estic.co.jp/ir/press-release/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.estic.co.jp/ir/brief-note/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.estic.co.jp/ir/securities/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.estic.co.jp/ir/stockholder-memo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.estic.co.jp/ir/koukoku/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.estic.co.jp/news/kakakukaitei_oshirase_jp_W2601.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.estic.co.jp/news/kakakukaitei_oshirase_jp_W2501.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.estic.co.jp/ir/brief-note/irk20261029.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.estic.co.jp/ir/securities/iry20260728.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.estic.co.jp/ir/presentations/setsumeikai2026.05.19.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2026.05.19.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2025.12.02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.estic.co.jp/ir/calendar/setsumeikai2025.05.09.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.crex-data.com/company/6161",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=6161",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/company/287928/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shachomeikan.jp/industry_article/2424",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.green-japan.com/company/9654/interview",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "エスティック",
+   "results": [
+    "https://estic-formax.com/",
+    "https://www.estic.co.jp/",
+    "https://www.estic.co.jp/company/",
+    "https://www.youtube.com/user/EsticCorporation",
+    "https://estic-inoutliving.com/",
+    "https://www.felice-lifedesign.com/collections/b59_estic?srsltid=AYCX9vKkGMaMfaQmHrdu4164TynwCXs45PZcfw-4J7R6vnwTxSdX-111",
+    "https://www.openwork.jp/company.php?m_id=a0C30000002x8XW",
+    "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF",
+    "https://ja.wikipedia.org/wiki/エスティック",
+    "https://techcommunity.microsoft.com/blog/skills-hub-blog/new-microsoft-certified-azure-ai-apps-and-agents-developer-associate/4494126"
+   ]
+  },
+  {
+   "query": "エスティック ビジネスモデル",
+   "results": [
+    "https://www.estic.co.jp/recruit/company/",
+    "https://www.crex-data.com/company/6161",
+    "https://www.ee-ties.com/magazine/15958/",
+    "https://estic-inoutliving.com/company/",
+    "https://double-growth.com/6161_estic/",
+    "https://www.matou-lab.com/%E3%82%A8%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%EF%BC%886161%EF%BC%89%E9%8A%98%E6%9F%84%E5%88%86%E6%9E%90%EF%BD%9C%E8%87%AA%E5%8B%95%E8%BB%8A%E5%90%91%E3%81%91%E3%83%8D%E3%82%B8%E7%B7%A0/",
+    "https://hw-jobs.careermine.jp/salary/estic",
+    "https://japanfurniture.jp/brands/estic/",
+    "https://shachomeikan.jp/industry_article/2424",
+    "https://en.wikipedia.org/wiki/Microsoft"
+   ]
+  },
+  {
+   "query": "エスティック 決算説明資料",
+   "results": [
+    "https://www.estic.co.jp/ir/presentations/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=6161",
+    "https://www.estic.co.jp/ir/presentations/archive/index.html",
+    "https://www.buffett-code.com/company/6161/library",
+    "https://www.nikkei.com/nkd/company/disclose/?scode=6161",
+    "https://x.com/kessan_db/status/2115814454818689468",
+    "https://kabutan.jp/stock/finance?code=6161",
+    "https://www.estic.co.jp/ir/securities/"
+   ]
+  },
+  {
+   "query": "エスティック 事業系統図",
+   "results": [
+    "https://www.estic.co.jp/company/",
+    "https://tenshoku.mynavi.jp/company/287928/",
+    "https://www.ipros.com/company/detail/296245/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=6161",
+    "https://www.estic-global.com/company/history/",
+    "https://www.buffett-code.com/company/6161/",
+    "https://mid-tenshoku.com/agency/a-6258/",
+    "https://compalyze.co.jp/company/3120001155365",
+    "https://www.estic.co.jp/company/accessmap/",
+    "https://www.zhihu.com/question/267585354"
+   ]
+  },
+  {
+   "query": "エスティック 社長 インタビュー",
+   "results": [
+    "https://shachomeikan.jp/industry_article/2424",
+    "https://www.green-japan.com/company/9654/interview",
+    "https://www.youtube.com/watch?v=FkLYUMM83UQ",
+    "https://www.estic.co.jp/company/message/",
+    "https://dentou-chousen.jp/company/4505/",
+    "https://www.kabutecho.com/interview/%E8%87%AA%E5%8B%95%E8%BB%8A%E5%B7%A5%E5%A0%B4%E3%81%AA%E3%81%A9%E5%90%91%E3%81%91%E3%81%AE%E3%83%8D%E3%82%B8%E7%B7%A0%E3%82%81%E6%A9%9F%E5%85%B7%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%80%80%E7%8B%AC/",
+    "https://www.nikkei.com/article/DGXMZO59296670Z10C20A5YZ0000/",
+    "https://e-actionlearning.jp/interview/6",
+    "https://www.ee-ties.com/magazine/15958/",
+    "https://stackoverflow.com/questions/15036706/creating-facebook-app-with-callback-url"
+   ]
+  }
+ ],
+ "missing": {}
+}

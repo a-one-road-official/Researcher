@@ -1,0 +1,985 @@
+{
+ "name": "東海リース",
+ "aliases": [],
+ "context": "証券コード9761／サービス業／スタンダード（内国株式）／2026.03期 売上高18,856百万円 営業利益率20.2%",
+ "researched_at": "2026-11-02T18:04:55.076857+00:00",
+ "official_url": "https://tokai-lease.co.jp/",
+ "identified_by": "search:yahoo_jp:東海リース",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "昭和38年 3月5日",
+    "url": "https://tokai-lease.co.jp/outline/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "昭和43年 5月20日",
+    "url": "https://tokai-lease.co.jp/outline/",
+    "pass": 1
+   },
+   {
+    "label": "設立年月日",
+    "value": "1968年5月20日",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=9761",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "当社：431名　グループ全体：590名（2026年3月31日現在）",
+    "url": "https://tokai-lease.co.jp/outline/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "431 人",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=9761",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "・仮設建物の賃貸業、製作並びに販売 ・仮設建物の建築業、設計・監理 ・什器備品の賃貸業並びに販売",
+    "url": "https://tokai-lease.co.jp/outline/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "的確な提案・効率的な工程管理・低コスト化・豊富な商品アイテムなど多彩なニーズへの対応力が選ばれるポイントです",
+    "url": "https://tokai-lease.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "組⽴ハウスの仮設性並びに応急即応性の製品特製に着⽬",
+    "url": "https://tokai-lease.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "断熱性・気密性・遮音性に優れた規格製品で、施工効率や環境対策、コスト削減を実現する快適住空間を提供します",
+    "url": "https://tokai-lease.co.jp/ir/ir_about/",
+    "pass": 1
+   },
+   {
+    "quote": "コンパクト輸送・スピード施工可能な自由レイアウト対応製品です",
+    "url": "https://tokai-lease.co.jp/ir/ir_about/",
+    "pass": 1
+   },
+   {
+    "quote": "多様な家具・設備・家電を提供し、教育備品や屋外設備も含む幅広い製品ラインアップが特徴です",
+    "url": "https://tokai-lease.co.jp/ir/ir_about/",
+    "pass": 1
+   },
+   {
+    "quote": "デスクや書庫から、複合プリンター、エアコン、家電製品の事務所まわりの製品のほか、教育施設用備品も取り扱っています",
+    "url": "https://tokai-lease.co.jp/ir/ir_about/",
+    "pass": 1
+   },
+   {
+    "quote": "あなたの町のいろいろなところで、様々な仕様の当社の製品をご利用いただいています",
+    "url": "https://tokai-lease.co.jp/ir/ir_about/",
+    "pass": 1
+   },
+   {
+    "quote": "組⽴ハウスの仮設性並びに応急即応性の製品特製に着⽬",
+    "url": "https://tokai-lease.co.jp/ir/ir_about/",
+    "pass": 1
+   },
+   {
+    "quote": "しかしながら、中東情勢の緊迫化に伴う原油価格の高騰や原油由来の製品の調達不安、国内の物",
+    "url": "https://tokai-lease.co.jp/archives/files/6567e4654e87af0787374cf94dcd1675b967cf0d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "行うとともに、外注工事の代替として当社リース商品をお得意先様に積極提案することにより、原価低減および当",
+    "url": "https://tokai-lease.co.jp/archives/files/6567e4654e87af0787374cf94dcd1675b967cf0d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品及び製品 303,178 285,722",
+    "url": "https://tokai-lease.co.jp/archives/files/6567e4654e87af0787374cf94dcd1675b967cf0d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "行うとともに、一層のお得意先様満足を獲得すべく商品の品質向上および安全衛生管理の徹底を図っております",
+    "url": "https://tokai-lease.co.jp/archives/files/r0741.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "こうした状況を踏まえ、当社グループはリユース商品を最大限に生かし、安定した商品提供ができる体制を整備",
+    "url": "https://tokai-lease.co.jp/archives/files/r0741.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品及び製品 286,606 303,178",
+    "url": "https://tokai-lease.co.jp/archives/files/r0741.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "行うとともに、一層のお得意先様満足を獲得すべく商品の品質向上および安全衛生管理の徹底を図っております",
+    "url": "https://tokai-lease.co.jp/archives/files/r073.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品及び製品 286,606 234,486",
+    "url": "https://tokai-lease.co.jp/archives/files/r073.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "行うとともに、一層のお得意先様満足を獲得すべく商品の品質向上および安全衛生管理の徹底を図っております",
+    "url": "https://tokai-lease.co.jp/archives/files/r072.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品及び製品 286,606 209,308",
+    "url": "https://tokai-lease.co.jp/archives/files/r072.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【仮設建物リース専業大手】建設現場向けが主力",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=9761",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=9761",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2027年3月期第1四半期決算短信",
+    "url": "https://tokai-lease.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 東海リース株式会社",
+    "url": "https://tokai-lease.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和38年 3月5日",
+    "url": "https://tokai-lease.co.jp/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和43年 5月20日",
+    "url": "https://tokai-lease.co.jp/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月10日",
+    "url": "https://tokai-lease.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期決算短信",
+    "url": "https://tokai-lease.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月06日",
+    "url": "https://tokai-lease.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月10日",
+    "url": "https://tokai-lease.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月15日",
+    "url": "https://tokai-lease.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月14日",
+    "url": "https://tokai-lease.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月10日",
+    "url": "https://tokai-lease.co.jp/ir/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期決算短信",
+    "url": "https://tokai-lease.co.jp/ir/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月06日",
+    "url": "https://tokai-lease.co.jp/ir/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月10日",
+    "url": "https://tokai-lease.co.jp/ir/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月15日",
+    "url": "https://tokai-lease.co.jp/ir/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月14日",
+    "url": "https://tokai-lease.co.jp/ir/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期決算短信",
+    "url": "https://tokai-lease.co.jp/ir/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年02月12日",
+    "url": "https://tokai-lease.co.jp/ir/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第3四半期決算短信",
+    "url": "https://tokai-lease.co.jp/ir/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年11月13日",
+    "url": "https://tokai-lease.co.jp/ir/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第2四半期決算短信",
+    "url": "https://tokai-lease.co.jp/ir/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年10月09日",
+    "url": "https://tokai-lease.co.jp/ir/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年08月08日",
+    "url": "https://tokai-lease.co.jp/ir/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第1四半期決算短信",
+    "url": "https://tokai-lease.co.jp/ir/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年08月07日",
+    "url": "https://tokai-lease.co.jp/ir/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年07月10日",
+    "url": "https://tokai-lease.co.jp/ir/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年06月17日",
+    "url": "https://tokai-lease.co.jp/ir/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年05月14日",
+    "url": "https://tokai-lease.co.jp/ir/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期決算短信",
+    "url": "https://tokai-lease.co.jp/ir/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年03月11日",
+    "url": "https://tokai-lease.co.jp/ir/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年02月26日",
+    "url": "https://tokai-lease.co.jp/ir/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期第3四半期決算短信（公認会計士等による期中レビューの完了）",
+    "url": "https://tokai-lease.co.jp/ir/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年02月21日",
+    "url": "https://tokai-lease.co.jp/ir/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期第1四半期決算短信の一部訂正について",
+    "url": "https://tokai-lease.co.jp/ir/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期第2四半期決算短信の一部訂正について",
+    "url": "https://tokai-lease.co.jp/ir/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月末現在",
+    "url": "https://tokai-lease.co.jp/ir/ir_about/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月30日",
+    "url": "https://tokai-lease.co.jp/ir/convene/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月26日",
+    "url": "https://tokai-lease.co.jp/ir/convene/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月29日",
+    "url": "https://tokai-lease.co.jp/ir/convene/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年07月01日",
+    "url": "https://tokai-lease.co.jp/ir/convene/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年06月27日",
+    "url": "https://tokai-lease.co.jp/ir/convene/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年06月09日",
+    "url": "https://tokai-lease.co.jp/ir/convene/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年07月01日",
+    "url": "https://tokai-lease.co.jp/ir/convene/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年06月27日",
+    "url": "https://tokai-lease.co.jp/ir/convene/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年05月31日",
+    "url": "https://tokai-lease.co.jp/ir/convene/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年07月03日",
+    "url": "https://tokai-lease.co.jp/ir/convene/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年06月29日",
+    "url": "https://tokai-lease.co.jp/ir/convene/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年06月02日",
+    "url": "https://tokai-lease.co.jp/ir/convene/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年07月01日",
+    "url": "https://tokai-lease.co.jp/ir/convene/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年06月29日",
+    "url": "https://tokai-lease.co.jp/ir/convene/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年06月09日",
+    "url": "https://tokai-lease.co.jp/ir/convene/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年07月01日",
+    "url": "https://tokai-lease.co.jp/ir/convene/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年06月29日",
+    "url": "https://tokai-lease.co.jp/ir/convene/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年06月09日",
+    "url": "https://tokai-lease.co.jp/ir/convene/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年06月30日",
+    "url": "https://tokai-lease.co.jp/ir/convene/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年06月26日",
+    "url": "https://tokai-lease.co.jp/ir/convene/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年06月08日",
+    "url": "https://tokai-lease.co.jp/ir/convene/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年07月01日",
+    "url": "https://tokai-lease.co.jp/ir/convene/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年06月27日",
+    "url": "https://tokai-lease.co.jp/ir/convene/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年06月07日",
+    "url": "https://tokai-lease.co.jp/ir/convene/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "東海リースについて、分かりやすくご紹介いたします",
+    "url": "https://tokai-lease.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "指名・報酬委員会の設置に関するお知らせ",
+    "url": "https://tokai-lease.co.jp/ir/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "これまで半世紀近くにわたり、学校、庁舎、交番といった公共施設や現場事務所や店舗だけでなく、自然災害時の応急仮設住宅など、さまざまな仮設建物を手がけてまいりました",
+    "url": "https://tokai-lease.co.jp/ir/ir_about/",
+    "pass": 1
+   },
+   {
+    "quote": "いつも買い物されているコンビニ店舗としてもご利用いただいております",
+    "url": "https://tokai-lease.co.jp/ir/ir_about/",
+    "pass": 1
+   },
+   {
+    "quote": "お仕事紹介 | 東海リース株式会社",
+    "url": "https://tokai-lease.co.jp/recruit/business/",
+    "pass": 1
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=9761",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=9761",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "東海リースのビジネスモデル",
+    "url": "https://tokai-lease.co.jp/ir/ir_about/",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "全国38ヶ所の直営ネットワークで、お客様のあらゆるご要望にお応えします",
+    "url": "https://tokai-lease.co.jp/ir/ir_about/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のニーズに寄り添うスタンスで",
+    "url": "https://tokai-lease.co.jp/recruit/business/",
+    "pass": 1
+   },
+   {
+    "quote": "既存顧客を対象にした法人営業が基本なので、日ごろからお客様とコミュニケーションを取り、そのニーズをしっかりと把握しておくことが重要",
+    "url": "https://tokai-lease.co.jp/recruit/business/",
+    "pass": 1
+   },
+   {
+    "quote": "現場をしっかりとまとめながら、お客様や業者との折衝にも携わる立場だけに、視野を広く持つことが求められます",
+    "url": "https://tokai-lease.co.jp/recruit/business/",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "支払手数料 5,706 3,350",
+    "url": "https://tokai-lease.co.jp/archives/files/6567e4654e87af0787374cf94dcd1675b967cf0d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "対して、年額30百万円以内の金銭報酬債権を支給することおよび譲渡制限付株式の譲渡制",
+    "url": "https://tokai-lease.co.jp/archives/files/irnews_20260710.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "支払手数料 52,171 77,163",
+    "url": "https://tokai-lease.co.jp/archives/files/r0741.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "支払手数料 18,555 15,479",
+    "url": "https://tokai-lease.co.jp/archives/files/r073.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "支払手数料 12,981 9,726",
+    "url": "https://tokai-lease.co.jp/archives/files/r072.pdf",
+    "pass": 2
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "（セグメント情報等の注記） ………………………………………………………………………7",
+    "url": "https://tokai-lease.co.jp/archives/files/6567e4654e87af0787374cf94dcd1675b967cf0d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、当社グループは仮設建物リース業の単一セグメントであるため、セグメント別の記載を省略しておりま",
+    "url": "https://tokai-lease.co.jp/archives/files/6567e4654e87af0787374cf94dcd1675b967cf0d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://tokai-lease.co.jp/archives/files/6567e4654e87af0787374cf94dcd1675b967cf0d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は単一セグメントであるため、記載を省略しております",
+    "url": "https://tokai-lease.co.jp/archives/files/6567e4654e87af0787374cf94dcd1675b967cf0d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等） ……………………………………………………………………………１２",
+    "url": "https://tokai-lease.co.jp/archives/files/r0741.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(セグメント情報等)",
+    "url": "https://tokai-lease.co.jp/archives/files/r0741.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は単一セグメントであるため、記載を省略しております",
+    "url": "https://tokai-lease.co.jp/archives/files/r0741.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記） …………………………………………………………………………7",
+    "url": "https://tokai-lease.co.jp/archives/files/r073.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、当社グループは仮設建物リース業の単一セグメントであるため、セグメント別の記載を省略しておりま",
+    "url": "https://tokai-lease.co.jp/archives/files/r073.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://tokai-lease.co.jp/archives/files/r073.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://tokai-lease.co.jp/archives/files/r073.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は単一セグメントであるため、記載を省略しております",
+    "url": "https://tokai-lease.co.jp/archives/files/r073.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記） …………………………………………………………………………7",
+    "url": "https://tokai-lease.co.jp/archives/files/r072.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、当社グループは仮設建物リース業の単一セグメントであるため、セグメント別の記載を省略しておりま",
+    "url": "https://tokai-lease.co.jp/archives/files/r072.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://tokai-lease.co.jp/archives/files/r072.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://tokai-lease.co.jp/archives/files/r072.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は単一セグメントであるため、記載を省略しております",
+    "url": "https://tokai-lease.co.jp/archives/files/r072.pdf",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "このような状況のなか、当社グループはリース用資産の在庫状況および納期、採算を一体で重視した受注活動を",
+    "url": "https://tokai-lease.co.jp/archives/files/6567e4654e87af0787374cf94dcd1675b967cf0d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このような状況のなか、当社グループはリース用資産の在庫状況および納期、採算を一体で重視した受注活動を",
+    "url": "https://tokai-lease.co.jp/archives/files/r0741.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このような状況のなか、当社グループはリース用資産の在庫状況および納期、採算を一体で重視した受注活動を",
+    "url": "https://tokai-lease.co.jp/archives/files/r073.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このような状況のなか、当社グループはリース用資産の在庫状況および納期、採算を一体で重視した受注活動を",
+    "url": "https://tokai-lease.co.jp/archives/files/r072.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "東海リース 早わかり | 東海リース 株式会社 — 東海リース 早わかり | 東海リース 株式会社 東海リース株式会社 https://tokai-lease.co.jp > ir_about",
+    "url": "https://tokai-lease.co.jp/ir/ir_about/",
+    "pass": 3
+   },
+   {
+    "quote": "メッセージ | 東海リース 株式会社 — メッセージ | 東海リース 株式会社 東海リース株式会社 https://tokai-lease.co.jp > message",
+    "url": "https://tokai-lease.co.jp/ir/message/",
+    "pass": 3
+   },
+   {
+    "quote": "東海リース の「企業分析［強み・弱み・展望］」 OpenWork — 東海リース の「企業分析［強み・弱み・展望］」 OpenWork OpenWork https://www.openwork.jp > ... > 東海リース",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fs0H&q_no=9",
+    "pass": 3
+   },
+   {
+    "quote": "東海リース 株式会社（9761） - ENVALITH · セグメント — 東海リース 株式会社（9761） - ENVALITH · セグメント ENVALITH https://envalith.com > companies > segments",
+    "url": "https://envalith.com/ja/companies/9761/segments",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 | 東海リース 株式会社 — IR情報 | 東海リース 株式会社 東海リース株式会社 https://tokai-lease.co.jp > ...",
+    "url": "https://tokai-lease.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信 | 東海リース 株式会社 — 決算 短信 | 東海リース 株式会社 東海リース株式会社 https://tokai-lease.co.jp > tanshin",
+    "url": "https://tokai-lease.co.jp/ir/tanshin/",
+    "pass": 3
+   },
+   {
+    "quote": "【 東海リース 】[9761]IR情報 中期経営計画や 決算 短信 | 日経 ... — 【 東海リース 】[9761]IR情報 中期経営計画や 決算 短信 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=9761",
+    "pass": 3
+   },
+   {
+    "quote": "東海リース 、2026年3月期は売上高2.5%増 営業利益20.4%減 — 東海リース 、2026年3月期は売上高2.5%増 営業利益20.4%減 インベストーク https://investalk.jp > tokai-lease-2026-03-earnings",
+    "url": "https://investalk.jp/9761/tokai-lease-2026-03-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "東海リース 【9761】の最新 決算 発表、業績修正 - 株探 — 東海リース 【9761】の最新 決算 発表、業績修正 - 株探 株探 https://kabutan.jp > 東海リース (9761) > 決算",
+    "url": "https://kabutan.jp/stock/finance?code=9761",
+    "pass": 3
+   },
+   {
+    "quote": "理念・会社概要 | 東海リース 株式会社 — 理念・会社概要 | 東海リース 株式会社 東海リース株式会社 https://tokai-lease.co.jp > outline",
+    "url": "https://tokai-lease.co.jp/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "【 東海リース 】[9761]企業概要 社員数や役員報酬・資本金 — 【 東海リース 】[9761]企業概要 社員数や役員報酬・資本金 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=9761",
+    "pass": 3
+   },
+   {
+    "quote": "東海リース 株式会社 | 専門学校の就活No.1サイト キャリアマップ — 東海リース 株式会社 | 専門学校の就活No.1サイト キャリアマップ Careermap https://www.careermap.jp > corporations",
+    "url": "https://www.careermap.jp/corporations/5902",
+    "pass": 3
+   },
+   {
+    "quote": "東海リース 株式会社 — 東海リース 株式会社 東海リース株式会社 https://tokai-lease.co.jp",
+    "url": "https://tokai-lease.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "東海リース (株)【東証スタンダード上場】 - マイナビ — 東海リース (株)【東証スタンダード上場】 - マイナビ マイナビ https://job.mynavi.jp > corp4097 > recruiting_course",
+    "url": "https://job.mynavi.jp/27/pc/search/corp4097/recruiting_course27051849/recruiting_course.html",
+    "pass": 3
+   },
+   {
+    "quote": "社長 あいさつ | 東海リース 株式会社 — 社長 あいさつ | 東海リース 株式会社 東海リース株式会社 https://tokai-lease.co.jp > greeting",
+    "url": "https://tokai-lease.co.jp/greeting/",
+    "pass": 3
+   },
+   {
+    "quote": "東海リース社長 ・塚本博亮氏「技術高度化で受注伸ばす」 — 東海リース社長 ・塚本博亮氏「技術高度化で受注伸ばす」 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/307902",
+    "pass": 3
+   },
+   {
+    "quote": "東海リース 【9761】の 社長 ・役員 - キタイシホン — 東海リース 【9761】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/9761/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "東海リース社長 に塚本氏 - 日本経済新聞 — 東海リース社長 に塚本氏 - 日本経済新聞 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXNASDZ0209E_S4A500C1TJ1000/",
+    "pass": 3
+   },
+   {
+    "quote": "東海リース の 社長 は誰？塚本博亮氏の経歴・就任年【9761】 — 東海リース の 社長 は誰？塚本博亮氏の経歴・就任年【9761】 kigyo-scope.jp https://kigyo-scope.jp > 東海リース株式会社",
+    "url": "https://kigyo-scope.jp/company/9761/ceo/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://tokai-lease.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokai-lease.co.jp/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokai-lease.co.jp/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokai-lease.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokai-lease.co.jp/ir/ir_news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokai-lease.co.jp/ir/management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokai-lease.co.jp/ir/ir_about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokai-lease.co.jp/ir/highlight/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokai-lease.co.jp/ir/ir_library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokai-lease.co.jp/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokai-lease.co.jp/ir/convene/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokai-lease.co.jp/ir/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokai-lease.co.jp/ir/ir_calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokai-lease.co.jp/ir/ir_kokoku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokai-lease.co.jp/recruit/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokai-lease.co.jp/recruit/inspiring-women/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokai-lease.co.jp/ir/ir_news/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://tokai-lease.co.jp/archives/files/6567e4654e87af0787374cf94dcd1675b967cf0d.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tokai-lease.co.jp/archives/files/irnews_20260806.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tokai-lease.co.jp/archives/files/irnews_20260710.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tokai-lease.co.jp/archives/files/45b35413fe0d9b18092f8a70a6b7a2c7d424c91d.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tokai-lease.co.jp/archives/files/irnews_20260514.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tokai-lease.co.jp/archives/files/r0741.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tokai-lease.co.jp/archives/files/r073.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tokai-lease.co.jp/archives/files/r072.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tokai-lease.co.jp/assets/img/ir/about/company-2.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=9761",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/307902",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "東海リース",
+   "results": [
+    "https://tokai-lease.co.jp/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=9761",
+    "https://job.mynavi.jp/27/pc/search/corp4097/recruiting_course27051849/recruiting_course.html?site_preference=pc",
+    "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E3%83%AA%E3%83%BC%E3%82%B9",
+    "https://www.careermap.jp/corporations/5902",
+    "https://ja.wikipedia.org/wiki/東海リース",
+    "https://finance.yahoo.co.jp/quote/9761.T/profile",
+    "https://zukaikeizai.com/kaisha/9761/",
+    "https://tokai-lease.co.jp/office/",
+    "https://finance.yahoo.co.jp/quote/9761.T"
+   ]
+  },
+  {
+   "query": "東海リース ビジネスモデル",
+   "results": [
+    "https://tokai-lease.co.jp/ir/ir_about/",
+    "https://tokai-lease.co.jp/ir/message/",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fs0H&q_no=9",
+    "https://www.bk-web.jp/post.php?id=1168",
+    "https://envalith.com/ja/companies/9761/segments",
+    "https://job.mynavi.jp/27/pc/search/corp4097/recruiting_course27051849/recruiting_course.html?site_preference=pc",
+    "https://en-hyouban.com/company/10008657278/23/",
+    "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E3%83%AA%E3%83%BC%E3%82%B9",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=9761",
+    "https://ja.wikipedia.org/wiki/東海リース"
+   ]
+  },
+  {
+   "query": "東海リース 決算説明資料",
+   "results": [
+    "https://tokai-lease.co.jp/ir/",
+    "https://tokai-lease.co.jp/ir/tanshin/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=9761",
+    "https://investalk.jp/9761/tokai-lease-2026-03-earnings/",
+    "https://kabutan.jp/stock/finance?code=9761",
+    "https://www.moomoo.com/news/notice/307869642/tokai-lease-first-quarter-financial-results-briefing-for-the-fiscal",
+    "https://kitaishihon.com/company/9761/ir-library",
+    "https://strainer.jp/companies/3405/filings?page=2",
+    "https://edinetdb.jp/company/E04800/ir-docs/",
+    "https://minkabu.jp/stock/9761/settlement"
+   ]
+  },
+  {
+   "query": "東海リース 事業系統図",
+   "results": [
+    "https://tokai-lease.co.jp/outline/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=9761",
+    "https://www.careermap.jp/corporations/5902",
+    "https://tokai-lease.co.jp/",
+    "https://job.mynavi.jp/27/pc/search/corp4097/recruiting_course27051849/recruiting_course.html",
+    "https://shikiho.toyokeizai.net/stocks/9761/corporate",
+    "https://en-hyouban.com/company/10008657278/23/",
+    "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E3%83%AA%E3%83%BC%E3%82%B9",
+    "https://jp.kabumap.com/servlets/kabumap/Action?SRC=chart/base&codetext=9761&middle_kind=6",
+    "https://jigyou-v2.kabu-trendpro.com/company/9761/"
+   ]
+  },
+  {
+   "query": "東海リース 社長 インタビュー",
+   "results": [
+    "https://tokai-lease.co.jp/greeting/",
+    "https://www.nikkan.co.jp/articles/view/307902",
+    "https://kitaishihon.com/company/9761/board-of-director",
+    "https://www.nikkei.com/article/DGXNASDZ0209E_S4A500C1TJ1000/",
+    "https://kigyo-scope.jp/company/9761/ceo/",
+    "https://irbank.net/E04800/officer?m=%E5%A1%9A%E6%9C%AC%E5%8D%9A%E4%BA%AE",
+    "https://tokai-lease.co.jp/sustainability/message/",
+    "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E3%83%AA%E3%83%BC%E3%82%B9",
+    "https://maonline.jp/db/companies/9761/shareholding",
+    "https://the-leader.jp/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式17頁／PDF・画像9件／外部2頁・検索5回）"
+ }
+}

@@ -1,0 +1,1653 @@
+{
+ "name": "ＴＫＣ",
+ "aliases": [],
+ "context": "証券コード9746／情報・通信業／プライム（内国株式）／2025.09期 売上高83,476百万円 営業利益率19.3%",
+ "researched_at": "2026-11-02T18:07:33.611319+00:00",
+ "official_url": "https://www.tkc.jp/",
+ "identified_by": "search:yahoo_jp:TKC",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立年月日",
+    "value": "昭和41年10月22日",
+    "url": "https://www.tkc.jp/company/about/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数 （2025年9月30日現在）",
+    "value": "2,964名（単体　2,458名）",
+    "url": "https://www.tkc.jp/company/about/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高 （2025年9月期実績）",
+    "value": "連結　834億円 単体　788億円",
+    "url": "https://www.tkc.jp/company/about/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "ユーザー登録",
+    "url": "https://www.tkc.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.tkc.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "TKC全国会会員数",
+    "url": "https://www.tkc.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.tkc.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "TKCグループホームページのユーザー登録・修正・削除はこちら",
+    "url": "https://www.tkc.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.tkc.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "各地域会の会員数",
+    "url": "https://www.tkc.jp/tkcnf/about/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.tkc.jp/tkcnf/about/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.tkc.jp/cc/approach/",
+    "pass": 1
+   },
+   {
+    "quote": "導入企業一覧",
+    "url": "https://www.tkc.jp/consolidate/strength",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.tkc.jp/consolidate/strength",
+    "pass": 1
+   },
+   {
+    "quote": "取引先企業の経営状況に関する情報が不足しているため、適切な融資判断ができない——多くの金融機関がこのような悩みを抱えています",
+    "url": "https://www.tkc.jp/ao/about/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.tkc.jp/ao/about/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.tkc.jp/law/lawlibrary/",
+    "pass": 1
+   },
+   {
+    "quote": "当サイトで入力いただいたお客様の個人情報は、お客様からのお問合せ・ご質問への回答のために利用いたします",
+    "url": "https://www.tkc.jp/inquiry/lex_db/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様が、ご本人の個人情報について、開示、訂正、追加、削除及び利用停止を希望される場合は、「お問合せ」の「個人情報保護に関するお問合せ」からご連絡ください",
+    "url": "https://www.tkc.jp/inquiry/lex_db/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の入力された内容は、当社の個人情報保護方針に基づいて管理いたします",
+    "url": "https://www.tkc.jp/inquiry/lex_db/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.tkc.jp/inquiry/lex_db/",
+    "pass": 1
+   },
+   {
+    "quote": "ご所属の団体・ご利用者の特定ができない場合のお申込みは受け付けておりません",
+    "url": "https://www.tkc.jp/law/lawlibrary/trial/",
+    "pass": 1
+   },
+   {
+    "quote": "一度ご利用いただいたお客様からの再度のお申込みの場合は、こちらから確認させていただきます",
+    "url": "https://www.tkc.jp/law/lawlibrary/trial/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.tkc.jp/law/lawlibrary/trial/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.tkc.jp/tkcnf/movie/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "日本公庫（国民生活事業）のお客様の多くも、経営環境の変化の影響を受けやすい小規模事業者です",
+    "url": "https://www.tkc.jp/tkcnf/message/20261101/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先の倒産や廃業など予期せぬ事態によって、返済が遅延したり事業継続を断念したりするケースが残念ながら存在します",
+    "url": "https://www.tkc.jp/tkcnf/message/20261101/",
+    "pass": 1
+   },
+   {
+    "quote": "特に小規模事業者向け融資を担う国民生活事業では、114万先に及ぶ取引先の経営状況を継続的に把握するには、相当なコストがかかりますが、同サービスを利用いただくことで、最新の決算情報をタイムリーに確認することができます",
+    "url": "https://www.tkc.jp/tkcnf/message/20261101/",
+    "pass": 1
+   },
+   {
+    "quote": "その結果、資金支援や本業支援の提案を適切なタイミングで行えるほか、お客様との継続的な信頼関係の構築にもつながっています",
+    "url": "https://www.tkc.jp/tkcnf/message/20261101/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.tkc.jp/tkcnf/message/20261101/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.tkc.jp/company/topics/list?tag=1",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.tkc.jp/ir/integrated-report/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.tkc.jp/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.tkc.jp/ir/account/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.tkc.jp/ir/annualreport/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.tkc.jp/ir/statements/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.tkc.jp/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "31,000件（利用者数75,000人）を超えるお客さまに利用されています",
+    "url": "https://www.tkc.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.tkc.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "ＴＫＣ会員数9,000名突破、「LGWAN-ASPサービス」提供開始（4月1日）",
+    "url": "https://www.tkc.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "経営革新等支援機関に認定された会員数が5,000件を突破",
+    "url": "https://www.tkc.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "中小会計要領等（中小指針を含む）の実践会員数が5,000件を突破",
+    "url": "https://www.tkc.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「FX4クラウド」ユーザー数5,000社突破（9月）",
+    "url": "https://www.tkc.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "全ユーザー（市区町村）が利用する基幹業務システムを「新世代TASKクラウド」へ統一（1月）",
+    "url": "https://www.tkc.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客サポートを専門とするTKCカスタマーサポートサービス株式会社を設立（10月4日）",
+    "url": "https://www.tkc.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ペポルアクセスポイントのユーザー数が5,600件を突破（9月30日）",
+    "url": "https://www.tkc.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「TKC連結グループソリューション」の導入企業グループ数が6,000グループを突破（11月25日）",
+    "url": "https://www.tkc.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.tkc.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の事業を成功に導く",
+    "url": "https://www.tkc.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は「自利利他(自利トハ利他ヲイフ)」を社是とし、「顧客への貢献」を経営理念として、会社定款（第2条）に定める次の二つの事業目的を達成するために経営を展開しています",
+    "url": "https://www.tkc.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "第60期下期につきましても、会計事務所と地方公共団体に対するコンピューター・サービスに専門特化しながら、最新のICTを積極的に活用し、お客様の事業を成功に導く新しいシステムやサービスの開発およびこれらの一層の充実を図ってまいります",
+    "url": "https://www.tkc.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、顧客ならびに地域・社会に貢献し、企業価値の向上に取り組んでまいります",
+    "url": "https://www.tkc.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.tkc.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.tkc.jp/ir/transition/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.tkc.jp/company/topics/list/?tag=1",
+    "pass": 1
+   }
+  ],
+  "何を": [
+   {
+    "quote": "サービスから探す",
+    "url": "https://www.tkc.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "企業向け融資商品",
+    "url": "https://www.tkc.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.tkc.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "システム・サービスに関するお問合せ",
+    "url": "https://www.tkc.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "プログラミング言語「PHP」の脆弱性対応を完了し、 休止していたTKCのサービスを再開しました",
+    "url": "https://www.tkc.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "＜コールセンターサービスを展開するTKCカスタマーサポートサービス株式会社＞HDI-Japan「クオリティ格付け」で最高評価の「三つ星」を6年連続で獲得",
+    "url": "https://www.tkc.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "プログラミング言語「PHP」の脆弱性対応によりTKCが提供する一部のサービスを一時休止しています",
+    "url": "https://www.tkc.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "TKCモニタリング情報サービス",
+    "url": "https://www.tkc.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "注目のサービス",
+    "url": "https://www.tkc.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドサービス",
+    "url": "https://www.tkc.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスログイン",
+    "url": "https://www.tkc.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "SCGサービスセンター",
+    "url": "https://www.tkc.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "TKCカスタマーサポートサービス",
+    "url": "https://www.tkc.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "TKCモニタリング情報サービス",
+    "url": "https://www.tkc.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "SCGサービスセンター",
+    "url": "https://www.tkc.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "TKCカスタマーサポートサービス",
+    "url": "https://www.tkc.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "会計事務所・企業向けシステム・サービス",
+    "url": "https://www.tkc.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "会計事務所向けシステム・サービスの導入に関するお問合せ",
+    "url": "https://www.tkc.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "企業向けシステム・サービスの導入に関するお問合せ",
+    "url": "https://www.tkc.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "中堅・大企業向けシステム・サービスに関するお問合せ",
+    "url": "https://www.tkc.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "病医院・公益法人・社会福祉法人向けシステム・サービス",
+    "url": "https://www.tkc.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "病医院向けシステム・サービスに関するお問合せ",
+    "url": "https://www.tkc.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "公益法人向けシステム・サービスに関するお問合せ",
+    "url": "https://www.tkc.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "社会福祉法人向けシステム・サービスに関するお問合せ",
+    "url": "https://www.tkc.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "弁護士・法科大学院・法務担当者向けシステム・サービス",
+    "url": "https://www.tkc.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "弁護士・法科大学院・法務担当者向けシステム・サービスに関するお問合せ",
+    "url": "https://www.tkc.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "地方公共団体向けシステム・サービス",
+    "url": "https://www.tkc.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "地方公共団体向けシステム・サービスに関するお問合せ",
+    "url": "https://www.tkc.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "月次決算速報サービスを",
+    "url": "https://www.tkc.jp/tkcnf/about/",
+    "pass": 1
+   },
+   {
+    "quote": "機能・サービスのご紹介",
+    "url": "https://www.tkc.jp/cc/approach/",
+    "pass": 1
+   },
+   {
+    "quote": "月次決算速報サービス",
+    "url": "https://www.tkc.jp/cc/approach/",
+    "pass": 1
+   },
+   {
+    "quote": "企業向け融資商品",
+    "url": "https://www.tkc.jp/cc/approach/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.tkc.jp/consolidate/strength",
+    "pass": 1
+   },
+   {
+    "quote": "TKCペポルアクセスポイントAPIサービス",
+    "url": "https://www.tkc.jp/consolidate/strength",
+    "pass": 1
+   },
+   {
+    "quote": "税務と会計のシステム開発に特化しているTKCが、個別会計から連結会計、そして税額・税効果計算から電子申告までを網羅する各種ソリューションの提供を通じて、連結グループにおける決算・申告業務をトータルでご支援します",
+    "url": "https://www.tkc.jp/consolidate/strength",
+    "pass": 1
+   },
+   {
+    "quote": "製品一覧はこちら",
+    "url": "https://www.tkc.jp/consolidate/strength",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルティングサービス",
+    "url": "https://www.tkc.jp/consolidate/strength",
+    "pass": 1
+   },
+   {
+    "quote": "TKCインターネット・サービスセンター（TISC）のご紹介はこちら",
+    "url": "https://www.tkc.jp/consolidate/strength",
+    "pass": 1
+   },
+   {
+    "quote": "製品から探す",
+    "url": "https://www.tkc.jp/consolidate/strength",
+    "pass": 1
+   },
+   {
+    "quote": "※毎月訪問による会計処理と税務申告のアドバイザリーサービスは、別途契約となります",
+    "url": "https://www.tkc.jp/consolidate/strength",
+    "pass": 1
+   },
+   {
+    "quote": "製品やサービスについて",
+    "url": "https://www.tkc.jp/consolidate/strength",
+    "pass": 1
+   },
+   {
+    "quote": "「TKCモニタリング情報サービス」",
+    "url": "https://www.tkc.jp/ao/about/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちTKC会計人は中小企業金融における「情報の非対称性」を解消・縮減するために、金融機関向けフィンテックサービス「TKCモニタリング情報サービス」の利用促進を図っています",
+    "url": "https://www.tkc.jp/ao/about/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの概要",
+    "url": "https://www.tkc.jp/law/lawlibrary/",
+    "pass": 1
+   },
+   {
+    "quote": "弁護士・法科大学院・法務担当者向けシステム・サービスに関するお問合せ | 株式会社TKCのご紹介 | TKCグループ",
+    "url": "https://www.tkc.jp/inquiry/lex_db/",
+    "pass": 1
+   },
+   {
+    "quote": "SCGサービスセンター",
+    "url": "https://www.tkc.jp/inquiry/lex_db/",
+    "pass": 1
+   },
+   {
+    "quote": "TKCカスタマーサポートサービス",
+    "url": "https://www.tkc.jp/inquiry/lex_db/",
+    "pass": 1
+   },
+   {
+    "quote": "弁護士・法科大学院・法務担当者向けシステム・サービスに関するお問合せ",
+    "url": "https://www.tkc.jp/inquiry/lex_db/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関するお問合せを受け付けております",
+    "url": "https://www.tkc.jp/inquiry/lex_db/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの概要",
+    "url": "https://www.tkc.jp/law/lawlibrary/trial/",
+    "pass": 1
+   },
+   {
+    "quote": "詳細は担当のSCGサービスセンターまでお問合せください",
+    "url": "https://www.tkc.jp/law/lawlibrary/trial/",
+    "pass": 1
+   },
+   {
+    "quote": "TKC会員による関与先企業への月次巡回監査や「TKCモニタリング情報サービス」を通じて提供される信頼性の高い財務情報を、日本公庫が評価し、融資スキーム化してくださいました",
+    "url": "https://www.tkc.jp/tkcnf/message/20261101/",
+    "pass": 1
+   },
+   {
+    "quote": "その点、TKC会員事務所の皆様が作成され、「TKCモニタリング情報サービス」を通じて提出を受ける決算書は、税務当局へ提出されるものと同一であり、融資判断を行う上で非常に信頼性の高い資料です",
+    "url": "https://www.tkc.jp/tkcnf/message/20261101/",
+    "pass": 1
+   },
+   {
+    "quote": "私自身、国税庁在籍時から「TKCモニタリング情報サービス」を存じ上げていましたが、“税務署へ提出したデータがそのまま金融機関にも提供される”という仕組みに大変驚いたことを覚えています",
+    "url": "https://www.tkc.jp/tkcnf/message/20261101/",
+    "pass": 1
+   },
+   {
+    "quote": "日本公庫では同サービスを積極的に活用し、事業者支援のスピードと質の向上に努めています",
+    "url": "https://www.tkc.jp/tkcnf/message/20261101/",
+    "pass": 1
+   },
+   {
+    "quote": "特に小規模事業者向け融資を担う国民生活事業では、114万先に及ぶ取引先の経営状況を継続的に把握するには、相当なコストがかかりますが、同サービスを利用いただくことで、最新の決算情報をタイムリーに確認することができます",
+    "url": "https://www.tkc.jp/tkcnf/message/20261101/",
+    "pass": 1
+   },
+   {
+    "quote": "「TKCモニタリング情報サービス」を通じて、TKC会員事務所の皆様による月次巡回監査と連動した信頼性の高い財務情報を提供いただくことで、公庫の融資審査や本業支援に大きな価値をもたらしています",
+    "url": "https://www.tkc.jp/tkcnf/message/20261101/",
+    "pass": 1
+   },
+   {
+    "quote": "SCGサービスセンター",
+    "url": "https://www.tkc.jp/company/topics/list?tag=1",
+    "pass": 1
+   },
+   {
+    "quote": "TKCカスタマーサポートサービス",
+    "url": "https://www.tkc.jp/company/topics/list?tag=1",
+    "pass": 1
+   },
+   {
+    "quote": "SCGサービスセンター",
+    "url": "https://www.tkc.jp/ir/integrated-report/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "TKC全国会のご紹介",
+    "url": "https://www.tkc.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社TKCのご紹介",
+    "url": "https://www.tkc.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "アライアンスパートナー向けに、公会計に関する最新動向の情報共有会を開催",
+    "url": "https://www.tkc.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "TKCシステムで決算書・申告書ができるまでを動画でご紹介します",
+    "url": "https://www.tkc.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "TKC全国会の税理士事務所から貴社の成長を支えるパートナーが見つかります",
+    "url": "https://www.tkc.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "セミナーのご紹介",
+    "url": "https://www.tkc.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「株式会社TKCのご紹介」のみ",
+    "url": "https://www.tkc.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社TKCのご紹介",
+    "url": "https://www.tkc.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "TKC全国会のご紹介",
+    "url": "https://www.tkc.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "総合お問合せ | 株式会社TKCのご紹介 | TKCグループ",
+    "url": "https://www.tkc.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "「株式会社TKCのご紹介」のみ",
+    "url": "https://www.tkc.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社TKCのご紹介",
+    "url": "https://www.tkc.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "TKC全国会のご紹介",
+    "url": "https://www.tkc.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "TKC全国会とは | TKC全国会のご紹介 | TKCグループ",
+    "url": "https://www.tkc.jp/tkcnf/about/",
+    "pass": 1
+   },
+   {
+    "quote": "「TKC全国会のご紹介」のみ",
+    "url": "https://www.tkc.jp/tkcnf/about/",
+    "pass": 1
+   },
+   {
+    "quote": "TKC全国会のご紹介",
+    "url": "https://www.tkc.jp/tkcnf/about/",
+    "pass": 1
+   },
+   {
+    "quote": "各研究会のご紹介",
+    "url": "https://www.tkc.jp/tkcnf/about/",
+    "pass": 1
+   },
+   {
+    "quote": "税理士紹介を",
+    "url": "https://www.tkc.jp/tkcnf/about/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社TKCのご紹介",
+    "url": "https://www.tkc.jp/tkcnf/about/",
+    "pass": 1
+   },
+   {
+    "quote": "TKC会員の紹介を申込む",
+    "url": "https://www.tkc.jp/tkcnf/about/",
+    "pass": 1
+   },
+   {
+    "quote": "機能・サービスのご紹介",
+    "url": "https://www.tkc.jp/cc/approach/",
+    "pass": 1
+   },
+   {
+    "quote": "TKC全国会のご紹介",
+    "url": "https://www.tkc.jp/cc/approach/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社TKCのご紹介",
+    "url": "https://www.tkc.jp/cc/approach/",
+    "pass": 1
+   },
+   {
+    "quote": "TKC全国会のご紹介",
+    "url": "https://www.tkc.jp/consolidate/strength",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社TKCのご紹介",
+    "url": "https://www.tkc.jp/consolidate/strength",
+    "pass": 1
+   },
+   {
+    "quote": "TKCインターネット・サービスセンター（TISC）のご紹介はこちら",
+    "url": "https://www.tkc.jp/consolidate/strength",
+    "pass": 1
+   },
+   {
+    "quote": "TKC全国会のご紹介",
+    "url": "https://www.tkc.jp/ao/about/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社TKCのご紹介",
+    "url": "https://www.tkc.jp/ao/about/",
+    "pass": 1
+   },
+   {
+    "quote": "税法話題の判例紹介 令和8年10月（通巻第320号）を公開しました",
+    "url": "https://www.tkc.jp/law/lawlibrary/",
+    "pass": 1
+   },
+   {
+    "quote": "一部を抜粋してご紹介します",
+    "url": "https://www.tkc.jp/law/lawlibrary/",
+    "pass": 1
+   },
+   {
+    "quote": "税法話題の判例紹介",
+    "url": "https://www.tkc.jp/law/lawlibrary/",
+    "pass": 1
+   },
+   {
+    "quote": "毎週ピックアップしてご紹介しています",
+    "url": "https://www.tkc.jp/law/lawlibrary/",
+    "pass": 1
+   },
+   {
+    "quote": "TKC税務研究所による解説をつけて毎月ご紹介しています",
+    "url": "https://www.tkc.jp/law/lawlibrary/",
+    "pass": 1
+   },
+   {
+    "quote": "「税法話題の判例紹介」バックナンバーへ",
+    "url": "https://www.tkc.jp/law/lawlibrary/",
+    "pass": 1
+   },
+   {
+    "quote": "弁護士・法科大学院・法務担当者向けシステム・サービスに関するお問合せ | 株式会社TKCのご紹介 | TKCグループ",
+    "url": "https://www.tkc.jp/inquiry/lex_db/",
+    "pass": 1
+   },
+   {
+    "quote": "「株式会社TKCのご紹介」のみ",
+    "url": "https://www.tkc.jp/inquiry/lex_db/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社TKCのご紹介",
+    "url": "https://www.tkc.jp/inquiry/lex_db/",
+    "pass": 1
+   },
+   {
+    "quote": "TKC全国会のご紹介",
+    "url": "https://www.tkc.jp/inquiry/lex_db/",
+    "pass": 1
+   },
+   {
+    "quote": "税法話題の判例紹介",
+    "url": "https://www.tkc.jp/law/lawlibrary/trial/",
+    "pass": 1
+   },
+   {
+    "quote": "TKC全国会 コンセプトムービー「税理士の未来」 | TKC全国会のご紹介 | TKCグループ",
+    "url": "https://www.tkc.jp/tkcnf/movie/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "「TKC全国会のご紹介」のみ",
+    "url": "https://www.tkc.jp/tkcnf/movie/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "TKC全国会のご紹介",
+    "url": "https://www.tkc.jp/tkcnf/movie/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "各研究会のご紹介",
+    "url": "https://www.tkc.jp/tkcnf/movie/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "税理士紹介を",
+    "url": "https://www.tkc.jp/tkcnf/movie/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社TKCのご紹介",
+    "url": "https://www.tkc.jp/tkcnf/movie/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "TKC会員の紹介を申込む",
+    "url": "https://www.tkc.jp/tkcnf/movie/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "三者の強みを生かした連携で、中小企業の持続的な成長を支え、有事の支援を | 全国会会長メッセージ | TKC全国会のご紹介 | TKCグループ",
+    "url": "https://www.tkc.jp/tkcnf/message/20261101/",
+    "pass": 1
+   },
+   {
+    "quote": "「TKC全国会のご紹介」のみ",
+    "url": "https://www.tkc.jp/tkcnf/message/20261101/",
+    "pass": 1
+   },
+   {
+    "quote": "TKC全国会のご紹介",
+    "url": "https://www.tkc.jp/tkcnf/message/20261101/",
+    "pass": 1
+   },
+   {
+    "quote": "各研究会のご紹介",
+    "url": "https://www.tkc.jp/tkcnf/message/20261101/",
+    "pass": 1
+   },
+   {
+    "quote": "税理士紹介を",
+    "url": "https://www.tkc.jp/tkcnf/message/20261101/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社TKCのご紹介",
+    "url": "https://www.tkc.jp/tkcnf/message/20261101/",
+    "pass": 1
+   },
+   {
+    "quote": "TKC会員の皆様を始め税理士の方々から事業者をご紹介いただき、円滑な承継につなげていきたいと考えています",
+    "url": "https://www.tkc.jp/tkcnf/message/20261101/",
+    "pass": 1
+   },
+   {
+    "quote": "TKC会員の紹介を申込む",
+    "url": "https://www.tkc.jp/tkcnf/message/20261101/",
+    "pass": 1
+   },
+   {
+    "quote": "「株式会社TKCのご紹介」のみ",
+    "url": "https://www.tkc.jp/company/topics/list?tag=1",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社TKCのご紹介",
+    "url": "https://www.tkc.jp/company/topics/list?tag=1",
+    "pass": 1
+   },
+   {
+    "quote": "TKC全国会のご紹介",
+    "url": "https://www.tkc.jp/company/topics/list?tag=1",
+    "pass": 1
+   },
+   {
+    "quote": "「株式会社TKCのご紹介」のみ",
+    "url": "https://www.tkc.jp/ir/integrated-report/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社TKCのご紹介",
+    "url": "https://www.tkc.jp/ir/integrated-report/",
+    "pass": 1
+   },
+   {
+    "quote": "TKC全国会のご紹介",
+    "url": "https://www.tkc.jp/ir/integrated-report/",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "【公益財団法人飯塚毅育英会】令和９年度大学奨学生の給付月額を過去最高額の６万８千円に決定 併せて、過年度採用者の給付月額も６万８千円に増額",
+    "url": "https://www.tkc.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ストックオプション（新株予約権）の内容確定に関するお知らせ[1ページ 60KB]",
+    "url": "https://www.tkc.jp/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "ストックオプション（新株予約権）の発行に関するお知らせ[4ページ 21KB]",
+    "url": "https://www.tkc.jp/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "「株式報酬型ストックオプション制度」の廃止及び「株式報酬制度」の導入に関するお知らせ[6ページ 545KB]",
+    "url": "https://www.tkc.jp/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "ストックオプション（新株予約権）の内容確定に関するお知らせ[1ページ 62KB]",
+    "url": "https://www.tkc.jp/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "ストックオプション（新株予約権）の発行に関するお知らせ[5ページ 191KB]",
+    "url": "https://www.tkc.jp/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "ストックオプション（新株予約権）の内容確定に関するお知らせ[1ページ 64KB]",
+    "url": "https://www.tkc.jp/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "ストックオプション（新株予約権）の発行に関するお知らせ[7ページ 165KB]",
+    "url": "https://www.tkc.jp/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "ストックオプション（新株予約権）の内容確定に関するお知らせ [1ページ 59KB]",
+    "url": "https://www.tkc.jp/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "ストックオプション（新株予約権）の発行に関するお知らせ[2ページ 35KB]",
+    "url": "https://www.tkc.jp/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "ストックオプション（新株予約権）の内容確定に関するお知らせ[1ページ 13KB]",
+    "url": "https://www.tkc.jp/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "ストックオプション（新株予約権）の発行に関するお知らせ[5ページ 35KB]",
+    "url": "https://www.tkc.jp/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "ストックオプション（新株予約権）の発行に関するお知らせ[4ページ 33KB]",
+    "url": "https://www.tkc.jp/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "ストックオプション（新株予約権）の発行に関するお知らせ[4ページ 162KB]",
+    "url": "https://www.tkc.jp/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "ストックオプション（新株予約権）の内容確定に関するお知らせ[1ページ 16KB]",
+    "url": "https://www.tkc.jp/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "ストックオプション（新株予約権）の発行に関するお知らせ[4ページ 28KB]",
+    "url": "https://www.tkc.jp/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "取締役及び監査役に対する株式報酬型ストックオプション（新株予約権）の導入に関するお知らせ[2ページ 18KB]",
+    "url": "https://www.tkc.jp/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "法律情報データベース・サービスの開発、保守及び販売",
+    "url": "https://www.tkc.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "コンピュータ・ソフトウエアの開発、保守及び販売",
+    "url": "https://www.tkc.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "オフィス機器及び事務用品の開発、保守、販売及びリース",
+    "url": "https://www.tkc.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "地方公共団体事業部・自治体業務企画部東京本社駐在、「ＴＫＣ保守サービス」提供開始（10月1日）",
+    "url": "https://www.tkc.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「ＴＫＣオンサイト保守サービス」提供開始、目標管理制度導入（10月1日）",
+    "url": "https://www.tkc.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "このような事業環境のもと、会計事務所事業部門においてはTKC会員事務所による関与先指導の基本方針を「黒字決算と適正申告の実現」に、地方公共団体事業部門の基本方針を「スマート行政DXの実現」と定め、(1)クラウド系システムへの移行加速によるストック収益基盤の拡大、(2)生成AI技術を活用した業務革新支援、(3)税務コンプライアンスとガバナンスを両立させた「デジタルシームレス」の社会実装を推進しています",
+    "url": "https://www.tkc.jp/ir/message/",
+    "pass": 1
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "TKC会員事務所の強み",
+    "url": "https://www.tkc.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "TKCの強み",
+    "url": "https://www.tkc.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "資産税を強みにできる事務所体制とは",
+    "url": "https://www.tkc.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "三者の強みを生かした連携で、中小企業の持続的な成長を支え、有事の支援を",
+    "url": "https://www.tkc.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "TKC会員事務所の強み | 経営者の皆様へ | TKCグループ",
+    "url": "https://www.tkc.jp/cc/approach/",
+    "pass": 1
+   },
+   {
+    "quote": "TKC会員事務所の強み",
+    "url": "https://www.tkc.jp/cc/approach/",
+    "pass": 1
+   },
+   {
+    "quote": "TKCの強み | 上場企業の皆様へ | TKCグループ",
+    "url": "https://www.tkc.jp/consolidate/strength",
+    "pass": 1
+   },
+   {
+    "quote": "TKCの強み",
+    "url": "https://www.tkc.jp/consolidate/strength",
+    "pass": 1
+   },
+   {
+    "quote": "中堅・大企業の税務・会計の実務に精通し、かつ高い業務品質を誇る TKC全国会 中堅・大企業支援研究会会員（税理士・公認会計士）が、全国規模のネットワークを通じて企業グループを支援できること――これがTKCの強みです",
+    "url": "https://www.tkc.jp/consolidate/strength",
+    "pass": 1
+   },
+   {
+    "quote": "三者の強みを生かした連携で、中小企業の持続的な成長を支え、有事の支援を | 全国会会長メッセージ | TKC全国会のご紹介 | TKCグループ",
+    "url": "https://www.tkc.jp/tkcnf/message/20261101/",
+    "pass": 1
+   },
+   {
+    "quote": "三者の強みを生かした連携で、中小企業の持続的な成長を支え、有事の支援を",
+    "url": "https://www.tkc.jp/tkcnf/message/20261101/",
+    "pass": 1
+   },
+   {
+    "quote": "TKC会員の皆様、日本公庫、中小機構がそれぞれの強みを発揮することで、中小企業の挑戦を力強く支援できると考えています",
+    "url": "https://www.tkc.jp/tkcnf/message/20261101/",
+    "pass": 1
+   },
+   {
+    "quote": "全国ネットワークを持つ三者の強みを結集し、中小企業の役に立とう",
+    "url": "https://www.tkc.jp/tkcnf/message/20261101/",
+    "pass": 1
+   },
+   {
+    "quote": "このような各組織の強みを生かした連携体制が理想的だと考えています",
+    "url": "https://www.tkc.jp/tkcnf/message/20261101/",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年10月～12月",
+    "url": "https://www.tkc.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月24日(月)～12月25日(金)",
+    "url": "https://www.tkc.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月12日(木)～13日(金)",
+    "url": "https://www.tkc.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月期業績サマリー",
+    "url": "https://www.tkc.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月30日現在",
+    "url": "https://www.tkc.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月期実績",
+    "url": "https://www.tkc.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月30日現在",
+    "url": "https://www.tkc.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年（令和7年） ～ 2030年（令和12年）",
+    "url": "https://www.tkc.jp/tkcnf/about/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年（令和7年） ～ 2026年（令和8年）",
+    "url": "https://www.tkc.jp/tkcnf/about/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年（令和9年） ～ 2030年（令和12年）",
+    "url": "https://www.tkc.jp/tkcnf/about/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月31日現在",
+    "url": "https://www.tkc.jp/tkcnf/about/",
+    "pass": 1
+   },
+   {
+    "quote": "令和8年10月（通巻第320号）",
+    "url": "https://www.tkc.jp/law/lawlibrary/",
+    "pass": 1
+   },
+   {
+    "quote": "令和8年9月（通巻第319号）",
+    "url": "https://www.tkc.jp/law/lawlibrary/",
+    "pass": 1
+   },
+   {
+    "quote": "令和8年8月（通巻第318号）",
+    "url": "https://www.tkc.jp/law/lawlibrary/",
+    "pass": 1
+   },
+   {
+    "quote": "令和8年9月期配当予想の修正（増配）に関するお知らせ[1ページ 9.49KB]",
+    "url": "https://www.tkc.jp/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "令和7年9月期配当予想の修正（増配）に関するお知らせ[1ページ 10KB]",
+    "url": "https://www.tkc.jp/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "令和5年9月期配当予想の修正（増配）に関するお知らせ[1ページ 9.45KB]",
+    "url": "https://www.tkc.jp/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "令和4年9月期配当予想の修正（増配）に関するお知らせ[1ページ 131KB]",
+    "url": "https://www.tkc.jp/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "令和3年9月期配当予想の修正（増配）に関するお知らせ[1ページ 118KB]",
+    "url": "https://www.tkc.jp/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "令和２年９月期第２四半期の業績予想（連結・個別）の修正に関するお知らせ[2ページ 107KB]",
+    "url": "https://www.tkc.jp/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "令和元年９月期第２四半期及び通期の各業績予想（連結・個別）の修正と中間配当予想の修正（増配）に関するお知らせ[3ページ 243KB]",
+    "url": "https://www.tkc.jp/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "平成２９年９月期第２四半期業績予想（連結・個別）の修正に関するお知らせ[2ページ 188KB]",
+    "url": "https://www.tkc.jp/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "平成28年9月期第2四半期及び通期の各業績予想（連結・個別）の修正と各配当予想の修正に関するお知らせ[3ページ 23KB]",
+    "url": "https://www.tkc.jp/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "平成27年9月期第2四半期及び通期の各業績予想（連結・個別）の修正と各配当予想の修正に関するお知らせ[3ページ 3.5MB]",
+    "url": "https://www.tkc.jp/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "平成19年9月期(第41期)中間業績予想の修正に関するお知らせ[2ページ 107KB]",
+    "url": "https://www.tkc.jp/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "平成17年9月期(第39期)中間業績予想の修正に関するお知らせ[2ページ 23KB]",
+    "url": "https://www.tkc.jp/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "平成16年9月期(第38期)中間業績予想の修正に関するお知らせ[3ページ 26KB]",
+    "url": "https://www.tkc.jp/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "平成15年9月期(第37期)配当予想の修正に関するお知らせ[1ページ 12KB]",
+    "url": "https://www.tkc.jp/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "令和5年改正金融商品取引法により、令和6年4月1日以降に作成する上場会社の四半期報告書は廃止されました",
+    "url": "https://www.tkc.jp/ir/statements/",
+    "pass": 1
+   },
+   {
+    "quote": "令和6年4月1日以降の当社四半期の状況については、",
+    "url": "https://www.tkc.jp/ir/statements/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和41年10月22日",
+    "url": "https://www.tkc.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "2004年には法科大学院開設に合わせ、双方向・多方向授業の支援と学生の自己学習をサポートする「法科大学教育研究支援システム」を開発",
+    "url": "https://www.tkc.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 株式会社TKCのご紹介 | TKCグループ",
+    "url": "https://www.tkc.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1979年9月期以来の30期連続となる増収増益を達成（9月30日）",
+    "url": "https://www.tkc.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "平成23年度税制改正研修会をオンデマンド配信開始（1月26日）",
+    "url": "https://www.tkc.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "平成27年度介護保険制度改正対応へ支援プロジェクトを発足（12月22日）",
+    "url": "https://www.tkc.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "令和4年版「TKC経営指標（BAST）」提供開始および「優良企業」の定義変更（6月1日）",
+    "url": "https://www.tkc.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "令和8年3月までのわが国経済は、緩やかな回復基調にあるものの、中東情勢の緊迫化に伴う資源の価格高騰や供給不安、金利上昇など先行き不透明な状況が続いています",
+    "url": "https://www.tkc.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "令和8年6月",
+    "url": "https://www.tkc.jp/ir/message/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "TKC を知る | 新卒採用特設サイト | 株式会社 TKC - TKC グループ — TKC を知る | 新卒採用特設サイト | 株式会社 TKC - TKC グループ TKCグループ https://www.tkc.jp > recruit > about",
+    "url": "https://www.tkc.jp/recruit/about/",
+    "pass": 3
+   },
+   {
+    "quote": "TKCビジネスモデル の徹底で関与先と職員の幸せを実現したい — TKCビジネスモデル の徹底で関与先と職員の幸せを実現したい TKCグループ https://www.tkc.jp > voice > 201905_officevisit",
+    "url": "https://www.tkc.jp/ao/voice/201905_officevisit",
+    "pass": 3
+   },
+   {
+    "quote": "新しい ビジネスモデル を確立しよう | TKC 全国会のご紹介 — 新しい ビジネスモデル を確立しよう | TKC 全国会のご紹介 TKCグループ https://www.tkc.jp > tkcnf > message",
+    "url": "https://www.tkc.jp/tkcnf/message/20130401009576",
+    "pass": 3
+   },
+   {
+    "quote": "月次顧問（ TKCモデル ） | スモール ビジネス に強い | 淀川区 — 月次顧問（ TKCモデル ） | スモール ビジネス に強い | 淀川区 クラウドビーンズ会計事務所 https://cloud-beans.com > トップ",
+    "url": "https://cloud-beans.com/top/monthly_audit/",
+    "pass": 3
+   },
+   {
+    "quote": "新しい ビジネスモデル を確立しよう(4) | TKC 全国会のご紹介 — 新しい ビジネスモデル を確立しよう(4) | TKC 全国会のご紹介 TKCグループ https://www.tkc.jp > tkcnf > message",
+    "url": "https://www.tkc.jp/tkcnf/message/20130701011231",
+    "pass": 3
+   },
+   {
+    "quote": "決算短信・ 決算説明資料 等 | 株主・投資家の皆様へ — 決算短信・ 決算説明資料 等 | 株主・投資家の皆様へ TKCグループ https://www.tkc.jp > account",
+    "url": "https://www.tkc.jp/ir/account/",
+    "pass": 3
+   },
+   {
+    "quote": "IR・投資家情報 | 株主・投資家の皆様へ - TKCグループ — IR・投資家情報 | 株主・投資家の皆様へ - TKCグループ TKCグループ https://www.tkc.jp > ...",
+    "url": "https://www.tkc.jp/ir",
+    "pass": 3
+   },
+   {
+    "quote": "有価証券報告書等 | 株主・投資家の皆様へ - TKC グループ — 有価証券報告書等 | 株主・投資家の皆様へ - TKC グループ TKCグループ https://www.tkc.jp > statements",
+    "url": "https://www.tkc.jp/ir/statements",
+    "pass": 3
+   },
+   {
+    "quote": "事業報告書 | 株主・投資家の皆様へ - TKCグループ — 事業報告書 | 株主・投資家の皆様へ - TKCグループ TKCグループ https://www.tkc.jp > annualreport",
+    "url": "https://www.tkc.jp/ir/annualreport",
+    "pass": 3
+   },
+   {
+    "quote": "【 TKC 】[9746]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 TKC 】[9746]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=9746",
+    "pass": 3
+   },
+   {
+    "quote": "会社・ 事業 概要 | 株式会社 TKC のご紹介 - TKCグループ — 会社・ 事業 概要 | 株式会社 TKC のご紹介 - TKCグループ TKCグループ https://www.tkc.jp > company > about",
+    "url": "https://www.tkc.jp/company/about",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内 | 株式会社 TKC のご紹介 — 会社案内 | 株式会社 TKC のご紹介 TKCグループ https://www.tkc.jp > company > top",
+    "url": "https://www.tkc.jp/company/top",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 TKC のご紹介 - TKCグループ — 株式会社 TKC のご紹介 - TKCグループ TKCグループ https://www.tkc.jp > company",
+    "url": "https://www.tkc.jp/company",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス | 上場企業の皆様へ - TKCグループ — 製品・サービス | 上場企業の皆様へ - TKCグループ TKCグループ https://www.tkc.jp > consolidate > solution",
+    "url": "https://www.tkc.jp/consolidate/solution",
+    "pass": 3
+   },
+   {
+    "quote": "事業 所一覧 | 株式会社 TKC のご紹介 — 事業 所一覧 | 株式会社 TKC のご紹介 TKCグループ https://www.tkc.jp > company > location",
+    "url": "https://www.tkc.jp/company/location",
+    "pass": 3
+   },
+   {
+    "quote": "統合報告書2025 インタビュー 動画一覧 - TKCグループ — 統合報告書2025 インタビュー 動画一覧 - TKCグループ TKCグループ https://www.tkc.jp > integrated-report > movie2025",
+    "url": "https://www.tkc.jp/ir/integrated-report/movie2025/",
+    "pass": 3
+   },
+   {
+    "quote": "戦経 インタビュー | 経営者の皆様へ - TKCグループ — 戦経 インタビュー | 経営者の皆様へ - TKCグループ TKCグループ https://www.tkc.jp > senkei > list",
+    "url": "https://www.tkc.jp/cc/senkei/list/?tag=12",
+    "pass": 3
+   },
+   {
+    "quote": "飯塚真規 社長 が語る TKC グループの現在と未来 国難の時代の ... — 飯塚真規 社長 が語る TKC グループの現在と未来 国難の時代の ... 実務経営サービス https://www.jkeiei.co.jp > bmn-archive",
+    "url": "https://www.jkeiei.co.jp/m/bmn-archive/202107-10601/",
+    "pass": 3
+   },
+   {
+    "quote": "黒字倒産・資金ショートを防ぐ実践知を発信するYouTubeサブ ... — 黒字倒産・資金ショートを防ぐ実践知を発信するYouTubeサブ ... TKCグループ https://www.tkc.jp > news",
+    "url": "https://www.tkc.jp/news/2026/20260618/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 TKC 創業50周年記念サイト - TKCグループ — 株式会社 TKC 創業50周年記念サイト - TKCグループ TKCグループ https://www.tkc.jp > ...",
+    "url": "https://www.tkc.jp/50th/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.tkc.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tkc.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tkc.jp/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tkc.jp/tkcnf/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tkc.jp/cc/approach/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tkc.jp/consolidate/strength",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.tkc.jp/ao/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tkc.jp/law/lawlibrary/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tkc.jp/inquiry/lex_db/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tkc.jp/law/lawlibrary/trial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tkc.jp/tkcnf/movie/mirai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tkc.jp/tkcnf/message/20261101/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tkc.jp/company/topics/list?tag=1",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.tkc.jp/ir/integrated-report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tkc.jp/ir/indication/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tkc.jp/ir/account/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tkc.jp/ir/annualreport/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tkc.jp/ir/statements/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tkc.jp/ir/governance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tkc.jp/company/about/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.tkc.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tkc.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tkc.jp/ir/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tkc.jp/ir/transition/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tkc.jp/company/topics/list/?tag=1",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.tkc.jp/media_library/ir/integrated-report/docs/integrated-report2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tkc.jp/media_library/ir/integrated-report/docs/integrated-report2025.pdf?v=1",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tkc.jp/media_library/ir/indication/docs/9746_20260807.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tkc.jp/media_library/ir/indication/docs/9746_20260713.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tkc.jp/media_library/ir/indication/docs/9746_20260710.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tkc.jp/media_library/ir/indication/docs/9746_20260312.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tkc.jp/media_library/ir/indication/docs/9746_20260311.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tkc.jp/media_library/ir/indication/docs/9746_20260216.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tkc.jp/media_library/ao/seminar/images/bnr_aosemi_shisanzei_202607.png",
+    "status": "network_error:SSLError",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tkc.jp/media_library/grhpcommon/images/top_movie_ikkitsukan_thumb.png",
+    "status": "network_error:ConnectTimeout",
+    "method": "ocr"
+   }
+  ],
+  "pass3": []
+ },
+ "search_log": [
+  {
+   "query": "TKC",
+   "results": [
+    "https://www.tkc.jp/",
+    "https://ja.wikipedia.org/wiki/TKC",
+    "https://x.com/TKC_koushiki",
+    "https://bast.tkc.co.jp/webbast/Login/Login",
+    "https://www.tkcholdings.com/",
+    "https://www.tkc.jp/english/",
+    "http://eng.tkc21.com/",
+    "https://www.tkc.jp/english/tkc/",
+    "https://careers.tkcholdings.com/",
+    "https://careers.tkcholdings.com/why-us/jobs/locations"
+   ]
+  },
+  {
+   "query": "TKC ビジネスモデル",
+   "results": [
+    "https://www.tkc.jp/recruit/about/",
+    "https://www.tkc.jp/ao/voice/201905_officevisit",
+    "https://www.tkc.jp/tkcnf/message/20130401009576",
+    "https://cloud-beans.com/top/monthly_audit/",
+    "https://www.tkc.jp/tkcnf/message/20130701011231",
+    "https://www.tkc.jp/ao/kaigyoonline/cases/",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fs04&q_no=9",
+    "https://www.tkc.jp/company/about",
+    "https://note.com/jobhuntkeyence/n/nce17aefe3ea9",
+    "https://consovation.com/株式会社tkcのビジネスモデルと成長戦略を徹底解/"
+   ]
+  },
+  {
+   "query": "TKC 決算説明資料",
+   "results": [
+    "https://www.tkc.jp/ir/account/",
+    "https://www.tkc.jp/ir",
+    "https://www.tkc.jp/ir/statements",
+    "https://www.tkc.jp/ir/annualreport",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=9746",
+    "https://www.tkc.jp/ir/integrated-report/",
+    "https://www.tkc.jp/inquiry/tkc_ir",
+    "https://www.tkc.jp/company/topics/list?tag=1",
+    "https://www.tkc.jp/media_library/ir/account/docs/59kessan.pdf",
+    "https://treelazy.com/stock-jp/9746"
+   ]
+  },
+  {
+   "query": "TKC 事業系統図",
+   "results": [
+    "https://www.tkc.jp/company/about",
+    "https://www.tkc.jp/company/top",
+    "https://www.tkc.jp/company",
+    "https://www.tkc.jp/consolidate/solution",
+    "https://www.tkc.jp/company/location",
+    "https://www.tkc.jp/ir/annualreport",
+    "https://www.tkc.jp/sitemap",
+    "https://www.tkc.jp/cc/system",
+    "https://ja.wikipedia.org/wiki/TKC"
+   ]
+  },
+  {
+   "query": "TKC 社長 インタビュー",
+   "results": [
+    "https://www.tkc.jp/ir/integrated-report/movie2025/",
+    "https://www.tkc.jp/cc/senkei/list/?tag=12",
+    "https://www.jkeiei.co.jp/m/bmn-archive/202107-10601/",
+    "https://www.tkc.jp/news/2026/20260618/",
+    "https://www.tkc.jp/50th/",
+    "https://www.nikkei.com/article/DGXZQOCC061RZ0W2A100C2000000/",
+    "https://jobtalk.jp/companies/3891/answers/1017376",
+    "https://www.tkc.jp/company/founder/",
+    "https://www.weekly-economist.com/interview/iizuka_masanori/",
+    "https://www.youtube.com/watch?v=13Sir2ZyWF8"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式25頁／PDF・画像10件／外部0頁・検索5回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式25頁／PDF・画像10件／外部0頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式25頁／PDF・画像10件／外部0頁・検索5回）"
+ }
+}

@@ -1,0 +1,1875 @@
+{
+ "name": "三和油化工業",
+ "aliases": [],
+ "context": "証券コード4125／化学／スタンダード（内国株式）／2026.03期 売上高20,263百万円 営業利益率18.3%",
+ "researched_at": "2026-11-02T18:11:19.147602+00:00",
+ "official_url": "https://www.sanwayuka.co.jp/",
+ "identified_by": "search:yahoo_jp:三和油化工業",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立年月日",
+    "value": "1970年（昭和45年）6月20日",
+    "url": "https://www.sanwayuka.co.jp/company/outline/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "単体：13,884百万円、グループ連結：20,263百万円（2026年3月期実績）",
+    "url": "https://www.sanwayuka.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "35,000百万円",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/management_plan/",
+    "pass": 1
+   },
+   {
+    "label": "売上高営業利益率（％）",
+    "value": "5.2 7.6",
+    "url": "https://kitaishihon.com/company/4125/business",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "単体：316名、グループ全体：512名（2026年3月31日時点）",
+    "url": "https://www.sanwayuka.co.jp/company/outline/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "リユース 産業廃棄物の高付加価値再資源化 廃溶剤から蒸留再生によるリサイクル溶剤製品製造 廃混酸から溶媒抽出によるリサイクルリン酸製造 廃液に含まれる微量レアメタル・レアアースの回収",
+    "url": "https://www.sanwayuka.co.jp/company/outline/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "ビジネスモデル": [
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://www.sanwayuka.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://www.sanwayuka.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://www.sanwayuka.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://www.sanwayuka.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://www.sanwayuka.co.jp/business/reuse/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://www.sanwayuka.co.jp/business/reuse/organic/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://www.sanwayuka.co.jp/business/reuse/phosphate/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://www.sanwayuka.co.jp/business/reuse/raremetal/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://www.sanwayuka.co.jp/business/recycle/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://www.sanwayuka.co.jp/business/recycle/emulsionize/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://www.sanwayuka.co.jp/business/recycle/sludge/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://www.sanwayuka.co.jp/business/recycle/electrolyte/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://www.sanwayuka.co.jp/business/chemicals/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://www.sanwayuka.co.jp/business/chemicals/semiconductor-batteries/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://www.sanwayuka.co.jp/business/automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://www.sanwayuka.co.jp/business/engineering/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://www.sanwayuka.co.jp/business/licence/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://www.sanwayuka.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/message/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/management_plan/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://www.sanwayuka.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://www.sanwayuka.co.jp/ir/financial/forecasts/",
+    "pass": 1
+   },
+   {
+    "quote": "以上に述べた事項を事業系統図によって示すと次のとおりであります",
+    "url": "https://kitaishihon.com/company/4125/business",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "半導体・電池業界への製品供給",
+    "url": "https://www.sanwayuka.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体・電池業界への製品供給",
+    "url": "https://www.sanwayuka.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "サンワマテリアルソリューションズ株式会社",
+    "url": "https://www.sanwayuka.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "廃溶剤から蒸留再生によるリサイクル溶剤製品製造",
+    "url": "https://www.sanwayuka.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "各種油剤製品の製造",
+    "url": "https://www.sanwayuka.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "廃油からの精製、再生油剤製品の製造",
+    "url": "https://www.sanwayuka.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体・電池業界への製品供給",
+    "url": "https://www.sanwayuka.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "運搬会社を設立することで活動エリアを拡大し、さらに大量生産や高度化する産業ニーズに応えるために新たな産業廃棄物処分許可の取得や、分離、高純度化といった培ってきた技術を活かし電子材料分野への製品供給を開始するなど1991年のバブル崩壊を物ともせず順調に業績を成長させてきました",
+    "url": "https://www.sanwayuka.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ゼロエミッションという言葉が定着したことを受け、2000年以降はリサイクルの対象を大幅に広げ、廃油・廃酸のような液体から、汚泥・廃プラスチック類のような固形物までさまざまな廃棄物を取り扱う総合的なリサイクルメーカーへと着実に歩みを進めながら産業廃棄物を有効利用するための許認可を多数取得し、再資源化製品を世の中へ供給してきました",
+    "url": "https://www.sanwayuka.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "廃棄物を扱う一方で電子材料分野へ製品を供給するなど、幅広い品質保証体制を整え、リサイクル企業でもあり、化学メーカーでもあるという独自の立ち位置を築いてきました",
+    "url": "https://www.sanwayuka.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "東日本には茨城事業所、西日本にはサンワ南海リサイクルを設立し、日本全国からの産業廃棄物の収集と製品供給を可能としました",
+    "url": "https://www.sanwayuka.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "福岡県北九州市にエア・ウォーター・マテリアル株式会社との合弁で産業廃棄物の再資源化を行う会社としてサンワマテリアルソリューションズ株式会社(現・連結子会社)を設立(議決権比率 65％)",
+    "url": "https://www.sanwayuka.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体・電池業界への製品供給",
+    "url": "https://www.sanwayuka.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体・電池業界への製品供給",
+    "url": "https://www.sanwayuka.co.jp/business/reuse/",
+    "pass": 1
+   },
+   {
+    "quote": "リユース事業は、主に製造業顧客の工場から排出される使用済み有機溶剤、廃酸、有用金属等を含む産業廃棄物などを当社グループの設備により中間処分・再資源化し、元の用途や塗料、洗浄剤、表面処理剤等の素材として再使用できるマテリアルリサイクルをしていくことを目的とし、再生製品の販売が収益の主体となる事業です",
+    "url": "https://www.sanwayuka.co.jp/business/reuse/",
+    "pass": 1
+   },
+   {
+    "quote": "回収した再生製品は元の顧客に戻し再使用 (リユース)していただくことや、他の顧客に販売し新品に代わる素材原料として再利用いただいております",
+    "url": "https://www.sanwayuka.co.jp/business/reuse/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体・電池業界への製品供給",
+    "url": "https://www.sanwayuka.co.jp/business/reuse/organic/",
+    "pass": 1
+   },
+   {
+    "quote": "日本全国から収集した使用済みの溶剤廃液は、当社の蒸留工程により不要物を取り除き、新品に近い品質の再生製品として市場に戻すマテリアルリサイクルを実現しています",
+    "url": "https://www.sanwayuka.co.jp/business/reuse/organic/",
+    "pass": 1
+   },
+   {
+    "quote": "しかし、溶剤廃液から100%が再生製品として回収できるわけではありませんので、目減り分は新液を供給することも可能です",
+    "url": "https://www.sanwayuka.co.jp/business/reuse/organic/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体・電池業界への製品供給",
+    "url": "https://www.sanwayuka.co.jp/business/reuse/phosphate/",
+    "pass": 1
+   },
+   {
+    "quote": "＜製品の一例＞",
+    "url": "https://www.sanwayuka.co.jp/business/reuse/phosphate/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体・電池業界への製品供給",
+    "url": "https://www.sanwayuka.co.jp/business/reuse/raremetal/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体・電池業界への製品供給",
+    "url": "https://www.sanwayuka.co.jp/business/recycle/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体・電池業界への製品供給",
+    "url": "https://www.sanwayuka.co.jp/business/recycle/emulsionize/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体・電池業界への製品供給",
+    "url": "https://www.sanwayuka.co.jp/business/recycle/sludge/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体・電池業界への製品供給",
+    "url": "https://www.sanwayuka.co.jp/business/recycle/electrolyte/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体・電池業界への製品供給",
+    "url": "https://www.sanwayuka.co.jp/business/chemicals/",
+    "pass": 1
+   },
+   {
+    "quote": "自社製品だけでなく、顧客の要望(原材料指定、工程管理、仕様など)に応じた受託加工も行っております",
+    "url": "https://www.sanwayuka.co.jp/business/chemicals/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体・電池業界への製品供給│産業廃棄物のリサイクル・再資源化なら三和油化工業株式会社",
+    "url": "https://www.sanwayuka.co.jp/business/chemicals/semiconductor-batteries/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体・電池業界への製品供給",
+    "url": "https://www.sanwayuka.co.jp/business/chemicals/semiconductor-batteries/",
+    "pass": 1
+   },
+   {
+    "quote": "市場規模の拡大が見込まれるリチウムイオン二次電池関連メーカーに対して、幅広いモノの取扱いと製造・販売から再資源化まで提案することによりワンストップサービスを提供します",
+    "url": "https://www.sanwayuka.co.jp/business/chemicals/semiconductor-batteries/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体・電池業界への製品供給",
+    "url": "https://www.sanwayuka.co.jp/business/automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "ベーシックケミカル事業は、部品加工メーカー等に潤滑油や金属加工油などの油剤製品、洗浄剤、各種副資材等の販売および化学品メーカー等に汎用化学品の販売を行っている事業です",
+    "url": "https://www.sanwayuka.co.jp/business/automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "油剤・洗浄剤製品については、機能性向上のため添加剤をブレンド調合等しており、幅広い選択肢の中から、環境負荷物質を使用していない、省エネ効果がある、安全性が高い、工場ラインの作業環境改善に寄与するなど、お客様のニーズに適した製品を提案できるよう特徴ある製品ラインナップを揃えています",
+    "url": "https://www.sanwayuka.co.jp/business/automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "再生油剤製品",
+    "url": "https://www.sanwayuka.co.jp/business/automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "再生油を使用することで製品に係るCO",
+    "url": "https://www.sanwayuka.co.jp/business/automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "当社製品（シャダン・スリーブライン）は、グリコール、エタノールをベースとした不凍効果を有する冷熱媒体です",
+    "url": "https://www.sanwayuka.co.jp/business/automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体・電池業界への製品供給",
+    "url": "https://www.sanwayuka.co.jp/business/engineering/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体・電池業界への製品供給",
+    "url": "https://www.sanwayuka.co.jp/business/licence/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体・電池業界への製品供給",
+    "url": "https://www.sanwayuka.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体・電池業界への製品供給",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体・電池業界への製品供給",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/message/",
+    "pass": 1
+   },
+   {
+    "quote": "そして、廃棄物のリユース・リサイクルを通じた環境負荷低減と資源循環への取り組みや環境にやさしい製品づくりを常に実践することで、微力ながら社会に貢献してまいりました",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/message/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体・電池業界への製品供給",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/management_plan/",
+    "pass": 1
+   },
+   {
+    "quote": "再生製品もお客様のニーズに応える高度な品質に作りこむことが可能",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/management_plan/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の様々な廃棄物の引取から半導体向け品質の製品製造にも対応可能",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/management_plan/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体・電池業界への製品供給",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループが取り扱うリサイクル製品のうち、再生燃料や再生有機溶剤には原油・ナフサ価格に影響を受けるものがあります",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループでは、顧客からの新規廃棄物の処理・有効利用化の依頼や化学品新製品の開発等の様々な研究・開発を行っています",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体・電池業界への製品供給",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、金融商品取引法等の諸法令および東京証券取引所の定める有価証券上場規程の「会社情報の適時開示等」(以下、「適時開示規則」といいます)に従って、透明性、公平性、継続性を基本とした迅速な情報開示を行います",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体・電池業界への製品供給",
+    "url": "https://www.sanwayuka.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体・電池業界への製品供給",
+    "url": "https://www.sanwayuka.co.jp/ir/financial/forecasts/",
+    "pass": 1
+   },
+   {
+    "quote": "◼ 電池向けファインケミカル製品の需要増に応える原料調達および生産体制の強化",
+    "url": "https://www.sanwayuka.co.jp/Portals/0/pdf/jyuuyounaosirase/2027%E5%B9%B43%E6%9C%88%E6%9C%9F_%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⇒原油・ナフサ由来の石油化学製品の新液販売および再資源化需要に応え売上増加",
+    "url": "https://www.sanwayuka.co.jp/Portals/0/pdf/jyuuyounaosirase/2027%E5%B9%B43%E6%9C%88%E6%9C%9F_%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◼ 中東情勢緊迫化の影響により石化製品の単価が上昇し、売上高・営業利益は過去最高",
+    "url": "https://www.sanwayuka.co.jp/Portals/0/pdf/jyuuyounaosirase/2027%E5%B9%B43%E6%9C%88%E6%9C%9F_%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◼ リユース事業売上と再生製品販売数量",
+    "url": "https://www.sanwayuka.co.jp/Portals/0/pdf/jyuuyounaosirase/2027%E5%B9%B43%E6%9C%88%E6%9C%9F_%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 溶剤再生製品は数量は減少したが単価上昇により売上拡大",
+    "url": "https://www.sanwayuka.co.jp/Portals/0/pdf/jyuuyounaosirase/2027%E5%B9%B43%E6%9C%88%E6%9C%9F_%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "再生製品数量",
+    "url": "https://www.sanwayuka.co.jp/Portals/0/pdf/jyuuyounaosirase/2027%E5%B9%B43%E6%9C%88%E6%9C%9F_%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※ 製品：当社グループが品質保証する製造品 商品：転売品",
+    "url": "https://www.sanwayuka.co.jp/Portals/0/pdf/jyuuyounaosirase/2027%E5%B9%B43%E6%9C%88%E6%9C%9F_%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf",
+    "pass": 2
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "事業活動を通じて社会課題の解決に貢献する三和油化グループの取り組みをご紹介いたします",
+    "url": "https://www.sanwayuka.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の活動や取り組みに対する外部機関の評価や受賞実績をご紹介いたします",
+    "url": "https://www.sanwayuka.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "EMGマーケティング合同会社(現 EMGルブリカンツ合同会社)より工業用潤滑油拠点代理店として認定",
+    "url": "https://www.sanwayuka.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のリユース事業についてご紹介いたします",
+    "url": "https://www.sanwayuka.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のリサイクル事業についてご紹介いたします",
+    "url": "https://www.sanwayuka.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のファインケミカル事業についてご紹介いたします",
+    "url": "https://www.sanwayuka.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のベーシックケミカル事業についてご紹介いたします",
+    "url": "https://www.sanwayuka.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のエンジニアリング事業についてご紹介いたします",
+    "url": "https://www.sanwayuka.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "当社が取得している各種許認可についてご紹介いたします",
+    "url": "https://www.sanwayuka.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "北浜法律事務所・河浪潤パートナー 弁護士「多様な法務の専門家がチームで支援」",
+    "url": "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/122500612/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/business/reuse/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/business/reuse/organic/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/business/reuse/phosphate/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/business/reuse/raremetal/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/business/recycle/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/business/recycle/emulsionize/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/business/recycle/sludge/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/business/recycle/electrolyte/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/business/chemicals/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/business/chemicals/semiconductor-batteries/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/business/automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/business/engineering/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/business/licence/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/message/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/management_plan/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/ir/financial/forecasts/",
+    "pass": 1
+   },
+   {
+    "quote": "上期 下期 通期 構成比 1Q 構成比 進捗率",
+    "url": "https://www.sanwayuka.co.jp/Portals/0/pdf/jyuuyounaosirase/2027%E5%B9%B43%E6%9C%88%E6%9C%9F_%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/4125/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/4125/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/4125/business",
+    "pass": 3
+   },
+   {
+    "quote": "（単一セグメント）",
+    "url": "https://kitaishihon.com/company/4125/business",
+    "pass": 3
+   },
+   {
+    "quote": "単一セグメントの企業の場合は、連結（あるいは単体）の売上と営業利益を反映しています",
+    "url": "https://kitaishihon.com/company/4125/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/4125/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/4125/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/4125/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは環境関連事業の単一セグメントであるため、セグメント毎の記載を省略しておりますが、主な事業は「リユース事業」「リサイクル事業」「化学品事業」「自動車事業」「エンジニアリング事業」の５つに区分されます",
+    "url": "https://kitaishihon.com/company/4125/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、環境関連事業の単一セグメントであるため、セグメント毎の記載を省略しておりますが、主な事業は５つに区分しており、事業種類別の業績は次のとおりです",
+    "url": "https://kitaishihon.com/company/4125/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは「環境関連事業」の単一セグメントであります",
+    "url": "https://kitaishihon.com/company/4125/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは「環境関連事業」の単一セグメントでありますが、主な事業は「リユース事業」「リサイクル事業」「化学品事業」「自動車事業」「エンジニアリング事業」の５つに区分されます",
+    "url": "https://kitaishihon.com/company/4125/business",
+    "pass": 3
+   },
+   {
+    "quote": "(セグメント情報等)",
+    "url": "https://kitaishihon.com/company/4125/business",
+    "pass": 3
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://kitaishihon.com/company/4125/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは環境関連事業の単一セグメントであり重要性が乏しいため、セグメント情報の記載を省略しております",
+    "url": "https://kitaishihon.com/company/4125/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは「環境関連事業」の単一セグメントでありますが、外部顧客への売上高については、「(収益認識関係)」をご参照ください",
+    "url": "https://kitaishihon.com/company/4125/business",
+    "pass": 3
+   },
+   {
+    "quote": "【報告セグメントごとの固定資産の減損損失に関する情報】",
+    "url": "https://kitaishihon.com/company/4125/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは環境関連事業の単一セグメントであるため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/4125/business",
+    "pass": 3
+   },
+   {
+    "quote": "【報告セグメントごとののれんの償却額及び未償却残高に関する情報】",
+    "url": "https://kitaishihon.com/company/4125/business",
+    "pass": 3
+   },
+   {
+    "quote": "【報告セグメントごとの負ののれん発生益に関する情報】",
+    "url": "https://kitaishihon.com/company/4125/business",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/business/reuse/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/business/reuse/organic/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/business/reuse/phosphate/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/business/reuse/raremetal/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/business/recycle/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/business/recycle/emulsionize/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/business/recycle/sludge/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/business/recycle/electrolyte/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/business/chemicals/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/business/chemicals/semiconductor-batteries/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/business/automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/business/engineering/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/business/licence/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/message/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/management_plan/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントと競争優位性",
+    "url": "https://www.sanwayuka.co.jp/ir/financial/forecasts/",
+    "pass": 1
+   },
+   {
+    "quote": "売上高営業利益率",
+    "url": "https://www.sanwayuka.co.jp/ir/financial/forecasts/",
+    "pass": 1
+   },
+   {
+    "quote": "売上高 営業利益 営業利益率",
+    "url": "https://www.sanwayuka.co.jp/Portals/0/pdf/jyuuyounaosirase/2027%E5%B9%B43%E6%9C%88%E6%9C%9F_%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◼ 粗利率が相対的に低い金属回収を拡大したことにより、粗利率は低下するも粗利額は増加",
+    "url": "https://www.sanwayuka.co.jp/Portals/0/pdf/jyuuyounaosirase/2027%E5%B9%B43%E6%9C%88%E6%9C%9F_%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "経営の柱となるリユース・リサイクル・化学品事業の強みを生かし、国内ニーズが高まる資源循環に取り組む",
+    "url": "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/122500612/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの強みを生かし、安定的な資源調達を実現します",
+    "url": "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/122500612/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は売上高営業利益率及び取扱数量（産業廃棄物の引取数量と商品・製品の販売数量の合計であり、商品・材料の仕入数量等は含まない",
+    "url": "https://kitaishihon.com/company/4125/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上高営業利益率（％）",
+    "url": "https://kitaishihon.com/company/4125/business",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2027年3月期 第1四半期決算補足説明資料を公開しました",
+    "url": "https://www.sanwayuka.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年11月08日",
+    "url": "https://www.sanwayuka.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年10月21日",
+    "url": "https://www.sanwayuka.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年10月01日",
+    "url": "https://www.sanwayuka.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月09日",
+    "url": "https://www.sanwayuka.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月08日",
+    "url": "https://www.sanwayuka.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月07日",
+    "url": "https://www.sanwayuka.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1970年（昭和45年）6月20日",
+    "url": "https://www.sanwayuka.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "歴史・沿革│産業廃棄物のリサイクル・再資源化なら三和油化工業株式会社",
+    "url": "https://www.sanwayuka.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1970年代",
+    "url": "https://www.sanwayuka.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1970年代加速するモータリゼーション化の波を受け、自動車産業が盛んな愛知県において、工業用の油材や洗浄剤の製造販売から始まりました",
+    "url": "https://www.sanwayuka.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1970年6月",
+    "url": "https://www.sanwayuka.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1974年1月",
+    "url": "https://www.sanwayuka.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1979年6月",
+    "url": "https://www.sanwayuka.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1979年11月",
+    "url": "https://www.sanwayuka.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1980年代",
+    "url": "https://www.sanwayuka.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1983年7月",
+    "url": "https://www.sanwayuka.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1985年7月",
+    "url": "https://www.sanwayuka.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1989年12月",
+    "url": "https://www.sanwayuka.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1990年代",
+    "url": "https://www.sanwayuka.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1990年6月",
+    "url": "https://www.sanwayuka.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1991年4月",
+    "url": "https://www.sanwayuka.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1993年5月",
+    "url": "https://www.sanwayuka.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1993年8月",
+    "url": "https://www.sanwayuka.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1994年7月",
+    "url": "https://www.sanwayuka.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1996年12月",
+    "url": "https://www.sanwayuka.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1997年8月",
+    "url": "https://www.sanwayuka.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1998年8月",
+    "url": "https://www.sanwayuka.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1999年6月",
+    "url": "https://www.sanwayuka.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年代",
+    "url": "https://www.sanwayuka.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年2月",
+    "url": "https://www.sanwayuka.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2001年8月",
+    "url": "https://www.sanwayuka.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2001年9月",
+    "url": "https://www.sanwayuka.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年9月末時点",
+    "url": "https://www.sanwayuka.co.jp/business/licence/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月予定 2027年3月期 第2四半期決算説明会",
+    "url": "https://www.sanwayuka.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月予定 2027年3月期 第2四半期決算発表",
+    "url": "https://www.sanwayuka.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月予定 2027年3月期 第1四半期決算発表",
+    "url": "https://www.sanwayuka.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2031年3月期",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/management_plan/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年3月18日",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年12月26日",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "2029年8月26日",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "2029年3月30日",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年12月2日",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "2032年7月3日",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年7月16日",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年11月10日",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "2029年8月18日",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月9日",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "2029年10月20日",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "2029年12月26日",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "2027 年3月期",
+    "url": "https://www.sanwayuka.co.jp/Portals/0/pdf/jyuuyounaosirase/2027%E5%B9%B43%E6%9C%88%E6%9C%9F_%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年8月7日",
+    "url": "https://www.sanwayuka.co.jp/Portals/0/pdf/jyuuyounaosirase/2027%E5%B9%B43%E6%9C%88%E6%9C%9F_%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年3月期 第1四半期 決算概要",
+    "url": "https://www.sanwayuka.co.jp/Portals/0/pdf/jyuuyounaosirase/2027%E5%B9%B43%E6%9C%88%E6%9C%9F_%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期 第１四半期累計",
+    "url": "https://www.sanwayuka.co.jp/Portals/0/pdf/jyuuyounaosirase/2027%E5%B9%B43%E6%9C%88%E6%9C%9F_%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年3月期 1Q累計 2027年3月期 1Q累計 前年同期比",
+    "url": "https://www.sanwayuka.co.jp/Portals/0/pdf/jyuuyounaosirase/2027%E5%B9%B43%E6%9C%88%E6%9C%9F_%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年3月期 2027年3月期2025年3月期",
+    "url": "https://www.sanwayuka.co.jp/Portals/0/pdf/jyuuyounaosirase/2027%E5%B9%B43%E6%9C%88%E6%9C%9F_%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年3月期 業績予想",
+    "url": "https://www.sanwayuka.co.jp/Portals/0/pdf/jyuuyounaosirase/2027%E5%B9%B43%E6%9C%88%E6%9C%9F_%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期 業績予想 2027年3月期 実績",
+    "url": "https://www.sanwayuka.co.jp/Portals/0/pdf/jyuuyounaosirase/2027%E5%B9%B43%E6%9C%88%E6%9C%9F_%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年度下期（予定）",
+    "url": "https://www.sanwayuka.co.jp/Portals/0/pdf/jyuuyounaosirase/2027%E5%B9%B43%E6%9C%88%E6%9C%9F_%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2029年度 約6億円",
+    "url": "https://www.sanwayuka.co.jp/Portals/0/pdf/jyuuyounaosirase/2027%E5%B9%B43%E6%9C%88%E6%9C%9F_%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf",
+    "pass": 2
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "お客様の要望（ 原材料指定、工程管理、仕様など）に応じた受託加工",
+    "url": "https://www.sanwayuka.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "リユース事業は、主に製造業顧客の工場から排出される使用済み有機溶剤、廃酸、有用金属等を含む産業廃棄物などを当社グループの設備により中間処分・再資源化し、元の用途や塗料、洗浄剤、表面処理剤等の素材として再使用できるマテリアルリサイクルをしていくことを目的とし、再生製品の販売が収益の主体となる事業です",
+    "url": "https://www.sanwayuka.co.jp/business/reuse/",
+    "pass": 1
+   },
+   {
+    "quote": "回収した再生製品は元の顧客に戻し再使用 (リユース)していただくことや、他の顧客に販売し新品に代わる素材原料として再利用いただいております",
+    "url": "https://www.sanwayuka.co.jp/business/reuse/",
+    "pass": 1
+   },
+   {
+    "quote": "リサイクル事業は、主に製造業顧客の工場から排出される使用済み廃溶剤、汚泥、廃プラスチック類などの産業 廃棄物を当社グループの設備により中間処分・再資源化し、再生燃料（サーマルリサイクル）やセメント・石灰・鉄鋼の副原料及び副資材としての２次利用を中心とした再資源化を目的としている事業です",
+    "url": "https://www.sanwayuka.co.jp/business/recycle/",
+    "pass": 1
+   },
+   {
+    "quote": "国内及び海外から化学品原料を仕入れ、当社グループの危険物貯蔵所及び倉庫にて一時保管、荷姿・納期を調整して様々な業種の顧客において洗浄や表面処理、樹脂等を溶解する溶媒として利用される汎用化学品を販売するほか、半導体や電子機器、電池などのエレクトロニクス分野で副資材として使用される高純度化学品の製造・販売・受託加工を行っております",
+    "url": "https://www.sanwayuka.co.jp/business/chemicals/",
+    "pass": 1
+   },
+   {
+    "quote": "自社製品だけでなく、顧客の要望(原材料指定、工程管理、仕様など)に応じた受託加工も行っております",
+    "url": "https://www.sanwayuka.co.jp/business/chemicals/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のニーズに合わせ複数の原料調達先を確保し、小分け充填等を行っております",
+    "url": "https://www.sanwayuka.co.jp/business/automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "油剤・洗浄剤製品については、機能性向上のため添加剤をブレンド調合等しており、幅広い選択肢の中から、環境負荷物質を使用していない、省エネ効果がある、安全性が高い、工場ラインの作業環境改善に寄与するなど、お客様のニーズに適した製品を提案できるよう特徴ある製品ラインナップを揃えています",
+    "url": "https://www.sanwayuka.co.jp/business/automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "会社設立当初から加工油剤メーカーとして多岐にわたる油剤開発に取り組み、お客様のニーズに応えてきました",
+    "url": "https://www.sanwayuka.co.jp/business/automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "併せて産業廃棄物の処理も提案することにより、リユース事業、リサイクル事業と連携した一気通貫で顧客ニーズにお応えします",
+    "url": "https://www.sanwayuka.co.jp/business/engineering/",
+    "pass": 1
+   },
+   {
+    "quote": "また、協力会社を多く持つことから、お客様の様々なニーズに対応可能です",
+    "url": "https://www.sanwayuka.co.jp/business/engineering/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、お客様（あらゆるステークホルダー）の信用を得ることを第一目的とし、社会からより信頼される会社になるよう、日々努力してまいりました",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/message/",
+    "pass": 1
+   },
+   {
+    "quote": "近年の世界的な社会環境の変化、ESGやSDGsに代表される地球規模の持続可能性（サステナビリティ）に対する意識の高まりもあり、当社グループは環境事業を中心とする事業活動を通じ、企業としての社会的責任を果たしていくことで、株主の皆様、取引先の皆様からの期待に応えていく方針です",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/message/",
+    "pass": 1
+   },
+   {
+    "quote": "再生製品もお客様のニーズに応える高度な品質に作りこむことが可能",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/management_plan/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の様々な廃棄物の引取から半導体向け品質の製品製造にも対応可能",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/management_plan/",
+    "pass": 1
+   },
+   {
+    "quote": "社会課題の対応と相対した企業成長が求められる優良企業を多く顧客として保有",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/management_plan/",
+    "pass": 1
+   },
+   {
+    "quote": "東西拠点を中心とした新規顧客開拓",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/management_plan/",
+    "pass": 1
+   },
+   {
+    "quote": "環境に関わる法令や条例の変化、顧客の環境に関するニーズの変化は今後も高度化、細分化されていくものと考えています",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、事業の過程で取引先の機密情報を共有することがあります",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループでは、顧客からの新規廃棄物の処理・有効利用化の依頼や化学品新製品の開発等の様々な研究・開発を行っています",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "なお、個人情報、顧客情報、および関係者の権利を侵害することになる情報につきましては開示しません",
+    "url": "https://www.sanwayuka.co.jp/ir/policy/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客工場から排出される",
+    "url": "https://www.sanwayuka.co.jp/Portals/0/images/business/reuse/img_01.png",
+    "pass": 2
+   },
+   {
+    "quote": "cssssseeeesetee 排出先と販売先が ーー……",
+    "url": "https://www.sanwayuka.co.jp/Portals/0/images/business/reuse/img_01.png",
+    "pass": 2
+   },
+   {
+    "quote": "農業用肥料として ン酸の付加価値向上と用途撤 顧客ニーズに合わせて",
+    "url": "https://www.sanwayuka.co.jp/Portals/0/images/business/reuse/phosphate/img_01.jpg",
+    "pass": 2
+   },
+   {
+    "quote": "この５事業は、それぞれ単独で成り立っているのではなく、当社グループの機能を活かして、製品の製造・販売から使用後の産業廃棄物の有効利用までを物流や品質保証も含めて一気通貫で対応することが特徴であり、環境負荷の低減と資源有効利用を通じて、総合的に取引先並びに社会へ貢献することが当社グループの事業内容であります",
+    "url": "https://kitaishihon.com/company/4125/business",
+    "pass": 3
+   },
+   {
+    "quote": "リユース事業は、主に製造業顧客の工場から排出される使用済み廃溶剤、廃酸、有用金属等を含む産業廃棄物などを当社グループの設備により中間処分・再資源化し、元の用途や塗料、洗浄剤、表面処理剤等の素材として再使用するマテリアルリサイクルをしていくことを目的とし、再生製品の販売が収益の主体となる事業です",
+    "url": "https://kitaishihon.com/company/4125/business",
+    "pass": 3
+   },
+   {
+    "quote": "回収した再生製品は元の顧客に戻し再使用(リユース)していただくことや、他の顧客に販売し新品(バージン品)に代わる素材原料として再利用いただいております",
+    "url": "https://kitaishihon.com/company/4125/business",
+    "pass": 3
+   },
+   {
+    "quote": "リサイクル事業は、主に製造業顧客の工場から排出される使用済み廃溶剤、汚泥、廃プラスチック類などの産業廃棄物を当社グループの設備により中間処分・再資源化し、再生燃料（サーマルリサイクル）やセメント・石灰・鉄鋼の副原料及び副資材としての２次利用を中心とした再資源化を目的としている事業です",
+    "url": "https://kitaishihon.com/company/4125/business",
+    "pass": 3
+   },
+   {
+    "quote": "国内及び海外から化学品原料を仕入れ、当社グループの危険物貯蔵所及び倉庫にて一時保管、荷姿・納期を調整して様々な業種の顧客において洗浄や表面処理、樹脂等を溶解する溶媒として利用される汎用化学品を販売するほか、半導体や電子機器、電池などのエレクトロニクス分野で使用される高純度化学品の製造・販売・受託加工を行っております",
+    "url": "https://kitaishihon.com/company/4125/business",
+    "pass": 3
+   },
+   {
+    "quote": "自社製品だけでなく、顧客の要望(原材料指定、工程管理、仕様など)に応じた受託加工も行っております",
+    "url": "https://kitaishihon.com/company/4125/business",
+    "pass": 3
+   },
+   {
+    "quote": "自動車事業は、自動車メーカー及び自動車部品メーカーをメイン顧客として、潤滑油や金属加工油などの油剤製品、工業用洗浄剤及び自動車製造工程で使用される各種副資材の製造・販売を行っている事業です",
+    "url": "https://kitaishihon.com/company/4125/business",
+    "pass": 3
+   },
+   {
+    "quote": "原材料を仕入れ、顧客ニーズに合わせて複数の原材料及び添加剤をブレンド調合することにより、製品に様々な性能を付与しております",
+    "url": "https://kitaishihon.com/company/4125/business",
+    "pass": 3
+   },
+   {
+    "quote": "幅広い選択肢の中から、環境負荷物質を使用していない、省エネ効果がある、安全性能が高い、工場ラインの作業環境改善に寄与するなど、顧客ニーズに最も適した製品を提案するために、特徴ある油剤、洗浄剤及び副資材の製品ラインナップを揃えております",
+    "url": "https://kitaishihon.com/company/4125/business",
+    "pass": 3
+   },
+   {
+    "quote": "エンジニアリング事業は、製造業顧客の設備等の解体・清掃、それに伴い発生する廃棄物処理を行うための一貫したソリューションを提供する事業です",
+    "url": "https://kitaishihon.com/company/4125/business",
+    "pass": 3
+   },
+   {
+    "quote": "当事業は、これまでに東西工場拠点において投資をしてきたリサイクル施設の稼働率を向上させるため、新規顧客開拓による取扱数量の増加に注力しております",
+    "url": "https://kitaishihon.com/company/4125/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度においては、一部顧客にて稼働が回復したものの、計画していたほどの需要はなく、ファインケミカル製品の取扱高は伸び悩んでおります",
+    "url": "https://kitaishihon.com/company/4125/business",
+    "pass": 3
+   },
+   {
+    "quote": "当事業は、PCB含有廃棄物を適切に処理する取組で培ったノウハウを活かし、今後増加が見込まれる化学プラント等の改廃ニーズを取込み、解体工事により発生する清掃・廃棄物処理を一手に担い、ソリューション提供を通じて顧客の信頼を獲得し、事業を拡大していく活動に注力しております",
+    "url": "https://kitaishihon.com/company/4125/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは「環境関連事業」の単一セグメントでありますが、外部顧客への売上高については、「(収益認識関係)」をご参照ください",
+    "url": "https://kitaishihon.com/company/4125/business",
+    "pass": 3
+   },
+   {
+    "quote": "本邦の外部顧客への売上高が連結損益計算書の売上高の90％を超えるため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/4125/business",
+    "pass": 3
+   },
+   {
+    "quote": "３ 主要な顧客ごとの情報",
+    "url": "https://kitaishihon.com/company/4125/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高のうち、特定の顧客への売上高であって、連結損益計算書の売上高の10％を占める顧客が存在しないため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/4125/business",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/4125/business",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "◼ 中東情勢緊迫化の影響により石化製品の単価が上昇し、売上高・営業利益は過去最高",
+    "url": "https://www.sanwayuka.co.jp/Portals/0/pdf/jyuuyounaosirase/2027%E5%B9%B43%E6%9C%88%E6%9C%9F_%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 溶剤再生製品は数量は減少したが単価上昇により売上拡大",
+    "url": "https://www.sanwayuka.co.jp/Portals/0/pdf/jyuuyounaosirase/2027%E5%B9%B43%E6%9C%88%E6%9C%9F_%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 競争環境や市場環境の変化により処理物引取単価が弱含み",
+    "url": "https://www.sanwayuka.co.jp/Portals/0/pdf/jyuuyounaosirase/2027%E5%B9%B43%E6%9C%88%E6%9C%9F_%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◼ 企業結合による金属回収の拡大および中東情勢の影響による再生溶剤の単価上昇等により利益拡大",
+    "url": "https://www.sanwayuka.co.jp/Portals/0/pdf/jyuuyounaosirase/2027%E5%B9%B43%E6%9C%88%E6%9C%9F_%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "〈＋〉 中東情勢の影響をうけ数量・単価共に上昇",
+    "url": "https://www.sanwayuka.co.jp/Portals/0/pdf/jyuuyounaosirase/2027%E5%B9%B43%E6%9C%88%E6%9C%9F_%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "〈－〉 原料となる廃溶剤の単価上昇",
+    "url": "https://www.sanwayuka.co.jp/Portals/0/pdf/jyuuyounaosirase/2027%E5%B9%B43%E6%9C%88%E6%9C%9F_%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "処理単価は上昇",
+    "url": "https://www.sanwayuka.co.jp/Portals/0/images/business/recycle/img_01.png",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "早わかり 三和油化工業 産業廃棄物のリサイクル・再資源化 ... — 早わかり 三和油化工業 産業廃棄物のリサイクル・再資源化 ... 三和油化工業 https://www.sanwayuka.co.jp > 企業情報",
+    "url": "https://www.sanwayuka.co.jp/company/summary/",
+    "pass": 3
+   },
+   {
+    "quote": "三和油化工業 ・柳均社長「人的資本経営を推進し強い組織へ」 — 三和油化工業 ・柳均社長「人的資本経営を推進し強い組織へ」 日経BP https://project.nikkeibp.co.jp > ESG > atcl > column",
+    "url": "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/122500612/",
+    "pass": 3
+   },
+   {
+    "quote": "三和油化工業 (株)【4125】 | 未来金融研究部《ミラキン》 — 三和油化工業 (株)【4125】 | 未来金融研究部《ミラキン》 未来金融研究部 https://mirakin.jp > ... > 名証メイン > 名古屋市 > 愛知県",
+    "url": "https://mirakin.jp/seizou/kagakuhin/sanwayuka/",
+    "pass": 3
+   },
+   {
+    "quote": "三和油化工業 のリユース・リサイクル事業 - イプロス — 三和油化工業 のリユース・リサイクル事業 - イプロス 製造業向け情報検索サイト イプロスものづくり https://pr.mono.ipros.com > ... > リユース・リサイクル事業",
+    "url": "https://pr.mono.ipros.com/sanwayuka/product/detail/2000430494/",
+    "pass": 3
+   },
+   {
+    "quote": "Second Party Opinion: 三和油化工業 株式会社 - 日本総研 — Second Party Opinion: 三和油化工業 株式会社 - 日本総研 日本総研 PDF https://www.jri.co.jp > file",
+    "url": "https://www.jri.co.jp/file.jsp?id=103392",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 - 三和油化工業株式会社 — 決算説明資料 - 三和油化工業株式会社 三和油化工業 https://www.sanwayuka.co.jp > ... > IRライブラリ",
+    "url": "https://www.sanwayuka.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリ - 三和油化工業株式会社 — IRライブラリ - 三和油化工業株式会社 三和油化工業 https://www.sanwayuka.co.jp > library",
+    "url": "https://www.sanwayuka.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "三和油化工業 （4125）、前年比二桁増収増益 - logmi Finance — 三和油化工業 （4125）、前年比二桁増収増益 - logmi Finance ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/384813",
+    "pass": 3
+   },
+   {
+    "quote": "三和油化工業 - 日本経済新聞 — 三和油化工業 - 日本経済新聞 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260514532091/",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家情報（IR） - 三和油化工業株式会社 — 株主・投資家情報（IR） - 三和油化工業株式会社 三和油化工業 https://www.sanwayuka.co.jp > ...",
+    "url": "https://www.sanwayuka.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要  産業廃棄物のリサイクル・再資源化なら 三和油化 ... — 会社概要  産業廃棄物のリサイクル・再資源化なら 三和油化 ... 三和油化工業 https://www.sanwayuka.co.jp > 企業情報",
+    "url": "https://www.sanwayuka.co.jp/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "三和油化工業 【4125】の 事業 内容 - キタイシホン — 三和油化工業 【4125】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/4125/business",
+    "pass": 3
+   },
+   {
+    "quote": "三和油化工業 株式会社 — 有価証券報告書テキスト（最新） — 三和油化工業 株式会社 — 有価証券報告書テキスト（最新） EDINET DB https://edinetdb.jp > 化学 > 三和油化工業株式会社",
+    "url": "https://edinetdb.jp/company/E37157/text",
+    "pass": 3
+   },
+   {
+    "quote": "統合報告書2025.pdf - 三和油化工業株式会社 — 統合報告書2025.pdf - 三和油化工業株式会社 三和油化工業 PDF https://www.sanwayuka.co.jp > 統合報告書2025",
+    "url": "https://www.sanwayuka.co.jp/Portals/0/pdf/ir/%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "三和油化工業 ・柳均 社長 「人的資本経営を推進し強い組織へ」 — 三和油化工業 ・柳均 社長 「人的資本経営を推進し強い組織へ」 日経BP https://project.nikkeibp.co.jp > ESG > atcl > column",
+    "url": "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/122500612/",
+    "pass": 3
+   },
+   {
+    "quote": "【4125】 三和油化工業 株式会社 事業概要と成長戦略に関する ... — 【4125】 三和油化工業 株式会社 事業概要と成長戦略に関する ... invest-n.jp https://invest-n.jp > ...",
+    "url": "https://invest-n.jp/ir/6554/",
+    "pass": 3
+   },
+   {
+    "quote": "三和油化工業 - Wikipedia — 三和油化工業 - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 三和油化工業",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E5%92%8C%E6%B2%B9%E5%8C%96%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "三和油化工業 (株)【4125】 | 未来金融研究部《ミラキン》 — 三和油化工業 (株)【4125】 | 未来金融研究部《ミラキン》 未来金融研究部 https://mirakin.jp > ... > 名証メイン > 愛知県",
+    "url": "https://mirakin.jp/seizou/kagakuhin/sanwayuka2/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sanwayuka.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwayuka.co.jp/company/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwayuka.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwayuka.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwayuka.co.jp/business/reuse/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwayuka.co.jp/business/reuse/organic/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwayuka.co.jp/business/reuse/phosphate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwayuka.co.jp/business/reuse/raremetal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwayuka.co.jp/business/recycle/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwayuka.co.jp/business/recycle/emulsionize/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwayuka.co.jp/business/recycle/sludge/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwayuka.co.jp/business/recycle/electrolyte/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwayuka.co.jp/business/chemicals/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwayuka.co.jp/business/chemicals/semiconductor-batteries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwayuka.co.jp/business/automotive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwayuka.co.jp/business/engineering/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwayuka.co.jp/business/licence/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwayuka.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwayuka.co.jp/ir/policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwayuka.co.jp/ir/policy/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwayuka.co.jp/ir/policy/management_plan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwayuka.co.jp/ir/policy/risk/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwayuka.co.jp/ir/policy/disclosure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwayuka.co.jp/ir/financial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwayuka.co.jp/ir/financial/forecasts/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.sanwayuka.co.jp/Portals/0/pdf/jyuuyounaosirase/2027%E5%B9%B43%E6%9C%88%E6%9C%9F_%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sanwayuka.co.jp/Portals/0/pdf/company/outline/%E7%86%B1%E5%9B%9E%E5%8F%8E%E7%B6%AD%E6%8C%81%E7%AE%A1%E7%90%86%E8%A8%98%E9%8C%B226.10.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sanwayuka.co.jp/Portals/0/pdf/sustainability/2024_sustainability_report.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sanwayuka.co.jp/Portals/0/pdf/business/licence/01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sanwayuka.co.jp/Portals/0/pdf/business/licence/02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sanwayuka.co.jp/Portals/0/pdf/ir/%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sanwayuka.co.jp/Portals/0/images/pagetitle/bg_title_business.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sanwayuka.co.jp/Portals/0/images/business/reuse/img_01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sanwayuka.co.jp/Portals/0/images/business/recycle/emulsionize/img_01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sanwayuka.co.jp/Portals/0/images/business/reuse/phosphate/img_01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sanwayuka.co.jp/Portals/0/images/business/reuse/raremetal/img_01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sanwayuka.co.jp/Portals/0/images/business/recycle/img_01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sanwayuka.co.jp/Portals/0/images/business/recycle/sludge/img_01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sanwayuka.co.jp/Portals/0/images/business/recycle/electrolyte/img_01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/122500612/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/4125/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/122500612/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "三和油化工業",
+   "results": [
+    "https://www.sanwayuka.co.jp/company/outline/",
+    "https://www.sanwayuka.co.jp/",
+    "https://job.mynavi.jp/27/pc/search/corp252486/outline.html",
+    "https://pr.mono.ipros.com/sanwayuka/product/detail/2000430494/",
+    "https://ja.wikipedia.org/wiki/%E4%B8%89%E5%92%8C%E6%B2%B9%E5%8C%96%E5%B7%A5%E6%A5%AD",
+    "https://www.nikkei.com/nkd/company/?scode=4125",
+    "https://doda.jp/DodaFront/View/Company/j_id__10007876769/",
+    "https://www.buffett-code.com/company/4125/",
+    "https://ja.wikipedia.org/wiki/三和油化工業",
+    "https://finance.yahoo.co.jp/quote/4125.T"
+   ]
+  },
+  {
+   "query": "三和油化工業 ビジネスモデル",
+   "results": [
+    "https://www.sanwayuka.co.jp/company/summary/",
+    "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/122500612/",
+    "https://mirakin.jp/seizou/kagakuhin/sanwayuka/",
+    "https://pr.mono.ipros.com/sanwayuka/product/detail/2000430494/",
+    "https://www.jri.co.jp/file.jsp?id=103392",
+    "https://job.mynavi.jp/28/pc/search/corp252486/outline.html",
+    "https://kitaishihon.com/company/4125/business",
+    "https://www.aichi-u.ac.jp/recruit/harunotanbouki/sanwayuka",
+    "https://finance.logmi.jp/articles/384813",
+    "https://ja.wikipedia.org/wiki/三和油化工業"
+   ]
+  },
+  {
+   "query": "三和油化工業 決算説明資料",
+   "results": [
+    "https://www.sanwayuka.co.jp/ir/library/presentation/",
+    "https://www.sanwayuka.co.jp/ir/library/",
+    "https://finance.logmi.jp/articles/384813",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260514532091/",
+    "https://www.sanwayuka.co.jp/ir/",
+    "https://www.sanwa-hldgs.co.jp/ir/library/document.html",
+    "https://note.com/good_abelia4787/n/ndaea33fc6276",
+    "https://kitaishihon.com/company/4125/top",
+    "https://edinetdb.jp/company/E37388/presentations/",
+    "https://www.buffett-code.com/company/4125/library"
+   ]
+  },
+  {
+   "query": "三和油化工業 事業系統図",
+   "results": [
+    "https://www.sanwayuka.co.jp/company/outline/",
+    "https://kitaishihon.com/company/4125/business",
+    "https://www.jri.co.jp/file.jsp?id=103392",
+    "https://edinetdb.jp/company/E37157/text",
+    "https://www.sanwayuka.co.jp/Portals/0/pdf/ir/%E7%B5%B1%E5%90%88%E5%A0%B1%E5%91%8A%E6%9B%B82025.pdf",
+    "https://job.mynavi.jp/28/pc/search/corp252486/outline.html",
+    "https://pr.mono.ipros.com/sanwayuka/product/detail/2000430494/",
+    "https://finance.logmi.jp/articles/384813",
+    "https://ja.wikipedia.org/wiki/%E4%B8%89%E5%92%8C%E6%B2%B9%E5%8C%96%E5%B7%A5%E6%A5%AD",
+    "https://ja.wikipedia.org/wiki/三和油化工業"
+   ]
+  },
+  {
+   "query": "三和油化工業 社長 インタビュー",
+   "results": [
+    "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/122500612/",
+    "https://www.sanwayuka.co.jp/company/outline/",
+    "https://invest-n.jp/ir/6554/",
+    "https://ja.wikipedia.org/wiki/%E4%B8%89%E5%92%8C%E6%B2%B9%E5%8C%96%E5%B7%A5%E6%A5%AD",
+    "https://mirakin.jp/seizou/kagakuhin/sanwayuka2/",
+    "https://shikiho.toyokeizai.net/stocks/4125/corporate",
+    "https://www.sensus.co.jp/voice/455",
+    "https://www.youtube.com/watch?v=XFqt3w0lcLg",
+    "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/121200489/",
+    "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/011100109/"
+   ]
+  }
+ ],
+ "missing": {}
+}

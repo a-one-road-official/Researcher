@@ -1,0 +1,1225 @@
+{
+ "name": "水戸証券",
+ "aliases": [],
+ "context": "証券コード8622／証券、商品先物取引業／プライム（内国株式）／2026.03期 売上高16,070百万円 営業利益率19.6%",
+ "researched_at": "2026-11-02T18:06:33.368353+00:00",
+ "official_url": "https://www.mito.co.jp/",
+ "identified_by": "search:yahoo_jp:水戸証券",
+ "profile": {
+  "売上高": [
+   {
+    "label": "営業収益",
+    "value": "14,554 13,983 16,074",
+    "url": "https://www.mito.co.jp/corporate/ir/highlight.html",
+    "pass": 1
+   },
+   {
+    "label": "営業収益",
+    "value": "3,319 4,025 4,389 4,340 5,686 4,111",
+    "url": "https://www.mito.co.jp/corporate/ir/highlight.html",
+    "pass": 1
+   }
+  ],
+  "設立": [
+   {
+    "label": "会社が設立されたのはいつですか?",
+    "value": "設立は1921年4月です。詳しくは こちら をご覧ください。",
+    "url": "https://www.mito.co.jp/corporate/ir/faq/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員は何人ですか？",
+    "value": "2026年3月31日現在で753名です。",
+    "url": "https://www.mito.co.jp/corporate/ir/faq/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "その他のサービス",
+    "url": "https://www.mito.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客さまのニーズに合わせた多彩な商品をご用意しております",
+    "url": "https://www.mito.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "MITOでNISAお取引サービス",
+    "url": "https://www.mito.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新規口座開設特典サービス",
+    "url": "https://www.mito.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "移管手数料キャッシュバックサービス",
+    "url": "https://www.mito.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "退職金運用支援サービス",
+    "url": "https://www.mito.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "営業店に口座をお持ちのお客さまの各種事務手続き、入出金の受付、資料請求、取扱商品の内容等に関するお問い合わせや投資相談につきましては、各営業店でお受けいたします",
+    "url": "https://www.mito.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "（ご注文や株価・残高照会、商品の詳しいご説明、担当者への連絡、資産運用のご相談はお受けできません",
+    "url": "https://www.mito.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "特定非営利活動法人証券・金融商品あっせん相談センター",
+    "url": "https://www.mito.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "特定非営利活動法人証券・金融商品あっせん相談センター",
+    "url": "https://www.mito.co.jp/inquiry/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年4月に始まった第七次中期経営計画では、「人と組織の力で、お客さまからの信頼を深め、持続的に成長する企業へ」をテーマに、価値創造・経営基盤・資本政策それぞれの面から目標達成に取り組み、経営ビジョンが目指す「金融サービスを通じて価値を創造し、お客さまと地域社会の豊かな未来の実現に貢献する」を実現してまいります",
+    "url": "https://www.mito.co.jp/corporate/company/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "水戸コンピュータ・サービス(株)を設立",
+    "url": "https://www.mito.co.jp/corporate/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "水戸コンピュータ・サービス(株)の株式の一部を(株)日立製作所に譲渡、持株比率33％となる",
+    "url": "https://www.mito.co.jp/corporate/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "水戸コンピュータ・サービス(株)商号を日本金融情報システム(株)に変更",
+    "url": "https://www.mito.co.jp/corporate/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品取引法に基づく金融商品取引業者として登録",
+    "url": "https://www.mito.co.jp/corporate/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品取引法に基づく投資顧問業者として登録",
+    "url": "https://www.mito.co.jp/corporate/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品取引法に基づく投資助言・代理業者として登録",
+    "url": "https://www.mito.co.jp/corporate/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "LINEサービスに係るご留意事項",
+    "url": "https://www.mito.co.jp/202610_LINE_3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◆本サービスの送信内容は送信時点のものであり、予告なしに変更または廃止される場合がございますので、予めご了承く",
+    "url": "https://www.mito.co.jp/202610_LINE_3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◆本サービスのご利用にあたっては、お客さまの通信機器にLINEアプリのインストールが必要となります",
+    "url": "https://www.mito.co.jp/202610_LINE_3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "客さまの負担および責任において行い、本サービスのご利用に適した環境に維持するものとします",
+    "url": "https://www.mito.co.jp/202610_LINE_3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◆本サービスのご利用にあたっては、LINEアプリ、ならびにスマートフォン端末は厳重に管理いただきますようお願いいたします",
+    "url": "https://www.mito.co.jp/202610_LINE_3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◆当社は、いつでも本サービスの提供の中止もしくは終了、またはその内容の変更をすることができるものとします",
+    "url": "https://www.mito.co.jp/202610_LINE_3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【サービス内容について】",
+    "url": "https://www.mito.co.jp/202610_LINE_3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・本サービスご利用にあたって生じた不具合等",
+    "url": "https://www.mito.co.jp/202610_LINE_3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・本サービス提供の遅延、または不能",
+    "url": "https://www.mito.co.jp/202610_LINE_3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◆本サービスに関連して起きたいかなる紛争もお客さまが解決し、当社はその責任を負いません",
+    "url": "https://www.mito.co.jp/202610_LINE_3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社が本サービスの提供に関連してお客さまが被った損害に対して責任を負う場合においても、当社は逸失利益、拡大損",
+    "url": "https://www.mito.co.jp/202610_LINE_3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金融商品等にご投資いただく際には、所定の手数料や諸経費等をご負担いただく場合があります",
+    "url": "https://www.mito.co.jp/202610_LINE_3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、各商品等には価",
+    "url": "https://www.mito.co.jp/202610_LINE_3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お取引にあたっては、当該商品等の契約締結前交付書面、目論見書",
+    "url": "https://www.mito.co.jp/202610_LINE_3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当中間会計期間の「特別損失」は「金融商品取引責任準備金繰入れ」が11百万円(前年同期実",
+    "url": "https://www.mito.co.jp/corporate/ir/cd87554dad7b7b9c01caf37e054567fe523d04a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は金融商品取引業を営んでおり、当社の業績は、株式市況等の動向により大きく変動する可",
+    "url": "https://www.mito.co.jp/corporate/ir/cd87554dad7b7b9c01caf37e054567fe523d04a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "トレーディング商品 212 194",
+    "url": "https://www.mito.co.jp/corporate/ir/cd87554dad7b7b9c01caf37e054567fe523d04a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品有価証券等 212 193",
+    "url": "https://www.mito.co.jp/corporate/ir/cd87554dad7b7b9c01caf37e054567fe523d04a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金融商品取引責任準備金 96 108",
+    "url": "https://www.mito.co.jp/corporate/ir/cd87554dad7b7b9c01caf37e054567fe523d04a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金融商品取引責任準備金戻入 0 -",
+    "url": "https://www.mito.co.jp/corporate/ir/cd87554dad7b7b9c01caf37e054567fe523d04a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金融商品取引責任準備金繰入れ - 11",
+    "url": "https://www.mito.co.jp/corporate/ir/cd87554dad7b7b9c01caf37e054567fe523d04a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金融商品取引責任準備金の増減額（△は減少） △0 11",
+    "url": "https://www.mito.co.jp/corporate/ir/cd87554dad7b7b9c01caf37e054567fe523d04a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "トレーディング商品の増減額 △113 △48",
+    "url": "https://www.mito.co.jp/corporate/ir/cd87554dad7b7b9c01caf37e054567fe523d04a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "② 商品別内訳",
+    "url": "https://www.mito.co.jp/corporate/ir/cd87554dad7b7b9c01caf37e054567fe523d04a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金融商品取引責任準備金等 96 108",
+    "url": "https://www.mito.co.jp/corporate/ir/cd87554dad7b7b9c01caf37e054567fe523d04a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金融商品取引責任準備金戻入 ― ― △0 ― ―",
+    "url": "https://www.mito.co.jp/corporate/ir/cd87554dad7b7b9c01caf37e054567fe523d04a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金融商品取引責任準備金繰入れ ― ― 2 8 3",
+    "url": "https://www.mito.co.jp/corporate/ir/cd87554dad7b7b9c01caf37e054567fe523d04a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※本表は、金融商品取引法第46条の6第3項に規定された開示資料です",
+    "url": "https://www.mito.co.jp/corporate/ir/5eea65cbce9b7a49941eebc4d2c1c82ac883c5a7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金融商品取引業者 関東財務局長（金商）第181号",
+    "url": "https://www.mito.co.jp/policy/pdf/important_information.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "一定の投資性金融商品の販売・販売仲介に係る",
+    "url": "https://www.mito.co.jp/policy/pdf/important_information.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※水戸ネットでは取扱商品が異なる場合があります",
+    "url": "https://www.mito.co.jp/policy/pdf/important_information.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その他の上場商品 （CB、インフラファンドなど）",
+    "url": "https://www.mito.co.jp/policy/pdf/important_information.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これら以外の商品",
+    "url": "https://www.mito.co.jp/policy/pdf/important_information.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・当社は、商品選定にあたってはお客さまの知識、経験、財産の状況、投資目的およびライフプラ",
+    "url": "https://www.mito.co.jp/policy/pdf/important_information.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ンを十分に把握したうえで最適な商品・サービスをご提案いたします",
+    "url": "https://www.mito.co.jp/policy/pdf/important_information.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・当社の金融商品ラインナップは、投資初心者向けの分かりやすい商品から複雑な商品まで、お客",
+    "url": "https://www.mito.co.jp/policy/pdf/important_information.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "さまのニーズやリスク許容度にご対応できるよう、様々な商品を取り揃えております",
+    "url": "https://www.mito.co.jp/policy/pdf/important_information.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・当社は、資産運用アドバイザーとしてお客さまの最善の利益を第一に考え、商品販売後も十分な",
+    "url": "https://www.mito.co.jp/policy/pdf/important_information.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金融庁金融サービス利用者相談室 （03-5251-6811）",
+    "url": "https://www.mito.co.jp/policy/pdf/important_information.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "加入協会共通の相談窓口 0120-64-5005証券・金融商品あっせん相談センター",
+    "url": "https://www.mito.co.jp/policy/pdf/important_information.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1. 当社の基本情報 （当社はお客さまに金融商品の販売をする者です）",
+    "url": "https://www.mito.co.jp/policy/pdf/important_information.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2. 取扱商品（当社がお客さまに提供できる金融商品の種類は次のとおりです）",
+    "url": "https://www.mito.co.jp/policy/pdf/important_information.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3. 商品ラインナップの考え方（商品選定のコンセプトや留意点は次のとおりです）",
+    "url": "https://www.mito.co.jp/policy/pdf/important_information.pdf",
+    "pass": 2
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "口座開設のご案内、取引や手数料についてご案内いたします",
+    "url": "https://www.mito.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "手数料について",
+    "url": "https://www.mito.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "移管手数料キャッシュバックサービス",
+    "url": "https://www.mito.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "営業収益・受入手数料の推移",
+    "url": "https://www.mito.co.jp/corporate/ir/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、買取または買増に係る手数料はいただきません",
+    "url": "https://www.mito.co.jp/corporate/ir/ir_memo.html",
+    "pass": 1
+   },
+   {
+    "quote": "その際には、証券会社に対して手数料が発生することがあります",
+    "url": "https://www.mito.co.jp/corporate/ir/ir_memo.html",
+    "pass": 1
+   },
+   {
+    "quote": "【ご投資にかかる手数料等およびリスクについて】",
+    "url": "https://www.mito.co.jp/202610_LINE_3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金融商品等にご投資いただく際には、所定の手数料や諸経費等をご負担いただく場合があります",
+    "url": "https://www.mito.co.jp/202610_LINE_3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（１）受入手数料 …………………………………………………………………………………………………10",
+    "url": "https://www.mito.co.jp/corporate/ir/cd87554dad7b7b9c01caf37e054567fe523d04a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① 受入手数料",
+    "url": "https://www.mito.co.jp/corporate/ir/cd87554dad7b7b9c01caf37e054567fe523d04a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当中間会計期間の「受入手数料」の合計は、76億37百万円(前年同期比 34.7％増)となりまし",
+    "url": "https://www.mito.co.jp/corporate/ir/cd87554dad7b7b9c01caf37e054567fe523d04a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "イ 委託手数料",
+    "url": "https://www.mito.co.jp/corporate/ir/cd87554dad7b7b9c01caf37e054567fe523d04a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「委託手数料」は、29億14百万円(同 29.4％増)となりました",
+    "url": "https://www.mito.co.jp/corporate/ir/cd87554dad7b7b9c01caf37e054567fe523d04a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "数料が17億30百万円(同 29.9％増)、米国株の委託手数料が11億67百万円(同 29.1％増)と増加し",
+    "url": "https://www.mito.co.jp/corporate/ir/cd87554dad7b7b9c01caf37e054567fe523d04a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、受益証券の委託手数料は16百万円(同 11.7％増)となりました",
+    "url": "https://www.mito.co.jp/corporate/ir/cd87554dad7b7b9c01caf37e054567fe523d04a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ロ 引受け・売出し・特定投資家向け売付け勧誘等の手数料",
+    "url": "https://www.mito.co.jp/corporate/ir/cd87554dad7b7b9c01caf37e054567fe523d04a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「引受け・売出し・特定投資家向け売付け勧誘等の手数料」は、１億22百万円(同 287.0％増)",
+    "url": "https://www.mito.co.jp/corporate/ir/cd87554dad7b7b9c01caf37e054567fe523d04a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ハ 募集・売出し・特定投資家向け売付け勧誘等の取扱手数料",
+    "url": "https://www.mito.co.jp/corporate/ir/cd87554dad7b7b9c01caf37e054567fe523d04a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主に投資信託の販売手数料で構成される「募集・売出し・特定投資家向け売付け勧誘等の取扱",
+    "url": "https://www.mito.co.jp/corporate/ir/cd87554dad7b7b9c01caf37e054567fe523d04a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "手数料」は、９億11百万円(同 30.7％増)となりました",
+    "url": "https://www.mito.co.jp/corporate/ir/cd87554dad7b7b9c01caf37e054567fe523d04a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ニ その他の受入手数料",
+    "url": "https://www.mito.co.jp/corporate/ir/cd87554dad7b7b9c01caf37e054567fe523d04a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「その他の受入手数料」は、投資信託の代行手数料やファンドラップ報酬の増加等により36億",
+    "url": "https://www.mito.co.jp/corporate/ir/cd87554dad7b7b9c01caf37e054567fe523d04a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "受入手数料 5,670 7,637",
+    "url": "https://www.mito.co.jp/corporate/ir/cd87554dad7b7b9c01caf37e054567fe523d04a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "委託手数料 2,251 2,914",
+    "url": "https://www.mito.co.jp/corporate/ir/cd87554dad7b7b9c01caf37e054567fe523d04a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "等の手数料 31 122",
+    "url": "https://www.mito.co.jp/corporate/ir/cd87554dad7b7b9c01caf37e054567fe523d04a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の取扱手数料 696 911",
+    "url": "https://www.mito.co.jp/corporate/ir/cd87554dad7b7b9c01caf37e054567fe523d04a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その他の受入手数料 2,689 3,688",
+    "url": "https://www.mito.co.jp/corporate/ir/cd87554dad7b7b9c01caf37e054567fe523d04a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（１）受入手数料",
+    "url": "https://www.mito.co.jp/corporate/ir/cd87554dad7b7b9c01caf37e054567fe523d04a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "委託手数料 2,251 2,914 29.4",
+    "url": "https://www.mito.co.jp/corporate/ir/cd87554dad7b7b9c01caf37e054567fe523d04a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売付け勧誘等の手数料 31 122 287.0",
+    "url": "https://www.mito.co.jp/corporate/ir/cd87554dad7b7b9c01caf37e054567fe523d04a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売付け勧誘等の取扱手数料 696 911 30.7",
+    "url": "https://www.mito.co.jp/corporate/ir/cd87554dad7b7b9c01caf37e054567fe523d04a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その他の受入手数料 2,689 3,688 37.1",
+    "url": "https://www.mito.co.jp/corporate/ir/cd87554dad7b7b9c01caf37e054567fe523d04a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※1その他の受入手数料(受益証券)の内訳",
+    "url": "https://www.mito.co.jp/corporate/ir/cd87554dad7b7b9c01caf37e054567fe523d04a4.pdf",
+    "pass": 2
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年10月30日",
+    "url": "https://www.mito.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月20日",
+    "url": "https://www.mito.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月26日",
+    "url": "https://www.mito.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月23日",
+    "url": "https://www.mito.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度株主優待制度における寄付実施のお知らせ",
+    "url": "https://www.mito.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月22日",
+    "url": "https://www.mito.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月02日",
+    "url": "https://www.mito.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月29日",
+    "url": "https://www.mito.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第２四半期（中間期）決算短信〔日本基準〕(非連結)",
+    "url": "https://www.mito.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月02日",
+    "url": "https://www.mito.co.jp/corporate/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月29日",
+    "url": "https://www.mito.co.jp/corporate/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第２四半期（中間期）決算短信〔日本基準〕(非連結)",
+    "url": "https://www.mito.co.jp/corporate/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期",
+    "url": "https://www.mito.co.jp/corporate/ir/data/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.mito.co.jp/corporate/ir/data/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.mito.co.jp/corporate/ir/data/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.mito.co.jp/corporate/ir/data/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://www.mito.co.jp/corporate/ir/data/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://www.mito.co.jp/corporate/ir/data/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期",
+    "url": "https://www.mito.co.jp/corporate/ir/data/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期 決算説明会資料",
+    "url": "https://www.mito.co.jp/corporate/ir/data/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月期",
+    "url": "https://www.mito.co.jp/corporate/ir/data/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月期 決算説明会資料",
+    "url": "https://www.mito.co.jp/corporate/ir/data/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年3月期 （平成31年3月期）",
+    "url": "https://www.mito.co.jp/corporate/ir/data/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年3月期 （平成30年3月期）",
+    "url": "https://www.mito.co.jp/corporate/ir/data/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年3月期 （平成29年3月期）",
+    "url": "https://www.mito.co.jp/corporate/ir/data/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度株主優待制度における寄付実施のお知らせ",
+    "url": "https://www.mito.co.jp/corporate/information/2026/10_post-476.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月02日",
+    "url": "https://www.mito.co.jp/corporate/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月29日",
+    "url": "https://www.mito.co.jp/corporate/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月20日",
+    "url": "https://www.mito.co.jp/corporate/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "2027 年３月期第２四半期（中間期）決算速報値に関するお知らせ",
+    "url": "https://www.mito.co.jp/corporate/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月17日",
+    "url": "https://www.mito.co.jp/corporate/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期の中間配当（普通配当および創業105周年記念配当）予定に関するお知らせ",
+    "url": "https://www.mito.co.jp/corporate/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月30日",
+    "url": "https://www.mito.co.jp/corporate/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月21日",
+    "url": "https://www.mito.co.jp/corporate/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期第１四半期決算速報値に関するお知らせ",
+    "url": "https://www.mito.co.jp/corporate/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月18日",
+    "url": "https://www.mito.co.jp/corporate/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月14日",
+    "url": "https://www.mito.co.jp/corporate/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年04月28日",
+    "url": "https://www.mito.co.jp/corporate/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年04月21日",
+    "url": "https://www.mito.co.jp/corporate/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年３月期決算速報値に関するお知らせ",
+    "url": "https://www.mito.co.jp/corporate/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年03月23日",
+    "url": "https://www.mito.co.jp/corporate/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年03月06日",
+    "url": "https://www.mito.co.jp/corporate/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年01月29日",
+    "url": "https://www.mito.co.jp/corporate/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年01月22日",
+    "url": "https://www.mito.co.jp/corporate/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期決算速報値に関するお知らせ（PDF形式：90KB／1ページ）",
+    "url": "https://www.mito.co.jp/corporate/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年10月30日",
+    "url": "https://www.mito.co.jp/corporate/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年10月16日",
+    "url": "https://www.mito.co.jp/corporate/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期第２四半期（中間期）決算速報値に関するお知らせ",
+    "url": "https://www.mito.co.jp/corporate/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年09月18日",
+    "url": "https://www.mito.co.jp/corporate/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年07月30日",
+    "url": "https://www.mito.co.jp/corporate/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年07月17日",
+    "url": "https://www.mito.co.jp/corporate/ir/indication/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期",
+    "url": "https://www.mito.co.jp/corporate/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月29日",
+    "url": "https://www.mito.co.jp/corporate/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月7日",
+    "url": "https://www.mito.co.jp/corporate/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月30日",
+    "url": "https://www.mito.co.jp/corporate/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.mito.co.jp/corporate/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月28日",
+    "url": "https://www.mito.co.jp/corporate/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月13日",
+    "url": "https://www.mito.co.jp/corporate/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年1月29日",
+    "url": "https://www.mito.co.jp/corporate/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年10月30日",
+    "url": "https://www.mito.co.jp/corporate/ir/earnings/",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "「水戸証券は、顧客・株主・社員にBESTをつくす企業でありたい」です",
+    "url": "https://www.mito.co.jp/corporate/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "買取または買増請求をする際には、お取引先の証券会社等（口座管理機関）にお問い合わせのうえ、お手続きください",
+    "url": "https://www.mito.co.jp/corporate/ir/ir_memo.html",
+    "pass": 1
+   },
+   {
+    "quote": "億24百万円、「募集等払込金の増減額」が３億62百万円、「顧客分別金信託の増減額」が２億93",
+    "url": "https://www.mito.co.jp/corporate/ir/cd87554dad7b7b9c01caf37e054567fe523d04a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客分別金信託の増減額（△は増加） △3,702 293",
+    "url": "https://www.mito.co.jp/corporate/ir/cd87554dad7b7b9c01caf37e054567fe523d04a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取引先リスク相当額 446 552",
+    "url": "https://www.mito.co.jp/corporate/ir/cd87554dad7b7b9c01caf37e054567fe523d04a4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取引先リスク相当額",
+    "url": "https://www.mito.co.jp/corporate/ir/5eea65cbce9b7a49941eebc4d2c1c82ac883c5a7.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金融庁金融サービス利用者相談室 （03-5251-6811）",
+    "url": "https://www.mito.co.jp/policy/pdf/important_information.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "b.当社を主要な取引先とする者又はその業務執行者",
+    "url": "https://kitaishihon.com/company/8622/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "c.当社の主要な取引先又はその業務執行者",
+    "url": "https://kitaishihon.com/company/8622/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/8622/board-of-director",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "水戸証券の強み",
+    "url": "https://www.mito.co.jp/corporate/company/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "水戸証券の強み",
+    "url": "https://www.mito.co.jp/corporate/company/history.html",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "経営ビジョン | 会社情報 | 水戸証券 株式会社 — 経営ビジョン | 会社情報 | 水戸証券 株式会社 水戸証券 https://www.mito.co.jp > company > securities_vision",
+    "url": "https://www.mito.co.jp/corporate/company/securities_vision.html",
+    "pass": 3
+   },
+   {
+    "quote": "水戸証券 の強み | 会社情報 — 水戸証券 の強み | 会社情報 水戸証券 https://www.mito.co.jp > corporate > company > strong",
+    "url": "https://www.mito.co.jp/corporate/company/strong.html",
+    "pass": 3
+   },
+   {
+    "quote": "業績の概況 | IR情報 | 水戸証券 株式会社 — 業績の概況 | IR情報 | 水戸証券 株式会社 水戸証券 https://www.mito.co.jp > corporate > highlight",
+    "url": "https://www.mito.co.jp/corporate/ir/highlight.html",
+    "pass": 3
+   },
+   {
+    "quote": "理念・ビジョン｜ 水戸証券 新卒採用サイト — 理念・ビジョン｜ 水戸証券 新卒採用サイト 水戸証券 https://sp.mito.co.jp > recruit > fresh > rinen",
+    "url": "https://sp.mito.co.jp/recruit/fresh/rinen.html",
+    "pass": 3
+   },
+   {
+    "quote": "一般事業主行動計画 | 会社案内 - 水戸証券 — 一般事業主行動計画 | 会社案内 - 水戸証券 水戸証券 https://www.mito.co.jp > company > worklifebalance",
+    "url": "https://www.mito.co.jp/corporate/company/worklifebalance.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 等の 資料 | IR情報 | 水戸証券 株式会社 — 決算説明 等の 資料 | IR情報 | 水戸証券 株式会社 水戸証券 https://www.mito.co.jp > corporate > data",
+    "url": "https://www.mito.co.jp/corporate/ir/data/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 | 水戸証券 株式会社 — IR情報 | 水戸証券 株式会社 水戸証券 https://www.mito.co.jp > corporate",
+    "url": "https://www.mito.co.jp/corporate/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "決算 情報 | 水戸証券 株式会社 — 決算 情報 | 水戸証券 株式会社 水戸証券 https://www.mito.co.jp > corporate > earnings",
+    "url": "https://www.mito.co.jp/corporate/ir/earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "水戸証券 について | 水戸証券 株式会社 — 水戸証券 について | 水戸証券 株式会社 水戸証券 https://www.mito.co.jp > corporate",
+    "url": "https://www.mito.co.jp/corporate/",
+    "pass": 3
+   },
+   {
+    "quote": "ディスクロージャー誌 | IR情報 | 水戸証券 株式会社 — ディスクロージャー誌 | IR情報 | 水戸証券 株式会社 水戸証券 https://www.mito.co.jp > corporate > disclosure",
+    "url": "https://www.mito.co.jp/corporate/ir/disclosure.html",
+    "pass": 3
+   },
+   {
+    "quote": "組織図 | 会社情報 | 水戸証券 株式会社 — 組織図 | 会社情報 | 水戸証券 株式会社 水戸証券 https://www.mito.co.jp > company > organization",
+    "url": "https://www.mito.co.jp/corporate/company/organization.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報 | 水戸証券 について — 会社情報 | 水戸証券 について 水戸証券 https://www.mito.co.jp > corporate > company",
+    "url": "https://www.mito.co.jp/corporate/company/",
+    "pass": 3
+   },
+   {
+    "quote": "動画ギャラリー | 会社情報 | 水戸証券 株式会社 — 動画ギャラリー | 会社情報 | 水戸証券 株式会社 水戸証券 https://www.mito.co.jp > corporate > company > movie",
+    "url": "https://www.mito.co.jp/corporate/company/movie.html",
+    "pass": 3
+   },
+   {
+    "quote": "社長 ごあいさつ | 会社情報 | 水戸証券 株式会社 — 社長 ごあいさつ | 会社情報 | 水戸証券 株式会社 水戸証券 https://www.mito.co.jp > corporate > company > message",
+    "url": "https://www.mito.co.jp/corporate/company/message.html",
+    "pass": 3
+   },
+   {
+    "quote": "水戸証券 【8622】の 社長 ・役員 - キタイシホン — 水戸証券 【8622】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/8622/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "水戸証券社長 に真殿氏が昇格 30年ぶり交代 - 日本経済新聞 — 水戸証券社長 に真殿氏が昇格 30年ぶり交代 - 日本経済新聞 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXNAS6EE2J01_V10C13A3EE2000/",
+    "pass": 3
+   },
+   {
+    "quote": "水戸証券 - Wikipedia — 水戸証券 - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 水戸証券",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B0%B4%E6%88%B8%E8%A8%BC%E5%88%B8",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.mito.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mito.co.jp/corporate/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mito.co.jp/corporate/ir/data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mito.co.jp/corporate/information/2026/10_post-476.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mito.co.jp/inquiry/inquiry.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mito.co.jp/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mito.co.jp/corporate/ir/indication/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mito.co.jp/corporate/ir/earnings/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mito.co.jp/corporate/ir/securities_report.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mito.co.jp/corporate/ir/highlight.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mito.co.jp/corporate/ir/stock_information.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mito.co.jp/corporate/ir/disclosure.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mito.co.jp/corporate/ir/info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mito.co.jp/corporate/ir/report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mito.co.jp/corporate/ir/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mito.co.jp/corporate/ir/dividend.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mito.co.jp/corporate/ir/investor/benefit.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mito.co.jp/corporate/ir/investor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mito.co.jp/corporate/ir/use/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mito.co.jp/inquiry/ir.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mito.co.jp:443/corporate/ir/report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mito.co.jp/corporate/company/plan.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mito.co.jp/corporate/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mito.co.jp/corporate/ir/ir_memo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mito.co.jp:443/corporate/ir/investor/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.mito.co.jp/f10c7ee7fc2d4e77387c0177d82a652c613d7b9c.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mito.co.jp/202610_LINE_3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mito.co.jp/corporate/ir/73ce0130a7da7e5cdfc9c20da1ae76e7d2cddd78.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mito.co.jp/corporate/ir/cd87554dad7b7b9c01caf37e054567fe523d04a4.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mito.co.jp/corporate/ir/08db4e658001c5d17648469b5f5b4ce3dd7766c8.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mito.co.jp/corporate/ir/5eea65cbce9b7a49941eebc4d2c1c82ac883c5a7.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mito.co.jp/corporate/ir/da22121977eac4f6622f527246e15c76ae270614.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mito.co.jp/policy/pdf/important_information.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://kitaishihon.com/company/8622/board-of-director",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "水戸証券",
+   "results": [
+    "https://www.mito.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E6%B0%B4%E6%88%B8%E8%A8%BC%E5%88%B8",
+    "https://www.nikkei.com/nkd/company/?scode=8622",
+    "https://awc.wealthadvisor.jp/webasp/mito/",
+    "https://kabutan.jp/stock/?code=8622",
+    "https://ja.wikipedia.org/wiki/水戸証券",
+    "https://finance.yahoo.co.jp/quote/8622.T",
+    "https://www.mito.co.jp/corporate/company/outline.html",
+    "https://finance.yahoo.co.jp/brokers-hikaku/item/79",
+    "https://trade.mito.co.jp/"
+   ]
+  },
+  {
+   "query": "水戸証券 ビジネスモデル",
+   "results": [
+    "https://www.mito.co.jp/corporate/company/securities_vision.html",
+    "https://www.mito.co.jp/corporate/company/strong.html",
+    "https://www.mito.co.jp/corporate/ir/highlight.html",
+    "https://sp.mito.co.jp/recruit/fresh/rinen.html",
+    "https://www.mito.co.jp/corporate/company/worklifebalance.html",
+    "https://sp.mito.co.jp/recruit/fresh/business.html",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000Frpx",
+    "https://www.mito.co.jp/corporate/company/movie.html",
+    "https://www.mito.co.jp/policy/fd.html",
+    "https://ja.wikipedia.org/wiki/水戸証券"
+   ]
+  },
+  {
+   "query": "水戸証券 決算説明資料",
+   "results": [
+    "https://www.mito.co.jp/corporate/ir/data/",
+    "https://www.mito.co.jp/corporate/ir/",
+    "https://www.mito.co.jp/corporate/ir/earnings/",
+    "https://www.mito.co.jp/corporate/",
+    "https://www.mito.co.jp/corporate/ir/disclosure.html",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=8622",
+    "https://www.mito.co.jp/corporate/ir/highlight.html",
+    "https://sp.mito.co.jp/corporate/ir/pdf/ir/data/2026.pdf",
+    "https://edinetdb.jp/company/E03762/presentations/",
+    "https://treelazy.com/stock-jp/8622/conference"
+   ]
+  },
+  {
+   "query": "水戸証券 事業系統図",
+   "results": [
+    "https://www.mito.co.jp/corporate/company/organization.html",
+    "https://www.mito.co.jp/corporate/",
+    "https://www.mito.co.jp/corporate/company/",
+    "https://www.mito.co.jp/corporate/company/movie.html",
+    "https://sp.mito.co.jp/recruit/fresh/rinen.html",
+    "https://www.mito.co.jp/corporate/company/outline.html",
+    "https://www.mito.co.jp/corporate/ir/",
+    "https://www.mito.co.jp/corporate/ir/governance/",
+    "https://ja.wikipedia.org/wiki/%E6%B0%B4%E6%88%B8%E8%A8%BC%E5%88%B8",
+    "https://kitaishihon.com/company/8622/business"
+   ]
+  },
+  {
+   "query": "水戸証券 社長 インタビュー",
+   "results": [
+    "https://www.mito.co.jp/corporate/company/message.html",
+    "https://kitaishihon.com/company/8622/board-of-director",
+    "https://www.mito.co.jp/corporate/company/",
+    "https://www.nikkei.com/article/DGXNAS6EE2J01_V10C13A3EE2000/",
+    "https://ja.wikipedia.org/wiki/%E6%B0%B4%E6%88%B8%E8%A8%BC%E5%88%B8",
+    "https://jobtalk.jp/companies/3376/answers?question_codes=president",
+    "https://www.wowtalk.jp/case/mito/",
+    "https://www.nikkan.co.jp/articles/view/462400",
+    "https://kigyo-scope.jp/company/8622/ceo/",
+    "https://biz.ibarakinews.jp/NewYearInterview2021?c=081"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部1頁・検索5回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部1頁・検索5回）",
+  "どうやって売るか": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部1頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部1頁・検索5回）"
+ }
+}

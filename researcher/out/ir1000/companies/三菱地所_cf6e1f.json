@@ -1,0 +1,1648 @@
+{
+ "name": "三菱地所",
+ "aliases": [],
+ "context": "証券コード8802／不動産業／プライム（内国株式）／2026.03期 売上高1,746,148百万円 営業利益率18.9%",
+ "researched_at": "2026-11-02T18:11:30.281190+00:00",
+ "official_url": "https://www.mec.co.jp/",
+ "identified_by": "search:yahoo_jp:三菱地所",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1937年5月7日",
+    "url": "https://www.mec.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "label": "当社設立",
+    "value": "資本金1,500万円三菱合資会社より「丸ノ内ビル」並びに同敷地の所有権及び丸の内地区ほかの土地建物営業権を譲り受ける",
+    "url": "https://www.mec.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "label": "会社の創立はいつですか？",
+    "value": "1937年5月です。",
+    "url": "https://www.mec.co.jp/ir/faq/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "単体：1,209名  連結：11,659名",
+    "url": "https://www.mec.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数は何名ですか？",
+    "value": "2026年3月31日現在、単体：1,209名、連結：11,659名です。",
+    "url": "https://www.mec.co.jp/ir/faq/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "不動産サービス事業",
+    "url": "https://www.mec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "事業ソリューション",
+    "url": "https://www.mec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "誕生の地・東京丸の内を中心に全国へ拡大し続ける三菱地所の主力事業",
+    "url": "https://www.mec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "オフィスビルの開発・運営管理を行う、当社の主力事業です",
+    "url": "https://www.mec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産サービス事業",
+    "url": "https://www.mec.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "事業ソリューション",
+    "url": "https://www.mec.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "三菱地所リアルエステートサービス",
+    "url": "https://www.mec.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "リアルエステートサービス",
+    "url": "https://www.mec.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "アフターサービスに関するお問合せ",
+    "url": "https://www.mec.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "・個別の商品、サービス等に対する不具合やご意見",
+    "url": "https://www.mec.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "・商品紹介や勧誘",
+    "url": "https://www.mec.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産サービス事業",
+    "url": "https://www.mec.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "事業ソリューション",
+    "url": "https://www.mec.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産サービス事業",
+    "url": "https://www.mec.co.jp/company/director/",
+    "pass": 1
+   },
+   {
+    "quote": "事業ソリューション",
+    "url": "https://www.mec.co.jp/company/director/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産サービス事業",
+    "url": "https://www.mec.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "事業ソリューション",
+    "url": "https://www.mec.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "もちろんオフィスだけでなく、商業施設やホテル、サービスアパートメントといった多様な施設の整備が進んでいます",
+    "url": "https://www.mec.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "三菱地所住宅販売株式会社を設立（2007年4月三菱地所リアルエステートサービス株式会社に商号変更）",
+    "url": "https://www.mec.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "三菱地所レジデンス株式会社発足（会社分割の手法により、当社、三菱地所リアルエステートサービス株式会社及び藤和不動産株式会社の住宅分譲事業を統合）",
+    "url": "https://www.mec.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産サービス事業",
+    "url": "https://www.mec.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "事業ソリューション",
+    "url": "https://www.mec.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "東京・丸の内を中心に国内主要都市でオフィスビルの開発と運営管理を行う当社の主力事業",
+    "url": "https://www.mec.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "クロスボーダーの多様な運用ニーズに対応する、業界トップクラスの投資マネジメントサービスをグローバルに提供",
+    "url": "https://www.mec.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "三菱地所グループの「あらゆる事業・サービス」や時には「外部のパートナー企業様のリソース」を組み合わせながら、お客様の課題に対して最適なソリューションを提供します",
+    "url": "https://www.mec.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "Sudirman」、日本のおもてなし精神に根差したサービスを提供する分譲型サービスアパートメント・ホテル開発プロジェクト、インドネシア初の大規模ラグジュアリーアウトレットモール事業「The",
+    "url": "https://www.mec.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "低炭素社会・循環型社会の形成を目指した第6住区では、「コミュニティ都市OS」と連携した地域モビリティサービスや配送・生活利便サービスのほか、次世代型高齢者施設や省エネルギーサービスの提供などを行います",
+    "url": "https://www.mec.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産サービス事業",
+    "url": "https://www.mec.co.jp/service/airport/",
+    "pass": 1
+   },
+   {
+    "quote": "事業ソリューション",
+    "url": "https://www.mec.co.jp/service/airport/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産サービス事業",
+    "url": "https://www.mec.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "事業ソリューション",
+    "url": "https://www.mec.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産サービス事業",
+    "url": "https://www.mec.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "事業ソリューション",
+    "url": "https://www.mec.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産サービス事業",
+    "url": "https://www.mec.co.jp/ir/plan2030/",
+    "pass": 1
+   },
+   {
+    "quote": "事業ソリューション",
+    "url": "https://www.mec.co.jp/ir/plan2030/",
+    "pass": 1
+   },
+   {
+    "quote": "社会課題を背景とした潜在的ニーズに対し、BtoCやBtoBtoCに着目したサービスやコンテンツの提供などの新たな事業を展開し収益機会を獲得、2030年に向けて事業利益を250～300億円程度増加させる",
+    "url": "https://www.mec.co.jp/ir/plan2030/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産サービス事業",
+    "url": "https://www.mec.co.jp/ir/annual/",
+    "pass": 1
+   },
+   {
+    "quote": "事業ソリューション",
+    "url": "https://www.mec.co.jp/ir/annual/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産サービス事業",
+    "url": "https://www.mec.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "事業ソリューション",
+    "url": "https://www.mec.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産サービス事業",
+    "url": "https://www.mec.co.jp/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "事業ソリューション",
+    "url": "https://www.mec.co.jp/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産サービス事業",
+    "url": "https://www.mec.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "事業ソリューション",
+    "url": "https://www.mec.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産サービス事業",
+    "url": "https://www.mec.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "事業ソリューション",
+    "url": "https://www.mec.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産サービス事業",
+    "url": "https://www.mec.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "事業ソリューション",
+    "url": "https://www.mec.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産サービス事業",
+    "url": "https://www.mec.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "事業ソリューション",
+    "url": "https://www.mec.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産サービス事業",
+    "url": "https://www.mec.co.jp/ir/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "事業ソリューション",
+    "url": "https://www.mec.co.jp/ir/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "三菱地所グループは、株主・投資家の皆さまの投資判断に影響を与える決定事実、発生事実、決算情報等の重要な情報の開示について、東京証券取引所ほか各証券取引所が有価証券上場規程等において定める基準（以下「適時開示基準」と言います）及び金融商品取引法第二十七条の三十六（以下、「フェア・ディスクロージャールール」と言います）に則り、情報開示を行います",
+    "url": "https://www.mec.co.jp/ir/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産サービス事業",
+    "url": "https://www.mec.co.jp/ir/legal/",
+    "pass": 1
+   },
+   {
+    "quote": "事業ソリューション",
+    "url": "https://www.mec.co.jp/ir/legal/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産サービス事業",
+    "url": "https://www.mec.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "事業ソリューション",
+    "url": "https://www.mec.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "主な連結子会社は、三菱地所レジデンス（株）、三菱地所リアルエステートサービス（株）、三菱地所ホーム（株）、（株）三菱地所設計、",
+    "url": "https://www.mec.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "尚、四半期報告書については、金融商品取引法施行に伴う規則改正により平成19年度以前は「半期報告書」を、平成20年度以降は「四半期報告書」を掲載しています",
+    "url": "https://www.mec.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産サービス事業",
+    "url": "https://www.mec.co.jp/ir/public_notice/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://www.mec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://www.mec.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗出店をお考えの方",
+    "url": "https://www.mec.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "・商品紹介や勧誘",
+    "url": "https://www.mec.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://www.mec.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://www.mec.co.jp/company/director/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://www.mec.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "『丸ビル』のオープン以前と比べ、店舗数と休日の歩行者数はそれぞれ約3倍にものぼり、「月曜から金曜の街」と呼ばれた丸の内エリアに、新たな人の流れや新たなビジネスの流れができあがっていったのです",
+    "url": "https://www.mec.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "指名委員会等設置会社へ移行",
+    "url": "https://www.mec.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介 | 三菱地所",
+    "url": "https://www.mec.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://www.mec.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "変化の激しい時代の中で、未来に向けて対応していくために、当社は「事業パートナー」として「お客様の課題解決」や「お客様との協業」を推進しています",
+    "url": "https://www.mec.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "三菱地所グループの「あらゆる事業・サービス」や時には「外部のパートナー企業様のリソース」を組み合わせながら、お客様の課題に対して最適なソリューションを提供します",
+    "url": "https://www.mec.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "「独自性・競争力のあるコンテンツ・ノウハウを持ったパートナー企業様」と三菱地所グループ各事業との協業・マッチングを図ることにより、新たな事業機会・新たな価値の創出を目指します",
+    "url": "https://www.mec.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "現在は現地パートナーと共同で首都ジャカルタ特別州における最大規模の再開発「Oasis",
+    "url": "https://www.mec.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "今後も中長期的な経済成長が見込まれるインドネシアにおいて、現地パートナーとのリレーションを強化し、プレゼンスをさらに高めていくことはもちろん、三菱地所グループの「デベロッパーマインド」を軸に国内外で蓄積した開発ノウハウや多様なネットワークを活かし、海外事業全体で更なる成長・挑戦を続けてまいります",
+    "url": "https://www.mec.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "郊外型住宅団地の社会課題解決に向け、仙台市やパートナー企業、住民主体のタウンマネジメント組織（泉パークタウンLID）とともに先進的技術の導入やタウンマネジメントの仕組み構築に向けた実証実験を進めています",
+    "url": "https://www.mec.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://www.mec.co.jp/service/airport/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://www.mec.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://www.mec.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://www.mec.co.jp/ir/plan2030/",
+    "pass": 1
+   },
+   {
+    "quote": "また、現地パートナーとのJV型開発をはじめ、開発事業をより多様化",
+    "url": "https://www.mec.co.jp/ir/plan2030/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://www.mec.co.jp/ir/annual/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://www.mec.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://www.mec.co.jp/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://www.mec.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://www.mec.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "指名委員会等設置会社への移行について",
+    "url": "https://www.mec.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://www.mec.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://www.mec.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://www.mec.co.jp/ir/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://www.mec.co.jp/ir/legal/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://www.mec.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://www.mec.co.jp/ir/public_notice/",
+    "pass": 1
+   },
+   {
+    "quote": "現地パートナーとのJV型開発の推進",
+    "url": "https://www.mec.co.jp/assets/img/plan2030/plan200124.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "パートナーシップ型事業の両輪",
+    "url": "https://www.mec.co.jp/assets/img/plan2030/plan200124.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◆現地パートナーとのJV型開発の推進",
+    "url": "https://www.mec.co.jp/assets/img/plan2030/plan200124.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "現地優良パートナーとの共同事業の両輪で事業を推進",
+    "url": "https://www.mec.co.jp/assets/img/plan2030/plan200124.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "現地優良パートナーとの共同事業の両輪",
+    "url": "https://www.mec.co.jp/assets/img/plan2030/plan200124.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⇒ 現地優良パートナーとの共同事業が中心",
+    "url": "https://www.mec.co.jp/assets/img/plan2030/plan200124.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社Gの膨大なエンドユーザー／不動産接点を起点に、テクノロジーの活用や外部パートナーとの連携",
+    "url": "https://www.mec.co.jp/assets/img/plan2030/plan200124.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部パートナーとの連携・データ活",
+    "url": "https://www.mec.co.jp/assets/img/plan2030/plan200124.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部パートナー",
+    "url": "https://www.mec.co.jp/assets/img/plan2030/plan200124.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "パートナーも活用可能とするこ",
+    "url": "https://www.mec.co.jp/assets/img/plan2030/plan200124.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "三菱地所Gの顧客 外部パートナーの顧客",
+    "url": "https://www.mec.co.jp/assets/img/plan2030/plan200124.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 2016年6月より指名委員会等設置会社へ移行",
+    "url": "https://www.mec.co.jp/assets/img/plan2030/plan200124.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 報酬委員会及び指名委員会は独立社外取締役のみで構成",
+    "url": "https://www.mec.co.jp/assets/img/plan2030/plan200124.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名委員会を独立社外取締役のみに",
+    "url": "https://www.mec.co.jp/assets/img/plan2030/plan200124.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "に、 地域に根差したビジネスを行う際や、 新規領域においてノウハウを持つパートナー",
+    "url": "https://www.mec.co.jp/assets/img/plan2030/plan200124_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "= 現地パートナーとのJV型開発の推進",
+    "url": "https://www.mec.co.jp/assets/img/plan2030/business.png",
+    "pass": 2
+   },
+   {
+    "quote": "人に紹介したくなるようなサービスを提供しつづけ、口コミで選んでいただけるような会社でありたいですね",
+    "url": "https://note.com/mjh_jinji/n/n19a01d729708",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "これらの強みは、これからの社会で新たな挑戦を可能にする原動力になっています",
+    "url": "https://www.mec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "長年にわたり培ってきた不動産開発・運営の知見とノウハウを強みに、新事業として本格始動した空港事業",
+    "url": "https://www.mec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "三菱地所の強み",
+    "url": "https://www.mec.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "この2つの強みは、これからの社会で新たな挑戦を可能にする原動力になっています",
+    "url": "https://www.mec.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "同社は建築の様々なシーンで木材活用に取り組む企業7社の出資で設立され、各社の強みを駆使し、製造から販売までのフローを統合し、中間コストを制御したビジネスモデルを確立",
+    "url": "https://www.mec.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "４．【株主価値向上戦略】当社グループの強みと成長戦略",
+    "url": "https://www.mec.co.jp/ir/plan2030/",
+    "pass": 1
+   },
+   {
+    "quote": "3．当社グループの強みと成長戦略",
+    "url": "https://www.mec.co.jp/ir/plan2030/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループの強みである「超長期視点でのまちづくりと時代を先取りするDNA」及び「膨大なエンドユーザーとの接点と膨大な不動産への関与」を活かし、「国内アセット事業」、「海外アセット事業」、「ノンアセット事業」の3つ領域にて成長の実現を目指します",
+    "url": "https://www.mec.co.jp/ir/plan2030/",
+    "pass": 1
+   },
+   {
+    "quote": "マンションの新規発売戸数、契約残高、完成在庫について教えて下さい",
+    "url": "https://www.mec.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "2. 当社グループの強みと成長戦略",
+    "url": "https://www.mec.co.jp/assets/img/plan2030/plan200124.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "強みに磨きをかけ",
+    "url": "https://www.mec.co.jp/assets/img/plan2030/plan200124.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社Gの強み",
+    "url": "https://www.mec.co.jp/assets/img/plan2030/plan200124.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "強みに磨きをかけ更に強固なるのへ",
+    "url": "https://www.mec.co.jp/assets/img/plan2030/business.png",
+    "pass": 2
+   },
+   {
+    "quote": "これからもさらなる安心・安全・快適な空間をご提供するとともに、新築注文住宅だけでなくリフォームや土地の有効活用など、多様な分野において独自の技術や工夫、三菱地所グループの一員ならではの強みを活かし、お客さまに「真に価値ある住まい」をお届けしていきたいと考えています",
+    "url": "https://note.com/mjh_jinji/n/n19a01d729708",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "1970年代のMitsubishi Estate New",
+    "url": "https://www.mec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1937年5月7日",
+    "url": "https://www.mec.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 三菱地所",
+    "url": "https://www.mec.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1950年代中盤、高度経済成長期に入ると丸の内ではオフィス需要が急増し、時代のニーズに応えるために1959(昭和34)年より「丸ノ内総合改造計画」が実施されました",
+    "url": "https://www.mec.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1970年代前半には、丸の内は都市機能と都市環境美を兼ね備えた世界有数のビジネスセンターへと生まれ変わったのです",
+    "url": "https://www.mec.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1980年代には、都市再開発プロジェクト「みなとみらい21」事業に、民間で最大の地権者として参画しています",
+    "url": "https://www.mec.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2009年に美術館として復活した三菱一号館美術館",
+    "url": "https://www.mec.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2013年にグランフロント大阪を開業した先行開発区域に続き、「グラングリーン大阪（GRAND GREEN OSAKA）」では、ターミナル駅への隣接性や巨大な「みどり」を活かした先進的・将来的・汎用的なスマートシティ施策を進めています",
+    "url": "https://www.mec.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年5月には鹿児島県で工場が本格稼働し、事業を推進する体制が整っています",
+    "url": "https://www.mec.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年に策定した中期経営計画（2018年3期～2020年3期）については、計数目標を全て達成見込みであり、資本政策やコーポレート・ガバナンスにおいても進展するなど、当社グループとして順調な成長を遂げました",
+    "url": "https://www.mec.co.jp/ir/plan2030/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年代後半は再開発案件の進捗により、分譲マンションの売上計上戸数が回復、賃貸マンションは不動産市況に応じたキャピタルゲインの最大化を図る",
+    "url": "https://www.mec.co.jp/ir/plan2030/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年以前",
+    "url": "https://www.mec.co.jp/ir/annual/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期",
+    "url": "https://www.mec.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.mec.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.mec.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.mec.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://www.mec.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://www.mec.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期",
+    "url": "https://www.mec.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月期",
+    "url": "https://www.mec.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年3月期",
+    "url": "https://www.mec.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年3月期以前",
+    "url": "https://www.mec.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年3月期",
+    "url": "https://www.mec.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年3月期",
+    "url": "https://www.mec.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年3月期",
+    "url": "https://www.mec.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年3月期",
+    "url": "https://www.mec.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年3月期",
+    "url": "https://www.mec.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2013年3月期",
+    "url": "https://www.mec.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2012年3月期",
+    "url": "https://www.mec.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2011年3月期",
+    "url": "https://www.mec.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年3月期",
+    "url": "https://www.mec.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2009年3月期",
+    "url": "https://www.mec.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2008年3月期",
+    "url": "https://www.mec.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2007年3月期",
+    "url": "https://www.mec.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2006年3月期",
+    "url": "https://www.mec.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2005年3月期",
+    "url": "https://www.mec.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2004年3月期",
+    "url": "https://www.mec.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期決算を発表しました",
+    "url": "https://www.mec.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度 有価証券報告書を掲載しました",
+    "url": "https://www.mec.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期決算を発表しました",
+    "url": "https://www.mec.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第3四半期決算を発表しました",
+    "url": "https://www.mec.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第2四半期決算を発表しました",
+    "url": "https://www.mec.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第1四半期決算を発表しました",
+    "url": "https://www.mec.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期決算を発表しました",
+    "url": "https://www.mec.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期第3四半期決算を発表しました",
+    "url": "https://www.mec.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期第2四半期決算を発表しました",
+    "url": "https://www.mec.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期第1四半期決算を発表しました",
+    "url": "https://www.mec.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期決算を発表しました",
+    "url": "https://www.mec.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期第3四半期決算を発表しました",
+    "url": "https://www.mec.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期第1四半期報告書を掲載しました",
+    "url": "https://www.mec.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期第1四半期決算を発表しました",
+    "url": "https://www.mec.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 有価証券報告書・内部統制報告書を掲載しました",
+    "url": "https://www.mec.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期決算を発表しました",
+    "url": "https://www.mec.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期第3四半期報告書を掲載しました",
+    "url": "https://www.mec.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期第3四半期決算を発表しました",
+    "url": "https://www.mec.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期第2四半期報告書を掲載しました",
+    "url": "https://www.mec.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期第2四半期決算を発表しました",
+    "url": "https://www.mec.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期第1四半期報告書を掲載しました",
+    "url": "https://www.mec.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期第1四半期決算を発表しました",
+    "url": "https://www.mec.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期決算を発表しました",
+    "url": "https://www.mec.co.jp/ir/news/",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "法人等を対象としたお取引先様からの通報等窓口",
+    "url": "https://www.mec.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "利用方法は、以下「お取引先専用ヘルプライン」のリンクをご確認ください",
+    "url": "https://www.mec.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先専用ヘルプライン",
+    "url": "https://www.mec.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の多様な不動産ニーズにきめ細かく対応",
+    "url": "https://www.mec.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "変化の激しい時代の中で、未来に向けて対応していくために、当社は「事業パートナー」として「お客様の課題解決」や「お客様との協業」を推進しています",
+    "url": "https://www.mec.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "三菱地所グループの「あらゆる事業・サービス」や時には「外部のパートナー企業様のリソース」を組み合わせながら、お客様の課題に対して最適なソリューションを提供します",
+    "url": "https://www.mec.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者に“もっと響く”空港づくり",
+    "url": "https://www.mec.co.jp/service/airport/",
+    "pass": 1
+   },
+   {
+    "quote": "暮らす、働く、遊ぶといった人の日常を取り巻く環境づくりで培った知見やリソースを活用しながら、利用者に響く施設づくりを行い、地域と一体となって発展に貢献していきます",
+    "url": "https://www.mec.co.jp/service/airport/",
+    "pass": 1
+   },
+   {
+    "quote": "社会価値向上戦略では、サステナブルな社会の実現に向けた取り組みを実行し、まちの利用者や従業員を含む全てのステークホルダーへのより高い価値の提供を行います",
+    "url": "https://www.mec.co.jp/ir/plan2030/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループの強みである「超長期視点でのまちづくりと時代を先取りするDNA」及び「膨大なエンドユーザーとの接点と膨大な不動産への関与」を活かし、「国内アセット事業」、「海外アセット事業」、「ノンアセット事業」の3つ領域にて成長の実現を目指します",
+    "url": "https://www.mec.co.jp/ir/plan2030/",
+    "pass": 1
+   },
+   {
+    "quote": "投資に関する決定は、利用者ご自身のご判断において行われるようお願いします",
+    "url": "https://www.mec.co.jp/ir/legal/",
+    "pass": 1
+   },
+   {
+    "quote": "社会価値向上戦略では、サステナブルな社会の実現に向けた取り組みを実行し、まちの利用者や従業員を含む全てのステークホルダーへのより高い価値の提供を行います",
+    "url": "https://www.mec.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先専用 ヘルプライン",
+    "url": "https://www.mec.co.jp/inquiry/helpline.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "三菱地所グループ の お取引先の皆様",
+    "url": "https://www.mec.co.jp/inquiry/helpline.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "為等について、相談・通報を法人等のお取引先を対象に受け付けております",
+    "url": "https://www.mec.co.jp/inquiry/helpline.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【各種お問合せ先】→【「三菱地所」に関するお問合せ】→【法人等を対象としたお取引先様からの通報等窓口】→【お問合せフォーム】",
+    "url": "https://www.mec.co.jp/inquiry/helpline.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取引先専用ヘルプラインの目的",
+    "url": "https://www.mec.co.jp/inquiry/helpline.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "まちの利用者や従業員を含む",
+    "url": "https://www.mec.co.jp/assets/img/plan2030/plan200124.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "“膨大なエンドユーザーとの接点”と“膨大な不動産への関与”",
+    "url": "https://www.mec.co.jp/assets/img/plan2030/plan200124.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "膨大なエンドユーザーとの接点／不動産への関与",
+    "url": "https://www.mec.co.jp/assets/img/plan2030/plan200124.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社Gの膨大なエンドユーザー／不動産接点を起点に、テクノロジーの活用や外部パートナーとの連携",
+    "url": "https://www.mec.co.jp/assets/img/plan2030/plan200124.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "エンドユーザー／不動産接点",
+    "url": "https://www.mec.co.jp/assets/img/plan2030/plan200124.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客接点の広がりが",
+    "url": "https://www.mec.co.jp/assets/img/plan2030/plan200124.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 横断的顧客データを活用し",
+    "url": "https://www.mec.co.jp/assets/img/plan2030/plan200124.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "たな顧客体験を創出",
+    "url": "https://www.mec.co.jp/assets/img/plan2030/plan200124.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "三菱地所Gの顧客 外部パートナーの顧客",
+    "url": "https://www.mec.co.jp/assets/img/plan2030/plan200124.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客と社会に選ばれ続ける会社へ—三菱地所ホーム・細谷社長インタビュー｜三菱地所ホーム 採用チーム",
+    "url": "https://note.com/mjh_jinji/n/n19a01d729708",
+    "pass": 3
+   },
+   {
+    "quote": "顧客と社会に選ばれ続ける会社へ—三菱地所ホーム・細谷社長インタビュー",
+    "url": "https://note.com/mjh_jinji/n/n19a01d729708",
+    "pass": 3
+   },
+   {
+    "quote": "私自身が社長に就任してからは、「顧客やステークホルダーに選ばれ続ける会社」であるために、これまでのやり方を当然とせず、時代の変化に合わせて柔軟に取り組みを見直すことを大切にしています",
+    "url": "https://note.com/mjh_jinji/n/n19a01d729708",
+    "pass": 3
+   },
+   {
+    "quote": "ーー「顧客、ステークホルダーに選ばれ続ける会社」であるための具体的な取り組みについて、詳しく教えていただけますか",
+    "url": "https://note.com/mjh_jinji/n/n19a01d729708",
+    "pass": 3
+   },
+   {
+    "quote": "私が就任した当初は、縦割り組織の影響で社内の部分最適化が進み、顧客や協力設計事務所・施工協力店といったステークホルダーに対する意識が希薄になっていました",
+    "url": "https://note.com/mjh_jinji/n/n19a01d729708",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、新築注文住宅事業を担う営業・技術メンバーが一体となって顧客に価値を提供できるよう、営業部門と技術部門を統合して一気通貫型の組織に改編しました",
+    "url": "https://note.com/mjh_jinji/n/n19a01d729708",
+    "pass": 3
+   },
+   {
+    "quote": "さらに2024年度からは、業績連動型の報酬体系を廃止し、「チームで顧客に最大限の価値を提供する」というスタイルへとシフトしました",
+    "url": "https://note.com/mjh_jinji/n/n19a01d729708",
+    "pass": 3
+   },
+   {
+    "quote": "また、顧客との重要な接点であるホームギャラリーにも積極的に足を運び、所長やメンバーと話すようにしていますし、社員から「細谷さん、ちょっと話を聞いてください！」と声がかかった際には、飲み会に飛び入り参加することもあります",
+    "url": "https://note.com/mjh_jinji/n/n19a01d729708",
+    "pass": 3
+   },
+   {
+    "quote": "顧客への提供価値を向上し続けている",
+    "url": "https://note.com/mjh_jinji/n/n19a01d729708",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "しかし、当時は貸事務所というビジネスモデルが浸透していなかったために、事業としては苦戦",
+    "url": "https://www.mec.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "また、米国、欧州、アジアなど海外各地にも進出し、様々なビジネスモデルでエリアを拡大しています",
+    "url": "https://www.mec.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "デジタル技術の活用による新たな収益源の獲得、既存ビジネスモデル並びに業務プロセスのブラッシュアップによる収益拡大・生産性向上を目指すとともに、グループ共通IT基盤の整備やガバナンスの強化を図っています",
+    "url": "https://www.mec.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "同社は建築の様々なシーンで木材活用に取り組む企業7社の出資で設立され、各社の強みを駆使し、製造から販売までのフローを統合し、中間コストを制御したビジネスモデルを確立",
+    "url": "https://www.mec.co.jp/service/",
+    "pass": 1
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント別内訳",
+    "url": "https://www.mec.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別内訳",
+    "url": "https://www.mec.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "3. 2020年4月1日からのセグメント変更",
+    "url": "https://www.mec.co.jp/assets/img/plan2030/plan200124.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "従来のセグメント 2021年3月期～",
+    "url": "https://www.mec.co.jp/assets/img/plan2030/plan200124.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "＜セグメント変更内容と目的＞",
+    "url": "https://www.mec.co.jp/assets/img/plan2030/plan200124.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "③：開示セグメントの統合",
+    "url": "https://www.mec.co.jp/assets/img/plan2030/plan200124.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Ｑ．P49 セグメント変更に関し、決算の分析がしづらくなることを懸念している",
+    "url": "https://www.mec.co.jp/assets/img/plan2030/plan200124_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Ａ．開示セグメントをシンプルにし、 わかりやすい開示にしていきたい意図があった",
+    "url": "https://www.mec.co.jp/assets/img/plan2030/plan200124_1.pdf",
+    "pass": 2
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "マテリアリティは、環境、グローバリティ、コミュニティ、ダイバーシティ、少子高齢化、ストック活用、デジタル革新の7つを設定",
+    "url": "https://www.mec.co.jp/ir/plan2030/",
+    "pass": 1
+   },
+   {
+    "quote": "中長期業績連動型株価連動報酬制度（ファントムストック）の導入に関するお知らせ",
+    "url": "https://www.mec.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "新株予約権（株式報酬型ストックオプション）の割当に関する内容等確定のお知らせ",
+    "url": "https://www.mec.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "新株予約権（株式報酬型ストックオプション）の割当に関するお知らせ",
+    "url": "https://www.mec.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "新株予約権（株式報酬型ストックオプション）の割当てに関する内容等確定のお知らせ",
+    "url": "https://www.mec.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "なお、当社の株式に関する諸手続の手数料は無料化しております",
+    "url": "https://www.mec.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "無料化した手数料は当社にお支払いいただく手数料です",
+    "url": "https://www.mec.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "既存ストック利用ニーズの増加 新築分譲ニーズ変化",
+    "url": "https://www.mec.co.jp/assets/img/plan2030/plan200124.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "事業紹介 - 三菱地所 — 事業紹介 - 三菱地所 三菱地所 https://www.mec.co.jp > service",
+    "url": "https://www.mec.co.jp/service/",
+    "pass": 3
+   },
+   {
+    "quote": "統合報告書 2025 - 三菱地所 — 統合報告書 2025 - 三菱地所 三菱地所 PDF https://www.mec.co.jp > assets > img > annual",
+    "url": "https://www.mec.co.jp/assets/img/annual/integratedreport2025j_v.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【狙うはROE10％。 三菱地所 の ビジネスモデル ... - YouTube — 【狙うはROE10％。 三菱地所 の ビジネスモデル ... - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=6LMqXctcKJw",
+    "pass": 3
+   },
+   {
+    "quote": "新事業創出 | 三菱地所 — 新事業創出 | 三菱地所 三菱地所 https://www.mec.co.jp > service > creation",
+    "url": "https://www.mec.co.jp/service/creation/",
+    "pass": 3
+   },
+   {
+    "quote": "三菱地所 グループの価値創造 モデル — 三菱地所 グループの価値創造 モデル 三菱地所 サステナビリティ PDF https://mec.disclosure.site > value > pdf > value",
+    "url": "https://mec.disclosure.site/j/sustainability/management/value/pdf/value.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリ | 三菱地所 — IRライブラリ | 三菱地所 三菱地所 https://www.mec.co.jp > library",
+    "url": "https://www.mec.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 | 三菱地所 — IR情報 | 三菱地所 三菱地所 https://www.mec.co.jp > ...",
+    "url": "https://www.mec.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "IRニュース | 三菱地所 — IRニュース | 三菱地所 三菱地所 https://www.mec.co.jp > news",
+    "url": "https://www.mec.co.jp/ir/news/",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリー｜IR情報 - 三菱地所物流リート投資法人 — IRライブラリー｜IR情報 - 三菱地所物流リート投資法人 三菱地所物流リート投資法人 https://mel-reit.co.jp > library",
+    "url": "https://mel-reit.co.jp/ja/ir/library.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 三菱地所 】[8802]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 三菱地所 】[8802]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=8802",
+    "pass": 3
+   },
+   {
+    "quote": "組織図 | 三菱地所 — 組織図 | 三菱地所 三菱地所 https://www.mec.co.jp > company > organization",
+    "url": "https://www.mec.co.jp/company/organization/",
+    "pass": 3
+   },
+   {
+    "quote": "グループ会社 | 三菱地所 — グループ会社 | 三菱地所 三菱地所 https://www.mec.co.jp > company > group",
+    "url": "https://www.mec.co.jp/company/group/",
+    "pass": 3
+   },
+   {
+    "quote": "組織図 | 三菱地所 レジデンス株式会社 | 暮らしに — 組織図 | 三菱地所 レジデンス株式会社 | 暮らしに 三菱地所レジデンス株式会社 https://www.mec-r.com > 会社情報",
+    "url": "https://www.mec-r.com/company/org.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業 紹介 - 三菱地所 — 事業 紹介 - 三菱地所 三菱地所 https://www.mec.co.jp > service",
+    "url": "https://www.mec.co.jp/service/",
+    "pass": 3
+   },
+   {
+    "quote": "三菱地所 プロパティマネジメント株式会社 — 三菱地所 プロパティマネジメント株式会社 三菱地所プロパティマネジメント株式会社 https://www.mjpm.co.jp",
+    "url": "https://www.mjpm.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客と社会に選ばれ続ける会社へ— 三菱地所 ホーム・細谷 社長 ... — 顧客と社会に選ばれ続ける会社へ— 三菱地所 ホーム・細谷 社長 ... note https://note.com > ... > ビジネスリーダーインタビュー",
+    "url": "https://note.com/mjh_jinji/n/n19a01d729708",
+    "pass": 3
+   },
+   {
+    "quote": "社員 インタビュー ｜ 三菱地所 ｜総合職・業務職 キャリア採用 ... — 社員 インタビュー ｜ 三菱地所 ｜総合職・業務職 キャリア採用 ... 三菱地所 https://career.mec.co.jp > interview",
+    "url": "https://career.mec.co.jp/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "三菱地所 は「丸の内の大家」に留まらない - YouTube — 三菱地所 は「丸の内の大家」に留まらない - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=GxO1-Au66Iw",
+    "pass": 3
+   },
+   {
+    "quote": "社長 メッセージ | 三菱地所 プロパティマネジメント株式会社 — 社長 メッセージ | 三菱地所 プロパティマネジメント株式会社 三菱地所プロパティマネジメント株式会社 | 採用 https://www.mjpm-saiyo.com > message",
+    "url": "https://www.mjpm-saiyo.com/message/",
+    "pass": 3
+   },
+   {
+    "quote": "歴代 社長 - 三菱地所 のページ - The社史 — 歴代 社長 - 三菱地所 のページ - The社史 The社史 https://the-shashi.com > 三菱地所の歴史",
+    "url": "https://the-shashi.com/tse/8802/ceo/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.mec.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mec.co.jp/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mec.co.jp/company/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mec.co.jp/company/director/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mec.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mec.co.jp/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mec.co.jp/service/airport/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mec.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mec.co.jp/ir/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mec.co.jp/ir/plan2030/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mec.co.jp/ir/annual/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mec.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mec.co.jp/ir/governance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mec.co.jp/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mec.co.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mec.co.jp/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mec.co.jp/ir/financial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mec.co.jp/ir/disclosure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mec.co.jp/ir/legal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mec.co.jp/ir/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mec.co.jp/ir/public_notice/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.mec.co.jp/inquiry/helpline.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mec.co.jp/assets/img/plan2030/plan2030_review_jp.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mec.co.jp/assets/img/plan2030/plan2030_review_en.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mec.co.jp/assets/img/plan2030/plan200124.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mec.co.jp/assets/img/plan2030/plan200124_e.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mec.co.jp/assets/img/plan2030/plan200124_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mec.co.jp/assets/img/plan2030/plan200124_1_e.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mec.co.jp/assets/img/annual/integratedreport2026j_v.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mec.co.jp/assets/img/airport/card-large01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.mec.co.jp/assets/img/plan2030/business.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.mec.co.jp/assets/img/top/business-office-01-sp.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.mec.co.jp/assets/img/top/business-office-02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.mec.co.jp/assets/img/top/business-shop-01-sp.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.mec.co.jp/assets/img/top/business-shop-02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.mec.co.jp/assets/img/top/business-airport-01-sp.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.mec.co.jp/assets/img/top/business-airport-02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.com/mjh_jinji/n/n19a01d729708",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career.mec.co.jp/interview/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "三菱地所",
+   "results": [
+    "https://www.mec.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E5%9C%B0%E6%89%80",
+    "https://www.mitsubishi-home.com/",
+    "https://careerforum.net/ja/event/bos/companylist_67/3622/company_detail/",
+    "https://www.mecsumai.com/",
+    "https://www.mjpm.co.jp/",
+    "https://en.wikipedia.org/wiki/Mitsubishi_Estate",
+    "https://ja.wikipedia.org/wiki/三菱地所",
+    "https://finance.yahoo.co.jp/quote/8802.T/profile",
+    "https://www.mjd.co.jp/"
+   ]
+  },
+  {
+   "query": "三菱地所 ビジネスモデル",
+   "results": [
+    "https://www.mec.co.jp/service/",
+    "https://www.mec.co.jp/assets/img/annual/integratedreport2025j_v.pdf",
+    "https://www.youtube.com/watch?v=6LMqXctcKJw",
+    "https://www.mec.co.jp/service/creation/",
+    "https://mec.disclosure.site/j/sustainability/management/value/pdf/value.pdf",
+    "https://diamond.jp/articles/-/324561",
+    "https://note.com/joyous_sayyou/n/n69ca4aeabc25",
+    "https://career.mec.co.jp/aboutus/",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000Frqz&q_no=9",
+    "https://consovation.com/三菱地所が描くビジネスモデルと成長戦略/"
+   ]
+  },
+  {
+   "query": "三菱地所 決算説明資料",
+   "results": [
+    "https://www.mec.co.jp/ir/library/",
+    "https://www.mec.co.jp/ir/",
+    "https://www.mec.co.jp/ir/news/",
+    "https://mel-reit.co.jp/ja/ir/library.html",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=8802",
+    "https://x.com/mec__group/status/2089638432540942625",
+    "https://edinetdb.jp/company/E03856/presentations/",
+    "https://irbank.net/E03856/reports",
+    "https://irbank.net/8802/ir",
+    "https://www.buffett-code.com/company/8802/library"
+   ]
+  },
+  {
+   "query": "三菱地所 事業系統図",
+   "results": [
+    "https://www.mec.co.jp/company/organization/",
+    "https://www.mec.co.jp/company/group/",
+    "https://www.mec-r.com/company/org.html",
+    "https://www.mec.co.jp/service/",
+    "https://www.mjpm.co.jp/",
+    "https://www.mec.co.jp/company/about/",
+    "https://www.mec.co.jp/",
+    "https://www.mec.co.jp/assets/img/annual/integratedreport2025j_v.pdf",
+    "https://www.mec.co.jp/service/dx/",
+    "https://mit-hd.co.jp/ir-information/keito/"
+   ]
+  },
+  {
+   "query": "三菱地所 社長 インタビュー",
+   "results": [
+    "https://note.com/mjh_jinji/n/n19a01d729708",
+    "https://career.mec.co.jp/interview/",
+    "https://www.youtube.com/watch?v=GxO1-Au66Iw",
+    "https://www.mjpm-saiyo.com/message/",
+    "https://the-shashi.com/tse/8802/ceo/",
+    "https://cir.nii.ac.jp/crid/1520572360185556864",
+    "https://www.mec-r.com/company/message.html",
+    "https://business.nikkei.com/atcl/gen/19/00830/010500003/",
+    "https://japan.storm.mg/articles/1165250",
+    "https://wired.jp/branded/2026/09/18/mitsubishiestate/"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式21頁／PDF・画像16件／外部2頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式21頁／PDF・画像16件／外部2頁・検索5回）"
+ }
+}

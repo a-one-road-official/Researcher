@@ -1,0 +1,1999 @@
+{
+ "name": "ＴＲＥホールディングス",
+ "aliases": [],
+ "context": "証券コード9247／サービス業／プライム（内国株式）／2026.03期 売上高119,164百万円 営業利益率18.7%",
+ "researched_at": "2026-11-02T18:08:33.333288+00:00",
+ "official_url": "https://tre-hd.co.jp/",
+ "identified_by": "search:yahoo_jp:TREホールディングス",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2021年10月1日",
+    "url": "https://tre-hd.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2021年10月 １ 日",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "label": "設立",
+    "value": "2021年10月 １ 日",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "pass": 2
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "傘下子会社及びグループの経営管理並びにこれに付帯又は関連する業務",
+    "url": "https://tre-hd.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "label": "グループ事業内容",
+    "value": "廃棄物処理・再資源化事業、資源リサイクル",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "label": "グループ事業内容",
+    "value": "廃棄物処理 ・ 再資源化事業、 資源リサイクル事業、",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "pass": 2
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "連結：2,425名（2026年3月31日現在）",
+    "url": "https://tre-hd.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "label": "TREHD従業員持株会",
+    "value": "904 1.89",
+    "url": "https://tre-hd.co.jp/ir/stock.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "連結：2,425名 ※2026年3月31日現在",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "label": "従業員数",
+    "value": "連結 ： 2,393名",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "pass": 2
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "環境省「令和８年度国内資源循環体制構築に向けた再エネ関連製品及びベース素材の全体最適化実証事業（委託）」にリバー株式会社を代表事業者とする連携体３社が採択 ～混合アルミスクラップの展伸材用途での水平リサイクル実現に向けた挑戦～",
+    "url": "https://tre-hd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "これまでは、資源化することが難しかった廃棄物・使用済製品などについても技術的、採算的な課題の克服に挑戦し、循環資源に変革し、環境課題の解決を通じて、企業としてさらなる成長を遂げることを目指します",
+    "url": "https://tre-hd.co.jp/ir/investor.html",
+    "pass": 1
+   },
+   {
+    "quote": "これまで資源化の難しかった廃棄物、使用済製品などについても",
+    "url": "https://tre-hd.co.jp/ir/investor.html",
+    "pass": 1
+   },
+   {
+    "quote": "廃棄物の収集運搬から再資源化・最終処分までワンストップソリューションを提供し、資源を無駄なく循環させるサーキュラーエコノミーの実現に貢献しています",
+    "url": "https://tre-hd.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "（株）北陸環境サービス 他",
+    "url": "https://tre-hd.co.jp/business/process.html",
+    "pass": 1
+   },
+   {
+    "quote": "安心・安全な廃棄物の一貫処理サービスを提供することに加え、再資源化などの社会的ニーズに対応するべく業容の拡大を図る",
+    "url": "https://tre-hd.co.jp/business/process.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品ライフサイクル全体にわたる環境負荷低減要請の高まり",
+    "url": "https://tre-hd.co.jp/business/process.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社北陸環境サービス",
+    "url": "https://tre-hd.co.jp/business/process.html",
+    "pass": 1
+   },
+   {
+    "quote": "家電リサイクル法に基づいて回収された家電4品目を家電リサイクルの管理会社から受託し、指定引取場所・再商品化施設の運営及び地域管理業務を行う「家電リサイクル」",
+    "url": "https://tre-hd.co.jp/business/recycle.html",
+    "pass": 1
+   },
+   {
+    "quote": "排出者が抱える廃棄物処理問題に対するトータルソリューションを提供",
+    "url": "https://tre-hd.co.jp/business/recycle.html",
+    "pass": 1
+   },
+   {
+    "quote": "環境エンジニアリング事業では、環境機器・プラント関連事業、LPGバルクローリー・ごみ収集車等の特殊車輌事業を中心とし、環境装置やプラントの設計・施工、特殊車輌の開発・製造・販売を行うほか、導入いただいた設備・車輌を常に良好な状態で利用いただけるよう、メンテナンスサービス体制も整えています",
+    "url": "https://tre-hd.co.jp/business/other.html",
+    "pass": 1
+   },
+   {
+    "quote": "環境コンサルティング事業では、法人向けの産業廃棄物管理や計量証明業務、環境対策工事及び廃棄物や土壌、水質、大気などの環境測定・調査・分析業務をはじめ、行政・自治体向けの環境アセスメント関連業務など、さまざまなコンサルティングサービスを提供しています",
+    "url": "https://tre-hd.co.jp/business/other.html",
+    "pass": 1
+   },
+   {
+    "quote": "時代が求める製品・サービスを開発、提供",
+    "url": "https://tre-hd.co.jp/business/other.html",
+    "pass": 1
+   },
+   {
+    "quote": "各製品の開発、製造、販売、メンテナンスを一貫して手掛ける",
+    "url": "https://tre-hd.co.jp/business/other.html",
+    "pass": 1
+   },
+   {
+    "quote": "本社工場内に設置されたリサイクルテストセンターで、破砕→選別→資源化までの一連の流れを検証し、新製品の開発に寄与",
+    "url": "https://tre-hd.co.jp/business/other.html",
+    "pass": 1
+   },
+   {
+    "quote": "最新の環境法令に対応したサービスを提供（ 改正大気汚染防止法など）",
+    "url": "https://tre-hd.co.jp/business/other.html",
+    "pass": 1
+   },
+   {
+    "quote": "廃棄物の適正処理のため、グループのネットワークを活用し、様々な調査・分析およびコンサルティングサービスを提供可能",
+    "url": "https://tre-hd.co.jp/business/other.html",
+    "pass": 1
+   },
+   {
+    "quote": "必要に応じて行政との打合せ、調整など一貫したサービスを提供",
+    "url": "https://tre-hd.co.jp/business/other.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループが保有する技術をさらに向上させ、また当社グループ間で相互補完しながら、環境に配慮した製品・サービスの提供に努めることで、事業活動を通じて高度循環型社会の実現に貢献します",
+    "url": "https://tre-hd.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "未利用資源の製品化、付加価値化",
+    "url": "https://tre-hd.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "森林経営と一体化した持続可能な木質バイオマス発電所の設置／運営、再生可能エネルギーの創出とサービスの提供",
+    "url": "https://tre-hd.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "2009年に余剰電力買取制度が開始されて以来、設置が増加している太陽光パネルは製品寿命が30年とされ、2030年頃から交換や廃棄されるパネルの排出量が大幅に増えると見込まれています",
+    "url": "https://tre-hd.co.jp/wx/about/initiatives/",
+    "pass": 1
+   },
+   {
+    "quote": "再生資源を原材料として製品を作ると、CO２排出量の低減が期待できると言われていることから、高品質な再生資源を安定的に確保することが重要課題となってきています",
+    "url": "https://tre-hd.co.jp/wx/about/initiatives/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は山形大学、日本大学と連携し、再生骨材・砕石等によるリサイクル製品の製造工程におけるCCUS技術開発の共同研究に取り組んでいます",
+    "url": "https://tre-hd.co.jp/wx/about/initiatives/",
+    "pass": 1
+   },
+   {
+    "quote": "廃プラスチック高度選別・再商品化 前中計 80",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 当社グループは、年間１３０万ｔ超の廃棄物・使用済み製品",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫廃プラスチック高度選別･再商品化事業稼働",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ ５０００現場を対象とした新サービスの提供",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「X to Car 」 ：多様な使用済製品（家電等）を再資源化し、自動車製造に繋",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 廃プラスチック高度選別・再商品化事業",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製造時の CO2排出量を従来の鉄鋼製品より大幅に削減した",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "廃棄物管理支援サービスの創出",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ワンストップソリューションを提供し 、資源を",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ては、 〈廃プラスチ ッ ク高度選別・再商品化事業〉 〈産業廃",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "プラスチ ッ ク高度選別・再商品化事業〉 については、 （株）",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● 未利用資源の製品化、付加価値化",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サービスの提供",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、製品を製造・販売する 「動脈企業」 と",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "使用済製品を回収・処理・再資源化する 「静脈企業」 との",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "客起点の価値・新規サービス創出を実現します",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⃝ (株)北陸環境サービス 他",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "や使用済製品等は、 種別ごとに圧縮 ・",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "だけるよう、メンテナンスサービス",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "及び原料集荷・製品輸送の効率化を狙いと した一大リサ",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "境サービスは、2025年8月に発生した豪雨に伴う土砂崩",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第2次中計では、事業継続性の確保及び再資源化製品",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業」 構想においては、廃プラスチ ッ ク高度選別・再商品",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "資源リサイクル事業においては、使用済製品等をシ ュ レ ッ",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "以外の使用済製品から新車へ資源を循環させる概念",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "造しながら、信頼される製品の提供とそのサポートに",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● 各製品の開発・製造・販売・メンテナンスを一貫して手がける",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "流れを検証し、新製品の開発に寄与",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● 調査・分析等のさまざまなコンサルテ ィ ングサービスを提供可能",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "最新の選別や再商品化技術を駆使し、広域での大量処",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※ PPP （Public Private Partnership） ： 自治体等と民間企業が連携して公共サービスを提供する官民連携手法",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "理型最終処分場を運営する （株） 北陸環境サービス （金沢市）",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品開発等に取り組んでいる先進的な企業・団体を評価、",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "T R Eグループは、門前クリーンパークや北陸環境サービスが自らも被災を経験し",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これまで資源化することが難しかった廃棄物 ・ 使用済製品などについ",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品についても技術的 ・ 採算的課題を克服し、 循環資源に変え",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "pass": 2
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "TREグループの活動内容や中長期的な企業価値向上に向けた戦略及び取り組みについてご紹介しています",
+    "url": "https://tre-hd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "TREホールディングスの企業価値とその将来性について、事業環境を踏まえてご紹介します",
+    "url": "https://tre-hd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "TREホールディングスの事業や設立背景、未来に向けた取り組みについてご紹介します",
+    "url": "https://tre-hd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "TREホールディングスグループの様々な取り組みをご紹介します",
+    "url": "https://tre-hd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サーキュラーエコノミーパートナーシップ新規加盟に関するお知らせ",
+    "url": "https://tre-hd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "未来に向けた取り組みについてご紹介します",
+    "url": "https://tre-hd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "積み重ねてきた歴史をご紹介します",
+    "url": "https://tre-hd.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "本報告書は、多様な環境事業を展開する当社グループの存在意義、価値創造の基盤・仕組み、創出する価値を示すとともに中長期的な企業価値向上に向けた戦略及び取り組みについてご紹介しています",
+    "url": "https://tre-hd.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "本報告書は、多様な環境事業を展開する当社グループの存在意義、価値創造の基盤・仕組み、創出する価値を示すとともに中長期的な企業価値向上に向けた戦略及び取り組みについてご紹介しています",
+    "url": "https://tre-hd.co.jp/download/",
+    "pass": 1
+   },
+   {
+    "quote": "「パートナーシップ戦略」として、協業関係を高度化させながら、M&Aや資本業務提携を推進します",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "経営戦略① パートナーシップ戦略の推進（支えて、繋げる） ----- 26",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "上、CEパートナーシップ拡大中",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 「パートナーシップ戦略」として、協業関係を高度化させながら、M&Aや資本業務提携を推進",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ パートナーシップ戦略に基づくM&A（資本提携、業務提携、合弁会社",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（新規工場＋パートナーシップ戦略） 事業利益 378 -1,064 -706 1,468 4,747",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "パートナーシップ戦略",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※ ※ パートナーシップ戦略の売上高は非表示、実績については進展に応じて各セグメントへ計上",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 公民連携による長期パートナーシップ確立",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サーキュラーエコノミーパートナーシップ",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ パートナー企業の事業領域や今後の取り組みを考慮し、「一般廃",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⇒パートナーシップ戦略推進室（仮称）による推進",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "４ 経営戦略① パートナーシップ戦略の推進（支えて、繋げる）",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "上記のようなパートナーを増やすことに果断に挑戦してま",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "するサーキュラーエコノミーパートナーシップ」 を締結してい",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "パートナーそれぞれの有する強み・情報・資源を持",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "広げ、引き続きさまざまなパートナーの参画を歓迎します",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "るか等について、指名・報酬委員会にて審議しています",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "役職名 氏名 取締役会 監査等委員会 指名・報酬委員会 内部統制委員会 コンプライアンス委員会 情 報 セキュリテ ィ委員会CSRアクテ ィビテ ィ委員会",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● 指名・報酬委員会",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "を社外取締役とする 「指名・報酬委員会」 を設置しています",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "め、社外取締役が過半数を占める任意の指名・報酬委員",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名・報酬委員会 （社内2名：社外3名）",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "促進するためのパートナーシップです",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "TREグループの取り組みを紹介する様子",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "連携で築いたサーキュラーエコノミーパートナーシップの",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "紹介や、 「相馬サーキュ ラーパーク」 構想における取り組み",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ループの災害廃棄物への対応を紹介",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ての先見性を有しているか等について、 指名 ・ 報酬委員会にて審",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● 指名 ・ 報酬委員会",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "る 「指名 ・ 報酬委員会」 を設置しています",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "支える観点から、 指名 ・ 報酬委員会において条件整理等の検討",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外取締役が過半数を占める任意の指名 ・ 報酬委員会を諮問機関",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名 ・ 報酬委員会",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "会的なテーマに加え、 実際に働く社員の紹介や、 高校生が取り組",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "代表取締役社長 阿部 光男がラジオNIKKEI「経営トップに聞く！ 強みと人材戦略」に出演しました",
+    "url": "https://tre-hd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "TREホールディングスの3つの強み",
+    "url": "https://tre-hd.co.jp/ir/investor.html",
+    "pass": 1
+   },
+   {
+    "quote": "特に「廃棄物の破砕・選別プラント」、「スクラップ関連機器」に強み（多くの納入実績）",
+    "url": "https://tre-hd.co.jp/business/other.html",
+    "pass": 1
+   },
+   {
+    "quote": "廃棄物処理・資源リサイクル事業の強みとノウハウを活かし、排出事業者の高度化する再資源化ニーズへ適正かつ的確に対応することを目指します",
+    "url": "https://tre-hd.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "“持続可能な高収益モデルへの転換” 高成長×高収益",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "静脈企業、大学や研究機関などがそれぞれの強みを持ち",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ディ ングスの役割とは、各事業会社の強みを最大限引き出",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "静脈企業は、それぞれの強みとなる技術を携え、業界に",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "経営統合から生まれたグループシナジーを強みに着実な",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "TREグループは産業廃棄物の処理・リサイクルを強みと",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "持続可能な高収益モデルへの転換",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "とで、 ５ 年間を通じて持続可能な高収益型の事業モデル",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "特定にあたっては、WX環境企業と しての強みや培ってきた",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "パートナーそれぞれの有する強み・情報・資源を持",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "循環市場における競争優位性を確立していきます",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ループの強みを活かした取り組みも進めています",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "高収益案件の積み上げにより増収増益となり ま した",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "理と高効率オペレーシ ョ ンを一括提供できる点が強みです",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高※1 営業利益 営業利益率",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 8.4％ ― 19.4% ー 18.7% ー",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 15.2％ ― 38.0% ー 35.4% ー",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 6.4％ ― 8.2% ー 7.9% ー",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 8.4％ ― 0.8% ー 5.4% ー",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 7.0％ ― 7.6% ー 16.1% ー",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■ 営業利益・営業利益率",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "会社各社の強みを最大限引き出すことだと私は考えています",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "き、 業界における強みをもつ優良企業です",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "77億円） 、 営業利益率19.4％ （前年8.4％） を達成し、 目標を大き",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■ 売上高 ■ 営業利益 ・ 営業利益率",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "一方、 成長投資と並行して、 グループの強みを活かした業容拡",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "は、 「WX環境企業」 と しての強みや培ってきたノ ウハウを通じて",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 16.4％ 15.1％ 37.8％",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "グループの強みを活かした取り組みを進めています",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 7.0％ 6.4％ 8.2％",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "地域に根付いた自前の電源という強みを活かし、 非化石証書※1",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 5.0％ 8.3％ 0.8％",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 4.4％ 6.9％ 7.1％",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "それぞれの有す る強み ・ 情報 ・ 資源を持ち寄 っ て、 一般廃棄物の",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 営業利益 営業利益率",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 8.3％ ― 8.4％ ― 19.4% ー",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 16.4％ ― 15.1％ ― 37.8% ー",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 7.0％ ― 6.4％ ― 8.2% ー",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 5.0％ ― 8.3％ ― 0.8% ー",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 4.4％ ― 6.9％ ― 7.1% ー",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■\u0007営業利益 ・ 営業利益率",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "達成率は、売上高は計画値に対し１００・９％と上回ったが、営業利益は同86・３％、営業利益率は85・５％となった",
+    "url": "https://www.kabutecho.com/interview/%E8%B3%87%E6%BA%90%E3%83%BB%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E3%81%AE%E5%BE%AA%E7%92%B0%E3%82%92%E6%8B%85%E3%81%86%E7%B7%8F%E5%90%88%E7%92%B0%E5%A2%83%E4%BC%81%E6%A5%AD-%E5%A3%B2%E4%B8%8A/",
+    "pass": 3
+   },
+   {
+    "quote": "同計画では営業利益率10％の達成へ向けて、グループ収益力の強化を図り、29年３月期の売上高１２００億円、営業利益１２０億円を目標に掲げる",
+    "url": "https://www.kabutecho.com/interview/%E8%B3%87%E6%BA%90%E3%83%BB%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E3%81%AE%E5%BE%AA%E7%92%B0%E3%82%92%E6%8B%85%E3%81%86%E7%B7%8F%E5%90%88%E7%92%B0%E5%A2%83%E4%BC%81%E6%A5%AD-%E5%A3%B2%E4%B8%8A/",
+    "pass": 3
+   },
+   {
+    "quote": "トレンド見極め、国内首位製品を次々と開発 技術力強みに自動運転など新機軸の育成進める",
+    "url": "https://www.kabutecho.com/interview/%E8%B3%87%E6%BA%90%E3%83%BB%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E3%81%AE%E5%BE%AA%E7%92%B0%E3%82%92%E6%8B%85%E3%81%86%E7%B7%8F%E5%90%88%E7%92%B0%E5%A2%83%E4%BC%81%E6%A5%AD-%E5%A3%B2%E4%B8%8A/",
+    "pass": 3
+   },
+   {
+    "quote": "20年３月期、過去最高益を更新「コーポレートイン」を強みに利益成長",
+    "url": "https://www.kabutecho.com/interview/%E8%B3%87%E6%BA%90%E3%83%BB%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E3%81%AE%E5%BE%AA%E7%92%B0%E3%82%92%E6%8B%85%E3%81%86%E7%B7%8F%E5%90%88%E7%92%B0%E5%A2%83%E4%BC%81%E6%A5%AD-%E5%A3%B2%E4%B8%8A/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "令和6年能登半島地震への対応",
+    "url": "https://tre-hd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月28日",
+    "url": "https://tre-hd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月26日",
+    "url": "https://tre-hd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月23日",
+    "url": "https://tre-hd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月13日",
+    "url": "https://tre-hd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年09月19日",
+    "url": "https://tre-hd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年08月26日",
+    "url": "https://tre-hd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年04月23日",
+    "url": "https://tre-hd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年11月29日",
+    "url": "https://tre-hd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年09月01日",
+    "url": "https://tre-hd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月09日",
+    "url": "https://tre-hd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "令和6年能登半島地震への対応",
+    "url": "https://tre-hd.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年10月1日",
+    "url": "https://tre-hd.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 企業情報 | 地球の環境保全に貢献するTREホールディングス",
+    "url": "https://tre-hd.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和6年能登半島地震への対応",
+    "url": "https://tre-hd.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "タケエイ 沿革",
+    "url": "https://tre-hd.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "リバー 沿革",
+    "url": "https://tre-hd.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和6年能登半島地震への対応",
+    "url": "https://tre-hd.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期決算短信〔日本基準〕（連結）",
+    "url": "https://tre-hd.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期決算 補足説明資料",
+    "url": "https://tre-hd.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月13日 業績予想の修正に関するお知らせ",
+    "url": "https://tre-hd.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月13日 自己株式取得に係る事項の決定に関するお知らせ（会社法第165条第2項の規定による定款の定めに基づく自己株式の取得）",
+    "url": "https://tre-hd.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月13日 株主優待制度の新設及び株主様特別プレゼントキャンペーンに関するお知らせ",
+    "url": "https://tre-hd.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "令和6年能登半島地震への対応",
+    "url": "https://tre-hd.co.jp/ir/coomessage.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和6年能登半島地震への対応",
+    "url": "https://tre-hd.co.jp/ir/investor.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和6年能登半島地震への対応",
+    "url": "https://tre-hd.co.jp/ir/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和6年能登半島地震への対応",
+    "url": "https://tre-hd.co.jp/ir/stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和6年能登半島地震への対応",
+    "url": "https://tre-hd.co.jp/ir/stock_chart.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和6年能登半島地震への対応",
+    "url": "https://tre-hd.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和6年能登半島地震への対応",
+    "url": "https://tre-hd.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "令和6年能登半島地震への対応",
+    "url": "https://tre-hd.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月29日",
+    "url": "https://tre-hd.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "令和6年能登半島地震への対応",
+    "url": "https://tre-hd.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "令和6年能登半島地震への対応",
+    "url": "https://tre-hd.co.jp/business/process.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和6年能登半島地震への対応",
+    "url": "https://tre-hd.co.jp/business/recycle.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和6年能登半島地震への対応",
+    "url": "https://tre-hd.co.jp/business/energy.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和6年能登半島地震への対応",
+    "url": "https://tre-hd.co.jp/business/other.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和6年能登半島地震への対応",
+    "url": "https://tre-hd.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度末時点でのTREグループの環境マネジメント認証取得率は82.6%※です",
+    "url": "https://tre-hd.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "2030年までに再資源化率93%以上を達成する",
+    "url": "https://tre-hd.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "2040年までに再資源化率94%以上を達成する",
+    "url": "https://tre-hd.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年までに購入電力のCO",
+    "url": "https://tre-hd.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "2030年までにCO",
+    "url": "https://tre-hd.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "2050年までにCO",
+    "url": "https://tre-hd.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度には、気候関連財務情報開示タスクフォース（TCFD）への賛同を表明しました",
+    "url": "https://tre-hd.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "2013年のCO",
+    "url": "https://tre-hd.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年の電力使用量をもとに2030年に省エネや自家消費用太陽光発電設備導入等による総量削減及び残りの電力について100%再生可能エネルギーを導入した場合における影響額を試算",
+    "url": "https://tre-hd.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "2050年度までにCO",
+    "url": "https://tre-hd.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和6年能登半島地震への対応",
+    "url": "https://tre-hd.co.jp/download/",
+    "pass": 1
+   },
+   {
+    "quote": "令和6年能登半島地震への対応",
+    "url": "https://tre-hd.co.jp/news/416/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年09月01日",
+    "url": "https://tre-hd.co.jp/news/416/",
+    "pass": 1
+   },
+   {
+    "quote": "2009年に余剰電力買取制度が開始されて以来、設置が増加している太陽光パネルは製品寿命が30年とされ、2030年頃から交換や廃棄されるパネルの排出量が大幅に増えると見込まれています",
+    "url": "https://tre-hd.co.jp/wx/about/initiatives/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月22日",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年4月～2031年3月",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "20３0年代に売上高3,000億円、将来的には売上高5,000億円の「WX環境企業」を目指します",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2021年の発足以降 、リサイクル需要拡大を",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2030年代に売上高3,000億円",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年3月期 2028年3月期 2029年3月期 2030年3月期 2031年3月期",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年3月期 2027年3月期 2028年3月期 2029年3月期 2030年3月期 2031年3月期",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2040年までに事業売上高400億円を目指す",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "から無料でユーザー登録が可能です",
+    "url": "https://tre-hd.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "再資源化が可能な土木資材、石膏ボード、紙、プラスチックなどはリサイクル材料として出荷し、再資源化できない残渣は自社の最終処分場へ埋め立てる、一貫処理体制を構築し、お客様に安心と安全をご提供しています",
+    "url": "https://tre-hd.co.jp/business/process.html",
+    "pass": 1
+   },
+   {
+    "quote": "サプライチェーン全体の低炭素化を進める顧客のニーズや社会的要請が高まり、事業所の低炭素化を実現することで顧客のスコープ3のCO",
+    "url": "https://tre-hd.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "⚫ 業務提携等による建設系以外の顧客取り込み",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "業務提携等により新たな顧客",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客・廃棄物・工場操業データ等を",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客起点の価値創出",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "グループ主要顧客 大手建設会社、ハウスメーカー、大手製鉄会社、商社等",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取引先、株主、投資家等のステーク ホルダーに対 し、適宜適",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "すが、今後は幅広いお客様のニーズにお応えできる体制",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の本社機能を東京・芝浦の新オフ ィ スに集約し、お客様に",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、イーアン ドエムの取引先は近隣自治体や飲料メー",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取引先様への提案力向上にも寄与します",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取引先への電力供給営業に引き続き注力し、新規契約先",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "が再生可能エネルギー電力及び非化石価値の販売先を自",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "とから外部顧客への売上は減少しま したが、安定した操業",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "TREグループの事業は、株主や従業員、取引先、事業",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "する提案であるか、取引先ごとに総合的に判断しています",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● サプライチェーン全体の低炭素化を進める顧客のニーズ",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "とで顧客のスコープ3のCO2低減に貢献し、差別化・競",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※ ４ セグメン トごとの売上高については、今期より 「外部顧客への売上高」 に変更しています （比較可能性を確保する観点から、前期以前の数値も同様に",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※ １ セグメン トごとの売上高については、今期より 「外部顧客への売上高」 に変更しています",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "大口取引先との取引条件改定の影響から計画未達となり ま し",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "タケエイでんきは、 新規取引先の開拓が進み電力",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "TREグループの事業は、 株主や従業員、 取引先、 事業所周辺",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "あるか、 取引先ごとに総合的に判断しています",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "観点から、 お客様より高い評価",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● サプライチェーン全体の低炭素化を進める顧客のニーズや",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客のスコープ3のCO2低減に貢献し、 差別化 ・ 競争力の",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社及び連結子会社の顧客との契約から生じる収益に関する主要な事業 における主な履行義務の内容",
+    "url": "https://tre-hd.co.jp/assets/pdf/inv_20260529_5th_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、連結子会社が代理人に該当すると判断したものについては、顧客から受け取る額から仕入先に支",
+    "url": "https://tre-hd.co.jp/assets/pdf/inv_20260529_5th_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "廃棄物及び廃家電の処理に係る収益は、顧客との廃棄物処理契約及び廃家電処理に係る業務委託契約",
+    "url": "https://tre-hd.co.jp/assets/pdf/inv_20260529_5th_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "契約は、廃棄物の処理及び廃家電の再商品化が完了した一時点において、顧客が当該役務提供に対する",
+    "url": "https://tre-hd.co.jp/assets/pdf/inv_20260529_5th_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "令和6年能登半島地震災害廃棄物の仮置場の整備及び管理運営業務に係る収益は、顧客との業務委託",
+    "url": "https://tre-hd.co.jp/assets/pdf/inv_20260529_5th_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "契約に基づいて仮置場の整備及び管理運営業務を行い、それら役務等を顧客に提供する履行義務を負っ",
+    "url": "https://tre-hd.co.jp/assets/pdf/inv_20260529_5th_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当該契約は、役務等の提供を行った一時点において、顧客が当該役務等提供に対する支配",
+    "url": "https://tre-hd.co.jp/assets/pdf/inv_20260529_5th_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金属スクラップ商品又は製品の販売に係る収益は、顧客との販売契約等に基づいて商品又は製品を引",
+    "url": "https://tre-hd.co.jp/assets/pdf/inv_20260529_5th_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当該履行義務は、商品又は製品を引き渡す一時点において、顧客が当該商品又は製品に対する支配を",
+    "url": "https://tre-hd.co.jp/assets/pdf/inv_20260529_5th_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "収集運搬に係る収益は、顧客との収集運搬契約等に基づいて廃棄物の収集運搬に係る役務提供を行う",
+    "url": "https://tre-hd.co.jp/assets/pdf/inv_20260529_5th_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当該契約は、収集運搬が完了した一時点において、顧客が当該役務提供に対する支配を獲得して履行",
+    "url": "https://tre-hd.co.jp/assets/pdf/inv_20260529_5th_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当該契約は顧客に電力を販売した一時点において、顧客が当該電力に対する支配を獲得して履行義務",
+    "url": "https://tre-hd.co.jp/assets/pdf/inv_20260529_5th_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "請負契約等に基づき、主に顧客仕様の環境機器や環境プラント及び特殊車両の設計・製造を請け負い",
+    "url": "https://tre-hd.co.jp/assets/pdf/inv_20260529_5th_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⑴ 顧客との契約から生じた債権の残高及び契約資産の残高",
+    "url": "https://tre-hd.co.jp/assets/pdf/inv_20260529_5th_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業債権である受取手形及び売掛金は、顧客の信用リスクに晒されております",
+    "url": "https://tre-hd.co.jp/assets/pdf/inv_20260529_5th_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "投資有価証券は、主に取引先企業の業務又は資本提携等に関連する株式及び 投資事業有限責任組合への",
+    "url": "https://tre-hd.co.jp/assets/pdf/inv_20260529_5th_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "イ. 信用リスク(取引先の契約不履行等に係るリスク)の管理",
+    "url": "https://tre-hd.co.jp/assets/pdf/inv_20260529_5th_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループでは、与信管理関連の規程に従い、外部の信用調査機関の活用等により顧客ごとに格付",
+    "url": "https://tre-hd.co.jp/assets/pdf/inv_20260529_5th_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "けを行い、与信枠を設定するとともに、顧客ごとの回収期日管理及び債権残高管理とあわせて顧客の財",
+    "url": "https://tre-hd.co.jp/assets/pdf/inv_20260529_5th_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "投資有価証券については、定期的に時価や発行体(取引先企業)の財務状況等を把握し、取引先企業と",
+    "url": "https://tre-hd.co.jp/assets/pdf/inv_20260529_5th_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "デリバティブ取引の時価は、取引先金融機関から提示された価格等に基づき算定しており、レベ",
+    "url": "https://tre-hd.co.jp/assets/pdf/inv_20260529_5th_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生",
+    "url": "https://tre-hd.co.jp/assets/pdf/inv_20260529_5th_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 52,843 43,166 14,656 110,666 8,497 119,164",
+    "url": "https://tre-hd.co.jp/assets/pdf/inv_20260529_5th_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⑴ 顧客との契約から生じる収益を分解した情報",
+    "url": "https://tre-hd.co.jp/assets/pdf/inv_20260529_5th_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⑵ 顧客との契約から生じる収益を理解するための基礎となる情報",
+    "url": "https://tre-hd.co.jp/assets/pdf/inv_20260529_5th_2.pdf",
+    "pass": 2
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "事業と売上構成",
+    "url": "https://tre-hd.co.jp/ir/investor.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別連結売上高",
+    "url": "https://tre-hd.co.jp/ir/investor.html",
+    "pass": 1
+   },
+   {
+    "quote": "グループシナジー発揮による各事業セグメントの取組を着実に推進します",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（１）事業セグメント別業績目標 ----- 18",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（２）セグメント別事業戦略：廃棄物処理・再資源化事業 ----- 20",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（３）セグメント別事業戦略：資源リサイクル事業 ----- 21",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（４）セグメント別事業戦略：再生可能エネルギー事業 ----- 22",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ グループシナジー発揮による各事業セグメント",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３（1）中計2030 事業セグメント別業績目標①",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※ ※ パートナーシップ戦略の売上高は非表示、実績については進展に応じて各セグメントへ計上",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３（1）中計2030 事業セグメント別業績目標②",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３（2）セグメント別事業戦略 廃棄物処理・再資源化事業",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント売上高 462億円",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント事業利益 52億円",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント売上高 58７億円",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３（3）セグメント別事業戦略 資源リサイクル事業",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３（4）セグメント別事業戦略 再生可能エネルギー事業",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "他セグメントへのクロスセリング",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント売上高 259億円",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント事業利益 23億円",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント事業利益 ３８億円",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "各セグメントへ計上",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業セグメント",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://tre-hd.co.jp/assets/pdf/inv_20260529_5th_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注)１．「その他」の区分は報告セグメントに含まれない事業セグメントであり、「環境エンジニアリング事",
+    "url": "https://tre-hd.co.jp/assets/pdf/inv_20260529_5th_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "と、事業セグメントの「その他」に含まれる「環境エンジニアリング事業」の保守サービス、受注生",
+    "url": "https://tre-hd.co.jp/assets/pdf/inv_20260529_5th_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別の前期売上高は、金属及び自動車・家電リサイクルを行う「資源リサイクル事業」が４３４億円（構成比47％）、建設系廃棄物の収集運搬、中間処理、再資源化を行う「廃棄物処理・再資源化事業」が２６９億円（29％）、木質バイオマス発電、電力小売、森林経営などを行う「再生可能エネルギー事業」が１４４億円（15％）",
+    "url": "https://www.kabutecho.com/interview/%E8%B3%87%E6%BA%90%E3%83%BB%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E3%81%AE%E5%BE%AA%E7%92%B0%E3%82%92%E6%8B%85%E3%81%86%E7%B7%8F%E5%90%88%E7%92%B0%E5%A2%83%E4%BC%81%E6%A5%AD-%E5%A3%B2%E4%B8%8A/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "“持続可能な高収益モデルへの転換” 高成長×高収益",
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ビジネスモデル 13",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "価値創造の仕組み ｜ ビジネスモデル",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "持続可能な高収益モデルへの転換",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "により、新たな価値創出や地域循環型のビジネスモデル確",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ビジネスモデル 13",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "価値創造の仕組み ｜ ビジネスモデル",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ナレ ッジの高度な利活用を促進し、 新たなビジネスモデル創出へ",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "pass": 2
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "伸等の影響を受けま したが、 処分 ・ 収運単価の改定及び中間処",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の期限終了が数年後に迫る状況の中で保守的に事業計画を見",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "と、事業セグメントの「その他」に含まれる「環境エンジニアリング事業」の保守サービス、受注生",
+    "url": "https://tre-hd.co.jp/assets/pdf/inv_20260529_5th_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "び保守サービスに関するものであります",
+    "url": "https://tre-hd.co.jp/assets/pdf/inv_20260529_5th_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "契約負債は、主に、環境エンジニアリング事業における受注生産品の販売及び保守サービスの顧客との",
+    "url": "https://tre-hd.co.jp/assets/pdf/inv_20260529_5th_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "契約の支払条件に基づき顧客から受領した契約時、納品時又は保守 サービス提供時の前受額に関するもの",
+    "url": "https://tre-hd.co.jp/assets/pdf/inv_20260529_5th_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "環境エンジニアリング事業における受注生産品の販売、保守サービスに関するものであり、残存履行義務",
+    "url": "https://tre-hd.co.jp/assets/pdf/inv_20260529_5th_2.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "TREホールディングス — TREホールディングス TREホールディングス https://tre-hd.co.jp",
+    "url": "https://tre-hd.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "TREホールディングス - 統合報告書 2025 — TREホールディングス - 統合報告書 2025 TREホールディングス PDF https://tre-hd.co.jp > tre_integratedreport_2025j",
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "マネジメント | サステナビリティ | 地球の環境保全に貢献する ... — マネジメント | サステナビリティ | 地球の環境保全に貢献する ... TREホールディングス https://tre-hd.co.jp > sustainability > management",
+    "url": "https://tre-hd.co.jp/sustainability/management.html",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家の皆様へ | IR情報 | 地球の環境保全に貢献する ... — 株主・投資家の皆様へ | IR情報 | 地球の環境保全に貢献する ... TREホールディングス https://tre-hd.co.jp > investor",
+    "url": "https://tre-hd.co.jp/ir/investor.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 | 地球の環境保全に貢献する TREホールディングス — IR情報 | 地球の環境保全に貢献する TREホールディングス TREホールディングス https://tre-hd.co.jp > ...",
+    "url": "https://tre-hd.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "資料 ダウンロード | 地球の環境保全に貢献する TRE ... — 資料 ダウンロード | 地球の環境保全に貢献する TRE ... TREホールディングス https://tre-hd.co.jp > download",
+    "url": "https://tre-hd.co.jp/download/",
+    "pass": 3
+   },
+   {
+    "quote": "【 TREホールディングス 】[9247]IR情報 中期経営計画や 決算 短信 — 【 TREホールディングス 】[9247]IR情報 中期経営計画や 決算 短信 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=9247",
+    "pass": 3
+   },
+   {
+    "quote": "グループ会社 | 地球の環境保全に貢献する TREホールディングス — グループ会社 | 地球の環境保全に貢献する TREホールディングス TREホールディングス https://tre-hd.co.jp > company > group",
+    "url": "https://tre-hd.co.jp/company/group.html",
+    "pass": 3
+   },
+   {
+    "quote": "環境 | 地球の環境保全に貢献する TREホールディングス — 環境 | 地球の環境保全に貢献する TREホールディングス TREホールディングス https://tre-hd.co.jp > sustainability > environment",
+    "url": "https://tre-hd.co.jp/sustainability/environment.html",
+    "pass": 3
+   },
+   {
+    "quote": "TREホールディングス 【9247】の 社長 ・役員 - キタイシホン — TREホールディングス 【9247】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/9247/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "〈 インタビュー 〉 TREホールディングス 松岡直人会長 — 〈 インタビュー 〉 TREホールディングス 松岡直人会長 日刊自動車新聞 https://www.netdenjd.com > archives",
+    "url": "https://www.netdenjd.com/archives/393169",
+    "pass": 3
+   },
+   {
+    "quote": "TREホールディングス の「経営者への提言」 OpenWork — TREホールディングス の「経営者への提言」 OpenWork OpenWork https://www.openwork.jp > ... > TREホールディングス",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C2x00000WGGdA&q_no=10",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://tre-hd.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tre-hd.co.jp/company/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tre-hd.co.jp/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tre-hd.co.jp/wx/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tre-hd.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tre-hd.co.jp/ir/coomessage.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tre-hd.co.jp/ir/investor.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tre-hd.co.jp/ir/finance.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tre-hd.co.jp/ir/stock.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tre-hd.co.jp/ir/stock_chart.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tre-hd.co.jp/ir/calendar.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tre-hd.co.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tre-hd.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tre-hd.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tre-hd.co.jp/business/process.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tre-hd.co.jp/business/recycle.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tre-hd.co.jp/business/energy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tre-hd.co.jp/business/other.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tre-hd.co.jp/sustainability/environment.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tre-hd.co.jp/download/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tre-hd.co.jp/news/416/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tre-hd.co.jp/wx/about/examples/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tre-hd.co.jp/wx/about/community/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tre-hd.co.jp/wx/about/initiatives/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tre-hd.co.jp/wx/about/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://tre-hd.co.jp/assets/uploads/mtbp2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tre-hd.co.jp/news/assets/uploads/TRE_news_20231129.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tre-hd.co.jp/assets/pdf/company_access.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tre-hd.co.jp/assets/pdf/inv_20260529_5th_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tre-hd.co.jp/assets/pdf/inv_20260529_5th_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tre-hd.co.jp/download/assets/uploads/trehld_pamphlet_2609.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tre-hd.co.jp/assets/images/common/img_gnav-business.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://tre-hd.co.jp/assets/images/common/bnr_business01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://tre-hd.co.jp/assets/images/common/bnr_business02.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://tre-hd.co.jp/assets/images/common/bnr_business03.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://tre-hd.co.jp/assets/images/common/bnr_business04.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://tre-hd.co.jp/assets/images/business/img_business01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://tre-hd.co.jp/assets/images/business/img_business02.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://tre-hd.co.jp/assets/images/business/img_business03.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.kabutecho.com/interview/%E8%B3%87%E6%BA%90%E3%83%BB%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E3%81%AE%E5%BE%AA%E7%92%B0%E3%82%92%E6%8B%85%E3%81%86%E7%B7%8F%E5%90%88%E7%92%B0%E5%A2%83%E4%BC%81%E6%A5%AD-%E5%A3%B2%E4%B8%8A/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "TREホールディングス",
+   "results": [
+    "https://tre-hd.co.jp/",
+    "https://www.nikkei.com/nkd/company/?scode=9247",
+    "https://ja.wikipedia.org/wiki/TRE%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "https://www.takeei.co.jp/sustainability/tre.html",
+    "https://minkabu.jp/stock/9247",
+    "https://ja.wikipedia.org/wiki/TREホールディングス",
+    "https://finance.yahoo.co.jp/quote/9247.T",
+    "https://finance.yahoo.co.jp/quote/9247.T/profile",
+    "https://www.reuters.com/jp/markets/companies/9247.T",
+    "https://tre-hd.co.jp/en/"
+   ]
+  },
+  {
+   "query": "TREホールディングス ビジネスモデル",
+   "results": [
+    "https://tre-hd.co.jp/",
+    "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "https://tre-hd.co.jp/sustainability/management.html",
+    "https://note.com/tatsuya_sabato/n/n25bcc77ca95b",
+    "https://tre-hd.co.jp/ir/investor.html",
+    "https://www.youtube.com/watch?v=Hof5tOmwmpI",
+    "https://www.crex-data.com/company/9247",
+    "https://tr-g.co.jp/2337/",
+    "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2026j.pdf",
+    "https://ja.wikipedia.org/wiki/TREホールディングス"
+   ]
+  },
+  {
+   "query": "TREホールディングス 決算説明資料",
+   "results": [
+    "https://tre-hd.co.jp/ir/",
+    "https://tre-hd.co.jp/download/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=9247",
+    "https://irbank.net/E36751/reports",
+    "https://tre-hd.co.jp/",
+    "https://kabutan.jp/stock/finance?code=9247",
+    "https://tre-hd.co.jp/ir/library/",
+    "https://edinetdb.jp/company/E36751/presentations/",
+    "http://ke.kabupro.jp/code/9247.htm",
+    "https://disclosure.catr.jp/companies/e4101/182557/disclosures"
+   ]
+  },
+  {
+   "query": "TREホールディングス 事業系統図",
+   "results": [
+    "https://tre-hd.co.jp/",
+    "https://tre-hd.co.jp/download/assets/uploads/tre_integratedreport_2025j.pdf",
+    "https://tre-hd.co.jp/company/group.html",
+    "https://tre-hd.co.jp/sustainability/environment.html",
+    "https://tre-hd.co.jp/ir/investor.html",
+    "https://www.youtube.com/watch?v=kT8cvUbfW58",
+    "https://edinetdb.jp/company/E36751/text",
+    "https://www.takeei.co.jp/sustainability/tre.html",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20240515/20240515597951.pdf",
+    "https://ja.wikipedia.org/wiki/TREホールディングス"
+   ]
+  },
+  {
+   "query": "TREホールディングス 社長 インタビュー",
+   "results": [
+    "https://tre-hd.co.jp/",
+    "https://www.kabutecho.com/interview/%E8%B3%87%E6%BA%90%E3%83%BB%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E3%81%AE%E5%BE%AA%E7%92%B0%E3%82%92%E6%8B%85%E3%81%86%E7%B7%8F%E5%90%88%E7%92%B0%E5%A2%83%E4%BC%81%E6%A5%AD-%E5%A3%B2%E4%B8%8A/",
+    "https://kitaishihon.com/company/9247/board-of-director",
+    "https://www.netdenjd.com/archives/393169",
+    "https://www.openwork.jp/company_answer.php?m_id=a0C2x00000WGGdA&q_no=10",
+    "https://www.takeei.co.jp/sustainability/tre.html",
+    "https://www.re-ver.co.jp/recruit/message/",
+    "https://qomunelab.com/projects/treh/",
+    "https://tre-hd.co.jp/company/management.html",
+    "https://open-keieisha-db.com/executives/abe-mitsuo"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像16件／外部1頁・検索5回）"
+ }
+}

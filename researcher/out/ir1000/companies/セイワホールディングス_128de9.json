@@ -1,0 +1,576 @@
+{
+ "name": "セイワホールディングス",
+ "aliases": [],
+ "context": "証券コード523A／金属製品／グロース（内国株式）／2026.05期 売上高8,011百万円 営業利益率18.8%",
+ "researched_at": "2026-11-02T18:09:12.321272+00:00",
+ "official_url": "https://seiwaholdings.co.jp/",
+ "identified_by": "search:yahoo_jp:セイワホールディングス",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業ストーリー",
+    "value": "愛知の小さな溶接屋からの再出発",
+    "url": "https://note.com/mahjong_lab/n/ne1c454e131f4",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "独自製品も展開する特殊配線のパイオニア",
+    "url": "https://seiwaholdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、金融商品取引法等の諸法令および東京証券取引所の定める適時開示等に関する規則（以下「適時開示規則」という）に従って、情報開示を行います",
+    "url": "https://seiwaholdings.co.jp/ir/management/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "諸法令および適時開示規則に基づく情報開示にあたっては、TDnet（Timely Disclosure network:適時開示情報伝達システム）、EDINET（Electronic Disclosure for Investors' NETwork:金融商品取引法に基づく有価証券報告書等の開示書類に関する電子開示システム）において開示した後、当社ウェブサイトへ掲載します",
+    "url": "https://seiwaholdings.co.jp/ir/management/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "具体的な業務システムの構成については、目論見書・公式IRに個別SaaS名の開示はなく、汎用クラウドサービスと内製機能の組み合わせが想定されるが、ここは推測の域を出ない",
+    "url": "https://note.com/mahjong_lab/n/ne1c454e131f4",
+    "pass": 3
+   },
+   {
+    "quote": "令和８年度近畿地方資源循環自治体フォーラム 第二部 個別テーマセッション（１）プラ回収・再商品化の推進",
+    "url": "https://www.youtube.com/watch?v=_yo1HJMF6II",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、製品が大きな問題なく予定通りに納品できているかの管理、お取引先との案件の窓口対応、見積書の作成、現場の仕組み作りなどをおこなっています",
+    "url": "https://recruit.seiwaholdings.co.jp/interview/%E3%82%BB%E3%82%A4%E3%83%AF%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AF%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/",
+    "pass": 3
+   },
+   {
+    "quote": "〈インタビュー〉ダイハツ、福田昭夫執行役員営業CS本部長 EV販売「学んでいる最中」 業販店と連携しサービス維持",
+    "url": "https://www.netdenjd.com/archives/665692",
+    "pass": 3
+   },
+   {
+    "quote": "メール配信サービス「ブラストメール」への不正アクセスによる情報漏洩について （2026年10月22日15時配信）",
+    "url": "https://www.netdenjd.com/archives/665692",
+    "pass": 3
+   },
+   {
+    "quote": "紙面ビューワーのサービス再開について",
+    "url": "https://www.netdenjd.com/archives/665692",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "グループ会社紹介",
+    "url": "https://seiwaholdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ会社紹介",
+    "url": "https://seiwaholdings.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "グループ会社紹介",
+    "url": "https://seiwaholdings.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ会社紹介",
+    "url": "https://seiwaholdings.co.jp/ir/management/message/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ会社紹介",
+    "url": "https://seiwaholdings.co.jp/ir/management/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ会社紹介",
+    "url": "https://seiwaholdings.co.jp/ir/management/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ会社紹介",
+    "url": "https://seiwaholdings.co.jp/ir/library/results/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ会社紹介",
+    "url": "https://seiwaholdings.co.jp/ir/library/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ会社紹介",
+    "url": "https://seiwaholdings.co.jp/ir/library/securities/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ会社紹介",
+    "url": "https://seiwaholdings.co.jp/ir/library/material/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ会社紹介",
+    "url": "https://seiwaholdings.co.jp/ir/stock/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ会社紹介",
+    "url": "https://seiwaholdings.co.jp/ir/stock/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "なお買収案件の獲得については、買収候補先のソーシングは自社に加え、仲介会社や金融機関等からの紹介を利用しており、25/5期では151案件の紹介を受けた",
+    "url": "https://note.com/mahjong_lab/n/ne1c454e131f4",
+    "pass": 3
+   },
+   {
+    "quote": "セイワホールディングスは製造業のパートナー | セイワホールディングス 採用サイト",
+    "url": "https://recruit.seiwaholdings.co.jp/interview/%E3%82%BB%E3%82%A4%E3%83%AF%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AF%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/",
+    "pass": 3
+   },
+   {
+    "quote": "セイワホールディングスは製造業のパートナー",
+    "url": "https://recruit.seiwaholdings.co.jp/interview/%E3%82%BB%E3%82%A4%E3%83%AF%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AF%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/",
+    "pass": 3
+   },
+   {
+    "quote": "大学4年生の就職活動の最中に、採用エージェントからセイワホールディングス（当時は有限会社セイワ工業）を紹介してもらったのがきっかけです",
+    "url": "https://recruit.seiwaholdings.co.jp/interview/%E3%82%BB%E3%82%A4%E3%83%AF%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AF%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、今思い返してみると、エージェントからセイワを紹介してもらった時点でなんとなく「私はここで働くんだろうな」という感覚があったように思います",
+    "url": "https://recruit.seiwaholdings.co.jp/interview/%E3%82%BB%E3%82%A4%E3%83%AF%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AF%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/",
+    "pass": 3
+   },
+   {
+    "quote": "「セイワは製造業のパートナー」という理解が必要",
+    "url": "https://recruit.seiwaholdings.co.jp/interview/%E3%82%BB%E3%82%A4%E3%83%AF%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AF%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/",
+    "pass": 3
+   },
+   {
+    "quote": "今後入社予定の方には、セイワが製造業のパートナーであると理解して、製造業について事前に勉強しておくことを強くすすめたいです",
+    "url": "https://recruit.seiwaholdings.co.jp/interview/%E3%82%BB%E3%82%A4%E3%83%AF%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AF%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "ビジネスモデル：セイワプラットフォームによる集中管理",
+    "url": "https://note.com/mahjong_lab/n/ne1c454e131f4",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、グループで生み出した資金をIT投資や人材強化、新規M&Aに再投資することで、継続的な成長を目指すビジネスモデルとなっている",
+    "url": "https://note.com/mahjong_lab/n/ne1c454e131f4",
+    "pass": 3
+   },
+   {
+    "quote": "日本のものづくりを守るという大義と、ロールアップによる利益の非連続成長という収益構造を両立させている点で、長期で応援したい銘柄",
+    "url": "https://note.com/mahjong_lab/n/ne1c454e131f4",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "- M&Aパイプラインの枯渇または買収単価の上昇（仲介依存度が一定あるため相場感の影響を受ける）",
+    "url": "https://note.com/mahjong_lab/n/ne1c454e131f4",
+    "pass": 3
+   },
+   {
+    "quote": "【SBI証券】米中間選挙直前チェック、株式市場への影響と個人投資家の備え 木曜のストックカフェ(10/29)",
+    "url": "https://www.youtube.com/watch?v=_yo1HJMF6II",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "ベンダーロックではなく既存パッケージの組み合わせで運用しているとすれば、それ自体が再現性とコスト効率の強みになる——という見方が成り立つ程度にとどめておくのが妥当だろう",
+    "url": "https://note.com/mahjong_lab/n/ne1c454e131f4",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月期予想ベースでは営業利益約15.5億円・営業利益率20％（前期9.0％）への大幅な利益率改善を計画しており、利益率改善の背景にあるM&A後の収益性向上やコスト構造見直しの成果がどこまで定着するかが投資判断のポイントになる",
+    "url": "https://note.com/mahjong_lab/n/ne1c454e131f4",
+    "pass": 3
+   },
+   {
+    "quote": "【相場は上げ100日下げ3日】50年サイクルが示すインフレの本質/在庫積み上げ後は急落注意/次期総理と株価のピーク＜糸島孝俊× 木野内栄治＞Pictet Market Lounge 2025.9.2",
+    "url": "https://www.youtube.com/watch?v=_yo1HJMF6II",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年5月26日 08:20",
+    "url": "https://note.com/mahjong_lab/n/ne1c454e131f4",
+    "pass": 3
+   },
+   {
+    "quote": "2019年3月に野見山勇大氏が代表取締役に就任して以降、後継者不在に悩む中小企業を連続的にM&Aし、バリューアップを行う事業モデルに転換した",
+    "url": "https://note.com/mahjong_lab/n/ne1c454e131f4",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月期 第3四半期連結累計期間は、売上収益が59.97億円（前年同期比1.2％増）と微増ながら、営業利益は13.15億円（同74.6％増）、親会社の所有者に帰属する四半期利益は8.76億円（同129.8％増）と大幅な増益を達成",
+    "url": "https://note.com/mahjong_lab/n/ne1c454e131f4",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月期予想ベースでは営業利益約15.5億円・営業利益率20％（前期9.0％）への大幅な利益率改善を計画しており、利益率改善の背景にあるM&A後の収益性向上やコスト構造見直しの成果がどこまで定着するかが投資判断のポイントになる",
+    "url": "https://note.com/mahjong_lab/n/ne1c454e131f4",
+    "pass": 3
+   },
+   {
+    "quote": "令和８年度近畿地方資源循環自治体フォーラム 第二部 個別テーマセッション（１）プラ回収・再商品化の推進",
+    "url": "https://www.youtube.com/watch?v=_yo1HJMF6II",
+    "pass": 3
+   },
+   {
+    "quote": "2021年の4月に、セイワホールディングス（以下、セイワ）に新卒で入社しました",
+    "url": "https://recruit.seiwaholdings.co.jp/interview/%E3%82%BB%E3%82%A4%E3%83%AF%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AF%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月18日 05:00",
+    "url": "https://www.netdenjd.com/archives/665692",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月2日 11:30",
+    "url": "https://www.netdenjd.com/archives/665692",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月2日 05:00",
+    "url": "https://www.netdenjd.com/archives/665692",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月22日 05:00",
+    "url": "https://www.netdenjd.com/archives/665692",
+    "pass": 3
+   },
+   {
+    "quote": "2026年9月17日 05:00",
+    "url": "https://www.netdenjd.com/archives/665692",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月30日 05:00",
+    "url": "https://www.netdenjd.com/archives/665692",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月14日 05:00",
+    "url": "https://www.netdenjd.com/archives/665692",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月29日 05:00",
+    "url": "https://www.netdenjd.com/archives/665692",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月28日 15:28",
+    "url": "https://www.netdenjd.com/archives/665692",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月22日 15:32",
+    "url": "https://www.netdenjd.com/archives/665692",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月22日 14:50",
+    "url": "https://www.netdenjd.com/archives/665692",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月22日 03:20",
+    "url": "https://www.netdenjd.com/archives/665692",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "目指す世界観 - セイワホールディングス — 目指す世界観 - セイワホールディングス セイワホールディングス https://seiwaholdings.co.jp > view",
+    "url": "https://seiwaholdings.co.jp/view/",
+    "pass": 3
+   },
+   {
+    "quote": "セイワホールディングス （523A）IPO分析｜製造業M&Aの ... — セイワホールディングス （523A）IPO分析｜製造業M&Aの ... IPOナビ https://ipo-navi.jp > コラム > 上場申請会社情報",
+    "url": "https://ipo-navi.jp/column/seiwa-holdings-523a-ipo",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 セイワホールディングス 中期経営計画 - EDINET DB — 株式会社 セイワホールディングス 中期経営計画 - EDINET DB EDINET DB https://edinetdb.jp > ... > IR資料",
+    "url": "https://edinetdb.jp/company/E41409/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "セイワホールディングス - 証券リサーチセンター — セイワホールディングス - 証券リサーチセンター 証券リサーチセンター https://holistic-r.org > レポート",
+    "url": "https://holistic-r.org/report/523a/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 - セイワホールディングス — 決算説明資料 - セイワホールディングス セイワホールディングス https://seiwaholdings.co.jp > IR情報",
+    "url": "https://seiwaholdings.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "セイワホールディングス [523A]：2026年5月期第3四半期 決算 ... — セイワホールディングス [523A]：2026年5月期第3四半期 決算 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260414503349/",
+    "pass": 3
+   },
+   {
+    "quote": "【 セイワホールディングス 】[523A]IR情報 中期 ... - 日本経済新聞 — 【 セイワホールディングス 】[523A]IR情報 中期 ... - 日本経済新聞 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=523A",
+    "pass": 3
+   },
+   {
+    "quote": "523A 東証グロース 決算 ： セイワホールディングス - 株式市況 — 523A 東証グロース 決算 ： セイワホールディングス - 株式市況 松井証券 https://finance.matsui.co.jp > stock > settlement",
+    "url": "https://finance.matsui.co.jp/stock/523A/settlement/index",
+    "pass": 3
+   },
+   {
+    "quote": "セイワホールディングス — セイワホールディングス セイワホールディングス https://seiwaholdings.co.jp",
+    "url": "https://seiwaholdings.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 セイワホールディングス 主催 個人投資家 ... - YouTube — 株式会社 セイワホールディングス 主催 個人投資家 ... - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=_yo1HJMF6II",
+    "pass": 3
+   },
+   {
+    "quote": "【 セイワホールディングス 】[523A]有価証券報告書 | 日経電子版 — 【 セイワホールディングス 】[523A]有価証券報告書 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > ednr",
+    "url": "https://www.nikkei.com/nkd/company/ednr/?scode=523A",
+    "pass": 3
+   },
+   {
+    "quote": "セイワホールディングス は製造業のパートナー — セイワホールディングス は製造業のパートナー セイワホールディングス https://recruit.seiwaholdings.co.jp > interview > セイワホ...",
+    "url": "https://recruit.seiwaholdings.co.jp/interview/%E3%82%BB%E3%82%A4%E3%83%AF%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AF%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/",
+    "pass": 3
+   },
+   {
+    "quote": "野見山勇大 セイワホールディングス社長 (@y_nomiyama) / X — 野見山勇大 セイワホールディングス社長 (@y_nomiyama) / X X https://x.com > y_nomiyama",
+    "url": "https://x.com/y_nomiyama",
+    "pass": 3
+   },
+   {
+    "quote": "注目の若手二代目 社長 【 セイワホールディングス ・野見山勇大 ... — 注目の若手二代目 社長 【 セイワホールディングス ・野見山勇大 ... YouTube https://www.youtube.com > playlist",
+    "url": "https://www.youtube.com/playlist?list=PLdE1VJq1cnMeDkLKFfUm_X6k9-b1_O5cj",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "「事業承継」に全力で取り組み、社会や取引先に貢献できる中小企業のものづくりのモデルを実現することを目指しており",
+    "url": "https://www.youtube.com/watch?v=_yo1HJMF6II",
+    "pass": 3
+   },
+   {
+    "quote": "「事業承継」に全力で取り組み、社会や取引先に貢献できる中小企業のものづくりのモデルを実現することを目指しております",
+    "url": "https://www.youtube.com/watch?v=_yo1HJMF6II",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、製品が大きな問題なく予定通りに納品できているかの管理、お取引先との案件の窓口対応、見積書の作成、現場の仕組み作りなどをおこなっています",
+    "url": "https://recruit.seiwaholdings.co.jp/interview/%E3%82%BB%E3%82%A4%E3%83%AF%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AF%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/",
+    "pass": 3
+   },
+   {
+    "quote": "セイワには「お客様に感動を届ける」と「自分の仕事を責任をもってやり切る」という文化があって、野見山自身がそれを体現していると感じます",
+    "url": "https://recruit.seiwaholdings.co.jp/interview/%E3%82%BB%E3%82%A4%E3%83%AF%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AF%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/",
+    "pass": 3
+   },
+   {
+    "quote": "それらの積み重ねがお客様から信頼できると感じていただけると考えます",
+    "url": "https://recruit.seiwaholdings.co.jp/interview/%E3%82%BB%E3%82%A4%E3%83%AF%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AF%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://seiwaholdings.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seiwaholdings.co.jp/ir",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seiwaholdings.co.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seiwaholdings.co.jp/ir/management/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seiwaholdings.co.jp/ir/management/governance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seiwaholdings.co.jp/ir/management/disclosure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seiwaholdings.co.jp/ir/library/results/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seiwaholdings.co.jp/ir/library/presentation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seiwaholdings.co.jp/ir/library/securities/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seiwaholdings.co.jp/ir/library/material/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seiwaholdings.co.jp/ir/stock/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seiwaholdings.co.jp/ir/stock/meeting/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://note.com/mahjong_lab/n/ne1c454e131f4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260414503349/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=_yo1HJMF6II",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://recruit.seiwaholdings.co.jp/interview/%E3%82%BB%E3%82%A4%E3%83%AF%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AF%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.netdenjd.com/archives/665692",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "セイワホールディングス",
+   "results": [
+    "https://seiwaholdings.co.jp/",
+    "https://www.ipokiso.com/company/2026/seiwaholdings.html",
+    "https://www.nikkei.com/nkd/company/?scode=523A",
+    "https://kabutan.jp/stock/?code=523A",
+    "https://www.youtube.com/watch?v=rbg5_d7iSUE&vl=ja",
+    "https://www.yahoo.com/",
+    "https://mail.yahoo.com/;_ylt=A2RRZgPK0ehqRUgF2tpXNyoA;_ylu=Y29sbwN1cy1lYXN0LTEEcG9zAzIEdnRpZAMEc2VjA3Ny",
+    "https://login.yahoo.com/;_ylt=A2RRZgPK0ehqRUgF29pXNyoA;_ylu=Y29sbwN1cy1lYXN0LTEEcG9zAzMEdnRpZAMEc2VjA3Ny",
+    "https://finance.yahoo.com/?fr=sycsrp_catchall",
+    "https://search.yahoo.com/;_ylt=A2RRZgPK0ehqRUgF3dpXNyoA;_ylu=Y29sbwN1cy1lYXN0LTEEcG9zAzUEdnRpZAMEc2VjA3Ny"
+   ]
+  },
+  {
+   "query": "セイワホールディングス ビジネスモデル",
+   "results": [
+    "https://note.com/mahjong_lab/n/ne1c454e131f4",
+    "https://seiwaholdings.co.jp/view/",
+    "https://ipo-navi.jp/column/seiwa-holdings-523a-ipo",
+    "https://edinetdb.jp/company/E41409/midterm-plans/",
+    "https://holistic-r.org/report/523a/",
+    "https://portal.unicornfarm.jp/ipo/seiwa-hd-2026-v3",
+    "https://note.com/sugu_sugu/n/n9e986f2e9151",
+    "https://jinteki-shihon-kaiji.hatenablog.com/entry/2026/09/25/222021",
+    "https://www.wordplays.com/crossword-solver/\"is-a-copy-editor\"-\"creative-writing\"-interview-2017-author-award",
+    "https://www.wordplays.com/crossword-solver/\"is-a-copy-editor-and-recipient-of-an-award-for-Creative-Writing\"-\"interview\""
+   ]
+  },
+  {
+   "query": "セイワホールディングス 決算説明資料",
+   "results": [
+    "https://seiwaholdings.co.jp/ir/library/presentation/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260414503349/",
+    "https://www.seiwa-chuo-holdings.co.jp/ir/library/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=523A",
+    "https://finance.matsui.co.jp/stock/523A/settlement/index",
+    "https://www.jpx.co.jp/listing/stocks/new/t13vrt000000nv77-att/03SEIWAHOLDINGS-1s.pdf",
+    "https://www.moomoo.com/ja/news/notice/1001127179/financial-results-presentation-for-the-first-quarter-of-the-fiscal",
+    "https://www.youtube.com/watch?v=r5YDUgtGXn4",
+    "https://www.rakuten-sec.co.jp/web/special/seiwaholdings/",
+    "https://www.facebook.com/login.php"
+   ]
+  },
+  {
+   "query": "セイワホールディングス 事業系統図",
+   "results": [
+    "https://seiwaholdings.co.jp/",
+    "https://www.youtube.com/watch?v=_yo1HJMF6II",
+    "https://ipo-navi.jp/column/seiwa-holdings-523a-ipo",
+    "https://www.jpx.co.jp/listing/stocks/new/t13vrt000000nv77-att/03SEIWAHOLDINGS-1s.pdf",
+    "https://www.nikkei.com/nkd/company/ednr/?scode=523A",
+    "https://ipo-method.com/ipo-support/9657/",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260828/20260827527039.pdf",
+    "https://note.com/mahjong_lab/n/ne1c454e131f4",
+    "https://www.youtube.com/watch?v=rbg5_d7iSUE&vl=ja",
+    "https://support.google.com/youtube/answer/9891124?hl=en&co=GENIE.Platform=Desktop"
+   ]
+  },
+  {
+   "query": "セイワホールディングス 社長 インタビュー",
+   "results": [
+    "https://recruit.seiwaholdings.co.jp/interview/%E3%82%BB%E3%82%A4%E3%83%AF%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%81%AF%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/",
+    "https://www.netdenjd.com/archives/665692",
+    "https://x.com/y_nomiyama",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOFD154K00V10C26A9000000",
+    "https://www.youtube.com/playlist?list=PLdE1VJq1cnMeDkLKFfUm_X6k9-b1_O5cj",
+    "https://www.ma-cp.com/case/success/46/",
+    "https://www.reddit.com/r/Daniellarson/comments/n6mlkj/nsfw_on_his_tiktok_live_daniel_nude/",
+    "https://www.zhihu.com/question/1995834955431896526",
+    "https://www.reddit.com/r/TikTok/",
+    "https://www.zhihu.com/tardis/zm/art/573476219"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部5頁・検索5回）",
+  "事業内容": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部5頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部5頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部5頁・検索5回）"
+ }
+}

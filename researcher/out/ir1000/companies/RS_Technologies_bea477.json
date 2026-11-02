@@ -1,0 +1,1136 @@
+{
+ "name": "ＲＳ　Ｔｅｃｈｎｏｌｏｇｉｅｓ",
+ "aliases": [],
+ "context": "証券コード3445／金属製品／プライム（内国株式）／2025.12期 売上高76,707百万円 営業利益率18.6%",
+ "researched_at": "2026-11-02T18:09:38.166769+00:00",
+ "official_url": "https://www.rstechnologiesinc.com/",
+ "identified_by": "search:yahoo_jp:RS Technologies",
+ "profile": {
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "23,794 18,984 16,283 59,062 138 59,200 － 59,200",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部売上高又は振替高",
+    "value": "0 1,458 － 1,458 － 1,458 △1,458 －",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "27,528 18,778 30,244 76,551 155 76,707 － 76,707",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部売上高又は振替高",
+    "value": "0 2,115 225 2,340 52 2,392 △2,392 －",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   }
+  ],
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2010",
+    "url": "https://shachomeikan.jp/presidents/detail/10062694/5196",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "1,534人",
+    "url": "https://shachomeikan.jp/presidents/detail/10062694/5196",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業概要",
+    "value": "シリコンウェーハの再生、販売。半導体材料・パーツ、電子材料、電子機器部品等の販売。半導体関連装置・部材等の買取及び販売。太陽光発電事業。半導体シリコンウェーハ製造の技術コンサルティング",
+    "url": "https://shachomeikan.jp/presidents/detail/10062694/5196",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "ビジネスモデル": [
+   {
+    "quote": "8インチプライムウェーハ商流と売上構成イメージ",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "また、LEシステムはビジネスモデルを微修正し、日本国内でトータルエネルギーソリューションカンパニーとしてプランを増やします",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "Gritekの8インチプライムウェーハの商流と売上高構成です",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループのシリコンウェーハ再生事業のビジネスモデルを示すと下図のとおりであります",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "［事業系統図］",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "下図は、2025年12月末現在の当社グループの事業系統図を示しております",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "その後、マーケットとの対話により、再生ウェーハの品質や価格のギャップを解消し、台湾、欧州、米国など、グローバル顧客を開拓しました",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "当社主要顧客へのクロスセルを行い、約5年間で売上高を2倍にしました",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "これは主要顧客である大手台湾ファウンドリメーカーの増産が要因で、当社の再生ウェーハの受注数も増加しています",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "自社で製造したウェーハをEpi HOUSEに販売し、そこで膜付けをした後にエンドユーザーに販売しています",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "そこからエンドユーザーのエッチング装置メーカーや半導体工場に販売されます",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループのシリコンウェーハ再生事業は、国内外の半導体製造会社を取引先とし、大手ファウンドリ（※3）を含めグローバルに販売活動を実施しており、",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループでは、当社の主力事業であるウェーハ再生事業は顧客需要が堅調に推移したことにより、順調に拡大しました",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "高い顧客需要と増産設備投資、生産効率施策等により、前年同期比で販売を増加させたことによります",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "これらの活動等の結果、前期から引き続き国内外再生市場の需要が堅調に推移したこと及び増産設備投資の寄与により、外部顧客への売上高は",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高は",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "その他におきましては、ソーラー事業及び技術コンサルティング事業等の業績を示しており、外部顧客への売上高は",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "今後も、顧客満足を指向した経営をするために、更なる研究開発や最先端設備の拡充等を通じて、再生ウェーハの安定供給を継続できるように努めてまいります",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "顧客提供物の加工",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "５．売上高については、顧客との契約から生じる収益以外の収益に重要性が乏しいため、顧客との契約から生じる収益及びそれ以外の収益を区分して記載しておりません",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "(注) 売上高は顧客の所在地を基礎とし、国又は地域に分類しております",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "３ 主要な顧客ごとの情報",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の名称又は氏名",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、企業理念の「常に創造し挑戦する」ことを念頭に、お客様のビジネスの進化を支援させて頂くとともに、日本の高い技術力を通じて様々な半導体分野におけるブレークスルーを実現し、皆様とともに豊かな世界を創造することを目指して参りました",
+    "url": "https://www.rs-tec.jp/corporate/message/",
+    "pass": 3
+   },
+   {
+    "quote": "引き続き、ステークホルダーの皆様（お客様、お取引先、株主・投資家の皆様、社員等）への感謝の気持ちを忘れず、未来に向けて飛躍していきたいと強く思っております",
+    "url": "https://www.rs-tec.jp/corporate/message/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "主力セグメント動向",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "トータルエネルギーソリューション事業に新規参入",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "当社の主力製品である8インチウェーハは、市況環境の影響を受けにくく、高い利益率を維持しやすいと言えます",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "商社機能では、下期に子会社であるユニオンエレクトロニクスソリューションの特定商材の売上減少がありましたが、半導体検査装置など他の商材でカバーし、売上高・営業利益ともに増収増益で着地しました",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "また、LEシステムはビジネスモデルを微修正し、日本国内でトータルエネルギーソリューションカンパニーとしてプランを増やします",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "まず、2023年12月に事業承継によって参入したトータルエネルギーソリューション事業を行うLEシステムについてです",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "また、現在はVRFB用電解液に特化したビジネスとなっていますが、今後はエネルギーコスト最適化から蓄電所建設までをお客さまに提供できるトータルソリューションプロバイダーとして、ワンストップサービスの提供を目指します",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "日本から中国に電解液を輸出すると、原料・製品それぞれの輸送コストなどの課題が発生しますので、中国に拠点を持つことは中国市場に参入するためには非常に重要だと考えています",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "今後は浪江工場での電解液製造に加え、系統連系蓄電池事業としてエネルギーコストの最適化から蓄電所建設までを提供し、トータルエネルギーソリューションカンパニーを目指していきます",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、商社ビジネスを展開するユニオンエレクトロニクスソリューション、トータルエネルギーソリューション事業を展開するLEシステムがあります",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "商社機能には、RS Technologiesと子会社のユニオンエレクトロニクスソリューションでの半導体検査装置や、電子部品などの代理店販売が含まれます",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "立川ブラインド工業、上期は全セグメント増収 調光製品・電動製品・間仕切を成長軸に",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "日東精工、中間期は増収増益、営業利益は前年比31.3％増 インド好調、自動車・データセンター向け付加価値製品が伸長",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "環境配慮製品",
+    "url": "https://www.rs-tec.jp/ir/library/briefing/",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの主要な事業であるシリコンウェーハ再生事業は、ラサ工業株式会社が25年間世界の半導体製造会社にサービスを提供してきた事業を引き継いだものであり、半導体製造過程で発生するモニタウェーハ（※1）の再生を行う事業であります",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "ウェーハ再生事業のその他として、シリコンウェーハ販売事業、酸化膜成膜加工サービス事業を",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "※4 プライムシリコンウェーハ： カッティングされICチップとして製品化されるウェーハ",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "酸化膜成膜加工サービス事業",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "そこで半導体製造会社は、製品用シリコンウェーハ（プライムシリコンウェーハ）と同時にモニタ用シリコンウェーハ（モニタウェーハ）を工程に投入し加工しています",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "③ 酸化膜成膜加工サービス事業",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "絶縁膜として使用される酸化膜の生成を行うもので、主に製品用シリコンウェーハ（プライムシリコンウェーハ）の表面を加工するものであります",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "半導体製造における標準的な最初の工程を請け負うサービスであります",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "技術コンサルティングは、半導体ウェーハ製造工程の技術コンサルティング事業として技術指導、教育サービスを提供しています",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループでは、当社の主力事業であるウェーハ再生事業は顧客需要が堅調に推移したことにより、順調に拡大しました",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "、商品及び製品",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "（２）各報告セグメントに属する製品及びサービスの種類",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "「プライムシリコンウェーハ製造販売事業」は製品用シリコンウェーハ（プライムシリコンウェーハ）の加工及び販売を行っております",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "１ 製品及びサービスごとの情報",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "“自動認識ソリューション”で国内シェアトップクラス",
+    "url": "https://shachomeikan.jp/presidents/detail/10062694/5196",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "そこから中国のパートナー企業と合弁や協業を行い、製造工場を建設していきます",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "再生ビジネスの強みとしては、まず営業体制があります",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "当社では海外のお客さまも含め、基本的にはすべてのお客さまとの間に、代理店を挟まない直接営業をしています",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "将来的な戦略として、RS Technologiesの販売網を活かし、グローバルに販売していきます",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "商社機能には、RS Technologiesと子会社のユニオンエレクトロニクスソリューションでの半導体検査装置や、電子部品などの代理店販売が含まれます",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "事業紹介詳細",
+    "url": "https://www.rs-tec.jp/ir/library/briefing/",
+    "pass": 3
+   },
+   {
+    "quote": "動画でのご紹介",
+    "url": "https://www.rs-tec.jp/ir/library/briefing/",
+    "pass": 3
+   },
+   {
+    "quote": "運良くその時僕にとって運命のパートナーとの出会いがありました",
+    "url": "https://shachomeikan.jp/presidents/detail/10062694/5196",
+    "pass": 3
+   },
+   {
+    "quote": "当然、最初に一緒に創業したパートナーがいて、その後、数字にものすごく強い男と出会えました",
+    "url": "https://shachomeikan.jp/presidents/detail/10062694/5196",
+    "pass": 3
+   },
+   {
+    "quote": "“店舗を持たない飲食店”で業界に変革を",
+    "url": "https://shachomeikan.jp/presidents/detail/10062694/5196",
+    "pass": 3
+   },
+   {
+    "quote": "特に、次の成長エンジンとして重要視するプライムウェーハ事業は、中国のパートナーとの合弁を通じ、2018年に市場への参入を果たしました",
+    "url": "https://www.rs-tec.jp/corporate/message/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "2024年12月期 セグメント動向",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "2024年12月期 セグメント別動向 四半期実績グラフ",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "主力セグメント動向",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "8インチプライムウェーハ商流と売上構成イメージ",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "質疑応答：セグメント別の成長イメージについて",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントごとの動向です",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成による多少の変動はあるものの、今後も高い利益率を維持していきたいと考えています",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別の四半期実績です",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別の動向です",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "右側がセグメント別の売上高です",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "このセグメントは、再生ウェーハの加工賃収入と販売ウェーハの売上で構成されており、割合については7対3程度です",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "先ほどご説明したプライムウェーハの他に、シリコン部材の製造・販売もこのセグメントに含まれます",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "立川ブラインド工業、上期は全セグメント増収 調光製品・電動製品・間仕切を成長軸に",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの事業とセグメント情報の区分との関連は下表のとおりです",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "以下に示す区分は、セグメントと同一の区分であります",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "事業のセグメント別の業績を示すと次のとおりです",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "生産実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "２．セグメント間の内部振替後の数値によっております",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "販売実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、当社は、各事業セグメント及び各地域の需給バランスを十分認識し安全性の高い設備投資を実施するとともに災害に強い事業基盤を構築し、経営成績に重要な影響を与えるリスクを分散・低減し、適切に対応を行ってまいります",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "(セグメント情報等)",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "１．報告セグメントの概要",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "（１）報告セグメントの決定方法",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの報告セグメントは、当社グループの構成単位のうち分離された財務情報が入手可能であり、取締役会が経営資源の配分の決定及び業績を評価するために、定期的に検討を行う対象となっているものであります",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "（２）各報告セグメントに属する製品及びサービスの種類",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、報告セグメントを「ウェーハ再生事業」と「プライムシリコンウェーハ製造販売事業」、「半導体関連装置・部材等」の３事業としております",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "２．報告セグメントごとの売上高、利益又は損失、資産、負債その他の項目の金額の算定方法",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告されている事業セグメントの会計処理の方法は、「連結財務諸表作成のための基本となる重要な事項」における記載と概ね同一であります",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告セグメントの利益は、営業利益ベースの数値であります",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント間の内部売上高又は振替高は市場実勢価格に基づいております",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "RS Technologies（3445）の財務情報ならログミーFinance 【QAあり】RS Technologies、連結業績は過去最高収益を更新 ウェーハ再生事業は増産投資後の工場がフル稼働、半導体市場成長が追い風 - ログミーファイナンス",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "当社再生の強み",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "【QAあり】RS Technologies、連結業績は過去最高収益を更新 ウェーハ再生事業は増産投資後の工場がフル稼働、半導体市場成長が追い風",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "連結業績は、すべての利益段階で前年を上回り、過去最高収益を更新しました",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率は前年比で1.5ポイント減少していますが、その要因の1つとして、前年下期は利益率の高い販売ウェーハの割合が多く、利益率が非常に高かったことが挙げられます",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率は、原材料調達戦略や歩留まり改善の取り組みにより、前年比3.3ポイントの改善となっています",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "プライムウェーハ事業は、お客さまのシリコン部材の在庫調整があり前四半期比では減収となりました",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "特に、北米や中国ではこの技術を活用できるチャンスが多く存在することから、グローバルに強みを持つ当社では市場シェアを獲得できると見込んでいます",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "再生ビジネスの強みとしては、まず営業体制があります",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "お客さまのニーズを直接聞いて速やかに対応する体制が、特に海外市場の確保という点では強みとなっています",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "いかなる膜であっても、またいかなる素材であってもきれいに取り除くことができるのが当社の強みです",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "また、金属不純物を高レベルで除去できることも強みです",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "プライムウェーハ事業の約8割が12インチウェーハである中、Gritekは8インチを主流に製造しており、特に車載、インバーター、産業機器などの低抵抗分野に強みがあります",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "世界トップシェアの強みと新領域への進出",
+    "url": "https://shachomeikan.jp/presidents/detail/10062694/5196",
+    "pass": 3
+   },
+   {
+    "quote": "強みを生かして、さらに新たな事業拡大へ",
+    "url": "https://www.rs-tec.jp/corporate/message/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは、創業時の情熱を絶やすことなく、引き続きイノベーションに挑戦することで、各事業においてNo.1を目指し、高収益の安定と成長を経営目標として参ります",
+    "url": "https://www.rs-tec.jp/corporate/message/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2024年12月期決算概況",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "2024年12月期 セグメント動向",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "2024年12月期 セグメント別動向 四半期実績グラフ",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "2024年12月期の決算概況をご説明します",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期は、売上高750億円、営業利益151億円、経常利益166億円、親会社に帰属する当期純利益87億6,000万円を計画しています",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "2027年12月期には、売上高1,000億円、営業利益219億円を目指します",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "2024年12月期のROEが前年比で上昇している理由は、RSPDH買収による負ののれん約15億円が、親会社に帰属する当期純利益に加算されたためです",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期以降はROIC13パーセント以上、ROE14パーセント以上を計画しています",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "2027年からは、月産30万枚を超える体制を目指す予定です",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の設備投資は、計画どおり進捗しました",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の日本・台湾の増産投資効果は、第3四半期から業績に寄与してくる見込みです",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "2027年には中国の半導体内製化に向けた動きがより強くなると見ていますので、それに合わせて当社も量産化できるような計画を立てています",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "2019年に買収したDG Technologiesですが、本件は破綻した企業の買収です",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "2023年に買収したLEシステムも非常にリーズナブルなディールでした",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "2024年12月期の1株当たり配当金は35円となります",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期の総還元性向は、12.1パーセントを目指しています",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "2024年12月に、光学ピックアップモジュールと車載カメラモジュールの製造・販売を展開するRSPDHを連結子会社化しました",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "2024年12月期は売上高592億円、営業利益131億円という結果になりました",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "2015年から2024年までの間に売上高・営業利益ともに10倍以上に成長しています",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "2024年には日本や米国に新工場を立ち上げる用途として数量が増加しました",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度第2四半期決算説明会",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "2026年12月期第3四半期決算説明",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "2026年12月期第2四半期決算説明",
+    "url": "https://finance.logmi.jp/articles/381093",
+    "pass": 3
+   },
+   {
+    "quote": "2026年12月期",
+    "url": "https://www.rs-tec.jp/ir/library/briefing/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期",
+    "url": "https://www.rs-tec.jp/ir/library/briefing/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年12月期",
+    "url": "https://www.rs-tec.jp/ir/library/briefing/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年12月期",
+    "url": "https://www.rs-tec.jp/ir/library/briefing/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年12月期",
+    "url": "https://www.rs-tec.jp/ir/library/briefing/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年12月期",
+    "url": "https://www.rs-tec.jp/ir/library/briefing/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年12月期",
+    "url": "https://www.rs-tec.jp/ir/library/briefing/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年12月期",
+    "url": "https://www.rs-tec.jp/ir/library/briefing/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年12月期",
+    "url": "https://www.rs-tec.jp/ir/library/briefing/",
+    "pass": 3
+   },
+   {
+    "quote": "2017年12月期",
+    "url": "https://www.rs-tec.jp/ir/library/briefing/",
+    "pass": 3
+   },
+   {
+    "quote": "2016年12月期",
+    "url": "https://www.rs-tec.jp/ir/library/briefing/",
+    "pass": 3
+   },
+   {
+    "quote": "2015年12月期",
+    "url": "https://www.rs-tec.jp/ir/library/briefing/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年12月期第２四半期 決算説明会 書き起こし公開のお知らせ",
+    "url": "https://www.rs-tec.jp/ir/library/briefing/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年12月期第2四半期 決算説明資料",
+    "url": "https://www.rs-tec.jp/ir/library/briefing/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年12月期第１四半期 決算説明資料",
+    "url": "https://www.rs-tec.jp/ir/library/briefing/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年12月期第１四半期 決算説明 質疑応答集",
+    "url": "https://www.rs-tec.jp/ir/library/briefing/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期有価証券報告書より",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "2023年10月に株式会社LEシステムを設立し、再生可能エネルギー事業に新規参入いたしました",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月には艾斯能源（山東）有限公司、同年10月に艾斯能源科技（攀枝花）有限公司を設立し、中国での再生可能エネルギー事業の展開を開始いたしました",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "2025年１月１日",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月31日",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "2024年１月１日",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "2024年12月31日",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "1970年10月13日",
+    "url": "https://shachomeikan.jp/presidents/detail/10062694/5196",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "RS Technologies Co., Ltd. | Shared Research — RS Technologies Co., Ltd. | Shared Research Shared Research https://sharedresearch.jp > companies",
+    "url": "https://sharedresearch.jp/en/companies/3445",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 RS Technologies - 日本経済新聞 — 株式会社 RS Technologies - 日本経済新聞 日本経済新聞 PDF https://www.nikkei.com > tdnr > 20250214_archive",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20250214_archive/f6czz4/140120250214576832.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "RS Technologies Vol. 1: The Struggles of Being a ... - YouTube — RS Technologies Vol. 1: The Struggles of Being a ... - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=Zj8ZK3EKw-Y",
+    "pass": 3
+   },
+   {
+    "quote": "【 RS Technologies 】[3445]IR情報 中期経営計画や 決算 短信 — 【 RS Technologies 】[3445]IR情報 中期経営計画や 決算 短信 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=3445",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 RS Technologies - ログミーファイナンス — 株式会社 RS Technologies - ログミーファイナンス ログミーFinance https://finance.logmi.jp > companies",
+    "url": "https://finance.logmi.jp/companies/551",
+    "pass": 3
+   },
+   {
+    "quote": "RS Technologies のIR 資料 - 3445 / プライム / 金属製品 — RS Technologies のIR 資料 - 3445 / プライム / 金属製品 バフェット・コード https://www.buffett-code.com > company > library",
+    "url": "https://www.buffett-code.com/company/3445/library",
+    "pass": 3
+   },
+   {
+    "quote": "RS Technologies 【3445】の 事業 内容 - キタイシホン — RS Technologies 【3445】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 RS Technologies - Shared Research — 株式会社 RS Technologies - Shared Research Shared Research https://sharedresearch.jp > companies",
+    "url": "https://sharedresearch.jp/ja/companies/3445",
+    "pass": 3
+   },
+   {
+    "quote": "RS Technologies (3445)IRセミナー&質疑応答 2024.6.10 — RS Technologies (3445)IRセミナー&質疑応答 2024.6.10 YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=YLomG2J_Cug",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 RS Technologies 代表取締役 社長 方 永義 — 株式会社 RS Technologies 代表取締役 社長 方 永義 社長名鑑 https://shachomeikan.jp > presidents > detail",
+    "url": "https://shachomeikan.jp/presidents/detail/10062694/5196",
+    "pass": 3
+   },
+   {
+    "quote": "1兆円の夢に挑む。 RS Technologies の急成長を続けるための ... — 1兆円の夢に挑む。 RS Technologies の急成長を続けるための ... 株式会社ZUU https://zuu.co.jp > ... > インタビュー > インタビュー（証券）",
+    "url": "https://zuu.co.jp/media/stock/interview-rs-tec",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 RS Technologies 代表取締役 社長 方 永義 — 株式会社 RS Technologies 代表取締役 社長 方 永義 社長名鑑 https://shachomeikan.jp > presidents > detail",
+    "url": "https://shachomeikan.jp/presidents/detail/10062694",
+    "pass": 3
+   },
+   {
+    "quote": "トップに聞く RS Technologies 方 永義 社長 - 日経ヴェリタス — トップに聞く RS Technologies 方 永義 社長 - 日経ヴェリタス 日本経済新聞 https://www.nikkei.com > prime > veritas > article",
+    "url": "https://www.nikkei.com/prime/veritas/article/DGXZQOKC091UF0Z00C25A5000000",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "プライムシリコンウェーハ製造販売事業におきましては、生産数量は増加したものの、中国市場での競争激化による単価低下が影響し、売上高は横ばいで推移しました",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   },
+   {
+    "quote": "プライムシリコンウェーハ製造販売事業におきましては、生産数量は増加するものの中国市場での競争による単価低下が影響し、売上高は横ばいで推移しました",
+    "url": "https://kitaishihon.com/company/3445/business",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.rstechnologiesinc.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rstechnologiesinc.com/about.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.rs-tec.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.logmi.jp/articles/381093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rs-tec.jp/ir/library/briefing/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.rs-tec.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rs-tec.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/3445/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shachomeikan.jp/presidents/detail/10062694/5196",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rs-tec.jp/corporate/message/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "RS Technologies",
+   "results": [
+    "https://www.rs-tec.jp/en/",
+    "https://www.rstechnologiesinc.com/",
+    "https://www.linkedin.com/company/rs-technologies-solutions",
+    "https://www.resilient-structures.com/",
+    "https://www.tdworld.com/directory/structures/poles/company/21114833/rs-technologies-inc",
+    "https://www.indeed.com/cmp/Rs-Technologies-Inc.-1",
+    "https://rstechnologiesgroup.com/contact-2/",
+    "https://www.morningstar.com/stocks/xtks/3445/quote",
+    "https://rstech-solutions.com/",
+    "https://rstechnologies.us/"
+   ]
+  },
+  {
+   "query": "RS Technologies ビジネスモデル",
+   "results": [
+    "https://www.rs-tec.jp/",
+    "https://finance.logmi.jp/articles/381093",
+    "https://sharedresearch.jp/en/companies/3445",
+    "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20250214_archive/f6czz4/140120250214576832.pdf",
+    "https://www.youtube.com/watch?v=Zj8ZK3EKw-Y",
+    "https://kitaishihon.com/company/3445/business",
+    "https://note.com/holy_viper7334/n/n1b1d5edcf450",
+    "https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/rstec20250331.pdf",
+    "https://toyokeizai.net/articles/-/935426?display=b",
+    "https://us.rs-online.com/"
+   ]
+  },
+  {
+   "query": "RS Technologies 決算説明資料",
+   "results": [
+    "https://www.rs-tec.jp/ir/library/briefing/",
+    "https://www.rs-tec.jp/ir/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=3445",
+    "https://finance.logmi.jp/companies/551",
+    "https://www.buffett-code.com/company/3445/library",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260813/20260813519454.pdf",
+    "https://kitaishihon.com/company/3445/ir-meeting",
+    "https://contents.xj-storage.jp/xcontents/AS02916/9c00cc8a/732d/4489/b74c/ee4184c4f84f/140120260813519468.pdf",
+    "https://us.rs-online.com/",
+    "https://www.rs-online.com/"
+   ]
+  },
+  {
+   "query": "RS Technologies 事業系統図",
+   "results": [
+    "https://www.rs-tec.jp/",
+    "https://kitaishihon.com/company/3445/business",
+    "https://finance.logmi.jp/articles/381093",
+    "https://sharedresearch.jp/ja/companies/3445",
+    "https://www.youtube.com/watch?v=YLomG2J_Cug",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251113/20251113599441.pdf",
+    "https://www.fisco.co.jp/wordpress/wp-content/uploads/rstec20190225.pdf",
+    "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20250214_archive/f6czz4/140120250214576832.pdf",
+    "https://note.com/holy_viper7334/n/n1b1d5edcf450",
+    "https://us.rs-online.com/"
+   ]
+  },
+  {
+   "query": "RS Technologies 社長 インタビュー",
+   "results": [
+    "https://shachomeikan.jp/presidents/detail/10062694/5196",
+    "https://www.rs-tec.jp/corporate/message/",
+    "https://zuu.co.jp/media/stock/interview-rs-tec",
+    "https://shachomeikan.jp/presidents/detail/10062694",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC091UF0Z00C25A5000000",
+    "https://shachomeikan.jp/presidents/detail/10062694/5199",
+    "https://www.youtube.com/watch?v=Zj8ZK3EKw-Y",
+    "https://kitaishihon.com/company/3445/board-of-director",
+    "https://www.investxiamen.org.cn/detail/10209.html",
+    "https://us.rs-online.com/"
+   ]
+  }
+ ],
+ "missing": {}
+}

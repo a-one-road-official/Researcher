@@ -1,0 +1,1194 @@
+{
+ "name": "アイモバイル",
+ "aliases": [],
+ "context": "証券コード6535／サービス業／プライム（内国株式）／2026.07期 売上高22,146百万円 営業利益率18.9%",
+ "researched_at": "2026-11-02T18:08:13.019896+00:00",
+ "official_url": "https://www.i-mobile.co.jp/",
+ "identified_by": "search:yahoo_jp:アイモバイル",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "{{establishedDate}}",
+    "url": "https://www.i-mobile.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2007年8月17日",
+    "url": "https://www.i-mobile.co.jp/assets/pdf/20210818_sdgs.pdf",
+    "pass": 2
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "{{numberOfEmployees}}",
+    "url": "https://www.i-mobile.co.jp/company.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "グループ事業内容",
+    "value": "{{service.name}}",
+    "url": "https://www.i-mobile.co.jp/company.html",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "{{ item.sales.toLocaleString()}}",
+    "url": "https://www.i-mobile.co.jp/ir/management/highlight.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "サービス一覧はこちら",
+    "url": "https://www.i-mobile.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "メディアソリューション(GCPP)",
+    "url": "https://www.i-mobile.co.jp/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちアイモバイルは、インターネットを通じて、高度で安心し喜んでもらえるサービスの創造、提供を行い、モバイル広告に改革を起こしたいという想いを胸に2007年に創業致しました",
+    "url": "https://www.i-mobile.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "あらたな文化や価値観を創造し続けるため、お客様が望むサービスをいち早く察知し、スピード感と創造性の強みを活かし、多くの人々が満足するサービスを提供しつづけます",
+    "url": "https://www.i-mobile.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービスを提供することで、ユーザー及び取引先企業に対し、事業環境の動向、顧客ニーズの変化等に対応した満足度の高いサービスを提供し、当社の企業価値・株主価値の最大化を目指し続けることを経営基本方針としております",
+    "url": "https://www.i-mobile.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、消費者保護や旅行業の適正な運営を確保し、安心・安全な旅行サービス（ふるなびトラベル）を提供しています",
+    "url": "https://www.i-mobile.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループでは、2007年設立当初からインターネット広告事業、 2014年に開始したふるさと納税サイト『ふるなび』等のコンシューマ事業の２つの事業領域にてサービスを展開しております",
+    "url": "https://www.i-mobile.co.jp/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "各事業領域においては、当社の強みである「安定した顧客基盤」・「開発力の高さ」の２点に加えて、マーケットの成長と、サービス展開への投資が寄与し、2016年にはマザーズへ上場し、2018年に東証一部へ市場を変更し、その後、東証の市場再編に伴い、プライム市場への上場となりました",
+    "url": "https://www.i-mobile.co.jp/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、「“ひとの未来”に貢献する事業を創造し続ける」というビジョンのもと、「マーケティングで価値ある体験を提供し続ける」サービスを提供することで、ユーザー及び取引先企業に対し、事業環境の動向、顧客ニーズの変化等に対応した満足度の高いサービスを提供し、当社グループの企業価値・株主価値の最大化を目指し続けることを経営の基本方針としております",
+    "url": "https://www.i-mobile.co.jp/ir/management/strategy.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業環境の変化や市場トレンドを的確に捉え、顧客や利用者のニーズに応えるサービスを提供し続けるためには、事業戦略・マーケティング戦略を推進していく豊富な知識と経験を有する取締役会メンバーが必要となるため",
+    "url": "https://www.i-mobile.co.jp/ir/governance/directors.html",
+    "pass": 1
+   },
+   {
+    "quote": "・新規事業及び商品やサービス等の開発を主導した経験",
+    "url": "https://www.i-mobile.co.jp/ir/governance/directors.html",
+    "pass": 1
+   },
+   {
+    "quote": "急速に変化する社会の中で、顧客や利用者のニーズに迅速に対応し、付加価値の高いサービスを提供し続けるためには、業界特性を熟知し、営業戦略の策定・実行に関する豊富な知識と経験を持つ取締役会メンバーが必要となるため",
+    "url": "https://www.i-mobile.co.jp/ir/governance/directors.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、お客様の信頼を維持し、より良いサービスを提供し続けるため、業務上取り扱うすべての情報資産を重要な資産として位置づけ、あらゆる脅威から適切に防護いたします",
+    "url": "https://www.i-mobile.co.jp/ir/governance/security.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、金融商品取引法等の諸法令および東京証券取引所の定める有価証券上場規程の「会社情報の適時開示等」(以下、「適時開示規則」といいます)に従って、透明性、公平性、継続性を基本とした迅速な情報開示を行います",
+    "url": "https://www.i-mobile.co.jp/ir/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "コンシューマ事業は、ふるさと納税事業「ふるなび」及び周辺事業としてのトラベル事業、レストランPR事業並びにポイントサービス事業を展開しております",
+    "url": "https://www.i-mobile.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社サービス一覧は「",
+    "url": "https://www.i-mobile.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "のサービス開始",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "成果報酬型サービス ｢i-mobile for AF｣",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "高額納税者向けふるさと納税代行サービス",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ふるなび会員向け宿泊サービス",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ふるなび会員向けポイントサービス",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "メディアソリューション事業を開始７月",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "｢i-mobile for SP｣ のサービス開始",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "自社商品の開発・提供",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "メディアソリューション",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューション事業",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "商品の相乗効果",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "社向けソリューションの",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "インターネット広告代理およびデジタルソリューションの提供",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "送 客 ポイントサービス事業",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ネットサービス",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "既存サービスの拡充を",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "生む機能やサービス",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://extreak.co.jp/case-studies/i-mobile/",
+    "pass": 3
+   },
+   {
+    "quote": "サーバ・ネットワーク構築サービス",
+    "url": "https://extreak.co.jp/case-studies/i-mobile/",
+    "pass": 3
+   },
+   {
+    "quote": "ITファシリティ工事サービス",
+    "url": "https://extreak.co.jp/case-studies/i-mobile/",
+    "pass": 3
+   },
+   {
+    "quote": "フィジカルセキュリティ構築サービス",
+    "url": "https://extreak.co.jp/case-studies/i-mobile/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスフォンシステム構築サービス",
+    "url": "https://extreak.co.jp/case-studies/i-mobile/",
+    "pass": 3
+   },
+   {
+    "quote": "インターネットサービス業",
+    "url": "https://extreak.co.jp/case-studies/i-mobile/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アイモバイルはインターネットを通じて、高度で安心し喜んでもらえるサービスの創造、提供を行う企業です",
+    "url": "https://extreak.co.jp/case-studies/i-mobile/",
+    "pass": 3
+   },
+   {
+    "quote": "ITファシリティ工事サービス（オフィス）",
+    "url": "https://extreak.co.jp/case-studies/i-mobile/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスフォン構築サービス",
+    "url": "https://extreak.co.jp/case-studies/i-mobile/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年7月期（第19期）",
+    "url": "https://www.i-mobile.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年、新たにビジョンを「“ひとの未来”に貢献する事業を創造し続ける」と策定し、インターネット広告事業、コンシューマー事業２つの事業領域で企業価値を高めていきます",
+    "url": "https://www.i-mobile.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "2015 年 7 月 21 日 制定",
+    "url": "https://www.i-mobile.co.jp/ir/governance/security.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年 2 月 1 日 改定",
+    "url": "https://www.i-mobile.co.jp/ir/governance/security.html",
+    "pass": 1
+   },
+   {
+    "quote": "2007年8月に設立いたしました",
+    "url": "https://www.i-mobile.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "2018年7月2日に、東京証券取引所市場第一部に上場いたしました",
+    "url": "https://www.i-mobile.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年３月28日",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1974年生まれ",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2017年に代表取締役社長就任",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2008年7月期 2011年7月期 2014年7月期 2020年7月期 2023年7月期",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2017年7月期",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年７月期",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2011年 2012年 2013年 2014年 2015年 2016年 2017年 2018年 2019年 2020年 2021年 2022年 2023年 20XX年",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020年7月期",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年7月期",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022年7月期",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年7月期",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年7月期",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年7月期",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年７月期",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年7月期 営業利益",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年7月期 売上高",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2019年7月期 売上高",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2019年7月期 営業利益",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2019年7月期 2020年7月期 2021年7月期 2022年7月期 2023年7月期 2024年7月期",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2019年7月期 2020年7月期 2021年7月期 2022年7月期2023年7月期2024年7月期2019年",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2019年7月期 2020年7月期 2021年7月期 2022年7月期 2023年7月期 2024年7月期2020年",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年のCDP※による「気候変動」調査への回答で、一定の評価を獲得しました",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年1月",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年11月2023年6月",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年9月",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年7月のオフィス移転に伴うネットワーク配線工事を担当させていただきました",
+    "url": "https://extreak.co.jp/case-studies/i-mobile/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年4月〜2024年7月",
+    "url": "https://extreak.co.jp/case-studies/i-mobile/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月期有価証券報告書より",
+    "url": "https://kitaishihon.com/company/6535/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "1999年４月",
+    "url": "https://kitaishihon.com/company/6535/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2004年７月",
+    "url": "https://kitaishihon.com/company/6535/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2007年８月",
+    "url": "https://kitaishihon.com/company/6535/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2017年10月",
+    "url": "https://kitaishihon.com/company/6535/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月",
+    "url": "https://kitaishihon.com/company/6535/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "1979年２月５日生",
+    "url": "https://kitaishihon.com/company/6535/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2000年４月",
+    "url": "https://kitaishihon.com/company/6535/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2001年２月",
+    "url": "https://kitaishihon.com/company/6535/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2001年９月",
+    "url": "https://kitaishihon.com/company/6535/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2002年９月",
+    "url": "https://kitaishihon.com/company/6535/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2006年１月",
+    "url": "https://kitaishihon.com/company/6535/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2018年８月",
+    "url": "https://kitaishihon.com/company/6535/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2025年４月",
+    "url": "https://kitaishihon.com/company/6535/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "1974年４月14日生",
+    "url": "https://kitaishihon.com/company/6535/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "1969年11月２日生",
+    "url": "https://kitaishihon.com/company/6535/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "1994年５月",
+    "url": "https://kitaishihon.com/company/6535/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2008年１月",
+    "url": "https://kitaishihon.com/company/6535/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2014年８月",
+    "url": "https://kitaishihon.com/company/6535/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2019年９月",
+    "url": "https://kitaishihon.com/company/6535/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2020年７月",
+    "url": "https://kitaishihon.com/company/6535/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2021年２月",
+    "url": "https://kitaishihon.com/company/6535/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2021年10月",
+    "url": "https://kitaishihon.com/company/6535/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2023年10月",
+    "url": "https://kitaishihon.com/company/6535/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2025年３月",
+    "url": "https://kitaishihon.com/company/6535/board-of-director",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "今後もビジネスモデルの変革、成長戦略など当社の持続的な企業価値の向上に貢献することを期待しております",
+    "url": "https://www.i-mobile.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業内容・ビジネスモデル",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "アプリ運営事業は、ユーザーに表示した広告で収益を得る「広告収益モデル」",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "安定した収益構造と",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "あらたな文化や価値観を創造し続けるため、お客様が望むサービスをいち早く察知し、スピード感と創造性の強みを活かし、多くの人々が満足するサービスを提供しつづけます",
+    "url": "https://www.i-mobile.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービスを提供することで、ユーザー及び取引先企業に対し、事業環境の動向、顧客ニーズの変化等に対応した満足度の高いサービスを提供し、当社の企業価値・株主価値の最大化を目指し続けることを経営基本方針としております",
+    "url": "https://www.i-mobile.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "各事業領域においては、当社の強みである「安定した顧客基盤」・「開発力の高さ」の２点に加えて、マーケットの成長と、サービス展開への投資が寄与し、2016年にはマザーズへ上場し、2018年に東証一部へ市場を変更し、その後、東証の市場再編に伴い、プライム市場への上場となりました",
+    "url": "https://www.i-mobile.co.jp/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、「“ひとの未来”に貢献する事業を創造し続ける」というビジョンのもと、「マーケティングで価値ある体験を提供し続ける」サービスを提供することで、ユーザー及び取引先企業に対し、事業環境の動向、顧客ニーズの変化等に対応した満足度の高いサービスを提供し、当社グループの企業価値・株主価値の最大化を目指し続けることを経営の基本方針としております",
+    "url": "https://www.i-mobile.co.jp/ir/management/strategy.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、ふるさと納税事業を中心とするコンシューマ事業においては、ユーザーの獲得と自治体への支援活動を強化し、周辺事業を拡大してまいります",
+    "url": "https://www.i-mobile.co.jp/ir/management/strategy.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業環境の変化や市場トレンドを的確に捉え、顧客や利用者のニーズに応えるサービスを提供し続けるためには、事業戦略・マーケティング戦略を推進していく豊富な知識と経験を有する取締役会メンバーが必要となるため",
+    "url": "https://www.i-mobile.co.jp/ir/governance/directors.html",
+    "pass": 1
+   },
+   {
+    "quote": "急速に変化する社会の中で、顧客や利用者のニーズに迅速に対応し、付加価値の高いサービスを提供し続けるためには、業界特性を熟知し、営業戦略の策定・実行に関する豊富な知識と経験を持つ取締役会メンバーが必要となるため",
+    "url": "https://www.i-mobile.co.jp/ir/governance/directors.html",
+    "pass": 1
+   },
+   {
+    "quote": "・相当規模の新規顧客開拓、大口取引先獲得、チャネル拡大等の実績",
+    "url": "https://www.i-mobile.co.jp/ir/governance/directors.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社アイモバイルおよびグループ会社（以下、「当社グループ」）は、お客様やお取引先様との信頼関係こそが事業の基盤であると考えております",
+    "url": "https://www.i-mobile.co.jp/ir/governance/security.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、お客様の信頼を維持し、より良いサービスを提供し続けるため、業務上取り扱うすべての情報資産を重要な資産として位置づけ、あらゆる脅威から適切に防護いたします",
+    "url": "https://www.i-mobile.co.jp/ir/governance/security.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、コンシューマ事業及びインターネット広告事業において、利用者の個人情報を入手しており、「個人情報の保護に関する法律」が定める個人情報取扱事業者としての義務が課せられております",
+    "url": "https://www.i-mobile.co.jp/ir/governance/security.html",
+    "pass": 1
+   },
+   {
+    "quote": "なお、個人情報、顧客情報、および関係者の権利を侵害することになる情報につきましては開示しません",
+    "url": "https://www.i-mobile.co.jp/ir/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "投資に関する決定は利用者ご自身の判断でなさるようお願いいたします",
+    "url": "https://www.i-mobile.co.jp/ir/disclaimer.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、通信環境やお客様のコンピュータの状況、その他の理由により当ウェブサイトを正常に利用できない場合があります",
+    "url": "https://www.i-mobile.co.jp/ir/disclaimer.html",
+    "pass": 1
+   },
+   {
+    "quote": "12月 「ふるなび」の会員数が200万人を突破",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客に寄り添った",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "寄附受付件数の推移※ 会員数の推移",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※ 会員数の表示単位とは異なります",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "②広告掲載料広告配信事業者 ユーザー",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "アプリ運営事業は、ユーザーに表示した広告で収益を得る「広告収益モデル」",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "アセット（マーケティングノウハウ、人材・顧客）の活用",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "成長分野へのシフトと顧客確保",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客シナジーのある",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客目線のプロモーション 独自企画返礼品",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルマーケティングやプロモーションによる集客力（約250万超の会員数）",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ふるさと納税サイト「ふるなび」を運営し、多くのユーザーに利用されています",
+    "url": "https://extreak.co.jp/case-studies/i-mobile/",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/6535/board-of-director",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "詳しい役員紹介はこちら",
+    "url": "https://www.i-mobile.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "役員につきましては、役員紹介ページをご参照ください",
+    "url": "https://www.i-mobile.co.jp/ir/governance/directors.html",
+    "pass": 1
+   },
+   {
+    "quote": "経営幹部（取締役及び執行役員）の選任及び取締役候補の指名にあたっては、適任者を選定し、独立社外取締役諮問委員会への諮問及び答申を経た上で取締役会にて決定します",
+    "url": "https://www.i-mobile.co.jp/ir/governance/policies.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、東京証券取引所が定める独立性基準を充たし、企業経営や各専門分野における豊富な経験と高い見識並びにその職務に相応しい人格を有する者を独立社外取締役に指名しています",
+    "url": "https://www.i-mobile.co.jp/ir/governance/policies.html",
+    "pass": 1
+   },
+   {
+    "quote": "取締役会が経営幹部の選解任と取締役候補の指名を行うに当たっての基準と手続",
+    "url": "https://www.i-mobile.co.jp/ir/governance/policies.html",
+    "pass": 1
+   },
+   {
+    "quote": "経営幹部（社内取締役及び執行役員）の指名及び選任にあたっては、当社の独立社外取締役のみで構成される「独立社外取締役諮問委員会」において、人格、経験、能力並びに知見等を総合的に判断した上でその職務と責任を全うできる適任者であるかを検討し、検討の結果を取締役会に答申してその判断を仰ぐこととしております",
+    "url": "https://www.i-mobile.co.jp/ir/governance/policies.html",
+    "pass": 1
+   },
+   {
+    "quote": "特に社内取締役候補の指名にあたっては、当社グループの持続的な成長及び企業価値向上を実現するため、当社グループの社会的責任や使命を理解した上で経営環境、経営資源を統合的に把握し、公正・的確に職務を遂行することができる人格・見識を有していることを選定基準として、独立社外取締役諮問委員会において候補者の検討を行い、検討の結果を取締役会に答申します",
+    "url": "https://www.i-mobile.co.jp/ir/governance/policies.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント紹介",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ふるさと納税で一流店舗を体験",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "寄附者に自治体の返礼品や支援を紹介するポータルサイト",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■広告代理店事業",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社のサステナビリティ活動や具体的な取り組みをWebサイトにて紹介中 https://www.i-mobile.co.jp/sustainability/index.html",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "あらたな文化や価値観を創造し続けるため、お客様が望むサービスをいち早く察知し、スピード感と創造性の強みを活かし、多くの人々が満足するサービスを提供しつづけます",
+    "url": "https://www.i-mobile.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "各事業領域においては、当社の強みである「安定した顧客基盤」・「開発力の高さ」の２点に加えて、マーケットの成長と、サービス展開への投資が寄与し、2016年にはマザーズへ上場し、2018年に東証一部へ市場を変更し、その後、東証の市場再編に伴い、プライム市場への上場となりました",
+    "url": "https://www.i-mobile.co.jp/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "売上総利益率",
+    "url": "https://www.i-mobile.co.jp/ir/management/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "３．当社の強み及び中期成長戦略",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「ふるなび」の強み",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「ふるなび」３つの強み",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの強み",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの強み及び成長戦略",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（営業利益率）",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ふるなびのシェア20％の獲得と競争優位性の確立",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "競争優位性の早期確立",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "また、社外役員を選任するための独立性に関する基準を、当社から役員報酬以外に年額10百万円以上の報酬を受けていないことも条件としております",
+    "url": "https://www.i-mobile.co.jp/ir/governance/policies.html",
+    "pass": 1
+   },
+   {
+    "quote": "登録範囲：社内情報システムの企画、設計、構築、運用及び保守",
+    "url": "https://www.i-mobile.co.jp/ir/governance/security.html",
+    "pass": 1
+   },
+   {
+    "quote": "ふるなび利用料を支払い",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、当社では社外役員を選任するための独立性に関する基準を、当社から役員報酬以外に年額10百万円以上の報酬を受けていないことと定め、経歴や当社との関係等から個別に判断し、当社からの独立性を確保できる方を候補者として選任しております",
+    "url": "https://kitaishihon.com/company/6535/board-of-director",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "当社は、「コンシューマ事業」と「インターネット広告事業」の２つセグメントにより構成されております",
+    "url": "https://www.i-mobile.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント紹介",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※2 2024年７月期より全社費用のセグメントへ配賦方法を見直しております",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別構成比",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(注) １．「主要な事業の内容」欄には、セグメント情報に記載された名称を記載しております",
+    "url": "https://kitaishihon.com/company/6535/board-of-director",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "事業内容 | 株式会社 アイモバイル — 事業内容 | 株式会社 アイモバイル アイモバイル https://www.i-mobile.co.jp > service",
+    "url": "https://www.i-mobile.co.jp/service.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アイモバイル （東証プライム市場 6535） - SBI証券 — 株式会社 アイモバイル （東証プライム市場 6535） - SBI証券 SBI証券 PDF https://search.sbisec.co.jp > info > home > seminar",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "アイモバイル 、Webサイト、アプリ向けに独自の運用型広告の ... — アイモバイル 、Webサイト、アプリ向けに独自の運用型広告の ... syncad.jp https://syncad.jp > news",
+    "url": "https://syncad.jp/news/92103/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 | 株式会社 アイモバイル — 決算説明資料 | 株式会社 アイモバイル アイモバイル https://www.i-mobile.co.jp > library > presentation",
+    "url": "https://www.i-mobile.co.jp/ir/library/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリ | 株式会社 アイモバイル — IRライブラリ | 株式会社 アイモバイル アイモバイル https://www.i-mobile.co.jp > library",
+    "url": "https://www.i-mobile.co.jp/ir/library/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 アイモバイル 】[6535]IR情報 中期経営計画や 決算 短信 | 日経 ... — 【 アイモバイル 】[6535]IR情報 中期経営計画や 決算 短信 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=6535",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アイモバイル IR広報担当 - X — 株式会社 アイモバイル IR広報担当 - X X https://x.com > @imobile_PR",
+    "url": "https://x.com/imobile_PR/status/1998952918658199800",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 株式会社 アイモバイル — 会社概要 | 株式会社 アイモバイル アイモバイル https://www.i-mobile.co.jp > company",
+    "url": "https://www.i-mobile.co.jp/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アイモバイル - エクストリーク株式会社 — 株式会社 アイモバイル - エクストリーク株式会社 エクストリーク株式会社 https://extreak.co.jp > 導入実績 > 情 報 通 信 業",
+    "url": "https://extreak.co.jp/case-studies/i-mobile/",
+    "pass": 3
+   },
+   {
+    "quote": "アイモバイル 【6535】の 社長 ・役員 - キタイシホン — アイモバイル 【6535】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/6535/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アイモバイル の若手が語る裁量の大きさと ... — 株式会社 アイモバイル の若手が語る裁量の大きさと ... MoreJob株式会社 https://morejob.co.jp > ミライのお仕事 by MoreJob",
+    "url": "https://morejob.co.jp/mirai/imobile/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.i-mobile.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.i-mobile.co.jp/ir/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.i-mobile.co.jp/inquiry.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.i-mobile.co.jp/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.i-mobile.co.jp/ir/news/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.i-mobile.co.jp/ir/management/message.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.i-mobile.co.jp/ir/management/strategy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.i-mobile.co.jp/ir/management/highlight.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.i-mobile.co.jp/ir/calendar.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.i-mobile.co.jp/ir/library/results.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.i-mobile.co.jp/ir/library/presentation.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.i-mobile.co.jp/ir/library/securities.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.i-mobile.co.jp/ir/library/report.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.i-mobile.co.jp/ir/library/meeting.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.i-mobile.co.jp/ir/library/disclosure.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.i-mobile.co.jp/ir/governance/system.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.i-mobile.co.jp/ir/governance/directors.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.i-mobile.co.jp/ir/governance/internalcontrol.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.i-mobile.co.jp/ir/governance/policies.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.i-mobile.co.jp/ir/governance/security.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.i-mobile.co.jp/ir/stock/notes.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.i-mobile.co.jp/ir/notice/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.i-mobile.co.jp/ir/policy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.i-mobile.co.jp/ir/disclaimer.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.i-mobile.co.jp/ir/faq.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.i-mobile.co.jp/assets/pdf2/shared-privacy-policy.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.i-mobile.co.jp/assets/pdf2/privacy-treatment.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.i-mobile.co.jp/assets/pdf2/sustainability2025_jp.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.i-mobile.co.jp/assets/pdf/20211215_tcfd_HaCkzcXiAZriYKcc.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.i-mobile.co.jp/assets/pdf/20210818_sdgs.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.i-mobile.co.jp/assets/pdf2/information_security_policy.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://extreak.co.jp/case-studies/i-mobile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/6535/board-of-director",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "アイモバイル",
+   "results": [
+    "https://www.i-mobile.co.jp/index.html",
+    "https://www.imobile.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB",
+    "https://aimobile2u.jp/",
+    "https://www.imobile.co.jp/about",
+    "https://ja.wikipedia.org/wiki/アイモバイル",
+    "https://www.i-mobile.co.jp/",
+    "https://www.i-mobile.co.jp/company.html",
+    "https://finance.yahoo.co.jp/quote/6535.T",
+    "https://shikiho.toyokeizai.net/stocks/6535/"
+   ]
+  },
+  {
+   "query": "アイモバイル ビジネスモデル",
+   "results": [
+    "https://www.i-mobile.co.jp/service.html",
+    "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "https://syncad.jp/news/92103/",
+    "https://www.imobile.co.jp/about",
+    "https://f.irbank.net/pdf/20240912/140120240912583908.pdf",
+    "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB",
+    "https://www.wantedly.com/companies/i-mobile/about",
+    "https://www.i-mobile.co.jp/company.html",
+    "https://macloud.jp/companies/9",
+    "https://www.i-mobile.co.jp/ir/management/strategy.html"
+   ]
+  },
+  {
+   "query": "アイモバイル 決算説明資料",
+   "results": [
+    "https://www.i-mobile.co.jp/ir/library/presentation.html",
+    "https://www.i-mobile.co.jp/ir/library/index.html",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260910/20260909533833.pdf",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=6535",
+    "https://x.com/imobile_PR/status/1998952918658199800",
+    "https://www.i-mobile.co.jp/ir/calendar.html",
+    "https://irbank.net/6535/ir",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260909533833",
+    "https://www.i-mobile.co.jp/ir/index.html",
+    "https://edinetdb.jp/company/E32687/presentations/"
+   ]
+  },
+  {
+   "query": "アイモバイル 事業系統図",
+   "results": [
+    "https://www.i-mobile.co.jp/company.html",
+    "https://extreak.co.jp/case-studies/i-mobile/",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260911/20260910534596.pdf",
+    "https://f.irbank.net/pdf/20240912/140120240912583908.pdf",
+    "https://www.imobile.co.jp/about",
+    "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_240328_i-mobile.pdf",
+    "https://www.wantedly.com/companies/i-mobile/about",
+    "https://sharedresearch.jp/ja/companies/6535/report/654b1eb25def89000e5a9a0a",
+    "https://files.microcms-assets.io/assets/7c1f3f6c099a438a97d3a882fae05a80/e32a883c920343ef8c5b8ee790e098ed/%E3%82%B5%E3%82%B9%E3%83%86%E3%83%8A%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%882025.pdf",
+    "https://ja.wikipedia.org/wiki/アイモバイル"
+   ]
+  },
+  {
+   "query": "アイモバイル 社長 インタビュー",
+   "results": [
+    "https://www.i-mobile.co.jp/company.html",
+    "https://kitaishihon.com/company/6535/board-of-director",
+    "https://www.imobile.co.jp/about",
+    "https://morejob.co.jp/mirai/imobile/",
+    "https://www.imo-recruit.jp/worker",
+    "https://www.star.careers/biz/interview-imobile/",
+    "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB",
+    "https://kigyo-scope.jp/company/6535/ceo/",
+    "https://toyokeizai.net/articles/-/142245?display=b",
+    "https://www.youtube.com/watch?v=y5EcOtOpAmg"
+   ]
+  }
+ ],
+ "missing": {}
+}

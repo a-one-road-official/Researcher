@@ -1,0 +1,1406 @@
+{
+ "name": "ツムラ",
+ "aliases": [],
+ "context": "証券コード4540／医薬品／プライム（内国株式）／2026.03期 売上高192,615百万円 営業利益率18.3%",
+ "researched_at": "2026-11-02T18:11:27.683903+00:00",
+ "official_url": "https://www.tsumura.co.jp/",
+ "identified_by": "search:yahoo_jp:ツムラ",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立年",
+    "value": "1923年",
+    "url": "https://www.tsumura.co.jp/ir/library/briefing-materials/item/20260225_2.pdf",
+    "pass": 2
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "314名（2025年3月31日現在）",
+    "url": "https://www.tsumura.co.jp/ir/library/briefing-materials/item/20260225_2.pdf",
+    "pass": 2
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業概要",
+    "value": "養命酒、酒類および医薬品の製造販売、飲食店および",
+    "url": "https://www.tsumura.co.jp/ir/library/briefing-materials/item/20260225_2.pdf",
+    "pass": 2
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "お客様一人ひとりの健康づくりに寄り添い、安心して続けられるサービスをご提供いたします",
+    "url": "https://www.tsumura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "帝国劇場に国内の全取引先を招待、昼食観劇会も催した",
+    "url": "https://www.tsumura.co.jp/corporate/history/1893/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談窓口での相談受付件数",
+    "url": "https://www.tsumura.co.jp/ir/management/priority-issues/",
+    "pass": 1
+   },
+   {
+    "quote": "4）最高の顧客体験価値の創造を目的とした漢 方バリューチェーンの DX 化による安定供給・ローコスト",
+    "url": "https://www.tsumura.co.jp/news/newsrelease/item/20250512_5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "4）最高の顧客体験価値の創造を目的とした漢方バリューチェーンの DX 化による安定供給・ローコスト",
+    "url": "https://www.tsumura.co.jp/news/newsrelease/item/20250512_5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・最高の顧客体験価値の創造のために製品剤形 ・ 包装形態最適化のグランドデザインを描き、 ロードマップ",
+    "url": "https://www.tsumura.co.jp/news/newsrelease/item/20250512_5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "大成建設 リベラルアーツ教育に力を注ぎ、顧客の期待を超える価値提供を",
+    "url": "https://www.sentankyo.jp/articles/d735d9ac-039b-408d-961e-9bdb9095d980",
+    "pass": 3
+   },
+   {
+    "quote": "AI時代を生き抜く金融人材を育成 顧客と共に未来を築く商工中金",
+    "url": "https://www.sentankyo.jp/articles/d735d9ac-039b-408d-961e-9bdb9095d980",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.tsumura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品番号で探す",
+    "url": "https://www.tsumura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "メール配信サービス",
+    "url": "https://www.tsumura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社サービス一時停止のお知らせ",
+    "url": "https://www.tsumura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ヘルスケア製品情報サイトへ遷移します",
+    "url": "https://www.tsumura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.tsumura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ヘルスケア製品情報サイト",
+    "url": "https://www.tsumura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "健やかな毎日をサポートする商品をお届けする公式通販サイトです",
+    "url": "https://www.tsumura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様一人ひとりの健康づくりに寄り添い、安心して続けられるサービスをご提供いたします",
+    "url": "https://www.tsumura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "商品名の商標登録について",
+    "url": "https://www.tsumura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.tsumura.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品番号で探す",
+    "url": "https://www.tsumura.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "メール配信サービス",
+    "url": "https://www.tsumura.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "商品名の商標登録について",
+    "url": "https://www.tsumura.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.tsumura.co.jp/corporate/history/1893/",
+    "pass": 1
+   },
+   {
+    "quote": "製品番号で探す",
+    "url": "https://www.tsumura.co.jp/corporate/history/1893/",
+    "pass": 1
+   },
+   {
+    "quote": "メール配信サービス",
+    "url": "https://www.tsumura.co.jp/corporate/history/1893/",
+    "pass": 1
+   },
+   {
+    "quote": "商品名の商標登録について",
+    "url": "https://www.tsumura.co.jp/corporate/history/1893/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.tsumura.co.jp/corporate/history/1946/",
+    "pass": 1
+   },
+   {
+    "quote": "製品番号で探す",
+    "url": "https://www.tsumura.co.jp/corporate/history/1946/",
+    "pass": 1
+   },
+   {
+    "quote": "メール配信サービス",
+    "url": "https://www.tsumura.co.jp/corporate/history/1946/",
+    "pass": 1
+   },
+   {
+    "quote": "商品名の商標登録について",
+    "url": "https://www.tsumura.co.jp/corporate/history/1946/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.tsumura.co.jp/corporate/history/1971/",
+    "pass": 1
+   },
+   {
+    "quote": "製品番号で探す",
+    "url": "https://www.tsumura.co.jp/corporate/history/1971/",
+    "pass": 1
+   },
+   {
+    "quote": "メール配信サービス",
+    "url": "https://www.tsumura.co.jp/corporate/history/1971/",
+    "pass": 1
+   },
+   {
+    "quote": "商品名の商標登録について",
+    "url": "https://www.tsumura.co.jp/corporate/history/1971/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.tsumura.co.jp/corporate/history/1993/",
+    "pass": 1
+   },
+   {
+    "quote": "製品番号で探す",
+    "url": "https://www.tsumura.co.jp/corporate/history/1993/",
+    "pass": 1
+   },
+   {
+    "quote": "メール配信サービス",
+    "url": "https://www.tsumura.co.jp/corporate/history/1993/",
+    "pass": 1
+   },
+   {
+    "quote": "中国におけるエキス粉末(中間製品)の製造拠点として上海津村製薬有限公司を設立",
+    "url": "https://www.tsumura.co.jp/corporate/history/1993/",
+    "pass": 1
+   },
+   {
+    "quote": "中国におけるエキス粉末(中間製品)の製造拠点として天津津村製薬有限公司を設立",
+    "url": "https://www.tsumura.co.jp/corporate/history/1993/",
+    "pass": 1
+   },
+   {
+    "quote": "商品名の商標登録について",
+    "url": "https://www.tsumura.co.jp/corporate/history/1993/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.tsumura.co.jp/kampo/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品番号で探す",
+    "url": "https://www.tsumura.co.jp/kampo/history/",
+    "pass": 1
+   },
+   {
+    "quote": "メール配信サービス",
+    "url": "https://www.tsumura.co.jp/kampo/history/",
+    "pass": 1
+   },
+   {
+    "quote": "商品名の商標登録について",
+    "url": "https://www.tsumura.co.jp/kampo/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.tsumura.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品番号で探す",
+    "url": "https://www.tsumura.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "メール配信サービス",
+    "url": "https://www.tsumura.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "商品名の商標登録について",
+    "url": "https://www.tsumura.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.tsumura.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "製品番号で探す",
+    "url": "https://www.tsumura.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "メール配信サービス",
+    "url": "https://www.tsumura.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "商品名の商標登録について",
+    "url": "https://www.tsumura.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.tsumura.co.jp/ir/management/message/",
+    "pass": 1
+   },
+   {
+    "quote": "製品番号で探す",
+    "url": "https://www.tsumura.co.jp/ir/management/message/",
+    "pass": 1
+   },
+   {
+    "quote": "メール配信サービス",
+    "url": "https://www.tsumura.co.jp/ir/management/message/",
+    "pass": 1
+   },
+   {
+    "quote": "」を掲げ、天然物由来の医薬品・製商品による価値を創出し、高品質な原料生薬の調達から均質性を確保した漢方製剤の一貫製造・販売までの高度なシステムにより、持続的安定供給を実現することで誰一人とり残すことのない医療への貢献を目指します",
+    "url": "https://www.tsumura.co.jp/ir/management/message/",
+    "pass": 1
+   },
+   {
+    "quote": "商品名の商標登録について",
+    "url": "https://www.tsumura.co.jp/ir/management/message/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.tsumura.co.jp/ir/management/priority-issues/",
+    "pass": 1
+   },
+   {
+    "quote": "製品番号で探す",
+    "url": "https://www.tsumura.co.jp/ir/management/priority-issues/",
+    "pass": 1
+   },
+   {
+    "quote": "メール配信サービス",
+    "url": "https://www.tsumura.co.jp/ir/management/priority-issues/",
+    "pass": 1
+   },
+   {
+    "quote": "ツムラグループの製商品とサービスによる社会価値を創出するために、私たちは理念に基づく経営の中心に「組織資本※」を据えています",
+    "url": "https://www.tsumura.co.jp/ir/management/priority-issues/",
+    "pass": 1
+   },
+   {
+    "quote": "」を掲げ、多様な社会を創り、一人ひとりが輝く未来の実現に向けて、天然物由来の医薬品・製商品の価値を広げる事業改革に取り組んでいます",
+    "url": "https://www.tsumura.co.jp/ir/management/priority-issues/",
+    "pass": 1
+   },
+   {
+    "quote": "事業活動の結果として「天然物由来の医薬品・製商品による新たな価値の創出」と「伝統医薬である漢方製剤等の医薬品の持続的安定供給」を高い次元で成し遂げるために、未来を見据えた戦略的アプローチを設定し、経営環境の変化に対応しながら、独自の強みをさらに磨き上げていきます",
+    "url": "https://www.tsumura.co.jp/ir/management/priority-issues/",
+    "pass": 1
+   },
+   {
+    "quote": "経営学者マイケル・ポーターが提唱するCSV（Creating Shared Value：共通価値の創造）を実現する３つの方法（レバー）のこと（①次世代製品・サービス創造、②バリューチェーン全体の生産性改善、③地域生態系の構築）",
+    "url": "https://www.tsumura.co.jp/ir/management/priority-issues/",
+    "pass": 1
+   },
+   {
+    "quote": "商品名の商標登録について",
+    "url": "https://www.tsumura.co.jp/ir/management/priority-issues/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.tsumura.co.jp/ir/management/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "製品番号で探す",
+    "url": "https://www.tsumura.co.jp/ir/management/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "メール配信サービス",
+    "url": "https://www.tsumura.co.jp/ir/management/plan/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "1893年から現在に至るまでの130年のツムラの歩みをご紹介します",
+    "url": "https://www.tsumura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "社員一人ひとりの強い思いを、映像でご紹介します",
+    "url": "https://www.tsumura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "処方せんが必要な医療用漢方製剤、店頭で購入できる一般用漢方製剤・医薬品やバスハーブなどをご紹介します",
+    "url": "https://www.tsumura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "バスハーブなどをご紹介します",
+    "url": "https://www.tsumura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お悩みにあった漢方薬を分かりやすく紹介しています",
+    "url": "https://www.tsumura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "医療用医薬品代理店の皆さま",
+    "url": "https://www.tsumura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1893年から現在に至るまでの130年のツムラの歩みをご紹介します",
+    "url": "https://www.tsumura.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "医療用医薬品代理店の皆さま",
+    "url": "https://www.tsumura.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "医療用医薬品代理店の皆さま",
+    "url": "https://www.tsumura.co.jp/corporate/history/1893/",
+    "pass": 1
+   },
+   {
+    "quote": "医療用医薬品代理店の皆さま",
+    "url": "https://www.tsumura.co.jp/corporate/history/1946/",
+    "pass": 1
+   },
+   {
+    "quote": "医療用医薬品代理店の皆さま",
+    "url": "https://www.tsumura.co.jp/corporate/history/1971/",
+    "pass": 1
+   },
+   {
+    "quote": "医療用医薬品代理店の皆さま",
+    "url": "https://www.tsumura.co.jp/corporate/history/1993/",
+    "pass": 1
+   },
+   {
+    "quote": "日本に近代西洋医学を伝え、日本の近代化や、ヨーロッパでの日本文化の紹介に貢献した",
+    "url": "https://www.tsumura.co.jp/kampo/history/",
+    "pass": 1
+   },
+   {
+    "quote": "医療用医薬品代理店の皆さま",
+    "url": "https://www.tsumura.co.jp/kampo/history/",
+    "pass": 1
+   },
+   {
+    "quote": "医療用医薬品代理店の皆さま",
+    "url": "https://www.tsumura.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の価値観や考え方についてご紹介いたします",
+    "url": "https://www.tsumura.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "医療用医薬品代理店の皆さま",
+    "url": "https://www.tsumura.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "医療用医薬品代理店の皆さま",
+    "url": "https://www.tsumura.co.jp/ir/management/message/",
+    "pass": 1
+   },
+   {
+    "quote": "医療用医薬品代理店の皆さま",
+    "url": "https://www.tsumura.co.jp/ir/management/priority-issues/",
+    "pass": 1
+   },
+   {
+    "quote": "医療用医薬品代理店の皆さま",
+    "url": "https://www.tsumura.co.jp/ir/management/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "医療用医薬品代理店の皆さま",
+    "url": "https://www.tsumura.co.jp/ir/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "医療用医薬品代理店の皆さま",
+    "url": "https://www.tsumura.co.jp/ir/management/disclosure-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "医療用医薬品代理店の皆さま",
+    "url": "https://www.tsumura.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "医療用医薬品代理店の皆さま",
+    "url": "https://www.tsumura.co.jp/ir/library/document/",
+    "pass": 1
+   },
+   {
+    "quote": "医療用医薬品代理店の皆さま",
+    "url": "https://www.tsumura.co.jp/ir/library/briefing-materials/",
+    "pass": 1
+   },
+   {
+    "quote": "医療用医薬品代理店の皆さま",
+    "url": "https://www.tsumura.co.jp/ir/library/securities-report/",
+    "pass": 1
+   },
+   {
+    "quote": "医療用医薬品代理店の皆さま",
+    "url": "https://www.tsumura.co.jp/ir/library/integrated-report/",
+    "pass": 1
+   },
+   {
+    "quote": "医療用医薬品代理店の皆さま",
+    "url": "https://www.tsumura.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "医療用医薬品代理店の皆さま",
+    "url": "https://www.tsumura.co.jp/ir/finance/chart-generator/",
+    "pass": 1
+   },
+   {
+    "quote": "医療用医薬品代理店の皆さま",
+    "url": "https://www.tsumura.co.jp/ir/finance/outlook/",
+    "pass": 1
+   },
+   {
+    "quote": "医療用医薬品代理店の皆さま",
+    "url": "https://www.tsumura.co.jp/ir/finance/rating/",
+    "pass": 1
+   },
+   {
+    "quote": "医療用医薬品代理店の皆さま",
+    "url": "https://www.tsumura.co.jp/ir/finance/stock-chart/",
+    "pass": 1
+   },
+   {
+    "quote": "医療用医薬品代理店の皆さま",
+    "url": "https://www.tsumura.co.jp/ir/finance/factsheets/",
+    "pass": 1
+   },
+   {
+    "quote": "別に、おすすめの漢方薬とともに生活習慣改善のワンポイントアドバイス（養生法）も紹介してい",
+    "url": "https://www.tsumura.co.jp/news/newsrelease/item/20261102.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【販売店舗情報】",
+    "url": "https://www.tsumura.co.jp/news/newsrelease/item/20261102.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "店舗により取扱・在庫が無い場合があります",
+    "url": "https://www.tsumura.co.jp/news/newsrelease/item/20261102.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 医系代理店ネットワークを活用し、専門調剤薬局での生活者へのアクセス拡大",
+    "url": "https://www.tsumura.co.jp/ir/library/briefing-materials/item/20260225_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ OTC漢方医薬品（第2類医薬品）のオンライン販売を拡大",
+    "url": "https://www.tsumura.co.jp/ir/library/briefing-materials/item/20260225_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 一般用漢方製剤等（第2類医薬品）のオンライン販売を拡大",
+    "url": "https://www.tsumura.co.jp/ir/library/briefing-materials/item/20260225_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "*4：くらすわ関連事業のうち、オンライン販売事業については譲受を予定",
+    "url": "https://www.tsumura.co.jp/ir/library/briefing-materials/item/20260225_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その一端をご紹介してまいります",
+    "url": "https://www.tsumura.co.jp/ir/library/briefing-materials/item/20251208_RandDscript_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、本題に入る前に、当社の研究開発本部の組織紹介",
+    "url": "https://www.tsumura.co.jp/ir/library/briefing-materials/item/20251208_RandDscript_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ならびに医療用漢方製剤の誕生の背景をご紹介させていただきます",
+    "url": "https://www.tsumura.co.jp/ir/library/briefing-materials/item/20251208_RandDscript_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "研究開発本部の組織について、ご紹介をさせていただきます",
+    "url": "https://www.tsumura.co.jp/ir/library/briefing-materials/item/20251208_RandDscript_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "先ほどご紹介をしましたが、化学医薬品を基にした審査・承認基準下での",
+    "url": "https://www.tsumura.co.jp/ir/library/briefing-materials/item/20251208_RandDscript_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ご紹介しておりますが、",
+    "url": "https://www.tsumura.co.jp/ir/library/briefing-materials/item/20251208_RandDscript_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "紹介をさせて頂く予定となります",
+    "url": "https://www.tsumura.co.jp/ir/library/briefing-materials/item/20251208_RandDscript_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "心不全専門医師による五苓散に対するコメントを紹介いたします",
+    "url": "https://www.tsumura.co.jp/ir/library/briefing-materials/item/20251208_RandDscript_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "紹介いたします",
+    "url": "https://www.tsumura.co.jp/ir/library/briefing-materials/item/20251208_RandDscript_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "TU-100の米国開発の取り組みと今後の方針についてご紹介いたします",
+    "url": "https://www.tsumura.co.jp/ir/library/briefing-materials/item/20251208_RandDscript_j.pdf",
+    "pass": 2
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "1946年~1970年",
+    "url": "https://www.tsumura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1971年~1992年",
+    "url": "https://www.tsumura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1993年~",
+    "url": "https://www.tsumura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度ガバナンス活動",
+    "url": "https://www.tsumura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期（中間期）および通期連結業績予想の修正に関するお知らせ",
+    "url": "https://www.tsumura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度 第1四半期 決算説明会動画（質疑含む）を公開しました",
+    "url": "https://www.tsumura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度 第1四半期 決算説明会スクリプト（質疑含む）を公開しました",
+    "url": "https://www.tsumura.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1946年~1970年",
+    "url": "https://www.tsumura.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1971年~1992年",
+    "url": "https://www.tsumura.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1993年~",
+    "url": "https://www.tsumura.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度ガバナンス活動",
+    "url": "https://www.tsumura.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1946年~1970年",
+    "url": "https://www.tsumura.co.jp/corporate/history/1893/",
+    "pass": 1
+   },
+   {
+    "quote": "1971年~1992年",
+    "url": "https://www.tsumura.co.jp/corporate/history/1893/",
+    "pass": 1
+   },
+   {
+    "quote": "1993年~",
+    "url": "https://www.tsumura.co.jp/corporate/history/1893/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度ガバナンス活動",
+    "url": "https://www.tsumura.co.jp/corporate/history/1893/",
+    "pass": 1
+   },
+   {
+    "quote": "1946年〜1970年",
+    "url": "https://www.tsumura.co.jp/corporate/history/1893/",
+    "pass": 1
+   },
+   {
+    "quote": "1971年〜1992年",
+    "url": "https://www.tsumura.co.jp/corporate/history/1893/",
+    "pass": 1
+   },
+   {
+    "quote": "1993年〜",
+    "url": "https://www.tsumura.co.jp/corporate/history/1893/",
+    "pass": 1
+   },
+   {
+    "quote": "1946年～1970年 - ツムラの歴史 - ツムラについて - 株式会社ツムラ",
+    "url": "https://www.tsumura.co.jp/corporate/history/1946/",
+    "pass": 1
+   },
+   {
+    "quote": "1946年~1970年",
+    "url": "https://www.tsumura.co.jp/corporate/history/1946/",
+    "pass": 1
+   },
+   {
+    "quote": "1971年~1992年",
+    "url": "https://www.tsumura.co.jp/corporate/history/1946/",
+    "pass": 1
+   },
+   {
+    "quote": "1993年~",
+    "url": "https://www.tsumura.co.jp/corporate/history/1946/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度ガバナンス活動",
+    "url": "https://www.tsumura.co.jp/corporate/history/1946/",
+    "pass": 1
+   },
+   {
+    "quote": "1946年～1970年",
+    "url": "https://www.tsumura.co.jp/corporate/history/1946/",
+    "pass": 1
+   },
+   {
+    "quote": "1960年代に入ると、入浴剤「バスクリン」の売上が急増した",
+    "url": "https://www.tsumura.co.jp/corporate/history/1946/",
+    "pass": 1
+   },
+   {
+    "quote": "1946年〜1970年",
+    "url": "https://www.tsumura.co.jp/corporate/history/1946/",
+    "pass": 1
+   },
+   {
+    "quote": "1971年〜1992年",
+    "url": "https://www.tsumura.co.jp/corporate/history/1946/",
+    "pass": 1
+   },
+   {
+    "quote": "1993年〜",
+    "url": "https://www.tsumura.co.jp/corporate/history/1946/",
+    "pass": 1
+   },
+   {
+    "quote": "1971年～1992年 - ツムラの歴史 - ツムラについて - 株式会社ツムラ",
+    "url": "https://www.tsumura.co.jp/corporate/history/1971/",
+    "pass": 1
+   },
+   {
+    "quote": "1946年~1970年",
+    "url": "https://www.tsumura.co.jp/corporate/history/1971/",
+    "pass": 1
+   },
+   {
+    "quote": "1971年~1992年",
+    "url": "https://www.tsumura.co.jp/corporate/history/1971/",
+    "pass": 1
+   },
+   {
+    "quote": "1993年~",
+    "url": "https://www.tsumura.co.jp/corporate/history/1971/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度ガバナンス活動",
+    "url": "https://www.tsumura.co.jp/corporate/history/1971/",
+    "pass": 1
+   },
+   {
+    "quote": "1971年～1992年",
+    "url": "https://www.tsumura.co.jp/corporate/history/1971/",
+    "pass": 1
+   },
+   {
+    "quote": "1946年〜1970年",
+    "url": "https://www.tsumura.co.jp/corporate/history/1971/",
+    "pass": 1
+   },
+   {
+    "quote": "1971年〜1992年",
+    "url": "https://www.tsumura.co.jp/corporate/history/1971/",
+    "pass": 1
+   },
+   {
+    "quote": "1993年〜",
+    "url": "https://www.tsumura.co.jp/corporate/history/1971/",
+    "pass": 1
+   },
+   {
+    "quote": "1993年～ - ツムラの歴史 - ツムラについて - 株式会社ツムラ",
+    "url": "https://www.tsumura.co.jp/corporate/history/1993/",
+    "pass": 1
+   },
+   {
+    "quote": "1946年~1970年",
+    "url": "https://www.tsumura.co.jp/corporate/history/1993/",
+    "pass": 1
+   },
+   {
+    "quote": "1971年~1992年",
+    "url": "https://www.tsumura.co.jp/corporate/history/1993/",
+    "pass": 1
+   },
+   {
+    "quote": "1993年~",
+    "url": "https://www.tsumura.co.jp/corporate/history/1993/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度ガバナンス活動",
+    "url": "https://www.tsumura.co.jp/corporate/history/1993/",
+    "pass": 1
+   },
+   {
+    "quote": "1993年～",
+    "url": "https://www.tsumura.co.jp/corporate/history/1993/",
+    "pass": 1
+   },
+   {
+    "quote": "1946年〜1970年",
+    "url": "https://www.tsumura.co.jp/corporate/history/1993/",
+    "pass": 1
+   },
+   {
+    "quote": "1971年〜1992年",
+    "url": "https://www.tsumura.co.jp/corporate/history/1993/",
+    "pass": 1
+   },
+   {
+    "quote": "1993年〜",
+    "url": "https://www.tsumura.co.jp/corporate/history/1993/",
+    "pass": 1
+   },
+   {
+    "quote": "1946年~1970年",
+    "url": "https://www.tsumura.co.jp/kampo/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1971年~1992年",
+    "url": "https://www.tsumura.co.jp/kampo/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1993年~",
+    "url": "https://www.tsumura.co.jp/kampo/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度ガバナンス活動",
+    "url": "https://www.tsumura.co.jp/kampo/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1910年に和田啓十郎が『医界之鉄椎』を、1927年には湯本求真が『皇漢医学』を出版",
+    "url": "https://www.tsumura.co.jp/kampo/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1910年、苦労して南江堂より『医界之鉄椎』を千部、自費出版",
+    "url": "https://www.tsumura.co.jp/kampo/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1915年、第2版を湯本求真の治験例を加え自費出版",
+    "url": "https://www.tsumura.co.jp/kampo/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1916年、45歳にて逝去",
+    "url": "https://www.tsumura.co.jp/kampo/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1950年(昭和25年)に、日本東洋医学会が設立されます",
+    "url": "https://www.tsumura.co.jp/kampo/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1950年代後半になるとサリドマイドなど相次ぐ薬害の発生などにより、西洋薬一辺倒を懸念する声が高まります",
+    "url": "https://www.tsumura.co.jp/kampo/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1963年には、「調剤容易な配合剤は薬価基準には収載しないが、医療機関でこの種の配合剤を使用した場合には、既収載の単味製剤の合算により請求できるものとする」とする追補が出されます",
+    "url": "https://www.tsumura.co.jp/kampo/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1946年~1970年",
+    "url": "https://www.tsumura.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "1971年~1992年",
+    "url": "https://www.tsumura.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "1993年~",
+    "url": "https://www.tsumura.co.jp/ir/",
+    "pass": 1
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "養命酒製造株式会社がツムラグループに加わり、両社の強みを生かしながら、人々の健康と豊かな暮らしへのさらなる貢献を目指す新たな一歩を踏み出しました",
+    "url": "https://www.tsumura.co.jp/corporate/history/1993/",
+    "pass": 1
+   },
+   {
+    "quote": "自然の叡智を科学することで成長してきた当社グループにとって、持続可能な社会と自然環境に根差した共通価値の創造に取り組むことこそ、競争優位性を高め企業価値向上に寄与するものと捉えています",
+    "url": "https://www.tsumura.co.jp/ir/management/message/",
+    "pass": 1
+   },
+   {
+    "quote": "自然の叡智を科学することで成長してきた当社グループにとって、持可能な社会と自然環境に根差した共通価値の創造（CSV）に取り組むことこそ、競争優位性を高め、企業価値向上に寄与するものと捉えています",
+    "url": "https://www.tsumura.co.jp/ir/management/priority-issues/",
+    "pass": 1
+   },
+   {
+    "quote": "事業活動の結果として「天然物由来の医薬品・製商品による新たな価値の創出」と「伝統医薬である漢方製剤等の医薬品の持続的安定供給」を高い次元で成し遂げるために、未来を見据えた戦略的アプローチを設定し、経営環境の変化に対応しながら、独自の強みをさらに磨き上げていきます",
+    "url": "https://www.tsumura.co.jp/ir/management/priority-issues/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗により取扱・在庫が無い場合があります",
+    "url": "https://www.tsumura.co.jp/news/newsrelease/item/20261102.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・安定供給と適正在庫の両立のため、販売・生産・調達計画の高精度化などにより迅速な意思決定体制を構",
+    "url": "https://www.tsumura.co.jp/news/newsrelease/item/20250512_5.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "養生領域において養命酒製造が強みを持つヘルスケア製品の国内事業領域を拡大",
+    "url": "https://www.tsumura.co.jp/ir/library/briefing-materials/item/20260225_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "✓ 養生領域における競争優位性",
+    "url": "https://www.tsumura.co.jp/ir/library/briefing-materials/item/20260225_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "400年の歴史を有する「薬用養命酒」を始め、養命酒製造の強みを最大限に活かすことにより、",
+    "url": "https://www.tsumura.co.jp/ir/library/briefing-materials/item/20260225_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "対象の原料生薬については、研究の進捗を見ながら在庫の積み増しを進めていくが、五苓散",
+    "url": "https://www.tsumura.co.jp/ir/library/briefing-materials/item/20251208_QA.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このKAMPOmics技術を当社の強みとして、",
+    "url": "https://www.tsumura.co.jp/ir/library/briefing-materials/item/20251208_RandDscript_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 漢方の強みは使い分けであり、漢方独特の診断方法に基づいた「証」を考慮すべき",
+    "url": "https://www.tsumura.co.jp/ir/library/briefing-materials/item/20251208_RandDscript_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "漢方の強みは使い分けであり、漢方独特の診断方法に基づいた",
+    "url": "https://www.tsumura.co.jp/ir/library/briefing-materials/item/20251208_RandDscript_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "病態別、ステージ別の使い分けを特徴とする多成分系の漢方薬の強みを",
+    "url": "https://www.tsumura.co.jp/ir/library/briefing-materials/item/20251208_RandDscript_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 他社の強みとの掛け合わせによる開発",
+    "url": "https://www.tsumura.co.jp/ir/library/briefing-materials/item/20251208_RandDscript_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "分析技術の確立を当社の強みとして、開発のステージとして、",
+    "url": "https://www.tsumura.co.jp/ir/library/briefing-materials/item/20251208_RandDscript_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "臨床研究での検証、他社の強みとの掛け合わせによる開発、",
+    "url": "https://www.tsumura.co.jp/ir/library/briefing-materials/item/20251208_RandDscript_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "すなわち、当社の強みである「基礎・臨床エビデンス」、",
+    "url": "https://www.tsumura.co.jp/ir/library/briefing-materials/item/20251208_RandDscript_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "アルギン酸一筋に80余年 ニーズに誠実に応え続けた強み",
+    "url": "https://www.sentankyo.jp/articles/d735d9ac-039b-408d-961e-9bdb9095d980",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "養命酒製造の概要➁（セグメント情報）",
+    "url": "https://www.tsumura.co.jp/ir/library/briefing-materials/item/20260225_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.tsumura.co.jp/ir/library/briefing-materials/item/20260225_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 2,365 △627 1,737 △1,609*3 128",
+    "url": "https://www.tsumura.co.jp/ir/library/briefing-materials/item/20260225_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "*3：主に各報告セグメントに配分していない一般管理費等の全社費用",
+    "url": "https://www.tsumura.co.jp/ir/library/briefing-materials/item/20260225_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【養命酒製造株式会社 2025年3月期決算 報告セグメント毎の分解情報】 単位：百万円",
+    "url": "https://www.tsumura.co.jp/ir/library/briefing-materials/item/20260225_2.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "国内事業 - 個人投資家の皆さまへ - IR事業 - 株式会社 ツムラ — 国内事業 - 個人投資家の皆さまへ - IR事業 - 株式会社 ツムラ ツムラ https://www.tsumura.co.jp > ... > ツムラってどんな会社",
+    "url": "https://www.tsumura.co.jp/ir/investor/about-tsumura/domestic-business/",
+    "pass": 3
+   },
+   {
+    "quote": "ツムラについて - 株式会社ツムラ - 1分でわかるツムラ — ツムラについて - 株式会社ツムラ - 1分でわかるツムラ ツムラ https://www.tsumura.co.jp > ツムラについて",
+    "url": "https://www.tsumura.co.jp/corporate/one-minite-tsumura/",
+    "pass": 3
+   },
+   {
+    "quote": "漢方 ビジネス の特徴 - ツムラ — 漢方 ビジネス の特徴 - ツムラ ツムラ PDF https://www.tsumura.co.jp > library > report-2024_3",
+    "url": "https://www.tsumura.co.jp/assets/pdf/ir/library/integrated-report/report-2024_3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ツムラ ってどんな会社 - 個人投資家の皆さまへ - IR — ツムラ ってどんな会社 - 個人投資家の皆さまへ - IR ツムラ https://www.tsumura.co.jp > ... > 個人投資家の皆さまへ",
+    "url": "https://www.tsumura.co.jp/ir/investor/about-tsumura/",
+    "pass": 3
+   },
+   {
+    "quote": "【創業130年】日本を漢方で支える ツムラ の強みと弱み【24卒 ... — 【創業130年】日本を漢方で支える ツムラ の強みと弱み【24卒 ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=1NAjm-5mzTc",
+    "pass": 3
+   },
+   {
+    "quote": "各種 説明 会 資料 - IR 資料 室 - IR - 株式会社 ツムラ — 各種 説明 会 資料 - IR 資料 室 - IR - 株式会社 ツムラ ツムラ https://www.tsumura.co.jp > ... > 各種説明会資料",
+    "url": "https://www.tsumura.co.jp/ir/library/briefing-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "決算 関連 資料 - IR 資料 室 - IR - 株式会社 ツムラ — 決算 関連 資料 - IR 資料 室 - IR - 株式会社 ツムラ ツムラ https://www.tsumura.co.jp > IR情報 > IR資料室",
+    "url": "https://www.tsumura.co.jp/ir/library/document/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 - 株式会社 ツムラ — IR情報 - 株式会社 ツムラ ツムラ https://www.tsumura.co.jp > IR情報",
+    "url": "https://www.tsumura.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "IR 資料 室 - IR - 株式会社 ツムラ — IR 資料 室 - IR - 株式会社 ツムラ ツムラ https://www.tsumura.co.jp > IR情報",
+    "url": "https://www.tsumura.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "IRニュース一覧 - ニュース - 株式会社 ツムラ — IRニュース一覧 - ニュース - 株式会社 ツムラ ツムラ https://www.tsumura.co.jp > ニュース > IRニュース",
+    "url": "https://www.tsumura.co.jp/news/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "組織図 2026年 4 月 1 日 — 組織図 2026年 4 月 1 日 ツムラ PDF https://www.tsumura.co.jp > profile > organization",
+    "url": "https://www.tsumura.co.jp/assets/pdf/corporate/profile/organization.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報 - ツムラ について - 株式会社 ツムラ — 会社情報 - ツムラ について - 株式会社 ツムラ ツムラ https://www.tsumura.co.jp > ツムラについて",
+    "url": "https://www.tsumura.co.jp/corporate/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "ツムラ 【4540】の 事業 内容 - キタイシホン — ツムラ 【4540】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/4540/business",
+    "pass": 3
+   },
+   {
+    "quote": "中期経営計画 - 経営方針 - IR - 株式会社 ツムラ — 中期経営計画 - 経営方針 - IR - 株式会社 ツムラ ツムラ https://www.tsumura.co.jp > ... > 経営方針 > 中期経営計画",
+    "url": "https://www.tsumura.co.jp/ir/management/plan/",
+    "pass": 3
+   },
+   {
+    "quote": "ツムラ ・加藤照和 社長 が語る「理念は、組織と社員を導く ... — ツムラ ・加藤照和 社長 が語る「理念は、組織と社員を導く ... 先端教育オンライン https://www.sentankyo.jp > 2025年5月号",
+    "url": "https://www.sentankyo.jp/articles/d735d9ac-039b-408d-961e-9bdb9095d980",
+    "pass": 3
+   },
+   {
+    "quote": "CEOメッセージ - 株式会社 ツムラ — CEOメッセージ - 株式会社 ツムラ ツムラ https://www.tsumura.co.jp > ツムラについて",
+    "url": "https://www.tsumura.co.jp/corporate/message/",
+    "pass": 3
+   },
+   {
+    "quote": "ツムラ 芳井順一 社長インタビュー 「1年半後には 社長 職を禅譲 ... — ツムラ 芳井順一 社長インタビュー 「1年半後には 社長 職を禅譲 ... ダイヤモンド・オンライン https://diamond.jp > ... > 週刊ダイヤモンド 企業特集",
+    "url": "https://diamond.jp/articles/-/10603",
+    "pass": 3
+   },
+   {
+    "quote": "ツムラ社長 ・加藤照和氏「医療機関の啓発進める」 — ツムラ社長 ・加藤照和氏「医療機関の啓発進める」 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/00226486",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.tsumura.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsumura.co.jp/corporate/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsumura.co.jp/corporate/history/1893/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsumura.co.jp/corporate/history/1946/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsumura.co.jp/corporate/history/1971/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsumura.co.jp/corporate/history/1993/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsumura.co.jp/kampo/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsumura.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsumura.co.jp/ir/management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsumura.co.jp/ir/management/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsumura.co.jp/ir/management/priority-issues/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsumura.co.jp/ir/management/plan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsumura.co.jp/ir/management/risk/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsumura.co.jp/ir/management/disclosure-policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsumura.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsumura.co.jp/ir/library/document/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsumura.co.jp/ir/library/briefing-materials/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsumura.co.jp/ir/library/securities-report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsumura.co.jp/ir/library/integrated-report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsumura.co.jp/ir/finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsumura.co.jp/ir/finance/chart-generator/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsumura.co.jp/ir/finance/outlook/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsumura.co.jp/ir/finance/rating/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsumura.co.jp/ir/finance/stock-chart/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsumura.co.jp/ir/finance/factsheets/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.tsumura.co.jp/news/newsrelease/item/20261102.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tsumura.co.jp/news/newsrelease/item/20261028.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tsumura.co.jp/assets/pdf/ir/management/plan/numericalTargets2027.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tsumura.co.jp/news/newsrelease/item/20250512_5.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tsumura.co.jp/news/newsrelease/item/20251110_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tsumura.co.jp/ir/library/briefing-materials/item/20260225_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tsumura.co.jp/ir/library/briefing-materials/item/20251208_QA.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tsumura.co.jp/ir/library/briefing-materials/item/20251208_RandDscript_j.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.sentankyo.jp/articles/d735d9ac-039b-408d-961e-9bdb9095d980",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ツムラ",
+   "results": [
+    "https://www.tsumura.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%83%84%E3%83%A0%E3%83%A9",
+    "https://www.youtube.com/@tsumura_official",
+    "https://www.amazon.co.jp/stores/%E3%83%84%E3%83%A0%E3%83%A9%E6%BC%A2%E6%96%B9%E3%82%B9%E3%83%88%E3%82%A2/page/19EA765D-6C81-4B5F-8591-80BC9CD2FE42",
+    "https://x.com/tsumura_jp",
+    "https://ja.wikipedia.org/wiki/ツムラ"
+   ]
+  },
+  {
+   "query": "ツムラ ビジネスモデル",
+   "results": [
+    "https://www.tsumura.co.jp/ir/investor/about-tsumura/domestic-business/",
+    "https://www.tsumura.co.jp/corporate/one-minite-tsumura/",
+    "https://www.tsumura.co.jp/assets/pdf/ir/library/integrated-report/report-2024_3.pdf",
+    "https://www.tsumura.co.jp/ir/investor/about-tsumura/",
+    "https://www.youtube.com/watch?v=1NAjm-5mzTc",
+    "https://www.tsumura.co.jp/assets/pdf/ir/investor/event/260414_event_koekiku.pdf",
+    "https://www.tsumura.co.jp/corporate/profile/",
+    "https://job.mynavi.jp/28/pc/search/corp789/outline.html",
+    "https://careerforum.net/ja/company_list/3203/company_detail/",
+    "https://consovation.com/とても気になるツムラのビジネスモデルと成長戦/"
+   ]
+  },
+  {
+   "query": "ツムラ 決算説明資料",
+   "results": [
+    "https://www.tsumura.co.jp/ir/library/briefing-materials/",
+    "https://www.tsumura.co.jp/ir/library/document/",
+    "https://www.tsumura.co.jp/ir/",
+    "https://www.tsumura.co.jp/ir/library/",
+    "https://www.tsumura.co.jp/news/ir/",
+    "https://www.buffett-code.com/company/4540/library",
+    "https://www.tsumura.co.jp/ir/library/integrated-report/",
+    "https://pdf.irpocket.com/C4540/WUpy/b721/tmUk.pdf",
+    "https://edinetdb.jp/company/E01018/presentations/",
+    "https://irbank.net/4540/ir"
+   ]
+  },
+  {
+   "query": "ツムラ 事業系統図",
+   "results": [
+    "https://www.tsumura.co.jp/assets/pdf/corporate/profile/organization.pdf",
+    "https://www.tsumura.co.jp/corporate/profile/",
+    "https://www.tsumura.co.jp/ir/investor/about-tsumura/",
+    "https://kitaishihon.com/company/4540/business",
+    "https://www.tsumura.co.jp/ir/management/plan/",
+    "https://www.tsumura.co.jp/assets/pdf/ir/library/integrated-report/report-2025_view.pdf",
+    "https://job.mynavi.jp/28/pc/search/corp789/outline.html",
+    "https://www.tsumura.co.jp/corporate/profile/network/",
+    "https://www.tsumura.co.jp/sitemap/",
+    "https://pdf.irpocket.com/C4540/vAfC/UVlq/GJ9e.pdf"
+   ]
+  },
+  {
+   "query": "ツムラ 社長 インタビュー",
+   "results": [
+    "https://www.sentankyo.jp/articles/d735d9ac-039b-408d-961e-9bdb9095d980",
+    "https://www.tsumura.co.jp/corporate/message/",
+    "https://diamond.jp/articles/-/10603",
+    "https://www.nikkan.co.jp/articles/view/00226486",
+    "https://www.newstokyo.jp/interview/1510/",
+    "https://note.com/audiobook/n/nbc2e65b720b5",
+    "https://shuchi.php.co.jp/article/4845",
+    "https://ja.wikipedia.org/wiki/%E3%83%84%E3%83%A0%E3%83%A9",
+    "https://www.youtube.com/watch?v=Q4Ouwf7pTrY",
+    "https://www.chichi.co.jp/web/20260517_katou/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部1頁・検索5回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部1頁・検索5回）",
+  "お金の形": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部1頁・検索5回）"
+ }
+}

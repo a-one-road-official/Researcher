@@ -1,0 +1,966 @@
+{
+ "name": "東映",
+ "aliases": [],
+ "context": "証券コード9605／情報・通信業／プライム（内国株式）／2026.03期 売上高185,333百万円 営業利益率19.5%",
+ "researched_at": "2026-11-02T18:06:10.094539+00:00",
+ "official_url": "https://www.toeich.jp/",
+ "identified_by": "search:yahoo_jp:東映",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1998年4月23日",
+    "url": "https://www.toeich.jp/company",
+    "pass": 1
+   },
+   {
+    "label": "◆ 創立7年で赤字から黒字の会社へ",
+    "value": "東映は1951年に東映映画配給、東横映画、太泉映画の３社が合併し、負債11億円を抱えて発足しています。当時の11億円は今でいうとざっと4,000億円弱ですが、初代社長の大川 博は、鉄道省の事務官や東急電鉄の経理部長を務めた経理・財務のプロだったため、その手腕を見込まれて赤字会社を立て直すために送り込まれたのです。 当時は、良い作品や面白い作品を作るためなら、いくらでもお金をかけていました。予算管理のシステムが無く、制作費に見合う興行収入を得られずに赤字が増えるというサイクルでした。そこで、大川社長は、どんなジャンルであっても１本あたり1,100万円（現在の3～４億円ほど）以内で制作するように指示を出しました。当初は現場からの反発もありましたが、継続していくうちに個々の作品できちんと収益を上げられるようになり、結果的に7年後に東映は黒字に転換。社員の給料も増えることとなり、反感を持っていた現場の社員たちからも「社長は素晴らしい」と言われるようになったという逸話も残っています。",
+    "url": "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "CS放送「東映チャンネル」の放送事業および番組供給",
+    "url": "https://www.toeich.jp/company",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "お客様窓口 10:00～20:00（年中無休）",
+    "url": "https://www.toeich.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様窓口 10:00～20:00（年中無休）",
+    "url": "https://www.toeich.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "業務委託先は、加入者の特定取引先(放送、通信等に係る取引であって、当社又は当社の代",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「江戸」の雰囲気の中で飲食ができるエリアや、「日本らしさ」を売りにしたイベント施設を作り、海外のお客様にフォーカスした体験型の施設を目指します",
+    "url": "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "【重要】「お知らせメール」サービス再開およびパスワード再設定のお願い",
+    "url": "https://www.toeich.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "東映チャンネルは、以下のサービスで視聴可能です",
+    "url": "https://www.toeich.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "まずは、いずれかのサービスにご加入下さい",
+    "url": "https://www.toeich.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "東映チャンネルは、以下のサービスで視聴可能です",
+    "url": "https://www.toeich.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "まずは、いずれかのサービスにご加入下さい",
+    "url": "https://www.toeich.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "第三章 衛星デジタル有料放送サービスの提供及び受信 (第七条－第十一条)",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "より、衛星デジタル有料放送サービスを提供します",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第二条 当社は、 加入者の一般の利益に適合する場合、 又は衛星デジタル有料放送サービス",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "放送サービス",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "二 有料放送契約 衛星デジタル有料放送サービスの提供を受ける契約",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "十二 PPD 課金単位が一日となっている衛星デジタル有料放送サービス",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "デジタル有料放送サービス",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "十四 B-CAS 社 衛星デジタル有料放送サービスの限定受信システムの管理を",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "レビジョン放送に対応した衛星デジタル有料放送サービスの",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ACAS チップとその他の衛星デジタル有料放送サービスを視",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "二十四 他サービス 当社が提供する他の衛星デジタル有料放送サービス",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "し、別表第一号に規定する衛星デジタル有料放送サービス単位で締結することとします",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２ 有料放送契約は、当社の提供する衛星デジタル有料放送サービスを、加入申込者又は、",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "三 加入申込者が衛星デジタル有料放送サービスの提供に関し、 著作権その他の知的財",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "四 加入申込者が日本国外において、 衛星デジタル有料放送サービスの提供を受けよう",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "六 加入申込者が衛星デジタル有料放送サービスを法及び他の法令に反する目的で利",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第三章 衛星デジタル有料放送サービスの提供及び受信",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(衛星デジタル有料放送サービスの提供)",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "原則として別表第一号に規定する時間の衛星デジタル有料放送サービスを提供します",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２ 当社は、 衛星デジタル有料放送サービスの内容及び放送時間を原則として別表第二号に",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指定する番組検索サービス(以下「EPG」といいます",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(視聴可能最低年齢を定めて提供される衛星デジタル有料放送サービス)",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第九条 加入者は、 視聴可能最低年齢を定めて提供される衛星デジタル有料放送サービスを",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "星デジタル有料放送サービスを視聴することとなる最も若年の者の年齢)及び暗証番号又は",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ル有料放送サービスを視聴したことに起因する加入者の不利益について、 当社及び当社の代",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "配信、放送、パッケージに加えてマーチャンダイズ、商品化、ゲーム化、イベント展開ができるので映像作品から発生する収益も含め、収益を最大化できることが最大の特長",
+    "url": "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "pass": 3
+   },
+   {
+    "quote": "また、現在は海外ファンドへの投資を行おうとすると、金融商品取引法による制限が出てしまいますが、そういった制約を伴わない自由なコンテンツへの投資ができる制度を作っていかなければならないと思います",
+    "url": "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "pass": 3
+   },
+   {
+    "quote": "調査・情報サービス",
+    "url": "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年11月 無料放送のお知らせ",
+    "url": "https://www.toeich.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1998年4月23日",
+    "url": "https://www.toeich.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年8 月 1 日から",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年10 月 31 日まで",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年3月期 第2四半期",
+    "url": "https://corp.toei-anim.co.jp/ja/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期 第1四半期",
+    "url": "https://corp.toei-anim.co.jp/ja/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://corp.toei-anim.co.jp/ja/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 第3四半期",
+    "url": "https://corp.toei-anim.co.jp/ja/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 第2四半期",
+    "url": "https://corp.toei-anim.co.jp/ja/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 第1四半期",
+    "url": "https://corp.toei-anim.co.jp/ja/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://corp.toei-anim.co.jp/ja/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期 第3四半期",
+    "url": "https://corp.toei-anim.co.jp/ja/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期 第2四半期",
+    "url": "https://corp.toei-anim.co.jp/ja/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期 第1四半期",
+    "url": "https://corp.toei-anim.co.jp/ja/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://corp.toei-anim.co.jp/ja/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月期 第3四半期",
+    "url": "https://corp.toei-anim.co.jp/ja/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月期 第2四半期",
+    "url": "https://corp.toei-anim.co.jp/ja/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月期 第1四半期",
+    "url": "https://corp.toei-anim.co.jp/ja/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://corp.toei-anim.co.jp/ja/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年3月期 第3四半期",
+    "url": "https://corp.toei-anim.co.jp/ja/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年3月期 第2四半期",
+    "url": "https://corp.toei-anim.co.jp/ja/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年3月期 第1四半期",
+    "url": "https://corp.toei-anim.co.jp/ja/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://corp.toei-anim.co.jp/ja/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年3月期 第3四半期",
+    "url": "https://corp.toei-anim.co.jp/ja/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年3月期 第2四半期",
+    "url": "https://corp.toei-anim.co.jp/ja/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年3月期 第1四半期",
+    "url": "https://corp.toei-anim.co.jp/ja/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年3月期",
+    "url": "https://corp.toei-anim.co.jp/ja/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年3月期 第3四半期",
+    "url": "https://corp.toei-anim.co.jp/ja/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年3月期 第2四半期",
+    "url": "https://corp.toei-anim.co.jp/ja/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "設立主旨・沿革",
+    "url": "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "pass": 3
+   },
+   {
+    "quote": "設立趣旨・沿革",
+    "url": "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "pass": 3
+   },
+   {
+    "quote": "2033年に向けて、中長期ビジョンを発表した東映グループ",
+    "url": "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "pass": 3
+   },
+   {
+    "quote": "1996年「黄金伝説 エル・ドラ―ドの秘宝展」ではインカ帝国時代の宝飾品や土器をコロンビアから、1999年「悠久の大インカ展 哀しみの美少女フワニータ」では氷漬けの少女のミイラをペルーからそれぞれ持ってきて、日本全国を巡回する展覧会をしました",
+    "url": "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "pass": 3
+   },
+   {
+    "quote": "昭和30年代、日本映画の全盛期を時代劇で支えた東映映画",
+    "url": "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "pass": 3
+   },
+   {
+    "quote": "1956年（昭和31年）度の邦画配収ベスト10のうち、5本が東映製作の映画で、うち3本は時代劇でした",
+    "url": "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "pass": 3
+   },
+   {
+    "quote": "1959年、今のテレビ朝日にあたる「日本教育テレビ」、",
+    "url": "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "pass": 3
+   },
+   {
+    "quote": "1963年の『ナショナルキッド』は松下電器さんとのタイアップで作られた作品です",
+    "url": "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "pass": 3
+   },
+   {
+    "quote": "1990年前後はレンタルビデオが大変普及していました",
+    "url": "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "pass": 3
+   },
+   {
+    "quote": "1956年に設立された東映動画は、当時大川社長がアメリカのディズニースタジオを視察した際に非常に感銘を受け、「日本にもアニメーション映画を作る独立スタジオを」という意向で作った会社です",
+    "url": "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "pass": 3
+   },
+   {
+    "quote": "1958年公開『白蛇伝』は、日本初長編カラーの劇場版映画でした",
+    "url": "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "pass": 3
+   },
+   {
+    "quote": "1968年公開『太陽の王子 ホルスの大冒険』は監督・高畑 勲さん、原画担当・宮崎 駿さん、作画監督が『ルパン三世』などを手掛けた大塚康生さんという、今の日本アニメ界を創り上げてきた方々がスタッフとして加わっている作品です",
+    "url": "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "pass": 3
+   },
+   {
+    "quote": "2028年を目処に完全リニューアルを行い、ここから得る収益を新たな作品づくりの原資にする予定です",
+    "url": "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "pass": 3
+   },
+   {
+    "quote": "1950年代、映画が衰退してテレビ放送が広がる風潮をいち早く読み取り、現在のテレビ朝日にあたる放送局を開局しました",
+    "url": "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "pass": 3
+   },
+   {
+    "quote": "2023年には東映アニメーションが『聖闘士星矢 The Beginning』を本国のソニーとスタジオ契約をして全世界配給しましたが、うまくは行きませんでした",
+    "url": "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "pass": 3
+   },
+   {
+    "quote": "2023年世界市場を意識したオリジナル映像企画開発会社「FLARE CREATORS」を設立",
+    "url": "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "pass": 3
+   },
+   {
+    "quote": "1965年2月 鹿児島市に生まれる",
+    "url": "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "pass": 3
+   },
+   {
+    "quote": "1983年3月 鹿児島中央高校卒業",
+    "url": "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "pass": 3
+   },
+   {
+    "quote": "1988年3月 立命館大学文学部卒業",
+    "url": "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "pass": 3
+   },
+   {
+    "quote": "1988年4月 東映株式会社入社",
+    "url": "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "pass": 3
+   },
+   {
+    "quote": "1997年4月 本社事業推進部へ異動 文化催事・国際展事業に携わる",
+    "url": "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "pass": 3
+   },
+   {
+    "quote": "2001年6月 映像版権営業部デジタルネット営業室を立ち上げ",
+    "url": "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "pass": 3
+   },
+   {
+    "quote": "2016年6月 コンテンツ事業部長",
+    "url": "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "pass": 3
+   },
+   {
+    "quote": "2020年6月 取締役就任",
+    "url": "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "pass": 3
+   },
+   {
+    "quote": "2021年6月 常務取締役就任",
+    "url": "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "放送内容に関連した情報提供、 当社が提供する有料放送の役務の紹介、 当社又は当社の代理",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "パートナー募集情報",
+    "url": "https://corp.toei-anim.co.jp/ja/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "パートナー募集について",
+    "url": "https://corp.toei-anim.co.jp/ja/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "３. 作品をフランチャイズ化して収益をさらに拡大する",
+    "url": "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": ")、加入料、有料放送料金等明細発行料及び手数料(以下、有料放送料金と",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "４ 当社が払戻しを行う場合においては、 加入者は、 当社が総務大臣に届け出た返金手数料",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(複数契約について同時に返金を行う場合の各契約に係る返金手数料は、契約数で除した額",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "戻しについては、返金手数料を請求しません",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "出た手数料（カスタマーセンター手続きに要する費用）を請求します",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(本人の求めに係る手数料)",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "た場合は、別表第八号に定める手数料を請求します",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２ 前項の手数料は、当社から本人(この項においては加入者に限ります",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３ 前二項に定める場合のほか手数料に係る手続は、プライバシーポリシーに定めます",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(2) 基本料：月額 ４２９円（税込）",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "①の規定に関わらず、次の場合はそれぞれに規定する額を月額視聴料の合計額と",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(4) 有料放送料金等明細発行料 1 通あたり月額 220 円 （税込）",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(6) 手数料",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① 返金手数料 １，１００円 （税込）",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "は返金手数料を支払わなければなりません",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "を同時に行う場合は、一契約に対する手数料は上記の金額を契約数で除した金額と",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "とする手数料の支払いは不要です",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(4) 手数料",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "①返金手数料",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "返金手数料を要する場合においては、 当社は、 次の計算式による額から返金手数料を引いた",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "開示請求手数料 ５５０円（税込）",
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ライセンス営業(海外/国内)",
+    "url": "https://corp.toei-anim.co.jp/ja/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "クラス別調査研究受託人件費単価",
+    "url": "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "東映 の事業 | 東映 について | 東映 株式会社 — 東映 の事業 | 東映 について | 東映 株式会社 東映株式会社 https://www.toei.co.jp > about > business",
+    "url": "https://www.toei.co.jp/about/business/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "PERO'S REPORT 2025 - 東映 アニメーション — PERO'S REPORT 2025 - 東映 アニメーション 東映アニメーション PDF https://corp.toei-anim.co.jp > main > linkList > link",
+    "url": "https://corp.toei-anim.co.jp/ja/ir/library/PEROS_REPORT/main/07/teaserItems1/0/linkList/00/link/PEROS%20REPORT%202025%20fin.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "脈々と「作品を作り続ける」 東映 がマルチユースという ... — 脈々と「作品を作り続ける」 東映 がマルチユースという ... 【VIPO】映像産業振興機構 https://www.vipo.or.jp > interview > list > detail",
+    "url": "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "pass": 3
+   },
+   {
+    "quote": "東映 アニメーションの ビジネスモデル #Shorts - YouTube — 東映 アニメーションの ビジネスモデル #Shorts - YouTube YouTube https://www.youtube.com > shorts",
+    "url": "https://www.youtube.com/shorts/wG08mxyhGVU",
+    "pass": 3
+   },
+   {
+    "quote": "東映 エージエンシー | 東映 グループの広告会社【テレビ番組 ... — 東映 エージエンシー | 東映 グループの広告会社【テレビ番組 ... 東映エージエンシー https://www.toeiad.co.jp",
+    "url": "https://www.toeiad.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリー | 投資家向け情報 | 東映 株式会社 — IRライブラリー | 投資家向け情報 | 東映 株式会社 東映株式会社 https://www.toei.co.jp > library",
+    "url": "https://www.toei.co.jp/ir/library/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算資料 | IR 資料 | IR情報 | 東映 アニメーション株式会社 — 決算資料 | IR 資料 | IR情報 | 東映 アニメーション株式会社 東映アニメーション https://corp.toei-anim.co.jp > library > result",
+    "url": "https://corp.toei-anim.co.jp/ja/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "IRニュース | 投資家向け情報 | 東映 株式会社 — IRニュース | 投資家向け情報 | 東映 株式会社 東映株式会社 https://www.toei.co.jp > news",
+    "url": "https://www.toei.co.jp/ir/news/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "投資家向け情報 | 東映 株式会社 — 投資家向け情報 | 東映 株式会社 東映株式会社 https://www.toei.co.jp > ...",
+    "url": "https://www.toei.co.jp/ir/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 | 東映 アニメーション株式会社 — IR情報 | 東映 アニメーション株式会社 東映アニメーション https://corp.toei-anim.co.jp > ...",
+    "url": "https://corp.toei-anim.co.jp/ja/ir.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 企業情報 | 東映 株式会社 — 会社概要 | 企業情報 | 東映 株式会社 東映株式会社 https://www.toei.co.jp > company > profile",
+    "url": "https://www.toei.co.jp/company/profile/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "東映 株式会社組織改編のお知らせ — 東映 株式会社組織改編のお知らせ 東映株式会社 https://www.toei.co.jp > company > press-release > detail",
+    "url": "https://www.toei.co.jp/company/press-release/detail/1246857_3623.html",
+    "pass": 3
+   },
+   {
+    "quote": "サイトマップ | 東映 株式会社 — サイトマップ | 東映 株式会社 東映株式会社 https://www.toei.co.jp > sitemap",
+    "url": "https://www.toei.co.jp/sitemap/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "東映 の 事業 | 東映 について | 東映 株式会社 — 東映 の 事業 | 東映 について | 東映 株式会社 東映株式会社 https://www.toei.co.jp > about > business",
+    "url": "https://www.toei.co.jp/about/business/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 東映 ビデオオフィシャルサイト — 会社概要 | 東映 ビデオオフィシャルサイト 東映ビデオ株式会社 https://www.toei-video.co.jp > company",
+    "url": "https://www.toei-video.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "社長インタビュー - 東映 アニメーション — 社長インタビュー - 東映 アニメーション 東映アニメーション 100年アニメプロジェクト https://toeianim-100p.jp > interview",
+    "url": "https://toeianim-100p.jp/interview",
+    "pass": 3
+   },
+   {
+    "quote": "(トップに聞く) 戦隊IPも映画村も「変身」 東映社長 吉村文雄 ... — (トップに聞く) 戦隊IPも映画村も「変身」 東映社長 吉村文雄 ... 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGKKZO90123150Y5A710C2H24A00/",
+    "pass": 3
+   },
+   {
+    "quote": "メッセージ | 企業情報 | 東映 アニメーション株式会社 — メッセージ | 企業情報 | 東映 アニメーション株式会社 東映アニメーション https://corp.toei-anim.co.jp > company > message",
+    "url": "https://corp.toei-anim.co.jp/ja/company/message.html",
+    "pass": 3
+   },
+   {
+    "quote": "東映 - Wikipedia — 東映 - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 東映",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%98%A0",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント情報",
+    "url": "https://corp.toei-anim.co.jp/ja/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "この中長期ビジョンは、経営戦略的な発想で「10年後の海外売上比率を50％にする」ことを目標に掲げているのですが、発表当時は「現実的ではない」という声や「実情に合っていない目標だ」という声もありました",
+    "url": "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "脈々と「作品を作り続ける」東映がマルチユースというビジネスモデルにたどり着いた背景とこれからのビジョン | 【VIPO】映像産業振興機構",
+    "url": "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "pass": 3
+   },
+   {
+    "quote": "脈々と「作品を作り続ける」東映がマルチユースというビジネスモデルにたどり着いた背景とこれからのビジョン",
+    "url": "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "pass": 3
+   },
+   {
+    "quote": "新しいことに常にチャレンジしてきた東映のビジネスモデルと未来へ向けた経営施策を東映株式会社代表取締役社長 吉村文雄氏に語っていただきました",
+    "url": "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "pass": 3
+   },
+   {
+    "quote": "そのうえで、具体的にどのようなビジネスモデルを有しているのか、どのようなビジョンをもって進んでいくのかについて、お話していきたいと思います",
+    "url": "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "pass": 3
+   },
+   {
+    "quote": "このビジネスモデルは今でも受け継がれていて、仮面ライダーもスーパー戦隊シリーズもバンダイさんでマーチャンダイジングしてもらうことをベースに展開しています",
+    "url": "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "pass": 3
+   },
+   {
+    "quote": "日本の作品が海外にうまく展開されたいい事例なので、東映はこのビジネスモデルを参考にしていきたいと思っています",
+    "url": "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "pass": 3
+   },
+   {
+    "quote": "膨大なライブラリ作品が支える東映のビジネスモデル",
+    "url": "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "pass": 3
+   },
+   {
+    "quote": "いろいろな作品を作り続けてきた東映のビジネスモデルの特長は、",
+    "url": "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "pass": 3
+   },
+   {
+    "quote": "この基盤を使って作品を作り続け、マルチユース展開を行い収益の最大化を目指すことが東映のビジネスモデルです",
+    "url": "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "東映グループの強みは、制作からポストプロダクションまでをワンストップで行う体制を持っていることです",
+    "url": "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "pass": 3
+   },
+   {
+    "quote": "以上に挙げた盤石な制作基盤が東映の強みです",
+    "url": "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "pass": 3
+   },
+   {
+    "quote": "Ｑ４．競合と比べて東映の強みをどのように分析されているか教えてください",
+    "url": "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "pass": 3
+   },
+   {
+    "quote": "ライブラリ作品が豊富にあり、早い段階からマルチユース展開をしてきたこと、そしてそれを支える製作基盤が整っていることが強みです",
+    "url": "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.toeich.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toeich.jp/company",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_contract.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_standard.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.toeich.jp/assets/common/pdf/toeich_minutes.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.toei.co.jp/about/business/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://corp.toei-anim.co.jp/ja/ir/library/PEROS_REPORT/main/07/teaserItems1/0/linkList/00/link/PEROS%20REPORT%202025%20fin.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.toei.co.jp/ir/library/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://corp.toei-anim.co.jp/ja/ir/library/result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toei.co.jp/company/profile/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.toei.co.jp/company/press-release/detail/1246857_3623.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://toeianim-100p.jp/interview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "東映",
+   "results": [
+    "https://www.toei.co.jp/index.html",
+    "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%98%A0",
+    "https://www.toeich.jp/",
+    "https://www.youtube.com/channel/UCEbPgdUbZgme40WpYmR0ocA",
+    "https://www.toei-anim.co.jp/",
+    "https://www.toei-video.co.jp/",
+    "https://ja.wikipedia.org/wiki/東映",
+    "https://zh.wikipedia.org/wiki/東映",
+    "https://grokipedia.com/page/Toei",
+    "https://www.toei.co.jp/"
+   ]
+  },
+  {
+   "query": "東映 ビジネスモデル",
+   "results": [
+    "https://www.toei.co.jp/about/business/index.html",
+    "https://corp.toei-anim.co.jp/ja/ir/library/PEROS_REPORT/main/07/teaserItems1/0/linkList/00/link/PEROS%20REPORT%202025%20fin.pdf",
+    "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "https://www.youtube.com/shorts/wG08mxyhGVU",
+    "https://www.toeiad.co.jp/",
+    "https://www.businessinsider.jp/article/2508-toei-show-business/",
+    "https://www.toei.co.jp/recruit/fresh/works/",
+    "https://businessmodelhighschool.com/investment/touhou/",
+    "https://note.com/llama_kon/n/nc131c5991543",
+    "https://ja.wikipedia.org/wiki/東映"
+   ]
+  },
+  {
+   "query": "東映 決算説明資料",
+   "results": [
+    "https://www.toei.co.jp/ir/library/index.html",
+    "https://corp.toei-anim.co.jp/ja/ir/library/result.html",
+    "https://www.toei.co.jp/ir/news/index.html",
+    "https://www.toei.co.jp/ir/index.html",
+    "https://corp.toei-anim.co.jp/ja/ir.html",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=9605",
+    "https://edinetdb.jp/company/E04585/presentations/",
+    "https://corp.toei-anim.co.jp/ja/ir/library.html",
+    "https://irbank.net/9605/ir",
+    "https://daiwair.webcdn.stream.ne.jp/www11/daiwair/qlviewer/pdf/2505194816g4FHyD.pdf"
+   ]
+  },
+  {
+   "query": "東映 事業系統図",
+   "results": [
+    "https://www.toei.co.jp/company/profile/index.html",
+    "https://www.toei.co.jp/company/press-release/detail/1246857_3623.html",
+    "https://www.toei.co.jp/sitemap/index.html",
+    "https://www.toei.co.jp/about/business/index.html",
+    "https://www.toei-video.co.jp/company/",
+    "https://corp.toei-anim.co.jp/ja/company.html",
+    "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%98%A0",
+    "https://kitaishihon.com/company/9605/business",
+    "https://www.toei.co.jp/recruit/fresh/works/",
+    "https://ja.wikipedia.org/wiki/東映"
+   ]
+  },
+  {
+   "query": "東映 社長 インタビュー",
+   "results": [
+    "https://toeianim-100p.jp/interview",
+    "https://www.vipo.or.jp/interview/list/detail/?i=4084",
+    "https://www.nikkei.com/article/DGKKZO90123150Y5A710C2H24A00/",
+    "https://corp.toei-anim.co.jp/ja/company/message.html",
+    "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%98%A0",
+    "https://www.zaikai.jp/articles/detail/3222",
+    "https://www.toei.co.jp/company/message/index.html",
+    "https://www.bunkatsushin.com/varieties/article.aspx?bc=1&id=526",
+    "https://ja.wikipedia.org/wiki/手塚治",
+    "https://ja.wikipedia.org/wiki/髙木勝裕"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像3件／外部8頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像3件／外部8頁・検索5回）"
+ }
+}

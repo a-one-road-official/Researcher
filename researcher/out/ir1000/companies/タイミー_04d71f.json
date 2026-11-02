@@ -1,0 +1,2001 @@
+{
+ "name": "タイミー",
+ "aliases": [],
+ "context": "証券コード215A／サービス業／グロース（内国株式）／2025.10期 売上高34,289百万円 営業利益率19.7%",
+ "researched_at": "2026-11-02T18:06:14.154255+00:00",
+ "official_url": "https://timee.co.jp/",
+ "identified_by": "search:yahoo_jp:タイミー",
+ "profile": {
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "1000人以上",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C1000001KmMgc&q_no=1",
+    "pass": 3
+   }
+  ],
+  "設立": [
+   {
+    "label": "設立年",
+    "value": "2017年",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C1000001KmMgc&q_no=1",
+    "pass": 3
+   },
+   {
+    "label": "設立年月日",
+    "value": "年 月 日",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C1000001KmMgc&q_no=1",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "日本全国でサービスをご利用いただけます",
+    "url": "https://timee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "タイミーのサービスは、18歳以上の全年齢の方がご利用いただけます",
+    "url": "https://timee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【タイミー】登録・掲載無料のスキマバイト募集サービス｜求人掲載はこちら",
+    "url": "https://timee.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "スキマバイト募集サービス",
+    "url": "https://timee.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "無断欠勤ワーカーのサービス利用上の取扱い",
+    "url": "https://timee.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスを利用できない地域はある？",
+    "url": "https://timee.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス手数料",
+    "url": "https://timee.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "今回は佐川グローバルロジスティクス株式会社（※以下、SGL）にて、全国の営業所への自社雇用従業員(パート・アルバイト)の求人から採用の支援を担当されている、人事部人材サービス課の和田拓未さんにお話を伺いました",
+    "url": "https://timee.co.jp/business/f/sgl",
+    "pass": 1
+   },
+   {
+    "quote": "左：佐川グローバルロジスティクス株式会社・人事部・人材サービス課の和田拓未さん",
+    "url": "https://timee.co.jp/business/f/sgl",
+    "pass": 1
+   },
+   {
+    "quote": "繁忙に応じて活用していた人材派遣サービスは、長時間・長期の雇用を前提としています",
+    "url": "https://timee.co.jp/business/f/sgl",
+    "pass": 1
+   },
+   {
+    "quote": "今までは繁忙期において不足する人員を人材派遣サービスで補っていましたが、タイミーであれば自社雇用なので、自社雇用率をあげることができるのではないかと考えました",
+    "url": "https://timee.co.jp/business/f/sgl",
+    "pass": 1
+   },
+   {
+    "quote": "タイミーと人材派遣サービス、アルバイト求人サイトとの違いとは",
+    "url": "https://timee.co.jp/business/f/sgl",
+    "pass": 1
+   },
+   {
+    "quote": "ータイミーと以前利用されていた人材派遣サービスを比較して、使い勝手はいかがでしょうか？",
+    "url": "https://timee.co.jp/business/f/sgl",
+    "pass": 1
+   },
+   {
+    "quote": "和田さん：そもそもタイミーは、アプリ内で都度直雇用契約（労働条件の通知）を結びワーカーさんに働きにきてもらう仕様なので、従来の人材派遣サービスとは全くの別物です",
+    "url": "https://timee.co.jp/business/f/sgl",
+    "pass": 1
+   },
+   {
+    "quote": "また人材派遣サービスでは必要な契約書の作成や派遣元とのやりとりなどが発生しますが、タイミーでは一切不要です",
+    "url": "https://timee.co.jp/business/f/sgl",
+    "pass": 1
+   },
+   {
+    "quote": "全国の拠点への新サービス導入を成功させた背景〜各営業所の人材獲得までCSMが手厚くサポート",
+    "url": "https://timee.co.jp/business/f/sgl",
+    "pass": 1
+   },
+   {
+    "quote": "導入を進めるにあたり私と和田さんで、どうやって全国の拠点にタイミーを展開していくか話し合い、オンラインで全営業所の社員の方に集まってもらってサービスの紹介をしたり、和田さんに導入マニュアルを作成していただいて各営業所へ個別に案内したりしました",
+    "url": "https://timee.co.jp/business/f/sgl",
+    "pass": 1
+   },
+   {
+    "quote": "（笑)新しいサービスの導入に対して懐疑的だった社内の空気がガラリと変わった出来事でしたね",
+    "url": "https://timee.co.jp/business/f/sgl",
+    "pass": 1
+   },
+   {
+    "quote": "会社としていろいろな業態の企業からサービスを受ける中で、ここまでアフターフォローやサポートがしっかりしているサービスは個人的にはないと思います",
+    "url": "https://timee.co.jp/business/f/sgl",
+    "pass": 1
+   },
+   {
+    "quote": "まさにサービスとはこのことです",
+    "url": "https://timee.co.jp/business/f/sgl",
+    "pass": 1
+   },
+   {
+    "quote": "朝生：SGL様はタイミーのようなサービスを導入されることは初めてだったので、不安や面倒な気持ちが出てくるのは当然だと思っていました",
+    "url": "https://timee.co.jp/business/f/sgl",
+    "pass": 1
+   },
+   {
+    "quote": "ータイミーの前はどのような求人・人材サービスをご利用されていましたか？",
+    "url": "https://timee.co.jp/business/f/shimonya",
+    "pass": 1
+   },
+   {
+    "quote": "椎崎さん：3種類のアルバイト求人サービスを並行して使っていました",
+    "url": "https://timee.co.jp/business/f/shimonya",
+    "pass": 1
+   },
+   {
+    "quote": "【タイミー】登録・掲載無料のスキマバイト募集サービス｜求人掲載はこちら",
+    "url": "https://timee.co.jp/business/?utm_source=blog&utm_medium=business_top&utm_campaign=blog_header&flow_type=self",
+    "pass": 1
+   },
+   {
+    "quote": "スキマバイト募集サービス",
+    "url": "https://timee.co.jp/business/?utm_source=blog&utm_medium=business_top&utm_campaign=blog_header&flow_type=self",
+    "pass": 1
+   },
+   {
+    "quote": "無断欠勤ワーカーのサービス利用上の取扱い",
+    "url": "https://timee.co.jp/business/?utm_source=blog&utm_medium=business_top&utm_campaign=blog_header&flow_type=self",
+    "pass": 1
+   },
+   {
+    "quote": "サービスを利用できない地域はある？",
+    "url": "https://timee.co.jp/business/?utm_source=blog&utm_medium=business_top&utm_campaign=blog_header&flow_type=self",
+    "pass": 1
+   },
+   {
+    "quote": "サービス手数料",
+    "url": "https://timee.co.jp/business/?utm_source=blog&utm_medium=business_top&utm_campaign=blog_header&flow_type=self",
+    "pass": 1
+   },
+   {
+    "quote": "【タイミー】登録・掲載無料のスキマバイト募集サービス｜求人掲載はこちら",
+    "url": "https://timee.co.jp/business/?utm_source=blog&utm_medium=business_top&utm_campaign=blog_footer&flow_type=self",
+    "pass": 1
+   },
+   {
+    "quote": "スキマバイト募集サービス",
+    "url": "https://timee.co.jp/business/?utm_source=blog&utm_medium=business_top&utm_campaign=blog_footer&flow_type=self",
+    "pass": 1
+   },
+   {
+    "quote": "無断欠勤ワーカーのサービス利用上の取扱い",
+    "url": "https://timee.co.jp/business/?utm_source=blog&utm_medium=business_top&utm_campaign=blog_footer&flow_type=self",
+    "pass": 1
+   },
+   {
+    "quote": "サービスを利用できない地域はある？",
+    "url": "https://timee.co.jp/business/?utm_source=blog&utm_medium=business_top&utm_campaign=blog_footer&flow_type=self",
+    "pass": 1
+   },
+   {
+    "quote": "サービス手数料",
+    "url": "https://timee.co.jp/business/?utm_source=blog&utm_medium=business_top&utm_campaign=blog_footer&flow_type=self",
+    "pass": 1
+   },
+   {
+    "quote": "サービスです",
+    "url": "https://timee.co.jp/business/blog",
+    "pass": 1
+   },
+   {
+    "quote": "サービス資料はこちら",
+    "url": "https://timee.co.jp/business/blog",
+    "pass": 1
+   },
+   {
+    "quote": "ご送信いただく個人情報については、弊社担当者からのご連絡や弊社サービス又はセミナーに関するご案内をお送りする等の目的で、厳正な管理の下、プライバシーポリシーに従って利用させていただきます",
+    "url": "https://timee.co.jp/business/blog",
+    "pass": 1
+   },
+   {
+    "quote": "【タイミー】登録・掲載無料のスキマバイト募集サービス｜求人掲載はこちら",
+    "url": "https://timee.co.jp/business/?utm_source=blog&utm_medium=business_top&utm_campaign=blog_footer",
+    "pass": 1
+   },
+   {
+    "quote": "スキマバイト募集サービス",
+    "url": "https://timee.co.jp/business/?utm_source=blog&utm_medium=business_top&utm_campaign=blog_footer",
+    "pass": 1
+   },
+   {
+    "quote": "無断欠勤ワーカーのサービス利用上の取扱い",
+    "url": "https://timee.co.jp/business/?utm_source=blog&utm_medium=business_top&utm_campaign=blog_footer",
+    "pass": 1
+   },
+   {
+    "quote": "サービスを利用できない地域はある？",
+    "url": "https://timee.co.jp/business/?utm_source=blog&utm_medium=business_top&utm_campaign=blog_footer",
+    "pass": 1
+   },
+   {
+    "quote": "サービス手数料",
+    "url": "https://timee.co.jp/business/?utm_source=blog&utm_medium=business_top&utm_campaign=blog_footer",
+    "pass": 1
+   },
+   {
+    "quote": "スキマバイトサービスとして急成長を遂げたタイミー",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス開始は2018年で、創業から数年で全国規模に展開し、コンビニ・飲食・物流・小売など幅広い業種で導入が進みました",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "需要側では、人口減少と労働力人口の縮小が進み、特にサービス業・物流・小売の現場で慢性的な人手不足が続いています",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "タイミーは2018年8月にサービスを開始しました",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "競合・類似サービスとの違い",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "タイミーの位置を理解するには、既存の人材サービスと比較するのが分かりやすい整理です",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "派遣・アルバイト求人サービスとの違い",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "派遣サービスとの最大の違いは雇用契約の主体です",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "形が一般的で、タイミーはあくまで仲介プラットフォームの位置づけになります（具体的な契約形態はサービスや時期で異なるため、利用時には最新の規約を確認しておくと安心です）",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "他のスポットワークサービスとの違い",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "派遣は対応領域が広い一方でスピードに欠け、アルバイト求人媒体はスピードが遅く手軽さも限定的、特化型のスポットサービスは対応領域が狭い、というポジションになります",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "既存サービスとの関係は競合一辺倒ではなく",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "隣接サービスへの展開可能性",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "これらが揃わないなら、無理にプラットフォーム化せず、SaaSやサービス提供の形を検討するのが現実解です",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "機能差別化・サービス品質・ブランドで価値を維持できなければ、利益率が圧縮",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "隣接サービスへの展開で売上を伸ばしつつ、本業のテイクレートと利益率を維持できるかが、長期の企業価値を左右します",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス資料 DL",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "リサーチ&戦略コンサルティング サービス資料",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "CREXコンサルティングのリサーチサービスの詳細・料金・事例",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "介護のアルバイト・パートはきついって本当？仕事内容ややりがいについて紹介",
+    "url": "https://timee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "その際、弊社への報告義務、紹介料等一切必要ありません",
+    "url": "https://timee.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "「募集からたった数十秒後にマッチングした時は衝撃を受けました」わずか2週間で全店舗への導入を決めた背景に迫る",
+    "url": "https://timee.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "駅から離れた店舗でも「募集開始から10分後」にマッチング 人事と店舗、それぞれの本音",
+    "url": "https://timee.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "職業安定法により、港湾運送と建設の職業紹介を禁じられています",
+    "url": "https://timee.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "【タイミー】「募集からたった数十秒後にマッチングした時は、衝撃を受けました」 試験導入からわずか2週間で全店舗への導入を決めた、その背景に迫る",
+    "url": "https://timee.co.jp/business/f/sunbelx",
+    "pass": 1
+   },
+   {
+    "quote": "「募集からたった数十秒後にマッチングした時は、衝撃を受けました」 試験導入からわずか2週間で全店舗への導入を決めた、その背景に迫る",
+    "url": "https://timee.co.jp/business/f/sunbelx",
+    "pass": 1
+   },
+   {
+    "quote": "その後、専務の鈴木の鶴の一声で試験導入が決まり、小安店長の店舗で導入が開始されました",
+    "url": "https://timee.co.jp/business/f/sunbelx",
+    "pass": 1
+   },
+   {
+    "quote": "二週間後には全店に周知され、現在は45店舗中39店舗がタイミーを利用しています",
+    "url": "https://timee.co.jp/business/f/sunbelx",
+    "pass": 1
+   },
+   {
+    "quote": "マッチングしたユーザーさんは、店舗から2時間以上かかる場所にお住まいの方で、地域に限定されず遠方からも来てもらえることにも驚きました",
+    "url": "https://timee.co.jp/business/f/sunbelx",
+    "pass": 1
+   },
+   {
+    "quote": "小安さん:全店舗の店長が集まる会議で、実際に募集を公開してみたんです",
+    "url": "https://timee.co.jp/business/f/sunbelx",
+    "pass": 1
+   },
+   {
+    "quote": "小安さん:店舗の運営効率が良くなりました",
+    "url": "https://timee.co.jp/business/f/sunbelx",
+    "pass": 1
+   },
+   {
+    "quote": "東京・千葉・埼玉に45店舗を展開",
+    "url": "https://timee.co.jp/business/f/sunbelx",
+    "pass": 1
+   },
+   {
+    "quote": "導入を進めるにあたり私と和田さんで、どうやって全国の拠点にタイミーを展開していくか話し合い、オンラインで全営業所の社員の方に集まってもらってサービスの紹介をしたり、和田さんに導入マニュアルを作成していただいて各営業所へ個別に案内したりしました",
+    "url": "https://timee.co.jp/business/f/sgl",
+    "pass": 1
+   },
+   {
+    "quote": "私はSGLとタイミーは単なる依頼主と業者ではなく、ビジネスパートナーだと思っています",
+    "url": "https://timee.co.jp/business/f/sgl",
+    "pass": 1
+   },
+   {
+    "quote": "中野店や下北沢店をはじめ地域密着型の地元民に愛される居酒屋は、一店舗あたり3・4名の社員・アルバイトにより運営されています",
+    "url": "https://timee.co.jp/business/f/shimonya",
+    "pass": 1
+   },
+   {
+    "quote": "椎崎さん：タイミーのことは、飲食店を対象としたイベントでの紹介を通して知りました",
+    "url": "https://timee.co.jp/business/f/shimonya",
+    "pass": 1
+   },
+   {
+    "quote": "村山さん：少人数でまわしている店舗は、とにかく人がいてくれるだけで助かります",
+    "url": "https://timee.co.jp/business/f/shimonya",
+    "pass": 1
+   },
+   {
+    "quote": "椎崎さん：タイミーを初めて導入する店舗には、最初だけ私から操作の説明をし、その後は各店舗のスタッフに操作を任せています",
+    "url": "https://timee.co.jp/business/f/shimonya",
+    "pass": 1
+   },
+   {
+    "quote": "椎崎さん：現場のスタッフから「タイミーで来てくれたあの人が良かった」と声が上がってくるので、その度に長期で働いてくれないかと声かけをしていて、これまでに下北沢店で1名、野方の店舗の方でも1名長期採用ができました",
+    "url": "https://timee.co.jp/business/f/shimonya",
+    "pass": 1
+   },
+   {
+    "quote": "椎崎さん：各店舗の店長から、「タイミーからワーカーさんが来てくれる",
+    "url": "https://timee.co.jp/business/f/shimonya",
+    "pass": 1
+   },
+   {
+    "quote": "全国に55店舗、都内に40店舗展開",
+    "url": "https://timee.co.jp/business/f/shimonya",
+    "pass": 1
+   },
+   {
+    "quote": "その際、弊社への報告義務、紹介料等一切必要ありません",
+    "url": "https://timee.co.jp/business/?utm_source=blog&utm_medium=business_top&utm_campaign=blog_header&flow_type=self",
+    "pass": 1
+   },
+   {
+    "quote": "「募集からたった数十秒後にマッチングした時は衝撃を受けました」わずか2週間で全店舗への導入を決めた背景に迫る",
+    "url": "https://timee.co.jp/business/?utm_source=blog&utm_medium=business_top&utm_campaign=blog_header&flow_type=self",
+    "pass": 1
+   },
+   {
+    "quote": "駅から離れた店舗でも「募集開始から10分後」にマッチング 人事と店舗、それぞれの本音",
+    "url": "https://timee.co.jp/business/?utm_source=blog&utm_medium=business_top&utm_campaign=blog_header&flow_type=self",
+    "pass": 1
+   },
+   {
+    "quote": "職業安定法により、港湾運送と建設の職業紹介を禁じられています",
+    "url": "https://timee.co.jp/business/?utm_source=blog&utm_medium=business_top&utm_campaign=blog_header&flow_type=self",
+    "pass": 1
+   },
+   {
+    "quote": "その際、弊社への報告義務、紹介料等一切必要ありません",
+    "url": "https://timee.co.jp/business/?utm_source=blog&utm_medium=business_top&utm_campaign=blog_footer&flow_type=self",
+    "pass": 1
+   },
+   {
+    "quote": "「募集からたった数十秒後にマッチングした時は衝撃を受けました」わずか2週間で全店舗への導入を決めた背景に迫る",
+    "url": "https://timee.co.jp/business/?utm_source=blog&utm_medium=business_top&utm_campaign=blog_footer&flow_type=self",
+    "pass": 1
+   },
+   {
+    "quote": "駅から離れた店舗でも「募集開始から10分後」にマッチング 人事と店舗、それぞれの本音",
+    "url": "https://timee.co.jp/business/?utm_source=blog&utm_medium=business_top&utm_campaign=blog_footer&flow_type=self",
+    "pass": 1
+   },
+   {
+    "quote": "職業安定法により、港湾運送と建設の職業紹介を禁じられています",
+    "url": "https://timee.co.jp/business/?utm_source=blog&utm_medium=business_top&utm_campaign=blog_footer&flow_type=self",
+    "pass": 1
+   },
+   {
+    "quote": "その際、弊社への報告義務、紹介料等一切必要ありません",
+    "url": "https://timee.co.jp/business/?utm_source=blog&utm_medium=business_top&utm_campaign=blog_footer",
+    "pass": 1
+   },
+   {
+    "quote": "「募集からたった数十秒後にマッチングした時は衝撃を受けました」わずか2週間で全店舗への導入を決めた背景に迫る",
+    "url": "https://timee.co.jp/business/?utm_source=blog&utm_medium=business_top&utm_campaign=blog_footer",
+    "pass": 1
+   },
+   {
+    "quote": "駅から離れた店舗でも「募集開始から10分後」にマッチング 人事と店舗、それぞれの本音",
+    "url": "https://timee.co.jp/business/?utm_source=blog&utm_medium=business_top&utm_campaign=blog_footer",
+    "pass": 1
+   },
+   {
+    "quote": "職業安定法により、港湾運送と建設の職業紹介を禁じられています",
+    "url": "https://timee.co.jp/business/?utm_source=blog&utm_medium=business_top&utm_campaign=blog_footer",
+    "pass": 1
+   },
+   {
+    "quote": "第2に、事業者開拓は法人セールスが中心ですが、店舗単位での導入実績が増えるほど同チェーンの他店舗・他エリアへの横展開が容易になり、",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "従来の求人広告費・人材紹介手数料・採用面接の人件費を大幅に圧縮",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "スポット利用前提のため、繁閑差の大きい店舗運営でも人件費を変動費的に扱いやすくなり、",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "特に大手チェーンとのエンタープライズ導入では、勤怠連携・複数店舗の一括管理・本部からの利用状況可視化など、運用に耐えうる管理機能が選定の決め手になります",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "これらは数百〜数千店舗を持つチェーンでの実利用を通じて磨かれており、新規参入企業が短期間でキャッチアップしにくい領域です",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "アカウントマネジメント体制の整備も並行して進み、単なるツール提供から「人材調達パートナー」への進化が加速しています",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "紹介へとつなげる導線",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "は自然な延長線上にあり、人材紹介・転職支援領域へのアクセスが見えます",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "経営戦略の策定と実行を1社で支援する事業パートナー",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "相談企業531社以上、支援パートナー45社、専門家ネットワーク74名",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "WEBコンサルティング会社の選び方｜専門領域別の特徴とおすすめ企業を紹介",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "成果につながるコンサルティング会社の選び方｜専門領域別の特徴とおすすめ企業を紹介",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "M&A支援会社の選び方｜専門領域別の特徴とおすすめ企業を紹介",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "Webマーケティング会社の選び方｜業務領域別の特徴とおすすめ企業を紹介",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネス情報収集・業界研究に役立つおすすめWebサイト｜ジャンル別に特徴と活用シーンを紹介",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "DX支援会社の選び方｜目的別の特徴とおすすめ企業を紹介",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "経営戦略の策定と実行を支援する、事業パートナー",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "タイミーは、単発・短期バイトを探す求職者と、単発・短期でスタッフを雇いたい店舗を結びつけるマッチングプラットフォームです",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "しかしタイミーでは、労働者側と店舗側の面倒や不便を仕組みで解決しています",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "広告掲載店舗数",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "店舗側のニーズ",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "このような２つの要素（広告掲載店舗数と媒体閲覧者数）が増えることで、互いに価値を高めあう効果のことを「",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "ブラックな職場環境の店舗",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "ハズレ店舗率",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "ハズレ店舗（ブラック環境な店舗）",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "雇用したい店舗側にとっては、",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "振り込み手数料無料！",
+    "url": "https://timee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "報酬の振り込みは、24時間・365日いつでも何度でも、手数料無料です",
+    "url": "https://timee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ワーカーさんへの利用料は一切ございません",
+    "url": "https://timee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "報酬を振込申請する際も、振込手数料はいつでも何度でも無料です",
+    "url": "https://timee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "利用料はいくら？",
+    "url": "https://timee.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス手数料",
+    "url": "https://timee.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "勤務した人数分の振込関連手数料：200円(税抜)",
+    "url": "https://timee.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "システム手数料",
+    "url": "https://timee.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "また来ていただきたいワーカー※2さんがいれば、手数料の負担無くスカウトができるとも聞いていたので、その点にも期待していました",
+    "url": "https://timee.co.jp/business/f/sgl",
+    "pass": 1
+   },
+   {
+    "quote": "スカウトの際には手数料がかからないということで、継続採用に積極的に活用しています",
+    "url": "https://timee.co.jp/business/f/sgl",
+    "pass": 1
+   },
+   {
+    "quote": "利用料はいくら？",
+    "url": "https://timee.co.jp/business/?utm_source=blog&utm_medium=business_top&utm_campaign=blog_header&flow_type=self",
+    "pass": 1
+   },
+   {
+    "quote": "サービス手数料",
+    "url": "https://timee.co.jp/business/?utm_source=blog&utm_medium=business_top&utm_campaign=blog_header&flow_type=self",
+    "pass": 1
+   },
+   {
+    "quote": "勤務した人数分の振込関連手数料：200円(税抜)",
+    "url": "https://timee.co.jp/business/?utm_source=blog&utm_medium=business_top&utm_campaign=blog_header&flow_type=self",
+    "pass": 1
+   },
+   {
+    "quote": "システム手数料",
+    "url": "https://timee.co.jp/business/?utm_source=blog&utm_medium=business_top&utm_campaign=blog_header&flow_type=self",
+    "pass": 1
+   },
+   {
+    "quote": "利用料はいくら？",
+    "url": "https://timee.co.jp/business/?utm_source=blog&utm_medium=business_top&utm_campaign=blog_footer&flow_type=self",
+    "pass": 1
+   },
+   {
+    "quote": "サービス手数料",
+    "url": "https://timee.co.jp/business/?utm_source=blog&utm_medium=business_top&utm_campaign=blog_footer&flow_type=self",
+    "pass": 1
+   },
+   {
+    "quote": "勤務した人数分の振込関連手数料：200円(税抜)",
+    "url": "https://timee.co.jp/business/?utm_source=blog&utm_medium=business_top&utm_campaign=blog_footer&flow_type=self",
+    "pass": 1
+   },
+   {
+    "quote": "システム手数料",
+    "url": "https://timee.co.jp/business/?utm_source=blog&utm_medium=business_top&utm_campaign=blog_footer&flow_type=self",
+    "pass": 1
+   },
+   {
+    "quote": "利用料はいくら？",
+    "url": "https://timee.co.jp/business/?utm_source=blog&utm_medium=business_top&utm_campaign=blog_footer",
+    "pass": 1
+   },
+   {
+    "quote": "サービス手数料",
+    "url": "https://timee.co.jp/business/?utm_source=blog&utm_medium=business_top&utm_campaign=blog_footer",
+    "pass": 1
+   },
+   {
+    "quote": "勤務した人数分の振込関連手数料：200円(税抜)",
+    "url": "https://timee.co.jp/business/?utm_source=blog&utm_medium=business_top&utm_campaign=blog_footer",
+    "pass": 1
+   },
+   {
+    "quote": "システム手数料",
+    "url": "https://timee.co.jp/business/?utm_source=blog&utm_medium=business_top&utm_campaign=blog_footer",
+    "pass": 1
+   },
+   {
+    "quote": "事業者が支払うマッチング手数料（テイクレート約30%）を主な収益源とし、ワーカー側は手数料負担ゼロで利用できる二面市場型の設計が、急速な普及と高い収益性を両立させています",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "仲介手数料モデルの基本",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "一定割合の仲介手数料（テイクレート）",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "で推移しており、ワーカーに支払われる賃金とは別に、事業者が手数料を負担する設計です",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "ワーカー側は登録料・手数料ともに無料",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "売上のほぼ全量がマッチング手数料で構成され、複雑なオプション課金や成果報酬の積み上げに頼らないシンプルな構造です",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "ストックに近い性格の売上構造",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "従来の求人広告費・人材紹介手数料・採用面接の人件費を大幅に圧縮",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "成果報酬（賃金総額×手数料率）",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "、ワーカーと事業者を即時にマッチングするスキマバイトプラットフォームで、事業者からのテイクレート約30%の手数料が主収益源、ワーカー側の手数料負担はゼロという二面市場設計が中核です",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "雇用主と求職者をマッチングさせることで手数料を受け取る",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "バイト求人広告媒体のビジネスモデル図解：広告掲載型・成功報酬型の違いをわかりやすく解説",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "給与の支払いは、日払い、週払いなども存在しますが、雇用主（店舗側）にとっては、1ヶ月単位などにまとめて行ったほうが振込手数料も少ないですし、作業もまとめてできるので効率的です",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "またマッチングの手数料を受け取る場合でも、手数料さえ受け取ってしまえば、マッチング後の出来事は当事者同士の問題なので我関せずです",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "から即日で労働者に支払い、その1〜2ヶ月後に雇用主から給与とシステム手数料を受け取って回収するという仕組みです",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "フードデリバリー「タイミーデリバリー」がリリース！事前予約制、AIが効率的な配達ルートを算出し、手数料を抑えた飲食店に寄り添うプラットフォームが誕生～「もつ吉 渋谷」導入事例インタビュー",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "【締切迫る！】秋の年額2カ月増量キャンペーン実施中",
+    "url": "https://business.nikkei.com/atcl/gen/19/00081/021700918/",
+    "pass": 3
+   },
+   {
+    "quote": "年額プランなら12カ月分の料金で",
+    "url": "https://business.nikkei.com/atcl/gen/19/00081/021700918/",
+    "pass": 3
+   },
+   {
+    "quote": "日経ビジネス、今なら2カ月分が実質無料！ 年額プランがお得に",
+    "url": "https://business.nikkei.com/atcl/gen/19/00081/021700918/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "タイミーを導入したのは(2020年の)5月初めで、新型コロナウイルス感染拡大の影響からお客様が非常に増えていた時期でした",
+    "url": "https://timee.co.jp/business/f/sunbelx",
+    "pass": 1
+   },
+   {
+    "quote": "特に雨・雪予報の前日はお客様が集中します",
+    "url": "https://timee.co.jp/business/f/sunbelx",
+    "pass": 1
+   },
+   {
+    "quote": "小安さん:いくら全国に100万人を超えるユーザーがいると言っても、周辺地域のユーザーに絞られてしまっては人が来ないのではないかと半信半疑でした",
+    "url": "https://timee.co.jp/business/f/sunbelx",
+    "pass": 1
+   },
+   {
+    "quote": "マッチングしたユーザーさんは、店舗から2時間以上かかる場所にお住まいの方で、地域に限定されず遠方からも来てもらえることにも驚きました",
+    "url": "https://timee.co.jp/business/f/sunbelx",
+    "pass": 1
+   },
+   {
+    "quote": "「食を通じ、お客様を豊かにすること」を使命に、食品スーパーマーケットのベルクスを経営する",
+    "url": "https://timee.co.jp/business/f/sunbelx",
+    "pass": 1
+   },
+   {
+    "quote": "新鮮な青果を手ごろな価格で提供し、競合ひしめく首都圏で多数の顧客を惹きつけている",
+    "url": "https://timee.co.jp/business/f/sunbelx",
+    "pass": 1
+   },
+   {
+    "quote": "和田さん：我が社は３PLプロバイダー（Third Party Logistics）※1として顧客から物流業務を委託されています",
+    "url": "https://timee.co.jp/business/f/sgl",
+    "pass": 1
+   },
+   {
+    "quote": "顧客によって取り扱う商材が異なりますので、物量は季節によって大きく変動します",
+    "url": "https://timee.co.jp/business/f/sgl",
+    "pass": 1
+   },
+   {
+    "quote": "その結果顧客満足度が上がってリピーターさんが増え、最終的に売上UPにまで繋がりました",
+    "url": "https://timee.co.jp/business/f/shimonya",
+    "pass": 1
+   },
+   {
+    "quote": "導入企業様の声 | タイミー",
+    "url": "https://timee.co.jp/business/f/case",
+    "pass": 1
+   },
+   {
+    "quote": "導入企業様の声",
+    "url": "https://timee.co.jp/business/f/case",
+    "pass": 1
+   },
+   {
+    "quote": "資本力・既存ユーザー基盤を持つ参入者との競争では、技術投資の継続と独自の価値提案が必要です",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "スキマバイト（単発・短期バイト、ギグワーク）のマッチングサービスを提供するTimee（タイミー）は、2018年8月の正式リリースから間もなく、主要顧客だった飲食店がコロナ禍に見舞われてしまいます",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "マッチングのしやすさによって顧客体験（CX）を改善する",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "媒体の利用者が増える",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "も、バイトの欠員を満たすためには、利用者の多い求人媒体に広告を出した方が採用がしやすくなります",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "仕組みとしては、ネットオークションやフリマアプリのユーザーの相互評価と同じです",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "利用者を評価することに媒体側のメリットが無かった",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "利用者にとっては、単純にマッチングするだけでなく、仕事が終わった後に双方の満足度が高いに越したことはありません",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "また、このような仕組みは一度作ったら終わりではなく、利用者の行動を分析しながら絶えず改善していくことも必要です",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "と既存顧客に対する",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "から得られたノウハウは、顧客となる店舗への営業活動にも活用することができます",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "既存顧客への",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "このように、マッチング前とマッチング後のノウハウを事例として提供できれば、潜在顧客に対する営業活動の内容も、より具体的かつ実践的なものになるはずです",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "利用者が利用者を呼ぶ状態",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "一気に広い範囲でサービスをスタートすれば、その分多くの利用者を獲得できるはず",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、顧客になった店舗にも細やかなサポートが必要になるため、",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "どんなビジネスも、初めはちょっとずつしか利用者が増えません",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "利用者が利用者を呼ぶような状態になるためには、",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "ある一定の利用者数を超える必要",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "その「ある一定の利用者数」のことを、「",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、最初のターゲット層をある程度小さく設定していれば、クリティカルマスも小さくなり、必要な利用者の絶対数も小さくなります",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "は、当時、飲食店をメインの利用者として事業を拡大していたタイミーにとって大きなダメージとなりました",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "タイミーの主要顧客は飲食店なので、",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "などは、配達員が注文が入った店舗に料理を取りに行き、注文した顧客に配達するという方式です",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "もちろんTVCMだけでなく、顧客サポートや営業活動、システムの改良やキャンペーン、業務提携など、地道な活動の積み重ねも相まって成功につながったことは想像に難くありません",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "上記のタイミーが公開している数値からも、主要顧客が飲食店から物流分野に大きく移り変わったことがわかります",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "無料のユーザー登録をお願いします",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C1000001KmMgc&q_no=1",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C1000001KmMgc&q_no=1",
+    "pass": 3
+   },
+   {
+    "quote": "10万人以上のユーザーと大戸屋や串カツ田中など約1800店舗をマッチングしている",
+    "url": "https://business.nikkei.com/atcl/gen/19/00081/021700918/",
+    "pass": 3
+   },
+   {
+    "quote": "当初は「研修もしていない人に何ができるのか」と難色を示されたというが、「ランチタイムの皿洗いだけ」といった業務の細分化を提案し、顧客を獲得していった",
+    "url": "https://business.nikkei.com/atcl/gen/19/00081/021700918/",
+    "pass": 3
+   },
+   {
+    "quote": "1年で顧客の6割総入れ替え 24歳起業家の「超高速経営」",
+    "url": "https://business.nikkei.com/atcl/gen/19/00081/021700918/",
+    "pass": 3
+   },
+   {
+    "quote": "結果として、同社は上場時点で利用者770万人、登録事業所25万拠点以上の規模に成長",
+    "url": "https://business.nikkei.com/atcl/gen/19/00081/021700918/",
+    "pass": 3
+   },
+   {
+    "quote": "創業6年で利用者770万人、登録事業所25万拠点以上のサービスに成長した",
+    "url": "https://business.nikkei.com/atcl/gen/19/00081/021700918/",
+    "pass": 3
+   },
+   {
+    "quote": "同社は当日中に掲載を差し止めたが、マッチングが成立した利用者の個人情報が闇バイトグループに渡った可能性があるという",
+    "url": "https://business.nikkei.com/atcl/gen/19/00081/021700918/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客情報が流出し、築き上げた信頼が揺らぐなど、企業の存続を左右する経…",
+    "url": "https://business.nikkei.com/atcl/gen/19/00081/021700918/",
+    "pass": 3
+   },
+   {
+    "quote": "こうして生まれたのが、ユーザーの空き時間と人手の足りないクライアントの時間をマッチングする「Taimee.（タイミー）」だ",
+    "url": "https://www.jfc.go.jp/n/grandprix/voice/student/ex_04.html",
+    "pass": 3
+   },
+   {
+    "quote": "当初は都内全域でサービスを展開する予定だったが、登録者が少ないとクライアントにもユーザーにも不安感を与え、サービスから離脱してしまう可能性が高いと判断し、東京都渋谷区限定で反応を見ながらエリアを広げる現実的なプランに切り替えた",
+    "url": "https://www.jfc.go.jp/n/grandprix/voice/student/ex_04.html",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "昭和43年に前身である青果専門店（八百屋）を開業",
+    "url": "https://timee.co.jp/business/f/sunbelx",
+    "pass": 1
+   },
+   {
+    "quote": "2024年7月、東証グロース市場に上場（証券コード215A）",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年8月13日",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月4日",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年8月2日",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年後半：渋谷エリアを中心に拡大",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年前半：東京都を中心にエリアを拡大",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年後半：首都圏、関西、福岡にエリアを拡大",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年前半：東海、熊本にエリアを拡大",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年前半：関東、関西、中京、福岡でCMを放映",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年後半：東北エリアに拡大",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年の前半から始まった",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年：タイミーデリバリーの失敗",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年5月19日に、タイミーは「",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年：物流分野での躍進",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年9月15日",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年3月12日",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年10月4日",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年5月7日",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年1月25日",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年2月2日",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年4月通期 第1四半期決算説明会資料",
+    "url": "https://corp.timee.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年4月期 第1四半期 data set",
+    "url": "https://corp.timee.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年４月期 第１四半期決算短信〔日本基準〕(連結)",
+    "url": "https://corp.timee.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年09月12日",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C1000001KmMgc&q_no=1",
+    "pass": 3
+   },
+   {
+    "quote": "2026年09月08日",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C1000001KmMgc&q_no=1",
+    "pass": 3
+   },
+   {
+    "quote": "2026年08月22日",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C1000001KmMgc&q_no=1",
+    "pass": 3
+   },
+   {
+    "quote": "2026年06月19日",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C1000001KmMgc&q_no=1",
+    "pass": 3
+   },
+   {
+    "quote": "2026年06月18日",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C1000001KmMgc&q_no=1",
+    "pass": 3
+   },
+   {
+    "quote": "2026年06月13日",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C1000001KmMgc&q_no=1",
+    "pass": 3
+   },
+   {
+    "quote": "2026年06月10日",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C1000001KmMgc&q_no=1",
+    "pass": 3
+   },
+   {
+    "quote": "2026年04月09日",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C1000001KmMgc&q_no=1",
+    "pass": 3
+   },
+   {
+    "quote": "2026年02月19日",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C1000001KmMgc&q_no=1",
+    "pass": 3
+   },
+   {
+    "quote": "2026年02月05日",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C1000001KmMgc&q_no=1",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月29日",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C1000001KmMgc&q_no=1",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月09日",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C1000001KmMgc&q_no=1",
+    "pass": 3
+   },
+   {
+    "quote": "2025年09月30日",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C1000001KmMgc&q_no=1",
+    "pass": 3
+   },
+   {
+    "quote": "2025年08月26日",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C1000001KmMgc&q_no=1",
+    "pass": 3
+   },
+   {
+    "quote": "2024年05月24日",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C1000001KmMgc&q_no=1",
+    "pass": 3
+   },
+   {
+    "quote": "2022年04月16日",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C1000001KmMgc&q_no=1",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月25日",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C1000001KmMgc&q_no=1",
+    "pass": 3
+   },
+   {
+    "quote": "2026年09月30日",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C1000001KmMgc&q_no=1",
+    "pass": 3
+   },
+   {
+    "quote": "2026年07月27日",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C1000001KmMgc&q_no=1",
+    "pass": 3
+   },
+   {
+    "quote": "2026年07月24日",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C1000001KmMgc&q_no=1",
+    "pass": 3
+   },
+   {
+    "quote": "2026年07月02日",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C1000001KmMgc&q_no=1",
+    "pass": 3
+   },
+   {
+    "quote": "2026年06月11日",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C1000001KmMgc&q_no=1",
+    "pass": 3
+   },
+   {
+    "quote": "2026年06月09日",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C1000001KmMgc&q_no=1",
+    "pass": 3
+   },
+   {
+    "quote": "2026年06月03日",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C1000001KmMgc&q_no=1",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月2日号",
+    "url": "https://business.nikkei.com/atcl/gen/19/00081/021700918/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年7月には東証グロース市場への上場を果たした",
+    "url": "https://business.nikkei.com/atcl/gen/19/00081/021700918/",
+    "pass": 3
+   },
+   {
+    "quote": "2017年に創業し、18年8月に面接不要で空いた時間にすぐ働けるワークシェアアプリ「タイミー」を開始",
+    "url": "https://business.nikkei.com/atcl/gen/19/00081/021700918/",
+    "pass": 3
+   },
+   {
+    "quote": "2017年創業",
+    "url": "https://business.nikkei.com/atcl/gen/19/00081/021700918/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年8月に面接不要で空いた時間にすぐ働けるワークシェアアプリ「タイミー」を開始",
+    "url": "https://business.nikkei.com/atcl/gen/19/00081/021700918/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年8月のリリース以来、順調に推移し",
+    "url": "https://business.nikkei.com/atcl/gen/19/00081/021700918/",
+    "pass": 3
+   },
+   {
+    "quote": "1970年代生まれがピーク 人が一生涯に排出する二酸化炭素量と人口問題",
+    "url": "https://business.nikkei.com/atcl/gen/19/00081/021700918/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年1月～ 全7日間",
+    "url": "https://business.nikkei.com/atcl/gen/19/00081/021700918/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年8月、ついに「Taimee.」のサービスがリリースされた",
+    "url": "https://www.jfc.go.jp/n/grandprix/voice/student/ex_04.html",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "タイミーのビジネスモデルとは｜収益構造と強み・成長戦略を解説 – CREXコンサルティング｜戦略 × AI/DX × BPOで事業を実装まで伴走",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "タイミーのビジネスモデルとは｜収益構造と強み・成長戦略を解説",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では戦略コンサル視点でタイミーのビジネスモデルを構造的に解き明かし、新規事業や成長戦略の立案に活かせる示唆をお届けします",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、タイミーの収益構造、バリュープロポジション、競争優位の源泉、",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "タイミーのビジネスモデルとは",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "タイミーの収益構造",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "収益構造の論点",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルから読み解く新規事業の示唆",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルが優れているからといって、リスクがないわけではありません",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "収益構造はシンプルな成果報酬型で、リピート事業者比率の高さによる売上の安定性と、プラットフォーム特有のスケールメリットが高収益の源泉になっています",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "タイミーのビジネスモデル図解：逆選択の抑制と即日入金を実現する驚きの仕組み | ダイゾーコンサルティング株式会社",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "タイミーのビジネスモデル図解：逆選択の抑制と即日入金を実現する驚きの仕組み",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル回路図",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、タイミーと従来のバイト求人情報媒体を比較しながら、ビジネスモデルの違いを図解します",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "スキマバイトアプリ「Timee（タイミー）」のビジネスモデル図解｜note",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "Timee（タイミー）のビジネスモデルとは？",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "以下は、タイミーのビジネスモデルを表した図です",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "なお、ここでのビジネスモデルの図解は、システム思考におけるループ図という手法をベースに、独自にアレンジした形式で表現しています",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "それでは順を追って、ビジネスモデルを読み解いていきましょう",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "一般的なバイト求人情報媒体のビジネスモデル",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "これを知っておけば、タイミーのビジネスモデルの特徴を理解するのに役立つはずです",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "ということで、一般的なバイト求人情報媒体のビジネスモデルのポイントは、",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "バイト求人広告媒体のビジネスモデル図解：広告掲載型・成功報酬型の違いをわかりやすく解説",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし実は、このビジネスモデルには",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "タイミーの強さは完成されたビジネスモデル",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "ここで改めて、タイミーのビジネスモデル図解を見てみましょう",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "は模倣困難性が高く、ビジネスモデルの持続性を高める盾のような存在です",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "このように求人情報や相互評価データの活用は、必ずしも現在のビジネスモデルを強化するわけではないかもしれませんが、中長期的なタイミーの事業成長の鍵となるはずです",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "自動販売機オペレーターのビジネスモデル図解：専業・兼業・オーナーの違い",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル研究家、経営コンサルタント",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "その構造を見える形にする道具として、全体を俯瞰する「ビジネスモデル構造式」と、内側の循環を追う「ビジネスモデル回路図」という2つのフレームワークを考案",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "著書『ビジネスモデル進化論』（秀和システム新社）",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "サントリー「ボスマート」のビジネスモデル図解：自販機決済のクロスマーチャンダイジング",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "サントリー「社長のおごり自販機」のビジネスモデル図解：仕組みはサービスを商品で課金する収益モデル",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "主要な収益源と売上構成",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "タイミーのビジネスモデルとは｜収益構造と強み・成長戦略を解説 – CREXコンサルティング｜戦略 × AI/DX × BPOで事業を実装まで伴走",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "タイミーのビジネスモデルとは｜収益構造と強み・成長戦略を解説",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、タイミーの収益構造、バリュープロポジション、競争優位の源泉、",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "売上総利益率が高くスケールメリットが効きやすい",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "タイミーの強みと差別化要因",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "タイミーが先行して獲得したポジションは、単純な機能優位ではなく、複数の競争優位要素が絡み合って構築されています",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "後発が容易に追随できない参入障壁を構造的に整理します",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "ネットワーク効果と参入障壁",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "マッチング成立率が高いという「実体験ベースの満足度」が口コミと再利用を生み、参入障壁が複利で効いていく構造を作り上げています",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "レビュー資産も重要な競争優位です",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "空き時間、空き設備、空き在庫など、「使われていない資源」と「困っているニーズ」を高頻度でマッチングできれば、新たな市場が立ち上がります",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "収益構造はシンプルな成果報酬型で、リピート事業者比率の高さによる売上の安定性と、プラットフォーム特有のスケールメリットが高収益の源泉になっています",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "競争優位は、両面ネットワーク効果による参入障壁、即時マッチングを支える技術基盤、ブランドとレビュー資産の蓄積という複層的な要素の組み合わせで構築されています",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "模倣困難な競争優位性",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "しかしタイミーの強みはこれだけにとどまりません",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "次のページからは、蓄積された相互評価データを利用した競争優位性について解説します",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "相互評価データによる競争優位性の獲得",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "を実現し、ライバルに対する競争優位性を高めています",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "」の存在が、競争優位を生み出す源泉となっています",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "企業分析［強み・弱み・展望］",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C1000001KmMgc&q_no=1",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率約50％を誇り、国内製薬トップ級の時価総額に上り詰めた中外製薬",
+    "url": "https://business.nikkei.com/atcl/gen/19/00081/021700918/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "タイミー の ビジネスモデル とは｜収益構造と強み・成長戦略を ... — タイミー の ビジネスモデル とは｜収益構造と強み・成長戦略を ... crex-consulting.com https://crex-consulting.com > ... > 戦略コンサルティング",
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "タイミー の ビジネスモデル 図解：逆選択の抑制と即日入金を ... — タイミー の ビジネスモデル 図解：逆選択の抑制と即日入金を ... ダイゾーコンサルティング株式会社 https://dyzo.consulting > ケーススタディ",
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "スキマバイトアプリ「Timee（ タイミー ）」の ビジネスモデル ... — スキマバイトアプリ「Timee（ タイミー ）」の ビジネスモデル ... note https://note.com > ビジネス > スタートアップ・VC",
+    "url": "https://note.com/dyzo/n/nd5a81e7529f4",
+    "pass": 3
+   },
+   {
+    "quote": "タイミー - Bizgram - 図解総研 — タイミー - Bizgram - 図解総研 株式会社図解総研 https://bizgram.zukai.co > ...",
+    "url": "https://bizgram.zukai.co/f91db6798c27/fp8jencctwrg",
+    "pass": 3
+   },
+   {
+    "quote": "『すぐ働けて、すぐお金がもらえる』 ビジネスモデル 特許出願 ... — 『すぐ働けて、すぐお金がもらえる』 ビジネスモデル 特許出願 ... 株式会社タイミー https://corp.timee.co.jp > ニュース",
+    "url": "https://corp.timee.co.jp/news/detail-484/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 - 株式会社タイミー(Timee, Inc.) — 決算説明資料 - 株式会社タイミー(Timee, Inc.) 株式会社タイミー https://corp.timee.co.jp > IR",
+    "url": "https://corp.timee.co.jp/ir/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "IRトップページ - 株式会社タイミー(Timee, Inc.) — IRトップページ - 株式会社タイミー(Timee, Inc.) 株式会社タイミー https://corp.timee.co.jp > ...",
+    "url": "https://corp.timee.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "電子公告 - 株式会社タイミー(Timee, Inc.) — 電子公告 - 株式会社タイミー(Timee, Inc.) 株式会社タイミー https://corp.timee.co.jp > IR",
+    "url": "https://corp.timee.co.jp/ir/notice/",
+    "pass": 3
+   },
+   {
+    "quote": "タイミー （215A） 2025年10月期第3四半期 決算説明 - YouTube — タイミー （215A） 2025年10月期第3四半期 決算説明 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=iVBo4zpVzz8",
+    "pass": 3
+   },
+   {
+    "quote": "FY26/4期 - 通期 決算説明資料 - 株式会社タイミー(Timee, Inc.) — FY26/4期 - 通期 決算説明資料 - 株式会社タイミー(Timee, Inc.) 株式会社タイミー PDF https://corp.timee.co.jp > conts > uploads > 2026/06",
+    "url": "https://corp.timee.co.jp/conts/wp-content/uploads/2026/06/2026%E5%B9%B44%E6%9C%88%E6%9C%9F_%E9%80%9A%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "タイミー の社員・部署紹介 — タイミー の社員・部署紹介 タイミー https://note.timee.co.jp > ...",
+    "url": "https://note.timee.co.jp/m/m499adbc43efb",
+    "pass": 3
+   },
+   {
+    "quote": "タイミー の「組織体制・企業文化」 OpenWork — タイミー の「組織体制・企業文化」 OpenWork OpenWork https://www.openwork.jp > 人材サービス > タイミー",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C1000001KmMgc&q_no=1",
+    "pass": 3
+   },
+   {
+    "quote": "人的資本情報｜株式会社 タイミー (Timee, Inc.) — 人的資本情報｜株式会社 タイミー (Timee, Inc.) 株式会社タイミー https://corp.timee.co.jp > human-capital",
+    "url": "https://corp.timee.co.jp/human-capital/",
+    "pass": 3
+   },
+   {
+    "quote": "個人投資家さま向けIR活動 - 株式会社タイミー(Timee, Inc.) — 個人投資家さま向けIR活動 - 株式会社タイミー(Timee, Inc.) 株式会社タイミー https://corp.timee.co.jp > IR > 個人投資家の皆さまへ",
+    "url": "https://corp.timee.co.jp/ir/individual/materials/",
+    "pass": 3
+   },
+   {
+    "quote": "タイミー の特徴とは？企業が知っておくべき強み・活用 ... — タイミー の特徴とは？企業が知っておくべき強み・活用 ... まるごと人事 https://marugotoinc.jp > ... > 採用媒体・チャネル",
+    "url": "https://marugotoinc.jp/blog/timee/",
+    "pass": 3
+   },
+   {
+    "quote": "急成長遂げる タイミー 小川嶺 社長 が語る創業秘話と経営戦略 — 急成長遂げる タイミー 小川嶺 社長 が語る創業秘話と経営戦略 日経ビジネス電子版 https://business.nikkei.com > テーマ別まとめ記事",
+    "url": "https://business.nikkei.com/atcl/gen/19/00081/021700918/",
+    "pass": 3
+   },
+   {
+    "quote": "先輩の声 - OB・OG インタビュー 株式会社 タイミー 代表 ... — 先輩の声 - OB・OG インタビュー 株式会社 タイミー 代表 ... 日本政策金融公庫 https://www.jfc.go.jp > grandprix > voice > student",
+    "url": "https://www.jfc.go.jp/n/grandprix/voice/student/ex_04.html",
+    "pass": 3
+   },
+   {
+    "quote": "タイミー 小川 嶺｜2年間で30億円超えの資金調達！ 独占 ... — タイミー 小川 嶺｜2年間で30億円超えの資金調達！ 独占 ... 創業手帳株式会社 https://sogyotecho.jp > 起業 > 起業家インタビュー",
+    "url": "https://sogyotecho.jp/timee-interview/",
+    "pass": 3
+   },
+   {
+    "quote": "バイト漬けの日々で生まれたアイデア。 タイミー社長 ・小川嶺 ... — バイト漬けの日々で生まれたアイデア。 タイミー社長 ・小川嶺 ... ダイヤモンド・オンライン https://diamond.jp > articles",
+    "url": "https://diamond.jp/articles/-/356956",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://timee.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://timee.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://timee.co.jp/business/f/select_docs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://timee.co.jp/business/f/sunbelx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://timee.co.jp/business/f/sgl",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://timee.co.jp/business/f/shimonya",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://timee.co.jp/business/?utm_source=blog&utm_medium=business_top&utm_campaign=blog_header&flow_type=self",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://timee.co.jp/business/?utm_source=blog&utm_medium=business_top&utm_campaign=blog_footer&flow_type=self",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://timee.co.jp/business/blog",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://timee.co.jp/business/?utm_source=blog&utm_medium=business_top&utm_campaign=blog_footer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://timee.co.jp/business/f/case",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://timee.co.jp/business/lp_docs/?utm_source=blog&utm_medium=docs&utm_campaign=blog_sidebar",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://timee.co.jp/business/f/select_docs",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://timee.co.jp/_assets/about-rating.DBEgHdmG_1dsT0l.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://timee.co.jp/_assets/about-skill.B_yogOQC_21QbDl.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://timee.co.jp/_assets/about-same-day.DpvEKFVe_Z1uTy8N.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://timee.co.jp/_assets/feature-long-term.kUwCJKnO_EcGJJ.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://timee.co.jp/_assets/feature-repeater.B4VZXA2A_Q3XGX.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://timee.co.jp/_assets/flow-head.D1eO2jxm_g6BXa.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://timee.co.jp/_assets/flow-one-image.Bg5VKAG3_Z2dJVyX.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://timee.co.jp/_assets/flow-one-bubble.CxZDQApH_IgDNw.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dyzo.consulting/timee-business-model/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.timee.co.jp/ir/presentations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.timee.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.timee.co.jp/m/m499adbc43efb?gs=6ab6ee5537417f9ac8d0b90b92051c6f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C1000001KmMgc&q_no=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://business.nikkei.com/atcl/gen/19/00081/021700918/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/grandprix/voice/student/ex_04.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "タイミー",
+   "results": [
+    "https://timee.co.jp/",
+    "https://apps.apple.com/jp/app/%E3%82%BF%E3%82%A4%E3%83%9F%E3%83%BC-%E3%82%B9%E3%82%AD%E3%83%9E%E3%83%90%E3%82%A4%E3%83%88-%E5%8D%98%E7%99%BA%E3%83%90%E3%82%A4%E3%83%88-%E7%9F%AD%E6%9C%9F%E3%83%90%E3%82%A4%E3%83%88%E3%81%AE%E6%B1%82%E4%BA%BA%E3%82%A2%E3%83%97%E3%83%AA/id1409383333",
+    "https://play.google.com/store/apps/details?id=jp.co.taimee&hl=ja",
+    "https://www.bengo4.com/c_5/n_21134/",
+    "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E3%83%9F%E3%83%BC",
+    "https://grokipedia.com/page/Timee",
+    "https://ja.wikipedia.org/wiki/タイミー",
+    "https://corp.timee.co.jp/about/",
+    "https://careerboost.wpx.jp/18237",
+    "https://corp.timee.co.jp/news/detail-6979/"
+   ]
+  },
+  {
+   "query": "タイミー ビジネスモデル",
+   "results": [
+    "https://crex-consulting.com/column/strategy/timee-business-model/",
+    "https://dyzo.consulting/timee-business-model/",
+    "https://note.com/dyzo/n/nd5a81e7529f4",
+    "https://bizgram.zukai.co/f91db6798c27/fp8jencctwrg",
+    "https://corp.timee.co.jp/news/detail-484/",
+    "https://www.youtube.com/watch?v=p9JUm_gsuUo",
+    "https://www.authense.jp/innovators/5099/",
+    "https://mindmeister.jp/posts/bm-timee",
+    "https://note.com/solati/n/ne0ae71568e2b",
+    "https://leaders.blue/archives/3874"
+   ]
+  },
+  {
+   "query": "タイミー 決算説明資料",
+   "results": [
+    "https://corp.timee.co.jp/ir/presentations/",
+    "https://corp.timee.co.jp/ir/",
+    "https://corp.timee.co.jp/ir/notice/",
+    "https://www.youtube.com/watch?v=iVBo4zpVzz8",
+    "https://corp.timee.co.jp/conts/wp-content/uploads/2026/06/2026%E5%B9%B44%E6%9C%88%E6%9C%9F_%E9%80%9A%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260611568101/",
+    "https://www.youtube.com/watch?v=UsNU0UiJeGw",
+    "https://corp.timee.co.jp/ir/individual/",
+    "https://tdnet-pdf.kabutan.jp/20250911/140120250911556371.pdf",
+    "https://tdnet-pdf.kabutan.jp/20250612/140120250612588059.pdf"
+   ]
+  },
+  {
+   "query": "タイミー 事業系統図",
+   "results": [
+    "https://note.timee.co.jp/m/m499adbc43efb",
+    "https://www.openwork.jp/company_answer.php?m_id=a0C1000001KmMgc&q_no=1",
+    "https://corp.timee.co.jp/human-capital/",
+    "https://corp.timee.co.jp/ir/individual/materials/",
+    "https://marugotoinc.jp/blog/timee/",
+    "https://bizgram.zukai.co/f91db6798c27/fp8jencctwrg",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100V59M.pdf",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251211/20251211518011.pdf",
+    "https://note.com/dyzo/n/nd5a81e7529f4",
+    "https://dyzo.consulting/timee-business-model/"
+   ]
+  },
+  {
+   "query": "タイミー 社長 インタビュー",
+   "results": [
+    "https://business.nikkei.com/atcl/gen/19/00081/021700918/",
+    "https://www.jfc.go.jp/n/grandprix/voice/student/ex_04.html",
+    "https://sogyotecho.jp/timee-interview/",
+    "https://note.com/taimee/n/n3ad91d46a57a",
+    "https://diamond.jp/articles/-/356956",
+    "https://niiza.rikkyo.ac.jp/closeup/interview/2023/od7mpo000000ll06.html",
+    "https://froggy.smbcnikko.co.jp/series-name/timee/",
+    "https://ja.wikipedia.org/wiki/小川嶺",
+    "https://www.youtube.com/watch?v=PuBndaM2AZQ",
+    "https://www.youtube.com/watch?v=sYSz3W64_rs"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式13頁／PDF・画像8件／外部8頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像8件／外部8頁・検索5回）"
+ }
+}

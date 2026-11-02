@@ -1,0 +1,490 @@
+{
+ "name": "ＰＩＬＬＡＲ",
+ "aliases": [],
+ "context": "証券コード6490／機械／プライム（内国株式）／2026.03期 売上高59,479百万円 営業利益率20.4%",
+ "researched_at": "2026-11-02T18:03:27.707802+00:00",
+ "official_url": "https://www.pillarcatholic.com/",
+ "identified_by": "search:ddgs:google:PILLAR",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1924年（大正13年）",
+    "url": "https://www.pillar.co.jp/ja/about/outline/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "グループ従業員数",
+    "value": "1,308人（2026年3月31日現在）",
+    "url": "https://www.pillar.co.jp/ja/about/outline/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "流体制御関連機器製品の製造販売",
+    "url": "https://www.pillar.co.jp/ja/about/outline/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "ビジネスモデル": [
+   {
+    "quote": "PILLARのビジネスモデル",
+    "url": "https://www.pillar.co.jp/ja/ir/individual/guide/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "そして、これらを複合的に組み合わせることで、当社にしかできない技術・製品・サービスをお客様のニーズに合わせて提供しています",
+    "url": "https://www.pillar.co.jp/ja/ir/individual/guide/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "世の中に新しい価値・製品を創出してきたPILLARの歴史を掲載しています",
+    "url": "https://www.pillar.co.jp/ja/ir/individual/guide/",
+    "pass": 3
+   },
+   {
+    "quote": "製品情報に関して",
+    "url": "https://www.pillar.co.jp/ja/ir/individual/guide/",
+    "pass": 3
+   },
+   {
+    "quote": "製品情報についてのお問い合わせ",
+    "url": "https://www.pillar.co.jp/ja/ir/individual/guide/",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、「情報ネットワークの構築」「さまざまな材料を製品に展開できる技術」「愚直な技術開発」 を100年の歴史の中で広く、深く培ってきました",
+    "url": "https://www.pillar.co.jp/ja/ir/individual/guide/",
+    "pass": 3
+   },
+   {
+    "quote": "そして、これらを複合的に組み合わせることで、当社にしかできない技術・製品・サービスをお客様のニーズに合わせて提供しています",
+    "url": "https://www.pillar.co.jp/ja/ir/individual/guide/",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、100年の歴史において「漏れを制御する技術」を核にした「流体制御関連製品」で各時代のニーズに応え続けることで、船舶・プラント（工場）・自動車・半導体と市場を広げてきました",
+    "url": "https://www.pillar.co.jp/ja/ir/individual/guide/",
+    "pass": 3
+   },
+   {
+    "quote": "また、その過程においてグランドパッキン・ガスケット・メカニカルシール・ふっ素樹脂製品と製品のラインナップも拡充してきました",
+    "url": "https://www.pillar.co.jp/ja/ir/individual/guide/",
+    "pass": 3
+   },
+   {
+    "quote": "現在は、「電子機器関連事業」と「産業機器関連事業」のセグメント分類のもとで幅広い市場に製品やサービスを提供しています",
+    "url": "https://www.pillar.co.jp/ja/ir/individual/guide/",
+    "pass": 3
+   },
+   {
+    "quote": "100年の歴史の中でさまざまな市場や製品で培ってきた「漏れを制御する確かな技術」を複合させることで、新たな価値創造を実践しています",
+    "url": "https://www.pillar.co.jp/ja/ir/individual/guide/",
+    "pass": 3
+   },
+   {
+    "quote": "また、新技術や新製品の開発プロセスにおいて、産官学連携やIT・DX技術を今まで以上に活用し、質・量・スピードを向上させ、各事業分野の技術開発を強化しています",
+    "url": "https://www.pillar.co.jp/ja/ir/individual/guide/",
+    "pass": 3
+   },
+   {
+    "quote": "当社製品は、多品種小ロットのため、さまざまな部品を適切に調達するサプライチェーンを構築しています",
+    "url": "https://www.pillar.co.jp/ja/ir/individual/guide/",
+    "pass": 3
+   },
+   {
+    "quote": "製品に関するお問い合わせ",
+    "url": "https://www.pillar.co.jp/ja/ir/individual/guide/",
+    "pass": 3
+   },
+   {
+    "quote": "世の中に新しい価値・製品を創出してきたPILLARの歴史を掲載しています",
+    "url": "https://www.pillar.co.jp/ja/ir/library/briefing/",
+    "pass": 3
+   },
+   {
+    "quote": "製品情報に関して",
+    "url": "https://www.pillar.co.jp/ja/ir/library/briefing/",
+    "pass": 3
+   },
+   {
+    "quote": "製品情報についてのお問い合わせ",
+    "url": "https://www.pillar.co.jp/ja/ir/library/briefing/",
+    "pass": 3
+   },
+   {
+    "quote": "製品に関するお問い合わせ",
+    "url": "https://www.pillar.co.jp/ja/ir/library/briefing/",
+    "pass": 3
+   },
+   {
+    "quote": "世の中に新しい価値・製品を創出してきたPILLARの歴史を掲載しています",
+    "url": "https://www.pillar.co.jp/ja/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "製品情報に関して",
+    "url": "https://www.pillar.co.jp/ja/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "製品情報についてのお問い合わせ",
+    "url": "https://www.pillar.co.jp/ja/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "製品に関するお問い合わせ",
+    "url": "https://www.pillar.co.jp/ja/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "世の中に新しい価値・製品を創出してきたPILLARの歴史を掲載しています",
+    "url": "https://www.pillar.co.jp/ja/about/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "製品情報に関して",
+    "url": "https://www.pillar.co.jp/ja/about/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "製品情報についてのお問い合わせ",
+    "url": "https://www.pillar.co.jp/ja/about/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "流体制御関連機器製品の製造販売",
+    "url": "https://www.pillar.co.jp/ja/about/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "ピラーシールソリューションズ",
+    "url": "https://www.pillar.co.jp/ja/about/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "製品に関するお問い合わせ",
+    "url": "https://www.pillar.co.jp/ja/about/outline/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "PILLARの「今」がわかる、基本情報や特徴を数字でご紹介します",
+    "url": "https://www.pillar.co.jp/ja/ir/individual/guide/",
+    "pass": 3
+   },
+   {
+    "quote": "PILLARの「今」がわかる、基本情報や特徴を数字でご紹介します",
+    "url": "https://www.pillar.co.jp/ja/ir/library/briefing/",
+    "pass": 3
+   },
+   {
+    "quote": "PILLARの「今」がわかる、基本情報や特徴を数字でご紹介します",
+    "url": "https://www.pillar.co.jp/ja/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "PILLARの「今」がわかる、基本情報や特徴を数字でご紹介します",
+    "url": "https://www.pillar.co.jp/ja/about/outline/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "現在は、「電子機器関連事業」と「産業機器関連事業」のセグメント分類のもとで幅広い市場に製品やサービスを提供しています",
+    "url": "https://www.pillar.co.jp/ja/ir/individual/guide/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "PILLARグループの強み | 株式会社PILLAR",
+    "url": "https://www.pillar.co.jp/ja/ir/individual/guide/",
+    "pass": 3
+   },
+   {
+    "quote": "PILLARグループの強み",
+    "url": "https://www.pillar.co.jp/ja/ir/individual/guide/",
+    "pass": 3
+   },
+   {
+    "quote": "強みを支えるPILLARグループの",
+    "url": "https://www.pillar.co.jp/ja/ir/individual/guide/",
+    "pass": 3
+   },
+   {
+    "quote": "PILLARグループの強み",
+    "url": "https://www.pillar.co.jp/ja/ir/library/briefing/",
+    "pass": 3
+   },
+   {
+    "quote": "PILLARグループの強み",
+    "url": "https://www.pillar.co.jp/ja/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "PILLARグループの強み",
+    "url": "https://www.pillar.co.jp/ja/about/outline/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2023年11月に稼働した三田工場イノベーションセンターに当社グループの技術者を結集させることで、多様な技術の総合知の創出を図っています",
+    "url": "https://www.pillar.co.jp/ja/ir/individual/guide/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期第2四半期決算発表（15：30予定）",
+    "url": "https://www.pillar.co.jp/ja/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期第1四半期決算発表（15：30）",
+    "url": "https://www.pillar.co.jp/ja/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 決算発表（15：30）",
+    "url": "https://www.pillar.co.jp/ja/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "1924年（大正13年）",
+    "url": "https://www.pillar.co.jp/ja/about/outline/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "PILLAR グループの強み — PILLAR グループの強み 株式会社PILLAR https://www.pillar.co.jp > individual > guide",
+    "url": "https://www.pillar.co.jp/ja/ir/individual/guide/",
+    "pass": 3
+   },
+   {
+    "quote": "新中期経営計画 - 株式会社 PILLAR — 新中期経営計画 - 株式会社 PILLAR 株式会社PILLAR PDF https://media.nippon-pillar.com > assets > pdf",
+    "url": "https://media.nippon-pillar.com/assets/pdf/d969caa01bc5b153596f852b46992fa54b02ecb4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「 ビジネス 運営の柱」フレームワーク - LinkedIn — 「 ビジネス 運営の柱」フレームワーク - LinkedIn LinkedIn https://jp.linkedin.com > pulse > pillars-operating-business...",
+    "url": "https://jp.linkedin.com/pulse/pillars-operating-business-framework-sandeep-chakravartty-skdrc?tl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 | 日本 ピラー 工業株式会社 — 決算説明資料 | 日本 ピラー 工業株式会社 株式会社PILLAR https://www.pillar.co.jp > library > briefing",
+    "url": "https://www.pillar.co.jp/ja/ir/library/briefing/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 - 株式会社PILLAR — IR情報 - 株式会社PILLAR 株式会社PILLAR https://www.pillar.co.jp > ...",
+    "url": "https://www.pillar.co.jp/ja/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "決算 関連 資料 ・ 説明 会動画 - 株式会社PILLAR — 決算 関連 資料 ・ 説明 会動画 - 株式会社PILLAR 株式会社PILLAR https://www.pillar.co.jp > library",
+    "url": "https://www.pillar.co.jp/ja/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 PILLAR - Shared Research — 株式会社 PILLAR - Shared Research Shared Research https://sharedresearch.jp > companies > documents",
+    "url": "https://sharedresearch.jp/ja/companies/6490/documents",
+    "pass": 3
+   },
+   {
+    "quote": "【 PILLAR 】[6490]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 PILLAR 】[6490]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=6490",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 株式会社PILLAR — 会社概要 - 株式会社PILLAR 株式会社PILLAR https://www.pillar.co.jp > about > outline",
+    "url": "https://www.pillar.co.jp/ja/about/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "統合報告書 2025 - 株式会社 PILLAR — 統合報告書 2025 - 株式会社 PILLAR 株式会社PILLAR PDF https://media.nippon-pillar.com > assets > pdf",
+    "url": "https://media.nippon-pillar.com/assets/pdf/1f46a021b817f20348fe61ec7f28aa04221bd504.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "PILLAR 【6490】の 事業 内容 - キタイシホン — PILLAR 【6490】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/6490/business",
+    "pass": 3
+   },
+   {
+    "quote": "PILLAR グループの企業情報 | CFN（CareerForum.Net） — PILLAR グループの企業情報 | CFN（CareerForum.Net） CFN https://careerforum.net > company_list > company_detail",
+    "url": "https://careerforum.net/ja/company_list/4040/company_detail/",
+    "pass": 3
+   },
+   {
+    "quote": "PILLAR社長 ・岩波嘉信氏 フッ素樹脂継手で中国へ攻勢 — PILLAR社長 ・岩波嘉信氏 フッ素樹脂継手で中国へ攻勢 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/753939",
+    "pass": 3
+   },
+   {
+    "quote": "日刊工業新聞電子版 on X: \" インタビュー ／ PILLAR社長 ・岩波 ... — 日刊工業新聞電子版 on X: \" インタビュー ／ PILLAR社長 ・岩波 ... X https://x.com > @Nikkan_BizLine",
+    "url": "https://x.com/Nikkan_BizLine/status/2039506942985486342",
+    "pass": 3
+   },
+   {
+    "quote": "役員紹介 - 株式会社PILLAR — 役員紹介 - 株式会社PILLAR 株式会社PILLAR https://www.pillar.co.jp > about > executives",
+    "url": "https://www.pillar.co.jp/ja/about/executives/",
+    "pass": 3
+   },
+   {
+    "quote": "トップメッセージ｜採用サイト｜株式会社 PILLAR — トップメッセージ｜採用サイト｜株式会社 PILLAR pillar-recruit.jp https://www.pillar-recruit.jp > business > message",
+    "url": "https://www.pillar-recruit.jp/business/message/",
+    "pass": 3
+   },
+   {
+    "quote": "PILLAR 【6490】の 社長 ・役員 - キタイシホン — PILLAR 【6490】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/6490/board-of-director",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.pillarcatholic.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.pillar.co.jp/ja/ir/individual/guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.layers.co.jp/terms/threepillar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pillar.co.jp/ja/ir/library/briefing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pillar.co.jp/ja/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pillar.co.jp/ja/about/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media.nippon-pillar.com/assets/pdf/1f46a021b817f20348fe61ec7f28aa04221bd504.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/753939",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/Nikkan_BizLine/status/2039506942985486342",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "PILLAR",
+   "results": [
+    "https://www.merriam-webster.com/dictionary/pillar",
+    "https://dictionary.cambridge.org/us/dictionary/english/pillar",
+    "https://www.vocabulary.com/dictionary/pillar",
+    "https://www.dictionary.com/browse/pillar",
+    "https://webstersdictionary1828.com/Dictionary/pillar",
+    "https://columnsandbalustrades.com/architectural-blog/what-is-the-difference-between-a-pillar-and-a-column-architectural-guide/",
+    "https://www.youtube.com/watch?v=C6Il47t7ljs",
+    "https://www.britannica.com/technology/pillar",
+    "https://ja.wikipedia.org/wiki/PILLAR",
+    "https://grokipedia.com/page/Pillar_Project"
+   ]
+  },
+  {
+   "query": "PILLAR ビジネスモデル",
+   "results": [
+    "https://www.pillar.co.jp/ja/ir/individual/guide/",
+    "https://www.layers.co.jp/terms/threepillar/",
+    "https://media.nippon-pillar.com/assets/pdf/d969caa01bc5b153596f852b46992fa54b02ecb4.pdf",
+    "https://www.slideteam.net/blog/jirei-to-sanpuru-tsuki-bijinesupiratenpureto-toppu-10?lang=Japanese",
+    "https://jp.linkedin.com/pulse/pillars-operating-business-framework-sandeep-chakravartty-skdrc?tl=ja",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrMs&q_no=9",
+    "https://www.reddit.com/r/ENGLISH/comments/1eezi1m/difference_between_pillar_and_column_in_american/?tl=ja",
+    "https://genai-ai.co.jp/ai-kanri/blog/cc-business-model-guide/",
+    "https://www.instagram.com/p/DFCxOl0KDzg/",
+    "https://en.wikipedia.org/wiki/Column"
+   ]
+  },
+  {
+   "query": "PILLAR 決算説明資料",
+   "results": [
+    "https://www.pillar.co.jp/ja/ir/library/briefing/",
+    "https://www.pillar.co.jp/ja/ir/",
+    "https://www.pillar.co.jp/ja/ir/library/",
+    "https://sharedresearch.jp/ja/companies/6490/documents",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=6490",
+    "https://www.buffett-code.com/company/6490/library",
+    "https://investalk.jp/6490/pillar-2026-03-earnings/",
+    "https://www.moomoo.com/ja/stock/6490-JP/earnings",
+    "https://note.com/fisco_jp/n/n2a6e5d4ea962",
+    "https://en.wikipedia.org/wiki/Column"
+   ]
+  },
+  {
+   "query": "PILLAR 事業系統図",
+   "results": [
+    "https://www.pillar.co.jp/ja/about/outline/",
+    "https://media.nippon-pillar.com/assets/pdf/1f46a021b817f20348fe61ec7f28aa04221bd504.pdf",
+    "https://kitaishihon.com/company/6490/business",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100VZQK.pdf",
+    "https://careerforum.net/ja/company_list/4040/company_detail/",
+    "https://www.pillar.co.jp/",
+    "https://mechavocation.com/mecha2026/company/pillar-co-jp/",
+    "https://edinetdb.jp/company/E01645/midterm-plans/",
+    "https://companydata.tsujigawa.com/?cdb_edinet_doc=S100VZQK",
+    "https://en.wikipedia.org/wiki/Column"
+   ]
+  },
+  {
+   "query": "PILLAR 社長 インタビュー",
+   "results": [
+    "https://www.nikkan.co.jp/articles/view/753939",
+    "https://x.com/Nikkan_BizLine/status/2039506942985486342",
+    "https://www.pillar.co.jp/ja/about/executives/",
+    "https://www.pillar-recruit.jp/business/message/",
+    "https://kitaishihon.com/company/6490/board-of-director",
+    "https://the-shashi.com/tse/6490/ceo/",
+    "https://www.nikkan.co.jp/articles/view/777973",
+    "https://www.nikkei.com/article/DGKKZO59370230R20C20A5TJ2000/",
+    "https://j-lic.com/companies/6490/directors",
+    "https://en.wikipedia.org/wiki/Column"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索5回）",
+  "お金の形": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索5回）"
+ }
+}

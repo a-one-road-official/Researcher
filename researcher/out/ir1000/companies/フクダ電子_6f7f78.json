@@ -1,0 +1,1794 @@
+{
+ "name": "フクダ電子",
+ "aliases": [],
+ "context": "証券コード6960／電気機器／スタンダード（内国株式）／2026.03期 売上高139,697百万円 営業利益率19.1%",
+ "researched_at": "2026-11-02T18:07:11.530343+00:00",
+ "official_url": "https://www.fukuda.co.jp/",
+ "identified_by": "search:yahoo_jp:フクダ電子",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立年月日",
+    "value": "1948年（昭和23年）7月6日 （1939年（昭和14年）7月 「福田特殊医療電気製作所」として創業）",
+    "url": "https://www.fukuda.co.jp/company/information.html",
+    "pass": 1
+   },
+   {
+    "label": "Q 会社の創立はいつですか？",
+    "value": "A 当社は1939年7月1日に東京都文京区に「福田特殊医療電気製作所」として創立されました。",
+    "url": "https://www.fukuda.co.jp/ir/faq.html",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "1,396億9,700万円（フクダグループ実績）",
+    "url": "https://www.fukuda.co.jp/company/information.html",
+    "pass": 1
+   },
+   {
+    "label": "売上高（百万円）",
+    "value": "139,007 139,697 690 0.5",
+    "url": "https://kitaishihon.com/company/6960/business",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "",
+    "url": "https://kitaishihon.com/company/6960/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "28,549 9,782 61,951 38,724 139,007 － 139,007",
+    "url": "https://kitaishihon.com/company/6960/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部売上高又は振替高",
+    "value": "－ － － － － － －",
+    "url": "https://kitaishihon.com/company/6960/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "26,943 9,310 63,664 39,778 139,697 － 139,697",
+    "url": "https://kitaishihon.com/company/6960/business",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "3,497名（フクダグループ全体）",
+    "url": "https://www.fukuda.co.jp/company/information.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "医用電子機器の開発・製造・販売および輸出入",
+    "url": "https://www.fukuda.co.jp/company/information.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "購入を検討しているお客様",
+    "url": "https://www.fukuda.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "レンタルを検討しているお客様",
+    "url": "https://www.fukuda.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "設置中のお客様",
+    "url": "https://www.fukuda.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ノウハウを共有し、お客様により充実したサービスを",
+    "url": "https://www.fukuda.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "購入を検討しているお客様",
+    "url": "https://www.fukuda.co.jp/info/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "レンタルを検討しているお客様",
+    "url": "https://www.fukuda.co.jp/info/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "設置中のお客様",
+    "url": "https://www.fukuda.co.jp/info/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "購入を検討しているお客様",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/",
+    "pass": 1
+   },
+   {
+    "quote": "レンタルを検討しているお客様",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/",
+    "pass": 1
+   },
+   {
+    "quote": "設置中のお客様",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/",
+    "pass": 1
+   },
+   {
+    "quote": "購入を検討しているお客様",
+    "url": "https://www.fukuda.co.jp/company/information.html",
+    "pass": 1
+   },
+   {
+    "quote": "レンタルを検討しているお客様",
+    "url": "https://www.fukuda.co.jp/company/information.html",
+    "pass": 1
+   },
+   {
+    "quote": "設置中のお客様",
+    "url": "https://www.fukuda.co.jp/company/information.html",
+    "pass": 1
+   },
+   {
+    "quote": "購入を検討しているお客様",
+    "url": "https://www.fukuda.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "レンタルを検討しているお客様",
+    "url": "https://www.fukuda.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "設置中のお客様",
+    "url": "https://www.fukuda.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "誠実な対応が顧客の信頼を集め、現代の発展につながる礎を築いた",
+    "url": "https://www.fukuda.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "購入を検討しているお客様",
+    "url": "https://www.fukuda.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "レンタルを検討しているお客様",
+    "url": "https://www.fukuda.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "設置中のお客様",
+    "url": "https://www.fukuda.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "購入を検討しているお客様",
+    "url": "https://www.fukuda.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "レンタルを検討しているお客様",
+    "url": "https://www.fukuda.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "設置中のお客様",
+    "url": "https://www.fukuda.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "購入を検討しているお客様",
+    "url": "https://www.fukuda.co.jp/ir/data/",
+    "pass": 1
+   },
+   {
+    "quote": "レンタルを検討しているお客様",
+    "url": "https://www.fukuda.co.jp/ir/data/",
+    "pass": 1
+   },
+   {
+    "quote": "設置中のお客様",
+    "url": "https://www.fukuda.co.jp/ir/data/",
+    "pass": 1
+   },
+   {
+    "quote": "購入を検討しているお客様",
+    "url": "https://www.fukuda.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "レンタルを検討しているお客様",
+    "url": "https://www.fukuda.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "設置中のお客様",
+    "url": "https://www.fukuda.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "購入を検討しているお客様",
+    "url": "https://www.fukuda.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "レンタルを検討しているお客様",
+    "url": "https://www.fukuda.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "設置中のお客様",
+    "url": "https://www.fukuda.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "購入を検討しているお客様",
+    "url": "https://www.fukuda.co.jp/company/interview/260525-02.html",
+    "pass": 1
+   },
+   {
+    "quote": "レンタルを検討しているお客様",
+    "url": "https://www.fukuda.co.jp/company/interview/260525-02.html",
+    "pass": 1
+   },
+   {
+    "quote": "設置中のお客様",
+    "url": "https://www.fukuda.co.jp/company/interview/260525-02.html",
+    "pass": 1
+   },
+   {
+    "quote": "この経験は、顧客価値を中心とした製品開発の重要性を痛感する出来事となりました",
+    "url": "https://www.fukuda.co.jp/company/interview/260525-02.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客が求めているものは何かを分析し、小型で軽量、扱いやすくおしゃれな外観のデジタル一眼カメラを発売",
+    "url": "https://www.fukuda.co.jp/company/interview/260525-02.html",
+    "pass": 1
+   },
+   {
+    "quote": "私はこうした顧客価値を中心としたモノづくりを、「マーケティング的研究開発」と呼んでいます",
+    "url": "https://www.fukuda.co.jp/company/interview/260525-02.html",
+    "pass": 1
+   },
+   {
+    "quote": "tcPCO₂、SpO₂、およびPRの連続モニタリングと、直感的なタッチスクリーン・ユーザーインターフェースを提供",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/tCOM+.html",
+    "pass": 1
+   },
+   {
+    "quote": "購入を検討しているお客様",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/tCOM+.html",
+    "pass": 1
+   },
+   {
+    "quote": "レンタルを検討しているお客様",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/tCOM+.html",
+    "pass": 1
+   },
+   {
+    "quote": "設置中のお客様",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/tCOM+.html",
+    "pass": 1
+   },
+   {
+    "quote": "購入を検討しているお客様",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/pc4000.html",
+    "pass": 1
+   },
+   {
+    "quote": "レンタルを検討しているお客様",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/pc4000.html",
+    "pass": 1
+   },
+   {
+    "quote": "設置中のお客様",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/pc4000.html",
+    "pass": 1
+   },
+   {
+    "quote": "購入を検討しているお客様",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/cap35.html",
+    "pass": 1
+   },
+   {
+    "quote": "レンタルを検討しているお客様",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/cap35.html",
+    "pass": 1
+   },
+   {
+    "quote": "設置中のお客様",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/cap35.html",
+    "pass": 1
+   },
+   {
+    "quote": "購入を検討しているお客様",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/md300c22.html",
+    "pass": 1
+   },
+   {
+    "quote": "レンタルを検討しているお客様",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/md300c22.html",
+    "pass": 1
+   },
+   {
+    "quote": "設置中のお客様",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/md300c22.html",
+    "pass": 1
+   },
+   {
+    "quote": "購入を検討しているお客様",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/pm10n.html",
+    "pass": 1
+   },
+   {
+    "quote": "レンタルを検討しているお客様",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/pm10n.html",
+    "pass": 1
+   },
+   {
+    "quote": "設置中のお客様",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/pm10n.html",
+    "pass": 1
+   },
+   {
+    "quote": "購入を検討しているお客様",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/n-bsj.html",
+    "pass": 1
+   },
+   {
+    "quote": "レンタルを検討しているお客様",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/n-bsj.html",
+    "pass": 1
+   },
+   {
+    "quote": "設置中のお客様",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/n-bsj.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客との契約から生じる",
+    "url": "https://kitaishihon.com/company/6960/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高",
+    "url": "https://kitaishihon.com/company/6960/business",
+    "pass": 3
+   },
+   {
+    "quote": "本邦の外部顧客への売上高が連結損益計算書の売上高の90％を超えるため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/6960/business",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "感染対策製品",
+    "url": "https://www.fukuda.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "眼底カメラ／その他ヘルスケア製品",
+    "url": "https://www.fukuda.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "医療ソリューション",
+    "url": "https://www.fukuda.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "システムソリューション",
+    "url": "https://www.fukuda.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "安心・安全・快適のソリューションのために、",
+    "url": "https://www.fukuda.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ノウハウを共有し、お客様により充実したサービスを",
+    "url": "https://www.fukuda.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "自動化、内製化、システム化の推進で付加価値の高い製品製造と業務の効率化を実現",
+    "url": "https://www.fukuda.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "感染対策製品",
+    "url": "https://www.fukuda.co.jp/info/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "眼底カメラ／その他ヘルスケア製品",
+    "url": "https://www.fukuda.co.jp/info/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療ソリューション",
+    "url": "https://www.fukuda.co.jp/info/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "システムソリューション",
+    "url": "https://www.fukuda.co.jp/info/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "その他弊社取り扱い製品に",
+    "url": "https://www.fukuda.co.jp/info/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご使用中の製品に関するお問い合わせ",
+    "url": "https://www.fukuda.co.jp/info/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせいただいた内容につきましては、製品・サービスの改善などマーケティング業務に利用する以外は、第三者に転売・譲渡・開示することは一切ございません",
+    "url": "https://www.fukuda.co.jp/info/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "感染対策製品",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/",
+    "pass": 1
+   },
+   {
+    "quote": "眼底カメラ／その他ヘルスケア製品",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/",
+    "pass": 1
+   },
+   {
+    "quote": "医療ソリューション",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/",
+    "pass": 1
+   },
+   {
+    "quote": "システムソリューション",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/",
+    "pass": 1
+   },
+   {
+    "quote": "呼吸管理をサポートする幅広い製品を取り扱っています",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/",
+    "pass": 1
+   },
+   {
+    "quote": "ME機器サービス網",
+    "url": "https://www.fukuda.co.jp/aed/about/",
+    "pass": 1
+   },
+   {
+    "quote": "取り扱い製品情報",
+    "url": "https://www.fukuda.co.jp/aed/about/",
+    "pass": 1
+   },
+   {
+    "quote": "感染対策製品",
+    "url": "https://www.fukuda.co.jp/company/information.html",
+    "pass": 1
+   },
+   {
+    "quote": "眼底カメラ／その他ヘルスケア製品",
+    "url": "https://www.fukuda.co.jp/company/information.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療ソリューション",
+    "url": "https://www.fukuda.co.jp/company/information.html",
+    "pass": 1
+   },
+   {
+    "quote": "システムソリューション",
+    "url": "https://www.fukuda.co.jp/company/information.html",
+    "pass": 1
+   },
+   {
+    "quote": "感染対策製品",
+    "url": "https://www.fukuda.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "眼底カメラ／その他ヘルスケア製品",
+    "url": "https://www.fukuda.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "医療ソリューション",
+    "url": "https://www.fukuda.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "システムソリューション",
+    "url": "https://www.fukuda.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "この年の主な製品",
+    "url": "https://www.fukuda.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "アフターサービス体制の構築が急務となり、1953年以降、全国の主要都市に営業拠点を展開",
+    "url": "https://www.fukuda.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "相互に製品を供給・販売するほか、共同開発も検討",
+    "url": "https://www.fukuda.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "心電計をはじめ生体情報モニタや酸素濃縮機器等の主力製品を中心に生産",
+    "url": "https://www.fukuda.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "感染対策製品",
+    "url": "https://www.fukuda.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "眼底カメラ／その他ヘルスケア製品",
+    "url": "https://www.fukuda.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "医療ソリューション",
+    "url": "https://www.fukuda.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "システムソリューション",
+    "url": "https://www.fukuda.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "感染対策製品",
+    "url": "https://www.fukuda.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "眼底カメラ／その他ヘルスケア製品",
+    "url": "https://www.fukuda.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "医療ソリューション",
+    "url": "https://www.fukuda.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "システムソリューション",
+    "url": "https://www.fukuda.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "感染対策製品",
+    "url": "https://www.fukuda.co.jp/ir/data/",
+    "pass": 1
+   },
+   {
+    "quote": "眼底カメラ／その他ヘルスケア製品",
+    "url": "https://www.fukuda.co.jp/ir/data/",
+    "pass": 1
+   },
+   {
+    "quote": "医療ソリューション",
+    "url": "https://www.fukuda.co.jp/ir/data/",
+    "pass": 1
+   },
+   {
+    "quote": "システムソリューション",
+    "url": "https://www.fukuda.co.jp/ir/data/",
+    "pass": 1
+   },
+   {
+    "quote": "感染対策製品",
+    "url": "https://www.fukuda.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "眼底カメラ／その他ヘルスケア製品",
+    "url": "https://www.fukuda.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "医療ソリューション",
+    "url": "https://www.fukuda.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "システムソリューション",
+    "url": "https://www.fukuda.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "感染対策製品",
+    "url": "https://www.fukuda.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "眼底カメラ／その他ヘルスケア製品",
+    "url": "https://www.fukuda.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療ソリューション",
+    "url": "https://www.fukuda.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "システムソリューション",
+    "url": "https://www.fukuda.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "感染対策製品",
+    "url": "https://www.fukuda.co.jp/company/interview/260525-02.html",
+    "pass": 1
+   },
+   {
+    "quote": "眼底カメラ／その他ヘルスケア製品",
+    "url": "https://www.fukuda.co.jp/company/interview/260525-02.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療ソリューション",
+    "url": "https://www.fukuda.co.jp/company/interview/260525-02.html",
+    "pass": 1
+   },
+   {
+    "quote": "システムソリューション",
+    "url": "https://www.fukuda.co.jp/company/interview/260525-02.html",
+    "pass": 1
+   },
+   {
+    "quote": "しかし、当時は周囲から製品化の賛同は得られませんでした",
+    "url": "https://www.fukuda.co.jp/company/interview/260525-02.html",
+    "pass": 1
+   },
+   {
+    "quote": "この経験は、顧客価値を中心とした製品開発の重要性を痛感する出来事となりました",
+    "url": "https://www.fukuda.co.jp/company/interview/260525-02.html",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発に携わる人は、新しい技術、より高度な技術を追求する傾向がありますが、どんなに高性能かつ最新技術を搭載した製品であってもマーケットに受け入れられなければ意味がありません",
+    "url": "https://www.fukuda.co.jp/company/interview/260525-02.html",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "療養者向け 在宅医療のご紹介",
+    "url": "https://www.fukuda.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "検査のご紹介",
+    "url": "https://www.fukuda.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "フクダグループの取り組みや歴史を紹介するブランドサイトです",
+    "url": "https://www.fukuda.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "地域密着型の営業体制を敷いております",
+    "url": "https://www.fukuda.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "療養者向け 在宅医療のご紹介",
+    "url": "https://www.fukuda.co.jp/info/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "検査のご紹介",
+    "url": "https://www.fukuda.co.jp/info/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "療養者向け 在宅医療のご紹介",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/",
+    "pass": 1
+   },
+   {
+    "quote": "検査のご紹介",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/",
+    "pass": 1
+   },
+   {
+    "quote": "療養者向け 在宅医療のご紹介",
+    "url": "https://www.fukuda.co.jp/company/information.html",
+    "pass": 1
+   },
+   {
+    "quote": "検査のご紹介",
+    "url": "https://www.fukuda.co.jp/company/information.html",
+    "pass": 1
+   },
+   {
+    "quote": "療養者向け 在宅医療のご紹介",
+    "url": "https://www.fukuda.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "検査のご紹介",
+    "url": "https://www.fukuda.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "療養者向け 在宅医療のご紹介",
+    "url": "https://www.fukuda.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "検査のご紹介",
+    "url": "https://www.fukuda.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "療養者向け 在宅医療のご紹介",
+    "url": "https://www.fukuda.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "検査のご紹介",
+    "url": "https://www.fukuda.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "療養者向け 在宅医療のご紹介",
+    "url": "https://www.fukuda.co.jp/ir/data/",
+    "pass": 1
+   },
+   {
+    "quote": "検査のご紹介",
+    "url": "https://www.fukuda.co.jp/ir/data/",
+    "pass": 1
+   },
+   {
+    "quote": "療養者向け 在宅医療のご紹介",
+    "url": "https://www.fukuda.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "検査のご紹介",
+    "url": "https://www.fukuda.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "療養者向け 在宅医療のご紹介",
+    "url": "https://www.fukuda.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "検査のご紹介",
+    "url": "https://www.fukuda.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "療養者向け 在宅医療のご紹介",
+    "url": "https://www.fukuda.co.jp/company/interview/260525-02.html",
+    "pass": 1
+   },
+   {
+    "quote": "検査のご紹介",
+    "url": "https://www.fukuda.co.jp/company/interview/260525-02.html",
+    "pass": 1
+   },
+   {
+    "quote": "療養者向け 在宅医療のご紹介",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/tCOM+.html",
+    "pass": 1
+   },
+   {
+    "quote": "検査のご紹介",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/tCOM+.html",
+    "pass": 1
+   },
+   {
+    "quote": "療養者向け 在宅医療のご紹介",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/pc4000.html",
+    "pass": 1
+   },
+   {
+    "quote": "検査のご紹介",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/pc4000.html",
+    "pass": 1
+   },
+   {
+    "quote": "療養者向け 在宅医療のご紹介",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/cap35.html",
+    "pass": 1
+   },
+   {
+    "quote": "検査のご紹介",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/cap35.html",
+    "pass": 1
+   },
+   {
+    "quote": "療養者向け 在宅医療のご紹介",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/md300c22.html",
+    "pass": 1
+   },
+   {
+    "quote": "検査のご紹介",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/md300c22.html",
+    "pass": 1
+   },
+   {
+    "quote": "療養者向け 在宅医療のご紹介",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/pm10n.html",
+    "pass": 1
+   },
+   {
+    "quote": "検査のご紹介",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/pm10n.html",
+    "pass": 1
+   },
+   {
+    "quote": "療養者向け 在宅医療のご紹介",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/n-bsj.html",
+    "pass": 1
+   },
+   {
+    "quote": "検査のご紹介",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/n-bsj.html",
+    "pass": 1
+   },
+   {
+    "quote": "全国に張り巡らせた直販・保守拠点が、大手外資には真似しづらい参入障壁になっているんです",
+    "url": "https://note.com/seodoa_academy/n/n16d89a8b61b9",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "保守・サポート",
+    "url": "https://www.fukuda.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "保守・サポート",
+    "url": "https://www.fukuda.co.jp/info/inquiry.html",
+    "pass": 1
+   },
+   {
+    "quote": "保守・サポート",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/",
+    "pass": 1
+   },
+   {
+    "quote": "保守・サポート",
+    "url": "https://www.fukuda.co.jp/company/information.html",
+    "pass": 1
+   },
+   {
+    "quote": "保守・サポート",
+    "url": "https://www.fukuda.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "在宅医療用酸素濃縮器を専門にレンタル・販売・保守を行う",
+    "url": "https://www.fukuda.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "保守・サポート",
+    "url": "https://www.fukuda.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "保守・サポート",
+    "url": "https://www.fukuda.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "保守・サポート",
+    "url": "https://www.fukuda.co.jp/ir/data/",
+    "pass": 1
+   },
+   {
+    "quote": "保守・サポート",
+    "url": "https://www.fukuda.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "保守・サポート",
+    "url": "https://www.fukuda.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "保守・サポート",
+    "url": "https://www.fukuda.co.jp/company/interview/260525-02.html",
+    "pass": 1
+   },
+   {
+    "quote": "保守・サポート",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/tCOM+.html",
+    "pass": 1
+   },
+   {
+    "quote": "管理医療機器 特定保守管理医療機器",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/tCOM+.html",
+    "pass": 1
+   },
+   {
+    "quote": "保守・サポート",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/pc4000.html",
+    "pass": 1
+   },
+   {
+    "quote": "分類：管理医療機器 特定保守管理医療機器",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/pc4000.html",
+    "pass": 1
+   },
+   {
+    "quote": "保守・サポート",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/cap35.html",
+    "pass": 1
+   },
+   {
+    "quote": "分類：管理医療機器 特定保守管理医療機器",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/cap35.html",
+    "pass": 1
+   },
+   {
+    "quote": "保守・サポート",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/md300c22.html",
+    "pass": 1
+   },
+   {
+    "quote": "分類：管理医療機器 特定保守管理医療機器",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/md300c22.html",
+    "pass": 1
+   },
+   {
+    "quote": "保守・サポート",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/pm10n.html",
+    "pass": 1
+   },
+   {
+    "quote": "分類：管理医療機器 特定保守管理医療機器",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/pm10n.html",
+    "pass": 1
+   },
+   {
+    "quote": "保守・サポート",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/n-bsj.html",
+    "pass": 1
+   },
+   {
+    "quote": "分類：管理医療機器 特定保守管理医療機器",
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/n-bsj.html",
+    "pass": 1
+   },
+   {
+    "quote": "心電計で国内トップシェアを誇る同社が、なぜいま医療ITの保守部門を本体へ統合するのか",
+    "url": "https://note.com/seodoa_academy/n/n16d89a8b61b9",
+    "pass": 3
+   },
+   {
+    "quote": "消耗品供給・定期保守・レンタル契約",
+    "url": "https://note.com/seodoa_academy/n/n16d89a8b61b9",
+    "pass": 3
+   },
+   {
+    "quote": "フクダ電子はこの「ストックビジネス」の構造を早くから確立しており、景気変動に強い体質を築いてきました",
+    "url": "https://note.com/seodoa_academy/n/n16d89a8b61b9",
+    "pass": 3
+   },
+   {
+    "quote": "全国に張り巡らせた直販・保守拠点が、大手外資には真似しづらい参入障壁になっているんです",
+    "url": "https://note.com/seodoa_academy/n/n16d89a8b61b9",
+    "pass": 3
+   },
+   {
+    "quote": "この利益率の高さは、消耗品・保守・レンタルといった「ランニング収益」が厚いことに起因します",
+    "url": "https://note.com/seodoa_academy/n/n16d89a8b61b9",
+    "pass": 3
+   },
+   {
+    "quote": "部門 売上高(億円) 前年同期比 生体検査装置 168 ▲11.2% 生体情報モニター 58 ▲12.9% 治療装置 470 +2.8% 消耗品等(消耗品・修理・保守) 290 +4.3%",
+    "url": "https://note.com/seodoa_academy/n/n16d89a8b61b9",
+    "pass": 3
+   },
+   {
+    "quote": "ストックビジネス",
+    "url": "https://note.com/seodoa_academy/n/n16d89a8b61b9",
+    "pass": 3
+   },
+   {
+    "quote": "サブスクリプションモデル",
+    "url": "https://note.com/seodoa_academy/n/n16d89a8b61b9",
+    "pass": 3
+   },
+   {
+    "quote": "ワンストップ保守",
+    "url": "https://note.com/seodoa_academy/n/n16d89a8b61b9",
+    "pass": 3
+   },
+   {
+    "quote": "上記各部門の器械装置に使用する消耗品や修理、保守のほか、空気清浄除菌脱臭装置などの製造・購買及び販売",
+    "url": "https://kitaishihon.com/company/6960/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度においては、物価・人件費高騰による多くの医療機関での経営状況の悪化に加え、感染症に関連する補正予算が終息したことにより、設備投資系の売上高は伸び悩んだものの、在宅レンタル事業、消耗品や保守などのランニングビジネスは好調に推移しました",
+    "url": "https://kitaishihon.com/company/6960/business",
+    "pass": 3
+   },
+   {
+    "quote": "上記各部門の器械装置に使用する消耗品や修理、保守を含みます",
+    "url": "https://kitaishihon.com/company/6960/business",
+    "pass": 3
+   },
+   {
+    "quote": "「消耗品等部門」は各部門の器械装置に使用する消耗品、修理・保守等のサービス事業等を取り扱っております",
+    "url": "https://kitaishihon.com/company/6960/business",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年10月26日",
+    "url": "https://www.fukuda.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月20日",
+    "url": "https://www.fukuda.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月19日",
+    "url": "https://www.fukuda.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月13日",
+    "url": "https://www.fukuda.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月8日",
+    "url": "https://www.fukuda.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月8日",
+    "url": "https://www.fukuda.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1948年（昭和23年）7月6日",
+    "url": "https://www.fukuda.co.jp/company/information.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | フクダ電子",
+    "url": "https://www.fukuda.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1939年、フクダ電子の前身となる福田特殊医療電気製作所を創業し、国産第1号となる心電計を開発",
+    "url": "https://www.fukuda.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1992年、在宅酸素を扱う体制を構築",
+    "url": "https://www.fukuda.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1995年には在宅酸素療法のサポートを専門とするライフテック販社19社を設立し、在宅医療事業の先陣を切った",
+    "url": "https://www.fukuda.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2004年、一般市民にもAEDの使用が認可",
+    "url": "https://www.fukuda.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1939年の創業以来、医療機器専門メーカーとして「社会的使命に徹し、ME機器の開発を通じて医学の進歩に寄与する」ことを経営における不変の理念としてまいりました",
+    "url": "https://www.fukuda.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1982年6月1日に日本証券業協会に上場しました",
+    "url": "https://www.fukuda.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月8日",
+    "url": "https://www.fukuda.co.jp/company/interview/260525-02.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年10月にAI解析機能搭載心電計を発売しました",
+    "url": "https://www.fukuda.co.jp/company/interview/260525-02.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年に発売した自動体外式除細動器（AED）は自社初の国産モデルです",
+    "url": "https://www.fukuda.co.jp/company/interview/260525-02.html",
+    "pass": 1
+   },
+   {
+    "quote": "1982年4月オリンパス株式会社入社",
+    "url": "https://www.fukuda.co.jp/company/interview/260525-02.html",
+    "pass": 1
+   },
+   {
+    "quote": "2011年執行役員、翌年同社常務執行役員、オリンパスイメージング株式会社代表取締役社長に就任",
+    "url": "https://www.fukuda.co.jp/company/interview/260525-02.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月13日",
+    "url": "https://www.fukuda.co.jp/company/interview/260525-02.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月8日",
+    "url": "https://www.fukuda.co.jp/company/interview/260525-02.html",
+    "pass": 1
+   },
+   {
+    "quote": "2004年7月1日より医師や救命救急士だけでなく、現場に居合わせた一般市民もAEDが使用できるようになりました",
+    "url": "https://www.fukuda.co.jp/aed/about/info/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年1月28日 12:35",
+    "url": "https://note.com/seodoa_academy/n/n16d89a8b61b9",
+    "pass": 3
+   },
+   {
+    "quote": "1939年、国産第1号の心電計",
+    "url": "https://note.com/seodoa_academy/n/n16d89a8b61b9",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期は売上1,390億円、営業利益258億円で、",
+    "url": "https://note.com/seodoa_academy/n/n16d89a8b61b9",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期3Q累計──治療装置と消耗品が支える",
+    "url": "https://note.com/seodoa_academy/n/n16d89a8b61b9",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期第3四半期累計(2025年4月〜12月)では、売上988億円、営業利益164億円でした",
+    "url": "https://note.com/seodoa_academy/n/n16d89a8b61b9",
+    "pass": 3
+   },
+   {
+    "quote": "令和5年度医療施設調査",
+    "url": "https://note.com/seodoa_academy/n/n16d89a8b61b9",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月以降の有料コンテンツを読み放題にしたプランです",
+    "url": "https://note.com/seodoa_academy/n/n16d89a8b61b9",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期有価証券報告書より",
+    "url": "https://kitaishihon.com/company/6960/business",
+    "pass": 3
+   },
+   {
+    "quote": "2025年３月期",
+    "url": "https://kitaishihon.com/company/6960/business",
+    "pass": 3
+   },
+   {
+    "quote": "2026年３月期",
+    "url": "https://kitaishihon.com/company/6960/business",
+    "pass": 3
+   },
+   {
+    "quote": "2022年３月期",
+    "url": "https://kitaishihon.com/company/6960/business",
+    "pass": 3
+   },
+   {
+    "quote": "2023年３月期",
+    "url": "https://kitaishihon.com/company/6960/business",
+    "pass": 3
+   },
+   {
+    "quote": "2024年３月期",
+    "url": "https://kitaishihon.com/company/6960/business",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "もちろん、AIという話題性もありましたが、当社の強みを活かしながら自由な発想で開発に取り組んだことが成果につながったのだと思います",
+    "url": "https://www.fukuda.co.jp/company/interview/260525-02.html",
+    "pass": 1
+   },
+   {
+    "quote": "なかでも最重要課題に位置付けているのが、戦略的調達、物流改革、在庫最適化を目指すSCM最適化と、製品マネジメントシステム（QMS）再構築、是正・予防措置（Collective Action & Preventive Action：CAPA）をベースにした市場品質の向上です",
+    "url": "https://www.fukuda.co.jp/company/interview/260525-02.html",
+    "pass": 1
+   },
+   {
+    "quote": "心電計国内トップシェア、在宅医療でも強み",
+    "url": "https://note.com/seodoa_academy/n/n16d89a8b61b9",
+    "pass": 3
+   },
+   {
+    "quote": "心電計の国内シェアはトップクラスで、製造から販売、メンテナンスまでを自社で一貫して行う「垂直統合型モデル」が強みです",
+    "url": "https://note.com/seodoa_academy/n/n16d89a8b61b9",
+    "pass": 3
+   },
+   {
+    "quote": "彼らは画像診断や呼吸器領域で強みを持ち、資本力とブランド力で市場をリードしています",
+    "url": "https://note.com/seodoa_academy/n/n16d89a8b61b9",
+    "pass": 3
+   },
+   {
+    "quote": "全国に張り巡らせた直販・保守拠点が、大手外資には真似しづらい参入障壁になっているんです",
+    "url": "https://note.com/seodoa_academy/n/n16d89a8b61b9",
+    "pass": 3
+   },
+   {
+    "quote": "高収益体質だが、いま踊り場に",
+    "url": "https://note.com/seodoa_academy/n/n16d89a8b61b9",
+    "pass": 3
+   },
+   {
+    "quote": "売上1,300億円台、営業利益率15〜20%の安定企業",
+    "url": "https://note.com/seodoa_academy/n/n16d89a8b61b9",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率は約18.6%",
+    "url": "https://note.com/seodoa_academy/n/n16d89a8b61b9",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率は約16.6%と、やや低下しています",
+    "url": "https://note.com/seodoa_academy/n/n16d89a8b61b9",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "、実は「機器を売って終わり」から「稼働を支え続ける」へと、ビジネスモデルそのものを組み替える転換点なんです",
+    "url": "https://note.com/seodoa_academy/n/n16d89a8b61b9",
+    "pass": 3
+   },
+   {
+    "quote": "背景には、医療現場が抱える「システムと機器の断絶」があり、それを一本化することで病院側の負担を減らし、自社の収益構造も強化する狙いがあります",
+    "url": "https://note.com/seodoa_academy/n/n16d89a8b61b9",
+    "pass": 3
+   },
+   {
+    "quote": "こうした市場環境の変化が、フクダ電子の収益構造にも反映されているわけです",
+    "url": "https://note.com/seodoa_academy/n/n16d89a8b61b9",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://note.com/seodoa_academy/n/n16d89a8b61b9",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "経営理念＆事業フィールド｜ABOUT｜ フクダ電子 採用情報 — 経営理念＆事業フィールド｜ABOUT｜ フクダ電子 採用情報 フクダ電子 https://www.fukuda.co.jp > recruit > new > about",
+    "url": "https://www.fukuda.co.jp/recruit/new/about/",
+    "pass": 3
+   },
+   {
+    "quote": "フクダ電子 がFMS吸収。「ハードを売って終わり」から脱却 ... — フクダ電子 がFMS吸収。「ハードを売って終わり」から脱却 ... note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/seodoa_academy/n/n16d89a8b61b9",
+    "pass": 3
+   },
+   {
+    "quote": "フクダ電子 の強み｜ABOUT — フクダ電子 の強み｜ABOUT フクダ電子 https://www.fukuda.co.jp > recruit > new > about > strength",
+    "url": "https://www.fukuda.co.jp/recruit/new/about/strength.html",
+    "pass": 3
+   },
+   {
+    "quote": "フクダ電子 | 医療機器の開発・製造・販売 — フクダ電子 | 医療機器の開発・製造・販売 フクダ電子 https://www.fukuda.co.jp",
+    "url": "https://www.fukuda.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "フクダグループとは｜ABOUT｜ フクダ電子 採用情報 — フクダグループとは｜ABOUT｜ フクダ電子 採用情報 フクダ電子 https://www.fukuda.co.jp > recruit > new > about > aboutus",
+    "url": "https://www.fukuda.co.jp/recruit/new/about/aboutus.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 | フクダ電子 — IR情報 | フクダ電子 フクダ電子 https://www.fukuda.co.jp > ...",
+    "url": "https://www.fukuda.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "フクダ電子 （6960）のIR情報・ 決算資料 - IRBANK — フクダ電子 （6960）のIR情報・ 決算資料 - IRBANK IRBANK https://irbank.net > フクダ電子",
+    "url": "https://irbank.net/6960/ir",
+    "pass": 3
+   },
+   {
+    "quote": "【 フクダ電子 】[6960]IR情報 中期経営計画や 決算 短信 | 日経 ... — 【 フクダ電子 】[6960]IR情報 中期経営計画や 決算 短信 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=6960",
+    "pass": 3
+   },
+   {
+    "quote": "フクダ電子 【6960】のIR 資料 - バフェット・コード — フクダ電子 【6960】のIR 資料 - バフェット・コード バフェット・コード https://www.buffett-code.com > company > library",
+    "url": "https://www.buffett-code.com/company/6960/library",
+    "pass": 3
+   },
+   {
+    "quote": "フクダ電子 【6960】の企業情報 - キタイシホン — フクダ電子 【6960】の企業情報 - キタイシホン キタイシホン https://kitaishihon.com > company > top",
+    "url": "https://kitaishihon.com/company/6960/top",
+    "pass": 3
+   },
+   {
+    "quote": "フクダ電子 【6960】の 事業 内容 - キタイシホン — フクダ電子 【6960】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/6960/business",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - フクダ電子 — 会社概要 - フクダ電子 フクダ電子 https://www.fukuda.co.jp > 会社情報",
+    "url": "https://www.fukuda.co.jp/company/information.html",
+    "pass": 3
+   },
+   {
+    "quote": "役員一覧 - フクダ電子 — 役員一覧 - フクダ電子 フクダ電子 https://www.fukuda.co.jp > 会社情報",
+    "url": "https://www.fukuda.co.jp/company/officer.html",
+    "pass": 3
+   },
+   {
+    "quote": "沿革 - フクダ電子 — 沿革 - フクダ電子 フクダ電子 https://www.fukuda.co.jp > 会社情報",
+    "url": "https://www.fukuda.co.jp/company/history/",
+    "pass": 3
+   },
+   {
+    "quote": "【役員 インタビュー 】SHIROI QUALITY－医療機器メーカー ... — 【役員 インタビュー 】SHIROI QUALITY－医療機器メーカー ... フクダ電子 https://www.fukuda.co.jp > 会社情報 > FUKUDA BEAT",
+    "url": "https://www.fukuda.co.jp/company/interview/260525-02.html",
+    "pass": 3
+   },
+   {
+    "quote": "【役員 インタビュー 】新棟の本格稼働で治療機器の生産を開始 ... — 【役員 インタビュー 】新棟の本格稼働で治療機器の生産を開始 ... フクダ電子 https://www.fukuda.co.jp > 会社情報 > FUKUDA BEAT",
+    "url": "https://www.fukuda.co.jp/company/interview/260525-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "成功実績紹介｜医院開業支援 - フクダ電子 — 成功実績紹介｜医院開業支援 - フクダ電子 フクダ電子 https://www.fukuda.co.jp > medical > practice > interview",
+    "url": "https://www.fukuda.co.jp/medical/practice/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "FUKUDA BEAT－ フクダ グループのものづくり革新 — FUKUDA BEAT－ フクダ グループのものづくり革新 フクダ電子 https://www.fukuda.co.jp > 会社情報",
+    "url": "https://www.fukuda.co.jp/company/interview/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/6960/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/6960/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/6960/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/6960/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/6960/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/6960/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの事業に係わる位置付け及びセグメントとの関連は、次のとおりであります",
+    "url": "https://kitaishihon.com/company/6960/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://kitaishihon.com/company/6960/business",
+    "pass": 3
+   },
+   {
+    "quote": "構成比（％）",
+    "url": "https://kitaishihon.com/company/6960/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度のセグメント別売上高は、次のとおりであります",
+    "url": "https://kitaishihon.com/company/6960/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度における生産実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://kitaishihon.com/company/6960/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度における仕入実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://kitaishihon.com/company/6960/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度における販売実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://kitaishihon.com/company/6960/business",
+    "pass": 3
+   },
+   {
+    "quote": "d．セグメントごとの財政状態及び経営成績の状況に関する認識及び分析・検討内容",
+    "url": "https://kitaishihon.com/company/6960/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントごとの経営成績は、次のとおりであります",
+    "url": "https://kitaishihon.com/company/6960/business",
+    "pass": 3
+   },
+   {
+    "quote": "心電関連、自動血球計数装置、血圧脈波検査装置が減少し、連結売上高は269億43百万円（前年同期比5.6％減）、セグメント利益は43億76百万円（前年同期比8.5％減）となりました",
+    "url": "https://kitaishihon.com/company/6960/business",
+    "pass": 3
+   },
+   {
+    "quote": "モニタの連結売上高は93億10百万円（前年同期比4.8％減）、セグメント利益は17億２百万円（前年同期比0.9％増）となりました",
+    "url": "https://kitaishihon.com/company/6960/business",
+    "pass": 3
+   },
+   {
+    "quote": "在宅医療向けレンタル事業が伸長し、連結売上高は636億64百万円（前年同期比2.8％増）、セグメント利益は139億27百万円（前年同期比6.6％増）となりました",
+    "url": "https://kitaishihon.com/company/6960/business",
+    "pass": 3
+   },
+   {
+    "quote": "消耗品等部門の連結売上高は397億78百万円（前年同期比2.7％増）、セグメント利益は66億円（前年同期比4.1％増）となりました",
+    "url": "https://kitaishihon.com/company/6960/business",
+    "pass": 3
+   },
+   {
+    "quote": "（セグメント情報等）",
+    "url": "https://kitaishihon.com/company/6960/business",
+    "pass": 3
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://kitaishihon.com/company/6960/business",
+    "pass": 3
+   },
+   {
+    "quote": "１．報告セグメントの概要",
+    "url": "https://kitaishihon.com/company/6960/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの報告セグメントは、当社の構成単位のうち分離された財務情報が入手可能であり、取締役会が経営資源の配分の決定及び業績を評価するために、定期的に検討を行う対象となっているものであります",
+    "url": "https://kitaishihon.com/company/6960/business",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、当社は、本社部門を基礎とした製品・サービス別のセグメントから構成されており、「生体検査装置部門」、「生体情報モニター部門」、「治療装置部門」及び「消耗品等部門」の４つを報告セグメントとしております",
+    "url": "https://kitaishihon.com/company/6960/business",
+    "pass": 3
+   },
+   {
+    "quote": "２．報告セグメントごとの売上高、利益又は損失、資産、負債その他の項目の金額の算定方法",
+    "url": "https://kitaishihon.com/company/6960/business",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.fukuda.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fukuda.co.jp/info/inquiry.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fukuda.co.jp/aed/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fukuda.co.jp/company/information.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fukuda.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fukuda.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fukuda.co.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fukuda.co.jp/ir/data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fukuda.co.jp/ir/finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fukuda.co.jp/ir/faq.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fukuda.co.jp/company/interview/260525-02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/tCOM+.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/pc4000.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/cap35.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/md300c22.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/pm10n.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fukuda.co.jp/medical/products/respiratory-care/n-bsj.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fukuda.co.jp/aed/about/info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fukuda.co.jp/aed/about/howtouse/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fukuda.co.jp/aed/learn/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fukuda.co.jp/aed/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fukuda.co.jp/aed/about/info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fukuda.co.jp/aed/about/howtouse/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.fukuda.co.jp/aed/assets/images/about/howtouse/img_flow01_sp.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.fukuda.co.jp/aed/assets/images/about/howtouse/img_flow01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.fukuda.co.jp/aed/assets/images/about/howtouse/img_flow02_sp.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.fukuda.co.jp/aed/assets/images/about/howtouse/img_flow02.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.fukuda.co.jp/aed/assets/images/about/howtouse/img_flow03_sp.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.fukuda.co.jp/aed/assets/images/about/howtouse/img_flow03.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.fukuda.co.jp/aed/assets/images/about/howtouse/img_flow04.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.fukuda.co.jp/aed/assets/images/about/howtouse/img_flow05-1.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.com/seodoa_academy/n/n16d89a8b61b9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://irbank.net/6960/ir",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/6960/business",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "フクダ電子",
+   "results": [
+    "https://www.fukuda.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%AF%E3%83%80%E9%9B%BB%E5%AD%90",
+    "https://x.com/FukudaDenshi_jp",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=6960",
+    "https://ja.wikipedia.org/wiki/フクダ電子",
+    "https://www.fukuda.co.jp/company/information.html",
+    "https://finance.yahoo.co.jp/quote/6960.T",
+    "https://www.businesswire.com/news/home/20260518814558/ja",
+    "https://www.businesswire.com/news/home/20260614658740/ja",
+    "https://fukuda.com/"
+   ]
+  },
+  {
+   "query": "フクダ電子 ビジネスモデル",
+   "results": [
+    "https://www.fukuda.co.jp/recruit/new/about/",
+    "https://note.com/seodoa_academy/n/n16d89a8b61b9",
+    "https://www.fukuda.co.jp/recruit/new/about/strength.html",
+    "https://www.fukuda.co.jp/",
+    "https://www.fukuda.co.jp/recruit/new/about/aboutus.html",
+    "https://job.mynavi.jp/27/pc/search/corp222350/outline.html",
+    "https://finance.biggo.jp/news/JP_6960.T_2026-05-22",
+    "https://www.fukuda.co.jp/recruit/new/people/",
+    "https://envalith.com/ja/companies/6960/overview",
+    "https://ja.wikipedia.org/wiki/フクダ電子"
+   ]
+  },
+  {
+   "query": "フクダ電子 決算説明資料",
+   "results": [
+    "https://www.fukuda.co.jp/ir/",
+    "https://irbank.net/6960/ir",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=6960",
+    "https://www.buffett-code.com/company/6960/library",
+    "https://kitaishihon.com/company/6960/top",
+    "https://edinetdb.jp/company/E02304/presentations/",
+    "https://irbank.net/69600/ir",
+    "https://edinetdb.jp/company/E02304/ir-docs/",
+    "https://finance.yahoo.co.jp/quote/6960.T/financials",
+    "https://www.fukuda.co.jp/ir/library/briefnote.html"
+   ]
+  },
+  {
+   "query": "フクダ電子 事業系統図",
+   "results": [
+    "https://kitaishihon.com/company/6960/business",
+    "https://www.fukuda.co.jp/company/information.html",
+    "https://www.fukuda.co.jp/",
+    "https://www.fukuda.co.jp/company/officer.html",
+    "https://www.fukuda.co.jp/company/history/",
+    "https://note.com/seodoa_academy/n/n16d89a8b61b9",
+    "https://www.fukuda.co.jp/ir/library/securities.html",
+    "https://www.fukuda.co.jp/company/me/",
+    "https://www.youtube.com/watch?v=y9NK327TKWU",
+    "https://ja.wikipedia.org/wiki/フクダ電子"
+   ]
+  },
+  {
+   "query": "フクダ電子 社長 インタビュー",
+   "results": [
+    "https://www.fukuda.co.jp/company/interview/260525-02.html",
+    "https://www.fukuda.co.jp/company/interview/260525-01.html",
+    "https://www.fukuda.co.jp/medical/practice/interview/",
+    "https://www.fukuda.co.jp/company/interview/",
+    "https://www.instagram.com/reel/DRTSuZzExp8/",
+    "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%AF%E3%83%80%E9%9B%BB%E5%AD%90",
+    "https://kitaishihon.com/company/6960/board-of-director",
+    "https://www.fukuda.co.jp/recruit/new/people/interview01.html",
+    "https://www.nikkei.com/article/DGXZQOUC316RF0R30C26A7000000/",
+    "https://research.nalalys.com/cases/2026-06-fukuda-daisanshaiinkai"
+   ]
+  }
+ ],
+ "missing": {}
+}

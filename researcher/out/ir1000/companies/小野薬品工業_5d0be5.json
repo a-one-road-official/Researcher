@@ -1,0 +1,1849 @@
+{
+ "name": "小野薬品工業",
+ "aliases": [],
+ "context": "証券コード4528／医薬品／プライム（内国株式）／2026.03期 売上高515,785百万円 営業利益率17.9%",
+ "researched_at": "2026-11-02T18:13:33.353497+00:00",
+ "official_url": "https://www.ono-pharma.com/",
+ "identified_by": "search:yahoo_jp:小野薬品工業",
+ "profile": {
+  "売上高": [
+   {
+    "label": "売上収益（億円）",
+    "value": "3,614 4,472 5,027 4,869 4,900 売上収益年平均成長率 ※ 1桁台後半",
+    "url": "https://www.ono-pharma.com/ja/ir/policy/financial_strategy",
+    "pass": 1
+   },
+   {
+    "label": "営業利益率（対売上収益）（％）",
+    "value": "28.6 31.7 31.8 12.3 17.3 25％以上を維持",
+    "url": "https://www.ono-pharma.com/ja/ir/policy/financial_strategy",
+    "pass": 1
+   },
+   {
+    "label": "研究開発費率（対売上収益）（％）",
+    "value": "21 21.3 22.3 30.8 30.6 20～25％",
+    "url": "https://www.ono-pharma.com/ja/ir/policy/financial_strategy",
+    "pass": 1
+   },
+   {
+    "label": "売上収益",
+    "value": "127,536 116,160 △11,376 △8.9％",
+    "url": "https://www.ono-pharma.com/ja/ir/overview",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "連結: 4868.71億円 (2025/3月期)",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "設立": [
+   {
+    "label": "創業",
+    "value": "享保2年（1717年）",
+    "url": "https://www.ono-pharma.com/ja/company/about/outline",
+    "pass": 1
+   },
+   {
+    "label": "会社設立",
+    "value": "昭和22年（1947年）",
+    "url": "https://www.ono-pharma.com/ja/company/about/outline",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1947年 （ 昭和 22年） 7月4日 （日本理化学工業株式会社）",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "3,396名（単体ベース） 4,206名（連結ベース）",
+    "url": "https://www.ono-pharma.com/ja/company/about/outline",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "連結：4,287名 単体：3,464名 （2025年3月31日現在）",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "医薬品の研究開発、製造販売",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "お金の形": [
+   {
+    "quote": "ライセンス活動",
+    "url": "https://www.ono-pharma.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動トップ",
+    "url": "https://www.ono-pharma.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "米国Biohaven社と、日本、韓国、台湾、ASEAN諸国における「IgG分解薬」アセットの開発と商業化に関する独占ライセンス契約を締結",
+    "url": "https://www.ono-pharma.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動",
+    "url": "https://www.ono-pharma.com/ja/company",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動トップ",
+    "url": "https://www.ono-pharma.com/ja/company",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動",
+    "url": "https://www.ono-pharma.com/ja/company/strengths_characteristics",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動トップ",
+    "url": "https://www.ono-pharma.com/ja/company/strengths_characteristics",
+    "pass": 1
+   },
+   {
+    "quote": "現在も、世界のトップサイエンティスト、バイオベンチャー、製薬企業と連携し、革新的な新薬候補の創製や積極的なライセンス活動を推進しています",
+    "url": "https://www.ono-pharma.com/ja/company/strengths_characteristics",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動",
+    "url": "https://www.ono-pharma.com/ja/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動トップ",
+    "url": "https://www.ono-pharma.com/ja/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動",
+    "url": "https://www.ono-pharma.com/ja/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動トップ",
+    "url": "https://www.ono-pharma.com/ja/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動",
+    "url": "https://www.ono-pharma.com/ja/ir/policy/financial_strategy",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動トップ",
+    "url": "https://www.ono-pharma.com/ja/ir/policy/financial_strategy",
+    "pass": 1
+   },
+   {
+    "quote": "それらの強化はグローバルでのライセンス導入 における交渉力の強化にもつながっています",
+    "url": "https://www.ono-pharma.com/ja/ir/policy/financial_strategy",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動",
+    "url": "https://www.ono-pharma.com/ja/company/history/300th",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動トップ",
+    "url": "https://www.ono-pharma.com/ja/company/history/300th",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動の強化",
+    "url": "https://www.ono-pharma.com/ja/company/history/300th",
+    "pass": 1
+   },
+   {
+    "quote": "2002（平成14）年の「オノアクト」上市以降、自社創製化合物の開発中止が相次ぎ、厳しい状況に直面しましたが、自社創製化合物の開発に加え、開発パイプライン拡充、そして製品ラインナップ充実のためにライセンス活動を強化しました",
+    "url": "https://www.ono-pharma.com/ja/company/history/300th",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動",
+    "url": "https://www.ono-pharma.com/ja/company/about/outline",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動トップ",
+    "url": "https://www.ono-pharma.com/ja/company/about/outline",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動",
+    "url": "https://www.ono-pharma.com/ja/company/about/officer",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動トップ",
+    "url": "https://www.ono-pharma.com/ja/company/about/officer",
+    "pass": 1
+   },
+   {
+    "quote": "執行役員 ／ 事業戦略統括部長 兼 ライセンス部長 兼 事業開発部長",
+    "url": "https://www.ono-pharma.com/ja/company/about/officer",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動",
+    "url": "https://www.ono-pharma.com/ja/company/about/office",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動トップ",
+    "url": "https://www.ono-pharma.com/ja/company/about/office",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動",
+    "url": "https://www.ono-pharma.com/ja/company/about/products",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動トップ",
+    "url": "https://www.ono-pharma.com/ja/company/about/products",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動",
+    "url": "https://www.ono-pharma.com/ja/ir/library/pipeline",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動トップ",
+    "url": "https://www.ono-pharma.com/ja/ir/library/pipeline",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動",
+    "url": "https://www.ono-pharma.com/ja/ir",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動トップ",
+    "url": "https://www.ono-pharma.com/ja/ir",
+    "pass": 1
+   },
+   {
+    "quote": "米国Biohaven社と、日本、韓国、台湾、ASEAN諸国における「IgG分解薬」アセットの開発と商業化に関する独占ライセンス契約を締結",
+    "url": "https://www.ono-pharma.com/ja/ir",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動",
+    "url": "https://www.ono-pharma.com/ja/ir/policy",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動トップ",
+    "url": "https://www.ono-pharma.com/ja/ir/policy",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動",
+    "url": "https://www.ono-pharma.com/ja/ir/financial_highlights",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動トップ",
+    "url": "https://www.ono-pharma.com/ja/ir/financial_highlights",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動",
+    "url": "https://www.ono-pharma.com/ja/ir/overview",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動トップ",
+    "url": "https://www.ono-pharma.com/ja/ir/overview",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動",
+    "url": "https://www.ono-pharma.com/ja/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動トップ",
+    "url": "https://www.ono-pharma.com/ja/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動",
+    "url": "https://www.ono-pharma.com/ja/ir/stock",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動トップ",
+    "url": "https://www.ono-pharma.com/ja/ir/stock",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動",
+    "url": "https://www.ono-pharma.com/ja/ir/individual_investor",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動トップ",
+    "url": "https://www.ono-pharma.com/ja/ir/individual_investor",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動",
+    "url": "https://www.ono-pharma.com/ja/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動トップ",
+    "url": "https://www.ono-pharma.com/ja/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動",
+    "url": "https://www.ono-pharma.com/ja/ir/dialogue",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動トップ",
+    "url": "https://www.ono-pharma.com/ja/ir/dialogue",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動",
+    "url": "https://www.ono-pharma.com/ja/ir/faq",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動トップ",
+    "url": "https://www.ono-pharma.com/ja/ir/faq",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動",
+    "url": "https://www.ono-pharma.com/ja/ir/mail",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動トップ",
+    "url": "https://www.ono-pharma.com/ja/ir/mail",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動",
+    "url": "https://www.ono-pharma.com/ja/ir/library/financial_results",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動トップ",
+    "url": "https://www.ono-pharma.com/ja/ir/library/financial_results",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動",
+    "url": "https://www.ono-pharma.com/ja/ir/library/presentations",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス活動トップ",
+    "url": "https://www.ono-pharma.com/ja/ir/library/presentations",
+    "pass": 1
+   },
+   {
+    "quote": "医療機関や学術研究機関との共同研究だけでなく、海外の製薬企業ともライセンス契約や共同開発契約を結ぶことで、研究成果や販売チャネルを相互に活用しています",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%B8%E6%8C%91%E3%82%80%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品の販売収益が中心ですが、共同開発先やライセンス契約から得られるマイルストーン収益やロイヤリティ収入も重要な柱です",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%B8%E6%8C%91%E3%82%80%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "また、新薬を開発する過程で海外企業と提携することが多いため、契約形態によってはライセンス収入が安定収益を支えるケースもあります",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%B8%E6%8C%91%E3%82%80%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "小野薬品の特徴・強み",
+    "url": "https://www.ono-pharma.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "小野薬品の特徴・強みを知る",
+    "url": "https://www.ono-pharma.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "小野薬品の特徴・強み",
+    "url": "https://www.ono-pharma.com/ja/company",
+    "pass": 1
+   },
+   {
+    "quote": "「小野薬品の特徴・強み」について詳しく見る",
+    "url": "https://www.ono-pharma.com/ja/company",
+    "pass": 1
+   },
+   {
+    "quote": "小野薬品の特徴・強み | 小野薬品について | 小野薬品工業株式会社",
+    "url": "https://www.ono-pharma.com/ja/company/strengths_characteristics",
+    "pass": 1
+   },
+   {
+    "quote": "小野薬品の特徴・強み",
+    "url": "https://www.ono-pharma.com/ja/company/strengths_characteristics",
+    "pass": 1
+   },
+   {
+    "quote": "小野薬品の特徴・強み",
+    "url": "https://www.ono-pharma.com/ja/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "小野薬品の特徴・強み",
+    "url": "https://www.ono-pharma.com/ja/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "小野薬品の特徴・強み",
+    "url": "https://www.ono-pharma.com/ja/ir/policy/financial_strategy",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度は、米国のがん領域に強みを持つデサイフェラ社の買収を通じて、成長ドライバーとしての地理的多様化とビジネスモデルの拡張を実現しました",
+    "url": "https://www.ono-pharma.com/ja/ir/policy/financial_strategy",
+    "pass": 1
+   },
+   {
+    "quote": "営業利益率（対売上収益）（％）",
+    "url": "https://www.ono-pharma.com/ja/ir/policy/financial_strategy",
+    "pass": 1
+   },
+   {
+    "quote": "小野薬品の特徴・強み",
+    "url": "https://www.ono-pharma.com/ja/company/history/300th",
+    "pass": 1
+   },
+   {
+    "quote": "小野薬品の特徴・強み",
+    "url": "https://www.ono-pharma.com/ja/company/about/outline",
+    "pass": 1
+   },
+   {
+    "quote": "小野薬品の特徴・強み",
+    "url": "https://www.ono-pharma.com/ja/company/about/officer",
+    "pass": 1
+   },
+   {
+    "quote": "小野薬品の特徴・強み",
+    "url": "https://www.ono-pharma.com/ja/company/about/office",
+    "pass": 1
+   },
+   {
+    "quote": "小野薬品の特徴・強み",
+    "url": "https://www.ono-pharma.com/ja/company/about/products",
+    "pass": 1
+   },
+   {
+    "quote": "小野薬品の特徴・強み",
+    "url": "https://www.ono-pharma.com/ja/ir/library/pipeline",
+    "pass": 1
+   },
+   {
+    "quote": "小野薬品の特徴・強み",
+    "url": "https://www.ono-pharma.com/ja/ir",
+    "pass": 1
+   },
+   {
+    "quote": "小野薬品の特徴・強み",
+    "url": "https://www.ono-pharma.com/ja/ir/policy",
+    "pass": 1
+   },
+   {
+    "quote": "小野薬品の特徴・強み",
+    "url": "https://www.ono-pharma.com/ja/ir/financial_highlights",
+    "pass": 1
+   },
+   {
+    "quote": "小野薬品の特徴・強み",
+    "url": "https://www.ono-pharma.com/ja/ir/overview",
+    "pass": 1
+   },
+   {
+    "quote": "小野薬品の特徴・強み",
+    "url": "https://www.ono-pharma.com/ja/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "小野薬品の特徴・強み",
+    "url": "https://www.ono-pharma.com/ja/ir/stock",
+    "pass": 1
+   },
+   {
+    "quote": "小野薬品の特徴・強み",
+    "url": "https://www.ono-pharma.com/ja/ir/individual_investor",
+    "pass": 1
+   },
+   {
+    "quote": "小野薬品の特徴・強み",
+    "url": "https://www.ono-pharma.com/ja/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "小野薬品の特徴・強み",
+    "url": "https://www.ono-pharma.com/ja/ir/dialogue",
+    "pass": 1
+   },
+   {
+    "quote": "小野薬品の特徴・強み",
+    "url": "https://www.ono-pharma.com/ja/ir/faq",
+    "pass": 1
+   },
+   {
+    "quote": "小野薬品の特徴・強み",
+    "url": "https://www.ono-pharma.com/ja/ir/mail",
+    "pass": 1
+   },
+   {
+    "quote": "小野薬品の特徴・強み",
+    "url": "https://www.ono-pharma.com/ja/ir/library/financial_results",
+    "pass": 1
+   },
+   {
+    "quote": "小野薬品の特徴・強み",
+    "url": "https://www.ono-pharma.com/ja/ir/library/presentations",
+    "pass": 1
+   },
+   {
+    "quote": "特許期間内に高収益を確保し、その後のバイオシミラー登場に備えてポートフォリオを拡充します",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%B8%E6%8C%91%E3%82%80%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "創薬や製造技術に強みを持つ一方、主力製品への依存リスクをいかに低減しながら新たな収益源を確保するかが、今後の成長戦略の成否を左右するでしょう",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%B8%E6%8C%91%E3%82%80%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "企業概要と最近の業績ラクオリア創薬株式会社【全体の業績】ラクオリア創薬株式会社は、ファイザーの日本研究開発部門を前身とし、イオンチャネルやGタンパク質共役受容体（GPCR）などを標的とした低分子創薬を強みとする創薬バイオベンチャーです",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%B8%E6%8C%91%E3%82%80%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "もちろん300 年もの歴史を持つというのは強みではありますが、グローバル展開をするに当たって、いつまでもこのトラディショナルな日本企業の良さに安住していていいのだろうか、そのように感じてきました",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "Deciphera社の強み・魅力",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "Deciphera社の強みは、上市品QINLOCKに加え、Vimseltinibが上市されるとがん領域で二つの製品を持つ可能性がある点",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "両社の強みを活かし、がん領域でのプレゼンス向上、グローバルでの開発・販売強化、継続的なパイプライン拡充、新たなイノベーション創出を目指す",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "小野薬品の抗CD47抗体は、開発が先行しておりデータ量が豊富であること、また抗PD-1/PD-L1抗体との併用を考えた場合にオプジーボの豊富なデータを持っていることが強みであると説明された",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "こうしたパイプライン開発の実績と海外勤務の経験を強みにできると考えています",
+    "url": "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/031000532/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2027年3月期 第2四半期決算短信を株主・投資家の皆さまへのサイトに掲載しました",
+    "url": "https://www.ono-pharma.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期 決算説明会のスクリプトをウェブサイトに掲載しました",
+    "url": "https://www.ono-pharma.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期 決算説明会のスクリプトをウェブサイトに掲載しました",
+    "url": "https://www.ono-pharma.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 小野薬品について | 小野薬品工業株式会社",
+    "url": "https://www.ono-pharma.com/ja/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度は、米国のがん領域に強みを持つデサイフェラ社の買収を通じて、成長ドライバーとしての地理的多様化とビジネスモデルの拡張を実現しました",
+    "url": "https://www.ono-pharma.com/ja/ir/policy/financial_strategy",
+    "pass": 1
+   },
+   {
+    "quote": "2027年度にはデサイフェラ社の黒字化を見込んでおり、買収の成功が企業価値全体の向上に直結する取り組みを進めています",
+    "url": "https://www.ono-pharma.com/ja/ir/policy/financial_strategy",
+    "pass": 1
+   },
+   {
+    "quote": "2027年度の黒字化を見込み、中長期の成長エンジンとして期待",
+    "url": "https://www.ono-pharma.com/ja/ir/policy/financial_strategy",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度に向け複数品目が開発最終段階に",
+    "url": "https://www.ono-pharma.com/ja/ir/policy/financial_strategy",
+    "pass": 1
+   },
+   {
+    "quote": "2021年度実績",
+    "url": "https://www.ono-pharma.com/ja/ir/policy/financial_strategy",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度実績",
+    "url": "https://www.ono-pharma.com/ja/ir/policy/financial_strategy",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度実績",
+    "url": "https://www.ono-pharma.com/ja/ir/policy/financial_strategy",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度実績",
+    "url": "https://www.ono-pharma.com/ja/ir/policy/financial_strategy",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度予想",
+    "url": "https://www.ono-pharma.com/ja/ir/policy/financial_strategy",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度目標",
+    "url": "https://www.ono-pharma.com/ja/ir/policy/financial_strategy",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度以降も政策保有株式の削減を進め、成長投資に資本を振り分けることで企業価値向上に取り組みます",
+    "url": "https://www.ono-pharma.com/ja/ir/policy/financial_strategy",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度の株主資本コストは7%程度と推定しており、これに対するROE(自己資本利益率)は8.5%でした",
+    "url": "https://www.ono-pharma.com/ja/ir/policy/financial_strategy",
+    "pass": 1
+   },
+   {
+    "quote": "2020年度",
+    "url": "https://www.ono-pharma.com/ja/ir/policy/financial_strategy",
+    "pass": 1
+   },
+   {
+    "quote": "2021年度",
+    "url": "https://www.ono-pharma.com/ja/ir/policy/financial_strategy",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度",
+    "url": "https://www.ono-pharma.com/ja/ir/policy/financial_strategy",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://www.ono-pharma.com/ja/ir/policy/financial_strategy",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.ono-pharma.com/ja/ir/policy/financial_strategy",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.ono-pharma.com/ja/ir/policy/financial_strategy",
+    "pass": 1
+   },
+   {
+    "quote": "創業300年の歩み | 沿革 | 小野薬品について | 小野薬品工業株式会社",
+    "url": "https://www.ono-pharma.com/ja/company/history/300th",
+    "pass": 1
+   },
+   {
+    "quote": "1979年、ベルグストローム教授から小野雄造宛に送られた手紙には「”ONO-glandin”の将来性は、あたかも月が照らしているかのように輝いているなぁ」と記されていた",
+    "url": "https://www.ono-pharma.com/ja/company/history/300th",
+    "pass": 1
+   },
+   {
+    "quote": "1967年、京都大学の早石修教授を首班とする「第一回PG研究会」において、小野雄造は次のように述べました",
+    "url": "https://www.ono-pharma.com/ja/company/history/300th",
+    "pass": 1
+   },
+   {
+    "quote": "昭和22年（1947年）",
+    "url": "https://www.ono-pharma.com/ja/company/about/outline",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月29日現在の当社の開発品の主な進捗状況をご覧いただけます",
+    "url": "https://www.ono-pharma.com/ja/ir/library/pipeline",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月29日現在",
+    "url": "https://www.ono-pharma.com/ja/ir/library/pipeline",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期決算短信を株主・投資家の皆さまへのサイトに掲載しました",
+    "url": "https://www.ono-pharma.com/ja/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期",
+    "url": "https://www.ono-pharma.com/ja/ir/overview",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期",
+    "url": "https://www.ono-pharma.com/ja/ir/overview",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期",
+    "url": "https://www.ono-pharma.com/ja/ir/overview",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期 機関投資家/アナリスト向け決算説明会",
+    "url": "https://www.ono-pharma.com/ja/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期決算発表",
+    "url": "https://www.ono-pharma.com/ja/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期 機関投資家/アナリスト向け決算説明会",
+    "url": "https://www.ono-pharma.com/ja/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算発表",
+    "url": "https://www.ono-pharma.com/ja/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 機関投資家/アナリスト向け決算説明会",
+    "url": "https://www.ono-pharma.com/ja/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算発表",
+    "url": "https://www.ono-pharma.com/ja/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期 機関投資家/アナリスト向け決算説明会",
+    "url": "https://www.ono-pharma.com/ja/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期決算発表",
+    "url": "https://www.ono-pharma.com/ja/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第2四半期 機関投資家/アナリスト向け決算説明会",
+    "url": "https://www.ono-pharma.com/ja/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第2四半期決算発表",
+    "url": "https://www.ono-pharma.com/ja/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第1四半期 機関投資家/アナリスト向け決算説明会",
+    "url": "https://www.ono-pharma.com/ja/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第1四半期決算発表",
+    "url": "https://www.ono-pharma.com/ja/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 機関投資家/アナリスト/メディア向け決算説明会",
+    "url": "https://www.ono-pharma.com/ja/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 決算発表",
+    "url": "https://www.ono-pharma.com/ja/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第3四半期 機関投資家/アナリスト向け決算説明会",
+    "url": "https://www.ono-pharma.com/ja/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第3四半期決算発表",
+    "url": "https://www.ono-pharma.com/ja/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第2四半期 機関投資家/アナリスト向け決算説明会",
+    "url": "https://www.ono-pharma.com/ja/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第2四半期決算発表",
+    "url": "https://www.ono-pharma.com/ja/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第1四半期 機関投資家/アナリスト向け決算説明会",
+    "url": "https://www.ono-pharma.com/ja/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第1四半期決算発表",
+    "url": "https://www.ono-pharma.com/ja/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 機関投資家/アナリスト向け決算説明会",
+    "url": "https://www.ono-pharma.com/ja/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 決算発表",
+    "url": "https://www.ono-pharma.com/ja/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第3四半期 機関投資家/アナリスト向け決算説明会",
+    "url": "https://www.ono-pharma.com/ja/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第3四半期決算発表",
+    "url": "https://www.ono-pharma.com/ja/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第2四半期 機関投資家/アナリスト向け決算説明会",
+    "url": "https://www.ono-pharma.com/ja/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度",
+    "url": "https://www.ono-pharma.com/ja/ir/dialogue",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://www.ono-pharma.com/ja/ir/dialogue",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.ono-pharma.com/ja/ir/dialogue",
+    "pass": 1
+   }
+  ],
+  "何を": [
+   {
+    "quote": "誰も手を付けなかった不安定な物質「プロスタグランジン」の製品化に挑み、12の世界初の医薬品を創出",
+    "url": "https://www.ono-pharma.com/ja/company/strengths_characteristics",
+    "pass": 1
+   },
+   {
+    "quote": "買収時のデサイフェラ社は、グローバルにおいて製品の販売実績を持ち、欧米にて承認申請中の新薬候補を1つ、さらに開発中の新薬候補を3つ保有していました",
+    "url": "https://www.ono-pharma.com/ja/ir/policy/financial_strategy",
+    "pass": 1
+   },
+   {
+    "quote": "そのため、既存製品の価値最大化で確保した原資をもとに、外部からの医薬品候補や技術の導入を積極的に行うとともに、自社での研究開発を強力に進めています",
+    "url": "https://www.ono-pharma.com/ja/ir/policy/financial_strategy",
+    "pass": 1
+   },
+   {
+    "quote": "これらについて、自らグローバルでの臨床試験を実施し、承認を得て、市場規模の大きい欧米において製品価値の最大化を図ります",
+    "url": "https://www.ono-pharma.com/ja/ir/policy/financial_strategy",
+    "pass": 1
+   },
+   {
+    "quote": "相次ぐ新製品の発売に伴い、営業所も拡充",
+    "url": "https://www.ono-pharma.com/ja/company/history/300th",
+    "pass": 1
+   },
+   {
+    "quote": "現在も、生命関連商品を取り扱う企業として安全監視体制を構築し、医薬品の安全性・信頼性の保証、向上に継続的に取り組んでおります",
+    "url": "https://www.ono-pharma.com/ja/company/history/300th",
+    "pass": 1
+   },
+   {
+    "quote": "プロスタグランジン製品を発売",
+    "url": "https://www.ono-pharma.com/ja/company/history/300th",
+    "pass": 1
+   },
+   {
+    "quote": "広がる自社創製品",
+    "url": "https://www.ono-pharma.com/ja/company/history/300th",
+    "pass": 1
+   },
+   {
+    "quote": "苦難の道を経て、多くのプロスタグランジン製品を世に出した小野薬品",
+    "url": "https://www.ono-pharma.com/ja/company/history/300th",
+    "pass": 1
+   },
+   {
+    "quote": "2002（平成14）年の「オノアクト」上市以降、自社創製化合物の開発中止が相次ぎ、厳しい状況に直面しましたが、自社創製化合物の開発に加え、開発パイプライン拡充、そして製品ラインナップ充実のためにライセンス活動を強化しました",
+    "url": "https://www.ono-pharma.com/ja/company/history/300th",
+    "pass": 1
+   },
+   {
+    "quote": "城東製品開発センター",
+    "url": "https://www.ono-pharma.com/ja/company/about/office",
+    "pass": 1
+   },
+   {
+    "quote": "主要製品 | 会社案内 | 小野薬品について | 小野薬品工業株式会社",
+    "url": "https://www.ono-pharma.com/ja/company/about/products",
+    "pass": 1
+   },
+   {
+    "quote": "製品名（開発コード）",
+    "url": "https://www.ono-pharma.com/ja/ir/library/pipeline",
+    "pass": 1
+   },
+   {
+    "quote": "国内製品商品売上",
+    "url": "https://www.ono-pharma.com/ja/ir/overview",
+    "pass": 1
+   },
+   {
+    "quote": "国内製品商品売上は前年同期比260億円（35.0％）減収の481億円となりました",
+    "url": "https://www.ono-pharma.com/ja/ir/overview",
+    "pass": 1
+   },
+   {
+    "quote": "海外製品商品売上",
+    "url": "https://www.ono-pharma.com/ja/ir/overview",
+    "pass": 1
+   },
+   {
+    "quote": "海外製品商品売上は前年同期比61億円（44.8％）増収の198億円となりました",
+    "url": "https://www.ono-pharma.com/ja/ir/overview",
+    "pass": 1
+   },
+   {
+    "quote": "・欧米市場における主要製品の売り上げ拡大「QINLOCK」「ROMVIMZA」",
+    "url": "https://www.ono-pharma.com/ja/ir/dialogue",
+    "pass": 1
+   },
+   {
+    "quote": "・パテントクリフ後を見据えて、グローバル製品を中心に中長期的な売上想定および発売予定時期を開示した",
+    "url": "https://www.ono-pharma.com/ja/ir/dialogue",
+    "pass": 1
+   },
+   {
+    "quote": "・マネジメントとの対話機会を増やした（海外カンファレンスにおけるCOOプレゼンテーション、Deciphera社マネジメントによる製品の説明会など）",
+    "url": "https://www.ono-pharma.com/ja/ir/dialogue",
+    "pass": 1
+   },
+   {
+    "quote": "また、Eメールアドレスをご登録いただいた方へ、ニュースリリースやその他のお知らせなどの最新情報をEメールでお知らせするサービスもございます",
+    "url": "https://www.ono-pharma.com/ja/ir/faq",
+    "pass": 1
+   },
+   {
+    "quote": "IRメールは、Eメールアドレスをご登録いただいた方へ、ニュースリリース、その他のお知らせなどの最新情報を、Eメールでお知らせするサービスです",
+    "url": "https://www.ono-pharma.com/ja/ir/mail",
+    "pass": 1
+   },
+   {
+    "quote": "これは、大型化した製品の売上原価率の上昇や、将来の成長に向けた研究開発費および販売費及び一般管理費の増加によるものです",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%B8%E6%8C%91%E3%82%80%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "また、新薬開発には膨大なコストがかかる一方で、成功すれば高い付加価値を生み出せるビジネス構造のため、患者さんのニーズに合った革新的製品を提供する意義が大きいのです",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%B8%E6%8C%91%E3%82%80%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "特に新薬の特許取得により、独占的に製品を販売できる期間は企業の収益を安定化させる大きな要素となっています",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%B8%E6%8C%91%E3%82%80%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "また、学術的なエビデンスを積み上げるには大学や病院などとの共同研究が不可欠であり、そこで得られた知見をもとに製品の有効性や安全性を高められます",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%B8%E6%8C%91%E3%82%80%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "医療従事者への情報提供を通じて製品理解を深めてもらい、医薬品卸を経由して病院やクリニックへ供給しています",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%B8%E6%8C%91%E3%82%80%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "医師や薬剤師と良好なコミュニケーションを築くことで、自社製品のポジショニングを理解してもらい、適正使用を促すことが可能となります",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%B8%E6%8C%91%E3%82%80%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "製品群を多様化することで、特定製品への依存リスクを軽減しようとする狙いもあるのです",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%B8%E6%8C%91%E3%82%80%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "研究成果をいかに効率よく製品化し、市場投入するかがコスト構造の最適化に直結するのです",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%B8%E6%8C%91%E3%82%80%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "創薬や製造技術に強みを持つ一方、主力製品への依存リスクをいかに低減しながら新たな収益源を確保するかが、今後の成長戦略の成否を左右するでしょう",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%B8%E6%8C%91%E3%82%80%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "ガラス・土石製品",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%B8%E6%8C%91%E3%82%80%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "石油・石炭製品",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%B8%E6%8C%91%E3%82%80%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "証券・商品先物取引業",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%B8%E6%8C%91%E3%82%80%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "主な製品の売上収益と予想、売上収益の内訳、地域別売上収益、開発パイプラインの進捗状況を掲載",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "補足情報（主な製品の売上収益と予想）",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "主要製品の売上実績と通期予想を掲載",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "売上収益の内訳は製品商品2,679億円、ロイヤルティ・その他1,292億円",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2031年までにグローバルで多数の新製品の上市を予定している",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "今後10年間の売上成長は、グローバル製品（キンロック、ロンビムザ、チラブルチニブ、Sapablursen、ONO-4578、ONO-2808等）と国内製品（ニボルマブ皮下注製剤、Povetacicept、セノバメート、Gel-One®等）の拡大によって牽引される",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "特に、デサイフェラ社とのシナジー発揮によるグローバル製品の売上拡大、自社創製品の発売・売上拡大、ライセンス品の導入が成長ドライバーとなる",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "国内ではオプジーボ以外の製品群の拡大も期待される",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "オプジーボクリフへの対応としてビジネスモデルの転換を進め、2024年6月には米デサイフェラ社を買収し、経験のなかったがん領域への挑戦とグローバル製品の売上拡大を図っている",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "今後は、グローバル製品の売上拡大（デサイフェラ社とのシナジー発揮）、自社創製品の発売・売上拡大、ライセンス品の導入などを通じてさらなる成長を目指す",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、こちらの三つ目、四つ目のマテリアリティ、「製品価値の最大化」、「事業ドメインの拡大」につきましては、変更なく、引き続き取り組んでまいります",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "こちらは、以前のマテリアリティとして掲げておりました「信頼性と安全性の確保」および「製品の安定供給」といった製薬企業としての責務を果たしていくとともに、こちらも以前は項目として挙げていた「人権の尊重」といった企業としての責務をいずれも果 てしていくことを包含して、「社会的信頼の向上」に集約しました",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "デシフェラ社の買収により、パイプライン強化、欧米での開発・販売力強化といった統合メリットを感じており、ROMVIMZAのアメリカでの承認も新たな製品フローとして勢いをもたらしている",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "主なパイプラインは、消化管間質腫瘍（GIST）を対象とするQINLOCK（4次治療、全世界40カ国以上で上市、早期治療ラインへの適応拡大検討中）と、腱滑膜巨細胞腫（TGCT）を対象とするVimseltinib（欧米での申請準備中、QINLOCKに続く2番目の製品として期待）",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "Deciphera社の強みは、上市品QINLOCKに加え、Vimseltinibが上市されるとがん領域で二つの製品を持つ可能性がある点",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "パイプライン創出では、独自の創薬プラットフォームにより、QINLOCK、Vimseltinib、早期臨床段階の3化合物を含め、がん領域で五つの製品もしくは化合物を創出した実績がある",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "ONOが元来持つパイプラインと合わせ、合計5つの製品・候補化合物となった",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "オプジーボのロイヤルティ低下や既存製品の特許切れを見据え、より早い時期に売上を計上できるパイプラインを外部から取得する必要がある",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "Deciphera社の文化は、イノベーションやニッチな製品を届ける点で小野薬品と似通っており、うまくやっていけると考えている",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "QINLOCK、Vimseltinib、早期3製品を含め、Deciphera社が独自に作り出した化合物の生産性が高いと感じている",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、オプジーボのロイヤルティ低下や糖尿病等製品の特許切れも段階的に進んでおり、オプジーボだけに照準を合わせたわけではない",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "特にCAR-TはOff-the-Shelf製品化を目指し、固形がんへの挑戦を進めています",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "製品の環境負荷低減",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "Fate Therapeutics社との提携によるiPS細胞CAR-T療法について、まだ臨床ステージには入っていないが、off-the-shelf製品として固形がんへの応用や複数回投与、遺伝子編集による殺細胞効果増強が期待されている",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "主なリスクとして新製品開発失敗、医療保険制度改革、競合品影響、知的財産侵害、自然災害、副作用発現、為替・金利変動を挙げている",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "販売している製品",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "歩みをご紹介します",
+    "url": "https://www.ono-pharma.com/ja/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2007（平成19）年の過活動膀胱治療剤「ステーブラ錠」、2009（平成21）年の骨粗鬆症治療剤「リカルボン錠」以降、国内外のパートナー会社から導入・新発売し、厳しい時期を乗り越えてきました",
+    "url": "https://www.ono-pharma.com/ja/company/history/300th",
+    "pass": 1
+   },
+   {
+    "quote": "役員紹介 | 会社案内 | 小野薬品について | 小野薬品工業株式会社",
+    "url": "https://www.ono-pharma.com/ja/company/about/officer",
+    "pass": 1
+   },
+   {
+    "quote": "田辺総合法律事務所パートナー弁護士",
+    "url": "https://www.ono-pharma.com/ja/company/about/officer",
+    "pass": 1
+   },
+   {
+    "quote": "こうしたパートナーシップを拡大することで、研究開発パイプラインの充実と市場展開のスピード向上を狙っています",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%B8%E6%8C%91%E3%82%80%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%B8%E6%8C%91%E3%82%80%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "ここからは、その三つに区分けしたカテゴリーごとに、また特にアップデートしたところを中心にポイントを紹介させていただきます",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "先ほど冒頭に、米欧での開発販売機能をデシフェラに集約することにつきましても紹介いたしましたけども、今後、まずデシフェラのQINLOCK とROMVIMZA、一般名はVimseltinib と申しておりましたが、この二つをより多くの患者さん、そしてグローバルに広く、速やかに届けていく",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "こちらの二つのマテリアリティ項目は、従来から変更はしておりませんが、それぞれ中長期の目指す姿だけ若干アップデートしている点についてご紹介します",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "これまでご紹介してきましたとおり、大きなカテゴリーとして、成長戦略、その成長戦略推進のた めの基盤、そして持続可能な社会の実現、こういった三つのカテゴリーに9 個のマテリアリティを集約して設定することで、新たなマテリアリティとすることといたしました",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "もう一つは、社長の滝野からもありましたように、当社のESG 特にサステナビリティ推進への取り組み、この点、現在地と今後のどういう方針で取り組んでいくかにつきまして、かいつまんでご紹介したいと思っています",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーシップ・提携",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "小野薬品工業は、2018年からGHIT Fundに参加し、低所得国の医療アクセス改善に向けたパートナーシップを強化しています",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "開発早期段階のプロジェクト紹介",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "本説明会では、小野薬品の将来を担う早期臨床開発品（フェーズI、II段階）が紹介された",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、ニューロロジー領域から4つのプロジェクト（ONO-2910、ONO-2909、ONO-2808、およびSK Biopharmaceuticals社から導入した抗てんかん薬ONO-2017）と、オンコロジー領域から1つのプロジェクト（ONO-4578）が紹介された",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "ONO-2909の基礎データについて、武田社のデータと比較してインパクトがマイルドに見えるという指摘に対し、本日紹介した基礎結果は異なるDP拮抗剤のデータであり、ONO-2909の未公表データも多いと説明された",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "今回紹介された4つの自社品が期待通りの有効性と安全性を確認し、上市できれば、オプジーボの特許切れ以降の貢献ポテンシャルはあると考えている",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "紹介化合物一覧",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "患者支援団体とのパートナーシップも重要である",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "外科医が患者を腫瘍専門医に紹介しやすくなり、患者自身もより良い選択肢を求めて腫瘍専門医に行く意欲が高まる",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "承認されれば、米国と同様に患者を外科医から腫瘍専門医に紹介する取り組みが必要となる",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "6月4日のR&D説明会で、6月のASCOにおけるチラブルチニブの発表を紹介する機会を設ける",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "SDGパートナーズ",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "私は20年以上にわたり医薬品の候補となる化合物を求め、有効性や事業価値を見極めながら評価し、パートナー企業とライセンス契約を結ぶという事業開発に携わってきました",
+    "url": "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/031000532/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜法律事務所・河浪潤パートナー 弁護士「多様な法務の専門家がチームで支援」",
+    "url": "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/031000532/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜法律事務所・河浪潤パートナー 弁護士「多様な法務の専門家がチームで支援」",
+    "url": "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/030900638/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "2024年度は、米国のがん領域に強みを持つデサイフェラ社の買収を通じて、成長ドライバーとしての地理的多様化とビジネスモデルの拡張を実現しました",
+    "url": "https://www.ono-pharma.com/ja/ir/policy/financial_strategy",
+    "pass": 1
+   },
+   {
+    "quote": "新時代へ挑む小野薬品工業のビジネスモデル徹底分析と成長戦略の鍵とは | チームマイクの企業分析",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%B8%E6%8C%91%E3%82%80%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "新時代へ挑む小野薬品工業のビジネスモデル徹底分析と成長戦略の鍵とは",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%B8%E6%8C%91%E3%82%80%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社サイフューズのビジネスモデルと成長戦略が光る魅力",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%B8%E6%8C%91%E3%82%80%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "革新的なビジネスモデルと成長戦略で目指す武田薬品工業のさらなる飛躍",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%B8%E6%8C%91%E3%82%80%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "新薬開発で注目を集めるラクオリア創薬のビジネスモデルと成長戦略を徹底解説",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%B8%E6%8C%91%E3%82%80%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルとIR資料を徹底解説 協和キリンの成長戦略を読み解く",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%B8%E6%8C%91%E3%82%80%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "カイオム・バイオサイエンスのビジネスモデルから見る成長戦略と今後の注目ポイント",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%B8%E6%8C%91%E3%82%80%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "久光製薬のビジネスモデルと成長戦略を徹底解説 今後のIR資料にも注目すべき理由",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%B8%E6%8C%91%E3%82%80%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "持田製薬の独創性が光るビジネスモデルと成長戦略を徹底解説する",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%B8%E6%8C%91%E3%82%80%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%B8%E6%8C%91%E3%82%80%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ドライケミカル株式会社の『ビジネスモデル』と圧倒的競争力を解",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%B8%E6%8C%91%E3%82%80%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社動力のIR資料から紐解く次世代へのビジネスモデルと成長戦略",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%B8%E6%8C%91%E3%82%80%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ガイシの驚異的なビジネスモデルと次世代へ向けた成長戦略を徹底解説",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%B8%E6%8C%91%E3%82%80%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "マーチャント・バンカーズの隠された成長戦略と驚異のビジネスモデル",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%B8%E6%8C%91%E3%82%80%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "オプジーボクリフへの対応としてビジネスモデルの転換を進め、2024年6月には米デサイフェラ社を買収し、経験のなかったがん領域への挑戦とグローバル製品の売上拡大を図っている",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "第3期（2027-2031年）では、「グローバルスペシャリティファーマの地位を確立し、世界の患者さんに新たな価値を届ける」ことを目指し、ビジネスモデルの転換への挑戦を続ける",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "質疑応答：セカンドラインにおける長期奏効患者とビジネスモデル",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "現在のフェーズは、国内を主戦場に海外ではライセンス事業を展開するビジネスモデルから脱却し、欧米でのグローバル開発・自社販売展開を進めている段階にあります",
+    "url": "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/031000532/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "顧客との関係",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%B8%E6%8C%91%E3%82%80%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客セグメント",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%B8%E6%8C%91%E3%82%80%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "主要顧客は国内外の病院やクリニックなどの医療機関、そこで働く医師や薬剤師を中心とし、最終的には患者さんが重要なステークホルダーとなります",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%B8%E6%8C%91%E3%82%80%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "また、特定疾患を対象とした医薬品は患者数が限定される場合もあるため、一つひとつの顧客セグメントを丁寧にサポートする必要があります",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%B8%E6%8C%91%E3%82%80%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "取引先と協力し健全なサプライチェーンを構築するため、エコバディス社のCSR評価システムを活用している",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年度は購買金額の86%に相当する取引先に対して調査を実施し、総合スコアの平均点が2.7点上昇した",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "顧客セグメント",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%B8%E6%8C%91%E3%82%80%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "また、特定疾患を対象とした医薬品は患者数が限定される場合もあるため、一つひとつの顧客セグメントを丁寧にサポートする必要があります",
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%B8%E6%8C%91%E3%82%80%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント情報は医薬品事業の単一セグメントのため省略",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "売上収益の構成比は、オプジーボが33%、デサイフェラ社が9%、小野薬品（韓国・台湾）が3%、ロイヤルティ・その他が33%となっている",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "事業セグメント",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "経営戦略 | 小野薬品について | 小野薬品工業株式会社 — 小野薬品工業のサステナビリティ 環境 社会 ガバナンス ステークホルダーエンゲージメント 社会貢献活動 ポリシー類 GRIスタンダード対照表 サステナビリティレポート ESGデータ集 外部からの評価 第三者保証 透明性ガイドライン CLOSE ECO VISION 2050 医療 ...",
+    "url": "https://www.ono-pharma.com/ja/company/strategy",
+    "pass": 3
+   },
+   {
+    "quote": "新時代へ挑む小野薬品工業のビジネスモデル徹底分析と成長戦略の鍵と... — Feb 4, 2025 · 企業概要と最近の業績小野薬品工業株式会社2025年3月期の連結業績は、売上収益が5,001億円となり、前の期に比べて8.8%の増収でした。この増収は、がん免疫治療薬「オプジーボ」のロイヤルティ収入が国内外で増加したことや、経口心不全治療薬「...",
+    "url": "https://consovation.com/新時代へ挑む小野薬品工業のビジネスモデル徹底/",
+    "pass": 3
+   },
+   {
+    "quote": "小野薬品工業（4528）は復活できるのか？オプジーボ後の成長戦略、新... — Aug 1, 2026 · 小野薬品工業（4528）を徹底分析。世界的ながん治療薬「オプジーボ」で成長した同社の収益構造、最新の事業戦略、新薬開発、海外展開を詳しく解説します。今後の株価上昇シナリオや下落リスク、投資家が注目すべきポイントまで初心者にもわかりやすく紹介します。",
+    "url": "https://kurabetter.com/archives/22413",
+    "pass": 3
+   },
+   {
+    "quote": "小野薬品の将来性｜デサイフェラ買収と脱オプジーボ依存の強みとリス...小野薬品工業株式会社 中期経営計画 — EDINET DB小野薬品工業株式会社 - 会社概要とSWOT分析/MarketLine/調査レポート... — Apr 13, 2026 · 小野薬品工業は2025年3月期に営業利益62.6%減の過渡期に。デサイフェラ買収とR&D1,500億円でオプジーボ依存脱却に挑む実像を、企業の公式データ（有報）で徹底解析。 Jul 13, 2026 · EDINET DB > 企業一覧 > 小野薬品工業株式会社 > IR資料 > 中期経営計画 小野薬品工業株式会社 — 中期経営計画 3〜5年程度の経営目標・重点戦略・財務目標を示す中期計画。 AIによる構造化データ・参考情報。 重要な判断には 元PDFをご確認ください。 サマリー 小野薬品工業株式会社 - 会社概要とSWOT分析 概要 小野",
+    "url": "https://www.choosenic.com/yuho-shukatsu-navi/articles/pharma/ono-pharma-yuho/",
+    "pass": 3
+   },
+   {
+    "quote": "小野薬品工業株式会社 中期経営計画 — EDINET DB — Jul 13, 2026 · EDINET DB > 企業一覧 > 小野薬品工業株式会社 > IR資料 > 中期経営計画 小野薬品工業株式会社 — 中期経営計画 3〜5年程度の経営目標・重点戦略・財務目標を示す中期計画。 AIによる構造化データ・参考情報。 重要な判断には 元PDFをご確認ください。",
+    "url": "https://edinetdb.jp/company/E00945/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリー | IR情報 | 小野薬品工業株式会社 — 小野薬品工業株式会社の「IRライブラリー」ページです。「病気と苦痛に対する人間の闘いのために」という企業理念のもと、医療ニーズの高い疾患領域に挑戦し、独創的かつ画期的な医薬品の創製に向けて努力を積み重ねています。",
+    "url": "https://www.ono-pharma.com/ja/ir/library",
+    "pass": 3
+   },
+   {
+    "quote": "小野薬品工業株式会社 決算説明資料 — EDINET DB — 小野薬品工業株式会社の決算説明資料を、AIで構造化されたセクション単位で表示。経営戦略・業績・ガバナンスなど ...",
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "小野薬品工業（4528）のIR情報・決算資料 - IRBANK — Jun 18, 2026 · 小野薬品工業（4528）のIR情報・適時開示一覧。決算発表、業績修正などの開示情報を掲載。",
+    "url": "https://irbank.net/4528/ir",
+    "pass": 3
+   },
+   {
+    "quote": "【小野薬品工業】決算（中間）2027年3月期｜売上4,550億円、利益は減... — 4 days ago · 小野薬品工業株式会社 2027年3月期の中間連結決算（コアベース）と連結業績予想を公表。売上高は4,550億円、前年同期比11.8％減、コア営業利益1,240億円（前期比9.6％減）、コア当期利益930億円（前期比10.1％減）。製品の売上は減少見込みだが、ロイヤルティ・その他は増加見込み。研究開発投資 ...",
+    "url": "https://japanir.jp/company/company-4528/ir/4528-20261029-02_wp_financial_summary/",
+    "pass": 3
+   },
+   {
+    "quote": "小野薬品工業 (株)【4528】：決算情報 - Yahoo!ファイナンス — 4 days ago · 小野薬品工業 (株)【4528】の決算短信を生成AIで要約した内容をご覧いただけます。Yahoo!ファイナンスでは株価速報、チャート、ランキング、ポートフォリオ、ニュース、掲示板など投資判断に役立つ情報を掲載しています。",
+    "url": "https://finance.yahoo.co.jp/quote/4528.T/financials",
+    "pass": 3
+   },
+   {
+    "quote": "小野薬品工業 - Wikipedia — 小野薬品ヘルスケア株式会社 - 機能性表示食品を開発 [10]。 小野薬品デジタルヘルス投資合同会社 - ヘルスケア分野のベンチャー企業への投資 [11] 株式会社michiteku - 医療およびヘルスケアに関する情報収集、情報処理および情報提供サービス等 [12]",
+    "url": "https://ja.wikipedia.org/wiki/小野薬品工業",
+    "pass": 3
+   },
+   {
+    "quote": "4528 小野薬品工業 | 有報資料 - 有価証券報告書-第76期 (2023/04/01-... — Apr 1, 2023 · ㈱michiteku ㈱OPhrs その他1社 なお、当社グループ並びに当社グループの関連会社の事業は医薬品事業の単一セグメントであるため、セグメント情報の記載を省略しております。 以上述べた事項を事業系統図によって示すと、次のとおりであります。",
+    "url": "https://irbank.net/E00945/business?f=S100TMQ7",
+    "pass": 3
+   },
+   {
+    "quote": "4528 小野薬品工業 | 有報資料 | IRBANK — ㈱michiteku Ono Global Reinsurance, Inc. その他2社 なお、当社グループ並びに当社グループの関連会社の事業は医薬品事業の単一セグメントであるため、セグメント情報の記載を省略しております。 以上述べた事項を事業系統図によって示すと、次のとおりであり ...",
+    "url": "https://irbank.net/E00945/business",
+    "pass": 3
+   },
+   {
+    "quote": "小野薬品工業株式会社 2024年3月期 【事業の内容】 — 【事業の内容】 当社および子会社(以下、当社グループ)、並びに当社グループの関連会社においては、医薬品部門に関係する事業を行っております。2024年3月31日現在において、子会社は14社、持分法適用関連会社は1社で構成されております。",
+    "url": "https://sustainability.ono-pharma.com/data/pdf/tax/2024/Business-Description-and-Information-on-Subsidiaries-and-Associates-2024_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 会社案内 | 小野薬品について | 小野薬品工業株式会社 — 小野薬品について About 小野薬品についてトップ CEO・COOメッセージ ミッションステートメント コーポレートスローガン「BREAK THROUGH」 小野薬品の特徴・強み 経営戦略 グローバル戦略 コーポレート・ガバナンス ポリシー類 沿革 会社案内 CM・動画情報 CLOSE CM ...",
+    "url": "https://www.ono-pharma.com/ja/company/about/outline",
+    "pass": 3
+   },
+   {
+    "quote": "小野薬品工業・滝野十一社長「新体制で真のグローバル企業へ」 — Mar 17, 2025 · 小野薬品工業 代表取締役社長COO ／ 1995年小野薬品工業入社。2009年オノ・ファーマ・ユーエスエー インク副社長、11年小野薬品工業執行役員、12年事業戦略本部長、19年研究本部長、同年6月常務執行役員、20年取締役常務執行役員、21年取締役専務執行役員を経て24年より現職（写真＝今 紀之）",
+    "url": "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/031000532/",
+    "pass": 3
+   },
+   {
+    "quote": "小野薬品工業・滝野十一社長「世界の医療に新たな価値を届ける」 | 日... — Mar 13, 2026 · 小野薬品工業 代表取締役社長COO ／ 1995年小野薬品工業入社。2009年オノ・ファーマ・ユーエスエーインク副社長、11年小野薬品工業執行役員、12年事業戦略本部長、19年研究本部長、同年6月常務執行役員、20年取締役常務執行役員、21年取締役専務執行役員を経て24年より現職（写真＝行友 重治）",
+    "url": "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/030900638/",
+    "pass": 3
+   },
+   {
+    "quote": "インタビュー・滝野十一 小野薬品工業社長COO | 医薬経済オンライン — 小野薬品は主力品であるがん免疫療法薬「オプジーボ」が今年9月に発売から10年を迎える。 節目となる年に、4月1日付で滝野十一社長が就任した。 ゆくゆくは経営課題となるオプジーボの特許切れに対応するため、グローバル化を推し進めていく。",
+    "url": "https://iyakukeizai.com/iyakukeizaiweb/detail/178534",
+    "pass": 3
+   },
+   {
+    "quote": "CEOメッセージ | ONO CORPORATE — 小野薬品工業株式会社の「CEOメッセージ」のページです。革新的な医薬品の創製を目指す小野薬品の取り組みを、価値創造のストーリーとして紹介しています。",
+    "url": "https://www.ono-pharma.com/ja/ir/library/integrated-report2026/ceo",
+    "pass": 3
+   },
+   {
+    "quote": "小野薬品、新薬で収益確保／「オプジーボ後」に自信 | 四国新聞社 — Oct 16, 2026 · 小野薬品工業の滝野十一社長（58）が16日までに共同通信のインタビューに応じ、主力のがん免疫治療薬「オプジーボ」が5年以内に特許切れを ...",
+    "url": "https://www.shikoku-np.co.jp/national/economy/20261016000549",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.ono-pharma.com/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ono-pharma.com/ja/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ono-pharma.com/ja/company/strengths_characteristics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ono-pharma.com/ja/company/history",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ono-pharma.com/ja/company/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ono-pharma.com/ja/ir/policy/financial_strategy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ono-pharma.com/ja/company/history/300th",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ono-pharma.com/ja/company/about/outline",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ono-pharma.com/ja/company/about/officer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ono-pharma.com/ja/company/about/office",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ono-pharma.com/ja/company/about/products",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ono-pharma.com/ja/ir/library/pipeline",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ono-pharma.com/ja/ir",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ono-pharma.com/ja/ir/policy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ono-pharma.com/ja/ir/financial_highlights",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ono-pharma.com/ja/ir/overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ono-pharma.com/ja/ir/library",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ono-pharma.com/ja/ir/stock",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ono-pharma.com/ja/ir/individual_investor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ono-pharma.com/ja/ir/calendar",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ono-pharma.com/ja/ir/dialogue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ono-pharma.com/ja/ir/faq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ono-pharma.com/ja/ir/mail",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ono-pharma.com/ja/ir/library/financial_results",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ono-pharma.com/ja/ir/library/presentations",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.ono-pharma.com/sites/default/files/ja/ir/corporate_governance_report_ja.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ono-pharma.com/sites/default/files/corporate_report_2026/ja/pdf/ono_ir26_ja.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ono-pharma.com/sites/default/files/ja/ir/library/financial_results/presen/20261029_2_ja%23.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ono-pharma.com/sites/default/files/ja/ir/corporate_governance_report_ja.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ono-pharma.com/sites/default/files/ja/ir/library/financial_results/2027_2r%23.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ono-pharma.com/sites/default/files/ja/ir/library/financial_results/2027_2h%23.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ono-pharma.com/sites/default/files/ja/ir/library/financial_results/presen/full_2027_2q_ja%23.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ono-pharma.com/sites/default/files/ja/ir/library/financial_results/presen/20261029_1_ja%23.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://consovation.com/%E6%96%B0%E6%99%82%E4%BB%A3%E3%81%B8%E6%8C%91%E3%82%80%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%BE%B9%E5%BA%95/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://edinetdb.jp/company/E00945/presentations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://irbank.net/E00945/business?f=S100TMQ7",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/031000532/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/030900638/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "小野薬品工業",
+   "results": [
+    "https://www.ono-pharma.com/ja",
+    "https://ja.wikipedia.org/wiki/%E5%B0%8F%E9%87%8E%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD",
+    "https://recruit.ono-pharma.com/about/",
+    "https://www.nikkei.com/nkd/company/?scode=4528",
+    "https://x.com/Ono_pharma_PR",
+    "https://ja.wikipedia.org/wiki/小野薬品工業"
+   ]
+  },
+  {
+   "query": "小野薬品工業 ビジネスモデル",
+   "results": [
+    "https://www.ono-pharma.com/ja/company/strategy",
+    "https://consovation.com/新時代へ挑む小野薬品工業のビジネスモデル徹底/",
+    "https://kurabetter.com/archives/22413",
+    "https://www.choosenic.com/yuho-shukatsu-navi/articles/pharma/ono-pharma-yuho/",
+    "https://edinetdb.jp/company/E00945/midterm-plans/",
+    "https://www.dri.co.jp/auto/report/marketline/240130-ono-pharmaceutical-co-ltd-company-profile.html",
+    "https://www.ono-pharma.com/ja/company/strategy/growth_strategy"
+   ]
+  },
+  {
+   "query": "小野薬品工業 決算説明資料",
+   "results": [
+    "https://www.ono-pharma.com/ja/ir/library",
+    "https://edinetdb.jp/company/E00945/presentations/",
+    "https://irbank.net/4528/ir",
+    "https://japanir.jp/company/company-4528/ir/4528-20261029-02_wp_financial_summary/",
+    "https://finance.yahoo.co.jp/quote/4528.T/financials",
+    "https://www.ono-pharma.com/ja/ir/library/financial_results",
+    "https://prd.ono.co.jp/sites/default/files/ja/ir/library/financial_results/2026_1r+.pdf.pdf"
+   ]
+  },
+  {
+   "query": "小野薬品工業 事業系統図",
+   "results": [
+    "https://ja.wikipedia.org/wiki/小野薬品工業",
+    "https://irbank.net/E00945/business?f=S100TMQ7",
+    "https://irbank.net/E00945/business",
+    "https://sustainability.ono-pharma.com/data/pdf/tax/2024/Business-Description-and-Information-on-Subsidiaries-and-Associates-2024_ja.pdf",
+    "https://www.ono-pharma.com/ja/company/about/outline",
+    "https://sustainability.ono-pharma.com/data/pdf/tax/2025/Business-Description-and-Information-on-Subsidiaries-and-Associates-2025_ja.pdf",
+    "https://www.ono-pharma.com/ja/company/about/business_activities/manufacturing"
+   ]
+  },
+  {
+   "query": "小野薬品工業 社長 インタビュー",
+   "results": [
+    "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/031000532/",
+    "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/030900638/",
+    "https://iyakukeizai.com/iyakukeizaiweb/detail/178534",
+    "https://www.ono-pharma.com/ja/ir/library/integrated-report2026/ceo",
+    "https://www.shikoku-np.co.jp/national/economy/20261016000549",
+    "https://www.daily.co.jp/society/economics/2026/10/16/0020935035.shtml",
+    "https://news.jp/i/1483725279302238314"
+   ]
+  }
+ ],
+ "missing": {}
+}

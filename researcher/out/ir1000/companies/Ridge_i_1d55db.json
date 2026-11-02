@@ -1,0 +1,1110 @@
+{
+ "name": "Ｒｉｄｇｅ－ｉ",
+ "aliases": [],
+ "context": "証券コード5572／情報・通信業／グロース（内国株式）／2026.07期 売上高2,994百万円 営業利益率18.3%",
+ "researched_at": "2026-11-02T18:11:03.282101+00:00",
+ "official_url": "https://ridge-i.com/",
+ "identified_by": "search:yahoo_jp:Ridge-i",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2016年7月29日",
+    "url": "https://ridge-i.com/",
+    "pass": 1
+   },
+   {
+    "label": "創業者",
+    "value": "代表取締役社長　柳原 尚史",
+    "url": "https://ridge-i.com/",
+    "pass": 1
+   },
+   {
+    "label": "創業",
+    "value": "2016年7月",
+    "url": "https://chugokukeiren.jp/data/wp-content/uploads/2020/10/ridge-i.pdf",
+    "pass": 3
+   },
+   {
+    "label": "設立年",
+    "value": "2016年",
+    "url": "https://www.openwork.jp/a0C10000016HRSL/pr/",
+    "pass": 3
+   },
+   {
+    "label": "設立年月日",
+    "value": "年 月 日",
+    "url": "https://www.openwork.jp/a0C10000016HRSL/pr/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "139名 （連結） 2026年7月末時点",
+    "url": "https://ridge-i.com/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "43名（非常勤含む）",
+    "url": "https://chugokukeiren.jp/data/wp-content/uploads/2020/10/ridge-i.pdf",
+    "pass": 3
+   },
+   {
+    "label": "社員数",
+    "value": "30〜99人",
+    "url": "https://www.openwork.jp/a0C10000016HRSL/pr/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "– AI・ディープラーニング技術のコンサルティングおよび開発 – 共同事業、ライセンス、保守モデル、自社開発等によるプロダクトの提供 – 人工衛星データを活用したAI解析ソリューションの提供",
+    "url": "https://ridge-i.com/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "SBI証券とRidge-i、共同開発の生成AIチャットサービスを2026年10月30日より提供開始 ～生成AIを活用した一貫した顧客サポート体験を提供～",
+    "url": "https://ridge-i.com/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の経営戦略とビジネスを深く理解し、AI活用の構想策定から現場でのインパクト創出まで伴走します",
+    "url": "https://ridge-i.com/",
+    "pass": 1
+   },
+   {
+    "quote": "画像解析、最適化、音声認識、そして大規模言語モデルを中心とした生成AIなどを組み合わせたマルチモーダルAI技術と、経験豊富なコンサルタントによる顧客第一のディスカッションがベースとなったプロジェクト推進により、投資対効果の高いソリューションを実現します",
+    "url": "https://ridge-i.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "そこで培ったAIプロジェクトの知見と経験を通じ、「狙った目的を一緒に達成してくれるパートナー」として、多くの顧客に評価いただいています",
+    "url": "https://ridge-i.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "この２つの力を強みに、リッジアイは顧客と合意した目標の多くを高い成功率で実現してきています",
+    "url": "https://ridge-i.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客に選ばれる一番の理由です",
+    "url": "https://ridge-i.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様へのヒアリングやプロジェクトの知見を通じて共通の課題を見出し、それらを解決するベースとなるAIアルゴリズムを開発しています",
+    "url": "https://ridge-i.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の経営戦略とビジネスを深く理解し、要件定義および戦略策定をサポートします",
+    "url": "https://ridge-i.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の経営戦略とビジネスを深く理解し、要件定義および戦略策定をサポートします",
+    "url": "https://ridge-i.com/business/consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "光学衛星・SAR衛星のデータとお客様が保有する各種データを融合し、実利用可能な複合解析AIを提供します",
+    "url": "https://ridge-i.com/business/satellite/",
+    "pass": 1
+   },
+   {
+    "quote": "ヘルスケア等の特定の業界では、ユーザーに寄り添う自然な対話と、健康情報や法律上の制限等間違いが許されない高い正確性の両立が求められます",
+    "url": "https://ridge-i.com/business/generative/",
+    "pass": 1
+   },
+   {
+    "quote": "防衛領域で5年以上の継続支援実績を持つRidge-iが、お客様の課題解決まで伴走します",
+    "url": "https://ridge-i.com/business/space-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーの要望、運用状況をヒアリングし、要件にあったAIシステムをオンプレミスで構築します",
+    "url": "https://ridge-i.com/business/space-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "AIの知見がないユーザーでもコマンド一つで運用可能",
+    "url": "https://ridge-i.com/business/space-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "さまざまな企業や業界が抱える社会課題・顧客課題を、AI・ディープラーニング等の先端技術を活用して解決し、実際に効果が体感できるところまで追求します",
+    "url": "https://ridge-i.com/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "そのために、現場に入り込んだコンサルテーションからアセスメント、開発、導入、顧客による運用までを視野に入れた実用的なソリューションを提供しております",
+    "url": "https://ridge-i.com/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、社会へ貢献できるサービスを提供することで継続的に収益を拡大し、企業価値を向上させ、株主をはじめ、利用者様、関係先、従業員等のステークホルダーの利益を最大化するためにはコーポレート・ガバナンスの確立が不可欠であると認識しております",
+    "url": "https://ridge-i.com/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "アンバランスさに悩むお客様に",
+    "url": "https://chugokukeiren.jp/data/wp-content/uploads/2020/10/ridge-i.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(Ridge-iに寄せられるお客様の相談概念図)",
+    "url": "https://chugokukeiren.jp/data/wp-content/uploads/2020/10/ridge-i.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• お客様の課題を的確に設定",
+    "url": "https://chugokukeiren.jp/data/wp-content/uploads/2020/10/ridge-i.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "主な取引先・受賞実績",
+    "url": "https://chugokukeiren.jp/data/wp-content/uploads/2020/10/ridge-i.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "主要取引先実績",
+    "url": "https://chugokukeiren.jp/data/wp-content/uploads/2020/10/ridge-i.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊戦略策定からAI開発、プラスの投資対効果が実現するまで、顧客が必要とするフェーズから参画して一気通貫で伴走します",
+    "url": "https://www.openwork.jp/a0C10000016HRSL/pr/",
+    "pass": 3
+   },
+   {
+    "quote": "＊顧客が求めている理想のシステムや「AI」への期待を、投資対効果と現実的なリソースを考慮し、具体的なシステム設計に落とし込みます",
+    "url": "https://www.openwork.jp/a0C10000016HRSL/pr/",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.openwork.jp/a0C10000016HRSL/pr/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "AI活用コンサルティング・AI開発サービス",
+    "url": "https://ridge-i.com/",
+    "pass": 1
+   },
+   {
+    "quote": "人工衛星データAI解析サービス",
+    "url": "https://ridge-i.com/",
+    "pass": 1
+   },
+   {
+    "quote": "データ・アナリティクスサービス",
+    "url": "https://ridge-i.com/",
+    "pass": 1
+   },
+   {
+    "quote": "生成AIコンサルティング・開発サービス",
+    "url": "https://ridge-i.com/",
+    "pass": 1
+   },
+   {
+    "quote": "防衛・安全保障AIサービス",
+    "url": "https://ridge-i.com/",
+    "pass": 1
+   },
+   {
+    "quote": "最高峰のソリューション",
+    "url": "https://ridge-i.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SBI証券とRidge-i、共同開発の生成AIチャットサービスを2026年10月30日より提供開始 ～生成AIを活用した一貫した顧客サポート体験を提供～",
+    "url": "https://ridge-i.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ridge-iは、大規模言語モデルを含む生成AI・画像解析・数理最適化などのAIソリューションを提供します",
+    "url": "https://ridge-i.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI開発サービス",
+    "url": "https://ridge-i.com/",
+    "pass": 1
+   },
+   {
+    "quote": "先端技術を取り入れた最適なAI・DXソリューションを開発し、現場定着の支援、MLOps（運用・改善）、さらには共同での事業開発まで、一貫してサポートします",
+    "url": "https://ridge-i.com/",
+    "pass": 1
+   },
+   {
+    "quote": "開発サービス",
+    "url": "https://ridge-i.com/",
+    "pass": 1
+   },
+   {
+    "quote": "最先端の大規模言語モデル技術を組み合わせ、生成AI活用に向けたDX戦略の構築からAIシステムの設計・開発、オペレーションの構築、人財育成に至るまで、ワンストップでサービスを提供しています",
+    "url": "https://ridge-i.com/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスページを見る",
+    "url": "https://ridge-i.com/",
+    "pass": 1
+   },
+   {
+    "quote": "– 人工衛星データを活用したAI解析ソリューションの提供",
+    "url": "https://ridge-i.com/",
+    "pass": 1
+   },
+   {
+    "quote": "5つのサービス",
+    "url": "https://ridge-i.com/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス v2 | 株式会社Ridge-i (リッジアイ) ディープラーニングのコンサルティング・開発",
+    "url": "https://ridge-i.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "AI活用コンサルティング・AI開発サービス",
+    "url": "https://ridge-i.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "人工衛星データAI解析サービス",
+    "url": "https://ridge-i.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "データ・アナリティクスサービス",
+    "url": "https://ridge-i.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "生成AIコンサルティング・開発サービス",
+    "url": "https://ridge-i.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "防衛・安全保障AIサービス",
+    "url": "https://ridge-i.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "日々進化し続ける「AI技術の追求」とパートナー企業との対話から生まれる「ビジネス知見」を組み合わせることで、新たなソリューションを生み出します",
+    "url": "https://ridge-i.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "画像解析、最適化、音声認識、そして大規模言語モデルを中心とした生成AIなどを組み合わせたマルチモーダルAI技術と、経験豊富なコンサルタントによる顧客第一のディスカッションがベースとなったプロジェクト推進により、投資対効果の高いソリューションを実現します",
+    "url": "https://ridge-i.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "課題に合わせて20を超えるAI技術と、データ、センシング技術、計算環境を組み合わせてオーダーメイドなAIソリューションを提供します",
+    "url": "https://ridge-i.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニア、リサーチエンジニア、テクニカルソリューションアーキテクト、研究者、そしてビジネスコンサルタントが一つのチームを組成します",
+    "url": "https://ridge-i.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "それぞれの専門性を結集し、技術とビジネスの両面から包括的なソリューションを提供することで、最適な成果を導き出します",
+    "url": "https://ridge-i.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ありものを組み合わせるだけがリッジアイのサービスではありません",
+    "url": "https://ridge-i.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "Ridge-i 5つのサービスをもっと詳しくご紹介",
+    "url": "https://ridge-i.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "AI活用コンサルティング AI開発サービス",
+    "url": "https://ridge-i.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "人工衛星データ AI解析サービス",
+    "url": "https://ridge-i.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "データ・アナリティクス サービス",
+    "url": "https://ridge-i.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "生成AIコンサルティング 開発サービス",
+    "url": "https://ridge-i.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "防衛・安全保障 AIサービス",
+    "url": "https://ridge-i.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "人工衛星画像の解析AIソリューション",
+    "url": "https://ridge-i.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "自社に特化した目的特化型言語AIの開発サービス",
+    "url": "https://ridge-i.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "これらのノウハウを活かし、目的特化型LLMの開発サービスやLLMチューニングサービスを行っています",
+    "url": "https://ridge-i.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "先端技術を取り入れた最適なAI・DXソリューションを提案し、開発からMLOps（運用・改善）まで一貫して実現します",
+    "url": "https://ridge-i.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "テキスト、画像、センシングデータなど、さまざまな情報を抽出し、人間の作業を再現するAIソリューションを提供します",
+    "url": "https://ridge-i.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "複雑な問題にも対応でき、さまざまな業界や分野で活用できる包括的なソリューションです",
+    "url": "https://ridge-i.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "5つのサービス",
+    "url": "https://ridge-i.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "AI活用コンサルティング・AI開発サービス",
+    "url": "https://ridge-i.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "人工衛星データAI解析サービス",
+    "url": "https://ridge-i.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "データ・アナリティクスサービス",
+    "url": "https://ridge-i.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "生成AIコンサルティング・開発サービス",
+    "url": "https://ridge-i.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "防衛・安全保障AIサービス",
+    "url": "https://ridge-i.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "5つのサービス",
+    "url": "https://ridge-i.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "AI活用コンサルティング・AI開発サービス | 株式会社Ridge-i (リッジアイ) ディープラーニングのコンサルティング・開発",
+    "url": "https://ridge-i.com/business/consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "AI活用コンサルティング・AI開発サービス",
+    "url": "https://ridge-i.com/business/consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "人工衛星データAI解析サービス",
+    "url": "https://ridge-i.com/business/consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "データ・アナリティクスサービス",
+    "url": "https://ridge-i.com/business/consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "生成AIコンサルティング・開発サービス",
+    "url": "https://ridge-i.com/business/consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "防衛・安全保障AIサービス",
+    "url": "https://ridge-i.com/business/consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "Ridge-iは、先端技術を取り入れた最適なAI・DXソリューションを提案し、",
+    "url": "https://ridge-i.com/business/consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "AI開発サービス",
+    "url": "https://ridge-i.com/business/consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "AI解析サービス",
+    "url": "https://ridge-i.com/business/consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "開発サービス",
+    "url": "https://ridge-i.com/business/consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "AIサービス",
+    "url": "https://ridge-i.com/business/consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "先端技術を取り入れた最適なAI・DXソリューションを提案し、開発からMLOps（運用・改善）まで一貫して実現します",
+    "url": "https://ridge-i.com/business/consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "課題分析からセンサー選定、AIモデル開発、システム統合までを一貫して支援し、現場に最適なソリューションを提供します",
+    "url": "https://ridge-i.com/business/consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "環境に配慮したビジネスプロセスの最適化や、社会課題の解決に向けたAIソリューションの開発など、持続可能な未来を実現するための具体的な施策をご紹介します",
+    "url": "https://ridge-i.com/business/consulting/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "パートナー企業との対話により生まれるビジネス知見",
+    "url": "https://ridge-i.com/",
+    "pass": 1
+   },
+   {
+    "quote": "日々進化し続ける「AI技術の追求」とパートナー企業との対話から生まれる「ビジネス知見」を組み合わせることで、新たなソリューションを生み出します",
+    "url": "https://ridge-i.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "そこで培ったAIプロジェクトの知見と経験を通じ、「狙った目的を一緒に達成してくれるパートナー」として、多くの顧客に評価いただいています",
+    "url": "https://ridge-i.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー企業と対話しながらAIを正しく組み合わせできるアレンジ力がリッジアイの強みです",
+    "url": "https://ridge-i.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "Ridge-i 5つのサービスをもっと詳しくご紹介",
+    "url": "https://ridge-i.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "環境に配慮したビジネスプロセスの最適化や、社会課題の解決に向けたAIソリューションの開発など、持続可能な未来を実現するための具体的な施策をご紹介します",
+    "url": "https://ridge-i.com/business/consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "環境に配慮したビジネスプロセスの最適化や、社会課題の解決に向けたAIソリューションの開発など、持続可能な未来を実現するための具体的な施策をご紹介します",
+    "url": "https://ridge-i.com/business/satellite/",
+    "pass": 1
+   },
+   {
+    "quote": "環境に配慮したビジネスプロセスの最適化や、社会課題の解決に向けたAIソリューションの開発など、持続可能な未来を実現するための具体的な施策をご紹介します",
+    "url": "https://ridge-i.com/business/data/",
+    "pass": 1
+   },
+   {
+    "quote": "Ridge-i (リッジアイ）紹介資料",
+    "url": "https://chugokukeiren.jp/data/wp-content/uploads/2020/10/ridge-i.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 弊社のAIの強みと、パートナーの強みを活かした相乗",
+    "url": "https://chugokukeiren.jp/data/wp-content/uploads/2020/10/ridge-i.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経営陣の紹介",
+    "url": "https://chugokukeiren.jp/data/wp-content/uploads/2020/10/ridge-i.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "高い技術力・導入ノウハウ・パートナーシップを",
+    "url": "https://chugokukeiren.jp/data/wp-content/uploads/2020/10/ridge-i.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※中古車販売店が導入",
+    "url": "https://chugokukeiren.jp/data/wp-content/uploads/2020/10/ridge-i.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "パートナー企業とともに全力で取り組んでいます",
+    "url": "https://chugokukeiren.jp/data/wp-content/uploads/2020/10/ridge-i.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ridge-iの「会社紹介」 OpenWork",
+    "url": "https://www.openwork.jp/a0C10000016HRSL/pr/",
+    "pass": 3
+   },
+   {
+    "quote": "Ridge-iの「会社紹介」",
+    "url": "https://www.openwork.jp/a0C10000016HRSL/pr/",
+    "pass": 3
+   },
+   {
+    "quote": "様々なAIを組み合わせる高度な技術力と、パートナー企業との建設的なディスカッションを通じたプロジェクト設計・運営力により、高難易度の課題を内製や他社では真似できない手法で解決し、高い投資対効果をもたらします",
+    "url": "https://www.openwork.jp/a0C10000016HRSL/pr/",
+    "pass": 3
+   },
+   {
+    "quote": "【エミン・ユルマズ氏直伝】四季報はココを見ろ！四季報最新号からエミン氏注目の3銘柄を紹介/四季報を使った優良株の選び方/エミン流投資手法を解説",
+    "url": "https://www.youtube.com/watch?v=tgUouU3Kxxo",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "– 共同事業、ライセンス、保守モデル、自社開発等によるプロダクトの提供",
+    "url": "https://ridge-i.com/",
+    "pass": 1
+   },
+   {
+    "quote": "また、季節変動や雲・影の影響、近赤外線等の多様なデータ形式への対応、さらにはライセンス制約等、実運用においては技術面・運用面のハードルも存在します",
+    "url": "https://ridge-i.com/business/satellite/",
+    "pass": 1
+   },
+   {
+    "quote": "海外製品は経済安全保障上の懸念や国籍の要件により導入・保守が難しいケースがあります",
+    "url": "https://ridge-i.com/business/space-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "安全保障の現場を理解し、導入・保守まで依頼できる国内ベンダーが限られています",
+    "url": "https://ridge-i.com/business/space-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "これらの課題に対し、安全保障の現場での運用実績に基づく知見を活かし、プロダクトを用いた迅速な導入と、要件に合わせたカスタムAI開発の二つのアプローチを使い分け、設計から運用・保守まで一貫して支援します",
+    "url": "https://ridge-i.com/business/space-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "改修・保守までRidge-iのエンジニアが伴走し、現場でのAI活用を支援します",
+    "url": "https://ridge-i.com/business/space-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "導入後も環境の変化に合わせた保守まで伴走してもらえて心強い",
+    "url": "https://ridge-i.com/business/space-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "AIライセンス提供サービス",
+    "url": "https://www.openwork.jp/a0C10000016HRSL/pr/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2016年7月29日",
+    "url": "https://ridge-i.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年8月16日にカリフォルニアで発生した森林火災の様子を可視化しました",
+    "url": "https://ridge-i.com/business/satellite/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年７月中旬にヨーロッパで記録的な大雨を観測し、河川の氾濫による洪水が発生しました",
+    "url": "https://ridge-i.com/business/satellite/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年7月25日、インド洋のモーリシャス共和国で発生した重油流出事故において、レーダー衛星画像を用いて重油の流出被害範囲を推定しました",
+    "url": "https://ridge-i.com/business/satellite/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年4月26日",
+    "url": "https://ridge-i.com/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月11日(予定)",
+    "url": "https://ridge-i.com/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年7月期第1四半期決算発表",
+    "url": "https://ridge-i.com/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月11日(予定)",
+    "url": "https://ridge-i.com/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年7月期第2四半期決算発表",
+    "url": "https://ridge-i.com/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年6月11日(予定)",
+    "url": "https://ridge-i.com/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年7月期第3四半期決算発表",
+    "url": "https://ridge-i.com/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年9月13日(予定)",
+    "url": "https://ridge-i.com/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年7月期決算発表",
+    "url": "https://ridge-i.com/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月27日(予定)",
+    "url": "https://ridge-i.com/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年9月",
+    "url": "https://chugokukeiren.jp/data/wp-content/uploads/2020/10/ridge-i.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2017年参画",
+    "url": "https://chugokukeiren.jp/data/wp-content/uploads/2020/10/ridge-i.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2016年07月 創立",
+    "url": "https://www.openwork.jp/a0C10000016HRSL/pr/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年04月 東証グロース市場上場",
+    "url": "https://www.openwork.jp/a0C10000016HRSL/pr/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年 第4回宇宙開発利用大賞 経済産業大臣賞受賞",
+    "url": "https://www.openwork.jp/a0C10000016HRSL/pr/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年 第5回宇宙開発利用大賞 環境大臣賞受賞",
+    "url": "https://www.openwork.jp/a0C10000016HRSL/pr/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年04月26日、グロース市場に新規上場した",
+    "url": "https://www.youtube.com/watch?v=tgUouU3Kxxo",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "この２つの力を強みに、リッジアイは顧客と合意した目標の多くを高い成功率で実現してきています",
+    "url": "https://ridge-i.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー企業と対話しながらAIを正しく組み合わせできるアレンジ力がリッジアイの強みです",
+    "url": "https://ridge-i.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスと強み",
+    "url": "https://ridge-i.com/business/space-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "• 弊社のAIの強みと、パートナーの強みを活かした相乗",
+    "url": "https://chugokukeiren.jp/data/wp-content/uploads/2020/10/ridge-i.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "リッジアイの強み",
+    "url": "https://chugokukeiren.jp/data/wp-content/uploads/2020/10/ridge-i.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３つの強みがバランスよく最適化された会社です",
+    "url": "https://chugokukeiren.jp/data/wp-content/uploads/2020/10/ridge-i.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ridge-iの強み",
+    "url": "https://www.openwork.jp/a0C10000016HRSL/pr/",
+    "pass": 3
+   },
+   {
+    "quote": "企業分析［強み・弱み・展望］",
+    "url": "https://www.openwork.jp/a0C10000016HRSL/pr/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "サービス v2 | 株式会社 Ridge-i (リッジアイ) ディープ ... — サービス v2 | 株式会社 Ridge-i (リッジアイ) ディープ ... 株式会社Ridge-i https://ridge-i.com > business",
+    "url": "https://ridge-i.com/business/",
+    "pass": 3
+   },
+   {
+    "quote": "Ridge-i (リッジアイ）紹介資料 — Ridge-i (リッジアイ）紹介資料 一般社団法人 中国経済連合会 PDF https://chugokukeiren.jp > data > 2020/10 > ridge-i",
+    "url": "https://chugokukeiren.jp/data/wp-content/uploads/2020/10/ridge-i.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 Ridge-i の企業情報・エンジニア採用情報 - paiza — 株式会社 Ridge-i の企業情報・エンジニア採用情報 - paiza paiza https://paiza.jp > 企業検索",
+    "url": "https://paiza.jp/recruiters/7353",
+    "pass": 3
+   },
+   {
+    "quote": "Ridge-i の「会社紹介」 OpenWork — Ridge-i の「会社紹介」 OpenWork OpenWork https://www.openwork.jp > ... > Ridge-i > 採用情報",
+    "url": "https://www.openwork.jp/a0C10000016HRSL/pr/",
+    "pass": 3
+   },
+   {
+    "quote": "【AIの頂へ、再訪】 Ridge-i (5572)DD：「最高峰テクノロジー ... — 【AIの頂へ、再訪】 Ridge-i (5572)DD：「最高峰テクノロジー ... note https://note.com > コンピュータ・IT > AI",
+    "url": "https://note.com/tatsuya_sabato/n/neb4afde1e714",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 | 株式会社 Ridge-i (リッジアイ) ディープ ... — 決算説明資料 | 株式会社 Ridge-i (リッジアイ) ディープ ... Ridge-i https://ridge-i.com > presentations",
+    "url": "https://ridge-i.com/ir/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 | 株式会社 Ridge-i (リッジアイ) ディープラーニングの ... — IR情報 | 株式会社 Ridge-i (リッジアイ) ディープラーニングの ... Ridge-i https://ridge-i.com > ...",
+    "url": "https://ridge-i.com/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 Ridge－i 決算説明資料 - EDINET DB — 株式会社 Ridge－i 決算説明資料 - EDINET DB EDINET DB https://edinetdb.jp > 株式会社Ｒｉｄｇｅ－ｉ > IR資料",
+    "url": "https://edinetdb.jp/company/E38567/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "Ridge－i [5572]：2026年7月期 通期 決算説明資料 2026 ... — Ridge－i [5572]：2026年7月期 通期 決算説明資料 2026 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260911535087/",
+    "pass": 3
+   },
+   {
+    "quote": "Ridge－i 【5572】の最新 決算 発表、業績修正 - 株探 — Ridge－i 【5572】の最新 決算 発表、業績修正 - 株探 株探 https://kabutan.jp > Ｒｉｄｇｅ－ｉ (5572) > 決算",
+    "url": "https://kabutan.jp/stock/finance?code=5572",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 Ridge-i (リッジアイ) ディープラーニングの ... — 株式会社 Ridge-i (リッジアイ) ディープラーニングの ... Ridge-i https://ridge-i.com",
+    "url": "https://ridge-i.com/",
+    "pass": 3
+   },
+   {
+    "quote": "AI画像分析のスタートアップ Ridge-i と資本業務提携 ... — AI画像分析のスタートアップ Ridge-i と資本業務提携 ... オリックス株式会社 https://www.orix.co.jp > newsrelease > 210201_ORIXJ2",
+    "url": "https://www.orix.co.jp/grp/company/newsroom/newsrelease/210201_ORIXJ2.html",
+    "pass": 3
+   },
+   {
+    "quote": "Ridge-i が東証グロース市場に上場、衛星データ解析で目指す ... — Ridge-i が東証グロース市場に上場、衛星データ解析で目指す ... space-connect.jp https://space-connect.jp > Business",
+    "url": "https://space-connect.jp/ridge-i-growth/",
+    "pass": 3
+   },
+   {
+    "quote": "メディア・講演 | 株式会社 Ridge-i (リッジアイ) ディープ ... — メディア・講演 | 株式会社 Ridge-i (リッジアイ) ディープ ... Ridge-i https://ridge-i.com > company > media",
+    "url": "https://ridge-i.com/company/media",
+    "pass": 3
+   },
+   {
+    "quote": "Ridge-i ［5572］グロース IPO - YouTube — Ridge-i ［5572］グロース IPO - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=tgUouU3Kxxo",
+    "pass": 3
+   },
+   {
+    "quote": "Ridge-i (@ridge_i_jp) / X — Ridge-i (@ridge_i_jp) / X X https://x.com > ridge_i_jp",
+    "url": "https://x.com/ridge_i_jp?lang=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Ridge-i 創業の背景（2018の インタビュー ）｜柳原尚史 - note — Ridge-i 創業の背景（2018の インタビュー ）｜柳原尚史 - note note https://note.com > 科学・テクノロジー > AI・機械学習",
+    "url": "https://note.com/tyanagihara/n/n61ec7e44f146",
+    "pass": 3
+   },
+   {
+    "quote": "Ridge-i 【5572】の 社長 ・役員 - キタイシホン — Ridge-i 【5572】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/5572/board-of-director",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://ridge-i.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ridge-i.com/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ridge-i.com/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ridge-i.com/business/consulting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ridge-i.com/business/satellite/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ridge-i.com/business/data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ridge-i.com/business/generative/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ridge-i.com/business/space-intelligence/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ridge-i.com/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ridge-i.com/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ridge-i.com/ir/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ridge-i.com/ir/governance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ridge-i.com/ir/performance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ridge-i.com/ir/finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ridge-i.com/ir/cashflow/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ridge-i.com/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ridge-i.com/ir/results/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ridge-i.com/ir/presentations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ridge-i.com/ir/securities/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ridge-i.com/ir/meeting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ridge-i.com/ir/others/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ridge-i.com/ir/disclosure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ridge-i.com/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ridge-i.com/ir/quote/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ridge-i.com/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://ridge-i.com/cms/wp-content/themes/ridgei-2025/pdf/access.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://chugokukeiren.jp/data/wp-content/uploads/2020/10/ridge-i.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.openwork.jp/a0C10000016HRSL/pr/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=tgUouU3Kxxo",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Ridge-i",
+   "results": [
+    "https://ridge-i.com/en/",
+    "https://x.com/ridge_i_jp?lang=ja",
+    "https://www.openwork.jp/a0C10000016HRSL/pr/",
+    "https://www.youtube.com/channel/UCTBaJrfibBNosxCVEjPnYWw",
+    "https://ridge-i.com/company/officer/",
+    "https://pitchbook.com/profiles/company/266997-70",
+    "https://chugokukeiren.jp/data/wp-content/uploads/2020/10/ridge-i.pdf",
+    "https://www.nikkei.com/nkd/company/?scode=5572",
+    "https://ja.wikipedia.org/wiki/RIDE_ON_TIME_(山下達郎のアルバム)",
+    "https://grokipedia.com/page/svenska_mission_kyrka_i_sodre_maple_ridge"
+   ]
+  },
+  {
+   "query": "Ridge-i ビジネスモデル",
+   "results": [
+    "https://ridge-i.com/business/",
+    "https://chugokukeiren.jp/data/wp-content/uploads/2020/10/ridge-i.pdf",
+    "https://paiza.jp/recruiters/7353",
+    "https://www.openwork.jp/a0C10000016HRSL/pr/",
+    "https://note.com/tatsuya_sabato/n/neb4afde1e714",
+    "https://jp.linkedin.com/company/ridge-i",
+    "https://growth-100-oku.smrj.go.jp/companies/pdf/00298-00.pdf",
+    "https://ridge-i.com/",
+    "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20241028_archive/ezttdt/140120241028504129.pdf",
+    "https://en.wikipedia.org/wiki/Ridge"
+   ]
+  },
+  {
+   "query": "Ridge-i 決算説明資料",
+   "results": [
+    "https://ridge-i.com/ir/presentations/",
+    "https://ridge-i.com/ir/",
+    "https://edinetdb.jp/company/E38567/presentations/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260911535087/",
+    "https://kabutan.jp/stock/finance?code=5572",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260612569735",
+    "https://www2.jpx.co.jp/disc/55720/140120240911583501.pdf",
+    "https://minkabu.jp/stock/5572/settlement",
+    "https://en.wikipedia.org/wiki/Ridge",
+    "https://ridge.com/collections/wallets"
+   ]
+  },
+  {
+   "query": "Ridge-i 事業系統図",
+   "results": [
+    "https://ridge-i.com/",
+    "https://www.openwork.jp/a0C10000016HRSL/pr/",
+    "https://chugokukeiren.jp/data/wp-content/uploads/2020/10/ridge-i.pdf",
+    "https://www.orix.co.jp/grp/company/newsroom/newsrelease/210201_ORIXJ2.html",
+    "https://space-connect.jp/ridge-i-growth/",
+    "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20241028_archive/ezttdt/140120241028504129.pdf",
+    "https://growth-100-oku.smrj.go.jp/companies/pdf/00298-00.pdf",
+    "https://www.youtube.com/watch?v=iKc8-rlqefg",
+    "https://holistic-r.org/c_info/5572/"
+   ]
+  },
+  {
+   "query": "Ridge-i 社長 インタビュー",
+   "results": [
+    "https://ridge-i.com/company/media",
+    "https://www.youtube.com/watch?v=tgUouU3Kxxo",
+    "https://x.com/ridge_i_jp?lang=ja",
+    "https://note.com/tyanagihara/n/n61ec7e44f146",
+    "https://kitaishihon.com/company/5572/board-of-director",
+    "https://www.facebook.com/takashi.yanagihara/?locale=ja_JP",
+    "https://www.wantedly.com/companies/ridge-i/stories",
+    "https://c-eye.co.jp/ipo-eq/67255",
+    "https://www.global-nikkei.com/nvgf-space/22/contents/speakers/TakashiYanagihara.html",
+    "https://en.wikipedia.org/wiki/Ridge"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像1件／外部3頁・検索5回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式25頁／PDF・画像1件／外部3頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式25頁／PDF・画像1件／外部3頁・検索5回）"
+ }
+}

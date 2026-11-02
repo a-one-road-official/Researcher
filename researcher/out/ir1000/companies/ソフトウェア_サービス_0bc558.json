@@ -1,0 +1,1561 @@
+{
+ "name": "ソフトウェア・サービス",
+ "aliases": [],
+ "context": "証券コード3733／情報・通信業／スタンダード（内国株式）／2025.10期 売上高42,298百万円 営業利益率19.8%",
+ "researched_at": "2026-11-02T18:05:59.401159+00:00",
+ "official_url": "https://www.softs.co.jp/",
+ "identified_by": "search:yahoo_jp:ソフトウェア・サービス",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1969年4月",
+    "url": "https://www.softs.co.jp/company/index.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "1,900名(2026年4月1日現在)",
+    "url": "https://www.softs.co.jp/company/index.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "医療機関向けに『e-カルテ®』（電子カルテシステム）、『NEWTONS』（オーダエントリーシステム）を中心とした医療情報システムを開発・販売・導入・保守まで行います。",
+    "url": "https://www.softs.co.jp/company/index.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "お客様ページ",
+    "url": "https://www.softs.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 SSユーザー会のご報告",
+    "url": "https://www.softs.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年 SSユーザー会のご報告",
+    "url": "https://www.softs.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のご要望をトータルサポート",
+    "url": "https://www.softs.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様ページ",
+    "url": "https://www.softs.co.jp/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは専門知識と豊富な経験を有する自社メンバーでシステム導入を担当し、お客様にとって最適なシステム提案を行います",
+    "url": "https://www.softs.co.jp/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "24時間365日、自社社員によるコールセンター対応を行っており、お客様のシステム運用上のお悩みに迅速に対応します",
+    "url": "https://www.softs.co.jp/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、お客様とのつながりを大切に、ユーザー会をはじめ顧客コミュニケーションを重視したサービスを展開しています",
+    "url": "https://www.softs.co.jp/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様ページ",
+    "url": "https://www.softs.co.jp/business/user/area.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様ページ",
+    "url": "https://www.softs.co.jp/company/spirit.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は独創的なことをやり、顧客にも自己主張をしてきました",
+    "url": "https://www.softs.co.jp/company/spirit.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社の見込顧客である病院は、全国に約9,200施設(2003年当時)ありますが、今後は相当数の淘汰が進むと私は予想しています",
+    "url": "https://www.softs.co.jp/company/spirit.html",
+    "pass": 1
+   },
+   {
+    "quote": "すなわち、顧客とのフェイス・トゥ・フェイスが必要だということです",
+    "url": "https://www.softs.co.jp/company/spirit.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様ページ",
+    "url": "https://www.softs.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様ページ",
+    "url": "https://www.softs.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社電子カルテ導入後のシステム管理業務を請負い、質の高いシステム運営をお客様へ提供するサービスを展開",
+    "url": "https://www.softs.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様ページ",
+    "url": "https://www.softs.co.jp/company/directors.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様ページ",
+    "url": "https://www.softs.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様ページ",
+    "url": "https://www.softs.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様ページ",
+    "url": "https://www.softs.co.jp/ir/financial/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様ページ",
+    "url": "https://www.softs.co.jp/ir/financial/quarter.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様ページ",
+    "url": "https://www.softs.co.jp/ir/financial/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様ページ",
+    "url": "https://www.softs.co.jp/ir/financial/irpolicy.html",
+    "pass": 1
+   },
+   {
+    "quote": "3. 受注高及び受注残高には、顧客である病院と受注に関する文書を締結又は文書によ",
+    "url": "https://www.softs.co.jp/ir/assets/pdf/monthly_2609.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3. 受注高及び受注残高には、顧客である病院と受注に関する文書を締結又は文書によ",
+    "url": "https://www.softs.co.jp/ir/assets/pdf/monthly_2608.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、運用コンサルティングを含む導入作業及び保守サービスの拡充のためには、ユーザーにとっての良きパートナー、アドバイザー及びコンサ",
+    "url": "https://www.softs.co.jp/ir/assets/pdf/corporate_governance20260130.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "d 上場会社を主要な取引先とする者又はその業務執行者",
+    "url": "https://www.softs.co.jp/ir/assets/pdf/corporate_governance20260130.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "e 上場会社の主要な取引先又はその業務執行者",
+    "url": "https://www.softs.co.jp/ir/assets/pdf/corporate_governance20260130.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "h 上場会社の取引先（d、e及びｆのいずれにも該当しないもの）の業務執行者（本人のみ）",
+    "url": "https://www.softs.co.jp/ir/assets/pdf/corporate_governance20260130.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "f 上場会社を主要な取引先とする者又はその業務執行者",
+    "url": "https://www.softs.co.jp/ir/assets/pdf/corporate_governance20260130.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "g 上場会社の主要な取引先又はその業務執行者",
+    "url": "https://www.softs.co.jp/ir/assets/pdf/corporate_governance20260130.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "j 上場会社の取引先（f、g及びhのいずれにも該当しないもの）の業務執行者（本人のみ）",
+    "url": "https://www.softs.co.jp/ir/assets/pdf/corporate_governance20260130.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3. 受注高及び受注残高には、顧客である病院と受注に関する文書を締結又は文書によ",
+    "url": "https://www.softs.co.jp/ir/assets/pdf/monthly_2607.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "多くのお客様からいただくご要望を更に製品に取",
+    "url": "https://www.softs.co.jp/business/assets/img/1.%E5%8C%BB%E7%99%82IT%E3%81%AE%E3%83%97%E3%83%AD%E3%83%95%E3%82%A7%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB.png",
+    "pass": 2
+   },
+   {
+    "quote": "でお客様の声を取り入れたシステム・サービス 社会インフラを支える",
+    "url": "https://www.softs.co.jp/business/assets/img/1.%E5%8C%BB%E7%99%82IT%E3%81%AE%E3%83%97%E3%83%AD%E3%83%95%E3%82%A7%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB.png",
+    "pass": 2
+   },
+   {
+    "quote": "も継続して行い、お客様が「今」求めるモノを",
+    "url": "https://www.softs.co.jp/business/assets/img/1.%E5%8C%BB%E7%99%82IT%E3%81%AE%E3%83%97%E3%83%AD%E3%83%95%E3%82%A7%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB.png",
+    "pass": 2
+   },
+   {
+    "quote": "専門性を発揮する 自ら創造する お客様に全てフィードバック",
+    "url": "https://www.softs.co.jp/business/assets/img/1.%E5%8C%BB%E7%99%82IT%E3%81%AE%E3%83%97%E3%83%AD%E3%83%95%E3%82%A7%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB.png",
+    "pass": 2
+   },
+   {
+    "quote": "これらを全国の医療機関に提案し、使っていただいたお客様の声を更に製品に本元しラインナップを強化する",
+    "url": "https://www.softs.co.jp/business/assets/img/1.%E5%8C%BB%E7%99%82IT%E3%81%AE%E3%83%97%E3%83%AD%E3%83%95%E3%82%A7%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB.png",
+    "pass": 2
+   },
+   {
+    "quote": "医療現場で必要なシステムを1社で提供、お客様に様々なベネフィットを本元",
+    "url": "https://www.softs.co.jp/business/assets/img/2.%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%A4%E3%83%B3%E3%83%AF%E3%83%B3.png",
+    "pass": 2
+   },
+   {
+    "quote": "私たちは、従来の枠組みに囚われることなく、医療現場で必要とされるシステムの開発を自社で行い、『オールインワン』でお客様に提供します",
+    "url": "https://www.softs.co.jp/business/assets/img/2.%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%A4%E3%83%B3%E3%83%AF%E3%83%B3.png",
+    "pass": 2
+   },
+   {
+    "quote": "常にチャレンジし続けることで価値を生み出し続け、お客様のニーズに応え続ける",
+    "url": "https://www.softs.co.jp/business/assets/img/3.%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8%E6%80%9D%E8%80%83.png",
+    "pass": 2
+   },
+   {
+    "quote": "お客様に安心してシステムを利用いただけるようなソリューションも同時に展開しています",
+    "url": "https://www.softs.co.jp/business/assets/img/3.%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8%E6%80%9D%E8%80%83.png",
+    "pass": 2
+   }
+  ],
+  "何を": [
+   {
+    "quote": "電子カルテ、医療情報システムの開発・販売 - (株)ソフトウェア・サービス",
+    "url": "https://www.softs.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ラインナップ",
+    "url": "https://www.softs.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "導入・保守サービス",
+    "url": "https://www.softs.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、医療サービスの向上を医療機関と共に考え、",
+    "url": "https://www.softs.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "創業以来のノウハウの蓄積が『商品』",
+    "url": "https://www.softs.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "多種多様な製品・サービスを展開し、",
+    "url": "https://www.softs.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「e-カルテ」、「CareMill」、「ケアミル」、「SeavoPACS」、「SeavoView」は、株式会社ソフトウェア・サービスの登録商標です",
+    "url": "https://www.softs.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報 | 電子カルテ、医療情報システムの開発・販売 - (株)ソフトウェア・サービス",
+    "url": "https://www.softs.co.jp/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品ラインナップ",
+    "url": "https://www.softs.co.jp/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "導入・保守サービス",
+    "url": "https://www.softs.co.jp/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "システム・サービスなど",
+    "url": "https://www.softs.co.jp/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "(システム・サービス)",
+    "url": "https://www.softs.co.jp/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "BCPやセキュリティー対策、病院経営支援など、医療機関をトータルでサポートする様々なシステム・サービスを開発、提供しています",
+    "url": "https://www.softs.co.jp/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、お客様とのつながりを大切に、ユーザー会をはじめ顧客コミュニケーションを重視したサービスを展開しています",
+    "url": "https://www.softs.co.jp/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "「e-カルテ」、「CareMill」、「ケアミル」、「SeavoPACS」、「SeavoView」は、株式会社ソフトウェア・サービスの登録商標です",
+    "url": "https://www.softs.co.jp/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "導入実績 | 電子カルテ、医療情報システムの開発・販売 - (株)ソフトウェア・サービス",
+    "url": "https://www.softs.co.jp/business/user/area.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品ラインナップ",
+    "url": "https://www.softs.co.jp/business/user/area.html",
+    "pass": 1
+   },
+   {
+    "quote": "導入・保守サービス",
+    "url": "https://www.softs.co.jp/business/user/area.html",
+    "pass": 1
+   },
+   {
+    "quote": "「e-カルテ」、「CareMill」、「ケアミル」、「SeavoPACS」、「SeavoView」は、株式会社ソフトウェア・サービスの登録商標です",
+    "url": "https://www.softs.co.jp/business/user/area.html",
+    "pass": 1
+   },
+   {
+    "quote": "創業スピリット | 電子カルテ、医療情報システムの開発・販売 - (株)ソフトウェア・サービス",
+    "url": "https://www.softs.co.jp/company/spirit.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品ラインナップ",
+    "url": "https://www.softs.co.jp/company/spirit.html",
+    "pass": 1
+   },
+   {
+    "quote": "導入・保守サービス",
+    "url": "https://www.softs.co.jp/company/spirit.html",
+    "pass": 1
+   },
+   {
+    "quote": "我々のアプリケーションはハードウェア・OSがなければ商品にならない",
+    "url": "https://www.softs.co.jp/company/spirit.html",
+    "pass": 1
+   },
+   {
+    "quote": "我々はアプリケーション、つまりハードウェア・OSにのっかるものなのでハードウェア・OSがなければ商品にならない",
+    "url": "https://www.softs.co.jp/company/spirit.html",
+    "pass": 1
+   },
+   {
+    "quote": "03. 創業以来のノウハウの蓄積が『商品』",
+    "url": "https://www.softs.co.jp/company/spirit.html",
+    "pass": 1
+   },
+   {
+    "quote": "しかし、競争の世界ですから、商品力がなければ難しい",
+    "url": "https://www.softs.co.jp/company/spirit.html",
+    "pass": 1
+   },
+   {
+    "quote": "このため日本のソフトウェア業界は受託・派遣などに偏ったわけですが、私は創業時から自社の商品をもつということにこだわり続け、それが今日のベースになっています",
+    "url": "https://www.softs.co.jp/company/spirit.html",
+    "pass": 1
+   },
+   {
+    "quote": "このようにして当社の商品をつくりあげてきたわけで、",
+    "url": "https://www.softs.co.jp/company/spirit.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社の仕事は人がすべて、商品とは人材のことであるともいえます",
+    "url": "https://www.softs.co.jp/company/spirit.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社の商品は100%自社でつくっています",
+    "url": "https://www.softs.co.jp/company/spirit.html",
+    "pass": 1
+   },
+   {
+    "quote": "「S」はサービス(Service)",
+    "url": "https://www.softs.co.jp/company/spirit.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は開発・営業・導入・保守すべて「I・T・S」をベースに一貫したサービス行っています",
+    "url": "https://www.softs.co.jp/company/spirit.html",
+    "pass": 1
+   },
+   {
+    "quote": "「e-カルテ」、「CareMill」、「ケアミル」、「SeavoPACS」、「SeavoView」は、株式会社ソフトウェア・サービスの登録商標です",
+    "url": "https://www.softs.co.jp/company/spirit.html",
+    "pass": 1
+   },
+   {
+    "quote": "SSIの歩み | 電子カルテ、医療情報システムの開発・販売 - (株)ソフトウェア・サービス",
+    "url": "https://www.softs.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品ラインナップ",
+    "url": "https://www.softs.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "導入・保守サービス",
+    "url": "https://www.softs.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "大阪市北区曽根崎において株式会社ソフトウェア・サービスを設立",
+    "url": "https://www.softs.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "「本社 インフラソリューション部 データセンターグループ」にて、『JISQ27001:2014(ISO/IEC27001:2013)』認証取得",
+    "url": "https://www.softs.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "JISQ27001:2014(ISO/IEC27001:2013)の認証範囲を拡大 認証範囲: (1) 医療機関を対象とした診療情報(バックアップ)の外部保存サービスの提供 (2) 高セキュリティ型リモート保守サービスの提供",
+    "url": "https://www.softs.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "「e-カルテ」、「CareMill」、「ケアミル」、「SeavoPACS」、「SeavoView」は、株式会社ソフトウェア・サービスの登録商標です",
+    "url": "https://www.softs.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社案内 | 電子カルテ、医療情報システムの開発・販売 - (株)ソフトウェア・サービス",
+    "url": "https://www.softs.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品ラインナップ",
+    "url": "https://www.softs.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "導入・保守サービス",
+    "url": "https://www.softs.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、医療サービスの向上を医療機関と共に考え、専門性を活かした医療情報システムの創造を自ら行うことにより、社会に貢献し続けます",
+    "url": "https://www.softs.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは医療に従事する方々へ喜んでいただけるシステム・サービスを提供し続けることで、「人々に健康と幸せ」を届けられる企業を目指しています",
+    "url": "https://www.softs.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "創業以来のノウハウの蓄積が『商品』",
+    "url": "https://www.softs.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ソフトウェア・サービス",
+    "url": "https://www.softs.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社電子カルテ導入後のシステム管理業務を請負い、質の高いシステム運営をお客様へ提供するサービスを展開",
+    "url": "https://www.softs.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "確かな技術と豊富な経験をベースに、医療機関のネットワーク設計、構築、運用に関わる様々なソリューションを展開",
+    "url": "https://www.softs.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "「e-カルテ」、「CareMill」、「ケアミル」、「SeavoPACS」、「SeavoView」は、株式会社ソフトウェア・サービスの登録商標です",
+    "url": "https://www.softs.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "組織図・役員紹介 | 電子カルテ、医療情報システムの開発・販売 - (株)ソフトウェア・サービス",
+    "url": "https://www.softs.co.jp/company/directors.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品ラインナップ",
+    "url": "https://www.softs.co.jp/company/directors.html",
+    "pass": 1
+   },
+   {
+    "quote": "導入・保守サービス",
+    "url": "https://www.softs.co.jp/company/directors.html",
+    "pass": 1
+   },
+   {
+    "quote": "「e-カルテ」、「CareMill」、「ケアミル」、「SeavoPACS」、「SeavoView」は、株式会社ソフトウェア・サービスの登録商標です",
+    "url": "https://www.softs.co.jp/company/directors.html",
+    "pass": 1
+   },
+   {
+    "quote": "IR情報 | 電子カルテ、医療情報システムの開発・販売 - (株)ソフトウェア・サービス",
+    "url": "https://www.softs.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品ラインナップ",
+    "url": "https://www.softs.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "導入・保守サービス",
+    "url": "https://www.softs.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "「e-カルテ」、「CareMill」、「ケアミル」、「SeavoPACS」、「SeavoView」は、株式会社ソフトウェア・サービスの登録商標です",
+    "url": "https://www.softs.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "IRニュース| 電子カルテ、医療情報システムの開発・販売 - (株)ソフトウェア・サービス",
+    "url": "https://www.softs.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品ラインナップ",
+    "url": "https://www.softs.co.jp/ir/news.html",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "組織図・役員紹介",
+    "url": "https://www.softs.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "組織図・役員紹介",
+    "url": "https://www.softs.co.jp/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "組織図・役員紹介",
+    "url": "https://www.softs.co.jp/business/user/area.html",
+    "pass": 1
+   },
+   {
+    "quote": "組織図・役員紹介",
+    "url": "https://www.softs.co.jp/company/spirit.html",
+    "pass": 1
+   },
+   {
+    "quote": "組織図・役員紹介",
+    "url": "https://www.softs.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "組織図・役員紹介",
+    "url": "https://www.softs.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "組織図・役員紹介 | 電子カルテ、医療情報システムの開発・販売 - (株)ソフトウェア・サービス",
+    "url": "https://www.softs.co.jp/company/directors.html",
+    "pass": 1
+   },
+   {
+    "quote": "組織図・役員紹介",
+    "url": "https://www.softs.co.jp/company/directors.html",
+    "pass": 1
+   },
+   {
+    "quote": "組織図・役員紹介",
+    "url": "https://www.softs.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "組織図・役員紹介",
+    "url": "https://www.softs.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "組織図・役員紹介",
+    "url": "https://www.softs.co.jp/ir/financial/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "組織図・役員紹介",
+    "url": "https://www.softs.co.jp/ir/financial/quarter.html",
+    "pass": 1
+   },
+   {
+    "quote": "組織図・役員紹介",
+    "url": "https://www.softs.co.jp/ir/financial/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "組織図・役員紹介",
+    "url": "https://www.softs.co.jp/ir/financial/irpolicy.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、任意の指名委員会・報酬委員会など独立した諮問委員会を設置しておりませんが、取締役候補の選任等については、独立社外監査役",
+    "url": "https://www.softs.co.jp/ir/assets/pdf/corporate_governance20260130.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、取締役候補者の指名については、取締役会に先立ち、代表取締役より取締役会構成員に対する詳細な事前説明を行い、取締役との事",
+    "url": "https://www.softs.co.jp/ir/assets/pdf/corporate_governance20260130.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取締役の指名については、株主からの経営の委任に応え経営・組織運営に関する豊富な経験と幅広い見識を有し、取締役の職務と責任を全うで",
+    "url": "https://www.softs.co.jp/ir/assets/pdf/corporate_governance20260130.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "監査役の指名については、幅広い見識や高度な専門性を有し、監査役の職務と責任を全うできる人財を候補者として、選定することを方針として",
+    "url": "https://www.softs.co.jp/ir/assets/pdf/corporate_governance20260130.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "③その他当社の指名方針に合致しないと認められる場合",
+    "url": "https://www.softs.co.jp/ir/assets/pdf/corporate_governance20260130.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、運用コンサルティングを含む導入作業及び保守サービスの拡充のためには、ユーザーにとっての良きパートナー、アドバイザー及びコンサ",
+    "url": "https://www.softs.co.jp/ir/assets/pdf/corporate_governance20260130.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、経営陣幹部の指名や報酬の決定等の重要な意思決定等を行っ",
+    "url": "https://www.softs.co.jp/ir/assets/pdf/corporate_governance20260130.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "とし、また、当社の経営戦略、現状など重要な事項につき、代表取締役またはその指名する担当取締役から説明をいたします",
+    "url": "https://www.softs.co.jp/ir/assets/pdf/corporate_governance20260130.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名委員会又は報酬委員会に相当する",
+    "url": "https://www.softs.co.jp/ir/assets/pdf/corporate_governance20260130.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "前川 宗夫 ○ 弁護士大阪梅田法律事務所 パートナー",
+    "url": "https://www.softs.co.jp/ir/assets/pdf/corporate_governance20260130.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．業務執行、監査・監督、指名、報酬決定等の機能に係る事項（現状のコーポレート・ガバナンス体制の概要）",
+    "url": "https://www.softs.co.jp/ir/assets/pdf/corporate_governance20260130.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(2)補助すべき期間中は、指名された使用人への指揮権は監査役に移譲されたものとし、取締役の指揮命令は受けない",
+    "url": "https://www.softs.co.jp/ir/assets/pdf/corporate_governance20260130.pdf",
+    "pass": 2
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "導入・保守サービス",
+    "url": "https://www.softs.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "システム開発から販売、導入、保守の全てを一貫してご提供します",
+    "url": "https://www.softs.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "導入・保守サービス",
+    "url": "https://www.softs.co.jp/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "保守サポートについて",
+    "url": "https://www.softs.co.jp/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "導入・保守サービス",
+    "url": "https://www.softs.co.jp/business/user/area.html",
+    "pass": 1
+   },
+   {
+    "quote": "保守サポートについて",
+    "url": "https://www.softs.co.jp/business/user/area.html",
+    "pass": 1
+   },
+   {
+    "quote": "導入・保守サービス",
+    "url": "https://www.softs.co.jp/company/spirit.html",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、使っていただいている間、保守・メンテナンスもあります",
+    "url": "https://www.softs.co.jp/company/spirit.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は開発・営業・導入・保守すべて「I・T・S」をベースに一貫したサービス行っています",
+    "url": "https://www.softs.co.jp/company/spirit.html",
+    "pass": 1
+   },
+   {
+    "quote": "導入・保守サービス",
+    "url": "https://www.softs.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "JISQ27001:2014(ISO/IEC27001:2013)の認証範囲を拡大 認証範囲: (1) 医療機関を対象とした診療情報(バックアップ)の外部保存サービスの提供 (2) 高セキュリティ型リモート保守サービスの提供",
+    "url": "https://www.softs.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "導入・保守サービス",
+    "url": "https://www.softs.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "開発、販売、指導、保守を一貫して自社で行う",
+    "url": "https://www.softs.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "開発・営業・導入・保守、バリューチェーンの全工程が最適化された組織体制",
+    "url": "https://www.softs.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療機関向けに『e-カルテ®』（電子カルテシステム）、『NEWTONS』（オーダエントリーシステム）を中心とした医療情報システムを開発・販売・導入・保守まで行います",
+    "url": "https://www.softs.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "導入・保守サービス",
+    "url": "https://www.softs.co.jp/company/directors.html",
+    "pass": 1
+   },
+   {
+    "quote": "導入・保守サービス",
+    "url": "https://www.softs.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "導入・保守サービス",
+    "url": "https://www.softs.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "導入・保守サービス",
+    "url": "https://www.softs.co.jp/ir/financial/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "導入・保守サービス",
+    "url": "https://www.softs.co.jp/ir/financial/quarter.html",
+    "pass": 1
+   },
+   {
+    "quote": "導入・保守サービス",
+    "url": "https://www.softs.co.jp/ir/financial/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "導入・保守サービス",
+    "url": "https://www.softs.co.jp/ir/financial/irpolicy.html",
+    "pass": 1
+   },
+   {
+    "quote": "2. 売上高の内訳としては、 ソフトウェア、 ハードウェア、 保守サービスがありますが、",
+    "url": "https://www.softs.co.jp/ir/assets/pdf/monthly_2609.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その性質上、受注高及び受注残高の計算において保守サービス分は除外して計算し",
+    "url": "https://www.softs.co.jp/ir/assets/pdf/monthly_2609.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2. 売上高の内訳としては、 ソフトウェア、 ハードウェア、 保守サービスがありますが、",
+    "url": "https://www.softs.co.jp/ir/assets/pdf/monthly_2608.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その性質上、受注高及び受注残高の計算において保守サービス分は除外して計算し",
+    "url": "https://www.softs.co.jp/ir/assets/pdf/monthly_2608.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、当社取締役の知識・経験・能力等を一覧化したスキル・マトリックスは作成しておりませんが、当社取締役は、営業保守部門・技術部門・管理",
+    "url": "https://www.softs.co.jp/ir/assets/pdf/corporate_governance20260130.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは開発から販売・導入・保守を全て一貫して自社で行うため、人財の増強の成否が、中長期的な事業の拡大、シェア獲得に影響を",
+    "url": "https://www.softs.co.jp/ir/assets/pdf/corporate_governance20260130.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、運用コンサルティングを含む導入作業及び保守サービスの拡充のためには、ユーザーにとっての良きパートナー、アドバイザー及びコンサ",
+    "url": "https://www.softs.co.jp/ir/assets/pdf/corporate_governance20260130.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ストックオプションの付与対象者",
+    "url": "https://www.softs.co.jp/ir/assets/pdf/corporate_governance20260130.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の取締役に対する基本報酬は、毎月定額で支給される固定の月額報酬としております",
+    "url": "https://www.softs.co.jp/ir/assets/pdf/corporate_governance20260130.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2001年7月25日開催 第32回定時株主総会決議 年額100百万円以内",
+    "url": "https://www.softs.co.jp/ir/assets/pdf/corporate_governance20260130.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年1月20日開催 第54回定時株主総会決議 年額500百万円以内（うち、社外取締役分10百万円以内）",
+    "url": "https://www.softs.co.jp/ir/assets/pdf/corporate_governance20260130.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2003年7月28日開催 第34回定時株主総会決議 年額40百万円以内",
+    "url": "https://www.softs.co.jp/ir/assets/pdf/corporate_governance20260130.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年1月20日開催 第54回定時株主総会決議 年額10百万円以内 年1,000株以内 譲渡制限期間3年間",
+    "url": "https://www.softs.co.jp/ir/assets/pdf/corporate_governance20260130.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2. 売上高の内訳としては、 ソフトウェア、 ハードウェア、 保守サービスがありますが、",
+    "url": "https://www.softs.co.jp/ir/assets/pdf/monthly_2607.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その性質上、受注高及び受注残高の計算において保守サービス分は除外して計算し",
+    "url": "https://www.softs.co.jp/ir/assets/pdf/monthly_2607.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "開発・販売・導入・保守",
+    "url": "https://www.softs.co.jp/business/assets/img/1.%E5%8C%BB%E7%99%82IT%E3%81%AE%E3%83%97%E3%83%AD%E3%83%95%E3%82%A7%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB.png",
+    "pass": 2
+   },
+   {
+    "quote": "システム開発・導入・保守を自社完結",
+    "url": "https://www.softs.co.jp/business/assets/img/2.%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%A4%E3%83%B3%E3%83%AF%E3%83%B3.png",
+    "pass": 2
+   },
+   {
+    "quote": "そのため、システム毎に専用端末やライセンスが",
+    "url": "https://www.softs.co.jp/business/assets/img/2.%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%A4%E3%83%B3%E3%83%AF%E3%83%B3.png",
+    "pass": 2
+   },
+   {
+    "quote": "必要で、システム構築には多くのコストがかかると共に、システム運用時の保守サービスも一元化されていない等、課題が多く存在します",
+    "url": "https://www.softs.co.jp/business/assets/img/2.%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%A4%E3%83%B3%E3%83%AF%E3%83%B3.png",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "SSIの強み",
+    "url": "https://www.softs.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "SSIの強み",
+    "url": "https://www.softs.co.jp/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社の画像診断システム「Seavoシリーズ」は、電子カルテ一体型の強みを活かし電子カルテやオーダリングとシームレスな情報連携を可能にします",
+    "url": "https://www.softs.co.jp/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "SSIの強み",
+    "url": "https://www.softs.co.jp/business/user/area.html",
+    "pass": 1
+   },
+   {
+    "quote": "SSIの強み",
+    "url": "https://www.softs.co.jp/company/spirit.html",
+    "pass": 1
+   },
+   {
+    "quote": "SSIの強み",
+    "url": "https://www.softs.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "SSIの強み",
+    "url": "https://www.softs.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "SSIの強み",
+    "url": "https://www.softs.co.jp/company/directors.html",
+    "pass": 1
+   },
+   {
+    "quote": "SSIの強み",
+    "url": "https://www.softs.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "SSIの強み",
+    "url": "https://www.softs.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "SSIの強み",
+    "url": "https://www.softs.co.jp/ir/financial/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "SSIの強み",
+    "url": "https://www.softs.co.jp/ir/financial/quarter.html",
+    "pass": 1
+   },
+   {
+    "quote": "SSIの強み",
+    "url": "https://www.softs.co.jp/ir/financial/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "SSIの強み",
+    "url": "https://www.softs.co.jp/ir/financial/irpolicy.html",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年08月26日",
+    "url": "https://www.softs.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 SSユーザー会のご報告",
+    "url": "https://www.softs.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月10日",
+    "url": "https://www.softs.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "令和8年熊本地震に対する支援について",
+    "url": "https://www.softs.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年10月22日",
+    "url": "https://www.softs.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年09月01日",
+    "url": "https://www.softs.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年 SSユーザー会のご報告",
+    "url": "https://www.softs.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月21日",
+    "url": "https://www.softs.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月22日",
+    "url": "https://www.softs.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月16日",
+    "url": "https://www.softs.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月期9月度月次売上高等に関するお知らせ（PDF/118KB）",
+    "url": "https://www.softs.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月15日",
+    "url": "https://www.softs.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月期8月度月次売上高等に関するお知らせ（PDF/118KB）",
+    "url": "https://www.softs.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年7月",
+    "url": "https://www.softs.co.jp/business/user/area.html",
+    "pass": 1
+   },
+   {
+    "quote": "2003年10月",
+    "url": "https://www.softs.co.jp/business/user/area.html",
+    "pass": 1
+   },
+   {
+    "quote": "2005年4月",
+    "url": "https://www.softs.co.jp/business/user/area.html",
+    "pass": 1
+   },
+   {
+    "quote": "2005年9月",
+    "url": "https://www.softs.co.jp/business/user/area.html",
+    "pass": 1
+   },
+   {
+    "quote": "2006年8月",
+    "url": "https://www.softs.co.jp/business/user/area.html",
+    "pass": 1
+   },
+   {
+    "quote": "2007年4月",
+    "url": "https://www.softs.co.jp/business/user/area.html",
+    "pass": 1
+   },
+   {
+    "quote": "2009年2月",
+    "url": "https://www.softs.co.jp/business/user/area.html",
+    "pass": 1
+   },
+   {
+    "quote": "2007年7月",
+    "url": "https://www.softs.co.jp/business/user/area.html",
+    "pass": 1
+   },
+   {
+    "quote": "2013年5月",
+    "url": "https://www.softs.co.jp/business/user/area.html",
+    "pass": 1
+   },
+   {
+    "quote": "2011年9月",
+    "url": "https://www.softs.co.jp/business/user/area.html",
+    "pass": 1
+   },
+   {
+    "quote": "2013年3月",
+    "url": "https://www.softs.co.jp/business/user/area.html",
+    "pass": 1
+   },
+   {
+    "quote": "2013年10月",
+    "url": "https://www.softs.co.jp/business/user/area.html",
+    "pass": 1
+   },
+   {
+    "quote": "2014年1月",
+    "url": "https://www.softs.co.jp/business/user/area.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年11月",
+    "url": "https://www.softs.co.jp/business/user/area.html",
+    "pass": 1
+   },
+   {
+    "quote": "2015年10月",
+    "url": "https://www.softs.co.jp/business/user/area.html",
+    "pass": 1
+   },
+   {
+    "quote": "2015年12月",
+    "url": "https://www.softs.co.jp/business/user/area.html",
+    "pass": 1
+   },
+   {
+    "quote": "2016年3月",
+    "url": "https://www.softs.co.jp/business/user/area.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年6月",
+    "url": "https://www.softs.co.jp/business/user/area.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年12月",
+    "url": "https://www.softs.co.jp/business/user/area.html",
+    "pass": 1
+   },
+   {
+    "quote": "2018年6月",
+    "url": "https://www.softs.co.jp/business/user/area.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年2月",
+    "url": "https://www.softs.co.jp/business/user/area.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年10月",
+    "url": "https://www.softs.co.jp/business/user/area.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年11月",
+    "url": "https://www.softs.co.jp/business/user/area.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年1月",
+    "url": "https://www.softs.co.jp/business/user/area.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月",
+    "url": "https://www.softs.co.jp/business/user/area.html",
+    "pass": 1
+   },
+   {
+    "quote": "1994年、ウインドウズが発表され環境が変わり、以降、当社は順調に成長し始めたのです",
+    "url": "https://www.softs.co.jp/company/spirit.html",
+    "pass": 1
+   },
+   {
+    "quote": "1994年以前はコンピュータの世界は非常に閉鎖的で、ハードウェアもOSもすべて、特定メーカーのものでした",
+    "url": "https://www.softs.co.jp/company/spirit.html",
+    "pass": 1
+   },
+   {
+    "quote": "1994年、オープンな環境",
+    "url": "https://www.softs.co.jp/company/spirit.html",
+    "pass": 1
+   },
+   {
+    "quote": "1963年からこの業界で生きてきた私には大体、今後どうなっていくかがわかるのです",
+    "url": "https://www.softs.co.jp/company/spirit.html",
+    "pass": 1
+   },
+   {
+    "quote": "1969年4月",
+    "url": "https://www.softs.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1970年4月",
+    "url": "https://www.softs.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1971年4月",
+    "url": "https://www.softs.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1972年4月",
+    "url": "https://www.softs.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1978年3月",
+    "url": "https://www.softs.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1984年9月",
+    "url": "https://www.softs.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1986年3月",
+    "url": "https://www.softs.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1990年4月",
+    "url": "https://www.softs.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1994年5月",
+    "url": "https://www.softs.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1994年10月",
+    "url": "https://www.softs.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1995年5月",
+    "url": "https://www.softs.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1997年1月",
+    "url": "https://www.softs.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2000年4月",
+    "url": "https://www.softs.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2001年10月",
+    "url": "https://www.softs.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2002年10月",
+    "url": "https://www.softs.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2003年1月",
+    "url": "https://www.softs.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2003年8月",
+    "url": "https://www.softs.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2004年2月",
+    "url": "https://www.softs.co.jp/company/history.html",
+    "pass": 1
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "ただ、今後、議決権の行使率の低下や、海外投資家の構成比率の増加が見られた場合には、株主総会招集通知の英訳、議決権電子行使プラッ",
+    "url": "https://www.softs.co.jp/ir/assets/pdf/corporate_governance20260130.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "決算説明資料 等 | 電子カルテ - ソフトウェア・サービス — 決算説明資料 等 | 電子カルテ - ソフトウェア・サービス ソフトウェア・サービス https://www.softs.co.jp > financial > setumei",
+    "url": "https://www.softs.co.jp/ir/financial/setumei.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 | 電子カルテ、医療情報システムの開発・販売 — IR情報 | 電子カルテ、医療情報システムの開発・販売 ソフトウェア・サービス https://www.softs.co.jp > ...",
+    "url": "https://www.softs.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "【 ソフトウェア ・ サービス 】[3733]IR情報 中期 ... - 日本経済新聞 — 【 ソフトウェア ・ サービス 】[3733]IR情報 中期 ... - 日本経済新聞 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=3733",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信 | 電子カルテ、医療情報システムの開発・販売 — 決算 短信 | 電子カルテ、医療情報システムの開発・販売 ソフトウェア・サービス https://www.softs.co.jp > financial > tanshin",
+    "url": "https://www.softs.co.jp/ir/financial/tanshin.html",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェア ･ サービス のIR 資料 - 3733 / ｽﾀﾝﾀﾞｰﾄﾞ / 情報・通信業 — ソフトウェア ･ サービス のIR 資料 - 3733 / ｽﾀﾝﾀﾞｰﾄﾞ / 情報・通信業 バフェット・コード https://www.buffett-code.com > company > library",
+    "url": "https://www.buffett-code.com/company/3733/library",
+    "pass": 3
+   },
+   {
+    "quote": "組織図・役員紹介 | 電子カルテ、医療情報システムの開発・販売 — 組織図・役員紹介 | 電子カルテ、医療情報システムの開発・販売 ソフトウェア・サービス https://www.softs.co.jp > company > directors",
+    "url": "https://www.softs.co.jp/company/directors.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内 | 電子カルテ、医療情報システムの開発・販売 — 会社案内 | 電子カルテ、医療情報システムの開発・販売 ソフトウェア・サービス https://www.softs.co.jp > company",
+    "url": "https://www.softs.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ソフトウェア ・ サービス 有価証券報告書 全文（最新） — 株式会社 ソフトウェア ・ サービス 有価証券報告書 全文（最新） EDINET DB https://edinetdb.jp > ... > 株式会社ソフトウェア・サービス",
+    "url": "https://edinetdb.jp/company/E05376/text",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェア ・ サービス (3733)の概要 - 銘柄スカウターライト — ソフトウェア ・ サービス (3733)の概要 - 銘柄スカウターライト 銘柄スカウターライト https://scouter.monex.co.jp > report > top",
+    "url": "https://scouter.monex.co.jp/report/top/3733",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェア ・ サービス の企業情報 - 3733 / ｽﾀﾝﾀﾞｰﾄﾞ / 情報 ... — ソフトウェア ・ サービス の企業情報 - 3733 / ｽﾀﾝﾀﾞｰﾄﾞ / 情報 ... バフェット・コード https://www.buffett-code.com > company",
+    "url": "https://www.buffett-code.com/company/3733/",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェア ・ サービス 【3733】の 社長 ・役員 - キタイシホン — ソフトウェア ・ サービス 【3733】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/3733/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェア ・ サービス - Wikipedia — ソフトウェア ・ サービス - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > ソフトウェア・サービス",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%BB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "こんにちは！ ソフトウェア ・ サービス 採用担当です。 今回は ... — こんにちは！ ソフトウェア ・ サービス 採用担当です。 今回は ... Instagram https://www.instagram.com > DSHfZsSkovU",
+    "url": "https://www.instagram.com/p/DSHfZsSkovU/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.softs.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softs.co.jp/business/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softs.co.jp/business/user/area.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softs.co.jp/company/spirit.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softs.co.jp/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softs.co.jp/company/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softs.co.jp/company/directors.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softs.co.jp/ir/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softs.co.jp/ir/news.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softs.co.jp/ir/financial/calendar.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softs.co.jp/ir/financial/quarter.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softs.co.jp/ir/financial/info.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softs.co.jp/ir/financial/irpolicy.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.softs.co.jp/ir/assets/pdf/news_kabunushi_idouyotei_261022.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.softs.co.jp/ir/assets/pdf/monthly_2609.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.softs.co.jp/ir/assets/pdf/monthly_2608.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.softs.co.jp/company/assets/pdf/naibutousei_20220201.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.softs.co.jp/ir/assets/pdf/corporate_governance20260130.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.softs.co.jp/ir/assets/pdf/news_3Q_tanshin_20260911.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.softs.co.jp/ir/assets/pdf/monthly_2607.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.softs.co.jp/ir/assets/pdf/news_jikokabu_houkoku_260804.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.softs.co.jp/business/assets/img/1.%E5%8C%BB%E7%99%82IT%E3%81%AE%E3%83%97%E3%83%AD%E3%83%95%E3%82%A7%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.softs.co.jp/business/assets/img/2.%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%A4%E3%83%B3%E3%83%AF%E3%83%B3.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.softs.co.jp/business/assets/img/3.%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8%E6%80%9D%E8%80%83.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.softs.co.jp/business/assets/img/43_map_only.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.zuora.com/jp/glossary/saas-business-models/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://9e-career-itsaassales.com/articles/column/knowledge/62",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ソフトウェア・サービス",
+   "results": [
+    "https://www.softs.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%BB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9",
+    "https://job.mynavi.jp/27/pc/search/corp57120/outline.html",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=3733",
+    "https://www.buffett-code.com/company/3733/",
+    "https://ja.wikipedia.org/wiki/ソフトウェア・サービス",
+    "https://www.softs.co.jp/company/",
+    "https://www.soft-service.co.jp/",
+    "https://www.youtube.com/watch?v=ti_w7RSquqw",
+    "http://www.sws-inc.co.jp/index.html"
+   ]
+  },
+  {
+   "query": "ソフトウェア・サービス ビジネスモデル",
+   "results": [
+    "https://www.zuora.com/jp/glossary/saas-business-models/",
+    "https://9e-career-itsaassales.com/articles/column/knowledge/62",
+    "https://tech.toyokumo.co.jp/entry/business-model-shapes-engineering",
+    "https://www.wibu.com/jp/keynote-articles/keynote/detail/new-business-models-for-software-machines-and-materials.html",
+    "https://stripe.com/jp/guides/atlas/business-of-saas",
+    "https://baremetrics.com/jp/blog/saas-business-model",
+    "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB",
+    "https://www.softs.co.jp/ir/assets/pdf/56th_yuho.pdf",
+    "https://www.dts.co.jp/section/column/column-20241119-3.html",
+    "https://techcreate.balubo.jp/articles/saas-business-model-guide-2026"
+   ]
+  },
+  {
+   "query": "ソフトウェア・サービス 決算説明資料",
+   "results": [
+    "https://www.softs.co.jp/ir/financial/setumei.html",
+    "https://www.softs.co.jp/ir/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=3733",
+    "https://www.softs.co.jp/ir/financial/tanshin.html",
+    "https://www.buffett-code.com/company/3733/library",
+    "https://www.softs.co.jp/ir/financial/greeting.html",
+    "https://ir.s-max.co.jp/ja/ir/library/presentation.html",
+    "https://www.soft99.co.jp/ir/library/financial/2025/",
+    "https://www.shiftinc.jp/ir/library/lib02/",
+    "https://www.rakus.co.jp/ir/financial-results-presentation/"
+   ]
+  },
+  {
+   "query": "ソフトウェア・サービス 事業系統図",
+   "results": [
+    "https://www.softs.co.jp/company/directors.html",
+    "https://www.softs.co.jp/company/",
+    "https://edinetdb.jp/company/E05376/text",
+    "https://scouter.monex.co.jp/report/top/3733",
+    "https://www.buffett-code.com/company/3733/",
+    "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%BB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=3733",
+    "https://isms.jp/lst/ind/CR_JMAQA-S137.html",
+    "https://www.medical-s-p.com/post/%E9%9B%BB%E5%AD%90%E3%82%AB%E3%83%AB%E3%83%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0-%E6%96%B0%E7%89%88e-%E3%82%AB%E3%83%AB%E3%83%86%E3%80%90%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%80%91",
+    "https://note.com/powerpoint_jp/n/n93ee16c72a92"
+   ]
+  },
+  {
+   "query": "ソフトウェア・サービス 社長 インタビュー",
+   "results": [
+    "https://www.softs.co.jp/company/",
+    "https://www.softs.co.jp/company/directors.html",
+    "https://kitaishihon.com/company/3733/board-of-director",
+    "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%BB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9",
+    "https://www.instagram.com/p/DSHfZsSkovU/",
+    "https://job.mynavi.jp/27/pc/search/corp57120/obog.html",
+    "https://www.arteria-net.com/business/casestudy/case053/",
+    "https://www.iko.ac.jp/cross/report/845",
+    "https://www.buffett-code.com/company/3733/governance",
+    "https://the-leader.jp/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像12件／外部2頁・検索5回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式13頁／PDF・画像12件／外部2頁・検索5回）"
+ }
+}
