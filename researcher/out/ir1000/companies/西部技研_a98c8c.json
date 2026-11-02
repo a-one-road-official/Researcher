@@ -1,0 +1,1381 @@
+{
+ "name": "西部技研",
+ "aliases": [],
+ "context": "証券コード6223／機械／スタンダード（内国株式）／2025.12期 売上高34,322百万円 営業利益率13.2%",
+ "researched_at": "2026-11-02T19:23:22.081009+00:00",
+ "official_url": "https://seibu-giken.com/",
+ "identified_by": "search:yahoo_jp:西部技研",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1962年11月",
+    "url": "https://seibu-giken.com/about/outline/",
+    "pass": 1
+   },
+   {
+    "label": "創業",
+    "value": "1962年",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/53570/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "415名（2025年12月31日現在）",
+    "url": "https://seibu-giken.com/about/outline/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "779名（連結、2024年12月現在）",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/53570/",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "320億6900万円（連結、2024年12月期）",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/53570/",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "19,661 9,572 2,835 32,069",
+    "url": "https://kitaishihon.com/company/6223/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "19,700 9,863 4,758 34,322",
+    "url": "https://kitaishihon.com/company/6223/business",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "製品・サービスから探す",
+    "url": "https://seibu-giken.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションから探す",
+    "url": "https://seibu-giken.com/",
+    "pass": 1
+   },
+   {
+    "quote": "「環境に優しい空気のソリューションを届ける",
+    "url": "https://seibu-giken.com/",
+    "pass": 1
+   },
+   {
+    "quote": "西部技研の創業者の想いを受け継ぎ、世界中の環境問題を解決する製品を生み続け、",
+    "url": "https://seibu-giken.com/",
+    "pass": 1
+   },
+   {
+    "quote": "西部技研グループは、世界中のお客さまの空気環境創出に関するお悩みを解決する製品・ソリューションの開発、設計、製造、設置・施工、そしてメンテナンスや交換といったアフターサービスに至るまで、一気通貫で手がけています",
+    "url": "https://seibu-giken.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ピックアップ",
+    "url": "https://seibu-giken.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスから探す",
+    "url": "https://seibu-giken.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションから探す",
+    "url": "https://seibu-giken.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "経営環境の移ろいと志向してきたビジネスの変遷の中で、現在では他の追随を許さない固有技術をベースとした空気処理の為の機器と、それに関わるサービスとソリューションの提供において、国内のみならずグローバルな市場においても、確固たる地位を築いてきました",
+    "url": "https://seibu-giken.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスから探す",
+    "url": "https://seibu-giken.com/about/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションから探す",
+    "url": "https://seibu-giken.com/about/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "また、我々の創業者は、世界的な環境問題にいち早く注目し、省エネ製品や環境負荷を低減する製品を開発し商業化しました",
+    "url": "https://seibu-giken.com/about/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "「独自の発想と技術で物真似でない製品を生み出し、社会に貢献したい」",
+    "url": "https://seibu-giken.com/about/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "「環境に優しい空気のソリューションを届ける",
+    "url": "https://seibu-giken.com/about/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "西部技研の創業者の想いを受け継ぎ、世界中の環境問題を解決する製品を生み続け、世の中に届けることが我々グループの使命です",
+    "url": "https://seibu-giken.com/about/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスから探す",
+    "url": "https://seibu-giken.com/about/group/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションから探す",
+    "url": "https://seibu-giken.com/about/group/",
+    "pass": 1
+   },
+   {
+    "quote": "西部技研グループは、各事業分野において、国内外のグループ各社と連携しながら、高品質な製品とサービスを世界中のお客さまに提供しています",
+    "url": "https://seibu-giken.com/about/group/",
+    "pass": 1
+   },
+   {
+    "quote": "各種製品の開発・製造・販売・アフターサービス",
+    "url": "https://seibu-giken.com/about/group/",
+    "pass": 1
+   },
+   {
+    "quote": "VOC濃縮装置及び全熱交換器の製造・販売・アフターサービス",
+    "url": "https://seibu-giken.com/about/group/",
+    "pass": 1
+   },
+   {
+    "quote": "デシカント除湿機DSTシリーズの製造・販売・アフターサービス",
+    "url": "https://seibu-giken.com/about/group/",
+    "pass": 1
+   },
+   {
+    "quote": "ドライルームおよびクリーンルームの設計・コンサルティングサービス",
+    "url": "https://seibu-giken.com/about/group/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスから探す",
+    "url": "https://seibu-giken.com/about/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションから探す",
+    "url": "https://seibu-giken.com/about/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス拠点",
+    "url": "https://seibu-giken.com/about/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス・メンテナンスについてのご相談は、カスタマーセンターまでお願い致します",
+    "url": "https://seibu-giken.com/about/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスカスタマーセンター",
+    "url": "https://seibu-giken.com/about/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "本社サービスセンター",
+    "url": "https://seibu-giken.com/about/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "関東技術サービスセンター",
+    "url": "https://seibu-giken.com/about/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "東北サービスセンター",
+    "url": "https://seibu-giken.com/about/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "横浜サービスセンター",
+    "url": "https://seibu-giken.com/about/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "名古屋サービスセンター",
+    "url": "https://seibu-giken.com/about/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "⼤阪サービスセンター",
+    "url": "https://seibu-giken.com/about/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスから探す",
+    "url": "https://seibu-giken.com/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションから探す",
+    "url": "https://seibu-giken.com/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品のあゆみ",
+    "url": "https://seibu-giken.com/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "全熱交換ローターの商品化",
+    "url": "https://seibu-giken.com/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "デシカント除湿ローターの商品化",
+    "url": "https://seibu-giken.com/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "超低露点除湿ローターの商品化",
+    "url": "https://seibu-giken.com/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "日刊工業新聞社より10大新製品賞受賞(超低露点除湿ローターの開発)",
+    "url": "https://seibu-giken.com/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "世界初のゼオライト式VOC濃縮ローターの商品化",
+    "url": "https://seibu-giken.com/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "経済産業省 第3回ものづくり日本大賞 優秀賞受賞（イオン吸着式全熱交換器の開発製品化）",
+    "url": "https://seibu-giken.com/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "第29回「中小企業優秀新技術・新製品賞」優秀賞受賞",
+    "url": "https://seibu-giken.com/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスから探す",
+    "url": "https://seibu-giken.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションから探す",
+    "url": "https://seibu-giken.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社西部技研の創業者である隈利實は、世界的な環境問題にいち早く注目し、省エネ製品や環境負荷低減に寄与する製品を開発し、世界中に届けて参りました",
+    "url": "https://seibu-giken.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "我々のパーパス「環境に優しい空気のソリューションを届ける",
+    "url": "https://seibu-giken.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "」を全うし、クライメイト・ニュートラルな未来実現に向け、引き続き環境問題を解決する製品を生み続けるのが我々の使命であります",
+    "url": "https://seibu-giken.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "1. 環境配慮型製品・ソリューションのグローバル展開",
+    "url": "https://seibu-giken.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "地球規模での環境負荷低減に向けて、独自の技術や多様なイノベーションを活かした製品開発を行い、お客様の環境負荷低減に貢献できるソリューションをグローバルに提供します",
+    "url": "https://seibu-giken.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "循環型社会の形成に向けて、責任ある調達をはじめ、資源や製品の3R (Reduce, Reuse, Recycle)及び有効利用を通し、バリューチェーン全体での環境負荷の低減に努めます",
+    "url": "https://seibu-giken.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "・新たなサービスや製品/システムの開発",
+    "url": "https://seibu-giken.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "当社製品・サービスの開発及び提供による環境貢献量の拡大",
+    "url": "https://seibu-giken.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、当社製品利用顧客企業の環境負荷削減に寄与する製品をご提供しております",
+    "url": "https://seibu-giken.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "自社製品の環境負荷低減のための開発・設計",
+    "url": "https://seibu-giken.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "製品単位での環境負荷の評価・把握",
+    "url": "https://seibu-giken.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスから探す",
+    "url": "https://seibu-giken.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションから探す",
+    "url": "https://seibu-giken.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスから探す",
+    "url": "https://seibu-giken.com/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションから探す",
+    "url": "https://seibu-giken.com/ir/news/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "あおぞら銀行のウェブサイトで当社が紹介されました",
+    "url": "https://seibu-giken.com/",
+    "pass": 1
+   },
+   {
+    "quote": "アビスパ福岡とのシャレンパートナー契約締結に関するお知らせ（2026/27シーズン）",
+    "url": "https://seibu-giken.com/",
+    "pass": 1
+   },
+   {
+    "quote": "採用情報や西部技研での働き方について、ご紹介します",
+    "url": "https://seibu-giken.com/",
+    "pass": 1
+   },
+   {
+    "quote": "世界50か国以上に渡る代理店を通して事業展開",
+    "url": "https://seibu-giken.com/about/group/",
+    "pass": 1
+   },
+   {
+    "quote": "省エネへの対応が社会的なテーマとなる中、大学時代の先輩の紹介でハニカム構造",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/53570/",
+    "pass": 3
+   },
+   {
+    "quote": "海外では、スウェーデン、アメリカ、中国、ポーランド、韓国、タイ等の各子会社との緊密な連携のもと、ヨーロッパ、アメリカ、アジアをはじめ、約50か国にその販売網を広げております",
+    "url": "https://kitaishihon.com/company/6223/business",
+    "pass": 3
+   },
+   {
+    "quote": "各地域への直接営業及び各地域に代理店を設置し、グローバルな販売体制を構築しております",
+    "url": "https://kitaishihon.com/company/6223/business",
+    "pass": 3
+   },
+   {
+    "quote": "アナリストレポート・上場会社紹介",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/6223.html",
+    "pass": 3
+   },
+   {
+    "quote": "時代をさかのぼって、同社の歩みを紹介したい",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/6223.html",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルタント紹介へ",
+    "url": "https://rs-fukuoka.net/change/202409_seibugiken.html",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "顧客の期待を超える価値、環境保全や省エネルギーに資する価値、更に先端技術の発展に貢献する価値を日々突き詰める事で自社の存在意義を研ぎ澄まし、社会にとって必要不可欠なキープレイヤーとしての立ち位置を更に確かなものとして参ります",
+    "url": "https://seibu-giken.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "地球規模での環境負荷低減に向けて、独自の技術や多様なイノベーションを活かした製品開発を行い、お客様の環境負荷低減に貢献できるソリューションをグローバルに提供します",
+    "url": "https://seibu-giken.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "・取引先企業による気候変動への対応要請",
+    "url": "https://seibu-giken.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、当社製品利用顧客企業の環境負荷削減に寄与する製品をご提供しております",
+    "url": "https://seibu-giken.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "これは顧客企業のScope1又はScope2の削減の貢献に繋がるものであり、当社ではScope3の中で評価される項目となります",
+    "url": "https://seibu-giken.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のVOC濃縮装置の利用によって顧客が削減しているCO2は、年間約200万トン(内燃機関自動車約10,000台分の年間CO2排出量に相当)と推計しております",
+    "url": "https://seibu-giken.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の全熱交換器の利用によって顧客が削減しているCO2は、年間約20万トン(5～10階建て中規模ビル10棟の年間CO2排出量に相当)と推計しております",
+    "url": "https://seibu-giken.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "開発からメンテナンスまで一貫して提供することで、顧客からのニーズやフィードバックを得ることができ、それらを製品の開発・改良や提案活動に反映しています",
+    "url": "https://seibu-giken.com/ir/at_a_glance/",
+    "pass": 1
+   },
+   {
+    "quote": "日本、欧州、アジア、米国等に子会社および製造拠点を有しており、世界各国の顧客のニーズに迅速かつ柔軟に対応しながら、高品質、高性能な製品をグローバルで供給しています",
+    "url": "https://seibu-giken.com/ir/at_a_glance/",
+    "pass": 1
+   },
+   {
+    "quote": "創業者隈利實が九州大学工学部の研究者であった地位を投げ打ち、起業した際の事業に賭けた想いを決して忘れる事無く、これからも「省エネルギー」「環境保全」「先端テクノロジー」への貢献の三つの切り口において、他社の追随を許さない独自技術により、特殊空調の分野における国内のみならずグローバルな市場において、唯一無二の製品とサービスを多様な顧客層に提供してまいります",
+    "url": "https://seibu-giken.com/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "今でも、海外のほとんどの取引先と商社を通さず直接取引しています",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/53570/",
+    "pass": 3
+   },
+   {
+    "quote": "周囲から完成品の開発を勧められたものの、取引先と競合するため父は反対していましたが、母と一緒にその方針を転換",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/53570/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、グローバル化はスウェーデンの取引先のM&Aを皮切りに、2002年に米国、2008年は中国に現地法人を設立するなど、現地に販売会社やサービス拠点を設立して拡販する方針を明確化しました",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/53570/",
+    "pass": 3
+   },
+   {
+    "quote": "その際、顧客である設備担当者から「施工まで手掛けてみたら？」と言っていただくと、社員は挑戦したくなるのです",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/53570/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客からの声に耳を傾ける現場主義が大切ですね",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/53570/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客へ専門価値を届けるバリューチェーンを構築されました",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/53570/",
+    "pass": 3
+   },
+   {
+    "quote": "販売・設置に加え、導入をご検討いただいている新規顧客もしくは一定期間限定で使用される顧客に対しては、小型標準モデル機のレンタルサービスも提供しております",
+    "url": "https://kitaishihon.com/company/6223/business",
+    "pass": 3
+   },
+   {
+    "quote": "まで日本国内で手掛けており、その性能の高さから世界30か国以上の顧客に選ばれております",
+    "url": "https://kitaishihon.com/company/6223/business",
+    "pass": 3
+   },
+   {
+    "quote": "福岡県にある本社に営業本部を置き、この本部の指揮のもとに東京・大阪・名古屋に営業拠点を設置し、国内市場の顧客開拓、販売拡大に努めております",
+    "url": "https://kitaishihon.com/company/6223/business",
+    "pass": 3
+   },
+   {
+    "quote": "（注) 総販売額に対する割合が10％以上の主要な販売先がないため、相手先別の記載を省略しております",
+    "url": "https://kitaishihon.com/company/6223/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高",
+    "url": "https://kitaishihon.com/company/6223/business",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１.売上高は顧客の所在地を基礎とし、国又は地域に分類しております",
+    "url": "https://kitaishihon.com/company/6223/business",
+    "pass": 3
+   },
+   {
+    "quote": "３．主要な顧客ごとの情報",
+    "url": "https://kitaishihon.com/company/6223/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高のうち、連結損益計算書の売上高の10％以上を占める相手先がないため、記載を省略",
+    "url": "https://kitaishihon.com/company/6223/business",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/6223/business",
+    "pass": 3
+   },
+   {
+    "quote": "それでも創業者は顧客との競合を避けるため、部品供給に特化し完成品販売には否定的でした",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/6223.html",
+    "pass": 3
+   },
+   {
+    "quote": "「株主、顧客、社員を含むすべてのステークホルダーのために、会社が健全に成長することが最も重要なのです",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/6223.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、たとえば今最も伸びているユーザーはリチウムイオン電池工場で、全工程ドライな環境が必要です",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/6223.html",
+    "pass": 3
+   },
+   {
+    "quote": "10数年前、取引先から自分たちで施工はやらないのかと言われたのをきっかけに、今ではドライルーム、クリーンルームの施工事業にも進出しています」",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/6223.html",
+    "pass": 3
+   },
+   {
+    "quote": "全工程に同社がかかわることで、エンドユーザーと直接取引ができる",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/6223.html",
+    "pass": 3
+   },
+   {
+    "quote": "結果として受注額が大きくなるだけでなく、ユーザーから直接フィードバックがくることで、次の技術開発や製品化のヒントが得られる",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/6223.html",
+    "pass": 3
+   },
+   {
+    "quote": "もともと我々の製品は非常にニッチな市場で、競合が少ないところで事業を展開していましたが、市場の急速な拡大によってお客様が望むリードタイムにお答えすることが難しくなっていました",
+    "url": "https://rs-fukuoka.net/change/202409_seibugiken.html",
+    "pass": 3
+   },
+   {
+    "quote": "市場が拡大すれば競争相手も増えるので、それらの企業が本格参入するタイミングより早く生産拡大してお客様の期待に応える必要があります",
+    "url": "https://rs-fukuoka.net/change/202409_seibugiken.html",
+    "pass": 3
+   },
+   {
+    "quote": "おっしゃるとおりで、調達した資金を工場に投資しても、製品を開発して工場で製造しお客様に納品するのはすべて人です",
+    "url": "https://rs-fukuoka.net/change/202409_seibugiken.html",
+    "pass": 3
+   },
+   {
+    "quote": "誤解を恐れずに言えば、お客様から仕事を受注し、心臓部であるハニカムローターを少しでも多く買ってもらえれば良かったという面もありました",
+    "url": "https://rs-fukuoka.net/change/202409_seibugiken.html",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "1965年7月、九州大学工学部に研究者として勤務していた創業者が、他企業からの委託研究を主眼に置いた（株）西部技術研究所を創業したのが当社のルーツであり、今に至る全ての事業の原点です",
+    "url": "https://seibu-giken.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "1962年11月",
+    "url": "https://seibu-giken.com/about/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "1965年7月",
+    "url": "https://seibu-giken.com/about/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "平成22年度福岡県男女共同参画表彰 福岡県 企業賞受賞",
+    "url": "https://seibu-giken.com/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2050年のクライメイト・ニュートラル実現に向け、当社の重点項目として３つの活動目標を定めました",
+    "url": "https://seibu-giken.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年までに、廃棄物の発生防止、削減、再生利用及び再利用により、廃棄物の発生を大幅に削減する",
+    "url": "https://seibu-giken.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年までは再生可能エネルギーの導入と省エネ活動を進めることで電力由来の排出量の削減に取り組みます",
+    "url": "https://seibu-giken.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年までの温室効果ガス排出量削減計画",
+    "url": "https://seibu-giken.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "1973年のオイルショックを転機としてエネルギー問題に着目",
+    "url": "https://seibu-giken.com/ir/at_a_glance/",
+    "pass": 1
+   },
+   {
+    "quote": "1974年にハニカム成形技術を確立して全熱交換器の商品化に成功して以来、グローバル展開や事業拡大により成長を続けています",
+    "url": "https://seibu-giken.com/ir/at_a_glance/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年10月に東京証券取引所スタンダード市場への上場を果たし、設立から58年という年月を経てオーナー企業から脱却し、今後の持続的な成長をより確実に実現する為にパブリックカンパニーへと舵を切りました",
+    "url": "https://seibu-giken.com/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年に東証スタンダード市場への上場を果たした西部技研は、独自技術を軸に海外市場を席巻するグローバルニッチ企業だ",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/53570/",
+    "pass": 3
+   },
+   {
+    "quote": "1976年には独自のハニカム加工技術を確立し、委託加工事業をスタートさせました",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/53570/",
+    "pass": 3
+   },
+   {
+    "quote": "1975年と言えば、会社設立から10年目の節目に当たりますね",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/53570/",
+    "pass": 3
+   },
+   {
+    "quote": "1985年にはスウェーデンのDST社と、1988年にドイツのクラフタンラーゲン社と業務提携を結ばれています",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/53570/",
+    "pass": 3
+   },
+   {
+    "quote": "1987年です",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/53570/",
+    "pass": 3
+   },
+   {
+    "quote": "2015年に設立50周年を迎えたころです",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/53570/",
+    "pass": 3
+   },
+   {
+    "quote": "2003年から2007年ごろまでは西部技研単体で売上高が約40億円に達しており、50億円を軽く超えるだろうと思っていました",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/53570/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年12月期の売上高は、西部技研単体で183億7400万円、連結では320億6900万円を実現しています",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/53570/",
+    "pass": 3
+   },
+   {
+    "quote": "2030年に向けた今後のビジョンについてお聞かせください",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/53570/",
+    "pass": 3
+   },
+   {
+    "quote": "1964年福岡県生まれ",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/53570/",
+    "pass": 3
+   },
+   {
+    "quote": "1987年福岡大学法学部卒業後、西部技研入社",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/53570/",
+    "pass": 3
+   },
+   {
+    "quote": "1990年米国のニチメンに業務研修のため出向",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/53570/",
+    "pass": 3
+   },
+   {
+    "quote": "1993年西部技研営業部、1994年東京営業所で勤務後、1997年専務取締役営業本部長に就任",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/53570/",
+    "pass": 3
+   },
+   {
+    "quote": "2002年より現職",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/53570/",
+    "pass": 3
+   },
+   {
+    "quote": "1989年にタナベ経営（現タナベコンサルティンググループ）に入社",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/53570/",
+    "pass": 3
+   },
+   {
+    "quote": "2009年より専務取締役コンサルティング統轄本部長、副社長を経て2014年より現職",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/53570/",
+    "pass": 3
+   },
+   {
+    "quote": "2016年9月に東証1部（現プライム）上場を実現",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/53570/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期有価証券報告書より",
+    "url": "https://kitaishihon.com/company/6223/business",
+    "pass": 3
+   },
+   {
+    "quote": "1990年代より米国を始め、欧州、そして中国の産業化に伴い、大気汚染防止のための厳しい環境規制が施行され始めました",
+    "url": "https://kitaishihon.com/company/6223/business",
+    "pass": 3
+   },
+   {
+    "quote": "1988年に、世界に先駆けてゼオライトを用いたVOC濃縮ローター商品化に成功して以後、塗装や印刷業界だけでなく近年では急進中の半導体製造工程といった多様な用途に柔軟に対応した製品展開及び豊富なオプション展開をしております",
+    "url": "https://kitaishihon.com/company/6223/business",
+    "pass": 3
+   },
+   {
+    "quote": "2025年１月１日",
+    "url": "https://kitaishihon.com/company/6223/business",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月31日",
+    "url": "https://kitaishihon.com/company/6223/business",
+    "pass": 3
+   },
+   {
+    "quote": "2024年１月１日",
+    "url": "https://kitaishihon.com/company/6223/business",
+    "pass": 3
+   },
+   {
+    "quote": "2024年12月31日",
+    "url": "https://kitaishihon.com/company/6223/business",
+    "pass": 3
+   },
+   {
+    "quote": "1998年に「大学等技術移転促進法」、1999年の「産業活力再生特別措置法」など、大学発ベンチャー創出の基盤が整備されたことによる",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/6223.html",
+    "pass": 3
+   },
+   {
+    "quote": "1972年には委託研究を行う会社から自社製品の開発・製造・販売を行うメーカーへの転換をはかり、事業の幅を示す意図から「西部技研」と社名変更している",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/6223.html",
+    "pass": 3
+   },
+   {
+    "quote": "1987年 株式会社西部技研 入社",
+    "url": "https://rs-fukuoka.net/change/202409_seibugiken.html",
+    "pass": 3
+   },
+   {
+    "quote": "1990年 米国ニチメン会社にて業務研修のため出向",
+    "url": "https://rs-fukuoka.net/change/202409_seibugiken.html",
+    "pass": 3
+   },
+   {
+    "quote": "1993年 株式会社西部技研 営業部勤務",
+    "url": "https://rs-fukuoka.net/change/202409_seibugiken.html",
+    "pass": 3
+   },
+   {
+    "quote": "1994年 東京営業所勤務",
+    "url": "https://rs-fukuoka.net/change/202409_seibugiken.html",
+    "pass": 3
+   },
+   {
+    "quote": "1997年 専務取締役 営業本部長 就任",
+    "url": "https://rs-fukuoka.net/change/202409_seibugiken.html",
+    "pass": 3
+   },
+   {
+    "quote": "2002年 代表取締役 就任",
+    "url": "https://rs-fukuoka.net/change/202409_seibugiken.html",
+    "pass": 3
+   },
+   {
+    "quote": "2014年 春の藍綬褒章 受章",
+    "url": "https://rs-fukuoka.net/change/202409_seibugiken.html",
+    "pass": 3
+   },
+   {
+    "quote": "2018年当時はちょうどSIC（西部技研イノベーションセンター）を開設した時で、足元ではグローバルで特に中国関係の需要が大きく伸びていました",
+    "url": "https://rs-fukuoka.net/change/202409_seibugiken.html",
+    "pass": 3
+   },
+   {
+    "quote": "2018年5月30日",
+    "url": "https://rs-fukuoka.net/change/202409_seibugiken.html",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "車載用電池製造工場などでの厳格な湿度コントロールを可能とする「デシカント除湿機」や、半導体工場や自動車塗装で発生する大気汚染の原因となる揮発性有機化合物（Volatile Organic Compounds : VOC）を選択的に除去・濃縮する「VOC濃縮装置」をはじめとした、特殊空気処理装置およびシステムの開発・設計・製造・販売・据付・保守などのサービスをグローバルに提供している会社です",
+    "url": "https://seibu-giken.com/ir/at_a_glance/",
+    "pass": 1
+   },
+   {
+    "quote": "当時の委託先とライセンス契約を結び、ヒーター製品のOEMメーカーとして再スタートを切りました",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/53570/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "製品別売上構成比",
+    "url": "https://seibu-giken.com/ir/at_a_glance/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/6223/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/6223/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/6223/business",
+    "pass": 3
+   },
+   {
+    "quote": "（単一セグメント）",
+    "url": "https://kitaishihon.com/company/6223/business",
+    "pass": 3
+   },
+   {
+    "quote": "単一セグメントの企業の場合は、連結（あるいは単体）の売上と営業利益を反映しています",
+    "url": "https://kitaishihon.com/company/6223/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/6223/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/6223/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/6223/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、当社グループの事業は、空調事業の単一セグメントであるため、以下製品及びサービスごとに記載しております",
+    "url": "https://kitaishihon.com/company/6223/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは空調事業の単一の報告セグメントであるため、製品別に記載しております",
+    "url": "https://kitaishihon.com/company/6223/business",
+    "pass": 3
+   },
+   {
+    "quote": "(セグメント情報等)",
+    "url": "https://kitaishihon.com/company/6223/business",
+    "pass": 3
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://kitaishihon.com/company/6223/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、「空調事業」の単一セグメントであるため、記載を省略しています",
+    "url": "https://kitaishihon.com/company/6223/business",
+    "pass": 3
+   },
+   {
+    "quote": "【報告セグメントごとの固定資産の減損損失に関する情報】",
+    "url": "https://kitaishihon.com/company/6223/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは空調事業の単一セグメントであるため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/6223/business",
+    "pass": 3
+   },
+   {
+    "quote": "【報告セグメントごとののれんの償却額及び未償却残高に関する情報】",
+    "url": "https://kitaishihon.com/company/6223/business",
+    "pass": 3
+   },
+   {
+    "quote": "【報告セグメントごとの負ののれん発生益に関する情報】",
+    "url": "https://kitaishihon.com/company/6223/business",
+    "pass": 3
+   },
+   {
+    "quote": "「当社は創業時から環境と省エネルギーが事業セグメントでした",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/6223.html",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "西部技研の強み",
+    "url": "https://seibu-giken.com/ir/at_a_glance/",
+    "pass": 1
+   },
+   {
+    "quote": "ハニカム構造の除湿機で他社にはない特徴や強みはどこにありますか",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/53570/",
+    "pass": 3
+   },
+   {
+    "quote": "ニッチでコアな部品が当社の原点であり、強みとなっています",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/53570/",
+    "pass": 3
+   },
+   {
+    "quote": "強みである空気ソリューションのバリューチェーン戦略でその専門的用途と技術を掘り下げながらグローバル戦略を推進し、社会課題を解決し続ければ、中期経営計画で掲げている「2030年に連結売上高550億円」も達成できると期待しています",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/53570/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは設立当時より培ってきたこのハニカム加工技術の強みを活かしながら、地球環境に貢献する製品を生み出し続けることを重要なミッションと考え、日々新たな技術を磨いております",
+    "url": "https://kitaishihon.com/company/6223/business",
+    "pass": 3
+   },
+   {
+    "quote": "（売上高営業利益率）",
+    "url": "https://kitaishihon.com/company/6223/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループでは売上と売上を獲得するために費やしたコストを管理するために売上高営業利益率を主要なKPIとして管理しております",
+    "url": "https://kitaishihon.com/company/6223/business",
+    "pass": 3
+   },
+   {
+    "quote": "前年度に比べ、売上総利益率は34.0%と横ばいとなりました",
+    "url": "https://kitaishihon.com/company/6223/business",
+    "pass": 3
+   },
+   {
+    "quote": "一方で販売費及び一般管理費の伸びを最小限に抑えた結果、販売費及び一般管理費の売上高比率は20.8%（前連結会計年度は21.4％）に低下し、当連結会計年度における売上高営業利益率は、13.2％（前連結会計年度は12.6％）に好転しました",
+    "url": "https://kitaishihon.com/company/6223/business",
+    "pass": 3
+   },
+   {
+    "quote": "デシカント除湿機、VOC濃縮装置、全熱交換器などが現在の基幹商品であり、この心臓部にあたるハニカムを自社で開発・製造している点が他社に対する優位性や参入障壁を生み出していると思います」",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/6223.html",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/53570/",
+    "pass": 3
+   },
+   {
+    "quote": "そのビジネスモデルの変化と成長の秘訣を、代表取締役社長執行役員の隈 扶三郎氏に伺った",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/53570/",
+    "pass": 3
+   },
+   {
+    "quote": "開発型製品は成長のきっかけをつくるビジネスモデルですが、売上高がスポット（受注）型事業に陥りやすいです",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/53570/",
+    "pass": 3
+   },
+   {
+    "quote": "完成品ブランド開発と販売は強烈なビジネスモデルの転換であり、値決め力の強化であり、中堅企業になるために避けては通れない道です",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/53570/",
+    "pass": 3
+   },
+   {
+    "quote": "し」のビジネスモデル転換です",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/53570/",
+    "pass": 3
+   },
+   {
+    "quote": "そこから完成品へ、そしてサービスや施工、建設といったソリューションまで広がりましたが、今でも原点となる部品事業を継続しながら一気通貫のビジネスモデルを築いています",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/53570/",
+    "pass": 3
+   },
+   {
+    "quote": "50周年を迎えたころ、一気通貫のビジネスモデルは今後も拡大するだろうと手応えを感じました",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/53570/",
+    "pass": 3
+   },
+   {
+    "quote": "工場内の空調（空気）をプロデュースできる、社会貢献価値の高いビジネスモデルです",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/53570/",
+    "pass": 3
+   },
+   {
+    "quote": "その他にも、得意な技術をより伸ばすとか、新たなビジネスモデルを考えるとか、クリエイティブな人材も必要となります",
+    "url": "https://rs-fukuoka.net/change/202409_seibugiken.html",
+    "pass": 3
+   },
+   {
+    "quote": "前回のインタビューでは、部品メーカーから完成品メーカーにビジネスモデルを転換させたことによって会社が大きく成長しているというお話を伺いました",
+    "url": "https://rs-fukuoka.net/change/202409_seibugiken.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "西部技研 、グローバルニッチトップを目指す価値創造企業 — 西部技研 、グローバルニッチトップを目指す価値創造企業 タナベコンサルティング https://review.tanabeconsulting.co.jp > 100年経営対談",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/53570/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 西部技研 コーポレートサイト - あらゆる空気に ... — 株式会社 西部技研 コーポレートサイト - あらゆる空気に ... seibu-giken.com https://seibu-giken.com",
+    "url": "https://seibu-giken.com/",
+    "pass": 3
+   },
+   {
+    "quote": "西部技研 (6223) の企業概要・業績・財務・IR資料 — 西部技研 (6223) の企業概要・業績・財務・IR資料 crex-data.com https://www.crex-data.com > 企業",
+    "url": "https://www.crex-data.com/company/6223",
+    "pass": 3
+   },
+   {
+    "quote": "(株) 西部技研 【東証スタンダード上場】の会社概要 - マイナビ — (株) 西部技研 【東証スタンダード上場】の会社概要 - マイナビ マイナビ https://job.mynavi.jp > search > corp276287 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp276287/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "［新連載］福岡発の世界企業 西部技研 、積極投資で売上高10 ... — ［新連載］福岡発の世界企業 西部技研 、積極投資で売上高10 ... 日経ビジネス電子版 https://business.nikkei.com > 日経トップリーダー",
+    "url": "https://business.nikkei.com/atcl/seminar/19nv/120500136/040201251/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 | 株式会社 西部技研 – IR情報サイト — 決算説明資料 | 株式会社 西部技研 – IR情報サイト seibu-giken.com https://seibu-giken.com > IR情報",
+    "url": "https://seibu-giken.com/ir/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 西部技研 – IR情報サイト — 株式会社 西部技研 – IR情報サイト seibu-giken.com https://seibu-giken.com > ...",
+    "url": "https://seibu-giken.com/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "【 西部技研 】[6223]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 西部技研 】[6223]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=6223",
+    "pass": 3
+   },
+   {
+    "quote": "西部技研 【6223】の最新 決算 発表、業績修正 - 株探 — 西部技研 【6223】の最新 決算 発表、業績修正 - 株探 株探 https://kabutan.jp > 西部技研 (6223)",
+    "url": "https://kabutan.jp/stock/finance?code=6223",
+    "pass": 3
+   },
+   {
+    "quote": "西部技研 【6223】のIR 資料 - キタイシホン — 西部技研 【6223】のIR 資料 - キタイシホン キタイシホン https://kitaishihon.com > company > ir-library",
+    "url": "https://kitaishihon.com/company/6223/ir-library",
+    "pass": 3
+   },
+   {
+    "quote": "グループ体制 - 株式会社 西部技研 コーポレートサイト — グループ体制 - 株式会社 西部技研 コーポレートサイト seibu-giken.com https://seibu-giken.com > 西部技研について",
+    "url": "https://seibu-giken.com/about/group/",
+    "pass": 3
+   },
+   {
+    "quote": "西部技研 【6223】の 事業 内容 - キタイシホン — 西部技研 【6223】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/6223/business",
+    "pass": 3
+   },
+   {
+    "quote": "西部技研 産業用特殊空調システム世界的メーカー — 西部技研 産業用特殊空調システム世界的メーカー 野村インベスター・リレーションズ株式会社 PDF https://www.nomura-ir.co.jp > link > qnresearch_6223",
+    "url": "https://www.nomura-ir.co.jp/ja/qnresearch/report_6223/main/00/teaserItems1/00/link/qnresearch_6223.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 西部技研 の会社情報 - LabBase就職 — 株式会社 西部技研 の会社情報 - LabBase就職 LabBase就職 https://compass.labbase.jp > company",
+    "url": "https://compass.labbase.jp/company/2023",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 西部技研 ｜企業TOP インタビュー ｜福岡の企業を知る — 株式会社 西部技研 ｜企業TOP インタビュー ｜福岡の企業を知る リージョナルキャリア福岡 https://rs-fukuoka.net > change > 202409_seibugiken",
+    "url": "https://rs-fukuoka.net/change/202409_seibugiken.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 西部技研 代表取締役 社長 執行役員 隈 扶三郎 — 株式会社 西部技研 代表取締役 社長 執行役員 隈 扶三郎 社長名鑑 https://shachomeikan.jp > industry_article",
+    "url": "https://shachomeikan.jp/industry_article/2779",
+    "pass": 3
+   },
+   {
+    "quote": "JAXA様 インタビュー - 株式会社 西部技研 コーポレートサイト — JAXA様 インタビュー - 株式会社 西部技研 コーポレートサイト seibu-giken.com https://seibu-giken.com > jaxa",
+    "url": "https://seibu-giken.com/jaxa/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 西部技研 – MIMOSA+ — 株式会社 西部技研 – MIMOSA+ 株式会社ヒューマナイズ https://humanize.co.jp > インタビュー > インタビュー",
+    "url": "https://humanize.co.jp/mimosa-plus/2021/10/18/001-3/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://seibu-giken.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seibu-giken.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seibu-giken.com/about/philosophy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seibu-giken.com/about/group/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seibu-giken.com/about/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seibu-giken.com/about/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seibu-giken.com/sustainability/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seibu-giken.com/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seibu-giken.com/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seibu-giken.com/ir/at_a_glance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seibu-giken.com/en/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seibu-giken.com/kr/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seibu-giken.com/en/about/philosophy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seibu-giken.com/kr/about/philosophy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seibu-giken.com/en/about/group/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seibu-giken.com/kr/about/group/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seibu-giken.com/en/about/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seibu-giken.com/kr/about/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seibu-giken.com/en/about/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seibu-giken.com/kr/about/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seibu-giken.com/en/sustainability/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seibu-giken.com/ir/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seibu-giken.com/ir/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seibu-giken.com/ir/en/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seibu-giken.com/ir/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://seibu-giken.com/ir/wp/wp-content/themes/seibu/pdf/accesstocompanyreport2506.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://seibu-giken.com/ir/wp/wp-content/themes/seibu/img/ataglance/strongpoint_flow.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://seibu-giken.com/ir/wp/wp-content/themes/seibu/img/ataglance/strongpoint_flow2.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://seibu-giken.com/wp/wp-content/themes/seibu/assets/img/about/img03.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/53570/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/6223/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/6223.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rs-fukuoka.net/change/202409_seibugiken.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "西部技研",
+   "results": [
+    "https://seibu-giken.com/",
+    "https://ja.wikipedia.org/wiki/%E8%A5%BF%E9%83%A8%E6%8A%80%E7%A0%94",
+    "https://job.mynavi.jp/27/pc/search/corp276287/outline.html",
+    "https://www.seibugiken.co.jp/",
+    "https://compass.labbase.jp/company/2023",
+    "https://ja.wikipedia.org/wiki/西部技研",
+    "https://seibu-giken.com/about/outline/",
+    "https://finance.yahoo.co.jp/quote/6223.T",
+    "https://kabutan.jp/stock/?code=6223",
+    "https://finance.yahoo.co.jp/quote/6223.T/profile"
+   ]
+  },
+  {
+   "query": "西部技研 ビジネスモデル",
+   "results": [
+    "https://review.tanabeconsulting.co.jp/100fcc/53570/",
+    "https://seibu-giken.com/",
+    "https://www.crex-data.com/company/6223",
+    "https://job.mynavi.jp/28/pc/search/corp276287/outline.html",
+    "https://business.nikkei.com/atcl/seminar/19nv/120500136/040201251/",
+    "https://kitaishihon.com/company/6223/business",
+    "https://www.jpx.co.jp/listing/ir-clips/interview/detail/6223.html",
+    "https://compass.labbase.jp/company/2023",
+    "https://seibu-giken.com/ir/at_a_glance/",
+    "https://ja.wikipedia.org/wiki/西部技研"
+   ]
+  },
+  {
+   "query": "西部技研 決算説明資料",
+   "results": [
+    "https://seibu-giken.com/ir/presentations/",
+    "https://seibu-giken.com/ir/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=6223",
+    "https://kabutan.jp/stock/finance?code=6223",
+    "https://kitaishihon.com/company/6223/ir-library",
+    "https://www.buffett-code.com/company/6223/library",
+    "https://seibu-giken.com/ir/calendar/",
+    "https://hd.saibugas.co.jp/ir/ir_info/meeting/",
+    "https://seibu-giken.com/ir/library/",
+    "https://edinetdb.jp/company/E38926/presentations/"
+   ]
+  },
+  {
+   "query": "西部技研 事業系統図",
+   "results": [
+    "https://seibu-giken.com/about/group/",
+    "https://kitaishihon.com/company/6223/business",
+    "https://job.mynavi.jp/28/pc/search/corp276287/outline.html",
+    "https://www.nomura-ir.co.jp/ja/qnresearch/report_6223/main/00/teaserItems1/00/link/qnresearch_6223.pdf",
+    "https://compass.labbase.jp/company/2023",
+    "https://seibu-giken.com/ir/message/",
+    "https://review.tanabeconsulting.co.jp/modelcompanies/45831/",
+    "https://ja.wikipedia.org/wiki/%E8%A5%BF%E9%83%A8%E6%8A%80%E7%A0%94",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100RS55.pdf",
+    "https://ja.wikipedia.org/wiki/西部技研"
+   ]
+  },
+  {
+   "query": "西部技研 社長 インタビュー",
+   "results": [
+    "https://www.jpx.co.jp/listing/ir-clips/interview/detail/6223.html",
+    "https://rs-fukuoka.net/change/202409_seibugiken.html",
+    "https://shachomeikan.jp/industry_article/2779",
+    "https://seibu-giken.com/jaxa/",
+    "https://humanize.co.jp/mimosa-plus/2021/10/18/001-3/",
+    "https://www.regional.co.jp/change/201805_vol56.html",
+    "https://www.youtube.com/watch?v=D-RqdMYevF8",
+    "https://zuu.co.jp/media/stock/interview-seibu-giken",
+    "http://kail.jp/list/kuma-fumio/",
+    "https://l-size.co.jp/2024/09/18/top-seibugiken-202409/"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式25頁／PDF・画像4件／外部4頁・検索5回）"
+ }
+}

@@ -1,0 +1,1244 @@
+{
+ "name": "ヨシコン",
+ "aliases": [],
+ "context": "証券コード5280／不動産業／スタンダード（内国株式）／2026.03期 売上高29,123百万円 営業利益率13.4%",
+ "researched_at": "2026-11-02T19:22:04.443482+00:00",
+ "official_url": "https://www.yoshicon.co.jp/",
+ "identified_by": "search:yahoo_jp:ヨシコン",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1949年3月",
+    "url": "https://www.yoshicon.co.jp/main/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "会社設立",
+    "value": "1969年1月13日",
+    "url": "https://www.yoshicon.co.jp/main/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "設立年月日",
+    "value": "1969年1月13日",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5280",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "正社員数",
+    "value": "58名（連結）2026年3月31日現在",
+    "url": "https://www.yoshicon.co.jp/main/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "40 人",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5280",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "不動産の売買・仲介・賃貸借・管理・並びに調査・特許権・実用新案権・意匠権の販売、 建築資材・環境資材の販売、 信託受益権販売業、投資顧問業、売電事業、駐車場運営管理、太陽光運営管理、商業施設工場等誘致",
+    "url": "https://www.yoshicon.co.jp/main/company/outline/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "トータルソリューション",
+    "url": "https://www.yoshicon.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスと実績",
+    "url": "https://www.yoshicon.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品取引に関するご案内",
+    "url": "https://www.yoshicon.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "トータルソリューション",
+    "url": "https://www.yoshicon.co.jp/main/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "製品について",
+    "url": "https://www.yoshicon.co.jp/main/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品取引に関するご案内",
+    "url": "https://www.yoshicon.co.jp/main/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "トータルソリューション",
+    "url": "https://www.yoshicon.co.jp/main/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "第二種金融商品取引業 東海財務局長（金商）第89号",
+    "url": "https://www.yoshicon.co.jp/main/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品取引に関するご案内",
+    "url": "https://www.yoshicon.co.jp/main/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "トータルソリューション",
+    "url": "https://www.yoshicon.co.jp/main/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品取引に関するご案内",
+    "url": "https://www.yoshicon.co.jp/main/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "トータルソリューション",
+    "url": "https://www.yoshicon.co.jp/main/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品取引に関するご案内",
+    "url": "https://www.yoshicon.co.jp/main/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "トータルソリューション",
+    "url": "https://www.yoshicon.co.jp/main/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品取引に関するご案内",
+    "url": "https://www.yoshicon.co.jp/main/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "トータルソリューション",
+    "url": "https://www.yoshicon.co.jp/main/investor/",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品取引に関するご案内",
+    "url": "https://www.yoshicon.co.jp/main/investor/",
+    "pass": 1
+   },
+   {
+    "quote": "トータルソリューション",
+    "url": "https://www.yoshicon.co.jp/main/corporate/detail/",
+    "pass": 1
+   },
+   {
+    "quote": "また、工場生産の為、安定した品質の製品をご提供できます",
+    "url": "https://www.yoshicon.co.jp/main/corporate/detail/",
+    "pass": 1
+   },
+   {
+    "quote": "製品同士の連結は、強固な構造です",
+    "url": "https://www.yoshicon.co.jp/main/corporate/detail/",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品取引に関するご案内",
+    "url": "https://www.yoshicon.co.jp/main/corporate/detail/",
+    "pass": 1
+   },
+   {
+    "quote": "トータルソリューション",
+    "url": "https://www.yoshicon.co.jp/main/ir/company_faq/",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品取引に関するご案内",
+    "url": "https://www.yoshicon.co.jp/main/ir/company_faq/",
+    "pass": 1
+   },
+   {
+    "quote": "トータルソリューション",
+    "url": "https://www.yoshicon.co.jp/main/data/",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品取引に関するご案内",
+    "url": "https://www.yoshicon.co.jp/main/data/",
+    "pass": 1
+   },
+   {
+    "quote": "トータルソリューション",
+    "url": "https://www.yoshicon.co.jp/main/ir/data/",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品取引に関するご案内",
+    "url": "https://www.yoshicon.co.jp/main/ir/data/",
+    "pass": 1
+   },
+   {
+    "quote": "トータルソリューション",
+    "url": "https://www.yoshicon.co.jp/main/ir/data/?id=2",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品取引に関するご案内",
+    "url": "https://www.yoshicon.co.jp/main/ir/data/?id=2",
+    "pass": 1
+   },
+   {
+    "quote": "トータルソリューション",
+    "url": "https://www.yoshicon.co.jp/main/ir/data/?id=3",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品取引に関するご案内",
+    "url": "https://www.yoshicon.co.jp/main/ir/data/?id=3",
+    "pass": 1
+   },
+   {
+    "quote": "トータルソリューション",
+    "url": "https://www.yoshicon.co.jp/main/ir/data/?id=1",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品取引に関するご案内",
+    "url": "https://www.yoshicon.co.jp/main/ir/data/?id=1",
+    "pass": 1
+   },
+   {
+    "quote": "マテリアル事業におきましては、利益幅の大きい商品への販売シフトもあり、減収増益となりました",
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/7f07f8a99da2519c16007cb777173d71.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "利益幅の大きい商品への販売シフトもあり、減収増益となった",
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/33393d564cc3fdac0984edc9543b7db2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "利益幅の大きい商品への販売シフトもあり、減収増益となった",
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/33393d564cc3fdac0984edc9543b7db2-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【不動産開発とマンションが2本柱】コンクリート製品は縮少へ",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5280",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5280",
+    "pass": 3
+   },
+   {
+    "quote": "サービスの特長",
+    "url": "https://www.regional.co.jp/change/202405_yoshicon.html",
+    "pass": 3
+   },
+   {
+    "quote": "コンクリート製品の製造販売から始まった総合デベロッパー",
+    "url": "https://www.regional.co.jp/change/202405_yoshicon.html",
+    "pass": 3
+   },
+   {
+    "quote": "ヨシコン株式会社は、新築分譲マンション販売や住宅開発、企業誘致、設計監理・建築から運営管理まで、地域に根ざした不動産サービスを提供する静岡の総合デベロッパーです",
+    "url": "https://www.regional.co.jp/change/202405_yoshicon.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社は1949年に創業し、当初は道路や護岸向けブロックといった土木中心のコンクリート二次製品の製造販売を行っていました",
+    "url": "https://www.regional.co.jp/change/202405_yoshicon.html",
+    "pass": 3
+   },
+   {
+    "quote": "不動産事業に乗り出したのは1990年台、当時はコンクリート製品の受注を拡大するべく不動産開発が重大なミッションでした",
+    "url": "https://www.regional.co.jp/change/202405_yoshicon.html",
+    "pass": 3
+   },
+   {
+    "quote": "当時社長だった父は、土地造成で必要となるコンクリート製品を販売するべく企業に土地の紹介をしていました",
+    "url": "https://www.regional.co.jp/change/202405_yoshicon.html",
+    "pass": 3
+   },
+   {
+    "quote": "コンクリート製品で得る利益よりも仲介手数料のほうが大きいことに疑問を感じた父は、自社で土地取引ができるようにしました",
+    "url": "https://www.regional.co.jp/change/202405_yoshicon.html",
+    "pass": 3
+   },
+   {
+    "quote": "これからうちは不動産事業が主力になるかもしれないと自社マンションを紹介するビラ配りのアルバイトをしながら、ふと思ったことを記憶しています",
+    "url": "https://www.regional.co.jp/change/202405_yoshicon.html",
+    "pass": 3
+   },
+   {
+    "quote": "その集大成として2021年6月には当社がメインスポンサーとして、静岡を核とする産業地域に重点投資を行う「東海道リート投資法人」（REITリート／資家から集めた資金で不動産への投資を行い、その賃貸料収入や売却益を投資家に分配する金融商品）を上場できました",
+    "url": "https://www.regional.co.jp/change/202405_yoshicon.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様に提供できるサービスの幅広さは企業としての強みであり、仕事のやりがいにも直結するはずです",
+    "url": "https://www.regional.co.jp/change/202405_yoshicon.html",
+    "pass": 3
+   },
+   {
+    "quote": "「もっと企業について知りたい」「まずは相談してみたい」という方は、各種支援サービスにエントリーのうえ、コンサルタントにご相談ください",
+    "url": "https://www.regional.co.jp/change/202405_yoshicon.html",
+    "pass": 3
+   },
+   {
+    "quote": "サービス展開エリア",
+    "url": "https://www.regional.co.jp/change/202405_yoshicon.html",
+    "pass": 3
+   },
+   {
+    "quote": "サービスの特長",
+    "url": "https://rs-shizuoka.net/2024/05/change-yoshicon.html",
+    "pass": 3
+   },
+   {
+    "quote": "サービスポリシー",
+    "url": "https://rs-shizuoka.net/2024/05/change-yoshicon.html",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年11月02日",
+    "url": "https://www.yoshicon.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月30日",
+    "url": "https://www.yoshicon.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第２四半期決算短信 (529KB)",
+    "url": "https://www.yoshicon.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第２四半期 決算補足資料 (922KB)",
+    "url": "https://www.yoshicon.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月01日",
+    "url": "https://www.yoshicon.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月01日",
+    "url": "https://www.yoshicon.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月03日",
+    "url": "https://www.yoshicon.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月9日現在",
+    "url": "https://www.yoshicon.co.jp/main/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "1949年3月",
+    "url": "https://www.yoshicon.co.jp/main/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "1969年1月13日",
+    "url": "https://www.yoshicon.co.jp/main/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "企業情報：沿革 | ヨシコン株式会社",
+    "url": "https://www.yoshicon.co.jp/main/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "企業情報：沿革 – ヨシコン株式会社",
+    "url": "https://www.yoshicon.co.jp/main/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1949年 3月",
+    "url": "https://www.yoshicon.co.jp/main/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1969年 1月",
+    "url": "https://www.yoshicon.co.jp/main/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1986年 6月",
+    "url": "https://www.yoshicon.co.jp/main/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1990年 4月",
+    "url": "https://www.yoshicon.co.jp/main/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1993年11月",
+    "url": "https://www.yoshicon.co.jp/main/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1996年 3月",
+    "url": "https://www.yoshicon.co.jp/main/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2005年 6月",
+    "url": "https://www.yoshicon.co.jp/main/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2006年 6月",
+    "url": "https://www.yoshicon.co.jp/main/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年 9月",
+    "url": "https://www.yoshicon.co.jp/main/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2013年 7月",
+    "url": "https://www.yoshicon.co.jp/main/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年 7月",
+    "url": "https://www.yoshicon.co.jp/main/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年 4月",
+    "url": "https://www.yoshicon.co.jp/main/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年 4月",
+    "url": "https://www.yoshicon.co.jp/main/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第２四半期決算短信 (529KB)",
+    "url": "https://www.yoshicon.co.jp/main/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第２四半期 決算補足資料 (922KB)",
+    "url": "https://www.yoshicon.co.jp/main/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期決算発表",
+    "url": "https://www.yoshicon.co.jp/main/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算発表",
+    "url": "https://www.yoshicon.co.jp/main/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "1993年11月に日本証券業協会に店頭登録し、現在は東京証券取引所のスタンダード市場へ上場しております",
+    "url": "https://www.yoshicon.co.jp/main/ir/company_faq/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第２四半期決算短信 (529KB)",
+    "url": "https://www.yoshicon.co.jp/main/ir/data/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第２四半期 決算補足資料 (922KB)",
+    "url": "https://www.yoshicon.co.jp/main/ir/data/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第１四半期決算短信 (527KB)",
+    "url": "https://www.yoshicon.co.jp/main/ir/data/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第１四半期 決算補足資料 (944KB)",
+    "url": "https://www.yoshicon.co.jp/main/ir/data/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 有価証券報告書 (1MB)",
+    "url": "https://www.yoshicon.co.jp/main/ir/data/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第２四半期決算短信 (529KB)",
+    "url": "https://www.yoshicon.co.jp/main/ir/data/?id=2",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第２四半期 決算補足資料 (922KB)",
+    "url": "https://www.yoshicon.co.jp/main/ir/data/?id=2",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第１四半期決算短信 (527KB)",
+    "url": "https://www.yoshicon.co.jp/main/ir/data/?id=2",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第１四半期 決算補足資料 (944KB)",
+    "url": "https://www.yoshicon.co.jp/main/ir/data/?id=2",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 決算短信 (591KB)",
+    "url": "https://www.yoshicon.co.jp/main/ir/data/?id=2",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 決算補足資料 (985KB)",
+    "url": "https://www.yoshicon.co.jp/main/ir/data/?id=2",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 第3四半期 決算補足資料 (905KB)",
+    "url": "https://www.yoshicon.co.jp/main/ir/data/?id=2",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 第３四半期決算短信 (516KB)",
+    "url": "https://www.yoshicon.co.jp/main/ir/data/?id=2",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第2四半期 決算補足資料 (920KB)",
+    "url": "https://www.yoshicon.co.jp/main/ir/data/?id=2",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第2四半期 決算短信 (526KB)",
+    "url": "https://www.yoshicon.co.jp/main/ir/data/?id=2",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第1四半期 決算補足資料 (871KB)",
+    "url": "https://www.yoshicon.co.jp/main/ir/data/?id=2",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第1四半期 決算短信 (525KB)",
+    "url": "https://www.yoshicon.co.jp/main/ir/data/?id=2",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 決算補足資料 (930KB)",
+    "url": "https://www.yoshicon.co.jp/main/ir/data/?id=2",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 決算短信 (577KB)",
+    "url": "https://www.yoshicon.co.jp/main/ir/data/?id=2",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第3四半期 決算補足資料 (811KB)",
+    "url": "https://www.yoshicon.co.jp/main/ir/data/?id=2",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第3四半期 決算短信 (517KB)",
+    "url": "https://www.yoshicon.co.jp/main/ir/data/?id=2",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第2四半期 決算補足資料 (796KB)",
+    "url": "https://www.yoshicon.co.jp/main/ir/data/?id=2",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第2四半期 決算短信 (521KB)",
+    "url": "https://www.yoshicon.co.jp/main/ir/data/?id=2",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第1四半期 決算補足資料 (790KB)",
+    "url": "https://www.yoshicon.co.jp/main/ir/data/?id=2",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第1四半期 決算短信 (639KB)",
+    "url": "https://www.yoshicon.co.jp/main/ir/data/?id=2",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 有価証券報告書 (1MB)",
+    "url": "https://www.yoshicon.co.jp/main/ir/data/?id=3",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 半期報告書 (482KB)",
+    "url": "https://www.yoshicon.co.jp/main/ir/data/?id=3",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 有価証券報告書 (1MB)",
+    "url": "https://www.yoshicon.co.jp/main/ir/data/?id=3",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 半期報告書 (488KB)",
+    "url": "https://www.yoshicon.co.jp/main/ir/data/?id=3",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 有価証券報告書 (1MB)",
+    "url": "https://www.yoshicon.co.jp/main/ir/data/?id=3",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "出店をお考えのお客様",
+    "url": "https://www.yoshicon.co.jp/main/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "収益物件をお探しのお客様",
+    "url": "https://www.yoshicon.co.jp/main/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に提供できるサービスの幅広さは企業としての強みであり、仕事のやりがいにも直結するはずです",
+    "url": "https://www.regional.co.jp/change/202405_yoshicon.html",
+    "pass": 3
+   },
+   {
+    "quote": "取引先企業一覧",
+    "url": "https://www.regional.co.jp/change/202405_yoshicon.html",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "最適な店舗スペースをご紹介します",
+    "url": "https://www.yoshicon.co.jp/main/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "その他事業におきましては、保険代理店収入の減少があったものの、経費低減の努力もあり、減収増益となり",
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/7f07f8a99da2519c16007cb777173d71.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注) 「その他」の区分は報告セグメントに含まれない事業セグメントであり、衣料品事業及び保険代理店事業等を含",
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/7f07f8a99da2519c16007cb777173d71.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "保険代理店収入の減少があったものの、経費低減の努力もあり、",
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/33393d564cc3fdac0984edc9543b7db2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "保険代理店収入の減少があったものの、経費低減の努力もあり、",
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/33393d564cc3fdac0984edc9543b7db2-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5280",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5280",
+    "pass": 3
+   },
+   {
+    "quote": "メディア紹介実績",
+    "url": "https://www.regional.co.jp/change/202405_yoshicon.html",
+    "pass": 3
+   },
+   {
+    "quote": "当時社長だった父は、土地造成で必要となるコンクリート製品を販売するべく企業に土地の紹介をしていました",
+    "url": "https://www.regional.co.jp/change/202405_yoshicon.html",
+    "pass": 3
+   },
+   {
+    "quote": "これからうちは不動産事業が主力になるかもしれないと自社マンションを紹介するビラ配りのアルバイトをしながら、ふと思ったことを記憶しています",
+    "url": "https://www.regional.co.jp/change/202405_yoshicon.html",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "受取手数料 980 1,184",
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/7f07f8a99da2519c16007cb777173d71.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "コンクリート製品で得る利益よりも仲介手数料のほうが大きいことに疑問を感じた父は、自社で土地取引ができるようにしました",
+    "url": "https://www.regional.co.jp/change/202405_yoshicon.html",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "（セグメント情報等の注記） …………………………………………………………………………………９",
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/7f07f8a99da2519c16007cb777173d71.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの業績は次のとおりであります",
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/7f07f8a99da2519c16007cb777173d71.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、前年同期比較については、変更後の報告セグメントの区分に基づき作成したものを比較しております",
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/7f07f8a99da2519c16007cb777173d71.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高は１億82百万円（前年同期比36.5％減）、セグメント損失（営業損失）は82百万円（前年同期比－％）と",
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/7f07f8a99da2519c16007cb777173d71.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の結果、売上高は78億10百万円（前年同期比11.4％減）、セグメント利益（営業利益）は19億２百万円（前年同",
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/7f07f8a99da2519c16007cb777173d71.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、売上高は10億52百万円（前年同期比6.9％増）、セグメント利益（営業利益）",
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/7f07f8a99da2519c16007cb777173d71.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "億40百万円（前年同期比60.0％減）、セグメント利益（営業利益）は12百万円（前年同期比95.9％減）となりま",
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/7f07f8a99da2519c16007cb777173d71.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "果、売上高は３億84百万円（前年同期比0.3％減）、セグメント利益（営業利益）は６百万円（前年同期比15.8％",
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/7f07f8a99da2519c16007cb777173d71.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、売上高は21百万円（前年同期比6.0％減）、セグメント利益（営業利益）は13百万円（前年同",
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/7f07f8a99da2519c16007cb777173d71.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/7f07f8a99da2519c16007cb777173d71.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/7f07f8a99da2519c16007cb777173d71.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１ 報告セグメントごとの売上高及び利益又は損失の金額に関する情報",
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/7f07f8a99da2519c16007cb777173d71.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント その他",
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/7f07f8a99da2519c16007cb777173d71.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注) 「その他」の区分は報告セグメントに含まれない事業セグメントであり、衣料品事業及び保険代理店事業等を含",
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/7f07f8a99da2519c16007cb777173d71.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２ 報告セグメントの利益又は損失の金額の合計額と中間連結損益計算書計上額との差額及び当該差額の主な内容",
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/7f07f8a99da2519c16007cb777173d71.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント計 2,233,066",
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/7f07f8a99da2519c16007cb777173d71.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間取引消去 △88,036",
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/7f07f8a99da2519c16007cb777173d71.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注) 全社費用は、主に報告セグメントに帰属しない一般管理費であります",
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/7f07f8a99da2519c16007cb777173d71.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント計 1,977,660",
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/7f07f8a99da2519c16007cb777173d71.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間取引消去 30,283",
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/7f07f8a99da2519c16007cb777173d71.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３ 報告セグメントの変更等に関する事項",
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/7f07f8a99da2519c16007cb777173d71.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、前中間連結会計期間のセグメント情報については、変更後の報告セグメントの区分に基づき作成したもの",
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/7f07f8a99da2519c16007cb777173d71.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・セグメント ・資産、負債、純資産",
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/33393d564cc3fdac0984edc9543b7db2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年3月期 中間期（2026年4月～9月）セグメント別",
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/33393d564cc3fdac0984edc9543b7db2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 セグメント利益",
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/33393d564cc3fdac0984edc9543b7db2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 構成比",
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/33393d564cc3fdac0984edc9543b7db2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・セグメント ・資産、負債、純資産",
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/33393d564cc3fdac0984edc9543b7db2-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年3月期 中間期（2026年4月～9月）セグメント別",
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/33393d564cc3fdac0984edc9543b7db2-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 セグメント利益",
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/33393d564cc3fdac0984edc9543b7db2-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 構成比",
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/33393d564cc3fdac0984edc9543b7db2-1.pdf",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "レジデンス事業におきましては、在庫分譲マンションの引渡しが減少し、減収減益となりました",
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/7f07f8a99da2519c16007cb777173d71.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "不動産開発事業におきましては、高収益の大型物件の引渡しがあり、わずかながら減収増益となりました",
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/7f07f8a99da2519c16007cb777173d71.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 不動産開発事業で高収益物件の引渡しがあったものの、建設事業、賃貸・管理事業の減益で、",
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/33393d564cc3fdac0984edc9543b7db2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "高収益の大型物件の引渡しがあり、わずかながら減収増益となった",
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/33393d564cc3fdac0984edc9543b7db2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "在庫分譲マンションの引渡しが減少し、減収減益となった",
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/33393d564cc3fdac0984edc9543b7db2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 不動産開発事業で高収益物件の引渡しがあったものの、建設事業、賃貸・管理事業の減益で、",
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/33393d564cc3fdac0984edc9543b7db2-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "高収益の大型物件の引渡しがあり、わずかながら減収増益となった",
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/33393d564cc3fdac0984edc9543b7db2-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "在庫分譲マンションの引渡しが減少し、減収減益となった",
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/33393d564cc3fdac0984edc9543b7db2-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様に提供できるサービスの幅広さは企業としての強みであり、仕事のやりがいにも直結するはずです",
+    "url": "https://www.regional.co.jp/change/202405_yoshicon.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ヨシコン (5280) の企業概要・業績・財務・IR資料 — ヨシコン (5280) の企業概要・業績・財務・IR資料 crex-data.com https://www.crex-data.com > 企業",
+    "url": "https://www.crex-data.com/company/5280",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報：ごあいさつ | ヨシコン 株式会社 — 企業情報：ごあいさつ | ヨシコン 株式会社 ヨシコン株式会社 https://www.yoshicon.co.jp > main > company > message",
+    "url": "https://www.yoshicon.co.jp/main/company/message/",
+    "pass": 3
+   },
+   {
+    "quote": "【銘柄分析】 ヨシコン （5280）〜静岡を地盤とする総合建設 ... — 【銘柄分析】 ヨシコン （5280）〜静岡を地盤とする総合建設 ... note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/swic/n/n97968a29cd68",
+    "pass": 3
+   },
+   {
+    "quote": "ヨシコン (株)｜静岡のキャリア支援メディア「しずおか仕事 ... — ヨシコン (株)｜静岡のキャリア支援メディア「しずおか仕事 ... しずおか仕事図鑑 https://www.shizuokashigoto.com > company > detail",
+    "url": "https://www.shizuokashigoto.com/company/detail/649",
+    "pass": 3
+   },
+   {
+    "quote": "ヨシコン - 株式会社フィスコ — ヨシコン - 株式会社フィスコ 株式会社フィスコ PDF https://www.fisco.co.jp > yoshicon20220519",
+    "url": "https://www.fisco.co.jp/wordpress/wp-content/uploads/yoshicon20220519.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信・補足 資料 | ヨシコン 株式会社 — 決算 短信・補足 資料 | ヨシコン 株式会社 ヨシコン株式会社 https://www.yoshicon.co.jp > main > data01",
+    "url": "https://www.yoshicon.co.jp/main/ir/data01/",
+    "pass": 3
+   },
+   {
+    "quote": "IR 資料 集 | ヨシコン 株式会社 — IR 資料 集 | ヨシコン 株式会社 ヨシコン株式会社 https://www.yoshicon.co.jp > main > data",
+    "url": "https://www.yoshicon.co.jp/main/ir/data/",
+    "pass": 3
+   },
+   {
+    "quote": "IR・投資家情報 | ヨシコン 株式会社 — IR・投資家情報 | ヨシコン 株式会社 ヨシコン株式会社 https://www.yoshicon.co.jp > main",
+    "url": "https://www.yoshicon.co.jp/main/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "【 ヨシコン 】[5280] 決算 発表や業務・財務情報 | 日経電子版 — 【 ヨシコン 】[5280] 決算 発表や業務・財務情報 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kessan",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=5280",
+    "pass": 3
+   },
+   {
+    "quote": "[ ヨシコン 5280.T] 2027年3月期第2四半期(中間期) 決算 短信 ... — [ ヨシコン 5280.T] 2027年3月期第2四半期(中間期) 決算 短信 ... BigGo 財經 https://finance.biggo.com.tw > news > jpx_tdnet_140120...",
+    "url": "https://finance.biggo.com.tw/news/jpx_tdnet_140120261029559236",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報：会社概要 | ヨシコン 株式会社 — 企業情報：会社概要 | ヨシコン 株式会社 ヨシコン株式会社 https://www.yoshicon.co.jp > main > company > outline",
+    "url": "https://www.yoshicon.co.jp/main/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "【 ヨシコン 】[5280]企業概要 社員数や役員報酬・資本金 | 日経 ... — 【 ヨシコン 】[5280]企業概要 社員数や役員報酬・資本金 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5280",
+    "pass": 3
+   },
+   {
+    "quote": "ヨシコン | 企業情報 - イプロス — ヨシコン | 企業情報 - イプロス 製造業向け情報検索サイト イプロスものづくり https://www.ipros.com > 建材・資材・什器メーカー",
+    "url": "https://www.ipros.com/company/detail/2048120/",
+    "pass": 3
+   },
+   {
+    "quote": "ヨシコン 株式会社｜企業TOP インタビュー ｜静岡の企業を知る — ヨシコン 株式会社｜企業TOP インタビュー ｜静岡の企業を知る regional.co.jp https://www.regional.co.jp > change > 202405_yoshicon",
+    "url": "https://www.regional.co.jp/change/202405_yoshicon.html",
+    "pass": 3
+   },
+   {
+    "quote": "【静岡】経営TOP インタビュー 記事を公開しました（ ヨシコン ... — 【静岡】経営TOP インタビュー 記事を公開しました（ ヨシコン ... リージョナルキャリア静岡 https://rs-shizuoka.net > 2024/05 > change-yoshicon",
+    "url": "https://rs-shizuoka.net/2024/05/change-yoshicon.html",
+    "pass": 3
+   },
+   {
+    "quote": "ヨシコン 株式会社｜企業TOP インタビュー ｜静岡の企業を知る — ヨシコン 株式会社｜企業TOP インタビュー ｜静岡の企業を知る リージョナルキャリア静岡 https://rs-shizuoka.net > change > 202405_yoshicon",
+    "url": "https://rs-shizuoka.net/change/202405_yoshicon.html",
+    "pass": 3
+   },
+   {
+    "quote": "ヨシコン 【5280】の 社長 ・役員 - キタイシホン — ヨシコン 【5280】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/5280/board-of-director",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.yoshicon.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoshicon.co.jp/main/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoshicon.co.jp/main/company/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoshicon.co.jp/main/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoshicon.co.jp/main/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoshicon.co.jp/main/corporate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoshicon.co.jp/main/investor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoshicon.co.jp/main/corporate/detail/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoshicon.co.jp/main/investor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoshicon.co.jp/main/ir/company_faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoshicon.co.jp/main/data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoshicon.co.jp/main/ir/data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoshicon.co.jp/main/ir/data/?id=2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoshicon.co.jp/main/ir/data/?id=3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoshicon.co.jp/main/ir/data/?id=1",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/11/400385339b197d4d1c51f45dc58fb299.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/7f07f8a99da2519c16007cb777173d71.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/33393d564cc3fdac0984edc9543b7db2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/5d47517f06fd444709986cce9d85a7ab.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/09/a0c9b258e8bd0175132234210f95b33c.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/08/bb3d7afec09891ab826844752828aed3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2026/10/33393d564cc3fdac0984edc9543b7db2-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.yoshicon.co.jp/wp-content/uploads/2016/03/01_%E5%85%A5%E5%B1%85%E7%94%B3%E8%BE%BC%E6%9B%B8%EF%BC%88%E6%B3%95%E4%BA%BA%EF%BC%89.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.yoshicon.co.jp/wp-content/themes/yoshicon/images/top-business-title.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.yoshicon.co.jp/wp-content/themes/yoshicon/images/top-business-01image.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.yoshicon.co.jp/wp-content/themes/yoshicon/images/top-business-02image.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.yoshicon.co.jp/wp-content/themes/yoshicon/images/top-business-03image.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.yoshicon.co.jp/wp-content/themes/yoshicon/images/top-business-04image.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.yoshicon.co.jp/wp-content/themes/yoshicon/images/top-business-05image.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.crex-data.com/company/5280",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5280",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.regional.co.jp/change/202405_yoshicon.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rs-shizuoka.net/2024/05/change-yoshicon.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ヨシコン",
+   "results": [
+    "https://www.yoshicon.co.jp/",
+    "https://www.nikkei.com/nkd/company/?scode=5280",
+    "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%82%B7%E3%82%B3%E3%83%B3",
+    "https://job.mynavi.jp/28/pc/search/corp294304/outline.html",
+    "https://www.instagram.com/yoshicon_official/",
+    "https://ja.wikipedia.org/wiki/ヨシコン",
+    "https://www.yoshicon.co.jp/main/company/outline/",
+    "https://finance.yahoo.co.jp/quote/5280.T",
+    "https://shikiho.toyokeizai.net/stocks/5280/corporate",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=5280"
+   ]
+  },
+  {
+   "query": "ヨシコン ビジネスモデル",
+   "results": [
+    "https://www.crex-data.com/company/5280",
+    "https://www.yoshicon.co.jp/main/company/message/",
+    "https://note.com/swic/n/n97968a29cd68",
+    "https://www.shizuokashigoto.com/company/detail/649",
+    "https://www.fisco.co.jp/wordpress/wp-content/uploads/yoshicon20220519.pdf",
+    "https://www.nikkei.com/article/DGXZQOCC307DQ0Q6A430C2000000/",
+    "https://www.regional.co.jp/change/202405_yoshicon.html",
+    "https://kabutan.jp/news/marketnews/?b=n201806040522",
+    "https://www.instagram.com/reel/DKjbRvRTMWl/",
+    "https://consovation.com/ヨシコンの魅力を徹底解説-大注目のビジネスモデ/"
+   ]
+  },
+  {
+   "query": "ヨシコン 決算説明資料",
+   "results": [
+    "https://www.yoshicon.co.jp/main/ir/data01/",
+    "https://www.yoshicon.co.jp/main/ir/data/",
+    "https://www.yoshicon.co.jp/main/ir/",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=5280",
+    "https://finance.biggo.com.tw/news/jpx_tdnet_140120261029559236",
+    "https://kabutan.jp/stock/finance?code=5280",
+    "https://irbank.net/5280/ir",
+    "https://x.com/kessan_db/status/2116507347808113013",
+    "https://edinetdb.jp/company/E01202/ir-docs/",
+    "https://treelazy.com/stock-jp/5280/conference"
+   ]
+  },
+  {
+   "query": "ヨシコン 事業系統図",
+   "results": [
+    "https://www.yoshicon.co.jp/main/company/outline/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=5280",
+    "https://www.fisco.co.jp/wordpress/wp-content/uploads/yoshicon20220519.pdf",
+    "https://www.crex-data.com/company/5280",
+    "https://www.ipros.com/company/detail/2048120/",
+    "https://job.mynavi.jp/28/pc/search/corp294304/outline.html",
+    "https://edinetdb.jp/company/E01202/text",
+    "https://www.buffett-code.com/company/5280/",
+    "https://www.yoshicon.co.jp/main/ir/",
+    "https://www.yoshicon.co.jp/"
+   ]
+  },
+  {
+   "query": "ヨシコン 社長 インタビュー",
+   "results": [
+    "https://www.regional.co.jp/change/202405_yoshicon.html",
+    "https://rs-shizuoka.net/2024/05/change-yoshicon.html",
+    "https://rs-shizuoka.net/change/202405_yoshicon.html",
+    "https://kitaishihon.com/company/5280/board-of-director",
+    "https://www.shizuokashigoto.com/company/detail/649",
+    "https://www.nikkan.co.jp/articles/view/508049",
+    "https://kigyo-scope.jp/company/5280/ceo/",
+    "https://www.nikkei.com/article/DGKKZO41628620S9A220C1TJC000/",
+    "https://www.yoshicon.co.jp/main/company/history/",
+    "https://linkambition.jp/20240529-2/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式15頁／PDF・画像14件／外部4頁・検索5回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式15頁／PDF・画像14件／外部4頁・検索5回）"
+ }
+}

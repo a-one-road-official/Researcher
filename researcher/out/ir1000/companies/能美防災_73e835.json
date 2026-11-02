@@ -1,0 +1,1641 @@
+{
+ "name": "能美防災",
+ "aliases": [],
+ "context": "証券コード6744／電気機器／プライム（内国株式）／2026.03期 売上高139,657百万円 営業利益率13.1%",
+ "researched_at": "2026-11-02T19:22:45.574405+00:00",
+ "official_url": "https://www.nohmi.co.jp/",
+ "identified_by": "search:yahoo_jp:能美防災",
+ "profile": {
+  "設立": [
+   {
+    "label": "創立",
+    "value": "大正5年12月",
+    "url": "https://www.nohmi.co.jp/about_nohmi/003.html",
+    "pass": 1
+   },
+   {
+    "label": "創業",
+    "value": "大正13年3月",
+    "url": "https://www.nohmi.co.jp/about_nohmi/003.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "昭和19年5月5日",
+    "url": "https://www.nohmi.co.jp/about_nohmi/003.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数（連結）",
+    "value": "3,251名（2026年3月31日現在）",
+    "url": "https://www.nohmi.co.jp/about_nohmi/003.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "個人のお客様向け製品のご案内",
+    "url": "https://www.nohmi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に最適なシステム",
+    "url": "https://www.nohmi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内 TOP",
+    "url": "https://www.nohmi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け",
+    "url": "https://www.nohmi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内",
+    "url": "https://www.nohmi.co.jp/product/irtsensor/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に最適なシステム",
+    "url": "https://www.nohmi.co.jp/product/irtsensor/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内 TOP",
+    "url": "https://www.nohmi.co.jp/product/irtsensor/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "保守ツールを使用することで、ユーザー側でセンサの各種設定、イベントログの表示、温度情報のリアルタイム表示などができます",
+    "url": "https://www.nohmi.co.jp/product/irtsensor/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内",
+    "url": "https://www.nohmi.co.jp/product/fire_experience/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に最適なシステム",
+    "url": "https://www.nohmi.co.jp/product/fire_experience/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内 TOP",
+    "url": "https://www.nohmi.co.jp/product/fire_experience/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内",
+    "url": "https://www.nohmi.co.jp/about_nohmi/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に最適なシステム",
+    "url": "https://www.nohmi.co.jp/about_nohmi/",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内 TOP",
+    "url": "https://www.nohmi.co.jp/about_nohmi/",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内",
+    "url": "https://www.nohmi.co.jp/about_nohmi/001.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に最適なシステム",
+    "url": "https://www.nohmi.co.jp/about_nohmi/001.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内 TOP",
+    "url": "https://www.nohmi.co.jp/about_nohmi/001.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内",
+    "url": "https://www.nohmi.co.jp/about_nohmi/002.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に最適なシステム",
+    "url": "https://www.nohmi.co.jp/about_nohmi/002.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内 TOP",
+    "url": "https://www.nohmi.co.jp/about_nohmi/002.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内",
+    "url": "https://www.nohmi.co.jp/about_nohmi/003.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に最適なシステム",
+    "url": "https://www.nohmi.co.jp/about_nohmi/003.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内 TOP",
+    "url": "https://www.nohmi.co.jp/about_nohmi/003.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内",
+    "url": "https://www.nohmi.co.jp/about_nohmi/004.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に最適なシステム",
+    "url": "https://www.nohmi.co.jp/about_nohmi/004.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内 TOP",
+    "url": "https://www.nohmi.co.jp/about_nohmi/004.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内",
+    "url": "https://www.nohmi.co.jp/about_nohmi/005.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に最適なシステム",
+    "url": "https://www.nohmi.co.jp/about_nohmi/005.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内 TOP",
+    "url": "https://www.nohmi.co.jp/about_nohmi/005.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内",
+    "url": "https://www.nohmi.co.jp/about_nohmi/006.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に最適なシステム",
+    "url": "https://www.nohmi.co.jp/about_nohmi/006.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内 TOP",
+    "url": "https://www.nohmi.co.jp/about_nohmi/006.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様ひとりひとりのニーズに対してキメの細かいサービスで、最適な防災システムを構築しています",
+    "url": "https://www.nohmi.co.jp/about_nohmi/006.html",
+    "pass": 1
+   },
+   {
+    "quote": "その優れた品質管理体制から信頼性の高い防災機器をお客様にご提供しています",
+    "url": "https://www.nohmi.co.jp/about_nohmi/006.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内",
+    "url": "https://www.nohmi.co.jp/about_nohmi/007.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に最適なシステム",
+    "url": "https://www.nohmi.co.jp/about_nohmi/007.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内 TOP",
+    "url": "https://www.nohmi.co.jp/about_nohmi/007.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内",
+    "url": "https://www.nohmi.co.jp/about_nohmi/008.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に最適なシステム",
+    "url": "https://www.nohmi.co.jp/about_nohmi/008.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内 TOP",
+    "url": "https://www.nohmi.co.jp/about_nohmi/008.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内",
+    "url": "https://www.nohmi.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に最適なシステム",
+    "url": "https://www.nohmi.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内 TOP",
+    "url": "https://www.nohmi.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内",
+    "url": "https://www.nohmi.co.jp/ir/management_policy/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に最適なシステム",
+    "url": "https://www.nohmi.co.jp/ir/management_policy/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内 TOP",
+    "url": "https://www.nohmi.co.jp/ir/management_policy/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内",
+    "url": "https://www.nohmi.co.jp/ir/management_policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に最適なシステム",
+    "url": "https://www.nohmi.co.jp/ir/management_policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内 TOP",
+    "url": "https://www.nohmi.co.jp/ir/management_policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内",
+    "url": "https://www.nohmi.co.jp/ir/management_policy/management_plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に最適なシステム",
+    "url": "https://www.nohmi.co.jp/ir/management_policy/management_plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内 TOP",
+    "url": "https://www.nohmi.co.jp/ir/management_policy/management_plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "」にある安全を、お客様とともに「",
+    "url": "https://www.nohmi.co.jp/ir/management_policy/management_plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内",
+    "url": "https://www.nohmi.co.jp/ir/management_policy/corporate_governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に最適なシステム",
+    "url": "https://www.nohmi.co.jp/ir/management_policy/corporate_governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内 TOP",
+    "url": "https://www.nohmi.co.jp/ir/management_policy/corporate_governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内",
+    "url": "https://www.nohmi.co.jp/ir/management_policy/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に最適なシステム",
+    "url": "https://www.nohmi.co.jp/ir/management_policy/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内 TOP",
+    "url": "https://www.nohmi.co.jp/ir/management_policy/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内",
+    "url": "https://www.nohmi.co.jp/ir/ir_documents/index.html",
+    "pass": 1
+   }
+  ],
+  "何を": [
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.nohmi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス TOP",
+    "url": "https://www.nohmi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内",
+    "url": "https://www.nohmi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "各種サービス",
+    "url": "https://www.nohmi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスに関するお問い合せ",
+    "url": "https://www.nohmi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内 TOP",
+    "url": "https://www.nohmi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "各種サービス TOP",
+    "url": "https://www.nohmi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスの一覧へ",
+    "url": "https://www.nohmi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "今後も安全・安定したサービスの提供に努めてまいりますので、よろしくお願い申し上げます",
+    "url": "https://www.nohmi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品のご案内",
+    "url": "https://www.nohmi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスに関するお問い合わせ・ご相談はこちらまで",
+    "url": "https://www.nohmi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "赤外線放射温度センサ | 防災設備のご案内 | 製品・サービス | 能美防災株式会社",
+    "url": "https://www.nohmi.co.jp/product/irtsensor/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.nohmi.co.jp/product/irtsensor/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス TOP",
+    "url": "https://www.nohmi.co.jp/product/irtsensor/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内",
+    "url": "https://www.nohmi.co.jp/product/irtsensor/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "各種サービス",
+    "url": "https://www.nohmi.co.jp/product/irtsensor/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスに関するお問い合せ",
+    "url": "https://www.nohmi.co.jp/product/irtsensor/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内 TOP",
+    "url": "https://www.nohmi.co.jp/product/irtsensor/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "各種サービス TOP",
+    "url": "https://www.nohmi.co.jp/product/irtsensor/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "火災臨場体験VR/地震・津波臨場体験VR | 製品・サービス | 能美防災株式会社",
+    "url": "https://www.nohmi.co.jp/product/fire_experience/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.nohmi.co.jp/product/fire_experience/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス TOP",
+    "url": "https://www.nohmi.co.jp/product/fire_experience/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内",
+    "url": "https://www.nohmi.co.jp/product/fire_experience/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "各種サービス",
+    "url": "https://www.nohmi.co.jp/product/fire_experience/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスに関するお問い合せ",
+    "url": "https://www.nohmi.co.jp/product/fire_experience/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内 TOP",
+    "url": "https://www.nohmi.co.jp/product/fire_experience/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "各種サービス TOP",
+    "url": "https://www.nohmi.co.jp/product/fire_experience/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "VRキットレンタルサービス",
+    "url": "https://www.nohmi.co.jp/product/fire_experience/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "＼こちらのサービスサイトから／",
+    "url": "https://www.nohmi.co.jp/product/fire_experience/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.nohmi.co.jp/about_nohmi/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス TOP",
+    "url": "https://www.nohmi.co.jp/about_nohmi/",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内",
+    "url": "https://www.nohmi.co.jp/about_nohmi/",
+    "pass": 1
+   },
+   {
+    "quote": "各種サービス",
+    "url": "https://www.nohmi.co.jp/about_nohmi/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスに関するお問い合せ",
+    "url": "https://www.nohmi.co.jp/about_nohmi/",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内 TOP",
+    "url": "https://www.nohmi.co.jp/about_nohmi/",
+    "pass": 1
+   },
+   {
+    "quote": "各種サービス TOP",
+    "url": "https://www.nohmi.co.jp/about_nohmi/",
+    "pass": 1
+   },
+   {
+    "quote": "能美防災の主な商品をご紹介いたします",
+    "url": "https://www.nohmi.co.jp/about_nohmi/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.nohmi.co.jp/about_nohmi/001.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス TOP",
+    "url": "https://www.nohmi.co.jp/about_nohmi/001.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内",
+    "url": "https://www.nohmi.co.jp/about_nohmi/001.html",
+    "pass": 1
+   },
+   {
+    "quote": "各種サービス",
+    "url": "https://www.nohmi.co.jp/about_nohmi/001.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスに関するお問い合せ",
+    "url": "https://www.nohmi.co.jp/about_nohmi/001.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内 TOP",
+    "url": "https://www.nohmi.co.jp/about_nohmi/001.html",
+    "pass": 1
+   },
+   {
+    "quote": "各種サービス TOP",
+    "url": "https://www.nohmi.co.jp/about_nohmi/001.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.nohmi.co.jp/about_nohmi/002.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス TOP",
+    "url": "https://www.nohmi.co.jp/about_nohmi/002.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内",
+    "url": "https://www.nohmi.co.jp/about_nohmi/002.html",
+    "pass": 1
+   },
+   {
+    "quote": "各種サービス",
+    "url": "https://www.nohmi.co.jp/about_nohmi/002.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスに関するお問い合せ",
+    "url": "https://www.nohmi.co.jp/about_nohmi/002.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内 TOP",
+    "url": "https://www.nohmi.co.jp/about_nohmi/002.html",
+    "pass": 1
+   },
+   {
+    "quote": "各種サービス TOP",
+    "url": "https://www.nohmi.co.jp/about_nohmi/002.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.nohmi.co.jp/about_nohmi/003.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス TOP",
+    "url": "https://www.nohmi.co.jp/about_nohmi/003.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内",
+    "url": "https://www.nohmi.co.jp/about_nohmi/003.html",
+    "pass": 1
+   },
+   {
+    "quote": "各種サービス",
+    "url": "https://www.nohmi.co.jp/about_nohmi/003.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスに関するお問い合せ",
+    "url": "https://www.nohmi.co.jp/about_nohmi/003.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様向け製品のご案内 TOP",
+    "url": "https://www.nohmi.co.jp/about_nohmi/003.html",
+    "pass": 1
+   },
+   {
+    "quote": "各種サービス TOP",
+    "url": "https://www.nohmi.co.jp/about_nohmi/003.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.nohmi.co.jp/about_nohmi/004.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス TOP",
+    "url": "https://www.nohmi.co.jp/about_nohmi/004.html",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "代理店様窓口",
+    "url": "https://www.nohmi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "明星電気とカナダのLanding Zones社、成層圏プラットフォームに関するパートナーシップを締結",
+    "url": "https://www.nohmi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店様窓口",
+    "url": "https://www.nohmi.co.jp/product/irtsensor/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "代理店様窓口",
+    "url": "https://www.nohmi.co.jp/product/fire_experience/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "代理店様窓口",
+    "url": "https://www.nohmi.co.jp/about_nohmi/",
+    "pass": 1
+   },
+   {
+    "quote": "能美防災創業の原点をご紹介いたします",
+    "url": "https://www.nohmi.co.jp/about_nohmi/",
+    "pass": 1
+   },
+   {
+    "quote": "能美防災の会社概要についてご紹介いたします",
+    "url": "https://www.nohmi.co.jp/about_nohmi/",
+    "pass": 1
+   },
+   {
+    "quote": "能美防災の沿革についてご紹介いたします",
+    "url": "https://www.nohmi.co.jp/about_nohmi/",
+    "pass": 1
+   },
+   {
+    "quote": "能美防災の事業内容についてご紹介いたします",
+    "url": "https://www.nohmi.co.jp/about_nohmi/",
+    "pass": 1
+   },
+   {
+    "quote": "能美防災の主な商品をご紹介いたします",
+    "url": "https://www.nohmi.co.jp/about_nohmi/",
+    "pass": 1
+   },
+   {
+    "quote": "能美防災の主な納入実績をご紹介いたします",
+    "url": "https://www.nohmi.co.jp/about_nohmi/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店様窓口",
+    "url": "https://www.nohmi.co.jp/about_nohmi/001.html",
+    "pass": 1
+   },
+   {
+    "quote": "代理店様窓口",
+    "url": "https://www.nohmi.co.jp/about_nohmi/002.html",
+    "pass": 1
+   },
+   {
+    "quote": "代理店様窓口",
+    "url": "https://www.nohmi.co.jp/about_nohmi/003.html",
+    "pass": 1
+   },
+   {
+    "quote": "代理店様窓口",
+    "url": "https://www.nohmi.co.jp/about_nohmi/004.html",
+    "pass": 1
+   },
+   {
+    "quote": "代理店様窓口",
+    "url": "https://www.nohmi.co.jp/about_nohmi/005.html",
+    "pass": 1
+   },
+   {
+    "quote": "代理店様窓口",
+    "url": "https://www.nohmi.co.jp/about_nohmi/006.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品紹介 | 能美防災について | 能美防災株式会社",
+    "url": "https://www.nohmi.co.jp/about_nohmi/007.html",
+    "pass": 1
+   },
+   {
+    "quote": "代理店様窓口",
+    "url": "https://www.nohmi.co.jp/about_nohmi/007.html",
+    "pass": 1
+   },
+   {
+    "quote": "代理店様窓口",
+    "url": "https://www.nohmi.co.jp/about_nohmi/008.html",
+    "pass": 1
+   },
+   {
+    "quote": "代理店様窓口",
+    "url": "https://www.nohmi.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店様窓口",
+    "url": "https://www.nohmi.co.jp/ir/management_policy/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "代理店様窓口",
+    "url": "https://www.nohmi.co.jp/ir/management_policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "代理店様窓口",
+    "url": "https://www.nohmi.co.jp/ir/management_policy/management_plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "代理店様窓口",
+    "url": "https://www.nohmi.co.jp/ir/management_policy/corporate_governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "この体制のなか、取締役の指名・報酬に係る取締役会の機能の独立性・客観性と説明責任を強化するため、取締役会の任意の諮問機関として指名・報酬委員会を設置しております",
+    "url": "https://www.nohmi.co.jp/ir/management_policy/corporate_governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "代理店様窓口",
+    "url": "https://www.nohmi.co.jp/ir/management_policy/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "代理店様窓口",
+    "url": "https://www.nohmi.co.jp/ir/ir_documents/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "代理店様窓口",
+    "url": "https://www.nohmi.co.jp/ir/ir_documents/stockholder.html",
+    "pass": 1
+   },
+   {
+    "quote": "代理店様窓口",
+    "url": "https://www.nohmi.co.jp/ir/ir_documents/accounts.html",
+    "pass": 1
+   },
+   {
+    "quote": "代理店様窓口",
+    "url": "https://www.nohmi.co.jp/ir/ir_documents/negotiable_paper.html",
+    "pass": 1
+   },
+   {
+    "quote": "代理店様窓口",
+    "url": "https://www.nohmi.co.jp/ir/ir_documents/briefing.html",
+    "pass": 1
+   },
+   {
+    "quote": "代理店様窓口",
+    "url": "https://www.nohmi.co.jp/ir/ir_documents/integrated_report.html",
+    "pass": 1
+   },
+   {
+    "quote": "代理店様窓口",
+    "url": "https://www.nohmi.co.jp/ir/financial_data/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "を一括して支援し、継続可能な仕組みを構築した取組として紹介されています",
+    "url": "https://www.nohmi.co.jp/information/k/p6slda0000001xb2-att/newsrelease_sutokuruplus20260930.pdf",
+    "pass": 2
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.nohmi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.nohmi.co.jp/product/irtsensor/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.nohmi.co.jp/product/fire_experience/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.nohmi.co.jp/about_nohmi/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.nohmi.co.jp/about_nohmi/001.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.nohmi.co.jp/about_nohmi/002.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.nohmi.co.jp/about_nohmi/003.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.nohmi.co.jp/about_nohmi/004.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.nohmi.co.jp/about_nohmi/005.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.nohmi.co.jp/about_nohmi/006.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.nohmi.co.jp/about_nohmi/007.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.nohmi.co.jp/about_nohmi/008.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.nohmi.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.nohmi.co.jp/ir/management_policy/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.nohmi.co.jp/ir/management_policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.nohmi.co.jp/ir/management_policy/management_plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.nohmi.co.jp/ir/management_policy/corporate_governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.nohmi.co.jp/ir/management_policy/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.nohmi.co.jp/ir/ir_documents/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.nohmi.co.jp/ir/ir_documents/stockholder.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.nohmi.co.jp/ir/ir_documents/accounts.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.nohmi.co.jp/ir/ir_documents/negotiable_paper.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.nohmi.co.jp/ir/ir_documents/briefing.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.nohmi.co.jp/ir/ir_documents/integrated_report.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.nohmi.co.jp/ir/financial_data/index.html",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年10月30日",
+    "url": "https://www.nohmi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月29日",
+    "url": "https://www.nohmi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月26日",
+    "url": "https://www.nohmi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月30日",
+    "url": "https://www.nohmi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月16日",
+    "url": "https://www.nohmi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月1日",
+    "url": "https://www.nohmi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月6日",
+    "url": "https://www.nohmi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算説明資料",
+    "url": "https://www.nohmi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算短信",
+    "url": "https://www.nohmi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月20日",
+    "url": "https://www.nohmi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月1日",
+    "url": "https://www.nohmi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月25日",
+    "url": "https://www.nohmi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月17日",
+    "url": "https://www.nohmi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月5日",
+    "url": "https://www.nohmi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "能美防災の沿革についてご紹介いたします",
+    "url": "https://www.nohmi.co.jp/about_nohmi/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和19年5月5日",
+    "url": "https://www.nohmi.co.jp/about_nohmi/003.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 能美防災について | 能美防災株式会社",
+    "url": "https://www.nohmi.co.jp/about_nohmi/005.html",
+    "pass": 1
+   },
+   {
+    "quote": "1916年（大正5年）",
+    "url": "https://www.nohmi.co.jp/about_nohmi/005.html",
+    "pass": 1
+   },
+   {
+    "quote": "1924年（大正13年）",
+    "url": "https://www.nohmi.co.jp/about_nohmi/005.html",
+    "pass": 1
+   },
+   {
+    "quote": "1933年（昭和8年）",
+    "url": "https://www.nohmi.co.jp/about_nohmi/005.html",
+    "pass": 1
+   },
+   {
+    "quote": "1934年（昭和9年）",
+    "url": "https://www.nohmi.co.jp/about_nohmi/005.html",
+    "pass": 1
+   },
+   {
+    "quote": "1936年（昭和11年）",
+    "url": "https://www.nohmi.co.jp/about_nohmi/005.html",
+    "pass": 1
+   },
+   {
+    "quote": "1944年（昭和19年）",
+    "url": "https://www.nohmi.co.jp/about_nohmi/005.html",
+    "pass": 1
+   },
+   {
+    "quote": "1948年（昭和23年）",
+    "url": "https://www.nohmi.co.jp/about_nohmi/005.html",
+    "pass": 1
+   },
+   {
+    "quote": "1956年（昭和31年）",
+    "url": "https://www.nohmi.co.jp/about_nohmi/005.html",
+    "pass": 1
+   },
+   {
+    "quote": "1957年（昭和32年）",
+    "url": "https://www.nohmi.co.jp/about_nohmi/005.html",
+    "pass": 1
+   },
+   {
+    "quote": "1962年（昭和37年）",
+    "url": "https://www.nohmi.co.jp/about_nohmi/005.html",
+    "pass": 1
+   },
+   {
+    "quote": "1964年（昭和39年）",
+    "url": "https://www.nohmi.co.jp/about_nohmi/005.html",
+    "pass": 1
+   },
+   {
+    "quote": "1968年（昭和43年）",
+    "url": "https://www.nohmi.co.jp/about_nohmi/005.html",
+    "pass": 1
+   },
+   {
+    "quote": "1973年（昭和48年）",
+    "url": "https://www.nohmi.co.jp/about_nohmi/005.html",
+    "pass": 1
+   },
+   {
+    "quote": "1974年（昭和49年）",
+    "url": "https://www.nohmi.co.jp/about_nohmi/005.html",
+    "pass": 1
+   },
+   {
+    "quote": "1979年（昭和54年）",
+    "url": "https://www.nohmi.co.jp/about_nohmi/005.html",
+    "pass": 1
+   },
+   {
+    "quote": "1981年（昭和56年）",
+    "url": "https://www.nohmi.co.jp/about_nohmi/005.html",
+    "pass": 1
+   },
+   {
+    "quote": "1983年（昭和58年）",
+    "url": "https://www.nohmi.co.jp/about_nohmi/005.html",
+    "pass": 1
+   },
+   {
+    "quote": "1987年（昭和62年）",
+    "url": "https://www.nohmi.co.jp/about_nohmi/005.html",
+    "pass": 1
+   },
+   {
+    "quote": "1988年（昭和63年）",
+    "url": "https://www.nohmi.co.jp/about_nohmi/005.html",
+    "pass": 1
+   },
+   {
+    "quote": "1989年（平成元年）",
+    "url": "https://www.nohmi.co.jp/about_nohmi/005.html",
+    "pass": 1
+   },
+   {
+    "quote": "1990年（平成2年）",
+    "url": "https://www.nohmi.co.jp/about_nohmi/005.html",
+    "pass": 1
+   },
+   {
+    "quote": "1991年（平成3年）",
+    "url": "https://www.nohmi.co.jp/about_nohmi/005.html",
+    "pass": 1
+   },
+   {
+    "quote": "1992年（平成4年）",
+    "url": "https://www.nohmi.co.jp/about_nohmi/005.html",
+    "pass": 1
+   },
+   {
+    "quote": "1993年（平成5年）",
+    "url": "https://www.nohmi.co.jp/about_nohmi/005.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月30日",
+    "url": "https://www.nohmi.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月29日",
+    "url": "https://www.nohmi.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月6日",
+    "url": "https://www.nohmi.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算説明資料",
+    "url": "https://www.nohmi.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算短信",
+    "url": "https://www.nohmi.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期の業績と今後の見通しについて",
+    "url": "https://www.nohmi.co.jp/ir/management_policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期の連結業績につきましては、市場環境が堅調に推移するなか、積極的な営業活動に努めた結果、受注高は161,165百万円（前年同期比15.4％増）、売上高は139,657百万円（前年同期比4.5％増）となりました",
+    "url": "https://www.nohmi.co.jp/ir/management_policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期から2029年３月期までの４年間を「ステージⅢ」として、ありたい姿の実現に向けた総仕上げに取り組んでおり、「ステージⅢ」の最終年度である2029年３月期に連結売上高を170,000百万円以上、営業利益率を12％以上、ROEを10％以上とすることを目指しております",
+    "url": "https://www.nohmi.co.jp/ir/management_policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.nohmi.co.jp/ir/ir_documents/stockholder.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.nohmi.co.jp/ir/ir_documents/stockholder.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.nohmi.co.jp/ir/ir_documents/stockholder.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://www.nohmi.co.jp/ir/ir_documents/stockholder.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://www.nohmi.co.jp/ir/ir_documents/stockholder.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期",
+    "url": "https://www.nohmi.co.jp/ir/ir_documents/stockholder.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月期",
+    "url": "https://www.nohmi.co.jp/ir/ir_documents/stockholder.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年3月期",
+    "url": "https://www.nohmi.co.jp/ir/ir_documents/stockholder.html",
+    "pass": 1
+   },
+   {
+    "quote": "2018年3月期",
+    "url": "https://www.nohmi.co.jp/ir/ir_documents/stockholder.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年3月期",
+    "url": "https://www.nohmi.co.jp/ir/ir_documents/stockholder.html",
+    "pass": 1
+   },
+   {
+    "quote": "2016年3月期",
+    "url": "https://www.nohmi.co.jp/ir/ir_documents/stockholder.html",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "CANインターフェイスなどの保守ツールは、センサの警報設定などを行う際に使用し、通常監視状態では使用しません",
+    "url": "https://www.nohmi.co.jp/product/irtsensor/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "保守ツール用パソコンは別途ご用意ください",
+    "url": "https://www.nohmi.co.jp/product/irtsensor/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "保守ツール（PZTJ001-R）",
+    "url": "https://www.nohmi.co.jp/product/irtsensor/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "保守ツールを使用することで、ユーザー側でセンサの各種設定、イベントログの表示、温度情報のリアルタイム表示などができます",
+    "url": "https://www.nohmi.co.jp/product/irtsensor/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "主な事業 ︓各種防災設備・システムの企画、開発、設計、施工、保守と各種防災機器の設計、製造、販売",
+    "url": "https://www.nohmi.co.jp/information/k/p6slda0000001tbt-att/newsrelease_nuigurumibousai20260901_1.pdf",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "2026年３月期から2029年３月期までの４年間を「ステージⅢ」として、ありたい姿の実現に向けた総仕上げに取り組んでおり、「ステージⅢ」の最終年度である2029年３月期に連結売上高を170,000百万円以上、営業利益率を12％以上、ROEを10％以上とすることを目指しております",
+    "url": "https://www.nohmi.co.jp/ir/management_policy/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "強みにしてライフステージを",
+    "url": "https://www.nohmi-newgrad.com/interview-rs/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "NOHMI INTEGRATED REPORT 2025 - 能美防災 — NOHMI INTEGRATED REPORT 2025 - 能美防災 能美防災株式会社 PDF https://www.nohmi.co.jp > 2025_integrated_report",
+    "url": "https://www.nohmi.co.jp/ir/p6slda0000000tc1-att/2025_integrated_report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容 | 能美防災 について — 事業内容 | 能美防災 について 能美防災株式会社 https://www.nohmi.co.jp > about_nohmi",
+    "url": "https://www.nohmi.co.jp/about_nohmi/006.html",
+    "pass": 3
+   },
+   {
+    "quote": "3分でわかる 能美防災 — 3分でわかる 能美防災 能美防災採用サイト https://www.nohmi-newgrad.com > ...",
+    "url": "https://www.nohmi-newgrad.com/3minutes/",
+    "pass": 3
+   },
+   {
+    "quote": "能美防災 株式会社 — 能美防災 株式会社 能美防災株式会社 https://www.nohmi.co.jp",
+    "url": "https://www.nohmi.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "【27卒】 能美防災 の志望動機30例×面接質問の解答例30例 - note — 【27卒】 能美防災 の志望動機30例×面接質問の解答例30例 - note note https://note.com > キャリア > 就職活動",
+    "url": "https://note.com/jobhuntkeyence/n/nb949c1a81c22",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 | IR資料室 | IR情報 | 能美防災 株式会社 — 決算説明資料 | IR資料室 | IR情報 | 能美防災 株式会社 能美防災株式会社 https://www.nohmi.co.jp > ir_documents > briefing",
+    "url": "https://www.nohmi.co.jp/ir/ir_documents/briefing.html",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期 第1四半期 決算説明資料 - 能美防災 — 2027年3月期 第1四半期 決算説明資料 - 能美防災 能美防災 PDF https://www.nohmi.co.jp > ...",
+    "url": "https://www.nohmi.co.jp/ir/p6slda0000001rhz-att/ir20260806-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サイト内検索 | 能美防災 株式会社 — サイト内検索 | 能美防災 株式会社 能美防災株式会社 https://www.nohmi.co.jp > search",
+    "url": "https://www.nohmi.co.jp/search.html?p=21&c=20&o=1",
+    "pass": 3
+   },
+   {
+    "quote": "IRインフォメーション 2026年 - 能美防災 — IRインフォメーション 2026年 - 能美防災 能美防災 https://www.nohmi.co.jp > information",
+    "url": "https://www.nohmi.co.jp/ir/information/",
+    "pass": 3
+   },
+   {
+    "quote": "能美防災 [6744]：2027年3月期 第1四半期 決算説明資料 2026年 ... — 能美防災 [6744]：2027年3月期 第1四半期 決算説明資料 2026年 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260731504954/",
+    "pass": 3
+   },
+   {
+    "quote": "事業 内容 | 能美防災 について — 事業 内容 | 能美防災 について 能美防災株式会社 https://www.nohmi.co.jp > about_nohmi",
+    "url": "https://www.nohmi.co.jp/about_nohmi/006.html",
+    "pass": 3
+   },
+   {
+    "quote": "サイト内検索 | 能美防災 株式会社 — サイト内検索 | 能美防災 株式会社 能美防災株式会社 https://www.nohmi.co.jp > search",
+    "url": "https://www.nohmi.co.jp/search.html",
+    "pass": 3
+   },
+   {
+    "quote": "サイトマップ | 能美防災 株式会社 — サイトマップ | 能美防災 株式会社 能美防災株式会社 https://www.nohmi.co.jp > sitemap",
+    "url": "https://www.nohmi.co.jp/sitemap/",
+    "pass": 3
+   },
+   {
+    "quote": "能美防災 - Wikipedia — 能美防災 - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 能美防災",
+    "url": "https://ja.wikipedia.org/wiki/%E8%83%BD%E7%BE%8E%E9%98%B2%E7%81%BD",
+    "pass": 3
+   },
+   {
+    "quote": "RS｜社員 インタビュー - 能美防災採用サイト — RS｜社員 インタビュー - 能美防災採用サイト 能美防災採用サイト https://www.nohmi-newgrad.com > interview-rs",
+    "url": "https://www.nohmi-newgrad.com/interview-rs/",
+    "pass": 3
+   },
+   {
+    "quote": "社長 メッセージ | 経営方針 | IR情報 | 能美防災 株式会社 — 社長 メッセージ | 経営方針 | IR情報 | 能美防災 株式会社 能美防災 https://www.nohmi.co.jp > management_policy > message",
+    "url": "https://www.nohmi.co.jp/ir/management_policy/message.html",
+    "pass": 3
+   },
+   {
+    "quote": "編集長 インタビュー 岡村武士 能美防災社長 - 週刊エコノミスト — 編集長 インタビュー 岡村武士 能美防災社長 - 週刊エコノミスト 週刊エコノミスト https://www.weekly-economist.com > okamura_takeshi",
+    "url": "https://www.weekly-economist.com/interview/okamura_takeshi/",
+    "pass": 3
+   },
+   {
+    "quote": "能美防災 の岡村武士 社長 「時代に合った防災の提供が使命 ... — 能美防災 の岡村武士 社長 「時代に合った防災の提供が使命 ... 産経ニュース https://www.sankei.com > 経済 > 産業・ビジネス",
+    "url": "https://www.sankei.com/article/20250207-4KKPFPKTA5ME3I64N3WDPVYECI/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.nohmi.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nohmi.co.jp/product/irtsensor/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nohmi.co.jp/product/fire_experience/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nohmi.co.jp/about_nohmi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nohmi.co.jp/about_nohmi/001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nohmi.co.jp/about_nohmi/002.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nohmi.co.jp/about_nohmi/003.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nohmi.co.jp/about_nohmi/004.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nohmi.co.jp/about_nohmi/005.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nohmi.co.jp/about_nohmi/006.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nohmi.co.jp/about_nohmi/007.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nohmi.co.jp/about_nohmi/008.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nohmi.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nohmi.co.jp/ir/management_policy/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nohmi.co.jp/ir/management_policy/message.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nohmi.co.jp/ir/management_policy/management_plan.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nohmi.co.jp/ir/management_policy/corporate_governance.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nohmi.co.jp/ir/management_policy/risk.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nohmi.co.jp/ir/ir_documents/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nohmi.co.jp/ir/ir_documents/stockholder.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nohmi.co.jp/ir/ir_documents/accounts.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nohmi.co.jp/ir/ir_documents/negotiable_paper.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nohmi.co.jp/ir/ir_documents/briefing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nohmi.co.jp/ir/ir_documents/integrated_report.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nohmi.co.jp/ir/financial_data/index.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.nohmi.co.jp/ir/p6slda00000021ps-att/2026_integrated_report_print.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nohmi.co.jp/ir/p6slda00000021p6-att/2026_integrated_report.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nohmi.co.jp/ir/p6slda000000222a-att/ir20261029.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nohmi.co.jp/information/k/p6slda00000021f4-att/newsrelease_nhops20261026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nohmi.co.jp/information/k/p6slda000000219q-att/menumataiou20261026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nohmi.co.jp/information/k/p6slda0000001xb2-att/newsrelease_sutokuruplus20260930.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nohmi.co.jp/information/k/p6slda0000001v69-att/newsrelease_nhops20260916.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nohmi.co.jp/information/k/p6slda0000001tbt-att/newsrelease_nuigurumibousai20260901_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.nohmi-newgrad.com/interview-rs/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "能美防災",
+   "results": [
+    "https://www.nohmi.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E8%83%BD%E7%BE%8E%E9%98%B2%E7%81%BD",
+    "https://www.nohmi-newgrad.com/3minutes/",
+    "https://x.com/NOHMI_JYUKEIKI",
+    "https://ja.wikipedia.org/wiki/能美防災",
+    "https://www.nohmi.co.jp/webcatalog/",
+    "https://finance.yahoo.co.jp/quote/6744.T",
+    "https://nohmi-newgrad.com/top/",
+    "https://www.nohmi.co.jp/product/",
+    "https://www.nohmi.co.jp/about_nohmi/003.html"
+   ]
+  },
+  {
+   "query": "能美防災 ビジネスモデル",
+   "results": [
+    "https://www.nohmi.co.jp/ir/p6slda0000000tc1-att/2025_integrated_report.pdf",
+    "https://www.nohmi.co.jp/about_nohmi/006.html",
+    "https://www.nohmi-newgrad.com/3minutes/",
+    "https://www.nohmi.co.jp/",
+    "https://note.com/jobhuntkeyence/n/nb949c1a81c22",
+    "https://www.nohmi.co.jp/ir/management_policy/management_plan.html",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrQG&q_no=9",
+    "https://chat-ai.userlocal.jp/casestudy/nohmi/",
+    "https://www.nohmi.co.jp/ir/ir_data/ir20250509-1.pdf",
+    "https://ja.wikipedia.org/wiki/能美防災"
+   ]
+  },
+  {
+   "query": "能美防災 決算説明資料",
+   "results": [
+    "https://www.nohmi.co.jp/ir/ir_documents/briefing.html",
+    "https://www.nohmi.co.jp/ir/p6slda0000001rhz-att/ir20260806-1.pdf",
+    "https://www.nohmi.co.jp/search.html?p=21&c=20&o=1",
+    "https://www.nohmi.co.jp/ir/information/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260731504954/",
+    "https://www.nohmi.co.jp/ir/",
+    "https://www.nohmi.co.jp/ir/p6slda0000000gjf-att/ir20250509-1.pdf",
+    "https://www.nohmi.co.jp/ir/contents/faq.html",
+    "https://www.nohmi.co.jp/ir/ir_documents/accounts.html",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260410501742/"
+   ]
+  },
+  {
+   "query": "能美防災 事業系統図",
+   "results": [
+    "https://www.nohmi.co.jp/ir/p6slda0000000tc1-att/2025_integrated_report.pdf",
+    "https://www.nohmi.co.jp/about_nohmi/006.html",
+    "https://www.nohmi.co.jp/search.html",
+    "https://www.nohmi.co.jp/sitemap/",
+    "https://ja.wikipedia.org/wiki/%E8%83%BD%E7%BE%8E%E9%98%B2%E7%81%BD",
+    "https://www.nohmi.co.jp/ir/ir_data/ir20250509-1.pdf",
+    "https://www.nohmi.co.jp/ir/c435480000000i3u-att/2024_integrated_report.pdf",
+    "https://www.nohmi.co.jp/product/building/usefule/001.html",
+    "https://www.nohmi.co.jp/search.html?p=20&c=40&o=2",
+    "https://ja.wikipedia.org/wiki/能美防災"
+   ]
+  },
+  {
+   "query": "能美防災 社長 インタビュー",
+   "results": [
+    "https://www.nohmi-newgrad.com/interview-rs/",
+    "https://www.nohmi.co.jp/ir/management_policy/message.html",
+    "https://www.weekly-economist.com/interview/okamura_takeshi/",
+    "https://www.sankei.com/article/20250207-4KKPFPKTA5ME3I64N3WDPVYECI/",
+    "https://www.enaa.or.jp/?fname=topiterview_202504_46.pdf",
+    "https://kitaishihon.com/company/6744/board-of-director",
+    "https://www.youtube.com/channel/UCxhL4HnDCnYxqlqw7ojMqsw",
+    "https://www.nohmi.co.jp/about_nohmi/001.html",
+    "https://the-shashi.com/tse/6744/ceo/",
+    "https://www.enaa.or.jp/new/会員企業トップインタビュー：能美防災㈱-代表取"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部1頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部1頁・検索5回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部1頁・検索5回）"
+ }
+}

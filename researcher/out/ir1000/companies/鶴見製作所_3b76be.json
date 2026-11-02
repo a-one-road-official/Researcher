@@ -1,0 +1,1681 @@
+{
+ "name": "鶴見製作所",
+ "aliases": [],
+ "context": "証券コード6351／機械／プライム（内国株式）／2026.03期 売上高77,227百万円 営業利益率13.9%",
+ "researched_at": "2026-11-02T19:23:22.222209+00:00",
+ "official_url": "https://www.tsurumipump.co.jp/",
+ "identified_by": "search:yahoo_jp:鶴見製作所",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1948年（昭和23年）2月12日 ※実質上の存続会社 1924年（大正13年）1月5日 創業～ 1951年（昭和26年）12月24日 株式会社に改組",
+    "url": "https://www.tsurumipump.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1948年（創業：1924年）",
+    "url": "https://shachomeikan.jp/industry_article/5716",
+    "pass": 3
+   },
+   {
+    "label": "1948年（創業",
+    "value": "1924年）",
+    "url": "https://shachomeikan.jp/industry_article/5716",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "従業員 1,635名　2026年3月31日現在 （従業員数はグループ合計、ただし、嘱託、契約社員、パートを除いております。）",
+    "url": "https://www.tsurumipump.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "従業員 1,606名（2025年9月30日現在）",
+    "url": "https://shachomeikan.jp/industry_article/5716",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "当社グループは水中ポンプを主力とした各種ポンプ、環境装置とその関連機器の製造、仕入及び販売（輸出入を含む）並びに賃貸を行っており、それに附帯する修理及びアフターサービス並びに機械器具設置工事業、土木工事業、電気工事業、管工事業、水道施設工事業、清掃施設工事業、鋼構造物工事業、古物商、固定資産のリース業の事業活動を展開しております。",
+    "url": "https://www.tsurumipump.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "label": "事業概要",
+    "value": "製品の製造・販売・レンタル事業／保守・メンテナンス事業／建設・各種設備工事業／その他周辺事業",
+    "url": "https://shachomeikan.jp/industry_article/5716",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "製品ユーザー登録",
+    "url": "https://www.tsurumipump.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "投資に関する決定は、お客様自身のご判断で行われるようお願いいたします",
+    "url": "https://www.tsurumipump.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ユーザー登録",
+    "url": "https://www.tsurumipump.co.jp/products/Submersible_Pumps/Irrigation.php",
+    "pass": 1
+   },
+   {
+    "quote": "製品ユーザー登録",
+    "url": "https://www.tsurumipump.co.jp/products/Non-Submersible_Pumps/Circulation.php",
+    "pass": 1
+   },
+   {
+    "quote": "顧客行動の変化",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/tcfd.php",
+    "pass": 1
+   },
+   {
+    "quote": "環境意識の高い顧客への販売が増加する",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/tcfd.php",
+    "pass": 1
+   },
+   {
+    "quote": "製造でのGHG排出の足跡を算定することで環境意識の高い顧客ニーズに対応する",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/tcfd.php",
+    "pass": 1
+   },
+   {
+    "quote": "世界のGHG排出量ネットゼロを達成するために厳しい規制や技術革新が行われ、脱炭素社会への移行に伴う市場や顧客の嗜好変化が事業に影響を与える環境を想定",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/tcfd.php",
+    "pass": 1
+   },
+   {
+    "quote": "環境意識の高い顧客への販売機会",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/tcfd.php",
+    "pass": 1
+   },
+   {
+    "quote": "製品使用時のGHG排出量削減に貢献する製品ラインアップを充実させていくことは、環境意識の高い顧客の獲得、ひいては売上の上昇に繋がると考えられます",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/tcfd.php",
+    "pass": 1
+   },
+   {
+    "quote": "このような製品の特長を活かして販売機会の獲得を目指していくとともに、カーボンフットプリントの算定によって顧客行動の変化に柔軟に対応していきます",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/tcfd.php",
+    "pass": 1
+   },
+   {
+    "quote": "技術サイドではGHG削減や顧客嗜好に対応する製品ラインアップをすでに取り揃えています",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/tcfd.php",
+    "pass": 1
+   },
+   {
+    "quote": "また、研究開発活動を通じて、低炭素技術や環境負荷低減型の製品を市場に提供し、顧客の気候変動の緩和・適応や排出削減に資する製品を社会全体の持続可能性向上に貢献しています",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/tcfd.php",
+    "pass": 1
+   },
+   {
+    "quote": "水中ポンプ以外にも、様々な製品を通じてお客様ならびに社会の水環境を中心とした環境負荷低減に貢献してまいります",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/climate.php",
+    "pass": 1
+   },
+   {
+    "quote": "顧客との契約か",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2027_01tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2027_01tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客関連資産償却費",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2027_01tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "期連結累計期間に係る減価償却費(のれん及び顧客関連資産を除く無形固定資産に係る償却費を含む",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2027_01tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "償却額及び顧客関連資産償却費は、次のとおりであります",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2027_01tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "域において、のれんの償却額及び顧客関連資産償却費を計上したものの、増収効果が大きかったこと等により、",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2026_03_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、売上高は4,591百万円、セグメント損失はのれんの償却額260百万円及び顧客関連資産償却費75百万円",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2026_03_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客関連資産 899 876",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2026_03_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2026_03_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 28,089 9,293 5,298 1,586 44,267 2,645 46,912 － 46,912",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2026_03_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 28,813 11,157 6,322 4,258 50,551 2,764 53,315 － 53,315",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2026_03_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客関連資産償却費",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2026_03_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "期連結累計期間に係る減価償却費(のれん及び顧客関連資産を除く無形固定資産に係る償却費を含む",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2026_03_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "償却額及び顧客関連資産償却費は、次のとおりであります",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2026_03_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "のれんの減少は、顧客関連資産が893百万円、固定負債そ",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2026_03_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "収） 、営業利益は欧州地域においてのれんの償却額及び顧客関連",
+    "url": "https://www.tsurumipump.co.jp/ir/library/report/pdf/75_m_jigyouhoukoku.pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "＼ 月間利用者100万人以上! /",
+    "url": "https://migi-nanameue.co.jp/column/tsurumi-salary-average-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "利用者の9割がコンサル業界未経験",
+    "url": "https://migi-nanameue.co.jp/column/tsurumi-salary-average-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "総合コンサルティング会社にて、お客様一人ひとりに最適なオーダーメイドの資産運用プランを提案し、個人や企業の資産形成をトータルでサポートする資産形成コンサルタントを募集します",
+    "url": "https://migi-nanameue.co.jp/column/tsurumi-salary-average-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "チームでの協働や顧客対応が求められるため、円滑なコミュニケーション力が重視されます",
+    "url": "https://migi-nanameue.co.jp/column/tsurumi-salary-average-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "今回のM&Aにより、自治体などのお客様に対して、製品の提供だけでなく、据え付けから整備までの一貫したサービス網を構築できるようになります",
+    "url": "https://shachomeikan.jp/industry_article/5716",
+    "pass": 3
+   },
+   {
+    "quote": "弊社の工場で働く人材と連携し、メンテナンス部門を強化していくことで、お客様の満足度をさらに高めていく計画です",
+    "url": "https://shachomeikan.jp/industry_article/5716",
+    "pass": 3
+   },
+   {
+    "quote": "この買収に際しては、私自身が直接仲介会社とやり取りをし迅速にこの話を進め、発表後は既存のお客様に不安を抱かせることのないよう丁寧に説明して回りました",
+    "url": "https://shachomeikan.jp/industry_article/5716",
+    "pass": 3
+   },
+   {
+    "quote": "機械工具の豊富な知識で最適なソリューションを提供！メーカーとユーザーの架け橋を目指す社長の思いとは",
+    "url": "https://shachomeikan.jp/industry_article/5716",
+    "pass": 3
+   },
+   {
+    "quote": "東大の先生にもお助けいただき、非常に優秀な性能の水処理装置を、全国10箇所に納入させてもらったのですが、ただ、そうなりますと私どものお客様の領域に踏み込んでしまう",
+    "url": "https://www.new-ceo.jp/interview_part/no2/",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、お客様の設計の方、購買の方、営業の方がその話を聞いていただけますよね",
+    "url": "https://www.new-ceo.jp/interview_part/no2/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客が希求している必需製品を独自に提供する、という発想ですね",
+    "url": "https://www.new-ceo.jp/interview_part/no2/",
+    "pass": 3
+   },
+   {
+    "quote": "それを営業マンが発想することもありますし、お客様がそのポンプを見られて違う発想をしてくださることもありますからね",
+    "url": "https://www.new-ceo.jp/interview_part/no2/",
+    "pass": 3
+   },
+   {
+    "quote": "ポンプというのは、種々の緊急対応が必要であり、早くから支店や営業所のネットワークを築き、そのネットワークを維持拡大しお客様に対応しています",
+    "url": "https://www.new-ceo.jp/interview_part/no2/",
+    "pass": 3
+   },
+   {
+    "quote": "そのために、営業ネットワークには多くの人材を配置していて、絶え間なくお客様とコンタクトしている",
+    "url": "https://www.new-ceo.jp/interview_part/no2/",
+    "pass": 3
+   },
+   {
+    "quote": "コストバランスやその他を総合的に考えると、今やっていらっしゃるシステムが、最もお客様にとっても企業にとってもいいということでしょうか",
+    "url": "https://www.new-ceo.jp/interview_part/no2/",
+    "pass": 3
+   },
+   {
+    "quote": "私どもはどちらかというと建設関係のハードな環境、砂や砂利が入ってくるような環境においてポンプを設計してきましたので、そういう商品を海外に持っていくと、非常に耐久力があるねと海外のお客様は特に喜んでいただいています",
+    "url": "https://www.new-ceo.jp/interview_part/no2/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.tsurumipump.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新製品・注目製品",
+    "url": "https://www.tsurumipump.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ユーザー登録",
+    "url": "https://www.tsurumipump.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.tsurumipump.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新製品・注目製品一覧",
+    "url": "https://www.tsurumipump.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "畜産市場向け製品",
+    "url": "https://www.tsurumipump.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "工場設備向け製品",
+    "url": "https://www.tsurumipump.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "NETIS登録製品・技術",
+    "url": "https://www.tsurumipump.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション一覧",
+    "url": "https://www.tsurumipump.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品別専用サイトはこちら",
+    "url": "https://www.tsurumipump.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "様々な産業に貢献しているツルミの製品",
+    "url": "https://www.tsurumipump.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "SNS公式アカウントでは、製品情報や展示会情報、当社の最新の取り組みを幅広く配信しています",
+    "url": "https://www.tsurumipump.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品についてのご質問、見積もりやメンテナンスなど各種お問い合わせを承ります",
+    "url": "https://www.tsurumipump.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "本ウェブサイトに掲載されております写真ならびに仕様は、改良などによりお届けいたします製品と異なる場合がありますので、あらかじめご了承ください",
+    "url": "https://www.tsurumipump.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "本ウェブサイトに掲載されております写真ならびに仕様は、改良などによりお届けいたします製品と異なる場合がありますので、あらかじめご了承ください",
+    "url": "https://www.tsurumipump.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "灌漑用｜水中ポンプ｜製品情報｜鶴見製作所-ツルミポンプ",
+    "url": "https://www.tsurumipump.co.jp/products/Submersible_Pumps/Irrigation.php",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.tsurumipump.co.jp/products/Submersible_Pumps/Irrigation.php",
+    "pass": 1
+   },
+   {
+    "quote": "新製品・注目製品",
+    "url": "https://www.tsurumipump.co.jp/products/Submersible_Pumps/Irrigation.php",
+    "pass": 1
+   },
+   {
+    "quote": "製品ユーザー登録",
+    "url": "https://www.tsurumipump.co.jp/products/Submersible_Pumps/Irrigation.php",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.tsurumipump.co.jp/products/Submersible_Pumps/Irrigation.php",
+    "pass": 1
+   },
+   {
+    "quote": "製品についてのご質問、見積もりやメンテナンスなど各種お問い合わせを承ります",
+    "url": "https://www.tsurumipump.co.jp/products/Submersible_Pumps/Irrigation.php",
+    "pass": 1
+   },
+   {
+    "quote": "本ウェブサイトに掲載されております写真ならびに仕様は、改良などによりお届けいたします製品と異なる場合がありますので、あらかじめご了承ください",
+    "url": "https://www.tsurumipump.co.jp/products/Submersible_Pumps/Irrigation.php",
+    "pass": 1
+   },
+   {
+    "quote": "循環用｜陸上ポンプ｜製品情報｜鶴見製作所-ツルミポンプ",
+    "url": "https://www.tsurumipump.co.jp/products/Non-Submersible_Pumps/Circulation.php",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.tsurumipump.co.jp/products/Non-Submersible_Pumps/Circulation.php",
+    "pass": 1
+   },
+   {
+    "quote": "新製品・注目製品",
+    "url": "https://www.tsurumipump.co.jp/products/Non-Submersible_Pumps/Circulation.php",
+    "pass": 1
+   },
+   {
+    "quote": "製品ユーザー登録",
+    "url": "https://www.tsurumipump.co.jp/products/Non-Submersible_Pumps/Circulation.php",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.tsurumipump.co.jp/products/Non-Submersible_Pumps/Circulation.php",
+    "pass": 1
+   },
+   {
+    "quote": "製品についてのご質問、見積もりやメンテナンスなど各種お問い合わせを承ります",
+    "url": "https://www.tsurumipump.co.jp/products/Non-Submersible_Pumps/Circulation.php",
+    "pass": 1
+   },
+   {
+    "quote": "本ウェブサイトに掲載されております写真ならびに仕様は、改良などによりお届けいたします製品と異なる場合がありますので、あらかじめご了承ください",
+    "url": "https://www.tsurumipump.co.jp/products/Non-Submersible_Pumps/Circulation.php",
+    "pass": 1
+   },
+   {
+    "quote": "本ウェブサイトに掲載されております写真ならびに仕様は、改良などによりお届けいたします製品と異なる場合がありますので、あらかじめご了承ください",
+    "url": "https://www.tsurumipump.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは水中ポンプを主力とした各種ポンプ、環境装置とその関連機器の製造、仕入及び販売（輸出入を含む）並びに賃貸を行っており、それに附帯する修理及びアフターサービス並びに機械器具設置工事業、土木工事業、電気工事業、管工事業、水道施設工事業、清掃施設工事業、鋼構造物工事業、古物商、固定資産のリース業の事業活動を展開しております",
+    "url": "https://www.tsurumipump.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "本ウェブサイトに掲載されております写真ならびに仕様は、改良などによりお届けいたします製品と異なる場合がありますので、あらかじめご了承ください",
+    "url": "https://www.tsurumipump.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "「全国車で2時間」のネットワークサービス構想",
+    "url": "https://www.tsurumipump.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ツルミ製品センター完成",
+    "url": "https://www.tsurumipump.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "大阪・鶴見区で開催された「花と緑の博覧会」の水上交通機関「ウォーターライド」に当社製品が採用",
+    "url": "https://www.tsurumipump.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "本ウェブサイトに掲載されております写真ならびに仕様は、改良などによりお届けいたします製品と異なる場合がありますので、あらかじめご了承ください",
+    "url": "https://www.tsurumipump.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "鶴見製作所は、水中ポンプをはじめとする多様なポンプ製品や環境装置によって、日本国内はもちろん世界各地で数多くの実績を重ねてきました",
+    "url": "https://www.tsurumipump.co.jp/corporate/business/",
+    "pass": 1
+   },
+   {
+    "quote": "露天掘り・坑内掘りの過酷かつ様々な状況に応じて、高揚程から大水量タイプ、そして耐食性、防爆性に優れた製品が活躍しています",
+    "url": "https://www.tsurumipump.co.jp/corporate/business/",
+    "pass": 1
+   },
+   {
+    "quote": "本ウェブサイトに掲載されております写真ならびに仕様は、改良などによりお届けいたします製品と異なる場合がありますので、あらかじめご了承ください",
+    "url": "https://www.tsurumipump.co.jp/corporate/business/",
+    "pass": 1
+   },
+   {
+    "quote": "本ウェブサイトに掲載されております写真ならびに仕様は、改良などによりお届けいたします製品と異なる場合がありますので、あらかじめご了承ください",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、「水と人とのやさしいふれあい」を経営理念として、環境改善活動に取組み、かけがえのない資源である水を有効利用するための製品を提供し、「人にも地球にも心地いい快適工学」を実現することを環境理念として活動しております",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/policy.php",
+    "pass": 1
+   },
+   {
+    "quote": "環境改善に貢献するため、当社工場が取り組んでいる製品の高効率化・減重量化、エネルギー消費の低減、資源の節約を図った環境改善関連製品の拡販に努める",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/policy.php",
+    "pass": 1
+   },
+   {
+    "quote": "省エネルギー、省資源化の製品化を実施する",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/policy.php",
+    "pass": 1
+   },
+   {
+    "quote": "具体的には、資源の消費低減に繋がる取り組みとして、一部製品に関して木枠梱包からスチールパレット／ダンボール枠の梱包への仕様変更の実施や、再資源化に関して、エンジニアリング部門は建築廃棄物の資源化率97％以上を目標に定めて事業活動を行うなど、環境を意識した事業を行っております",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/policy.php",
+    "pass": 1
+   },
+   {
+    "quote": "水使用については、当社は製品の生産プロセスで水を使用しておりませんが、生活排水など可能な部分での節水に努めています",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/policy.php",
+    "pass": 1
+   },
+   {
+    "quote": "本ウェブサイトに掲載されております写真ならびに仕様は、改良などによりお届けいたします製品と異なる場合がありますので、あらかじめご了承ください",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/policy.php",
+    "pass": 1
+   },
+   {
+    "quote": "当社の環境マネジメントシステムは、事業活動、製品やサービスが環境におよぼす影響を把握、評価、是正するとともに、環境保全活動を継続的に改善することを目的としています",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/management.php",
+    "pass": 1
+   },
+   {
+    "quote": "本ウェブサイトに掲載されております写真ならびに仕様は、改良などによりお届けいたします製品と異なる場合がありますので、あらかじめご了承ください",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/management.php",
+    "pass": 1
+   },
+   {
+    "quote": "また、私たちの経済活動は、大気、水、鉱物、土壌、動植物等の自然資本から生み出される利益（生態系サービス）に依存しており、この恩恵を享受し続けるためには生物多様性の保全も重要となっています",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/tcfd.php",
+    "pass": 1
+   },
+   {
+    "quote": "製品の差別化成功によって売上が増加する",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/tcfd.php",
+    "pass": 1
+   },
+   {
+    "quote": "『省エネ製品の販売増加』",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/tcfd.php",
+    "pass": 1
+   },
+   {
+    "quote": "使用時のGHG排出量削減に貢献する製品需要に対応することによって売上が増加する",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/tcfd.php",
+    "pass": 1
+   },
+   {
+    "quote": "企業成長に伴って製品生産時のGHG排出量は増加するため、炭素税が導入された場合には、減益のインパクトが発生します",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/tcfd.php",
+    "pass": 1
+   },
+   {
+    "quote": "省エネ製品の需要増加",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/tcfd.php",
+    "pass": 1
+   },
+   {
+    "quote": "『製品ラインアップの拡充による幅広いニーズへの対応』",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/tcfd.php",
+    "pass": 1
+   },
+   {
+    "quote": "気候変動がポンプ市場に及ぼす影響の例としては、陸上ポンプが選択されるフィールドでの製品の耐水化や高効率のモータを搭載したポンプ需要等があります",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/tcfd.php",
+    "pass": 1
+   },
+   {
+    "quote": "地熱発電所やバイオマス発電所における当社製品の需要増に伴い、売上高が増加することが考えられます",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/tcfd.php",
+    "pass": 1
+   },
+   {
+    "quote": "しかしこれらの需要を満足する製品仕様は地域ごとに異なるため、世界各国の多様なニーズに対応するには、より幅広い製品ラインアップが必要となります",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/tcfd.php",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、2019年度から設備産業分野に強みを持つZENIT社との間で技術・業務提携し、製品ラインアップの補完・強化や両社の販売ネットワークを通じた売上の拡大、また両社技術の融合を通じた新製品開発等に取り組んできました",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/tcfd.php",
+    "pass": 1
+   },
+   {
+    "quote": "当社の製品群の販売機会として、ネットゼロに向けた化石燃料に依存した発電の減少は当社にとって減益インパクトになりうる一方、地熱やバイオマス、太陽光を含む再生可能エネルギー従来市場は今後も短期・中期・長期的な需要を見込んでおり、地熱・バイオマス発電への真空ポンプ需要や太陽光発電に付随する雨水調整池への水中ポンプ需要などが増加すると想定され、売上高が増加することが考えられます",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/tcfd.php",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "水処理・水害対策・設備の省エネ化・現場の省力化など幅広くご紹介します",
+    "url": "https://www.tsurumipump.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "TCFD・TNFDに基づく開示をご紹介しています",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "気候変動・自然関連の取り組みをご紹介しています",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "社外国人従業員の業務・私生活及び、外国人従業員への支援取り組みについて紹介されますので、ぜひご",
+    "url": "https://www.tsurumipump.co.jp/news/pdf/20260907.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "場の声そして製品開発に至るまでの経緯が詳しく紹介され",
+    "url": "https://www.tsurumipump.co.jp/ir/library/report/pdf/75_m_jigyouhoukoku.pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "スマッシュ機構を搭載した水中ノンクロッグ型スマッシュポンプのご紹介",
+    "url": "https://www.tsurumipump.co.jp/ir/library/disclosure/pdf/ir_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "である隠れホワイト企業を取り扱っており、一人ひとりの経験に合わせたスキルセットを真に評価する企業を紹介しています",
+    "url": "https://migi-nanameue.co.jp/column/tsurumi-salary-average-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "特別案件や特急選考など、限定紹介も豊富です",
+    "url": "https://migi-nanameue.co.jp/column/tsurumi-salary-average-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "年収5,000万円〜1億円超のパートナー案件から、PEファンド、ベンチャー幹部まで圧倒的求人数",
+    "url": "https://migi-nanameue.co.jp/column/tsurumi-salary-average-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、代表的な福利厚生について紹介します",
+    "url": "https://migi-nanameue.co.jp/column/tsurumi-salary-average-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "をプロが丁寧に紹介",
+    "url": "https://migi-nanameue.co.jp/column/tsurumi-salary-average-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "求人サイトに載らない隠れホワイト求人の紹介に特化した転職エージェント",
+    "url": "https://migi-nanameue.co.jp/column/tsurumi-salary-average-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "（※）下水道展：地方公共団体等を対象に、全国の下水道関連企業（団体）の技術開発の成果に基づき、下水道に関する幅広い分野の最新技術・機器等を展示紹介する、下水道に関する展示会",
+    "url": "https://shachomeikan.jp/industry_article/5716",
+    "pass": 3
+   },
+   {
+    "quote": "同時に、インドや南米など未開拓の海外市場へも積極的に進出し、現地の販売代理店を買収するなどの戦略でグローバル展開を加速させます",
+    "url": "https://shachomeikan.jp/industry_article/5716",
+    "pass": 3
+   },
+   {
+    "quote": "店舗数で仏具業界トップのスタンダード上場企業",
+    "url": "https://shachomeikan.jp/industry_article/5716",
+    "pass": 3
+   },
+   {
+    "quote": "販売店以外にもカフェ、ベーカリーなど多様な業態で国内に約360店舗を展開",
+    "url": "https://shachomeikan.jp/industry_article/5716",
+    "pass": 3
+   },
+   {
+    "quote": "店舗向けBGMの配信サービスで国内トップシェア",
+    "url": "https://shachomeikan.jp/industry_article/5716",
+    "pass": 3
+   },
+   {
+    "quote": "店舗のDX推進にも注力",
+    "url": "https://shachomeikan.jp/industry_article/5716",
+    "pass": 3
+   },
+   {
+    "quote": "思い出として頭に残っていることがあればご紹介ください",
+    "url": "https://www.new-ceo.jp/interview_part/no2/",
+    "pass": 3
+   },
+   {
+    "quote": "以前ご紹介した“おうちまもるくん”も、全く違う用途から若手の社員のアイディアで完成し、4月から発売の予定です",
+    "url": "https://www.new-ceo.jp/interview_part/no2/",
+    "pass": 3
+   },
+   {
+    "quote": "ヨーロッパは先進国なので技術を認めていただけるということで、それなりに高品質、高効率を求めてこられますので、私どもは既存の商品を紹介していきます",
+    "url": "https://www.new-ceo.jp/interview_part/no2/",
+    "pass": 3
+   },
+   {
+    "quote": "販売網の強さも当社にとっては大きな財産であると考えています",
+    "url": "https://www.new-ceo.jp/interview_part/no2/",
+    "pass": 3
+   },
+   {
+    "quote": "通常の販売店とネット販売がどのように推移していくかをみていかないといけないと思います",
+    "url": "https://www.new-ceo.jp/interview_part/no2/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.tsurumipump.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月上旬",
+    "url": "https://www.tsurumipump.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月下旬",
+    "url": "https://www.tsurumipump.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月上旬",
+    "url": "https://www.tsurumipump.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期決算発表",
+    "url": "https://www.tsurumipump.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月上旬",
+    "url": "https://www.tsurumipump.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期決算発表",
+    "url": "https://www.tsurumipump.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.tsurumipump.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.tsurumipump.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "1948年（昭和23年）2月12日",
+    "url": "https://www.tsurumipump.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "1924年（大正13年）1月5日 創業～",
+    "url": "https://www.tsurumipump.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "1951年（昭和26年）12月24日 株式会社に改組",
+    "url": "https://www.tsurumipump.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革｜企業概要｜鶴見製作所-ツルミポンプ",
+    "url": "https://www.tsurumipump.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1961年就任",
+    "url": "https://www.tsurumipump.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1980年（昭和55年）には全国63箇所の営業網を確立",
+    "url": "https://www.tsurumipump.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1924年の創業以来、私たちはポンプを通じて人々の暮らしや社会インフラを支える縁の下の力持ちとして歩み続け、",
+    "url": "https://www.tsurumipump.co.jp/corporate/business/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年02月03日",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/management.php",
+    "pass": 1
+   },
+   {
+    "quote": "2001年02月26日",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/management.php",
+    "pass": 1
+   },
+   {
+    "quote": "2010年01月11日",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/management.php",
+    "pass": 1
+   },
+   {
+    "quote": "2030年度～",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/tcfd.php",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度にはZENIT社の連結子会社化を完了しており、販売および技術でのシナジー効果をより一層高めることで、多様な市場におけるニーズ獲得、売上拡大を目指していきます",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/tcfd.php",
+    "pass": 1
+   },
+   {
+    "quote": "2030年度時点における日本の降雨強度変化は1.1倍と予測され、日本国内では気候変動にかかる急性の物理リスクへのBCP対策等の適応策に貢献する当社の製品の受注増が見込まれ、その影響により製品売上の増加の可能性があります",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/tcfd.php",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度は、当社グループの日本国内の直接操業が該当するセクターおよび当社グループの生産拠点が位置する地域を評価の対象にしました",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/tcfd.php",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/tcfd.php",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/tcfd.php",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/tcfd.php",
+    "pass": 1
+   },
+   {
+    "quote": "2020年度",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/climate.php",
+    "pass": 1
+   },
+   {
+    "quote": "2021年度～",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/climate.php",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度～",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/climate.php",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度～",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/climate.php",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度～",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/climate.php",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度～",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/climate.php",
+    "pass": 1
+   },
+   {
+    "quote": "2030年時点における日本の降雨強度変化は20世紀末と比較して1.1倍増加すると予測されており、今後も気候の激甚化が国内では適応策としてBCP対策が進展しており、特に官公庁においては、大雨・洪水対策としての雨水排水設備の更新・機能強化に関する案件数や発注金額の増加を予想しています",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/climate.php",
+    "pass": 1
+   },
+   {
+    "quote": "2023年より、TCFD（気候関連財務情報開示タスクフォース）に賛同しています",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/climate.php",
+    "pass": 1
+   },
+   {
+    "quote": "2025年より、気候変動対策に積極的に取り組む企業や自治体、NGOなどの情報発信や意見交換を強化するためのネットワーク「気候変動イニシアティブ（JCI：Japan Climate Initiative）」に参加しています",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/climate.php",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年 9 月 7 日",
+    "url": "https://www.tsurumipump.co.jp/news/pdf/20260907.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年 11 月２日",
+    "url": "https://www.tsurumipump.co.jp/ir/library/disclosure/pdf/ir_261102.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年 10 月 1 日",
+    "url": "https://www.tsurumipump.co.jp/ir/library/disclosure/pdf/ir_261001.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年 9 月 1 日",
+    "url": "https://www.tsurumipump.co.jp/ir/library/disclosure/pdf/ir_260901.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2027_01tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年８月７日",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2027_01tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期第１四半期 19,479 7.5 2,852 △5.0 3,682 57.0 2,640 114.5",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2027_01tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年３月期第１四半期 18,111 19.8 3,001 42.0 2,345 △38.3 1,231 △51.1",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2027_01tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期第１四半期 55.13 －",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2027_01tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年３月期第１四半期 25.51 －",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2027_01tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期第１四半期 138,274 106,293 75.7",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2027_01tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年３月期 138,273 103,575 73.8",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2027_01tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年３月期 － 26.00 － 16.00 －",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2027_01tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期 －",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2027_01tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期（予想） 16.00 － 20.00 36.00",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2027_01tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年３月期第２四半期末",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2027_01tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年５月12日に公表した業績予想を修正しております",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2027_01tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年３月期 第３四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2026_03_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年２月13日",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2026_03_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年３月期第３四半期 53,315 13.6 7,370 11.8 9,384 18.3 5,973 △15.2",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2026_03_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年３月期第３四半期 46,912 7.0 6,591 4.7 7,929 △6.3 7,047 22.3",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2026_03_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年３月期第３四半期 124.18 －",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2026_03_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年３月期第３四半期 143.57 －",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2026_03_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年３月期第３四半期 133,447 102,758 75.9",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2026_03_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年３月期 131,509 95,852 71.8",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2026_03_tanshin.pdf",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "当社は、2019年度から設備産業分野に強みを持つZENIT社との間で技術・業務提携し、製品ラインアップの補完・強化や両社の販売ネットワークを通じた売上の拡大、また両社技術の融合を通じた新製品開発等に取り組んできました",
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/tcfd.php",
+    "pass": 1
+   },
+   {
+    "quote": "前年同四半期連結累計期間に計上した高収益案件",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2027_01tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "安定した配当や福利厚生の充実も、上場企業ならではの強みといえるでしょう",
+    "url": "https://migi-nanameue.co.jp/column/tsurumi-salary-average-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "過去の成果や課題解決事例を交えて、自分の強みをアピールしましょう",
+    "url": "https://migi-nanameue.co.jp/column/tsurumi-salary-average-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "よりそい転職では、受け答えに詰まりやすい質問や、自分の強みの伝え方まで一緒に整理し、面接対策を回数無制限で行っています",
+    "url": "https://migi-nanameue.co.jp/column/tsurumi-salary-average-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "強みや課題を徹底分析、将来のゴールから攻略方法を設計",
+    "url": "https://migi-nanameue.co.jp/column/tsurumi-salary-average-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社の強みは圧倒的な「耐久性」です",
+    "url": "https://shachomeikan.jp/industry_article/5716",
+    "pass": 3
+   },
+   {
+    "quote": "鋳造からモータまで、すべてを自前で手がける一貫体制こそが、他社には真似できない弊社の最大の強みです",
+    "url": "https://shachomeikan.jp/industry_article/5716",
+    "pass": 3
+   },
+   {
+    "quote": "2026年に買収したのは、大型ポンプのレンタルと整備に強みを持つ、業歴68年の名古屋の会社です",
+    "url": "https://shachomeikan.jp/industry_article/5716",
+    "pass": 3
+   },
+   {
+    "quote": "どれくらいコストを下げれば競争優位が確保できましょうか",
+    "url": "https://www.new-ceo.jp/interview_part/no2/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "（セグメント情報等の注記） ……………………………………………………………………………………… 8",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2027_01tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの業績は、次のとおりであります",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2027_01tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、売上高は4,857百万円と前年同四半期連結累計期間と比べ1,340百万円（38.1％）の増収、セグメント",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2027_01tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、売上高は1,804百万円と前年同四半期連結累計期間と比べ50百万円（2.7％）の減収、セグメント利益",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2027_01tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2027_01tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2027_01tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益又",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2027_01tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2027_01tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2027_01tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメントごとの売上高及び利益又は損失の金額に関する情報並びに収益の分解情報",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2027_01tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１ 「その他」の区分は、報告セグメントに含まれない事業セグメントであり、中国等の現地法人の",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2027_01tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２ セグメント利益又は損失の調整額△412百万円には、各報告セグメントに配分していない全社費",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2027_01tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "用は、主に報告セグメントに帰属しない当社の管理部門に係る費用であります",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2027_01tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３ セグメント利益又は損失は、四半期連結損益計算書の営業利益と調整を行っております",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2027_01tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２ セグメント利益又は損失の調整額△837百万円には、各報告セグメントに配分していない全社費",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2027_01tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記） ……………………………………………………………………………………… 8",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2026_03_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これらの結果 、当第３四半期連結累計期間 の売上高は、各セグメントの売上 が堅調に推移したこと 、また、",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2026_03_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの業績は、次のとおりであります",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2026_03_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、売上高は12,834百万円と前年同四半期連結累計期間と比べ565百万円（4.6％）の増収、セグメント利",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2026_03_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、売上高は4,591百万円、セグメント損失はのれんの償却額260百万円及び顧客関連資産償却費75百万円",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2026_03_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、売上高は4,842百万円と前年同四半期連結累計期間と比べ58百万円（1.2％）の増収、セグメント利益",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2026_03_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2026_03_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2026_03_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益又は損",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2026_03_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2026_03_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2026_03_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１ 報告セグメントごとの売上高及び利益又は損失の金額に関する情報並びに収益の分解情報",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2026_03_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１ 「その他」の区分は、報告セグメントに含まれない事業セグメントであり、中国等の現地法人の",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2026_03_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２ セグメント利益 の調整額△1,710百万円には 、各報告セグメントに配分していない全社費用",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2026_03_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "用は、主に報告セグメントに帰属しない当社の管理部門に係る費用であります",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2026_03_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３ セグメント利益は、四半期連結損益計算書の営業利益と調整を行っております",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2026_03_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２ 報告セグメントの変更等に関する事項",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2026_03_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この地域のセグメントの重要性、",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2026_03_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "一体性が高いことから、「欧州」セグメントとして経営上管理することとし、報告セグメントとして記載",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2026_03_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３ 報告セグメントごとの資産に関する情報",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2026_03_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これにより、前連結会計年度の末日に比べ、当第３四半期連結会計期間の報告セグメントの資産の金額",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2026_03_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "は、「日本」セグメントにおいて4,761百万円、「欧州」セグメントにおいて12,439百万円それぞれ増加",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2026_03_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "４ 報告セグメントごとの固定資産の減損損失又はのれん等に関する情報",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2026_03_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これにより、欧州セグメントにおいてのれんが3,096百万円増加しております",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2026_03_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２ セグメント利益又は損失の調整額△1,598百万円には、各報告セグメントに配分していない全社",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2026_03_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "部門別売上構成比率",
+    "url": "https://www.tsurumipump.co.jp/ir/library/report/pdf/75_m_jigyouhoukoku.pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "に推移したこと、アジア市場でも日本セグメント同様にスマッ",
+    "url": "https://www.tsurumipump.co.jp/ir/library/report/pdf/75_m_jigyouhoukoku.pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "従来は、国内販売のものを若干マイナーチェンジして海外に投入する方法を取っていましたが、最近では海外売上比率も高まり、海外の独自商品の開発課題も多くなってきています",
+    "url": "https://www.new-ceo.jp/interview_part/no2/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "鶴見製作所はどんな会社？事業内容とビジネスモデル",
+    "url": "https://migi-nanameue.co.jp/column/tsurumi-salary-average-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "また、仕入やアフターサービスにも注力しており、安定したビジネスモデルを築いています",
+    "url": "https://migi-nanameue.co.jp/column/tsurumi-salary-average-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "というのは、親父のビジネスモデルが、もうだめだということを営業マンから生産から社員みんながわかってくれただろうと",
+    "url": "https://www.new-ceo.jp/interview_part/no2/",
+    "pass": 3
+   },
+   {
+    "quote": "お父様が考えておられたビジネスモデルに対して、社長は先代がやっているだけでは十分ではない、変えていかなくてはいけないと考えておられたのですね",
+    "url": "https://www.new-ceo.jp/interview_part/no2/",
+    "pass": 3
+   },
+   {
+    "quote": "自分なりのビジネスモデルはいつごろから熟慮しはじめ、実行への心づもりはどのように考えておられたのでしょうか",
+    "url": "https://www.new-ceo.jp/interview_part/no2/",
+    "pass": 3
+   },
+   {
+    "quote": "ただ当時は、親父の描いていたビジネスモデルにおいて十分それぞれの営業所が予算を達成できていましたので、そのような方針を聞かなくてもよかった",
+    "url": "https://www.new-ceo.jp/interview_part/no2/",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、その親父のビジネスモデルがだめになってきて、これは新社長が言うことを聞かなければいけないなと初めてなったということで、ラッキーと捉えたんです",
+    "url": "https://www.new-ceo.jp/interview_part/no2/",
+    "pass": 3
+   },
+   {
+    "quote": "社長になられて売り上げが40億下がった、その時にビジネスモデルを切り替えるチャンスと判断した",
+    "url": "https://www.new-ceo.jp/interview_part/no2/",
+    "pass": 3
+   },
+   {
+    "quote": "不況に強いということで結果としてうまくいったと仰いましたが、ビジネスモデルを新しいものに切り替えていかれるときの社長の一番根本的な考え方のポイントは、どう理解したらよろしいでしょうか",
+    "url": "https://www.new-ceo.jp/interview_part/no2/",
+    "pass": 3
+   },
+   {
+    "quote": "企業の生存、成長と発展のためには利益が必要ですが、どういう風に利益設定を考えるかによって、ビジネスモデルにも違いがでてきますね",
+    "url": "https://www.new-ceo.jp/interview_part/no2/",
+    "pass": 3
+   },
+   {
+    "quote": "起業される人は、それなりにこういうビジネスモデルで企業として拡大していこうという思いがありますので、それは独自の発想や独自の技術があるだろうと思います",
+    "url": "https://www.new-ceo.jp/interview_part/no2/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "事業案内｜企業概要｜ 鶴見製作所 -ツルミポンプ — 事業案内｜企業概要｜ 鶴見製作所 -ツルミポンプ 株式会社鶴見製作所 https://www.tsurumipump.co.jp > corporate > business",
+    "url": "https://www.tsurumipump.co.jp/corporate/business/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】 鶴見製作所 の年収はどれくらい？平均年収 ... — 【2026年版】 鶴見製作所 の年収はどれくらい？平均年収 ... 株式会社ミギナナメウエ https://migi-nanameue.co.jp > Home > コラム",
+    "url": "https://migi-nanameue.co.jp/column/tsurumi-salary-average-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 通期 決算説明補足資料 - 鶴見製作所 — 2026年3月期 通期 決算説明補足資料 - 鶴見製作所 株式会社鶴見製作所 PDF https://www.tsurumipump.co.jp > finance > pdf > 20...",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2026_tanshin_document.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家情報経営戦略 - 鶴見製作所 — 株主・投資家情報経営戦略 - 鶴見製作所 株式会社鶴見製作所 https://www.tsurumipump.co.jp > management > plan",
+    "url": "https://www.tsurumipump.co.jp/ir/management/plan/",
+    "pass": 3
+   },
+   {
+    "quote": "【取材レポート】 鶴見製作所 ：水中ポンプ専業メーカー - note — 【取材レポート】 鶴見製作所 ：水中ポンプ専業メーカー - note note https://note.com > ビジネス > ビジネス読み物（運営）",
+    "url": "https://note.com/fisco_jp/n/nc8702ff9eccf",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家情報決算短信・ 決算説明 補足 資料 - 鶴見製作所 — 株主・投資家情報決算短信・ 決算説明 補足 資料 - 鶴見製作所 株式会社鶴見製作所 https://www.tsurumipump.co.jp > library > finance",
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリー｜株主・投資家情報｜ 鶴見製作所 -ツルミポンプ — IRライブラリー｜株主・投資家情報｜ 鶴見製作所 -ツルミポンプ 株式会社鶴見製作所 https://www.tsurumipump.co.jp > library",
+    "url": "https://www.tsurumipump.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家情報｜ 鶴見製作所 -ツルミポンプ — 株主・投資家情報｜ 鶴見製作所 -ツルミポンプ 株式会社鶴見製作所 https://www.tsurumipump.co.jp > ...",
+    "url": "https://www.tsurumipump.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "報告書｜IRライブラリー｜株主・投資家情報 - 鶴見製作所 — 報告書｜IRライブラリー｜株主・投資家情報 - 鶴見製作所 株式会社鶴見製作所 https://www.tsurumipump.co.jp > library > report",
+    "url": "https://www.tsurumipump.co.jp/ir/library/report/",
+    "pass": 3
+   },
+   {
+    "quote": "【 鶴見製作所 】[6351]IR情報 中期経営計画や 決算 短信 | 日経 ... — 【 鶴見製作所 】[6351]IR情報 中期経営計画や 決算 短信 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=6351",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜企業概要｜ 鶴見製作所 -ツルミポンプ — 会社概要｜企業概要｜ 鶴見製作所 -ツルミポンプ 株式会社鶴見製作所 https://www.tsurumipump.co.jp > corporate > outline",
+    "url": "https://www.tsurumipump.co.jp/corporate/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "ネットワーク｜企業概要｜ 鶴見製作所 -ツルミポンプ — ネットワーク｜企業概要｜ 鶴見製作所 -ツルミポンプ 株式会社鶴見製作所 https://www.tsurumipump.co.jp > network > japan",
+    "url": "https://www.tsurumipump.co.jp/corporate/network/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "サポート・ダウンロード｜ 鶴見製作所 -ツルミポンプ — サポート・ダウンロード｜ 鶴見製作所 -ツルミポンプ 株式会社鶴見製作所 https://www.tsurumipump.co.jp > support",
+    "url": "https://www.tsurumipump.co.jp/support/",
+    "pass": 3
+   },
+   {
+    "quote": "業界毎特集記事－株式会社 鶴見製作所 代表取締役 社長 辻本 治 — 業界毎特集記事－株式会社 鶴見製作所 代表取締役 社長 辻本 治 社長名鑑 https://shachomeikan.jp > industry_article",
+    "url": "https://shachomeikan.jp/industry_article/5716",
+    "pass": 3
+   },
+   {
+    "quote": "水中ポンプの深化による堅実な成長」 株式会社 鶴見製作所 ... — 水中ポンプの深化による堅実な成長」 株式会社 鶴見製作所 ... 新鋭経営会 https://www.new-ceo.jp > interview_part",
+    "url": "https://www.new-ceo.jp/interview_part/no2/",
+    "pass": 3
+   },
+   {
+    "quote": "社長 挨拶｜企業概要｜ 鶴見製作所 -ツルミポンプ — 社長 挨拶｜企業概要｜ 鶴見製作所 -ツルミポンプ 株式会社鶴見製作所 https://www.tsurumipump.co.jp > corporate > message",
+    "url": "https://www.tsurumipump.co.jp/corporate/message/",
+    "pass": 3
+   },
+   {
+    "quote": "鶴見製作所 【6351】の 社長 ・役員 - キタイシホン — 鶴見製作所 【6351】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/6351/board-of-director",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "製品の製造・販売・レンタル事業／保守・メンテナンス事業／建設・各種設備工事業／その他周辺事業",
+    "url": "https://shachomeikan.jp/industry_article/5716",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.tsurumipump.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsurumipump.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsurumipump.co.jp/products/Submersible_Pumps/Irrigation.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsurumipump.co.jp/products/Non-Submersible_Pumps/Circulation.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsurumipump.co.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsurumipump.co.jp/corporate/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsurumipump.co.jp/corporate/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsurumipump.co.jp/corporate/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/policy.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/management.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/tcfd.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsurumipump.co.jp/sustainability/environment/climate.php",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.tsurumipump.co.jp/news/pdf/20260907.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tsurumipump.co.jp/ir/library/disclosure/pdf/ir_261102.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tsurumipump.co.jp/ir/library/disclosure/pdf/ir_261001.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tsurumipump.co.jp/ir/library/disclosure/pdf/ir_260901.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2027_01tanshin.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2026_03_tanshin.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tsurumipump.co.jp/ir/library/report/pdf/75_m_jigyouhoukoku.pdf.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tsurumipump.co.jp/ir/library/disclosure/pdf/ir_260806.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tsurumipump.co.jp/images3/navi/nav-corp-business.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tsurumipump.co.jp/images3/banner/bnr-business.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tsurumipump.co.jp/corporate/business/images3/field-infograph.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tsurumipump.co.jp/corporate/business/images3/field-construction.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tsurumipump.co.jp/corporate/business/images3/field-water-treatment.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tsurumipump.co.jp/corporate/business/images3/field-field-flood-control.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tsurumipump.co.jp/corporate/business/images3/field-field-energy.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tsurumipump.co.jp/corporate/business/images3/field-mining.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://migi-nanameue.co.jp/column/tsurumi-salary-average-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shachomeikan.jp/industry_article/5716",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.new-ceo.jp/interview_part/no2/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "鶴見製作所",
+   "results": [
+    "https://www.tsurumipump.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E9%B6%B4%E8%A6%8B%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "https://www.youtube.com/user/TsurumiPumpTV",
+    "https://job.mynavi.jp/28/pc/search/corp57976/outline.html",
+    "https://www.facebook.com/TSURUMIPUMP1924/",
+    "https://ja.wikipedia.org/wiki/鶴見製作所",
+    "https://www.tsurumipump.co.jp/corporate/",
+    "https://www.tsurumipump.co.jp/products/Submersible_Pumps/",
+    "https://www.tsurumipump.co.jp/products/",
+    "https://www.tsurumipump.co.jp/corporate/outline/"
+   ]
+  },
+  {
+   "query": "鶴見製作所 ビジネスモデル",
+   "results": [
+    "https://www.tsurumipump.co.jp/corporate/business/",
+    "https://migi-nanameue.co.jp/column/tsurumi-salary-average-2026/",
+    "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2026_tanshin_document.pdf",
+    "https://www.tsurumipump.co.jp/ir/management/plan/",
+    "https://note.com/fisco_jp/n/nc8702ff9eccf",
+    "https://www.new-ceo.jp/interview_part/no2/",
+    "https://www.youtube.com/watch?v=XrB_MdQqtHs",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrLD&q_no=9",
+    "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2025_tanshin_presentation.pdf",
+    "https://ja.wikipedia.org/wiki/鶴見製作所"
+   ]
+  },
+  {
+   "query": "鶴見製作所 決算説明資料",
+   "results": [
+    "https://www.tsurumipump.co.jp/ir/library/finance/",
+    "https://www.tsurumipump.co.jp/ir/library/",
+    "https://www.tsurumipump.co.jp/ir/",
+    "https://www.tsurumipump.co.jp/ir/library/report/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=6351",
+    "https://www.tsurumipump.co.jp/ir/performance_and_finance/",
+    "https://edinetdb.jp/company/E01662/presentations/",
+    "https://treelazy.com/stock-jp/6351",
+    "https://kitaishihon.com/company/6351/ir-library",
+    "https://irbank.net/6351/ir"
+   ]
+  },
+  {
+   "query": "鶴見製作所 事業系統図",
+   "results": [
+    "https://www.tsurumipump.co.jp/corporate/outline/",
+    "https://www.tsurumipump.co.jp/corporate/network/japan/",
+    "https://www.tsurumipump.co.jp/ir/library/finance/pdf/2026_tanshin_document.pdf",
+    "https://www.tsurumipump.co.jp/support/",
+    "https://www.tsurumipump.co.jp/ir/",
+    "https://www.tsurumipump.co.jp/",
+    "https://job.mynavi.jp/28/pc/search/corp57976/outline.html",
+    "https://www.tsurumipump.co.jp/profile/",
+    "https://ja.wikipedia.org/wiki/%E9%B6%B4%E8%A6%8B%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "https://ja.wikipedia.org/wiki/鶴見製作所"
+   ]
+  },
+  {
+   "query": "鶴見製作所 社長 インタビュー",
+   "results": [
+    "https://shachomeikan.jp/industry_article/5716",
+    "https://www.new-ceo.jp/interview_part/no2/",
+    "https://www.tsurumipump.co.jp/corporate/message/",
+    "https://kitaishihon.com/company/6351/board-of-director",
+    "https://www.instagram.com/p/DZMBuaKza4J/",
+    "https://choujin.jp/story/482/",
+    "https://www.nikkan.co.jp/articles/view/735219",
+    "https://www.youtube.com/watch?v=yJd2MMmcrgQ",
+    "https://the-shashi.com/tse/6351/executives/ceo/tsujimoto-osamu/",
+    "https://www.nikkan.co.jp/articles/view/00735219"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像16件／外部3頁・検索5回）"
+ }
+}

@@ -1,0 +1,1637 @@
+{
+ "name": "丸一鋼管",
+ "aliases": [],
+ "context": "証券コード5463／鉄鋼／プライム（内国株式）／2026.03期 売上高243,764百万円 営業利益率13.2%",
+ "researched_at": "2026-11-02T19:38:16.385364+00:00",
+ "official_url": "https://www.maruichikokan.co.jp/",
+ "identified_by": "search:yahoo_jp:丸一鋼管",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1948年（昭和23年）3月1日",
+    "url": "https://www.maruichikokan.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1947年 12月18日",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%B8%E4%B8%80%E9%8B%BC%E7%AE%A1",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "2,599名（2026年3月期　連結） 586名（2026年3月期　単体）",
+    "url": "https://www.maruichikokan.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "連結：2,381人 単独：626人 （2021年3月末現在）",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%B8%E4%B8%80%E9%8B%BC%E7%AE%A1",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "2,437億6千万円（2026年3月期・連結）",
+    "url": "https://www.maruichikokan.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "連結: 2616.49億円 （2025年3月期）",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%B8%E4%B8%80%E9%8B%BC%E7%AE%A1",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "鋼管の製造･加工・販売",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%B8%E4%B8%80%E9%8B%BC%E7%AE%A1",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "丸一鋼管の製品",
+    "url": "https://www.maruichikokan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品仕様一覧",
+    "url": "https://www.maruichikokan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "電材製品 仕様書発行",
+    "url": "https://www.maruichikokan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "丸一鋼管の製品",
+    "url": "https://www.maruichikokan.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品仕様一覧",
+    "url": "https://www.maruichikokan.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "電材製品 仕様書発行",
+    "url": "https://www.maruichikokan.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "丸一鋼管の製品",
+    "url": "https://www.maruichikokan.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "製品仕様一覧",
+    "url": "https://www.maruichikokan.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "電材製品 仕様書発行",
+    "url": "https://www.maruichikokan.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "当社商品ご指定先",
+    "url": "https://www.maruichikokan.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "丸一鋼管の製品",
+    "url": "https://www.maruichikokan.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品仕様一覧",
+    "url": "https://www.maruichikokan.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "電材製品 仕様書発行",
+    "url": "https://www.maruichikokan.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "丸一鋼管の製品",
+    "url": "https://www.maruichikokan.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "製品仕様一覧",
+    "url": "https://www.maruichikokan.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "電材製品 仕様書発行",
+    "url": "https://www.maruichikokan.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "丸一鋼管の製品",
+    "url": "https://www.maruichikokan.co.jp/ir/management-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "製品仕様一覧",
+    "url": "https://www.maruichikokan.co.jp/ir/management-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "電材製品 仕様書発行",
+    "url": "https://www.maruichikokan.co.jp/ir/management-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "丸一鋼管の製品",
+    "url": "https://www.maruichikokan.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "製品仕様一覧",
+    "url": "https://www.maruichikokan.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "電材製品 仕様書発行",
+    "url": "https://www.maruichikokan.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "「電縫管」は、当社の主力製品",
+    "url": "https://www.maruichikokan.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "丸一鋼管グループの製品",
+    "url": "https://www.maruichikokan.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "建物や自動車、街灯、家具など、生活のあらゆる場面で活躍している丸一鋼管グループの製品",
+    "url": "https://www.maruichikokan.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "丸一鋼管の製品",
+    "url": "https://www.maruichikokan.co.jp/ir/ir-library/",
+    "pass": 1
+   },
+   {
+    "quote": "製品仕様一覧",
+    "url": "https://www.maruichikokan.co.jp/ir/ir-library/",
+    "pass": 1
+   },
+   {
+    "quote": "電材製品 仕様書発行",
+    "url": "https://www.maruichikokan.co.jp/ir/ir-library/",
+    "pass": 1
+   },
+   {
+    "quote": "丸一鋼管の製品",
+    "url": "https://www.maruichikokan.co.jp/ir/indicator/",
+    "pass": 1
+   },
+   {
+    "quote": "製品仕様一覧",
+    "url": "https://www.maruichikokan.co.jp/ir/indicator/",
+    "pass": 1
+   },
+   {
+    "quote": "電材製品 仕様書発行",
+    "url": "https://www.maruichikokan.co.jp/ir/indicator/",
+    "pass": 1
+   },
+   {
+    "quote": "丸一鋼管の製品",
+    "url": "https://www.maruichikokan.co.jp/ir/ir-calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "製品仕様一覧",
+    "url": "https://www.maruichikokan.co.jp/ir/ir-calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "電材製品 仕様書発行",
+    "url": "https://www.maruichikokan.co.jp/ir/ir-calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "丸一鋼管の製品",
+    "url": "https://www.maruichikokan.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "製品仕様一覧",
+    "url": "https://www.maruichikokan.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "電材製品 仕様書発行",
+    "url": "https://www.maruichikokan.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "丸一鋼管の製品",
+    "url": "https://www.maruichikokan.co.jp/ir/ir-mail/",
+    "pass": 1
+   },
+   {
+    "quote": "製品仕様一覧",
+    "url": "https://www.maruichikokan.co.jp/ir/ir-mail/",
+    "pass": 1
+   },
+   {
+    "quote": "電材製品 仕様書発行",
+    "url": "https://www.maruichikokan.co.jp/ir/ir-mail/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の最新のニュースリリース、IR情報をEメールでタイムリーにお知らせするサービスです",
+    "url": "https://www.maruichikokan.co.jp/ir/ir-mail/",
+    "pass": 1
+   },
+   {
+    "quote": "※本サービスでは、三菱UFJ信託銀行株式会社が運営するIRメール配信サービスによりメール配信を行っています",
+    "url": "https://www.maruichikokan.co.jp/ir/ir-mail/",
+    "pass": 1
+   },
+   {
+    "quote": "丸一鋼管の製品",
+    "url": "https://www.maruichikokan.co.jp/csr/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品仕様一覧",
+    "url": "https://www.maruichikokan.co.jp/csr/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "電材製品 仕様書発行",
+    "url": "https://www.maruichikokan.co.jp/csr/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "優れた製品を供給し、社会に貢献するとの経営理念に基づき、暮らしを支える製品を国内外で製造し、社会のサステナビリティを支えていきます",
+    "url": "https://www.maruichikokan.co.jp/csr/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "社会の新たなニーズや課題に対応すべく、丸一ステンレス鋼管の開発部にて材料研究、鋼種開発ならびに鋼管新製品の開発を行っています",
+    "url": "https://www.maruichikokan.co.jp/csr/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "販売会社である丸一鋼販をはじめとする柔軟な販売体制により、幅広い産業のお客様にきめ細やかなサービスを提供しています",
+    "url": "https://www.maruichikokan.co.jp/csr/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "丸一鋼管グループは、パイプのリーディングカンパニーとして優れた製品を供給し、顧客の信頼に応えることによって社会に貢献してきました",
+    "url": "https://www.maruichikokan.co.jp/csr/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "環境配慮製品",
+    "url": "https://www.maruichikokan.co.jp/csr/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループの製品の用途は非常に多様であり、インフラや自動車、農業など人々の暮らしを支えています",
+    "url": "https://www.maruichikokan.co.jp/csr/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "今後はこのような社会インフラだけでなく、製品の供給を通じて、半導体産業や脱炭素社会へ貢献してまいります",
+    "url": "https://www.maruichikokan.co.jp/csr/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "多様な販売・流通チャネルを最大限に活かし、お客様にとって最も利便性の高い、高品質な製品を迅速に提供してまいります",
+    "url": "https://www.maruichikokan.co.jp/csr/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "自由度の高い原料調達体制や製品価値向上に寄与する強固なパートナーシップによって、変化に対して柔軟に対応してまいります",
+    "url": "https://www.maruichikokan.co.jp/csr/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "丸一鋼管の製品",
+    "url": "https://www.maruichikokan.co.jp/csr/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "製品仕様一覧",
+    "url": "https://www.maruichikokan.co.jp/csr/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "電材製品 仕様書発行",
+    "url": "https://www.maruichikokan.co.jp/csr/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "環境配慮製品",
+    "url": "https://www.maruichikokan.co.jp/csr/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "丸一鋼管の製品",
+    "url": "https://www.maruichikokan.co.jp/ir/ir-library/annual-report/",
+    "pass": 1
+   },
+   {
+    "quote": "製品仕様一覧",
+    "url": "https://www.maruichikokan.co.jp/ir/ir-library/annual-report/",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2025年大阪・関西万博",
+    "url": "https://www.maruichikokan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "会社沿革｜丸一鋼管について｜丸一鋼管株式会社",
+    "url": "https://www.maruichikokan.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1948年〜1999年",
+    "url": "https://www.maruichikokan.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年〜2019年",
+    "url": "https://www.maruichikokan.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年以降",
+    "url": "https://www.maruichikokan.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年大阪・関西万博",
+    "url": "https://www.maruichikokan.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1947年（昭和22年）12月18日",
+    "url": "https://www.maruichikokan.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "1948年（昭和23年）3月1日",
+    "url": "https://www.maruichikokan.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年大阪・関西万博",
+    "url": "https://www.maruichikokan.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年大阪・関西万博",
+    "url": "https://www.maruichikokan.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年大阪・関西万博",
+    "url": "https://www.maruichikokan.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年をめざした持続可能な発展のためのビジョンを策定しました",
+    "url": "https://www.maruichikokan.co.jp/ir/management-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年大阪・関西万博",
+    "url": "https://www.maruichikokan.co.jp/ir/management-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年大阪・関西万博",
+    "url": "https://www.maruichikokan.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年大阪・関西万博",
+    "url": "https://www.maruichikokan.co.jp/ir/ir-library/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度以前の「1株当たり純資産」、「1株当たり当期純利益」、「1株当たり当期純利益（潜在株式調整後）」、「1株当たり配当」については、当該分割を考慮した数値を記載しております",
+    "url": "https://www.maruichikokan.co.jp/ir/indicator/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年大阪・関西万博",
+    "url": "https://www.maruichikokan.co.jp/ir/indicator/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年大阪・関西万博",
+    "url": "https://www.maruichikokan.co.jp/ir/ir-calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年大阪・関西万博",
+    "url": "https://www.maruichikokan.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年大阪・関西万博",
+    "url": "https://www.maruichikokan.co.jp/ir/ir-mail/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年、丸一鋼管はこうなります",
+    "url": "https://www.maruichikokan.co.jp/csr/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2030年財務目標",
+    "url": "https://www.maruichikokan.co.jp/csr/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年大阪・関西万博",
+    "url": "https://www.maruichikokan.co.jp/csr/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年大阪・関西万博",
+    "url": "https://www.maruichikokan.co.jp/csr/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度",
+    "url": "https://www.maruichikokan.co.jp/ir/ir-library/annual-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.maruichikokan.co.jp/ir/ir-library/annual-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.maruichikokan.co.jp/ir/ir-library/annual-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://www.maruichikokan.co.jp/ir/ir-library/annual-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度",
+    "url": "https://www.maruichikokan.co.jp/ir/ir-library/annual-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年大阪・関西万博",
+    "url": "https://www.maruichikokan.co.jp/ir/ir-library/annual-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年大阪・関西万博",
+    "url": "https://www.maruichikokan.co.jp/ir/ir-library/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年版",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年版（FY2025 第2四半期）",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年版",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年版（FY2025）",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年版（FY2024 第1四半期）",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年版（FY2024 第2四半期）",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年版（FY2024）",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年版（FY2022）",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年版（FY2021 上半期）",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年版（FY2021）",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年総括：販売数量は鋼板で大幅減、売上は前年比25%減",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の進捗：パイプは米国・豪州で増加、鋼板は高付加価値製品増、在庫は悪化も評価損ゼロ",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度計画：パイプ数量増（前年比+20%）、鋼板は国内高付加価値製品比率増、価格転嫁によるスプレッド確保",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度は半導体向け需要低迷で減収減益",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度はValex/韓国向け需要急増で大幅増収増益見込み",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度は半導体プロジェクト遅延で赤字",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度はMicron/Idaho需要とH&I市場参入で黒字化見込み",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期第2四半期の連結決算は、売上高が前年同期比1.2%減の1,351億73百万円となった",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期通期の連結業績予想は、売上高2,800億円（前期比7.9%減）、営業利益342億円（同26.3%減）、経常利益362億円（同24.3%減）、純利益216億円（同17.6%減）を見込んでいる",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期の配当予想は、前期と同額の131円/株を維持する",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年以降売上高は減少傾向にあり、2024年は販売数量、利益ともに減少予想",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年以降、販売数量、売上、利益率ともに右肩上がりで成長",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年に営業利益がマイナスとなったが、2023年には大幅に回復し、2024年も堅調な計画",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の二輪販売台数は168万台（予想）と好調で、国内生産比率も増加傾向にある",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年以降、現地パイプメーカーからの切り替えや新規案件獲得が成長要因",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "1962年7月25日上場",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%B8%E4%B8%80%E9%8B%BC%E7%AE%A1",
+    "pass": 3
+   },
+   {
+    "quote": "2013年7月12日上場廃止",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%B8%E4%B8%80%E9%8B%BC%E7%AE%A1",
+    "pass": 3
+   },
+   {
+    "quote": "2018年10月8日までの本社ビル",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%B8%E4%B8%80%E9%8B%BC%E7%AE%A1",
+    "pass": 3
+   },
+   {
+    "quote": "2025年日本国際博覧会（大阪・関西万博）",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%B8%E4%B8%80%E9%8B%BC%E7%AE%A1",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.maruichikokan.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.maruichikokan.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.maruichikokan.co.jp/ir/management-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.maruichikokan.co.jp/ir/ir-library/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.maruichikokan.co.jp/ir/indicator/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.maruichikokan.co.jp/ir/ir-calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.maruichikokan.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.maruichikokan.co.jp/ir/ir-mail/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループが持つ経営資本を積極的に投入し、ビジネスモデルのサイクルを回す上で重要な、主要活動・顧客との関係・パートナー・顧客セグメント・チャネルの5つの要素を高め、企業価値を高めていきます",
+    "url": "https://www.maruichikokan.co.jp/csr/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客セグメント",
+    "url": "https://www.maruichikokan.co.jp/csr/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.maruichikokan.co.jp/ir/ir-library/annual-report/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.maruichikokan.co.jp/ir/ir-library/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "新市場・新セグメント参入",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "事業セグメント",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内のセグメントでは、営業利益は195億円（前年比20.9%減）となった",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "北米セグメントでは、営業損失15億円となった",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "アジアセグメントでは、営業利益44億円（前年比5.1%減）となった",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期のセグメント別売上高予想は、日本が1,606億円（前期比3.5%増）、北米が546億円（前期比5.7%増）、アジアが486億円（前期比11.3%減）となる見込み",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別の2024年度通期実績は、国内事業の売上高1,627億円（前年比-4.7%）、営業利益247億円（同-20.9%）",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別では、国内コア事業の売上高は1246億円、営業利益は194億円",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "連結売上高は、北米およびアジアセグメントでの減収があったものの、日本セグメントでの増収により増加した",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月期第1四半期のセグメント別売上高は、日本が前年同期比7.5%増の385億2900万円、北米が同7.6%減の160億3200万円、アジアが同1.3%減の109億7800万円となった",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "日本セグメントの売上高比率は61.8%から58.8%に増加し、北米は24.5%から22.1%に、アジアは16.8%から16.2%にそれぞれ減少した",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月期第1四半期のセグメント別営業利益は、日本が前年同期比4.4%減の66億6200万円、北米が同88.5%増の14億6700万円、アジアが同18.3%増の11億600万円となった",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "日本セグメントの営業利益比率は80.3%から72.1%に低下し、北米は9.0%から15.9%に、アジアは10.8%から12.0%にそれぞれ上昇した",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "丸一ステンレス鋼管は、当初の予想ほど光輝焼鈍（BA）管の販売数量が落ち込まなかったことや、ステンレス管・BA管の価格改定効果により、日本セグメントの売上高が増加した",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "販売数量の増加にもかかわらず、北米セグメントの売上高は、HRC価格水準の高止まりの影響を受けた前年同期比での単価下落により減少した",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "結果として、SUNSCOでの数量増加にもかかわらず、市況による単価下落によりアジアセグメントの売上高は減少し、SUNSCOやKUMAを含む全社で利益が増加した",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高は北米・アジアの減収を日本セグメントの増収でカバーし、連結では増収となった",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "販売数量は全体で1.4%減少したが、利益面では日本セグメントの減益を北米・アジアの増益で補い、連結営業利益は増益となった",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別売上高実績",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別売上高は、日本が前年比7.5%増の41,429百万円となり、連結売上高の構成比は61.8%に上昇した",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "北米は同7.6%減の14,809百万円（構成比22.1%）、アジアは同1.3%減の10,840百万円（構成比16.2%）となった",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別営業利益実績",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別営業利益は、日本が前年比4.4%減の6,662百万円となった",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "構成比では日本が72.1%を占めるが、前年より低下した",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別トピックス",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "当社の情報開示に関する方針をご紹介いたします",
+    "url": "https://www.maruichikokan.co.jp/ir/management-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の「構造用鋼管」はコンビニなどの店舗用陳列棚など、ディスプレイ材の一部として使用されています",
+    "url": "https://www.maruichikokan.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "また、サプライヤーとの強固なパートナーシップを確立しています",
+    "url": "https://www.maruichikokan.co.jp/csr/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループが持つ経営資本を積極的に投入し、ビジネスモデルのサイクルを回す上で重要な、主要活動・顧客との関係・パートナー・顧客セグメント・チャネルの5つの要素を高め、企業価値を高めていきます",
+    "url": "https://www.maruichikokan.co.jp/csr/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "自由度の高い原料調達体制や製品価値向上に寄与する強固なパートナーシップによって、変化に対して柔軟に対応してまいります",
+    "url": "https://www.maruichikokan.co.jp/csr/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "その結果、第1四半期の販売数量と単価はともに増加し、以前はスポット購入が中心であった鋼板販売パートナーからの受注増により計画を上回った",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "SUNSCO（ベトナム）の業績推移について、中国のコロナ規制緩和を受け市況が回復傾向となり、鋼板販売代理店からの受注増などで販売数量・単価ともに計画を上回った",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーシップ・提携",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "指名・報酬委員会の設置（独立社外取締役3名・代表取締役2名）も行いました",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "また、雇用の創出と能力開発、グローバルパートナーシップの構築、製造工程における排熱・スクラップの再利用なども貢献として挙げられている",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "お客様のニーズに迅速に応えています",
+    "url": "https://www.maruichikokan.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "世界各地でお客様のニーズに応え",
+    "url": "https://www.maruichikokan.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "販売会社である丸一鋼販をはじめとする柔軟な販売体制により、幅広い産業のお客様にきめ細やかなサービスを提供しています",
+    "url": "https://www.maruichikokan.co.jp/csr/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "丸一鋼管グループは、パイプのリーディングカンパニーとして優れた製品を供給し、顧客の信頼に応えることによって社会に貢献してきました",
+    "url": "https://www.maruichikokan.co.jp/csr/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループが持つ経営資本を積極的に投入し、ビジネスモデルのサイクルを回す上で重要な、主要活動・顧客との関係・パートナー・顧客セグメント・チャネルの5つの要素を高め、企業価値を高めていきます",
+    "url": "https://www.maruichikokan.co.jp/csr/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客との関係",
+    "url": "https://www.maruichikokan.co.jp/csr/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループの技術力や研究開発力を活かしてお客様との共同開発を行うなど、強固な関係性を活かし、市場ニーズに対して迅速に対応してまいります",
+    "url": "https://www.maruichikokan.co.jp/csr/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客セグメント",
+    "url": "https://www.maruichikokan.co.jp/csr/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "多様な販売・流通チャネルを最大限に活かし、お客様にとって最も利便性の高い、高品質な製品を迅速に提供してまいります",
+    "url": "https://www.maruichikokan.co.jp/csr/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社へお越しのお客様は①②③の駐車場をご利用ください",
+    "url": "https://www.maruichikokan.co.jp/assets/pdf/company/parking.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客セブメント",
+    "url": "https://www.maruichikokan.co.jp/assets/img/csr/history/img-01.png",
+    "pass": 2
+   },
+   {
+    "quote": "フィリピンでは近隣アジア諸国との価格差が拡大し、ユーザーからの値下げ圧力強化、販売単価下落が迫られるが、販売数量は増加し、営業利益率は高い水準を維持",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "輸出は米国を含む通商問題や関税の影響で顧客が買い控え",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客は静観姿勢だが、生産車種の米国移管は困難",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "パイプは米国（トランプ関税で追い風、API再開）と豪州（既存問屋向け品種・数量拡大）を強化し、国内顧客取り戻し活動も行う",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内の丸一鋼管・丸一興産では、造船業を除きステンレス鋼管の需要は低迷しており、米国への追加関税により米国顧客が様子見姿勢を続けたため、輸出問い合わせが減少した",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "エンドユーザーは堅調な需要で忙しく、インフレにより冷え込んだ経済をインフラ投資が活性化させることに期待している",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "今後の施策として、切断能力の確立によりユーザー向け販売のバックアップを強化し、トヨタのメキシコ生産に対応と量的拡大を図ります",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "丸一鋼管グループの経営理念は、「パイプのリーディング・カンパニーとして、すぐれた製品を供給し顧客の信頼に応えることにより、社会に貢献することを使命とする」ことです",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "株主、取引先、従業員、地域社会等、すべてのステークホルダーを尊重し、従業員一人一人の知恵と情熱と行動により、製品の信頼性、技術力、販売力を向上させ、将来に向けての成長エネルギーと新しい価値の創造を推進します",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、顧客ニーズに応じた多様な製品を提供し、グローバルに事業を展開しています",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "（営業利益率 13.1%）",
+    "url": "https://www.maruichikokan.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "丸一鋼管のビジネスモデルを支える強みを最大限に活かして、半導体産業や脱炭素社会、そして社会インフラを支える企業へと成長してまいります",
+    "url": "https://www.maruichikokan.co.jp/csr/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年の進捗：パイプは米国・豪州で増加、鋼板は高付加価値製品増、在庫は悪化も評価損ゼロ",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "フィリピンでは近隣アジア諸国との価格差が拡大し、ユーザーからの値下げ圧力強化、販売単価下落が迫られるが、販売数量は増加し、営業利益率は高い水準を維持",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "特に、米国事業の在庫評価損や半導体市況の低迷がマリチステンレスおよび米国事業の収益を圧迫した",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "米国事業では、HRC価格の下落と在庫評価損により、売上高は5.1%減、営業利益は97.7%減と大幅に悪化した",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "LEAVITTはシカゴ近郊に位置し、構造用鋼管、配管、自動車鋼管を同一工場で生産できる強みを持つ",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "MNTはコイル在庫削減（スリッター稼働によるリードタイム短縮）と生産性向上（ミルモーターアップグレード、ロール替え時間短縮）を推進する",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "EOP製品の在庫管理強化、設備保全の年間スケジュール管理によるトラブル防止にも取り組む",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "競争力あるパイプの数量・エリア拡大、鋼板の差別化・利益重視、原材料調達・在庫管理の最適化、生産性・歩留り向上、差別化商品開発、人材育成、システム統合、安全・コンプライアンス遵守、CO2削減、DXによるガバナンス強化に取り組む",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "SUNSCOの具体的な取り組みとして、米国・豪州・メキシコ向けパイプの新規獲得、高付加価値鋼板の増加（家電・サンドイッチパネル向け）、在庫削減、鋼板製造コスト削減、16inchミル生産2シフト化、意匠鋼板・Cr-Freeカラー鋼板開発、日本への実習生派遣、RPA導入、QRコードによる固定資産管理、LPGからCNG化とバイオマスボイラー建設（CO2削減）などが進められている",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "これは、国内販売数量の減少やコスト増加、米国でのスプレッド圧縮や在庫評価損が要因である",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高営業利益率は8.8%（前期12.8%）であった",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "丸一鋼管の利益も、高利益製品の販売数量減少や在庫評価損により減少した",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "メキシコ（MMX）の利益は54.3%増加したが、米国では販売数量の減少、スプレッドの悪化、在庫評価損（-14億円）などにより全体で営業損失となった",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "北米のLEAVITTでは、スプレッドの悪化、販売数量の低迷、在庫評価損（合計-6.6億円）により営業損失となった",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "北米のMACでは、在庫調整により年末の在庫評価損を回避した",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "販売数量の回復、稼働率の向上、コストおよび在庫の管理に引き続き努力していく",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "米国LEAVITT/MNTでは、積極的な在庫管理により年末の在庫評価損を回避した",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "在庫量は計画通りに実行された",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "多くのサービスセンターが年末に在庫調整を行った",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "営業損失は、スプレッドの悪化、販売数量の低迷、在庫評価損により計上された",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "MNTでは、2025年2月にスリッターが稼働を開始し、在庫削減、納期短縮、コスト削減に貢献する見込みである",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、LEAVITTではスプレッド確保と在庫管理、SUNSCOではコイルの販売回復を目指す",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "急激なインフレへの懸念は続いているものの、市場は現時点ではうまく吸収しており、市場レートの動きとは対照的に、卸売業者（サービスセンター）の在庫調整は大きな動きを見せていない",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "MMX（メキシコ）では、自動車OEMが半導体在庫不足を解消し始めていることから、生産ボリュームの回復の兆しが見られる",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "コイル在庫は通常レベルよりも高かったため、注文数量の調整により在庫レベルを調整した",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "丸一鋼管のビジネスモデルを支える強みを最大限に活かして、半導体産業や脱炭素社会、そして社会インフラを支える企業へと成長してまいります",
+    "url": "https://www.maruichikokan.co.jp/csr/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "この経営理念のもと、製造業の基本サイクルである「買う・つくる・売る」を価値創造のためのビジネスモデルとし、このサイクルを力強く回すことで更なる価値創造、すなわち成長を目指していきます",
+    "url": "https://www.maruichikokan.co.jp/csr/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループが持つ経営資本を積極的に投入し、ビジネスモデルのサイクルを回す上で重要な、主要活動・顧客との関係・パートナー・顧客セグメント・チャネルの5つの要素を高め、企業価値を高めていきます",
+    "url": "https://www.maruichikokan.co.jp/csr/history.html",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "価値創造 モデル ｜サステナビリティ｜ 丸一鋼管 株式会社 — 価値創造 モデル ｜サステナビリティ｜ 丸一鋼管 株式会社 丸一鋼管株式会社 https://www.maruichikokan.co.jp > csr > history",
+    "url": "https://www.maruichikokan.co.jp/csr/history.html",
+    "pass": 3
+   },
+   {
+    "quote": "統合報告書 2025 - 丸一鋼管 — 統合報告書 2025 - 丸一鋼管 丸一鋼管株式会社 PDF https://www.maruichikokan.co.jp > uploads > 2025/09",
+    "url": "https://www.maruichikokan.co.jp/wp/wp-content/uploads/2025/09/Integrated-Report_2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "MARUICHI 2030 VISION｜経営方針｜株主・投資家の皆様へ — MARUICHI 2030 VISION｜経営方針｜株主・投資家の皆様へ 丸一鋼管株式会社 https://www.maruichikokan.co.jp > vision",
+    "url": "https://www.maruichikokan.co.jp/ir/management-policy/vision/",
+    "pass": 3
+   },
+   {
+    "quote": "1分で分かる 丸一鋼管 グループ｜株主・投資家の皆様へ — 1分で分かる 丸一鋼管 グループ｜株主・投資家の皆様へ 丸一鋼管株式会社 https://www.maruichikokan.co.jp > individual",
+    "url": "https://www.maruichikokan.co.jp/ir/individual/",
+    "pass": 3
+   },
+   {
+    "quote": "丸一鋼管 の志望動機30例×面接回答30選｜企業研究から内定 ... — 丸一鋼管 の志望動機30例×面接回答30選｜企業研究から内定 ... note https://note.com > JobVoice｜志望動機と企業研究",
+    "url": "https://note.com/jobhuntkeyence/n/n8aa7456b0ace",
+    "pass": 3
+   },
+   {
+    "quote": "財務・業績情報｜株主・投資家の皆様へ｜丸一鋼管株式会社 — 丸一鋼管株式会社の公式ウェブサイト財務・業績情報ページです。丸一鋼管は、高品質な鋼管の製造・販売を通して社会に ...",
+    "url": "https://www.maruichikokan.co.jp/ir/indicator/",
+    "pass": 3
+   },
+   {
+    "quote": "丸一鋼管株式会社 — 決算説明資料 - EDINET DB — 丸一鋼管株式会社の決算説明資料を、AIで構造化されたセクション単位で表示。経営戦略・業績・ガバナンスなどテーマ ...",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "丸一鋼管（5463）のIR情報・決算資料 - IRBANK — Aug 7, 2026 · 丸一鋼管（5463）のIR情報・決算資料 β版IRBANKでは、 有報・決算資料の中身 がすぐ引ける新規登録の受付は残り 1 日 無料でβ版をはじめる 登録すると永久30%OFFと米株版の先行利用も付きます 2026/10/29 個人投資家様向けWeb説明会動画公開のお知らせ（16:30） 2026 ...",
+    "url": "https://irbank.net/5463/ir",
+    "pass": 3
+   },
+   {
+    "quote": "丸一鋼管（5463）の決算発表資料一覧 | IRBANK — 丸一鋼管（5463）の決算発表資料一覧 β版IRBANKでは、 有報・決算資料の中身 がすぐ引ける新規登録の受付は残り 5 日 無料でβ版をはじめる 登録すると永久30%OFFと米株版の先行利用も付きます",
+    "url": "https://irbank.net/E01253/reports",
+    "pass": 3
+   },
+   {
+    "quote": "丸一鋼管のIR資料 - 5463 / プライム / 鉄鋼 | バフェット・コード — 丸一鋼管（5463 / プライム / 鉄鋼）のIR資料の一覧を表示しています。有価証券報告書や決算短信、そしてTDnetで開示された適時開示資料をPDFでご覧になれます。",
+    "url": "https://www.buffett-code.com/company/5463/library",
+    "pass": 3
+   },
+   {
+    "quote": "丸一鋼管 - Wikipedia — 丸一鋼管 ... 2018年10月8日までの本社ビル 丸一鋼管株式会社 （まるいちこうかん、 英: Maruichi Steel Tube Ltd.）は 大阪府 大阪市 中央区 難波 に本社を置く 鋼管 の 製造 ・ 販売 メーカーである。 東証プライム上場。",
+    "url": "https://ja.wikipedia.org/wiki/丸一鋼管",
+    "pass": 3
+   },
+   {
+    "quote": "丸一鋼管株式会社 — Everywhere,MARUICHI どこにでもある、 たった一つの会社に。 丸一鋼管について",
+    "url": "http://www.maruichikokan.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "統合報告書｜IRライブラリ｜株主・投資家の皆様へ｜丸一鋼管株式会社 — 丸一鋼管株式会社の公式ウェブサイト統合報告書ページです。丸一鋼管は、高品質な鋼管の製造・販売を通して社会に貢献 ...",
+    "url": "https://www.maruichikokan.co.jp/ir/ir-library/annual-report/",
+    "pass": 3
+   },
+   {
+    "quote": "丸一鋼管（5463）の事業内容・業績｜平均年収722万円（鉄鋼で20位）・... — Jun 19, 2026 · 丸一鋼管（5463）は鉄鋼の会社。主な事業は日本・北米。2026年3月期は売上2,438億円・営業利益320億円、平均年収722万円（鉄鋼36社の中で20位）。事業内容と業績を有価証券報告書の数字で図解。",
+    "url": "https://zukaikeizai.com/kaisha/5463/",
+    "pass": 3
+   },
+   {
+    "quote": "丸一鋼管｜グローバルな鋼管供給網と強固な生産基盤を背景とした安定... — Jun 30, 2026 · 丸一鋼管（5463）の2026年Q2決算レポート。国内外の広範なネットワークで鋼管・表面処理鋼板を展開し、北米でのスプレッド改善や次世代設備の導入により収益性を追求する構造。売上・利益・PER・PBRとリスク・競合を平易に解説。",
+    "url": "https://stock-insights.net/articles/5463-snapshot-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "吉村貴典 - Wikipedia — 人事興信所 2009, よ82頁. 丸一鋼管社長に吉村氏 2013年 5月9日 日本経済新聞 大阪大学工業会 会長インタビュー・シリーズ (その 7) 丸一鋼管社長COOに森田渉氏 2026年 5月13日 日本経済新聞 馬小屋の友 吉村貴典 2020年 7月21日 日本経済新聞",
+    "url": "https://ja.wikipedia.org/wiki/吉村貴典",
+    "pass": 3
+   },
+   {
+    "quote": "鈴木博之 (実業家) - Wikipedia — 鈴木 博之 （すずき ひろゆき、 1946年 2月7日 - ）は、日本の 経営者。 丸一鋼管 社長、会長を務めた。",
+    "url": "https://ja.wikipedia.org/wiki/鈴木博之_(実業家)",
+    "pass": 3
+   },
+   {
+    "quote": "森田渉氏の経歴｜丸一鋼管の歴代社長（2026年〜現任） — Oct 23, 2026 · 丸一鋼管（社長）森田渉氏。2026年4月17日に四国丸一鋼管の代表取締役社長へ就任し、前任の吉村貴典氏は取締役に退いた。就任から日が浅く、社長としての施策は公表資料に出ていない。",
+    "url": "https://the-shashi.com/tse/5463/executives/ceo/morita-wataru/",
+    "pass": 3
+   },
+   {
+    "quote": "新社長インタビュー／丸一ステンレス鋼管・羽山康継氏／継目無・溶接... — Dec 12, 2025 · 丸一鋼管が掲げる2030年長期ビジョン「ステンレスプロジェクト」では、新エネルギー分野で拡大が見込まれる需要捕捉に向けて、ステンレス継目無鋼管および溶接管の増産体制を構築する。同プロジェクトの中...",
+    "url": "https://www.japanmetaldaily.com/articles/-/250912",
+    "pass": 3
+   },
+   {
+    "quote": "新社長インタビュー／丸一鋼管・吉村貴典氏／鋼管世界トップめざす／... — Jul 9, 2013 · ——社長就任の抱負をおうかがいします。「創業者メンバーの故堀川照雄名誉会長、故丸谷紀芳元相談役、吉村精仁相談役（前会長）や、鈴木博之会長兼CEO（前社長）の卓越したリーダーシップと、諸先輩の努力...",
+    "url": "https://www.japanmetaldaily.com/articles/-/219586",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "フィリピンでは近隣アジア諸国との価格差が拡大し、ユーザーからの値下げ圧力強化、販売単価下落が迫られるが、販売数量は増加し、営業利益率は高い水準を維持",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内（単体）では、販売単価は上昇したものの、販売数量の減少（-5.3%）により減収となった",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "北米では、メキシコ（MMX）が販売数量で二桁成長（+17.6%）を記録したが、米国では単価・販売数量ともに低下し、全体では減収となった",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "単体営業利益については、販売単価およびスプレッドは維持されたものの、販売数量の減少とコスト増加により利益が減少した",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "販売数量の増加にもかかわらず、北米セグメントの売上高は、HRC価格水準の高止まりの影響を受けた前年同期比での単価下落により減少した",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "HRC価格の上昇に伴う製品販売価格の上昇により、コイル単価の上昇を上回るスプレッド改善となった",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "結果として、SUNSCOでの数量増加にもかかわらず、市況による単価下落によりアジアセグメントの売上高は減少し、SUNSCOやKUMAを含む全社で利益が増加した",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、第1四半期の販売数量と単価はともに増加し、以前はスポット購入が中心であった鋼板販売パートナーからの受注増により計画を上回った",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高は販売数量増にも関わらず、前期の高いHRC価格水準との比較で単価が下がり減収となった",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "丸一鋼販株式会社の業績推移について、売上高は前年比3%減であったが、販売単価の上昇により売上高は上回った",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "SUNSCO（ベトナム）の業績推移について、中国のコロナ規制緩和を受け市況が回復傾向となり、鋼板販売代理店からの受注増などで販売数量・単価ともに計画を上回った",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高は、販売数量が増加したものの、販売単価の下落により減収となった",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益は、1Qのホットコイル価格上昇に連動した製品販売価格の値上げがコイル消費単価の上昇に先行し、スプレッドが改善したことで増益となった",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "アジアセグメントの売上高は、KUMA社が前年を上回ったものの、SUNSUCO社で市況の影響から販売単価が下がり減収となり、全体でも減収となった",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "丸一鋼販株式会社の業績は、販売数量が前年比1.9％減となったが、販売単価の上昇により売上高は上回った",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高はアジアで10.0%増収となったものの、北米が販売単価下落により9.5%減収となり、連結では0.8%の微減収となった",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "パイプ販売単価は一部値下げ対応があったものの、価格とスプレッド幅を維持した",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高は販売数量が増加したものの、販売単価の下落により9.5%減収となった",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益は、上期のホットコイル価格上昇に連動した製品販売価格の値上げがコイル消費単価の上昇に先行し、スプレッド改善により4.2倍増益となった",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "増加要因としては数量要因（+201億円）、単価要因（+2500百万円）、売上原価（-600百万円）、販売管理費（-2593百万円）が挙げられているが、合計では減少となっている",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "丸一鋼販株式会社の売上高は、販売数量が前年比2.6%減となり、販売単価の上昇があったものの、同1.1%減の464億円となった",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "単体の営業利益は、総販売数量が前年比2.1%増加したことに加え、総販売単価が前年比22.8%アップしました",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年3月末の連結貸借対照表では、売上債権の増加は販売単価上昇によるもので、月商比は改善しました",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高は、国内パイプ販売数量および単価、帯鋼販売数量および単価の減少により大幅に減少した",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益は、総販売数量の減少や販売単価の下落、売上原価の増加などにより減少した",
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "ベトナムのサン・スチール・コーポレーション（現・マルイチ・サン・スチール・ジョイント・ストック・カンパニー）の持分取得（2008年に子会社化）",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%B8%E4%B8%80%E9%8B%BC%E7%AE%A1",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%B8%E4%B8%80%E9%8B%BC%E7%AE%A1",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E5%90%89%E6%9D%91%E8%B2%B4%E5%85%B8",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E9%88%B4%E6%9C%A8%E5%8D%9A%E4%B9%8B_(%E5%AE%9F%E6%A5%AD%E5%AE%B6)",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.maruichikokan.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruichikokan.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruichikokan.co.jp/company/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruichikokan.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruichikokan.co.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruichikokan.co.jp/ir/management-policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruichikokan.co.jp/ir/individual/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruichikokan.co.jp/ir/ir-library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruichikokan.co.jp/ir/indicator/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruichikokan.co.jp/ir/ir-calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruichikokan.co.jp/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruichikokan.co.jp/ir/ir-mail/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruichikokan.co.jp/csr/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruichikokan.co.jp/csr/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruichikokan.co.jp/ir/ir-library/annual-report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruichikokan.co.jp/ir/ir-library/finance/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.maruichikokan.co.jp/assets/pdf/company/parking.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.maruichikokan.co.jp/wp/wp-content/uploads/2026/10/Integrated-Report_2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.maruichikokan.co.jp/wp/wp-content/uploads/2025/09/Integrated-Report_2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.maruichikokan.co.jp/wp/wp-content/uploads/2025/11/ca07b9ebfa7164ecf4213e1c0af3ade9.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.maruichikokan.co.jp/wp/wp-content/uploads/2025/06/Integrated-Report_2024.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.maruichikokan.co.jp/wp/wp-content/uploads/2025/06/Integrated-Report_en_2024.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.maruichikokan.co.jp/wp/wp-content/uploads/2025/06/Integrated-Report_2023.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.maruichikokan.co.jp/wp/wp-content/uploads/2025/06/Integrated-Report_en_2023.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.maruichikokan.co.jp/assets/img/csr/history/img-01.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://edinetdb.jp/company/E01253/presentations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%B8%E4%B8%80%E9%8B%BC%E7%AE%A1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%90%89%E6%9D%91%E8%B2%B4%E5%85%B8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E9%88%B4%E6%9C%A8%E5%8D%9A%E4%B9%8B_(%E5%AE%9F%E6%A5%AD%E5%AE%B6)",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "丸一鋼管",
+   "results": [
+    "https://www.maruichikokan.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E4%B8%B8%E4%B8%80%E9%8B%BC%E7%AE%A1",
+    "https://www.instagram.com/maruichi.official/",
+    "https://www.nikkei.com/nkd/company/?scode=5463",
+    "https://www.reuters.com/jp/markets/companies/5463.T",
+    "https://ja.wikipedia.org/wiki/丸一鋼管",
+    "https://www.maruichikokan.co.jp/company/",
+    "https://finance.yahoo.co.jp/quote/5463.T",
+    "https://finance.yahoo.co.jp/quote/5463.T/profile",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=5463"
+   ]
+  },
+  {
+   "query": "丸一鋼管 ビジネスモデル",
+   "results": [
+    "https://www.maruichikokan.co.jp/csr/history.html",
+    "https://www.maruichikokan.co.jp/wp/wp-content/uploads/2025/09/Integrated-Report_2025.pdf",
+    "https://www.maruichikokan.co.jp/ir/management-policy/vision/",
+    "https://www.maruichikokan.co.jp/ir/individual/",
+    "https://note.com/jobhuntkeyence/n/n8aa7456b0ace",
+    "https://www.maruichikokan.co.jp/ir/management-policy/latest/",
+    "https://www.youtube.com/channel/UCiuDNoLCnNPhnPGnCf325qQ",
+    "https://www.maruichikokan.co.jp/company/history/",
+    "https://denzai-zeus.com/ogawa-news/maruitikoukan",
+    "https://ja.wikipedia.org/wiki/丸一鋼管"
+   ]
+  },
+  {
+   "query": "丸一鋼管 決算説明資料",
+   "results": [
+    "https://www.maruichikokan.co.jp/ir/indicator/",
+    "https://edinetdb.jp/company/E01253/presentations/",
+    "https://irbank.net/5463/ir",
+    "https://irbank.net/E01253/reports",
+    "https://www.buffett-code.com/company/5463/library",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260512526567/",
+    "https://www.maruichikokan.co.jp/ir/ir-library/finance/"
+   ]
+  },
+  {
+   "query": "丸一鋼管 事業系統図",
+   "results": [
+    "https://ja.wikipedia.org/wiki/丸一鋼管",
+    "http://www.maruichikokan.co.jp/",
+    "https://www.maruichikokan.co.jp/ir/ir-library/annual-report/",
+    "https://zukaikeizai.com/kaisha/5463/",
+    "https://stock-insights.net/articles/5463-snapshot-2026q2",
+    "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=5463",
+    "https://maruichikokan.sakura.ne.jp/recruitment/highschool/img/dl/02.pdf"
+   ]
+  },
+  {
+   "query": "丸一鋼管 社長 インタビュー",
+   "results": [
+    "https://ja.wikipedia.org/wiki/吉村貴典",
+    "https://ja.wikipedia.org/wiki/鈴木博之_(実業家)",
+    "https://the-shashi.com/tse/5463/executives/ceo/morita-wataru/",
+    "https://www.japanmetaldaily.com/articles/-/250912",
+    "https://www.japanmetaldaily.com/articles/-/219586",
+    "https://www.resona-ao.or.jp/pdf/20220308-02.pdf",
+    "https://www.osaka-u.info/wp-content/uploads/2023/09/5cac7fc82685251196ae583cd40367e9.pdf"
+   ]
+  }
+ ],
+ "missing": {}
+}

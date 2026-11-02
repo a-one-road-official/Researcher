@@ -1,0 +1,2195 @@
+{
+ "name": "クイック",
+ "aliases": [],
+ "context": "証券コード4318／サービス業／プライム（内国株式）／2026.03期 売上高33,925百万円 営業利益率13.5%",
+ "researched_at": "2026-11-02T19:21:43.333648+00:00",
+ "official_url": "https://919.jp/",
+ "identified_by": "search:yahoo_jp:クイック",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1980年9月19日",
+    "url": "https://919.jp/company/profile.php",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1980年9月30日",
+    "url": "https://919.jp/company/profile.php",
+    "pass": 1
+   },
+   {
+    "label": "設立年",
+    "value": "1980年",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fr0a&q_no=9",
+    "pass": 3
+   },
+   {
+    "label": "設立年月日",
+    "value": "年 月 日",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fr0a&q_no=9",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "グループ従業員数",
+    "value": "2,133名（2026年4月1日現在）",
+    "url": "https://919.jp/company/profile.php",
+    "pass": 1
+   },
+   {
+    "label": "従業員数（人） （外、平均臨時雇用者数）",
+    "value": "711 (99) 844 (124) 1,003 (133) 1,175 (143) 1,252 (140) 1,292 (126) 1,357 (152) 1,472 (168) 1,602 (175) 1,682 (202)",
+    "url": "https://919.jp/ir/bs.php",
+    "pass": 1
+   },
+   {
+    "label": "社員数",
+    "value": "1000人以上",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fr0a&q_no=9",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "連結売上高",
+    "value": "339億2,475万円 （2026年3月期実績）",
+    "url": "https://919.jp/company/profile.php",
+    "pass": 1
+   },
+   {
+    "label": "売上高（百万円）",
+    "value": "14,578 16,775 19,173 21,035 19,360 23,590 27,794 29,487 32,501 33,924",
+    "url": "https://919.jp/ir/bs.php",
+    "pass": 1
+   },
+   {
+    "label": "売上高営業利益率（％）",
+    "value": "13.7 13.1 13.5 13.9 9.6 14.2 16.1 16.8 13.9 13.5",
+    "url": "https://919.jp/ir/indicator.php",
+    "pass": 1
+   },
+   {
+    "label": "売上高経常利益率（％）",
+    "value": "14.2 13.7 14.7 14.3 11.0 14.5 16.3 17.1 14.2 13.8",
+    "url": "https://919.jp/ir/indicator.php",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "お客様の担当業務から探す",
+    "url": "https://919.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社子会社が利用する外部委託先サービスへの不正アクセス発生に伴うお客様情報の漏えいに関するお知らせ",
+    "url": "https://919.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の担当業務",
+    "url": "https://919.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の担当業務から探す",
+    "url": "https://919.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の担当業務から探す",
+    "url": "https://919.jp/news/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の担当業務から探す",
+    "url": "https://919.jp/company/strength.php",
+    "pass": 1
+   },
+   {
+    "quote": "『人材こそ企業における最高の財産である』という考えのもと、グループ事業を通じ、経営環境の変化に伴い多様化するお客様の人材ニーズに最適なサービスの提供を行なっています",
+    "url": "https://919.jp/company/strength.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様へのご提案にあたっては、創業来のノウハウを活かして顧客企業の採用戦略の立案をサポートし、効率性と客観性を備えたサービスを提供しています",
+    "url": "https://919.jp/company/strength.php",
+    "pass": 1
+   },
+   {
+    "quote": "私たちのミッションは、お客様が抱える課題の解決です",
+    "url": "https://919.jp/company/strength.php",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、求人広告の取次ぎだけにとどまらず、採用計画の立案、育成、入社後のフォローなどお客様が抱える採用や人材育成に関する課題解決をトータルにご提案しています",
+    "url": "https://919.jp/company/strength.php",
+    "pass": 1
+   },
+   {
+    "quote": "当サービスを通じて、人材サービス提供企業と顧客双方の交流とネットワーク化を推進しています",
+    "url": "https://919.jp/company/strength.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の担当業務から探す",
+    "url": "https://919.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の担当業務から探す",
+    "url": "https://919.jp/harassment-consultation-direct/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の担当業務から探す",
+    "url": "https://919.jp/company/profile.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の担当業務から探す",
+    "url": "https://919.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の担当業務から探す",
+    "url": "https://919.jp/ir/greeting.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の担当業務から探す",
+    "url": "https://919.jp/ir/plan.php",
+    "pass": 1
+   },
+   {
+    "quote": "アグリゲーション型求人サービスに採用コンサルティング等を組み合わせた総合提案による提供価値の向上と顧客数の拡大",
+    "url": "https://919.jp/ir/plan.php",
+    "pass": 1
+   },
+   {
+    "quote": "イベントの開催形態見直しやマッチング施策の強化による顧客の投資対効果向上、競合他社に対する優位性の構築",
+    "url": "https://919.jp/ir/plan.php",
+    "pass": 1
+   },
+   {
+    "quote": "「日本の人事部」サイトでの独自コンテンツ拡充による会員拡大と、人事コミュニティを通じたユーザーとの関係深化",
+    "url": "https://919.jp/ir/plan.php",
+    "pass": 1
+   },
+   {
+    "quote": "欧州における、製造業や商社、金融等の採用ニーズの高い領域への注力と、新規顧客開拓の重点的な推進",
+    "url": "https://919.jp/ir/plan.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の担当業務から探す",
+    "url": "https://919.jp/ir/cg.php",
+    "pass": 1
+   },
+   {
+    "quote": "株主以外のステークホルダー(取引先・求職者・読者・地域社会・従業員等)との適切な協働に努めます",
+    "url": "https://919.jp/ir/cg.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様との関係（5項目）",
+    "url": "https://919.jp/ir/cg.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の担当業務から探す",
+    "url": "https://919.jp/ir/bs.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の担当業務から探す",
+    "url": "https://919.jp/ir/indicator.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の担当業務から探す",
+    "url": "https://919.jp/ir/segment.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の担当業務から探す",
+    "url": "https://919.jp/ir/short/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の担当業務から探す",
+    "url": "https://919.jp/ir/briefing/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の担当業務から探す",
+    "url": "https://919.jp/news/irnews/2026/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の担当業務から探す",
+    "url": "https://919.jp/news/irnews/2025/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の担当業務から探す",
+    "url": "https://919.jp/news/irnews/2024/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の担当業務から探す",
+    "url": "https://919.jp/news/irnews/2023/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の担当業務から探す",
+    "url": "https://919.jp/news/irnews/2022/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の担当業務から探す",
+    "url": "https://919.jp/news/irnews/2021/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の担当業務から探す",
+    "url": "https://919.jp/news/irnews/2020/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の担当業務から探す",
+    "url": "https://919.jp/news/irnews/2019/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の担当業務から探す",
+    "url": "https://919.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "なマーケットの開拓や新サービスの提供、グループ内での連携強化等により、顧客企業の人材課題の解決をサポー",
+    "url": "https://919.jp/wp/wp-content/uploads/2026/10/47_2Q_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "トし、他社との差別化や顧客満足度の向上に取り組んでまいりました",
+    "url": "https://919.jp/wp/wp-content/uploads/2026/10/47_2Q_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "各セグメントにおける売上高は外部顧客への売上高を記載しており、営業利益はセグメント間取引消去前の金額",
+    "url": "https://919.jp/wp/wp-content/uploads/2026/10/47_2Q_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ンサルタントが求職者や顧客企業に向き合う時間を創出するため、AIを活用した業務効率化を推進するととも",
+    "url": "https://919.jp/wp/wp-content/uploads/2026/10/47_2Q_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、採用手法が多様化する中、採用手法の見直しやパートナー企業の再選定といった顧客への提案機会",
+    "url": "https://919.jp/wp/wp-content/uploads/2026/10/47_2Q_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "こうした中、当社は顧客の採用成功に向け、複数の商材を組み合わせた総合的な提案を推",
+    "url": "https://919.jp/wp/wp-content/uploads/2026/10/47_2Q_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "し進め、既存顧客の深耕及び新規顧客開拓を通じた取引社数の拡大を図りました",
+    "url": "https://919.jp/wp/wp-content/uploads/2026/10/47_2Q_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客のニーズに即した提案に取り組みました",
+    "url": "https://919.jp/wp/wp-content/uploads/2026/10/47_2Q_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "地域情報サービス事業では、生活情報誌において、大手顧客を中心に飲食店やショップ等の販促広告需要が引",
+    "url": "https://919.jp/wp/wp-content/uploads/2026/10/47_2Q_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "既存顧客の継続率が高水準で推移したことに加え、注力エリアを拡大したことが奏功し、大幅に増収となりまし",
+    "url": "https://919.jp/wp/wp-content/uploads/2026/10/47_2Q_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このような市場環境の中でも、既存顧客への深耕営業を強化し、生活関連・金融・住宅など需要の",
+    "url": "https://919.jp/wp/wp-content/uploads/2026/10/47_2Q_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "数が増加し回復が見られたものの、一部の主要顧客の予算縮小の影響を受け、伸び悩みました",
+    "url": "https://919.jp/wp/wp-content/uploads/2026/10/47_2Q_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "こうした中、高単価案件の成約や顧客の新規事業展開に伴う営業職の支援が好調に推移し",
+    "url": "https://919.jp/wp/wp-content/uploads/2026/10/47_2Q_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約か",
+    "url": "https://919.jp/wp/wp-content/uploads/2026/10/47_2Q_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売",
+    "url": "https://919.jp/wp/wp-content/uploads/2026/10/47_2Q_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様情報の漏えいに関するお知らせ",
+    "url": "https://919.jp/wp/wp-content/uploads/2026/10/26.10.27_HRvision_HP.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "無料のユーザー登録をお願いします",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fr0a&q_no=9",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fr0a&q_no=9",
+    "pass": 3
+   },
+   {
+    "quote": "そこで考えたのが、お客様のニーズに合わせて、商品やサービスを提供すること",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1107/2/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客や社会のニーズに応えていく経営を進めていく中で、だんだんとそれらの事業が花開いていきました",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1107/2/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の声（2022年以降）",
+    "url": "https://www.netznewly.co.jp/interview/09",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の声（2021年）",
+    "url": "https://www.netznewly.co.jp/interview/09",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "クイックのサービス",
+    "url": "https://919.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "人材サービス事業",
+    "url": "https://919.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "地域情報サービス事業",
+    "url": "https://919.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスから探す",
+    "url": "https://919.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "グローバルHRサービス",
+    "url": "https://919.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "HR領域サービス",
+    "url": "https://919.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社子会社が利用する外部委託先サービスへの不正アクセス発生に伴うお客様情報の漏えいに関するお知らせ",
+    "url": "https://919.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「人材サービスで、",
+    "url": "https://919.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "業界/職種を知り尽くしたプロが共にキャリアを考える一気通貫型の転職・キャリア支援サービスです",
+    "url": "https://919.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "クイックのサービス",
+    "url": "https://919.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "人材サービス事業",
+    "url": "https://919.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "地域情報サービス事業",
+    "url": "https://919.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスから探す",
+    "url": "https://919.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "グローバルHRサービス",
+    "url": "https://919.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "HR領域サービス",
+    "url": "https://919.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "クイックのサービス",
+    "url": "https://919.jp/news/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "人材サービス事業",
+    "url": "https://919.jp/news/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "地域情報サービス事業",
+    "url": "https://919.jp/news/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスから探す",
+    "url": "https://919.jp/news/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "グローバルHRサービス",
+    "url": "https://919.jp/news/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "HR領域サービス",
+    "url": "https://919.jp/news/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスブランド「アンドプロ」について",
+    "url": "https://919.jp/news/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "クイックのサービス",
+    "url": "https://919.jp/company/strength.php",
+    "pass": 1
+   },
+   {
+    "quote": "人材サービス事業",
+    "url": "https://919.jp/company/strength.php",
+    "pass": 1
+   },
+   {
+    "quote": "地域情報サービス事業",
+    "url": "https://919.jp/company/strength.php",
+    "pass": 1
+   },
+   {
+    "quote": "サービスから探す",
+    "url": "https://919.jp/company/strength.php",
+    "pass": 1
+   },
+   {
+    "quote": "グローバルHRサービス",
+    "url": "https://919.jp/company/strength.php",
+    "pass": 1
+   },
+   {
+    "quote": "HR領域サービス",
+    "url": "https://919.jp/company/strength.php",
+    "pass": 1
+   },
+   {
+    "quote": "総合人材サービス・情報サービス企業",
+    "url": "https://919.jp/company/strength.php",
+    "pass": 1
+   },
+   {
+    "quote": "『人材こそ企業における最高の財産である』という考えのもと、グループ事業を通じ、経営環境の変化に伴い多様化するお客様の人材ニーズに最適なサービスの提供を行なっています",
+    "url": "https://919.jp/company/strength.php",
+    "pass": 1
+   },
+   {
+    "quote": "地域情報誌の出版、コンシェルジュサービス、ポスティングサービス",
+    "url": "https://919.jp/company/strength.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様へのご提案にあたっては、創業来のノウハウを活かして顧客企業の採用戦略の立案をサポートし、効率性と客観性を備えたサービスを提供しています",
+    "url": "https://919.jp/company/strength.php",
+    "pass": 1
+   },
+   {
+    "quote": "きめ細やかなサービス",
+    "url": "https://919.jp/company/strength.php",
+    "pass": 1
+   },
+   {
+    "quote": "業界専門のコンサルタントが企業・転職希望者の双方を担当することで、一般的なサービスよりも踏み込んだ、精度の高いマッチングを行う、というものです",
+    "url": "https://919.jp/company/strength.php",
+    "pass": 1
+   },
+   {
+    "quote": "高度な専門知識や現場感が求められるような場面でも、業界および企業と転職希望者それぞれをよく知るコンサルタントがご支援を行うことで、企業様と転職希望者様双方にとってベストなソリューションを実現します",
+    "url": "https://919.jp/company/strength.php",
+    "pass": 1
+   },
+   {
+    "quote": "ワンストップ・ソリューション",
+    "url": "https://919.jp/company/strength.php",
+    "pass": 1
+   },
+   {
+    "quote": "当サービスを通じて、人材サービス提供企業と顧客双方の交流とネットワーク化を推進しています",
+    "url": "https://919.jp/company/strength.php",
+    "pass": 1
+   },
+   {
+    "quote": "クイックのサービス",
+    "url": "https://919.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "人材サービス事業",
+    "url": "https://919.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "地域情報サービス事業",
+    "url": "https://919.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "サービスから探す",
+    "url": "https://919.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "グローバルHRサービス",
+    "url": "https://919.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "HR領域サービス",
+    "url": "https://919.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "教育・研修事業（現：リクルーティング事業）、人材紹介事業（現：人材サービス事業）を開始",
+    "url": "https://919.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "Webシステム・アプリ・AIを用いたソリューション開発、ITエンジニア向け育成トレーニング等を手掛ける株式会社クロノスの株式を取得し、子会社化",
+    "url": "https://919.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "中国・上海市に、日系企業を中心とした人材紹介を目的として、上海魁可人材服務有限公司（上海クイック人材サービス有限公司）を設立",
+    "url": "https://919.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "採用戦略フレームワーク「STRUCT」を活用したコンサルティング、クリエイティブ、教育研修サービスの提供を手掛けるジャンプ株式会社の株式を取得し、子会社化",
+    "url": "https://919.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "クイックのサービス",
+    "url": "https://919.jp/harassment-consultation-direct/",
+    "pass": 1
+   },
+   {
+    "quote": "人材サービス事業",
+    "url": "https://919.jp/harassment-consultation-direct/",
+    "pass": 1
+   },
+   {
+    "quote": "地域情報サービス事業",
+    "url": "https://919.jp/harassment-consultation-direct/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスから探す",
+    "url": "https://919.jp/harassment-consultation-direct/",
+    "pass": 1
+   },
+   {
+    "quote": "グローバルHRサービス",
+    "url": "https://919.jp/harassment-consultation-direct/",
+    "pass": 1
+   },
+   {
+    "quote": "HR領域サービス",
+    "url": "https://919.jp/harassment-consultation-direct/",
+    "pass": 1
+   },
+   {
+    "quote": "クイックのサービス",
+    "url": "https://919.jp/company/profile.php",
+    "pass": 1
+   },
+   {
+    "quote": "人材サービス事業",
+    "url": "https://919.jp/company/profile.php",
+    "pass": 1
+   },
+   {
+    "quote": "地域情報サービス事業",
+    "url": "https://919.jp/company/profile.php",
+    "pass": 1
+   },
+   {
+    "quote": "サービスから探す",
+    "url": "https://919.jp/company/profile.php",
+    "pass": 1
+   },
+   {
+    "quote": "グローバルHRサービス",
+    "url": "https://919.jp/company/profile.php",
+    "pass": 1
+   },
+   {
+    "quote": "HR領域サービス",
+    "url": "https://919.jp/company/profile.php",
+    "pass": 1
+   },
+   {
+    "quote": "クイックのサービス",
+    "url": "https://919.jp/company/business/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "人材紹介・人材派遣・紹介予定派遣",
+    "url": "https://919.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ダイジェストでご紹介します",
+    "url": "https://919.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "クイックの強みをご紹介します",
+    "url": "https://919.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ご紹介します",
+    "url": "https://919.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "年収、休日、勤務地など、希望条件にマッチする職場を無料でご紹介します",
+    "url": "https://919.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "人材紹介事業本部",
+    "url": "https://919.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ紹介",
+    "url": "https://919.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "人材紹介・人材派遣・紹介予定派遣",
+    "url": "https://919.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "人材紹介事業本部",
+    "url": "https://919.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ紹介",
+    "url": "https://919.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "人材紹介・人材派遣・紹介予定派遣",
+    "url": "https://919.jp/news/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "人材紹介事業本部",
+    "url": "https://919.jp/news/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ紹介",
+    "url": "https://919.jp/news/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "人材紹介・人材派遣・紹介予定派遣",
+    "url": "https://919.jp/company/strength.php",
+    "pass": 1
+   },
+   {
+    "quote": "クイックの強みについて、紹介します",
+    "url": "https://919.jp/company/strength.php",
+    "pass": 1
+   },
+   {
+    "quote": "人材派遣、紹介予定派遣",
+    "url": "https://919.jp/company/strength.php",
+    "pass": 1
+   },
+   {
+    "quote": "米国、メキシコ、英国、ベトナム、タイ、オランダ、ドイツにおける人材紹介、人材派遣および人事労務コンサルティング",
+    "url": "https://919.jp/company/strength.php",
+    "pass": 1
+   },
+   {
+    "quote": "人材紹介事業では、業界ごとに特化した中途採用支援に強みを有しています",
+    "url": "https://919.jp/company/strength.php",
+    "pass": 1
+   },
+   {
+    "quote": "大量採用から専門職のピンポイント採用に至るまで…適任の人材を迅速かつ豊富にご紹介します",
+    "url": "https://919.jp/company/strength.php",
+    "pass": 1
+   },
+   {
+    "quote": "人材紹介事業では、クイック独自の一気通貫システムを採用しています",
+    "url": "https://919.jp/company/strength.php",
+    "pass": 1
+   },
+   {
+    "quote": "グループ紹介",
+    "url": "https://919.jp/company/strength.php",
+    "pass": 1
+   },
+   {
+    "quote": "人材紹介事業本部",
+    "url": "https://919.jp/company/strength.php",
+    "pass": 1
+   },
+   {
+    "quote": "人材紹介・人材派遣・紹介予定派遣",
+    "url": "https://919.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "人材採用のための求人広告代理店として営業を開始",
+    "url": "https://919.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "教育・研修事業（現：リクルーティング事業）、人材紹介事業（現：人材サービス事業）を開始",
+    "url": "https://919.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "大阪にて、人材紹介事業を開始",
+    "url": "https://919.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "東京にて、人材紹介事業を開始",
+    "url": "https://919.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "米国・ニューヨークに、現地邦人の派遣・紹介事業を目的として、現地法人QUICK USA,Inc.を設立",
+    "url": "https://919.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "名古屋にて、人材紹介事業を開始",
+    "url": "https://919.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "中国・上海市に、日系企業を中心とした人材紹介、人事労務コンサルティング事業を目的として、現地法人 上海可以可邁伊茲明勝人才咨詢服務有限公司（以下、「上海クイックマイツ有限公司（現：上海クイック有限公司）」）設立",
+    "url": "https://919.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "メキシコ・アグアスカリエンテス市に、日系企業を中心とした人材紹介及び人材派遣、人事労務コンサルティングを目的として、当社子会社のQUICK USA Incが現地法人 QUICK GLOBAL MEXICO, S.A. DE C.V.を設立",
+    "url": "https://919.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "英国ロンドンにて、日系企業向け人材紹介、人材派遣等を手掛ける、",
+    "url": "https://919.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "中国・上海市に、日系企業を中心とした人材紹介を目的として、上海魁可人材服務有限公司（上海クイック人材サービス有限公司）を設立",
+    "url": "https://919.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "タイ・バンコクに、人材紹介・人事労務コンサルティングを目的としたQHR (Thailand) Co.,Ltd.（現：QHR Recruitment Co.,Ltd.）と、その事業支援等を行うQHR Holdings (Thailand) Co.,Ltd.（現：QHR Holdings Co.,Ltd.）を設立",
+    "url": "https://919.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "オランダでの人材紹介を目的として、当社子会社のCentre People Appointments Ltdが現地法人 Centre People Appointments B.V.を設立",
+    "url": "https://919.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "ドイツでの人材紹介を目的として、当社子会社のCentre People Appointments Ltdが現地法人Centre People Appointments (Germany) GmbHを設立",
+    "url": "https://919.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "グループ紹介",
+    "url": "https://919.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "人材紹介事業本部",
+    "url": "https://919.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "人材紹介・人材派遣・紹介予定派遣",
+    "url": "https://919.jp/harassment-consultation-direct/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ紹介",
+    "url": "https://919.jp/harassment-consultation-direct/",
+    "pass": 1
+   },
+   {
+    "quote": "人材紹介事業本部",
+    "url": "https://919.jp/harassment-consultation-direct/",
+    "pass": 1
+   },
+   {
+    "quote": "人材紹介・人材派遣・紹介予定派遣",
+    "url": "https://919.jp/company/profile.php",
+    "pass": 1
+   },
+   {
+    "quote": "有料職業紹介事業 27-ユ-020100",
+    "url": "https://919.jp/company/profile.php",
+    "pass": 1
+   },
+   {
+    "quote": "グループ紹介",
+    "url": "https://919.jp/company/profile.php",
+    "pass": 1
+   },
+   {
+    "quote": "人材紹介事業本部",
+    "url": "https://919.jp/company/profile.php",
+    "pass": 1
+   },
+   {
+    "quote": "人材紹介・人材派遣・紹介予定派遣",
+    "url": "https://919.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "人材派遣・紹介予定派遣",
+    "url": "https://919.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "海外での人材紹介・人材派遣等",
+    "url": "https://919.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ紹介",
+    "url": "https://919.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "人材紹介事業本部",
+    "url": "https://919.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "人材紹介・人材派遣・紹介予定派遣",
+    "url": "https://919.jp/ir/greeting.php",
+    "pass": 1
+   },
+   {
+    "quote": "人材紹介事業本部",
+    "url": "https://919.jp/ir/greeting.php",
+    "pass": 1
+   },
+   {
+    "quote": "グループ紹介",
+    "url": "https://919.jp/ir/greeting.php",
+    "pass": 1
+   },
+   {
+    "quote": "人材紹介・人材派遣・紹介予定派遣",
+    "url": "https://919.jp/ir/plan.php",
+    "pass": 1
+   },
+   {
+    "quote": "看護師派遣における料金交渉による利益率改善、紹介事業との連携を通じた効率的な求人獲得や、知人紹介の促進による登録者獲得の強化",
+    "url": "https://919.jp/ir/plan.php",
+    "pass": 1
+   },
+   {
+    "quote": "ベトナムにおける日本人の人材紹介事業の組織再構築や、タイでの新たな領域開拓の推進",
+    "url": "https://919.jp/ir/plan.php",
+    "pass": 1
+   },
+   {
+    "quote": "人材紹介事業本部",
+    "url": "https://919.jp/ir/plan.php",
+    "pass": 1
+   },
+   {
+    "quote": "グループ紹介",
+    "url": "https://919.jp/ir/plan.php",
+    "pass": 1
+   },
+   {
+    "quote": "人材紹介・人材派遣・紹介予定派遣",
+    "url": "https://919.jp/ir/cg.php",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、任意の諮問委員会として指名委員会を設置しております",
+    "url": "https://919.jp/ir/cg.php",
+    "pass": 1
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "クイックの強み",
+    "url": "https://919.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "クイックの強みをご紹介します",
+    "url": "https://919.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "企業の実情や求める人材像を深く理解したコンサルタントだから、あなたの経験や強みが活きる場所を見極めながら、入社後の姿までイメージできる情報を提供できます",
+    "url": "https://919.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "クイックの強み",
+    "url": "https://919.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "クイックの強み",
+    "url": "https://919.jp/news/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "クイックの強み｜株式会社クイック - 関わった人全てをハッピーに",
+    "url": "https://919.jp/company/strength.php",
+    "pass": 1
+   },
+   {
+    "quote": "クイックの強み",
+    "url": "https://919.jp/company/strength.php",
+    "pass": 1
+   },
+   {
+    "quote": "クイックの強みについて、紹介します",
+    "url": "https://919.jp/company/strength.php",
+    "pass": 1
+   },
+   {
+    "quote": "人材紹介事業では、業界ごとに特化した中途採用支援に強みを有しています",
+    "url": "https://919.jp/company/strength.php",
+    "pass": 1
+   },
+   {
+    "quote": "クイックの強み",
+    "url": "https://919.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "クイックの強み",
+    "url": "https://919.jp/harassment-consultation-direct/",
+    "pass": 1
+   },
+   {
+    "quote": "クイックの強み",
+    "url": "https://919.jp/company/profile.php",
+    "pass": 1
+   },
+   {
+    "quote": "クイックの強み",
+    "url": "https://919.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "クイックの強み",
+    "url": "https://919.jp/ir/greeting.php",
+    "pass": 1
+   },
+   {
+    "quote": "「アンドプロ」の機能強化やコンテンツ拡充、およびコンサルタントの能力開発やAI活用による業務効率化を通じた競争優位性の確立",
+    "url": "https://919.jp/ir/plan.php",
+    "pass": 1
+   },
+   {
+    "quote": "クイックの強み",
+    "url": "https://919.jp/ir/plan.php",
+    "pass": 1
+   },
+   {
+    "quote": "クイックの強み",
+    "url": "https://919.jp/ir/cg.php",
+    "pass": 1
+   },
+   {
+    "quote": "クイックの強み",
+    "url": "https://919.jp/ir/bs.php",
+    "pass": 1
+   },
+   {
+    "quote": "売上総利益率",
+    "url": "https://919.jp/ir/indicator.php",
+    "pass": 1
+   },
+   {
+    "quote": "売上高営業利益率・経常利益率",
+    "url": "https://919.jp/ir/indicator.php",
+    "pass": 1
+   },
+   {
+    "quote": "売上総利益率（％）",
+    "url": "https://919.jp/ir/indicator.php",
+    "pass": 1
+   },
+   {
+    "quote": "売上高営業利益率（％）",
+    "url": "https://919.jp/ir/indicator.php",
+    "pass": 1
+   },
+   {
+    "quote": "クイックの強み",
+    "url": "https://919.jp/ir/indicator.php",
+    "pass": 1
+   },
+   {
+    "quote": "クイックの強み",
+    "url": "https://919.jp/ir/segment.php",
+    "pass": 1
+   },
+   {
+    "quote": "クイックの強み",
+    "url": "https://919.jp/ir/short/",
+    "pass": 1
+   },
+   {
+    "quote": "クイックの強み",
+    "url": "https://919.jp/ir/briefing/",
+    "pass": 1
+   },
+   {
+    "quote": "クイックの強み",
+    "url": "https://919.jp/news/irnews/2026/",
+    "pass": 1
+   },
+   {
+    "quote": "クイックの強み",
+    "url": "https://919.jp/news/irnews/2025/",
+    "pass": 1
+   },
+   {
+    "quote": "クイックの強み",
+    "url": "https://919.jp/news/irnews/2024/",
+    "pass": 1
+   },
+   {
+    "quote": "クイックの強み",
+    "url": "https://919.jp/news/irnews/2023/",
+    "pass": 1
+   },
+   {
+    "quote": "クイックの強み",
+    "url": "https://919.jp/news/irnews/2022/",
+    "pass": 1
+   },
+   {
+    "quote": "クイックの強み",
+    "url": "https://919.jp/news/irnews/2021/",
+    "pass": 1
+   },
+   {
+    "quote": "クイックの強み",
+    "url": "https://919.jp/news/irnews/2020/",
+    "pass": 1
+   },
+   {
+    "quote": "クイックの強み",
+    "url": "https://919.jp/news/irnews/2019/",
+    "pass": 1
+   },
+   {
+    "quote": "クイックの強み",
+    "url": "https://919.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "クイック（人材）の「企業分析［強み・弱み・展望］」 OpenWork",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fr0a&q_no=9",
+    "pass": 3
+   },
+   {
+    "quote": "クイック（人材）の「企業分析［強み・弱み・展望］」 ＜社員のクチコミ情報＞",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fr0a&q_no=9",
+    "pass": 3
+   },
+   {
+    "quote": "企業分析［強み・弱み・展望］",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fr0a&q_no=9",
+    "pass": 3
+   },
+   {
+    "quote": "企業分析［強み・弱み・展望］（",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fr0a&q_no=9",
+    "pass": 3
+   },
+   {
+    "quote": "企業分析［強み・弱み・展望］に関するクチコミAI要約",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fr0a&q_no=9",
+    "pass": 3
+   },
+   {
+    "quote": "強み： 人材紹介業界の中でも知名度があり...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fr0a&q_no=9",
+    "pass": 3
+   },
+   {
+    "quote": "強み： 人材紹介や派遣業、人材に関する多...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fr0a&q_no=9",
+    "pass": 3
+   },
+   {
+    "quote": "強み： 人間関係、人の良さ、一気通貫のビ...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fr0a&q_no=9",
+    "pass": 3
+   },
+   {
+    "quote": "強み： 人がいい、辞めるとなってもここが...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fr0a&q_no=9",
+    "pass": 3
+   },
+   {
+    "quote": "強み： 人材紹介事業については業界特化型...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fr0a&q_no=9",
+    "pass": 3
+   },
+   {
+    "quote": "強み： 安定した事業が何よりの強み",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fr0a&q_no=9",
+    "pass": 3
+   },
+   {
+    "quote": "強み： ①アナログな人材紹介を良しとして...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fr0a&q_no=9",
+    "pass": 3
+   },
+   {
+    "quote": "強み： ザ営業会社という感じで営業力があ...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fr0a&q_no=9",
+    "pass": 3
+   },
+   {
+    "quote": "強み： ・専門的な業界の人材支援を行って...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fr0a&q_no=9",
+    "pass": 3
+   },
+   {
+    "quote": "強み： 業界特化×成長の横軸展開、ブルー...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fr0a&q_no=9",
+    "pass": 3
+   },
+   {
+    "quote": "強み： ・専門職特化型で世間的にもブラン...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fr0a&q_no=9",
+    "pass": 3
+   },
+   {
+    "quote": "強み： 採用の時点で、「協調性」をかなり...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fr0a&q_no=9",
+    "pass": 3
+   },
+   {
+    "quote": "強み： 自己成長について 新人の頃は電話...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fr0a&q_no=9",
+    "pass": 3
+   },
+   {
+    "quote": "強み： 体力がある",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fr0a&q_no=9",
+    "pass": 3
+   },
+   {
+    "quote": "強み： 事業に専門特化してサポートするこ...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fr0a&q_no=9",
+    "pass": 3
+   },
+   {
+    "quote": "強み： 各人のコミュニケーション能力の高...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fr0a&q_no=9",
+    "pass": 3
+   },
+   {
+    "quote": "強み： この会社の強みはなんといっても営...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fr0a&q_no=9",
+    "pass": 3
+   },
+   {
+    "quote": "強み： 一気通貫によるサービス提供とと人...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fr0a&q_no=9",
+    "pass": 3
+   },
+   {
+    "quote": "強み： まあある程度の知名度はある 弱み...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fr0a&q_no=9",
+    "pass": 3
+   },
+   {
+    "quote": "強み： 幅広かというよりは専門的な領域に...",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fr0a&q_no=9",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2027年3月期第2四半期（中間期）決算短信〔日本基準〕（連結）",
+    "url": "https://919.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年12月開催 採用コミュニケーションを中心とした人事関連セミナーのスケジュールが更新されました！",
+    "url": "https://919.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年11月開催 採用コミュニケーションを中心とした人事関連セミナーのスケジュールが更新されました！",
+    "url": "https://919.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "クイックグループの沿革を",
+    "url": "https://919.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期（中間期）決算短信〔日本基準〕（連結）",
+    "url": "https://919.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期（中間期）決算短信〔日本基準〕（連結）",
+    "url": "https://919.jp/news/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期 決算説明資料",
+    "url": "https://919.jp/news/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算短信〔日本基準〕（連結）",
+    "url": "https://919.jp/news/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算説明会 書き起こし記事公開のお知らせ",
+    "url": "https://919.jp/news/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算説明資料",
+    "url": "https://919.jp/news/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算短信〔日本基準〕(連結)",
+    "url": "https://919.jp/news/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第3四半期決算短信〔日本基準〕（連結）",
+    "url": "https://919.jp/news/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "1980年9月19日",
+    "url": "https://919.jp/company/profile.php",
+    "pass": 1
+   },
+   {
+    "quote": "1980年9月30日",
+    "url": "https://919.jp/company/profile.php",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月12日公表",
+    "url": "https://919.jp/ir/plan.php",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月1日付で普通株式1株につき3株の割合で株式分割を行っております",
+    "url": "https://919.jp/ir/bs.php",
+    "pass": 1
+   },
+   {
+    "quote": "2027年（令和9年）3月期",
+    "url": "https://919.jp/ir/short/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年（令和8年）3月期",
+    "url": "https://919.jp/ir/short/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年（令和7年）3月期",
+    "url": "https://919.jp/ir/short/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年（令和6年）3月期",
+    "url": "https://919.jp/ir/short/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年（令和5年）3月期",
+    "url": "https://919.jp/ir/short/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年（令和4年）3月期",
+    "url": "https://919.jp/ir/short/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年（令和3年）3月期",
+    "url": "https://919.jp/ir/short/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年（令和2年）3月期",
+    "url": "https://919.jp/ir/short/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年（平成31年）3月期",
+    "url": "https://919.jp/ir/short/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年（平成30年）3月期",
+    "url": "https://919.jp/ir/short/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年（平成29年）3月期",
+    "url": "https://919.jp/ir/short/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年（平成28年）3月期",
+    "url": "https://919.jp/ir/short/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年（平成27年）3月期",
+    "url": "https://919.jp/ir/short/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年（平成26年）3月期",
+    "url": "https://919.jp/ir/short/",
+    "pass": 1
+   },
+   {
+    "quote": "2013年（平成25年）3月期",
+    "url": "https://919.jp/ir/short/",
+    "pass": 1
+   },
+   {
+    "quote": "2012年（平成24年）3月期",
+    "url": "https://919.jp/ir/short/",
+    "pass": 1
+   },
+   {
+    "quote": "2011年（平成23年）3月期",
+    "url": "https://919.jp/ir/short/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年（平成22年）3月期",
+    "url": "https://919.jp/ir/short/",
+    "pass": 1
+   },
+   {
+    "quote": "2009年（平成21年）3月期",
+    "url": "https://919.jp/ir/short/",
+    "pass": 1
+   },
+   {
+    "quote": "2008年（平成20年）3月期",
+    "url": "https://919.jp/ir/short/",
+    "pass": 1
+   },
+   {
+    "quote": "2007年（平成19年）3月期",
+    "url": "https://919.jp/ir/short/",
+    "pass": 1
+   },
+   {
+    "quote": "2006年（平成18年）3月期",
+    "url": "https://919.jp/ir/short/",
+    "pass": 1
+   },
+   {
+    "quote": "2005年（平成17年）3月期",
+    "url": "https://919.jp/ir/short/",
+    "pass": 1
+   },
+   {
+    "quote": "2004年（平成16年）3月期",
+    "url": "https://919.jp/ir/short/",
+    "pass": 1
+   },
+   {
+    "quote": "2003年（平成15年）3月期",
+    "url": "https://919.jp/ir/short/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年（令和9年）3月期",
+    "url": "https://919.jp/ir/briefing/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年（令和8年）3月期",
+    "url": "https://919.jp/ir/briefing/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年（令和7年）3月期",
+    "url": "https://919.jp/ir/briefing/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年（令和6年）3月期",
+    "url": "https://919.jp/ir/briefing/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年（令和5年）3月期",
+    "url": "https://919.jp/ir/briefing/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年（令和4年）3月期",
+    "url": "https://919.jp/ir/briefing/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年（令和3年）3月期",
+    "url": "https://919.jp/ir/briefing/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年（令和2年）3月期",
+    "url": "https://919.jp/ir/briefing/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年（平成31年）3月期",
+    "url": "https://919.jp/ir/briefing/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年（平成30年）3月期",
+    "url": "https://919.jp/ir/briefing/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年（平成29年）3月期",
+    "url": "https://919.jp/ir/briefing/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年（平成28年）3月期",
+    "url": "https://919.jp/ir/briefing/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年（平成27年）3月期",
+    "url": "https://919.jp/ir/briefing/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年（平成26年）3月期",
+    "url": "https://919.jp/ir/briefing/",
+    "pass": 1
+   },
+   {
+    "quote": "2013年（平成25年）3月期",
+    "url": "https://919.jp/ir/briefing/",
+    "pass": 1
+   },
+   {
+    "quote": "2012年（平成24年）3月期",
+    "url": "https://919.jp/ir/briefing/",
+    "pass": 1
+   },
+   {
+    "quote": "2011年（平成23年）3月期",
+    "url": "https://919.jp/ir/briefing/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年（平成22年）3月期",
+    "url": "https://919.jp/ir/briefing/",
+    "pass": 1
+   },
+   {
+    "quote": "2009年（平成21年）3月期",
+    "url": "https://919.jp/ir/briefing/",
+    "pass": 1
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント別実績",
+    "url": "https://919.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別実績",
+    "url": "https://919.jp/ir/greeting.php",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別実績",
+    "url": "https://919.jp/ir/plan.php",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別実績",
+    "url": "https://919.jp/ir/cg.php",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別実績",
+    "url": "https://919.jp/ir/bs.php",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別実績",
+    "url": "https://919.jp/ir/indicator.php",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別実績｜株式会社クイック - 関わった人全てをハッピーに",
+    "url": "https://919.jp/ir/segment.php",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別実績",
+    "url": "https://919.jp/ir/segment.php",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、当社の事業運営組織及び事業運営会社を基礎とした業種別のセグメントから構成されており、「人材サービス事業」、「リクルーティング事業」、「地域情報サービス事業」、「HRプラットフォーム事業」、「海外事業」の5つを報告セグメントとしております",
+    "url": "https://919.jp/ir/segment.php",
+    "pass": 1
+   },
+   {
+    "quote": "売上高と営業利益に占める各セグメントの比率",
+    "url": "https://919.jp/ir/segment.php",
+    "pass": 1
+   },
+   {
+    "quote": "売上高の構成比（2026年3月期）",
+    "url": "https://919.jp/ir/segment.php",
+    "pass": 1
+   },
+   {
+    "quote": "営業利益の構成比（2026年3月期）",
+    "url": "https://919.jp/ir/segment.php",
+    "pass": 1
+   },
+   {
+    "quote": "※ 構成比はセグメントの売上高・営業利益の単純合算額に対する各セグメントの比率です",
+    "url": "https://919.jp/ir/segment.php",
+    "pass": 1
+   },
+   {
+    "quote": "各セグメントの業績推移",
+    "url": "https://919.jp/ir/segment.php",
+    "pass": 1
+   },
+   {
+    "quote": "※ 21/3期より、IT・ネット関連事業と海外事業が報告セグメントとなっております",
+    "url": "https://919.jp/ir/segment.php",
+    "pass": 1
+   },
+   {
+    "quote": "※ 調整額はセグメント間取引消去額及び全社費用（本社管理部門費用）",
+    "url": "https://919.jp/ir/segment.php",
+    "pass": 1
+   },
+   {
+    "quote": "第46期（2026年3月期）期首より、従来「人材サービス事業」に含めていた事業の一部を「リクルーティング事業」の区分に変更したことに伴い、第45期のセグメント実績については、変更後の区分に組み替えて表示しております",
+    "url": "https://919.jp/ir/segment.php",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別実績",
+    "url": "https://919.jp/ir/short/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別実績",
+    "url": "https://919.jp/ir/briefing/",
+    "pass": 1
+   },
+   {
+    "quote": "（セグメント情報等の注記） ……………………………………………………………………………………… 10",
+    "url": "https://919.jp/wp/wp-content/uploads/2026/10/47_2Q_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントごとの経営成績は、次のとおりであります",
+    "url": "https://919.jp/wp/wp-content/uploads/2026/10/47_2Q_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "各セグメントにおける売上高は外部顧客への売上高を記載しており、営業利益はセグメント間取引消去前の金額",
+    "url": "https://919.jp/wp/wp-content/uploads/2026/10/47_2Q_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://919.jp/wp/wp-content/uploads/2026/10/47_2Q_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の",
+    "url": "https://919.jp/wp/wp-content/uploads/2026/10/47_2Q_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 3,430 471 313 230 102 4,548 △684 3,863",
+    "url": "https://919.jp/wp/wp-content/uploads/2026/10/47_2Q_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://919.jp/wp/wp-content/uploads/2026/10/47_2Q_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．報告セグメントごとの売上高及び利益又は損失の金額に関する情報並びに収益の分解情報",
+    "url": "https://919.jp/wp/wp-content/uploads/2026/10/47_2Q_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．セグメント利益の調整額△684百万円には、セグメント間取引消去110百万円、各報告セグメントに配分",
+    "url": "https://919.jp/wp/wp-content/uploads/2026/10/47_2Q_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "全社費用は、主に報告セグメントに帰属しない当",
+    "url": "https://919.jp/wp/wp-content/uploads/2026/10/47_2Q_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益は、中間連結損益計算書の営業利益と調整を行っております",
+    "url": "https://919.jp/wp/wp-content/uploads/2026/10/47_2Q_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．報告セグメントごとの固定資産の減損損失又はのれん等に関する情報",
+    "url": "https://919.jp/wp/wp-content/uploads/2026/10/47_2Q_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 3,281 670 279 202 127 4,561 △726 3,834",
+    "url": "https://919.jp/wp/wp-content/uploads/2026/10/47_2Q_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．セグメント利益の調整額△726百万円には、セグメント間取引消去125百万円、各報告セグメントに配分",
+    "url": "https://919.jp/wp/wp-content/uploads/2026/10/47_2Q_tanshin.pdf",
+    "pass": 2
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "こうした中、人材紹介における成約単価の上昇や半導体関連の大型案件",
+    "url": "https://919.jp/wp/wp-content/uploads/2026/10/47_2Q_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "こうした中、高単価案件の成約や顧客の新規事業展開に伴う営業職の支援が好調に推移し",
+    "url": "https://919.jp/wp/wp-content/uploads/2026/10/47_2Q_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "書籍販売手数料 8 15",
+    "url": "https://919.jp/wp/wp-content/uploads/2026/10/47_2Q_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "支払手数料 － 6",
+    "url": "https://919.jp/wp/wp-content/uploads/2026/10/47_2Q_tanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "リーマンショックの時は、経費を増やさず自己資本をストックしていたので、半年売上がなくても、持ちこたえられる状態だったのです",
+    "url": "https://www.netznewly.co.jp/interview/09",
+    "pass": 3
+   },
+   {
+    "quote": "ーーーバブルの苦い経験があったからこそいたずらに経費を増やさず、結果的に危機に耐えられるだけの資本をストックできたのですね",
+    "url": "https://www.netznewly.co.jp/interview/09",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "クイック の強み｜株式会社 クイック - 関わった人全てを ... — クイック の強み｜株式会社 クイック - 関わった人全てを ... 株式会社クイック https://919.jp > company > strength",
+    "url": "https://919.jp/company/strength.php",
+    "pass": 3
+   },
+   {
+    "quote": "クイック （人材）の「企業分析［強み・弱み・展望 ... — クイック （人材）の「企業分析［強み・弱み・展望 ... OpenWork https://www.openwork.jp > ... > クイック（人材）",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fr0a&q_no=9",
+    "pass": 3
+   },
+   {
+    "quote": "HR領域の知られざる超優良企業 クイック の第2創業期を ... — HR領域の知られざる超優良企業 クイック の第2創業期を ... en-courage https://app.en-courage.com > articles",
+    "url": "https://app.en-courage.com/articles/2022-10-28/24?locale=ja",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 クイック の事業とカルチャー - Wantedly — 株式会社 クイック の事業とカルチャー - Wantedly Wantedly https://www.wantedly.com > Wantedly > 株式会社クイック",
+    "url": "https://www.wantedly.com/companies/quick/about",
+    "pass": 3
+   },
+   {
+    "quote": "IR Information 決算説明 会 資料 - 株式会社クイック — IR Information 決算説明 会 資料 - 株式会社クイック 株式会社クイック https://919.jp > briefing",
+    "url": "https://919.jp/ir/briefing/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報｜株式会社 クイック - 関わった人全てをハッピーに — IR情報｜株式会社 クイック - 関わった人全てをハッピーに 株式会社クイック https://919.jp > ...",
+    "url": "https://919.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "クイック 、構造的人材不足を追い風に人材サービス売上が伸長 ... — クイック 、構造的人材不足を追い風に人材サービス売上が伸長 ... ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/384760",
+    "pass": 3
+   },
+   {
+    "quote": "【HRog 決算 解説】株式会社 クイック の2026年3月期通期 決算 ... — 【HRog 決算 解説】株式会社 クイック の2026年3月期通期 決算 ... HRog https://hrog.net > 決算解説",
+    "url": "https://hrog.net/ir/135338/",
+    "pass": 3
+   },
+   {
+    "quote": "クイック のIR 資料 - 4318 / プライム / サービス業 — クイック のIR 資料 - 4318 / プライム / サービス業 バフェット・コード https://www.buffett-code.com > company > library",
+    "url": "https://www.buffett-code.com/company/4318/library",
+    "pass": 3
+   },
+   {
+    "quote": "組織図｜株式会社 クイック - 関わった人全てをハッピーに — 組織図｜株式会社 クイック - 関わった人全てをハッピーに 株式会社クイック https://919.jp > company > chart",
+    "url": "https://919.jp/company/chart.php",
+    "pass": 3
+   },
+   {
+    "quote": "(株) クイック (人材紹介 事業 本部)【東証プライム市場上場】 — (株) クイック (人材紹介 事業 本部)【東証プライム市場上場】 マイナビ https://job.mynavi.jp > search > corp77998 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp77998/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 クイック の 事業 とカルチャー - Wantedly — 株式会社 クイック の 事業 とカルチャー - Wantedly Wantedly https://www.wantedly.com > Wantedly > 株式会社クイック",
+    "url": "https://www.wantedly.com/companies/quick/about",
+    "pass": 3
+   },
+   {
+    "quote": "和納勉さん（株式会社 クイック ） - 日本の人事部『プロネット』 — 和納勉さん（株式会社 クイック ） - 日本の人事部『プロネット』 日本の人事部『プロネット』 https://service.jinjibu.jp > article > detl > innovator",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1107/2/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 クイック | 【公式】ネッツトヨタニューリー北大阪 — 株式会社 クイック | 【公式】ネッツトヨタニューリー北大阪 ネッツトヨタニューリー北大阪 https://www.netznewly.co.jp > 企業トップインタビュー",
+    "url": "https://www.netznewly.co.jp/interview/09",
+    "pass": 3
+   },
+   {
+    "quote": "【株式会社 クイック サーブ】丹生 社長インタビュー - YouTube — 【株式会社 クイック サーブ】丹生 社長インタビュー - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=JkZFyBWNX1I",
+    "pass": 3
+   },
+   {
+    "quote": "役員紹介｜株式会社 クイック - 関わった人全てをハッピーに — 役員紹介｜株式会社 クイック - 関わった人全てをハッピーに 株式会社クイック https://919.jp > company > officer",
+    "url": "https://919.jp/company/officer.php",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "このビジネスモデル、サービス内容についてはおおむねできていますので、これから可能性のある地域にどんどん展開していきたいと考えています",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1107/2/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://919.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://919.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://919.jp/news/irnews/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://919.jp/company/strength.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://919.jp/company/history.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://919.jp/harassment-consultation-direct/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://919.jp/company/profile.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://919.jp/company/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://919.jp/ir/greeting.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://919.jp/ir/plan.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://919.jp/ir/cg.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://919.jp/ir/bs.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://919.jp/ir/indicator.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://919.jp/ir/segment.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://919.jp/ir/short/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://919.jp/ir/briefing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://919.jp/news/irnews/2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://919.jp/news/irnews/2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://919.jp/news/irnews/2024/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://919.jp/news/irnews/2023/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://919.jp/news/irnews/2022/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://919.jp/news/irnews/2021/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://919.jp/news/irnews/2020/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://919.jp/news/irnews/2019/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://919.jp/company/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://919.jp/wp/wp-content/uploads/2026/11/26.11.2_jikokabu.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://919.jp/wp/wp-content/uploads/2026/10/47_2Q_tanshin.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://919.jp/wp/wp-content/uploads/2026/10/26.10.30_dividends.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://919.jp/wp/wp-content/uploads/2026/10/26.10.29_StormR_report.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://919.jp/wp/wp-content/uploads/2026/10/26.10.29_and-pro_report.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://919.jp/wp/wp-content/uploads/2026/10/26.10.27_HRvision_HP.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://919.jp/wp/wp-content/uploads/2026/09/d98f998913e6143021a51576e915be95.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://919.jp/wp/wp-content/uploads/2026/09/dodaX2026_award.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://919.jp/assets/img/company/strength/imgtext06.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://919.jp/assets/img/company/business/global/img01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://919.jp/assets/img/company/business/imgtext01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://919.jp/assets/img/company/business/img02.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://919.jp/assets/img/company/business/img05.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://919.jp/assets/img/company/business/img01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://919.jp/assets/img/company/business/img04.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://919.jp/assets/img/company/business/imgtext02.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fr0a&q_no=9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.quick.co.jp/about/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1107/2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.netznewly.co.jp/interview/09",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "クイック",
+   "results": [
+    "https://919.jp/",
+    "https://www.919usa.com/",
+    "https://corporate.quick.co.jp/",
+    "https://kotobank.jp/word/%E3%81%8F%E3%81%84%E3%81%A4%E3%81%8F-3179911",
+    "https://www.nikkei.com/nkd/company/?scode=4318",
+    "https://ja.wikipedia.org/wiki/クイック_(企業)",
+    "https://919.jp/company/",
+    "https://shikiho.toyokeizai.net/stocks/4318/corporate",
+    "https://finance.yahoo.co.jp/quote/4318.T/profile",
+    "https://corporate.quick.co.jp/en/"
+   ]
+  },
+  {
+   "query": "クイック ビジネスモデル",
+   "results": [
+    "https://919.jp/company/strength.php",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fr0a&q_no=9",
+    "https://app.en-courage.com/articles/2022-10-28/24?locale=ja",
+    "https://www.wantedly.com/companies/quick/about",
+    "https://www.onecareer.jp/articles/2978",
+    "https://919.jp/company/business/",
+    "https://job.mynavi.jp/27/pc/search/corp77998/outline.html",
+    "https://mid-tenshoku.com/agency/a-1561/",
+    "https://www.youtube.com/watch?v=X1B_ZxP0q3Y",
+    "https://consovation.com/株式会社クイックの魅力と成長戦略/"
+   ]
+  },
+  {
+   "query": "クイック 決算説明資料",
+   "results": [
+    "https://919.jp/ir/briefing/",
+    "https://919.jp/ir/",
+    "https://finance.logmi.jp/articles/384760",
+    "https://hrog.net/ir/135338/",
+    "https://www.buffett-code.com/company/4318/library",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=4318",
+    "https://919.jp/ir/short/",
+    "https://x.com/kessan_db/status/2116493860465717733",
+    "https://scouter.monex.co.jp/report/top/4318",
+    "https://edinetdb.jp/company/E05232/presentations/"
+   ]
+  },
+  {
+   "query": "クイック 事業系統図",
+   "results": [
+    "https://919.jp/company/chart.php",
+    "https://corporate.quick.co.jp/about/outline/",
+    "https://919.jp/company/strength.php",
+    "https://job.mynavi.jp/28/pc/search/corp77998/outline.html",
+    "https://www.wantedly.com/companies/quick/about",
+    "https://mag.minkabu.jp/companys-features/35637/",
+    "https://kitaishihon.com/company/4318/business",
+    "https://www.youtube.com/watch?v=X1B_ZxP0q3Y",
+    "https://speakerdeck.com/quick_hr/introduction",
+    "https://note.com/powerpoint_jp/n/n93ee16c72a92"
+   ]
+  },
+  {
+   "query": "クイック 社長 インタビュー",
+   "results": [
+    "https://service.jinjibu.jp/article/detl/innovator/1107/2/",
+    "https://www.netznewly.co.jp/interview/09",
+    "https://www.youtube.com/watch?v=JkZFyBWNX1I",
+    "https://919.jp/company/officer.php",
+    "https://hrbc.porters.jp/magazine/special_detail/id=1132",
+    "https://www.youtube.com/watch?v=3mvf62tzk2k",
+    "https://note.com/quick_919/m/m3f02f469d6d0",
+    "https://www.wantedly.com/companies/quick/post_articles/145961",
+    "https://www.nikkei.com/article/DGXZQODZ00018_Q6A430C2000000/",
+    "https://ja.wikipedia.org/wiki/和納勉"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式25頁／PDF・画像16件／外部4頁・検索5回）"
+ }
+}

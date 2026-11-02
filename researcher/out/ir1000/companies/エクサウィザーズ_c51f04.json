@@ -1,0 +1,1615 @@
+{
+ "name": "エクサウィザーズ",
+ "aliases": [],
+ "context": "証券コード4259／情報・通信業／グロース（内国株式）／2026.03期 売上高11,996百万円 営業利益率13.3%",
+ "researched_at": "2026-11-02T19:21:53.874064+00:00",
+ "official_url": "https://exawizards.com/",
+ "identified_by": "search:yahoo_jp:エクサウィザーズ",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2016年2月",
+    "url": "https://exawizards.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2023年10月",
+    "url": "https://exawizards.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2024年2月",
+    "url": "https://exawizards.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2012年8月",
+    "url": "https://exawizards.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1995年3月",
+    "url": "https://exawizards.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2026年4月",
+    "url": "https://exawizards.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2026年7月",
+    "url": "https://exawizards.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2026年8月",
+    "url": "https://exawizards.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2026年10月",
+    "url": "https://exawizards.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2024年4月",
+    "url": "https://exawizards.com/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "659名（2026年6月末時点）",
+    "url": "https://exawizards.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "2,709名（2025年3月末時点）",
+    "url": "https://exawizards.com/exabase/ir-assistant/case/005/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "2,655名（2024年3月31日現在）",
+    "url": "https://exawizards.com/exabase/ir-assistant/case/003/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "5,556名（2024年3月31日現在）",
+    "url": "https://exawizards.com/exabase/ir-assistant/case/002/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "169名（2024年5月末時点）",
+    "url": "https://exawizards.com/exabase/ir-assistant/case/001/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "12,056名（連結/2024年8月時点）",
+    "url": "https://exawizards.com/exabase/ir-assistant/case/004/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "AIを利活用したサービス開発による 産業革新と社会課題の解決",
+    "url": "https://exawizards.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "生成AI等のテクノロジーを利活用したプロダクト・サービス等の企画・開発・販売による企業の生産性の向上",
+    "url": "https://exawizards.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "認知症をはじめとする健康・医療テーマに関する社会課題解決を目的とした、マルチモーダルAI技術を用いたプロダクトやサービス等の企画・開発・販売・アライアンス（プログラム医療機器を含む）",
+    "url": "https://exawizards.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "営業支援、ビジネスプロセスアウトソーシング Webサービス・アプリ・システムの企画・開発・販売",
+    "url": "https://exawizards.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "エンタープライズ基盤事業(高信頼性システム基盤の設計、開発) システム開発アウトソーシング事業(Webシステムから基幹システムまで全般) モバイル事業 ロボティクス事業 AI事業 顔人認証ソリューション事業 フードテック",
+    "url": "https://exawizards.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "AI駆動開発を基盤とした、AI活用を前提とする設計・開発・運用",
+    "url": "https://exawizards.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "企業がAI活用の主導権を持つためのAI基盤（ローカルLLM基盤、AIエージェント基盤等）の構築・運用 AIエージェント時代における業務プロセス及び次世代UI/UXの設計・開発",
+    "url": "https://exawizards.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "常駐型AI実装サービス、および同サービスを通じて得られる知見に基づくAIエージェント技術・業務アプリケーション・ソフトウェアの研究開発",
+    "url": "https://exawizards.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "AIレッドチーミング、セキュリティ診断、AIガバナンス・コンプライアンス支援等のコンサルティングを通じた、お客様のAI環境のセキュリティを担保するサービスの提供 ペネトレーションテストをはじめとする従来型のセキュリティサービスにAIを活用し、より高速かつ広範にAIによるセキュリティを強化するサービスの提供、ならびにAIセキュリティ関連製品の販売・代理店業務",
+    "url": "https://exawizards.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "コンサルティング事業、有料職業紹介事業、労働者派遣事業",
+    "url": "https://exawizards.com/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "スタジアム、サイバー攻撃リスクへの対応と音声データ活用を支援する「個人情報ミュート」を4つの形態で提供 ～GPU端末レンタル・AWS組み込み・顧客保有PCへの組み込み、Windowsアプリから選択可能～",
+    "url": "https://exawizards.com/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の課題に共鳴し、パートナーとなってともに最適解を考え抜く",
+    "url": "https://exawizards.com/company/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "豊富なドメイン知識やあらゆるテクノロジーを活用し、お客様の要望・アイデアだけでなく潜在的な課題の種までも見つけ出し、いち早く形にします",
+    "url": "https://exawizards.com/company/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "本当に価値があるものだけをお客様に提供するため、品質への安心感が高まります",
+    "url": "https://exawizards.com/company/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の環境に深く入り込み、拡張性のあるものへ",
+    "url": "https://exawizards.com/company/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "現場のフィードバックを糧に、お客様とともに磨き上げていく",
+    "url": "https://exawizards.com/company/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーに、感動を",
+    "url": "https://exawizards.com/company/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーと対話することで社会に溶け込むサービスやプロダクトを作ろう",
+    "url": "https://exawizards.com/company/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーやクライアントが悲しむことはせず、誠実な対応を心がけよう",
+    "url": "https://exawizards.com/company/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "自分たちの作ったものをユーザー以上に使い込もう",
+    "url": "https://exawizards.com/company/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "AIレッドチーミング、セキュリティ診断、AIガバナンス・コンプライアンス支援等のコンサルティングを通じた、お客様のAI環境のセキュリティを担保するサービスの提供",
+    "url": "https://exawizards.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客の経営課題解決に向け、AI Platform「",
+    "url": "https://exawizards.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、DX人材・組織開発をワンストップで支援するサービスの提供や、AI/DXの推進リーダーが集う国内最大規模のコミュニティ運営などを通じて企業のAI活用/DX推進の内製化支援も行っており、全社課題の解決・顧客価値の最大化を支援しながら、AIの社会実装を推進しています",
+    "url": "https://exawizards.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "編集する際に、置換・辞書登録をすることで、他のユーザーと同じ辞書を共有",
+    "url": "https://exawizards.com/exabase/ir-assistant/",
+    "pass": 1
+   },
+   {
+    "quote": "スタジアム、サイバー攻撃リスクへの対応と音声データ活用を支援する「個人情報ミュート」を4つの形態で提供 ～GPU端末レンタル・AWS組み込み・顧客保有PCへの組み込み、Windowsアプリから選択可能～",
+    "url": "https://exawizards.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客が抱えている課題感",
+    "url": "https://exawizards.com/integrated-report/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "大企業を中心として顧客の経営課題・事業における重要課題を通じて、様々な業界の産業・社会課題を発見しその解決のためのソリューションを提案しています",
+    "url": "https://exawizards.com/integrated-report/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "多くの企業に共通した業務課題の解決に向けて、顧客の業務プロセスに簡易に導入・活用可能な複数のプロダクトを開発・提供しています",
+    "url": "https://exawizards.com/integrated-report/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "このような変化の中で、企業に対する顧客や従業員、投資家といったステークホルダーからの要請も変化し、企業活動は社会課題の観点抜きには語ることができなくなっています",
+    "url": "https://exawizards.com/integrated-report/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、各企業におけるDX推進・AI活用における戦略策定から実装までのサービスを提供するとともに、顧客企業内でのAIソフトウェア開発の自動化・内製化を支援しています",
+    "url": "https://exawizards.com/integrated-report/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "取引先と業種別構成",
+    "url": "https://exawizards.com/integrated-report/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期の取引先は2,500社超にのぼります",
+    "url": "https://exawizards.com/integrated-report/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "AIプロダクト事業では、多くの企業に共通した業務課題の解決に向けて、顧客の業務プロセスに簡易に導入・活用可能な複数のプロダクトを開発・提供しています",
+    "url": "https://exawizards.com/integrated-report/aiproducts.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年より提供を開始したエクサベース AIはあらゆるビジネスパーソンが利用できる汎用型で、およそ3年で累計導入社数が1,700社を突破しました(2026年7月時点)",
+    "url": "https://exawizards.com/integrated-report/aiproducts.html",
+    "pass": 1
+   },
+   {
+    "quote": "営業やコーポレート、コールセンターの品質評価など特定の業務に特化したAIプロダクトを多数提供するほか、ユーザーがAIを使いこなせるようなAX人材育成サービスも提供することで、ユーザー自身がAI/AIエージェントを使って生産性を向上させることを目指します",
+    "url": "https://exawizards.com/integrated-report/aiproducts.html",
+    "pass": 1
+   },
+   {
+    "quote": "AIプロダクト事業は、大規模言語モデル(LLM)などのテクノロジーの急速な変化に対応し、「AIぐるぐるモデル」を高速で循環させることで、多様な顧客ニーズに対応するプロダクトを多数提供してきました",
+    "url": "https://exawizards.com/integrated-report/aiproducts.html",
+    "pass": 1
+   },
+   {
+    "quote": "AIソリューションサービス事業では、大企業を中心として顧客の経営課題・事業における重要な課題を通じて、様々な業界の産業・社会課題を発見しその解決のためのソリューションを提案します",
+    "url": "https://exawizards.com/integrated-report/aiss.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、グループ会社のエクスウェアではAIと基盤システムの接続やSIを、スタジアムでは営業代行等を通じた成長支援を、2026年9月より新たにグループに参画したele&companyはAIプラットフォーム事業と連携した総合コンサルティングを通して、顧客の課題解決に取り組んでいます",
+    "url": "https://exawizards.com/integrated-report/aiss.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループには、幅広い事業・業界固有のドメイン知識が豊富なエンジニア・コンサルタント・デザイナーといった人材が在籍しており、それぞれの顧客企業が直面する経営課題の解決を支援します",
+    "url": "https://exawizards.com/integrated-report/aiss.html",
+    "pass": 1
+   },
+   {
+    "quote": "exaBase Studio上に様々なファイルやデータなどを集約し、ユーザーは容易にAIエージェントやAIアプリケーションの制作が可能となります",
+    "url": "https://exawizards.com/integrated-report/aiss.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に最適なソリューションを提供すると同時に、より高い付加価値を創出いたします",
+    "url": "https://exawizards.com/integrated-report/aiss.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の成長フェーズに合わせた最適なソリューションで、新時代の成長支援パートナーとして伴走します",
+    "url": "https://exawizards.com/integrated-report/aiss.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、当社グループは、企業活動に関わる国・地域の文化や慣習、多様な背景と価値観を理解し、従業員、お客様、取引先、地域社会等の当社事業を継続するうえで重要なステークホルダーとの適切な協働関係を構築するものとし、そのために必要な施策を実行します",
+    "url": "https://exawizards.com/ir/company/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "主力のexaBase 生成AIは導入社数1,219社、ユーザー数11.5万人超に成長",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "その内訳は、のれん8.94億円、顧客関連資産17.46億円、ソフトウェア9.03億円でした",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "のれんは0.17億円（ほぼゼロ）、顧客関連資産は9.62億円（償却で縮小中）、そしてソフトウェアが8.21億円",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、M&Aで外から買ってきた資産（のれん・顧客関連資産）を減損で一掃し、自前のプロダクト開発投資（ソフトウェア）に資本を振り替えているのです",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料によれば、導入社数は前年同期比+64.3%の1,219社に到達し、生成AIプロダクト群の売上高はQ3累計で8.37億円と前年比ほぼ倍増しています",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "単に売上を増やすのではなく、顧客の現場に深く入り込んで知見を蓄積し、それをプロダクトに反映させる",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "【exaBase生成AI関連の主要KPI──導入社数と売上高の右肩上がりの推移】",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "BCN Web会員数6万名突破！ 無料登録で読める会員限定記事10000本以上！",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20241216_207524.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社はユーザー企業が抱えるそれぞれの業務課題をAIで解決する個別SIの事業と、独自のAIプロダクト事業の二つが事業の柱で、前者が売り上げ全体をけん引して増益効果を生み出しつつ、後者の稼ぐ力も高まってきたことが本年度の黒字転換の見込みとなった主な要因です",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20241216_207524.html",
+    "pass": 3
+   },
+   {
+    "quote": "いきなりプロダクトだけで勝負するにはハードルが高いため、まずは個別ユーザーの業務課題をAIでどのように解決するかという点からスタートし、そこから横展開できそうな部分を切り出してプロダクト創出につなげました",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20241216_207524.html",
+    "pass": 3
+   },
+   {
+    "quote": "顧客ごとの課題を解決するアプローチと、そこで蓄積したデータ活用の知見やAIアルゴリズムを応用することで汎用的な課題解決につなげ、それを個別SIに活用する価値循環を繰り返すビジネスモデルを確立",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20241216_207524.html",
+    "pass": 3
+   },
+   {
+    "quote": "起業した16年当時でも深層学習モデルを使ったビジネスは普通にありましたし、顧客の関心も高く、運よく人材や資金も調達でき、創業5年目にして東京証券取引所マザーズ市場（現東証グロース市場）に上場を果たしています",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20241216_207524.html",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIユーザーは670社余りに",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20241216_207524.html",
+    "pass": 3
+   },
+   {
+    "quote": "おかげさまでexaBase DXアセスメント＆ラーニングの納入社数は1900社余り、ユーザー数は約26万人のヒット商品になりました",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20241216_207524.html",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザー企業がAIモデルやサービス、データを組み合わせて、独自のAIサービスを構築できる開発環境「exaBase Studio」も提供しています",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20241216_207524.html",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザー企業からはこの実績をご評価いただいています",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20241216_207524.html",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "AX人材育成ソリューション",
+    "url": "https://exawizards.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AIソリューション",
+    "url": "https://exawizards.com/",
+    "pass": 1
+   },
+   {
+    "quote": "エクサウィザーズとスタジアムが共同体制を構築、営業組織の「型化」「AI活用」から「定着・効果測定」まで一気通貫で支援する伴走サービスを開始 ～グループシナジー戦略「3P×フロンティア」の一環として連携を強化～",
+    "url": "https://exawizards.com/",
+    "pass": 1
+   },
+   {
+    "quote": "当社が利用するクラウドサービスにおける不正アクセスに関するお知らせ",
+    "url": "https://exawizards.com/",
+    "pass": 1
+   },
+   {
+    "quote": "CareWizは、テクノロジーを活用したサービス提供を行うことでケアに関わる多くの方が人に向き合える・介護業務に集中できるサービスを提供します",
+    "url": "https://exawizards.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AX人材育成ソリューション",
+    "url": "https://exawizards.com/company/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "AIソリューション",
+    "url": "https://exawizards.com/company/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーと対話することで社会に溶け込むサービスやプロダクトを作ろう",
+    "url": "https://exawizards.com/company/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、事業活動における重要な課題である「多様な人材の活躍」「幅広い産業分野への事業展開」「技術的優位性の確保と向上」と、これらを支える「強固なセキュリティによる安全なサービスの提供」「ガバナンス・リスク管理体制」の５つのマテリアリティに取り組み、社会課題を解決していきます",
+    "url": "https://exawizards.com/company/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "AX人材育成ソリューション",
+    "url": "https://exawizards.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "AIソリューション",
+    "url": "https://exawizards.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "AIを利活用したサービス開発による",
+    "url": "https://exawizards.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "生成AI等のテクノロジーを利活用したプロダクト・サービス等の企画・開発・販売による企業の生産性の向上",
+    "url": "https://exawizards.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "認知症をはじめとする健康・医療テーマに関する社会課題解決を目的とした、マルチモーダルAI技術を用いたプロダクトやサービス等の企画・開発・販売・アライアンス（プログラム医療機器を含む）",
+    "url": "https://exawizards.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Webサービス・アプリ・システムの企画・開発・販売",
+    "url": "https://exawizards.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "顔人認証ソリューション事業",
+    "url": "https://exawizards.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "常駐型AI実装サービス、および同サービスを通じて得られる知見に基づくAIエージェント技術・業務アプリケーション・ソフトウェアの研究開発",
+    "url": "https://exawizards.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "AIレッドチーミング、セキュリティ診断、AIガバナンス・コンプライアンス支援等のコンサルティングを通じた、お客様のAI環境のセキュリティを担保するサービスの提供",
+    "url": "https://exawizards.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ペネトレーションテストをはじめとする従来型のセキュリティサービスにAIを活用し、より高速かつ広範にAIによるセキュリティを強化するサービスの提供、ならびにAIセキュリティ関連製品の販売・代理店業務",
+    "url": "https://exawizards.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "AX人材育成ソリューション",
+    "url": "https://exawizards.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "AIソリューション",
+    "url": "https://exawizards.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "AIの理解促進~企画~設計・開発~運用・利用をワンストップで提案しており、すぐに使えるSaaSのAIアプリケーションや、AIアルゴリズム・API、MLOpsなど、AI/DXに関わる豊富なアセットを組合せることで、クイックなAI導入から共同でのサービス開発まで幅広いニーズに対応しています",
+    "url": "https://exawizards.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、DX人材・組織開発をワンストップで支援するサービスの提供や、AI/DXの推進リーダーが集う国内最大規模のコミュニティ運営などを通じて企業のAI活用/DX推進の内製化支援も行っており、全社課題の解決・顧客価値の最大化を支援しながら、AIの社会実装を推進しています",
+    "url": "https://exawizards.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ChatGPT活用の企業向け生成AIサービス「",
+    "url": "https://exawizards.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "」やChatGPTを活用したIR業務効率化支援サービス「",
+    "url": "https://exawizards.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "」、DX人材発掘・育成サービス「",
+    "url": "https://exawizards.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "」のほか、身体機能分析AIサービス「",
+    "url": "https://exawizards.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "」や介護領域特化の対話型AIサービス「",
+    "url": "https://exawizards.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "光フードサービス株式会社",
+    "url": "https://exawizards.com/exabase/ir-assistant/",
+    "pass": 1
+   },
+   {
+    "quote": "AX人材育成ソリューション",
+    "url": "https://exawizards.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "AIソリューション",
+    "url": "https://exawizards.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "1898年の創業以来、土木・建築を核に再エネ・不動産・技術商品などの周辺事業を展開する建設サービス業の熊谷組",
+    "url": "https://exawizards.com/exabase/ir-assistant/case/005/",
+    "pass": 1
+   },
+   {
+    "quote": "社会から求められる建設サービス業の担い手として、いつの時代も社会課題と真摯に向き合い、目指す社会の実現に貢献しています",
+    "url": "https://exawizards.com/exabase/ir-assistant/case/005/",
+    "pass": 1
+   },
+   {
+    "quote": "本サービスの導入はどのように進められたのでしょうか？何か障壁はありましたか？",
+    "url": "https://exawizards.com/exabase/ir-assistant/case/005/",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品取引業",
+    "url": "https://exawizards.com/exabase/ir-assistant/case/003/",
+    "pass": 1
+   },
+   {
+    "quote": "「医・食・住」に関する社会的課題をDXで解決するグローバル・ソリューションプロバイダー",
+    "url": "https://exawizards.com/exabase/ir-assistant/case/002/",
+    "pass": 1
+   },
+   {
+    "quote": "医(ヘルスケア)・食(農業)・住(建設)の社会的課題を先進のDXソリューションで解決し、人々の豊かな生活の実現に挑戦するトプコン",
+    "url": "https://exawizards.com/exabase/ir-assistant/case/002/",
+    "pass": 1
+   },
+   {
+    "quote": "「医」では、眼鏡店といった生活に身近な場所を利用した眼健診（スクリーニング）の仕組み作りに取り組んでおり、「食」では、農機の自動化や、農作業の様々なデータを一元管理するソリューションを提案し、「住」では、建機をロボット化するICT自動化施工システムや建設工事におけるワークフローの一元管理を推進しています",
+    "url": "https://exawizards.com/exabase/ir-assistant/case/002/",
+    "pass": 1
+   },
+   {
+    "quote": "他社のAIサービスよりも精度が高く、自動でQ&Aが作れる",
+    "url": "https://exawizards.com/exabase/ir-assistant/case/002/",
+    "pass": 1
+   },
+   {
+    "quote": "以前は他社のAIサービスを活用していましたが、「エクサベース IRアシスタント」は圧倒的に優れていました",
+    "url": "https://exawizards.com/exabase/ir-assistant/case/002/",
+    "pass": 1
+   },
+   {
+    "quote": "他のAIサービスだと、もう一度聞き直して修正する必要がありましたが、その手間がなくなりました",
+    "url": "https://exawizards.com/exabase/ir-assistant/case/002/",
+    "pass": 1
+   },
+   {
+    "quote": "光フードサービス株式会社 | エクサベース IRアシスタント",
+    "url": "https://exawizards.com/exabase/ir-assistant/case/001/",
+    "pass": 1
+   },
+   {
+    "quote": "光フードサービス株式会社",
+    "url": "https://exawizards.com/exabase/ir-assistant/case/001/",
+    "pass": 1
+   },
+   {
+    "quote": "飲食サービス",
+    "url": "https://exawizards.com/exabase/ir-assistant/case/001/",
+    "pass": 1
+   },
+   {
+    "quote": "日本一の立呑みブランドを目指し「立呑み焼きとん大黒」「立呑み魚椿」など4業態で58店舗（2024年5月末時点）を展開している光フードサービス株式会社",
+    "url": "https://exawizards.com/exabase/ir-assistant/case/001/",
+    "pass": 1
+   },
+   {
+    "quote": "私たち光フードサービスのビジネスモデルは、小箱の立呑み店などを中心とした飲食事業の運営です",
+    "url": "https://exawizards.com/exabase/ir-assistant/case/001/",
+    "pass": 1
+   },
+   {
+    "quote": "光フードサービスは、来年の2025年2月に初めての定時株主総会をおこないます",
+    "url": "https://exawizards.com/exabase/ir-assistant/case/001/",
+    "pass": 1
+   },
+   {
+    "quote": "AIソリューションサービス事業",
+    "url": "https://exawizards.com/integrated-report/",
+    "pass": 1
+   },
+   {
+    "quote": "事業・サービスの内容",
+    "url": "https://exawizards.com/integrated-report/",
+    "pass": 1
+   },
+   {
+    "quote": "AX人材育成ソリューション",
+    "url": "https://exawizards.com/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "AIソリューション",
+    "url": "https://exawizards.com/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "AX人材育成ソリューション",
+    "url": "https://exawizards.com/ir/library/result/",
+    "pass": 1
+   },
+   {
+    "quote": "AIソリューション",
+    "url": "https://exawizards.com/ir/library/result/",
+    "pass": 1
+   },
+   {
+    "quote": "AX人材育成ソリューション",
+    "url": "https://exawizards.com/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "AIソリューション",
+    "url": "https://exawizards.com/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "AX人材育成ソリューション",
+    "url": "https://exawizards.com/ir/library/securities/",
+    "pass": 1
+   },
+   {
+    "quote": "AIソリューション",
+    "url": "https://exawizards.com/ir/library/securities/",
+    "pass": 1
+   },
+   {
+    "quote": "AIソリューションサービス事業",
+    "url": "https://exawizards.com/integrated-report/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業・サービスの内容",
+    "url": "https://exawizards.com/integrated-report/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "AIソリューションサービス事業(個社課題の解決)",
+    "url": "https://exawizards.com/integrated-report/business.html",
+    "pass": 1
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "柔軟につくり方から考え、自社の枠にとどまらず、まだ見ぬ市場やビジネスモデルをも生み出します",
+    "url": "https://exawizards.com/company/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "私たち光フードサービスのビジネスモデルは、小箱の立呑み店などを中心とした飲食事業の運営です",
+    "url": "https://exawizards.com/exabase/ir-assistant/case/001/",
+    "pass": 1
+   },
+   {
+    "quote": "エクサウィザーズは創業以来、独自のビジネスモデルである「AIぐるぐるモデル」を回しながら、企業ミッションである「AIを用いた社会課題解決を通じて、幸せな社会を実現する」の達成に向け、日本のAI促進に向き合ってきました",
+    "url": "https://exawizards.com/integrated-report/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "「AIぐるぐるモデル」とは、「現場での実践」と「プロダクト(仕組み)化」を絶え間なく循環させることで、経営から現場まで、企業の課題をAIで本質から解決し続ける、エクサウィザーズグループ独自のビジネスモデルです",
+    "url": "https://exawizards.com/integrated-report/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "「AIで社会課題を解決する」の裏側にある収益構造",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "このセクションでは、エクサウィザーズのビジネスモデルの骨格を整理します",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "この3年間でエクサウィザーズが成し遂げたことを一言でまとめると、「収益構造のエンジンを載せ替えた」ということです",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "受託型のAIソリューションに依存していた収益構造を、粗利率85%のAIプロダクト事業が牽引する構造へと転換しました",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "――御社のビジネスモデルはAIに特化したSIerのようなイメージでしょうか",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20241216_207524.html",
+    "pass": 3
+   },
+   {
+    "quote": "顧客ごとの課題を解決するアプローチと、そこで蓄積したデータ活用の知見やAIアルゴリズムを応用することで汎用的な課題解決につなげ、それを個別SIに活用する価値循環を繰り返すビジネスモデルを確立",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20241216_207524.html",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "パートナーとなって、",
+    "url": "https://exawizards.com/company/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の課題に共鳴し、パートナーとなってともに最適解を考え抜く",
+    "url": "https://exawizards.com/company/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "AIを最高のパートナーに",
+    "url": "https://exawizards.com/company/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "ペネトレーションテストをはじめとする従来型のセキュリティサービスにAIを活用し、より高速かつ広範にAIによるセキュリティを強化するサービスの提供、ならびにAIセキュリティ関連製品の販売・代理店業務",
+    "url": "https://exawizards.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルティング事業、有料職業紹介事業、労働者派遣事業",
+    "url": "https://exawizards.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー企業",
+    "url": "https://exawizards.com/exabase/ir-assistant/",
+    "pass": 1
+   },
+   {
+    "quote": "エクサベース IRアシスタントの最新動向や活用事例、特長についてご紹介しています",
+    "url": "https://exawizards.com/exabase/ir-assistant/",
+    "pass": 1
+   },
+   {
+    "quote": "日本一の立呑みブランドを目指し「立呑み焼きとん大黒」「立呑み魚椿」など4業態で58店舗（2024年5月末時点）を展開している光フードサービス株式会社",
+    "url": "https://exawizards.com/exabase/ir-assistant/case/001/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年2月に上場する以前からDXを進め、FC店を含めて店舗拡大をおこなっても、管理部の間接コストが増えない仕組みを整えてきました",
+    "url": "https://exawizards.com/exabase/ir-assistant/case/001/",
+    "pass": 1
+   },
+   {
+    "quote": "未来を創る挑戦のパートナーとして",
+    "url": "https://exawizards.com/integrated-report/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の成長フェーズに合わせた最適なソリューションで、新時代の成長支援パートナーとして伴走します",
+    "url": "https://exawizards.com/integrated-report/aiss.html",
+    "pass": 1
+   },
+   {
+    "quote": "【目標2】多様な人材の採用を促進するため、人材紹介エージェントに対して当社の良好な就",
+    "url": "https://exawizards.com/wp/wp-content/themes/ew2020/assets/files/company/general_business_owner_action_plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社では年間300件ほどのAI導入プロジェクトを手掛けており、一部は専門的な業務ノウハウを持つビジネスパートナーと組んで業務に役立つ生成AIの実装を進めてきました",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20241216_207524.html",
+    "pass": 3
+   },
+   {
+    "quote": "本社部門や現場の営業担当、店舗の従業員といった職務や業種によって知りたい情報、AIに手伝ってもらいたい内容は全く異なります",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20241216_207524.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社では営業に特化した「exaBase 生成AI for セールス」や店舗を構える業界に特化した「exaBase 生成AI for 店舗」、自治体向け「exaBase 生成AI for 自治体」など業務や業態に最適化した生成AIプロダクトの品ぞろえを増やしています",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20241216_207524.html",
+    "pass": 3
+   },
+   {
+    "quote": "AI活用とデータセキュリティを支える「DataXray」 マクニカが提案する、パートナーのビジネスを加速させる4つのシナリオ",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20241216_207524.html",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "自分の強み×他者の強みの掛け算で価値を生み出そう",
+    "url": "https://exawizards.com/company/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "・令和8 年 4 月～：当社の強み（育児休業取得率の高さ等の客観的データ）の整理",
+    "url": "https://exawizards.com/wp/wp-content/themes/ew2020/assets/files/company/general_business_owner_action_plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上総利益率は3年前の56.1%から今期Q3累計で67.8%まで跳ね上がっています",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "プロダクト事業で高い粗利率を確保しながらスケールさせ、ソリューション事業で大企業の現場に入り込んでニーズを探索し、そこから新たなプロダクトの種を拾う",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率は15.5%",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "売上総利益率がQ3累計で67.8%に達しています",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "【説明資料P.7 連結累計損益計算書──売上総利益率67.8%への改善が一目で分かるPL全体像】",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "AIプロダクト事業の累計売上高は34.36億円（+61.8%）で、売上総利益率は85.0%",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益は13.33億円で、営業利益率38.8%",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "しかし売上総利益率は56.8%（前年50.7%から+6.1pt）に改善し、営業利益は15.00億円（+55.2%）と大幅増益",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "まず、連結の売上総利益率の推移を見てください",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "【売上総利益率の推移──3年間ほぼ横ばいだった粗利率が今期に急改善した様子】",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "しかもこのセグメントの売上総利益率は85.0%",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "粗利率85%の事業が全体の4割を占めるようになれば、連結の粗利率が跳ね上がるのは当然です",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "それが今は、AIプロダクト事業が粗利率85%で成長し、連結の利益を押し上げる構図に完全に反転しています",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "3年間の数字を俯瞰して見えるのは、「受託中心のAIベンチャー」が「高粗利のAIプロダクト会社」へと体質を変えた、という構造転換です",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "エクサウィザーズのAIプロダクト事業が高い粗利率を維持できている背景には、「ソリューション事業で蓄積した業界知見を、プロダクトの機能として再パッケージしている」という循環があるのではないか、という読みです",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "これは仮説ですが、ソリューション事業の売上総利益率が前年の50.7%から56.8%に改善していることは、案件の質が実際に上がっていることを裏付けています",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "もう1つ注目に値するのが、Q3単体の営業利益率の推移です",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "2つ目は、連結売上総利益率",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "受託型のAIソリューションに依存していた収益構造を、粗利率85%のAIプロダクト事業が牽引する構造へと転換しました",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "売上総利益率56%→68%、営業利益率▲7%→+12%",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2016年2月",
+    "url": "https://exawizards.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年10月",
+    "url": "https://exawizards.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年2月",
+    "url": "https://exawizards.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2012年8月",
+    "url": "https://exawizards.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "1995年3月",
+    "url": "https://exawizards.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月",
+    "url": "https://exawizards.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月",
+    "url": "https://exawizards.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月",
+    "url": "https://exawizards.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月",
+    "url": "https://exawizards.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年4月",
+    "url": "https://exawizards.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第２四半期決算発表",
+    "url": "https://exawizards.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月11日（水）15:30",
+    "url": "https://exawizards.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第１四半期",
+    "url": "https://exawizards.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第１四半期 決算説明動画",
+    "url": "https://exawizards.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期第１四半期 決算説明動画",
+    "url": "https://exawizards.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月12日開催",
+    "url": "https://exawizards.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年4月に、生成AIをどのように業務に展開できるか、制約条件なく活用範囲を検討するプロジェクトチームが社内で立ち上がりました",
+    "url": "https://exawizards.com/exabase/ir-assistant/case/003/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年から4年連続で経済産業省や東京証券取引所が選定するDX(デジタルトランスフォーメーション）銘柄に選ばれ、今年度は、特に傑出したDXの取り組みを継続している企業として「DXプラチナ企業2024-2026」に選定されました",
+    "url": "https://exawizards.com/exabase/ir-assistant/case/002/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年2月には、東京証券取引所グロース市場および名古屋証券取引所ネクスト市場に上場しています",
+    "url": "https://exawizards.com/exabase/ir-assistant/case/001/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年2月に上場する以前からDXを進め、FC店を含めて店舗拡大をおこなっても、管理部の間接コストが増えない仕組みを整えてきました",
+    "url": "https://exawizards.com/exabase/ir-assistant/case/001/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度の補正予算(1)",
+    "url": "https://exawizards.com/integrated-report/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期の取引先は2,500社超にのぼります",
+    "url": "https://exawizards.com/integrated-report/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 重要事例",
+    "url": "https://exawizards.com/integrated-report/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年より提供を開始したエクサベース AIはあらゆるビジネスパーソンが利用できる汎用型で、およそ3年で累計導入社数が1,700社を突破しました(2026年7月時点)",
+    "url": "https://exawizards.com/integrated-report/aiproducts.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期は、前年より進めていた構造改革の成果が下期より見え始め、長期大型案件の受託増による売上高の回復および営業利益が成長しました",
+    "url": "https://exawizards.com/integrated-report/aiss.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和 8 年（2026 年）4 月 1 日 ～ 令和10 年（2028 年）3 月 31 日までの2 年間",
+    "url": "https://exawizards.com/wp/wp-content/themes/ew2020/assets/files/company/general_business_owner_action_plan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年2月21日 19:30",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "2016年設立、2021年にグロース市場に上場しました",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期Q3（10-12月の3ヶ月間）の売上高は31.16億円（前年同期比+22.7%）、営業利益は4.81億円（前年同期は0.06億円）",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "2023年3月期（通期）：56.1%",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月期：55.9%",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期：57.8%",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期までは55〜58%のレンジでほぼ横ばいだったものが、今期に入って突然68%に跳ねた",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "2023年3月期：15.9%",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月期：19.5%",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期：30.5%",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "2023年3月期は▲6.92億円の赤字でした",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月期は▲0.34億円とほぼトントン",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期に6.48億円の黒字に転換し、今期Q3累計ではすでに13.33億円",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月期末の無形固定資産は35.44億円",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期末の3.19億円から9ヶ月で5億円以上増えています",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期は▲13.7%→1.7%→0.2%→9.8%",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "1969年、奈良県出身",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20241216_207524.html",
+    "pass": 3
+   },
+   {
+    "quote": "2000年、ディー・エヌ・エー入社",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20241216_207524.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月02日付 vol.2126",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20241216_207524.html",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "自社固有の事業セグメントや展開地域、フォーカス領域を登録",
+    "url": "https://exawizards.com/exabase/ir-assistant/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別売上高",
+    "url": "https://exawizards.com/integrated-report/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "特に2026年３月期は、エクサベース AIを中心とした生成AIプロダクト群が成長を牽引し、AIソリューションサービス事業に並ぶセグメントへと拡大しました",
+    "url": "https://exawizards.com/integrated-report/aiproducts.html",
+    "pass": 1
+   },
+   {
+    "quote": "※Dr.Telの業績はAIプロダクト事業セグメントに区分されています",
+    "url": "https://exawizards.com/integrated-report/aiss.html",
+    "pass": 1
+   },
+   {
+    "quote": "直近の決算数字を読み解いたうえで、3年間の経年データから「なぜこの利益率が実現できているのか」を、セグメント・BS・CFを横断して掘り下げます",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "事業は大きく2つのセグメントに分かれます",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別に見ると、この変化の震源地が見えます",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "この「急変」の理由は、セグメント構成比の変化で説明できます",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "しかもこのセグメントの売上総利益率は85.0%",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "【AIプロダクト事業の外部売上高・セグメント利益の累計推移──赤字から13億円超の利益へ】",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "もう1つ見逃せないのが、AIプロダクト事業のセグメント利益の変遷です",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "AIプロダクト事業の構成比がさらに上がれば70%超えも視野に入りますが、ソリューション事業が再成長してミックスが変われば下がる可能性もあります",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "AIプロダクト事業の売上構成比は41%",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "こちらは高単価案件へのシフトとAI活用による生産性向上が効いている構図です",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "Q3のAIプロダクト事業は、exaBase DXアセスメント＆ラーニングのAX人材育成サービスへの転換に伴い一時的に減収（Q3単体で1.84億円、前年同期は3.07億円）となりましたが、exaBase 生成AIの従量課金（エージェントコレクション）やAI Innovators Forumのスポンサー収入がこれを吸収して余りあった形です",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "成長戦略説明資料 - エクサウィザーズ — 成長戦略説明資料 - エクサウィザーズ 株式会社エクサウィザーズ PDF https://exawizards.com > themes > assets > files > Gr...",
+    "url": "https://exawizards.com/wp/wp-content/themes/ew2020/assets/files/ir/GrowthStrategyHighlights_202308_jp.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "増収なのに原価が減る会社 エクサウィザーズ 3年間の\"体質 ... — 増収なのに原価が減る会社 エクサウィザーズ 3年間の\"体質 ... note https://note.com > ビジネス > 会計・財務・経理",
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容 | 採用情報 - 株式会社 エクサウィザーズ — 事業内容 | 採用情報 - 株式会社 エクサウィザーズ 株式会社エクサウィザーズ https://recruit.exawizards.com > business",
+    "url": "https://recruit.exawizards.com/business",
+    "pass": 3
+   },
+   {
+    "quote": "exaBase Empower | 株式会社 エクサウィザーズ — exaBase Empower | 株式会社 エクサウィザーズ 株式会社エクサウィザーズ https://exawizards.com > exabase > empower",
+    "url": "https://exawizards.com/exabase/empower/",
+    "pass": 3
+   },
+   {
+    "quote": "事業概要 - 株式会社 エクサウィザーズ — 事業概要 - 株式会社 エクサウィザーズ 株式会社エクサウィザーズ https://exawizards.com > business",
+    "url": "https://exawizards.com/business/",
+    "pass": 3
+   },
+   {
+    "quote": "決算資料 - 株式会社 エクサウィザーズ — 決算資料 - 株式会社 エクサウィザーズ 株式会社エクサウィザーズ https://exawizards.com > IR情報 > 資料",
+    "url": "https://exawizards.com/ir/library/result/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 - 株式会社 エクサウィザーズ — IR情報 - 株式会社 エクサウィザーズ 株式会社エクサウィザーズ https://exawizards.com > ...",
+    "url": "https://exawizards.com/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "動画ライブラリー - 株式会社 エクサウィザーズ — 動画ライブラリー - 株式会社 エクサウィザーズ 株式会社エクサウィザーズ https://exawizards.com > IR情報 > 資料",
+    "url": "https://exawizards.com/ir/library/video/",
+    "pass": 3
+   },
+   {
+    "quote": "IRカレンダー - エクサウィザーズ — IRカレンダー - エクサウィザーズ 株式会社エクサウィザーズ https://exawizards.com > IR情報",
+    "url": "https://exawizards.com/ir/calendar/",
+    "pass": 3
+   },
+   {
+    "quote": "財務ハイライト - 株式会社 エクサウィザーズ — 財務ハイライト - 株式会社 エクサウィザーズ 株式会社エクサウィザーズ https://exawizards.com > IR情報",
+    "url": "https://exawizards.com/ir/highlight/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 エクサウィザーズ — 株式会社 エクサウィザーズ 株式会社エクサウィザーズ https://exawizards.com",
+    "url": "https://exawizards.com/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AI活用の”活用停滞”を解消する「AX推進支援パッケージ ... — 生成AI活用の”活用停滞”を解消する「AX推進支援パッケージ ... 株式会社エクサウィザーズ https://exawizards.com > archives",
+    "url": "https://exawizards.com/archives/32963/",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 - 株式会社 エクサウィザーズ — 企業情報 - 株式会社 エクサウィザーズ 株式会社エクサウィザーズ https://exawizards.com > company",
+    "url": "https://exawizards.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "当社 事業 理解のために - 株式会社 エクサウィザーズ — 当社 事業 理解のために - 株式会社 エクサウィザーズ 株式会社エクサウィザーズ https://exawizards.com > IR情報",
+    "url": "https://exawizards.com/ir/individual/",
+    "pass": 3
+   },
+   {
+    "quote": "代表取締役 社長 ・石山洸の インタビュー 記事がbizbleに掲載 ... — 代表取締役 社長 ・石山洸の インタビュー 記事がbizbleに掲載 ... 株式会社エクサウィザーズ https://exawizards.com > archives",
+    "url": "https://exawizards.com/archives/18438/",
+    "pass": 3
+   },
+   {
+    "quote": "エクサウィザーズ 代表取締役 社長 春田 真 - 週刊BCN+ — エクサウィザーズ 代表取締役 社長 春田 真 - 週刊BCN+ 週刊BCN＋ https://www.weeklybcn.com > journal > keyperson > detail",
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20241216_207524.html",
+    "pass": 3
+   },
+   {
+    "quote": "エクサウィザーズ 石山 洸 氏 インタビュー - YouTube — エクサウィザーズ 石山 洸 氏 インタビュー - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=otEAYHmy2dI",
+    "pass": 3
+   },
+   {
+    "quote": "ExaWizards／ エクサウィザーズ on X — ExaWizards／ エクサウィザーズ on X X https://x.com > @ExaWizards",
+    "url": "https://x.com/ExaWizards/status/1988053276554916206",
+    "pass": 3
+   },
+   {
+    "quote": "エクサウィザーズ - Wikipedia — エクサウィザーズ - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > エクサウィザーズ",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%A6%E3%82%A3%E3%82%B6%E3%83%BC%E3%82%BA",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://exawizards.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://exawizards.com/company/aboutus/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://exawizards.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://exawizards.com/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://exawizards.com/exabase/ir-assistant/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://exawizards.com/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://exawizards.com/exabase/ir-assistant/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://exawizards.com/exabase/ir-assistant/case/005/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://exawizards.com/exabase/ir-assistant/case/003/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://exawizards.com/exabase/ir-assistant/case/002/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://exawizards.com/exabase/ir-assistant/case/001/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://exawizards.com/exabase/ir-assistant/case/004/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://exawizards.com/integrated-report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://exawizards.com/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://exawizards.com/ir/library/result/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://exawizards.com/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://exawizards.com/ir/library/securities/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://exawizards.com/integrated-report/business.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://exawizards.com/integrated-report/aiproducts.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://exawizards.com/integrated-report/aiss.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://exawizards.com/ir/company/disclosure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://exawizards.com/ir/company/governance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://exawizards.com/ir/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://exawizards.com/ir/highlight/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://exawizards.com/ir/stock/overview/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://exawizards.com/wp/wp-content/themes/ew2020/assets/files/company/general_business_owner_action_plan.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://exawizards.com/wp/wp-content/themes/ew2020/assets/files/company/contact_for_misconduct.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://exawizards.com/wp/wp-content/themes/ew2020/assets/images/business/lineup-ja.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://exawizards.com/wp/wp-content/themes/ew2020/assets/images/index/company-business.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.weeklybcn.com/journal/keyperson/detail/20241216_207524.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "エクサウィザーズ",
+   "results": [
+    "https://exawizards.com/",
+    "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%A6%E3%82%A3%E3%82%B6%E3%83%BC%E3%82%BA",
+    "https://x.com/ExaWizards",
+    "https://www.openwork.jp/company.php?m_id=a0C10000018dpsz",
+    "https://kabutan.jp/stock/?code=4259",
+    "https://exawizards.com/ir/",
+    "https://finance.yahoo.co.jp/quote/4259.T",
+    "https://shikiho.toyokeizai.net/stocks/4259",
+    "https://irbank.net/E37158",
+    "https://irbank.net/4259"
+   ]
+  },
+  {
+   "query": "エクサウィザーズ ビジネスモデル",
+   "results": [
+    "https://exawizards.com/wp/wp-content/themes/ew2020/assets/files/ir/GrowthStrategyHighlights_202308_jp.pdf",
+    "https://note.com/honest_serval46/n/nb3c06b0029b1",
+    "https://recruit.exawizards.com/business",
+    "https://exawizards.com/exabase/empower/",
+    "https://exawizards.com/business/",
+    "https://open.talentio.com/r/1/c/exwzd/pages/82423",
+    "https://exawizards.com/archives/32561/",
+    "https://kitaishihon.com/company/4259/story",
+    "https://recruit.exawizards.com/newgrads/biz",
+    "https://consovation.com/成長戦略とビジネスモデルを徹底解剖-aiが導く株/"
+   ]
+  },
+  {
+   "query": "エクサウィザーズ 決算説明資料",
+   "results": [
+    "https://exawizards.com/ir/library/result/",
+    "https://exawizards.com/ir/",
+    "https://exawizards.com/ir/library/video/",
+    "https://exawizards.com/ir/calendar/",
+    "https://exawizards.com/ir/highlight/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260812518009/",
+    "https://www.youtube.com/playlist?list=PLtfBxQCOy2n8TaITRA6_6JONYpZBpnjFn",
+    "https://exawizards.com/ir/faq/",
+    "https://www.buffett-code.com/company/4259/library",
+    "https://irbank.net/4259/ir"
+   ]
+  },
+  {
+   "query": "エクサウィザーズ 事業系統図",
+   "results": [
+    "https://exawizards.com/",
+    "https://exawizards.com/archives/32963/",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250625/20250625599418.pdf",
+    "https://exawizards.com/company/",
+    "https://exawizards.com/ir/individual/",
+    "https://speakerdeck.com/exawizards/company",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260625579922",
+    "https://exawizards.com/company/boardmember/",
+    "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%A6%E3%82%A3%E3%82%B6%E3%83%BC%E3%82%BA",
+    "https://ja.wikipedia.org/wiki/エクサウィザーズ"
+   ]
+  },
+  {
+   "query": "エクサウィザーズ 社長 インタビュー",
+   "results": [
+    "https://exawizards.com/archives/18438/",
+    "https://www.weeklybcn.com/journal/keyperson/detail/20241216_207524.html",
+    "https://www.youtube.com/watch?v=otEAYHmy2dI",
+    "https://x.com/ExaWizards/status/1988053276554916206",
+    "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%A6%E3%82%A3%E3%82%B6%E3%83%BC%E3%82%BA",
+    "https://www.kandc.com/eng/interview/003/",
+    "https://exawizards.com/archives/26532/",
+    "https://www.businessinsider.jp/series/kou-ishiyama/",
+    "https://www.youtube.com/watch?v=mneIUBL-9C0&vl=ja",
+    "https://ja.wikipedia.org/wiki/石山洸"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像4件／外部2頁・検索5回）"
+ }
+}

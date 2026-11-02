@@ -1,0 +1,1478 @@
+{
+ "name": "ニフコ",
+ "aliases": [],
+ "context": "証券コード7988／化学／プライム（内国株式）／2026.03期 売上高352,650百万円 営業利益率13.6%",
+ "researched_at": "2026-11-02T19:19:34.095805+00:00",
+ "official_url": "https://www.nifco.com/",
+ "identified_by": "search:yahoo_jp:ニフコ",
+ "profile": {
+  "設立": [
+   {
+    "label": "会社設立",
+    "value": "1967年2月13日",
+    "url": "https://www.nifco.com/company/overview.html",
+    "pass": 1
+   },
+   {
+    "label": "創業年月日を教えてください。",
+    "value": "1967年2月13日です。 2018年に創業50周年を迎えました。",
+    "url": "https://www.nifco.com/contact/faq.html",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "3,526億円（連結）／ 990億円（単体）（2026年3月期）",
+    "url": "https://www.nifco.com/company/overview.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "8,886名（連結）／ 1,412名（単体）（2026年3月31日）",
+    "url": "https://www.nifco.com/company/overview.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "エンジニアリングプラスチック製品（工業用ファスナー、精密成形製品）他",
+    "url": "https://www.nifco.com/company/overview.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "製品・技術トップ",
+    "url": "https://www.nifco.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・技術のお知らせ",
+    "url": "https://www.nifco.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ファスナー製品サイト",
+    "url": "https://www.nifco.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ダンパー製品サイト",
+    "url": "https://www.nifco.com/",
+    "pass": 1
+   },
+   {
+    "quote": "バックル製品サイト",
+    "url": "https://www.nifco.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・技術情報",
+    "url": "https://www.nifco.com/",
+    "pass": 1
+   },
+   {
+    "quote": "「製品・技術のお知らせ」一覧を見る",
+    "url": "https://www.nifco.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ニフコの製品",
+    "url": "https://www.nifco.com/",
+    "pass": 1
+   },
+   {
+    "quote": "錆びない、軽い、扱いやすいという樹脂の特長を最大限に活かしたニフコの製品は、自動車をはじめ住生活空間の様々なシーンで活躍しています",
+    "url": "https://www.nifco.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ",
+    "url": "https://www.nifco.com/",
+    "pass": 1
+   },
+   {
+    "quote": "つなぐ・束ねる・結びつけるという役割をもつ製品です",
+    "url": "https://www.nifco.com/",
+    "pass": 1
+   },
+   {
+    "quote": "電気などの動力を使わずに、滑らかな動きを実現する製品です",
+    "url": "https://www.nifco.com/",
+    "pass": 1
+   },
+   {
+    "quote": "サイドリリースバックルやコードロックなど、アパレル・バックパック・シューズなどに使用されている製品です",
+    "url": "https://www.nifco.com/",
+    "pass": 1
+   },
+   {
+    "quote": "「HAJICHECK」は楽しみながら足の握力（はじ力）を測定・トレーニングできる製品です",
+    "url": "https://www.nifco.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ニフコの自動車アフターマーケット事業の取り組み：高度整備における課題解決ソリューションを紹介します",
+    "url": "https://www.nifco.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・技術トップ",
+    "url": "https://www.nifco.com/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・技術のお知らせ",
+    "url": "https://www.nifco.com/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "ファスナー製品サイト",
+    "url": "https://www.nifco.com/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "ダンパー製品サイト",
+    "url": "https://www.nifco.com/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "バックル製品サイト",
+    "url": "https://www.nifco.com/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニフコのユニークな工業用プラスチックファスナーは、錆びない・軽い・扱いやすいというプラスチックの特長を最大限に生かし、金属製品が主流だった産業界に大きな驚きを与えました",
+    "url": "https://www.nifco.com/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニフコの部品は、自動車などの製品のモノづくりの現場の作業負担を軽くするだけでなく、その軽量化と、環境・安全・快適性能の向上にも貢献しています",
+    "url": "https://www.nifco.com/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "どんな製品を",
+    "url": "https://www.nifco.com/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "「つなぐ・束ねる・結びつける」という役割を担うこの製品は、手のひらに乗るサイズの小さな「留め具」です",
+    "url": "https://www.nifco.com/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "【製品取付例：プッシュプルリベット】",
+    "url": "https://www.nifco.com/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニフコの製品は自動車の様々な領域に！",
+    "url": "https://www.nifco.com/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニフコの製品はプラスチックファスナーだけではありません",
+    "url": "https://www.nifco.com/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "電気などの動力を使用せずに滑らかな動きを実現する小型ダンパー、プッシュオープンの概念を世界に広めた浮き出しラッチ、環境規制に対応した燃料タンクシステム向け製品、より高度な設計能力が求められるエンジン・トランスミッション関連製品など、私たちは次々とアイデアと技術力のつまった製品を生み出し続け、今日に至っております",
+    "url": "https://www.nifco.com/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "よく使われている製品は？",
+    "url": "https://www.nifco.com/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニフコの製品は自動車以外にも！",
+    "url": "https://www.nifco.com/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニフコの製品は、錆びない・軽い・扱いやすいというプラスチックの特長を最大限に生かしたものです",
+    "url": "https://www.nifco.com/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "例えば、なめらかな動きで高級感を演出する小型ダンパーは、元々は家電製品向けに開発された製品です",
+    "url": "https://www.nifco.com/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "付加価値の高い製品を創り、更に価値と価値を結びつけ、新たな価値を生み出す",
+    "url": "https://www.nifco.com/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "こうして独創的な製品を提案することで、私たちはお客様の抱える要望や課題にお応えしてまいりました",
+    "url": "https://www.nifco.com/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "国産の自動車1台あたりでは、ニフコの製品が700点以上も使用されています",
+    "url": "https://www.nifco.com/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "更に製品機能を評価する設備を積極的に導入しています",
+    "url": "https://www.nifco.com/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、量産の自動化を図ることで納期と品質を守り、安定して高品質の製品をお客様に供給し続けています",
+    "url": "https://www.nifco.com/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニフコの製品は、世界中の様々な業界のお客様に採用いただいています",
+    "url": "https://www.nifco.com/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニフコの製品は、皆さんの半径1メートルの範囲から地球の裏側まで、様々なところで活躍しています",
+    "url": "https://www.nifco.com/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・技術トップ",
+    "url": "https://www.nifco.com/company/overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・技術のお知らせ",
+    "url": "https://www.nifco.com/company/overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "ファスナー製品サイト",
+    "url": "https://www.nifco.com/company/overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "ダンパー製品サイト",
+    "url": "https://www.nifco.com/company/overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "バックル製品サイト",
+    "url": "https://www.nifco.com/company/overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリングプラスチック製品（工業用ファスナー、精密成形製品）他",
+    "url": "https://www.nifco.com/company/overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・技術トップ",
+    "url": "https://www.nifco.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・技術のお知らせ",
+    "url": "https://www.nifco.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ファスナー製品サイト",
+    "url": "https://www.nifco.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ダンパー製品サイト",
+    "url": "https://www.nifco.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "バックル製品サイト",
+    "url": "https://www.nifco.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "現在では、ニフコはプラスチックファスナーだけではなく、錆びない、軽い、扱いやすいというプラスチックの特長を最大限に活かした製品を産業界に送り出し続けています",
+    "url": "https://www.nifco.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニフコ第1号製品のプラスティリベット",
+    "url": "https://www.nifco.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・技術トップ",
+    "url": "https://www.nifco.com/company/directors.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・技術のお知らせ",
+    "url": "https://www.nifco.com/company/directors.html",
+    "pass": 1
+   },
+   {
+    "quote": "ファスナー製品サイト",
+    "url": "https://www.nifco.com/company/directors.html",
+    "pass": 1
+   },
+   {
+    "quote": "ダンパー製品サイト",
+    "url": "https://www.nifco.com/company/directors.html",
+    "pass": 1
+   },
+   {
+    "quote": "バックル製品サイト",
+    "url": "https://www.nifco.com/company/directors.html",
+    "pass": 1
+   },
+   {
+    "quote": "中国5拠点統括 兼 東莞利富高塑料製品有限公司 総経理＆CEO",
+    "url": "https://www.nifco.com/company/directors.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・技術トップ",
+    "url": "https://www.nifco.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・技術のお知らせ",
+    "url": "https://www.nifco.com/ir/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "「第74回定時株主総会招集ご通知」および「役員指名ポリシーおよび役員報酬ポリシー」",
+    "url": "https://www.nifco.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ニフコの自動車アフターマーケット事業の取り組み：高度整備における課題解決ソリューションを紹介します",
+    "url": "https://www.nifco.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ニフコのサステナビリティについての取り組みをご紹介します",
+    "url": "https://www.nifco.com/",
+    "pass": 1
+   },
+   {
+    "quote": "役員紹介 | 株式会社ニフコ",
+    "url": "https://www.nifco.com/company/directors.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、指名・報酬・ガバナンス委員会における審議を経て、2026年5月14日開催の取締役会において、2026年度以降の役員指名ポリシーおよび役員報酬ポリシーにつき決議いたしました",
+    "url": "https://www.nifco.com/ir/general-meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "役員指名ポリシーおよび役員報酬ポリシーに関するお知らせ",
+    "url": "https://www.nifco.com/ir/general-meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "役員指名ポリシーおよび役員報酬ポリシー",
+    "url": "https://www.nifco.com/ir/sitemap.html",
+    "pass": 1
+   },
+   {
+    "quote": "役員指名ポリシーおよび役員報酬ポリシー",
+    "url": "https://www.nifco.com/csr/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "「第74回定時株主総会招集ご通知」および「役員指名ポリシーおよび役員報酬ポリシー」 | 株式会社ニフコ",
+    "url": "https://www.nifco.com/news/detail/2026shoushuu.html",
+    "pass": 1
+   },
+   {
+    "quote": "「第74回定時株主総会招集ご通知」および「役員指名ポリシーおよび役員報酬ポリシー」",
+    "url": "https://www.nifco.com/news/detail/2026shoushuu.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、指名・報酬・ガバナンス委員会における審議を経て、2026年5月14日開催の取締役会において、2026年度以降の役員指名ポリシーおよび役員報酬ポリシーにつき決議いたしました",
+    "url": "https://www.nifco.com/news/detail/2026shoushuu.html",
+    "pass": 1
+   },
+   {
+    "quote": "「2026年度以降の役員指名ポリシーおよび役員報酬ポリシー」",
+    "url": "https://www.nifco.com/news/detail/2026shoushuu.html",
+    "pass": 1
+   },
+   {
+    "quote": "バッグ・服飾などに付属された弊社製品を通常使用で破損・紛失された場合、ご購入されました販売店を通してバッグ・服飾製造メーカー様へお問合せ願います",
+    "url": "https://www.nifco.com/contact/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "弊社バックル製品は、代理店販売とさせていただいております",
+    "url": "https://www.nifco.com/contact/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "「お問い合わせ内容」に「代理店紹介希望」であること、品番・購入予定数量・必要事項などを明記の上、送信願います",
+    "url": "https://www.nifco.com/contact/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "役員指名ポリシーおよび役員報酬ポリシーに関するお知らせ",
+    "url": "https://www.nifco.com/csr/governance/pdf/2026NominationPolicies.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、2026 年５月 14 日開催の取締役会において、2026 年度以降の 役員指名ポリシー および 役員報",
+    "url": "https://www.nifco.com/csr/governance/pdf/2026NominationPolicies.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【役員指名ポリシー】",
+    "url": "https://www.nifco.com/csr/governance/pdf/2026NominationPolicies.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、CEO の選任にあたっては、上記の CEO の人材要件に基づき、指名・報酬・ガバナンス委",
+    "url": "https://www.nifco.com/csr/governance/pdf/2026NominationPolicies.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "CEO の解任については、次に定める解任基準に該当する疑いを生じさせる行為があった場合は、速やかに指名・報",
+    "url": "https://www.nifco.com/csr/governance/pdf/2026NominationPolicies.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、指名・報酬・ガバナンス委員会は、毎年、上記の CEO の人材要件および業績等に基づき CEO の評価を行",
+    "url": "https://www.nifco.com/csr/governance/pdf/2026NominationPolicies.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "CEO の後継者計画は、上記の CEO の人材要件に基づき、指名・報酬・ガバナンス委員会にて審議します",
+    "url": "https://www.nifco.com/csr/governance/pdf/2026NominationPolicies.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "には、指名・報酬・ガバナンス委員会にて協議・策定した選定プロセスを基に、候補者プールの作成と更新、外部専門",
+    "url": "https://www.nifco.com/csr/governance/pdf/2026NominationPolicies.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取締役の選解任基準や指名の決定プロセスの独立性・客観性・透明性 を高めるために、取締役会の諮問機関とし",
+    "url": "https://www.nifco.com/csr/governance/pdf/2026NominationPolicies.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "て、委員長および委員の過半数を独立社外取締役とする指名・報酬委員会を 2018 年 12 月 10 日に設置しており",
+    "url": "https://www.nifco.com/csr/governance/pdf/2026NominationPolicies.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、今後のガバナンスに対する取組をより強化するために、2020 年 10 月 28 日に指名・報酬・ガバナンス委員",
+    "url": "https://www.nifco.com/csr/governance/pdf/2026NominationPolicies.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名・報酬・ガバナンス委員会は、原則として年 4 回以上実施することとしており、取締",
+    "url": "https://www.nifco.com/csr/governance/pdf/2026NominationPolicies.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、社外からの客観的視点および指名に関する専門的知見を導入するため、指名・報酬・ガバナンス委員会は、",
+    "url": "https://www.nifco.com/csr/governance/pdf/2026NominationPolicies.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "各役員の管掌領域により個別に設定し、指名・報酬・ガバナンス",
+    "url": "https://www.nifco.com/csr/governance/pdf/2026NominationPolicies.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "期間中に取締役会が重大な不適切行為があったと判断した場合には、取締役会が、指名・報酬・ガバナンス委員会の",
+    "url": "https://www.nifco.com/csr/governance/pdf/2026NominationPolicies.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "員の過半数を独立社外取締役とする指名・報酬委員会を 2018 年 12 月 10 日に設置しております",
+    "url": "https://www.nifco.com/csr/governance/pdf/2026NominationPolicies.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "バナンスに対する取組をより強化するために、2020 年 10 月 28 日に指名・報酬・ガバナンス委員会に名称を変更して",
+    "url": "https://www.nifco.com/csr/governance/pdf/2026NominationPolicies.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名・報酬・ガバナンス委員会は、原則として年４回以上実施することとしており、個人別の報酬額や定性評",
+    "url": "https://www.nifco.com/csr/governance/pdf/2026NominationPolicies.pdf",
+    "pass": 2
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2027年３月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+    "url": "https://www.nifco.com/",
+    "pass": 1
+   },
+   {
+    "quote": "1967年2月13日",
+    "url": "https://www.nifco.com/company/overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "1967年（昭和42年）",
+    "url": "https://www.nifco.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1970年（昭和45年）",
+    "url": "https://www.nifco.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1972年（昭和47年）",
+    "url": "https://www.nifco.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1975年、PR映画「小さな巨人」は",
+    "url": "https://www.nifco.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1977年（昭和52年）",
+    "url": "https://www.nifco.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1978年エレクトロニクスショー出展時の様子",
+    "url": "https://www.nifco.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1978年、第10回プラスチック大賞を受賞",
+    "url": "https://www.nifco.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1979年（昭和54年）",
+    "url": "https://www.nifco.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1983年（昭和58年）",
+    "url": "https://www.nifco.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1984年（昭和59年）",
+    "url": "https://www.nifco.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1984年横浜市戸塚区に新設された旧戸塚本社",
+    "url": "https://www.nifco.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1985年（昭和60年）",
+    "url": "https://www.nifco.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1986年（昭和61年）",
+    "url": "https://www.nifco.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1986年米国進出",
+    "url": "https://www.nifco.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1987年（昭和62年）",
+    "url": "https://www.nifco.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1988年（昭和63年）",
+    "url": "https://www.nifco.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1990年（平成2年）",
+    "url": "https://www.nifco.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1990年港区に新設された東京支社はジャパンタイムズ・ニフコビルに入居",
+    "url": "https://www.nifco.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1991年（平成3年）",
+    "url": "https://www.nifco.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1996年（平成8年）",
+    "url": "https://www.nifco.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1997年（平成9年）",
+    "url": "https://www.nifco.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1998年（平成10年）",
+    "url": "https://www.nifco.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1998年ISO9001の認証を取得",
+    "url": "https://www.nifco.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2001年（平成13年）",
+    "url": "https://www.nifco.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2002年（平成14年）",
+    "url": "https://www.nifco.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月24日現在",
+    "url": "https://www.nifco.com/company/directors.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期（2026年度）については、",
+    "url": "https://www.nifco.com/ir/financial-results-briefing.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期（2025年度）",
+    "url": "https://www.nifco.com/ir/financial-results-briefing.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 決算短信〔日本基準〕（連結）",
+    "url": "https://www.nifco.com/ir/financial-results-briefing.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度 決算概要",
+    "url": "https://www.nifco.com/ir/financial-results-briefing.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.nifco.com/ir/financial-results-briefing.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度 第3四半期決算概要",
+    "url": "https://www.nifco.com/ir/financial-results-briefing.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第2四半期（中間期）決算短信〔日本基準〕（連結）",
+    "url": "https://www.nifco.com/ir/financial-results-briefing.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度 第2四半期決算概要",
+    "url": "https://www.nifco.com/ir/financial-results-briefing.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第1四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.nifco.com/ir/financial-results-briefing.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度 第1四半期決算概要",
+    "url": "https://www.nifco.com/ir/financial-results-briefing.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期（2024年度）",
+    "url": "https://www.nifco.com/ir/financial-results-briefing.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 決算短信〔日本基準〕（連結）",
+    "url": "https://www.nifco.com/ir/financial-results-briefing.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度 決算概要",
+    "url": "https://www.nifco.com/ir/financial-results-briefing.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第3四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.nifco.com/ir/financial-results-briefing.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度 第3四半期決算概要",
+    "url": "https://www.nifco.com/ir/financial-results-briefing.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第2四半期（中間期）決算短信〔日本基準〕（連結）",
+    "url": "https://www.nifco.com/ir/financial-results-briefing.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度 第2四半期決算概要",
+    "url": "https://www.nifco.com/ir/financial-results-briefing.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第1四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.nifco.com/ir/financial-results-briefing.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度 第1四半期決算概要",
+    "url": "https://www.nifco.com/ir/financial-results-briefing.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期（2023年度）",
+    "url": "https://www.nifco.com/ir/financial-results-briefing.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 決算短信〔日本基準〕（連結）",
+    "url": "https://www.nifco.com/ir/financial-results-briefing.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度 決算概要",
+    "url": "https://www.nifco.com/ir/financial-results-briefing.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第3四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.nifco.com/ir/financial-results-briefing.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度 第3四半期決算概要",
+    "url": "https://www.nifco.com/ir/financial-results-briefing.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第2四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.nifco.com/ir/financial-results-briefing.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月24日",
+    "url": "https://www.nifco.com/ir/general-meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月05日",
+    "url": "https://www.nifco.com/ir/general-meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年06月30日",
+    "url": "https://www.nifco.com/ir/general-meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年06月24日",
+    "url": "https://www.nifco.com/ir/general-meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年06月11日",
+    "url": "https://www.nifco.com/ir/general-meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年06月05日",
+    "url": "https://www.nifco.com/ir/general-meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年06月28日",
+    "url": "https://www.nifco.com/ir/general-meeting.html",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "今後もニフコは、自動車・住宅・家電・スポーツなど多様な分野において、お客様や社会の課題に向き合って生まれる小さな気づきと技術をつなぎ、心地よい生活と持続可能な社会を創造します",
+    "url": "https://www.nifco.com/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニフコの最大の強みは、業界を問わずお客様のニーズにお応えしてきた提案力です",
+    "url": "https://www.nifco.com/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "創業以来一貫して、お客様が持っている問題点を解決する「提案型営業」を展開してまいりました",
+    "url": "https://www.nifco.com/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "こうして独創的な製品を提案することで、私たちはお客様の抱える要望や課題にお応えしてまいりました",
+    "url": "https://www.nifco.com/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の期待に応えたい",
+    "url": "https://www.nifco.com/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、量産の自動化を図ることで納期と品質を守り、安定して高品質の製品をお客様に供給し続けています",
+    "url": "https://www.nifco.com/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "この品質対応力で培った信頼により、世界各地のお客様とお取引いただいており、",
+    "url": "https://www.nifco.com/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のニーズは世界各地の様々な業界に及びます",
+    "url": "https://www.nifco.com/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "常にお客様に最適な対応が可能な体制を構築しております",
+    "url": "https://www.nifco.com/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニフコの製品は、世界中の様々な業界のお客様に採用いただいています",
+    "url": "https://www.nifco.com/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、「価値共創」というスローガンのもと、感性価値と普遍的価値（安全・環境・快適）を追求した商品開発、顧客密着による提案営業、\"ニフコ\"ブランドの社内外への浸透を強化すると共に、既存ビジネス強化や新規事業探索へのさらなる成長投資を通じて不確実な未来を切り開き、長期ビジョンの実現にチャレンジしてまいります",
+    "url": "https://www.nifco.com/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動車業界向けでは、ニフコの強みである提案営業（顧客の期待を超える提案）をより強化し、エンジン車 / ハイブリッド車 / EVなど全方位での更なる成長を目指します",
+    "url": "https://www.nifco.com/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "各従業員が個々に持つ「My Purpose」を起点に、当社のValues（価値観）を通じて、Mission（使命）を果たし、当社のPurpose（存在意義）を実現することにより、今後も、ニフコらしさを追求しながら持続的に成長し、従業員、お客様、株主、投資家、ユーザー、協力会社、地域社会など全てのステークホルダーから信頼され続ける企業となることを目指します",
+    "url": "https://www.nifco.com/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "どこで購入することができますか？（個人のお客様）",
+    "url": "https://www.nifco.com/contact/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニフコのバックルを購入したいのですが、どうすれば購入できますか？（法人のお客様）",
+    "url": "https://www.nifco.com/contact/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご購入を希望されるお客様は、お手数ですが「",
+    "url": "https://www.nifco.com/contact/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "PCをご利用のお客様",
+    "url": "https://www.nifco.com/contact/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様がご利用される端末の設定、一部のブラウザ、アプリケーションでは、正常に表示されない、または意図しない表示となることがございます",
+    "url": "https://www.nifco.com/contact/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "スマートフォン・タブレットをご利用のお客様",
+    "url": "https://www.nifco.com/contact/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "7. 顧客基盤(1台当たり平均搭載金額および顧客構成)",
+    "url": "https://www.nifco.com/ir/pdf/20241107JP_Summary_of_Financial_Results_2Q_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "7. 顧客基盤(1台当たり平均搭載金額および顧客構成)",
+    "url": "https://www.nifco.com/ir/pdf/FY2022_2Q20221108%EF%BD%8D_JPN.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "平均搭載金額増加と顧客多様化が進展",
+    "url": "https://www.nifco.com/ir/pdf/FY2022_2Q20221108%EF%BD%8D_JPN.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 日系・韓国系・欧州系等幅広い顧客を有し、今期も平均搭載額が増加継続",
+    "url": "https://www.nifco.com/ir/pdf/FY2022_2Q20221108%EF%BD%8D_JPN.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 多様な顧客構成によるリスク軽減",
+    "url": "https://www.nifco.com/ir/pdf/FY2022_2Q20221108%EF%BD%8D_JPN.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "安定した顧客構成と、供給課題・コスト増には機敏に対応",
+    "url": "https://www.nifco.com/ir/pdf/FY2022_2Q20221108%EF%BD%8D_JPN.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "社員、お客様、株主、投資家、 ユーザー、協力会社、地域社会 など全てのステークホルダーから信頼され続ける企業と",
+    "url": "https://www.nifco.com/csr/governance/pdf/2026NominationPolicies.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ビジョン・戦略の構築 市場やユーザーの将来像を洞察し、競争優位を生むビジネスモデルや戦略を",
+    "url": "https://www.nifco.com/csr/governance/pdf/2026NominationPolicies.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（２）独立性・客観性・透明性の高い報酬制度とし、従業員、お客様、株主等のステークホルダーに対する説明責",
+    "url": "https://www.nifco.com/csr/governance/pdf/2026NominationPolicies.pdf",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "ニフコの強みを",
+    "url": "https://www.nifco.com/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニフコの最大の強みは、業界を問わずお客様のニーズにお応えしてきた提案力です",
+    "url": "https://www.nifco.com/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動車業界向けでは、ニフコの強みである提案営業（顧客の期待を超える提案）をより強化し、エンジン車 / ハイブリッド車 / EVなど全方位での更なる成長を目指します",
+    "url": "https://www.nifco.com/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "営業利益／営業利益率",
+    "url": "https://www.nifco.com/ir/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "アナリストや投資家の関心事項も、業績や財政状況のみならず当社の強みや弱み、強みが生み出される企業カルチャーとその背景、強みが継続される教育体制等ソフト面にもわたっております",
+    "url": "https://www.nifco.com/ir/dialogue.html",
+    "pass": 1
+   },
+   {
+    "quote": "• 四半期営業利益率14％超え",
+    "url": "https://www.nifco.com/ir/pdf/20241107JP_Summary_of_Financial_Results_2Q_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 累計（上期）営業利益率も14％超え",
+    "url": "https://www.nifco.com/ir/pdf/20241107JP_Summary_of_Financial_Results_2Q_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率:",
+    "url": "https://www.nifco.com/ir/pdf/20241107JP_Summary_of_Financial_Results_2Q_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 +3.1%pts",
+    "url": "https://www.nifco.com/ir/pdf/20241107JP_Summary_of_Financial_Results_2Q_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 営業利益率は1Qに比べても改善",
+    "url": "https://www.nifco.com/ir/pdf/20241107JP_Summary_of_Financial_Results_2Q_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 ｰ",
+    "url": "https://www.nifco.com/ir/pdf/20241107JP_Summary_of_Financial_Results_2Q_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率10.3%を達成",
+    "url": "https://www.nifco.com/ir/pdf/FY2022_2Q20221108%EF%BD%8D_JPN.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "難しい事業環境が続く中で、概ね二桁の営業利益率を堅持",
+    "url": "https://www.nifco.com/ir/pdf/FY2022_2Q20221108%EF%BD%8D_JPN.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率:",
+    "url": "https://www.nifco.com/ir/pdf/FY2022_2Q20221108%EF%BD%8D_JPN.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• インフレや生産回復遅れ等はあるも営業利益率は概ね二桁、収益性を堅持",
+    "url": "https://www.nifco.com/ir/pdf/FY2022_2Q20221108%EF%BD%8D_JPN.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 -0.8pts",
+    "url": "https://www.nifco.com/ir/pdf/FY2022_2Q20221108%EF%BD%8D_JPN.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率は10.3%と引き続き堅調",
+    "url": "https://www.nifco.com/ir/pdf/FY2022_2Q20221108%EF%BD%8D_JPN.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• コスト上昇傾向も、アジア・ベッド事業はマネージされ増益・高収益を維持",
+    "url": "https://www.nifco.com/ir/pdf/FY2022_2Q20221108%EF%BD%8D_JPN.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "コスト増の影響あるも依然高収益",
+    "url": "https://www.nifco.com/ir/pdf/FY2022_2Q20221108%EF%BD%8D_JPN.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 ｰ",
+    "url": "https://www.nifco.com/ir/pdf/FY2022_2Q20221108%EF%BD%8D_JPN.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ビジョン・戦略の構築 市場やユーザーの将来像を洞察し、競争優位を生むビジネスモデルや戦略を",
+    "url": "https://www.nifco.com/csr/governance/pdf/2026NominationPolicies.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率（３年累計） 40%",
+    "url": "https://www.nifco.com/csr/governance/pdf/2026NominationPolicies.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 対象となる中期計画期間（原則３年間）の累計値 0～2.0 の範囲で変動",
+    "url": "https://www.nifco.com/csr/governance/pdf/2026NominationPolicies.pdf",
+    "pass": 2
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "5. 2024年度セグメント情報(売上高)",
+    "url": "https://www.nifco.com/ir/pdf/20241107JP_Summary_of_Financial_Results_2Q_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "各地域とも想定内の進捗(海外セグメントは1-6月)",
+    "url": "https://www.nifco.com/ir/pdf/20241107JP_Summary_of_Financial_Results_2Q_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "6. 2024年度セグメント情報(営業利益)",
+    "url": "https://www.nifco.com/ir/pdf/20241107JP_Summary_of_Financial_Results_2Q_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "5. 2022年度セグメント情報(売上高)",
+    "url": "https://www.nifco.com/ir/pdf/FY2022_2Q20221108%EF%BD%8D_JPN.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "欧州を除く全地域で増収を達成 (海外セグメントは1-6月)",
+    "url": "https://www.nifco.com/ir/pdf/FY2022_2Q20221108%EF%BD%8D_JPN.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "6. 2022年度セグメント情報(営業利益)",
+    "url": "https://www.nifco.com/ir/pdf/FY2022_2Q20221108%EF%BD%8D_JPN.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（１）報酬構成比率",
+    "url": "https://www.nifco.com/csr/governance/pdf/2026NominationPolicies.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報酬構成比率は、職責の大きさに応じて、役位ごとに以下の通り設定しております",
+    "url": "https://www.nifco.com/csr/governance/pdf/2026NominationPolicies.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "構成比率は、賞与および株式報酬の比率が総報酬に占める割合の過半数を占める設計としています",
+    "url": "https://www.nifco.com/csr/governance/pdf/2026NominationPolicies.pdf",
+    "pass": 2
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "• 費用増、自動車生産調整は想定するも単価見直しに傾注",
+    "url": "https://www.nifco.com/ir/pdf/FY2022_2Q20221108%EF%BD%8D_JPN.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "職責の大きさに応じて役位ごとに金額を決定し、優秀な人材を確保するための役割に応じた報酬として、月額固定",
+    "url": "https://www.nifco.com/csr/governance/pdf/2026NominationPolicies.pdf",
+    "pass": 2
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "ビジョン・戦略の構築 市場やユーザーの将来像を洞察し、競争優位を生むビジネスモデルや戦略を",
+    "url": "https://www.nifco.com/csr/governance/pdf/2026NominationPolicies.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 | 株式会社 ニフコ — 会社概要 | 株式会社 ニフコ 株式会社ニフコ https://www.nifco.com > company > overview",
+    "url": "https://www.nifco.com/company/overview.html",
+    "pass": 3
+   },
+   {
+    "quote": "ニフコ のこれから | 会社情報 — ニフコ のこれから | 会社情報 株式会社ニフコ https://www.nifco.com > company > vision",
+    "url": "https://www.nifco.com/company/vision.html",
+    "pass": 3
+   },
+   {
+    "quote": "NIFCO Report 2025 - 株式会社ニフコ — NIFCO Report 2025 - 株式会社ニフコ 株式会社ニフコ PDF https://www.nifco.com > csr > sustainability",
+    "url": "https://www.nifco.com/csr/sustainability/ugjdj900000001i3-att/NifcoReport_2025R1_jp.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ニフコ の強み - ニフコ について — ニフコ の強み - ニフコ について ニフコ採用情報 https://nifcorecruit.com > about > strong_point",
+    "url": "https://nifcorecruit.com/about/strong_point.html",
+    "pass": 3
+   },
+   {
+    "quote": "ニフコ - Wikipedia — ニフコ - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > ニフコ",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%95%E3%82%B3",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 | IR情報 - 株式会社ニフコ — 決算説明 会 | IR情報 - 株式会社ニフコ 株式会社ニフコ https://www.nifco.com > financial-results-briefing",
+    "url": "https://www.nifco.com/ir/financial-results-briefing.html",
+    "pass": 3
+   },
+   {
+    "quote": "財務レポート | IR情報 | 株式会社 ニフコ — 財務レポート | IR情報 | 株式会社 ニフコ 株式会社ニフコ https://www.nifco.com > report",
+    "url": "https://www.nifco.com/ir/report.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 | 株式会社 ニフコ — IR情報 | 株式会社 ニフコ 株式会社ニフコ https://www.nifco.com > ...",
+    "url": "https://www.nifco.com/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家との対話 | IR情報 | 株式会社 ニフコ — 株主・投資家との対話 | IR情報 | 株式会社 ニフコ 株式会社ニフコ https://www.nifco.com > dialogue",
+    "url": "https://www.nifco.com/ir/dialogue.html",
+    "pass": 3
+   },
+   {
+    "quote": "IRカレンダー | 株式基本情報 - ニフコ — IRカレンダー | 株式基本情報 - ニフコ 株式会社ニフコ https://www.nifco.com > basic > calendar",
+    "url": "https://www.nifco.com/ir/basic/calendar.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ニフコ — 株式会社 ニフコ 株式会社ニフコ https://www.nifco.com",
+    "url": "https://www.nifco.com/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "NIFCO Report - ニフコ — NIFCO Report - ニフコ 株式会社ニフコ PDF https://www.nifco.com > NifcoReport2022_jp_w_rev",
+    "url": "https://www.nifco.com/csr/sustainability/sustainabilityreport/NifcoReport2022_jp_w_rev.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "職種紹介 - 仕事とキャリア - ニフコ 採用情報 — 職種紹介 - 仕事とキャリア - ニフコ 採用情報 ニフコ採用情報 https://nifcorecruit.com > career > job",
+    "url": "https://nifcorecruit.com/career/job.html",
+    "pass": 3
+   },
+   {
+    "quote": "座談会『「 社長 」×「技術に携わる社員」』 | 株式会社 ニフコ — 座談会『「 社長 」×「技術に携わる社員」』 | 株式会社 ニフコ 株式会社ニフコ https://www.nifco.com > csr > message > technology",
+    "url": "https://www.nifco.com/csr/message/technology.html",
+    "pass": 3
+   },
+   {
+    "quote": "経営のこころ（42） ニフコ社長 ・柴尾雅春氏 社長 業「楽しさ ... — 経営のこころ（42） ニフコ社長 ・柴尾雅春氏 社長 業「楽しさ ... 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/773314",
+    "pass": 3
+   },
+   {
+    "quote": "ニフコ 【7988】の 社長 ・役員 - キタイシホン — ニフコ 【7988】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/7988/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "CEO『 ニフコ のESG経営とは』 — CEO『 ニフコ のESG経営とは』 株式会社ニフコ https://www.nifco.com > csr > message > ceo",
+    "url": "https://www.nifco.com/csr/message/ceo.html",
+    "pass": 3
+   },
+   {
+    "quote": "柴尾雅春 - ニフコ の歴代 社長 （2021年 - The社史 — 柴尾雅春 - ニフコ の歴代 社長 （2021年 - The社史 The社史 https://the-shashi.com > ニフコの歴史 > 歴代社長",
+    "url": "https://the-shashi.com/tse/7988/executives/ceo/shibao-masaharu/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.nifco.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nifco.com/company/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nifco.com/company/overview.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nifco.com/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nifco.com/company/directors.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nifco.com/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nifco.com/ir/basic.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nifco.com/ir/management/message.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nifco.com/ir/disclosure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nifco.com/ir/report.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nifco.com/ir/highlight.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nifco.com/ir/management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nifco.com/ir/financial-results-briefing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nifco.com/ir/general-meeting.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nifco.com/ir/dialogue.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nifco.com/ir/notice.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nifco.com/ir/sitemap.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nifco.com/ir/mail.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nifco.com/csr/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nifco.com/news/detail/2026shoushuu.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nifco.com/ir/management/strategy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nifco.com/contact/faq.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.nifco.com/ir/pdf/74ketsugitsuuchi.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nifco.com/ir/pdf/20241107JP_Summary_of_Financial_Results_2Q_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nifco.com/ir/pdf/FY2022_2Q20221108%EF%BD%8D_JPN.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nifco.com/ir/pdf/2026shoushuu.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nifco.com/csr/governance/pdf/2026NominationPolicies.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nifco.com/ir/pdf/20250630rinjihoukokusyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nifco.com/ir/pdf/73ketsugitsuuchi.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nifco.com/news/detail/20250611teisei.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/773314",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ニフコ",
+   "results": [
+    "https://www.nifco.com/index.html",
+    "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%95%E3%82%B3",
+    "https://nifcorecruit.com/about/strong_point.html",
+    "https://nifcoexhibition.com/",
+    "https://x.com/Nifco_official",
+    "https://ja.wikipedia.org/wiki/ニフコ",
+    "https://www.nifco.com/",
+    "https://www.nifco.com/company/overview.html",
+    "https://www.nifcoexhibition.com/",
+    "https://shikiho.toyokeizai.net/stocks/7988/corporate"
+   ]
+  },
+  {
+   "query": "ニフコ ビジネスモデル",
+   "results": [
+    "https://www.nifco.com/company/overview.html",
+    "https://www.nifco.com/company/vision.html",
+    "https://www.nifco.com/csr/sustainability/ugjdj900000001i3-att/NifcoReport_2025R1_jp.pdf",
+    "https://nifcorecruit.com/about/strong_point.html",
+    "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%95%E3%82%B3",
+    "https://www.nifco.com/index.html",
+    "https://pdf.irpocket.com/C7988/xouG/w6JR/esiU.pdf",
+    "https://www.nifco.com/csr/sustainability/sustainabilityreport/nifco_sustainabilityReport2021_jp_200dpi.pdf",
+    "https://www.jcr.co.jp/ratinglist/corp/7988",
+    "https://consovation.com/株式会社ニフコで見るビジネスモデルの魅力と成/"
+   ]
+  },
+  {
+   "query": "ニフコ 決算説明資料",
+   "results": [
+    "https://www.nifco.com/ir/financial-results-briefing.html",
+    "https://www.nifco.com/ir/report.html",
+    "https://www.nifco.com/ir/",
+    "https://www.nifco.com/ir/dialogue.html",
+    "https://www.nifco.com/ir/basic/calendar.html",
+    "https://www.buffett-code.com/company/7988/library",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=7988",
+    "https://www.moomoo.com/ja/stock/7988-JP/earnings",
+    "https://edinetdb.jp/company/E02386/presentations/",
+    "https://irbank.net/7988/ir"
+   ]
+  },
+  {
+   "query": "ニフコ 事業系統図",
+   "results": [
+    "https://www.nifco.com/company/overview.html",
+    "https://www.nifco.com/index.html",
+    "https://www.nifco.com/csr/sustainability/sustainabilityreport/NifcoReport2022_jp_w_rev.pdf",
+    "https://nifcorecruit.com/career/job.html",
+    "https://www.nifco.com/csr/sustainability/ugjdj900000001i3-att/NifcoReport_2025R1_jp.pdf",
+    "https://www.nifco.com/company/vision.html",
+    "https://www.nifco.com/ir/report.html",
+    "https://www.theofficialboard.jp/%E7%B5%84%E7%B9%94%E5%9B%B3/nifco",
+    "https://www.nifco.com/company/office/",
+    "https://ja.wikipedia.org/wiki/ニフコ"
+   ]
+  },
+  {
+   "query": "ニフコ 社長 インタビュー",
+   "results": [
+    "https://www.nifco.com/csr/message/technology.html",
+    "https://www.nikkan.co.jp/articles/view/773314",
+    "https://kitaishihon.com/company/7988/board-of-director",
+    "https://www.nifco.com/csr/message/ceo.html",
+    "https://the-shashi.com/tse/7988/executives/ceo/shibao-masaharu/",
+    "https://www.nikkei.com/article/DGXZQODZ00031_T00C21A2000000/",
+    "https://www.youtube.com/watch?v=3GP73txwgBg",
+    "https://nifcorecruit.com/culture/research.html",
+    "https://www.netdenjd.com/archives/402149"
+   ]
+  }
+ ],
+ "missing": {}
+}

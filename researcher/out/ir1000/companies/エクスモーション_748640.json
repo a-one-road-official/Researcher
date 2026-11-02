@@ -1,0 +1,970 @@
+{
+ "name": "エクスモーション",
+ "aliases": [],
+ "context": "証券コード4394／情報・通信業／グロース（内国株式）／2025.11期 売上高1,387百万円 営業利益率13.7%",
+ "researched_at": "2026-11-02T19:19:24.189709+00:00",
+ "official_url": "https://www.corporate.exmotion.co.jp/",
+ "identified_by": "search:yahoo_jp:エクスモーション",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2008年9月1日",
+    "url": "https://www.corporate.exmotion.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2008年",
+    "url": "https://shachomeikan.jp/industry_article/2371",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "主な事業内容",
+    "value": "AIとエンジニアリング技術を掛け合わせたサービスによるシステム／ソフトウェア開発支援 【コンサルティング事業】 プロジェクト診断（問題発見と改善策の作成・提案） 現場支援（改善策の遂行に必要な技術支援） 開発への生成AIの導入 SysMLやUMLモデルの作成・改善 部品再利用に向けた総合的支援 など 【生成AI事業】 要件定義専門AI「 CoBrain（コブレイン） 」の提供 【教育・人材育成事業】 オンライン学習サービス「 Eureka Box（ユーリカボックス） 」の提供 短期集中型研修の提供",
+    "url": "https://www.corporate.exmotion.co.jp/company/outline.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "提供サービスについて",
+    "url": "https://www.corporate.exmotion.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルティングサービス",
+    "url": "https://www.corporate.exmotion.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は問題発見→提案→解決・実践までをワンストップで行える、他にないサービスを強みにしています",
+    "url": "https://www.corporate.exmotion.co.jp/ultimate/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車やロボット、医療機器等の製品に組込まれる「組込みソフトウェア」の品質改善に特化したコンサルティングを提供しています",
+    "url": "https://www.corporate.exmotion.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルティングで実績のあるソリューションの一部は、多くの方に低価格で利用していただけるよう、ツールとしても提供しています",
+    "url": "https://www.corporate.exmotion.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "エクスモーションが提供するサービスにより、お客様とともに、大きな感動を分かち合うことができるように、との願いを込めました",
+    "url": "https://www.corporate.exmotion.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "AIとエンジニアリング技術を掛け合わせたサービスによるシステム／ソフトウェア開発支援",
+    "url": "https://www.corporate.exmotion.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "オンライン学習サービス「",
+    "url": "https://www.corporate.exmotion.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "実践型ナレッジ提供サービス「Eureka Box」提供開始",
+    "url": "https://www.corporate.exmotion.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "生成AI支援サービス「CoBrain」提供開始",
+    "url": "https://www.corporate.exmotion.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動車やロボット、医療機器等の製品に組込まれる「組込みソフトウェア」の品質改善に特化したコンサルティングを提供しています",
+    "url": "https://www.corporate.exmotion.co.jp/business/consulting.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービスサイトはこちら",
+    "url": "https://www.corporate.exmotion.co.jp/business/consulting.html",
+    "pass": 1
+   },
+   {
+    "quote": "トータルコンサルティングは、「診断」、「現場支援」、「人材育成」という3つの活動からなる総合的な顧客支援サービスです",
+    "url": "https://www.corporate.exmotion.co.jp/business/consulting.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービスサイトはこちら",
+    "url": "https://www.corporate.exmotion.co.jp/business/training.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社の教育・人材育成事業は、開発したトレーニング教材をコンサルティング時の技術導入に活用するだけでなく、単独の人材育成用トレーニングサービスとして多くのお客様に活用いただいております",
+    "url": "https://www.corporate.exmotion.co.jp/business/training.html",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルティングで実績のあるソリューションの一部は、多くの方に低価格で利用していただけるよう、ツールとしても提供しています",
+    "url": "https://www.corporate.exmotion.co.jp/business/tool.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービスサイトはこちら",
+    "url": "https://www.corporate.exmotion.co.jp/business/tool.html",
+    "pass": 1
+   },
+   {
+    "quote": "主要サービス",
+    "url": "https://www.corporate.exmotion.co.jp/business/tool.html",
+    "pass": 1
+   },
+   {
+    "quote": "AIは、開発者が見逃しがちな洞察を提供し、より革新的なソリューションを生み出す手助けをします",
+    "url": "https://www.corporate.exmotion.co.jp/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "エクスモーションは、仮説検証型の開発を進めるために必要なソリューションと、生成AIを活用したエンジニアリング支援サービスを提供しています",
+    "url": "https://www.corporate.exmotion.co.jp/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "主に製造業のソフトウェア開発のお客様を対象とするコンサルティング事業をメインとし、そこで得られた知見を生成AIサービスや教育に展開することでレバレッジを効かせながら、多様な支援を実現しています",
+    "url": "https://www.corporate.exmotion.co.jp/ir/individual.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動車やロボット、半導体製造装置、医療機器等の製品に組み込まれるソフトウェア開発を対象に、コンサルティングを提供しています",
+    "url": "https://www.corporate.exmotion.co.jp/ir/individual.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動車や半導体製造装置などに組み込まれるソフトウェアは年々多機能化、複雑化する一方、製品開発は高速化を求められています",
+    "url": "https://www.corporate.exmotion.co.jp/ir/individual.html",
+    "pass": 1
+   },
+   {
+    "quote": "AIサービス事業",
+    "url": "https://www.corporate.exmotion.co.jp/ir/individual.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトウェア開発の品質のカギを握る要件定義に特化し、作成と添削を行うAIサービスです",
+    "url": "https://www.corporate.exmotion.co.jp/ir/individual.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社が保有する\"開発技術\"を、お客様自身が習得するための教育サービスを展開しています",
+    "url": "https://www.corporate.exmotion.co.jp/ir/individual.html",
+    "pass": 1
+   },
+   {
+    "quote": "eラーニングサービス「Eureka Box（ユーリカボックス）」",
+    "url": "https://www.corporate.exmotion.co.jp/ir/individual.html",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルティング事業にて提供している\"開発技術\"の知識やノウハウをまとめたコンテンツを、eラーニングサービスとして提供しています",
+    "url": "https://www.corporate.exmotion.co.jp/ir/individual.html",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルティング事業にて提供している\"開発技術\"のノウハウを、座学と演習を通じて学べる集合研修サービスとして提供しています",
+    "url": "https://www.corporate.exmotion.co.jp/ir/individual.html",
+    "pass": 1
+   },
+   {
+    "quote": "１．当社は、金融商品取引法その他諸法令ならびに東京証券取引所の「有価証券上場規程」に定める会社情報の適時開示に関する規定に従って、情報開示を行います",
+    "url": "https://www.corporate.exmotion.co.jp/ir/disclosure.html",
+    "pass": 1
+   },
+   {
+    "quote": "２．当社は、投資家に対して公平かつ適切に情報を開示するため、金融商品取引法その他諸法令に定める投資判断に重要な影響を及ぼす情報について、一部の投資家のみに選択的開示がなされることのないよう、情報管理を徹底します",
+    "url": "https://www.corporate.exmotion.co.jp/ir/disclosure.html",
+    "pass": 1
+   },
+   {
+    "quote": "１．当社は、金融商品取引法等の諸法令及び適時開示規則に従い、金融庁の「EDINET（金融商品取引法に基づく有価証券報告書等の開示書類に関する電子開示システム）」または東京証券取引所の「TDnet（適時開示情報伝達システム）」により情報開示を行います",
+    "url": "https://www.corporate.exmotion.co.jp/ir/disclosure.html",
+    "pass": 1
+   },
+   {
+    "quote": "エクスモーションのソリューションを",
+    "url": "https://www.corporate.exmotion.co.jp/images/business/img_business_index01.png",
+    "pass": 2
+   },
+   {
+    "quote": "エクスモーション サービス紹介",
+    "url": "https://www.youtube.com/channel/UCyyJbKbpJaKpCi32XWKeu2w",
+    "pass": 3
+   },
+   {
+    "quote": "無料配布！生成AI時代の組込み開発の羅針盤 ソリューションガイドブックVo.16",
+    "url": "https://www.youtube.com/channel/UCyyJbKbpJaKpCi32XWKeu2w",
+    "pass": 3
+   },
+   {
+    "quote": "【IRメール配信サービスのご登録はこちら】",
+    "url": "https://www.youtube.com/watch?v=JX9Cls8bDVc",
+    "pass": 3
+   },
+   {
+    "quote": "【コンサルティングサービスに関する情報】",
+    "url": "https://www.youtube.com/watch?v=JX9Cls8bDVc",
+    "pass": 3
+   },
+   {
+    "quote": "そこでは主に製品開発を行っていました",
+    "url": "https://shachomeikan.jp/industry_article/2371",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、製品を開発そのものよりも開発の進め方を探求する方が自分には向いているのではないかと思い、そのころ声をかけていただいた株式会社オージス総研へ転職しました",
+    "url": "https://shachomeikan.jp/industry_article/2371",
+    "pass": 3
+   },
+   {
+    "quote": "時代の流れに沿ったサービスを提供するために",
+    "url": "https://shachomeikan.jp/industry_article/2371",
+    "pass": 3
+   },
+   {
+    "quote": "それにより、人が行うコンサルティングの相場より安価でサービスを提供できるようになります",
+    "url": "https://shachomeikan.jp/industry_article/2371",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "エクスモーションの強み",
+    "url": "https://www.corporate.exmotion.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "を強みとして、",
+    "url": "https://www.corporate.exmotion.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "エクスモーションの強み| 株式会社エクスモーション",
+    "url": "https://www.corporate.exmotion.co.jp/ultimate/",
+    "pass": 1
+   },
+   {
+    "quote": "エクスモーションの強み",
+    "url": "https://www.corporate.exmotion.co.jp/ultimate/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちエクスモーションは、第4次産業革命が加速する中、「専門性の高い人材」「組込みソフトウェアに専門特化した事業」「ワンストップ支援」を強みとして、ソフトウェアが中心的な役割を果たす新しい世界に貢献しています",
+    "url": "https://www.corporate.exmotion.co.jp/ultimate/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は問題発見→提案→解決・実践までをワンストップで行える、他にないサービスを強みにしています",
+    "url": "https://www.corporate.exmotion.co.jp/ultimate/",
+    "pass": 1
+   },
+   {
+    "quote": "エクスモーションの強み",
+    "url": "https://www.corporate.exmotion.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "エクスモーションの強み",
+    "url": "https://www.corporate.exmotion.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "エクスモーションの強み",
+    "url": "https://www.corporate.exmotion.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "エクスモーションの強み",
+    "url": "https://www.corporate.exmotion.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "エクスモーションの強み",
+    "url": "https://www.corporate.exmotion.co.jp/business/consulting.html",
+    "pass": 1
+   },
+   {
+    "quote": "エクスモーションの強み",
+    "url": "https://www.corporate.exmotion.co.jp/business/training.html",
+    "pass": 1
+   },
+   {
+    "quote": "エクスモーションの強み",
+    "url": "https://www.corporate.exmotion.co.jp/business/tool.html",
+    "pass": 1
+   },
+   {
+    "quote": "エクスモーションの強み",
+    "url": "https://www.corporate.exmotion.co.jp/csr/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "【エンタメの覇者は誰だ？】市場規模20兆円を目指す日本の基幹産業／ソニー・任天堂・バンナム・東宝の死角／世界で勝ち続ける構造的強み／商社と金融が参戦／IPビジネスの限界【INDUSTRY MAP】",
+    "url": "https://www.youtube.com/watch?v=JX9Cls8bDVc",
+    "pass": 3
+   },
+   {
+    "quote": "開発現場の❝技術参謀❞としての強みと今後の展望とは",
+    "url": "https://shachomeikan.jp/industry_article/2371",
+    "pass": 3
+   },
+   {
+    "quote": "ーー貴社の強みを教えてください",
+    "url": "https://shachomeikan.jp/industry_article/2371",
+    "pass": 3
+   },
+   {
+    "quote": "当社のような事業を行う企業が少ないところが強みだと思います",
+    "url": "https://shachomeikan.jp/industry_article/2371",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "パートナー企業",
+    "url": "https://www.corporate.exmotion.co.jp/ultimate/",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルタント紹介",
+    "url": "https://www.corporate.exmotion.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のコンサルタントの紹介を掲載しています",
+    "url": "https://www.corporate.exmotion.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "「コンサルタント紹介」はこちら",
+    "url": "https://www.corporate.exmotion.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー企業",
+    "url": "https://www.corporate.exmotion.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のパートナー企業を掲載しています",
+    "url": "https://www.corporate.exmotion.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "「パートナー企業」はこちら",
+    "url": "https://www.corporate.exmotion.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー企業",
+    "url": "https://www.corporate.exmotion.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー企業",
+    "url": "https://www.corporate.exmotion.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー企業",
+    "url": "https://www.corporate.exmotion.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー企業",
+    "url": "https://www.corporate.exmotion.co.jp/business/consulting.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー企業",
+    "url": "https://www.corporate.exmotion.co.jp/business/training.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー企業",
+    "url": "https://www.corporate.exmotion.co.jp/business/tool.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー企業",
+    "url": "https://www.corporate.exmotion.co.jp/csr/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "エクスモーション事業＆会社紹介",
+    "url": "https://www.youtube.com/channel/UCyyJbKbpJaKpCi32XWKeu2w",
+    "pass": 3
+   },
+   {
+    "quote": "テレビ番組「ええじゃない課Biz」で当社の総合学習＆実践プラットフォーム【Eureka Box】が紹介されました！",
+    "url": "https://www.youtube.com/channel/UCyyJbKbpJaKpCi32XWKeu2w",
+    "pass": 3
+   },
+   {
+    "quote": "エクスモーション サービス紹介",
+    "url": "https://www.youtube.com/channel/UCyyJbKbpJaKpCi32XWKeu2w",
+    "pass": 3
+   },
+   {
+    "quote": "「事例がないから学べない」を解決！システムズエンジニアリングを開発事例で学べる教材のご紹介",
+    "url": "https://www.youtube.com/channel/UCyyJbKbpJaKpCi32XWKeu2w",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "当社の主要な取引先一覧を掲載しています",
+    "url": "https://www.corporate.exmotion.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "「取引先一覧」はこちら",
+    "url": "https://www.corporate.exmotion.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "エクスモーションが提供するサービスにより、お客様とともに、大きな感動を分かち合うことができるように、との願いを込めました",
+    "url": "https://www.corporate.exmotion.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "トータルコンサルティングは、「診断」、「現場支援」、「人材育成」という3つの活動からなる総合的な顧客支援サービスです",
+    "url": "https://www.corporate.exmotion.co.jp/business/consulting.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社の教育・人材育成事業は、開発したトレーニング教材をコンサルティング時の技術導入に活用するだけでなく、単独の人材育成用トレーニングサービスとして多くのお客様に活用いただいております",
+    "url": "https://www.corporate.exmotion.co.jp/business/training.html",
+    "pass": 1
+   },
+   {
+    "quote": "「実践力をつける」ことを中心としたお客様の状況に応じたセミナー・トレーニングをご提供しています",
+    "url": "https://www.corporate.exmotion.co.jp/business/training.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は高品質なソフトウェアを通して新しい社会の実現に貢献することを企業理念とし、創業以来、組込みソフトウェア開発の技術参謀として製造業のお客様のソフトウェア開発における課題解決を担ってまいりました",
+    "url": "https://www.corporate.exmotion.co.jp/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、ユーザーのフィードバックを取り入れることで、ニーズに即した改善を目指す文化を促進します",
+    "url": "https://www.corporate.exmotion.co.jp/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "主に製造業のソフトウェア開発のお客様を対象とするコンサルティング事業をメインとし、そこで得られた知見を生成AIサービスや教育に展開することでレバレッジを効かせながら、多様な支援を実現しています",
+    "url": "https://www.corporate.exmotion.co.jp/ir/individual.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社が保有する\"開発技術\"を、お客様自身が習得するための教育サービスを展開しています",
+    "url": "https://www.corporate.exmotion.co.jp/ir/individual.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客が言うことは全部要求？開発者が知っておくべき要求の扱い方 #要件定義 #USDM",
+    "url": "https://www.youtube.com/channel/UCyyJbKbpJaKpCi32XWKeu2w",
+    "pass": 3
+   },
+   {
+    "quote": "顧客要求はどのように扱う？ #要件定義 #shorts",
+    "url": "https://www.youtube.com/channel/UCyyJbKbpJaKpCi32XWKeu2w",
+    "pass": 3
+   },
+   {
+    "quote": "【会見映像①】GMO熊谷正寿会長ら会見「お客様を守れず申し訳ない」サイバー攻撃の経緯･取り組みは 会見冒頭～質疑前",
+    "url": "https://www.youtube.com/watch?v=JX9Cls8bDVc",
+    "pass": 3
+   },
+   {
+    "quote": "【クラシコム20期連続増収増益】バズを捨てる最強戦略／熱狂しない経営の正体／なぜ顧客を追わないのか／持続的成長の完全方程式／PL直結の利益構造／【PIVOT BUSINESS】",
+    "url": "https://www.youtube.com/watch?v=JX9Cls8bDVc",
+    "pass": 3
+   },
+   {
+    "quote": "当時、自動車業界をメインのターゲットにしていましたが、国内の自動車系の会社ではソフトウェアが得意な人材が不足していたので、タイミングよく顧客を獲得することができました",
+    "url": "https://shachomeikan.jp/industry_article/2371",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "「沿革」はこちら",
+    "url": "https://www.corporate.exmotion.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2008年9月1日",
+    "url": "https://www.corporate.exmotion.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 株式会社エクスモーション",
+    "url": "https://www.corporate.exmotion.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2008年9月",
+    "url": "https://www.corporate.exmotion.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2009年3月",
+    "url": "https://www.corporate.exmotion.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2010年9月",
+    "url": "https://www.corporate.exmotion.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2010年10月",
+    "url": "https://www.corporate.exmotion.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2013年11月",
+    "url": "https://www.corporate.exmotion.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年5月",
+    "url": "https://www.corporate.exmotion.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2018年7月",
+    "url": "https://www.corporate.exmotion.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年6月",
+    "url": "https://www.corporate.exmotion.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年1月",
+    "url": "https://www.corporate.exmotion.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年6月",
+    "url": "https://www.corporate.exmotion.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月",
+    "url": "https://www.corporate.exmotion.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年12月",
+    "url": "https://www.corporate.exmotion.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年11月",
+    "url": "https://www.corporate.exmotion.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年2月",
+    "url": "https://www.corporate.exmotion.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月期 第3四半期決算補足説明",
+    "url": "https://www.youtube.com/channel/UCyyJbKbpJaKpCi32XWKeu2w",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月期 第1四半期決算補足説明動画",
+    "url": "https://www.youtube.com/channel/UCyyJbKbpJaKpCi32XWKeu2w",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月期 第3四半期決算補足説明",
+    "url": "https://www.youtube.com/watch?v=JX9Cls8bDVc",
+    "pass": 3
+   },
+   {
+    "quote": "2008年株式会社エクスモーション設立",
+    "url": "https://shachomeikan.jp/industry_article/2371",
+    "pass": 3
+   },
+   {
+    "quote": "2018年東証マザーズ（現：東証グロース）に上場を果たす",
+    "url": "https://shachomeikan.jp/industry_article/2371",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "『mtrip』はアーキテクチャ設計モデルと詳細設計モデルを同期させ、異なる視点からモデルを見ることができ、高い保守性を維持します",
+    "url": "https://www.corporate.exmotion.co.jp/business/tool.html",
+    "pass": 1
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "【IT株の教科書】#5 SDV/SDxで変わるビジネスモデル",
+    "url": "https://www.youtube.com/channel/UCyyJbKbpJaKpCi32XWKeu2w",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "エクスモーション の事業やAI戦略を丸分かり解説！ - YouTube — エクスモーション の事業やAI戦略を丸分かり解説！ - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=JX9Cls8bDVc",
+    "pass": 3
+   },
+   {
+    "quote": "社員の声ブログ（公式）の記事一覧｜note（ノート） — 社員の声ブログ（公式）の記事一覧｜note（ノート） 株式会社エクスモーション https://magazine.exmotion.co.jp > all",
+    "url": "https://magazine.exmotion.co.jp/all",
+    "pass": 3
+   },
+   {
+    "quote": "(株) エクスモーション 【4394】 | 未来金融研究部《ミラキン》 — (株) エクスモーション 【4394】 | 未来金融研究部《ミラキン》 未来金融研究部 https://mirakin.jp > ... > 東証グロース > 東京都",
+    "url": "https://mirakin.jp/unyuzyouhou/jouhoutsuushin/exmotion/",
+    "pass": 3
+   },
+   {
+    "quote": "[書き起こし] エクスモーション (4394) IRセミナー&質疑応答 ... — [書き起こし] エクスモーション (4394) IRセミナー&質疑応答 ... note https://note.com > ... > ビジネスリーダーインタビュー",
+    "url": "https://note.com/kabuberry_/n/n7f379487899d",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 - 株式会社エクスモーション — 決算説明資料 - 株式会社エクスモーション 株式会社エクスモーション https://www.corporate.exmotion.co.jp > presentation",
+    "url": "https://www.corporate.exmotion.co.jp/ir/library/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信 - 株式会社エクスモーション — 決算 短信 - 株式会社エクスモーション 株式会社エクスモーション https://www.corporate.exmotion.co.jp > library > result",
+    "url": "https://www.corporate.exmotion.co.jp/ir/library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "エクスモーション (4394)IRセミナー&質疑応答 2026.1.25 — エクスモーション (4394)IRセミナー&質疑応答 2026.1.25 YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=5qgHkGFGmIw",
+    "pass": 3
+   },
+   {
+    "quote": "【 エクスモーション 】[4394]IR情報 中期経営計画や 決算 短信 — 【 エクスモーション 】[4394]IR情報 中期経営計画や 決算 短信 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=4394",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 株式会社エクスモーション — 会社概要 - 株式会社エクスモーション 株式会社エクスモーション https://www.corporate.exmotion.co.jp > company > outline",
+    "url": "https://www.corporate.exmotion.co.jp/company/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "エクスモーション事業 ＆会社紹介 - YouTube — エクスモーション事業 ＆会社紹介 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=KOIbzZwPKVM",
+    "pass": 3
+   },
+   {
+    "quote": "エクスモーション について｜組込みシステム開発の現場支援型 ... — エクスモーション について｜組込みシステム開発の現場支援型 ... 株式会社エクスモーション https://www.exmotion.co.jp > about",
+    "url": "https://www.exmotion.co.jp/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "ご挨拶 - 株式会社エクスモーション — ご挨拶 - 株式会社エクスモーション 株式会社エクスモーション https://www.corporate.exmotion.co.jp > message",
+    "url": "https://www.corporate.exmotion.co.jp/company/message.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 エクスモーション 代表取締役 社長 渡辺 博之 - 社長名鑑 — 株式会社 エクスモーション 代表取締役 社長 渡辺 博之 - 社長名鑑 社長名鑑 https://shachomeikan.jp > industry_article",
+    "url": "https://shachomeikan.jp/industry_article/2371",
+    "pass": 3
+   },
+   {
+    "quote": "エクスモーション ［4394］東証マザーズ IPO - YouTube — エクスモーション ［4394］東証マザーズ IPO - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=O4NFRnxsCLg",
+    "pass": 3
+   },
+   {
+    "quote": "エクスモーション 【4394】の 社長 ・役員 - キタイシホン — エクスモーション 【4394】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/4394/board-of-director",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.corporate.exmotion.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.corporate.exmotion.co.jp/ultimate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.corporate.exmotion.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.corporate.exmotion.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.corporate.exmotion.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.corporate.exmotion.co.jp/company/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.corporate.exmotion.co.jp/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.corporate.exmotion.co.jp/business/consulting.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.corporate.exmotion.co.jp/business/training.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.corporate.exmotion.co.jp/business/tool.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.corporate.exmotion.co.jp/csr/environment.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.corporate.exmotion.co.jp/ir/management/message.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.corporate.exmotion.co.jp/ir/individual.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.corporate.exmotion.co.jp/ir/disclosure.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.corporate.exmotion.co.jp/ir/news.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.corporate.exmotion.co.jp/ir/management/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.corporate.exmotion.co.jp/ir/highlight.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.corporate.exmotion.co.jp/ir/management/governance.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.corporate.exmotion.co.jp/ir/library/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.corporate.exmotion.co.jp/ir/library/result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.corporate.exmotion.co.jp/ir/library/presentation.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.corporate.exmotion.co.jp/ir/library/securities.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.corporate.exmotion.co.jp/ir/library/video_archive.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.corporate.exmotion.co.jp/images/business/subpage_title_img.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.corporate.exmotion.co.jp/images/business/img_business_index01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.corporate.exmotion.co.jp/images/business/img_business_index_consulting.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.corporate.exmotion.co.jp/images/business/img_business_index_training.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.corporate.exmotion.co.jp/images/business/img_business_index_tool.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.corporate.exmotion.co.jp/images/business/img_business_consulting01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.corporate.exmotion.co.jp/images/business/img_business_consulting02.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.corporate.exmotion.co.jp/images/business/img_business_training01.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.youtube.com/channel/UCyyJbKbpJaKpCi32XWKeu2w",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=JX9Cls8bDVc",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/channel/UCyyJbKbpJaKpCi32XWKeu2w",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://shachomeikan.jp/industry_article/2371",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "エクスモーション",
+   "results": [
+    "https://www.corporate.exmotion.co.jp/",
+    "https://www.corporate.exmotion.co.jp/company/outline.html",
+    "https://www.youtube.com/channel/UCyyJbKbpJaKpCi32XWKeu2w",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=4394",
+    "https://kabutan.jp/stock/?code=4394",
+    "https://www.openwork.jp/company.php?m_id=a0C1000000xAUnv",
+    "https://www.r-agent.com/company/88410/",
+    "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3",
+    "https://ja.wikipedia.org/wiki/エクスモーション",
+    "https://www.exmotion.co.jp/"
+   ]
+  },
+  {
+   "query": "エクスモーション ビジネスモデル",
+   "results": [
+    "https://www.youtube.com/channel/UCyyJbKbpJaKpCi32XWKeu2w",
+    "https://www.youtube.com/watch?v=JX9Cls8bDVc",
+    "https://magazine.exmotion.co.jp/all",
+    "https://mirakin.jp/unyuzyouhou/jouhoutsuushin/exmotion/",
+    "https://note.com/kabuberry_/n/n7f379487899d",
+    "https://fact-board.co.jp/company/d-exmotion/",
+    "https://www.corporate.exmotion.co.jp/company/outline.html",
+    "https://holistic-r.org/c_info/4394/",
+    "https://www.corporate.exmotion.co.jp/",
+    "https://www.firstcvc.jp/company/exmotion.co.jp"
+   ]
+  },
+  {
+   "query": "エクスモーション 決算説明資料",
+   "results": [
+    "https://www.corporate.exmotion.co.jp/ir/library/presentation.html",
+    "https://www.corporate.exmotion.co.jp/ir/library/result.html",
+    "https://www.youtube.com/watch?v=5qgHkGFGmIw",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=4394",
+    "https://www.youtube.com/channel/UCyyJbKbpJaKpCi32XWKeu2w",
+    "https://edinetdb.jp/company/E34140/presentations/",
+    "https://www.corporate.exmotion.co.jp/ir/management/index.html",
+    "https://investalk.jp/4394/exmotion-2025-11-earnings/",
+    "https://www.corporate.exmotion.co.jp/ir/library/index.html",
+    "https://treelazy.com/stock-jp/4394/conference"
+   ]
+  },
+  {
+   "query": "エクスモーション 事業系統図",
+   "results": [
+    "https://www.corporate.exmotion.co.jp/company/outline.html",
+    "https://www.youtube.com/channel/UCyyJbKbpJaKpCi32XWKeu2w",
+    "https://mirakin.jp/unyuzyouhou/jouhoutsuushin/exmotion/",
+    "https://www.youtube.com/watch?v=KOIbzZwPKVM",
+    "https://www.exmotion.co.jp/about.html",
+    "https://www.solxyz.co.jp/news/20230426exmotion/",
+    "https://note.com/kabuberry_/n/n7f379487899d",
+    "https://job.mynavi.jp/27/pc/search/corp91137/outline.html",
+    "https://fact-board.co.jp/company/d-exmotion/",
+    "https://www.corporate.exmotion.co.jp/"
+   ]
+  },
+  {
+   "query": "エクスモーション 社長 インタビュー",
+   "results": [
+    "https://www.corporate.exmotion.co.jp/company/message.html",
+    "https://shachomeikan.jp/industry_article/2371",
+    "https://www.youtube.com/watch?v=O4NFRnxsCLg",
+    "https://mirakin.jp/unyuzyouhou/jouhoutsuushin/exmotion/",
+    "https://kitaishihon.com/company/4394/board-of-director",
+    "https://morejob.co.jp/mirai/exmotion/",
+    "https://magazine.exmotion.co.jp/n/ne4439ae40e5c",
+    "https://www.nikkei.com/article/DGXMZO33063760X10C18A7000000/",
+    "https://irbank.net/E34140/officer?m=%E6%B8%A1%E8%BE%BA%E5%8D%9A%E4%B9%8B",
+    "https://magazine.exmotion.co.jp/n/n1721adab5e7c"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式23頁／PDF・画像8件／外部4頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式23頁／PDF・画像8件／外部4頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式23頁／PDF・画像8件／外部4頁・検索5回）"
+ }
+}

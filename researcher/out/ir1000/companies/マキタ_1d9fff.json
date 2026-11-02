@@ -1,0 +1,1211 @@
+{
+ "name": "マキタ",
+ "aliases": [],
+ "context": "証券コード6586／機械／プライム（内国株式）／2026.03期 売上高777,600百万円 営業利益率13.5%",
+ "researched_at": "2026-11-02T19:26:23.045329+00:00",
+ "official_url": "https://www.makita.co.jp/",
+ "identified_by": "search:yahoo_jp:マキタ",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1915年（大正4年）3月21日",
+    "url": "https://www.makita.co.jp/company/about/data/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1938年（昭和13年）12月10日",
+    "url": "https://www.makita.co.jp/company/about/data/",
+    "pass": 1
+   },
+   {
+    "label": "会社が設立されたのはいつですか。",
+    "value": "1915年3月名古屋において牧田電機製作所（個人経営）創業し、1938年12月に株式会社に改組し株式会社牧田電機製作所を設立しました。 詳しくは 沿革 ページをご覧ください。",
+    "url": "https://www.makita.co.jp/ir/faq/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上収益",
+    "value": "連結 7,776億円（2026年3月期） 単独 4,677億円（2026年3月期）",
+    "url": "https://www.makita.co.jp/company/about/data/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数（正社員）",
+    "value": "連結 17,586名（2026年3月31日現在） 単独 3,435名（2026年3月31日現在）",
+    "url": "https://www.makita.co.jp/company/about/data/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "電動工具、園芸用機器、エア工具、家庭用機器等の製造・販売",
+    "url": "https://www.makita.co.jp/company/about/data/",
+    "pass": 1
+   },
+   {
+    "label": "主な事業内容を教えてください。",
+    "value": "詳しくは、 事業紹介 ページをご覧ください。",
+    "url": "https://www.makita.co.jp/ir/faq/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "取引先さまとのかかわり",
+    "url": "https://www.makita.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先さまとのかかわり",
+    "url": "https://www.makita.co.jp/company/about/data/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先さまとのかかわり",
+    "url": "https://www.makita.co.jp/company/about/business/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先さまとのかかわり",
+    "url": "https://www.makita.co.jp/company/about/director/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先さまとのかかわり",
+    "url": "https://www.makita.co.jp/company/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先さまとのかかわり",
+    "url": "https://www.makita.co.jp/sustainability/environment/01/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先さまとのかかわり",
+    "url": "https://www.makita.co.jp/sustainability/environment/02/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先さまとのかかわり",
+    "url": "https://www.makita.co.jp/sustainability/environment/05/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先様との連携による再生可能資源の持続的調達の推進",
+    "url": "https://www.makita.co.jp/sustainability/environment/05/",
+    "pass": 1
+   },
+   {
+    "quote": "SVHCは定期的に追加されるため、当社は継続的に取引先へ含有調査を実施しています",
+    "url": "https://www.makita.co.jp/sustainability/environment/05/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先さまとのかかわり",
+    "url": "https://www.makita.co.jp/sustainability/environment/04/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先さまとのかかわり",
+    "url": "https://www.makita.co.jp/sustainability/environment/03/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先さまとのかかわり",
+    "url": "https://www.makita.co.jp/sustainability/environment/06/",
+    "pass": 1
+   },
+   {
+    "quote": "投資に関する決定は利用者ご自身のご判断において行われるようお願いいたします",
+    "url": "https://www.makita.co.jp/ir/disclaimer/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先さまとのかかわり",
+    "url": "https://www.makita.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先さまとのかかわり",
+    "url": "https://www.makita.co.jp/inquiry/motorunit/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先さまとのかかわり",
+    "url": "https://www.makita.co.jp/inquiry/torque/",
+    "pass": 1
+   },
+   {
+    "quote": "一つのバッテリーを複数の製品で使用できるため、利用者のコスト負担が軽減され、同時にシリーズ展開が容易となっている",
+    "url": "https://note.com/ryokubota/n/nce06d1748500",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザーを囲い込む「マキタ沼」の戦略",
+    "url": "https://note.com/ryokubota/n/nce06d1748500",
+    "pass": 3
+   },
+   {
+    "quote": "工具やOPE以外にも、ラジオやケトル、ライトなど多様な製品群を同じバッテリーで使用可能にし、ユーザーを自社製品に囲い込む「マキタ沼」を形成している",
+    "url": "https://note.com/ryokubota/n/nce06d1748500",
+    "pass": 3
+   },
+   {
+    "quote": "性能面で他社互換バッテリーとの差別化を図り、ユーザーを純正品利用に誘導することで、高利益率のストック型ビジネスモデルを確立している",
+    "url": "https://note.com/ryokubota/n/nce06d1748500",
+    "pass": 3
+   },
+   {
+    "quote": "創業以来培われた「修理屋DNA」を基盤に、マキタは顧客の声を迅速かつ的確に技術へ反映し、長期サポート体制で信頼を維持している",
+    "url": "https://note.com/ryokubota/n/nce06d1748500",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "製品のメニューを開閉します",
+    "url": "https://www.makita.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "NETIS登録製品",
+    "url": "https://www.makita.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "環境に配慮した製品づくり",
+    "url": "https://www.makita.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "エアコンプレッサAC461XLK/B用「セキュリティーキー」アプリサービス及びマスターキー再発行終了のお知らせ",
+    "url": "https://www.makita.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品（充電式ラジオMR103/B）修理のお知らせとお詫び",
+    "url": "https://www.makita.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カテゴリーや品名、モデル番号からお探しいただけます",
+    "url": "https://www.makita.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "全国129ヵ所の営業所を基盤にきめ細かいサービス活動を展開しています",
+    "url": "https://www.makita.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品のメニューを開閉します",
+    "url": "https://www.makita.co.jp/company/about/data/",
+    "pass": 1
+   },
+   {
+    "quote": "NETIS登録製品",
+    "url": "https://www.makita.co.jp/company/about/data/",
+    "pass": 1
+   },
+   {
+    "quote": "環境に配慮した製品づくり",
+    "url": "https://www.makita.co.jp/company/about/data/",
+    "pass": 1
+   },
+   {
+    "quote": "製品のメニューを開閉します",
+    "url": "https://www.makita.co.jp/company/about/business/",
+    "pass": 1
+   },
+   {
+    "quote": "NETIS登録製品",
+    "url": "https://www.makita.co.jp/company/about/business/",
+    "pass": 1
+   },
+   {
+    "quote": "環境に配慮した製品づくり",
+    "url": "https://www.makita.co.jp/company/about/business/",
+    "pass": 1
+   },
+   {
+    "quote": "「人の暮らしと住まい作りに役立つ工具のグローバルサプライヤー」として、電動工具や園芸用機器をはじめ充電製品を中心に製品ラインアップを幅広く展開し、お客さまの多様なニーズに応えています",
+    "url": "https://www.makita.co.jp/company/about/business/",
+    "pass": 1
+   },
+   {
+    "quote": "また、1つのバッテリで数多くのマキタ製品に使用することができるため、バッテリの高い互換性と豊富なラインアップが大きな強みとなっています",
+    "url": "https://www.makita.co.jp/company/about/business/",
+    "pass": 1
+   },
+   {
+    "quote": "手軽なガーデニングからプロによるハードな作業まで、幅広い製品群が緑豊かな暮らしの空間づくりをサポートします",
+    "url": "https://www.makita.co.jp/company/about/business/",
+    "pass": 1
+   },
+   {
+    "quote": "建築現場のみならずオフィスや店舗、倉庫の清掃などプロのニーズに応えるべく、機動性に優れた製品、吸引力と耐久性を高めた製品、騒音を抑えた製品など幅広く展開しています",
+    "url": "https://www.makita.co.jp/company/about/business/",
+    "pass": 1
+   },
+   {
+    "quote": "現場で快適に作業ができる製品群、作業の休息時間をより快適にする製品群を拡充しています",
+    "url": "https://www.makita.co.jp/company/about/business/",
+    "pass": 1
+   },
+   {
+    "quote": "そんな製品をご提案していきます",
+    "url": "https://www.makita.co.jp/company/about/business/",
+    "pass": 1
+   },
+   {
+    "quote": "世界各地のサービス拠点で",
+    "url": "https://www.makita.co.jp/company/about/business/",
+    "pass": 1
+   },
+   {
+    "quote": "また、迅速かつ安定的な修理や部品供給を可能にするため世界各地にきめ細かなサービス拠点網を整備し、お客さまの作業効率・生産性向上をサポートしています",
+    "url": "https://www.makita.co.jp/company/about/business/",
+    "pass": 1
+   },
+   {
+    "quote": "製品のメニューを開閉します",
+    "url": "https://www.makita.co.jp/company/about/director/",
+    "pass": 1
+   },
+   {
+    "quote": "NETIS登録製品",
+    "url": "https://www.makita.co.jp/company/about/director/",
+    "pass": 1
+   },
+   {
+    "quote": "環境に配慮した製品づくり",
+    "url": "https://www.makita.co.jp/company/about/director/",
+    "pass": 1
+   },
+   {
+    "quote": "取締役執行役員開発技術本部長（製品開発担当）",
+    "url": "https://www.makita.co.jp/company/about/director/",
+    "pass": 1
+   },
+   {
+    "quote": "製品のメニューを開閉します",
+    "url": "https://www.makita.co.jp/company/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "NETIS登録製品",
+    "url": "https://www.makita.co.jp/company/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "環境に配慮した製品づくり",
+    "url": "https://www.makita.co.jp/company/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "エンジン製品の生産を終了",
+    "url": "https://www.makita.co.jp/company/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品のメニューを開閉します",
+    "url": "https://www.makita.co.jp/sustainability/environment/01/",
+    "pass": 1
+   },
+   {
+    "quote": "NETIS登録製品",
+    "url": "https://www.makita.co.jp/sustainability/environment/01/",
+    "pass": 1
+   },
+   {
+    "quote": "環境に配慮した製品づくり",
+    "url": "https://www.makita.co.jp/sustainability/environment/01/",
+    "pass": 1
+   },
+   {
+    "quote": "開発設計段階において、製品アセスメントを実施し、充電式を中心とする環境に配慮した製品開発を行う",
+    "url": "https://www.makita.co.jp/sustainability/environment/01/",
+    "pass": 1
+   },
+   {
+    "quote": "製品のメニューを開閉します",
+    "url": "https://www.makita.co.jp/sustainability/environment/02/",
+    "pass": 1
+   },
+   {
+    "quote": "NETIS登録製品",
+    "url": "https://www.makita.co.jp/sustainability/environment/02/",
+    "pass": 1
+   },
+   {
+    "quote": "環境に配慮した製品づくり",
+    "url": "https://www.makita.co.jp/sustainability/environment/02/",
+    "pass": 1
+   },
+   {
+    "quote": "製品を通じた貢献",
+    "url": "https://www.makita.co.jp/sustainability/environment/02/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、2005年に世界初となるリチウムイオンバッテリを採用したプロ用電動工具を市場に投入して以来、充電製品のラインアップを拡充しており、近年では特にエンジン式が主流である園芸用機器（OPE）において、エンジン式から充電式への置き換えを積極的に推進しています",
+    "url": "https://www.makita.co.jp/sustainability/environment/02/",
+    "pass": 1
+   },
+   {
+    "quote": "気候変動など環境問題に対する意識が高まる中、エンジン製品は排ガスによる環境面への影響が大きな課題となっています",
+    "url": "https://www.makita.co.jp/sustainability/environment/02/",
+    "pass": 1
+   },
+   {
+    "quote": "また、このような状況を踏まえ、エンジン製品の生産を終了しました",
+    "url": "https://www.makita.co.jp/sustainability/environment/02/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は今後もさらに充電製品の開発・生産・販売・サービスに経営資源を集中させ、エンジン式に匹敵する使用感を持つ充電製品を通じて「エンジンから充電へ」の流れを加速させ、脱炭素社会の実現に貢献していきます",
+    "url": "https://www.makita.co.jp/sustainability/environment/02/",
+    "pass": 1
+   },
+   {
+    "quote": "製品のメニューを開閉します",
+    "url": "https://www.makita.co.jp/sustainability/environment/05/",
+    "pass": 1
+   },
+   {
+    "quote": "NETIS登録製品",
+    "url": "https://www.makita.co.jp/sustainability/environment/05/",
+    "pass": 1
+   },
+   {
+    "quote": "環境に配慮した製品づくり",
+    "url": "https://www.makita.co.jp/sustainability/environment/05/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の小型化、軽量化、長寿命化",
+    "url": "https://www.makita.co.jp/sustainability/environment/05/",
+    "pass": 1
+   },
+   {
+    "quote": "修理性に配慮した製品設計およびアフターサービスの提供による廃棄製品の低減",
+    "url": "https://www.makita.co.jp/sustainability/environment/05/",
+    "pass": 1
+   },
+   {
+    "quote": "海洋に流出したプラスチックごみにより地球規模での環境汚染が懸念されており、社会的にも使い捨てプラスチック削減の取り組みが進む中、当社は持続可能な社会の実現および生物多様性の保全に貢献するため、“当社製品の包装に使用する使い捨てプラスチックの削減”に取り組んでいます",
+    "url": "https://www.makita.co.jp/sustainability/environment/05/",
+    "pass": 1
+   },
+   {
+    "quote": "従来の包装の簡素化に加え、2021年3月期からは当社製品の包装に使用するポリ袋などの削減を進めており、具体的には製品の梱包に使用する内材の工夫を通じポリ袋の削減に取り組んでいます",
+    "url": "https://www.makita.co.jp/sustainability/environment/05/",
+    "pass": 1
+   },
+   {
+    "quote": "製品のメニューを開閉します",
+    "url": "https://www.makita.co.jp/sustainability/environment/04/",
+    "pass": 1
+   },
+   {
+    "quote": "NETIS登録製品",
+    "url": "https://www.makita.co.jp/sustainability/environment/04/",
+    "pass": 1
+   },
+   {
+    "quote": "環境に配慮した製品づくり",
+    "url": "https://www.makita.co.jp/sustainability/environment/04/",
+    "pass": 1
+   },
+   {
+    "quote": "「充電製品の総合サプライヤー」として数多くのバッテリを供給する当社にとって、環境保護と資源の有効活用のため、使用済みのバッテリの回収は責務であると考えています",
+    "url": "https://www.makita.co.jp/sustainability/environment/04/",
+    "pass": 1
+   },
+   {
+    "quote": "環境に配慮した製品づくり | 株式会社マキタ",
+    "url": "https://www.makita.co.jp/sustainability/environment/03/",
+    "pass": 1
+   },
+   {
+    "quote": "製品のメニューを開閉します",
+    "url": "https://www.makita.co.jp/sustainability/environment/03/",
+    "pass": 1
+   },
+   {
+    "quote": "NETIS登録製品",
+    "url": "https://www.makita.co.jp/sustainability/environment/03/",
+    "pass": 1
+   },
+   {
+    "quote": "環境に配慮した製品づくり",
+    "url": "https://www.makita.co.jp/sustainability/environment/03/",
+    "pass": 1
+   },
+   {
+    "quote": "製品設計における環境配慮",
+    "url": "https://www.makita.co.jp/sustainability/environment/03/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の環境配慮製品の考え方は、1992年の製品に対するアセスメントに端を発します",
+    "url": "https://www.makita.co.jp/sustainability/environment/03/",
+    "pass": 1
+   },
+   {
+    "quote": "そして、1993年のマキタ地球環境憲章とともに明文化され、環境に配慮した製品の開発が本格的にスタートしました",
+    "url": "https://www.makita.co.jp/sustainability/environment/03/",
+    "pass": 1
+   },
+   {
+    "quote": "新製品の設計時は、エネルギー効率の改善、軽量化、長寿命化に取り組むほか、製品に用いる各部品の材料が再生可能か確認し、社内規定で定めた割合以上に使用するなど環境に配慮した材料を使用し、再資源化が可能な製品の開発を進めています",
+    "url": "https://www.makita.co.jp/sustainability/environment/03/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "会社紹介映像",
+    "url": "https://www.makita.co.jp/company/about/data/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介 | 株式会社マキタ",
+    "url": "https://www.makita.co.jp/company/about/business/",
+    "pass": 1
+   },
+   {
+    "quote": "建築現場のみならずオフィスや店舗、倉庫の清掃などプロのニーズに応えるべく、機動性に優れた製品、吸引力と耐久性を高めた製品、騒音を抑えた製品など幅広く展開しています",
+    "url": "https://www.makita.co.jp/company/about/business/",
+    "pass": 1
+   },
+   {
+    "quote": "同パートナー就任",
+    "url": "https://www.makita.co.jp/company/about/director/",
+    "pass": 1
+   },
+   {
+    "quote": "名古屋市で開催された世界デザイン博覧会で工業デザイナー ジョルジェット・ジウジアーロ氏デザインの電動工具3機種（マルノコ、グラインダ、ドリル）を紹介",
+    "url": "https://www.makita.co.jp/company/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "また、2021年12月にStiftung GRS Batterien とマキタ・ヴェルクツォイクGmbH（ドイツ） は、電動工具部門で業界協定を結び、共同してホームセンターなど電動工具販売店にリチウムイオンバッテリ専用の回収ボックスを設置し、使用済みのリチウムイオンバッテリの回収率を上げて再資源化を推進する取り組みを行っています",
+    "url": "https://www.makita.co.jp/sustainability/environment/04/",
+    "pass": 1
+   },
+   {
+    "quote": "マキタの看板を掲げている販売店（参照：Googleマップ）",
+    "url": "https://note.com/ryokubota/n/nce06d1748500",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "1915年（大正4年）3月21日",
+    "url": "https://www.makita.co.jp/company/about/data/",
+    "pass": 1
+   },
+   {
+    "quote": "1938年（昭和13年）12月10日",
+    "url": "https://www.makita.co.jp/company/about/data/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月24日現在",
+    "url": "https://www.makita.co.jp/company/about/director/",
+    "pass": 1
+   },
+   {
+    "quote": "1971年3月",
+    "url": "https://www.makita.co.jp/company/about/director/",
+    "pass": 1
+   },
+   {
+    "quote": "1984年5月",
+    "url": "https://www.makita.co.jp/company/about/director/",
+    "pass": 1
+   },
+   {
+    "quote": "1987年7月",
+    "url": "https://www.makita.co.jp/company/about/director/",
+    "pass": 1
+   },
+   {
+    "quote": "1989年5月",
+    "url": "https://www.makita.co.jp/company/about/director/",
+    "pass": 1
+   },
+   {
+    "quote": "2013年6月",
+    "url": "https://www.makita.co.jp/company/about/director/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月",
+    "url": "https://www.makita.co.jp/company/about/director/",
+    "pass": 1
+   },
+   {
+    "quote": "1999年4月",
+    "url": "https://www.makita.co.jp/company/about/director/",
+    "pass": 1
+   },
+   {
+    "quote": "2012年4月",
+    "url": "https://www.makita.co.jp/company/about/director/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年6月",
+    "url": "https://www.makita.co.jp/company/about/director/",
+    "pass": 1
+   },
+   {
+    "quote": "1974年3月",
+    "url": "https://www.makita.co.jp/company/about/director/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年10月",
+    "url": "https://www.makita.co.jp/company/about/director/",
+    "pass": 1
+   },
+   {
+    "quote": "2001年10月",
+    "url": "https://www.makita.co.jp/company/about/director/",
+    "pass": 1
+   },
+   {
+    "quote": "2003年9月",
+    "url": "https://www.makita.co.jp/company/about/director/",
+    "pass": 1
+   },
+   {
+    "quote": "2007年6月",
+    "url": "https://www.makita.co.jp/company/about/director/",
+    "pass": 1
+   },
+   {
+    "quote": "2009年6月",
+    "url": "https://www.makita.co.jp/company/about/director/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年5月",
+    "url": "https://www.makita.co.jp/company/about/director/",
+    "pass": 1
+   },
+   {
+    "quote": "1981年3月",
+    "url": "https://www.makita.co.jp/company/about/director/",
+    "pass": 1
+   },
+   {
+    "quote": "2004年4月",
+    "url": "https://www.makita.co.jp/company/about/director/",
+    "pass": 1
+   },
+   {
+    "quote": "2005年8月",
+    "url": "https://www.makita.co.jp/company/about/director/",
+    "pass": 1
+   },
+   {
+    "quote": "2006年10月",
+    "url": "https://www.makita.co.jp/company/about/director/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年6月",
+    "url": "https://www.makita.co.jp/company/about/director/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年6月",
+    "url": "https://www.makita.co.jp/company/about/director/",
+    "pass": 1
+   },
+   {
+    "quote": "1978年3月",
+    "url": "https://www.makita.co.jp/company/about/director/",
+    "pass": 1
+   },
+   {
+    "quote": "2003年10月",
+    "url": "https://www.makita.co.jp/company/about/director/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 株式会社マキタ",
+    "url": "https://www.makita.co.jp/company/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1915年（大正4年）、マキタはモータの販売修理会社として産声をあげました",
+    "url": "https://www.makita.co.jp/company/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "会社沿革の表",
+    "url": "https://www.makita.co.jp/company/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1915年3月",
+    "url": "https://www.makita.co.jp/company/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1935年9月",
+    "url": "https://www.makita.co.jp/company/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1938年12月",
+    "url": "https://www.makita.co.jp/company/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1945年4月",
+    "url": "https://www.makita.co.jp/company/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1958年1月",
+    "url": "https://www.makita.co.jp/company/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1959年11月",
+    "url": "https://www.makita.co.jp/company/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1962年5月",
+    "url": "https://www.makita.co.jp/company/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1962年8月",
+    "url": "https://www.makita.co.jp/company/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1963年3月",
+    "url": "https://www.makita.co.jp/company/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1968年8月",
+    "url": "https://www.makita.co.jp/company/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1969年4月",
+    "url": "https://www.makita.co.jp/company/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1970年7月",
+    "url": "https://www.makita.co.jp/company/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1971年9月",
+    "url": "https://www.makita.co.jp/company/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1972年12月",
+    "url": "https://www.makita.co.jp/company/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1973年5月",
+    "url": "https://www.makita.co.jp/company/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1973年6月",
+    "url": "https://www.makita.co.jp/company/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1973年11月",
+    "url": "https://www.makita.co.jp/company/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1977年2月",
+    "url": "https://www.makita.co.jp/company/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1977年4月",
+    "url": "https://www.makita.co.jp/company/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1978年12月",
+    "url": "https://www.makita.co.jp/company/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1980年4月",
+    "url": "https://www.makita.co.jp/company/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1981年2月",
+    "url": "https://www.makita.co.jp/company/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度、当社に関連した環境法は大きな法規制の改正がありませんでした",
+    "url": "https://www.makita.co.jp/sustainability/environment/01/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年7月、岡崎工場の仮設処理設備から泡の流出事故が発生しました",
+    "url": "https://www.makita.co.jp/sustainability/environment/01/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期の温室効果ガス排出量（Scope1、2）は前期比5.2%増の60,016t-CO₂となりました",
+    "url": "https://www.makita.co.jp/sustainability/environment/02/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期においては、海外ではイギリス工場に太陽光パネルを増設、国内では埼玉物流センターおよび兵庫支店に新設しました",
+    "url": "https://www.makita.co.jp/sustainability/environment/02/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期は、「LED蛍光管への交換」「空調設備、コンプレッサの効率改善」などにより、本社と岡崎工場、日進事業所では、合計で年間消費電力量を前期比125,462kWh削減しました",
+    "url": "https://www.makita.co.jp/sustainability/environment/02/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年3月期からは、”最終処分率0.5%以下”を当社の「廃棄物ゼロエミッション」の定義としており、廃棄物ゼロエミッションを毎年の年次目標として掲げ、これまで継続して達成しています",
+    "url": "https://www.makita.co.jp/sustainability/environment/05/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期は、生産台数の増加に伴い発生量は増加したものの、売上の増加により、売上原単位はマキタ単体では前期並みの0.8t/億円、海外生産子会社では前期比1.1%減の3.3t/億円となりました",
+    "url": "https://www.makita.co.jp/sustainability/environment/05/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期は生産台数の減少に伴い使用量は減少し、売上原単位はマキタ単体では前期比24.1%増の24.2㎥ /億円、海外生産子会社では前期比15.9%減の47.1㎥ /億円となりました",
+    "url": "https://www.makita.co.jp/sustainability/environment/05/",
+    "pass": 1
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "また、1つのバッテリで数多くのマキタ製品に使用することができるため、バッテリの高い互換性と豊富なラインアップが大きな強みとなっています",
+    "url": "https://www.makita.co.jp/company/about/business/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の事業概要、強み、特徴についてご案内します",
+    "url": "https://www.makita.co.jp/ir/shareholders/",
+    "pass": 1
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "性能面で他社互換バッテリーとの差別化を図り、ユーザーを純正品利用に誘導することで、高利益率のストック型ビジネスモデルを確立している",
+    "url": "https://note.com/ryokubota/n/nce06d1748500",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://note.com/ryokubota/n/nce06d1748500",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "営業担当者が受注から修理、代替機貸出まで一括対応を行い、販売チャネルの利益を守りつつ、消耗品（刃物、ビット、バッテリー）と保守サービスから安定した収益を上げている",
+    "url": "https://note.com/ryokubota/n/nce06d1748500",
+    "pass": 3
+   },
+   {
+    "quote": "性能面で他社互換バッテリーとの差別化を図り、ユーザーを純正品利用に誘導することで、高利益率のストック型ビジネスモデルを確立している",
+    "url": "https://note.com/ryokubota/n/nce06d1748500",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "この市場でマキタは海外売上比率が83％に達し、特に為替効果も手伝って欧州での売上が大半を占める",
+    "url": "https://note.com/ryokubota/n/nce06d1748500",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "事業戦略 | 株式会社 マキタ — 事業戦略 | 株式会社 マキタ 株式会社マキタ https://www.makita.co.jp > 企業情報 > 経営方針",
+    "url": "https://www.makita.co.jp/company/strategy/management/",
+    "pass": 3
+   },
+   {
+    "quote": "100年企業 マキタ が生み出した「バッテリー生態系」 - note — 100年企業 マキタ が生み出した「バッテリー生態系」 - note note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/ryokubota/n/nce06d1748500",
+    "pass": 3
+   },
+   {
+    "quote": "事業紹介 | 株式会社 マキタ — 事業紹介 | 株式会社 マキタ 株式会社マキタ https://www.makita.co.jp > 企業情報 > 会社概要",
+    "url": "https://www.makita.co.jp/company/about/business/",
+    "pass": 3
+   },
+   {
+    "quote": "マキタ を知るためのキーワード | 株式会社 マキタ 採用情報サイト — マキタ を知るためのキーワード | 株式会社 マキタ 採用情報サイト 株式会社マキタ https://www.makita.co.jp > recruit > about > keyword",
+    "url": "https://www.makita.co.jp/recruit/about/keyword/",
+    "pass": 3
+   },
+   {
+    "quote": "(株) マキタ の電動工具事業における ビジネスモデル と知財 ... — (株) マキタ の電動工具事業における ビジネスモデル と知財 ... J-Global https://jglobal.jst.go.jp > detail",
+    "url": "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202102279113078602",
+    "pass": 3
+   },
+   {
+    "quote": "IRイベント（ 決算説明 会、株主総会） - マキタ — IRイベント（ 決算説明 会、株主総会） - マキタ 株式会社マキタ https://www.makita.co.jp > event > event_01",
+    "url": "https://www.makita.co.jp/ir/event/event_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR 資料 室｜投資家情報 | 株式会社 マキタ — IR 資料 室｜投資家情報 | 株式会社 マキタ 株式会社マキタ https://www.makita.co.jp > library > library_01",
+    "url": "https://www.makita.co.jp/ir/library/library_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信｜IR 資料 室｜投資家情報 | 株式会社 マキタ — 決算 短信｜IR 資料 室｜投資家情報 | 株式会社 マキタ 株式会社マキタ https://www.makita.co.jp > library > library_02",
+    "url": "https://www.makita.co.jp/ir/library/library_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "投資家情報 | 株式会社 マキタ — 投資家情報 | 株式会社 マキタ 株式会社マキタ https://www.makita.co.jp > ...",
+    "url": "https://www.makita.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "IRイベント（ 決算説明 会、株主総会） - マキタ — IRイベント（ 決算説明 会、株主総会） - マキタ 株式会社マキタ https://www.makita.co.jp > event > event_03",
+    "url": "https://www.makita.co.jp/ir/event/event_03.html",
+    "pass": 3
+   },
+   {
+    "quote": "【表紙】 - マキタ — 【表紙】 - マキタ 株式会社マキタ PDF https://www.makita.co.jp > upload_file",
+    "url": "https://www.makita.co.jp/ir/upload_file/m005-m005_03/S100W2Z1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 | 株式会社 マキタ — 企業情報 | 株式会社 マキタ 株式会社マキタ https://www.makita.co.jp > company",
+    "url": "https://www.makita.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "マキタ 【6586】の 事業 内容 - キタイシホン — マキタ 【6586】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/6586/business",
+    "pass": 3
+   },
+   {
+    "quote": "マキタ の職種 | 株式会社 マキタ 採用情報サイト — マキタ の職種 | 株式会社 マキタ 採用情報サイト 株式会社マキタ https://www.makita.co.jp > recruit > work",
+    "url": "https://www.makita.co.jp/recruit/work/",
+    "pass": 3
+   },
+   {
+    "quote": "事業 戦略 | 株式会社 マキタ — 事業 戦略 | 株式会社 マキタ 株式会社マキタ https://www.makita.co.jp > 企業情報 > 経営方針",
+    "url": "https://www.makita.co.jp/company/strategy/management/",
+    "pass": 3
+   },
+   {
+    "quote": "マキタ社長 ・後藤宗利氏 設備保全にIoT活用 | 機械 ニュース — マキタ社長 ・後藤宗利氏 設備保全にIoT活用 | 機械 ニュース 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/507169",
+    "pass": 3
+   },
+   {
+    "quote": "マキタ 代表取締役 社長 の後藤宗利氏。 - ナタリー — マキタ 代表取締役 社長 の後藤宗利氏。 - ナタリー ナタリー https://natalie.mu > music > gallery > news",
+    "url": "https://natalie.mu/music/gallery/news/693051/2989177",
+    "pass": 3
+   },
+   {
+    "quote": "マキタ の歴代 社長 - The社史 — マキタ の歴代 社長 - The社史 The社史 https://the-shashi.com > マキタの歴史",
+    "url": "https://the-shashi.com/tse/6586/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "ごあいさつ | 株式会社 マキタ — ごあいさつ | 株式会社 マキタ 株式会社マキタ https://www.makita.co.jp > 企業情報",
+    "url": "https://www.makita.co.jp/company/president/",
+    "pass": 3
+   },
+   {
+    "quote": "Mia   (ファンアカウント) on X: \" マキタ 代表取締役 社長 の後藤 ... — Mia   (ファンアカウント) on X: \" マキタ 代表取締役 社長 の後藤 ... X https://x.com > @LJ0611",
+    "url": "https://x.com/LJ0611/status/2109174839668089078",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.makita.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makita.co.jp/company/about/data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makita.co.jp/company/about/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makita.co.jp/company/about/director/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makita.co.jp/company/about/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makita.co.jp/sustainability/environment/01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makita.co.jp/sustainability/environment/02/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makita.co.jp/sustainability/environment/05/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makita.co.jp/sustainability/environment/04/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makita.co.jp/sustainability/environment/03/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makita.co.jp/sustainability/environment/06/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makita.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makita.co.jp/ir/management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makita.co.jp/ir/finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makita.co.jp/ir/library/library_01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makita.co.jp/ir/event/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makita.co.jp/ir/stock_bond/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makita.co.jp/ir/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makita.co.jp/ir/shareholders/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makita.co.jp/ir/disclaimer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makita.co.jp/ir/index1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makita.co.jp/ir/aboutsite/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makita.co.jp/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makita.co.jp/inquiry/motorunit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makita.co.jp/inquiry/torque/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.makita.co.jp/upload/news/attach/MAKITA_CM_release.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.makita.co.jp/company/about/data/files/corporate_profile2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.makita.co.jp/sustainability/environment/02/files/tcfd2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.makita.co.jp/company/about/business/img/mv.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.makita.co.jp/company/about/business/img/img_gardening07.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.com/ryokubota/n/nce06d1748500",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/507169",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://natalie.mu/music/gallery/news/693051/2989177",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "マキタ",
+   "results": [
+    "https://www.makita.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AD%E3%82%BF",
+    "https://www.amazon.co.jp/stores/%E3%83%9E%E3%82%AD%E3%82%BFMakita/page/A1121B4C-E226-457E-8F69-A2519D2AF857",
+    "https://makitatools.com/",
+    "https://search.rakuten.co.jp/search/mall/%E3%83%9E%E3%82%AD%E3%82%BF/",
+    "https://x.com/makita_jp_",
+    "https://ja.wikipedia.org/wiki/マキタ",
+    "https://en.wikipedia.org/wiki/Makita",
+    "https://www.makita.co.jp/product/",
+    "https://www.makita-stoic-strong.jp/"
+   ]
+  },
+  {
+   "query": "マキタ ビジネスモデル",
+   "results": [
+    "https://www.makita.co.jp/company/strategy/management/",
+    "https://note.com/ryokubota/n/nce06d1748500",
+    "https://www.makita.co.jp/company/about/business/",
+    "https://www.makita.co.jp/recruit/about/keyword/",
+    "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202102279113078602",
+    "https://voltechno.com/blog/makita-totalsupplier2023/",
+    "https://www.makita.co.jp/ir/upload_file/m004-m004_01/20260512_pr.pdf",
+    "https://www.makita.co.jp/recruit/about/strong/",
+    "https://www.makita.co.jp/ir/upload_file/m005-m005_05/makita_report_view2023.pdf",
+    "https://www.makita.co.jp/company/about/data/files/corporate_profile2025.pdf"
+   ]
+  },
+  {
+   "query": "マキタ 決算説明資料",
+   "results": [
+    "https://www.makita.co.jp/ir/event/event_01.html",
+    "https://www.makita.co.jp/ir/library/library_01.html",
+    "https://www.makita.co.jp/ir/library/library_02.html",
+    "https://www.makita.co.jp/ir/",
+    "https://www.makita.co.jp/ir/event/event_03.html",
+    "https://www.makita.co.jp/ir/library/library_08.html",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=6586",
+    "https://www.makita.co.jp/ir/library/library_03.html",
+    "https://www.makita.co.jp/ir/upload_file/m004-m004_01/202503pr.pdf",
+    "https://edinetdb.jp/company/E01920/ir-docs/"
+   ]
+  },
+  {
+   "query": "マキタ 事業系統図",
+   "results": [
+    "https://www.makita.co.jp/ir/upload_file/m005-m005_03/S100W2Z1.pdf",
+    "https://www.makita.co.jp/company/",
+    "https://kitaishihon.com/company/6586/business",
+    "https://www.makita.co.jp/recruit/work/",
+    "https://www.makita.co.jp/company/strategy/management/",
+    "https://job.mynavi.jp/28/pc/search/corp55229/outline.html",
+    "https://www.makita.co.jp/ir/upload_file/m004-m004_01/20260512_pr.pdf",
+    "https://www.makita.co.jp/recruit/about/keyword/",
+    "https://www.youtube.com/watch?v=Ylkt5Thcnuw",
+    "https://www.makita.co.jp/company/about/business/"
+   ]
+  },
+  {
+   "query": "マキタ 社長 インタビュー",
+   "results": [
+    "https://www.nikkan.co.jp/articles/view/507169",
+    "https://natalie.mu/music/gallery/news/693051/2989177",
+    "https://the-shashi.com/tse/6586/ceo/",
+    "https://www.makita.co.jp/company/president/",
+    "https://x.com/LJ0611/status/2109174839668089078",
+    "https://jobtalk.jp/companies/2206/answers/1038034",
+    "https://www.youtube.com/watch?v=oCX9DzwhIeU",
+    "https://kitaishihon.com/company/6586/board-of-director",
+    "https://www.nikkei.com/article/DGXZQOFD120U20S3A110C2000000/",
+    "https://rs-kagawa.net/change/202408_makita.html"
+   ]
+  }
+ ],
+ "missing": {}
+}

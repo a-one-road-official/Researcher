@@ -1,0 +1,1276 @@
+{
+ "name": "サンコール",
+ "aliases": [],
+ "context": "証券コード5985／金属製品／スタンダード（内国株式）／2026.03期 売上高52,223百万円 営業利益率13.7%",
+ "researched_at": "2026-11-02T19:19:18.024477+00:00",
+ "official_url": "https://www.suncall.co.jp/",
+ "identified_by": "search:yahoo_jp:サンコール",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1943年（昭和18年）6月",
+    "url": "https://www.suncall.co.jp/corporate/profile/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "493名（グループ連結：1,897名）",
+    "url": "https://www.suncall.co.jp/corporate/profile/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "47,438 53,399 51,496 63,940 52,223",
+    "url": "https://www.suncall.co.jp/ir/financial.html",
+    "pass": 1
+   },
+   {
+    "label": "売上高営業利益率（％）",
+    "value": "1.4% 0.6% -6.9% 5.4% 13.6%",
+    "url": "https://www.suncall.co.jp/ir/financial.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "お取引先様ホットライン",
+    "url": "https://www.suncall.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様ホットライン",
+    "url": "https://www.suncall.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様ホットライン",
+    "url": "https://www.suncall.co.jp/corporate/biz_material.html",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様ホットライン",
+    "url": "https://www.suncall.co.jp/product/index.html?type=environment",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様ホットライン",
+    "url": "https://www.suncall.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "また、緑地による自然を身近に感じることにより社員のみでなく、お客様や地域の方の環境意識の芽生えになればと願っています",
+    "url": "https://www.suncall.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様ホットライン",
+    "url": "https://www.suncall.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様ホットライン",
+    "url": "https://www.suncall.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様ホットライン",
+    "url": "https://www.suncall.co.jp/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様ホットライン",
+    "url": "https://www.suncall.co.jp/ir/yuho/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様ホットライン",
+    "url": "https://www.suncall.co.jp/ir/briefing/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様ホットライン",
+    "url": "https://www.suncall.co.jp/ir/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様ホットライン",
+    "url": "https://www.suncall.co.jp/ir/return/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様ホットライン",
+    "url": "https://www.suncall.co.jp/ir/financial.html",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様ホットライン",
+    "url": "https://www.suncall.co.jp/ir/stocks.html",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様ホットライン",
+    "url": "https://www.suncall.co.jp/ir/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様ホットライン",
+    "url": "https://www.suncall.co.jp/ir/publicnotice/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様ホットライン",
+    "url": "https://www.suncall.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトをご利用されるにあたり、利用者の次の行為を禁止します",
+    "url": "https://www.suncall.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "なお、本サイトにより利用者に提供される製品、技術等の情報は、著作権法、工業所有権法その他の法令で保護されています",
+    "url": "https://www.suncall.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "5. 当社の利用条件や本サイトの情報の変更、削除、公開の中断、中止・停止に起因してご利用者に生じる一切の損害",
+    "url": "https://www.suncall.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "6. お客様が、リンクを通じてお客様のアクセスされるウェブサイトに関する一切の事項",
+    "url": "https://www.suncall.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社に対する利用者からのお問い合わせにおきまして、利用者や第三者の営業秘密、新商品等の企画、新商品等、およびその他事業に関する提案・資料・アイディア等を当社にお送りいただくのは、本サイトにて特に募集した場合を除きご遠慮ください",
+    "url": "https://www.suncall.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社が特別に秘密保持の義務を負うとの意思を明示していない状態で利用者からご提案等を当社へ提供されることがあっても、次の義務・責任を負いません",
+    "url": "https://www.suncall.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは利用者各位の使用するIPアドレスを含むアクセスログの記録と保管を行っています",
+    "url": "https://www.suncall.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "主要顧客の受注減少により前期比減少",
+    "url": "https://www.suncall.co.jp/wp/wp-content/uploads/2026/05/20260513kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年6月、顧客への出荷を同7月で終了し、",
+    "url": "https://www.suncall.co.jp/wp/wp-content/uploads/2026/05/20260513kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "<プリンター関連> 顧客の受注減少により前期比▲15.0%減収",
+    "url": "https://www.suncall.co.jp/wp/wp-content/uploads/2026/05/20260513kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "< 材料関連 > 主要顧客の受注減少により▲13.5%減収",
+    "url": "https://www.suncall.co.jp/wp/wp-content/uploads/2026/05/20260513kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主要顧客の受注増加により前年同期比",
+    "url": "https://www.suncall.co.jp/wp/wp-content/uploads/2026/08/20260807kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "< 材 料 関 連> 主要顧客の受注増加により+27.8%増収",
+    "url": "https://www.suncall.co.jp/wp/wp-content/uploads/2026/08/20260807kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "✓ 顧客ニーズに対し自由な形状を実現可能",
+    "url": "https://www.suncall.co.jp/wp/wp-content/uploads/2025/05/20250515tyukei_3-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "れの顧客用途に応じカスタマイズ可能",
+    "url": "https://www.suncall.co.jp/wp/wp-content/uploads/2025/05/20250515tyukei_3-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "カスタマイズ・品揃えによる顧客への付加価値訴求",
+    "url": "https://www.suncall.co.jp/wp/wp-content/uploads/2025/05/20250515tyukei_3-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "✓ 自社独自設計により、顧客ニーズを反映した豊富なライン",
+    "url": "https://www.suncall.co.jp/wp/wp-content/uploads/2025/05/20250515tyukei_3-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・ サンコールグループ企業理念に基づくサステナビリティ経営の推進は、お客様や",
+    "url": "https://www.suncall.co.jp/wp/wp-content/uploads/2025/05/20250515tyukei_3-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "市場・顧客にマッチした",
+    "url": "https://www.suncall.co.jp/wp/wp-content/uploads/2025/05/20250515tyukei_3-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・取引先との価格・契約見直し、不採算製品の値上げ促進",
+    "url": "https://www.suncall.co.jp/wp/wp-content/uploads/2026/05/20260513tyukei_syusei.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・通信関連事業 主要取引先との関係強化・大口受注獲得",
+    "url": "https://www.suncall.co.jp/wp/wp-content/uploads/2026/05/20260513tyukei_syusei.pdf",
+    "pass": 2
+   }
+  ],
+  "何を": [
+   {
+    "quote": "測定器関連・その他の製品",
+    "url": "https://www.suncall.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品区分別情報",
+    "url": "https://www.suncall.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "測定器関連・その他の製品",
+    "url": "https://www.suncall.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "製品区分別情報",
+    "url": "https://www.suncall.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "EV製品シャントバスバー量産開始",
+    "url": "https://www.suncall.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "兼 製品戦略室長",
+    "url": "https://www.suncall.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "兼 製品戦略副室長",
+    "url": "https://www.suncall.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "常務執行役員 情報製品部門長",
+    "url": "https://www.suncall.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "測定器関連・その他の製品",
+    "url": "https://www.suncall.co.jp/corporate/biz_material.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品区分別情報",
+    "url": "https://www.suncall.co.jp/corporate/biz_material.html",
+    "pass": 1
+   },
+   {
+    "quote": "高精度な製品は、",
+    "url": "https://www.suncall.co.jp/corporate/biz_material.html",
+    "pass": 1
+   },
+   {
+    "quote": "サンコールの最大の強みともいうべき、精密機能材料から製品までの一貫生産工程において、材料工程を担う部門が材料関連事業です",
+    "url": "https://www.suncall.co.jp/corporate/biz_material.html",
+    "pass": 1
+   },
+   {
+    "quote": "納入されたすべての線材は全周全長に渡り表面層を皮削し、製品として有害な疵、脱炭層を除去します",
+    "url": "https://www.suncall.co.jp/corporate/biz_material.html",
+    "pass": 1
+   },
+   {
+    "quote": "高品質な製品を世界３極体制で展開",
+    "url": "https://www.suncall.co.jp/corporate/biz_material.html",
+    "pass": 1
+   },
+   {
+    "quote": "> 材料関連製品へ",
+    "url": "https://www.suncall.co.jp/corporate/biz_material.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品紹介 | サンコール株式会社",
+    "url": "https://www.suncall.co.jp/product/index.html?type=environment",
+    "pass": 1
+   },
+   {
+    "quote": "測定器関連・その他の製品",
+    "url": "https://www.suncall.co.jp/product/index.html?type=environment",
+    "pass": 1
+   },
+   {
+    "quote": "製品区分別情報",
+    "url": "https://www.suncall.co.jp/product/index.html?type=environment",
+    "pass": 1
+   },
+   {
+    "quote": "ご覧になりたい製品カテゴリーを下のボタンから選んでください",
+    "url": "https://www.suncall.co.jp/product/index.html?type=environment",
+    "pass": 1
+   },
+   {
+    "quote": "測定器関連・その他の製品",
+    "url": "https://www.suncall.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "製品区分別情報",
+    "url": "https://www.suncall.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "地球社会の一員として、公徳優先、人間尊重をベースに技術集約型精密製品の創造をビジネステーマとした事業活動の中で、自然環境の保全に万全を期すとともに、貴重な資源を大切にし、地球環境に貢献します",
+    "url": "https://www.suncall.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "1. 電子・情報機器関連部門、自動車製品関連部品、精密機器材料の事業活動において、積極的に環境の保全に取り組みます",
+    "url": "https://www.suncall.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちサンコールは、「地球社会の一員として、 公徳優先､人間尊重をベースに 技術集約型精密製品の創造をビジネステーマとした事業活動の中で、自然環境の保全に万全を期すとともに貴重な資源を大切にし、 地球環境に貢献します",
+    "url": "https://www.suncall.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "測定器関連・その他の製品",
+    "url": "https://www.suncall.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品区分別情報",
+    "url": "https://www.suncall.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "日刊産業新聞に掲載されました （経営戦略を聞く バスバー量産化最終段階 次世代光通信製品の供給強化 2026年6月23日付 3面)",
+    "url": "https://www.suncall.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "測定器関連・その他の製品",
+    "url": "https://www.suncall.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "製品区分別情報",
+    "url": "https://www.suncall.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "測定器関連・その他の製品",
+    "url": "https://www.suncall.co.jp/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "製品区分別情報",
+    "url": "https://www.suncall.co.jp/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "測定器関連・その他の製品",
+    "url": "https://www.suncall.co.jp/ir/yuho/",
+    "pass": 1
+   },
+   {
+    "quote": "製品区分別情報",
+    "url": "https://www.suncall.co.jp/ir/yuho/",
+    "pass": 1
+   },
+   {
+    "quote": "測定器関連・その他の製品",
+    "url": "https://www.suncall.co.jp/ir/briefing/",
+    "pass": 1
+   },
+   {
+    "quote": "製品区分別情報",
+    "url": "https://www.suncall.co.jp/ir/briefing/",
+    "pass": 1
+   },
+   {
+    "quote": "測定器関連・その他の製品",
+    "url": "https://www.suncall.co.jp/ir/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "製品区分別情報",
+    "url": "https://www.suncall.co.jp/ir/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "測定器関連・その他の製品",
+    "url": "https://www.suncall.co.jp/ir/return/",
+    "pass": 1
+   },
+   {
+    "quote": "製品区分別情報",
+    "url": "https://www.suncall.co.jp/ir/return/",
+    "pass": 1
+   },
+   {
+    "quote": "測定器関連・その他の製品",
+    "url": "https://www.suncall.co.jp/ir/financial.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品区分別情報",
+    "url": "https://www.suncall.co.jp/ir/financial.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品区分別連結売上高の推移",
+    "url": "https://www.suncall.co.jp/ir/financial.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品区分別連結売上高",
+    "url": "https://www.suncall.co.jp/ir/financial.html",
+    "pass": 1
+   },
+   {
+    "quote": "材料関連製品",
+    "url": "https://www.suncall.co.jp/ir/financial.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動車関連製品",
+    "url": "https://www.suncall.co.jp/ir/financial.html",
+    "pass": 1
+   },
+   {
+    "quote": "測定器関連・その他の製品",
+    "url": "https://www.suncall.co.jp/ir/stocks.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品区分別情報",
+    "url": "https://www.suncall.co.jp/ir/stocks.html",
+    "pass": 1
+   },
+   {
+    "quote": "測定器関連・その他の製品",
+    "url": "https://www.suncall.co.jp/ir/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "製品区分別情報",
+    "url": "https://www.suncall.co.jp/ir/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "測定器関連・その他の製品",
+    "url": "https://www.suncall.co.jp/ir/publicnotice/",
+    "pass": 1
+   },
+   {
+    "quote": "製品区分別情報",
+    "url": "https://www.suncall.co.jp/ir/publicnotice/",
+    "pass": 1
+   },
+   {
+    "quote": "測定器関連・その他の製品",
+    "url": "https://www.suncall.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品区分別情報",
+    "url": "https://www.suncall.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "なお、本サイトにより利用者に提供される製品、技術等の情報は、著作権法、工業所有権法その他の法令で保護されています",
+    "url": "https://www.suncall.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "なお、皆様が当社株式を含む株式取引を行う際には、金融商品取引法その他の法令の遵守をお願いいたします",
+    "url": "https://www.suncall.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社に対する利用者からのお問い合わせにおきまして、利用者や第三者の営業秘密、新商品等の企画、新商品等、およびその他事業に関する提案・資料・アイディア等を当社にお送りいただくのは、本サイトにて特に募集した場合を除きご遠慮ください",
+    "url": "https://www.suncall.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "アクセスログは、アクセス傾向を分析し、より良いお客さまサービスを提供していくために使用致します",
+    "url": "https://www.suncall.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "古川 研二 EV 製品部門長 EV 製品部門長",
+    "url": "https://www.suncall.co.jp/wp/wp-content/uploads/2026/09/20260918%E4%BA%BA%E4%BA%8B%E7%95%B0%E5%8B%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（兼）EV 製品部長",
+    "url": "https://www.suncall.co.jp/wp/wp-content/uploads/2026/09/20260918%E4%BA%BA%E4%BA%8B%E7%95%B0%E5%8B%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "久保元 雅之 EV 製品部長 EV 製品二課長",
+    "url": "https://www.suncall.co.jp/wp/wp-content/uploads/2026/09/20260918%E4%BA%BA%E4%BA%8B%E7%95%B0%E5%8B%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.pdf",
+    "pass": 2
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "プレスリリースを発行しました【サンコール菊池、「モノづくりフェア2026in福岡」に出展 精密ばね・EV向けバスバー（BUSBAR）や環境素材「KYO BAMBLACK」を福岡で紹介 】",
+    "url": "https://www.suncall.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "プレスリリースを発行しました【サンコール、B.LEAGUE「京都ハンナリーズ」と2026-27シーズンのオフィシャルパートナー契約を継続】",
+    "url": "https://www.suncall.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "プレスリリースを発行しました【ものづくりパートナーフォーラム2026出展のお知らせ】",
+    "url": "https://www.suncall.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品紹介 | サンコール株式会社",
+    "url": "https://www.suncall.co.jp/product/index.html?type=environment",
+    "pass": 1
+   },
+   {
+    "quote": "ものづくりパートナーフォーラム 2026 出 展 のお 知 らせ",
+    "url": "https://www.suncall.co.jp/wp/wp-content/uploads/2026/08/%E3%80%90%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%80%91%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A02026%E5%87%BA%E5%B1%95%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "梅 田 ハービスホールで 開 催 される 「 ものづくりパートナーフォーラム 2026 」 に 出 展 しま",
+    "url": "https://www.suncall.co.jp/wp/wp-content/uploads/2026/08/%E3%80%90%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%80%91%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A02026%E5%87%BA%E5%B1%95%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "イベント 名 ものづくりパートナーフォーラム 2026",
+    "url": "https://www.suncall.co.jp/wp/wp-content/uploads/2026/08/%E3%80%90%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%80%91%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A02026%E5%87%BA%E5%B1%95%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.pdf",
+    "pass": 2
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年3月31日現在",
+    "url": "https://www.suncall.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "1943年（昭和18年）6月",
+    "url": "https://www.suncall.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月26日現在",
+    "url": "https://www.suncall.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2011年 10月",
+    "url": "https://www.suncall.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2002年 11月",
+    "url": "https://www.suncall.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2004年 5月",
+    "url": "https://www.suncall.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年 5月",
+    "url": "https://www.suncall.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2012年 2月",
+    "url": "https://www.suncall.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年 8月",
+    "url": "https://www.suncall.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年 12月",
+    "url": "https://www.suncall.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年 4月",
+    "url": "https://www.suncall.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月7日",
+    "url": "https://www.suncall.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期連結業績予想の修正及び配当予想の修正に関するお知らせ",
+    "url": "https://www.suncall.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期 業績補足説明資料 を掲載しました",
+    "url": "https://www.suncall.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月13日",
+    "url": "https://www.suncall.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 決算短信 を掲載しました",
+    "url": "https://www.suncall.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 業績補足説明資料 を掲載しました",
+    "url": "https://www.suncall.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月6日",
+    "url": "https://www.suncall.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月23日",
+    "url": "https://www.suncall.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月17日",
+    "url": "https://www.suncall.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月4日",
+    "url": "https://www.suncall.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月7日",
+    "url": "https://www.suncall.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期",
+    "url": "https://www.suncall.co.jp/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期",
+    "url": "https://www.suncall.co.jp/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 決算短信",
+    "url": "https://www.suncall.co.jp/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.suncall.co.jp/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.suncall.co.jp/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://www.suncall.co.jp/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://www.suncall.co.jp/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期",
+    "url": "https://www.suncall.co.jp/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月期",
+    "url": "https://www.suncall.co.jp/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年3月期",
+    "url": "https://www.suncall.co.jp/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年3月期",
+    "url": "https://www.suncall.co.jp/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年3月期",
+    "url": "https://www.suncall.co.jp/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年3月期",
+    "url": "https://www.suncall.co.jp/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年3月期",
+    "url": "https://www.suncall.co.jp/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期",
+    "url": "https://www.suncall.co.jp/ir/briefing/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.suncall.co.jp/ir/briefing/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.suncall.co.jp/ir/briefing/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.suncall.co.jp/ir/briefing/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://www.suncall.co.jp/ir/briefing/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://www.suncall.co.jp/ir/briefing/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期",
+    "url": "https://www.suncall.co.jp/ir/briefing/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月期",
+    "url": "https://www.suncall.co.jp/ir/briefing/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年3月期",
+    "url": "https://www.suncall.co.jp/ir/briefing/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年3月期 株主交流会資料-2",
+    "url": "https://www.suncall.co.jp/ir/briefing/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年3月期 株主交流会資料-1",
+    "url": "https://www.suncall.co.jp/ir/briefing/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年3月期",
+    "url": "https://www.suncall.co.jp/ir/briefing/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年3月期",
+    "url": "https://www.suncall.co.jp/ir/briefing/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年3月期",
+    "url": "https://www.suncall.co.jp/ir/briefing/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年3月期",
+    "url": "https://www.suncall.co.jp/ir/briefing/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月26日（金） 午前10時",
+    "url": "https://www.suncall.co.jp/ir/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年9 月 18 日",
+    "url": "https://www.suncall.co.jp/wp/wp-content/uploads/2026/09/20260918%E4%BA%BA%E4%BA%8B%E7%95%B0%E5%8B%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年10月1日付 人事異動",
+    "url": "https://www.suncall.co.jp/wp/wp-content/uploads/2026/09/20260918%E4%BA%BA%E4%BA%8B%E7%95%B0%E5%8B%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.suncall.co.jp/wp/wp-content/uploads/2026/05/20260513kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年 5 月 13 日",
+    "url": "https://www.suncall.co.jp/wp/wp-content/uploads/2026/05/20260513kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年3月期 決算のポイント",
+    "url": "https://www.suncall.co.jp/wp/wp-content/uploads/2026/05/20260513kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年6月、顧客への出荷を同7月で終了し、",
+    "url": "https://www.suncall.co.jp/wp/wp-content/uploads/2026/05/20260513kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年3月期 決算概要",
+    "url": "https://www.suncall.co.jp/wp/wp-content/uploads/2026/05/20260513kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年3月期 四半期業績推移",
+    "url": "https://www.suncall.co.jp/wp/wp-content/uploads/2026/05/20260513kessan.pdf",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "サンコールの最大の強みともいうべき、精密機能材料から製品までの一貫生産工程において、材料工程を担う部門が材料関連事業です",
+    "url": "https://www.suncall.co.jp/corporate/biz_material.html",
+    "pass": 1
+   },
+   {
+    "quote": "売上高 / 営業利益 / 経営利益 / 当期純利益 / 売上高営業利益率（連結）の推移",
+    "url": "https://www.suncall.co.jp/ir/financial.html",
+    "pass": 1
+   },
+   {
+    "quote": "売上高 / 営業利益 / 経常利益 / 当期純利益 / 売上高営業利益率（連結）",
+    "url": "https://www.suncall.co.jp/ir/financial.html",
+    "pass": 1
+   },
+   {
+    "quote": "売上高営業利益率（％）",
+    "url": "https://www.suncall.co.jp/ir/financial.html",
+    "pass": 1
+   },
+   {
+    "quote": "売上高 営業利益 営業利益率 ROE",
+    "url": "https://www.suncall.co.jp/wp/wp-content/uploads/2025/05/20250515tyukei_3-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 5.3% 13.6% - 6.0% 11.5% - 6.3% 12.6% -",
+    "url": "https://www.suncall.co.jp/wp/wp-content/uploads/2026/05/20260513tyukei_syusei.pdf",
+    "pass": 2
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "【単元未満株式の買取・買増手数料（無料）について】",
+    "url": "https://www.suncall.co.jp/ir/stocks.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、平成２１年１月５日から単元未満株式（100株未満の株式）の買取請求・買増請求にかかる手数料を無料（注）（従来は請求された株主様のご負担）としております",
+    "url": "https://www.suncall.co.jp/ir/stocks.html",
+    "pass": 1
+   },
+   {
+    "quote": "（注）無料としている手数料は、当社にかかる手数料です",
+    "url": "https://www.suncall.co.jp/ir/stocks.html",
+    "pass": 1
+   },
+   {
+    "quote": "証券会社において取次手数料等がかかる場合がございますので、お取引の証券会社にお問合せください",
+    "url": "https://www.suncall.co.jp/ir/stocks.html",
+    "pass": 1
+   },
+   {
+    "quote": "・生産能力増強、次世代高密度コネクタライセンス取得",
+    "url": "https://www.suncall.co.jp/wp/wp-content/uploads/2026/05/20260513tyukei_syusei.pdf",
+    "pass": 2
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "事業セグメント別 業績ハイライト",
+    "url": "https://www.suncall.co.jp/wp/wp-content/uploads/2025/05/20250515tyukei_3-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業セグメント別業績 GGP24目標 比較",
+    "url": "https://www.suncall.co.jp/wp/wp-content/uploads/2025/05/20250515tyukei_3-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別経営数値目標",
+    "url": "https://www.suncall.co.jp/wp/wp-content/uploads/2025/05/20250515tyukei_3-1.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "S U N C A L L CORPORATE P R O F I L E - サンコール — S U N C A L L CORPORATE P R O F I L E - サンコール サンコール株式会社 PDF https://www.suncall.co.jp > corp_pdf > sc_cp_ja",
+    "url": "https://www.suncall.co.jp/corporate/corp_pdf/sc_cp_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "材料関連事業概要 | 企業情報 | サンコール 株式会社 — 材料関連事業概要 | 企業情報 | サンコール 株式会社 サンコール株式会社 https://www.suncall.co.jp > corporate > biz_material",
+    "url": "https://www.suncall.co.jp/corporate/biz_material.html",
+    "pass": 3
+   },
+   {
+    "quote": "サンコール 株式会社 — サンコール 株式会社 サンコール株式会社 https://www.suncall.co.jp > NEWS",
+    "url": "https://www.suncall.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "【バフェットの視点】 サンコール (5985) は『買い』か？ - note — 【バフェットの視点】 サンコール (5985) は『買い』か？ - note note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/open_azalea2045/n/nc766bbeaae94",
+    "pass": 3
+   },
+   {
+    "quote": "中期経営方針 | IR情報 | サンコール 株式会社 — 中期経営方針 | IR情報 | サンコール 株式会社 サンコール株式会社 https://www.suncall.co.jp > IR情報",
+    "url": "https://www.suncall.co.jp/ir/plan/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 資料 | IR情報 | サンコール 株式会社 — 決算説明 会 資料 | IR情報 | サンコール 株式会社 サンコール株式会社 https://www.suncall.co.jp > IR情報",
+    "url": "https://www.suncall.co.jp/ir/briefing/",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信 | IR情報 | サンコール 株式会社 — 決算 短信 | IR情報 | サンコール 株式会社 サンコール株式会社 https://www.suncall.co.jp > IR情報",
+    "url": "https://www.suncall.co.jp/ir/earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 | サンコール 株式会社 — IR情報 | サンコール 株式会社 サンコール株式会社 https://www.suncall.co.jp > ...",
+    "url": "https://www.suncall.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "SUNCALL サンコール 株式会社【公式】 - X — SUNCALL サンコール 株式会社【公式】 - X X https://x.com > @SUNCALL6",
+    "url": "https://x.com/SUNCALL6/status/2054475054566801588",
+    "pass": 3
+   },
+   {
+    "quote": "サンコール 株式会社 2025 年 3 月期 決算説明 ・中期 ... - YouTube — サンコール 株式会社 2025 年 3 月期 決算説明 ・中期 ... - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=iYoxLsqZrK4",
+    "pass": 3
+   },
+   {
+    "quote": "有 価 証 券 報 告 書 - サンコール株式会社 — 有 価 証 券 報 告 書 - サンコール株式会社 サンコール株式会社 PDF https://www.suncall.co.jp > uploads > 2018/06",
+    "url": "https://www.suncall.co.jp/wp/wp-content/uploads/2018/06/2018_101th4q_yuho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "プロフィール | 企業情報 | サンコール 株式会社 — プロフィール | 企業情報 | サンコール 株式会社 サンコール株式会社 https://www.suncall.co.jp > 企業情報",
+    "url": "https://www.suncall.co.jp/corporate/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "有 価 証 券 報 告 書 - サンコール株式会社 — 有 価 証 券 報 告 書 - サンコール株式会社 サンコール株式会社 PDF https://www.suncall.co.jp > uploads > 2017/05",
+    "url": "https://www.suncall.co.jp/wp/wp-content/uploads/2017/05/2012_95th_yuho.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国内拠点・海外拠点 | 企業情報 | サンコール 株式会社 — 国内拠点・海外拠点 | 企業情報 | サンコール 株式会社 サンコール株式会社 https://www.suncall.co.jp > 企業情報",
+    "url": "https://www.suncall.co.jp/corporate/base/",
+    "pass": 3
+   },
+   {
+    "quote": "第107期（2024年3月期） 有価証券報告書 - サンコール株式会社 — 第107期（2024年3月期） 有価証券報告書 - サンコール株式会社 サンコール株式会社 PDF https://www.suncall.co.jp > 107期_有価証券報告書",
+    "url": "https://www.suncall.co.jp/wp/wp-content/uploads/2024/06/107%E6%9C%9F_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025-03-21 03面 流転 サンコール 奈良正 社長 — 2025-03-21 03面 流転 サンコール 奈良正 社長 サンコール株式会社 PDF https://www.suncall.co.jp > uploads > 2025/03 > 20...",
+    "url": "https://www.suncall.co.jp/wp/wp-content/uploads/2025/03/2025-03-2103%E9%9D%A2%E3%80%80%E6%B5%81%E8%BB%A2%E3%80%80%E3%82%B5%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E3%80%80%E5%A5%88%E8%89%AF%E6%AD%A3%E7%A4%BE%E9%95%B7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ムダに思えるものが、人生を豊かにする」 サンコール 今牧 ... — ムダに思えるものが、人生を豊かにする」 サンコール 今牧 ... 美容業界ニュースメディア https://www.beautopia.jp > 特集・インタビュー",
+    "url": "https://www.beautopia.jp/119178/",
+    "pass": 3
+   },
+   {
+    "quote": "SUNCALL サンコール 株式会社【公式】 (@SUNCALL6) / X — SUNCALL サンコール 株式会社【公式】 (@SUNCALL6) / X X https://x.com > SUNCALL6",
+    "url": "https://x.com/SUNCALL6",
+    "pass": 3
+   },
+   {
+    "quote": "トップメッセージ | 採用情報 | サンコール 株式会社 — トップメッセージ | 採用情報 | サンコール 株式会社 サンコール株式会社 https://www.suncall.co.jp > recruit > message",
+    "url": "https://www.suncall.co.jp/recruit/message.html",
+    "pass": 3
+   },
+   {
+    "quote": "連載「流転2025 部品トップ インタビュー 」（43） サンコール ... — 連載「流転2025 部品トップ インタビュー 」（43） サンコール ... 日刊自動車新聞 https://www.netdenjd.com > archives",
+    "url": "https://www.netdenjd.com/archives/558139",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.suncall.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.suncall.co.jp/corporate/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.suncall.co.jp/corporate/biz_material.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.suncall.co.jp/product/index.html?type=environment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.suncall.co.jp/sustainability/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.suncall.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.suncall.co.jp/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.suncall.co.jp/ir/earnings/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.suncall.co.jp/ir/yuho/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.suncall.co.jp/ir/briefing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.suncall.co.jp/ir/plan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.suncall.co.jp/ir/return/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.suncall.co.jp/ir/financial.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.suncall.co.jp/ir/stocks.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.suncall.co.jp/ir/meeting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.suncall.co.jp/ir/publicnotice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.suncall.co.jp/about.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.suncall.co.jp/wp/wp-content/uploads/2026/10/%E4%BA%AC%E9%83%BD%E3%81%AE%E7%AB%B9%E3%81%A7%E6%B4%BB%E6%80%A7%E7%82%AD-%E3%82%B5%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%BB%BA%E6%9D%90%E3%83%BB%E8%BB%8A%E5%86%85%E8%A3%85%E6%9D%90%E5%90%91%E3%81%91%E3%80%90%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E20260930%E3%80%91.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.suncall.co.jp/wp/wp-content/uploads/2026/09/20260918%E4%BA%BA%E4%BA%8B%E7%95%B0%E5%8B%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.suncall.co.jp/wp/wp-content/uploads/2026/08/%E3%80%90%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%80%91%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A02026%E5%87%BA%E5%B1%95%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.suncall.co.jp/wp/wp-content/uploads/2026/05/20260513kessan.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.suncall.co.jp/wp/wp-content/uploads/2026/08/20260807kessan.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.suncall.co.jp/wp/wp-content/uploads/2025/05/20250515tyukei_3-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.suncall.co.jp/wp/wp-content/uploads/2026/05/20260513tyukei_syusei.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.suncall.co.jp/wp/wp-content/uploads/2026/08/20260807syusei.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.beautopia.jp/119178/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "サンコール",
+   "results": [
+    "https://www.suncall.co.jp/",
+    "https://suncall-net.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB",
+    "https://x.com/SUNCALL6",
+    "https://suncallprofessional.com/",
+    "https://ja.wikipedia.org/wiki/サンコール",
+    "https://grokipedia.com/page/Suncall_Corporation",
+    "https://www.suncall.co.jp/product/",
+    "https://suncall-eng.co.jp/",
+    "https://suncallamerica.com/"
+   ]
+  },
+  {
+   "query": "サンコール ビジネスモデル",
+   "results": [
+    "https://www.suncall.co.jp/corporate/corp_pdf/sc_cp_ja.pdf",
+    "https://www.suncall.co.jp/corporate/biz_material.html",
+    "https://www.suncall.co.jp/",
+    "https://note.com/open_azalea2045/n/nc766bbeaae94",
+    "https://www.suncall.co.jp/ir/plan/",
+    "https://www.mcframe.com/case/suncall",
+    "https://www.suncall.co.jp/ir/",
+    "https://x.com/SUNCALL6",
+    "https://job.mynavi.jp/27/pc/search/corp55867/outline.html",
+    "https://consovation.com/サンコールのビジネスモデルと成長戦略がもたら/"
+   ]
+  },
+  {
+   "query": "サンコール 決算説明資料",
+   "results": [
+    "https://www.suncall.co.jp/ir/briefing/",
+    "https://www.suncall.co.jp/ir/earnings/",
+    "https://www.suncall.co.jp/ir/",
+    "https://x.com/SUNCALL6/status/2054475054566801588",
+    "https://www.youtube.com/watch?v=iYoxLsqZrK4",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=5985",
+    "https://www.suncall.co.jp/ir/yuho/",
+    "https://kabutan.jp/stock/finance?code=5985",
+    "https://www.suncall.co.jp/ir/plan/"
+   ]
+  },
+  {
+   "query": "サンコール 事業系統図",
+   "results": [
+    "https://www.suncall.co.jp/wp/wp-content/uploads/2018/06/2018_101th4q_yuho.pdf",
+    "https://www.suncall.co.jp/corporate/profile/",
+    "https://www.suncall.co.jp/wp/wp-content/uploads/2017/05/2012_95th_yuho.pdf",
+    "https://www.suncall.co.jp/corporate/base/",
+    "https://www.suncall.co.jp/wp/wp-content/uploads/2024/06/107%E6%9C%9F_%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf",
+    "https://job.mynavi.jp/28/pc/search/corp55867/outline.html",
+    "https://note.com/open_azalea2045/n/nc766bbeaae94",
+    "https://www.suncall.co.jp/ir/plan/",
+    "https://www.suncall.co.jp/corporate/biz_material.html",
+    "https://www.suncall.co.jp/"
+   ]
+  },
+  {
+   "query": "サンコール 社長 インタビュー",
+   "results": [
+    "https://www.suncall.co.jp/wp/wp-content/uploads/2025/03/2025-03-2103%E9%9D%A2%E3%80%80%E6%B5%81%E8%BB%A2%E3%80%80%E3%82%B5%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E3%80%80%E5%A5%88%E8%89%AF%E6%AD%A3%E7%A4%BE%E9%95%B7.pdf",
+    "https://www.beautopia.jp/119178/",
+    "https://x.com/SUNCALL6",
+    "https://www.suncall.co.jp/recruit/message.html",
+    "https://www.netdenjd.com/archives/558139",
+    "https://www.youtube.com/channel/UCE-zNkcd3dHq4M_vTNC-E8w",
+    "https://shachomeikan.jp/industry_article/2896",
+    "https://kitaishihon.com/company/5985/board-of-director",
+    "https://www.suncall.co.jp/recruit/voice.html",
+    "https://x.com/SUNCALL6/status/2075365017931890832"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式17頁／PDF・画像8件／外部1頁・検索5回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式17頁／PDF・画像8件／外部1頁・検索5回）"
+ }
+}

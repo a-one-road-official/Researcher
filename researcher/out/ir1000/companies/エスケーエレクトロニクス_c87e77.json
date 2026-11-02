@@ -1,0 +1,1771 @@
+{
+ "name": "エスケーエレクトロニクス",
+ "aliases": [],
+ "context": "証券コード6677／電気機器／スタンダード（内国株式）／2025.09期 売上高29,187百万円 営業利益率13.2%",
+ "researched_at": "2026-11-02T19:32:17.565967+00:00",
+ "official_url": "https://www.sk-el.co.jp/",
+ "identified_by": "search:yahoo_jp:エスケーエレクトロニクス",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2001年10月1日",
+    "url": "https://www.sk-el.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2001年10月1日",
+    "url": "https://www.sk-el.co.jp/ir/stocks.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "大型フォトマスク事業",
+    "url": "https://www.sk-el.co.jp/company/profile.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "437名（連結）（2025年9月30日現在）",
+    "url": "https://www.sk-el.co.jp/company/profile.html",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "25,640百万円 28,776百万円 ＋12.2％",
+    "url": "https://kitaishihon.com/company/6677/business",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "86百万円 84百万円 △2.9％",
+    "url": "https://kitaishihon.com/company/6677/business",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "―百万円 326百万円 ―",
+    "url": "https://kitaishihon.com/company/6677/business",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "",
+    "url": "https://kitaishihon.com/company/6677/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "25,640,166 86,851 25,727,018 ― 25,727,018",
+    "url": "https://kitaishihon.com/company/6677/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部 売上高又は振替高",
+    "value": "― 2,724 2,724 △2,724 ―",
+    "url": "https://kitaishihon.com/company/6677/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "28,776,572 84,354 326,273 29,187,200 ― 29,187,200",
+    "url": "https://kitaishihon.com/company/6677/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部 売上高又は振替高",
+    "value": "― 1,811 ― 1,811 △1,811 ―",
+    "url": "https://kitaishihon.com/company/6677/business",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "社会の求める良い製品を作り出していくことで、",
+    "url": "https://www.sk-el.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "RFID分野では、極小RFIDシステムにより、製造、物流、小売、サービス、交通などのさまざまな分野で、マイクロメートルレベルのトレーサビリティを提供してまいります",
+    "url": "https://www.sk-el.co.jp/ir/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社経営理念「創造と調和」には、「社会、自然そして人との調和を大切にしながら、社会の求める良い商品を創造していくことで、物質的にも精神的にも豊かな社会の実現に寄与する」という想いが込められており、その実現に向けて取締役はじめ全社一丸となって取り組んでおります",
+    "url": "https://www.sk-el.co.jp/ir/governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報はこちら",
+    "url": "https://www.sk-el.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社法・金融商品取引法等の法令を遵守し、取引所の定める会社情報の適時開示等に関する規則（以下規則等という）に準拠した情報（以下取引所開示規則準拠情報という）ならびにその他の重要な情報を迅速かつ公平に開示する",
+    "url": "https://www.sk-el.co.jp/ir/information-disclosure.html",
+    "pass": 1
+   },
+   {
+    "quote": "」を基本姿勢に、当社の事業活動や製品及びサービスによる環境影響を評価し、以下の方針に基づき環境問題に継続的に取り組んでまいります",
+    "url": "https://www.sk-el.co.jp/sustainability/environmental.html",
+    "pass": 1
+   },
+   {
+    "quote": "グリーン調達に取り組み、環境に優しい製品作りに努めます",
+    "url": "https://www.sk-el.co.jp/sustainability/environmental.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するお問い合わせ",
+    "url": "https://www.sk-el.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "ただし、当社ウェブサイトを通じてお問い合わせ、資料請求等をいただいた場合には、お問い合わせフォーム等にご入力いただいた情報、当社が保有するお客様情報、および当該お問い合わせ等に関連する当社ウェブサイトの利用状況（閲覧履歴、資料ダウンロード履歴等）を照合・分析し、お問い合わせへの対応、当社の商品・サービスに関する情報提供、営業上のご連絡、施策効果の測定および営業活動・マーケティング活動の改善のために利用することがあります",
+    "url": "https://www.sk-el.co.jp/about/privacy-policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社ウェブサイトでは、サイト利用状況の分析、サービスの改善およびお問い合わせ対応の品質向上のために、Google社のGoogleアナリティクス（",
+    "url": "https://www.sk-el.co.jp/about/privacy-policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社または当社グループ会社が取扱う製品・サービス（以下製品等という）の販売・提供、サポート対応およびお支払いに関する業務のため",
+    "url": "https://www.sk-el.co.jp/about/privacy-policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品等の企画・開発、および改善のため",
+    "url": "https://www.sk-el.co.jp/about/privacy-policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品等に関する展示会、イベント、アンケート等に関するご案内のため",
+    "url": "https://www.sk-el.co.jp/about/privacy-policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社経営理念「創造と調和」には、「社会、自然そして人との調和を大切にしながら、社会の求める良い商品を創造していくことで、物質的にも精",
+    "url": "https://www.sk-el.co.jp/assets/docs/cg-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、金融商品取引所が定める独立役員の独立性に関する判断基準と同等の基準により、独立社外取締役の独立性の判断を行っておりま",
+    "url": "https://www.sk-el.co.jp/assets/docs/cg-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "同法人との間に製品販売の取引がありま",
+    "url": "https://www.sk-el.co.jp/assets/docs/cg-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "会の求める良い製品を作り出していくことで、物質的にも精神的にも豊かな社会の実現に",
+    "url": "https://www.sk-el.co.jp/assets/docs/cg-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "める良い製品を提供するこ とにより、 社会に貢献する』 こ とを意味",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "い製品を作り出していく こ とで、 物質的にも精神的にも豊かな社会",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "特にIT製品向",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "― ソリューション事業についてお聞かせください",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ソリューション事業の売上高は2024年9月期に前期比",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年9月期は、 高精細化 ・高機能化 ・製品ラインナッ",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ズの高まり、 有機ELパネルのIT製品への搭載の増加、 車載",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年9月期は主力事業である大型フォ",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "― 主力事業であるフォトマスク事業のリスクについてお",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "和を大切にしながら、 社会の求める良い製品を作り出して",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ソリューション事業の成長スピードを早めたい",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "今後も、 主力のフォ トマスク事業のみならず、 新規事業も含め、 技術開発型企業としての社会的存在価値をさらに高めていく こ とを目指します",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 未来を豊かにする製品づく り",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "競争優位の源泉 （技術・製品） ：",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "高付加価値品、 独自製品で、",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は大型フォ トマスクの設計 ・製造 ・販売を主力事業",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "パネルや有機ELパネルの製造に必要不可欠な製品です",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "築するべく ソリューション事業も展開しています",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "野、 ヘルスケア分野に参入し、 独自に開発した製品がニッ",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ソ リューション事業も独自製品で着実に成長",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主力の大型フォ トマスク事業においては高付加価値品が",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ことで、 ソリューション事業を含めた全社としても、 高い生",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "最先端のフォ ト リ ソグラフィー技術を追求し、 絶えず製品を",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "競争優位の源泉 （技術・製品） ：高付加価値品、 独自製品で、 競合との差別化に成功",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ソリューション事業のRFID分野もヘルスケア分野も、",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://unlk.jp/case/sk-el/",
+    "pass": 3
+   },
+   {
+    "quote": "サービスメニュー",
+    "url": "https://unlk.jp/case/sk-el/",
+    "pass": 3
+   },
+   {
+    "quote": "顧問サービス",
+    "url": "https://unlk.jp/case/sk-el/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年9月より、unlockの営業支援サービスをご利用いただき、",
+    "url": "https://unlk.jp/case/sk-el/",
+    "pass": 3
+   },
+   {
+    "quote": "今回ご利用されたサービス：",
+    "url": "https://unlk.jp/case/sk-el/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社サービスをいつもご利用いただきまして、本当にありがとうございます",
+    "url": "https://unlk.jp/case/sk-el/",
+    "pass": 3
+   },
+   {
+    "quote": "我々企画グループが発足してから約1年ですが、自分達で調べている中で、unlockさんのようなサービスだったり、顧問を派遣してくれるようなサービスだったり、いろんな外部サービスを初めて知りましたので、その中から当社に合いそうなものを順次使わせていただいている形です",
+    "url": "https://unlk.jp/case/sk-el/",
+    "pass": 3
+   },
+   {
+    "quote": "以前は弊社の「営業DX（現ターゲットファインダー）」サービスをご利用いただいて、今は「unlockプライム」というサービスで主にリサーチ案件でご利用いただいていますが、こちらをお使いいただくに至った背景なども教えてくださいますか？",
+    "url": "https://unlk.jp/case/sk-el/",
+    "pass": 3
+   },
+   {
+    "quote": "我々の企画案件を検証する中で、非常に高額のコンサルティング契約より、もう少し手軽でレスポンス良く試せるものはないかとご相談したら、ちょうどぴったりの新サービスを検討されているというお返事で、すごくマッチしたんです",
+    "url": "https://unlk.jp/case/sk-el/",
+    "pass": 3
+   },
+   {
+    "quote": "先ほど伺った「新規事業の難しさ」で、外部サービスも含めてお探しになられたということでしたが、unlockを選んでいただいた理由を伺えますでしょうか？",
+    "url": "https://unlk.jp/case/sk-el/",
+    "pass": 3
+   },
+   {
+    "quote": "そういうポリシーを共感いただいて、サービスをご利用いただくに至ったのを大変ありがたく思っています",
+    "url": "https://unlk.jp/case/sk-el/",
+    "pass": 3
+   },
+   {
+    "quote": "他社のコンサルタントや伴走サービスでは、その分野の専門の方が担当されて「この業界はこうなんだよ、知り合いはこうなんだよ」って話になるんですよね",
+    "url": "https://unlk.jp/case/sk-el/",
+    "pass": 3
+   },
+   {
+    "quote": "その3者に共通するのは「わかってない」という通常ネガティブなことで、お客様に何かサービスを提供するときは「専門家です」という方が売りやすいんですが",
+    "url": "https://unlk.jp/case/sk-el/",
+    "pass": 3
+   },
+   {
+    "quote": "それを我々社内で、競合企業や競合商品、対象市場の伸びなどを我々が満遍なく、最初から調べるのは非常に時間がかかります",
+    "url": "https://unlk.jp/case/sk-el/",
+    "pass": 3
+   },
+   {
+    "quote": "逆に質問ですが、この新しいunlockプライムというサービスを提供されている他社さんの反応はいかがですか？",
+    "url": "https://unlk.jp/case/sk-el/",
+    "pass": 3
+   },
+   {
+    "quote": "そうですね、これまで無かったサービスなのでちょっと驚かれつつ、お得感もありますし、とても喜んでいただいています",
+    "url": "https://unlk.jp/case/sk-el/",
+    "pass": 3
+   },
+   {
+    "quote": "unlockプライムの「シェルパ」サービスでも、プレゼン資料の添削といいますか、確認やアドバイスもさせていただくことも可能です",
+    "url": "https://unlk.jp/case/sk-el/",
+    "pass": 3
+   },
+   {
+    "quote": "エスケーエレクトロニクス様がご利用されたunlockのサービス",
+    "url": "https://unlk.jp/case/sk-el/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年9月期 第3四半期決算概要",
+    "url": "https://www.sk-el.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月期通期個別業績予想に関するお知らせ",
+    "url": "https://www.sk-el.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月期第３四半期決算短信[日本基準]（連結）",
+    "url": "https://www.sk-el.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2001年10月1日",
+    "url": "https://www.sk-el.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 企業情報 | SK-Electronics CO.,LTD.",
+    "url": "https://www.sk-el.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1988年3月",
+    "url": "https://www.sk-el.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1995年9月",
+    "url": "https://www.sk-el.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1999年4月",
+    "url": "https://www.sk-el.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2001年10月",
+    "url": "https://www.sk-el.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2002年5月",
+    "url": "https://www.sk-el.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2002年9月",
+    "url": "https://www.sk-el.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2003年9月",
+    "url": "https://www.sk-el.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2004年7月",
+    "url": "https://www.sk-el.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2004年12月",
+    "url": "https://www.sk-el.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2005年1月",
+    "url": "https://www.sk-el.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2005年11月",
+    "url": "https://www.sk-el.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2008年11月",
+    "url": "https://www.sk-el.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2008年12月",
+    "url": "https://www.sk-el.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2009年3月",
+    "url": "https://www.sk-el.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2010年9月",
+    "url": "https://www.sk-el.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2011年9月",
+    "url": "https://www.sk-el.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2012年11月",
+    "url": "https://www.sk-el.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2013年12月",
+    "url": "https://www.sk-el.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2014年7月",
+    "url": "https://www.sk-el.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2014年10月",
+    "url": "https://www.sk-el.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2016年6月",
+    "url": "https://www.sk-el.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年6月",
+    "url": "https://www.sk-el.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2018年6月",
+    "url": "https://www.sk-el.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年3月",
+    "url": "https://www.sk-el.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2001年10月1日",
+    "url": "https://www.sk-el.co.jp/ir/stocks.html",
+    "pass": 1
+   },
+   {
+    "quote": "2003年9月18日",
+    "url": "https://www.sk-el.co.jp/ir/stocks.html",
+    "pass": 1
+   },
+   {
+    "quote": "2001年10月1日です",
+    "url": "https://www.sk-el.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "2003年9月18日です",
+    "url": "https://www.sk-el.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月期においては、精査の結果、保有するすべての上場株式について保有の合理",
+    "url": "https://www.sk-el.co.jp/assets/docs/cg-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年9月期において",
+    "url": "https://www.sk-el.co.jp/assets/docs/cg-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年9月期における当該評価の結果の概要につい",
+    "url": "https://www.sk-el.co.jp/assets/docs/cg-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年12月19日",
+    "url": "https://www.sk-el.co.jp/assets/docs/cg-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年10月に「任意の指名・報酬委員会」を設置しました",
+    "url": "https://www.sk-el.co.jp/assets/docs/cg-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年9月期に関しては計４回開催しております",
+    "url": "https://www.sk-el.co.jp/assets/docs/cg-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年12月19日開催の第24期定時株主総会については、法定期日より4営業日前の11",
+    "url": "https://www.sk-el.co.jp/assets/docs/cg-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025 年12 月 19 日",
+    "url": "https://www.sk-el.co.jp/assets/docs/governance01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025 年12 月 19 日",
+    "url": "https://www.sk-el.co.jp/assets/docs/governance02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025 年９月期につきまして、以下の通り、評価結果の概要をご報告いたします",
+    "url": "https://www.sk-el.co.jp/assets/docs/governance02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025 年12 月 19 日",
+    "url": "https://www.sk-el.co.jp/assets/docs/governance03.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025 年９月期に関しては計４回開催しております",
+    "url": "https://www.sk-el.co.jp/assets/docs/governance03.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年4月",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年9月期の連結業績は、 減収減益となりました",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年9月期は、 高精細化 ・高機能化 ・製品ラインナッ",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年9月期のフォ",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年に公表した中期経営計画における中長期的な",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年9月期に351億円でしたが、 2024年の中期経",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年に公表した中期経営計画では2024年から2026",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年の中期経営計画では今後3年間の成長投資額を",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年公表の中期経営計画から10億円増額して220億円",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年以降に中国で計画されるなど、 好材料があります",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年9月期は主力事業である大型フォ",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年9月期は反転し、 過去最高の売上",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年9月期は減益でも配当性向50％を堅持、 2025年",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年9月期に配当性向を一気に50％に引き上げ、 これ",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年9月期は減収減益と",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "エスケーエレクトロニクスはこのような事業環境の変化をチャンスととらえ、「開拓の精神と不屈の努力」のスローガンのもと、常に進化するお客様のご要望に対応するべく、グループ全体の生産・販売・開発・サポート体制を整え進化させております",
+    "url": "https://www.sk-el.co.jp/ir/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、これらの理念実現のためには、株主・取引先・地域社会・社員などの社内外のステークホルダーの立場を尊重したうえで、公平・公正かつ迅速な意思決定を行う仕組みであるコーポレート・ガバナンスを適切に実践することが肝要と考え、以下のとおりコーポレート・ガバナンスに関する基本方針を定め、かつ実践しております",
+    "url": "https://www.sk-el.co.jp/ir/governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "これらの技術により保存・取得される情報は、単体ではご利用者様個人を直ちに識別するものではありません",
+    "url": "https://www.sk-el.co.jp/about/privacy-policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "ただし、当社ウェブサイトを通じてお問い合わせ、資料請求等をいただいた場合には、お問い合わせフォーム等にご入力いただいた情報、当社が保有するお客様情報、および当該お問い合わせ等に関連する当社ウェブサイトの利用状況（閲覧履歴、資料ダウンロード履歴等）を照合・分析し、お問い合わせへの対応、当社の商品・サービスに関する情報提供、営業上のご連絡、施策効果の測定および営業活動・マーケティング活動の改善のために利用することがあります",
+    "url": "https://www.sk-el.co.jp/about/privacy-policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用者様は、ブラウザの設定により、クッキーを使用しない設定にすることが可能です",
+    "url": "https://www.sk-el.co.jp/about/privacy-policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様、お取引先様の個人情報",
+    "url": "https://www.sk-el.co.jp/about/privacy-policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様からの仕入・購買に関する業務のため",
+    "url": "https://www.sk-el.co.jp/about/privacy-policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社ウェブサイト利用者に関する情報",
+    "url": "https://www.sk-el.co.jp/about/privacy-policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、お客様との信頼関係、社会的信用、技術競争力の維持・強化を目的として、当社が保有する情報資産の保護に努め、強固な情報セキュリティ管理体制を構築していきます",
+    "url": "https://www.sk-el.co.jp/about/info-policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、これらの理念実現のためには、株主・取引先・地域社会・社員などの社内外のステークホルダーの立場を尊重したうえで、公平・公正かつ",
+    "url": "https://www.sk-el.co.jp/assets/docs/cg-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は海外に主要顧客を持つことから、外国人社員が主に営業部門において活躍しております",
+    "url": "https://www.sk-el.co.jp/assets/docs/cg-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "d 上場会社を主要な取引先とする者又はその業務執行者",
+    "url": "https://www.sk-el.co.jp/assets/docs/cg-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "e 上場会社の主要な取引先又はその業務執行者",
+    "url": "https://www.sk-el.co.jp/assets/docs/cg-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "h 上場会社の取引先（d、e及びｆのいずれにも該当しないもの）の業務執行者（本人のみ）",
+    "url": "https://www.sk-el.co.jp/assets/docs/cg-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Ａ．当社を主要な取引先とする者又はその業務執行者",
+    "url": "https://www.sk-el.co.jp/assets/docs/governance01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Ｂ．当社の主要な取引先又はその業務執行者",
+    "url": "https://www.sk-el.co.jp/assets/docs/governance01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "新しいパネルの開発や顧客の新工場稼働の動きに期待",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客が第8.6世代の有機ELパネルの工場を稼働させる計画",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "競合の売上高の調査だけでなく顧客へのヒア",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "トマスク事業が顧客の量産化の影響を受",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "設の要請を受けたことはありますが、 どの顧客からも中立",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の位置を保持する姿勢を貫き、 多くの顧客に納入し、 顧客",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主要顧客は中国と韓国におられますが、 当社グルー",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主要顧客から地理",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "的に離れ、 特定の顧客に依存しない状況で、 シェアを拡大",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "汎用的なレイヤーと高付加価値なレイヤーが混在し、 顧客",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ただ一部の顧客が、 情報漏洩リスクに備えて少量の",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "中立性により強固な顧客基盤を構築",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・特定顧客との取引に依存しない中立性",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・販売先は海外でも部材調達は信頼できるサプ",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、 当社はパネルを製造していないことで、 顧客である",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これらにより、 強固な顧客基盤を",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "た、 主要顧客が外国企業であるこ とから外国籍社員も多数",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "だけでは顧客からの高まる要求水準に追いつきません",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客へ新しい提案を次々に打ち出すなど、 社員が皆大変積",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サプライヤーからの原材料仕入 顧客からの設計図入稿",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、 顧客企業から提供された回路基板 （設計図） を基に、 サプライヤー企業",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客企業は当社が提供するフォ トマスクを基にパネルを大量生産します",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サポートすることにより、 これからもお客様の声を反映させ",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社はお客様のご要望に合わせて、 RFID",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "RFIDについても、 顧客の要望に合わせた様々なニーズ、",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "フォトマスクのビジネスではお客様の要望をできる限り、その通りに正確にやることが求められる性格なのです",
+    "url": "https://unlk.jp/case/sk-el/",
+    "pass": 3
+   },
+   {
+    "quote": "「お客様の要望をその通り正確にやること」を補足させていただくと、具体的には、お客様から（個別発注として）設計図をいただいて、それを我々が正確に、ご希望の納期通りに作り上げる、というビジネスモデルです",
+    "url": "https://unlk.jp/case/sk-el/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちの要望以上のことをunlockさんは考えられて、資料作成だけでなく関連イベントにもきっちり行かれて、そこの販売の方とお客様のご意見もヒアリングしてまとめていただいたので、最新の確実な情報をいただけたと思っています",
+    "url": "https://unlk.jp/case/sk-el/",
+    "pass": 3
+   },
+   {
+    "quote": "先ほど津島さんも仰ったように、調査の段階では、顧客と我々のクライアントと同じ目線でその分野・案件をニュートラルに見て、そこからより興味を持ちながら調査を進めていかれるという点が、まさしく我々の望むことに近いです",
+    "url": "https://unlk.jp/case/sk-el/",
+    "pass": 3
+   },
+   {
+    "quote": "その3者に共通するのは「わかってない」という通常ネガティブなことで、お客様に何かサービスを提供するときは「専門家です」という方が売りやすいんですが",
+    "url": "https://unlk.jp/case/sk-el/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、支援させていただいたお客様の事例なのですが、お客様が作成されたプレゼン資料を拝見すると、これでは多分社内で通らない、というのがわかるんです",
+    "url": "https://unlk.jp/case/sk-el/",
+    "pass": 3
+   },
+   {
+    "quote": "unlock自身がお客様にオーダーメイドの新規事業アイデアを考案します",
+    "url": "https://unlk.jp/case/sk-el/",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高",
+    "url": "https://kitaishihon.com/company/6677/business",
+    "pass": 3
+   },
+   {
+    "quote": "(注) 売上高は顧客の所在地を基礎とし、国又は地域に分類しております",
+    "url": "https://kitaishihon.com/company/6677/business",
+    "pass": 3
+   },
+   {
+    "quote": "３ 主要な顧客ごとの情報",
+    "url": "https://kitaishihon.com/company/6677/business",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の名称又は氏名",
+    "url": "https://kitaishihon.com/company/6677/business",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/6677/business",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "(iv)取締役会が経営陣幹部の選解任と取締役・監査役候補の指名を行うに当たっての方針と手続",
+    "url": "https://www.sk-el.co.jp/assets/docs/cg-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "）候補の指名については、役員としてふさわしい人格、経験、能力を総合的に勘案し、独立社外",
+    "url": "https://www.sk-el.co.jp/assets/docs/cg-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取締役が過半数を占める指名・報酬委員会による審議を経て代表取締役が取締役会に提案し、当該取締役会において慎重に検討のうえ、株主",
+    "url": "https://www.sk-el.co.jp/assets/docs/cg-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "会への解任議案の提出について、指名・報酬委員会による審議のうえ取締役会において決定することとします",
+    "url": "https://www.sk-el.co.jp/assets/docs/cg-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(v)取締役会が上記(iv)を踏まえて経営陣幹部の選解任と取締役・監査役候補の指名を行う際の、個々の選解任・指名についての説明",
+    "url": "https://www.sk-el.co.jp/assets/docs/cg-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取締役候補の個々の選任・指名の理由については、株主総会招集ご通知の参考書類において開示しております",
+    "url": "https://www.sk-el.co.jp/assets/docs/cg-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■任意の指名・報酬委員会の設置",
+    "url": "https://www.sk-el.co.jp/assets/docs/cg-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年10月に「任意の指名・報酬委員会」を設置しました",
+    "url": "https://www.sk-el.co.jp/assets/docs/cg-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "以降、取締役の指名及び報酬については、指名・報酬委員会の諮問を経て決定され",
+    "url": "https://www.sk-el.co.jp/assets/docs/cg-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名委員会又は報酬委員会に相当する",
+    "url": "https://www.sk-el.co.jp/assets/docs/cg-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名委員会に相当",
+    "url": "https://www.sk-el.co.jp/assets/docs/cg-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "する任意の委員会 指名・報酬委員会 6 0 2 4 0 0 社内取締役",
+    "url": "https://www.sk-el.co.jp/assets/docs/cg-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "として、指名・報酬委員会を設置することを決議し、2023年10月1日よりこれを設置しております",
+    "url": "https://www.sk-el.co.jp/assets/docs/cg-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名・報酬委員会は、取締役会からの諮問に応じて、主に次の事項を審議し答申いたします",
+    "url": "https://www.sk-el.co.jp/assets/docs/cg-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、指名・報酬委員会の委員は、独立社外取締役が過半数を占める割合で構成し、委員長および委員は取締役会決議により選定いたしま",
+    "url": "https://www.sk-el.co.jp/assets/docs/cg-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "れまでの経歴や職歴、職務等を考慮し、社員の処遇との整合性も含めて、指名・報酬委員会による審議を経たうえで、総合的に適正な報酬額を決",
+    "url": "https://www.sk-el.co.jp/assets/docs/cg-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．業務執行、監査・監督、指名、報酬決定等の機能に係る事項（現状のコーポレート・ガバナンス体制の概要）",
+    "url": "https://www.sk-el.co.jp/assets/docs/cg-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(4)指名・報酬委員会",
+    "url": "https://www.sk-el.co.jp/assets/docs/cg-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名・報酬委員会は、社内取締役（監査等委員である取締役を除く",
+    "url": "https://www.sk-el.co.jp/assets/docs/cg-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "り、コーポレート・ガバナンス体制を一層充実させることを目的として、独立社外取締役が過半数を占める割合で構成する指名・報酬委員会を設置",
+    "url": "https://www.sk-el.co.jp/assets/docs/cg-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「任意の指名・報酬委員会の設置」",
+    "url": "https://www.sk-el.co.jp/assets/docs/governance03.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の透明性のさらなる向上のため、2023 年10 月に「任意の指名・報酬委員会」を設置いたしました",
+    "url": "https://www.sk-el.co.jp/assets/docs/governance03.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "以降、 取締役の指名及び報酬については、 指名・報酬委員会の諮問を経て決定されており、 透明性の高い経営",
+    "url": "https://www.sk-el.co.jp/assets/docs/governance03.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・ 指名 ・報酬委員会",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "新事業を想定して国内外でパートナーを探しています",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "●任意の指名・報酬委員会の設置",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・ 任意の指名・報酬委員会設置や中期経営計画開示による経営の透明性向上",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "監査等委員会 指名・報酬委員会",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "役会の任意の諮問機関として、 指名 ・報酬委員会を設置しま",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "以降、 取締役の指名及び報酬については、 指名 ・報酬",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年 株主還元方針の見直し、 指名 ・報酬委員会 （任意） の設置、 中期経営計画の公表",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "早速、 取締役会、 監査等委員会、 指名 ・",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名・報酬委員会 • 社内取締役 （監査等委員である取締役を除く） 2名• 監査等委員である社外取締役4名 委員長： 代表取締役 （石田昌德） 4回",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "）の金銭報酬の額は、2018年12月21日開催の第17期定時株主総会において、年額300,000千円",
+    "url": "https://www.sk-el.co.jp/assets/docs/cg-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "監査等委員である取締役の報酬は固定報酬のみとしており、その額については、2018年12月21日開催の第17期定時株主総会において、年額5",
+    "url": "https://www.sk-el.co.jp/assets/docs/cg-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ストックオプションの付与対象者",
+    "url": "https://www.sk-el.co.jp/assets/docs/cg-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "）の金銭報酬の額は、2018年12月21日開催の第17期定時株主総会において、年額300,000千円以内と",
+    "url": "https://www.sk-el.co.jp/assets/docs/cg-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "監査等委員である取締役の金銭報酬の額は、2018年12月21日開催の第17期定時株主総会において、年額50,000千円以内と決議いただいてお",
+    "url": "https://www.sk-el.co.jp/assets/docs/cg-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "見積もりの時点でちょっと及び腰になるといいますか、成功報酬でもないですし",
+    "url": "https://unlk.jp/case/sk-el/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "品で強みを発揮し、 独自のポジションを構築しています",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本報告書は、 当社の成り立ち、 強み、 事業戦略、 持続可能性の取",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "予想の伸び率は、 EBITDA15.2％、 連結営業利益率11.1％、 親会社株主に帰",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "KPIの目標値は、 営業利益率20％以上、 ROE15％以上、 売",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "市場規模が小さ く ニッチな市場であるこ とが参入障壁",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "独自の強みを活かした事業展開",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 11.9%",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 多様な産業の在庫管理などに貢献",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "競争優位の源泉 （基盤） ：",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "競争優位の源泉 （技術・製品） ：",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "競争優位の源泉 （サプライチェーン、 資本） ：",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "競争優位性：FPD用フォ トマスクの世界シェアはト ップクラス",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "競争優位の源泉 （基盤） ： ニッチ市場を早期に開拓し、 独自のポジションを構築",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・市場規模に対し初期投資が多額なこ とが参入障壁",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "競争優位性：高い経営効率を実現",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "最大の強みは高付加価値品",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の大型フォ トマスク事業の最大の強みは、 高精細",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "競争優位の源泉 （技術・製品） ：高付加価値品、 独自製品で、 競合との差別化に成功",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "し、 高付加価値品で強みを発揮しています",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "競争優位性の源泉：独自のサプライチェーン基盤を構築、 特徴のある資本を有効活用",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "多様性のある人材の活躍も競争優位の源泉です",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "経営計画のKPI （営業利益率、 ROE、 総資産回転率） で比較",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率を2024年9月期の11.9％から中長期的に20％",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "や子宮頸がん検査、 RFID事業は多様な産業の在庫管理な",
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "自社が認識する強みや資産だけではなく、リフレーミングを行うことで新たな強みを見出し、unlockの知見との掛け合わせで、斬新なアイデア提案を可能にしています",
+    "url": "https://unlk.jp/case/sk-el/",
+    "pass": 3
+   },
+   {
+    "quote": "また、目標とする経営指標である、売上高営業利益率は13.2％、ＲＯＥは8.2％、売上高総資産回転率は0.71となりました",
+    "url": "https://kitaishihon.com/company/6677/business",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "「お客様の要望をその通り正確にやること」を補足させていただくと、具体的には、お客様から（個別発注として）設計図をいただいて、それを我々が正確に、ご希望の納期通りに作り上げる、というビジネスモデルです",
+    "url": "https://unlk.jp/case/sk-el/",
+    "pass": 3
+   },
+   {
+    "quote": "今まで御社から頂戴したテーマでは市場の大きさなどを調べるものが多く、前提とするビジネスモデルがあるわけではなかったので、「このビジネスモデルがいけるかどうか？」というテーマに対する、YES/NOではなかった部分もあります",
+    "url": "https://unlk.jp/case/sk-el/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "エスケーエレクトロニクス 統合報告書2026 2/54 — エスケーエレクトロニクス 統合報告書2026 2/54 SK-Electronics CO.,LTD. https://www.sk-el.co.jp > ebook > pageindices > index2",
+    "url": "https://www.sk-el.co.jp/ir/ebook/integrated-report2026/pageindices/index2.html",
+    "pass": 3
+   },
+   {
+    "quote": "エスケーエレクトロニクス 【6677】の事業内容 - キタイシホン — エスケーエレクトロニクス 【6677】の事業内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/6677/business",
+    "pass": 3
+   },
+   {
+    "quote": "企業分析［強み・弱み・展望］ - エスケーエレクトロニクス — 企業分析［強み・弱み・展望］ - エスケーエレクトロニクス OpenWork https://www.openwork.jp > ... > エスケーエレクトロニクス",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrPg&q_no=9",
+    "pass": 3
+   },
+   {
+    "quote": "(株) エスケーエレクトロニクス 【東証スタンダード上場】 — (株) エスケーエレクトロニクス 【東証スタンダード上場】 マイナビ https://job.mynavi.jp > search > corp77424 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp77424/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 | SK-Electronics CO.,LTD. - エスケーエレクトロニクス — IR情報 | SK-Electronics CO.,LTD. - エスケーエレクトロニクス SK-Electronics CO.,LTD. https://www.sk-el.co.jp > ...",
+    "url": "https://www.sk-el.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "【 エスケーエレクトロニクス 】[6677]IR情報 ... - 日本経済新聞 — 【 エスケーエレクトロニクス 】[6677]IR情報 ... - 日本経済新聞 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=6677",
+    "pass": 3
+   },
+   {
+    "quote": "エスケーエレクトロニクス 【6677】の最新 決算 発表、業績修正 — エスケーエレクトロニクス 【6677】の最新 決算 発表、業績修正 株探 https://kabutan.jp > エスケーエレクトロニクス (6677) > 決算",
+    "url": "https://kabutan.jp/stock/finance?code=6677",
+    "pass": 3
+   },
+   {
+    "quote": "エスケーエレクトロニクス (6677)の適時開示 - 銘柄スカウター ... — エスケーエレクトロニクス (6677)の適時開示 - 銘柄スカウター ... 銘柄スカウターライト https://scouter.monex.co.jp > report > disclose",
+    "url": "https://scouter.monex.co.jp/report/disclose/6677",
+    "pass": 3
+   },
+   {
+    "quote": "エスケーエレクトロニクス 【6677】の 事業 内容 - キタイシホン — エスケーエレクトロニクス 【6677】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/6677/business",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 エスケーエレクトロニクス - Metoree — 株式会社 エスケーエレクトロニクス - Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/3348/",
+    "pass": 3
+   },
+   {
+    "quote": "エスケーエレクトロニクス社長 ・石田昌徳氏「高精細化への ... — エスケーエレクトロニクス社長 ・石田昌徳氏「高精細化への ... 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/425089",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 エスケーエレクトロニクス - 企業 インタビュー - タイズ — 株式会社 エスケーエレクトロニクス - 企業 インタビュー - タイズ ee-ties.com https://www.ee-ties.com > ... > 企業インタビュー",
+    "url": "https://www.ee-ties.com/magazine/magazine_cat/interview/sk-el/",
+    "pass": 3
+   },
+   {
+    "quote": "（株） エスケーエレクトロニクス 代表取締役 社長 石田昌徳氏 — （株） エスケーエレクトロニクス 代表取締役 社長 石田昌徳氏 産業タイムズ社 https://www.sangyo-times.jp > article",
+    "url": "https://www.sangyo-times.jp/article.aspx?ID=1581",
+    "pass": 3
+   },
+   {
+    "quote": "エスケーエレクトロニクス 【6677】の 社長 ・役員 - キタイシホン — エスケーエレクトロニクス 【6677】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/6677/board-of-director",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/6677/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/6677/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/6677/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/6677/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/6677/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/6677/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度より「スクリーンマスク・メタルマスク事業」を新たに報告セグメントとして追加しております",
+    "url": "https://kitaishihon.com/company/6677/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別の経営成績は、次のとおりです",
+    "url": "https://kitaishihon.com/company/6677/business",
+    "pass": 3
+   },
+   {
+    "quote": "2025年５月にアサヒテック株式会社を連結子会社化したことに伴い、当連結会計年度より「スクリーンマスク・メタルマスク事業」を新たに報告セグメントとして追加しております",
+    "url": "https://kitaishihon.com/company/6677/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、売上高はセグメント間取引の相殺消去後の数値を記載しております",
+    "url": "https://kitaishihon.com/company/6677/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度における生産実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://kitaishihon.com/company/6677/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://kitaishihon.com/company/6677/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度における受注実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://kitaishihon.com/company/6677/business",
+    "pass": 3
+   },
+   {
+    "quote": "(注) セグメント間取引については、相殺消去しております",
+    "url": "https://kitaishihon.com/company/6677/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度における販売実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://kitaishihon.com/company/6677/business",
+    "pass": 3
+   },
+   {
+    "quote": "(注) １ セグメント間取引については、相殺消去しております",
+    "url": "https://kitaishihon.com/company/6677/business",
+    "pass": 3
+   },
+   {
+    "quote": "(セグメント情報等)",
+    "url": "https://kitaishihon.com/company/6677/business",
+    "pass": 3
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://kitaishihon.com/company/6677/business",
+    "pass": 3
+   },
+   {
+    "quote": "１ 報告セグメントの概要",
+    "url": "https://kitaishihon.com/company/6677/business",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 報告セグメントの決定方法",
+    "url": "https://kitaishihon.com/company/6677/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社の報告セグメントは、当社の構成単位のうち分離された財務情報が入手可能であり、取締役会が、経営資源の配分の決定及び業績を評価するために、定期的に検討を行う対象となっているものであります",
+    "url": "https://kitaishihon.com/company/6677/business",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、当社は事業部門を基礎とした製品・サービス別セグメントから構成されており、「大型フォトマスク事業」「ソリューション事業」「スクリーンマスク・メタルマスク事業」の３つを報告セグメントとしております",
+    "url": "https://kitaishihon.com/company/6677/business",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 各報告セグメントに属する製品及びサービスの種類",
+    "url": "https://kitaishihon.com/company/6677/business",
+    "pass": 3
+   },
+   {
+    "quote": "(3) 報告セグメントの変更等に関する事項",
+    "url": "https://kitaishihon.com/company/6677/business",
+    "pass": 3
+   },
+   {
+    "quote": "（報告セグメントの追加）",
+    "url": "https://kitaishihon.com/company/6677/business",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sk-el.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-el.co.jp/company/profile.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-el.co.jp/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-el.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-el.co.jp/ir/message.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-el.co.jp/ir/news.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-el.co.jp/ir/library.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-el.co.jp/ir/library.html?tab=financial-results",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-el.co.jp/ir/library.html?tab=securities-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-el.co.jp/ir/library.html?tab=presentation-materials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-el.co.jp/ir/library.html?tab=investors-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-el.co.jp/ir/library.html?tab=shareholders-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-el.co.jp/ir/library.html?tab=integrated-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-el.co.jp/ir/calendar.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-el.co.jp/ir/stocks.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-el.co.jp/ir/notice.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-el.co.jp/ir/governance.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-el.co.jp/ir/faq.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-el.co.jp/ir/information-disclosure.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-el.co.jp/sustainability/environmental.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-el.co.jp/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-el.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-el.co.jp/ir/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-el.co.jp/about/privacy-policy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sk-el.co.jp/about/info-policy.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.sk-el.co.jp/assets/docs/cg-report.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sk-el.co.jp/assets/docs/governance01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sk-el.co.jp/assets/docs/governance02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sk-el.co.jp/assets/docs/governance03.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sk-el.co.jp/assets/docs/Sexual-Harassment-Consultation-Desk.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2026_A3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2026_A4.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sk-el.co.jp/assets/docs/integrated-report2025_A3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://unlk.jp/case/sk-el/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/6677/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/425089",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "エスケーエレクトロニクス",
+   "results": [
+    "https://www.sk-el.co.jp/company/profile.html",
+    "https://www.sk-el.co.jp/",
+    "https://www.nikkei.com/nkd/company/?scode=6677",
+    "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%B1%E3%83%BC%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%82%AF%E3%82%B9",
+    "https://job.mynavi.jp/27/pc/search/corp77424/outline.html",
+    "https://kabutan.jp/stock/?code=6677",
+    "https://www.openwork.jp/company.php?m_id=a0910000000FrPg",
+    "https://minkabu.jp/stock/6677",
+    "https://ja.wikipedia.org/wiki/エスケーエレクトロニクス",
+    "https://finance.yahoo.co.jp/quote/6677.T"
+   ]
+  },
+  {
+   "query": "エスケーエレクトロニクス ビジネスモデル",
+   "results": [
+    "https://unlk.jp/case/sk-el/",
+    "https://www.sk-el.co.jp/ir/ebook/integrated-report2026/pageindices/index2.html",
+    "https://kitaishihon.com/company/6677/business",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrPg&q_no=9",
+    "https://job.mynavi.jp/27/pc/search/corp77424/outline.html",
+    "https://kabutan.jp/news/marketnews/?b=n202512050857",
+    "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%B1%E3%83%BC%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%82%AF%E3%82%B9",
+    "https://www.r-agent.com/company/44092/",
+    "https://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3016228286/",
+    "https://consovation.com/株式会社エスケーエレクトロニクスのビジネスモ/"
+   ]
+  },
+  {
+   "query": "エスケーエレクトロニクス 決算説明資料",
+   "results": [
+    "https://www.sk-el.co.jp/ir/library.html",
+    "https://www.sk-el.co.jp/ir/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=6677",
+    "https://kabutan.jp/stock/finance?code=6677",
+    "https://scouter.monex.co.jp/report/disclose/6677",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260810/20260806511930.pdf",
+    "https://investalk.jp/6677/sk-electronics-2025-09-earnings/",
+    "https://kitaishihon.com/company/6677/ir-library",
+    "https://global-assets.irdirect.jp/pdf/tdnet/batch/140120160414457851.pdf",
+    "https://minkabu.jp/stock/6677/settlement"
+   ]
+  },
+  {
+   "query": "エスケーエレクトロニクス 事業系統図",
+   "results": [
+    "https://www.sk-el.co.jp/company/profile.html",
+    "https://kitaishihon.com/company/6677/business",
+    "https://job.mynavi.jp/27/pc/search/corp77424/outline.html",
+    "https://metoree.com/companies/3348/",
+    "https://www.ee-ties.com/magazine/14793/",
+    "https://www.pref.kyoto.jp/sangyo-sien/company/ske.html",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrPg&q_no=9",
+    "https://mono.ipros.com/company/detail/2075739/",
+    "https://edinetdb.jp/company/E02346/midterm-plans/",
+    "https://ja.wikipedia.org/wiki/エスケーエレクトロニクス"
+   ]
+  },
+  {
+   "query": "エスケーエレクトロニクス 社長 インタビュー",
+   "results": [
+    "https://www.nikkan.co.jp/articles/view/425089",
+    "https://www.sk-el.co.jp/recruit/interview.html",
+    "https://www.ee-ties.com/magazine/magazine_cat/interview/sk-el/",
+    "https://www.sangyo-times.jp/article.aspx?ID=1581",
+    "https://kitaishihon.com/company/6677/board-of-director",
+    "https://unlk.jp/case/sk-el/",
+    "https://www.nikkei.com/article/DGXNZO34741830S1A910C1TJ2000/",
+    "https://kigyo-scope.jp/company/6677/ceo/",
+    "https://shikiho.toyokeizai.net/stocks/6677/corporate",
+    "https://www.ee-ties.com/magazine/14793/"
+   ]
+  }
+ ],
+ "missing": {}
+}

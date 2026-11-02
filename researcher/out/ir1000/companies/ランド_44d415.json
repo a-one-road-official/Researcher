@@ -1,0 +1,930 @@
+{
+ "name": "ランド",
+ "aliases": [],
+ "context": "証券コード8918／不動産業／スタンダード（内国株式）／2026.02期 売上高3,007百万円 営業利益率14.2%",
+ "researched_at": "2026-11-02T19:15:28.632947+00:00",
+ "official_url": "https://www.land.jp/",
+ "identified_by": "search:yahoo_jp:ランド",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1996年12月",
+    "url": "https://www.land.jp/company/outline.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "不動産事業・再生可能エネルギー関連投資事業",
+    "url": "https://www.land.jp/company/outline.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "11名(連結)",
+    "url": "https://www.land.jp/company/outline.html",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "",
+    "url": "https://kitaishihon.com/company/8918/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "5,061,843 19,784 5,081,627 10,485 5,092,112 － 5,092,112",
+    "url": "https://kitaishihon.com/company/8918/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部売上高又は振替高",
+    "value": "－ － － － － － －",
+    "url": "https://kitaishihon.com/company/8918/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "2,617,240 331,509 2,948,750 58,418 3,007,169 － 3,007,169",
+    "url": "https://kitaishihon.com/company/8918/business",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "また、住宅を中心とした中古不動産を自社取得し、リノベーションにより付加価値を高め、エンドユーザーに売却する事業にも注力しております",
+    "url": "https://www.land.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "また、住宅を中心とした中古不動産を自社取得し、リノベーションにより付加価値を高め、エンドユーザーに売却する事業にも注力しております",
+    "url": "https://www.land.jp/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客との契約から生じる収益",
+    "url": "https://kitaishihon.com/company/8918/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高",
+    "url": "https://kitaishihon.com/company/8918/business",
+    "pass": 3
+   },
+   {
+    "quote": "本邦以外の外部顧客への売上高がないため、該当事項はありません",
+    "url": "https://kitaishihon.com/company/8918/business",
+    "pass": 3
+   },
+   {
+    "quote": "３．主要な顧客ごとの情報",
+    "url": "https://kitaishihon.com/company/8918/business",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の名称又は氏名",
+    "url": "https://kitaishihon.com/company/8918/business",
+    "pass": 3
+   },
+   {
+    "quote": "※ 顧客の名称又は氏名には共同事業パートナー名を記載しており、売上高については、共同事業形態による流動化プロジェクトのうち、当社の持分相当部分を売上に計上しております",
+    "url": "https://kitaishihon.com/company/8918/business",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/8918/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、企業統治とは、株主、従業員、債権者、取引先及び一般社会からのそれぞれの負託に応えるため、健全で透明な企業活動を行いつ",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20241225/20241212537693.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "d 上場会社を主要な取引先とする者又はその業務執行者",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20241225/20241212537693.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "e 上場会社の主要な取引先又はその業務執行者",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20241225/20241212537693.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "h 上場会社の取引先（d、e及びｆのいずれにも該当しないもの）の業務執行者（本人のみ）",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20241225/20241212537693.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "f 上場会社を主要な取引先とする者又はその業務執行者",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20241225/20241212537693.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "g 上場会社の主要な取引先又はその業務執行者",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20241225/20241212537693.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "j 上場会社の取引先（f、g及びhのいずれにも該当しないもの）の業務執行者（本人のみ）",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20241225/20241212537693.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "それにより、個人や企業のお客様に対しそれぞれお役立ていただけるサービスを展開しています",
+    "url": "https://keiei-note.wizbiz.jp/148-2/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "創業以来培ってきた強力な不動産情報ネットワークから得られた情報を最大限に活用し、各事業毎に必要に応じ最適な専門性の高いプロフェッショナル集団や土地保有企業を共同事業パートナーとし、共同で事業資金を出資することでリスクの分散を図るほか、種々の問題解決に共に取り組む複数の事業フォロワー(専門性の高い業務をサポートする当社の協力者)を取りまとめ、事業に応じた適切な事業スキームを組み立てることで、事業価値を最大限に高めております",
+    "url": "https://www.land.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、これまでの経験から、多種多様なネットワーク、ノウハウを獲得しており、不動産等の投資案件に対する強力な不動産情報ネットワーク、当社と共に多数の案件を事業化してきた共同事業パートナー、種々の問題解決に共に取り組む複数の事業フォロワーを有しており、これらの当社のパートナーと共に、当社の持つ高度なノウハウと合わせ事業を推し進めることにより、事業価値を最大限に高めることが可能となっております",
+    "url": "https://www.land.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "また、共同事業パートナーと共に事業化することにより、共同事業パートナーの事業ノウハウを100％享受するほか、共同出資により事業リスクの分散を図っております",
+    "url": "https://www.land.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では現在、当社の情報ネットワークから得られる事業情報を元に、大手デベロッパーや外資系の企業が組成する開発型ファンド等が自らは積極的には手掛けない段階の、土地のとりまとめ、権利関係調整、開発許可等の許認可取得といった、複雑なノウハウ、調整能力を要する案件を中心に事業化し、事業パートナーと共に課題を解決しすぐにでも着工できる状態まで整え、事業価値を最大限に高めた上で、主に大手デベロッパーや外資系企業が組成する開発型ファンド等に売却する事により、収益機会を最大化しております",
+    "url": "https://www.land.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "創業以来培ってきた強力な不動産情報ネットワークから得られた情報を最大限に活用し、各事業毎に必要に応じ最適な専門性の高いプロフェッショナル集団や土地保有企業を共同事業パートナーとし、共同で事業資金を出資することでリスクの分散を図るほか、種々の問題解決に共に取り組む複数の事業フォロワー(専門性の高い業務をサポートする当社の協力者)を取りまとめ、事業に応じた適切な事業スキームを組み立てることで、事業価値を最大限に高めております",
+    "url": "https://www.land.jp/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、これまでの経験から、多種多様なネットワーク、ノウハウを獲得しており、不動産等の投資案件に対する強力な不動産情報ネットワーク、当社と共に多数の案件を事業化してきた共同事業パートナー、種々の問題解決に共に取り組む複数の事業フォロワーを有しており、これらの当社のパートナーと共に、当社の持つ高度なノウハウと合わせ事業を推し進めることにより、事業価値を最大限に高めることが可能となっております",
+    "url": "https://www.land.jp/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、共同事業パートナーと共に事業化することにより、共同事業パートナーの事業ノウハウを100％享受するほか、共同出資により事業リスクの分散を図っております",
+    "url": "https://www.land.jp/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社では現在、当社の情報ネットワークから得られる事業情報を元に、大手デベロッパーや外資系の企業が組成する開発型ファンド等が自らは積極的には手掛けない段階の、土地のとりまとめ、権利関係調整、開発許可等の許認可取得といった、複雑なノウハウ、調整能力を要する案件を中心に事業化し、事業パートナーと共に課題を解決しすぐにでも着工できる状態まで整え、事業価値を最大限に高めた上で、主に大手デベロッパーや外資系企業が組成する開発型ファンド等に売却する事により、収益機会を最大化しております",
+    "url": "https://www.land.jp/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "共同事業パートナーとリスク分散し",
+    "url": "https://www.land.jp/assets/img/top/flow.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ブランド紹介",
+    "url": "https://www.lbca.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "６分でわかりやすくご紹介します",
+    "url": "https://www.lbca.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "（注) 共同事業パートナーであり、販売高には、共同事業における売上のうち、当社の持分相当額又は利益分配額を記載しております",
+    "url": "https://kitaishihon.com/company/8918/business",
+    "pass": 3
+   },
+   {
+    "quote": "※ 顧客の名称又は氏名には共同事業パートナー名を記載しており、売上高については、共同事業形態による流動化プロジェクトのうち、当社の持分相当部分を売上に計上しております",
+    "url": "https://kitaishihon.com/company/8918/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、経営陣幹部・取締役の指名・報酬について、社外取締役の出席する取締役会の審議により決定するとの考えから、任意の委員会は設け",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20241225/20241212537693.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（iv)取締役会が経営陣幹部の選任と取締役・監査役候補の指名を行うに当たっての方針と手続",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20241225/20241212537693.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "取締役候補者の指名及び経営陣幹部の選任につきましては、人格・見識とも優れた人物をこれまでの業績等を勘案したうえ代表取締役が候補者",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20241225/20241212537693.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "監査役候補者の指名につきましては、幅広い知識・見識を有し、専門的かつ客観的な役割を果たすことのできる人物の視点で、代表取締役が候",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20241225/20241212537693.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（v)個々の選解任・指名についての説明",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20241225/20241212537693.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、各役員候補者の指名理由は、株主総会招集通知の参考書類に記載しております",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20241225/20241212537693.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "指名委員会又は報酬委員会に相当する",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20241225/20241212537693.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．業務執行、監査・監督、指名、報酬決定等の機能に係る事項（現状のコーポレート・ガバナンス体制の概要）",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20241225/20241212537693.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "取締役及び監査役候補者は取締役決議において指名された後、株主総会において選任されております",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20241225/20241212537693.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "今回、ご紹介する経営者は、榮章博氏（株式会社ランドネット 代表取締役）です",
+    "url": "https://keiei-note.wizbiz.jp/148-2/",
+    "pass": 3
+   },
+   {
+    "quote": "まずは経歴のご紹介です",
+    "url": "https://keiei-note.wizbiz.jp/148-2/",
+    "pass": 3
+   },
+   {
+    "quote": "※インタビュー出演、企業紹介などにご興味をお持ちの方は",
+    "url": "https://keiei-note.wizbiz.jp/148-2/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "第二種金融商品取引業 投資助言・代理業登録 関東財務局長（金商）第1545号",
+    "url": "https://www.land.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、当社グループが参入する再生可能エネルギー関連投資事業においては、脱炭素社会の実現に向けた政策支援や技術革新が進展し多様な電源の導入が加速しているとともに、2025年２月に閣議決定された第７次エネルギー基本計画においても、2040年度までに温室効果ガス排出量を73％削減する目標が掲げられ、再生可能エネルギーを主力電源として最大限導入する方針が示されました",
+    "url": "https://kitaishihon.com/company/8918/business",
+    "pass": 3
+   },
+   {
+    "quote": "(２)報告セグメントに属するサービスの種類",
+    "url": "https://kitaishihon.com/company/8918/business",
+    "pass": 3
+   },
+   {
+    "quote": "１．製品及びサービスごとの情報",
+    "url": "https://kitaishihon.com/company/8918/business",
+    "pass": 3
+   },
+   {
+    "quote": "が重要であり、良質な商品やサービスを提供することにより、業績を向上さにることが各利",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20241225/20241212537693.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当時のホストコンピュータは高価だったので、どうしても小規模企業は大企業に比べ情報を処理する能力が劣ってしまうのですが、今までのノウハウを活かし、効率化を実現するサービスを展開していけば、きっと需要があるだろうと起業を考えるようになりました",
+    "url": "https://keiei-note.wizbiz.jp/148-2/",
+    "pass": 3
+   },
+   {
+    "quote": "とはいえシステムもあり、商品の回転率も2か月を切り業績も同水準で伸び続けていたので、あまり大きな苦労は有りませんでした",
+    "url": "https://keiei-note.wizbiz.jp/148-2/",
+    "pass": 3
+   },
+   {
+    "quote": "それにより、個人や企業のお客様に対しそれぞれお役立ていただけるサービスを展開しています",
+    "url": "https://keiei-note.wizbiz.jp/148-2/",
+    "pass": 3
+   },
+   {
+    "quote": "その後、常務執行役に就任し、経営コンサルティング部門や営業部門、サービス提供部門を統括",
+    "url": "https://keiei-note.wizbiz.jp/148-2/",
+    "pass": 3
+   },
+   {
+    "quote": "また、経営者向けサービス提供としては、ネットだけでなく、リアルの場も力をいれており、年500回以上のセミナーを開催し、4000名を越す経営者が参加",
+    "url": "https://keiei-note.wizbiz.jp/148-2/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "1996年12月",
+    "url": "https://www.land.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "1997年1月",
+    "url": "https://www.land.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "1997年6月",
+    "url": "https://www.land.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "2000年7月",
+    "url": "https://www.land.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "2002年1月",
+    "url": "https://www.land.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "2002年4月",
+    "url": "https://www.land.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "2003年12月",
+    "url": "https://www.land.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "2004年12月",
+    "url": "https://www.land.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "2006年7月",
+    "url": "https://www.land.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "2007年2月",
+    "url": "https://www.land.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "2008年2月",
+    "url": "https://www.land.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "2009年3月",
+    "url": "https://www.land.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "2014年1月",
+    "url": "https://www.land.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "2014年10月",
+    "url": "https://www.land.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "2018年3月",
+    "url": "https://www.land.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年4月",
+    "url": "https://www.land.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要･沿革",
+    "url": "https://www.lbca.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年9月期第3四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.lbca.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社の会社概要・沿革です",
+    "url": "https://www.lbca.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "1985年の設立以来、高品質・高付加価値な不動産事業を展開して参りました",
+    "url": "https://www.lbca.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年2月期有価証券報告書より",
+    "url": "https://kitaishihon.com/company/8918/business",
+    "pass": 3
+   },
+   {
+    "quote": "2021年６月改訂後のコードに基づき記載しております",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20241225/20241212537693.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年には、東京証券取引所JASDAQ（現・東京証券取引所スタンダード）市場に上場されています",
+    "url": "https://keiei-note.wizbiz.jp/148-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年8月24日に稲盛和夫さんが亡くなられ言葉も出ないほど悲しいですが、教えて頂いたたくさんのことを胸に、更なる前進をして行きたいと感じています",
+    "url": "https://keiei-note.wizbiz.jp/148-2/",
+    "pass": 3
+   },
+   {
+    "quote": "1984年中央大学法学部卒業",
+    "url": "https://keiei-note.wizbiz.jp/148-2/",
+    "pass": 3
+   },
+   {
+    "quote": "1987年に株式会社大京流通へと入社し、経営企画、中古マンション営業に従事しながら、業務効率化のためのシステムを独学で開発",
+    "url": "https://keiei-note.wizbiz.jp/148-2/",
+    "pass": 3
+   },
+   {
+    "quote": "1971年、東京都生まれ",
+    "url": "https://keiei-note.wizbiz.jp/148-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2010年、当時赤字だった「",
+    "url": "https://keiei-note.wizbiz.jp/148-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2011年、レカムと光通信の出資分を全て買い取る",
+    "url": "https://keiei-note.wizbiz.jp/148-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年12月、TOKYO PRO Market（東京プロマーケット）市場へ上場",
+    "url": "https://keiei-note.wizbiz.jp/148-2/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ランドビジネス — ランドビジネス ランドビジネス https://www.lbca.co.jp",
+    "url": "https://www.lbca.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ランドビジネス ファンド#1 | 固定利回りの資産運用 Funds ... — ランドビジネス ファンド#1 | 固定利回りの資産運用 Funds ... Funds https://funds.jp > fund > detail > landbusiness01",
+    "url": "https://funds.jp/fund/detail/landbusiness01",
+    "pass": 3
+   },
+   {
+    "quote": "ランドビジネス (8944) の企業概要・業績・財務・IR資料 — ランドビジネス (8944) の企業概要・業績・財務・IR資料 crex-data.com https://www.crex-data.com > 企業",
+    "url": "https://www.crex-data.com/company/8944",
+    "pass": 3
+   },
+   {
+    "quote": "ランドビジネス （8944）をどう見るか｜ゆう@XYL1SH - note — ランドビジネス （8944）をどう見るか｜ゆう@XYL1SH - note note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/xyl1sh/n/n736adb9f8b9d",
+    "pass": 3
+   },
+   {
+    "quote": "スライドの ビジネスモデル の参考デザイン — スライドの ビジネスモデル の参考デザイン Slideland|スライドランド https://www.slideland.tech > ページ",
+    "url": "https://www.slideland.tech/docs/page/business-model",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社LAND（ ランド ）｜IR情報 — 株式会社LAND（ ランド ）｜IR情報 株式会社LAND https://www.land.jp > ...",
+    "url": "https://www.land.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "IR- 決算説明資料 ｜株式会社ホット ランド ホールディングス — IR- 決算説明資料 ｜株式会社ホット ランド ホールディングス 株式会社ホットランドホールディングス https://ir.hotland.co.jp > library > explain",
+    "url": "https://ir.hotland.co.jp/library/explain/",
+    "pass": 3
+   },
+   {
+    "quote": "IR 資料 室 | 株主・投資家の皆様へ | 株式会社オリエンタルランド — IR 資料 室 | 株主・投資家の皆様へ | 株式会社オリエンタルランド 株式会社オリエンタルランド https://www.olc.co.jp > ... > 株主・投資家の皆様へ",
+    "url": "https://www.olc.co.jp/ja/ir/reports.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 －不動産・建築のトータルプロデュース株式会社 ... — 決算説明資料 －不動産・建築のトータルプロデュース株式会社 ... ランドビジネス https://www.lbca.co.jp > IR情報 > IRライブラリー",
+    "url": "https://www.lbca.co.jp/ir/library/presentation.php",
+    "pass": 3
+   },
+   {
+    "quote": "ランド 【8918】の 事業 内容 - キタイシホン — ランド 【8918】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/8918/business",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ランド ビジネス — 株式会社 ランド ビジネス finance-frontend-pc-dist.west.edge.storage-yahoo.jp PDF https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp > ...",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20241225/20241212537693.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ランド - IRSTREET — 株式会社 ランド - IRSTREET IRSTREET PDF https://ircms.irstreet.com > contents > data_file",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=42&brand=67&data=22064&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "組織体制｜企業情報｜株式会社 ランド コンピュータ — 組織体制｜企業情報｜株式会社 ランド コンピュータ 株式会社ランドコンピュータ https://www.rand.co.jp > corporate > organization",
+    "url": "https://www.rand.co.jp/corporate/organization.php",
+    "pass": 3
+   },
+   {
+    "quote": "社長 室101 グリーン ランド リゾート株式会社 松野 隆徳 社長 — 社長 室101 グリーン ランド リゾート株式会社 松野 隆徳 社長 cowtv.jp https://cowtv.jp > channel > boss",
+    "url": "https://cowtv.jp/channel/boss/788matsuno/03.php",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ランド ネット 代表取締役 榮章博氏 インタビュー — 株式会社 ランド ネット 代表取締役 榮章博氏 インタビュー 経営ノート https://keiei-note.wizbiz.jp > ... > 上場企業の経営者",
+    "url": "https://keiei-note.wizbiz.jp/148-2/",
+    "pass": 3
+   },
+   {
+    "quote": "トップ インタビュー ラック ランド 望月圭一郎 社長 事業領域が ... — トップ インタビュー ラック ランド 望月圭一郎 社長 事業領域が ... 日本証券新聞 https://www.nsjournal.jp > ...",
+    "url": "https://www.nsjournal.jp/d00000450/",
+    "pass": 3
+   },
+   {
+    "quote": "Top message ー株式会社よみうり ランド 代表取締役 社長 溝口烈 — Top message ー株式会社よみうり ランド 代表取締役 社長 溝口烈 YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=TwqEYuFz7es",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ランド ネット代表 榮 章博氏 - 社長の履歴書 — 株式会社 ランド ネット代表 榮 章博氏 - 社長の履歴書 社長の履歴書 https://donzoko-ceo.com > 記事一覧 > 人材",
+    "url": "https://donzoko-ceo.com/landnet/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "これを事業系統図によって示すと次のとおりであります",
+    "url": "https://kitaishihon.com/company/8918/business",
+    "pass": 3
+   },
+   {
+    "quote": "この仕事を楽しむ習慣と、行動力があるからこそ、弊社では考えたことをすぐ形にして、現在のビジネスモデルを確立することが出来たのです",
+    "url": "https://keiei-note.wizbiz.jp/148-2/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "）並びに不動産に付随する事業のコンサルティング業務や仲介業務等による手数料の獲得を目的とした事業を営んでおり、不動産事業及び再生可能エネルギー関連投資事業を報告セグメントとして開示を行っております",
+    "url": "https://kitaishihon.com/company/8918/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度における営業外収益は、受取利息及びその他手数料収入等の計上及び債権回収益を計上した結果69百万円となりました",
+    "url": "https://kitaishihon.com/company/8918/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、取締役の業績向上に対する意欲や士気を一層高める目的のため、ストックオプション制度を導入しておりましたが、2012年12月20日で権",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20241225/20241212537693.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ストックオプションの付与対象者",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20241225/20241212537693.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "取締役の報酬等の限度額は、2005年12月20日開催の第21回定時株主総会において年額200,000千円以内と決議しております",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20241225/20241212537693.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、監査役の報酬等の限度額は、2020年12月18日開催の第36回定時株主総会において年額",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20241225/20241212537693.pdf",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/8918/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/8918/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/8918/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/8918/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/8918/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/8918/business",
+    "pass": 3
+   },
+   {
+    "quote": "）並びに不動産に付随する事業のコンサルティング業務や仲介業務等による手数料の獲得を目的とした事業を営んでおり、不動産事業及び再生可能エネルギー関連投資事業を報告セグメントとして開示を行っております",
+    "url": "https://kitaishihon.com/company/8918/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告セグメントの業績につきましては、以下のとおりであります",
+    "url": "https://kitaishihon.com/company/8918/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、各報告セグメントの金額は、セグメント間取引を相殺消去する前の金額であります",
+    "url": "https://kitaishihon.com/company/8918/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度の売上実績をセグメントに示すと、次のとおりであります",
+    "url": "https://kitaishihon.com/company/8918/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://kitaishihon.com/company/8918/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、各セグメントの詳細な数値につきましては、「第２ 事業の状況 ４ 経営者による財政状態、経営成績及びキャッシュ・フローの状況の分析 (1）経営成績等の状況の概要 ③生産、受注及び販売の実績」をご参照ください",
+    "url": "https://kitaishihon.com/company/8918/business",
+    "pass": 3
+   },
+   {
+    "quote": "（セグメント情報等）",
+    "url": "https://kitaishihon.com/company/8918/business",
+    "pass": 3
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://kitaishihon.com/company/8918/business",
+    "pass": 3
+   },
+   {
+    "quote": "１．報告セグメントの概要",
+    "url": "https://kitaishihon.com/company/8918/business",
+    "pass": 3
+   },
+   {
+    "quote": "(１)報告セグメントの決定方法",
+    "url": "https://kitaishihon.com/company/8918/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの報告セグメントは、当社グループの構成単位のうち分離された財務情報が入手可能であり、取締役会が、経営資源の配分の決定及び業績を評価するために、定期的に検討を行っているものであります",
+    "url": "https://kitaishihon.com/company/8918/business",
+    "pass": 3
+   },
+   {
+    "quote": "それに伴い、当社グループは「不動産事業」「再生可能エネルギー関連投資事業」を報告セグメントとし、報告セグメントに含まれない事業セグメントを「その他」としております",
+    "url": "https://kitaishihon.com/company/8918/business",
+    "pass": 3
+   },
+   {
+    "quote": "(２)報告セグメントに属するサービスの種類",
+    "url": "https://kitaishihon.com/company/8918/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント区分",
+    "url": "https://kitaishihon.com/company/8918/business",
+    "pass": 3
+   },
+   {
+    "quote": "２．報告セグメントごとの売上高、利益又は損失、資産その他の項目の金額の算定方法",
+    "url": "https://kitaishihon.com/company/8918/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告されている事業セグメントの会計処理の方法は、連結財務諸表を作成するために採用される会計方針に準拠した方法であり、報告セグメントの利益又は損失は、営業利益ベースの数値であります",
+    "url": "https://kitaishihon.com/company/8918/business",
+    "pass": 3
+   },
+   {
+    "quote": "３．報告セグメントごとの売上高、利益又は損失、資産その他の項目の金額に関する情報並びに収益の分解情報",
+    "url": "https://kitaishihon.com/company/8918/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://kitaishihon.com/company/8918/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント間の内部売上高又は振替高",
+    "url": "https://kitaishihon.com/company/8918/business",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.land.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.land.jp/company/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.land.jp/ir/news.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.land.jp/ir/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.land.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.land.jp/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.land.jp/ir/settlement.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.land.jp/ir/valuablesecurities.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.land.jp/ir/meeting.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.land.jp/ir/publicnotice.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.land.jp/ir/highlight.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.land.jp/ir/stock.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.land.jp/assets/img/top/flow.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.lbca.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://funds.jp/fund/detail/landbusiness01",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.hotland.co.jp/library/explain/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/8918/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20241225/20241212537693.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://cowtv.jp/channel/boss/788matsuno/03.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://keiei-note.wizbiz.jp/148-2/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ランド",
+   "results": [
+    "https://www.tokyodisneyresort.jp/tdl/",
+    "https://www.land.jp/",
+    "https://disneyparks.disney.go.com/jp/disneyland/attractions/",
+    "https://www.tokyodisneyresort.jp/tdl/attraction.html",
+    "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%B3%E3%83%89",
+    "https://eow.alc.co.jp/search?q=land",
+    "https://ejje.weblio.jp/content/%E3%83%A9%E3%83%B3%E3%83%89",
+    "https://www.instagram.com/tokyodisneyresort_official/?hl=ja",
+    "https://www.land.jp/ir/",
+    "https://ja.wikipedia.org/wiki/ランド"
+   ]
+  },
+  {
+   "query": "ランド ビジネスモデル",
+   "results": [
+    "https://www.lbca.co.jp/",
+    "https://funds.jp/fund/detail/landbusiness01",
+    "https://www.crex-data.com/company/8944",
+    "https://note.com/xyl1sh/n/n736adb9f8b9d",
+    "https://www.slideland.tech/docs/page/business-model",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=8944",
+    "https://restyle.tokyo/forbeginners/land-banking.html",
+    "https://kitaishihon.com/company/8944/business",
+    "https://www.youtube.com/channel/UCb41Od6acLiM-lerBDArggg"
+   ]
+  },
+  {
+   "query": "ランド 決算説明資料",
+   "results": [
+    "https://www.land.jp/ir/",
+    "https://ir.hotland.co.jp/library/explain/",
+    "https://www.arclands.co.jp/ja/ir/library/result.html",
+    "https://www.olc.co.jp/ja/ir/reports.html",
+    "https://www.lbca.co.jp/ir/library/presentation.php",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=8918",
+    "https://www.rand.co.jp/ir/",
+    "https://landnet.co.jp/ir/library/presentation/",
+    "https://www.luckland.co.jp/ir/statement.html",
+    "https://www.olc.co.jp/ja/ir.html"
+   ]
+  },
+  {
+   "query": "ランド 事業系統図",
+   "results": [
+    "https://kitaishihon.com/company/8918/business",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20241225/20241212537693.pdf",
+    "https://ircms.irstreet.com/contents/data_file.php?template=42&brand=67&data=22064&filename=pdf_file.pdf",
+    "https://www.rand.co.jp/corporate/organization.php",
+    "https://files.microcms-assets.io/assets/c738313b23694496a93f61c6c1bdafb0/78010cbc29c544548a1bab4e2531b8bf/keikaku2025.pdf",
+    "https://www.arclands.co.jp/ja/ir/management/strategy/main/03/teaserItems1/0/link/2025-2027chyukeivf.pdf",
+    "https://www.slideland.tech/docs/page/organization-chart",
+    "https://www.land-c.com/page/04",
+    "https://www.buffett-code.com/company/8918/",
+    "https://note.com/powerpoint_jp/n/n93ee16c72a92"
+   ]
+  },
+  {
+   "query": "ランド 社長 インタビュー",
+   "results": [
+    "https://cowtv.jp/channel/boss/788matsuno/03.php",
+    "https://keiei-note.wizbiz.jp/148-2/",
+    "https://www.nsjournal.jp/d00000450/",
+    "https://www.youtube.com/watch?v=TwqEYuFz7es",
+    "https://donzoko-ceo.com/landnet/",
+    "https://www.meiji.ac.jp/140th/interview/09/",
+    "https://eydis.jp/blogs/column/interview?srsltid=AYCX9vJJiCQVJYD56pCQ1BDcHe5dhYuKaqhxI2lir2DDNrtKb8SdLOUL",
+    "https://www.facebook.com/zenkansoken/posts/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3-%E6%A9%8B%E6%9C%AC%E7%A4%BE%E9%95%B7%E7%AC%91%E9%A1%94%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB%E5%A4%A2%E4%B8%AD%E3%81%AB%E3%81%AA%E3%82%8B%E6%9C%80%E5%84%AA%E7%A7%80%E5%BA%97%E8%88%97%E8%B3%9E%E3%82%922%E5%BA%A6%E5%8F%97%E8%B3%9E%E3%81%97%E3%81%9F%E3%83%A9%E3%83%B3%E3%83%89%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AE%E6%88%90%E9%95%B7%E3%81%AE%E7%A7%98%E8%A8%A3%E7%A6%8F%E5%B3%B6%E7%9C%8C%E9%83%A1%E5%B1%B1%E5%B8%82%E3%81%AB%E6%8B%A0%E7%82%B9%E3%82%92%E6%A7%8B%E3%81%88%E3%82%8B%E3%83%A9%E3%83%B3%E3%83%89%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE-/517966580467243/",
+    "https://www.instagram.com/p/DEjHpv9ymjo/",
+    "https://listen.style/p/wizbiz/bvhlf9ml"
+   ]
+  }
+ ],
+ "missing": {
+  "利益の源泉": "記載なし（3回確認済み：公式12頁／PDF・画像1件／外部7頁・検索5回）"
+ }
+}

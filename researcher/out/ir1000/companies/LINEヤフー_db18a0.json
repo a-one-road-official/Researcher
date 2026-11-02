@@ -1,0 +1,1793 @@
+{
+ "name": "ＬＩＮＥヤフー",
+ "aliases": [],
+ "context": "証券コード4689／情報・通信業／プライム（内国株式）／2026.03期 売上高2,036,366百万円 営業利益率14.0%",
+ "researched_at": "2026-11-02T19:16:54.530647+00:00",
+ "official_url": "https://www.lycorp.co.jp/",
+ "identified_by": "search:yahoo_jp:LINEヤフー",
+ "profile": {
+  "事業内容": [
+   {
+    "label": "主な事業内容",
+    "value": "インターネット広告事業、イーコマース事業及び会員サービス事業などの展開並びにグループ会社の経営管理業務など",
+    "url": "https://www.lycorp.co.jp/ja/company/overview/",
+    "pass": 1
+   }
+  ],
+  "設立": [
+   {
+    "label": "設立年月日",
+    "value": "1996年1月31日",
+    "url": "https://www.lycorp.co.jp/ja/company/overview/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上収益",
+    "value": "1,567,421 1,672,377 1,814,663 1,917,478 2,036,366",
+    "url": "https://www.lycorp.co.jp/ja/ir/finance/highlight.html",
+    "pass": 1
+   },
+   {
+    "label": "売上収益",
+    "value": "954,714 1,052,943 1,205,846 1,567,421 1,672,377 1,814,663 1,917,478 2,036,366",
+    "url": "https://www.lycorp.co.jp/ja/ir/finance/pl.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "捜査機関等からのユーザー情報開示要請に関する透明性レポート",
+    "url": "https://www.lycorp.co.jp/ja/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーの方へ",
+    "url": "https://www.lycorp.co.jp/ja/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の方へ",
+    "url": "https://www.lycorp.co.jp/ja/",
+    "pass": 1
+   },
+   {
+    "quote": "LINE、国内月間利用者数が1億ユーザーを突破",
+    "url": "https://www.lycorp.co.jp/ja/company/history/lycorp/",
+    "pass": 1
+   },
+   {
+    "quote": "「LINE」の国内月間利用者数が1億ユーザーを突破",
+    "url": "https://www.lycorp.co.jp/ja/company/history/lycorp/",
+    "pass": 1
+   },
+   {
+    "quote": "このページは、弁護士法第23条の2に基づく照会（以下、「弁護士会照会」）制度により、「LINEヤフー株式会社」が提供するサービスのユーザー情報の開示を求められた際の当社の考え方等について説明するものです",
+    "url": "https://www.lycorp.co.jp/ja/privacy-security/privacy/bar-association-inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "そのため、これらのサービスのユーザーに関する情報の開示は、適用される日本国の個人情報保護法、電気通信事業法などの法的要件と、各サービスの利用規約やプライバシーポリシーに則って行われます",
+    "url": "https://www.lycorp.co.jp/ja/privacy-security/privacy/bar-association-inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーに関する情報はプライバシーに関わるものであり、LINEヤフーは個人情報保護法や電気通信事業法によりこれらの情報を保護する義務を負っています",
+    "url": "https://www.lycorp.co.jp/ja/privacy-security/privacy/bar-association-inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "LINE Payにおいて一部ユーザーに関する情報が閲覧可能な状態となっていた件についてのお知らせ",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社連結子会社における元従業員による顧客情報などの持ち出しについて",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "捜査機関等からのユーザー情報開示要請に関する透明性レポート",
+    "url": "https://www.lycorp.co.jp/ja/ir/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "捜査機関等からのユーザー情報開示要請に関する透明性レポート",
+    "url": "https://www.lycorp.co.jp/ja/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "捜査機関等からのユーザー情報開示要請に関する透明性レポート",
+    "url": "https://www.lycorp.co.jp/ja/ir/library/lineirairchive.html",
+    "pass": 1
+   },
+   {
+    "quote": "捜査機関等からのユーザー情報開示要請に関する透明性レポート",
+    "url": "https://www.lycorp.co.jp/ja/ir/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "捜査機関等からのユーザー情報開示要請に関する透明性レポート",
+    "url": "https://www.lycorp.co.jp/ja/ir/stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "１９．販売促進活動に関するコンサルティング、申込受付、顧客管理等の代行業務",
+    "url": "https://www.lycorp.co.jp/ja/company/overview/pdf/cg00_%E5%AE%9A%E6%AC%BE_231001.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ご利用中のお客様へ",
+    "url": "https://www.lycbiz.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "LINE公式アカウントをご利用のお客様へ",
+    "url": "https://www.lycbiz.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "LINEヤフー広告をご利用中のお客様へ",
+    "url": "https://www.lycbiz.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様および関係企業の皆さまには、多大なるご迷惑とご不便をおかけしておりますことを、深くお詫び申し上げます",
+    "url": "https://www.lycbiz.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "コミュニケーションアプリ「LINE」上に企業や店舗がアカウントを作成し、友だち追加してくれたユーザーに対して情報を発信できます",
+    "url": "https://www.lycbiz.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ヘアサロンの予約から顧客管理、メッセージ配信をLINE上で実現できるLINEビューティープラスについてご紹介します",
+    "url": "https://www.lycbiz.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "LINEミニアプリの導入を検討される企業や店舗様向けに、サービスの特徴や導入方法、利用者の声をご紹介します",
+    "url": "https://www.lycbiz.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "会員化率向上や顧客データ活用、再来店促進につながるLINEミニアプリの会員証活用について、事例を交えながら紹介します",
+    "url": "https://www.lycbiz.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "新規顧客獲得",
+    "url": "https://www.lycbiz.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客理解・関係構築",
+    "url": "https://www.lycbiz.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "LINEヤフー、ヘアサロンに特化した顧客との継続的な関係構築を支援するパッケージサービス 「LINEビューティープラス」提供開始",
+    "url": "https://www.lycbiz.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "【録画配信】応募・分析・顧客理解を一つに！LINEで強化する販促キャンペーンとは",
+    "url": "https://www.lycbiz.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "【キーマンが語る新ビジネス戦略】LINEヤフーの経営統合／良質な顧客体験／ライフプラットフォーム／Business Profile／マーケティングを超えビジネス全般を支援",
+    "url": "https://www.youtube.com/watch?v=BJHLtLgtX_4",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "LINEヤフー社が提供するサービスの開発体制・データ管理体制",
+    "url": "https://www.lycorp.co.jp/ja/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスを通じた社会との連携",
+    "url": "https://www.lycorp.co.jp/ja/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス品質の向上",
+    "url": "https://www.lycorp.co.jp/ja/",
+    "pass": 1
+   },
+   {
+    "quote": "データを活かしたサービスの取り組みや、データから見えるさまざまなレポートを発信しています",
+    "url": "https://www.lycorp.co.jp/ja/",
+    "pass": 1
+   },
+   {
+    "quote": "LINEヤフー株式会社のサービスを支える、技術知見と開発文化を発信しています",
+    "url": "https://www.lycorp.co.jp/ja/",
+    "pass": 1
+   },
+   {
+    "quote": "インターネット広告事業、イーコマース事業及び会員サービス事業などの展開並びにグループ会社の経営管理業務など",
+    "url": "https://www.lycorp.co.jp/ja/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "「Yahoo!プレミアム」のサービス名称を変更し、既存のヤフー特典に加えて、1,200万種類以上の対象LINEスタンプが使い放題など、LINE特典を追加した",
+    "url": "https://www.lycorp.co.jp/ja/company/history/lycorp/",
+    "pass": 1
+   },
+   {
+    "quote": "どちらも生成AI技術を身近に体験できる、より便利なサービスになった",
+    "url": "https://www.lycorp.co.jp/ja/company/history/lycorp/",
+    "pass": 1
+   },
+   {
+    "quote": "このページは、弁護士法第23条の2に基づく照会（以下、「弁護士会照会」）制度により、「LINEヤフー株式会社」が提供するサービスのユーザー情報の開示を求められた際の当社の考え方等について説明するものです",
+    "url": "https://www.lycorp.co.jp/ja/privacy-security/privacy/bar-association-inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "「LINE」や「Yahoo! JAPAN」などのサービスは、日本の届出電気通信事業者であるLINEヤフー株式会社（以下、「LINEヤフー」）によって運営されています",
+    "url": "https://www.lycorp.co.jp/ja/privacy-security/privacy/bar-association-inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "そのため、これらのサービスのユーザーに関する情報の開示は、適用される日本国の個人情報保護法、電気通信事業法などの法的要件と、各サービスの利用規約やプライバシーポリシーに則って行われます",
+    "url": "https://www.lycorp.co.jp/ja/privacy-security/privacy/bar-association-inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "また、サービスブランドごとに登録情報に差異があり、照会事由に直接的な関係性の認められるサービスの登録情報に限定して開示を検討いたします",
+    "url": "https://www.lycorp.co.jp/ja/privacy-security/privacy/bar-association-inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "例えば「LINE」のサービスにおいて訴状の送達先調査が照会事由というような場合、基本的には上記のうち電話番号とメールアドレスのみが開示の検討対象となります",
+    "url": "https://www.lycorp.co.jp/ja/privacy-security/privacy/bar-association-inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "飲食店向け予約管理サービスを提供する株式会社トレタの株式取得に関するお知らせ",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社完全子会社であるLINEヤフーコミュニケーションズ株式会社への会社分割による当社カスタマーサービス機能の移管方針決定のお知らせ",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本国内における「LINE Pay」サービス終了に関するお知らせ",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社のインターネットオークションサービスに対する個人情報保護委員会からの指導について",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "「GYAO!」サービス終了のお知らせ ～縦型ショート動画サービス「LINE VOOM」へ動画領域のグループ経営資源を集中～",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "キャッシュレス決済サービスPayPayの決済取扱高につきまして",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "（開示事項の経過）暗号資産サービス「BITMAX」、暗号資産貸出サービスの固定期間型の提供開始",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "（開示事項の経過）暗号資産貸出サービスの提供開始に関するお知らせ",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "Zホールディングスの金融サービスのブランド統一および連結子会社の商号変更に関するお知らせ",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "よくあるご質問： Yahoo! JAPANの検索サービスにおけるグーグルの検索エンジンと検索連動型広告配信システムの採用、ならびにYahoo! JAPANからグーグルへのデータ提供について",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "Yahoo! JAPAN の検索サービスにおけるグーグルの検索エンジンと検索連動型広告配信システムの採用、ならびにYahoo! JAPAN からグーグルへのデータ提供について",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトバンクIDC ソリューションズ株式会社合併に関する更正・決定通知書の受領について",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "Yahoo! JAPAN とアリババグループの「淘宝（タオバオ）」、日中の商品を相互販売するサイトのサービス開始に関するお知らせ",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社連結子会社であるソフトバンクIDCソリューションズ株式会社の吸収合併（簡易合併・略式合併）に関するお知らせ",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトバンクIDCソリューションズ株式会社の株式の取得（子会社化）に関するお知らせ",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社リクルートとの旅行関連サービスの共同展開に関するお知らせ",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "ブロードバンド関連の総合サービス「Yahoo!BB」開始のお知らせ",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "LINEヤフー社が提供するサービスの開発体制・データ管理体制",
+    "url": "https://www.lycorp.co.jp/ja/ir/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービスを通じた社会との連携",
+    "url": "https://www.lycorp.co.jp/ja/ir/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス品質の向上",
+    "url": "https://www.lycorp.co.jp/ja/ir/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "AI時代のサービス創出力を最大化",
+    "url": "https://www.lycorp.co.jp/ja/ir/library/report.html",
+    "pass": 1
+   },
+   {
+    "quote": "LINEヤフー社が提供するサービスの開発体制・データ管理体制",
+    "url": "https://www.lycorp.co.jp/ja/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービスを通じた社会との連携",
+    "url": "https://www.lycorp.co.jp/ja/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス品質の向上",
+    "url": "https://www.lycorp.co.jp/ja/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "LINEヤフー社が提供するサービスの開発体制・データ管理体制",
+    "url": "https://www.lycorp.co.jp/ja/ir/library/lineirairchive.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービスを通じた社会との連携",
+    "url": "https://www.lycorp.co.jp/ja/ir/library/lineirairchive.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス品質の向上",
+    "url": "https://www.lycorp.co.jp/ja/ir/library/lineirairchive.html",
+    "pass": 1
+   },
+   {
+    "quote": "LINEヤフー社が提供するサービスの開発体制・データ管理体制",
+    "url": "https://www.lycorp.co.jp/ja/ir/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービスを通じた社会との連携",
+    "url": "https://www.lycorp.co.jp/ja/ir/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス品質の向上",
+    "url": "https://www.lycorp.co.jp/ja/ir/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度第3四半期に、メディア事業に区分されていた「一休.comレストラン」、および「PayPayグルメ」のサービスをコマース事業に移管",
+    "url": "https://www.lycorp.co.jp/ja/ir/finance/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度第3四半期に、組織再編に伴いサービスをセグメント間で移管",
+    "url": "https://www.lycorp.co.jp/ja/ir/finance/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度第1四半期に、組織再編に伴いサービスをセグメント間で移管",
+    "url": "https://www.lycorp.co.jp/ja/ir/finance/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "LINEヤフー社が提供するサービスの開発体制・データ管理体制",
+    "url": "https://www.lycorp.co.jp/ja/ir/stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービスを通じた社会との連携",
+    "url": "https://www.lycorp.co.jp/ja/ir/stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス品質の向上",
+    "url": "https://www.lycorp.co.jp/ja/ir/stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品取引業者",
+    "url": "https://www.lycorp.co.jp/ja/ir/stock/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "上場金融商品取引所",
+    "url": "https://www.lycorp.co.jp/ja/ir/stock/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、中長期的かつ持続的な企業価値の向上を目指す上で、将来の成長を見据えたサービスへの先行投資や設備投資に加え、利益還元を通じて株主の皆様に報いることが重要だと考えております",
+    "url": "https://www.lycorp.co.jp/ja/ir/stock/return.html",
+    "pass": 1
+   },
+   {
+    "quote": "１．情報処理サービス業および情報提供サービス業",
+    "url": "https://www.lycorp.co.jp/ja/company/overview/pdf/cg00_%E5%AE%9A%E6%AC%BE_231001.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１４．キャラクター商品、ゲーム機器・ソフトウェア、玩具・遊戯用具等の物品、",
+    "url": "https://www.lycorp.co.jp/ja/company/overview/pdf/cg00_%E5%AE%9A%E6%AC%BE_231001.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "各種新商品の企画、設計、開発、製造、制作、販売、賃貸および著作権、意",
+    "url": "https://www.lycorp.co.jp/ja/company/overview/pdf/cg00_%E5%AE%9A%E6%AC%BE_231001.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１６．旅行業、旅行業者代理業および旅行サービス手配業",
+    "url": "https://www.lycorp.co.jp/ja/company/overview/pdf/cg00_%E5%AE%9A%E6%AC%BE_231001.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "コンテンツ （配信サービスを含む）の企画、立案、制作、 保守、 管理、 運営、",
+    "url": "https://www.lycorp.co.jp/ja/company/overview/pdf/cg00_%E5%AE%9A%E6%AC%BE_231001.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３７．第一種金融商品取引業",
+    "url": "https://www.lycorp.co.jp/ja/company/overview/pdf/cg00_%E5%AE%9A%E6%AC%BE_231001.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３８．第二種金融商品取引業",
+    "url": "https://www.lycorp.co.jp/ja/company/overview/pdf/cg00_%E5%AE%9A%E6%AC%BE_231001.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３９．金融商品仲介業",
+    "url": "https://www.lycorp.co.jp/ja/company/overview/pdf/cg00_%E5%AE%9A%E6%AC%BE_231001.pdf",
+    "pass": 2
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "エンジニア職紹介",
+    "url": "https://www.lycorp.co.jp/ja/",
+    "pass": 1
+   },
+   {
+    "quote": "プロダクト職紹介",
+    "url": "https://www.lycorp.co.jp/ja/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネス職紹介",
+    "url": "https://www.lycorp.co.jp/ja/",
+    "pass": 1
+   },
+   {
+    "quote": "デザイナー職紹介",
+    "url": "https://www.lycorp.co.jp/ja/",
+    "pass": 1
+   },
+   {
+    "quote": "コーポレート職紹介",
+    "url": "https://www.lycorp.co.jp/ja/",
+    "pass": 1
+   },
+   {
+    "quote": "また、自治体や教育機関との協力を通じて、データ活用に関するさまざまな取り組みについてもご紹介いたします",
+    "url": "https://www.lycorp.co.jp/ja/",
+    "pass": 1
+   },
+   {
+    "quote": "これを記念し、これまでの歩みや初期の秘話を紹介する特設サイトを公開した",
+    "url": "https://www.lycorp.co.jp/ja/company/history/lycorp/",
+    "pass": 1
+   },
+   {
+    "quote": "取締役会が取締役候補の指名と経営陣幹部の選解任とを行うにあたっての方針と手続き",
+    "url": "https://www.lycorp.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニア職紹介",
+    "url": "https://www.lycorp.co.jp/ja/ir/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "プロダクト職紹介",
+    "url": "https://www.lycorp.co.jp/ja/ir/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネス職紹介",
+    "url": "https://www.lycorp.co.jp/ja/ir/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "デザイナー職紹介",
+    "url": "https://www.lycorp.co.jp/ja/ir/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "コーポレート職紹介",
+    "url": "https://www.lycorp.co.jp/ja/ir/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニア職紹介",
+    "url": "https://www.lycorp.co.jp/ja/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "プロダクト職紹介",
+    "url": "https://www.lycorp.co.jp/ja/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネス職紹介",
+    "url": "https://www.lycorp.co.jp/ja/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "デザイナー職紹介",
+    "url": "https://www.lycorp.co.jp/ja/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "コーポレート職紹介",
+    "url": "https://www.lycorp.co.jp/ja/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニア職紹介",
+    "url": "https://www.lycorp.co.jp/ja/ir/library/lineirairchive.html",
+    "pass": 1
+   },
+   {
+    "quote": "プロダクト職紹介",
+    "url": "https://www.lycorp.co.jp/ja/ir/library/lineirairchive.html",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネス職紹介",
+    "url": "https://www.lycorp.co.jp/ja/ir/library/lineirairchive.html",
+    "pass": 1
+   },
+   {
+    "quote": "デザイナー職紹介",
+    "url": "https://www.lycorp.co.jp/ja/ir/library/lineirairchive.html",
+    "pass": 1
+   },
+   {
+    "quote": "コーポレート職紹介",
+    "url": "https://www.lycorp.co.jp/ja/ir/library/lineirairchive.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニア職紹介",
+    "url": "https://www.lycorp.co.jp/ja/ir/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "プロダクト職紹介",
+    "url": "https://www.lycorp.co.jp/ja/ir/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネス職紹介",
+    "url": "https://www.lycorp.co.jp/ja/ir/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "デザイナー職紹介",
+    "url": "https://www.lycorp.co.jp/ja/ir/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "コーポレート職紹介",
+    "url": "https://www.lycorp.co.jp/ja/ir/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニア職紹介",
+    "url": "https://www.lycorp.co.jp/ja/ir/stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "プロダクト職紹介",
+    "url": "https://www.lycorp.co.jp/ja/ir/stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネス職紹介",
+    "url": "https://www.lycorp.co.jp/ja/ir/stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "デザイナー職紹介",
+    "url": "https://www.lycorp.co.jp/ja/ir/stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "コーポレート職紹介",
+    "url": "https://www.lycorp.co.jp/ja/ir/stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "１３．広告、宣伝に関する企画、制作および広告代理店業",
+    "url": "https://www.lycorp.co.jp/ja/company/overview/pdf/cg00_%E5%AE%9A%E6%AC%BE_231001.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２４．労働者派遣事業、職業紹介事業ならびに人材の職業適性能力開発のための研",
+    "url": "https://www.lycorp.co.jp/ja/company/overview/pdf/cg00_%E5%AE%9A%E6%AC%BE_231001.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "パートナーを探す",
+    "url": "https://www.lycbiz.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーになる",
+    "url": "https://www.lycbiz.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "コミュニケーションアプリ「LINE」上に企業や店舗がアカウントを作成し、友だち追加してくれたユーザーに対して情報を発信できます",
+    "url": "https://www.lycbiz.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ヘアサロンの予約から顧客管理、メッセージ配信をLINE上で実現できるLINEビューティープラスについてご紹介します",
+    "url": "https://www.lycbiz.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "飲食店の注文・会計・再来店促進をLINEで一元化する、LINEレストランプラスの機能と導入メリットをご紹介します",
+    "url": "https://www.lycbiz.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "LINEミニアプリの導入を検討される企業や店舗様向けに、サービスの特徴や導入方法、利用者の声をご紹介します",
+    "url": "https://www.lycbiz.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "会員化率向上や顧客データ活用、再来店促進につながるLINEミニアプリの会員証活用について、事例を交えながら紹介します",
+    "url": "https://www.lycbiz.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "はじめての方向けに、LINEヤフー広告の特徴や料金などをわかりやすく紹介します",
+    "url": "https://www.lycbiz.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "LINEヤフー広告 ディスプレイ広告（運用型）がはじめての方向けに、特徴や仕組みなどをわかりやすく紹介します",
+    "url": "https://www.lycbiz.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "【録画配信】予約・注文・集客まで、店舗運営のすべてをLINEでひとつに！ 飲食店のためのLINE活用セミナー",
+    "url": "https://www.lycbiz.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "LINEミニアプリ完全ガイド｜導入方法や費用、導入事例まで【店舗運営社向け】",
+    "url": "https://www.lycbiz.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "法人向けサービスの紹介や機能・活用事例をわかりやすくまとめた資料をご用意しております",
+    "url": "https://www.lycbiz.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "法人向けサービスのご活用は、パートナー各社へもご相談いただけます",
+    "url": "https://www.lycbiz.com/jp/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "1996年1月31日",
+    "url": "https://www.lycorp.co.jp/ja/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "1997年11月4日 店頭市場",
+    "url": "https://www.lycorp.co.jp/ja/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月末時点",
+    "url": "https://www.lycorp.co.jp/ja/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月に新規オープンした「赤坂オフィス」へお越しの方は、以下の記事でご案内しております",
+    "url": "https://www.lycorp.co.jp/ja/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 - LINEヤフー株式会社｜LINEヤフー株式会社",
+    "url": "https://www.lycorp.co.jp/ja/company/history/lycorp/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 - LINEヤフー株式会社",
+    "url": "https://www.lycorp.co.jp/ja/company/history/lycorp/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年10月",
+    "url": "https://www.lycorp.co.jp/ja/company/history/lycorp/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年11月",
+    "url": "https://www.lycorp.co.jp/ja/company/history/lycorp/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年12月",
+    "url": "https://www.lycorp.co.jp/ja/company/history/lycorp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年4月",
+    "url": "https://www.lycorp.co.jp/ja/company/history/lycorp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月",
+    "url": "https://www.lycorp.co.jp/ja/company/history/lycorp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月",
+    "url": "https://www.lycorp.co.jp/ja/company/history/lycorp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月31日現在",
+    "url": "https://www.lycorp.co.jp/ja/company/history/lycorp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度第2四半期決算発表のお知らせ（2026年11月5日予定）",
+    "url": "https://www.lycorp.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度",
+    "url": "https://www.lycorp.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度第1四半期：2026年8月3日発表",
+    "url": "https://www.lycorp.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度第2四半期：2026年11月5日発表予定",
+    "url": "https://www.lycorp.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度第3四半期：2027年2月4日発表予定",
+    "url": "https://www.lycorp.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度通期および第4四半期：2027年5月11日発表予定",
+    "url": "https://www.lycorp.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度に係る取締役の報酬等",
+    "url": "https://www.lycorp.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度第2四半期決算発表のお知らせ（2026年11月5日予定）",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月1日付の当社経営・執行体制に関するお知らせ",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度第1四半期決算発表 質疑応答要旨",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度第1四半期決算発表",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期決算短信〔IFRS〕(連結)",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度第1四半期決算発表のお知らせ（2026年8月3日予定）",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期の配当金に関するご通知",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期の配当金に関するQ＆A",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年定時株主総会招集通知及び株主総会資料",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度通期および第4四半期決算発表 質疑応答要旨",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度通期および第4四半期決算発表",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期連結および個別業績の前期実績との差異に関するお知らせ",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期決算短信〔IFRS〕(連結)",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度通期および第4四半期決算発表のお知らせ（2026年5月8日予定）",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度第3四半期決算発表",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第3四半期決算短信〔IFRS〕(連結)",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月1日付の当社経営・執行体制に関するお知らせ",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度第3四半期決算発表のお知らせ（2026年2月4日予定）",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度第2四半期決算発表",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第2四半期(中間期)決算短信〔IFRS〕（連結）",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度第2四半期決算発表のお知らせ（2025年11月4日予定）",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年10月1日付の当社経営・執行体制に関するお知らせ",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度第1四半期決算発表 質疑応答要旨",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第1四半期決算短信〔IFRS〕(連結)",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度第1四半期決算発表のお知らせ（2025年8月4日予定）",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度 全体版",
+    "url": "https://www.lycorp.co.jp/ja/ir/library/report.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度 分割版",
+    "url": "https://www.lycorp.co.jp/ja/ir/library/report.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度 全体版",
+    "url": "https://www.lycorp.co.jp/ja/ir/library/report.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度 分割版",
+    "url": "https://www.lycorp.co.jp/ja/ir/library/report.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度 全体版",
+    "url": "https://www.lycorp.co.jp/ja/ir/library/report.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度 分割版",
+    "url": "https://www.lycorp.co.jp/ja/ir/library/report.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年度 全体版",
+    "url": "https://www.lycorp.co.jp/ja/ir/library/report.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年度 分割版",
+    "url": "https://www.lycorp.co.jp/ja/ir/library/report.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年度 全体版",
+    "url": "https://www.lycorp.co.jp/ja/ir/library/report.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年度 分割版",
+    "url": "https://www.lycorp.co.jp/ja/ir/library/report.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年度 全体版",
+    "url": "https://www.lycorp.co.jp/ja/ir/library/report.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年度 分割版",
+    "url": "https://www.lycorp.co.jp/ja/ir/library/report.html",
+    "pass": 1
+   },
+   {
+    "quote": "2018年度 全体版",
+    "url": "https://www.lycorp.co.jp/ja/ir/library/report.html",
+    "pass": 1
+   },
+   {
+    "quote": "2018年度 分割版",
+    "url": "https://www.lycorp.co.jp/ja/ir/library/report.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年度 全体版",
+    "url": "https://www.lycorp.co.jp/ja/ir/library/report.html",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "ストックオプション（新株予約権）の自主放棄に関するお知らせ",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストック・オプション（新株予約権）の発行内容確定に関するお知らせ",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストック・オプション（新株予約権）の発行に関するお知らせ",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "取締役に対するストック・オプション（新株予約権）の導入に関するお知らせ",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストック・オプション（新株予約権）発行内容確定（新株予約権の行使に際して出資される財産の価額追加）に関するお知らせ",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストック・オプション（第28回新株予約権）の発行中止に関するお知らせ",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストック・オプション（新株予約権）の対象者数等決定のお知らせ",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストック・オプション（新株予約権）の発行要領の一部変更に関するお知らせ",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストック・オプション（新株予約権）の付与、及び報酬ポリシー改定に関するお知らせ",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストック・オプション（新株予約権）の付与、及び報酬ポリシー制定に関するお知らせ",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストック ・オプション（新株予約権）の行使価額確定に関するお知らせ",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストック・オプション（新株予約権）の付与に関するお知らせ",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "業績目標コミットメント型ストックオプション（新株予約権）の 発行内容確定に関するお知らせ",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "業績目標コミットメント型ストックオプション（新株予約権）の 発行に関するお知らせ",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "業績目標コミットメント型ストックオプション（新株予約権）の発行内容確定に関するお知らせ",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "業績目標コミットメント型ストックオプション（新株予約権）の発行に関するお知らせ",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "従業員に対するストックオプション（新株予約権）の発行内容確定に関するお知らせ",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "従業員に対するストックオプション（新株予約権）の発行に関するお知らせ",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社取締役および従業員に対するストックオプション（新株予約権）の発行内容確定に関するお知らせ",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社取締役および従業員に対するストックオプション（新株予約権）の発行に関するお知らせ",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "取締役に対するストックオプション（新株予約権）の発行内容確定に関するお知らせ",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "取締役に対するストックオプション（新株予約権）の発行に関するお知らせ",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "取締役に対するストックオプションのための報酬等に関するお知らせ",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "従業員に対するストックオプション（新株予約権）の行使価額等の決定に関するお知らせ",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストックオプション（新株予約権）の行使価額等の決定に関するお知らせ",
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストックオプションの行使 3,295,175株",
+    "url": "https://www.lycorp.co.jp/ja/ir/stock/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストックオプションの行使 4,539,025株",
+    "url": "https://www.lycorp.co.jp/ja/ir/stock/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストックオプションの行使 2,059,775株",
+    "url": "https://www.lycorp.co.jp/ja/ir/stock/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストックオプションの行使 2,130,275株",
+    "url": "https://www.lycorp.co.jp/ja/ir/stock/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストックオプションの行使 4,581,325株",
+    "url": "https://www.lycorp.co.jp/ja/ir/stock/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストックオプションの行使 1,728,425株",
+    "url": "https://www.lycorp.co.jp/ja/ir/stock/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストックオプションの行使 1,838,875株",
+    "url": "https://www.lycorp.co.jp/ja/ir/stock/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストックオプションの行使 1,274,475株",
+    "url": "https://www.lycorp.co.jp/ja/ir/stock/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストックオプションの行使 235,000株",
+    "url": "https://www.lycorp.co.jp/ja/ir/stock/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストックオプションの行使 158,400株",
+    "url": "https://www.lycorp.co.jp/ja/ir/stock/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストックオプションの行使 14,300株",
+    "url": "https://www.lycorp.co.jp/ja/ir/stock/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストックオプションの行使 191,100株",
+    "url": "https://www.lycorp.co.jp/ja/ir/stock/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストックオプションの行使 96,300株",
+    "url": "https://www.lycorp.co.jp/ja/ir/stock/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストックオプションの行使 42,000株",
+    "url": "https://www.lycorp.co.jp/ja/ir/stock/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストックオプションの行使 89,900株",
+    "url": "https://www.lycorp.co.jp/ja/ir/stock/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストックオプションの行使 58,000株",
+    "url": "https://www.lycorp.co.jp/ja/ir/stock/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストックオプションの行使 12,600株",
+    "url": "https://www.lycorp.co.jp/ja/ir/stock/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストックオプションの行使 15,500株",
+    "url": "https://www.lycorp.co.jp/ja/ir/stock/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストックオプションの行使 94,800株",
+    "url": "https://www.lycorp.co.jp/ja/ir/stock/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストックオプションの行使 139,200株",
+    "url": "https://www.lycorp.co.jp/ja/ir/stock/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストックオプションの行使 142,600株",
+    "url": "https://www.lycorp.co.jp/ja/ir/stock/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストックオプションの行使 107,100株",
+    "url": "https://www.lycorp.co.jp/ja/ir/stock/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストックオプションの行使 115,500株",
+    "url": "https://www.lycorp.co.jp/ja/ir/stock/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストックオプションの行使 14,900株",
+    "url": "https://www.lycorp.co.jp/ja/ir/stock/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストックオプションの行使 20,000株",
+    "url": "https://www.lycorp.co.jp/ja/ir/stock/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "１． 前条の買取請求の買取単価は、 買取請求が株主名簿管理人事務取扱場所に到達した日",
+    "url": "https://www.lycorp.co.jp/ja/ir/stock/info/main/01/teaserItems2/00/file/share_handling_rule.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２． 前項による買取単価に買取請求株式数を乗じた額をもって買取価格とする",
+    "url": "https://www.lycorp.co.jp/ja/ir/stock/info/main/01/teaserItems2/00/file/share_handling_rule.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１． 当社は、 前条により算出された買取価格から第２７条に定める手数料を控除した金額",
+    "url": "https://www.lycorp.co.jp/ja/ir/stock/info/main/01/teaserItems2/00/file/share_handling_rule.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "を買取代金とし、当社が別途定めた場合を除き、機構の定めるところにより買取単価",
+    "url": "https://www.lycorp.co.jp/ja/ir/stock/info/main/01/teaserItems2/00/file/share_handling_rule.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１． 買増単価は、 買増請求の効力発生日の東京証券取引所の開設する市場における最終価",
+    "url": "https://www.lycorp.co.jp/ja/ir/stock/info/main/01/teaserItems2/00/file/share_handling_rule.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２． 前項による買増単価に買増請求株式数を乗じた額を もって買増価格とする",
+    "url": "https://www.lycorp.co.jp/ja/ir/stock/info/main/01/teaserItems2/00/file/share_handling_rule.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "定める手数料を加算した金額が 当社 所定の銀行預金口座に振り込まれたことを確",
+    "url": "https://www.lycorp.co.jp/ja/ir/stock/info/main/01/teaserItems2/00/file/share_handling_rule.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第７章 手数料",
+    "url": "https://www.lycorp.co.jp/ja/ir/stock/info/main/01/teaserItems2/00/file/share_handling_rule.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第２７条（手数料）",
+    "url": "https://www.lycorp.co.jp/ja/ir/stock/info/main/01/teaserItems2/00/file/share_handling_rule.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１． 当社の株式の取扱いに関する手数料は、無料とする",
+    "url": "https://www.lycorp.co.jp/ja/ir/stock/info/main/01/teaserItems2/00/file/share_handling_rule.pdf",
+    "pass": 2
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://www.lycorp.co.jp/ja/ir/library/report.html",
+    "pass": 1
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント別概況",
+    "url": "https://www.lycorp.co.jp/ja/ir/library/report.html",
+    "pass": 1
+   },
+   {
+    "quote": "※2024年度から、セグメント別損益計算書推移表とKPI表を決算データシートに統合いたしました",
+    "url": "https://www.lycorp.co.jp/ja/ir/library/indicator.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別連結損益計算書",
+    "url": "https://www.lycorp.co.jp/ja/ir/library/data.html",
+    "pass": 1
+   },
+   {
+    "quote": "※2024年度から、セグメント別損益計算書推移表と事業指標推移表を決算データシートに統合いたしました",
+    "url": "https://www.lycorp.co.jp/ja/ir/library/data.html",
+    "pass": 1
+   },
+   {
+    "quote": "通期および第4四半期 セグメント別損益計算書推移表",
+    "url": "https://www.lycorp.co.jp/ja/ir/library/data.html",
+    "pass": 1
+   },
+   {
+    "quote": "第3四半期 セグメント別損益計算書推移表",
+    "url": "https://www.lycorp.co.jp/ja/ir/library/data.html",
+    "pass": 1
+   },
+   {
+    "quote": "第2四半期 セグメント別損益計算書推移表",
+    "url": "https://www.lycorp.co.jp/ja/ir/library/data.html",
+    "pass": 1
+   },
+   {
+    "quote": "第1四半期 セグメント別損益計算書推移表",
+    "url": "https://www.lycorp.co.jp/ja/ir/library/data.html",
+    "pass": 1
+   },
+   {
+    "quote": "通期および第4四半期決算 セグメント別損益計算書推移表",
+    "url": "https://www.lycorp.co.jp/ja/ir/library/data.html",
+    "pass": 1
+   },
+   {
+    "quote": "第3四半期決算 セグメント別損益計算書推移表",
+    "url": "https://www.lycorp.co.jp/ja/ir/library/data.html",
+    "pass": 1
+   },
+   {
+    "quote": "第2四半期決算 セグメント別損益計算書推移表",
+    "url": "https://www.lycorp.co.jp/ja/ir/library/data.html",
+    "pass": 1
+   },
+   {
+    "quote": "第1四半期決算 セグメント別損益計算書推移表",
+    "url": "https://www.lycorp.co.jp/ja/ir/library/data.html",
+    "pass": 1
+   },
+   {
+    "quote": "第2四半期および中間決算 セグメント別損益計算書推移表",
+    "url": "https://www.lycorp.co.jp/ja/ir/library/data.html",
+    "pass": 1
+   },
+   {
+    "quote": "調整額は、セグメント間取引および報告セグメントに帰属しない全社費用",
+    "url": "https://www.lycorp.co.jp/ja/ir/finance/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度第3四半期に、組織再編に伴いサービスをセグメント間で移管",
+    "url": "https://www.lycorp.co.jp/ja/ir/finance/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度第1四半期に、組織再編に伴いサービスをセグメント間で移管",
+    "url": "https://www.lycorp.co.jp/ja/ir/finance/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別連結損益計算書はこちら",
+    "url": "https://www.lycorp.co.jp/ja/ir/finance/pl.html",
+    "pass": 1
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "グループの強み",
+    "url": "https://www.lycorp.co.jp/ja/ir/library/report.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの強み",
+    "url": "https://www.lycorp.co.jp/ja/ir/library/report.html",
+    "pass": 1
+   },
+   {
+    "quote": "営業利益率(％)",
+    "url": "https://www.lycorp.co.jp/ja/ir/finance/indicator.html",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "企業情報｜ LINEヤフー 株式会社 - LY Corporation — 企業情報｜ LINEヤフー 株式会社 - LY Corporation LY Corporation https://www.lycorp.co.jp > company",
+    "url": "https://www.lycorp.co.jp/ja/company/",
+    "pass": 3
+   },
+   {
+    "quote": "LINEヤフー for Business｜ LINEヤフー が提供する法人向け ... — LINEヤフー for Business｜ LINEヤフー が提供する法人向け ... LINEヤフー for Business https://www.lycbiz.com > ...",
+    "url": "https://www.lycbiz.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "1ページで分かる LINEヤフー - LY Corporation — 1ページで分かる LINEヤフー - LY Corporation LY Corporation https://www.lycorp.co.jp > 採用情報 > LINEヤフーを知る",
+    "url": "https://www.lycorp.co.jp/ja/recruit/workplace/about/",
+    "pass": 3
+   },
+   {
+    "quote": "統合報告書 | ライブラリ | IR情報 | LINEヤフー 株式会社 — 統合報告書 | ライブラリ | IR情報 | LINEヤフー 株式会社 LY Corporation https://www.lycorp.co.jp > library > report",
+    "url": "https://www.lycorp.co.jp/ja/ir/library/report.html",
+    "pass": 3
+   },
+   {
+    "quote": "【キーマンが語る新 ビジネス 戦略】 LINEヤフー の経営統合 ... — 【キーマンが語る新 ビジネス 戦略】 LINEヤフー の経営統合 ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=gDnENh4jtCo",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 資料 | ライブラリ | IR情報 | LINEヤフー 株式会社 — 決算説明 会 資料 | ライブラリ | IR情報 | LINEヤフー 株式会社 LY Corporation https://www.lycorp.co.jp > library > presentations",
+    "url": "https://www.lycorp.co.jp/ja/ir/library/presentations.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 | LINEヤフー 株式会社 - LY Corporation — IR情報 | LINEヤフー 株式会社 - LY Corporation LY Corporation https://www.lycorp.co.jp > ...",
+    "url": "https://www.lycorp.co.jp/ja/ir.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 | IR情報 | LINEヤフー 株式会社 - LY Corporation — 決算説明 会 | IR情報 | LINEヤフー 株式会社 - LY Corporation LY Corporation https://www.lycorp.co.jp > presentations",
+    "url": "https://www.lycorp.co.jp/ja/ir/presentations.html",
+    "pass": 3
+   },
+   {
+    "quote": "LINEヤフー 株式会社 - X — LINEヤフー 株式会社 - X X https://x.com > @lycorp_jp",
+    "url": "https://x.com/lycorp_jp/status/2018941961613533611",
+    "pass": 3
+   },
+   {
+    "quote": "組織図｜ LINEヤフー 株式会社 - LY Corporation — 組織図｜ LINEヤフー 株式会社 - LY Corporation LY Corporation https://www.lycorp.co.jp > company > organization",
+    "url": "https://www.lycorp.co.jp/ja/company/organization/",
+    "pass": 3
+   },
+   {
+    "quote": "主なグループ会社｜ LINEヤフー 株式会社 — 主なグループ会社｜ LINEヤフー 株式会社 LY Corporation https://www.lycorp.co.jp > company > groupcompanies",
+    "url": "https://www.lycorp.co.jp/ja/company/groupcompanies/",
+    "pass": 3
+   },
+   {
+    "quote": "社員 インタビュー ｜ LINEヤフー 株式会社 - LY Corporation — 社員 インタビュー ｜ LINEヤフー 株式会社 - LY Corporation LY Corporation https://www.lycorp.co.jp > recruit > interview",
+    "url": "https://www.lycorp.co.jp/ja/recruit/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "インタビュー 「 LINEヤフー 株式会社になった件」 Full ver. — インタビュー 「 LINEヤフー 株式会社になった件」 Full ver. YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=BJHLtLgtX_4",
+    "pass": 3
+   },
+   {
+    "quote": "LINEヤフー CEO出澤の新たな戦略 進化するビジョンと経営体制 — LINEヤフー CEO出澤の新たな戦略 進化するビジョンと経営体制 LY Corporation https://www.lycorp.co.jp > story > ceo_interview",
+    "url": "https://www.lycorp.co.jp/ja/story/20240726/ceo_interview.html",
+    "pass": 3
+   },
+   {
+    "quote": "CEOメッセージ｜ LINEヤフー 株式会社 - LY Corporation — CEOメッセージ｜ LINEヤフー 株式会社 - LY Corporation LY Corporation https://www.lycorp.co.jp > company > message",
+    "url": "https://www.lycorp.co.jp/ja/company/message/",
+    "pass": 3
+   },
+   {
+    "quote": "LINEヤフー 株式会社代表取締役 社長 CEO 出澤さん ... - Instagram — LINEヤフー 株式会社代表取締役 社長 CEO 出澤さん ... - Instagram Instagram https://www.instagram.com > ...",
+    "url": "https://www.instagram.com/p/DSKXa4nk0eB/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.lycorp.co.jp/ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lycorp.co.jp/ja/company/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lycorp.co.jp/ja/company/history/lycorp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lycorp.co.jp/ja/ir/stock/koukoku.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lycorp.co.jp/ja/privacy-security/privacy/bar-association-inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lycorp.co.jp/ja/ir.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lycorp.co.jp/ja/ir/news.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lycorp.co.jp/ja/ir/presentations.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.lycorp.co.jp/ja/ir/library/report.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lycorp.co.jp/ja/ir/library.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.lycorp.co.jp/ja/ir/library/result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lycorp.co.jp/ja/ir/library/securities.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lycorp.co.jp/ja/ir/library/presentations.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lycorp.co.jp/ja/ir/library/indicator.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lycorp.co.jp/ja/ir/library/data.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lycorp.co.jp/ja/ir/library/lineirairchive.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.lycorp.co.jp/ja/ir/finance.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.lycorp.co.jp/ja/ir/finance/highlight.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lycorp.co.jp/ja/ir/finance/indicator.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lycorp.co.jp/ja/ir/finance/cashflow.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lycorp.co.jp/ja/ir/finance/bs.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lycorp.co.jp/ja/ir/finance/pl.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lycorp.co.jp/ja/ir/stock.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.lycorp.co.jp/ja/ir/stock/info.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lycorp.co.jp/ja/ir/stock/return.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.lycorp.co.jp/ja/ir/stock/info/main/01/teaserItems2/00/file/share_handling_rule.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.lycorp.co.jp/ja/company/overview/pdf/cg00_%E5%AE%9A%E6%AC%BE_231001.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.lycorp.co.jp/ja/ir/stock/koukoku/main/0/teaserItems1/0/linkList/015/link/merger_20260702.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.lycorp.co.jp/ja/ir/stock/koukoku/main/0/teaserItems1/0/linkList/016/link/merger_20260130.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.lycorp.co.jp/ja/ir/stock/koukoku/main/0/teaserItems1/0/linkList/014/link/merger_20250623.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.lycorp.co.jp/ja/ir/stock/koukoku/main/0/teaserItems1/0/linkList/07/link/split_20250219.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.lycorp.co.jp/ja/ir/stock/koukoku/main/0/teaserItems1/0/linkList/04/link/split_20250214.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.lycorp.co.jp/ja/ir/stock/koukoku/main/0/teaserItems1/0/linkList/06/link/merger_20240731.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.lycbiz.com/jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=BJHLtLgtX_4",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "LINEヤフー",
+   "results": [
+    "https://www.lycorp.co.jp/ja/",
+    "https://ja.wikipedia.org/wiki/LINE%E3%83%A4%E3%83%95%E3%83%BC",
+    "https://www.lycbiz.com/jp/",
+    "https://x.com/lycorp_jp",
+    "https://www.instagram.com/lycorp_jp/",
+    "https://ja.wikipedia.org/wiki/LINEヤフー",
+    "https://en.wikipedia.org/wiki/LY_Corporation",
+    "https://finance.yahoo.co.jp/quote/4689.T",
+    "https://www.lycorp.co.jp/en/",
+    "https://line.me/"
+   ]
+  },
+  {
+   "query": "LINEヤフー ビジネスモデル",
+   "results": [
+    "https://www.lycorp.co.jp/ja/company/",
+    "https://www.lycbiz.com/jp/",
+    "https://www.lycorp.co.jp/ja/recruit/workplace/about/",
+    "https://www.lycorp.co.jp/ja/ir/library/report.html",
+    "https://www.youtube.com/watch?v=gDnENh4jtCo",
+    "https://note.com/kabuya66/n/nf11c57171b51",
+    "https://www.lycorp.co.jp/ja/company/overview/",
+    "https://www.lycorp.co.jp/ja/recruit/landingpage/advertisement-division/",
+    "https://special.nikkeibp.co.jp/atclh/ONB/25/lycorp0411/",
+    "https://consovation.com/株式会社lineヤフー-ビジネスモデル・成長戦略徹底/"
+   ]
+  },
+  {
+   "query": "LINEヤフー 決算説明資料",
+   "results": [
+    "https://www.lycorp.co.jp/ja/ir/library/presentations.html",
+    "https://www.lycorp.co.jp/ja/ir/news/news241669176550790003.html",
+    "https://www.lycorp.co.jp/ja/ir.html",
+    "https://www.lycorp.co.jp/ja/ir/presentations.html",
+    "https://x.com/lycorp_jp/status/2018941961613533611",
+    "https://www.lycorp.co.jp/ja/ir/library/result.html",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=4689",
+    "https://irbox.jp/doc/4689_FY2025-MAR",
+    "https://speakerdeck.com/lycorp_recruit_jp/lycorp-recruit-deck",
+    "https://edinetdb.jp/company/E05000/presentations/"
+   ]
+  },
+  {
+   "query": "LINEヤフー 事業系統図",
+   "results": [
+    "https://www.lycorp.co.jp/ja/company/",
+    "https://www.lycorp.co.jp/ja/company/organization/",
+    "https://www.lycorp.co.jp/ja/company/groupcompanies/",
+    "https://www.lycorp.co.jp/ja/recruit/workplace/about/",
+    "https://www.lycorp.co.jp/ja/ir/library/report.html",
+    "https://speakerdeck.com/lycorp_recruit_jp/lycorp-recruit-deck",
+    "https://www.lycorp.co.jp/ja/news/announcements/018534/",
+    "https://www.lycorp.co.jp/ja/company/officers/",
+    "https://www.lycbiz.com/sites/default/files/media/jp/download/LY_Corporation_MediaGuide.pdf",
+    "https://ja.wikipedia.org/wiki/LINEヤフー"
+   ]
+  },
+  {
+   "query": "LINEヤフー 社長 インタビュー",
+   "results": [
+    "https://www.lycorp.co.jp/ja/recruit/interview/",
+    "https://www.youtube.com/watch?v=BJHLtLgtX_4",
+    "https://www.lycorp.co.jp/ja/story/20240726/ceo_interview.html",
+    "https://www.lycorp.co.jp/ja/company/message/",
+    "https://www.instagram.com/p/DSKXa4nk0eB/",
+    "https://www.asahi.com/articles/ASV8M120SV8MULFA01NM.html",
+    "https://note.com/lycorp_recruit/n/n127c567475a4",
+    "https://www.lycorp.co.jp/ja/company/officers/",
+    "https://www.youtube.com/watch?v=j_XaaI1qUUQ",
+    "https://ja.wikipedia.org/wiki/出澤剛"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部2頁・検索5回）"
+ }
+}

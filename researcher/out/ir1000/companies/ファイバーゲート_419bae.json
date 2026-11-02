@@ -1,0 +1,1559 @@
+{
+ "name": "ファイバーゲート",
+ "aliases": [],
+ "context": "証券コード9450／情報・通信業／スタンダード（内国株式）／2026.06期 売上高13,664百万円 営業利益率13.5%",
+ "researched_at": "2026-11-02T19:22:51.713247+00:00",
+ "official_url": "https://www.fibergate.co.jp/",
+ "identified_by": "search:yahoo_jp:ファイバーゲート",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2000年 9月",
+    "url": "https://www.fibergate.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "明治42年8月15日",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "label": "設立",
+    "value": "2000年9月",
+    "url": "https://2ndlabo.com/M1235/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "2000年",
+    "url": "https://shachomeikan.jp/industry_article/2571",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容 ※グループ会社含む",
+    "value": "・ホームユース事業（集合住宅向けインターネット接続サービスの提供） ・ビジネスユース事業（フリーWi-Fiサービスの提供、法人向けネットワークサービスの提供、通信機器の開発・製造・販売等） ・再生可能エネルギー（電力）事業 ・不動産事業 ・その他事業（WEBコンテンツサービスの提供等）",
+    "url": "https://www.fibergate.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "太陽光発電EPC事業 総資産 ：6.25億円",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "label": "事業内容",
+    "value": "・インターネット無料マンション「FGBB®」の構築、保守、運営、サポート、PB提供 ・フリーWi-Fiスポット「Wi-FiNex®」の構築、保守、運営、サポート、PB提供 ・VPN構築等法人向ISP事業・モバイル回線の再販 ・通信機器の開発・製造・販売 ・インターネット広告事業",
+    "url": "https://2ndlabo.com/M1235/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "250名 （2026年6月30日現在 ファイバーゲート関連会社社員を含む。取締役は除く）",
+    "url": "https://www.fibergate.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "232人",
+    "url": "https://2ndlabo.com/M1235/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "お客様に『ありがとう』といっていただくことは私たちの誇りです",
+    "url": "https://www.fibergate.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "主要取引先 （敬称略）",
+    "url": "https://www.fibergate.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "当社サービスが導入された施設を訪れる利用者は利用する通信端末や現在契約している通信キャリアに関わらず、登録手続き等の定められた認証を行うことで、無料で自由にインターネット接続を行うことが可能であります",
+    "url": "https://www.fibergate.co.jp/business/free-wifi/",
+    "pass": 1
+   },
+   {
+    "quote": "また、独自のコンテンツ配信や顧客データ収集などのマーケティングに活用できるプラットフォームもご用意しております",
+    "url": "https://www.fibergate.co.jp/business/free-wifi/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド認証により通信利用者の端末を判別し、インターネット接続時の初期画面を特定のWebサイトへ誘導することができます",
+    "url": "https://www.fibergate.co.jp/business/free-wifi/",
+    "pass": 1
+   },
+   {
+    "quote": "インターホンの呼び出しを、自宅でも外出先にいてもお客様のスマートフォンで対応することができるIoTプラットフォームです",
+    "url": "https://www.fibergate.co.jp/business/residence-wifi/",
+    "pass": 1
+   },
+   {
+    "quote": "創業以来、時代の変化と共に、常に社会が必要とするインフラとは何かを問い続け、お客様の課題を解決するパートナーとして成長を続けております",
+    "url": "https://www.fibergate.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、お客様の事業活動を支える基盤となる総合的な通信環境やエネルギー環境を構築する「構内インフラ・インテグレーター」としての役割を強化します",
+    "url": "https://www.fibergate.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、大規模施設向けではなく「ミドルマーケット」に特化し、コストパフォーマンスに優れたサービスで、お客様のニーズに応えることを強みとしています",
+    "url": "https://www.fibergate.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "これは、長年事業を行ってきた経験と、自社で不動産事業を行いながらサービスの実験を繰り返した知見と、お客様に寄り添い柔軟に対応する当社グループの総合力がその礎となっています",
+    "url": "https://www.fibergate.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "今後も、お客様をはじめすべてのステークホルダーの皆様からの信頼に応え、持続的な成長を実現すべく、全社一丸となって邁進してまいります",
+    "url": "https://www.fibergate.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "「お客様の事業に貢献するこ とでビジネス上 の “ありがとう ”を集める」を経営理念に掲げていま す",
+    "url": "https://www.fibergate.co.jp/download/common/fg_brochure_jp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この取り組みによ り 、より多く のお客様に私たちのサービスを利用し ていた",
+    "url": "https://www.fibergate.co.jp/download/common/fg_brochure_jp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "も行っ ており、 お客様のニー ズに合わせた快適で安全な接続環境を提供しま す",
+    "url": "https://www.fibergate.co.jp/download/common/fg_brochure_jp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "フ ァ イ バーゲ ー トの通信サービス と 一緒に提供す る事で、お客様の空間価値を",
+    "url": "https://www.fibergate.co.jp/download/common/fg_brochure_jp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様の事業活動を支える基盤となる総合的な通信環境を構築する「構内インフラ・インテグレーター」としての役割を",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/medium-term-vision-and-future-policy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、お客様に幸せ（利便性、快適さ）を提供し、取引先と共に経済活動を活性化させることで三方良しの構図をつく",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/medium-term-vision-and-future-policy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "潜在顧客への周知 導入工事ノウハウ・実績",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/medium-term-vision-and-future-policy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "✓ 顧客との接触期待増による販路強化",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/medium-term-vision-and-future-policy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客別のカスタマイズ対応力引上げ",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/medium-term-vision-and-future-policy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Wi-Fi環境の整備も行っており、お客様のニーズに合わ",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/medium-term-vision-and-future-policy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様の空間価値を高めるとともに、カーボン・オフセット",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/medium-term-vision-and-future-policy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "通信×エネルギーをユーザーに一括提供",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/medium-term-vision-and-future-policy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ユーザーに応じ",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/medium-term-vision-and-future-policy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※円面積は潜在顧客数イメージ",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/medium-term-vision-and-future-policy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "潜在顧客数は圧倒的",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/medium-term-vision-and-future-policy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、お客様に幸せ（利便性、快適さ）を提供し、取引先と共に経済活動を活性化させることで三方良しの構図をつく",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Wi-Fi環境の整備も行っており、お客様のニーズに合わ",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様の空間価値を高めるとともに、カーボン・オフセット",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ユーザーに応じ",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "円面積は潜在顧客数イメージ",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "潜在顧客数は圧倒的",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ユーザーへ最適通信環境とエネルギーを同時一括提供",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ホームユース事業顧客である不動産オーナーの",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "✓ よりヘビーユーザー向けにB2C対応サービスも導",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◆ ユーザー目線のメニューを多数用意して多様化するニーズに対応",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "利用者へアンケートも実施し顧客満足度を図る",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "共通の顧客基盤",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ ホームユース事業、ビジネスユース事業と共通の顧客基盤にて事業を展開",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年～ ホームユース事業の顧客（集合住宅など）への商談開始",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "クロスセル商品としてユーザーに遡及",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "✓ 従来の貸与型が当社所有であるのに対し、所有権は顧客（不動産所有者）に移管",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "✓ 顧客のエントリーハードル上昇",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客の特性やニーズに応じ、従来の貸与型と併せてよりよい方式を顧客に提案",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "潜在顧客への周知 導入工事ノウハウ・実績",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "✓ 顧客との接触期待増による販路強化",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客別のカスタマイズ対応力引上げ",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "同社の経営理念は、「お客様に『ありがとう』といっていただくことは私たちの誇りです」であり、社員全員がこの目的を達成するために全力で業務に取り組んでいます",
+    "url": "https://2ndlabo.com/M1235/",
+    "pass": 3
+   },
+   {
+    "quote": "利用規約（ユーザー向け）",
+    "url": "https://2ndlabo.com/M1235/",
+    "pass": 3
+   },
+   {
+    "quote": "会員数45万人以上の訪日外国人旅行者向けサービスを展開",
+    "url": "https://shachomeikan.jp/industry_article/2571",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "再エネと通信サービスを融合したスマートマンション",
+    "url": "https://www.fibergate.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドサーバー停止に伴うサービス影響について（第4報）",
+    "url": "https://www.fibergate.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドサーバー停止に伴うサービス影響について(第3報)",
+    "url": "https://www.fibergate.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドサーバー停止に伴うサービス影響について（第2報）",
+    "url": "https://www.fibergate.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドサーバー停止に伴うサービス影響について",
+    "url": "https://www.fibergate.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "通信サービスを貴社にとって役立つ武器に変えます",
+    "url": "https://www.fibergate.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "機器製造から電気通信サービスまで、一貫して手がける独立系Wi-Fiソリューション企業として",
+    "url": "https://www.fibergate.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループが提供するフリーWi-Fiサービス「Wi-Fi Nex®」を主として観光施設や各種店舗・商店街、商業施設の施設運営者向けに提供しております",
+    "url": "https://www.fibergate.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "マンション・アパート等の賃貸物件オーナー向けに全戸一括で入居者が「インターネット無料使い放題」となるインターネット接続サービスを提供しております",
+    "url": "https://www.fibergate.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "WEB請求書サービス",
+    "url": "https://www.fibergate.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "・ホームユース事業（集合住宅向けインターネット接続サービスの提供）",
+    "url": "https://www.fibergate.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "・ビジネスユース事業（フリーWi-Fiサービスの提供、法人向けネットワークサービスの提供、通信機器の開発・製造・販売等）",
+    "url": "https://www.fibergate.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "・その他事業（WEBコンテンツサービスの提供等）",
+    "url": "https://www.fibergate.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "集合住宅向けインターネット接続サービスの提供",
+    "url": "https://www.fibergate.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "観光地、商業施設向けフリーWi-Fiサービスの提供",
+    "url": "https://www.fibergate.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "WEB請求書サービス",
+    "url": "https://www.fibergate.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "集合住宅向けインターネット無料サービス事業を開始",
+    "url": "https://www.fibergate.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "無線LANを利用した集合住宅向けインターネット無料サービスを開始",
+    "url": "https://www.fibergate.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスブランドをFGBB®シリーズに統一してサービスを開始",
+    "url": "https://www.fibergate.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "PB（プライベートブランド）による集合住宅向けインターネット無料サービスを提供開始",
+    "url": "https://www.fibergate.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "当社コールセンターによるFGBB®導入物件の入居者向け多言語による受付・サポートサービスの提供開始",
+    "url": "https://www.fibergate.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "フリーWi-Fiサービス『Wi-Fi Nex®』を開始",
+    "url": "https://www.fibergate.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "PBによる店舗・商業施設向けWi-Fiのサービスを提供開始",
+    "url": "https://www.fibergate.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "訪日外国人向けWi-Fiサービス『SHINOBI Wi-Fi』のサービスを提供開始",
+    "url": "https://www.fibergate.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "オフィス・店舗向けクラウド型Wi-Fi サービス『ワンタッチ Wi-Fi』のサービスを提供開始",
+    "url": "https://www.fibergate.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "当社サービスで提供する通信機器およびシステム等の研究、開発を行う100%子会社として株式会社FG-Labを設立",
+    "url": "https://www.fibergate.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "法人向け通信サービス事業等を行う、株式会社BizGenesisを設立",
+    "url": "https://www.fibergate.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "法人向け通信サービス事業等を行う、株式会社BizGenesisを吸収合併",
+    "url": "https://www.fibergate.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "WEB請求書サービス",
+    "url": "https://www.fibergate.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "通信サービスを貴社にとって役立つ武器に変えます",
+    "url": "https://www.fibergate.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "機器製造から電気通信サービスまで、一貫して手がける独立系Wi-Fiソリューション企業として",
+    "url": "https://www.fibergate.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループが提供するフリーWi-Fiサービス「Wi-Fi Nex®」を主として観光施設や各種店舗・商店街、商業施設の施設運営者向けに提供しております",
+    "url": "https://www.fibergate.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "マンション・アパート等の賃貸物件オーナー向けに全戸一括で入居者が「インターネット無料使い放題」となるインターネット接続サービスを提供しております",
+    "url": "https://www.fibergate.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "スマートマンションの開発・仲介等を通して、当社グループのWi-Fi技術をベースにしたIoT ソリューションの促進を行っております",
+    "url": "https://www.fibergate.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "WEB請求書サービス",
+    "url": "https://www.fibergate.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスユース事業では、当社グループが提供するフリーWi-Fiサービス「Wi-Fi Nex®」を主として観光施設や各種店舗・商店街、商業施設の施設運営者向けに提供しております",
+    "url": "https://www.fibergate.co.jp/business/free-wifi/",
+    "pass": 1
+   },
+   {
+    "quote": "当社サービスが導入された施設を訪れる利用者は利用する通信端末や現在契約している通信キャリアに関わらず、登録手続き等の定められた認証を行うことで、無料で自由にインターネット接続を行うことが可能であります",
+    "url": "https://www.fibergate.co.jp/business/free-wifi/",
+    "pass": 1
+   },
+   {
+    "quote": "加えて、観光地向けには、訪日外国人客向けに多言語接続サポートと観光ガイド機能を備えた「SHINOBI Wi-Fi®」サービス、旅客運送業向けのサービスとして観光バス及び遊覧船等に移動通信体を設置し、乗客へ無料Wi-Fiサービスを提供する移動通信に対応した「Wi-FiBUS®」など様々な空間に対応したフリーWi-Fiサービスを展開しております",
+    "url": "https://www.fibergate.co.jp/business/free-wifi/",
+    "pass": 1
+   },
+   {
+    "quote": "どの「端末」「キャリア」でも、無料でインターネットに接続できる環境をご提供するサービスです",
+    "url": "https://www.fibergate.co.jp/business/free-wifi/",
+    "pass": 1
+   },
+   {
+    "quote": "固定回線不要、短期間向けのWi-Fiサービスです",
+    "url": "https://www.fibergate.co.jp/business/free-wifi/",
+    "pass": 1
+   },
+   {
+    "quote": "観光バスや貸切バス等、移動交通機関向けのフリーWi-Fiサービスです",
+    "url": "https://www.fibergate.co.jp/business/free-wifi/",
+    "pass": 1
+   },
+   {
+    "quote": "滞在時間の長い車内でのフリーWi-Fi利用ニーズは高く、訪日外国人観光客向けの多言語ガイドの他、周辺地域や目的地の観光情報や広告等の発信が可能なため、乗客と交通機関運営会社様双方のニーズに応えることができるサービスです",
+    "url": "https://www.fibergate.co.jp/business/free-wifi/",
+    "pass": 1
+   },
+   {
+    "quote": "医療・介護施設向けのWi-Fiサービスです",
+    "url": "https://www.fibergate.co.jp/business/free-wifi/",
+    "pass": 1
+   },
+   {
+    "quote": "接触回避・業務効率化・サービス向上の３つの観点から医療機関向けのWi-Fi整備の全面バックアップをいたします",
+    "url": "https://www.fibergate.co.jp/business/free-wifi/",
+    "pass": 1
+   },
+   {
+    "quote": "災害発生時に携帯電話や光回線によるインターネットなどが不通になった際に自動的に衛星通信に切り替わり、Wi-Fiサービスを継続して利用できるようにするBCP対策サービスです",
+    "url": "https://www.fibergate.co.jp/business/free-wifi/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスページへ",
+    "url": "https://www.fibergate.co.jp/business/free-wifi/",
+    "pass": 1
+   },
+   {
+    "quote": "訪日外国人のニーズに応えるため、「Wi-Fiインフラ整備」＋「わかりやすいコンテンツ」を提供し、訪日外国人への「集客」と「おもてなし対応」をサポートするサービスです",
+    "url": "https://www.fibergate.co.jp/business/free-wifi/",
+    "pass": 1
+   },
+   {
+    "quote": "外国人に人気の「忍者」をキャラクターにすることで、サービスへの興味を促進し、エリアオーナー様の発信したい情報を分かりやすく伝えることができます",
+    "url": "https://www.fibergate.co.jp/business/free-wifi/",
+    "pass": 1
+   },
+   {
+    "quote": "法人向けネットワークサービス",
+    "url": "https://www.fibergate.co.jp/business/free-wifi/",
+    "pass": 1
+   },
+   {
+    "quote": "法人向けプロバイダサービス、インターネットVPNサービス、IPv6移行ソリューション等、セキュアで低コストを実現するネットワークソリューションをご提供します",
+    "url": "https://www.fibergate.co.jp/business/free-wifi/",
+    "pass": 1
+   },
+   {
+    "quote": "WEB請求書サービス",
+    "url": "https://www.fibergate.co.jp/business/free-wifi/",
+    "pass": 1
+   },
+   {
+    "quote": "ホームユース事業では、レジデンス（集合住宅）の物件オーナー様向けに全戸一括で入居者が「インターネット無料使い放題」となるインターネット接続サービスを提供しております",
+    "url": "https://www.fibergate.co.jp/business/residence-wifi/",
+    "pass": 1
+   },
+   {
+    "quote": "当社サービスが導入されている物件の入居者様は、月額無料でインターネット接続を行うことが可能となります",
+    "url": "https://www.fibergate.co.jp/business/residence-wifi/",
+    "pass": 1
+   },
+   {
+    "quote": "物件オーナー様は保有賃貸物件の機能強化を図ることができ、主に単身者向け物件における入居促進や退去防止の為の有効なサービスとして認知されております",
+    "url": "https://www.fibergate.co.jp/business/residence-wifi/",
+    "pass": 1
+   },
+   {
+    "quote": "マンション・アパートのオーナー様向けに提供している「Wi-Fi入居者無料サービス」の独自ブランドサービスです",
+    "url": "https://www.fibergate.co.jp/business/residence-wifi/",
+    "pass": 1
+   },
+   {
+    "quote": "WEB請求書サービス",
+    "url": "https://www.fibergate.co.jp/business/residence-wifi/",
+    "pass": 1
+   },
+   {
+    "quote": "WEB請求書サービス",
+    "url": "https://www.fibergate.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "適時開示情報サービス",
+    "url": "https://www.fibergate.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "WEB請求書サービス",
+    "url": "https://www.fibergate.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "ファイバーゲートは、「“ありがとう“を集める」を経営理念に掲げ、電気通信サービスを担う会社として2000年に創業いたしました",
+    "url": "https://www.fibergate.co.jp/ir/message/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "当社グループが提供するフリーWi-Fiサービス「Wi-Fi Nex®」を主として観光施設や各種店舗・商店街、商業施設の施設運営者向けに提供しております",
+    "url": "https://www.fibergate.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "PBによる店舗・商業施設向けWi-Fiのサービスを提供開始",
+    "url": "https://www.fibergate.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "オフィス・店舗向けクラウド型Wi-Fi サービス『ワンタッチ Wi-Fi』のサービスを提供開始",
+    "url": "https://www.fibergate.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "エネルギー関連代理店業を行う子会社として、株式会社エネパルスを設立",
+    "url": "https://www.fibergate.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループが提供するフリーWi-Fiサービス「Wi-Fi Nex®」を主として観光施設や各種店舗・商店街、商業施設の施設運営者向けに提供しております",
+    "url": "https://www.fibergate.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスユース事業では、当社グループが提供するフリーWi-Fiサービス「Wi-Fi Nex®」を主として観光施設や各種店舗・商店街、商業施設の施設運営者向けに提供しております",
+    "url": "https://www.fibergate.co.jp/business/free-wifi/",
+    "pass": 1
+   },
+   {
+    "quote": "創業以来、時代の変化と共に、常に社会が必要とするインフラとは何かを問い続け、お客様の課題を解決するパートナーとして成長を続けております",
+    "url": "https://www.fibergate.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のビジネスモデルについてご紹介しています",
+    "url": "https://www.fibergate.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の持続的な成長と企業価値の向上を達成するための取組方針等についてご紹介しています",
+    "url": "https://www.fibergate.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーと協 力し、サービスを広げていま す",
+    "url": "https://www.fibergate.co.jp/download/common/fg_brochure_jp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "社外取締役 指名報酬委員長 篠田 信幸",
+    "url": "https://www.fibergate.co.jp/download/common/fg_brochure_jp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ NTT代理店として創業",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/medium-term-vision-and-future-policy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 営業体制を事業別から地域別へ変更",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/medium-term-vision-and-future-policy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 地域別営業体制への再編による通信とエネルギーのクロスセル営業加速",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/medium-term-vision-and-future-policy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サービスの積極PRによる認知度向上、パートナー企業強化",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/medium-term-vision-and-future-policy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "店舗 地方自治体",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/medium-term-vision-and-future-policy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2014 ➢ 当社開発通信機器の販売事業（Wi-Fiプロダクト事業）を開始➢ PB化支援による店舗・商業施設向けWi-Fiサービスを開始",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/medium-term-vision-and-future-policy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024 ➢ エネルギー関連代理店業を行う子会社エネパルスを設立",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/medium-term-vision-and-future-policy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "会社紹介資料",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2014 ➢ 当社開発通信機器の販売事業（Wi-Fiプロダクト事業）を開始➢ PB化支援による店舗・商業施設向けWi-Fiサービスを開始",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024 ➢ エネルギー関連代理店業を行う子会社エネパルスを設立",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 地域別営業体制への再編による通信とエネルギーのクロスセル営業加速",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サービスの積極PRによる認知度向上、パートナー企業強化",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "店舗 地方自治体",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ NTT代理店として創業",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "物品販売業・生命保険及び損害保険代理店業、上記の附帯業務",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "✓ 店舗運営",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 営業体制を事業別から地域別へ変更",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "そこでは大手通信会社の代理店業務をしていたのですが、すれ違いが生まれてしまい、再び独立することになります",
+    "url": "https://shachomeikan.jp/industry_article/2571",
+    "pass": 3
+   },
+   {
+    "quote": "そのときに子会社に代理店業務を移し、再スタートさせたのが、この会社です",
+    "url": "https://shachomeikan.jp/industry_article/2571",
+    "pass": 3
+   },
+   {
+    "quote": "不透明な広告業界をデータで透明化 広告の最適化から経営の最適化へ進化する戦略パートナー",
+    "url": "https://shachomeikan.jp/industry_article/2571",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年08月17日",
+    "url": "https://www.fibergate.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期決算説明動画",
+    "url": "https://www.fibergate.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月04日",
+    "url": "https://www.fibergate.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月25日",
+    "url": "https://www.fibergate.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期第3四半期決算説明動画",
+    "url": "https://www.fibergate.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年05月14日",
+    "url": "https://www.fibergate.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年02月13日",
+    "url": "https://www.fibergate.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年11月04日",
+    "url": "https://www.fibergate.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月26日",
+    "url": "https://www.fibergate.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年04月10日",
+    "url": "https://www.fibergate.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年02月25日",
+    "url": "https://www.fibergate.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月02日",
+    "url": "https://www.fibergate.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月15日",
+    "url": "https://www.fibergate.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月09日",
+    "url": "https://www.fibergate.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月07日",
+    "url": "https://www.fibergate.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月01日",
+    "url": "https://www.fibergate.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年 9月",
+    "url": "https://www.fibergate.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "会社沿革 | 株式会社ファイバーゲート",
+    "url": "https://www.fibergate.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月13日",
+    "url": "https://www.fibergate.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月25日",
+    "url": "https://www.fibergate.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月14日",
+    "url": "https://www.fibergate.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月14日",
+    "url": "https://www.fibergate.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期決算説明動画",
+    "url": "https://www.fibergate.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期第3四半期決算説明動画",
+    "url": "https://www.fibergate.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年11月23日",
+    "url": "https://www.fibergate.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年08月22日",
+    "url": "https://www.fibergate.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月期決算説明動画",
+    "url": "https://www.fibergate.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年05月20日",
+    "url": "https://www.fibergate.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月期第3四半期決算説明動画",
+    "url": "https://www.fibergate.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年7月1日",
+    "url": "https://www.fibergate.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年までに当社全事業所のCO2排出量を実質0にする体制を整えます",
+    "url": "https://www.fibergate.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月17日",
+    "url": "https://www.fibergate.co.jp/movie/cat/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期決算説明動画",
+    "url": "https://www.fibergate.co.jp/movie/cat/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月25日",
+    "url": "https://www.fibergate.co.jp/movie/cat/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期第3四半期決算説明動画",
+    "url": "https://www.fibergate.co.jp/movie/cat/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年02月20日",
+    "url": "https://www.fibergate.co.jp/movie/cat/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年02月16日",
+    "url": "https://www.fibergate.co.jp/movie/cat/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年11月20日",
+    "url": "https://www.fibergate.co.jp/movie/cat/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年08月22日",
+    "url": "https://www.fibergate.co.jp/movie/cat/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年08月14日",
+    "url": "https://www.fibergate.co.jp/movie/cat/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年05月20日",
+    "url": "https://www.fibergate.co.jp/movie/cat/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年02月25日",
+    "url": "https://www.fibergate.co.jp/movie/cat/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年11月20日",
+    "url": "https://www.fibergate.co.jp/movie/cat/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2018 年には",
+    "url": "https://www.fibergate.co.jp/download/common/fg_brochure_jp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年8月",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/medium-term-vision-and-future-policy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2000年～",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/medium-term-vision-and-future-policy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年～",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/medium-term-vision-and-future-policy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2018年～",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/medium-term-vision-and-future-policy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2015年～",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/medium-term-vision-and-future-policy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2009年～",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/medium-term-vision-and-future-policy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年11月14日",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年6月期通期決算見通し_P18",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年11月",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年11月調査 n=2,189",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年 厚生労働省 介護サービス施設・事業所調査の概況 / 2024年 国土交通省 サービス付き高齢者向け住宅の現状等 /",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2021年 日本バス協会「日本のバス事業」 / 2024年 政府統計「e-Stat」",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2030年頃～ 導入集合住宅数３万棟超、",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年1月～ 埼玉県川口市において、モデルとなる集合住宅にて実証実験開始",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年～ 地方自治体庁舎、学校、広域避難場所、集合住宅などに設置を開始",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年頃～ ローカル（構内）VPPサービスを開始",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "当社サービスが導入されている物件の入居者様は、月額無料でインターネット接続を行うことが可能となります",
+    "url": "https://www.fibergate.co.jp/business/residence-wifi/",
+    "pass": 1
+   },
+   {
+    "quote": "口座の開設方法や手数料については、各証券会社にお問い合わせ下さい",
+    "url": "https://www.fibergate.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "太陽光発電設備販売 / 保守契約",
+    "url": "https://www.fibergate.co.jp/download/common/fg_brochure_jp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "電気利用契約太陽光発電設備販売/保守契約",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/medium-term-vision-and-future-policy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "電気利用契約太陽光発電設備販売/保守契約",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "①基本料金の単価を各地域電力より安く抑制",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※「市場連動型」とは、日本卸電力取引所(JEPX)における日々の30分ごとの取引単価にて電力量料金が決まるプラン",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "市場単価が安いときに電力量料金を安く抑えることが可能",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年4月より大手電力会社の通常プランでも市場価格調整単価の導入が開始",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ストック売上・フロー売上の推移34",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ ストック売上は順調に積上げ",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ストック売上の積上げは創業来追求してきた命題",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ストック売上 フロー売上",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ストック売上・フロー売上（除く非通信インフラ）の四半期推移",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "機器売切方式は今後、ストック収入利益率改善に繋がる（＝EBITDAマージン",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "✓ ストック収入の利益率向上",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "太陽光発電設備販売 / 保守契約",
+    "url": "https://www.fibergate.co.jp/wp-content/themes/fibergate/assets/img/business/img_business_figure.png",
+    "pass": 2
+   },
+   {
+    "quote": "・インターネット無料マンション「FGBB®」の構築、保守、運営、サポート、PB提供",
+    "url": "https://2ndlabo.com/M1235/",
+    "pass": 3
+   },
+   {
+    "quote": "・フリーWi-Fiスポット「Wi-FiNex®」の構築、保守、運営、サポート、PB提供",
+    "url": "https://2ndlabo.com/M1235/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://www.fibergate.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://www.fibergate.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のビジネスモデルについてご紹介しています",
+    "url": "https://www.fibergate.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "環境変化に併せビジネスモデル転換当社の成長ステージ概念",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/medium-term-vision-and-future-policy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "既築案件掘り起こし加速、B2Cサービスなど新ビジネスモデルスタート",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/medium-term-vision-and-future-policy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "環境変化に併せビジネスモデル転換当社の成長ステージ概念",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "既築案件掘り起こし加速、B2Cサービスなど新ビジネスモデルスタート",
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "そして今、当社グループの強みを活かし、その事業領域を拡大しております",
+    "url": "https://www.fibergate.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、大規模施設向けではなく「ミドルマーケット」に特化し、コストパフォーマンスに優れたサービスで、お客様のニーズに応えることを強みとしています",
+    "url": "https://www.fibergate.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "ーー貴社の強みや他社との差別化ポイントを教えてください",
+    "url": "https://shachomeikan.jp/industry_article/2571",
+    "pass": 3
+   },
+   {
+    "quote": "こうしたサービスをいち早く始めたことと、通信機器の製品化をしているのが、弊社の大きな強みですね",
+    "url": "https://shachomeikan.jp/industry_article/2571",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "当社の経営目標や各事業セグメントにおける達成施策について掲載しています",
+    "url": "https://www.fibergate.co.jp/ir/management/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ビジネスモデル | 株式会社 ファイバーゲート — ビジネスモデル | 株式会社 ファイバーゲート 株式会社ファイバーゲート https://www.fibergate.co.jp > IR情報 > 経営方針・戦略",
+    "url": "https://www.fibergate.co.jp/ir/management/model/",
+    "pass": 3
+   },
+   {
+    "quote": "ファイバーゲート の ビジネスモデル — ファイバーゲート の ビジネスモデル 株式会社ファイバーゲート https://www.fibergate.co.jp > トピックス > COLUMN",
+    "url": "https://www.fibergate.co.jp/topics/201909_business_model/",
+    "pass": 3
+   },
+   {
+    "quote": "【IRTV 9450】 ファイバーゲート /レジデンスWi-Fiのニーズは ... — 【IRTV 9450】 ファイバーゲート /レジデンスWi-Fiのニーズは ... やさしい株のはじめ方 https://kabukiso.com > syuzai > irtv > fibergate_20240118",
+    "url": "https://kabukiso.com/syuzai/irtv/fibergate_20240118.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ファイバーゲート の事業とカルチャー - Wantedly — 株式会社 ファイバーゲート の事業とカルチャー - Wantedly Wantedly https://www.wantedly.com > ... > 株式会社ファイバーゲート",
+    "url": "https://www.wantedly.com/companies/fibergate/about",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 | 株式会社 ファイバーゲート — 決算説明資料 | 株式会社 ファイバーゲート 株式会社ファイバーゲート https://www.fibergate.co.jp > IR情報",
+    "url": "https://www.fibergate.co.jp/ir/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 | 株式会社 ファイバーゲート — IR情報 | 株式会社 ファイバーゲート 株式会社ファイバーゲート https://www.fibergate.co.jp > ...",
+    "url": "https://www.fibergate.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "ファイバーゲート [9450]：2026年6月期 第3四半期 決算説明 ... — ファイバーゲート [9450]：2026年6月期 第3四半期 決算説明 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260512526587/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 株式会社 ファイバーゲート — 会社概要 | 株式会社 ファイバーゲート 株式会社ファイバーゲート https://www.fibergate.co.jp > トップメッセージ",
+    "url": "https://www.fibergate.co.jp/company/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ファイバーゲート ｜企業データ - 2ndLabo — 株式会社 ファイバーゲート ｜企業データ - 2ndLabo 2ndLabo https://2ndlabo.com > ...",
+    "url": "https://2ndlabo.com/M1235/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ファイバーゲート — 株式会社 ファイバーゲート 株式会社ファイバーゲート https://www.fibergate.co.jp",
+    "url": "https://www.fibergate.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ファイバーゲート : Wi-Fi アクセスポイント•ルーター製造•開発 — ファイバーゲート : Wi-Fi アクセスポイント•ルーター製造•開発 fg-products.com https://www.fg-products.com",
+    "url": "https://www.fg-products.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ファイバーゲート - Wikipedia — ファイバーゲート - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > ファイバーゲート",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ファイバーゲート 代表取締役 社長 猪又 將哲 - 社長名鑑 — 株式会社 ファイバーゲート 代表取締役 社長 猪又 將哲 - 社長名鑑 社長名鑑 https://shachomeikan.jp > industry_article",
+    "url": "https://shachomeikan.jp/industry_article/2571",
+    "pass": 3
+   },
+   {
+    "quote": "「 社長 名鑑」代表 インタビュー 掲載のお知らせ — 「 社長 名鑑」代表 インタビュー 掲載のお知らせ 株式会社ファイバーゲート https://www.fibergate.co.jp > お知らせ > お知らせ",
+    "url": "https://www.fibergate.co.jp/news/8779/",
+    "pass": 3
+   },
+   {
+    "quote": "ファイバーゲート 【公式】 - X — ファイバーゲート 【公式】 - X X https://x.com > @WiFifibergate",
+    "url": "https://x.com/WiFifibergate/status/1854821659569799196",
+    "pass": 3
+   },
+   {
+    "quote": "【トップ インタビュー 】 ファイバーゲート 、住宅向けWi-Fi ... — 【トップ インタビュー 】 ファイバーゲート 、住宅向けWi-Fi ... 全国賃貸住宅新聞 https://www.zenchin.com > news > wi-fi30",
+    "url": "https://www.zenchin.com/news/wi-fi30.php",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.fibergate.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fibergate.co.jp/company/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fibergate.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fibergate.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fibergate.co.jp/business/free-wifi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fibergate.co.jp/business/residence-wifi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fibergate.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fibergate.co.jp/ir/individual/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fibergate.co.jp/ir/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fibergate.co.jp/ir/management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fibergate.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fibergate.co.jp/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fibergate.co.jp/ir/policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fibergate.co.jp/sustainability/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fibergate.co.jp/movie/cat/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fibergate.co.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.fibergate.co.jp/download/common/fg_brochure_jp.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/medium-term-vision-and-future-policy.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fibergate.co.jp/assets/pdf/ir/company-introduction-materials.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fibergate.co.jp/wp-content/themes/fibergate/assets/img/business/img_business_figure.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.fibergate.co.jp/wp-content/themes/fibergate/assets/img/business/img_business_01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.fibergate.co.jp/wp-content/themes/fibergate/assets/img/business/img_business_02.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.fibergate.co.jp/wp-content/themes/fibergate/assets/img/business/img_business_04.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.fibergate.co.jp/wp-content/themes/fibergate/assets/img/business/img_business_03.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.fibergate.co.jp/wp-content/themes/fibergate/assets/img/business/img_service_nex.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.fibergate.co.jp/wp-content/themes/fibergate/assets/img/business/img_service_event.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.fibergate.co.jp/wp-content/themes/fibergate/assets/img/business/img_service_bus.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://2ndlabo.com/M1235/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://shachomeikan.jp/industry_article/2571",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ファイバーゲート",
+   "results": [
+    "https://www.fibergate.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%88",
+    "https://www.fg-products.com/",
+    "https://www.youtube.com/c/fgtvch",
+    "https://x.com/WiFifibergate",
+    "https://job.mynavi.jp/28/pc/search/corp200786/outline.html",
+    "https://ja.wikipedia.org/wiki/ファイバーゲート",
+    "https://www.fibergate.co.jp/company/profile/",
+    "https://www.facebook.com/fibergate.inc/",
+    "https://minkabu.jp/stock/9450/news"
+   ]
+  },
+  {
+   "query": "ファイバーゲート ビジネスモデル",
+   "results": [
+    "https://www.fibergate.co.jp/ir/management/model/",
+    "https://www.fibergate.co.jp/topics/201909_business_model/",
+    "https://kabukiso.com/syuzai/irtv/fibergate_20240118.html",
+    "https://note.com/fg_ir/n/n9dcef8f7081c",
+    "https://www.wantedly.com/companies/fibergate/about",
+    "https://finance.logmi.jp/articles/377952",
+    "https://forbesjapan.com/articles/detail/44111",
+    "https://wifinex.com/partner",
+    "https://job.mynavi.jp/28/pc/search/corp200786/outline.html",
+    "https://www.fibergate.co.jp/ir/management/"
+   ]
+  },
+  {
+   "query": "ファイバーゲート 決算説明資料",
+   "results": [
+    "https://www.fibergate.co.jp/ir/presentation/",
+    "https://www.fibergate.co.jp/ir/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260512526587/",
+    "https://realgate.jp/ir/library/presentation.html",
+    "https://www2.jpx.co.jp/disc/94500/140120210212462534.pdf",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260812518576",
+    "https://ir.group.gmo/library/presen/",
+    "https://gmo-fg.com/ir/"
+   ]
+  },
+  {
+   "query": "ファイバーゲート 事業系統図",
+   "results": [
+    "https://www.fibergate.co.jp/company/profile/",
+    "https://2ndlabo.com/M1235/",
+    "https://www.fibergate.co.jp/",
+    "https://www.fg-products.com/",
+    "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%88",
+    "https://www.gigaprize.co.jp/corporate/files/company%20_brochure_2020.pdf",
+    "https://netfree.jp/",
+    "https://www.ntt-west.co.jp/open/99guidebook/pdf/gb.pdf"
+   ]
+  },
+  {
+   "query": "ファイバーゲート 社長 インタビュー",
+   "results": [
+    "https://shachomeikan.jp/industry_article/2571",
+    "https://www.fibergate.co.jp/news/8779/",
+    "https://www.ceo-voice.com/interview/fibergate.html",
+    "https://x.com/WiFifibergate/status/1854821659569799196",
+    "https://www.zenchin.com/news/wi-fi30.php",
+    "https://note.com/fg_ir/n/ncb197c41bb66",
+    "https://www.nikkei.com/article/DGXMZO28494780T20C18A3000000/",
+    "https://zaisatsu.jp/news/article-41986/",
+    "https://www.youtube.com/watch?v=IRXJAzc_n_M",
+    "https://ja.wikipedia.org/wiki/猪又將哲"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式16頁／PDF・画像11件／外部2頁・検索5回）"
+ }
+}

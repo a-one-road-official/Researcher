@@ -1,0 +1,1659 @@
+{
+ "name": "イー・ガーディアン",
+ "aliases": [],
+ "context": "証券コード6050／サービス業／プライム（内国株式）／2025.09期 売上高11,321百万円 営業利益率13.3%",
+ "researched_at": "2026-11-02T19:24:06.234249+00:00",
+ "official_url": "https://www.e-guardian.co.jp/",
+ "identified_by": "search:yahoo_jp:イー・ガーディアン",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1998年5月",
+    "url": "https://www.e-guardian.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "設立年度",
+    "value": "1998年",
+    "url": "https://macloud.jp/companies/173",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数（連結）",
+    "value": "2,123名（うち臨時従業員数1,740名[2026年3月末日現在]）",
+    "url": "https://www.e-guardian.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "1,316人",
+    "url": "https://macloud.jp/companies/173",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "ブログ・SNS・掲示板企画コンサルティング リアルタイム投稿監視業務 ユーザーサポート業務 オンラインゲームカスタマーサポート業務 コンプライアンス対策・風評・トレンド調査業務 コミュニティサイト企画・サイト運営代行業務・広告審査代行サービス業務 人材派遣業務 - 厚生労働大臣許可番号：労働者派遣業 派13－302845 - 厚生労働大臣許可番号：職業紹介業 13-ユ-302333",
+    "url": "https://www.e-guardian.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "事業概要",
+    "value": "SNSやソーシャルゲームの開発から運用までに必要なセキュリティ対策とカスタマーサポートを提供。インターネット広告向けには、法規制に照らした表現チェックや出稿先サイトの内容チェック等を行っています。",
+    "url": "https://macloud.jp/companies/173",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高(千円)",
+    "value": "割合(％) 売上高(千円) 割合(％)",
+    "url": "https://kitaishihon.com/company/6050/business",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "企業だけでなく取引先も含めたサプライチェーン全体における",
+    "url": "https://www.e-guardian.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のニーズに合わせたソリューションをワンストップでご提供",
+    "url": "https://www.e-guardian.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "様々な規模や業種のお客様にご利用",
+    "url": "https://www.e-guardian.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "※当電話番号はお客様からのお問い合わせおよび広報専用フリーダイヤルです",
+    "url": "https://www.e-guardian.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "※当電話番号はお客様からのお問い合わせおよび広報専用フリーダイヤルです",
+    "url": "https://www.e-guardian.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "※当電話番号はお客様からのお問い合わせおよび広報専用フリーダイヤルです",
+    "url": "https://www.e-guardian.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "“ユーザーの本音”をつかむレイティングサービス",
+    "url": "https://www.e-guardian.co.jp/service/business/",
+    "pass": 1
+   },
+   {
+    "quote": "※当電話番号はお客様からのお問い合わせおよび広報専用フリーダイヤルです",
+    "url": "https://www.e-guardian.co.jp/service/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーサポート業務",
+    "url": "https://www.e-guardian.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "※当電話番号はお客様からのお問い合わせおよび広報専用フリーダイヤルです",
+    "url": "https://www.e-guardian.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "※当電話番号はお客様からのお問い合わせおよび広報専用フリーダイヤルです",
+    "url": "https://www.e-guardian.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "※当電話番号はお客様からのお問い合わせおよび広報専用フリーダイヤルです",
+    "url": "https://www.e-guardian.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "※当電話番号はお客様からのお問い合わせおよび広報専用フリーダイヤルです",
+    "url": "https://www.e-guardian.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "※当電話番号はお客様からのお問い合わせおよび広報専用フリーダイヤルです",
+    "url": "https://www.e-guardian.co.jp/ir/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "すべてのインターネット利用者に、安心・安全を提供します",
+    "url": "https://www.e-guardian.co.jp/ir/philosophy.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、すべてのインターネット利用者に対する責任があります",
+    "url": "https://www.e-guardian.co.jp/ir/philosophy.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちのサービスを通して、利用者がインターネットサービスを安心・安全に利用できることを目指します",
+    "url": "https://www.e-guardian.co.jp/ir/philosophy.html",
+    "pass": 1
+   },
+   {
+    "quote": "そのためには、私たちは常に進歩・改善を行い、私たちが運営することにより、ソーシャルWebサービスの繁栄が約束され、利用者が安心できるようなサービスの開発・提供を行います",
+    "url": "https://www.e-guardian.co.jp/ir/philosophy.html",
+    "pass": 1
+   },
+   {
+    "quote": "※当電話番号はお客様からのお問い合わせおよび広報専用フリーダイヤルです",
+    "url": "https://www.e-guardian.co.jp/ir/philosophy.html",
+    "pass": 1
+   },
+   {
+    "quote": "※当電話番号はお客様からのお問い合わせおよび広報専用フリーダイヤルです",
+    "url": "https://www.e-guardian.co.jp/ir/highlight/achievement.html",
+    "pass": 1
+   },
+   {
+    "quote": "※当電話番号はお客様からのお問い合わせおよび広報専用フリーダイヤルです",
+    "url": "https://www.e-guardian.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "※当電話番号はお客様からのお問い合わせおよび広報専用フリーダイヤルです",
+    "url": "https://www.e-guardian.co.jp/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "※当電話番号はお客様からのお問い合わせおよび広報専用フリーダイヤルです",
+    "url": "https://www.e-guardian.co.jp/ir/stock/data.html",
+    "pass": 1
+   },
+   {
+    "quote": "開発に近い立場で製品を熟知したエンジニアが長年蓄積した多くのサポートナレッジをもとにお客様の課題解決をご支援いたします",
+    "url": "https://www.e-guardian.co.jp/service/security/siteguard/",
+    "pass": 1
+   },
+   {
+    "quote": "※当電話番号はお客様からのお問い合わせおよび広報専用フリーダイヤルです",
+    "url": "https://www.e-guardian.co.jp/service/security/siteguard/",
+    "pass": 1
+   },
+   {
+    "quote": "当グループは、インターネット上のサービス事業者や利用者の安心・安全を確保するため、これらの脅威からサービスを守るセキュリティ事業を展開しています",
+    "url": "https://macloud.jp/companies/173",
+    "pass": 3
+   },
+   {
+    "quote": "運用フェーズでは、投稿監視等のセキュリティ業務に加えて、ユーザーからの各種問い合わせに対応するカスタマーサポート業務の受託事業も手掛け、CS向上に貢献しています",
+    "url": "https://macloud.jp/companies/173",
+    "pass": 3
+   },
+   {
+    "quote": "ネットセキュリティの世界標準へ！ お客様のサービス開発から運用まで一気通貫で守れる体制を拡充します",
+    "url": "https://macloud.jp/companies/173",
+    "pass": 3
+   },
+   {
+    "quote": "投稿監視とは、ソーシャルＷＥＢサービスを運営する当社グループのクライアントに対して、当該企業の要望に応じて一般利用者から投稿されたコメント、画像、動画等が違法の可能性のある内容、個人情報、誹謗中傷を含む内容でないか、ソーシャルＷＥＢサービスの評判、イメージ、ブランド等を損なう可能性がある内容ではないか、犯罪を誘引する内容ではないかをクライアントに代わって監視するサービスの提供を行っており、目視件数に応じて収入を得ております",
+    "url": "https://kitaishihon.com/company/6050/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、クライアントの多様な要望に応じる観点から、監視基準を持っていないクライアントに対して、顧客属性に対応した監視業務コンサルティングも行っております",
+    "url": "https://kitaishihon.com/company/6050/business",
+    "pass": 3
+   },
+   {
+    "quote": "ＣＳでは、ゲーム利用者からのメールや電話によるテクニカルサポート業務及び入退会などの問い合わせ対応等のヘルプデスク業務を行っており、対応件数に応じて収入を得ております",
+    "url": "https://kitaishihon.com/company/6050/business",
+    "pass": 3
+   },
+   {
+    "quote": "広告審査業務は、インターネットの広告媒体や複数店舗が出店するサイト・モールなどに掲載される広告・サイト上のテキスト・画像情報などに対して、景品表示法、特定商取引法、薬機法等の各種関連法規及び顧客の掲載基準に基づいて、その基準に違反していないかを審査する業務を行っております",
+    "url": "https://kitaishihon.com/company/6050/business",
+    "pass": 3
+   },
+   {
+    "quote": "全てのインターネットユーザーが安心して利用できるよう、安全性を求める声は引き続き高まりを見せております",
+    "url": "https://kitaishihon.com/company/6050/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、営業体制を強化し新規顧客の開拓に取り組んだ結果、ソーシャルサポート全体の新規顧客の売上高が増加いたしました",
+    "url": "https://kitaishihon.com/company/6050/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、当上期にて市場変化の影響により脆弱性診断が減収となった一方で、事業責任者及び営業責任者の採用を行い、サイバーセキュリティ事業の体制強化を進めた結果、新規顧客の売上高が増加し、通期では増収となりました",
+    "url": "https://kitaishihon.com/company/6050/business",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、チェンジＨＤグループとの協業に関する取り組みにおいても、同グループの既存外注業務の当社への移管、相互の顧客基盤を活用した共同提案を進め、当連結会計年度において受注に至っております",
+    "url": "https://kitaishihon.com/company/6050/business",
+    "pass": 3
+   },
+   {
+    "quote": "既存顧客への深耕及び新規案件の獲得にも取り組みましたが、既存顧客の売上高の減少を吸収できず、減収となりました",
+    "url": "https://kitaishihon.com/company/6050/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度においては、広告関連業務にて新規顧客の売上高が伸長いたしました",
+    "url": "https://kitaishihon.com/company/6050/business",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、広告審査業務にて新規顧客の売上高が伸び悩み、減収となりました",
+    "url": "https://kitaishihon.com/company/6050/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、当上期に事業責任者及び営業責任者の採用を行い、引き続きサイバーセキュリティ事業の体制強化を進めた結果、新規顧客の売上高が増加いたしました",
+    "url": "https://kitaishihon.com/company/6050/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループのインターネットセキュリティ事業は、主に一般利用者から投稿されたコメント、画像等により業務が実施され、その処理件数に対して課金するシステムを採用しているとともに、受注から販売までの所要日数が短く常に受注残高は僅少であり、期中の受注高と販売実績とがほぼ対応するため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/6050/business",
+    "pass": 3
+   },
+   {
+    "quote": "また営業組織を各分野専任に再編成し、市場環境や顧客ニーズをきめ細かく把握できる体制を整えることで、新たな案件創出や案件単価の向上にも注力いたします",
+    "url": "https://kitaishihon.com/company/6050/business",
+    "pass": 3
+   },
+   {
+    "quote": "能動的サイバー防御法案の施行による今後のサイバーセキュリティ需要の裾野の拡大に対しては、セキュリティ研修やＥ－ｌｅａｒｎｉｎｇコンテンツを拡充させることで新規顧客を獲得し、アップセル・クロスセル展開を進めることで成長を加速してまいります",
+    "url": "https://kitaishihon.com/company/6050/business",
+    "pass": 3
+   },
+   {
+    "quote": "単一の製品・サービスの区分の外部顧客への売上高が連結損益計算書の売上高の90％を超えるため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/6050/business",
+    "pass": 3
+   },
+   {
+    "quote": "(注)売上高は顧客の所在地を基礎とし、国ごとに分類しております",
+    "url": "https://kitaishihon.com/company/6050/business",
+    "pass": 3
+   },
+   {
+    "quote": "３．主要な顧客ごとの情報",
+    "url": "https://kitaishihon.com/company/6050/business",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の氏名又は名称",
+    "url": "https://kitaishihon.com/company/6050/business",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/6050/business",
+    "pass": 3
+   },
+   {
+    "quote": "「取引先の会社の経営者の方から、コンテンツ事業を売却する予定なのだが、相手先の会社がサイトのチェックや監視をする事業は買わないので引き継がないかと声をかけられたんです」",
+    "url": "https://venturetimes.jp/interview/portrait/10570.html",
+    "pass": 3
+   },
+   {
+    "quote": "「取引先の会社の経営者の方から、コンテンツ事業を売却する予定なのだが、相手先の会社がサイトのチェックや監視をする事業は買わないので引き継がないかと声をかけられたんです」",
+    "url": "https://leaders-file.com/interview/1800/",
+    "pass": 3
+   },
+   {
+    "quote": "それで企業理念をBuild Happy Internet Life～すべてのインターネット利用者に安心・安全をベースに、『楽しい』を提供します～に変えたんです」",
+    "url": "https://leaders-file.com/interview/1800/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客企業のEC事業部として、良い物が売れていく仕組みづくりを支援する",
+    "url": "https://leaders-file.com/interview/1800/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "サービストップ",
+    "url": "https://www.e-guardian.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "AIソリューション",
+    "url": "https://www.e-guardian.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソーシャルメディアサービス",
+    "url": "https://www.e-guardian.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関するお問い合わせ・お見積りはこちら",
+    "url": "https://www.e-guardian.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "運用体制コンサルティングサービス",
+    "url": "https://www.e-guardian.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "広告人材育成・派遣サービス",
+    "url": "https://www.e-guardian.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "投稿監視サービス（有人監視）",
+    "url": "https://www.e-guardian.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "本人確認・認証サービス",
+    "url": "https://www.e-guardian.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "取引モニタリングサービス",
+    "url": "https://www.e-guardian.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "出品物監視サービス",
+    "url": "https://www.e-guardian.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "セキュリティコンサルティングサービス",
+    "url": "https://www.e-guardian.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "AWS設定監査サービス",
+    "url": "https://www.e-guardian.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスラインナップ",
+    "url": "https://www.e-guardian.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のニーズに合わせたソリューションをワンストップでご提供",
+    "url": "https://www.e-guardian.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "代表電話1次受付サービス",
+    "url": "https://www.e-guardian.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "営業アプローチ代行サービス",
+    "url": "https://www.e-guardian.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "月間2,000万件以上の投稿監視で培ったビッグデータと運用ノウハウを活かし、「AI×人」によるソリューションを提供します",
+    "url": "https://www.e-guardian.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "EC商品情報AI監視ソリューション",
+    "url": "https://www.e-guardian.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ライブ配信AI監視ソリューション",
+    "url": "https://www.e-guardian.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "広報物リスクチェックソリューション",
+    "url": "https://www.e-guardian.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "コミュニティサイトや掲示板、配信動画など、幅広い領域での監視をおこない、Webサービスの安心・安全をサポートします",
+    "url": "https://www.e-guardian.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "動画監視サービス",
+    "url": "https://www.e-guardian.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "SNSリスク即時検知サービス（風評調査）",
+    "url": "https://www.e-guardian.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店・加盟店審査代行サービス",
+    "url": "https://www.e-guardian.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "SNS運用代行サービス",
+    "url": "https://www.e-guardian.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービストップ",
+    "url": "https://www.e-guardian.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "AIソリューション",
+    "url": "https://www.e-guardian.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "ソーシャルメディアサービス",
+    "url": "https://www.e-guardian.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関するお問い合わせ・お見積りはこちら",
+    "url": "https://www.e-guardian.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "各種サービスに関するお問い合わせ・お見積り",
+    "url": "https://www.e-guardian.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "テスト（第三者検証）ソリューションカンパニー",
+    "url": "https://www.e-guardian.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.e-guardian.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介トップ",
+    "url": "https://www.e-guardian.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "サービストップ",
+    "url": "https://www.e-guardian.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "AIソリューション",
+    "url": "https://www.e-guardian.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "ソーシャルメディアサービス",
+    "url": "https://www.e-guardian.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関するお問い合わせ・お見積りはこちら",
+    "url": "https://www.e-guardian.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "国をあげた施策「働き方改革」の実現にむけて、ITソリューションを活用した自動化プロジェクトを発足",
+    "url": "https://www.e-guardian.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "広告事業に特化したRPA導入コンサルティングサービスなどを展開し、深刻なIT人材不足に対応します",
+    "url": "https://www.e-guardian.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "トータルソリューション",
+    "url": "https://www.e-guardian.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "当グループではIoTセキュリティコンサルティングサービスから、多くの実績をいかしたIoTシステム検証まで、幅広いニーズに応えます",
+    "url": "https://www.e-guardian.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "Webセキュリティの第一人者である徳丸をはじめ、脆弱性診断歴10年以上のベテランエンジニアなど、経験豊富なスタッフがWebサービスの安全・安心を守ります",
+    "url": "https://www.e-guardian.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "テスト（第三者検証）ソリューションカンパニー",
+    "url": "https://www.e-guardian.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.e-guardian.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介トップ",
+    "url": "https://www.e-guardian.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス（業種別一覧） | イー・ガーディアン",
+    "url": "https://www.e-guardian.co.jp/service/business/",
+    "pass": 1
+   },
+   {
+    "quote": "サービストップ",
+    "url": "https://www.e-guardian.co.jp/service/business/",
+    "pass": 1
+   },
+   {
+    "quote": "AIソリューション",
+    "url": "https://www.e-guardian.co.jp/service/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ソーシャルメディアサービス",
+    "url": "https://www.e-guardian.co.jp/service/business/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関するお問い合わせ・お見積りはこちら",
+    "url": "https://www.e-guardian.co.jp/service/business/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス（業種別一覧）",
+    "url": "https://www.e-guardian.co.jp/service/business/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧から探す",
+    "url": "https://www.e-guardian.co.jp/service/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ゲームSNS運用サービス",
+    "url": "https://www.e-guardian.co.jp/service/business/",
+    "pass": 1
+   },
+   {
+    "quote": "エンゲージメント率の向上、離脱防止を実現する公式アカウント運営代行サービス",
+    "url": "https://www.e-guardian.co.jp/service/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ゲームアプリやソフトウェア、IoTシステムまで対応できるデバッグサービス",
+    "url": "https://www.e-guardian.co.jp/service/business/",
+    "pass": 1
+   },
+   {
+    "quote": "LQAサービス",
+    "url": "https://www.e-guardian.co.jp/service/business/",
+    "pass": 1
+   },
+   {
+    "quote": "言語と視覚の両軸で検証し、わかりやすく違和感のない品質を届けるLQAサービス",
+    "url": "https://www.e-guardian.co.jp/service/business/",
+    "pass": 1
+   },
+   {
+    "quote": "宗教や文化に配慮して翻訳するローカライズ・カルチャライズサービス",
+    "url": "https://www.e-guardian.co.jp/service/business/",
+    "pass": 1
+   },
+   {
+    "quote": "不具合、違法行為、トラブルなど、ゲームに特化した監視サービス",
+    "url": "https://www.e-guardian.co.jp/service/business/",
+    "pass": 1
+   },
+   {
+    "quote": "アジア拠点で、日本品質のサービスをご提供",
+    "url": "https://www.e-guardian.co.jp/service/business/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "広告・代理店",
+    "url": "https://www.e-guardian.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店・加盟店審査代行",
+    "url": "https://www.e-guardian.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店・加盟店審査代行サービス",
+    "url": "https://www.e-guardian.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.e-guardian.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介トップ",
+    "url": "https://www.e-guardian.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "広告・代理店",
+    "url": "https://www.e-guardian.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.e-guardian.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介トップ",
+    "url": "https://www.e-guardian.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "広告・代理店",
+    "url": "https://www.e-guardian.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.e-guardian.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介トップ",
+    "url": "https://www.e-guardian.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "広告・代理店",
+    "url": "https://www.e-guardian.co.jp/service/business/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店・加盟店審査代行サービス",
+    "url": "https://www.e-guardian.co.jp/service/business/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.e-guardian.co.jp/service/business/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介トップ",
+    "url": "https://www.e-guardian.co.jp/service/business/",
+    "pass": 1
+   },
+   {
+    "quote": "広告・代理店",
+    "url": "https://www.e-guardian.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "- 厚生労働大臣許可番号：職業紹介業 13-ユ-302333",
+    "url": "https://www.e-guardian.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.e-guardian.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介トップ",
+    "url": "https://www.e-guardian.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "広告・代理店",
+    "url": "https://www.e-guardian.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.e-guardian.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介トップ",
+    "url": "https://www.e-guardian.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "広告・代理店",
+    "url": "https://www.e-guardian.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の経営の原点に関する考え方、行動基準についてご紹介します",
+    "url": "https://www.e-guardian.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.e-guardian.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介トップ",
+    "url": "https://www.e-guardian.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "広告・代理店",
+    "url": "https://www.e-guardian.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.e-guardian.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介トップ",
+    "url": "https://www.e-guardian.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "広告・代理店",
+    "url": "https://www.e-guardian.co.jp/ir/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.e-guardian.co.jp/ir/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介トップ",
+    "url": "https://www.e-guardian.co.jp/ir/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "広告・代理店",
+    "url": "https://www.e-guardian.co.jp/ir/philosophy.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの考えに共感してくれる企業にとって良き相談相手となり、感謝され、パートナーとしてともに発展することを目指します",
+    "url": "https://www.e-guardian.co.jp/ir/philosophy.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.e-guardian.co.jp/ir/philosophy.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介トップ",
+    "url": "https://www.e-guardian.co.jp/ir/philosophy.html",
+    "pass": 1
+   },
+   {
+    "quote": "広告・代理店",
+    "url": "https://www.e-guardian.co.jp/ir/highlight/achievement.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.e-guardian.co.jp/ir/highlight/achievement.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介トップ",
+    "url": "https://www.e-guardian.co.jp/ir/highlight/achievement.html",
+    "pass": 1
+   },
+   {
+    "quote": "広告・代理店",
+    "url": "https://www.e-guardian.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.e-guardian.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介トップ",
+    "url": "https://www.e-guardian.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "広告・代理店",
+    "url": "https://www.e-guardian.co.jp/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.e-guardian.co.jp/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介トップ",
+    "url": "https://www.e-guardian.co.jp/ir/library/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "広告・代理店",
+    "url": "https://www.e-guardian.co.jp/ir/stock/data.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.e-guardian.co.jp/ir/stock/data.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介トップ",
+    "url": "https://www.e-guardian.co.jp/ir/stock/data.html",
+    "pass": 1
+   },
+   {
+    "quote": "SiteGuard（サイトガード） | サイバーセキュリティ | サービス紹介 | イー・ガーディアン",
+    "url": "https://www.e-guardian.co.jp/service/security/siteguard/",
+    "pass": 1
+   },
+   {
+    "quote": "広告・代理店",
+    "url": "https://www.e-guardian.co.jp/service/security/siteguard/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.e-guardian.co.jp/service/security/siteguard/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店・加盟店審査代行サービス",
+    "url": "https://www.e-guardian.co.jp/service/security/siteguard/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介トップ",
+    "url": "https://www.e-guardian.co.jp/service/security/siteguard/",
+    "pass": 1
+   },
+   {
+    "quote": "広告関連業務は、広告枠管理から入稿管理、広告ライティング等の広告代理店向けのＢＰＯサービスを行っております",
+    "url": "https://kitaishihon.com/company/6050/business",
+    "pass": 3
+   },
+   {
+    "quote": "広告審査業務は、インターネットの広告媒体や複数店舗が出店するサイト・モールなどに掲載される広告・サイト上のテキスト・画像情報などに対して、景品表示法、特定商取引法、薬機法等の各種関連法規及び顧客の掲載基準に基づいて、その基準に違反していないかを審査する業務を行っております",
+    "url": "https://kitaishihon.com/company/6050/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、営業体制を強化し新規顧客の開拓に取り組んだ結果、ソーシャルサポート全体の新規顧客の売上高が増加いたしました",
+    "url": "https://kitaishihon.com/company/6050/business",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "イー・ガーディアンの強み | イー・ガーディアン",
+    "url": "https://www.e-guardian.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "イー・ガーディアンの強み",
+    "url": "https://www.e-guardian.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "きめ細やか且つ、チャットやメールを主流としたスピーディな対応を強みに、海外進出する企業のバックオフィス業務などを全面にサポートします",
+    "url": "https://www.e-guardian.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの強みとポイント",
+    "url": "https://www.e-guardian.co.jp/service/security/siteguard/",
+    "pass": 1
+   },
+   {
+    "quote": "「脆弱性診断」「デバッグ」といった個別のサービスに特化した事業者も多い中、当グループでは、サービスの開発から運用に至るまで一気通貫でサポートできる点が特徴であり、最大の強みでもあります",
+    "url": "https://macloud.jp/companies/173",
+    "pass": 3
+   },
+   {
+    "quote": "このような市場環境のもと、当社グループは経営理念「Ｗｅ Ｇｕａｒｄ Ａｌｌ」を掲げる総合ネットセキュリティ企業として、「ＡＩと人のハイブリッド」を強みに、高品質かつ高効率のセキュリティワンストップサービスを提供してまいりました",
+    "url": "https://kitaishihon.com/company/6050/business",
+    "pass": 3
+   },
+   {
+    "quote": "完全子会社であるＥＧテスティングサービス株式会社が、長年のノウハウと信頼・実績を強みとして新規開拓に努めましたが、減収となりました",
+    "url": "https://kitaishihon.com/company/6050/business",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2020年には300億まで増加するとも言われているIoTデバイス",
+    "url": "https://www.e-guardian.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "1998年5月",
+    "url": "https://www.e-guardian.co.jp/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 企業情報 | イー・ガーディアン",
+    "url": "https://www.e-guardian.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1998年（平成10年）",
+    "url": "https://www.e-guardian.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2001年（平成13年）",
+    "url": "https://www.e-guardian.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2003年（平成15年）",
+    "url": "https://www.e-guardian.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2005年（平成17年）",
+    "url": "https://www.e-guardian.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2006年（平成18年）",
+    "url": "https://www.e-guardian.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2007年（平成19年）",
+    "url": "https://www.e-guardian.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2009年（平成21年）",
+    "url": "https://www.e-guardian.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2010年（平成22年）",
+    "url": "https://www.e-guardian.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2011年（平成23年）",
+    "url": "https://www.e-guardian.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2012年（平成24年）",
+    "url": "https://www.e-guardian.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2014年（平成26年）",
+    "url": "https://www.e-guardian.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2015年（平成27年）",
+    "url": "https://www.e-guardian.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2016年（平成28年）",
+    "url": "https://www.e-guardian.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年（平成29年）",
+    "url": "https://www.e-guardian.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2018年（平成30年）",
+    "url": "https://www.e-guardian.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年（平成31年・令和元年）",
+    "url": "https://www.e-guardian.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年（令和2年）",
+    "url": "https://www.e-guardian.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年（令和3年）",
+    "url": "https://www.e-guardian.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年（令和4年）",
+    "url": "https://www.e-guardian.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年（令和5年）",
+    "url": "https://www.e-guardian.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年（令和8年）",
+    "url": "https://www.e-guardian.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月29日",
+    "url": "https://www.e-guardian.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月21日",
+    "url": "https://www.e-guardian.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月18日",
+    "url": "https://www.e-guardian.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月 3日",
+    "url": "https://www.e-guardian.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期第3四半期 決算説明資料",
+    "url": "https://www.e-guardian.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期第3四半期決算短信",
+    "url": "https://www.e-guardian.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月15日",
+    "url": "https://www.e-guardian.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月 7日",
+    "url": "https://www.e-guardian.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月 6日",
+    "url": "https://www.e-guardian.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月 9日",
+    "url": "https://www.e-guardian.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月 2日",
+    "url": "https://www.e-guardian.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月期第２四半期決算及び株式会社アウトソーシングコミュニケーションズの完全子会社化に関するＱ＆Ａ公開のお知らせ",
+    "url": "https://www.e-guardian.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月 1日",
+    "url": "https://www.e-guardian.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期第2四半期 決算説明会動画 配信開始のお知らせ",
+    "url": "https://www.e-guardian.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月22日",
+    "url": "https://www.e-guardian.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月20日",
+    "url": "https://www.e-guardian.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月期第２四半期 決算説明会",
+    "url": "https://www.e-guardian.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月 8日",
+    "url": "https://www.e-guardian.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期第2四半期決算短信",
+    "url": "https://www.e-guardian.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月27日",
+    "url": "https://www.e-guardian.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月 2日",
+    "url": "https://www.e-guardian.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月17日",
+    "url": "https://www.e-guardian.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月期第１四半期決算に関するＱ＆Ａ公開のお知らせ",
+    "url": "https://www.e-guardian.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月 3日",
+    "url": "https://www.e-guardian.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期第1四半期 決算説明資料",
+    "url": "https://www.e-guardian.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "1993年 関西学院大学法学部を卒業後、ジョンソン・エンド・ジョンソン株式会社に入社",
+    "url": "https://www.e-guardian.co.jp/ir/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "1995年 稲盛和夫氏に憧れ、京セラ株式会社に入社、情報システム部門にてシステムインテグレーションの事業に従事",
+    "url": "https://www.e-guardian.co.jp/ir/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "2005年 株式会社ホットポット（現：イー・ガーディアン株式会社）の事業再編に伴い、同社の株式譲渡を受け、当社入社、代表取締役社長に就任し、投稿監視事業を立ち上げる",
+    "url": "https://www.e-guardian.co.jp/ir/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期 第3四半期説明資料掲載",
+    "url": "https://www.e-guardian.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期 第3四半期決算発表",
+    "url": "https://www.e-guardian.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期 第2四半期説明資料掲載",
+    "url": "https://www.e-guardian.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期 第2四半期決算発表",
+    "url": "https://www.e-guardian.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期 第1四半期説明資料掲載",
+    "url": "https://www.e-guardian.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期 第1四半期決算発表",
+    "url": "https://www.e-guardian.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月期 通期説明資料掲載",
+    "url": "https://www.e-guardian.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月期 通期決算発表",
+    "url": "https://www.e-guardian.co.jp/ir/calendar/",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "従量課金プランで、最小コストからスタートできるカスタマーサービス",
+    "url": "https://www.e-guardian.co.jp/service/business/",
+    "pass": 1
+   },
+   {
+    "quote": "名義書換手数料",
+    "url": "https://www.e-guardian.co.jp/ir/stock/data.html",
+    "pass": 1
+   },
+   {
+    "quote": "新券交付手数料",
+    "url": "https://www.e-guardian.co.jp/ir/stock/data.html",
+    "pass": 1
+   },
+   {
+    "quote": "価格 (月額)",
+    "url": "https://www.e-guardian.co.jp/service/security/siteguard/",
+    "pass": 1
+   },
+   {
+    "quote": "1ライセンス",
+    "url": "https://www.e-guardian.co.jp/service/security/siteguard/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトウェア型はライセンス数により月額2万1千円～の定額料金でご利用いただけて、年単位で一律固定料金となっているため、トラフィック量やFQDNの数によるコスト変動がありません",
+    "url": "https://www.e-guardian.co.jp/service/security/siteguard/",
+    "pass": 1
+   },
+   {
+    "quote": "また営業組織を各分野専任に再編成し、市場環境や顧客ニーズをきめ細かく把握できる体制を整えることで、新たな案件創出や案件単価の向上にも注力いたします",
+    "url": "https://kitaishihon.com/company/6050/business",
+    "pass": 3
+   },
+   {
+    "quote": "【株式会社エディア】ゲームアプリ後発組でIPO 客単価の高いオタク市場に照準",
+    "url": "https://leaders-file.com/interview/1800/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "イー ・ ガーディアン の強み — イー ・ ガーディアン の強み イー・ガーディアン https://www.e-guardian.co.jp > feature",
+    "url": "https://www.e-guardian.co.jp/feature/",
+    "pass": 3
+   },
+   {
+    "quote": "イー ・ ガーディアン 株式会社の会社情報 - M&Aクラウド — イー ・ ガーディアン 株式会社の会社情報 - M&Aクラウド M&Aクラウド https://macloud.jp > companies",
+    "url": "https://macloud.jp/companies/173",
+    "pass": 3
+   },
+   {
+    "quote": "E-Guardian イー ・ ガーディアン 株式会社 (@e_guardian) / X — E-Guardian イー ・ ガーディアン 株式会社 (@e_guardian) / X X https://x.com > e_guardian",
+    "url": "https://x.com/e_guardian",
+    "pass": 3
+   },
+   {
+    "quote": "【 イー ・ ガーディアン 株式会社】AI活用により「炎上」と ... — 【 イー ・ ガーディアン 株式会社】AI活用により「炎上」と ... PR TIMES https://prtimes.jp > 商品サービス",
+    "url": "https://prtimes.jp/main/html/rd/p/000000395.000018759.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 | 株主・投資家情報 - イー・ガーディアン — 決算説明資料 | 株主・投資家情報 - イー・ガーディアン イー・ガーディアン https://www.e-guardian.co.jp > 株主・投資家情報",
+    "url": "https://www.e-guardian.co.jp/ir/library/explanation.html",
+    "pass": 3
+   },
+   {
+    "quote": "IRニュース | 株主・投資家情報 - イー・ガーディアン — IRニュース | 株主・投資家情報 - イー・ガーディアン イー・ガーディアン https://www.e-guardian.co.jp > 株主・投資家情報",
+    "url": "https://www.e-guardian.co.jp/ir-news/",
+    "pass": 3
+   },
+   {
+    "quote": "【 イー ・ ガーディアン 】[6050]IR情報 中期経営計画や 決算 短信 — 【 イー ・ ガーディアン 】[6050]IR情報 中期経営計画や 決算 短信 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=6050",
+    "pass": 3
+   },
+   {
+    "quote": "決算 プロ 【 イー ・ ガーディアン （6050） 決算 短信 ... - 株主プロ — 決算 プロ 【 イー ・ ガーディアン （6050） 決算 短信 ... - 株主プロ 株主プロ http://ke.kabupro.jp > code",
+    "url": "http://ke.kabupro.jp/code/6050.htm",
+    "pass": 3
+   },
+   {
+    "quote": "組織図 | 企業情報 - イー・ガーディアン — 組織図 | 企業情報 - イー・ガーディアン イー・ガーディアン https://www.e-guardian.co.jp > 企業情報",
+    "url": "https://www.e-guardian.co.jp/company/organization.html",
+    "pass": 3
+   },
+   {
+    "quote": "イー ・ ガーディアン 【6050】の 事業 内容 - キタイシホン — イー ・ ガーディアン 【6050】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/6050/business",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 企業情報 - イー・ガーディアン — 会社概要 | 企業情報 - イー・ガーディアン イー・ガーディアン https://www.e-guardian.co.jp > 企業情報",
+    "url": "https://www.e-guardian.co.jp/company/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "6050） イー ・ ガーディアン 2025年9月期決算 - ブリッジサロン — 6050） イー ・ ガーディアン 2025年9月期決算 - ブリッジサロン ブリッジサロン http://www.bridge-salon.jp > archives > 2026/01",
+    "url": "http://www.bridge-salon.jp/report_bridge/archives/2026/01/260119_6050.html",
+    "pass": 3
+   },
+   {
+    "quote": "イー ・ ガーディアン - Wikipedia — イー ・ ガーディアン - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > イー・ガーディアン",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%BC%E3%83%BB%E3%82%AC%E3%83%BC%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "イー ・ ガーディアン 株式会社 代表取締役 社長 高谷 康久 — イー ・ ガーディアン 株式会社 代表取締役 社長 高谷 康久 ベンチャータイムス https://venturetimes.jp > ... > 熱中の肖像",
+    "url": "https://venturetimes.jp/interview/portrait/10570.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 イー ・ ガーディアン 株式会社】ネットセキュリティの ... — 【 イー ・ ガーディアン 株式会社】ネットセキュリティの ... leaders-file.com https://leaders-file.com > interview",
+    "url": "https://leaders-file.com/interview/1800/",
+    "pass": 3
+   },
+   {
+    "quote": "企業家 インタビュー イー ・ ガーディアン /高谷康久「誰にも ... — 企業家 インタビュー イー ・ ガーディアン /高谷康久「誰にも ... Facebook https://www.facebook.com > shinkeiren > posts > 企業家...",
+    "url": "https://www.facebook.com/shinkeiren/posts/%E4%BC%81%E6%A5%AD%E5%AE%B6%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%AC%E3%83%BC%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E9%AB%98%E8%B0%B7%E5%BA%B7%E4%B9%85%E8%AA%B0%E3%81%AB%E3%82%82%E7%A4%BE%E9%95%B7%E3%81%AB%E3%81%AA%E3%82%8B%E3%83%81%E3%83%A3%E3%83%B3%E3%82%B9%E3%81%AF%E3%81%82%E3%82%8B%E3%82%88%E3%82%8A%E8%89%AF%E3%81%84%E6%97%A5%E6%9C%AC%E3%81%AE%E6%9C%AA%E6%9D%A5%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB-we-guard-all-%E3%81%99%E3%81%B9%E3%81%A6%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E5%88%A9%E7%94%A8%E8%80%85%E3%81%AB/5008455882608318/",
+    "pass": 3
+   },
+   {
+    "quote": "社長 メッセージ - イー・ガーディアン株式会社 採用情報 — 社長 メッセージ - イー・ガーディアン株式会社 採用情報 e-guardian.recruitment.jp https://e-guardian.recruitment.jp > career > message",
+    "url": "https://e-guardian.recruitment.jp/career/message/",
+    "pass": 3
+   },
+   {
+    "quote": "導入企業 イー ・ ガーディアン 株式会社様 — 導入企業 イー ・ ガーディアン 株式会社様 best-teacher-inc.com https://www.best-teacher-inc.com > list > eguardian",
+    "url": "https://www.best-teacher-inc.com/biz_page/list/eguardian",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "［事業系統図］",
+    "url": "https://kitaishihon.com/company/6050/business",
+    "pass": 3
+   },
+   {
+    "quote": "オンライン診療と調剤薬局をつなぐ新たなビジネスモデルを確立し、人財育成で国力向上に貢献する",
+    "url": "https://leaders-file.com/interview/1800/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/6050/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/6050/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/6050/business",
+    "pass": 3
+   },
+   {
+    "quote": "（単一セグメント）",
+    "url": "https://kitaishihon.com/company/6050/business",
+    "pass": 3
+   },
+   {
+    "quote": "単一セグメントの企業の場合は、連結（あるいは単体）の売上と営業利益を反映しています",
+    "url": "https://kitaishihon.com/company/6050/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/6050/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/6050/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/6050/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは単一セグメントであるため、セグメントごとの記載はありません",
+    "url": "https://kitaishihon.com/company/6050/business",
+    "pass": 3
+   },
+   {
+    "quote": "（セグメント情報等）",
+    "url": "https://kitaishihon.com/company/6050/business",
+    "pass": 3
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://kitaishihon.com/company/6050/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、インターネットセキュリティ事業の単一セグメントであるため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/6050/business",
+    "pass": 3
+   },
+   {
+    "quote": "関連するセグメント名",
+    "url": "https://kitaishihon.com/company/6050/business",
+    "pass": 3
+   },
+   {
+    "quote": "【報告セグメントごとの固定資産の減損損失に関する情報】",
+    "url": "https://kitaishihon.com/company/6050/business",
+    "pass": 3
+   },
+   {
+    "quote": "【報告セグメントごとののれんの償却額及び未償却残高に関する情報】",
+    "url": "https://kitaishihon.com/company/6050/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、当社グループは、インターネットセキュリティ事業の単一セグメントです",
+    "url": "https://kitaishihon.com/company/6050/business",
+    "pass": 3
+   },
+   {
+    "quote": "【報告セグメントごとの負ののれん発生益に関する情報】",
+    "url": "https://kitaishihon.com/company/6050/business",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.e-guardian.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-guardian.co.jp/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-guardian.co.jp/feature/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-guardian.co.jp/service/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-guardian.co.jp/company/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-guardian.co.jp/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-guardian.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-guardian.co.jp/ir-news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-guardian.co.jp/ir/message.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-guardian.co.jp/ir/philosophy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-guardian.co.jp/ir/highlight/achievement.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-guardian.co.jp/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-guardian.co.jp/ir/library/result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-guardian.co.jp/ir/stock/data.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-guardian.co.jp/service/security/siteguard/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://macloud.jp/companies/173",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/6050/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://venturetimes.jp/interview/portrait/10570.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://leaders-file.com/interview/1800/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "イー・ガーディアン",
+   "results": [
+    "https://www.e-guardian.co.jp/company/outline.html",
+    "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%BC%E3%83%BB%E3%82%AC%E3%83%BC%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3",
+    "https://www.e-guardian.co.jp/",
+    "https://www.openwork.jp/a0C1000000TYfnX/ranking/",
+    "https://kabutan.jp/stock/?code=6050",
+    "https://x.com/e_guardian",
+    "https://hrmos.co/pages/e-guardian-inc",
+    "https://www.nikkei.com/nkd/company/?scode=6050",
+    "https://ja.wikipedia.org/wiki/イー・ガーディアン",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=6050"
+   ]
+  },
+  {
+   "query": "イー・ガーディアン ビジネスモデル",
+   "results": [
+    "https://www.e-guardian.co.jp/feature/",
+    "https://macloud.jp/companies/173",
+    "https://www.changeholdings.co.jp/news/241/",
+    "https://x.com/e_guardian",
+    "https://prtimes.jp/main/html/rd/p/000000395.000018759.html",
+    "https://www.openwork.jp/company_answer.php?m_id=a0C1000000TYfnX&q_no=9",
+    "https://www.bizreach.jp/jobs/9020022/",
+    "https://kitaishihon.com/company/6050/business",
+    "https://hrmos.co/pages/e-guardian-inc",
+    "https://www.e-guardian.co.jp/info/2026/20260508.html"
+   ]
+  },
+  {
+   "query": "イー・ガーディアン 決算説明資料",
+   "results": [
+    "https://www.e-guardian.co.jp/ir/library/explanation.html",
+    "https://www.e-guardian.co.jp/ir-news/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=6050",
+    "http://ke.kabupro.jp/code/6050.htm",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260520/20260520542070.pdf",
+    "https://www.buffett-code.com/company/6050/library",
+    "https://www.e-guardian.co.jp/ir/library/result.html",
+    "https://www.nikkei.com/nkd/company/disclose/?scode=6050",
+    "https://s.kabutan.jp/stocks/6050/news/"
+   ]
+  },
+  {
+   "query": "イー・ガーディアン 事業系統図",
+   "results": [
+    "https://www.e-guardian.co.jp/company/organization.html",
+    "https://kitaishihon.com/company/6050/business",
+    "https://www.e-guardian.co.jp/company/outline.html",
+    "http://www.bridge-salon.jp/report_bridge/archives/2026/01/260119_6050.html",
+    "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%BC%E3%83%BB%E3%82%AC%E3%83%BC%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3",
+    "https://edinetdb.jp/company/E24917/text",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=6050",
+    "https://www.buffett-code.com/company/6050/",
+    "https://shikiho.toyokeizai.net/stocks/6050/corporate",
+    "https://www.e-guardian.co.jp/company/"
+   ]
+  },
+  {
+   "query": "イー・ガーディアン 社長 インタビュー",
+   "results": [
+    "https://venturetimes.jp/interview/portrait/10570.html",
+    "https://leaders-file.com/interview/1800/",
+    "https://www.facebook.com/shinkeiren/posts/%E4%BC%81%E6%A5%AD%E5%AE%B6%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%AC%E3%83%BC%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E9%AB%98%E8%B0%B7%E5%BA%B7%E4%B9%85%E8%AA%B0%E3%81%AB%E3%82%82%E7%A4%BE%E9%95%B7%E3%81%AB%E3%81%AA%E3%82%8B%E3%83%81%E3%83%A3%E3%83%B3%E3%82%B9%E3%81%AF%E3%81%82%E3%82%8B%E3%82%88%E3%82%8A%E8%89%AF%E3%81%84%E6%97%A5%E6%9C%AC%E3%81%AE%E6%9C%AA%E6%9D%A5%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB-we-guard-all-%E3%81%99%E3%81%B9%E3%81%A6%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E5%88%A9%E7%94%A8%E8%80%85%E3%81%AB/5008455882608318/",
+    "https://e-guardian.recruitment.jp/career/message/",
+    "https://www.best-teacher-inc.com/biz_page/list/eguardian",
+    "https://jane.or.jp/blog/?p=1344",
+    "https://www.e-guardian.co.jp/ir/message.html",
+    "https://cowtv.jp/channel/boss/287takatani/01.php",
+    "https://www.yumeplanning.jp/contact/%E9%AB%98%E8%B0%B7%E9%A1%A7%E5%95%8F/",
+    "http://www.cowtv.jp/channel/boss/287takatani/"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -1,0 +1,2044 @@
+{
+ "name": "横河電機",
+ "aliases": [],
+ "context": "証券コード6841／電気機器／プライム（内国株式）／2026.03期 売上高604,829百万円 営業利益率13.7%",
+ "researched_at": "2026-11-02T19:19:36.591132+00:00",
+ "official_url": "https://www.yokogawa.co.jp/",
+ "identified_by": "search:yahoo_jp:横河電機",
+ "profile": {},
+ "evidence": {
+  "何を": [
+   {
+    "quote": "横河ソリューションサービス株式会社",
+    "url": "https://www.yokogawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.yokogawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.yokogawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "営業・サービス拠点",
+    "url": "https://www.yokogawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "風力発電ソリューション",
+    "url": "https://www.yokogawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "蓄電池ソリューション",
+    "url": "https://www.yokogawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "地域エネルギーソリューション",
+    "url": "https://www.yokogawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "水力発電ソリューション",
+    "url": "https://www.yokogawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "バイオマス発電・廃棄物発電ソリューション",
+    "url": "https://www.yokogawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ミニマルファブソリューション",
+    "url": "https://www.yokogawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体装置メーカー向け情報ソリューション",
+    "url": "https://www.yokogawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "デバイスメーカー向け情報ソリューション",
+    "url": "https://www.yokogawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製造装置・機器ソリューション",
+    "url": "https://www.yokogawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車ソリューション",
+    "url": "https://www.yokogawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車部品製造ソリューション",
+    "url": "https://www.yokogawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "情報ソリューション",
+    "url": "https://www.yokogawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "設備管理ソリューション",
+    "url": "https://www.yokogawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "電力取引・需給管理ソリューション",
+    "url": "https://www.yokogawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "カーボンマネジメントソリューション",
+    "url": "https://www.yokogawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "モノづくり変革ソリューション",
+    "url": "https://www.yokogawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "監視カメラソリューション",
+    "url": "https://www.yokogawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サイバーセキュリティソリューション",
+    "url": "https://www.yokogawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "データ駆動型 プラント最適操業支援ソリューション",
+    "url": "https://www.yokogawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ガス制御ソリューション",
+    "url": "https://www.yokogawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ERPソリューション",
+    "url": "https://www.yokogawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "横河ソリューションサービス株式会社",
+    "url": "https://www.yokogawa.co.jp/about/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.yokogawa.co.jp/about/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.yokogawa.co.jp/about/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "営業・サービス拠点",
+    "url": "https://www.yokogawa.co.jp/about/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "風力発電ソリューション",
+    "url": "https://www.yokogawa.co.jp/about/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "蓄電池ソリューション",
+    "url": "https://www.yokogawa.co.jp/about/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "地域エネルギーソリューション",
+    "url": "https://www.yokogawa.co.jp/about/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "水力発電ソリューション",
+    "url": "https://www.yokogawa.co.jp/about/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "バイオマス発電・廃棄物発電ソリューション",
+    "url": "https://www.yokogawa.co.jp/about/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "ミニマルファブソリューション",
+    "url": "https://www.yokogawa.co.jp/about/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体装置メーカー向け情報ソリューション",
+    "url": "https://www.yokogawa.co.jp/about/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "デバイスメーカー向け情報ソリューション",
+    "url": "https://www.yokogawa.co.jp/about/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製造装置・機器ソリューション",
+    "url": "https://www.yokogawa.co.jp/about/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車ソリューション",
+    "url": "https://www.yokogawa.co.jp/about/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車部品製造ソリューション",
+    "url": "https://www.yokogawa.co.jp/about/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "情報ソリューション",
+    "url": "https://www.yokogawa.co.jp/about/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "設備管理ソリューション",
+    "url": "https://www.yokogawa.co.jp/about/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "電力取引・需給管理ソリューション",
+    "url": "https://www.yokogawa.co.jp/about/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "カーボンマネジメントソリューション",
+    "url": "https://www.yokogawa.co.jp/about/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "モノづくり変革ソリューション",
+    "url": "https://www.yokogawa.co.jp/about/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "監視カメラソリューション",
+    "url": "https://www.yokogawa.co.jp/about/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "サイバーセキュリティソリューション",
+    "url": "https://www.yokogawa.co.jp/about/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "データ駆動型 プラント最適操業支援ソリューション",
+    "url": "https://www.yokogawa.co.jp/about/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "ガス制御ソリューション",
+    "url": "https://www.yokogawa.co.jp/about/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "ERPソリューション",
+    "url": "https://www.yokogawa.co.jp/about/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "横河ソリューションサービス株式会社",
+    "url": "https://www.yokogawa.co.jp/about/careers-j/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.yokogawa.co.jp/about/careers-j/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.yokogawa.co.jp/about/careers-j/",
+    "pass": 1
+   },
+   {
+    "quote": "営業・サービス拠点",
+    "url": "https://www.yokogawa.co.jp/about/careers-j/",
+    "pass": 1
+   },
+   {
+    "quote": "風力発電ソリューション",
+    "url": "https://www.yokogawa.co.jp/about/careers-j/",
+    "pass": 1
+   },
+   {
+    "quote": "蓄電池ソリューション",
+    "url": "https://www.yokogawa.co.jp/about/careers-j/",
+    "pass": 1
+   },
+   {
+    "quote": "地域エネルギーソリューション",
+    "url": "https://www.yokogawa.co.jp/about/careers-j/",
+    "pass": 1
+   },
+   {
+    "quote": "水力発電ソリューション",
+    "url": "https://www.yokogawa.co.jp/about/careers-j/",
+    "pass": 1
+   },
+   {
+    "quote": "バイオマス発電・廃棄物発電ソリューション",
+    "url": "https://www.yokogawa.co.jp/about/careers-j/",
+    "pass": 1
+   },
+   {
+    "quote": "ミニマルファブソリューション",
+    "url": "https://www.yokogawa.co.jp/about/careers-j/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "信頼できるパートナーとしてSoSの成功を支援",
+    "url": "https://www.yokogawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店ウェブ一覧",
+    "url": "https://www.yokogawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サステナビリティ 紹介動画",
+    "url": "https://www.yokogawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "YOKOGAWAがどのように産業の発展や人々の暮らしを支えているかを、イラストを用いて分かりやすく紹介しています",
+    "url": "https://www.yokogawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "信頼できるパートナーとしてSoSの成功を支援",
+    "url": "https://www.yokogawa.co.jp/about/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店ウェブ一覧",
+    "url": "https://www.yokogawa.co.jp/about/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介動画",
+    "url": "https://www.yokogawa.co.jp/about/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "信頼できるパートナーとしてSoSの成功を支援",
+    "url": "https://www.yokogawa.co.jp/about/careers-j/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店ウェブ一覧",
+    "url": "https://www.yokogawa.co.jp/about/careers-j/",
+    "pass": 1
+   },
+   {
+    "quote": "信頼できるパートナーとしてSoSの成功を支援",
+    "url": "https://www.yokogawa.co.jp/library/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店ウェブ一覧",
+    "url": "https://www.yokogawa.co.jp/library/",
+    "pass": 1
+   },
+   {
+    "quote": "信頼できるパートナーとしてSoSの成功を支援",
+    "url": "https://www.yokogawa.co.jp/about/operation/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店ウェブ一覧",
+    "url": "https://www.yokogawa.co.jp/about/operation/",
+    "pass": 1
+   },
+   {
+    "quote": "信頼できるパートナーとしてSoSの成功を支援",
+    "url": "https://www.yokogawa.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店ウェブ一覧",
+    "url": "https://www.yokogawa.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちのビジョンは、お客様のビジョンを実現するベストパートナーになることです",
+    "url": "https://www.yokogawa.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "信頼できるパートナーとしてSoSの成功を支援",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/wireless-pressure-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店ウェブ一覧",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/wireless-pressure-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "本ソリューションでは、産業用IoT無線センサとクラウドを活用した効率的な設備監視をご紹介します",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/wireless-pressure-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "無線技術を活用し、広範囲にわたるパイプラインの圧力をオンラインで監視するソリューションをご紹介します",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/wireless-pressure-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "信頼できるパートナーとしてSoSの成功を支援",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/wireless-temperature-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店ウェブ一覧",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/wireless-temperature-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "信頼できるパートナーとしてSoSの成功を支援",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/wireless-vibration-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店ウェブ一覧",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/wireless-vibration-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "これらを手軽に遠隔・故障予兆監視するソリューションをご紹介します",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/wireless-vibration-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "信頼できるパートナーとしてSoSの成功を支援",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/wireless-steamtrapmonitoring-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店ウェブ一覧",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/wireless-steamtrapmonitoring-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "これらを手軽に遠隔監視するソリューションをご紹介します",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/wireless-steamtrapmonitoring-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "信頼できるパートナーとしてSoSの成功を支援",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/4ch-wireless-vibration-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店ウェブ一覧",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/4ch-wireless-vibration-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "信頼できるパートナーとしてSoSの成功を支援",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/eco/derms-solution/derms-business-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店ウェブ一覧",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/eco/derms-solution/derms-business-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "信頼できるパートナーとしてSoSの成功を支援",
+    "url": "https://www.yokogawa.co.jp/library/resources/white-papers/yokogawa-security-advisory-report-list/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店ウェブ一覧",
+    "url": "https://www.yokogawa.co.jp/library/resources/white-papers/yokogawa-security-advisory-report-list/",
+    "pass": 1
+   },
+   {
+    "quote": "信頼できるパートナーとしてSoSの成功を支援",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/oprex-connected-intelligence/oprex-data-model-broker/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店ウェブ一覧",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/oprex-connected-intelligence/oprex-data-model-broker/",
+    "pass": 1
+   },
+   {
+    "quote": "信頼できるパートナーとしてSoSの成功を支援",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/oprex-enterprise-management/servair/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店ウェブ一覧",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/oprex-enterprise-management/servair/",
+    "pass": 1
+   },
+   {
+    "quote": "自社システムと同じ仕組みをサービス代理店に展開することができます",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/oprex-enterprise-management/servair/",
+    "pass": 1
+   },
+   {
+    "quote": "フィールドサービスでの修理品引取や、店舗に直接持ち込まれた修理品などについて、受付処理、工場での修理実施と報告書の作成・出荷といった、一連の流れを管理します",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/oprex-enterprise-management/servair/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社SCREEN SPE サービス様では、SCREENグループの国内における半導体製造装置のサービス会社として、半導体製造装置のセットアップ・メンテナンス・改造サービスからオリジナル周辺機器の開発・販売まで、幅広い事業を展開し、半導体メーカーの技術パートナーとして、未来をつくるキーデバイスの製造現場を支えています",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/oprex-enterprise-management/servair/",
+    "pass": 1
+   },
+   {
+    "quote": "信頼できるパートナーとしてSoSの成功を支援",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/ssd/obs/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店ウェブ一覧",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/ssd/obs/",
+    "pass": 1
+   },
+   {
+    "quote": "信頼できるパートナーとしてSoSの成功を支援",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/energy-sys/derms-business-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店ウェブ一覧",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/energy-sys/derms-business-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "信頼できるパートナーとしてSoSの成功を支援",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/data-acquisition-products/920mhz-wireless-smart920/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店ウェブ一覧",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/data-acquisition-products/920mhz-wireless-smart920/",
+    "pass": 1
+   },
+   {
+    "quote": "環境モニタリングシステム 紹介ビデオ",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/data-acquisition-products/920mhz-wireless-smart920/",
+    "pass": 1
+   },
+   {
+    "quote": "信頼できるパートナーとしてSoSの成功を支援",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/data-acquisition-products/solutions-for-environmental-monitoring-system/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店ウェブ一覧",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/data-acquisition-products/solutions-for-environmental-monitoring-system/",
+    "pass": 1
+   },
+   {
+    "quote": "環境モニタリングシステム 紹介ビデオ",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/data-acquisition-products/solutions-for-environmental-monitoring-system/",
+    "pass": 1
+   },
+   {
+    "quote": "信頼できるパートナーとしてSoSの成功を支援",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/field-instruments-products/field-wireless/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店ウェブ一覧",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/field-instruments-products/field-wireless/",
+    "pass": 1
+   },
+   {
+    "quote": "このように、\"フィールド・デジタル\"を活用してプラント操業の全体最適化を支援し、生産プロセスの「現場」の高度情報化と多様化にシームレスに対応する「Wireless Anywhere」を新たなコンセプトとして提唱し，理想のプラント操業を実現するために長期的発展に寄与できるパートナーとしてお客様と共に未来をデザインしていきます",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/field-instruments-products/field-wireless/",
+    "pass": 1
+   },
+   {
+    "quote": "このビデオは、YOKOGAWAの新しいフィールド無線システムを紹介しています",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/field-instruments-products/field-wireless/",
+    "pass": 1
+   },
+   {
+    "quote": "新製品紹介: プラントワイド・フィールド無線を実現する YFGW 新シリーズと無線フィールド機器の新機能",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/field-instruments-products/field-wireless/",
+    "pass": 1
+   },
+   {
+    "quote": "信頼できるパートナーとしてSoSの成功を支援",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/analyzers/environmental-analyzers/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店ウェブ一覧",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/analyzers/environmental-analyzers/",
+    "pass": 1
+   },
+   {
+    "quote": "信頼できるパートナーとしてSoSの成功を支援",
+    "url": "https://www.yokogawa.co.jp/library/search/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店ウェブ一覧",
+    "url": "https://www.yokogawa.co.jp/library/search/",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "ライフサイエンス製品の保守サポートサービス",
+    "url": "https://www.yokogawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションベースソフトウェア保守契約",
+    "url": "https://www.yokogawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "STARDOM 自律型コントローラ保守契約",
+    "url": "https://www.yokogawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "保守情報提供サービス",
+    "url": "https://www.yokogawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "EU RoHS適合製品の保守対応について",
+    "url": "https://www.yokogawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ライフサイエンス製品の保守サポートサービス",
+    "url": "https://www.yokogawa.co.jp/about/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションベースソフトウェア保守契約",
+    "url": "https://www.yokogawa.co.jp/about/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "STARDOM 自律型コントローラ保守契約",
+    "url": "https://www.yokogawa.co.jp/about/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "保守情報提供サービス",
+    "url": "https://www.yokogawa.co.jp/about/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "ライフサイエンス製品の保守サポートサービス",
+    "url": "https://www.yokogawa.co.jp/about/careers-j/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションベースソフトウェア保守契約",
+    "url": "https://www.yokogawa.co.jp/about/careers-j/",
+    "pass": 1
+   },
+   {
+    "quote": "STARDOM 自律型コントローラ保守契約",
+    "url": "https://www.yokogawa.co.jp/about/careers-j/",
+    "pass": 1
+   },
+   {
+    "quote": "保守情報提供サービス",
+    "url": "https://www.yokogawa.co.jp/about/careers-j/",
+    "pass": 1
+   },
+   {
+    "quote": "ライフサイエンス製品の保守サポートサービス",
+    "url": "https://www.yokogawa.co.jp/library/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションベースソフトウェア保守契約",
+    "url": "https://www.yokogawa.co.jp/library/",
+    "pass": 1
+   },
+   {
+    "quote": "STARDOM 自律型コントローラ保守契約",
+    "url": "https://www.yokogawa.co.jp/library/",
+    "pass": 1
+   },
+   {
+    "quote": "保守情報提供サービス",
+    "url": "https://www.yokogawa.co.jp/library/",
+    "pass": 1
+   },
+   {
+    "quote": "ライフサイエンス製品の保守サポートサービス",
+    "url": "https://www.yokogawa.co.jp/about/operation/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションベースソフトウェア保守契約",
+    "url": "https://www.yokogawa.co.jp/about/operation/",
+    "pass": 1
+   },
+   {
+    "quote": "STARDOM 自律型コントローラ保守契約",
+    "url": "https://www.yokogawa.co.jp/about/operation/",
+    "pass": 1
+   },
+   {
+    "quote": "保守情報提供サービス",
+    "url": "https://www.yokogawa.co.jp/about/operation/",
+    "pass": 1
+   },
+   {
+    "quote": "ライフサイエンス製品の保守サポートサービス",
+    "url": "https://www.yokogawa.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションベースソフトウェア保守契約",
+    "url": "https://www.yokogawa.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "STARDOM 自律型コントローラ保守契約",
+    "url": "https://www.yokogawa.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "保守情報提供サービス",
+    "url": "https://www.yokogawa.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "ライフサイエンス製品の保守サポートサービス",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/wireless-pressure-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションベースソフトウェア保守契約",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/wireless-pressure-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "STARDOM 自律型コントローラ保守契約",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/wireless-pressure-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "保守情報提供サービス",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/wireless-pressure-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、スムーズな保守作業を実現します",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/wireless-pressure-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "ライフサイエンス製品の保守サポートサービス",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/wireless-temperature-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションベースソフトウェア保守契約",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/wireless-temperature-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "STARDOM 自律型コントローラ保守契約",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/wireless-temperature-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "保守情報提供サービス",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/wireless-temperature-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、スムーズな保守作業を実現します",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/wireless-temperature-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "ライフサイエンス製品の保守サポートサービス",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/wireless-vibration-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションベースソフトウェア保守契約",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/wireless-vibration-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "STARDOM 自律型コントローラ保守契約",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/wireless-vibration-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "保守情報提供サービス",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/wireless-vibration-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "ライフサイエンス製品の保守サポートサービス",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/wireless-steamtrapmonitoring-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションベースソフトウェア保守契約",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/wireless-steamtrapmonitoring-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "STARDOM 自律型コントローラ保守契約",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/wireless-steamtrapmonitoring-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "保守情報提供サービス",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/wireless-steamtrapmonitoring-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、スムーズな保守作業を実現します",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/wireless-steamtrapmonitoring-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "＞簡単手軽に導入できるサブスクリプションサービス",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/wireless-steamtrapmonitoring-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "ライフサイエンス製品の保守サポートサービス",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/4ch-wireless-vibration-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションベースソフトウェア保守契約",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/4ch-wireless-vibration-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "STARDOM 自律型コントローラ保守契約",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/4ch-wireless-vibration-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "保守情報提供サービス",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/4ch-wireless-vibration-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "保守作業時の設備停止による生産損失",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/4ch-wireless-vibration-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "ライフサイエンス製品の保守サポートサービス",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/eco/derms-solution/derms-business-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションベースソフトウェア保守契約",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/eco/derms-solution/derms-business-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "STARDOM 自律型コントローラ保守契約",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/eco/derms-solution/derms-business-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "保守情報提供サービス",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/eco/derms-solution/derms-business-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "契約期間中のハードウェアの提供・Cloud 構築・気象情報取得・パッケージライセンス及びグローバルレスポンスセンターによる保守を一つにまとめた SaaS として提供します",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/eco/derms-solution/derms-business-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "ライフサイエンス製品の保守サポートサービス",
+    "url": "https://www.yokogawa.co.jp/library/resources/white-papers/yokogawa-security-advisory-report-list/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションベースソフトウェア保守契約",
+    "url": "https://www.yokogawa.co.jp/library/resources/white-papers/yokogawa-security-advisory-report-list/",
+    "pass": 1
+   },
+   {
+    "quote": "STARDOM 自律型コントローラ保守契約",
+    "url": "https://www.yokogawa.co.jp/library/resources/white-papers/yokogawa-security-advisory-report-list/",
+    "pass": 1
+   },
+   {
+    "quote": "保守情報提供サービス",
+    "url": "https://www.yokogawa.co.jp/library/resources/white-papers/yokogawa-security-advisory-report-list/",
+    "pass": 1
+   },
+   {
+    "quote": "YSAR-22-0002: 横河製品のライセンス機能における脆弱性（更新日：2022/03/25）",
+    "url": "https://www.yokogawa.co.jp/library/resources/white-papers/yokogawa-security-advisory-report-list/",
+    "pass": 1
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "業種別セグメントトピックス",
+    "url": "https://www.yokogawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "３つの業種別セグメントで課題解決型ビジネスへの転換をスピードアップ",
+    "url": "https://www.yokogawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "業種別セグメントトピックスはこちら",
+    "url": "https://www.yokogawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "業種別セグメントトピックス",
+    "url": "https://www.yokogawa.co.jp/about/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別情報",
+    "url": "https://www.yokogawa.co.jp/about/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "業種別セグメントトピックス",
+    "url": "https://www.yokogawa.co.jp/about/careers-j/",
+    "pass": 1
+   },
+   {
+    "quote": "業種別セグメントトピックス",
+    "url": "https://www.yokogawa.co.jp/library/",
+    "pass": 1
+   },
+   {
+    "quote": "業種別セグメントトピックス",
+    "url": "https://www.yokogawa.co.jp/about/operation/",
+    "pass": 1
+   },
+   {
+    "quote": "業種別セグメントトピックス",
+    "url": "https://www.yokogawa.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "業種別セグメントトピックス",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/wireless-pressure-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "業種別セグメントトピックス",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/wireless-temperature-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "業種別セグメントトピックス",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/wireless-vibration-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "業種別セグメントトピックス",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/wireless-steamtrapmonitoring-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "業種別セグメントトピックス",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/4ch-wireless-vibration-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "業種別セグメントトピックス",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/eco/derms-solution/derms-business-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "業種別セグメントトピックス",
+    "url": "https://www.yokogawa.co.jp/library/resources/white-papers/yokogawa-security-advisory-report-list/",
+    "pass": 1
+   },
+   {
+    "quote": "業種別セグメントトピックス",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/oprex-connected-intelligence/oprex-data-model-broker/",
+    "pass": 1
+   },
+   {
+    "quote": "業種別セグメントトピックス",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/oprex-enterprise-management/servair/",
+    "pass": 1
+   },
+   {
+    "quote": "業種別セグメントトピックス",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/ssd/obs/",
+    "pass": 1
+   },
+   {
+    "quote": "業種別セグメントトピックス",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/energy-sys/derms-business-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "業種別セグメントトピックス",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/data-acquisition-products/920mhz-wireless-smart920/",
+    "pass": 1
+   },
+   {
+    "quote": "業種別セグメントトピックス",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/data-acquisition-products/solutions-for-environmental-monitoring-system/",
+    "pass": 1
+   },
+   {
+    "quote": "業種別セグメントトピックス",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/field-instruments-products/field-wireless/",
+    "pass": 1
+   },
+   {
+    "quote": "業種別セグメントトピックス",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/analyzers/environmental-analyzers/",
+    "pass": 1
+   },
+   {
+    "quote": "業種別セグメントトピックス",
+    "url": "https://www.yokogawa.co.jp/library/search/",
+    "pass": 1
+   },
+   {
+    "quote": "業種別セグメントトピックス",
+    "url": "https://www.yokogawa.co.jp/library/resources/references/",
+    "pass": 1
+   },
+   {
+    "quote": "業種別セグメントトピックス",
+    "url": "https://www.yokogawa.co.jp/library/resources/application-notes/",
+    "pass": 1
+   },
+   {
+    "quote": "業種別セグメントトピックス",
+    "url": "https://www.yokogawa.co.jp/library/resources/faqs/",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2040年の未来シナリオ",
+    "url": "https://www.yokogawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2035年の未来シナリオ",
+    "url": "https://www.yokogawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "令和８年熊本地震により被災された方々に、謹んでお見舞い申し上げます",
+    "url": "https://www.yokogawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月16日",
+    "url": "https://www.yokogawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月15日",
+    "url": "https://www.yokogawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月14日",
+    "url": "https://www.yokogawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月30日",
+    "url": "https://www.yokogawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月29日",
+    "url": "https://www.yokogawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2050年の「Three Goals」実現に向け、6つの貢献分野で社会課題に取り組み、サステナビリティ・トランジションをリードしていきます",
+    "url": "https://www.yokogawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2040年の未来シナリオ",
+    "url": "https://www.yokogawa.co.jp/about/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2035年の未来シナリオ",
+    "url": "https://www.yokogawa.co.jp/about/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月14日",
+    "url": "https://www.yokogawa.co.jp/about/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月30日",
+    "url": "https://www.yokogawa.co.jp/about/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月8日",
+    "url": "https://www.yokogawa.co.jp/about/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月7日",
+    "url": "https://www.yokogawa.co.jp/about/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月13日",
+    "url": "https://www.yokogawa.co.jp/about/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期 決算説明会資料（質疑含むスクリプト付）を掲載",
+    "url": "https://www.yokogawa.co.jp/about/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期ファクトブック(PDF: 818KB/24P)",
+    "url": "https://www.yokogawa.co.jp/about/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2040年の未来シナリオ",
+    "url": "https://www.yokogawa.co.jp/about/careers-j/",
+    "pass": 1
+   },
+   {
+    "quote": "2035年の未来シナリオ",
+    "url": "https://www.yokogawa.co.jp/about/careers-j/",
+    "pass": 1
+   },
+   {
+    "quote": "2040年の未来シナリオ",
+    "url": "https://www.yokogawa.co.jp/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2035年の未来シナリオ",
+    "url": "https://www.yokogawa.co.jp/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2040年の未来シナリオ",
+    "url": "https://www.yokogawa.co.jp/about/operation/",
+    "pass": 1
+   },
+   {
+    "quote": "2035年の未来シナリオ",
+    "url": "https://www.yokogawa.co.jp/about/operation/",
+    "pass": 1
+   },
+   {
+    "quote": "2040年の未来シナリオ",
+    "url": "https://www.yokogawa.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "2035年の未来シナリオ",
+    "url": "https://www.yokogawa.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "2040年の未来シナリオ",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/wireless-pressure-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "2035年の未来シナリオ",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/wireless-pressure-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "2040年の未来シナリオ",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/wireless-temperature-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "2035年の未来シナリオ",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/wireless-temperature-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "2040年の未来シナリオ",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/wireless-vibration-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "2035年の未来シナリオ",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/wireless-vibration-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "2040年の未来シナリオ",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/wireless-steamtrapmonitoring-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "2035年の未来シナリオ",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/wireless-steamtrapmonitoring-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "2040年の未来シナリオ",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/4ch-wireless-vibration-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "2035年の未来シナリオ",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/4ch-wireless-vibration-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年10月30日",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/4ch-wireless-vibration-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "2040年の未来シナリオ",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/eco/derms-solution/derms-business-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "2035年の未来シナリオ",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/eco/derms-solution/derms-business-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "2050年カーボンニュートラルの達成に向け、今後再生可能エネルギー（以下、再エネ）のさらなる導入拡大が求められるなか、電力のピークシフトや再エネの出力変動に対する安定化対策として、電力貯蔵システム（Energy Storage System：ESS）の活用が期待されています",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/eco/derms-solution/derms-business-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "2040年の未来シナリオ",
+    "url": "https://www.yokogawa.co.jp/library/resources/white-papers/yokogawa-security-advisory-report-list/",
+    "pass": 1
+   },
+   {
+    "quote": "2035年の未来シナリオ",
+    "url": "https://www.yokogawa.co.jp/library/resources/white-papers/yokogawa-security-advisory-report-list/",
+    "pass": 1
+   },
+   {
+    "quote": "2040年の未来シナリオ",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/oprex-connected-intelligence/oprex-data-model-broker/",
+    "pass": 1
+   },
+   {
+    "quote": "2035年の未来シナリオ",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/oprex-connected-intelligence/oprex-data-model-broker/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年9月22日",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/oprex-connected-intelligence/oprex-data-model-broker/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年7月7日",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/oprex-connected-intelligence/oprex-data-model-broker/",
+    "pass": 1
+   },
+   {
+    "quote": "2040年の未来シナリオ",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/oprex-enterprise-management/servair/",
+    "pass": 1
+   },
+   {
+    "quote": "2035年の未来シナリオ",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/oprex-enterprise-management/servair/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年1月19日",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/oprex-enterprise-management/servair/",
+    "pass": 1
+   },
+   {
+    "quote": "2040年の未来シナリオ",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/ssd/obs/",
+    "pass": 1
+   },
+   {
+    "quote": "2035年の未来シナリオ",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/ssd/obs/",
+    "pass": 1
+   },
+   {
+    "quote": "2040年の未来シナリオ",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/energy-sys/derms-business-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "2035年の未来シナリオ",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/energy-sys/derms-business-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "2050年カーボンニュートラルの達成に向け、今後再生可能エネルギー（以下、再エネ）のさらなる導入拡大が求められるなか、電力のピークシフトや再エネの出力変動に対する安定化対策として、電力貯蔵システム（Energy Storage System：ESS）の活用が期待されています",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/energy-sys/derms-business-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "2040年の未来シナリオ",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/data-acquisition-products/920mhz-wireless-smart920/",
+    "pass": 1
+   },
+   {
+    "quote": "2035年の未来シナリオ",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/data-acquisition-products/920mhz-wireless-smart920/",
+    "pass": 1
+   },
+   {
+    "quote": "2040年の未来シナリオ",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/data-acquisition-products/solutions-for-environmental-monitoring-system/",
+    "pass": 1
+   },
+   {
+    "quote": "2035年の未来シナリオ",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/data-acquisition-products/solutions-for-environmental-monitoring-system/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年10月23日",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/data-acquisition-products/solutions-for-environmental-monitoring-system/",
+    "pass": 1
+   },
+   {
+    "quote": "2040年の未来シナリオ",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/field-instruments-products/field-wireless/",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "投資に関する決定は利用者ご自身の判断において行われるようお願いいたします",
+    "url": "https://www.yokogawa.co.jp/about/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "投資に関する決定は利用者ご自身の判断において行われるようお願いします",
+    "url": "https://www.yokogawa.co.jp/about/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちのビジョンは、お客様のビジョンを実現するベストパートナーになることです",
+    "url": "https://www.yokogawa.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の困りごと：",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/4ch-wireless-vibration-sushisensor/",
+    "pass": 1
+   },
+   {
+    "quote": "また、蓄電池システム向けエネルギーマネジメントシステム（以下、Battery-EMS）やリチウムイオン蓄電池診断サービスとの連携により、再エネ電力を最大限活用することで 電力料金やCO2排出量削減はもとより、お客様の製品価値・企業価値向上やカーボンネガティブの実現に貢献します",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/eco/derms-solution/derms-business-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様がESSを運用する際には、契約電力を超えない運用を行うことや、余剰電力の有効活用を行う充放電制御で自給率の向上を行う運用が重要になってきます",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/eco/derms-solution/derms-business-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに弊社のBattery-EMSと組み合わせることで、需要の変化や気象予測と実際の天候が合わず必要な充放電量が変わったとしても電力契約を順守しつつESSの残量を確保しながら、お客様の運用したい目的に応じた充放電制御を行うことが可能です",
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/eco/derms-solution/derms-business-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様は、これまで手作業で行っていた業務を省力化し、ヒューマンエラーの低減による作業品質の向上・均一化を図ることができ、プラントエンジニアリングにおけるデジタライゼーションを進めることができます",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/oprex-connected-intelligence/oprex-data-model-broker/",
+    "pass": 1
+   },
+   {
+    "quote": "YOKOGAWAの保守サービス業務のノウハウと、様々なお客様で培われたアフターサービス向けの業務プロセスを実装し、顧客の声を素早くフィードバックし、日々進化しているパッケージです",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/oprex-enterprise-management/servair/",
+    "pass": 1
+   },
+   {
+    "quote": "ServAirは、様々な業種のお客様のアフターサービス業務をサポートしてきた実績に基づき、実際の利用シーンに則した利便性の高い機能を取り揃えています",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/oprex-enterprise-management/servair/",
+    "pass": 1
+   },
+   {
+    "quote": "ServAirは、オンプレミスやIaaSをご利用のお客様向けとなります",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/oprex-enterprise-management/servair/",
+    "pass": 1
+   },
+   {
+    "quote": "ServAir は、主に以下のアフターサービス業務を取り扱う企業様をはじめ、業界を問わず納入品または事業用設備などに対して、点検・保守・保全といったアフターサービス業務が必要となるお客様に広く活用できます",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/oprex-enterprise-management/servair/",
+    "pass": 1
+   },
+   {
+    "quote": "自社製品を納入・購入したお客様と、カスタマーポータル上で直接コミュニケーションをとることができるようになり、顧客満足度の向上に繋げることができます",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/oprex-enterprise-management/servair/",
+    "pass": 1
+   },
+   {
+    "quote": "出張修理に代表されるフィールドサービスは、お客様からのコール受付、作業計画の立案および実施部署・人員の最適なアサイン、各種報告書作成など、フィールドサービス全体の作業工程を効率良く管理できる機能です",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/oprex-enterprise-management/servair/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、製品毎の故障原因・対処方法といったサービス実績に基づく傾向分析から、顧客に対する新サービスメニュー提供や予防保守提案など新たな営業機械の創出が可能となります",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/oprex-enterprise-management/servair/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客価値向上",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/oprex-enterprise-management/servair/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス品質向上と迅速な対応を促進し、顧客価値向上の実現を支援します",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/oprex-enterprise-management/servair/",
+    "pass": 1
+   },
+   {
+    "quote": "低エネルギー領域から高エネルギー領域まで、お客様の幅広いご要望に対応できる唯一の電子線照射装置のメーカーとして、日本はもとより世界のニーズに対応しています",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/oprex-enterprise-management/servair/",
+    "pass": 1
+   },
+   {
+    "quote": "日本電子株式会社様は、最先端の理科学計測機器、半導体関連機器、産業機器、医用機器等の製品やサービスを通じ、お客様、並びに市場の求めるトータルソリューションを提供するとともに、持続的発展可能な循環型社会の実現に貢献しています",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/oprex-enterprise-management/servair/",
+    "pass": 1
+   },
+   {
+    "quote": "既存システム基盤のサポート終了を契機に「Business to Specialist」実現に向け、顧客へ提供するサービスを拡充する仕組みとしてServAirを導入していただきました",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/oprex-enterprise-management/servair/",
+    "pass": 1
+   },
+   {
+    "quote": "デジタルカメラをはじめとする映像機器をお使いのお客様に対して、従来のアフターサービスの枠から一歩お客様へ歩み寄り、 常に安心して機器をご使用いただくための「メンテナンスサービス」の強化を支援するシステム基盤として、ServAirを導入していただき、当初の予定通りにカットオーバーしました",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/oprex-enterprise-management/servair/",
+    "pass": 1
+   },
+   {
+    "quote": "グローバルな顧客情報の一元管理とサービス業務支援の仕組みとして、ServAir の導入を展開中です",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/oprex-enterprise-management/servair/",
+    "pass": 1
+   },
+   {
+    "quote": "～お客様のアフターサービスビジネスによる収益拡大に貢献～",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/oprex-enterprise-management/servair/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は単にシステムを提供するだけでなく、お客様ご担当の立場に立ち、かつ第三者の視点から業務効率のアップを推進します",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/ssd/obs/",
+    "pass": 1
+   },
+   {
+    "quote": "製造ラインの垂直立上に向けて、SEMI Standard（200mm、300mm仕様含む）を熟知したエンジニアが、お客様に付加価値の高いサービスを提供いたします",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/ssd/obs/",
+    "pass": 1
+   },
+   {
+    "quote": "製造ラインの垂直立上に向けて、SEMI Standard（200 mm、300 mm仕様含む）を熟知したエンジニアがお客様に付加価値の高いサービスを提供いたします",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/ssd/obs/",
+    "pass": 1
+   },
+   {
+    "quote": "同時に半導体・FPD業界動向を踏まえた設備オンラインの提案をお客様に行います",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/ssd/obs/",
+    "pass": 1
+   },
+   {
+    "quote": "※1 弊社の SECS/HSMS 通信シミュレーター（BrainArTEST）をご使用のお客様の場合、自動テストデータ作成支援も実施します",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/ssd/obs/",
+    "pass": 1
+   },
+   {
+    "quote": "ホスト、および装置に対し通信仕様の変更が必要な場合は、お客様のご担当者様へ確認し、ホストメーカー様、もしくは装置メーカー様へ通信仕様の変更要求事項を提出します",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/ssd/obs/",
+    "pass": 1
+   },
+   {
+    "quote": "改善要望につきまして、定例ミーティングにて実施可否をお客様ご担当者様に判定して頂き、 実施する場合には、フェーズ1（フェーズ2）からの作業を実施します",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/ssd/obs/",
+    "pass": 1
+   },
+   {
+    "quote": "単にシステムを提供するだけでなく、お客様ご担当の立場に立ち、かつ第三者の視点から業務効率のアップを推進します",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/ssd/obs/",
+    "pass": 1
+   },
+   {
+    "quote": "また、蓄電池システム向けエネルギーマネジメントシステム（以下、Battery-EMS）やリチウムイオン蓄電池診断サービスとの連携により、再エネ電力を最大限活用することで 電力料金やCO2排出量削減はもとより、お客様の製品価値・企業価値向上やカーボンネガティブの実現に貢献します",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/energy-sys/derms-business-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様がESSを運用する際には、契約電力を超えない運用を行うことや、余剰電力の有効活用を行う充放電制御で自給率の向上を行う運用が重要になってきます",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/energy-sys/derms-business-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに弊社のBattery-EMSと組み合わせることで、需要の変化や気象予測と実際の天候が合わず必要な充放電量が変わったとしても電力契約を順守しつつESSの残量を確保しながら、お客様の運用したい目的に応じた充放電制御を行うことが可能です",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/energy-sys/derms-business-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "※ドキュメントはMS-Word形式の為、お客様による編集作業が可能です",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/data-acquisition-products/920mhz-wireless-smart920/",
+    "pass": 1
+   },
+   {
+    "quote": "また、お客様による入力校正が可能です",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/data-acquisition-products/920mhz-wireless-smart920/",
+    "pass": 1
+   },
+   {
+    "quote": "国内外同時発売となったOpreX EMSは、規制対応や業務上のリスク分散、ユーザビリティの高さなど顧客ニーズに立脚したものであるが、その開発経緯や特長を担当者に聞くと、同社が掲げる 事業ビジョンに合致した新たなソリューションであることがうかがえた",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/data-acquisition-products/920mhz-wireless-smart920/",
+    "pass": 1
+   },
+   {
+    "quote": "SMART 920 無線通信設定ソフトウェア ユーザーズマニュアル",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/data-acquisition-products/920mhz-wireless-smart920/",
+    "pass": 1
+   },
+   {
+    "quote": "Model GX70SM 無線入力ユニット ユーザーズマニュアル",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/data-acquisition-products/920mhz-wireless-smart920/",
+    "pass": 1
+   },
+   {
+    "quote": "Model GX20/GP20/GM10、UT52A/UT32A、UPM100 920MHz 無線通信、保守コンソールソフトウェア ユーザーズマニュアル",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/data-acquisition-products/920mhz-wireless-smart920/",
+    "pass": 1
+   },
+   {
+    "quote": "SMART 920 アンテナ設置 ユーザーズマニュアル",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/data-acquisition-products/920mhz-wireless-smart920/",
+    "pass": 1
+   },
+   {
+    "quote": "SMARTDAC+ スタンダード ハードウェア設定 ユーザーズマニュアル",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/data-acquisition-products/920mhz-wireless-smart920/",
+    "pass": 1
+   },
+   {
+    "quote": "SMARTDAC+ スタンダード ユニバーサルビューア ユーザーズマニュアル",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/data-acquisition-products/920mhz-wireless-smart920/",
+    "pass": 1
+   },
+   {
+    "quote": "環境モニタリングシステムを用いた製造環境と設備のリアルタイム監視 ～データ活用で高品質な医薬品をお客様に届ける千寿製薬株式会社様～",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/data-acquisition-products/solutions-for-environmental-monitoring-system/",
+    "pass": 1
+   },
+   {
+    "quote": "国内外同時発売となったOpreX EMSは、規制対応や業務上のリスク分散、ユーザビリティの高さなど顧客ニーズに立脚したものであるが、その開発経緯や特長を担当者に聞くと、同社が掲げる 事業ビジョンに合致した新たなソリューションであることがうかがえた",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/data-acquisition-products/solutions-for-environmental-monitoring-system/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のニーズに合致するネットワークを構築することができます",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/field-instruments-products/field-wireless/",
+    "pass": 1
+   },
+   {
+    "quote": "豊富な横河製品の中から、お客様の仕様に沿った最適な製品をお選びいただけます",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/field-instruments-products/field-wireless/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、ISA100.11aに準拠した無線通信技術をプラントのどこでも適用できる環境を表す「Wireless Anywhere」のコンセプトに基づき、すでにお客様に提供している「プラントワイドフィールド無線」を中核システムに据えて、プラントのあらゆる箇所で適用する環境を提供し、ISA100.11aの無線通信技術を広く普及させるために3つの施策を展開します",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/field-instruments-products/field-wireless/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様が必要とする無線デバイスソリューションを適切なタイミングで提供するため、無線フィールド機器（デバイス）を構成する実装要素技術のコンポーネント化を行います",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/field-instruments-products/field-wireless/",
+    "pass": 1
+   },
+   {
+    "quote": "今後は多種多様なセンサをお客様に提供し、導入可能な無線アプリケーションの種類を増やすため，センサメーカ各社に対し、上記 1項のコンポーネント化した実装要素技術を提供し、ISA100.11a通信規格に対応した無線センサの開発を支援することを提案していきます",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/field-instruments-products/field-wireless/",
+    "pass": 1
+   },
+   {
+    "quote": "Yokogawaは無線技術と既存の有線技術を活用してフィールド機器を有機的に統合する新しいフィールド・デジタル・ネットワークを提案し、お客様の生産性向上に貢献します",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/field-instruments-products/field-wireless/",
+    "pass": 1
+   },
+   {
+    "quote": "このように、\"フィールド・デジタル\"を活用してプラント操業の全体最適化を支援し、生産プロセスの「現場」の高度情報化と多様化にシームレスに対応する「Wireless Anywhere」を新たなコンセプトとして提唱し，理想のプラント操業を実現するために長期的発展に寄与できるパートナーとしてお客様と共に未来をデザインしていきます",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/field-instruments-products/field-wireless/",
+    "pass": 1
+   },
+   {
+    "quote": "そして、それぞれのお客様の進化と成長を実現するため、自らも進化してその時々に求められる最適なソリューションを提供し続けるという意味をから、「成長=Grow」をコンセプトとしています",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/field-instruments-products/field-wireless/",
+    "pass": 1
+   },
+   {
+    "quote": "その体験と、多くのお客様からの情報を蓄積し、それを次の開発に活かしました",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/field-instruments-products/field-wireless/",
+    "pass": 1
+   },
+   {
+    "quote": "「見える化」が生み出す価値 ～全員参加の操業効率向上で、医と食の分野のお客様にむけた製品を安定供給する協和発酵バイオ株式会社様～",
+    "url": "https://www.yokogawa.co.jp/library/resources/references/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様と共創したField Assistantが、プラントの保全業務を革新",
+    "url": "https://www.yokogawa.co.jp/library/resources/references/",
+    "pass": 1
+   },
+   {
+    "quote": "プラントオペレーションを最適化するためにお客様が使用している幅広い横河ソリューションについてご覧ください",
+    "url": "https://www.yokogawa.co.jp/library/resources/application-notes/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客主義、現場主義を貫く",
+    "url": "https://special.nikkeibp.co.jp/atclh/ONB/26/yokogawa0227/",
+    "pass": 3
+   },
+   {
+    "quote": "言語や文化の違いによる苦労も多々ありましたが、「当社はお客様にどんな価値を提供できるのか」という1点においては、分かり合うことができたのです",
+    "url": "https://special.nikkeibp.co.jp/atclh/ONB/26/yokogawa0227/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客価値の追求は共通言語であることを、海外経験で身を持って実感しました",
+    "url": "https://special.nikkeibp.co.jp/atclh/ONB/26/yokogawa0227/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "ServAir は、出張修理・定期点検・引取修理といったアフターサービス業務から、販売・購買・在庫管理に至る基幹業務までを一貫してサポートするアフターサービス基幹業務パッケージです",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/oprex-enterprise-management/servair/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス部品の在庫照会、倉庫間の移動、棚卸といった在庫管理機能を提供します",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/oprex-enterprise-management/servair/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス業務と連動した在庫引当・入出庫処理や未使用部品の戻入処理等を行うことができます",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/oprex-enterprise-management/servair/",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、ブランド力及び競争優位性をさらに高めることができます",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/oprex-enterprise-management/servair/",
+    "pass": 1
+   },
+   {
+    "quote": "〝はかる・みる・つなぐ”、独自の強みを活かした 事業展開から生まれた新製品 YOKOGAWAが提供する環境モニタリングシステム",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/data-acquisition-products/920mhz-wireless-smart920/",
+    "pass": 1
+   },
+   {
+    "quote": "〝はかる・みる・つなぐ”、独自の強みを活かした 事業展開から生まれた新製品 YOKOGAWAが提供する環境モニタリングシステム",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/data-acquisition-products/solutions-for-environmental-monitoring-system/",
+    "pass": 1
+   },
+   {
+    "quote": "従来の小規模なフィールド無線システムは、たとえば、タンクヤードや排水設備エリア等比較的見通しのよい特定エリアへの補完的な導入が主であったため、在庫管理の効率化、人員による巡回の効率化、環境計測の自動化等の限定的な作業効率改善と部分的な配線コストの削減が中心でした",
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/field-instruments-products/field-wireless/",
+    "pass": 1
+   },
+   {
+    "quote": "OT（オペレーショナルテクノロジー）領域のデータ計測と生産制御を強みとし、売り上げ5,624億円のうち9割超が制御事業、海外比率は約7割です",
+    "url": "https://special.nikkeibp.co.jp/atclh/ONB/26/yokogawa0227/",
+    "pass": 3
+   },
+   {
+    "quote": "DXで各国の営業、生産、物流とエンジニアリングを1つのシステムでつなぎ、キャッシュフロー改善や納期回答の精度向上などサプライチェーンを全体最適化していることが当社の大きな強みです",
+    "url": "https://special.nikkeibp.co.jp/atclh/ONB/26/yokogawa0227/",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、当社の強みの一つである「測る」技術は、深海から宇宙まで幅広い領域で活用されています",
+    "url": "https://special.nikkeibp.co.jp/atclh/ONB/26/yokogawa0227/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "中期経営計画 | 横河電機 — 中期経営計画 | 横河電機 横河電機 https://www.yokogawa.co.jp > about > corporate-strategy",
+    "url": "https://www.yokogawa.co.jp/about/yokogawa/company-overview/corporate-strategy/",
+    "pass": 3
+   },
+   {
+    "quote": "中期経営計画資料 | 横河電機 — 中期経営計画資料 | 横河電機 横河電機 https://www.yokogawa.co.jp > mid-term-business-plan",
+    "url": "https://www.yokogawa.co.jp/about/ir/shiryo/mid-term-business-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "横河電機 — 横河電機 横河電機 https://www.yokogawa.co.jp",
+    "url": "https://www.yokogawa.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "売上1兆円に向け成果を出す5年へ、 横河電機 ・奈良寿社長が ... — 売上1兆円に向け成果を出す5年へ、 横河電機 ・奈良寿社長が ... JBpress https://jbpress.ismedia.jp > 特集一覧 > 我が社の戦略",
+    "url": "https://jbpress.ismedia.jp/articles/-/81732",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 資料 ・決算短信 | 横河電機 — 決算説明 会 資料 ・決算短信 | 横河電機 横河電機 https://www.yokogawa.co.jp > about > shiryo > kessan",
+    "url": "https://www.yokogawa.co.jp/about/ir/shiryo/kessan/",
+    "pass": 3
+   },
+   {
+    "quote": "IR 資料 室 | 横河電機 — IR 資料 室 | 横河電機 横河電機 https://www.yokogawa.co.jp > about > shiryo",
+    "url": "https://www.yokogawa.co.jp/about/ir/shiryo/",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家情報 (IR) | 横河電機 — 株主・投資家情報 (IR) | 横河電機 横河電機 https://www.yokogawa.co.jp > about",
+    "url": "https://www.yokogawa.co.jp/about/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "【 横河電機 】[6841]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 横河電機 】[6841]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=6841",
+    "pass": 3
+   },
+   {
+    "quote": "2025 IRニュース・開示情報 | YOKOGAWA - 横河電機 — 2025 IRニュース・開示情報 | YOKOGAWA - 横河電機 横河電機 https://www.yokogawa.co.jp > news",
+    "url": "https://www.yokogawa.co.jp/news/ir/2025/",
+    "pass": 3
+   },
+   {
+    "quote": "組織図 | 横河電機 — 組織図 | 横河電機 横河電機 https://www.yokogawa.co.jp > about > our-organization",
+    "url": "https://www.yokogawa.co.jp/about/yokogawa/company-overview/our-organization/",
+    "pass": 3
+   },
+   {
+    "quote": "横河電機 について — 横河電機 について 横河電機 https://www.yokogawa.co.jp > about > yokogawa",
+    "url": "https://www.yokogawa.co.jp/about/yokogawa/",
+    "pass": 3
+   },
+   {
+    "quote": "企業概要 | 横河電機 — 企業概要 | 横河電機 横河電機 https://www.yokogawa.co.jp > about > company-overview",
+    "url": "https://www.yokogawa.co.jp/about/yokogawa/company-overview/",
+    "pass": 3
+   },
+   {
+    "quote": "TOPに訊く 横河電機 取締役 代表執行役 社長 重野邦正 氏 — TOPに訊く 横河電機 取締役 代表執行役 社長 重野邦正 氏 日経BP Special https://special.nikkeibp.co.jp > ONB > yokogawa0227",
+    "url": "https://special.nikkeibp.co.jp/atclh/ONB/26/yokogawa0227/",
+    "pass": 3
+   },
+   {
+    "quote": "ご挨拶 | 横河電機 — ご挨拶 | 横河電機 横河電機 https://www.yokogawa.co.jp > about > corporate-message",
+    "url": "https://www.yokogawa.co.jp/about/yokogawa/company-overview/corporate-message/",
+    "pass": 3
+   },
+   {
+    "quote": "役員一覧 | 横河電機 — 役員一覧 | 横河電機 横河電機 https://www.yokogawa.co.jp > governance-ja > board-ja",
+    "url": "https://www.yokogawa.co.jp/about/ir/governance-ja/board-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "横河電機 の新 社長 に重野常務 4月1日付で就任 | 電波新聞デジタル — 横河電機 の新 社長 に重野常務 4月1日付で就任 | 電波新聞デジタル 電波新聞デジタル https://dempa-digital.com > article",
+    "url": "https://dempa-digital.com/article/625467",
+    "pass": 3
+   },
+   {
+    "quote": "トップメッセージ | 横河電機 — トップメッセージ | 横河電機 横河電機 https://www.yokogawa.co.jp > about > keiei > message-ja",
+    "url": "https://www.yokogawa.co.jp/about/ir/keiei/message-ja/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.yokogawa.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yokogawa.co.jp/about/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yokogawa.co.jp/about/careers-j/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yokogawa.co.jp/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yokogawa.co.jp/about/operation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yokogawa.co.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/wireless-pressure-sushisensor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/wireless-temperature-sushisensor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/wireless-vibration-sushisensor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/wireless-steamtrapmonitoring-sushisensor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/maintenance/sushi-sensor-j/4ch-wireless-vibration-sushisensor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yokogawa.co.jp/solutions/solutions/eco/derms-solution/derms-business-solution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yokogawa.co.jp/library/resources/white-papers/yokogawa-security-advisory-report-list/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/oprex-connected-intelligence/oprex-data-model-broker/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/oprex-enterprise-management/servair/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/ssd/obs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/information/energy-sys/derms-business-solution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/data-acquisition-products/920mhz-wireless-smart920/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/data-acquisition-products/solutions-for-environmental-monitoring-system/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/field-instruments-products/field-wireless/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yokogawa.co.jp/solutions/products-and-services/measurement/analyzers/environmental-analyzers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yokogawa.co.jp/library/search/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yokogawa.co.jp/library/resources/references/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yokogawa.co.jp/library/resources/application-notes/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yokogawa.co.jp/library/resources/faqs/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn-nc.yokogawa.com/19/20485/details/bg_top_mid-term-business-plan_2024.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn-nc.yokogawa.com/19/20485/details/business-briefing.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://web-material3.yokogawa.com/19/31386/files/OpreX_Data%20Model_Broker.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://web-material3.yokogawa.com/19/11485/tabs/Online-Business-Service.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://special.nikkeibp.co.jp/atclh/ONB/26/yokogawa0227/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "横河電機",
+   "results": [
+    "https://www.yokogawa.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E6%A8%AA%E6%B2%B3%E9%9B%BB%E6%A9%9F",
+    "https://www.yokogawa.com/",
+    "https://www.nikkei.com/nkd/company/?scode=6841",
+    "https://job.mynavi.jp/28/pc/search/corp201/outline.html",
+    "https://ja.wikipedia.org/wiki/横河電機",
+    "https://www.yokogawa.co.jp/about/yokogawa/company-overview/",
+    "https://finance.yahoo.co.jp/quote/6841.T",
+    "https://www.yaskawa-global.com/",
+    "https://www.yokogawa.com/about/"
+   ]
+  },
+  {
+   "query": "横河電機 ビジネスモデル",
+   "results": [
+    "https://www.yokogawa.co.jp/about/yokogawa/company-overview/corporate-strategy/",
+    "https://www.yokogawa.co.jp/about/ir/shiryo/mid-term-business-plan/",
+    "https://cdn-nc.yokogawa.com/19/20727/tabs/ir_2025yreports.pdf",
+    "https://www.yokogawa.co.jp/",
+    "https://jbpress.ismedia.jp/articles/-/81732",
+    "https://www.yokogawa.co.jp/about/yokogawa/company-overview/general-information/",
+    "https://www.abeam.com/kr/ja/case_study/cs098/",
+    "https://www.talent-book.jp/yokogawa",
+    "https://www.yokogawa.co.jp/about/ir/kojin/mtbp/",
+    "https://ja.wikipedia.org/wiki/横河電機"
+   ]
+  },
+  {
+   "query": "横河電機 決算説明資料",
+   "results": [
+    "https://www.yokogawa.co.jp/about/ir/shiryo/kessan/",
+    "https://www.yokogawa.co.jp/about/ir/shiryo/",
+    "https://www.yokogawa.co.jp/about/ir/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=6841",
+    "https://www.yokogawa.co.jp/news/ir/2025/",
+    "https://cdn-nc.yokogawa.com/19/20731/tabs/ir_200903presentation-2q.pdf",
+    "https://www.ybhd.co.jp/ir/results-briefing/",
+    "https://www.yokogawa.co.jp/about/ir/shiryo/business-briefing-ja/",
+    "https://www.yokogawa.co.jp/news/ir/2026/",
+    "https://irbank.net/6841/ir"
+   ]
+  },
+  {
+   "query": "横河電機 事業系統図",
+   "results": [
+    "https://www.yokogawa.co.jp/about/yokogawa/company-overview/our-organization/",
+    "https://www.yokogawa.co.jp/about/yokogawa/",
+    "https://www.yokogawa.co.jp/about/yokogawa/company-overview/corporate-strategy/",
+    "https://www.yokogawa.co.jp/about/yokogawa/company-overview/",
+    "https://cdn-nc.yokogawa.com/19/20736/tabs/ir_investors_guide.pdf",
+    "https://www.yokogawa.co.jp/sitemap/",
+    "https://www.yokogawa.co.jp/about/yokogawa/company-overview/group-operation/operation-group/",
+    "https://www.yokogawa.co.jp/about/yokogawa/company-overview/general-information/",
+    "https://www.yokogawa.co.jp/about/yjp/about-us/company-organization/",
+    "https://ja.wikipedia.org/wiki/横河電機"
+   ]
+  },
+  {
+   "query": "横河電機 社長 インタビュー",
+   "results": [
+    "https://special.nikkeibp.co.jp/atclh/ONB/26/yokogawa0227/",
+    "https://www.yokogawa.co.jp/about/yokogawa/company-overview/corporate-message/",
+    "https://www.yokogawa.co.jp/about/ir/governance-ja/board-ja/",
+    "https://dempa-digital.com/article/625467",
+    "https://www.yokogawa.co.jp/about/ir/keiei/message-ja/",
+    "https://www.nikkan.co.jp/articles/view/772580",
+    "https://www.yokogawa.co.jp/about/ir/governance-ja/board-ja/board_detail-ja/",
+    "https://www.talent-book.jp/yokogawa/stories/55241",
+    "https://ja.wikipedia.org/wiki/美川英二",
+    "https://plus.jmca.jp/kusunokiken/keieichi047.html"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式25頁／PDF・画像4件／外部1頁・検索5回）",
+  "従業員数": "記載なし（3回確認済み：公式25頁／PDF・画像4件／外部1頁・検索5回）",
+  "事業内容": "記載なし（3回確認済み：公式25頁／PDF・画像4件／外部1頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像4件／外部1頁・検索5回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式25頁／PDF・画像4件／外部1頁・検索5回）"
+ }
+}

@@ -1,0 +1,1533 @@
+{
+ "name": "鎌倉新書",
+ "aliases": [],
+ "context": "証券コード6184／サービス業／プライム（内国株式）／2026.01期 売上高8,336百万円 営業利益率13.9%",
+ "researched_at": "2026-11-02T19:16:50.679962+00:00",
+ "official_url": "https://www.kamakura-net.co.jp/",
+ "identified_by": "search:yahoo_jp:鎌倉新書",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1984年(昭和59年)4月17日",
+    "url": "https://www.kamakura-net.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "設立年月日",
+    "value": "1984年4月17日",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6184",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "420名（契約社員、パート、アルバイト含む）（フリーランス、業務委託を除く） ※2026年7月31日現在",
+    "url": "https://www.kamakura-net.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "181 人",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6184",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "主な事業内容",
+    "value": "ITメディア・サービス事業 マッチングプラットフォームとなるポータルサイト運営を中⼼とした、終活に関わる情報サービスの提供 自治体に対する高齢者領域での住民サービスの支援",
+    "url": "https://www.kamakura-net.co.jp/company/profile/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "ユーザーの立ち位置からの課題解決にチャレンジします",
+    "url": "https://www.kamakura-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は、今後も価値のある情報をユーザーの求める方法で提供することから離れることなく事業を成長させ、売上、雇用、利益を拡大させることで社会に貢献していく所存です",
+    "url": "https://www.kamakura-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様視点のサービス創造",
+    "url": "https://www.kamakura-net.co.jp/service/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちはいつもお客様の立場になって、「次に必要になること」を先回りしてサポートし、結果としてさまざまなサービスを創造してきました",
+    "url": "https://www.kamakura-net.co.jp/service/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "自身の介護施設への入居を機に実家の片づけを始めたいと思ったり、両親のご逝去後にはご葬儀の準備や相続手続きを開始したり、お客様の希望や課題は連鎖していきます",
+    "url": "https://www.kamakura-net.co.jp/service/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "「売りたいものを売るのではなく、お客様が欲しいものを売る」",
+    "url": "https://www.kamakura-net.co.jp/service/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちのビジネスモデルである「リボンモデル」は、世の中に数多く存在する事業者の中からお客様の希望を満たせる適切な事業者をおつなぎするものです",
+    "url": "https://www.kamakura-net.co.jp/service/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "この情報の非対称性を解消し、お客様の選択肢を広げることで、お客様が「本当にやりたいこと」、「本当にやるべきこと」にたどり着くお手伝いをすることが、私たちが存在する理由です",
+    "url": "https://www.kamakura-net.co.jp/service/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のサービスをご利用いただいたことがある既往のお客様が、当社のほかのサービスをご利用いただく形態を指して、クロスユースと称しております",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "現状ではクロスユースの拡大を目指し、新システムの導入によりユーザーの購買行動、トレンドを追うことができる環境を構築中です",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "「いいお墓」をはじめとするポータルサイト運営事業の単価は、お墓、相続など、事業ごとに異なり、お客様と当社の提携事業者が成約した後に、当社の提携事業者が当社に支払う手数料です",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "老後資金や相続準備、遺族の生活費など「お金」に関する顧客のお悩みに対して、より深く適切にご提案・解決するために、保険代理店事業に参入します",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗だけでなく当社の様々なサービスにお問い合わせのお客様からのニーズにお応えすべく、努めて参ります",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "葬祭事業におけるリスティング広告の競争激化により、顧客獲得に苦戦しました",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "同社では、ウェルビーイング事業領域における国内トップ規模のシェアを持つＳＯＭＰＯケア株式会社の介護サービス利用者（約8.6万人※1）、およびＳＯＭＰＯひまわり生命保険株式会社の契約件数（約512万件※2）をはじめとした多くのお客さまを対象に、健康・介護・老後資金という3つの不安を解消するために、グループ内外との連携を通じた多様なサービスを展開しております",
+    "url": "https://www.kamakura-net.co.jp/ir/br2026/",
+    "pass": 1
+   },
+   {
+    "quote": "今後、両社の強みを活かして、介護からその先までワンストップで終活関連サービスを提供できる、新たな顧客体験を創造してまいります",
+    "url": "https://www.kamakura-net.co.jp/ir/br2026/",
+    "pass": 1
+   },
+   {
+    "quote": "横浜市では、お亡くなりになられた方のご遺族の負担軽減を図るため、2024年1月から鶴見区と瀬谷区で当社が運営する「お悔やみ窓口」を試行的に設置し、利用者から「手続きに何倍もの時間がかかるところを本当に助かった」「寄り添ってもらえて精神的に安心して進められた」といった声が寄せられ、同市全区役所への設置が決定し、2025年12月に設置が完了いたしました",
+    "url": "https://www.kamakura-net.co.jp/ir/br2026/",
+    "pass": 1
+   },
+   {
+    "quote": "各サービスを単独で提供するのではなく、ユーザーの最適なタイミングで一貫したサポートができるようになる―これにより、1回の集客コストで複数のサービスを提供することが可能になり、収益性が大幅に向上します",
+    "url": "https://www.kamakura-net.co.jp/ir/br2025/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では年間約20万人のユーザーにサービスをご利用いただいております",
+    "url": "https://www.kamakura-net.co.jp/ir/br2025/",
+    "pass": 1
+   },
+   {
+    "quote": "この膨大なデータを有効に活用することで、一人のユーザーにより多くのサービスをご利用いただくことができる（クロスユース）ものと考えています",
+    "url": "https://www.kamakura-net.co.jp/ir/br2025/",
+    "pass": 1
+   },
+   {
+    "quote": "（システムリプレイスメントの完了による顧客データの統一、相性が良い領域からのアプローチ）",
+    "url": "https://www.kamakura-net.co.jp/ir/br2025/",
+    "pass": 1
+   },
+   {
+    "quote": "システムリプレイスメントの完了により、顧客データが整備されました",
+    "url": "https://www.kamakura-net.co.jp/ir/br2025/",
+    "pass": 1
+   },
+   {
+    "quote": "例えば「葬儀」から「相続・お墓」といったサービス利用の流れをスムーズにすることで、顧客の利便性向上と収益性の強化を目指しています",
+    "url": "https://www.kamakura-net.co.jp/ir/br2025/",
+    "pass": 1
+   },
+   {
+    "quote": "また、顧客データの蓄積およびその精度を高めることで、ユーザーのニーズを分析し、サービスのクロスユース（複数利用）を図ります",
+    "url": "https://www.kamakura-net.co.jp/ir/br2025/",
+    "pass": 1
+   },
+   {
+    "quote": "そのために、ユーザーのライフイベントに合わせて、適切なタイミングでの情報発信につとめてまいります",
+    "url": "https://www.kamakura-net.co.jp/ir/br2025/",
+    "pass": 1
+   },
+   {
+    "quote": "これにより顧客接点の拡充、そして顧客の潜在的なニーズを捉え、多角的なサービスの提供を目指します",
+    "url": "https://www.kamakura-net.co.jp/ir/br2025/",
+    "pass": 1
+   },
+   {
+    "quote": "わたしたちは、お客さま、お取引先の皆さま、株主や投資家の皆さま、地域や社会の皆さま、公的機関",
+    "url": "https://www.kamakura-net.co.jp/assets/pdf/ir/impact_report_2026_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "者の⽴場からであり、ユーザー⾃⾝の判断が",
+    "url": "https://www.kamakura-net.co.jp/assets/pdf/ir/impact_report_2026_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ユーザー(お客様)",
+    "url": "https://www.kamakura-net.co.jp/assets/pdf/ir/impact_report_2026_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様を紹介",
+    "url": "https://www.kamakura-net.co.jp/assets/pdf/ir/impact_report_2026_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客接点を増やしたい",
+    "url": "https://www.kamakura-net.co.jp/assets/pdf/ir/impact_report_2026_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様センター",
+    "url": "https://www.kamakura-net.co.jp/assets/pdf/ir/impact_report_2026_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客に寄り添う",
+    "url": "https://www.kamakura-net.co.jp/assets/pdf/ir/impact_report_2026_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "潜在顧客の顕在化",
+    "url": "https://www.kamakura-net.co.jp/assets/pdf/ir/impact_report_2026_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客に選ばれるため",
+    "url": "https://www.kamakura-net.co.jp/assets/pdf/ir/impact_report_2026_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様の効果的で最適な判断の⽀援に向けて、包括的なアプローチで取り組む",
+    "url": "https://www.kamakura-net.co.jp/assets/pdf/ir/impact_report_2026_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "①わかりやすい情報提供 ②お客様に寄り添うサービス提供 ③⾃治体と連携した社会課題の解決",
+    "url": "https://www.kamakura-net.co.jp/assets/pdf/ir/impact_report_2026_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● 終活相談を通じて、お客様の事情に沿ったソリューションを提案",
+    "url": "https://www.kamakura-net.co.jp/assets/pdf/ir/impact_report_2026_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● 単⼀プロダクトの利⽤での完結でなく、派⽣しやすい顧客ニーズに触れる",
+    "url": "https://www.kamakura-net.co.jp/assets/pdf/ir/impact_report_2026_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● 各事業の顧客データを統合管理し、⾏動履歴から発⽣し得るニーズを推測",
+    "url": "https://www.kamakura-net.co.jp/assets/pdf/ir/impact_report_2026_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● お客様の⼼情に寄り添う相談窓⼝",
+    "url": "https://www.kamakura-net.co.jp/assets/pdf/ir/impact_report_2026_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "経験豊富な終活相談員が、お客様の状況に鑑みた提案を実施",
+    "url": "https://www.kamakura-net.co.jp/assets/pdf/ir/impact_report_2026_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "そして、お客様の⼈⽣の節⽬をサポートするためには、何よりもまず社員⾃⾝が仕事に対して前向きで充実しており、⼼⾝ともに健康であることが不可",
+    "url": "https://www.kamakura-net.co.jp/assets/pdf/ir/impact_report_2026_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "不当な契約からお客様を守り、早期解決を",
+    "url": "https://www.kamakura-net.co.jp/assets/pdf/ir/impact_report_2026_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "引き続きお客様への誠意あるサービス提供はもちろんのこと、新たなソリューションの開発なども交えな",
+    "url": "https://www.kamakura-net.co.jp/assets/pdf/ir/impact_report_2026_ja.pdf",
+    "pass": 2
+   }
+  ],
+  "何を": [
+   {
+    "quote": "サービス一覧",
+    "url": "https://www.kamakura-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス利用規約",
+    "url": "https://www.kamakura-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "課題解決のための情報やサービスの提供を行うことで社会に貢献してまいります",
+    "url": "https://www.kamakura-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "商品、工場といった有形の資産は極力持たず、",
+    "url": "https://www.kamakura-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "超高齢社会を背景に需要が高まる「終活」に関するさまざまなサービスを提供する株式会社鎌倉新書（東京都中央区、代表取締役社長COO：小林 史生、東証プライム：6184、以下：当社",
+    "url": "https://www.kamakura-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "超高齢社会を背景に需要が高まる「終活」に関するさまざまなサービスを提供する株式会社鎌倉新書（東京都中央区、代表取締役社長COO：小林 史生、東証プライム：61",
+    "url": "https://www.kamakura-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "平素より当社サービスをご利用いただき、誠にありがとうございます",
+    "url": "https://www.kamakura-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "しかし、今日では全体に占める出版の比率はわずかになり、社名こそ変えていませんがIT活用したメディア・サービス中心の企業となっています",
+    "url": "https://www.kamakura-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "今日ではインターネットサービスがわたしたちの事業の中核となっております",
+    "url": "https://www.kamakura-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "このようなわが国の社会構造の中で、多くの方々の課題解決に役立つよう、今後もたゆまぬサービスの向上や新たなサービスの提供を全社一丸となって推進していく所存です",
+    "url": "https://www.kamakura-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://www.kamakura-net.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス利用規約",
+    "url": "https://www.kamakura-net.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "ITメディア・サービス事業",
+    "url": "https://www.kamakura-net.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "マッチングプラットフォームとなるポータルサイト運営を中⼼とした、終活に関わる情報サービスの提供",
+    "url": "https://www.kamakura-net.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "自治体に対する高齢者領域での住民サービスの支援",
+    "url": "https://www.kamakura-net.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://www.kamakura-net.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス利用規約",
+    "url": "https://www.kamakura-net.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "終活紹介サービス",
+    "url": "https://www.kamakura-net.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "おひとりさまのための終活サービス「",
+    "url": "https://www.kamakura-net.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "保険領域におけるサービスの拡充を目的に「",
+    "url": "https://www.kamakura-net.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "介護斡旋事業において対面でのサービス提供の強化を目的に「",
+    "url": "https://www.kamakura-net.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://www.kamakura-net.co.jp/service/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス利用規約",
+    "url": "https://www.kamakura-net.co.jp/service/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "人生に寄り添う終活ワンストップサービス",
+    "url": "https://www.kamakura-net.co.jp/service/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様視点のサービス創造",
+    "url": "https://www.kamakura-net.co.jp/service/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "終活ワンストップサービスの提供を通じて、悔いのない人生を送るお手伝いをします",
+    "url": "https://www.kamakura-net.co.jp/service/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "「終活のことは最初から最後まで鎌倉新書にお願いしたい」と安心して委ねていただけるような、人生に寄り添う終活サービスを提供しています",
+    "url": "https://www.kamakura-net.co.jp/service/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちはいつもお客様の立場になって、「次に必要になること」を先回りしてサポートし、結果としてさまざまなサービスを創造してきました",
+    "url": "https://www.kamakura-net.co.jp/service/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://www.kamakura-net.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス利用規約",
+    "url": "https://www.kamakura-net.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス利用規約",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のサービスをご利用いただいたことがある既往のお客様が、当社のほかのサービスをご利用いただく形態を指して、クロスユースと称しております",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "結果が出始めている部門、サービスもありますが、全事業部門で集計が可能な状態になるのが来2025年度Q1からとなる予定ですので、クロスユースに係る売上、KPIに関するコメントは差し控えます",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "ご指摘の通り、各サービスにおいて競合は存在いたしますが、具体的な企業名につきましてはコメントを差し控えます",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "あしもと増加している(B)は、各自治体の終活に関する行政手続きを、当社のほうで一括受注して、各自治体にブースを設けて当社の社員が地域住民の方々に対して各自治体職員と同様に手続きを行うサービスです",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗だけでなく当社の様々なサービスにお問い合わせのお客様からのニーズにお応えすべく、努めて参ります",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "よってサービスの導入実績が１件増えると、横展開できる可能性が非常に高く、それに伴い利益率は向上できると考えます",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "アセットマネジメント事業につきましても、サービスの特性上１案件始まると付随サービスも連続して利用いただける可能性が高まることより、将来的には利益率20～30%のレンジを目指せると考えております",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "対応策として、サービス強化とオペレーションの改善を実施し、紹介数・成約率の向上に取り組んでまいります",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "しかしながら当社のようにワンストップで様々なサービスを提供できる体制を構築するのは容易なことではないと考えます",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "将来的には自治体事務に関するDX化促進のサービスを多く提供したり、地域住民への終活関連行政サービスの提供を通じてフロー・ストック収入の獲得及び増加を目指しております",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "主な原因として、主力事業のお墓事業において、当社の1Q期間（2月～4月）では、特に北海道や東北等で冬季のお墓の見学等が実施できなくなるなど、営業機会が他の期間に比べて減少します",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "自治体との提携から当社が提供するサービスラインナップへの展開がスムーズにできており、また、サービスの多様化も進展しています",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://www.kamakura-net.co.jp/ir/br2026/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス利用規約",
+    "url": "https://www.kamakura-net.co.jp/ir/br2026/",
+    "pass": 1
+   },
+   {
+    "quote": "中期経営計画の1年目となる2026年1月期は、中期経営計画の達成に向けて、生産性の向上に加え、「クロスユースの強化」「集客チャネルの多様化」「サービスの拡充」に取り組んだ年となりました",
+    "url": "https://www.kamakura-net.co.jp/ir/br2026/",
+    "pass": 1
+   },
+   {
+    "quote": "そして、2025年12月にはＳＯＭＰＯホールディングス株式会社と資本業務提携契約を締結し、今後同社グループのお客さまとそのご家族に当社の終活関連の情報やサービスをご紹介してまいります",
+    "url": "https://www.kamakura-net.co.jp/ir/br2026/",
+    "pass": 1
+   },
+   {
+    "quote": "終活とは、人生の終盤を「良く生きること（＝ウェルビーイング）」であり、こうした観点から同社のウェルビーイング事業領域における大手介護事業者であるＳＯＭＰＯケア株式会社や生命保険会社であるＳＯＭＰＯひまわり生命保険株式会社と連携し、同社グループのお客さまとそのご家族に当社の提供する終活関連サービスを展開してまいります",
+    "url": "https://www.kamakura-net.co.jp/ir/br2026/",
+    "pass": 1
+   },
+   {
+    "quote": "中期経営計画につきましては、“クロスユースの強化” “集客チャネルの多様化” “サービスの拡充”の3つの軸にて施策を実行・推進しております",
+    "url": "https://www.kamakura-net.co.jp/ir/br2026/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は進展するわが国の高齢社会における「終活インフラ」をミッションとして標榜し、葬儀やお墓から相続、介護、地方自治体と協働で行う住民向けサービス、単身世帯向けサービス等、高齢者やそのご家族に向けた情報やサービスの提供を行い、着実な成長を果たしてまいりました",
+    "url": "https://www.kamakura-net.co.jp/ir/br2026/",
+    "pass": 1
+   },
+   {
+    "quote": "同社では、ウェルビーイング事業領域における国内トップ規模のシェアを持つＳＯＭＰＯケア株式会社の介護サービス利用者（約8.6万人※1）、およびＳＯＭＰＯひまわり生命保険株式会社の契約件数（約512万件※2）をはじめとした多くのお客さまを対象に、健康・介護・老後資金という3つの不安を解消するために、グループ内外との連携を通じた多様なサービスを展開しております",
+    "url": "https://www.kamakura-net.co.jp/ir/br2026/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、本提携を通じて、さまざま なライフステージで悩みを抱えている同グループのお客さまを対象に、終活に関する情報提供・相談・紹介等のサービスを展開することで、人生のさまざまな局面で生じる不安や負担の解決に貢献してまいります",
+    "url": "https://www.kamakura-net.co.jp/ir/br2026/",
+    "pass": 1
+   },
+   {
+    "quote": "今後、両社の強みを活かして、介護からその先までワンストップで終活関連サービスを提供できる、新たな顧客体験を創造してまいります",
+    "url": "https://www.kamakura-net.co.jp/ir/br2026/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://www.kamakura-net.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス利用規約",
+    "url": "https://www.kamakura-net.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://www.kamakura-net.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス利用規約",
+    "url": "https://www.kamakura-net.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://www.kamakura-net.co.jp/ir/other/calendar.php",
+    "pass": 1
+   },
+   {
+    "quote": "サービス利用規約",
+    "url": "https://www.kamakura-net.co.jp/ir/other/calendar.php",
+    "pass": 1
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "私たちの強み",
+    "url": "https://www.kamakura-net.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの強み",
+    "url": "https://www.kamakura-net.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの強み",
+    "url": "https://www.kamakura-net.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの強み – 株式会社鎌倉新書",
+    "url": "https://www.kamakura-net.co.jp/service/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの強み",
+    "url": "https://www.kamakura-net.co.jp/service/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "この視点を持ち続けていることが私たちの強みです",
+    "url": "https://www.kamakura-net.co.jp/service/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗も在庫も持たない私たちにとって、「働く仲間」こそが財産です",
+    "url": "https://www.kamakura-net.co.jp/service/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの強み",
+    "url": "https://www.kamakura-net.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの強み",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "他企業による参入障壁は高いでしょうか",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "例えば、お墓、葬祭等、それぞれの事業に対する参入障壁はそこまで高くないかもしれません",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "提携業者数やコールセンターの技術等も鑑み、参入障壁は相応に高いと認識しております",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "成長投資をしっかりと行い参入障壁を高め、将来の大きな成長を目指していきます",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの強み",
+    "url": "https://www.kamakura-net.co.jp/ir/br2026/",
+    "pass": 1
+   },
+   {
+    "quote": "今後、両社の強みを活かして、介護からその先までワンストップで終活関連サービスを提供できる、新たな顧客体験を創造してまいります",
+    "url": "https://www.kamakura-net.co.jp/ir/br2026/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの強み",
+    "url": "https://www.kamakura-net.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの強み",
+    "url": "https://www.kamakura-net.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの強み",
+    "url": "https://www.kamakura-net.co.jp/ir/other/calendar.php",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの強み",
+    "url": "https://www.kamakura-net.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの強み",
+    "url": "https://www.kamakura-net.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの強み",
+    "url": "https://www.kamakura-net.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの強み",
+    "url": "https://www.kamakura-net.co.jp/ir/br2025/",
+    "pass": 1
+   },
+   {
+    "quote": "参入障壁が高そうで高くない鎌倉新書(6184)のビジネスモデル｜ワンさん",
+    "url": "https://note.com/wang_invest/n/na017633f1973",
+    "pass": 3
+   },
+   {
+    "quote": "参入障壁が高そうで高くない鎌倉新書(6184)のビジネスモデル",
+    "url": "https://note.com/wang_invest/n/na017633f1973",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "株式会社鎌倉新書ライフパートナーズ",
+    "url": "https://www.kamakura-net.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社KS不動産パートナーズ",
+    "url": "https://www.kamakura-net.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "終活紹介サービス",
+    "url": "https://www.kamakura-net.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "相続手続きの無料相談と専門家を紹介するポータルサイト「",
+    "url": "https://www.kamakura-net.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "全国の介護施設・老人ホームを紹介する「",
+    "url": "https://www.kamakura-net.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "遺品整理・生前整理・買取の優良業者紹介「",
+    "url": "https://www.kamakura-net.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社鎌倉新書ライフパートナーズ",
+    "url": "https://www.kamakura-net.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社KS不動産パートナーズ",
+    "url": "https://www.kamakura-net.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗も在庫も持たない私たちにとって、「働く仲間」こそが財産です",
+    "url": "https://www.kamakura-net.co.jp/service/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "新しく設立された子会社（総合保険代理店）について、参入経緯や今後の店舗展開等の計画があれば教えてください",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "老後資金や相続準備、遺族の生活費など「お金」に関する顧客のお悩みに対して、より深く適切にご提案・解決するために、保険代理店事業に参入します",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗だけでなく当社の様々なサービスにお問い合わせのお客様からのニーズにお応えすべく、努めて参ります",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "対応策として、サービス強化とオペレーションの改善を実施し、紹介数・成約率の向上に取り組んでまいります",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "相続事業は斡旋事業が堅調であることに加え、新たに開設した「相続一括見積もり」サイトや「弁護士紹介」サイトといった広告モデルも伸びたことが業績に寄与しております",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "そして、2025年12月にはＳＯＭＰＯホールディングス株式会社と資本業務提携契約を締結し、今後同社グループのお客さまとそのご家族に当社の終活関連の情報やサービスをご紹介してまいります",
+    "url": "https://www.kamakura-net.co.jp/ir/br2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年1月期の取り組みの一部をご紹介します",
+    "url": "https://www.kamakura-net.co.jp/ir/br2026/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、本提携を通じて、さまざま なライフステージで悩みを抱えている同グループのお客さまを対象に、終活に関する情報提供・相談・紹介等のサービスを展開することで、人生のさまざまな局面で生じる不安や負担の解決に貢献してまいります",
+    "url": "https://www.kamakura-net.co.jp/ir/br2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年1月期の事業別紹介件数とサイトアクセス数",
+    "url": "https://www.kamakura-net.co.jp/ir/br2025/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年1月期の取り組みの一部をご紹介します",
+    "url": "https://www.kamakura-net.co.jp/ir/br2025/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様を紹介",
+    "url": "https://www.kamakura-net.co.jp/assets/pdf/ir/impact_report_2026_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "パートナー(事業者)",
+    "url": "https://www.kamakura-net.co.jp/assets/pdf/ir/impact_report_2026_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業者を紹介",
+    "url": "https://www.kamakura-net.co.jp/assets/pdf/ir/impact_report_2026_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "終活紹介件数**",
+    "url": "https://www.kamakura-net.co.jp/assets/pdf/ir/impact_report_2026_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "終活紹介‧⽀援では全国の事業者を網羅",
+    "url": "https://www.kamakura-net.co.jp/assets/pdf/ir/impact_report_2026_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "[KPI = 終活紹介件数]",
+    "url": "https://www.kamakura-net.co.jp/assets/pdf/ir/impact_report_2026_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業者の⽐較‧紹介にとどまらず、知識系コンテンツや⼝コミ情報等を含めて情報格差の解消に努めます",
+    "url": "https://www.kamakura-net.co.jp/assets/pdf/ir/impact_report_2026_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● その後、複数の葬儀社を紹介してもらい、すぐにお電話をもらったの",
+    "url": "https://www.kamakura-net.co.jp/assets/pdf/ir/impact_report_2026_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名報酬委員会",
+    "url": "https://www.kamakura-net.co.jp/assets/pdf/ir/impact_report_2026_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【葬儀関連サイト】葬儀・供養業者の紹介支援",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6184",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6184",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6184",
+    "pass": 3
+   },
+   {
+    "quote": "少し開発部らしいところでいうと、技術的な部分やデータ活用の提案、鎌倉新書で実践できそうなソリューションの紹介などをしています",
+    "url": "https://prtimes.com/story/detail/Gx0oXDfXgB4",
+    "pass": 3
+   },
+   {
+    "quote": "経歴についても詳しく紹介されているので、ぜひ併せてご覧ください",
+    "url": "https://prtimes.com/story/detail/Gx0oXDfXgB4",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "1984年(昭和59年)4月17日",
+    "url": "https://www.kamakura-net.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 – 株式会社鎌倉新書",
+    "url": "https://www.kamakura-net.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月18日",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年1月期の第4四半期から一部自治体で試験的に開催しておりましたが、2026年1月期より実施自治体を5倍以上へと拡大し、本格的な事業展開を進める予定です",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年2月10日",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年1月31日",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革はYouTubeで清水も解説しておりますので合わせてご覧ください",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年1月17日",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年9月12日に適時開示いたしました「3か年中期経営計画における株主還元方針の決定に関するお知らせ」にも記載しておりますが、「来期以降、EPSが20円を超えた分については、会社の成長に向けた投資（ITシステム、M&Aなど）に全てを振り向ける方針」としております",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年12月2日",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年10月22日",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年10月21日",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年11月28日",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年1月期第2四半期時点で従業員数は258名と、前年同期比では37名純増しております",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年11月14日",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年10月24日",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年10月10日",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年9月27日",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年9月26日",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年1月期の通期計画に対し、2Q時点では売上高が42.9%、営業利益以下は30%台の進捗となりました",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年9月19日",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年8月22日",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年8月8日",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年7月25日",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年1月期1Qにおけるアセットマネジメント事業は前年同期比で44%増加していますが、伸長した理由を具体的に教えてください",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年7月11日",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年1月期第1四半期の売上高は、通期計画に対して約20%の着地となりましたが、例年1Qでは同程度の進捗になるのでしょうか",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年1月期を振り返る",
+    "url": "https://www.kamakura-net.co.jp/ir/br2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年1月期は売上高・営業利益・EBITDAの全ての指標において過去最高となり、終活インフラの構築に向けて順調に歩みを進めております",
+    "url": "https://www.kamakura-net.co.jp/ir/br2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年1月期は、売上高8,335百万円（前期比18.0％増）、営業利益1,161百万円（同27.6％増）（第4四半期に計上した株式報酬費用を除いた実質営業利益は1,351百万円（同48.4％増））、EBITDAは1,653百万円（同44.5％増）と主要な経営指標はすべて過去最高となりました",
+    "url": "https://www.kamakura-net.co.jp/ir/br2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年1月期決算説明資料より",
+    "url": "https://www.kamakura-net.co.jp/ir/br2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年1月期に黒字化を実現した介護事業ですが、堅調なWeb経由の成約に加えて、相談員を介したオフライン経由の成約が大きく伸長しました",
+    "url": "https://www.kamakura-net.co.jp/ir/br2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年1月期におけるトピックスとしましては、全国の提携自治体数が500自治体を突破したこと、また、日本を代表する政令指定都市である神奈川県横浜市全18区に「お悔やみ窓口（コーナー）」を設置したことがございます",
+    "url": "https://www.kamakura-net.co.jp/ir/br2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年1月期の取り組みの一部をご紹介します",
+    "url": "https://www.kamakura-net.co.jp/ir/br2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月12日（木）",
+    "url": "https://www.kamakura-net.co.jp/ir/other/calendar.php",
+    "pass": 1
+   },
+   {
+    "quote": "2026年1月期決算短信発表",
+    "url": "https://www.kamakura-net.co.jp/ir/other/calendar.php",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月24日（金）",
+    "url": "https://www.kamakura-net.co.jp/ir/other/calendar.php",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月11日（木）",
+    "url": "https://www.kamakura-net.co.jp/ir/other/calendar.php",
+    "pass": 1
+   },
+   {
+    "quote": "2027年1月期第1四半期決算短信発表",
+    "url": "https://www.kamakura-net.co.jp/ir/other/calendar.php",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月10日（木）",
+    "url": "https://www.kamakura-net.co.jp/ir/other/calendar.php",
+    "pass": 1
+   },
+   {
+    "quote": "2027年1月期第2四半期決算短信発表",
+    "url": "https://www.kamakura-net.co.jp/ir/other/calendar.php",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月10日（木）",
+    "url": "https://www.kamakura-net.co.jp/ir/other/calendar.php",
+    "pass": 1
+   },
+   {
+    "quote": "2027年1月期第3四半期決算短信発表",
+    "url": "https://www.kamakura-net.co.jp/ir/other/calendar.php",
+    "pass": 1
+   },
+   {
+    "quote": "2025年1月期を振り返る",
+    "url": "https://www.kamakura-net.co.jp/ir/br2025/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年1月期は売上高・営業利益ともに過去最高となり、終活インフラの構築に一歩前進いたしました",
+    "url": "https://www.kamakura-net.co.jp/ir/br2025/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年1月期は、売上高7,061百万円（前期比20.5％増）、営業利益910百万円（前年比11.6％増）、EBITDAは1,144百万円（前期比20.1％増）と主要な経営指標はすべて過去最高となりました",
+    "url": "https://www.kamakura-net.co.jp/ir/br2025/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年1月期決算説明資料より",
+    "url": "https://www.kamakura-net.co.jp/ir/br2025/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年1月期はクロスユースをご利用いただける見込みが高いサービス同士が何と何であるかをある程度特定することができました",
+    "url": "https://www.kamakura-net.co.jp/ir/br2025/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年1月末日時点で47都道府県、450自治体と提携を行っています",
+    "url": "https://www.kamakura-net.co.jp/ir/br2025/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年1月期の事業別紹介件数とサイトアクセス数",
+    "url": "https://www.kamakura-net.co.jp/ir/br2025/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年1月期の取り組みの一部をご紹介します",
+    "url": "https://www.kamakura-net.co.jp/ir/br2025/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年1月期決算説明資料より",
+    "url": "https://www.kamakura-net.co.jp/ir/br2025/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年に当社では、神奈川県川崎市の全7区において「おくやみコーナー」を同時開設いたしました",
+    "url": "https://www.kamakura-net.co.jp/ir/br2025/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年10月15日発表 当社プレスリリースより引用",
+    "url": "https://www.kamakura-net.co.jp/ir/br2025/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年1月期よりオフラインチャネルの拡大を目的として、終活セミナーを全国各地で開催しています",
+    "url": "https://www.kamakura-net.co.jp/ir/br2025/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年11月18日開催埼玉県吉川市終活セミナーの様子（当社撮影）",
+    "url": "https://www.kamakura-net.co.jp/ir/br2025/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年11月10日開催茨城県つくば市終活セミナーの様子（当社撮影）",
+    "url": "https://www.kamakura-net.co.jp/ir/br2025/",
+    "pass": 1
+   },
+   {
+    "quote": "2040年推計",
+    "url": "https://www.kamakura-net.co.jp/assets/pdf/ir/impact_report_2026_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年には団塊の世代が後期⾼齢者になり、⻑期にわたり死亡者数は年々増えて",
+    "url": "https://www.kamakura-net.co.jp/assets/pdf/ir/impact_report_2026_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年の実績 (速報)は",
+    "url": "https://www.kamakura-net.co.jp/assets/pdf/ir/impact_report_2026_ja.pdf",
+    "pass": 2
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "情報の非対称性を解消するビジネスモデル",
+    "url": "https://www.kamakura-net.co.jp/service/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちのビジネスモデルである「リボンモデル」は、世の中に数多く存在する事業者の中からお客様の希望を満たせる適切な事業者をおつなぎするものです",
+    "url": "https://www.kamakura-net.co.jp/service/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "参入障壁が高そうで高くない鎌倉新書(6184)のビジネスモデル｜ワンさん",
+    "url": "https://note.com/wang_invest/n/na017633f1973",
+    "pass": 3
+   },
+   {
+    "quote": "参入障壁が高そうで高くない鎌倉新書(6184)のビジネスモデル",
+    "url": "https://note.com/wang_invest/n/na017633f1973",
+    "pass": 3
+   },
+   {
+    "quote": "同社はお墓の墓石屋や葬儀社を比較検討できるポータルサイトを運営しており、総客毎に報酬を請求するビジネスモデルで運営していますが、同社のビジネスには弱点があります",
+    "url": "https://note.com/wang_invest/n/na017633f1973",
+    "pass": 3
+   },
+   {
+    "quote": "今はまだ業績が好調の同社ですが、ストックビジネスでもリピーターが多い事業でもないのでビジネスモデルは強いようで脆くいくらでも今後の展開がひっくりかえる可能性が高いと感じました",
+    "url": "https://note.com/wang_invest/n/na017633f1973",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "貴社の売上単価（価格）はどのように決定されるのでしょうか？その金額の標準的な金額を教えてください",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "「いいお墓」をはじめとするポータルサイト運営事業の単価は、お墓、相続など、事業ごとに異なり、お客様と当社の提携事業者が成約した後に、当社の提携事業者が当社に支払う手数料です",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "コロナ禍では少人数の家族葬が多かったと認識していますが、アフターコロナでは葬儀参加者数の増加や単価の向上は見込めるでしょうか",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "しかしながら葬儀が小規模であることが必ずしも低価格であるとは限らず、葬儀の際に演出を取り入る等により高単価化を目指しています",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "将来的には自治体事務に関するDX化促進のサービスを多く提供したり、地域住民への終活関連行政サービスの提供を通じてフロー・ストック収入の獲得及び増加を目指しております",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "また、基本的に葬儀社も墓石屋も集客の手段として一件あたり◯円のようにお問い合わせ一件に対して成功報酬で支払いをするなら鎌倉新書にこだわらなくても他の3つとか5つとかの比較サイトに広告を出稿すれば良いわけです",
+    "url": "https://note.com/wang_invest/n/na017633f1973",
+    "pass": 3
+   },
+   {
+    "quote": "今はまだ業績が好調の同社ですが、ストックビジネスでもリピーターが多い事業でもないのでビジネスモデルは強いようで脆くいくらでも今後の展開がひっくりかえる可能性が高いと感じました",
+    "url": "https://note.com/wang_invest/n/na017633f1973",
+    "pass": 3
+   },
+   {
+    "quote": "また、葬儀もお墓も仏壇も相談件数は伸びていますが単価は伸びておらず葬儀の縮小、お墓は仏壇も値段をかけない傾向が目立っており、高齢者の数は増えていますがお金をかけない世帯が増えておりその部分も鎌倉新書に投資を検討するなら抑えておきたいところです",
+    "url": "https://note.com/wang_invest/n/na017633f1973",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "今後貴社のセグメントにて投資を活発化されようと考えているセグメントは、なんですか？",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   },
+   {
+    "quote": "「官民協働事業」セグメントについて、取り組みの詳細を具体的に教えてください",
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "私たちの強み - 株式会社鎌倉新書 — 私たちの強み - 株式会社鎌倉新書 株式会社鎌倉新書 https://www.kamakura-net.co.jp > service > strength",
+    "url": "https://www.kamakura-net.co.jp/service/strength/",
+    "pass": 3
+   },
+   {
+    "quote": "参入障壁が高そうで高くない 鎌倉新書 (6184)の ビジネスモデル — 参入障壁が高そうで高くない 鎌倉新書 (6184)の ビジネスモデル note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/wang_invest/n/na017633f1973",
+    "pass": 3
+   },
+   {
+    "quote": "高齢社会における課題に向き合い続けた 鎌倉新書 が ビジネス の ... — 高齢社会における課題に向き合い続けた 鎌倉新書 が ビジネス の ... Wantedly https://www.wantedly.com > ... > ストーリー",
+    "url": "https://www.wantedly.com/companies/kamakura-net/post_articles/203426",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネス - 株式会社鎌倉新書 — ビジネス - 株式会社鎌倉新書 株式会社鎌倉新書 https://www.kamakura-net.co.jp > recruit > work > business",
+    "url": "https://www.kamakura-net.co.jp/recruit/work/business/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 - 株式会社鎌倉新書 — 決算説明資料 - 株式会社鎌倉新書 株式会社鎌倉新書 https://www.kamakura-net.co.jp > library > presentation",
+    "url": "https://www.kamakura-net.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "鎌倉新書 [6184]：2027年1月期 第2四半期 決算説明資料 2026 ... — 鎌倉新書 [6184]：2027年1月期 第2四半期 決算説明資料 2026 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260910534180/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 鎌倉新書 - ログミーファイナンス - ログミーFinance — 株式会社 鎌倉新書 - ログミーファイナンス - ログミーFinance ログミーFinance https://finance.logmi.jp > companies",
+    "url": "https://finance.logmi.jp/companies/403",
+    "pass": 3
+   },
+   {
+    "quote": "[ 鎌倉新書 6184.T] 2027年1月期 第2四半期 決算説明資料 — [ 鎌倉新書 6184.T] 2027年1月期 第2四半期 決算説明資料 BigGo ファイナンス https://finance.biggo.jp > jpx_tdnet_140120260910534180",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260910534180",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 鎌倉新書 決算説明資料 - EDINET DB — 株式会社 鎌倉新書 決算説明資料 - EDINET DB EDINET DB https://edinetdb.jp > 株式会社鎌倉新書 > IR資料",
+    "url": "https://edinetdb.jp/company/E31871/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 – 株式会社 鎌倉新書 — 会社概要 – 株式会社 鎌倉新書 株式会社鎌倉新書 https://www.kamakura-net.co.jp > company > profile",
+    "url": "https://www.kamakura-net.co.jp/company/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "【 鎌倉新書 】[6184]企業概要 社員数や役員報酬・資本金 | 日経 ... — 【 鎌倉新書 】[6184]企業概要 社員数や役員報酬・資本金 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6184",
+    "pass": 3
+   },
+   {
+    "quote": "終活の覇者へ？ 鎌倉新書 (6184)の再成長シナリオと投資妙味を ... — 終活の覇者へ？ 鎌倉新書 (6184)の再成長シナリオと投資妙味を ... note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/hr793/n/nacbc61c5b71c",
+    "pass": 3
+   },
+   {
+    "quote": "鎌倉新書 との資本業務提携 ～SOMPOウェルビーイング ... — 鎌倉新書 との資本業務提携 ～SOMPOウェルビーイング ... sompo-hd.com PDF https://www.sompo-hd.com > media > files > news",
+    "url": "https://www.sompo-hd.com/-/media/hd/files/news/2025/20251218_1.pdf?la=ja-JP",
+    "pass": 3
+   },
+   {
+    "quote": "社員 インタビュー – 株式会社 鎌倉新書 — 社員 インタビュー – 株式会社 鎌倉新書 株式会社鎌倉新書 https://www.kamakura-net.co.jp > 社員インタビュー",
+    "url": "https://www.kamakura-net.co.jp/recruit/information/%E7%A4%BE%E5%93%A1%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC/",
+    "pass": 3
+   },
+   {
+    "quote": "楽天の次に 鎌倉新書 を選んだワケ。【役員 インタビュー 】 — 楽天の次に 鎌倉新書 を選んだワケ。【役員 インタビュー 】 prtimes.com https://prtimes.com > PR TIMES STORY > DX",
+    "url": "https://prtimes.com/story/detail/Gx0oXDfXgB4",
+    "pass": 3
+   },
+   {
+    "quote": "役員体制 – 株式会社 鎌倉新書 — 役員体制 – 株式会社 鎌倉新書 株式会社鎌倉新書 https://www.kamakura-net.co.jp > company > board",
+    "url": "https://www.kamakura-net.co.jp/company/board/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 鎌倉新書 の働き方とストーリー - Wantedly — 株式会社 鎌倉新書 の働き方とストーリー - Wantedly Wantedly https://www.wantedly.com > ... > 株式会社鎌倉新書",
+    "url": "https://www.wantedly.com/companies/kamakura-net/stories",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 鎌倉新書 の紹介 - 社長名鑑 — 株式会社 鎌倉新書 の紹介 - 社長名鑑 社長名鑑 https://shachomeikan.jp > corporations > intro",
+    "url": "https://shachomeikan.jp/corporations/21984/intro",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.kamakura-net.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kamakura-net.co.jp/company/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kamakura-net.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kamakura-net.co.jp/service/strength/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kamakura-net.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kamakura-net.co.jp/investor_questions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kamakura-net.co.jp/ir/br2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kamakura-net.co.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kamakura-net.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kamakura-net.co.jp/ir/other/calendar.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kamakura-net.co.jp/ir/management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kamakura-net.co.jp/ir/finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kamakura-net.co.jp/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kamakura-net.co.jp/ir/br2025/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.kamakura-net.co.jp/assets/pdf/ir/impact_report_2026_ja.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kamakura-net.co.jp/assets/img/ir/business-report.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.com/wang_invest/n/na017633f1973",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260910534180/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6184",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.com/story/detail/Gx0oXDfXgB4",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "鎌倉新書",
+   "results": [
+    "https://www.kamakura-net.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E9%8E%8C%E5%80%89%E6%96%B0%E6%9B%B8",
+    "https://note.com/kamakurapr",
+    "https://www.facebook.com/kamakurass/?locale=ja_JP",
+    "https://www.wantedly.com/companies/kamakura-net",
+    "https://www.kamakura-life.co.jp/",
+    "https://ja.wikipedia.org/wiki/鎌倉新書",
+    "https://www.kamakura-net.co.jp/company/profile/",
+    "https://finance.yahoo.co.jp/quote/6184.T",
+    "https://www.kamakura-net.co.jp/company/"
+   ]
+  },
+  {
+   "query": "鎌倉新書 ビジネスモデル",
+   "results": [
+    "https://www.kamakura-net.co.jp/service/strength/",
+    "https://note.com/wang_invest/n/na017633f1973",
+    "https://www.wantedly.com/companies/kamakura-net/post_articles/203426",
+    "https://froggy.smbcnikko.co.jp/13289/",
+    "https://www.kamakura-net.co.jp/recruit/work/business/",
+    "https://yoko-writing.com/analysis-kamakurashinsho/",
+    "https://www.youtube.com/watch?v=JGGTdJt_Rok",
+    "https://irnote.com/n/n12093cb7c20b",
+    "https://note.com/hr793/n/nacbc61c5b71c",
+    "https://ja.wikipedia.org/wiki/鎌倉新書"
+   ]
+  },
+  {
+   "query": "鎌倉新書 決算説明資料",
+   "results": [
+    "https://www.kamakura-net.co.jp/ir/library/presentation/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260910534180/",
+    "https://finance.logmi.jp/companies/403",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260910534180",
+    "https://edinetdb.jp/company/E31871/presentations/",
+    "https://kitaishihon.com/company/6184/ir-library",
+    "https://irbank.net/6184/ir",
+    "https://www.buffett-code.com/company/6184/library",
+    "https://www.kamakura-net.co.jp/ir/library/report/"
+   ]
+  },
+  {
+   "query": "鎌倉新書 事業系統図",
+   "results": [
+    "https://www.kamakura-net.co.jp/company/profile/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=6184",
+    "https://note.com/hr793/n/nacbc61c5b71c",
+    "https://www.youtube.com/watch?v=JGGTdJt_Rok",
+    "https://www.sompo-hd.com/-/media/hd/files/news/2025/20251218_1.pdf?la=ja-JP",
+    "https://www.kamakura-net.co.jp/service/",
+    "https://holistic-r.org/report/6184/",
+    "https://visionguide.jp/blog001-376/",
+    "https://ja.wikipedia.org/wiki/%E9%8E%8C%E5%80%89%E6%96%B0%E6%9B%B8",
+    "https://ja.wikipedia.org/wiki/鎌倉新書"
+   ]
+  },
+  {
+   "query": "鎌倉新書 社長 インタビュー",
+   "results": [
+    "https://www.kamakura-net.co.jp/recruit/information/%E7%A4%BE%E5%93%A1%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC/",
+    "https://prtimes.com/story/detail/Gx0oXDfXgB4",
+    "https://www.kamakura-net.co.jp/company/board/",
+    "https://www.wantedly.com/companies/kamakura-net/stories",
+    "https://shachomeikan.jp/corporations/21984/intro",
+    "https://bizcampus.biz/for_students/interview_cxo/5296.html",
+    "https://jobtalk.jp/companies/19879/answers/8648048",
+    "https://sogyotecho.jp/shimizu-series-interview1/",
+    "https://macloud.jp/companies/4252",
+    "https://www.nsjournal.jp/kamakura-net-report-20260904/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部4頁・検索5回）"
+ }
+}

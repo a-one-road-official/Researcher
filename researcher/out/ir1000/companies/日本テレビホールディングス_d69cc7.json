@@ -1,0 +1,1272 @@
+{
+ "name": "日本テレビホールディングス",
+ "aliases": [],
+ "context": "証券コード9404／情報・通信業／プライム（内国株式）／2026.03期 売上高484,418百万円 営業利益率14.3%",
+ "researched_at": "2026-11-02T19:15:30.533362+00:00",
+ "official_url": "https://www.ntvhd.co.jp/",
+ "identified_by": "search:yahoo_jp:日本テレビホールディングス",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立日",
+    "value": "昭和27（1952）年10月28日\n日本テレビホールディングス株式会社は、平成24（2012）年10月1日付で、認定放送持株会社への移行に伴い、「日本テレビ放送網株式会社」から商号変更しました。\n（なお、同日付で新たな事業子会社として「日本テレビ放送網株式会社」を登記しています。）",
+    "url": "https://www.ntvhd.co.jp/company/profile/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "株式等の所有を通じて企業グループの統括・運営等を行う認定放送持株会社",
+    "url": "https://www.ntvhd.co.jp/company/profile/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "237人（2026年4月1日現在）",
+    "url": "https://www.ntvhd.co.jp/company/profile/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "430,934 26,408 4,572 461,915 － 461,915",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の 内部売上高又は振替高",
+    "value": "185 347 6,957 7,490 △7,490 －",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "452,656 27,202 4,560 484,418 － 484,418",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の 内部売上高又は振替高",
+    "value": "231 463 6,994 7,689 △7,689 －",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "(株)日本テレビサービス設立",
+    "url": "https://www.ntvhd.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "株主の皆様に当社グループのコンテンツ・サービスに直接触れていただき、",
+    "url": "https://www.ntvhd.co.jp/ir/benefits/",
+    "pass": 1
+   },
+   {
+    "quote": "ジャイアンツのすべてがここに・・・巨人軍公式動画配信サービス",
+    "url": "https://www.ntvhd.co.jp/ir/benefits/",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品取引法及び各証券取引所の定める「上場有価証券の発行者の会社情報の適時開示等に関する規則」（適時開示規則）など、法令などに定められた情報に加え、当社の事業内容、及び経営方針や戦略に関する情報についても、積極的な情報開示を行います",
+    "url": "https://www.ntvhd.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品取引法及び各証券取引所が定める適時開示規則に該当する情報は、東京証券取引所の提供する適時開示情報伝達システム（TDnet）などに登録し開示します",
+    "url": "https://www.ntvhd.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "記の東証ウェブサイト（東証上場会社情報サービス）にアクセスして、銘柄名（会社名）",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "険の保険商品に関する保険業法認可前の勧誘行為が判明し、 2025年３月に金融庁から保険業法及び銀行法に基づく報告徴求命令 、総務省から日本郵政株式会",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "㈱日本テレビサービス代表取締役社長",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "組の見逃し配信やリアルタイム配信サービスなどテレビメディア放送事業者が主体となったインターネッ",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "デジタル広告収入は、民放公式テレビ配信サービス「ＴＶｅｒ」における動画広告セールスが好調に推",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、当社グループは、ＣＭＳ(キャッシュマネージメントサービス)を活用し、グループ内資金を一元",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "日 本 テ レ ビ 音 楽 株 式 会 社 80 1 00.0 音楽著作権管理、CD等の原盤制作、キャラクターの商品化権の管理",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株 式 会 社 日 本 テ レ ビ サ ー ビ ス 50 ＊100.0(100.0) 店舗開発運営業務、商品企画販売業務",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株 式 会 社 P L A Y 50 ＊94.5(94.5) 動画ソリューション事業",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "私たち1人1人が紡ぎ出す様々なサービス、プロダクトを含めた「コンテンツ」を通じて、",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "レビが自社開発した、直感的オンデバイスAIソリューション「viztrick AiDi」が 、アメリカ３大ネッ",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、キャラクターIP事業では、自社キャラクターIP「らぶいーず」が各種商品化に加え全国4都市で",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年４月に開始したテレビにデジタルの利便性を取り入れたプログラマティック広告サービス「 ス",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "投資第３号案件として 、傘のシェアリングサービス「 アイカサ 」を展開する㈱Nature Innovation",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "リートが競技と仕事を両立できるサービスを立ち上げ、事業拡大を推進しております",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ⅠＴサービス、キャラクターグッズの企画・販売、展示物の企画・制作",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株式会社日本テレビサービス 東 京 都 港 区",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "持分法適用会社からＣＭＳ(キャッシュマネージメントサービス)による資金の借入を行って",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．当社と会計監査人との間の監査契約において、会社法に基づく監査と金融商品取引法に基づく監査の",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "日本テレビ音楽㈱は音楽著作権の管理及びレコード原盤の企画制作、商品化権事業を行い、㈱バップはパッケージメディアの企画制作及び販売を行っております",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、ＨＪホールディングス㈱は動画配信事業を、㈱日テレWandsはITサービス事業、インターネット配信及びＷｅｂソリューション事業等を行っております",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "㈱PLAYは動画ソリューション事業を、㈱タツノコプロと㈱スタジオジブリはアニメーション映画等の企画制作及びライセンスを、㈱日テレイベンツはイベントの企画運営を、㈱ACM及び㈱ライツ・インはアンパンマンこどもミュージアム、アンパンマンテラス及びミュージアムショップ等の企画・運営を、㈱ムラヤマはイベントや展示物等の企画及び制作を、㈱日本テレビサービスは、番組キャラクターグッズ等の企画販売を、la belle vie㈱はフラッシュセール事業を行っております",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "インターネット広告費は４兆459億円(＋10.8％)と引き続き好調に推移し、このうちテレビ番組の見逃し配信やリアルタイム配信サービスなどテレビメディア放送事業者が主体となったインターネット動画配信の広告費である「テレビメディア関連動画広告費」が805億円(＋23.3％)と引き続き大きく伸長しました",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル広告収入は、民放公式テレビ配信サービス「ＴＶｅｒ」における動画広告セールスが好調に推移し、",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "これらの事業活動等にかかわる資金以外につきましては金融情勢や流動性等を勘案しつつ、適切な金融商品にて運用してまいります",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "「コンテンツ・メディア事業」は、テレビ広告枠の販売を中心に、動画配信事業、有料放送事業、番組販売・商品化等のロイヤリティ収入、パッケージメディア等の物品販売、映画・イベントの興行などあらゆる媒体・手段を活用して、投下したコンテンツ制作費を回収し、利益を上げる事業であり、コンテンツごとの開発意思決定及び損益把握を行っております",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "コンテンツ制作受託、ⅠＴサービス、キャラクターグッズの企画・販売、",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "１．製品及びサービスごとの情報",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "製品及びサービスごとの情報は、「収益認識関係」に記載のとおりであります",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "DVDなどのパッケージ商品として、買って見るという時代もありました",
+    "url": "https://minpo.online/article/-70.html",
+    "pass": 3
+   },
+   {
+    "quote": "主たる商品はローカルコンテンツをつくっていくことですし、県単位で免許が与えられているローカル局が、その地域の情報と、そこに根差した経済圏を結びつけてお金を回していくという基本的な役割をしっかり果たしていくことは、地方創生につながる大事な機能として維持していくべきだと思います",
+    "url": "https://minpo.online/article/-70.html",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "1952年10月",
+    "url": "https://www.ntvhd.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1953年8月",
+    "url": "https://www.ntvhd.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1959年9月",
+    "url": "https://www.ntvhd.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1969年10月",
+    "url": "https://www.ntvhd.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1970年2月",
+    "url": "https://www.ntvhd.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1972年4月",
+    "url": "https://www.ntvhd.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1975年12月",
+    "url": "https://www.ntvhd.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1980年3月",
+    "url": "https://www.ntvhd.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1981年1月",
+    "url": "https://www.ntvhd.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1986年6月",
+    "url": "https://www.ntvhd.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1987年3月",
+    "url": "https://www.ntvhd.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1992年1月",
+    "url": "https://www.ntvhd.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1992年4月",
+    "url": "https://www.ntvhd.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1993年12月",
+    "url": "https://www.ntvhd.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1995年4月",
+    "url": "https://www.ntvhd.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1998年12月",
+    "url": "https://www.ntvhd.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年12月",
+    "url": "https://www.ntvhd.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2001年3月",
+    "url": "https://www.ntvhd.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2002年3月",
+    "url": "https://www.ntvhd.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2003年4月",
+    "url": "https://www.ntvhd.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2007年2月",
+    "url": "https://www.ntvhd.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2009年7月",
+    "url": "https://www.ntvhd.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2011年2月",
+    "url": "https://www.ntvhd.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2012年10月",
+    "url": "https://www.ntvhd.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年1月",
+    "url": "https://www.ntvhd.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年６月26日",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年06月12日 13時58分 $FOLDER; 1ページ （Tess 1.50(64) 20260319_01）",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年06月12日 13時58分 $FOLDER; 2ページ （Tess 1.50(64) 20260319_01）",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年６月25日（木）午後６時まで",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年６月26日 （金）",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年5 月29日",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2015年 ６ 月 ㈱読売新聞グループ本社代表取締役",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2015年 ６ 月 ㈱読売新聞東京本社代表取締役社長",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2016年 ３ 月 ㈱読売巨人軍非常勤取締 役",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2016年 ６ 月 ㈱読売新聞グループ本社代表取締役社長",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2016年 ６ 月 ㈱読売巨人軍取締役広報 担当",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2017年 ６ 月 ㈱読売新聞グループ本社代表取締役",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2017年 ６ 月 ㈱よみうりランド取締役 (現)",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2018年 ７ 月 ㈱読売巨人軍取締役オー ナー(現)",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2019年 ６ 月 当社取締 役",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2019年 ６ 月 日本テレビ放送網㈱取締 役(現)",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年 ６ 月 当社代表取締役取締役会 議長(現)",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年 ６ 月 ㈱読売新聞東京本社代表取締役会長(現)",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年 ６ 月 ㈱読売新聞グループ本社代表取締役",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2017年 ６ 月 ㈱読売新聞グループ本社 取締役(現)",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2017年 ６ 月 ㈱よみうりランド代表取 締役社長",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2019年 ６ 月 日本テレビ放送網㈱取締 役",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2020年 ６ 月 当社代表取締役社 長",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2020年 ６ 月 日本テレビ放送網㈱代表取締役執行役員",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2021年 ６ 月 日本テレビ放送網㈱代表取締役社長",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年 ６ 月 石油資源開発㈱社外取締 役(現)",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年 ６ 月 当社代表取締役会長執行 役員(現)",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年 ６ 月 日本テレビ放送網㈱代表取締役会長",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年3月期有価証券報告書より",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "2022年度",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "2023年３月",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "2024年３月",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "会員数360万人以上 最大90％オフのショッピングサイト",
+    "url": "https://www.ntvhd.co.jp/ir/benefits/",
+    "pass": 1
+   },
+   {
+    "quote": "コンテンツ・メディア事業の外部顧客への売上高の内訳は次の表のとおりです",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高(コンテンツ・メディア事業)",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ウェルネス事業においては、総合型スポーツクラブから特化型スポーツクラブへの利用者ニー",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、コロナ禍において減少した会員数の回復に時間を要しているな",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "人権課題を指摘されており、今後はより一層、実効的な人権救済システムの整備、取引先を含め",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年度には取引先数",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "㈱ティップネスでは、キッズ事業が堅調に推移したことに加え、成人会員数についても既存店舗におい",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "玉県草加市に開業し、新たな顧客層の獲得と事業領域の拡大に取り組んでいます",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "人権関連では、2024年度の社内アンケートに続き、2025年８月に取引先172社に対する人権に関する",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "コンテンツ・メディア事業の外部顧客への売上高の内訳は次の表のとおりです",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高(コンテンツ・メディア事業)",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "２．当社グループは、主要な顧客である広告主に対し、広告代理店を通じてテレビ広告枠の販売などを行っております",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "本邦の外部顧客への売上高が連結損益計算書の売上高の90％を超えるため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "３．主要な顧客ごとの情報",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "連結損益計算書の売上高の10％以上を占める顧客(広告主等)が存在しないため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "「映画館にはちょっと行けないけれど、Huluだったらお金を払って手軽に見ることができる」あるいは「連ドラを一気見したい」というユーザーニーズに応えています",
+    "url": "https://minpo.online/article/-70.html",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "FASTGYM24店舗、運営受託店舗はご利用になれません",
+    "url": "https://www.ntvhd.co.jp/ir/benefits/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年10月 ㈱MPowerゼネラルパートナー(兼)取締役(現)",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "㈱MPowerゼネラルパートナー(兼)取締役",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上原価と販売費及び一般管理費を合わせた営業費用は、スポット収入の増加に伴い代理店手数料が増",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ラブ事業を展開する㈱ティップネスにおいて店舗改修やトレーニングマシンの更新を行いました",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株 式 会 社 日 本 テ レ ビ サ ー ビ ス 50 ＊100.0(100.0) 店舗開発運営業務、商品企画販売業務",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、海外の有力スタジオとのパートナーシップ契約の締結を進めていきます",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "アーティスト、キャラクター、アニメなどを中心に、パートナー企業との連携や協業を進めてオリジナル",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "アーティストIP事業では 、パートナー企業との共創によるアーティストの発掘・育成を加速させまし",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "㈱ティップネスでは、キッズ事業が堅調に推移したことに加え、成人会員数についても既存店舗におい",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "アパートナーとして、社会課題解決に向けた共創事業を推進し、社会的価値の創出と拡大に努めます",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上原価と販売費及び一般管理費を合わせた営業費用は、スポット収入の増加に伴い代理店手数料が増加したことや、コンテンツ制作収入及び興行収入の増収に伴う売上原価増などにより、前連結会計年度に比べ",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "２．当社グループは、主要な顧客である広告主に対し、広告代理店を通じてテレビ広告枠の販売などを行っております",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "最近２連結会計年度における主な相手先別の販売実績及び総販売実績に対する割合を広告代理店別に示すと次のとおりです",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "※㈱博報堂及び㈱博報堂ＤＹメディアパートナーズは2025年４月１日に㈱博報堂を承継会社とする吸収分割により統合しており、前連結会計年度は㈱博報堂ＤＹメディアパートナーズへの販売実績を記載しております",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "厳しく、多額の投資が必要なビジネスモデルとなっていることから、厳しい競争環境に晒されて",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "企業集団の状況を事業系統図によって示すと次のとおりです",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、iPhoneに代表されるスマートフォンというテキストと動画伝達の要件を満たす小さな端末が登場したことで、これまでのテレビのビジネスモデルに大きな地殻変動が起こった",
+    "url": "https://minpo.online/article/-70.html",
+    "pass": 3
+   },
+   {
+    "quote": "スマホによって、個々の世界、パーソナルな世界、分断の世界のなかでのビジネスモデルを私たちは模索しなければならなくなったのです",
+    "url": "https://minpo.online/article/-70.html",
+    "pass": 3
+   },
+   {
+    "quote": "同時にITノウハウを身につけることによって、放送＋ネット＋イベントの商流づくりから地方発全国、放送＋eコマースなどのコンテンツビジネスが生まれる可能性があると思います",
+    "url": "https://minpo.online/article/-70.html",
+    "pass": 3
+   },
+   {
+    "quote": "一番の違いは、ビジネスモデルですが、放送といういわゆるパネルにコンテンツを出していくという点では同業者というくくりです",
+    "url": "https://minpo.online/article/-70.html",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "当社の取締役の報酬限度額は、2008年６月27日開催の第75期定時株主総会において、年額９億５",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "年額１億５千万円以内とすること等につき、ご承認いただいております",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "化等に鑑み、取締役の報酬限度額のうち社外取締役分を「年額１億１千万円以内」から「年額２億円",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "限度額を現行の「年額９億５千万円以内」に据え置いたうえで、社外取締役分の報酬限度額を変更す",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上原価と販売費及び一般管理費を合わせた営業費用は、スポット収入の増加に伴い代理店手数料が増",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "スポーツクラブ運営による施設利用料収入を主とするウェルネス事業の売上高は、月会費収入やキッズ",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株 式 会 社 タ ツ ノ コ プ ロ 20 ＊55.2(55.2) アニメーション映画、キャラクターの企画制作及び国内外ライセンス",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "議により、取締役の報酬額は年額９億５千万円以内（うち社外取締役１億１千万円以内） 、",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "監査役の報酬額は年額７千２百万円以内と、それぞれの報酬の限度額が決定されておりま",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "て年額１億５千万円以内と決議しております",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "日本テレビ放送網㈱及び㈱ＢＳ日本は、テレビ番組を企画制作し、無料放送を行うことによるテレビ広告枠の販売、番組などのコンテンツの配信及びライセンス、映画の製作・公開、イベント・美術展の開催並びにリテール事業を行っております",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "㈱PLAYは動画ソリューション事業を、㈱タツノコプロと㈱スタジオジブリはアニメーション映画等の企画制作及びライセンスを、㈱日テレイベンツはイベントの企画運営を、㈱ACM及び㈱ライツ・インはアンパンマンこどもミュージアム、アンパンマンテラス及びミュージアムショップ等の企画・運営を、㈱ムラヤマはイベントや展示物等の企画及び制作を、㈱日本テレビサービスは、番組キャラクターグッズ等の企画販売を、la belle vie㈱はフラッシュセール事業を行っております",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上原価と販売費及び一般管理費を合わせた営業費用は、スポット収入の増加に伴い代理店手数料が増加したことや、コンテンツ制作収入及び興行収入の増収に伴う売上原価増などにより、前連結会計年度に比べ",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "スポーツクラブ運営による施設利用料収入を主とするウェルネス事業の売上高は、月会費収入やキッズ会費収入の増加などにより、セグメント間の内部売上高又は振替高を含め、前連結会計年度に比べ",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、現状の広告単価はテレビに比べて低すぎると思います",
+    "url": "https://minpo.online/article/-70.html",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "立社外取締役の構成比率は過半数となります",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、コンテンツ・メディア事業の売上高は、セグメント間の内部売上高又は振替高を含め、前連",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "費収入の増加などにより、セグメント間の内部売上高又は振替高を含め、前連結会計年度に比べ９億１",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "汐留及び番町地区を主とする不動産関連事業の売上高は 、セグメント間の内部売上高又は振替高を含",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、当連結会計年度より 、従来「メディア・コンテンツ事業 」としていた報告セグメントの名称を",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「コンテンツ・メディア事業」に、 「生活・健康関連事業」としていた報告セグメントの名称を「ウェルネ",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この変更はセグメント名称の変更であり、セグメント情報に与える影響は",
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "このうち、当社グループは、認定放送持株会社である当社と子会社60社及び関連会社33社から構成されており、セグメント区分ごとの事業内容は以下のとおりです",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、当連結会計年度より、従来「メディア・コンテンツ事業」としていた報告セグメントの名称を「コンテンツ・メディア事業」に、「生活・健康関連事業」としていた報告セグメントの名称を「ウェルネス事業」に変更しております",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "この変更はセグメント名称の変更であり、セグメント情報に与える影響はありません",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別の経営成績は次のとおりです",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "この結果、コンテンツ・メディア事業の売上高は、セグメント間の内部売上高又は振替高を含め、前連結会計年度に比べ",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "スポーツクラブ運営による施設利用料収入を主とするウェルネス事業の売上高は、月会費収入やキッズ会費収入の増加などにより、セグメント間の内部売上高又は振替高を含め、前連結会計年度に比べ",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "汐留及び番町地区を主とする不動産関連事業の売上高は、セグメント間の内部売上高又は振替高を含め、前連結会計年度に比べ",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度における受注実績をセグメントごとに示すと、次のとおりです",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度における販売実績をセグメントごとに示すと、次のとおりです",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "(注) １．セグメント間取引については相殺消去しております",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "(セグメント情報等)",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "１．報告セグメントの概要",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの報告セグメントは、当社グループの構成単位のうち分離された財務情報が入手可能であり、取締役会が、経営資源の配分の決定及び業績を評価するために、定期的に検討を行う対象となっているものであります",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "各セグメントの主な事業内容は、以下のとおりです",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "２．報告セグメントごとの売上高、利益又は損失、その他の項目の金額の算定方法",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告されている事業セグメントの会計処理の方法は、「連結財務諸表作成のための基本となる重要な事項」における記載と同一であります",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告セグメントの利益は、営業利益の数値であります",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "中期経営計画｜ 日本テレビホールディングス 株式会社 — 中期経営計画｜ 日本テレビホールディングス 株式会社 日本テレビホールディングス株式会社 https://www.ntvhd.co.jp > management",
+    "url": "https://www.ntvhd.co.jp/ir/management/",
+    "pass": 3
+   },
+   {
+    "quote": "日本テレビホールディングス 【9404】の事業内容 - キタイシホン — 日本テレビホールディングス 【9404】の事業内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "日本テレビホールディングス - Wikipedia — 日本テレビホールディングス - Wikipedia Wikipedia https://ja.wikipedia.org > 日本テレビホールディングス",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%83%86%E3%83%AC%E3%83%93%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "日本テレビホールディングス 株式会社 - STORIUM — 日本テレビホールディングス 株式会社 - STORIUM storium.jp https://storium.jp > 組織 > ウエルネス",
+    "url": "https://storium.jp/organization/87f0b6656b636159c3a924317b2e8b4c",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 ｜ 日本テレビホールディングス 株式会社 — 決算説明資料 ｜ 日本テレビホールディングス 株式会社 日本テレビホールディングス株式会社 https://www.ntvhd.co.jp > presentation",
+    "url": "https://www.ntvhd.co.jp/ir/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家情報｜ 日本テレビホールディングス 株式会社 — 株主・投資家情報｜ 日本テレビホールディングス 株式会社 日本テレビホールディングス株式会社 https://www.ntvhd.co.jp > ...",
+    "url": "https://www.ntvhd.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "【 日本テレビホールディングス 】[9404]IR情報 ... - 日本経済新聞 — 【 日本テレビホールディングス 】[9404]IR情報 ... - 日本経済新聞 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=9404",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信｜ 日本テレビホールディングス 株式会社 — 決算 短信｜ 日本テレビホールディングス 株式会社 日本テレビホールディングス株式会社 https://www.ntvhd.co.jp > result",
+    "url": "https://www.ntvhd.co.jp/ir/result/",
+    "pass": 3
+   },
+   {
+    "quote": "日本テレビホールディングス 決算 ・修正履歴 - 株探 — 日本テレビホールディングス 決算 ・修正履歴 - 株探 株探 https://kabutan.jp > ... > 決算",
+    "url": "https://kabutan.jp/stock/finance?code=9404",
+    "pass": 3
+   },
+   {
+    "quote": "組織体制｜ 日本テレビホールディングス 株式会社 — 組織体制｜ 日本テレビホールディングス 株式会社 日本テレビホールディングス株式会社 https://www.ntvhd.co.jp > company > organization",
+    "url": "https://www.ntvhd.co.jp/company/organization/",
+    "pass": 3
+   },
+   {
+    "quote": "日本テレビホールディングス 【9404】の 事業 内容 - キタイシホン — 日本テレビホールディングス 【9404】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/9404/business",
+    "pass": 3
+   },
+   {
+    "quote": "グループ会社一覧｜ 日本テレビホールディングス 株式会社 — グループ会社一覧｜ 日本テレビホールディングス 株式会社 日本テレビホールディングス株式会社 https://www.ntvhd.co.jp > group",
+    "url": "https://www.ntvhd.co.jp/group/",
+    "pass": 3
+   },
+   {
+    "quote": "日本テレビホールディングス 株式会社 — 日本テレビホールディングス 株式会社 日本テレビホールディングス株式会社 https://www.ntvhd.co.jp",
+    "url": "https://www.ntvhd.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "日本テレビホールディングス 【9404】の 社長 ・役員 — 日本テレビホールディングス 【9404】の 社長 ・役員 キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/9404/board-of-director",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.ntvhd.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntvhd.co.jp/company/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntvhd.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntvhd.co.jp/news/?genre=ir",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntvhd.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntvhd.co.jp/ir/result/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntvhd.co.jp/ir/presentation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntvhd.co.jp/ir/report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntvhd.co.jp/ir/management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntvhd.co.jp/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntvhd.co.jp/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntvhd.co.jp/ir/meeting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntvhd.co.jp/ir/benefits/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntvhd.co.jp/ir/shareholders/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntvhd.co.jp/ir/foreign/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntvhd.co.jp/ir/securities/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntvhd.co.jp/ir/policy/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ntvhd.co.jp/pdf/ir/meeting/93_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ntvhd.co.jp/pdf/ir/foreign/20261016_jp.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://kitaishihon.com/company/9404/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://info.ntv.co.jp/company/organization/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://minpo.online/article/-70.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日本テレビホールディングス",
+   "results": [
+    "https://www.ntvhd.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%83%86%E3%83%AC%E3%83%93%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "https://www.ntv.co.jp/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=9404",
+    "https://info.ntv.co.jp/",
+    "https://ja.wikipedia.org/wiki/日本テレビホールディングス",
+    "https://en.wikipedia.org/wiki/Nippon_Television_Holdings",
+    "https://www.ntvhd.co.jp/ir/",
+    "https://finance.yahoo.co.jp/quote/9404.T",
+    "https://finance.yahoo.co.jp/quote/9404.T/profile"
+   ]
+  },
+  {
+   "query": "日本テレビホールディングス ビジネスモデル",
+   "results": [
+    "https://www.ntvhd.co.jp/ir/management/",
+    "https://kitaishihon.com/company/9404/business",
+    "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%83%86%E3%83%AC%E3%83%93%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "https://storium.jp/organization/87f0b6656b636159c3a924317b2e8b4c",
+    "https://info.ntv.co.jp/",
+    "https://lab.ntvhd.co.jp/90c60ef6f92125cabdf380c5dedcfd6216aa5c69.pdf",
+    "https://www.antelope.co.jp/major_players/players_o_details.html?id=599",
+    "https://yorozuipsc.com/uploads/1/3/2/5/132566344/79eb000b67fe20ce87c7.pdf",
+    "https://info.ntv.co.jp/company/organization/",
+    "https://consovation.com/日本テレビホールディングスのビジネスモデルを/"
+   ]
+  },
+  {
+   "query": "日本テレビホールディングス 決算説明資料",
+   "results": [
+    "https://www.ntvhd.co.jp/ir/presentation/",
+    "https://www.ntvhd.co.jp/ir/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=9404",
+    "https://www.ntvhd.co.jp/ir/result/",
+    "https://kabutan.jp/stock/finance?code=9404",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=9404",
+    "https://www.ntvhd.co.jp/",
+    "https://www.tv-asahihd.co.jp/ir_setex/",
+    "https://strainer.jp/companies/JP-9404",
+    "https://www.ntvhd.co.jp/news/2874u8e4heew7iplevu1.html"
+   ]
+  },
+  {
+   "query": "日本テレビホールディングス 事業系統図",
+   "results": [
+    "https://www.ntvhd.co.jp/company/organization/",
+    "https://info.ntv.co.jp/company/organization/",
+    "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%83%86%E3%83%AC%E3%83%93%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "https://kitaishihon.com/company/9404/business",
+    "https://www.ntvhd.co.jp/group/",
+    "https://info.ntv.co.jp/",
+    "https://storium.jp/organization/87f0b6656b636159c3a924317b2e8b4c",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=9404",
+    "https://info.ntv.co.jp/company/profile/",
+    "https://ja.wikipedia.org/wiki/日本テレビホールディングス"
+   ]
+  },
+  {
+   "query": "日本テレビホールディングス 社長 インタビュー",
+   "results": [
+    "https://minpo.online/article/-70.html",
+    "https://www.ntvhd.co.jp/",
+    "https://kitaishihon.com/company/9404/board-of-director",
+    "https://mugenlabo-magazine.kddi.com/list/mugen2023-ntv/",
+    "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%83%86%E3%83%AC%E3%83%93%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "https://www.yomiuri.co.jp/economy/20241129-OYT1T50113/",
+    "https://info.ntv.co.jp/pressrelease/20260105.html",
+    "https://diamond.jp/articles/-/397931",
+    "https://storium.jp/organization/87f0b6656b636159c3a924317b2e8b4c",
+    "https://ja.wikipedia.org/wiki/福田博之"
+   ]
+  }
+ ],
+ "missing": {
+  "利益の源泉": "記載なし（3回確認済み：公式17頁／PDF・画像3件／外部3頁・検索5回）"
+ }
+}

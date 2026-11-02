@@ -1,0 +1,1008 @@
+{
+ "name": "Ａｉロボティクス",
+ "aliases": [],
+ "context": "証券コード247A／化学／グロース（内国株式）／2026.03期 売上高29,359百万円 営業利益率13.0%",
+ "researched_at": "2026-11-02T19:40:45.475635+00:00",
+ "official_url": "https://ai-robotics.co.jp/",
+ "identified_by": "search:ddgs:google:Aiロボティクス",
+ "profile": {
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "製造業領域に特化した市場情報調査・データ提供基盤の開発",
+    "url": "https://lister.jp/ai-robotics/chaos-map/report/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "Aiロボティクスでは、独自開発のAIシステム「SELL」を軸に、商品の企画開発、マーケティング、CS、物流、倉庫在庫管理からCRMまで、ブランド運営を取り巻く業務すべてのデータをリアルタイムで分析し改善を行い、高効率で再現性を追求しております",
+    "url": "https://ai-robotics.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "人生をより豊かに充実させるためのソリューションを提供していきます",
+    "url": "https://ai-robotics.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "AIを活用した独自の成長ロジックで、自社ブランドや商品の企画開発・マーケティング・CRMまで一気通貫的に分析を行い、LTVを最大化",
+    "url": "https://ai-robotics.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "AIソリューション",
+    "url": "https://ai-robotics.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "また、顧客データを自動分析し、商品の企画開発やCRM施策に活用",
+    "url": "https://ai-robotics.co.jp/business/ai.html",
+    "pass": 1
+   },
+   {
+    "quote": "各商品のお問い合わせ等については各ブランドサイトよりお問い合わせをお願いいたします",
+    "url": "https://ai-robotics.co.jp/ir/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "・金融商品取引法 第166条にある「重要事実」に該当する可能性のあるご質問（株主還元、株価対策など）",
+    "url": "https://ai-robotics.co.jp/ir/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "・営業や勧誘のお問い合わせ（○○サービスのご案内など）",
+    "url": "https://ai-robotics.co.jp/ir/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "備等のサービス分野へと拡大しており、 サービスロボットの世界市場は既に産業用ロボット",
+    "url": "https://www.cas.go.jp/jp/seisaku/ai_robo/dai2/shiryo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "頃な価格で多様な現場環境への導入・運用のしやすさが重視されるサービスロボット市場へ",
+    "url": "https://www.cas.go.jp/jp/seisaku/ai_robo/dai2/shiryo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、 現場データと実装ノウハウを核に、 供給側 （研究開発・ 製品開発・",
+    "url": "https://www.cas.go.jp/jp/seisaku/ai_robo/dai2/shiryo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "造体制やサービス提供体制を維持できる規模の需要の創出がうまく進まず、 市場形成が限定",
+    "url": "https://www.cas.go.jp/jp/seisaku/ai_robo/dai2/shiryo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "題を踏まえ、 従来の技術開発 ・ 実証中心の枠組みを、研究開発、製品開発、需要創出、 量産、",
+    "url": "https://www.cas.go.jp/jp/seisaku/ai_robo/dai2/shiryo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "展開が見込まれるサービスロボット市場では、 海外勢の伸長に比して存在感が低下している",
+    "url": "https://www.cas.go.jp/jp/seisaku/ai_robo/dai2/shiryo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "あり、 供給側が製品・サービスを継続的に改良し、 量産・低コスト化を進めるための需要が",
+    "url": "https://www.cas.go.jp/jp/seisaku/ai_robo/dai2/shiryo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ため、研究開発から設計、量産、品質・安全性、コスト競争力、保守・サービス等を含む",
+    "url": "https://www.cas.go.jp/jp/seisaku/ai_robo/dai2/shiryo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "険が大きく、人手不足が深刻なエッセンシャルサービスを維持・発展させる",
+    "url": "https://www.cas.go.jp/jp/seisaku/ai_robo/dai2/shiryo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "供給側については、ソフトウェアとハードウェアを一体として捉え、研究開発・製品開",
+    "url": "https://www.cas.go.jp/jp/seisaku/ai_robo/dai2/shiryo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、供給側の競争力は、各製品の性能だけでなく、現場への統合・運用設計、保守・",
+    "url": "https://www.cas.go.jp/jp/seisaku/ai_robo/dai2/shiryo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "こうした取組を進める中で、我が国が有する技術・製品",
+    "url": "https://www.cas.go.jp/jp/seisaku/ai_robo/dai2/shiryo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、研究開発、製品開発、実証・本格導入、量産投資、保守サービス体制の確",
+    "url": "https://www.cas.go.jp/jp/seisaku/ai_robo/dai2/shiryo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（生活関連サービスや家事等）にも普及していくことが期待される",
+    "url": "https://www.cas.go.jp/jp/seisaku/ai_robo/dai2/shiryo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "拡大するサービスロボット市場では後塵を拝している状況にある中、 フィジカルＡＩ時代の",
+    "url": "https://www.cas.go.jp/jp/seisaku/ai_robo/dai2/shiryo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足への対応、エッセンシャルサービスの維持、サプライチェーン全体の ＤＸ・ＧＸ、",
+    "url": "https://www.cas.go.jp/jp/seisaku/ai_robo/dai2/shiryo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "AIロボティクス関連企業443社・408製品を独自分析",
+    "url": "https://lister.jp/ai-robotics/chaos-map/report/",
+    "pass": 3
+   },
+   {
+    "quote": "企業・製品データから、産業構造・実装分野・共通タスク・技術課題・商用化状況・横展開性を分析しています",
+    "url": "https://lister.jp/ai-robotics/chaos-map/report/",
+    "pass": 3
+   },
+   {
+    "quote": "関連製品・サービス",
+    "url": "https://lister.jp/ai-robotics/chaos-map/report/",
+    "pass": 3
+   },
+   {
+    "quote": "408製品のうち、広義の商用化済みは",
+    "url": "https://lister.jp/ai-robotics/chaos-map/report/",
+    "pass": 3
+   },
+   {
+    "quote": "312製品（76.5%）",
+    "url": "https://lister.jp/ai-robotics/chaos-map/report/",
+    "pass": 3
+   },
+   {
+    "quote": "」を起点に、企業・製品データと政策上の分類を対応付けて集計したものです",
+    "url": "https://lister.jp/ai-robotics/chaos-map/report/",
+    "pass": 3
+   },
+   {
+    "quote": "関連製品・サービス408製品",
+    "url": "https://lister.jp/ai-robotics/chaos-map/report/",
+    "pass": 3
+   },
+   {
+    "quote": "443社に紐づく408製品を分析",
+    "url": "https://lister.jp/ai-robotics/chaos-map/report/",
+    "pass": 3
+   },
+   {
+    "quote": "製品レコードが存在する企業は266社",
+    "url": "https://lister.jp/ai-robotics/chaos-map/report/",
+    "pass": 3
+   },
+   {
+    "quote": "273製品・210社を政策上の実装分野・共通タスク・技術課題へ対応付け",
+    "url": "https://lister.jp/ai-robotics/chaos-map/report/",
+    "pass": 3
+   },
+   {
+    "quote": "本ページの企業数・製品数は、株式会社Listerが独自に収集・整理したデータベース上の分布であり、市場規模、市場シェア、導入率、技術力ランキングを示すものではありません",
+    "url": "https://lister.jp/ai-robotics/chaos-map/report/",
+    "pass": 3
+   },
+   {
+    "quote": "本ページの分析内容をまとめたPDFレポートと、AIロボティクス関連企業443社の企業名、事業概要、製品・サービス、関連カテゴリ等を収録した詳細版データベースを無料で提供しています",
+    "url": "https://lister.jp/ai-robotics/chaos-map/report/",
+    "pass": 3
+   },
+   {
+    "quote": "製品数でも製造137製品、物流48製品、インフラ保守27製品、建設・土木20製品と同様の順序が確認されました",
+    "url": "https://lister.jp/ai-robotics/chaos-map/report/",
+    "pass": 3
+   },
+   {
+    "quote": "商用化段階まで見ると、製造業では137製品のうち122製品が商用化済みで、商用化済比率は89.1%でした",
+    "url": "https://lister.jp/ai-robotics/chaos-map/report/",
+    "pass": 3
+   },
+   {
+    "quote": "技術課題は製品に対するマッピングであり、技術的因果関係や課題の難易度を直接測定するものではありません",
+    "url": "https://lister.jp/ai-robotics/chaos-map/report/",
+    "pass": 3
+   },
+   {
+    "quote": "認識・状況理解38製品、把持機構26製品、動作生成・知能制御14製品の組み合わせが目立ちます",
+    "url": "https://lister.jp/ai-robotics/chaos-map/report/",
+    "pass": 3
+   },
+   {
+    "quote": "安定移動・経路計画23製品が突出し、経路計画との関連が強く見られます",
+    "url": "https://lister.jp/ai-robotics/chaos-map/report/",
+    "pass": 3
+   },
+   {
+    "quote": "認識21製品に加えて、経路計画7製品、移動機構5製品、環境耐性4製品などが組み合わされます",
+    "url": "https://lister.jp/ai-robotics/chaos-map/report/",
+    "pass": 3
+   },
+   {
+    "quote": "本分析は技術課題と製品のマッピング関係を示すものであり、技術的因果関係や課題の難易度を直接測定したものではありません",
+    "url": "https://lister.jp/ai-robotics/chaos-map/report/",
+    "pass": 3
+   },
+   {
+    "quote": "408製品に占める比率",
+    "url": "https://lister.jp/ai-robotics/chaos-map/report/",
+    "pass": 3
+   },
+   {
+    "quote": "408製品のうち、商用提供",
+    "url": "https://lister.jp/ai-robotics/chaos-map/report/",
+    "pass": 3
+   },
+   {
+    "quote": "既に商用化された製品群と、次の技術波を担う開発・実証群が併存しています",
+    "url": "https://lister.jp/ai-robotics/chaos-map/report/",
+    "pass": 3
+   },
+   {
+    "quote": "図13 8共通タスク別・商用化済製品比率",
+    "url": "https://lister.jp/ai-robotics/chaos-map/report/",
+    "pass": 3
+   },
+   {
+    "quote": "小標本のタスクでは比率が大きく振れるため、製品数（n）と併せて解釈してください",
+    "url": "https://lister.jp/ai-robotics/chaos-map/report/",
+    "pass": 3
+   },
+   {
+    "quote": "製品成熟度では、スタートアップ119製品の商用化済比率66.4%に対し、非スタートアップ289製品は80.6%でした",
+    "url": "https://lister.jp/ai-robotics/chaos-map/report/",
+    "pass": 3
+   },
+   {
+    "quote": "記事内に商品プロモーションを含む場合があります",
+    "url": "https://ryousai-kenbo.com/money/ceo/247a/",
+    "pass": 3
+   },
+   {
+    "quote": "AIロボティクスの製品について",
+    "url": "https://ryousai-kenbo.com/money/ceo/247a/",
+    "pass": 3
+   },
+   {
+    "quote": "ですが、会社のことをさらに知っていき、商品のことも知っていったことで、Aiロボティクスという会社に対する解像度がどんどん上がっていきました",
+    "url": "https://ryousai-kenbo.com/money/ceo/247a/",
+    "pass": 3
+   },
+   {
+    "quote": "①商品について調べてみた！",
+    "url": "https://ryousai-kenbo.com/money/ceo/247a/",
+    "pass": 3
+   },
+   {
+    "quote": "［主力であるYunth（基礎化粧品）と美容家電について］",
+    "url": "https://ryousai-kenbo.com/money/ceo/247a/",
+    "pass": 3
+   },
+   {
+    "quote": "②2025年春以降の新商品について",
+    "url": "https://ryousai-kenbo.com/money/ceo/247a/",
+    "pass": 3
+   },
+   {
+    "quote": "ストレイン(シャンプー)・Yunth(新作サプリ)の口コミ評判【2025年度新商品】AIロボティクス",
+    "url": "https://ryousai-kenbo.com/money/ceo/247a/",
+    "pass": 3
+   },
+   {
+    "quote": "前回の記事以降に発売された新商品であるStrainとYunthのビタミンCサプリメントについて、「美容系は分からないけど、AIロボティ...",
+    "url": "https://ryousai-kenbo.com/money/ceo/247a/",
+    "pass": 3
+   },
+   {
+    "quote": "あえて気になる点を挙げるとしたら、販売している製品をリアルに使ったことがない点です",
+    "url": "https://ryousai-kenbo.com/money/ceo/247a/",
+    "pass": 3
+   },
+   {
+    "quote": "社長について調べ、会社について調べ、最後に製品について調べてみました！かなり調べてまとめましたので、こちらも併せて参考にしてみてください！（特に製品が分からなくて困っている男性に読んでもらいたいです！もちろん男女問わずおすすめです♩）",
+    "url": "https://ryousai-kenbo.com/money/ceo/247a/",
+    "pass": 3
+   },
+   {
+    "quote": "（まずは商品買いに行くか〜笑）",
+    "url": "https://ryousai-kenbo.com/money/ceo/247a/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "TBS系全国28局ネット『がっちりマンデー!!』にて当社が紹介されました",
+    "url": "https://ai-robotics.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ですが、前に紹介したYouTube動画やインタビュー記事を見る限り、龍川社長の夢はもっと壮大なものだと伺えます",
+    "url": "https://ryousai-kenbo.com/money/ceo/247a/",
+    "pass": 3
+   },
+   {
+    "quote": "現在はAIを思考のパートナーとして活用しながら、億り人を目指しつつ、独自メソッドの「川下り式」で自分の人生を歩める人を増やす活動をしています",
+    "url": "https://ryousai-kenbo.com/money/ceo/247a/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "Aiロボティクスでは、独自開発のAIシステム「SELL」を軸に、商品の企画開発、マーケティング、CS、物流、倉庫在庫管理からCRMまで、ブランド運営を取り巻く業務すべてのデータをリアルタイムで分析し改善を行い、高効率で再現性を追求しております",
+    "url": "https://ai-robotics.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "在庫データ自動分析・需要予測",
+    "url": "https://ai-robotics.co.jp/business/ai.html",
+    "pass": 1
+   },
+   {
+    "quote": "在庫ロスや機会損失を削減することで、高効率な事業運営を可能にします",
+    "url": "https://ai-robotics.co.jp/business/ai.html",
+    "pass": 1
+   },
+   {
+    "quote": "を踏まえれば、我が国の強みの重要性はむしろ高まるものである",
+    "url": "https://www.cas.go.jp/jp/seisaku/ai_robo/dai2/shiryo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "他方、 こうした強みは何もしなくても維持されるわけではなく、 従来の産業用ロボットの",
+    "url": "https://www.cas.go.jp/jp/seisaku/ai_robo/dai2/shiryo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ロボットにおける競争優位性にも 悪い影響を受ける可能性があるということでもあ",
+    "url": "https://www.cas.go.jp/jp/seisaku/ai_robo/dai2/shiryo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ロボットで培った強みを基盤としつつ、 フィジカルＡＩ時代に適合し、 研究開発、 標",
+    "url": "https://www.cas.go.jp/jp/seisaku/ai_robo/dai2/shiryo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェア面では、 我が国が強みを持つ製造業等の現場データの活用や海外研究機関",
+    "url": "https://www.cas.go.jp/jp/seisaku/ai_robo/dai2/shiryo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "据え、産業用ロボットや自動車産業 等で培った我が国サプライチェーンの強みを活用し、",
+    "url": "https://www.cas.go.jp/jp/seisaku/ai_robo/dai2/shiryo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "し、他のロボットや周辺システム（設備、搬送、在庫、保全、遠隔運用等）との連携を含",
+    "url": "https://www.cas.go.jp/jp/seisaku/ai_robo/dai2/shiryo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "我が国が強みを有するセンサ",
+    "url": "https://www.cas.go.jp/jp/seisaku/ai_robo/dai2/shiryo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "れまで日本に蓄積された強みを発揮していく",
+    "url": "https://www.cas.go.jp/jp/seisaku/ai_robo/dai2/shiryo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "到来は、我が国の強みを再定義し、新たな成長へ転換する歴史的な機会である",
+    "url": "https://www.cas.go.jp/jp/seisaku/ai_robo/dai2/shiryo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "他方、 こうした基盤があれば、何もしなくても将来の競争優位が保証されるものではない",
+    "url": "https://www.cas.go.jp/jp/seisaku/ai_robo/dai2/shiryo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "今こそ、 我が国の強みを結集し、ＡＩロボティクスを国家的戦",
+    "url": "https://www.cas.go.jp/jp/seisaku/ai_robo/dai2/shiryo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "自社開発のAIマーケティングシステム「SELL」を強みに、ニーズを的確に捉えたプロダクトを開発し、効率的なマーケティングにより、ビューティ市場でも急速に存在感を増している",
+    "url": "https://ryousai-kenbo.com/money/ceo/247a/",
+    "pass": 3
+   },
+   {
+    "quote": "AIロボティクス(247A)社長・龍川誠さんがラジオNIKKEIに出演されました！ビジネスの強み・ご自身の目標・将来のM＆Aのお話も…...",
+    "url": "https://ryousai-kenbo.com/money/ceo/247a/",
+    "pass": 3
+   },
+   {
+    "quote": "Aiロボティクス最新決算｜龍川誠社長の2時間説明会で見えた「本当の強み」と課題",
+    "url": "https://ryousai-kenbo.com/money/ceo/247a/",
+    "pass": 3
+   },
+   {
+    "quote": "Aiロボティクスの真の強みは何なのか？",
+    "url": "https://ryousai-kenbo.com/money/ceo/247a/",
+    "pass": 3
+   },
+   {
+    "quote": "[🔗Aiロボティクスの真の強みを決算書と決算説明会から読み取って解説]",
+    "url": "https://ryousai-kenbo.com/money/ceo/247a/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "また、顧客データを自動分析し、商品の企画開発やCRM施策に活用",
+    "url": "https://ai-robotics.co.jp/business/ai.html",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーの購買行動を自動で分析/予測",
+    "url": "https://ai-robotics.co.jp/business/ai.html",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーの購買データを自動分析し、マーケティング施策やCRM施策と紐付けて改善を行います",
+    "url": "https://ai-robotics.co.jp/business/ai.html",
+    "pass": 1
+   },
+   {
+    "quote": "なお、ＡＩロボティクスの普及にあたっては、現場のユーザーが自然言語やＵＩ（User",
+    "url": "https://www.cas.go.jp/jp/seisaku/ai_robo/dai2/shiryo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従来のように、ＳＩｅｒが個別にアプリケーションを開発し、ユーザーは完成した",
+    "url": "https://www.cas.go.jp/jp/seisaku/ai_robo/dai2/shiryo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【第2弾】フィジカルAI導入企業・実証企業カオスマップ",
+    "url": "https://lister.jp/ai-robotics/chaos-map/report/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "のものの性能のみならず、 ハードウェア、 制御、 安全設計、 運用設計、 保守 ・ 改善を含む「統",
+    "url": "https://www.cas.go.jp/jp/seisaku/ai_robo/dai2/shiryo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "アスタック、部品・コンポーネント、設計・量産・保守体制を国内に確保することは、経済",
+    "url": "https://www.cas.go.jp/jp/seisaku/ai_robo/dai2/shiryo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "準化、 量産、 現場実装、 運用 ・ 保守、 人材育成を一体として再設計することが不可欠である",
+    "url": "https://www.cas.go.jp/jp/seisaku/ai_robo/dai2/shiryo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ため、研究開発から設計、量産、品質・安全性、コスト競争力、保守・サービス等を含む",
+    "url": "https://www.cas.go.jp/jp/seisaku/ai_robo/dai2/shiryo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "発から量産・保守・更新までを含めて競争力の確立を図る",
+    "url": "https://www.cas.go.jp/jp/seisaku/ai_robo/dai2/shiryo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、供給側の競争力は、各製品の性能だけでなく、現場への統合・運用設計、保守・",
+    "url": "https://www.cas.go.jp/jp/seisaku/ai_robo/dai2/shiryo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "インフラ保守、廃棄物処理、防衛等の公的領域を中心に、市場規模や導入ニーズ等から重",
+    "url": "https://www.cas.go.jp/jp/seisaku/ai_robo/dai2/shiryo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を国内で迅速かつ安定的に供給する体制（開発・量産・保守を含む）を構築する",
+    "url": "https://www.cas.go.jp/jp/seisaku/ai_robo/dai2/shiryo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、研究開発、製品開発、実証・本格導入、量産投資、保守サービス体制の確",
+    "url": "https://www.cas.go.jp/jp/seisaku/ai_robo/dai2/shiryo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "保守、小売、宿泊業、介護、警備業、農業、林業、廃棄物処理業、災害対応、警察活動、",
+    "url": "https://www.cas.go.jp/jp/seisaku/ai_robo/dai2/shiryo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "、インフラ保守",
+    "url": "https://lister.jp/ai-robotics/chaos-map/report/",
+    "pass": 3
+   },
+   {
+    "quote": "インフラ保守",
+    "url": "https://lister.jp/ai-robotics/chaos-map/report/",
+    "pass": 3
+   },
+   {
+    "quote": "18分野では製造業が最も多く、物流、インフラ保守、建設・土木が続きます",
+    "url": "https://lister.jp/ai-robotics/chaos-map/report/",
+    "pass": 3
+   },
+   {
+    "quote": "製品数でも製造137製品、物流48製品、インフラ保守27製品、建設・土木20製品と同様の順序が確認されました",
+    "url": "https://lister.jp/ai-robotics/chaos-map/report/",
+    "pass": 3
+   },
+   {
+    "quote": "物流72.9%、インフラ保守74.1%、建設・土木75.0%です",
+    "url": "https://lister.jp/ai-robotics/chaos-map/report/",
+    "pass": 3
+   },
+   {
+    "quote": "、インフラ保守×屋外点検",
+    "url": "https://lister.jp/ai-robotics/chaos-map/report/",
+    "pass": 3
+   },
+   {
+    "quote": "「製造×ハンドリング」「物流×屋内搬送」「インフラ保守×屋外点検」のような明確な業務課題から実装が進んでいることが、今回のデータでは観測されます",
+    "url": "https://lister.jp/ai-robotics/chaos-map/report/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業（多品種少量生産）／造船／物流（倉庫・輸配送）／建設・土木／建築／インフラ保守／小売／宿泊業／飲食・食品製造／医療／介護／警備業／農業／林業／廃棄物処理業／災害対応／警察活動／防衛",
+    "url": "https://lister.jp/ai-robotics/chaos-map/report/",
+    "pass": 3
+   },
+   {
+    "quote": "ロバスト認識・状況理解／ティーチングレス動作生成・知能制御／人等混在環境での安全制御／安定移動・経路計画／走行環境に対応した移動機構／安全・安定な把持機構／環境耐性・メンテナンス性／システム・設備連携基盤／データ整備・保守運用基盤",
+    "url": "https://lister.jp/ai-robotics/chaos-map/report/",
+    "pass": 3
+   },
+   {
+    "quote": "約5兆円の国内投資を起点に、建設・工場インフラから製造装置・部品・材料・保守までの需要波及を整理した新シリーズです",
+    "url": "https://lister.jp/ai-robotics/chaos-map/report/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "令和８年３月２６日",
+    "url": "https://www.cas.go.jp/jp/seisaku/ai_robo/dai2/shiryo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2040 年までに約60 兆円規模へ拡大が見込まれる多用途ロボット市場の成長を取り込む",
+    "url": "https://www.cas.go.jp/jp/seisaku/ai_robo/dai2/shiryo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月",
+    "url": "https://lister.jp/ai-robotics/chaos-map/report/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月2日",
+    "url": "https://ryousai-kenbo.com/money/ceo/247a/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月21日",
+    "url": "https://ryousai-kenbo.com/money/ceo/247a/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期本決算後の株価暴落・売掛金・財務リスク・店頭展開・定点観測結果については、こちらの記事で整理しています",
+    "url": "https://ryousai-kenbo.com/money/ceo/247a/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年８月追記",
+    "url": "https://ryousai-kenbo.com/money/ceo/247a/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年８月14日に発表したQ1決算は赤字でしたが、翌月曜日の株価はストップ高となりました",
+    "url": "https://ryousai-kenbo.com/money/ceo/247a/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年5月8日付のIRにて、龍川社長が保有株数を増やすとの発表を目にしました",
+    "url": "https://ryousai-kenbo.com/money/ceo/247a/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年11月15日",
+    "url": "https://ryousai-kenbo.com/money/ceo/247a/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月19日",
+    "url": "https://ryousai-kenbo.com/money/ceo/247a/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年２月時点（現在はカテゴリを引っ越しました）",
+    "url": "https://ryousai-kenbo.com/money/ceo/247a/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年09月27日、新規上場した",
+    "url": "https://www.youtube.com/watch?v=FB-Wwo7ikas",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "AIロボティクス戦略 ～社会実装を加速し、巨大市場を切り拓く～ — 般を対象とするロボティクスをAIにより高度化していくことである。その際、AIロボティクスの性能を最大限に引き出し、現場のオペレーションを最適化するためには、現場における作業環境・プロセスや運用の在り方そのものを変革し、社会課題解決、産業 ...",
+    "url": "https://www.cas.go.jp/jp/seisaku/ai_robo/dai2/shiryo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "AIロボティクス検討会 第2回事務局資料 — 主な論点 第1回AIロボティクス検討会資料 (令和7年8月29日) ト戦略をどのように評価・総括するか。新たな� 以下の論点について、時間軸を意識しながら、“As is”と“To be”の差をどのように埋めていくか。",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/ai_robotics/pdf/002_2_02_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "AIロボティクス戦略とロードマップについて — (2) 世界最先端のAIロボティクスを実現する頭脳の獲得 ・ロボット基盤モデルとそのベースとなる国産マルチモーダル基盤モデルを開発 ・現場環境等でロボットを運用し、大規模にデータを収集・加工し、モデル開発や改善を行うエコシステムを構築",
+    "url": "https://www8.cao.go.jp/kisei-kaikaku/kisei/meeting/wg/2501_06ai/260430/ai09_0105.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】AIロボティクス戦略とは？4つの主要施策・実装ロードマッ... — Aug 3, 2026 · 日本政府が2026年に策定した「AIロボティクス戦略」を解説します。2040年までの導入目標、4つの主要施策分かりやすく整理 ...",
+    "url": "https://www.icom-giken.com/blog/ai-robotics-strategy/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料｜Aiロボティクス株式会社 — Aiロボティクス株式会社は、新しい自由を創造する会社として、独自開発のAIシステム「SELL」を軸に、AIマーケティング、ブランド事業を行うAIデジタルカンパニーです。",
+    "url": "https://ai-robotics.co.jp/ir/library/briefing/",
+    "pass": 3
+   },
+   {
+    "quote": "IR｜Aiロボティクス株式会社 — Aiロボティクス株式会社は、新しい自由を創造する会社として、独自開発のAIシステム「SELL」を軸に、AIマーケティング、ブランド事業を行うAIデジタルカンパニーです。",
+    "url": "https://ai-robotics.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "Aiロボティクス株式会社 決算説明資料 — EDINET DB — Mar 31, 2026 · Aiロボティクス株式会社の決算説明資料を、AIで構造化されたセクション単位で表示。経営戦略・業績・ガバナンスなど ...",
+    "url": "https://edinetdb.jp/company/E39903/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2026 年3月期 通期 決算説明資料 — 2026年3月期 通期 決算説明資料 事業計画及び成長可能性に関する資料 Aiロボティクス株式会社",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260513/20260513530161.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026 年3月期 第2四半期 決算説明資料 — Aiロボティクスという社名は、AIとRPA(ロボティック・プロセス・オートメーション)を搭載した AIシステム『SELL(セル)』により業務を自動化していることに由来",
+    "url": "https://www2.jpx.co.jp/disc/247A0/140120251114503934.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "AIロボティクス戦略 産業構造分析レポート2026｜18実装分野、8共通タ... — AIロボティクス関連企業443社・408製品を独自分析。18実装分野・8共通タスク・9技術課題から、日本のAIロボティクス産業の構造と社会実装の現在地を可視化しました。",
+    "url": "https://lister.jp/ai-robotics/chaos-map/report/",
+    "pass": 3
+   },
+   {
+    "quote": "Aiロボティクス株式会社 — Aiロボティクス株式会社は、新しい自由を創造する会社として、独自開発のAIシステム「SELL」を軸に、AIマーケティング、ブランド事業を行うAIデジタルカンパニーです。",
+    "url": "https://ai-robotics.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "各分野別のAIロボティクス 実装ロードマップ — 各分野別のAIロボティクス実装ロードマップ 令和8年3月26日 AIロボティクスに関する関係府省連絡会議",
+    "url": "https://www.cas.go.jp/jp/seisaku/ai_robo/dai2/shiryo2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "各分野別のAIロボティクス 実装ロードマップ — モノを動かす」「指作業」※の実現を目指す。これを受け、ロボッ� � その他の発展の方向性としては、既存機械にAI を融合させたAIロボティクスや、コミュニケーション型のロボットなどが考えられる。",
+    "url": "https://www.cas.go.jp/jp/seisaku/ai_robo/dai4/shiryo1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "COMPANY｜Aiロボティクス株式会社 — Aiロボティクス株式会社は、新しい自由を創造する会社として、独自開発のAIシステム「SELL」を軸に、AIマーケティング、ブランド事業を行うAIデジタルカンパニーです。",
+    "url": "https://ai-robotics.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "Aiロボティクス社長・龍川誠の経歴・学歴｜瀧川と間違われる？ — Apr 2, 2026 · Aiロボティクス社長「龍川誠」氏の経歴や学歴を徹底解説。よく「瀧川」と間違われますが正しくは「龍川」です。起業家としての夢や宇宙進出への野望、そして元事業主の投資家主婦が、彼の「経営者としての凄さ」を独自視点で分析します。また、最近発表されたM&Aについても投資家目線で ...",
+    "url": "https://ryousai-kenbo.com/money/ceo/247a/",
+    "pass": 3
+   },
+   {
+    "quote": "Ai Robotics [247A] IPO - YouTube社員平均年収1億円、そして宇宙進出 スキンケア「ユンス」で急成長、A...業界毎特集記事－Aiロボティクス株式会社 代表取締役社長 龍川 誠｜社...【通販化粧品 トップインタビュー】Aiロボティクス 龍川誠社長「事業...AIロボティクス龍川社長が語るBJC買収と今後のビジョンについて - You... — Sep 27, 2024 · 「新規上場企業トップインタビュー」2024年09月27日、新規上場したAiロボティクス 代表取締役社長 龍川誠さんに東京マーケットワイドにご出演 ... Jun 23, 2025 · スキンケアブランドの「ユンス（YUNTH）」と美容家電ブランドの「ブライト（BRIGHTE）」を展開し、急成長を遂げるAiロボティクス。昨年東証グロース市場へ上場し、売上高142億円、営業利益24億円（2025",
+    "url": "https://www.youtube.com/watch?v=FB-Wwo7ikas",
+    "pass": 3
+   },
+   {
+    "quote": "業界毎特集記事－Aiロボティクス株式会社 代表取締役社長 龍川 誠｜社...【通販化粧品 トップインタビュー】Aiロボティクス 龍川誠社長「事業...AIロボティクス龍川社長が語るBJC買収と今後のビジョンについて - You... — 「AIテクノロジーで世界を変えたい」とAIの未来について熱く語る、Aiロボティクス株式会社、代表取締役社⻑の⿓川誠⽒はAIとD2C（ダイレクト・トゥー・コンシューマー）の掛け合わせでヒット商品を生み出し注目を集めている。 Jul 4, 2025 · 営業利益は同97.3%増の24億8000万円だった。 龍川誠社長は、「独自開発のAIシステム『SELL (セル)』をうまく活用しているため、新規のお客さまの獲得件数やCPAを完全にコントロールできている。 事業の目標数字に全力でコミットする」と話している。 Apr 17, 2026 · AIロボティクスのBJC",
+    "url": "https://shachomeikan.jp/industry_article/2414",
+    "pass": 3
+   },
+   {
+    "quote": "AIロボティクス龍川社長が語るBJC買収と今後のビジョンについて - You... — Apr 17, 2026 · AIロボティクスのBJC買収と今後のビジョンについて解説しました。本動画はNotebookLMを使用して作成しています。一部おかしな文字や音声があるの ...",
+    "url": "https://www.youtube.com/watch?v=rGMfnvCgwkM",
+    "pass": 3
+   },
+   {
+    "quote": "【特集】時価総額1兆円達成は投資家への“公約” Aiロボティクス 龍川誠... — Oct 3, 2025 · ─AIを駆使したマーケティング力とこだわりの商品企画力で業績拡大─ 「上場ゴール」。年間100社前後の企業がIPO（新規株式公開）をしながら ...",
+    "url": "https://kabutan.jp/news/marketnews/?b=n202510030540",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "したがって、政策分析の結果を443社全体の構成比として解釈しないでください",
+    "url": "https://lister.jp/ai-robotics/chaos-map/report/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "ビジネスモデルについてより深く知りたい方にオススメの記事↓",
+    "url": "https://ryousai-kenbo.com/money/ceo/247a/",
+    "pass": 3
+   },
+   {
+    "quote": "シナジー効果・M&A後のビジネスモデル・決算上の数字に出ていた違和感…等々詳しく書きました👆",
+    "url": "https://ryousai-kenbo.com/money/ceo/247a/",
+    "pass": 3
+   },
+   {
+    "quote": "[ビジネスモデルに対する理解が深まったラジオ]",
+    "url": "https://ryousai-kenbo.com/money/ceo/247a/",
+    "pass": 3
+   },
+   {
+    "quote": "本業でしっかりと稼ぐことができていて、他社に真似できないビジネスモデルを構築していることが大切なのですが、私が求めている条件を全てクリアしていました",
+    "url": "https://ryousai-kenbo.com/money/ceo/247a/",
+    "pass": 3
+   },
+   {
+    "quote": "GFSは儲からない？現役受講生が費用対効果と投資スクールのビジネスモデルを考えてみた",
+    "url": "https://ryousai-kenbo.com/money/ceo/247a/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://ai-robotics.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-robotics.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-robotics.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-robotics.co.jp/en/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-robotics.co.jp/business/ai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-robotics.co.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-robotics.co.jp/ir/management/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-robotics.co.jp/ir/library/securities-report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-robotics.co.jp/ir/finance/highlight/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-robotics.co.jp/ir/stock/information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-robotics.co.jp/ir/publicnotice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-robotics.co.jp/ir/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-robotics.co.jp/en/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-robotics.co.jp/en/ir/management/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-robotics.co.jp/en/ir/library/securities-report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-robotics.co.jp/en/ir/finance/highlight/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-robotics.co.jp/en/ir/stock/information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-robotics.co.jp/en/ir/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-robotics.co.jp/en/ir/faq/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://ai-robotics.co.jp/business/img/img_yunth.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://ai-robotics.co.jp/business/img/img_brighte.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://ai-robotics.co.jp/business/img/straine.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://ai-robotics.co.jp/business/img/img_bland_03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://ai-robotics.co.jp/business/img/img_ai_mv_sp.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://ai-robotics.co.jp/business/img/img_ai_01_pc.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://ai-robotics.co.jp/business/img/img_ai_02_pc.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://ai-robotics.co.jp/business/img/img_ai_03_pc.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://roboticstrend.net/2026/05/21/%E3%83%AD%E3%83%9C%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9%E4%BC%81%E6%A5%AD%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%BB%A2%E6%8F%9B5%E3%81%A4%E3%81%AE%E6%95%99%E8%A8%93/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cas.go.jp/jp/seisaku/ai_robo/dai2/shiryo1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://lister.jp/ai-robotics/chaos-map/report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ryousai-kenbo.com/money/ceo/247a/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=FB-Wwo7ikas",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Aiロボティクス",
+   "results": [
+    "https://ai-robotics.co.jp/",
+    "https://ai-robotics.co.jp/company/",
+    "https://finance.yahoo.co.jp/quote/247A.T",
+    "https://finance.yahoo.co.jp/quote/247A.T/profile",
+    "https://www.nikkei.com/nkd/company/?scode=247A",
+    "https://kabutan.jp/stock/?code=247A",
+    "https://www.icom-giken.com/blog/ai-robotics-strategy/"
+   ]
+  },
+  {
+   "query": "Aiロボティクス ビジネスモデル",
+   "results": [
+    "https://roboticstrend.net/2026/05/21/ロボティクス企業のビジネスモデル転換5つの教訓/",
+    "https://www.cas.go.jp/jp/seisaku/ai_robo/dai2/shiryo1.pdf",
+    "https://www.meti.go.jp/shingikai/mono_info_service/ai_robotics/pdf/002_2_02_00.pdf",
+    "https://www8.cao.go.jp/kisei-kaikaku/kisei/meeting/wg/2501_06ai/260430/ai09_0105.pdf",
+    "https://www.icom-giken.com/blog/ai-robotics-strategy/",
+    "https://www.meti.go.jp/shingikai/mono_info_service/ai_robotics/pdf/20251008_1.pdf",
+    "https://kpmg.com/jp/ja/insights/2026/08/ai-emergingtech-10.html"
+   ]
+  },
+  {
+   "query": "Aiロボティクス 決算説明資料",
+   "results": [
+    "https://ai-robotics.co.jp/ir/library/briefing/",
+    "https://ai-robotics.co.jp/ir/",
+    "https://edinetdb.jp/company/E39903/presentations/",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260513/20260513530161.pdf",
+    "https://www2.jpx.co.jp/disc/247A0/140120251114503934.pdf",
+    "https://irbank.net/E39903/reports",
+    "https://pdf.irpocket.com/C247A/vAfC/z0d6/kgE4.pdf"
+   ]
+  },
+  {
+   "query": "Aiロボティクス 事業系統図",
+   "results": [
+    "https://lister.jp/ai-robotics/chaos-map/report/",
+    "https://ai-robotics.co.jp/",
+    "https://www.cas.go.jp/jp/seisaku/ai_robo/dai2/shiryo2.pdf",
+    "https://www.cas.go.jp/jp/seisaku/ai_robo/dai4/shiryo1.pdf",
+    "https://ai-robotics.co.jp/company/",
+    "https://www.icom-giken.com/blog/ai-robotics-strategy/",
+    "https://www.nri.com/jp/media/column/mcs_blog/20261006.html"
+   ]
+  },
+  {
+   "query": "Aiロボティクス 社長 インタビュー",
+   "results": [
+    "https://ryousai-kenbo.com/money/ceo/247a/",
+    "https://www.youtube.com/watch?v=FB-Wwo7ikas",
+    "https://shachomeikan.jp/industry_article/2414",
+    "https://www.youtube.com/watch?v=rGMfnvCgwkM",
+    "https://kabutan.jp/news/marketnews/?b=n202510030540",
+    "https://online.bci.co.jp/article/detail/3139",
+    "https://www.wwdjapan.com/articles/2142056"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式19頁／PDF・画像8件／外部5頁・検索5回）",
+  "従業員数": "記載なし（3回確認済み：公式19頁／PDF・画像8件／外部5頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式19頁／PDF・画像8件／外部5頁・検索5回）"
+ }
+}

@@ -1,0 +1,2174 @@
+{
+ "name": "エブレン",
+ "aliases": [],
+ "context": "証券コード6599／電気機器／スタンダード（内国株式）／2026.03期 売上高3,994百万円 営業利益率13.3%",
+ "researched_at": "2026-11-02T19:23:16.427049+00:00",
+ "official_url": "https://ebrain.co.jp/",
+ "identified_by": "search:yahoo_jp:エブレン",
+ "profile": {
+  "設立": [
+   {
+    "label": "●設立",
+    "value": "1973年10月22日",
+    "url": "https://ebrain.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "●設立",
+    "value": "2002年9月5日",
+    "url": "https://ebrain.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "設立と沿革",
+    "value": "技術者たちが興した専門家集団",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "●社員数",
+    "value": "117名（2026年3月期）",
+    "url": "https://ebrain.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "●社員数",
+    "value": "19名(2025年12月期）",
+    "url": "https://ebrain.co.jp/company/outline/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "●売上高",
+    "value": "3,909百万円（2026年3月期） 3,880百万円（2025年3月期） 3,898百万円（2024年3月期）",
+    "url": "https://ebrain.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "●売上高",
+    "value": "8,604千人民元（2025年12月期） 10,847千人民元（2024年12月期） 13,440千人民元（2023年12月期）",
+    "url": "https://ebrain.co.jp/company/outline/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "産業用コンピュータの設計・製造",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/202703_1Q-_company_brochure.pdf",
+    "pass": 2
+   },
+   {
+    "label": "事業内容",
+    "value": "社会インフラを支える5つのセグメント",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "産業用コンピュータの設計・製造",
+    "url": "https://finance.logmi.jp/articles/383244",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "CPCI規格製品",
+    "url": "https://ebrain.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "VME規格製品",
+    "url": "https://ebrain.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "産業用ボードコンピュータの製品開発で培った技術力、開発力を駆使し、様々なニーズに応じたハード/ソフト開発、筐体及び放熱設計、品質を高めるための検証業務まで、システム開発のライフサイクルに合わせた最適なサービスを提供します",
+    "url": "https://ebrain.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "産業用電子機器の設計・製造分野において、最高のソリューションを提供し続けることのできるブレインでありたいとの願いで事業を拡大しています",
+    "url": "https://ebrain.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "エブレンへの各種（製品・お見積り依頼・ＩＲ・求人・その他）お問い合わせはこちらから",
+    "url": "https://ebrain.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "CPCI規格製品",
+    "url": "https://ebrain.co.jp/company/about_ebrain/",
+    "pass": 1
+   },
+   {
+    "quote": "VME規格製品",
+    "url": "https://ebrain.co.jp/company/about_ebrain/",
+    "pass": 1
+   },
+   {
+    "quote": "産業用電子機器の設計・製造分野において、最高のソリューションを提供し続けることのできるブレインでありたいとの願いで事業を拡大しています",
+    "url": "https://ebrain.co.jp/company/about_ebrain/",
+    "pass": 1
+   },
+   {
+    "quote": "エブレンは、エレクトロニクス分野における頭脳、知力の集団となることを目標とし、最高のソリューションを提供することのできるブレインでありたいとの社名に込めた想いで、事業の拡大に取り組んでまいりました",
+    "url": "https://ebrain.co.jp/company/about_ebrain/",
+    "pass": 1
+   },
+   {
+    "quote": "産業用コンピュータ及びその周辺製品の販売",
+    "url": "https://ebrain.co.jp/company/about_ebrain/",
+    "pass": 1
+   },
+   {
+    "quote": "エブレンはこれらインフラシステムに使用される組込型コンピュータ（産業用コンピュータ）及びその周辺製品を、大手システムメーカー（産業用電子機器メーカーや機械装置メーカー等）に販売しております",
+    "url": "https://ebrain.co.jp/company/about_ebrain/",
+    "pass": 1
+   },
+   {
+    "quote": "バックプレーンには各種の規格が制定されており、エブレンではそれらの規格に準拠した標準製品も販売しておりますが、お客様である電子機器メーカーや機械装置メーカーの製造する最終製品は多岐にわたり、その要求仕様も異なるため、お客様の独自の仕様に合わせて設計したカスタム製品の販売が中心となっております",
+    "url": "https://ebrain.co.jp/company/about_ebrain/",
+    "pass": 1
+   },
+   {
+    "quote": "エブレンの長年の実績をもとに、設計回路のパターン・個々の電子部品特性等は過去の類似案件を応用し、多種少量のカスタム製品でも設計期間の短縮化、コストの低減など量産効果を発揮します",
+    "url": "https://ebrain.co.jp/company/about_ebrain/",
+    "pass": 1
+   },
+   {
+    "quote": "・RoHS 対応製品の供給(鉛フリー化推進)",
+    "url": "https://ebrain.co.jp/company/about_ebrain/",
+    "pass": 1
+   },
+   {
+    "quote": "・組織の活動・製品およびサービスによって生じる環境への影響を持続的に改善するためのシステムを構築し、そのシステムを継続的に改善していくPDCAサイクルを構築することが要求されている",
+    "url": "https://ebrain.co.jp/company/about_ebrain/",
+    "pass": 1
+   },
+   {
+    "quote": "CPCI規格製品",
+    "url": "https://ebrain.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "VME規格製品",
+    "url": "https://ebrain.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "CPCI規格製品",
+    "url": "https://ebrain.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "VME規格製品",
+    "url": "https://ebrain.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "CompactPCI Express規格製品の販売を開始",
+    "url": "https://ebrain.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "CompactPCI Serial 規格製品の販売を開始",
+    "url": "https://ebrain.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "SHB Express規格製品の販売を開始",
+    "url": "https://ebrain.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "事業効率化のため、株式会社タンバックを吸収合併し、システムソリューション事業部（上野事業",
+    "url": "https://ebrain.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "CPCI規格製品",
+    "url": "https://ebrain.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "VME規格製品",
+    "url": "https://ebrain.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "CPCI規格製品",
+    "url": "https://ebrain.co.jp/2026/10/30/2027_2q/",
+    "pass": 1
+   },
+   {
+    "quote": "VME規格製品",
+    "url": "https://ebrain.co.jp/2026/10/30/2027_2q/",
+    "pass": 1
+   },
+   {
+    "quote": "CPCI規格製品",
+    "url": "https://ebrain.co.jp/ir/financial-results-briefing/",
+    "pass": 1
+   },
+   {
+    "quote": "VME規格製品",
+    "url": "https://ebrain.co.jp/ir/financial-results-briefing/",
+    "pass": 1
+   },
+   {
+    "quote": "CPCI規格製品",
+    "url": "https://ebrain.co.jp/2023/04/11/2023%E5%B9%B43%E6%9C%88%E6%9C%9F%EF%BC%88%E7%AC%AC50%E6%9C%9F%EF%BC%89%E9%80%9A%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A%E9%96%8B%E5%82%AC%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "pass": 1
+   },
+   {
+    "quote": "VME規格製品",
+    "url": "https://ebrain.co.jp/2023/04/11/2023%E5%B9%B43%E6%9C%88%E6%9C%9F%EF%BC%88%E7%AC%AC50%E6%9C%9F%EF%BC%89%E9%80%9A%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A%E9%96%8B%E5%82%AC%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "pass": 1
+   },
+   {
+    "quote": "CPCI規格製品",
+    "url": "https://ebrain.co.jp/ir/ir-calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "VME規格製品",
+    "url": "https://ebrain.co.jp/ir/ir-calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "CPCI規格製品",
+    "url": "https://ebrain.co.jp/ir/fact_data/",
+    "pass": 1
+   },
+   {
+    "quote": "VME規格製品",
+    "url": "https://ebrain.co.jp/ir/fact_data/",
+    "pass": 1
+   },
+   {
+    "quote": "CPCI規格製品",
+    "url": "https://ebrain.co.jp/ir/movie/",
+    "pass": 1
+   },
+   {
+    "quote": "VME規格製品",
+    "url": "https://ebrain.co.jp/ir/movie/",
+    "pass": 1
+   },
+   {
+    "quote": "子応用分野、防衛・その他分野で増加し、特に主力である計測・制御分野が56.8％増加したことにより、全体とし",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/541QFinancial-Results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品及び製品 153,491 144,397",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/541QFinancial-Results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社へ委託するコンピュータ製品の「要求仕様書」を作成して提示し、",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/202703_1Q-_company_brochure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "私共はその「要求仕様」に基づいて製品を設計し、試作品を作って装置",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/202703_1Q-_company_brochure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "量産開始以降は中長期的に安定した製品供給を要求されます",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/202703_1Q-_company_brochure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品区分(1) ボードコンピュータ",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/202703_1Q-_company_brochure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品区分(2) バックプレーン",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/202703_1Q-_company_brochure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品区分(3) コンピューターシャーシ",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/202703_1Q-_company_brochure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品区分(4) 制御用コンピュータ",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/202703_1Q-_company_brochure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "エブレン製品の用途（応用分野）",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/202703_1Q-_company_brochure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ソリューションズ",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/202703_1Q-_company_brochure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "計測・制御 (半導体製造装置・FA製品 等)",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/202703_1Q-_company_brochure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "より価値のあるソリューションの提供を通して企業価値の拡大を目指す",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/202703_1Q-_company_brochure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ボードコンピューターも含めたより完成品に近い形での製品供給でそれ",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/202703_1Q-_company_brochure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・標準製品、システムパーツの拡充",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/202703_1Q-_company_brochure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品開発期間短縮の必要性の高まり",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/202703_1Q-_company_brochure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "年々構成レベルの高い（完成品に近い）製品に対する需要が増加する傾向",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/202703_1Q-_company_brochure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "パートナーシップを含む技術部門の増強を図り製品開発力の向上を目指す",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/202703_1Q-_company_brochure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品づくりと資材調達を実現",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/202703_1Q-_company_brochure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "現地企業および日系の進出企業へ現地生産によるコスト競争力のある製品を提供します",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/202703_1Q-_company_brochure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【根拠条文】 金融商品取引法第24条第１項",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2015年４月 事業効率化のため、株式会社タンバックを吸収合併し、システムソリューション事業部（上野事業",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "辺製品を事業の対象領域として捉え、当社グループが保有する技術力と生産力を全分野横断的に提供することを営業",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "エブレンの強み",
+    "url": "https://ebrain.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "エブレンの強み",
+    "url": "https://ebrain.co.jp/company/about_ebrain/",
+    "pass": 1
+   },
+   {
+    "quote": "エブレンの強み",
+    "url": "https://ebrain.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "エブレンの強み",
+    "url": "https://ebrain.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "エブレンの強み",
+    "url": "https://ebrain.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "エブレンの強み",
+    "url": "https://ebrain.co.jp/2026/10/30/2027_2q/",
+    "pass": 1
+   },
+   {
+    "quote": "エブレンの強み",
+    "url": "https://ebrain.co.jp/ir/financial-results-briefing/",
+    "pass": 1
+   },
+   {
+    "quote": "エブレンの強み",
+    "url": "https://ebrain.co.jp/2023/04/11/2023%E5%B9%B43%E6%9C%88%E6%9C%9F%EF%BC%88%E7%AC%AC50%E6%9C%9F%EF%BC%89%E9%80%9A%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A%E9%96%8B%E5%82%AC%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "pass": 1
+   },
+   {
+    "quote": "エブレンの強み",
+    "url": "https://ebrain.co.jp/ir/ir-calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "エブレンの強み",
+    "url": "https://ebrain.co.jp/ir/fact_data/",
+    "pass": 1
+   },
+   {
+    "quote": "エブレンの強み",
+    "url": "https://ebrain.co.jp/ir/movie/",
+    "pass": 1
+   },
+   {
+    "quote": "医療関連は顧客の在庫調整が終了し、当第１四半期連結累計期間の売上高は前年同四半期比23百万円（30.3",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/541QFinancial-Results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 10.8% 12.1% 17.8%",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/202703_1Q-_company_brochure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "✓ 顧客の在庫調整が終了し受注回復",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/202703_1Q-_company_brochure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 11.5% 13.2% 14.0％",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/202703_1Q-_company_brochure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "✓ 各社半導体製造装置メーカーの在庫調整は解消",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/202703_1Q-_company_brochure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "経営に強みを発揮できる人材や経営管理に適した人材等、専門性に配慮しながら、取締役会全体としての知識、経験、能力のバランス及び多様",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/CGcode20260630.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "さらに、当社グループの中国子会社・蘇州惠普聯電子有限公司の強みを活かし、中国からの高品質・低",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "産業全体が設備投資を控えるような市場動向となった場合、受注減少・在庫増加等により、当社グループの財政状",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(3) 在庫に関するリスク",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "荷見込み、原材料の顧客買取可否・今後の使用見込みを定期的に調査し、原材料について適正在庫を保つように努",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、当社グループは顧客の注文を受け生産を行うため、完成在庫に関するリスクは少ないと考えておりま",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ますが、同社の顧客である半導体関連最終顧客の状況により受注減少・在庫増加等となった場合、当社グループの",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "客在庫調整の影響により、全体として減少しました",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "医療関連は市場のトレンドとしては堅調に推移していますが、顧客の在庫調整が継続し、当連結会計年度",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "滞留在庫と判定されたものは、廃棄の実績等を基礎として決定した一定の率に基づき、過去からの入出庫に基づく保",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の設備投資延期と電子応用分野の顧客在庫調整の影響により、全体として減少しました",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/53ksst.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "医療関連は市場のトレンドとしては堅調に推移していますが 、顧客の在庫調整が継続し、",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/53ksst.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "討した結果、滞留在庫と判定されたものは、廃棄の実績等を基礎として決定した一定の率",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/53ksst.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "で新規案件の成約により増加したものの、主力である計測・制御分野の設備投資延期と電子応用分野の顧客在庫調",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/05/53th_Financial-Results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "医療関連は市場のトレンドとしては堅調に推移していますが、顧客の在庫調整が継続し、当連結会計年度の",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/05/53th_Financial-Results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "急激な所要増加により顧客の在庫調整は解消するものの、すぐに当社グループの業績に影響するかどうかは不透",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/05/53th_Financial-Results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "約により増加したものの、主力である計測・制御分野のEV関連への設備投資の減少と電子応用分野の顧客在庫調整",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/02/533QFinancial-Results.pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "医療関連は市場のトレンドとしては堅調に推移していますが、顧客の在庫調整が継続し、当第３四半期連結累",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/02/533QFinancial-Results.pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "半導体製造装置は主力機種の在庫調整が継続、さらにEV関係への設備投資の減少により、当第３四半期連結累",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/02/533QFinancial-Results.pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "直近の業績・財務状況：高収益性と鉄壁の財務基盤",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   },
+   {
+    "quote": "財務データ（※）も、その背景にある定性的な強みと結びつけながら深掘りします",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   },
+   {
+    "quote": "競合優位性(1)：技術的参入障壁「プレスフィット技術」",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   },
+   {
+    "quote": "これは、単なる組立技術ではなく、生産設備そのものから作り込むという、極めて深いレベルでの技術的蓄積があることを示しており、他社が容易に追随できない強力な参入障壁となっています",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   },
+   {
+    "quote": "エブレンのもう一つの強みは、前述の「マスカスタム・プロダクション」を支える、顧客との高度な**「すり合わせ技術」**です",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   },
+   {
+    "quote": "エブレンは、製品ライフサイクルのほぼすべてを自社グループ内で完結できる強みを持っています",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   },
+   {
+    "quote": "BCP（事業継続計画）の観点からも、国内複数拠点および海外に生産が分散されていることは大きな強みです",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   },
+   {
+    "quote": "定性的な強みが、実際の経営数値にどのように反映されているかを見ていきましょう",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、営業利益はほぼ横ばいを確保し、営業利益率は前年同期の10.9%から",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   },
+   {
+    "quote": "エブレンの強みを理解した上で、同社が戦う「市場」の特性を見ていきましょう",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   },
+   {
+    "quote": "エブレンの強み:",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   },
+   {
+    "quote": "価格競争に陥らず、技術力と信頼性（＝付加価値）で勝負できるビジネスモデルを確立していることが、同社の最大の強みです",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   },
+   {
+    "quote": "エブレンの強みは、その製品群に具体的に表れています",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   },
+   {
+    "quote": "エブレンは多くの強みを持つ優良企業ですが、投資を行う上ではリスク要因と課題を冷静に把握しておく必要があります",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   },
+   {
+    "quote": "上村社長による長期安定経営は大きな強みである一方、投資家としては「事業承継」のプランを注視していく必要があります",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   },
+   {
+    "quote": "高収益性と効率経営:",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   },
+   {
+    "quote": "多品種少量生産ながら、マスカスタム・プロダクションにより営業利益率10%超（26/3期 1Q実績 12.2%）という高い収益性を実現しています",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   },
+   {
+    "quote": "同社の強みは「人（技術者）」に依存する部分が大きく、優秀な人材の確保・育成が継続的な課題です",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   },
+   {
+    "quote": "同社の真価は、目先の株価変動や短期的な業績（例：半導体サイクルの悪化による一時的な減収）に一喜一憂することなく、その**「技術的参入障壁の高さ」",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   },
+   {
+    "quote": "決算短信・有報・適時開示から日本企業の強み・成長余地・リスクを整理",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   },
+   {
+    "quote": "エブレンの事業内容と強み",
+    "url": "https://finance.logmi.jp/articles/383433",
+    "pass": 3
+   },
+   {
+    "quote": "スイッチングが起こりにくい社会インフラ向けの製品を多く手掛けるとともに、多品種少量生産に対応できる強み",
+    "url": "https://finance.logmi.jp/articles/383433",
+    "pass": 3
+   },
+   {
+    "quote": "半導体製造装置向けは足元では主力機種の在庫調整が続くものの、業界見通しは堅調",
+    "url": "https://finance.logmi.jp/articles/383433",
+    "pass": 3
+   },
+   {
+    "quote": "質疑応答：サプライチェーン混乱後の在庫状況と回復状況について",
+    "url": "https://finance.logmi.jp/articles/383244",
+    "pass": 3
+   },
+   {
+    "quote": "：お客さま側で在庫がたまっていたという点についても、後ほどお話しいただければと思います",
+    "url": "https://finance.logmi.jp/articles/383244",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2027年3月期（第54期）上半期決算説明会開催のお知らせ",
+    "url": "https://ebrain.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月28日（土）11時00分からログミーファイナ …",
+    "url": "https://ebrain.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月23日(木)から24日(金)にグランフロント大 …",
+    "url": "https://ebrain.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月23日(木)から24日(金)まで開催されます『 …",
+    "url": "https://ebrain.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1994年に創設",
+    "url": "https://ebrain.co.jp/company/about_ebrain/",
+    "pass": 1
+   },
+   {
+    "quote": "1973年10月22日",
+    "url": "https://ebrain.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "2002年9月5日",
+    "url": "https://ebrain.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "会社沿革 | エブレン株式会社",
+    "url": "https://ebrain.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1973年10月",
+    "url": "https://ebrain.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1975年10月",
+    "url": "https://ebrain.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1976年10月",
+    "url": "https://ebrain.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1977年4月",
+    "url": "https://ebrain.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1980年3月",
+    "url": "https://ebrain.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1980年10月",
+    "url": "https://ebrain.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1982年10月",
+    "url": "https://ebrain.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1985年10月",
+    "url": "https://ebrain.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1986年2月",
+    "url": "https://ebrain.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1986年7月",
+    "url": "https://ebrain.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1987年4月",
+    "url": "https://ebrain.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1990年4月",
+    "url": "https://ebrain.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1991年8月",
+    "url": "https://ebrain.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1994年4月",
+    "url": "https://ebrain.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1995年10月",
+    "url": "https://ebrain.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1996年11月",
+    "url": "https://ebrain.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1997年8月",
+    "url": "https://ebrain.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1998年9月",
+    "url": "https://ebrain.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1999年12月",
+    "url": "https://ebrain.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年9月",
+    "url": "https://ebrain.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2001年3月",
+    "url": "https://ebrain.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2002年9月",
+    "url": "https://ebrain.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2003年4月",
+    "url": "https://ebrain.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2004年2月",
+    "url": "https://ebrain.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第１四半期決算短信",
+    "url": "https://ebrain.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期通期決算説明会を開催致しました",
+    "url": "https://ebrain.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算短信",
+    "url": "https://ebrain.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期（第53期）通期決算説明会開催のお知らせ",
+    "url": "https://ebrain.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第３四半期決算短信",
+    "url": "https://ebrain.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期（第53期）上半期決算説明会を開催致しました",
+    "url": "https://ebrain.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第2四半期（中間期）決算短信",
+    "url": "https://ebrain.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期（第53期）上半期決算説明会開催のお知らせ",
+    "url": "https://ebrain.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第１四半期決算短信",
+    "url": "https://ebrain.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期通期決算説明会を開催致しました",
+    "url": "https://ebrain.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 決算短信",
+    "url": "https://ebrain.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期（第52期）通期決算説明会開催のお知らせ",
+    "url": "https://ebrain.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第３四半期決算短信",
+    "url": "https://ebrain.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期上半期決算説明会を開催致しました",
+    "url": "https://ebrain.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第2四半期（中間期）決算短信",
+    "url": "https://ebrain.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期（第52期）上半期決算説明会開催のお知らせ",
+    "url": "https://ebrain.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第１四半期決算短信",
+    "url": "https://ebrain.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期通期決算説明会を開催致しました",
+    "url": "https://ebrain.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 決算短信",
+    "url": "https://ebrain.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第３四半期決算短信",
+    "url": "https://ebrain.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期上半期決算説明会を開催致しました",
+    "url": "https://ebrain.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期末配当予想の修正（創立50周年記念配当）",
+    "url": "https://ebrain.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第２四半期決算短信",
+    "url": "https://ebrain.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第１四半期決算短信",
+    "url": "https://ebrain.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 決算短信",
+    "url": "https://ebrain.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期（第54期）上半期決算説明会開催のお知らせ | エブレン株式会社",
+    "url": "https://ebrain.co.jp/2026/10/30/2027_2q/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期（第54期）上半期決算説明会開催のお知らせ",
+    "url": "https://ebrain.co.jp/2026/10/30/2027_2q/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月30日",
+    "url": "https://ebrain.co.jp/2026/10/30/2027_2q/",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "バックプレーンには各種の規格が制定されており、エブレンではそれらの規格に準拠した標準製品も販売しておりますが、お客様である電子機器メーカーや機械装置メーカーの製造する最終製品は多岐にわたり、その要求仕様も異なるため、お客様の独自の仕様に合わせて設計したカスタム製品の販売が中心となっております",
+    "url": "https://ebrain.co.jp/company/about_ebrain/",
+    "pass": 1
+   },
+   {
+    "quote": "医療関連は顧客の在庫調整が終了し、当第１四半期連結累計期間の売上高は前年同四半期比23百万円（30.3",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/541QFinancial-Results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "✓ 顧客の在庫調整が終了し受注回復",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/202703_1Q-_company_brochure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "✓ 一部顧客で電子顕微鏡案件が終息",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/202703_1Q-_company_brochure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "✓ 顧客で継続していた生産調整は終了し受注回復",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/202703_1Q-_company_brochure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客メーカーの要求仕様に基づく、長期的安定供給を前提とした受託設計・受託生産の",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/202703_1Q-_company_brochure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客メーカーはなるべくそのまま使えるユニット(完成体)で調達したいと",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/202703_1Q-_company_brochure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客メーカーの要求仕様に基づく 受託設計・受託生産・長期的安定供給のビジネス",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/202703_1Q-_company_brochure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客メーカーとの協業を通じて",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/202703_1Q-_company_brochure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の顧客メーカーは、部品をバラバラで調達する事をやめ、なるべくそのまま使えるユニット(完成",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/202703_1Q-_company_brochure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様が本来の研究開発活動にリソースを集中していただけるよう、当社の受託範囲がより完成品に近",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/202703_1Q-_company_brochure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "い形となるよう供給体制を整備・拡充し、お客様の多様なニーズに応えます",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/202703_1Q-_company_brochure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "CPU回路を備え、ユーザー側の",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/202703_1Q-_company_brochure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、内部統制及びリスク管理を徹底することにより、株主、取引先及び従業員をはじめとした様々なステークホルダーに対して社会的な責任",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/CGcode20260630.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "d 上場会社を主要な取引先とする者又はその業務執行者",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/CGcode20260630.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "e 上場会社の主要な取引先又はその業務執行者",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/CGcode20260630.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "h 上場会社の取引先（d、e及びｆのいずれにも該当しないもの）の業務執行者（本人のみ）",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/CGcode20260630.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "f 上場会社を主要な取引先とする者又はその業務執行者",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/CGcode20260630.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "g 上場会社の主要な取引先又はその業務執行者",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/CGcode20260630.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "j 上場会社の取引先（f、g及びhのいずれにも該当しないもの）の業務執行者（本人のみ）",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/CGcode20260630.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "新規取引先に関しては、仕入先・販売先（得意先）・経費支払先を含め、全て日経テレコン、グーグルでの情報検索（コンプライアンス・チェック）を",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/CGcode20260630.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "継続取引先に関しては、２年毎にコンプライアンス・チェックを行なっております",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/CGcode20260630.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "基本的に全ての仕入先・得意先・経費支払先との間では、取引先が反社会的勢力である事が判明した場合には契約を解除できる旨の暴排条項",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/CGcode20260630.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、当社グループ製品の顧客である大手システムメーカー（産業用電子機器メーカーや機械装置メーカー等",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "てコンピュータ産業の発展に寄与し、当社グループの顧客を始めとしたステークホルダーに対する使命と責任を果た",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "おりますが、顧客である電子機器メーカーや機械装置メーカーの製造する最終製品は多岐にわたり、その要求仕様も",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "異なるため、顧客独自の仕様に合わせて設計したカスタム製品(標準品を部分的に変更し又は独自の仕様で設計して顧",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、バックプレーン単体ばかりでなく、顧客の要求に",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このようなケースにおいて、顧客はCPUの開発に専念し、ボードコンピュータとして動",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "さらに、蘇州惠普聯電子有限公司から日本国内の顧客に販売することがありますが、その際は当社経由",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "着実に実行してきた結果として当社グループの技術力が認められ、顧客の信頼を勝ち得てきたことによるものと認",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "を早期に推進するとともに、自社製プレスフィットマシンを用いて高品質なバックプレーンを短納期で顧客に提供",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "材調達拠点としての機能を最大限に活用し、従来以上に顧客の幅広いニーズにお応えしていく所存であります",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの顧客である電子機器メーカーは、従",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "た経営資源の有効活用と製品開発期間の短縮及びコスト低減を目指し、顧客側で必要とされる構成レベルの部材",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⑤ コンピュータ・プラットフォーム(コンピュータ本体内部にCPU回路を備え、顧客の目的に応じて",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループでは顧客のニーズに合わせて、バックプレーン単体を販売する場合もあれば、システムラック又",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この背景としては、顧客の製品開発期間短縮ニーズや技術者不足によるものと考えられますが、当社グループ",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "では顧客が本来の研究開発活動にリソースを集中していただけるよう、受託設計・製造能力の向上に努め、顧客",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客のコスト低減要求に応え、コストダウンを図っていくことはメーカーに共通する課題であります",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "さらに、品質の向上、納期の厳守・短縮化にも努め、クオリティ、コスト、デリバリー全ての面で顧客満足度",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(f) 既存顧客との関係強化と新規顧客の積極的開拓",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、大手電子機器メーカーを中心とする顧客との間で、安定的な取引関係を継続、拡大しており",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これらの顧客と、引き続き良好な関係を維持、強化していくことが重要な戦略であると認識しておりま",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "多様化する顧客のニーズを捉え、「(b)コア事業の強化」はこの評価定着を実現し、応えていくための戦略でもあ",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "る顧客は多岐にわたっておりますが、数多くの潜在顧客が存在すると認識しております",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "新規顧客の開拓に関し",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループには、産業用コンピュータを使用するあらゆる業種の顧客が存在しているため、過去には特定の業",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の設備投資延期と電子応用分野の顧客在庫調整の影響により、全体として減少しました",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/53ksst.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "医療関連は市場のトレンドとしては堅調に推移していますが 、顧客の在庫調整が継続し、",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/53ksst.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "さらに、昨期まで継続していた顧客側の在",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/53ksst.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ユーザーとのパートナーシップを強化し、事業領域の拡大を進めてまいります",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/53ksst.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社及び連結子会社の顧客との契約から生じる収益に関する主要な事業における主な履",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/53ksst.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品又は製品に対する支配は引き渡し時に顧客に移転し、その時点で履行義務が充足さ",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/53ksst.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "用し、商品又は製品の国内の販売において、出荷時から当該商品又は製品の支配が顧客に",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/53ksst.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "とともに、商品及び製品の出荷見込みや、原材料の顧客買取可否や使用見込等に基づき検",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/53ksst.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業債権である受取手形及び売掛金、電子記録債権は、顧客の信用リスクに晒されてお",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/53ksst.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "長期性預金は、公表された相場価格が存在しないため 、取引先金融機関から提示され",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/53ksst.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の顧客との契約から生じる収益に関する主要な事業における主な履行義務の内容及び",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/53ksst.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品又は製品に対する支配は引き渡し時に顧客に移転し、その時点で履行義務が充足され",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/53ksst.pdf",
+    "pass": 2
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "産業用電子機器では、保守性、拡張性、汎用性等の利点から、回路基板を自由に抜き差しできるバックプレーン方式が一般的に採用されているため、その適用領域は産業用電子機器業界全般にわたっております",
+    "url": "https://ebrain.co.jp/company/about_ebrain/",
+    "pass": 1
+   },
+   {
+    "quote": "保守体制、保守要員、",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/202703_1Q-_company_brochure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ストックオプションの付与対象者",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/CGcode20260630.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、取締役の賞与を含めた取締役報酬等総額は、2020年６月30日の第47期定時株主総会において年額１億30百万円（取締役６名）を上限と",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/CGcode20260630.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "監査役の賞与を含めた監査役報酬等総額は、2020年６月30日の第47期定時株主総会において年額20百万円（監査役３名）を上限とすると決議",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/CGcode20260630.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "産業用電子機器では、保守性、拡張性、汎用性等の利点から、回路基板を自由に抜き差しできるバックプレーン方",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "産業用の電子機器にバックプレーン方式が多用されるのは、メンテナビリティー(保守性)が優れているという点",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "送単価の上昇により、発送運賃３百万円増加したことによるものです",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① 【ストックオプション制度の内容】",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取締役の賞与を含めた取締役報酬等総額は、2020年６月30日の第47期定時株主総会において年額１億30百万円",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "監査役の賞与を含めた監査役報酬等総額は、2020年６月30日の第47期定時株主総会において年額20百万円（監",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "支払手数料 38,277 〃 38,489 〃",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "おいて年額１億30百万円（取締役６名）を上限とすると決議いただいております",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/53ksst.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "おいて年額20百万円（監査役３名）を上限とすると決議いただいております",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/53ksst.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「ストック型」に近い特性",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   },
+   {
+    "quote": "保守・リサイクル性:",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   },
+   {
+    "quote": "バリューチェーン：設計から生産、保守までの一貫体制",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との長期的な関係を維持し、導入後の保守や次世代機の開発にもつなげます",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   },
+   {
+    "quote": "防衛装備品（レーダー、通信、指揮統制システムなど）に求められる性能は、「極限環境での稼働（高熱、極寒、振動）」「超長期（20年超）の運用と保守性」「最高の信頼性（故障が許されない）」であり、これはエブレンが産業用分野で培ってきたノウハウそのものです",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の開発設計段階から入り込む「すり合わせ技術」により、一度採用されると長期にわたる安定取引（ストック型収益）が見込めます",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   },
+   {
+    "quote": "ストック型ビジネス",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、半導体製造装置をはじめとして、一般的には回路基板ごとに保守用としてあらかじめストックを用意しておきます",
+    "url": "https://finance.logmi.jp/articles/383244",
+    "pass": 3
+   },
+   {
+    "quote": "：「それを抜いて、保守用のものと差し替えてみてください」といった指示を出して対応しています",
+    "url": "https://finance.logmi.jp/articles/383244",
+    "pass": 3
+   },
+   {
+    "quote": "：したがって、保守メンテナンスが可能で概略を理解している方に、指示どおりに作業していただくかたちになります",
+    "url": "https://finance.logmi.jp/articles/383244",
+    "pass": 3
+   },
+   {
+    "quote": "このように、切り離しが非常に重要であり、保守性につながるポイントでもあります",
+    "url": "https://finance.logmi.jp/articles/383244",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "会社紹介動画",
+    "url": "https://ebrain.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "当社紹介動画 | エブレン株式会社",
+    "url": "https://ebrain.co.jp/ir/movie/",
+    "pass": 1
+   },
+   {
+    "quote": "東京証券取引所 上場会社紹介",
+    "url": "https://ebrain.co.jp/ir/movie/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップを含む技術部門の増強を図り製品開発力の向上を目指す",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/202703_1Q-_company_brochure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【補充原則４－10① 任意の指名委員会・報酬委員会の設置】",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/CGcode20260630.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ては利益相反特別委員会を設置する独自の対応を行っており、取締役の指名や報酬の決定に限らず、特に重要な事項に関する検討で客観性と",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/CGcode20260630.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名委員会又は報酬委員会に相当する",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/CGcode20260630.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．業務執行、監査・監督、指名、報酬決定等の機能に係る事項（現状のコーポレート・ガバナンス体制の概要）",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/CGcode20260630.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これらを実現するために、営業体制",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ハウ等を活用しつつ、従来以上に幅広いメーカーとのパートナーシップを強化し、受注領域の拡大を進めてまい",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2011年１月 同事務所パートナー弁護士(現任)",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ユーザーとのパートナーシップを強化し、事業領域の拡大を進めてまいります",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/53ksst.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "内幸町国際総合法律事務所 パートナー弁護士",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/53ksst.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この記事は、単なる企業紹介ではありません",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   },
+   {
+    "quote": "このような密接な関係（いわば「運命共同体」）を一度構築してしまうと、顧客にとってエブレンは単なる「部品サプライヤー」ではなく、「開発パートナー」となります",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   },
+   {
+    "quote": "顧客（装置メーカー）の次世代機・次々世代機の開発パートナーとして、より高度な技術要求に応え続けることで、シェアを維持・拡大します",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   },
+   {
+    "quote": "国内の注目銘柄を紹介する新連載「ログミーFinanceの#銘柄発掘」がスタート! ビジネスモデルやファンダメンタルズの分析を通じて、中長期で保有できる優良銘柄の見極め方が身につく実践的シリーズです",
+    "url": "https://finance.logmi.jp/articles/383433",
+    "pass": 3
+   },
+   {
+    "quote": "同事務所パートナー弁護士(現任)",
+    "url": "https://kitaishihon.com/company/6599/board-of-director",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "（セグメント情報等の注記） …………………………………………………………………………………８",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/541QFinancial-Results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ントは単一でありますので、セグメントごとに経営成績の状況は開示しておりませんが、営業品目の応用分野別売",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/541QFinancial-Results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "連結累計期間の売上高は前年同四半期比15百万円（36.9％）増の57百万円となり、売上構成比率は前年同四半期",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/541QFinancial-Results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "％）増の101百万円となり、売上構成比率は前年同四半期と変わらず8.6％となりました",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/541QFinancial-Results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "間の売上高は前年同四半期比296百万円（56.8％）増の818百万円となり、売上構成比率は前年同四半期の57.1％",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/541QFinancial-Results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "比59百万円（28.6％）減の148百万円となり、売上構成比率は前年同四半期の22.7％から12.4％となりました",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/541QFinancial-Results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "上構成比率は前年同四半期の7.0％から5.5％となりました",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/541QFinancial-Results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/541QFinancial-Results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/541QFinancial-Results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "造・販売を専業として行っており、単一セグメントであるため記載を省略しております",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/541QFinancial-Results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "グメントは単一でありますので、セグメントごとに経営成績の状況は開示しておりませんが、営業品目の応用",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（21.1％）増の277百万円となり、売上構成比率は前年同期の5.7％から6.9％となりました",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の売上高は前年同期比50百万円（13.5％）減の323百万円となり、売上構成比率は前年同期の9.3％から8.1％",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（6.9％）減の2,289百万円となり、売上構成比率は前年同期の61.1％から57.3％となりました",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "円（3.1％）増の759百万円となり、売上構成比率は前年同期の18.3％から19.0％となりました",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "万円となり、売上構成比率は前年同期の5.6％から8.6％となりました",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "したがいまして、セグメントごとに生産規模等を金額あるいは数量で示すことはして",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "るものであり、セグメントは単一であります",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "したがいまして、セグメントごとに経営成績等の状況に関する分",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "り、セグメントは単一であります",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "したがいまして、セグメントごとに主要な設備の状況は開示しておりません",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "したがいまして、セグメントごとに重要な設備の新設及び除却等の計画は、開",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "設計・製造・販売を行っており、単一セグメントであるため、連結会社別の従業員数を記載しております",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "造・販売を行っており、単一セグメントであるため、セグメント別の記載を省略しております",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(セグメント情報等)",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "販売を行っており、単一セグメントであるため記載を省略しております",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客の名称又は氏名 売上高 関連するセグメント名",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株式会社アバールデータ 913,791 単一セグメントであるため記載を省略しております",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株式会社アバールデータ 742,790 単一セグメントであるため記載を省略しております",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【報告セグメントごとの固定資産の減損損失に関する情報】",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【報告セグメントごとののれんの償却額及び未償却残高に関する情報】",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【報告セグメントごとの負ののれん発生益に関する情報】",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "上高は前年同期比48百万円（21.1％）増の277百万円となり、売上構成比率は前年同期の",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/53ksst.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "同期比169百万円（6.9％）減の2,289百万円となり、売上構成比率は前年同期の61.1％か",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/53ksst.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "年同期比23百万円（3.1％）増の759百万円となり、売上構成比率は前年同期の18.3％から",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/53ksst.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（51.2％）増の343百万円となり、売上構成比率は前年同期の5 .6％から8.6％となりまし",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/53ksst.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(セグメント情報等) ……………………………………………………………………………………………12",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/05/53th_Financial-Results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ントは単一でありますので、セグメントごとに経営成績の状況は開示しておりませんが、営業品目の応用分野別売",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/05/53th_Financial-Results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "％）増の277百万円となり、売上構成比率は前年同期の5.7％から6.9％となりました",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/05/53th_Financial-Results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高は前年同期比50百万円（13.5％）減の323百万円となり、売上構成比率は前年同期の9.3％から8.1％とな",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/05/53th_Financial-Results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（6.9％）減の2,289百万円となり、売上構成比率は前年同期の61.1％から57.3％となりました",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/05/53th_Financial-Results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（3.1％）増の759百万円となり、売上構成比率は前年同期の18.3％から19.0％となりました",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/05/53th_Financial-Results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "円となり、売上構成比率は前年同期の5.6％から8.6％となりました",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/05/53th_Financial-Results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このような状況下、当社グループにとって売上構成比率の高い日本製半導体製造装置",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/05/53th_Financial-Results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(セグメント情報等)",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/05/53th_Financial-Results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "販売を専業として行っており、単一セグメントであるため記載を省略しております",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/05/53th_Financial-Results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記） …………………………………………………………………………………８",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/02/533QFinancial-Results.pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ントは単一でありますので、セグメントごとに経営成績の状況は開示しておりませんが、営業品目の応用分野別売",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/02/533QFinancial-Results.pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "計期間の売上高は前年同四半期比62百万円（20.9％）減の236百万円となり、売上構成比率は前年同四半期の9.9",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/02/533QFinancial-Results.pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "計期間の売上高は前年同四半期比208百万円（11.3％）減の1,644百万円となり、売上構成比率は前年同四半期の",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/02/533QFinancial-Results.pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "により、当第３四半期連結累計期間の売上高は前年同四半期比横ばいの554百万円となり、売上構成比率は前年",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/02/533QFinancial-Results.pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "増の229百万円となり、売上構成比率は前年同四半期の5.6％から8.0％となりました",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/02/533QFinancial-Results.pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/02/533QFinancial-Results.pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/02/533QFinancial-Results.pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "造・販売を専業として行っており、単一セグメントであるため記載を省略しております",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/02/533QFinancial-Results.pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業内容：社会インフラを支える5つのセグメント",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   },
+   {
+    "quote": "エブレンの事業は、大きく5つのセグメントに分類されています",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   },
+   {
+    "quote": "ここが最重要セグメントです",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   },
+   {
+    "quote": "これは、部材価格高騰に対する「売価への価格転嫁」が進んだことに加え、利益率の高い案件の構成比が上がったことを示唆しています",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "ビジネスモデルを更に拡大します",
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/202703_1Q-_company_brochure.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ビジネスモデルの詳細分析：なぜエブレンは「特注」で儲かるのか？",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   },
+   {
+    "quote": "エブレンという企業の設立背景から、その難解とも思えるビジネスモデル、他社が容易に模倣できない技術的優位性、経営陣の思想、そして「半導体」と「防衛」という二大成長ドライバーが交差する未来の成長ストーリーまで、約3万文字のボリュームで徹底的に分析・解説します",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   },
+   {
+    "quote": "後述する同社のビジネスモデル「マスカスタム・プロダクション」は、まさにこの理念を具現化したものと言えます",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、なぜそれが強固なビジネスモデルとなり得ているのでしょうか",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   },
+   {
+    "quote": "エブレンがその常識を覆している秘密は、その独自の収益構造と圧倒的な競合優位性にあります",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   },
+   {
+    "quote": "収益構造：「マスカスタム・プロダクション」という解",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   },
+   {
+    "quote": "エブレンのビジネスモデルの核心は、同社が**「マスカスタム・プロダクション（Mass Customization Production）」**と呼ぶ独自の生産・設計体制にあります",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   },
+   {
+    "quote": "エブレンの財務は、その堅実なビジネスモデルを色濃く反映しています",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   },
+   {
+    "quote": "価格競争に陥らず、技術力と信頼性（＝付加価値）で勝負できるビジネスモデルを確立していることが、同社の最大の強みです",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   },
+   {
+    "quote": "「カスタム設計」という労働集約的（＝人の技術に依存する）なビジネスモデルである以上、優秀な設計・製造技術者の確保と育成が生命線です",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   },
+   {
+    "quote": "市場は、同社の収益構造が「半導体サイクル依存型」から、「半導体」と「防衛」という**「二大成長エンジン型」**へと変貌する可能性を織り込み始めたのです",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   },
+   {
+    "quote": "エブレン（6599）は、「地味だが、極めて強靭なビジネスモデルを持つ、隠れた優良企業」の典型例です",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "pass": 3
+   },
+   {
+    "quote": "国内の注目銘柄を紹介する新連載「ログミーFinanceの#銘柄発掘」がスタート! ビジネスモデルやファンダメンタルズの分析を通じて、中長期で保有できる優良銘柄の見極め方が身につく実践的シリーズです",
+    "url": "https://finance.logmi.jp/articles/383433",
+    "pass": 3
+   },
+   {
+    "quote": "『神の手』の某社で大きな損失を出したことをきっかけにイナゴを卒業、ビジネスモデルとファンダメンタルズ重視の手法に切り替える",
+    "url": "https://finance.logmi.jp/articles/383433",
+    "pass": 3
+   },
+   {
+    "quote": "当社独自のビジネスモデルを大切にし、お客さまの期待に応えられる会社としてさらに成長させていきたいと考えています",
+    "url": "https://finance.logmi.jp/articles/383244",
+    "pass": 3
+   },
+   {
+    "quote": "さらに付加価値と技術を加え、お客さまに満足していただける製品を供給するという従来からのビジネスモデルを強固に守り、専業メーカーとしての優位性を発揮していきます",
+    "url": "https://finance.logmi.jp/articles/383244",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "エブレン （6599）、売上57%が半導体向け。年率10%成長 ... — エブレン （6599）、売上57%が半導体向け。年率10%成長 ... ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/383433",
+    "pass": 3
+   },
+   {
+    "quote": "エブレン について — エブレン について エブレン株式会社 https://ebrain.co.jp > 会社情報",
+    "url": "https://ebrain.co.jp/company/about_ebrain/",
+    "pass": 3
+   },
+   {
+    "quote": "エブレン (6599)/オープンアップグループ(2154 ... - YouTube — エブレン (6599)/オープンアップグループ(2154 ... - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=quAmg_HNzFI",
+    "pass": 3
+   },
+   {
+    "quote": "エブレン - 株式会社フィスコ — エブレン - 株式会社フィスコ 株式会社フィスコ PDF https://www.fisco.co.jp > FISCO > ebrain20260324",
+    "url": "https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/ebrain20260324.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 | エブレン 株式会社 — 決算説明 会 | エブレン 株式会社 エブレン株式会社 https://ebrain.co.jp > IR情報",
+    "url": "https://ebrain.co.jp/ir/financial-results-briefing/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 | エブレン 株式会社 — IR情報 | エブレン 株式会社 エブレン株式会社 https://ebrain.co.jp > ...",
+    "url": "https://ebrain.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "【QAあり】 エブレン 、産業用コンピュータの受託設計・受託 ... — 【QAあり】 エブレン 、産業用コンピュータの受託設計・受託 ... ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/383244",
+    "pass": 3
+   },
+   {
+    "quote": "【 エブレン 】[6599] 決算 発表や業務・財務情報 | 日経電子版 — 【 エブレン 】[6599] 決算 発表や業務・財務情報 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kessan",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=6599",
+    "pass": 3
+   },
+   {
+    "quote": "エブレン 株式会社の会社概要・製品情報 - Metoree — エブレン 株式会社の会社概要・製品情報 - Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/4091/",
+    "pass": 3
+   },
+   {
+    "quote": "エブレン のカタログ一覧 | イプロスものづくり — エブレン のカタログ一覧 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > company > detail > catalog",
+    "url": "https://mono.ipros.com/company/detail/214365/catalog/",
+    "pass": 3
+   },
+   {
+    "quote": "エブレン 【6599】の 社長 ・役員 - キタイシホン — エブレン 【6599】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/6599/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "社長 メッセージ - エブレン株式会社 — 社長 メッセージ - エブレン株式会社 エブレン株式会社 https://ebrain.co.jp > 会社情報",
+    "url": "https://ebrain.co.jp/company/ceo_message/",
+    "pass": 3
+   },
+   {
+    "quote": "エブレン 株式会社の企業概要 - FactBoard(ファクトボード) — エブレン 株式会社の企業概要 - FactBoard(ファクトボード) FactBoard https://fact-board.co.jp > company > d-ebrain",
+    "url": "https://fact-board.co.jp/company/d-ebrain/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://ebrain.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ebrain.co.jp/company/about_ebrain/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ebrain.co.jp/company/about_ebrain/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ebrain.co.jp/company/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ebrain.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ebrain.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ebrain.co.jp/2026/10/30/2027_2q/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ebrain.co.jp/ir/financial-results-briefing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ebrain.co.jp/2023/04/11/2023%E5%B9%B43%E6%9C%88%E6%9C%9F%EF%BC%88%E7%AC%AC50%E6%9C%9F%EF%BC%89%E9%80%9A%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A%E9%96%8B%E5%82%AC%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ebrain.co.jp/ir/ir-calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ebrain.co.jp/ir/fact_data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ebrain.co.jp/ir/movie/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/541QFinancial-Results.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/08/202703_1Q-_company_brochure.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/CGcode20260630.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/Notice_of_Resolution_of_General-Meeting_of_Shareholders_53th.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/annual-securities-report-53th.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/06/53ksst.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/05/53th_Financial-Results.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ebrain.co.jp/wp-content/uploads/2026/02/533QFinancial-Results.pdf.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.logmi.jp/articles/383433",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.logmi.jp/articles/383244",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/6599/board-of-director",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "エブレン",
+   "results": [
+    "https://ebrain.co.jp/",
+    "https://kabutan.jp/stock/?code=6599",
+    "https://www.nikkei.com/nkd/company/?scode=6599",
+    "https://ebrain.co.jp/company/outline/",
+    "https://minkabu.jp/stock/6599",
+    "https://syukatsu-kaigi.jp/companies/120136/word_mouths",
+    "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%A8%E3%83%96%E3%83%AC%E3%83%B3",
+    "https://www.sbisec.co.jp/ETGate/WPLETsiR001Control/WPLETsiR001Ilst10/getDetailOfStockPriceJP?OutSide=on&getFlg=on&stock_sec_code_mul=6599&exchange_code=JPN",
+    "https://ja.wikipedia.org/wiki/エレン・デジェネレス",
+    "https://ebrain.co.jp/company/about_ebrain/"
+   ]
+  },
+  {
+   "query": "エブレン ビジネスモデル",
+   "results": [
+    "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "https://finance.logmi.jp/articles/383433",
+    "https://ebrain.co.jp/company/about_ebrain/",
+    "https://www.youtube.com/watch?v=quAmg_HNzFI",
+    "https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/ebrain20260324.pdf",
+    "https://kabutan.jp/news/marketnews/?b=n202603240458",
+    "https://envalith.com/ja/companies/6599/segments",
+    "https://www.otsuka-shokai.co.jp/products/case/ebrain-dx.html",
+    "https://jp.investing.com/news/stock-market-news/article-1468853",
+    "https://sabatoashibuto.com/archives/3393/"
+   ]
+  },
+  {
+   "query": "エブレン 決算説明資料",
+   "results": [
+    "https://ebrain.co.jp/ir/financial-results-briefing/",
+    "https://ebrain.co.jp/ir/",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260212/20260209551270.pdf",
+    "https://finance.logmi.jp/articles/383244",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=6599",
+    "https://www.youtube.com/watch?v=EqHeUJ_Dwxs",
+    "https://www.buffett-code.com/company/6599/library",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260806512832",
+    "https://ir.arrplanner.co.jp/ja/ir/library/presentation.html",
+    "https://edinetdb.jp/company/E35555/ir-docs/"
+   ]
+  },
+  {
+   "query": "エブレン 事業系統図",
+   "results": [
+    "https://ebrain.co.jp/company/about_ebrain/",
+    "https://finance.logmi.jp/articles/383244",
+    "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "https://metoree.com/companies/4091/",
+    "https://mono.ipros.com/company/detail/214365/catalog/",
+    "https://www.otsuka-shokai.co.jp/products/case/ebrain-dx.html",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=6599",
+    "https://ebrain.co.jp/",
+    "https://zukaikeizai.com/kaisha/6599/",
+    "https://stock-insights.net/articles/6599-snapshot-2026q2"
+   ]
+  },
+  {
+   "query": "エブレン 社長 インタビュー",
+   "results": [
+    "https://kitaishihon.com/company/6599/board-of-director",
+    "https://ebrain.co.jp/company/ceo_message/",
+    "https://www.nihon-ma.co.jp/page/interview/tanbac-ebrain/",
+    "https://fact-board.co.jp/company/d-ebrain/",
+    "https://note.com/tatsuya_sabato/n/nb2472aab3a53",
+    "https://j-lic.com/companies/6599/directors",
+    "https://ebrain.co.jp/profile/profile.html",
+    "https://www.leader-navi.com/",
+    "https://kigyo-scope.jp/company/6599/ceo/",
+    "https://the-shashi.com/tse/6599/ceo/"
+   ]
+  }
+ ],
+ "missing": {}
+}

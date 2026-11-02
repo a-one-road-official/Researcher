@@ -1,0 +1,943 @@
+{
+ "name": "ＭＩＸＩ",
+ "aliases": [],
+ "context": "証券コード2121／情報・通信業／プライム（内国株式）／2026.03期 売上高171,369百万円 営業利益率13.0%",
+ "researched_at": "2026-11-02T19:24:43.892506+00:00",
+ "official_url": "https://mixi.jp/",
+ "identified_by": "search:ddgs:bing:MIXI",
+ "profile": {},
+ "evidence": {
+  "何を": [
+   {
+    "quote": "ソーシャル・ネットワーキング サービス [mixi(ミクシィ)]",
+    "url": "https://mixi.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "mixiのサービス",
+    "url": "https://mixi.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "mixi有料サービス",
+    "url": "https://mixi.jp/inquiry.pl",
+    "pass": 1
+   },
+   {
+    "quote": "外部サービス連携",
+    "url": "https://mixi.jp/inquiry.pl",
+    "pass": 1
+   },
+   {
+    "quote": "終了したサービス・機能",
+    "url": "https://mixi.jp/inquiry.pl",
+    "pass": 1
+   },
+   {
+    "quote": "mixiサービスにおける各種機能の問題やサイト接続、表示不具合について",
+    "url": "https://mixi.jp/inquiry.pl",
+    "pass": 1
+   },
+   {
+    "quote": "有料サービス(ご利用料金について)",
+    "url": "https://mixi.jp/inquiry.pl",
+    "pass": 1
+   },
+   {
+    "quote": "mixiポイント、mixiプレミアムやその他の有料サービスについて",
+    "url": "https://mixi.jp/inquiry.pl",
+    "pass": 1
+   },
+   {
+    "quote": "ソーシャル・ネットワーキング サービス [mixi(ミクシィ)]",
+    "url": "https://mixi.jp/login.pl?next_url=https%3A%2F%2Fmixi.jp%2Finquiry.pl&from=drawer_menu",
+    "pass": 1
+   },
+   {
+    "quote": "ソーシャル・ネットワーキング サービス [mixi(ミクシィ)]",
+    "url": "https://mixi.jp/login.pl?next_url=https%3A%2F%2Fmixi.jp%2Finquiry.pl&from=g_navi",
+    "pass": 1
+   },
+   {
+    "quote": "有料サービスに関する問題",
+    "url": "https://mixi.jp/inquiry.pl?mode=inquiry&category=11",
+    "pass": 1
+   },
+   {
+    "quote": "有料サービス(ご利用料金について)",
+    "url": "https://mixi.jp/inquiry.pl?mode=inquiry&category=15",
+    "pass": 1
+   },
+   {
+    "quote": "ソーシャル・ネットワーキング サービス [mixi(ミクシィ)]",
+    "url": "https://mixi.jp/login.pl?next_url=https%3A%2F%2Fmixi.jp%2Finquiry_mixi_appli.pl%3Fid%3D41947",
+    "pass": 1
+   },
+   {
+    "quote": "ソーシャル・ネットワーキング サービス [mixi(ミクシィ)]",
+    "url": "https://mixi.jp/login.pl?next_url=https%3A%2F%2Fmixi.jp%2Finquiry_appli.pl%3Fid%3D41947",
+    "pass": 1
+   },
+   {
+    "quote": "サービスニュース",
+    "url": "https://mixi.co.jp/ir/docs/",
+    "pass": 3
+   },
+   {
+    "quote": "健全なITサービスの運営",
+    "url": "https://mixi.co.jp/ir/docs/",
+    "pass": 3
+   },
+   {
+    "quote": "外部サービス利用例",
+    "url": "https://mixi.co.jp/ir/docs/",
+    "pass": 3
+   },
+   {
+    "quote": "mixi(ミクシィ)は、友人・知人とのコミュニケーションをさらに便利に楽しくするSNSというサービスです",
+    "url": "https://note.com/noted_aoki_keiei/n/n6f8babd24829",
+    "pass": 3
+   },
+   {
+    "quote": "現在の主力事業",
+    "url": "https://note.com/noted_aoki_keiei/n/n6f8babd24829",
+    "pass": 3
+   },
+   {
+    "quote": "特に「みてね」は広告収入だけでなく、プリントサービスやクラウドストレージ課金など安定した収益構造を確立",
+    "url": "https://note.com/noted_aoki_keiei/n/n6f8babd24829",
+    "pass": 3
+   },
+   {
+    "quote": "新製品を新たな市場に投入することにより、既存事業では得られない収益機会を得ることが見込まれる",
+    "url": "https://note.com/noted_aoki_keiei/n/n6f8babd24829",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、製品も市場も新規となるため、リスクが最も高いと言われています",
+    "url": "https://note.com/noted_aoki_keiei/n/n6f8babd24829",
+    "pass": 3
+   },
+   {
+    "quote": "新たな事業や新製品開発などに取り組む中小企業が活用できる補助金があります",
+    "url": "https://note.com/noted_aoki_keiei/n/n6f8babd24829",
+    "pass": 3
+   },
+   {
+    "quote": "トップページ｜ものづくり・商業・サービス生産性向上促進補助金公式ホームページ ものづくり・商業・サービス生産性向上促進補助金総合サイト",
+    "url": "https://note.com/noted_aoki_keiei/n/n6f8babd24829",
+    "pass": 3
+   },
+   {
+    "quote": "サービスニュース",
+    "url": "https://mixi.co.jp/ir/mid-term-vision/",
+    "pass": 3
+   },
+   {
+    "quote": "健全なITサービスの運営",
+    "url": "https://mixi.co.jp/ir/mid-term-vision/",
+    "pass": 3
+   },
+   {
+    "quote": "外部サービス利用例",
+    "url": "https://mixi.co.jp/ir/mid-term-vision/",
+    "pass": 3
+   },
+   {
+    "quote": "「コミュニケーション系のサービスは非常に大きなユーザーベースがあります",
+    "url": "https://news.yahoo.co.jp/articles/12d6047ca18b01ede6e963214a094a3387a20d9a",
+    "pass": 3
+   },
+   {
+    "quote": "もちろん国外に目を向ければ、さらに巨大なSNSや通信サービスを展開する米国IT企業なども存在する",
+    "url": "https://news.yahoo.co.jp/articles/12d6047ca18b01ede6e963214a094a3387a20d9a",
+    "pass": 3
+   },
+   {
+    "quote": "海外のイベント出展や、2026年4月からインドでサービスを開始した『STRIKE WORLD』の手応え、今後の『モンスト』、そしてMIXIが見据えるグローバル展開についてお話を伺った",
+    "url": "https://gamewith.jp/gamedb/article/show/575271?from=ios",
+    "pass": 3
+   },
+   {
+    "quote": "そのためのソリューションとして、『モンスト』を作った",
+    "url": "https://gamewith.jp/gamedb/article/show/575271?from=ios",
+    "pass": 3
+   },
+   {
+    "quote": "僕たちは「mixi」で、すべてバイラルによって広がり、友達が友達を招待して伸びていくサービスをやっていました",
+    "url": "https://gamewith.jp/gamedb/article/show/575271?from=ios",
+    "pass": 3
+   },
+   {
+    "quote": "現在はOTTサービス",
+    "url": "https://gamewith.jp/gamedb/article/show/575271?from=ios",
+    "pass": 3
+   },
+   {
+    "quote": "※OTT（Over-The-Top）とは、従来のテレビ放送やケーブルテレビとは異なり、放送網や専用回線を介さずにインターネットを通じて動画・音楽・ゲームといったコンテンツを配信するサービスの総称",
+    "url": "https://gamewith.jp/gamedb/article/show/575271?from=ios",
+    "pass": 3
+   },
+   {
+    "quote": "これらの要素をすべてAIで担えるようになれば、人口の多い国以外の方々にも、満足してもらえるサービスを提供できるのではないかと思っています",
+    "url": "https://gamewith.jp/gamedb/article/show/575271?from=ios",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、それ以外の人口規模が小さい国々で、日本などと同じ水準のサービスを受けられているかというと、そこまで届いていない地域も多いと思います",
+    "url": "https://gamewith.jp/gamedb/article/show/575271?from=ios",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "中野ブロードウェイで盗まれた高級腕時計が店舗に戻る…愛知県内から宅配便で送られたか 「すみませんでした」という趣旨の手紙も【news23】",
+    "url": "https://mixi.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「すみませんでした」趣旨の手紙も 中野ブロードウェイの高級腕時計「オーデマ ピゲ」窃盗 きのう店舗に宅配便で返却",
+    "url": "https://mixi.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "規律をもった中期ビジョンの実現に向けて、取締役の指名・報酬に関わるガバナンスの実効性を高めています",
+    "url": "https://mixi.co.jp/ir/mid-term-vision/",
+    "pass": 3
+   },
+   {
+    "quote": "【インタビュー】「『モンスト』を、日本のアニメIPを紹介するプラットフォームに」MIXI木村社長が語る、『STRIKE WORLD』の手応えとグローバル戦略 - ゲームウィズ",
+    "url": "https://gamewith.jp/gamedb/article/show/575271?from=ios",
+    "pass": 3
+   },
+   {
+    "quote": "【インタビュー】「『モンスト』を、日本のアニメIPを紹介するプラットフォームに」MIXI木村社長が語る、『STRIKE WORLD』の手応えとグローバル戦略",
+    "url": "https://gamewith.jp/gamedb/article/show/575271?from=ios",
+    "pass": 3
+   },
+   {
+    "quote": "『モンスト』を、日本のアニメIPを紹介するプラットフォームに",
+    "url": "https://gamewith.jp/gamedb/article/show/575271?from=ios",
+    "pass": 3
+   },
+   {
+    "quote": "僕は『モンスト』を、日本のアニメIPを紹介するプラットフォームだとも考えています",
+    "url": "https://gamewith.jp/gamedb/article/show/575271?from=ios",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年11月02日 10:12",
+    "url": "https://mixi.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月02日 17:02",
+    "url": "https://mixi.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月02日",
+    "url": "https://m.sengokuixa.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月31日",
+    "url": "https://m.sengokuixa.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月28日",
+    "url": "https://m.sengokuixa.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月26日",
+    "url": "https://m.sengokuixa.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月23日",
+    "url": "https://m.sengokuixa.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月22日",
+    "url": "https://m.sengokuixa.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月21日",
+    "url": "https://m.sengokuixa.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月19日",
+    "url": "https://m.sengokuixa.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月17日",
+    "url": "https://m.sengokuixa.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月16日",
+    "url": "https://m.sengokuixa.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月01日",
+    "url": "https://m.sengokuixa.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月31日",
+    "url": "https://m.sengokuixa.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月26日",
+    "url": "https://m.sengokuixa.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月21日",
+    "url": "https://m.sengokuixa.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月07日",
+    "url": "https://m.sengokuixa.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月25日",
+    "url": "https://m.sengokuixa.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月19日",
+    "url": "https://m.sengokuixa.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月21日",
+    "url": "https://m.sengokuixa.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月13日",
+    "url": "https://m.sengokuixa.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "2026年04月27日",
+    "url": "https://m.sengokuixa.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "2026年03月06日",
+    "url": "https://m.sengokuixa.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "2026年01月01日",
+    "url": "https://m.sengokuixa.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月27日",
+    "url": "https://m.sengokuixa.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月29日",
+    "url": "https://m.sengokuixa.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月23日",
+    "url": "https://m.sengokuixa.jp/top",
+    "pass": 1
+   },
+   {
+    "quote": "2025年10月29日 10:37",
+    "url": "https://note.com/noted_aoki_keiei/n/n6f8babd24829",
+    "pass": 3
+   },
+   {
+    "quote": "2000年代に一世を風靡した後、FacebookやTwitterの登場によって存在感が薄れた印象をもつ人も少なくないと思います",
+    "url": "https://note.com/noted_aoki_keiei/n/n6f8babd24829",
+    "pass": 3
+   },
+   {
+    "quote": "2030年代初頭 財務目標",
+    "url": "https://mixi.co.jp/ir/mid-term-vision/",
+    "pass": 3
+   },
+   {
+    "quote": "2030年代初頭を目途に、売上高3,000億円、EBITDAマージン20%、ROE15%の達成を優先目標として掲げます",
+    "url": "https://mixi.co.jp/ir/mid-term-vision/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年にはコーポレートブランドの大規模なリニューアルを発表",
+    "url": "https://news.yahoo.co.jp/articles/12d6047ca18b01ede6e963214a094a3387a20d9a",
+    "pass": 3
+   },
+   {
+    "quote": "2026年9月7日18:07",
+    "url": "https://gamewith.jp/gamedb/article/show/575271?from=ios",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月、MIXIはフランス・パリで開催された欧州最大級の日本カルチャーイベント",
+    "url": "https://gamewith.jp/gamedb/article/show/575271?from=ios",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月3日00:05",
+    "url": "https://gamewith.jp/gamedb/article/show/575271?from=ios",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月2日22:20",
+    "url": "https://gamewith.jp/gamedb/article/show/575271?from=ios",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月2日20:10",
+    "url": "https://gamewith.jp/gamedb/article/show/575271?from=ios",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "ユーザーバッジ",
+    "url": "https://mixi.jp/inquiry.pl",
+    "pass": 1
+   },
+   {
+    "quote": "「家族アルバム みてね」世界累計利用者数が3,000万人突破！",
+    "url": "https://mixi.co.jp/ir/docs/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、スマートフォン時代に入ると、開放型SNSが主流になり利用者が減少",
+    "url": "https://note.com/noted_aoki_keiei/n/n6f8babd24829",
+    "pass": 3
+   },
+   {
+    "quote": "MIXIの事業方針には「ユーザーのつながりを豊かにする」という共通理念があります",
+    "url": "https://note.com/noted_aoki_keiei/n/n6f8babd24829",
+    "pass": 3
+   },
+   {
+    "quote": "MIXIはSNS時代から培ったユーザー行動データの分析を得意としています",
+    "url": "https://note.com/noted_aoki_keiei/n/n6f8babd24829",
+    "pass": 3
+   },
+   {
+    "quote": "ゲーム内の行動データやアプリ利用データをもとに、ユーザーの好みや離脱リスクを可視化",
+    "url": "https://note.com/noted_aoki_keiei/n/n6f8babd24829",
+    "pass": 3
+   },
+   {
+    "quote": "これにより顧客ロイヤルティを高めています",
+    "url": "https://note.com/noted_aoki_keiei/n/n6f8babd24829",
+    "pass": 3
+   },
+   {
+    "quote": "・ユーザー心理を熟知したUX設計",
+    "url": "https://note.com/noted_aoki_keiei/n/n6f8babd24829",
+    "pass": 3
+   },
+   {
+    "quote": "価格競争ではなく、「顧客の共感・愛着」を軸としたファンマーケティングがMIXIの成功要因",
+    "url": "https://note.com/noted_aoki_keiei/n/n6f8babd24829",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業でも、SNS運用や会員制度などを通じて“ 顧客との関係性資産 ” を積み上げることが収益安定につながります",
+    "url": "https://note.com/noted_aoki_keiei/n/n6f8babd24829",
+    "pass": 3
+   },
+   {
+    "quote": "MIXIのように、顧客行動データを分析し、離脱・再購入などを定量的に把握することが競争力になります",
+    "url": "https://note.com/noted_aoki_keiei/n/n6f8babd24829",
+    "pass": 3
+   },
+   {
+    "quote": "MIXIのように理念を中心にした事業多角化と顧客コミュニティ形成",
+    "url": "https://note.com/noted_aoki_keiei/n/n6f8babd24829",
+    "pass": 3
+   },
+   {
+    "quote": "「家族アルバム みてね」世界累計利用者数が3,000万人突破！",
+    "url": "https://mixi.co.jp/ir/mid-term-vision/",
+    "pass": 3
+   },
+   {
+    "quote": "「コミュニケーション系のサービスは非常に大きなユーザーベースがあります",
+    "url": "https://news.yahoo.co.jp/articles/12d6047ca18b01ede6e963214a094a3387a20d9a",
+    "pass": 3
+   },
+   {
+    "quote": "『みてね』は現在3000万ユーザー（世界累計登録者数）、『モンスターストライク』で言うと6600万（世界累計利用者数）、「mixi」もピーク時の登録者数は2000万を超えました",
+    "url": "https://news.yahoo.co.jp/articles/12d6047ca18b01ede6e963214a094a3387a20d9a",
+    "pass": 3
+   },
+   {
+    "quote": "かなり大きなユーザー規模があるので、映画やアニメシリーズを見るタイミングに合わせ、作品内のシーンをゲームで再現する",
+    "url": "https://gamewith.jp/gamedb/article/show/575271?from=ios",
+    "pass": 3
+   },
+   {
+    "quote": "そうやって、どのシーンをどう再現すれば作品のファンにもモンストユーザーにも喜んでもらえるか、",
+    "url": "https://gamewith.jp/gamedb/article/show/575271?from=ios",
+    "pass": 3
+   },
+   {
+    "quote": "仮に『モンスト』がさまざまな国で流行したとき、ユーザー規模が大きい国では、これまで通り人がオペレーションし、現地に合わせてカスタマイズしていく",
+    "url": "https://gamewith.jp/gamedb/article/show/575271?from=ios",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザーインターフェース",
+    "url": "https://gamewith.jp/gamedb/article/show/575271?from=ios",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザー登録のご案内",
+    "url": "https://gamewith.jp/gamedb/article/show/575271?from=ios",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザー登録(無料)することで、この機能を使うことができます",
+    "url": "https://gamewith.jp/gamedb/article/show/575271?from=ios",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "有料サービス(ご利用料金について)",
+    "url": "https://mixi.jp/inquiry.pl",
+    "pass": 1
+   },
+   {
+    "quote": "有料サービス(ご利用料金について)",
+    "url": "https://mixi.jp/inquiry.pl?mode=inquiry&category=15",
+    "pass": 1
+   },
+   {
+    "quote": "その他ご利用料金について",
+    "url": "https://mixi.jp/inquiry.pl?mode=inquiry&category=15",
+    "pass": 1
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "在庫も発送もまるっとおまかせ",
+    "url": "https://suzuri.jp/mixi_official",
+    "pass": 1
+   },
+   {
+    "quote": "4. MIXIの強みと課題",
+    "url": "https://note.com/noted_aoki_keiei/n/n6f8babd24829",
+    "pass": 3
+   },
+   {
+    "quote": "なかでも、私は “ つながり ” を軸に事業を展開していく組織風土や事業戦略がMIXIを象徴している強みと考えています",
+    "url": "https://note.com/noted_aoki_keiei/n/n6f8babd24829",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業が新規事業を始める際も、「自社の強みや存在意義」を明確にすることが、長期成長の基盤となります",
+    "url": "https://note.com/noted_aoki_keiei/n/n6f8babd24829",
+    "pass": 3
+   },
+   {
+    "quote": "AI時代だからこそ高まる人と人との「共体験」の希少性を背景に、グローバルで10兆ドルを超える「We-Timeエコノミー」巨大市場において、当社の強みを活かした価値創出を加速させてまいります",
+    "url": "https://mixi.co.jp/ir/mid-term-vision/",
+    "pass": 3
+   },
+   {
+    "quote": "全盛期の「mixi」や「モンスターストライク」で実証してきたこの高収益構造こそが、「We-Timeエコノミー」における当社の競争優位です",
+    "url": "https://mixi.co.jp/ir/mid-term-vision/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "IR関連資料｜IR・投資家情報｜株式会社MIXI — 3 days ago · 株式会社MIXIのIR・投資家情報に関するIR関連資料ページです。",
+    "url": "https://mixi.co.jp/ir/docs/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社MIXI（2121）適時開示・決算短信 一覧｜毎日更新｜Treelazy — Jul 31, 2026 · 株式会社MIXI（2121）の適時開示 4 件：決算短信・決算説明会資料・業績予想修正など、TDnet から毎日収集。PDF 原文へのリンク付き。",
+    "url": "https://treelazy.com/stock-jp/2121/conference",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社MIXI — IR資料 - EDINET DB — Apr 19, 2026 · EDINET DB > 企業一覧 > 株式会社MIXI > IR資料 株式会社MIXI — IR資料 統合報告書・中期経営計画・決算説明資料などのIR資料を、AIがセクション単位で構造化したデータです。 本文の検索・テーマタグでの絞り込みが可能です。",
+    "url": "https://edinetdb.jp/company/E05617/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "MIXIのIR資料 - 2121 / プライム / 情報・通信業 | バフェット・コー... — MIXI（2121 / プライム / 情報・通信業）のIR資料の一覧を表示しています。 有価証券報告書や決算短信、そしてTDnetで開示された適時開示資料をPDFでご覧になれます。",
+    "url": "https://www.buffett-code.com/company/2121/library",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明会資料｜IR・投資家情報｜株式会社MIXI — 2026年3月期通期決算説明会資料 2026年3月期通期 決算説明会質疑応答要約 2026年3月期第3四半期決算説明会資料 2026年3月期第3四半期 決算説明会質疑応答要約 2026年3月期第2四半期決算説明会資料 2026年3月期第2四半期 決算説明会質疑応答要約",
+    "url": "https://mixi.co.jp/ir/docs/earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "MIXIのビジネスモデルを徹底分析｜事業多角化とファンコミュニティ戦... — Oct 29, 2025 · はじめに：MIXIは今も成長しているのか？ かつて「SNSの代名詞」として日本中で知られたMIXI（ミクシィ）。 2000年代に一世を風靡した後、FacebookやTwitterの登場によって存在感が薄れた印象をもつ人も少なくないと思います。",
+    "url": "https://note.com/noted_aoki_keiei/n/n6f8babd24829",
+    "pass": 3
+   },
+   {
+    "quote": "中期ビジョン | 株式会社MIXI — 中期ビジョン策定の背景 当社は、SNS「mixi」の「第一創業期」、「モンスターストライク」の「第二創業期」を経て、現在は複数の事業柱とグローバル展開を加速させる「第三創業期」へと突入しています。",
+    "url": "https://mixi.co.jp/ir/mid-term-vision/",
+    "pass": 3
+   },
+   {
+    "quote": "事業 | 株式会社MIXI — 株式会社MIXIのサービス一覧ページです。",
+    "url": "https://mixi.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "MIXI GROUP 統合報 - IR Pocket — れが「心もつなごう。」というタ� � しいMIXIは、人々をもっとワクワクさせ、世界中を笑顔で満たすために、エモーションと コミュニケーションで、「心もつなぐ」場と機会を創造し続けます。 豊かなコミュニケーションを広げ、世界を幸せな驚きで包む。",
+    "url": "https://pdf.irpocket.com/C2121/cEro/p1so/yKeb.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "MIXIとは？事業内容や特徴を紹介｜SNS・エンタメ・スポーツ事業を展開... — May 15, 2026 · MIXIは「ユーザーのコミュニケーションを豊かにする」という理念を掲げ、SNSやゲーム、スポーツなど人々のつながりを生み出すサービスを提供している。 特にモンストは国内で高い人気を持ち、長期運営タイトルとして安定した収益を生み出している。",
+    "url": "https://bizarchive.net/mixi-company/",
+    "pass": 3
+   },
+   {
+    "quote": "AIで自信喪失したMIXI木村弘毅社長が語る「時代を問わず生き残ってい... — 「家族・友人が集まって盛り上がる場づくりでは、どこにも負けたくない」 26年度第1四半期の業績で大幅な増収増益となった株式会社MIXI。事業 ...",
+    "url": "https://news.yahoo.co.jp/articles/12d6047ca18b01ede6e963214a094a3387a20d9a",
+    "pass": 3
+   },
+   {
+    "quote": "【インタビュー】「『モンスト』を、日本のアニメIPを紹介するプラッ... — Sep 7, 2026 · GameWithは今回、 MIXI代表取締役社長 CEO の 木村弘毅氏 にインタビューを実施した。 海外のイベント出展や、2026年4月からインドでサービスを開始した『STRIKE WORLD』の手応え、今後の『モンスト』、そしてMIXIが見据えるグローバル展開についてお話を伺った。",
+    "url": "https://gamewith.jp/gamedb/article/show/575271",
+    "pass": 3
+   },
+   {
+    "quote": "木村弘毅（MIXI社長）×南場智子（DeNA会長）特別対談 コンテンツ・IT... — MIXI株式会社代表取締役社長。 電気設備会社、携帯コンテンツ会社等を経て、2008年株式会社ミクシィ（現 株式会社MIXI）に入社。 ゲーム事業部にて「サンシャイン牧場」など多くのコミュニケーションゲームの運用コンサルティングを担当。",
+    "url": "https://mediamixi.jp/feature/198/",
+    "pass": 3
+   },
+   {
+    "quote": "AIで自信喪失したMIXI木村弘毅社長が語る「時代を問わず生き残ってい... — 3 days ago · 「『mixi』が流行っていた頃などは社会的にも非同期型が最先端という風潮が強く、社内でも一種の教義のようになっていましたが、『モンスト ...",
+    "url": "https://news.infoseek.co.jp/article/shueisha_259072/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社MIXI on X: \"「モンストを、日本のアニメIPを紹介するプラッ... — Sep 8, 2026 · 「モンストを、日本のアニメIPを紹介するプラットフォームに」 GameWithにて、代表木村のインタビュー記事が掲載されました！ 💪 モンスト開発の原点から、海外で見えた「STRIKE WORLD」の手応え、IPのグローバル戦略まで。",
+    "url": "https://x.com/mixi_PR/status/2097143018277191805",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "MIXIのビジネスモデルを徹底分析｜事業多角化とファンコミュニティ戦略に学ぶ成功要因｜あおき経営サポート事務所",
+    "url": "https://note.com/noted_aoki_keiei/n/n6f8babd24829",
+    "pass": 3
+   },
+   {
+    "quote": "MIXIのビジネスモデルを徹底分析｜事業多角化とファンコミュニティ戦略に学ぶ成功要因",
+    "url": "https://note.com/noted_aoki_keiei/n/n6f8babd24829",
+    "pass": 3
+   },
+   {
+    "quote": "1. MIXIの事業構造と収益モデルの変遷",
+    "url": "https://note.com/noted_aoki_keiei/n/n6f8babd24829",
+    "pass": 3
+   },
+   {
+    "quote": "2. MIXIのビジネスモデルの特徴",
+    "url": "https://note.com/noted_aoki_keiei/n/n6f8babd24829",
+    "pass": 3
+   },
+   {
+    "quote": "特に「みてね」は広告収入だけでなく、プリントサービスやクラウドストレージ課金など安定した収益構造を確立",
+    "url": "https://note.com/noted_aoki_keiei/n/n6f8babd24829",
+    "pass": 3
+   },
+   {
+    "quote": "全盛期の「mixi」や「モンスターストライク」で実証してきたこの高収益構造こそが、「We-Timeエコノミー」における当社の競争優位です",
+    "url": "https://mixi.co.jp/ir/mid-term-vision/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "スポーツセグメント",
+    "url": "https://mixi.co.jp/ir/mid-term-vision/",
+    "pass": 3
+   },
+   {
+    "quote": "スポーツセグメントでは売上高1,200億円以上を目指します",
+    "url": "https://mixi.co.jp/ir/mid-term-vision/",
+    "pass": 3
+   },
+   {
+    "quote": "ライフスタイルセグメント",
+    "url": "https://mixi.co.jp/ir/mid-term-vision/",
+    "pass": 3
+   },
+   {
+    "quote": "ライフスタイルセグメントでは、「家族アルバム",
+    "url": "https://mixi.co.jp/ir/mid-term-vision/",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルエンターテインメントセグメント",
+    "url": "https://mixi.co.jp/ir/mid-term-vision/",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルエンターテインメントセグメントでは、国内における「モンスターストライク」の長寿化と高い利益水準の維持に努め、売上高900億円以上の水準を目指します",
+    "url": "https://mixi.co.jp/ir/mid-term-vision/",
+    "pass": 3
+   },
+   {
+    "quote": "・売上高目標3,000億円とセグメント別の売上高目標の合計2,500億円の差分500億円については、既存事業のアップサイドや新たな取り組みなどにより実現していきます",
+    "url": "https://mixi.co.jp/ir/mid-term-vision/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://mixi.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mixi.jp/search_game.pl",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mixi.jp/inquiry.pl",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mixi.jp/view_appli.pl?id=41947&area=rotation_banner&t=1793647505",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://m.sengokuixa.jp/top",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mi.3gokushi.jp/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mixi.happy-vegefru.jp/php/lot/lot.php?page=20261021",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mixi.jp/view_appli.pl?id=41946&area=rotation_banner&t=1793647516",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mixi.jp/view_appli.pl?id=41951&area=rotation_banner&t=1793647517",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mixi.jp/view_appli.pl?id=41841&area=rotation_banner&t=1793647518",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suzuri.jp/mixi_official",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mixi.jp/view_appli.pl?id=40796&area=pc_hot_banner_top&t=1793647520",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mixi.jp/view_appli.pl?id=41947&area=pc_hot_banner_top&t=1793647521",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mixi.jp/login.pl?next_url=https%3A%2F%2Fmixi.jp%2Finquiry.pl&from=drawer_menu",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mixi.jp/login.pl?next_url=https%3A%2F%2Fmixi.jp%2Finquiry.pl&from=g_navi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mixi.jp/register.pl?next_url=https%3A%2F%2Fmixi.jp%2Finquiry.pl&from=g_navi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mixi.jp/inquiry.pl?mode=inquiry&category=18",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mixi.jp/inquiry.pl?mode=inquiry&category=11",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mixi.jp/inquiry.pl?mode=inquiry&category=15",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mixi.jp/inquiry.pl?mode=inquiry&category=16",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mixi.jp/inquiry.pl?mode=opinion",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mixi.jp/login.pl?next_url=https%3A%2F%2Fmixi.jp%2Finquiry_mixi_appli.pl%3Fid%3D41947",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mixi.jp/login.pl?next_url=https%3A%2F%2Fmixi.jp%2Finquiry_appli.pl%3Fid%3D41947",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mixi.jp/about/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mixi.jp/inquiry.pl",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://mixi.co.jp/ir/docs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://treelazy.com/stock-jp/2121/conference",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/noted_aoki_keiei/n/n6f8babd24829",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mixi.co.jp/ir/mid-term-vision/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.yahoo.co.jp/articles/12d6047ca18b01ede6e963214a094a3387a20d9a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gamewith.jp/gamedb/article/show/575271?from=ios",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "MIXI",
+   "results": [
+    "https://ja.wikipedia.org/wiki/MIXI",
+    "https://grokipedia.com/page/Mixi",
+    "https://en.wikipedia.org/wiki/Mixi",
+    "https://ja.wikipedia.org/wiki/Mixi",
+    "https://mixi.jp/",
+    "https://mixiskincare.com/",
+    "https://mixi.co.jp/en/about/",
+    "https://mixi.co.jp/en/",
+    "https://mixi.social/"
+   ]
+  },
+  {
+   "query": "MIXI ビジネスモデル",
+   "results": []
+  },
+  {
+   "query": "MIXI 決算説明資料",
+   "results": [
+    "https://mixi.co.jp/ir/docs/",
+    "https://treelazy.com/stock-jp/2121/conference",
+    "https://edinetdb.jp/company/E05617/ir-docs/",
+    "https://www.buffett-code.com/company/2121/library",
+    "https://mixi.co.jp/ir/docs/earnings/",
+    "https://edinetdb.jp/company/E05617/presentations/",
+    "https://irbank.net/2121/ir"
+   ]
+  },
+  {
+   "query": "MIXI 事業系統図",
+   "results": [
+    "https://note.com/noted_aoki_keiei/n/n6f8babd24829",
+    "https://mixi.co.jp/ir/mid-term-vision/",
+    "https://mixi.co.jp/business/",
+    "https://pdf.irpocket.com/C2121/cEro/p1so/yKeb.pdf",
+    "https://bizarchive.net/mixi-company/",
+    "https://enterprise-it.jp/report/mixi_casestudy_01_04/",
+    "https://mindmeister.jp/posts/bm-mixi"
+   ]
+  },
+  {
+   "query": "MIXI 社長 インタビュー",
+   "results": [
+    "https://news.yahoo.co.jp/articles/12d6047ca18b01ede6e963214a094a3387a20d9a",
+    "https://gamewith.jp/gamedb/article/show/575271",
+    "https://mediamixi.jp/feature/198/",
+    "https://news.infoseek.co.jp/article/shueisha_259072/",
+    "https://x.com/mixi_PR/status/2097143018277191805",
+    "https://news.yahoo.co.jp/articles/aa6628a564410c894e171ba5fe496c0ffef63e6c",
+    "https://net.keizaikai.co.jp/archives/2798"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式25頁／PDF・画像0件／外部6頁・検索5回）",
+  "従業員数": "記載なし（3回確認済み：公式25頁／PDF・画像0件／外部6頁・検索5回）",
+  "事業内容": "記載なし（3回確認済み：公式25頁／PDF・画像0件／外部6頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像0件／外部6頁・検索5回）"
+ }
+}

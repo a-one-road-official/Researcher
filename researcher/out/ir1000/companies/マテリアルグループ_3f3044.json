@@ -1,0 +1,992 @@
+{
+ "name": "マテリアルグループ",
+ "aliases": [],
+ "context": "証券コード156A／サービス業／グロース（内国株式）／2025.08期 売上高6,288百万円 営業利益率13.2%",
+ "researched_at": "2026-11-02T19:23:40.341682+00:00",
+ "official_url": "https://materialgroup.jp/",
+ "identified_by": "search:yahoo_jp:マテリアルグループ",
+ "profile": {
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "マーケティングコミュニケーション",
+    "url": "https://www.weekly-economist.com/interview/aosaki_sou/",
+    "pass": 3
+   }
+  ],
+  "設立": [
+   {
+    "label": "創業",
+    "value": "2014年8月",
+    "url": "https://www.weekly-economist.com/interview/aosaki_sou/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "282人（2024年8月31日、連結）",
+    "url": "https://www.weekly-economist.com/interview/aosaki_sou/",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "52億円",
+    "url": "https://www.weekly-economist.com/interview/aosaki_sou/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "ブランド・プロダクト・サービス・タレントなど、あらゆる素材が持つ個性を引き出し、その可能性を最大化します",
+    "url": "https://materialgroup.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ各社が高い専門性を有し、それぞれのクライアントの課題に応じて適切にサービスを組み合わせられることが大きな強みだと考えています",
+    "url": "https://materialgroup.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "ひとつは、人々の消費行動における価値観が多様化し、モノやサービスが機能だけでは選ばれなくなったこと",
+    "url": "https://materialgroup.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "マテリアルグループが掲げる「Switch to Red」には、この国の産業・サービス・その根底にあるクラフトマンシップなど、真に価値ある個性に情熱を灯し、可能性を最大化させることで、世界の景色を熱く塗り替えていきたい、という想いを込めています",
+    "url": "https://materialgroup.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "そのためにも、グローバルで評価されているプランニングスキルとそれらを実行する高い機動力のもと、クライアントの皆様に求められるサービスの開発・拡充に力を尽くし、名実ともにNo.1のPRエージェンシーグループを目指してまいります",
+    "url": "https://materialgroup.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "これからも、グループ各社のメソッドをかけ合わせた取り組み・サービスを展開し、",
+    "url": "https://materialgroup.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "「BOXIL SaaS AWARD Spring 2023」WEB接客部門 Good Service/サービスの安定性No.1/使いやすさNo.1",
+    "url": "https://materialgroup.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "「BOXIL SaaS AWARD Summer 2023」WEB接客部門 Good Service/サービスの安定性No.1/使いやすさNo.1",
+    "url": "https://materialgroup.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "国内に留まらず、この国のブランド・サービスが、世界で誇れる環境を作っていきたいという思いのもと、マテリアルが提唱する「Storytelling」を用いて、クライアントのマーケティング課題をともに解決し、多くのブランド・サービスを力強く後押しするとともに、日本をより熱く塗り替えていきたいと考えています",
+    "url": "https://materialgroup.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "採用の加速によるサービス供給体制の強化",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "新サービス・業務提携",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "新サービス開始・業務提携",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "あえて「一方通行の時代」と呼んでいますが、多くの総合代理店が強かった時代のマーケティングコミュニケーションの目的は、多くの人に知らせることであり、それが商品の販売につながるものでした",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "：私がこの会社に入社した時は、まさに従来型のモデルでサービスを提供していました",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "代理店取引とお客さまとの直接取引がありますが、いずれの場合もプロジェクトごとにPRプロデューサーを中心としたチームを組成するかたちのBtoBサービスです",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "まず、ROOMSという会社は、映画やドラマで俳優がお召しになっている衣装、カバン、宝飾品などを含む美術まわりのサポートをしつつ、クライアントの商品を映像作品の中に出すプロダクトプレイスメントというサービスを提供しており、国内では有数の企業です",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "また、同社にて広告運用サービスをスタートし、それを加速させるため、2023年9月にクリエイティブ制作を行うnano colorというチームにジョインしていただいています",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "こちらも事業譲渡というかたちで「CLOUD PRESS ROOM」という、デジタル上でメディアと企業広報がマッチングできるサービスを取得しています",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "1つ目は、「採用の加速によるサービス供給体制の強化」です",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "3つ目は、デジタル広告運用サービスの顧客獲得も堅調であることや、デジタルマーケティング事業の顧客単価がしっかりと向上していることがポジティブな内容になっています",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "その他、新しいサービスとして、ショートドラマアカウントとの連携を活発化しています",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "マテリアルのショートドラマPR賞も設立し、新しいソリューションとして注力しています",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、デジタルマーケティング事業においても、サイバーセキュリティサービス「マモレル」をローンチしました",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "「Flipdesk」というWeb接客ツールサービスと、デジタル広告運用サービスの大きく2つに分かれるのですが、より顧客単価の高いデジタル広告運用が成長している影響で、顧客単価がしっかり伸びています",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "：サイバーセキュリティ事業においても、新サービスのローンチに向けて取り組んでいます",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "テレビドラマのプレイスメントをしているROOMSが、直接購買につなげられる技術を持っている会社と連携し、ショートドラマにおいてもプレイスメントを実際の購買につなげるようなマーケティングのご支援をするサービスを始めています",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "：「Tig」のサービス自体は、現段階ではブラウザ対応のみとなっています",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "TikTok売れとか、Instagramで商品訴求していくことが当たり前になったように、実際にドラマにおいても、映像コンテンツとしての消費を楽しむだけでなく、自身の価値観と合うものをその場で購入できるようになり、これまでの購買体験や物の購入の仕方を一歩前に進めるようなサービスだと思っています",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "：先ほどマテリアルがショートドラマのクリエイターとの提携を数多くしているとお話ししましたが、あのような作品の中にROOMSが商品のプレイスメントを行います",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "そこから商品が買えるように在庫をどう持つかというところをメーカー側と確認が取れれば、すぐにでもご案内していきます",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "新しく営業していくというより、既存のお客さまに対して、この「Tig」のサービスを活用してみないかというご案内をしていくことによって実現していきます",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "昨年12月には中核子会社「マテリアル」がこれらのプラットフォームを利用して「縦型ショートドラマ」を企画・制作するサービスを始めました",
+    "url": "https://www.weekly-economist.com/interview/aosaki_sou/",
+    "pass": 3
+   },
+   {
+    "quote": "短いドラマの中でクライアントの商品を紹介する動画です",
+    "url": "https://www.weekly-economist.com/interview/aosaki_sou/",
+    "pass": 3
+   },
+   {
+    "quote": "企業のマーケティング活動の観点で見ると、消費者に自社商品を知ってもらうためのPRと買ってもらうためのマーケティングは地続きでつながっています",
+    "url": "https://www.weekly-economist.com/interview/aosaki_sou/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は両サービスをワンストップで提供することで価値を高めていると考えています",
+    "url": "https://www.weekly-economist.com/interview/aosaki_sou/",
+    "pass": 3
+   },
+   {
+    "quote": "クライアントの商品に関するエピソードや開発を巡るストーリーをテレビ局の制作サイドに提案し、番組で取り上げるよう働きかけるサービスのことです",
+    "url": "https://www.weekly-economist.com/interview/aosaki_sou/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "各社役員、過去の受賞歴など、マテリアルグループの企業情報を紹介します",
+    "url": "https://materialgroup.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーでありたい",
+    "url": "https://materialgroup.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "大学卒業後、ベイン・アンド・カンパニージャパンを経て、2003年よりアドバンテッジパートナーズに参加",
+    "url": "https://materialgroup.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年よりアドバンテッジパートナーズの国内バイアウト投資事業の責任者",
+    "url": "https://materialgroup.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "大学卒業後、日本興業銀行（現みずほ銀行）を経て、2003年よりアドバンテッジパートナーズに参加",
+    "url": "https://materialgroup.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "現在は、アドバンテッジパートナーズでパートナーを務める",
+    "url": "https://materialgroup.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "2013年に独立開業、法人・個人の税務業務を行い、2015年TAXパートナーズ税理士法人設立時社員に就任",
+    "url": "https://materialgroup.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "- 株式会社マテリアルパートナーズと株式会社CONNECTED MATERIALが合併",
+    "url": "https://materialgroup.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "- 株式会社アドバンテッジパートナーズを株主に迎える",
+    "url": "https://materialgroup.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "- 株式会社マテリアルパートナーズを設立",
+    "url": "https://materialgroup.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "さっそくですが、当社のグループをご紹介します",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "2019年に、創業のオーナーがアドバンテッジパートナーズというPEファンドに株式をほぼ100パーセント売却したタイミングを機に、この立場に就任しています",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "：当社はPR発想のマーケティングコミュニケーションの会社であると冒頭でお伝えしましたが、従来型のPR会社と何が違うのかについてご紹介します",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "あえて「一方通行の時代」と呼んでいますが、多くの総合代理店が強かった時代のマーケティングコミュニケーションの目的は、多くの人に知らせることであり、それが商品の販売につながるものでした",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "それは、先ほど従来型のPR会社のご紹介をしましたが、広報予算として明確に分かれていたことが要因です",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "：ここからは、当社グループの具体的な事業についてご紹介します",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "代理店取引とお客さまとの直接取引がありますが、いずれの場合もプロジェクトごとにPRプロデューサーを中心としたチームを組成するかたちのBtoBサービスです",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "：まさに今後の成長戦略のところでもご紹介をさせていただこうと思いますが、M&Aは非常に重要な戦略の1つになっています",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "：成長戦略について簡単にご紹介します",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "：株主還元の方針についてご紹介します",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "：冒頭で、2019年にアドバンテッジパートナーズがPEファンドで参画しているとお伝えしました",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "それを支える仕組みについてご紹介します",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "：スライド29ページで、大手広告代理店を選択しがちであった優秀層が、当社グループを選び始めているというご説明がありました",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "短いドラマの中でクライアントの商品を紹介する動画です",
+    "url": "https://www.weekly-economist.com/interview/aosaki_sou/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、PRコンサルティングを担う会社と広告代理店は分業しているのが普通です",
+    "url": "https://www.weekly-economist.com/interview/aosaki_sou/",
+    "pass": 3
+   },
+   {
+    "quote": "入社後に成長が続き、19年には東氏が投資ファンドのアドバンテッジパートナーズに持ち株を譲渡し、そのタイミングで私がグループCEOに就任しました",
+    "url": "https://www.weekly-economist.com/interview/aosaki_sou/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "代表就任後は旧来のPRエージェンシーの枠に囚われない新しいグループのビジネスモデル・組織の開発に尽力",
+    "url": "https://materialgroup.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "PRコンサルティング事業のビジネスモデル",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルマーケティング事業のビジネスモデル",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "：コア事業であるPRコンサルティング事業のビジネスモデルです",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "：デジタルマーケティング事業のビジネスモデルです",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "PRASはスタートアップ専門のPRエージェンシーで、有名スタートアップのフリーランサーの方を部分的に支援していくビジネスモデルを構築している会社です",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "M&Aに関しては、既存の事業がキャッシュフローを効率的に生み出すビジネスモデルになっているため、今後も積極的に活用していこうと考えています",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "グループ各社が高い専門性を有し、それぞれのクライアントの課題に応じて適切にサービスを組み合わせられることが大きな強みだと考えています",
+    "url": "https://materialgroup.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "プランニング力の強みによる支援範囲の独自性",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "連結業績：業績予想の達成状況（粗利）",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "連結業績：2025年8月期Q2の連結及びセグメント別売上高・粗利・EBITDA",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "質疑応答：強みとしている業種や業態について",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "質疑応答：顧客の景況感や引き合い状況、営業上の強みについて",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "PR発想の強みを活かし、7.3兆円の広告マーケットにアクセスしています",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "この強みを追い風にして、このマーケットでビジネスを拡大しています",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "組織規模が拡大する中でも、1人当たりの粗利や生産性はコントロールしています",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "売上高と粗利は、約20パーセント前後の成長を見込んでいます",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "スライドのとおり、粗利は売上総利益の上に別で掲載しています",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "粗利は計画を達成しており、営業利益は採用前倒しによるコストが約2,000万円増加していますが、これを除くと計画を超過しています",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "粗利は21億300万円で、昨対比16.9パーセント増、計画対比100.9パーセントと、こちらも計画どおり進捗しています",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "：粗利の進捗率です",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "当社は季節性がありまして、特にPRコンサルティング事業は、繁忙期の3月を含む第3四半期が非常に粗利水準が高くなる時期にあたるため、下期偏重が会社の特徴となっています",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "粗利については、PRコンサルティング事業は20パーセント弱の成長、デジタルマーケティング事業は25パーセントの成長ということで、順調に進捗しています",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "：重要なKPIであるPRパーソン数と1人あたり粗利についてです",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "そこから商品が買えるように在庫をどう持つかというところをメーカー側と確認が取れれば、すぐにでもご案内していきます",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "スローガン、新卒採用支援「Goodfind」が堅調に成長 不採算事業の整理で上期増収増益、営業利益率34.7％",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "成長分野のデジタル広告に強み",
+    "url": "https://www.weekly-economist.com/interview/aosaki_sou/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2014年8月18日",
+    "url": "https://materialgroup.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "2011年、創業間もない社員数名の株式会社マテリアルに入社",
+    "url": "https://materialgroup.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年にマテリアルグループ/マテリアルの代表取締役社長に就任",
+    "url": "https://materialgroup.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年よりマテリアルグループに入社し、CFOに就任",
+    "url": "https://materialgroup.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年よりアドバンテッジパートナーズの国内バイアウト投資事業の責任者",
+    "url": "https://materialgroup.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年よりマテリアルグループの社外取締役に就任",
+    "url": "https://materialgroup.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "1976年慶應義塾大学法学部政治学科卒業",
+    "url": "https://materialgroup.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "2013年11月常勤監査役就任",
+    "url": "https://materialgroup.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年11月任期満了にて退任",
+    "url": "https://materialgroup.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年11月マテリアルグループ常勤監査役就任",
+    "url": "https://materialgroup.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "2013年に独立開業、法人・個人の税務業務を行い、2015年TAXパートナーズ税理士法人設立時社員に就任",
+    "url": "https://materialgroup.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年より国内上場会社の社外役員を務める",
+    "url": "https://materialgroup.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年8月期 連結業績予想",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "2025年8月期 連結業績予想（上期）",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "2025年8月期第2四半期決算 キーメッセージ",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "2025年8月期第2四半期決算 エグゼクティブサマリー",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "2019年に、創業のオーナーがアドバンテッジパートナーズというPEファンドに株式をほぼ100パーセント売却したタイミングを機に、この立場に就任しています",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "2018年に私が代表に就任する前は、それでも多くの人数を集めており、1,600名の応募・エントリーがありました",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "2019年に取締役CFOの吉田が入ってから、この部分を管理していき、結果としてさらなる成長を実現しています",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "2025年8月期は、配当予想を26円として増配を予定しています",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "2025年8月期の配当は1株あたり26円、配当性向39.4パーセントで増配を予定しています",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度第2四半期決算説明会",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "2026年12月期第3四半期決算説明",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "2027年2月期第2四半期決算説明",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月期決算説明",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "1987年東京都出身",
+    "url": "https://www.weekly-economist.com/interview/aosaki_sou/",
+    "pass": 3
+   },
+   {
+    "quote": "2006年日本大学鶴ケ丘高校卒",
+    "url": "https://www.weekly-economist.com/interview/aosaki_sou/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "質疑応答：顧客の景況感や引き合い状況、営業上の強みについて",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "PRコンサルティング事業で多くのお客さまを持っているため、そのお客さまにデジタルマーケティングの領域に対してクロスセルを行うことで、特に顧客単価を向上することで成長を実現したいと思っています",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "3つ目は、デジタル広告運用サービスの顧客獲得も堅調であることや、デジタルマーケティング事業の顧客単価がしっかりと向上していることがポジティブな内容になっています",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "：スライドは、デジタルマーケティング事業のKPIを顧客数と顧客単価で分けてお示ししています",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "特に顧客単価が146万1,000円と増加しています",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "「Flipdesk」というWeb接客ツールサービスと、デジタル広告運用サービスの大きく2つに分かれるのですが、より顧客単価の高いデジタル広告運用が成長している影響で、顧客単価がしっかり伸びています",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "通期業績予想の中でもKPIとしてお示ししていますが、顧客数と顧客単価のバランスとしては、顧客単価がより伸びているということで、計画よりも若干単価に寄った進捗となっています",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "ストックオプションによるインセンティブ設計",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "従来型のPR会社は、企業の広報部の業務を代行するかたちで、契約形態も月額の固定報酬による年間契約というリテナー型が一般的です",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "PRコンサルティング事業で多くのお客さまを持っているため、そのお客さまにデジタルマーケティングの領域に対してクロスセルを行うことで、特に顧客単価を向上することで成長を実現したいと思っています",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "また、当社はストックオプションを持っていますが、大半がプライム市場向けのストックオプションになっており、グロース上場はあくまで通過点・出発点だと捉え、プライム市場に向けての力強い成長を実現していきたいと思っています",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "：スライドのとおり、大半がプライム市場向けのストックオプションになっています",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "3つ目は、デジタル広告運用サービスの顧客獲得も堅調であることや、デジタルマーケティング事業の顧客単価がしっかりと向上していることがポジティブな内容になっています",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "：スライドは、デジタルマーケティング事業のKPIを顧客数と顧客単価で分けてお示ししています",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "特に顧客単価が146万1,000円と増加しています",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "「Flipdesk」というWeb接客ツールサービスと、デジタル広告運用サービスの大きく2つに分かれるのですが、より顧客単価の高いデジタル広告運用が成長している影響で、顧客単価がしっかり伸びています",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "通期業績予想の中でもKPIとしてお示ししていますが、顧客数と顧客単価のバランスとしては、顧客単価がより伸びているということで、計画よりも若干単価に寄った進捗となっています",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "事業セグメント",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "連結業績：2025年8月期Q2の連結及びセグメント別売上高・粗利・EBITDA",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "：スライドはセグメント別でお示ししています",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "青﨑 25年8月期の事業セグメント別の売上高構成比は中核事業のPRコンサルティング事業が85％、デジタルマーケティング事業が11％と予想しています",
+    "url": "https://www.weekly-economist.com/interview/aosaki_sou/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "【QAあり】 マテリアルグループ 、PR発想を軸とした戦略で ... — 【QAあり】 マテリアルグループ 、PR発想を軸とした戦略で ... ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/381519",
+    "pass": 3
+   },
+   {
+    "quote": "ABOUT US | マテリアルグループ 株式会社 — ABOUT US | マテリアルグループ 株式会社 マテリアルグループ株式会社 https://materialgroup.jp > about",
+    "url": "https://materialgroup.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "マテリアルグループ としての新たな挑戦。PRとCXの可能性を ... — マテリアルグループ としての新たな挑戦。PRとCXの可能性を ... 株式会社マテリアル https://materialpr.jp > materialmagazine > view",
+    "url": "https://materialpr.jp/materialmagazine/view/26/1/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "156A マテリアルグループ 個人投資家向け説明会 東京勉強会 ... — 156A マテリアルグループ 個人投資家向け説明会 東京勉強会 ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=18Qs4ik3h-k",
+    "pass": 3
+   },
+   {
+    "quote": "マテリアルグループ 株式会社の会社情報 - M&Aクラウド — マテリアルグループ 株式会社の会社情報 - M&Aクラウド M&Aクラウド https://macloud.jp > companies",
+    "url": "https://macloud.jp/companies/8146",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 | マテリアルグループ 株式会社 — 決算説明資料 | マテリアルグループ 株式会社 マテリアルグループ株式会社 https://materialgroup.jp > IR > IRライブラリー",
+    "url": "https://materialgroup.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "マテリアルグループ [156A]：2026年8月期通期 決算説明資料 ... — マテリアルグループ [156A]：2026年8月期通期 決算説明資料 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20261014550718/",
+    "pass": 3
+   },
+   {
+    "quote": "マテリアルグループ ：2026年8月期通期 決算説明資料 - Moomoo — マテリアルグループ ：2026年8月期通期 決算説明資料 - Moomoo Moomoo https://www.moomoo.com > news > notice > fy2026-full-...",
+    "url": "https://www.moomoo.com/ja/news/notice/1001126123/fy2026-full-year-financial-results-presentation-materials",
+    "pass": 3
+   },
+   {
+    "quote": "マテリアルグループ 株式会社 — マテリアルグループ 株式会社 マテリアルグループ株式会社 https://materialgroup.jp",
+    "url": "https://materialgroup.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "マテリアルグループ 株式会社（156A）の決算・業績分析 — マテリアルグループ 株式会社（156A）の決算・業績分析 金脈コード https://kinmyakucode.com > company",
+    "url": "https://kinmyakucode.com/ja/company/156A/",
+    "pass": 3
+   },
+   {
+    "quote": "編集長 インタビュー 青﨑曹 マテリアルグループ CEO — 編集長 インタビュー 青﨑曹 マテリアルグループ CEO 週刊エコノミスト https://www.weekly-economist.com > aosaki_sou",
+    "url": "https://www.weekly-economist.com/interview/aosaki_sou/",
+    "pass": 3
+   },
+   {
+    "quote": "マテリアルグループ 株式会社の働き方とストーリー - Wantedly — マテリアルグループ 株式会社の働き方とストーリー - Wantedly Wantedly https://www.wantedly.com > materialgroup > stories",
+    "url": "https://www.wantedly.com/companies/materialgroup/stories",
+    "pass": 3
+   },
+   {
+    "quote": "[ マテリアルグループ 青崎曹 社長 を取材 @赤坂] PR ... - Instagram — [ マテリアルグループ 青崎曹 社長 を取材 @赤坂] PR ... - Instagram Instagram https://www.instagram.com > ...",
+    "url": "https://www.instagram.com/p/C7MVF0Dyw4J/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://materialgroup.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://materialgroup.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://materialgroup.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://materialgroup.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://materialgroup.jp/ir/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://materialgroup.jp/ir/highlight/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://materialgroup.jp/ir/library/results/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://materialgroup.jp/ir/library/presentation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://materialgroup.jp/ir/library/securities/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://materialgroup.jp/ir/library/material/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://materialgroup.jp/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://materialgroup.jp/ir/stock/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://materialgroup.jp/ir/library/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://materialgroup.jp/ir/stock/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://materialgroup.jp/ir/stock/meeting/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://finance.logmi.jp/articles/381519",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20261014550718/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mmc.co.jp/corporate/ja/company/organization.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.weekly-economist.com/interview/aosaki_sou/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "マテリアルグループ",
+   "results": [
+    "https://materialgroup.jp/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=156A",
+    "https://x.com/materialgrouppr",
+    "https://macloud.jp/companies/8146",
+    "https://doda.jp/DodaFront/View/Company/j_id__10156209807/",
+    "https://materialgroup.jp/ir/",
+    "https://shikiho.toyokeizai.net/stocks/156A/corporate",
+    "https://finance.yahoo.co.jp/quote/156A.T",
+    "https://shikiho.toyokeizai.net/stocks/156A",
+    "https://materialpr.jp/"
+   ]
+  },
+  {
+   "query": "マテリアルグループ ビジネスモデル",
+   "results": [
+    "https://finance.logmi.jp/articles/381519",
+    "https://materialgroup.jp/about/",
+    "https://materialpr.jp/materialmagazine/view/26/1/index.html",
+    "https://www.youtube.com/watch?v=18Qs4ik3h-k",
+    "https://macloud.jp/companies/8146",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251014/20251014573138.pdf",
+    "https://note.com/oh_no/n/nddce1b0db414",
+    "https://x.com/materialgrouppr",
+    "https://kitaishihon.com/company/156A/business",
+    "https://materialgroup.jp/"
+   ]
+  },
+  {
+   "query": "マテリアルグループ 決算説明資料",
+   "results": [
+    "https://materialgroup.jp/ir/library/presentation/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20261014550718/",
+    "https://ir.mmc.co.jp/ja/ir/library/presentation.html",
+    "https://www.j-materials.jp/ir/library/financial-statement/",
+    "https://www.moomoo.com/ja/news/notice/1001126123/fy2026-full-year-financial-results-presentation-materials",
+    "https://www.aa-material.co.jp/ir/library/presentation.html",
+    "https://finance.logmi.jp/companies/4256",
+    "https://ir.mmc.co.jp/ja/ir/library.html",
+    "https://materialgroup.jp/ir/library/results/",
+    "https://edinetdb.jp/company/E39473/presentations/"
+   ]
+  },
+  {
+   "query": "マテリアルグループ 事業系統図",
+   "results": [
+    "https://materialgroup.jp/",
+    "https://www.mmc.co.jp/corporate/ja/company/organization.html",
+    "https://kinmyakucode.com/ja/company/156A/",
+    "https://materialpr.jp/company/",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251014/20251014573138.pdf",
+    "https://www.youtube.com/watch?v=piZgZovCPwQ",
+    "https://finance.logmi.jp/articles/385344",
+    "https://www.mitsubishicorp.com/jp/ja/about/business-group/materials-solution/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=156A",
+    "https://kitaishihon.com/company/156A/business"
+   ]
+  },
+  {
+   "query": "マテリアルグループ 社長 インタビュー",
+   "results": [
+    "https://www.weekly-economist.com/interview/aosaki_sou/",
+    "https://materialgroup.jp/about/",
+    "https://www.wantedly.com/companies/materialgroup/stories",
+    "https://materialpr.jp/materialmagazine/view/47/1/",
+    "https://www.instagram.com/p/C7MVF0Dyw4J/",
+    "https://a-true-story.jp/challengers_list/so-aosaki/",
+    "https://www.youtube.com/watch?v=v7Vre7QfUVg",
+    "https://www.nsjournal.jp/ipo%E7%A4%BE%E9%95%B7%E4%BC%9A%E8%A6%8B%E3%80%80%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%80%805%E3%80%816%E5%B9%B4%E5%BE%8C%E3%81%ABpr%E6%A5%AD%E7%95%8C/",
+    "https://kitaishihon.com/company/156A/story",
+    "https://gomuhouchi.com/business/64546/"
+   ]
+  }
+ ],
+ "missing": {}
+}

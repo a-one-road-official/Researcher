@@ -1,0 +1,909 @@
+{
+ "name": "ＮＧＫ",
+ "aliases": [],
+ "context": "証券コード5333／ガラス・土石製品／プライム（内国株式）／2026.03期 売上高670,125百万円 営業利益率14.2%",
+ "researched_at": "2026-11-02T19:15:41.524288+00:00",
+ "official_url": "https://ngksparkplugs.com/",
+ "identified_by": "search:yahoo_jp:NGK",
+ "profile": {},
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "取引先ヘルプライン",
+    "url": "https://www.ngk.co.jp/info/division/",
+    "pass": 3
+   },
+   {
+    "quote": "「部署の枠を越えた人との関わりが増え、視野が広がった」「研究開発部門に所属しており、顧客の声を聞きながら仮説検証する機会は初めて」「事業の全体像と収益への道筋が見えるようになり、仕事を自分事として捉えられるようになった」",
+    "url": "https://special.nikkeibp.co.jp/atclh/ONB/26/ngk0220/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし同時に、単なるプロダクトアウトに終わらず、お客様の厳しい要求を的確にとらえてきたという自負もある",
+    "url": "https://special.nikkeibp.co.jp/atclh/ONB/26/ngk0220/",
+    "pass": 3
+   },
+   {
+    "quote": "社員にはさまざまなお客様と向き合う経験を積み、真のニーズを感じとってほしい」",
+    "url": "https://special.nikkeibp.co.jp/atclh/ONB/26/ngk0220/",
+    "pass": 3
+   },
+   {
+    "quote": "世界を舞台に「お客様の困りごと」に向き合うことでこそ、技術は磨かれ、次の価値が生まれる",
+    "url": "https://special.nikkeibp.co.jp/atclh/ONB/26/ngk0220/",
+    "pass": 3
+   },
+   {
+    "quote": "「お客様のサプライチェーンに欠くことのできない存在になることが、ビジネスを持続させる最大の要因だ」",
+    "url": "https://special.nikkeibp.co.jp/atclh/ONB/26/ngk0220/",
+    "pass": 3
+   },
+   {
+    "quote": "取引先ヘルプライン",
+    "url": "https://www.ngk.co.jp/info/organization/",
+    "pass": 3
+   },
+   {
+    "quote": "25年7月には挑戦と交流の拠点として共創施設「NGK Collaboration Square DIVERS」を開設し、すでに8000人以上のお客様に来館いただきました",
+    "url": "https://ps.nikkei.com/nikkei150th/rirekisho_ngk.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の要望や解決したい課題には「できません」と言わず「やらせてください」と答えるよう、社員に伝えています",
+    "url": "https://ps.nikkei.com/nikkei150th/rirekisho_ngk.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の声に耳を傾け、社員の力を発揮し、セラミック技術を軸に社会に新しい価値を提供し続けていく",
+    "url": "https://ps.nikkei.com/nikkei150th/rirekisho_ngk.html",
+    "pass": 3
+   },
+   {
+    "quote": "取引先ヘルプライン",
+    "url": "https://www.ngk.co.jp/info/message/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "製品・技術 トップ",
+    "url": "https://www.ngk.co.jp/info/division/",
+    "pass": 3
+   },
+   {
+    "quote": "金属・金型製品",
+    "url": "https://www.ngk.co.jp/info/division/",
+    "pass": 3
+   },
+   {
+    "quote": "おすすめ製品特集",
+    "url": "https://www.ngk.co.jp/info/division/",
+    "pass": 3
+   },
+   {
+    "quote": "製品に関する重要なお知らせ",
+    "url": "https://www.ngk.co.jp/info/division/",
+    "pass": 3
+   },
+   {
+    "quote": "これからも独自のセラミック技術を生かした製品やサービスの提供を通じて、地球環境への負荷低減、スマート社会への貢献、電力の安定供給など、より快適な社会の発展に向けて新たな価値創造に挑戦します",
+    "url": "https://www.ngk.co.jp/info/division/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車や産業分野向けに、排ガス浄化製品や省エネ機器の開発・提供を行っています",
+    "url": "https://www.ngk.co.jp/info/division/",
+    "pass": 3
+   },
+   {
+    "quote": "エレクトロニクス分野の技術革新とデジタル社会の課題解決に貢献する多様な製品を提供しています",
+    "url": "https://www.ngk.co.jp/info/division/",
+    "pass": 3
+   },
+   {
+    "quote": "電力インフラの変革に対応し、がいしやエネルギープラント製品など安定供給に貢献する製品を提供しています",
+    "url": "https://www.ngk.co.jp/info/division/",
+    "pass": 3
+   },
+   {
+    "quote": "NGKは社会の基盤を支え、環境課題の解決に役立つ製品を開発、提供し続けます",
+    "url": "https://www.ngk.co.jp/info/division/",
+    "pass": 3
+   },
+   {
+    "quote": "セラミック技術の新たな可能性に挑み、次代を見つめた新技術や新製品の研究開発に取り組んでいます",
+    "url": "https://www.ngk.co.jp/info/division/",
+    "pass": 3
+   },
+   {
+    "quote": "数年前、EV化の進展を背景に、同社の主力である内燃機関向け製品の先行きが危ぶまれたこともある",
+    "url": "https://special.nikkeibp.co.jp/atclh/ONB/26/ngk0220/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、AI革命は半導体関連製品の需要を押し上げた",
+    "url": "https://special.nikkeibp.co.jp/atclh/ONB/26/ngk0220/",
+    "pass": 3
+   },
+   {
+    "quote": "また祖業である電力向け絶縁体「がいし」製品の売上が全体の１割以下に低下している現状も踏まえた",
+    "url": "https://special.nikkeibp.co.jp/atclh/ONB/26/ngk0220/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・技術 トップ",
+    "url": "https://www.ngk.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "金属・金型製品",
+    "url": "https://www.ngk.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "おすすめ製品特集",
+    "url": "https://www.ngk.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "製品に関する重要なお知らせ",
+    "url": "https://www.ngk.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年3月期新製品説明会 プレゼンテーション資料（ノート付き）",
+    "url": "https://www.ngk.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年3月期新製品説明会 プレゼンテーション資料",
+    "url": "https://www.ngk.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・技術 トップ",
+    "url": "https://www.ngk.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "金属・金型製品",
+    "url": "https://www.ngk.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "おすすめ製品特集",
+    "url": "https://www.ngk.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "製品に関する重要なお知らせ",
+    "url": "https://www.ngk.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "新製品・新規事業を創出",
+    "url": "https://www.ngk.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・技術を探す",
+    "url": "https://www.ngk.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・技術 トップ",
+    "url": "https://www.ngk.co.jp/info/organization/",
+    "pass": 3
+   },
+   {
+    "quote": "金属・金型製品",
+    "url": "https://www.ngk.co.jp/info/organization/",
+    "pass": 3
+   },
+   {
+    "quote": "おすすめ製品特集",
+    "url": "https://www.ngk.co.jp/info/organization/",
+    "pass": 3
+   },
+   {
+    "quote": "製品に関する重要なお知らせ",
+    "url": "https://www.ngk.co.jp/info/organization/",
+    "pass": 3
+   },
+   {
+    "quote": "時は移り、がいし製品の売上高は今、全体の1割未満",
+    "url": "https://ps.nikkei.com/nikkei150th/rirekisho_ngk.html",
+    "pass": 3
+   },
+   {
+    "quote": "インクジェットプリンター向け圧電セラミックスという画期的新製品により「家庭で高画質印刷」という文化もつくりました",
+    "url": "https://ps.nikkei.com/nikkei150th/rirekisho_ngk.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品・技術 トップ",
+    "url": "https://www.ngk.co.jp/info/message/",
+    "pass": 3
+   },
+   {
+    "quote": "金属・金型製品",
+    "url": "https://www.ngk.co.jp/info/message/",
+    "pass": 3
+   },
+   {
+    "quote": "おすすめ製品特集",
+    "url": "https://www.ngk.co.jp/info/message/",
+    "pass": 3
+   },
+   {
+    "quote": "製品に関する重要なお知らせ",
+    "url": "https://www.ngk.co.jp/info/message/",
+    "pass": 3
+   },
+   {
+    "quote": "現在、がいし製品の売上高は全体の1割未満にとどまり、当社の中核事業は大きく転換しています",
+    "url": "https://www.ngk.co.jp/info/message/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえ困難なテーマであっても、挑戦を恐れず、技術開発を止めることなく、社会にとって本当に価値ある製品を生み出し続けます",
+    "url": "https://www.ngk.co.jp/info/message/",
+    "pass": 3
+   },
+   {
+    "quote": "新社名の下でも、こうした技術や製品の提供を通じて、社会から必要とされ続ける会社でありたいと考えています",
+    "url": "https://www.ngk.co.jp/info/message/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "NGKの紹介映像",
+    "url": "https://www.ngk.co.jp/info/division/",
+    "pass": 3
+   },
+   {
+    "quote": "NGKの紹介映像",
+    "url": "https://www.ngk.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "NGKの紹介映像",
+    "url": "https://www.ngk.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "NGKの紹介映像",
+    "url": "https://www.ngk.co.jp/info/organization/",
+    "pass": 3
+   },
+   {
+    "quote": "NGKの紹介映像",
+    "url": "https://www.ngk.co.jp/info/message/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "売上高構成比",
+    "url": "https://www.ngk.co.jp/info/division/",
+    "pass": 3
+   },
+   {
+    "quote": "海外売上比率",
+    "url": "https://www.ngk.co.jp/info/division/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年3月期決算 セグメント情報",
+    "url": "https://www.ngk.co.jp/ir/library/presentation/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "歴史に培われた強み",
+    "url": "https://www.ngk.co.jp/info/division/",
+    "pass": 3
+   },
+   {
+    "quote": "NGKグループのMI 100年分のデータを強みに、MIで材料開発の新時代を開く",
+    "url": "https://www.ngk.co.jp/info/division/",
+    "pass": 3
+   },
+   {
+    "quote": "歴史に培われた強み",
+    "url": "https://www.ngk.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "歴史に培われた強み",
+    "url": "https://www.ngk.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "歴史に培われた強み",
+    "url": "https://www.ngk.co.jp/info/organization/",
+    "pass": 3
+   },
+   {
+    "quote": "NGKグループのMI 100年分のデータを強みに、MIで材料開発の新時代を開く",
+    "url": "https://www.ngk.co.jp/info/organization/",
+    "pass": 3
+   },
+   {
+    "quote": "強みのセラミック技術を軸に、AI（人工知能）・半導体時代の社会課題解決に正面から挑む姿勢を鮮明にした",
+    "url": "https://ps.nikkei.com/nikkei150th/rirekisho_ngk.html",
+    "pass": 3
+   },
+   {
+    "quote": "長年積み上げた膨大な研究データと高い技術力はNGKの強みですが、これまでは「ひたすらに良いものを作る」という、ある意味で内向きの思考があったのも事実です",
+    "url": "https://ps.nikkei.com/nikkei150th/rirekisho_ngk.html",
+    "pass": 3
+   },
+   {
+    "quote": "困難な問題に挑戦する 人材が強みの源泉",
+    "url": "https://ps.nikkei.com/nikkei150th/rirekisho_ngk.html",
+    "pass": 3
+   },
+   {
+    "quote": "歴史に培われた強み",
+    "url": "https://www.ngk.co.jp/info/message/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは、独自のセラミック技術で培った強みをさらに磨きながら、事業構成を転換し、自ら変革に挑みます",
+    "url": "https://www.ngk.co.jp/info/message/",
+    "pass": 3
+   },
+   {
+    "quote": "NGKグループのMI 100年分のデータを強みに、MIで材料開発の新時代を開く",
+    "url": "https://www.ngk.co.jp/info/message/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年3月現在",
+    "url": "https://www.ngk.co.jp/info/division/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 英国現代奴隷法に関する声明",
+    "url": "https://www.ngk.co.jp/info/division/",
+    "pass": 3
+   },
+   {
+    "quote": "2030年にはカーボンニュートラル・デジタル社会関連の売上高を全体の50％に、2050年には80％まで高める方針だ",
+    "url": "https://special.nikkeibp.co.jp/atclh/ONB/26/ngk0220/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期第2四半期決算では売上高・営業利益ともに過去最高を更新",
+    "url": "https://special.nikkeibp.co.jp/atclh/ONB/26/ngk0220/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月1日、日本ガイシは社名を「NGK」に変更する",
+    "url": "https://special.nikkeibp.co.jp/atclh/ONB/26/ngk0220/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期第2四半期（中間期）決算説明会プレゼンテーション資料",
+    "url": "https://www.ngk.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期",
+    "url": "https://www.ngk.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.ngk.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期決算説明会 プレゼンテーション資料",
+    "url": "https://www.ngk.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期決算説明会 プレゼンテーション資料（ノート付き）",
+    "url": "https://www.ngk.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期第2四半期決算説明会 プレゼンテーション資料（ノート付き）",
+    "url": "https://www.ngk.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期第2四半期（中間期）決算説明会プレゼンテーション資料",
+    "url": "https://www.ngk.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.ngk.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期決算説明会 プレゼンテーション資料（ノート付き）",
+    "url": "https://www.ngk.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期決算説明会 プレゼンテーション資料",
+    "url": "https://www.ngk.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期第2四半期決算説明会プレゼンテーション資料",
+    "url": "https://www.ngk.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期第2四半期決算説明会 プレゼンテーション資料（ノート付き）",
+    "url": "https://www.ngk.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.ngk.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月期決算説明会 プレゼンテーション資料（ノート付き）",
+    "url": "https://www.ngk.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月期 決算説明会 プレゼンテーション資料",
+    "url": "https://www.ngk.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月期第2四半期決算説明会 プレゼンテーション資料（ノート付き）",
+    "url": "https://www.ngk.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月期第2四半期決算説明会 プレゼンテーション資料",
+    "url": "https://www.ngk.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://www.ngk.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年3月期決算説明会 プレゼンテーション資料（ノート付き）",
+    "url": "https://www.ngk.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年3月期決算説明会 プレゼンテーション資料",
+    "url": "https://www.ngk.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年3月期第2四半期決算説明会 プレゼンテーション資料（ノート付き）",
+    "url": "https://www.ngk.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年3月期第2四半期決算説明会 プレゼンテーション資料",
+    "url": "https://www.ngk.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://www.ngk.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年3月期決算説明会 プレゼンテーション資料（ノート付き）",
+    "url": "https://www.ngk.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年3月期決算説明会 プレゼンテーション資料",
+    "url": "https://www.ngk.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期 第2四半期（中間期）決算短信",
+    "url": "https://www.ngk.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期 第2四半期（中間期）決算発表 補足資料",
+    "url": "https://www.ngk.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 有価証券報告書",
+    "url": "https://www.ngk.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度報告書",
+    "url": "https://www.ngk.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月02日",
+    "url": "https://www.ngk.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月30日",
+    "url": "https://www.ngk.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期（2026年度）第2四半期決算発表",
+    "url": "https://www.ngk.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年07月30日",
+    "url": "https://www.ngk.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期（2026年度）第1四半期決算発表",
+    "url": "https://www.ngk.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 英国現代奴隷法に関する声明",
+    "url": "https://www.ngk.co.jp/info/organization/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月、日本ガイシは「NGK株式会社」へと社名を変更",
+    "url": "https://ps.nikkei.com/nikkei150th/rirekisho_ngk.html",
+    "pass": 3
+   },
+   {
+    "quote": "1970年代、当時の竹見淳一社長は、電力設備向け絶縁体であるがいし（碍子）以外の事業を大きく育てるためにはブランド名と社名の統一が不可欠と考え、「CI（企業イメージの統一）をやりたい」と「NGK」への改名を模索しました",
+    "url": "https://ps.nikkei.com/nikkei150th/rirekisho_ngk.html",
+    "pass": 3
+   },
+   {
+    "quote": "2035年度に売上高1.3兆円、CN・DS比率を60％以上へと高め、以降もCN事業を伸ばし事業構成転換を図る",
+    "url": "https://ps.nikkei.com/nikkei150th/rirekisho_ngk.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年春、当社は「NGK株式会社」へと社名を変更しました",
+    "url": "https://www.ngk.co.jp/info/message/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 英国現代奴隷法に関する声明",
+    "url": "https://www.ngk.co.jp/info/message/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "事業概要 | 企業情報 | NGK 株式会社（旧 - 日本ガイシ — 事業概要 | 企業情報 | NGK 株式会社（旧 - 日本ガイシ NGK株式会社 https://www.ngk.co.jp > 企業情報",
+    "url": "https://www.ngk.co.jp/info/division/",
+    "pass": 3
+   },
+   {
+    "quote": "世界で磨いたセラミック技術が脱炭素とデジタル社会を支える — 世界で磨いたセラミック技術が脱炭素とデジタル社会を支える 日経BP Special https://special.nikkeibp.co.jp > atclh > ONB > ngk0220",
+    "url": "https://special.nikkeibp.co.jp/atclh/ONB/26/ngk0220/",
+    "pass": 3
+   },
+   {
+    "quote": "長期経営計画 | 企業情報 | NGK 株式会社（旧 - 日本ガイシ — 長期経営計画 | 企業情報 | NGK 株式会社（旧 - 日本ガイシ NGK株式会社 https://www.ngk.co.jp > 企業情報",
+    "url": "https://www.ngk.co.jp/info/plan/",
+    "pass": 3
+   },
+   {
+    "quote": "Innovation | NGK Corporation — Innovation | NGK Corporation NGK Corporation https://www.ngk-global.com > innova...",
+    "url": "https://www.ngk-global.com/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "NGK REPORT 2020 - 名古屋証券取引所 — NGK REPORT 2020 - 名古屋証券取引所 名古屋証券取引所 PDF https://www.nse.or.jp > listing > search > files",
+    "url": "https://www.nse.or.jp/listing/search/files/140120201110419559.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "IR関連 資料 | 株主・投資家情報 | NGK 株式会社（旧 - 日本ガイシ — IR関連 資料 | 株主・投資家情報 | NGK 株式会社（旧 - 日本ガイシ NGK株式会社 https://www.ngk.co.jp > 株主・投資家情報 > IRライブラリー",
+    "url": "https://www.ngk.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家情報 | NGK 株式会社（旧 - 日本ガイシ — 株主・投資家情報 | NGK 株式会社（旧 - 日本ガイシ NGK株式会社 https://www.ngk.co.jp > ...",
+    "url": "https://www.ngk.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリー | 株主・投資家情報 | NGK 株式会社（旧 — IRライブラリー | 株主・投資家情報 | NGK 株式会社（旧 NGK株式会社 https://www.ngk.co.jp > 株主・投資家情報",
+    "url": "https://www.ngk.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "【 NGK 】[5333]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 NGK 】[5333]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=5333",
+    "pass": 3
+   },
+   {
+    "quote": "組織図 | 企業情報 | NGK 株式会社（旧 - 日本ガイシ — 組織図 | 企業情報 | NGK 株式会社（旧 - 日本ガイシ NGK株式会社 https://www.ngk.co.jp > 企業情報",
+    "url": "https://www.ngk.co.jp/info/organization/",
+    "pass": 3
+   },
+   {
+    "quote": "事業 概要 | 企業情報 | NGK 株式会社（旧 - 日本ガイシ — 事業 概要 | 企業情報 | NGK 株式会社（旧 - 日本ガイシ NGK株式会社 https://www.ngk.co.jp > 企業情報",
+    "url": "https://www.ngk.co.jp/info/division/",
+    "pass": 3
+   },
+   {
+    "quote": "グループ会社一覧 | Privacy Policy | NGK Corporation — グループ会社一覧 | Privacy Policy | NGK Corporation NGK Corporation https://www.ngk-global.com > privacypolicy > ngk-and-g...",
+    "url": "https://www.ngk-global.com/privacypolicy/ngk-and-group-companies-group-loc.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社紹介映像 | NGK 株式会社 - YouTube — 会社紹介映像 | NGK 株式会社 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=iyFeR39Ocq0",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 | NGK 株式会社（旧 - 日本ガイシ — 企業情報 | NGK 株式会社（旧 - 日本ガイシ NGK株式会社 https://www.ngk.co.jp > info",
+    "url": "https://www.ngk.co.jp/info/",
+    "pass": 3
+   },
+   {
+    "quote": "「私の履歴書」で紡ぐ 企業の原点： NGK - トレンドウオッチ — 「私の履歴書」で紡ぐ 企業の原点： NGK - トレンドウオッチ ps.nikkei.com https://ps.nikkei.com > rirekisho_ngk",
+    "url": "https://ps.nikkei.com/nikkei150th/rirekisho_ngk.html",
+    "pass": 3
+   },
+   {
+    "quote": "トップメッセージ | 企業情報 | NGK 株式会社（旧 - 日本ガイシ — トップメッセージ | 企業情報 | NGK 株式会社（旧 - 日本ガイシ NGK株式会社 https://www.ngk.co.jp > 企業情報",
+    "url": "https://www.ngk.co.jp/info/message/",
+    "pass": 3
+   },
+   {
+    "quote": "ココが聞きたい NGK社長 小林茂（こばやし・しげる）氏 ... — ココが聞きたい NGK社長 小林茂（こばやし・しげる）氏 ... chukei-news.co.jp https://www.chukei-news.co.jp > news > 2026/06/24",
+    "url": "https://www.chukei-news.co.jp/news/2026/06/24/OK0002606240101_03/",
+    "pass": 3
+   },
+   {
+    "quote": "社長 メッセージ | 採用情報 | NGK セラミックデバイス株式会社 ... — 社長 メッセージ | 採用情報 | NGK セラミックデバイス株式会社 ... NGKセラミックデバイス株式会社 https://ncdk.jp > recruit > message",
+    "url": "https://ncdk.jp/recruit/message/",
+    "pass": 3
+   },
+   {
+    "quote": "社名変更 NGK の挑戦（5）：地域ニュース - 読売新聞 — 社名変更 NGK の挑戦（5）：地域ニュース - 読売新聞 読売新聞 https://www.yomiuri.co.jp > ... > 中部発の企画・連載",
+    "url": "https://www.yomiuri.co.jp/local/chubu/feature/20260803-GYTAT00018/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "森村グループ創設者の森村市左衛門は「人は感激に生き保守に死す 世物みな進むありて止まることなし」 、つまり現状維持ではなく常に挑戦し自己を革新し続けよという言葉を残しています",
+    "url": "https://ps.nikkei.com/nikkei150th/rirekisho_ngk.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://ngksparkplugs.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ngksparkplugs.com/en/products/ignition-parts/wire-sets",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ngksparkplugs.com/en/products/sensor-parts/maf-air-sensors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ngksparkplugs.com/en/products/sensor-parts/air-fuel-ratio-monitor-kits",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ngksparkplugs.com/en/about-us/salvage-sensor-recovery-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ngksparkplugs.com/en/category/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ngksparkplugs.com/en/about-us/niterra-careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ngksparkplugs.com/en/about-us/contact",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ngksparkplugs.com/en/about-us/our-story",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ngksparkplugs.com/en/about-us/racing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ngksparkplugs.com/en/about-us/where-to-buy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ngksparkplugs.com/en/about-us/niterra-careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ngksparkplugs.com/en/category/products/ignition-parts",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://ngksparkplugs.com/wp-content/uploads/2019/04/Wire-Sets.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ngksparkplugs.com/wp-content/uploads/2019/11/Mass-Flow-Air-Sensor.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ngksparkplugs.com/wp-content/uploads/2019/04/AFRM-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.ngk.co.jp/info/division/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://special.nikkeibp.co.jp/atclh/ONB/26/ngk0220/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ngk.co.jp/ir/library/presentation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ngk.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ngk.co.jp/info/organization/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ngk.co.jp/info/division/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ps.nikkei.com/nikkei150th/rirekisho_ngk.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ngk.co.jp/info/message/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "NGK",
+   "results": [
+    "https://ngksparkplugs.com/",
+    "https://www.ngk.com/",
+    "https://www.autozone.com/brands/ngk",
+    "https://www.ngk-global.com/",
+    "https://en.wikipedia.org/wiki/NGK_Corporation",
+    "https://www.ngk-sparkplugs.jp/",
+    "https://grokipedia.com/page/National_Geographic_Kids",
+    "https://www.ngksparkplugs.com/",
+    "https://ngksparkplugs.com/en/part-finder",
+    "https://www.ngk.com/ngk"
+   ]
+  },
+  {
+   "query": "NGK ビジネスモデル",
+   "results": [
+    "https://www.ngk.co.jp/info/division/",
+    "https://special.nikkeibp.co.jp/atclh/ONB/26/ngk0220/",
+    "https://www.ngk.co.jp/info/plan/",
+    "https://www.ngk-global.com/innovation/",
+    "https://www.nse.or.jp/listing/search/files/140120201110419559.pdf",
+    "https://edinetdb.jp/company/E01137/midterm-plans/",
+    "https://ja.wikipedia.org/wiki/NGK_(%E4%BC%81%E6%A5%AD)",
+    "https://www.niterragroup.com/recruit/about/history/",
+    "https://my-next-goal-is-fire.com/ngk-5333-business-model/",
+    "https://www.ngk-global.com/info/division/"
+   ]
+  },
+  {
+   "query": "NGK 決算説明資料",
+   "results": [
+    "https://www.ngk.co.jp/ir/library/presentation/",
+    "https://www.ngk.co.jp/ir/",
+    "https://www.ngk.co.jp/ir/library/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=5333",
+    "https://froggy.smbcnikko.co.jp/64115/",
+    "https://edinetdb.jp/company/E01137/ir-docs/",
+    "https://investalk.jp/5333/5333-tanshin-text-2026/",
+    "https://www.ngk-global.com/ir/highlight.html",
+    "https://www.ngk.co.jp/ir/library/graph/",
+    "https://www.ngk-global.com/ir/"
+   ]
+  },
+  {
+   "query": "NGK 事業系統図",
+   "results": [
+    "https://www.ngk.co.jp/info/organization/",
+    "https://www.ngk.co.jp/info/division/",
+    "https://www.ngk-global.com/privacypolicy/ngk-and-group-companies-group-loc.html",
+    "https://www.youtube.com/watch?v=iyFeR39Ocq0",
+    "https://www.ngk.co.jp/info/",
+    "https://f.irbank.net/pdf/E01137/ir/S100W11A.pdf",
+    "https://ja.wikipedia.org/wiki/NGK_(%E4%BC%81%E6%A5%AD)",
+    "https://digitalpr.jp/r/116965",
+    "https://edinetdb.jp/company/E01137/midterm-plans/",
+    "https://ja.wikipedia.org/wiki/NGK_(企業)"
+   ]
+  },
+  {
+   "query": "NGK 社長 インタビュー",
+   "results": [
+    "https://ps.nikkei.com/nikkei150th/rirekisho_ngk.html",
+    "https://www.ngk.co.jp/info/message/",
+    "https://www.chukei-news.co.jp/news/2026/06/24/OK0002606240101_03/",
+    "https://ncdk.jp/recruit/message/",
+    "https://www.yomiuri.co.jp/local/chubu/feature/20260803-GYTAT00018/",
+    "https://biz.chunichi.co.jp/news/article/10/129892/463/",
+    "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%9E%97%E8%8C%82_(%E6%97%A5%E6%9C%AC%E3%82%AC%E3%82%A4%E3%82%B7)",
+    "https://www.ngk.co.jp/divers/topics/30/",
+    "https://toyokeizai.net/articles/-/960201?display=b",
+    "https://note.com/hitoshi_888/n/nf01639f7be9c"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式13頁／PDF・画像3件／外部8頁・検索5回）",
+  "従業員数": "記載なし（3回確認済み：公式13頁／PDF・画像3件／外部8頁・検索5回）",
+  "事業内容": "記載なし（3回確認済み：公式13頁／PDF・画像3件／外部8頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像3件／外部8頁・検索5回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式13頁／PDF・画像3件／外部8頁・検索5回）"
+ }
+}

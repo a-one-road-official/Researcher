@@ -1,0 +1,1549 @@
+{
+ "name": "要興業",
+ "aliases": [],
+ "context": "証券コード6566／サービス業／スタンダード（内国株式）／2026.03期 売上高14,949百万円 営業利益率14.1%",
+ "researched_at": "2026-11-02T19:15:36.365407+00:00",
+ "official_url": "https://www.kaname-k.co.jp/",
+ "identified_by": "search:yahoo_jp:要興業",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "昭和48（1973）年4月",
+    "url": "https://www.kaname-k.co.jp/kaname/company.php",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1992年4月",
+    "url": "https://www.kaname-k.co.jp/kaname/recycle_center_iriyaRC.php",
+    "pass": 1
+   },
+   {
+    "label": "設立年月",
+    "value": "1973年4月",
+    "url": "https://jobtalk.jp/companies/53647/answers?question_codes=president",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "連結：149億4907万6,000円　単体：124億7468万7,000円　（注）2026年3月末現在",
+    "url": "https://www.kaname-k.co.jp/kaname/company.php",
+    "pass": 1
+   },
+   {
+    "label": "売上高 （解説）",
+    "value": "11,934 13,029 13,503 14,506 14,949",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=6566",
+    "pass": 3
+   },
+   {
+    "label": "売上高 （解説）",
+    "value": "5,875 6,418 6,663 7,277 7,464",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=6566",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "連結：840名（正社員：467名　アルバイト・パートタイマー等：373名） 単体：643名（正社員：390名　アルバイト・パートタイマー等：253名） （注）2026年3月末現在",
+    "url": "https://www.kaname-k.co.jp/kaname/company.php",
+    "pass": 1
+   },
+   {
+    "label": "従業員数(名)",
+    "value": "平均年齢(歳) 平均勤続年数(年) 平均年間給与(千円) 平均年間給与の対前 事業年度増減率(％)",
+    "url": "https://kitaishihon.com/company/6566/human-capital",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "467人",
+    "url": "https://jobtalk.jp/companies/53647/answers?question_codes=president",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "収集運搬・処分事業 ・一般廃棄物 ・産業廃棄物 ・特別管理産業廃棄物 リサイクル事業 ・再生資源の販売 行政受託事業 ・行政委託資源物の処理",
+    "url": "https://www.kaname-k.co.jp/kaname/company.php",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "サービス概要",
+    "url": "https://www.kaname-k.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス概要",
+    "url": "https://www.kaname-k.co.jp/kaname/company.php",
+    "pass": 1
+   },
+   {
+    "quote": "・お客様から信頼される質の高いサービスを提供します",
+    "url": "https://www.kaname-k.co.jp/kaname/company.php",
+    "pass": 1
+   },
+   {
+    "quote": "電子記録媒体機密性プラスチック製品破砕プラント新設",
+    "url": "https://www.kaname-k.co.jp/kaname/company.php",
+    "pass": 1
+   },
+   {
+    "quote": "サービス概要",
+    "url": "https://www.kaname-k.co.jp/regular/business/",
+    "pass": 1
+   },
+   {
+    "quote": "(水銀使用製品産業廃棄物を含む)",
+    "url": "https://www.kaname-k.co.jp/regular/business/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、お客様に対して原則無料で、オリジナルのガイドブックや分別表、ポスターの作成・提供を含め、ごみの処理全般についてのコンサルティングサービスを行っておりますので遠慮なくお問い合わせください",
+    "url": "https://www.kaname-k.co.jp/regular/business/",
+    "pass": 1
+   },
+   {
+    "quote": "産業廃棄物の種類欄に「水銀使用製品産業廃棄物」が含まれることを明記してください",
+    "url": "https://www.kaname-k.co.jp/regular/business/",
+    "pass": 1
+   },
+   {
+    "quote": "「水銀使用製品産業廃棄物」の収集運搬、処分の許可を受けた事業者に委託してください",
+    "url": "https://www.kaname-k.co.jp/regular/business/",
+    "pass": 1
+   },
+   {
+    "quote": "産業廃棄物の種類欄に「水銀使用製品産業廃棄物」に含まれること、また、その数量を記載してください",
+    "url": "https://www.kaname-k.co.jp/regular/business/",
+    "pass": 1
+   },
+   {
+    "quote": "平成29年10月より蛍光灯などの水銀使用製品産業廃棄物に関する許可の仕組みが変わったと聞きました",
+    "url": "https://www.kaname-k.co.jp/regular/business/",
+    "pass": 1
+   },
+   {
+    "quote": "遅くとも平成29年10月以降、産業廃棄物収集運搬業許可証・産業廃棄物処分業許可証の更新が行われた際に、取り扱う廃棄物の種類に「水銀使用製品産業廃棄物」と表記されているか、その前にその箇所の変更が行われていることが必要です",
+    "url": "https://www.kaname-k.co.jp/regular/business/",
+    "pass": 1
+   },
+   {
+    "quote": "平成29年10月1日以降に「水銀使用製品産業廃棄物」の新規委託契約を締結した場合は、契約書内の委託する廃棄物の種類に「水銀使用製品産業廃棄物」の記入が必要です",
+    "url": "https://www.kaname-k.co.jp/regular/business/",
+    "pass": 1
+   },
+   {
+    "quote": "※平成29年10月1日以前に、契約締結している委託契約書については、新たに契約変更等をする必要はありませんが、委託契約書の更新を迎える際には、「覚書」あるいは「変更契約」などで「水銀使用製品産業廃棄物」の処理委託契約が必要です",
+    "url": "https://www.kaname-k.co.jp/regular/business/",
+    "pass": 1
+   },
+   {
+    "quote": "産業廃棄物の種類欄に「水銀使用製品産業廃棄物」が含まれることを明記する必要があります",
+    "url": "https://www.kaname-k.co.jp/regular/business/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の回収時間内であれば、商品納品前の時間帯などお客様のご要望に合わせて段ボールの回収を行うことが可能です",
+    "url": "https://www.kaname-k.co.jp/regular/business/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客サービスのためワンデーストックを導入したいのですが、ごみ集積場が小さいため導入できるか不安です",
+    "url": "https://www.kaname-k.co.jp/regular/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ご相談 ： ポイントカードや商品券など、外部に流出したら金券と同等に扱われるものを適切に処分したいと思っています",
+    "url": "https://www.kaname-k.co.jp/regular/business/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、機密書類のみでなく、機密情報が保存されているCD・DVDなど(機密性プラスチック製品)の破砕も行っております",
+    "url": "https://www.kaname-k.co.jp/regular/business/",
+    "pass": 1
+   },
+   {
+    "quote": "特定家庭用機器再商品化法（家電リサイクル法）",
+    "url": "https://www.kaname-k.co.jp/regular/business/",
+    "pass": 1
+   },
+   {
+    "quote": "特定家庭用機器の小売業者及び製造業者等による特定家庭用機器廃棄物の収集及び運搬並びに再商品化等に関し、これを適正かつ円滑に実施するための措置を講ずることにより、廃棄物の減量及び再生資源の十分な利用等を通じて、廃棄物の適正な処理及び資源の有効な利用の確保を図り、もって生活環境の保全及び国民経済の健全な発展に寄与することを目的とする法律",
+    "url": "https://www.kaname-k.co.jp/regular/business/",
+    "pass": 1
+   },
+   {
+    "quote": "容器包装に係る分別収集及び再商品化の促進等に関する法律（容器包装リサイクル法）",
+    "url": "https://www.kaname-k.co.jp/regular/business/",
+    "pass": 1
+   },
+   {
+    "quote": "容器包装廃棄物の排出の抑制並びにその分別収集及びこれにより得られた分別基準適合物の再商品化を促進するための措置を講ずること等により、一般廃棄物の減量及び再生資源の十分な利用等を通じて、廃棄物の適正な処理及び資源の有効な利用の確保を図り、もって生活環境の保全及び国民経済の健全な発展に寄与することを目的とする法律",
+    "url": "https://www.kaname-k.co.jp/regular/business/",
+    "pass": 1
+   },
+   {
+    "quote": "国内外におけるプラスチック使用製品の廃棄物をめぐる環境の変化に対応して、プラスチックに係る資源循環の促進等を図るため、プラスチック使用製品の使用の合理化、プラスチック使用製品の廃棄物の市町村による再商品化並びに事業者による自主回収及び再資源化を促進するための制度の創設等の措置を講ずることにより、生活環境の保全及び国民経済の健全な発展に寄与することを目的とする法律",
+    "url": "https://www.kaname-k.co.jp/regular/business/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス案内送付のご案内",
+    "url": "https://www.kaname-k.co.jp/regular/business/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス概要",
+    "url": "https://www.kaname-k.co.jp/kaname/recycle_center_iriyaRC.php",
+    "pass": 1
+   },
+   {
+    "quote": "電子記録媒体機密性プラスチック製品の破砕",
+    "url": "https://www.kaname-k.co.jp/kaname/recycle_center_iriyaRC.php",
+    "pass": 1
+   },
+   {
+    "quote": "機密性プラスチック製品の破砕プラント",
+    "url": "https://www.kaname-k.co.jp/kaname/recycle_center_iriyaRC.php",
+    "pass": 1
+   },
+   {
+    "quote": "実際には、売却先の基準に合わせるために選別や混合をして製品を作ったり、設備の故障を防止するためにシールをはがしたり、はたまた、混在しているものや危険なものを取り除いたりと、手をかけて資源化しています",
+    "url": "https://www.kaname-k.co.jp/ir/message.php",
+    "pass": 1
+   },
+   {
+    "quote": "主なところでは、不燃物の選別資源化や、区の役割の一部として、プラスチック製容器包装と製品プラスチックの選別圧縮、飲料容器の選別圧縮等を行っています",
+    "url": "https://www.kaname-k.co.jp/ir/message.php",
+    "pass": 1
+   },
+   {
+    "quote": "不燃物選別資源化(左側)とプラスチック製容器包装・製品プラスチックの選別圧縮(右側)の様子",
+    "url": "https://www.kaname-k.co.jp/ir/message.php",
+    "pass": 1
+   },
+   {
+    "quote": "区から指定された再商品化事業者に引き渡しています",
+    "url": "https://www.kaname-k.co.jp/ir/message.php",
+    "pass": 1
+   },
+   {
+    "quote": "における製品プラスチックの選別・圧縮も併せて実施しています",
+    "url": "https://www.kaname-k.co.jp/ir/message.php",
+    "pass": 1
+   },
+   {
+    "quote": "要興業のリサイクルセンターで扱う資源物は、不燃物、資源として出されているもの、容器包装プラスチック、製品プラスチック等となります",
+    "url": "https://www.kaname-k.co.jp/ir/financial.php",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、創業50周年を迎えたことを期に、2024年3月期から2026年3月期までの3年間を更なる成長のステップとして、主力3事業に加え、積極的な情報投資と企業連携を通じ、売上高150億円、ROE８％を目指してまいりました",
+    "url": "https://www.kaname-k.co.jp/ir/financial.php",
+    "pass": 1
+   },
+   {
+    "quote": "国内において、「防災・危機管理」の概念での体制整備や計画策定等に取り組んでいる背景に鑑み、当社グループ内で、災害時等にもサービスの安定供給を維持できるようＢＣＰ（事業継続計画）に基づき、設備面における取り組みの強化及び代替要員の確保の再徹底を図ってまいります",
+    "url": "https://www.kaname-k.co.jp/ir/financial.php",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、株主、投資家の皆様に対し、透明性、公平性、継続性を基本に迅速な情報提供に努めるとともに、金融商品取引法および東京証券取引所の定める適時開示規則に準拠した情報の開示を行います",
+    "url": "https://www.kaname-k.co.jp/ir/disclosure-policy.php",
+    "pass": 1
+   },
+   {
+    "quote": "サービス概要",
+    "url": "https://www.kaname-k.co.jp/regular/business/index11.php",
+    "pass": 1
+   },
+   {
+    "quote": "「無料」だからといって、いい加減に仕事を終わらせたり、当社のサービスを押しつけたりすることは、絶対にしません",
+    "url": "https://www.kaname-k.co.jp/regular/business/index11.php",
+    "pass": 1
+   },
+   {
+    "quote": "ですが、お互いにメリットのある質のよいコンサルティングサービスを提供するために、ここは是非ご理解をお願いします",
+    "url": "https://www.kaname-k.co.jp/regular/business/index11.php",
+    "pass": 1
+   },
+   {
+    "quote": "サービス概要",
+    "url": "https://www.kaname-k.co.jp/regular/business/index13.php",
+    "pass": 1
+   },
+   {
+    "quote": "具体的には、オフィスから発生する不要になった紙類や小売店から出る商品を梱包していたビニール、段ボール、そして粗大ゴミ等のことです",
+    "url": "https://www.kaname-k.co.jp/regular/business/index13.php",
+    "pass": 1
+   },
+   {
+    "quote": "石綿含有産業廃棄物や水銀使用製品産業廃棄物の場合は特別な対応をすること",
+    "url": "https://www.kaname-k.co.jp/regular/business/index13.php",
+    "pass": 1
+   },
+   {
+    "quote": "水銀使用製品産業廃棄物においては適切な容器を使用し破損を防ぎ、破損した場合は密閉できる容器等に入れて、水銀の飛散・流出を防止すること",
+    "url": "https://www.kaname-k.co.jp/regular/business/index13.php",
+    "pass": 1
+   },
+   {
+    "quote": "（石綿含有産業廃棄物又は水銀使用製品産業廃棄物が含まれる場合は、その表記）",
+    "url": "https://www.kaname-k.co.jp/regular/business/index13.php",
+    "pass": 1
+   },
+   {
+    "quote": "石綿含有又は水銀使用製品産業廃棄物又は特定産業廃棄物が含まれる場合は、その旨",
+    "url": "https://www.kaname-k.co.jp/regular/business/index13.php",
+    "pass": 1
+   },
+   {
+    "quote": "当該産業廃棄物に石綿含有産業廃棄物、水銀使用製品産業廃棄物又は水銀含有ばいじん等が含まれる場合は、その数量",
+    "url": "https://www.kaname-k.co.jp/regular/business/index13.php",
+    "pass": 1
+   },
+   {
+    "quote": "サービス概要",
+    "url": "https://www.kaname-k.co.jp/regular/business/index14.php",
+    "pass": 1
+   },
+   {
+    "quote": "具体的には、オフィスから発生する不要になった紙類や小売店から出る商品を梱包していたビニール、段ボール、そして粗大ゴミ等のことです",
+    "url": "https://www.kaname-k.co.jp/regular/business/index14.php",
+    "pass": 1
+   },
+   {
+    "quote": "石綿含有産業廃棄物や水銀使用製品産業廃棄物の場合は特別な対応をすること",
+    "url": "https://www.kaname-k.co.jp/regular/business/index14.php",
+    "pass": 1
+   },
+   {
+    "quote": "水銀使用製品産業廃棄物においては適切な容器を使用し破損を防ぎ、破損した場合は密閉できる容器等に入れて、水銀の飛散・流出を防止すること",
+    "url": "https://www.kaname-k.co.jp/regular/business/index14.php",
+    "pass": 1
+   },
+   {
+    "quote": "（石綿含有産業廃棄物又は水銀使用製品産業廃棄物が含まれる場合は、その表記）",
+    "url": "https://www.kaname-k.co.jp/regular/business/index14.php",
+    "pass": 1
+   },
+   {
+    "quote": "石綿含有又は水銀使用製品産業廃棄物又は特定産業廃棄物が含まれる場合は、その旨",
+    "url": "https://www.kaname-k.co.jp/regular/business/index14.php",
+    "pass": 1
+   },
+   {
+    "quote": "当該産業廃棄物に石綿含有産業廃棄物、水銀使用製品産業廃棄物又は水銀含有ばいじん等が含まれる場合は、その数量",
+    "url": "https://www.kaname-k.co.jp/regular/business/index14.php",
+    "pass": 1
+   },
+   {
+    "quote": "サービス概要",
+    "url": "https://www.kaname-k.co.jp/regular/business/index15.php",
+    "pass": 1
+   },
+   {
+    "quote": "具体的には、オフィスから発生する不要になった紙類や小売店から出る商品を梱包していたビニール、段ボール、そして粗大ゴミ等のことです",
+    "url": "https://www.kaname-k.co.jp/regular/business/index15.php",
+    "pass": 1
+   },
+   {
+    "quote": "石綿含有産業廃棄物や水銀使用製品産業廃棄物の場合は特別な対応をすること",
+    "url": "https://www.kaname-k.co.jp/regular/business/index15.php",
+    "pass": 1
+   },
+   {
+    "quote": "水銀使用製品産業廃棄物においては適切な容器を使用し破損を防ぎ、破損した場合は密閉できる容器等に入れて、水銀の飛散・流出を防止すること",
+    "url": "https://www.kaname-k.co.jp/regular/business/index15.php",
+    "pass": 1
+   },
+   {
+    "quote": "（石綿含有産業廃棄物又は水銀使用製品産業廃棄物が含まれる場合は、その表記）",
+    "url": "https://www.kaname-k.co.jp/regular/business/index15.php",
+    "pass": 1
+   },
+   {
+    "quote": "石綿含有又は水銀使用製品産業廃棄物又は特定産業廃棄物が含まれる場合は、その旨",
+    "url": "https://www.kaname-k.co.jp/regular/business/index15.php",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "1972年創業、",
+    "url": "https://www.kaname-k.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年4月15日",
+    "url": "https://www.kaname-k.co.jp/kaname/company.php",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月24日",
+    "url": "https://www.kaname-k.co.jp/kaname/company.php",
+    "pass": 1
+   },
+   {
+    "quote": "2023年6月27日",
+    "url": "https://www.kaname-k.co.jp/kaname/company.php",
+    "pass": 1
+   },
+   {
+    "quote": "2020年6月24日",
+    "url": "https://www.kaname-k.co.jp/kaname/company.php",
+    "pass": 1
+   },
+   {
+    "quote": "2014年6月26日",
+    "url": "https://www.kaname-k.co.jp/kaname/company.php",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月25日",
+    "url": "https://www.kaname-k.co.jp/kaname/company.php",
+    "pass": 1
+   },
+   {
+    "quote": "2021年6月24日",
+    "url": "https://www.kaname-k.co.jp/kaname/company.php",
+    "pass": 1
+   },
+   {
+    "quote": "2016年6月27日",
+    "url": "https://www.kaname-k.co.jp/kaname/company.php",
+    "pass": 1
+   },
+   {
+    "quote": "1972年6月",
+    "url": "https://www.kaname-k.co.jp/kaname/company.php",
+    "pass": 1
+   },
+   {
+    "quote": "1973年4月",
+    "url": "https://www.kaname-k.co.jp/kaname/company.php",
+    "pass": 1
+   },
+   {
+    "quote": "1975年3月",
+    "url": "https://www.kaname-k.co.jp/kaname/company.php",
+    "pass": 1
+   },
+   {
+    "quote": "1975年5月",
+    "url": "https://www.kaname-k.co.jp/kaname/company.php",
+    "pass": 1
+   },
+   {
+    "quote": "1977年12月",
+    "url": "https://www.kaname-k.co.jp/kaname/company.php",
+    "pass": 1
+   },
+   {
+    "quote": "1978年7月",
+    "url": "https://www.kaname-k.co.jp/kaname/company.php",
+    "pass": 1
+   },
+   {
+    "quote": "1980年3月",
+    "url": "https://www.kaname-k.co.jp/kaname/company.php",
+    "pass": 1
+   },
+   {
+    "quote": "1981年1月",
+    "url": "https://www.kaname-k.co.jp/kaname/company.php",
+    "pass": 1
+   },
+   {
+    "quote": "1982年6月",
+    "url": "https://www.kaname-k.co.jp/kaname/company.php",
+    "pass": 1
+   },
+   {
+    "quote": "1986年6月",
+    "url": "https://www.kaname-k.co.jp/kaname/company.php",
+    "pass": 1
+   },
+   {
+    "quote": "1988年5月",
+    "url": "https://www.kaname-k.co.jp/kaname/company.php",
+    "pass": 1
+   },
+   {
+    "quote": "1989年8月",
+    "url": "https://www.kaname-k.co.jp/kaname/company.php",
+    "pass": 1
+   },
+   {
+    "quote": "1991年2月",
+    "url": "https://www.kaname-k.co.jp/kaname/company.php",
+    "pass": 1
+   },
+   {
+    "quote": "1992年10月",
+    "url": "https://www.kaname-k.co.jp/kaname/company.php",
+    "pass": 1
+   },
+   {
+    "quote": "1992年11月",
+    "url": "https://www.kaname-k.co.jp/kaname/company.php",
+    "pass": 1
+   },
+   {
+    "quote": "1992年12月",
+    "url": "https://www.kaname-k.co.jp/kaname/company.php",
+    "pass": 1
+   },
+   {
+    "quote": "1993年12月",
+    "url": "https://www.kaname-k.co.jp/kaname/company.php",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算短信[PDF] (509.44 KB)",
+    "url": "https://www.kaname-k.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月24日 第54期 定時株主総会【書き起こし】",
+    "url": "https://www.kaname-k.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月24日 第54期 定時株主総会動画",
+    "url": "https://www.kaname-k.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期配当予想の修正に関するお知らせ[PDF] (100.08 KB)",
+    "url": "https://www.kaname-k.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算短信[PDF] (554.85 KB)",
+    "url": "https://www.kaname-k.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期決算短信[PDF] (431.43 KB)",
+    "url": "https://www.kaname-k.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第2四半期決算短信[PDF] (445.68 KB)",
+    "url": "https://www.kaname-k.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第1四半期決算短信[PDF] (509.59 KB)",
+    "url": "https://www.kaname-k.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 決算短信[PDF] (558.86 KB)",
+    "url": "https://www.kaname-k.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第3四半期決算短信[PDF] (435.61 KB)",
+    "url": "https://www.kaname-k.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第2四半期(中間期)決算短信[PDF] (445.14 KB)",
+    "url": "https://www.kaname-k.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第1四半期決算短信[PDF] (631.06 KB)",
+    "url": "https://www.kaname-k.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 決算短信[PDF] (597.17 KB)",
+    "url": "https://www.kaname-k.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算説明会【書き起こし】",
+    "url": "https://www.kaname-k.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算説明会動画",
+    "url": "https://www.kaname-k.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算説明資料[PDF] (6.67 MB)",
+    "url": "https://www.kaname-k.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第2四半期決算説明会動画",
+    "url": "https://www.kaname-k.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第2四半期決算説明資料[PDF] (6.81 MB)",
+    "url": "https://www.kaname-k.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "平成29年10月より蛍光灯などの水銀使用製品産業廃棄物に関する許可の仕組みが変わったと聞きました",
+    "url": "https://www.kaname-k.co.jp/regular/business/",
+    "pass": 1
+   },
+   {
+    "quote": "平成29年10月1日以降に「水銀使用製品産業廃棄物」の新規委託契約を締結した場合は、契約書内の委託する廃棄物の種類に「水銀使用製品産業廃棄物」の記入が必要です",
+    "url": "https://www.kaname-k.co.jp/regular/business/",
+    "pass": 1
+   },
+   {
+    "quote": "1992年4月",
+    "url": "https://www.kaname-k.co.jp/kaname/recycle_center_iriyaRC.php",
+    "pass": 1
+   },
+   {
+    "quote": "これが当社の売上高と簡単な沿革を示したグラフとなります",
+    "url": "https://www.kaname-k.co.jp/ir/message.php",
+    "pass": 1
+   },
+   {
+    "quote": "2024年4月からは",
+    "url": "https://www.kaname-k.co.jp/ir/message.php",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算短信[PDF] (509.44 KB)",
+    "url": "https://www.kaname-k.co.jp/ir/library.php",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算短信[PDF] (554.85 KB)",
+    "url": "https://www.kaname-k.co.jp/ir/library.php",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期決算短信[PDF] (431.43 KB)",
+    "url": "https://www.kaname-k.co.jp/ir/library.php",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月24日 第54期 定時株主総会【書き起こし】",
+    "url": "https://www.kaname-k.co.jp/ir/library.php",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算説明会【書き起こし】",
+    "url": "https://www.kaname-k.co.jp/ir/library.php",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算説明会動画",
+    "url": "https://www.kaname-k.co.jp/ir/library.php",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月24日 第54期 定時株主総会動画",
+    "url": "https://www.kaname-k.co.jp/ir/library.php",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算説明会 書き起こし",
+    "url": "https://www.kaname-k.co.jp/ir/financial.php",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期の業績は、前期に比べて増収増益となりました",
+    "url": "https://www.kaname-k.co.jp/ir/financial.php",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期の事業区分別の売上割合は、収集運搬処分事業が68％、リサイクル事業が9％、行政受託事業が23％となりました",
+    "url": "https://www.kaname-k.co.jp/ir/financial.php",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月末時点で定期回収現場数は8235箇所で、2025年3月末時点より61か所増えております",
+    "url": "https://www.kaname-k.co.jp/ir/financial.php",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "・お客様から信頼される質の高いサービスを提供します",
+    "url": "https://www.kaname-k.co.jp/kaname/company.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様より当社に寄せられた質問や当社のご提案事例",
+    "url": "https://www.kaname-k.co.jp/regular/business/",
+    "pass": 1
+   },
+   {
+    "quote": "また当社では東京都の廃棄物処理をご理解いただくためにお客様へ向けたセミナーを開催しております",
+    "url": "https://www.kaname-k.co.jp/regular/business/",
+    "pass": 1
+   },
+   {
+    "quote": "産業廃棄物については自由料金で、品目及び処分施設ごとに料金が異なっており、お客様の希望する処分施設・処分方法によって変わってきます",
+    "url": "https://www.kaname-k.co.jp/regular/business/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、お客様に対して原則無料で、オリジナルのガイドブックや分別表、ポスターの作成・提供を含め、ごみの処理全般についてのコンサルティングサービスを行っておりますので遠慮なくお問い合わせください",
+    "url": "https://www.kaname-k.co.jp/regular/business/",
+    "pass": 1
+   },
+   {
+    "quote": "チェックアウト後のお客様から、誤って捨ててしまったものの問い合わせがあった際に、ワンデーストックを導入していると、保管している廃棄物から探すことができ、紛失や誤廃棄を防ぐことができます",
+    "url": "https://www.kaname-k.co.jp/regular/business/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、ホテル等を管理されていらっしゃるお客様には、ワンデーストックをご提案させていただいております",
+    "url": "https://www.kaname-k.co.jp/regular/business/",
+    "pass": 1
+   },
+   {
+    "quote": "最近は古いスーツケースをホテルで捨てるお客様が多いのですが、廃棄物として処理を委託できるまで保管するスペースがありません",
+    "url": "https://www.kaname-k.co.jp/regular/business/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の回収時間内であれば、商品納品前の時間帯などお客様のご要望に合わせて段ボールの回収を行うことが可能です",
+    "url": "https://www.kaname-k.co.jp/regular/business/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客サービスのためワンデーストックを導入したいのですが、ごみ集積場が小さいため導入できるか不安です",
+    "url": "https://www.kaname-k.co.jp/regular/business/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、実際の排出量を把握するための実測調査や、現在お客様がお契約されている収集運搬業者の回収状況などの調査等を行っております",
+    "url": "https://www.kaname-k.co.jp/regular/business/",
+    "pass": 1
+   },
+   {
+    "quote": "建物の構造上、お客様と同じ入り口からゴミを収集して貰わざるをえません",
+    "url": "https://www.kaname-k.co.jp/regular/business/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の状況を詳しくお聞きして回収時間の調整をさせていただければと存じますので、一度当社営業にご相談ください",
+    "url": "https://www.kaname-k.co.jp/regular/business/",
+    "pass": 1
+   },
+   {
+    "quote": "下記に、お客様からのご相談内容と当社のご提案をいくつか掲載させていただきます",
+    "url": "https://www.kaname-k.co.jp/regular/business/",
+    "pass": 1
+   },
+   {
+    "quote": "私達は、お客様の廃棄物を責任をもって処理します",
+    "url": "https://www.kaname-k.co.jp/kaname/recycle_center_iriyaRC.php",
+    "pass": 1
+   },
+   {
+    "quote": "当社は廃棄物処理業の単一セグメントですが、売上を頂くお客様で３つの事業区分に分けています",
+    "url": "https://www.kaname-k.co.jp/ir/message.php",
+    "pass": 1
+   },
+   {
+    "quote": "リサイクル事業においては、資源の販売先である製紙会社や電炉メーカー等から受け取る販売料金が売上となります",
+    "url": "https://www.kaname-k.co.jp/ir/message.php",
+    "pass": 1
+   },
+   {
+    "quote": "廃棄物処理業界は、対象とする廃棄物、地域、お客様などできっちりとセグメントされている業界です",
+    "url": "https://www.kaname-k.co.jp/ir/message.php",
+    "pass": 1
+   },
+   {
+    "quote": "運ぶものは同じものでも、事業系と家庭系では仕事の流れが異なり、同じ事業系であっても、建設現場、工場、オフィスといったお客様の業種によって排出される廃棄物とそれに伴って必要になる許可や設備が異なります",
+    "url": "https://www.kaname-k.co.jp/ir/message.php",
+    "pass": 1
+   },
+   {
+    "quote": "確実な収集と営業活動の推進により、当社が定期回収のご契約をいただくお客様数と現場数は、上図の通りとなりました",
+    "url": "https://www.kaname-k.co.jp/ir/message.php",
+    "pass": 1
+   },
+   {
+    "quote": "地道な営業活動を推進することにより、当社のお客様数と現場数は増え続けています",
+    "url": "https://www.kaname-k.co.jp/ir/message.php",
+    "pass": 1
+   },
+   {
+    "quote": "お取引いただいているお客様の内訳を見ますと、",
+    "url": "https://www.kaname-k.co.jp/ir/message.php",
+    "pass": 1
+   },
+   {
+    "quote": "一番売上が多い企業であっても6％程度に留まっており、また、お客様の業種も多種多様で、特定のお客様に依存しておりません",
+    "url": "https://www.kaname-k.co.jp/ir/message.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様へ向けた情報発信の取り組み",
+    "url": "https://www.kaname-k.co.jp/ir/message.php",
+    "pass": 1
+   },
+   {
+    "quote": "また、お客様のコンプライアンス体制への支援も徹底しています",
+    "url": "https://www.kaname-k.co.jp/ir/message.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様には、何を守る必要があり、何をしなければならないのか、とっつきにくい廃棄物処理法という難解で複雑な法律を理解し、順守してもらう必要があります",
+    "url": "https://www.kaname-k.co.jp/ir/message.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の順法が委託を受ける私たちの順法にも繋がってくるからです",
+    "url": "https://www.kaname-k.co.jp/ir/message.php",
+    "pass": 1
+   },
+   {
+    "quote": "そのため、法を解説した小冊子やコミックを作成してお客様に提供し、順法を促す活動も行っています",
+    "url": "https://www.kaname-k.co.jp/ir/message.php",
+    "pass": 1
+   },
+   {
+    "quote": "その他にも、当社の社員が講師となり、お客様先の従業員様を対象としたオンライン/オフラインでの廃棄物セミナーを年間数十回行っています",
+    "url": "https://www.kaname-k.co.jp/ir/message.php",
+    "pass": 1
+   },
+   {
+    "quote": "どちらも取り組みもお客様からご好評をいただいています",
+    "url": "https://www.kaname-k.co.jp/ir/message.php",
+    "pass": 1
+   },
+   {
+    "quote": "当社の車両でそのまま販売先に運搬するものや、自社リサイクルセンターで加工してから販売するものなど、様々なパターンがあります",
+    "url": "https://www.kaname-k.co.jp/ir/message.php",
+    "pass": 1
+   },
+   {
+    "quote": "顧客ニーズに合致する営業活動の継続及び収集量の増加等により売上は拡大いたしました",
+    "url": "https://www.kaname-k.co.jp/ir/financial.php",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月末時点で顧客数は3848社となりました",
+    "url": "https://www.kaname-k.co.jp/ir/financial.php",
+    "pass": 1
+   },
+   {
+    "quote": "①事業区分別の売上は、収集運搬・処分事業では営業活動を積極的に展開し、顧客数の伸びは見込まれる為、前期比4.4％増の106億8100万円を、リサイクル事業では、資源相場の現時点での水準を踏まえて予算を策定し、前期比3.7％増の13億8900万円を、行政受託事業では不燃事業及び子会社の雇上業務価格改定も踏まえ、前期比3.6％増の35億400万円を計画しております",
+    "url": "https://www.kaname-k.co.jp/ir/financial.php",
+    "pass": 1
+   },
+   {
+    "quote": "このような環境の下、当社グループは「環境保全と循環型社会に貢献する企業であること」を経営理念に掲げ、社会と顧客のニーズに合致する営業活動と、法令遵守への厳格な取り組みを進め、業容拡大に取り組んでまいりました",
+    "url": "https://www.kaname-k.co.jp/ir/financial.php",
+    "pass": 1
+   },
+   {
+    "quote": "なお、当社独自で開発し使用中である、基幹システム（通称「第2要くん」）に関して、社内システムの共通化・お取引先様へのデータ提供の拡充を狙いとして、外部ベンダのシステムを導入した次期システムに移行するための開発プロジェクトを、当該外部ベンダとともに進めております",
+    "url": "https://www.kaname-k.co.jp/ir/financial.php",
+    "pass": 1
+   },
+   {
+    "quote": "安全運転を遂行することは、すなわち事業を安定させることにつながり、それを継続させることが顧客満足の向上につながります",
+    "url": "https://www.kaname-k.co.jp/ir/financial.php",
+    "pass": 1
+   },
+   {
+    "quote": "投資に関する決定は利用者ご自身の判断でなさるようお願いいたします",
+    "url": "https://www.kaname-k.co.jp/ir/disclaimer.php",
+    "pass": 1
+   },
+   {
+    "quote": "また、通信環境やお客様のコンピュータの状況、その他の理由により当ウェブサイトを正常に利用できない場合があります",
+    "url": "https://www.kaname-k.co.jp/ir/disclaimer.php",
+    "pass": 1
+   },
+   {
+    "quote": "時代と共に発生する様々なケースを学び、それに対するコンサルティングを実施し、提案を出すことを継続しているうちに、会社全体がレベルアップすることができ、既存のお客様へ更に高度なご提案をすることができる",
+    "url": "https://www.kaname-k.co.jp/regular/business/index11.php",
+    "pass": 1
+   },
+   {
+    "quote": "私達は、お客様の廃棄物を責任をもって処理します",
+    "url": "https://www.kaname-k.co.jp/kaname/recycle_center_oomoriRC.php",
+    "pass": 1
+   },
+   {
+    "quote": "私達は、お客様の廃棄物を責任をもって処理します",
+    "url": "https://www.kaname-k.co.jp/kaname/recycle_center_itabashiRC.php",
+    "pass": 1
+   },
+   {
+    "quote": "●月極金額のお客様におかれましては、大掃除に伴う多量の廃棄物について別途の請求と",
+    "url": "https://www.kaname-k.co.jp/oshirase/20261102.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サステナビリティ委員会を中心として全社的に積極的に取組むとともに、全てのステークホルダー（従業員、お客さま、取引先、地域社会、株主、投資家他）との対話を通して、相互の信頼構築、共存共栄を図って参ります",
+    "url": "https://kitaishihon.com/company/6566/human-capital",
+    "pass": 3
+   },
+   {
+    "quote": "当社の顧客由来の産業廃棄物が最終処分に至るまでに不適正処理された場合、顧客が廃棄物処理法違反で罰せられるリスク、措置命令履行による経済的損失リスクがあります",
+    "url": "https://kitaishihon.com/company/6566/human-capital",
+    "pass": 3
+   },
+   {
+    "quote": "当社においても処理取引先により、当社が扱う産業廃棄物が不適正処理された場合、当社が、廃棄物処理法の許可停止等になるリスク、措置命令履行による経済的損失リスク、信用低下に伴う顧客流出リスクがあります",
+    "url": "https://kitaishihon.com/company/6566/human-capital",
+    "pass": 3
+   },
+   {
+    "quote": "・小冊子の作成配布、セミナー開催等による顧客への廃棄物処理法の啓発",
+    "url": "https://kitaishihon.com/company/6566/human-capital",
+    "pass": 3
+   },
+   {
+    "quote": "それらの取組により顧客からの信頼を獲得し、顧客を増加させてきたため、今後も引き続きこの取組を強化、推進することが顧客を維持し、新規顧客を獲得する機会となります",
+    "url": "https://kitaishihon.com/company/6566/human-capital",
+    "pass": 3
+   },
+   {
+    "quote": "・ 安全安心な廃棄物処理を顧客に提供するための処理フロー図の最新版管理",
+    "url": "https://kitaishihon.com/company/6566/human-capital",
+    "pass": 3
+   },
+   {
+    "quote": "・ 当社が扱う全ての産業廃棄物の処理取引先の定期的な確認の実施",
+    "url": "https://kitaishihon.com/company/6566/human-capital",
+    "pass": 3
+   },
+   {
+    "quote": "・ 取引先と協力しての廃プラスチック類の処理方法の改善",
+    "url": "https://kitaishihon.com/company/6566/human-capital",
+    "pass": 3
+   },
+   {
+    "quote": "当社が扱う全ての産業廃棄物の処理取引先の定期的な確認の実施",
+    "url": "https://kitaishihon.com/company/6566/human-capital",
+    "pass": 3
+   },
+   {
+    "quote": "売却先が求める品質を満たせない場合の売却不可、廃棄物処理コストの増加、顧客流出等のリスク",
+    "url": "https://kitaishihon.com/company/6566/human-capital",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/6566/human-capital",
+    "pass": 3
+   },
+   {
+    "quote": "※この情報は、転職会議ユーザーによる投稿データから算出しています",
+    "url": "https://jobtalk.jp/companies/53647/answers?question_codes=president",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "そのため店舗が混雑していない時間帯に回収時間を調整してほしいのですが、可能でしょうか",
+    "url": "https://www.kaname-k.co.jp/regular/business/",
+    "pass": 1
+   },
+   {
+    "quote": "プラントの紹介",
+    "url": "https://www.kaname-k.co.jp/kaname/recycle_center_iriyaRC.php",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループのメインの事業である収集運搬・処分事業は、事業系となる「オフィスや店舗から日々でてくる廃棄物」が対象となります",
+    "url": "https://www.kaname-k.co.jp/ir/message.php",
+    "pass": 1
+   },
+   {
+    "quote": "■ (スライド3)当社グループの紹介",
+    "url": "https://www.kaname-k.co.jp/ir/financial.php",
+    "pass": 1
+   },
+   {
+    "quote": "取締役候補者の指名に際しては、経営に携わる者として高度な人格と資質を備え、当社の持続的な成長と中長期的な企業価値の増大に資する者であることを重視しております",
+    "url": "https://www.kaname-k.co.jp/ir/financial.php",
+    "pass": 1
+   },
+   {
+    "quote": "また、ある居酒屋のチェーンストア様のケースでは、要興業のスタッフを多数動員し、全ての店舗の廃棄物の検量を行って中身を分析しました",
+    "url": "https://www.kaname-k.co.jp/regular/business/index11.php",
+    "pass": 1
+   },
+   {
+    "quote": "会社の設立やオフィスの移転、店舗の開店などで新たに千代田区へ進出される方にとって、廃棄物処理の方法やルールが、これまでいた地域と異なる場合があります",
+    "url": "https://www.kaname-k.co.jp/regular/business/index13.php",
+    "pass": 1
+   },
+   {
+    "quote": "そのようにならぬよう、皆様がゴミを適正に処理するために何が必要なのかを簡単にご紹介していきます",
+    "url": "https://www.kaname-k.co.jp/regular/business/index13.php",
+    "pass": 1
+   },
+   {
+    "quote": "ご紹介します",
+    "url": "https://www.kaname-k.co.jp/regular/business/index13.php",
+    "pass": 1
+   },
+   {
+    "quote": "会社の設立やオフィスの移転、店舗の開店などで新たに千代田区へ進出される方にとって、廃棄物処理の方法やルールが、これまでいた地域と異なる場合があります",
+    "url": "https://www.kaname-k.co.jp/regular/business/index14.php",
+    "pass": 1
+   },
+   {
+    "quote": "そのようにならぬよう、皆様がゴミを適正に処理するために何が必要なのかを簡単にご紹介していきます",
+    "url": "https://www.kaname-k.co.jp/regular/business/index14.php",
+    "pass": 1
+   },
+   {
+    "quote": "ご紹介します",
+    "url": "https://www.kaname-k.co.jp/regular/business/index14.php",
+    "pass": 1
+   },
+   {
+    "quote": "会社の設立やオフィスの移転、店舗の開店などで新たに千代田区へ進出される方にとって、廃棄物処理の方法やルールが、これまでいた地域と異なる場合があります",
+    "url": "https://www.kaname-k.co.jp/regular/business/index15.php",
+    "pass": 1
+   },
+   {
+    "quote": "そのようにならぬよう、皆様がゴミを適正に処理するために何が必要なのかを簡単にご紹介していきます",
+    "url": "https://www.kaname-k.co.jp/regular/business/index15.php",
+    "pass": 1
+   },
+   {
+    "quote": "ご紹介します",
+    "url": "https://www.kaname-k.co.jp/regular/business/index15.php",
+    "pass": 1
+   },
+   {
+    "quote": "会社の設立やオフィスの移転、店舗の開店などで新たに千代田区へ進出される方にとって、廃棄物処理の方法やルールが、これまでいた地域と異なる場合があります",
+    "url": "https://www.kaname-k.co.jp/regular/business/index16.php",
+    "pass": 1
+   },
+   {
+    "quote": "そのようにならぬよう、皆様がゴミを適正に処理するために何が必要なのかを簡単にご紹介していきます",
+    "url": "https://www.kaname-k.co.jp/regular/business/index16.php",
+    "pass": 1
+   },
+   {
+    "quote": "ご紹介します",
+    "url": "https://www.kaname-k.co.jp/regular/business/index16.php",
+    "pass": 1
+   },
+   {
+    "quote": "会社の設立やオフィスの移転、店舗の開店などで新たに千代田区へ進出される方にとって、廃棄物処理の方法やルールが、これまでいた地域と異なる場合があります",
+    "url": "https://www.kaname-k.co.jp/regular/business/index17.php",
+    "pass": 1
+   },
+   {
+    "quote": "そのようにならぬよう、皆様がゴミを適正に処理するために何が必要なのかを簡単にご紹介していきます",
+    "url": "https://www.kaname-k.co.jp/regular/business/index17.php",
+    "pass": 1
+   },
+   {
+    "quote": "ご紹介します",
+    "url": "https://www.kaname-k.co.jp/regular/business/index17.php",
+    "pass": 1
+   },
+   {
+    "quote": "プラントの紹介",
+    "url": "https://www.kaname-k.co.jp/kaname/recycle_center_oomoriRC.php",
+    "pass": 1
+   },
+   {
+    "quote": "プラントの紹介",
+    "url": "https://www.kaname-k.co.jp/kaname/recycle_center_itabashiRC.php",
+    "pass": 1
+   },
+   {
+    "quote": "2023年３月の取締役会において、取締役会直轄のサステナビリティ委員会を設置することを決議し、メンバーを指名しました",
+    "url": "https://kitaishihon.com/company/6566/human-capital",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=6566",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=6566",
+    "pass": 3
+   },
+   {
+    "quote": "法人営業,個人営業,内勤営業,ルートセールス・代理店営業,MR・MS,海外営業,営業マネージャー・管理職,テレマーケティング,コールセンター運営・管理,その他営業関連職、キャリアカウンセラー,派遣コーディネーター,その他人材関連職",
+    "url": "https://jobtalk.jp/companies/53647/answers?question_codes=president",
+    "pass": 3
+   },
+   {
+    "quote": "販売・接客・ホールサービス,店長・店長候補,調理・料理長,スーパーバイザー・エリアマネージャ,店舗開発,その他飲食・フード系関連職、販売スタッフ,店長・店長候補,スーパーバイザー・エリアマネージャ,店舗開発,生産管理・品質管理,マーチャンダイザー・バイヤー,ファッションデザイナー,その他の小売・ファッション関連職、美容師・理容師,スタイリスト・ヘアメイク,エステティシャン,ネイリスト,マッサージ関連職,その他ビューティー系関連職、運輸関連,ドライバー・配送関連,倉庫関連,その他運輸・配送・倉庫関連職、警備・守衛,清掃スタッフ,ビル施設管理,その他警備・清掃・設備管理関連職、アミューズメント関連職,旅行サービス関連職,ホテル・宿泊施設サービス関連職,ブライダルサービス関連職,その他のサービス関連職",
+    "url": "https://jobtalk.jp/companies/53647/answers?question_codes=president",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "「ワンデーストック」という言葉を聞いたことがあるのですが、どういう意味なのでしょうか",
+    "url": "https://www.kaname-k.co.jp/regular/business/",
+    "pass": 1
+   },
+   {
+    "quote": "「ワンデーストック」とは、その日に排出された廃棄物をごみ集積場やバックヤードなどで1日保管し、翌日に廃棄(収集運搬業者が回収)するという仕組みのことです",
+    "url": "https://www.kaname-k.co.jp/regular/business/",
+    "pass": 1
+   },
+   {
+    "quote": "チェックアウト後のお客様から、誤って捨ててしまったものの問い合わせがあった際に、ワンデーストックを導入していると、保管している廃棄物から探すことができ、紛失や誤廃棄を防ぐことができます",
+    "url": "https://www.kaname-k.co.jp/regular/business/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、ホテル等を管理されていらっしゃるお客様には、ワンデーストックをご提案させていただいております",
+    "url": "https://www.kaname-k.co.jp/regular/business/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客サービスのためワンデーストックを導入したいのですが、ごみ集積場が小さいため導入できるか不安です",
+    "url": "https://www.kaname-k.co.jp/regular/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ごみ集積場が小さくても、ワンデーストックを導入することが可能な場合もございます",
+    "url": "https://www.kaname-k.co.jp/regular/business/",
+    "pass": 1
+   },
+   {
+    "quote": "通常、一度契約したら自動的に継続する契約となっているため、いわゆるストック型ビジネスといえます",
+    "url": "https://www.kaname-k.co.jp/ir/message.php",
+    "pass": 1
+   },
+   {
+    "quote": "当社ビジネスがストック型ビジネスとなるのはそのためです",
+    "url": "https://www.kaname-k.co.jp/ir/message.php",
+    "pass": 1
+   },
+   {
+    "quote": "行政受託事業においては、東京23区の各区から頂く手数料が売上となります",
+    "url": "https://www.kaname-k.co.jp/ir/financial.php",
+    "pass": 1
+   },
+   {
+    "quote": "1階部分がストックヤードで、2階部分が手選別ラインです",
+    "url": "https://www.kaname-k.co.jp/kaname/recycle_center_oomoriRC.php",
+    "pass": 1
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "当社は廃棄物処理業の単一セグメントですが、売上を頂くお客様で３つの事業区分に分けています",
+    "url": "https://www.kaname-k.co.jp/ir/message.php",
+    "pass": 1
+   },
+   {
+    "quote": "廃棄物処理業界は、対象とする廃棄物、地域、お客様などできっちりとセグメントされている業界です",
+    "url": "https://www.kaname-k.co.jp/ir/message.php",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは総合廃棄物処理業の単一セグメントですが、事業区分では表記のように３つに分かれます",
+    "url": "https://www.kaname-k.co.jp/ir/financial.php",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは単一セグメントでありますが、事業区分別の売上高は次のとおりであります",
+    "url": "https://www.kaname-k.co.jp/ir/financial.php",
+    "pass": 1
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://kitaishihon.com/company/6566/human-capital",
+    "pass": 3
+   },
+   {
+    "quote": "４．当社グループは総合廃棄物処理事業の単一セグメントであるため、セグメント別の記載を省略しております",
+    "url": "https://kitaishihon.com/company/6566/human-capital",
+    "pass": 3
+   },
+   {
+    "quote": "５．当社グループは総合廃棄物処理事業の単一セグメントであるため、セグメント別の記載を省略しております",
+    "url": "https://kitaishihon.com/company/6566/human-capital",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=6566",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "また、労働集約型のビジネスモデルを営む当社にとって、国内とりわけドライバーの人手不足の厳しい環境に直面しております",
+    "url": "https://www.kaname-k.co.jp/ir/financial.php",
+    "pass": 1
+   },
+   {
+    "quote": "典型的な労働集約型ビジネスモデルである当社グループにおいては、古くから経営方針の１つに「永続発展をめざし、株主と社員を大切にします」を掲げ、人的資本への投資・人材育成について、重要な経営課題として位置付けております",
+    "url": "https://kitaishihon.com/company/6566/human-capital",
+    "pass": 3
+   },
+   {
+    "quote": "社員を大切にすることを経営方針の１つとして掲げ、また、典型的な労働集約型ビジネスモデルである当社グループにおいて、人的資本への投資・人材育成については、重要な経営課題として位置付けております",
+    "url": "https://kitaishihon.com/company/6566/human-capital",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "その中で当社の強みを活かしながら、着実な成長と安定的な経営によって、企業価値の向上に努めてまいりたいと思います",
+    "url": "https://www.kaname-k.co.jp/ir/financial.php",
+    "pass": 1
+   },
+   {
+    "quote": "営業利益率（%）",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=6566",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "要興業 【6566】の人的資本 - キタイシホン — 要興業 【6566】の人的資本 - キタイシホン キタイシホン https://kitaishihon.com > company > human-capital",
+    "url": "https://kitaishihon.com/company/6566/human-capital",
+    "pass": 3
+   },
+   {
+    "quote": "中期経営計画 - 要興業 — 中期経営計画 - 要興業 要興業 PDF https://www.kaname-k.co.jp > 20221226_keikaku",
+    "url": "https://www.kaname-k.co.jp/ir/event/20221226_keikaku.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "要興業 （6566） - 証券リサーチセンター — 要興業 （6566） - 証券リサーチセンター 証券リサーチセンター https://holistic-r.org > c_info",
+    "url": "https://holistic-r.org/c_info/6566/",
+    "pass": 3
+   },
+   {
+    "quote": "要興業 (6566)から探る「不況下の輝き」。高金利・高インフレ ... — 要興業 (6566)から探る「不況下の輝き」。高金利・高インフレ ... note https://note.com > tatsuya_sabato",
+    "url": "https://note.com/tatsuya_sabato/n/naf4d5aa87f9e",
+    "pass": 3
+   },
+   {
+    "quote": "要興業 ［6566］東証2部 IPO - YouTube — 要興業 ［6566］東証2部 IPO - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=Vpf_h70VFfE",
+    "pass": 3
+   },
+   {
+    "quote": "新着情報 | 株式会社 要興業 （東京都総合廃棄物処理業） — 新着情報 | 株式会社 要興業 （東京都総合廃棄物処理業） 要興業 https://www.kaname-k.co.jp > topics",
+    "url": "https://www.kaname-k.co.jp/topics/",
+    "pass": 3
+   },
+   {
+    "quote": "【 要興業 】[6566] 決算 発表や業務・財務情報 | 日経電子版 — 【 要興業 】[6566] 決算 発表や業務・財務情報 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kessan",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=6566",
+    "pass": 3
+   },
+   {
+    "quote": "要興業 【6566】のIR 資料 - バフェット・コード — 要興業 【6566】のIR 資料 - バフェット・コード バフェット・コード https://www.buffett-code.com > company > library",
+    "url": "https://www.buffett-code.com/company/6566/library",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 要興業 決算説明資料 — 株式会社 要興業 決算説明資料 日本取引所グループ PDF https://www2.jpx.co.jp > disc",
+    "url": "https://www2.jpx.co.jp/disc/65660/140120220523554145.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【 要興業 】[6566]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 要興業 】[6566]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=6566",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 株式会社 要興業 （東京都総合廃棄物処理業） — 会社概要 | 株式会社 要興業 （東京都総合廃棄物処理業） 要興業 https://www.kaname-k.co.jp > kaname > company",
+    "url": "https://www.kaname-k.co.jp/kaname/company.php",
+    "pass": 3
+   },
+   {
+    "quote": "ホリスティック企業レポート 要 興業 - 証券リサーチセンター — ホリスティック企業レポート 要 興業 - 証券リサーチセンター 証券リサーチセンター PDF https://holistic-r.org > data",
+    "url": "https://holistic-r.org/data/6566/6566171228.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "要興業 、収集運搬・処分 事業 が堅調も - logmi Finance — 要興業 、収集運搬・処分 事業 が堅調も - logmi Finance ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/327447",
+    "pass": 3
+   },
+   {
+    "quote": "要興業 の 社長 と経営方針【代表 : 村木 宣彦】の口コミ（4件） — 要興業 の 社長 と経営方針【代表 : 村木 宣彦】の口コミ（4件） 転職会議 https://jobtalk.jp > ... > 株式会社要興業",
+    "url": "https://jobtalk.jp/companies/53647/answers?question_codes=president",
+    "pass": 3
+   },
+   {
+    "quote": "要興業 、 社長 に村木宣彦氏 | 日刊工業新聞 電子版 — 要興業 、 社長 に村木宣彦氏 | 日刊工業新聞 電子版 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/780205",
+    "pass": 3
+   },
+   {
+    "quote": "要興業 の藤居 社長 「官からの受託増やしたい」 - 日本経済新聞 — 要興業 の藤居 社長 「官からの受託増やしたい」 - 日本経済新聞 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXMZO25048230V21C17A2000000/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.kaname-k.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaname-k.co.jp/kaname/company.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaname-k.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaname-k.co.jp/regular/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaname-k.co.jp/kaname/recycle_center_iriyaRC.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaname-k.co.jp/ir/message.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaname-k.co.jp/ir/library.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaname-k.co.jp/ir/financial.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaname-k.co.jp/ir/disclosure-policy.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaname-k.co.jp/ir/notice.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaname-k.co.jp/ir/disclaimer.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaname-k.co.jp/ir/?category=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaname-k.co.jp/ir/?category=2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaname-k.co.jp/ir/?category=3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaname-k.co.jp/regular/business/index11.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaname-k.co.jp/regular/business/index13.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaname-k.co.jp/regular/business/index14.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaname-k.co.jp/regular/business/index15.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaname-k.co.jp/regular/business/index16.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaname-k.co.jp/regular/business/index17.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaname-k.co.jp/kaname/recycle_center_oomoriRC.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaname-k.co.jp/kaname/recycle_center_itabashiRC.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaname-k.co.jp/ir/library.php?mode=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaname-k.co.jp/ir/library.php?mode=2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaname-k.co.jp/ir/library.php?mode=3",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.kaname-k.co.jp/oshirase/20261102.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://kitaishihon.com/company/6566/human-capital",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=6566",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www2.sanpainet.or.jp/zyohou/preview.php?Param1=8&Param2=002721&Param0=&Param4=&rFlg=1",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jobtalk.jp/companies/53647/answers?question_codes=president",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Vpf_h70VFfE",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "要興業",
+   "results": [
+    "https://www.kaname-k.co.jp/",
+    "https://www.youtube.com/watch?v=BZXa78-3qLY",
+    "https://holistic-r.org/c_info/6566/",
+    "https://tenshoku.mynavi.jp/company/389812/",
+    "https://shikiho.toyokeizai.net/stocks/6566/corporate",
+    "https://finance.yahoo.co.jp/quote/6566.T/profile",
+    "https://www.kaname-k.co.jp/kaname/company.php",
+    "https://kabutan.jp/stock/?code=6566",
+    "https://j-kabu.jp/stocks/6566",
+    "https://finance.yahoo.co.jp/quote/6566.T"
+   ]
+  },
+  {
+   "query": "要興業 ビジネスモデル",
+   "results": [
+    "https://kitaishihon.com/company/6566/human-capital",
+    "https://www.kaname-k.co.jp/ir/event/20221226_keikaku.pdf",
+    "https://holistic-r.org/c_info/6566/",
+    "https://note.com/tatsuya_sabato/n/naf4d5aa87f9e",
+    "https://www.youtube.com/watch?v=Vpf_h70VFfE",
+    "https://finance.logmi.jp/articles/327447",
+    "https://www.buffett-code.com/company/6566/",
+    "https://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3015715631/",
+    "https://tenshoku.mynavi.jp/company/389812/",
+    "https://www.kaname-k.co.jp/"
+   ]
+  },
+  {
+   "query": "要興業 決算説明資料",
+   "results": [
+    "https://www.kaname-k.co.jp/topics/",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=6566",
+    "https://www.buffett-code.com/company/6566/library",
+    "https://www2.jpx.co.jp/disc/65660/140120220523554145.pdf",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=6566",
+    "https://www.buffett-code.com/company/6566/",
+    "https://f.irbank.net/pdf/20250529/140120250523563077.pdf",
+    "https://irbank.net/6566/ir",
+    "https://finance.yahoo.co.jp/quote/6566.T/financials",
+    "https://finance.yahoo.co.jp/quote/6566.T/disclosure"
+   ]
+  },
+  {
+   "query": "要興業 事業系統図",
+   "results": [
+    "https://www2.sanpainet.or.jp/zyohou/preview.php?Param1=8&Param2=002721&Param0=&Param4=&rFlg=1",
+    "https://www.kaname-k.co.jp/kaname/company.php",
+    "https://holistic-r.org/data/6566/6566171228.pdf",
+    "https://www.youtube.com/watch?v=Vpf_h70VFfE",
+    "https://finance.logmi.jp/articles/327447",
+    "https://kitaishihon.com/company/6566/management-strategy",
+    "https://www.buffett-code.com/company/6566/",
+    "https://shikiho.toyokeizai.net/stocks/6566/corporate",
+    "https://note.com/tatsuya_sabato/n/n3141500ef36f",
+    "https://www.kaname-k.co.jp/"
+   ]
+  },
+  {
+   "query": "要興業 社長 インタビュー",
+   "results": [
+    "https://jobtalk.jp/companies/53647/answers?question_codes=president",
+    "https://www.youtube.com/watch?v=Vpf_h70VFfE",
+    "https://www.kaname-k.co.jp/kaname/company.php",
+    "https://www.nikkan.co.jp/articles/view/780205",
+    "https://www.nikkei.com/article/DGXMZO25048230V21C17A2000000/",
+    "https://en-hyouban.com/company/10010452431/23/",
+    "https://finance.logmi.jp/articles/327447",
+    "https://www.youtube.com/watch?v=uGHUNbWa1iE",
+    "https://tenshoku.mynavi.jp/company/389812/",
+    "https://www.youtube.com/watch?v=lfY0eLE2fyM"
+   ]
+  }
+ ],
+ "missing": {}
+}

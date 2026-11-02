@@ -1,0 +1,956 @@
+{
+ "name": "Ａｉｍｉｎｇ",
+ "aliases": [],
+ "context": "証券コード3911／情報・通信業／グロース（内国株式）／2025.12期 売上高15,826百万円 営業利益率13.1%",
+ "researched_at": "2026-11-02T19:24:28.220740+00:00",
+ "official_url": "https://aiming.pro/",
+ "identified_by": "search:yahoo_jp:Aiming",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立日",
+    "value": "2011年5月12日",
+    "url": "https://aiming-inc.com/ja/about/outline/",
+    "pass": 3
+   },
+   {
+    "label": "設立年月日",
+    "value": "2011年5月12日",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=3911",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "2011年 5月12日",
+    "url": "https://ja.wikipedia.org/wiki/Aiming_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "635名（2026年9月30日現在　日本　470名　/　台湾　165名）",
+    "url": "https://aiming-inc.com/ja/about/outline/",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "687 人",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=3911",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "720名（2024年9月30日現在〈日本：534名、台湾：186名〉）",
+    "url": "https://ja.wikipedia.org/wiki/Aiming_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "オンラインゲーム制作、オンラインゲームプロデュース",
+    "url": "https://ja.wikipedia.org/wiki/Aiming_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "ビジネスモデル": [
+   {
+    "quote": "決算説明会資料のAimingさんのビジネスモデル概要図を見た感想です",
+    "url": "https://masters.caravan-stories.com/posts/chccehlo",
+    "pass": 3
+   },
+   {
+    "quote": "中心となるスタッフはオンラインゲームの開発/運営について10年以上、基本無料のビジネスモデルについても10年のキャリアがあり、技術面/ゲームデザイン面のどちらにも他社にはない経験と実績があり、現在は「剣と魔法のログレス いにしえの女神」（配信：マーベラス）がスマートフォン向けMMORPGとして世界トップクラスの実績があります",
+    "url": "https://aiming-inc.com/ja/news/corporate/2014/1211-tencent/",
+    "pass": 3
+   },
+   {
+    "quote": "Aiming（3911）のビジネスモデルと成長戦略 - 経営陣インタビュー | ENVALITH",
+    "url": "https://envalith.com/ja/companies/3911/management-voice",
+    "pass": 3
+   },
+   {
+    "quote": "収益構造と資本効率",
+    "url": "https://envalith.com/ja/companies/3911/management-voice",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "Aimingさんの考えるユーザーの利点",
+    "url": "https://masters.caravan-stories.com/posts/chccehlo",
+    "pass": 3
+   },
+   {
+    "quote": "「高い顧客単価＝少ないユーザーでもビジネスが成立する」",
+    "url": "https://masters.caravan-stories.com/posts/chccehlo",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザーの利点も、利点じゃなくて製品（ネトゲ）に求められてる機能の話だし…",
+    "url": "https://masters.caravan-stories.com/posts/chccehlo",
+    "pass": 3
+   },
+   {
+    "quote": "Aimingさんはまだ「製品中心」で経営をしてるのに対し、ユーザーは既に「価値・理想」を求めている…",
+    "url": "https://masters.caravan-stories.com/posts/chccehlo",
+    "pass": 3
+   },
+   {
+    "quote": "「顧客の声が（経営者に）聞こえている会社は潰れない",
+    "url": "https://masters.caravan-stories.com/posts/chccehlo",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の声を怖がらずに聞きましょう",
+    "url": "https://masters.caravan-stories.com/posts/chccehlo",
+    "pass": 3
+   },
+   {
+    "quote": "これが経営者が出来ない、または顧客の声を吸い上げる仕組みが作れない会社は…ご想像にお任せします",
+    "url": "https://masters.caravan-stories.com/posts/chccehlo",
+    "pass": 3
+   },
+   {
+    "quote": "Tencentは、自社の技術を利用して、お客様のインターネットライフを豊かなものにします",
+    "url": "https://aiming-inc.com/ja/news/corporate/2014/1211-tencent/",
+    "pass": 3
+   },
+   {
+    "quote": "Tencentは、常に新しいものを採り入れ、パートナー企業様に快適な環境を提供し、かつ、お客様に寄り添い続けることで、インターネットと共に進化することを目指しています",
+    "url": "https://aiming-inc.com/ja/news/corporate/2014/1211-tencent/",
+    "pass": 3
+   },
+   {
+    "quote": "ゲームは市場の成長に伴って「手に取ってもらう」ために見た目の向上が求められ、ヘビーユーザーはより高度なゲームを求める",
+    "url": "https://envalith.com/ja/companies/3911/management-voice",
+    "pass": 3
+   },
+   {
+    "quote": "長寿タイトルにユーザーが滞留し、浮動層が減っていることが背景にある",
+    "url": "https://envalith.com/ja/companies/3911/management-voice",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "ユーザーの利点も、利点じゃなくて製品（ネトゲ）に求められてる機能の話だし…",
+    "url": "https://masters.caravan-stories.com/posts/chccehlo",
+    "pass": 3
+   },
+   {
+    "quote": "製品以外の視点がない",
+    "url": "https://masters.caravan-stories.com/posts/chccehlo",
+    "pass": 3
+   },
+   {
+    "quote": "Aimingさんはまだ「製品中心」で経営をしてるのに対し、ユーザーは既に「価値・理想」を求めている…",
+    "url": "https://masters.caravan-stories.com/posts/chccehlo",
+    "pass": 3
+   },
+   {
+    "quote": "Aiming、中国大手インターネットサービス企業Tencentと、相互のタイトル配信を目的として資本業務提携を締結 | 株式会社 Aiming(エイミング)",
+    "url": "https://aiming-inc.com/ja/news/corporate/2014/1211-tencent/",
+    "pass": 3
+   },
+   {
+    "quote": "Aiming、中国大手インターネットサービス企業Tencentと、",
+    "url": "https://aiming-inc.com/ja/news/corporate/2014/1211-tencent/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社Aiming（東京都渋谷区、以下Aiming社）と、中国大手インターネットサービス企業Tencent（中国深圳、以下Tencent社）は、Aiming社の開発/配信タイトルの中国・香港・マカオでの配信、Tencent社の開発/配信タイトルの日本での非独占配信を目的とした資本業務提携を締結致しました",
+    "url": "https://aiming-inc.com/ja/news/corporate/2014/1211-tencent/",
+    "pass": 3
+   },
+   {
+    "quote": "Tencentは、コミュニケーションツールであるQQ、Weixin、およびWeChat、SNSのQzone、オンラインゲーム用QQゲームプラットフォーム、情報ポータルのQQ.com、そして電子商取引のオープンプラットフォームといった、多様なサービスを提供しています",
+    "url": "https://aiming-inc.com/ja/news/corporate/2014/1211-tencent/",
+    "pass": 3
+   },
+   {
+    "quote": "各社の会社名、サービス・製品名は各社の商標または登録商標です",
+    "url": "https://aiming-inc.com/ja/news/corporate/2014/1211-tencent/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス中のタイトル",
+    "url": "https://aiming-inc.com/ja/news/corporate/2014/1211-tencent/",
+    "pass": 3
+   },
+   {
+    "quote": "中国において総合的なインターネットサービスを提供する有数の事業者",
+    "url": "https://aiming-inc.com/ja/about/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "その主要なサービスとして、コミュニケーションプラットフォームである「QQ」、「Weixin」及び「微信（WeChat）」やソーシャルネットワーキングプラットフォームである「Qzone」を運営",
+    "url": "https://aiming-inc.com/ja/about/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス中のタイトル",
+    "url": "https://aiming-inc.com/ja/about/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=3911",
+    "pass": 3
+   },
+   {
+    "quote": "サービス開始日",
+    "url": "https://ja.wikipedia.org/wiki/Aiming_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "2017年3月8日サービス終了",
+    "url": "https://ja.wikipedia.org/wiki/Aiming_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "2012年12月21日サービス終了",
+    "url": "https://ja.wikipedia.org/wiki/Aiming_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "2019年8月30日サービス終了",
+    "url": "https://ja.wikipedia.org/wiki/Aiming_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "2019年7月16日サービス終了",
+    "url": "https://ja.wikipedia.org/wiki/Aiming_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "2013年5月13日サービス終了",
+    "url": "https://ja.wikipedia.org/wiki/Aiming_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "2015年8月24日サービス終了",
+    "url": "https://ja.wikipedia.org/wiki/Aiming_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "2013年5月17日サービス終了",
+    "url": "https://ja.wikipedia.org/wiki/Aiming_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "2014年10月31日サービス終了",
+    "url": "https://ja.wikipedia.org/wiki/Aiming_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "2022年5月31日サービス終了",
+    "url": "https://ja.wikipedia.org/wiki/Aiming_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "2013年3月20日サービス休止",
+    "url": "https://ja.wikipedia.org/wiki/Aiming_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "2017年2月24日サービス終了",
+    "url": "https://ja.wikipedia.org/wiki/Aiming_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "2016年9月20日サービス終了",
+    "url": "https://ja.wikipedia.org/wiki/Aiming_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "2014年10月27日サービス終了",
+    "url": "https://ja.wikipedia.org/wiki/Aiming_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "2018年6月20日サービス終了",
+    "url": "https://ja.wikipedia.org/wiki/Aiming_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "2018年10月16日サービス終了",
+    "url": "https://ja.wikipedia.org/wiki/Aiming_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "2017年10月26日サービス終了",
+    "url": "https://ja.wikipedia.org/wiki/Aiming_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "2017年3月31日サービス終了",
+    "url": "https://ja.wikipedia.org/wiki/Aiming_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "2017年4月27日サービス終了",
+    "url": "https://ja.wikipedia.org/wiki/Aiming_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "2017年6月26日サービス終了",
+    "url": "https://ja.wikipedia.org/wiki/Aiming_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "2024年9月30日サービス終了",
+    "url": "https://ja.wikipedia.org/wiki/Aiming_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "2017年11月16日サービス終了",
+    "url": "https://ja.wikipedia.org/wiki/Aiming_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "2018年5月14日サービス終了",
+    "url": "https://ja.wikipedia.org/wiki/Aiming_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "2019年9月26日サービス終了",
+    "url": "https://ja.wikipedia.org/wiki/Aiming_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "2023年11月29日サービス終了",
+    "url": "https://ja.wikipedia.org/wiki/Aiming_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "「高い顧客単価＝少ないユーザーでもビジネスが成立する」",
+    "url": "https://masters.caravan-stories.com/posts/chccehlo",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/Aiming_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "一方、3DCG制作力を生かした周辺事業（メタバース空間の受託制作等）は、継続課金型ではなくワンタイム収益が中心のため魅力は低いとしている",
+    "url": "https://envalith.com/ja/companies/3911/management-voice",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "1950年代のマーケティング",
+    "url": "https://masters.caravan-stories.com/posts/chccehlo",
+    "pass": 3
+   },
+   {
+    "quote": "平成30年12月期決算短信〔日本基準〕(連結)の３P",
+    "url": "https://masters.caravan-stories.com/posts/chccehlo",
+    "pass": 3
+   },
+   {
+    "quote": "2008年6月10日以降、香港ハンセン株価指数を表す50銘柄の1つとなっています（株式コード 00700）",
+    "url": "https://aiming-inc.com/ja/news/corporate/2014/1211-tencent/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年2月13日 15:30",
+    "url": "https://ir.aiming-inc.com/calendar/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期通期 決算発表",
+    "url": "https://ir.aiming-inc.com/calendar/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年2月13日 16:00",
+    "url": "https://ir.aiming-inc.com/calendar/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期通期 機関投資家向け決算説明会",
+    "url": "https://ir.aiming-inc.com/calendar/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月16日～",
+    "url": "https://ir.aiming-inc.com/calendar/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月26日 10:00",
+    "url": "https://ir.aiming-inc.com/calendar/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月28日 15:30",
+    "url": "https://ir.aiming-inc.com/calendar/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年12月期第1四半期 決算発表※説明資料掲載のみ",
+    "url": "https://ir.aiming-inc.com/calendar/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月16日～",
+    "url": "https://ir.aiming-inc.com/calendar/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月29日 15:30",
+    "url": "https://ir.aiming-inc.com/calendar/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年12月期第2四半期 決算発表",
+    "url": "https://ir.aiming-inc.com/calendar/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月29日 16:00",
+    "url": "https://ir.aiming-inc.com/calendar/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年12月期第2四半期 機関投資家向け決算説明会",
+    "url": "https://ir.aiming-inc.com/calendar/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年9月16日～",
+    "url": "https://ir.aiming-inc.com/calendar/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月27日 15:30",
+    "url": "https://ir.aiming-inc.com/calendar/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年12月期第3四半期 決算発表※説明資料掲載のみ",
+    "url": "https://ir.aiming-inc.com/calendar/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年2月14日 15:30",
+    "url": "https://ir.aiming-inc.com/calendar/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年12月期通期 決算発表",
+    "url": "https://ir.aiming-inc.com/calendar/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年2月14日 16:00",
+    "url": "https://ir.aiming-inc.com/calendar/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年12月期通期 機関投資家向け決算説明会",
+    "url": "https://ir.aiming-inc.com/calendar/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月16日～",
+    "url": "https://ir.aiming-inc.com/calendar/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月27日 10:00",
+    "url": "https://ir.aiming-inc.com/calendar/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年4月28日 15:30",
+    "url": "https://ir.aiming-inc.com/calendar/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期第1四半期 決算発表※説明資料掲載のみ",
+    "url": "https://ir.aiming-inc.com/calendar/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月16日～",
+    "url": "https://ir.aiming-inc.com/calendar/",
+    "pass": 3
+   },
+   {
+    "quote": "2011年5月12日",
+    "url": "https://aiming-inc.com/ja/about/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "2011年5月",
+    "url": "https://aiming-inc.com/ja/about/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "2011年8月",
+    "url": "https://aiming-inc.com/ja/about/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "2012年2月",
+    "url": "https://aiming-inc.com/ja/about/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "2013年9月",
+    "url": "https://aiming-inc.com/ja/about/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "2013年12月",
+    "url": "https://aiming-inc.com/ja/about/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "2014年11月",
+    "url": "https://aiming-inc.com/ja/about/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "2015年3月",
+    "url": "https://aiming-inc.com/ja/about/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年11月",
+    "url": "https://aiming-inc.com/ja/about/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年9月",
+    "url": "https://aiming-inc.com/ja/about/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年7月",
+    "url": "https://aiming-inc.com/ja/about/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年３月",
+    "url": "https://aiming-inc.com/ja/about/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年12月",
+    "url": "https://aiming-inc.com/ja/about/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年4月",
+    "url": "https://aiming-inc.com/ja/about/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年8月",
+    "url": "https://aiming-inc.com/ja/about/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年11月",
+    "url": "https://aiming-inc.com/ja/about/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年4月",
+    "url": "https://aiming-inc.com/ja/about/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年8月",
+    "url": "https://aiming-inc.com/ja/about/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年2月",
+    "url": "https://aiming-inc.com/ja/about/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年7月",
+    "url": "https://aiming-inc.com/ja/about/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年9月",
+    "url": "https://aiming-inc.com/ja/about/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月",
+    "url": "https://aiming-inc.com/ja/about/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月",
+    "url": "https://aiming-inc.com/ja/about/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月3日（火）",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=3911",
+    "pass": 3
+   },
+   {
+    "quote": "業務内容・沿革",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=3911",
+    "pass": 3
+   },
+   {
+    "quote": "2011年5月12日",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=3911",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月26日",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=3911",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期 （百万円） ［］内は人数",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=3911",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期 （百万円）",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=3911",
+    "pass": 3
+   },
+   {
+    "quote": "2015年3月25日上場",
+    "url": "https://ja.wikipedia.org/wiki/Aiming_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "2011年6月、ONE-UP（後の",
+    "url": "https://ja.wikipedia.org/wiki/Aiming_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "2011年10月、設立後初のタイトルとなるブラウザゲーム『",
+    "url": "https://ja.wikipedia.org/wiki/Aiming_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "Tencentは、常に新しいものを採り入れ、パートナー企業様に快適な環境を提供し、かつ、お客様に寄り添い続けることで、インターネットと共に進化することを目指しています",
+    "url": "https://aiming-inc.com/ja/news/corporate/2014/1211-tencent/",
+    "pass": 3
+   },
+   {
+    "quote": "代表・マネージャー紹介",
+    "url": "https://aiming-inc.com/ja/news/corporate/2014/1211-tencent/",
+    "pass": 3
+   },
+   {
+    "quote": "代表・マネージャー紹介",
+    "url": "https://aiming-inc.com/ja/about/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=3911",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=3911",
+    "pass": 3
+   },
+   {
+    "quote": "実際に、良質な案件やパートナーの話を獲得しやすくなっており、戦略は成り立ち始めたとの認識である",
+    "url": "https://envalith.com/ja/companies/3911/management-voice",
+    "pass": 3
+   },
+   {
+    "quote": "長期的には、継続的にヒットを生み出せる自社IP（フランチャイズ）の育成を目指す",
+    "url": "https://envalith.com/ja/companies/3911/management-voice",
+    "pass": 3
+   },
+   {
+    "quote": "直近は、カバーの「ホロライブ」と組んだ麻雀ゲームなど有力パートナーとの協業で収益を安定させる",
+    "url": "https://envalith.com/ja/companies/3911/management-voice",
+    "pass": 3
+   },
+   {
+    "quote": "海外でヒットが見込めるパートナーとの協業も1〜2件進めている",
+    "url": "https://envalith.com/ja/companies/3911/management-voice",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Aiming さんは1950年代にでも生きてるの？（※半分独 — Aiming さんは1950年代にでも生きてるの？（※半分独 CARAVAN STORIES https://masters.caravan-stories.com > posts > chccehlo",
+    "url": "https://masters.caravan-stories.com/posts/chccehlo",
+    "pass": 3
+   },
+   {
+    "quote": "Aiming 、中国大手インターネットサービス企業Tencentと — Aiming 、中国大手インターネットサービス企業Tencentと 株式会社 Aiming https://aiming-inc.com > news > corporate > 1211-tencent",
+    "url": "https://aiming-inc.com/ja/news/corporate/2014/1211-tencent/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 Aiming - スピーダ スタートアップ情報リサーチ — 株式会社 Aiming - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies",
+    "url": "https://initial.inc/companies/A-06137",
+    "pass": 3
+   },
+   {
+    "quote": "[ Aiming for 1 Trillion Yen in Annual Sales within 10 ... - YouTube — [ Aiming for 1 Trillion Yen in Annual Sales within 10 ... - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=IIphssOREtg",
+    "pass": 3
+   },
+   {
+    "quote": "Aiming の「会社紹介」 OpenWork — Aiming の「会社紹介」 OpenWork OpenWork https://www.openwork.jp > ... > Aiming > 採用情報",
+    "url": "https://www.openwork.jp/a0C1000000lN4kG/pr/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 - IR | 株式会社 Aiming(エイミング) — 決算説明資料 - IR | 株式会社 Aiming(エイミング) 株式会社 Aiming https://ir.aiming-inc.com > library > presentation",
+    "url": "https://ir.aiming-inc.com/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "IRカレンダー - IR | 株式会社 Aiming(エイミング) — IRカレンダー - IR | 株式会社 Aiming(エイミング) 株式会社 Aiming https://ir.aiming-inc.com > calendar",
+    "url": "https://ir.aiming-inc.com/calendar/",
+    "pass": 3
+   },
+   {
+    "quote": "【 Aiming 】[3911]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 Aiming 】[3911]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=3911",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 株式会社 Aiming (エイミング) — 会社概要 | 株式会社 Aiming (エイミング) 株式会社 Aiming https://aiming-inc.com > about > outline",
+    "url": "https://aiming-inc.com/ja/about/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "【 Aiming 】[3911]企業概要 社員数や役員報酬・資本金 | 日経 ... — 【 Aiming 】[3911]企業概要 社員数や役員報酬・資本金 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=3911",
+    "pass": 3
+   },
+   {
+    "quote": "Aiming 、コンシューマゲーム開発にも本格参入 パイプライン ... — Aiming 、コンシューマゲーム開発にも本格参入 パイプライン ... gamebiz【ゲームビズ】 https://gamebiz.jp > news",
+    "url": "https://gamebiz.jp/news/430207",
+    "pass": 3
+   },
+   {
+    "quote": "〈第二 事業 部〉制作進行（企画） | 株式会社 Aiming - HRMOS — 〈第二 事業 部〉制作進行（企画） | 株式会社 Aiming - HRMOS HRMOS https://hrmos.co > pages > aiming > jobs",
+    "url": "https://hrmos.co/pages/aiming/jobs/2098614220901036032",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 Aiming - NET-IR — 株式会社 Aiming - NET-IR webcast.net-ir.ne.jp https://webcast.net-ir.ne.jp > ...",
+    "url": "https://webcast.net-ir.ne.jp/39112607/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Aiming (企業) - Wikipedia — Aiming (企業) ... 株式会社Aiming （エイミング、 英: Aiming inc.）は、 東京都 渋谷区 千駄ヶ谷 に本社を置く 日本 の 企業。 モバイルを中心とした オンラインゲーム の開発、運営を主な業務領域とする。",
+    "url": "https://ja.wikipedia.org/wiki/Aiming_(企業)",
+    "pass": 3
+   },
+   {
+    "quote": "Aiming（3911）のビジネスモデルと成長戦略 - 経営陣インタビュー | E... — Aiming（3911）の経営陣に2026年10月に取材。ビジョン、成長ストーリー、収益構造と資本効率、リスクへの向き合い方、ESGについて経営陣の見解を整理しています。",
+    "url": "https://envalith.com/ja/companies/3911/management-voice",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 株式会社 Aiming (エイミング)【インタビュー】Aiming椎葉社長が語る採用動向…「『好き』をとことん...Aiming椎葉社長インタビュー。業界の名物社長は，スマホ業界の過去と...株式会社Aiming / 業務提携を通じた21.2億円の資金調達とマーケティン... — May 12, 2011 · ※1 Tencent Holdings Ltd.及びその子会社からなるグループ。中国において総合的なインターネットサービスを提供する有数の事業者。その主要なサービスとして、コミュニケーションプラットフォームである「QQ」、「Weixin」及び「微信（WeChat）」やソーシャルネットワーキングプラットフォームで ... Jun 17, 2016 · 今回、同社の椎葉忠志社長にインタビューを行い、最近の採用状況や採用に対する考え方、ゲーオタ採用を掲げる理由について話を聞い",
+    "url": "https://aiming-inc.com/ja/about/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "【インタビュー】Aiming椎葉社長が語る採用動向…「『好き』をとことん... — Jun 17, 2016 · 今回、同社の椎葉忠志社長にインタビューを行い、最近の採用状況や採用に対する考え方、ゲーオタ採用を掲げる理由について話を聞いた。 ――：よろしくお願いいたします。 御社の採用状況はいかがでしょうか。 引き続き積極的にやっています。",
+    "url": "https://gamebiz.jp/news/163425",
+    "pass": 3
+   },
+   {
+    "quote": "Aiming椎葉社長インタビュー。業界の名物社長は，スマホ業界の過去と... — Mar 1, 2016 · “不動のトップ10”というわけではないし，黎明期からある古い会社というわけでもないので，もしかしたらあまりイメージが湧かないかもしれないが，Aiming（エイミング）は，その成り立ちからしてれっきと…",
+    "url": "https://www.4gamer.net/games/331/G033109/20160224042/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "【スマホ・PCゲーム配信】開発力に強み",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=3911",
+    "pass": 3
+   },
+   {
+    "quote": "同社は「早く安く小さく、クオリティも高く」作れる点を強みとし、最終的には大手以外で国内にゲームを作る会社は数社しか残らないとみている",
+    "url": "https://envalith.com/ja/companies/3911/management-voice",
+    "pass": 3
+   },
+   {
+    "quote": "漫画・アニメIPの大半が日本発であり、そうしたIPホルダーが近くにいることも日本企業としての強みと捉えている",
+    "url": "https://envalith.com/ja/companies/3911/management-voice",
+    "pass": 3
+   },
+   {
+    "quote": "独自の競争優位性（Moat）",
+    "url": "https://envalith.com/ja/companies/3911/management-voice",
+    "pass": 3
+   },
+   {
+    "quote": "同社はこれを最大の参入障壁とし、今さら他社が追いつけない領域と位置付けている",
+    "url": "https://envalith.com/ja/companies/3911/management-voice",
+    "pass": 3
+   },
+   {
+    "quote": "この強みがホロライブ案件など良質な案件の獲得につながっている",
+    "url": "https://envalith.com/ja/companies/3911/management-voice",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://aiming.pro/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aiming.pro/about-aiming-pro",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://masters.caravan-stories.com/posts/chccehlo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aiming-inc.com/ja/news/corporate/2014/1211-tencent/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.aiming-inc.com/library/presentation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.aiming-inc.com/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aiming-inc.com/ja/about/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=3911",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/Aiming_(%E4%BC%81%E6%A5%AD)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://envalith.com/ja/companies/3911/management-voice",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Aiming",
+   "results": [
+    "https://dictionary.cambridge.org/us/dictionary/english/aiming",
+    "https://aiming.pro/",
+    "https://www.thefreedictionary.com/aiming",
+    "https://aiming-inc.com/en/",
+    "https://www.merriam-webster.com/dictionary/aim",
+    "https://www.dictionary.com/browse/aiming",
+    "https://www.reddit.com/r/FPSAimTrainer/comments/1hkdgck/what_are_the_essentials_of_aiming/",
+    "https://aiming.pro/app",
+    "https://ja.wikipedia.org/wiki/Aiming",
+    "https://grokipedia.com/page/direct_hit_aiming_real_leaders_at_the_mission_field_(book)"
+   ]
+  },
+  {
+   "query": "Aiming ビジネスモデル",
+   "results": [
+    "https://masters.caravan-stories.com/posts/chccehlo",
+    "https://aiming-inc.com/ja/news/corporate/2014/1211-tencent/",
+    "https://initial.inc/companies/A-06137",
+    "https://www.youtube.com/watch?v=IIphssOREtg",
+    "https://www.openwork.jp/a0C1000000lN4kG/pr/",
+    "https://service.shiftinc.jp/case/aiming/",
+    "https://envalith.com/ja/companies/3911/segments",
+    "https://x.com/aiminginc",
+    "https://gamebiz.jp/news/430178",
+    "https://ja.wikipedia.org/wiki/Aiming_(企業)"
+   ]
+  },
+  {
+   "query": "Aiming 決算説明資料",
+   "results": [
+    "https://ir.aiming-inc.com/library/presentation/",
+    "https://ir.aiming-inc.com/calendar/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=3911",
+    "https://gamebiz.jp/news/434662",
+    "https://x.com/gamebiznews/status/2114977695318810883",
+    "https://ir.aiming-inc.com/library/",
+    "https://irbank.net/3911/ir",
+    "https://finance.logmi.jp/companies/377",
+    "https://finance.yahoo.co.jp/quote/3911.T/financials",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260729501697/"
+   ]
+  },
+  {
+   "query": "Aiming 事業系統図",
+   "results": [
+    "https://aiming-inc.com/ja/about/outline/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=3911",
+    "https://gamebiz.jp/news/430207",
+    "https://hrmos.co/pages/aiming/jobs/2098614220901036032",
+    "https://webcast.net-ir.ne.jp/39112607/index.html",
+    "https://envalith.com/ja/companies/3911/segments",
+    "https://service.shiftinc.jp/case/aiming/",
+    "https://kitaishihon.com/company/3911/business",
+    "https://www.youtube.com/watch?v=jqAjfrQDPI4",
+    "https://ja.wikipedia.org/wiki/Aiming_(企業)"
+   ]
+  },
+  {
+   "query": "Aiming 社長 インタビュー",
+   "results": [
+    "https://ja.wikipedia.org/wiki/Aiming_(企業)",
+    "https://envalith.com/ja/companies/3911/management-voice",
+    "https://aiming-inc.com/ja/about/outline/",
+    "https://gamebiz.jp/news/163425",
+    "https://www.4gamer.net/games/331/G033109/20160224042/",
+    "https://aiming-inc.com/ja/about/management/",
+    "https://www.gckk.co.jp/case/case01/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部8頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部8頁・検索5回）"
+ }
+}

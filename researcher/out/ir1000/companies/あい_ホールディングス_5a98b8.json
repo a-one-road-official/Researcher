@@ -1,0 +1,1788 @@
+{
+ "name": "あい　ホールディングス",
+ "aliases": [],
+ "context": "証券コード3076／卸売業／プライム（内国株式）／2025.06期 売上高66,197百万円 営業利益率13.4%",
+ "researched_at": "2026-11-02T19:21:18.866104+00:00",
+ "official_url": "https://www.aiholdings.co.jp/",
+ "identified_by": "search:yahoo_jp:あい ホールディングス",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立年月日",
+    "value": "平成19年4月2日（2007年4月2日）",
+    "url": "https://www.aiholdings.co.jp/company/outline/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "傘下子会社及びグループの経営管理ならびにそれに付帯する業務の遂行。",
+    "url": "https://www.aiholdings.co.jp/company/outline/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "47,059 46,396 49,812 66,197 85,024",
+    "url": "https://www.aiholdings.co.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "66,197 85,024",
+    "url": "https://www.aiholdings.co.jp/ir/highlight/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "研究開発、品質保証や生産技術など幅広い部門でご使用いただけるデータロガーやオシロスコープ、パワーエレクトロニクスで使用する半導体の特性評価を強力にサポートする半導体カーブトレーサなど、様々な測定器でお客様の「測りたい」を実現いたします",
+    "url": "https://www.aiholdings.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のコスト削減を実現すると共に、省エネルギー・CO₂の削減という社会課題に対しても貢献する製品です",
+    "url": "https://www.aiholdings.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "どのトレイにどの鍵があるかは利用者にはわかりません",
+    "url": "https://www.aiholdings.co.jp/company/about/iotweb/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の既存製品との接続IFや、製品価値を高める為の追加のセンシング技術の相談から始まり、最適な通信回線の選定や、必要に応じてデータ分析、AI、クラウド、オンプレミスサーバ構築まで、最適な組み合わせをワンストップで提案いたします",
+    "url": "https://www.aiholdings.co.jp/company/about/iotweb/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のコスト削減を実現すると共に、省エネルギー・CO₂の削減という社会課題に対しても貢献する製品です",
+    "url": "https://www.aiholdings.co.jp/company/about/iotweb/",
+    "pass": 1
+   },
+   {
+    "quote": "国内大手通信3キャリアの通信エリアを網羅する通信サービスを提供でき、結果、サービス提供時の電波調査コストなども削減し、お客様の収益機会であるサービス提供エリアを最大化し顧客満足度の源泉となるサービス可用性を最大化します",
+    "url": "https://www.aiholdings.co.jp/company/about/iotweb/",
+    "pass": 1
+   },
+   {
+    "quote": "5Gやインターネット接続により、専用の環境を持たないユーザーに対しては、セキュリティGWを通じて同様のサービスを提供いたします",
+    "url": "https://www.aiholdings.co.jp/company/about/iotweb/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客が望むあらゆる位置情報を提供する事が可能な位置測位ソリューション",
+    "url": "https://www.aiholdings.co.jp/company/about/iotweb/",
+    "pass": 1
+   },
+   {
+    "quote": "Serviceと呼ばれる独自の位置測位ソリューションを開発し、顧客が望むあらゆる位置情報を提供いたします",
+    "url": "https://www.aiholdings.co.jp/company/about/iotweb/",
+    "pass": 1
+   },
+   {
+    "quote": "グラフテックデータロガーシリーズをご購入頂いたお客様が、データロガーで収録した計測データをクラウドサーバー「G-DRIVE」へバックアップできるサービスです",
+    "url": "https://www.aiholdings.co.jp/company/about/iotweb/",
+    "pass": 1
+   },
+   {
+    "quote": "もお客様のニーズを汲み上げるとともに、これらに応える商品の企画、研究開発、製造及び販売をすることを基本方",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "特にAI技術やクラウドサービスの普及により、顧客ニーズは高度化・多様化してお",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "る」のもと、環境、社会、ガバナンスの3つの観点を重視した企業経営に取り組むことで「お客様」「取引先様」",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "常にお客様に満足頂ける製品、サービスの提供を目指します",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2℃シナリオでは、顧客の省エネルギー志向がより一層強まると想定できることから、業務用エアコンを自動制",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "御して電力使用量を削減する「脱炭素システム」などの省エネ製品の拡販に一層注力するなど、顧客が省エネ・省",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、国内及び海外に事業所を展開しており、顧客もグローバルにわたっております",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "害が発生した場合、自社及び顧客事業所の設備損傷、停電や道路状況の悪化によるサプライチェーンへの悪影響が事",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "しながら、お客様の要望する商品の品揃えを充実させ、これらの商品をタイムリーに提供することによって、業績",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、顧客情報及び営業秘密等を管理するため「情報管理規程」を定めるとともに、社内外を問わず業務",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ニ．当社グループの主要な取引先（直近事業年度又は先行する３事業年度のいずれかにおける年間連結総売上高",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "グループを主要な取引先とするファーム（過去３事業年度の平均で、そのファームの連結総売上高の２％以",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取引先との安定的・長期的な取引関係の構築、業務提携関係の維持・強化等を勘案し、事業運営上必要が認めら",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "貢献する電子ブレーカー「AEブレーカーシリーズ」を提供し、お客様の脱炭素への取り組みを",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/20_jigyou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ション、飲食店、コンビニなど低圧電力契約のお客様向けの節電商品です",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/20_jigyou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様のご要望が多かった「大型物件への対応」や「複雑形状（R梁）入力」 、 「同時並行作業」",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/20_jigyou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ろん、お客様のニーズに即した迅速かつ的確な製品・サービスを提供いたします",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/20_jigyou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "カーブトレーサなど、様々な測定器でお客様の「測りたい」を実現いたします",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/20_jigyou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、顧客情報及び営業秘密等を管理するため「情報管理規程」を定めるとともに、社内外を問わ",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/soukai_20_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "であり、顧客との販売契約に基づいて商品又は製品を引き渡す履行",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/soukai_20_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "一時点において、顧客が当該商品又は製品に対する支配を獲得して",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/soukai_20_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客に移転される時までの期間が通常の期間であるため、出荷時点",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/soukai_20_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（１）受取手形、売掛金及び契約資産のうち、顧客との契約から生じた債権の金額は、それぞれ以下のとおり",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/soukai_20_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（１）顧客との契約から生じる収益",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/soukai_20_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高については、顧客との契約から生じる収益及びそれ以外の収益を区分して記載しておりません",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/soukai_20_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "客との契約から生じる収益の金額は、連結注記表「６.収益認識に関する注記（１）顧客との契約から生じ",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/soukai_20_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "受取手形及び売掛金、短期貸付金、長期貸付金、リース投資資産は顧客の信用リスクに晒されておりま",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/soukai_20_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当該リスクに関しては取引先ごとに与信管理を徹底し、期日管理や残高管理を行うとともに、貸付先",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/soukai_20_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、主要取引先について",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/soukai_20_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/soukai_20_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（１）顧客との契約から生じる収益を分解した情報",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/soukai_20_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注） 契約負債は主に、契約に基づく履行に先立って顧客から受領した対価に関連 するものであり、契",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/soukai_20_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益を理解するための基礎となる情報は、「個別注記表１．重要な会計方針に関す",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/soukai_20_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "4. 当社グループの主要な取引先（直近事業年度又は先行する3事業年度のいずれかにおける年間連結総売上高の2％を超え",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/soukai_20_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主要な取引先とするファーム（過去3事業年度の平均で、そのファームの連結総売上高の2％以上の支払いを当社グルー",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/soukai_20_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "類の利用者の意思決定に影響を与えると合理的に見込まれる場合に、重要性があると判断される",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/soukai_20_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客層はマンション管理組合、官公庁、金融機関、病院、ゼネコン、一般法人など多岐にわたり、国内外に生産・販売拠点を有する",
+    "url": "https://envalith.com/ja/companies/3076/overview",
+    "pass": 3
+   },
+   {
+    "quote": "マンション向けはリース契約に基づく更新需要を中心とした安定的な顧客基盤を有し、2026年6月期はセグメント利益率38.9％、セグメント利益6,187百万円を計上し6年連続で過去最高益を達成した",
+    "url": "https://envalith.com/ja/companies/3076/overview",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "主要製品は監視カメラやレコーダー等のセキュリティシステム機器で、単なる開発・販売にとどまらず、導入時からアフターフォローまで、一貫したサービスを提供しています",
+    "url": "https://www.aiholdings.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "メガバンク・官公庁等の大型案件や商店街・小売店等様々な施設への導入実績があり、特に既設マンション向けの「安心パック」によるサービス一体型の商品が好評です",
+    "url": "https://www.aiholdings.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "主要製品はカード発行システム機器と鉄骨専用CADです",
+    "url": "https://www.aiholdings.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "主要製品のカッティングマシンは、プロユースの大型機から家庭向けの小型機まで幅広いラインナップを用意しています",
+    "url": "https://www.aiholdings.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "小型機はシルエットブランドの商品ラインナップで、プロ用製品の技術をコンシューマ向けに昇華させた高品質なハードのみならず、消耗品やコンテンツを充実させ、誰にでも使いやすい環境を提供しております",
+    "url": "https://www.aiholdings.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドサービスと連携し、ご利用のスマートフォンやPCなどを会社の内線端末として利用でき、社内外のどこにいても通話できるコードレス環境を構築するなど、使う人に最適なデバイスをシステムに取り入れることが可能です",
+    "url": "https://www.aiholdings.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のコスト削減を実現すると共に、省エネルギー・CO₂の削減という社会課題に対しても貢献する製品です",
+    "url": "https://www.aiholdings.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.aiholdings.co.jp/company/about/iotweb/",
+    "pass": 1
+   },
+   {
+    "quote": "鍵の「保管」「制御」「記録」を自動化し、鍵管理の省人化を実現するサービスです",
+    "url": "https://www.aiholdings.co.jp/company/about/iotweb/",
+    "pass": 1
+   },
+   {
+    "quote": "ドッドウエル ビー・エム・エスのIoT・DXソリューションへ",
+    "url": "https://www.aiholdings.co.jp/company/about/iotweb/",
+    "pass": 1
+   },
+   {
+    "quote": "ドッドウェル ビーエムエスのIoT・DXソリューションへ",
+    "url": "https://www.aiholdings.co.jp/company/about/iotweb/",
+    "pass": 1
+   },
+   {
+    "quote": "小型・軽量デバイスの企画・設計・製品化まで全てワンストップで",
+    "url": "https://www.aiholdings.co.jp/company/about/iotweb/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の既存製品との接続IFや、製品価値を高める為の追加のセンシング技術の相談から始まり、最適な通信回線の選定や、必要に応じてデータ分析、AI、クラウド、オンプレミスサーバ構築まで、最適な組み合わせをワンストップで提案いたします",
+    "url": "https://www.aiholdings.co.jp/company/about/iotweb/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のコスト削減を実現すると共に、省エネルギー・CO₂の削減という社会課題に対しても貢献する製品です",
+    "url": "https://www.aiholdings.co.jp/company/about/iotweb/",
+    "pass": 1
+   },
+   {
+    "quote": "マルチSIMでのLTE通信は、通信エリアの最大化が可能な国内初のマルチSIMによる通信サービスの提供を開始し、既に1万台以上の稼働を実現してます",
+    "url": "https://www.aiholdings.co.jp/company/about/iotweb/",
+    "pass": 1
+   },
+   {
+    "quote": "マルチSIMによる通信サービスは、エリア設計時の課題であったキャリア選定に関する概念を覆し、1契約のSIMで、NTTドコモ、KDDI、ソフトバンクの3キャリアの基地局が利用でき、端末の設置場所に合わせルータ自身が最適なキャリアを選択します",
+    "url": "https://www.aiholdings.co.jp/company/about/iotweb/",
+    "pass": 1
+   },
+   {
+    "quote": "通信サービスの可用性を最大化します",
+    "url": "https://www.aiholdings.co.jp/company/about/iotweb/",
+    "pass": 1
+   },
+   {
+    "quote": "国内大手通信3キャリアの通信エリアを網羅する通信サービスを提供でき、結果、サービス提供時の電波調査コストなども削減し、お客様の収益機会であるサービス提供エリアを最大化し顧客満足度の源泉となるサービス可用性を最大化します",
+    "url": "https://www.aiholdings.co.jp/company/about/iotweb/",
+    "pass": 1
+   },
+   {
+    "quote": "5Gやインターネット接続により、専用の環境を持たないユーザーに対しては、セキュリティGWを通じて同様のサービスを提供いたします",
+    "url": "https://www.aiholdings.co.jp/company/about/iotweb/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客が望むあらゆる位置情報を提供する事が可能な位置測位ソリューション",
+    "url": "https://www.aiholdings.co.jp/company/about/iotweb/",
+    "pass": 1
+   },
+   {
+    "quote": "Serviceと呼ばれる独自の位置測位ソリューションを開発し、顧客が望むあらゆる位置情報を提供いたします",
+    "url": "https://www.aiholdings.co.jp/company/about/iotweb/",
+    "pass": 1
+   },
+   {
+    "quote": "この革新的なソリューションサービスは、Jcardデバイス、Jboxネットワーク管理サーバ、基地局、中継器を使用して簡単にLoRaネットワークを構築できるサービスです",
+    "url": "https://www.aiholdings.co.jp/company/about/iotweb/",
+    "pass": 1
+   },
+   {
+    "quote": "止まる前に事前に予知、SmartFactoryソリューション",
+    "url": "https://www.aiholdings.co.jp/company/about/iotweb/",
+    "pass": 1
+   },
+   {
+    "quote": "多種多様なセンサーを繋ぐ見える化ソリューション",
+    "url": "https://www.aiholdings.co.jp/company/about/iotweb/",
+    "pass": 1
+   },
+   {
+    "quote": "グラフテックデータロガーシリーズをご購入頂いたお客様が、データロガーで収録した計測データをクラウドサーバー「G-DRIVE」へバックアップできるサービスです",
+    "url": "https://www.aiholdings.co.jp/company/about/iotweb/",
+    "pass": 1
+   },
+   {
+    "quote": "商品及び製品",
+    "url": "https://www.aiholdings.co.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "管理業務の省人化ソリューション",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/03/keybox_association.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "管理業務の省人化ソリューション",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/03/keybox_company.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【根拠条文】 金融商品取引法第24条第１項",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "情報機器 プロッタやスキャナ等のコンピュータ周辺機器の開発・製造及び販売、保守サービス等",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "NYCソリューションズ株式会社",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "器、保守サービス",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "NYCソリューションズ㈱ 東京都港区 30 情報通信 100.0(100.0)",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "もお客様のニーズを汲み上げるとともに、これらに応える商品の企画、研究開発、製造及び販売をすることを基本方",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "に先駆けた商品及びビジネスモデルの提供をしてまいります",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、節電・省エネシステムの開発及び販売、製品・",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サービスのIoT化、AI化にも注力し、市場における競争力強化、新規市場の開拓を図ります",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "して、積極的なＭ＆Ａ及び業務提携を行い、商品開発力及び営業力の強化を図ることにより、事業の更なる拡大を目",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "データとAI（人工知能）を連携させる新たなシステムの活用など、新ソリューションの開発に対するニーズが高まっ",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "特にAI技術やクラウドサービスの普及により、顧客ニーズは高度化・多様化してお",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "り、製品・サービスの付加価値向上と継続的な技術開発が求められております",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "カード・その他事務用機器事業につきましては、販売商品の内製化を進めており、高度化した新製品販売によって",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このような環境のもと、当社グループは各事業分野における競争優位性の強化、高付加価値製品の開発、新規市場",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "カード機器につきましては、病院市場においては、新商品の投入、ハード販売から柔軟な提案による複合販売、高",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "常にお客様に満足頂ける製品、サービスの提供を目指します",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品と提供するサービスの安心、安全を第一に事故防止に努めます",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2℃シナリオでは、炭素税導入や環境配慮型製品の増加などに伴うコストの上昇が発生する見込みです",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "に配慮された競争力のある製品を調達し、適切な価格設定を行うことにより、影響度の低減に努めます",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "御して電力使用量を削減する「脱炭素システム」などの省エネ製品の拡販に一層注力するなど、顧客が省エネ・省",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "資源を達成するためのソリューションを積極的に提供し、当社の事業機会につなげます",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "した防災対策ソリューションや、自然災害対策のための建設需要増加に対応する鉄骨CADシステムの提供により、",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(2) 製品の需要変動、競合他社の動向及び革新的技術の登場に関するリスク",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、市場動向を注視し、市場の需要に合わせた製品の開発、生産及び購入を行い、適正在庫水準に留",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "カード機器は、主力の病院向けは回復傾向にあり、金融機関向",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/20_jigyou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その他事務用機器の鉄骨CADは、主力製品の切り替え期にあた",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/20_jigyou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "業務用は安定的に推移し、個人向けでは、主力となる低価格の",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/20_jigyou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "新製品を投入した結果、売上高は126億7千1百万円（前期比",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/20_jigyou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品及び製品 9,729 11,051",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/20_jigyou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主要製品は監視カメラシステムやAI画像解析システムなどがあり、単なる開発・販売にとど",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/20_jigyou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "まらず、導入からアフターフォローまで、一貫したサービスを提供しています",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/20_jigyou.pdf",
+    "pass": 2
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2020年1月1日に開催された実業団駅伝レースにおいては、”選手の負担にならない小型・軽量のLoRa版GPSデバイスの提供”を実施いたしました",
+    "url": "https://www.aiholdings.co.jp/company/about/iotweb/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年インボイス制度に備える",
+    "url": "https://www.aiholdings.co.jp/company/about/iotweb/",
+    "pass": 1
+   },
+   {
+    "quote": "平成19年4月2日（2007年4月2日）",
+    "url": "https://www.aiholdings.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | あい ホールディングス株式会社",
+    "url": "https://www.aiholdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月25日",
+    "url": "https://www.aiholdings.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月3日",
+    "url": "https://www.aiholdings.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月28日",
+    "url": "https://www.aiholdings.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月19日",
+    "url": "https://www.aiholdings.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 決算短信",
+    "url": "https://www.aiholdings.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 決算説明資料",
+    "url": "https://www.aiholdings.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月18日",
+    "url": "https://www.aiholdings.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月3日",
+    "url": "https://www.aiholdings.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月30日現在",
+    "url": "https://www.aiholdings.co.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月30日現在",
+    "url": "https://www.aiholdings.co.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年7月1日から",
+    "url": "https://www.aiholdings.co.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月30日まで",
+    "url": "https://www.aiholdings.co.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年7月1日から",
+    "url": "https://www.aiholdings.co.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月30日まで",
+    "url": "https://www.aiholdings.co.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期",
+    "url": "https://www.aiholdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 決算短信",
+    "url": "https://www.aiholdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 決算説明資料",
+    "url": "https://www.aiholdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 第3四半期決算説明資料",
+    "url": "https://www.aiholdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 第3四半期決算短信",
+    "url": "https://www.aiholdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 第2四半期（中間期）決算短信",
+    "url": "https://www.aiholdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 第2四半期決算説明資料",
+    "url": "https://www.aiholdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 第1四半期決算短信",
+    "url": "https://www.aiholdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 第1四半期決算説明資料",
+    "url": "https://www.aiholdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月期",
+    "url": "https://www.aiholdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月期 決算短信",
+    "url": "https://www.aiholdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月期 決算説明資料",
+    "url": "https://www.aiholdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月期 第3四半期決算短信",
+    "url": "https://www.aiholdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月期 第3四半期決算説明資料",
+    "url": "https://www.aiholdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月期 第2四半期（中間期）決算短信",
+    "url": "https://www.aiholdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月期 第2四半期決算説明資料",
+    "url": "https://www.aiholdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月期 第1四半期決算短信",
+    "url": "https://www.aiholdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月期 第1四半期決算説明資料",
+    "url": "https://www.aiholdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年6月期",
+    "url": "https://www.aiholdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年6月期 決算短信",
+    "url": "https://www.aiholdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年6月期 決算説明資料",
+    "url": "https://www.aiholdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年6月期 第3四半期決算短信",
+    "url": "https://www.aiholdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年6月期 第3四半期決算説明資料",
+    "url": "https://www.aiholdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年6月期 第2四半期決算短信",
+    "url": "https://www.aiholdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年6月期 第2四半期決算説明資料",
+    "url": "https://www.aiholdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2007年4月2日",
+    "url": "https://www.aiholdings.co.jp/ir/stock_info/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年6月期",
+    "url": "https://www.aiholdings.co.jp/ir/stock_info/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期",
+    "url": "https://www.aiholdings.co.jp/ir/stock_info/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月期",
+    "url": "https://www.aiholdings.co.jp/ir/stock_info/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年6月期",
+    "url": "https://www.aiholdings.co.jp/ir/stock_info/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年6月期",
+    "url": "https://www.aiholdings.co.jp/ir/stock_info/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年6月期",
+    "url": "https://www.aiholdings.co.jp/ir/stock_info/",
+    "pass": 1
+   },
+   {
+    "quote": "2007年２月 株式会社ドッドウエル ビー・エム・エス及びグラフテック株式会社の株主総会において、両社が",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2007年４月 当社設立",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2007年７月 株式会社ＵＳＴＡＧＥの株式を第三者割当増資の引受けにより取得し、当社の子会社とする",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2008年７月 株式会社ニューロンの株式を取得し、当社の子会社とする",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2009年１月 株式会社塩見設計の株式を取得し、当社の子会社とする",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2009年２月 株式会社塩見設計が構造設計、耐震診断・補強設計及び建築設計事業を譲受け、設計事業を開始",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2009年７月 あいエンジニアリング株式会社を設立",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2009年９月 SilhouetteAmerica, Inc.を設立",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2010年７月 株式会社塩見設計が商号を株式会社あい設計に変更",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2013年３月 GRAPHTEC LATIN AMERICA SAを設立",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "[事業系統図]",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "以上述べた事項を事業系統図によって示すと次のとおりであります",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "に先駆けた商品及びビジネスモデルの提供をしてまいります",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "129,800 129,800 商流を活かしたシナジー効果を創出する",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://envalith.com/ja/companies/3076/overview",
+    "pass": 3
+   },
+   {
+    "quote": "自社開発・製造した機器の販売に加え、代理店経由の商社機能を併せ持つビジネスモデル",
+    "url": "https://envalith.com/ja/companies/3076/overview",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "マンション向けの場合は、基本的には既設設備の更新需要を中心に直販による営業活動を行っております",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "今後も有力代理店と連携",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（指名諮問委員会）",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "提出日現在における当社の指名諮問委員会は、委員長である佐野恵子（社外取締役）、髙橋一夫（社外取締",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "を高めるため、取締役会の任意の諮問機関として設置しており、取締役の指名に関する事項につきましては、当",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（取締役会、指名諮問委員会及び報酬諮問委員会等の活動状況）",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取締役会、指名諮問委員会及び報酬諮問委員会等の活動状況は下記のとおりであります",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "役職名 氏 名 取締役会 指名諮問委員会 報酬諮問委員会",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "役会の任意の諮問機関として指名諮問委員会及び報酬諮問委員会を設置しております",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ましては、指名諮問委員会において、諮問委員の選定、報酬諮問委員会において、取締役の個別報酬について",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ング・パートナー",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "テッド・パートナーシップ代表",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "チ．当社グループの会計監査人又は監査法人等の社員、パートナー又は従業員である者、又は最近3年間におい",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "上の支払いを当社グループから受けた）の社員、パートナー、アソシエイト又は従業員である者",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "マネージング・パートナー",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/soukai_20_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2018年 1 月モニュメント・グループ・リミテッド・パートナーシッ",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/soukai_20_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "8. 当社グループの会計監査人又は監査法人等の社員、 パートナー又は従業員である者、又は 最近３年間においてそうであ",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/soukai_20_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "プから受けた）の社員、パートナー、アソシエイト又は従業員である者",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/soukai_20_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、報酬諮問委員会の委員長及び指名諮",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/soukai_20_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、指名諮問委員会",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/soukai_20_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "た、指名諮問委員会及び報酬諮問委員会の委員として、客観",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/soukai_20_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "自社開発・製造した機器の販売に加え、代理店経由の商社機能を併せ持つビジネスモデル",
+    "url": "https://envalith.com/ja/companies/3076/overview",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "情報機器 プロッタやスキャナ等のコンピュータ周辺機器の開発・製造及び販売、保守サービス等",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "キュリティ機器・カード機器等の保守サービ",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "器、保守サービス",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "①【ストックオプション制度の内容】",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・取締役の報酬の範囲限度額：年額400百万円以内（使用人分給与は含まず）",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・監査役の報酬の範囲限度額：年額90百万円以内",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・上記の報酬制度とは別枠で、年間135,000株以内、年額200百万円以内",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "役員区分 報酬等の総額（百万円） 報酬等の種類別の総額（百万円） 対象となる役員の員数（人）基本報酬 ストックオプション 賞与 退職慰労金 左記のうち、非金銭報酬等",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．ストックオプション及び役員退職慰労金制度は、導入しておりません",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "支払手数料 22 28",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ロ. 保守サービス 保守サービスに係る収益は、主に商品又は製品の保守であり、顧",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/soukai_20_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "客との保守契約に基づいて保守サービスを提供する履行義務を負っ",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/soukai_20_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当該保守契約は、一定の期間にわたり履行義務を充足",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/soukai_20_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "約束された対価は概ね保守契約時に受領しており、対価",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/soukai_20_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "保守サービス事業",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/soukai_20_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "情 報 機 器 プロッタやスキャナ等のコンピュータ周辺機器の開発・製造及び販売、保守サービス等",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/soukai_20_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "情 報 通 信 ビジネスホンの開発・製造及び販売、保守サービス等",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/soukai_20_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ィ機器・カード機器等の保守サービス、リース及び割賦事業、コール",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/soukai_20_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "テック株式会社の臨時株主総会において、当社設立に関する事項 として、年額40,000万円以内（た",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/soukai_20_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "）に対して、 譲渡制限付株式の付与 のための報酬額として年額20,000 万円以内と決議",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/soukai_20_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "テック株式会社の臨時株主総会において、当社設立に関する事項として、年額9,000 万円以内と決議",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/soukai_20_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "マンション向けセキュリティはリース契約による更新需要の取り込みでストック収益を確保し、法人・官公庁向けは個別受注型で大型案件を積み上げる",
+    "url": "https://envalith.com/ja/companies/3076/overview",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "分は、「第５ 経理の状況 １ 連結財務諸表等（１）連結財務諸表 注記事項」に掲げるセグメントの区分と同一で",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．主要な事業の内容欄には、セグメントの名称を記載しております",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "項目 構成比 構成比 構成比",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "中途採用社員構成 55.0％ 48.0％ 高構成比率の為",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "a. セグメントごとの経営成績",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "158億９千万円（前期比4.5％増）、セグメント利益は61億８千７百万円（前期比0.6％増）となりました",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品の切り替え期にあたり、売上高は24億５千４百万円（前期比21.0％減）、セグメント利益は３億１千万円",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主力となる低価格の新製品を投入した結果、売上高は126億７千１百万円（前期比6.1％減）、セグメント利益は",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "り、売上高は271億２百万円（前期比129.2％増）、セグメント利益は12億４千９百万円（前期比84.3％増）とな",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "百万円（前期比33.6％増）、セグメント利益は14億８千２百万円（前期比213.5％増）と好調に推移しました",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その他につきましては、売上高は140億２千６百万円（前期比16.9％増）、セグメント利益は３億９千３百万",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当連結会計年度の生産実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント計 17,509 81.9",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．金額は販売価格によっており、セグメント間の内部振替前の数値によっております",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当連結会計年度の商品仕入実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント計 31,603 223.0",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当連結会計年度の受注実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの名称 受注高（百万円） 前年同期比（％） 受注残高（百万円） 前年同期比（％）",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当連結会計年度の販売実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント計 70,998 131.0",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）セグメント間の取引については、相殺消去しております",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "d. セグメントごとの財政状態及び経営成績の状況に関する分析・検討内容",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当連結会計年度における各セグメント別の研究成果及び研究開発費は次のとおりであります",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当セグメントにおける",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別の業績は、次のとおりであります",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/20_jigyou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "億9千万円（前期比4.5％増） 、セグメント利益は61億8千7",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/20_jigyou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高構成比",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/20_jigyou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "6.1％減） 、セグメント利益は5億6千2百万円（前期比21.6％",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/20_jigyou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "比8.8％増） 、セグメント利益は7億8千6百万円（前期比4.8％",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/20_jigyou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "期比129.2％増） 、セグメント利益は12億4千9百万円（前期比",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/20_jigyou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高は74億3千6百万円（前期比33.6％増） 、セグメント利",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/20_jigyou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※構成比は端数処理を行っているため、合計が100%にならない場合があります",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/20_jigyou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/soukai_20_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "より、売上高は158億９千万円（前期比 4.5％増）、セグメント利益は61 億８千７百万円（前期比 0.6％",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/soukai_20_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "CADは、主力製品の切り替え期にあたり、売上高は24億５千４百万円（前期比21.0％減）、 セグメント",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/soukai_20_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なる低価格の新製品を投入した結果、 売上高は126億７千１百万円（前期比 6.1％減）、セグメント利益",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/soukai_20_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "増）、セグメント利益は７億８千６百万円（前期比4.8％減）となりました",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/soukai_20_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "信機器事業が新たに増加 したことにより、売上高は271 億２百万円（前期比129.2％増）、 セグメント利",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/soukai_20_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "74億３千６百万円（前期比 33.6％増）、セグメント利益は14 億８千２百万円（前期比 213.5％増）と好",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/soukai_20_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「その他」につきましては、売上高は140億２千６百万円（前期比16.9％増）、セグメント利益は３億",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/soukai_20_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２. 全社（共通）の使用人数は、当社の就業人員のうち、特定のセグメントに区分できない管理部門に所",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/soukai_20_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主要事業はセキュリティ機器（マンション・法人向け）、カード機器及びその他事務用機器（病院・金融向け）、情報機器（プロッタ・カッティングマシン）、計測機器、情報通信（ビジネスホン等）、設計事業（構造設計・耐震診断）の6報告セグメントに加え、脱炭素システムやリース事業等を含む「その他」セグメントを持つ",
+    "url": "https://envalith.com/ja/companies/3076/overview",
+    "pass": 3
+   },
+   {
+    "quote": "マンション向けはリース契約に基づく更新需要を中心とした安定的な顧客基盤を有し、2026年6月期はセグメント利益率38.9％、セグメント利益6,187百万円を計上し6年連続で過去最高益を達成した",
+    "url": "https://envalith.com/ja/companies/3076/overview",
+    "pass": 3
+   },
+   {
+    "quote": "2024年9月に岩崎通信機、2025年4月にナカヨを株式交換・公開買付により連結子会社化し、情報通信セグメント売上高を前期比229.2％の27,102百万円まで拡大させた実績を持つ",
+    "url": "https://envalith.com/ja/companies/3076/overview",
+    "pass": 3
+   },
+   {
+    "quote": "情報通信セグメントは規模拡大も利益率は低位、統合シナジーが課題",
+    "url": "https://envalith.com/ja/companies/3076/overview",
+    "pass": 3
+   },
+   {
+    "quote": "情報通信セグメントは売上高27,102百万円（+129.2%）と大幅拡大したが、セグメント利益率は約4.6%と他セグメント（設計事業18.9%、セキュリティ機器38.9%等）に比べ低い",
+    "url": "https://envalith.com/ja/companies/3076/overview",
+    "pass": 3
+   },
+   {
+    "quote": "M&Aでグループインした岩崎通信機とナカヨの事業融合を加速し、情報通信セグメントの収益性改善（現状利益率約4.6%）を図る",
+    "url": "https://envalith.com/ja/companies/3076/overview",
+    "pass": 3
+   },
+   {
+    "quote": "節電・省エネシステムを含む「その他」セグメントは売上高14,026百万円（+16.9%）、セグメント利益393百万円（+141.1%）と伸長",
+    "url": "https://envalith.com/ja/companies/3076/overview",
+    "pass": 3
+   },
+   {
+    "quote": "設計事業（+213.5%）等の高収益セグメントの伸長が寄与",
+    "url": "https://envalith.com/ja/companies/3076/overview",
+    "pass": 3
+   },
+   {
+    "quote": "事業セグメント別の売上構成と業績詳細",
+    "url": "https://envalith.com/ja/companies/3076/overview",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "このような環境のもと、当社グループは各事業分野における競争優位性の強化、高付加価値製品の開発、新規市場",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、市場動向を注視し、市場の需要に合わせた製品の開発、生産及び購入を行い、適正在庫水準に留",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "意することで、急激な需要変動への対応と余剰在庫の発生を抑制するよう努めております",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "と設定し、その確保のために粗利重視の経営を進め、その最大化に努めてまいります",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "動精算機の内製化を完了させ、粗利率の向上を図っております",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "コスト削減と効率化を進展させて、売上高営業利益率のさらなる上昇を実現してまいります",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "構造設計分野全般の強みを生かして、自",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "を含めた総合設計の二本柱を強みとした建築総合コンサルタント業を行っています",
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/20_jigyou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セキュリティ機器事業の高収益性と業績継続性",
+    "url": "https://envalith.com/ja/companies/3076/overview",
+    "pass": 3
+   },
+   {
+    "quote": "売上高は85,024百万円（+28.4%、前期+32.9%からやや鈍化）、営業利益は10,762百万円（+21.1%）と拡大したが、増収率が増益率を上回り売上高営業利益率は13.4%から12.7%へ低下",
+    "url": "https://envalith.com/ja/companies/3076/overview",
+    "pass": 3
+   },
+   {
+    "quote": "設計事業（+213.5%）等の高収益セグメントの伸長が寄与",
+    "url": "https://envalith.com/ja/companies/3076/overview",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "あい ホールディングス 株式会社 | 技術をつなぎ、価値を ... — あい ホールディングス 株式会社 | 技術をつなぎ、価値を ... あい ホールディングス株式会社 https://www.aiholdings.co.jp",
+    "url": "https://www.aiholdings.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "あいホールディングス 株式会社（3076）— 企業情報 — あいホールディングス 株式会社（3076）— 企業情報 ENVALITH https://envalith.com > companies > overview",
+    "url": "https://envalith.com/ja/companies/3076/overview",
+    "pass": 3
+   },
+   {
+    "quote": "あいホールディングス （3076）とは？防犯カメラ×M&Aで成長 ... — あいホールディングス （3076）とは？防犯カメラ×M&Aで成長 ... note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/holy_viper7334/n/na76cd29e5885",
+    "pass": 3
+   },
+   {
+    "quote": "【 あいホールディングス 】[3076]適時開示情報 株主総会や定款 ... — 【 あいホールディングス 】[3076]適時開示情報 株主総会や定款 ... 日本経済新聞 https://www.nikkei.com > nkd > company > disclose",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=3076",
+    "pass": 3
+   },
+   {
+    "quote": "決算短信・ 決算説明資料 - あい ホールディングス株式会社 — 決算短信・ 決算説明資料 - あい ホールディングス株式会社 あい ホールディングス株式会社 https://www.aiholdings.co.jp > library > settlement",
+    "url": "https://www.aiholdings.co.jp/ir/library/settlement/",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家の皆様へ | あい ホールディングス 株式会社 — 株主・投資家の皆様へ | あい ホールディングス 株式会社 あい ホールディングス株式会社 https://www.aiholdings.co.jp > ...",
+    "url": "https://www.aiholdings.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "あいホールディングス [3076]：2026年6月期 第2四半期(中間期 ... — あいホールディングス [3076]：2026年6月期 第2四半期(中間期 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260205548482/",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリ | あい ホールディングス 株式会社 — IRライブラリ | あい ホールディングス 株式会社 あい ホールディングス株式会社 https://www.aiholdings.co.jp > library",
+    "url": "https://www.aiholdings.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "あい ホールディングス 【3076】の最新 決算 発表、業績修正 — あい ホールディングス 【3076】の最新 決算 発表、業績修正 株探 https://kabutan.jp > あい　ホールディングス (3076)",
+    "url": "https://kabutan.jp/stock/finance?code=3076",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - あい ホールディングス株式会社 — 会社概要 - あい ホールディングス株式会社 あい ホールディングス株式会社 https://www.aiholdings.co.jp > company > outline",
+    "url": "https://www.aiholdings.co.jp/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 - あい ホールディングス株式会社 — 企業情報 - あい ホールディングス株式会社 あい ホールディングス株式会社 https://www.aiholdings.co.jp > company",
+    "url": "https://www.aiholdings.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "【 あいホールディングス 】[3076]有価証券報告書 | 日経電子版 — 【 あいホールディングス 】[3076]有価証券報告書 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > ednr",
+    "url": "https://www.nikkei.com/nkd/company/ednr/?scode=3076",
+    "pass": 3
+   },
+   {
+    "quote": "Ai Holdings 3076 - あいホールディングス - Shared Research — Ai Holdings 3076 - あいホールディングス - Shared Research Shared Research https://sharedresearch.jp > companies",
+    "url": "https://sharedresearch.jp/ja/companies/3076",
+    "pass": 3
+   },
+   {
+    "quote": "あい ホールディング（3076）のプロフィール — あい ホールディング（3076）のプロフィール 四季報オンライン https://shikiho.toyokeizai.net > ... > あい ホールディングス",
+    "url": "https://shikiho.toyokeizai.net/stocks/3076/corporate",
+    "pass": 3
+   },
+   {
+    "quote": "社員 インタビュー | あい ホールディングス 株式会社 — 社員 インタビュー | あい ホールディングス 株式会社 あい ホールディングス株式会社 https://www.aiholdings.co.jp > recruit > interview10",
+    "url": "https://www.aiholdings.co.jp/recruit/interview10/",
+    "pass": 3
+   },
+   {
+    "quote": "試作・改善の繰り返しの中に モノづくりの手触り感がある — 試作・改善の繰り返しの中に モノづくりの手触り感がある あい ホールディングス株式会社 https://www.aiholdings.co.jp > recruit > interview04",
+    "url": "https://www.aiholdings.co.jp/recruit/interview04/",
+    "pass": 3
+   },
+   {
+    "quote": "あい ホールディングス 【3076】の 社長 ・役員 - キタイシホン — あい ホールディングス 【3076】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/3076/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "あいホールディングス社長 に清水慶典氏 - 日本経済新聞 — あいホールディングス社長 に清水慶典氏 - 日本経済新聞 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXZQODZ00005_S6A620C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "あいホールディングス 、 社長 に清水慶典氏 | 日刊工業新聞 電子版 — あいホールディングス 、 社長 に清水慶典氏 | 日刊工業新聞 電子版 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/785595",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.aiholdings.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aiholdings.co.jp/company/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aiholdings.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aiholdings.co.jp/company/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aiholdings.co.jp/company/about/iotweb/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aiholdings.co.jp/company/about/iotweb/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aiholdings.co.jp/company/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aiholdings.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aiholdings.co.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aiholdings.co.jp/ir/highlight/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aiholdings.co.jp/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aiholdings.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aiholdings.co.jp/ir/stock_info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aiholdings.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.aiholdings.co.jp/uploads/2026/03/keybox_association.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.aiholdings.co.jp/uploads/2026/03/keybox_company.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.aiholdings.co.jp/uploads/2024/06/20240521_signage.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/Security-Report_20.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/20_jigyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/20_ketsugi.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/soukai_20_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.aiholdings.co.jp/uploads/2026/09/soukai_20_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.aiholdings.co.jp/uploads/2021/09/business1-1024x609.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.aiholdings.co.jp/uploads/2026/04/business2-1-1024x608.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.aiholdings.co.jp/uploads/2025/03/business3-1-1024x609.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.aiholdings.co.jp/uploads/2025/03/business5-1-1024x683.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.aiholdings.co.jp/uploads/2021/10/business6-1024x579.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.aiholdings.co.jp/uploads/2024/08/business7.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://envalith.com/ja/companies/3076/overview",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "あい ホールディングス",
+   "results": [
+    "https://www.aiholdings.co.jp/",
+    "https://www.nikkei.com/nkd/company/?scode=3076",
+    "https://kabutan.jp/stock/?code=3076",
+    "https://shikiho.toyokeizai.net/stocks/3076/corporate",
+    "https://sharedresearch.jp/ja/companies/3076",
+    "https://www.aiholdings.co.jp/en/",
+    "https://finance.yahoo.co.jp/quote/3076.T",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=3076",
+    "https://finance.yahoo.co.jp/quote/3076.T/profile",
+    "https://minkabu.jp/stock/3076"
+   ]
+  },
+  {
+   "query": "あい ホールディングス ビジネスモデル",
+   "results": [
+    "https://www.aiholdings.co.jp/",
+    "https://envalith.com/ja/companies/3076/overview",
+    "https://note.com/holy_viper7334/n/na76cd29e5885",
+    "https://www.nikkei.com/nkd/company/disclose/?scode=3076",
+    "https://diamond.jp/zai/articles/-/1071903",
+    "https://sharedresearch.jp/ja/companies/3076",
+    "https://kitaishihon.com/company/3076/management-strategy",
+    "https://www.daiwa.co.jp/PN/AP/OnlineTrade?aid=TOBViewPdf&cpy=00&MEIGARA_SEQ_NO=100000232",
+    "https://www.nihon-ma.co.jp/news/company/3076/",
+    "https://www.aiholdings.co.jp/en/"
+   ]
+  },
+  {
+   "query": "あい ホールディングス 決算説明資料",
+   "results": [
+    "https://www.aiholdings.co.jp/ir/library/settlement/",
+    "https://www.aiholdings.co.jp/ir/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260205548482/",
+    "https://www.aiholdings.co.jp/ir/library/",
+    "https://kabutan.jp/stock/finance?code=3076",
+    "https://www.buffett-code.com/company/3076/library",
+    "https://scouter.monex.co.jp/report/top/3076",
+    "https://www.moomoo.com/ja/news/notice/307931231/ai-holdings-interim-financial-results-for-the-fiscal-year-ending",
+    "https://zaimani.com/financial-analysis-catalog/3076/",
+    "https://edinetdb.jp/company/E03006/presentations/"
+   ]
+  },
+  {
+   "query": "あい ホールディングス 事業系統図",
+   "results": [
+    "https://www.aiholdings.co.jp/company/outline/",
+    "https://www.aiholdings.co.jp/company/",
+    "https://www.nikkei.com/nkd/company/ednr/?scode=3076",
+    "https://sharedresearch.jp/ja/companies/3076",
+    "https://shikiho.toyokeizai.net/stocks/3076/corporate",
+    "https://edinetdb.jp/company/E03006/midterm-plans/",
+    "https://zaimani.com/financial-analysis-catalog/3076/",
+    "https://www.aiholdings.co.jp/",
+    "https://kitaishihon.com/company/3076/business",
+    "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=3076"
+   ]
+  },
+  {
+   "query": "あい ホールディングス 社長 インタビュー",
+   "results": [
+    "https://www.aiholdings.co.jp/recruit/interview10/",
+    "https://www.aiholdings.co.jp/recruit/interview04/",
+    "https://kitaishihon.com/company/3076/board-of-director",
+    "https://www.nikkei.com/article/DGXZQODZ00005_S6A620C2000000/",
+    "https://www.nikkan.co.jp/articles/view/785595",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260622575422",
+    "https://www.aiholdings.co.jp/recruit/interview06/",
+    "https://sp.m.jiji.com/article/show/3805220",
+    "https://www.wantedly.com/companies/company_8904649/post_articles/912045",
+    "https://www.aiholdings.co.jp/company/message/"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像14件／外部1頁・検索5回）"
+ }
+}

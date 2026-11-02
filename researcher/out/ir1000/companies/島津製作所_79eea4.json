@@ -1,0 +1,2217 @@
+{
+ "name": "島津製作所",
+ "aliases": [],
+ "context": "証券コード7701／精密機器／プライム（内国株式）／2026.03期 売上高560,728百万円 営業利益率13.1%",
+ "researched_at": "2026-11-02T19:26:51.319956+00:00",
+ "official_url": "https://www.shimadzu.co.jp/",
+ "identified_by": "search:ddgs:google:島津製作所",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1875（明治8）年3月",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/profile.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1917（大正6）年9月",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/profile.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1917年 9月1日",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "グループ従業員",
+    "value": "14,649名(2026年3月31日現在)",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/profile.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "連結：13,898人 単体：3,541人 （2023年3月末現在）",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "連結売上高",
+    "value": "約5,607億円(2026年3月期)",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/profile.html",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "連結：5118億95百万円 単体：2246億8百万円 （2024年3月期）",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "label": "計測機器の機種別売上高",
+    "value": "重点機種（LC・MS・GC）は388億円（前年比+10%）、LCは新薬開発でグローバルに成長、MSは医薬・食品安全で海外全地域で増加",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "label": "計測機器の地域別売上高",
+    "value": "日本は+4%（LCは医薬市場、試験機は教育機関で増加、PCR関連は減少）",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "label": "医用機器の機種別売上高",
+    "value": "X線装置は110億円（前年比▲4%）、回診用X線撮影装置は減少、X線TVシステムは日本・北米で増加、血管撮影システムは東南アジアで増加",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "label": "産業機器の機種別売上高",
+    "value": "ターボ分子ポンプ（TMP）は72億円（前年比+50%）、全地域で成長、特に日本・北米で好調",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "label": "航空機器の分野別売上高",
+    "value": "防衛は39億円（前年比▲24%）、需要の谷間で減収",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "計測機器、医療機器の製造・販売",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "お客様、パートナーとの取り組みを紹介 「Stories of Excellence」",
+    "url": "https://www.shimadzu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様とのコミュニケーション誌「ぶーめらん」",
+    "url": "https://www.shimadzu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの多岐にわたる事業を皆様に知っていただくきっかけとなれば、との思いからお客様向け広報誌「ぶーめらん」を発行しています",
+    "url": "https://www.shimadzu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちとお客様、パートナーとの関わり、島津の技術者の姿を通じて、島津の技術・製品がどのような社会課題を解決し、より良い社会に向けたイノベーションの創造に貢献しようとしているかをご紹介します",
+    "url": "https://www.shimadzu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社創業以来の顧客第一の起業精神で、社員がお題に挑みました",
+    "url": "https://www.shimadzu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "羽田空港から近い好立地を活かし、国内外のお客様と共に、先端分析手法の開発や共同研究を推進していきます",
+    "url": "https://www.shimadzu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様がさまざまな新製品を開発するために、",
+    "url": "https://www.shimadzu.co.jp/aboutus/brand/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "今回のお客様、魔改造倶楽部からのお題に挑んだ",
+    "url": "https://www.shimadzu.co.jp/aboutus/makaizo/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "「顧客のニーズさえあれば、なんでもつくる」という徹底した顧客第一の起業精神、「科学」への情熱とものづくりへのひたむきな姿勢",
+    "url": "https://www.shimadzu.co.jp/aboutus/makaizo/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様、パートナーとの取り組みを紹介 「Stories of Excellence」",
+    "url": "https://www.shimadzu.co.jp/aboutus/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様とのコミュニケーション誌「ぶーめらん」",
+    "url": "https://www.shimadzu.co.jp/aboutus/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "調達方針「共生とE・Q・C・D(環境・品質・価格・納期)」を基本に、取引先さまとの信頼関係を構築し、調達活動を行っています",
+    "url": "https://www.shimadzu.co.jp/aboutus/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "世界のお客様とともに科学技術でイノベーションを創出し、",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社が提供する分析・計測機器や産業機器、航空関連機器は、多くの産業分野で広く採用いただき、お客様の事業を通して社会の安全、安心を守り、利便性を向上させる役割を果たしています",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちが微力ながらも社会に貢献し続けることができた理由、私はそれを、お客様が解決したい課題に向き合い挑戦を続けてきたことにあると考えています",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "その積み重ねが多様性に富んだ技術の宝庫を築き上げ、お客様から課題を寄せられた際に、いち早くSolutionを見出すことにつながったのだと考えています",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "社会と地球の声なき声に耳を澄ませ、私たち自身が解決に向けて立ち上がり、世界のお客様とともに新たなイノベーション創出に取り組む",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、顧客・株主･取引先･従業員･地域社会などのステークホルダー（利害関係者）との信頼関係を維持・構築します",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/actpln.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、職務上の関係者（公務員・民間の取引先・関係先）との付き合いは、各国法令を遵守し節度を持って行います",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/actpln.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、安心・安全でお客様に信頼される製品・サービスの提供を第一に考え行動します",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/actpln.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、説明責任を果たすため、ステークホルダー（顧客、株主、取引先、従業員、地域社会など）に対し、正しい情報の誠実・公平・タイムリーな開示・伝達に努め、円滑なコミュニケーションを実現します",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/actpln.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客や時代のニーズに",
+    "url": "https://www.shimadzu.co.jp/aboutus/makaizo/dna/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "この「顧客のニーズさえあれば、なんでもつくる」という徹底した顧客第一の起業精神、「科学」への情熱とものづくりへのひたむきな姿勢は、ものづくりのDNAとして創業以来150年、時を超え、国を越え、世界で働く島津グループの全従業員一人ひとりに受け継がれている",
+    "url": "https://www.shimadzu.co.jp/aboutus/makaizo/dna/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "「科学の力を通じて社会に貢献する」という父の遺志を継ぎ、顧客や時代のニーズに応えていく中で技術を蓄積",
+    "url": "https://www.shimadzu.co.jp/aboutus/makaizo/dna/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "羽田空港に近い立地を活かして、国内外のお客様と共に先端分析手法の開発や共同研究を行い、新たな価値創造へのきっかけを世界中へ発信している",
+    "url": "https://www.shimadzu.co.jp/aboutus/makaizo/dna/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様とのコミュニケーション誌「ぶーめらん」をはじめ、技術誌や情報誌の概要をご紹介しています",
+    "url": "https://www.shimadzu.co.jp/aboutus/media/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "持続的成長の実現と顧客･社会から",
+    "url": "https://www.shimadzu.co.jp/ir/individual/outline/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社島津製作所は、高精度かつ高い信頼性を備えた計測機器や医用機器を提供することで、多様な顧客の課題解決をサポートしています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜそうなったのかというと、同社は長年にわたる研究開発の積み重ねによって培った高度な技術を基盤とし、顧客のニーズをきめ細かく分析して製品設計を行ってきたからです",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "国内外の販売拠点やオンラインプラットフォームを通じて、世界中の顧客にアプローチしています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、顧客満足度を高めるだけでなく、新規顧客の獲得チャンスを広げることができます",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との関係",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜそうなったのかというと、製品が高度化すればするほど、ユーザーにとってはサポートの質が重要になるからです",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "同社はこの点を重視し、顧客との密接なコミュニケーションを継続することで、継続的な買い替え需要や追加導入の際にも選ばれる存在となっています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客セグメント",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "医療機関や研究機関、製造業の企業などが主な顧客となっています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "また、顧客の要望に応じてカスタマイズされた装置やソフトウェアを追加販売するケースもあります",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "まず、多様な顧客セグメントから寄せられる要望を、研究開発部門が素早く吸い上げます",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、顧客の課題解決につながる製品が次々と生まれ、市場で高い評価を獲得します",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "こうして生まれた新技術や新製品は再び顧客の関心を集め、さらなる売上増につながります",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、顧客から寄せられる課題をスピーディに解決することが同社の強みなので、今後も新しいソリューションやサービスが誕生するでしょう",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "分析パッケージ製品（Brevis GC-2050、PFAS向けFluoroSuiteなど）で顧客の分析を支援",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "マテリアル領域ではTescanの欧州顧客基盤を活用",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "ライフサイエンスでは当社顧客基盤で電子顕微鏡需要を取り込む",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "TMPは顧客カバー率向上により台湾を中心に大きく増加し前期比+29%、比率は25%（同+6ポイント）",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "マテリアル領域ではTescanの顧客基盤を活用",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "撮影業務フローの改善・効率化・医療者負担軽減を狙い、特にアジアで顧客開拓を推進",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客のワークフロー効率化・変革を狙い、環境・GX市場に広く価値提供",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "材料開発・計量・表面観察・分析・評価まで多面的に顧客を支援",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "TMPでは欧州・台湾へのサービス拠点追加、京都・秦野の製造拠点増強、新拠点探索により顧客密着型事業スタイルを強化",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "TMPは日本・中国・台湾・韓国で顧客カバー率向上により増加",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "日本・中国・台湾・韓国で顧客カバー率向上により増加",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "TMPは日本、中国、台湾、韓国で顧客カバー率向上により増加",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "各地域で動きのある市場・顧客にソリューション提供と新製品拡販を展開",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "TMPは日本・中国・台湾で顧客カバー率向上により増加",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "研究開発や品質管理など用途が多岐にわたり、対象顧客も幅広いですが、市場の約50%を占めるヘルスケア領域は安定して中長期の成長が見込めます",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様のワークフローに対応するためには、幅広い製品ラインナップが必要です",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "計測機器事業は、トータルソリューション提供企業として、お客様の必要な「データ」を提供することを目指しています",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "今後は、AI機能の搭載による顧客業務の効率化、超臨界流体クロマトグラフ（SFC）をドアオープナーとしてメガファーマでのプレゼンス拡大、自国生産ニーズへの対応（例：2027年よりインド新工場が稼働予定）、自動化ニーズへの対応（例：外部装置との接続ソフトウェア）などを通じて、更なる業績拡大を目指します",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "国内外のパートナーやKOLとの協業を活発化し、先端ニーズ・技術の獲得を通したシステム・アプリケーション開発を行い、キーアカウント顧客への展開を図ります",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "注目製品＆トピックス",
+    "url": "https://www.shimadzu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "分野別ソリューション 「MESSE SHIMADZU」",
+    "url": "https://www.shimadzu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "計測用X線CTシステム「XDimensus 300」向けJCSS校正サービスを開始",
+    "url": "https://www.shimadzu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社製品「Nexera IC」と「Nexis GC-2060」がグッドデザイン賞を受賞",
+    "url": "https://www.shimadzu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "豪病院で中央検査室向け質量分析ソリューションの開発・実証を開始",
+    "url": "https://www.shimadzu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報一覧へ",
+    "url": "https://www.shimadzu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "島津の提供するソリューション・ウェビナーを分野別に紹介",
+    "url": "https://www.shimadzu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちとお客様、パートナーとの関わり、島津の技術者の姿を通じて、島津の技術・製品がどのような社会課題を解決し、より良い社会に向けたイノベーションの創造に貢献しようとしているかをご紹介します",
+    "url": "https://www.shimadzu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "さまざまな分野の社外パートナーと共創・協働し、社会課題を解決するアイデア創出とソリューションの提供につなげています",
+    "url": "https://www.shimadzu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスを利用するすべての方に対して、",
+    "url": "https://www.shimadzu.co.jp/aboutus/brand/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの製品・サービスは、",
+    "url": "https://www.shimadzu.co.jp/aboutus/brand/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様がさまざまな新製品を開発するために、",
+    "url": "https://www.shimadzu.co.jp/aboutus/brand/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "これからもさらに優れた技術・製品・",
+    "url": "https://www.shimadzu.co.jp/aboutus/brand/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービスを提供できるよう、",
+    "url": "https://www.shimadzu.co.jp/aboutus/brand/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "島津製作所に残る、最古の製品カタログといわれる",
+    "url": "https://www.shimadzu.co.jp/aboutus/makaizo/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、創業時より受け継ぐ従業員の健康増進への思いと共に最先端の科学技術とサービスの提供を通じて、従業員と社会全体の健康づくりと事業の発展を推進します",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/actpln.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、長期的かつグローバルな視野に立ち、独創的な技術の開発により社会が真に求める製品・サービスを、優れた品質と適正な価格で適時に世界中へと提供し、事業を通じて社会に貢献します",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/actpln.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、社会が真に求める製品・サービスの提供に努めるとともに、持続可能な経済成長に貢献し、また、社会課題の解決に積極的に取り組みます",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/actpln.html",
+    "pass": 1
+   },
+   {
+    "quote": "．信頼される製品・サービスの提供",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/actpln.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、安心・安全でお客様に信頼される製品・サービスの提供を第一に考え行動します",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/actpln.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、科学技術に真摯に向き合い、研究開発からサービスに至るまで、常に公正・誠実に、責任を持って判断・行動します",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/actpln.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社の４つの事業について、主要製品の説明や事業紹介動画を掲載しています",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "「人の健康」「安心・安全な社会」「産業の発展」の事業領域で、世界中のパートナーとともに革新的な製品・サービスを創出し、より豊かな社会の構築に貢献します",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "分析計測機器 製品情報",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "医用画像診断機器 製品情報",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "真空機器/産業機械/海洋関連機器 製品情報",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "油圧機器 製品情報",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空機器 製品情報",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "光学素子/分光機器/屈折計 製品情報",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "アメリカの分析機器メンテナンス・サービス会社 Zef Scientific Inc.社を買収",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "メンテナンスサービス",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/sub.html",
+    "pass": 1
+   },
+   {
+    "quote": "各種サービス他",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/sub.html",
+    "pass": 1
+   },
+   {
+    "quote": "教育用理化学器械・各種顕微鏡・実験台・ドラフトチャンバー等環境設備機器の製造及び販売、大学の改組転換へのプロジェクト事業展開、海外のプラント施設内のラボ作り、日系企業の海外進出支援、政府開発援助（ODA）を通じた分析計測機器・医用機器などの販売、特長ある海外製品の輸入販売、大学・研究所内精密機器の移設業務",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/sub.html",
+    "pass": 1
+   },
+   {
+    "quote": "分析機器・試験検査機器・計量器・環境計測機器・その他の理化学機器・医療用機器および応用システム製品の据付、調整、修理、保守管理、整備点検、校正、資産管理などのサービス業務",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/sub.html",
+    "pass": 1
+   },
+   {
+    "quote": "島津航空機器サービス株式会社",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/sub.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年4月1日付けで、島津航空機器サービス株式会社は、島津エアロテック株式会社に統合されました",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/sub.html",
+    "pass": 1
+   },
+   {
+    "quote": "島津システムソリューションズ株式会社",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/sub.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療情報・物流管理・薬品管理・自動分析前処理装置などの独自製品の開発・製造・販売",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/sub.html",
+    "pass": 1
+   },
+   {
+    "quote": "取扱説明書、サービスマニュアル、IQOQなど技術資料制作業務",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/sub.html",
+    "pass": 1
+   },
+   {
+    "quote": "島津製作所製 真空機器、液送機器、油圧機器、装置機器などの製品の販売",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/sub.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社製品真空機器、制御機器、装置機器の保守・サービス",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/sub.html",
+    "pass": 1
+   },
+   {
+    "quote": "回折格子、レンズ・ミラー、コーティング製品、分光器、レーザ、分析機器用検出器等の製造、カルニューブランド（™）の精密屈折計、顕微鏡、理化学器械、観察光学ユニット等の設計・製造",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/sub.html",
+    "pass": 1
+   },
+   {
+    "quote": "分析計測機器・試験機用恒温槽の製造、精密機器・メカトロ機器・特殊製品の生産準備・生産支援および委託生産",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/sub.html",
+    "pass": 1
+   },
+   {
+    "quote": "フライトコントロールシステム向け機器、アクチュエータ、ギヤ関連製品など民間航空機用装備品の製造",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/sub.html",
+    "pass": 1
+   },
+   {
+    "quote": "各種サービス・その他",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/sub.html",
+    "pass": 1
+   },
+   {
+    "quote": "島津ロジスティクスサービス株式会社",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/sub.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社島津総合サービス",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/sub.html",
+    "pass": 1
+   },
+   {
+    "quote": "Ｓ津製作所の製品",
+    "url": "https://www.shimadzu.co.jp/aboutus/makaizo/first-night/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "医用機器事業部 技術部ソリューション開発ユニット クラウドソリューショングループ",
+    "url": "https://www.shimadzu.co.jp/aboutus/makaizo/dinosaur-member/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "分析計測事業部 NDIビジネスユニット 製品開発グループ",
+    "url": "https://www.shimadzu.co.jp/aboutus/makaizo/umbrella-member/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "基盤技術研究所 AIソリューションユニット解析グループ",
+    "url": "https://www.shimadzu.co.jp/aboutus/makaizo/umbrella-member/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "分析計測事業部 SolutionsCOEマテリアルインフラストラクチャーソリューションユニット",
+    "url": "https://www.shimadzu.co.jp/aboutus/makaizo/umbrella-member/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社最古の製品カタログといわれる「理化器械目録表」が発行されたのは、1882年のこと",
+    "url": "https://www.shimadzu.co.jp/aboutus/makaizo/dna/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "国産の製品が少ない中、輸入用の見本や図版を参考に開発・製造を行った",
+    "url": "https://www.shimadzu.co.jp/aboutus/makaizo/dna/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品開発に従事する技術者がさまざまな分野の社外パートナーと「問い」を投げかけ合い、試行錯誤を繰り返すことで、社会課題を解決する新たなアイデアの創出とソリューションの提供に繋げている",
+    "url": "https://www.shimadzu.co.jp/aboutus/makaizo/dna/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "新しい価値の創造と社会課題の解決を目指す共創空間として、次世代の製品を生みだす技術研究を行う基盤技術研究所を開設",
+    "url": "https://www.shimadzu.co.jp/aboutus/makaizo/dna/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社の概要や歴史、製品、サステナビリティ、中期経営計画などをまとめたWebコンテンツです",
+    "url": "https://www.shimadzu.co.jp/aboutus/media/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス & サポート",
+    "url": "https://www.shimadzu.co.jp/ir/individual/outline/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "暮らしの中で活躍する島津製品",
+    "url": "https://www.shimadzu.co.jp/ir/individual/outline/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社の概要や歴史、製品、サステナビリティ、中期経営計画などをコンパクトにまとめたWebコンテンツです",
+    "url": "https://www.shimadzu.co.jp/ir/individual/outline/index.html",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "お客様、パートナーとの取り組みを紹介 「Stories of Excellence」",
+    "url": "https://www.shimadzu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "社外研究パートナー公募制度「SHIMADZUみらい共創チャレンジ」の公募開始",
+    "url": "https://www.shimadzu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "島津の提供するソリューション・ウェビナーを分野別に紹介",
+    "url": "https://www.shimadzu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちとお客様、パートナーとの関わり、島津の技術者の姿を通じて、島津の技術・製品がどのような社会課題を解決し、より良い社会に向けたイノベーションの創造に貢献しようとしているかをご紹介します",
+    "url": "https://www.shimadzu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "世界の研究者と当社が共に取り組むアドバンスト・ヘルスケア研究開発の事例と技術をご紹介しています",
+    "url": "https://www.shimadzu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "さまざまな分野の社外パートナーと共創・協働し、社会課題を解決するアイデア創出とソリューションの提供につなげています",
+    "url": "https://www.shimadzu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様、パートナーとの取り組みを紹介 「Stories of Excellence」",
+    "url": "https://www.shimadzu.co.jp/aboutus/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "持続可能な地球、未来のために、環境課題の解決に向けた取り組みを紹介しています",
+    "url": "https://www.shimadzu.co.jp/aboutus/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "運動、食事、睡眠、こころ、禁煙に関する健康への当社の取り組みを紹介しています",
+    "url": "https://www.shimadzu.co.jp/aboutus/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社の４つの事業について、主要製品の説明や事業紹介動画を掲載しています",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "「人の健康」「安心・安全な社会」「産業の発展」の事業領域で、世界中のパートナーとともに革新的な製品・サービスを創出し、より豊かな社会の構築に貢献します",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品開発に従事する技術者がさまざまな分野の社外パートナーと「問い」を投げかけ合い、試行錯誤を繰り返すことで、社会課題を解決する新たなアイデアの創出とソリューションの提供に繋げている",
+    "url": "https://www.shimadzu.co.jp/aboutus/makaizo/dna/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介動画",
+    "url": "https://www.shimadzu.co.jp/aboutus/media/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "島津製作所 事業紹介（2024）（6:01）",
+    "url": "https://www.shimadzu.co.jp/aboutus/media/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様とのコミュニケーション誌「ぶーめらん」をはじめ、技術誌や情報誌の概要をご紹介しています",
+    "url": "https://www.shimadzu.co.jp/aboutus/media/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "当時の新進気鋭の学者による新知識、高邁な学術論とともに、実用に則した科学技術が紹介されている",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/history-detail/1875_1893.html",
+    "pass": 1
+   },
+   {
+    "quote": "大阪仮出張所（1906東京出張所・1909九州販売店）を開設",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/history-detail/1894_1916.html",
+    "pass": 1
+   },
+   {
+    "quote": "島津製作所の製品を扱う代理店例",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "から発注の航空機器事業部の業務において、水増し請求が発覚し、指名停止となる",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "の修理において、仕様と異なる部品を取り付ける不正が発覚し、指名停止となる",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "は3か月半の指名停止にした",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "防衛省が島津製作所を指名停止に 水増し請求で、詳細は調査中",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "府立体育館ネーミングライツパートナーで京都府と合意 愛称は『島津アリーナ京都』に決定",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "「島津製作所」の代理店93社 | メトリー",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "“防衛装備庁、島津製作所を指名停止 中古品で不適切修理”",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "SDGパートナーズ",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "特に主力である分析計測事業では、液体クロマトグラフや質量分析計などの高品質な製品を世界中の研究機関や企業に提供しており、ヘルスケア、地球環境、先進材料など幅広い分野において高い技術力とグローバルな販売網を強みに強固な地位を確立しています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "大学や研究機関、医療機関、そして半導体関連企業など、多岐にわたるパートナーとの連携を進めています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "また、パートナーシップにより、幅広い分野の専門知識や技術を取り込みやすくなり、最先端の製品をいち早く市場に投入することが可能になります",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "特に海外市場では、現地法人を設立したり代理店を活用したりすることで、ローカルのニーズに対応した営業活動を行います",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "また、オンラインによる製品紹介やサポートを強化することで、時差や距離の壁を越えた迅速な対応を実現しています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "本日の構成として、中期経営計画の方針、ライフサイエンス市場での事業拡大、半導体市場での事業拡大、新製品紹介の4部構成であることを示す",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーシップ・提携",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "4.新製品紹介",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "新製品として、超高速液体クロマトグラフNexera X4（分析時間1/3、溶媒使用量1/9）、イオンクロマトグラフNexera IC、AIメソッド検索・生成サービスMethod intelligence for LC、ガスクロマトグラフNexis GC-2060、GCMS-TQ8040/8050RXシリーズ、超純水用オンラインTOC計TOC-1000e Sなどを紹介",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "両社の補完性を活かし、短期的には製造効率化によるコストシナジー、アジア販売網での拡販、長期的には技術統合による新製品開発",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "11月決算発表以降にリリースした製品として、オンラインTOC計「TOC-1000e S」（半導体市場向け）とイオンクロマトグラフ（水質分析市場向け）を紹介",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "トピックスとしてTescan買収と新製品上市の状況を紹介",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年4月から8月に発売した新製品を紹介",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "社会価値創生領域であるヘルスケア、GX・マテリアルを中心に、世界のパートナーとの関係を強化し、サステナブルな社会を共創します",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "国内外のパートナーやKOLとの協業を活発化し、先端ニーズ・技術の獲得を通したシステム・アプリケーション開発を行い、キーアカウント顧客への展開を図ります",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "消耗品では、カラム・充填剤メーカーとのパートナー戦略によるラインナップ拡充や、培養最適化システムと組み合わせた培地の拡販を進めます",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "北米R&Dセンターにて、製薬・臨床市場のパートナーと協業し、高付加価値製品の開発に取り組んでいます",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "北米3拠点にR&Dセンターを開設（2024年5月）し、製薬・臨床検査市場のパートナーとの共同開発を強化しています",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "4.新製品紹介 高速液体クロマトグラフ質量分析システム LCMS-8065XE",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "4.新製品紹介 一体型液体クロマトグラフ i-Series LC-2070/2080",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "4.新製品紹介 液体クロマトグラフ オプションソフトウェア",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "4.新製品紹介 新型ガスサンプリングモジュール搭載 ガスクロマトグラフ FluxEdge GC Systems",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "4.新製品紹介 卓上型精密万能試験機 オートグラフAGS-Vシリーズ",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "4.新製品紹介 高速度ビデオカメラ HyperVision HPV-X3",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "臨床ではOEMパートナー7社と協業しLCMSプラットフォーム構築",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "ヘルスケアとグリーン領域の新製品を紹介",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "医用は北米で代理店買収により増加",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "東北大学との超硫黄生命科学共創研究所設置、フィリピン高等化学研究所との食品安全・環境分析の共同研究など、産学連携による革新的技術・製品の開発と社会実装への取り組みを紹介",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "新製品（計測）、新製品・ニュース（医用）の紹介",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "新製品の紹介",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年10月30日",
+    "url": "https://www.shimadzu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月29日",
+    "url": "https://www.shimadzu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月27日",
+    "url": "https://www.shimadzu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月26日",
+    "url": "https://www.shimadzu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月21日",
+    "url": "https://www.shimadzu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月20日",
+    "url": "https://www.shimadzu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月15日",
+    "url": "https://www.shimadzu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月9日",
+    "url": "https://www.shimadzu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1992年に経営理念を制定しました",
+    "url": "https://www.shimadzu.co.jp/aboutus/brand/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "[SHIMADZU] 会社案内 - 沿革 | 島津製作所について | 島津製作所",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年4月1日付けで、島津サイエンス東日本株式会社と島津サイエンス西日本株式会社は、島津サイエンス株式会社に統合されました",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/sub.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年4月1日付けで、島津航空機器サービス株式会社は、島津エアロテック株式会社に統合されました",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/sub.html",
+    "pass": 1
+   },
+   {
+    "quote": "1995年入社",
+    "url": "https://www.shimadzu.co.jp/aboutus/makaizo/interview/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2001年、私は入社6年目のエンジニアでした",
+    "url": "https://www.shimadzu.co.jp/aboutus/makaizo/interview/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年に始まり、今なお多くの感染者をだす新型コロナウイルス",
+    "url": "https://www.shimadzu.co.jp/aboutus/makaizo/dna/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年度 募集要項",
+    "url": "https://www.shimadzu.co.jp/aboutus/recruit/graduate/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革：1875-1893 | 島津製作所",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/history-detail/1875_1893.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革：1875-1893",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/history-detail/1875_1893.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革トップに戻る",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/history-detail/1875_1893.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革：1894-1916 | 島津製作所",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/history-detail/1894_1916.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革：1894-1916",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/history-detail/1894_1916.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革トップに戻る",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/history-detail/1894_1916.html",
+    "pass": 1
+   },
+   {
+    "quote": "1949年5月16日上場",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "2013年 -",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "2017年9月、島津製作所の子会社「島津メディカルシステムズ」の社員が",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月30日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "2025年5月7日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "2024年11月19日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "2022年8月18日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "2022年8月26日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "2023年2月26日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "1949年上場の企業",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "1917年設立の企業",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "2022年度の配当金は年間で50円（中間22円、期末28円）と、安定した株主還元を行っています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年3月31日時点での株価は4,140円ほどで、時価総額は1兆2,257億円を超えており、日本の精密機器セクターを代表する企業の一つです",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年2月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年8月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年7月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年5月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年4月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年2月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年1月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年版",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年版（FY2026 Q2）",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年版（FY2026 Q3）",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年版",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年版",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "分析機器・試験検査機器・計量器・環境計測機器・その他の理化学機器・医療用機器および応用システム製品の据付、調整、修理、保守管理、整備点検、校正、資産管理などのサービス業務",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/sub.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器および関連機器の販売及び据付、修理、保守点検、部品販売",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/sub.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社製品真空機器、制御機器、装置機器の保守・サービス",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/sub.html",
+    "pass": 1
+   },
+   {
+    "quote": "各チームのサポート、アクチュエータの保守",
+    "url": "https://www.shimadzu.co.jp/aboutus/makaizo/umbrella-member/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "を保守点検の際に設置し、後日実際には故障していないにもかかわらず、",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "島津製作所の子会社 X線撮影装置の保守点検で不適切行為か",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "収益源は製品販売だけでなく、保守サービスや関連ソリューションの提供にも及びます",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "コア事業拡大（ライフサイエンス、クリニカル、リカーリング）、成長市場での事業拡大（半導体）、海外事業拡大（北米、インド）に注力",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "リカーリング事業では消耗品・サービスの拡充、LabTotal事業、精製事業に取り組む",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "リカーリング売上高は374億円（+7%）、比率41%（+1pt）で過去最高",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "リカーリング売上高は69億円（+6%）、比率37%（▲3pt）",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "TMPリカーリング売上高は25億円（+31%）、比率25%（+3pt）",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益は増収とリカーリング拡大で35億円（+35%）、営業利益率18.5%（+3.7pt）",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "リカーリング比率",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "リカーリング売上高（部品・サービス）は、計測機器が北米・欧州で部品・サービスとも増加し前期比+5%（為替影響除く）、リカーリング比率は41%（前年同期比+3ポイント）",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "リカーリング売上高は+7%で比率は41%",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "リカーリング売上高は+6%で比率37%",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "TMPリカーリング売上高は+31%と大きく伸長",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益は増収とリカーリング拡大で増益",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "計測、医用、TMPのリカーリング売上高と比率",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "リカーリング売上高は1,425億円（+7%）、比率39%（+1pt）",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "リカーリング売上高は279億円（+3%）、比率38%（+1pt）",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "今後は不採算機種の見直しとリカーリング強化で利益率改善を図る",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "TMPリカーリング売上高は92億円（+42%）、比率24%（+4pt）",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "臨床検査用LCMSシステム、サブスクリプションサービス、多検体処理用LCMSシステムNexera QX、LCMS用免疫抑制剤分析キットDOSIMMUNE（欧州IVDRクラスC認証）、全自動前処理装置CLAM-2030CL、微生物同定ソフトウェアMicrobialTrack（8万5千種データベース）等を展開",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "販売だけでなく保守・サービスも含めた提案を強化",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "新製品を核としたソリューション展開、リカーリング売上高の拡大（サービスでは高付加価値商品拡充、Zef社との連携によるマルチベンダーサービス提案力向上、試験機の海外校正ビジネス拡大、試薬・消耗品ではASEAN地域でワイエムシィ社の消耗品OEM販売開始）、収益性改善（自動化による製造コストダウン、管理可能経費のコントロール）を推進",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "リカーリング比率（1-3月）",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "計測・医用・TMPの各セグメントのリカーリング売上高前期比とリカーリング比率を示す",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "TMPリカーリング売上高は92億円、比率24%（+4pt）",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "計測は中東情勢悪化（売上▲60億円、利益▲25億円）も新製品拡販と好調市場深耕、リカーリング拡大で増収増益",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "産業は中東情勢悪化（売上▲35億円、利益▲15億円）も半導体向けTMPの拡販とリカーリング強化に努める",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E7%94%B0%E8%BC%9D%E4%B9%85",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "今回魔改造の夜に参加したみなさんは実感されたと思いますが、どんな立場の人であっても、それができるのが島津の強みです",
+    "url": "https://www.shimadzu.co.jp/aboutus/makaizo/interview/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "特に主力である分析計測事業では、液体クロマトグラフや質量分析計などの高品質な製品を世界中の研究機関や企業に提供しており、ヘルスケア、地球環境、先進材料など幅広い分野において高い技術力とグローバルな販売網を強みに強固な地位を確立しています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "また、自社の強みを最大限に活かすため、研究開発と製造を密接に結びつけ、フィードバックを素早く次世代製品に反映できる仕組みを築いています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、顧客から寄せられる課題をスピーディに解決することが同社の強みなので、今後も新しいソリューションやサービスが誕生するでしょう",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益は1%増の136億円、営業利益率は13.7%と1.1pt改善",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高973億円（前年同期比+47億円、+5%）、営業利益131億円（+30億円、+30%）、営業利益率13.4%（+2.6pt）",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高628億円（+6%）、営業利益113億円（+19%）、営業利益率17.9%（+1.8pt）",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "重点機種・その他ともに増収で、売上高・営業利益・営業利益率いずれも第3四半期の過去最高を更新",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高157億円（+2%）、営業利益9億円（前期▲1億円から+10億円）、営業利益率5.7%（+6.5pt）",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高117億円（+9%）、営業利益11億円（+13%）、営業利益率9.7%（+0.3pt）",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高60億円（▲2%）、営業利益▲0億円（前期1億円）、営業利益率▲0.7%（▲2.7pt）",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益及び営業利益率は過去最高を更新",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "9か月累計の売上高2,761億円（▲1%）、営業利益327億円（+17%）、営業利益率11.9%（+1.8pt）",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "計測は売上高1,726億円（+0%）、営業利益284億円（+13%）、営業利益率16.5%（+1.9pt）",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "医用は売上高464億円（▲8%）、営業利益20億円（+56%）、営業利益率4.3%（+1.8pt）",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "産業は売上高323億円（+7%）、営業利益29億円（+33%）、営業利益率8.8%（+1.8pt）",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "航空は売上高220億円（+3%）、営業利益4億円（▲13%）、営業利益率1.7%（▲0.3pt）",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "その他は売上高29億円（▲40%）、営業利益6億円（▲34%）、営業利益率13.3%（▲0.1pt）",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高1,424億円（+7%）、営業利益187億円（+11%）、営業利益率13.1%（+0.5pt）、経常利益216億円（+4%）、親会社株主に帰属する当期純利益155億円（+4%）",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率13.3%（▲1.1pt）",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益は増収とリカーリング拡大で35億円（+35%）、営業利益率18.5%（+3.7pt）",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益は増収とプロダクトミックス良化で24億円（+43%）、営業利益率20.0%（+3.2pt）",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率は12.6%と0.4ポイント改善",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "計測機器の地域別売上高は、為替影響を除くベースで、日本は+3%（再生エネルギー・リサイクル・半導体材料などの化学市場や食品市場向けに重点機種が増加）、北米は+10%（重点機種に加え試験機が増加）、欧州は+17%（重点機種が好調）、中国は+1%（前年比で改善）、その他アジアは+0%（インドは在庫調整で停滞）",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "各セグメントの売上高、営業利益、営業利益率を前年同期比で表示",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "インドは在庫調整で停滞",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率は13.1%と前期比0.2ポイント低下",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "営業面では増収による粗利増加+96億円、付加価値訴求など+77億円で+173億円",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率は19.0%と高いが特殊要因もあり、今後は平準化した前提で見る",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "株式会社島津製作所のビジネスモデルで読み解く成長戦略 | チームマイクの企業分析",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社島津製作所のビジネスモデルで読み解く成長戦略",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、一度の取引だけで終わらず、長い期間をかけて安定的な収益を確保するビジネスモデルを確立しています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "東京計器株式会社のビジネスモデルと成長戦略がまるわかり",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "急成長を遂げるリガク・ホールディングスのビジネスモデルを徹底解明 IR資料をもとに成長戦略を読み解く",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "愛知時計電機の成長戦略 持続的なビジネスモデルの魅力",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社長野計器が切り開く成長戦略 ビジネスモデルの魅力に迫る",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "朝日インテックの魅力に迫るビジネスモデルと最新情報",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "ノーリツ鋼機のビジネスモデルに迫る 成長戦略が光る注目企業",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社助川電気工業の成長戦略に迫る 変化するエネルギー産業でビジネスモデルを磨く",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ドライケミカル株式会社の『ビジネスモデル』と圧倒的競争力を解",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社動力のIR資料から紐解く次世代へのビジネスモデルと成長戦略",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ガイシの驚異的なビジネスモデルと次世代へ向けた成長戦略を徹底解説",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "マーチャント・バンカーズの隠された成長戦略と驚異のビジネスモデル",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "未達成事項として、LCの低分子以外の製薬分野での事業拡大、MSのアプリ・ソフト投入と従量課金ビジネスモデルの構築、迅速な開発の実現、地政学リスクに対応した製造体制、棚卸の最適化、ガバナンス強化（コンプライアンス事案の発生防止）が挙げられる",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "アプリケーション開発（Solutions COE）では、Shimadzu Tokyo Innovation Plazaを拠点としたマーケットインによるソリューションの提供、社会実装に向け産業界のパートナーとの連携を強化しビジネスモデルへ発展させる",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "目指すビジネスモデルは、日水製薬とのシナジーにより消耗品(試薬)を含めた臨床検査システムの開発及びリカーリング事業を拡大することである",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "目指すビジネスモデルとして、診断・治療、薬剤感受性評価、観察・同定、培養、分離・濃縮といった各工程に対応する製品を提供する",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "目指すビジネスモデルとして、研究開発、臨床応用、培地分析、画像解析、カスタム培地、安全性検査キット、LCMS、培養条件AI最適化、Cell Pocket、否定試験（マイコプラズマ、ウイルス、微生物）、発熱性物質試験、製品残留物質試験（抗生物質、分化誘導因子、消泡剤、界面活性剤等）などを提供する",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "リカーリング事業の強化では、消耗品ラインアップ強化、新たなサービスパッケージ、課金型の新たなビジネスモデルを構築",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "顧客セグメント",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "まず、多様な顧客セグメントから寄せられる要望を、研究開発部門が素早く吸い上げます",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "pass": 3
+   },
+   {
+    "quote": "新市場・新セグメント参入",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "第2四半期（7-9月）セグメント別損益",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "事業セグメント",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "資料の構成は、①第3四半期業績概要、②第3四半期セグメント別業績、③通期業績予想、④補足資料",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "要因は、為替影響▲4億円、増収影響+30億円、採算性向上+2億円（セグメントミックスの改善）、費用減+8億円（経費削減の推進、営業活動の制限による費用減）、収益認識基準変更▲6億円",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別損益（第3四半期）",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別の市況見通し：計測のヘルスケアは◎（新型コロナウイルス検出試薬キット及びPCR検査装置の需要拡大、ウイルス研究用・検査用に質量分析計等の拡大、中国で薬典改正による需要が継続）、大学・官公庁は〇（ウイルス研究用に質量分析等の需要拡大、国内での補正予算による需要拡大）、産業関連は△（素材や電機等での設備投資の回復傾向）",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "通期セグメント別業績予想",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別損益（9か月）",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "計測機器の市場別売上高構成比はヘルスケア34%、産業関連19%、大学・官公庁18%、その他29%",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別では計測は増収減益、医用・産業・航空は増収増益",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別損益",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別の業績概要",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "計測機器セグメントの詳細",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "医用機器セグメントの詳細",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "産業機器セグメントの詳細",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "航空機器セグメントの詳細",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度通期セグメント別業績予想",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別の通期業績予想",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別損益（4-12月）",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別の業績は、計測機器が売上高2,599億円（+5%）、営業利益356億円（+5%）と堅調",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "計測機器/各種売上高構成比率（4-12月）",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "計測機器の売上構成は、地域別では日本35%、北米12%、欧州13%、中国20%、その他アジア（インド除く）9%、インド6%、その他6%",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "第3四半期（10-12月）の計測機器の市場別売上高構成比は、ヘルスケア34%（前年同期比▲3%）、産業関連（グリーン、マテリアル）19%（同+0%）、官公庁・大学20%（同+14%）、その他27%",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "医用機器/各種売上高構成比率（4-12月）",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "島津製作所 - Wikipedia — 島津製作所 ... 株式会社島津製作所 （しまづせいさくしょ、 英: Shimadzu Corporation[注釈 1]）は、 京都府 京都市 中京区 に本社を置く、精密機器、計測器、医療機器、航空機器を製造する企業である。 JPX日経インデックス400 の構成銘柄の一つ [2]。",
+    "url": "https://ja.wikipedia.org/wiki/島津製作所",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社島津製作所のビジネスモデルで読み解く成長戦略 | チームマイ... — Nov 4, 2025 · 企業概要と最近の業績 株式会社島津製作所 【全体の業績】 株式会社島津製作所は、分析・計測機器、医用機器、航空機器、産業機器などを開発・製造・販売する大手精密機器メーカーです。特に主力である分析計測事業では、液体クロマトグラフや質量分析計などの高品質な製品を世界中の ...",
+    "url": "https://consovation.com/株式会社島津製作所のビジネスモデルで読み解く/",
+    "pass": 3
+   },
+   {
+    "quote": "【経営】島津製作所、2026～2028年度の新中期経営計画策定。売上高680... — Jul 8, 2026 · 島津製作所 は2026年度からの3カ年にわたる中期経営計画を策定した。基本方針として「世界のパートナーと共に社会課題を解決するイノベーティブカンパニーへ～トータルソリューション提供力の強化による収益力の持続的向上～」を掲げ、カスタマーイン*へのビジネス変革を推進する。最終 ...",
+    "url": "https://www.ctiweb.co.jp/2026/06/05/【経営】島津製作所、2026～2028年度の新中期経営計画/",
+    "pass": 3
+   },
+   {
+    "quote": "島津製作所｜高度な分析技術を核とした多角的な事業展開とリカーリン... — Jun 30, 2026 · 島津製作所（7701）の2026年Q2決算レポート。計測・医用・産業・航空の4領域で強固な基盤を持ち、AIや自動化による高付加価値化と継続的な収益モデルへの転換を進めています。売上・利益・PER・PBRとリスク・競合を平易に解説。",
+    "url": "https://stock-insights.net/articles/7701-snapshot-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "島津製作所｜高度な分析技術を核とした多角的な事業展開とリカーリン... — Aug 15, 2026 · 島津製作所（7701）の2026年Q3決算レポート。計測・医用・産業・航空の4領域で強固な基盤を持ち、AIやロボティクスを統合したソリューション提供と継続的な収益基盤の拡大を推進してい…売上・利益・PER・PBRとリスク・競合を平易に解説。",
+    "url": "https://stock-insights.net/articles/7701-snapshot-2026q3",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 島津製作所 決算説明資料 — EDINET DB — 株式会社 島津製作所の決算説明資料を、AIで構造化されたセクション単位で表示。経営戦略・業績・ガバナンスなどテーマ ...",
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "島津製作所（7701）のIR情報・決算資料 | IRBANK — Feb 26, 2026 · 島津製作所（7701）のIR情報・適時開示一覧。決算発表、業績修正などの開示情報を掲載。",
+    "url": "https://irbank.net/7701/ir",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 島津製作所 IR資料 — EDINET DB — Jun 28, 2026 · EDINET DB > 企業一覧 > 株式会社 島津製作所 > IR資料 株式会社 島津製作所 — IR資料 統合報告書・中期経営計画・決算説明資料などのIR資料を、AIがセクション単位で構造化したデータです。 本文の検索・テーマタグでの絞り込みが可能です。",
+    "url": "https://edinetdb.jp/company/E02265/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "[SHIMADZU] 決算短信／決算説明会資料 | IR資料室 | 島津製作所 — 四半期ごとの決算短信および決算説明会資料をご覧いただけます。",
+    "url": "https://www.shimadzu.co.jp/ir/library/finance.html",
+    "pass": 3
+   },
+   {
+    "quote": "[SHIMADZU] IR資料室 | 島津製作所 — 島津の「IR資料室」ページです。決算短信／決算説明会資料、中期経営計画資料／事業説明会資料、有価証券報告書／内部統制報告書、株主総会資料、株主通信、島津統合報告書、ファクトブックを掲載しています。ご覧ください。",
+    "url": "https://www.shimadzu.co.jp/ir/library/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "[SHIMADZU] 会社案内 - 会社概要 | 島津製作所について | 島津製作所島津製作所（7701）の事業内容、事業の状況や経営戦略、事業等のリス...島津製作所 - Wikipediaアプリケーション : 分析計測機器（分析装置） 島津製作所事業系統図 | MITホールディングスグループSHIMADZU CORPORATION — 取引先向けCoupa情報ページ 島津製作所を知る 島津製作所の歴史（Visionary） 島津製作所 創業記念資料館 刊行物 公益財団法人 島津科学技術振興財団 スポーツの振興 6）環境経営と健康経営 環境経営では、脱炭素社会の構築、サーキュラーエコノミーへの移行に向けて、島津製作所事業と環境・社会への貢献の両面から、CO2排出量の削減、サステナブル素材の製品への採用、森づくり活動・植樹活動などに取り組んでいます。 島津製作所 ... 株式会社島津製作所",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "島津製作所（7701）の事業内容、事業の状況や経営戦略、事業等のリス... — 6）環境経営と健康経営 環境経営では、脱炭素社会の構築、サーキュラーエコノミーへの移行に向けて、島津製作所事業と環境・社会への貢献の両面から、CO2排出量の削減、サステナブル素材の製品への採用、森づくり活動・植樹活動などに取り組んでいます。",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=7701",
+    "pass": 3
+   },
+   {
+    "quote": "[SHIMADZU] 会社案内 - 事業概要 | 島津製作所について | 島津製作所 — 当社の4つの事業について、主要製品の説明や事業紹介動画を掲載しています。「人の健康」「安心・安全な社会」「産業の発展」の事業領域で、分析機器、計測機器、医用機器、産業機器、航空機器などをグローバルに展開しています。",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "上田輝久 - Wikipedia — 山口県 岩国市 出身 [1]。 山口県立岩国高等学校 [2] 、 京都大学 工学部工業化学科を経て、 1982年 に 京都大学大学院工学研究科 を修了し、同年に 島津製作所 に入社 [1]。 2011年 6月に取締役に就任し、常務執行役員、専務執行役員を経て、 2015年 6月に社長に就任 [1][3]。 2022年 4月から会長に就任 ...",
+    "url": "https://ja.wikipedia.org/wiki/上田輝久",
+    "pass": 3
+   },
+   {
+    "quote": "社員インタビュー | SHIMADZU×Diversity | 島津製作所 — 社員インタビューのご紹介。人は、一人として同じ人はいません。その違いを認め合うことが、大きな力になる、と私たちは考えます。島津で出会ったさまざまな人。その物語に、耳を傾けます。",
+    "url": "https://www.shimadzu.co.jp/diversity/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "[SHIMADZU] 会社案内 - 社長挨拶 | 島津製作所について | 島津製作所 — 島津製作所は「科学技術で社会に貢献する」を社是とし、創業以来150年以上にわたり事業を展開してまいりました。当社が提供する分析・計測機器や産業機器、航空関連機器は、多くの産業分野で広く採用いただき、お客様の事業を通して社会の安全、安心を守り、利便性を向上させる役割を ...",
+    "url": "https://www.shimadzu.co.jp/aboutus/company/message.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社島津製作所 上田輝久｜KENJA GLOBAL島津製作所 山本靖則、困難を乗り越え掴んだ「事業は人」の哲学とESG1...島津製作所 代表取締役社長 上田輝久氏｜野中郁次郎の経営の本質｜機...上田 輝久 氏【Leader's Voice】｜Leader's Voice｜グローバル人材育...上田輝久 - Wikipedia — 社長就任当初 私自身が一番にやるべきだと思ったのは、それまで関わってきた分析計測事業の部門、あるいは各事業部門、全社部門、さらには海外拠点、それらをできれば1年の間に回ろうということでした。 Dec 18, 2025 · 同号では2つのランキング、IPOランキング上位の11企業の経営者インタビューを一挙掲載している。 「ESGフィット度ランキング」で1位に輝いた島津製作所。 13代社長・山本靖則がたどり着いた信念と、将来世代に託すものとは。 Aug 10,",
+    "url": "https://www.kenja.tv/president/detwg3zb.html",
+    "pass": 3
+   },
+   {
+    "quote": "島津製作所 山本靖則、困難を乗り越え掴んだ「事業は人」の哲学とESG1... — Dec 18, 2025 · 同号では2つのランキング、IPOランキング上位の11企業の経営者インタビューを一挙掲載している。 「ESGフィット度ランキング」で1位に輝いた島津製作所。 13代社長・山本靖則がたどり着いた信念と、将来世代に託すものとは。",
+    "url": "https://forbesjapan.com/articles/detail/86948",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.shimadzu.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shimadzu.co.jp/aboutus/brand/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shimadzu.co.jp/products/aero/jair-lst.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shimadzu.co.jp/aboutus/makaizo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shimadzu.co.jp/aboutus/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shimadzu.co.jp/aboutus/company/message.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shimadzu.co.jp/aboutus/company/actpln.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shimadzu.co.jp/aboutus/company/profile.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shimadzu.co.jp/aboutus/company/business.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shimadzu.co.jp/aboutus/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shimadzu.co.jp/aboutus/company/access/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shimadzu.co.jp/aboutus/company/sub.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shimadzu.co.jp/products/aero/airmanagement.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shimadzu.co.jp/aboutus/makaizo/first-night/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shimadzu.co.jp/aboutus/makaizo/second-night/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shimadzu.co.jp/aboutus/makaizo/dinosaur-member/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shimadzu.co.jp/aboutus/makaizo/umbrella-member/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shimadzu.co.jp/aboutus/makaizo/interview/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shimadzu.co.jp/aboutus/makaizo/dna/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shimadzu.co.jp/aboutus/recruit/graduate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shimadzu.co.jp/aboutus/media/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shimadzu.co.jp/ir/individual/outline/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shimadzu.co.jp/aboutus/company/access/sanjo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shimadzu.co.jp/aboutus/company/history-detail/1875_1893.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shimadzu.co.jp/aboutus/company/history-detail/1894_1916.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.shimadzu.co.jp/aboutus/makaizo/img/brochure1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shimadzu.co.jp/sites/shimadzu.co.jp/files/about/brochure/corporateprofile2026s.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shimadzu.co.jp/sites/shimadzu.co.jp/files/about_top_renew/main-link/business.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.shimadzu.co.jp/sites/shimadzu.co.jp/files/aboutus/business_outline/analysis.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.shimadzu.co.jp/sites/shimadzu.co.jp/files/aboutus/business_outline/medical.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.shimadzu.co.jp/sites/shimadzu.co.jp/files/aboutus/business_outline/industry.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.shimadzu.co.jp/sites/shimadzu.co.jp/files/aboutus/business_outline/fluidics.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.shimadzu.co.jp/sites/shimadzu.co.jp/files/aboutus/business_outline/aircraft.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.shimadzu.co.jp/sites/shimadzu.co.jp/files/aboutus/business_outline/opt.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://edinetdb.jp/company/E02265/presentations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://irbank.net/7701/ir",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%B3%B6%E6%B4%A5%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E7%94%B0%E8%BC%9D%E4%B9%85",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "島津製作所",
+   "results": [
+    "https://ja.wikipedia.org/wiki/島津製作所",
+    "https://en.wikipedia.org/wiki/Shimadzu",
+    "https://www.shimadzu.co.jp/",
+    "https://www.shimadzu.co.jp/aboutus/company/profile.html",
+    "https://www.an.shimadzu.co.jp/",
+    "https://www.shimadzu.com/",
+    "https://www.shimadzu.com/products/index.html"
+   ]
+  },
+  {
+   "query": "島津製作所 ビジネスモデル",
+   "results": [
+    "https://ja.wikipedia.org/wiki/島津製作所",
+    "https://consovation.com/株式会社島津製作所のビジネスモデルで読み解く/",
+    "https://www.ctiweb.co.jp/2026/06/05/【経営】島津製作所、2026～2028年度の新中期経営計画/",
+    "https://stock-insights.net/articles/7701-snapshot-2026q2",
+    "https://stock-insights.net/articles/7701-snapshot-2026q3",
+    "https://www.shimadzu.co.jp/ir/strategy/middleplan.html",
+    "https://www.shimadzu.co.jp/ir/strategy/"
+   ]
+  },
+  {
+   "query": "島津製作所 決算説明資料",
+   "results": [
+    "https://edinetdb.jp/company/E02265/presentations/",
+    "https://irbank.net/7701/ir",
+    "https://edinetdb.jp/company/E02265/ir-docs/",
+    "https://www.shimadzu.co.jp/ir/library/finance.html",
+    "https://www.shimadzu.co.jp/ir/library/index.html",
+    "https://www.shimadzu.com/ir/library/finance.html",
+    "https://www.shimadzu.com/ir/"
+   ]
+  },
+  {
+   "query": "島津製作所 事業系統図",
+   "results": [
+    "https://ja.wikipedia.org/wiki/島津製作所",
+    "https://www.shimadzu.co.jp/aboutus/company/profile.html",
+    "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=7701",
+    "https://mit-hd.co.jp/ir-information/keito/",
+    "https://www.shimadzu.co.jp/aboutus/company/business.html",
+    "https://www.an.shimadzu.co.jp/apl/index.html",
+    "https://www.shimadzu.com/"
+   ]
+  },
+  {
+   "query": "島津製作所 社長 インタビュー",
+   "results": [
+    "https://ja.wikipedia.org/wiki/上田輝久",
+    "https://www.shimadzu.co.jp/diversity/interview/",
+    "https://www.shimadzu.co.jp/aboutus/company/message.html",
+    "https://www.kenja.tv/president/detwg3zb.html",
+    "https://forbesjapan.com/articles/detail/86948",
+    "https://www.works-i.com/works/series/management/detail002.html",
+    "https://www.iibc-global.org/ghrd/voice/16.html"
+   ]
+  }
+ ],
+ "missing": {}
+}

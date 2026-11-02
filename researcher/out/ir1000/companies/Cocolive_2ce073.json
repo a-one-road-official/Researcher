@@ -1,0 +1,1601 @@
+{
+ "name": "Ｃｏｃｏｌｉｖｅ",
+ "aliases": [],
+ "context": "証券コード137A／情報・通信業／グロース（内国株式）／2026.05期 売上高1,447百万円 営業利益率13.7%",
+ "researched_at": "2026-11-02T19:20:33.373300+00:00",
+ "official_url": "https://cocolive.co.jp/",
+ "identified_by": "search:yahoo_jp:株式会社Cocolive",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2017年1月",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "131名(2026年5月31日時点)",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "label": "社員数",
+    "value": "28 27 23 20 23 22 20 19",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "label": "社員数推移（単位",
+    "value": "人）",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "1,301,771 1,447,436 111.2%",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "1,447,436 100%",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "1,447,436 1,601,956 154,520 10.7%",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "label": "売上高（単位",
+    "value": "千円）",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業概要",
+    "value": "KASIKAを開発・提供",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "顧客・追客管理ツール",
+    "url": "https://cocolive.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客管理の強化",
+    "url": "https://cocolive.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "収益アップには徹底した顧客管理が必要です",
+    "url": "https://cocolive.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "KASIKAを活用いただくことで、顧客の進捗やパイプライン管理を強化できます",
+    "url": "https://cocolive.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "また、顧客のWEB上での活動履歴を見える化できるため、優先順位をつけた効率的な営業活用を実現いたします",
+    "url": "https://cocolive.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "反響後、アポ獲得ができていない顧客の追客活動を強化できます",
+    "url": "https://cocolive.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "日々、顧客リストが増えていく中ですべてを追客することは困難です",
+    "url": "https://cocolive.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客・追客管理を強化する際に直面するのが顧客情報の入力作業や追客メールの作成です",
+    "url": "https://cocolive.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "KASIKAは顧客情報の自動取り込み機能や、メルマガ自動作成・テンプレート機能を搭載しているため、今まで行っていた手作業を極限まで削減し、価値を生み出す業務への時間創出をいたします",
+    "url": "https://cocolive.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ニーズを捉えた接客でお客様一人ひとりに寄り添うコミュニケーションを実現",
+    "url": "https://cocolive.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「イベント予約機能」の導入で、イベント集客を中心とした中長期顧客の自動フォロー体制を構築！営業体制の効率化を実現！",
+    "url": "https://cocolive.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【月平均17件の予約を自動獲得！】膨大な反響対応の課題をクリアし、休眠顧客も掘り起こす「アンケート機能」活用法",
+    "url": "https://cocolive.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "来場率10%アップ！冊子を使って顧客をゴッソリ掘り起こす追客方法",
+    "url": "https://cocolive.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "今後も、住宅・不動産営業における追客の自動化と顧客管理の効率化を主軸に、これまで以上に企業価値の向上に努めてまいります",
+    "url": "https://cocolive.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "また、通信環境やお客様のコンピュータの状況、その他の理由により当ウェブサイトを正常に利用できない場合があります",
+    "url": "https://cocolive.co.jp/ir/disclaimer/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客の成功を最優先しよう",
+    "url": "https://cocolive.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客情報の管理を徹底しよう",
+    "url": "https://cocolive.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "なお、2026年5月末時点の顧客数は1,175社、単月解約率は1.29％で推移しています",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 当社では引き続き当社の有する顧客基盤（顧客数）を最大限に活かす取り組みを行っており、AI機能の強化も含め今後も継続して付加価値を高め、新しいオプションや、より導入しやすいツールへの開発を推進",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "*2：26年5月末時点、1つの法人で複数のKASIKAアカウントを利用している場合でも1社としてカウントなお、当社顧客の業種別の顧客数・MRRは現時点では非開示",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIを活用した、顧客一人ひとりに最適なメール文面の自動生成や、ホットリードの自動選別機能を強化",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "散在する物件情報を『一つの箱』に集約し、顧客ごとの資料出し分けを実現する機能",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "顧客側での間取り保存や家族・パートナー間での相談メモ共有を促すとともに、営業側は可視化された顧客の関心事や希望を事前に把握でき、的確で質の高いアプローチを可能に",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "※付加価値向上に伴い、ARPU（一顧客あたり平均売上）の拡大を目指します",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "物件規模によるコスト構造の違いや、地域ごとの市場環境に即した適正な価格設定へと見直すことで、お客様間の公平性を担保しつつ、高品質なサービスの継続提供と、当社事業の持続的な収益基盤の強化を図るものであります",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "追客・顧客管理の仕組み化",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "2 営業活動を可視化する顧客管理・分析",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "「AIレコメンド機能」は、KASIKAが蓄積する顧客の行動履歴（Webページ閲覧・訪問回数・P V数など）をAIが自動で分析し、今すぐアプローチすべき顧客をリスト化したうえで、その顧客に最適な追客文章をワンクリックで生成し、個別にアプローチできる機能です",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "詳細は、2026年3月27日付「<AIアシスタント機能群 第二弾> 顧客が喜ぶ追客",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "AIが追客を顧客ごとに最適化する全体フロー",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "導入初期からKASIKAの運用ができるように個別勉強会を開催し、導入後の顧客向けにKASIKA活用の勉強会や成功事例の勉強会を開催",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "各事業部のサクセス・サポート担当が顧客より一次情報を吸い上げ、社内共有する仕組みを整えることでプロダクト改善・開発に繋げる",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "2 顧客への提供",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "・1,000社超の顧客へのサービス提供",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "・顧客からの定期的なフィードバック",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "業種特化型SaaSと多数の顧客基盤を活かし、業界ノウハウの蓄積とKASIKAへの機能反映を通じて、顧客に継続的な価値を提供するポジショニングをしております",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "解約不可の期間は設けておらず、所定の手続をした月の末日で解約可能→当社顧客の心理的なハードルを低くすることを企図",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "*：分譲マンション事業者が販売する1物件（或いは顧客が「プロジェクト」と呼称をする場合には1プロジェクト）を課金単位としております",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "なお、上記事業者数及び従業員数には当社が主要なターゲットとしていない不動産賃貸仲介業者も含まれており、実際に当社がサービスを提供し得る顧客と乖離が生じる場合があります",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の行動やデータに合わせてAIが次の打ち手を自動的に提案する",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "提案済み物件情報をお客様専用ページでー元管理",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "#顧客体験向上",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "Cocoliveでは、工務店向けSaaS「KASIKA」を活用し、顧客の営業課題解決を支援するカスタマーサクセスを募集しています",
+    "url": "https://cocolive.saiyoupage.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "課題のヒアリングから施策提案、運用支援まで一貫して担当し、顧客の成功を実現する役割です",
+    "url": "https://cocolive.saiyoupage.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の営業課題をヒアリングし、施策提案から実行、振り返りまで一貫して支援し、成約率やアポ獲得率向上を目指します",
+    "url": "https://cocolive.saiyoupage.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の声をプロダクト改善に活かす機会もあり、主体的に課題解決へ取り組める方に最適です",
+    "url": "https://cocolive.saiyoupage.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "(第2弾)顧客管理とコンテンツ提供をつなぎ、よりスムーズなお客様対応へ",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=137A",
+    "pass": 3
+   },
+   {
+    "quote": "当社では日本国内における「工務店・ハウスメーカー」「不動産売買仲介業者」「分譲マンション事業者」に属する不動産会社を潜在的な顧客として定義しております",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には「集客」・「顧客管理」・「追客」・「成約」・「成約後のフォロー」という一連の営業活動を行うことが重要となっております",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "当該機能は図２のとおり、ポータルサイトで問い合わせがあった消費者を自動で顧客リストに加え、消費者に対して不動産会社オリジナルの返信メールを自動送信する機能となっており、不動産会社の営業担当者が効率的に営業活動をできるよう当該機能を有しております",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "ＫＡＳＩＫＡは、集客活動を行うことにより得られる消費者からの問い合わせをＫＡＳＩＫＡに取込み、営業アクションの管理、属性に応じたメールマガジンの一斉自動送信、契約確度の高い消費者（優良顧客）の絞り込みを行うことができる基本機能を有しております（図３参照）",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "図３の基本機能に加え、図４のとおり、当社では顧客からのフィードバックを社内に共有し、ＫＡＳＩＫＡの開発に反映させることで継続的な改善・改良を行う仕組みを整えております",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には当社の営業部門及びカスタマーサクセス部門（営業及びサクセス担当）にて顧客からのフィードバックを受領後、プロダクトマネージャーに当該フィードバックを共有し、必要に応じて開発要望を行います",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "エンジニアが開発及び必要に応じてＵＩデザイナーにＵＩデザインを依頼し、当該改善・改良の内容を営業部門及びカスタマーサクセス部門に共有することで、改善・改良したＫＡＳＩＫＡを顧客に対して提供するという体制を整えております",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社は顧客に対しＫＡＳＩＫＡというツールを単に提供するだけではなく、導入初期からＫＡＳＩＫＡの運用ができるように個別勉強会を実施し、導入後の顧客向けにＫＡＳＩＫＡ活用の勉強会や成功事例の勉強会を開催する等、継続的な利用により成果を創出できるようカスタマーサクセス部門を設けており、人員を重点的に配置しております",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル化がまだ一般的ではないと考えられる不動産業界の営業活動において、ＫＡＳＩＫＡの利用開始に伴う心理的なハードルを下げること及び当社として顧客の利用満足度を適宜に把握することを主に企図しております",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、分譲マンション事業者については販売する１物件（或いは顧客が「プロジェクト」と呼称をする場合には１プロジェクト）を課金単位としており、社内管理上は店舗数課金と同様に取り扱っております",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "物件規模によるコスト構造の違いや、地域ごとの市場環境に即した適正な価格設定へと見直すことで、お客様間の公平性を担保しつつ、高品質なサービスの継続提供と、当社事業の持続的な収益基盤の強化を図るものであります",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社の主要サービスは、料金を顧客の使用期間及び使用店舗、ユーザ数等に応じて定期定額契約（サブスクリプション）として課金することで、継続的な収益を獲得することができるものであるため、ＭＲＲ、有料契約社数及び単月解約率（年間平均）を指標として重視しております",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "当事業年度における売上高は、「工務店・ハウスメーカー」「不動産売買仲介業者」「分譲マンション事業者」のいずれの領域においても営業部門のリソースを費やし積極的な営業活動を行い、また顧客へのサポート活動も継続的に行った結果、2026年５月時点のＭＲＲが114百万円、有料契約社数が1,175社、単月解約率（年間平均）が1.29％となり、1,447,436千円（前年同期は1,301,771千円）となりました",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "サービスプライバシーポリシー",
+    "url": "https://cocolive.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスプライバシーポリシー",
+    "url": "https://cocolive.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスプライバシーポリシー",
+    "url": "https://cocolive.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、テクノロジーとマーケティングの力で住宅・不動産業界で働く「人」の力が最もうまく活かされる仕組みを創り上げることを理念とし、2017年5月より住宅・不動産会社の営業・マーケティング活動を支援するマーケティング・オートメーションサービス「KASIKA」を提供してまいりました",
+    "url": "https://cocolive.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "現在では1000社を超える、住宅・不動産会社様にKASIKAをご利用頂き、業界最大級のMAサービスに成長するに至りました",
+    "url": "https://cocolive.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスプライバシーポリシー",
+    "url": "https://cocolive.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスプライバシーポリシー",
+    "url": "https://cocolive.co.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスプライバシーポリシー",
+    "url": "https://cocolive.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスプライバシーポリシー",
+    "url": "https://cocolive.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスプライバシーポリシー",
+    "url": "https://cocolive.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "住宅、不動産業界向けマーケティングオートメーション及び営業支援サービスに関するITシステム開発、提供及び運用サポートとなります",
+    "url": "https://cocolive.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスプライバシーポリシー",
+    "url": "https://cocolive.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスプライバシーポリシー",
+    "url": "https://cocolive.co.jp/ir/notice/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスプライバシーポリシー",
+    "url": "https://cocolive.co.jp/ir/disclaimer/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスプライバシーポリシー",
+    "url": "https://cocolive.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "増収を確保したものの、機能開発やサービス向上に向けた積極的な人材投資が利益を圧迫しました",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "マーケティング・オートメーション (MA)サービス",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "私たちのミッションを達成するために、不動産業種に特化したマーケティング・オートメーションツール「KASIKA」（カシカ）を自社で開発し、不動産会社に対してクラウドサービス（SaaS）として提供",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 昨年同期比で、売上高は＋11.2％、営業利益以下は主に開発強化・サービス向上に伴う人件費の増加等により前年比△29％程度の下落",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 修正予算の前提のとおり、KASIKA機能強化・サービス向上のための積極的な人材投資を継続して行った結果、利益率は前期比で低下したものの、一定の人員数を確保できたことから、今後は採用スピードを緩めるとともに、生成AI等を利用した業務効率化・高度化施策を進める予定（詳細はP.19参照）",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "業界に精通したサポートメンバーによるハイタッチサービス",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "物件規模によるコスト構造の違いや、地域ごとの市場環境に即した適正な価格設定へと見直すことで、お客様間の公平性を担保しつつ、高品質なサービスの継続提供と、当社事業の持続的な収益基盤の強化を図るものであります",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "各オプションサービス（SMS送信等）は従前同様に別途費用が発生します",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "*：訪問日程の調整をより効率的に行う「来場イベント予約機能」をオプションサービスとしてリリースしております",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "・1,000社超の顧客へのサービス提供",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "*：なお、上記ポジショニングは当社だけが取り得るものではなく、当社と類似するポジショニングを行う不動産業種特化型の他社サービスが存在します",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "＋各オプションサービス（SMS送信等）",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "不動産業におけるクラウドサービス利用割合の推移",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "不動産業におけるクラウドサービス利用率",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "なお、上記事業者数及び従業員数には当社が主要なターゲットとしていない不動産賃貸仲介業者も含まれており、実際に当社がサービスを提供し得る顧客と乖離が生じる場合があります",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の売却希望物件のAI査定情報を自動送信するサービスにおける、戸建て/土地向けAI査定サービスを強化する",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "✓ サービス拡充の選択肢として、今後は自社開発だけでなくM＆Aも検討をしていく方針",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 上記の図はあくまで一例であり、社内では随時、サービス領域の拡大のための検討・テスト開発を実施",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "・特定の事業サービスへの依存について",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "当社としては、KASIKAを外部環境の変化に左右されず安定的な収益獲得が継続できるようその競争力の維持・強化に努めるとともに、他のサービスの開発・売上拡大を図り、KASIKAへの依存度を逓減させることが重要と考えております",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "本情報來源：TDNet（東京証券取引所 適時開示情報閲覧サービス）",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "Cocoliveの主力プロダクト「KASIKA」は、住宅業界の営業活動をデジタル化し、効率化を支援するツールです",
+    "url": "https://cocolive.saiyoupage.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "同社のカスタマーサクセス室のメンバーとして、導入後のクライアントに対して、自動追客・商談管理を行うSaaSサービス「KASIKA」の活用促進、活用コンサルティングをご担当いただきます",
+    "url": "https://cocolive.saiyoupage.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "不動産売買仲介のエンタープライズ企業向けに、SaaSサービス「KASIKA」を活用したカスタマーサクセス業務を担当します",
+    "url": "https://cocolive.saiyoupage.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "定型対応にとどまらず、個々のニーズに合わせた提案を行い、サービスの活用を促進するやりがいのあるポジションです",
+    "url": "https://cocolive.saiyoupage.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=137A",
+    "pass": 3
+   },
+   {
+    "quote": "当社は「テクノロジーとマーケティングの力で、住宅・不動産業界で働く“人”の力が最もうまく活かされる仕組みを創り上げたい」をミッションとして、ＢｔｏＢのクラウドサービス事業を営んでおります",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、当社はクラウドサービス事業の単一セグメントであるため、セグメント別の記載を省略しております",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "具体的なサービスの内容は以下のとおりです",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "さらに今後は「サービス付き高齢者住宅の提供会社」等の日本の高齢化社会で今後需要の高まりが想定される不動産関連領域、「リフォーム」等の不動産購入後の領域でのＫＡＳＩＫＡの提供に注力してまいります",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "物件規模によるコスト構造の違いや、地域ごとの市場環境に即した適正な価格設定へと見直すことで、お客様間の公平性を担保しつつ、高品質なサービスの継続提供と、当社事業の持続的な収益基盤の強化を図るものであります",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１．総務省統計局「サービス産業動態統計調査2026年（令和６年）５月分（速報）」より「不動産取引業」に係る2025年平均金額を12倍して算出",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社が提供するサービスの性格上、生産実績の記載になじまないため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社が提供するサービスの性格上、受注実績の記載になじまないため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "サービスの名称",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドサービス事業",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１．当社はクラウドサービス事業の単一セグメントであるため、セグメントごとの記載はしておりません",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、当社はクラウドサービス事業の単一セグメントであるため、セグメント別の記載を省略しております",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社の主要サービスは、料金を顧客の使用期間及び使用店舗、ユーザ数等に応じて定期定額契約（サブスクリプション）として課金することで、継続的な収益を獲得することができるものであるため、ＭＲＲ、有料契約社数及び単月解約率（年間平均）を指標として重視しております",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、「テクノロジーとマーケティングの力で、住宅・不動産業界で働く“人”の力が最もうまく活かされる仕組みを創り上げたい」というミッションを掲げ、企業の生産性を向上させるべくクラウドサービス事業を拡大しております",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "それらの課題に対処するため、経営者は最新のＩＴ技術を探求し、あわせて事業環境を把握し、ＫＡＳＩＫＡの継続的な改良、オプションサービスの開発等、顧客に対する提供価値を向上し続けていく方針であります",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、山本社長がCocolive設立に至った経緯や、サービス提供への想い、今後の目標について紹介します",
+    "url": "https://www.wantedly.com/companies/cocolive/post_articles/901646",
+    "pass": 3
+   },
+   {
+    "quote": "Cocoliveが提供するサービスの成り立ちを知りたい",
+    "url": "https://www.wantedly.com/companies/cocolive/post_articles/901646",
+    "pass": 3
+   },
+   {
+    "quote": "ホテル仲介サービスを提供する創業者の考えに影響を受けてCocolive設立を決意",
+    "url": "https://www.wantedly.com/companies/cocolive/post_articles/901646",
+    "pass": 3
+   },
+   {
+    "quote": "前職でホテル探しを「マッチング」と仮説立て、顧客にとって一番いいホテルを探し出せるようなサービスに関わっていました",
+    "url": "https://www.wantedly.com/companies/cocolive/post_articles/901646",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "「カスタマーサクセス」部門の担当者が貴社の専任パートナーとなり、毎月、無料で1対1の定例会を実施(※3)",
+    "url": "https://cocolive.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "成果につながった具体的な施策や運用する上での苦労などもご紹介しております",
+    "url": "https://cocolive.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「イベント予約機能」の導入で、イベント集客を中心とした中長期顧客の自動フォロー体制を構築！営業体制の効率化を実現！",
+    "url": "https://cocolive.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "住宅・不動産業界向け自動追客・商談管理ツール『KASIKA』を提供するCocolive、住宅業界のＤＸ化を推進する株式会社ダイテックとパートナーシップ契約を締結",
+    "url": "https://cocolive.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客側での間取り保存や家族・パートナー間での相談メモ共有を促すとともに、営業側は可視化された顧客の関心事や希望を事前に把握でき、的確で質の高いアプローチを可能に",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "1店舗ごとに",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "全店舗で利用する場合はユ",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "店舗数（物件数）課金",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "1店舗（物件）*毎に",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "顧客側での間取り保存やご家族パートナー間での相談メモ共有を促すとともに、営業側は可視化された願客の関心事や希望を事前に把握でき、的確で質の高いアプローチを可能にする",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "大手パートナーとの提携",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "業界主要ツール連携と大手住宅フランチャイズ・ビルダー開拓",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "【住宅FC・大手グループとのパートナーシップ】",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "本サイトの使用により、当サイトおよびパートナーはいかなる損失に対しても責任を負わないことに同意したものとみなされます",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、すべてのメンバーが共通して大切にする「5つの価値観」と「6つの行動指針」をご紹介します",
+    "url": "https://cocolive.saiyoupage.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "現在Cocoliveで募集中のポジションをご紹介します",
+    "url": "https://cocolive.saiyoupage.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Cocoliveで働く社員のインタビューをご紹介します",
+    "url": "https://cocolive.saiyoupage.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "さまざまな切り口で社内の取り組みをご紹介します",
+    "url": "https://cocolive.saiyoupage.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "【Cocolive × リビン・テクノロジーズ】不動産・住宅業界における「集客」と「追客・管理」の両面から営業活動を支援するためのパートナー業務提携を締結",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=137A",
+    "pass": 3
+   },
+   {
+    "quote": "【Cocolive × Lib Workグループ】住宅業界の営業DXを加速するパートナー業務提携を締結",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=137A",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=137A",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=137A",
+    "pass": 3
+   },
+   {
+    "quote": "ＫＡＳＩＫＡの料金体系は大別して店舗数課金とユーザ数課金となっております",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "図５-１のとおり、店舗数課金では１店舗（１物件）でのＫＡＳＩＫＡ利用に際して月額利用料金50,000円、ユーザ数課金では10名以下のユーザまでは50,000円、11名以降は１名につき5,000円という料金体系となっております",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、店舗数課金、ユーザ数課金のいずれであってもＫＡＳＩＫＡ利用開始時の初期費用は50,000円となっております",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、分譲マンション事業者については販売する１物件（或いは顧客が「プロジェクト」と呼称をする場合には１プロジェクト）を課金単位としており、社内管理上は店舗数課金と同様に取り扱っております",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "ＫＡＳＩＫＡの販路として、当社からの直接販売に加えて「パートナーシップ契約」（代理店契約）を締結した代理店経由での営業及び販売も行っております",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "代理店契約の締結先は不動産ボランタリーチェーンを運営する会社や業務デジタル化のコンサルティング会社を中心としており、株式会社ＬＩＸＩＬ、株式会社イー・ステート・オンライン、株式会社プライムクロス等の各社と代理店契約を締結しております",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、代理店経由の販売においては当社が代理店を通じて利用料を収受しており、また、代理店経由の販売額等に応じて代理店に手数料を支払っております",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社の主要サービスは、料金を顧客の使用期間及び使用店舗、ユーザ数等に応じて定期定額契約（サブスクリプション）として課金することで、継続的な収益を獲得することができるものであるため、ＭＲＲ、有料契約社数及び単月解約率（年間平均）を指標として重視しております",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "MBA取得・大手企業での経験を経て、ビジネスパートナーとCocolive株式会社を設立｜社長インタビュー | Cocolive株式会社",
+    "url": "https://www.wantedly.com/companies/cocolive/post_articles/901646",
+    "pass": 3
+   },
+   {
+    "quote": "MBA取得・大手企業での経験を経て、ビジネスパートナーとCocolive株式会社を設立｜社長インタビュー",
+    "url": "https://www.wantedly.com/companies/cocolive/post_articles/901646",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、山本社長がCocolive設立に至った経緯や、サービス提供への想い、今後の目標について紹介します",
+    "url": "https://www.wantedly.com/companies/cocolive/post_articles/901646",
+    "pass": 3
+   },
+   {
+    "quote": "基本的なテクノロジーは現在と変わりませんが、「MAを利用する企業と人をつなげるサービス」ではなく、データ分析した情報をもとに「私たち自身が一般のお客様に不動産を紹介するというサービス」でした",
+    "url": "https://www.wantedly.com/companies/cocolive/post_articles/901646",
+    "pass": 3
+   },
+   {
+    "quote": "まずは、ひとりで動かずパートナーと一緒にCocoliveを設立したことですね",
+    "url": "https://www.wantedly.com/companies/cocolive/post_articles/901646",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "KASIKAでは収益アップを実現する機能に加えて成果を加速させるための圧倒的な運用支援が強みです",
+    "url": "https://cocolive.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "このような中、当社では、2026年5月期及び翌2027年5月期を、この拡大する需要を確実に取り込み、将来の圧倒的な利益へ変換し、飛躍するための高収益体質への『助走』期間として捉えています",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "✓ SaaSビジネスの強みである安定した継続収益の獲得と低い解約率の維持がある",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "売上高営業利益率 (%)",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "当社では、2026年5月期及び翌2027年5月期を、この拡大する需要を確実に取り込み、将来の圧倒的な利益へ変換するため高収益体質への『助走』期間として捉えています",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率(%)",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "当社では、2026年5月期及び翌2027年5月期を、拡大する需要を確実に取り込み、将来の圧倒的な利益へ変換するため高収益体質への『助走』期間として捉えています",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "KASIKAの強みは、不動産業界を熟知した専門チームによる「伴走型サポート」にあります",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "① ： 当社の強みであるカスタマーサクセス人員への投資（採用・研修等）を強化しました（P.20参照）",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "この不動産業界における重要な課題を解決するためのＩＴツールとして「追客」に強みを持つＫＡＳＩＫＡを当社で自社開発致しました（図１参照）",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "他にも、組織としての強みを出すこと、クライアントの要望を叶えることを目的として「",
+    "url": "https://www.wantedly.com/companies/cocolive/post_articles/901646",
+    "pass": 3
+   },
+   {
+    "quote": "Cocoliveがもつ一番の強みは、言葉だけでなく行動で示す真剣度だと思います",
+    "url": "https://www.wantedly.com/companies/cocolive/post_articles/901646",
+    "pass": 3
+   },
+   {
+    "quote": "サービス提供を「それって口だけだよね」と思われないように努力している部分は、他社にも負けない強みだと思います",
+    "url": "https://www.wantedly.com/companies/cocolive/post_articles/901646",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2017年1月23日です",
+    "url": "https://cocolive.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年2月28日です",
+    "url": "https://cocolive.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年1月",
+    "url": "https://cocolive.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2025 年 9 月 1 日より順次",
+    "url": "https://cocolive.co.jp/newsite/wp-content/uploads/2025/08/Cocolive_HQ_Move_202508.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年5月期は、売上高16億100万円、営業利益1億6,700万円を計画しています",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月31日",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "2027年5月期計画",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "2017年1月",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月10日付のリリースにて【KASIKA機能開発ロ ドマップ2026最新版】を公表0",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "2022年5月期",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "2023年5月期",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "2024年5月期 (当社上場)",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "2025年5月期",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月期 (直近実績)",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "2027年5月期 (予算)",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "2028年5月期以降 (目標)",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月期は人材投資を積極的に行い、機能開発を中心に進めてきました",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月期：効率的な事業運営により、必要な投資を行いつつ5期連続で営業利益黒字を達成",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "2025年5月末",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月末",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "2027年5月期 業績予想",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "2027年5月期_【売上】_マンション向けKASIKAの価格改定（1/4）",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "2027年5月期_【売上】_マンション向けKASIKAの価格改定（2/4）",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "2026年内リリース予定",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "2027年5月期_【売上】_マンション向けKASIKAの価格改定（3/4）",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "2027年5月期_【売上】_マンション向けKASIKAの価格改定（4/4）",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "2027年5月期_【費用】_採用戦略",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月期において、成長戦略の一環として不動産業界での更なる成長を目指すため、『KASIKA』のAI機能の拡充やその他オプション機能の開発スピードを早め、中長期的な事業成長に向けた積極的な人員採用を継続して行った結果、2026年5月末時点の在籍者数は131名となりました",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "2024年5月末",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月3日（火）",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=137A",
+    "pass": 3
+   },
+   {
+    "quote": "2027年5月期 第1四半期決算短信〔日本基準〕（非連結）",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=137A",
+    "pass": 3
+   },
+   {
+    "quote": "2027年5月期 第1四半期決算説明資料",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=137A",
+    "pass": 3
+   },
+   {
+    "quote": "2026年定時株主総会招集通知",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=137A",
+    "pass": 3
+   },
+   {
+    "quote": "2026年定時株主総会資料",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=137A",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月期 通期決算説明動画公開のお知らせ",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=137A",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月期 決算短信〔日本基準〕（非連結）",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=137A",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月期 通期決算説明資料",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=137A",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月期有価証券報告書より",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "2022年末までに1500社以上の導入を目指し、サービスを拡大中です！",
+    "url": "https://www.wantedly.com/companies/cocolive/post_articles/901646",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "当社の収益構造",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "■事業系統図",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "KASIKAの利用料は月額支払方式（いわゆるサブスク型）であり、安定した収益の獲得が期待できるビジネスモデルとなっている",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "［事業系統図］",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "以上述べた事項を事業系統図によって示すと次のとおりであります",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "特に意識したのが、何度もPDCAを回して試行錯誤しながらビジネスの仕組みをつくることですね",
+    "url": "https://www.wantedly.com/companies/cocolive/post_articles/901646",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "なお、2026年5月末時点の顧客数は1,175社、単月解約率は1.29％で推移しています",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "✓ SaaSビジネスの強みである安定した継続収益の獲得と低い解約率の維持がある",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "単月解約率(社数ベース) *4",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "*4：当社では翌月の解約社数を各月末の契約社数で除することで単月解約率を算出",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "当社では単月解約率は0.1%前後は毎四半期変動するものと想定をしております",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "・単月解約率はこれまでと同様に1.0%前後を想定",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "50,000円 ＋ 従量",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "※付加価値向上に伴い、ARPU（一顧客あたり平均売上）の拡大を目指します",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "KASIKAの利用料は月額支払方式（いわゆるサブスク型）であり、安定した収益の獲得が期待できるビジネスモデルとなっている",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "単価上昇及び対象ドメインの拡大のイメージ",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "✓ オプションの利用率が向上することにより顧客単価も上昇させる",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "図５-１のとおり、店舗数課金では１店舗（１物件）でのＫＡＳＩＫＡ利用に際して月額利用料金50,000円、ユーザ数課金では10名以下のユーザまでは50,000円、11名以降は１名につき5,000円という料金体系となっております",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、ＳＭＳ送信オプションやＡＩ査定オプション機能等の各オプション費用はそれぞれ月額10,000円の基本料金となっており、各オプション利用開始時の初期費用は20,000円となっております",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "この場合、初期費用として70,000円（ＫＡＳＩＫＡ50,000円、ＳＭＳ送信オプション20,000円）、月額利用料金として60,000円（ＫＡＳＩＫＡ50,000円、ＳＭＳ送信オプション10,000円）という料金体系となっております",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、当社の前期末である2026年５月末時点での単月解約率（年間平均）（注５）は1.29％となっております",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、代理店経由の販売においては当社が代理店を通じて利用料を収受しており、また、代理店経由の販売額等に応じて代理店に手数料を支払っております",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "５．当社では各月末の契約社数を翌月の解約社数で除することで単月解約率を算出しております",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "当該単月解約率の2025年６月から2026年５月までの１年間の平均が1.29％となっております",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社の主要サービスは、料金を顧客の使用期間及び使用店舗、ユーザ数等に応じて定期定額契約（サブスクリプション）として課金することで、継続的な収益を獲得することができるものであるため、ＭＲＲ、有料契約社数及び単月解約率（年間平均）を指標として重視しております",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "当事業年度における売上高は、「工務店・ハウスメーカー」「不動産売買仲介業者」「分譲マンション事業者」のいずれの領域においても営業部門のリソースを費やし積極的な営業活動を行い、また顧客へのサポート活動も継続的に行った結果、2026年５月時点のＭＲＲが114百万円、有料契約社数が1,175社、単月解約率（年間平均）が1.29％となり、1,447,436千円（前年同期は1,301,771千円）となりました",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "各費目（原価・販管費合計）の売上比率での費用規模は以下のとおりです",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "（単一セグメント）",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "単一セグメントの企業の場合は、連結（あるいは単体）の売上と営業利益を反映しています",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、当社はクラウドサービス事業の単一セグメントであるため、セグメント別の記載を省略しております",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１．当社はクラウドサービス事業の単一セグメントであるため、セグメントごとの記載はしておりません",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、当社はクラウドサービス事業の単一セグメントであるため、セグメント別の記載を省略しております",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "[G－ Cocolive 137A.T] 事業計画及び成長可能性 ... — [G－ Cocolive 137A.T] 事業計画及び成長可能性 ... BigGo ファイナンス https://finance.biggo.jp > jpx_tdnet_140120260831528247",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "Cocolive 株式会社 - 採用サイト — Cocolive 株式会社 - 採用サイト cocolive.saiyoupage.jp https://cocolive.saiyoupage.jp",
+    "url": "https://cocolive.saiyoupage.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Cocolive 株式会社の事業とカルチャー - Wantedly — Cocolive 株式会社の事業とカルチャー - Wantedly Wantedly https://www.wantedly.com > Wantedly > Cocolive株式会社",
+    "url": "https://www.wantedly.com/companies/cocolive/about",
+    "pass": 3
+   },
+   {
+    "quote": "Cocolive ［137A］グロース IPO - YouTube — Cocolive ［137A］グロース IPO - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=9OOZHqdAxJ8",
+    "pass": 3
+   },
+   {
+    "quote": "Cocolive 【137A】の事業内容 - キタイシホン — Cocolive 【137A】の事業内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 - Cocolive 株式会社 - KASIKA — 決算説明資料 - Cocolive 株式会社 - KASIKA Cocolive 株式会社 https://cocolive.co.jp > ... > IRライブラリー > 決算説明資料",
+    "url": "https://cocolive.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "【 Cocolive 】[137A]適時開示情報 株主総会や定款関連 | 日経 ... — 【 Cocolive 】[137A]適時開示情報 株主総会や定款関連 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > disclose",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=137A",
+    "pass": 3
+   },
+   {
+    "quote": "Cocolive （137A） 2026年5月期 決算説明 - YouTube — Cocolive （137A） 2026年5月期 決算説明 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=Q0XgaxHRHRM",
+    "pass": 3
+   },
+   {
+    "quote": "[G－ Cocolive 137A.T] 2027年5月期 第1四半期 決算 ... — [G－ Cocolive 137A.T] 2027年5月期 第1四半期 決算 ... BigGo ファイナンス https://finance.biggo.jp > jpx_tdnet_140120261009548689",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120261009548689",
+    "pass": 3
+   },
+   {
+    "quote": "Cocolive のIR 資料 - 137A / グロース / 情報・通信業 — Cocolive のIR 資料 - 137A / グロース / 情報・通信業 バフェット・コード https://www.buffett-code.com > company > library",
+    "url": "https://www.buffett-code.com/company/137A/library",
+    "pass": 3
+   },
+   {
+    "quote": "Cocolive 株式会社 - KASIKA — Cocolive 株式会社 - KASIKA Cocolive 株式会社 https://cocolive.co.jp > ホーム > 企業情報",
+    "url": "https://cocolive.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "Cocolive 【137A】の 事業 内容 - キタイシホン — Cocolive 【137A】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/137A/business",
+    "pass": 3
+   },
+   {
+    "quote": "[G－ Cocolive 137A.T] 事業 計画及び成長可能性 ... — [G－ Cocolive 137A.T] 事業 計画及び成長可能性 ... BigGo ファイナンス https://finance.biggo.jp > jpx_tdnet_140120260831528247",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "pass": 3
+   },
+   {
+    "quote": "【 Cocolive 】[137A]企業概要 社員数や役員報酬・資本金 | 日経 ... — 【 Cocolive 】[137A]企業概要 社員数や役員報酬・資本金 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=137A",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスパートナーと Cocolive 株式会社を設立｜ 社長 ... — ビジネスパートナーと Cocolive 株式会社を設立｜ 社長 ... Wantedly https://www.wantedly.com > Cocolive株式会社 > ストーリー",
+    "url": "https://www.wantedly.com/companies/cocolive/post_articles/901646",
+    "pass": 3
+   },
+   {
+    "quote": "社員 インタビュー 一覧 - Cocolive株式会社 - 採用サイト — 社員 インタビュー 一覧 - Cocolive株式会社 - 採用サイト cocolive.saiyoupage.jp https://cocolive.saiyoupage.jp > recruit_member",
+    "url": "https://cocolive.saiyoupage.jp/recruit_member",
+    "pass": 3
+   },
+   {
+    "quote": "Cocolive 株式会社の社員 インタビュー | IT/Web業界の転職 ... — Cocolive 株式会社の社員 インタビュー | IT/Web業界の転職 ... 転職サイトGreen https://www.green-japan.com > company > interview",
+    "url": "https://www.green-japan.com/company/10090/interview",
+    "pass": 3
+   },
+   {
+    "quote": "山本考伸・ Cocolive社長 「デジタル技術を使って — 山本考伸・ Cocolive社長 「デジタル技術を使って 財界オンライン https://www.zaikai.jp > ビジネス",
+    "url": "https://www.zaikai.jp/articles/detail/4132",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://cocolive.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cocolive.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cocolive.co.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cocolive.co.jp/ir/management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cocolive.co.jp/ir/highlight/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cocolive.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cocolive.co.jp/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cocolive.co.jp/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cocolive.co.jp/ir/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cocolive.co.jp/ir/notice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cocolive.co.jp/ir/disclaimer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cocolive.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cocolive.co.jp/newsite/wp-content/uploads/2025/08/Cocolive_HQ_Move_202508.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cocolive.saiyoupage.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=137A",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/137A/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wantedly.com/companies/cocolive/post_articles/901646",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cocolive.saiyoupage.jp/recruit_member",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Cocolive",
+   "results": [
+    "https://apps.apple.com/us/app/coco-live-stream-go-live/id1435758172",
+    "https://play.google.com/store/apps/details?id=com.newellmediallc.live.coco",
+    "https://coco.tv/",
+    "https://coco-live-stream-video-chat.updatestar.com/",
+    "https://www.instagram.com/cocolive.co/",
+    "https://coco-live-video-chat-coconut.en.softonic.com/android",
+    "https://www.nowsecure.com/marc-app/coco-live-stream-video-chat-ios/",
+    "https://coco-newell-media-llc.en.aptoide.com/app",
+    "https://www.coconut.tv/agency/agency_registration.html",
+    "https://chococams.com/"
+   ]
+  },
+  {
+   "query": "株式会社Cocolive",
+   "results": [
+    "https://cocolive.co.jp/company/",
+    "https://www.openwork.jp/company.php?m_id=a0C2x000008zcML",
+    "https://www.wantedly.com/companies/cocolive",
+    "https://cocolive.saiyoupage.jp/",
+    "https://doda.jp/DodaFront/View/Company/j_id__10178588703/",
+    "https://cocolive.co.jp/",
+    "https://tenshoku.mynavi.jp/company/404787/",
+    "https://prtimes.jp/main/html/searchrlp/company_id/25942",
+    "https://www.r-agent.com/company/d3447/",
+    "https://jp.indeed.com/cmp/Cocolive株式会社"
+   ]
+  },
+  {
+   "query": "Cocolive ビジネスモデル",
+   "results": [
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "https://cocolive.saiyoupage.jp/",
+    "https://www.wantedly.com/companies/cocolive/about",
+    "https://www.youtube.com/watch?v=9OOZHqdAxJ8",
+    "https://kitaishihon.com/company/137A/business",
+    "https://note.com/open_azalea2045/n/n4bf26c079fae",
+    "https://cocolive.co.jp/news/343/",
+    "https://initial.inc/companies/A-28084",
+    "https://service.solvvy.jp/4774067",
+    "https://consovation.com/株式会社cocoliveの成長戦略と最新ビジネスモデルをご/"
+   ]
+  },
+  {
+   "query": "Cocolive 決算説明資料",
+   "results": [
+    "https://cocolive.co.jp/ir/library/presentation/",
+    "https://www.nikkei.com/nkd/company/disclose/?scode=137A",
+    "https://www.youtube.com/watch?v=Q0XgaxHRHRM",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120261009548689",
+    "https://www.buffett-code.com/company/137A/library",
+    "https://finance.logmi.jp/articles/385383",
+    "https://finance.matsui.co.jp/stock/137A/settlement/index",
+    "https://www.moomoo.com/ja/stock/137A-JP/earnings",
+    "https://minkabu.jp/stock/137A/settlement"
+   ]
+  },
+  {
+   "query": "Cocolive 事業系統図",
+   "results": [
+    "https://cocolive.co.jp/company/",
+    "https://kitaishihon.com/company/137A/business",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260831528247",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=137A",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100SO2Z.pdf",
+    "https://prtimes.jp/main/html/rd/p/000000056.000025942.html",
+    "https://www.crex-data.com/company/137A",
+    "https://www.buffett-code.com/company/137A/",
+    "https://finance.logmi.jp/articles/385383"
+   ]
+  },
+  {
+   "query": "Cocolive 社長 インタビュー",
+   "results": [
+    "https://www.wantedly.com/companies/cocolive/post_articles/901646",
+    "https://cocolive.saiyoupage.jp/recruit_member",
+    "https://hellonews.jp/4146/",
+    "https://www.green-japan.com/company/10090/interview",
+    "https://www.zaikai.jp/articles/detail/4132",
+    "https://www.youtube.com/watch?v=9OOZHqdAxJ8",
+    "https://www.nikkei.com/article/DGXZQOUC2871K0Y4A220C2000000/",
+    "https://cocolive.co.jp/company/",
+    "https://japan.cnet.com/article/35131020/",
+    "https://cocolive.saiyoupage.jp/recruit_member/1"
+   ]
+  }
+ ],
+ "missing": {}
+}

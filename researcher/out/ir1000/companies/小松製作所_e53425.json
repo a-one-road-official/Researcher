@@ -1,0 +1,429 @@
+{
+ "name": "小松製作所",
+ "aliases": [],
+ "context": "証券コード6301／機械／プライム（内国株式）／2026.03期 売上高4,132,751百万円 営業利益率13.8%",
+ "researched_at": "2026-11-02T19:18:44.174406+00:00",
+ "official_url": "https://kmt.jp/",
+ "identified_by": "search:ddgs:google:小松製作所",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1938年3月",
+    "url": "https://kmt.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1956年10月",
+    "url": "https://kmt.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "創立",
+    "value": "1921年（大正10年）5月13日",
+    "url": "https://www.komatsu.jp/ja/aboutus/profile",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "82名",
+    "url": "https://kmt.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "連結 6 7 , 279 名 単独 12, 435 名",
+    "url": "https://www.komatsu.jp/ja/aboutus/profile",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "建機・農機・重機・医療機器・地震対策建築用製品 大手企業との共同開発事業",
+    "url": "https://kmt.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "主な事業",
+    "value": "コマツグループでは主に、建設・鉱山機械、ユーティリティ（小型機械）、林業機械、産業機械などの事業を展開しています。 > 会社概要はこちら ※コマツの商品・サービスがサポートする現場の詳細は「 事業内容 」を参照ください",
+    "url": "https://www.komatsu.jp/ja/aboutus/profile",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "株式会社小松製作所 – 建設・農業・重機・医療機器・地震対策建築用製品 大手企業との共同開発事業 | 長野県松本市",
+    "url": "https://kmt.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "建機・農機・重機・医療機器・地震対策建築用製品",
+    "url": "https://kmt.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "コンクリートブロック二次製品金型枠を開発商品化",
+    "url": "https://kmt.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "葉たばこ梱包機、移植機を開発商品化",
+    "url": "https://kmt.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "歯科用咬合器を開発商品化",
+    "url": "https://kmt.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "コンクリートポール破砕機を開発商品化",
+    "url": "https://kmt.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "家庭用水耕園芸装置を開発商品化",
+    "url": "https://kmt.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の大型化に対応",
+    "url": "https://kmt.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス・サポート",
+    "url": "https://www.komatsu.jp/ja/aboutus/profile",
+    "pass": 3
+   },
+   {
+    "quote": "※コマツの商品・サービスがサポートする現場の詳細は「",
+    "url": "https://www.komatsu.jp/ja/aboutus/profile",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年4月10日",
+    "url": "https://kmt.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年11月14日",
+    "url": "https://kmt.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年11月26日",
+    "url": "https://kmt.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年4月13日",
+    "url": "https://kmt.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年2月15日",
+    "url": "https://kmt.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年5月16日",
+    "url": "https://kmt.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月1日",
+    "url": "https://kmt.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年7月10日",
+    "url": "https://kmt.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年4月5日",
+    "url": "https://kmt.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1938年3月",
+    "url": "https://kmt.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "1956年10月",
+    "url": "https://kmt.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "1942年8月",
+    "url": "https://kmt.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "1946年1月",
+    "url": "https://kmt.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "1957年10月",
+    "url": "https://kmt.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "1969年9月",
+    "url": "https://kmt.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "1978年9月",
+    "url": "https://kmt.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "1979年5月",
+    "url": "https://kmt.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "1981年11月",
+    "url": "https://kmt.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "1986年10月",
+    "url": "https://kmt.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "1993年10月",
+    "url": "https://kmt.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "1998年8月",
+    "url": "https://kmt.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2002年11月",
+    "url": "https://kmt.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2003年1月",
+    "url": "https://kmt.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2006年3月",
+    "url": "https://kmt.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年2月",
+    "url": "https://kmt.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年11月",
+    "url": "https://kmt.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年3月",
+    "url": "https://kmt.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年1月",
+    "url": "https://kmt.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年8月",
+    "url": "https://kmt.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年10月",
+    "url": "https://kmt.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年6月",
+    "url": "https://kmt.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "1921年（大正10年）5月13日",
+    "url": "https://www.komatsu.jp/ja/aboutus/profile",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "小松製作所 - Wikipedia — 小松製作所 - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 小松製作所",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%9D%BE%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "小松製作所 【6301】の 社長 ・役員 - キタイシホン — 小松製作所 【6301】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/6301/board-of-director",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://kmt.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kmt.jp/company/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.komatsu.jp/ja/recruit/business/our-business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.komatsu.jp/ja/-/media/HOME/ir/library/annual/2025/ja/kr25j_value.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.komatsu.jp/ja/ir/library/results/2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.komatsu.jp/ja/ir/library/results/2025",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.komatsu.jp/ja/aboutus/profile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.komatsu.jp/ja/-/media/HOME/ir/library/annual/2025/ja/kmt_kr25j_print.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.komatsu.jp/ja/ir/library/interview-movie",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/070700562/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "小松製作所",
+   "results": [
+    "https://www.komatsu.jp/ja",
+    "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%9D%BE%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "https://www.komatsu.com/",
+    "https://www.facebook.com/KomatsuLtd/",
+    "https://ja.wikipedia.org/wiki/小松製作所",
+    "https://en.wikipedia.org/wiki/Komatsu_Limited",
+    "https://kmt.jp/",
+    "https://www.komatsu.jp/ja/aboutus/profile",
+    "https://www.komatsu.com/en-us",
+    "https://kcsj.komatsu/products/construction_machine"
+   ]
+  },
+  {
+   "query": "小松製作所 ビジネスモデル",
+   "results": [
+    "https://www.komatsu.jp/ja/recruit/business/our-business",
+    "https://www.komatsu.jp/ja/-/media/HOME/ir/library/annual/2025/ja/kr25j_value.pdf",
+    "https://note.com/nike_diary/n/ndc60888e82b2",
+    "https://mindmeister.jp/posts/bm-komatsuL",
+    "https://www.komatsu.jp/ja/-/media/home/ir/library/ja/2025_midmgtplan.pdf?rev=8e65d628c7c6412bb2d5ee0b10c5435b",
+    "https://www.countand1.com/2012/10/komtrax-komatsu-business-model.html",
+    "https://www.strategyand.pwc.com/jp/ja/publications/books/beyond-digital-transformation/conversation-1.html",
+    "https://vizologi.com/ja/business-strategy-canvas/komatsu-group-business-model-canvas/",
+    "https://www.komatsu.jp/ja/-/media/home/ir/library/annual/ja/kmt_kr20j_spread.pdf?rev=fd7a3b1ecac34184a1b1cb374188c6d8&hash=4C24463F4B346BC659B1D32198F68ADA",
+    "https://consovation.com/コマツのビジネスモデルが支える成長戦略の魅力/"
+   ]
+  },
+  {
+   "query": "小松製作所 決算説明資料",
+   "results": [
+    "https://www.komatsu.jp/ja/ir/library/results/2026",
+    "https://www.komatsu.jp/ja/ir/library/results/2025",
+    "https://www.komatsu.jp/ja/ir",
+    "https://www.komatsu.jp/ja/ir/library",
+    "https://www.komatsu.jp/ja/-/media/home/ir/library/results/2025/jp_fy254qpresentation.pdf?rev=e246e1e211d242469779e69ed4141812&hash=BA010BA03F4EDD1A5FBE6E2B9145520C",
+    "https://www.komatsu.jp/ja/ir/library/results/2024",
+    "https://www.komatsu.jp/ja/ir/library/financial",
+    "https://www.komatsu.jp/ja/-/media/home/ir/library/financial/ja/2703q1_j.pdf?rev=496ab6d4aeba49b0851af4707f60f3c3",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=6301",
+    "https://www.komatsumatere.co.jp/ir/library/"
+   ]
+  },
+  {
+   "query": "小松製作所 事業系統図",
+   "results": [
+    "https://www.komatsu.jp/ja/aboutus/profile",
+    "https://www.komatsu.jp/ja/-/media/HOME/ir/library/annual/2025/ja/kmt_kr25j_print.pdf",
+    "https://www.komatsu.jp/ja/aboutus/locations",
+    "https://www.komatsu.jp/ja/ir/library/-/media/HOME/ir/library/annual/ja/2024/kmt_kr24j.pdf",
+    "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%9D%BE%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "https://www.komatsu.jp/ja/ir/library/annual",
+    "https://sanki.komatsu/profile/outline.html",
+    "https://www.komatsu.jp/ja",
+    "https://finance.logmi.jp/articles/383251",
+    "https://ja.wikipedia.org/wiki/小松製作所"
+   ]
+  },
+  {
+   "query": "小松製作所 社長 インタビュー",
+   "results": [
+    "https://www.komatsu.jp/ja/ir/library/interview-movie",
+    "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/070700562/",
+    "https://kitaishihon.com/company/6301/board-of-director",
+    "https://www.komatsu-shiga.jp/recruit-interview.html",
+    "https://www.youtube.com/watch?v=vyR3IePDJcI",
+    "https://kenki-shinpou.com/2023/03/08/komatsu-21/",
+    "https://www.komatsu.jp/ja/recruit/people",
+    "https://note.com/bunshunshinsho/n/n57525fd6c57e",
+    "https://the-shashi.com/tse/6301/ceo/",
+    "https://shachojp.com/p/komatsu"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部8頁・検索5回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部8頁・検索5回）",
+  "誰に": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部8頁・検索5回）",
+  "どうやって売るか": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部8頁・検索5回）",
+  "お金の形": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部8頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部8頁・検索5回）",
+  "利益の源泉": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部8頁・検索5回）"
+ }
+}

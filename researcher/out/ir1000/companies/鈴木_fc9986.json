@@ -1,0 +1,859 @@
+{
+ "name": "鈴木",
+ "aliases": [],
+ "context": "証券コード6785／電気機器／プライム（内国株式）／2026.06期 売上高40,446百万円 営業利益率13.8%",
+ "researched_at": "2026-11-02T19:19:30.310453+00:00",
+ "official_url": "https://www.suzukinet.co.jp/",
+ "identified_by": "search:yahoo_jp:株式会社鈴木",
+ "profile": {
+  "設立": [
+   {
+    "label": "創　業",
+    "value": "1933 年6 月",
+    "url": "https://www.suzukinet.co.jp/ja/company/gaiyo",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "連結404 億円（2026 年6 月期）",
+    "url": "https://www.suzukinet.co.jp/ja/company/gaiyo",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "1,127名（連結）※2026年6月30日現在",
+    "url": "https://www.suzukinet.co.jp/ja/company/gaiyo",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "精密プレス金型、精密モールド金型 コネクタコンタクト、コネクタハウジング、 自動車電装部品 ＳＭＴ関連装置、半導体関連装置、専用機 医療器具組立",
+    "url": "https://www.suzukinet.co.jp/ja/company/gaiyo",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "どうやって売るか": [
+   {
+    "quote": "事業紹介(株式会社鈴木について)",
+    "url": "https://www.suzukinet.co.jp/ja/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップ",
+    "url": "https://www.suzukinet.co.jp/ja/",
+    "pass": 1
+   },
+   {
+    "quote": "SUZUKIの技術や装置開発の事例をご紹介",
+    "url": "https://www.suzukinet.co.jp/ja/",
+    "pass": 1
+   },
+   {
+    "quote": "鈴木の金型プレス技術紹介ブログです",
+    "url": "https://www.suzukinet.co.jp/ja/",
+    "pass": 1
+   },
+   {
+    "quote": "Suzuki Lab｜技術紹介ブログ",
+    "url": "https://www.suzukinet.co.jp/ja/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介(株式会社鈴木について)",
+    "url": "https://www.suzukinet.co.jp/ja/company/gaiyo",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップ",
+    "url": "https://www.suzukinet.co.jp/ja/company/gaiyo",
+    "pass": 1
+   },
+   {
+    "quote": "鈴木の『技術紹介ブログ』",
+    "url": "https://www.suzukinet.co.jp/ja/company/gaiyo",
+    "pass": 1
+   },
+   {
+    "quote": "『鈴木の会社紹介・特長』のPDF資料をダウンロードいただけます",
+    "url": "https://www.suzukinet.co.jp/ja/company/gaiyo",
+    "pass": 1
+   },
+   {
+    "quote": "Suzuki Lab｜技術紹介ブログ",
+    "url": "https://www.suzukinet.co.jp/ja/company/gaiyo",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介(株式会社鈴木について)",
+    "url": "https://www.suzukinet.co.jp/ja/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップ",
+    "url": "https://www.suzukinet.co.jp/ja/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "Suzuki Lab｜技術紹介ブログ",
+    "url": "https://www.suzukinet.co.jp/ja/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介(株式会社鈴木について) | 精密・複合加工技術による金型・プレス・めっき・成形・組立で一貫生産｜株式会社鈴木",
+    "url": "https://www.suzukinet.co.jp/ja/company/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介(株式会社鈴木について)",
+    "url": "https://www.suzukinet.co.jp/ja/company/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップ",
+    "url": "https://www.suzukinet.co.jp/ja/company/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "『鈴木の会社紹介・特長』のPDF資料をダウンロードいただけます",
+    "url": "https://www.suzukinet.co.jp/ja/company/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "Suzuki Lab｜技術紹介ブログ",
+    "url": "https://www.suzukinet.co.jp/ja/company/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介 | 精密・複合加工技術による金型・プレス・めっき・成形・組立で一貫生産｜株式会社鈴木",
+    "url": "https://www.suzukinet.co.jp/ja/product",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介(株式会社鈴木について)",
+    "url": "https://www.suzukinet.co.jp/ja/product",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップ",
+    "url": "https://www.suzukinet.co.jp/ja/product",
+    "pass": 1
+   },
+   {
+    "quote": "Suzuki Lab｜技術紹介ブログ",
+    "url": "https://www.suzukinet.co.jp/ja/product",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介(株式会社鈴木について)",
+    "url": "https://www.suzukinet.co.jp/ja/ir",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップ",
+    "url": "https://www.suzukinet.co.jp/ja/ir",
+    "pass": 1
+   },
+   {
+    "quote": "Suzuki Lab｜技術紹介ブログ",
+    "url": "https://www.suzukinet.co.jp/ja/ir",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介(株式会社鈴木について)",
+    "url": "https://www.suzukinet.co.jp/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップ",
+    "url": "https://www.suzukinet.co.jp/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "Suzuki Lab｜技術紹介ブログ",
+    "url": "https://www.suzukinet.co.jp/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介(株式会社鈴木について)",
+    "url": "https://www.suzukinet.co.jp/ir/manage",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップ",
+    "url": "https://www.suzukinet.co.jp/ir/manage",
+    "pass": 1
+   },
+   {
+    "quote": "Suzuki Lab｜技術紹介ブログ",
+    "url": "https://www.suzukinet.co.jp/ir/manage",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介(株式会社鈴木について)",
+    "url": "https://www.suzukinet.co.jp/ir/highlight/highlight",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップ",
+    "url": "https://www.suzukinet.co.jp/ir/highlight/highlight",
+    "pass": 1
+   },
+   {
+    "quote": "Suzuki Lab｜技術紹介ブログ",
+    "url": "https://www.suzukinet.co.jp/ir/highlight/highlight",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介(株式会社鈴木について)",
+    "url": "https://www.suzukinet.co.jp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップ",
+    "url": "https://www.suzukinet.co.jp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "Suzuki Lab｜技術紹介ブログ",
+    "url": "https://www.suzukinet.co.jp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介(株式会社鈴木について)",
+    "url": "https://www.suzukinet.co.jp/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップ",
+    "url": "https://www.suzukinet.co.jp/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "Suzuki Lab｜技術紹介ブログ",
+    "url": "https://www.suzukinet.co.jp/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介(株式会社鈴木について)",
+    "url": "https://www.suzukinet.co.jp/ja/ir/stock",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップ",
+    "url": "https://www.suzukinet.co.jp/ja/ir/stock",
+    "pass": 1
+   },
+   {
+    "quote": "Suzuki Lab｜技術紹介ブログ",
+    "url": "https://www.suzukinet.co.jp/ja/ir/stock",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介(株式会社鈴木について)",
+    "url": "https://www.suzukinet.co.jp/ir/individual",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップ",
+    "url": "https://www.suzukinet.co.jp/ir/individual",
+    "pass": 1
+   },
+   {
+    "quote": "Suzuki Lab｜技術紹介ブログ",
+    "url": "https://www.suzukinet.co.jp/ir/individual",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介(株式会社鈴木について)",
+    "url": "https://www.suzukinet.co.jp/ir/menseki",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップ",
+    "url": "https://www.suzukinet.co.jp/ir/menseki",
+    "pass": 1
+   },
+   {
+    "quote": "Suzuki Lab｜技術紹介ブログ",
+    "url": "https://www.suzukinet.co.jp/ir/menseki",
+    "pass": 1
+   },
+   {
+    "quote": "そんな SUZUKI の仕事についてご紹介します",
+    "url": "https://www.suzukinet.co.jp/recruit/about",
+    "pass": 1
+   },
+   {
+    "quote": "職種紹介を見る",
+    "url": "https://www.suzukinet.co.jp/recruit/application-requirements",
+    "pass": 1
+   },
+   {
+    "quote": "鈴木の多様な職種の仕事をご紹介します",
+    "url": "https://www.suzukinet.co.jp/recruit/application-requirements",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "株式会社鈴木の会社概要や経営理念、これまでの沿革などがご覧いただけます",
+    "url": "https://www.suzukinet.co.jp/ja/",
+    "pass": 1
+   },
+   {
+    "quote": "1933 年6 月",
+    "url": "https://www.suzukinet.co.jp/ja/company/gaiyo",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 精密・複合加工技術による金型・プレス・めっき・成形・組立で一貫生産｜株式会社鈴木",
+    "url": "https://www.suzukinet.co.jp/ja/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2022年 長野県須坂市に須坂インター工場を新設",
+    "url": "https://www.suzukinet.co.jp/ja/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月までIS・仕事体験・オープンカンパニーを開催しています",
+    "url": "https://www.suzukinet.co.jp/recruit/application-requirements",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 71% （公開日：2026年6月30日）",
+    "url": "https://www.suzukinet.co.jp/recruit/application-requirements",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月期 43％ （公開日：2025年6月30日）",
+    "url": "https://www.suzukinet.co.jp/recruit/application-requirements",
+    "pass": 1
+   },
+   {
+    "quote": "2024年6月期 30% （公開日：2024年6月28日）",
+    "url": "https://www.suzukinet.co.jp/recruit/application-requirements",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月23日",
+    "url": "https://www.web.nhk/tv/pl/series-tep-615XJRJY38/ep/3JGLLGQJM4",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月26日",
+    "url": "https://www.web.nhk/tv/pl/series-tep-615XJRJY38/ep/3JGLLGQJM4",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月21日",
+    "url": "https://www.web.nhk/tv/pl/series-tep-615XJRJY38/ep/3JGLLGQJM4",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月20日",
+    "url": "https://www.web.nhk/tv/pl/series-tep-615XJRJY38/ep/3JGLLGQJM4",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1月25日",
+    "url": "https://www.web.nhk/tv/pl/series-tep-615XJRJY38/ep/3JGLLGQJM4",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1月18日",
+    "url": "https://www.web.nhk/tv/pl/series-tep-615XJRJY38/ep/3JGLLGQJM4",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月24日",
+    "url": "https://www.web.nhk/tv/pl/series-tep-615XJRJY38/ep/3JGLLGQJM4",
+    "pass": 3
+   },
+   {
+    "quote": "2025年2月22日",
+    "url": "https://www.web.nhk/tv/pl/series-tep-615XJRJY38/ep/3JGLLGQJM4",
+    "pass": 3
+   },
+   {
+    "quote": "2025年2月15日",
+    "url": "https://www.web.nhk/tv/pl/series-tep-615XJRJY38/ep/3JGLLGQJM4",
+    "pass": 3
+   },
+   {
+    "quote": "2024年8月31日",
+    "url": "https://www.web.nhk/tv/pl/series-tep-615XJRJY38/ep/3JGLLGQJM4",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1月5日 05:00",
+    "url": "https://www.netdenjd.com/archives/630946",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度に軽EVを投入する（写真は「ジャパンモビリティショー2025」で披露したコンセプトモデル）",
+    "url": "https://www.netdenjd.com/archives/630946",
+    "pass": 3
+   },
+   {
+    "quote": "2030年度までの年産400万台体制に向け、準備を着々と進める",
+    "url": "https://www.netdenjd.com/archives/630946",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月25日 05:00",
+    "url": "https://www.netdenjd.com/archives/630946",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月17日 05:00",
+    "url": "https://www.netdenjd.com/archives/630946",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月12日 05:00",
+    "url": "https://www.netdenjd.com/archives/630946",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月9日 05:00",
+    "url": "https://www.netdenjd.com/archives/630946",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月2日 05:00",
+    "url": "https://www.netdenjd.com/archives/630946",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月28日 05:00",
+    "url": "https://www.netdenjd.com/archives/630946",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月22日 05:00",
+    "url": "https://www.netdenjd.com/archives/630946",
+    "pass": 3
+   },
+   {
+    "quote": "2026年9月17日 05:00",
+    "url": "https://www.netdenjd.com/archives/630946",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月30日 05:00",
+    "url": "https://www.netdenjd.com/archives/630946",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月14日 05:00",
+    "url": "https://www.netdenjd.com/archives/630946",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月29日 05:00",
+    "url": "https://www.netdenjd.com/archives/630946",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月28日 15:28",
+    "url": "https://www.netdenjd.com/archives/630946",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月22日 15:32",
+    "url": "https://www.netdenjd.com/archives/630946",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月22日 14:50",
+    "url": "https://www.netdenjd.com/archives/630946",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月22日 03:20",
+    "url": "https://www.netdenjd.com/archives/630946",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "SUZUKIの強み",
+    "url": "https://www.suzukinet.co.jp/ja/company/gaiyo",
+    "pass": 1
+   },
+   {
+    "quote": "SUZUKIの強み",
+    "url": "https://www.suzukinet.co.jp/ja/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "SUZUKIの強み",
+    "url": "https://www.suzukinet.co.jp/ja/company/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "SUZUKIの強み",
+    "url": "https://www.suzukinet.co.jp/ja/product",
+    "pass": 1
+   },
+   {
+    "quote": "SUZUKIの強み",
+    "url": "https://www.suzukinet.co.jp/ja/ir",
+    "pass": 1
+   },
+   {
+    "quote": "SUZUKIの強み",
+    "url": "https://www.suzukinet.co.jp/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "SUZUKIの強み",
+    "url": "https://www.suzukinet.co.jp/ir/manage",
+    "pass": 1
+   },
+   {
+    "quote": "SUZUKIの強み",
+    "url": "https://www.suzukinet.co.jp/ir/highlight/highlight",
+    "pass": 1
+   },
+   {
+    "quote": "SUZUKIの強み",
+    "url": "https://www.suzukinet.co.jp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "SUZUKIの強み",
+    "url": "https://www.suzukinet.co.jp/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "SUZUKIの強み",
+    "url": "https://www.suzukinet.co.jp/ja/ir/stock",
+    "pass": 1
+   },
+   {
+    "quote": "SUZUKIの強み",
+    "url": "https://www.suzukinet.co.jp/ir/individual",
+    "pass": 1
+   },
+   {
+    "quote": "SUZUKIの強み",
+    "url": "https://www.suzukinet.co.jp/ir/menseki",
+    "pass": 1
+   }
+  ],
+  "何を": [
+   {
+    "quote": "SUZUKIの製品は、スマートフォンやタブレット、デジタルカメラやパソコンなどのデジタル機器、自動車の電装部品など、私たちの暮らしのあらゆるところで使われています",
+    "url": "https://www.suzukinet.co.jp/recruit/about",
+    "pass": 1
+   },
+   {
+    "quote": "「SUZUKI」の製品は、私たちの",
+    "url": "https://www.suzukinet.co.jp/recruit/about",
+    "pass": 1
+   },
+   {
+    "quote": "高品質の製品を提供するためには、この連携体制が欠かせません",
+    "url": "https://www.suzukinet.co.jp/recruit/about",
+    "pass": 1
+   },
+   {
+    "quote": "材料供給からスタンピング、巻き取り、個別包装まで一貫した生産システムを構築し、すべてのラインに検査装置を備え、厳しいチェックを行うことで製品の品質を維持しています",
+    "url": "https://www.suzukinet.co.jp/recruit/about",
+    "pass": 1
+   },
+   {
+    "quote": "熱処理・めっき設備によりプレス製品の付加価値を高め、モールド製品は多品種少量生産・短納期に対応",
+    "url": "https://www.suzukinet.co.jp/recruit/about",
+    "pass": 1
+   },
+   {
+    "quote": "「IATF16949」「ISO9001」「ISO14001」を取得し、環境に配慮しつつ製品の品質保証体制を整えています",
+    "url": "https://www.suzukinet.co.jp/recruit/about",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用いただけるサービス",
+    "url": "https://www.web.nhk/tv/pl/series-tep-615XJRJY38/ep/3JGLLGQJM4",
+    "pass": 3
+   },
+   {
+    "quote": "サービスを利用しない",
+    "url": "https://www.web.nhk/tv/pl/series-tep-615XJRJY38/ep/3JGLLGQJM4",
+    "pass": 3
+   },
+   {
+    "quote": "メール配信サービス「ブラストメール」への不正アクセスによる情報漏洩について （2026年10月22日15時配信）",
+    "url": "https://www.netdenjd.com/archives/630946",
+    "pass": 3
+   },
+   {
+    "quote": "紙面ビューワーのサービス再開について",
+    "url": "https://www.netdenjd.com/archives/630946",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "決算説明 会 資料 - 株式会社鈴木 — 決算説明 会 資料 - 株式会社鈴木 株式会社鈴木 https://www.suzukinet.co.jp > vhs",
+    "url": "https://www.suzukinet.co.jp/ir/vhs",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信 - 株式会社鈴木 — 決算 短信 - 株式会社鈴木 株式会社鈴木 https://www.suzukinet.co.jp > ke_tan",
+    "url": "https://www.suzukinet.co.jp/ir/ke_tan",
+    "pass": 3
+   },
+   {
+    "quote": "【速報版】株式会社 鈴木 2026年6月期第2四半期 決算説明 会 — 【速報版】株式会社 鈴木 2026年6月期第2四半期 決算説明 会 ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/384186",
+    "pass": 3
+   },
+   {
+    "quote": "組織図 | 精密・複合加工技術による金型 ... - 株式会社 鈴木 — 組織図 | 精密・複合加工技術による金型 ... - 株式会社 鈴木 株式会社鈴木 https://www.suzukinet.co.jp > company > chart",
+    "url": "https://www.suzukinet.co.jp/ja/company/chart",
+    "pass": 3
+   },
+   {
+    "quote": "スズキ社長 鈴木 俊宏 | 栗山英樹 ザ・トップ インタビュー | NHK — スズキ社長 鈴木 俊宏 | 栗山英樹 ザ・トップ インタビュー | NHK NHK ONE https://www.web.nhk > ...",
+    "url": "https://www.web.nhk/tv/pl/series-tep-615XJRJY38/ep/3JGLLGQJM4",
+    "pass": 3
+   },
+   {
+    "quote": "鈴木 俊宏 社長 インドシェア5割へ「1工場100万台が壁」 軽EV ... — 鈴木 俊宏 社長 インドシェア5割へ「1工場100万台が壁」 軽EV ... 日刊自動車新聞 https://www.netdenjd.com > archives",
+    "url": "https://www.netdenjd.com/archives/630946",
+    "pass": 3
+   },
+   {
+    "quote": "栗山英樹 ザ・トップ インタビュー スズキ社長 鈴木 俊宏 — 栗山英樹 ザ・トップ インタビュー スズキ社長 鈴木 俊宏 NHKオンデマンド https://www.nhk-ondemand.jp > goods",
+    "url": "https://www.nhk-ondemand.jp/goods/G2026154826SA000/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.suzukinet.co.jp/ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.suzukinet.co.jp/ja/company/gaiyo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.suzukinet.co.jp/ja/company/history",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.suzukinet.co.jp/ja/company/aboutus",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.suzukinet.co.jp/ja/product",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.suzukinet.co.jp/ja/ir",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.suzukinet.co.jp/ir/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.suzukinet.co.jp/ir/manage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.suzukinet.co.jp/ir/highlight/highlight",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.suzukinet.co.jp/ir/calendar",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.suzukinet.co.jp/ir/library",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.suzukinet.co.jp/ja/ir/stock",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.suzukinet.co.jp/ir/individual",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.suzukinet.co.jp/ir/menseki",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.suzukinet.co.jp/recruit/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.suzukinet.co.jp/recruit/application-requirements",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.suzuki.co.jp/ir/library/forinvestor/pdf/0220.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://mindmeister.jp/posts/bm-suzuki",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.suzuki.co.jp/ir/library/financialaffairs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.globalsuzuki.com/corporate/outline/pdf/fact_book.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.web.nhk/tv/pl/series-tep-615XJRJY38/ep/3JGLLGQJM4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.netdenjd.com/archives/630946",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "鈴木",
+   "results": [
+    "https://www.suzuki.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E9%88%B4%E6%9C%A8",
+    "https://www.youtube.com/channel/UCZ-EM7VVQ30QAQ1FbXPisJA",
+    "https://kakaku.com/kuruma/maker/suzuki/",
+    "https://dic.pixiv.net/a/%E9%88%B4%E6%9C%A8",
+    "https://ja.wikipedia.org/wiki/鈴木",
+    "https://ja.wikipedia.org/wiki/鈴木鈴木",
+    "https://grokipedia.com/page/Suzuki_surname",
+    "https://www.suzuki.co.jp/car/lineup/",
+    "https://x.com/tom_seina_ss"
+   ]
+  },
+  {
+   "query": "株式会社鈴木",
+   "results": [
+    "https://www.suzukinet.co.jp/ja/",
+    "https://www.suzuki.co.jp/",
+    "https://oshigoto.nagano.jp/company_summary/company_information/510/",
+    "https://job.mynavi.jp/27/pc/search/corp95170/outline.html",
+    "https://www.suzuki-web.co.jp/",
+    "https://ja.wikipedia.org/wiki/株式会社鈴木商会",
+    "https://ja.wikipedia.org/wiki/鈴木_(コネクタ)",
+    "https://www.suzukinet.co.jp/ja/company/gaiyo",
+    "http://suzuki-kk.co.jp/",
+    "https://www.suzuki-web.co.jp/company/"
+   ]
+  },
+  {
+   "query": "鈴木 ビジネスモデル",
+   "results": [
+    "https://www.suzuki.co.jp/ir/library/forinvestor/pdf/0220.pdf",
+    "https://mindmeister.jp/posts/bm-suzuki",
+    "https://www.suzuki-business.co.jp/",
+    "https://www.mne-jp.org/pdf/7/5.pdf",
+    "https://note.com/nekota_toure/n/nd09d0de68b04",
+    "https://www.youtube.com/watch?v=n1vwM-lhalE",
+    "https://compalyze.co.jp/company/6080401002482",
+    "https://www.talent-book.jp/suzuki",
+    "https://bizi-mo.com/c/suzuki",
+    "https://tech-consiglie.com/2026/08/24/『図解でわかる-知財で稼ぐビジネスモデル大全』/"
+   ]
+  },
+  {
+   "query": "鈴木 決算説明資料",
+   "results": [
+    "https://www.suzukinet.co.jp/ir/vhs",
+    "https://www.suzuki.co.jp/ir/library/financialaffairs/",
+    "https://www.suzukinet.co.jp/ir/ke_tan",
+    "https://www.suzuki.co.jp/ir/library/",
+    "https://finance.logmi.jp/articles/384186",
+    "https://irbox.jp/company/7269",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260512524365/",
+    "https://www.suzuki.co.jp/ir/library/forinvestor/",
+    "https://edinetdb.jp/company/E02058/presentations/",
+    "https://pdf.irpocket.com/C6785/xoA3/tx0r/xra1/vSE2.pdf"
+   ]
+  },
+  {
+   "query": "鈴木 事業系統図",
+   "results": [
+    "https://www.globalsuzuki.com/corporate/outline/pdf/fact_book.pdf",
+    "https://www.suzukinet.co.jp/ja/company/chart",
+    "https://www.suzuki.co.jp/ir/library/forinvestor/pdf/0220.pdf",
+    "https://edinetdb.jp/company/E02167/text",
+    "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BA%E3%82%AD_(%E4%BC%81%E6%A5%AD)",
+    "https://f.irbank.net/pdf/E02167/ir/S100W4MT.pdf",
+    "https://www.suzuki.co.jp/corporate/outline/",
+    "https://www.suzuki-scc.com/mission/",
+    "https://mindmeister.jp/posts/bm-suzuki",
+    "https://note.com/powerpoint_jp/n/n93ee16c72a92"
+   ]
+  },
+  {
+   "query": "鈴木 社長 インタビュー",
+   "results": [
+    "https://www.web.nhk/tv/pl/series-tep-615XJRJY38/ep/3JGLLGQJM4",
+    "https://www.netdenjd.com/archives/630946",
+    "https://www.asahi.com/articles/ASV1F3WJCV1FUTPB006M.html",
+    "https://www.nhk-ondemand.jp/goods/G2026154826SA000/",
+    "https://www.dodadsj.com/content/250225_suzuki/",
+    "https://www.nhk.jp/p/rs/PNR5MMWJ3Q/episode/re/267ZJ1ZV7Z/",
+    "https://tv.apple.com/jp/episode/%E3%82%B9%E3%82%B9%E3%82%AD%E7%A4%BE%E9%95%B7-%E9%88%B4%E6%9C%A8%E4%BF%8A%E5%AE%8F/umc.cmc.5l5obfgliii134sysialyef9o?showId=umc.cmc.52qemklnieo5gdy7mz9jgeurw",
+    "https://x.com/NHK_BS1/status/2025782957345321119",
+    "https://diamond-rm.net/management/topinterview/558274/",
+    "https://tsurigu-np.jp/news/30919/"
+   ]
+  }
+ ],
+ "missing": {
+  "ビジネスモデル": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部6頁・検索6回）",
+  "誰に": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部6頁・検索6回）",
+  "お金の形": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部6頁・検索6回）",
+  "売上構成": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部6頁・検索6回）"
+ }
+}

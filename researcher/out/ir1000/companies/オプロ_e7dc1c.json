@@ -1,0 +1,1807 @@
+{
+ "name": "オプロ",
+ "aliases": [],
+ "context": "証券コード228A／情報・通信業／グロース（内国株式）／2025.11期 売上高2,553百万円 営業利益率13.0%",
+ "researched_at": "2026-11-02T19:27:09.630441+00:00",
+ "official_url": "https://corp.opro.net/",
+ "identified_by": "search:ddgs:google:オプロ",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1993年6月29日",
+    "url": "https://corp.opro.net/about/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1997年4月4日",
+    "url": "https://corp.opro.net/about/company/",
+    "pass": 1
+   },
+   {
+    "label": "会社の設立はいつですか？",
+    "value": "1993年6月に有限会社里見企画を創業、1997年7月に株式会社エスピーオーを設立し、有限会社里見企画事務所を吸収合併、1998年12月に日本オプロ株式会社に社名変更、2019年2月に株式会社オプロに社名変更、東京都中央区に移転、現在に至ります。",
+    "url": "https://corp.opro.net/ir/faq/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1993年 （ 平成 5年）6月",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%97%E3%83%AD",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容を教えて下さい。",
+    "value": "サービス ページをご覧ください。",
+    "url": "https://corp.opro.net/ir/faq/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "クラウドサービスおよびソフトウェアの開発・提供",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%97%E3%83%AD",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "16億1820万円（2023年11月期）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%97%E3%83%AD",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "104人（2024年11月期時点）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%97%E3%83%AD",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "お客様の企業活動におけるDXを促進することで、",
+    "url": "https://corp.opro.net/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に喜んでいただけるサービスを常に強化しています",
+    "url": "https://corp.opro.net/about/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "常にお客様第一を考え、お客様の声を積極的に取り入れております",
+    "url": "https://corp.opro.net/about/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様へ高品質でプライスパフォーマンスの高い製品を提供し続けます",
+    "url": "https://corp.opro.net/about/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の「真の成功」に、誠実に向き合い伴走します​",
+    "url": "https://corp.opro.net/about/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "言われた通りに作るシステムベンダーではなく、プロフェッショナルとしてお客様の「本質的な成功」を共に追求します",
+    "url": "https://corp.opro.net/about/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "無駄を省くことで洗練されたUI/UXを提供し、お客様が迷わず本来のコアビジネスに集中できる環境を創り出します",
+    "url": "https://corp.opro.net/about/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは情報をブラックボックス化せず、透明性をもってお客様やパートナー様と広く共有します",
+    "url": "https://corp.opro.net/about/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "一方でビジネスドキュメントは、IT化の流れの中でさまざまなシステムの制約を受けることとなり、その扱いにおいて今もまだお客様を悩ませ続けています",
+    "url": "https://corp.opro.net/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "オプロは、情報のインプットの制約、システムの制約、情報利活用などのアウトプットの制約、ビジネスドキュメントに関わるすべての制約からお客様を解放し、最適を提供します",
+    "url": "https://corp.opro.net/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "一方で、DX推進によるSaaSビジネスが隆盛してきた昨今、お客様による利活用もさることながら、SaaSを提供する企業様においても販売管理や経営戦略など多角的になってきています",
+    "url": "https://corp.opro.net/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "​私たちはこれからも「未だないピースを発明する」ことをコンセプトにお客様のビジネスを加速させる価値を創造し続けてまいります",
+    "url": "https://corp.opro.net/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "オプロのプロダクトを提案し、顧客の課題を解決",
+    "url": "https://corp.opro.net/business/",
+    "pass": 1
+   },
+   {
+    "quote": "また、通信環境やお客様のコンピュータの状況、その他の理由により当ウェブサイトを正常に利用できない場合があります",
+    "url": "https://corp.opro.net/ir/disclaimer/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客の定着化",
+    "url": "https://note.com/opro/n/n94a6b0ed6d97",
+    "pass": 3
+   },
+   {
+    "quote": "フロー型のサービス提供によるお客様業務への定着化",
+    "url": "https://note.com/opro/n/n94a6b0ed6d97",
+    "pass": 3
+   },
+   {
+    "quote": "オプロは「make IT simple」というミッションのもと 、企業活動のDXを促進することでお客様の生産性を上げ、お客様を成功に導くためのクラウドサービス（SaaS）を展開しています",
+    "url": "https://note.com/opro/n/n94a6b0ed6d97",
+    "pass": 3
+   },
+   {
+    "quote": "Salesforceなどの主要な顧客関係管理（CRM）システムや、その他の各種クラウドシステムと深く連携し、見積書、請求書、契約書などのあらゆるビジネス文書の生成から配信、さらには電子契約への連携までを一元管理する「OPROARTS」などを主軸としたサービスを提供しています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "企業のDX（デジタルトランスフォーメーション）推進やペーパーレス化に不可欠なドキュメント領域に特化し、高い柔軟性と信頼性を強みとして、幅広い業界の大手企業から中小企業までを顧客に抱える強固な市場ポジションを築いています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "当期は、企業のデジタルシフトへの投資意欲が依然として高い水準で推移するなか、主要なクラウドERPやCRMプラットフォームとの連携強化を図り、既存顧客の利用拡大と新規顧客の獲得が着実に進行したことで、毎月の安定したストック収入が大きく積み上がりました",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした連携によって顧客はシステム同士のデータ連携に悩むことなく、スムーズに業務を管理できるメリットを得られます",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "また、見込み顧客や既存ユーザーに対する認知拡大と関係維持のために、セミナーや展示会への参加などマーケティング活動を継続しながら、新規顧客の開拓にも力を入れています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "多種多様なプラットフォームを理解し、顧客企業の要望に合わせて最適なサービス設計を行うためには、専門知識や経験が欠かせません",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "結果として、オプロは顧客の複雑な要望にもスピーディーに対応できる強固な開発体制を築いています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "オプロはこうした連携を強みにしながら、定期的な情報交換や共同イベントなどを通じて信頼関係を深めつつ、顧客への付加価値を提供しています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドサービスは導入前の情報収集が重視されるため、潜在顧客との接点を増やすことが必要だからです",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "また、パートナー企業との共同プロモーションによって、オプロ単独ではリーチできない顧客層にもアプローチできるようになります",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした多面的なチャネル戦略が、顧客との接点を拡大し、リード獲得を促進している要因です",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との関係",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "オプロでは、セミナーやイベントの開催、カスタマーサポートの充実などを通じて、顧客との関係を深めています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "このように継続支援を重視することで、顧客満足度が向上し、長期契約や追加サービスの利用にもつながっています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客セグメント",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客セグメントは、業種や企業規模を問わず多岐にわたります",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客企業によって導入形態やカスタマイズの範囲が異なるため、それぞれのニーズに応じた課金モデルを設定した方が柔軟性が高いからです",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドサービスは継続的な開発とアップデートが欠かせず、利用者が増えるほどサーバーリソースなどのコストも増大するからです",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "また、顧客との長期関係を重視する企業文化もあるため、サポート体制や顧客管理システムへの投資も必要になります",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "こうしたコストのバランスを取りながら、品質と顧客満足を維持している点がオプロの特徴です",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "導入企業が増えるほど運用事例が多様化し、さらなる改良につながるフィードバックも増加します",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、新たなサービスを生み出すスピードが高まり、顧客企業にとっての使い勝手や効果が向上する好循環が生まれます",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "結果的にユーザーコミュニティが拡大し、トレンドに応じた新機能の開発や既存サービスのアップデートが加速していくのです",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "これらのサービスはSalesforce上でシームレスに機能するように設計されており、ユーザーにとって使いやすいシステムに仕上がっています",
+    "url": "https://invest-n.jp/ir/3678/",
+    "pass": 3
+   },
+   {
+    "quote": "新サービス・新機能を生み出す顧客ニーズ把握力と製品アップデート力",
+    "url": "https://invest-n.jp/ir/3678/",
+    "pass": 3
+   },
+   {
+    "quote": "SaaSを継続して利用していただくためにはお客様のニーズを適切に把握し、サービスをより良いものへと改良していくことが必要です",
+    "url": "https://invest-n.jp/ir/3678/",
+    "pass": 3
+   },
+   {
+    "quote": "Salesforceと連携して帳票を出すシステムの開発はお客様のニーズからスタートしました",
+    "url": "https://invest-n.jp/ir/3678/",
+    "pass": 3
+   },
+   {
+    "quote": "SaaSの最大の利点は、お客様が使っている様子を確認し、都度ニーズを吸い上げることができるため、”ハズレ”のないサービス・機能を作りやすいという点にあります",
+    "url": "https://invest-n.jp/ir/3678/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様からの生の声は非常に重要です",
+    "url": "https://invest-n.jp/ir/3678/",
+    "pass": 3
+   },
+   {
+    "quote": "オンプレミスの世界では、SIerや代理店を通して販売されるため、お客様の声が開発者側には直接届きません",
+    "url": "https://invest-n.jp/ir/3678/",
+    "pass": 3
+   },
+   {
+    "quote": "このように、お客様からの要望に迅速に応え、新たなサービス開発をできることが強みだと自負しています",
+    "url": "https://invest-n.jp/ir/3678/",
+    "pass": 3
+   },
+   {
+    "quote": "市場や顧客に応じた柔軟な価格戦略",
+    "url": "https://invest-n.jp/ir/3678/",
+    "pass": 3
+   },
+   {
+    "quote": "当社のお客様層は幅広く、業界問わず様々なお客様にご利用いただいています",
+    "url": "https://invest-n.jp/ir/3678/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様によっては部門導入から始まることも多く、価格戦略を柔軟に変化させることで導入のハードルを下げています",
+    "url": "https://invest-n.jp/ir/3678/",
+    "pass": 3
+   },
+   {
+    "quote": "サービスによって料金体系は異なりますが、ID課金、従量課金、機能課金などのパラメーターがあるため、様々な選択肢から組み合わせることで、お客様に合わせた価格設計が可能です",
+    "url": "https://invest-n.jp/ir/3678/",
+    "pass": 3
+   },
+   {
+    "quote": "エンタープライズ領域のお客様への導入を進めるためには、SAP市場の開拓を避けて通ることはできません",
+    "url": "https://invest-n.jp/ir/3678/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様が増えるに伴い、長期的にサービスを利用してもらうことがビジネスの成功に不可欠であり、そのためにはLTV（Life Time Value）を向上させることが重要です",
+    "url": "https://invest-n.jp/ir/3678/",
+    "pass": 3
+   },
+   {
+    "quote": "このため、カスタマーサクセスのチームを強化し、お客様がサービスを効果的に活用できるように支援する体制を整えていきます",
+    "url": "https://invest-n.jp/ir/3678/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様からのフィードバックを迅速に反映し、新しい機能やサービスを提供することで、持続可能な成長を実現しています",
+    "url": "https://invest-n.jp/ir/3678/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、提携事業者とお客様との間の契約締結に関し、代理、斡旋、仲介等の形態を問わず、一切関与しないものとします",
+    "url": "https://invest-n.jp/ir/3678/",
+    "pass": 3
+   },
+   {
+    "quote": "・本サイトの利用に関連して、利用者と提携事業者や第三者間で発生した紛争やトラブルについては、当事者間で解決を図るものとし、当社はこれに関して一切の責任を負わないものとします",
+    "url": "https://invest-n.jp/ir/3678/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "ソリューションを",
+    "url": "https://corp.opro.net/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://corp.opro.net/",
+    "pass": 1
+   },
+   {
+    "quote": "PHPの脆弱性（CVE-2026-109618、CVE-2026-109619）に関する当社サービスへの影響について",
+    "url": "https://corp.opro.net/",
+    "pass": 1
+   },
+   {
+    "quote": "データオプティマイズソリューション",
+    "url": "https://corp.opro.net/",
+    "pass": 1
+   },
+   {
+    "quote": "セールスマネジメントソリューション",
+    "url": "https://corp.opro.net/",
+    "pass": 1
+   },
+   {
+    "quote": "紙の資料や社内で管理するデータ、外部サービスに連携するデータなど様々です",
+    "url": "https://corp.opro.net/about/",
+    "pass": 1
+   },
+   {
+    "quote": "まだ世の中にない新たなピースを発明することで最適なソリューションを提供します",
+    "url": "https://corp.opro.net/about/",
+    "pass": 1
+   },
+   {
+    "quote": "データオプティマイズソリューション",
+    "url": "https://corp.opro.net/about/",
+    "pass": 1
+   },
+   {
+    "quote": "セールスマネジメントソリューション",
+    "url": "https://corp.opro.net/about/",
+    "pass": 1
+   },
+   {
+    "quote": "オプロは「make IT simple」を実現するソフトウェア製品、サービスを提供してまいります",
+    "url": "https://corp.opro.net/about/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "オプロが目指す製品とサービスの指針です",
+    "url": "https://corp.opro.net/about/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "パフォーマンスの高い製品開発を続け、",
+    "url": "https://corp.opro.net/about/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に喜んでいただけるサービスを常に強化しています",
+    "url": "https://corp.opro.net/about/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様へ高品質でプライスパフォーマンスの高い製品を提供し続けます",
+    "url": "https://corp.opro.net/about/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "データオプティマイズソリューション",
+    "url": "https://corp.opro.net/about/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "セールスマネジメントソリューション",
+    "url": "https://corp.opro.net/about/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年のソフトウェア販売から始まり、2007年にクラウドサービスへシフト、2010年には、マルチクラウドへの対応を実現しました",
+    "url": "https://corp.opro.net/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "データオプティマイズソリューション",
+    "url": "https://corp.opro.net/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "セールスマネジメントソリューション",
+    "url": "https://corp.opro.net/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社インテリジェンス ビジネスソリューションズ(現パーソルビジネスプロセスデザイン株式会社)代表取締役等、複数の会社経営に参画",
+    "url": "https://corp.opro.net/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "デジタルインボイス送信サービス「Peppol Connector by OPRO」提供開始",
+    "url": "https://corp.opro.net/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "SAP向けクラウド帳票サービス「帳票DX for SAP」提供開始",
+    "url": "https://corp.opro.net/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "SmartHR向けクラウド帳票サービス「帳票DX for SmartHR」提供開始",
+    "url": "https://corp.opro.net/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "モノのサブスク販売管理サービス「モノスク」提供開始",
+    "url": "https://corp.opro.net/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "現場帳票DXサービス「帳票DXモバイルエントリー」提供開始",
+    "url": "https://corp.opro.net/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "次世代型クラウド帳票サービス「帳票DX」提供開始",
+    "url": "https://corp.opro.net/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "金融/行政機関向け 電子申請サービス「カミレス」提供開始",
+    "url": "https://corp.opro.net/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスク販売管理サービス「ソアスク」提供開始",
+    "url": "https://corp.opro.net/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドサービスにおける情報セキュリティの国際規格「ISO270",
+    "url": "https://corp.opro.net/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "販売管理クラウドサービス「soarize」提供開始",
+    "url": "https://corp.opro.net/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド帳票サービス 「oproarts」提供開始",
+    "url": "https://corp.opro.net/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "オンプレミス製品の帳票ソフトウエア「OPRO X Server」提供開始",
+    "url": "https://corp.opro.net/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "データオプティマイズソリューション",
+    "url": "https://corp.opro.net/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "セールスマネジメントソリューション",
+    "url": "https://corp.opro.net/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "外部サービスに連携されるデータなど、膨大な情報の分散が加速しています",
+    "url": "https://corp.opro.net/business/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、さまざまなクラウドサービスに対応することで、",
+    "url": "https://corp.opro.net/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://corp.opro.net/business/",
+    "pass": 1
+   },
+   {
+    "quote": "あらゆるデータを、必要な形に最適化するソリューション",
+    "url": "https://corp.opro.net/business/",
+    "pass": 1
+   },
+   {
+    "quote": "外部クラウドサービスに情報を入力する（インプット）や、データから必要な情報を取り出して整理・出力する（アウトプット）など情報の最適化を行います",
+    "url": "https://corp.opro.net/business/",
+    "pass": 1
+   },
+   {
+    "quote": "販売管理に必要な情報を一元管理し、業務プロセスの改善や事業成長を促進するソリューション",
+    "url": "https://corp.opro.net/business/",
+    "pass": 1
+   },
+   {
+    "quote": "現在はサブスクビジネスに特化してサービスを展開しています",
+    "url": "https://corp.opro.net/business/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド帳票サービス",
+    "url": "https://corp.opro.net/business/",
+    "pass": 1
+   },
+   {
+    "quote": "金融/行政機関向け 電子申請サービス",
+    "url": "https://corp.opro.net/business/",
+    "pass": 1
+   },
+   {
+    "quote": "帳票サービス",
+    "url": "https://corp.opro.net/business/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス（OEM）",
+    "url": "https://corp.opro.net/business/",
+    "pass": 1
+   },
+   {
+    "quote": "送信サービス",
+    "url": "https://corp.opro.net/business/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクビジネス管理サービス",
+    "url": "https://corp.opro.net/business/",
+    "pass": 1
+   },
+   {
+    "quote": "データやサービスを連携して事業拡大を推進するパートナーなど、",
+    "url": "https://corp.opro.net/business/",
+    "pass": 1
+   },
+   {
+    "quote": "データオプティマイズソリューション",
+    "url": "https://corp.opro.net/business/",
+    "pass": 1
+   },
+   {
+    "quote": "セールスマネジメントソリューション",
+    "url": "https://corp.opro.net/business/",
+    "pass": 1
+   },
+   {
+    "quote": "データオプティマイズソリューション",
+    "url": "https://corp.opro.net/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "セールスマネジメントソリューション",
+    "url": "https://corp.opro.net/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "データオプティマイズソリューション",
+    "url": "https://corp.opro.net/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "セールスマネジメントソリューション",
+    "url": "https://corp.opro.net/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "データオプティマイズソリューション",
+    "url": "https://corp.opro.net/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "セールスマネジメントソリューション",
+    "url": "https://corp.opro.net/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、金融商品取引法等の諸法令および東京証券取引所の定める適時開示等に関する規則（以下「適時開示規則」という）に従って、情報開示を行います",
+    "url": "https://corp.opro.net/ir/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "諸法令および適時開示規則に基づく情報開示にあたっては、TDnet（Timely Disclosure network：適時開示情報伝達システム）、EDINET（Electronic Disclosure for Investors' NETwork：金融商品取引法に基づく有価証券報告書等の開示書類に関する電子開示システム）において開示した後、当社ウェブサイトへ掲載します",
+    "url": "https://corp.opro.net/ir/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "データオプティマイズソリューション",
+    "url": "https://corp.opro.net/ir/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "セールスマネジメントソリューション",
+    "url": "https://corp.opro.net/ir/disclosure/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "パートナーサイトを見る",
+    "url": "https://corp.opro.net/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクの最前線を行く様々な企業の紹介や、ビジネスを成功に導くためのヒントをお届け",
+    "url": "https://corp.opro.net/",
+    "pass": 1
+   },
+   {
+    "quote": "会社情報や役員情報、沿革などを紹介",
+    "url": "https://corp.opro.net/about/",
+    "pass": 1
+   },
+   {
+    "quote": "オプロが掲げるMissionや理念を紹介",
+    "url": "https://corp.opro.net/about/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーサイトを見る",
+    "url": "https://corp.opro.net/about/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは情報をブラックボックス化せず、透明性をもってお客様やパートナー様と広く共有します",
+    "url": "https://corp.opro.net/about/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "会社情報や役員情報、沿革などを紹介",
+    "url": "https://corp.opro.net/about/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "オプロが掲げるMissionや理念を紹介",
+    "url": "https://corp.opro.net/about/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "会社情報や役員情報、沿革などを紹介",
+    "url": "https://corp.opro.net/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "オプロが掲げるMissionや理念を紹介",
+    "url": "https://corp.opro.net/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "東京六本木法律特許事務所パートナー",
+    "url": "https://corp.opro.net/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "会社情報や役員情報、沿革などを紹介",
+    "url": "https://corp.opro.net/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "オプロが掲げるMissionや理念を紹介",
+    "url": "https://corp.opro.net/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "オプロでは、ともにビジネスを成長させるパートナー企業を募集しています",
+    "url": "https://corp.opro.net/business/",
+    "pass": 1
+   },
+   {
+    "quote": "クライアントの課題を解決するパートナー、",
+    "url": "https://corp.opro.net/business/",
+    "pass": 1
+   },
+   {
+    "quote": "データやサービスを連携して事業拡大を推進するパートナーなど、",
+    "url": "https://corp.opro.net/business/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーサイトを見る",
+    "url": "https://corp.opro.net/business/",
+    "pass": 1
+   },
+   {
+    "quote": "導入パートナー",
+    "url": "https://corp.opro.net/business/",
+    "pass": 1
+   },
+   {
+    "quote": "連携パートナー",
+    "url": "https://corp.opro.net/business/",
+    "pass": 1
+   },
+   {
+    "quote": "についてご紹介します",
+    "url": "https://note.com/opro/n/n94a6b0ed6d97",
+    "pass": 3
+   },
+   {
+    "quote": "今後のnoteでは、当社の業績や事業モデルについて、少しずつわかりやすくご紹介していければと思っています",
+    "url": "https://note.com/opro/n/n94a6b0ed6d97",
+    "pass": 3
+   },
+   {
+    "quote": "主なパートナーとしては、Salesforceやkintoneなどのプラットフォーム提供企業が挙げられます",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "チャネルとしては、自社ウェブサイトをはじめ、パートナー企業が開催するイベントやセミナー、オンライン広告など多岐にわたります",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "また、パートナー企業との共同プロモーションによって、オプロ単独ではリーチできない顧客層にもアプローチできるようになります",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "継続的な商談を生み出すパートナーとの協業体制",
+    "url": "https://invest-n.jp/ir/3678/",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーとの強固な協業体制が当社の強みです",
+    "url": "https://invest-n.jp/ir/3678/",
+    "pass": 3
+   },
+   {
+    "quote": "特にSalesforceとのパートナーシップは、私たちのビジネスにおいて極めて重要な役割を果たしています",
+    "url": "https://invest-n.jp/ir/3678/",
+    "pass": 3
+   },
+   {
+    "quote": "新規商談の約9割はSalesforceやその代理店、またはコンサルティングファームなどからの紹介によるものです",
+    "url": "https://invest-n.jp/ir/3678/",
+    "pass": 3
+   },
+   {
+    "quote": "また、当社のパートナーの中にはアクセンチュアなどエンタープライズ領域に強いコンサルティングファームが多数おり、大規模案件受注に繋がっています",
+    "url": "https://invest-n.jp/ir/3678/",
+    "pass": 3
+   },
+   {
+    "quote": "オンプレミスの世界では、SIerや代理店を通して販売されるため、お客様の声が開発者側には直接届きません",
+    "url": "https://invest-n.jp/ir/3678/",
+    "pass": 3
+   },
+   {
+    "quote": "また、大手のコンサルティングパートナーはエンタープライズ領域を開拓する上で重要なチャネルとなるため、関係性の強化を図る取り組みを積極的に進めて参ります",
+    "url": "https://invest-n.jp/ir/3678/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "サブスクビジネス研究所",
+    "url": "https://corp.opro.net/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクの今を知るメディア",
+    "url": "https://corp.opro.net/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクの最前線を行く様々な企業の紹介や、ビジネスを成功に導くためのヒントをお届け",
+    "url": "https://corp.opro.net/",
+    "pass": 1
+   },
+   {
+    "quote": "日本サブスクリプションビジネス振興会",
+    "url": "https://corp.opro.net/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "モノのサブスク販売管理サービス「モノスク」提供開始",
+    "url": "https://corp.opro.net/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスク販売管理サービス「ソアスク」提供開始",
+    "url": "https://corp.opro.net/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "現在はサブスクビジネスに特化してサービスを展開しています",
+    "url": "https://corp.opro.net/business/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクビジネス管理サービス",
+    "url": "https://corp.opro.net/business/",
+    "pass": 1
+   },
+   {
+    "quote": "当社はストック型が8割以上を占めています",
+    "url": "https://note.com/opro/n/n94a6b0ed6d97",
+    "pass": 3
+   },
+   {
+    "quote": "ストック型は“積み上がる”のが大きな特徴です",
+    "url": "https://note.com/opro/n/n94a6b0ed6d97",
+    "pass": 3
+   },
+   {
+    "quote": "ストック型（継続的に積み上がる売上）",
+    "url": "https://note.com/opro/n/n94a6b0ed6d97",
+    "pass": 3
+   },
+   {
+    "quote": "ストック型とフロー型のイメージ図",
+    "url": "https://note.com/opro/n/n94a6b0ed6d97",
+    "pass": 3
+   },
+   {
+    "quote": "左側がストック型、右側がフロー型です",
+    "url": "https://note.com/opro/n/n94a6b0ed6d97",
+    "pass": 3
+   },
+   {
+    "quote": "ストック型：80％以上",
+    "url": "https://note.com/opro/n/n94a6b0ed6d97",
+    "pass": 3
+   },
+   {
+    "quote": "ストック型の中心は、クラウドサービスのライセンス利用料です",
+    "url": "https://note.com/opro/n/n94a6b0ed6d97",
+    "pass": 3
+   },
+   {
+    "quote": "いわゆる「サブスクリプション型」の売上です",
+    "url": "https://note.com/opro/n/n94a6b0ed6d97",
+    "pass": 3
+   },
+   {
+    "quote": "ストック型の最大の特徴は、",
+    "url": "https://note.com/opro/n/n94a6b0ed6d97",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、上期に受注したライセンスは、",
+    "url": "https://note.com/opro/n/n94a6b0ed6d97",
+    "pass": 3
+   },
+   {
+    "quote": "結果としてストック収益の拡大にもつながっています",
+    "url": "https://note.com/opro/n/n94a6b0ed6d97",
+    "pass": 3
+   },
+   {
+    "quote": "もう一点、当社の特徴として、ライセンス売上は原則",
+    "url": "https://note.com/opro/n/n94a6b0ed6d97",
+    "pass": 3
+   },
+   {
+    "quote": "ストック型が8割以上を占める、安定して成長を継続できる構造",
+    "url": "https://note.com/opro/n/n94a6b0ed6d97",
+    "pass": 3
+   },
+   {
+    "quote": "サブスクリプション",
+    "url": "https://note.com/opro/n/n94a6b0ed6d97",
+    "pass": 3
+   },
+   {
+    "quote": "ストックビジネス",
+    "url": "https://note.com/opro/n/n94a6b0ed6d97",
+    "pass": 3
+   },
+   {
+    "quote": "この優れた増収増益の業績を後押しした背景には、サブスクリプション（継続課金型）ビジネスの順調な拡大と、製品ラインナップの強化があります",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "当期は、企業のデジタルシフトへの投資意欲が依然として高い水準で推移するなか、主要なクラウドERPやCRMプラットフォームとの連携強化を図り、既存顧客の利用拡大と新規顧客の獲得が着実に進行したことで、毎月の安定したストック収入が大きく積み上がりました",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "収益の流れとしては、クラウドサービスの利用料やサブスクリプション料、さらに導入時のコンサルティング料が大きな柱です",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "サブスクリプション型の安定収益と、コンサルティングによるスポット収益を組み合わせることで、事業を安定的に運営できます",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "オプロは、企業の帳票出力や電子申請、サブスクリプション型の契約・請求管理などを対象としたSaaSソリューションを開発・提供している",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%97%E3%83%AD",
+    "pass": 3
+   },
+   {
+    "quote": "2023年 - モノのサブスク管理サービス「モノスク」や、SmartHR・SAP向け帳票サービスを展開",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%97%E3%83%AD",
+    "pass": 3
+   },
+   {
+    "quote": "- サブスクリプション型ビジネスの契約・請求管理を支援",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%97%E3%83%AD",
+    "pass": 3
+   },
+   {
+    "quote": "- 有形商材を扱う企業向けのサブスク販売管理ソリューション",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%97%E3%83%AD",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%97%E3%83%AD",
+    "pass": 3
+   },
+   {
+    "quote": "一部はオンプレミスで提供している製品もありますが、基本的にはSaaS型で提供しているため、ストック収益が積み上がっていく安定的なビジネスモデルです",
+    "url": "https://invest-n.jp/ir/3678/",
+    "pass": 3
+   },
+   {
+    "quote": "サービスによって料金体系は異なりますが、ID課金、従量課金、機能課金などのパラメーターがあるため、様々な選択肢から組み合わせることで、お客様に合わせた価格設計が可能です",
+    "url": "https://invest-n.jp/ir/3678/",
+    "pass": 3
+   },
+   {
+    "quote": "・本サイトに掲載される他社の商品に関する情報に関しては、最大限の注意を払っておりますが、金利、手数料、その他商品情報の完全な正確性や信頼性を保証するものではありません",
+    "url": "https://invest-n.jp/ir/3678/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年10月30日",
+    "url": "https://corp.opro.net/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月23日",
+    "url": "https://corp.opro.net/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月13日",
+    "url": "https://corp.opro.net/",
+    "pass": 1
+   },
+   {
+    "quote": "会社情報や役員情報、沿革などを紹介",
+    "url": "https://corp.opro.net/about/",
+    "pass": 1
+   },
+   {
+    "quote": "会社情報や役員情報、沿革などを紹介",
+    "url": "https://corp.opro.net/about/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年のソフトウェア販売から始まり、2007年にクラウドサービスへシフト、2010年には、マルチクラウドへの対応を実現しました",
+    "url": "https://corp.opro.net/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "会社情報や役員情報、沿革などを紹介",
+    "url": "https://corp.opro.net/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "1993年6月29日",
+    "url": "https://corp.opro.net/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "1997年4月4日",
+    "url": "https://corp.opro.net/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "1997年に株式会社エスピーオー（現当社）を設立",
+    "url": "https://corp.opro.net/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年取締役就任",
+    "url": "https://corp.opro.net/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年取締役就任",
+    "url": "https://corp.opro.net/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年当社社外取締役就任",
+    "url": "https://corp.opro.net/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年当社社外取締役就任",
+    "url": "https://corp.opro.net/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年当社監査役就任",
+    "url": "https://corp.opro.net/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年当社社外監査役就任",
+    "url": "https://corp.opro.net/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "会社情報や役員情報、沿革などを紹介",
+    "url": "https://corp.opro.net/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月期 第3四半期 決算説明会",
+    "url": "https://corp.opro.net/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "1993年6月に有限会社里見企画を創業、1997年7月に株式会社エスピーオーを設立し、有限会社里見企画事務所を吸収合併、1998年12月に日本オプロ株式会社に社名変更、2019年2月に株式会社オプロに社名変更、東京都中央区に移転、現在に至ります",
+    "url": "https://corp.opro.net/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年8月21日です",
+    "url": "https://corp.opro.net/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月10日 10:58",
+    "url": "https://note.com/opro/n/n94a6b0ed6d97",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年2月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年8月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年7月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年5月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年4月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年2月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年1月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%97%E3%83%AD",
+    "pass": 3
+   },
+   {
+    "quote": "2024年8月21日上場",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%97%E3%83%AD",
+    "pass": 3
+   },
+   {
+    "quote": "2024年8月に",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%97%E3%83%AD",
+    "pass": 3
+   },
+   {
+    "quote": "2023年11月期の売上高は16億1820万円で、そのうちクラウドサービスによる売上が94.3%を占めるなど、SaaS事業を主軸とした収益構造となっている",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%97%E3%83%AD",
+    "pass": 3
+   },
+   {
+    "quote": "1993年6月 -",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%97%E3%83%AD",
+    "pass": 3
+   },
+   {
+    "quote": "1997年 - 株式会社エスピーオーを設立し、旧法人を吸収合併",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%97%E3%83%AD",
+    "pass": 3
+   },
+   {
+    "quote": "1998年 -",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%97%E3%83%AD",
+    "pass": 3
+   },
+   {
+    "quote": "2003年 - 帳票ソフトウェア「OPRO X Server」提供開始",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%97%E3%83%AD",
+    "pass": 3
+   },
+   {
+    "quote": "2007年 - クラウド帳票サービス「oproarts」提供開始",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%97%E3%83%AD",
+    "pass": 3
+   },
+   {
+    "quote": "2019年 -",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%97%E3%83%AD",
+    "pass": 3
+   },
+   {
+    "quote": "2020年 - 電子申請サービス「カミレス」提供開始",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%97%E3%83%AD",
+    "pass": 3
+   },
+   {
+    "quote": "2022年 - クラウド帳票サービス「帳票DX」および「帳票DXモバイルエントリー」提供開始",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%97%E3%83%AD",
+    "pass": 3
+   },
+   {
+    "quote": "2023年 - モノのサブスク管理サービス「モノスク」や、SmartHR・SAP向け帳票サービスを展開",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%97%E3%83%AD",
+    "pass": 3
+   },
+   {
+    "quote": "2024年8月 -",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%97%E3%83%AD",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月23日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%97%E3%83%AD",
+    "pass": 3
+   },
+   {
+    "quote": "2024年11月期 有価証券報告書",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%97%E3%83%AD",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月20日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%97%E3%83%AD",
+    "pass": 3
+   },
+   {
+    "quote": "1993年設立の日本企業",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%97%E3%83%AD",
+    "pass": 3
+   },
+   {
+    "quote": "2024年上場の企業",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%97%E3%83%AD",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "更に、環境・グローバル・M&A等を考慮し、ビジネスモデルを含め、",
+    "url": "https://corp.opro.net/about/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "オプロを読み解く #1｜オプロの収益モデルってどうなっているの？ 売上構造をわかりやすく解説します｜オプロ公式note",
+    "url": "https://note.com/opro/n/n94a6b0ed6d97",
+    "pass": 3
+   },
+   {
+    "quote": "オプロを読み解く #1｜オプロの収益モデルってどうなっているの？ 売上構造をわかりやすく解説します",
+    "url": "https://note.com/opro/n/n94a6b0ed6d97",
+    "pass": 3
+   },
+   {
+    "quote": "「収益モデル」",
+    "url": "https://note.com/opro/n/n94a6b0ed6d97",
+    "pass": 3
+   },
+   {
+    "quote": "まとめ：安定性と成長性のバランスが取れた収益モデル",
+    "url": "https://note.com/opro/n/n94a6b0ed6d97",
+    "pass": 3
+   },
+   {
+    "quote": "ここまでをまとめると、当社の収益モデルは",
+    "url": "https://note.com/opro/n/n94a6b0ed6d97",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://note.com/opro/n/n94a6b0ed6d97",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社オプロの魅力に迫る ビジネスモデルと成長戦略を徹底解説 | チームマイクの企業分析",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社オプロの魅力に迫る ビジネスモデルと成長戦略を徹底解説",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社Faber Companyのビジネスモデルから見る成長戦略",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルを紐解く成長戦略の最前線 株式会社ショーケースが描く未来像",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ドーンのビジネスモデルを読み解く魅力と成長戦略",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "THECOOのビジネスモデルと成長戦略を徹底解説 ファンコミュニティで加速する未来",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "THECOOのビジネスモデルと成長戦略を徹底解説THECOO株式会社【全体の業績】THECOO株式会社は、ファンビジネスプラットフォーム「Fanicon（ファニコン）」の運営を中心に、インフルエンサーマーケティング事業やアイコンのグッズ企画...",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社セカンドサイトアナリティクスの成長戦略がすごい ビジネスモデルが気になる方必見",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "メディエア株式会社が描くビジネスモデルと成長戦略",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "丸大食品のビジネスモデルを徹底解説 成長戦略の秘密を探る",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社福留ハムの魅力を探るビジネスモデルと成長戦略",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ドライケミカル株式会社の『ビジネスモデル』と圧倒的競争力を解",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社動力のIR資料から紐解く次世代へのビジネスモデルと成長戦略",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ガイシの驚異的なビジネスモデルと次世代へ向けた成長戦略を徹底解説",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "マーチャント・バンカーズの隠された成長戦略と驚異のビジネスモデル",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年11月期の売上高は16億1820万円で、そのうちクラウドサービスによる売上が94.3%を占めるなど、SaaS事業を主軸とした収益構造となっている",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%97%E3%83%AD",
+    "pass": 3
+   },
+   {
+    "quote": "このオンプレミス型からクラウド型へのビジネスモデルの転換が、今日までの事業成長を支えています",
+    "url": "https://invest-n.jp/ir/3678/",
+    "pass": 3
+   },
+   {
+    "quote": "一部はオンプレミスで提供している製品もありますが、基本的にはSaaS型で提供しているため、ストック収益が積み上がっていく安定的なビジネスモデルです",
+    "url": "https://invest-n.jp/ir/3678/",
+    "pass": 3
+   },
+   {
+    "quote": "当社のビジネスモデルは、SaaSの強みを最大限に活かしたものです",
+    "url": "https://invest-n.jp/ir/3678/",
+    "pass": 3
+   },
+   {
+    "quote": "そして、当社のビジネスモデルがSaaSビジネスであるため、安定した収益を生み出すため、SIerやソフトウェア開発企業とは異なる成長曲線を描いています",
+    "url": "https://invest-n.jp/ir/3678/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "顧客セグメント",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客セグメントは、業種や企業規模を問わず多岐にわたります",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "企業のDX（デジタルトランスフォーメーション）推進やペーパーレス化に不可欠なドキュメント領域に特化し、高い柔軟性と信頼性を強みとして、幅広い業界の大手企業から中小企業までを顧客に抱える強固な市場ポジションを築いています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "開発体制の強化に伴う人件費の増加や、認知度向上のための広告宣伝費といった先行投資を継続的に実施したものの、それを上回る売上高の拡大と高い売上総利益率の維持により、すべての段階利益で前年同期を上回る大幅な利益成長を実現するに至りました",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "オプロはこうした連携を強みにしながら、定期的な情報交換や共同イベントなどを通じて信頼関係を深めつつ、顧客への付加価値を提供しています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "多様なプラットフォームと連携できる強みを持っているため、特定の業界に限定されることなく幅広いニーズに応えられるからです",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーとの強固な協業体制が当社の強みです",
+    "url": "https://invest-n.jp/ir/3678/",
+    "pass": 3
+   },
+   {
+    "quote": "このように、お客様からの要望に迅速に応え、新たなサービス開発をできることが強みだと自負しています",
+    "url": "https://invest-n.jp/ir/3678/",
+    "pass": 3
+   },
+   {
+    "quote": "当社のビジネスモデルは、SaaSの強みを最大限に活かしたものです",
+    "url": "https://invest-n.jp/ir/3678/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "オプロを読み解く #1｜オプロの収益モデルってどうなっているの？ 売... — Jul 9, 2026 · はじめまして。 オプロでIRを担当しています。 今回が私自身としては初めての投稿となりますが、IR担当として、決算資料だけでは少し伝わりづらい部分について、できるだけ「わかりやすく」お伝えしていければと思っています。",
+    "url": "https://note.com/opro/n/n94a6b0ed6d97",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社オプロの魅力に迫る ビジネスモデルと成長戦略を徹底解説 | ... — Jan 26, 2025 · これらの動きを踏まえると、オプロは企業の成長戦略において着実に実績を積み重ね、クラウドサービスのさらなる浸透とともに市場での存在感を高める可能性が大いにあります。",
+    "url": "https://consovation.com/ビジネスモデルキャンバスで読み解くオプロの成/",
+    "pass": 3
+   },
+   {
+    "quote": "オプロを読み解く #4｜業績見通し修正の背景と、次の成長への布石：オ... — Oct 19, 2026 · その理由をたどっていくと、オプロのビジネスの仕組みと、AIを軸にした次の一手が見えてきます。 前回の第2四半期決算レポートとあわせてご覧いただけると、よりわかりやすいと思います。 決算説明会の動画",
+    "url": "https://note.com/opro/n/n4595d1ad308d",
+    "pass": 3
+   },
+   {
+    "quote": "【228A】株式会社オプロ 事業概要と成長戦略に関するIRインタビュー -... — Oct 15, 2026 · ※本コラムは2024年10月3日に実施したIRインタビューをもとにしております。 株式会社オプロは「帳票DX」や「ソアスク」など、企業の生産性をあげるSaaSを提供しています。 代表取締役社長の里見 一典氏に事業戦略の変遷や今後の成長方針を伺いました。",
+    "url": "https://invest-n.jp/ir/3678/",
+    "pass": 3
+   },
+   {
+    "quote": "オプロ（228a）の事業内容、事業の状況や経営戦略、事業等のリスクに... — 本ページでは、有価証券報告書記載のオプロの事業内容、事業の状況や経営指針、事業のリスクなどについて紹介しています。 最新の経営戦略、ビジネスモデル、財務状況、および将来の展望を含む包括的な情報をご提供します。",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=228a",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 - 株式会社オプロ — データオプティマイズソリューション 帳票DX マドレス カミレス Agentファイル Peppol Connector by OPRO ドキュトーン オプロアーツ セールスマネジメントソリューション ソアスク ニュース パートナー サポート イベント＆セミナー IR情報 採用情報 お問い合わせ",
+    "url": "https://corp.opro.net/ir/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 - 株式会社オプロ — データオプティマイズソリューション 帳票DX マドレス カミレス Agentファイル Peppol Connector by OPRO ドキュトーン オプロアーツ セールスマネジメントソリューション ソアスク ニュース パートナー サポート イベント＆セミナー IR情報 採用情報 お問い合わせ",
+    "url": "https://corp.opro.net/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社オプロ 決算説明資料 — EDINET DB — EDINET DB > 企業一覧 > 株式会社オプロ > IR資料 > 決算説明資料 株式会社オプロ — 決算説明資料 四半期決算の説明資料。 経営者による業績解説と短期見通し。 AIによる構造化データ・参考情報。 重要な判断には 元PDFをご確認ください。",
+    "url": "https://edinetdb.jp/company/E39846/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2026 年11月期第3四半期決算説明資料 — オプロの提供価値 見積から契約、請求、会計処理までを一気通貫で管理する体制を構築し、業務工数の削減と内部統制の強化を同時に進める。 実績情報をソアスク上で一元管理。複数システムに分散していたデータ",
+    "url": "https://tdnet-pdf.kabutan.jp/20261013/140120261013549673.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "オプロを読み解く #4｜業績見通し修正の背景と、次の成長への布石：オ... — Oct 19, 2026 · こんにちは。 IR担当の加邉です。 株式会社オプロ（東証グロース：228A）は2026年10月13日に「2026年11月期 第3四半期決算説明会」を開催しました。 今回の第3四半期決算で、オプロは通期の売上高見通しを引き下げる一方、利益見通しは引き上げました。",
+    "url": "https://note.com/opro/n/n4595d1ad308d",
+    "pass": 3
+   },
+   {
+    "quote": "オプロ - Wikipedia — 主にSalesforceなどのCRM/SFAとの連携を前提とした業務のデジタル化を支援するサービス群を展開 [2]。 2023年11月期の売上高は16億1820万円で、そのうちクラウドサービスによる売上が94.3%を占めるなど、SaaS事業を主軸とした収益構造となっている [3]。",
+    "url": "https://ja.wikipedia.org/wiki/オプロ",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社オプロ — オプロ公式note オプロの人や仕事、カルチャーを発信しています。 サブスクビジネス研究所 サブスクの今を知るメディア。 サブスクの最前線を行く様々な企業の紹介や、ビジネスを成功に導くためのヒントをお届け。",
+    "url": "https://corp.opro.net/",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容｜株式会社オプロ — データやサービスを連携して事業拡大を推進するパートナーなど、 私たちは自社だけでなく、さまざまな企業との連携によってビジネスを推進しています。 オプロのプロダクトや開発力を活用し、ともに「make IT simple」の世界を広げましょう。",
+    "url": "https://corp.opro.net/business/",
+    "pass": 3
+   },
+   {
+    "quote": "オプロ（228A）｜上場企業 事業内容の全文 — [事業系統図] （注） 当社では、サービスの提供形態によりクラウド売上と製品売上に区分しており、それぞれクラウドサービスによるサービス提供とオンプレミスによるサービス提供を行っております。",
+    "url": "https://jigyou.kabu-trendpro.com/company.php?ticker=228A",
+    "pass": 3
+   },
+   {
+    "quote": "オプロ [228A]：事業計画及び成長可能性に関する事項について 2024年8... — 2024年8月21日 オプロ [228A]の開示資料「事業計画及び成長可能性に関する事項について」 が閲覧できます。資料はPDFでダウンロードできます",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20240820573943/",
+    "pass": 3
+   },
+   {
+    "quote": "オプロ[228A]IPO - YouTube【228A】株式会社オプロ 事業概要と成長戦略に関するIRインタビュー -...代表メッセージ｜新卒・キャリア 採用情報｜株式会社オプロ上場から1年。“挑戦の先に見えた景色”──代表が語る裏側とこれから（後...本音のオプロ｜新卒・キャリア 採用情報｜株式会社オプロ業界毎特集記事－株式会社オプロ 代表取締役社長 里見 一典｜社長名鑑 — Aug 21, 2024 · 「新規上場企業トップインタビュー」2024年08月21日、新規上場したオプロ 代表取締役社長 里見一典さんに東京マーケットワイドにご出演いただき ... Oct 15, 2026 · ※本コラムは2024年10月3日に実施したIRインタビューをもとにしております。 株式会社オプロは「帳票DX」や「ソアスク」など、企業の生産性をあげるSaaSを提供しています。 代表取締役社長の里見 一",
+    "url": "https://www.youtube.com/watch?v=-9RJkH26oYc",
+    "pass": 3
+   },
+   {
+    "quote": "代表メッセージ｜新卒・キャリア 採用情報｜株式会社オプロ — オプロでは約半数が会社の成長を目の当たりにしてきた新卒で、皆さんよくやってくれています。 ただ、少し物足りないのは、変化に対応して会社をぐいぐい引っ張るような社員が少ないことです。",
+    "url": "https://recruit.opro.net/recruit/OPRO/message/",
+    "pass": 3
+   },
+   {
+    "quote": "本音のオプロ｜新卒・キャリア 採用情報｜株式会社オプロ — オプロのオリジナルコンテンツページです。 よくある求職者の悩みとして就職活動に本当は聞きたくても聞けない質問があることが挙げられます。 このページでは、そういった質問に対してオプロの社員に本音で答えてもらいます。",
+    "url": "https://recruit.opro.net/recruit/environment/honest-feelings/",
+    "pass": 3
+   },
+   {
+    "quote": "業界毎特集記事－株式会社オプロ 代表取締役社長 里見 一典｜社長名鑑 — 膨大な情報を瞬時に管理し最適化するクラウドサービスは、現代において不可欠な存在だ。 そんな中、2024年8月、帳票の電子化や電子申請サービスを展開する株式会社オプロが、東京証券取引所グロース市場への新規上場を果たした。",
+    "url": "https://shachomeikan.jp/industry_article/3496",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://corp.opro.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.opro.net/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.opro.net/about/philosophy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.opro.net/about/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.opro.net/about/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.opro.net/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.opro.net/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.opro.net/ir/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.opro.net/ir/governance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.opro.net/ir/disclosure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.opro.net/ir/highlight/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.opro.net/ir/result/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.opro.net/ir/presentation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.opro.net/ir/securities/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.opro.net/ir/material/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.opro.net/ir/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.opro.net/ir/meeting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.opro.net/contact/ir.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.opro.net/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.opro.net/ir/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.opro.net/ir/notice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.opro.net/ir/disclaimer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.opro.net/ir/news/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://corp.opro.net/business/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.com/opro/n/n94a6b0ed6d97",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9%E3%81%A7%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%82%AA%E3%83%97%E3%83%AD%E3%81%AE%E6%88%90/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%97%E3%83%AD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=-9RJkH26oYc",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://invest-n.jp/ir/3678/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "オプロ",
+   "results": [
+    "https://ja.wikipedia.org/wiki/オプロ",
+    "https://corp.opro.net/",
+    "https://corp.opro.net/about/company/",
+    "https://www.youtube.com/@OPROJAPAN",
+    "https://note.com/opro",
+    "https://finance.yahoo.co.jp/quote/228A.T",
+    "https://www.facebook.com/OPROJAPAN/"
+   ]
+  },
+  {
+   "query": "オプロ ビジネスモデル",
+   "results": [
+    "https://note.com/opro/n/n94a6b0ed6d97",
+    "https://consovation.com/ビジネスモデルキャンバスで読み解くオプロの成/",
+    "https://note.com/opro/n/n4595d1ad308d",
+    "https://invest-n.jp/ir/3678/",
+    "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=228a",
+    "https://corp.opro.net/ir/guide/",
+    "http://ke.kabupro.jp/tsp/20240821/140120240820573943.pdf"
+   ]
+  },
+  {
+   "query": "オプロ 決算説明資料",
+   "results": [
+    "https://corp.opro.net/ir/presentation/",
+    "https://corp.opro.net/ir/",
+    "https://edinetdb.jp/company/E39846/presentations/",
+    "https://tdnet-pdf.kabutan.jp/20261013/140120261013549673.pdf",
+    "https://note.com/opro/n/n4595d1ad308d",
+    "https://tdnet-pdf.kabutan.jp/20260409/140120260409500835.pdf",
+    "https://treelazy.com/stock-jp/228A/conference"
+   ]
+  },
+  {
+   "query": "オプロ 事業系統図",
+   "results": [
+    "https://ja.wikipedia.org/wiki/オプロ",
+    "https://corp.opro.net/",
+    "https://corp.opro.net/business/",
+    "https://jigyou.kabu-trendpro.com/company.php?ticker=228A",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20240820573943/",
+    "https://invest-n.jp/ir/3678/",
+    "http://ke.kabupro.jp/tsp/20240821/140120240820573943.pdf"
+   ]
+  },
+  {
+   "query": "オプロ 社長 インタビュー",
+   "results": [
+    "https://www.youtube.com/watch?v=-9RJkH26oYc",
+    "https://invest-n.jp/ir/3678/",
+    "https://recruit.opro.net/recruit/OPRO/message/",
+    "https://recruit.opro.net/recruit/environment/honest-feelings/",
+    "https://shachomeikan.jp/industry_article/3496",
+    "https://note.com/opro/n/nb9e586c605ae",
+    "https://note.com/opro/n/nf8f91f8e14e1"
+   ]
+  }
+ ],
+ "missing": {}
+}

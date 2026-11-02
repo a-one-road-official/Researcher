@@ -1,0 +1,1571 @@
+{
+ "name": "ダイダン",
+ "aliases": [],
+ "context": "証券コード1980／建設業／プライム（内国株式）／2026.03期 売上高256,228百万円 営業利益率13.5%",
+ "researched_at": "2026-11-02T19:20:45.421816+00:00",
+ "official_url": "https://www.daidan.co.jp/",
+ "identified_by": "search:yahoo_jp:ダイダン",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1903年（明治36年）3月4日",
+    "url": "https://www.daidan.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1933年（昭和8年）10月10日",
+    "url": "https://www.daidan.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1933年（創業1903年）",
+    "url": "https://shachomeikan.jp/industry_article/4465",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "2,568名 ※2026年3月末現在、契約社員・パートタイマー含む",
+    "url": "https://www.daidan.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "2,445名（個別：2,070名）※2025年3月末現在、契約社員・パートタイマー含む",
+    "url": "https://shachomeikan.jp/industry_article/4465",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "主な事業内容",
+    "value": "電気工事、空調工事、水道衛生工事、消防施設工事 および機械器具設置工事の設計、監理、施工",
+    "url": "https://www.daidan.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "label": "事業概要",
+    "value": "電気工事、空調工事、水道衛生工事、消防施設工事および機械器具設置工事の設計、監理、施工",
+    "url": "https://shachomeikan.jp/industry_article/4465",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "連結売上高",
+    "value": "2,627億円 2,600億円 2,700億円 （100億円増）",
+    "url": "https://www.daidan.co.jp/ir/library/management-plan/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "」のスローガンの下、お客様に最適な環境を創造し提供しています",
+    "url": "https://www.daidan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "地球、社会、お客様にとってより良い環境を提供するため、実証実験のできる設備を整備し、最新技術の研究開発を日々行っています",
+    "url": "https://www.daidan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の課題に対して、わたしたちがどう取り組んできたかをご紹介します",
+    "url": "https://www.daidan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様 行動指針",
+    "url": "https://www.daidan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実、本サイトの快適なご利用のために、クッキーを使用しています",
+    "url": "https://www.daidan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様 行動指針",
+    "url": "https://www.daidan.co.jp/tech/business/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実、本サイトの快適なご利用のために、クッキーを使用しています",
+    "url": "https://www.daidan.co.jp/tech/business/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様 行動指針",
+    "url": "https://www.daidan.co.jp/company/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実、本サイトの快適なご利用のために、クッキーを使用しています",
+    "url": "https://www.daidan.co.jp/company/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様 行動指針",
+    "url": "https://www.daidan.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実、本サイトの快適なご利用のために、クッキーを使用しています",
+    "url": "https://www.daidan.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様 行動指針",
+    "url": "https://www.daidan.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実、本サイトの快適なご利用のために、クッキーを使用しています",
+    "url": "https://www.daidan.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様 行動指針",
+    "url": "https://www.daidan.co.jp/sustainability/report/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実、本サイトの快適なご利用のために、クッキーを使用しています",
+    "url": "https://www.daidan.co.jp/sustainability/report/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、脱炭素化に向けた研究・開発や取引先等との継続的な対話を通じて、バリューチェーン全体でのGHG排出量削減を進め、カーボンニュートラルの実現に向けた取り組みを一層強化してまいります",
+    "url": "https://www.daidan.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様 行動指針",
+    "url": "https://www.daidan.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実、本サイトの快適なご利用のために、クッキーを使用しています",
+    "url": "https://www.daidan.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様 行動指針",
+    "url": "https://www.daidan.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実、本サイトの快適なご利用のために、クッキーを使用しています",
+    "url": "https://www.daidan.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様 行動指針",
+    "url": "https://www.daidan.co.jp/news/category/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実、本サイトの快適なご利用のために、クッキーを使用しています",
+    "url": "https://www.daidan.co.jp/news/category/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様 行動指針",
+    "url": "https://www.daidan.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実、本サイトの快適なご利用のために、クッキーを使用しています",
+    "url": "https://www.daidan.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様 行動指針",
+    "url": "https://www.daidan.co.jp/ir/library/financial-statements/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実、本サイトの快適なご利用のために、クッキーを使用しています",
+    "url": "https://www.daidan.co.jp/ir/library/financial-statements/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様 行動指針",
+    "url": "https://www.daidan.co.jp/ir/library/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実、本サイトの快適なご利用のために、クッキーを使用しています",
+    "url": "https://www.daidan.co.jp/ir/library/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様 行動指針",
+    "url": "https://www.daidan.co.jp/ir/library/annual-report/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実、本サイトの快適なご利用のために、クッキーを使用しています",
+    "url": "https://www.daidan.co.jp/ir/library/annual-report/",
+    "pass": 1
+   },
+   {
+    "quote": "『空間価値創造』企業とは、社会やお客様が本質的、潜在的に求めている「価値」 のある「空間」を「創造」し、満足を提供していく企業です",
+    "url": "https://www.daidan.co.jp/ir/library/management-plan/",
+    "pass": 1
+   },
+   {
+    "quote": "建物のライフサイクル全般でデジタル技術を駆使して顧客により良い空間を提供する",
+    "url": "https://www.daidan.co.jp/ir/library/management-plan/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様 行動指針",
+    "url": "https://www.daidan.co.jp/ir/library/management-plan/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実、本サイトの快適なご利用のために、クッキーを使用しています",
+    "url": "https://www.daidan.co.jp/ir/library/management-plan/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様 行動指針",
+    "url": "https://www.daidan.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実、本サイトの快適なご利用のために、クッキーを使用しています",
+    "url": "https://www.daidan.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様 行動指針",
+    "url": "https://www.daidan.co.jp/ir/investor/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実、本サイトの快適なご利用のために、クッキーを使用しています",
+    "url": "https://www.daidan.co.jp/ir/investor/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様 行動指針",
+    "url": "https://www.daidan.co.jp/ir/stock-info/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実、本サイトの快適なご利用のために、クッキーを使用しています",
+    "url": "https://www.daidan.co.jp/ir/stock-info/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様 行動指針",
+    "url": "https://www.daidan.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実、本サイトの快適なご利用のために、クッキーを使用しています",
+    "url": "https://www.daidan.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様 行動指針",
+    "url": "https://www.daidan.co.jp/ir/esg/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実、本サイトの快適なご利用のために、クッキーを使用しています",
+    "url": "https://www.daidan.co.jp/ir/esg/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様 行動指針",
+    "url": "https://www.daidan.co.jp/ir/public-notice/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実、本サイトの快適なご利用のために、クッキーを使用しています",
+    "url": "https://www.daidan.co.jp/ir/public-notice/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様 行動指針",
+    "url": "https://www.daidan.co.jp/ir/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実、本サイトの快適なご利用のために、クッキーを使用しています",
+    "url": "https://www.daidan.co.jp/ir/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様 行動指針",
+    "url": "https://www.daidan.co.jp/ir/disclaimer/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実、本サイトの快適なご利用のために、クッキーを使用しています",
+    "url": "https://www.daidan.co.jp/ir/disclaimer/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様 行動指針",
+    "url": "https://www.daidan.co.jp/recruit/graduate/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実、本サイトの快適なご利用のために、クッキーを使用しています",
+    "url": "https://www.daidan.co.jp/recruit/graduate/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様 行動指針",
+    "url": "https://www.daidan.co.jp/recruit/graduate/requirement/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実、本サイトの快適なご利用のために、クッキーを使用しています",
+    "url": "https://www.daidan.co.jp/recruit/graduate/requirement/",
+    "pass": 1
+   },
+   {
+    "quote": "当社社員によるお取引先様への不適切な要求についての情報（社会的儀礼の範囲を超えた金品の贈答や過剰な接待の要求等）",
+    "url": "https://www.daidan.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "当社社員によるお取引先様への不適切な要求についての情報（社会的儀礼の範囲を超えた金品の贈答や過剰な接待の要求等）はこちらから受け付けております",
+    "url": "https://www.daidan.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様 行動指針",
+    "url": "https://www.daidan.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実、本サイトの快適なご利用のために、クッキーを使用しています",
+    "url": "https://www.daidan.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、企業経営において、株主にとどまらず、従業員、取引先、顧客、債権者、地域社",
+    "url": "https://www.daidan.co.jp/sustainability/pdf/multi-stakeholder.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "から、従業員への還元や取引先への配慮が重要であることを踏まえ、以下の取組を進めてま",
+    "url": "https://www.daidan.co.jp/sustainability/pdf/multi-stakeholder.pdf",
+    "pass": 2
+   }
+  ],
+  "何を": [
+   {
+    "quote": "技術とサービス",
+    "url": "https://www.daidan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "技術とサービストップ",
+    "url": "https://www.daidan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.daidan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実、本サイトの快適なご利用のために、クッキーを使用しています",
+    "url": "https://www.daidan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "技術とサービス",
+    "url": "https://www.daidan.co.jp/tech/business/",
+    "pass": 1
+   },
+   {
+    "quote": "技術とサービストップ",
+    "url": "https://www.daidan.co.jp/tech/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.daidan.co.jp/tech/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションを見る",
+    "url": "https://www.daidan.co.jp/tech/business/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実、本サイトの快適なご利用のために、クッキーを使用しています",
+    "url": "https://www.daidan.co.jp/tech/business/",
+    "pass": 1
+   },
+   {
+    "quote": "技術とサービス",
+    "url": "https://www.daidan.co.jp/company/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "技術とサービストップ",
+    "url": "https://www.daidan.co.jp/company/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.daidan.co.jp/company/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "これらを届ける空調設備、給排水衛生設備、電気設備を通じて、人びとが快適に活動でき、また良質な製品を生産できる空間を提供する、つまり「空間価値を提供」することが私たちのミッションです",
+    "url": "https://www.daidan.co.jp/company/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実、本サイトの快適なご利用のために、クッキーを使用しています",
+    "url": "https://www.daidan.co.jp/company/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "技術とサービス",
+    "url": "https://www.daidan.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "技術とサービストップ",
+    "url": "https://www.daidan.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.daidan.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "ダイダンサービス関東株式会社",
+    "url": "https://www.daidan.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "ダイダンサービス関西株式会社",
+    "url": "https://www.daidan.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "セラボヘルスケアサービス株式会社",
+    "url": "https://www.daidan.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "特定細胞加工物および再生医療等製品に関わる施設の運用・構築コンサルティング設計・監理",
+    "url": "https://www.daidan.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実、本サイトの快適なご利用のために、クッキーを使用しています",
+    "url": "https://www.daidan.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "技術とサービス",
+    "url": "https://www.daidan.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "技術とサービストップ",
+    "url": "https://www.daidan.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.daidan.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "セラボヘルスケアサービス株式会社設立",
+    "url": "https://www.daidan.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2月、再生医療に関わる環境とサービスの新しい価値を創造し提供する子会社としてセラボヘルスケアサービスを設立",
+    "url": "https://www.daidan.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実、本サイトの快適なご利用のために、クッキーを使用しています",
+    "url": "https://www.daidan.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "技術とサービス",
+    "url": "https://www.daidan.co.jp/sustainability/report/",
+    "pass": 1
+   },
+   {
+    "quote": "技術とサービストップ",
+    "url": "https://www.daidan.co.jp/sustainability/report/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.daidan.co.jp/sustainability/report/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実、本サイトの快適なご利用のために、クッキーを使用しています",
+    "url": "https://www.daidan.co.jp/sustainability/report/",
+    "pass": 1
+   },
+   {
+    "quote": "技術とサービス",
+    "url": "https://www.daidan.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "技術とサービストップ",
+    "url": "https://www.daidan.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.daidan.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実、本サイトの快適なご利用のために、クッキーを使用しています",
+    "url": "https://www.daidan.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "技術とサービス",
+    "url": "https://www.daidan.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "技術とサービストップ",
+    "url": "https://www.daidan.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.daidan.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実、本サイトの快適なご利用のために、クッキーを使用しています",
+    "url": "https://www.daidan.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "技術とサービス",
+    "url": "https://www.daidan.co.jp/news/category/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "技術とサービストップ",
+    "url": "https://www.daidan.co.jp/news/category/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.daidan.co.jp/news/category/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実、本サイトの快適なご利用のために、クッキーを使用しています",
+    "url": "https://www.daidan.co.jp/news/category/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "技術とサービス",
+    "url": "https://www.daidan.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "技術とサービストップ",
+    "url": "https://www.daidan.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.daidan.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実、本サイトの快適なご利用のために、クッキーを使用しています",
+    "url": "https://www.daidan.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "技術とサービス",
+    "url": "https://www.daidan.co.jp/ir/library/financial-statements/",
+    "pass": 1
+   },
+   {
+    "quote": "技術とサービストップ",
+    "url": "https://www.daidan.co.jp/ir/library/financial-statements/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.daidan.co.jp/ir/library/financial-statements/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実、本サイトの快適なご利用のために、クッキーを使用しています",
+    "url": "https://www.daidan.co.jp/ir/library/financial-statements/",
+    "pass": 1
+   },
+   {
+    "quote": "技術とサービス",
+    "url": "https://www.daidan.co.jp/ir/library/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "技術とサービストップ",
+    "url": "https://www.daidan.co.jp/ir/library/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.daidan.co.jp/ir/library/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実、本サイトの快適なご利用のために、クッキーを使用しています",
+    "url": "https://www.daidan.co.jp/ir/library/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "技術とサービス",
+    "url": "https://www.daidan.co.jp/ir/library/annual-report/",
+    "pass": 1
+   },
+   {
+    "quote": "技術とサービストップ",
+    "url": "https://www.daidan.co.jp/ir/library/annual-report/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.daidan.co.jp/ir/library/annual-report/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトでは、お客様に提供する情報やサービスの充実、本サイトの快適なご利用のために、クッキーを使用しています",
+    "url": "https://www.daidan.co.jp/ir/library/annual-report/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "お客様の課題に対して、わたしたちがどう取り組んできたかをご紹介します",
+    "url": "https://www.daidan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.daidan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "オフィス、店舗、ホテルや学校などの様々な建物で活動する人たちに、ここち良さとともにウエルネスな環境を提供します",
+    "url": "https://www.daidan.co.jp/tech/business/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.daidan.co.jp/tech/business/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.daidan.co.jp/company/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.daidan.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "東京証券取引所に上場している企業の中から、企業価値の向上につながるデジタルトランスフォーメーション（DX）を推進するための仕組みを社内に構築し、優れたデジタル活用の実績が表れている企業を選定して紹介するもの",
+    "url": "https://www.daidan.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.daidan.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.daidan.co.jp/sustainability/report/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.daidan.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.daidan.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.daidan.co.jp/news/category/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.daidan.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.daidan.co.jp/ir/library/financial-statements/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.daidan.co.jp/ir/library/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.daidan.co.jp/ir/library/annual-report/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社では、優れた施工事例を紹介、表彰する「事例発表会」を2008年より実施していましたが、実施済みの事例にこだわらず、生産性向上や業務効率化に生かすことができる斬新な発想、新たなアイデアについても広 く募集するため、16回目の本年度より「技術発表会」と改めました",
+    "url": "https://www.daidan.co.jp/ir/library/management-plan/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.daidan.co.jp/ir/library/management-plan/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.daidan.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介を見る",
+    "url": "https://www.daidan.co.jp/ir/investor/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.daidan.co.jp/ir/investor/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.daidan.co.jp/ir/stock-info/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.daidan.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.daidan.co.jp/ir/esg/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.daidan.co.jp/ir/public-notice/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.daidan.co.jp/ir/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.daidan.co.jp/ir/disclaimer/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.daidan.co.jp/recruit/graduate/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.daidan.co.jp/recruit/graduate/requirement/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.daidan.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "当社はパートナーシップ構築宣言の内容遵守に、引き続き、取り組んでまいります",
+    "url": "https://www.daidan.co.jp/sustainability/pdf/multi-stakeholder.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、パートナーシップ構築宣言の掲載が取りやめとなった場合、マルチステークホル",
+    "url": "https://www.daidan.co.jp/sustainability/pdf/multi-stakeholder.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " パートナーシップ構築宣言の登録日",
+    "url": "https://www.daidan.co.jp/sustainability/pdf/multi-stakeholder.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " パートナーシップ構築宣言のＵＲＬ",
+    "url": "https://www.daidan.co.jp/sustainability/pdf/multi-stakeholder.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "② また、代理店、コンサルタント、エージェント等の第三者を介した外国公務員等への不",
+    "url": "https://www.daidan.co.jp/sustainability/pdf/anti-bribery.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "北浜法律事務所・河浪潤パートナー 弁護士「多様な法務の専門家がチームで支援」",
+    "url": "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/090900442/",
+    "pass": 3
+   },
+   {
+    "quote": "国際事業本部には新たに専属の営業人員も配置し、受注の拡大を目指します",
+    "url": "https://shachomeikan.jp/industry_article/4465",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "理念、強み、これから向かう未来についてを紐解きます",
+    "url": "https://www.daidan.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "技術畑出身ではありましたが、現場の知識があるため、お客様の課題や要望を即座に理解できるという強みがありました",
+    "url": "https://shachomeikan.jp/industry_article/4465",
+    "pass": 3
+   },
+   {
+    "quote": "クリーンルームやドライルームといった高精度な空調管理が求められる現場での施工力が、弊社の強みとして発揮されているのだと自負しています",
+    "url": "https://shachomeikan.jp/industry_article/4465",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "1903年（明治36年）3月4日",
+    "url": "https://www.daidan.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "1933年（昭和8年）10月10日",
+    "url": "https://www.daidan.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革｜企業情報｜ダイダン株式会社",
+    "url": "https://www.daidan.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1900年代",
+    "url": "https://www.daidan.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1930年代",
+    "url": "https://www.daidan.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1960年代",
+    "url": "https://www.daidan.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1990年代",
+    "url": "https://www.daidan.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年代",
+    "url": "https://www.daidan.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1907年（明治40年）竣工",
+    "url": "https://www.daidan.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1931年（昭和6年）竣工",
+    "url": "https://www.daidan.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1938年（昭和13年）竣工",
+    "url": "https://www.daidan.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1964年（昭和39年）竣工",
+    "url": "https://www.daidan.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1970年（昭和45年）竣工",
+    "url": "https://www.daidan.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1974年（昭和49年）竣工",
+    "url": "https://www.daidan.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1975年4月～1978年3月を対象とする「3カ年利益計画」を",
+    "url": "https://www.daidan.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1988年から日本経済は拡大期に入り、バブル景気により空前の建設ブームが到来",
+    "url": "https://www.daidan.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "平成6年3月期には完成工事高2,270億円を達成した",
+    "url": "https://www.daidan.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1994年（平成6年）竣工",
+    "url": "https://www.daidan.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和57年4月から千里研修所で新入社員研修を始めとする社員研修を行っていたが、社員数の増加と研修内容の高度化に対応する機能を備えた研修所が必要となり新たに八尾研修所を建設した",
+    "url": "https://www.daidan.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1996年（平成8年）竣工",
+    "url": "https://www.daidan.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1997年6月に規格管理部を設置し活動を開始",
+    "url": "https://www.daidan.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1999年12月迄に全国の事業所でISO9000シリーズの認証を取得した",
+    "url": "https://www.daidan.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年4月にISO推進部を設置し、ISO14001認証取得のプロジェクトチームを結成、全社一括認証に向けて活動を開始",
+    "url": "https://www.daidan.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2002年2月1日付で全社一括でISO14001の認証を取得した",
+    "url": "https://www.daidan.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2008年8月にISO9001（品質）とISO14001（環境）を統合",
+    "url": "https://www.daidan.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "平成24年度化学工学会賞技術賞を受賞した",
+    "url": "https://www.daidan.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年には既存研究棟のスマート化改修を実施",
+    "url": "https://www.daidan.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年目標",
+    "url": "https://www.daidan.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2050年目標",
+    "url": "https://www.daidan.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年度",
+    "url": "https://www.daidan.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度実績",
+    "url": "https://www.daidan.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度実績",
+    "url": "https://www.daidan.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度目標",
+    "url": "https://www.daidan.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年度より本社をはじめ、支店、営業所など国内20ヵ所のオフィスを対象に、実質再生可能エネルギー由来の電力へ順次切り替えました",
+    "url": "https://www.daidan.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度に当社が排出事業者となった施工現場の産業廃棄物総排出量は、約10,004トン、分別率は83.3％となりました",
+    "url": "https://www.daidan.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度のオフィスからの一般廃棄物量は、約95トンとなりました",
+    "url": "https://www.daidan.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度のグリーン購入率は、58.0％となりました",
+    "url": "https://www.daidan.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度の設計提案によるCO",
+    "url": "https://www.daidan.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.daidan.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年",
+    "url": "https://www.daidan.co.jp/news/category/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025 年",
+    "url": "https://www.daidan.co.jp/news/category/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2024 年",
+    "url": "https://www.daidan.co.jp/news/category/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2023 年",
+    "url": "https://www.daidan.co.jp/news/category/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2022 年",
+    "url": "https://www.daidan.co.jp/news/category/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2021 年",
+    "url": "https://www.daidan.co.jp/news/category/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2020 年",
+    "url": "https://www.daidan.co.jp/news/category/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2019 年",
+    "url": "https://www.daidan.co.jp/news/category/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2018 年",
+    "url": "https://www.daidan.co.jp/news/category/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2017 年",
+    "url": "https://www.daidan.co.jp/news/category/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2016 年",
+    "url": "https://www.daidan.co.jp/news/category/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2015 年",
+    "url": "https://www.daidan.co.jp/news/category/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2014 年",
+    "url": "https://www.daidan.co.jp/news/category/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2013 年",
+    "url": "https://www.daidan.co.jp/news/category/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2012 年",
+    "url": "https://www.daidan.co.jp/news/category/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2011 年",
+    "url": "https://www.daidan.co.jp/news/category/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2010 年",
+    "url": "https://www.daidan.co.jp/news/category/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2009 年",
+    "url": "https://www.daidan.co.jp/news/category/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2008 年",
+    "url": "https://www.daidan.co.jp/news/category/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2007 年",
+    "url": "https://www.daidan.co.jp/news/category/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2006 年",
+    "url": "https://www.daidan.co.jp/news/category/ir/",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "将来の収益基盤となる建物ストックの獲得",
+    "url": "https://www.daidan.co.jp/ir/library/management-plan/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "事業案内｜ ダイダン 株式会社 — 事業案内｜ ダイダン 株式会社 ダイダン株式会社 https://www.daidan.co.jp > tech > business",
+    "url": "https://www.daidan.co.jp/tech/business/",
+    "pass": 3
+   },
+   {
+    "quote": "統合報告書｜サステナビリティ｜ ダイダン 株式会社 — 統合報告書｜サステナビリティ｜ ダイダン 株式会社 ダイダン株式会社 https://www.daidan.co.jp > sustainability > report",
+    "url": "https://www.daidan.co.jp/sustainability/report/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜企業情報｜ ダイダン 株式会社 — 会社概要｜企業情報｜ ダイダン 株式会社 ダイダン株式会社 https://www.daidan.co.jp > company > overview",
+    "url": "https://www.daidan.co.jp/company/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "MANAGEMENT PLAN 中期経営計画 - IR資料 - ダイダン — MANAGEMENT PLAN 中期経営計画 - IR資料 - ダイダン ダイダン株式会社 https://www.daidan.co.jp > library > management-plan",
+    "url": "https://www.daidan.co.jp/ir/library/management-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "ダイダン の 本選考の企業研究一覧（全12件） - 就活会議 — ダイダン の 本選考の企業研究一覧（全12件） - 就活会議 就活会議 https://syukatsu-kaigi.jp > ... > 企業研究一覧",
+    "url": "https://syukatsu-kaigi.jp/companies/50714/screening_experiences/company_study",
+    "pass": 3
+   },
+   {
+    "quote": "PRESENTATION 決算説明資料 - IR情報 - ダイダン — PRESENTATION 決算説明資料 - IR情報 - ダイダン ダイダン株式会社 https://www.daidan.co.jp > library > presentation",
+    "url": "https://www.daidan.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報｜ ダイダン 株式会社 — IR情報｜ ダイダン 株式会社 ダイダン株式会社 https://www.daidan.co.jp > ...",
+    "url": "https://www.daidan.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "FINANCIAL STATEMENTS 決算 短信 - IR 資料 ｜IR情報 - ダイダン — FINANCIAL STATEMENTS 決算 短信 - IR 資料 ｜IR情報 - ダイダン ダイダン株式会社 https://www.daidan.co.jp > library > financial-statements",
+    "url": "https://www.daidan.co.jp/ir/library/financial-statements/",
+    "pass": 3
+   },
+   {
+    "quote": "IR 資料 ｜IR情報｜ ダイダン 株式会社 — IR 資料 ｜IR情報｜ ダイダン 株式会社 ダイダン株式会社 https://www.daidan.co.jp > library",
+    "url": "https://www.daidan.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "ダイダン [1980]：2027年3月期 第1四半期 決算説明 2026年8 ... — ダイダン [1980]：2027年3月期 第1四半期 決算説明 2026年8 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260804508675/",
+    "pass": 3
+   },
+   {
+    "quote": "ダイダン 株式会社 統合報告書 2025 — ダイダン 株式会社 統合報告書 2025 ダイダン株式会社 PDF https://www.daidan.co.jp > pdf > DDR2025_ALL",
+    "url": "https://www.daidan.co.jp/sustainability/pdf/2025/DDR2025_ALL.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業 所一覧｜企業情報｜ ダイダン 株式会社 — 事業 所一覧｜企業情報｜ ダイダン 株式会社 ダイダン株式会社 https://www.daidan.co.jp > company > office",
+    "url": "https://www.daidan.co.jp/company/office/",
+    "pass": 3
+   },
+   {
+    "quote": "ダイダン 株式会社 統合報告書2024 - 日本経済新聞 — ダイダン 株式会社 統合報告書2024 - 日本経済新聞 日本経済新聞 PDF https://www.nikkei.com > tdnr > 20241022_archive",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20241022_archive/eyow7x/140120241008594909.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ダイダン ・山中康宏 社長 「『人』を軸に空間価値を提供」 — ダイダン ・山中康宏 社長 「『人』を軸に空間価値を提供」 日経BP https://project.nikkeibp.co.jp > ESG > atcl > column",
+    "url": "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/090900442/",
+    "pass": 3
+   },
+   {
+    "quote": "業界毎特集記事－ ダイダン 株式会社 代表取締役 社長 山中 康宏 — 業界毎特集記事－ ダイダン 株式会社 代表取締役 社長 山中 康宏 社長名鑑 https://shachomeikan.jp > industry_article",
+    "url": "https://shachomeikan.jp/industry_article/4465",
+    "pass": 3
+   },
+   {
+    "quote": "役員紹介｜企業情報｜ ダイダン 株式会社 — 役員紹介｜企業情報｜ ダイダン 株式会社 ダイダン株式会社 https://www.daidan.co.jp > company > management",
+    "url": "https://www.daidan.co.jp/company/management/",
+    "pass": 3
+   },
+   {
+    "quote": "高専卒 社長 が率いる総合設備工事会社「 ダイダン ... - 月刊高専 — 高専卒 社長 が率いる総合設備工事会社「 ダイダン ... - 月刊高専 月刊高専 https://gekkan-kosen.com > 記事一覧",
+    "url": "https://gekkan-kosen.com/21219/",
+    "pass": 3
+   },
+   {
+    "quote": "ダイダン 「働きやすさが未来を創る」 - YouTube — ダイダン 「働きやすさが未来を創る」 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=uGoFgOADptY",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.daidan.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daidan.co.jp/tech/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daidan.co.jp/company/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daidan.co.jp/company/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daidan.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daidan.co.jp/sustainability/report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daidan.co.jp/sustainability/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daidan.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daidan.co.jp/news/category/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daidan.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daidan.co.jp/ir/library/financial-statements/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daidan.co.jp/ir/library/presentation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daidan.co.jp/ir/library/annual-report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daidan.co.jp/ir/library/management-plan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daidan.co.jp/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daidan.co.jp/ir/investor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daidan.co.jp/ir/stock-info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daidan.co.jp/ir/finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daidan.co.jp/ir/esg/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daidan.co.jp/ir/public-notice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daidan.co.jp/ir/disclosure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daidan.co.jp/ir/disclaimer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daidan.co.jp/recruit/graduate/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daidan.co.jp/recruit/graduate/requirement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daidan.co.jp/inquiry/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.daidan.co.jp/recruit/graduate/pdf/recruiting_information.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daidan.co.jp/sustainability/pdf/ai-ethics-policy.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daidan.co.jp/sustainability/pdf/partnership.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daidan.co.jp/sustainability/pdf/multi-stakeholder.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daidan.co.jp/sustainability/pdf/customer-harassment.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daidan.co.jp/sustainability/pdf/anti-bribery.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daidan.co.jp/sustainability/pdf/jobhunting-harassment.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daidan.co.jp/sustainability/pdf/2026/DDR2026_ALL.pdf?v=20260924",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.daidan.co.jp/assets/img/tech/business/hero@sp.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.daidan.co.jp/assets/img/tech/business/pct_air-conditioning.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.daidan.co.jp/assets/img/tech/business/pct_plumbing.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.daidan.co.jp/assets/img/tech/business/pct_electrical.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.daidan.co.jp/assets/img/ir/library/management-plan/pct_cashflow.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.daidan.co.jp/assets/img/top/pct_business@sp.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/090900442/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shachomeikan.jp/industry_article/4465",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ダイダン",
+   "results": [
+    "https://www.daidan.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%83%80%E3%82%A4%E3%83%80%E3%83%B3",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=1980",
+    "https://www.youtube.com/@%E3%83%80%E3%82%A4%E3%83%80%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE",
+    "https://ja.wikipedia.org/wiki/ダイダン",
+    "https://www.daidan.co.jp/ir/",
+    "https://finance.yahoo.co.jp/quote/1980.T/profile",
+    "https://finance.yahoo.co.jp/quote/1980.T",
+    "https://www.nikkei.com/article/DGXZQOUF075090X00C26A9000000/",
+    "https://www.google.com/finance/quote/1980:TYO"
+   ]
+  },
+  {
+   "query": "ダイダン ビジネスモデル",
+   "results": [
+    "https://www.daidan.co.jp/tech/business/",
+    "https://www.daidan.co.jp/sustainability/report/",
+    "https://www.daidan.co.jp/company/overview/",
+    "https://www.daidan.co.jp/ir/library/management-plan/",
+    "https://syukatsu-kaigi.jp/companies/50714/screening_experiences/company_study",
+    "https://note.com/open_azalea2045/n/n33fa6d5e33b0",
+    "https://www.daidan.co.jp/sustainability/pdf/2025/DDR2025_ALL.pdf",
+    "https://job.mynavi.jp/28/pc/search/corp1399/outline.html",
+    "https://jbpress.ismedia.jp/articles/-/69131",
+    "https://www.daidan.co.jp/"
+   ]
+  },
+  {
+   "query": "ダイダン 決算説明資料",
+   "results": [
+    "https://www.daidan.co.jp/ir/library/presentation/",
+    "https://www.daidan.co.jp/ir/",
+    "https://www.daidan.co.jp/ir/library/financial-statements/",
+    "https://www.daidan.co.jp/ir/library/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260804508675/",
+    "https://www.daidan.co.jp/ir/calendar/",
+    "https://www.daidan.co.jp/ir/indivisual/",
+    "https://webcast.net-ir.ne.jp/19802605/index.html",
+    "https://www.daidan.co.jp/news/category/ir/",
+    "https://www.buffett-code.com/company/1980/library"
+   ]
+  },
+  {
+   "query": "ダイダン 事業系統図",
+   "results": [
+    "https://www.daidan.co.jp/company/overview/",
+    "https://www.daidan.co.jp/sustainability/pdf/2025/DDR2025_ALL.pdf",
+    "https://www.daidan.co.jp/ir/library/management-plan/",
+    "https://www.daidan.co.jp/company/office/",
+    "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20241022_archive/eyow7x/140120241008594909.pdf",
+    "https://www.daidan.co.jp/tech/business/",
+    "https://www.daidan.co.jp/ir/library/",
+    "https://www.daidan.co.jp/sustainability/pdf/2024/DDR2024_P009-014.pdf",
+    "https://kitaishihon.com/company/1980/business",
+    "https://www.daidan.co.jp/"
+   ]
+  },
+  {
+   "query": "ダイダン 社長 インタビュー",
+   "results": [
+    "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/090900442/",
+    "https://shachomeikan.jp/industry_article/4465",
+    "https://www.daidan.co.jp/company/management/",
+    "https://gekkan-kosen.com/21219/",
+    "https://www.youtube.com/watch?v=uGoFgOADptY",
+    "https://www.kabutecho.com/interview/%E7%94%A3%E6%A5%AD%E6%96%BD%E8%A8%AD%E5%90%91%E3%81%91%E9%9C%80%E8%A6%81%E5%A2%97%E3%81%A7%E9%81%8E%E5%8E%BB%E6%9C%80%E9%AB%98%E6%A5%AD%E7%B8%BE%E4%BA%88%E6%83%B3-%E6%8E%A1%E7%94%A8%E3%81%A8%E4%BA%BA/",
+    "https://cir.nii.ac.jp/crid/1520012954671484416",
+    "https://kitaishihon.com/company/1980/board-of-director",
+    "https://www.daidan.co.jp/company/about-us/",
+    "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/090900442/?P=2"
+   ]
+  }
+ ],
+ "missing": {
+  "ビジネスモデル": "記載なし（3回確認済み：公式25頁／PDF・画像14件／外部2頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式25頁／PDF・画像14件／外部2頁・検索5回）"
+ }
+}

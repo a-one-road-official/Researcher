@@ -1,0 +1,2343 @@
+{
+ "name": "セプテーニ・ホールディングス",
+ "aliases": [],
+ "context": "証券コード4293／サービス業／スタンダード（内国株式）／2025.12期 売上高30,309百万円 営業利益率14.0%",
+ "researched_at": "2026-11-02T19:17:59.752472+00:00",
+ "official_url": "https://www.septeni-holdings.co.jp/",
+ "identified_by": "search:yahoo_jp:セプテーニ・ホールディングス",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1990年10月",
+    "url": "https://www.septeni-holdings.co.jp/company/overview.html",
+    "pass": 1
+   },
+   {
+    "label": "創業者",
+    "value": "七村 守",
+    "url": "https://www.septeni-holdings.co.jp/company/overview.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業概要",
+    "value": "株式等の保有を通じたグループ企業の統括、管理等",
+    "url": "https://www.septeni-holdings.co.jp/company/overview.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "連結従業員",
+    "value": "グループ連結　2025年12月末現在 1,674名（正社員）／1,941名（従業員）",
+    "url": "https://www.septeni-holdings.co.jp/company/overview.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "データ・ソリューション事業",
+    "url": "https://www.septeni-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "データ・ソリューション事業",
+    "url": "https://www.septeni-holdings.co.jp/company/overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "データ・ソリューション事業",
+    "url": "https://www.septeni-holdings.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "セプテーニグループでは、社会の変化を新たな成長機会と捉え、常に時代に合ったサービスを提供し、さらなる発展を目指しています",
+    "url": "https://www.septeni-holdings.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "Facebook関連サービスを開始",
+    "url": "https://www.septeni-holdings.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "(株)セプテーニ・データ・ソリューションズを設立",
+    "url": "https://www.septeni-holdings.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "成長分野であるスマートフォン広告やFacebookなどのソーシャルメディア関連サービスに注力しています",
+    "url": "https://www.septeni-holdings.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "データ・ソリューション事業",
+    "url": "https://www.septeni-holdings.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社スポーツITソリューション",
+    "url": "https://www.septeni-holdings.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "生成AIを活用した企業のDX支援ソリューションの開発・提供等を行うMYUUUと資本業務提携、生成AI研修やAIワークフロー構築支援の提供により企業のDX推進を通じた企業の成長とイノベーションを支援",
+    "url": "https://www.septeni-holdings.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "データ・ソリューション事業",
+    "url": "https://www.septeni-holdings.co.jp/business/marketing.html",
+    "pass": 1
+   },
+   {
+    "quote": "デジタル広告の販売と運用を軸とした、統合マーケティングサービスの提供により、企業のDXの総合的な支援を行っています",
+    "url": "https://www.septeni-holdings.co.jp/business/marketing.html",
+    "pass": 1
+   },
+   {
+    "quote": "データ・ソリューション事業",
+    "url": "https://www.septeni-holdings.co.jp/business/direct.html",
+    "pass": 1
+   },
+   {
+    "quote": "データ・ソリューション事業｜セプテーニ・ホールディングス",
+    "url": "https://www.septeni-holdings.co.jp/business/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "データ・ソリューション事業",
+    "url": "https://www.septeni-holdings.co.jp/business/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "デジタルマーケティング領域で長年蓄積された知識・ノウハウを生かし、データの収集・統合・活用や、データやAIを活用したソリューションの開発・提供、顧客の開発支援やエンジニア人材の派遣を提供しています",
+    "url": "https://www.septeni-holdings.co.jp/business/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社セプテーニ・データ・ソリューションズ",
+    "url": "https://www.septeni-holdings.co.jp/business/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "データ・ソリューション領域を統括する中間持株会社",
+    "url": "https://www.septeni-holdings.co.jp/business/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "データ・ソリューション領域における企画、開発、販売",
+    "url": "https://www.septeni-holdings.co.jp/business/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "ウェブサービス等の企画、開発",
+    "url": "https://www.septeni-holdings.co.jp/business/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "データ・ソリューション事業",
+    "url": "https://www.septeni-holdings.co.jp/business/other.html",
+    "pass": 1
+   },
+   {
+    "quote": "データ・ソリューション事業",
+    "url": "https://www.septeni-holdings.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "データ・ソリューション事業",
+    "url": "https://www.septeni-holdings.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "データ・ソリューション事業",
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "データ・ソリューション事業",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "データ・ソリューション事業",
+    "url": "https://www.septeni-holdings.co.jp/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "データ・ソリューション事業",
+    "url": "https://www.septeni-holdings.co.jp/ir/e-publication/",
+    "pass": 1
+   },
+   {
+    "quote": "データ・ソリューション事業",
+    "url": "https://www.septeni-holdings.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "データ・ソリューション事業",
+    "url": "https://www.septeni-holdings.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "データ・ソリューション事業",
+    "url": "https://www.septeni-holdings.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "デジタル広告の販売と運用を軸とした、統合マーケティングサービスの提供により、企業のDXの総合的な支援を行っています",
+    "url": "https://www.septeni-holdings.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "3-4 データ・ソリューション事業",
+    "url": "https://www.septeni-holdings.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "デジタルマーケティング領域で長年蓄積された知識・ノウハウを生かし、データの収集・統合・活用や、データやAIを活用したソリューションの開発・提供、顧客の開発支援やエンジニア人材の派遣を提供しています",
+    "url": "https://www.septeni-holdings.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "データ・ソリューション事業",
+    "url": "https://www.septeni-holdings.co.jp/ir/melma.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社のグループ会社の商品・サービスに関する問い合わせに対して、適切な当社のグループ会社より回答をおこなうため",
+    "url": "https://www.septeni-holdings.co.jp/ir/melma.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は本サービスの廃止については免責されるものとします",
+    "url": "https://www.septeni-holdings.co.jp/ir/melma.html",
+    "pass": 1
+   },
+   {
+    "quote": "データ・ソリューション事業",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/",
+    "pass": 1
+   },
+   {
+    "quote": "データ・ソリューション事業",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/briefing/",
+    "pass": 1
+   },
+   {
+    "quote": "データ・ソリューション事業",
+    "url": "https://www.septeni-holdings.co.jp/ir/medium-term.html",
+    "pass": 1
+   },
+   {
+    "quote": "データ・ソリューション事業の紹介はこちら",
+    "url": "https://www.septeni-holdings.co.jp/ir/medium-term.html",
+    "pass": 1
+   },
+   {
+    "quote": "データ・ソリューション事業",
+    "url": "https://www.septeni-holdings.co.jp/ir/stock/price.html",
+    "pass": 1
+   },
+   {
+    "quote": "データ・ソリューション事業",
+    "url": "https://www.septeni-holdings.co.jp/company/culture.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は 1990 年に人材採用コンサルティング事業を祖業として設立され、現在の主力であるマーケ",
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/Aq_260924.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ジタル広告を軸とした統合マーケティングサービスの提供による、大手広告主を中心とした企業のDX",
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/Aq_260924.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "が持つ顧客企業の多様なニーズに対応可能な質の高いデジタルマーケティングサービスと、 当社の経",
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/Aq_260924.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "が築いてきた長年の実績に裏打ちされた顧客基盤を保有し、中小企業への総合ソリューション提供を",
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/Aq_260924.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当中間連結会計期間（以下、当中間期）において、主力のマーケティング・コミュニケーション事業では、新規案",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_FS_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "データ・ソリューション事業では、開発案件における",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_FS_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "エンジニア稼働率を向上させるとともに、研修事業やソリューションをはじめとしたサービスラインナップ拡充効果",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_FS_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "デジタル広告の販売と運用を軸とした、統合マーケティングサービスの提供により、企業のDXの総合的な支援を行",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_FS_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "③データ・ソリューション事業",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_FS_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "AIを活用したソリューションの開発・提供、顧客の開発支援やエンジニア人材の派遣を提供する事業セグメントから",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_FS_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当中間期においては、開発案件におけるエンジニア稼働率を向上させるとともに、研修事業やソリューションをは",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_FS_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "じめとしたサービスラインナップ拡充効果もあり、増収増益となりました",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_FS_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "グ・コミュニケーション事業」、「ダイレクトビジネス事業」及び「データ・ソリューション事業」の３つの",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_FS_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "デジタル広告の販売と運用を軸とした、統合マーケティングサービスの提供により、企業のDXの総合的な支",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_FS_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ⅲ．データ・ソリューション事業",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_FS_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ータやAIを活用したソリューションの開発・提供、顧客の開発支援やエンジニア人材の派遣を提供する事業セ",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_FS_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "05 データ・ソリューション事業",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• ソリューション拡張 等",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "事業・グループ会社紹介",
+    "url": "https://www.septeni-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "事業・グループ会社紹介",
+    "url": "https://www.septeni-holdings.co.jp/company/overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業・グループ会社紹介",
+    "url": "https://www.septeni-holdings.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業の深化と探索を進め、顧客への企業価値向上に伴走するパートナーを目指す",
+    "url": "https://www.septeni-holdings.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業・グループ会社紹介｜セプテーニ・ホールディングス",
+    "url": "https://www.septeni-holdings.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "事業・グループ会社紹介",
+    "url": "https://www.septeni-holdings.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "資本参加・パートナー",
+    "url": "https://www.septeni-holdings.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "アビスパ福岡のプレミアムユニフォーム・パートナーに就任",
+    "url": "https://www.septeni-holdings.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "公式デジタルマーケティングパートナーとして、",
+    "url": "https://www.septeni-holdings.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "事業・グループ会社紹介",
+    "url": "https://www.septeni-holdings.co.jp/business/marketing.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業・グループ会社紹介",
+    "url": "https://www.septeni-holdings.co.jp/business/direct.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業・グループ会社紹介",
+    "url": "https://www.septeni-holdings.co.jp/business/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業・グループ会社紹介",
+    "url": "https://www.septeni-holdings.co.jp/business/other.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業・グループ会社紹介",
+    "url": "https://www.septeni-holdings.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "事業・グループ会社紹介",
+    "url": "https://www.septeni-holdings.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客の課題解決を総合的に支援するビジネスパートナーを目指しグループ内外の「フォーカス＆シナジー」を加速させる",
+    "url": "https://www.septeni-holdings.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "事業・グループ会社紹介",
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "事業・グループ会社紹介",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "事業・グループ会社紹介",
+    "url": "https://www.septeni-holdings.co.jp/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "事業・グループ会社紹介",
+    "url": "https://www.septeni-holdings.co.jp/ir/e-publication/",
+    "pass": 1
+   },
+   {
+    "quote": "事業・グループ会社紹介",
+    "url": "https://www.septeni-holdings.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "事業・グループ会社紹介",
+    "url": "https://www.septeni-holdings.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "事業・グループ会社紹介",
+    "url": "https://www.septeni-holdings.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "3. 事業紹介",
+    "url": "https://www.septeni-holdings.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "3-1 当社グループの企業像・事業セグメント紹介",
+    "url": "https://www.septeni-holdings.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "事業・グループ会社紹介",
+    "url": "https://www.septeni-holdings.co.jp/ir/melma.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業・グループ会社紹介",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/",
+    "pass": 1
+   },
+   {
+    "quote": "そして経営をリードする役員陣の紹介を掲載しています",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/",
+    "pass": 1
+   },
+   {
+    "quote": "人的資本経営等の取り組みについてご紹介しています",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/",
+    "pass": 1
+   },
+   {
+    "quote": "持続的な価値創造を支える経営基盤について紹介しています",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/",
+    "pass": 1
+   },
+   {
+    "quote": "【統合報告書2024・マネジメントメッセージ】顧客の課題解決を総合的に支援するビジネスパートナーを目指しグループ内外の「フォーカス＆シナジー」を加速させる",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/",
+    "pass": 1
+   },
+   {
+    "quote": "【統合報告書2023、セプテーニグループ × dentsu Japan対談】お互いの強みを活かし、 国内No.1のデジタル マーケティングパートナーへ",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/",
+    "pass": 1
+   },
+   {
+    "quote": "CSR、コーポレートガバナンス、役員紹介",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/",
+    "pass": 1
+   },
+   {
+    "quote": "事業・グループ会社紹介",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/briefing/",
+    "pass": 1
+   },
+   {
+    "quote": "事業・グループ会社紹介",
+    "url": "https://www.septeni-holdings.co.jp/ir/medium-term.html",
+    "pass": 1
+   },
+   {
+    "quote": "その過程で、私たちが向き合う「世界」とは、顧客をはじめ事業パートナーや株主を含むステークホルダーの皆様であると再定義しました",
+    "url": "https://www.septeni-holdings.co.jp/ir/medium-term.html",
+    "pass": 1
+   },
+   {
+    "quote": "マーケティング・コミュニケーション事業の紹介はこちら",
+    "url": "https://www.septeni-holdings.co.jp/ir/medium-term.html",
+    "pass": 1
+   },
+   {
+    "quote": "ダイレクトビジネス事業の紹介はこちら",
+    "url": "https://www.septeni-holdings.co.jp/ir/medium-term.html",
+    "pass": 1
+   },
+   {
+    "quote": "データ・ソリューション事業の紹介はこちら",
+    "url": "https://www.septeni-holdings.co.jp/ir/medium-term.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業・グループ会社紹介",
+    "url": "https://www.septeni-holdings.co.jp/ir/stock/price.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業・グループ会社紹介",
+    "url": "https://www.septeni-holdings.co.jp/company/culture.html",
+    "pass": 1
+   },
+   {
+    "quote": "（顧客の企業価値最大化を実現するパートナー）を標榜しております",
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/Aq_260924.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 求人代理店",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Indeedの認定パートナー制度において、2025年度下半期※Platinumカテゴリの",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "認定パートナー制度の",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Indeed認定パートナーについて HR",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "同カテゴリ内で最も高い売上実績を創出した認定パートナーが",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上総額を上半期比で大幅に伸長させた認定パートナーが受賞",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "FY2015 ・社外取締役を指名",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "FY2023 ・指名・報酬諮問委員会を設置",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "IRコンテンツ・公式発信のご紹介",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "委員会と指名 ・ 報酬諮問委員会と の密な連携によ っ て、",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/integratedreport2025_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の紹介を通じ、 価値創造の加速に向けた、 着実な実践の軌跡と未",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/integratedreport2025_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "がり、 広告代理店の存在意義が問われているのも事実です",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/integratedreport2025_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "グ ループ内や電通協業、 外部パート ナー、 顧客とともにこれまで創出し てきたシナジーや、 事業の垣根を越え て始動した新たなコラボ レーシ ョ ンをご紹介します",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/integratedreport2025_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "集 め る：Indeed最上位カテゴリパートナー",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/integratedreport2025_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "代理店最上位カテゴ リ を保持",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/integratedreport2025_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "次世代候補者の育成状況については、 指名 ・ 報酬諮問委員会に定期レポートを行い、 グ",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/integratedreport2025_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "を紹介します",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/integratedreport2025_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また 、 指名・",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/integratedreport2025_ja.pdf",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "セプテーニグループの強みとカルチャー",
+    "url": "https://www.septeni-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "・対売上高収益率の向上に加え、生成AI活用を含む広告効果改善のための取り組みによって、トップライン成長と採用数コントロールの両立を実現し、1人当たり生産性が改善",
+    "url": "https://www.septeni-holdings.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "独自の強みを源泉とした「価値創造プロセス」をはじめ、",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/",
+    "pass": 1
+   },
+   {
+    "quote": "【統合報告書2024】FOCUS 強みの源泉：アントレプレナーシップ",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/",
+    "pass": 1
+   },
+   {
+    "quote": "【統合報告書2023、セプテーニグループ × dentsu Japan対談】お互いの強みを活かし、 国内No.1のデジタル マーケティングパートナーへ",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/",
+    "pass": 1
+   },
+   {
+    "quote": "価値創造の源泉となる強み",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/",
+    "pass": 1
+   },
+   {
+    "quote": "成長力、価値創造モデル、強み",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/",
+    "pass": 1
+   },
+   {
+    "quote": "セプテーニグループの価値創造モデル、強み",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/",
+    "pass": 1
+   },
+   {
+    "quote": "セプテーニグループの強みとカルチャー",
+    "url": "https://www.septeni-holdings.co.jp/company/culture.html",
+    "pass": 1
+   },
+   {
+    "quote": "①セプテーニグループの価値創造プロセスにおいて、強みの源泉（コアバリュー）となるのが「当事者意識が高くアントレプレナーシップあふれる人材」です",
+    "url": "https://www.septeni-holdings.co.jp/company/culture.html",
+    "pass": 1
+   },
+   {
+    "quote": "セプテーニグループの強み",
+    "url": "https://www.septeni-holdings.co.jp/company/culture.html",
+    "pass": 1
+   },
+   {
+    "quote": "このような資質と姿勢を持つ人材こそ、ビジョンの冒頭に掲げる「新しい時代をつくる人」であり、当社グループの強みの源泉となっています",
+    "url": "https://www.septeni-holdings.co.jp/company/culture.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、個々の「強みや弱み、最適な学習スタイル、組織適応の方法」に関する情報を本人と上長に提供することで、それぞれの個性に合わせた成長を支援しています",
+    "url": "https://www.septeni-holdings.co.jp/company/culture.html",
+    "pass": 1
+   },
+   {
+    "quote": "大きな強みとしており、求人アグリゲーションメディアを中心に高い外部評価を獲得しています",
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/Aq_260924.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "有する中小企業顧客基盤と広範な営業網、そして当社が持つ強みとは異なる営業スキルを持った人材",
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/Aq_260924.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "対売上高収益率 19.0% -1.2Pt -",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Non-GAAP営業利益率は前期比+4.6Ptの改善",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率（対収益）",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Non-GAAP営業利益率が前期比+1.6Pt改善",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "従業員一人当たりの生産性も向上し、Non-GAAP営業利益率は前期比+5.2Pt改善、各案件の拡大や",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ソリューション販売の強化により収益性・生産性を向上させ、過去2年を上回る営業利益率の実現を目指す",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "収益 Non-GAAP営業利益（単位：百万円） 営業利益率（対収益）",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Non-GAAP営業利益率が低下",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当事業セグメントの四半期単体における過去最高収益を更新、",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "対売上高収益率 20.4% 20.4% 20.4% － －",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "対売上高収益率",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/integratedreport2025_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "対収益Non-GAAP営業利益率",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/integratedreport2025_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "14 私たちの強み",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/integratedreport2025_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "私たちの強み 14",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/integratedreport2025_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "独自の強みを源泉",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/integratedreport2025_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "私たちの強み",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/integratedreport2025_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "強み の源泉は 、 アン トレプレナー シップ",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/integratedreport2025_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "長のエンジン」 へと変えてい く ことこそが、 当社グ ループの強みの源泉です",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/integratedreport2025_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "私たちの 「強みの源泉」 がいかにし て育まれてきたのか",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/integratedreport2025_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "03 高粗利のソ リ ューシ ョ ン領域強化",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/integratedreport2025_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Non-GAAP営業利益率",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/integratedreport2025_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "今後もマ ス広告とデジタ ル広告それぞれの強みを組み",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/integratedreport2025_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ちの強みであり、AI研修の質を支え る土台とな っ ています",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/integratedreport2025_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の新たな強みだと思います",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/integratedreport2025_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ても らえ るコン テ ンツは何かと考え、 行き着いたのが、 当社事業の強み",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/integratedreport2025_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「チーム」 で高成長 ・ 高収益事業にフ ォ ーカ ス し、 シナジー",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/integratedreport2025_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "う両軸で粗利率 ・ 利益率を確保したプロセスは、 中長期",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/integratedreport2025_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年度においては 、VISION 2030 の策定に向けて、 当社グ ループの強みを活かしな",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/integratedreport2025_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "対売上高収益率 19.0% -1.2Pt -",
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Non-GAAP営業利益率は前期比+4.6Ptの改善",
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率（対収益）",
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Non-GAAP営業利益率が前期比+1.6Pt改善",
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "従業員一人当たりの生産性も向上し、Non-GAAP営業利益率は前期比+5.2Pt改善、各案件の拡大や",
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ソリューション販売の強化により収益性・生産性を向上させ、過去2年を上回る営業利益率の実現を目指す",
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "収益 Non-GAAP営業利益（単位：百万円） 営業利益率（対収益）",
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Non-GAAP営業利益率が低下",
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当事業セグメントの四半期単体における過去最高収益を更新、",
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "対売上高収益率 20.4% 20.4% 20.4% － －",
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "企業のさまざまな取り組みや、そこから生まれる社会への提供価値、また、強みや今後のビジョンなど、企業の価値を多面的に紹介する統合報告書",
+    "url": "https://note.com/septeni_group/n/n45926438b884",
+    "pass": 3
+   },
+   {
+    "quote": "また強みを「OS」、事業領域を「アプリケーション」と表現しています",
+    "url": "https://note.com/septeni_group/n/n45926438b884",
+    "pass": 3
+   },
+   {
+    "quote": "有機的なつながりを表現できると、当社なりの強みをさらに打ち出せて良いですね",
+    "url": "https://note.com/septeni_group/n/n45926438b884",
+    "pass": 3
+   },
+   {
+    "quote": "1、10、100、1000という明確なキーワードで、2011年までに「社員１人あたりの売上高１億円」、「営業利益率10％」、「商人（経営者）輩出100人」、「グループ売上高1000億円」という目標があります",
+    "url": "https://www.nippon-shacho.com/interview/in_septeniholdings/2/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "沿革・受賞歴",
+    "url": "https://www.septeni-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期",
+    "url": "https://www.septeni-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革・受賞歴",
+    "url": "https://www.septeni-holdings.co.jp/company/overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "1990年10月",
+    "url": "https://www.septeni-holdings.co.jp/company/overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革・受賞歴｜セプテーニ・ホールディングス",
+    "url": "https://www.septeni-holdings.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革・受賞歴",
+    "url": "https://www.septeni-holdings.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1990年10月に創業者である",
+    "url": "https://www.septeni-holdings.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年まで当社の代表取締役を務めた佐藤光紀が、新規事業としてインターネット広告事業を開始しました",
+    "url": "https://www.septeni-holdings.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2030年までに当期利益100億円を創出し、高成長と高還元の両立を実現する企業体となるべく、VISION 2030に向けたFY2026-2028の中期経営計画を策定・公表",
+    "url": "https://www.septeni-holdings.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年（第10回）",
+    "url": "https://www.septeni-holdings.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年（第9回）",
+    "url": "https://www.septeni-holdings.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年（第7回）",
+    "url": "https://www.septeni-holdings.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年（第6回）",
+    "url": "https://www.septeni-holdings.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年（第5回）",
+    "url": "https://www.septeni-holdings.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年（第4回）",
+    "url": "https://www.septeni-holdings.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2018年（第3回）",
+    "url": "https://www.septeni-holdings.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年（第11回）",
+    "url": "https://www.septeni-holdings.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年（第10回）",
+    "url": "https://www.septeni-holdings.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2018年（第7回）",
+    "url": "https://www.septeni-holdings.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年（第6回）",
+    "url": "https://www.septeni-holdings.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2015年（第4回）",
+    "url": "https://www.septeni-holdings.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革・受賞歴",
+    "url": "https://www.septeni-holdings.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革・受賞歴",
+    "url": "https://www.septeni-holdings.co.jp/business/marketing.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革・受賞歴",
+    "url": "https://www.septeni-holdings.co.jp/business/direct.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革・受賞歴",
+    "url": "https://www.septeni-holdings.co.jp/business/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革・受賞歴",
+    "url": "https://www.septeni-holdings.co.jp/business/other.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革・受賞歴",
+    "url": "https://www.septeni-holdings.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第2四半期決算短信[IFRS]（連結）",
+    "url": "https://www.septeni-holdings.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第2四半期決算説明会資料",
+    "url": "https://www.septeni-holdings.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革・受賞歴",
+    "url": "https://www.septeni-holdings.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革・受賞歴",
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第２四半期決算説明会の書き起こし記事を公開いたしました",
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第２四半期決算説明会動画をアップいたしました",
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第２四半期決算説明会資料",
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期通期連結業績予想の修正に関するお知らせ",
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第２四半期決算短信〔ＩＦＲＳ〕（連結）",
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第１四半期決算説明会の書き起こし記事を公開いたしました",
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第１四半期決算説明会動画をアップいたしました",
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第１四半期決算説明会資料",
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第１四半期決算短信〔ＩＦＲＳ〕（連結）",
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革・受賞歴",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第2四半期",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年より統合報告書の",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革・受賞歴",
+    "url": "https://www.septeni-holdings.co.jp/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第２四半期決算発表",
+    "url": "https://www.septeni-holdings.co.jp/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第２四半期決算説明会(機関投資家･アナリスト･報道関係者向け)",
+    "url": "https://www.septeni-holdings.co.jp/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第１四半期決算発表",
+    "url": "https://www.septeni-holdings.co.jp/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第１四半期決算説明会(機関投資家･アナリスト･報道関係者向け)",
+    "url": "https://www.septeni-holdings.co.jp/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期 通期決算発表",
+    "url": "https://www.septeni-holdings.co.jp/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期 通期決算説明会(機関投資家･アナリスト･報道関係者向け)",
+    "url": "https://www.septeni-holdings.co.jp/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期 第３四半期決算発表",
+    "url": "https://www.septeni-holdings.co.jp/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期 第３四半期決算説明会(機関投資家･アナリスト･報道関係者向け)",
+    "url": "https://www.septeni-holdings.co.jp/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期 第２四半期決算発表",
+    "url": "https://www.septeni-holdings.co.jp/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期 第２四半期決算説明会(機関投資家･アナリスト･報道関係者向け)",
+    "url": "https://www.septeni-holdings.co.jp/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期 第１四半期決算発表",
+    "url": "https://www.septeni-holdings.co.jp/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期 第１四半期決算説明会(機関投資家･アナリスト･報道関係者向け)",
+    "url": "https://www.septeni-holdings.co.jp/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年12月期 通期決算発表",
+    "url": "https://www.septeni-holdings.co.jp/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年12月期 通期決算説明会(機関投資家･アナリスト･報道関係者向け)",
+    "url": "https://www.septeni-holdings.co.jp/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年12月期 第３四半期決算発表",
+    "url": "https://www.septeni-holdings.co.jp/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年12月期 第３四半期決算説明会(機関投資家･アナリスト･報道関係者向け)",
+    "url": "https://www.septeni-holdings.co.jp/ir/calender/",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "事業の深化と探索を進め、顧客への企業価値向上に伴走するパートナーを目指す",
+    "url": "https://www.septeni-holdings.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "UXコンサルティング・ソフトウェア事業を展開するbeBitと資本業務提携、一気通貫したマーケティング支援体制を強化し、顧客企業のLTV最大化を支援",
+    "url": "https://www.septeni-holdings.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "BtoC、BtoB領域において、事業戦略立案からダイレクトレスポンス手法によるプロモーション、CRMまで一気通貫で実行することでオフラインメディアとデジタルを統合した顧客支援を行っています",
+    "url": "https://www.septeni-holdings.co.jp/business/direct.html",
+    "pass": 1
+   },
+   {
+    "quote": "デジタルマーケティング領域で長年蓄積された知識・ノウハウを生かし、データの収集・統合・活用や、データやAIを活用したソリューションの開発・提供、顧客の開発支援やエンジニア人材の派遣を提供しています",
+    "url": "https://www.septeni-holdings.co.jp/business/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客の課題解決を総合的に支援するビジネスパートナーを目指しグループ内外の「フォーカス＆シナジー」を加速させる",
+    "url": "https://www.septeni-holdings.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "BtoC、BtoB領域において、事業戦略立案からダイレクトレスポンス手法によるプロモーション、CRMまで一気通貫で実行することでオフラインメディアとデジタルを統合した顧客支援を行っています",
+    "url": "https://www.septeni-holdings.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "デジタルマーケティング領域で長年蓄積された知識・ノウハウを生かし、データの収集・統合・活用や、データやAIを活用したソリューションの開発・提供、顧客の開発支援やエンジニア人材の派遣を提供しています",
+    "url": "https://www.septeni-holdings.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "これまでの事業運営においては、当社の各事業がそれぞれの領域で、その専門性・優位性を発揮することによって、顧客課題の解決を支援してまいりました",
+    "url": "https://www.septeni-holdings.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年に向けては、社会と時代が変化する中でも、顧客の企業価値最大化につながるあらゆる事業成果にグループ全体で向き合い、さらに「世界を元気に」する企業体になるべく、「VALUE MAXIMIZER」を標榜しております",
+    "url": "https://www.septeni-holdings.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、本画面にて取得するお客様、お取引先様または株主様に関する個人情報（以下「本件個人情報」といいます",
+    "url": "https://www.septeni-holdings.co.jp/ir/melma.html",
+    "pass": 1
+   },
+   {
+    "quote": "）を、お客様、お取引先様または株主様にメールを配信する目的のみに利用し、こちらに規定する事項以外は、",
+    "url": "https://www.septeni-holdings.co.jp/ir/melma.html",
+    "pass": 1
+   },
+   {
+    "quote": "【統合報告書2024・マネジメントメッセージ】顧客の課題解決を総合的に支援するビジネスパートナーを目指しグループ内外の「フォーカス＆シナジー」を加速させる",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/",
+    "pass": 1
+   },
+   {
+    "quote": "【統合報告書2024・マーケティング・コミュニケーション事業 担当役員対談】顧客ビジネスの成長のための統合マーケティングの実現がさらなる成長への鍵となる",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客と我々の企業価値向上を繋ぐ、新たな成長への覚悟",
+    "url": "https://www.septeni-holdings.co.jp/ir/medium-term.html",
+    "pass": 1
+   },
+   {
+    "quote": "その過程で、私たちが向き合う「世界」とは、顧客をはじめ事業パートナーや株主を含むステークホルダーの皆様であると再定義しました",
+    "url": "https://www.septeni-holdings.co.jp/ir/medium-term.html",
+    "pass": 1
+   },
+   {
+    "quote": "そして、私たちが目指す「世界を元気に」という状態は「顧客の企業価値向上を通じて、我々自身の企業価値も最大化させていくこと」であるという答えにたどり着き、これを今回「VISION 2030」として落とし込んでいます",
+    "url": "https://www.septeni-holdings.co.jp/ir/medium-term.html",
+    "pass": 1
+   },
+   {
+    "quote": "ここからは「VISION 2030」の達成に向け、グループ一体となって顧客の成長へ貢献し、当社グループの持続的な企業価値向上を加速させていく所存です",
+    "url": "https://www.septeni-holdings.co.jp/ir/medium-term.html",
+    "pass": 1
+   },
+   {
+    "quote": "これまでの事業運営においては、当社の各事業がそれぞれの領域で、その専門性・優位性を発揮することによって、顧客課題の解決を支援してまいりました",
+    "url": "https://www.septeni-holdings.co.jp/ir/medium-term.html",
+    "pass": 1
+   },
+   {
+    "quote": "2030年に向けては、社会と時代が変化する中でも、顧客の企業価値最大化につながるあらゆる事業成果にグループ全体で向き合い、さらに「世界を元気に」する企業体になるべく、「VALUE MAXIMIZER」を標榜しております",
+    "url": "https://www.septeni-holdings.co.jp/ir/medium-term.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客への価値創出と社内業務の変革の２つの軸での、人とAIの協働による価値共創を目指し、人材育成、組織体制の構築、AI活用統制の３つの基盤整備に取り組んでまいります",
+    "url": "https://www.septeni-holdings.co.jp/ir/medium-term.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客の企業価値向上に資するケーパビリティ拡張に向けた成長投資を実行していきます",
+    "url": "https://www.septeni-holdings.co.jp/ir/medium-term.html",
+    "pass": 1
+   },
+   {
+    "quote": "③これによる顧客企業の経営指標（P/L）に向き合う包括的な価値提供を目指します",
+    "url": "https://www.septeni-holdings.co.jp/company/culture.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業活動の成果としてもたらされる、顧客の企業価値最大化は当社グループを取り巻く全てのステークホルダーへと還元されます",
+    "url": "https://www.septeni-holdings.co.jp/company/culture.html",
+    "pass": 1
+   },
+   {
+    "quote": "④このプロセスは「社会と時代の変化を成長のエンジンに変えながら、顧客の企業価値の最大化を実現し、世界をもっと元気に」というフレーズに集約されます",
+    "url": "https://www.septeni-holdings.co.jp/company/culture.html",
+    "pass": 1
+   },
+   {
+    "quote": "（顧客の企業価値最大化を実現するパートナー）を標榜しております",
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/Aq_260924.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "が持つ顧客企業の多様なニーズに対応可能な質の高いデジタルマーケティングサービスと、 当社の経",
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/Aq_260924.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "せにより、HR マーケティングを軸とした顧客支援の加速を目指しております",
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/Aq_260924.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "が築いてきた長年の実績に裏打ちされた顧客基盤を保有し、中小企業への総合ソリューション提供を",
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/Aq_260924.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "アは強固なものとなり、顧客に対する提案力・購買力の最大化が見込まれます",
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/Aq_260924.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "有する中小企業顧客基盤と広範な営業網、そして当社が持つ強みとは異なる営業スキルを持った人材",
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/Aq_260924.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "を獲得することで、大手企業を中心とする当社の既存顧客層、ケーパビリティと補完しあう盤石な事",
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/Aq_260924.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "VALUE MAXIMIZER として顧客の企業価値の最大化を実現するために、中期経営計画で掲げる既",
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/Aq_260924.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "で実行することでオフラインメディアとデジタルを統合した顧客支援を行う事業セグメントから構成されています",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_FS_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "AIを活用したソリューションの開発・提供、顧客の開発支援やエンジニア人材の派遣を提供する事業セグメントから",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_FS_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "動及び事業を行う経済環境の性質や財務的な影響を財務諸表利用者が適切に評価できるよう、「マーケティン",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_FS_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "気通貫で実行することでオフラインメディアとデジタルを統合した顧客支援を行う事業セグメントから構成さ",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_FS_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ータやAIを活用したソリューションの開発・提供、顧客の開発支援やエンジニア人材の派遣を提供する事業セ",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_FS_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント間の取引における価格は、外部顧客との取引価格に準じて決定しております",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_FS_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "新規顧客獲得に加え、マーケティング・コミュニケーション事業やダイレクトビジネス",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業において既存顧客との取引がさらに拡大し、前期比+9.5%の増収",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "成長投資として、「事業の探索」に向けた顧客の企業価値向上に資するケーパビリティ拡張への投資、",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "新規顧客獲得に加えて既存顧客の拡大が大きく寄与し増収、大幅増益マーケティング・コミュニケーション事業",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ダイレクトビジネス事業 既存顧客の拡大により増収、大幅増益",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "国内大手顧客のみならずグローバルブランドの獲得が寄与し、",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "既存顧客の拡大により売上高は前期比+24.7%と大きく増収、原価や販管費を大きく増加させること",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "既存顧客のさらなる拡大により収益は前期比+11.2%の成長、",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "を基盤に、幅広い企業のAI活用を支援し、顧客企業の",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客企業 生活者",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "により顧客ビジネスの",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "両社の顧客基盤を活用したオンライン・オフライン広告の統合マーケティング提案（イメージ）",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "CRMまで一気通貫で実行することでオフラインメディアとデジタルを統合した顧客支援を行う",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "データやAIを活用したソリューションの開発・提供、顧客の開発支援やエンジニア人材の派遣を提供",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "で実行することでオフラインメディアとデジタルを統合した顧客支援を行う事業セグメントから構成されています",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/securities-report/FY2026Q2_Qreports.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "AIを活用したソリューションの開発・提供、顧客の開発支援やエンジニア人材の派遣を提供する事業セグメントから",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/securities-report/FY2026Q2_Qreports.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "済環境の性質や財務的な影響を財務諸表利用者が適切に評価できるよう、「マーケティング・コミュニケーション事",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/securities-report/FY2026Q2_Qreports.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント間の取引における価格は、外部顧客との取引価格に準じて決定しております",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/securities-report/FY2026Q2_Qreports.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から認識した収益の分解は、以下のとおりであります",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/securities-report/FY2026Q2_Qreports.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2030 年に向け た あ り た い姿と し て 、 顧客の企業価値最大化を実現す る 「 VALUE",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/integratedreport2025_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グ ループが目指す姿と して 「VALUE MAXIMIZER 」 を掲げ、 顧客の企業価値の",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/integratedreport2025_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "最大化を実現するため、 既存事業の強化と顧客への新たな提供価値探索に注力",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/integratedreport2025_ja.pdf",
+    "pass": 2
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://www.septeni-holdings.co.jp/business/marketing.html",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://www.septeni-holdings.co.jp/business/direct.html",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://www.septeni-holdings.co.jp/business/solution.html",
+    "pass": 1
+   },
+   {
+    "quote": "セプテーニ商流 電通商流 電通協業売上高 （単位：百万円）",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "新たな収益モデル構築に向けた費用を増やしつつも、Non-GAAP営業利益は前期比+8.9%の増益",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "マーケティング・コミュニケーション事業 ビジネスモデル",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ダイレクトビジネス事業 ビジネスモデル",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "データ・ソリューション事業 ビジネスモデル",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "グループ会社一覧 ビジネスモデル",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/integratedreport2025_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "既存広告モデルに捉われない新たな収益モデル構築",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/integratedreport2025_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「新たな収益モデル」 を構築 ・ 実行す",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/integratedreport2025_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "既存の広告モデルに捉われない 「新たな収益モデル」",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/integratedreport2025_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "新たな収益モデルへの先行投資が発生する局面もあり",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/integratedreport2025_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セプテーニ商流 電通商流 電通協業売上高 （単位：百万円）",
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "新たな収益モデル構築に向けた費用を増やしつつも、Non-GAAP営業利益は前期比+8.9%の増益",
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "マーケティング・コミュニケーション事業 ビジネスモデル",
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ダイレクトビジネス事業 ビジネスモデル",
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "データ・ソリューション事業 ビジネスモデル",
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（※）古くからある従来型の経済や産業、また企業形態やビジネスモデル",
+    "url": "https://note.com/septeni_group/n/n45926438b884",
+    "pass": 3
+   },
+   {
+    "quote": "つまりエンパワーそれ自体が、御社のビジネスモデルを強くしていくようなものだと思うんです",
+    "url": "https://note.com/septeni_group/n/n45926438b884",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "3-1 当社グループの企業像・事業セグメント紹介",
+    "url": "https://www.septeni-holdings.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "事業の深化に向けた、各セグメントのテーマ、事業戦略は下記のとおりです",
+    "url": "https://www.septeni-holdings.co.jp/ir/medium-term.html",
+    "pass": 1
+   },
+   {
+    "quote": "このVISION 2030のスタートとなる2026年からは、３つの報告セグメントの深化と探索を続けながら、HRテクノロジー領域の事業化を目指し、事業の探索に挑戦してまいります",
+    "url": "https://www.septeni-holdings.co.jp/ir/medium-term.html",
+    "pass": 1
+   },
+   {
+    "quote": "②セグメント情報 ………………………………………………………………………………………………… 9",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_FS_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント別の業績は、次のとおりであります",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_FS_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "う事業セグメントから構成されています",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_FS_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "で実行することでオフラインメディアとデジタルを統合した顧客支援を行う事業セグメントから構成されています",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_FS_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "AIを活用したソリューションの開発・提供、顧客の開発支援やエンジニア人材の派遣を提供する事業セグメントから",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_FS_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "②セグメント情報",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_FS_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "イ．報告セグメントの概要",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_FS_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの報告セグメントは、事業単位の中から、分離された財務情報が入手可能であり、最高経営意",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_FS_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "メントを基礎に、各事業セグメントの経済的特徴の類似性及び量的重要性等を考慮し、当社グループの事業活",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_FS_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメントに集約・区分して開示しております",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_FS_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "援を行う事業セグメントから構成されています",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_FS_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "気通貫で実行することでオフラインメディアとデジタルを統合した顧客支援を行う事業セグメントから構成さ",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_FS_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ロ．報告セグメントの損益の測定に関する事項",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_FS_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益は、IFRS会計基準に基づく営業利益から、買収に伴う無形資産の償却費、M&Aに伴う費用等",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_FS_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント間の取引における価格は、外部顧客との取引価格に準じて決定しております",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_FS_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_FS_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント収益 10,903,417 3,168,831 1,551,451 15,623,700 208,510 15,832,210 △624,807 15,207,403",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_FS_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益（注）１ 2,778,857 606,559 249,687 3,635,103 10,967 3,646,070 △1,581,148 2,064,922",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_FS_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント収益 12,077,834 3,523,168 1,658,947 17,259,949 120,456 17,380,404 △727,764 16,652,641",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_FS_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益（注）１ 3,655,953 833,459 297,541 4,786,952 11,128 4,798,080 △1,772,146 3,025,934",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_FS_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 2,064,922 3,025,934",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_FS_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ハ．報告セグメントの損益に関する情報",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_FS_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１ セグメント利益は、Non-GAAP営業利益を使用しております",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_FS_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２ 「マーケティング・コミュニケーション事業」のセグメント収益及びセグメント利益には、2025年７月１日付",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_FS_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "譲渡した「Lion Digital Global Limited及びその子会社」に係るセグメント収益及びセグメント損失を含め",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_FS_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "FY2026/2Q累計（1-6月）決算ハイライト（セグメント別）",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "13 ＊その他事業、セグメント間収益の消去分の記載を省略しているため、各事業収益の合計と連結収益（下線付数値）は一致しない",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別概況",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当事業セグメントの四半期単体における過去最高収益を更新、",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年12月期 通期業績予想（セグメント別）",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "業績予想に対する進捗状況（セグメント別）",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント別の業績は、次のとおりであります",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/securities-report/FY2026Q2_Qreports.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "う事業セグメントから構成されています",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/securities-report/FY2026Q2_Qreports.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "で実行することでオフラインメディアとデジタルを統合した顧客支援を行う事業セグメントから構成されています",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/securities-report/FY2026Q2_Qreports.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "AIを活用したソリューションの開発・提供、顧客の開発支援やエンジニア人材の派遣を提供する事業セグメントから",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/securities-report/FY2026Q2_Qreports.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの主な事業内容は、「注記４．セグメント情報（１）報告セグメントの概要」に記載しております",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/securities-report/FY2026Q2_Qreports.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "４．セグメント情報",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/securities-report/FY2026Q2_Qreports.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（１）報告セグメントの概要",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/securities-report/FY2026Q2_Qreports.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの報告セグメントは、事業単位の中から、分離された財務情報が入手可能であり、最高経営意思決定",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/securities-report/FY2026Q2_Qreports.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "者が経営資源の配分の決定及び業績を評価するために、定期的に検討を行う対象となっている事業セグメントを基礎",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/securities-report/FY2026Q2_Qreports.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "に、各事業セグメントの経済的特徴の類似性及び量的重要性等を考慮し、当社グループの事業活動及び事業を行う経",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/securities-report/FY2026Q2_Qreports.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "業」、「ダイレクトビジネス事業」及び「データ・ソリューション事業」の３つの報告セグメントに集約・区分して",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/securities-report/FY2026Q2_Qreports.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（２）報告セグメントの損益の測定に関する事項",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/securities-report/FY2026Q2_Qreports.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益は、IFRS会計基準に基づく営業利益から、買収に伴う無形資産の償却費、M&Aに伴う費用等の買収",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/securities-report/FY2026Q2_Qreports.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント間の取引における価格は、外部顧客との取引価格に準じて決定しております",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/securities-report/FY2026Q2_Qreports.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/securities-report/FY2026Q2_Qreports.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント収益 10,903,417 3,168,831 1,551,451 15,623,700 208,510 15,832,210 △624,807 15,207,403",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/securities-report/FY2026Q2_Qreports.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益（注）１ 2,778,857 606,559 249,687 3,635,103 10,967 3,646,070 △1,581,148 2,064,922",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/securities-report/FY2026Q2_Qreports.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント収益 12,077,834 3,523,168 1,658,947 17,259,949 120,456 17,380,404 △727,764 16,652,641",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/securities-report/FY2026Q2_Qreports.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益（注）１ 3,655,953 833,459 297,541 4,786,952 11,128 4,798,080 △1,772,146 3,025,934",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/securities-report/FY2026Q2_Qreports.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 2,064,922 3,025,934",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/securities-report/FY2026Q2_Qreports.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（３）報告セグメントの損益に関する情報",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/securities-report/FY2026Q2_Qreports.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１ セグメント利益は、Non-GAAP営業利益を使用しております",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/securities-report/FY2026Q2_Qreports.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２ 「マーケティング・コミュニケーション事業」のセグメント収益及びセグメント利益には、2025年７月１日付",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/securities-report/FY2026Q2_Qreports.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "譲渡した「Lion Digital Global Limited及びその子会社」に係るセグメント収益及びセグメント損失を含め",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/securities-report/FY2026Q2_Qreports.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３ 「その他事業」の区分は、報告セグメントに含まれない事業セグメントであり、HRテクノロジー事業等が含ま",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/securities-report/FY2026Q2_Qreports.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "例 ： 改定前後における当社代表取締役の報酬構成比の変化",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/integratedreport2025_ja.pdf",
+    "pass": 2
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "影響は見込まない一方で、広告市場全体への間接的な影響が生じる可能性を鑑み、保守的な前提を置く",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "システム利用料 266 289 296 321 312 294 293 314 305 308 +1.1% +4.7%",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "①【ストックオプション制度の内容】",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/securities-report/FY2026Q2_Qreports.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）ストック・オプションの権利行使による増加であります",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/securities-report/FY2026Q2_Qreports.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ストック・オプションの行使 － 20,000",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/securities-report/FY2026Q2_Qreports.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "①【ストックオプション制度の内容】",
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/FY2026Q2_Qreports.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）ストック・オプションの権利行使による増加であります",
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/FY2026Q2_Qreports.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ストック・オプションの行使 － 20,000",
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/FY2026Q2_Qreports.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "影響は見込まない一方で、広告市場全体への間接的な影響が生じる可能性を鑑み、保守的な前提を置く",
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "システム利用料 266 289 296 321 312 294 293 314 305 308 +1.1% +4.7%",
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/FY2026Q2_presen_J_260806.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ダイレクト ビジネス 事業｜ セプテーニ ・ ホールディングス — ダイレクト ビジネス 事業｜ セプテーニ ・ ホールディングス 株式会社セプテーニ・ホールディングス https://www.septeni-holdings.co.jp > business > direct",
+    "url": "https://www.septeni-holdings.co.jp/business/direct.html",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルマーケティング事業｜ セプテーニ ・ ホールディングス — デジタルマーケティング事業｜ セプテーニ ・ ホールディングス septeni.uh-oh.jp https://septeni.uh-oh.jp > business > digital",
+    "url": "https://septeni.uh-oh.jp/business/digital.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 資料 - 株式会社セプテーニ・ホールディングス — 決算説明 会 資料 - 株式会社セプテーニ・ホールディングス 株式会社セプテーニ・ホールディングス https://www.septeni-holdings.co.jp > library > briefing",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/briefing/",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリー - 株式会社セプテーニ・ホールディングス — IRライブラリー - 株式会社セプテーニ・ホールディングス 株式会社セプテーニ・ホールディングス https://www.septeni-holdings.co.jp > library",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "中期経営計画｜FY2026-2028 — 中期経営計画｜FY2026-2028 株式会社セプテーニ・ホールディングス PDF https://www.septeni-holdings.co.jp > library > Mp_p...",
+    "url": "https://www.septeni-holdings.co.jp/ir/library/Mp_presen_J_260212.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 セプテーニ ・ ホールディングス - Shared Research — 株式会社 セプテーニ ・ ホールディングス - Shared Research Shared Research https://sharedresearch.jp > companies",
+    "url": "https://sharedresearch.jp/ja/companies/4293",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 セプテーニ ・ ホールディングス 取締役会長 七村 守 — 株式会社 セプテーニ ・ ホールディングス 取締役会長 七村 守 nippon-shacho.com https://www.nippon-shacho.com > in_septeniholdings",
+    "url": "https://www.nippon-shacho.com/interview/in_septeniholdings/2/",
+    "pass": 3
+   },
+   {
+    "quote": "記事一覧｜採用情報｜ セプテーニ グループ — 記事一覧｜採用情報｜ セプテーニ グループ 株式会社セプテーニ・ホールディングス https://www.septeni-holdings.co.jp > recruitment > articles",
+    "url": "https://www.septeni-holdings.co.jp/recruitment/articles.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 セプテーニ ・ ホールディングス 名誉会長 七村 守 — 株式会社 セプテーニ ・ ホールディングス 名誉会長 七村 守 ベンチャー通信Online https://v-tsushin.jp > interview > septeni_36",
+    "url": "https://v-tsushin.jp/interview/septeni_36/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 セプテーニ ・ ホールディングス 代表取締役 社長 佐藤 ... — 株式会社 セプテーニ ・ ホールディングス 代表取締役 社長 佐藤 ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=t_TGk4vnqwg",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.septeni-holdings.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.septeni-holdings.co.jp/company/overview.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.septeni-holdings.co.jp/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.septeni-holdings.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.septeni-holdings.co.jp/business/marketing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.septeni-holdings.co.jp/business/direct.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.septeni-holdings.co.jp/business/solution.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.septeni-holdings.co.jp/business/other.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.septeni-holdings.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.septeni-holdings.co.jp/ir/management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.septeni-holdings.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.septeni-holdings.co.jp/ir/calender/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.septeni-holdings.co.jp/ir/e-publication/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.septeni-holdings.co.jp/ir/finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.septeni-holdings.co.jp/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.septeni-holdings.co.jp/ir/individual/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.septeni-holdings.co.jp/ir/melma.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.septeni-holdings.co.jp/ir/library/briefing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.septeni-holdings.co.jp/ir/medium-term.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.septeni-holdings.co.jp/ir/stock/price.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.septeni-holdings.co.jp/company/culture.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/Aq_260924.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_FS_J_260806.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.septeni-holdings.co.jp/ir/library/FY2026Q2_presen_J_260806.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.septeni-holdings.co.jp/ir/library/securities-report/FY2026Q2_Qreports.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.septeni-holdings.co.jp/ir/library/integrated-report/integratedreport2025_ja.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/Pr_260828.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/FY2026Q2_Qreports.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.septeni-holdings.co.jp/ir/irnews/FY2026Q2_presen_J_260806.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.septeni-holdings.co.jp/img/business/index/pic_business_top_marketing@2x.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.septeni-holdings.co.jp/img/business/index/pic_business_top_direct@2x.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.septeni-holdings.co.jp/img/business/index/pic_business_top_solution@2x.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.septeni-holdings.co.jp/img/business/index/pic_business_top_other@2x.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.septeni-holdings.co.jp/img/business/index/pic_business_top_gain_sp@2x.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.septeni-holdings.co.jp/img/business/index/pic_digital_03_sp.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.septeni-holdings.co.jp/img/business/index/pic_digital_08_sp.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.septeni-holdings.co.jp/img/business/marketing/logo_prime-cross@2x.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.com/septeni_group/n/n45926438b884",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sharedresearch.jp/ja/companies/4293",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-shacho.com/interview/in_septeniholdings/2/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "セプテーニ・ホールディングス",
+   "results": [
+    "https://www.septeni-holdings.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%97%E3%83%86%E3%83%BC%E3%83%8B%E3%83%BB%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "https://www.septeni.co.jp/",
+    "https://x.com/Septeni_PR",
+    "https://note.com/septeni_group",
+    "https://ja.wikipedia.org/wiki/セプテーニ・ホールディングス",
+    "https://www.septeni-holdings.co.jp/ir/",
+    "http://www.septeni.co.jp/",
+    "https://septeni.uh-oh.jp/",
+    "https://finance.yahoo.co.jp/quote/4293.T"
+   ]
+  },
+  {
+   "query": "セプテーニ・ホールディングス ビジネスモデル",
+   "results": [
+    "https://note.com/septeni_group/n/n45926438b884",
+    "https://www.septeni-holdings.co.jp/business/direct.html",
+    "https://septeni.uh-oh.jp/business/digital.html",
+    "https://note.com/septeni_group/n/n10974064ae40",
+    "https://www.septeni.co.jp/business/",
+    "https://sharedresearch.jp/ja/companies/4293",
+    "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%97%E3%83%86%E3%83%BC%E3%83%8B%E3%83%BB%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "https://macloud.jp/companies/4761",
+    "https://app.en-courage.com/companies/01GHZ0YTYBP60WR4JF8EA55WRH?locale=ja",
+    "https://consovation.com/セプテーニ・ホールディングスとビジネスモデル/"
+   ]
+  },
+  {
+   "query": "セプテーニ・ホールディングス 決算説明資料",
+   "results": [
+    "https://www.septeni-holdings.co.jp/ir/library/briefing/",
+    "https://www.septeni-holdings.co.jp/ir/library/",
+    "https://note.com/septeni_group/n/n3a347f586fa1",
+    "https://x.com/Septeni_PR",
+    "https://finance.logmi.jp/articles/383063",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=4293",
+    "https://www.septeni-holdings.co.jp/ir/",
+    "https://kabutan.jp/stock/finance?code=4293",
+    "https://septeni.uh-oh.jp/ir/",
+    "https://www.septeni-holdings.co.jp/ir/irnews/settlement/"
+   ]
+  },
+  {
+   "query": "セプテーニ・ホールディングス 事業系統図",
+   "results": [
+    "https://www.septeni-holdings.co.jp/ir/library/Mp_presen_J_260212.pdf",
+    "https://sharedresearch.jp/ja/companies/4293",
+    "https://design-sli.de/slide/17739",
+    "https://x.com/Septeni_PR",
+    "https://job.mynavi.jp/28/pc/search/corp79954/outline.html",
+    "https://www.septeni.co.jp/",
+    "https://septeni.uh-oh.jp/ir/library/",
+    "https://macloud.jp/companies/4761",
+    "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%97%E3%83%86%E3%83%BC%E3%83%8B%E3%83%BB%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "https://ja.wikipedia.org/wiki/セプテーニ・ホールディングス"
+   ]
+  },
+  {
+   "query": "セプテーニ・ホールディングス 社長 インタビュー",
+   "results": [
+    "https://www.nippon-shacho.com/interview/in_septeniholdings/2/",
+    "https://www.septeni-holdings.co.jp/recruitment/articles.html",
+    "https://note.com/septeni_group/m/m696417c94b40",
+    "https://v-tsushin.jp/interview/septeni_36/",
+    "https://www.youtube.com/watch?v=t_TGk4vnqwg",
+    "https://myroad-online.jp/keyperson/nanamura_mamoru/",
+    "https://www.wantedly.com/companies/septeni_ad/stories",
+    "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%97%E3%83%86%E3%83%BC%E3%83%8B%E3%83%BB%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "https://note.com/septeni_group/n/n85dcf361a87a",
+    "https://ja.wikipedia.org/wiki/七村守"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式23頁／PDF・画像16件／外部3頁・検索5回）"
+ }
+}
