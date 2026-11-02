@@ -1,0 +1,28 @@
+# ものづくり・素材の領域で「仕組みで回る」稼ぎ方（受発注・マッチング・ポータル・メディア・EC・データベース）をしている会社。
+# 小さな会社を含め、誰からどんな形でお金をもらっているか（会員料・手数料・掲載料・広告・データ）と、創業期の始め方・規模を引用する。
+title: ものづくり・素材の受発注・マッチング・ポータル・メディア・EC（仕組みで回る稼ぎ方）
+input: researcher/inputs/mfg_platforms.csv
+columns: {name: 社名, url: 公式URL, aliases: 別名, context: 文脈}
+
+profile_keys:
+  設立: [設立, 創業, founded, established, since]
+  従業員数: [従業員, 社員数, employees, staff]
+  売上高: [売上, revenue, turnover]
+
+evidence:
+  誰から払われるか: [発注者, 受注企業, 加工会社, 会員企業, 掲載企業, 出展, 買い手, 売り手, buyers, suppliers, manufacturers, shops, members, customers]
+  お金の形: [月額, 年会費, 会費, 有料会員, プレミアム, 手数料, 成約手数料, 掲載料, 広告, 課金, subscription, membership, fee, commission, take rate, listing, advertising, per month, per year, pricing, plan]
+  規模: [会員数, 登録企業, 登録社数, 利用企業, 社が登録, 件数, 案件数, ユーザー数, members, registered, suppliers, users, orders, GMV, 流通額]
+  創業期の始め方: [創業, 立ち上げ, 最初, 当初, きっかけ, 一人, 手作業, started, first, early, founder, bootstrapped, garage]
+  集客: [SEO, 検索, メディア, 記事, 展示会, 紹介, メルマガ, 広告, content, newsletter, search, organic]
+  資金調達・売却: [資金調達, 出資, 買収, 売却, 上場, raised, funding, acquired, acquisition, IPO]
+
+subpage_keywords: [料金, 価格, プラン, 会員, 会社概要, 沿革, 企業情報, about, pricing, plans, membership, company, history, press, news, 採用]
+
+external_queries:
+  - "{name} 会員数 料金 ビジネスモデル"
+  - "{name} 売上 従業員 創業"
+  - "{name} 社長 インタビュー 創業のきっかけ"
+  - "{name} revenue members business model"
+
+limits: {pages: 25, subpages: 25, pdfs: 4, images: 4, external_per_query: 3}

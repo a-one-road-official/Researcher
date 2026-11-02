@@ -12,3 +12,4 @@ topics:
   whitelabel: {run: true, shards: 8, per_run: 3}
   materials_growth: {run: true, shards: 8, per_run: 3}
   carmaker_sidebiz: {run: true, shards: 8, per_run: 4}
+  mfg_platforms: {run: true, shards: 8, per_run: 5}
