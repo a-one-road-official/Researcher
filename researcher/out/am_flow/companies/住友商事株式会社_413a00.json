@@ -1,0 +1,624 @@
+{
+ "name": "住友商事株式会社",
+ "aliases": [],
+ "context": "/ Elementum 3D（米）；MELD Manufacturing（米）",
+ "researched_at": "2026-11-02T12:14:31.937574+00:00",
+ "official_url": "https://www.sumitomocorp.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "誰から": [
+   {
+    "quote": "In FY2025, we achieved a record-high consolidated net income of 600.3 billion yen. This achievement reflects the steady progress of the initiatives we have put into action under our Medium-Term Management Plan 2026, as well as the trust and support of our stakeholders, including shareholders and investors, business partners, local communities, and our employees.",
+    "url": "https://www.sumitomocorp.com/en/jp/about/message",
+    "pass": 1
+   },
+   {
+    "quote": "The Integrated Report shows how Sumitomo Corporation creates value toward maintaining sustained growth in partnership with society.",
+    "url": "https://www.sumitomocorp.com/en/jp/about/library/ci01",
+    "pass": 1
+   },
+   {
+    "quote": "住友商事とＳＭＸ 非鉄分野で総代理店契約 - 駐日イスラエル大使館 経済部",
+    "url": "https://israel-keizai.org/news/smx/",
+    "pass": 3
+   },
+   {
+    "quote": "住友商事とＳＭＸ 非鉄分野で総代理店契約",
+    "url": "https://israel-keizai.org/news/smx/",
+    "pass": 3
+   },
+   {
+    "quote": "と、非鉄金属分野でのグローバルな総代理店契約を結んだと発表した",
+    "url": "https://israel-keizai.org/news/smx/",
+    "pass": 3
+   },
+   {
+    "quote": "2025 Microsoft Japan Partner of the Year受賞",
+    "url": "https://engagesq.com/ja/our-work/case-studies/sc-copilot-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ＡＩフィンテック探る「無色提携」 触媒の横浜ＦＧ",
+    "url": "https://www.nikkei.com/nkd/company/?scode=8053",
+    "pass": 3
+   }
+  ],
+  "何をする": [
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.sumitomocorp.com/ja/jp/about/corporate-message",
+    "pass": 1
+   },
+   {
+    "quote": "最新ニュースリリース",
+    "url": "https://www.sumitomocorp.com/ja/jp/about/corporate-message",
+    "pass": 1
+   },
+   {
+    "quote": "【アクセンチュアはAI時代にも独り勝ちか？：濱岡大社長】2.8万人まで急拡大／コンサル会社？／日本企業の最大の課題／コンサル不要論への反論／AI時代の稼ぎ方／売上高１兆円へ／ライバルはどこ？",
+    "url": "https://www.youtube.com/watch?v=3GIG4ttRTds",
+    "pass": 3
+   },
+   {
+    "quote": "導入にあたり、住友商事のIT企画推進部（以下、事務局）では、Copilot訴求のポスター掲示、社内デジタルサイネージへの訴求動画放映、Copilotトレーニング（社内通称「コパトレ」）、SharePoint Online上でのCopilotポータルサイト開設などの社内プロモーション施策を実施",
+    "url": "https://engagesq.com/ja/our-work/case-studies/sc-copilot-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "プレスリリース",
+    "url": "https://www.nikkei.com/nkd/company/?scode=8053",
+    "pass": 3
+   },
+   {
+    "quote": "企業などのリリースを掲載",
+    "url": "https://www.nikkei.com/nkd/company/?scode=8053",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "住友商事 とSMX 非鉄分野で総 代理店契約 - 駐日イスラエル ... — 住友商事 とSMX 非鉄分野で総 代理店契約 - 駐日イスラエル ... 駐日イスラエル大使館 経済部 - https://israel-keizai.org > news > smx",
+    "url": "https://israel-keizai.org/news/smx/",
+    "pass": 3
+   },
+   {
+    "quote": "住友商事 グループ-ニュースリリース2025年 — 住友商事 グループ-ニュースリリース2025年 Sumitomo Corporation https://www.sumitomocorp.com > ... > 住友商事グループ",
+    "url": "https://www.sumitomocorp.com/ja/jp/news/group/2025",
+    "pass": 3
+   },
+   {
+    "quote": "住友商事 ｜海外含む9000名のCopilot全社活用！さらなる活用 ... — 住友商事 ｜海外含む9000名のCopilot全社活用！さらなる活用 ... Engage Squared https://engagesq.com > case-studies > sc-copilot-jp",
+    "url": "https://engagesq.com/ja/our-work/case-studies/sc-copilot-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "事業紹介 | 住友商事 - Sumitomo Corporation — 事業紹介 | 住友商事 - Sumitomo Corporation Sumitomo Corporation https://www.sumitomocorp.com > ホーム > 事業紹介",
+    "url": "https://www.sumitomocorp.com/ja/jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "住友商事 が日本企業初の Copilot for Microsoft 365 を ... — 住友商事 が日本企業初の Copilot for Microsoft 365 を ... Microsoft https://www.microsoft.com > ja-jp > customers > story > 1...",
+    "url": "https://www.microsoft.com/ja-jp/customers/story/1799870297941010991-sumitomo-corporation-azure-ai-studio-professional-services-ja-japan",
+    "pass": 3
+   },
+   {
+    "quote": "【 住友商事 】株価・日経最新ニュース[8053] | 日本経済新聞 — 【 住友商事 】株価・日経最新ニュース[8053] | 日本経済新聞 日本経済新聞 https://www.nikkei.com > nkd > company",
+    "url": "https://www.nikkei.com/nkd/company/?scode=8053",
+    "pass": 3
+   },
+   {
+    "quote": "住友商事 (8053) : 株価/予想・目標株価 [SUMITOMO] - みんかぶ — 住友商事 (8053) : 株価/予想・目標株価 [SUMITOMO] - みんかぶ みんかぶ https://minkabu.jp > 株価検索",
+    "url": "https://minkabu.jp/stock/8053",
+    "pass": 3
+   },
+   {
+    "quote": "住友商事 【8053】の株価・基本情報 - 株探 — 住友商事 【8053】の株価・基本情報 - 株探 株探 https://kabutan.jp > stock",
+    "url": "https://kabutan.jp/stock/?code=8053",
+    "pass": 3
+   },
+   {
+    "quote": "住友商事 （8053）の株価・株式｜国内株式 - SBI証券 — 住友商事 （8053）の株価・株式｜国内株式 - SBI証券 SBI証券 https://www.sbisec.co.jp > getDetailOfStockPriceJP",
+    "url": "https://www.sbisec.co.jp/ETGate/WPLETsiR001Control/WPLETsiR001Ilst10/getDetailOfStockPriceJP?OutSide=on&getFlg=on&stock_sec_code_mul=8053&exchange_code=JPN",
+    "pass": 3
+   },
+   {
+    "quote": "住友商事 （8053）株価、ニュース - Google Finance — 住友商事 （8053）株価、ニュース - Google Finance Google https://www.google.com > finance > quote > 8053:TYO",
+    "url": "https://www.google.com/finance/quote/8053:TYO?hl=ja&gl=JP",
+    "pass": 3
+   },
+   {
+    "quote": "Sintavia社への出資― 住友商事 株式会社 | 業務用3Dプリンター ... — Sintavia社への出資― 住友商事 株式会社 | 業務用3Dプリンター ... ShareLab NEWS https://news.sharelab.jp > 業界動向 > ビジネス・経済",
+    "url": "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "【Microsoft 導入事例】住友商事株式会社：Microsoft 365 Copilot のグローバル全社導入で、従業員一人ひとりの生産性・創造性を向上し持続的成長を実現 - YouTube",
+    "url": "https://www.youtube.com/watch?v=3GIG4ttRTds",
+    "pass": 3
+   },
+   {
+    "quote": "【Microsoft 導入事例】住友商事株式会社：Microsoft 365 Copilot のグローバル全社導入で、従業員一人ひとりの生産性・創造性を向上し持続的成長を実現",
+    "url": "https://www.youtube.com/watch?v=3GIG4ttRTds",
+    "pass": 3
+   },
+   {
+    "quote": "【業界研究】住友商事グローバルメタルズ社員に聞く鉄鋼商社業界が面白い【27卒】｜MEICARI就活Vol.1315",
+    "url": "https://www.youtube.com/watch?v=3GIG4ttRTds",
+    "pass": 3
+   },
+   {
+    "quote": "その具体的な活用方法や導入効果、定着化促進にむけた取り組みについて、ユーザーの声を交え紹介します",
+    "url": "https://www.youtube.com/watch?v=3GIG4ttRTds",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザーが実践する具体的な活用例とその効果",
+    "url": "https://www.youtube.com/watch?v=3GIG4ttRTds",
+    "pass": 3
+   },
+   {
+    "quote": "※住友商事株式会社の導入事例記事はこちら",
+    "url": "https://www.youtube.com/watch?v=3GIG4ttRTds",
+    "pass": 3
+   },
+   {
+    "quote": "【SIer業界 徹底解説】SIerの分類と各社の違いとは？年収・グローバル・公共性・未経験転職まで転職のプロが徹底解説【NTTデータ／富士通／NEC／日立／SIer転職／IT転職】",
+    "url": "https://www.youtube.com/watch?v=3GIG4ttRTds",
+    "pass": 3
+   },
+   {
+    "quote": "当社のお客様",
+    "url": "https://engagesq.com/ja/our-work/case-studies/sc-copilot-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Microsoft 導入事例ページ：",
+    "url": "https://engagesq.com/ja/our-work/case-studies/sc-copilot-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様導入事例 『住友商事が日本企業初の Copilot for Microsoft 365 をグローバル全社導入",
+    "url": "https://engagesq.com/ja/our-work/case-studies/sc-copilot-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "導入から約3か月で、イノベーター層（Copilotへの興味や関心度が高いユーザー層）への浸透については、一定の成果があがりました",
+    "url": "https://engagesq.com/ja/our-work/case-studies/sc-copilot-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、ユーザーから事務局に対しては、「すぐに使えるユースケースが欲しい」「Copilotプロンプトを提供してほしい」といった要望が多く寄せられました",
+    "url": "https://engagesq.com/ja/our-work/case-studies/sc-copilot-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Copilotムーブメントはグループ各社へと着実に広がりつつあり、数万ユーザー規模への波及効果が見込まれています",
+    "url": "https://engagesq.com/ja/our-work/case-studies/sc-copilot-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザー企業さま同士の意見交換や交流などを目的に、弊社顧客と浅田さまが、業界・企業の垣根を超えディスカッションする機会や、",
+    "url": "https://engagesq.com/ja/our-work/case-studies/sc-copilot-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "｜「効果」は数字だけじゃない！ユーザーの声も大切に",
+    "url": "https://engagesq.com/ja/our-work/case-studies/sc-copilot-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "実際に、住友商事でもユーザーサーベイやワークショップで得られたユーザーの声をもとに、Copilot利用価値を可視化しています",
+    "url": "https://engagesq.com/ja/our-work/case-studies/sc-copilot-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "住友商事のCopilot Champion Journeyは、まだ始まったばかり！9,000名の全役職員を巻き込む大規模な取り組みのなかで、「Champion（ユーザー）起点の推進」こそが、真のムーブメントを醸成する原動力になると、住友商事と弊社は確信しています",
+    "url": "https://engagesq.com/ja/our-work/case-studies/sc-copilot-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "3分でわかる就活・業界研究",
+    "url": "https://www.nikkei.com/nkd/company/?scode=8053",
+    "pass": 3
+   },
+   {
+    "quote": "業界動向と主要プレーヤーは？",
+    "url": "https://www.nikkei.com/nkd/company/?scode=8053",
+    "pass": 3
+   },
+   {
+    "quote": "業界のビジネスアイデアは？",
+    "url": "https://www.nikkei.com/nkd/company/?scode=8053",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "【住友商事｢1.8兆の8割｣を成長分野に投資】トランプ関税のメリット／バフェットの後継者と話したこと／再エネ｢下火｣でどうする？／過去最大3000億円の買収／市場からの信頼回復に向けた有言実行",
+    "url": "https://www.youtube.com/watch?v=3GIG4ttRTds",
+    "pass": 3
+   },
+   {
+    "quote": "【社内AI活用の9割が期待ハズレ】個人の時短で終わらせるな／表記揺れ･更新漏れ…原因は「汚れたデータ」／年間3.9億円の無駄を削る／AI-Readyデータの整え方",
+    "url": "https://www.youtube.com/watch?v=3GIG4ttRTds",
+    "pass": 3
+   },
+   {
+    "quote": "【アクセンチュアはAI時代にも独り勝ちか？：濱岡大社長】2.8万人まで急拡大／コンサル会社？／日本企業の最大の課題／コンサル不要論への反論／AI時代の稼ぎ方／売上高１兆円へ／ライバルはどこ？",
+    "url": "https://www.youtube.com/watch?v=3GIG4ttRTds",
+    "pass": 3
+   },
+   {
+    "quote": "【三井物産 丸紅 住友商事を徹底解説】三井物産 24年ぶり利益首位／豪州の鉄鉱石事業に8000億円投資／丸紅新社長はマッキンゼーから出戻った鬼軍曹／「自利利他公私一如」を守る住友商事【ニュース解説】",
+    "url": "https://www.youtube.com/watch?v=3GIG4ttRTds",
+    "pass": 3
+   },
+   {
+    "quote": "「住友商事が年間1.2億円削減」「大和総研が業務効率化に成功」――AI活用で成果をあげた共通点とは？",
+    "url": "https://engagesq.com/ja/our-work/case-studies/sc-copilot-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "住友商事の純利益6700億円、27年3月期に上振れ 実質増配",
+    "url": "https://www.nikkei.com/nkd/company/?scode=8053",
+    "pass": 3
+   },
+   {
+    "quote": "住友商事、インドの再エネ開発に参画 総事業費500億円",
+    "url": "https://www.nikkei.com/nkd/company/?scode=8053",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sumitomocorp.com/en/global",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/en/jp/about/corporate-message",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/en/jp/about/policy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/en/jp/about/policy/principles",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/en/jp/about/policy/mid-term",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/en/jp/about/message",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/en/jp/about/company/profile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/en/jp/about/library/ci01",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/en/jp/ir/information-disclosure",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/en/jp/about/at-a-glance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/en/jp/about/company/sc-history",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/en/jp/about/company/sc-history/history",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/en/jp/about/point",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/en/jp/about/governance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/en/jp/about/humancapital",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/en/jp/about/brand-concept/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/en/jp/about/message",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/en/jp/about/corporate-message",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/en/jp/about/policy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/en/jp/about/policy/principles",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/en/jp/about/policy/mid-term",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/en/jp/about/message",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/en/jp/about/company/profile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/en/jp/about/library/ci01",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/en/jp/ir/information-disclosure",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/en/jp/about/at-a-glance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/ja/jp/about/corporate-message",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/en/jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/en/jp/about/policy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/en/jp/about/corporate-message",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.sumitomocorp.com/-/media/Files/hq/news/release/2026/21790/21790_en.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/jp/-/media/Files/hq/ir/report/summary/2023/20240502Presentation_3gejy.pdf?sc_lang=en",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/jp/-/media/Files/hq/ir/report/summary/2023/20240502Scripts.pdf?sc_lang=en",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/-/media/Files/hq/about/library/ci01/sc_profile_jp_2026_ja.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/-/media/Files/hq/about/library/ci01/sc_profile_jp_2026_en.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/-/media/Files/hq/about/library/ci01/sc_profile_jp_2026_cn.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/-/media/Files/hq/about/library/ci01/100years_en.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/-/media/Files/hq/news/release/2026/21790/21790_ja.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/jp/-/media/Images/hq/about/company/sc-history/schistory-img-01.jpg?h=150&iar=0&w=214",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/jp/-/media/Images/hq/about/company/sc-history/history/history-img-01.jpg?h=227&iar=0&w=214",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/jp/-/media/Images/hq/about/company/sc-history/history/history-img-02.jpg?h=180&iar=0&w=214",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/jp/-/media/Images/hq/about/company/sc-history/history/history-img-03.jpg?h=251&iar=0&w=214",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/jp/-/media/Images/hq/about/company/sc-history/history/history-img-04.jpg?h=149&iar=0&w=214",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/jp/-/media/Images/hq/about/company/sc-history/history/history-img-05.jpg?h=174&iar=0&w=214",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/jp/-/media/Images/hq/about/company/sc-history/history/history-img-06.jpg?h=140&iar=0&w=214",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/jp/-/media/Images/hq/about/company/sc-history/history/history-img-07.jpg?h=169&iar=0&w=214",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/jp/-/media/Images/hq/about/company/sc-history/history/history-img-08.jpg?h=81&iar=0&w=214",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sumitomocorp.com/jp/-/media/Images/hq/about/company/sc-history/history/history-img-09.jpg?h=150&iar=0&w=214",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://israel-keizai.org/news/smx/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=3GIG4ttRTds",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://engagesq.com/ja/our-work/case-studies/sc-copilot-jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/?scode=8053",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://minkabu.jp/stock/8053",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kabutan.jp/stock/?code=8053",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "住友商事 代理店 契約",
+   "results": [
+    "https://www.sumitomocorp.com/ja/jp/news/topics/2023/group/20230222",
+    "https://www.sumitomocorp.com/ja/jp/news/topics/2023/group/20230120_2",
+    "https://israel-keizai.org/news/smx/",
+    "https://www.sumitomocorp.com/ja/jp/news/group/2025",
+    "https://www.sumitomocorp.com/ja/jp/news/topics/2023/group/20230407",
+    "https://www.summitpharma.co.jp/japanese/",
+    "https://www.jetro.go.jp/biznews/2022/10/d2a583786d6172b8.html",
+    "https://www.sumitomocorp.com/-/media/Files/hq/ir/report/investors-guide/2000/inv2000_07.pdf",
+    "https://www.japanmetal.com/news-h20230124124313.html",
+    "https://en.wikipedia.org/wiki/Reddit"
+   ]
+  },
+  {
+   "query": "住友商事 導入事例",
+   "results": [
+    "https://www.youtube.com/watch?v=3GIG4ttRTds",
+    "https://www.sumitomocorp.com/ja/jp/enrich/contents/0095",
+    "https://engagesq.com/ja/our-work/case-studies/sc-copilot-jp/",
+    "https://www.sumitomocorp.com/ja/jp/business/",
+    "https://www.microsoft.com/ja-jp/customers/story/1799870297941010991-sumitomo-corporation-azure-ai-studio-professional-services-ja-japan",
+    "https://www.intra-mart.jp/case-study/001761.html",
+    "https://jp.linkedin.com/posts/kazuaki-asada-7489b01a2_microsoft-%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B%E4%BD%8F%E5%8F%8B%E5%95%86%E4%BA%8B%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEmicrosoft-365-copilot-activity-7309432502979346432-CzHE",
+    "https://kintone-sol.cybozu.co.jp/cases/sumitomocorp.html",
+    "https://jp.sansan.com/case/sumitomocorp/",
+    "https://forums.commentcamarche.net/forum/affich-37833327-pas-de-envoyer-un-message-sur-mon-annonce-le-bon-coin"
+   ]
+  },
+  {
+   "query": "住友商事 価格 OR 料金",
+   "results": [
+    "https://www.nikkei.com/nkd/company/?scode=8053",
+    "https://minkabu.jp/stock/8053",
+    "https://kabutan.jp/stock/?code=8053",
+    "https://www.sbisec.co.jp/ETGate/WPLETsiR001Control/WPLETsiR001Ilst10/getDetailOfStockPriceJP?OutSide=on&getFlg=on&stock_sec_code_mul=8053&exchange_code=JPN",
+    "https://www.google.com/finance/quote/8053:TYO?hl=ja&gl=JP",
+    "https://www.buffett-code.com/company/8053/",
+    "https://www.nikkei.com/nkd/company/history/dprice/?scode=8053",
+    "https://www.ksat.com/news/texas/2026/10/31/more-than-74-million-texans-voted-early-in-2026-election-nearly-matching-2018-pace/",
+    "https://www.khou.com/article/news/politics/elections/texas-early-voting-numbers/285-ab5bc4f5-f820-4df8-bc57-d3ed0f008beb",
+    "https://www.wsj.com/livecoverage/midterm-election-news-2026/card/texas-early-voting-breaks-records-Xd23oM2MnHQ0uPWEhE7S"
+   ]
+  },
+  {
+   "query": "住友商事 受託 造形",
+   "results": [
+    "https://www.sumitomocorp.com/ja/jp/news/topics/2023/group/20231002_3",
+    "https://www.sumitomocorp.com/ja/jp/news/release/2020/group/13680",
+    "https://www.sumitomocorp.com/ja/jp/news/release/2020/group/13780",
+    "https://www.sumitomocorp.com/ja/jp/business/",
+    "https://news.sharelab.jp/3dp-news/ir/sumitomocorp-200814/",
+    "https://jsam.or.jp/member/support/",
+    "https://www.lumex-matsuura.com/japan/contracted",
+    "https://www.nikkei.com/article/DGXMZO35307090T10C18A9XQ9000/",
+    "https://www.sumitomocorp.com/ja/jp/news/release/2018/group/10240",
+    "https://www.answers.com/american-government/Who_signed_both_the_Declaration_of_Independence_and_the_US_Constitution"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式30頁／PDF・画像18件／外部6頁・検索4回）",
+  "従業員数": "記載なし（3回確認済み：公式30頁／PDF・画像18件／外部6頁・検索4回）",
+  "売上高": "記載なし（3回確認済み：公式30頁／PDF・画像18件／外部6頁・検索4回）",
+  "事業内容": "記載なし（3回確認済み：公式30頁／PDF・画像18件／外部6頁・検索4回）",
+  "取引先": "記載なし（3回確認済み：公式30頁／PDF・画像18件／外部6頁・検索4回）",
+  "お金の形": "記載なし（3回確認済み：公式30頁／PDF・画像18件／外部6頁・検索4回）"
+ }
+}

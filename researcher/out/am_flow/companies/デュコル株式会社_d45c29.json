@@ -1,0 +1,855 @@
+{
+ "name": "デュコル株式会社",
+ "aliases": [],
+ "context": "",
+ "researched_at": "2026-11-02T12:18:46.512708+00:00",
+ "official_url": "https://ducol.co.jp/",
+ "identified_by": "search:yahoo_jp:デュコル",
+ "profile": {
+  "設立": [
+   {
+    "label": "創立",
+    "value": "2002年2月22日",
+    "url": "https://ducol.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "創業",
+    "value": "2002年2月",
+    "url": "https://www.exhaustsystems-world.com/list/ducol.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "12名",
+    "url": "https://www.ipros.com/company/detail/2001548/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "デュコルはお客様の立場に立って、設備を計画・ご提案致します",
+    "url": "https://ducol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは英知を結集して顧客に技術を提供し、社会に貢献します",
+    "url": "https://ducol.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の立場に立って、最適な設備をご提案することが、私たちの役目です",
+    "url": "https://ducol.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ここで言う私たちは共に働く従業員であることはもちろんのこと、私たちの業務に関わる全ての協力会社やお客様も含んでおります",
+    "url": "https://ducol.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "最適な設備をご提供するには先ずお客様から私共が信頼されなければなりません",
+    "url": "https://ducol.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の仕様に対しては標準化されたバグフィルタの材質・形状・サイズ・取付方法の中から最適な組み合わせのバグフィルタを選定いたします",
+    "url": "https://ducol.co.jp/product_environment/bug_filter/",
+    "pass": 1
+   },
+   {
+    "quote": "デュコルは、お客様の用途に応じて最適なサイクロンを設計します",
+    "url": "https://ducol.co.jp/product_environment/cyclone/",
+    "pass": 1
+   },
+   {
+    "quote": "デュコルはお客様の立場に立って、設備を計画・ご提案致します",
+    "url": "https://ducol.co.jp",
+    "pass": 1
+   },
+   {
+    "quote": "導入事例「クリーンワークステーション(吸引作業台)」第2弾",
+    "url": "https://www.ipros.com/company/detail/2001548/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業特化の用途別課題解決 | イプロスものづくり業界別専門サイト",
+    "url": "https://www.ipros.com/company/detail/2001548/",
+    "pass": 3
+   },
+   {
+    "quote": "BtoB向け | 目的・用途起点で課題解決を支援 | イプロス業界別専門サイト",
+    "url": "https://www.ipros.com/company/detail/2001548/",
+    "pass": 3
+   },
+   {
+    "quote": "ここではデュコルの製品の特徴や対応するエリアと業界、会社の特徴などについて紹介します",
+    "url": "https://www.exhaustsystems-world.com/list/ducol.html",
+    "pass": 3
+   },
+   {
+    "quote": "デュコルの対応業界",
+    "url": "https://www.exhaustsystems-world.com/list/ducol.html",
+    "pass": 3
+   },
+   {
+    "quote": "デュコルには多種多様な業種・導入事例が豊富にあります",
+    "url": "https://www.exhaustsystems-world.com/list/ducol.html",
+    "pass": 3
+   },
+   {
+    "quote": "作業性・集塵効率の向上を考慮し、顧客に適した設備を提案",
+    "url": "https://www.exhaustsystems-world.com/list/ducol.html",
+    "pass": 3
+   },
+   {
+    "quote": "デュコルでは顧客の立場に立って設備の計画・提案を行っています",
+    "url": "https://www.exhaustsystems-world.com/list/ducol.html",
+    "pass": 3
+   },
+   {
+    "quote": "図面で設備の詳細をわかりやすく説明し、顧客に納得してもらったうえで製作に取り掛かっています",
+    "url": "https://www.exhaustsystems-world.com/list/ducol.html",
+    "pass": 3
+   },
+   {
+    "quote": "施工は顧客の都合を伺いながら、安全かつ迅速に工事を実施",
+    "url": "https://www.exhaustsystems-world.com/list/ducol.html",
+    "pass": 3
+   },
+   {
+    "quote": "の3つを併せ持ち、顧客にとって適した設備を提案している会社です",
+    "url": "https://www.exhaustsystems-world.com/list/ducol.html",
+    "pass": 3
+   },
+   {
+    "quote": "本サイトでは、排気装置に設置する現場・業界ごとに対応可能な排気装置メーカーを紹介しています",
+    "url": "https://www.exhaustsystems-world.com/list/ducol.html",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の作業工程を考慮して適したフード・排気システムを提案",
+    "url": "https://www.exhaustsystems-world.com/list/ducol.html",
+    "pass": 3
+   },
+   {
+    "quote": "デュコルの導入事例",
+    "url": "https://www.exhaustsystems-world.com/list/ducol.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業特化の用途別課題解決 | イプロスものづくり業界別専門サイト",
+    "url": "https://mono.ipros.com/product/detail/2000842327/",
+    "pass": 3
+   },
+   {
+    "quote": "BtoB向け | 目的・用途起点で課題解決を支援 | イプロス業界別専門サイト",
+    "url": "https://mono.ipros.com/product/detail/2000842327/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "遠心粉末製造設備",
+    "url": "https://ducol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "球状粉末を創る！",
+    "url": "https://ducol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "遠心粉末製造装置（遠心アトマイズ）",
+    "url": "https://ducol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "遠心粉末製造設備 →",
+    "url": "https://ducol.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "遠心粉末製造設備",
+    "url": "https://ducol.co.jp/case_study/",
+    "pass": 1
+   },
+   {
+    "quote": "遠心粉末製造設備",
+    "url": "https://ducol.co.jp/archivement/",
+    "pass": 1
+   },
+   {
+    "quote": "遠心粉末製造設備",
+    "url": "https://ducol.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "遠心粉末製造装置(試験設備)完成",
+    "url": "https://ducol.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "遠心粉末製造設備",
+    "url": "https://ducol.co.jp/products_environment/",
+    "pass": 1
+   },
+   {
+    "quote": "遠心粉末製造設備",
+    "url": "https://ducol.co.jp/contact/",
+    "pass": 1
+   },
+   {
+    "quote": "料金のお見積もりなど、お気軽にお問い合わせ下さい",
+    "url": "https://ducol.co.jp/contact/",
+    "pass": 1
+   },
+   {
+    "quote": "遠心粉末製造設備",
+    "url": "https://ducol.co.jp/case_study/case_study01/",
+    "pass": 1
+   },
+   {
+    "quote": "遠心粉末製造設備",
+    "url": "https://ducol.co.jp/case_study/case_study02/",
+    "pass": 1
+   },
+   {
+    "quote": "遠心粉末製造設備",
+    "url": "https://ducol.co.jp/case_study/case_study03/",
+    "pass": 1
+   },
+   {
+    "quote": "遠心粉末製造設備",
+    "url": "https://ducol.co.jp/case_study/case_study04/",
+    "pass": 1
+   },
+   {
+    "quote": "遠心粉末製造設備",
+    "url": "https://ducol.co.jp/case_study/case_study05/",
+    "pass": 1
+   },
+   {
+    "quote": "遠心粉末製造設備",
+    "url": "https://ducol.co.jp/case_study/case_study06/",
+    "pass": 1
+   },
+   {
+    "quote": "超硬合金：炭化タングステン（WC)に靱性の高いコバルト粉末(Co)をバインダーとして粉末冶金法で製造",
+    "url": "https://ducol.co.jp/case_study/case_study06/",
+    "pass": 1
+   },
+   {
+    "quote": "遠心粉末製造設備",
+    "url": "https://ducol.co.jp/product_environment/bug_filter/",
+    "pass": 1
+   },
+   {
+    "quote": "遠心粉末製造設備",
+    "url": "https://ducol.co.jp/product_environment/cyclone/",
+    "pass": 1
+   },
+   {
+    "quote": "遠心粉末製造設備",
+    "url": "https://ducol.co.jp/product_environment/multi_cyclone/",
+    "pass": 1
+   },
+   {
+    "quote": "遠心粉末製造設備",
+    "url": "https://ducol.co.jp/product_environment/scrubber/",
+    "pass": 1
+   },
+   {
+    "quote": "遠心粉末製造設備",
+    "url": "https://ducol.co.jp/product_environment/mist_collector/",
+    "pass": 1
+   },
+   {
+    "quote": "遠心粉末製造設備",
+    "url": "https://ducol.co.jp/product_environment/deodorization/",
+    "pass": 1
+   },
+   {
+    "quote": "遠心粉末製造設備",
+    "url": "https://ducol.co.jp",
+    "pass": 1
+   },
+   {
+    "quote": "球状粉末を創る！",
+    "url": "https://ducol.co.jp",
+    "pass": 1
+   },
+   {
+    "quote": "遠心粉末製造装置（遠心アトマイズ）",
+    "url": "https://ducol.co.jp",
+    "pass": 1
+   },
+   {
+    "quote": "遠心粉末製造設備 →",
+    "url": "https://ducol.co.jp",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ用の金属粉末を効率よく製造「遠心粉末製造装置」",
+    "url": "https://www.ipros.com/company/detail/2001548/",
+    "pass": 3
+   },
+   {
+    "quote": "製品率が高いのでコストが低い！遠心粉末製造装置【合金実績も多数】 デュコル | イプロスものづくり",
+    "url": "https://mono.ipros.com/product/detail/2000842327/",
+    "pass": 3
+   },
+   {
+    "quote": "工具・消耗品・備品",
+    "url": "https://mono.ipros.com/product/detail/2000842327/",
+    "pass": 3
+   },
+   {
+    "quote": "実験器具・消耗品",
+    "url": "https://mono.ipros.com/product/detail/2000842327/",
+    "pass": 3
+   },
+   {
+    "quote": "製品率が高いのでコストが低い！遠心粉末製造装置【合金実績も多数】",
+    "url": "https://mono.ipros.com/product/detail/2000842327/",
+    "pass": 3
+   },
+   {
+    "quote": "本装置は真球度が高く、流動性に優れ、酸化皮膜のコントロール、空洞のない緻密な粉末を製造することが可能です！",
+    "url": "https://mono.ipros.com/product/detail/2000842327/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は『遠心粉末製造装置（遠心アトマイズ）』の生産設備や試験設備を",
+    "url": "https://mono.ipros.com/product/detail/2000842327/",
+    "pass": 3
+   },
+   {
+    "quote": "本装置で製粉される粉末は真球度が高く、流動性に優れ、酸化皮膜の",
+    "url": "https://mono.ipros.com/product/detail/2000842327/",
+    "pass": 3
+   },
+   {
+    "quote": "コントロール、空洞のない緻密な粉末を製造することが可能",
+    "url": "https://mono.ipros.com/product/detail/2000842327/",
+    "pass": 3
+   },
+   {
+    "quote": "■製粉される粉末は真球度が高く、流動性に優れている",
+    "url": "https://mono.ipros.com/product/detail/2000842327/",
+    "pass": 3
+   },
+   {
+    "quote": "■酸化皮膜のコントロール、空洞のない緻密な粉末を製造",
+    "url": "https://mono.ipros.com/product/detail/2000842327/",
+    "pass": 3
+   },
+   {
+    "quote": "高速回転により液滴状に飛散させて粉末を製造する",
+    "url": "https://mono.ipros.com/product/detail/2000842327/",
+    "pass": 3
+   },
+   {
+    "quote": "遠心粉末製造装置 カタログ",
+    "url": "https://mono.ipros.com/product/detail/2000842327/",
+    "pass": 3
+   },
+   {
+    "quote": "遠心粉末製造装置の技術小冊子",
+    "url": "https://mono.ipros.com/product/detail/2000842327/",
+    "pass": 3
+   },
+   {
+    "quote": "球状粉末の製造受託受付中！",
+    "url": "https://mono.ipros.com/product/detail/2000842327/",
+    "pass": 3
+   },
+   {
+    "quote": "【サンプル＆技術資料プレゼント】『金属粉末製造装置』",
+    "url": "https://mono.ipros.com/product/detail/2000842327/",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末の材料ロスを自社製造で解決！『遠心粉末製造装置』",
+    "url": "https://mono.ipros.com/product/detail/2000842327/",
+    "pass": 3
+   },
+   {
+    "quote": "金属の『遠心粉末製造装置』はんだ粉製造の実績多数※技術冊子進呈中",
+    "url": "https://mono.ipros.com/product/detail/2000842327/",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末の材料ロスを減らしたい方必見！球状粉末製造で解決します！",
+    "url": "https://mono.ipros.com/product/detail/2000842327/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンタ用の金属粉末を効率よく製造「遠心粉末製造装置」",
+    "url": "https://mono.ipros.com/product/detail/2000842327/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末製造装置『NEV-GPシリーズ』",
+    "url": "https://mono.ipros.com/product/detail/2000842327/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末成形機の関連カテゴリ",
+    "url": "https://mono.ipros.com/product/detail/2000842327/",
+    "pass": 3
+   },
+   {
+    "quote": "#粉末製造装置",
+    "url": "https://mono.ipros.com/product/detail/2000842327/",
+    "pass": 3
+   }
+  ],
+  "何をする": [
+   {
+    "quote": "集塵装置／脱臭装置／局所排気装置／空気力輸送装置／集中掃除装置／有害ガス処理装置／排ガス処理装置／熱交換器／ガス冷却塔廃棄物・リサイクル処理装置／排風機・消音装置／環境測定、分析業務／環境監視装置及びソフトウエアの販売／その他公害防止・環境関連機器 ◎上記に関する設置工事、管工事、電気工事、土木・解体工事、保守管理環境保全に関するエンジニアリング、コンサルティング",
+    "url": "https://ducol.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "既設集じん設備の性能を把握（必要に応じて調査）した上で、適切なフード、ダクト設計を行い活用する",
+    "url": "https://ducol.co.jp/case_study/case_study01/",
+    "pass": 1
+   },
+   {
+    "quote": "フィルタのみの販売、交換工事も承ります",
+    "url": "https://ducol.co.jp/case_study/case_study02/",
+    "pass": 1
+   },
+   {
+    "quote": "デュコルは、お客様の用途に応じて最適なサイクロンを設計します",
+    "url": "https://ducol.co.jp/product_environment/cyclone/",
+    "pass": 1
+   },
+   {
+    "quote": "その他、ベンチュリースクラバ、サイクロンスクラバ等も取り扱いしておりますのでご相談下さい",
+    "url": "https://ducol.co.jp/product_environment/scrubber/",
+    "pass": 1
+   },
+   {
+    "quote": "建設コンサルタント",
+    "url": "https://www.ipros.com/company/detail/2001548/",
+    "pass": 3
+   },
+   {
+    "quote": "設備設計事務所",
+    "url": "https://www.ipros.com/company/detail/2001548/",
+    "pass": 3
+   },
+   {
+    "quote": "建築設計事務所",
+    "url": "https://www.ipros.com/company/detail/2001548/",
+    "pass": 3
+   },
+   {
+    "quote": "教育・研究機関",
+    "url": "https://www.ipros.com/company/detail/2001548/",
+    "pass": 3
+   },
+   {
+    "quote": "構造設計事務所",
+    "url": "https://www.ipros.com/company/detail/2001548/",
+    "pass": 3
+   },
+   {
+    "quote": "○環境監視装置及びソフトウエアの販売／その他公害防止・環境関連機器",
+    "url": "https://www.ipros.com/company/detail/2001548/",
+    "pass": 3
+   },
+   {
+    "quote": "◎上記に関する設置工事、管工事、電気工事、土木・解体工事、保守管理環境保全に関するエンジニアリング、コンサルティング",
+    "url": "https://www.ipros.com/company/detail/2001548/",
+    "pass": 3
+   },
+   {
+    "quote": "局所排気装置「オリジナルフード設計」",
+    "url": "https://www.ipros.com/company/detail/2001548/",
+    "pass": 3
+   },
+   {
+    "quote": "排気装置はレンタル可能？",
+    "url": "https://www.exhaustsystems-world.com/list/ducol.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、他ラインの設備も性能確認の上で再設計して有効活用しています",
+    "url": "https://www.exhaustsystems-world.com/list/ducol.html",
+    "pass": 3
+   },
+   {
+    "quote": "既設の集じん機でフィルタ目詰まり・破損による風量低下や粉塵漏れに対し、（一部対応不可あり）メーカーを問わずフィルタ単体の販売および交換工事に対応します",
+    "url": "https://www.exhaustsystems-world.com/list/ducol.html",
+    "pass": 3
+   },
+   {
+    "quote": "設計・生産支援",
+    "url": "https://mono.ipros.com/product/detail/2000842327/",
+    "pass": 3
+   },
+   {
+    "quote": "セミナー・スキルアップ",
+    "url": "https://mono.ipros.com/product/detail/2000842327/",
+    "pass": 3
+   },
+   {
+    "quote": "製造・加工受託",
+    "url": "https://mono.ipros.com/product/detail/2000842327/",
+    "pass": 3
+   },
+   {
+    "quote": "教育・研究機関",
+    "url": "https://mono.ipros.com/product/detail/2000842327/",
+    "pass": 3
+   },
+   {
+    "quote": "製造・販売するメーカーです",
+    "url": "https://mono.ipros.com/product/detail/2000842327/",
+    "pass": 3
+   },
+   {
+    "quote": "球状粉末の製造受託受付中！",
+    "url": "https://mono.ipros.com/product/detail/2000842327/",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "資本金700万円",
+    "url": "https://ducol.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "資本金1000万円に増資",
+    "url": "https://ducol.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "資本金2000万円に増資",
+    "url": "https://ducol.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "資本金2600万円に増資",
+    "url": "https://ducol.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "26,000千円",
+    "url": "https://ducol.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "円筒形（Φ156）",
+    "url": "https://ducol.co.jp/product_environment/bug_filter/",
+    "pass": 1
+   },
+   {
+    "quote": "円筒形（Φ117）",
+    "url": "https://ducol.co.jp/product_environment/bug_filter/",
+    "pass": 1
+   },
+   {
+    "quote": "ダストを含んだ空気を円筒内で旋回させその遠心力によりダストを外壁側へ運びサイクロン外壁に沿って落下させます",
+    "url": "https://ducol.co.jp/product_environment/cyclone/",
+    "pass": 1
+   },
+   {
+    "quote": "日本スピンドル製造",
+    "url": "https://www.exhaustsystems-world.com/list/ducol.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "トップページ - 株式会社 デュコル — トップページ - 株式会社 デュコル 株式会社デュコル https://ducol.co.jp",
+    "url": "https://ducol.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "デュコル が選ばれる理由 — デュコル が選ばれる理由 株式会社デュコル https://ducol.co.jp > why_ducol",
+    "url": "https://ducol.co.jp/why_ducol/",
+    "pass": 3
+   },
+   {
+    "quote": "デュコル | 企業情報 - イプロス — デュコル | 企業情報 - イプロス 製造業向け情報検索サイト イプロスものづくり https://www.ipros.com > 設備設計事務所",
+    "url": "https://www.ipros.com/company/detail/2001548/",
+    "pass": 3
+   },
+   {
+    "quote": "デュコル の特徴と排気装置を調査 — デュコル の特徴と排気装置を調査 exhaustsystems-world.com https://www.exhaustsystems-world.com > list > ducol",
+    "url": "https://www.exhaustsystems-world.com/list/ducol.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 デュコル - 東京都中小企業振興公社 — 株式会社 デュコル - 東京都中小企業振興公社 東京都中小企業振興公社 PDF https://www.tokyo-kosha.or.jp > topics > tokyo_kirari",
+    "url": "https://www.tokyo-kosha.or.jp/topics/tokyo_kirari/2016/2016_P77.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 デュコル の企業情報 | バフェット・コード — 株式会社 デュコル の企業情報 | バフェット・コード バフェット・コード https://www.buffett-code.com > company",
+    "url": "https://www.buffett-code.com/company/d1vv4nqci2/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 株式会社 デュコル — お問い合わせ - 株式会社 デュコル 株式会社デュコル https://ducol.co.jp > contact",
+    "url": "https://ducol.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "デュコル 、ボールネジ式の粉塵自動圧縮機を製品化 — デュコル 、ボールネジ式の粉塵自動圧縮機を製品化 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/94531",
+    "pass": 3
+   }
+  ],
+  "誰から": [
+   {
+    "quote": "金属粉末の材料ロスを自社製造で解決！『遠心粉末製造装置』",
+    "url": "https://mono.ipros.com/product/detail/2000842327/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://ducol.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ducol.co.jp/case_study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ducol.co.jp/archivement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ducol.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ducol.co.jp/products_environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ducol.co.jp/products_environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ducol.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ducol.co.jp/case_study/case_study01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ducol.co.jp/case_study/case_study02/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ducol.co.jp/case_study/case_study03/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ducol.co.jp/case_study/case_study04/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ducol.co.jp/case_study/case_study05/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ducol.co.jp/case_study/case_study06/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ducol.co.jp/product_environment/bug_filter/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ducol.co.jp/product_environment/cyclone/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ducol.co.jp/product_environment/multi_cyclone/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ducol.co.jp/product_environment/scrubber/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ducol.co.jp/product_environment/mist_collector/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ducol.co.jp/product_environment/deodorization/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ducol.co.jp/case_study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ducol.co.jp",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://fds.co.jp/partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipros.com/company/detail/2001548/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exhaustsystems-world.com/list/ducol.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/product/detail/2000842327/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.buffett-code.com/company/d1vv4nqci2/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ipros.com/company/detail/2001548/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "デュコル",
+   "results": [
+    "https://ducol.co.jp/",
+    "https://x.com/ducol18",
+    "https://www.tigerchiyoda.co.jp/news/3481/",
+    "https://www.ipros.com/company/detail/2001548/",
+    "https://metoree.com/companies/22145/",
+    "https://lit.link/ducol",
+    "https://ja.wikipedia.org/wiki/デュエル・マスターズ_(アニメ)",
+    "https://ducol.co.jp/company/",
+    "https://www.atengineer.com/pr/ducol/company",
+    "https://mono.ipros.com/company/detail/2001548/catalog/"
+   ]
+  },
+  {
+   "query": "デュコル 代理店 契約",
+   "results": [
+    "https://ducol.co.jp/",
+    "https://fds.co.jp/partner/",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://dairiten-cloud.jp/",
+    "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97%E7%89%B9%E7%B4%84%E5%BA%97%E3%83%95%E3%83%A9%E3%83%B3%E3%83%81%E3%83%A3%E3%82%A4%E3%82%BA%E5%A5%91%E7%B4%84/%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97%E5%A5%91%E7%B4%84/",
+    "https://keiyaku-media.pm-lawyer.com/report/report-258/",
+    "https://www.higuchi-law.jp/columns/columns21/",
+    "https://www.cloudsign.jp/case/sc-11/",
+    "https://www.digima-japan.com/knowhow/world/19787.php",
+    "https://ducol.co.jp/company/"
+   ]
+  },
+  {
+   "query": "デュコル 導入事例",
+   "results": [
+    "https://ducol.co.jp/why_ducol/",
+    "https://www.ipros.com/company/detail/2001548/",
+    "https://www.exhaustsystems-world.com/list/ducol.html",
+    "https://ducol.co.jp/",
+    "https://www.tokyo-kosha.or.jp/topics/tokyo_kirari/2016/2016_P77.pdf",
+    "https://www.halcyon.ai/jp/resources/case-studies",
+    "https://www.daido-net.co.jp/casestudy/cs016_nissei_210120",
+    "https://manufacture.it-trend.jp/digital-twin/article/digital-twin-jirei/",
+    "https://duplonet.jp/case/",
+    "https://ducol.co.jp/case_study/"
+   ]
+  },
+  {
+   "query": "デュコル 価格 OR 料金",
+   "results": [
+    "https://ducol.co.jp/why_ducol/",
+    "https://mono.ipros.com/product/detail/2000842327/",
+    "https://www.buffett-code.com/company/d1vv4nqci2/",
+    "https://ducol.co.jp/contact/",
+    "https://www.nikkan.co.jp/articles/view/94531",
+    "https://www.fdcp.co.jp/Form/User/UserRegistRegulation.aspx?nurl=%2FForm%2FProduct%2FProductDetail.aspx%3Fshop%3D0%26pid%3D1423361530160000%26bid%3Deaudouce4c&srsltid=AYCX9vL8gC-M4R3Nnf0R-2ON9l4sP4wi3wzKw-lAywSkiTY5LAkU_J5P",
+    "https://www.aist.go.jp/aist_j/procure/supplyinfo/pub/detail/10NOJ7VO",
+    "https://www.copyki-gmen.com/fukugoki/archives/26359",
+    "https://daiichieigeki.com/1082/",
+    "https://www.ipros.com/product/detail/2000964702/"
+   ]
+  },
+  {
+   "query": "デュコル 受託 造形",
+   "results": [
+    "https://ducol.co.jp/",
+    "https://www.ipros.com/company/detail/2001548/",
+    "https://online.solize.com/blog/metal-outsourcing",
+    "https://www.lumex-matsuura.com/japan/contracted",
+    "https://www.tokyo-kosha.or.jp/topics/tokyo_kirari/2016/2016_P77.pdf",
+    "https://makabe-g.co.jp/products/3d-printing/",
+    "https://www.koeitool.com/business/3d-modeling.html",
+    "https://www.mitsubishielectric.co.jp/dl/fa/document/catalog/am/az600_molding/AZ600_molding.pdf",
+    "https://doho.co.jp/3d-print-business/service-print/",
+    "https://ducol.co.jp/company/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式21頁／PDF・画像0件／外部8頁・検索5回）",
+  "事業内容": "記載なし（3回確認済み：公式21頁／PDF・画像0件／外部8頁・検索5回）",
+  "取引先": "記載なし（3回確認済み：公式21頁／PDF・画像0件／外部8頁・検索5回）"
+ }
+}

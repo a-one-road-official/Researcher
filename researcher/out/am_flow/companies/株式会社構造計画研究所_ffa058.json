@@ -1,0 +1,1453 @@
+{
+ "name": "株式会社構造計画研究所",
+ "aliases": [],
+ "context": "/ SimScale（独）",
+ "researched_at": "2026-11-02T12:16:29.403743+00:00",
+ "official_url": "https://www.kke.co.jp/",
+ "identified_by": "search:yahoo_jp:構造計画研究所",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業年",
+    "value": "1956年",
+    "url": "https://www.kke.co.jp/aboutus/profile/",
+    "pass": 1
+   },
+   {
+    "label": "設立年月日",
+    "value": "1959年5月6日",
+    "url": "https://www.kke.co.jp/aboutus/profile/",
+    "pass": 1
+   },
+   {
+    "label": "設立年月日",
+    "value": "1959年5月6日",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?nik_code=0023320",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "645名 （※2026年8月1日時点）",
+    "url": "https://www.kke.co.jp/aboutus/profile/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "665 人（2024/6現在）",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?nik_code=0023320",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何をする": [
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.kke.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "セミナー・イベント",
+    "url": "https://www.kke.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "高精細3Dレーザースキャナのハイエンドモデル 「NavVis VLX 4」の販売を開始",
+    "url": "https://www.kke.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ハンディ型3Dレーザースキャナのエントリーモデル 「NavVis CLX」の販売を開始",
+    "url": "https://www.kke.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "日本建築学会教育賞（教育貢献）を受賞",
+    "url": "https://www.kke.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.kke.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "セミナー・イベント",
+    "url": "https://www.kke.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "技術コンサルティングファームです",
+    "url": "https://www.kke.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.kke.co.jp/aboutus/greetings/",
+    "pass": 1
+   },
+   {
+    "quote": "セミナー・イベント",
+    "url": "https://www.kke.co.jp/aboutus/greetings/",
+    "pass": 1
+   },
+   {
+    "quote": "創業時は個人の構造設計事務所にすぎなかった私たちが、建築全般や自然環境のみならず情報通信や製造業といった分野、さらには人や社会を対象とした意思決定支援などに事業の対象を広げてこられたのには３つの理由があります",
+    "url": "https://www.kke.co.jp/aboutus/greetings/",
+    "pass": 1
+   },
+   {
+    "quote": "一つは、創業間もなくコンピュータの無限の可能性に取り憑かれ、「地震国日本の構造設計を一変させてみせる」との気概のもと、コンピュータの導入に踏み切ったことです",
+    "url": "https://www.kke.co.jp/aboutus/greetings/",
+    "pass": 1
+   },
+   {
+    "quote": "一例を挙げますと、創業間もないころ、当社は電話局のマイクロ鉄塔の構造設計業務を受託しておりました",
+    "url": "https://www.kke.co.jp/aboutus/greetings/",
+    "pass": 1
+   },
+   {
+    "quote": "その後、携帯電話の実運用の検討が始まったころに、お客様から「コンピュータを活用して鉄塔の力学的なシミュレーションを行うのと同様に、基地局の鉄塔から出る電波がどのように伝搬するのかシミュレーションできないか」といったご相談を受けたのが、当社が電波伝搬解析コンサルティング事業を手掛けるきっかけでした",
+    "url": "https://www.kke.co.jp/aboutus/greetings/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.kke.co.jp/aboutus/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "セミナー・イベント",
+    "url": "https://www.kke.co.jp/aboutus/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "風力発電設計部長",
+    "url": "https://www.kke.co.jp/aboutus/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.kke.co.jp/aboutus/access/",
+    "pass": 1
+   },
+   {
+    "quote": "セミナー・イベント",
+    "url": "https://www.kke.co.jp/aboutus/access/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.kke.co.jp/aboutus/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "セミナー・イベント",
+    "url": "https://www.kke.co.jp/aboutus/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.kke.co.jp/aboutus/publication/",
+    "pass": 1
+   },
+   {
+    "quote": "セミナー・イベント",
+    "url": "https://www.kke.co.jp/aboutus/publication/",
+    "pass": 1
+   },
+   {
+    "quote": "免震構造設計指針（改定）第4版",
+    "url": "https://www.kke.co.jp/aboutus/publication/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.kke.co.jp/aboutus/thesis/",
+    "pass": 1
+   },
+   {
+    "quote": "セミナー・イベント",
+    "url": "https://www.kke.co.jp/aboutus/thesis/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.kke.co.jp/aboutus/society/",
+    "pass": 1
+   },
+   {
+    "quote": "セミナー・イベント",
+    "url": "https://www.kke.co.jp/aboutus/society/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.kke.co.jp/solution/support_manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "セミナー・イベント",
+    "url": "https://www.kke.co.jp/solution/support_manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "今、企画から設計、製造、品質管理、物流、営業といったモノづくりに関わる全てのプロセスが、デジタルを基盤に再構築されつつあります",
+    "url": "https://www.kke.co.jp/solution/support_manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "●サイバー空間で試作をする",
+    "url": "https://www.kke.co.jp/solution/support_manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "デジタル画像相関法（DIC）を活用したサービスにより、設計期間の短縮や設計・製造品質の向上を支援します",
+    "url": "https://www.kke.co.jp/solution/support_manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "開発のスピードアップと、設計プロセスの改善を支援するプラットフォームです",
+    "url": "https://www.kke.co.jp/solution/support_manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.kke.co.jp/solution/casestudy/",
+    "pass": 1
+   },
+   {
+    "quote": "セミナー・イベント",
+    "url": "https://www.kke.co.jp/solution/casestudy/",
+    "pass": 1
+   },
+   {
+    "quote": "制震補強設計導入事例",
+    "url": "https://www.kke.co.jp/solution/casestudy/",
+    "pass": 1
+   },
+   {
+    "quote": "地震対策コンサルティング 導入事例",
+    "url": "https://www.kke.co.jp/solution/casestudy/",
+    "pass": 1
+   },
+   {
+    "quote": "粉体シミュレーションを用いたコンサルティング導入事例",
+    "url": "https://www.kke.co.jp/solution/casestudy/",
+    "pass": 1
+   },
+   {
+    "quote": "構造最適設計ソフトウェア「HiramekiWorks」導入事例",
+    "url": "https://www.kke.co.jp/solution/casestudy/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.kke.co.jp/solution/casestudy/15937",
+    "pass": 1
+   },
+   {
+    "quote": "セミナー・イベント",
+    "url": "https://www.kke.co.jp/solution/casestudy/15937",
+    "pass": 1
+   },
+   {
+    "quote": "私はもともと設計部門や製造部門にいて、長く構成管理に関わってきました",
+    "url": "https://www.kke.co.jp/solution/casestudy/15937",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、マスタ管理の複雑化を抑制し、保守性およびメンテナンス効率の向上が期待できます",
+    "url": "https://www.kke.co.jp/solution/casestudy/15937",
+    "pass": 1
+   },
+   {
+    "quote": "(1) 製品の設計や開発にまつわる情報を一元管理する仕組み",
+    "url": "https://www.kke.co.jp/solution/casestudy/15937",
+    "pass": 1
+   },
+   {
+    "quote": "(3) 建物の3次元モデルに様々な属性情報を含めて、設計から施工・維持管理まで一元管理・活用する仕組み",
+    "url": "https://www.kke.co.jp/solution/casestudy/15937",
+    "pass": 1
+   },
+   {
+    "quote": "制震補強設計導入事例",
+    "url": "https://www.kke.co.jp/solution/casestudy/15937",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.kke.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "セミナー・イベント",
+    "url": "https://www.kke.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "最新ニュースリリース",
+    "url": "https://www.kke.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "高精細3Dレーザースキャナのハイエンドモデル 「NavVis VLX 4」の販売…",
+    "url": "https://www.kke.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ハンディ型3Dレーザースキャナのエントリーモデル 「NavVis CLX」の販売…",
+    "url": "https://www.kke.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース | 構造計画研究所",
+    "url": "https://www.kke.co.jp/release/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.kke.co.jp/release/",
+    "pass": 1
+   },
+   {
+    "quote": "セミナー・イベント",
+    "url": "https://www.kke.co.jp/release/",
+    "pass": 1
+   },
+   {
+    "quote": "高精細3Dレーザースキャナのハイエンドモデル 「NavVis VLX 4」の販売を開始",
+    "url": "https://www.kke.co.jp/release/",
+    "pass": 1
+   },
+   {
+    "quote": "ハンディ型3Dレーザースキャナのエントリーモデル 「NavVis CLX」の販売を開始",
+    "url": "https://www.kke.co.jp/release/",
+    "pass": 1
+   },
+   {
+    "quote": "日本建築学会教育賞（教育貢献）を受賞",
+    "url": "https://www.kke.co.jp/release/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース",
+    "url": "https://www.kke.co.jp/topics/",
+    "pass": 1
+   },
+   {
+    "quote": "セミナー・イベント",
+    "url": "https://www.kke.co.jp/topics/",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "製造業向けCPQ「OrderCPQ」導入事例",
+    "url": "https://www.kke.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業向けCPQ「OrderCPQ」導入事例",
+    "url": "https://www.kke.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "「大学、研究機関と実業界をブリッジする",
+    "url": "https://www.kke.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業向けCPQ「OrderCPQ」導入事例",
+    "url": "https://www.kke.co.jp/aboutus/greetings/",
+    "pass": 1
+   },
+   {
+    "quote": "そして最後に、同様の思いを抱き、当社にその機会やアドバイスをくださるお客様や大学・研究機関の皆様に支え続けていただいたことにあります",
+    "url": "https://www.kke.co.jp/aboutus/greetings/",
+    "pass": 1
+   },
+   {
+    "quote": "その後、携帯電話の実運用の検討が始まったころに、お客様から「コンピュータを活用して鉄塔の力学的なシミュレーションを行うのと同様に、基地局の鉄塔から出る電波がどのように伝搬するのかシミュレーションできないか」といったご相談を受けたのが、当社が電波伝搬解析コンサルティング事業を手掛けるきっかけでした",
+    "url": "https://www.kke.co.jp/aboutus/greetings/",
+    "pass": 1
+   },
+   {
+    "quote": "そしてお客様や大学・研究機関の皆様、パートナー企業の皆様と共に夢を追い続けた結果が、多くの事業展開につながりました",
+    "url": "https://www.kke.co.jp/aboutus/greetings/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke.co.jp/aboutus/greetings/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業向けCPQ「OrderCPQ」導入事例",
+    "url": "https://www.kke.co.jp/aboutus/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke.co.jp/aboutus/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業向けCPQ「OrderCPQ」導入事例",
+    "url": "https://www.kke.co.jp/aboutus/access/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke.co.jp/aboutus/access/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業向けCPQ「OrderCPQ」導入事例",
+    "url": "https://www.kke.co.jp/aboutus/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke.co.jp/aboutus/organization/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業向けCPQ「OrderCPQ」導入事例",
+    "url": "https://www.kke.co.jp/aboutus/publication/",
+    "pass": 1
+   },
+   {
+    "quote": "生産プロセスにおける IoT、ローカル5Gの活用 ～センシング技術と導入事例～",
+    "url": "https://www.kke.co.jp/aboutus/publication/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke.co.jp/aboutus/publication/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業向けCPQ「OrderCPQ」導入事例",
+    "url": "https://www.kke.co.jp/aboutus/thesis/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke.co.jp/aboutus/thesis/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業向けCPQ「OrderCPQ」導入事例",
+    "url": "https://www.kke.co.jp/aboutus/society/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke.co.jp/aboutus/society/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業向けCPQ「OrderCPQ」導入事例",
+    "url": "https://www.kke.co.jp/solution/support_manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業界向けにソリューションを提供しているSBD部門のサイトです",
+    "url": "https://www.kke.co.jp/solution/support_manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "粒子法流体解析ソフト「Particleworks」導入事例",
+    "url": "https://www.kke.co.jp/solution/support_manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "粒子法流体解析ソフトウェア「Particleworks」導入事例",
+    "url": "https://www.kke.co.jp/solution/support_manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke.co.jp/solution/support_manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業向けCPQ「OrderCPQ」導入事例",
+    "url": "https://www.kke.co.jp/solution/casestudy/",
+    "pass": 1
+   },
+   {
+    "quote": "粒子法流体解析ソフト「Particleworks」導入事例",
+    "url": "https://www.kke.co.jp/solution/casestudy/",
+    "pass": 1
+   },
+   {
+    "quote": "制震補強設計導入事例",
+    "url": "https://www.kke.co.jp/solution/casestudy/",
+    "pass": 1
+   },
+   {
+    "quote": "粒子法流体解析ソフトウェア「Particleworks」導入事例",
+    "url": "https://www.kke.co.jp/solution/casestudy/",
+    "pass": 1
+   },
+   {
+    "quote": "構造解析デジタルノート「MystructureNote」導入事例",
+    "url": "https://www.kke.co.jp/solution/casestudy/",
+    "pass": 1
+   },
+   {
+    "quote": "3次元CAD統合型熱流体解析ソフトウェア「Simcenter FLOEFD」導入事例",
+    "url": "https://www.kke.co.jp/solution/casestudy/",
+    "pass": 1
+   },
+   {
+    "quote": "構造解析デジタルノート「MystructureNote」 導入事例",
+    "url": "https://www.kke.co.jp/solution/casestudy/",
+    "pass": 1
+   },
+   {
+    "quote": "粉体シミュレーションソフトウェア「iGRAF」導入事例",
+    "url": "https://www.kke.co.jp/solution/casestudy/",
+    "pass": 1
+   },
+   {
+    "quote": "見積業務支援システム「Order CPQ」導入事例",
+    "url": "https://www.kke.co.jp/solution/casestudy/",
+    "pass": 1
+   },
+   {
+    "quote": "建物検査業務の効率化アプリ「SMIC（SMILE Inspection Cloud）」導入事例",
+    "url": "https://www.kke.co.jp/solution/casestudy/",
+    "pass": 1
+   },
+   {
+    "quote": "地震対策コンサルティング 導入事例",
+    "url": "https://www.kke.co.jp/solution/casestudy/",
+    "pass": 1
+   },
+   {
+    "quote": "構造解析を活用した二輪車用輸送ラックのコストダウンの提案導入事例",
+    "url": "https://www.kke.co.jp/solution/casestudy/",
+    "pass": 1
+   },
+   {
+    "quote": "粉体シミュレーションを用いたコンサルティング導入事例",
+    "url": "https://www.kke.co.jp/solution/casestudy/",
+    "pass": 1
+   },
+   {
+    "quote": "デジタルツインを実現する 大規模施設３次元デジタル化ソリューション「NavVis」導入事例",
+    "url": "https://www.kke.co.jp/solution/casestudy/",
+    "pass": 1
+   },
+   {
+    "quote": "屋内3D マッピング＆ナビゲーション プラットフォーム 「NavVis」導入事例",
+    "url": "https://www.kke.co.jp/solution/casestudy/",
+    "pass": 1
+   },
+   {
+    "quote": "構造最適設計ソフトウェア「HiramekiWorks」導入事例",
+    "url": "https://www.kke.co.jp/solution/casestudy/",
+    "pass": 1
+   },
+   {
+    "quote": "統計解析ソフト「Minitab」導入事例",
+    "url": "https://www.kke.co.jp/solution/casestudy/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke.co.jp/solution/casestudy/",
+    "pass": 1
+   },
+   {
+    "quote": "導入事例 TOTO株式会社｜構造計画研究所",
+    "url": "https://www.kke.co.jp/solution/casestudy/15937",
+    "pass": 1
+   },
+   {
+    "quote": "製造業向けCPQ「OrderCPQ」導入事例",
+    "url": "https://www.kke.co.jp/solution/casestudy/15937",
+    "pass": 1
+   },
+   {
+    "quote": "KKEは、建築設備業界の感覚が通じやすいと感じています",
+    "url": "https://www.kke.co.jp/solution/casestudy/15937",
+    "pass": 1
+   },
+   {
+    "quote": "その他の導入事例",
+    "url": "https://www.kke.co.jp/solution/casestudy/15937",
+    "pass": 1
+   },
+   {
+    "quote": "粒子法流体解析ソフト「Particleworks」導入事例",
+    "url": "https://www.kke.co.jp/solution/casestudy/15937",
+    "pass": 1
+   },
+   {
+    "quote": "制震補強設計導入事例",
+    "url": "https://www.kke.co.jp/solution/casestudy/15937",
+    "pass": 1
+   },
+   {
+    "quote": "粒子法流体解析ソフトウェア「Particleworks」導入事例",
+    "url": "https://www.kke.co.jp/solution/casestudy/15937",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke.co.jp/solution/casestudy/15937",
+    "pass": 1
+   },
+   {
+    "quote": "製造業向けCPQ「OrderCPQ」導入事例",
+    "url": "https://www.kke.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "導入事例（株式会社大林組 様）を掲載しました",
+    "url": "https://www.kke.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "導入事例（トヨタ紡織株式会社 様）を掲載しました",
+    "url": "https://www.kke.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "導入事例（日野自動車株式会社 様）を掲載しました",
+    "url": "https://www.kke.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様の利便性向上およびサービス品質の維持・向上を目的として、",
+    "url": "https://www.kke.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業向けCPQ「OrderCPQ」導入事例",
+    "url": "https://www.kke.co.jp/release/",
+    "pass": 1
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "1,010百万円",
+    "url": "https://www.kke.co.jp/aboutus/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "日本でSendGridを日本語サポート・日本円決済つきで使う場合、日本語での契約・サポート窓口としてはKKEが中心的な選択肢となります",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "米国発のサービスをそのまま使う場合、ドキュメントもサポートも英語、決済もドル建て——というハードルが立ちはだかります",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "構造計画研究所は、このハードルを取り除く役割を担っています",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "日本円決済・請求書払い",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": ": ドル建てではなく日本円で支払え、請求書払いにも対応（請求書払いはProプラン）",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "日本円・請求書払い",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "クレジットカード（ドル建て）",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用は0円で、プランは契約中いつでも変更できます",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "3,000円",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "0.200円",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "5,400円",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "0.132円",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "14,000円",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "0.165円",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "37,500円",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "0.137円",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "75,000円",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "0.117円",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "125,000円",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "0.089円",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "165,000円",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "0.071円",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "同じ10万通でもEssentials 100K（5,400円）とPro 100K（14,000円）で価格が倍以上違うのは、使える機能に差があるためです",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、Essentials 50K（月5万通・3,000円）を契約して、ある月に10万通を送信したとします",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "超過分は5万通、超過料金は1通0.200円なので、単純計算で次のようになります",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "1,010 百万円（2024/6現在）",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?nik_code=0023320",
+    "pass": 3
+   },
+   {
+    "quote": "2023年6月期 （百万円） ［］内は人数",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?nik_code=0023320",
+    "pass": 3
+   },
+   {
+    "quote": "2023年6月期 （百万円）",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?nik_code=0023320",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェア導入時は、設計者にとって知識的・技術的にハードルが高いと感じるものです",
+    "url": "https://www.sbd.jp/guide/reason/",
+    "pass": 3
+   },
+   {
+    "quote": "安全かつ円滑な工事進行を支援します",
+    "url": "https://kaiseki-kke.jp/consulting/architecture/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "個別受注生産型製造業の複雑な見積もりを支援するCPQ（製品コンフィグレータ）です",
+    "url": "https://www.kke.co.jp/solution/support_manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "見積業務支援システム「Order CPQ」導入事例",
+    "url": "https://www.kke.co.jp/solution/casestudy/",
+    "pass": 1
+   },
+   {
+    "quote": "一般的には、CPQ というと「見積もりツール」というイメージが強いと思います",
+    "url": "https://www.kke.co.jp/solution/casestudy/15937",
+    "pass": 1
+   },
+   {
+    "quote": "最後の立ち上げ段階では、開発、生産、見積もりなど、関係者がほぼ毎日会話していました",
+    "url": "https://www.kke.co.jp/solution/casestudy/15937",
+    "pass": 1
+   },
+   {
+    "quote": "Twilio SendGridとは？構造計画研究所（KKE）経由の契約・料金・日本語サポートを解説 | 【公式】ブラストエンジン（blastengine）｜API連携・SMTPリレー",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "Twilio SendGridとは？構造計画研究所（KKE）経由の契約・料金・日本語サポートを解説",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、Twilio SendGridの基礎から、構造計画研究所（KKE）が果たす役割、契約先ごとの違い、2026年8月時点の料金プラン、そして導入前に知っておきたい注意点までを一気に整理します",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "Twilio SendGrid（KKE）の料金プランを解説【2026年最新】",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内向けに独自の公式サイト・料金ページ・サポート窓口を整備しているのが構造計画研究所であるため、日本語で「SendGrid」を検索すると、KKEのサイトやKKE発の情報が上位に表示されやすくなっています",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "ここからは、構造計画研究所（KKE）が提供する日本国内向けの料金プランを見ていきます",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "SendGridの料金は、",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "「月額の基本使用料」＋「月間上限通数を超えた分の従量課金」",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用は0円で、プランは契約中いつでも変更できます",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "基本使用料（月額）",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "※本記事の料金・仕様・サポート体制に関する記述は、",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "SendGrid公式サイトの料金プランページ",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "同じ10万通でもEssentials 100K（5,400円）とPro 100K（14,000円）で価格が倍以上違うのは、使える機能に差があるためです",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "料金表の額面だけで判断すると、実際の請求額とのギャップに驚くことがあります",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "超過分は5万通、超過料金は1通0.200円なので、単純計算で次のようになります",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "さらにSendGridでは、マーケティングキャンペーン機能の宛先追加（2,000件を超えると1万件あたり月1,500円）や、固定IPの追加（Proで1つあたり月4,300円）など、機能に応じたオプション料金も発生します",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "料金やサポートと並んで、あるいはそれ以上に重要なのが",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用は無料で、月額3,000円（1万通）から利用できます",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "機能、料金が3分でわかる",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス・価格について | 設計用入力地震動作成システム | 構造計画研究所",
+    "url": "https://www4.kke.co.jp/kaiseki/jishin/product/price.html",
+    "pass": 3
+   },
+   {
+    "quote": "サービス・価格について",
+    "url": "https://www4.kke.co.jp/kaiseki/jishin/product/price.html",
+    "pass": 3
+   },
+   {
+    "quote": "バージョンアップ版の特別価格での提供(大幅な改変を除き無償でご提供)",
+    "url": "https://www4.kke.co.jp/kaiseki/jishin/product/price.html",
+    "pass": 3
+   },
+   {
+    "quote": "価格については",
+    "url": "https://www4.kke.co.jp/kaiseki/jishin/product/price.html",
+    "pass": 3
+   },
+   {
+    "quote": "いずれも税抜表記、1ライセンスあたりの価格表記です",
+    "url": "https://www4.kke.co.jp/kaiseki/jishin/product/price.html",
+    "pass": 3
+   },
+   {
+    "quote": "価格は予告なく変更する場合があります",
+    "url": "https://www4.kke.co.jp/kaiseki/jishin/product/price.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品新規購入価格",
+    "url": "https://www4.kke.co.jp/kaiseki/jishin/product/price.html",
+    "pass": 3
+   },
+   {
+    "quote": "アカデミック価格",
+    "url": "https://www4.kke.co.jp/kaiseki/jishin/product/price.html",
+    "pass": 3
+   },
+   {
+    "quote": "複数ライセンス割引",
+    "url": "https://www4.kke.co.jp/kaiseki/jishin/product/price.html",
+    "pass": 3
+   },
+   {
+    "quote": "レンタル価格",
+    "url": "https://www4.kke.co.jp/kaiseki/jishin/product/price.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品バージョンアップ価格",
+    "url": "https://www4.kke.co.jp/kaiseki/jishin/product/price.html",
+    "pass": 3
+   },
+   {
+    "quote": "年間技術サービス価格",
+    "url": "https://www4.kke.co.jp/kaiseki/jishin/product/price.html",
+    "pass": 3
+   },
+   {
+    "quote": "アカデミック価格(大学向け)",
+    "url": "https://www4.kke.co.jp/kaiseki/jishin/product/price.html",
+    "pass": 3
+   },
+   {
+    "quote": "複数ライセンス割引について",
+    "url": "https://www4.kke.co.jp/kaiseki/jishin/product/price.html",
+    "pass": 3
+   },
+   {
+    "quote": "ライセンス数",
+    "url": "https://www4.kke.co.jp/kaiseki/jishin/product/price.html",
+    "pass": 3
+   },
+   {
+    "quote": "(×スタンドアロン版価格)",
+    "url": "https://www4.kke.co.jp/kaiseki/jishin/product/price.html",
+    "pass": 3
+   },
+   {
+    "quote": "(×ウェブ版価格)",
+    "url": "https://www4.kke.co.jp/kaiseki/jishin/product/price.html",
+    "pass": 3
+   },
+   {
+    "quote": "1ライセンス目",
+    "url": "https://www4.kke.co.jp/kaiseki/jishin/product/price.html",
+    "pass": 3
+   },
+   {
+    "quote": "2ライセンス目",
+    "url": "https://www4.kke.co.jp/kaiseki/jishin/product/price.html",
+    "pass": 3
+   },
+   {
+    "quote": "3ライセンス目",
+    "url": "https://www4.kke.co.jp/kaiseki/jishin/product/price.html",
+    "pass": 3
+   },
+   {
+    "quote": "バージョンアップ価格",
+    "url": "https://www4.kke.co.jp/kaiseki/jishin/product/price.html",
+    "pass": 3
+   },
+   {
+    "quote": "※大学の方はアカデミック版新規購入価格を頂いております",
+    "url": "https://www4.kke.co.jp/kaiseki/jishin/product/price.html",
+    "pass": 3
+   },
+   {
+    "quote": "技術サービス価格",
+    "url": "https://www4.kke.co.jp/kaiseki/jishin/product/price.html",
+    "pass": 3
+   },
+   {
+    "quote": "単体ご契約価格",
+    "url": "https://www4.kke.co.jp/kaiseki/jishin/product/price.html",
+    "pass": 3
+   },
+   {
+    "quote": "同時ご契約割引価格",
+    "url": "https://www4.kke.co.jp/kaiseki/jishin/product/price.html",
+    "pass": 3
+   },
+   {
+    "quote": "料金プラン・お申し込みはこちら",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?nik_code=0023320",
+    "pass": 3
+   }
+  ],
+  "誰から": [
+   {
+    "quote": "構造計画研究所と代理店契約を締結 新材料開発分野での3Dひずみ・変形測定機「ARAMIS」利用を推進 | ニュース | 丸紅I-DIGIOホールディングス株式会社",
+    "url": "https://www.marubeni-idigio.com/news/20170607sys/",
+    "pass": 3
+   },
+   {
+    "quote": "構造計画研究所と代理店契約を締結 新材料開発分野での3Dひずみ・変形測定機「ARAMIS」利用を推進",
+    "url": "https://www.marubeni-idigio.com/news/20170607sys/",
+    "pass": 3
+   },
+   {
+    "quote": "丸紅情報システムズ株式会社（略称：エムシス/MSYS、本社：東京都新宿区 代表取締役社長：伊吹 洋二）は、株式会社構造計画研究所（本社：東京都中野区 代表取締役社長：服部 正太 以下、「構造計画研究所」）と、MSYSが国内総販売代理店として取り扱う独GOM社製非接触光学式3Dひずみ・変形測定機「ARAMIS（アラミス）」の販売代理店契約を締結しました",
+    "url": "https://www.marubeni-idigio.com/news/20170607sys/",
+    "pass": 3
+   },
+   {
+    "quote": "構造計画研究所（KKE）は、同社およびTwilioの公表によればTwilio SendGridの国内唯一の正規代理店",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "「構造計画研究所（KKE）」とは？SendGrid国内唯一の正規代理店",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "国内唯一の正規代理店",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "2013年12月にSendGrid社（当時）と業務提携し、日本市場向けにSendGridの提供を開始しました",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "構造計画研究所（KKE）は、Twilio SendGridの国内唯一の正規代理店とされています",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "構造計画研究所 と 代理店契約 を締結 新材料開発分野での3D ... — 構造計画研究所 と 代理店契約 を締結 新材料開発分野での3D ... 丸紅I-DIGIOグループ https://www.marubeni-idigio.com > news",
+    "url": "https://www.marubeni-idigio.com/news/20170607sys/",
+    "pass": 3
+   },
+   {
+    "quote": "「 構造計画研究所 」の 代理店 3社 注目ランキング【2026年】 — 「 構造計画研究所 」の 代理店 3社 注目ランキング【2026年】 Metoree https://metoree.com > ... > 株式会社構造計画研究所",
+    "url": "https://metoree.com/companies/15134/distributors/",
+    "pass": 3
+   },
+   {
+    "quote": "Twilio SendGridとは？ 構造計画研究所 （KKE）経由の 契約 ... — Twilio SendGridとは？ 構造計画研究所 （KKE）経由の 契約 ... blastengine.jp https://blastengine.jp > Blog",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "構造計画研究所 : 情報通信グループトップページ — 構造計画研究所 : 情報通信グループトップページ 構造計画研究所 https://network2.kke.co.jp",
+    "url": "https://network2.kke.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "行動規範 - 構造計画研究所 — 行動規範 - 構造計画研究所 構造計画研究所 PDF https://www.kke.co.jp > assets > pdf > kke_all_2021",
+    "url": "https://www.kke.co.jp/assets/pdf/kke_all_2021.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 - 構造計画研究所 — 導入事例 - 構造計画研究所 構造計画研究所 https://www.kke.co.jp > solution > casestudy",
+    "url": "https://www.kke.co.jp/solution/casestudy/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様 事例 - 構造計画研究所 — お客様 事例 - 構造計画研究所 構造計画研究所 https://network2.kke.co.jp > casestudies",
+    "url": "https://network2.kke.co.jp/casestudies/",
+    "pass": 3
+   },
+   {
+    "quote": "事例 ｜NavVisで複雑な現場の3Dデータを高速かつ高品質にご ... — 事例 ｜NavVisで複雑な現場の3Dデータを高速かつ高品質にご ... 構造計画研究所 https://solutions.kke.co.jp > navvis > case",
+    "url": "https://solutions.kke.co.jp/navvis/case/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 構造計画研究所 - パソナ日本総務部 — 株式会社 構造計画研究所 - パソナ日本総務部 パソナ日本総務部 https://www.pasona-ns.co.jp > case > detail > kke",
+    "url": "https://www.pasona-ns.co.jp/case/detail/kke.html",
+    "pass": 3
+   },
+   {
+    "quote": "事例 集ダウンロード - MASコミュニティ - 構造計画研究所 — 事例 集ダウンロード - MASコミュニティ - 構造計画研究所 MASコミュニティ https://mas.kke.co.jp > case_study_download",
+    "url": "https://mas.kke.co.jp/case_study_download/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス・ 価格 について | 設計用入力地震動作成システム — サービス・ 価格 について | 設計用入力地震動作成システム 構造計画研究所 https://www4.kke.co.jp > kaiseki > jishin > product > price",
+    "url": "https://www4.kke.co.jp/kaiseki/jishin/product/price.html",
+    "pass": 3
+   },
+   {
+    "quote": "構造計画研究所 : 企業概要 : 日経会社情報DIGITAL : 日経電子版 — 構造計画研究所 : 企業概要 : 日経会社情報DIGITAL : 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?nik_code=0023320",
+    "pass": 3
+   },
+   {
+    "quote": "Twilio SendGridとは？ 構造計画研究所 （KKE）経由の契約 ... — Twilio SendGridとは？ 構造計画研究所 （KKE）経由の契約 ... blastengine.jp https://blastengine.jp > Blog",
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちについて - 構造計画研究所 — 私たちについて - 構造計画研究所 構造計画研究所 https://www.kke.co.jp > aboutus",
+    "url": "https://www.kke.co.jp/aboutus/",
+    "pass": 3
+   },
+   {
+    "quote": "構造計画研究所 が選ばれる理由 - 設計者向けCAE/解析 — 構造計画研究所 が選ばれる理由 - 設計者向けCAE/解析 sbd.jp https://www.sbd.jp > guide > reason",
+    "url": "https://www.sbd.jp/guide/reason/",
+    "pass": 3
+   },
+   {
+    "quote": "建築 | コンサルティング | 解析ポータル | 構造計画研究所 — 建築 | コンサルティング | 解析ポータル | 構造計画研究所 解析ポータル https://kaiseki-kke.jp > consulting > architecture",
+    "url": "https://kaiseki-kke.jp/consulting/architecture/",
+    "pass": 3
+   },
+   {
+    "quote": "完全クラウドのCAEプラットフォーム「SimScale」の 国内 ... — 完全クラウドのCAEプラットフォーム「SimScale」の 国内 ... 構造計画研究所 https://www.kke.co.jp > release",
+    "url": "https://www.kke.co.jp/release/14213",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.kke.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kke.co.jp/aboutus/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kke.co.jp/aboutus/greetings/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kke.co.jp/aboutus/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kke.co.jp/aboutus/access/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kke.co.jp/aboutus/organization/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kke.co.jp/aboutus/publication/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kke.co.jp/aboutus/thesis/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kke.co.jp/aboutus/society/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kke.co.jp/solution/support_manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kke.co.jp/solution/casestudy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kke.co.jp/solution/casestudy/15937",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kke.co.jp/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kke.co.jp/release/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kke.co.jp/topics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kke.co.jp/event_report/future/14084",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.kke.co.jp/cms/uploads/2026/07/612763945253995059-590x366.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kke.co.jp/assets/img/common/related-casestudy.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kke.co.jp/cms/uploads/2023/06/2200-%E8%A1%A8%E7%B4%99-248x350.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kke.co.jp/cms/uploads/2026/07/P4066974-590x366.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kke.co.jp/cms/uploads/2026/02/pw_isuzu_topview-1-590x366.jpeg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kke.co.jp/cms/uploads/2026/07/612763945253995059-466x350.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kke.co.jp/cms/uploads/2026/07/P4066974-467x350.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kke.co.jp/cms/uploads/2026/06/02_eyecatch-525x350.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kke.co.jp/cms/uploads/2026/02/pw_isuzu_topview-1-467x350.jpeg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kke.co.jp/cms/uploads/2025/06/obayashi_gumi_top-525x350.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.marubeni-idigio.com/news/20170607sys/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/15134/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://network2.kke.co.jp/casestudies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://solutions.kke.co.jp/navvis/case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www4.kke.co.jp/kaiseki/jishin/product/price.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://resp.kke.co.jp/about/purchase/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?nik_code=0023320",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sbd.jp/guide/reason/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kaiseki-kke.jp/consulting/architecture/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "構造計画研究所",
+   "results": [
+    "https://www.kke.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E6%A7%8B%E9%80%A0%E8%A8%88%E7%94%BB%E7%A0%94%E7%A9%B6%E6%89%80",
+    "https://www.kke-hd.co.jp/corporate/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20261102563071/",
+    "https://kaiseki-kke.jp/",
+    "https://x.com/KKE_Inc",
+    "https://ja.wikipedia.org/wiki/構造計画研究所",
+    "https://www.kke.co.jp/aboutus/profile/",
+    "https://corp-ratings.com/構造計画研究所/",
+    "https://struc.kke.co.jp/"
+   ]
+  },
+  {
+   "query": "構造計画研究所 代理店 契約",
+   "results": [
+    "https://www.marubeni-idigio.com/news/20170607sys/",
+    "https://metoree.com/companies/15134/distributors/",
+    "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "https://network2.kke.co.jp/",
+    "https://www.kke.co.jp/assets/pdf/kke_all_2021.pdf",
+    "https://www.kke-hd.co.jp/aboutus/management_policy/",
+    "https://www.indexpro.co.jp/distributor/location?did=3576",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__00001135787/-oc__01L/",
+    "https://www.kke.co.jp/release/before/page/12?q=solution",
+    "https://sendgrid.kke.co.jp/blog/?p=10084"
+   ]
+  },
+  {
+   "query": "構造計画研究所 導入事例",
+   "results": [
+    "https://www.kke.co.jp/solution/casestudy/",
+    "https://network2.kke.co.jp/casestudies/",
+    "https://solutions.kke.co.jp/navvis/case/",
+    "https://www.pasona-ns.co.jp/case/detail/kke.html",
+    "https://mas.kke.co.jp/case_study_download/",
+    "https://cloudpack.jp/casestudy/210.html",
+    "https://www.kke.co.jp/solution/casestudy/keep_safety",
+    "https://www.sbd.jp/case/",
+    "https://www.unions.co.jp/case/ss7/2565/",
+    "https://www.unions.co.jp/case/ss21/isolation/1122/"
+   ]
+  },
+  {
+   "query": "構造計画研究所 価格 OR 料金",
+   "results": [
+    "https://www4.kke.co.jp/kaiseki/jishin/product/price.html",
+    "https://resp.kke.co.jp/about/purchase/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?nik_code=0023320",
+    "https://blastengine.jp/blog_content/twilio-sendgrid-kke/",
+    "https://www.kke.co.jp/aboutus/",
+    "https://www.kke-hd.co.jp/aboutus/management_policy/",
+    "https://promote.list-finder.jp/usecase/kke/",
+    "https://kaiseki-kke.jp/",
+    "https://www.openwork.jp/a0910000000Fr7J/pr/",
+    "https://ja.wikipedia.org/wiki/構造計画研究所"
+   ]
+  },
+  {
+   "query": "構造計画研究所 受託 造形",
+   "results": [
+    "https://www.kke.co.jp/solution/casestudy/",
+    "https://www.sbd.jp/guide/reason/",
+    "https://kaiseki-kke.jp/consulting/architecture/",
+    "https://network2.kke.co.jp/",
+    "https://www.kke.co.jp/release/14213",
+    "https://www.material-expo.jp/tokyo/ja-jp/search/2026mwt0930/directory/details.org-85eb61ae-085b-44e8-8f53-14b90c088da5.html",
+    "https://www.kke-hd.co.jp/corporate/",
+    "https://www.kke.co.jp/aboutus/profile/",
+    "https://career-platform.com/contents_9947.html",
+    "https://www.kke.co.jp/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式16頁／PDF・画像10件／外部10頁・検索5回）",
+  "事業内容": "記載なし（3回確認済み：公式16頁／PDF・画像10件／外部10頁・検索5回）",
+  "取引先": "記載なし（3回確認済み：公式16頁／PDF・画像10件／外部10頁・検索5回）"
+ }
+}

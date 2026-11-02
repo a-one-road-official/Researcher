@@ -1,0 +1,1258 @@
+{
+ "name": "マークフォージド・ジャパン株式会社",
+ "aliases": [],
+ "context": "Metal X、Digital Metal DM P2500、PX100、粉末・受託；メーカー日本法人 / Markforged/Digital Metal；Markforged（米）／Digital Metal",
+ "researched_at": "2026-11-02T12:12:40.185617+00:00",
+ "official_url": "https://markforged.com/jp",
+ "identified_by": "given",
+ "profile": {
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "・自動車メーカとサプライヤー\n・航空宇宙関連企業\n・電気製品メーカとサプライヤー\n・電子機器メーカとサプライヤー\n・ロボット、ドローンやインテグレータ\n・一般消費財メーカやサプライヤー\n・治具製造メーカ\n・試作、金型、成型関連メーカ\n・サービスビューロー\n・学校、大学、研究機関、工業技術試験所\n・医療（義肢義足、医療機器メーカなど）\n・建築、土木、デザイン\n・防衛関係 (順不同・敬称略)",
+    "url": "https://mono.ipros.com/company/detail/2087672/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何をする": [
+   {
+    "quote": "ミッションクリティカルな生産ニーズに合わせて設計された、産業用3Dプリンティングプラットフォームをご覧ください",
+    "url": "https://markforged.com/jp",
+    "pass": 1
+   },
+   {
+    "quote": "工場現場向けに設計",
+    "url": "https://markforged.com/jp",
+    "pass": 1
+   },
+   {
+    "quote": "製造現場向けに設計されています",
+    "url": "https://markforged.com/jp",
+    "pass": 1
+   },
+   {
+    "quote": "工場現場向けに設計された産業用3Dプリンター",
+    "url": "https://markforged.com/jp",
+    "pass": 1
+   },
+   {
+    "quote": "Markforgedのプリンターとシームレスに連携するように設計された、金属マテリアルや連続ファイバー強化複合マテリアル",
+    "url": "https://markforged.com/jp",
+    "pass": 1
+   },
+   {
+    "quote": "洗練された設計で、製造ワークフローに適合し、MISや他のシステムと統合する、強力なシミュレーション機能と検査機能で成功を確実にします",
+    "url": "https://markforged.com/jp",
+    "pass": 1
+   },
+   {
+    "quote": "Markforgedの連続ファイバーおよび金属3Dプリント技術を活用することで、製造業者やレースチームは機械加工工場を経由することなく、CAD設計から現場ですぐに使用できる取付具の完成までを24時間以内に実現しています",
+    "url": "https://markforged.com/jp/resources/blog",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリント教育: 大学はどのようにして、製造業の未来に向けてエンジニアを育成しているのか",
+    "url": "https://markforged.com/jp/resources/blog",
+    "pass": 1
+   },
+   {
+    "quote": "スケジュールが強引なうえに予算の見通しが甘い場合、製品をどうにか形にするために、手抜きが増え、リスクを負わなくなり、設計意図が大きく損なわれます",
+    "url": "https://markforged.com/jp/icp/product-development",
+    "pass": 1
+   },
+   {
+    "quote": "ラピッド プロトタイピングを使用して設計を繰り返し改良する場合でも、ブリッジ工具製作を使用して生産を迅速に立ち上げる場合でも、3D プリントは、優れた製品の迅速な開発に役立ちます",
+    "url": "https://markforged.com/jp/icp/product-development",
+    "pass": 1
+   },
+   {
+    "quote": "機能的なパーツを数時間で作成し、素早くテストを行い、設計に合わせて迅速に反復できます",
+    "url": "https://markforged.com/jp/icp/product-development",
+    "pass": 1
+   },
+   {
+    "quote": "これまで以上に高い信頼性で、より短期間に設計が完成します",
+    "url": "https://markforged.com/jp/icp/product-development",
+    "pass": 1
+   },
+   {
+    "quote": "高度に最適化された幾何学的に複雑な工具や保持具を設計およびプリントして、製造プロセスをより効率化できます",
+    "url": "https://markforged.com/jp/icp/product-development",
+    "pass": 1
+   },
+   {
+    "quote": "また、リソースを大規模な生産に割り当てることができ、設計の反復に重点を置きながら、ラピッド プロトタイピングを円滑に実行できます",
+    "url": "https://markforged.com/jp/icp/product-development",
+    "pass": 1
+   },
+   {
+    "quote": "Larsen Motorsportsが、時速280マイルで走行するジェットカー用にカスタムステアリングホイールを設計し、パーツのリードタイムを8日から2日に短縮した方法をご確認ください",
+    "url": "https://markforged.com/jp/resources/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "ギャップを埋める: Autodesk ResearchがMarkforgedを活用してパフォーマンス支援設計の研究を開拓する方法",
+    "url": "https://markforged.com/jp/resources/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Jonas Zitek氏が率いるSpectrum Technology社は、厳しい要件と目まぐるしく変化するスケジュールを持つ顧客向けに高度な機械を設計・製造しています",
+    "url": "https://markforged.com/jp/resources/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、エンジニアや設計者は、設計から完全に機能する工業用パーツまで、より効率的に作業を進めることができます",
+    "url": "https://markforged.com/jp/about/company",
+    "pass": 1
+   },
+   {
+    "quote": "高強度3Dプリントにより、低コストでプロセス自動化ツールを迅速に設計、テスト、および実装することができます",
+    "url": "https://markforged.com/jp/resources/manufacturing-applications",
+    "pass": 1
+   },
+   {
+    "quote": "スケジュールが強引なうえに予算の見通しが甘い場合、製品をどうにか形にするために、手抜きが増え、リスクを負わなくなり、設計意図が大きく損なわれます",
+    "url": "https://markforged.com/jp/icp/product-development?__geom=%E2%9C%AA",
+    "pass": 1
+   },
+   {
+    "quote": "ラピッド プロトタイピングを使用して設計を繰り返し改良する場合でも、ブリッジ工具製作を使用して生産を迅速に立ち上げる場合でも、3D プリントは、優れた製品の迅速な開発に役立ちます",
+    "url": "https://markforged.com/jp/icp/product-development?__geom=%E2%9C%AA",
+    "pass": 1
+   },
+   {
+    "quote": "機能的なパーツを数時間で作成し、素早くテストを行い、設計に合わせて迅速に反復できます",
+    "url": "https://markforged.com/jp/icp/product-development?__geom=%E2%9C%AA",
+    "pass": 1
+   },
+   {
+    "quote": "これまで以上に高い信頼性で、より短期間に設計が完成します",
+    "url": "https://markforged.com/jp/icp/product-development?__geom=%E2%9C%AA",
+    "pass": 1
+   },
+   {
+    "quote": "高度に最適化された幾何学的に複雑な工具や保持具を設計およびプリントして、製造プロセスをより効率化できます",
+    "url": "https://markforged.com/jp/icp/product-development?__geom=%E2%9C%AA",
+    "pass": 1
+   },
+   {
+    "quote": "また、リソースを大規模な生産に割り当てることができ、設計の反復に重点を置きながら、ラピッド プロトタイピングを円滑に実行できます",
+    "url": "https://markforged.com/jp/icp/product-development?__geom=%E2%9C%AA",
+    "pass": 1
+   },
+   {
+    "quote": "Larsen Motorsportsが、時速280マイルで走行するジェットカー用にカスタムステアリングホイールを設計し、パーツのリードタイムを8日から2日に短縮した方法をご確認ください",
+    "url": "https://markforged.com/jp/resources/case-studies?__geom=%E2%9C%AA",
+    "pass": 1
+   },
+   {
+    "quote": "ギャップを埋める: Autodesk ResearchがMarkforgedを活用してパフォーマンス支援設計の研究を開拓する方法",
+    "url": "https://markforged.com/jp/resources/case-studies?__geom=%E2%9C%AA",
+    "pass": 1
+   },
+   {
+    "quote": "Jonas Zitek氏が率いるSpectrum Technology社は、厳しい要件と目まぐるしく変化するスケジュールを持つ顧客向けに高度な機械を設計・製造しています",
+    "url": "https://markforged.com/jp/resources/case-studies?__geom=%E2%9C%AA",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、エンジニアや設計者は、設計から完全に機能する工業用パーツまで、より効率的に作業を進めることができます",
+    "url": "https://markforged.com/jp/about/company?__geom=%E2%9C%AA",
+    "pass": 1
+   },
+   {
+    "quote": "保持が難しい部品のためのカスタムミルおよび旋盤ジョーの設計、プログラム、および加工は時間がかかり、困難であり、高価です",
+    "url": "https://markforged.com/jp/resources/manufacturing-applications/soft-jaws",
+    "pass": 1
+   },
+   {
+    "quote": "従来、複雑な形状の部品や完璧な表面仕上げが必要な部品の機械加工には、機械加工者がカスタムソフトジョーを設計、プログラム、および加工する必要があります",
+    "url": "https://markforged.com/jp/resources/manufacturing-applications/soft-jaws",
+    "pass": 1
+   },
+   {
+    "quote": "それらは設計が容易であり、ユーザーはジョーブランクをCADし、ブランクから部品を引き算するだけです",
+    "url": "https://markforged.com/jp/resources/manufacturing-applications/soft-jaws",
+    "pass": 1
+   },
+   {
+    "quote": "結果として、複雑なアセンブリを溶接のために適合的に安全に保持する部品を設計できます",
+    "url": "https://markforged.com/jp/resources/manufacturing-applications/welding-fixtures",
+    "pass": 1
+   },
+   {
+    "quote": "設計が変更された場合は、更新された治具を迅速かつ安価に印刷できます",
+    "url": "https://markforged.com/jp/resources/manufacturing-applications/welding-fixtures",
+    "pass": 1
+   },
+   {
+    "quote": "高強度の3Dプリントにより、低コストでプロセス自動化ツールを迅速に設計、テスト、および実装することができます",
+    "url": "https://markforged.com/jp/resources/manufacturing-applications/process-automation",
+    "pass": 1
+   },
+   {
+    "quote": "APPLE TREEがMarkforgedと販売代理店契約を締結 | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "造形サービス（10）",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "APPLE TREEがMarkforgedと販売代理店契約を締結",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターと3Dスキャナーの企画製造および販売を行う",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "（大阪府大阪市）が、アメリカの3DプリンターメーカーMarkforged社との販売代理店契約を2023年3月22日に締結した",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "Markforged社製の3Dプリンターを大阪本社のショールームに設置し、5月19日から販売活動を開始している",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "第一実業、ExOneと国内販売代理店契約を締結―voxeljetと合わせ砂型3Dプリンターの提案体制を強化",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "総合機械商社の第一実業株式会社は、産業用3Dプリンティングソリューションを展開する株式会社ExOneと、砂型3Dプリンターの日本国内における販売代理店契約を締結…",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "APPLE TREE、ガラスビルドプレートを搭載した3DプリンターAdventurer4 Liteを販売開始",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "FLASHFORGEの国内総代理店を務めるAPPLE TREEは、ガラスビルドプレートを搭載した家庭用3Dプリンター「Adventure4 Lite」の国内向け販売を開始した",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "造形サービス",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "Creality、4つのノズルを約5秒で交換する3Dプリンター「K3」の予約販売を開始――造形時間を最大80％短縮、材料廃棄を最大85％削減",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "これから始める3D設計 ZW3D体験セミナー （2/13＠東京）",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "Dfam（3Dプリンターならでは設計）とは",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "企業向け3Dプリンターのレンタル・リースを解説",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界の試作開発部門で活躍する3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターメーカー「Markforged」社と販売代理店契約を締結、大阪にショールームを新設 | 3Dプリンター/3DスキャナーならAPPLE TREE株式会社",
+    "url": "https://apple-tree.co.jp/123559-2/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター販売",
+    "url": "https://apple-tree.co.jp/123559-2/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dスキャナー販売",
+    "url": "https://apple-tree.co.jp/123559-2/",
+    "pass": 3
+   },
+   {
+    "quote": "マテリアル販売",
+    "url": "https://apple-tree.co.jp/123559-2/",
+    "pass": 3
+   },
+   {
+    "quote": "STEAM教育",
+    "url": "https://apple-tree.co.jp/123559-2/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターメーカー「Markforged」社と販売代理店契約を締結、大阪にショールームを新設",
+    "url": "https://apple-tree.co.jp/123559-2/",
+    "pass": 3
+   },
+   {
+    "quote": "APPLE TREE株式会社は、3月22日(水)に世界をリードする3Dプリンターメーカー「Markforged」社と販売代理店契約を締結しました",
+    "url": "https://apple-tree.co.jp/123559-2/",
+    "pass": 3
+   },
+   {
+    "quote": "この契約締結に伴い、大阪本社に新設した大阪ショールームに設置し、本日付で販売活動を開始することを発表しました",
+    "url": "https://apple-tree.co.jp/123559-2/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "All 業界",
+    "url": "https://markforged.com/jp",
+    "pass": 1
+   },
+   {
+    "quote": "Digital Forgeは、お客様のプリンター、ソフトウェア、材料を統合し、エンタープライズ対応の単一のエコシステムを構築します",
+    "url": "https://markforged.com/jp",
+    "pass": 1
+   },
+   {
+    "quote": "統合されたプラットフォームでシームレスに連携するソフトウェア、プリンター、マテリアルで構成されており、お客様の既存の製造エコシステムに組み込むことを目的として作られています",
+    "url": "https://markforged.com/jp",
+    "pass": 1
+   },
+   {
+    "quote": "金属や連続ファイバー強化複合材料から、業界最高強度のパーツをプリントできます",
+    "url": "https://markforged.com/jp",
+    "pass": 1
+   },
+   {
+    "quote": "All 業界",
+    "url": "https://markforged.com/jp/resources/blog",
+    "pass": 1
+   },
+   {
+    "quote": "ドローン業界は急速に拡大している",
+    "url": "https://markforged.com/jp/resources/blog",
+    "pass": 1
+   },
+   {
+    "quote": "アジア太平洋地域のUAVメーカー各社が、業界の発展を阻む技術的課題やサプライチェーンの課題にどのように取り組んでいるか",
+    "url": "https://markforged.com/jp/resources/blog",
+    "pass": 1
+   },
+   {
+    "quote": "All 業界",
+    "url": "https://markforged.com/jp/icp/product-development",
+    "pass": 1
+   },
+   {
+    "quote": "数多くの業界リーダーが投資している積層造形",
+    "url": "https://markforged.com/jp/icp/product-development",
+    "pass": 1
+   },
+   {
+    "quote": "独特のニーズを求める顧客に満足してもらえる最終用途パーツを製造できます",
+    "url": "https://markforged.com/jp/icp/product-development",
+    "pass": 1
+   },
+   {
+    "quote": "Brooks や 100 社を超える他の業界リーダーが、Markforged プラットフォームで、どのようにして非常に優れた成果を実現しているかをご覧ください",
+    "url": "https://markforged.com/jp/icp/product-development",
+    "pass": 1
+   },
+   {
+    "quote": "All 業界",
+    "url": "https://markforged.com/jp/resources/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Jonas Zitek氏が率いるSpectrum Technology社は、厳しい要件と目まぐるしく変化するスケジュールを持つ顧客向けに高度な機械を設計・製造しています",
+    "url": "https://markforged.com/jp/resources/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "All 業界",
+    "url": "https://markforged.com/jp/about/company",
+    "pass": 1
+   },
+   {
+    "quote": "Markforged は、積層造形が製造業界全体を変革できるという信念に基づいて 2013 年に設立されました",
+    "url": "https://markforged.com/jp/about/company",
+    "pass": 1
+   },
+   {
+    "quote": "これらのチームは、現場のお客様と協力して、お客様の業務を変革しています",
+    "url": "https://markforged.com/jp/about/company",
+    "pass": 1
+   },
+   {
+    "quote": "All 業界",
+    "url": "https://markforged.com/jp/resources/manufacturing-applications",
+    "pass": 1
+   },
+   {
+    "quote": "All 業界",
+    "url": "https://markforged.com/jp/resources/news-events",
+    "pass": 1
+   },
+   {
+    "quote": "All 業界",
+    "url": "https://markforged.com/jp/resources/application-spotlights/sophisticated-production-systems-with-yamaha-fine-technologies",
+    "pass": 1
+   },
+   {
+    "quote": "お客様が当社のブログを使用することは、当社の事前の許可なく当社のサービスマークまたは商標を使用する権利またはライセンスを構成するものではありません",
+    "url": "https://markforged.com/jp/resources/application-spotlights/sophisticated-production-systems-with-yamaha-fine-technologies",
+    "pass": 1
+   },
+   {
+    "quote": "All 業界",
+    "url": "https://markforged.com/jp/icp/product-development?__geom=%E2%9C%AA",
+    "pass": 1
+   },
+   {
+    "quote": "数多くの業界リーダーが投資している積層造形",
+    "url": "https://markforged.com/jp/icp/product-development?__geom=%E2%9C%AA",
+    "pass": 1
+   },
+   {
+    "quote": "独特のニーズを求める顧客に満足してもらえる最終用途パーツを製造できます",
+    "url": "https://markforged.com/jp/icp/product-development?__geom=%E2%9C%AA",
+    "pass": 1
+   },
+   {
+    "quote": "Brooks や 100 社を超える他の業界リーダーが、Markforged プラットフォームで、どのようにして非常に優れた成果を実現しているかをご覧ください",
+    "url": "https://markforged.com/jp/icp/product-development?__geom=%E2%9C%AA",
+    "pass": 1
+   },
+   {
+    "quote": "All 業界",
+    "url": "https://markforged.com/jp/resources/case-studies?__geom=%E2%9C%AA",
+    "pass": 1
+   },
+   {
+    "quote": "Jonas Zitek氏が率いるSpectrum Technology社は、厳しい要件と目まぐるしく変化するスケジュールを持つ顧客向けに高度な機械を設計・製造しています",
+    "url": "https://markforged.com/jp/resources/case-studies?__geom=%E2%9C%AA",
+    "pass": 1
+   },
+   {
+    "quote": "All 業界",
+    "url": "https://markforged.com/jp/about/company?__geom=%E2%9C%AA",
+    "pass": 1
+   },
+   {
+    "quote": "Markforged は、積層造形が製造業界全体を変革できるという信念に基づいて 2013 年に設立されました",
+    "url": "https://markforged.com/jp/about/company?__geom=%E2%9C%AA",
+    "pass": 1
+   },
+   {
+    "quote": "これらのチームは、現場のお客様と協力して、お客様の業務を変革しています",
+    "url": "https://markforged.com/jp/about/company?__geom=%E2%9C%AA",
+    "pass": 1
+   },
+   {
+    "quote": "All 業界",
+    "url": "https://markforged.com/jp/resources/manufacturing-applications/soft-jaws",
+    "pass": 1
+   },
+   {
+    "quote": "それらは設計が容易であり、ユーザーはジョーブランクをCADし、ブランクから部品を引き算するだけです",
+    "url": "https://markforged.com/jp/resources/manufacturing-applications/soft-jaws",
+    "pass": 1
+   },
+   {
+    "quote": "お客様が当社のブログを使用することは、当社の事前の許可なく当社のサービスマークまたは商標を使用する権利またはライセンスを構成するものではありません",
+    "url": "https://markforged.com/jp/resources/manufacturing-applications/soft-jaws",
+    "pass": 1
+   },
+   {
+    "quote": "All 業界",
+    "url": "https://markforged.com/jp/resources/manufacturing-applications/welding-fixtures",
+    "pass": 1
+   },
+   {
+    "quote": "お客様が当社のブログを使用することは、当社の事前の許可なく当社のサービスマークまたは商標を使用する権利またはライセンスを構成するものではありません",
+    "url": "https://markforged.com/jp/resources/manufacturing-applications/welding-fixtures",
+    "pass": 1
+   },
+   {
+    "quote": "All 業界",
+    "url": "https://markforged.com/jp/resources/manufacturing-applications/process-automation",
+    "pass": 1
+   },
+   {
+    "quote": "お客様が当社のブログを使用することは、当社の事前の許可なく当社のサービスマークまたは商標を使用する権利またはライセンスを構成するものではありません",
+    "url": "https://markforged.com/jp/resources/manufacturing-applications/process-automation",
+    "pass": 1
+   },
+   {
+    "quote": "All 業界",
+    "url": "https://markforged.com/jp/resources/manufacturing-applications/end-of-arm-tooling",
+    "pass": 1
+   },
+   {
+    "quote": "お客様が当社のブログを使用することは、当社の事前の許可なく当社のサービスマークまたは商標を使用する権利またはライセンスを構成するものではありません",
+    "url": "https://markforged.com/jp/resources/manufacturing-applications/end-of-arm-tooling",
+    "pass": 1
+   },
+   {
+    "quote": "今後はMarkforged社との協力を通じて、高強度材料を取り扱うことで日本のAM市場の顧客のニーズによりよく応えていくことを目指すと発表した",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "アパレル・インテリア業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "その他業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "医療業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "建設業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "産業機器業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "食品業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターの業界メディアShareLabで働きませんか？",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "AM市場動向・業界レポートまとめ",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターを使うメリット・その用途とは？業界別の活用事例を紹介",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界で活躍する3Dプリンター製の治具・工具",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界の3Dプリンター活用の現状と将来",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界の試作開発部門で活躍する3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙業界における3Dプリンターの活用",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "航空業界で活躍する3Dプリンター製最終製品",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "業界ニュース一覧",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "この度はMarkforged社との協力を通じて、日本のAM市場の顧客のニーズにより良く応えることができると信じています",
+    "url": "https://apple-tree.co.jp/123559-2/",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、APPLE TREE社が大阪本社にショールームを新設し、マークフォージドが世界で提供しているデスクトップから工業向けカーボンファイバー3Dプリンタや、各種機能樹脂素材およびソフトウェアなどを展示、デモンストレーションなどを行うことで、西日本地域のお客様に対して、より効率的に製品とサービスを提供できるようになります",
+    "url": "https://kyodonewsprwire.jp/release/202305195759",
+    "pass": 3
+   },
+   {
+    "quote": "弊社は、マークフォージド社の強みである連続カーボンファイバーで強化した高強度複合素材を提供することで、3Dプリンティングの活用範囲を広げ、同社との協力を通じて、日本のAM市場の顧客ニーズにより良く応えることができると信じています",
+    "url": "https://kyodonewsprwire.jp/release/202305195759",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "サブスクリプション",
+    "url": "https://markforged.com/jp",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプション",
+    "url": "https://markforged.com/jp/resources/blog",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプション",
+    "url": "https://markforged.com/jp/icp/product-development",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプション",
+    "url": "https://markforged.com/jp/resources/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプション",
+    "url": "https://markforged.com/jp/about/company",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリントされたテスト治具、ジグ、ブラケット、その他のハードウェアを使用して、機械システムをより効率的かつ手頃な価格で検証します",
+    "url": "https://markforged.com/jp/resources/manufacturing-applications",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプション",
+    "url": "https://markforged.com/jp/resources/manufacturing-applications",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプション",
+    "url": "https://markforged.com/jp/resources/news-events",
+    "pass": 1
+   },
+   {
+    "quote": "お客様が当社のブログを使用することは、当社の事前の許可なく当社のサービスマークまたは商標を使用する権利またはライセンスを構成するものではありません",
+    "url": "https://markforged.com/jp/resources/application-spotlights/sophisticated-production-systems-with-yamaha-fine-technologies",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプション",
+    "url": "https://markforged.com/jp/resources/application-spotlights/sophisticated-production-systems-with-yamaha-fine-technologies",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプション",
+    "url": "https://markforged.com/jp/icp/product-development?__geom=%E2%9C%AA",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプション",
+    "url": "https://markforged.com/jp/resources/case-studies?__geom=%E2%9C%AA",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプション",
+    "url": "https://markforged.com/jp/about/company?__geom=%E2%9C%AA",
+    "pass": 1
+   },
+   {
+    "quote": "お客様が当社のブログを使用することは、当社の事前の許可なく当社のサービスマークまたは商標を使用する権利またはライセンスを構成するものではありません",
+    "url": "https://markforged.com/jp/resources/manufacturing-applications/soft-jaws",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプション",
+    "url": "https://markforged.com/jp/resources/manufacturing-applications/soft-jaws",
+    "pass": 1
+   },
+   {
+    "quote": "お客様が当社のブログを使用することは、当社の事前の許可なく当社のサービスマークまたは商標を使用する権利またはライセンスを構成するものではありません",
+    "url": "https://markforged.com/jp/resources/manufacturing-applications/welding-fixtures",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプション",
+    "url": "https://markforged.com/jp/resources/manufacturing-applications/welding-fixtures",
+    "pass": 1
+   },
+   {
+    "quote": "お客様が当社のブログを使用することは、当社の事前の許可なく当社のサービスマークまたは商標を使用する権利またはライセンスを構成するものではありません",
+    "url": "https://markforged.com/jp/resources/manufacturing-applications/process-automation",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプション",
+    "url": "https://markforged.com/jp/resources/manufacturing-applications/process-automation",
+    "pass": 1
+   },
+   {
+    "quote": "お客様が当社のブログを使用することは、当社の事前の許可なく当社のサービスマークまたは商標を使用する権利またはライセンスを構成するものではありません",
+    "url": "https://markforged.com/jp/resources/manufacturing-applications/end-of-arm-tooling",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプション",
+    "url": "https://markforged.com/jp/resources/manufacturing-applications/end-of-arm-tooling",
+    "pass": 1
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "カタログスペックと価格だけでは選ばない！製造業向け3Dプリンターの比較・選び方とは？",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末床溶融結合法 / PBF（Powder Bed Fusion）を解説！SLS方式、SLM方式と何が違う？",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ・お見積もり",
+    "url": "https://apple-tree.co.jp/123559-2/",
+    "pass": 3
+   },
+   {
+    "quote": "お見積もり・在庫／納期確認・アフターサポート・修理は、Webから24時間受け付けています",
+    "url": "https://apple-tree.co.jp/123559-2/",
+    "pass": 3
+   },
+   {
+    "quote": "工具・消耗品・備品",
+    "url": "https://mono.ipros.com/company/detail/2087672/",
+    "pass": 3
+   },
+   {
+    "quote": "実験器具・消耗品",
+    "url": "https://mono.ipros.com/company/detail/2087672/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年からは金属パーツを製造できるメタル３Dプリンタの国内販売を開始、金属粉体を使わない安全性の高いFFF方式で、3,000万円〜という導入しやすい価格帯であるため、日本でも毎年広い業界で導入が進んでいます",
+    "url": "https://mono.ipros.com/company/detail/2087672/",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "また、リソースを大規模な生産に割り当てることができ、設計の反復に重点を置きながら、ラピッド プロトタイピングを円滑に実行できます",
+    "url": "https://markforged.com/jp/icp/product-development",
+    "pass": 1
+   },
+   {
+    "quote": "また、リソースを大規模な生産に割り当てることができ、設計の反復に重点を置きながら、ラピッド プロトタイピングを円滑に実行できます",
+    "url": "https://markforged.com/jp/icp/product-development?__geom=%E2%9C%AA",
+    "pass": 1
+   },
+   {
+    "quote": "Impossible Objects、シリーズBで4,000万ドル調達―高速複合材3Dプリンター「CBAM 25」の量産展開を加速",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "米国の3DプリンターメーカーImpossible Objectsは2026年9月11日、シリーズBラウンドで4,000万ドル（1ドル約149円換算で約59億6,…",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "Tripo AI、約687億円を調達 生成AIで「実用可能な3Dモデル」を数秒で生成へ",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年からは金属パーツを製造できるメタル３Dプリンタの国内販売を開始、金属粉体を使わない安全性の高いFFF方式で、3,000万円〜という導入しやすい価格帯であるため、日本でも毎年広い業界で導入が進んでいます",
+    "url": "https://mono.ipros.com/company/detail/2087672/",
+    "pass": 3
+   }
+  ],
+  "誰から": [
+   {
+    "quote": "Hawk Ridge Systems Promoted to Diamond Level Partnership with Markforged",
+    "url": "https://markforged.com/jp/resources/news-events",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://markforged.com/icp/product-development?__geom=%E2%9C%AA",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://markforged.com/resources/case-studies?__geom=%E2%9C%AA",
+    "pass": 1
+   },
+   {
+    "quote": "We have remote teams and partners across the US, Canada, Europe, UK, Asia, and Australia. These teams work with customers on-the-ground to transform their operations.",
+    "url": "https://markforged.com/about/company?__geom=%E2%9C%AA",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers",
+    "url": "https://markforged.com/about/company?__geom=%E2%9C%AA",
+    "pass": 1
+   },
+   {
+    "quote": "We have remote teams and partners across the US, Canada, Europe, UK, Asia, and Australia. These teams work with customers on-the-ground to transform their operations.",
+    "url": "https://markforged.com/de/about/company?__geom=%E2%9C%AA",
+    "pass": 1
+   },
+   {
+    "quote": "Possiamo contare su team e partner remoti negli Stati Uniti, in Canada, Europa, Regno Unito, Asia e Australia. I team lavorano con i clienti sul campo per trasformare le loro attività operative.",
+    "url": "https://markforged.com/it/about/company?__geom=%E2%9C%AA",
+    "pass": 1
+   },
+   {
+    "quote": "APPLE TREEがMarkforgedと販売代理店契約を締結 | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "APPLE TREEがMarkforgedと販売代理店契約を締結",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "（大阪府大阪市）が、アメリカの3DプリンターメーカーMarkforged社との販売代理店契約を2023年3月22日に締結した",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "第一実業、ExOneと国内販売代理店契約を締結―voxeljetと合わせ砂型3Dプリンターの提案体制を強化",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "総合機械商社の第一実業株式会社は、産業用3Dプリンティングソリューションを展開する株式会社ExOneと、砂型3Dプリンターの日本国内における販売代理店契約を締結…",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "中国の3DプリンターFLASHFORGE社の日本総代理店であるAPPLE TREE株式会社が、東京都港区の東京支社にて、3Dプリンター・3Dスキャナーの実機やサ …",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "FLASHFORGEの国内総代理店を務めるAPPLE TREEは、ガラスビルドプレートを搭載した家庭用3Dプリンター「Adventure4 Lite」の国内向け販売を開始した",
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターメーカー「Markforged」社と販売代理店契約を締結、大阪にショールームを新設 | 3Dプリンター/3DスキャナーならAPPLE TREE株式会社",
+    "url": "https://apple-tree.co.jp/123559-2/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターメーカー「Markforged」社と販売代理店契約を締結、大阪にショールームを新設",
+    "url": "https://apple-tree.co.jp/123559-2/",
+    "pass": 3
+   },
+   {
+    "quote": "APPLE TREE株式会社は、3月22日(水)に世界をリードする3Dプリンターメーカー「Markforged」社と販売代理店契約を締結しました",
+    "url": "https://apple-tree.co.jp/123559-2/",
+    "pass": 3
+   },
+   {
+    "quote": "APPLE TREE社との販売代理店契約の締結、同社の大阪ショールームの新設、そして弊社製のカーボンファイバー3Dプリンタのデモマシンの導入が完了して、販売活動を開始していただけたことを大変嬉しく思います",
+    "url": "https://apple-tree.co.jp/123559-2/",
+    "pass": 3
+   },
+   {
+    "quote": "マークフォージド・ジャパンは、APPLE TREE社と3Dプリンタの代理店契約を締結 | マークフォージド・ジャパンのプレスリリース | 共同通信PRワイヤー",
+    "url": "https://kyodonewsprwire.jp/release/202305195759",
+    "pass": 3
+   },
+   {
+    "quote": "提携サイトのお問い合わせ",
+    "url": "https://kyodonewsprwire.jp/release/202305195759",
+    "pass": 3
+   },
+   {
+    "quote": "プレスリリース掲載・提携サイト",
+    "url": "https://kyodonewsprwire.jp/release/202305195759",
+    "pass": 3
+   },
+   {
+    "quote": "マークフォージド・ジャパンは、APPLE TREE社と3Dプリンタの代理店契約を締結",
+    "url": "https://kyodonewsprwire.jp/release/202305195759",
+    "pass": 3
+   },
+   {
+    "quote": "プリンタの代理店契約を締結",
+    "url": "https://kyodonewsprwire.jp/release/202305195759",
+    "pass": 3
+   },
+   {
+    "quote": "マークフォージド・ジャパン株式会社（東京都中央区、代表取締役社長：トーマス・パン）は、APPLE TREE株式会社（大阪市中央区、代表取締役社長：朴 秀明（ボク シュウメイ））と販売代理店契約を締結、APPLE TREE社が新設した大阪ショールームにマークフォージド製のデモマシンを設置し、本日付で販売活動を開始したことを発表しました",
+    "url": "https://kyodonewsprwire.jp/release/202305195759",
+    "pass": 3
+   },
+   {
+    "quote": "「APPLE TREE社との代理店契約の締結、そして同社の大阪ショールームの新設とデモマシンの導入が完了し、本日付で販売活動を開始していただけたことを大変嬉しく思います",
+    "url": "https://kyodonewsprwire.jp/release/202305195759",
+    "pass": 3
+   },
+   {
+    "quote": "提携・M＆A・新会社・IPO",
+    "url": "https://kyodonewsprwire.jp/release/202305195759",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "マークフォージド ・ ジャパン は、APPLE TREE社と3D ... — マークフォージド ・ ジャパン は、APPLE TREE社と3D ... 共同通信PRワイヤー https://kyodonewsprwire.jp > release",
+    "url": "https://kyodonewsprwire.jp/release/202305195759",
+    "pass": 3
+   },
+   {
+    "quote": "マークフォージド ・ ジャパン | 企業情報 | イプロスものづくり — マークフォージド ・ ジャパン | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 産業用機械",
+    "url": "https://mono.ipros.com/company/detail/2087672/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://markforged.com/jp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/jp/resources/blog",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/jp/icp/product-development",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/jp/resources/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/jp/about/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/jp/resources/manufacturing-applications",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/jp/resources/news-events",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/jp/resources/application-spotlights/sophisticated-production-systems-with-yamaha-fine-technologies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/icp/product-development?__geom=%E2%9C%AA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/de/icp/product-development?__geom=%E2%9C%AA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/es/icp/product-development?__geom=%E2%9C%AA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/fr/icp/product-development?__geom=%E2%9C%AA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/it/icp/product-development?__geom=%E2%9C%AA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/jp/icp/product-development?__geom=%E2%9C%AA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/resources/case-studies?__geom=%E2%9C%AA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/de/resources/case-studies?__geom=%E2%9C%AA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/es/resources/case-studies?__geom=%E2%9C%AA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/fr/resources/case-studies?__geom=%E2%9C%AA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/it/resources/case-studies?__geom=%E2%9C%AA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/jp/resources/case-studies?__geom=%E2%9C%AA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/about/company?__geom=%E2%9C%AA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/de/about/company?__geom=%E2%9C%AA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/es/about/company?__geom=%E2%9C%AA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/fr/about/company?__geom=%E2%9C%AA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/it/about/company?__geom=%E2%9C%AA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/jp/about/company?__geom=%E2%9C%AA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/jp/resources/manufacturing-applications/soft-jaws",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/jp/resources/manufacturing-applications/welding-fixtures",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/jp/resources/manufacturing-applications/process-automation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/jp/resources/manufacturing-applications/end-of-arm-tooling",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://s3.us-east-1.amazonaws.com/static.markforged.com/downloads/Printer-Lineup-Staircased-1.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://apple-tree.co.jp/123559-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyodonewsprwire.jp/release/202305195759",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.datadesign.co.jp/markforged/casestudy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2503/17/news069.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricoh.co.jp/3dp/lineup/markforged",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprinter.co.jp/product/markforged/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2087672/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprinter.co.jp/cms3d/wp-content/uploads/2022/09/J3P_Markforged_0808_WEB.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "マークフォージド・ジャパン 代理店 契約",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "https://apple-tree.co.jp/123559-2/",
+    "https://kyodonewsprwire.jp/release/202305195759",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=8575",
+    "https://3dprinter.co.jp/news/7912/",
+    "https://markforged.com/jp/terms-conditions",
+    "https://www.datadesign.co.jp/markforged/",
+    "https://monoist.itmedia.co.jp/mn/articles/2503/17/news069_2.html",
+    "https://metoree.com/companies/43178/distributors/",
+    "https://apple-tree.co.jp/brand/markforged/"
+   ]
+  },
+  {
+   "query": "マークフォージド・ジャパン 導入事例",
+   "results": [
+    "https://www.datadesign.co.jp/markforged/casestudy/",
+    "https://markforged.com/jp/resources/case-studies",
+    "https://monoist.itmedia.co.jp/mn/articles/2503/17/news069.html",
+    "https://3dprinter.co.jp/product/markforged/",
+    "https://www.fasotec.co.jp/event/139",
+    "https://www.youtube.com/watch?v=TvPuoWNfl_E",
+    "https://markforged.com/jp/resources/case-studies/united-states-army",
+    "https://jp.ext.hp.com/printers/3d-printers/casestudy/",
+    "https://www.datadesign.co.jp/markforged/casestudy/p6252/",
+    "https://www.aperza.com/catalog/page/10012238/63066/"
+   ]
+  },
+  {
+   "query": "マークフォージド・ジャパン 価格 OR 料金",
+   "results": [
+    "https://www.ricoh.co.jp/3dp/lineup/markforged/",
+    "https://markforged.com/jp",
+    "https://3dprinter.co.jp/product/markforged/",
+    "https://cad-kenkyujo.com/markforged-2/",
+    "https://www.datadesign.co.jp/markforged/lease/",
+    "https://mono.ipros.com/company/detail/2087672/catalog/",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/markforged-211221/",
+    "https://jsaas.jp/store/detail/1058",
+    "https://www.fasotec.co.jp/product/fx10",
+    "https://www.datadesign.co.jp/markforged/lineup/"
+   ]
+  },
+  {
+   "query": "マークフォージド・ジャパン 受託 造形",
+   "results": [
+    "https://mono.ipros.com/company/detail/2087672/",
+    "https://markforged.com/jp",
+    "https://3dprinter.co.jp/cms3d/wp-content/uploads/2022/09/J3P_Markforged_0808_WEB.pdf",
+    "https://prtimes.jp/main/html/rd/p/000000004.000132724.html",
+    "https://www.datadesign.co.jp/markforged/",
+    "https://news.sharelab.jp/interviews/markforeged-digitalmetal-221207/",
+    "https://www.facebook.com/MarkforgedJapan/",
+    "https://www.ricoh.co.jp/3dp/lineup/markforged/",
+    "https://3dprinter.co.jp/product/markforged/",
+    "https://markforged.com/jp/about/company"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式30頁／PDF・画像1件／外部9頁・検索4回）",
+  "従業員数": "記載なし（3回確認済み：公式30頁／PDF・画像1件／外部9頁・検索4回）",
+  "売上高": "記載なし（3回確認済み：公式30頁／PDF・画像1件／外部9頁・検索4回）",
+  "事業内容": "記載なし（3回確認済み：公式30頁／PDF・画像1件／外部9頁・検索4回）"
+ }
+}

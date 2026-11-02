@@ -1,0 +1,606 @@
+{
+ "name": "株式会社ディプロス",
+ "aliases": [],
+ "context": "/ KVS（ブルガリア）QUICKSURFACE",
+ "researched_at": "2026-11-02T12:16:58.839500+00:00",
+ "official_url": "",
+ "identified_by": "not_found",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2001年",
+    "url": "https://www.iguazu-xyz.jp/knowledge/usercase_03",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰から": [
+   {
+    "quote": "ディプロスは、Clarisの正規代理店、Claris",
+    "url": "https://www.dipross.co.jp/business/",
+    "pass": 3
+   }
+  ],
+  "何をする": [
+   {
+    "quote": "ヒトをコンサルティング・サポートいたします",
+    "url": "https://www.dipross.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "DTP・Web・システム開発・3DCAD・CGをはじめとしたディプロスのコンサルティングサービス",
+    "url": "https://www.dipross.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "人材コンサルティング",
+    "url": "https://www.dipross.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "専任のキャリアコンサルタントが、企業の経営戦略や方針などを理解した上で、ニーズに即した採用をコンサルティングし、最適な人材をご紹介します",
+    "url": "https://www.dipross.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "comrade（カムレッド）は、「求人サイト」×「採用コンサルティング」をキーワードに企業の採用力強化をサポートするサービスです",
+    "url": "https://www.dipross.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "ノーコードで誰でも編集更新しやすい採用サイトや、長年培ったエージェントとしてのノウハウを活かしたコンサルを行います",
+    "url": "https://www.dipross.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "プロダクト系受託開発",
+    "url": "https://www.dipross.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "開発初期のデザインから3Dモデリング、設計、試作までをワンストップで受託開発します",
+    "url": "https://www.dipross.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "VR上でカラーバリエーションの検討などデザインレビューを行うことにより試作費を大幅に削減できます",
+    "url": "https://www.dipross.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "3DCAD/CGソフト販売及び教育",
+    "url": "https://www.dipross.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "Rhinocerosを始めとした3DCAD、3DCGソフトの販売、教育サポートを行います",
+    "url": "https://www.dipross.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の使用用途に合わせた最適なソフトのご提案と担当業務を行うためのオーダーメイドトレーニングも多く行っております",
+    "url": "https://www.dipross.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dスキャナ販売/スキャン請負",
+    "url": "https://www.dipross.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンタ販売/造形出力",
+    "url": "https://www.dipross.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "使用頻度が低い場合や、突発的に部品が必要になった際には社内の3Dプリンタを用いた造形サービスで対応致します",
+    "url": "https://www.dipross.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "FileMaker構築/販売",
+    "url": "https://www.dipross.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "広告物の制作を受託します",
+    "url": "https://www.dipross.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "造形サービス",
+    "url": "https://www.iguazu-xyz.jp/knowledge/usercase_03",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター造形サービス",
+    "url": "https://www.iguazu-xyz.jp/knowledge/usercase_03",
+    "pass": 3
+   },
+   {
+    "quote": "ディプロス株式会社（以下ディプロス）はものづくりに関わる企業様に向けて、人材紹介や人材派遣、製品設計支援、3Dモデリング、3DCAD教育など「人」「情報」「技術」でトータルにお客様の課題解決しています",
+    "url": "https://www.iguazu-xyz.jp/knowledge/usercase_03",
+    "pass": 3
+   },
+   {
+    "quote": "そのためには、人材の教育や道具を取りそろえることはもちろん、道具を使いこなす人材教育も実施しています",
+    "url": "https://www.iguazu-xyz.jp/knowledge/usercase_03",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、勘合やストロークの問題、内部に搭載しているギア噛み合い等の問題が見つかった時に、3Dプリンターで確認して、問題を摘み取りながら設計できるので設計者は安心して業務に取り組むことができます",
+    "url": "https://www.iguazu-xyz.jp/knowledge/usercase_03",
+    "pass": 3
+   },
+   {
+    "quote": "本試作前の大きい試作を作成する前工程で問題個所をつぶせているので、お客様にも安心していただいてます",
+    "url": "https://www.iguazu-xyz.jp/knowledge/usercase_03",
+    "pass": 3
+   },
+   {
+    "quote": "ディプロスでは、現物の試作以外に、3Dモデリングされた製品をVRの仮想空間に配置することで、実際に設置する場所に置いた際の全体的な雰囲気を掴む事や、コントローラーを用いて操作性を確認するといったことができるバーチャルリアリティをプロトタイピングに適用して展開しています",
+    "url": "https://www.iguazu-xyz.jp/knowledge/usercase_03",
+    "pass": 3
+   },
+   {
+    "quote": "XYZプリンティング社より株式会社イグアスへ日本国内での販売品に係わるアフターサービス業務が業務移管されました",
+    "url": "https://www.iguazu-xyz.jp/knowledge/usercase_03",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社イグアスが引き続きXYZプリンティング社の消耗品・材料マテリアル、部品・パーツの販売と保守サポートを行ってまいります",
+    "url": "https://www.iguazu-xyz.jp/knowledge/usercase_03",
+    "pass": 3
+   },
+   {
+    "quote": "Rhinocerosトレーニング",
+    "url": "https://www.dipross-online.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Rhinocerosの習得を目指す方に向けた操作講習を開催しております",
+    "url": "https://www.dipross-online.com/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dスキャナー販売",
+    "url": "https://dipross.co.jp/eng/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター販売",
+    "url": "https://dipross.co.jp/eng/",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェア販売",
+    "url": "https://dipross.co.jp/eng/",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェア操作講習",
+    "url": "https://dipross.co.jp/eng/",
+    "pass": 3
+   },
+   {
+    "quote": "無料セミナー",
+    "url": "https://dipross.co.jp/eng/",
+    "pass": 3
+   },
+   {
+    "quote": "現在のスキルに合わせたCADソフトのトレーニング、オンライン教育も承ります",
+    "url": "https://dipross.co.jp/eng/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dスキャンからスキャンデータの修正・CAD化・2D図面化などの受託業務を行います",
+    "url": "https://dipross.co.jp/eng/",
+    "pass": 3
+   },
+   {
+    "quote": "また、固定式３Dスキャナーのレンタルも行っています",
+    "url": "https://dipross.co.jp/eng/",
+    "pass": 3
+   },
+   {
+    "quote": "Rhinocerosを始めとした各種CADとプラグイン、VRビジュアライゼーションソフトのwevizを販売しています",
+    "url": "https://dipross.co.jp/eng/",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェアの操作講習をご用意しています",
+    "url": "https://dipross.co.jp/eng/",
+    "pass": 3
+   },
+   {
+    "quote": "当社のサービス（受託開発/制作請負事業、人材サービス事業、教育/販売事業）、およびそれらに付帯する正当な関連業務の遂行のため",
+    "url": "https://dipross.co.jp/eng/",
+    "pass": 3
+   },
+   {
+    "quote": "求人企業及び職業紹介会社への、採用業務及び職業紹介業務に関するコンサルティング",
+    "url": "https://dipross.co.jp/eng/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "お客様の使用用途に合わせた最適なソフトのご提案と担当業務を行うためのオーダーメイドトレーニングも多く行っております",
+    "url": "https://www.dipross.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "HPの新規制作、既存リニューアルなどお客様の業務や用途に合わせたWEB制作/システム開発を提案、構築します",
+    "url": "https://www.dipross.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "【ユーザー様活用事例 3】ディプロス株式会社 様｜活用事例｜XYZprinting × IGUAZU",
+    "url": "https://www.iguazu-xyz.jp/knowledge/usercase_03",
+    "pass": 3
+   },
+   {
+    "quote": "【ユーザー様活用事例 3】",
+    "url": "https://www.iguazu-xyz.jp/knowledge/usercase_03",
+    "pass": 3
+   },
+   {
+    "quote": "【ユーザー様活用事例 3】ディプロス株式会社 様",
+    "url": "https://www.iguazu-xyz.jp/knowledge/usercase_03",
+    "pass": 3
+   },
+   {
+    "quote": "ディプロス株式会社（以下ディプロス）はものづくりに関わる企業様に向けて、人材紹介や人材派遣、製品設計支援、3Dモデリング、3DCAD教育など「人」「情報」「技術」でトータルにお客様の課題解決しています",
+    "url": "https://www.iguazu-xyz.jp/knowledge/usercase_03",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の課題解決には技術の見定めが重要",
+    "url": "https://www.iguazu-xyz.jp/knowledge/usercase_03",
+    "pass": 3
+   },
+   {
+    "quote": "東海地方を拠点としているのでお客様は製造業がメインです",
+    "url": "https://www.iguazu-xyz.jp/knowledge/usercase_03",
+    "pass": 3
+   },
+   {
+    "quote": "それぞれの業種のお客様が抱えている課題を解決するには技術に精通していないと解決できません",
+    "url": "https://www.iguazu-xyz.jp/knowledge/usercase_03",
+    "pass": 3
+   },
+   {
+    "quote": "お客様のご要件を正確に把握して、課題解決するための必要なリソースをご提供するには技術の見定めは非常に重要です",
+    "url": "https://www.iguazu-xyz.jp/knowledge/usercase_03",
+    "pass": 3
+   },
+   {
+    "quote": "私が所属するエンジニアリング事業部では、お客様からご依頼の多い意匠モデリングやリバースエンジニアリングに対応したツールとして3DCADや3DCG、ボクセルモデリングツール、3Dスキャナー、3Dプリンターを使いこなしています",
+    "url": "https://www.iguazu-xyz.jp/knowledge/usercase_03",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターが無かった時は、社内でモデリングをしていてもお客様のご要件に沿っているかが分かり辛く、そもそも形状として成り立っているかわかり辛かったのが、今では“さっと”確認できます",
+    "url": "https://www.iguazu-xyz.jp/knowledge/usercase_03",
+    "pass": 3
+   },
+   {
+    "quote": "自社での確認だけでなく、お客様への確認にも有効活用しています",
+    "url": "https://www.iguazu-xyz.jp/knowledge/usercase_03",
+    "pass": 3
+   },
+   {
+    "quote": "本試作前の大きい試作を作成する前工程で問題個所をつぶせているので、お客様にも安心していただいてます",
+    "url": "https://www.iguazu-xyz.jp/knowledge/usercase_03",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターを用いてバーチャル上のボタンと現実上のボタンを一致させて、現実のボタンを触るとバーチャル空間に反応帰ってくるような仕掛けで、よりリアリティのある世界をお客様にご提供したいと考えています",
+    "url": "https://www.iguazu-xyz.jp/knowledge/usercase_03",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザー様活用事例",
+    "url": "https://www.iguazu-xyz.jp/knowledge/usercase_03",
+    "pass": 3
+   },
+   {
+    "quote": "お客様より取得させていただいた個人情報は、 弊社で厳重に管理し第三者に提供しないものとします",
+    "url": "https://www.dipross-online.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ただつくる、ただ売るのではなくお客様の実現したい「想い」をカタチにするため様々な組み合わせでサービスを提供しています",
+    "url": "https://dipross.co.jp/eng/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の作りたい",
+    "url": "https://dipross.co.jp/eng/",
+    "pass": 3
+   },
+   {
+    "quote": "※なお、「Cookie」は、ユーザー側のブラウザ操作により拒否することも可能です",
+    "url": "https://dipross.co.jp/eng/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "積層方式、光造形ともに低価格高精度の製品を取り揃えています",
+    "url": "https://www.dipross.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社イグアスが引き続きXYZプリンティング社の消耗品・材料マテリアル、部品・パーツの販売と保守サポートを行ってまいります",
+    "url": "https://www.iguazu-xyz.jp/knowledge/usercase_03",
+    "pass": 3
+   },
+   {
+    "quote": "柔軟性・精度・価格の3つのメリットで導入しやすいCADソフトです",
+    "url": "https://www.dipross-online.com/",
+    "pass": 3
+   },
+   {
+    "quote": "低価格なスタンドアロンの3Dリバースエンジニアリングソフトウェアです",
+    "url": "https://www.dipross-online.com/",
+    "pass": 3
+   },
+   {
+    "quote": "全ての機能が搭載された新規ライセンス",
+    "url": "https://www.dipross-online.com/",
+    "pass": 3
+   },
+   {
+    "quote": "XNurbs for Rhino スタンドアロンライセンス",
+    "url": "https://www.dipross-online.com/",
+    "pass": 3
+   },
+   {
+    "quote": "XNurbs for SOLIDWORKS スタンドアロンライセンス",
+    "url": "https://www.dipross-online.com/",
+    "pass": 3
+   },
+   {
+    "quote": "最新バージョンの新規ライセンス",
+    "url": "https://www.dipross-online.com/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "OUR BUSINESS - ディプロス 株式会社 — OUR BUSINESS - ディプロス 株式会社 ディプロス株式会社 https://www.dipross.co.jp > business",
+    "url": "https://www.dipross.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "【ユーザー様活用 事例 3】 ディプロス 株式会社 様 — 【ユーザー様活用 事例 3】 ディプロス 株式会社 様 XYZプリンティング https://www.iguazu-xyz.jp > 活用事例",
+    "url": "https://www.iguazu-xyz.jp/knowledge/usercase_03",
+    "pass": 3
+   },
+   {
+    "quote": "ディプロス 株式会社の事業とカルチャー - Wantedly — ディプロス 株式会社の事業とカルチャー - Wantedly Wantedly https://www.wantedly.com > ... > ディプロス株式会社",
+    "url": "https://www.wantedly.com/companies/dipross2/about",
+    "pass": 3
+   },
+   {
+    "quote": "ディプロス オンラインショップ — ディプロス オンラインショップ dipross-online.com https://www.dipross-online.com",
+    "url": "https://www.dipross-online.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ディプロス 株式会社 エンジニアリング事業部 — ディプロス 株式会社 エンジニアリング事業部 ディプロス株式会社 https://dipross.co.jp > eng",
+    "url": "https://dipross.co.jp/eng/",
+    "pass": 3
+   },
+   {
+    "quote": "ディプロス オンラインショップ - Shop — ディプロス オンラインショップ - Shop Shop https://shop.com > ...",
+    "url": "https://shop.com/m/157f3xny6r",
+    "pass": 3
+   },
+   {
+    "quote": "ディプロス 株式会社 採用ホームページ [採用・求人情報] — ディプロス 株式会社 採用ホームページ [採用・求人情報] job-gear.net https://job-gear.net > dipross",
+    "url": "https://job-gear.net/dipross/",
+    "pass": 3
+   },
+   {
+    "quote": "ディプロス 株式会社 の求人・中途採用情報 - doda — ディプロス 株式会社 の求人・中途採用情報 - doda doda https://doda.jp > CompanyJobs > j_id__10145273598",
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10145273598/",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "ディプロスで一番最初に導入した3Dプリンターは十数万円の小型の3Dプリンターでした",
+    "url": "https://www.iguazu-xyz.jp/knowledge/usercase_03",
+    "pass": 3
+   },
+   {
+    "quote": "その時、たまたま東京で開催していた3Dプリンター関連の展示会で398,000円で業務用の光造形機を見つけ、すぐに購入を検討しました",
+    "url": "https://www.iguazu-xyz.jp/knowledge/usercase_03",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.dipross.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partnersuccess.jp/media/humanresources-industry-partnerbusinness",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iguazu-xyz.jp/knowledge/usercase_03",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hrbc.porters.jp/case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dipro.co.jp/product/dataclasys/casestudy_02",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dipross-online.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dipross.co.jp/eng/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop.com/m/157f3xny6r",
+    "status": "http_429",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lumex-matsuura.com/japan/contracted",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ディプロス",
+   "results": [
+    "https://www.dipross.co.jp/",
+    "https://www.dipross.jp/",
+    "https://www.dipross-online.com/",
+    "https://en-gage.net/dipross/",
+    "https://tenshoku.mynavi.jp/company/288923/",
+    "https://job-gear.net/dipross/",
+    "https://ja.wikipedia.org/wiki/ディプロマミル",
+    "https://www.bungie.net/7/en/User/Account/EmailSms",
+    "https://www.bungie.net/en/Forums/Post/247739642",
+    "https://www.bungie.net/en/Forums/Post/248984700"
+   ]
+  },
+  {
+   "query": "株式会社ディプロス",
+   "results": [
+    "https://www.dipross.co.jp/",
+    "https://tenshoku.mynavi.jp/company/288923/",
+    "https://www.openwork.jp/company.php?m_id=a0C1000000yzYBG",
+    "https://www.dipross.jp/",
+    "https://job-gear.net/dipross/",
+    "https://en-hyouban.com/company/10054036860/",
+    "https://en-gage.net/dipross/",
+    "https://www.wantedly.com/companies/dipross2/about",
+    "https://ja.wikipedia.org/wiki/株式会社ディスコ",
+    "https://webmail.apps.mil/mail/?realm=army.mil"
+   ]
+  },
+  {
+   "query": "ディプロス 株式会社",
+   "results": [
+    "https://www.dipross.co.jp/",
+    "https://tenshoku.mynavi.jp/company/288923/",
+    "https://www.dipross.jp/",
+    "https://www.openwork.jp/company.php?m_id=a0C1000000yzYBG",
+    "https://dipross.comrade-co.jp/company",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10145273598/",
+    "https://weather.com/",
+    "https://weather.com/us/georgia/city/atlanta/today",
+    "https://www.msn.com/weather",
+    "http://accuweather.com/"
+   ]
+  },
+  {
+   "query": "ディプロス 代理店 契約",
+   "results": [
+    "https://www.dipross.co.jp/business/",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://partnersuccess.jp/media/humanresources-industry-partnerbusinness",
+    "https://www.human-resource.jp/agents/",
+    "https://b-seeds.com/business/use/contract/distributor",
+    "https://www.deex.co.jp/media/YoXZrDL1",
+    "https://www.qlc-sys.jp/partner/",
+    "https://dairitenboshu.com/",
+    "https://partnersales.biz/partnersales-general/types-of-partner-agreements-1/",
+    "https://techcommunity.microsoft.com/blog/skills-hub-blog/new-microsoft-certified-azure-ai-apps-and-agents-developer-associate/4494126"
+   ]
+  },
+  {
+   "query": "ディプロス 導入事例",
+   "results": [
+    "https://www.iguazu-xyz.jp/knowledge/usercase_03",
+    "https://hrbc.porters.jp/case/",
+    "https://www.dipro.co.jp/product/dataclasys/casestudy_02",
+    "https://deep-growth-partners.com/case",
+    "https://www.wantedly.com/companies/dipross2/about",
+    "https://dipross.co.jp/eng/",
+    "https://pr.mono.ipros.com/Industria/product/category/65750/",
+    "https://www.mediaplus.co.jp/casestudy/",
+    "https://mfg.dentsusoken.com/case/",
+    "https://en.wikipedia.org/wiki/History_of_the_Daytona_500"
+   ]
+  },
+  {
+   "query": "ディプロス 価格 OR 料金",
+   "results": [
+    "https://www.dipross-online.com/",
+    "https://dipross.co.jp/eng/",
+    "https://shop.com/m/157f3xny6r",
+    "https://job-gear.net/dipross/",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10145273598/",
+    "https://mono.ipros.com/company/detail/2115914/catalog/",
+    "https://en-gage.net/dipross/",
+    "https://next.rikunabi.com/viewjob/jk97629004c38b968c/",
+    "https://www.dipross.co.jp/hr-service/",
+    "https://weather.com/us/florida/city/apopka/tenday"
+   ]
+  },
+  {
+   "query": "ディプロス 受託 造形",
+   "results": [
+    "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "https://www.lumex-matsuura.com/japan/contracted",
+    "https://online.solize.com/blog/metal-outsourcing",
+    "https://jampt.jp/service/prototype/",
+    "https://jtdtky.co.jp/product/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "https://www.tpc.toray/technology/additive-print/",
+    "https://rightmfg.co.jp/lp/m3dp.html",
+    "https://dipross.co.jp/eng/service/printer",
+    "https://www.grantsfinder.eu/blog/eu-grants-italy"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索7回）",
+  "売上高": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索7回）",
+  "事業内容": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索7回）",
+  "取引先": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部12頁・検索7回）"
+ }
+}

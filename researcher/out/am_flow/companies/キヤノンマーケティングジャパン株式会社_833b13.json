@@ -1,0 +1,1475 @@
+{
+ "name": "キヤノンマーケティングジャパン株式会社",
+ "aliases": [],
+ "context": "輸入装置 / 3D Systems；3D Systems（米）",
+ "researched_at": "2026-11-02T12:12:57.348445+00:00",
+ "official_url": "https://canon.jp",
+ "identified_by": "given",
+ "profile": {
+  "従業員数": [
+   {
+    "label": "従業員数から探す",
+    "value": "すべて 1-49名 50-99名 100-299名 300-999名 1,000-2,999名 3,000-9,999名 10,000名以上",
+    "url": "https://canon.jp/biz/case?id=hn",
+    "pass": 1
+   },
+   {
+    "label": "従業員数から探す",
+    "value": "すべて 1-49名 50-99名 100-299名 300-999名 1,000-2,999名 3,000-9,999名 10,000名以上",
+    "url": "https://canon.jp/biz/case",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "18,326名（連結、2025年1月31日現在）",
+    "url": "https://corporate.jp.canon/newsroom/newsrelease/2025/pr-1126a",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "63名（正社員29名、契約社員32名、嘱託社員2名） ※ 2025年9月1日時点",
+    "url": "https://corporate.jp.canon/newsroom/newsrelease/2025/pr-1126a",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "4,563名（2025年12月31日現在）",
+    "url": "https://www.canon-its.co.jp/solution/industry/cross-industry/case/cato-sase-01",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "キヤノン製品ならびに関連ソリューションの国内マーケティング",
+    "url": "https://corporate.jp.canon/newsroom/newsrelease/2025/pr-1126a",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "顔認証システム運用トータルサポート 防犯セキュリティコンサルティング マーケティングサポート",
+    "url": "https://corporate.jp.canon/newsroom/newsrelease/2025/pr-1126a",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "グローバルキヤノングループの中核企業として、日本国内におけるキヤノン製品のマーケティング活動を担うとともに、キヤノン製品とITソリューション製品を組み合わせた「コンスーマ」「エンタープライズ」「エリア」「プロフェッショナル」の4つの分野で事業を展開するサービス創造企業。お客さまの課題解決につながる付加価値の高いソリューションの提案と新たな価値創造に取り組んでいます。",
+    "url": "https://www.canon-its.co.jp/solution/industry/cross-industry/case/cato-sase-01",
+    "pass": 3
+   }
+  ],
+  "設立": [
+   {
+    "label": "設立年月日",
+    "value": "1968年2月1日",
+    "url": "https://corporate.jp.canon/newsroom/newsrelease/2025/pr-1126a",
+    "pass": 3
+   },
+   {
+    "label": "設立年月日",
+    "value": "2015年9月11日",
+    "url": "https://corporate.jp.canon/newsroom/newsrelease/2025/pr-1126a",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "1968年",
+    "url": "https://www.canon-its.co.jp/solution/industry/cross-industry/case/cato-sase-01",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何をする": [
+   {
+    "quote": "ニュースリリース",
+    "url": "https://canon.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "中小企業のゼロトラスト対応を支援するSASEサービスを販売開始",
+    "url": "https://canon.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースリリース一覧へ",
+    "url": "https://canon.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "イベント・セミナー情報",
+    "url": "https://canon.jp/biz/product?id=hn",
+    "pass": 1
+   },
+   {
+    "quote": "イベント・セミナー",
+    "url": "https://canon.jp/biz/product?id=hn",
+    "pass": 1
+   },
+   {
+    "quote": "石英ナノ加工（受託微細加工サービス）",
+    "url": "https://canon.jp/biz/product?id=hn",
+    "pass": 1
+   },
+   {
+    "quote": "イベント・セミナー情報",
+    "url": "https://canon.jp/biz/case?id=hn",
+    "pass": 1
+   },
+   {
+    "quote": "イベント・セミナー",
+    "url": "https://canon.jp/biz/case?id=hn",
+    "pass": 1
+   },
+   {
+    "quote": "イベント・セミナー",
+    "url": "https://canon.jp/support?id=hn",
+    "pass": 1
+   },
+   {
+    "quote": "ハードウエア保守サービスのご案内",
+    "url": "https://canon.jp/support?id=hn",
+    "pass": 1
+   },
+   {
+    "quote": "大判プリンター「iPFシリーズ」をご使用のお客さまへ消耗品販売終了のお知らせ",
+    "url": "https://canon.jp/support?id=hn",
+    "pass": 1
+   },
+   {
+    "quote": "イベント・セミナー",
+    "url": "https://canon.jp/support/faq?id=hn",
+    "pass": 1
+   },
+   {
+    "quote": "ハードウエア保守サービスのご案内",
+    "url": "https://canon.jp/support/faq?id=hn",
+    "pass": 1
+   },
+   {
+    "quote": "イベント・セミナー",
+    "url": "https://canon.jp/support/manual?id=hn",
+    "pass": 1
+   },
+   {
+    "quote": "ハードウエア保守サービスのご案内",
+    "url": "https://canon.jp/support/manual?id=hn",
+    "pass": 1
+   },
+   {
+    "quote": "イベント・セミナー",
+    "url": "https://canon.jp/support/software?id=hn",
+    "pass": 1
+   },
+   {
+    "quote": "ハードウエア保守サービスのご案内",
+    "url": "https://canon.jp/support/software?id=hn",
+    "pass": 1
+   },
+   {
+    "quote": "イベント・セミナー",
+    "url": "https://canon.jp/support/repair-index?id=hn",
+    "pass": 1
+   },
+   {
+    "quote": "ハードウエア保守サービスのご案内",
+    "url": "https://canon.jp/support/repair-index?id=hn",
+    "pass": 1
+   },
+   {
+    "quote": "フィルム一眼レフカメラ「EOS-1V」販売終了と修理対応期間延長に関するお知らせ（更新）",
+    "url": "https://canon.jp/support/repair-index?id=hn",
+    "pass": 1
+   },
+   {
+    "quote": "イベント・セミナー",
+    "url": "https://canon.jp/support",
+    "pass": 1
+   },
+   {
+    "quote": "ハードウエア保守サービスのご案内",
+    "url": "https://canon.jp/support",
+    "pass": 1
+   },
+   {
+    "quote": "大判プリンター「iPFシリーズ」をご使用のお客さまへ消耗品販売終了のお知らせ",
+    "url": "https://canon.jp/support",
+    "pass": 1
+   },
+   {
+    "quote": "イベント・セミナー",
+    "url": "https://canon.jp/support/software?id=top",
+    "pass": 1
+   },
+   {
+    "quote": "ハードウエア保守サービスのご案内",
+    "url": "https://canon.jp/support/software?id=top",
+    "pass": 1
+   },
+   {
+    "quote": "イベント・セミナー",
+    "url": "https://canon.jp/support/manual?id=top",
+    "pass": 1
+   },
+   {
+    "quote": "ハードウエア保守サービスのご案内",
+    "url": "https://canon.jp/support/manual?id=top",
+    "pass": 1
+   },
+   {
+    "quote": "イベント・セミナー",
+    "url": "https://canon.jp/support/faq?id=top",
+    "pass": 1
+   },
+   {
+    "quote": "ハードウエア保守サービスのご案内",
+    "url": "https://canon.jp/support/faq?id=top",
+    "pass": 1
+   },
+   {
+    "quote": "イベント・セミナー",
+    "url": "https://canon.jp/support/important-info",
+    "pass": 1
+   },
+   {
+    "quote": "ハードウエア保守サービスのご案内",
+    "url": "https://canon.jp/support/important-info",
+    "pass": 1
+   },
+   {
+    "quote": "イベント・セミナー",
+    "url": "https://canon.jp/support/disaster-info",
+    "pass": 1
+   },
+   {
+    "quote": "ハードウエア保守サービスのご案内",
+    "url": "https://canon.jp/support/disaster-info",
+    "pass": 1
+   },
+   {
+    "quote": "イベント・セミナー情報",
+    "url": "https://canon.jp/biz/product/office-device/imageformula/lineup/dr-c350",
+    "pass": 1
+   },
+   {
+    "quote": "イベント・セミナー",
+    "url": "https://canon.jp/biz/product/office-device/imageformula/lineup/dr-c350",
+    "pass": 1
+   },
+   {
+    "quote": "保守サービス",
+    "url": "https://canon.jp/biz/product/office-device/imageformula/lineup/dr-c350",
+    "pass": 1
+   },
+   {
+    "quote": "設置しやすいコンパクト設計",
+    "url": "https://canon.jp/biz/product/office-device/imageformula/lineup/dr-c350",
+    "pass": 1
+   },
+   {
+    "quote": "イベント・セミナー情報",
+    "url": "https://canon.jp/biz/case",
+    "pass": 1
+   },
+   {
+    "quote": "イベント・セミナー",
+    "url": "https://canon.jp/biz/case",
+    "pass": 1
+   },
+   {
+    "quote": "イベント・セミナー情報",
+    "url": "https://canon.jp/biz/product",
+    "pass": 1
+   },
+   {
+    "quote": "イベント・セミナー",
+    "url": "https://canon.jp/biz/product",
+    "pass": 1
+   },
+   {
+    "quote": "石英ナノ加工（受託微細加工サービス）",
+    "url": "https://canon.jp/biz/product",
+    "pass": 1
+   },
+   {
+    "quote": "イベント・セミナー",
+    "url": "https://canon.jp/support/faq",
+    "pass": 1
+   },
+   {
+    "quote": "ハードウエア保守サービスのご案内",
+    "url": "https://canon.jp/support/faq",
+    "pass": 1
+   },
+   {
+    "quote": "イベント・セミナー",
+    "url": "https://canon.jp/support/repair-index",
+    "pass": 1
+   },
+   {
+    "quote": "ハードウエア保守サービスのご案内",
+    "url": "https://canon.jp/support/repair-index",
+    "pass": 1
+   },
+   {
+    "quote": "フィルム一眼レフカメラ「EOS-1V」販売終了と修理対応期間延長に関するお知らせ（更新）",
+    "url": "https://canon.jp/support/repair-index",
+    "pass": 1
+   },
+   {
+    "quote": "イベント・セミナー情報",
+    "url": "https://canon.jp/biz/solution/bizsupport",
+    "pass": 1
+   },
+   {
+    "quote": "イベント・セミナー",
+    "url": "https://canon.jp/biz/solution/bizsupport",
+    "pass": 1
+   },
+   {
+    "quote": "電力販売サービス",
+    "url": "https://canon.jp/biz/solution/bizsupport",
+    "pass": 1
+   },
+   {
+    "quote": "蓄積された活用ノウハウに基づいて、Salesforceのライセンス販売・各種サービスをご提案します",
+    "url": "https://canon.jp/biz/solution/bizsupport",
+    "pass": 1
+   },
+   {
+    "quote": "イベント・セミナー情報",
+    "url": "https://canon.jp/biz/product/camera",
+    "pass": 1
+   },
+   {
+    "quote": "イベント・セミナー",
+    "url": "https://canon.jp/biz/product/camera",
+    "pass": 1
+   },
+   {
+    "quote": "イベント・セミナー情報",
+    "url": "https://canon.jp/biz/product/printer",
+    "pass": 1
+   },
+   {
+    "quote": "イベント・セミナー",
+    "url": "https://canon.jp/biz/product/printer",
+    "pass": 1
+   },
+   {
+    "quote": "複合機やプリンターの稼働状態や消耗品残量をリアルタイムで監視し、迅速な修理・保守サービスを提供",
+    "url": "https://canon.jp/biz/product/printer",
+    "pass": 1
+   },
+   {
+    "quote": "誰にでも使いやすいユーザーフレンドリー設計が、抜群の操作性と業務の効率化を実現",
+    "url": "https://canon.jp/biz/product/printer",
+    "pass": 1
+   },
+   {
+    "quote": "プレート＆シートプリンター（販売終了）",
+    "url": "https://canon.jp/biz/product/printer",
+    "pass": 1
+   },
+   {
+    "quote": "イベント・セミナー情報",
+    "url": "https://canon.jp/biz/product/production-printer",
+    "pass": 1
+   },
+   {
+    "quote": "イベント・セミナー",
+    "url": "https://canon.jp/biz/product/production-printer",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "静止画メインのユーザーから、静止画・動画の両方に高い性能を求めるユーザーまで、幅広いハイアマチュアユーザーのニーズに応えます",
+    "url": "https://canon.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "リテイルフォト業界および印刷業界、サイン&ディスプレイ市場の屋内外広告や、壁紙、床装飾の印刷において新たなプリントの価値を提供し、商業・産業印刷の発展に貢献します",
+    "url": "https://canon.jp/biz/product?id=hn",
+    "pass": 1
+   },
+   {
+    "quote": "導入事例｜法人｜キヤノンMJグループ",
+    "url": "https://canon.jp/biz/case?id=hn",
+    "pass": 1
+   },
+   {
+    "quote": "顧客／従業員満足度向上",
+    "url": "https://canon.jp/biz/case?id=hn",
+    "pass": 1
+   },
+   {
+    "quote": "最新の導入事例",
+    "url": "https://canon.jp/biz/case?id=hn",
+    "pass": 1
+   },
+   {
+    "quote": "高度な検知力に加え、誤検知は最小限に迅速なサポート体制や多彩な機能も高評価、顧客へ自信をもって提案できると考え導入を決定",
+    "url": "https://canon.jp/biz/case?id=hn",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談センターでの電話・メール対応ならびにサービスセンター窓口対応およびQ&A情報の提供期間について",
+    "url": "https://canon.jp/support?id=hn",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談センターでの電話・メール対応ならびにサービスセンター窓口対応およびQ&A情報の提供期間について",
+    "url": "https://canon.jp/support/repair-index?id=hn",
+    "pass": 1
+   },
+   {
+    "quote": "2025～2026年 年末年始休業期間中のお客様相談センター・サービスセンター対応状況のご案内",
+    "url": "https://canon.jp/support/repair-index?id=hn",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談センターでの電話・メール対応ならびにサービスセンター窓口対応およびQ&A情報の提供期間について",
+    "url": "https://canon.jp/support",
+    "pass": 1
+   },
+   {
+    "quote": "使いやすいユーザーインターフェースです",
+    "url": "https://canon.jp/biz/product/office-device/imageformula/lineup/dr-c350",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談センター",
+    "url": "https://canon.jp/biz/product/office-device/imageformula/lineup/dr-c350",
+    "pass": 1
+   },
+   {
+    "quote": "導入事例｜法人｜キヤノンMJグループ",
+    "url": "https://canon.jp/biz/case",
+    "pass": 1
+   },
+   {
+    "quote": "顧客／従業員満足度向上",
+    "url": "https://canon.jp/biz/case",
+    "pass": 1
+   },
+   {
+    "quote": "最新の導入事例",
+    "url": "https://canon.jp/biz/case",
+    "pass": 1
+   },
+   {
+    "quote": "高度な検知力に加え、誤検知は最小限に迅速なサポート体制や多彩な機能も高評価、顧客へ自信をもって提案できると考え導入を決定",
+    "url": "https://canon.jp/biz/case",
+    "pass": 1
+   },
+   {
+    "quote": "リテイルフォト業界および印刷業界、サイン&ディスプレイ市場の屋内外広告や、壁紙、床装飾の印刷において新たなプリントの価値を提供し、商業・産業印刷の発展に貢献します",
+    "url": "https://canon.jp/biz/product",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談センターでの電話・メール対応ならびにサービスセンター窓口対応およびQ&A情報の提供期間について",
+    "url": "https://canon.jp/support/repair-index",
+    "pass": 1
+   },
+   {
+    "quote": "2025～2026年 年末年始休業期間中のお客様相談センター・サービスセンター対応状況のご案内",
+    "url": "https://canon.jp/support/repair-index",
+    "pass": 1
+   },
+   {
+    "quote": "データ管理、文書処理、顧客サポートなどの業務を効率化し、企業がコア業務に集中できる環境を提供します",
+    "url": "https://canon.jp/biz/solution/bizsupport",
+    "pass": 1
+   },
+   {
+    "quote": "顧客一人ひとりに最適化された専用ページで商談の受注率を最大化するデジタルセールスルーム",
+    "url": "https://canon.jp/biz/solution/bizsupport",
+    "pass": 1
+   },
+   {
+    "quote": "物流業界の業務DXをリードしていく",
+    "url": "https://canon.jp/biz/solution/bizsupport",
+    "pass": 1
+   },
+   {
+    "quote": "ファクスで受けた紙の注文書の処理をデジタル化するためにクラウド型のAI OCRソリューションを活用した株式会社タナカさまの導入事例です",
+    "url": "https://canon.jp/biz/solution/bizsupport",
+    "pass": 1
+   },
+   {
+    "quote": "アサヒ飲料株式会社さまのキヤノンSalesforce構築支援サービス導入事例を紹介します",
+    "url": "https://canon.jp/biz/solution/bizsupport",
+    "pass": 1
+   },
+   {
+    "quote": "4Kディスプレイの導入事例の一つをご紹介しています",
+    "url": "https://canon.jp/biz/product/camera",
+    "pass": 1
+   },
+   {
+    "quote": "POP作成に特化した「ポップエース・ファミリー」シリーズは、長年日本の流通・小売業界で利用されてきた定番ソフトウエアです",
+    "url": "https://canon.jp/biz/product/printer",
+    "pass": 1
+   },
+   {
+    "quote": "誰にでも使いやすいユーザーフレンドリー設計が、抜群の操作性と業務の効率化を実現",
+    "url": "https://canon.jp/biz/product/printer",
+    "pass": 1
+   },
+   {
+    "quote": "高画質・高信頼性を備えたプリンターとワークフローソフトウエアの提供により、印刷受注から後工程までの効率化と最適化を実現し、デジタル化が進む印刷業界で短納期・多品種少部数のニーズに応えます",
+    "url": "https://canon.jp/biz/product/production-printer",
+    "pass": 1
+   },
+   {
+    "quote": "デジタル化が進む印刷業界で短納期・多品種少部数のニーズに応えます",
+    "url": "https://canon.jp/biz/product/commercial-printing",
+    "pass": 1
+   },
+   {
+    "quote": "電子帳簿保存法に対応した プラットフォームサービスと顧客業務のDXを実現するアプリケーションサービスをご提供いたします",
+    "url": "https://canon.jp/biz/product/office-device",
+    "pass": 1
+   },
+   {
+    "quote": "福岡ひびき信用金庫 ネットワークスキャナー・イメージ管理システムの導入事例",
+    "url": "https://canon.jp/biz/product/office-device",
+    "pass": 1
+   },
+   {
+    "quote": "東日本三菱自動車販売株式会社 AED導入事例",
+    "url": "https://canon.jp/biz/product/office-device",
+    "pass": 1
+   },
+   {
+    "quote": "とちぎコープ生活協同組合 AED導入事例",
+    "url": "https://canon.jp/biz/product/office-device",
+    "pass": 1
+   },
+   {
+    "quote": "導入事例資料などをダウンロードできます",
+    "url": "https://canon.jp/-/media/Project/Canon/CanonJP/Website/business/solution/imageformula/lineup/common/banner-l.jpg?h=280&iar=0&w=920&sc_lang=ja-JP&hash=E8B450CD7953D6F67EEBDDC8452DE80E",
+    "pass": 2
+   },
+   {
+    "quote": "業種別に、エンドユーザー毎の課題を分析し、ビジネスパートナーとの連携を強化することで競争優位に⽴つ新たな付加価値を提供します",
+    "url": "https://corporate.jp.canon/recruit/experienced/0919",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスパートナー（販売代理店）と一緒にビジネスを進めることで、エンドユーザーからの期待に応えることができ、地域社会への貢献を実感できるやりがいのある仕事です",
+    "url": "https://corporate.jp.canon/recruit/experienced/0919",
+    "pass": 3
+   },
+   {
+    "quote": "中⼩・中堅・⼤⼿企業に対して、営業・ビジネスパートナー（販売代理店）と共に、技術的な視点でお客様の課題発⾒〜ソリューション提案、案件受注後のサポートをご担当いただきます",
+    "url": "https://corporate.jp.canon/recruit/experienced/0919",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、顧客の課題ヒアリング・提案資料作成・プレゼンテーション・運⽤打合せなどを⾏っていただきます",
+    "url": "https://corporate.jp.canon/recruit/experienced/0919",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の業種や業務を分析した上で、パートナー企業の得意分野と様々なＩＴソリューションを組み合わせ、お客様のありたい姿を実現するための価値の⾼いソリューションとサービスを提供していきます",
+    "url": "https://corporate.jp.canon/recruit/experienced/0919",
+    "pass": 3
+   },
+   {
+    "quote": "⽇頃の活動では、社内外の多くの関係者と連携しチームで活動を⾏うため、⾃ら積極的に発⾔・⾏動することができ、お客様の相談役としてコンサルティングに興味のある⼈材を期待しています",
+    "url": "https://corporate.jp.canon/recruit/experienced/0919",
+    "pass": 3
+   },
+   {
+    "quote": "今後、キヤノンMJがこれまで培ってきたマーケティング力と顧客基盤を活かし、全国展開を加速していきます",
+    "url": "https://corporate.jp.canon/newsroom/newsrelease/2025/pr-1126a",
+    "pass": 3
+   },
+   {
+    "quote": "キヤノンMJの顧客基盤ならびに販売チャネルを活用したCIAの防犯ソリューションの全国展開",
+    "url": "https://corporate.jp.canon/newsroom/newsrelease/2025/pr-1126a",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例・活用事例｜キヤノンITSメディカル株式会社｜キヤノンMJグループ",
+    "url": "https://corporate.jp.canon/profile/group/its-medical/business/case",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例・活用事例",
+    "url": "https://corporate.jp.canon/profile/group/its-medical/business/case",
+    "pass": 3
+   },
+   {
+    "quote": "医療機関のお客さま向けのIT導入事例・活用事例のご紹介です",
+    "url": "https://corporate.jp.canon/profile/group/its-medical/business/case",
+    "pass": 3
+   },
+   {
+    "quote": "顧客／従業員満足度向上",
+    "url": "https://corporate.jp.canon/profile/group/its-medical/business/case",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例（キヤノンマーケティングジャパン株式会社様）｜導入事例｜クロスインダストリー｜キヤノンITソリューションズ",
+    "url": "https://www.canon-its.co.jp/solution/industry/cross-industry/case/cato-sase-01",
+    "pass": 3
+   },
+   {
+    "quote": "お客さま導入事例",
+    "url": "https://www.canon-its.co.jp/solution/industry/cross-industry/case/cato-sase-01",
+    "pass": 3
+   },
+   {
+    "quote": "2万ユーザー規模のSASE基盤を、既存システムを“止めずに”刷新",
+    "url": "https://www.canon-its.co.jp/solution/industry/cross-industry/case/cato-sase-01",
+    "pass": 3
+   },
+   {
+    "quote": "キヤノンマーケティングジャパンは、既存環境を生かしつつ柔軟な運用を実現するため、豊富な知見と導入実績を持つキヤノンITソリューションズの支援のもと、ネットワーク機能とセキュリティ機能をクラウド上で統合する「Cato SASE Platform」を導入しました",
+    "url": "https://www.canon-its.co.jp/solution/industry/cross-industry/case/cato-sase-01",
+    "pass": 3
+   },
+   {
+    "quote": "管理画面のユーザーインターフェイスも操作性に優れ、モニタリングが容易に実現できることも高く評価しました」（深澤様）​",
+    "url": "https://www.canon-its.co.jp/solution/industry/cross-industry/case/cato-sase-01",
+    "pass": 3
+   },
+   {
+    "quote": "「導入対象がキヤノンMJグループ全体で約2万ユーザーに及ぶ大規模環境であり、国内での同規模SASE導入事例が多くないことは懸念材料でした",
+    "url": "https://www.canon-its.co.jp/solution/industry/cross-industry/case/cato-sase-01",
+    "pass": 3
+   },
+   {
+    "quote": "まずはプロジェクト関係者や情報システム部門の一部ユーザーから利用を開始し、そこからSASEの導入によって影響が想定される部署を優先しながら、適用範囲を広げていきました」（石井）",
+    "url": "https://www.canon-its.co.jp/solution/industry/cross-industry/case/cato-sase-01",
+    "pass": 3
+   },
+   {
+    "quote": "非常に安定した形で運用できているのは、キヤノンITSが培ってきたCato SASE Platformに対する知見と豊富な導入実績の賜物だと考えています」（深澤様）​",
+    "url": "https://www.canon-its.co.jp/solution/industry/cross-industry/case/cato-sase-01",
+    "pass": 3
+   },
+   {
+    "quote": "ちなみにCato SASE Platformへの切り替え後もユーザー体感に変化はなく、アンケートでも遅延が発生したという意見は寄せられていません",
+    "url": "https://www.canon-its.co.jp/solution/industry/cross-industry/case/cato-sase-01",
+    "pass": 3
+   },
+   {
+    "quote": "今回の導入事例は、まさにキヤノンMJグループが身を持って経験したCato SASE Platform大規模導入の自社成功事例として、多くのお客さまの参考になるものと考えています",
+    "url": "https://www.canon-its.co.jp/solution/industry/cross-industry/case/cato-sase-01",
+    "pass": 3
+   },
+   {
+    "quote": "こちらの導入事例の続きは、PDFでご覧ください",
+    "url": "https://www.canon-its.co.jp/solution/industry/cross-industry/case/cato-sase-01",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例（キヤノンマーケティングジャパン株式会社様）",
+    "url": "https://www.canon-its.co.jp/solution/industry/cross-industry/case/cato-sase-01",
+    "pass": 3
+   },
+   {
+    "quote": "必要な部品の形状やボリュームなど要望を伺った上で、キヤノンMJがこれまで産業用3Dプリンター事業で培ってきたノウハウを活かし、さまざまな素材や方式から顧客に合わせた提案を行う",
+    "url": "https://news.sharelab.jp/3dp-news/others/canonmj-3dprinting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "その他業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/others/canonmj-3dprinting-service/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "商品の価格改定について（ミニフォトプリンター）",
+    "url": "https://canon.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "インクジェットプリンター消耗品",
+    "url": "https://canon.jp/support?id=hn",
+    "pass": 1
+   },
+   {
+    "quote": "消耗品のご案内",
+    "url": "https://canon.jp/support?id=hn",
+    "pass": 1
+   },
+   {
+    "quote": "大判プリンター「iPFシリーズ」をご使用のお客さまへ消耗品販売終了のお知らせ",
+    "url": "https://canon.jp/support?id=hn",
+    "pass": 1
+   },
+   {
+    "quote": "インクジェットプリンター消耗品",
+    "url": "https://canon.jp/support/faq?id=hn",
+    "pass": 1
+   },
+   {
+    "quote": "インクジェットプリンター消耗品",
+    "url": "https://canon.jp/support/manual?id=hn",
+    "pass": 1
+   },
+   {
+    "quote": "インクジェットプリンター消耗品",
+    "url": "https://canon.jp/support/software?id=hn",
+    "pass": 1
+   },
+   {
+    "quote": "インクジェットプリンター消耗品",
+    "url": "https://canon.jp/support/repair-index?id=hn",
+    "pass": 1
+   },
+   {
+    "quote": "修理料金について",
+    "url": "https://canon.jp/support/repair-index?id=hn",
+    "pass": 1
+   },
+   {
+    "quote": "デジタル一眼レフカメラ／ミラーレスカメラの修理料金を知りたい",
+    "url": "https://canon.jp/support/repair-index?id=hn",
+    "pass": 1
+   },
+   {
+    "quote": "デジタルシネマカメラ・業務用ビデオカメラ製品の修理料金改定のご案内",
+    "url": "https://canon.jp/support/repair-index?id=hn",
+    "pass": 1
+   },
+   {
+    "quote": "ネットワークカメラの修理料金改定について",
+    "url": "https://canon.jp/support/repair-index?id=hn",
+    "pass": 1
+   },
+   {
+    "quote": "カメラ・レンズ製品の修理料金改定のご案内",
+    "url": "https://canon.jp/support/repair-index?id=hn",
+    "pass": 1
+   },
+   {
+    "quote": "インクジェットプリンター消耗品",
+    "url": "https://canon.jp/support",
+    "pass": 1
+   },
+   {
+    "quote": "消耗品のご案内",
+    "url": "https://canon.jp/support",
+    "pass": 1
+   },
+   {
+    "quote": "大判プリンター「iPFシリーズ」をご使用のお客さまへ消耗品販売終了のお知らせ",
+    "url": "https://canon.jp/support",
+    "pass": 1
+   },
+   {
+    "quote": "インクジェットプリンター消耗品",
+    "url": "https://canon.jp/support/software?id=top",
+    "pass": 1
+   },
+   {
+    "quote": "インクジェットプリンター消耗品",
+    "url": "https://canon.jp/support/manual?id=top",
+    "pass": 1
+   },
+   {
+    "quote": "インクジェットプリンター消耗品",
+    "url": "https://canon.jp/support/faq?id=top",
+    "pass": 1
+   },
+   {
+    "quote": "インクジェットプリンター消耗品",
+    "url": "https://canon.jp/support/important-info",
+    "pass": 1
+   },
+   {
+    "quote": "インクジェットプリンター消耗品",
+    "url": "https://canon.jp/support/disaster-info",
+    "pass": 1
+   },
+   {
+    "quote": "オプション・消耗品",
+    "url": "https://canon.jp/biz/product/office-device/imageformula/lineup/dr-c350",
+    "pass": 1
+   },
+   {
+    "quote": "本体標準価格",
+    "url": "https://canon.jp/biz/product/office-device/imageformula/lineup/dr-c350",
+    "pass": 1
+   },
+   {
+    "quote": "導入のご相談・お見積",
+    "url": "https://canon.jp/biz/product/office-device/imageformula/lineup/dr-c350",
+    "pass": 1
+   },
+   {
+    "quote": "インクジェットプリンター消耗品",
+    "url": "https://canon.jp/support/faq",
+    "pass": 1
+   },
+   {
+    "quote": "インクジェットプリンター消耗品",
+    "url": "https://canon.jp/support/repair-index",
+    "pass": 1
+   },
+   {
+    "quote": "修理料金について",
+    "url": "https://canon.jp/support/repair-index",
+    "pass": 1
+   },
+   {
+    "quote": "デジタル一眼レフカメラ／ミラーレスカメラの修理料金を知りたい",
+    "url": "https://canon.jp/support/repair-index",
+    "pass": 1
+   },
+   {
+    "quote": "デジタルシネマカメラ・業務用ビデオカメラ製品の修理料金改定のご案内",
+    "url": "https://canon.jp/support/repair-index",
+    "pass": 1
+   },
+   {
+    "quote": "ネットワークカメラの修理料金改定について",
+    "url": "https://canon.jp/support/repair-index",
+    "pass": 1
+   },
+   {
+    "quote": "カメラ・レンズ製品の修理料金改定のご案内",
+    "url": "https://canon.jp/support/repair-index",
+    "pass": 1
+   },
+   {
+    "quote": "蓄積された活用ノウハウに基づいて、Salesforceのライセンス販売・各種サービスをご提案します",
+    "url": "https://canon.jp/biz/solution/bizsupport",
+    "pass": 1
+   },
+   {
+    "quote": "複合機やプリンターの稼働状態や消耗品残量をリアルタイムで監視し、迅速な修理・保守サービスを提供",
+    "url": "https://canon.jp/biz/product/printer",
+    "pass": 1
+   },
+   {
+    "quote": "複合機／レーザービームプリンター／大判プリンターの稼働状態や消耗品残量などをリアルタイムで把握し、故障・予兆監視、消耗品の自動配送などの迅速な修理・保守サービスをご提供します",
+    "url": "https://canon.jp/biz/product/production-printer",
+    "pass": 1
+   },
+   {
+    "quote": "商品価格改定についてのお知らせ｜キヤノンMJグループ",
+    "url": "https://corporate.jp.canon/info/2022/20221116",
+    "pass": 3
+   },
+   {
+    "quote": "商品価格の改定について（オフィスMFP、プロダクションプリンター、大判プリンター／大判MFP、カードプリンター／ラベルプリンター／ケーブルIDプリンター、プロジェクター、ドキュメントスキャナー、コピー用紙、レーザービームプリンター、インクジェットプリンター、ミニフォトプリンター、ネットワークカメラ、クラウドサービス、搬入手配・ユースウェア、保守契約、スポット修理サービス）",
+    "url": "https://corporate.jp.canon/info/2022/20221116",
+    "pass": 3
+   },
+   {
+    "quote": "キヤノンマーケティングジャパン株式会社は、一部の製品・消耗品・クラウドサービス・搬入設置・保守サービス、およびスポット修理サービスの価格を改定いたします",
+    "url": "https://corporate.jp.canon/info/2022/20221116",
+    "pass": 3
+   },
+   {
+    "quote": "これまで商品価格の維持に最大限努めてまいりましたが、昨今の半導体・樹脂材などの原材料費・エネルギー価格、および物流費の高騰により、企業努力による対応のみでは価格を維持することが困難な状況に至っております",
+    "url": "https://corporate.jp.canon/info/2022/20221116",
+    "pass": 3
+   },
+   {
+    "quote": "つきましては、今後も高品質な商品およびサービスの提供を継続していくため、下記の通り価格改定を実施いたします",
+    "url": "https://corporate.jp.canon/info/2022/20221116",
+    "pass": 3
+   },
+   {
+    "quote": "価格改定日および対象商品",
+    "url": "https://corporate.jp.canon/info/2022/20221116",
+    "pass": 3
+   },
+   {
+    "quote": "2026年9月1日（火）より次の商品について価格改定",
+    "url": "https://corporate.jp.canon/info/2022/20221116",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月29日（水）対象商品の改定後価格一覧を公開しました",
+    "url": "https://corporate.jp.canon/info/2022/20221116",
+    "pass": 3
+   },
+   {
+    "quote": "レーザービームプリンター本体・オプション・消耗品：263商品",
+    "url": "https://corporate.jp.canon/info/2022/20221116",
+    "pass": 3
+   },
+   {
+    "quote": "大判プリンター／大判MFP（インクジェット）本体・オプション・消耗品：416商品",
+    "url": "https://corporate.jp.canon/info/2022/20221116",
+    "pass": 3
+   },
+   {
+    "quote": "インクジェットプリンター本体・オプション・消耗品：279商品",
+    "url": "https://corporate.jp.canon/info/2022/20221116",
+    "pass": 3
+   },
+   {
+    "quote": "ラベルプリンター用紙／カードプリンター消耗品：32商品",
+    "url": "https://corporate.jp.canon/info/2022/20221116",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月1日（水）より次の商品について価格改定を行います",
+    "url": "https://corporate.jp.canon/info/2022/20221116",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月1日（水）より次の商品について価格改定を行います",
+    "url": "https://corporate.jp.canon/info/2022/20221116",
+    "pass": 3
+   },
+   {
+    "quote": "ついて価格改定を行います",
+    "url": "https://corporate.jp.canon/info/2022/20221116",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1月5日（月）より次の商品について価格改定を行います",
+    "url": "https://corporate.jp.canon/info/2022/20221116",
+    "pass": 3
+   },
+   {
+    "quote": "大判プリンター／大判ＭＦＰ（インクジェット）消耗品：89商品",
+    "url": "https://corporate.jp.canon/info/2022/20221116",
+    "pass": 3
+   },
+   {
+    "quote": "カードプリンター／ラベルプリンター／ケーブルIDプリンター本体・オプション・消耗品：38商品",
+    "url": "https://corporate.jp.canon/info/2022/20221116",
+    "pass": 3
+   },
+   {
+    "quote": "2025年7月1日（火）より次の商品に関するスポット修理サービスについて価格改定を行います",
+    "url": "https://corporate.jp.canon/info/2022/20221116",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月3日（火）より次の商品について価格改定を行います",
+    "url": "https://corporate.jp.canon/info/2022/20221116",
+    "pass": 3
+   },
+   {
+    "quote": "ミニフォトプリンター消耗品：3商品",
+    "url": "https://corporate.jp.canon/info/2022/20221116",
+    "pass": 3
+   },
+   {
+    "quote": "2025年5月1日（木）より次の商品について価格改定を行います",
+    "url": "https://corporate.jp.canon/info/2022/20221116",
+    "pass": 3
+   },
+   {
+    "quote": "2025年4月1日（火）より次の商品に関するクラウドサービス・搬入設置、および一部保守サービスについて価格改定を行います",
+    "url": "https://corporate.jp.canon/info/2022/20221116",
+    "pass": 3
+   },
+   {
+    "quote": "2025年4月1日（火）より次の商品について価格改定を行います",
+    "url": "https://corporate.jp.canon/info/2022/20221116",
+    "pass": 3
+   },
+   {
+    "quote": "大判プリンター／大判ＭＦＰ（インクジェット）消耗品：60商品",
+    "url": "https://corporate.jp.canon/info/2022/20221116",
+    "pass": 3
+   },
+   {
+    "quote": "商品価格改定について｜キヤノンMJグループ",
+    "url": "https://corporate.jp.canon/info/2025/20250901",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "94,000円（税別）",
+    "url": "https://canon.jp/biz/product/office-device/imageformula/lineup/dr-c350",
+    "pass": 1
+   },
+   {
+    "quote": "72,000円（税別）",
+    "url": "https://canon.jp/biz/product/office-device/imageformula/lineup/dr-c350",
+    "pass": 1
+   },
+   {
+    "quote": "73,303百万円（2025年1月31日現在）",
+    "url": "https://corporate.jp.canon/newsroom/newsrelease/2025/pr-1126a",
+    "pass": 3
+   },
+   {
+    "quote": "幅広い部門を巻き込む展開手法を採ったことは、今回のような大規模導入を円滑に進めるのに有効な工夫でした」と話します",
+    "url": "https://www.canon-its.co.jp/solution/industry/cross-industry/case/cato-sase-01",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/3dp-news/others/canonmj-3dprinting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円",
+    "url": "https://news.sharelab.jp/3dp-news/others/canonmj-3dprinting-service/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/others/canonmj-3dprinting-service/",
+    "pass": 3
+   }
+  ],
+  "誰から": [
+   {
+    "quote": "ビジネスパートナー(販売代理店）を通じたキヤノン製品・ITソリューション商材の拡販セールス・ソリューションスペシャリスト｜キヤノンMJグループ",
+    "url": "https://corporate.jp.canon/recruit/experienced/0919",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスパートナー(販売代理店）を通じたキヤノン製品・ITソリューション商材の拡販セールス・ソリューションスペシャリスト",
+    "url": "https://corporate.jp.canon/recruit/experienced/0919",
+    "pass": 3
+   },
+   {
+    "quote": "1.ビジネスパートナー（販売代理店）担当セールス",
+    "url": "https://corporate.jp.canon/recruit/experienced/0919",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスパートナー（販売代理店）と一緒にビジネスを進めることで、エンドユーザーからの期待に応えることができ、地域社会への貢献を実感できるやりがいのある仕事です",
+    "url": "https://corporate.jp.canon/recruit/experienced/0919",
+    "pass": 3
+   },
+   {
+    "quote": "販売代理店営業としての営業経験",
+    "url": "https://corporate.jp.canon/recruit/experienced/0919",
+    "pass": 3
+   },
+   {
+    "quote": "中⼩・中堅・⼤⼿企業に対して、営業・ビジネスパートナー（販売代理店）と共に、技術的な視点でお客様の課題発⾒〜ソリューション提案、案件受注後のサポートをご担当いただきます",
+    "url": "https://corporate.jp.canon/recruit/experienced/0919",
+    "pass": 3
+   },
+   {
+    "quote": "防犯ソリューションに強みをもつCIA社と資本業務提携契約し独占販売権を獲得｜キヤノンMJグループ",
+    "url": "https://corporate.jp.canon/newsroom/newsrelease/2025/pr-1126a",
+    "pass": 3
+   },
+   {
+    "quote": "防犯ソリューションに強みをもつCIA社と​資本業務提携契約し独占販売権を獲得",
+    "url": "https://corporate.jp.canon/newsroom/newsrelease/2025/pr-1126a",
+    "pass": 3
+   },
+   {
+    "quote": "キヤノンマーケティングジャパン株式会社（代表取締役社長：足立 正親、以下「キヤノンMJ」）は、防犯ソリューションを提供するCIA株式会社（本社：広島県広島市、代表取締役社長：長岡 秀樹、以下「CIA」）と、資本業務提携契約を締結し、国内における独占販売権を獲得しました",
+    "url": "https://corporate.jp.canon/newsroom/newsrelease/2025/pr-1126a",
+    "pass": 3
+   },
+   {
+    "quote": "キヤノンMJは、本提携を通じてCIAが持つ防犯ソリューションの日本国内における独占販売代理店契約を獲得しました",
+    "url": "https://corporate.jp.canon/newsroom/newsrelease/2025/pr-1126a",
+    "pass": 3
+   },
+   {
+    "quote": "M&A／業務提携",
+    "url": "https://corporate.jp.canon/newsroom/newsrelease/2025/pr-1126a",
+    "pass": 3
+   },
+   {
+    "quote": "防犯ソリューションに強みをもつCIA社と資本業務提携契約し独占販売権を獲得",
+    "url": "https://corporate.jp.canon/newsroom/newsrelease/2025/pr-1126a",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ビジネスパートナー(販売 代理店 ）を通じた キヤノン 製品・IT ... — ビジネスパートナー(販売 代理店 ）を通じた キヤノン 製品・IT ... キヤノンマーケティングジャパングループ https://corporate.jp.canon > recruit > experienced",
+    "url": "https://corporate.jp.canon/recruit/experienced/0919",
+    "pass": 3
+   },
+   {
+    "quote": "防犯ソリューションに強みをもつCIA社と資本業務提携 契約 し ... — 防犯ソリューションに強みをもつCIA社と資本業務提携 契約 し ... キヤノンマーケティングジャパングループ https://corporate.jp.canon > newsroom > newsrelease",
+    "url": "https://corporate.jp.canon/newsroom/newsrelease/2025/pr-1126a",
+    "pass": 3
+   },
+   {
+    "quote": "キヤノンマーケティングジャパン の 代理店 - Metoree — キヤノンマーケティングジャパン の 代理店 - Metoree Metoree https://metoree.com > companies > distributors",
+    "url": "https://metoree.com/companies/1244/distributors/",
+    "pass": 3
+   },
+   {
+    "quote": "網屋と キヤノンマーケティングジャパン が 代理店契約 締結 — 網屋と キヤノンマーケティングジャパン が 代理店契約 締結 株式会社 網屋 https://www.amiya.co.jp > home > ニュース",
+    "url": "https://www.amiya.co.jp/verona/news/13335/",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 ・活用事例｜ キヤノン ITSメディカル株式会社 — 導入事例 ・活用事例｜ キヤノン ITSメディカル株式会社 キヤノンマーケティングジャパングループ https://corporate.jp.canon > its-medical > business > case",
+    "url": "https://corporate.jp.canon/profile/group/its-medical/business/case",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 （ キヤノンマーケティングジャパン 株式会社様） — 導入事例 （ キヤノンマーケティングジャパン 株式会社様） キヤノンITソリューションズ株式会社 https://www.canon-its.co.jp > industry > case > cato-sase-01",
+    "url": "https://www.canon-its.co.jp/solution/industry/cross-industry/case/cato-sase-01",
+    "pass": 3
+   },
+   {
+    "quote": "[ 導入事例 ] キヤノンマーケティングジャパン 株式会社 — [ 導入事例 ] キヤノンマーケティングジャパン 株式会社 Beat Communication https://www.beat.co.jp > case > canon-mj",
+    "url": "https://www.beat.co.jp/case/canon-mj/?ref=case-index&n0=2",
+    "pass": 3
+   },
+   {
+    "quote": "キヤノンマーケティングジャパン 株式会社様｜ 導入事例 — キヤノンマーケティングジャパン 株式会社様｜ 導入事例 UNIRITA https://www.unirita.co.jp > 情報通信業",
+    "url": "https://www.unirita.co.jp/case/it/cmj",
+    "pass": 3
+   },
+   {
+    "quote": "商品 価格 改定についてのお知らせ｜ キヤノンMJ グループ — 商品 価格 改定についてのお知らせ｜ キヤノンMJ グループ キヤノンマーケティングジャパングループ https://corporate.jp.canon > info",
+    "url": "https://corporate.jp.canon/info/2022/20221116",
+    "pass": 3
+   },
+   {
+    "quote": "商品 価格 改定について - キヤノンマーケティングジャパン — 商品 価格 改定について - キヤノンマーケティングジャパン キヤノンマーケティングジャパングループ https://corporate.jp.canon > info",
+    "url": "https://corporate.jp.canon/info/2025/20250901",
+    "pass": 3
+   },
+   {
+    "quote": "商品 価格 改定について（レンズ交換式カメラ — 商品 価格 改定について（レンズ交換式カメラ キヤノンマーケティングジャパングループ https://corporate.jp.canon > info",
+    "url": "https://corporate.jp.canon/info/2022/20220216",
+    "pass": 3
+   },
+   {
+    "quote": "キヤノン からのお知らせ（一覧） — キヤノン からのお知らせ（一覧） キヤノンマーケティングジャパングループ https://corporate.jp.canon > info",
+    "url": "https://corporate.jp.canon/info",
+    "pass": 3
+   },
+   {
+    "quote": "新卒採用 FAQ キヤノンマーケティングジャパン 株式会社 — 新卒採用 FAQ キヤノンマーケティングジャパン 株式会社 キヤノンマーケティングジャパングループ https://corporate.jp.canon > recruit > newgraduate > faq",
+    "url": "https://corporate.jp.canon/recruit/newgraduate/faq",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://canon.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://canon.jp/biz/product?id=hn",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://canon.jp/biz/case?id=hn",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://canon.jp/support?id=hn",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://canon.jp/support/faq?id=hn",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://canon.jp/support/manual?id=hn",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://canon.jp/support/software?id=hn",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://canon.jp/support/repair-index?id=hn",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://canon.jp/support",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://canon.jp/support/software?id=top",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://canon.jp/support/manual?id=top",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://canon.jp/support/faq?id=top",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://canon.jp/support/important-info",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://canon.jp/support/disaster-info",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://canon.jp/biz/product/office-device/imageformula/lineup/dr-c350",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://canon.jp/biz/case",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://canon.jp/biz/product",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://canon.jp/support?id=hn",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://canon.jp/support/faq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://canon.jp/support/repair-index",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://canon.jp/biz/solution/bizsupport",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://canon.jp/biz/product/camera",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://canon.jp/biz/product/printer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://canon.jp/biz/product/production-printer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://canon.jp/biz/product/commercial-printing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://canon.jp/biz/product/office-device",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://canon.jp/support/faq?id=hn",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://canon.jp/support/manual?id=hn",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://canon.jp/support/software?id=hn",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://canon.jp/support/repair-index?id=hn",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://canon.jp/-/media/Project/Canon/CanonJP/Website/business/case/shared/image/case-keyvisual.jpg?sc_lang=ja-JP&hash=EB5D63D695981EDC21B380B86CD9C74F",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://canon.jp/-/media/Project/Canon/CanonJP/Website/business/case/shared/image/case-keyvisualnoLink-sp.jpg?sc_lang=ja-JP&hash=4763BE94A4391F26D092F3A64DD80237",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://canon.jp/-/media/Project/Canon/CanonJP/Website/biz/case/shared/image/banner/514x324/index-case-ozaki-construction.jpg?sc_lang=ja-JP&hash=FFD9D38A540EA47A394DE4F5A90144FF",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://canon.jp/-/media/Project/Canon/CanonJP/Website/biz/case/shared/image/banner/514x324/index-dnt.jpg?sc_lang=ja-JP&hash=FCD0042BF86D94F9D32F5F0F76295E70",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://canon.jp/-/media/Project/Canon/CanonJP/Website/biz/case/shared/image/banner/514x324/index-frominfo.jpg?sc_lang=ja-JP&hash=9318BDA4B7F075ABFF71FE88FC3D28E1",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://canon.jp/-/media/Project/Canon/CanonJP/Website/biz/case/shared/image/banner/514x324/index-ainavo.jpg?sc_lang=ja-JP&hash=BD46C719BA0E1AA46084610F3499A35E",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://canon.jp/-/media/Project/Canon/CanonJP/Website/biz/case/shared/image/banner/514x324/index-eset-nikkotsushin.jpg?sc_lang=ja-JP&hash=CB471529153D2E3EE446A12FDFA61FCA",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://canon.jp/-/media/Project/Canon/CanonJP/Website/biz/case/shared/image/banner/514x324/index-kishiya.jpg?sc_lang=ja-JP&hash=963C55214B46A6D049B0B8FBB145430B",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://canon.jp/-/media/Project/Canon/CanonJP/Website/business/solution/imageformula/lineup/common/banner-l.jpg?h=280&iar=0&w=920&sc_lang=ja-JP&hash=E8B450CD7953D6F67EEBDDC8452DE80E",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://canon.jp/-/media/Project/Canon/CanonJP/Website/biz/case/shared/image/banner/514x324/index-runtec.jpg?h=324&iar=0&w=514&sc_lang=ja-JP&hash=B603B7AAE2847DC9ACDBFC3794A8DF55",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://corporate.jp.canon/recruit/experienced/0919",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.jp.canon/newsroom/newsrelease/2025/pr-1126a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.jp.canon/profile/group/its-medical/business/case",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.canon-its.co.jp/solution/industry/cross-industry/case/cato-sase-01",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.jp.canon/info/2022/20221116",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.jp.canon/info/2025/20250901",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.jp.canon/info/2022/20220216",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/751726",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/others/canonmj-3dprinting-service/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "キヤノンマーケティングジャパン 代理店 契約",
+   "results": [
+    "https://corporate.jp.canon/recruit/experienced/0919",
+    "https://corporate.jp.canon/newsroom/newsrelease/2025/pr-1126a",
+    "https://canon.jp/biz/distribution",
+    "https://metoree.com/companies/1244/distributors/",
+    "https://www.amiya.co.jp/verona/news/13335/",
+    "https://corporate.jp.canon/profile/about/location",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=422",
+    "https://corp.kaonavi.jp/news/20191205/",
+    "https://www.jac-recruitment.jp/search/NJB2279639/",
+    "https://canon.jp/biz"
+   ]
+  },
+  {
+   "query": "キヤノンマーケティングジャパン 導入事例",
+   "results": [
+    "https://canon.jp/biz/case",
+    "https://corporate.jp.canon/profile/group/its-medical/business/case",
+    "https://www.canon-its.co.jp/solution/industry/cross-industry/case/cato-sase-01",
+    "https://www.beat.co.jp/case/canon-mj/?ref=case-index&n0=2",
+    "https://www.unirita.co.jp/case/it/cmj",
+    "https://corporate.jp.canon/newsroom/newsrelease",
+    "https://en.wikipedia.org/wiki/Human_body",
+    "https://en.wikipedia.org/wiki/Man",
+    "https://www.britannica.com/science/human-body",
+    "https://www.innerbody.com/htm/body.html"
+   ]
+  },
+  {
+   "query": "キヤノンマーケティングジャパン 価格 OR 料金",
+   "results": [
+    "https://corporate.jp.canon/info/2022/20221116",
+    "https://corporate.jp.canon/info/2025/20250901",
+    "https://corporate.jp.canon/info/2022/20220216",
+    "https://corporate.jp.canon/info",
+    "https://canon.jp/",
+    "https://corporate.jp.canon/info/2025/20251014",
+    "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A4%E3%83%8E%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3",
+    "https://www.nikkei.com/nkd/company/?scode=8060",
+    "https://en.wikipedia.org/wiki/Time_in_India",
+    "https://www.timeanddate.com/worldclock/india"
+   ]
+  },
+  {
+   "query": "キヤノンマーケティングジャパン 受託 造形",
+   "results": [
+    "https://canon.jp/biz/product/indtech/3dpsolution/ceramics-3dprint",
+    "https://www.nikkan.co.jp/articles/view/751726",
+    "https://news.sharelab.jp/3dp-news/others/canonmj-3dprinting-service/",
+    "https://corporate.jp.canon/recruit/newgraduate/faq",
+    "https://newswitch.jp/p/45720?preview=7206697013ad958475dc6cdab68f43f2f371ddf2",
+    "https://corporate.jp.canon/profile/about/location",
+    "https://www.youtube.com/watch?v=uVrr0yR8avQ",
+    "https://www.kinzoku.co.jp/news_release/CeramicAM.html",
+    "https://corporate.jp.canon/recruit/aboutus/business",
+    "https://uk.linkedin.com/in/karl-smith-3978461aa"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式30頁／PDF・画像10件／外部9頁・検索4回）",
+  "取引先": "記載なし（3回確認済み：公式30頁／PDF・画像10件／外部9頁・検索4回）"
+ }
+}

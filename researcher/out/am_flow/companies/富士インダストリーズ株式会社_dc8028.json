@@ -1,0 +1,1347 @@
+{
+ "name": "富士インダストリーズ株式会社",
+ "aliases": [],
+ "context": "AM専門展出展 / AddUp（仏）",
+ "researched_at": "2026-11-02T12:13:56.826422+00:00",
+ "official_url": "https://www.ficjp.com/",
+ "identified_by": "search:yahoo_jp:富士インダストリーズ",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業年月日",
+    "value": "1946年5月1日",
+    "url": "https://www.ficjp.com/aboutus/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立年月日",
+    "value": "1949年6月8日",
+    "url": "https://www.ficjp.com/aboutus/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1949年06月08日",
+    "url": "https://www.r-agent.com/company/10836/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "140名",
+    "url": "https://www.ficjp.com/aboutus/company/",
+    "pass": 1
+   },
+   {
+    "label": "⑧従業員数",
+    "value": "114名 （神戸本社57名、東京支店26名、宇都宮支店2名、中部支店29名）",
+    "url": "https://www.ficjp.com/wp-content/themes/ficjp_temp/assets/pdf/Environmental-Management-Report_2025.pdf",
+    "pass": 2
+   },
+   {
+    "label": "従業員数",
+    "value": "140人",
+    "url": "https://www.r-agent.com/company/10836/",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "373億円（2025年）",
+    "url": "https://www.ficjp.com/aboutus/company/",
+    "pass": 1
+   },
+   {
+    "label": "⑦売上額",
+    "value": "37,373百万円 （2025年9月期） （全社）",
+    "url": "https://www.ficjp.com/wp-content/themes/ficjp_temp/assets/pdf/Environmental-Management-Report_2025.pdf",
+    "pass": 2
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "川崎重工業株式会社 株式会社SUBARU 三菱重工業株式会社 株式会社IHI 日本飛行機株式会社 新明和工業株式会社 株式会社東芝 ミネベアミツミ株式会社 ナブテスコ株式会社 横浜ゴム株式会社 株式会社神戸製鋼所 全日本空輸株式会社 三菱パワー株式会社 株式会社日立インダストリアルプロダクツ 株式会社島津製作所 ウイングフィールド株式会社 日本冶金工業株式会社",
+    "url": "https://www.ficjp.com/aboutus/company/",
+    "pass": 1
+   },
+   {
+    "label": "主要取引先",
+    "value": "川崎重工業株式会社 株式会社SUBARU 三菱重工業株式会社 株式会社IHI 日本飛行機株式会社 新明和工業株式会社 株式会社東芝 ミネベアミツミ株式会社 ナブテスコ株式会社\n          横浜ゴム株式会社 株式会社神戸製鋼所 全日本空輸株式会社 三菱パワー株式会社 株式会社日立インダストリアルプロダクツ 株式会社島津製作所 ウイングフィールド株式会社 日本冶金工業株式会社",
+    "url": "https://www.ficjp.com/aboutus/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "■航空機関連、精密機械加工/素形材関連、一般産業関連、化学設備関連、ワイン事業",
+    "url": "https://www.r-agent.com/company/10836/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰から": [
+   {
+    "quote": "ミュンヘンや台湾では資本提携を通じたパートナーシップを築き、",
+    "url": "https://www.ficjp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "各種製造設備の導入において、機器選定から輸入・据付、試運転、保守まで一貫して対応しています",
+    "url": "https://www.ficjp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、ミュンヘンや台湾では資本提携によるパートナーシップを通じて、",
+    "url": "https://www.ficjp.com/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "航空機関連の部品・材料・機械・設備等の輸入・輸出・販売業務",
+    "url": "https://www.ficjp.com/aboutus/csr/",
+    "pass": 1
+   },
+   {
+    "quote": "ワイン輸入販売業務",
+    "url": "https://www.ficjp.com/aboutus/csr/",
+    "pass": 1
+   },
+   {
+    "quote": "・航空宇宙関連の材料、部品の輸入及び輸出に基づく仕入販売業務",
+    "url": "https://www.ficjp.com/aboutus/csr/",
+    "pass": 1
+   },
+   {
+    "quote": "・航空宇宙関連の設備機械の仕入(輸入・国産)販売業務",
+    "url": "https://www.ficjp.com/aboutus/csr/",
+    "pass": 1
+   },
+   {
+    "quote": "・一般産業関連の材料、部品、設備機械の仕入(輸入・国産)販売業務",
+    "url": "https://www.ficjp.com/aboutus/csr/",
+    "pass": 1
+   },
+   {
+    "quote": "毒劇物、少量新規化学物質等の輸入にも対応し、安心・安全な化学製品調達を支えます",
+    "url": "https://www.ficjp.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は輸入を主軸とした国際調達サービスを提供しています",
+    "url": "https://www.ficjp.com/business/international-sourcing/",
+    "pass": 1
+   },
+   {
+    "quote": "米国2拠点、英国・タイの海外拠点と連携し、現地メーカーとの条件交渉から、輸入・物流手配までを一貫して対応します",
+    "url": "https://www.ficjp.com/business/international-sourcing/",
+    "pass": 1
+   },
+   {
+    "quote": "海外拠点近隣の提携倉庫での外観検査や再梱包、国内倉庫でのロット番号・数量確認など、必要に応じた検品作業にも対応可能です",
+    "url": "https://www.ficjp.com/business/international-sourcing/",
+    "pass": 1
+   },
+   {
+    "quote": "法規制のある化学物質輸入を安心・安全に",
+    "url": "https://www.ficjp.com/business/chemical/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、化学製品の輸入において法令遵守と安全管理を徹底しています",
+    "url": "https://www.ficjp.com/business/chemical/",
+    "pass": 1
+   },
+   {
+    "quote": "各拠点には毒劇法の責任者を配置しており毒劇物の輸入・販売が可能です",
+    "url": "https://www.ficjp.com/business/chemical/",
+    "pass": 1
+   },
+   {
+    "quote": "化審法における少量新規化学物質の輸入実績も多数あり、確かな実績と専門知識でお客様の事業を支えます",
+    "url": "https://www.ficjp.com/business/chemical/",
+    "pass": 1
+   },
+   {
+    "quote": "化学製品の輸入・販売においては、製品特性を踏まえた各種法規制への適合確認と、安全情報の適切な整備が不可欠です",
+    "url": "https://www.ficjp.com/business/chemical/",
+    "pass": 1
+   },
+   {
+    "quote": "その内容を基に、危険物規制を含む輸送条件の確認や、日本への輸入可否判断（化審法、安衛法、毒劇法等の該非確認）を行い、関連法規への適合性を整理します",
+    "url": "https://www.ficjp.com/business/chemical/",
+    "pass": 1
+   },
+   {
+    "quote": "これら一連のプロセスを当社が一括して管理することで、法令遵守と安全性を確保しながら、円滑な輸入およびお客様への安定供給を実現しています",
+    "url": "https://www.ficjp.com/business/chemical/",
+    "pass": 1
+   },
+   {
+    "quote": "提携倉庫や国内外の拠点を活用することで、海外製品であっても安定した供給体制を構築することが可能です",
+    "url": "https://www.ficjp.com/business/other/",
+    "pass": 1
+   },
+   {
+    "quote": "各種製造設備の導入において、機器選定から輸入・据付、試運転、保守まで一貫して対応しています",
+    "url": "https://www.ficjp.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "取扱メーカー",
+    "url": "https://www.ficjp.com/products/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "米Gala Industries社の日本輸入総代理店として40年以上の実績",
+    "url": "https://www.ficjp.com/products/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "Maag Gala, Inc.社（米国）の日本輸入総代理店となって50年余り、プラスチック・ゴム系材料の造粒設備一式や、大型混練造粒プロセスで使用される遠心脱水機に関する技術ノウハウを蓄積して参りました",
+    "url": "https://www.ficjp.com/products/equipment/maag-gala/",
+    "pass": 1
+   },
+   {
+    "quote": "国内化学会社様、コンパウンド・カラーリング会社様、リサイクル業者様からのご要望に対し、『試作試験』から『機器選定』・『輸入/輸送』・『据付指導』・『試運転立ち合い』・『技術アフターサービス』まで弊社が中心となり迅速に解決/対応ができるようにいたします",
+    "url": "https://www.ficjp.com/products/equipment/maag-gala/",
+    "pass": 1
+   },
+   {
+    "quote": "小型研究用ユニットから生産用設備まで輸入販売しており、多種多様な材料に対し、通常サイズだけでは無くΦ1㎜以下のペレットまで独自の技術によりペレット化が可能です",
+    "url": "https://www.ficjp.com/products/equipment/maag-gala/",
+    "pass": 1
+   },
+   {
+    "quote": "日本国内では、1991年より輸入・販売を始め",
+    "url": "https://www.ficjp.com/products/equipment/maag-gala/",
+    "pass": 1
+   },
+   {
+    "quote": "日本国内では1975年より輸入販売を始め、400台以上が現在稼動中です",
+    "url": "https://www.ficjp.com/products/equipment/maag-gala/",
+    "pass": 1
+   },
+   {
+    "quote": "FPP技術のポテンシャルを最大限に発揮するため、Cevotec社はARTIST STUDIOと呼ばれる一連のソフトウェア製品群を自社開発しております",
+    "url": "https://www.ficjp.com/products/equipment/cevotec/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社が長年に渡り総代理店を務めるメーカの水中カット設備を紹介いたします",
+    "url": "https://www.ficjp.com/news/%E5%9B%BD%E9%9A%9B%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E3%83%95%E3%82%A7%E3%82%A2%EF%BC%88ipf%EF%BC%892026%E3%81%AB%E5%87%BA%E5%B1%95%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%99/",
+    "pass": 1
+   },
+   {
+    "quote": "◇航空機用部品、材料等の輸入",
+    "url": "https://www.ficjp.com/wp-content/themes/ficjp_temp/assets/pdf/Environmental-Management-Report_2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◇ワインの輸入販売",
+    "url": "https://www.ficjp.com/wp-content/themes/ficjp_temp/assets/pdf/Environmental-Management-Report_2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "毒物劇物の輸入や販売には免許（登",
+    "url": "https://www.ficjp.com/wp-content/themes/ficjp_temp/assets/pdf/Environmental-Management-Report_2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "毒物劇物輸入",
+    "url": "https://www.ficjp.com/wp-content/themes/ficjp_temp/assets/pdf/Environmental-Management-Report_2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "航空機・エンジンの製造、修理、定期交換に必要な航空機部品、金属材料・複合材・ケミカル製品を含めた航空機規格材料、搭載機材等、資材全般を、欧米及びアジアのネットワークを通じて海外から輸入し、国内の航空機体メーカー、エンジンメーカーや航空業界関連会社に納入しております",
+    "url": "https://www.japanaerospace.jp/jp/exhibitor/59",
+    "pass": 3
+   },
+   {
+    "quote": "また宇宙関係のロケット、衛星、宇宙ステーションの製造、研究に必要な資材も、同様に輸入し、宇宙業界に販売しております",
+    "url": "https://www.japanaerospace.jp/jp/exhibitor/59",
+    "pass": 3
+   }
+  ],
+  "何をする": [
+   {
+    "quote": "設備導入・保守",
+    "url": "https://www.ficjp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "各種製造設備の導入において、機器選定から輸入・据付、試運転、保守まで一貫して対応しています",
+    "url": "https://www.ficjp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "プレスリリース",
+    "url": "https://www.ficjp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "設備導入・保守",
+    "url": "https://www.ficjp.com/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "設備導入・保守",
+    "url": "https://www.ficjp.com/aboutus/company/",
+    "pass": 1
+   },
+   {
+    "quote": "設備導入・保守",
+    "url": "https://www.ficjp.com/aboutus/officer/",
+    "pass": 1
+   },
+   {
+    "quote": "設備導入・保守",
+    "url": "https://www.ficjp.com/aboutus/history/",
+    "pass": 1
+   },
+   {
+    "quote": "創業者 仲野至道の個人経営による機械工具類の製造販売により創業",
+    "url": "https://www.ficjp.com/aboutus/history/",
+    "pass": 1
+   },
+   {
+    "quote": "設備導入・保守",
+    "url": "https://www.ficjp.com/aboutus/officelocations/",
+    "pass": 1
+   },
+   {
+    "quote": "設備導入・保守",
+    "url": "https://www.ficjp.com/aboutus/organizationchart/",
+    "pass": 1
+   },
+   {
+    "quote": "設備導入・保守",
+    "url": "https://www.ficjp.com/aboutus/csr/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の仕入販売において、安全に配慮した上で環境負荷の少ない手段で製品・サービスを提供する",
+    "url": "https://www.ficjp.com/aboutus/csr/",
+    "pass": 1
+   },
+   {
+    "quote": "また、啓発、教育活動を推進するとともに、地域社会の一員として地域・社会貢献活動の推進に努めます",
+    "url": "https://www.ficjp.com/aboutus/csr/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の基本理念に沿った環境保護に積極的な企業への出資・販売協力を推進します",
+    "url": "https://www.ficjp.com/aboutus/csr/",
+    "pass": 1
+   },
+   {
+    "quote": "航空機関連の部品・材料・機械・設備等の輸入・輸出・販売業務",
+    "url": "https://www.ficjp.com/aboutus/csr/",
+    "pass": 1
+   },
+   {
+    "quote": "ワイン輸入販売業務",
+    "url": "https://www.ficjp.com/aboutus/csr/",
+    "pass": 1
+   },
+   {
+    "quote": "・航空宇宙関連の材料、部品の輸入及び輸出に基づく仕入販売業務",
+    "url": "https://www.ficjp.com/aboutus/csr/",
+    "pass": 1
+   },
+   {
+    "quote": "・航空宇宙関連の設備機械の仕入(輸入・国産)販売業務",
+    "url": "https://www.ficjp.com/aboutus/csr/",
+    "pass": 1
+   },
+   {
+    "quote": "・一般産業関連の材料、部品、設備機械の仕入(輸入・国産)販売業務",
+    "url": "https://www.ficjp.com/aboutus/csr/",
+    "pass": 1
+   },
+   {
+    "quote": "パワーハラスメントやセクシュアルハラスメントを含むあらゆるハラスメント行為の防止に取り組み、社内規程の整備、教育・啓発活動、相談窓口の設置を通じて、未然防止および適切な対応体制の強化を図っています",
+    "url": "https://www.ficjp.com/aboutus/csr/",
+    "pass": 1
+   },
+   {
+    "quote": "設備導入・保守",
+    "url": "https://www.ficjp.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、国際調達をはじめ、化学製品の安定供給、設備導入から保守・メンテナンスまでを一貫して支援する商社です",
+    "url": "https://www.ficjp.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "設備導入・保守",
+    "url": "https://www.ficjp.com/business/international-sourcing/",
+    "pass": 1
+   },
+   {
+    "quote": "海外拠点で得られる現地情報を活かしながら、個々のニーズに応じた商流を設計し、お客様の事業を安定的に支える国際調達パートナーを目指しています",
+    "url": "https://www.ficjp.com/business/international-sourcing/",
+    "pass": 1
+   },
+   {
+    "quote": "調達からコンサルティングまでの総合対応",
+    "url": "https://www.ficjp.com/business/international-sourcing/",
+    "pass": 1
+   },
+   {
+    "quote": "設備導入・保守",
+    "url": "https://www.ficjp.com/business/chemical/",
+    "pass": 1
+   },
+   {
+    "quote": "各拠点には毒劇法の責任者を配置しており毒劇物の輸入・販売が可能です",
+    "url": "https://www.ficjp.com/business/chemical/",
+    "pass": 1
+   },
+   {
+    "quote": "化学製品の輸入・販売においては、製品特性を踏まえた各種法規制への適合確認と、安全情報の適切な整備が不可欠です",
+    "url": "https://www.ficjp.com/business/chemical/",
+    "pass": 1
+   },
+   {
+    "quote": "設備導入・保守｜富士インダストリーズ",
+    "url": "https://www.ficjp.com/business/equipment-introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "設備導入・保守",
+    "url": "https://www.ficjp.com/business/equipment-introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "海外の専業メーカーと肩を並べる国内唯一のメーカーとの協業により、海外メーカーにはない細かな仕様を実現、納入後のアフターサービスはもちろん、納入後20年以上経過した設備の保守・改良までサポートしています",
+    "url": "https://www.ficjp.com/business/equipment-introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "試作の手配から継続的な工程外注のハンドリング、装置本体の納入まで、世界をリードする海外メーカーと国内のものづくりの現場との橋渡しを一環して当社がサポートいたします",
+    "url": "https://www.ficjp.com/business/equipment-introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "設備導入・保守",
+    "url": "https://www.ficjp.com/business/other/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の生産計画や調達方針に応じて、供給スキームを柔軟に設計し、必要なタイミングでの納入を実現します",
+    "url": "https://www.ficjp.com/business/other/",
+    "pass": 1
+   },
+   {
+    "quote": "納入タイミングや数量を事前に設計することで、供給のばらつきを抑え、安定した生産環境を支えます",
+    "url": "https://www.ficjp.com/business/other/",
+    "pass": 1
+   },
+   {
+    "quote": "実務に即した運用設計により、過不足の発生を抑えながら、効率的なサプライチェーンの維持に貢献します",
+    "url": "https://www.ficjp.com/business/other/",
+    "pass": 1
+   },
+   {
+    "quote": "設備導入・保守",
+    "url": "https://www.ficjp.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "各種製造設備の導入において、機器選定から輸入・据付、試運転、保守まで一貫して対応しています",
+    "url": "https://www.ficjp.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "設備導入・保守",
+    "url": "https://www.ficjp.com/products/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "CCS(Custom Control Sensor)は航空宇宙、防衛及び産業市場向けのプレッシャー、温度および流量センサー・スイッチの設計および製造における世界的リーディングカンパニーです",
+    "url": "https://www.ficjp.com/products/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "設備導入・保守",
+    "url": "https://www.ficjp.com/products/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "設備導入・保守",
+    "url": "https://www.ficjp.com/products/equipment/maag-gala/",
+    "pass": 1
+   },
+   {
+    "quote": "試作から立ち上げまでを一括サポート",
+    "url": "https://www.ficjp.com/products/equipment/maag-gala/",
+    "pass": 1
+   },
+   {
+    "quote": "国内化学会社様、コンパウンド・カラーリング会社様、リサイクル業者様からのご要望に対し、『試作試験』から『機器選定』・『輸入/輸送』・『据付指導』・『試運転立ち合い』・『技術アフターサービス』まで弊社が中心となり迅速に解決/対応ができるようにいたします",
+    "url": "https://www.ficjp.com/products/equipment/maag-gala/",
+    "pass": 1
+   },
+   {
+    "quote": "小型研究用ユニットから生産用設備まで輸入販売しており、多種多様な材料に対し、通常サイズだけでは無くΦ1㎜以下のペレットまで独自の技術によりペレット化が可能です",
+    "url": "https://www.ficjp.com/products/equipment/maag-gala/",
+    "pass": 1
+   },
+   {
+    "quote": "『機器選定』『輸送』『試運転調整』『アフターサービス』はもちろん、機種選定前の『試作試験』も含めて全て国内の弊社にて対応し、お客様にご納得いただくまでサポートいたします",
+    "url": "https://www.ficjp.com/products/equipment/maag-gala/",
+    "pass": 1
+   },
+   {
+    "quote": "国内にある弊社ラボでの試作試験や、機械・電気仕様の打ち合わせなどを通して、様々な特徴をもつ材料の安定 生産を目的に、機器運用方法や設置現場の状況に応じて最適なご提案をさせて頂きます",
+    "url": "https://www.ficjp.com/products/equipment/maag-gala/",
+    "pass": 1
+   },
+   {
+    "quote": "また、機器納入後の技術サービス員の派遣や、保守点検部品の販売（一部国内在庫として保有）も、ネットワーク を駆使し迅速なトラブル解決に最大限ご協力いたします",
+    "url": "https://www.ficjp.com/products/equipment/maag-gala/",
+    "pass": 1
+   },
+   {
+    "quote": "日本国内では、1991年より輸入・販売を始め",
+    "url": "https://www.ficjp.com/products/equipment/maag-gala/",
+    "pass": 1
+   },
+   {
+    "quote": "国内化学メーカー様やコンパウンダー様、海外プラントに向けてペレット遠心脱水機を販売しております",
+    "url": "https://www.ficjp.com/products/equipment/maag-gala/",
+    "pass": 1
+   },
+   {
+    "quote": "最小限のエネルギーで最大限の脱水率を得られる効率設計と、高品質、高耐久性を誇ります",
+    "url": "https://www.ficjp.com/products/equipment/maag-gala/",
+    "pass": 1
+   },
+   {
+    "quote": "多様な販売実績",
+    "url": "https://www.ficjp.com/products/equipment/maag-gala/",
+    "pass": 1
+   },
+   {
+    "quote": "メンテナンス重視の設計",
+    "url": "https://www.ficjp.com/products/equipment/maag-gala/",
+    "pass": 1
+   },
+   {
+    "quote": "扉を最大限大きく設計しているので内部へのアクセス性や清掃性が高く、内部部品の部分補修や交換も容易です",
+    "url": "https://www.ficjp.com/products/equipment/maag-gala/",
+    "pass": 1
+   },
+   {
+    "quote": "日本国内では1975年より輸入販売を始め、400台以上が現在稼動中です",
+    "url": "https://www.ficjp.com/products/equipment/maag-gala/",
+    "pass": 1
+   },
+   {
+    "quote": "設備導入・保守",
+    "url": "https://www.ficjp.com/products/equipment/cevotec/",
+    "pass": 1
+   },
+   {
+    "quote": "ARTSIT STUDIOのラミネート設計モジュール",
+    "url": "https://www.ficjp.com/products/equipment/cevotec/",
+    "pass": 1
+   },
+   {
+    "quote": "設備導入・保守",
+    "url": "https://www.ficjp.com/news/",
+    "pass": 1
+   },
+   {
+    "quote": "プレスリリース",
+    "url": "https://www.ficjp.com/news/",
+    "pass": 1
+   },
+   {
+    "quote": "設備導入・保守",
+    "url": "https://www.ficjp.com/recruit/company/",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "技術的知見と海外ネットワークを活かし、お客様の用途や生産条件に適した設備を提案し、安定稼働と生産性向上を支えます",
+    "url": "https://www.ficjp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "航空機業界EDIセンター",
+    "url": "https://www.ficjp.com/aboutus/company/",
+    "pass": 1
+   },
+   {
+    "quote": "距離や時差を越えたスムーズなやり取りを通じ、変化する環境の中でも、お客様と長く信頼関係を築いていくことを大切にしています",
+    "url": "https://www.ficjp.com/aboutus/officelocations/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、事業活動を通じて社会的責任を果たし、顧客・取引先・従業員をはじめとするすべてのステークホルダーから信頼される企業であり続けることを目指しています",
+    "url": "https://www.ficjp.com/aboutus/csr/",
+    "pass": 1
+   },
+   {
+    "quote": "ESG・CSRに関する顧客や取引先からの要請に対し、適切かつ誠実に対応すること",
+    "url": "https://www.ficjp.com/aboutus/csr/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客の要求を満足する高品質な商品・サービスを提供いたします",
+    "url": "https://www.ficjp.com/aboutus/csr/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社富士インダストリーズは、「航空、宇宙及び防衛業界向けの品質マネジメントシステム規格」であるJIS Q 9100:2016(EN9100:2018及びAS9100Dと技術的に同等)及びJIS Q 9001:2015(ISO 9001:2015)の認証を取得しております",
+    "url": "https://www.ficjp.com/aboutus/csr/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の満足を得る事・顧客第一をモットーとして、信頼される製品及びサービスを提供します",
+    "url": "https://www.ficjp.com/aboutus/csr/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の期待、ニーズに応えるべく、常により高い技術力及び効率を求めてサービス向上に努めます",
+    "url": "https://www.ficjp.com/aboutus/csr/",
+    "pass": 1
+   },
+   {
+    "quote": "法令・規則を遵守し、お客様の要求に適合する商品を的確に供給します",
+    "url": "https://www.ficjp.com/aboutus/csr/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の信頼を得て、豊かで安全な地域、社会の発展、福祉に貢献します",
+    "url": "https://www.ficjp.com/aboutus/csr/",
+    "pass": 1
+   },
+   {
+    "quote": "各分野に精通した専門性とグローバルネットワークを活かし、お客様の課題に最適なソリューションを提供",
+    "url": "https://www.ficjp.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の在庫管理の工数を抑えつつ、安定した生産と効率的なサプライチェーン運営を支えます",
+    "url": "https://www.ficjp.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "海外拠点で得られる現地情報を活かしながら、個々のニーズに応じた商流を設計し、お客様の事業を安定的に支える国際調達パートナーを目指しています",
+    "url": "https://www.ficjp.com/business/international-sourcing/",
+    "pass": 1
+   },
+   {
+    "quote": "業界で培ってきた知見や関係先とのつながりを活かし、取引先同士を結ぶ役割や新たな商流づくりにも取り組んでいます",
+    "url": "https://www.ficjp.com/business/international-sourcing/",
+    "pass": 1
+   },
+   {
+    "quote": "商材の供給にとどまらず、実務に寄り添った形でお客様の事業を支えています",
+    "url": "https://www.ficjp.com/business/international-sourcing/",
+    "pass": 1
+   },
+   {
+    "quote": "長年にわたる業界での経験を活かし、輸送手段の選定や物流面での工夫など、実務に根ざした提案を通じて、お客様の事業運営を支えています",
+    "url": "https://www.ficjp.com/business/international-sourcing/",
+    "pass": 1
+   },
+   {
+    "quote": "化審法における少量新規化学物質の輸入実績も多数あり、確かな実績と専門知識でお客様の事業を支えます",
+    "url": "https://www.ficjp.com/business/chemical/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、お客様からの引き合いを受けた段階で、海外サプライヤーより英文SDS（Safety Data Sheet）を入手し、成分情報および危険有害性情報を精査します",
+    "url": "https://www.ficjp.com/business/chemical/",
+    "pass": 1
+   },
+   {
+    "quote": "これら一連のプロセスを当社が一括して管理することで、法令遵守と安全性を確保しながら、円滑な輸入およびお客様への安定供給を実現しています",
+    "url": "https://www.ficjp.com/business/chemical/",
+    "pass": 1
+   },
+   {
+    "quote": "国内にない特殊な設備や、お客様指定メーカーによるカタログ品から一品もののオーダーメイド設備まで、幅広く対応可能です",
+    "url": "https://www.ficjp.com/business/equipment-introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "設備機械事業部の導入事例（航空関連）",
+    "url": "https://www.ficjp.com/business/equipment-introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "導入検討時の仕様打合せから当社も参加し、お客様のご要望を正しくメーカーに伝えながら設備製作をサポート",
+    "url": "https://www.ficjp.com/business/equipment-introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "納入後もトラブルや使用方法の問合せ対応や、キャリブレーションや修理のための海外メーカーとの橋渡しも当社で対応しお客様の生産に協力させていただいています",
+    "url": "https://www.ficjp.com/business/equipment-introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "特許技術の鏡面仕上げにより極めて滑らかな表面と共に耐摩耗性や疲労強度の向上を実現し、航空機部品やモータースポーツ用の精密部品にも採用されており、Additive manufacturing(3Dプリンタ)部品の表面・内面仕上げの技術では業界をリードしています",
+    "url": "https://www.ficjp.com/business/equipment-introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "業界でも100年以上活躍している信頼あるメーカーと協力し、お客様に合わせた仕様の設備を提供させていただきます",
+    "url": "https://www.ficjp.com/business/equipment-introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーである北米の大手エンジニアリング会社はエンジンOEMの認証を有する数少ない会社であり、OEMやMRO向けなど国内外に多くの納入実績を有しております",
+    "url": "https://www.ficjp.com/business/equipment-introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の生産計画や調達方針に応じて、供給スキームを柔軟に設計し、必要なタイミングでの納入を実現します",
+    "url": "https://www.ficjp.com/business/other/",
+    "pass": 1
+   },
+   {
+    "quote": "長期契約や供給調整、納入頻度の最適化など、LTAやVMIを含む多様な形で対応し、お客様の業務負荷を抑えながら生産活動を支えます",
+    "url": "https://www.ficjp.com/business/other/",
+    "pass": 1
+   },
+   {
+    "quote": "ご注文いただいた製品は当社で一時的にお預かりし、お客様の生産スケジュールやご希望の納期に合わせて、小分けして計画的に納品",
+    "url": "https://www.ficjp.com/business/other/",
+    "pass": 1
+   },
+   {
+    "quote": "調達コストの最適化や、煩雑な発注管理の簡素化にもつながるLTA対応で、お客様の業務効率向上を支援します",
+    "url": "https://www.ficjp.com/business/other/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の製造計画や需要動向を踏まえ、供給状況を継続的に把握・調整するVMI（Vendor Managed Inventory）にも対応しています",
+    "url": "https://www.ficjp.com/business/other/",
+    "pass": 1
+   },
+   {
+    "quote": "航空機部品から最先端の素材、そして人々の暮らしを豊かに彩るワインまで、幅広い商材でお客様のニーズに応え、",
+    "url": "https://www.ficjp.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "技術的知見と海外ネットワークを活かし、お客様の用途や生産条件に適した設備を提案し、安定稼働と生産性向上を支えます",
+    "url": "https://www.ficjp.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "国内重工様へ納入実績あり",
+    "url": "https://www.ficjp.com/products/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "『機器選定』『輸送』『試運転調整』『アフターサービス』はもちろん、機種選定前の『試作試験』も含めて全て国内の弊社にて対応し、お客様にご納得いただくまでサポートいたします",
+    "url": "https://www.ficjp.com/products/equipment/maag-gala/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様には大変ご迷惑をおかけいたしますが、ご理解のほどよろしくお願い申し上げます",
+    "url": "https://www.ficjp.com/news/%E3%80%90%E9%87%8D%E8%A6%81%E3%80%91%E5%90%84%E7%A8%AE%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "pass": 1
+   },
+   {
+    "quote": "1946年の創業以来、商社として培ってきた技術、知識、ネットワークを活かし、お客様の課題解決と産業の発展に貢献してまいりました",
+    "url": "https://www.ficjp.com/news/%EF%BC%99%E6%9C%88%EF%BC%97%E6%97%A5-%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E%E3%81%AB%E5%BD%93%E7%A4%BE%E5%BA%83%E5%91%8A%E3%81%8C%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97/",
+    "pass": 1
+   },
+   {
+    "quote": "創立80周年を迎えることができましたのは、これまで当社を支えてくださったお客様、お取引先様、関係者の皆様のお力添えがあってこそです",
+    "url": "https://www.ficjp.com/news/%EF%BC%99%E6%9C%88%EF%BC%97%E6%97%A5-%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E%E3%81%AB%E5%BD%93%E7%A4%BE%E5%BA%83%E5%91%8A%E3%81%8C%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97/",
+    "pass": 1
+   },
+   {
+    "quote": "社会や産業を取り巻く環境が大きく変化する中、当社はこれからもグローバルな視点と専門性を活かし、お客様の課題解決と新たな価値創造に挑戦し続けます",
+    "url": "https://www.ficjp.com/news/%EF%BC%99%E6%9C%88%EF%BC%97%E6%97%A5-%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E%E3%81%AB%E5%BD%93%E7%A4%BE%E5%BA%83%E5%91%8A%E3%81%8C%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97/",
+    "pass": 1
+   },
+   {
+    "quote": "調達の専門性と国際的なネットワークを強みに、幅広い業界のニーズに対応しています",
+    "url": "https://www.ficjp.com/aboutus/officelocations/ny/",
+    "pass": 1
+   },
+   {
+    "quote": "調達に関する高い専門性とグローバルなネットワークを強みとし、多様な業界のニーズに応えています",
+    "url": "https://www.ficjp.com/aboutus/officelocations/la/",
+    "pass": 1
+   },
+   {
+    "quote": "納期遵守を徹底し、世界中のお客様のニーズに応えています",
+    "url": "https://www.ficjp.com/aboutus/officelocations/la/",
+    "pass": 1
+   },
+   {
+    "quote": "戦略的な在庫管理システムを導入し、適正在庫の維持を通じて、お客様の生産活動の円滑な継続を支えています",
+    "url": "https://www.ficjp.com/aboutus/officelocations/la/",
+    "pass": 1
+   },
+   {
+    "quote": "長年にわたり蓄積してきた業界知識と、信頼性の高いグローバルパートナーシップを基盤に、航空宇宙業界のお客様へ、確かな価値と高い品質、そして安定したサービスの提供を目指しています",
+    "url": "https://www.ficjp.com/aboutus/officelocations/la/",
+    "pass": 1
+   },
+   {
+    "quote": "ガソリンの削減目標を策定していない理由は、顧客訪問に営業車の利用は欠かせない為です",
+    "url": "https://www.ficjp.com/wp-content/themes/ficjp_temp/assets/pdf/Environmental-Management-Report_2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取引先からのCSR調査が増え、環境への取り組み状況についての問い合わせが増えた",
+    "url": "https://www.ficjp.com/wp-content/themes/ficjp_temp/assets/pdf/Environmental-Management-Report_2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ワインは文化や国境を越えたコミュニケーションツールであり、自然の恵みを共有できるかけがえのない存在として、お客様に届けています",
+    "url": "https://www.ficwine.com/",
+    "pass": 3
+   },
+   {
+    "quote": "業界未経験歓迎",
+    "url": "https://www.r-agent.com/company/10836/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 株式会社富士インダストリーズ 求人名 【東京/航空機材の法人営業】国内大手重工向け/航空機産業の専門商社/売上◎ 仕事の内容 国内大手重工業メーカー等の顧客へ、航空機や発電機に使用される金属部材(素材・加工品)の提案・調達・供給をお任せします",
+    "url": "https://www.r-agent.com/company/10836/",
+    "pass": 3
+   },
+   {
+    "quote": "担当顧客:航空機・発電用部品メーカー/取扱商材:金属材料(素材/加工品) 欧米(拠点経由)やアジア(直取引)への見積依頼、交渉、納期調整、通関、納品まで完結",
+    "url": "https://www.r-agent.com/company/10836/",
+    "pass": 3
+   },
+   {
+    "quote": "【具体業務】■顧客との折衝(週に1～2回訪問)■見積作成(海外メーカーからの見積入手、値付け、見積書作成)■納期フォローやクレームのフォローアップ■海外メーカーの顧客訪問アテンド 募集職種 【東京/航空機材の法人営業】国内大手重工向け/航空機産業の専門商社/売上◎",
+    "url": "https://www.r-agent.com/company/10836/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 株式会社富士インダストリーズ 求人名 【神戸/社内SE】第二新卒向け/航空機産業の専門商社/将来の管理職候補 仕事の内容 自社の社内SEとして、まずはPCの運用管理やヘルプデスク等のユーザーサポートからお任せします",
+    "url": "https://www.r-agent.com/company/10836/",
+    "pass": 3
+   },
+   {
+    "quote": "・輸出入データに基づく物流管理 ・乙仲業者、保険会社、海外取引先との電話メールによる各種折衝・調整 （英語でのやりとりはメールが中心） ・内部監査の実施、貨物保険求償業務 ・関税関係法令に基づく事後調査対応 ・自社システムへの入力作業、事務全般 募集職種 【神戸/物流企画・管理】航空機産業の専門商社/海外とのやり取り",
+    "url": "https://www.r-agent.com/company/10836/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 株式会社富士インダストリーズ 求人名 【東京/航空機材の法人営業】英語スキルを活かす/航空機産業の専門商社 仕事の内容 国内大手重工業メーカー等の顧客へ、航空機や発電機に使用される金属部材(素材・加工品)の提案・調達・供給をお任せいたします",
+    "url": "https://www.r-agent.com/company/10836/",
+    "pass": 3
+   },
+   {
+    "quote": "【具体業務】■顧客との折衝(週に1～2回訪問)■見積作成(海外メーカーからの見積入手、値付け、見積書作成)■納期フォローやクレームのフォローアップ■海外メーカーの顧客訪問アテンド 募集職種 【東京/航空機材の法人営業】英語スキルを活かす/航空機産業の専門商社",
+    "url": "https://www.r-agent.com/company/10836/",
+    "pass": 3
+   },
+   {
+    "quote": "航空機・エンジンの製造、修理、定期交換に必要な航空機部品、金属材料・複合材・ケミカル製品を含めた航空機規格材料、搭載機材等、資材全般を、欧米及びアジアのネットワークを通じて海外から輸入し、国内の航空機体メーカー、エンジンメーカーや航空業界関連会社に納入しております",
+    "url": "https://www.japanaerospace.jp/jp/exhibitor/59",
+    "pass": 3
+   },
+   {
+    "quote": "また宇宙関係のロケット、衛星、宇宙ステーションの製造、研究に必要な資材も、同様に輸入し、宇宙業界に販売しております",
+    "url": "https://www.japanaerospace.jp/jp/exhibitor/59",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "373億円（2025年）",
+    "url": "https://www.ficjp.com/aboutus/company/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は海外に現地法人を構え、現地サプライヤーとの継続的な連携を通じて、円滑な調達体制を維持しています",
+    "url": "https://www.ficjp.com/business/international-sourcing/",
+    "pass": 1
+   },
+   {
+    "quote": "これら一連のプロセスを当社が一括して管理することで、法令遵守と安全性を確保しながら、円滑な輸入およびお客様への安定供給を実現しています",
+    "url": "https://www.ficjp.com/business/chemical/",
+    "pass": 1
+   },
+   {
+    "quote": "戦略的な在庫管理システムを導入し、適正在庫の維持を通じて、お客様の生産活動の円滑な継続を支えています",
+    "url": "https://www.ficjp.com/aboutus/officelocations/la/",
+    "pass": 1
+   },
+   {
+    "quote": "打ち合わせの設定や通訳支援、商談時の調整などを通じて、取引開始の円滑化を図ります",
+    "url": "https://www.ficjp.com/aboutus/officelocations/london/",
+    "pass": 1
+   },
+   {
+    "quote": "⑥資本金 ： 9,900万円 （全社）",
+    "url": "https://www.ficjp.com/wp-content/themes/ficjp_temp/assets/pdf/Environmental-Management-Report_2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⑦売上額 ： 37,373百万円 （2025年9月期） （全社）",
+    "url": "https://www.ficjp.com/wp-content/themes/ficjp_temp/assets/pdf/Environmental-Management-Report_2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "28万円以上",
+    "url": "https://www.r-agent.com/company/10836/",
+    "pass": 3
+   },
+   {
+    "quote": "乙仲業者や保険会社、海外関係先との電話・メールによる折衝を通じて、円滑な輸出入業務を推進します",
+    "url": "https://www.r-agent.com/company/10836/",
+    "pass": 3
+   },
+   {
+    "quote": "13,200円(税込)以上",
+    "url": "https://www.how-dy.jp/c/importer/fic",
+    "pass": 3
+   },
+   {
+    "quote": "商品のご購入金額が13,200円(税込)以上で",
+    "url": "https://www.how-dy.jp/c/importer/fic",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "金属粉末を高圧ガスによって高速噴射し、母材を加熱せずに肉盛り・補修を行い、損傷部を高精度に復元する",
+    "url": "https://www.ficjp.com/products/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "金属合金材料（鍛造、鋳造棒、シートプレート、ワイヤ、粉末）",
+    "url": "https://www.ficjp.com/aboutus/officelocations/ny/",
+    "pass": 1
+   },
+   {
+    "quote": "海外仕入先との価格交渉や納期管理までご担当いただくので、成長できる環境です",
+    "url": "https://www.r-agent.com/company/10836/",
+    "pass": 3
+   },
+   {
+    "quote": "担当顧客:航空機・発電用部品メーカー/取扱商材:金属材料(素材/加工品) 欧米(拠点経由)やアジア(直取引)への見積依頼、交渉、納期調整、通関、納品まで完結",
+    "url": "https://www.r-agent.com/company/10836/",
+    "pass": 3
+   },
+   {
+    "quote": "【具体業務】■顧客との折衝(週に1～2回訪問)■見積作成(海外メーカーからの見積入手、値付け、見積書作成)■納期フォローやクレームのフォローアップ■海外メーカーの顧客訪問アテンド 募集職種 【東京/航空機材の法人営業】国内大手重工向け/航空機産業の専門商社/売上◎",
+    "url": "https://www.r-agent.com/company/10836/",
+    "pass": 3
+   },
+   {
+    "quote": "海外仕入先との価格交渉や納期管理までご担当いただくので成長できる環境です",
+    "url": "https://www.r-agent.com/company/10836/",
+    "pass": 3
+   },
+   {
+    "quote": "【具体業務】■顧客との折衝(週に1～2回訪問)■見積作成(海外メーカーからの見積入手、値付け、見積書作成)■納期フォローやクレームのフォローアップ■海外メーカーの顧客訪問アテンド 募集職種 【東京/航空機材の法人営業】英語スキルを活かす/航空機産業の専門商社",
+    "url": "https://www.r-agent.com/company/10836/",
+    "pass": 3
+   },
+   {
+    "quote": "価格が安い順",
+    "url": "https://www.how-dy.jp/c/importer/fic",
+    "pass": 3
+   },
+   {
+    "quote": "価格が高い順",
+    "url": "https://www.how-dy.jp/c/importer/fic",
+    "pass": 3
+   },
+   {
+    "quote": "会員価格あり",
+    "url": "https://www.how-dy.jp/c/importer/fic",
+    "pass": 3
+   },
+   {
+    "quote": "会員特別価格",
+    "url": "https://www.how-dy.jp/c/importer/fic",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "取扱製品 - 富士インダストリーズ — 取扱製品 - 富士インダストリーズ 株式会社富士インダストリーズ https://www.ficjp.com > products",
+    "url": "https://www.ficjp.com/products/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 富士インダストリーズ の会社概要・製品情報 | Metoree — 株式会社 富士インダストリーズ の会社概要・製品情報 | Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/4464/",
+    "pass": 3
+   },
+   {
+    "quote": "FICWINE 富士インダストリーズ ワイン事業部 — FICWINE 富士インダストリーズ ワイン事業部 FICWINE https://www.ficwine.com",
+    "url": "https://www.ficwine.com/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 富士インダストリーズ の中途採用・転職・求人情報 — 株式会社 富士インダストリーズ の中途採用・転職・求人情報 リクルートエージェント https://www.r-agent.com > company",
+    "url": "https://www.r-agent.com/company/10836/",
+    "pass": 3
+   },
+   {
+    "quote": "富士インダストリーズ | 企業情報 | イプロスものづくり — 富士インダストリーズ | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 産業用機械",
+    "url": "https://mono.ipros.com/company/detail/2058709/",
+    "pass": 3
+   },
+   {
+    "quote": "富士インダストリーズ 「企業分析」 OpenWork — 富士インダストリーズ 「企業分析」 OpenWork OpenWork https://www.openwork.jp > ... > 富士インダストリーズ",
+    "url": "https://www.openwork.jp/a0C1000000V5m8f/analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "（株） 富士インダストリーズ による過大請求事案について — （株） 富士インダストリーズ による過大請求事案について 国土交通省 https://www.mlit.go.jp > kisha > kisha07",
+    "url": "https://www.mlit.go.jp/kisha/kisha07/12/120206_.html",
+    "pass": 3
+   },
+   {
+    "quote": "富士インダストリーズ | ハウディ — 富士インダストリーズ | ハウディ how-dy.jp https://www.how-dy.jp > インポーター",
+    "url": "https://www.how-dy.jp/c/importer/fic",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 富士インダストリーズ の求人・中途採用情報 - doda — 株式会社 富士インダストリーズ の求人・中途採用情報 - doda doda https://doda.jp > CompanyJobs > j_id__00005888048",
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__00005888048/",
+    "pass": 3
+   },
+   {
+    "quote": "ロンドン事業紹介｜主要拠点 - 富士インダストリーズ — ロンドン事業紹介｜主要拠点 - 富士インダストリーズ 株式会社富士インダストリーズ https://www.ficjp.com > 会社情報 > 主要拠点",
+    "url": "https://www.ficjp.com/aboutus/officelocations/london/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 富士インダストリーズ ｜オンラインカタログ｜JA2024 — 株式会社 富士インダストリーズ ｜オンラインカタログ｜JA2024 JAPAN INTERNATIONAL AEROSPACE EXHIBITION 2024 https://www.japanaerospace.jp > exhibitor",
+    "url": "https://www.japanaerospace.jp/jp/exhibitor/59",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 富士インダストリーズ ｜航空宇宙・設備機械・ワイン ... — 株式会社 富士インダストリーズ ｜航空宇宙・設備機械・ワイン ... 株式会社富士インダストリーズ https://www.ficjp.com",
+    "url": "https://www.ficjp.com/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.ficjp.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ficjp.com/aboutus/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ficjp.com/aboutus/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ficjp.com/aboutus/officer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ficjp.com/aboutus/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ficjp.com/aboutus/officelocations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ficjp.com/aboutus/organizationchart/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ficjp.com/aboutus/csr/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ficjp.com/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ficjp.com/business/international-sourcing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ficjp.com/business/chemical/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ficjp.com/business/equipment-introduction/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ficjp.com/business/other/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ficjp.com/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ficjp.com/products/aerospace/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ficjp.com/products/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ficjp.com/products/equipment/maag-gala/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ficjp.com/products/equipment/cevotec/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ficjp.com/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ficjp.com/recruit/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ficjp.com/news/%E5%9B%BD%E9%9A%9B%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E3%83%95%E3%82%A7%E3%82%A2%EF%BC%88ipf%EF%BC%892026%E3%81%AB%E5%87%BA%E5%B1%95%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%99/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ficjp.com/news/%E3%80%90%E9%87%8D%E8%A6%81%E3%80%91%E5%90%84%E7%A8%AE%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ficjp.com/news/%EF%BC%99%E6%9C%88%EF%BC%97%E6%97%A5-%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E%E3%81%AB%E5%BD%93%E7%A4%BE%E5%BA%83%E5%91%8A%E3%81%8C%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ficjp.com/aboutus/officelocations/ny/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ficjp.com/aboutus/officelocations/la/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ficjp.com/aboutus/officelocations/london/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.ficjp.com/wp-content/themes/ficjp_temp/assets/pdf/Environmental-Management-Report_2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ficjp.com/wp-content/themes/ficjp_temp/assets/images/eyecatch/img_history.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.ficjp.com/wp-content/themes/ficjp_temp/assets/images/history/img_194605.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.ficjp.com/wp-content/themes/ficjp_temp/assets/images/history/img_194906.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.ficjp.com/wp-content/themes/ficjp_temp/assets/images/history/img_195905.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.ficjp.com/wp-content/themes/ficjp_temp/assets/images/history/img_199501.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.ficjp.com/wp-content/themes/ficjp_temp/assets/images/history/img_199906.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.ficjp.com/wp-content/themes/ficjp_temp/assets/images/history/img_200906.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.ficjp.com/wp-content/themes/ficjp_temp/assets/images/history/img_201105.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.ficjp.com/wp-content/themes/ficjp_temp/assets/images/history/img_201507.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.ficjp.com/wp-content/themes/ficjp_temp/assets/images/history/img_201605.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://metoree.com/companies/4464/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ficwine.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ficwine.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.r-agent.com/company/10836/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.how-dy.jp/c/importer/fic",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ficwine.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ficwine.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japanaerospace.jp/jp/exhibitor/59",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "富士インダストリーズ",
+   "results": [
+    "https://www.ficjp.com/",
+    "https://www.ficwine.com/",
+    "https://www.openwork.jp/a0C1000000V5m8f/analysis/",
+    "https://doda.jp/keyword/%E5%AF%8C%E5%A3%AB%E3%82%A4%E3%83%B3%E3%83%80%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA/",
+    "https://www.r-agent.com/company/10836/",
+    "https://www.ficwine.com/company/"
+   ]
+  },
+  {
+   "query": "富士インダストリーズ 代理店 契約",
+   "results": [
+    "https://www.ficjp.com/products/",
+    "https://metoree.com/companies/4464/",
+    "https://www.ficwine.com/",
+    "https://www.r-agent.com/company/10836/",
+    "https://mono.ipros.com/company/detail/2058709/",
+    "https://tenshoku.mynavi.jp/jobinfo-365028-5-14-1/",
+    "https://www.mlit.go.jp/kisha/kisha07/12/120206_.html",
+    "https://www.japanaerospace.jp/jp/exhibitor/59",
+    "https://doda.jp/DodaFront/View/Company/j_id__00005888048/",
+    "https://www.ficjp.com/"
+   ]
+  },
+  {
+   "query": "富士インダストリーズ 導入事例",
+   "results": [
+    "https://www.ficjp.com/products/",
+    "https://www.ficwine.com/",
+    "https://www.r-agent.com/company/10836/",
+    "https://www.openwork.jp/a0C1000000V5m8f/analysis/",
+    "https://www.mlit.go.jp/kisha/kisha07/12/120206_.html",
+    "https://www.mcframe.com/case/topic/mcframe-%E7%94%9F%E7%94%A3%E7%AE%A1%E7%90%86",
+    "https://www.japanaerospace.jp/jp/exhibitor/59",
+    "https://www.ficjp.com/aboutus/company/",
+    "https://doda.jp/keyword/%E5%AF%8C%E5%A3%AB%E3%82%A4%E3%83%B3%E3%83%80%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA/",
+    "https://www.sanpo-pub.co.jp/medianews/yg/post-27.html"
+   ]
+  },
+  {
+   "query": "富士インダストリーズ 価格 OR 料金",
+   "results": [
+    "https://www.ficjp.com/products/",
+    "https://www.how-dy.jp/c/importer/fic",
+    "https://www.ficwine.com/",
+    "https://www.r-agent.com/company/10836/",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__00005888048/",
+    "https://www.ficjp.com/aboutus/company/",
+    "https://www.openwork.jp/a0C1000000V5m8f/analysis/",
+    "https://www.mlit.go.jp/kisha/kisha07/12/120206_.html",
+    "https://shop.ficwine.com/",
+    "https://claude.com/pricing"
+   ]
+  },
+  {
+   "query": "富士インダストリーズ 受託 造形",
+   "results": [
+    "https://www.ficjp.com/aboutus/officelocations/london/",
+    "https://www.ficwine.com/",
+    "https://www.japanaerospace.jp/jp/exhibitor/59",
+    "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "https://www.ficjp.com/",
+    "https://www.openwork.jp/a0C1000000V5m8f/analysis/",
+    "https://mono.ipros.com/product/detail/2000311619/",
+    "https://baseconnect.in/companies/4e1a4ef1-81bf-4006-bcd7-b02a434f97b2",
+    "https://jp.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E5%AF%8C%E5%A3%AB%E3%82%A4%E3%83%B3%E3%83%80%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%82%BA",
+    "https://fuji-industries.co.jp/company"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -1,0 +1,1552 @@
+# ホワイトラベルで担げるソフト・AIソフト（無料体験・30分で分かるもの優先）（事実のみ・24品目）
+
+数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
+
+## ホワイトラベルAIチャットボット（white label AI chatbot）
+- 文脈：問い合わせ対応
+- 提供企業：
+  - 「10 Best White Label AI Chatbot Platforms: The Ultimate Guide (2026)」（https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/）
+  - 「Reviewed by」（https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/）
+  - 「I Tested The Best Whitelabel AI Chatbots [2026 Reviews]」（https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/）
+  - 「testing 19+ top white label AI chatbot platforms」（https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/）
+  - 「reviewed」（https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/）
+  - 「top 10 criteria, including features, cost, tech, experience, G2 reviews,」（https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/）
+  - 「CustomGPT is a one of the best white label AI software for small and medium-scale businesses that aim to implement a white-label AI chatbot for their platform without having to do a lot of technical work.」（https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/）
+  - 「ManyChat was initially created to automate messages on social media platforms like Messenger and Instagram.」（https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/）
+  - 「Not many providers offer this. MirrorFly lets you take complete control of the chatbot data while offering」（https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/）
+  - 「MirrorFly Alternatives」（https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/）
+  - 「MirrorFly vs Twilio」（https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/）
+  - 「MirrorFly vs Sendbird」（https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/）
+  - 「MirrorFly vs Agora」（https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/）
+  - 「MirrorFly vs Getstream」（https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/）
+  - 「MirrorFly vs Pubnub」（https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/）
+- 自社名で出せる条件：
+  - 「10 Best White-Label AI Chatbot Platforms (I Tested in 2026)」（https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/）
+  - 「Build Custom, White-label AI Voice Agents For Any Mobile Or Web.」（https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/）
+  - 「Enhance Your Brand Experience With Real-Time Communication.」（https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/）
+  - 「Verify Customers In Real-Time With White-Label Video Solution.」（https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/）
+  - 「Build your own custom Super-apps with White-label solution.」（https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/）
+  - 「Build your own white-label AI Agents that can automate tasks on your app or web.」（https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/）
+  - 「10 Best White Label AI Chatbot Platforms: The Ultimate Guide (2026)」（https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/）
+  - 「10 Best White-Label AI Chatbots in 2026: TL;DR」（https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/）
+  - 「I Tested The Best Whitelabel AI Chatbots [2026 Reviews]」（https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/）
+  - 「Why Choose MirrorFly White Label AI Chatbot?」（https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/）
+  - 「testing 19+ top white label AI chatbot platforms」（https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/）
+  - 「Best for building white label AI chatbot」（https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/）
+  - 「Best for teams designing white label voice AI and chat experiences」（https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/）
+  - 「Since MirrorFly’s white label AI chatbot platform supports data ingestion, you can use URLs, PDFs, or any format of document to help your chatbot learn what your product is about.」（https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/）
+  - 「Key Features of MirrorFly’s White Label AI Chatbot:」（https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/）
+- 再販制度：
+  - 「Agency partner program」（https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/）
+  - 「Reseller-friendly management」（https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/）
+  - 「A white-label AI chatbot builder allows agencies and businesses to rebrand, resell, and manage AI chatbots under their own brand without building the underlying technology」（https://www.sortresume.ai/best-white-label-ai-chatbot-builder-with-custom-data-training-2026/）
+  - 「White-label chatbot SaaS platforms enable agencies to resell AI chatbots under their own brand with recurring revenue models」（https://www.sortresume.ai/best-white-label-ai-chatbot-builder-with-custom-data-training-2026/）
+  - 「A white-label AI chatbot builder is a platform that allows an agency, reseller, or business to deploy AI chatbots under their own brand, removing or replacing the original platform’s branding with their own name, logo, colors, and domain.」（https://www.sortresume.ai/best-white-label-ai-chatbot-builder-with-custom-data-training-2026/）
+  - 「Custom branding: The client-facing chatbot interface displays the reseller’s brand, not the platform provider’s」（https://www.sortresume.ai/best-white-label-ai-chatbot-builder-with-custom-data-training-2026/）
+  - 「Custom domain: The chatbot is accessible from the reseller’s own domain rather than the platform’s default URL」（https://www.sortresume.ai/best-white-label-ai-chatbot-builder-with-custom-data-training-2026/）
+  - 「Multi-client dashboard: The reseller can manage multiple client chatbot deployments from a single administrative interface」（https://www.sortresume.ai/best-white-label-ai-chatbot-builder-with-custom-data-training-2026/）
+  - 「Reseller pricing control: The reseller sets their own pricing for clients, independent of the platform’s cost」（https://www.sortresume.ai/best-white-label-ai-chatbot-builder-with-custom-data-training-2026/）
+  - 「For agencies and consultants offering AI chatbot services, a white-label AI chatbot reseller platform allows delivery of a branded product without the engineering investment required to build one.」（https://www.sortresume.ai/best-white-label-ai-chatbot-builder-with-custom-data-training-2026/）
+  - 「Deployment: The trained chatbot is deployed through the white-label interface under the reseller’s brand」（https://www.sortresume.ai/best-white-label-ai-chatbot-builder-with-custom-data-training-2026/）
+  - 「Limitations: Custom data training from business documents requires integration with external knowledge base tools. Less focused on RAG-based business content deployment than purpose-built platforms. White-label capabilities are more limited than dedicated reseller platforms.」（https://www.sortresume.ai/best-white-label-ai-chatbot-builder-with-custom-data-training-2026/）
+  - 「BotPenguin is a chatbot reseller platform specifically designed for agencies wanting to offer branded chatbot services. It offers white-label dashboards, client management, and reseller pricing structures.」（https://www.sortresume.ai/best-white-label-ai-chatbot-builder-with-custom-data-training-2026/）
+  - 「Strengths: Explicit reseller focus, white-label dashboard, client management tools, multiple channel support.」（https://www.sortresume.ai/best-white-label-ai-chatbot-builder-with-custom-data-training-2026/）
+  - 「Best use case: Agencies wanting a straightforward reseller chatbot platform for basic client deployments.」（https://www.sortresume.ai/best-white-label-ai-chatbot-builder-with-custom-data-training-2026/）
+- 無料体験・貸出：
+  - 「Try For Free」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「Start Free Trial」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「14-day free trial, no credit card required」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「Launch your branded AI agency today with a 14-day free trial.」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「Choose a reseller plan, set up your logo and custom domain, then build an agent for each client and charge them your own price. Reseller plans are billed yearly and start at $799 a year with 10 client licenses. WhatsApp integration and setup support come with every reseller plan, and there is a 14-day free trial.」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「No credit card. No code. Live in minutes.」（https://botpenguin.com/partners/chatbot-reseller）
+  - 「with our 14-day no-cost pilot」（https://botscrew.com/chatbot-reseller/）
+  - 「Try for free」（https://customgpt.ai/white-label-ai-chatbot/）
+  - 「Primary action: Create your branded AI chatbot. Secondary action: Start a free trial. CustomGPT.ai states it is trusted by more than 10,000 customers.」（https://customgpt.ai/white-label-ai-chatbot/）
+  - 「free trial」（https://customgpt.ai/white-label-ai-chatbot/）
+  - 「start a free trial」（https://customgpt.ai/white-label-ai-chatbot/）
+  - 「with a free trial, or」（https://customgpt.ai/white-label-ai-chatbot/）
+  - 「the price only makes sense at scale, and white label purchases are non-refundable, so trial the standard plan first.」（https://chatmaxima.com/blog/best-white-label-chatbot-platforms/）
+  - 「Start on a lower-cost plan with a free trial, sign two or three pilot clients, and move up when the numbers work. Before you start, ask whether upgrading to the white label tier keeps your existing bots and client data.」（https://chatmaxima.com/blog/best-white-label-chatbot-platforms/）
+  - 「Is there a trial?」（https://chatmaxima.com/blog/best-white-label-chatbot-platforms/）
+- 価格：
+  - 「Pricing ranges from $50 per month on SMB-focused platforms to $50,000 or more for enterprise white-label implementations」（https://www.sortresume.ai/best-white-label-ai-chatbot-builder-with-custom-data-training-2026/）
+  - 「$20,000 to $100,000+」（https://www.sortresume.ai/best-white-label-ai-chatbot-builder-with-custom-data-training-2026/）
+  - 「From approx. $50/month」（https://www.sortresume.ai/best-white-label-ai-chatbot-builder-with-custom-data-training-2026/）
+  - 「Free open-source; cloud from $500/month」（https://www.sortresume.ai/best-white-label-ai-chatbot-builder-with-custom-data-training-2026/）
+  - 「From $50/month per editor」（https://www.sortresume.ai/best-white-label-ai-chatbot-builder-with-custom-data-training-2026/）
+  - 「Flat $200 off all yearly plans. First 100 purchases only.」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「Black Friday: $200 off」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「Start your own white label AI business for $200 less. Any yearly plan, applied automatically.」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「Your logo, your colors, your domain, your pricing. Keep 100% of what your clients pay.」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「chatbot platform, you set your own pricing, keep 100% of every payment your clients make,」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「You set prices and keep 100% of client billing」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「Billed $799/year · 10 client licenses」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「Billed $999/year · 15 client licenses」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「Billed $1,099/year · 20 client licenses」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「Plans from $500/yr」（https://botpenguin.com/partners/chatbot-reseller）
+- 日本対応：
+  - 「Fast, accurate & multilingual solution to transcribe conversations.」（https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/）
+  - 「Best for multilingual & omnichannel customer engagement」（https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/）
+  - 「5. Engati: Best for multilingual & omnichannel customer engagement」（https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/）
+  - 「Multilingual NLP support」（https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/）
+  - 「Languages Supported」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「The chatbot or agent detects and replies in the user's language automatically. No separate bots for multilingual clients.」（https://botpenguin.com/partners/chatbot-reseller）
+  - 「Multilingual answers」（https://customgpt.ai/white-label-ai-chatbot/）
+  - 「Other regional laws (e.g., in Canada, Australia, Japan) might also apply, depending on your clients and their customers.」（https://quickchat.ai/post/white-label-chatbot-guide）
+- 使いやすさ：
+  - 「Create Secure, Self-hosted AI Chatbots in minutes.」（https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/）
+  - 「You can upload knowledge bases to this no-code GPT and train their models to build custom-trained chatbots for your business.」（https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/）
+  - 「No-code chatbot builder」（https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/）
+  - 「No-code AI chatbot builder」（https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/）
+  - 「Drag-and-drop visual chatbot builder」（https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/）
+  - 「Visual no-code flow builder」（https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/）
+  - 「The best white-label AI chatbot builder with custom data training in 2026 is CustomGPT.ai for agencies and SMBs requiring fast, no-code deployment with full custom branding and document-based AI training. For enterprise and developer teams needing advanced workflow automation, Botpress and Kore.ai offer stronger customization at higher technical complexity and cost.」（https://www.sortresume.ai/best-white-label-ai-chatbot-builder-with-custom-data-training-2026/）
+  - 「CustomGPT.ai leads for no-code deployment, custom data training, and multi-client management without developer resources」（https://www.sortresume.ai/best-white-label-ai-chatbot-builder-with-custom-data-training-2026/）
+  - 「No-code configuration」（https://www.sortresume.ai/best-white-label-ai-chatbot-builder-with-custom-data-training-2026/）
+  - 「For agencies deploying AI chatbots to non-technical clients, a no-code builder reduces the technical support burden significantly. Clients should be able to update their own content and make basic configuration changes without developer involvement.」（https://www.sortresume.ai/best-white-label-ai-chatbot-builder-with-custom-data-training-2026/）
+  - 「Agencies building more complex deployments need API access to integrate the chatbot with CRM systems, ticketing platforms, and other business tools. The platform should offer documented API endpoints alongside the no-code interface.」（https://www.sortresume.ai/best-white-label-ai-chatbot-builder-with-custom-data-training-2026/）
+  - 「no-code builder」（https://www.sortresume.ai/best-white-label-ai-chatbot-builder-with-custom-data-training-2026/）
+  - 「Strengths: Purpose-built for custom data training, true no-code deployment, multi-agent support, strong hallucination control, broad file type support, accessible for non-technical agencies and clients.」（https://www.sortresume.ai/best-white-label-ai-chatbot-builder-with-custom-data-training-2026/）
+  - 「Limitations: High implementation complexity requiring specialized expertise. Enterprise pricing puts it out of reach for most SMBs and mid-market agencies. Significant onboarding and configuration investment required.」（https://www.sortresume.ai/best-white-label-ai-chatbot-builder-with-custom-data-training-2026/）
+  - 「Strengths: Easy to use, strong e-commerce integrations, combined live chat and chatbot functionality, accessible pricing.」（https://www.sortresume.ai/best-white-label-ai-chatbot-builder-with-custom-data-training-2026/）
+- 検索結果の抜粋：
+  - 「10 Best White - Label AI Chatbot Platforms (I Tested in 2026 ) — 10 Best White - Label AI Chatbot Platforms (I Tested in 2026 ) MirrorFly https://www.mirrorfly.com > blog > b...」（https://www.mirrorfly.com/blog/best-white-label-ai-chatbots/）
+  - 「White - Label AI Chatbot for Your Brand and Clients 2026 — White - Label AI Chatbot for Your Brand and Clients 2026 CustomGPT.ai https://customgpt.ai > Comparisons」（https://customgpt.ai/white-label-ai-chatbot/）
+  - 「12 Best White Label Chatbot Platforms for Agencies (2026) — 12 Best White Label Chatbot Platforms for Agencies (2026) ChatMaxima https://chatmaxima.com > blog > best...」（https://chatmaxima.com/blog/best-white-label-chatbot-platforms/）
+  - 「White Label Chatbot Guide: Start Reselling in 30 Days — White Label Chatbot Guide: Start Reselling in 30 Days Quickchat AI https://quickchat.ai > Blog」（https://quickchat.ai/post/white-label-chatbot-guide）
+
+## ホワイトラベルAI電話受付（white label AI voice agent）
+- 文脈：電話受付
+- 提供企業：
+  - 「Best White Label Voice AI Platforms for Agencies | Retell AI」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「Best White Label Voice AI Platforms for Agencies (2026)」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「What are the best white label voice AI platforms for agencies?」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「Retell AI publishes this list and is one of the options compared. Every price and feature below comes from the vendor's own page, read on October 22, 2026, and linked where it is cited. The list is not exhaustive and it is not scored: it covers the options with a published agency or reseller offer, and the reviews say what each vendor's pages state and where they stay silent.」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「Finished white-label platforms:」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「The reviews look at four things that decide whether a voice AI service line makes money, using only what each vendor's pages say:」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「Vendors are reviewed in the order Retell, then the rest by how much of the product they hand you finished. The order is not a score.」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「Trillet is an Australia-based, self-serve white-label platform built for agencies that sell AI receptionists and voice agents to small and mid-sized businesses. Clients log in to a workspace with your logo, name and colors and, on the Agency plan, your own domain.」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「Autocalls is an all-inclusive white-label platform for non-technical agencies. Models, voices, transcription and telephony are bundled into one per-minute rate, and the page promises zero API keys to manage.」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「providers are bundled into one rate, and the page does not say you can choose them. There is no free trial, only a live demo call and a first-month refund on monthly billing if you have used fewer than 100 minutes. It is a managed cloud platform with no self-hosted version.」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「Choose by what your clients pay you for. If they pay for a branded software product, a finished white-label platform is simpler. If they pay for calls that get answered well and bookings that land, own the agents and add your branding around them. For running a client base after launch, see」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「Twilio Alternatives for AI Voice Agents」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「Reviews」（https://autocalls.ai/article/white-label-ai-voice-agent）
+  - 「All inclusive vs bring your own API keys」（https://autocalls.ai/article/white-label-ai-voice-agent）
+  - 「Receptionist tool vs a full white label platform」（https://autocalls.ai/article/white-label-ai-voice-agent）
+- 自社名で出せる条件：
+  - 「Best White Label Voice AI Platforms for Agencies | Retell AI」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「Best White Label Voice AI Platforms for Agencies (2026)」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「What are the best white label voice AI platforms for agencies?」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「The white label voice AI options an agency can resell in 2026 include Retell AI, HighLevel Voice AI, Trillet, VoiceAIWrapper, Autocalls and Synthflow. They split into two kinds: finished platforms that rebrand the whole product for you, and voice engines whose calls and product name you put under your own brand.」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「white label AI voice agents on Retell」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「white label AI receptionist page」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「Finished white-label platforms:」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「Engine whose calls you rebrand:」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「Retell puts each client in a separate workspace with its own billing. The Retell dashboard itself is not rebranded, so you invoice clients yourself and give them a portal built on the API, a tool from the App Partner Directory, or read-only access.」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「VoiceAIWrapper is a white-label portal with its own voice engine, and it can also sync agents you built elsewhere.」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「What does white label voice AI mean?」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「White label voice AI is a voice-agent platform an agency rebrands and resells as its own service, keeping the client relationship while a vendor runs the speech and telephony underneath. Full white label covers the client dashboard, domain, emails and billing. A partner or referral program that keeps the vendor's name in front of your client is not white label.」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「Your brand on client dashboard」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「No. Calls and product name are yours; the Retell dashboard is not rebranded」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「White-label portal with built-in engine」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+- 再販制度：
+  - 「Solution Partner Program」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「The white label voice AI options an agency can resell in 2026 include Retell AI, HighLevel Voice AI, Trillet, VoiceAIWrapper, Autocalls and Synthflow. They split into two kinds: finished platforms that rebrand the whole product for you, and voice engines whose calls and product name you put under your own brand.」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「Retell AI publishes this list and is one of the options compared. Every price and feature below comes from the vendor's own page, read on October 22, 2026, and linked where it is cited. The list is not exhaustive and it is not scored: it covers the options with a published agency or reseller offer, and the reviews say what each vendor's pages state and where they stay silent.」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「What decides margin:」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「White label voice AI is a voice-agent platform an agency rebrands and resells as its own service, keeping the client relationship while a vendor runs the speech and telephony underneath. Full white label covers the client dashboard, domain, emails and billing. A partner or referral program that keeps the vendor's name in front of your client is not white label.」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「The table separates what you pay before your first client from what each call costs. Prices are as published on October 22, 2026; re-check them before you build a margin model.」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「Rebill clients with markup」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「Each client workspace is billed separately; you apply your markup outside Retell」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「Yes (Stripe invoicing on both, per-minute markup on Agency only)」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「No. In-product reselling was removed on Sep 15, 2026」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「Can you charge each client your own price and keep the margin?」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「Partner program:」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「Retell partner program」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「Reselling through SaaS Mode:」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「, Agency Pro ($497 a month) sells HighLevel as your own branded software with automatic sub-account creation and rebilling of phone and email with markup. Agency Unlimited ($297) rebills phone and email at cost, and rebilling AI usage requires Agency Pro.」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+- 無料体験・貸出：
+  - 「Try For Free」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「$0.12 a minute after the included minutes. Telephony starts at $0.014 a minute, transferred calls are $0.05 a minute, and extra numbers are $5 a month. Both tiers start with a 7-day free trial that needs a card. See the」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「providers are bundled into one rate, and the page does not say you can choose them. There is no free trial, only a live demo call and a first-month refund on monthly billing if you have used fewer than 100 minutes. It is a managed cloud platform with no self-hosted version.」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「Start Free Trial」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「My AI Front Desk (Frontdesk) pricing explained: Free plan, $99/mo Business-in-a-Box, credit system,...」（https://autocalls.ai/article/white-label-ai-voice-agent）
+  - 「FREE . NO CREDIT CARD」（https://autocalls.ai/article/white-label-ai-voice-agent）
+  - 「Try For Free」（https://www.retellai.com/use-cases/white-label-ai-voice-agents）
+  - 「Start Free Trial」（https://www.retellai.com/use-cases/white-label-ai-voice-agents）
+  - 「- Training AI takes years of trial and error.」（https://insighto.ai/agency/）
+  - 「Start your free trial」（https://insighto.ai/agency/）
+  - 「Try the voice quality yourself. Choose PayasYouGo with one-time testing credits, or start a 7-day Growth or Scale trial with 1,000 native AI credits. A card is required; paid-plan trials bill automatically after 7 days unless cancelled.」（https://voiceaiwrapper.com/pricing）
+  - 「7-day free trial」（https://voiceaiwrapper.com/pricing）
+  - 「7 days free with 1,000 trial AI credits. Card required. Automatically $79/month after 7 days unless cancelled. Full allowance starts with your first payment.」（https://voiceaiwrapper.com/pricing）
+  - 「7 days free with 1,000 trial AI credits. Card required. Automatically $499/month after 7 days unless cancelled. Full allowance starts with your first payment.」（https://voiceaiwrapper.com/pricing）
+  - 「Or $790/year. 7-day trial with 1,000 credits. Card required; selected-plan billing starts automatically after 7 days unless cancelled. Full paid allowance begins with first payment.」（https://voiceaiwrapper.com/pricing）
+- 価格：
+  - 「Retell Hits $100M! Celebrate with us and unlock a special offer.」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「Retell AI publishes this list and is one of the options compared. Every price and feature below comes from the vendor's own page, read on October 22, 2026, and linked where it is cited. The list is not exhaustive and it is not scored: it covers the options with a published agency or reseller offer, and the reviews say what each vendor's pages state and where they stay silent.」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「Agency Pro at $497 a month is the plan that rebills AI usage.」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「Synthflow's pricing page now lists only Enterprise contracts, which start at $30,000 a year.」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「The table separates what you pay before your first client from what each call costs. Prices are as published on October 22, 2026; re-check them before you build a margin model.」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「From $0.07 per minute, see」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「$297 Agency Unlimited or $497 Agency Pro」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「$0.045/min engine, plus voice ($0.015 to $0.17/min), model tokens and phone」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「$99 Studio (3 workspaces) or $299 Agency (unlimited)」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「1,000 or 3,000 minutes included, then $0.12/min plus telephony from $0.014/min」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「Your $0 → $50K MRR voice AI playbook」（https://autocalls.ai/article/white-label-ai-voice-agent）
+  - 「Projected AI call automation market by 2027 — up from $1.8B in 2024. Agencies that move now are positioning themselves for a 3–5 year growth curve.」（https://autocalls.ai/article/white-label-ai-voice-agent）
+  - 「$419/mo」（https://autocalls.ai/article/white-label-ai-voice-agent）
+  - 「$50,000–$200,000+」（https://autocalls.ai/article/white-label-ai-voice-agent）
+  - 「$30K–$100K to obtain」（https://autocalls.ai/article/white-label-ai-voice-agent）
+- 日本対応：
+  - 「Multilingual client and agency admin portals」（https://voiceaiwrapper.com/pricing）
+  - 「Can I create a multilingual client portal with VoiceAIWrapper?」（https://voiceaiwrapper.com/pricing）
+  - 「Multilingual Voice Agents」（https://www.ringlyn.com/white-label-voice-ai/）
+  - 「Sell into international markets with agents that handle English, Spanish, French, German, Hindi, and Japanese out of the box.」（https://www.ringlyn.com/white-label-voice-ai/）
+  - 「29+ languages supported natively」（https://wotnot.io/blog/white-label-ai-voice-agent）
+  - 「100+ languages supported through the provider ecosystem」（https://wotnot.io/blog/white-label-ai-voice-agent）
+  - 「Multilingual support」（https://docs.vapi.ai/providers/voicerr-ai）
+  - 「Multilingual agent」（https://docs.vapi.ai/providers/voicerr-ai）
+- 使いやすさ：
+  - 「1,000 or 3,000 minutes included, then $0.12/min plus telephony from $0.014/min」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「3,500 minutes included, then $0.09/min all in」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「Retell AI suits agencies that want to build and run every client's agent themselves. You create one workspace per client in the dashboard, build the agent there, and put your own name and price on what the client buys. Most production minutes on Retell run through agents that customers build and manage themselves, so a change to one client's agent is something you make, not a ticket you file.」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「Studio ($99 a month) covers up to 3 client workspaces on a Trillet-hosted address with 1,000 included minutes. Agency ($299 a month) adds unlimited workspaces, a custom domain, branded emails, custom minute markup, 3,000 included minutes and 10 phone numbers.」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「$0.12 a minute after the included minutes. Telephony starts at $0.014 a minute, transferred calls are $0.05 a minute, and extra numbers are $5 a month. Both tiers start with a 7-day free trial that needs a card. See the」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「onboarding automation with SaaS Creator, a billing and campaign API, extra team members and a headless website AI agent creator.」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「Agency White Label includes unlimited client sub-accounts with their own logins, 3,500 minutes a month and up to 1,000 parallel calls.」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「$419 a month ($355 a month billed yearly), then $0.09 a minute past 3,500 minutes. A cheaper Agency plan ($249, 1,700 minutes) has no own-Stripe billing and no client sub-accounts. See the」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「providers are bundled into one rate, and the page does not say you can choose them. There is no free trial, only a live demo call and a first-month refund on monthly billing if you have used fewer than 100 minutes. It is a managed cloud platform with no self-hosted version.」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「on September 15, 2026, Synthflow removed in-product reselling, including custom pricing plans, the Plan & Billing and Usage pages, and the Stripe integration. Synthflow no longer auto-tops-up minutes or calculates margins.」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「Retell and VoiceAIWrapper's Pay as you go plan have no monthly platform fee to start. Published monthly fees then run from $99 for Trillet Studio and $297 for HighLevel Agency Unlimited up to $497 for HighLevel Agency Pro, and Synthflow's Enterprise contracts start at $30,000 a year. Call minutes are billed on top on every option.」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「No-Code Platform」（https://autocalls.ai/article/white-label-ai-voice-agent）
+  - 「Build AI agents without coding」（https://autocalls.ai/article/white-label-ai-voice-agent）
+  - 「from choosing a platform to onboarding your first client, with real cost comparisons and margin calculations.」（https://autocalls.ai/article/white-label-ai-voice-agent）
+  - 「Included Minutes」（https://autocalls.ai/article/white-label-ai-voice-agent）
+- 検索結果の抜粋：
+  - 「Best White Label Voice AI for Marketing Agencies 2026 - Reddit — Best White Label Voice AI for Marketing Agencies 2026 - Reddit Reddit https://www.reddit.com > comments」（https://www.reddit.com/r/AI_Agents/comments/1rf9jok/best_white_label_voice_ai_for_marketing_agencies/）
+  - 「Best White Label Voice AI Platforms for Agencies ( 2026 ) — Best White Label Voice AI Platforms for Agencies ( 2026 ) Retell AI https://www.retellai.com > blog > whi...」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「White Label AI Voice Agent : Complete Agency Guide [ 2026 ] — White Label AI Voice Agent : Complete Agency Guide [ 2026 ] Autocalls.ai https://autocalls.ai > Blog」（https://autocalls.ai/article/white-label-ai-voice-agent）
+  - 「White Label Voice AI with Free Trial : 2026 Platform Comparison — White Label Voice AI with Free Trial : 2026 Platform Comparison Trillet https://trillet.ai > Blog」（https://trillet.ai/blogs/white-label-voice-ai-with-free-trial）
+  - 「Best White Label Voice AI Platforms for Agencies (2026) — Best White Label Voice AI Platforms for Agencies (2026) Retell AI https://www.retellai.com > blog > whi...」（https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies）
+  - 「12 Best White Label AI Voice Agent Platforms - Wotnot.io — 12 Best White Label AI Voice Agent Platforms - Wotnot.io Wotnot.io https://wotnot.io > Blog > White Label」（https://wotnot.io/blog/white-label-ai-voice-agent）
+
+## ホワイトラベルAI議事録（white label AI meeting notes）
+- 文脈：会議・商談
+- 提供企業：記載なし（読んだ30頁・検索6回）
+- 自社名で出せる条件：記載なし（読んだ30頁・検索6回）
+- 再販制度：記載なし（読んだ30頁・検索6回）
+- 無料体験・貸出：記載なし（読んだ30頁・検索6回）
+- 価格：記載なし（読んだ30頁・検索6回）
+- 日本対応：記載なし（読んだ30頁・検索6回）
+- 使いやすさ：記載なし（読んだ30頁・検索6回）
+
+## ホワイトラベルAIエージェント作成ツール（white label AI agent builder）
+- 文脈：AIエージェント
+- 提供企業：
+  - 「Best White Label AI Agent Platforms for Agencies in 2026 - Botsify」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「Best White Label AI Agent Platforms for Agencies in 2026」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「Quick Comparison of the Best White Label AI Agent Platforms」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「Best White Label AI Agent Platforms for Agencies」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「White Label AI Agent Platform vs Regular AI Agent Builder」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「White-label platforms add the business infrastructure agencies need around the agents themselves, such as branded client access, multi-client management, reseller pricing, billing controls, and clearer separation between client environments.」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「Platforms like Botsify, Lety.ai, Stammer AI, Autocalls, and Evoriqa all allow agencies to set their own client pricing. Some use a markup model where the agency pays wholesale rates and charges clients a premium. Others use a flat platform fee where the agency keeps everything it charges above that fee.」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「vs last month」（https://lety.ai/）
+  - 「Pre-built templates cover the roles every business needs. You're not selling chatbots — you're staffing companies with digital employees: AI Appointment Assistants for clinics, AI Shopify Personal Shoppers for e-commerce, AI Contract Reviewers for legal, AI Property Advisors for real estate, AI Hotel Concierges for hospitality. Every role is pre-built. You pick it, brand it, charge for it.」（https://lety.ai/）
+  - 「Hosting and Web Service Providers」（https://botpenguin.com/partners/white-label-ai-agents）
+  - 「Building from scratch takes months of engineering and ongoing maintenance. BotPenguin's white-label platform gets you live in 12 hours with pre-integrated AI models, managed infrastructure, and built-in compliance, so you start onboarding clients immediately.」（https://botpenguin.com/partners/white-label-ai-agents）
+  - 「How long does BotPenguin's white-label platform setup take?」（https://botpenguin.com/partners/white-label-ai-agents）
+  - 「BotPenguin vs Manychat」（https://botpenguin.com/partners/white-label-ai-agents）
+  - 「BotPenguin vs Intercom」（https://botpenguin.com/partners/white-label-ai-agents）
+  - 「BotPenguin vs Tidio」（https://botpenguin.com/partners/white-label-ai-agents）
+- 自社名で出せる条件：
+  - 「Best White Label AI Agent Platforms for Agencies in 2026 - Botsify」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「Best White Label AI Agent Platforms for Agencies in 2026」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「What Is a White Label AI Agent Platform?」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「Quick Comparison of the Best White Label AI Agent Platforms」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「Best White Label AI Agent Platforms for Agencies」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「How to Choose a White Label AI Agent Platform for Your Agency」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「1. White-Label Depth and Vendor Visibility」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「White Label AI Agent Platform vs Regular AI Agent Builder」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「FAQs About White Label AI Agent Platforms」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「What is a white label AI agent platform?」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「What should agencies look for in a white label AI platform?」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「What is the difference between white labeling and reselling AI software?」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「Can white label AI agent platforms support multiple clients?」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「Are white label AI agents available for both chat and voice?」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「White-label depth varies considerably between platforms. Some provide a fully branded dashboard, custom domain, client workspaces, and billing controls, while others make white labeling available through a separate agency or partner program.」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+- 再販制度：
+  - 「3. Reseller Pricing and Billing」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「Can agencies resell AI agents under their own brand?」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「What is the difference between white labeling and reselling AI software?」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「White-label depth varies considerably between platforms. Some provide a fully branded dashboard, custom domain, client workspaces, and billing controls, while others make white labeling available through a separate agency or partner program.」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「Botsify and Lety.ai combine white-label infrastructure with multi-client management, omnichannel deployment, and agency billing or reseller controls.」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「BotPenguin provides white-label AI agents through its partner program rather than its standard chatbot plans.」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「Reseller or billing controls」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「Markup on LLM tokens, MCP calls, setup fees; 4 revenue streams」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「Agencies reselling both chat and voice AI agents」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「White-label through partner program」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「Via partner program」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「Partner program with referral/resell/white-label paths」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「Bill on your own Stripe; reseller plans from $79/mo (5 clients)」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「Agencies reselling AI customer support under their brand」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「Reseller and billing controls.」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+- 無料体験・貸出：
+  - 「Botsify structures its billing around four revenue streams: subscriptions, token markup, MCP call markup, and setup fees. Agencies can mark up LLM tokens and MCP calls by 3x, 5x, 10x or whatever multiple they choose. Clients receive a single invoice under the agency’s brand, and free trials can be configured on the agency’s own terms (7, 14, or 30 days).」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「Starter $97/mo (2 sub-accounts, 4.9% transaction fee). Standard $297/mo (10 sub-accounts, 2.9% transaction fee). Unlimited $497/mo (unlimited sub-accounts, 1.9% transaction fee, dedicated account manager). All plans include a 7-day trial. LLM tokens and WhatsApp session fees are pass-through at vendor cost.」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「Start free trial」（https://lety.ai/）
+  - 「Try for free」（https://lety.ai/）
+  - 「Free trials, your terms」（https://lety.ai/）
+  - 「Offer 7, 14, 30 days free — billing kicks in automatically when trial ends」（https://lety.ai/）
+  - 「7-day free trial.」（https://lety.ai/）
+  - 「No credit card. No code. Live in minutes.」（https://botpenguin.com/partners/white-label-ai-agents）
+  - 「Try For Free」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「Start Free Trial」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「14-day free trial, no credit card required」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「Launch your branded AI agency today with a 14-day free trial.」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「Choose a reseller plan, set up your logo and custom domain, then build an agent for each client and charge them your own price. Reseller plans are billed yearly and start at $799 a year with 10 client licenses. WhatsApp integration and setup support come with every reseller plan, and there is a 14-day free trial.」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+  - 「Try for Free」（https://stammer.ai/）
+  - 「14-day full service free trial」（https://stammer.ai/）
+- 価格：
+  - 「3. Reseller Pricing and Billing」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「Full white-label on Pro plan ($99/mo)」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「Full white-label on all paid plans from $97/mo」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「Full white-label on Agency White Label plan ($419/mo)」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「Your brand, your Stripe, your prices; 300+ integrations」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「Bill on your own Stripe; reseller plans from $79/mo (5 clients)」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「Stammer’s Agency Wallet lets agencies set their own prices for chat replies, voice minutes, and agents. Agencies can also charge setup fees and recurring subscriptions. The Pro plan includes five chat agents and five voice agents, with additional agents available for $10 per month each.」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「$12,400」（https://lety.ai/）
+  - 「$5,200」（https://lety.ai/）
+  - 「$1,200」（https://lety.ai/）
+  - 「$1,300」（https://lety.ai/）
+  - 「$1,500」（https://lety.ai/）
+  - 「Assumes average usage of ~$45 in LLM tokens and ~$25 in MCP calls per client per month. Your actual numbers will vary based on client usage patterns.」（https://lety.ai/）
+  - 「Yes. Lety is 100% no-code. Create AI employees with prompting and easy connectors. Import flows from Zapier, Make, or n8n. Customize branding, domains, pricing. Deploy across web, WhatsApp, Instagram, Facebook, and CRMs like HubSpot, GoHighLevel, Salesforce. Monitor usage and billing from a single dashboard — designed for agencies, entrepreneurs, and creators who want to launch quickly.」（https://lety.ai/）
+  - 「$182.9B」（https://botpenguin.com/partners/white-label-ai-agents）
+- 日本対応：
+  - 「Hotels, rentals, spas, tours. Multilingual guest ops out of the box.」（https://lety.ai/）
+  - 「Citizen support, permits, licensing — multilingual, available 24/7.」（https://lety.ai/）
+  - 「Multilingual by Default」（https://botpenguin.com/partners/white-label-ai-agents）
+  - 「Languages Supported」（https://www.robofy.ai/whitelabel-chatbot-reseller）
+- 使いやすさ：
+  - 「Agency Wallet; set your own prices for replies, minutes, agents」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「Stammer’s Agency Wallet lets agencies set their own prices for chat replies, voice minutes, and agents. Agencies can also charge setup fees and recurring subscriptions. The Pro plan includes five chat agents and five voice agents, with additional agents available for $10 per month each.」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「BotPenguin provides a no-code builder for AI agents, chatbots, and voice agents. The platform supports LLM integration with OpenAI models, knowledge base training from website content, PDFs, and FAQs, and configurable AI bot personality. It includes intent-based chat routing, live chat with human handoff, and appointment booking.」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「The Agency White Label plan ($419/mo or $355/mo with yearly billing) provides full white-label branding with your own domain, logo, and colors. Autocalls branding is completely invisible to your clients. The white-label plan includes unlimited assistants, unlimited outbound campaigns, 1,000 parallel calls, unlimited cloned voices, and unlimited no-code automation runs.」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「Agency White Label costs $419 per month and includes 3,500 voice minutes, unlimited client sub-accounts, 1,000 parallel calls, custom branding and domain support, and client billing through the agency’s own Stripe account. Additional voice usage is charged at $0.09 per minute.」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「The platform becomes part of the service you sell, so vendor support can affect your own client relationships. Look at onboarding assistance, agency support, account management, technical documentation, service reliability, and how the platform handles higher client volumes.」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「The most important criteria include white-label depth (how many surfaces get branded), custom domain support, client workspace isolation, reseller billing controls, the actual capabilities of the AI agents, supported communication channels, integrations with business tools, and the quality of agency support and onboarding.」（https://botsify.com/blog/best-white-label-ai-agent-platforms-for-agencies/）
+  - 「Pick your client's industry. Write the brief. Lety generates the system prompt, indexes their files, connects the tools, and deploys across every channel — ready to onboard your client in minutes.」（https://lety.ai/）
+  - 「Add a new client in minutes, not weeks. Every workspace is isolated — data, agents, billing. You manage all of them from one dashboard, and Lety handles the infrastructure as you grow.」（https://lety.ai/）
+  - 「Advisor onboarding, client support, education at scale.」（https://lety.ai/）
+  - 「Can I use Lety.ai without coding skills?」（https://lety.ai/）
+  - 「Yes. Lety is 100% no-code. Create AI employees with prompting and easy connectors. Import flows from Zapier, Make, or n8n. Customize branding, domains, pricing. Deploy across web, WhatsApp, Instagram, Facebook, and CRMs like HubSpot, GoHighLevel, Salesforce. Monitor usage and billing from a single dashboard — designed for agencies, entrepreneurs, and creators who want to launch quickly.」（https://lety.ai/）
+  - 「Offer AI agents under your brand that handle lead capture, client onboarding, appointment booking, and support, without building a single line of infrastructure.」（https://botpenguin.com/partners/white-label-ai-agents）
+  - 「No-code Setup」（https://botpenguin.com/partners/white-label-ai-agents）
+  - 「Average time to finish onboarding and setup」（https://botpenguin.com/partners/white-label-ai-agents）
+
+## ホワイトラベル社内ナレッジAI（white label AI knowledge base）
+- 文脈：社内文書
+- 提供企業：記載なし（読んだ30頁・検索6回）
+- 自社名で出せる条件：記載なし（読んだ30頁・検索6回）
+- 再販制度：記載なし（読んだ30頁・検索6回）
+- 無料体験・貸出：記載なし（読んだ30頁・検索6回）
+- 価格：記載なし（読んだ30頁・検索6回）
+- 日本対応：記載なし（読んだ30頁・検索6回）
+- 使いやすさ：記載なし（読んだ30頁・検索6回）
+
+## ホワイトラベル見積・提案書作成（white label proposal software）
+- 文脈：見積・提案
+- 自社名で出せる条件：
+  - 「White Label Proposal Software | Proposable」（https://proposable.com/white-label-proposal-software）
+  - 「White Label Proposal Software」（https://proposable.com/white-label-proposal-software）
+  - 「With a whitelabel proposal software for members and resellers, you can offer a instant solution for your member or reseller proposal process. Proposable provides a platform to deploy templates and other templated sales content directly to all your member or reseller sub-accounts while maintaining your member or reseller brands.」（https://proposable.com/white-label-proposal-software）
+  - 「Private Label Proposal Software」（https://proposable.com/white-label-proposal-software）
+  - 「When it comes to improving your reseller proposals or member proposals, private label proposal software should be the first thing you consider. Here are the main benefits to empowering your network with proposal software:」（https://proposable.com/white-label-proposal-software）
+  - 「White Label Estimate Software」（https://proposable.com/white-label-proposal-software）
+  - 「With the Proposable private label proposal system, you can enable your members and resellers to deliver custom proposals in minutes, not hours and drastically improve the proposal consistency across your entire organization while at the same time reducing errors.」（https://proposable.com/white-label-proposal-software）
+  - 「Another benefit of the Proposable White label proposal software account is that your members and resellers can maintain their own branding while at the same time, use the templates and sales content you provide. This gives them a supercharged sales process where they have ready-made templates that can be delivered to new prospects with little effort on their end.」（https://proposable.com/white-label-proposal-software）
+  - 「Our private label proposal software solution gives your members or resellers all the benefits of modern proposal software, and couples that with your industry expertise in the form of a pre-populated library of sales templates they can start using in minutes with little to no training.」（https://proposable.com/white-label-proposal-software）
+- 再販制度：
+  - 「Empower your members or resellers to」（https://proposable.com/white-label-proposal-software）
+  - 「tailor-made proposal templates to your members or resellers for consistent and trackable sales proposals.」（https://proposable.com/white-label-proposal-software）
+  - 「Enable your members or resellers to quickly build quotes, bids, and estimates with our flexible estimate block within your provided templates. With optional line-items, optional quantities, taxes, discounts and more, you can quickly represent your products and services in a polished and readable format. Organize all your products and services in the Pricing Catalog for instant recall.」（https://proposable.com/white-label-proposal-software）
+  - 「Help your members and resellers close the deal faster with integrated e-Signatures. Place signatures, initials, and text field elements throughout your proposal templates wherever you need prospects to take action and prospects are guided through a quick acceptance workflow to complete their acceptance. Counter-signing support is also included.」（https://proposable.com/white-label-proposal-software）
+  - 「Ever wonder what happens to your proposal after you hit “send”? Enable members and resellers to see detailed analytics and measure how each recipient is interacting with their sales material. Turn on real-time text or email notifications for proposal views and other key events.」（https://proposable.com/white-label-proposal-software）
+  - 「Help members and resellers to save time and headaches by skipping the painful copy/paste and find & replace on all new proposals for their prospects and customers. Simplify their new proposal workflow to just a few clicks and go from spending hours on customizing new proposals to just minutes.」（https://proposable.com/white-label-proposal-software）
+  - 「With a whitelabel proposal software for members and resellers, you can offer a instant solution for your member or reseller proposal process. Proposable provides a platform to deploy templates and other templated sales content directly to all your member or reseller sub-accounts while maintaining your member or reseller brands.」（https://proposable.com/white-label-proposal-software）
+  - 「There are many frustrations with trying to enable a smoother proposal process for your members or resellers to sell more efficiently. Proposable removes the pain by empowering you to give your members and resellers a custom Proposable account where you get to control all their sales content and offer a simplified and trackable proposal, estimate, or quoting process.」（https://proposable.com/white-label-proposal-software）
+  - 「Proposable provides deep visibility into all your member or resellers’ proposal deliveries and provides real-time tracking and reporting of all delivered sales material across your entire organization. This gives you an unparalleled view into what material is working for your members or resellers and what material is not, helping you to further hone your distributed member member content.」（https://proposable.com/white-label-proposal-software）
+  - 「When it comes to improving your reseller proposals or member proposals, private label proposal software should be the first thing you consider. Here are the main benefits to empowering your network with proposal software:」（https://proposable.com/white-label-proposal-software）
+  - 「With Proposable, you can provide your members and resellers with beautiful and consistent templates tailored to your industry and their customers, giving them a powerful tool to win more business.」（https://proposable.com/white-label-proposal-software）
+  - 「You simplify member or reseller proposal process:」（https://proposable.com/white-label-proposal-software）
+  - 「most resellers are left on their own to create their own sales proposal process and often times it’s a messy affair. Give your members a simplified proposal process」（https://proposable.com/white-label-proposal-software）
+  - 「You gain visibility into member or reseller proposals:」（https://proposable.com/white-label-proposal-software）
+  - 「When you deploy Proposable to your members or resellers, you gain visibility into your entire membership sales proposals. With our proposals dashboard, you will see all member proposals and proposal activity in real time.」（https://proposable.com/white-label-proposal-software）
+- 無料体験・貸出：
+  - 「Free Trial」（https://proposable.com/white-label-proposal-software）
+- 使いやすさ：
+  - 「create, deliver, and track their sales proposals in minutes. Create and distribute」（https://proposable.com/white-label-proposal-software）
+  - 「Help members and resellers to save time and headaches by skipping the painful copy/paste and find & replace on all new proposals for their prospects and customers. Simplify their new proposal workflow to just a few clicks and go from spending hours on customizing new proposals to just minutes.」（https://proposable.com/white-label-proposal-software）
+  - 「I’ve tried soooo many proposal softwares and I’ll never try another one after Proposable. It’s so easy to use and it looks good, which all the others don’t.」（https://proposable.com/white-label-proposal-software）
+  - 「With the Proposable private label proposal system, you can enable your members and resellers to deliver custom proposals in minutes, not hours and drastically improve the proposal consistency across your entire organization while at the same time reducing errors.」（https://proposable.com/white-label-proposal-software）
+  - 「Our private label proposal software solution gives your members or resellers all the benefits of modern proposal software, and couples that with your industry expertise in the form of a pre-populated library of sales templates they can start using in minutes with little to no training.」（https://proposable.com/white-label-proposal-software）
+- 提供企業：記載なし（読んだ30頁・検索6回）
+- 価格：記載なし（読んだ30頁・検索6回）
+- 日本対応：記載なし（読んだ30頁・検索6回）
+
+## ホワイトラベルAIメール対応（white label AI email assistant）
+- 文脈：メール対応
+- 提供企業：記載なし（読んだ30頁・検索6回）
+- 自社名で出せる条件：記載なし（読んだ30頁・検索6回）
+- 再販制度：記載なし（読んだ30頁・検索6回）
+- 無料体験・貸出：記載なし（読んだ30頁・検索6回）
+- 価格：記載なし（読んだ30頁・検索6回）
+- 日本対応：記載なし（読んだ30頁・検索6回）
+- 使いやすさ：記載なし（読んだ30頁・検索6回）
+
+## ホワイトラベル予約・日程調整（white label scheduling software）
+- 文脈：予約
+- 提供企業：
+  - 「110 reviews」（https://www.supersaas.com/info/developers）
+  - 「263 reviews」（https://www.supersaas.com/info/developers）
+  - 「82 reviews」（https://www.supersaas.com/info/developers）
+  - 「Calendly vs Timetics」（https://timetics.ai/white-label-scheduling-software/）
+  - 「Youcanbookme vs Timetics」（https://timetics.ai/white-label-scheduling-software/）
+  - 「Acuity vs Timetics」（https://timetics.ai/white-label-scheduling-software/）
+  - 「Trafft vs Timetics」（https://timetics.ai/white-label-scheduling-software/）
+  - 「Timetics SaaS vs WP」（https://timetics.ai/white-label-scheduling-software/）
+  - 「White-Label vs Branded Scheduling vs Custom Domain」（https://timetics.ai/white-label-scheduling-software/）
+  - 「For agencies, the most important features are not limited to logo and color customization. A useful white-label platform should also support separate client environments, custom domains, booking pages, team management, and a clear way to keep each client’s data and settings separate.」（https://timetics.ai/white-label-scheduling-software/）
+  - 「SimplyBook.me offers a dedicated white-label partner program for agencies, franchises, and technology providers.」（https://timetics.ai/white-label-scheduling-software/）
+  - 「The main distinction for agencies is that Acuity is primarily a scheduling product for individual businesses rather than an agency-first multi-client white-label platform.」（https://timetics.ai/white-label-scheduling-software/）
+  - 「white-label platform for multiple clients」（https://timetics.ai/white-label-scheduling-software/）
+  - 「is strong for service booking, but it is not mainly an agency white-label platform.」（https://timetics.ai/white-label-scheduling-software/）
+  - 「provides a White Label Partner program for agencies and resellers. For agencies managing several client booking systems,」（https://timetics.ai/white-label-scheduling-software/）
+- 自社名で出せる条件：
+  - 「White Label Booking Software & Scheduling API | SuperSaaS」（https://www.supersaas.com/info/developers）
+  - 「White label appointment scheduling software」（https://www.supersaas.com/info/developers）
+  - 「Start building your own white label booking engine today」（https://www.supersaas.com/info/developers）
+  - 「White label scheduling software for developers」（https://www.supersaas.com/info/developers）
+  - 「SuperSaaS works with a self-service business model. Developers have the option to offer a white label full-service appointment scheduling solution to their customers.」（https://www.supersaas.com/info/developers）
+  - 「You can fully white-label the software with no reference of our brand visible to your clients. You can also take advantage of creating a custom domain name, customizing “from” address for email reminders, adding a brand logo, setting the redirect URL and much more.」（https://www.supersaas.com/info/developers）
+  - 「White label booking engine」（https://www.supersaas.com/info/developers）
+  - 「A white label booking system that works for any type of business:」（https://www.supersaas.com/info/developers）
+  - 「Add your own branding:」（https://www.supersaas.com/info/developers）
+  - 「Use a custom domain name for the schedule, customize the layout colors, add a company logo on the schedule as well as on the dashboard, redirect customers to specific URL and much more.」（https://www.supersaas.com/info/developers）
+  - 「Best White-Label Scheduling Software for Agencies & Service Businesses」（https://timetics.ai/white-label-scheduling-software/）
+  - 「What Is White-Label Scheduling Software?」（https://timetics.ai/white-label-scheduling-software/）
+  - 「Why Agencies Need White-Label Scheduling Software」（https://timetics.ai/white-label-scheduling-software/）
+  - 「White-Label vs Branded Scheduling vs Custom Domain」（https://timetics.ai/white-label-scheduling-software/）
+  - 「7 Best White-Label Scheduling Software in 2026」（https://timetics.ai/white-label-scheduling-software/）
+- 再販制度：
+  - 「We assist all of our customers – including resellers – with great documentation and online support.」（https://www.supersaas.com/info/developers）
+  - 「Resellers receive a 20% discount on paid plans and have the freedom to decide on their own full-service fees.」（https://www.supersaas.com/info/developers）
+  - 「Become a SuperSaaS scheduling software reseller」（https://www.supersaas.com/info/developers）
+  - 「View reseller information」（https://www.supersaas.com/info/developers）
+  - 「Appointment booking software for resellers」（https://www.supersaas.com/info/developers）
+  - 「Sign up for a free reseller account」（https://www.supersaas.com/info/developers）
+  - 「Become a reseller」（https://www.supersaas.com/info/developers）
+  - 「Affiliates & Resellers」（https://www.supersaas.com/info/developers）
+  - 「Affiliate Program」（https://timetics.ai/white-label-scheduling-software/）
+  - 「The best white-label scheduling software depends on what you need to brand, how many clients you manage, and whether you want to resell scheduling as part of your service.」（https://timetics.ai/white-label-scheduling-software/）
+  - 「SimplyBook.me offers a dedicated white-label partner program for agencies, franchises, and technology providers.」（https://timetics.ai/white-label-scheduling-software/）
+  - 「For agencies considering Trafft, check the current plan restrictions before choosing it for a full white-label or reseller workflow.」（https://timetics.ai/white-label-scheduling-software/）
+  - 「is built for agencies that want to resell booking software under their own brand.」（https://timetics.ai/white-label-scheduling-software/）
+  - 「provides a White Label Partner program for agencies and resellers. For agencies managing several client booking systems,」（https://timetics.ai/white-label-scheduling-software/）
+  - 「Referral program」（https://timetics.ai/white-label-scheduling-software/）
+- 無料体験・貸出：
+  - 「Our free plans are free forever.」（https://www.supersaas.com/info/developers）
+  - 「Get started with our infinite free trial which allows up to 50 upcoming appointments. You can configure the account and try the full booking setup for your customers without any monetary commitment.」（https://www.supersaas.com/info/developers）
+  - 「No credit card required」（https://timetics.ai/white-label-scheduling-software/）
+  - 「A real free plan」（https://cal.id/blog/best-white-label-scheduling-software）
+  - 「✓ No Credit Card Required」（https://cal.id/blog/best-white-label-scheduling-software）
+  - 「Start for Free」（https://lunacal.ai/blogs/article/white-label-appointment-scheduling-software）
+  - 「gives agencies a central dashboard, separate client accounts, full custom branding, a custom URL, custom SMTP, five demo accounts, and a Client Creation API. Each live client account includes Trafft's booking features and up to 15 users.」（https://lunacal.ai/blogs/article/white-label-appointment-scheduling-software）
+  - 「The main advantage is pricing transparency. Monthly pricing starts at €42.10 per live client for 1 to 5 clients, then falls to €31.57 for 6 to 15, €24.56 for 16 to 30, €19.29 for 31 to 50, and €14.03 for 51 or more. Extra users cost €11.99 per month each. Annual billing costs less, and demo accounts remain free until converted to live accounts.」（https://lunacal.ai/blogs/article/white-label-appointment-scheduling-software）
+  - 「Start a Free Trial」（https://lunacal.ai/blogs/article/white-label-appointment-scheduling-software）
+  - 「A free plan covers core needs. Paid tiers (from $9.90 per month) add full white-label branding, coupons, and membership tools. Setup is simple, though advanced styling may take time.」（https://ulansoftware.com/blog/best-white-label-booking-software-2025）
+  - 「Pricing follows a freemium model: small operators can start free, while larger fleets pay per car per month. Coastr fits companies aiming to digitize operations and offer self-service rentals with a branded, app-driven experience.」（https://ulansoftware.com/blog/best-white-label-booking-software-2025）
+  - 「Organizers like its scalability and transparent data ownership. Pricing starts with a free plan charging 5% per ticket, or a Premium plan at $125 per month with lower fees. Eventcube fits best for high-volume or repeat events where organizers want both flexibility and direct brand presence.」（https://ulansoftware.com/blog/best-white-label-booking-software-2025）
+  - 「No credit card required」（https://trafft.com/white-label-booking-software/）
+  - 「Pitch to your clients with demo accounts」（https://trafft.com/white-label-booking-software/）
+  - 「Set up a free demo account for your clients to test all functionalities. Once they’re ready to purchase, you can buy a license and activate their account.」（https://trafft.com/white-label-booking-software/）
+- 価格：
+  - 「Create your own pricing rules based on length or start time of the booking, for specific days or dates and so on. For example, increase booking price by 20% on weekends or offer discount coupons applicable only for specific happy hours.」（https://www.supersaas.com/info/developers）
+  - 「Generate more revenue by managing multiple locations for your clients with access to unlimited schedules, unlimited users and automatic time-zone adjustment in paid packages starting from $ 9/month.」（https://www.supersaas.com/info/developers）
+  - 「Removing the vendor badge ranges from $5/user/mo (Cal ID Business) to $16/seat (Calendly Teams) to about $60/mo (SimplyBook.me Premium), with Appointy gating it to a $79.99/mo Enterprise plan.」（https://cal.id/blog/best-white-label-scheduling-software）
+  - 「Cal ID removes its branding on the $5/user/mo Business plan and adds a custom domain on Enterprise, one of the cheapest routes to a fully branded booking page.」（https://cal.id/blog/best-white-label-scheduling-software）
+  - 「Calendly removes its branding only on the Teams plan and above ($16/seat/mo), not its Free or Standard tiers, and it offers no custom booking domain at all.」（https://cal.id/blog/best-white-label-scheduling-software）
+  - 「Business, $5/user/mo」（https://cal.id/blog/best-white-label-scheduling-software）
+  - 「Teams, $12/user/mo」（https://cal.id/blog/best-white-label-scheduling-software）
+  - 「Premium, $59.90/mo」（https://cal.id/blog/best-white-label-scheduling-software）
+  - 「$119 one-time add-on」（https://cal.id/blog/best-white-label-scheduling-software）
+  - 「Pro+, $11/user/mo」（https://cal.id/blog/best-white-label-scheduling-software）
+  - 「Paid, from $9/mo」（https://cal.id/blog/best-white-label-scheduling-software）
+  - 「Enterprise, $79.99/mo」（https://cal.id/blog/best-white-label-scheduling-software）
+  - 「Premium, $61/mo」（https://cal.id/blog/best-white-label-scheduling-software）
+  - 「Schedule, $10/seat/mo」（https://cal.id/blog/best-white-label-scheduling-software）
+  - 「Teams, $16/seat/mo」（https://cal.id/blog/best-white-label-scheduling-software）
+- 日本対応：
+  - 「Japanese」（https://www.supersaas.com/info/developers）
+  - 「The system includes vehicle database, rate management, maintenance reminders, and invoice generation. The Online Reservation Plugin enables white-label bookings directly from the company’s website. Integration with QuickBooks and multilingual document templates adds flexibility.」（https://ulansoftware.com/blog/best-white-label-booking-software-2025）
+  - 「Allows multilingual bookings」（https://trafft.com/white-label-booking-software/）
+- 使いやすさ：
+  - 「Build no-code booking websites」（https://timetics.ai/white-label-scheduling-software/）
+  - 「Agencies can include booking setup in their website, marketing, or business-support services.」（https://timetics.ai/white-label-scheduling-software/）
+  - 「Join thousands of coaches, consultants, and entrepreneurs who use Timetics AI to power their business. Get your first booking in a few minutes.」（https://timetics.ai/white-label-scheduling-software/）
+  - 「Get your free booking page in minutes.」（https://cal.id/blog/best-white-label-scheduling-software）
+  - 「Organizations costs $28 per user per month on annual billing and adds unlimited sub-teams, company subdomains, SAML SSO, SCIM, role-based permissions, and more APIs. Enterprise is custom priced for requirements such as a dedicated database, HRIS integrations, onboarding, and support guarantees.」（https://lunacal.ai/blogs/article/white-label-appointment-scheduling-software）
+  - 「Low Code & No Code Development」（https://ulansoftware.com/blog/best-white-label-booking-software-2025）
+  - 「Low Code & No Code Solution」（https://ulansoftware.com/blog/best-white-label-booking-software-2025）
+  - 「Reading time: 14 minutes」（https://ulansoftware.com/blog/best-white-label-booking-software-2025）
+  - 「The main drawback is the limited number of public reviews and longer onboarding due to close vendor involvement. ORX targets mid-to-large agencies, so small operators may find it too complex. Pricing is available only by quote and follows a SaaS model with setup and subscription fees.」（https://ulansoftware.com/blog/best-white-label-booking-software-2025）
+  - 「TicketSpice is known for flexibility and full control over event design. It includes a drag-and-drop page builder that helps create custom event pages with logos, banners, and background videos.」（https://ulansoftware.com/blog/best-white-label-booking-software-2025）
+  - 「On G2, TicketSpice holds a 4.9/5 rating. One organizer said, “We saved 80% on fees and built a branded page in minutes.” The flat rate of $0.99 per ticket is predictable and cheaper than most competitors. The system can feel complex at first, but it rewards those who want deep customization.」（https://ulansoftware.com/blog/best-white-label-booking-software-2025）
+  - 「Low Code & No Code」（https://ulansoftware.com/blog/best-white-label-booking-software-2025）
+  - 「Map your booking pages to your own domain, booking.yourbrand.com, so clients never see a third-party URL. Set up a simple CNAME record and your scheduling pages live on your domain within minutes.」（https://schedulingkit.com/white-label）
+  - 「Upgrade to the Business plan and toggle white label mode in your account settings. The entire setup takes less than five minutes.」（https://schedulingkit.com/white-label）
+- 検索結果の抜粋：
+  - 「Best White Label Scheduling Software ( 2026 Guide) - Cal ID — Best White Label Scheduling Software ( 2026 Guide) - Cal ID Cal ID https://cal.id > Blog」（https://cal.id/blog/best-white-label-scheduling-software）
+  - 「7 Best White Label Scheduling Software Tools ( 2026 ). - Lunacal — 7 Best White Label Scheduling Software Tools ( 2026 ). - Lunacal Lunacal https://lunacal.ai > blogs > article > w...」（https://lunacal.ai/blogs/article/white-label-appointment-scheduling-software）
+  - 「Best White - Label Booking Software in 2026 — Best White - Label Booking Software in 2026 Ulan Software https://ulansoftware.com > blog > best...」（https://ulansoftware.com/blog/best-white-label-booking-software-2025）
+  - 「7 Best White Label Scheduling Software Tools (2026). - Lunacal — 7 Best White Label Scheduling Software Tools (2026). - Lunacal Lunacal https://lunacal.ai > blogs > article > w...」（https://lunacal.ai/blogs/article/white-label-appointment-scheduling-software）
+  - 「7 Best White Label Scheduling Software Tools (2026). — 7 Best White Label Scheduling Software Tools (2026). Lunacal https://lunacal.ai > blogs > article > w...」（https://lunacal.ai/blogs/article/white-label-appointment-scheduling-software）
+  - 「Best White Label Scheduling Software (2026 Guide) - Cal ID — Best White Label Scheduling Software (2026 Guide) - Cal ID Cal ID https://cal.id > Blog」（https://cal.id/blog/best-white-label-scheduling-software）
+
+## ホワイトラベル中小向けCRM（white label CRM）
+- 文脈：顧客管理
+- 提供企業：
+  - 「The 10 Best White Label CRM Software Solutions」（https://salespype.com/the-10-best-white-label-crm-software-solutions/）
+  - 「SalesPype is an example of a white label solution that offers CRM and everything just mentioned above. Plus project management, calendar tools, a form builder, and more. With SalesPype, you can reduce cost by purchasing an all-in-one solution versus making several purchases for different features. You will also be offering your customers the complete solution they need.」（https://salespype.com/the-10-best-white-label-crm-software-solutions/）
+  - 「To know more about SalesPype and to learn how to become a white label partner, you can visit SalesPype.com or call (800) 571-7393 to schedule a demo.」（https://salespype.com/the-10-best-white-label-crm-software-solutions/）
+  - 「Their CRM comes as a WordPress plugin, just like their popular security and backup plugins. This makes it quick and easy for WordPress users to set up and use the system. JetPack CRM is one of the best white label CRM software for WordPress-based businesses.」（https://salespype.com/the-10-best-white-label-crm-software-solutions/）
+  - 「The 5 Best White Label Digital Marketing Tools & Services」（https://salespype.com/the-10-best-white-label-crm-software-solutions/）
+  - 「System Alternatives」（https://salespype.com/the-10-best-white-label-crm-software-solutions/）
+  - 「White label CRM in 2026: GoHighLevel, WhiteLabelCRM.com, SuiteDash and Jetpack CRM compared on price, plus building a custom CRM per client under your brand.」（https://www.totalum.app/blog/white-label-crm-2026）
+  - 「The best white label CRMs in 2026, compared」（https://www.totalum.app/blog/white-label-crm-2026）
+  - 「White label CRM vs custom CRM: which should you sell?」（https://www.totalum.app/blog/white-label-crm-2026）
+  - 「What is the best white label CRM for agencies?」（https://www.totalum.app/blog/white-label-crm-2026）
+  - 「White Label Mobile App Builder in 2026: 6 Options Compared, With Prices」（https://www.totalum.app/blog/white-label-crm-2026）
+  - 「White label mobile app builder guide for 2026: GoodBarber, AppMySite, BuildFire, Retool, Blaze and an AI app builder API compared, with live prices.」（https://www.totalum.app/blog/white-label-crm-2026）
+  - 「White Label AI Platform in 2026: The 4 Types Compared, With Prices」（https://www.totalum.app/blog/white-label-crm-2026）
+  - 「White label AI platform guide for 2026: chat and voice agents, AI website builders, marketing suites and app builder APIs compared, with live prices.」（https://www.totalum.app/blog/white-label-crm-2026）
+  - 「Totalum vs the alternatives」（https://www.totalum.app/blog/white-label-crm-2026）
+- 自社名で出せる条件：
+  - 「The 10 Best White Label CRM Software Solutions」（https://salespype.com/the-10-best-white-label-crm-software-solutions/）
+  - 「white label」（https://salespype.com/the-10-best-white-label-crm-software-solutions/）
+  - 「White Label CRM Software」（https://salespype.com/the-10-best-white-label-crm-software-solutions/）
+  - 「What is white label CRM software?」（https://salespype.com/the-10-best-white-label-crm-software-solutions/）
+  - 「Because of the high demand for CRM software, a large number of white label agencies are now selling」（https://salespype.com/the-10-best-white-label-crm-software-solutions/）
+  - 「white label CRM」（https://salespype.com/the-10-best-white-label-crm-software-solutions/）
+  - 「software. When CRM software is white labeled, a developer or vendor sells it to an agency unbranded. The agency can then brand it as its own, add a markup, and resell it to its clients to make a profit.」（https://salespype.com/the-10-best-white-label-crm-software-solutions/）
+  - 「White label software is either purchased in full or leased through a subscription plan depending on the agreement between vendor and reseller.」（https://salespype.com/the-10-best-white-label-crm-software-solutions/）
+  - 「White Label CRM Software Benefits」（https://salespype.com/the-10-best-white-label-crm-software-solutions/）
+  - 「What are the benefits of white label CRM software?」（https://salespype.com/the-10-best-white-label-crm-software-solutions/）
+  - 「If you’re already convinced that CRM software is the way to go, you may have another question in mind: “Why should I white label CRM software instead of internally developing it?”. Here, we’ll go over some reasons why your business or agency should white label CRM software.」（https://salespype.com/the-10-best-white-label-crm-software-solutions/）
+  - 「When businesses opt to white label CRM solutions instead, they eliminate the cost of development and reduce their overhead.」（https://salespype.com/the-10-best-white-label-crm-software-solutions/）
+  - 「From inception to release, software development can take anywhere from four months to a year. With white label CRM software, everything is already in place and you will be able to launch your new product almost immediately. White label agencies aim to make implementation and rebranding quick and easy for their clients.」（https://salespype.com/the-10-best-white-label-crm-software-solutions/）
+  - 「Before a white label agency can put their CRM software on the market, it will have to first go through the entire development process. This includes thoroughly testing the software, gathering feedback, and making improvements where they are needed. A white label agency will not risk releasing poorly developed software that will damage its reputation.」（https://salespype.com/the-10-best-white-label-crm-software-solutions/）
+  - 「white label CRM software」（https://salespype.com/the-10-best-white-label-crm-software-solutions/）
+- 再販制度：
+  - 「software. When CRM software is white labeled, a developer or vendor sells it to an agency unbranded. The agency can then brand it as its own, add a markup, and resell it to its clients to make a profit.」（https://salespype.com/the-10-best-white-label-crm-software-solutions/）
+  - 「White label software is either purchased in full or leased through a subscription plan depending on the agreement between vendor and reseller.」（https://salespype.com/the-10-best-white-label-crm-software-solutions/）
+  - 「Like what you see? Sign up here, and I’ll receive a referral commission.」（https://salespype.com/the-10-best-white-label-crm-software-solutions/）
+  - 「Vendasta also offers white label CRM resellers customized solutions. So each reseller can deliver tailored solutions to their clients.」（https://salespype.com/the-10-best-white-label-crm-software-solutions/）
+  - 「Soffront offers complete solutions to CRM white label resellers. Soffront helps businesses build a web presence, generate more leads, nurture leads with email marketing, convert customers into brand advocates, and close more sales with CRM.」（https://salespype.com/the-10-best-white-label-crm-software-solutions/）
+  - 「Join Our Affiliate Program」（https://salespype.com/the-10-best-white-label-crm-software-solutions/）
+  - 「Affiliate Agreement」（https://salespype.com/the-10-best-white-label-crm-software-solutions/）
+  - 「White Label CRM in 2026: Resell a CRM or Build Your Own Under Your Brand - Totalum Blog」（https://www.totalum.app/blog/white-label-crm-2026）
+  - 「White Label CRM in 2026: Resell a CRM or Build Your Own Under Your Brand」（https://www.totalum.app/blog/white-label-crm-2026）
+  - 「Jetpack CRM Reseller: for WordPress agencies」（https://www.totalum.app/blog/white-label-crm-2026）
+  - 「Can I build my own white label CRM instead of reselling one?」（https://www.totalum.app/blog/white-label-crm-2026）
+  - 「A CRM you resell under your own brand: your logo, domain and pricing on software the vendor builds and hosts.」（https://www.totalum.app/blog/white-label-crm-2026）
+  - 「GoHighLevel ($97, $297 and $497 a month; SaaS Mode on the $497 tier), WhiteLabelCRM.com by AllClients (from $299 a month), SuiteDash (from $49 a month, priced per account rather than per user), and Jetpack CRM's reseller license (from $649 a year, for WordPress).」（https://www.totalum.app/blog/white-label-crm-2026）
+  - 「Resell a platform if every client fits the same feature set and you want to start selling this week. Build custom if clients need their own fields, workflows and integrations, or if you want to own the product.」（https://www.totalum.app/blog/white-label-crm-2026）
+  - 「Yes, when the vendor offers a white-label or reseller agreement. Check its terms on branding, data ownership and support.」（https://www.totalum.app/blog/white-label-crm-2026）
+- 無料体験・貸出：
+  - 「14-Day Trial」（https://salespype.com/the-10-best-white-label-crm-software-solutions/）
+  - 「CLAIM YOUR FREE 14-DAY TRIAL」（https://salespype.com/the-10-best-white-label-crm-software-solutions/）
+  - 「They even offer free trial white label CRM email marketing and other features that you can start using right away. As for paid plans, LeadMaster ensures no annual contracts, no hidden fees, no hassle, but just CRM and good advice.」（https://salespype.com/the-10-best-white-label-crm-software-solutions/）
+  - 「If you want to check out High Level, you can claim a 14-day trial using this link:」（https://salespype.com/the-10-best-white-label-crm-software-solutions/）
+  - 「Claim 14-Day Trial」（https://salespype.com/the-10-best-white-label-crm-software-solutions/）
+  - 「14 DAY FREE TRIAL OF GO HIGH LEVEL」（https://salespype.com/the-10-best-white-label-crm-software-solutions/）
+  - 「GoHighLevel's white label CRM is part of a broader marketing platform. Plans are $97, $297 and $497 a month ($970, $2,970 and $4,970 a year) with a 14-day free trial. The $497 tier is pitched at agencies "looking to go SaaS", with SaaS Mode and rebilling of phone and email with markup; add-ons are priced per sub-account, and the Enterprise plan includes a white-label mobile app.」（https://www.totalum.app/blog/white-label-crm-2026）
+  - 「Free Trial」（https://suitedash.com/white-label-crm/）
+  - 「Start a SuiteDash trial」（https://suitedash.com/white-label-crm/）
+  - 「Start Your 14 Day Free Trial Today!」（https://www.gohighlevel.com/white-label-crm）
+  - 「Trial Details」（https://www.gohighlevel.com/white-label-crm）
+  - 「Claim Your Free Trial」（https://www.gohighlevel.com/white-label-crm）
+  - 「Start A 14 Day Free Trial」（https://www.gohighlevel.com/white-label-crm）
+  - 「Get Started with Free Trial」（https://www.gohighlevel.com/white-label-crm）
+  - 「Start 7-Day Free Trial」（https://inflowave.io/resources/white-label-crm）
+- 価格：
+  - 「The demand for CRM software is rapidly rising, making it today’s fastest-growing software market. According to statistics from SuperOffice.com, revenues from CRM software are expected to hit $80 billion by 2025.」（https://salespype.com/the-10-best-white-label-crm-software-solutions/）
+  - 「JetPack also offers a bunch of different extensions that you can purchase to improve your CRM. These include Automations, JetPack Funnels, Client Password Manager, Stripe connector, PayPal connector, MailChimp connector, and many more. Their extensions range from $29 to $129.」（https://salespype.com/the-10-best-white-label-crm-software-solutions/）
+  - 「Their white-label cloud CRM software starts at only $15 per month going up to $700 per month for the Enterprise option. Soffront also offers quite a few add-ons including additional contacts, additional emails, phone calls, SMS, and more for a small fee.」（https://salespype.com/the-10-best-white-label-crm-software-solutions/）
+  - 「Soffront even offers 1-on-1 training and onboarding plans so you can start the right way with goal-based training and setup. Their training and onboarding plans start at $400 and go up to $900.」（https://salespype.com/the-10-best-white-label-crm-software-solutions/）
+  - 「White label CRM in 2026: GoHighLevel, WhiteLabelCRM.com, SuiteDash and Jetpack CRM compared on price, plus building a custom CRM per client under your brand.」（https://www.totalum.app/blog/white-label-crm-2026）
+  - 「GoHighLevel ($97, $297 and $497 a month; SaaS Mode on the $497 tier), WhiteLabelCRM.com by AllClients (from $299 a month), SuiteDash (from $49 a month, priced per account rather than per user), and Jetpack CRM's reseller license (from $649 a year, for WordPress).」（https://www.totalum.app/blog/white-label-crm-2026）
+  - 「$97/month ($970/year)」（https://www.totalum.app/blog/white-label-crm-2026）
+  - 「SaaS Mode on the $497 tier for agencies "looking to go SaaS", rebilling with markup, white-label mobile app on Enterprise」（https://www.totalum.app/blog/white-label-crm-2026）
+  - 「From $299/month」（https://www.totalum.app/blog/white-label-crm-2026）
+  - 「As low as $49/month」（https://www.totalum.app/blog/white-label-crm-2026）
+  - 「From $649/year」（https://www.totalum.app/blog/white-label-crm-2026）
+  - 「Credits from $0.07 each via the API; or build your own CRM free」（https://www.totalum.app/blog/white-label-crm-2026）
+  - 「Buy Now - $1,599」（https://seedlycrm.com/blog/white-label-crm-playbook）
+  - 「Compare 6 white-label CRM platforms for agencies and follow the 5-step reseller playbook to launch a branded CRM you own. Pricing, margins, and stack included.」（https://seedlycrm.com/blog/white-label-crm-playbook）
+  - 「2. Pricing」（https://seedlycrm.com/blog/white-label-crm-playbook）
+- 日本対応：
+  - 「Growing to $15k MRR Helping Japanese SMBs」（https://simvoly.com/white-label-crm）
+  - 「English, Spanish, Portuguese PT, Portuguese BR, French, Italian, German, Danish, Hungarian, Norwegian, Dutch, Swedish, Bulgarian, Romanian, Russian, Hebrew, Chinese, Japanese, Thai, Georgian, Arabic, Azerbaijani, Vietnamese, Serbian, Polish, Czech and more.」（https://simvoly.com/white-label-crm）
+- 使いやすさ：
+  - 「Soffront even offers 1-on-1 training and onboarding plans so you can start the right way with goal-based training and setup. Their training and onboarding plans start at $400 and go up to $900.」（https://salespype.com/the-10-best-white-label-crm-software-solutions/）
+  - 「blog about AI app building, no-code development, and product engineering.」（https://www.totalum.app/blog/white-label-crm-2026）
+  - 「Create your web app with AI in minutes. No code needed.」（https://www.totalum.app/blog/white-label-crm-2026）
+  - 「They don't invest in onboarding.」（https://seedlycrm.com/blog/white-label-crm-playbook）
+  - 「The CRM is only as good as the client's ability to use it. Build an onboarding flow, record some videos, write a quick-start guide.」（https://seedlycrm.com/blog/white-label-crm-playbook）
+  - 「plus a one-time $1,250 onboarding to build & launch your platform」（https://whitelabelcrm.com/）
+  - 「It starts at $299/month for your branded CRM (5 customer accounts and 30,000 managed emails included), plus a one-time onboarding to get you set up. Additional accounts are $25/month and team members $12/month. See the pricing page for the full picture.」（https://whitelabelcrm.com/）
+  - 「Client Onboarding」（https://suitedash.com/white-label-crm/）
+  - 「One-on-One Onboarding」（https://suitedash.com/white-label-crm/）
+  - 「Every tile below is a complete tool that already works with the others, so a new Client flows from your CRM into onboarding, the portal, proposals and invoicing without a single copy and paste. Turn on what you need today and the rest as you grow, with UNLIMITED Staff and Clients on one flat price.」（https://suitedash.com/white-label-crm/）
+  - 「Onboarding」（https://suitedash.com/white-label-crm/）
+  - 「HighLevel includes CRM, sales funnels, marketing automation, booking, a drag-and-drop website builder, AI appointment bots, lead nurturing, and analytics – all in one platform ready for your agency's branding.」（https://www.gohighlevel.com/white-label-crm）
+  - 「HighLevel automates onboarding, follow-ups and engagement with built-in CRM and multi-channel communication. It centralizes lead tracking, reduces tool sprawl, and saves hours in manual tasks—ideal for lean agencies.」（https://www.gohighlevel.com/white-label-crm）
+  - 「HighLevel automates nurture campaigns, sends triggered messages across channels, tracks user behavior, and handles onboarding—all via custom workflows. It keeps engagement consistent and reduces manual labor.」（https://www.gohighlevel.com/white-label-crm）
+  - 「No Code Website Builder」（https://www.gohighlevel.com/white-label-crm）
+- 検索結果の抜粋：
+  - 「What is/are the best or top 5 white label CRM softwares? — What is/are the best or top 5 white label CRM softwares? Reddit https://www.reddit.com > comments」（https://www.reddit.com/r/CRM/comments/195ptj9/what_isare_the_best_or_top_5_white_label_crm/）
+  - 「The 10 Best White Label CRM Software Solutions - SalesPype — The 10 Best White Label CRM Software Solutions - SalesPype SalesPype https://salespype.com > the-10-best-w...」（https://salespype.com/the-10-best-white-label-crm-software-solutions/）
+  - 「White Label CRM in 2026 : Resell a CRM or Build Your Own ... — White Label CRM in 2026 : Resell a CRM or Build Your Own ... Totalum https://www.totalum.app > Blog」（https://www.totalum.app/blog/white-label-crm-2026）
+  - 「White - Label CRM for Agencies , 6 Platforms and the Reseller ... — White - Label CRM for Agencies , 6 Platforms and the Reseller ... Seedly CRM https://seedlycrm.com > Blog」（https://seedlycrm.com/blog/white-label-crm-playbook）
+  - 「White Label CRM in 2026: Resell a CRM or Build Your Own ... — White Label CRM in 2026: Resell a CRM or Build Your Own ... Totalum https://www.totalum.app > Blog」（https://www.totalum.app/blog/white-label-crm-2026）
+  - 「Build Your Own CRM with White Label CRM Software 2026 — Build Your Own CRM with White Label CRM Software 2026 leadheed.com https://leadheed.com > CRM」（https://leadheed.com/blog/white-label-crm-software/）
+  - 「Best White Label CRM of September 2026 - Market Shepherd — Best White Label CRM of September 2026 - Market Shepherd marketshepherd.com https://marketshepherd.com > best-wh...」（https://marketshepherd.com/best-white-label-crm/）
+
+## ホワイトラベルWebサイト作成（white label website builder）
+- 文脈：ホームページ
+- 提供企業：
+  - 「3 Best White Label Website Builders of 2026: Expert Agency Review」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「By 2026, agencies aren't just selling sites; they are launching software companies. We review Duda, GoHighLevel, and Simvoly to find the ultimate white label website builder for scaling agencies.」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「We tested the three biggest players in the market: Duda, GoHighLevel, and Simvoly, to determine which one truly holds the crown as the best white label website builder of 2026.」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「This is the "King’s Gambit" of reviews. Simvoly isn’t just a tool in your belt; it’s the factory where you build the belt, the tools, and the store that sells them.」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「Here is the deep dive into why Simvoly holds the 2026 crown for the best white label website builder and SaaS engine.」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「comparison between Simvoly vs Duda」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「Dated and clunky page builder compared to others」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「: Native tools for managing Google reviews and booking appointments on a calendar.」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「the top 5 GHL alternatives in 2026」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「comparison between Simvoly vs GoHighLevel」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「After deep-diving into the top three, the winner for the best white label website builder is clear. While Duda and GoHighLevel are excellent for specific niches, Simvoly is the only platform that offers the "Total SaaS Package."」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「Simvoly vs Competitors」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「Simvoly vs GoHighLevel」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「Simvoly vs Duda」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「Simvoly vs ClickFunnels」（https://simvoly.com/the-best-white-label-website-builder）
+- 自社名で出せる条件：
+  - 「3 Best White Label Website Builders of 2026: Expert Agency Review」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「White Label」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「Top 3 White Label Website Builders Of 2026」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「By 2026, agencies aren't just selling sites; they are launching software companies. We review Duda, GoHighLevel, and Simvoly to find the ultimate white label website builder for scaling agencies.」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「For forward-thinking agencies, the solution isn't to hire more developers; it's to adopt a white label website builder.」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「White labeling allows you to take an existing, powerful software platform, strip away its branding, replace it with your own logo, domain, and colors, and resell it to your clients at your own price points. It is the fastest route from being a "service provider" to becoming a "SaaS founder."」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「We tested the three biggest players in the market: Duda, GoHighLevel, and Simvoly, to determine which one truly holds the crown as the best white label website builder of 2026.」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「Here is the deep dive into why Simvoly holds the 2026 crown for the best white label website builder and SaaS engine.」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「White Label (The Agency Crusher)」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「White Label funnel builder for agencies and SaaS」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「entrepreneurs on the market today. You can completely rebrand the builder, set your own pricing tiers, and host it on your own domain to provide a custom experience for your clients.」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「This is the only platform that truly lets you "be the SaaS," allowing you to build a recurring revenue stream under your own brand name.」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「Simvoly is the only white label website builder that gives you the keys to the kingdom. It doesn't just give you a tool to build for clients; it gives you the infrastructure to build a software company that competes with the giants.」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「has established itself as a steady, professional-grade white label website builder for agencies that focus on high-output web production. It is built for teams that need to deliver clean, fast-loading sites without the overhead of complex marketing automation or custom software engineering.」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「Customizability: Standard White Labeling」（https://simvoly.com/the-best-white-label-website-builder）
+- 再販制度：
+  - 「White labeling allows you to take an existing, powerful software platform, strip away its branding, replace it with your own logo, domain, and colors, and resell it to your clients at your own price points. It is the fastest route from being a "service provider" to becoming a "SaaS founder."」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「Pricing Structure: The Margin Machine」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「Simvoly’s pricing is designed for high-margin reselling.」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「You pay a small wholesale fee for each active project (e.g., $5 - $8 per month).」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「: The plan typically includes 4 sites. Every site beyond that incurs an additional monthly cost (approx. $14 - $19 per site), which eats into the margins if you are trying to compete at lower price points.」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「: Unlike Duda, you don't pay per site. This means if you have 100 clients, your software cost stays at $497, making your margins potentially massive.」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「: You are responsible for the costs of SMS, Email, and Phone minutes (usually rebilled to the client with a markup).」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「Pricing Margin」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「Simvoly is the only platform that lets you launch a full-scale tech company under your brand. By combining a world-class website builder with native funnels and a booming community platform, all at a wholesale price that protects your margins, Simvoly is the undisputed king of white labeling.」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「White Label / Reseller」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「Affiliate」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「5% recurring commission」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「Affiliate Program」（https://site.pro/Blog/Best-White-Label-Website-Builders-of-2026/）
+  - 「Affiliate Partners」（https://site.pro/Blog/Best-White-Label-Website-Builders-of-2026/）
+  - 「For Resellers」（https://site.pro/Blog/Best-White-Label-Website-Builders-of-2026/）
+- 無料体験・貸出：
+  - 「Automated Onboarding: You can set up a "Template Selector" on your own website. A lead visits your site, picks a template, creates an account, and starts a trial—without you lifting a finger.」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「Automated Billing: It integrates directly with your Stripe account. When the client’s trial ends, they pay you based on the plans you created. Simvoly stays in the background, handling the hosting and the tech.」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「Start Your Free Trial」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「No credit card required」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「30 days free trial」（https://site.pro/Blog/Best-White-Label-Website-Builders-of-2026/）
+  - 「. It is a free plan that allows reselling the website builder under Site.pro’s brand. The number of both free and premium websites is not limited. You earn 50% from every upgrade.」（https://site.pro/Blog/Best-White-Label-Website-Builders-of-2026/）
+  - 「Free plan availability」（https://site.pro/Blog/Best-White-Label-Website-Builders-of-2026/）
+  - 「Free plan: $0/month (includes Weebly/Square branding);」（https://site.pro/Blog/Best-White-Label-Website-Builders-of-2026/）
+  - 「Free plan: $0/month (with WebWave branding and subdomain);」（https://site.pro/Blog/Best-White-Label-Website-Builders-of-2026/）
+  - 「Evaluate the actual AI workflow during a trial. AI assistance and full multi-page autonomous generation are not interchangeable. Also confirm how pricing changes as customer accounts, traffic, funnels, and stores grow.」（https://www.1clickwebsite.ai/blog/best-white-label-ai-website-builders-for-agencies）
+  - 「Do not evaluate a platform only through the vendor's sales demo. Run this test with a trial account or supervised proof of concept:」（https://www.1clickwebsite.ai/blog/best-white-label-ai-website-builders-for-agencies）
+  - 「Free Trial . No Credit Card Required」（https://simvoly.com/whitelabel-website-builder）
+  - 「What to test in a 60-minute platform trial」（https://lindo.ai/blogs/en/white-label-website-builder-complete-guide）
+  - 「If you want to make this real, here is a 30-day implementation plan you can follow. This is designed to get you from “thinking about it” to “selling it.”」（https://lindo.ai/blogs/en/white-label-website-builder-complete-guide）
+  - 「, 7-days Free Trial」（https://www.kopage.com/white-label-website-builder）
+- 価格：
+  - 「$59/mo」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「$149/mo」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「$297/mo」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「You pay a monthly fee (starting around $59 - $497/mo) to "own" the platform license.」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「You pay a small wholesale fee for each active project (e.g., $5 - $8 per month).」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「If you charge your client $49/mo (standard for a builder), you are making a $40+ monthly profit per client. Scale that to 100 clients, and you have $4,000/mo in pure recurring profit with zero maintenance.」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「, allows businesses to earn 100% from each sale and upgrade. The package includes the unlimited number of free websites, and with every premium website costing 0.2 cents/month on the minimal package, and less on bigger ones.」（https://site.pro/Blog/Best-White-Label-Website-Builders-of-2026/）
+  - 「“Host it yourself” for $500/month;」（https://site.pro/Blog/Best-White-Label-Website-Builders-of-2026/）
+  - 「“Servers control” for $25 000/year (around $2100/month).」（https://site.pro/Blog/Best-White-Label-Website-Builders-of-2026/）
+  - 「White Label plan: around $149/month with 4 sites included. Every additional website costs around $14;」（https://site.pro/Blog/Best-White-Label-Website-Builders-of-2026/）
+  - 「Some users mention that pricing can be higher compared to competitors, and customisation flexibility (especially compared to open-source platforms) may feel somewhat limited. Reviews across Trustpilot and G2 are generally positive among agencies.」（https://site.pro/Blog/Best-White-Label-Website-Builders-of-2026/）
+  - 「Cloud White Label plan: around $159/month (includes 10 websites, additional sites ~$8/month);」（https://site.pro/Blog/Best-White-Label-Website-Builders-of-2026/）
+  - 「Annual option: around $1,590/year with similar features;」（https://site.pro/Blog/Best-White-Label-Website-Builders-of-2026/）
+  - 「We considered what makes the bill increase: generated sites, active hosted sites, AI credits, transactions, users, or client sub-accounts. The advertised starting price rarely explains the cost of a 50-site catalog.」（https://www.1clickwebsite.ai/blog/best-white-label-ai-website-builders-for-agencies）
+  - 「A $50 tool that takes eight hours of cleanup can cost more than a $500 platform that produces client-ready sites. The useful number is gross profit per delivered and retained client.」（https://www.1clickwebsite.ai/blog/best-white-label-ai-website-builders-for-agencies）
+- 日本対応：
+  - 「Growing to $15k MRR Helping Japanese SMBs」（https://simvoly.com/whitelabel-website-builder）
+  - 「English, Spanish, Portuguese PT, Portuguese BR, French, Italian, German, Danish, Hungarian, Norwegian, Dutch, Swedish, Bulgarian, Romanian, Russian, Hebrew, Chinese, Japanese, Thai, Georgian, Arabic, Azerbaijani, Vietnamese, Serbian, Polish, Czech and more.」（https://simvoly.com/whitelabel-website-builder）
+  - 「Multilingual Website Builder」（https://lindo.ai/blogs/en/white-label-website-builder-complete-guide）
+  - 「Multilingual Website Builder」（https://lindo.ai/best/white-label-website-builder-for-agencies）
+  - 「Helping Japanese SMBs and Growing to $15k MRR and $200,000 in Revenue」（https://simvoly.com/case-study/case-study-9）
+  - 「In 2011, he started his own business as a health and exercise instructor through qigong, yoga, martial arts, and Japanese culture. He has held more than 5,000 seminars and lessons, and has taught more than 30,000 people.」（https://simvoly.com/case-study/case-study-9）
+  - 「He has been managing and supporting various online communities since 2019, and established Connected Village, Inc. in July 2021. The only funnel builder in Japan, and released "Connected One". He provides a platform to automate and structure online businesses and helps entrepreneurs in Japan to transform their ideas into business.」（https://simvoly.com/case-study/case-study-9）
+  - 「SMBs in Japan」（https://simvoly.com/case-study/case-study-9）
+  - 「The first is that the dashboard can be translated into Japanese.」（https://simvoly.com/case-study/case-study-9）
+  - 「We are offering this service for Japanese, but language was a bottleneck in other tools.」（https://simvoly.com/case-study/case-study-9）
+  - 「Many Japanese people do not use the tool simply because it is in English.」（https://simvoly.com/case-study/case-study-9）
+  - 「In Japan, there are virtually no solutions that offer both funnels and websites. This made it easier to position ourselves than our competitors.」（https://simvoly.com/case-study/case-study-9）
+  - 「Our goal for the next three years is to further expand our market in Japan and to acquire 10,000 users.」（https://simvoly.com/case-study/case-study-9）
+- 使いやすさ：
+  - 「The Builder: A pixel-perfect, drag-and-drop editor for Websites and Funnels that is arguably the smoothest in the industry.」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「Automated Onboarding: You can set up a "Template Selector" on your own website. A lead visits your site, picks a template, creates an account, and starts a trial—without you lifting a finger.」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「Onboarding」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「: You are responsible for the costs of SMS, Email, and Phone minutes (usually rebilled to the client with a markup).」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「Not at all. The management console is completely no-code. You can manage all your clients, templates, and billing settings from a central dashboard. We handle the hosting, security, and software updates in the background.」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「Drag-and-drop editor」（https://site.pro/Blog/Best-White-Label-Website-Builders-of-2026/）
+  - 「AI drag-and-drop website builder」（https://site.pro/Blog/Best-White-Label-Website-Builders-of-2026/）
+  - 「Customers highlight Brizy’s ease of use: the drag-and-drop editor with AI features. Its price is on the lower side compared to the average.」（https://site.pro/Blog/Best-White-Label-Website-Builders-of-2026/）
+  - 「Drag-and-drop website builder」（https://site.pro/Blog/Best-White-Label-Website-Builders-of-2026/）
+  - 「The website builder is easy to use. But there are reviews regarding the fact that other features are more complicated and with a learning curve. At the same time, as a jack-of-all-trades Simvoly may feel less specialised than standalone tools focused only on design or marketing.」（https://site.pro/Blog/Best-White-Label-Website-Builders-of-2026/）
+  - 「with templates and AI onboarding;」（https://site.pro/Blog/Best-White-Label-Website-Builders-of-2026/）
+  - 「. Includes onboarding, training, second-line support, and go-to-market assistance;」（https://site.pro/Blog/Best-White-Label-Website-Builders-of-2026/）
+  - 「Weblium is a no-code website builder with a white-label solution for small-to-mid-sized businesses, mainly web design agencies. It focuses on fast deployment and AI assistance.」（https://site.pro/Blog/Best-White-Label-Website-Builders-of-2026/）
+  - 「is built around the way local website agencies actually sell and fulfill work. The agency can start with business information, generate a complete WordPress site in minutes, edit it, show it to the prospect, and deliver the same project after approval.」（https://www.1clickwebsite.ai/blog/best-white-label-ai-website-builders-for-agencies）
+  - 「Duda's current AI capabilities go beyond copy assistance. Its platform describes AI-powered site building, white-label onboarding, content collection, and tools for generating or editing sites from client information.」（https://www.1clickwebsite.ai/blog/best-white-label-ai-website-builders-for-agencies）
+- 検索結果の抜粋：
+  - 「Top 3 White Label Website Builders of 2026 — Top 3 White Label Website Builders of 2026 Simvoly https://simvoly.com > the-best-white-l...」（https://simvoly.com/the-best-white-label-website-builder）
+  - 「Best White Label Website Builders of 2026 - Site.pro — Best White Label Website Builders of 2026 - Site.pro Site.pro https://site.pro > Blog > Shared Hosting」（https://site.pro/Blog/Best-White-Label-Website-Builders-of-2026/）
+  - 「What Is a White Label Website Builder ? (2026) | Lindo.ai — What Is a White Label Website Builder ? (2026) | Lindo.ai Lindo.ai https://lindo.ai > Blog」（https://lindo.ai/blogs/en/white-label-website-builder-complete-guide）
+  - 「5 Best White Label Website Builder for Agencies 2026 — 5 Best White Label Website Builder for Agencies 2026 YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=DM02QtqUOso）
+  - 「Best White Label Website Builders of 2026: Expert Review — Best White Label Website Builders of 2026: Expert Review mavlers.agency https://www.mavlers.agency > blog」（https://www.mavlers.agency/feeds/blog/white-label-website）
+  - 「The White Label Website Builder for Trades and Professionals — The White Label Website Builder for Trades and Professionals Simvoly https://simvoly.com > case-study-9」（https://simvoly.com/case-study/case-study-9）
+  - 「12 Best White Label Website Builder Platforms for 2025 - Sotion — 12 Best White Label Website Builder Platforms for 2025 - Sotion sotion.so https://sotion.so > Posts」（https://sotion.so/blog/best-white-label-website-builder）
+
+## ホワイトラベル口コミ管理（white label review management）
+- 文脈：口コミ
+- 提供企業：
+  - 「White-Label Review Management Software for Agencies」（https://www.embedmyreviews.com/white-label-review-management-software/）
+  - 「Review calculator and more」（https://www.embedmyreviews.com/white-label-review-management-software/）
+  - 「White-label review management tool」（https://www.embedmyreviews.com/white-label-review-management-software/）
+  - 「White-label review management software for agencies」（https://www.embedmyreviews.com/white-label-review-management-software/）
+  - 「White-label review management software lets your agency collect feedback, monitor reviews, prepare replies and report to clients under your own brand. EmbedMyReviews brings those tasks together for $99/month, with unlimited clients and locations.」（https://www.embedmyreviews.com/white-label-review-management-software/）
+  - 「, Founder & Lead Developer at EmbedMyReviews.」（https://www.embedmyreviews.com/white-label-review-management-software/）
+  - 「Start with the client’s review process: when to ask, which profiles to monitor, who approves responses and what the monthly report should show. Then use the same workflow for each account, with its own settings and branding.」（https://www.embedmyreviews.com/white-label-review-management-software/）
+  - 「Monitor connected sources and reply to Google and Facebook reviews through supported connections.」（https://www.embedmyreviews.com/white-label-review-management-software/）
+  - 「A review management workflow your team can repeat」（https://www.embedmyreviews.com/white-label-review-management-software/）
+  - 「Connect the client's review sources and set alerts. Reviews sync on each source's schedule; monitoring a source does not mean it supports direct replies. Google profiles connected through Grant Access also show which reviews Google removed, and when.」（https://www.embedmyreviews.com/white-label-review-management-software/）
+  - 「Display reviews in website widgets and send branded reports on review and campaign activity. Explain the changes and agree the next action with the client.」（https://www.embedmyreviews.com/white-label-review-management-software/）
+  - 「EMR includes optional review gating. For Google requests, switch it off so every genuine customer can receive the public review invitation regardless of sentiment. Do not offer incentives. Read」（https://www.embedmyreviews.com/white-label-review-management-software/）
+  - 「Google's review policy」（https://www.embedmyreviews.com/white-label-review-management-software/）
+  - 「What to check in a white-label review management tool」（https://www.embedmyreviews.com/white-label-review-management-software/）
+  - 「Test the client experience as well as the agency dashboard. A useful tool should support the service you promise, from the first request to the monthly review.」（https://www.embedmyreviews.com/white-label-review-management-software/）
+- 自社名で出せる条件：
+  - 「White-Label Review Management Software for Agencies」（https://www.embedmyreviews.com/white-label-review-management-software/）
+  - 「White-label review management tool」（https://www.embedmyreviews.com/white-label-review-management-software/）
+  - 「White-label review management software for agencies」（https://www.embedmyreviews.com/white-label-review-management-software/）
+  - 「White-label review management software lets your agency collect feedback, monitor reviews, prepare replies and report to clients under your own brand. EmbedMyReviews brings those tasks together for $99/month, with unlimited clients and locations.」（https://www.embedmyreviews.com/white-label-review-management-software/）
+  - 「What to check in a white-label review management tool」（https://www.embedmyreviews.com/white-label-review-management-software/）
+  - 「Your brand on the client experience」（https://www.embedmyreviews.com/white-label-review-management-software/）
+  - 「Custom domain, client portal, feedback forms, widgets and branded reports; configure a supported sender for branded email」（https://www.embedmyreviews.com/white-label-review-management-software/）
+  - 「"EmbedMyReviews is a real game-changer for agencies. Setup is a breeze, and the automation tools save a ton of time. Its white-label features let you keep things under your own brand."」（https://www.embedmyreviews.com/white-label-review-management-software/）
+  - 「What does white-label review management software do?」（https://www.embedmyreviews.com/white-label-review-management-software/）
+  - 「How is a white-label review management tool different from a single-business tool?」（https://www.embedmyreviews.com/white-label-review-management-software/）
+  - 「; you can use your own branded sender or supported client mailbox instead. SMS, AI, scans, any own-provider email costs and applicable billing/payment fees are separate. You set the price your own clients pay.」（https://www.embedmyreviews.com/white-label-review-management-software/）
+  - 「White-label reputation management for agencies and operators already serving local businesses.」（https://www.embedmyreviews.com/white-label-review-management-software/）
+  - 「White-Label Software」（https://www.embedmyreviews.com/white-label-review-management-software/）
+  - 「White-Label GBP Management」（https://www.embedmyreviews.com/white-label-review-management-software/）
+  - 「White-Label」（https://www.embedmyreviews.com/white-label-review-management-software/）
+- 再販制度：
+  - 「Built for agencies and resellers」（https://www.embedmyreviews.com/white-label-review-management-software/）
+  - 「Use the Grade.us Review Management ROI Calculator to determine your agency’s potential profit margins and MRR. Simply choose the number of seats (client location) you plan to start with and the amount you want to charge per seat.」（https://www.grade.us/home/review-management-software/）
+  - 「Agency Plan ($400+/mo) | 10+ Seats」（https://www.grade.us/home/review-management-software/）
+  - 「Gross Margin」（https://www.grade.us/home/review-management-software/）
+  - 「Reseller」（https://www.grade.us/home/review-management-software/）
+  - 「Reputation Management Reseller」（https://www.grade.us/home/review-management-software/）
+  - 「Use the WordPress version of the review stream with data structure schema friendly markup.」（https://www.grade.us/home/review-management-software/）
+  - 「For $440 annually (complimentary at 100 seats), add your agency or reseller brand’s logo to the dashboard and provide your clients with fully white labeled platform access*. This add-on is ideal for when you want to offer a self-managed white label service for your clients.」（https://www.grade.us/home/review-management-software/）
+  - 「Agencies & Resellers」（https://www.scoremyreviews.com/white-label-review-management-software/）
+  - 「Straightforward, Flexible Reseller Pricing!」（https://www.scoremyreviews.com/white-label-review-management-software/）
+  - 「How Our Reseller, White Label Review Management Software Works」（https://www.scoremyreviews.com/white-label-review-management-software/）
+  - 「ReviewInc gives you everything you need to resell reputation services that get results—review management, listings, local SEO, and social media tools in one powerful white label platform.」（https://reviewinc.com/reviewsonline/white-label-reputation-management/）
+  - 「We love our partners and take great care to help onboard your success with extensive 1-on-1 training, materials, and admin tools. We have two partner programs available and will work with you to find the best partnership.」（https://reviewinc.com/reviewsonline/white-label-reputation-management/）
+  - 「Referral Partner」（https://reviewinc.com/reviewsonline/white-label-reputation-management/）
+  - 「Referral or Revenue Share」（https://reviewinc.com/reviewsonline/white-label-reputation-management/）
+- 無料体験・貸出：
+  - 「Start Free Trial」（https://www.embedmyreviews.com/white-label-review-management-software/）
+  - 「14-day free trial. No credit card required. Provider usage and applicable billing fees are separate.」（https://www.embedmyreviews.com/white-label-review-management-software/）
+  - 「Start free trial」（https://www.embedmyreviews.com/white-label-review-management-software/）
+  - 「Request Trial」（https://www.grade.us/home/review-management-software/）
+  - 「Start Your 14-day Free Trial」（https://www.grade.us/home/review-management-software/）
+  - 「No obligation. No credit card. We'll earn your trust.」（https://www.grade.us/home/review-management-software/）
+  - 「Start Your Free Trial」（https://www.scoremyreviews.com/white-label-review-management-software/）
+  - 「White-Label Reputation Management Software [Free Trial]」（https://www.embedmyreviews.com/）
+  - 「Start Free Trial」（https://www.embedmyreviews.com/）
+  - 「Start free trial」（https://www.embedmyreviews.com/）
+  - 「Pick any local business. See their Trust Score, competitor gaps, and AI visibility. No credit card, no commitment—just proof that this works.」（https://www.embedmyreviews.com/）
+  - 「14-day trial · No credit card」（https://www.embedmyreviews.com/）
+  - 「14-day free trial」（https://www.embedmyreviews.com/）
+  - 「No credit card required」（https://www.embedmyreviews.com/）
+  - 「Start free trial」（https://reviewshake.com/platform/white-label-reputation-management）
+- 価格：
+  - 「White-label review management software lets your agency collect feedback, monitor reviews, prepare replies and report to clients under your own brand. EmbedMyReviews brings those tasks together for $99/month, with unlimited clients and locations.」（https://www.embedmyreviews.com/white-label-review-management-software/）
+  - 「Is the $99 price per client or per location?」（https://www.embedmyreviews.com/white-label-review-management-software/）
+  - 「Neither. $99 per month covers the agency platform with unlimited clients and locations. Paid plans include optional free unlimited grey-label email from」（https://www.embedmyreviews.com/white-label-review-management-software/）
+  - 「Agency Plan ($400+/mo) | 10+ Seats」（https://www.grade.us/home/review-management-software/）
+  - 「For $440 annually (complimentary at 100 seats), add your agency or reseller brand’s logo to the dashboard and provide your clients with fully white labeled platform access*. This add-on is ideal for when you want to offer a self-managed white label service for your clients.」（https://www.grade.us/home/review-management-software/）
+  - 「$90.00/mo (one seat/location is included)」（https://www.scoremyreviews.com/white-label-review-management-software/）
+  - 「(drops to $39.00/mo after adding a minimum of 5 clients/seats)」（https://www.scoremyreviews.com/white-label-review-management-software/）
+  - 「$75.00 one-time setup fee」（https://www.scoremyreviews.com/white-label-review-management-software/）
+  - 「$39.00/mo per additional seat/location」（https://www.scoremyreviews.com/white-label-review-management-software/）
+  - 「ReviewInc’s pricing is designed to be flexible and scalable for agencies of all sizes. Our per-location pricing starts under $100 per month, with volume discounts available for agencies managing larger client portfolios.」（https://reviewinc.com/reviewsonline/white-label-reputation-management/）
+  - 「$99/month flat」（https://www.embedmyreviews.com/）
+  - 「Most platforms get more expensive every time you add locations. EMR is $99 a month for the platform, so your software cost stays predictable while your client base grows.」（https://www.embedmyreviews.com/）
+  - 「$300/mo」（https://www.embedmyreviews.com/）
+  - 「$450/mo」（https://www.embedmyreviews.com/）
+  - 「$99/mo」（https://www.embedmyreviews.com/）
+- 日本対応：
+  - 「27 languages supported out of the box. Strong EU presence. Flexible SMS and email providers for any region. BYOK lets you choose providers closer to home—wholesale rates worldwide, not just US/Canada.」（https://www.embedmyreviews.com/）
+  - 「White Label Review Management Services in Japan | BlackTech」（https://www.blacktechcorp.com/white-label-review-management-services-in-japan）
+  - 「White Label Review Management Services in Japan」（https://www.blacktechcorp.com/white-label-review-management-services-in-japan）
+  - 「Why Japan Needs White Label Review Management Services」（https://www.blacktechcorp.com/white-label-review-management-services-in-japan）
+  - 「Businesses evaluating White Label Review Management Services in Japan are usually choosing between three options: handling it internally with whichever staff member has time, a large generalist marketing agency, or a firm like BlackTech Consultancy that sits deliberately between the two. Each option carries real tradeoffs worth naming plainly.」（https://www.blacktechcorp.com/white-label-review-management-services-in-japan）
+  - 「The clients who get the most value from White Label Review Management Services in Japan tend to share a specific pattern: a customer decision process where reviews are read closely and where response quality genuinely shapes trust before a customer ever makes contact. The industries below show up repeatedly, though the underlying pattern extends well beyond this list.」（https://www.blacktechcorp.com/white-label-review-management-services-in-japan）
+  - 「How much does White Label Review Management Services in Japan typically cost with BlackTech Consultancy?」（https://www.blacktechcorp.com/white-label-review-management-services-in-japan）
+- 使いやすさ：
+  - 「Charge a setup fee to configure their review funnel. Have them send you their customer list each week, show value in under 10 minutes by uploading them into our system to send out review requests.」（https://www.grade.us/home/review-management-software/）
+  - 「You provide the onboarding, give your clients access to their own profile, and your clients can do the rest.」（https://www.grade.us/home/review-management-software/）
+  - 「Our software is easy to use, automated, and self-explanatory, so your clients can easily use it with less support and guidance. From our platform, you can easily switch between your customers’ accounts, monitor their activities, track their campaign progress and online reputation.」（https://www.scoremyreviews.com/white-label-review-management-software/）
+  - 「We handle onboarding and service, while you maintain client relationships and earn commissions.」（https://reviewinc.com/reviewsonline/white-label-reputation-management/）
+  - 「Branded sales materials and onboarding support」（https://reviewinc.com/reviewsonline/white-label-reputation-management/）
+  - 「Poor onboarding and minimal support」（https://reviewinc.com/reviewsonline/white-label-reputation-management/）
+  - 「The right white label partner should offer more than just software—they should help you succeed as a reseller or agency. Look for a platform that’s easy to use, delivers real results, and offers support behind the scenes.」（https://reviewinc.com/reviewsonline/white-label-reputation-management/）
+  - 「Branded reports, sales materials, and onboarding resources」（https://reviewinc.com/reviewsonline/white-label-reputation-management/）
+  - 「ReviewInc stands out with a platform that’s easy to use, fully brandable, and built specifically for agencies. You get access to a wide range of features that help you deliver real results to your clients.」（https://reviewinc.com/reviewsonline/white-label-reputation-management/）
+  - 「Hands-on onboarding, partner training, and strategic support」（https://reviewinc.com/reviewsonline/white-label-reputation-management/）
+  - 「I really appreciate EmbedMyReviews for its cutting-edge technology and top-notch features, which make our agency very competitive. The platform is intuitive right from the start, and our clients love it as soon as onboarding sessions begin. Mannie, the lead developer, provides the best support by being responsive and supportive, always solving critical issues and introducing stunning new features.」（https://www.embedmyreviews.com/）
+  - 「Review widgets, badges, and displays. Embedded on client sites in minutes.」（https://www.embedmyreviews.com/）
+  - 「“Customer support is amazing! The platform is powerful but easy to use. There are a lot of features not available with competitors.”」（https://reviewshake.com/platform/white-label-reputation-management）
+  - 「Your domain, your sender address, your colours. Set up in about 15 minutes.」（https://reviewshake.com/platform/white-label-reputation-management）
+  - 「About 10 to 15 minutes for the agency account itself. The custom domain needs one CNAME record and an SSL approval, and the sender email needs three CNAME records. Most agencies are live the same day; DNS can take a few hours to propagate.」（https://reviewshake.com/platform/white-label-reputation-management）
+
+## ホワイトラベルAI検索対策（white label AI SEO）
+- 文脈：検索対策
+- 提供企業：
+  - 「10 Best White Label AI SEO Software in 2026: Top Tools Compared」（https://www.dageno.ai/blog/best-white-label-ai-seo-software）
+  - 「Product cards, prices, reviews and merchants」（https://www.dageno.ai/blog/best-white-label-ai-seo-software）
+  - 「Latest news, reviews, videos and posts about Dageno.」（https://www.dageno.ai/blog/best-white-label-ai-seo-software）
+  - 「Compare the best white label AI SEO software in 2026. Discover top platforms like Dageno AI, LLM Pulse, and SE Ranking for branded AI search visibility.」（https://www.dageno.ai/blog/best-white-label-ai-seo-software）
+  - 「As users increasingly rely on platforms like ChatGPT, Google AI Mode, Perplexity, and Gemini to research brands, the demand for」（https://www.dageno.ai/blog/best-white-label-ai-seo-software）
+  - 「has skyrocketed. Agencies and SaaS companies are no longer just tracking blue links; they are tracking how AI models mention, cite, and recommend their clients. This guide compares the top 10 white-label platforms available in 2026 to help you choose the right stack for your agency.」（https://www.dageno.ai/blog/best-white-label-ai-seo-software）
+  - 「GEO vs SEO」（https://www.dageno.ai/blog/best-white-label-ai-seo-software）
+  - 「best white label AI SEO software」（https://www.dageno.ai/blog/best-white-label-ai-seo-software）
+  - 「The shift to AI search is the biggest opportunity for agencies since the birth of SEO. By leveraging a white-label platform like」（https://www.dageno.ai/blog/best-white-label-ai-seo-software）
+  - 「LLM Pulse – Best White Label AI SEO Software Guide」（https://www.dageno.ai/blog/best-white-label-ai-seo-software）
+  - 「Best White Label SEO Software With AI Visibility (2026) - Ansvisor」（https://www.ansvisor.com/blog/best-white-label-ai-seo-software-tools-for-agencies）
+  - 「Providers, healthtech and medical companies.」（https://www.ansvisor.com/blog/best-white-label-ai-seo-software-tools-for-agencies）
+  - 「Compare Ansvisor vs other tools.」（https://www.ansvisor.com/blog/best-white-label-ai-seo-software-tools-for-agencies）
+  - 「Best White Label SEO Software With AI Visibility (2026)」（https://www.ansvisor.com/blog/best-white-label-ai-seo-software-tools-for-agencies）
+  - 「The best white label SEO software for agencies in 2026 includes SE Ranking, AgencyAnalytics, LLM Pulse, Ansvisor, Writesonic and Semrush. Choose by how much branding clients need, from branded PDFs to custom-domain portals. Then check whether the tool reports AI visibility in ChatGPT, Gemini and Google AI Overviews.」（https://www.ansvisor.com/blog/best-white-label-ai-seo-software-tools-for-agencies）
+- 自社名で出せる条件：
+  - 「10 Best White Label AI SEO Software in 2026: Top Tools Compared」（https://www.dageno.ai/blog/best-white-label-ai-seo-software）
+  - 「Agency, white label, content, and client referrals」（https://www.dageno.ai/blog/best-white-label-ai-seo-software）
+  - 「See where your brand stands in the AI market」（https://www.dageno.ai/blog/best-white-label-ai-seo-software）
+  - 「Compare the best white label AI SEO software in 2026. Discover top platforms like Dageno AI, LLM Pulse, and SE Ranking for branded AI search visibility.」（https://www.dageno.ai/blog/best-white-label-ai-seo-software）
+  - 「AI search has become a primary discovery channel, and agencies are racing to offer branded AI visibility insights. While tools like LLM Pulse and SE Ranking offer basic white-labeling,」（https://www.dageno.ai/blog/best-white-label-ai-seo-software）
+  - 「is the only platform that provides a full-stack, white-label GEO engine that automates both tracking and content execution for your clients.」（https://www.dageno.ai/blog/best-white-label-ai-seo-software）
+  - 「white label AI SEO software」（https://www.dageno.ai/blog/best-white-label-ai-seo-software）
+  - 「has skyrocketed. Agencies and SaaS companies are no longer just tracking blue links; they are tracking how AI models mention, cite, and recommend their clients. This guide compares the top 10 white-label platforms available in 2026 to help you choose the right stack for your agency.」（https://www.dageno.ai/blog/best-white-label-ai-seo-software）
+  - 「Why White Label AI SEO is Essential in 2026」（https://www.dageno.ai/blog/best-white-label-ai-seo-software）
+  - 「, generative AI is fundamentally shifting the search landscape. White-label software allows you to deliver professional, branded AI search insights (AEO) without building internal tooling, creating a new high-margin revenue stream for your agency.」（https://www.dageno.ai/blog/best-white-label-ai-seo-software）
+  - 「White Label Depth」（https://www.dageno.ai/blog/best-white-label-ai-seo-software）
+  - 「Full (Custom Domain + Embed)」（https://www.dageno.ai/blog/best-white-label-ai-seo-software）
+  - 「Full (Custom Domain)」（https://www.dageno.ai/blog/best-white-label-ai-seo-software）
+  - 「) — The Ultimate White Label GEO Engine」（https://www.dageno.ai/blog/best-white-label-ai-seo-software）
+  - 「is the category-defining platform for agencies that want to offer more than just reports. It is the only white-label solution that connects omnichannel citation tracking to autonomous agent execution, allowing you to not only show your clients their AI visibility but also fix it automatically.」（https://www.dageno.ai/blog/best-white-label-ai-seo-software）
+- 再販制度：
+  - 「Partner program」（https://www.dageno.ai/blog/best-white-label-ai-seo-software）
+  - 「Agency, white label, content, and client referrals」（https://www.dageno.ai/blog/best-white-label-ai-seo-software）
+  - 「Dageno Affiliate Program」（https://www.dageno.ai/blog/best-white-label-ai-seo-software）
+  - 「Earn 30% commission on referrals」（https://www.dageno.ai/blog/best-white-label-ai-seo-software）
+  - 「, generative AI is fundamentally shifting the search landscape. White-label software allows you to deliver professional, branded AI search insights (AEO) without building internal tooling, creating a new high-margin revenue stream for your agency.」（https://www.dageno.ai/blog/best-white-label-ai-seo-software）
+  - 「, competitors and AI referral traffic.」（https://www.ansvisor.com/blog/best-white-label-ai-seo-software-tools-for-agencies）
+  - 「AI referral traffic」（https://www.ansvisor.com/blog/best-white-label-ai-seo-software-tools-for-agencies）
+  - 「Visits from AI platforms, where referral data exists.」（https://www.ansvisor.com/blog/best-white-label-ai-seo-software-tools-for-agencies）
+  - 「Include share of voice by AI engine, prompt coverage, mentions versus citations, competitor wins and the sources behind them. Add AI referral traffic and three to five next actions, so the client sees progress and a plan.」（https://www.ansvisor.com/blog/best-white-label-ai-seo-software-tools-for-agencies）
+  - 「Partner Program」（https://almcorp.com/best-white-label-seo-agency/）
+  - 「Resell SEO, PPC, social and websites under your brand. We do the work, you keep the margin.」（https://almcorp.com/best-white-label-seo-agency/）
+  - 「Get wholesale pricing →」（https://almcorp.com/best-white-label-seo-agency/）
+  - 「Become an Agency Reseller」（https://almcorp.com/best-white-label-seo-agency/）
+  - 「This breadth of delivery ensures that your agency can compete with full‑service white label providers like SEOReseller, The HOTH, and 51Blocks without maintaining a large internal SEO department.」（https://almcorp.com/best-white-label-seo-agency/）
+  - 「SEOReseller」（https://almcorp.com/best-white-label-seo-agency/）
+- 無料体験・貸出：
+  - 「Try Ansvisor 14-day free」（https://www.ansvisor.com/blog/best-white-label-ai-seo-software-tools-for-agencies）
+  - 「Manufacturing & Industrial」（https://www.ansvisor.com/blog/best-white-label-ai-seo-software-tools-for-agencies）
+  - 「Start a 14-day free trial and build your first client AI visibility report this week.」（https://www.ansvisor.com/blog/best-white-label-ai-seo-software-tools-for-agencies）
+  - 「Start a 14-day free trial」（https://www.ansvisor.com/blog/best-white-label-ai-seo-software-tools-for-agencies）
+  - 「Try Ansvisor 14-day Free →」（https://www.ansvisor.com/blog/best-white-label-ai-seo-software-tools-for-agencies）
+  - 「Start for Free」（https://www.ansvisor.com/blog/best-white-label-ai-seo-software-tools-for-agencies）
+  - 「Free Trial」（https://www.ansvisor.com/blog/best-white-label-ai-seo-software-tools-for-agencies）
+  - 「Start free trial」（https://www.ranked.ai/white-label）
+  - 「Every plan tracks ChatGPT, Claude, Gemini, Perplexity, AI Mode and AI Overview, and the 14-day」（https://mencoro.com/best/white-label-seo-tools/）
+  - 「trial needs no credit card. Its pricing page does not mention a custom domain.」（https://mencoro.com/best/white-label-seo-tools/）
+  - 「Ask for a trial or a demo with your own data.」（https://mencoro.com/best/white-label-seo-tools/）
+  - 「Partly. Mencoro has no free plan; the cheapest one is €15 a month. Its free tools need no sign-up: the」（https://mencoro.com/best/white-label-seo-tools/）
+  - 「Not a fully free one: rebranding is a paid feature on every tool in this list. Many offer a free trial (AgencyAnalytics and Nightwatch say no credit card is needed). For a quick look at a prospect before you pay for anything, Mencoro’s AI visibility checker is free and needs no sign-up, though its results are not branded.」（https://mencoro.com/best/white-label-seo-tools/）
+  - 「Partly. Mencoro has no free plan; the cheapest one is €15 a month. Its free tools need no sign-up: the AI visibility checker asks ChatGPT, Gemini and Perplexity three buyer questions about your category, and there are free checkers for ChatGPT, Perplexity and AI Overviews. A one-off check is a snapshot, not a trend.」（https://mencoro.com/best/white-label-seo-tools/）
+- 価格：
+  - 「We read each vendor’s documentation and pricing pages in October 2026 and compared them on six points:」（https://www.ansvisor.com/blog/best-white-label-ai-seo-software-tools-for-agencies）
+  - 「SE Ranking lists the Agency Pack from $69 per month, billed annually and available on annual plans only. Its AI search trackers are separate products.」（https://www.ansvisor.com/blog/best-white-label-ai-seo-software-tools-for-agencies）
+  - 「Semrush lists Pro reports at $20 per report, with branding, custom domains, 40+ external integrations and AI summaries. AI visibility data comes from its separate AI Visibility Toolkit.」（https://www.ansvisor.com/blog/best-white-label-ai-seo-software-tools-for-agencies）
+  - 「Our in-house team delivers SEO & PPC for your clients under your brand - content, implementation, backlinks and Google Ads - inside a platform with your logo, domain, emails and reports. White label is free, plans from $99 per client.」（https://www.ranked.ai/white-label）
+  - 「'social services software' - 4,400 searches/mo」（https://www.ranked.ai/white-label）
+  - 「list prices on each vendor’s site on 18 October 2026 (some show euros, some dollars, and we kept」（https://mencoro.com/best/white-label-seo-tools/）
+  - 「Quoted on request, usage from €15/mo」（https://mencoro.com/best/white-label-seo-tools/）
+  - 「€1,499/mo Partner plan」（https://mencoro.com/best/white-label-seo-tools/）
+  - 「€385/mo Growth plan」（https://mencoro.com/best/white-label-seo-tools/）
+  - 「+€59/mo Agency Pack, annual only」（https://mencoro.com/best/white-label-seo-tools/）
+  - 「Add-on from €63.20/mo」（https://mencoro.com/best/white-label-seo-tools/）
+  - 「$99/mo Agency Unlimited + $40/mo domain」（https://mencoro.com/best/white-label-seo-tools/）
+  - 「$20 per report per month」（https://mencoro.com/best/white-label-seo-tools/）
+  - 「€21 per client per month」（https://mencoro.com/best/white-label-seo-tools/）
+  - 「$54/mo Individual」（https://mencoro.com/best/white-label-seo-tools/）
+- 使いやすさ：
+  - 「in about 3 minutes.」（https://almcorp.com/best-white-label-seo-agency/）
+  - 「“Just Sell” model with client‑facing services and onboarding」（https://almcorp.com/best-white-label-seo-agency/）
+  - 「ALM Corp’s “for agencies” offering is designed to help partners begin selling SEO within days by providing structured processes, materials, and fulfillment capacity. Once an onboarding path is defined, agencies can introduce SEO to existing clients and prospects using ALM Corp as the fulfillment engine.」（https://almcorp.com/best-white-label-seo-agency/）
+  - 「ALM Corp has experience supporting agencies across North America and beyond, which suggests adaptability to different markets and search environments. Agencies in other regions should discuss local nuances, languages, and platform preferences during the scoping and onboarding process.」（https://almcorp.com/best-white-label-seo-agency/）
+- 検索結果の抜粋：
+  - 「10 Best White Label AI SEO Software in 2026 : Top Tools ... — 10 Best White Label AI SEO Software in 2026 : Top Tools ... Dageno AI https://www.dageno.ai > blog > best-...」（https://www.dageno.ai/blog/best-white-label-ai-seo-software）
+  - 「Best white label AI SEO solutions for agencies in 2026 — Best white label AI SEO solutions for agencies in 2026 LinkedIn https://www.linkedin.com > pulse > b...」（https://www.linkedin.com/pulse/best-white-label-ai-seo-solutions-agencies-2026-omnieclipse-dfkkc）
+  - 「10 Best White Label AI SEO Software in 2026: Top Tools ... — 10 Best White Label AI SEO Software in 2026: Top Tools ... Dageno AI https://www.dageno.ai > blog > best-...」（https://www.dageno.ai/blog/best-white-label-ai-seo-software）
+- 日本対応：記載なし（読んだ30頁・検索6回）
+
+## ホワイトラベルSNS運用（white label social media management）
+- 文脈：SNS
+- 提供企業：
+  - 「Traditional white-label tools brand the dashboard. AI white-label platforms handle production」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「Platforms like Sendible, SocialPilot, and Agency Analytics let you put your logo on the dashboard and reports. The client logs into a portal with your branding. Reports go out with your colors.」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「This is the newer category, and the one that changes the economics. Platforms like」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「Live light and dark previews, draft saving, one-switch activation, disable and restore anytime」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「White label social media services vs software: build or resell?」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「The services-vs-software question boils down to where your production capacity comes from. Here’s the decision framework:」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「if you want software economics with the production problem handled. The AI generates content matched to each client’s voice, your team reviews and approves, and the platform carries your brand. You keep editorial control without staffing a production line.」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「The dashboard is the surface clients see most, so it’s where white-label either holds up or falls apart. When someone logs in to review content or check results, they should see your agency’s brand, not a generic SaaS interface with your logo pasted in the header.」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「White label social media management software compared.」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「Before getting into pricing, here’s how the main white-label platforms agencies evaluate compare side by side:」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「AI generates the content; your team reviews and approves」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「, including deterministic QA that catches duplicate angles, repeated openers, and off-template copy before your team ever reviews it. The anti-repetition problem that makes resold content look resold is handled in the machine.」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「With a white-label AI platform, the AI generates the content and your team reviews, refines, and approves. The production layer runs underneath. Your senior people get the hours back, and the platform still carries your agency’s brand.」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「Content team: 1 strategist reviewing and approving × $5,000/month」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「At 50 clients, the gap widens. The traditional model needs 7-8 content people producing under brand pressure. The AI model still needs one strategist doing review and one creative director doing oversight, and the rest of your senior capacity goes into the strategic work that compounds. That’s the play behind」（https://apaya.com/blog/white-label-social-media-management-guide）
+- 自社名で出せる条件：
+  - 「White Label Social Media Management: What It Includes, Pricing, and Reseller Margins - Apaya」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「Captions, images, and carousels in your brand voice」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「White Label Social Media Management: What It Includes, Pricing, and Reseller Margins」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「AI-powered white-label social media platforms add content production to the equation, letting agencies brand the entire pipeline rather than just the dashboard.」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「This guide covers the three white-label models, exactly what’s included in Apaya’s」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「white label social media management software」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「White-label isn’t about hiding the tools you use. Every agency uses tools, the same way law firms use research databases and creative shops use Adobe. White-label is about making sure the work clients see, experience, and remember is unmistakably yours. (If you’re new to the broader agency automation conversation, start with our pillar piece on」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「Three white-label models exist:」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「White-label is brand equity, not vendor concealment.」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「Traditional white-label tools brand the dashboard. AI white-label platforms handle production」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「Plenty of “white-label” tools leave branding gaps, and plenty of white-label marketing pages describe features that aren’t live. Ask for the exact list of what’s rebrandable today.」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「What is white label social media management?」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「White label means the client-facing experience carries your agency’s brand. Your name on the platform. Your logo on the sign-in page. Your identity on the invitations. The vendor recedes. Your agency is the brand the client experiences.」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「Every screen, invitation, and report view is an opportunity to reinforce your agency’s identity. When those touchpoints carry your brand, you’re building equity with every deliverable. When they carry a vendor’s brand, you’re building someone else’s instead.」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「Every agency uses tools: Adobe, scheduling platforms, analytics dashboards, research databases. Your internal operations don’t belong in your client’s field of view, the same way a law firm doesn’t show their research subscription line items. White-label keeps the operational decisions where they belong: with you.」（https://apaya.com/blog/white-label-social-media-management-guide）
+- 再販制度：
+  - 「White Label Social Media Management: What It Includes, Pricing, and Reseller Margins - Apaya」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「White Label Social Media Management: What It Includes, Pricing, and Reseller Margins」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「(which went live in July 2026), what everything costs, and the margin math that makes agencies resell it.」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「Companies like $99 Social, Content Fly, or MixBloom offer wholesale content creation. You buy posts at wholesale rates and resell them under your agency brand.」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「White label social media services vs software: build or resell?」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「only if you’re reselling on volume and your clients accept template-grade content. The margin per client looks good on paper, but churn from generic content usually eats it. This model works for sub-$500/month retainers and almost nowhere else.」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「White label social media marketing services, without the service markup.」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「White label social media reseller programs」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「social media reseller program」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「page covering how the Supernova model works as a program: the per-brand economics, what’s included, and how agencies onboard their first client batch. For the model itself, wholesale-to-retail mechanics and the margin math per client, see」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「how social media reseller programs work」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「) against retail retainers of $500 to $2,000, which is the margin that makes the model work. The pricing section below has the full breakdown.」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「The branding is the wrapper. The question that decides your margins is what’s inside it: if the platform doesn’t produce the content, your team is still the production line, and the white label is cosmetic. This is the line between Model 1 and Model 3, and it’s worth more than every other feature on the comparison sheet combined.」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「With per-user pricing, adding a strategist or account lead raises your software bill regardless of client count. With per-brand pricing, your cost is tied directly to revenue. Every new client has a predictable, fixed tool cost, which makes margin math straightforward when you quote retainers.」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「Tool cost: $200/month (SocialPilot Agency plan)」（https://apaya.com/blog/white-label-social-media-management-guide）
+- 無料体験・貸出：
+  - 「at flat per-brand pricing (current rates on the pricing page), and everything on this list is testable in the trial.」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「Start your free trial →」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「White-label marketing pages are notorious for describing roadmaps in the present tense. Ask which features are live today and test each one in the trial. A vendor who answers that question precisely will also answer support tickets precisely.」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「Start your free trial」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「Start free trial」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「Start free trial」（https://ezycourse.com/blog/white-label-social-media-platforms）
+  - 「No free plan available.」（https://ezycourse.com/blog/white-label-social-media-platforms）
+  - 「Go with your 30-day free trial now!」（https://ezycourse.com/blog/white-label-social-media-platforms）
+  - 「Free Plan:」（https://ezycourse.com/blog/white-label-social-media-platforms）
+  - 「30-day free trial now」（https://ezycourse.com/blog/white-label-social-media-platforms）
+  - 「Start your 14-day trial」（https://ezycourse.com/blog/white-label-social-media-platforms）
+  - 「Start 7-day trial for $0.00」（https://www.aidelly.ai/white-label）
+  - 「If you landed here looking for a service, we are genuinely not it, and we would rather say so than sell you a trial you will cancel. If you want the software, keep reading, or see how we compare with」（https://www.aidelly.ai/white-label）
+  - 「White label, custom domain, and branded reports come with the Agency plan. Start a free trial and rebrand it today.」（https://www.aidelly.ai/white-label）
+  - 「Start Your Free Trial」（https://www.aidelly.ai/white-label）
+- 価格：
+  - 「Companies like $99 Social, Content Fly, or MixBloom offer wholesale content creation. You buy posts at wholesale rates and resell them under your agency brand.」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「only if you’re reselling on volume and your clients accept template-grade content. The margin per client looks good on paper, but churn from generic content usually eats it. This model works for sub-$500/month retainers and almost nowhere else.」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「) against retail retainers of $500 to $2,000, which is the margin that makes the model work. The pricing section below has the full breakdown.」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「Per user, $50-$150/mo」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「Per user, $89-$240/mo」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「Per dashboard, $79+/mo」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「$59 per month on the annual plan.」（https://ezycourse.com/blog/white-label-social-media-platforms）
+  - 「$139 per month on the annual plan.」（https://ezycourse.com/blog/white-label-social-media-platforms）
+  - 「: $199 per month on the annual plan.」（https://ezycourse.com/blog/white-label-social-media-platforms）
+  - 「$299 per month on the annual plan.」（https://ezycourse.com/blog/white-label-social-media-platforms）
+  - 「$990 per month or $499 per month on the annual plan.」（https://ezycourse.com/blog/white-label-social-media-platforms）
+  - 「$79 per month or $64 per month on the annual plan.」（https://ezycourse.com/blog/white-label-social-media-platforms）
+  - 「We also give you access to a simple to use, white label scheduling and approvals software that lets you simplify communications and cut back and forth with clients, offering significant time and cost savings (similar software is sold at $100/client).」（https://www.mixbloom.com/white-label-social-media-management）
+  - 「Start free for $0」（https://www.aidelly.ai/white-label）
+  - 「Start 7-day trial for $0.00」（https://www.aidelly.ai/white-label）
+- 使いやすさ：
+  - 「minutes per client per day. One strategist can carry a roster that used to need a content team.」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「Point it at the client’s website. It builds the brand profile: voice, topics, colors, fonts. This takes minutes per client, and you can refine anything it learns.」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「Onboarding Services」（https://apaya.com/blog/white-label-social-media-management-guide）
+  - 「Contain a clean calendar and drag-and-drop composer.」（https://ezycourse.com/blog/white-label-social-media-platforms）
+  - 「All in all, this platform is shining as a platform for its secure access and onboarding. You can also give a polished, professional, and scalable service.」（https://ezycourse.com/blog/white-label-social-media-platforms）
+  - 「Contain secure client onboarding.」（https://ezycourse.com/blog/white-label-social-media-platforms）
+  - 「This platform is pretty affordable, easy to use, and contains powerful features. It also keeps things simple and fair. Like, this platform connects with all major social platforms to manage everything without extra plugins.」（https://ezycourse.com/blog/white-label-social-media-platforms）
+  - 「On top of that, it gives you great client support along with onboarding and account management options. The ability to schedule Instagram Stories is also a great bonus that few competitors provide.」（https://ezycourse.com/blog/white-label-social-media-platforms）
+  - 「You can also set up workflows without coding to send pre-written emails or full routine tasks automatically. Moreover, reporting is pretty smooth with clear dashboards showing campaign results in real time.」（https://ezycourse.com/blog/white-label-social-media-platforms）
+  - 「Onboarding Plan:」（https://ezycourse.com/blog/white-label-social-media-platforms）
+  - 「Even if you are new to social media tools, it is easy to use. At the same time, its strong analytics and scheduling system help you manage accounts in a clear way.」（https://ezycourse.com/blog/white-label-social-media-platforms）
+  - 「The platform also comes with a simple drag-and-drop editor. With this, you can customize or create unique content from scratch. Beyond content creation, it makes teamwork simple. You can also invite clients to one dashboard, share feedback, and work together on campaigns.」（https://ezycourse.com/blog/white-label-social-media-platforms）
+  - 「Beyond features, the support is unique. It also gives you a US-based live chat, an account manager, client migration, onboarding, and so on.」（https://ezycourse.com/blog/white-label-social-media-platforms）
+  - 「Use dedicated support, onboarding & Premier Partner Program.」（https://ezycourse.com/blog/white-label-social-media-platforms）
+  - 「Aidelly verifies automatically; status moves to "Live" once DNS propagates (usually minutes).」（https://www.aidelly.ai/white-label）
+- 検索結果の抜粋：
+  - 「10 Best White Label Social Media Management Services — 10 Best White Label Social Media Management Services DesignRush https://www.designrush.com > trends」（https://www.designrush.com/agency/social-media-marketing/trends/best-white-label-social-media-management-services）
+  - 「5 Best White - Label Social Media Tools for Agencies ( 2026 ) — 5 Best White - Label Social Media Tools for Agencies ( 2026 ) Salesflow https://salesflow.io > blog > 5-best-wh...」（https://salesflow.io/blog/5-best-white-label-social-media-tools-for-agencies-in-2025）
+- 日本対応：記載なし（読んだ30頁・検索6回）
+
+## ホワイトラベルAI動画・アバター（white label AI video）
+- 文脈：動画
+- 提供企業：
+  - 「Best White Label AI Video Platform Tools in 2026 | Wireflow Blog」（https://www.wireflow.ai/blog/best-white-label-ai-video-platform-tools-in-2026）
+  - 「Alternatives」（https://www.wireflow.ai/blog/best-white-label-ai-video-platform-tools-in-2026）
+  - 「Best White Label AI Video Platform Tools in 2026」（https://www.wireflow.ai/blog/best-white-label-ai-video-platform-tools-in-2026）
+  - 「The best white label AI video platform tools in 2026 let agencies and SaaS teams deliver AI-generated video under their own brand, without building rendering infrastructure from scratch.」（https://www.wireflow.ai/blog/best-white-label-ai-video-platform-tools-in-2026）
+  - 「best HeyGen alternatives」（https://www.wireflow.ai/blog/best-white-label-ai-video-platform-tools-in-2026）
+  - 「Best Descript Alternatives in 2026: 8 Text-Based Editors Compared」（https://www.wireflow.ai/blog/best-white-label-ai-video-platform-tools-in-2026）
+  - 「For technology providers, agencies, and value-added resellers, this burgeoning demand presents a lucrative opportunity to expand their service portfolios rapidly and cost-effectively. White label AI services offer a strategic pathway to deliver cutting-edge AI solutions under their brand, eliminating the need for costly in-house development and maintenance.」（https://insighto.ai/blog/best-ai-white-label-services/）
+  - 「This blog explores the 6 best white label AI services poised for significant market demand in 2026, enabling partners to capitalise on the AI revolution and deliver immediate value to their clients.」（https://insighto.ai/blog/best-ai-white-label-services/）
+  - 「These solutions allow businesses to deliver lifelike audio content at scale, without investing in costly recording infrastructure. Perfect for content platforms, eLearning providers, and marketing agencies, they enable full branding control and seamless voice integration.」（https://insighto.ai/blog/best-ai-white-label-services/）
+  - 「nano banana 2 vs flux 2 pro」（https://insighto.ai/blog/best-ai-white-label-services/）
+  - 「technical breakdown can help you choose the right model for your white-label platform. Ideal for design agencies, content platforms, and SaaS providers, they support scalability, creative control, and faster turnaround times.」（https://insighto.ai/blog/best-ai-white-label-services/）
+  - 「For businesses that need a standalone image generation tool rather than a full white-label suite, platforms like」（https://insighto.ai/blog/best-ai-white-label-services/）
+  - 「Top white label reseller programs」（https://insighto.ai/blog/best-ai-white-label-services/）
+  - 「Best White Label Digital Products」（https://insighto.ai/blog/best-ai-white-label-services/）
+  - 「Choosing the right white label partner is crucial, not just for brand alignment but for long-term success. Tools like Insighto AI, Jasper, and Pictory are redefining what’s possible with AI under your brand. By selecting feature-rich, customizable, and well-supported solutions, businesses can not only keep up with the pace of AI innovation but also lead it profitably and confidently!」（https://insighto.ai/blog/best-ai-white-label-services/）
+- 自社名で出せる条件：
+  - 「Best White Label AI Video Platform Tools in 2026 | Wireflow Blog」（https://www.wireflow.ai/blog/best-white-label-ai-video-platform-tools-in-2026）
+  - 「Best White Label AI Video Platform Tools in 2026」（https://www.wireflow.ai/blog/best-white-label-ai-video-platform-tools-in-2026）
+  - 「What Makes a Platform White Label Ready」（https://www.wireflow.ai/blog/best-white-label-ai-video-platform-tools-in-2026）
+  - 「The best white label AI video platform tools in 2026 let agencies and SaaS teams deliver AI-generated video under their own brand, without building rendering infrastructure from scratch.」（https://www.wireflow.ai/blog/best-white-label-ai-video-platform-tools-in-2026）
+  - 「A white label AI video platform has to clear three bars: your client never sees the vendor's brand, you can automate delivery through an API, and the unit economics leave room for markup. For a detailed breakdown of how these requirements map to real features, the」（https://www.wireflow.ai/blog/best-white-label-ai-video-platform-tools-in-2026）
+  - 「white label AI video platform feature page」（https://www.wireflow.ai/blog/best-white-label-ai-video-platform-tools-in-2026）
+  - 「Most tools in this category started as either avatar generators or template renderers, and their white label depth reflects that origin. Avatar platforms tend to gate custom branding behind enterprise tiers, while API-first platforms treat white labeling as the default because your application is the interface. If you plan to resell image output alongside video, a」（https://www.wireflow.ai/blog/best-white-label-ai-video-platform-tools-in-2026）
+  - 「white label AI generation platform」（https://www.wireflow.ai/blog/best-white-label-ai-video-platform-tools-in-2026）
+  - 「Wireflow is a node-based canvas where you chain AI models into repeatable video pipelines: script generation, image generation, video generation, and final assembly all run as connected nodes. For white label use, the important part is the」（https://www.wireflow.ai/blog/best-white-label-ai-video-platform-tools-in-2026）
+  - 「, which lets you trigger any saved workflow from your own product or client dashboard, so the output arrives under your brand with no third-party watermark.」（https://www.wireflow.ai/blog/best-white-label-ai-video-platform-tools-in-2026）
+  - 「The white label story is partial: you can remove Synthesia branding from exports on paid plans and apply client brand kits, but the editing experience itself stays on Synthesia's domain. The API covers video creation from templates, which works for programmatic training content at scale. If presenter video is the core need, the」（https://www.wireflow.ai/blog/best-white-label-ai-video-platform-tools-in-2026）
+  - 「For white label resellers, the API is the entry point: you send a script and avatar ID, HeyGen returns a finished MP4 you deliver under your own brand. Watermark removal starts on the paid creator tier. The main constraint is that everything is avatar-centric; if a client brief calls for product shots or cinematic b-roll, you need a second tool in the stack.」（https://www.wireflow.ai/blog/best-white-label-ai-video-platform-tools-in-2026）
+  - 「is a video generation API built around templates: design a template once, then render thousands of variations by swapping text, images, and clips through JSON. It is genuinely white label by design, since there is no end-user interface to rebrand; your application calls the API and delivers the output. Teams that need」（https://www.wireflow.ai/blog/best-white-label-ai-video-platform-tools-in-2026）
+  - 「Like Creatomate, it is white label by architecture: clients only ever see your interface. The learning curve is steeper because you are describing edits in JSON rather than dragging clips, and generation still depends on external models you wire in.」（https://www.wireflow.ai/blog/best-white-label-ai-video-platform-tools-in-2026）
+  - 「turns scripts, blog posts, and long recordings into short branded videos, matching stock footage to your text automatically. Its agency positioning is explicit: white label features include custom branding on exports, team workspaces for client accounts, and an API for programmatic generation. Agencies running」（https://www.wireflow.ai/blog/best-white-label-ai-video-platform-tools-in-2026）
+- 再販制度：
+  - 「sits at the top of this list because it combines node-based video workflows, API access, and watermark-free output in one place, but the right pick depends on whether you need avatar presenters, template automation, or a full generation pipeline. This guide compares the seven platforms that agencies actually resell in 2026.」（https://www.wireflow.ai/blog/best-white-label-ai-video-platform-tools-in-2026）
+  - 「A white label AI video platform has to clear three bars: your client never sees the vendor's brand, you can automate delivery through an API, and the unit economics leave room for markup. For a detailed breakdown of how these requirements map to real features, the」（https://www.wireflow.ai/blog/best-white-label-ai-video-platform-tools-in-2026）
+  - 「Most tools in this category started as either avatar generators or template renderers, and their white label depth reflects that origin. Avatar platforms tend to gate custom branding behind enterprise tiers, while API-first platforms treat white labeling as the default because your application is the interface. If you plan to resell image output alongside video, a」（https://www.wireflow.ai/blog/best-white-label-ai-video-platform-tools-in-2026）
+  - 「The workflow model is what separates it from single-model tools. Instead of reselling one generator, you package a whole pipeline: for example, product photo in, branded 15-second ad out. Agencies use the same canvas to standardize quality across clients, then expose only the inputs clients should touch. Pricing is credit-based, which makes per-client cost tracking straightforward, and the」（https://www.wireflow.ai/blog/best-white-label-ai-video-platform-tools-in-2026）
+  - 「: agencies and SaaS teams reselling multi-step video generation under their own brand.」（https://www.wireflow.ai/blog/best-white-label-ai-video-platform-tools-in-2026）
+  - 「For white label resellers, the API is the entry point: you send a script and avatar ID, HeyGen returns a finished MP4 you deliver under your own brand. Watermark removal starts on the paid creator tier. The main constraint is that everything is avatar-centric; if a client brief calls for product shots or cinematic b-roll, you need a second tool in the stack.」（https://www.wireflow.ai/blog/best-white-label-ai-video-platform-tools-in-2026）
+  - 「The tradeoff is that Creatomate renders rather than generates: it composes assets you supply instead of creating new footage from a prompt. Most resellers pair it with a generation model upstream.」（https://www.wireflow.ai/blog/best-white-label-ai-video-platform-tools-in-2026）
+  - 「Can I resell AI video generation without building infrastructure?」（https://www.wireflow.ai/blog/best-white-label-ai-video-platform-tools-in-2026）
+  - 「Yes. All seven platforms handle GPU rendering on their side. Your cost is the subscription or credits, and your margin is whatever you charge clients above that. Credit-based pricing makes per-client cost allocation easier than seat-based plans.」（https://www.wireflow.ai/blog/best-white-label-ai-video-platform-tools-in-2026）
+  - 「Affiliates」（https://www.wireflow.ai/blog/best-white-label-ai-video-platform-tools-in-2026）
+  - 「Best AI White Label Services to Resell & Profit in 2026」（https://insighto.ai/blog/best-ai-white-label-services/）
+  - 「Affiliates」（https://insighto.ai/blog/best-ai-white-label-services/）
+  - 「For technology providers, agencies, and value-added resellers, this burgeoning demand presents a lucrative opportunity to expand their service portfolios rapidly and cost-effectively. White label AI services offer a strategic pathway to deliver cutting-edge AI solutions under their brand, eliminating the need for costly in-house development and maintenance.」（https://insighto.ai/blog/best-ai-white-label-services/）
+  - 「AI white label answering services are revolutionising how businesses manage customer calls, messages, and inquiries 24/7 and at scale. These services empower agencies and resellers to offer branded, AI-driven call handling without building the tech from scratch. With voice AI, CRM integrations, and multi-language support, they provide smart, responsive, and consistent customer experiences.」（https://insighto.ai/blog/best-ai-white-label-services/）
+  - 「When choosing a white label AI solution to resell in 2026, it’s essential to look beyond surface-level branding and consider what drives long-term scalability, performance, and client value. The following features are critical for ensuring your chosen AI service is competitive, adaptable, and truly market-ready:」（https://insighto.ai/blog/best-ai-white-label-services/）
+- 無料体験・貸出：
+  - 「Make the same kind of asset on a canvas you control, with a free account and no credit card.」（https://www.wireflow.ai/blog/best-white-label-ai-video-platform-tools-in-2026）
+  - 「No credit card」（https://www.wireflow.ai/blog/best-white-label-ai-video-platform-tools-in-2026）
+  - 「Try for Free」（https://stammer.ai/post/best-white-label-ai-software）
+  - 「is the specialist built for exactly that. Start with a free trial of the」（https://stammer.ai/post/best-white-label-ai-software）
+  - 「Free to build · no credit card」（https://www.wireflow.ai/features/white-label-ai-video-software）
+  - 「No credit card」（https://www.wireflow.ai/features/white-label-ai-video-software）
+  - 「Free to start. No credit card required.」（https://fluxnote.io/guides/white-label-ai-video-generator-for-agencies）
+  - 「Trial Studio by TrueFan AI's self-serve platform today」（https://www.truefan.ai/blogs/white-label-ai-video-platform）
+- 価格：
+  - 「The workflow model is what separates it from single-model tools. Instead of reselling one generator, you package a whole pipeline: for example, product photo in, branded 15-second ad out. Agencies use the same canvas to standardize quality across clients, then expose only the inputs clients should touch. Pricing is credit-based, which makes per-client cost tracking straightforward, and the」（https://www.wireflow.ai/blog/best-white-label-ai-video-platform-tools-in-2026）
+  - 「~$18/mo」（https://www.wireflow.ai/blog/best-white-label-ai-video-platform-tools-in-2026）
+  - 「~$24/mo」（https://www.wireflow.ai/blog/best-white-label-ai-video-platform-tools-in-2026）
+  - 「~$41/mo」（https://www.wireflow.ai/blog/best-white-label-ai-video-platform-tools-in-2026）
+  - 「~$29/mo」（https://www.wireflow.ai/blog/best-white-label-ai-video-platform-tools-in-2026）
+  - 「~$19/mo」（https://www.wireflow.ai/blog/best-white-label-ai-video-platform-tools-in-2026）
+  - 「~$27/mo」（https://www.wireflow.ai/blog/best-white-label-ai-video-platform-tools-in-2026）
+  - 「Typical agency pricing in 2026 runs $150 to $500 per finished short video, against a platform cost of roughly $1 to $10 per render depending on model and length. Retainer packages of 10 to 30 videos per month are the common structure for social content clients.」（https://www.wireflow.ai/blog/best-white-label-ai-video-platform-tools-in-2026）
+  - 「Stammer supports agencies and businesses with AI chat and voice agent solutions. The Pro plan starts at $99/month and includes white-label capabilities and reselling features, while higher-scale Enterprise solutions are available with custom pricing. Agencies can package Stammer’s AI services into their own offerings and create pricing models based on their client needs.」（https://stammer.ai/post/best-white-label-ai-software）
+  - 「White label branding starts on the Unlimited plan, and SaaS Mode with automated client billing and custom pricing tiers unlocks on the Pro plan at roughly 497 dollars per month, which includes unlimited sub-accounts.」（https://stammer.ai/post/best-white-label-ai-software）
+  - 「SuiteDash has been in the market since the mid-2010s, giving it a decade of feature maturity, and it is frequently recommended for agencies wanting genuine infrastructure white label rather than a logo swap. Its long track record and unlimited pricing model draw consistent praise, while its breadth means a steeper initial learning curve than single-purpose tools.」（https://stammer.ai/post/best-white-label-ai-software）
+  - 「10Web offers agency and reseller plans with dashboard and domain customization, bundling AI site generation with managed WordPress hosting. Pricing scales with the number of sites and the level of white label control, and the model pairs an initial build sale with an ongoing care plan for stable recurring revenue. Confirm current plan tiers on the provider's site.」（https://stammer.ai/post/best-white-label-ai-software）
+  - 「Building on the canvas is free and generations are metered, so you pay a flat credit per render. Plans start at $36 a month and you set your own markup on top for the client.」（https://www.wireflow.ai/features/white-label-ai-video-software）
+  - 「1min.AI keeps pricing transparent with flexible plans built for agencies. There are no hidden setup or maintenance charges buried in the fine print. Contact our team for a plan that fits your scale.」（https://1min.ai/white-label-ai-video-generator）
+  - 「Yes. As the brand owner, you set the pricing and packaging your clients see, with no requirement to follow 1min.AI's own pricing structure.」（https://1min.ai/white-label-ai-video-generator）
+- 日本対応：
+  - 「by offering a voice-first, multilingual, and fully brandable platform tailored for modern businesses. It handles over」（https://insighto.ai/blog/best-ai-white-label-services/）
+  - 「European marketing agencies managing clients across multiple countries are adopting AI video tools to solve the multilingual scalability challenge. FluxNote generates marketing reels in 19 languages from a single subscription.」（https://fluxnote.io/guides/white-label-ai-video-generator-for-agencies）
+  - 「According to Synthesia's platform details, it supports over 120 languages, a critical feature for multilingual campaigns.」（https://fluxnote.io/guides/white-label-ai-video-generator-for-agencies）
+  - 「Multilingual Localization:」（https://www.truefan.ai/blogs/white-label-ai-video-platform）
+- 使いやすさ：
+  - 「moves faster than Synthesia on consumer-style features: instant avatar cloning, video translation with lip sync, and a generation API that returns avatar video in minutes. That makes it popular with teams producing」（https://www.wireflow.ai/blog/best-white-label-ai-video-platform-tools-in-2026）
+  - 「Insighto AI leads the market in white-label chatbot solutions with a powerful no-code platform that empowers businesses to build custom, brand-aligned chat and voice assistants. It supports 50+ languages and multimodal inputs, text, voice, and image, powered by GPT-4 to deliver natural, context-aware conversational experiences.」（https://insighto.ai/blog/best-ai-white-label-services/）
+  - 「Insighto’s no-code builder lets businesses create and deploy branded chat and voice bots quickly, eliminating technical barriers and slashing development timelines.」（https://insighto.ai/blog/best-ai-white-label-services/）
+  - 「Its no-code configurability allows users to get started in under 30 minutes—no developer required. Companies leveraging Insighto have seen a 30–45% reduction in operational costs, a 3x boost in lead response time, and an increase in customer satisfaction scores (CSAT) by up to 40%. Being a premier」（https://insighto.ai/blog/best-ai-white-label-services/）
+  - 「Pictory is an AI-powered video generation platform that excels in white-label solutions, enabling agencies and businesses to transform text, URLs, PPTs, or long-form content into polished, branded videos in minutes, helping brands take advantage of modern」（https://insighto.ai/blog/best-ai-white-label-services/）
+  - 「Dedicated Support & White Label Onboarding –」（https://insighto.ai/blog/best-ai-white-label-services/）
+  - 「Responsive technical support and a dedicated onboarding process tailored to your brand ensure a smoother launch and faster time-to-value for your clients.」（https://insighto.ai/blog/best-ai-white-label-services/）
+  - 「Simply slapping your logo on a generic AI tool without adding custom touches, onboarding resources, or industry context makes it difficult to stand out. Clients want value and relevance resellers must tailor the experience to specific industries or business use cases to win deals.」（https://insighto.ai/blog/best-ai-white-label-services/）
+  - 「Ready to Automate Your Conversations? Insighto helps you build voice & chat agents - no code needed.」（https://insighto.ai/blog/best-ai-white-label-services/）
+  - 「Vendasta is an established name in the agency reseller space and reports a partner base in the tens of thousands running on its platform. Reviews credit its product breadth and fulfillment model, while the recurring criticism is stacked cost, since platform fees, per-product wholesale, seats, and onboarding can compound. It is a mature option rather than a lean one.」（https://stammer.ai/post/best-white-label-ai-software）
+  - 「Pictory's white label features include custom branding on exported videos, API access for programmatic generation, and team workspaces for managing multiple client accounts. The API is built for no-code integration through tools such as Zapier, so agencies can embed video generation into their own workflows or client portals while Pictory handles the rendering infrastructure.」（https://stammer.ai/post/best-white-label-ai-software）
+  - 「A branded product that leaks the vendor's name undercuts the whole model. Finally, onboard your first client and treat that engagement as the template you refine, since a smooth onboarding is what turns a single sale into a repeatable process.」（https://stammer.ai/post/best-white-label-ai-software）
+  - 「No Code Required」（https://www.wireflow.ai/features/white-label-ai-video-software）
+  - 「Write product descriptions that sell in minutes. Use this free AI product description generator to turn details or a photo into on-brand copy. Try 1min.AI.」（https://1min.ai/white-label-ai-video-generator）
+  - 「Viral Reels in Minutes: How to Use 1minAI’s Text-to-Speech for Satirical Voiceovers」（https://1min.ai/white-label-ai-video-generator）
+- 検索結果の抜粋：
+  - 「Best White Label AI Video Platform Tools in 2026 | Wireflow Blog — Best White Label AI Video Platform Tools in 2026 | Wireflow Blog Wireflow https://www.wireflow.ai > Blog」（https://www.wireflow.ai/blog/best-white-label-ai-video-platform-tools-in-2026）
+  - 「Best White Label AI Video Software Tools in 2026 - Flux 1 AI — Best White Label AI Video Software Tools in 2026 - Flux 1 AI flux-1.ai https://flux-1.ai > best-white-label-ai-...」（https://flux-1.ai/best-white-label-ai-video-software-tools-in-2026/）
+  - 「White Label AI Video Generator for Agencies - 1min. AI — White Label AI Video Generator for Agencies - 1min. AI 1min.AI https://1min.ai > white-label-ai-video-...」（https://1min.ai/white-label-ai-video-generator）
+
+## ホワイトラベル電子契約（white label e-signature）
+- 文脈：契約
+- 提供企業：
+  - 「White-Label Electronic Signature Software: Top Options Compared - SignWell」（https://www.signwell.com/resources/white-label-electronic-signature-software/）
+  - 「White-Label Electronic Signature Software: Top Options Compared」（https://www.signwell.com/resources/white-label-electronic-signature-software/）
+  - 「This guide covers what can actually be white-labeled, the features worth asking about, eight of the best providers for SaaS platforms and agencies, and what it all costs.」（https://www.signwell.com/resources/white-label-electronic-signature-software/）
+  - 「White-labeling can range from simple branding changes, like logos and colors, to deeper control over domains, email, and embedded experiences. Some providers also support different branding for each customer on your platform.」（https://www.signwell.com/resources/white-label-electronic-signature-software/）
+  - 「Instead of a link that reads app.vendorname.com, signers land on sign.yourcompany.com. This keeps the signing experience consistent with the rest of your product. Some providers reserve customer domains for higher tiers.」（https://www.signwell.com/resources/white-label-electronic-signature-software/）
+  - 「The 8 Best White Label Electronic Signature Software Options」（https://www.signwell.com/resources/white-label-electronic-signature-software/）
+  - 「Review all customer touchpoints, such as the signing page, emails, domain, and completion certificate. Do they feel part of a seamless experience?」（https://www.signwell.com/resources/white-label-electronic-signature-software/）
+  - 「Check the finished PDF and completion certificate. Request a sample. Some providers still stamp their own name on the certificate of completion even when the signing page itself is fully branded.」（https://www.signwell.com/resources/white-label-electronic-signature-software/）
+  - 「is for teams that want to embed or white-label signing, request/send, and template editing directly into their product via the API. It’s right for ISVs, SaaS platforms, and developer teams.>」（https://www.signwell.com/resources/white-label-electronic-signature-software/）
+  - 「With most providers, yes, though it’s often limited to higher tiers. You’ll typically need to verify domain ownership with DNS records such as SPF and DKIM before signing links, so emails route through your domain rather than the vendor’s.」（https://www.signwell.com/resources/white-label-electronic-signature-software/）
+  - 「Some providers support this, but many don’t. It’s usually called multi-tenant or per-customer branding. If you run a platform serving many customers, confirm this before buying rather than assuming it’s included.」（https://www.signwell.com/resources/white-label-electronic-signature-software/）
+  - 「White Label solution for digital signatures | Certifaction」（https://certifaction.com/white-label/）
+  - 「White Label Solution」（https://certifaction.com/white-label/）
+  - 「Our white label solution already runs under strong brands such as」（https://certifaction.com/white-label/）
+  - 「Join the market leaders and launch your customised white label solution.」（https://certifaction.com/white-label/）
+- 自社名で出せる条件：
+  - 「White-Label Electronic Signature Software: Top Options Compared - SignWell」（https://www.signwell.com/resources/white-label-electronic-signature-software/）
+  - 「White-Label Electronic Signature Software: Top Options Compared」（https://www.signwell.com/resources/white-label-electronic-signature-software/）
+  - 「White-label electronic signature software helps solve that problem by keeping the signing experience under your brand. Depending on the provider, this can include your logo, colors, domain, and emails, so customers see your brand throughout the signing process.」（https://www.signwell.com/resources/white-label-electronic-signature-software/）
+  - 「This guide covers what can actually be white-labeled, the features worth asking about, eight of the best providers for SaaS platforms and agencies, and what it all costs.」（https://www.signwell.com/resources/white-label-electronic-signature-software/）
+  - 「What is White-Label Electronic Signature Software?」（https://www.signwell.com/resources/white-label-electronic-signature-software/）
+  - 「White-label electronic signature software lets you remove a vendor’s branding and replace it with your own. Instead of your customers seeing “Powered by [Vendor],” they see your branding throughout the signing experience.」（https://www.signwell.com/resources/white-label-electronic-signature-software/）
+  - 「White-labeling can range from simple branding changes, like logos and colors, to deeper control over domains, email, and embedded experiences. Some providers also support different branding for each customer on your platform.」（https://www.signwell.com/resources/white-label-electronic-signature-software/）
+  - 「White Labeling for Your Own Brand」（https://www.signwell.com/resources/white-label-electronic-signature-software/）
+  - 「In this case, you want the signing experience to look like your product. Email invitations and reminders come from your domain. The signing page shows your logo and colors. Your customers never see the name of the company whose API you’re using behind the scenes.」（https://www.signwell.com/resources/white-label-electronic-signature-software/）
+  - 「White Labeling for Your Customers’ Brands」（https://www.signwell.com/resources/white-label-electronic-signature-software/）
+  - 「What Actually Gets White-Labeled in an eSignature Solution」（https://www.signwell.com/resources/white-label-electronic-signature-software/）
+  - 「“White label” can mean different things. Some only let you swap a logo. Others let you rebuild the entire signing flow under your own domain. Make sure you understand exactly what you’re getting.」（https://www.signwell.com/resources/white-label-electronic-signature-software/）
+  - 「Custom domain for signing links.」（https://www.signwell.com/resources/white-label-electronic-signature-software/）
+  - 「The 8 Best White Label Electronic Signature Software Options」（https://www.signwell.com/resources/white-label-electronic-signature-software/）
+  - 「Here’s how eight leading options stack up in terms of white-labeling depth, embedded signing, and pricing.」（https://www.signwell.com/resources/white-label-electronic-signature-software/）
+- 再販制度：
+  - 「This case is more complex, and it matters most for multi-tenant platforms, agencies, and resellers. It’s when you give each of your customers their own branded signing experience that they display to their customers.」（https://www.signwell.com/resources/white-label-electronic-signature-software/）
+  - 「Agencies that resell document workflows to clients need the same thing. Each client gets a signing experience branded as if the agency built it from scratch. In this case, it’s important to know whether each customer needs a separate account or a paid sender seat with the eSignature provider.」（https://www.signwell.com/resources/white-label-electronic-signature-software/）
+  - 「OneSpan Sign is a bank-grade eSignature platform for financial institutions, insurers, and other heavily regulated organizations. Its OEM and ISV track is built for vendors who want to embed signing into their own software and resell it.」（https://www.signwell.com/resources/white-label-electronic-signature-software/）
+  - 「You pay for each person on your team who sends documents, regardless of how many they send. This is fine for internal teams, but it doesn’t work for a platform reselling signing to hundreds of end customers, since you’d need a seat for each of them.」（https://www.signwell.com/resources/white-label-electronic-signature-software/）
+  - 「If you’re reselling or embedding signing into a product other people will use, a per-document or usage-based model usually keeps your costs aligned with your revenue.」（https://www.signwell.com/resources/white-label-electronic-signature-software/）
+  - 「Want to Resell or Embed eSignatures? Join the SignWell Partner Program」（https://www.signwell.com/resources/white-label-electronic-signature-software/）
+  - 「If you’re evaluating white-label eSignature software because you plan to resell it or build it into your product, the」（https://www.signwell.com/resources/white-label-electronic-signature-software/）
+  - 「SignWell partner program」（https://www.signwell.com/resources/white-label-electronic-signature-software/）
+  - 「is for teams that want to sell, refer, or service SignWell for their customers. It’s a good fit for MSPs, resellers, affiliates, distributors, and consultants.」（https://www.signwell.com/resources/white-label-electronic-signature-software/）
+  - 「Partners get access to flexible incentives across referral, resale, and revenue share models, a sandbox for testing, and support from the SignWell team. Pricing is also built to protect your margins, since SignWell tends to run meaningfully cheaper than most eSignature platforms.」（https://www.signwell.com/resources/white-label-electronic-signature-software/）
+  - 「Referral Program」（https://www.signwell.com/resources/white-label-electronic-signature-software/）
+  - 「White-label electronic signature reseller program | Signater」（https://signater.com/reseller/）
+  - 「Affiliate Program」（https://signater.com/reseller/）
+  - 「Refer Signater and earn recurring commission for every customer」（https://signater.com/reseller/）
+  - 「White-Label Reseller」（https://signater.com/reseller/）
+- 無料体験・貸出：
+  - 「60 free documents; API Developer Plan $40/mo after trial」（https://www.signwell.com/resources/white-label-electronic-signature-software/）
+  - 「Test the API and sandbox. Have a developer spend an afternoon with the sandbox before you sign anything. Documentation quality and real integration time vary.」（https://www.signwell.com/resources/white-label-electronic-signature-software/）
+  - 「Partners get access to flexible incentives across referral, resale, and revenue share models, a sandbox for testing, and support from the SignWell team. Pricing is also built to protect your margins, since SignWell tends to run meaningfully cheaper than most eSignature platforms.」（https://www.signwell.com/resources/white-label-electronic-signature-software/）
+  - 「Free trial」（https://certifaction.com/white-label/）
+  - 「Create envelopes from your system: REST, revocable keys and a sandbox」（https://signater.com/reseller/）
+  - 「Free Trial」（https://www.docubee.com/blog/white-label-esignature-partner-benefits/）
+  - 「Start your Free Trial」（https://www.docubee.com/blog/white-label-esignature-partner-benefits/）
+  - 「Add your info to start your free trial.」（https://www.docubee.com/blog/white-label-esignature-partner-benefits/）
+- 価格：
+  - 「$10/mo (app) or from $0.85/doc (API)」（https://www.signwell.com/resources/white-label-electronic-signature-software/）
+  - 「$15/mo app, $75/mo for embedded API」（https://www.signwell.com/resources/white-label-electronic-signature-software/）
+  - 「$50/mo developer tier, higher tiers may be required depending on production volume, branding, authentication, and support requirements」（https://www.signwell.com/resources/white-label-electronic-signature-software/）
+  - 「$146/mo (Professional API, 1,000 invites/yr, billed annually)」（https://www.signwell.com/resources/white-label-electronic-signature-software/）
+  - 「$30/mo (Enterprise API) plus $0.75 per envelope over quota」（https://www.signwell.com/resources/white-label-electronic-signature-software/）
+  - 「As an affiliate you refer and earn 20% recurring, without operating anything — the brand is Signater's. As a reseller the platform is yours: your brand, your price, your client. You can start as an affiliate and move up to reselling later.」（https://signater.com/reseller/）
+- 使いやすさ：
+  - 「Client Onboarding Workflow: How to Build and Automate It」（https://www.signwell.com/resources/white-label-electronic-signature-software/）
+  - 「A consistent and fast client onboarding workflow helps every new client get the same clear, organized experience. Documenting your workflow makes it consistent, but speed…」（https://www.signwell.com/resources/white-label-electronic-signature-software/）
+  - 「Training & onboarding for your in-house sales and support team」（https://certifaction.com/white-label/）
+  - 「In 30 minutes we show the platform running under your brand, the」（https://signater.com/reseller/）
+  - 「In 30 minutes we show the platform under your brand, the wholesale」（https://signater.com/reseller/）
+  - 「Documents signed in minutes, with legal validity and top-tier」（https://signater.com/reseller/）
+  - 「Onboarding」（https://www.docubee.com/blog/white-label-esignature-partner-benefits/）
+- 日本対応：記載なし（読んだ30頁・検索6回）
+
+## ホワイトラベル研修・eラーニング（white label LMS）
+- 文脈：研修
+- 提供企業：
+  - 「🎨 Best White Label LMS: top platforms compared | isEazy」（https://www.iseazy.com/comparative/best-white-label-lms-platform/）
+  - 「Best White Label LMS: platform comparison to customize your online training」（https://www.iseazy.com/comparative/best-white-label-lms-platform/）
+  - 「Training providers, consulting firms, and corporate academies that sell or license courses to clients, franchisees, or partners. For this profile,」（https://www.iseazy.com/comparative/best-white-label-lms-platform/）
+  - 「White label LMS vs. custom LMS: what is the difference?」（https://www.iseazy.com/comparative/best-white-label-lms-platform/）
+  - 「via SAML 2.0 with providers such as Okta, OneLogin, and Microsoft Active Directory.」（https://www.iseazy.com/comparative/best-white-label-lms-platform/）
+  - 「forums, workshops, peer review, badges, and mobile app.」（https://www.iseazy.com/comparative/best-white-label-lms-platform/）
+  - 「The decision depends on several factors worth analyzing before evaluating providers:」（https://www.iseazy.com/comparative/best-white-label-lms-platform/）
+  - 「For internal corporate training, platforms like isEazy LMS allow you to configure a subdomain with your company name and autonomously customize the full visual identity: corporate colors, logo, and login images. The result is a platform that employees perceive as belonging to their organization, without the need to manage additional domain infrastructure.」（https://www.iseazy.com/comparative/best-white-label-lms-platform/）
+  - 「Moodle vs isEazy LMS: Which LMS Should You Choose in 2026?」（https://www.iseazy.com/comparative/best-white-label-lms-platform/）
+  - 「isEazy LMS vs Docebo: which one to choose in 2026?」（https://www.iseazy.com/comparative/best-white-label-lms-platform/）
+  - 「isEazy LMS vs Cornerstone OnDemand: which one to choose in 2026?」（https://www.iseazy.com/comparative/best-white-label-lms-platform/）
+  - 「Top 10 White Label LMS Platforms (reviewed February 2026)」（https://www.docebo.com/learning-network/blog/white-label-lms/）
+  - 「Top 10 white-label lms platforms (reviewed February 2026)」（https://www.docebo.com/learning-network/blog/white-label-lms/）
+  - 「Most leading white-label LMS platforms like Docebo require minimal technical skills for daily management and offer integrations with popular CRMs like Salesforce and HubSpot to sync learner data with business systems」（https://www.docebo.com/learning-network/blog/white-label-lms/）
+  - 「use white label solutions like Docebo? They do this because there are many benefits—from cost and labor savings to increased flexibility.」（https://www.docebo.com/learning-network/blog/white-label-lms/）
+- 自社名で出せる条件：
+  - 「🎨 Best White Label LMS: top platforms compared | isEazy」（https://www.iseazy.com/comparative/best-white-label-lms-platform/）
+  - 「Best White Label LMS: platform comparison to customize your online training」（https://www.iseazy.com/comparative/best-white-label-lms-platform/）
+  - 「What is a white label LMS?」（https://www.iseazy.com/comparative/best-white-label-lms-platform/）
+  - 「white label LMS」（https://www.iseazy.com/comparative/best-white-label-lms-platform/）
+  - 「is a learning management platform that a company can customize with its own visual identity: logo, corporate colors, typography, custom domain, and platform name. The technology provider stays in the background, while the organization delivers a fully branded training experience to employees, clients, or partners.」（https://www.iseazy.com/comparative/best-white-label-lms-platform/）
+  - 「Not every company searching for a white label LMS needs the same thing: distributing training to third parties under your brand is not the same as offering your employees a platform with your corporate identity.」（https://www.iseazy.com/comparative/best-white-label-lms-platform/）
+  - 「Which type of company needs a white label LMS?」（https://www.iseazy.com/comparative/best-white-label-lms-platform/）
+  - 「a 100% custom domain is non-negotiable.」（https://www.iseazy.com/comparative/best-white-label-lms-platform/）
+  - 「Organizations that manage internal training and want the platform to reflect their corporate culture and identity. For this profile, what matters is that employees perceive the platform as part of their company’s work ecosystem. A custom domain can be a bonus, but it is rarely the deciding factor.」（https://www.iseazy.com/comparative/best-white-label-lms-platform/）
+  - 「Selling courses to clients under your brand」（https://www.iseazy.com/comparative/best-white-label-lms-platform/）
+  - 「Profile A — White-label LMS」（https://www.iseazy.com/comparative/best-white-label-lms-platform/）
+  - 「A custom domain and invisible provider are part of the product you deliver」（https://www.iseazy.com/comparative/best-white-label-lms-platform/）
+  - 「Pure white-label LMS platforms rarely include these features as standard」（https://www.iseazy.com/comparative/best-white-label-lms-platform/）
+  - 「White label LMS vs. custom LMS: what is the difference?」（https://www.iseazy.com/comparative/best-white-label-lms-platform/）
+  - 「White label LMS」（https://www.iseazy.com/comparative/best-white-label-lms-platform/）
+- 再販制度：
+  - 「Consulting firm reselling training to its clients」（https://www.iseazy.com/comparative/best-white-label-lms-platform/）
+  - 「SaaS LMS is where most companies start. These are established platforms with white-label features built in to varying degrees. What separates them is how deep the white-labeling goes, how multi-tenancy works, and what the pricing model does to your margins as you grow.」（https://academysmart.com/blog/best-white-label-lms/）
+  - 「Bottom line: Docebo fits if you’re a large enterprise using training to support a core product — certifying external implementers, training a dealer network — with a developer on hand. If training is your standalone business, per-learner pricing and developer-dependent customization both work against your margins as you scale.у」（https://academysmart.com/blog/best-white-label-lms/）
+  - 「Most companies start with SaaS, and it works like a charm for some time. But when your client base grows, per-seat pricing starts working against your margins. A pre-built licensed LMS breaks that model: you pay once and scale without the per-user tax.」（https://academysmart.com/blog/best-white-label-lms/）
+  - 「White Label Reseller: Maximize Your Earnings with ITU Online’s IT Courses and Branded LMS Solutions – ITU Online IT Training」（https://www.ituonline.com/blogs/white-label-reseller/）
+  - 「Resellers」（https://www.ituonline.com/blogs/white-label-reseller/）
+  - 「White Label Reseller: Maximize Your Earnings with ITU Online’s IT Courses and Branded LMS Solutions」（https://www.ituonline.com/blogs/white-label-reseller/）
+  - 「Best Masterclasses for IT Resellers: White-Label LMS Guide」（https://www.ituonline.com/blogs/white-label-reseller/）
+  - 「What Is a White Label Reseller Model?」（https://www.ituonline.com/blogs/white-label-reseller/）
+  - 「Why ITU Online’s Branded LMS Solution Creates A Strong Reseller Offer」（https://www.ituonline.com/blogs/white-label-reseller/）
+  - 「Who Can Benefit Most From A White Label Reseller Model?」（https://www.ituonline.com/blogs/white-label-reseller/）
+  - 「How Do Provider And Reseller Responsibilities Split?」（https://www.ituonline.com/blogs/white-label-reseller/）
+  - 「What Support And Operational Resources Help Resellers Scale?」（https://www.ituonline.com/blogs/white-label-reseller/）
+  - 「What Are The Common Mistakes That Limit Reseller Earnings?」（https://www.ituonline.com/blogs/white-label-reseller/）
+  - 「How Do You Build A More Scalable Reseller Business Over Time?」（https://www.ituonline.com/blogs/white-label-reseller/）
+- 無料体験・貸出：
+  - 「Free plan available with basic features, no time limit.」（https://www.iseazy.com/comparative/best-white-label-lms-platform/）
+  - 「14-day free trial available.」（https://www.iseazy.com/comparative/best-white-label-lms-platform/）
+  - 「Pricing: Custom; tailored to learner scale, usage, and features. Free trial available on request.」（https://academysmart.com/blog/best-white-label-lms/）
+  - 「Free Trial」（https://expertlms.com/resources/white-label-lms/）
+  - 「Simply start a free trial now to get started, or book a demo with Expert LMS.」（https://expertlms.com/resources/white-label-lms/）
+  - 「Start trial」（https://expertlms.com/resources/white-label-lms/）
+  - 「Get started today with a free trial or book a demo to discuss how Expert LMS can improve your e-learning.」（https://expertlms.com/resources/white-label-lms/）
+  - 「start a free trial」（https://expertlms.com/resources/white-label-lms/）
+  - 「Get started today with a free trial or book a demo.」（https://expertlms.com/resources/white-label-lms/）
+  - 「Free LMS Trial」（https://expertlms.com/resources/white-label-lms/）
+  - 「Start a free trial」（https://www.learnworlds.com/product/features/white-label-website/）
+  - 「White-label LMS pricing varies by vendor and usually depends on the plan, the number of learners, and extras such as a branded mobile app. With LearnWorlds, white-label branding and the branded mobile app are available on eligible plans, and you can start with a free trial to test your setup. See the」（https://www.learnworlds.com/product/features/white-label-website/）
+  - 「Forever-free plan, Essentials plan starts at」（https://www.proprofstraining.com/blog/white-label-lms/）
+  - 「Though there’s a cap on the number of learners, the software offers a free plan that provides access to all the features.」（https://www.proprofstraining.com/blog/white-label-lms/）
+  - 「There is no dedicated account manager for the free plan, unlike the paid」（https://www.proprofstraining.com/blog/white-label-lms/）
+- 価格：
+  - 「from $69 USD/month for up to 100 users.」（https://www.iseazy.com/comparative/best-white-label-lms-platform/）
+  - 「from $109 USD/month for up to 500 users.」（https://www.iseazy.com/comparative/best-white-label-lms-platform/）
+  - 「from $139 USD/month for up to 1,000 users.」（https://www.iseazy.com/comparative/best-white-label-lms-platform/）
+  - 「from $2.29 USD per user/month」（https://www.iseazy.com/comparative/best-white-label-lms-platform/）
+  - 「from $3.14 USD per user/month」（https://www.iseazy.com/comparative/best-white-label-lms-platform/）
+  - 「best for training businesses that want to own their LMS outright without a fully custom build. $17K one-time, live in 4–6 weeks.」（https://academysmart.com/blog/best-white-label-lms/）
+  - 「Pricing: Per-learner, per-module subscription. 1–3 year contracts, no public pricing.」（https://academysmart.com/blog/best-white-label-lms/）
+  - 「Pricing: Monthly Active User subscription. White-labeling and multi-portal from Premium tier upward. No public pricing; estimated to start at $60,000/year.」（https://academysmart.com/blog/best-white-label-lms/）
+  - 「Pricing: From $999/month (Professional). Enterprise: custom pricing, unlimited users and customizations」（https://academysmart.com/blog/best-white-label-lms/）
+  - 「Pricing: Custom, estimated to start at $3,500/month. Branded mobile app for $199/month.」（https://academysmart.com/blog/best-white-label-lms/）
+  - 「Positioning and pricing should be reviewed as of August 2026」（https://www.ituonline.com/blogs/white-label-reseller/）
+  - 「7 Best White Label LMS Platforms Compared: Branding, Pricing, eCommerce (2026)」（https://oasis-lms.com/post/the-7-best-white-label-lms-platforms-for-selling-courses-in-2026）
+  - 「Businesses, training providers, and entrepreneurs are all hunting for LMS solutions that look and feel like their own. But with so many options out there, which one delivers? Let’s break down the top 10 platforms, their features, pricing, and what makes them worth your investment.」（https://www.proprofstraining.com/blog/white-label-lms/）
+  - 「$1.99/learner/month」（https://www.proprofstraining.com/blog/white-label-lms/）
+  - 「Team plan starts at $8 per user/month, Business plan - contact for pricing」（https://www.proprofstraining.com/blog/white-label-lms/）
+- 日本対応：
+  - 「Multilingual and multi-tenant support」（https://www.docebo.com/learning-network/blog/white-label-lms/）
+  - 「Deliver personalized, multilingual content via Weglot across regions, roles, and branches」（https://www.learnworlds.com/product/features/white-label-website/）
+  - 「Multilingual UI & course content support (via integration)」（https://www.learnworlds.com/product/features/white-label-website/）
+  - 「In manufacturing, safety training, compliance, and partner education are critical for efficiency and risk reduction. LearnWorlds allows manufacturers to deploy branded training portals across global teams—supporting multilingual content, SCORM modules, and technical certifications.」（https://www.learnworlds.com/product/features/white-label-website/）
+  - 「Look for deep customization, roles/permissions, multilingual UI, mobile access, analytics, and integrations to HRIS/CRM, then align these to onboarding, compliance, and revenue‑enablement goals to reduce admin and boost adoption.」（https://www.proprofstraining.com/blog/white-label-lms/）
+  - 「Multilingual Support」（https://www.proprofstraining.com/blog/white-label-lms/）
+  - 「Provides multilingual support to cater to a broader audience (As of now, it supports 35 languages)」（https://www.proprofstraining.com/blog/white-label-lms/）
+  - 「Japanese」（https://ekhool.com/blogs/white-label-lms-product?srsltid=AYCX9vJvrm9lHSjzZwlLgvRyi2zwejU8M5iDP4y7owEjq4QRG1FR-5-d）
+  - 「Japan (English) (EN-JP)」（https://ekhool.com/blogs/white-label-lms-product?srsltid=AYCX9vJvrm9lHSjzZwlLgvRyi2zwejU8M5iDP4y7owEjq4QRG1FR-5-d）
+  - 「Japan (Japanese) (JA-JP)」（https://ekhool.com/blogs/white-label-lms-product?srsltid=AYCX9vJvrm9lHSjzZwlLgvRyi2zwejU8M5iDP4y7owEjq4QRG1FR-5-d）
+- 使いやすさ：
+  - 「Onboarding」（https://www.iseazy.com/comparative/best-white-label-lms-platform/）
+  - 「Facilitate the onboarding process, productivity and engagement of your new employees.」（https://www.iseazy.com/comparative/best-white-label-lms-platform/）
+  - 「Digital onboarding, regulatory updates, and ongoing training for healthcare staff.」（https://www.iseazy.com/comparative/best-white-label-lms-platform/）
+  - 「isEazy configures a corporate subdomain, so employees access training from a recognizable URL. Configuration is handled by the isEazy technical team during onboarding.」（https://www.iseazy.com/comparative/best-white-label-lms-platform/）
+  - 「customizable homepage with drag-and-drop widgets, and unified content consumption experience via Fluidic Player.」（https://www.iseazy.com/comparative/best-white-label-lms-platform/）
+  - 「15 minutes」（https://www.iseazy.com/comparative/best-white-label-lms-platform/）
+  - 「Create courses in minutes」（https://www.docebo.com/learning-network/blog/white-label-lms/）
+  - 「Employee Onboarding」（https://www.docebo.com/learning-network/blog/white-label-lms/）
+  - 「15–23 minutes」（https://www.docebo.com/learning-network/blog/white-label-lms/）
+  - 「for assignments, notifications, compliance, and multi-audience onboarding」（https://www.docebo.com/learning-network/blog/white-label-lms/）
+  - 「iSpring Learn is an LMS designed to support different stages of employee development, from onboarding new hires to delivering ongoing professional training. It offers tools for assigning courses, tracking progress, and managing learning paths to help organizations structure and monitor employee growth over time.」（https://www.docebo.com/learning-network/blog/white-label-lms/）
+  - 「“The sales pages and website are really easy to create, the membership modules are simple and easy to use. Integration with other services is very good.” —」（https://www.docebo.com/learning-network/blog/white-label-lms/）
+  - 「“Onboarding – the software is too complex for there not to be a proper onboarding.“ —」（https://www.docebo.com/learning-network/blog/white-label-lms/）
+  - 「Thinkific is a learning solution built to create, market, and sell your own online courses with drag-and-drop functionality. It also comes equipped with customizable templates to help you generate new content fast and efficiently.」（https://www.docebo.com/learning-network/blog/white-label-lms/）
+  - 「Reviews consistently praise the course creation tools and commerce features. The platform is genuinely easy to use for building and selling learning content.」（https://academysmart.com/blog/best-white-label-lms/）
+- 検索結果の抜粋：
+  - 「Top 10 White Label LMS Platforms (reviewed February 2026 ) — Top 10 White Label LMS Platforms (reviewed February 2026 ) Docebo https://www.docebo.com > blog > wh...」（https://www.docebo.com/learning-network/blog/white-label-lms/）
+  - 「8 Best White Label LMS Platforms for B2B Enterprises ( 2026 ) — 8 Best White Label LMS Platforms for B2B Enterprises ( 2026 ) Academy Smart https://academysmart.com > blog > be...」（https://academysmart.com/blog/best-white-label-lms/）
+  - 「7 Best White Label LMS Platforms Compared - Oasis LMS — 7 Best White Label LMS Platforms Compared - Oasis LMS Oasis LMS https://oasis-lms.com > post > the-7-b...」（https://oasis-lms.com/post/the-7-best-white-label-lms-platforms-for-selling-courses-in-2026）
+  - 「Top 10 White Label LMS Platforms (reviewed February 2026) — Top 10 White Label LMS Platforms (reviewed February 2026) Docebo https://www.docebo.com > blog > wh...」（https://www.docebo.com/learning-network/blog/white-label-lms/）
+  - 「White Label LMS : 10 Best Platforms for 2026 Ranked — White Label LMS : 10 Best Platforms for 2026 Ranked ProProfs Training Maker https://www.proprofstraining.com > ...」（https://www.proprofstraining.com/blog/white-label-lms/）
+
+## ホワイトラベル翻訳（white label translation software）
+- 文脈：翻訳
+- 提供企業：記載なし（読んだ30頁・検索6回）
+- 自社名で出せる条件：記載なし（読んだ30頁・検索6回）
+- 再販制度：記載なし（読んだ30頁・検索6回）
+- 無料体験・貸出：記載なし（読んだ30頁・検索6回）
+- 価格：記載なし（読んだ30頁・検索6回）
+- 日本対応：記載なし（読んだ30頁・検索6回）
+- 使いやすさ：記載なし（読んだ30頁・検索6回）
+
+## ホワイトラベル3Dビューア（white label 3D product configurator）
+- 文脈：製品紹介
+- 提供企業：記載なし（読んだ30頁・検索6回）
+- 自社名で出せる条件：記載なし（読んだ30頁・検索6回）
+- 再販制度：記載なし（読んだ30頁・検索6回）
+- 無料体験・貸出：記載なし（読んだ30頁・検索6回）
+- 価格：記載なし（読んだ30頁・検索6回）
+- 日本対応：記載なし（読んだ30頁・検索6回）
+- 使いやすさ：記載なし（読んだ30頁・検索6回）
+
+## ホワイトラベルAR製品表示（white label AR product visualization）
+- 文脈：製品紹介
+- 提供企業：記載なし（読んだ30頁・検索6回）
+- 自社名で出せる条件：記載なし（読んだ30頁・検索6回）
+- 再販制度：記載なし（読んだ30頁・検索6回）
+- 無料体験・貸出：記載なし（読んだ30頁・検索6回）
+- 価格：記載なし（読んだ30頁・検索6回）
+- 日本対応：記載なし（読んだ30頁・検索6回）
+- 使いやすさ：記載なし（読んだ30頁・検索6回）
+
+## ホワイトラベル請求書・帳票読み取り（white label OCR invoice）
+- 文脈：帳票
+- 提供企業：記載なし（読んだ30頁・検索6回）
+- 自社名で出せる条件：記載なし（読んだ30頁・検索6回）
+- 再販制度：記載なし（読んだ30頁・検索6回）
+- 無料体験・貸出：記載なし（読んだ30頁・検索6回）
+- 価格：記載なし（読んだ30頁・検索6回）
+- 日本対応：記載なし（読んだ30頁・検索6回）
+- 使いやすさ：記載なし（読んだ30頁・検索6回）
+
+## ホワイトラベル問い合わせ窓口（white label help desk software）
+- 文脈：サポート
+- 提供企業：
+  - 「For the fifth year in a row, ScienceSoft is featured among the best outsourcing service providers in IAOP’s Global Outsourcing 100 list.」（https://www.scnsoft.com/it-operations/help-desk/white-label）
+  - 「Client review」（https://www.scnsoft.com/it-operations/help-desk/white-label）
+  - 「top help desk outsourcing providers」（https://www.scnsoft.com/it-operations/help-desk/white-label）
+  - 「SOC cost vs building an in-house SOC」（https://singlepointoc.com/services/white-label-help-desk-services/）
+  - 「In-house vs outsourced help desk differences」（https://singlepointoc.com/services/white-label-help-desk-services/）
+  - 「Cost of running an MSP internally vs outsourcing」（https://singlepointoc.com/services/white-label-help-desk-services/）
+  - 「Help desk cost vs hiring internal staff」（https://singlepointoc.com/services/white-label-help-desk-services/）
+  - 「Help desk vs NOC」（https://singlepointoc.com/services/white-label-help-desk-services/）
+  - 「Help desk vs service desk」（https://singlepointoc.com/services/white-label-help-desk-services/）
+  - 「IT outsourcing vs staff augmentation」（https://singlepointoc.com/services/white-label-help-desk-services/）
+  - 「Managed IT vs help desk services」（https://singlepointoc.com/services/white-label-help-desk-services/）
+  - 「MSP vs MSSP」（https://singlepointoc.com/services/white-label-help-desk-services/）
+  - 「Outsourced IT vs in-house IT」（https://singlepointoc.com/services/white-label-help-desk-services/）
+  - 「SOC vs MDR vs MSSP」（https://singlepointoc.com/services/white-label-help-desk-services/）
+  - 「SOC vs NOC」（https://singlepointoc.com/services/white-label-help-desk-services/）
+- 自社名で出せる条件：
+  - 「White Label Help Desk Support Services - ScienceSoft」（https://www.scnsoft.com/it-operations/help-desk/white-label）
+  - 「White Label Help Desk」（https://www.scnsoft.com/it-operations/help-desk/white-label）
+  - 「Benefits of white label help desk」（https://www.scnsoft.com/it-operations/help-desk/white-label）
+  - 「White label help desk is a type of IT support where incidents and user requests are」（https://www.scnsoft.com/it-operations/help-desk/white-label）
+  - 「White label help desk services by ScienceSoft are distinguished by quick integration into your processes and a good understanding of entrusted apps and IT components to keep users satisfied and enhance your positioning as a reliable service provider or a product vendor.」（https://www.scnsoft.com/it-operations/help-desk/white-label）
+  - 「ScienceSoft's White-Label Tech Support Services」（https://www.scnsoft.com/it-operations/help-desk/white-label）
+  - 「White label help desk for MSP」（https://www.scnsoft.com/it-operations/help-desk/white-label）
+  - 「White label help desk for a product company」（https://www.scnsoft.com/it-operations/help-desk/white-label）
+  - 「alongside human support. Working under your brand, it will be」（https://www.scnsoft.com/it-operations/help-desk/white-label）
+  - 「24/7 White-Label L1 Support for Delap LLP」（https://www.scnsoft.com/it-operations/help-desk/white-label）
+  - 「For nine months, ScienceSoft provided white-label L1 help desk services to Delap LLP, an established US financial services firm and MSP. By promptly resolving 60% of all the tickets from five of Delap's clients with a 7-minute FTR, we freed up its in-house L2 and L3 support teams.」（https://www.scnsoft.com/it-operations/help-desk/white-label）
+  - 「White-Label Help Desk for MSP Decreases Internal Support Workload by Over 80%」（https://www.scnsoft.com/it-operations/help-desk/white-label）
+  - 「White-Label L1 Help Desk to Ensure After-Hours Support」（https://www.scnsoft.com/it-operations/help-desk/white-label）
+  - 「White-Label Help Desk for a Managed Service Provider」（https://www.scnsoft.com/it-operations/help-desk/white-label）
+  - 「For over a year, ScienceSoft delivered white label Tier 1 help desk services, helping a US-based managed IT services company reach and maintain L1 issue resolution rate at >95%.」（https://www.scnsoft.com/it-operations/help-desk/white-label）
+- 再販制度：
+  - 「What margin does an MSP make on white-label help desk?」（https://itsecops.cloud/white-label-helpdesk-pricing/）
+  - 「MSPs typically bill end clients $15 to $45 per user per month for support while buying white-label helpdesk at $3 to $8 per user, so the help desk line runs at 60 to 80 percent gross margin before your account management time. The per-tech model works when a dedicated $1,800 to $3,500 engineer replaces a local hire costing 2 to 3 times that, fully loaded.」（https://itsecops.cloud/white-label-helpdesk-pricing/）
+  - 「Scaling Your MSP Business & Increasing Margins With Helpdesk」（https://flexisit.com/24x7-help-desk.html）
+  - 「Many MSPs find their margins thin and their ability to scale limited by resourcing challenges and the inability to react quickly to customer opportunities.」（https://flexisit.com/24x7-help-desk.html）
+- 価格：
+  - 「ScienceSoft has been handling 400 Tier 1 requests per month for the SaaS LMS used by 250+ aviation leaders globally. As a result, the Customer enhanced user eLearning experiences and consistently scores 92%+ in CSAT with support quality.」（https://www.scnsoft.com/it-operations/help-desk/white-label）
+  - 「ScienceSoft helps a managed IT services provider efficiently support its clients 24/7. Our team is responsible for after-hours L1 support under a service package of 100 tickets per month.」（https://www.scnsoft.com/it-operations/help-desk/white-label）
+  - 「White-Label Help Desk Pricing 2026: $3-8 per User for MSPs」（https://itsecops.cloud/white-label-helpdesk-pricing/）
+  - 「MDR Pricing (2026)」（https://itsecops.cloud/white-label-helpdesk-pricing/）
+  - 「EDR Pricing (2026)」（https://itsecops.cloud/white-label-helpdesk-pricing/）
+  - 「SOC as a Service Pricing (2026)」（https://itsecops.cloud/white-label-helpdesk-pricing/）
+  - 「SIEM Pricing (2026)」（https://itsecops.cloud/white-label-helpdesk-pricing/）
+  - 「White-Label Help Desk Pricing 2026: Per Ticket, Per User, Per Tech」（https://itsecops.cloud/white-label-helpdesk-pricing/）
+  - 「Pricing guide · White-label for MSPs · Updated September 2026」（https://itsecops.cloud/white-label-helpdesk-pricing/）
+  - 「White-label help desk pricing in 2026 runs $10 to $20 per ticket, $3 to $8 per end user per month, or $1,800 to $3,500 per month for a dedicated technician working under your brand. Entry white-label NOC packages start around $1,500 to $2,500 per month. ITSecOps prices per user or per tech with 24/7 coverage, and your clients never see our name.」（https://itsecops.cloud/white-label-helpdesk-pricing/）
+  - 「$45K-65K + 30% benefits = $58K-85K」（https://flexisit.com/24x7-help-desk.html）
+  - 「$3K-5K per tech annually」（https://flexisit.com/24x7-help-desk.html）
+  - 「Training Costs $3,000–5,000 Per Tech」（https://flexisit.com/24x7-help-desk.html）
+  - 「Just when they're productive, they leave for $5K more somewhere else. You're back to square one. Frequent turnover introduces ongoing instability, forcing MSPs to continuously rebuild instead of focusing on growth.」（https://flexisit.com/24x7-help-desk.html）
+  - 「Nights, weekends, holidays—covering the clock costs $250K+ annually before you answer a single ticket. Without outsourced support or staff augmentation, maintaining reliable coverage across all hours becomes both costly and operationally risky.」（https://flexisit.com/24x7-help-desk.html）
+- 使いやすさ：
+  - 「within 15 minutes」（https://www.scnsoft.com/it-operations/help-desk/white-label）
+  - 「, we train our staff to ensure a good understanding of your client environment and product. Our training activities include onboarding and support training programs for newcomers, regular training sessions and knowledge transfers among」（https://www.scnsoft.com/it-operations/help-desk/white-label）
+  - 「How does onboarding work for a new MSP?」（https://defenovate.com/white-label-help-desk/）
+  - 「Onboarding typically takes 7–14 days and includes tool integration, SOP alignment, branding setup, escalation mapping, and pilot ticket validation before going live.」（https://defenovate.com/white-label-help-desk/）
+  - 「White-Label Help Desk in 2 Minutes」（https://flexisit.com/24x7-help-desk.html）
+  - 「Our structured onboarding gets you operational in 2-4 weeks. We handle discovery, integration, and training — you focus on growing your business.」（https://flexisit.com/24x7-help-desk.html）
+  - 「Operational in 2-4 weeks, not 60-90 days. Our structured onboarding gets you live fast without disrupting current operations.」（https://flexisit.com/24x7-help-desk.html）
+- 検索結果の抜粋：
+  - 「White - Label Help Desk Pricing 2026: $3-8 per User for MSPs — White - Label Help Desk Pricing 2026: $3-8 per User for MSPs ITSecOps https://itsecops.cloud > white-label-he...」（https://itsecops.cloud/white-label-helpdesk-pricing/）
+  - 「White - Label Help Desk Services for MSPs - Flexis IT — White - Label Help Desk Services for MSPs - Flexis IT Flexis IT https://flexisit.com > 24x7-help-desk」（https://flexisit.com/24x7-help-desk.html）
+- 無料体験・貸出：記載なし（読んだ30頁・検索6回）
+- 日本対応：記載なし（読んだ30頁・検索6回）
+
+## ホワイトラベル業務自動化（white label workflow automation）
+- 文脈：自動化
+- 提供企業：
+  - 「📖 In Depth Reviews」（https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies）
+  - 「We independently review every app we recommend We independently review every app we recommend」（https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies）
+  - 「Interface setup can feel dense compared with narrower tools」（https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies）
+  - 「targets agencies and service providers delivering automation to larger, more complex clients. It is an enterprise integration and automation platform that can be embedded into a customer-facing product, allowing you to offer integrations and workflows without sending clients to a separate automation vendor interface.」（https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies）
+  - 「GoHighLevel alternatives」（https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies）
+  - 「Many platforms support some form of resale, but the commercial model differs. HighLevel is built for SaaS resale, while embedded platforms such as viaSocket, n8n Embed, and Workato Embedded are better suited to packaging automation into a managed service or proprietary product. Review license terms, client-seat rules, and usage charges before setting your own pricing.」（https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies）
+  - 「When a White-Label Platform Is the Better Fit」（https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust）
+  - 「📖 In Depth Reviews」（https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust）
+  - 「We independently review every app we recommend We independently review every app we recommend」（https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust）
+  - 「9 Best Zapier Alternatives for Smarter Automation」（https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust）
+  - 「7 Best ViaSocket Alternatives for Agencies」（https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust）
+  - 「n8n vs Zapier vs Integromat: 7 Best Picks」（https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust）
+  - 「Embedded & Software Providers」（https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/）
+  - 「Your engineering team excels at your core product features. Integration platform providers specialize in connecting applications, handling data transformation, and managing API changes. White label integration divides the work so each team focuses on what they do best.」（https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/）
+  - 「You need an integration partner with the technical infrastructure and reputation you can rely on. Focus on these three areas when evaluating possible white label partners:」（https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/）
+- 自社名で出せる条件：
+  - 「Best White-Label Automation Platforms for Agencies to Grow Without More Headcount | Viasocket」（https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies）
+  - 「10 White-Label Automation Platforms for Agencies」（https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies）
+  - 「Which platforms help agencies scale client delivery without adding more staff? This roundup breaks down the best options for white-label automation, so I can compare fit, features, and tradeoffs fast.」（https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies）
+  - 「White-label depth」（https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies）
+  - 「What I Look For in a White-Label Automation Platform」（https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies）
+  - 「7 Best White-Label Automation Platforms for Agencies」（https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies）
+  - 「White-label packaging and commercial controls should be confirmed for your rollout model」（https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies）
+  - 「is designed for agencies that want to resell a broad digital-business platform, particularly to local businesses. Its white-label client experience, marketplace, CRM-oriented tools, reputation products, and sales enablement make it more of a channel platform than a pure workflow builder. You can present a polished business app under your agency brand and bundle services around it.」（https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies）
+  - 「Mature white-label portal and marketplace model for agencies」（https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies）
+  - 「9 White-Label Automation Solutions That Scale Agencies」（https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies）
+  - 「combines a white-label client portal with CRM, project management, invoicing, file sharing, forms, and workflow-oriented tools. It is a practical choice when your agency’s biggest friction is not lead automation but the client delivery experience: scattered approvals, email threads, onboarding documents, tasks, and billing.」（https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies）
+  - 「Extensive white-label and client-portal capabilities」（https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies）
+  - 「focuses on secure, white-label client portals for agencies and professional service firms. It gives you branded workspaces for files, conversations, tasks, forms, and collaboration, with the permission controls needed when clients, partners, and internal teams should not all see the same information.」（https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies）
+  - 「Deep white-label client portal and secure collaboration features」（https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies）
+  - 「Common Mistakes Agencies Make When Choosing White-Label Automation」（https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies）
+- 再販制度：
+  - 「Higher-volume reseller budgets」（https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies）
+  - 「Top E-commerce Automation Stacks for Bigger Margins」（https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies）
+  - 「is designed for agencies that want to resell a broad digital-business platform, particularly to local businesses. Its white-label client experience, marketplace, CRM-oriented tools, reputation products, and sales enablement make it more of a channel platform than a pure workflow builder. You can present a polished business app under your agency brand and bundle services around it.」（https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies）
+  - 「9 Best Automation Platforms for Agencies to Protect Margins」（https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies）
+  - 「Can I resell a white-label automation platform to clients?」（https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies）
+  - 「I looked for more than a logo-setting: meaningful branding control, credible client-facing delivery, automation breadth, onboarding effort, scalability, and support all mattered. The strongest choice depends on whether you are reselling a managed service, embedding automation in software, or handing clients a portal they can use themselves.」（https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust）
+  - 「White-label is worth the premium when you manage multiple client accounts, resell recurring automation services, or need branded dashboards and portals that reinforce your agency relationship. Standard automation is often enough for internal delivery work where clients never need to see or operate the platform.」（https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust）
+  - 「Top E-commerce Automation Stacks for Bigger Margins」（https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust）
+  - 「Can I resell automation workflows to clients on a monthly retainer?」（https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust）
+  - 「Chatbots and conversational AI ready to resell」（https://www.makeitfuture.com/white-label）
+  - 「Business process automation ready to resell」（https://www.makeitfuture.com/white-label）
+  - 「Salesforce process automation ready to resell」（https://www.makeitfuture.com/white-label）
+  - 「Internal tools and dashboards ready to resell」（https://www.makeitfuture.com/white-label）
+  - 「A white label AI agency builds AI and automation solutions that other agencies resell under their own brand. Makeitfuture delivers white label AI agents, chatbots and automation services under your brand, so your clients only ever see your agency. You keep the client relationship and the pricing; we handle the build behind the scenes.」（https://www.makeitfuture.com/white-label）
+  - 「Activate financial data to unlock margin discipline」（https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/）
+- 無料体験・貸出：
+  - 「Start free trial」（https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies）
+  - 「Start free trial」（https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust）
+  - 「Start free trial」（https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/）
+  - 「Start free 30-day trial」（https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/）
+  - 「Start Free Trial」（https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/）
+- 価格：
+  - 「Many platforms support some form of resale, but the commercial model differs. HighLevel is built for SaaS resale, while embedded platforms such as viaSocket, n8n Embed, and Workato Embedded are better suited to packaging automation into a managed service or proprietary product. Review license terms, client-seat rules, and usage charges before setting your own pricing.」（https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies）
+  - 「$97/month」（https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust）
+  - 「$0 self-hosted」（https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust）
+  - 「$9/month for Core, embedded pricing is custom」（https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust）
+  - 「3. Develop Your Pricing Strategy」（https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/）
+- 使いやすさ：
+  - 「Fast no-code client portals」（https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies）
+  - 「Before a platform represents your agency, assess whether branding, domains, emails, permissions, and client workspaces are truly controllable. Then test workflow depth, reporting, integrations, onboarding time, and the support burden your own team will inherit after launch.」（https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies）
+  - 「combines a white-label client portal with CRM, project management, invoicing, file sharing, forms, and workflow-oriented tools. It is a practical choice when your agency’s biggest friction is not lead automation but the client delivery experience: scattered approvals, email threads, onboarding documents, tasks, and billing.」（https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies）
+  - 「9 Best Client Onboarding Automation Tools for Agencies」（https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies）
+  - 「7 Best Client Onboarding Automation Tools for Agencies」（https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies）
+  - 「8 Best Agency Onboarding Automation Tools for Fast Kickoffs」（https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies）
+  - 「10 Best Client Onboarding Automation Tools Without Coding」（https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies）
+  - 「Strong branded portal and no-code app-building experience」（https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies）
+  - 「Deeply custom app behavior can outgrow the no-code model」（https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies）
+  - 「9 Best No-Code Platforms for SaaS Teams」（https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies）
+  - 「9 Best No-Code Platforms to Build Fast Without Code」（https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies）
+  - 「7 Best Tools for Client Onboarding Automation」（https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies）
+  - 「A polished demo can hide weak client permissions, superficial branding, or hours of implementation work. Test a real client onboarding flow, required integrations, error handling, and day-two support before buying, then avoid paying for advanced features your team has no plan to sell or operate.」（https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies）
+  - 「9 No-Code Automation Platforms to Cut Agency Costs Fast」（https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies）
+  - 「I looked for more than a logo-setting: meaningful branding control, credible client-facing delivery, automation breadth, onboarding effort, scalability, and support all mattered. The strongest choice depends on whether you are reselling a managed service, embedding automation in software, or handing clients a portal they can use themselves.」（https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust）
+- 検索結果の抜粋：
+  - 「10 White - Label Automation Platforms for Agencies - viaSocket — 10 White - Label Automation Platforms for Agencies - viaSocket viaSocket https://viasocket.com > blog > 10-whi...」（https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies）
+  - 「7 White - Label Automation Platforms Agencies Trust - viaSocket — 7 White - Label Automation Platforms Agencies Trust - viaSocket viaSocket https://viasocket.com > blog > 7-whit...」（https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust）
+- 日本対応：記載なし（読んだ30頁・検索6回）
+
+## ホワイトラベル商談AI（white label sales call AI）
+- 文脈：商談
+- 提供企業：記載なし（読んだ30頁・検索6回）
+- 自社名で出せる条件：記載なし（読んだ30頁・検索6回）
+- 再販制度：記載なし（読んだ30頁・検索6回）
+- 無料体験・貸出：記載なし（読んだ30頁・検索6回）
+- 価格：記載なし（読んだ30頁・検索6回）
+- 日本対応：記載なし（読んだ30頁・検索6回）
+- 使いやすさ：記載なし（読んだ30頁・検索6回）
+
+## ホワイトラベル文章から3D（white label text to 3D）
+- 文脈：設計（専門知識不要のものだけ）
+- 提供企業：記載なし（読んだ30頁・検索6回）
+- 自社名で出せる条件：記載なし（読んだ30頁・検索6回）
+- 再販制度：記載なし（読んだ30頁・検索6回）
+- 無料体験・貸出：記載なし（読んだ30頁・検索6回）
+- 価格：記載なし（読んだ30頁・検索6回）
+- 日本対応：記載なし（読んだ30頁・検索6回）
+- 使いやすさ：記載なし（読んだ30頁・検索6回）

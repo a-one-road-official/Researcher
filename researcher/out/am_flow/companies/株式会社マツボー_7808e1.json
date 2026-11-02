@@ -1,0 +1,959 @@
+{
+ "name": "株式会社マツボー",
+ "aliases": [],
+ "context": "",
+ "researched_at": "2026-11-02T12:18:38.589519+00:00",
+ "official_url": "https://www.matsubo.co.jp/",
+ "identified_by": "search:yahoo_jp:マツボー",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1949年4月",
+    "url": "https://www.matsubo.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1955年7月",
+    "url": "https://www.matsubo.co.jp/company/about/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何をする": [
+   {
+    "quote": "教育研修制度",
+    "url": "https://www.matsubo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "装置のチャンバー改造を必要とせず、誘電体窓を1つ設けるだけで設置できる設計を採用",
+    "url": "https://www.matsubo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "教育研修制度",
+    "url": "https://www.matsubo.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "機械の専門商社の枠にとらわれず、導入に先立ってのコンサルティングから、設置・ローカライズにかかわるエンジニアリング、導入後のメンテナンスや改善・改造提案まで、お客様に安心してお使いいただくための一貫したサービス体制を整えています",
+    "url": "https://www.matsubo.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "また、粉体特性評価装置や各種検査装置も充実しており、お客様の品質管理・工程設計を強力にサポートします",
+    "url": "https://www.matsubo.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、多種多様な粉体の受託加工サービスにも対応しています",
+    "url": "https://www.matsubo.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "また、海外製品を安心してお使いいただくための装置制御盤の新規設計製作や更新、また海外製PLCから国内PLCへの変更工事も行います",
+    "url": "https://www.matsubo.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "教育研修制度",
+    "url": "https://www.matsubo.co.jp/business/sanki/",
+    "pass": 1
+   },
+   {
+    "quote": "教育研修制度",
+    "url": "https://www.matsubo.co.jp/business/huntai/",
+    "pass": 1
+   },
+   {
+    "quote": "設備のご提案に限らず、各種粉体の受託加工も承ります",
+    "url": "https://www.matsubo.co.jp/business/huntai/",
+    "pass": 1
+   },
+   {
+    "quote": "湿式分級装置スラリースクリーナー",
+    "url": "https://www.matsubo.co.jp/business/huntai/",
+    "pass": 1
+   },
+   {
+    "quote": "教育研修制度",
+    "url": "https://www.matsubo.co.jp/business/support/",
+    "pass": 1
+   },
+   {
+    "quote": "教育研修制度",
+    "url": "https://www.matsubo.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "装置のチャンバー改造を必要とせず、誘電体窓を1つ設けるだけで設置できる設計を採用",
+    "url": "https://www.matsubo.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "一台でシートポケットの成形・シール・切り離しまで対応でき、ラボにおいて包装を外注する、あるいは自社の生産ラインで試作包装を行う際のリードタイムや打ち合わせ・調整時間を削減し、包装開発のスピードアップに貢献します",
+    "url": "https://www.matsubo.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "教育研修制度",
+    "url": "https://www.matsubo.co.jp/product/pickup/",
+    "pass": 1
+   },
+   {
+    "quote": "教育研修制度",
+    "url": "https://www.matsubo.co.jp/product/support/",
+    "pass": 1
+   },
+   {
+    "quote": "テクニカルセンターは輸入機械装置の設置と保守のエキスパートです",
+    "url": "https://www.matsubo.co.jp/product/support/",
+    "pass": 1
+   },
+   {
+    "quote": "テクニカルセンターでは当社輸入機械装置の設置・保守・改善業務を担っています",
+    "url": "https://www.matsubo.co.jp/product/support/",
+    "pass": 1
+   },
+   {
+    "quote": "などメーカーとのやり取りを弊社の技術者が直接技術サポートを行います",
+    "url": "https://www.matsubo.co.jp/product/support/",
+    "pass": 1
+   },
+   {
+    "quote": "受託加工 | 株式会社マツボー",
+    "url": "https://www.matsubo.co.jp/product/order/",
+    "pass": 1
+   },
+   {
+    "quote": "教育研修制度",
+    "url": "https://www.matsubo.co.jp/product/order/",
+    "pass": 1
+   },
+   {
+    "quote": "各種粉体プロセス（乾式・湿式）の受託加工をお引き受けします",
+    "url": "https://www.matsubo.co.jp/product/order/",
+    "pass": 1
+   },
+   {
+    "quote": "受託加工についてのお問い合わせ先",
+    "url": "https://www.matsubo.co.jp/product/order/",
+    "pass": 1
+   },
+   {
+    "quote": "教育研修制度",
+    "url": "https://www.matsubo.co.jp/news_category/event/",
+    "pass": 1
+   },
+   {
+    "quote": "教育研修制度",
+    "url": "https://www.matsubo.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "教育研修制度",
+    "url": "https://www.matsubo.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のニーズを知りそれに必要な技術情報や製品情報を提供する事に加え、目標実現の為のエンジニアリング機能を提供する等のフォアサービスから、設備・装置改造のコンサルティング、機器納入後のアフターサービスに至るまでの一貫したサービス体制を整えてまいります",
+    "url": "https://www.matsubo.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "教育研修制度",
+    "url": "https://www.matsubo.co.jp/company/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "教育研修制度",
+    "url": "https://www.matsubo.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "教育研修制度",
+    "url": "https://www.matsubo.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "教育研修制度",
+    "url": "https://www.matsubo.co.jp/company/access/",
+    "pass": 1
+   },
+   {
+    "quote": "教育研修制度",
+    "url": "https://www.matsubo.co.jp/news/%E7%AC%AC67%E5%9B%9E%E9%9B%BB%E6%B1%A0%E8%A8%8E%E8%AB%96%E4%BC%9A/",
+    "pass": 1
+   },
+   {
+    "quote": "教育研修制度",
+    "url": "https://www.matsubo.co.jp/news/%E5%9B%BD%E9%9A%9B%E7%B2%89%E4%BD%93%E5%B7%A5%E6%A5%AD%E5%B1%95%EF%BC%92%EF%BC%90%EF%BC%92%EF%BC%96/",
+    "pass": 1
+   },
+   {
+    "quote": "スラリースクリーナー",
+    "url": "https://www.matsubo.co.jp/news/%E5%9B%BD%E9%9A%9B%E7%B2%89%E4%BD%93%E5%B7%A5%E6%A5%AD%E5%B1%95%EF%BC%92%EF%BC%90%EF%BC%92%EF%BC%96/",
+    "pass": 1
+   },
+   {
+    "quote": "教育研修制度",
+    "url": "https://www.matsubo.co.jp/product/ppt-pi/",
+    "pass": 1
+   },
+   {
+    "quote": "装置のチャンバー改造を必要とせず、誘電体窓を1つ設けるだけで設置できる設計を採用",
+    "url": "https://www.matsubo.co.jp/product/ppt-pi/",
+    "pass": 1
+   },
+   {
+    "quote": "教育研修制度",
+    "url": "https://www.matsubo.co.jp/product/ppt-taylo/",
+    "pass": 1
+   },
+   {
+    "quote": "・コンパクトな設計：標準的な筐体サイズは70 × 70 × 60 mmです（コネクタタイプにより変更あり）",
+    "url": "https://www.matsubo.co.jp/product/ppt-taylo/",
+    "pass": 1
+   },
+   {
+    "quote": "教育研修制度",
+    "url": "https://www.matsubo.co.jp/product/jasta/",
+    "pass": 1
+   },
+   {
+    "quote": "・特注バルブは、お客様の技術仕様に応じたカスタム設計・製作が可能",
+    "url": "https://www.matsubo.co.jp/product/jasta/",
+    "pass": 1
+   },
+   {
+    "quote": "・JASTAはドイツで60年以上にわたり、アクチュエータを含むバルブシステムを設計・製造",
+    "url": "https://www.matsubo.co.jp/product/jasta/",
+    "pass": 1
+   },
+   {
+    "quote": "教育研修制度",
+    "url": "https://www.matsubo.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "教育研修制度",
+    "url": "https://www.matsubo.co.jp/product/a-rm/",
+    "pass": 1
+   },
+   {
+    "quote": "教育研修制度",
+    "url": "https://www.matsubo.co.jp/product/ez-blister/",
+    "pass": 1
+   },
+   {
+    "quote": "一台でシートポケットの成形・シール・切り離しまで対応でき、ラボにおいて包装を外注する、あるいは自社の生産ラインで試作包装を行う際のリードタイムや打ち合わせ・調整時間を削減し、包装開発のスピードアップに貢献します",
+    "url": "https://www.matsubo.co.jp/product/ez-blister/",
+    "pass": 1
+   },
+   {
+    "quote": "教育研修制度",
+    "url": "https://www.matsubo.co.jp/product/anhydro-sds/",
+    "pass": 1
+   },
+   {
+    "quote": "教育研修制度",
+    "url": "https://www.matsubo.co.jp/product/pickup/pickup_02/",
+    "pass": 1
+   },
+   {
+    "quote": "すでにアメリカ、欧州、アジアを含め数百台の販売実績がございます",
+    "url": "https://www.matsubo.co.jp/product/pickup/pickup_02/",
+    "pass": 1
+   },
+   {
+    "quote": "企業セミナー",
+    "url": "https://ptj.jiho.jp/product/156481/company/148404?type=product&page=4",
+    "pass": 3
+   },
+   {
+    "quote": "企業リリース",
+    "url": "https://ptj.jiho.jp/product/156481/company/148404?type=product&page=4",
+    "pass": 3
+   },
+   {
+    "quote": "セミナー（0",
+    "url": "https://ptj.jiho.jp/product/156481/company/148404?type=product&page=4",
+    "pass": 3
+   },
+   {
+    "quote": "リリース（5",
+    "url": "https://ptj.jiho.jp/product/156481/company/148404?type=product&page=4",
+    "pass": 3
+   },
+   {
+    "quote": "新着企業セミナー",
+    "url": "https://ptj.jiho.jp/product/156481/company/148404?type=product&page=4",
+    "pass": 3
+   },
+   {
+    "quote": "新着企業リリース",
+    "url": "https://ptj.jiho.jp/product/156481/company/148404?type=product&page=4",
+    "pass": 3
+   },
+   {
+    "quote": "プレスリリース",
+    "url": "https://ptj.jiho.jp/product/156481/company/148404?type=product&page=4",
+    "pass": 3
+   },
+   {
+    "quote": "セミナー情報",
+    "url": "https://ptj.jiho.jp/product/156481/company/148404?type=product&page=4",
+    "pass": 3
+   },
+   {
+    "quote": "リリース情報",
+    "url": "https://ptj.jiho.jp/product/156481/company/148404?type=product&page=4",
+    "pass": 3
+   },
+   {
+    "quote": "機械の専門商社の枠にとらわれず、導入に先立ってのコンサルティングから、設置・ローカライズにかかわるエンジニアリング、導入後のメンテナンスや改善・改造提案まで、お客様に安心してお使いいただくための一貫したサービス体制を整えています",
+    "url": "https://pr.mono.ipros.com/matsubo/",
+    "pass": 3
+   },
+   {
+    "quote": "携帯式接触角計『PG-X+』【レンタル利用もOK！】",
+    "url": "https://pr.mono.ipros.com/matsubo/product/detail/2000546140/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "製品について、技術について、お見積について、",
+    "url": "https://www.matsubo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ドイツ本国ライセンス元 - Lödige社技術",
+    "url": "https://www.matsubo.co.jp/news/%E5%9B%BD%E9%9A%9B%E7%B2%89%E4%BD%93%E5%B7%A5%E6%A5%AD%E5%B1%95%EF%BC%92%EF%BC%90%EF%BC%92%EF%BC%96/",
+    "pass": 1
+   },
+   {
+    "quote": "・樹脂粉末（熱可塑性、熱硬化性)",
+    "url": "https://www.matsubo.co.jp/product/pickup/pickup_02/",
+    "pass": 1
+   },
+   {
+    "quote": "消耗品は金網とパッキンが主です",
+    "url": "https://www.matsubo.co.jp/product/pickup/pickup_02/",
+    "pass": 1
+   },
+   {
+    "quote": "粉体・粉末の動的環境下の挙動を評価",
+    "url": "https://ptj.jiho.jp/product/156481/company/148404?type=product&page=4",
+    "pass": 3
+   },
+   {
+    "quote": "電子部品・消耗品",
+    "url": "https://pr.mono.ipros.com/matsubo/",
+    "pass": 3
+   },
+   {
+    "quote": "電子部品・消耗品",
+    "url": "https://pr.mono.ipros.com/matsubo/product/detail/2000546140/",
+    "pass": 3
+   },
+   {
+    "quote": "粉体・粉末の動的環境下の挙動を評価できる検査装置です",
+    "url": "https://pr.mono.ipros.com/matsubo/product/detail/2000546140/",
+    "pass": 3
+   },
+   {
+    "quote": "粉体・粉末製品が動的環境下でどのような挙動を示すかを評価することは非常に重要です",
+    "url": "https://pr.mono.ipros.com/matsubo/product/detail/2000546140/",
+    "pass": 3
+   },
+   {
+    "quote": "・様々な粉体・粉末製品の流動性の分類",
+    "url": "https://pr.mono.ipros.com/matsubo/product/detail/2000546140/",
+    "pass": 3
+   },
+   {
+    "quote": "【GranuCharge】粉末の帯電量 自動評価装置",
+    "url": "https://pr.mono.ipros.com/matsubo/product/detail/2000546140/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "機械の専門商社の枠にとらわれず、導入に先立ってのコンサルティングから、設置・ローカライズにかかわるエンジニアリング、導入後のメンテナンスや改善・改造提案まで、お客様に安心してお使いいただくための一貫したサービス体制を整えています",
+    "url": "https://www.matsubo.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "また、粉体特性評価装置や各種検査装置も充実しており、お客様の品質管理・工程設計を強力にサポートします",
+    "url": "https://www.matsubo.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "さまざまな業界における粉体に関するニーズに対し、最適な技術提案とプロセス構築を通じて、お客様の課題解決に貢献いたします",
+    "url": "https://www.matsubo.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "産業機械事業分野の中でも特に、鉄鋼・非鉄金属をはじめ、食品、化学・医薬、製紙といった基幹産業が必要とするプラントやスタンドアロン装置を提供しているだけでなく、お客様のあらゆるフェーズに幅広く応えるべく機材及び各種工業材料の調達も一手に引き受けてきました",
+    "url": "https://www.matsubo.co.jp/business/sanki/",
+    "pass": 1
+   },
+   {
+    "quote": "これからも、海外拠点のネットワークを駆使し、高度化するお客様のニーズに対応できる高性能な製品を提供するとともに、かけがえのない地球環境にやさしい製品や工業材料の提案・提供にも取り組み、産業界ひいては社会に貢献していきます",
+    "url": "https://www.matsubo.co.jp/business/sanki/",
+    "pass": 1
+   },
+   {
+    "quote": "取扱分野（業界）",
+    "url": "https://www.matsubo.co.jp/business/sanki/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客ごとに異なる品質要求や精度に応え、効率的な生産プロセスを提供します",
+    "url": "https://www.matsubo.co.jp/business/huntai/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の多様なニーズに応え、最適な技術・プロセスを提供していく",
+    "url": "https://www.matsubo.co.jp/business/huntai/",
+    "pass": 1
+   },
+   {
+    "quote": "取扱分野（業界）",
+    "url": "https://www.matsubo.co.jp/business/huntai/",
+    "pass": 1
+   },
+   {
+    "quote": "工程別・業界別で探す",
+    "url": "https://www.matsubo.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "工程別・業界別を選択することで製品の絞込み検索が可能です",
+    "url": "https://www.matsubo.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "CFR 21 Part 11・MES通信対応のモデル「EZ Blister＋」や、ガス充填包装に対応した「EZ Blister MAP」などの機種もあり、ユーザーの要望に合わせたブリスター包装を実現します",
+    "url": "https://www.matsubo.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "マツボーは半世紀に亘り優れた輸入機械装置を日本の各産業界に納入してまいりました",
+    "url": "https://www.matsubo.co.jp/product/support/",
+    "pass": 1
+   },
+   {
+    "quote": "マツボーはお客様に代わって「粉砕等の加工」もお受けいたします",
+    "url": "https://www.matsubo.co.jp/product/order/",
+    "pass": 1
+   },
+   {
+    "quote": "長年の実績で培った豊富な経験とノウハウから、お客様の原料及び加工内容に合った、最適な設備で処理させていただきます",
+    "url": "https://www.matsubo.co.jp/product/order/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は1949年に「欧米を始めとする世界各国の優れた機械や新しい技術を導入し、日本の産業界の発展を通じて社会へ貢献する」ことを理念として、当時の松坂屋百貨店商事部の中で産声をあげました",
+    "url": "https://www.matsubo.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "戦後復興途上にある中、独自の情報収集力を駆使し、欧米の進んだ技術やそれを応用した機械・設備をいち早く日本国内の産業界の皆様にご紹介・提供してまいりました",
+    "url": "https://www.matsubo.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "ここにあらためて、今日まで取引先の皆様より賜りました多大なご協力に対しお礼申し上げます",
+    "url": "https://www.matsubo.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーであるお客様のご要望に応え、改善を続け、長期間の使用に耐える優秀な機械設備を作って来られた取引先メーカーの皆様に感謝し、これからも末永くユーザーの皆様とメーカーの皆様と共に歩んで行くことも当社の使命であると存じております",
+    "url": "https://www.matsubo.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のニーズを知りそれに必要な技術情報や製品情報を提供する事に加え、目標実現の為のエンジニアリング機能を提供する等のフォアサービスから、設備・装置改造のコンサルティング、機器納入後のアフターサービスに至るまでの一貫したサービス体制を整えてまいります",
+    "url": "https://www.matsubo.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "そのため、多様な人材の確保と育成を続け、今まで以上にお客様にご満足いただけるサービスの提供を心掛けてまいります",
+    "url": "https://www.matsubo.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "世界の先進技術を産業界に導入し社会に貢献する",
+    "url": "https://www.matsubo.co.jp/company/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "製造プロセスに精通し、提案型営業を通じて顧客満足を実現する",
+    "url": "https://www.matsubo.co.jp/company/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーとメーカーの立場を尊重し、共に持続的な成長を目指す",
+    "url": "https://www.matsubo.co.jp/company/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "1955年に、今のマツボーの前身である松坂貿易株式会社の初代社長となり、戦後の日本の産業界の復興に着手しました",
+    "url": "https://www.matsubo.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "これからも、人々の豊かな暮らしを実現するために、付加価値の高いサービスを提供し、国内にとどまらず海外も含めた産業界の発展に寄与するとともに、社会への貢献を果たしてまいります",
+    "url": "https://www.matsubo.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "・特注バルブは、お客様の技術仕様に応じたカスタム設計・製作が可能",
+    "url": "https://www.matsubo.co.jp/product/jasta/",
+    "pass": 1
+   },
+   {
+    "quote": "CFR 21 Part 11・MES通信対応のモデル「EZ Blister＋」や、ガス充填包装に対応した「EZ Blister MAP」などの機種もあり、ユーザーの要望に合わせたブリスター包装を実現します",
+    "url": "https://www.matsubo.co.jp/product/ez-blister/",
+    "pass": 1
+   },
+   {
+    "quote": "・ユーザーの希望に沿ったサイズ・形状のポケット成形用金型を提案可能",
+    "url": "https://www.matsubo.co.jp/product/ez-blister/",
+    "pass": 1
+   },
+   {
+    "quote": "・ユーザーのニーズに応じたオプション提案が可能",
+    "url": "https://www.matsubo.co.jp/product/ez-blister/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様からの課題（ご相談内容）",
+    "url": "https://www.matsubo.co.jp/product/pickup/pickup_02/",
+    "pass": 1
+   },
+   {
+    "quote": "国内外で600台以上の導入実績がございます",
+    "url": "https://www.matsubo.co.jp/product/pickup/pickup_02/",
+    "pass": 1
+   },
+   {
+    "quote": "最新業界トピック",
+    "url": "https://ptj.jiho.jp/product/156481/company/148404?type=product&page=4",
+    "pass": 3
+   },
+   {
+    "quote": "お客様のニーズを満たす真のサービスを提供し、産業機械・情報精密・粉体を中心に様々なご要望にお応えします",
+    "url": "https://pr.mono.ipros.com/matsubo/",
+    "pass": 3
+   },
+   {
+    "quote": "機械の専門商社の枠にとらわれず、導入に先立ってのコンサルティングから、設置・ローカライズにかかわるエンジニアリング、導入後のメンテナンスや改善・改造提案まで、お客様に安心してお使いいただくための一貫したサービス体制を整えています",
+    "url": "https://pr.mono.ipros.com/matsubo/",
+    "pass": 3
+   },
+   {
+    "quote": "機械の専門商社の枠にとらわれず、導入に先立ってのコンサルティングから、設置・ローカライズにかかわるエンジニアリング、導入後のメンテナンスや改善・改造提案まで、お客様に安心してお使いいただくための一貫したサービス体制を整えています",
+    "url": "https://pr.mono.ipros.com/matsubo/product/detail/2000546140/",
+    "pass": 3
+   },
+   {
+    "quote": "初めてのお客様へ",
+    "url": "https://dbk.jp/%E3%80%90%E3%83%9E%E3%83%84%E3%83%9C%E3%83%BC%E3%80%91%E3%83%AC%E3%83%BC%E3%83%87%E3%82%A3%E3%82%B2%E3%83%9F%E3%82%AD%E3%82%B5%E3%83%BC/",
+    "pass": 3
+   }
+  ],
+  "誰から": [
+   {
+    "quote": "輸入製品を安心して導入していただくために、バックアップ体制も万全です",
+    "url": "https://www.matsubo.co.jp/business/support/",
+    "pass": 1
+   },
+   {
+    "quote": "テクニカルセンターは輸入機械装置の設置と保守のエキスパートです",
+    "url": "https://www.matsubo.co.jp/product/support/",
+    "pass": 1
+   },
+   {
+    "quote": "マツボーは半世紀に亘り優れた輸入機械装置を日本の各産業界に納入してまいりました",
+    "url": "https://www.matsubo.co.jp/product/support/",
+    "pass": 1
+   },
+   {
+    "quote": "テクニカルセンターでは当社輸入機械装置の設置・保守・改善業務を担っています",
+    "url": "https://www.matsubo.co.jp/product/support/",
+    "pass": 1
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "4億6579万4310円",
+    "url": "https://www.matsubo.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "現在 デュッセルドルフに移転",
+    "url": "https://www.matsubo.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "欧州事務所（ドイツ・デュッセルドルフ）",
+    "url": "https://www.matsubo.co.jp/company/access/",
+    "pass": 1
+   },
+   {
+    "quote": "GranuDrumでは、透明な円筒セルの中にサンプルを充填し異なる回転速度で回転させることで、動的環境下でのサンプルの挙動（安息角、凝集性、流動性）を評価できます",
+    "url": "https://pr.mono.ipros.com/matsubo/product/detail/2000546140/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ENOGIA社との 代理店契約 締結について - 株式会社 マツボー — ENOGIA社との 代理店契約 締結について - 株式会社 マツボー 株式会社マツボー https://www.matsubo.co.jp > ニュース",
+    "url": "https://www.matsubo.co.jp/news/enogia/",
+    "pass": 3
+   },
+   {
+    "quote": "「 マツボー 」の 代理店 3社 注目ランキング【2026年】 - Metoree — 「 マツボー 」の 代理店 3社 注目ランキング【2026年】 - Metoree Metoree https://metoree.com > 会社一覧 > 株式会社マツボー",
+    "url": "https://metoree.com/companies/16013/distributors/",
+    "pass": 3
+   },
+   {
+    "quote": "マツボー 、米シンクロニーと販売 代理店契約 - 日刊工業新聞 — マツボー 、米シンクロニーと販売 代理店契約 - 日刊工業新聞 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/163310",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 マツボー - 東京都・機械関連サービス業界の企業情報 — 株式会社 マツボー - 東京都・機械関連サービス業界の企業情報 Baseconnect https://baseconnect.in > companies",
+    "url": "https://baseconnect.in/companies/167de278-72b8-4f3b-a48b-4fbed3adf805",
+    "pass": 3
+   },
+   {
+    "quote": "データセンター空調向けプレフィルター - 株式会社 マツボー — データセンター空調向けプレフィルター - 株式会社 マツボー 株式会社マツボー https://www.matsubo.co.jp > product > prevent",
+    "url": "https://www.matsubo.co.jp/product/prevent/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 マツボー | PTJ WEB展示場 - PHARM TECH JAPAN — 株式会社 マツボー | PTJ WEB展示場 - PHARM TECH JAPAN PHARM TECH JAPAN ONLINE https://ptj.jiho.jp > product > company",
+    "url": "https://ptj.jiho.jp/product/156481/company/148404?type=product&page=4",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 マツボー - Powered by イプロスものづくり — 株式会社 マツボー - Powered by イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://pr.mono.ipros.com > matsubo",
+    "url": "https://pr.mono.ipros.com/matsubo/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 マツボー | 一般社団法人日本粉体工業技術協会 — 株式会社 マツボー | 一般社団法人日本粉体工業技術協会 appie.or.jp https://appie.or.jp > member_company > マツボー",
+    "url": "https://appie.or.jp/member_company/%E3%83%9E%E3%83%84%E3%83%9C%E3%83%BC/",
+    "pass": 3
+   },
+   {
+    "quote": "新製品 アーカイブ | 11ページ目 (14ページ中) - 株式会社マツボー — 新製品 アーカイブ | 11ページ目 (14ページ中) - 株式会社マツボー 株式会社マツボー https://www.matsubo.co.jp > bewproduct > page",
+    "url": "https://www.matsubo.co.jp/news_category/bewproduct/page/11/",
+    "pass": 3
+   },
+   {
+    "quote": "【 マツボー 】レーディゲミキサー | 第一物産株式会社 — 【 マツボー 】レーディゲミキサー | 第一物産株式会社 dbk.jp https://dbk.jp > 【マツボー】レーディゲミキサー",
+    "url": "https://dbk.jp/%E3%80%90%E3%83%9E%E3%83%84%E3%83%9C%E3%83%BC%E3%80%91%E3%83%AC%E3%83%BC%E3%83%87%E3%82%A3%E3%82%B2%E3%83%9F%E3%82%AD%E3%82%B5%E3%83%BC/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 マツボー - ShareLab（シェアラボ） — 株式会社 マツボー - ShareLab（シェアラボ） sharelab.jp https://sharelab.jp > 企業DB > 株式会社マツボー",
+    "url": "https://sharelab.jp/company/matsubo/",
+    "pass": 3
+   },
+   {
+    "quote": "本町から株式会社 マツボー 大阪支社までのタクシー 料金 — 本町から株式会社 マツボー 大阪支社までのタクシー 料金 NAVITIME https://www.navitime.co.jp > タクシー料金検索",
+    "url": "https://www.navitime.co.jp/taxi/result/?start=%7B%22node%22%3A%2200008484%22%2C%22name%22%3A%22%E6%9C%AC%E7%94%BA%22%2C%22lon%22%3A%22487802341%22%2C%22road-type%22%3A%22default%22%2C%22lat%22%3A%22124860912%22%7D&goal=%7B%22spot%22%3A%2200011-060336037%22%2C%22name%22%3A%22%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9E%E3%83%84%E3%83%9C%E3%83%BC%E5%A4%A7%E9%98%AA%E6%94%AF%E7%A4%BE%22%2C%22lon%22%3A%22487804615%22%2C%22road-type%22%3A%22default%22%2C%22lat%22%3A%22124923971%22%7D",
+    "pass": 3
+   },
+   {
+    "quote": "受託 加工 - 株式会社マツボー — 受託 加工 - 株式会社マツボー 株式会社マツボー https://www.matsubo.co.jp > 製品",
+    "url": "https://www.matsubo.co.jp/product/order/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.matsubo.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsubo.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsubo.co.jp/business/sanki/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsubo.co.jp/business/huntai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsubo.co.jp/business/support/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsubo.co.jp/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsubo.co.jp/product/pickup/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsubo.co.jp/product/support/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsubo.co.jp/product/order/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsubo.co.jp/news_category/event/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsubo.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsubo.co.jp/company/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsubo.co.jp/company/policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsubo.co.jp/company/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsubo.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsubo.co.jp/company/access/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsubo.co.jp/news/%E7%AC%AC67%E5%9B%9E%E9%9B%BB%E6%B1%A0%E8%A8%8E%E8%AB%96%E4%BC%9A/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsubo.co.jp/news/%E5%9B%BD%E9%9A%9B%E7%B2%89%E4%BD%93%E5%B7%A5%E6%A5%AD%E5%B1%95%EF%BC%92%EF%BC%90%EF%BC%92%EF%BC%96/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsubo.co.jp/product/ppt-pi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsubo.co.jp/product/ppt-taylo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsubo.co.jp/product/jasta/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsubo.co.jp/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsubo.co.jp/product/a-rm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsubo.co.jp/product/ez-blister/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsubo.co.jp/product/anhydro-sds/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsubo.co.jp/product/pickup/pickup_02/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsubo.co.jp/news/%E7%AC%AC67%E5%9B%9E%E9%9B%BB%E6%B1%A0%E8%A8%8E%E8%AB%96%E4%BC%9A/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsubo.co.jp/news/%E5%9B%BD%E9%9A%9B%E7%B2%89%E4%BD%93%E5%B7%A5%E6%A5%AD%E5%B1%95%EF%BC%92%EF%BC%90%EF%BC%92%EF%BC%96/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.matsubo.co.jp/cms/wp-content/themes/matsubo/img/company/history/img_main.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://metoree.com/companies/16013/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/163310",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ptj.jiho.jp/product/156481/company/148404?type=product&page=4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pr.mono.ipros.com/matsubo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pr.mono.ipros.com/matsubo/product/detail/2000546140/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dbk.jp/%E3%80%90%E3%83%9E%E3%83%84%E3%83%9C%E3%83%BC%E3%80%91%E3%83%AC%E3%83%BC%E3%83%87%E3%82%A3%E3%82%B2%E3%83%9F%E3%82%AD%E3%82%B5%E3%83%BC/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "マツボー",
+   "results": [
+    "https://www.matsubo.co.jp/",
+    "https://appie.or.jp/member_company/%E3%83%9E%E3%83%84%E3%83%9C%E3%83%BC/",
+    "https://pr.mono.ipros.com/matsubo/",
+    "https://sharelab.jp/company/matsubo/",
+    "https://www.wsew.jp/autumn/ja-jp/search/2026sep0909/directory/directory-details.matsubo%20corporation.org-067fb5f2-967e-432d-a7c5-cb51fbb0e314.html",
+    "https://metoree.com/companies/16013/",
+    "https://ja.wikipedia.org/wiki/マンボー_(インターネットカフェ)",
+    "https://www.matsubo.co.jp/company/about/",
+    "https://compalyze.co.jp/company/6010401075221",
+    "https://keisin.biz/00-022645/"
+   ]
+  },
+  {
+   "query": "マツボー 代理店 契約",
+   "results": [
+    "https://www.matsubo.co.jp/news/enogia/",
+    "https://metoree.com/companies/16013/distributors/",
+    "https://www.nikkan.co.jp/articles/view/163310",
+    "https://baseconnect.in/companies/167de278-72b8-4f3b-a48b-4fbed3adf805",
+    "https://techmation.co.jp/news/news_2019/20190425.html",
+    "https://pr.mono.ipros.com/matsubo/information/",
+    "https://compalyze.co.jp/company/6010401075221",
+    "https://metoree.com/companies/16013/",
+    "https://www.summitpharma.co.jp/japanese/service/alliance/topics/spi_20200601.pdf",
+    "https://metoree.com/companies/distributors-relationships/"
+   ]
+  },
+  {
+   "query": "マツボー 導入事例",
+   "results": [
+    "https://www.matsubo.co.jp/product/prevent/",
+    "https://ptj.jiho.jp/product/156481/company/148404?type=product&page=4",
+    "https://pr.mono.ipros.com/matsubo/",
+    "https://appie.or.jp/member_company/%E3%83%9E%E3%83%84%E3%83%9C%E3%83%BC/",
+    "https://experience.arcgis.com/experience/4e38619fc06d4c169e76c46bf18e937b/page/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B%E5%8B%95%E7%94%BB",
+    "https://www.kobelcosys.co.jp/casestudies/",
+    "https://www.chuokiko.co.jp/business/loedige.html",
+    "https://solution.i3-digital.com/casestudies",
+    "https://www.japantappi.org/supporting-member-introduction/matsubo/",
+    "https://agri.mynavi.jp/company/matsubo/"
+   ]
+  },
+  {
+   "query": "マツボー 価格 OR 料金",
+   "results": [
+    "https://www.matsubo.co.jp/news_category/bewproduct/page/11/",
+    "https://pr.mono.ipros.com/matsubo/product/detail/2000546140/",
+    "https://dbk.jp/%E3%80%90%E3%83%9E%E3%83%84%E3%83%9C%E3%83%BC%E3%80%91%E3%83%AC%E3%83%BC%E3%83%87%E3%82%A3%E3%82%B2%E3%83%9F%E3%82%AD%E3%82%B5%E3%83%BC/",
+    "https://sharelab.jp/company/matsubo/",
+    "https://www.navitime.co.jp/taxi/result/?start=%7B%22node%22%3A%2200008484%22%2C%22name%22%3A%22%E6%9C%AC%E7%94%BA%22%2C%22lon%22%3A%22487802341%22%2C%22road-type%22%3A%22default%22%2C%22lat%22%3A%22124860912%22%7D&goal=%7B%22spot%22%3A%2200011-060336037%22%2C%22name%22%3A%22%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9E%E3%83%84%E3%83%9C%E3%83%BC%E5%A4%A7%E9%98%AA%E6%94%AF%E7%A4%BE%22%2C%22lon%22%3A%22487804615%22%2C%22road-type%22%3A%22default%22%2C%22lat%22%3A%22124923971%22%7D",
+    "https://www.amazon.co.jp/%E3%83%9E%E3%83%84%E3%83%9C%E3%81%AE%E4%B8%80%E6%9E%9A%E7%9B%AE-%E6%9D%BE%E5%9D%8A%E6%A0%97/dp/B075YM56KS",
+    "https://www.matsubo.co.jp/product/file207-html/",
+    "https://pr.mono.ipros.com/matsubo/product/detail/2000849833/",
+    "https://www.matsuo-gr.co.jp/pkobo_news/upload/9-0.pdf",
+    "https://pr.mono.ipros.com/matsubo/product/detail/2000298521/"
+   ]
+  },
+  {
+   "query": "マツボー 受託 造形",
+   "results": [
+    "https://mono.ipros.com/cg1/%E9%80%A0%E5%BD%A2%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "https://www.matsubo.co.jp/product/order/",
+    "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "https://www.lumex-matsuura.com/japan/contracted",
+    "https://www.tpc.toray/technology/additive-print/",
+    "https://jampt.jp/",
+    "https://www.sk-fine.co.jp/consignment/",
+    "https://www.hotty.co.jp/3d_service/consignment/",
+    "https://3dprinter.co.jp/product/uam3d/",
+    "https://pr.mono.ipros.com/matsubo/product/category/7325/"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式28頁／PDF・画像1件／外部8頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式28頁／PDF・画像1件／外部8頁・検索5回）",
+  "事業内容": "記載なし（3回確認済み：公式28頁／PDF・画像1件／外部8頁・検索5回）",
+  "取引先": "記載なし（3回確認済み：公式28頁／PDF・画像1件／外部8頁・検索5回）"
+ }
+}

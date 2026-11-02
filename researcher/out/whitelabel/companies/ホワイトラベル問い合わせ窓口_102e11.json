@@ -1,0 +1,892 @@
+{
+ "name": "ホワイトラベル問い合わせ窓口",
+ "en": "white label help desk software",
+ "aliases": [
+  "white-label helpdesk",
+  "white label customer support software",
+  "white label ticketing"
+ ],
+ "context": "サポート",
+ "kind": "market",
+ "researched_at": "2026-11-02T12:16:23.141914+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "For the fifth year in a row, ScienceSoft is featured among the best outsourcing service providers in IAOP’s Global Outsourcing 100 list.",
+    "url": "https://www.scnsoft.com/it-operations/help-desk/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Client review",
+    "url": "https://www.scnsoft.com/it-operations/help-desk/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "top help desk outsourcing providers",
+    "url": "https://www.scnsoft.com/it-operations/help-desk/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "SOC cost vs building an in-house SOC",
+    "url": "https://singlepointoc.com/services/white-label-help-desk-services/",
+    "pass": 3
+   },
+   {
+    "quote": "In-house vs outsourced help desk differences",
+    "url": "https://singlepointoc.com/services/white-label-help-desk-services/",
+    "pass": 3
+   },
+   {
+    "quote": "Cost of running an MSP internally vs outsourcing",
+    "url": "https://singlepointoc.com/services/white-label-help-desk-services/",
+    "pass": 3
+   },
+   {
+    "quote": "Help desk cost vs hiring internal staff",
+    "url": "https://singlepointoc.com/services/white-label-help-desk-services/",
+    "pass": 3
+   },
+   {
+    "quote": "Help desk vs NOC",
+    "url": "https://singlepointoc.com/services/white-label-help-desk-services/",
+    "pass": 3
+   },
+   {
+    "quote": "Help desk vs service desk",
+    "url": "https://singlepointoc.com/services/white-label-help-desk-services/",
+    "pass": 3
+   },
+   {
+    "quote": "IT outsourcing vs staff augmentation",
+    "url": "https://singlepointoc.com/services/white-label-help-desk-services/",
+    "pass": 3
+   },
+   {
+    "quote": "Managed IT vs help desk services",
+    "url": "https://singlepointoc.com/services/white-label-help-desk-services/",
+    "pass": 3
+   },
+   {
+    "quote": "MSP vs MSSP",
+    "url": "https://singlepointoc.com/services/white-label-help-desk-services/",
+    "pass": 3
+   },
+   {
+    "quote": "Outsourced IT vs in-house IT",
+    "url": "https://singlepointoc.com/services/white-label-help-desk-services/",
+    "pass": 3
+   },
+   {
+    "quote": "SOC vs MDR vs MSSP",
+    "url": "https://singlepointoc.com/services/white-label-help-desk-services/",
+    "pass": 3
+   },
+   {
+    "quote": "SOC vs NOC",
+    "url": "https://singlepointoc.com/services/white-label-help-desk-services/",
+    "pass": 3
+   },
+   {
+    "quote": "SOC vs SIEM vs XDR",
+    "url": "https://singlepointoc.com/services/white-label-help-desk-services/",
+    "pass": 3
+   },
+   {
+    "quote": "SOCaaS vs in-house SOC",
+    "url": "https://singlepointoc.com/services/white-label-help-desk-services/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label SOC vs MSSP",
+    "url": "https://singlepointoc.com/services/white-label-help-desk-services/",
+    "pass": 3
+   },
+   {
+    "quote": "Top White-Label NOC/SOC Providers",
+    "url": "https://itsecops.cloud/white-label-helpdesk-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Licence Recommender (E3 vs E5, Business, Google)",
+    "url": "https://itsecops.cloud/white-label-helpdesk-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Sophos vs SentinelOne vs CrowdStrike",
+    "url": "https://itsecops.cloud/white-label-helpdesk-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Backup: Veeam vs Acronis vs Datto",
+    "url": "https://itsecops.cloud/white-label-helpdesk-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "top white-label NOC and SOC providers",
+    "url": "https://itsecops.cloud/white-label-helpdesk-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "$3 to $8 per end user per month at typical 2026 partner rates, depending on coverage hours, voice vs ticket-only, and volume.",
+    "url": "https://itsecops.cloud/white-label-helpdesk-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Top white-label NOC and SOC providers",
+    "url": "https://itsecops.cloud/white-label-helpdesk-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Veeam vs Acronis vs Datto",
+    "url": "https://itsecops.cloud/white-label-helpdesk-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Top MDR providers",
+    "url": "https://itsecops.cloud/white-label-helpdesk-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Defenovate provides fully white-label IT Helpdesk services for Managed Service Providers, delivering Tier 1 and Tier 2 support through offshore, nearshore, and hybrid delivery models. We operate invisibly under your brand, using your tools, processes, and SLAs to support your end users 24/7/365.",
+    "url": "https://defenovate.com/white-label-help-desk/",
+    "pass": 3
+   },
+   {
+    "quote": "We follow documented SOPs, QA ticket reviews, performance metrics, and regular MSP feedback loops to maintain service consistency.",
+    "url": "https://defenovate.com/white-label-help-desk/",
+    "pass": 3
+   },
+   {
+    "quote": "In-House vs. Outsourced Support Desk for MSPs",
+    "url": "https://flexisit.com/24x7-help-desk.html",
+    "pass": 3
+   },
+   {
+    "quote": "Eliminate recruiting, training, benefits, and turnover costs. Reduce help desk costs by 40% compared to in-house teams.",
+    "url": "https://flexisit.com/24x7-help-desk.html",
+    "pass": 3
+   },
+   {
+    "quote": "Kaseya VSA",
+    "url": "https://flexisit.com/24x7-help-desk.html",
+    "pass": 3
+   },
+   {
+    "quote": "We follow ITIL processes with clearly defined SLAs, provide weekly performance reports, and conduct regular quality reviews. Every engineer is trained on your specific client environments and service standards.",
+    "url": "https://flexisit.com/24x7-help-desk.html",
+    "pass": 3
+   },
+   {
+    "quote": "Managed Service Providers (MSPs) are under constant pressure to deliver high-quality, responsive support while keeping operational costs in check.",
+    "url": "https://flexisit.com/24x7-help-desk.html",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "White Label Help Desk Support Services - ScienceSoft",
+    "url": "https://www.scnsoft.com/it-operations/help-desk/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Help Desk",
+    "url": "https://www.scnsoft.com/it-operations/help-desk/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Benefits of white label help desk",
+    "url": "https://www.scnsoft.com/it-operations/help-desk/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "White label help desk is a type of IT support where incidents and user requests are",
+    "url": "https://www.scnsoft.com/it-operations/help-desk/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "White label help desk services by ScienceSoft are distinguished by quick integration into your processes and a good understanding of entrusted apps and IT components to keep users satisfied and enhance your positioning as a reliable service provider or a product vendor.",
+    "url": "https://www.scnsoft.com/it-operations/help-desk/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "ScienceSoft's White-Label Tech Support Services",
+    "url": "https://www.scnsoft.com/it-operations/help-desk/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "White label help desk for MSP",
+    "url": "https://www.scnsoft.com/it-operations/help-desk/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "White label help desk for a product company",
+    "url": "https://www.scnsoft.com/it-operations/help-desk/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "alongside human support. Working under your brand, it will be",
+    "url": "https://www.scnsoft.com/it-operations/help-desk/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "24/7 White-Label L1 Support for Delap LLP",
+    "url": "https://www.scnsoft.com/it-operations/help-desk/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "For nine months, ScienceSoft provided white-label L1 help desk services to Delap LLP, an established US financial services firm and MSP. By promptly resolving 60% of all the tickets from five of Delap's clients with a 7-minute FTR, we freed up its in-house L2 and L3 support teams.",
+    "url": "https://www.scnsoft.com/it-operations/help-desk/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label Help Desk for MSP Decreases Internal Support Workload by Over 80%",
+    "url": "https://www.scnsoft.com/it-operations/help-desk/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label L1 Help Desk to Ensure After-Hours Support",
+    "url": "https://www.scnsoft.com/it-operations/help-desk/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label Help Desk for a Managed Service Provider",
+    "url": "https://www.scnsoft.com/it-operations/help-desk/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "For over a year, ScienceSoft delivered white label Tier 1 help desk services, helping a US-based managed IT services company reach and maintain L1 issue resolution rate at >95%.",
+    "url": "https://www.scnsoft.com/it-operations/help-desk/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Help Desk Services | Private Label Help Desk",
+    "url": "https://singlepointoc.com/services/white-label-help-desk-services/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Managed IT Services",
+    "url": "https://singlepointoc.com/services/white-label-help-desk-services/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label SOC Services",
+    "url": "https://singlepointoc.com/services/white-label-help-desk-services/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Help Desk Services",
+    "url": "https://singlepointoc.com/services/white-label-help-desk-services/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label SOC Overview",
+    "url": "https://singlepointoc.com/services/white-label-help-desk-services/",
+    "pass": 3
+   },
+   {
+    "quote": "What is a white-label SOC?",
+    "url": "https://singlepointoc.com/services/white-label-help-desk-services/",
+    "pass": 3
+   },
+   {
+    "quote": "How does a white-label SOC work?",
+    "url": "https://singlepointoc.com/services/white-label-help-desk-services/",
+    "pass": 3
+   },
+   {
+    "quote": "How does a white-label SOC compare to MDR?",
+    "url": "https://singlepointoc.com/services/white-label-help-desk-services/",
+    "pass": 3
+   },
+   {
+    "quote": "When should MSPs use a white-label SOC?",
+    "url": "https://singlepointoc.com/services/white-label-help-desk-services/",
+    "pass": 3
+   },
+   {
+    "quote": "What problems does a white-label SOC solve?",
+    "url": "https://singlepointoc.com/services/white-label-help-desk-services/",
+    "pass": 3
+   },
+   {
+    "quote": "How much does a white-label SOC cost?",
+    "url": "https://singlepointoc.com/services/white-label-help-desk-services/",
+    "pass": 3
+   },
+   {
+    "quote": "What factors influence white-label SOC pricing for MSPs?",
+    "url": "https://singlepointoc.com/services/white-label-help-desk-services/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Help Desk Services Overview",
+    "url": "https://singlepointoc.com/services/white-label-help-desk-services/",
+    "pass": 3
+   },
+   {
+    "quote": "What is a White-label Help Desk?",
+    "url": "https://singlepointoc.com/services/white-label-help-desk-services/",
+    "pass": 3
+   },
+   {
+    "quote": "How do you choose a white-label help desk provider?",
+    "url": "https://singlepointoc.com/services/white-label-help-desk-services/",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label Help Desk Pricing 2026: $3-8 per User for MSPs",
+    "url": "https://itsecops.cloud/white-label-helpdesk-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label MSP Support",
+    "url": "https://itsecops.cloud/white-label-helpdesk-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Top White-Label NOC/SOC Providers",
+    "url": "https://itsecops.cloud/white-label-helpdesk-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label Help Desk Pricing",
+    "url": "https://itsecops.cloud/white-label-helpdesk-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label Help Desk Pricing 2026: Per Ticket, Per User, Per Tech",
+    "url": "https://itsecops.cloud/white-label-helpdesk-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing guide · White-label for MSPs · Updated September 2026",
+    "url": "https://itsecops.cloud/white-label-helpdesk-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label help desk pricing in 2026 runs $10 to $20 per ticket, $3 to $8 per end user per month, or $1,800 to $3,500 per month for a dedicated technician working under your brand. Entry white-label NOC packages start around $1,500 to $2,500 per month. ITSecOps prices per user or per tech with 24/7 coverage, and your clients never see our name.",
+    "url": "https://itsecops.cloud/white-label-helpdesk-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "How is white-label help desk priced?",
+    "url": "https://itsecops.cloud/white-label-helpdesk-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label NOC add-on",
+    "url": "https://itsecops.cloud/white-label-helpdesk-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "What margin does an MSP make on white-label help desk?",
+    "url": "https://itsecops.cloud/white-label-helpdesk-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "MSPs typically bill end clients $15 to $45 per user per month for support while buying white-label helpdesk at $3 to $8 per user, so the help desk line runs at 60 to 80 percent gross margin before your account management time. The per-tech model works when a dedicated $1,800 to $3,500 engineer replaces a local hire costing 2 to 3 times that, fully loaded.",
+    "url": "https://itsecops.cloud/white-label-helpdesk-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "top white-label NOC and SOC providers",
+    "url": "https://itsecops.cloud/white-label-helpdesk-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Will a white-label partner poach your clients?",
+    "url": "https://itsecops.cloud/white-label-helpdesk-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "white-label device provisioning",
+    "url": "https://itsecops.cloud/white-label-helpdesk-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": ", one contract, one rate card, delivered under your brand. That is usually cheaper than assembling three vendors.",
+    "url": "https://itsecops.cloud/white-label-helpdesk-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Help Desk Support Services - Uvdesk",
+    "url": "https://www.uvdesk.com/en/blog/white-label-help-desk-support-services-uvdesk/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Help Desk Support Services – UVdesk",
+    "url": "https://www.uvdesk.com/en/blog/white-label-help-desk-support-services-uvdesk/",
+    "pass": 3
+   },
+   {
+    "quote": "By white labeling your apps to showcase your company, you can create a seamless customer experience.",
+    "url": "https://www.uvdesk.com/en/blog/white-label-help-desk-support-services-uvdesk/",
+    "pass": 3
+   },
+   {
+    "quote": "Turn your portal app into a white-labeled app, complete with all business",
+    "url": "https://www.uvdesk.com/en/blog/white-label-help-desk-support-services-uvdesk/",
+    "pass": 3
+   },
+   {
+    "quote": "You may fully edit forms to fit your logo, establish unique URLs, and even utilize your own domain as well as an online portal without scripting.",
+    "url": "https://www.uvdesk.com/en/blog/white-label-help-desk-support-services-uvdesk/",
+    "pass": 3
+   },
+   {
+    "quote": "What exactly is a white-label Helpdesk?",
+    "url": "https://www.uvdesk.com/en/blog/white-label-help-desk-support-services-uvdesk/",
+    "pass": 3
+   },
+   {
+    "quote": "The white-label functionality of UVdesk helpdesk lets you keep your brand identification across client-facing apps.",
+    "url": "https://www.uvdesk.com/en/blog/white-label-help-desk-support-services-uvdesk/",
+    "pass": 3
+   },
+   {
+    "quote": "Here, you can create your own brand by white-labeling helpdesk capabilities, with a helpdesk that supports the customer journey from sign-up to after-sales.",
+    "url": "https://www.uvdesk.com/en/blog/white-label-help-desk-support-services-uvdesk/",
+    "pass": 3
+   },
+   {
+    "quote": "Build a white-label helpdesk with best-in-class Branding, Crucial Features.",
+    "url": "https://www.uvdesk.com/en/blog/white-label-help-desk-support-services-uvdesk/",
+    "pass": 3
+   },
+   {
+    "quote": "to reflect your theme and give your users a memorable customer experience with UVdesk White label helpdesk.",
+    "url": "https://www.uvdesk.com/en/blog/white-label-help-desk-support-services-uvdesk/",
+    "pass": 3
+   },
+   {
+    "quote": "Benefits of White Label UVdesk Helpdesk Development",
+    "url": "https://www.uvdesk.com/en/blog/white-label-help-desk-support-services-uvdesk/",
+    "pass": 3
+   },
+   {
+    "quote": "and provide support to your customers with the White Label UVdesk helpdesk.",
+    "url": "https://www.uvdesk.com/en/blog/white-label-help-desk-support-services-uvdesk/",
+    "pass": 3
+   },
+   {
+    "quote": "to transform client posts and comments into support tickets for the White Label UVdesk helpdesk.",
+    "url": "https://www.uvdesk.com/en/blog/white-label-help-desk-support-services-uvdesk/",
+    "pass": 3
+   },
+   {
+    "quote": "Integrations that White Label",
+    "url": "https://www.uvdesk.com/en/blog/white-label-help-desk-support-services-uvdesk/",
+    "pass": 3
+   },
+   {
+    "quote": ". UVdesk White Label Helpdesk permits third-party integrations as well as integrations for merchants. It’s cloud-based, highly customizable, and as well as advanced.",
+    "url": "https://www.uvdesk.com/en/blog/white-label-help-desk-support-services-uvdesk/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "ScienceSoft has been handling 400 Tier 1 requests per month for the SaaS LMS used by 250+ aviation leaders globally. As a result, the Customer enhanced user eLearning experiences and consistently scores 92%+ in CSAT with support quality.",
+    "url": "https://www.scnsoft.com/it-operations/help-desk/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "ScienceSoft helps a managed IT services provider efficiently support its clients 24/7. Our team is responsible for after-hours L1 support under a service package of 100 tickets per month.",
+    "url": "https://www.scnsoft.com/it-operations/help-desk/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label Help Desk Pricing 2026: $3-8 per User for MSPs",
+    "url": "https://itsecops.cloud/white-label-helpdesk-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "MDR Pricing (2026)",
+    "url": "https://itsecops.cloud/white-label-helpdesk-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "EDR Pricing (2026)",
+    "url": "https://itsecops.cloud/white-label-helpdesk-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "SOC as a Service Pricing (2026)",
+    "url": "https://itsecops.cloud/white-label-helpdesk-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "SIEM Pricing (2026)",
+    "url": "https://itsecops.cloud/white-label-helpdesk-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label Help Desk Pricing 2026: Per Ticket, Per User, Per Tech",
+    "url": "https://itsecops.cloud/white-label-helpdesk-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing guide · White-label for MSPs · Updated September 2026",
+    "url": "https://itsecops.cloud/white-label-helpdesk-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label help desk pricing in 2026 runs $10 to $20 per ticket, $3 to $8 per end user per month, or $1,800 to $3,500 per month for a dedicated technician working under your brand. Entry white-label NOC packages start around $1,500 to $2,500 per month. ITSecOps prices per user or per tech with 24/7 coverage, and your clients never see our name.",
+    "url": "https://itsecops.cloud/white-label-helpdesk-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "$45K-65K + 30% benefits = $58K-85K",
+    "url": "https://flexisit.com/24x7-help-desk.html",
+    "pass": 3
+   },
+   {
+    "quote": "$3K-5K per tech annually",
+    "url": "https://flexisit.com/24x7-help-desk.html",
+    "pass": 3
+   },
+   {
+    "quote": "Training Costs $3,000–5,000 Per Tech",
+    "url": "https://flexisit.com/24x7-help-desk.html",
+    "pass": 3
+   },
+   {
+    "quote": "Just when they're productive, they leave for $5K more somewhere else. You're back to square one. Frequent turnover introduces ongoing instability, forcing MSPs to continuously rebuild instead of focusing on growth.",
+    "url": "https://flexisit.com/24x7-help-desk.html",
+    "pass": 3
+   },
+   {
+    "quote": "Nights, weekends, holidays—covering the clock costs $250K+ annually before you answer a single ticket. Without outsourced support or staff augmentation, maintaining reliable coverage across all hours becomes both costly and operationally risky.",
+    "url": "https://flexisit.com/24x7-help-desk.html",
+    "pass": 3
+   },
+   {
+    "quote": "Flexis offers three pricing models: per-user (ideal for 20-200 employee clients), incident-based (flexible pools allocated across clients), and dedicated engineer (full-time resource). Pricing varies based on model and volume. Contact us for custom pricing tailored to your MSP.",
+    "url": "https://flexisit.com/24x7-help-desk.html",
+    "pass": 3
+   }
+  ],
+  "使いやすさ": [
+   {
+    "quote": "within 15 minutes",
+    "url": "https://www.scnsoft.com/it-operations/help-desk/white-label",
+    "pass": 3
+   },
+   {
+    "quote": ", we train our staff to ensure a good understanding of your client environment and product. Our training activities include onboarding and support training programs for newcomers, regular training sessions and knowledge transfers among",
+    "url": "https://www.scnsoft.com/it-operations/help-desk/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "How does onboarding work for a new MSP?",
+    "url": "https://defenovate.com/white-label-help-desk/",
+    "pass": 3
+   },
+   {
+    "quote": "Onboarding typically takes 7–14 days and includes tool integration, SOP alignment, branding setup, escalation mapping, and pilot ticket validation before going live.",
+    "url": "https://defenovate.com/white-label-help-desk/",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label Help Desk in 2 Minutes",
+    "url": "https://flexisit.com/24x7-help-desk.html",
+    "pass": 3
+   },
+   {
+    "quote": "Our structured onboarding gets you operational in 2-4 weeks. We handle discovery, integration, and training — you focus on growing your business.",
+    "url": "https://flexisit.com/24x7-help-desk.html",
+    "pass": 3
+   },
+   {
+    "quote": "Operational in 2-4 weeks, not 60-90 days. Our structured onboarding gets you live fast without disrupting current operations.",
+    "url": "https://flexisit.com/24x7-help-desk.html",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "What margin does an MSP make on white-label help desk?",
+    "url": "https://itsecops.cloud/white-label-helpdesk-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "MSPs typically bill end clients $15 to $45 per user per month for support while buying white-label helpdesk at $3 to $8 per user, so the help desk line runs at 60 to 80 percent gross margin before your account management time. The per-tech model works when a dedicated $1,800 to $3,500 engineer replaces a local hire costing 2 to 3 times that, fully loaded.",
+    "url": "https://itsecops.cloud/white-label-helpdesk-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Scaling Your MSP Business & Increasing Margins With Helpdesk",
+    "url": "https://flexisit.com/24x7-help-desk.html",
+    "pass": 3
+   },
+   {
+    "quote": "Many MSPs find their margins thin and their ability to scale limited by resourcing challenges and the inability to react quickly to customer opportunities.",
+    "url": "https://flexisit.com/24x7-help-desk.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "White - Label Help Desk Pricing 2026: $3-8 per User for MSPs — White - Label Help Desk Pricing 2026: $3-8 per User for MSPs ITSecOps https://itsecops.cloud > white-label-he...",
+    "url": "https://itsecops.cloud/white-label-helpdesk-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "White - Label Help Desk Services for MSPs - Flexis IT — White - Label Help Desk Services for MSPs - Flexis IT Flexis IT https://flexisit.com > 24x7-help-desk",
+    "url": "https://flexisit.com/24x7-help-desk.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.alloysoftware.com/blog/best-help-desk-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/helpdesk/comments/1sh3c00/help_desk_software_recommendations_in_2026/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.intercom.com/learning-center/best-help-desk-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xurrent.com/blog/best-help-desk-solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fixify.com/blog/best-help-desk-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scnsoft.com/it-operations/help-desk/white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://singlepointoc.com/services/white-label-help-desk-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/msp/comments/ei4z17/white_label_help_desk/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.appdirect.com/platform/services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.infrassist.com/blog/top-white-label-managed-it-service-providers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.helpdesk.com/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://itsecops.cloud/white-label-helpdesk-pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://useresponse.com/blog/10-best-on-premise-help-desk-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://helply.com/blog/helpdesk-ticketing-systems-small-business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://help-desk-migration.com/best-free-help-desk-software-reviews-features-pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/white-label-business-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.uvdesk.com/en/blog/white-label-help-desk-support-services-uvdesk/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://simvoly.com/the-best-white-label-website-builder",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.domo.com/learn/article/the-benefits-of-using-white-labeled-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.invgate.com/help-desk-software-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://defenovate.com/white-label-help-desk/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://flexisit.com/24x7-help-desk.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.missioncontrolnoc.com/why-white-label-msp-is-the-future-of-it-support-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.whitelabelit.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.whitelabel-inc.com/privacy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.expediagroup.com/ja-jp/solutions/build-your-travel-experience/white-label-travel-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.whitelabel.jp/contact",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cosme-park.com/column/white-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsukaeru.net/blog/whitelabel-ja/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "best white label help desk software 2026",
+   "results": [
+    "https://www.alloysoftware.com/blog/best-help-desk-software/",
+    "https://www.reddit.com/r/helpdesk/comments/1sh3c00/help_desk_software_recommendations_in_2026/",
+    "https://www.intercom.com/learning-center/best-help-desk-software",
+    "https://www.xurrent.com/blog/best-help-desk-solutions",
+    "https://www.fixify.com/blog/best-help-desk-software",
+    "https://deskday.com/best-helpdesk-software-for-msps-it-teams/",
+    "https://www.enjo.ai/post/best-help-desk-software",
+    "https://www.console.com/blog/best-it-help-desk-software/",
+    "https://help-desk-migration.com/top-help-desk-software-solutions-for-it-companies/",
+    "https://toolradar.com/best/help-desk"
+   ]
+  },
+  {
+   "query": "white label help desk software reseller program agencies",
+   "results": [
+    "https://www.scnsoft.com/it-operations/help-desk/white-label",
+    "https://singlepointoc.com/services/white-label-help-desk-services/",
+    "https://www.reddit.com/r/msp/comments/ei4z17/white_label_help_desk/",
+    "https://www.appdirect.com/platform/services",
+    "https://www.infrassist.com/blog/top-white-label-managed-it-service-providers/",
+    "https://defenovate.com/white-label-help-desk/",
+    "https://community.spiceworks.com/t/outsourced-white-label-it-helpdesks-continuum-etc-thoughts/486028",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://blogs.flexisit.com/white-label-help-desk-done-right-avoiding-the-mistakes-that-damage-your-brand/",
+    "https://buildfire.com/white-label-software-services-resell-make-money/"
+   ]
+  },
+  {
+   "query": "white label help desk software free trial pricing",
+   "results": [
+    "https://www.helpdesk.com/pricing/",
+    "https://itsecops.cloud/white-label-helpdesk-pricing/",
+    "https://useresponse.com/blog/10-best-on-premise-help-desk-software/",
+    "https://helply.com/blog/helpdesk-ticketing-systems-small-business",
+    "https://help-desk-migration.com/best-free-help-desk-software-reviews-features-pricing/",
+    "https://www.spiceworks.com/free-cloud-help-desk-software/",
+    "https://www.dragapp.com/blog/free-help-desk-software/",
+    "https://blog.invgate.com/on-premise-help-desk-software",
+    "https://www.getmacha.com/blog/best-free-help-desk-software",
+    "https://www.spiceworks.com/free-cloud-help-desk-software/pricing/"
+   ]
+  },
+  {
+   "query": "white label help desk software rebrand your logo custom domain",
+   "results": [
+    "https://suitedash.com/white-label-business-software/",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://www.uvdesk.com/en/blog/white-label-help-desk-support-services-uvdesk/",
+    "https://simvoly.com/the-best-white-label-website-builder",
+    "https://www.domo.com/learn/article/the-benefits-of-using-white-labeled-software",
+    "https://www.siptrunk.com/blog/exploring-white-label-managed-it-services-a-comprehensive-overview/",
+    "https://www.ituonline.com/blogs/best-white-label-services-2/",
+    "https://www.personizely.net/blog/white-label-saas",
+    "https://leadheed.com/blog/white-label-crm-software/",
+    "https://www.insiyon.com/services/white-label-products"
+   ]
+  },
+  {
+   "query": "white label help desk software Japan Japanese",
+   "results": [
+    "https://blog.invgate.com/help-desk-software-japan",
+    "https://defenovate.com/white-label-help-desk/",
+    "https://flexisit.com/24x7-help-desk.html",
+    "https://www.missioncontrolnoc.com/why-white-label-msp-is-the-future-of-it-support-services/",
+    "https://www.whitelabelit.com/",
+    "https://www.fideltech.com/remote-it-support-japan/",
+    "https://edamamejapan.com/whitelabel-japan-marketing-for-agencies/",
+    "https://www.salesforge.ai/blog/best-outbound-sales-agencies-in-japan",
+    "https://frontierline.co.jp/en/partners/",
+    "https://sourceforge.net/software/help-desk/japan/"
+   ]
+  },
+  {
+   "query": "ホワイトラベル問い合わせ窓口 日本",
+   "results": [
+    "https://www.whitelabel-inc.com/privacy",
+    "https://partner.expediagroup.com/ja-jp/solutions/build-your-travel-experience/white-label-travel-platform",
+    "https://www.whitelabel.jp/contact",
+    "https://www.cosme-park.com/column/white-label/",
+    "https://www.tsukaeru.net/blog/whitelabel-ja/",
+    "https://payproglobal.com/ja/%E5%9B%9E%E7%AD%94/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%AC%E3%83%BC%E3%83%99%E3%83%ABsaas%E3%81%A8%E3%81%AF/",
+    "https://www.jamplatform.com/jfm/service/fund-white-label",
+    "https://www.yamada-seiyaku.com/blog/030",
+    "https://www.shopify.com/jp/blog/white-label",
+    "https://www.whitelabel-inc.com/contact"
+   ]
+  }
+ ],
+ "missing": {
+  "無料体験・貸出": "記載なし（読んだ30頁・検索6回）",
+  "日本対応": "記載なし（読んだ30頁・検索6回）"
+ }
+}

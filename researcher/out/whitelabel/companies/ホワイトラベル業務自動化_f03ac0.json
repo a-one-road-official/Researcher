@@ -1,0 +1,975 @@
+{
+ "name": "ホワイトラベル業務自動化",
+ "en": "white label workflow automation",
+ "aliases": [
+  "white-label automation platform",
+  "white label Zapier alternative",
+  "white label integration platform"
+ ],
+ "context": "自動化",
+ "kind": "market",
+ "researched_at": "2026-11-02T12:15:46.455871+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "📖 In Depth Reviews",
+    "url": "https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "We independently review every app we recommend We independently review every app we recommend",
+    "url": "https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Interface setup can feel dense compared with narrower tools",
+    "url": "https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "targets agencies and service providers delivering automation to larger, more complex clients. It is an enterprise integration and automation platform that can be embedded into a customer-facing product, allowing you to offer integrations and workflows without sending clients to a separate automation vendor interface.",
+    "url": "https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "GoHighLevel alternatives",
+    "url": "https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Many platforms support some form of resale, but the commercial model differs. HighLevel is built for SaaS resale, while embedded platforms such as viaSocket, n8n Embed, and Workato Embedded are better suited to packaging automation into a managed service or proprietary product. Review license terms, client-seat rules, and usage charges before setting your own pricing.",
+    "url": "https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "When a White-Label Platform Is the Better Fit",
+    "url": "https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust",
+    "pass": 3
+   },
+   {
+    "quote": "📖 In Depth Reviews",
+    "url": "https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust",
+    "pass": 3
+   },
+   {
+    "quote": "We independently review every app we recommend We independently review every app we recommend",
+    "url": "https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust",
+    "pass": 3
+   },
+   {
+    "quote": "9 Best Zapier Alternatives for Smarter Automation",
+    "url": "https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust",
+    "pass": 3
+   },
+   {
+    "quote": "7 Best ViaSocket Alternatives for Agencies",
+    "url": "https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust",
+    "pass": 3
+   },
+   {
+    "quote": "n8n vs Zapier vs Integromat: 7 Best Picks",
+    "url": "https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust",
+    "pass": 3
+   },
+   {
+    "quote": "Embedded & Software Providers",
+    "url": "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "Your engineering team excels at your core product features. Integration platform providers specialize in connecting applications, handling data transformation, and managing API changes. White label integration divides the work so each team focuses on what they do best.",
+    "url": "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "You need an integration partner with the technical infrastructure and reputation you can rely on. Focus on these three areas when evaluating possible white label partners:",
+    "url": "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "pass": 3
+   },
+   {
+    "quote": ". Review their data transformation capabilities, workflow automation features, and monitoring tools.",
+    "url": "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "Consider their customization options to determine how well the platform can fit your brand and user experience. Identify providers that allow UI customization and flexible API access.",
+    "url": "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "Review the provider’s uptime statistics, security certifications, and disaster recovery procedures. Check their support response times, documentation quality, and training resources. Ask about their product roadmap and update frequency.",
+    "url": "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "Evaluate their technical support model. Some providers offer direct support to your customers, while others require you to handle all customer inquiries. Choose the model that fits your support capabilities and customer expectations.",
+    "url": "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "Analyze pricing models carefully. Some providers charge per integration, per user, per data volume. Others use flat monthly fees or revenue-sharing arrangements. Calculate total costs based on your expected usage patterns and customer growth projections.",
+    "url": "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "Review contract terms, including termination clauses, data ownership rights, and liability limitations. Pay attention to restrictions on competitive usage or geographic limitations.",
+    "url": "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "Most white label providers offer",
+    "url": "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "iPaaS vs. ELT: What Do They Offer and How Are They Different?",
+    "url": "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "Boomi vs Mulesoft",
+    "url": "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "Boomi vs Workato",
+    "url": "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "Boomi vs Fivetran",
+    "url": "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "G2 Reviews",
+    "url": "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "Best White-Label Automation Platforms for Agencies to Grow Without More Headcount | Viasocket",
+    "url": "https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "10 White-Label Automation Platforms for Agencies",
+    "url": "https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Which platforms help agencies scale client delivery without adding more staff? This roundup breaks down the best options for white-label automation, so I can compare fit, features, and tradeoffs fast.",
+    "url": "https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "White-label depth",
+    "url": "https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "What I Look For in a White-Label Automation Platform",
+    "url": "https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "7 Best White-Label Automation Platforms for Agencies",
+    "url": "https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "White-label packaging and commercial controls should be confirmed for your rollout model",
+    "url": "https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "is designed for agencies that want to resell a broad digital-business platform, particularly to local businesses. Its white-label client experience, marketplace, CRM-oriented tools, reputation products, and sales enablement make it more of a channel platform than a pure workflow builder. You can present a polished business app under your agency brand and bundle services around it.",
+    "url": "https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Mature white-label portal and marketplace model for agencies",
+    "url": "https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "9 White-Label Automation Solutions That Scale Agencies",
+    "url": "https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "combines a white-label client portal with CRM, project management, invoicing, file sharing, forms, and workflow-oriented tools. It is a practical choice when your agency’s biggest friction is not lead automation but the client delivery experience: scattered approvals, email threads, onboarding documents, tasks, and billing.",
+    "url": "https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Extensive white-label and client-portal capabilities",
+    "url": "https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "focuses on secure, white-label client portals for agencies and professional service firms. It gives you branded workspaces for files, conversations, tasks, forms, and collaboration, with the permission controls needed when clients, partners, and internal teams should not all see the same information.",
+    "url": "https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Deep white-label client portal and secure collaboration features",
+    "url": "https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Common Mistakes Agencies Make When Choosing White-Label Automation",
+    "url": "https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Most-Recommended White-Label Automation Platforms for Agencies | Viasocket",
+    "url": "https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust",
+    "pass": 3
+   },
+   {
+    "quote": "7 White-Label Automation Platforms Agencies Trust",
+    "url": "https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust",
+    "pass": 3
+   },
+   {
+    "quote": "Which white-label automation platform actually fits an agency’s client delivery model, pricing, and scalability needs?",
+    "url": "https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label Depth",
+    "url": "https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust",
+    "pass": 3
+   },
+   {
+    "quote": "Custom quote for white-label",
+    "url": "https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust",
+    "pass": 3
+   },
+   {
+    "quote": "Very deep with self-hosting or OEM arrangements",
+    "url": "https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust",
+    "pass": 3
+   },
+   {
+    "quote": "Native plans are not a ready-made white-label client portal",
+    "url": "https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust",
+    "pass": 3
+   },
+   {
+    "quote": "Deep embedded and OEM-oriented delivery",
+    "url": "https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust",
+    "pass": 3
+   },
+   {
+    "quote": "What White-Label Automation Means for Agencies",
+    "url": "https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust",
+    "pass": 3
+   },
+   {
+    "quote": "You are buying a faster route to a productized service. Instead of engineering workflow infrastructure, authentication, dashboards, and operational tooling from scratch, you package workflows, portals, and support under your own brand while the platform handles much of the underlying machinery.",
+    "url": "https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust",
+    "pass": 3
+   },
+   {
+    "quote": "When a White-Label Platform Is the Better Fit",
+    "url": "https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust",
+    "pass": 3
+   },
+   {
+    "quote": "White-label is worth the premium when you manage multiple client accounts, resell recurring automation services, or need branded dashboards and portals that reinforce your agency relationship. Standard automation is often enough for internal delivery work where clients never need to see or operate the platform.",
+    "url": "https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust",
+    "pass": 3
+   },
+   {
+    "quote": "White-label terms and pricing usually need a sales conversation",
+    "url": "https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust",
+    "pass": 3
+   },
+   {
+    "quote": "Full white-label treatment and mobile-app branding can involve higher-tier plans or add-ons",
+    "url": "https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust",
+    "pass": 3
+   },
+   {
+    "quote": "10 White-Label Automation Platforms for Agencies",
+    "url": "https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust",
+    "pass": 3
+   },
+   {
+    "quote": "White Label AI Automation Agency | Makeitfuture",
+    "url": "https://www.makeitfuture.com/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "White label AI automation for agencies",
+    "url": "https://www.makeitfuture.com/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "What does a white label AI automation partner do?",
+    "url": "https://www.makeitfuture.com/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Skip the six-month hiring process and the platform learning curve. Get instant access to over 20 certified experts specialising in every major automation and AI platform, ready to deliver solutions under your brand.",
+    "url": "https://www.makeitfuture.com/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "100% white-labelled to your brand",
+    "url": "https://www.makeitfuture.com/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "white label support team",
+    "url": "https://www.makeitfuture.com/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "can continue behind your brand.",
+    "url": "https://www.makeitfuture.com/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Our white label services",
+    "url": "https://www.makeitfuture.com/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "White label AI agents & solutions",
+    "url": "https://www.makeitfuture.com/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Document AI and intelligent processing, available under your brand name",
+    "url": "https://www.makeitfuture.com/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "White label workflow automation",
+    "url": "https://www.makeitfuture.com/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "White label CRM automation",
+    "url": "https://www.makeitfuture.com/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "HubSpot automation delivered under your brand",
+    "url": "https://www.makeitfuture.com/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "White label integrations & API development",
+    "url": "https://www.makeitfuture.com/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Connect any system your clients use. We build custom integrations, you deliver seamless solutions under your brand.",
+    "url": "https://www.makeitfuture.com/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Guide to White Label Integration for Enterprises",
+    "url": "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "White label integration solves this problem. You can offer pre-built connections through your interface without writing a single line of integration code. Your customers get the connected workflows they need. You avoid the cost and complexity of building integrations from scratch.",
+    "url": "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "This guide shows you what white label integration is, why companies use it, and how it gives software vendors a competitive advantage.",
+    "url": "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "What Is White Label Integration?",
+    "url": "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "White label integration embeds a third-party platform directly into your software’s interface. This differs from traditional",
+    "url": "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "pass": 3
+   },
+   {
+    "quote": ", where the original platform’s branding typically remains visible to end users. With white label connectivity, you have full control over customizing the licensed service’s branding and look and feel.",
+    "url": "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "Why White Label Integration Is Booming for Enterprises",
+    "url": "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "Building integrations in-house requires hefty upfront investments in specialized talent, infrastructure, plus ongoing maintenance. White label integration offers a different approach that solves these problems while delivering measurable business benefits, such as:",
+    "url": "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "Building integration capabilities from scratch can take months of development time. Pre-built connectors let you deploy white label integrations in days. This speed lets you respond quickly to",
+    "url": "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "Custom integration development requires hiring specialized developers, maintaining infrastructure, and providing ongoing technical support. For enterprise organizations with complex integration requirements, these costs can reach hundreds of thousands of dollars. White label platforms work on a subscription basis at a much lower cost.",
+    "url": "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "Your engineering team excels at your core product features. Integration platform providers specialize in connecting applications, handling data transformation, and managing API changes. White label integration divides the work so each team focuses on what they do best.",
+    "url": "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "Adding new integration endpoints yourself requires developer time for each connection. White label platforms often offer hundreds of pre-built connectors, letting you expand integration options without adding development resources.",
+    "url": "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "Common Features of White Label Integration",
+    "url": "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "Modern white label platforms provide the building blocks customers need to connect their software ecosystems. They enable organizations to offer sophisticated integration experiences without developing specialized expertise in API management, data transformation protocols, or workflow automation technologies that would otherwise require significant internal investment.",
+    "url": "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "Real-time and batch synchronization keep data consistent across connected systems. Additionally, some white-label integration companies offer bidirectional sync, ensuring that changes made in any application propagate to other systems according to your business rules. Customers set up sync patterns once, and data flows automatically.",
+    "url": "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "Higher-volume reseller budgets",
+    "url": "https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Top E-commerce Automation Stacks for Bigger Margins",
+    "url": "https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "is designed for agencies that want to resell a broad digital-business platform, particularly to local businesses. Its white-label client experience, marketplace, CRM-oriented tools, reputation products, and sales enablement make it more of a channel platform than a pure workflow builder. You can present a polished business app under your agency brand and bundle services around it.",
+    "url": "https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "9 Best Automation Platforms for Agencies to Protect Margins",
+    "url": "https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Can I resell a white-label automation platform to clients?",
+    "url": "https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "I looked for more than a logo-setting: meaningful branding control, credible client-facing delivery, automation breadth, onboarding effort, scalability, and support all mattered. The strongest choice depends on whether you are reselling a managed service, embedding automation in software, or handing clients a portal they can use themselves.",
+    "url": "https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust",
+    "pass": 3
+   },
+   {
+    "quote": "White-label is worth the premium when you manage multiple client accounts, resell recurring automation services, or need branded dashboards and portals that reinforce your agency relationship. Standard automation is often enough for internal delivery work where clients never need to see or operate the platform.",
+    "url": "https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust",
+    "pass": 3
+   },
+   {
+    "quote": "Top E-commerce Automation Stacks for Bigger Margins",
+    "url": "https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust",
+    "pass": 3
+   },
+   {
+    "quote": "Can I resell automation workflows to clients on a monthly retainer?",
+    "url": "https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust",
+    "pass": 3
+   },
+   {
+    "quote": "Chatbots and conversational AI ready to resell",
+    "url": "https://www.makeitfuture.com/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Business process automation ready to resell",
+    "url": "https://www.makeitfuture.com/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Salesforce process automation ready to resell",
+    "url": "https://www.makeitfuture.com/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Internal tools and dashboards ready to resell",
+    "url": "https://www.makeitfuture.com/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "A white label AI agency builds AI and automation solutions that other agencies resell under their own brand. Makeitfuture delivers white label AI agents, chatbots and automation services under your brand, so your clients only ever see your agency. You keep the client relationship and the pricing; we handle the build behind the scenes.",
+    "url": "https://www.makeitfuture.com/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Activate financial data to unlock margin discipline",
+    "url": "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "Join our collaborative partner program",
+    "url": "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "reselling",
+    "url": "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "and longer customer lifespans. They use more features, generate more support tickets (indicating active usage), and provide more referrals to potential customers.",
+    "url": "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "pass": 3
+   }
+  ],
+  "無料体験・貸出": [
+   {
+    "quote": "Start free trial",
+    "url": "https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Start free trial",
+    "url": "https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust",
+    "pass": 3
+   },
+   {
+    "quote": "Start free trial",
+    "url": "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "Start free 30-day trial",
+    "url": "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "Start Free Trial",
+    "url": "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "Many platforms support some form of resale, but the commercial model differs. HighLevel is built for SaaS resale, while embedded platforms such as viaSocket, n8n Embed, and Workato Embedded are better suited to packaging automation into a managed service or proprietary product. Review license terms, client-seat rules, and usage charges before setting your own pricing.",
+    "url": "https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "$97/month",
+    "url": "https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust",
+    "pass": 3
+   },
+   {
+    "quote": "$0 self-hosted",
+    "url": "https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust",
+    "pass": 3
+   },
+   {
+    "quote": "$9/month for Core, embedded pricing is custom",
+    "url": "https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust",
+    "pass": 3
+   },
+   {
+    "quote": "3. Develop Your Pricing Strategy",
+    "url": "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "pass": 3
+   }
+  ],
+  "使いやすさ": [
+   {
+    "quote": "Fast no-code client portals",
+    "url": "https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Before a platform represents your agency, assess whether branding, domains, emails, permissions, and client workspaces are truly controllable. Then test workflow depth, reporting, integrations, onboarding time, and the support burden your own team will inherit after launch.",
+    "url": "https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "combines a white-label client portal with CRM, project management, invoicing, file sharing, forms, and workflow-oriented tools. It is a practical choice when your agency’s biggest friction is not lead automation but the client delivery experience: scattered approvals, email threads, onboarding documents, tasks, and billing.",
+    "url": "https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "9 Best Client Onboarding Automation Tools for Agencies",
+    "url": "https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "7 Best Client Onboarding Automation Tools for Agencies",
+    "url": "https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "8 Best Agency Onboarding Automation Tools for Fast Kickoffs",
+    "url": "https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "10 Best Client Onboarding Automation Tools Without Coding",
+    "url": "https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Strong branded portal and no-code app-building experience",
+    "url": "https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Deeply custom app behavior can outgrow the no-code model",
+    "url": "https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "9 Best No-Code Platforms for SaaS Teams",
+    "url": "https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "9 Best No-Code Platforms to Build Fast Without Code",
+    "url": "https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "7 Best Tools for Client Onboarding Automation",
+    "url": "https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "A polished demo can hide weak client permissions, superficial branding, or hours of implementation work. Test a real client onboarding flow, required integrations, error handling, and day-two support before buying, then avoid paying for advanced features your team has no plan to sell or operate.",
+    "url": "https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "9 No-Code Automation Platforms to Cut Agency Costs Fast",
+    "url": "https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "I looked for more than a logo-setting: meaningful branding control, credible client-facing delivery, automation breadth, onboarding effort, scalability, and support all mattered. The strongest choice depends on whether you are reselling a managed service, embedding automation in software, or handing clients a portal they can use themselves.",
+    "url": "https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust",
+    "pass": 3
+   },
+   {
+    "quote": "Shortlist two platforms based on how visible your brand must be and how much implementation complexity your team can own. Run one real client workflow through each, including onboarding, permissions, error handling, and handoff, before turning either into a repeatable agency package.",
+    "url": "https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust",
+    "pass": 3
+   },
+   {
+    "quote": "Not always. Platforms such as HighLevel, viaSocket, Make, and Clappia can support no-code or low-code delivery, although reliable client operations still require process discipline. For self-hosted n8n, Pipedream Connect, or enterprise Workato programs, technical implementation and ongoing support are much more important.",
+    "url": "https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust",
+    "pass": 3
+   },
+   {
+    "quote": "No-code/low-code solutions (Bubble, FlutterFlow, Webflow)",
+    "url": "https://www.makeitfuture.com/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "#1 No-Code Company in EMEA 2024. AI Partner of the Year 2025. Make.com Platinum Partner. ISO 27001 certified. Experience from 500+ clients, now available as your white label team.",
+    "url": "https://www.makeitfuture.com/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Automate repetitive tasks with no-code",
+    "url": "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "Build no-code agents fast and win back time with pre-built agents",
+    "url": "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "Drag-and-drop",
+    "url": "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "allow customers to create custom business logic without coding. They can set triggers based on data changes, apply conditional logic, and transform data formats between applications. These workflows run automatically in the background, reducing manual work and human error.",
+    "url": "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "pass": 3
+   },
+   {
+    "quote": "Visual drag-and-drop interface allows customers to create custom workflows without extensive coding knowledge. Business users can build integrations while technical teams retain access to advanced customization capabilities.",
+    "url": "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "10 White - Label Automation Platforms for Agencies - viaSocket — 10 White - Label Automation Platforms for Agencies - viaSocket viaSocket https://viasocket.com > blog > 10-whi...",
+    "url": "https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "7 White - Label Automation Platforms Agencies Trust - viaSocket — 7 White - Label Automation Platforms Agencies Trust - viaSocket viaSocket https://viasocket.com > blog > 7-whit...",
+    "url": "https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wireflow.ai/blog/best-white-label-ai-saas-tools-in-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.banuba.com/blog/best-white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gitnux.org/best/white-label-marketing-automation-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sellful.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/SaaS/comments/1d3s9sd/recommendations_for_an_allinone_ai_saas_platform/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/white-label-voice-ai-with-free-trial",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/DigitalMarketing/comments/1qrsgey/built_a_whitelabel_tool_for_internal_business/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.whitelabeliq.com/workflow-automation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bigmailer.io/blog/best-white-label-marketing-tools/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/white-label-business-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hireghldeveloper.com/service/gohighlevel-white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://twominutereports.com/blog/white-label-marketing-tools",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://simvoly.com/the-best-white-label-website-builder",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://leadheed.com/blog/white-label-crm-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bcaqi.com/solutions/white-label-ai-delivery/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.workato.com/the-connector/white-label-integration/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pinkfish.ai/white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makeitfuture.com/white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://4dev.com/ja/white-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boomi.com/ja/blog/enterprise-guide-to-whitelabel-integration/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shareai.now/ja/%E3%83%96%E3%83%AD%E3%82%B0-2/%E8%A3%BD%E5%93%81/%E3%81%99%E3%81%B9%E3%81%A6%E3%81%AE%E8%A3%BD%E5%93%81/%E6%B4%9E%E5%AF%9F/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%ABai%E8%87%AA%E5%8B%95%E5%8C%96%E5%8F%8E%E7%9B%8A%E5%8C%96/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hyperlocalcloud.com/ja/product/white-label-business-management-software-solution",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.whitelabel-inc.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "best white label workflow automation 2026",
+   "results": [
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://www.wireflow.ai/blog/best-white-label-ai-saas-tools-in-2026",
+    "https://www.banuba.com/blog/best-white-label-software",
+    "https://gitnux.org/best/white-label-marketing-automation-software/",
+    "https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies",
+    "https://parallellabs.app/top-10-white-label-ai-platforms-compared-the-2025-guide-to-building-your-ai-business-without-code/",
+    "https://assembly.com/blog/white-label-software",
+    "https://pickaxe.co/post/white-label-ai-tools-for-agencies"
+   ]
+  },
+  {
+   "query": "white label workflow automation reseller program agencies",
+   "results": [
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.perspective.co/article/white-label-marketing-software",
+    "https://sellful.com/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://www.reddit.com/r/SaaS/comments/1d3s9sd/recommendations_for_an_allinone_ai_saas_platform/",
+    "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "https://synthflow.ai/blog/white-label-reseller",
+    "https://stammer.ai/post/best-white-label-ai-software",
+    "https://www.e2msolutions.com/ai-service-reseller-partner/"
+   ]
+  },
+  {
+   "query": "white label workflow automation free trial pricing",
+   "results": [
+    "https://viasocket.com/discovery/blog/qm3lm8/Automation%20Platforms/7-white-label-automation-platforms-agencies-trust",
+    "https://sellful.com/",
+    "https://trillet.ai/blogs/white-label-voice-ai-with-free-trial",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://www.reddit.com/r/DigitalMarketing/comments/1qrsgey/built_a_whitelabel_tool_for_internal_business/",
+    "https://www.whitelabeliq.com/workflow-automation/",
+    "https://www.youtube.com/watch?v=_j4Rr-Tl6xw",
+    "https://www.bigmailer.io/blog/best-white-label-marketing-tools/",
+    "https://pickaxe.co/post/white-label-ai-tools-for-agencies"
+   ]
+  },
+  {
+   "query": "white label workflow automation rebrand your logo custom domain",
+   "results": [
+    "https://suitedash.com/white-label-business-software/",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://hireghldeveloper.com/service/gohighlevel-white-label",
+    "https://twominutereports.com/blog/white-label-marketing-tools",
+    "https://simvoly.com/the-best-white-label-website-builder",
+    "https://leadheed.com/blog/white-label-crm-software/",
+    "https://www.reportingninja.com/blog/best-white-label-marketing-tools",
+    "https://stammer.ai/post/best-white-label-ai-software"
+   ]
+  },
+  {
+   "query": "white label workflow automation Japan Japanese",
+   "results": [
+    "https://bcaqi.com/solutions/white-label-ai-delivery/",
+    "https://www.whitelabeliq.com/workflow-automation/",
+    "https://www.workato.com/the-connector/white-label-integration/",
+    "https://www.pinkfish.ai/white-label",
+    "https://www.makeitfuture.com/white-label",
+    "https://boomi.com/blog/enterprise-guide-to-whitelabel-integration/",
+    "https://axeautomation.co/white-label-ai-agency",
+    "https://viasocket.com/discovery/blog/a4vcxh/10-white-label-automation-platforms-for-agencies",
+    "https://www.stayhypd.com/solutions/white-label-digital-agency-solutions"
+   ]
+  },
+  {
+   "query": "ホワイトラベル業務自動化 日本",
+   "results": [
+    "https://4dev.com/ja/white-label/",
+    "https://boomi.com/ja/blog/enterprise-guide-to-whitelabel-integration/",
+    "https://shareai.now/ja/%E3%83%96%E3%83%AD%E3%82%B0-2/%E8%A3%BD%E5%93%81/%E3%81%99%E3%81%B9%E3%81%A6%E3%81%AE%E8%A3%BD%E5%93%81/%E6%B4%9E%E5%AF%9F/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%A9%E3%83%99%E3%83%ABai%E8%87%AA%E5%8B%95%E5%8C%96%E5%8F%8E%E7%9B%8A%E5%8C%96/",
+    "https://hyperlocalcloud.com/ja/product/white-label-business-management-software-solution",
+    "https://www.whitelabel-inc.com/",
+    "https://payproglobal.com/ja/%E5%9B%9E%E7%AD%94/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%AC%E3%83%BC%E3%83%99%E3%83%ABsaas%E3%81%A8%E3%81%AF/",
+    "https://digital-shift.jp/flash_news/FN230331_6",
+    "https://www.ricoh.co.jp/solutions/list/routine-work-automation-pack",
+    "https://www.unite.ai/ja/best-white-label-ai-tools/"
+   ]
+  }
+ ],
+ "missing": {
+  "日本対応": "記載なし（読んだ30頁・検索6回）"
+ }
+}

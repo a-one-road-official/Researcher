@@ -1,0 +1,1328 @@
+{
+ "name": "サイバネットシステム株式会社",
+ "aliases": [],
+ "context": "/ Ansys（Synopsys傘下）Additive",
+ "researched_at": "2026-11-02T12:13:11.932961+00:00",
+ "official_url": "https://www.cybernet.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1985年04月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000501.000004714.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何をする": [
+   {
+    "quote": "最適設計支援ツール（プロセスインテグレーション）",
+    "url": "https://www.cybernet.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "設計者向けリアルタイム・シミュレーション",
+    "url": "https://www.cybernet.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "エレクトロニクス設計向け信頼性分析ソフトウェア",
+    "url": "https://www.cybernet.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "マルチフィジックス解析によるモータ設計支援ツール",
+    "url": "https://www.cybernet.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品レベルのケーブルハーネス設計/検証ソリューション",
+    "url": "https://www.cybernet.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "光学設計ソフトウェア",
+    "url": "https://www.cybernet.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "プロセス自動化・設計最適化ソリューション",
+    "url": "https://www.cybernet.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "最適設計支援ツール",
+    "url": "https://www.cybernet.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "磁気デバイスの設計支援",
+    "url": "https://www.cybernet.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "低消費電力ディスプレイ設計のためのソフトウェア",
+    "url": "https://www.cybernet.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "電子回路設計と電源解析を支援する回路シミュレータ",
+    "url": "https://www.cybernet.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "CAM編集・製造性を考慮した設計支援ツール",
+    "url": "https://www.cybernet.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "電気回路プリント基板設計者向け EMI対策ツール",
+    "url": "https://www.cybernet.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "VR設計レビュー支援システム",
+    "url": "https://www.cybernet.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "セキュリティ意識向上トレーニング／フィッシングシミュレーション・分析プラットフォーム",
+    "url": "https://www.cybernet.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "セミナー・イベント",
+    "url": "https://www.cybernet.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "セミナー・イベント トップへ",
+    "url": "https://www.cybernet.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "オンデマンドセミナー",
+    "url": "https://www.cybernet.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "セミナー・イベントトップ",
+    "url": "https://www.cybernet.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サイバネットでは、初心者向けからエキスパート向けまで、さまざまなセミナーを開催しています",
+    "url": "https://www.cybernet.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "近日開催予定のセミナー",
+    "url": "https://www.cybernet.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "最適設計支援ツール（プロセスインテグレーション）",
+    "url": "https://www.cybernet.co.jp/company/about/group/",
+    "pass": 1
+   },
+   {
+    "quote": "設計者向けリアルタイム・シミュレーション",
+    "url": "https://www.cybernet.co.jp/company/about/group/",
+    "pass": 1
+   },
+   {
+    "quote": "エレクトロニクス設計向け信頼性分析ソフトウェア",
+    "url": "https://www.cybernet.co.jp/company/about/group/",
+    "pass": 1
+   },
+   {
+    "quote": "マルチフィジックス解析によるモータ設計支援ツール",
+    "url": "https://www.cybernet.co.jp/company/about/group/",
+    "pass": 1
+   },
+   {
+    "quote": "製品レベルのケーブルハーネス設計/検証ソリューション",
+    "url": "https://www.cybernet.co.jp/company/about/group/",
+    "pass": 1
+   },
+   {
+    "quote": "光学設計ソフトウェア",
+    "url": "https://www.cybernet.co.jp/company/about/group/",
+    "pass": 1
+   },
+   {
+    "quote": "プロセス自動化・設計最適化ソリューション",
+    "url": "https://www.cybernet.co.jp/company/about/group/",
+    "pass": 1
+   },
+   {
+    "quote": "最適設計支援ツール",
+    "url": "https://www.cybernet.co.jp/company/about/group/",
+    "pass": 1
+   },
+   {
+    "quote": "磁気デバイスの設計支援",
+    "url": "https://www.cybernet.co.jp/company/about/group/",
+    "pass": 1
+   },
+   {
+    "quote": "低消費電力ディスプレイ設計のためのソフトウェア",
+    "url": "https://www.cybernet.co.jp/company/about/group/",
+    "pass": 1
+   },
+   {
+    "quote": "電子回路設計と電源解析を支援する回路シミュレータ",
+    "url": "https://www.cybernet.co.jp/company/about/group/",
+    "pass": 1
+   },
+   {
+    "quote": "CAM編集・製造性を考慮した設計支援ツール",
+    "url": "https://www.cybernet.co.jp/company/about/group/",
+    "pass": 1
+   },
+   {
+    "quote": "電気回路プリント基板設計者向け EMI対策ツール",
+    "url": "https://www.cybernet.co.jp/company/about/group/",
+    "pass": 1
+   },
+   {
+    "quote": "VR設計レビュー支援システム",
+    "url": "https://www.cybernet.co.jp/company/about/group/",
+    "pass": 1
+   },
+   {
+    "quote": "セキュリティ意識向上トレーニング／フィッシングシミュレーション・分析プラットフォーム",
+    "url": "https://www.cybernet.co.jp/company/about/group/",
+    "pass": 1
+   },
+   {
+    "quote": "セミナー・イベント",
+    "url": "https://www.cybernet.co.jp/company/about/group/",
+    "pass": 1
+   },
+   {
+    "quote": "セミナー・イベント トップへ",
+    "url": "https://www.cybernet.co.jp/company/about/group/",
+    "pass": 1
+   },
+   {
+    "quote": "オンデマンドセミナー",
+    "url": "https://www.cybernet.co.jp/company/about/group/",
+    "pass": 1
+   },
+   {
+    "quote": "セミナー・イベントトップ",
+    "url": "https://www.cybernet.co.jp/company/about/group/",
+    "pass": 1
+   },
+   {
+    "quote": "モデルベースシステムズエンジニアリングを活用したプロセス改革コンサルティング、モデル構築、トレーニングなどの受託サービスの提供、関連ソフトウェアの開発／販売",
+    "url": "https://www.cybernet.co.jp/company/about/group/",
+    "pass": 1
+   },
+   {
+    "quote": "サイバネットグループ 販売子会社",
+    "url": "https://www.cybernet.co.jp/company/about/group/",
+    "pass": 1
+   },
+   {
+    "quote": "中国の製造業、大学・政府の研究機関等へ各種ソフトウェア／ハードウェアの販売、技術サポート、コンサルティング、受託解析サービスなど、CAEのトータルソリューションを提供",
+    "url": "https://www.cybernet.co.jp/company/about/group/",
+    "pass": 1
+   },
+   {
+    "quote": "台湾の製造業、大学・政府の研究機関へ各種ソフトウェア／ハードウェアの販売、技術サポート、コンサルティング、受託解析サービスなど、CAEのトータルソリューションを提供",
+    "url": "https://www.cybernet.co.jp/company/about/group/",
+    "pass": 1
+   },
+   {
+    "quote": "ASEAN地域の製造業、大学・政府の研究機関へ各種ソフトウェアの販売、技術サポート、教育、コンサルティング、受託解析サービスなど、CAEのトータルソリューションを提供",
+    "url": "https://www.cybernet.co.jp/company/about/group/",
+    "pass": 1
+   },
+   {
+    "quote": "」をはじめ、公差解析に関するさまざまなソリューションの開発／販売およびコンサルティングサービスを提供",
+    "url": "https://www.cybernet.co.jp/company/about/group/",
+    "pass": 1
+   },
+   {
+    "quote": "最適設計支援ツール（プロセスインテグレーション）",
+    "url": "https://www.cybernet.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "設計者向けリアルタイム・シミュレーション",
+    "url": "https://www.cybernet.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "エレクトロニクス設計向け信頼性分析ソフトウェア",
+    "url": "https://www.cybernet.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "マルチフィジックス解析によるモータ設計支援ツール",
+    "url": "https://www.cybernet.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "製品レベルのケーブルハーネス設計/検証ソリューション",
+    "url": "https://www.cybernet.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "光学設計ソフトウェア",
+    "url": "https://www.cybernet.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "プロセス自動化・設計最適化ソリューション",
+    "url": "https://www.cybernet.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "最適設計支援ツール",
+    "url": "https://www.cybernet.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "磁気デバイスの設計支援",
+    "url": "https://www.cybernet.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "低消費電力ディスプレイ設計のためのソフトウェア",
+    "url": "https://www.cybernet.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "電子回路設計と電源解析を支援する回路シミュレータ",
+    "url": "https://www.cybernet.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "CAM編集・製造性を考慮した設計支援ツール",
+    "url": "https://www.cybernet.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "電気回路プリント基板設計者向け EMI対策ツール",
+    "url": "https://www.cybernet.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "VR設計レビュー支援システム",
+    "url": "https://www.cybernet.co.jp/service/",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "Creoユーザー向けリアルタイム・シミュレーション",
+    "url": "https://www.cybernet.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Creoユーザー向けリアルタイム・シミュレーション",
+    "url": "https://www.cybernet.co.jp/company/about/group/",
+    "pass": 1
+   },
+   {
+    "quote": "Creoユーザー向けリアルタイム・シミュレーション",
+    "url": "https://www.cybernet.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "また、AIを活用したSaMD分野において国内で初めての医療機器承認ならびに公的医療保険の適用を受けるなど、医療AIのパイオニアとして業界をリードしています",
+    "url": "https://www.cybernet.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "Creoユーザー向けリアルタイム・シミュレーション",
+    "url": "https://www.cybernet.co.jp/case/",
+    "pass": 1
+   },
+   {
+    "quote": "Creoユーザー向けリアルタイム・シミュレーション",
+    "url": "https://www.cybernet.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "と、業界を問わない支援実績を有しています",
+    "url": "https://www.cybernet.co.jp/ps/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の開発現場に合わせた「定着するMBD」を実現し、長期的な自走化を目指します",
+    "url": "https://www.cybernet.co.jp/ps/",
+    "pass": 1
+   },
+   {
+    "quote": "成果で見るMBD導入事例",
+    "url": "https://www.cybernet.co.jp/ps/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車、電機、機械など多様な業界で成果を実現",
+    "url": "https://www.cybernet.co.jp/ps/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザー専用 CAE サポートセンター",
+    "url": "https://www.cybernet.co.jp/noesis/product/id8/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザー事例",
+    "url": "https://www.cybernet.co.jp/noesis/product/id8/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーやツールの利用実績を把握し、CAEライセンスやハードウェアリソースの最適化・将来投資を支援",
+    "url": "https://www.cybernet.co.jp/noesis/product/id8/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザー専用 CAE サポートセンター",
+    "url": "https://www.cybernet.co.jp/noesis/product/nvision/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザー事例",
+    "url": "https://www.cybernet.co.jp/noesis/product/nvision/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザー専用 CAE サポートセンター",
+    "url": "https://www.cybernet.co.jp/noesis/product/optimus/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザー事例",
+    "url": "https://www.cybernet.co.jp/noesis/product/optimus/",
+    "pass": 1
+   },
+   {
+    "quote": "分析した情報の共有化を図り、取引先に対しても根拠に基づいた説得力のある提案が行えます",
+    "url": "https://www.cybernet.co.jp/noesis/product/optimus/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客の要求仕様を満たす設計ができない",
+    "url": "https://www.cybernet.co.jp/optservice/",
+    "pass": 1
+   },
+   {
+    "quote": "サイバネットは、お客様が抱えている業務課題を解決するためにツールの操作方法に関する支援だけではなく、委託設計・解析、プレミアムサポート、システム開発など、様々なサービスをご提供いたします",
+    "url": "https://www.cybernet.co.jp/optservice/",
+    "pass": 1
+   },
+   {
+    "quote": "光通信・自動車・ヘルスケアといった業界別の設計・解析支援事例や、メタレンズ設計・リバースエンジニアリング・光学散乱特性の測定といったサービスの詳細をご紹介しています",
+    "url": "https://www.cybernet.co.jp/optservice/",
+    "pass": 1
+   },
+   {
+    "quote": "光学理論や光学シミュレーション、光学測定器、光学設計などの光学を基軸に、モデルベース開発や複合領域(光、電気、熱、構造、流体)、AR/VR、AI、ビックデータなどの最新技術を活用してお客様の課題を解決します",
+    "url": "https://www.cybernet.co.jp/optservice/",
+    "pass": 1
+   },
+   {
+    "quote": "世界規模のレンズ設計コンテストで優勝し、今では当たり前になった手振れ補正レンズの誕生に貢献したレンズ設計者をはじめ、委託先から優秀設計賞を受賞する設計者、自動車のヘッドライト開発エンジニアなど、多岐にわたる優れた光学技術者がお客様の課題の本質を見極め、解決方法をご提案します",
+    "url": "https://www.cybernet.co.jp/optservice/",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用中のお客様 サポートセンター",
+    "url": "https://www.cybernet.co.jp/ansys/service/consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "業界別から探す",
+    "url": "https://www.cybernet.co.jp/ansys/service/consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社技術スタッフが、お客様のご希望をヒアリングいたします",
+    "url": "https://www.cybernet.co.jp/ansys/service/consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "解析に精通した技術スタッフが、お客様に代わって解析を行います",
+    "url": "https://www.cybernet.co.jp/ansys/service/consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の状況、ご要望に合わせて対応させていただきます",
+    "url": "https://www.cybernet.co.jp/ansys/service/consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザー様インタビュー記事8件を１冊に集約した保存版",
+    "url": "https://www.cybernet.co.jp/ansys/service/consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様事例・インタビュー",
+    "url": "https://www.cybernet.co.jp/ansys/service/consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "伝熱解析ユーザーのための流体解析入門",
+    "url": "https://www.cybernet.co.jp/ansys/service/consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用中のお客様 サポートセンター",
+    "url": "https://www.cybernet.co.jp/ansys/product/discovery/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "業界別から探す",
+    "url": "https://www.cybernet.co.jp/ansys/product/discovery/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "先進的なユーザーインターフェースによりコンパクトな使用感を得ることが可能です",
+    "url": "https://www.cybernet.co.jp/ansys/product/discovery/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザー様インタビュー記事8件を１冊に集約した保存版",
+    "url": "https://www.cybernet.co.jp/ansys/product/discovery/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様事例・インタビュー",
+    "url": "https://www.cybernet.co.jp/ansys/product/discovery/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "伝熱解析ユーザーのための流体解析入門",
+    "url": "https://www.cybernet.co.jp/ansys/product/discovery/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用中のお客様 サポートセンター",
+    "url": "https://www.cybernet.co.jp/ansys/product/discovery/",
+    "pass": 1
+   },
+   {
+    "quote": "業界別から探す",
+    "url": "https://www.cybernet.co.jp/ansys/product/discovery/",
+    "pass": 1
+   },
+   {
+    "quote": "先進的なユーザーインターフェースによりコンパクトな使用感を得ることが可能です",
+    "url": "https://www.cybernet.co.jp/ansys/product/discovery/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザー様インタビュー記事8件を１冊に集約した保存版",
+    "url": "https://www.cybernet.co.jp/ansys/product/discovery/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様事例・インタビュー",
+    "url": "https://www.cybernet.co.jp/ansys/product/discovery/",
+    "pass": 1
+   },
+   {
+    "quote": "伝熱解析ユーザーのための流体解析入門",
+    "url": "https://www.cybernet.co.jp/ansys/product/discovery/",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用中のお客様 サポートセンター",
+    "url": "https://www.cybernet.co.jp/ansys/product/mechanical/",
+    "pass": 1
+   },
+   {
+    "quote": "業界別から探す",
+    "url": "https://www.cybernet.co.jp/ansys/product/mechanical/",
+    "pass": 1
+   },
+   {
+    "quote": "Ansys ユーザーのための PyAnsys 完全ガイド",
+    "url": "https://www.cybernet.co.jp/ansys/product/mechanical/",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用中のお客様 サポートセンター",
+    "url": "https://www.cybernet.co.jp/ansys/product/lsdyna/",
+    "pass": 1
+   },
+   {
+    "quote": "業界別から探す",
+    "url": "https://www.cybernet.co.jp/ansys/product/lsdyna/",
+    "pass": 1
+   },
+   {
+    "quote": "特に、陰解法ソルバーを用いた Ansys Mechanical に慣れているユーザーにとっては、LS-DYNA の Workbench 統合環境は非常に親和性が高くなっております",
+    "url": "https://www.cybernet.co.jp/ansys/product/lsdyna/",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用中のお客様 サポートセンター",
+    "url": "https://www.cybernet.co.jp/ansys/product/sherlock/",
+    "pass": 1
+   },
+   {
+    "quote": "業界別から探す",
+    "url": "https://www.cybernet.co.jp/ansys/product/sherlock/",
+    "pass": 1
+   },
+   {
+    "quote": "プリント基板の設計と品質プロセスを業界のベストプラクティスに照らし合わせて、CAFのリスクを特定します",
+    "url": "https://www.cybernet.co.jp/ansys/product/sherlock/",
+    "pass": 1
+   },
+   {
+    "quote": "Sherlockが搭載するデータベースはユーザーによって拡張可能です",
+    "url": "https://www.cybernet.co.jp/ansys/product/sherlock/",
+    "pass": 1
+   },
+   {
+    "quote": "エレクトロニクス業界で一般的な約100種類の基板用ガラス",
+    "url": "https://www.cybernet.co.jp/ansys/product/sherlock/",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用中のお客様 サポートセンター",
+    "url": "https://www.cybernet.co.jp/ansys/product/motion/",
+    "pass": 1
+   },
+   {
+    "quote": "業界別から探す",
+    "url": "https://www.cybernet.co.jp/ansys/product/motion/",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用中のお客様 サポートセンター",
+    "url": "https://www.cybernet.co.jp/ansys/product/cfd/",
+    "pass": 1
+   },
+   {
+    "quote": "業界別から探す",
+    "url": "https://www.cybernet.co.jp/ansys/product/cfd/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車・航空宇宙・エレクトロニクス・エネルギー・化学・建築設備など、多彩な業界の開発現場で採用されており、Ansysプラットフォーム上で他シミュレーションツールと連携することで、流体解析を起点に熱・構造・電磁場を含むマルチフィジックス解析へ容易に拡張でき、製品開発サイクルの短縮と品質向上に貢献します",
+    "url": "https://www.cybernet.co.jp/ansys/product/cfd/",
+    "pass": 1
+   },
+   {
+    "quote": "設計初期フェーズでシンプルな内部流・外部流や熱解析を素早く評価したいユーザー",
+    "url": "https://www.cybernet.co.jp/ansys/product/cfd/",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "クラウド型ソフトウェアライセンス管理サービス",
+    "url": "https://www.cybernet.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド型ソフトウェアライセンス管理サービス",
+    "url": "https://www.cybernet.co.jp/company/about/group/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド型ソフトウェアライセンス管理サービス",
+    "url": "https://www.cybernet.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド型ソフトウェアライセンス管理サービス",
+    "url": "https://www.cybernet.co.jp/case/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド型ソフトウェアライセンス管理サービス",
+    "url": "https://www.cybernet.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "保守契約について",
+    "url": "https://www.cybernet.co.jp/noesis/product/id8/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーやツールの利用実績を把握し、CAEライセンスやハードウェアリソースの最適化・将来投資を支援",
+    "url": "https://www.cybernet.co.jp/noesis/product/id8/",
+    "pass": 1
+   },
+   {
+    "quote": "保守契約について",
+    "url": "https://www.cybernet.co.jp/noesis/product/nvision/",
+    "pass": 1
+   },
+   {
+    "quote": "保守契約について",
+    "url": "https://www.cybernet.co.jp/noesis/product/optimus/",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス形態",
+    "url": "https://www.cybernet.co.jp/noesis/product/optimus/",
+    "pass": 1
+   },
+   {
+    "quote": "細かい条件設定で都度連絡をくださり安心感があった",
+    "url": "https://www.cybernet.co.jp/ansys/service/consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "ご提案・お見積",
+    "url": "https://www.cybernet.co.jp/ansys/service/consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "解析方法に関する詳細な提案を行い、お見積もりを提出させていただきます",
+    "url": "https://www.cybernet.co.jp/ansys/service/consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "提案内容・お見積もり内容にご納得いただければ、ご契約成立となります",
+    "url": "https://www.cybernet.co.jp/ansys/service/consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "粉末冶金の粉体圧密プロセスシミュレーション",
+    "url": "https://www.cybernet.co.jp/ansys/service/consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "Ansys製品・CAE製品のお見積ご依頼はこちら",
+    "url": "https://www.cybernet.co.jp/ansys/service/consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "Ansys Discoveryのライセンス形態を紹介します",
+    "url": "https://www.cybernet.co.jp/ansys/product/discovery/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "粉末冶金の粉体圧密プロセスシミュレーション",
+    "url": "https://www.cybernet.co.jp/ansys/product/discovery/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "Ansys製品・CAE製品のお見積ご依頼はこちら",
+    "url": "https://www.cybernet.co.jp/ansys/product/discovery/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "Ansys Discoveryのライセンス形態を紹介します",
+    "url": "https://www.cybernet.co.jp/ansys/product/discovery/",
+    "pass": 1
+   },
+   {
+    "quote": "粉末冶金の粉体圧密プロセスシミュレーション",
+    "url": "https://www.cybernet.co.jp/ansys/product/discovery/",
+    "pass": 1
+   },
+   {
+    "quote": "Ansys製品・CAE製品のお見積ご依頼はこちら",
+    "url": "https://www.cybernet.co.jp/ansys/product/discovery/",
+    "pass": 1
+   },
+   {
+    "quote": "Ansys Mechanical のライセンス形態",
+    "url": "https://www.cybernet.co.jp/ansys/product/mechanical/",
+    "pass": 1
+   },
+   {
+    "quote": "各ライセンスの簡易的な機能対応は以下の表のとおりです",
+    "url": "https://www.cybernet.co.jp/ansys/product/mechanical/",
+    "pass": 1
+   },
+   {
+    "quote": "粉末冶金の粉体圧密プロセスシミュレーション",
+    "url": "https://www.cybernet.co.jp/ansys/product/mechanical/",
+    "pass": 1
+   },
+   {
+    "quote": "Ansys製品・CAE製品のお見積ご依頼はこちら",
+    "url": "https://www.cybernet.co.jp/ansys/product/mechanical/",
+    "pass": 1
+   },
+   {
+    "quote": "落下、衝突・衝撃、板成形、金属加工や熱、流体、電磁場、連成まで、複雑な現象をワンライセンスで解析できます",
+    "url": "https://www.cybernet.co.jp/ansys/product/lsdyna/",
+    "pass": 1
+   },
+   {
+    "quote": "Ansys製品・CAE製品のお見積ご依頼はこちら",
+    "url": "https://www.cybernet.co.jp/ansys/product/lsdyna/",
+    "pass": 1
+   },
+   {
+    "quote": "Ansys製品・CAE製品のお見積ご依頼はこちら",
+    "url": "https://www.cybernet.co.jp/ansys/product/sherlock/",
+    "pass": 1
+   },
+   {
+    "quote": "Ansys製品・CAE製品のお見積ご依頼はこちら",
+    "url": "https://www.cybernet.co.jp/ansys/product/motion/",
+    "pass": 1
+   },
+   {
+    "quote": "Ansys CFD のライセンス形態",
+    "url": "https://www.cybernet.co.jp/ansys/product/cfd/",
+    "pass": 1
+   },
+   {
+    "quote": "Ansys CFD には、目的や解析規模に応じて選択できる 3 つのライセンスパッケージ（Ansys CFD Pro / Ansys CFD Premium / Ansys CFD Enterprise）が用意されています",
+    "url": "https://www.cybernet.co.jp/ansys/product/cfd/",
+    "pass": 1
+   },
+   {
+    "quote": "各ライセンスの簡易的な機能対応は、以下の表のとおりです",
+    "url": "https://www.cybernet.co.jp/ansys/product/cfd/",
+    "pass": 1
+   },
+   {
+    "quote": "Ansys製品・CAE製品のお見積ご依頼はこちら",
+    "url": "https://www.cybernet.co.jp/ansys/product/cfd/",
+    "pass": 1
+   },
+   {
+    "quote": "粉末吸入剤の流れと衝突を可視化し、 実証実験を重ねなくても薬効を保てるデバイスを開発",
+    "url": "https://www.cybernet.co.jp/ansys/product/rocky/",
+    "pass": 1
+   },
+   {
+    "quote": "Ansys製品・CAE製品のお見積ご依頼はこちら",
+    "url": "https://www.cybernet.co.jp/ansys/product/rocky/",
+    "pass": 1
+   },
+   {
+    "quote": "ベースライセンス",
+    "url": "https://www.cybernet.co.jp/ansys/product/flownex/",
+    "pass": 1
+   },
+   {
+    "quote": "オプションライセンス",
+    "url": "https://www.cybernet.co.jp/ansys/product/flownex/",
+    "pass": 1
+   },
+   {
+    "quote": "※ ライセンスにより利用可能な機能が異なります",
+    "url": "https://www.cybernet.co.jp/ansys/product/flownex/",
+    "pass": 1
+   },
+   {
+    "quote": "Ansys製品・CAE製品のお見積ご依頼はこちら",
+    "url": "https://www.cybernet.co.jp/ansys/product/flownex/",
+    "pass": 1
+   },
+   {
+    "quote": "Ansys製品・CAE製品のお見積ご依頼はこちら",
+    "url": "https://www.cybernet.co.jp/ansys/product/hfss/",
+    "pass": 1
+   },
+   {
+    "quote": "AC 電流（要Ansys SIwave PSI Solver ライセンス）",
+    "url": "https://www.cybernet.co.jp/ansys/product/siwave/",
+    "pass": 1
+   },
+   {
+    "quote": "Ansys製品・CAE製品のお見積ご依頼はこちら",
+    "url": "https://www.cybernet.co.jp/ansys/product/siwave/",
+    "pass": 1
+   },
+   {
+    "quote": "Ansys製品・CAE製品のお見積ご依頼はこちら",
+    "url": "https://www.cybernet.co.jp/ansys/product/q3d/",
+    "pass": 1
+   },
+   {
+    "quote": "Ansys製品・CAE製品のお見積ご依頼はこちら",
+    "url": "https://www.cybernet.co.jp/ansys/product/maxwell3d/",
+    "pass": 1
+   },
+   {
+    "quote": "Ansys製品・CAE製品のお見積ご依頼はこちら",
+    "url": "https://www.cybernet.co.jp/ansys/product/motor_cad/",
+    "pass": 1
+   },
+   {
+    "quote": "サイバネットシステムの価格・料金プランは？｜CAEソフト｜ITトレンド",
+    "url": "https://it-trend.jp/cae_soft/18168/price",
+    "pass": 3
+   },
+   {
+    "quote": "サイバネットシステムの価格・料金プラン",
+    "url": "https://it-trend.jp/cae_soft/18168/price",
+    "pass": 3
+   },
+   {
+    "quote": "サイバネットシステムとは？価格や機能・使い方を解説",
+    "url": "https://it-trend.jp/cae_soft/18168/price",
+    "pass": 3
+   },
+   {
+    "quote": "価格・料金プラン",
+    "url": "https://it-trend.jp/cae_soft/18168/price",
+    "pass": 3
+   },
+   {
+    "quote": "価格・料金プランの詳細はお問い合わせください",
+    "url": "https://it-trend.jp/cae_soft/18168/price",
+    "pass": 3
+   },
+   {
+    "quote": "※２：PBF（Powder Bed Fusion）方式：粉末床溶融結合法とも呼ばれる3Dプリント技術の一つ",
+    "url": "https://prtimes.jp/main/html/rd/p/000000501.000004714.html",
+    "pass": 3
+   },
+   {
+    "quote": "レーザービームや電子ビームを熱源として使用し、平たんに敷き詰められた金属粉末を一層ずつ溶融・固着しながら積層する方式",
+    "url": "https://prtimes.jp/main/html/rd/p/000000501.000004714.html",
+    "pass": 3
+   },
+   {
+    "quote": "料金・プラン",
+    "url": "https://prtimes.jp/main/html/rd/p/000000501.000004714.html",
+    "pass": 3
+   }
+  ],
+  "誰から": [
+   {
+    "quote": "サイバネットグループでは、製品開発に関する業務プロセス改善のコンサルティング、自社開発ツールの提供を通じて、お客さまのMBSE導入とモデルベース開発の一連のプロセスを支援します",
+    "url": "https://www.cybernet.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "サイバネットは、医用画像診断技術を生かしたSaMDを長年自社開発しており、国内外で約10品目の薬事認可取得／販売実績があります",
+    "url": "https://www.cybernet.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "電子部品 製造元、部品番号、電気定格、温度定格、梱包情報",
+    "url": "https://www.cybernet.co.jp/ansys/product/sherlock/",
+    "pass": 1
+   },
+   {
+    "quote": "サイバネットシステム株式会社と販売代理店契約を締結致しました",
+    "url": "https://d-monoweb.com/news/cybernet/",
+    "pass": 3
+   },
+   {
+    "quote": "販売代理店契約を締結致しました",
+    "url": "https://d-monoweb.com/news/cybernet/",
+    "pass": 3
+   },
+   {
+    "quote": "この度、MONOWENが提供しているEラーニングサービス（MONO塾）の教材が、エンジニア育成のための「e-CAEユニバーシティ」を運営するサイバネットシステム株式会社（東証第一部上場）と販売代理店を締結致しました",
+    "url": "https://d-monoweb.com/news/cybernet/",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "また、社内外の知識・情報の有効活用や、円滑なコラボレーションと迅速な意思決定を実現",
+    "url": "https://www.cybernet.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "ICパッケージ成形時の溶融樹脂圧力によるパドルシフト・リードフレーム変形解析",
+    "url": "https://www.cybernet.co.jp/ansys/service/consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "さらにサスペンションシステム、ステアリングシステム、ブレーキなどの自動車の運転とハンドル操作の解析に使用する",
+    "url": "https://www.cybernet.co.jp/ansys/product/motion/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車の運転とハンドル操作の特性およびハンドルへのフィードバックの識別",
+    "url": "https://www.cybernet.co.jp/ansys/product/motion/",
+    "pass": 1
+   },
+   {
+    "quote": "9億9500万円",
+    "url": "https://prtimes.jp/main/html/rd/p/000000501.000004714.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ダイレクトソリューションプロバイダとして、PTC社と新たに ... — ダイレクトソリューションプロバイダとして、PTC社と新たに ... サイバネットシステム株式会社 https://www.cybernet.co.jp > ... > お知らせ > 2025年度",
+    "url": "https://www.cybernet.co.jp/company/about/news/press/2025/20250603.html",
+    "pass": 3
+   },
+   {
+    "quote": "サイバネットシステム 株式会社と販売 代理店契約 を締結致し ... — サイバネットシステム 株式会社と販売 代理店契約 を締結致し ... MONO塾 https://d-monoweb.com > news > cybernet",
+    "url": "https://d-monoweb.com/news/cybernet/",
+    "pass": 3
+   },
+   {
+    "quote": "サイバネットシステム の 代理店 - メトリー — サイバネットシステム の 代理店 - メトリー Metoree https://metoree.com > ... > サイバネットシステム株式会社",
+    "url": "https://metoree.com/companies/18917/distributors/",
+    "pass": 3
+   },
+   {
+    "quote": "事例 | サイバネットシステム 株式会社 — 事例 | サイバネットシステム 株式会社 サイバネットシステム株式会社 https://www.cybernet.co.jp > case",
+    "url": "https://www.cybernet.co.jp/case/",
+    "pass": 3
+   },
+   {
+    "quote": "事例 ｜CAE・Ansysの活用推進、解析に関するご相談なら — 事例 ｜CAE・Ansysの活用推進、解析に関するご相談なら サイバネットシステム株式会社 https://www.cybernet.co.jp > ansys > case",
+    "url": "https://www.cybernet.co.jp/ansys/case/",
+    "pass": 3
+   },
+   {
+    "quote": "サイバネットシステム 株式会社 (@cybernet_csjp) / X — サイバネットシステム 株式会社 (@cybernet_csjp) / X X https://x.com > cybernet_csjp",
+    "url": "https://x.com/cybernet_csjp",
+    "pass": 3
+   },
+   {
+    "quote": "事例 紹介｜ サイバネット ものづくりDX — 事例 紹介｜ サイバネット ものづくりDX サイバネットシステム株式会社 https://www.cybernet.co.jp > case",
+    "url": "https://www.cybernet.co.jp/dx/case/",
+    "pass": 3
+   },
+   {
+    "quote": "サイバネットシステム 株式会社の 事例 一覧・会社概要 — サイバネットシステム 株式会社の 事例 一覧・会社概要 clabel.jp https://clabel.jp > provider",
+    "url": "https://clabel.jp/provider/1306/",
+    "pass": 3
+   },
+   {
+    "quote": "価格 | サイバネット クラウド — 価格 | サイバネット クラウド サイバネットシステム株式会社 https://www.cybernet.co.jp > saas > contact > price",
+    "url": "https://www.cybernet.co.jp/saas/contact/price/",
+    "pass": 3
+   },
+   {
+    "quote": "CAEソフト - サイバネットシステム の 価格 ・ 料金 プランは？ — CAEソフト - サイバネットシステム の 価格 ・ 料金 プランは？ ITトレンド https://it-trend.jp > cae_soft > price",
+    "url": "https://it-trend.jp/cae_soft/18168/price",
+    "pass": 3
+   },
+   {
+    "quote": "サイバネットシステム 株式会社の会社概要・製品情報 - Metoree — サイバネットシステム 株式会社の会社概要・製品情報 - Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/18917/",
+    "pass": 3
+   },
+   {
+    "quote": "サイバネットシステム のカタログ一覧 | イプロスものづくり — サイバネットシステム のカタログ一覧 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > company > detail > catalog",
+    "url": "https://mono.ipros.com/company/detail/247054/catalog/",
+    "pass": 3
+   },
+   {
+    "quote": "サイバネットシステム - Wikipedia — サイバネットシステム - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > サイバネットシステム",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%8D%E3%83%83%E3%83%88%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0",
+    "pass": 3
+   },
+   {
+    "quote": "エンジニアリングサービス｜CAE・Ansysの活用推進 — エンジニアリングサービス｜CAE・Ansysの活用推進 サイバネットシステム株式会社 https://www.cybernet.co.jp > HOME > サービス",
+    "url": "https://www.cybernet.co.jp/ansys/service/consulting/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.cybernet.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybernet.co.jp/company/about/group/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybernet.co.jp/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybernet.co.jp/case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybernet.co.jp/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybernet.co.jp/ps/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybernet.co.jp/noesis/product/id8/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybernet.co.jp/maplesoft/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybernet.co.jp/noesis/product/nvision/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybernet.co.jp/noesis/product/optimus/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybernet.co.jp/optservice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybernet.co.jp/ansys/service/consulting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybernet.co.jp/ansys/product/discovery/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybernet.co.jp/ansys/product/discovery/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybernet.co.jp/ansys/product/mechanical/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybernet.co.jp/ansys/product/lsdyna/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybernet.co.jp/ansys/product/sherlock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybernet.co.jp/ansys/product/motion/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybernet.co.jp/ansys/product/cfd/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybernet.co.jp/ansys/product/rocky/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybernet.co.jp/ansys/product/flownex/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybernet.co.jp/ansys/product/hfss/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybernet.co.jp/ansys/product/siwave/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybernet.co.jp/ansys/product/q3d/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybernet.co.jp/ansys/product/maxwell3d/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybernet.co.jp/ansys/product/motor_cad/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybernet.co.jp/ps/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybernet.co.jp/ps/case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybernet.co.jp/ps/download/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybernet.co.jp/ps/download/52/index.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.cybernet.co.jp/documents/pdf/news/press/2026/261023.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cybernet.co.jp/optservice/images/outsourced_case/design/n091/thumbnail.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.cybernet.co.jp/ps/images/case/fig04.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.cybernet.co.jp/ps/images/case/none.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.cybernet.co.jp/ps/images/case/fig01.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.cybernet.co.jp/ps/images/case/fig02.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.cybernet.co.jp/ps/images/case/fig03.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.cybernet.co.jp/img/page/case/top-img23.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://d-monoweb.com/news/cybernet/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/18917/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/cybernet_csjp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://it-trend.jp/cae_soft/18168/price",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/18917/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000501.000004714.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/18917/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "サイバネットシステム 代理店 契約",
+   "results": [
+    "https://www.cybernet.co.jp/company/about/news/press/2025/20250603.html",
+    "https://d-monoweb.com/news/cybernet/",
+    "https://metoree.com/companies/18917/distributors/",
+    "https://prtimes.jp/main/html/rd/p/000000515.000004714.html",
+    "https://www.fsi.co.jp/company/news/2021/20210625_02.pdf",
+    "https://x.com/cybernet_csjp",
+    "https://prtimes.jp/main/html/rd/p/000000496.000004714.html",
+    "https://www.cybernet.co.jp/ansys/",
+    "https://secure.okbiz.jp/ansys/",
+    "https://news.3rd-in.co.jp/article/df41ad54-4046-11f0-9bfa-9ca3ba083d71"
+   ]
+  },
+  {
+   "query": "サイバネットシステム 導入事例",
+   "results": [
+    "https://www.cybernet.co.jp/case/",
+    "https://www.cybernet.co.jp/ansys/case/",
+    "https://x.com/cybernet_csjp",
+    "https://www.cybernet.co.jp/dx/case/",
+    "https://clabel.jp/provider/1306/",
+    "https://prtimes.jp/main/html/searchrlp/company_id/4714",
+    "https://www.cybernet.co.jp/caecloud/case_study/",
+    "https://www.youtube.com/user/CYBERNETchannel/videos",
+    "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%8D%E3%83%83%E3%83%88%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0",
+    "https://www.growwwing.jp/introduction/cybernet.html"
+   ]
+  },
+  {
+   "query": "サイバネットシステム 価格 OR 料金",
+   "results": [
+    "https://www.cybernet.co.jp/saas/contact/price/",
+    "https://it-trend.jp/cae_soft/18168/price",
+    "https://metoree.com/companies/18917/",
+    "https://mono.ipros.com/company/detail/247054/catalog/",
+    "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%8D%E3%83%83%E3%83%88%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0",
+    "https://www.cybernet.co.jp/",
+    "https://minkabu.jp/stock/4312",
+    "https://en-hyouban.com/company/00001467548/",
+    "https://it-trend.jp/cae_soft/18168",
+    "https://www.itreview.jp/products/cybernet/price"
+   ]
+  },
+  {
+   "query": "サイバネットシステム 受託 造形",
+   "results": [
+    "https://www.cybernet.co.jp/ansys/service/consulting/",
+    "https://prtimes.jp/main/html/rd/p/000000501.000004714.html",
+    "https://metoree.com/companies/18917/",
+    "https://xtech.nikkei.com/atcl/nxt/news/18/01335/",
+    "https://monoist.itmedia.co.jp/mn/articles/1806/01/news082.html",
+    "https://www.cybernet.co.jp/ansys/",
+    "https://ansys.synopsys.com/ja-jp/partner-ecosystem/channel-partners/cybernet-systems",
+    "https://prtimes.jp/main/html/rd/p/000000314.000004714.html",
+    "https://monoist.itmedia.co.jp/mn/articles/2410/11/news056.html",
+    "https://mono.ipros.com/company/detail/247054/category/"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式30頁／PDF・画像8件／外部7頁・検索4回）",
+  "売上高": "記載なし（3回確認済み：公式30頁／PDF・画像8件／外部7頁・検索4回）",
+  "事業内容": "記載なし（3回確認済み：公式30頁／PDF・画像8件／外部7頁・検索4回）",
+  "取引先": "記載なし（3回確認済み：公式30頁／PDF・画像8件／外部7頁・検索4回）"
+ }
+}

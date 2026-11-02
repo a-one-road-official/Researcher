@@ -1,0 +1,855 @@
+{
+ "name": "株式会社システムクリエイト",
+ "aliases": [],
+ "context": "XactMetal、AVIMETAL MT販売、金属受託；輸入装置 / AMFG（英）；Anisoprint（ルクセンブルク/シンガポール）；Anisoprint（ルクセンブルク）Composer／連続繊維CFC；KVS（ブルガリア）QUICKSURFACE；Nano3Dprint（米）；Nano3Dprint（米）A2200マルチマテリアル電子回路プリンター／B3300；Sentrol（韓）；S",
+ "researched_at": "2026-11-02T12:16:00.217678+00:00",
+ "official_url": "https://systemcreate-inc.co.jp（イプロス記載。本文未読",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1992年06月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000167.000140772.html",
+    "pass": 3
+   },
+   {
+    "label": "設　　　　　立",
+    "value": "1992年（平成4年6月）",
+    "url": "https://www.salesforce-assistant.com/jirei/c3_47.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "1992年06月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000237.000140772.html",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "■事業内容",
+    "value": "3Dデジタルツール導入支援・販売・サポート",
+    "url": "https://prtimes.jp/main/html/rd/p/000000167.000140772.html",
+    "pass": 3
+   },
+   {
+    "label": "事　業　内　容",
+    "value": "1.オリジナルマシニングセンタの販売 2.CAD/CAM販売および教育保守サービス 3.試作モデル向けシステム販売 4. 金属･樹脂加工用工作機械販売 5.彫刻機販売･メンテナンス･レストア 6.DNCネットワーク構築 7.各種ツール･および材料販売 8.各種技術支援サービス 9.金型設計/モデリングデータ作成サービス 10.デジタイジングによる3Dデータ化 11.３Ｄプリンタによる造形代行サービス等",
+    "url": "https://www.salesforce-assistant.com/jirei/c3_47.html",
+    "pass": 3
+   },
+   {
+    "label": "■事業内容",
+    "value": "3Dデジタルツール導入支援・販売・サポート",
+    "url": "https://prtimes.jp/main/html/rd/p/000000237.000140772.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従　業　員　数",
+    "value": "40名（2012年12月現在）",
+    "url": "https://www.salesforce-assistant.com/jirei/c3_47.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰から": [
+   {
+    "quote": "株式会社システムクリエイト、Indart3D社と日本市場での代理店契約を締結 | 株式会社システムクリエイトのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000167.000140772.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社システムクリエイト、Indart3D社と日本市場での代理店契約を締結",
+    "url": "https://prtimes.jp/main/html/rd/p/000000167.000140772.html",
+    "pass": 3
+   },
+   {
+    "quote": "（本社：スペイン、代表：Ivan Sardon）と日本市場における代理店契約を締結しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000167.000140772.html",
+    "pass": 3
+   },
+   {
+    "quote": "| 株式会社システムクリエイトは、AESUB社の日本総代理店です",
+    "url": "https://aesub.jp/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%88%E3%80%80%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "また、ユーザー様が求める機能を持った商品が無い場合や、良い機能を持ちながら販売力が弱い製品など、メーカー機能を活かし、独自企画した自社製品として発売していきます",
+    "url": "https://pr.mono.ipros.com/systemcreate-inc/product/detail/2001557884/",
+    "pass": 3
+   }
+  ],
+  "何をする": [
+   {
+    "quote": "株式会社システムクリエイト、Indart3D社と日本市場での代理店契約を締結 | 株式会社システムクリエイトのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000167.000140772.html",
+    "pass": 3
+   },
+   {
+    "quote": "プレスリリース・ニュースリリース配信サービスのPR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000167.000140772.html",
+    "pass": 3
+   },
+   {
+    "quote": "プレスリリースを受信",
+    "url": "https://prtimes.jp/main/html/rd/p/000000167.000140772.html",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、フィラメントヘッド・ペレットヘッドの相互切替が可能な革新的な3Dプリンター「NX Modular」「BigFoot Modular」および、「Mini Pro」の販売を開始し、企業や教育機関における多様な3Dプリンティングのニーズに応えてまいります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000167.000140772.html",
+    "pass": 3
+   },
+   {
+    "quote": "「NX Modular」と「BigFoot Modular」は、革新的なモジュラーデザインを採用しており、ユーザー自身でプリントヘッドを交換・変更・追加できる柔軟な設計となっています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000167.000140772.html",
+    "pass": 3
+   },
+   {
+    "quote": "小型ながら堅牢な設計：",
+    "url": "https://prtimes.jp/main/html/rd/p/000000167.000140772.html",
+    "pass": 3
+   },
+   {
+    "quote": "研究開発・教育機関向けに最適な機能性：",
+    "url": "https://prtimes.jp/main/html/rd/p/000000167.000140772.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社システムクリエイトは、Indart3D社の革新的な製品を通じて、国内の製造業および教育分野における3Dプリンターの普及を加速させることを目指します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000167.000140772.html",
+    "pass": 3
+   },
+   {
+    "quote": "システムクリエイトは、ものづくり企業向けのソリューションプロバイダーとして、3Dプリンターや3Dスキャナーなどの3Dツール、工作機械の販売からCAD/CAMなどのソフトウェア、技術サポート、トレーニングまで幅広く提供しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000167.000140772.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、加工・造形の知識を活かして、受託造形の依頼もお受けしています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000167.000140772.html",
+    "pass": 3
+   },
+   {
+    "quote": "■事業内容：3Dデジタルツール導入支援・販売・サポート",
+    "url": "https://prtimes.jp/main/html/rd/p/000000167.000140772.html",
+    "pass": 3
+   },
+   {
+    "quote": "プレスリリース素材",
+    "url": "https://prtimes.jp/main/html/rd/p/000000167.000140772.html",
+    "pass": 3
+   },
+   {
+    "quote": "このプレスリリース内で使われている画像ファイルがダウンロードできます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000167.000140772.html",
+    "pass": 3
+   },
+   {
+    "quote": "プレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000167.000140772.html",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースリリース配信サービス",
+    "url": "https://prtimes.jp/main/html/rd/p/000000167.000140772.html",
+    "pass": 3
+   },
+   {
+    "quote": "プレスリリースを受信したい方へ",
+    "url": "https://prtimes.jp/main/html/rd/p/000000167.000140772.html",
+    "pass": 3
+   },
+   {
+    "quote": "プレスリリースを配信したい方へ",
+    "url": "https://prtimes.jp/main/html/rd/p/000000167.000140772.html",
+    "pass": 3
+   },
+   {
+    "quote": "スクール・講習会",
+    "url": "https://systemcreate-inc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "[更新情報] SOLIDWORKS 2027 リリースのご案内",
+    "url": "https://systemcreate-inc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "最新バージョン「2026.2」がリリースされました！今回のアップデートでは、3MFインポートやGLBエクスポート、クワッドメッシュのエクスポートなどデータ連携機能を強化",
+    "url": "https://systemcreate-inc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリントしたパーツへのインサート成形や、3Dプリントした型を用いた射出成形など、3Dプリントと射出成形を組み合わせた試作・開発にも活用できます",
+    "url": "https://systemcreate-inc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "設計・加工・検査・人材育成など、ものづくりのあらゆる場面に関する改善策をご紹介します",
+    "url": "https://systemcreate-inc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "3D受託サービス一覧",
+    "url": "https://systemcreate-inc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "「ものづくりワンストップソリューションサービス」を掲げ、 CAD/CAMシステムや3DプリンタなどのエンジニアリングツールとマシニングセンターやNC旋盤などのCNC工作機械の現方を販売し、さらにそれらの運用・コンサルティング・メンテナンスまでをトータルでサポートするメカトロエンジニアリング商社、株式会社システムクリエイト",
+    "url": "https://www.salesforce-assistant.com/jirei/c3_47.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAD/CAMから事業を開始して、工作機械を販売するようになり、今ではPB商品を出したり、3Dプリンタや3Dスキャナに力を入れています",
+    "url": "https://www.salesforce-assistant.com/jirei/c3_47.html",
+    "pass": 3
+   },
+   {
+    "quote": "1.オリジナルマシニングセンタの販売",
+    "url": "https://www.salesforce-assistant.com/jirei/c3_47.html",
+    "pass": 3
+   },
+   {
+    "quote": "2.CAD/CAM販売および教育保守サービス",
+    "url": "https://www.salesforce-assistant.com/jirei/c3_47.html",
+    "pass": 3
+   },
+   {
+    "quote": "3.試作モデル向けシステム販売",
+    "url": "https://www.salesforce-assistant.com/jirei/c3_47.html",
+    "pass": 3
+   },
+   {
+    "quote": "4. 金属･樹脂加工用工作機械販売",
+    "url": "https://www.salesforce-assistant.com/jirei/c3_47.html",
+    "pass": 3
+   },
+   {
+    "quote": "5.彫刻機販売･メンテナンス･レストア",
+    "url": "https://www.salesforce-assistant.com/jirei/c3_47.html",
+    "pass": 3
+   },
+   {
+    "quote": "7.各種ツール･および材料販売",
+    "url": "https://www.salesforce-assistant.com/jirei/c3_47.html",
+    "pass": 3
+   },
+   {
+    "quote": "9.金型設計/モデリングデータ作成サービス",
+    "url": "https://www.salesforce-assistant.com/jirei/c3_47.html",
+    "pass": 3
+   },
+   {
+    "quote": "NIコンサルティングでは、経営コンサルティングノウハウを凝縮した可視化経営システム（SFA,CRM,BI,GW）を活用し、経営の見える化、経営体質強化、営業力強化を支援しています",
+    "url": "https://www.salesforce-assistant.com/jirei/c3_47.html",
+    "pass": 3
+   },
+   {
+    "quote": "生身の経営コンサルタントとＩＴを融合させた、コンサルティングの新しいカタチで経営革新を実現します",
+    "url": "https://www.salesforce-assistant.com/jirei/c3_47.html",
+    "pass": 3
+   },
+   {
+    "quote": "システム運用サポート・コンサルティング",
+    "url": "https://www.salesforce-assistant.com/jirei/c3_47.html",
+    "pass": 3
+   },
+   {
+    "quote": "・導入支援コンサルティング",
+    "url": "https://www.salesforce-assistant.com/jirei/c3_47.html",
+    "pass": 3
+   },
+   {
+    "quote": "・リモートコンサルティング・センサー",
+    "url": "https://www.salesforce-assistant.com/jirei/c3_47.html",
+    "pass": 3
+   },
+   {
+    "quote": "30以上の特許を取得し、60ヶ国以上で販売されているCreatBotのプロ用3Dプリンタは、製品開発、製造、最終用途部品、自動車、航空宇宙、アートデザイン、鋳造、ツーリング、医療および歯科、化学、教育および研究などの用途で年間3,000台以上の販売台数を誇ります",
+    "url": "https://aesub.jp/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%88%E3%80%80%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "FDM方式の3Dプリンタの広がりとともに、フィラ―が配合された材料や軟質材料などの特殊なフィラメントまで数多くの材料が販売されるようになりました",
+    "url": "https://aesub.jp/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%88%E3%80%80%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年の第四世代/第五世代機の登場以来、2,000台を超える販売実績を誇る『D600 Pro1/D600』は2022年にバージョンアップを行い、大型モデルをより安定して造形できるよう進化しました",
+    "url": "https://aesub.jp/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%88%E3%80%80%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "スクール・講習会",
+    "url": "https://systemcreate-inc.co.jp/contract",
+    "pass": 3
+   },
+   {
+    "quote": "SCの3D受託サービス",
+    "url": "https://systemcreate-inc.co.jp/contract",
+    "pass": 3
+   },
+   {
+    "quote": "システムクリエイトの受託サービス一覧",
+    "url": "https://systemcreate-inc.co.jp/contract",
+    "pass": 3
+   },
+   {
+    "quote": "システムクリエイトの受託サービスは、「3Dデータを活用したものづくり」がもたらすメリットを一人でも多くのお客様に感じていただきたいという想いから始まりました",
+    "url": "https://systemcreate-inc.co.jp/contract",
+    "pass": 3
+   },
+   {
+    "quote": "3D受託サービス一覧",
+    "url": "https://systemcreate-inc.co.jp/contract",
+    "pass": 3
+   },
+   {
+    "quote": "大型光造形・金属3Dプリント受託・委託サービス | システムクリエイト - Powered by イプロスものづくり",
+    "url": "https://pr.mono.ipros.com/systemcreate-inc/product/detail/2001557884/",
+    "pass": 3
+   },
+   {
+    "quote": "大型光造形・金属3Dプリント受託・委託サービス",
+    "url": "https://pr.mono.ipros.com/systemcreate-inc/product/detail/2001557884/",
+    "pass": 3
+   },
+   {
+    "quote": "講習/セミナー",
+    "url": "https://pr.mono.ipros.com/systemcreate-inc/product/detail/2001557884/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dデジタル技術受託サービス【CTスキャン･3Dスキャン・3Dプリント】",
+    "url": "https://pr.mono.ipros.com/systemcreate-inc/product/detail/2001557884/",
+    "pass": 3
+   },
+   {
+    "quote": "3D受託サービス【CTスキャン･3Dスキャン・3Dプリント】",
+    "url": "https://pr.mono.ipros.com/systemcreate-inc/product/detail/2001557884/",
+    "pass": 3
+   },
+   {
+    "quote": "3D受託サービス『3Dスキャンサービス』",
+    "url": "https://pr.mono.ipros.com/systemcreate-inc/product/detail/2001557884/",
+    "pass": 3
+   },
+   {
+    "quote": "【ゴム製品の試作に】ゴムライク樹脂による3D造形代行サービス",
+    "url": "https://pr.mono.ipros.com/systemcreate-inc/product/detail/2001557884/",
+    "pass": 3
+   },
+   {
+    "quote": "産業用 CTスキャンデータ活用事例集【内部検査/観察/設計】",
+    "url": "https://pr.mono.ipros.com/systemcreate-inc/product/detail/2001557884/",
+    "pass": 3
+   },
+   {
+    "quote": "【導入後も技術サポートで安心】",
+    "url": "https://pr.mono.ipros.com/systemcreate-inc/product/detail/2001557884/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社の強みである技術サポートで、操作のサポートやトラブル対応、メンテナンスなど導入後のユーザー様のお悩みも窓口一つで解決致します",
+    "url": "https://pr.mono.ipros.com/systemcreate-inc/product/detail/2001557884/",
+    "pass": 3
+   },
+   {
+    "quote": "また、ユーザー様が求める機能を持った商品が無い場合や、良い機能を持ちながら販売力が弱い製品など、メーカー機能を活かし、独自企画した自社製品として発売していきます",
+    "url": "https://pr.mono.ipros.com/systemcreate-inc/product/detail/2001557884/",
+    "pass": 3
+   },
+   {
+    "quote": "850mmサイズの大型モデル造形サービスを開始 【システムクリエイト】 | 株式会社システムクリエイトのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000237.000140772.html",
+    "pass": 3
+   },
+   {
+    "quote": "プレスリリース・ニュースリリース配信サービスのPR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000237.000140772.html",
+    "pass": 3
+   },
+   {
+    "quote": "プレスリリースを受信",
+    "url": "https://prtimes.jp/main/html/rd/p/000000237.000140772.html",
+    "pass": 3
+   },
+   {
+    "quote": "850mmサイズの大型モデル造形サービスを開始 【システムクリエイト】",
+    "url": "https://prtimes.jp/main/html/rd/p/000000237.000140772.html",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "「NX Modular」と「BigFoot Modular」は、革新的なモジュラーデザインを採用しており、ユーザー自身でプリントヘッドを交換・変更・追加できる柔軟な設計となっています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000167.000140772.html",
+    "pass": 3
+   },
+   {
+    "quote": "多様なニーズに応える製品ラインナップと万全のサポート体制で、日本のお客様に高品質な3Dプリンティング環境を提供してまいります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000167.000140772.html",
+    "pass": 3
+   },
+   {
+    "quote": "課題解決から成果創出まで、お客様とともに挑戦し続ける——",
+    "url": "https://systemcreate-inc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社のシステムは、精度の高い顧客管理や案件管理を「日報」を書く(打つ)ことによって実現するわけですが、御社では日報は書いていたのですか？",
+    "url": "https://www.salesforce-assistant.com/jirei/c3_47.html",
+    "pass": 3
+   },
+   {
+    "quote": "それまでは、既存顧客に対する、深耕営業がメインで、",
+    "url": "https://www.salesforce-assistant.com/jirei/c3_47.html",
+    "pass": 3
+   },
+   {
+    "quote": "新規開拓と言っても既存顧客からの紹介獲得くらいでしたが、リーマン・ショックを受けて、安定的に業績を伸ばしていくために本気で新規開拓に取り組もうと 決意しました",
+    "url": "https://www.salesforce-assistant.com/jirei/c3_47.html",
+    "pass": 3
+   },
+   {
+    "quote": "その見込客(=ターゲットダム)管理システムとして、弊社の「顧客創造アプローチ」が組み込まれているのですね",
+    "url": "https://www.salesforce-assistant.com/jirei/c3_47.html",
+    "pass": 3
+   },
+   {
+    "quote": "ホームページからお問い合わせのあった見込客の情報は、顧客創造アプローチに自動で登録されま す",
+    "url": "https://www.salesforce-assistant.com/jirei/c3_47.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、今では電話しきれないほどの見込客が溜まりましたので、顧客創造アプローチで定期的にメルマガを配信しています",
+    "url": "https://www.salesforce-assistant.com/jirei/c3_47.html",
+    "pass": 3
+   },
+   {
+    "quote": "日報を書く理由は、当然自分のためでもありますが、重要なのは、お客様とのやりとりを会社として記録に残すためです",
+    "url": "https://www.salesforce-assistant.com/jirei/c3_47.html",
+    "pass": 3
+   },
+   {
+    "quote": "営業部だけがお客様と対応しているわけではありません",
+    "url": "https://www.salesforce-assistant.com/jirei/c3_47.html",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、サポート窓口への問い合わせや対応履歴もデータベース化して、全社で情報共有したり、お問い合わせの少ないお客様へは当社からコンタクトを図って状況を伺うなど、顧客対応力の強化に活用しています",
+    "url": "https://www.salesforce-assistant.com/jirei/c3_47.html",
+    "pass": 3
+   },
+   {
+    "quote": "「可視化経営システム」もそうですが、自社で導入して成功したものは、お客様にも是非使ってもらいたいです",
+    "url": "https://www.salesforce-assistant.com/jirei/c3_47.html",
+    "pass": 3
+   },
+   {
+    "quote": "その「ものづくり」現場における様々なツールと活用技術の提供を通じて、顧客企業の付加価値創出力を強化する同社",
+    "url": "https://www.salesforce-assistant.com/jirei/c3_47.html",
+    "pass": 3
+   },
+   {
+    "quote": "Sales Force Assistant 顧客深耕R",
+    "url": "https://www.salesforce-assistant.com/jirei/c3_47.html",
+    "pass": 3
+   },
+   {
+    "quote": "顧客創造Approach",
+    "url": "https://www.salesforce-assistant.com/jirei/c3_47.html",
+    "pass": 3
+   },
+   {
+    "quote": "・顧客創造R",
+    "url": "https://www.salesforce-assistant.com/jirei/c3_47.html",
+    "pass": 3
+   },
+   {
+    "quote": "・顧客深耕R",
+    "url": "https://www.salesforce-assistant.com/jirei/c3_47.html",
+    "pass": 3
+   },
+   {
+    "quote": "成功・導入事例",
+    "url": "https://www.salesforce-assistant.com/jirei/c3_47.html",
+    "pass": 3
+   },
+   {
+    "quote": "・顧客を可視化する三種の神器",
+    "url": "https://www.salesforce-assistant.com/jirei/c3_47.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の声から新たに開発された『D600 Pro2』は、優れた特徴や機能はそのままに、革新的な新技術も取り入れたことでより「簡単」かつ「使いやすく」進化を遂げた一台です",
+    "url": "https://aesub.jp/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%88%E3%80%80%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "システムクリエイトの受託サービスは、「3Dデータを活用したものづくり」がもたらすメリットを一人でも多くのお客様に感じていただきたいという想いから始まりました",
+    "url": "https://systemcreate-inc.co.jp/contract",
+    "pass": 3
+   },
+   {
+    "quote": "ご利用される目的はユーザー様ごとに大きく異なります",
+    "url": "https://systemcreate-inc.co.jp/contract",
+    "pass": 3
+   },
+   {
+    "quote": "これらを必要に応じて使い分けたり、組み合わせることでお客様のご要望に合った最適なモデル・データを提供します",
+    "url": "https://systemcreate-inc.co.jp/contract",
+    "pass": 3
+   },
+   {
+    "quote": "・お客様に著作権や知的財産権などの利用権限の無いもの",
+    "url": "https://systemcreate-inc.co.jp/contract",
+    "pass": 3
+   },
+   {
+    "quote": "データの管理について お客様の3Dデータを管理するにあたって、Active Directoryを用いた",
+    "url": "https://systemcreate-inc.co.jp/contract",
+    "pass": 3
+   },
+   {
+    "quote": "冊子･導入事例",
+    "url": "https://pr.mono.ipros.com/systemcreate-inc/product/detail/2001557884/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社の強みである技術サポートで、操作のサポートやトラブル対応、メンテナンスなど導入後のユーザー様のお悩みも窓口一つで解決致します",
+    "url": "https://pr.mono.ipros.com/systemcreate-inc/product/detail/2001557884/",
+    "pass": 3
+   },
+   {
+    "quote": "また、ユーザー様が求める機能を持った商品が無い場合や、良い機能を持ちながら販売力が弱い製品など、メーカー機能を活かし、独自企画した自社製品として発売していきます",
+    "url": "https://pr.mono.ipros.com/systemcreate-inc/product/detail/2001557884/",
+    "pass": 3
+   },
+   {
+    "quote": "システムクリエイトではこれまでも、「3Dプリントサービス」「3Dスキャンサービス」「CTスキャンサービス」さらに「3Dデータ作成サービス」と、お客様にものづくりソリューションを提供しているからこその高度な3D受託サービスを展開してきました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000237.000140772.html",
+    "pass": 3
+   },
+   {
+    "quote": "「3Dプリントサービス」に関しては、お客様の多様なご要望にお応えすべく、600mmサイズの大型3Dプリンタをはじめ、様々な造形方式･材料･サイズの多様な機種の3Dプリンタを導入し造形サービスを提供してまいりました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000237.000140772.html",
+    "pass": 3
+   },
+   {
+    "quote": "この度、お客様のさらなる要求に応えるべく、大型モデルの一括造形に対応した光造形方式大型3Dプリンタ SoonSer Mars Pro 850を導入し、対応機器ラインアップの充実とさらなるサービス向上を図ります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000237.000140772.html",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "料金・プラン",
+    "url": "https://prtimes.jp/main/html/rd/p/000000167.000140772.html",
+    "pass": 3
+   },
+   {
+    "quote": "材料・消耗品",
+    "url": "https://systemcreate-inc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "材料・消耗品一覧",
+    "url": "https://systemcreate-inc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "案件管理が定着した後は、見積業務の改善に取り組みました",
+    "url": "https://www.salesforce-assistant.com/jirei/c3_47.html",
+    "pass": 3
+   },
+   {
+    "quote": "当時、弊社では各営業担当者がExcelで見積書を作成していたのですが、この工数がボトルネックになって、肝心の商談時聞や商談の質を高めるための準備時聞を十分に確保できていませんでした",
+    "url": "https://www.salesforce-assistant.com/jirei/c3_47.html",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、営業担当者ではなくＣＳ(カスタマーサティスフアクション)部が見積作成するように分業を進めました",
+    "url": "https://www.salesforce-assistant.com/jirei/c3_47.html",
+    "pass": 3
+   },
+   {
+    "quote": "仕入先からの原価見積を元に営業担当者が値決めをして、見積作成をＣＳ部に依頼する、それらの情報はすべて NIさんの「見積共有管理」システムで共有されます",
+    "url": "https://www.salesforce-assistant.com/jirei/c3_47.html",
+    "pass": 3
+   },
+   {
+    "quote": "過去の提出見積はすべて蓄積されていますから、営業部も技術部も一貫したルールに基づいて価格提示ができるようになりました",
+    "url": "https://www.salesforce-assistant.com/jirei/c3_47.html",
+    "pass": 3
+   },
+   {
+    "quote": "見積共有管理",
+    "url": "https://www.salesforce-assistant.com/jirei/c3_47.html",
+    "pass": 3
+   },
+   {
+    "quote": "見積作成共有システム",
+    "url": "https://www.salesforce-assistant.com/jirei/c3_47.html",
+    "pass": 3
+   },
+   {
+    "quote": "・見積共有管理",
+    "url": "https://www.salesforce-assistant.com/jirei/c3_47.html",
+    "pass": 3
+   },
+   {
+    "quote": "消耗品購入はこちら",
+    "url": "https://aesub.jp/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%88%E3%80%80%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "手頃な価格で",
+    "url": "https://aesub.jp/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%88%E3%80%80%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "世界各国で使用されている理由には、様々なサイズ3Dプリンタが「低価格」で導入できることが挙げられます",
+    "url": "https://aesub.jp/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%88%E3%80%80%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "材料・消耗品",
+    "url": "https://systemcreate-inc.co.jp/contract",
+    "pass": 3
+   },
+   {
+    "quote": "材料・消耗品一覧",
+    "url": "https://systemcreate-inc.co.jp/contract",
+    "pass": 3
+   },
+   {
+    "quote": "料金・プラン",
+    "url": "https://prtimes.jp/main/html/rd/p/000000237.000140772.html",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "1000万円",
+    "url": "https://prtimes.jp/main/html/rd/p/000000167.000140772.html",
+    "pass": 3
+   },
+   {
+    "quote": "それまでは会杜案内が中心だったのですが、「我が杜は機械商社です」と謡っても、1,000万円の機械を買いたい」という問合せが入るはずがありません",
+    "url": "https://www.salesforce-assistant.com/jirei/c3_47.html",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円（2012年12月現在）",
+    "url": "https://www.salesforce-assistant.com/jirei/c3_47.html",
+    "pass": 3
+   },
+   {
+    "quote": "1000万円",
+    "url": "https://prtimes.jp/main/html/rd/p/000000237.000140772.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "「 システムクリエイト 」の 代理店 1社 注目ランキング【2026年】 — 「 システムクリエイト 」の 代理店 1社 注目ランキング【2026年】 Metoree https://metoree.com > ... > 株式会社システムクリエイト",
+    "url": "https://metoree.com/companies/4374/distributors/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 システムクリエイト 、Indart3D社と日本市場での 代理 ... — 株式会社 システムクリエイト 、Indart3D社と日本市場での 代理 ... PR TIMES https://prtimes.jp > 経営情報",
+    "url": "https://prtimes.jp/main/html/rd/p/000000167.000140772.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 システムクリエイト ホームページ — 株式会社 システムクリエイト ホームページ systemcreate-inc.co.jp https://systemcreate-inc.co.jp",
+    "url": "https://systemcreate-inc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店 に関して - システムクリエイト株式会社 — 代理店 に関して - システムクリエイト株式会社 s-cre.co.jp http://www.s-cre.co.jp > product > distributor",
+    "url": "http://www.s-cre.co.jp/product/distributor.php",
+    "pass": 3
+   },
+   {
+    "quote": "生保・損保 代理店 - システムクリエイト — 生保・損保 代理店 - システムクリエイト syscreate.jp https://www.syscreate.jp > 最新記事一覧 > システム開発",
+    "url": "https://www.syscreate.jp/insurance-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 システムクリエイト ｜ 導入 ・成功 事例 — 株式会社 システムクリエイト ｜ 導入 ・成功 事例 Sales Force Assistant https://www.salesforce-assistant.com > jirei",
+    "url": "https://www.salesforce-assistant.com/jirei/c3_47.html",
+    "pass": 3
+   },
+   {
+    "quote": "料金 について - 株式会社システムクリエイト — 料金 について - 株式会社システムクリエイト system-crsite.jp http://www.system-crsite.jp > kakaku",
+    "url": "http://www.system-crsite.jp/kakaku.html",
+    "pass": 3
+   },
+   {
+    "quote": "システムクリエイト ホームページ - AESUB — システムクリエイト ホームページ - AESUB aesub.jp https://aesub.jp > システムクリエイト　ホームページ",
+    "url": "https://aesub.jp/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%88%E3%80%80%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 システムクリエイト - ShareLab（シェアラボ） — 株式会社 システムクリエイト - ShareLab（シェアラボ） sharelab.jp https://sharelab.jp > 企業DB > 株式会社システムクリエイト",
+    "url": "https://sharelab.jp/company/systemcreate-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "システムクリエイト 株式会社（システム運用・東京都） 社員 ... — システムクリエイト 株式会社（システム運用・東京都） 社員 ... OpenWork https://www.openwork.jp > company",
+    "url": "https://www.openwork.jp/company.php?m_id=a0910000000HaKn",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリントサービス - 株式会社 システムクリエイト ... — 3Dプリントサービス - 株式会社 システムクリエイト ... systemcreate-inc.co.jp https://systemcreate-inc.co.jp > SCの3D受託サービス",
+    "url": "https://systemcreate-inc.co.jp/contract/3dprint_service",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://systemcreate-inc.co.jp（イプロス記載。本文未読",
+    "status": "network_error:InvalidURL",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://metoree.com/companies/4374/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000167.000140772.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://systemcreate-inc.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforce-assistant.com/jirei/c3_47.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.n-create.co.jp/pr/customers-voice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atled.jp/agileworks/case/softcreate/test",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "http://www.system-crsite.jp/kakaku.html",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://systemcreate-inc.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aesub.jp/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%88%E3%80%80%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://systemcreate-inc.co.jp/contract",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pr.mono.ipros.com/systemcreate-inc/product/detail/2001557884/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000237.000140772.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "システムクリエイト 代理店 契約",
+   "results": [
+    "https://metoree.com/companies/4374/distributors/",
+    "https://prtimes.jp/main/html/rd/p/000000167.000140772.html",
+    "https://systemcreate-inc.co.jp/",
+    "http://www.s-cre.co.jp/product/distributor.php",
+    "https://www.syscreate.jp/insurance-agent/",
+    "https://ascii.jp/elem/000/004/256/4256412/",
+    "https://www.kse-sc.co.jp/software/sales/sales_gaiyo_page1.html",
+    "https://www.bgent.net/view/1236/company",
+    "https://prtimes.jp/main/html/rd/p/000000009.000054814.html",
+    "https://prtimes.jp/main/html/rd/p/000000255.000140772.html"
+   ]
+  },
+  {
+   "query": "システムクリエイト 導入事例",
+   "results": [
+    "https://www.salesforce-assistant.com/jirei/c3_47.html",
+    "https://www.n-create.co.jp/pr/customers-voice/",
+    "https://www.atled.jp/agileworks/case/softcreate/test",
+    "https://systemcreate-inc.co.jp/",
+    "https://www.hitachi-solutions-create.co.jp/case/",
+    "https://www.youtube.com/@SYSTEMCREATEJPN",
+    "https://www.softcreate.co.jp/case",
+    "https://actcrt.jp/archives/331",
+    "https://arwrk.net/recruit/systemcreate/",
+    "https://news.mynavi.jp/techplus/casestudy/"
+   ]
+  },
+  {
+   "query": "システムクリエイト 価格 OR 料金",
+   "results": [
+    "http://www.system-crsite.jp/kakaku.html",
+    "https://systemcreate-inc.co.jp/",
+    "https://aesub.jp/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%88%E3%80%80%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8/",
+    "https://sharelab.jp/company/systemcreate-inc/",
+    "https://www.openwork.jp/company.php?m_id=a0910000000HaKn",
+    "https://metoree.com/categories/2090/4374/",
+    "https://systemcreate.jp/",
+    "https://www.smallmc-focus.com/manufacturer/systemcreate.html",
+    "https://ascii.jp/elem/000/004/256/4256412/",
+    "http://www.system-crsite.jp/keiyaku.html"
+   ]
+  },
+  {
+   "query": "システムクリエイト 受託 造形",
+   "results": [
+    "https://systemcreate-inc.co.jp/contract",
+    "https://pr.mono.ipros.com/systemcreate-inc/product/detail/2001557884/",
+    "https://prtimes.jp/main/html/rd/p/000000237.000140772.html",
+    "https://www.youtube.com/watch?v=TiQmjpwY-6w",
+    "https://systemcreate-inc.co.jp/contract/3dprint_service",
+    "https://ascii.jp/elem/000/004/252/4252226/",
+    "https://aesub.jp/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%88%E3%80%80%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8/",
+    "https://metoree.com/companies/4374/",
+    "https://www.autodesk.com/support/partners/-/1786",
+    "https://mono.ipros.com/product/detail/2001557884/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）",
+  "取引先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）"
+ }
+}

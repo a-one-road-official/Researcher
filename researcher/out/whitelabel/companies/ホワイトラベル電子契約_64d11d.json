@@ -1,0 +1,985 @@
+{
+ "name": "ホワイトラベル電子契約",
+ "en": "white label e-signature",
+ "aliases": [
+  "white-label electronic signature",
+  "white label esign"
+ ],
+ "context": "契約",
+ "kind": "market",
+ "researched_at": "2026-11-02T12:14:42.520576+00:00",
+ "evidence": {
+  "提供企業": [
+   {
+    "quote": "White-Label Electronic Signature Software: Top Options Compared - SignWell",
+    "url": "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label Electronic Signature Software: Top Options Compared",
+    "url": "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "pass": 3
+   },
+   {
+    "quote": "This guide covers what can actually be white-labeled, the features worth asking about, eight of the best providers for SaaS platforms and agencies, and what it all costs.",
+    "url": "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "pass": 3
+   },
+   {
+    "quote": "White-labeling can range from simple branding changes, like logos and colors, to deeper control over domains, email, and embedded experiences. Some providers also support different branding for each customer on your platform.",
+    "url": "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Instead of a link that reads app.vendorname.com, signers land on sign.yourcompany.com. This keeps the signing experience consistent with the rest of your product. Some providers reserve customer domains for higher tiers.",
+    "url": "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "pass": 3
+   },
+   {
+    "quote": "The 8 Best White Label Electronic Signature Software Options",
+    "url": "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Review all customer touchpoints, such as the signing page, emails, domain, and completion certificate. Do they feel part of a seamless experience?",
+    "url": "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Check the finished PDF and completion certificate. Request a sample. Some providers still stamp their own name on the certificate of completion even when the signing page itself is fully branded.",
+    "url": "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "pass": 3
+   },
+   {
+    "quote": "is for teams that want to embed or white-label signing, request/send, and template editing directly into their product via the API. It’s right for ISVs, SaaS platforms, and developer teams.>",
+    "url": "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "pass": 3
+   },
+   {
+    "quote": "With most providers, yes, though it’s often limited to higher tiers. You’ll typically need to verify domain ownership with DNS records such as SPF and DKIM before signing links, so emails route through your domain rather than the vendor’s.",
+    "url": "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Some providers support this, but many don’t. It’s usually called multi-tenant or per-customer branding. If you run a platform serving many customers, confirm this before buying rather than assuming it’s included.",
+    "url": "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label solution for digital signatures | Certifaction",
+    "url": "https://certifaction.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Solution",
+    "url": "https://certifaction.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Our white label solution already runs under strong brands such as",
+    "url": "https://certifaction.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Join the market leaders and launch your customised white label solution.",
+    "url": "https://certifaction.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "White label solution",
+    "url": "https://certifaction.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Signater vs DocuSign",
+    "url": "https://signater.com/reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Signater vs Adobe Sign",
+    "url": "https://signater.com/reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Signater vs Dropbox Sign",
+    "url": "https://signater.com/reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Signater vs PandaDoc",
+    "url": "https://signater.com/reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Signater vs SignNow",
+    "url": "https://signater.com/reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Signater vs Zoho Sign",
+    "url": "https://signater.com/reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "review, edit, red-line, and approve",
+    "url": "https://www.docubee.com/blog/white-label-esignature-partner-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "benefits both parties, enhancing the reach of the firm that owns the solution while enhancing the offerings of the implementing firm. Like custom-branded solutions, white label solutions can also be custom branded – but they can go much farther, allowing the implementing partner firm unlimited customizations to fit their use case. All while maintaining the tool’s core functionality!",
+    "url": "https://www.docubee.com/blog/white-label-esignature-partner-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "When a firm implements a white label solution, they work alongside their partner firm to design and integrate the exact functionality and branding they need for their business case.",
+    "url": "https://www.docubee.com/blog/white-label-esignature-partner-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "That’s the heart of it: a white label solution isn’t just a solution – it’s a partnership with countless benefits. Here are just a few benefits to choosing white label for your eSignatures.",
+    "url": "https://www.docubee.com/blog/white-label-esignature-partner-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "– A white label solution offers eSignatures so adapted to your clients’ needs, they may not be able to tell you didn’t design it from scratch. (But you didn’t!)",
+    "url": "https://www.docubee.com/blog/white-label-esignature-partner-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "Why might choosing a white label partner ultimately be",
+    "url": "https://www.docubee.com/blog/white-label-esignature-partner-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "Docubee Reviews",
+    "url": "https://www.docubee.com/blog/white-label-esignature-partner-benefits/",
+    "pass": 3
+   }
+  ],
+  "自社名で出せる条件": [
+   {
+    "quote": "White-Label Electronic Signature Software: Top Options Compared - SignWell",
+    "url": "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label Electronic Signature Software: Top Options Compared",
+    "url": "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label electronic signature software helps solve that problem by keeping the signing experience under your brand. Depending on the provider, this can include your logo, colors, domain, and emails, so customers see your brand throughout the signing process.",
+    "url": "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "pass": 3
+   },
+   {
+    "quote": "This guide covers what can actually be white-labeled, the features worth asking about, eight of the best providers for SaaS platforms and agencies, and what it all costs.",
+    "url": "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "pass": 3
+   },
+   {
+    "quote": "What is White-Label Electronic Signature Software?",
+    "url": "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label electronic signature software lets you remove a vendor’s branding and replace it with your own. Instead of your customers seeing “Powered by [Vendor],” they see your branding throughout the signing experience.",
+    "url": "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "pass": 3
+   },
+   {
+    "quote": "White-labeling can range from simple branding changes, like logos and colors, to deeper control over domains, email, and embedded experiences. Some providers also support different branding for each customer on your platform.",
+    "url": "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "pass": 3
+   },
+   {
+    "quote": "White Labeling for Your Own Brand",
+    "url": "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "pass": 3
+   },
+   {
+    "quote": "In this case, you want the signing experience to look like your product. Email invitations and reminders come from your domain. The signing page shows your logo and colors. Your customers never see the name of the company whose API you’re using behind the scenes.",
+    "url": "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "pass": 3
+   },
+   {
+    "quote": "White Labeling for Your Customers’ Brands",
+    "url": "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "pass": 3
+   },
+   {
+    "quote": "What Actually Gets White-Labeled in an eSignature Solution",
+    "url": "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "pass": 3
+   },
+   {
+    "quote": "“White label” can mean different things. Some only let you swap a logo. Others let you rebuild the entire signing flow under your own domain. Make sure you understand exactly what you’re getting.",
+    "url": "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Custom domain for signing links.",
+    "url": "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "pass": 3
+   },
+   {
+    "quote": "The 8 Best White Label Electronic Signature Software Options",
+    "url": "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Here’s how eight leading options stack up in terms of white-labeling depth, embedded signing, and pricing.",
+    "url": "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label solution for digital signatures | Certifaction",
+    "url": "https://certifaction.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Solution",
+    "url": "https://certifaction.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Digital value creation under your brand - secure, scalable, proven",
+    "url": "https://certifaction.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "White label eSigning: Unrivalled security for your customers",
+    "url": "https://certifaction.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "White label",
+    "url": "https://certifaction.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "eSignature solution under your own brand – with",
+    "url": "https://certifaction.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Secure & scale your brand",
+    "url": "https://certifaction.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "\"Our White Label instance gives Switch customers the impression of being in a “Switch” ecosystem rather than a supplier-based ecosystem.\"",
+    "url": "https://certifaction.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Offer your customers a proven eSignature solution under your branding, as well as a natural extension of their existing product range (one-stop shop with FE, IPSP and TSP services).",
+    "url": "https://certifaction.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Thanks to the simple implementation and customisation of the white label, only minimal effort is required on your part. Expand your portfolio and create a new source of revenue with minimal risk.",
+    "url": "https://certifaction.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Our white label solution already runs under strong brands such as",
+    "url": "https://certifaction.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Join the market leaders and launch your customised white label solution.",
+    "url": "https://certifaction.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "White labelling as a recipe for success",
+    "url": "https://certifaction.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "With our white label, you can access as much or as little as you like. Brand our platform in your design, host the solution of your choice or integrate eSigning seamlessly into your software.",
+    "url": "https://certifaction.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Logo and colours are customisable. We also develop new features together if required. From simple adjustments such as logo and colour scheme to the development of individual functions – our white label product offers full flexibility. On request, we can integrate your existing products or develop new features together – tailored to your roadmap.",
+    "url": "https://certifaction.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label electronic signature reseller program | Signater",
+    "url": "https://signater.com/reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label",
+    "url": "https://signater.com/reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Your logos, colors, domain and SMTP; resale included",
+    "url": "https://signater.com/reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label Reseller",
+    "url": "https://signater.com/reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "The platform under your brand, to sell to the clients you already serve",
+    "url": "https://signater.com/reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label reseller program",
+    "url": "https://signater.com/reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "electronic signatures under your brand.",
+    "url": "https://signater.com/reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "serve. You set the price, you keep the margin — and your brand works",
+    "url": "https://signater.com/reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Your client's clients sign there too — they see your brand and discover your company in places you would never reach.",
+    "url": "https://signater.com/reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Every document leaving your operation carries your brand, not a",
+    "url": "https://signater.com/reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Your brand shows up where you could never reach",
+    "url": "https://signater.com/reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Your client's clients sign there too — they see your brand and",
+    "url": "https://signater.com/reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Each managed account runs under your brand and has its own envelope balance — it never draws from the parent's.",
+    "url": "https://signater.com/reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Your company's parent account unlocks the white label and the right to create managed accounts.",
+    "url": "https://signater.com/reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Set up your brand",
+    "url": "https://signater.com/reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label eSignature Partner Benefits | Docubee",
+    "url": "https://www.docubee.com/blog/white-label-esignature-partner-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "7 Benefits of Having a White Label eSignature Partner",
+    "url": "https://www.docubee.com/blog/white-label-esignature-partner-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "What is White Labeling?",
+    "url": "https://www.docubee.com/blog/white-label-esignature-partner-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "How a White Label eSign Partner Makes Your Life Easier",
+    "url": "https://www.docubee.com/blog/white-label-esignature-partner-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "7 Benefits to Implementing White Label eSignatures",
+    "url": "https://www.docubee.com/blog/white-label-esignature-partner-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label eSignatures via the Docubee Channel Partner Program",
+    "url": "https://www.docubee.com/blog/white-label-esignature-partner-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "However, a white-label solution through a",
+    "url": "https://www.docubee.com/blog/white-label-esignature-partner-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "White labeling refers to a pre-built software service that the designing firm licenses a partnering firm to use and customize according to their unique needs. This",
+    "url": "https://www.docubee.com/blog/white-label-esignature-partner-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "benefits both parties, enhancing the reach of the firm that owns the solution while enhancing the offerings of the implementing firm. Like custom-branded solutions, white label solutions can also be custom branded – but they can go much farther, allowing the implementing partner firm unlimited customizations to fit their use case. All while maintaining the tool’s core functionality!",
+    "url": "https://www.docubee.com/blog/white-label-esignature-partner-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "When a firm implements a white label solution, they work alongside their partner firm to design and integrate the exact functionality and branding they need for their business case.",
+    "url": "https://www.docubee.com/blog/white-label-esignature-partner-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "That’s the heart of it: a white label solution isn’t just a solution – it’s a partnership with countless benefits. Here are just a few benefits to choosing white label for your eSignatures.",
+    "url": "https://www.docubee.com/blog/white-label-esignature-partner-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "– A white label solution offers eSignatures so adapted to your clients’ needs, they may not be able to tell you didn’t design it from scratch. (But you didn’t!)",
+    "url": "https://www.docubee.com/blog/white-label-esignature-partner-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "– White label eSignatures can be tailored to integrate seamlessly with your existing tech stack, with no overhaul needed. This means you’re adding key functionality.",
+    "url": "https://www.docubee.com/blog/white-label-esignature-partner-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "– The right partner should be a partner, not just a vendor – think of it as a two-way street. Your white label software partner should offer custom pricing that reflects the value to your organization. They should also walk with you hand-in-hand to help tailor the solution to your needs over time.",
+    "url": "https://www.docubee.com/blog/white-label-esignature-partner-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "Why might choosing a white label partner ultimately be",
+    "url": "https://www.docubee.com/blog/white-label-esignature-partner-benefits/",
+    "pass": 3
+   }
+  ],
+  "再販制度": [
+   {
+    "quote": "This case is more complex, and it matters most for multi-tenant platforms, agencies, and resellers. It’s when you give each of your customers their own branded signing experience that they display to their customers.",
+    "url": "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Agencies that resell document workflows to clients need the same thing. Each client gets a signing experience branded as if the agency built it from scratch. In this case, it’s important to know whether each customer needs a separate account or a paid sender seat with the eSignature provider.",
+    "url": "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "pass": 3
+   },
+   {
+    "quote": "OneSpan Sign is a bank-grade eSignature platform for financial institutions, insurers, and other heavily regulated organizations. Its OEM and ISV track is built for vendors who want to embed signing into their own software and resell it.",
+    "url": "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "pass": 3
+   },
+   {
+    "quote": "You pay for each person on your team who sends documents, regardless of how many they send. This is fine for internal teams, but it doesn’t work for a platform reselling signing to hundreds of end customers, since you’d need a seat for each of them.",
+    "url": "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "pass": 3
+   },
+   {
+    "quote": "If you’re reselling or embedding signing into a product other people will use, a per-document or usage-based model usually keeps your costs aligned with your revenue.",
+    "url": "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Want to Resell or Embed eSignatures? Join the SignWell Partner Program",
+    "url": "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "pass": 3
+   },
+   {
+    "quote": "If you’re evaluating white-label eSignature software because you plan to resell it or build it into your product, the",
+    "url": "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "pass": 3
+   },
+   {
+    "quote": "SignWell partner program",
+    "url": "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "pass": 3
+   },
+   {
+    "quote": "is for teams that want to sell, refer, or service SignWell for their customers. It’s a good fit for MSPs, resellers, affiliates, distributors, and consultants.",
+    "url": "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Partners get access to flexible incentives across referral, resale, and revenue share models, a sandbox for testing, and support from the SignWell team. Pricing is also built to protect your margins, since SignWell tends to run meaningfully cheaper than most eSignature platforms.",
+    "url": "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Referral Program",
+    "url": "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label electronic signature reseller program | Signater",
+    "url": "https://signater.com/reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Affiliate Program",
+    "url": "https://signater.com/reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Refer Signater and earn recurring commission for every customer",
+    "url": "https://signater.com/reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label Reseller",
+    "url": "https://signater.com/reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label reseller program",
+    "url": "https://signater.com/reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "serve. You set the price, you keep the margin — and your brand works",
+    "url": "https://signater.com/reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "The margin is just the start: the platform works for your company even when you're not selling.",
+    "url": "https://signater.com/reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Each client gets a managed account on a wholesale plan, with its own envelope balance.",
+    "url": "https://signater.com/reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "You buy wholesale.",
+    "url": "https://signater.com/reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "margin that repeats",
+    "url": "https://signater.com/reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "The full numbers — wholesale plans and the price ranges resellers charge",
+    "url": "https://signater.com/reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "See reselling at work in your company's scenario",
+    "url": "https://signater.com/reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "wholesale plans and the price ranges resellers charge — and you leave",
+    "url": "https://signater.com/reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Do I need to be technical to resell?",
+    "url": "https://signater.com/reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Entry conditions and wholesale plans are presented in the demo, along with a simulation for your company's scenario. The program is designed so the risk of starting is as small as possible.",
+    "url": "https://signater.com/reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Docubee Launches New eSignature Partner Program",
+    "url": "https://www.docubee.com/blog/white-label-esignature-partner-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label eSignatures via the Docubee Channel Partner Program",
+    "url": "https://www.docubee.com/blog/white-label-esignature-partner-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "channel partner program",
+    "url": "https://www.docubee.com/blog/white-label-esignature-partner-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "– Excess development sprints can burden your software developers. Custom channel partner programs don’t require any coding on your end! A robust partner will customize the solution to your needs based on feedback you provide.",
+    "url": "https://www.docubee.com/blog/white-label-esignature-partner-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "partner programs like Docubee’s",
+    "url": "https://www.docubee.com/blog/white-label-esignature-partner-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "Think of it this way: the best channel partner programs give you",
+    "url": "https://www.docubee.com/blog/white-label-esignature-partner-benefits/",
+    "pass": 3
+   }
+  ],
+  "無料体験・貸出": [
+   {
+    "quote": "60 free documents; API Developer Plan $40/mo after trial",
+    "url": "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Test the API and sandbox. Have a developer spend an afternoon with the sandbox before you sign anything. Documentation quality and real integration time vary.",
+    "url": "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Partners get access to flexible incentives across referral, resale, and revenue share models, a sandbox for testing, and support from the SignWell team. Pricing is also built to protect your margins, since SignWell tends to run meaningfully cheaper than most eSignature platforms.",
+    "url": "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Free trial",
+    "url": "https://certifaction.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Create envelopes from your system: REST, revocable keys and a sandbox",
+    "url": "https://signater.com/reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Free Trial",
+    "url": "https://www.docubee.com/blog/white-label-esignature-partner-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "Start your Free Trial",
+    "url": "https://www.docubee.com/blog/white-label-esignature-partner-benefits/",
+    "pass": 3
+   },
+   {
+    "quote": "Add your info to start your free trial.",
+    "url": "https://www.docubee.com/blog/white-label-esignature-partner-benefits/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "$10/mo (app) or from $0.85/doc (API)",
+    "url": "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "pass": 3
+   },
+   {
+    "quote": "$15/mo app, $75/mo for embedded API",
+    "url": "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "pass": 3
+   },
+   {
+    "quote": "$50/mo developer tier, higher tiers may be required depending on production volume, branding, authentication, and support requirements",
+    "url": "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "pass": 3
+   },
+   {
+    "quote": "$146/mo (Professional API, 1,000 invites/yr, billed annually)",
+    "url": "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "pass": 3
+   },
+   {
+    "quote": "$30/mo (Enterprise API) plus $0.75 per envelope over quota",
+    "url": "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "pass": 3
+   },
+   {
+    "quote": "As an affiliate you refer and earn 20% recurring, without operating anything — the brand is Signater's. As a reseller the platform is yours: your brand, your price, your client. You can start as an affiliate and move up to reselling later.",
+    "url": "https://signater.com/reseller/",
+    "pass": 3
+   }
+  ],
+  "使いやすさ": [
+   {
+    "quote": "Client Onboarding Workflow: How to Build and Automate It",
+    "url": "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "pass": 3
+   },
+   {
+    "quote": "A consistent and fast client onboarding workflow helps every new client get the same clear, organized experience. Documenting your workflow makes it consistent, but speed…",
+    "url": "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Training & onboarding for your in-house sales and support team",
+    "url": "https://certifaction.com/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "In 30 minutes we show the platform running under your brand, the",
+    "url": "https://signater.com/reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "In 30 minutes we show the platform under your brand, the wholesale",
+    "url": "https://signater.com/reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Documents signed in minutes, with legal validity and top-tier",
+    "url": "https://signater.com/reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Onboarding",
+    "url": "https://www.docubee.com/blog/white-label-esignature-partner-benefits/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pandadoc.com/blog/best-electronic-signature-software/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://verdocs.com/blog/white-label-esignature-solution-trends",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://avokaado.io/stories/best-electronic-signature-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/DevCompanyInsights/comments/1ssgdyl/top_white_label_software_development_companies_in/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://certifaction.com/white-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://signater.com/reseller/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.esign.ai/blog/white-label-esignature-platform-branding-customization",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boldsign.com/electronic-signature-pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.signwell.com/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.docubee.com/blog/white-label-esignature-partner-benefits/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eversign.com/blog/best-free-and-low-cost-e-signature-software-for-small-businesses",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trustradius.com/categories/electronic-signature?free-pricing=true",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://documentesign.com/electronic-signature-features/custom-branding",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://firma.dev/insights/complete-guide-white-label-e-signature-api",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://resources.signnow.com/info-esignature/which-esignature-platforms-offer-white-labeling",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/white-label-business-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.gimm.io/the-first-white-labeled-email-signature-generator-is-here/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://globallawexperts.com/news/electronic-signatures-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoho.com/sign/electronic-signatures/legality/japan.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.docusign.com/products/electronic-signature/legality/japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.paulhastings.com/insights/client-alerts/japans-twilight-of-wet-signatures-and-chops-contract-practice-moves-towards",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.onespan.com/resources/esignature-legality/japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.signtime.com/jp/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onespan.com/sites/default/files/2020-07/OneSpan-Sign-Datasheet-A4-JP_20180618-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.docusign.com/ja-jp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dnp.co.jp/biz/products/detail/20172479_4986.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsukaeru.net/blog/whitelabel-ja/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "best white label e-signature 2026",
+   "results": [
+    "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "https://www.pandadoc.com/blog/best-electronic-signature-software/",
+    "https://verdocs.com/blog/white-label-esignature-solution-trends",
+    "https://avokaado.io/stories/best-electronic-signature-software",
+    "https://www.reddit.com/r/DevCompanyInsights/comments/1ssgdyl/top_white_label_software_development_companies_in/",
+    "https://resources.signnow.com/info-esignature/which-esignature-platforms-offer-white-labeling",
+    "https://signwhitehub.com/en/blog/white-label-e-signature-software-guide",
+    "https://certifaction.com/white-label/",
+    "https://www.proposify.com/blog/best-e-signature-software",
+    "https://www.esign.ai/blog/best-white-label-e-signature-api"
+   ]
+  },
+  {
+   "query": "white label e-signature reseller program agencies",
+   "results": [
+    "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "https://certifaction.com/white-label/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://signater.com/reseller/",
+    "https://www.esign.ai/blog/white-label-esignature-platform-branding-customization",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://signwhitehub.com/en/blog/white-label-e-signature-software-guide",
+    "https://www.docubee.com/blog/white-label-esignature-partner-benefits/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://resellportal.com/products/document-signer/"
+   ]
+  },
+  {
+   "query": "white label e-signature free trial pricing",
+   "results": [
+    "https://boldsign.com/electronic-signature-pricing/",
+    "https://www.signwell.com/pricing/",
+    "https://www.docubee.com/blog/white-label-esignature-partner-benefits/",
+    "https://eversign.com/blog/best-free-and-low-cost-e-signature-software-for-small-businesses",
+    "https://www.trustradius.com/categories/electronic-signature?free-pricing=true",
+    "https://signwhitehub.com/en/blog/white-label-e-signature-software-guide",
+    "https://documentesign.com/blog/new-plans-free-growth-business-ultimate",
+    "https://www.esign.ai/blog/e-signature-software-free-trial",
+    "https://www.pandadoc.com/free-electronic-signature-software/",
+    "https://wesignature.com/pricing/"
+   ]
+  },
+  {
+   "query": "white label e-signature rebrand your logo custom domain",
+   "results": [
+    "https://documentesign.com/electronic-signature-features/custom-branding",
+    "https://firma.dev/insights/complete-guide-white-label-e-signature-api",
+    "https://www.signwell.com/resources/white-label-electronic-signature-software/",
+    "https://www.youtube.com/watch?v=mLGVr6MEkHE",
+    "https://resources.signnow.com/info-esignature/which-esignature-platforms-offer-white-labeling",
+    "https://suitedash.com/white-label-business-software/",
+    "https://blog.gimm.io/the-first-white-labeled-email-signature-generator-is-here/",
+    "https://panoee.com/document/setup-white-label",
+    "https://lindo.ai/blogs/en/white-label-website-builder-complete-guide",
+    "https://signb.ee/blog/white-label-esignature-api-custom-branding"
+   ]
+  },
+  {
+   "query": "white label e-signature Japan Japanese",
+   "results": [
+    "https://globallawexperts.com/electronic-signatures-japan/",
+    "https://www.zoho.com/sign/electronic-signatures/legality/japan.html",
+    "https://www.docusign.com/products/electronic-signature/legality/japan",
+    "https://www.paulhastings.com/insights/client-alerts/japans-twilight-of-wet-signatures-and-chops-contract-practice-moves-towards",
+    "https://www.onespan.com/resources/esignature-legality/japan",
+    "https://www.omm.com/insights/alerts-publications/current-status-of-electronic-signatures-law-and-presumption-of-authenticity-in-japan-can-a-handwritten-signature-or-hanko-be-omitted/",
+    "https://wpsigner.com/electronic-signatures-japan/",
+    "https://www.paperless.io/en/product/white-label",
+    "https://www.japaneselawtranslation.go.jp/en/laws/view/3821/en",
+    "https://helpx.adobe.com/legal/esignatures/regulations/japan.html"
+   ]
+  },
+  {
+   "query": "ホワイトラベル電子契約 日本",
+   "results": [
+    "https://www.signtime.com/jp/partner-program/",
+    "https://www.onespan.com/sites/default/files/2020-07/OneSpan-Sign-Datasheet-A4-JP_20180618-1.pdf",
+    "https://www.docusign.com/ja-jp",
+    "https://www.dnp.co.jp/biz/products/detail/20172479_4986.html",
+    "https://www.tsukaeru.net/blog/whitelabel-ja/",
+    "https://prtimes.jp/main/html/rd/p/000000040.000073223.html",
+    "https://www.cloudsign.jp/",
+    "https://wan-sign.wanbishi.co.jp/",
+    "https://stripe.com/jp/resources/more/white-label-payfacs-explained",
+    "https://simple-contract.com/for/white-label"
+   ]
+  }
+ ],
+ "missing": {
+  "日本対応": "記載なし（読んだ30頁・検索6回）"
+ }
+}

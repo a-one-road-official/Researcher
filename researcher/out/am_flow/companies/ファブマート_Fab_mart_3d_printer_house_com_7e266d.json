@@ -1,0 +1,1497 @@
+{
+ "name": "ファブマート(Fab mart / 3d-printer-house.com)",
+ "aliases": [],
+ "context": "EC(Markforged METAL Xの見積導線があるが販売の明記なし) / 記載なし(METAL X見積リンクあり)",
+ "researched_at": "2026-11-02T12:13:08.780131+00:00",
+ "official_url": "https://3d-printer-house.com/",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "：2013年7月",
+    "url": "https://3d-printer-house.com/shop/about/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何をする": [
+   {
+    "quote": "オートマティックスキャン、フリースキャンの2種類のモードを搭載",
+    "url": "https://3d-printer-house.com/shop/",
+    "pass": 1
+   },
+   {
+    "quote": "【2026年】3Dプリンター販売店6つを徹底比較｜おすすめの機種や販売コストも紹介",
+    "url": "https://3d-printer-house.com/shop/",
+    "pass": 1
+   },
+   {
+    "quote": "法人様販売窓口",
+    "url": "https://3d-printer-house.com/shop/",
+    "pass": 1
+   },
+   {
+    "quote": "法人様販売窓口",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=6",
+    "pass": 1
+   },
+   {
+    "quote": "法人様販売窓口",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=7",
+    "pass": 1
+   },
+   {
+    "quote": "法人様販売窓口",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=8",
+    "pass": 1
+   },
+   {
+    "quote": "法人様販売窓口",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=10",
+    "pass": 1
+   },
+   {
+    "quote": "法人様販売窓口",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=30",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンターはメディアでの露出は少なくなっているものの、医療業界での活用や、製造業での製品の試作で活用されている事例がかなり増え、今まで以上に効率的なものづくりのためのツールとして広く活用されています",
+    "url": "https://3d-printer-house.com/shop/about/",
+    "pass": 1
+   },
+   {
+    "quote": "法人様販売窓口",
+    "url": "https://3d-printer-house.com/shop/about/",
+    "pass": 1
+   },
+   {
+    "quote": "法人様販売窓口",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?srtkey=price&srttype=ASC&wcex_s_key=&price_fromf=&price_tof=",
+    "pass": 1
+   },
+   {
+    "quote": "長年釣具関係の開発設計に携わり、現在はAutodesk Fusion・Solidworks・AutoCAD・Revitなど様々なCADのセミナー講師をしております",
+    "url": "https://3d-printer-house.com/shop/about-filament/",
+    "pass": 1
+   },
+   {
+    "quote": "後工程で研磨などを行う試作品",
+    "url": "https://3d-printer-house.com/shop/about-filament/",
+    "pass": 1
+   },
+   {
+    "quote": "法人様販売窓口",
+    "url": "https://3d-printer-house.com/shop/about-filament/",
+    "pass": 1
+   },
+   {
+    "quote": "法人様販売窓口",
+    "url": "https://3d-printer-house.com/shop/tag/%E4%BD%8E%E4%BE%A1%E6%A0%BC/",
+    "pass": 1
+   },
+   {
+    "quote": "長年釣具関係の開発設計に携わり、現在はAutodesk Fusion・Solidworks・AutoCAD・Revitなど様々なCADのセミナー講師をしております",
+    "url": "https://3d-printer-house.com/shop/3d-printer-teikakaku/",
+    "pass": 1
+   },
+   {
+    "quote": "完全自動レベリング・クイックリリースノズル",
+    "url": "https://3d-printer-house.com/shop/3d-printer-teikakaku/",
+    "pass": 1
+   },
+   {
+    "quote": "単色の部品や試作品だけではなく、複数の色を使った模型やデザインモデルを作るのもよいでしょう",
+    "url": "https://3d-printer-house.com/shop/3d-printer-teikakaku/",
+    "pass": 1
+   },
+   {
+    "quote": "低価格帯でも、ある程度サイズのある部品や、試作品などを作りたい場合に向いている3Dプリンターです",
+    "url": "https://3d-printer-house.com/shop/3d-printer-teikakaku/",
+    "pass": 1
+   },
+   {
+    "quote": "低価格モデルで部品・治具・試作品などを継続的に造形しつつ、設定やメンテナンスの負担を抑えたい人におすすめの低価格3Dプリンターです",
+    "url": "https://3d-printer-house.com/shop/3d-printer-teikakaku/",
+    "pass": 1
+   },
+   {
+    "quote": "単色の部品・試作品だけでなく、色分けした模型やデザインモデルを作りたい場合にも活用できる3Dプリンターです",
+    "url": "https://3d-printer-house.com/shop/3d-printer-teikakaku/",
+    "pass": 1
+   },
+   {
+    "quote": "単色の試作品を中心に造形する場合は、マルチカラー機能がなくても問題ないケースも少なくありません",
+    "url": "https://3d-printer-house.com/shop/3d-printer-teikakaku/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリント用データの作成ならAutodesk Fusionセミナーがおすすめ",
+    "url": "https://3d-printer-house.com/shop/3d-printer-teikakaku/",
+    "pass": 1
+   },
+   {
+    "quote": "オリジナルの部品・治具・試作品などを低価格の3Dプリンターで造形をする場合は、自分で3Dデータを作成する方法があるため、Autodesk Fusionのような3DCADソフトの活用がおすすめです",
+    "url": "https://3d-printer-house.com/shop/3d-printer-teikakaku/",
+    "pass": 1
+   },
+   {
+    "quote": "これから操作を学びたい人は、ぜひAutodesk Fusionセミナーの受講もご検討ください",
+    "url": "https://3d-printer-house.com/shop/3d-printer-teikakaku/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dモデルの設計から3Dプリント用データを作成するまでの一連の操作を体系的に習得できます",
+    "url": "https://3d-printer-house.com/shop/3d-printer-teikakaku/",
+    "pass": 1
+   },
+   {
+    "quote": "Autodesk Fusionセミナー講習",
+    "url": "https://3d-printer-house.com/shop/3d-printer-teikakaku/",
+    "pass": 1
+   },
+   {
+    "quote": "Autodesk Fusionセミナーの詳細はこちら",
+    "url": "https://3d-printer-house.com/shop/3d-printer-teikakaku/",
+    "pass": 1
+   },
+   {
+    "quote": "法人様販売窓口",
+    "url": "https://3d-printer-house.com/shop/3d-printer-teikakaku/",
+    "pass": 1
+   },
+   {
+    "quote": "法人様販売窓口",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=13",
+    "pass": 1
+   },
+   {
+    "quote": "法人様販売窓口",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=23",
+    "pass": 1
+   },
+   {
+    "quote": "法人様販売窓口",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=49",
+    "pass": 1
+   },
+   {
+    "quote": "法人様販売窓口",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=15",
+    "pass": 1
+   },
+   {
+    "quote": "法人様販売窓口",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=58",
+    "pass": 1
+   },
+   {
+    "quote": "法人様販売窓口",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=19",
+    "pass": 1
+   },
+   {
+    "quote": "法人様販売窓口",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=48",
+    "pass": 1
+   },
+   {
+    "quote": "法人様販売窓口",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=17",
+    "pass": 1
+   },
+   {
+    "quote": "法人様販売窓口",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=20",
+    "pass": 1
+   },
+   {
+    "quote": "法人様販売窓口",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=25",
+    "pass": 1
+   },
+   {
+    "quote": "法人様販売窓口",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=62",
+    "pass": 1
+   },
+   {
+    "quote": "法人様販売窓口",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=6&srtkey=price&srttype=DESC",
+    "pass": 1
+   },
+   {
+    "quote": "法人様販売窓口",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=6&srtkey=ranking_sold&srttype=ASC",
+    "pass": 1
+   },
+   {
+    "quote": "法人様販売窓口",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=6&srtkey=ranking_sold&srttype=DESC",
+    "pass": 1
+   },
+   {
+    "quote": "法人様販売窓口",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=6&srtkey=maxsize&srttype=ASC",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "※ お振込み手数料はお客様ご負担でお願いいたします",
+    "url": "https://3d-printer-house.com/shop/",
+    "pass": 1
+   },
+   {
+    "quote": "※ 法人のお客様につきましては、請求書でのお支払いも承っております",
+    "url": "https://3d-printer-house.com/shop/",
+    "pass": 1
+   },
+   {
+    "quote": "合計金額10,000円以上お買い上げのお客様は送料無料となります",
+    "url": "https://3d-printer-house.com/shop/",
+    "pass": 1
+   },
+   {
+    "quote": "※商品が未開封/未使用状態であっても、お客様都合での返品は受付致しかねます",
+    "url": "https://3d-printer-house.com/shop/",
+    "pass": 1
+   },
+   {
+    "quote": "○お客様都合の具体例",
+    "url": "https://3d-printer-house.com/shop/",
+    "pass": 1
+   },
+   {
+    "quote": "・お客様の取り扱いによる傷や汚れがついた商品",
+    "url": "https://3d-printer-house.com/shop/",
+    "pass": 1
+   },
+   {
+    "quote": "（※お客様都合の返品は除く）",
+    "url": "https://3d-printer-house.com/shop/",
+    "pass": 1
+   },
+   {
+    "quote": "※ お振込み手数料はお客様ご負担でお願いいたします",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=6",
+    "pass": 1
+   },
+   {
+    "quote": "※ 法人のお客様につきましては、請求書でのお支払いも承っております",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=6",
+    "pass": 1
+   },
+   {
+    "quote": "合計金額10,000円以上お買い上げのお客様は送料無料となります",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=6",
+    "pass": 1
+   },
+   {
+    "quote": "※商品が未開封/未使用状態であっても、お客様都合での返品は受付致しかねます",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=6",
+    "pass": 1
+   },
+   {
+    "quote": "○お客様都合の具体例",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=6",
+    "pass": 1
+   },
+   {
+    "quote": "・お客様の取り扱いによる傷や汚れがついた商品",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=6",
+    "pass": 1
+   },
+   {
+    "quote": "（※お客様都合の返品は除く）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=6",
+    "pass": 1
+   },
+   {
+    "quote": "※ お振込み手数料はお客様ご負担でお願いいたします",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=7",
+    "pass": 1
+   },
+   {
+    "quote": "※ 法人のお客様につきましては、請求書でのお支払いも承っております",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=7",
+    "pass": 1
+   },
+   {
+    "quote": "合計金額10,000円以上お買い上げのお客様は送料無料となります",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=7",
+    "pass": 1
+   },
+   {
+    "quote": "※商品が未開封/未使用状態であっても、お客様都合での返品は受付致しかねます",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=7",
+    "pass": 1
+   },
+   {
+    "quote": "○お客様都合の具体例",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=7",
+    "pass": 1
+   },
+   {
+    "quote": "・お客様の取り扱いによる傷や汚れがついた商品",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=7",
+    "pass": 1
+   },
+   {
+    "quote": "（※お客様都合の返品は除く）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=7",
+    "pass": 1
+   },
+   {
+    "quote": "※ お振込み手数料はお客様ご負担でお願いいたします",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=8",
+    "pass": 1
+   },
+   {
+    "quote": "※ 法人のお客様につきましては、請求書でのお支払いも承っております",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=8",
+    "pass": 1
+   },
+   {
+    "quote": "合計金額10,000円以上お買い上げのお客様は送料無料となります",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=8",
+    "pass": 1
+   },
+   {
+    "quote": "※商品が未開封/未使用状態であっても、お客様都合での返品は受付致しかねます",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=8",
+    "pass": 1
+   },
+   {
+    "quote": "○お客様都合の具体例",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=8",
+    "pass": 1
+   },
+   {
+    "quote": "・お客様の取り扱いによる傷や汚れがついた商品",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=8",
+    "pass": 1
+   },
+   {
+    "quote": "（※お客様都合の返品は除く）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=8",
+    "pass": 1
+   },
+   {
+    "quote": "※ お振込み手数料はお客様ご負担でお願いいたします",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=10",
+    "pass": 1
+   },
+   {
+    "quote": "※ 法人のお客様につきましては、請求書でのお支払いも承っております",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=10",
+    "pass": 1
+   },
+   {
+    "quote": "合計金額10,000円以上お買い上げのお客様は送料無料となります",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=10",
+    "pass": 1
+   },
+   {
+    "quote": "※商品が未開封/未使用状態であっても、お客様都合での返品は受付致しかねます",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=10",
+    "pass": 1
+   },
+   {
+    "quote": "○お客様都合の具体例",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=10",
+    "pass": 1
+   },
+   {
+    "quote": "・お客様の取り扱いによる傷や汚れがついた商品",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=10",
+    "pass": 1
+   },
+   {
+    "quote": "（※お客様都合の返品は除く）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=10",
+    "pass": 1
+   },
+   {
+    "quote": "※ お振込み手数料はお客様ご負担でお願いいたします",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=30",
+    "pass": 1
+   },
+   {
+    "quote": "※ 法人のお客様につきましては、請求書でのお支払いも承っております",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=30",
+    "pass": 1
+   },
+   {
+    "quote": "合計金額10,000円以上お買い上げのお客様は送料無料となります",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=30",
+    "pass": 1
+   },
+   {
+    "quote": "※商品が未開封/未使用状態であっても、お客様都合での返品は受付致しかねます",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=30",
+    "pass": 1
+   },
+   {
+    "quote": "○お客様都合の具体例",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=30",
+    "pass": 1
+   },
+   {
+    "quote": "・お客様の取り扱いによる傷や汚れがついた商品",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=30",
+    "pass": 1
+   },
+   {
+    "quote": "（※お客様都合の返品は除く）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=30",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンターはメディアでの露出は少なくなっているものの、医療業界での活用や、製造業での製品の試作で活用されている事例がかなり増え、今まで以上に効率的なものづくりのためのツールとして広く活用されています",
+    "url": "https://3d-printer-house.com/shop/about/",
+    "pass": 1
+   },
+   {
+    "quote": "※ 不正注文防止のため、法人のお客様で配送先を個人宛とする場合は、お支払い方法は前払いでの銀行振込のみとさせていただきます",
+    "url": "https://3d-printer-house.com/shop/about/",
+    "pass": 1
+   },
+   {
+    "quote": "※ お振込み手数料はお客様ご負担でお願いいたします",
+    "url": "https://3d-printer-house.com/shop/about/",
+    "pass": 1
+   },
+   {
+    "quote": "※ 法人のお客様につきましては、請求書でのお支払いも承っております",
+    "url": "https://3d-printer-house.com/shop/about/",
+    "pass": 1
+   },
+   {
+    "quote": "合計金額10,000円以上お買い上げのお客様は送料無料となります",
+    "url": "https://3d-printer-house.com/shop/about/",
+    "pass": 1
+   },
+   {
+    "quote": "商品が未開封/未使用状態であっても、お客様都合での返品は受付致しかねます",
+    "url": "https://3d-printer-house.com/shop/about/",
+    "pass": 1
+   },
+   {
+    "quote": "○お客様都合の具体例",
+    "url": "https://3d-printer-house.com/shop/about/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の取り扱いによる傷や汚れがついた商品",
+    "url": "https://3d-printer-house.com/shop/about/",
+    "pass": 1
+   },
+   {
+    "quote": "（※お客様都合の返品は除く）",
+    "url": "https://3d-printer-house.com/shop/about/",
+    "pass": 1
+   },
+   {
+    "quote": "※商品が未開封/未使用状態であっても、お客様都合での返品は受付致しかねます",
+    "url": "https://3d-printer-house.com/shop/about/",
+    "pass": 1
+   },
+   {
+    "quote": "・お客様の取り扱いによる傷や汚れがついた商品",
+    "url": "https://3d-printer-house.com/shop/about/",
+    "pass": 1
+   },
+   {
+    "quote": "※ お振込み手数料はお客様ご負担でお願いいたします",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?srtkey=price&srttype=ASC&wcex_s_key=&price_fromf=&price_tof=",
+    "pass": 1
+   },
+   {
+    "quote": "※ 法人のお客様につきましては、請求書でのお支払いも承っております",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?srtkey=price&srttype=ASC&wcex_s_key=&price_fromf=&price_tof=",
+    "pass": 1
+   },
+   {
+    "quote": "合計金額10,000円以上お買い上げのお客様は送料無料となります",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?srtkey=price&srttype=ASC&wcex_s_key=&price_fromf=&price_tof=",
+    "pass": 1
+   },
+   {
+    "quote": "※商品が未開封/未使用状態であっても、お客様都合での返品は受付致しかねます",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?srtkey=price&srttype=ASC&wcex_s_key=&price_fromf=&price_tof=",
+    "pass": 1
+   },
+   {
+    "quote": "○お客様都合の具体例",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?srtkey=price&srttype=ASC&wcex_s_key=&price_fromf=&price_tof=",
+    "pass": 1
+   },
+   {
+    "quote": "・お客様の取り扱いによる傷や汚れがついた商品",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?srtkey=price&srttype=ASC&wcex_s_key=&price_fromf=&price_tof=",
+    "pass": 1
+   },
+   {
+    "quote": "（※お客様都合の返品は除く）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?srtkey=price&srttype=ASC&wcex_s_key=&price_fromf=&price_tof=",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "【価格改定のお知らせ】仕入れ価格の高騰により一部商品の価格を変更いたしました",
+    "url": "https://3d-printer-house.com/shop/",
+    "pass": 1
+   },
+   {
+    "quote": "手頃な価格で生産を向上でき、新しい製造リソースとして活躍します",
+    "url": "https://3d-printer-house.com/shop/",
+    "pass": 1
+   },
+   {
+    "quote": "人気3Dプリンター「Raise3D」を手頃な価格で導入できる最新機種です",
+    "url": "https://3d-printer-house.com/shop/",
+    "pass": 1
+   },
+   {
+    "quote": "【2026】低価格の3Dプリンターはいくら？価格帯別の違いや選び方も解説",
+    "url": "https://3d-printer-house.com/shop/",
+    "pass": 1
+   },
+   {
+    "quote": "（※消耗品類でよくご購入間違えがございます",
+    "url": "https://3d-printer-house.com/shop/",
+    "pass": 1
+   },
+   {
+    "quote": "価格（税込）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=6",
+    "pass": 1
+   },
+   {
+    "quote": "（※消耗品類でよくご購入間違えがございます",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=6",
+    "pass": 1
+   },
+   {
+    "quote": "価格（税込）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=7",
+    "pass": 1
+   },
+   {
+    "quote": "（※消耗品類でよくご購入間違えがございます",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=7",
+    "pass": 1
+   },
+   {
+    "quote": "価格（税込）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=8",
+    "pass": 1
+   },
+   {
+    "quote": "（※消耗品類でよくご購入間違えがございます",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=8",
+    "pass": 1
+   },
+   {
+    "quote": "価格（税込）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=10",
+    "pass": 1
+   },
+   {
+    "quote": "（※消耗品類でよくご購入間違えがございます",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=10",
+    "pass": 1
+   },
+   {
+    "quote": "価格（税込）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=30",
+    "pass": 1
+   },
+   {
+    "quote": "（※消耗品類でよくご購入間違えがございます",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=30",
+    "pass": 1
+   },
+   {
+    "quote": "購入商品を間違えたといった理由（※消耗品類でよくご購入間違えがございます",
+    "url": "https://3d-printer-house.com/shop/about/",
+    "pass": 1
+   },
+   {
+    "quote": "（※消耗品類でよくご購入間違えがございます",
+    "url": "https://3d-printer-house.com/shop/about/",
+    "pass": 1
+   },
+   {
+    "quote": "価格（税込）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?srtkey=price&srttype=ASC&wcex_s_key=&price_fromf=&price_tof=",
+    "pass": 1
+   },
+   {
+    "quote": "（※消耗品類でよくご購入間違えがございます",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?srtkey=price&srttype=ASC&wcex_s_key=&price_fromf=&price_tof=",
+    "pass": 1
+   },
+   {
+    "quote": "（※消耗品類でよくご購入間違えがございます",
+    "url": "https://3d-printer-house.com/shop/about-filament/",
+    "pass": 1
+   },
+   {
+    "quote": "低価格 | Fabmart（ファブマート）",
+    "url": "https://3d-printer-house.com/shop/tag/%E4%BD%8E%E4%BE%A1%E6%A0%BC/",
+    "pass": 1
+   },
+   {
+    "quote": "【2026】低価格の3Dプリンターはいくら？価格帯別の違いや選び方も解説",
+    "url": "https://3d-printer-house.com/shop/tag/%E4%BD%8E%E4%BE%A1%E6%A0%BC/",
+    "pass": 1
+   },
+   {
+    "quote": "【2026】低価格で高精度なおすすめ3Dプリンター9選！選び方や注意点も紹介",
+    "url": "https://3d-printer-house.com/shop/tag/%E4%BD%8E%E4%BE%A1%E6%A0%BC/",
+    "pass": 1
+   },
+   {
+    "quote": "（※消耗品類でよくご購入間違えがございます",
+    "url": "https://3d-printer-house.com/shop/tag/%E4%BD%8E%E4%BE%A1%E6%A0%BC/",
+    "pass": 1
+   },
+   {
+    "quote": "【2026】低価格の3Dプリンターはいくら？価格帯別の違いや選び方も解説 | Fabmart（ファブマート）",
+    "url": "https://3d-printer-house.com/shop/3d-printer-teikakaku/",
+    "pass": 1
+   },
+   {
+    "quote": "【2026】低価格の3Dプリンターはいくら？価格帯別の違いや選び方も解説",
+    "url": "https://3d-printer-house.com/shop/3d-printer-teikakaku/",
+    "pass": 1
+   },
+   {
+    "quote": "低価格で3Dプリンターを導入したくても、「低価格ならいくらで買えるのか」「安い機種でも問題なく使えるか」といった疑問を持つ人は多いでしょう",
+    "url": "https://3d-printer-house.com/shop/3d-printer-teikakaku/",
+    "pass": 1
+   },
+   {
+    "quote": "国内のメーカー公式ストアで2万円台から低価格で購入できる製品もあります",
+    "url": "https://3d-printer-house.com/shop/3d-printer-teikakaku/",
+    "pass": 1
+   },
+   {
+    "quote": "が、価格だけで決めてしまうと、造形サイズや対応素材などが用途に合わない可能性があるので注意が必要です",
+    "url": "https://3d-printer-house.com/shop/3d-printer-teikakaku/",
+    "pass": 1
+   },
+   {
+    "quote": "そこで本記事では、おすすめの低価格3Dプリンターを比較し、価格帯ごとの違いや選び方などを解説します",
+    "url": "https://3d-printer-house.com/shop/3d-printer-teikakaku/",
+    "pass": 1
+   },
+   {
+    "quote": "低価格帯でも選べる機種は増えているため、低価格であることだけでなく、用途に必要な機能を備えているか確認することが大切です",
+    "url": "https://3d-printer-house.com/shop/3d-printer-teikakaku/",
+    "pass": 1
+   },
+   {
+    "quote": "低価格の3Dプリンターおすすめ6選を比較",
+    "url": "https://3d-printer-house.com/shop/3d-printer-teikakaku/",
+    "pass": 1
+   },
+   {
+    "quote": "低価格で購入できるおすすめの3Dプリンターを紹介します",
+    "url": "https://3d-printer-house.com/shop/3d-printer-teikakaku/",
+    "pass": 1
+   },
+   {
+    "quote": "まずは、それぞれの低価格3Dプリンターの価格や特徴を比較してみましょう",
+    "url": "https://3d-printer-house.com/shop/3d-printer-teikakaku/",
+    "pass": 1
+   },
+   {
+    "quote": "本体価格が上がるほど、単純に造形精度が高くなるわけではありません",
+    "url": "https://3d-printer-house.com/shop/3d-printer-teikakaku/",
+    "pass": 1
+   },
+   {
+    "quote": "低価格でも造形サイズや対応素材・マルチカラー対応など、",
+    "url": "https://3d-printer-house.com/shop/3d-printer-teikakaku/",
+    "pass": 1
+   },
+   {
+    "quote": "以下、おすすめの低価格3Dプリンターについて、詳しくみていきましょう",
+    "url": "https://3d-printer-house.com/shop/3d-printer-teikakaku/",
+    "pass": 1
+   },
+   {
+    "quote": "【2～3万円台】おすすめの低価格3Dプリンター",
+    "url": "https://3d-printer-house.com/shop/3d-printer-teikakaku/",
+    "pass": 1
+   },
+   {
+    "quote": "2～3万円台の低価格でも、FDM方式だけでなく光造形方式の3Dプリンターも購入できます",
+    "url": "https://3d-printer-house.com/shop/3d-printer-teikakaku/",
+    "pass": 1
+   },
+   {
+    "quote": "Bambu Lab A1 miniは、熱溶解積層方式の低価格3Dプリンターです",
+    "url": "https://3d-printer-house.com/shop/3d-printer-teikakaku/",
+    "pass": 1
+   },
+   {
+    "quote": "低価格モデルで小型の造形物を中心に作りつつ、調整作業の負担も抑えたい人におすすめの3Dプリンターです",
+    "url": "https://3d-printer-house.com/shop/3d-printer-teikakaku/",
+    "pass": 1
+   },
+   {
+    "quote": "Creality Ender-3 V3 SEは、FDM方式の低価格3Dプリンターです",
+    "url": "https://3d-printer-house.com/shop/3d-printer-teikakaku/",
+    "pass": 1
+   },
+   {
+    "quote": "低価格帯でも、ある程度サイズのある部品や、試作品などを作りたい場合に向いている3Dプリンターです",
+    "url": "https://3d-printer-house.com/shop/3d-printer-teikakaku/",
+    "pass": 1
+   },
+   {
+    "quote": "ELEGOO Mars 5は、MSLA方式を採用した低価格の光造形3Dプリンターです",
+    "url": "https://3d-printer-house.com/shop/3d-printer-teikakaku/",
+    "pass": 1
+   },
+   {
+    "quote": "低価格で自動レベリングにも対応しており、",
+    "url": "https://3d-printer-house.com/shop/3d-printer-teikakaku/",
+    "pass": 1
+   },
+   {
+    "quote": "使用する材料や造形後の処理が異なるため、低価格でもレジンを使った光造形を取り入れたい場合の候補になる3Dプリンターです",
+    "url": "https://3d-printer-house.com/shop/3d-printer-teikakaku/",
+    "pass": 1
+   },
+   {
+    "quote": "【4～6万円台】おすすめの低価格3Dプリンター",
+    "url": "https://3d-printer-house.com/shop/3d-printer-teikakaku/",
+    "pass": 1
+   },
+   {
+    "quote": "低価格でも4～6万円台になると、自動レベリングなどの基本的な機能に加えて、",
+    "url": "https://3d-printer-house.com/shop/3d-printer-teikakaku/",
+    "pass": 1
+   },
+   {
+    "quote": "代表的な低価格モデルの特徴をみていきましょう",
+    "url": "https://3d-printer-house.com/shop/3d-printer-teikakaku/",
+    "pass": 1
+   },
+   {
+    "quote": "価格（税込）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=13",
+    "pass": 1
+   },
+   {
+    "quote": "（※消耗品類でよくご購入間違えがございます",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=13",
+    "pass": 1
+   },
+   {
+    "quote": "価格（税込）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=23",
+    "pass": 1
+   },
+   {
+    "quote": "（※消耗品類でよくご購入間違えがございます",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=23",
+    "pass": 1
+   },
+   {
+    "quote": "価格（税込）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=49",
+    "pass": 1
+   },
+   {
+    "quote": "（※消耗品類でよくご購入間違えがございます",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=49",
+    "pass": 1
+   },
+   {
+    "quote": "価格（税込）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=15",
+    "pass": 1
+   },
+   {
+    "quote": "（※消耗品類でよくご購入間違えがございます",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=15",
+    "pass": 1
+   },
+   {
+    "quote": "価格（税込）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=58",
+    "pass": 1
+   },
+   {
+    "quote": "（※消耗品類でよくご購入間違えがございます",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=58",
+    "pass": 1
+   },
+   {
+    "quote": "価格（税込）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=19",
+    "pass": 1
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "15万円ほどで3Dプリンターを購入したい方におすすめの機種です",
+    "url": "https://3d-printer-house.com/shop/",
+    "pass": 1
+   },
+   {
+    "quote": "合計金額10,000円以上お買い上げのお客様は送料無料となります",
+    "url": "https://3d-printer-house.com/shop/",
+    "pass": 1
+   },
+   {
+    "quote": "〜 300,000円",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=6",
+    "pass": 1
+   },
+   {
+    "quote": "300,000円〜 600,000円",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=6",
+    "pass": 1
+   },
+   {
+    "quote": "600,000円〜1,000,000円",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=6",
+    "pass": 1
+   },
+   {
+    "quote": "1,000,000円〜",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=6",
+    "pass": 1
+   },
+   {
+    "quote": "価格（税込）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=6",
+    "pass": 1
+   },
+   {
+    "quote": "¥189,200（税込）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=6",
+    "pass": 1
+   },
+   {
+    "quote": "¥330,000（税込）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=6",
+    "pass": 1
+   },
+   {
+    "quote": "¥434,500（税込）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=6",
+    "pass": 1
+   },
+   {
+    "quote": "¥547,800（税込）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=6",
+    "pass": 1
+   },
+   {
+    "quote": "Raise3D E2｜オプション(税込)",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=6",
+    "pass": 1
+   },
+   {
+    "quote": "9ヶ月延長保証（合計12ヶ月）（+82,500円）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=6",
+    "pass": 1
+   },
+   {
+    "quote": "9ヶ月延長保証＋2年目延長保証（合計24ヶ月）（＋192,500円）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=6",
+    "pass": 1
+   },
+   {
+    "quote": "¥943,800（税込）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=6",
+    "pass": 1
+   },
+   {
+    "quote": "Raise3D E2CF｜オプション(税込)",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=6",
+    "pass": 1
+   },
+   {
+    "quote": "¥902,000（税込）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=6",
+    "pass": 1
+   },
+   {
+    "quote": "Raise3D Pro3｜オプション(税込)",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=6",
+    "pass": 1
+   },
+   {
+    "quote": "9ヶ月延長保証（合計12ヶ月）（+127,600円）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=6",
+    "pass": 1
+   },
+   {
+    "quote": "9ヶ月延長保証＋2年目延長保証（合計24ヶ月）（＋297,000円）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=6",
+    "pass": 1
+   },
+   {
+    "quote": "9ヶ月延長保証＋2年目延長保証＋3年目延長保証（合計36ヶ月）（＋466,400円）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=6",
+    "pass": 1
+   },
+   {
+    "quote": "¥1,188,000（税込）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=6",
+    "pass": 1
+   },
+   {
+    "quote": "Raise3D Pro3 Plus｜オプション(税込)",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=6",
+    "pass": 1
+   },
+   {
+    "quote": "9ヶ月延長保証（合計12ヶ月）（+176,000円）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=6",
+    "pass": 1
+   },
+   {
+    "quote": "9ヶ月延長保証＋2年目延長保証（合計24ヶ月）（＋411,400円）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=6",
+    "pass": 1
+   },
+   {
+    "quote": "9ヶ月延長保証＋2年目延長保証＋3年目延長保証（合計36ヶ月）（＋646,800円）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=6",
+    "pass": 1
+   },
+   {
+    "quote": "¥2,030,600（税込）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=6",
+    "pass": 1
+   },
+   {
+    "quote": "〜 300,000円",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=7",
+    "pass": 1
+   },
+   {
+    "quote": "300,000円〜 600,000円",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=7",
+    "pass": 1
+   },
+   {
+    "quote": "600,000円〜1,000,000円",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=7",
+    "pass": 1
+   },
+   {
+    "quote": "1,000,000円〜",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=7",
+    "pass": 1
+   },
+   {
+    "quote": "価格（税込）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=7",
+    "pass": 1
+   },
+   {
+    "quote": "¥174,900（税込）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=7",
+    "pass": 1
+   },
+   {
+    "quote": "¥196,900（税込）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=7",
+    "pass": 1
+   },
+   {
+    "quote": "¥547,800（税込）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=7",
+    "pass": 1
+   },
+   {
+    "quote": "¥943,800（税込）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=7",
+    "pass": 1
+   },
+   {
+    "quote": "¥1,254,000（税込）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=7",
+    "pass": 1
+   },
+   {
+    "quote": "¥1,507,000（税込）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=7",
+    "pass": 1
+   },
+   {
+    "quote": "¥2,178,000（税込）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=7",
+    "pass": 1
+   },
+   {
+    "quote": "合計金額10,000円以上お買い上げのお客様は送料無料となります",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=7",
+    "pass": 1
+   },
+   {
+    "quote": "〜 300,000円",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=8",
+    "pass": 1
+   },
+   {
+    "quote": "300,000円〜 600,000円",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=8",
+    "pass": 1
+   },
+   {
+    "quote": "600,000円〜1,000,000円",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=8",
+    "pass": 1
+   },
+   {
+    "quote": "1,000,000円〜",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=8",
+    "pass": 1
+   },
+   {
+    "quote": "価格（税込）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=8",
+    "pass": 1
+   },
+   {
+    "quote": "¥5,227（税込）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=8",
+    "pass": 1
+   },
+   {
+    "quote": "¥6,679（税込）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=8",
+    "pass": 1
+   },
+   {
+    "quote": "¥7,986（税込）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=8",
+    "pass": 1
+   },
+   {
+    "quote": "¥7,260（税込）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=8",
+    "pass": 1
+   },
+   {
+    "quote": "¥8,422（税込）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=8",
+    "pass": 1
+   },
+   {
+    "quote": "¥8,712（税込）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=8",
+    "pass": 1
+   },
+   {
+    "quote": "¥9,148（税込）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=8",
+    "pass": 1
+   },
+   {
+    "quote": "¥10,890（税込）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=8",
+    "pass": 1
+   },
+   {
+    "quote": "¥12,052（税込）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=8",
+    "pass": 1
+   },
+   {
+    "quote": "¥12,342（税込）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=8",
+    "pass": 1
+   },
+   {
+    "quote": "¥10,745（税込）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=8",
+    "pass": 1
+   },
+   {
+    "quote": "¥11,616（税込）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=8",
+    "pass": 1
+   },
+   {
+    "quote": "¥14,084（税込）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=8",
+    "pass": 1
+   },
+   {
+    "quote": "¥14,375（税込）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=8",
+    "pass": 1
+   },
+   {
+    "quote": "¥13,358（税込）",
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=8",
+    "pass": 1
+   }
+  ],
+  "誰から": [
+   {
+    "quote": "その場合、カートリッジに付属したICチップなどで情報を読み取って、自社製品（純正品）の3Dプリンターかどうかを機械が判断しています",
+    "url": "https://3d-printer-house.com/shop/about-filament/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "【2026年】 3Dプリンター 販売店6つを徹底比較 — 【2026年】 3Dプリンター 販売店6つを徹底比較 3d-printer-house.com https://3d-printer-house.com > shop",
+    "url": "https://3d-printer-house.com/shop/3d-printer-hanbai/",
+    "pass": 3
+   },
+   {
+    "quote": "ショップ情報 | Fabmart （ ファブマート ） — ショップ情報 | Fabmart （ ファブマート ） 3d-printer-house.com https://3d-printer-house.com > shop > about",
+    "url": "https://3d-printer-house.com/shop/about/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 診断 | Fabmart （ ファブマート ） — 3Dプリンター 診断 | Fabmart （ ファブマート ） 3d-printer-house.com https://3d-printer-house.com > shop > quiz",
+    "url": "https://3d-printer-house.com/shop/quiz/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | Fabmart （ ファブマート ） — お問い合わせ | Fabmart （ ファブマート ） 3d-printer-house.com https://3d-printer-house.com > shop > contact",
+    "url": "https://3d-printer-house.com/shop/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "よくあるご質問 | Fabmart （ ファブマート ） — よくあるご質問 | Fabmart （ ファブマート ） 3d-printer-house.com https://3d-printer-house.com > shop > faq",
+    "url": "https://3d-printer-house.com/shop/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026】 3Dプリンター を 導入 するメリットとは？企業の 導入 ... — 【2026】 3Dプリンター を 導入 するメリットとは？企業の 導入 ... 3d-printer-house.com https://3d-printer-house.com > shop",
+    "url": "https://3d-printer-house.com/shop/3dprinter-merit/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター の治具・金型への活用 | Fabmart （ ファブマート ） — 3Dプリンター の治具・金型への活用 | Fabmart （ ファブマート ） 3d-printer-house.com https://3d-printer-house.com > shop",
+    "url": "https://3d-printer-house.com/shop/3dprinter-mold-2/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026】 3Dプリンターハウス とは？メリットや実例を紹介 — 【2026】 3Dプリンターハウス とは？メリットや実例を紹介 3d-printer-house.com https://3d-printer-house.com > shop",
+    "url": "https://3d-printer-house.com/shop/3dprinter-house-3/",
+    "pass": 3
+   },
+   {
+    "quote": "医療における 3Dプリンター のメリットは？活用 事例 や 導入 の ... — 医療における 3Dプリンター のメリットは？活用 事例 や 導入 の ... 3d-printer-house.com https://3d-printer-house.com > shop",
+    "url": "https://3d-printer-house.com/shop/3d-printer-iryo/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター ・ 3D スキャナー特集記事 - Fabmart — 3Dプリンター ・ 3D スキャナー特集記事 - Fabmart 3d-printer-house.com https://3d-printer-house.com > shop",
+    "url": "https://3d-printer-house.com/shop/3dprinter-blog/",
+    "pass": 3
+   },
+   {
+    "quote": "Fab mart （ ファブマート ）: 3Dプリンター ・ 3D スキャナーの ... — Fab mart （ ファブマート ）: 3Dプリンター ・ 3D スキャナーの ... 3d-printer-house.com https://3d-printer-house.com > shop",
+    "url": "https://3d-printer-house.com/shop/",
+    "pass": 3
+   },
+   {
+    "quote": "製品 | Fabmart （ ファブマート ） — 製品 | Fabmart （ ファブマート ） 3d-printer-house.com https://3d-printer-house.com > shop > wcex-products",
+    "url": "https://3d-printer-house.com/shop/wcex-products/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター | Fabmart （ ファブマート ） — 3Dプリンター | Fabmart （ ファブマート ） 3d-printer-house.com https://3d-printer-house.com > shop > tag > 3dプリンター",
+    "url": "https://3d-printer-house.com/shop/tag/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC/",
+    "pass": 3
+   },
+   {
+    "quote": "家庭用 | Fabmart （ ファブマート ） — 家庭用 | Fabmart （ ファブマート ） 3d-printer-house.com https://3d-printer-house.com > shop > tag > 家庭用",
+    "url": "https://3d-printer-house.com/shop/tag/%E5%AE%B6%E5%BA%AD%E7%94%A8/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://3d-printer-house.com/shop/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=10",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=30",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3d-printer-house.com/shop/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3d-printer-house.com/shop/wcex-products/?srtkey=price&srttype=ASC&wcex_s_key=&price_fromf=&price_tof=",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3d-printer-house.com/shop/about-filament/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3d-printer-house.com/shop/tag/%E4%BD%8E%E4%BE%A1%E6%A0%BC/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3d-printer-house.com/shop/3d-printer-teikakaku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=13",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=23",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=49",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=15",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=58",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=19",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=48",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=17",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=20",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=25",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=62",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=10",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=6&srtkey=price&srttype=DESC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=6&srtkey=ranking_sold&srttype=ASC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=6&srtkey=ranking_sold&srttype=DESC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3d-printer-house.com/shop/wcex-products/?catf%5B0%5D=6&srtkey=maxsize&srttype=ASC",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://3d-printer-house.com/shop/wp-content/uploads/2026/08/icatch.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://3d-printer-house.com/shop/wp-content/uploads/2026/08/low-price-3d-printer-section1.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://3d-printer-house.com/shop/wp-content/uploads/2026/08/low-price-3d-printer1.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://3d-printer-house.com/shop/wp-content/uploads/2026/08/low-price-3d-printer2.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://3d-printer-house.com/shop/wp-content/uploads/2026/08/low-price-3d-printer3.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://3d-printer-house.com/shop/wp-content/uploads/2026/08/low-price-3d-printer4.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://3d-printer-house.com/shop/wp-content/uploads/2026/08/low-price-3d-printer5.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://3d-printer-house.com/shop/wp-content/uploads/2026/08/low-price-3d-printer6.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://3d-printer-house.com/shop/wp-content/uploads/2026/08/low-price-3d-printer-section3.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": []
+ },
+ "search_log": [
+  {
+   "query": "ファブマート(Fab mart / 3d-printer-house.com) 代理店 契約",
+   "results": [
+    "https://3d-printer-house.com/shop/3d-printer-hanbai/",
+    "https://3d-printer-house.com/shop/about/",
+    "https://3d-printer-house.com/shop/quiz/",
+    "https://3d-printer-house.com/shop/contact/",
+    "https://3d-printer-house.com/shop/faq/",
+    "https://3d-printer-house.com/shop/law/",
+    "https://cad-kenkyujo.com/3dprinter_house/",
+    "https://3d-printer-house.com/shop/3dprinter-shosha/",
+    "https://3d-printer-house.com/shop/3dprinter-maker/",
+    "https://3d-printer-house.com/shop/zaiko-info/"
+   ]
+  },
+  {
+   "query": "ファブマート(Fab mart / 3d-printer-house.com) 導入事例",
+   "results": [
+    "https://3d-printer-house.com/shop/3dprinter-merit/",
+    "https://3d-printer-house.com/shop/3dprinter-mold-2/",
+    "https://3d-printer-house.com/shop/3dprinter-house-3/",
+    "https://3d-printer-house.com/shop/3d-printer-iryo/",
+    "https://3d-printer-house.com/shop/3dprinter-blog/",
+    "https://3d-printer-house.com/shop/3dprinter-shosha/",
+    "https://cad-kenkyujo.com/3dprinter_house/",
+    "https://3d-printer-house.com/shop/3dprinter-jyugyo/",
+    "https://3d-printer-house.com/shop/3dprinter-seizougyou/",
+    "https://3d-printer-house.com/shop/about/"
+   ]
+  },
+  {
+   "query": "ファブマート(Fab mart / 3d-printer-house.com) 価格 OR 料金",
+   "results": [
+    "https://3d-printer-house.com/shop/",
+    "https://3d-printer-house.com/shop/wcex-products/",
+    "https://3d-printer-house.com/shop/tag/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC/",
+    "https://cad-kenkyujo.com/3dprinter_house/",
+    "https://3d-printer-house.com/shop/tag/%E5%AE%B6%E5%BA%AD%E7%94%A8/",
+    "https://3d-printer-house.com/shop/contact/",
+    "https://3d-printer-house.com/shop/?s=PLA%20",
+    "https://3d-printer-house.com/shop/tag/%E4%BD%8E%E4%BE%A1%E6%A0%BC/",
+    "https://www.creativemachineslab.com/fabhome.html",
+    "https://www.family.co.jp/services/print/print.html"
+   ]
+  },
+  {
+   "query": "ファブマート(Fab mart / 3d-printer-house.com) 受託 造形",
+   "results": [
+    "https://3d-printer-house.com/shop/faq/",
+    "https://3d-printer-house.com/shop/3dprinter-house-3/",
+    "https://3d-printer-house.com/shop/3dprinter-mold-2/",
+    "https://3d-printer-house.com/shop/3dprinter-blog/",
+    "https://cad-kenkyujo.com/3dprinter_house/",
+    "https://3d-printer-house.com/shop/contact/",
+    "https://3d-printer-house.com/shop/quiz/",
+    "https://3d-printer-house.com/shop/about/",
+    "https://3d-printer-house.com/shop/3dprinter-merit/",
+    "https://3d-printer-house.com/shop/zaiko-info/"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式30頁／PDF・画像9件／外部0頁・検索4回）",
+  "売上高": "記載なし（3回確認済み：公式30頁／PDF・画像9件／外部0頁・検索4回）",
+  "事業内容": "記載なし（3回確認済み：公式30頁／PDF・画像9件／外部0頁・検索4回）",
+  "取引先": "記載なし（3回確認済み：公式30頁／PDF・画像9件／外部0頁・検索4回）"
+ }
+}

@@ -1,0 +1,717 @@
+{
+ "name": "山下機械株式会社",
+ "aliases": [],
+ "context": "LAMDA200/500（DED）販売；販売 / LAMDA(三菱重工工作機械)",
+ "researched_at": "2026-11-02T12:14:15.255906+00:00",
+ "official_url": "http://yamashita-machinery.com/（イプロス記載。本文未読",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1929年",
+    "url": "https://www.sofla.co.jp/category/soflareport/soflareport02.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "1951年",
+    "url": "https://www.sofla.co.jp/category/soflareport/soflareport02.html",
+    "pass": 3
+   },
+   {
+    "label": "創業",
+    "value": "１９２９年 【昭和  ４年】",
+    "url": "https://job.mynavi.jp/28/pc/search/corp38375/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "１９５１年 【昭和２６年】",
+    "url": "https://job.mynavi.jp/28/pc/search/corp38375/outline.html",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "14,497百万円（2017年1月）",
+    "url": "https://www.sofla.co.jp/category/soflareport/soflareport02.html",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "１１８億円（2026年1月20日現在）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp38375/outline.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "102名",
+    "url": "https://www.sofla.co.jp/category/soflareport/soflareport02.html",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "～50名",
+    "url": "https://www.zaico.co.jp/casestudy/yamashita-opportunity-store/",
+    "pass": 3
+   },
+   {
+    "label": "従業員",
+    "value": "100名（2026年5月7日現在） 【男性81名・女性19名】",
+    "url": "https://job.mynavi.jp/28/pc/search/corp38375/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "従業員",
+    "value": "100名（2026年5月7日現在）\n【男性81名・女性19名】",
+    "url": "https://job.mynavi.jp/28/pc/search/corp38375/outline.html",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "工作機械と工具の販売・専用工作機の設計製作",
+    "url": "https://www.sofla.co.jp/category/soflareport/soflareport02.html",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "◆ 金属部品加工業界向けに工作機械・工具類の販売および自社製品の設計・製作・アフターサービス ◆ 三菱マテリアル株式会社・高松機械工業株式会社・オーエスジー株式会社・ブラザー工業株式会社などを主力仕入先として様々な規模のお客様と取引をしています。 ◆ 自社の専用工作機械・特殊段取りの設計製作部門で最適化した商品を提供するとともに、生産技術、工機工場の代行や保全業務に対応し、お客様の国内外の生産サポートも行っています。 ◆ 現地法人を設立しています。",
+    "url": "https://job.mynavi.jp/28/pc/search/corp38375/outline.html",
+    "pass": 3
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主な取引先",
+    "value": "国内外の製造業",
+    "url": "https://job.mynavi.jp/28/pc/search/corp38375/outline.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰から": [
+   {
+    "quote": "取扱メーカー",
+    "url": "https://www.indexpro.co.jp/distributor/location?did=3751",
+    "pass": 3
+   },
+   {
+    "quote": "システム開発元がセンター運用を行っている点も安心材料の一つです",
+    "url": "https://www.sofla.co.jp/category/soflareport/soflareport02.html",
+    "pass": 3
+   },
+   {
+    "quote": "◆ 金属部品加工業界向けに工作機械・工具類の販売および自社製品の設計・製作・アフターサービス",
+    "url": "https://job.mynavi.jp/28/pc/search/corp38375/outline.html",
+    "pass": 3
+   }
+  ],
+  "何をする": [
+   {
+    "quote": "セミナー・勉強会",
+    "url": "https://www.indexpro.co.jp/distributor/location?did=3751",
+    "pass": 3
+   },
+   {
+    "quote": "工作機械と工具の販売・専用工作機の設計製作",
+    "url": "https://www.sofla.co.jp/category/soflareport/soflareport02.html",
+    "pass": 3
+   },
+   {
+    "quote": "山下機械株式会社は、自動車や航空機産業などモノづくりの現場への工作機械や工具等の販売、及び専用工作機の設計製作を行っている商社である",
+    "url": "https://www.sofla.co.jp/category/soflareport/soflareport02.html",
+    "pass": 3
+   },
+   {
+    "quote": "その当時のものは工具販売に特化したものであったため、後に機械販売の引合(案件)管理を追加したという",
+    "url": "https://www.sofla.co.jp/category/soflareport/soflareport02.html",
+    "pass": 3
+   },
+   {
+    "quote": "900本の新システムがわずか１年強でリリース",
+    "url": "https://www.sofla.co.jp/category/soflareport/soflareport02.html",
+    "pass": 3
+   },
+   {
+    "quote": "概要設計完了が2015年9月、基本設計完了が同年12月、そしてプログラム開発完了が3月、現地調整期間を経て2016年8月に本稼働した",
+    "url": "https://www.sofla.co.jp/category/soflareport/soflareport02.html",
+    "pass": 3
+   },
+   {
+    "quote": "プログラム総本数は900本にのぼる販売管理システムだ",
+    "url": "https://www.sofla.co.jp/category/soflareport/soflareport02.html",
+    "pass": 3
+   },
+   {
+    "quote": "「これだけのシステムがわずか1年でリリースできたのには驚きました",
+    "url": "https://www.sofla.co.jp/category/soflareport/soflareport02.html",
+    "pass": 3
+   },
+   {
+    "quote": "SOFLA AGでツール開発していた事もあるでしょうけど、何より、設計段階の問題分析能力の高さには驚きました",
+    "url": "https://www.sofla.co.jp/category/soflareport/soflareport02.html",
+    "pass": 3
+   },
+   {
+    "quote": "北海道虻田郡豊浦町礼文華に本社を置く有限会社 山下機械店様（以下、山下機械店）は、ホタテ養殖業者をはじめ、地元の漁業関係者に向けて専門性の高い機械の販売・修理・整備をおこなっています",
+    "url": "https://www.zaico.co.jp/casestudy/yamashita-opportunity-store/",
+    "pass": 3
+   },
+   {
+    "quote": "業種：製造業、漁業機械の販売・修理・整備",
+    "url": "https://www.zaico.co.jp/casestudy/yamashita-opportunity-store/",
+    "pass": 3
+   },
+   {
+    "quote": "無料オンラインセミナー",
+    "url": "https://www.zaico.co.jp/casestudy/yamashita-opportunity-store/",
+    "pass": 3
+   },
+   {
+    "quote": "プレスリリース・掲載情報",
+    "url": "https://www.zaico.co.jp/casestudy/yamashita-opportunity-store/",
+    "pass": 3
+   },
+   {
+    "quote": "設計・生産支援",
+    "url": "https://mono.ipros.com/company/detail/2056186/",
+    "pass": 3
+   },
+   {
+    "quote": "セミナー・スキルアップ",
+    "url": "https://mono.ipros.com/company/detail/2056186/",
+    "pass": 3
+   },
+   {
+    "quote": "製造・加工受託",
+    "url": "https://mono.ipros.com/company/detail/2056186/",
+    "pass": 3
+   },
+   {
+    "quote": "教育・研究機関",
+    "url": "https://mono.ipros.com/company/detail/2056186/",
+    "pass": 3
+   },
+   {
+    "quote": "自社内に、専用工作機械・治具・自動化システムの設計製作工場(専門技術者30名)を",
+    "url": "https://mono.ipros.com/company/detail/2056186/",
+    "pass": 3
+   },
+   {
+    "quote": "有し、生産技術サポート・工機代行・設備保全支援・海外生産支援を柱に、",
+    "url": "https://mono.ipros.com/company/detail/2056186/",
+    "pass": 3
+   },
+   {
+    "quote": "■工作機械と工具の販売",
+    "url": "https://mono.ipros.com/company/detail/2056186/",
+    "pass": 3
+   },
+   {
+    "quote": "■専用工作機械の設計製作",
+    "url": "https://mono.ipros.com/company/detail/2056186/",
+    "pass": 3
+   },
+   {
+    "quote": "”ものづくりの始まり”である工作機械の設計製作、提案販売を行っております＃文系出身者がほとんど！＃駅近で通勤便利、住宅手当・家族手当など働きやすさが自慢です",
+    "url": "https://job.mynavi.jp/28/pc/search/corp38375/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社と他商社の差別化ポイントは、工作機械の設計・製造を一貫して行うメーカーの顔も有していることです",
+    "url": "https://job.mynavi.jp/28/pc/search/corp38375/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "◆ 金属部品加工業界向けに工作機械・工具類の販売および自社製品の設計・製作・アフターサービス",
+    "url": "https://job.mynavi.jp/28/pc/search/corp38375/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "◆ 自社の専用工作機械・特殊段取りの設計製作部門で最適化した商品を提供するとともに、生産技術、工機工場の代行や保全業務に対応し、お客様の国内外の生産サポートも行っています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp38375/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "工作機械・工具の販売や専用工作機械の製造のみならず、自動搬送機・ロボットなどの開発に取組んでいます",
+    "url": "https://job.mynavi.jp/28/pc/search/corp38375/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "キャリアコンサルティング制度",
+    "url": "https://job.mynavi.jp/28/pc/search/corp38375/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "販売パートナー",
+    "url": "https://idec-fs.com/partner/1839/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅製造業の「ものづくりパートナー」を目指す、設計・製作一体型技術専門商社",
+    "url": "https://idec-fs.com/partner/1839/",
+    "pass": 3
+   },
+   {
+    "quote": "NC旋盤・研削盤などの工作機械販売にとどまらず、自社で専用工作機械・自動化システムを設計／製作",
+    "url": "https://idec-fs.com/partner/1839/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "山下機械 株式会社の会社概要・製品情報 - Metoree — 山下機械 株式会社の会社概要・製品情報 - Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/19437/",
+    "pass": 3
+   },
+   {
+    "quote": "山下機械 の営業所・拠点一覧 - indexPro — 山下機械 の営業所・拠点一覧 - indexPro indexPro https://www.indexpro.co.jp > ... > 代理店・取扱店検索",
+    "url": "https://www.indexpro.co.jp/distributor/location?did=3751",
+    "pass": 3
+   },
+   {
+    "quote": "5月 | 2023 | 山下機械 株式会社 | Yamashita Machinery Co.,LTD — 5月 | 2023 | 山下機械 株式会社 | Yamashita Machinery Co.,LTD 山下機械株式会社 https://yamashita-machinery.com > date > 2023/05",
+    "url": "https://yamashita-machinery.com/date/2023/05",
+    "pass": 3
+   },
+   {
+    "quote": "山下機械 株式会社 - IDECファクトリーソリューションズ — 山下機械 株式会社 - IDECファクトリーソリューションズ IDECファクトリーソリューションズ株式会社 https://idec-fs.com > ROKAEパートナー > 販売パートナー",
+    "url": "https://idec-fs.com/partner/1839",
+    "pass": 3
+   },
+   {
+    "quote": "山下機械 | 企業情報 | イプロスものづくり — 山下機械 | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 産業用機械",
+    "url": "https://mono.ipros.com/company/detail/2056186/",
+    "pass": 3
+   },
+   {
+    "quote": "山下機械 株式会社様 導入事例 - ソフラ — 山下機械 株式会社様 導入事例 - ソフラ ソフラ株式会社 https://www.sofla.co.jp > soflareport > soflareport02",
+    "url": "https://www.sofla.co.jp/category/soflareport/soflareport02.html",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社 山下機械 店様：在庫管理改善 事例 - ZAICO — 有限会社 山下機械 店様：在庫管理改善 事例 - ZAICO ZAICO https://www.zaico.co.jp > yamashita-opportunity-store",
+    "url": "https://www.zaico.co.jp/casestudy/yamashita-opportunity-store/",
+    "pass": 3
+   },
+   {
+    "quote": "新着情報 - 有限会社 山下機械店 — 新着情報 - 有限会社 山下機械店 有限会社 山下機械店 https://yamashita-kikaiten.com > News",
+    "url": "https://yamashita-kikaiten.com/News",
+    "pass": 3
+   },
+   {
+    "quote": "山下機械 さまプライベートショーに出展いたします — 山下機械 さまプライベートショーに出展いたします ohnoseiko.biz https://www.ohnoseiko.biz > post > 山下機械さまプライベ...",
+    "url": "https://www.ohnoseiko.biz/post/%E5%B1%B1%E4%B8%8B%E6%A9%9F%E6%A2%B0%E3%81%95%E3%81%BE%E3%83%97%E3%83%A9%E3%82%A4%E3%83%99%E3%83%BC%E3%83%88%E3%82%B7%E3%83%A7%E3%83%BC%E3%81%AB%E5%87%BA%E5%B1%95%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%99",
+    "pass": 3
+   },
+   {
+    "quote": "山下機械 (株)の会社概要 | マイナビ2028 — 山下機械 (株)の会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp38375 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp38375/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "山下機械 株式会社 | Yamashita Machinery Co.,LTD — 山下機械 株式会社 | Yamashita Machinery Co.,LTD 山下機械株式会社 https://yamashita-machinery.com > new > page",
+    "url": "https://yamashita-machinery.com/new/page/3",
+    "pass": 3
+   },
+   {
+    "quote": "History - 有限会社 山下機械店 — History - 有限会社 山下機械店 有限会社 山下機械店 https://yamashita-kikaiten.com > history",
+    "url": "https://yamashita-kikaiten.com/history",
+    "pass": 3
+   },
+   {
+    "quote": "マシニング加工 | 山下機械 株式会社 | Yamashita Machinery Co ... — マシニング加工 | 山下機械 株式会社 | Yamashita Machinery Co ... 山下機械株式会社 https://yamashita-machinery.com > manufacturing",
+    "url": "https://yamashita-machinery.com/product/manufacturing",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "山下機械 株式会社様 導入事例｜ソフラ株式会社｜クラウドコンピューティング・SIサービス・クラウドサービス・アウトソーシング",
+    "url": "https://www.sofla.co.jp/category/soflareport/soflareport02.html",
+    "pass": 3
+   },
+   {
+    "quote": "山下機械 株式会社様 導入事例｜",
+    "url": "https://www.sofla.co.jp/category/soflareport/soflareport02.html",
+    "pass": 3
+   },
+   {
+    "quote": "1929年創業の歴史と盤石な経営基盤を有しており、愛知県名古屋市熱田区の本社と４カ所の営業拠点、海外にはアメリカ(シカゴ)・タイ(バンコク)・中国(上海) に出店し、お客様のグローバル展開をサポートしている",
+    "url": "https://www.sofla.co.jp/category/soflareport/soflareport02.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の求める品質・コストを可能とする技術を提供している",
+    "url": "https://www.sofla.co.jp/category/soflareport/soflareport02.html",
+    "pass": 3
+   },
+   {
+    "quote": "OPEN系のシステムではレスポンスが問題になることが多いと聞くが、ソフラは独自の開発手法でユーザーにストレスを感じさせないスピードを実現しているのがその理由である",
+    "url": "https://www.sofla.co.jp/category/soflareport/soflareport02.html",
+    "pass": 3
+   },
+   {
+    "quote": "ソフラのインテグレーションは、お客様のビジネスを最大限に生かしつつ、多くの企業へのSIの経験をヒントに、あるいは新たなアイデアで工夫を凝らし、システムへフィードバックするのが特徴だ",
+    "url": "https://www.sofla.co.jp/category/soflareport/soflareport02.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例一覧へ戻る",
+    "url": "https://www.sofla.co.jp/category/soflareport/soflareport02.html",
+    "pass": 3
+   },
+   {
+    "quote": "拠点・ユーザー管理",
+    "url": "https://www.zaico.co.jp/casestudy/yamashita-opportunity-store/",
+    "pass": 3
+   },
+   {
+    "quote": "業界・業種からさがす",
+    "url": "https://www.zaico.co.jp/casestudy/yamashita-opportunity-store/",
+    "pass": 3
+   },
+   {
+    "quote": "そのためメーカー、卸、ユーザー間でのコミュニケーションでも行き違いが度々",
+    "url": "https://www.zaico.co.jp/casestudy/yamashita-opportunity-store/",
+    "pass": 3
+   },
+   {
+    "quote": "またお客様の注文内容要望とは異なるものを納品してしまったことも…",
+    "url": "https://www.zaico.co.jp/casestudy/yamashita-opportunity-store/",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例一覧に戻る",
+    "url": "https://www.zaico.co.jp/casestudy/yamashita-opportunity-store/",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例一覧",
+    "url": "https://www.zaico.co.jp/casestudy/yamashita-opportunity-store/",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザーメニュー",
+    "url": "https://www.zaico.co.jp/casestudy/yamashita-opportunity-store/",
+    "pass": 3
+   },
+   {
+    "quote": "ZAICO導入事例として掲載されました",
+    "url": "https://yamashita-kikaiten.com/News",
+    "pass": 3
+   },
+   {
+    "quote": "弊社が利用している在庫管理サービス「ZAICO」に導入事例としてご紹介とのお声がけを頂きその記事が公開されました",
+    "url": "https://yamashita-kikaiten.com/News",
+    "pass": 3
+   },
+   {
+    "quote": "今回は工程間搬送のベースとなる展示になっており、お客様ごとの課題に",
+    "url": "https://mono.ipros.com/company/detail/2056186/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業特化の用途別課題解決 | イプロスものづくり業界別専門サイト",
+    "url": "https://mono.ipros.com/company/detail/2056186/",
+    "pass": 3
+   },
+   {
+    "quote": "BtoB向け | 目的・用途起点で課題解決を支援 | イプロス業界別専門サイト",
+    "url": "https://mono.ipros.com/company/detail/2056186/",
+    "pass": 3
+   },
+   {
+    "quote": "現場第一主義でお客様に寄り添い、一緒に課題に向き合ってきました",
+    "url": "https://job.mynavi.jp/28/pc/search/corp38375/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "強みでもあり、お客様の要望にできる限り答えたいという姿勢に共感を覚えました",
+    "url": "https://job.mynavi.jp/28/pc/search/corp38375/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在は既存のお客様を40～50社担当",
+    "url": "https://job.mynavi.jp/28/pc/search/corp38375/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "知識ゼロからのスタートでしたが、仕事を通じて取引先の社長から教えてもらうことや学ぶことも多く、現場での経験がすべての力になっています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp38375/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "その後、お客様から「とても良かったので、もう一台入れてほしい」と私に連絡があり、とても嬉しかったです",
+    "url": "https://job.mynavi.jp/28/pc/search/corp38375/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2,000万円程の機械で、金額も大きいですし、お客様にも喜んでもらえる仕事にやりがいを感じました",
+    "url": "https://job.mynavi.jp/28/pc/search/corp38375/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社はお客様との関係性も濃く、「お客様のために！」と思いを持つ社員ばかりなので、相手への思いやりなど、人としても成長できる環境ですよ",
+    "url": "https://job.mynavi.jp/28/pc/search/corp38375/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在、工具部に所属しており、取引先は20社程を担当",
+    "url": "https://job.mynavi.jp/28/pc/search/corp38375/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "主にお客様からの要望の商品を納品することが多く、「今すぐこれが欲しい！」と言われることも多々あります",
+    "url": "https://job.mynavi.jp/28/pc/search/corp38375/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様から頼ってもらっていることを実感できますし、すぐに届けると「生産を止めずに済んだ」と安心した喜ぶ顔を間近に見ることができるのもモチベーションになります",
+    "url": "https://job.mynavi.jp/28/pc/search/corp38375/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "また自分で提案した商品をお客様が購入してくれると嬉しいですし、お客様から難しい課題を言われた時は、いかに迅速かつ適切にその課題を解決するか、考える過程にやりがいを感じています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp38375/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "最近では、古い設備を持っているお客様から「不具合が起こり、メーカーが廃業しているから助けて欲しい」とお声がかかりました",
+    "url": "https://job.mynavi.jp/28/pc/search/corp38375/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "すべての仕事が次に繋がるため、一つひとつの案件を振り返りながら、お客様のお役に立てるよう最善の方法を見つけ出していきたいと思っています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp38375/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "◆ 金属部品加工業界向けに工作機械・工具類の販売および自社製品の設計・製作・アフターサービス",
+    "url": "https://job.mynavi.jp/28/pc/search/corp38375/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "◆ 三菱マテリアル株式会社・高松機械工業株式会社・オーエスジー株式会社・ブラザー工業株式会社などを主力仕入先として様々な規模のお客様と取引をしています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp38375/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "◆ 自社の専用工作機械・特殊段取りの設計製作部門で最適化した商品を提供するとともに、生産技術、工機工場の代行や保全業務に対応し、お客様の国内外の生産サポートも行っています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp38375/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "山下商店として創業しましたが、機械陳列館を竣工するなど、時代を先取りしたアイデアでお客様のニーズをし獲得してまいりました",
+    "url": "https://job.mynavi.jp/28/pc/search/corp38375/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業研究や業界研究にお役立てください",
+    "url": "https://job.mynavi.jp/28/pc/search/corp38375/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "業界トップレベルの安全性",
+    "url": "https://idec-fs.com/partner/1839/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "当時はまだ価格が高かったようで諦めましたが、AS400の継続性には魅力を感じていました",
+    "url": "https://www.sofla.co.jp/category/soflareport/soflareport02.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、同社の在庫評価は最終仕入原価法であるが、価格変更等で異なった金額を発生させたい時の為に別倉庫を活用する仕組みが組み込まれている",
+    "url": "https://www.sofla.co.jp/category/soflareport/soflareport02.html",
+    "pass": 3
+   },
+   {
+    "quote": "営業がそこに自分達の見積や資料や議事録・図面のPDFなどを保管できるようにするのが目的で、この機能で個人管理であった関連資料の共有管理が実現した",
+    "url": "https://www.sofla.co.jp/category/soflareport/soflareport02.html",
+    "pass": 3
+   },
+   {
+    "quote": "※記事内に記載された取材内容やプラン、料金等は記事公開時点のものとなり、現行の内容とは異なる場合があります",
+    "url": "https://www.zaico.co.jp/casestudy/yamashita-opportunity-store/",
+    "pass": 3
+   },
+   {
+    "quote": "料金プラン一覧",
+    "url": "https://www.zaico.co.jp/casestudy/yamashita-opportunity-store/",
+    "pass": 3
+   },
+   {
+    "quote": "工具・消耗品・備品",
+    "url": "https://mono.ipros.com/company/detail/2056186/",
+    "pass": 3
+   },
+   {
+    "quote": "実験器具・消耗品",
+    "url": "https://mono.ipros.com/company/detail/2056186/",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "9,000万円",
+    "url": "https://www.sofla.co.jp/category/soflareport/soflareport02.html",
+    "pass": 3
+   },
+   {
+    "quote": "14,497百万円（2017年1月）",
+    "url": "https://www.sofla.co.jp/category/soflareport/soflareport02.html",
+    "pass": 3
+   },
+   {
+    "quote": "９，０００万円",
+    "url": "https://job.mynavi.jp/28/pc/search/corp38375/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "１１８億円（2026年1月20日現在）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp38375/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2,000万円程の機械で、金額も大きいですし、お客様にも喜んでもらえる仕事にやりがいを感じました",
+    "url": "https://job.mynavi.jp/28/pc/search/corp38375/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "売上118億円 2026年3月",
+    "url": "https://job.mynavi.jp/28/pc/search/corp38375/outline.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://yamashita-machinery.com/%EF%BC%88%E3%82%A4%E3%83%97%E3%83%AD%E3%82%B9%E8%A8%98%E8%BC%89%E3%80%82%E6%9C%AC%E6%96%87%E6%9C%AA%E8%AA%AD",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://metoree.com/companies/19437/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/location?did=3751",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sofla.co.jp/category/soflareport/soflareport02.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.zaico.co.jp/casestudy/yamashita-opportunity-store/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yamashita-kikaiten.com/News",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2056186/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp38375/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2056186/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idec-fs.com/partner/1839/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "山下機械 代理店 契約",
+   "results": [
+    "https://metoree.com/companies/19437/",
+    "https://www.indexpro.co.jp/distributor/location?did=3751",
+    "https://yamashita-machinery.com/date/2023/05",
+    "https://idec-fs.com/partner/1839",
+    "https://mono.ipros.com/company/detail/2056186/",
+    "https://job.mynavi.jp/28/pc/search/corp38375/outline.html",
+    "https://yamashita-kikaiten.com/history",
+    "http://www.yamashita-machinery-recruit.com/",
+    "https://www.r-agent.com/company/a3714/",
+    "https://metoree.com/companies/19437/distributors/"
+   ]
+  },
+  {
+   "query": "山下機械 導入事例",
+   "results": [
+    "https://www.sofla.co.jp/category/soflareport/soflareport02.html",
+    "https://www.zaico.co.jp/casestudy/yamashita-opportunity-store/",
+    "https://yamashita-kikaiten.com/News",
+    "https://www.ohnoseiko.biz/post/%E5%B1%B1%E4%B8%8B%E6%A9%9F%E6%A2%B0%E3%81%95%E3%81%BE%E3%83%97%E3%83%A9%E3%82%A4%E3%83%99%E3%83%BC%E3%83%88%E3%82%B7%E3%83%A7%E3%83%BC%E3%81%AB%E5%87%BA%E5%B1%95%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%99",
+    "https://job.mynavi.jp/28/pc/search/corp38375/outline.html",
+    "https://www.youtube.com/watch?v=P-ZIaCQ3-1Q",
+    "http://www.yamashita-machinery-recruit.com/",
+    "https://www.kis.co.jp/project/%E5%A4%89%E5%8C%96%E3%82%92%E7%B6%9A%E3%81%91%E3%82%8B%E8%80%81%E8%88%97%E5%B7%A5%E5%A0%B4%E3%81%8C%E5%8F%96%E3%82%8A%E7%B5%84%E3%82%80%E3%80%8C%E7%A8%BC%E5%83%8D%E7%8E%87%E3%81%AE%E8%A6%8B%E3%81%88/",
+    "http://yamashita-machinery.com/new",
+    "http://yamashita-machinery.com/company/summary"
+   ]
+  },
+  {
+   "query": "山下機械 価格 OR 料金",
+   "results": [
+    "https://mono.ipros.com/company/detail/2056186/",
+    "https://yamashita-machinery.com/new/page/3",
+    "https://job.mynavi.jp/28/pc/search/corp38375/outline.html",
+    "https://www.sofla.co.jp/category/soflareport/soflareport02.html",
+    "https://yamashita-kikaiten.com/history",
+    "http://www.yamashita-machinery-recruit.com/",
+    "https://www.openwork.jp/company.php?m_id=a0C1000000pn1N1",
+    "https://www.r-agent.com/company/a3714/",
+    "https://nantong-japanese.com/2025/11/08/「～費」「～代」「～料」「～金」「～賃」金銭/",
+    "https://business-textbooks.com/ryoukin-daikin-hiyou/"
+   ]
+  },
+  {
+   "query": "山下機械 受託 造形",
+   "results": [
+    "https://mono.ipros.com/company/detail/2056186/",
+    "https://idec-fs.com/partner/1839",
+    "https://yamashita-machinery.com/product/manufacturing",
+    "https://www.lumex-matsuura.com/japan/contracted",
+    "https://job.mynavi.jp/28/pc/search/corp38375/outline.html",
+    "http://www.yamashita-machinery-recruit.com/",
+    "https://www.ohnoseiko.biz/post/%E5%B1%B1%E4%B8%8B%E6%A9%9F%E6%A2%B0%E3%81%95%E3%81%BE%E3%83%97%E3%83%A9%E3%82%A4%E3%83%99%E3%83%BC%E3%83%88%E3%82%B7%E3%83%A7%E3%83%BC%E3%81%AB%E5%87%BA%E5%B1%95%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%99",
+    "https://www.instagram.com/reel/DK6mZ-PTTk9/",
+    "http://yamashita-machinery.com/company/summary",
+    "http://yamashita-machinery.com/new"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -1,0 +1,750 @@
+{
+ "name": "株式会社エイチ・ティー・エル（HTL Co. Japan Ltd.）",
+ "aliases": [],
+ "context": "RPMI DED、Wayland Calibur3（EB）、Aconity3D各機の販売。微細金属3Dプリント受託；輸入装置 / Aconity3D（独）；RPM Innovations（米）；RPMI, Wayland, Aconity3D；VBN Components（スウェーデン）AM用金属合金（粉末）；Wayland Additive（英）",
+ "researched_at": "2026-11-02T12:15:37.001042+00:00",
+ "official_url": "http://www.htlco.co.jp（イプロス記載。本文未読",
+ "identified_by": "given",
+ "profile": {
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "100名",
+    "url": "https://mono.ipros.com/company/detail/311012/",
+    "pass": 3
+   },
+   {
+    "label": "従業員",
+    "value": "46名",
+    "url": "https://job.mynavi.jp/27/pc/search/corp294516/outline.html",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "半導体・フラットパネルディスプレイ製造装置事業 現代のインフラに欠かせない半導体や液晶パネルの製造に不可欠な、世界最高水準の製造装置や戦略的材料を提供。日本のものづくりの進化を根底から支えています。 次世代3Dプリンティング・ソリューション 金属3Dプリンターの輸入・販売だけでなく、受託造形やコンサルティングまで幅広く展開。ロケット部品から医療、産業機械まで、製造業の常識を覆す新しいものづくりの形を提案しています。 ソフトウェア・インテグレーション（AI・DX） インドの開発拠点を核に、画像処理、AI、IoT、監視制御システムなどのソフトを開発しています。海外製の高度なハードウェアに自社ソフトを組み込み、顧客の課題を解決する「唯一無二のシステム」へと昇華させます。 納入機器の保守・技術サービス（R&D） 製品を売って終わりではなく、導入後の技術サポートやメンテナンス、さらには顧客との共同研究（R&D）も実施。技術のスペシャリストとして、長期的なパートナーシップを築いています。 【HTLに関連するキーワード】 #ソフトウェア開発 #自社ソフト開発 #AI #画像処理 #IoT #制御シス",
+    "url": "https://job.mynavi.jp/27/pc/search/corp294516/outline.html",
+    "pass": 3
+   }
+  ],
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1994年12月15日",
+    "url": "https://job.mynavi.jp/27/pc/search/corp294516/outline.html",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "＜売上高＞ 2024年3月決算期　47億 2025年3月決算期　66億 2026年3月決算期　85億（見込み）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp294516/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "＜売上高＞\n2024年3月決算期　47億\n2025年3月決算期　66億　\n2026年3月決算期　85億（見込み）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp294516/outline.html",
+    "pass": 3
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主な取引先",
+    "value": "■主な取引先 JAXA・三菱重工・荏原製作所・テクセンドフォトマスク(旧トッパンフォトマスク)・大日本印刷・HOYA ・ルネサスエレクトロニクス・ヤマハ・電気通信大学・青山学院大学・Photronics (米国)・TSMC(台湾)・LGIT(韓国)・SMIC(中国)など",
+    "url": "https://job.mynavi.jp/27/pc/search/corp294516/outline.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰から": [
+   {
+    "quote": "この提携は、ハイテク分野で次世代の人材を育成するための産学連携を促進する上で重要な一歩となります",
+    "url": "https://www.htlco.co.jp/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "フォトマスク静電気測定装置を取り扱うESTION Technologies社と販売代理店契約を結びました",
+    "url": "https://www.htlco.co.jp/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "この提携は、デジタルユニバーシティケララ(DUK)における半導体ハードウェア及びソフトウェアの協力を含み、インドと日本でのインターンシップなどの主要な学術産業連携も行います",
+    "url": "https://www.htlco.co.jp/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "プロジェクトであり、この提携契約ではデジタルサイエンスパーク向けの半導体装置、マスク開発、FPD技術、3Dプリンターなど、関連するチップ開発をカバーしています",
+    "url": "https://www.htlco.co.jp/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社エイチ・ティー・エルはWayland Additive社製品の販売総代理店を務めさせて頂くことになりました",
+    "url": "https://www.htlco.co.jp/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、日本、韓国、台湾の販売総代理店として英国Wayland Additive社と契約を締結したことをご報告いたします",
+    "url": "https://www.htlco.co.jp/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "販売総代理店契約締結内容はこちら",
+    "url": "https://www.htlco.co.jp/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社が総代理店を務めておりますAAC-Microtec／Clyde-Space から、",
+    "url": "https://www.htlco.co.jp/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "RPM Innovations社（RPMI: 米国、サウスダコタ）のレーザー金属3Dプリンターの国内及びインドでの総代理店となりました",
+    "url": "https://www.htlco.co.jp/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "SCIENTA SAUNA SYSTEMS（SAUNA: スウェーデン、ウプサラ）の、キセノン核種検出機の国内総代理店となりました",
+    "url": "https://www.htlco.co.jp/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "単なる輸入卸にとどまらず、ナノテクノロジー、バイオテクノロジー、半導体、新素材開発といった「最先端・高精度」が求められる分野において、装置の選定から導入、技術サポート、メンテナンスまで一貫したサービスを提供しています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp294516/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "単に海外製品を輸入するだけの商社ではありません",
+    "url": "https://job.mynavi.jp/27/pc/search/corp294516/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "インドに自社のソフトウェア開発センターを持ち、AIや画像処理、制御システムを自社開発しています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp294516/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターの輸入・販売だけでなく、受託造形やコンサルティングまで幅広く展開",
+    "url": "https://job.mynavi.jp/27/pc/search/corp294516/outline.html",
+    "pass": 3
+   }
+  ],
+  "何をする": [
+   {
+    "quote": "製品リリース情報",
+    "url": "https://www.htlco.co.jp/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "プレスリリース",
+    "url": "https://www.htlco.co.jp/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "HTLは、2025年6月26日にインドのマニパル高等教育アカデミー（MAHE）と覚書を締結致しました",
+    "url": "https://www.htlco.co.jp/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "弊社は、子会社であるHTL India Pvt. Ltd.と共に、インドのマニパル高等教育アカデミー（MAHE）と戦略的覚書（MOU）を締結しました",
+    "url": "https://www.htlco.co.jp/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "調印式には、マニパル高等教育アカデミー（MAHE）のナラヤナ・サバヒト副学長兼技術・科学科長、P・ギリダル・キニ学長、MITマニパル校のアニル・ラナ学長、MAHEの企業関係担当ハリシュ・クマール博士、弊社からは代表取締役社長のアチャリヤ・アチンティヤ、アトマラム・グプタCTO、HTL Indiaディレクターのサンジャイ・アチャリヤらが出席しました",
+    "url": "https://www.htlco.co.jp/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "フォトマスク静電気測定装置を取り扱うESTION Technologies社と販売代理店契約を結びました",
+    "url": "https://www.htlco.co.jp/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリント極小・超微細マイクロ・パーツの受託造形メーカー「３D micro PRINT」社製品の取り扱いを開始いたしました",
+    "url": "https://www.htlco.co.jp/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社エイチ・ティー・エルはWayland Additive社製品の販売総代理店を務めさせて頂くことになりました",
+    "url": "https://www.htlco.co.jp/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、日本、韓国、台湾の販売総代理店として英国Wayland Additive社と契約を締結したことをご報告いたします",
+    "url": "https://www.htlco.co.jp/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "販売総代理店契約締結内容はこちら",
+    "url": "https://www.htlco.co.jp/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "2月6日付けで、日本市場に関するプレスリリースがなされました",
+    "url": "https://www.htlco.co.jp/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場に関するプレスリリースはこちら",
+    "url": "https://www.htlco.co.jp/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "設計・生産支援",
+    "url": "https://mono.ipros.com/company/detail/311012/",
+    "pass": 3
+   },
+   {
+    "quote": "セミナー・スキルアップ",
+    "url": "https://mono.ipros.com/company/detail/311012/",
+    "pass": 3
+   },
+   {
+    "quote": "製造・加工受託",
+    "url": "https://mono.ipros.com/company/detail/311012/",
+    "pass": 3
+   },
+   {
+    "quote": "教育・研究機関",
+    "url": "https://mono.ipros.com/company/detail/311012/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は３Dプリンタ装置、半導体製造装置、材料の販売、アプリケーション・サポート、アフター・メンテナンス・サービスをご提供します",
+    "url": "https://mono.ipros.com/company/detail/311012/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は技術商社として、様々な造形方式の３Dプリンタ装置、各種半導体製造装置の販売と、アフター・メンテナンス・サービスで長年培った経験を活かし、御客様へアプリケーション・サポートなどのトータル・ソリューションをご提供して参ります",
+    "url": "https://mono.ipros.com/company/detail/311012/",
+    "pass": 3
+   },
+   {
+    "quote": "材料についても金属３Dプリンタ用高硬度、高耐摩耗特性を備えた金属パウダの販売も行っております",
+    "url": "https://mono.ipros.com/company/detail/311012/",
+    "pass": 3
+   },
+   {
+    "quote": "【装置販売とサービス】",
+    "url": "https://mono.ipros.com/company/detail/311012/",
+    "pass": 3
+   },
+   {
+    "quote": "【受託造形】極小・超微細マイクロ・パーツ 金属3Dプリント",
+    "url": "https://mono.ipros.com/company/detail/311012/",
+    "pass": 3
+   },
+   {
+    "quote": "セミナー・イベント",
+    "url": "https://mono.ipros.com/company/detail/311012/",
+    "pass": 3
+   },
+   {
+    "quote": "フランクフルトで毎年開催されるAM（アディティブマニュファクチャリング ／積層造形）技術と工業用3Dプリンティングに特化した国際専門見本市Formnextの姉妹イベント、Formnext Forum Tokyoは、3DプリンティングなどのAM技術、その関連技術、製品、サービス、情報が集まる、展示とセミナーの複合イベントです",
+    "url": "https://mono.ipros.com/company/detail/311012/",
+    "pass": 3
+   },
+   {
+    "quote": "※次世代 3Dプリンタ展とは、アディティブ・マニュファクチャリング、3Dプリンタ、材料、受託造形サービスなど、AM、3Dプリント技術に関する展示会です",
+    "url": "https://mono.ipros.com/company/detail/311012/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の製造、生産技術、試作、設計、開発、購買部門の方々に加え、建設業、娯楽業、広告業などの方々が多数来場し、出展企業と活発な商談を行っています",
+    "url": "https://mono.ipros.com/company/detail/311012/",
+    "pass": 3
+   },
+   {
+    "quote": "製品リリース情報",
+    "url": "https://www.htlco.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "プレスリリース",
+    "url": "https://www.htlco.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "・3D micro PRINT社（ドイツ） 金属3Dマイクロ造形【装置・受託造形サービス】",
+    "url": "https://www.htlco.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "・Aconity3D社（ドイツ） レーザ・パウダベッド金属3Dプリンタ【装置・受託造形サービス】",
+    "url": "https://www.htlco.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "・RPM Innovations社（アメリカ） レーザ指向性エネルギー堆積法金属3Dプリンタ(DED)【装置・受託造形サービス】",
+    "url": "https://www.htlco.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "・Wayland Additive（イギリス） 電子ビーム・パウダベッド金属3Dプリンタ【装置・受託造形サービス】",
+    "url": "https://www.htlco.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "プレスリリース",
+    "url": "https://unifiedsearch.jcdbizmatch.jp/nanotech2023/jp/tct/details/H4V7rGKqxAE",
+    "pass": 3
+   },
+   {
+    "quote": "VBN社で保有する金属３DP装置にて、受託造形も可能です",
+    "url": "https://unifiedsearch.jcdbizmatch.jp/nanotech2023/jp/tct/details/H4V7rGKqxAE",
+    "pass": 3
+   },
+   {
+    "quote": "セミナー／説明会",
+    "url": "https://job.mynavi.jp/27/pc/search/corp294516/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "＜WEB＞最先端技術の魅力と可能性を発見！HTL設計・ソフト開発説明会",
+    "url": "https://job.mynavi.jp/27/pc/search/corp294516/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "説明会・セミナー",
+    "url": "https://job.mynavi.jp/27/pc/search/corp294516/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "自分の設計が製品として世の中に形になる、「ものづくり」の醍醐味",
+    "url": "https://job.mynavi.jp/27/pc/search/corp294516/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ソフト開発から装置の機械設計・電気設計まで、開発業務全般を手掛けています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp294516/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "下請けではない、設計・ソフトの直請け集団",
+    "url": "https://job.mynavi.jp/27/pc/search/corp294516/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "【3Dプリンティング】ものづくりの常識を塗り替える金属3Dプリンターの販売だけでなく、自社で造形を行う「受託造形サービス」も展開しています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp294516/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "単なる輸入卸にとどまらず、ナノテクノロジー、バイオテクノロジー、半導体、新素材開発といった「最先端・高精度」が求められる分野において、装置の選定から導入、技術サポート、メンテナンスまで一貫したサービスを提供しています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp294516/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターの輸入・販売だけでなく、受託造形やコンサルティングまで幅広く展開",
+    "url": "https://job.mynavi.jp/27/pc/search/corp294516/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "納入機器の保守・技術サービス（R&D）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp294516/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品を売って終わりではなく、導入後の技術サポートやメンテナンス、さらには顧客との共同研究（R&D）も実施",
+    "url": "https://job.mynavi.jp/27/pc/search/corp294516/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "#ソフトウェア開発 #自社ソフト開発 #AI #画像処理 #IoT #制御システム #システムインテグレーション #機械設計 #金属3Dプリンター #3Dプリンティング #半導体製造装置 #受託造形 #ナノテクノロジー #宇宙防衛産業 #電気設計 #半導体 #電子デバイス #電子ビーム技術 #フラットパネルディスプレイ #微細加工技術 #技術商社 #研究開発 #直請け #グローバル #海外エンジニアと連携 #若手の裁量が大きい #少数精鋭",
+    "url": "https://job.mynavi.jp/27/pc/search/corp294516/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "PVA TePla(旧Asyntis) 社プラズマ関連装置の販売開始",
+    "url": "https://job.mynavi.jp/27/pc/search/corp294516/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "Arradiance社原子層堆積（ALD）装置の販売開始",
+    "url": "https://job.mynavi.jp/27/pc/search/corp294516/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ブイテクノロジー社フォトマスク修正装置等の販売開始",
+    "url": "https://job.mynavi.jp/27/pc/search/corp294516/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "RPMI社レーザー金属3Dプリンターの販売開始",
+    "url": "https://job.mynavi.jp/27/pc/search/corp294516/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "キャリアコンサルティング制度",
+    "url": "https://job.mynavi.jp/27/pc/search/corp294516/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品リリース情報",
+    "url": "https://www.htlco.co.jp/exhibition.html",
+    "pass": 3
+   },
+   {
+    "quote": "プレスリリース",
+    "url": "https://www.htlco.co.jp/exhibition.html",
+    "pass": 3
+   },
+   {
+    "quote": "・3D micro PRINT社（ドイツ） 金属3Dマイクロ造形【装置・受託造形サービス】",
+    "url": "https://www.htlco.co.jp/exhibition.html",
+    "pass": 3
+   },
+   {
+    "quote": "・Aconity3D社（ドイツ） レーザ・パウダベッド金属3Dプリンタ【装置・受託造形サービス】",
+    "url": "https://www.htlco.co.jp/exhibition.html",
+    "pass": 3
+   },
+   {
+    "quote": "・RPM Innovations社（アメリカ） レーザ指向性エネルギー堆積法金属3Dプリンタ(DED)【装置・受託造形サービス】",
+    "url": "https://www.htlco.co.jp/exhibition.html",
+    "pass": 3
+   },
+   {
+    "quote": "・Wayland Additive（イギリス） 電子ビーム・パウダベッド金属3Dプリンタ【装置・受託造形サービス】",
+    "url": "https://www.htlco.co.jp/exhibition.html",
+    "pass": 3
+   },
+   {
+    "quote": "・AAC Clyde Space社（スウェーデン） 小型衛星関連部品 受託衛星開発 衛星データ販売",
+    "url": "https://www.htlco.co.jp/exhibition.html",
+    "pass": 3
+   },
+   {
+    "quote": "・3D micro PRINT（ドイツ） 金属3Dマイクロ造形【受託造形サービス】",
+    "url": "https://www.htlco.co.jp/exhibition.html",
+    "pass": 3
+   },
+   {
+    "quote": "・VBN Components社製（スウェーデン） 3DP用 高硬度・高耐摩耗合金パウダ【材料】【受託造形サービス】",
+    "url": "https://www.htlco.co.jp/exhibition.html",
+    "pass": 3
+   },
+   {
+    "quote": "・荒木技研工業株式会社（日本） 金属3DP積層造形【受託造形サービス】",
+    "url": "https://www.htlco.co.jp/exhibition.html",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "半導体分野における当社のナレッジを活用し、ケララ州やインド政府機関、さらには世界中での半導体業界の成長促進に貢献できるものと考えております",
+    "url": "https://www.htlco.co.jp/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "これは、3年以上にわたってSCULPTOR向けに開発されたVテクノロジー社とHTLのハードウェアとソフトウェアを組み合わせた高度な技術能力と、ハーフトーンプロダクション能力がお客様の期待していたことに対する大きな信頼を証明しています",
+    "url": "https://www.htlco.co.jp/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "この機能により、FPDマスクショップのお客様、およびLED・OLED、更により高度なディスプレイマスクのFPD産業に、将来貢献できると考えています",
+    "url": "https://www.htlco.co.jp/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "３Dプリンタ装置では、電子ビーム・パウダベッド／レーザ・パウダベッド／レーザ・デポジションなど金属積層造形の主だった3種類の方式を取り扱っており、お客様のアプリケーションに適したご提案が可能です",
+    "url": "https://mono.ipros.com/company/detail/311012/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業特化の用途別課題解決 | イプロスものづくり業界別専門サイト",
+    "url": "https://mono.ipros.com/company/detail/311012/",
+    "pass": 3
+   },
+   {
+    "quote": "BtoB向け | 目的・用途起点で課題解決を支援 | イプロス業界別専門サイト",
+    "url": "https://mono.ipros.com/company/detail/311012/",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形の主要３方式の装置をお取り扱いしており、お客様のアプリケーション、造形サイズ、造形形状、ご予算に応じたご提案が可能です",
+    "url": "https://unifiedsearch.jcdbizmatch.jp/nanotech2023/jp/tct/details/H4V7rGKqxAE",
+    "pass": 3
+   },
+   {
+    "quote": "「３Dプリンタって何？」「積層造形ってそもそも何のこと？」と言葉は聞いたことがあるけれど、何だかよく分からないお客様でも、まずは展示されている各社サンプルを実際にお手に取って頂き、気軽に当社説明員にご質問頂ければと思います",
+    "url": "https://unifiedsearch.jcdbizmatch.jp/nanotech2023/jp/tct/details/H4V7rGKqxAE",
+    "pass": 3
+   },
+   {
+    "quote": "航空・宇宙、軍事、電力発電、採鉱、ガス・オイル、自動車などの幅広い業界での実績、高い信頼性があります",
+    "url": "https://unifiedsearch.jcdbizmatch.jp/nanotech2023/jp/tct/details/H4V7rGKqxAE",
+    "pass": 3
+   },
+   {
+    "quote": "顧客が抱える複雑な研究開発の課題に対し、ナノメートル（100万分の1ミリ）単位の精度で分析・検証を行い、最適な装置やプロセスの構築を提案",
+    "url": "https://job.mynavi.jp/27/pc/search/corp294516/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ハードとソフトの両面から、顧客に最適なソリューションを提案できる独自の技術力が強みです",
+    "url": "https://job.mynavi.jp/27/pc/search/corp294516/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "海外製の高度なハードウェアに自社ソフトを組み込み、顧客の課題を解決する「唯一無二のシステム」へと昇華させます",
+    "url": "https://job.mynavi.jp/27/pc/search/corp294516/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品を売って終わりではなく、導入後の技術サポートやメンテナンス、さらには顧客との共同研究（R&D）も実施",
+    "url": "https://job.mynavi.jp/27/pc/search/corp294516/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "■主な取引先",
+    "url": "https://job.mynavi.jp/27/pc/search/corp294516/outline.html",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "工具・消耗品・備品",
+    "url": "https://mono.ipros.com/company/detail/311012/",
+    "pass": 3
+   },
+   {
+    "quote": "実験器具・消耗品",
+    "url": "https://mono.ipros.com/company/detail/311012/",
+    "pass": 3
+   },
+   {
+    "quote": "【解説】電子ビーム粉末床溶融結合法 金属３Dプリンタ",
+    "url": "https://mono.ipros.com/company/detail/311012/",
+    "pass": 3
+   },
+   {
+    "quote": "国立研究開発法人物質・材料研究機構 (NIMS) 様より、Aconity3D社レーザ粉末床溶融結合 (LPBF) システム「AconityX」を受注しました",
+    "url": "https://www.htlco.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末金属（20 ㎛ ～ 65 ㎛）を造形プラットフォーム上に敷き、造形位置にレーザを照射し溶融と凝固を繰り返すことで積層造形します",
+    "url": "https://unifiedsearch.jcdbizmatch.jp/nanotech2023/jp/tct/details/H4V7rGKqxAE",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター（粉末床溶融結合法／PBF方式）、3Dプリンター（その他）、軽量構造技術",
+    "url": "https://unifiedsearch.jcdbizmatch.jp/nanotech2023/jp/tct/details/H4V7rGKqxAE",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター（粉末床溶融結合法／PBF方式）、軽量構造技術",
+    "url": "https://unifiedsearch.jcdbizmatch.jp/nanotech2023/jp/tct/details/H4V7rGKqxAE",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター（粉末床溶融結合法／PBF方式）、3Dプリンター（その他）、サービスビューロー、軽量構造技術、ラピッドツーリング、切削加工技術",
+    "url": "https://unifiedsearch.jcdbizmatch.jp/nanotech2023/jp/tct/details/H4V7rGKqxAE",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "プレスリリース - 株式会社エイチ・ティー・エル — プレスリリース - 株式会社エイチ・ティー・エル 株式会社エイチ・ティー・エル https://www.htlco.co.jp > press",
+    "url": "https://www.htlco.co.jp/press.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 エイチ ・ ティー ・ エル の会社概要・製品情報 - Metoree — 株式会社 エイチ ・ ティー ・ エル の会社概要・製品情報 - Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/8300/",
+    "pass": 3
+   },
+   {
+    "quote": "エイチ ・ ティー ・ エル | 企業情報 | イプロスものづくり — エイチ ・ ティー ・ エル | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 産業用機械",
+    "url": "https://mono.ipros.com/company/detail/311012/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 エイチ ・ ティー ・ エル — 株式会社 エイチ ・ ティー ・ エル 株式会社エイチ・ティー・エル https://www.htlco.co.jp",
+    "url": "https://www.htlco.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "(株) エイチ ・ ティー ・ エル の新卒採用・会社概要 | マイナビ2027 — (株) エイチ ・ ティー ・ エル の新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp294516 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp294516/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "エイチ ・ ティー ・ エル に注目｜H3ロケット開発を支えた装置 ... — エイチ ・ ティー ・ エル に注目｜H3ロケット開発を支えた装置 ... space-connect.jp https://space-connect.jp > Business",
+    "url": "https://space-connect.jp/htl-detail/",
+    "pass": 3
+   },
+   {
+    "quote": "出展情報 - 株式会社エイチ・ティー・エル — 出展情報 - 株式会社エイチ・ティー・エル 株式会社エイチ・ティー・エル https://www.htlco.co.jp > exhibition",
+    "url": "https://www.htlco.co.jp/exhibition.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 エイチ ・ ティー ・ エル の求人・中途採用情報 - doda — 株式会社 エイチ ・ ティー ・ エル の求人・中途採用情報 - doda doda https://doda.jp > CompanyJobs > j_id__10039072920",
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10039072920/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 エイチ ・ ティー ・ エル の中途採用・転職・求人情報 — 株式会社 エイチ ・ ティー ・ エル の中途採用・転職・求人情報 リクルートエージェント https://www.r-agent.com > company",
+    "url": "https://www.r-agent.com/company/73166/",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "9,800万円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp294516/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "HTLなら、あなたの学んだ技術知識をベースに、インドや欧米のエンジニアと連携し、数億円規模のプロジェクトを動かすチャンスが1年目からあります",
+    "url": "https://job.mynavi.jp/27/pc/search/corp294516/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "グループ合計約150名の組織ながら、扱うプロジェクトは数億円規模",
+    "url": "https://job.mynavi.jp/27/pc/search/corp294516/outline.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "http://www.htlco.co.jp（イプロス記載。本文未読",
+    "status": "network_error:InvalidURL",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.htlco.co.jp/press.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/8300/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/311012/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.htlco.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/311012/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unifiedsearch.jcdbizmatch.jp/nanotech2023/jp/tct/details/H4V7rGKqxAE",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.htlco.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/311012/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp294516/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.htlco.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/311012/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.htlco.co.jp/exhibition.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "エイチ・ティー・エル(HTL Co. Japan ) 代理店 契約",
+   "results": [
+    "https://www.htlco.co.jp/press.html",
+    "https://metoree.com/companies/8300/",
+    "https://mono.ipros.com/company/detail/311012/",
+    "https://www.htlco.co.jp/",
+    "https://job.mynavi.jp/27/pc/search/corp294516/outline.html",
+    "https://www.incom.co.jp/corporation/top.php?company_id=10477",
+    "https://unifiedsearch.jcdbizmatch.jp/nanotech2023/jp/tct/details/H4V7rGKqxAE",
+    "https://www.fastgate.co.jp/news/view/89",
+    "https://www.jac-recruitment.jp/search/NJB2391429/",
+    "https://www.htlco.co.jp/company.html"
+   ]
+  },
+  {
+   "query": "エイチ・ティー・エル(HTL Co. Japan ) 導入事例",
+   "results": [
+    "https://www.htlco.co.jp/",
+    "https://mono.ipros.com/company/detail/311012/",
+    "https://unifiedsearch.jcdbizmatch.jp/nanotech2023/jp/tct/details/H4V7rGKqxAE",
+    "https://space-connect.jp/htl-detail/",
+    "https://www.htlco.co.jp/exhibition.html",
+    "https://www.jeol.co.jp/products/technology_cases/cases/am_01.html",
+    "https://www.raise3d.jp/case",
+    "https://www.hiper.co.jp/solution/%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B/",
+    "https://www.kinzoku.co.jp/case.html"
+   ]
+  },
+  {
+   "query": "エイチ・ティー・エル(HTL Co. Japan ) 価格 OR 料金",
+   "results": [
+    "https://www.htlco.co.jp/",
+    "https://mono.ipros.com/company/detail/311012/",
+    "https://job.mynavi.jp/27/pc/search/corp294516/outline.html",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10039072920/",
+    "https://www.r-agent.com/company/73166/",
+    "https://www.htlco.co.jp/company.html",
+    "https://www.openwork.jp/company.php?m_id=a0C10000010z6Za",
+    "https://www.htlco.co.jp/service.html",
+    "https://mono.ipros.com/product/detail/2000778821/",
+    "https://chottotokusururyoko.com/entry/2026/08/25/102052"
+   ]
+  },
+  {
+   "query": "エイチ・ティー・エル(HTL Co. Japan ) 受託 造形",
+   "results": [
+    "https://www.htlco.co.jp/",
+    "https://mono.ipros.com/company/detail/311012/",
+    "https://www.htlco.co.jp/exhibition.html",
+    "https://unifiedsearch.jcdbizmatch.jp/nanotech2023/jp/tct/details/H4V7rGKqxAE",
+    "https://metoree.com/companies/8300/",
+    "https://job.mynavi.jp/27/pc/search/corp294516/outline.html",
+    "https://space-connect.jp/htl-detail/",
+    "https://mono.ipros.com/product/detail/2001514278/",
+    "https://www.htlco.co.jp/service.html",
+    "https://htl.prsvr.net/"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -1,0 +1,1704 @@
+{
+ "name": "株式会社シーケービー(CKB)",
+ "aliases": [],
+ "context": "Additive Industries MetalFAB G2販売 / Additive Industries（蘭）",
+ "researched_at": "2026-11-02T12:16:44.211853+00:00",
+ "official_url": "https://www.ckb.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "昭和28年1月21日（1953年）",
+    "url": "https://www.ckb.co.jp/company/outline/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "年間売上高",
+    "value": "100億円",
+    "url": "https://www.ckb.co.jp/company/outline/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "70名",
+    "url": "https://www.ckb.co.jp/company/outline/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "営業品目",
+    "value": "工作機械、鍛圧機械、製缶設備、精密測定機器、その他",
+    "url": "https://www.ckb.co.jp/company/outline/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰から": [
+   {
+    "quote": "工作機械の輸入、販売商社CKB | 株式会社シーケービー",
+    "url": "https://www.ckb.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は日本工作機械輸入協会の会員です",
+    "url": "https://www.ckb.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "会場 / 3号館 128（日本工作機械輸入協会ブース内）",
+    "url": "https://www.ckb.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "会場 / パシフィコ横浜 Bホール G30（日本工作機械輸入協会ブース内）",
+    "url": "https://www.ckb.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は日本工作機械輸入協会の会員です",
+    "url": "https://www.ckb.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ごあいさつ 当社は1953年の創業以来、主に欧米諸国から工作機械、測定機器、鍛圧機械などを輸入販売し、我が国の産業の近代化・工業化に貢献してまいりました",
+    "url": "https://www.ckb.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は日本工作機械輸入協会の会員です",
+    "url": "https://www.ckb.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は日本工作機械輸入協会の会員です",
+    "url": "https://www.ckb.co.jp/features/",
+    "pass": 1
+   },
+   {
+    "quote": "取扱メーカーから探す",
+    "url": "https://www.ckb.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は日本工作機械輸入協会の会員です",
+    "url": "https://www.ckb.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は日本工作機械輸入協会の会員です",
+    "url": "https://www.ckb.co.jp/product/3219/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は日本工作機械輸入協会の会員です",
+    "url": "https://www.ckb.co.jp/field/metal-cutting-machines/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は日本工作機械輸入協会の会員です",
+    "url": "https://www.ckb.co.jp/field/precision-measuring-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は日本工作機械輸入協会の会員です",
+    "url": "https://www.ckb.co.jp/field/welding-and-laser/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は日本工作機械輸入協会の会員です",
+    "url": "https://www.ckb.co.jp/field/presses-and-metal-forming-machines/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は日本工作機械輸入協会の会員です",
+    "url": "https://www.ckb.co.jp/field/skc-slideway-coatings-and-coatings-for-joint-faces/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は日本工作機械輸入協会の会員です",
+    "url": "https://www.ckb.co.jp/field/others/",
+    "pass": 1
+   },
+   {
+    "quote": "会場 / 3号館 128（日本工作機械輸入協会ブース内）",
+    "url": "https://www.ckb.co.jp/news/?post=news_11728",
+    "pass": 1
+   },
+   {
+    "quote": "会場 / パシフィコ横浜 Bホール G30（日本工作機械輸入協会ブース内）",
+    "url": "https://www.ckb.co.jp/news/?post=news_11728",
+    "pass": 1
+   },
+   {
+    "quote": "当社は日本工作機械輸入協会の会員です",
+    "url": "https://www.ckb.co.jp/news/?post=news_11728",
+    "pass": 1
+   },
+   {
+    "quote": "会場 / 3号館 128（日本工作機械輸入協会ブース内）",
+    "url": "https://www.ckb.co.jp/news/?post=news_11274",
+    "pass": 1
+   },
+   {
+    "quote": "会場 / パシフィコ横浜 Bホール G30（日本工作機械輸入協会ブース内）",
+    "url": "https://www.ckb.co.jp/news/?post=news_11274",
+    "pass": 1
+   },
+   {
+    "quote": "当社は日本工作機械輸入協会の会員です",
+    "url": "https://www.ckb.co.jp/news/?post=news_11274",
+    "pass": 1
+   },
+   {
+    "quote": "会場 / 3号館 128（日本工作機械輸入協会ブース内）",
+    "url": "https://www.ckb.co.jp/news/?post=news_11074",
+    "pass": 1
+   },
+   {
+    "quote": "会場 / パシフィコ横浜 Bホール G30（日本工作機械輸入協会ブース内）",
+    "url": "https://www.ckb.co.jp/news/?post=news_11074",
+    "pass": 1
+   },
+   {
+    "quote": "当社は日本工作機械輸入協会の会員です",
+    "url": "https://www.ckb.co.jp/news/?post=news_11074",
+    "pass": 1
+   },
+   {
+    "quote": "会場 / 3号館 128（日本工作機械輸入協会ブース内）",
+    "url": "https://www.ckb.co.jp/news/?post=news_10764",
+    "pass": 1
+   },
+   {
+    "quote": "会場 / パシフィコ横浜 Bホール G30（日本工作機械輸入協会ブース内）",
+    "url": "https://www.ckb.co.jp/news/?post=news_10764",
+    "pass": 1
+   },
+   {
+    "quote": "当社は日本工作機械輸入協会の会員です",
+    "url": "https://www.ckb.co.jp/news/?post=news_10764",
+    "pass": 1
+   },
+   {
+    "quote": "会場 / 3号館 128（日本工作機械輸入協会ブース内）",
+    "url": "https://www.ckb.co.jp/news/?post=news_10755",
+    "pass": 1
+   },
+   {
+    "quote": "会場 / パシフィコ横浜 Bホール G30（日本工作機械輸入協会ブース内）",
+    "url": "https://www.ckb.co.jp/news/?post=news_10755",
+    "pass": 1
+   },
+   {
+    "quote": "当社は日本工作機械輸入協会の会員です",
+    "url": "https://www.ckb.co.jp/news/?post=news_10755",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は日本工作機械輸入協会に所属しておりますが、協会は2019年に続き、今年もEMO視察団を派遣する予定です",
+    "url": "https://www.ckb.co.jp/news/event/",
+    "pass": 1
+   },
+   {
+    "quote": "さて、今般頭書見本市におきまして、日本工作機械輸入協会の出展ブースに参画いたします",
+    "url": "https://www.ckb.co.jp/news/event/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社小間番号： G-23 (日本工作機械輸入協会会員出展ブース)",
+    "url": "https://www.ckb.co.jp/news/event/",
+    "pass": 1
+   },
+   {
+    "quote": "今回は実に４年ぶりの会場開催でもあり、新たな試みとして東２ホールの本展示小間を市場毎に５エリアに分割し、エリア毎に特徴ある輸入機・加工/造形サンプルをわかりやすく展示いたします",
+    "url": "https://www.ckb.co.jp/news/event/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は日本工作機械輸入協会の会員です",
+    "url": "https://www.ckb.co.jp/news/event/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は日本工作機械輸入協会の会員です",
+    "url": "https://www.ckb.co.jp/news/new-product/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は日本工作機械輸入協会の会員です",
+    "url": "https://www.ckb.co.jp/news/whats-new/",
+    "pass": 1
+   },
+   {
+    "quote": "会場 / 3号館 128（日本工作機械輸入協会ブース内）",
+    "url": "https://www.ckb.co.jp/2026/?cat=news",
+    "pass": 1
+   },
+   {
+    "quote": "会場 / パシフィコ横浜 Bホール G30（日本工作機械輸入協会ブース内）",
+    "url": "https://www.ckb.co.jp/2026/?cat=news",
+    "pass": 1
+   },
+   {
+    "quote": "当社は日本工作機械輸入協会の会員です",
+    "url": "https://www.ckb.co.jp/2026/?cat=news",
+    "pass": 1
+   },
+   {
+    "quote": "当社は日本工作機械輸入協会の会員です",
+    "url": "https://www.ckb.co.jp/2025/?cat=news",
+    "pass": 1
+   },
+   {
+    "quote": "当社は日本工作機械輸入協会の会員です",
+    "url": "https://www.ckb.co.jp/2024/?cat=news",
+    "pass": 1
+   },
+   {
+    "quote": "当社は1953年の創業以来、主に欧米諸国から工作機械、測定機器、鍛圧機械などを輸入販売し、我が国の産業の近代化・工業化に貢献してまいりました",
+    "url": "https://www.ckb.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は日本工作機械輸入協会の会員です",
+    "url": "https://www.ckb.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は日本工作機械輸入協会の会員です",
+    "url": "https://www.ckb.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "ERUCO Johs. Kölln GmbH & Co.KGと事業提携を図り千代田機械貿易(株)を創立",
+    "url": "https://www.ckb.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社の仲介によりLORENZ社と三菱重工業（株）が提携 歯車加工機国産化",
+    "url": "https://www.ckb.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社の仲介によりGILDEMEISTER社と日立精機（株）が提携 多軸自動盤国産化",
+    "url": "https://www.ckb.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "第1回内閣総理大臣輸入貿易功労賞を受賞",
+    "url": "https://www.ckb.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "社名を株式会社シーケービーに改称 平成3年度輸入貿易貢献企業表彰を受賞",
+    "url": "https://www.ckb.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は日本工作機械輸入協会の会員です",
+    "url": "https://www.ckb.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、主として工作機械等の輸入販売を通じて、",
+    "url": "https://www.ckb.co.jp/company/corporate-philosophy-code-of-conduct/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は日本工作機械輸入協会の会員です",
+    "url": "https://www.ckb.co.jp/company/corporate-philosophy-code-of-conduct/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は日本工作機械輸入協会の会員です",
+    "url": "https://www.ckb.co.jp/company/supplier-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は日本工作機械輸入協会の会員です",
+    "url": "https://www.ckb.co.jp/features/engineering/",
+    "pass": 1
+   },
+   {
+    "quote": "日本工作機械輸入協会",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "視察企画：日本工作機械輸入協会",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "名称 日本工作機械輸入協会 EMO2023視察団",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   }
+  ],
+  "何をする": [
+   {
+    "quote": "工作機械の輸入、販売商社CKB | 株式会社シーケービー",
+    "url": "https://www.ckb.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "世界動向、最新技術等の情報提供をはじめ、ものづくりの企画設計の段階から⼯法・効果を提案できるトータルソリューションエンジニアリング企業です",
+    "url": "https://www.ckb.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "きめ細やかなアフターサービスと技術サポート",
+    "url": "https://www.ckb.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ごあいさつ 当社は1953年の創業以来、主に欧米諸国から工作機械、測定機器、鍛圧機械などを輸入販売し、我が国の産業の近代化・工業化に貢献してまいりました",
+    "url": "https://www.ckb.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ワークピースにあわせた専用設計も可能です",
+    "url": "https://www.ckb.co.jp/product/3219/",
+    "pass": 1
+   },
+   {
+    "quote": "お客さまの目的に合わせて、ツーリング設計・提案いたします",
+    "url": "https://www.ckb.co.jp/field/metal-cutting-machines/",
+    "pass": 1
+   },
+   {
+    "quote": "新世代のAEROSTARは、高度な自動化システムにより航空宇宙用の構造ワークピースの大量生産用に設計されたハイエンド加工機です",
+    "url": "https://www.ckb.co.jp/field/metal-cutting-machines/",
+    "pass": 1
+   },
+   {
+    "quote": "Flexmill S-シリーズは、様々な製造要件に適合する柔軟で拡張可能な機械設計を持った小型ワーク向けロボット自動研磨装置です",
+    "url": "https://www.ckb.co.jp/field/metal-cutting-machines/",
+    "pass": 1
+   },
+   {
+    "quote": "セルタイプのコンパクト設計でありながら、高い機械剛性を持つ非常にフレキシブルな機械です",
+    "url": "https://www.ckb.co.jp/field/metal-cutting-machines/",
+    "pass": 1
+   },
+   {
+    "quote": "WENZEL社の新しい歯車試験機「GTシリーズ」は、歯車測定技術における高精度の要求を、正確・簡単・迅速に満たすために設計されました",
+    "url": "https://www.ckb.co.jp/field/precision-measuring-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "人間工学に基づく設計により、様々な使用環…",
+    "url": "https://www.ckb.co.jp/field/precision-measuring-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "HDAシリーズは噴射量により、4サイズリリースされています",
+    "url": "https://www.ckb.co.jp/field/precision-measuring-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "ドイツの西部ヘッセン州のヒュンステッテンに位置するフォーカス社は、1990年に設立された電子観測装置の分野にて高度な研究・開発で世界中に実績のある会社で、2007年から自社設計・製造の微細電子ビーム加…",
+    "url": "https://www.ckb.co.jp/field/welding-and-laser/",
+    "pass": 1
+   },
+   {
+    "quote": "プレス部品販売・オーバーホール",
+    "url": "https://www.ckb.co.jp/field/presses-and-metal-forming-machines/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社では米国Nidec Minster社の製缶用プレスの部品販売、オーバーホールを実施しております",
+    "url": "https://www.ckb.co.jp/field/presses-and-metal-forming-machines/",
+    "pass": 1
+   },
+   {
+    "quote": "EF-Performanceは、OTEC社が開発した特殊電解研磨技術を搭載したEFシリーズの中で最大の装置で、産業用途向けの高性能研磨装置としてリリースされました",
+    "url": "https://www.ckb.co.jp/field/others/",
+    "pass": 1
+   },
+   {
+    "quote": "試作から量産対応まで可能なオランダ製 大型金属３Dプリンタ",
+    "url": "https://www.ckb.co.jp/field/others/",
+    "pass": 1
+   },
+   {
+    "quote": "Flexmill S-シリーズは、様々な製造要件に適合する柔軟で拡張可能な機械設計を持った小型ワーク向けロボット自動研磨装置です",
+    "url": "https://www.ckb.co.jp/field/others/",
+    "pass": 1
+   },
+   {
+    "quote": "BFMシリーズのアイソレーターは、34t～136tのスタンピングプレス用に設計されています",
+    "url": "https://www.ckb.co.jp/field/others/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は1953年の創業以来、主に欧米諸国から工作機械、測定機器、鍛圧機械などを輸入販売し、我が国の産業の近代化・工業化に貢献してまいりました",
+    "url": "https://www.ckb.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "創立20周年記念式典挙行 精密測定機器販売部門を分離",
+    "url": "https://www.ckb.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、主として工作機械等の輸入販売を通じて、",
+    "url": "https://www.ckb.co.jp/company/corporate-philosophy-code-of-conduct/",
+    "pass": 1
+   },
+   {
+    "quote": "世界動向、最新技術等の情報提供をはじめ、ものづくりの企画設計の段階から工法・効果を提案できるトータルソリューションエンジニアリング企業です",
+    "url": "https://www.ckb.co.jp/features/engineering/",
+    "pass": 1
+   },
+   {
+    "quote": "サポートの技術者は高度なトレーニングを受け、非常に豊かな経験を持っています",
+    "url": "https://www.ckb.co.jp/features/engineering/",
+    "pass": 1
+   },
+   {
+    "quote": "ほとんどの機械の据付・試運転・修理・オーバーホールを自社スタッフで行うことができ、これにより海外製品でありながら、国内製品と同等のレベルで技術サポートをご提供できるのです",
+    "url": "https://www.ckb.co.jp/features/engineering/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は ���� 年の創業以来、主に欧米諸国から工作機械、測定機器、鍛圧機械などを輸入販売し、我",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2026/04/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85202604.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "精密測定機器販売部⾨を分離、 系列会社㈱テクノ ・ プレシジョン設⽴\u0001",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2026/04/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85202604.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製⽸印刷機⽤保守部品\u0001",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2026/04/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85202604.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "｜少量販売・テスト向け",
+    "url": "https://s.theckb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ブランド商品の代理販売権や独占販売権を取得",
+    "url": "https://s.theckb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "THE CKB（直行便）提携ブランドの代理販売権や独占販売権でオリジナリティーを向上させ、競争力を高めます",
+    "url": "https://s.theckb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様へ販売",
+    "url": "https://s.theckb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ブランド代理販売権の申請手続き",
+    "url": "https://s.theckb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "創業以来、主に欧米諸国から工作機械、測定機器、鍛圧機械などを輸入販売し、日本の産業の近代化や工業化に貢献してきました",
+    "url": "https://pr.mono.ipros.com/ckb/information/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは、ものづくりの企画や設計から最新機器の情報まで、専門知識を持ったスペシャリストがお客様に最適な製品を提案し、お客様をサポートします",
+    "url": "https://pr.mono.ipros.com/ckb/information/",
+    "pass": 3
+   },
+   {
+    "quote": "店頭販売あり",
+    "url": "https://kakaku.com/item/51802610334/",
+    "pass": 3
+   },
+   {
+    "quote": "店頭販売あり",
+    "url": "https://kakaku.com/item/51802610335/",
+    "pass": 3
+   },
+   {
+    "quote": "セミナー・イベント",
+    "url": "https://pr.mono.ipros.com/ckb/",
+    "pass": 3
+   },
+   {
+    "quote": "創業以来、主に欧米諸国から工作機械、測定機器、鍛圧機械などを輸入販売し、日本の産業の近代化や工業化に貢献してきました",
+    "url": "https://pr.mono.ipros.com/ckb/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは、ものづくりの企画や設計から最新機器の情報まで、専門知識を持ったスペシャリストがお客様に最適な製品を提案し、お客様をサポートします",
+    "url": "https://pr.mono.ipros.com/ckb/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体・電子部品、光学部品・デバイス、精密機器・産業機械・ロボット、自動車・運輸、航空・宇宙、医療機器、電気・電子機器・総合電機、印刷・加工業・受託加工業、医療・医薬品、化粧品・トイレタリー、食品・飲料、衣料・日用品・雑貨",
+    "url": "https://unifiedsearch.jcdbizmatch.jp/nanotech2025/jp/tct/details/gj3jsQkhytk",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "知識と経験の豊富なセールスマンがお客様の相談を受け、最適な機械をオファーします",
+    "url": "https://www.ckb.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "このウェブサイトを引き続き使用することにより、お客様はクッキーの使用に同意するものとします",
+    "url": "https://www.ckb.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "このウェブサイトを引き続き使用することにより、お客様はクッキーの使用に同意するものとします",
+    "url": "https://www.ckb.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "このウェブサイトを引き続き使用することにより、お客様はクッキーの使用に同意するものとします",
+    "url": "https://www.ckb.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "シーケービーは国内に9ヶ所の拠点を持ちお客様に迅速なサービスを行っています",
+    "url": "https://www.ckb.co.jp/features/",
+    "pass": 1
+   },
+   {
+    "quote": "このウェブサイトを引き続き使用することにより、お客様はクッキーの使用に同意するものとします",
+    "url": "https://www.ckb.co.jp/features/",
+    "pass": 1
+   },
+   {
+    "quote": "このウェブサイトを引き続き使用することにより、お客様はクッキーの使用に同意するものとします",
+    "url": "https://www.ckb.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "このウェブサイトを引き続き使用することにより、お客様はクッキーの使用に同意するものとします",
+    "url": "https://www.ckb.co.jp/product/3219/",
+    "pass": 1
+   },
+   {
+    "quote": "主国内取引先メーカー",
+    "url": "https://www.ckb.co.jp/field/metal-cutting-machines/",
+    "pass": 1
+   },
+   {
+    "quote": "このウェブサイトを引き続き使用することにより、お客様はクッキーの使用に同意するものとします",
+    "url": "https://www.ckb.co.jp/field/metal-cutting-machines/",
+    "pass": 1
+   },
+   {
+    "quote": "主国内取引先メーカー",
+    "url": "https://www.ckb.co.jp/field/precision-measuring-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "このウェブサイトを引き続き使用することにより、お客様はクッキーの使用に同意するものとします",
+    "url": "https://www.ckb.co.jp/field/precision-measuring-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "主国内取引先メーカー",
+    "url": "https://www.ckb.co.jp/field/welding-and-laser/",
+    "pass": 1
+   },
+   {
+    "quote": "このウェブサイトを引き続き使用することにより、お客様はクッキーの使用に同意するものとします",
+    "url": "https://www.ckb.co.jp/field/welding-and-laser/",
+    "pass": 1
+   },
+   {
+    "quote": "主国内取引先メーカー",
+    "url": "https://www.ckb.co.jp/field/presses-and-metal-forming-machines/",
+    "pass": 1
+   },
+   {
+    "quote": "このウェブサイトを引き続き使用することにより、お客様はクッキーの使用に同意するものとします",
+    "url": "https://www.ckb.co.jp/field/presses-and-metal-forming-machines/",
+    "pass": 1
+   },
+   {
+    "quote": "主国内取引先メーカー",
+    "url": "https://www.ckb.co.jp/field/skc-slideway-coatings-and-coatings-for-joint-faces/",
+    "pass": 1
+   },
+   {
+    "quote": "このウェブサイトを引き続き使用することにより、お客様はクッキーの使用に同意するものとします",
+    "url": "https://www.ckb.co.jp/field/skc-slideway-coatings-and-coatings-for-joint-faces/",
+    "pass": 1
+   },
+   {
+    "quote": "主国内取引先メーカー",
+    "url": "https://www.ckb.co.jp/field/others/",
+    "pass": 1
+   },
+   {
+    "quote": "このウェブサイトを引き続き使用することにより、お客様はクッキーの使用に同意するものとします",
+    "url": "https://www.ckb.co.jp/field/others/",
+    "pass": 1
+   },
+   {
+    "quote": "このウェブサイトを引き続き使用することにより、お客様はクッキーの使用に同意するものとします",
+    "url": "https://www.ckb.co.jp/news/?post=news_11728",
+    "pass": 1
+   },
+   {
+    "quote": "このウェブサイトを引き続き使用することにより、お客様はクッキーの使用に同意するものとします",
+    "url": "https://www.ckb.co.jp/news/?post=news_11274",
+    "pass": 1
+   },
+   {
+    "quote": "このウェブサイトを引き続き使用することにより、お客様はクッキーの使用に同意するものとします",
+    "url": "https://www.ckb.co.jp/news/?post=news_11074",
+    "pass": 1
+   },
+   {
+    "quote": "このウェブサイトを引き続き使用することにより、お客様はクッキーの使用に同意するものとします",
+    "url": "https://www.ckb.co.jp/news/?post=news_10764",
+    "pass": 1
+   },
+   {
+    "quote": "このウェブサイトを引き続き使用することにより、お客様はクッキーの使用に同意するものとします",
+    "url": "https://www.ckb.co.jp/news/?post=news_10755",
+    "pass": 1
+   },
+   {
+    "quote": "このウェブサイトを引き続き使用することにより、お客様はクッキーの使用に同意するものとします",
+    "url": "https://www.ckb.co.jp/news/event/",
+    "pass": 1
+   },
+   {
+    "quote": "よく、お客様から「FDM方式の3Dプリンタ―と何が違うの？」というご質問をいただきますが、APF方式【溶融した材料をドロップレット（液滴）にする事】は下記の特徴を持っています",
+    "url": "https://www.ckb.co.jp/news/new-product/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は名古屋市守山区にNagoya Technical Office（通称NTO）を開設しており、Freeformer 300-3Xにてお客様からのテスト造形を承っております",
+    "url": "https://www.ckb.co.jp/news/new-product/",
+    "pass": 1
+   },
+   {
+    "quote": "このウェブサイトを引き続き使用することにより、お客様はクッキーの使用に同意するものとします",
+    "url": "https://www.ckb.co.jp/news/new-product/",
+    "pass": 1
+   },
+   {
+    "quote": "このウェブサイトを引き続き使用することにより、お客様はクッキーの使用に同意するものとします",
+    "url": "https://www.ckb.co.jp/news/whats-new/",
+    "pass": 1
+   },
+   {
+    "quote": "このウェブサイトを引き続き使用することにより、お客様はクッキーの使用に同意するものとします",
+    "url": "https://www.ckb.co.jp/2026/?cat=news",
+    "pass": 1
+   },
+   {
+    "quote": "このウェブサイトを引き続き使用することにより、お客様はクッキーの使用に同意するものとします",
+    "url": "https://www.ckb.co.jp/2025/?cat=news",
+    "pass": 1
+   },
+   {
+    "quote": "このウェブサイトを引き続き使用することにより、お客様はクッキーの使用に同意するものとします",
+    "url": "https://www.ckb.co.jp/2024/?cat=news",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの歩みは、日本のものづくりと密接に関わっており、諸先輩方が汗と“油”の努力によって、幾多の困難な状況を乗り越え、日本の産業界を支えてきたことは、私たちの誇りであり、今も日々の事業活動に綿々と受け継がれております",
+    "url": "https://www.ckb.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "このウェブサイトを引き続き使用することにより、お客様はクッキーの使用に同意するものとします",
+    "url": "https://www.ckb.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "このウェブサイトを引き続き使用することにより、お客様はクッキーの使用に同意するものとします",
+    "url": "https://www.ckb.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "このウェブサイトを引き続き使用することにより、お客様はクッキーの使用に同意するものとします",
+    "url": "https://www.ckb.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先およびビジネスパートナーへの接待・贈答品の授受に関しては、健全な商習慣や社会通念上認められる範囲で行います",
+    "url": "https://www.ckb.co.jp/company/corporate-philosophy-code-of-conduct/",
+    "pass": 1
+   },
+   {
+    "quote": "このウェブサイトを引き続き使用することにより、お客様はクッキーの使用に同意するものとします",
+    "url": "https://www.ckb.co.jp/company/corporate-philosophy-code-of-conduct/",
+    "pass": 1
+   },
+   {
+    "quote": "このウェブサイトを引き続き使用することにより、お客様はクッキーの使用に同意するものとします",
+    "url": "https://www.ckb.co.jp/company/supplier-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "知識と経験の豊富なセールスマンがお客様の相談を受け、最適な機械をオファーします",
+    "url": "https://www.ckb.co.jp/features/engineering/",
+    "pass": 1
+   },
+   {
+    "quote": "シーケービーは国内に7ヶ所の拠点を持ちお客様に迅速なサービスを行っています",
+    "url": "https://www.ckb.co.jp/features/engineering/",
+    "pass": 1
+   },
+   {
+    "quote": "こうした技術的裏付けがあって『シーケービーに安心して任せられる』というお客様からの信頼をいただいてまいりました",
+    "url": "https://www.ckb.co.jp/features/engineering/",
+    "pass": 1
+   },
+   {
+    "quote": "このウェブサイトを引き続き使用することにより、お客様はクッキーの使用に同意するものとします",
+    "url": "https://www.ckb.co.jp/features/engineering/",
+    "pass": 1
+   },
+   {
+    "quote": "ゴのIMTS、中国のCIMTと並び15万人を超える業界関係者に向けて",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "）とは、当社がお客様の依頼により、旅行の目的地及び日程、お客様が",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "提供を受けることができる運送等サービスの内容並びにお客様が当社に支払うべき旅行代金の額を定めた旅行に関する計画を作成",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（１） 当社がお客様に交付した企画の内容に関し契約を申し込もうとするお客様は、当社所定の申込書に所定の事項を記入の上、",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（２） 当社と通信契約を締結しようとするお客様は、前項の規定にかかわらず、会員番号を当社に通知しなければなりません",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これに際して、お客様の状況及び必",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、お客様からお申し出いただいた措置を手配することができない場",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、お客様からのお申し",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "出に基づき、当社がお客様のために講じた特別な措置に要する費用は原則としてお客様の負担とします",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（１０）お客様がご旅行中に疾病、その他の事由により、医師の診断又は加療を必要とする状態になったと当社が判断する場合は、",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これにかかる一切の費用はお客様のご負担になります",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（１） お客様が他の旅行者に迷惑を及ぼし、又は団体行動の円滑な実施を妨げるおそれがあるとき",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（２） 通信契約を締結しようとする場合であって、お客様がお持ちのクレジットカードが無効である等、旅行代金に係る債務の",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（３） お客様が暴力団員、暴力団関係者、その他反社会的勢力であると判明したとき",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（４） お客様が当社に対して暴力的又は不当な要求行為、脅迫的な言動や暴力を用いる行為などを行ったとき",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（５） お客様が風説を流布し、偽計や威力を用いて当社の信用を棄損又は業務を妨害する行為などを行ったとき",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "品質、生産性、能力を最高クラスでバランスさせた円筒研削盤",
+    "url": "https://www.ckb.co.jp/field/metal-cutting-machines/",
+    "pass": 1
+   },
+   {
+    "quote": "ドイツ Buderus（ブデラス）社製 複合加工機235Vシリーズはセンタードライブで２タレット２スピンドル",
+    "url": "https://www.ckb.co.jp/field/metal-cutting-machines/",
+    "pass": 1
+   },
+   {
+    "quote": "最適化されたサーボ軸構成と静圧スピンドルにより、最高レベルの加工精度と安定性を実現します",
+    "url": "https://www.ckb.co.jp/field/metal-cutting-machines/",
+    "pass": 1
+   },
+   {
+    "quote": "楕円穴や異形穴のNC加工にも対応し、多様な製品に柔軟に適応で…",
+    "url": "https://www.ckb.co.jp/field/metal-cutting-machines/",
+    "pass": 1
+   },
+   {
+    "quote": "非円筒ホーニング",
+    "url": "https://www.ckb.co.jp/field/metal-cutting-machines/",
+    "pass": 1
+   },
+   {
+    "quote": "ゲーリング社は、円筒状のボアを製造するのではなく、稼働時におけるひずみメカニズムを考慮したホーニング加工工法を開発しました",
+    "url": "https://www.ckb.co.jp/field/metal-cutting-machines/",
+    "pass": 1
+   },
+   {
+    "quote": "ダイレクトドライブのツールスピンドルとワ…",
+    "url": "https://www.ckb.co.jp/field/metal-cutting-machines/",
+    "pass": 1
+   },
+   {
+    "quote": "スピンドルとテーブルギアボックスが配置された機械ベースと、可動クロスレール用スライドウェイを有したシングルコラムと、テーブルベース(オプションにて平行…",
+    "url": "https://www.ckb.co.jp/field/metal-cutting-machines/",
+    "pass": 1
+   },
+   {
+    "quote": "ワークを保持したスピンドルと研磨槽の双方を同時に回転させることにより強い研削力を実現し、高精度で効率的な表面仕上げを可能にしました",
+    "url": "https://www.ckb.co.jp/field/others/",
+    "pass": 1
+   },
+   {
+    "quote": "燃油サーチャージ/空港諸税：見本市コース 約97,690円 視察団コース 約99,490円",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※渡航手続き代行料：4,400円",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "〇見本市コース（シングル利用） 513,000円",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "〇視察団コース（シングル利用） 693,000円",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "航空券/現地ホテルの高騰および円安の影響により代金が上がっております",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⑧渡航手続き代行料金（4,400円) ⑨ビジネスクラス追加代金（お問い合わせください）",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "総額 100万円",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1名当り 10万円",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1名当り 5万円",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（９） 当社は、旅行の安全かつ円滑な実施のために介助者又は同伴者の同行、医師の診断書の提出、コースの一部について内容",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（１） お客様が他の旅行者に迷惑を及ぼし、又は団体行動の円滑な実施を妨げるおそれがあるとき",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "おいて、旅行の安全かつ円滑な実施が不可能となり、又は、不可能となるおそれが極めて大きいとき",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（３） 添乗員が同行しない場合、現地ガイド、現地あっ旋員が、旅行を円滑に実施するために必要な業務を行う場合があります",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "きに限り、お客様1名につき１５万円を限度（当社に故意又は重大な過失がある場合を除きます",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "添乗サービス料金（添乗員１名１日あたり）：６０，０００円（消費税別）",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "い運送サービスの提供その他当社に関与し得ない事由が生じた場合において、旅行の安全かつ円滑な実施を図るためやむ",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、一旅行契約について支払われる変更補償金の額が１，０００円未満の場合は、変更補償金は",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・ 死亡補償金：２５００万円",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・ 入院見舞金：４～４０万円",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・ 通院見舞金：２～１０万円",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・ 携行品損害補償金：お客様１名につき～１５万円（但し、補償対象品１個又は１対あたり１０万円を限度とします",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "100 億円",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2026/04/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85202604.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "円筒研削盤\u0001",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2026/04/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85202604.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "10000万円",
+    "url": "https://pr.mono.ipros.com/ckb/information/",
+    "pass": 3
+   },
+   {
+    "quote": "★東証プライム上場ＤＣＭグループの安心オンラインストア♪ ★15:00までのご注文で最短当日出荷可能♪5,000円以上送料無料！",
+    "url": "https://kakaku.com/item/51802610334/",
+    "pass": 3
+   },
+   {
+    "quote": "★東証プライム上場ＤＣＭグループの安心オンラインストア♪ ★15:00までのご注文で最短当日出荷可能♪5,000円以上送料無料！",
+    "url": "https://kakaku.com/item/51802610335/",
+    "pass": 3
+   },
+   {
+    "quote": "○○円ぐらいなら買いたいなあ」・・・こんな時、最安お知らせメールが便利です",
+    "url": "https://kakaku.com/item/51802610334/pricehistory/",
+    "pass": 3
+   },
+   {
+    "quote": "シャフト形状部品の寸法・真円度・同軸度などをスピーディーに測定",
+    "url": "https://pr.mono.ipros.com/ckb/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "談合、価格調整、優越的地位の濫用などの不正な取引を行いません",
+    "url": "https://www.ckb.co.jp/company/corporate-philosophy-code-of-conduct/",
+    "pass": 1
+   },
+   {
+    "quote": "【ご料金に関して】",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "料金確定はご参加者人数が確定してからとなりますので5月頃を目安にご参加者様へご案内させてい",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "～2019年参考価格～",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "②ご旅行日程に明示した移動時の専用車及びガイド料金",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "③ご旅行日程に明示した宿泊地におけるホテルの宿泊料金及び税サービス料金",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⑤超過手荷物運搬料金 ⑥燃油特別付加運賃 ⑦国内・海外空港諸税",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⑧渡航手続き代行料金（4,400円) ⑨ビジネスクラス追加代金（お問い合わせください）",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "例年は募集企画型旅行として参加人数にかかわらず、ご旅行料金を確定してから募集を募っておりましたが、",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "そのため本年度の料金は参加人数によって価格変動型となっております",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "参加人数にかかわらず価格は固定",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（１） お客様から企画料金又は取消料をいただく場合",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① お客様は、企画書面記載の企画料金又は取消料を支払って、旅行契約を解除することができます",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "② 当社の責任とならないローンの手続等の事由によるお取り消しの場合も記載の企画料金又は取消料をいただきます",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その場合、企画書面記載の企画料金又は取消料をいただきます",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（２） お客様から企画料金又は取消料をいただかない場合",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様は次に掲げる場合において、旅行開始前に企画料金又は取消料を支払うことなく、契約を解除することができます",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（１） 当社は、お客様のご依頼により原則として下記の添乗サービス料金を申し受けたうえで、添乗サービスを提供いたします",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、添乗サービス料金とは別に、添乗員が同行するために必要な交通費、宿泊費等の実費を別途申し受けます",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "添乗サービス料金（添乗員１名１日あたり）：６０，０００円（消費税別）",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（２） 利用する運送機関の運賃・料金が企画書面に記載した基準日において有効な公示されている適用運賃・料金が著しい経済",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "に通知するものとし、この場合お客様は、旅行開始日前に企画料金又は取消料を支払うことなく、契約を解除することが",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "適用運賃・料金が減額された場合は、その差額だけ旅行代金を減額します",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "③契約書面または確定書面に記載した運送機関の等級又は設備のより低い料金の",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ものへの変更（変更後の等級及び設備の料金の合計額が契約書面又は確定書面に",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この場合にお客様が旅行を取りやめられるときは、当社は所定の企画料金又",
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "海外からの輸入・仕入れ・OEMならTHE CKB（直行便）｜低価格・高品質商品で簡単仕入れ",
+    "url": "https://s.theckb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "簡単に見積もりできます",
+    "url": "https://s.theckb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "低価格・高品質な商品を簡単仕入れ OEMもサポート！",
+    "url": "https://s.theckb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "海外からの輸入・仕入れ・生産ならTHE CKB (直行便) 低価格・高品質な商品を簡単仕入れ OEMもサポート！",
+    "url": "https://s.theckb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネス・ファースト会員様限定！専属バイヤーが、取り扱い希望の商品カテゴリや価格帯に合わせて、個別に商品を提案します",
+    "url": "https://s.theckb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "品揃え豊富な中国ECサイトから、低価格な商品を仕入れられます",
+    "url": "https://s.theckb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "見積フォーム提出",
+    "url": "https://s.theckb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "見積比較・選定",
+    "url": "https://s.theckb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "B2B料金表",
+    "url": "https://s.theckb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "D2C料金表",
+    "url": "https://s.theckb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "カルバン クライン シーケービー EDT 100ml 価格比較 - 価格.com",
+    "url": "https://kakaku.com/item/51802610334/",
+    "pass": 3
+   },
+   {
+    "quote": "カルバン クライン シーケービー EDT 100ml 価格比較",
+    "url": "https://kakaku.com/item/51802610334/",
+    "pass": 3
+   },
+   {
+    "quote": "価格推移グラフ",
+    "url": "https://kakaku.com/item/51802610334/",
+    "pass": 3
+   },
+   {
+    "quote": "メーカー希望小売価格：",
+    "url": "https://kakaku.com/item/51802610334/",
+    "pass": 3
+   },
+   {
+    "quote": "価格.comID購入に対応",
+    "url": "https://kakaku.com/item/51802610334/",
+    "pass": 3
+   },
+   {
+    "quote": "価格.com決済のみ",
+    "url": "https://kakaku.com/item/51802610334/",
+    "pass": 3
+   },
+   {
+    "quote": "価格.com決済とは",
+    "url": "https://kakaku.com/item/51802610334/",
+    "pass": 3
+   },
+   {
+    "quote": "価格.comIDで決済可能、商品未着時の返金サービス付きの安心・便利な決済方法です",
+    "url": "https://kakaku.com/item/51802610334/",
+    "pass": 3
+   },
+   {
+    "quote": "このショップが対応している価格.com決済",
+    "url": "https://kakaku.com/item/51802610334/",
+    "pass": 3
+   },
+   {
+    "quote": "価格.comIDに登録したカードで支払可能",
+    "url": "https://kakaku.com/item/51802610334/",
+    "pass": 3
+   },
+   {
+    "quote": "価格.comに掲載しているショップの中で、最安値のショップを表示しています",
+    "url": "https://kakaku.com/item/51802610334/",
+    "pass": 3
+   },
+   {
+    "quote": "(商品価格＋送料ーポイント)",
+    "url": "https://kakaku.com/item/51802610334/",
+    "pass": 3
+   },
+   {
+    "quote": "価格（差額）",
+    "url": "https://kakaku.com/item/51802610334/",
+    "pass": 3
+   },
+   {
+    "quote": "価格.comに掲載している楽天市場・Amazon.co.jpのショップの中で、それぞれの最安値のショップを表示しています",
+    "url": "https://kakaku.com/item/51802610334/",
+    "pass": 3
+   },
+   {
+    "quote": "で価格を比較",
+    "url": "https://kakaku.com/item/51802610334/",
+    "pass": 3
+   },
+   {
+    "quote": "【在庫限定特別価格】カード決済OK!! (安心SSL暗号化) 状況により本人確認が必要な場合もございます",
+    "url": "https://kakaku.com/item/51802610334/",
+    "pass": 3
+   },
+   {
+    "quote": "価格も他よりは安くて良かったです",
+    "url": "https://kakaku.com/item/51802610334/",
+    "pass": 3
+   },
+   {
+    "quote": "詳細情報を含め、掲載している価格や詳細情報・付属品・画像など全ての情報は、万全の保証をいたしかねます",
+    "url": "https://kakaku.com/item/51802610334/",
+    "pass": 3
+   },
+   {
+    "quote": "価格やスペック・付属品・画像など、すべての掲載情報については万全な保証をいたしかねます",
+    "url": "https://kakaku.com/item/51802610334/",
+    "pass": 3
+   },
+   {
+    "quote": "各ショップの価格や在庫状況は常に変動しています",
+    "url": "https://kakaku.com/item/51802610334/",
+    "pass": 3
+   },
+   {
+    "quote": "カルバン クライン シーケービー EDT 200ml 価格比較 - 価格.com",
+    "url": "https://kakaku.com/item/51802610335/",
+    "pass": 3
+   },
+   {
+    "quote": "カルバン クライン シーケービー EDT 200ml 価格比較",
+    "url": "https://kakaku.com/item/51802610335/",
+    "pass": 3
+   },
+   {
+    "quote": "価格推移グラフ",
+    "url": "https://kakaku.com/item/51802610335/",
+    "pass": 3
+   },
+   {
+    "quote": "メーカー希望小売価格：",
+    "url": "https://kakaku.com/item/51802610335/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社 シーケービー : 工作機械の輸入、販売商社 CKB — 株式会社 シーケービー : 工作機械の輸入、販売商社 CKB 株式会社シーケービー https://www.ckb.co.jp",
+    "url": "https://www.ckb.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "海外からの輸入・仕入れ・OEMならTHE CKB （直行便）｜低 ... — 海外からの輸入・仕入れ・OEMならTHE CKB （直行便）｜低 ... THE CKB https://s.theckb.com",
+    "url": "https://s.theckb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 シーケービー の会社概要・製品情報 - Metoree — 株式会社 シーケービー の会社概要・製品情報 - Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/16129/",
+    "pass": 3
+   },
+   {
+    "quote": "THE CKB （直行便）中国輸入・OEM (@Theckb_official) / X — THE CKB （直行便）中国輸入・OEM (@Theckb_official) / X X https://x.com > Theckb_official",
+    "url": "https://x.com/Theckb_official",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 | シーケービー - Powered by イプロスものづくり — 企業情報 | シーケービー - Powered by イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://pr.mono.ipros.com > ckb > information",
+    "url": "https://pr.mono.ipros.com/ckb/information/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 株式会社シーケービー — 会社概要 - 株式会社シーケービー 株式会社シーケービー https://www.ckb.co.jp > company > outline",
+    "url": "https://www.ckb.co.jp/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "カルバン クライン シーケービー EDT 100ml 価格 比較 — カルバン クライン シーケービー EDT 100ml 価格 比較 価格.com https://kakaku.com > ... > カルバン クライン(Calvin Klein)",
+    "url": "https://kakaku.com/item/51802610334/",
+    "pass": 3
+   },
+   {
+    "quote": "カルバン クライン シーケービー EDT 200ml 価格 比較 — カルバン クライン シーケービー EDT 200ml 価格 比較 価格.com https://kakaku.com > ... > カルバン クライン(Calvin Klein)",
+    "url": "https://kakaku.com/item/51802610335/",
+    "pass": 3
+   },
+   {
+    "quote": "カルバン クライン シーケービー EDT 100ml 価格 推移グラフ — カルバン クライン シーケービー EDT 100ml 価格 推移グラフ 価格.com https://kakaku.com > ... > シーケービー EDT 100ml",
+    "url": "https://kakaku.com/item/51802610334/pricehistory/",
+    "pass": 3
+   },
+   {
+    "quote": "【楽天市場】カルバンクライン ckb 香水の通販 — 【楽天市場】カルバンクライン ckb 香水の通販 楽天市場 https://search.rakuten.co.jp > カルバンクライン+ckb+香水",
+    "url": "https://search.rakuten.co.jp/search/mall/%E3%82%AB%E3%83%AB%E3%83%90%E3%83%B3%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%B3+ckb+%E9%A6%99%E6%B0%B4/",
+    "pass": 3
+   },
+   {
+    "quote": "カルバンクラインの香水【 シーケービー オードトワレ】男女 ... — カルバンクラインの香水【 シーケービー オードトワレ】男女 ... カラリア https://coloria.jp > ... > 香水 > 香水のレビュー",
+    "url": "https://coloria.jp/magazine/articles/lcX6m",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 シーケービー - Powered by イプロスものづくり — 株式会社 シーケービー - Powered by イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://pr.mono.ipros.com > ckb",
+    "url": "https://pr.mono.ipros.com/ckb/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンタ・その他 - 株式会社シーケービー — 3Dプリンタ・その他 - 株式会社シーケービー 株式会社シーケービー https://www.ckb.co.jp > field > others",
+    "url": "https://www.ckb.co.jp/field/others/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.ckb.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ckb.co.jp/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ckb.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ckb.co.jp/features/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ckb.co.jp/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ckb.co.jp/product/3219/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ckb.co.jp/field/metal-cutting-machines/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ckb.co.jp/field/precision-measuring-equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ckb.co.jp/field/welding-and-laser/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ckb.co.jp/field/presses-and-metal-forming-machines/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ckb.co.jp/field/skc-slideway-coatings-and-coatings-for-joint-faces/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ckb.co.jp/field/others/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ckb.co.jp/news/?post=news_11728",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ckb.co.jp/news/?post=news_11274",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ckb.co.jp/news/?post=news_11074",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ckb.co.jp/news/?post=news_10764",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ckb.co.jp/news/?post=news_10755",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ckb.co.jp/news/event/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ckb.co.jp/news/new-product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ckb.co.jp/news/whats-new/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ckb.co.jp/2026/?cat=news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ckb.co.jp/2025/?cat=news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ckb.co.jp/2024/?cat=news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ckb.co.jp/company/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ckb.co.jp/company/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ckb.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ckb.co.jp/company/corporate-philosophy-code-of-conduct/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ckb.co.jp/company/supplier-guideline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ckb.co.jp/features/engineering/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ckb.co.jp/products/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/03/%E9%AB%98%E8%A7%A3%E5%83%8F%E5%BA%A6PDF%E3%80%9023%E5%B9%B44%E6%9C%88%E5%8F%B7_%E6%B3%A8%E7%9B%AE%E3%81%AE%E6%B5%B7%E5%A4%96%E8%A3%BD%E5%93%81%E3%80%91%E3%82%B7%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%93%E3%83%BC%E6%A7%98.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/03/EMO2023%20%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC%20%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89.pdf",
+    "status": "http_404",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2023/05/EMO2023-%E3%83%8F%E3%83%8E%E3%83%BC%E3%83%90%E3%83%BC-%E8%A6%96%E5%AF%9F%E5%9B%A3%E6%A1%88%E5%86%85%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89-6.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2022/10/JIMTOF2022%E5%87%BA%E5%B1%95%E6%A1%88%E5%86%8520221028.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2026/04/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85202604.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ckb.co.jp/wp-content/uploads/2021/09/company_img01_a.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://s.theckb.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/16129/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pr.mono.ipros.com/ckb/information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kakaku.com/item/51802610334/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kakaku.com/item/51802610335/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kakaku.com/item/51802610334/pricehistory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pr.mono.ipros.com/ckb/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unifiedsearch.jcdbizmatch.jp/nanotech2025/jp/tct/details/gj3jsQkhytk",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "シーケービー(CKB) 代理店 契約",
+   "results": [
+    "https://www.ckb.co.jp/",
+    "https://s.theckb.com/",
+    "https://metoree.com/companies/16129/",
+    "https://note.com/yuukishishido/n/n44b6d278bb7c",
+    "https://x.com/Theckb_official",
+    "https://www.instagram.com/p/DT9XFGrkbe0/",
+    "https://www.ckb.co.jp/company/outline/",
+    "https://www.youtube.com/watch?v=JVJ13uplyco",
+    "https://www.itochu.co.jp/ja/news/press/2023/231115.html",
+    "https://www.ckb.co.jp/products/domestic-partners/"
+   ]
+  },
+  {
+   "query": "シーケービー(CKB) 導入事例",
+   "results": [
+    "https://www.ckb.co.jp/",
+    "https://pr.mono.ipros.com/ckb/information/",
+    "https://www.ckb.co.jp/company/outline/",
+    "https://metoree.com/companies/16129/",
+    "https://www.cisco.com/c/ja_jp/about/case-studies-customer-success-stories.html",
+    "https://www.class.co.jp/case/",
+    "https://ckb-kogyo.com/achievement/",
+    "https://www.jbcc.co.jp/news/casestudy/2024/",
+    "https://prtimes.jp/main/html/rd/p/000000003.000160378.html",
+    "https://www.ckb.co.jp/features/"
+   ]
+  },
+  {
+   "query": "シーケービー(CKB) 価格 OR 料金",
+   "results": [
+    "https://kakaku.com/item/51802610334/",
+    "https://kakaku.com/item/51802610335/",
+    "https://kakaku.com/item/51802610334/pricehistory/",
+    "https://search.rakuten.co.jp/search/mall/%E3%82%AB%E3%83%AB%E3%83%90%E3%83%B3%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%B3+ckb+%E9%A6%99%E6%B0%B4/",
+    "https://coloria.jp/magazine/articles/lcX6m",
+    "https://kaori.air-marketing.co.jp/comparison/comparison-ck-ckone-ckbe/",
+    "https://kakaku.com/item/51802610334/auction/",
+    "https://kakaku.com/item/51802610336/",
+    "https://www.ckb.co.jp/",
+    "https://pr.mono.ipros.com/ckb/product/category/"
+   ]
+  },
+  {
+   "query": "シーケービー(CKB) 受託 造形",
+   "results": [
+    "https://www.ckb.co.jp/",
+    "https://pr.mono.ipros.com/ckb/",
+    "https://unifiedsearch.jcdbizmatch.jp/nanotech2025/jp/tct/details/gj3jsQkhytk",
+    "https://www.ckb.co.jp/field/others/",
+    "https://metoree.com/companies/16129/",
+    "https://suwa.monozukuri.or.jp/detail/02406/",
+    "https://mid-tenshoku.com/agency/a-8647/",
+    "https://www.ckbmachining.com/gallery/",
+    "https://www.koeitool.com/business/3d-modeling.html",
+    "https://www.ckb.co.jp/company/outline/"
+   ]
+  }
+ ],
+ "missing": {
+  "取引先": "記載なし（3回確認済み：公式30頁／PDF・画像6件／外部8頁・検索4回）"
+ }
+}

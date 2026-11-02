@@ -1,0 +1,909 @@
+{
+ "name": "株式会社3D Printing Corporation (3DPC)",
+ "aliases": [],
+ "context": "輸入装置(Meltio日本総代理店)/受託製造/DfAM・解析/EC(DDDJAPAN.com)/受発注PF(TAIGA) / Meltio(総代理店), Photocentric, Markforged, Velo3D, 3devo",
+ "researched_at": "2026-11-02T12:14:45.106916+00:00",
+ "official_url": "https://dddjapan.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "誰から": [
+   {
+    "quote": "英3DプリンターメーカーAdditive Manufacturing Technologiesと日本総代理店契約を締結―3D Printing Corporation | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "英3DプリンターメーカーAdditive Manufacturing Technologiesと日本総代理店契約を締結―3D Printing Corporation",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "（本社所在地：神奈川県横浜市、以下、3DPC）と、イギリスの3Dプリント後加工機メーカーであるAdditive Manufacturing Technologies（本社所在地：イギリス・シェフィールド、以下、AMT）がアジア初となる日本総代理店契約を締結",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "は日本総代理店契約を締結した",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing CorporationがMeltioと国内代理店契約を締結",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Corporationは金属3DプリンターメーカーであるMeltioと日本総代理店契約を締結した",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "米エンジニアリングソフトウェア企業「nTopology」と代理店契約を締結－3D Printing Corporation",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "FARO Japanと代理店契約を締結－3D Printing Corporation | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "FARO Japanと代理店契約を締結－3D Printing Corporation",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "（以下、3DPC）は、3D測定技術を提供するFARO Japan（以下、FARO）と代理店契約を締結したことを発表した",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "「nTopology」と代理店契約を締結",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "英3DプリンターメーカーAdditive Manufacturing Technologiesと日本総代理店契約を締結",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "米エンジニアリングソフトウェア企業「nTopology」と代理店契約を締結－3D Printing Corporation",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing CorporationがMeltioと国内代理店契約を締結",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Corporationは金属3DプリンターメーカーであるMeltioと日本総代理店契約を締結した",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "英3DプリンターメーカーAdditive Manufacturing Technologiesと日本総代理店契約を締結―3D Printing Corporation",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   }
+  ],
+  "何をする": [
+   {
+    "quote": "造形サービス（10）",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "後加工機「PostPro3D」を用いた後加工受託サービスと機器販売を開始",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "この契約により、AMT社の後加工機「PostPro3D」を用いた後加工受託サービスとPostPro3Dの機器販売を開始",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "感染対策品を提供する「新型コロナウイルス対策サポート」をリリース―3D Printing Corporation",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティングは製造技術として、試作品に留まらず、治工具、エンドユースパーツの造形に活用され、用途によっては、ほとんど手を加えることなくそのまま使用できる",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "同社のプレスリリース記事より引用",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "造形サービス",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "Creality、4つのノズルを約5秒で交換する3Dプリンター「K3」の予約販売を開始――造形時間を最大80％短縮、材料廃棄を最大85％削減",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "これから始める3D設計 ZW3D体験セミナー （2/13＠東京）",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "Dfam（3Dプリンターならでは設計）とは",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "企業向け3Dプリンターのレンタル・リースを解説",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界の試作開発部門で活躍する3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "造形サービス（10）",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "今回は契約締結の背景とこの契約により新たに製品販売されるFARO社の3D測定器についてご紹介したい",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "（写真：3DPC プレスリリース記事より引用）",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティングは試作品だけでなくエンドユースパーツなどの量産製造技術として活用が進んでいる",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "では、3Dプリント技術を活用した設計・3Dプリンターによる製造・品質管理・後加工の一連の工程を備えた製造インフラを構築しており、FARO社の",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "今回の契約により、FARO社製品の販売に加え、",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "FARO社は市場で35年以上に渡り、アーム型3次元測定器を設計、開発、製造しており、8-Axis Quantum FaroArm® V2またはScanArm V2は、非接触式レーザースキャナーを搭載した、世界で唯一の8軸3次元測定アームソリューションとしてクラス最高の性能を実現",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "一貫性と信頼性を念頭に置いて設計されたFARO社の3次元測定アームは、過酷な環境下や工場現場または移動の必要のある作業などを含む、非常に幅広い作業環境で性能を発揮することが期待できる",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "3次元測定とイメージング、リアル化技術を提供するFARO®は、コンピュータ支援型ポータブル3次元測定器やイメージング、およびソフトウェアの開発・販売を行う企業",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "（3DPC社サイトより引用） 後加工機「PostPro3D」を用いた後加工受託サービスと機器販売を開始 3Dプリンティング技術を活用した製造インフラを提供する株 …",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "造形サービス",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "Creality、4つのノズルを約5秒で交換する3Dプリンター「K3」の予約販売を開始――造形時間を最大80％短縮、材料廃棄を最大85％削減",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "これから始める3D設計 ZW3D体験セミナー （2/13＠東京）",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "Dfam（3Dプリンターならでは設計）とは",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "企業向け3Dプリンターのレンタル・リースを解説",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界の試作開発部門で活躍する3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "主な事業としては設計エンジニアリングサービス、受託製造、機器販売という3つを展開しています",
+    "url": "https://monday.com/lang/ja/customers/3dpc",
+    "pass": 3
+   },
+   {
+    "quote": "ご自身もコーディングの知識があり、日々プロセスやワークフローを設計されている武田さんならではの画期的なアイデアをお話しいただきました",
+    "url": "https://monday.com/lang/ja/customers/3dpc",
+    "pass": 3
+   },
+   {
+    "quote": "長年、業務管理に苦労しているがなかなか良いツールが見つからなかったという企業様、または自社の業務プロセスを俯瞰的に棚卸しして、最適化したい場合は monday.com の導入コンサルティングを提供しているパートナーがお役に立てるかもしれません",
+    "url": "https://monday.com/lang/ja/customers/3dpc",
+    "pass": 3
+   },
+   {
+    "quote": "プロセスの設計をうまくできれば単なる To Do リストに留まらず、 monday.com の機能をより活かすことができると思います",
+    "url": "https://monday.com/lang/ja/customers/3dpc",
+    "pass": 3
+   },
+   {
+    "quote": "産業向け3Dプリンター販売事業｜株式会社MadeHere【横浜】",
+    "url": "https://www.3dpc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター販売事業",
+    "url": "https://www.3dpc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "産業向け3Dプリンター販売事業サイト｜株式会社MadeHere",
+    "url": "https://www.3dpc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "産業用3Dプリンター販売",
+    "url": "https://www.3dpc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "産業用の金属・樹脂3Dプリンター、フィラメント製造機、表面処理装置を販売",
+    "url": "https://www.3dpc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "現品は2つの部品で構成されていましたが、自由自在な形状を造形できるAMの特徴活用し、部品を一体化して設計しました",
+    "url": "https://www.3dpc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "また、このノズルの設計は現品を撮影した写真からリバースエンジニアリングを行いました",
+    "url": "https://www.3dpc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "3ヵ月かかっていた試作品製作を10時間へ",
+    "url": "https://www.3dpc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "従来の製造方法では、在庫管理やカスタマイズ対応に時間がかかり、試作品の製作に1～3ヶ月を要していました",
+    "url": "https://www.3dpc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、3Dプリンターを導入したことで、試作品の製作期間はわずか10時間に短縮され、コスト削減にも成功しました",
+    "url": "https://www.3dpc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "今後は、医療・介護分野向け製品開発を進め、部品の設計から製造までを自社内で完結できる体制を目指しています",
+    "url": "https://www.3dpc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "産業用3Dプリンターの導入は、開発スピードの加速・コスト削減・設計自由度の拡大といった明確なメリットがあります",
+    "url": "https://www.3dpc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "開発期間の短縮： 試作品を内製化でき、設計から検証までのリードタイムを短縮",
+    "url": "https://www.3dpc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "設計自由度の向上： 複雑形状・中空構造など、従来加工では難しかった造形が可能",
+    "url": "https://www.3dpc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "リースやレンタルでの導入はできますか？",
+    "url": "https://www.3dpc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "試験的に導入したいお客様向けに、リース契約・短期レンタルプランを用意しています",
+    "url": "https://www.3dpc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社では樹脂・金属共に数ミリ単位のサイズに対応したものから、メートルクラスの大型造形が可能なロボットアーム型など各種プリンターを販売しています",
+    "url": "https://www.3dpc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社の造形サービスは１点からの製作が可能で、試作はもちろん量産・補修・治具製造・最終部品製造にも対応しています",
+    "url": "https://www.3dpc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "販売事業サイト",
+    "url": "https://www.3dpc.co.jp/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "日本は私たちにとって重要な成長地域であり、包括的なソリューションと優れたサービスをお客様に提供する、業界で最高の企業と協力したいと考えております",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "アパレル・インテリア業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "その他業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "医療業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "建設業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "産業機器業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "食品業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターの業界メディアShareLabで働きませんか？",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "AM市場動向・業界レポートまとめ",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターを使うメリット・その用途とは？業界別の活用事例を紹介",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界で活躍する3Dプリンター製の治具・工具",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界の3Dプリンター活用の現状と将来",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界の試作開発部門で活躍する3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙業界における3Dプリンターの活用",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "航空業界で活躍する3Dプリンター製最終製品",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "業界ニュース一覧",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "FAROは、製造業、建設・エンジニアリング分野、公共の安全分野などのさまざまな業界にわたって、高精度の3Dデータ取得、3次元測定、分析を可能にする最先端のソリューションを開発、製造している",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "アパレル・インテリア業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "その他業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "医療業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "建設業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "産業機器業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "食品業界事例",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターの業界メディアShareLabで働きませんか？",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "AM市場動向・業界レポートまとめ",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターを使うメリット・その用途とは？業界別の活用事例を紹介",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界で活躍する3Dプリンター製の治具・工具",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界の3Dプリンター活用の現状と将来",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界の試作開発部門で活躍する3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙業界における3Dプリンターの活用",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "航空業界で活躍する3Dプリンター製最終製品",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "業界ニュース一覧",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様事例 株式会社3D Printing Corporation | monday.com",
+    "url": "https://monday.com/lang/ja/customers/3dpc",
+    "pass": 3
+   },
+   {
+    "quote": "3D プリントのみならず、従来加工製法も取り入れたトータルソリューションを提供している点が特徴で、お客様とのコミュニケーションやサポートにも力を入れています",
+    "url": "https://monday.com/lang/ja/customers/3dpc",
+    "pass": 3
+   },
+   {
+    "quote": "・お客様にお届けするリードタイムの短縮を実現",
+    "url": "https://monday.com/lang/ja/customers/3dpc",
+    "pass": 3
+   },
+   {
+    "quote": "伝達ミスによる滞りをなくし、商品の生産ラインの管理効率化や、お客様にお届けするリードタイムの短縮を実現することができました",
+    "url": "https://monday.com/lang/ja/customers/3dpc",
+    "pass": 3
+   },
+   {
+    "quote": "Hulu、北米日産社など様々なお客様事例をご覧ください",
+    "url": "https://monday.com/lang/ja/customers/3dpc",
+    "pass": 3
+   },
+   {
+    "quote": "お客様事例を見る",
+    "url": "https://monday.com/lang/ja/customers/3dpc",
+    "pass": 3
+   },
+   {
+    "quote": "多様な業界のお客様に3Dプリントによる",
+    "url": "https://www.3dpc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の製造規模やニーズに合わせて最適な機器をご提案します",
+    "url": "https://www.3dpc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "また、遠方でご来社の難しいお客様には造形サンプル品の貸し出しも行っておりますのでお問い合わせください",
+    "url": "https://www.3dpc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "試験的に導入したいお客様向けに、リース契約・短期レンタルプランを用意しています",
+    "url": "https://www.3dpc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "造形サイズ・精度・速度のバランスに応じて、お客様に最適なモデルをご提案します",
+    "url": "https://www.3dpc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "「ものづくり補助金」などの国・自治体制度を利用して導入実績があります",
+    "url": "https://www.3dpc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の要望される基準に合わせて対応可能で、",
+    "url": "https://www.3dpc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "法人のお客様に限定して承っております",
+    "url": "https://www.3dpc.co.jp/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "カタログスペックと価格だけでは選ばない！製造業向け3Dプリンターの比較・選び方とは？",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末床溶融結合法 / PBF（Powder Bed Fusion）を解説！SLS方式、SLM方式と何が違う？",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "カタログスペックと価格だけでは選ばない！製造業向け3Dプリンターの比較・選び方とは？",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末床溶融結合法 / PBF（Powder Bed Fusion）を解説！SLS方式、SLM方式と何が違う？",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "B2B向け3Dプリント製造ソリューションを提供する3D Printing Corporationが総額約1.3億円を資金調達",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、選定にあたっては欲しい機能が揃っているかどうかと使用時のハードルの低さを重視し、導入を決めた後は使用を浸透させるための社内施策に力を入れたそうです",
+    "url": "https://monday.com/lang/ja/customers/3dpc",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "FARO Japanと 代理店契約 を締結－ 3D Printing Corporation — FARO Japanと 代理店契約 を締結－ 3D Printing Corporation ShareLab NEWS https://news.sharelab.jp > 業界動向 > その他製品・サービス",
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Corporation、イギリスの 3Dプリント 後加工機 ... — 3D Printing Corporation、イギリスの 3Dプリント 後加工機 ... キャド研 https://cad-kenkyujo.com > 3d-printing-corporation-addit...",
+    "url": "https://cad-kenkyujo.com/3d-printing-corporation-additive-manufacturing-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "産業向け 3Dプリンター 販売事業｜株式会社MadeHere【横浜】 — 産業向け 3Dプリンター 販売事業｜株式会社MadeHere【横浜】 3dpc.co.jp https://www.3dpc.co.jp",
+    "url": "https://www.3dpc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様 事例 株式会社 3D Printing Corporation | monday.com — お客様 事例 株式会社 3D Printing Corporation | monday.com Monday.com https://monday.com > lang > customers > 3dpc",
+    "url": "https://monday.com/lang/ja/customers/3dpc",
+    "pass": 3
+   },
+   {
+    "quote": "3DPC が新たにWASP社の 3Dプリンター 4機種の販売を開始 — 3DPC が新たにWASP社の 3Dプリンター 4機種の販売を開始 ShareLab NEWS https://news.sharelab.jp > ... > その他材料3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/others-3dprinter/3dpc-wasp-230522/",
+    "pass": 3
+   },
+   {
+    "quote": "3D プリントサービスの 料金 って、どれくらいが妥当？ - Reddit — 3D プリントサービスの 料金 って、どれくらいが妥当？ - Reddit Reddit https://www.reddit.com > 3Dprinting > comments > whats...",
+    "url": "https://www.reddit.com/r/3Dprinting/comments/15jd88l/whats_a_fair_cost_for_3d_printing_services/?tl=ja",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://dddjapan.com",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/ja/industrial/software/partnerships/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monday.com/lang/ja/customers/3dpc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dpc.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.ext.hp.com/printers/3d-printers/casestudy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dpc.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jlc3dp.com/jp/3d-printing-quote",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=ijPSh6y2gTw",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.3dpc.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://make.dmm.com/print/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpc.toray/technology/additive-print/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "3D Printing (3DPC) 代理店 契約",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "https://www.materialise.com/ja/industrial/software/partnerships/reseller",
+    "https://news.sharelab.jp/3dp-news/others/faro-japan-3d-printing-corporation/",
+    "https://cad-kenkyujo.com/3d-printing-corporation-additive-manufacturing-technologies/",
+    "https://www.3dpc.co.jp/",
+    "https://predge.jp/pr/286122/",
+    "https://www.sakura-inv.co.jp/wp/2023/05/08/bigrep%E4%BB%A3%E7%90%86%E5%BA%97%E5%A5%91%E7%B4%84%E7%B7%A0%E7%B5%90%EF%BC%81/",
+    "https://prtimes.jp/main/html/rd/p/000000013.000032276.html",
+    "https://form.3fit.net/service/",
+    "https://news.sharelab.jp/3dp-news/report/3d-printing-corporation-ntopology/"
+   ]
+  },
+  {
+   "query": "3D Printing (3DPC) 導入事例",
+   "results": [
+    "https://monday.com/lang/ja/customers/3dpc",
+    "https://www.3dpc.co.jp/",
+    "https://jp.ext.hp.com/printers/3d-printers/casestudy/",
+    "https://www.youtube.com/watch?v=2ThUeNQRsH4",
+    "https://www.recmbus-3dprint.com/example/",
+    "https://www.raise3d.jp/case",
+    "https://formlabs.com/jp/blog/25-unexpected-3d-printing-use-cases/",
+    "https://www.marubeni-idigio.com/insight-hub/metal3dprinter_desktopmetal_case/",
+    "https://www.datadesign.co.jp/markforged/casestudy/",
+    "https://ansys.synopsys.com/ja-jp/resource-center/case-study/3d-printing-corporation"
+   ]
+  },
+  {
+   "query": "3D Printing (3DPC) 価格 OR 料金",
+   "results": [
+    "https://www.3dpc.co.jp/",
+    "https://jlc3dp.com/jp/3d-printing-quote",
+    "https://www.youtube.com/watch?v=ijPSh6y2gTw",
+    "https://news.sharelab.jp/3dp-news/others-3dprinter/3dpc-wasp-230522/",
+    "https://www.reddit.com/r/3Dprinting/comments/15jd88l/whats_a_fair_cost_for_3d_printing_services/?tl=ja",
+    "https://www.ricoh.co.jp/3dp/lineup/reasonable",
+    "https://make.dmm.com/print/",
+    "https://flashforge.jp/benefit_list/price/",
+    "https://www.shapr3d.com/pricing",
+    "https://www.kinkos.co.jp/guide/guide-price/"
+   ]
+  },
+  {
+   "query": "3D Printing (3DPC) 受託 造形",
+   "results": [
+    "https://www.3dpc.co.jp/",
+    "https://make.dmm.com/print/",
+    "https://www.tpc.toray/technology/additive-print/",
+    "https://rightmfg.co.jp/lp/m3dp.html",
+    "https://www.orixrentec.jp/3dprinter/",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://jlc3dp.com/jp",
+    "https://www.brule.co.jp/3dpatc.html?srsltid=AYCX9vLwPEPO57DQy0DEkMb-FySbFvWkbhDPBAk9gSeo9ZjiCalcyoB9",
+    "https://www.mk-jpn.com/193/",
+    "https://www.fasotec.co.jp/product/3dprint/"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）",
+  "事業内容": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）",
+  "取引先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）"
+ }
+}

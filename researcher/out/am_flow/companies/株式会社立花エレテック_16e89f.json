@@ -1,0 +1,790 @@
+{
+ "name": "株式会社立花エレテック",
+ "aliases": [],
+ "context": "日本AM協会会員（前身の事務局）；販売 / AddUp（仏）",
+ "researched_at": "2026-11-02T12:16:17.421477+00:00",
+ "official_url": "https://www.tachibana.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "創業： 1921年（大正10年）　9月1日 設立： 1948年（昭和23年）　7月12日",
+    "url": "https://www.tachibana.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "label": "創業",
+    "value": "1921年（大正10年） 9月1日",
+    "url": "https://www.tachibana.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1948年（昭和23年） 7月12日",
+    "url": "https://www.tachibana.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "label": "設立年月日",
+    "value": "1948年7月12日",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=8159",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "連結：1,502名（2026年3月末現在） 単体：920名",
+    "url": "https://www.tachibana.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "920 人",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=8159",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "1.各種電気機械器具、照明機械器具、通信機械器具、電子応用機械器具、工作機械器具、医療機械器具、事務機械器具、瓦斯器具並びにビル及び住宅関連製品、計量器、その他一般機械器具並びに部品の販売と産業機械器具並びに部品の製造及び販売 2.合金、電気絶縁材料、高圧瓦斯並びにその容器の販売 3.半導体素材、半導体素子、集積回路の販売 4.電子計算機、制御・計測機器、防火・防犯等の防災機器、車両・航空・船舶等の輸送機器、油圧・空気圧機器、冷凍・空調設備機械器具並びに部品の販売 5.前各号に関するシステム設計、ソフトウエア開発の販売 6.プレス・粉末冶金用等の金型及び吊具・鎖等の金属製品、工業用・建築用及び家庭用の合成樹脂製品、各種電池並びに部品の販売 7.コンデンサー・プリント板機材等の電子部品及び材料、配線材料、電線、ケーブル、写真感光材料の販売 8.茶、清涼飲料水及び植物油等の販売 9.前各号に関する輸出入業 10.コンピュータによる情報処理の受託及びサービス業 11.古物営業 12.労働者派遣事業 13.電気工事、管工事、機械器具設置工事、熱絶縁工事、建築一式工事の請負 14.損害保険代理業",
+    "url": "https://www.tachibana.co.jp/company/overview/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何をする": [
+   {
+    "quote": "アップレンタルプラン",
+    "url": "https://www.tachibana.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "展示会/セミナー",
+    "url": "https://www.tachibana.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1.各種電気機械器具、照明機械器具、通信機械器具、電子応用機械器具、工作機械器具、医療機械器具、事務機械器具、瓦斯器具並びにビル及び住宅関連製品、計量器、その他一般機械器具並びに部品の販売と産業機械器具並びに部品の製造及び販売",
+    "url": "https://www.tachibana.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "2.合金、電気絶縁材料、高圧瓦斯並びにその容器の販売",
+    "url": "https://www.tachibana.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "3.半導体素材、半導体素子、集積回路の販売",
+    "url": "https://www.tachibana.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "4.電子計算機、制御・計測機器、防火・防犯等の防災機器、車両・航空・船舶等の輸送機器、油圧・空気圧機器、冷凍・空調設備機械器具並びに部品の販売",
+    "url": "https://www.tachibana.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "5.前各号に関するシステム設計、ソフトウエア開発の販売",
+    "url": "https://www.tachibana.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "6.プレス・粉末冶金用等の金型及び吊具・鎖等の金属製品、工業用・建築用及び家庭用の合成樹脂製品、各種電池並びに部品の販売",
+    "url": "https://www.tachibana.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "7.コンデンサー・プリント板機材等の電子部品及び材料、配線材料、電線、ケーブル、写真感光材料の販売",
+    "url": "https://www.tachibana.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "8.茶、清涼飲料水及び植物油等の販売",
+    "url": "https://www.tachibana.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "10.コンピュータによる情報処理の受託及びサービス業",
+    "url": "https://www.tachibana.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "さまざまなニーズに対応できる技術サポート力",
+    "url": "https://www.tachibana.co.jp/company/prospectus/",
+    "pass": 1
+   },
+   {
+    "quote": "また、マイクロコンピューターのソフトウェアやFPGA※1の開発支援、オリジナルASSP※2の製品開発など、多くの技術サポート実績があります",
+    "url": "https://www.tachibana.co.jp/company/prospectus/",
+    "pass": 1
+   },
+   {
+    "quote": "電子機器の設計・製造受託のEMS（エレクトロニクス・マニュファクチャリング・サービス）と金属加工品の製造受託のMMS（メタル・マニュファクチャリング・サービス）を手がけています",
+    "url": "https://www.tachibana.co.jp/company/prospectus/",
+    "pass": 1
+   },
+   {
+    "quote": "EMSでは、基板から完成品まで多様な受託実績があります",
+    "url": "https://www.tachibana.co.jp/company/prospectus/",
+    "pass": 1
+   },
+   {
+    "quote": "MMSでは、鉄道車両に使用する金属部材や立体駐車場のパレットなどを受託、海外の工場で生産し、低コストで高品質な製品をお届けしています",
+    "url": "https://www.tachibana.co.jp/company/prospectus/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体、電子デバイスの供給だけでなくマイコン・ASICやカスタムLSIの設計・開発も可能",
+    "url": "https://www.tachibana.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "工場やオフィスビル・店舗などに照明・空調・昇降機・防災機器を供給するほか省エネに優れたオール電化製品も販売",
+    "url": "https://www.tachibana.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "電子機器製造受託サービス（EMS）と金属加工製造受託サービス（MMS）事業",
+    "url": "https://www.tachibana.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "金属加工製造受託サービス(MMS)",
+    "url": "https://www.tachibana.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "電子機器製造受託サービス(EMS)",
+    "url": "https://www.tachibana.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "1970年代半ば、単なる機器販売にとどまらず、半導体をはじめとした電子部品および電子機器の取扱いを開始すると同時に他の企業に先駆け“技術商社”を標榜し、技術サービスを付加したビジネスに着手しました",
+    "url": "https://www.tachibana.co.jp/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "以来、仕入先メーカーとの共同開発を積極的に推進するとともに、販売先である顧客企業へのアプリケーションエンジニアリングサービスを強化し、高度化・多様化するニーズに応える技術商社として発展してきました",
+    "url": "https://www.tachibana.co.jp/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "また、その知識をもって、販売を担ってもらっている傘下の特約店に対する教育を徹底し、取引強化につなげている",
+    "url": "https://www.tachibana.co.jp/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "従業員全体の約1/4を占める200余名の技術者を抱え、お客様の問題解決や要求を実現するためシステムのコンサルティングやハード・ソフトウェアの設計・製作を含むソリューションの提案など提案型の事業を推進",
+    "url": "https://www.tachibana.co.jp/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "特に、FA関連では、電気機器やPLC、インバーター、サーボなどのFA機器を総合的に用いて、食品、半導体、液晶製造装置などの生産ラインの自動化・合理化システムを設計・構築",
+    "url": "https://www.tachibana.co.jp/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体デバイス関連では、半導体と電子デバイスの供給から家電製品などのマイコンやASICまた周辺LSIの設計開発を展開しています",
+    "url": "https://www.tachibana.co.jp/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "充実した独自の販売ネットワーク",
+    "url": "https://www.tachibana.co.jp/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の販売には、エンドユーザーへの「直接販売」のほかに、特にFAシステム事業にて展開している販売店、セットメーカーへの販売である「間接販売」があります",
+    "url": "https://www.tachibana.co.jp/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "なかでも、販売店は、当社の長年の歴史と実績のもとつくられた強力な販売店網となっており、全国規模で全産業の末端までカバーしています",
+    "url": "https://www.tachibana.co.jp/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "（この内、主要販売店を会員として「立菱会」を発足）これらが特徴であり、同業他社からも認められている当社の強みです",
+    "url": "https://www.tachibana.co.jp/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "先端機器を支える専用IC、幅広い用途をサポートする汎用ICやメモリIC、高度な設計技術によるカスタムICなど、豊富な製品でご期待にお応えします",
+    "url": "https://www.tachibana.co.jp/renesas/",
+    "pass": 1
+   },
+   {
+    "quote": "3.特定個人情報保護管理体制、教育",
+    "url": "https://www.tachibana.co.jp/personal-info/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、番号法を遵守徹底するために「特定個人情報取扱規程」を策定し、「特定個人情報統括責任者」を任命し、特定個人情報取扱担当者（３名以内を任命）に対し、特定個人情報の保護及び適正な管理方法についての教育、監督を行います",
+    "url": "https://www.tachibana.co.jp/personal-info/",
+    "pass": 1
+   },
+   {
+    "quote": "セミナー・勉強会",
+    "url": "https://www.indexpro.co.jp/distributor/handlingmaker?did=38",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルティングサービス",
+    "url": "https://www.eureka-box.com/documents/introduction_example_tachibana_eletech/",
+    "pass": 3
+   },
+   {
+    "quote": "セミナー情報",
+    "url": "https://www.eureka-box.com/documents/introduction_example_tachibana_eletech/",
+    "pass": 3
+   },
+   {
+    "quote": "プレスリリース",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=8159",
+    "pass": 3
+   },
+   {
+    "quote": "【三菱電機系商社】電子機器、半導体、FA機器の販売が主力",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=8159",
+    "pass": 3
+   },
+   {
+    "quote": "企業などのリリースを掲載",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=8159",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "お客様の求めるソリューションを力強くサポートします",
+    "url": "https://www.tachibana.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の真のニーズを見つけ、課題解決をグループ全体で実現します",
+    "url": "https://www.tachibana.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は創業以来、産業用電気機器を起点に、半導体・電子部品、さらにはソリューション提供へと事業領域を拡張し、お客様の課題解決に寄り添う企業として発展してきた歴史があります",
+    "url": "https://www.tachibana.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先様から見た立花エレテック",
+    "url": "https://www.tachibana.co.jp/company/movie/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社ソリューションを導入していただいた取引先様の声をお届けします",
+    "url": "https://www.tachibana.co.jp/company/movie/",
+    "pass": 1
+   },
+   {
+    "quote": "【高周波熱錬株式会社様】太陽光発電システム×電力監視システム導入事例",
+    "url": "https://www.tachibana.co.jp/company/movie/",
+    "pass": 1
+   },
+   {
+    "quote": "【株式会社ヤスヒラ様】立花エレテックオリジナルの工作機械の稼働状況×CFPステータスモニタシステム導入事例",
+    "url": "https://www.tachibana.co.jp/company/movie/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先様から見た立花エレテック",
+    "url": "https://www.tachibana.co.jp/company/prospectus/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社ソリューションを導入していただいた取引先様の声をお届けします",
+    "url": "https://www.tachibana.co.jp/company/prospectus/",
+    "pass": 1
+   },
+   {
+    "quote": "導入事例一覧はこちら",
+    "url": "https://www.tachibana.co.jp/company/prospectus/",
+    "pass": 1
+   },
+   {
+    "quote": "以来、仕入先メーカーとの共同開発を積極的に推進するとともに、販売先である顧客企業へのアプリケーションエンジニアリングサービスを強化し、高度化・多様化するニーズに応える技術商社として発展してきました",
+    "url": "https://www.tachibana.co.jp/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "製品がユーザーの環境下でどんな仕組みに組み込まれ、どんな使われ方をするのか熟知している",
+    "url": "https://www.tachibana.co.jp/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "立花エレテックの技術者は、顧客のニーズありきで動き、顧客のニーズをじっくり聞きだす",
+    "url": "https://www.tachibana.co.jp/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "また複合化する顧客のニーズに対応するため、異なる装置やシステムを繋ぐためのインターフェース技術にも強みを持っている",
+    "url": "https://www.tachibana.co.jp/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "商社の技術者は顧客に近い",
+    "url": "https://www.tachibana.co.jp/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の満足が即ち私たちの満足であると信じ、“立花エレテックだからこそ”といってお取引していただける企業になることを目指している",
+    "url": "https://www.tachibana.co.jp/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "そのためにも、お客様を知り、お客様の立場に立った視点で様々な課題のソリューションを提供することが「選ばれる技術商社」となるための条件だと考えている",
+    "url": "https://www.tachibana.co.jp/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "従業員全体の約1/4を占める200余名の技術者を抱え、お客様の問題解決や要求を実現するためシステムのコンサルティングやハード・ソフトウェアの設計・製作を含むソリューションの提案など提案型の事業を推進",
+    "url": "https://www.tachibana.co.jp/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の販売には、エンドユーザーへの「直接販売」のほかに、特にFAシステム事業にて展開している販売店、セットメーカーへの販売である「間接販売」があります",
+    "url": "https://www.tachibana.co.jp/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "それらを組み合わせたシステムを提案することで、お客様のご要望の一歩先を行くソリューションを提供することができます",
+    "url": "https://www.tachibana.co.jp/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "展示会情報や導入事例、お客様の声を掲載しています",
+    "url": "https://www.tachibana.co.jp/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社立花エレテック様 導入事例",
+    "url": "https://www.eureka-box.com/documents/introduction_example_tachibana_eletech/",
+    "pass": 3
+   },
+   {
+    "quote": "3分でわかる就活・業界研究",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=8159",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "その結果、計画で掲げた業績目標（連結売上高2,200億円、営業利益70億円）を達成し、事業基盤の強化と成長軌道の確立を実現しております",
+    "url": "https://www.tachibana.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "グローバルに変革を進めながら、2030年度に売上高3,000億円の達成を目指し、持続的な成長の実現を図ってまいります",
+    "url": "https://www.tachibana.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "58億74百万円",
+    "url": "https://www.tachibana.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "5,874(百万円)",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=8159",
+    "pass": 3
+   },
+   {
+    "quote": "7,477,000 円",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=8159",
+    "pass": 3
+   },
+   {
+    "quote": "260,000 円（日経会社情報調査）",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=8159",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 （百万円） ［］内は人数",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=8159",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 （百万円）",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=8159",
+    "pass": 3
+   },
+   {
+    "quote": "マイクロチップを印刷する2億ドルの機械：EUVフォトリソグラフィーシステム",
+    "url": "https://www.youtube.com/watch?v=ccSysB2LaFo",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "6.プレス・粉末冶金用等の金型及び吊具・鎖等の金属製品、工業用・建築用及び家庭用の合成樹脂製品、各種電池並びに部品の販売",
+    "url": "https://www.tachibana.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "RH4Z2502 強化保護機能とIO-Linkスタックライセンスを内蔵したシングルチャネルIO-Link PHYマスター／デバイストランシーバ",
+    "url": "https://www.tachibana.co.jp/renesas/",
+    "pass": 1
+   },
+   {
+    "quote": "プラン・料金",
+    "url": "https://www.eureka-box.com/documents/introduction_example_tachibana_eletech/",
+    "pass": 3
+   },
+   {
+    "quote": "料金プラン・お申し込みはこちら",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=8159",
+    "pass": 3
+   }
+  ],
+  "誰から": [
+   {
+    "quote": "三菱電機（株）との特約店契約を改め、代理店契約を締結",
+    "url": "https://www.tachibana.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "自社製品でクローズしようとするメーカーとは大きく異なる",
+    "url": "https://www.tachibana.co.jp/strength/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "沿革 | 株式会社 立花エレテック — 沿革 | 株式会社 立花エレテック 株式会社立花エレテック https://www.tachibana.co.jp > company > history",
+    "url": "https://www.tachibana.co.jp/company/history/",
+    "pass": 3
+   },
+   {
+    "quote": "「 立花エレテック 」の 代理店 10社 注目ランキング【2026年】 — 「 立花エレテック 」の 代理店 10社 注目ランキング【2026年】 Metoree https://metoree.com > 会社一覧 > 株式会社立花エレテック",
+    "url": "https://metoree.com/companies/44333/distributors/",
+    "pass": 3
+   },
+   {
+    "quote": "「 立花エレテック 」の取扱いメーカー：34社 - indexPro — 「 立花エレテック 」の取扱いメーカー：34社 - indexPro indexPro https://www.indexpro.co.jp > ... > 代理店・取扱店検索",
+    "url": "https://www.indexpro.co.jp/distributor/handlingmaker?did=38",
+    "pass": 3
+   },
+   {
+    "quote": "関連会社 | 株式会社 立花エレテック — 関連会社 | 株式会社 立花エレテック 株式会社立花エレテック https://www.tachibana.co.jp > company > affiliate",
+    "url": "https://www.tachibana.co.jp/company/affiliate/",
+    "pass": 3
+   },
+   {
+    "quote": "立花エレテック 【8159】のストーリー・沿革 - キタイシホン — 立花エレテック 【8159】のストーリー・沿革 - キタイシホン キタイシホン https://kitaishihon.com > company > story",
+    "url": "https://kitaishihon.com/company/8159/story",
+    "pass": 3
+   },
+   {
+    "quote": "動画で会社案内 | 株式会社 立花エレテック — 動画で会社案内 | 株式会社 立花エレテック 株式会社立花エレテック https://www.tachibana.co.jp > company > movie",
+    "url": "https://www.tachibana.co.jp/company/movie/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 立花エレテック 様 導入事例 — 株式会社 立花エレテック 様 導入事例 Eureka Box https://www.eureka-box.com > 資料ダウンロード",
+    "url": "https://www.eureka-box.com/documents/introduction_example_tachibana_eletech/",
+    "pass": 3
+   },
+   {
+    "quote": "FAシステム事業 | 株式会社 立花エレテック — FAシステム事業 | 株式会社 立花エレテック 株式会社立花エレテック https://www.tachibana.co.jp > company > prospectus",
+    "url": "https://www.tachibana.co.jp/company/prospectus/fa/",
+    "pass": 3
+   },
+   {
+    "quote": "技術商社 立花エレテック | 株式会社 立花エレテック — 技術商社 立花エレテック | 株式会社 立花エレテック 株式会社立花エレテック https://www.tachibana.co.jp > strength",
+    "url": "https://www.tachibana.co.jp/strength/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 立花エレテック — 株式会社 立花エレテック 株式会社立花エレテック https://www.tachibana.co.jp",
+    "url": "https://www.tachibana.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "【 立花エレテック 】[8159]企業概要 社員数や役員報酬・資本金 — 【 立花エレテック 】[8159]企業概要 社員数や役員報酬・資本金 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=8159",
+    "pass": 3
+   },
+   {
+    "quote": "数字で見る 立花エレテック — 数字で見る 立花エレテック 株式会社立花エレテック https://www.tachibana.co.jp > number",
+    "url": "https://www.tachibana.co.jp/number/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 株式会社 立花エレテック — 会社概要 | 株式会社 立花エレテック 株式会社立花エレテック https://www.tachibana.co.jp > company > overview",
+    "url": "https://www.tachibana.co.jp/company/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "トップ｜3Dプリンタ｜株式会社 立花エレテック — トップ｜3Dプリンタ｜株式会社 立花エレテック 株式会社立花エレテック https://www.tachibana.co.jp > ...",
+    "url": "https://www.tachibana.co.jp/3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "サービスビューロ｜3Dプリンタ｜株式会社 立花エレテック — サービスビューロ｜3Dプリンタ｜株式会社 立花エレテック 株式会社立花エレテック https://www.tachibana.co.jp > 05-service_bureau",
+    "url": "https://www.tachibana.co.jp/3dprinter/05-service_bureau.html",
+    "pass": 3
+   },
+   {
+    "quote": "② 立花エレテック （TCTJapan2025） - YouTube — ② 立花エレテック （TCTJapan2025） - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=ccSysB2LaFo",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機(株)金属プリンタ と X線CT装置の活用 - 立花エレテック — 三菱電機(株)金属プリンタ と X線CT装置の活用 - 立花エレテック 株式会社立花エレテック PDF https://www.tachibana.co.jp > uploads > 2023/11",
+    "url": "https://www.tachibana.co.jp/uploads/2023/11/3826d7b28d873334d6dadee90c2662cb.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "立花エレテック の「色のないご提案」の魅力 - ShareLab NEWS — 立花エレテック の「色のないご提案」の魅力 - ShareLab NEWS ShareLab NEWS https://news.sharelab.jp > 独自記事",
+    "url": "https://news.sharelab.jp/interviews/tachibana-eletech-ceatec2019/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.tachibana.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tachibana.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tachibana.co.jp/company/greeting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tachibana.co.jp/company/philosophy-vision/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tachibana.co.jp/company/movie/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tachibana.co.jp/company/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tachibana.co.jp/company/company-profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tachibana.co.jp/company/prospectus/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tachibana.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tachibana.co.jp/company/organization/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tachibana.co.jp/company/office/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tachibana.co.jp/company/affiliate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tachibana.co.jp/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tachibana.co.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tachibana.co.jp/strength/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tachibana.co.jp/renesas/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tachibana.co.jp/personal-info/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.tachibana.co.jp/assets/pdf/company/company-profile-2026_261001.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tachibana.co.jp/assets/img/company/thumb-history.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tachibana.co.jp/assets/img/company/history/fig-taisho1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tachibana.co.jp/assets/img/company/history/fig-taisho2.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tachibana.co.jp/assets/img/company/history/fig-showa1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tachibana.co.jp/assets/img/company/history/fig-showa2.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tachibana.co.jp/assets/img/company/history/fig-showa3.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tachibana.co.jp/assets/img/company/history/fig-showa4.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tachibana.co.jp/assets/img/company/history/fig-showa5.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tachibana.co.jp/assets/img/company/history/fig-showa6.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tachibana.co.jp/assets/img/company/history/fig-showa7.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://metoree.com/companies/44333/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/handlingmaker?did=38",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eureka-box.com/documents/introduction_example_tachibana_eletech/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=8159",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=ccSysB2LaFo",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "立花エレテック 代理店 契約",
+   "results": [
+    "https://www.tachibana.co.jp/company/history/",
+    "https://metoree.com/companies/44333/distributors/",
+    "https://www.indexpro.co.jp/distributor/handlingmaker?did=38",
+    "https://www.tachibana.co.jp/company/affiliate/",
+    "https://kitaishihon.com/company/8159/story",
+    "https://www.tachibana.co.jp/100th/challenge/",
+    "https://electro-ma.com/%E7%AB%8B%E8%8A%B1%E3%82%A8%E3%83%AC%E3%83%86%E3%83%83%E3%82%AF%E3%81%AB%E3%82%88%E3%82%8B%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9Ffa%E6%A9%9F%E5%99%A8%E4%BB%A3%E7%90%86%E5%BA%97%E4%BA%8B%E6%A5%AD%E3%82%92/",
+    "https://job.mynavi.jp/28/pc/search/corp100208/outline.html",
+    "https://the-shashi.com/tse/8159/",
+    "https://distymap.com/distributors/tachibana-eletech"
+   ]
+  },
+  {
+   "query": "立花エレテック 導入事例",
+   "results": [
+    "https://www.tachibana.co.jp/company/movie/",
+    "https://www.eureka-box.com/documents/introduction_example_tachibana_eletech/",
+    "https://www.tachibana.co.jp/company/prospectus/fa/",
+    "https://www.tachibana.co.jp/strength/",
+    "https://tc-kiwami.jp/case/case97.html/",
+    "https://www.tachibana.co.jp/company/company-profile/",
+    "https://www.automation-news.jp/2026/06/105305/",
+    "https://www.nippo.co.jp/seminar/h18o0329.htm",
+    "https://www.tachibana.co.jp/"
+   ]
+  },
+  {
+   "query": "立花エレテック 価格 OR 料金",
+   "results": [
+    "https://www.tachibana.co.jp/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=8159",
+    "https://www.tachibana.co.jp/strength/",
+    "https://www.tachibana.co.jp/number/",
+    "https://www.tachibana.co.jp/company/overview/",
+    "https://www.youtube.com/watch?v=tPyaMfIo4As",
+    "https://kabutan.jp/stock/?code=8159",
+    "https://www.tachibana.co.jp/ir/faq/",
+    "https://www.itreview.jp/products/tachibana-eletech/price",
+    "https://www.tachibana.co.jp/products/meca-list/"
+   ]
+  },
+  {
+   "query": "立花エレテック 受託 造形",
+   "results": [
+    "https://www.tachibana.co.jp/3dprinter/",
+    "https://www.tachibana.co.jp/3dprinter/05-service_bureau.html",
+    "https://www.youtube.com/watch?v=ccSysB2LaFo",
+    "https://www.tachibana.co.jp/uploads/2023/11/3826d7b28d873334d6dadee90c2662cb.pdf",
+    "https://news.sharelab.jp/interviews/tachibana-eletech-ceatec2019/",
+    "https://unifiedsearch.jcdbizmatch.jp/nanotech2025/jp/tct/details/9XfC5Vadedo",
+    "https://www.tachibana.co.jp/products/metal-print/",
+    "https://www.tachibana.co.jp/uploads/2025/01/tct2025.pdf",
+    "https://www.youtube.com/watch?v=TcwSWy9jn-8",
+    "https://mono.ipros.com/product/detail/2000645999/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式17頁／PDF・画像11件／外部5頁・検索4回）",
+  "取引先": "記載なし（3回確認済み：公式17頁／PDF・画像11件／外部5頁・検索4回）"
+ }
+}

@@ -1,0 +1,1125 @@
+{
+ "name": "株式会社MadeHere（旧 3D Printing Corporation）",
+ "aliases": [],
+ "context": "AM専門展の共同出展者（既存地図：Meltio総代理店） / AML3D（豪）；AMT（英）PostPro3D 自動表面仕上げ；Markforged（米）；Meltio（西）；Meltio（西）ワイヤ式レーザーDED",
+ "researched_at": "2026-11-02T12:16:19.186523+00:00",
+ "official_url": "https://madehere.co.jp/am",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2016年02月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000032276.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "2012年",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000032276.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "2016年3月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000032276.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "2016/02",
+    "url": "https://initial.inc/companies/A-34206",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何をする": [
+   {
+    "quote": "設計データをもとに、材料を1層ずつ積み重ねて立体物を製造する技術です",
+    "url": "https://madehere.co.jp/am",
+    "pass": 1
+   },
+   {
+    "quote": "図面が無い場合は写真や現物の3Dスキャンや元素分析を用いて最適化された設計データを作成します",
+    "url": "https://madehere.co.jp/am",
+    "pass": 1
+   },
+   {
+    "quote": "図面が無い場合や破損部品の再製造といったケースはもちろん、例えば長寿命化・軽量化など付加価値を加える柔軟性のある設計を得意とします",
+    "url": "https://madehere.co.jp/am",
+    "pass": 1
+   },
+   {
+    "quote": "付加価値設設計",
+    "url": "https://madehere.co.jp/am",
+    "pass": 1
+   },
+   {
+    "quote": "図面や造形データがない場合も受託造形可能ですのでお気軽にお問い合わせください",
+    "url": "https://madehere.co.jp/am",
+    "pass": 1
+   },
+   {
+    "quote": "当社はエンジニアリングを強みとしており、3Dデータ作成から図面設計、リバースエンジニアリングもワンストップで承ります",
+    "url": "https://madehere.co.jp/am",
+    "pass": 1
+   },
+   {
+    "quote": "単なるデータ作成だけでなく、3Dプリントの利点を最大限に引き出す設計手法「DfAM（Design for Additive Manufacturing）」による軽量化や部品一体化など、付加価値を向上させるご提案も得意としております",
+    "url": "https://madehere.co.jp/am",
+    "pass": 1
+   },
+   {
+    "quote": "最低製造個数はありますか？1点のみの試作も可能ですか？",
+    "url": "https://madehere.co.jp/am",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリントは金型を必要としないため、1点だけのせいぞうや試作開発用途に最適です",
+    "url": "https://madehere.co.jp/am",
+    "pass": 1
+   },
+   {
+    "quote": "また、当社のエンジニアリング力を活かし、大学や企業のR&D（研究開発）用途での受託製造においても、幅広い産業のお客様にご利用いただいております",
+    "url": "https://madehere.co.jp/am",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター販売事業",
+    "url": "https://madehere.co.jp/am",
+    "pass": 1
+   },
+   {
+    "quote": "防衛装備庁より「三次元積層造形技術の使用による装備品の部品」の製造役務を受託、陸上自衛隊車両向け部品の納品を完了",
+    "url": "https://madehere.co.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "MadeHereが防衛装備庁より陸上自衛隊車両向け部品の3Dプリント製造を受託・納品完了",
+    "url": "https://madehere.co.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター販売事業",
+    "url": "https://madehere.co.jp/news",
+    "pass": 1
+   },
+   {
+    "quote": "・3Dプリンター/関連機器販売",
+    "url": "https://madehere.co.jp/company-profile",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター機器販売と造形サービスを主力事業として山梨県にて創業",
+    "url": "https://madehere.co.jp/company-profile",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社アマダ、株式会社みらい創造機構、山梨中銀経営コンサルティング株式会社、芙蓉総合リース株式会社より、総額４億円の資金調達",
+    "url": "https://madehere.co.jp/company-profile",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター販売事業",
+    "url": "https://madehere.co.jp/company-profile",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター販売事業",
+    "url": "https://madehere.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター販売事業",
+    "url": "https://madehere.co.jp/news/contract-japan-maritime-self-defense-force",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター販売事業",
+    "url": "https://madehere.co.jp/news/event-202609-industry-day",
+    "pass": 1
+   },
+   {
+    "quote": "Oshkosh Defenseリリース：",
+    "url": "https://madehere.co.jp/news/collaboration-with-oshkosh-defense",
+    "pass": 1
+   },
+   {
+    "quote": "Marine Depot Maintenance Commandリリース：",
+    "url": "https://madehere.co.jp/news/collaboration-with-oshkosh-defense",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター販売事業",
+    "url": "https://madehere.co.jp/news/collaboration-with-oshkosh-defense",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター販売事業",
+    "url": "https://madehere.co.jp/news/mainichi-news-20260815",
+    "pass": 1
+   },
+   {
+    "quote": "【News】防衛装備庁より「三次元積層造形技術の使用による装備品の部品」の製造役務を受託、陸上自衛隊車両向け部品の納品を完了 ｜株式会社3D Printing Corporation",
+    "url": "https://madehere.co.jp/news/defense-equipment-3d-printing-delivery",
+    "pass": 1
+   },
+   {
+    "quote": "防衛装備庁より「三次元積層造形技術の使用による装備品の部品」の製造役務を受託、陸上自衛隊車両向け部品の納品を完了",
+    "url": "https://madehere.co.jp/news/defense-equipment-3d-printing-delivery",
+    "pass": 1
+   },
+   {
+    "quote": "この度株式会社MadeHereは、防衛装備庁より「三次元積層造形技術の使用による装備品の部品」の製造役務を受託し、対象部品の製造および納品を完了したことをお知らせいたします",
+    "url": "https://madehere.co.jp/news/defense-equipment-3d-printing-delivery",
+    "pass": 1
+   },
+   {
+    "quote": "最適化設計（DfAM）の活用：",
+    "url": "https://madehere.co.jp/news/defense-equipment-3d-printing-delivery",
+    "pass": 1
+   },
+   {
+    "quote": "積層造形の強みを最大限に活かすため、設計最適化（DfAM：Design for Additive Manufacturing）を実施",
+    "url": "https://madehere.co.jp/news/defense-equipment-3d-printing-delivery",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター販売事業",
+    "url": "https://madehere.co.jp/news/defense-equipment-3d-printing-delivery",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター販売事業",
+    "url": "https://madehere.co.jp/news/summer-holiday-2026",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月15日より開催される展示会「メンテナンス・レジリエンス2026」にて、プラントの保守・保全における廃番部品の調達難や長納期課題に対し、現物部品から復刻製造する「廃番部品迅速製造サービス」をご紹介します",
+    "url": "https://madehere.co.jp/news?61bcee00_page=2",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月22日より開催される国際海事展「Sea Japan 2026」にて、船舶の保守・修繕における廃番による部品の調達困難や長納期課題をに対し、現物部品から復刻製造する「廃番部品迅速製造サービス」をご紹介します",
+    "url": "https://madehere.co.jp/news?61bcee00_page=2",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月17日より開催される「ZERO-E THERMAL EXPO（ゼロエミッション火力発電 EXPO）」にて火力発電所の保守運用におけるMROの課題である設備の高経年化に伴う部品調達難に対し、現物から復刻製造する「廃番部品迅速製造サービス」をご紹介します",
+    "url": "https://madehere.co.jp/news?61bcee00_page=2",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター販売事業",
+    "url": "https://madehere.co.jp/news?61bcee00_page=2",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター販売事業",
+    "url": "https://madehere.co.jp/case-study/defense-ship-flange",
+    "pass": 1
+   },
+   {
+    "quote": "現在使用しているサーバーラックは溶接によりラックの高さが固定されているので用途の柔軟性が無く、設計図面もない状態だった",
+    "url": "https://madehere.co.jp/case-study/def-server-rack",
+    "pass": 1
+   },
+   {
+    "quote": "可動式の設計でより従来品よりも用途の柔軟性を向上",
+    "url": "https://madehere.co.jp/case-study/def-server-rack",
+    "pass": 1
+   },
+   {
+    "quote": "付加価値のある設計（VAE）で従来品より汎用性のある製品に",
+    "url": "https://madehere.co.jp/case-study/def-server-rack",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター販売事業",
+    "url": "https://madehere.co.jp/case-study/def-server-rack",
+    "pass": 1
+   },
+   {
+    "quote": "現物の写真データお預かりして設計",
+    "url": "https://madehere.co.jp/case-study/energy-3days",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター販売事業",
+    "url": "https://madehere.co.jp/case-study/energy-3days",
+    "pass": 1
+   },
+   {
+    "quote": "当社ブースでは、プラントの保守・保全における廃番部品の調達難や長納期課題に対し、現物部品から復刻製造する「廃番部品迅速製造サービス」をご紹介します",
+    "url": "https://madehere.co.jp/news/event-202607-mente-expo",
+    "pass": 1
+   },
+   {
+    "quote": "社会インフラを支えるエネルギー・プラントの「安定稼働」と保守保全の重要性",
+    "url": "https://madehere.co.jp/news/event-202607-mente-expo",
+    "pass": 1
+   },
+   {
+    "quote": "しかし、数十年にわたり運用されるプラントの保守現場では、以下のようなリスクが常態化しています",
+    "url": "https://madehere.co.jp/news/event-202607-mente-expo",
+    "pass": 1
+   },
+   {
+    "quote": "・設計図面の散逸により、他社での製作が困難",
+    "url": "https://madehere.co.jp/news/event-202607-mente-expo",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター販売事業",
+    "url": "https://madehere.co.jp/news/event-202607-mente-expo",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター販売事業",
+    "url": "https://madehere.co.jp/news/media-shachomeikan",
+    "pass": 1
+   },
+   {
+    "quote": "当社ブースでは、船舶の保守・修繕における廃番による部品の調達困難や長納期課題をに対し、現物部品から復刻製造する「廃番部品迅速製造サービス」をご紹介します",
+    "url": "https://madehere.co.jp/news/event-202604-sea-japan-expo",
+    "pass": 1
+   },
+   {
+    "quote": "・設計図面の散逸により、他社での製作が困難",
+    "url": "https://madehere.co.jp/news/event-202604-sea-japan-expo",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター販売事業",
+    "url": "https://madehere.co.jp/news/event-202604-sea-japan-expo",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター販売事業",
+    "url": "https://madehere.co.jp/news/media-adm-202502",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター販売事業",
+    "url": "https://madehere.co.jp/news/event-202603-zero-e-thermal-expo",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター販売事業",
+    "url": "https://madehere.co.jp/news/event-202602-atla",
+    "pass": 1
+   },
+   {
+    "quote": "防衛装備庁より「三次元積層造形技術の使用による装備品の部品」の製造役務を受託、陸上自衛隊車両向け部品の納品を完了",
+    "url": "https://madehere.co.jp/news?61bcee00_page=1",
+    "pass": 1
+   },
+   {
+    "quote": "MadeHereが防衛装備庁より陸上自衛隊車両向け部品の3Dプリント製造を受託・納品完了",
+    "url": "https://madehere.co.jp/news?61bcee00_page=1",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター販売事業",
+    "url": "https://madehere.co.jp/news?61bcee00_page=1",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター販売事業",
+    "url": "https://madehere.co.jp/news/mdmc-partnership-agreement",
+    "pass": 1
+   },
+   {
+    "quote": "産業向け3Dプリンター販売事業｜株式会社MadeHere【横浜】",
+    "url": "https://www.3dpc.co.jp/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "お客様の要望される基準に合わせ、各種品質試験を実施します",
+    "url": "https://madehere.co.jp/am",
+    "pass": 1
+   },
+   {
+    "quote": "高度な技術でもお客様に安心いただけるよう、MadeHereはお客様に製造提案書をご提出します",
+    "url": "https://madehere.co.jp/am",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の要望される基準に合わせて対応可能で、 防衛・航空・医療・エネルギー分野などの厳しい品質基準にも対応実績があります",
+    "url": "https://madehere.co.jp/am",
+    "pass": 1
+   },
+   {
+    "quote": "また、当社のエンジニアリング力を活かし、大学や企業のR&D（研究開発）用途での受託製造においても、幅広い産業のお客様にご利用いただいております",
+    "url": "https://madehere.co.jp/am",
+    "pass": 1
+   },
+   {
+    "quote": "■主要取引先",
+    "url": "https://madehere.co.jp/company-profile",
+    "pass": 1
+   },
+   {
+    "quote": "迅速な部品調達を実現でお客様の設備稼働停止リスクを防ぎます",
+    "url": "https://madehere.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "幅広い業界のお客様に実績と信頼をお届けしています",
+    "url": "https://madehere.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "多様な業界のお客様に3Dプリントによる",
+    "url": "https://www.3dpc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の製造規模やニーズに合わせて最適な機器をご提案します",
+    "url": "https://www.3dpc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "また、遠方でご来社の難しいお客様には造形サンプル品の貸し出しも行っておりますのでお問い合わせください",
+    "url": "https://www.3dpc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "試験的に導入したいお客様向けに、リース契約・短期レンタルプランを用意しています",
+    "url": "https://www.3dpc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "造形サイズ・精度・速度のバランスに応じて、お客様に最適なモデルをご提案します",
+    "url": "https://www.3dpc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "「ものづくり補助金」などの国・自治体制度を利用して導入実績があります",
+    "url": "https://www.3dpc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の要望される基準に合わせて対応可能で、",
+    "url": "https://www.3dpc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "法人のお客様に限定して承っております",
+    "url": "https://www.3dpc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Corporationは、日本国内のお客様へ最良の技術サポートを提供することのできる、信頼できるパートナーであることを証明してくれました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000032276.html",
+    "pass": 3
+   },
+   {
+    "quote": "信頼性が高く、かつ、扱いやすく、幅広い用途に使用できる3Dプリンターを提供することにより、従来の製造業に変革を起こして、お客様のビジネスに技術的な利益をもたらすことを目指しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000032276.html",
+    "pass": 3
+   },
+   {
+    "quote": "そのサポートとして、お客様に適した3Dプリンターの選定、コンサルティング、DFAM（3Dプリンティングのための特殊設計）支援・代行、アフターサポートなどの総合的なソリューションをご提供し、3Dプリンティング運用における障害をなくします",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000032276.html",
+    "pass": 3
+   },
+   {
+    "quote": "メディアユーザーログイン",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000032276.html",
+    "pass": 3
+   },
+   {
+    "quote": "メディアユーザー新規登録",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000032276.html",
+    "pass": 3
+   },
+   {
+    "quote": "メディアユーザー登録を行うと、企業担当者の連絡先や、",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000032276.html",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙業界事例",
+    "url": "https://news.sharelab.jp/cases/aerospace/jisda-madehere-rise-drone-3dprinting-2603-26/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙業界の関連記事",
+    "url": "https://news.sharelab.jp/cases/aerospace/jisda-madehere-rise-drone-3dprinting-2603-26/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙業界",
+    "url": "https://news.sharelab.jp/cases/aerospace/jisda-madehere-rise-drone-3dprinting-2603-26/",
+    "pass": 3
+   },
+   {
+    "quote": "医療業界事例",
+    "url": "https://news.sharelab.jp/cases/aerospace/jisda-madehere-rise-drone-3dprinting-2603-26/",
+    "pass": 3
+   },
+   {
+    "quote": "アパレル・インテリア業界事例",
+    "url": "https://news.sharelab.jp/cases/aerospace/jisda-madehere-rise-drone-3dprinting-2603-26/",
+    "pass": 3
+   },
+   {
+    "quote": "建設業界事例",
+    "url": "https://news.sharelab.jp/cases/aerospace/jisda-madehere-rise-drone-3dprinting-2603-26/",
+    "pass": 3
+   },
+   {
+    "quote": "その他業界事例",
+    "url": "https://news.sharelab.jp/cases/aerospace/jisda-madehere-rise-drone-3dprinting-2603-26/",
+    "pass": 3
+   },
+   {
+    "quote": "産業機器業界事例",
+    "url": "https://news.sharelab.jp/cases/aerospace/jisda-madehere-rise-drone-3dprinting-2603-26/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界事例",
+    "url": "https://news.sharelab.jp/cases/aerospace/jisda-madehere-rise-drone-3dprinting-2603-26/",
+    "pass": 3
+   },
+   {
+    "quote": "食品業界事例",
+    "url": "https://news.sharelab.jp/cases/aerospace/jisda-madehere-rise-drone-3dprinting-2603-26/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/cases/aerospace/jisda-madehere-rise-drone-3dprinting-2603-26/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターの業界メディアShareLabで働きませんか？",
+    "url": "https://news.sharelab.jp/cases/aerospace/jisda-madehere-rise-drone-3dprinting-2603-26/",
+    "pass": 3
+   },
+   {
+    "quote": "AM市場動向・業界レポートまとめ",
+    "url": "https://news.sharelab.jp/cases/aerospace/jisda-madehere-rise-drone-3dprinting-2603-26/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターを使うメリット・その用途とは？業界別の活用事例を紹介",
+    "url": "https://news.sharelab.jp/cases/aerospace/jisda-madehere-rise-drone-3dprinting-2603-26/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界で活躍する3Dプリンター製の治具・工具",
+    "url": "https://news.sharelab.jp/cases/aerospace/jisda-madehere-rise-drone-3dprinting-2603-26/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界の3Dプリンター活用の現状と将来",
+    "url": "https://news.sharelab.jp/cases/aerospace/jisda-madehere-rise-drone-3dprinting-2603-26/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界の試作開発部門で活躍する3Dプリンター",
+    "url": "https://news.sharelab.jp/cases/aerospace/jisda-madehere-rise-drone-3dprinting-2603-26/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙業界における3Dプリンターの活用",
+    "url": "https://news.sharelab.jp/cases/aerospace/jisda-madehere-rise-drone-3dprinting-2603-26/",
+    "pass": 3
+   },
+   {
+    "quote": "航空業界で活躍する3Dプリンター製最終製品",
+    "url": "https://news.sharelab.jp/cases/aerospace/jisda-madehere-rise-drone-3dprinting-2603-26/",
+    "pass": 3
+   },
+   {
+    "quote": "業界ニュース一覧",
+    "url": "https://news.sharelab.jp/cases/aerospace/jisda-madehere-rise-drone-3dprinting-2603-26/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の要望される基準に合わせ、各種品質試験を実施します",
+    "url": "https://www.3dpc.co.jp/madehere",
+    "pass": 3
+   },
+   {
+    "quote": "高度な技術でもお客様に安心いただけるよう、MadeHereはお客様に製造提案書をご提出します",
+    "url": "https://www.3dpc.co.jp/madehere",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の要望される基準に合わせて対応可能で、 防衛・航空・医療・エネルギー分野などの厳しい品質基準にも対応実績があります",
+    "url": "https://www.3dpc.co.jp/madehere",
+    "pass": 3
+   },
+   {
+    "quote": "また、当社のエンジニアリング力を活かし、大学や企業のR&D（研究開発）用途での受託製造においても、幅広い産業のお客様にご利用いただいております",
+    "url": "https://www.3dpc.co.jp/madehere",
+    "pass": 3
+   },
+   {
+    "quote": "顧客企業分析",
+    "url": "https://initial.inc/companies/A-34206",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "粉末床溶融結合法式（PBF方式）",
+    "url": "https://madehere.co.jp/am",
+    "pass": 1
+   },
+   {
+    "quote": "粉末焼結積層造形（SLS）",
+    "url": "https://madehere.co.jp/am",
+    "pass": 1
+   },
+   {
+    "quote": "Oshkosh Defenseの技術支援のもと、MadeHereは適切なライセンスおよび米国輸出管理の枠組みを前提として、在日米軍向けOshkosh Defense製装備品部品を日本国内で製造できる体制の構築を目指します",
+    "url": "https://madehere.co.jp/news/collaboration-with-oshkosh-defense",
+    "pass": 1
+   },
+   {
+    "quote": "特に数十年にわたり運用される装備品では、製造元の撤退や部品・材料の供給停止といったDMSMSが生じやすく、製造ライセンスの都合上、交換部品を米国本土でしか製造できないケースも少なくありません",
+    "url": "https://madehere.co.jp/news/collaboration-with-oshkosh-defense",
+    "pass": 1
+   },
+   {
+    "quote": "本協業では、適切なライセンスおよび米国輸出管理の枠組みを前提に、Oshkosh Defenseが指定する補給ラインの分断リスクが懸念される部品 をMadeHereが日本国内で製造できる体制の構築を目指します",
+    "url": "https://madehere.co.jp/news/collaboration-with-oshkosh-defense",
+    "pass": 1
+   },
+   {
+    "quote": "将来的には、適切なライセンスおよび輸出管理の枠組みのもとで、アメリカインド太平洋軍（USPACOM）が展開する地域全体へと支援の拡大を目指し、日本発の防衛サプライチェーンの中核的な役割を担ってまいります",
+    "url": "https://madehere.co.jp/news/collaboration-with-oshkosh-defense",
+    "pass": 1
+   },
+   {
+    "quote": "調達におよそ1年かかると見積もられた部品を破損した状態から10日間で製作",
+    "url": "https://madehere.co.jp/case-study/defense-ship-flange",
+    "pass": 1
+   },
+   {
+    "quote": "お見積りからわずか3日で納品",
+    "url": "https://madehere.co.jp/case-study/energy-3days",
+    "pass": 1
+   },
+   {
+    "quote": "料金・プラン",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000032276.html",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/cases/aerospace/jisda-madehere-rise-drone-3dprinting-2603-26/",
+    "pass": 3
+   },
+   {
+    "quote": "Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円",
+    "url": "https://news.sharelab.jp/cases/aerospace/jisda-madehere-rise-drone-3dprinting-2603-26/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/cases/aerospace/jisda-madehere-rise-drone-3dprinting-2603-26/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/cases/aerospace/jisda-madehere-rise-drone-3dprinting-2603-26/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較",
+    "url": "https://news.sharelab.jp/cases/aerospace/jisda-madehere-rise-drone-3dprinting-2603-26/",
+    "pass": 3
+   },
+   {
+    "quote": "カタログスペックと価格だけでは選ばない！製造業向け3Dプリンターの比較・選び方とは？",
+    "url": "https://news.sharelab.jp/cases/aerospace/jisda-madehere-rise-drone-3dprinting-2603-26/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末床溶融結合法 / PBF（Powder Bed Fusion）を解説！SLS方式、SLM方式と何が違う？",
+    "url": "https://news.sharelab.jp/cases/aerospace/jisda-madehere-rise-drone-3dprinting-2603-26/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末床溶融結合法式（PBF方式）",
+    "url": "https://www.3dpc.co.jp/madehere",
+    "pass": 3
+   },
+   {
+    "quote": "粉末焼結積層造形（SLS）",
+    "url": "https://www.3dpc.co.jp/madehere",
+    "pass": 3
+   }
+  ],
+  "誰から": [
+   {
+    "quote": "製造管理最適化のためのデジタルツール「Taiga」を自社開発",
+    "url": "https://madehere.co.jp/company-profile",
+    "pass": 1
+   },
+   {
+    "quote": "米国海兵隊補給処整備コマンドと官民パートナーシップ（Public-Private Partnership：PPP）を締結",
+    "url": "https://madehere.co.jp/company-profile",
+    "pass": 1
+   },
+   {
+    "quote": "自社開発のデジタル製造管理ツールや金型を少量多品種生産を得意とし、構成部品単位で１点から製造可能",
+    "url": "https://madehere.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "特に数十年にわたり運用される装備品では、製造元の撤退や部品・材料の供給停止といったDMSMSが生じやすく、製造ライセンスの都合上、交換部品を米国本土でしか製造できないケースも少なくありません",
+    "url": "https://madehere.co.jp/news/collaboration-with-oshkosh-defense",
+    "pass": 1
+   },
+   {
+    "quote": "DMSMS（Diminishing Manufacturing Sources and Material Shortages）：製造元の撤退や部品・材料の供給停止により、装備品の部品や材料が入手困難となる状態を指す、国防総省の維持・整備分野における標準用語",
+    "url": "https://madehere.co.jp/news/collaboration-with-oshkosh-defense",
+    "pass": 1
+   },
+   {
+    "quote": "この度株式会社MadeHereは、米海軍演習「トライデント・ウォーリアー2025」での実証を経て、米国海兵隊補給処整備コマンド（Marine Depot Maintenance Command、以下MDMC）とインド太平洋地域における高度製造および維持支援能力の強化を目的とした「官民パートナーシップ（Public-Private Partnership：PPP）」を締結しました",
+    "url": "https://madehere.co.jp/news/mdmc-partnership-agreement",
+    "pass": 1
+   },
+   {
+    "quote": "本提携は、合衆国法典第10編第2474条（10 U.S.C. § 2474）に基づき、MDMCを「産業・技術センター（CITE）」として活用する枠組みの中で実現したものです",
+    "url": "https://madehere.co.jp/news/mdmc-partnership-agreement",
+    "pass": 1
+   },
+   {
+    "quote": "■ 提携の内容と技術的特長",
+    "url": "https://madehere.co.jp/news/mdmc-partnership-agreement",
+    "pass": 1
+   },
+   {
+    "quote": "10 U.S.C. § 2474（合衆国法典第10編第2474条）： 米軍の補給処を「産業・技術センター（CITE）」に指定し、民間企業との提携（PPP）や設備・技術の相互利用を認める法律",
+    "url": "https://madehere.co.jp/news/mdmc-partnership-agreement",
+    "pass": 1
+   },
+   {
+    "quote": "3D Printing Corporation、スペインの3DプリンターメーカーBCN3D Technologiesと総代理店契約を締結 | 株式会社MadeHereのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000032276.html",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Corporation、スペインの3DプリンターメーカーBCN3D Technologiesと�総代理店契約を締結",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000032276.html",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティングの総合ソリューションを提供する株式会社3D Printing Corporation（本社所在地： 山梨県甲府市、以下、3D Printing Corporation）は、スペインの3DプリンターメーカーであるBCN3D Technologies（本社所在地：スペイン・バルセロナ、以下、BCN3D）と、日本総代理店契約を締結いたしました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000032276.html",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Corporation、スペインの3DプリンターメーカーBCN3D Technologiesと総代理店契約を締結",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000032276.html",
+    "pass": 3
+   },
+   {
+    "quote": "資金調達・提携ニュース",
+    "url": "https://initial.inc/companies/A-34206",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社3D Printing Corporationはスペインの金属3DプリンターメーカーMeltio社と日本総代理店契約を締結しました",
+    "url": "https://initial.inc/companies/A-34206",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "92,498,819円（2026年10月8日現在）",
+    "url": "https://madehere.co.jp/company-profile",
+    "pass": 1
+   },
+   {
+    "quote": "ベンチャーキャピタル2社より1億3千万円の投資を受ける",
+    "url": "https://madehere.co.jp/company-profile",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社アマダ、株式会社みらい創造機構、山梨中銀経営コンサルティング株式会社、芙蓉総合リース株式会社より、総額４億円の資金調達",
+    "url": "https://madehere.co.jp/company-profile",
+    "pass": 1
+   },
+   {
+    "quote": "2億6699万円",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000032276.html",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/cases/aerospace/jisda-madehere-rise-drone-3dprinting-2603-26/",
+    "pass": 3
+   },
+   {
+    "quote": "Flashforge、フルカラー3Dプリンター「CJ270」の予約販売を開始 1,000万色以上に対応、価格は63万5,000円",
+    "url": "https://news.sharelab.jp/cases/aerospace/jisda-madehere-rise-drone-3dprinting-2603-26/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/cases/aerospace/jisda-madehere-rise-drone-3dprinting-2603-26/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Corporation、資金調達を実施 4億円を調達",
+    "url": "https://initial.inc/companies/A-34206",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Corporation、資金調達を実施 シリーズAラウンドで総額約1.3億円を調達",
+    "url": "https://initial.inc/companies/A-34206",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 - 株式会社MadeHere — 会社概要 - 株式会社MadeHere madehere.co.jp https://www.madehere.co.jp > company-profile",
+    "url": "https://www.madehere.co.jp/company-profile",
+    "pass": 3
+   },
+   {
+    "quote": "産業向け 3Dプリンター 販売事業｜株式会社 MadeHere 【横浜】 — 産業向け 3Dプリンター 販売事業｜株式会社 MadeHere 【横浜】 3dpc.co.jp https://www.3dpc.co.jp",
+    "url": "https://www.3dpc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 MadeHere - スピーダ スタートアップ情報リサーチ — 株式会社 MadeHere - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies",
+    "url": "https://initial.inc/companies/A-34206",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 MadeHere - Startup — 株式会社 MadeHere - Startup Plug and Play Japan https://japan.plugandplaytechcenter.com > ...",
+    "url": "https://japan.plugandplaytechcenter.com/startup/3dpc-co-jp",
+    "pass": 3
+   },
+   {
+    "quote": "JISDAと MadeHere 、無人機製造の高度化へ協業 3D ... — JISDAと MadeHere 、無人機製造の高度化へ協業 3D ... ShareLab NEWS https://news.sharelab.jp > 事例 > 航空宇宙業界事例",
+    "url": "https://news.sharelab.jp/cases/aerospace/jisda-madehere-rise-drone-3dprinting-2603-26/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 MadeHere （ 旧 ： 3D Printing Corporation） — 株式会社 MadeHere （ 旧 ： 3D Printing Corporation） blitzportal.com https://blitzportal.com > 3D-Printing-Corporation-Jx2qmJjz",
+    "url": "https://blitzportal.com/startups/3D-Printing-Corporation-Jx2qmJjz",
+    "pass": 3
+   },
+   {
+    "quote": "産業向け部品 3Dプリント受託 製造｜金属・樹脂素材対応で ... — 産業向け部品 3Dプリント受託 製造｜金属・樹脂素材対応で ... 3dpc.co.jp https://www.3dpc.co.jp > madehere",
+    "url": "https://www.3dpc.co.jp/madehere",
+    "pass": 3
+   },
+   {
+    "quote": "MadeHere のプレスリリース - PR TIMES — MadeHere のプレスリリース - PR TIMES PR TIMES https://prtimes.jp > main > html > searchrlp > company_id",
+    "url": "https://prtimes.jp/main/html/searchrlp/company_id/32276",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://madehere.co.jp/am",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://madehere.co.jp/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://madehere.co.jp/company-profile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://madehere.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://madehere.co.jp/news/contract-japan-maritime-self-defense-force",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://madehere.co.jp/news/event-202609-industry-day",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://madehere.co.jp/news/collaboration-with-oshkosh-defense",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://madehere.co.jp/news/mainichi-news-20260815",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://madehere.co.jp/news/defense-equipment-3d-printing-delivery",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://madehere.co.jp/news/summer-holiday-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://madehere.co.jp/news?61bcee00_page=2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://madehere.co.jp/case-study/defense-ship-flange",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://madehere.co.jp/case-study/def-server-rack",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://madehere.co.jp/case-study/energy-3days",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://madehere.co.jp/news/event-202607-mente-expo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://madehere.co.jp/news/media-shachomeikan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://madehere.co.jp/news/event-202604-sea-japan-expo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://madehere.co.jp/news/media-adm-202502",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://madehere.co.jp/news/event-202603-zero-e-thermal-expo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://madehere.co.jp/news/event-202602-atla",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://madehere.co.jp/news?61bcee00_page=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://madehere.co.jp/news/mdmc-partnership-agreement",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/69cb35baf7aa1a511236374b/69cb35baf7aa1a511236433b_army_logo%403x.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/69cb35baf7aa1a511236374b/69cb35baf7aa1a5112364338_navy_logo%403x.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/69cb35baf7aa1a511236374b/6a31ea565a00fd5ed61a6727_nipponsanso_logo.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/69cb35baf7aa1a511236374b/6adb19213b35ecae22d9e2de_Yokohama%20Dock_logo.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/69cb35baf7aa1a511236374b/69cb35baf7aa1a51123642f2_defense-case.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/69cb35baf7aa1a5112363752/69cb35baf7aa1a511236421a_case-ship-parts.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/69cb35baf7aa1a5112363752/69cb35baf7aa1a511236421b_case-ship-parts-1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/69cb35baf7aa1a5112363752/69cb35baf7aa1a511236421c_case-ship-parts-2.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/69cb35baf7aa1a5112363752/69cb35baf7aa1a511236421d_case-server-rack.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/69cb35baf7aa1a5112363752/69cb35baf7aa1a511236421e_case-server-rack-1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://madehere.co.jp/company-profile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dpc.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000032276.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dpc.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://madehere.co.jp/company-profile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/cases/aerospace/jisda-madehere-rise-drone-3dprinting-2603-26/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://madehere.co.jp/company-profile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dpc.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.plugandplaytechcenter.com/startup/3dpc-co-jp",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.3dpc.co.jp/madehere",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://madehere.co.jp/company-profile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://initial.inc/companies/A-34206",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "MadeHere(旧 3D Printing ) 代理店 契約",
+   "results": [
+    "https://www.madehere.co.jp/company-profile",
+    "https://www.3dpc.co.jp/",
+    "https://prtimes.jp/main/html/rd/p/000000004.000032276.html",
+    "https://initial.inc/companies/A-34206",
+    "https://japan.plugandplaytechcenter.com/startup/3dpc-co-jp",
+    "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "https://blitzportal.com/startups/3D-Printing-Corporation-Jx2qmJjz",
+    "https://www.materialise.com/ja/industrial/software/partnerships/reseller",
+    "https://imagemagic.jp/ceoblog/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%9B%BD%E5%86%85%E7%8B%AC%E5%8D%A0%E8%B2%A9%E5%A3%B2%E5%A5%91%E7%B4%84",
+    "https://madehere.co.jp/company-profile"
+   ]
+  },
+  {
+   "query": "MadeHere(旧 3D Printing ) 導入事例",
+   "results": [
+    "https://www.3dpc.co.jp/",
+    "https://www.madehere.co.jp/company-profile",
+    "https://news.sharelab.jp/cases/aerospace/jisda-madehere-rise-drone-3dprinting-2603-26/",
+    "https://japan.plugandplaytechcenter.com/startup/3dpc-co-jp",
+    "https://initial.inc/companies/A-34206",
+    "https://prtimes.jp/main/html/searchrlp/company_id/32276",
+    "https://jp.linkedin.com/posts/3d-printing-corporation_meltio%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E5%AF%8C%E5%A3%AB%E9%AB%98%E5%91%A8%E6%B3%A2%E5%B7%A5%E6%A5%AD%E3%81%8C%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F%E6%96%B0%E5%B8%82%E5%A0%B4-%E8%81%B7%E4%BA%BA%E6%8A%80%E8%A1%93%E3%81%A8-activity-7219567281222111232-SMlF",
+    "https://blitzportal.com/startups/3D-Printing-Corporation-Jx2qmJjz",
+    "https://idarts.co.jp/3dp/jisda-madehere3d-rise/?srsltid=AYCX9vLmJnLLIkZpHeP782lidRL42ss0iw_o-rv4Y5Qj60xgXTv6_RqV"
+   ]
+  },
+  {
+   "query": "MadeHere(旧 3D Printing ) 価格 OR 料金",
+   "results": [
+    "https://www.madehere.co.jp/company-profile",
+    "https://www.3dpc.co.jp/",
+    "https://japan.plugandplaytechcenter.com/startup/3dpc-co-jp",
+    "https://blitzportal.com/startups/3D-Printing-Corporation-Jx2qmJjz",
+    "https://prtimes.jp/main/html/rd/p/000000050.000032276.html",
+    "https://initial.inc/companies/A-34206",
+    "https://jobtalk.jp/companies/8555714/answers",
+    "https://mono.ipros.com/company/detail/2071096/",
+    "https://products.kanaden.co.jp/product/detail/1367/",
+    "https://madehere.co.jp/company-profile"
+   ]
+  },
+  {
+   "query": "MadeHere(旧 3D Printing ) 受託 造形",
+   "results": [
+    "https://www.3dpc.co.jp/madehere",
+    "https://www.madehere.co.jp/company-profile",
+    "https://initial.inc/companies/A-34206",
+    "https://www.3dpc.co.jp/",
+    "https://prtimes.jp/main/html/searchrlp/company_id/32276",
+    "https://news.sharelab.jp/cases/aerospace/jisda-madehere-rise-drone-3dprinting-2603-26/",
+    "https://blitzportal.com/startups/3D-Printing-Corporation-Jx2qmJjz",
+    "https://jp.linkedin.com/company/madehere-mro",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://madehere.co.jp/company-profile"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式22頁／PDF・画像10件／外部12頁・検索4回）",
+  "売上高": "記載なし（3回確認済み：公式22頁／PDF・画像10件／外部12頁・検索4回）",
+  "事業内容": "記載なし（3回確認済み：公式22頁／PDF・画像10件／外部12頁・検索4回）",
+  "取引先": "記載なし（3回確認済み：公式22頁／PDF・画像10件／外部12頁・検索4回）"
+ }
+}

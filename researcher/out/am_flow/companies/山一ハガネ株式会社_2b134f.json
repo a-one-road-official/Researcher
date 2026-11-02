@@ -1,0 +1,552 @@
+{
+ "name": "山一ハガネ株式会社",
+ "aliases": [],
+ "context": "/ Cognitive Design Systems（仏）；nTop（米）",
+ "researched_at": "2026-11-02T12:14:53.210853+00:00",
+ "official_url": "http://www.yamaichi-hagane.co.jp/（英語版",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1948年08月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000152060.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何をする": [
+   {
+    "quote": "販売網ネットワークの強化を図るとともに",
+    "url": "https://yamaichi-hagane.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "山一ハガネは特殊鋼商社として知られるが、切削工具の販売事業も独自ブランド「RIDGELINE TOOL（リッジラインツール）」として展開している",
+    "url": "https://yamaichi-hagane.rdy.jp/wp/?cat=2",
+    "pass": 3
+   },
+   {
+    "quote": "4回転ジャンプを跳びやすく、しかも安定した着地ができるように開発・設計",
+    "url": "https://yamaichi-hagane.jp/ysblades/",
+    "pass": 3
+   },
+   {
+    "quote": "●各販売価格：2本セット148,500円（税込） ※1本売りはなし ※付属品：取付用ネジ、説明書兼保証書",
+    "url": "https://yamaichi-hagane.jp/ysblades/",
+    "pass": 3
+   },
+   {
+    "quote": "繊細かつダイナミックな演技ができるように開発・設計されたブレード",
+    "url": "https://yamaichi-hagane.jp/ysblades/",
+    "pass": 3
+   },
+   {
+    "quote": "| 株式会社山一ハガネのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000152060.html",
+    "pass": 3
+   },
+   {
+    "quote": "プレスリリース・ニュースリリース配信サービスのPR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000152060.html",
+    "pass": 3
+   },
+   {
+    "quote": "プレスリリースを受信",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000152060.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社山一ハガネ（本社：愛知県名古屋市、代表取締役：寺西基治）は、新たな工具ブランド「RIDGELINE TOOL（リッジラインツール）」を立ち上げ、切削工具の販売事業を開始いたしました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000152060.html",
+    "pass": 3
+   },
+   {
+    "quote": "（２）必要十分な機能に最適化された設計",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000152060.html",
+    "pass": 3
+   },
+   {
+    "quote": "【ニュースリリースに関するお問い合わせ】",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000152060.html",
+    "pass": 3
+   },
+   {
+    "quote": "このプレスリリースには、",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000152060.html",
+    "pass": 3
+   },
+   {
+    "quote": "※内容はプレスリリースにより異なります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000152060.html",
+    "pass": 3
+   },
+   {
+    "quote": "プレスリリース添付資料",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000152060.html",
+    "pass": 3
+   },
+   {
+    "quote": "プレスリリース素材",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000152060.html",
+    "pass": 3
+   },
+   {
+    "quote": "このプレスリリース内で使われている画像ファイルがダウンロードできます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000152060.html",
+    "pass": 3
+   },
+   {
+    "quote": "プレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000152060.html",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースリリース配信サービス",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000152060.html",
+    "pass": 3
+   },
+   {
+    "quote": "プレスリリースを受信したい方へ",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000152060.html",
+    "pass": 3
+   },
+   {
+    "quote": "プレスリリースを配信したい方へ",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000152060.html",
+    "pass": 3
+   },
+   {
+    "quote": "付加製造を表す「Additive Manufacturing」事業として位置付けたビジネスの最も大きな特長は、原料の開発・製造、最適化設計から3Dプリントまでを行うステップ、そして仕上げ加工や検査工程という山一ハガネが培ってきた技術、ノウハウをフルに生かせる後加工の工程がつながっていること",
+    "url": "https://yamaichi-hagane.jp/businesscontent/additivemanufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "現物のみでデータが無くお困りのお客様へのリバースエンジニアリングや、現物に適合した治具の設計にも生かしています",
+    "url": "https://yamaichi-hagane.jp/businesscontent/additivemanufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "最適化設計・3Dデータ復元",
+    "url": "https://yamaichi-hagane.jp/businesscontent/additivemanufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "山一ハガネで使用するエンジニアリングソフト「nTop」(※旧nTopology)は、トポロジー最適化モデルの設計や解析、また従来のCADソフトでは難易度の高かった複雑形状(ラティス構造)の生成など、AMならではの設計を得意としています",
+    "url": "https://yamaichi-hagane.jp/businesscontent/additivemanufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "三次元形状の部品や製品の製造までを一貫して受託するビジネスだけでなく、山一ハガネはAMに関わるさまざまな事業を展開",
+    "url": "https://yamaichi-hagane.jp/businesscontent/additivemanufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "また、AM技術に欠かせないソフトウェアも販売",
+    "url": "https://yamaichi-hagane.jp/businesscontent/additivemanufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "AM技術にもっとも欠かせないDfAM (Design for Additive Manufacturing)の重要なポイントとなるトポロジー最適化、デジタルテクスチャリング、TPMS構造の設計を可能にする「nTop」(旧：nTopology)、さらにはこのnTopとアドオンにより複数パラメータから数千種類の最適化結果を導き出す「Optibot」、提示された数多くの3DデータからコストやAMに最適なものを分析するパーツセレクター「Cognitive Additive」を自社開発ソフトウェアとして提供しています",
+    "url": "https://yamaichi-hagane.jp/businesscontent/additivemanufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "こうしたソフトウェアの導入に当たってのコンサルティングやトレーニング、DfAMに関する受託設計業務など、コンピュテイショナルデザイン全体のサポートを展開",
+    "url": "https://yamaichi-hagane.jp/businesscontent/additivemanufacturing/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社 山一ハガネ の会社概要・製品情報 | Metoree — 株式会社 山一ハガネ の会社概要・製品情報 | Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/45013/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 山一ハガネ -創る支えに。拓く力に。 — 株式会社 山一ハガネ -創る支えに。拓く力に。 株式会社山一ハガネ https://yamaichi-hagane.jp",
+    "url": "https://yamaichi-hagane.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 山一ハガネ (@Yamaichi_SS) / X — 株式会社 山一ハガネ (@Yamaichi_SS) / X X https://x.com > Yamaichi_SS",
+    "url": "https://x.com/Yamaichi_SS",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 山一ハガネ (@yamaichiss) - Instagram — 株式会社 山一ハガネ (@yamaichiss) - Instagram Instagram https://www.instagram.com > yamaichiss",
+    "url": "https://www.instagram.com/yamaichiss/",
+    "pass": 3
+   },
+   {
+    "quote": "山一ハガネ だからこその価値を追求 ファクトリーモール構想 ... — 山一ハガネ だからこその価値を追求 ファクトリーモール構想 ... 月刊「事業構想」オンライン https://www.projectdesign.jp > 2026年7月号",
+    "url": "https://www.projectdesign.jp/articles/39167455-3050-4d19-b465-a439eb15535b",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 - ページ 2 - 株式会社 山一ハガネ Let's Begin! — 導入事例 - ページ 2 - 株式会社 山一ハガネ Let's Begin! 株式会社山一ハガネ https://yamaichi-hagane.jp > HOME > 3Dプリンタ製作事例",
+    "url": "https://yamaichi-hagane.jp/wp/?paged=2&cat=10",
+    "pass": 3
+   },
+   {
+    "quote": "ストーリー - 株式会社 山一ハガネ Let's Begin! — ストーリー - 株式会社 山一ハガネ Let's Begin! 株式会社山一ハガネ https://yamaichi-hagane.rdy.jp > ...",
+    "url": "https://yamaichi-hagane.rdy.jp/wp/?cat=2",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 - 株式会社 山一ハガネ Let's Begin! — 導入事例 - 株式会社 山一ハガネ Let's Begin! 株式会社山一ハガネ https://yamaichi-hagane.jp > HOME > 3Dプリンタ製作事例",
+    "url": "https://yamaichi-hagane.jp/wp/?cat=10",
+    "pass": 3
+   },
+   {
+    "quote": "YS BLADES | 自社製品 | 【公式】株式会社 山一ハガネ — YS BLADES | 自社製品 | 【公式】株式会社 山一ハガネ 株式会社山一ハガネ https://yamaichi-hagane.jp > 自社製品 > YS BLADES",
+    "url": "https://yamaichi-hagane.jp/ysblades/",
+    "pass": 3
+   },
+   {
+    "quote": "山一ハガネ 、切削工具ブランド「RIDGELINE TOOL」を立ち ... — 山一ハガネ 、切削工具ブランド「RIDGELINE TOOL」を立ち ... PR TIMES https://prtimes.jp > 商品サービス",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000152060.html",
+    "pass": 3
+   },
+   {
+    "quote": "工具鋼 | 事業内容 | 【公式】株式会社 山一ハガネ — 工具鋼 | 事業内容 | 【公式】株式会社 山一ハガネ yamaichi-hagane.tank.jp https://yamaichi-hagane.tank.jp > 事業内容 > 工具鋼",
+    "url": "https://yamaichi-hagane.tank.jp/businesscontent/toolsteel/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンタ（アディティブマニュファクチャリング） | 事業内容 — 3Dプリンタ（アディティブマニュファクチャリング） | 事業内容 株式会社山一ハガネ https://yamaichi-hagane.jp > additivemanufacturing",
+    "url": "https://yamaichi-hagane.jp/businesscontent/additivemanufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "特殊鋼商社の 山一ハガネ 積層 造形 事業を拡大 自社開発3D ... — 特殊鋼商社の 山一ハガネ 積層 造形 事業を拡大 自社開発3D ... chukei-news.co.jp https://www.chukei-news.co.jp > news > 2026/10/01",
+    "url": "https://www.chukei-news.co.jp/news/2026/10/01/OK0002610010101_01/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 山一ハガネ - NCネットワーク — 株式会社 山一ハガネ - NCネットワーク エミダス https://ja.nc-net.or.jp > company",
+    "url": "https://ja.nc-net.or.jp/company/77348/",
+    "pass": 3
+   },
+   {
+    "quote": "山一ハガネ 、3D 造形 を本格展開 高温多湿でも安定 — 山一ハガネ 、3D 造形 を本格展開 高温多湿でも安定 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/768239",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "導入事例 - ページ 2 - 株式会社山一ハガネ Let's Begin!",
+    "url": "https://yamaichi-hagane.jp/wp/?paged=2&cat=10",
+    "pass": 3
+   },
+   {
+    "quote": "業界に革命を起こす！積層痕の常識を覆す驚異の山一ハガネ製 3Dプリンタ「3IxD（スリーイクシット）」",
+    "url": "https://yamaichi-hagane.jp/wp/?paged=2&cat=10",
+    "pass": 3
+   },
+   {
+    "quote": "■AM（Additive Manufacturing）業界に革命を起こした山一ハガネ製造第三Gr 山一ハガネが誇るAMのモノづくり職人集団が「製造第三Gr」だ",
+    "url": "https://yamaichi-hagane.jp/wp/?paged=2&cat=10",
+    "pass": 3
+   },
+   {
+    "quote": "多彩なワークを分別可能な樹脂製ドラムフィーダー「Karudora」導入事例－有限会社新名工業岡崎様",
+    "url": "https://yamaichi-hagane.jp/wp/?paged=2&cat=10",
+    "pass": 3
+   },
+   {
+    "quote": "今、サイン業界で話題の『樹脂3Dプリンタ製サイン』",
+    "url": "https://yamaichi-hagane.rdy.jp/wp/?cat=2",
+    "pass": 3
+   },
+   {
+    "quote": "サイン業界の常識を覆した樹脂3Dプリンタ製サイン 建物や商業施設に欠かせないサイン",
+    "url": "https://yamaichi-hagane.rdy.jp/wp/?cat=2",
+    "pass": 3
+   },
+   {
+    "quote": "多彩なワークを分別可能な樹脂製ドラムフィーダー「Karudora」導入事例－有限会社新名工業岡崎様",
+    "url": "https://yamaichi-hagane.rdy.jp/wp/?cat=2",
+    "pass": 3
+   },
+   {
+    "quote": "YS BLADESは“削り出し”という、ブレード業界で唯一の製法で作られており、その製法ゆえの「折れない」「曲がらない」「刃こぼれしない」という特徴を持つ製品です",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000152060.html",
+    "pass": 3
+   },
+   {
+    "quote": "特にステンレスや高硬度材加工で長寿命・高安定性を実現し、多くのお客様から高評価をいただいています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000152060.html",
+    "pass": 3
+   },
+   {
+    "quote": "メディアユーザーログイン",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000152060.html",
+    "pass": 3
+   },
+   {
+    "quote": "メディアユーザー新規登録",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000152060.html",
+    "pass": 3
+   },
+   {
+    "quote": "メディアユーザー登録を行うと、企業担当者の連絡先や、",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000152060.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の要望にワンストップで応えるファクトリーモールの考えを、AM事業にも生かしたモノづくりを実現しています",
+    "url": "https://yamaichi-hagane.jp/businesscontent/additivemanufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "工業製品生産のためにお客様の求めるブランドやグレード、材料特性を持つ、AM製造に最適な原料をつくり出しています",
+    "url": "https://yamaichi-hagane.jp/businesscontent/additivemanufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "現物のみでデータが無くお困りのお客様へのリバースエンジニアリングや、現物に適合した治具の設計にも生かしています",
+    "url": "https://yamaichi-hagane.jp/businesscontent/additivemanufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様ご要望の強度・軽量化などに合わせて、最適な形状をご提案いたします",
+    "url": "https://yamaichi-hagane.jp/businesscontent/additivemanufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "AM事業に関するさまざまな側面から、お客様のビジネスをサポート",
+    "url": "https://yamaichi-hagane.jp/businesscontent/additivemanufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様が抱える課題の解決や事業のサポートを行っています",
+    "url": "https://yamaichi-hagane.jp/businesscontent/additivemanufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "自社開発した3Dプリンタの3IxDによる高精度な造形でお客様のモノづくりに貢献しています",
+    "url": "https://yamaichi-hagane.jp/businesscontent/additivemanufacturing/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "RIDGELINE TOOL－タングステン高騰でも価格を据え置く、切削工具の新しい選択肢「Tシリーズ」",
+    "url": "https://yamaichi-hagane.jp/wp/?paged=2&cat=10",
+    "pass": 3
+   },
+   {
+    "quote": "RIDGELINE TOOL－タングステン高騰でも価格を据え置く、切削工具の新しい選択肢「Tシリーズ」",
+    "url": "https://yamaichi-hagane.rdy.jp/wp/?cat=2",
+    "pass": 3
+   },
+   {
+    "quote": "●各販売価格：2本セット148,500円（税込） ※1本売りはなし ※付属品：取付用ネジ、説明書兼保証書",
+    "url": "https://yamaichi-hagane.jp/ysblades/",
+    "pass": 3
+   },
+   {
+    "quote": "RIDGELINE TOOLは「高品質な工具＝高価格」というこれまでの常識を見直すべく、現場が真に必要とする品質と価格のバランスを追求しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000152060.html",
+    "pass": 3
+   },
+   {
+    "quote": "こうした現場の評価は、日本のモノづくりが求める、品質と価格の新たな選択肢をRIDGELINE TOOLが提示できた証です",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000152060.html",
+    "pass": 3
+   },
+   {
+    "quote": "現場担当者による技術相談／見積り対応",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000152060.html",
+    "pass": 3
+   },
+   {
+    "quote": "料金・プラン",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000152060.html",
+    "pass": 3
+   }
+  ],
+  "誰から": [
+   {
+    "quote": "山一ハガネ自社製品への […]",
+    "url": "https://yamaichi-hagane.rdy.jp/wp/?cat=2",
+    "pass": 3
+   },
+   {
+    "quote": "YS BLADES | 自社製品 | 【公式】株式会社山一ハガネ／特殊鋼専門商社",
+    "url": "https://yamaichi-hagane.jp/ysblades/",
+    "pass": 3
+   },
+   {
+    "quote": "自社製フィラメント",
+    "url": "https://yamaichi-hagane.jp/businesscontent/additivemanufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "山一ハガネでは自社開発した3Dプリンタ【3IxD】によって高精度な造形を可能にしました",
+    "url": "https://yamaichi-hagane.jp/businesscontent/additivemanufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "自社開発した3Dプリンタの3IxDによる高精度な造形でお客様のモノづくりに貢献しています",
+    "url": "https://yamaichi-hagane.jp/businesscontent/additivemanufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "AM技術にもっとも欠かせないDfAM (Design for Additive Manufacturing)の重要なポイントとなるトポロジー最適化、デジタルテクスチャリング、TPMS構造の設計を可能にする「nTop」(旧：nTopology)、さらにはこのnTopとアドオンにより複数パラメータから数千種類の最適化結果を導き出す「Optibot」、提示された数多くの3DデータからコストやAMに最適なものを分析するパーツセレクター「Cognitive Additive」を自社開発ソフトウェアとして提供しています",
+    "url": "https://yamaichi-hagane.jp/businesscontent/additivemanufacturing/",
+    "pass": 3
+   }
+  ],
+  "いくら": [
+   {
+    "quote": "●各販売価格：2本セット148,500円（税込） ※1本売りはなし ※付属品：取付用ネジ、説明書兼保証書",
+    "url": "https://yamaichi-hagane.jp/ysblades/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "http://www.yamaichi-hagane.co.jp/（英語版",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://metoree.com/companies/45013/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://yamaichi-hagane.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Yamaichi_SS",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://yamaichi-hagane.jp/wp/?paged=2&cat=10",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yamaichi-hagane.rdy.jp/wp/?cat=2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Yamaichi_SS",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://yamaichi-hagane.jp/ysblades/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Yamaichi_SS",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000152060.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yamaichi-hagane.jp/businesscontent/additivemanufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Yamaichi_SS",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.chukei-news.co.jp/news/2026/10/01/OK0002610010101_01/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "山一ハガネ 代理店 契約",
+   "results": [
+    "https://metoree.com/companies/45013/",
+    "https://yamaichi-hagane.jp/",
+    "https://x.com/Yamaichi_SS",
+    "https://www.instagram.com/yamaichiss/",
+    "https://www.projectdesign.jp/articles/39167455-3050-4d19-b465-a439eb15535b",
+    "https://ja.nc-net.or.jp/company/77348/",
+    "https://www.chukei-news.co.jp/news/2026/06/29/OK0002606290201_01/",
+    "https://prtimes.jp/main/html/rd/p/000000005.000152060.html",
+    "https://www.yamaichi.co.jp/aboutus/special/",
+    "https://yamaichi-hagane.jp/aboutus/"
+   ]
+  },
+  {
+   "query": "山一ハガネ 導入事例",
+   "results": [
+    "https://yamaichi-hagane.jp/wp/?paged=2&cat=10",
+    "https://yamaichi-hagane.rdy.jp/wp/?cat=2",
+    "https://x.com/Yamaichi_SS",
+    "https://yamaichi-hagane.jp/wp/?cat=10",
+    "https://www.instagram.com/yamaichiss/",
+    "https://ja.nc-net.or.jp/company/77348/",
+    "https://ps.nikkei.com/cisco2408/vol5.html",
+    "https://yamaichi-hagane.tank.jp/",
+    "https://www.kihan.co.jp/yamatoumi02/",
+    "https://yamaichi-hagane.jp/wp/?page_id=3206"
+   ]
+  },
+  {
+   "query": "山一ハガネ 価格 OR 料金",
+   "results": [
+    "https://yamaichi-hagane.jp/ysblades/",
+    "https://x.com/Yamaichi_SS",
+    "https://prtimes.jp/main/html/rd/p/000000003.000152060.html",
+    "https://yamaichi-hagane.rdy.jp/wp/?cat=2",
+    "https://yamaichi-hagane.tank.jp/businesscontent/toolsteel/",
+    "https://www.instagram.com/yamaichiss/",
+    "https://ridgelinetool.jp/",
+    "https://www.nikkan.co.jp/articles/view/791025",
+    "https://www.synchronous.jp/articles/-/3225",
+    "https://yamaichi-hagane.jp/"
+   ]
+  },
+  {
+   "query": "山一ハガネ 受託 造形",
+   "results": [
+    "https://yamaichi-hagane.jp/businesscontent/additivemanufacturing/",
+    "https://x.com/Yamaichi_SS",
+    "https://www.chukei-news.co.jp/news/2026/10/01/OK0002610010101_01/",
+    "https://ja.nc-net.or.jp/company/77348/",
+    "https://www.nikkan.co.jp/articles/view/768239",
+    "https://www.instagram.com/reel/CnyW6O0pibn/",
+    "https://prtimes.jp/main/html/rd/p/000000005.000152060.html",
+    "https://yamaichi-hagane.rdy.jp/wp/?cat=2",
+    "https://www.instagram.com/yamaichiss/",
+    "https://yamaichi-hagane.jp/"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）",
+  "事業内容": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）",
+  "取引先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）"
+ }
+}
