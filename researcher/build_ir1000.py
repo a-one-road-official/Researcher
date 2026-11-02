@@ -29,7 +29,7 @@ FIN = "https://kabutan.jp/stock/finance?code={code}"
 UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
 OUT = ROOT / "out" / "ir1000"
 CACHE = OUT / "screen.csv"
-FIELDS = ["code", "name", "market", "industry", "period", "sales_mil", "op_mil", "margin", "status"]
+FIELDS = ["code", "name", "market", "industry", "period", "sales_mil", "op_mil", "margin", "status", "tries"]
 
 
 EDINET_CODES = "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/codelist/Edinetcode.zip"
@@ -105,7 +105,7 @@ def _num(s) -> float | None:
         return None
 
 
-def latest_full_year(code: str) -> tuple[str, float | None, float | None, str]:
+def _kabutan(code: str) -> tuple[str, float | None, float | None, str]:
     """(決算期, 売上高, 営業益) of the latest actual full year, in 百万円."""
     import pandas as pd
 
@@ -143,6 +143,34 @@ def latest_full_year(code: str) -> tuple[str, float | None, float | None, str]:
     return "", None, None, "no_full_year"
 
 
+def _yahoo(code: str) -> tuple[str, float | None, float | None, str]:
+    """Latest full-year revenue / operating income from Yahoo Finance (via yfinance), in 百万円."""
+    try:
+        import yfinance as yf
+
+        t = yf.Ticker(f"{code}.T")
+        inc = t.income_stmt
+        if inc is None or inc.empty:
+            return "", None, None, "yahoo_empty"
+        col = inc.columns[0]
+        rev = next((inc.loc[k, col] for k in ("Total Revenue", "Operating Revenue") if k in inc.index), None)
+        op = next((inc.loc[k, col] for k in ("Operating Income", "Total Operating Income As Reported") if k in inc.index), None)
+        if rev is None or rev != rev:
+            return "", None, None, "yahoo_no_revenue"
+        op = None if (op is None or op != op) else float(op) / 1e6
+        return col.strftime("%Y.%m"), float(rev) / 1e6, op, "ok"
+    except Exception as e:
+        return "", None, None, f"yahoo_error:{type(e).__name__}"
+
+
+def latest_full_year(code: str):
+    r = _kabutan(code)
+    if r[3] == "ok":
+        return r
+    y = _yahoo(code)
+    return y if y[3] == "ok" else (r[0], r[1], r[2], f"{r[3]}|{y[3]}")
+
+
 def main(deadline_s: float = 4 * 3600) -> int:
     t0 = time.monotonic()
     OUT.mkdir(parents=True, exist_ok=True)
@@ -155,13 +183,14 @@ def main(deadline_s: float = 4 * 3600) -> int:
     new = 0
     try:
         for c in companies:
-            if c["code"] in done and done[c["code"]]["status"] == "ok":
+            if c["code"] in done and (done[c["code"]]["status"] == "ok" or done[c["code"]].get("tries") == "2"):
                 continue
             if time.monotonic() - t0 > deadline_s:
                 break
             period, s, o, status = latest_full_year(c["code"])
             margin = round(o / s, 4) if (s and o is not None) else ""
-            done[c["code"]] = {**c, "period": period, "sales_mil": s or "", "op_mil": "" if o is None else o,
+            tries = str(int(done.get(c["code"], {}).get("tries") or 0) + 1)
+            done[c["code"]] = {**c, "tries": tries, "period": period, "sales_mil": s or "", "op_mil": "" if o is None else o,
                                "margin": margin, "status": status}
             new += 1
             if new % 100 == 0:
@@ -173,7 +202,8 @@ def main(deadline_s: float = 4 * 3600) -> int:
             w.writeheader()
             for r in done.values():
                 w.writerow({k: r.get(k, "") for k in FIELDS})
-    tried = {c["code"] for c in companies} <= set(done)
+    ok = sum(1 for r in done.values() if r.get("status") == "ok")
+    tried = {c["code"] for c in companies} <= set(done) and ok >= len(companies) // 2
     print(f"new={new} tried_all={tried}", flush=True)
     if tried:
         write_input(done.values())
