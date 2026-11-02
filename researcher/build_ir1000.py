@@ -43,8 +43,15 @@ def listed() -> list[dict]:
             url = requests.compat.urljoin(JPX_PAGE, m.group(1))
     except Exception:
         pass
-    raw = requests.get(url, headers={"User-Agent": UA}, timeout=60).content
-    df = pd.read_excel(io.BytesIO(raw), dtype=str)
+    r = requests.get(url, headers={"User-Agent": UA, "Referer": JPX_PAGE}, timeout=60)
+    raw = r.content
+    print(f"jpx {url} status={r.status_code} type={r.headers.get('content-type')} bytes={len(raw)} head={raw[:60]!r}", flush=True)
+    if raw[:4] == b"\xd0\xcf\x11\xe0":
+        df = pd.read_excel(io.BytesIO(raw), dtype=str, engine="xlrd")
+    elif raw[:2] == b"PK":
+        df = pd.read_excel(io.BytesIO(raw), dtype=str, engine="openpyxl")
+    else:
+        df = pd.read_html(io.StringIO(raw.decode("utf-8", "ignore")))[0].astype(str)
     out = []
     for _, r in df.iterrows():
         market = str(r.get("市場・商品区分", ""))
