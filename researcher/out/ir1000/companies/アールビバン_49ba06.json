@@ -1,0 +1,919 @@
+{
+ "name": "アールビバン",
+ "aliases": [],
+ "context": "証券コード7523／小売業／スタンダード（内国株式）／2026.03期 売上高12,675百万円 営業利益率21.3%",
+ "researched_at": "2026-11-02T17:43:33.087936+00:00",
+ "official_url": "https://www.artvivant.co.jp/",
+ "identified_by": "search:yahoo_jp:アールビバン",
+ "profile": {
+  "設立": [
+   {
+    "label": "創立",
+    "value": "1984年11月24日",
+    "url": "https://www.artvivant.co.jp/company/overview/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "連結296名（単体208名）（2026年3月31日現在）",
+    "url": "https://www.artvivant.co.jp/company/overview/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "お客様の心豊かで健康な生活に寄り添い、「夢」や「感動」を提供しつづけます",
+    "url": "https://www.artvivant.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "一人でも多くのお客様に夢や希望を感じてもらえるよう経営を行ってまいります",
+    "url": "https://www.artvivant.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "銀座の老舗画廊などによるアートビジネスの主流は、重厚感のある価値の定まったヨーロッパの原画作品が中心であったが、家庭向きでインテリア性の高い版画を中心にしたアールビバンの商品構成は多くのユーザーに受け入れられ始め、その営業スタイルは",
+    "url": "https://www.artvivant.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "作家から直接仕入れ、お客様にお届けするアールビバンの新しいビジネススタイルが生まれる",
+    "url": "https://www.artvivant.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "多くのお客様へ、迅速かつ確実に",
+    "url": "https://www.artvivant.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "その認定基準は、社会的ニーズへの対応、成長性と安定感のある経営、販売方法・顧客対応の正当性などで、アート関連業界では名実ともにリーディングカンパニーとなり現在に至る",
+    "url": "https://www.artvivant.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "イラスト系作家の特別顧客優待展",
+    "url": "https://www.artvivant.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "業界で唯一となる自社一貫システムを導入しており、迅速かつ確実に価値のある作品をリーズナブルな価格でお客様にお届けすることを実現しました",
+    "url": "https://www.artvivant.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "ファイナンス事業では、お客様の満足、豊かな生活の実現をお手伝いし、社会への貢献を目指します",
+    "url": "https://www.artvivant.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "販売形態としては、日本各地で自社主催の展示会・催事販売を積極的に開催し、これにより全国規模で顧客に作品を提供しています",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "この垂直統合型の事業モデルにより、顧客対応の品質向上やコスト管理の徹底が可能となり、他社が模倣しにくいサービス水準を実現しています",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "これらの取り組みは、美術品ビジネスにIT技術を組み合わせることで新たな需要を開拓しようとする試みであり、伝統的なギャラリーが対応しきれない顧客層（若年層へのアプローチやネット経由の販売等）を取り込む狙いが伺えます",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "出版・メディア事業は美術品販売と相乗効果があり、新規顧客の掘り起こしや作家のブランディングに貢献しています",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "同社は美術品をお持ちの個人・法人から出張査定・買取を行い、買い取った作品を次の顧客へ届ける役割を果たしています",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "この買取・流通事業により、アールビバンは作家の新作だけでなく過去に販売した作品の再販流通にも関与でき、作品の市場価値維持や顧客の資産形成支援に寄与しています",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "ダブルラック社は個別信用購入あっせん事業（個品割賦販売の信用供与）および小口融資事業を行っており、高額商品の購入時に顧客が分割払い・ローンを利用できるよう支援するクレジットパートナーです",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "元来は美術品販売に付随して、「アートを購入したいが一括では難しい」という顧客に対し自社で分割払いの枠を提供する目的で設立されたものと推察されます（実際、1995年に同社は関連会社として「株式会社アートファイナンス」を設立しており、これが現在のダブルラックの源流と考えられます ）",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "割賦払いを利用する顧客からの分割手数料（金利）や、加盟店からの斡旋手数料を得ることで利益を上げています",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "高額な美術品は購入のハードルが高いため、自社で分割払いオプションを用意することで顧客の購買意欲を喚起し、販売機会を最大化できるからです",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "また、自社で顧客の支払い状況データを蓄積できるため、富裕層顧客の信用リスクを精緻に分析し、長期的な関係構築にも活用できます",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "この結果、デトックス効果や美肌・ダイエットへの寄与といった付加価値も期待でき、実際に利用者の94%が「心と身体の変化」を実感したとの調査結果もあるとされています",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "2020年には男女兼用スタジオも開設して顧客層を広げています",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、アミーダは**「溶岩ヨガ」という差別化ポイント**で根強い支持を得ており、高付加価値志向の顧客層（美容や健康意識の高い30～50代女性など）を中心に熱烈なファンを獲得しています",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "この技術により、利用者が安心して溶岩ヨガを体験できる環境を実現しており、遠赤外線の効果で身体を芯から温めつつ呼吸しやすい快適空間をつくり出すことに成功しています",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "サービスと顧客コミュニティ：アミーダは単にヨガの場を提供するだけでなく、「Hot Yoga Lifeをもっと身近に楽しんでもらいたい」という思いから地域に根ざしたコミュニティ形成を掲げています",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "このように美容・健康産業でクロスセルを狙うことで、一加盟者あたりの顧客生涯価値（LTV）の向上を図っています",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、アート事業との親和性として、「豊かな生活」提案の一環で顧客に心身の健康も提供できる点はユニークであり、富裕層顧客のホリスティックなライフスタイル支援という観点でクロスセールスの可能性もあります",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、株主、顧客、従業員等のステークホルダーにとっての企業価値を最大化するため、企業経営の透明性および健全性を確保す",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20240430_archive/ep3hf5/140120240430579409.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人権の尊重、従業員の健康・労働環境への配慮や公正・適切な処遇、取引先との公正・適正な取引、自然災害等への",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20240430_archive/ep3hf5/140120240430579409.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "適切な処遇、取引先との公正・適正な取引、自然災害等への危機管理など様々なサステナビリティを巡る課題への",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20240430_archive/ep3hf5/140120240430579409.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "取引先との公正・適正な取引、自然災害等への危機管理など様々なサステナビリティを巡る課題への対応の方針や",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20240430_archive/ep3hf5/140120240430579409.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "d 上場会社を主要な取引先とする者又はその業務執行者",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20240430_archive/ep3hf5/140120240430579409.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "e 上場会社の主要な取引先又はその業務執行者",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20240430_archive/ep3hf5/140120240430579409.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "h 上場会社の取引先（d、e及びｆのいずれにも該当しないもの）の業務執行者（本人のみ）",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20240430_archive/ep3hf5/140120240430579409.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "f 上場会社を主要な取引先とする者又はその業務執行者",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20240430_archive/ep3hf5/140120240430579409.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "g 上場会社の主要な取引先又はその業務執行者",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20240430_archive/ep3hf5/140120240430579409.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "j 上場会社の取引先（f、g及びhのいずれにも該当しないもの）の業務執行者（本人のみ）",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20240430_archive/ep3hf5/140120240430579409.pdf",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年10月22日（木）、お電話でのお問い合わせの一時休止について",
+    "url": "https://www.artvivant.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1984年の創業以来、物故作家の版画のみならず、国内外の多くの作家・イラストレーターを発掘、広めてまいりました",
+    "url": "https://www.artvivant.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "1984年11月24日",
+    "url": "https://www.artvivant.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | ARTVIVANT | アールビバン",
+    "url": "https://www.artvivant.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年にリャド財団と交わした正式契約の元、未公開原画の初披露を実現した",
+    "url": "https://www.artvivant.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年大好評を博したFAIRY TAIL 版画展",
+    "url": "https://www.artvivant.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月20日臨時株主総会招集ご通知",
+    "url": "https://www.artvivant.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年11月10日 20:40",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "1984年設立、1996年に株式上場され、現在は東京証券取引所スタンダード市場に上場しています",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "また自社運営の常設ギャラリーも保有し、銀座や渋谷をはじめとする都市圏でギャラリー展開を行ってきました（沿革上、1986年に銀座、1990年に渋谷本店に直営ギャラリー開設）",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月期には、美術品販売が好調であったことに加え、金融事業でも与信管理の強化により貸倒費用を抑制したことで、2期連続の増収増益を達成しました （連結売上高110.06億円・営業利益23.64億円、前期比それぞれ+2.6%、+5.2% ）",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "2016年にはグループ再編でヨガ事業専業会社としてTSCホリスティック株式会社を設立し、本格的にホットヨガスタジオ「アミーダ」の店舗展開を開始しています",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "2020年には男女兼用スタジオも開設して顧客層を広げています",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "2023年３月期の当社の会計監査業務を執行した公認会計士は、今井 修二、伊藤 晶久であり、アスカ監査法人に所属しております",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20240430_archive/ep3hf5/140120240430579409.pdf",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "創業から現在に至るまで、アールビバンの歩みをご紹介します",
+    "url": "https://www.artvivant.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "比較的に高額で、コレクターが限られる油彩などの原画が中心の絵画市場に対し、オリジナル版画作品の稀少性と美術的価値、多くの人々にとって充分に手が届く価格、という版画ならではの魅力を紹介し、新たに",
+    "url": "https://www.artvivant.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "これ以降、大型店舗「ギャラリー・ミューゼ」及び地域密着型店舗「アートスクエア」の直営店舗のネットワークを展開する",
+    "url": "https://www.artvivant.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "※「ギャラリー・ミューゼ 渋谷本店」はじめ、ギャラリー・ミューゼ各店舗、アートスクエア各店舗は2007年をもちまして営業を終了しております",
+    "url": "https://www.artvivant.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "※「手塚治虫ワールドアートスクエア」各店舗は2005年に営業を終了いたしました",
+    "url": "https://www.artvivant.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "以降、名古屋、大阪、福岡等の主要都市に店舗を広げる",
+    "url": "https://www.artvivant.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "の日本総代理店として",
+    "url": "https://www.artvivant.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "／ヨーロッパの新進アーティストを発掘・紹介するプロジェクト",
+    "url": "https://www.artvivant.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "イラスト系アートグッズの拡充とディズニーブランドの紹介",
+    "url": "https://www.artvivant.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、幅広い世代に人気の高いディズニーをモチーフとした作品の紹介が可能となり、",
+    "url": "https://www.artvivant.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1都3県への展開により、10店舗超に拡大",
+    "url": "https://www.artvivant.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "の全国展開規模が30店舗超に拡大",
+    "url": "https://www.artvivant.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "アールビバンの事業についてご紹介します",
+    "url": "https://www.artvivant.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに2002年にはマルク・シャガールの限定版リトグラフ（A.I.L＝Authorized Interpretation Lithograph）の日本唯一の総代理店契約を締結 、2003年にはディズニー・ファインアートの正規代理店となる契約を結ぶなど 、一流アーティストや人気コンテンツとの独占販売契約を次々と獲得してきました",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "ダブルラック社は個別信用購入あっせん事業（個品割賦販売の信用供与）および小口融資事業を行っており、高額商品の購入時に顧客が分割払い・ローンを利用できるよう支援するクレジットパートナーです",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "このようなIT技術の活用により、同社は中小規模の販売店にとって使い勝手の良い割賦プラットフォームを構築し、信用供与ビジネスの展開領域を広げています",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "2016年にはグループ再編でヨガ事業専業会社としてTSCホリスティック株式会社を設立し、本格的にホットヨガスタジオ「アミーダ」の店舗展開を開始しています",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "店舗展開状況：アミーダは関東を中心に全国へ店舗網を拡大しており、2018年には全国で30店舗超を展開 、2019年にはヨガインストラクター養成施設「アミーダヨガアカデミー」を開設するなど事業基盤を固めました",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "直近の店舗数は公式発表ベースでは明らかでないものの、溶岩ホットヨガ専門店としては国内最多の店舗数を誇るとされています",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、日本全体のホットヨガ市場で見ると、競合である「ホットヨガスタジオLAVA」が2025年現在で全国47都道府県に440店舗以上を展開しており、日本最大級のチェーンとなっています",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "指名や報酬決定のプロセス、審議内容等は公正かつ透明性の高い手続きに従い、",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20240430_archive/ep3hf5/140120240430579409.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【補充原則4-10① 指名委員会・報酬委員会】",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20240430_archive/ep3hf5/140120240430579409.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経営陣幹部・取締役の指名・報酬などに係る取締役会の機能の独立性・客観性と説明責任を強化するため、独立社外取締役に事前説明を行",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20240430_archive/ep3hf5/140120240430579409.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "い、適切な関与・助言を受けた上で、指名・報酬に関する事項を決定します",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20240430_archive/ep3hf5/140120240430579409.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・当社グループである、ヨガ事業の店舗スタッフは全員女性のため、管理職は100％女性となります",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20240430_archive/ep3hf5/140120240430579409.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "指名委員会又は報酬委員会に相当する",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20240430_archive/ep3hf5/140120240430579409.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．業務執行、監査・監督、指名、報酬決定等の機能に係る事項（現状のコーポレート・ガバナンス体制の概要）",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20240430_archive/ep3hf5/140120240430579409.pdf",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "銀座の老舗画廊などによるアートビジネスの主流は、重厚感のある価値の定まったヨーロッパの原画作品が中心であったが、家庭向きでインテリア性の高い版画を中心にしたアールビバンの商品構成は多くのユーザーに受け入れられ始め、その営業スタイルは",
+    "url": "https://www.artvivant.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "これによりアールビバンの流通における自社一貫システム（仕入れ、検品、額装、納品、アフターサービス）の基盤が完成する",
+    "url": "https://www.artvivant.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "が携帯電話の待受け画像サービス",
+    "url": "https://www.artvivant.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "[4月]インテリア商品、ステーショナリーの分野でサンリオなど企業提携によるコラボレーションを幅広く行う人気イラストレーター、",
+    "url": "https://www.artvivant.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "アールビバン株式会社（以下、アールビバン）は、版画や絵画などの美術品販売を主力としつつ、金融サービス事業および健康産業事業（ホットヨガ）を展開する企業です",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "金融サービス事業 – 個別信用購入あっせん事業および融資事業",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "以下、それぞれの事業内容や製品・サービス、技術的特徴について詳述します",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "同社はアーティストの発掘・育成・プロデュースから、作品の商品化企画、契約交渉、仕入れ、額装（フレーミング）、販売、納品、さらには購入後のアフターサービスに至るまで、自社内で完結する体制を敷いています",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "この垂直統合型の事業モデルにより、顧客対応の品質向上やコスト管理の徹底が可能となり、他社が模倣しにくいサービス水準を実現しています",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、美術品購入者への長期的なアフターサービス（作品のメンテナンス相談や下取り・買い替えサポートなど）も自社で提供し、リピーターの囲い込みに成功しています",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "子会社の一つであるインターナショナル・オークション・システムズ株式会社は、屋号「総合美術買取センター」として絵画・美術品の買い取りサービスを展開しています",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "金融サービス事業（ダブルラックによる個品割賦・融資）",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "アールビバンの金融サービス事業は、子会社の株式会社ダブルラックを中核として展開されています",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "ダブルラック社は個別信用購入あっせん事業（個品割賦販売の信用供与）および小口融資事業を行っており、高額商品の購入時に顧客が分割払い・ローンを利用できるよう支援するクレジットパートナーです",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "サービス内容と技術：ダブルラックは加盟店（提携小売業者）からの信用購入あっせん依頼を受け、購入者に代わって代金を立替払し、購入者から分割払いで回収するビジネスモデルです",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "収益モデルと規模：金融サービス事業の収益源は、主に手数料収入や利息収入です",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "アールビバンの2025年3月期連結決算におけるセグメント別売上高を見ると、金融サービス事業の売上高は約16.67億円で全体の15.5%を占めており 、美術品販売（約80.92億円、75.2%）に次ぐ第二の柱となっています",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "金融事業の付加価値：アールビバンにとって、金融サービス事業は単独で利益を上げるだけでなく、本業であるアート販売の促進剤として大きな役割を果たしています",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、金融事業自体も美術以外の分野（例えば宝飾品、高額な健康機器、教育サービス費用など）に適用可能で、実際に美術以外の加盟店開拓も行っているようです",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "このように金融サービス事業は、グループ全体にとって収益面でも戦略面でも経済的な堀（後述）を深める役割を果たしています",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "サービスと顧客コミュニティ：アミーダは単にヨガの場を提供するだけでなく、「Hot Yoga Lifeをもっと身近に楽しんでもらいたい」という思いから地域に根ざしたコミュニティ形成を掲げています",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "また、ヨガだけでなく関連するヘルスケア商品の提供にも乗り出しており、例えばアミーダでは独自開発の高吸収型サプリメント（特許取得済み技術を応用した栄養補助食品）を販売するなど、トータルな健康サポートを志向しています",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "アミーダ事業はこの伸長するマーケットで高付加価値サービスを武器にシェア拡大のポテンシャルを秘めています",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "当社のサステナビリティの取り組みにつきましては、当社が行うアート関連事業、健康関連事業を中心とした事業活動及び商品、サービスがど",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20240430_archive/ep3hf5/140120240430579409.pdf",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "サービス内容と技術：ダブルラックは加盟店（提携小売業者）からの信用購入あっせん依頼を受け、購入者に代わって代金を立替払し、購入者から分割払いで回収するビジネスモデルです",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "収益モデルと規模：金融サービス事業の収益源は、主に手数料収入や利息収入です",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "取り扱い作家と独占契約：アールビバンは国内外の著名アーティストと販売契約・ライセンス契約を結び、独占的な販売権を確保している点が特徴です",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "収益モデルと規模：金融サービス事業の収益源は、主に手数料収入や利息収入です",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "割賦払いを利用する顧客からの分割手数料（金利）や、加盟店からの斡旋手数料を得ることで利益を上げています",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "過去に２度ストックオプションを実施したが、結果的にほとんど行使できなかったため、現在は様子を見ております",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20240430_archive/ep3hf5/140120240430579409.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ストックオプションの付与対象者",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20240430_archive/ep3hf5/140120240430579409.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年額300百万円以内（使用人兼務取締役の使用人分給与は含まない）（2023年６月23日開催の第39期株主総会にて、",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20240430_archive/ep3hf5/140120240430579409.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年額200百万円以内から年額300百万円以内へと改定）とする",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20240430_archive/ep3hf5/140120240430579409.pdf",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "会社概要と事業セグメント",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "グループ全体では、親会社のアールビバンと連結子会社4社（非連結子会社2社）で構成され 、主要な事業セグメントは以下の3つです ：",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "アールビバンの2025年3月期連結決算におけるセグメント別売上高を見ると、金融サービス事業の売上高は約16.67億円で全体の15.5%を占めており 、美術品販売（約80.92億円、75.2%）に次ぐ第二の柱となっています",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "直近年度のセグメント利益では、金融事業は営業利益ベースで約11.48億円を稼ぎ出し、美術品販売事業（約12.30億円）に匹敵する水準となりました",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "まだ全社への利益貢献度は限定的で、2024年3月期は約0.64億円のセグメント損失を計上するなど投資回収途上の段階です",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "グループ会社のセグメント別の事業に関して責任を負う取締役を任命し法令遵守体制を構築する権限と責任を与え、管理部はこれらを横断的",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20240430_archive/ep3hf5/140120240430579409.pdf",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "アールビバン（7523）事業分析と競争優位・成長予測｜ようじ",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "アールビバン（7523）事業分析と競争優位・成長予測",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、アールビバンは他社では入手困難な作品を扱う強みを持っています",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "また「オークション」と社名にありますが、現状は査定買取による在庫化と再販売が中心で、公開競売形式のオークション開催についての言及は確認できません",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "売上規模に対する利益率が極めて高く（粗利率・営業利益率が高水準）、貸倒引当金などのコントロール次第では安定的な収益源となっています",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "経済的な堀（Economic Moat）の強みと競合優位性",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "アールビバン （7523）事業分析と競争優位・成長予測 - note — アールビバン （7523）事業分析と競争優位・成長予測 - note note https://note.com > アート・デザイン > アート・デザイン",
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容 | ARTVIVANT - アールビバン — 事業内容 | ARTVIVANT - アールビバン アールビバン https://www.artvivant.co.jp > service",
+    "url": "https://www.artvivant.co.jp/service/",
+    "pass": 3
+   },
+   {
+    "quote": "「弱み： ビジネスモデル が古い... アールビバン OpenWork — 「弱み： ビジネスモデル が古い... アールビバン OpenWork OpenWork https://www.openwork.jp > ... > 強み・弱み・展望",
+    "url": "https://www.openwork.jp/one_answer.php?vid=a0A1000001ImuAa&qco=9",
+    "pass": 3
+   },
+   {
+    "quote": "アールビバン 株式会社 | ロール モデル 就活・転職サイト ... — アールビバン 株式会社 | ロール モデル 就活・転職サイト ... タレントブック・ストーリー https://www.talent-book.jp > artvivant",
+    "url": "https://www.talent-book.jp/artvivant",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリー | ARTVIVANT - アールビバン — IRライブラリー | ARTVIVANT - アールビバン アールビバン https://www.artvivant.co.jp > library",
+    "url": "https://www.artvivant.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 | ARTVIVANT - アールビバン — IR情報 | ARTVIVANT - アールビバン アールビバン https://www.artvivant.co.jp > ...",
+    "url": "https://www.artvivant.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "【 アールビバン 】[7523]IR情報 中期経営計画や 決算 短信 | 日経 ... — 【 アールビバン 】[7523]IR情報 中期経営計画や 決算 短信 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=7523",
+    "pass": 3
+   },
+   {
+    "quote": "アールビバン （7523）のIR情報・ 決算資料 - IRBANK — アールビバン （7523）のIR情報・ 決算資料 - IRBANK IRBANK https://irbank.net > アールビバン",
+    "url": "https://irbank.net/7523/ir",
+    "pass": 3
+   },
+   {
+    "quote": "アールビバン 【7523】 決算 ・業績情報 - Moomoo — アールビバン 【7523】 決算 ・業績情報 - Moomoo Moomoo https://www.moomoo.com > stock > earnings",
+    "url": "https://www.moomoo.com/ja/stock/7523-JP/earnings",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | ARTVIVANT - アールビバン — 会社概要 | ARTVIVANT - アールビバン アールビバン https://www.artvivant.co.jp > company > overview",
+    "url": "https://www.artvivant.co.jp/company/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "アールビバン 株式会社 — アールビバン 株式会社 日本経済新聞 PDF https://www.nikkei.com > tdnr > 20240430_archive",
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20240430_archive/ep3hf5/140120240430579409.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "アールビバン 【7523】の 事業 内容 - キタイシホン — アールビバン 【7523】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/7523/business",
+    "pass": 3
+   },
+   {
+    "quote": "アールビバン 株式会社 様 — アールビバン 株式会社 様 株式会社ビジュアル・プロセッシング・ジャパン https://www.vpj.co.jp > case > detail > interview",
+    "url": "https://www.vpj.co.jp/case/detail/interview.html?cid=artvivant",
+    "pass": 3
+   },
+   {
+    "quote": "アールビバン 株式会社 — 有価証券報告書テキスト（最新） — アールビバン 株式会社 — 有価証券報告書テキスト（最新） EDINET DB https://edinetdb.jp > 小売業 > アールビバン株式会社",
+    "url": "https://edinetdb.jp/company/E03276/text",
+    "pass": 3
+   },
+   {
+    "quote": "社長 - ARTVIVANT | アールビバン — 社長 - ARTVIVANT | アールビバン アールビバン https://www.artvivant.co.jp > company > message",
+    "url": "https://www.artvivant.co.jp/company/message/",
+    "pass": 3
+   },
+   {
+    "quote": "アールビバン 、 社長 に野澤克巳（のざわ・かつみ）氏 | 人物 ... — アールビバン 、 社長 に野澤克巳（のざわ・かつみ）氏 | 人物 ... 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/385090",
+    "pass": 3
+   },
+   {
+    "quote": "アールビバン社長 に野沢氏 - 日本経済新聞 — アールビバン社長 に野沢氏 - 日本経済新聞 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXLASDZ12HQU_S6A510C1TJC000/",
+    "pass": 3
+   },
+   {
+    "quote": "アールビバン 【7523】の 社長 ・役員 - キタイシホン — アールビバン 【7523】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/7523/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "【 アールビバン 社員 インタビュー 】新しい会場を開拓する情熱 — 【 アールビバン 社員 インタビュー 】新しい会場を開拓する情熱 Wantedly https://www.wantedly.com > ... > ストーリー",
+    "url": "https://www.wantedly.com/companies/company_8375325/post_articles/907952",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.artvivant.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.artvivant.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.artvivant.co.jp/company/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.artvivant.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.artvivant.co.jp/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.artvivant.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.artvivant.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.artvivant.co.jp/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.artvivant.co.jp/irnews/%E6%A0%AA%E5%BC%8F%E4%BD%B5%E5%90%88%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%85%AC%E5%91%8A/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.artvivant.co.jp/irnews/%E8%87%A8%E6%99%82%E6%A0%AA%E4%B8%BB%E7%B7%8F%E4%BC%9A%E6%B1%BA%E8%AD%B0%E3%81%94%E9%80%9A%E7%9F%A5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.artvivant.co.jp/irnews/%E6%A0%AA%E5%BC%8F%E4%BD%B5%E5%90%88%E4%B8%A6%E3%81%B3%E3%81%AB%E5%8D%98%E5%85%83%E6%A0%AA%E5%BC%8F%E6%95%B0%E3%81%AE%E5%AE%9A%E3%82%81%E3%81%AE%E5%BB%83%E6%AD%A2%E5%8F%8A%E3%81%B3%E5%AE%9A%E6%AC%BE-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.artvivant.co.jp/irnews/%E6%A0%AA%E5%BC%8F%E3%81%AE%E4%BD%B5%E5%90%88%E3%81%AB%E4%BF%82%E3%82%8B%E4%BA%8B%E5%89%8D%E9%96%8B%E7%A4%BA%E4%BA%8B%E9%A0%85/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20240430_archive/ep3hf5/140120240430579409.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/385090",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "アールビバン",
+   "results": [
+    "https://www.artvivant.co.jp/",
+    "https://artvivant-event.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%83%AB%E3%83%93%E3%83%90%E3%83%B3",
+    "https://www.instagram.com/artvivant_net/",
+    "https://artvivant-event.jp/event/?search=1",
+    "https://www.youtube.com/@%E3%82%A2%E3%83%BC%E3%83%AB%E3%83%93%E3%83%90%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%85%AC%E5%BC%8F",
+    "https://ja.wikipedia.org/wiki/アールビバン",
+    "https://www.artvivant.co.jp/ir/",
+    "https://finance.yahoo.co.jp/quote/7523.T",
+    "https://www.youtube.com/@アールビバン株式会社公式"
+   ]
+  },
+  {
+   "query": "アールビバン ビジネスモデル",
+   "results": [
+    "https://note.com/kakuka0904/n/n3059a8b3fe2d",
+    "https://www.artvivant.co.jp/service/",
+    "https://www.openwork.jp/one_answer.php?vid=a0A1000001ImuAa&qco=9",
+    "https://www.talent-book.jp/artvivant",
+    "https://strainer.jp/notes/4045",
+    "https://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3015878993/",
+    "https://kitaishihon.com/company/7523/business",
+    "https://www.workport.co.jp/details/750115604/407916760/",
+    "https://vis-produce.com/projects/branding/workplace-design/464",
+    "https://ja.wikipedia.org/wiki/アールビバン"
+   ]
+  },
+  {
+   "query": "アールビバン 決算説明資料",
+   "results": [
+    "https://www.artvivant.co.jp/ir/library/",
+    "https://www.artvivant.co.jp/ir/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=7523",
+    "https://irbank.net/7523/ir",
+    "https://www.moomoo.com/ja/stock/7523-JP/earnings",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260731505913",
+    "https://kabuyoho.jp/sp/report?bcode=7523",
+    "https://www.arclands.co.jp/ja/ir/library/result.html",
+    "https://edinetdb.jp/company/E03276/presentations/",
+    "https://treelazy.com/stock-jp/7523"
+   ]
+  },
+  {
+   "query": "アールビバン 事業系統図",
+   "results": [
+    "https://www.artvivant.co.jp/company/overview/",
+    "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20240430_archive/ep3hf5/140120240430579409.pdf",
+    "https://kitaishihon.com/company/7523/business",
+    "https://www.vpj.co.jp/case/detail/interview.html?cid=artvivant",
+    "https://edinetdb.jp/company/E03276/text",
+    "https://www.wantedly.com/companies/company_8375325/about",
+    "https://vis-produce.com/projects/branding/workplace-design/464",
+    "https://artvivant-event.jp/",
+    "https://www.tkc.jp/consolidate/case/artvivant",
+    "https://ja.wikipedia.org/wiki/アールビバン"
+   ]
+  },
+  {
+   "query": "アールビバン 社長 インタビュー",
+   "results": [
+    "https://www.artvivant.co.jp/company/message/",
+    "https://www.nikkan.co.jp/articles/view/385090",
+    "https://www.nikkei.com/article/DGXLASDZ12HQU_S6A510C1TJC000/",
+    "https://kitaishihon.com/company/7523/board-of-director",
+    "https://www.wantedly.com/companies/company_8375325/post_articles/907952",
+    "https://www.dodadsj.com/content/200709_artvivant/",
+    "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%83%AB%E3%83%93%E3%83%90%E3%83%B3",
+    "https://ppc-master.jp/case/interview/artvivant/artvivant01/",
+    "https://www.aokisatoshi.com/245",
+    "https://www.facebook.com/artvivant/posts/弊社代表の野澤が藤沢久美の社長talkにてインタビューを受けましたアールビバンが掲げる理念を創業者である野澤自ら語っております是非ご覧くださいhttpswwwf/1652368638130540/"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部3頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部3頁・検索5回）"
+ }
+}

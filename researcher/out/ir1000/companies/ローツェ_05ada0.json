@@ -1,0 +1,1497 @@
+{
+ "name": "ローツェ",
+ "aliases": [],
+ "context": "証券コード6323／機械／プライム（内国株式）／2026.02期 売上高128,794百万円 営業利益率24.2%",
+ "researched_at": "2026-11-02T17:45:15.631871+00:00",
+ "official_url": "https://www.rorze.com/",
+ "identified_by": "search:yahoo_jp:ローツェ",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1985年3月30日",
+    "url": "https://www.rorze.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "label": "創業年",
+    "value": "1985年3月",
+    "url": "https://cregio.jp/column/interview_rorze/",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "69,754百万円、連結：128,794百万円（2026年2月期）",
+    "url": "https://www.rorze.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "label": "売上高 （百万円）",
+    "value": "連 67,004 94,518 93,247 124,406 128,794",
+    "url": "https://www.rorze.com/ir/finance/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "半導体・FPD関連装置等 自動化装置の開発設計・製造・販売 半導体関連装置 当社の売上の半分以上を占める主力事業です。低発塵で高スループット、高い信頼性をもつシステムで、お客様の半導体製造ラインを支えます。 FPD関連装置 半導体関連装置で培った確かな技術により高スループット、高信頼性のシステムを実現します。 分析装置 半導体製造工程における金属汚染管理は非常に重要であり、Siウエハ中の金属不純物をICP-MS（誘導結合プラズマ質量分析法）で自動分析します。 ライフサイエンス関連装置 創薬・再生医療に必要な細胞培養操作において、インキュベーター（細胞培養装置）やソフトウエアパッケージによる効率化、自動化を実現します。 モータ制御機器 小型で信頼性が高く、高機能な製品です。当社の半導体・FPD関連装置は当社の制御製品が支えています。",
+    "url": "https://www.rorze.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "半導体・FPD関連装置・ライフサイエンス関連装置・モーター制御機器等の自動化装置の開発設計・製造・販売",
+    "url": "https://cregio.jp/column/interview_rorze/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "362名、連結：4,551名 ※2026年2月末現在、 臨時従業員及び再雇用従業員の年間平均雇用人員含む",
+    "url": "https://www.rorze.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "239名、連結：3,894名（2023年11月末現在）",
+    "url": "https://cregio.jp/column/interview_rorze/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "ライフサイエンス関連製品",
+    "url": "https://www.rorze.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトウェアソリューション",
+    "url": "https://www.rorze.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報をみる",
+    "url": "https://www.rorze.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ライフサイエンス関連製品",
+    "url": "https://www.rorze.com/company/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトウェアソリューション",
+    "url": "https://www.rorze.com/company/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "ライフサイエンス関連製品",
+    "url": "https://www.rorze.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトウェアソリューション",
+    "url": "https://www.rorze.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の売上の半分以上を占める主力事業です",
+    "url": "https://www.rorze.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "小型で信頼性が高く、高機能な製品です",
+    "url": "https://www.rorze.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の半導体・FPD関連装置は当社の制御製品が支えています",
+    "url": "https://www.rorze.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "ライフサイエンス関連製品",
+    "url": "https://www.rorze.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトウェアソリューション",
+    "url": "https://www.rorze.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ニューフロンティア賞 大賞・優秀製品賞受賞",
+    "url": "https://www.rorze.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「Scale120」（スケール120）を製品化",
+    "url": "https://www.rorze.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "スカラ型ロボットの特許および、それを活かした製品開発によって半導体産業の飛躍的発展に寄与したとして社長崎谷文雄が受賞",
+    "url": "https://www.rorze.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "組織染色および遺伝子機能解析に関する研究受託、機器およびISH関連商品の販売をおこなう東京のジェノスタッフ株式会社を子会社化(ローツェライフサイエンス株式会社の子会社化)",
+    "url": "https://www.rorze.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ライフサイエンス関連製品",
+    "url": "https://www.rorze.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトウェアソリューション",
+    "url": "https://www.rorze.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "ライフサイエンス関連製品",
+    "url": "https://www.rorze.com/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトウェアソリューション",
+    "url": "https://www.rorze.com/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "ライフサイエンス関連製品",
+    "url": "https://www.rorze.com/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトウェアソリューション",
+    "url": "https://www.rorze.com/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "急激な需要変動、原材料価格の上昇、特定サプライヤーの生産障害・品質問題、物流制約（港湾混雑・航路混乱等）により、納期遅延・コスト上昇・必要量の不足が発生した場合、また世界情勢の変化にともない、エネルギー及び石油製品等のコスト上昇や供給問題が発生した場合には、当社の業績に影響を及ぼす可能性があります",
+    "url": "https://www.rorze.com/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは独自技術に基づき製品開発を行い特許出願を進めていますが、国・地域により知的財産保護水準が異なり、第三者から侵害主張・訴訟を受ける可能性、逆に当社権利の保護が十分に及ばない可能性があります",
+    "url": "https://www.rorze.com/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、「世の中にないものをつくる」を合言葉に新製品の開発に取り組んでおります",
+    "url": "https://www.rorze.com/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "新製品を素早く市場投入することで高い利益率を確保できてきました",
+    "url": "https://www.rorze.com/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、市場性を見極め新製品開発のスピードアップを図り、顧客要求に対応してまいります",
+    "url": "https://www.rorze.com/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "製品品質による影響",
+    "url": "https://www.rorze.com/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "これに対し当社グループでは、安定した品質を生みだすために、国際規格ＩＳＯ9001を認証取得し、マネジメントシステムの継続的な改善と向上に努めるとともに、定められた品質システムを遵守し、高品質な製品の供給に努めています",
+    "url": "https://www.rorze.com/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "これに対し当社グループでは、省エネ・長寿命設計による製品開発や再生可能エネルギー導入を通じ、環境負荷低減を推進し、製造工程の効率化を進めます",
+    "url": "https://www.rorze.com/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "ライフサイエンス関連製品",
+    "url": "https://www.rorze.com/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトウェアソリューション",
+    "url": "https://www.rorze.com/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "ライフサイエンス関連製品",
+    "url": "https://www.rorze.com/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトウェアソリューション",
+    "url": "https://www.rorze.com/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "ライフサイエンス関連製品",
+    "url": "https://www.rorze.com/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトウェアソリューション",
+    "url": "https://www.rorze.com/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "ライフサイエンス関連製品",
+    "url": "https://www.rorze.com/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトウェアソリューション",
+    "url": "https://www.rorze.com/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "ライフサイエンス関連製品",
+    "url": "https://www.rorze.com/ir/stockinfo/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトウェアソリューション",
+    "url": "https://www.rorze.com/ir/stockinfo/",
+    "pass": 1
+   },
+   {
+    "quote": "EDINET（金融商品取引法に基づく有価証券報告書等の開示書類に関する電子開示システム）",
+    "url": "https://www.rorze.com/ir/stockinfo/",
+    "pass": 1
+   },
+   {
+    "quote": "ライフサイエンス関連製品",
+    "url": "https://www.rorze.com/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトウェアソリューション",
+    "url": "https://www.rorze.com/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "Q どのような製品を販売しているのですか？",
+    "url": "https://www.rorze.com/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "ライフサイエンス関連製品",
+    "url": "https://www.rorze.com/ir/disclaimer/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトウェアソリューション",
+    "url": "https://www.rorze.com/ir/disclaimer/",
+    "pass": 1
+   },
+   {
+    "quote": "ライフサイエンス関連製品",
+    "url": "https://www.rorze.com/ir/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトウェアソリューション",
+    "url": "https://www.rorze.com/ir/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、株主及び投資家の皆様に対して公正かつ正確な情報を適宜提供するために、金融商品取引法等の関係法令及び東京証券取引所の定める適時開示規則に沿って情報開示を行います",
+    "url": "https://www.rorze.com/ir/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "また、有価証券報告書等の法定開示書類は、「金融商品取引法に基づく有価証券報告書等の開示書類に関する電子開示システム（EDINET）」を通じて公表しております",
+    "url": "https://www.rorze.com/ir/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "ライフサイエンス関連製品",
+    "url": "https://www.rorze.com/ir/denshikoukoku/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトウェアソリューション",
+    "url": "https://www.rorze.com/ir/denshikoukoku/",
+    "pass": 1
+   },
+   {
+    "quote": "ライフサイエンス関連製品",
+    "url": "https://www.rorze.com/news/2026/08/31/10812/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトウェアソリューション",
+    "url": "https://www.rorze.com/news/2026/08/31/10812/",
+    "pass": 1
+   },
+   {
+    "quote": "１ 本書は半期報告書を金融商品取引法第27条の30の２に規定する開示",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/RORZE_QR42_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【根拠条文】 金融商品取引法第24条の５第１項の表の第１号",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/RORZE_QR42_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "上場金融商品取引所",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/RORZE_QR42_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品取引業協会名",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/RORZE_QR42_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、当社は、金融商品取引法第24条の５第１項の表の第１号の上欄に掲げる会社に該当し、連結財務諸表規則第",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/RORZE_QR42_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、金融商品取引法第193条の２第１項の規定に基づき、中間連結会計期間(2026年３月１日から2026年８月31",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/RORZE_QR42_2Q.pdf",
+    "pass": 2
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2027年2月期 第2四半期決算説明資料",
+    "url": "https://www.rorze.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月期 第2四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.rorze.com/",
+    "pass": 1
+   },
+   {
+    "quote": "令和８年熊本地震の影響に関するお知らせ（第2報）",
+    "url": "https://www.rorze.com/",
+    "pass": 1
+   },
+   {
+    "quote": "令和８年熊本地震の影響に関するお知らせ",
+    "url": "https://www.rorze.com/",
+    "pass": 1
+   },
+   {
+    "quote": "1985年3月30日",
+    "url": "https://www.rorze.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | ローツェ株式会社",
+    "url": "https://www.rorze.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2011年度に引き続き連続受賞",
+    "url": "https://www.rorze.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2011年度より3年連続受賞",
+    "url": "https://www.rorze.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2011年度より4年連続受賞",
+    "url": "https://www.rorze.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2011年度より5年連続受賞",
+    "url": "https://www.rorze.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月期 第2四半期決算説明資料",
+    "url": "https://www.rorze.com/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月期 第2四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.rorze.com/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "令和８年熊本地震の影響に関するお知らせ（第2報）",
+    "url": "https://www.rorze.com/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "令和８年熊本地震の影響に関するお知らせ",
+    "url": "https://www.rorze.com/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月期 第1四半期決算説明資料",
+    "url": "https://www.rorze.com/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月期 第1四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.rorze.com/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月期 決算説明資料",
+    "url": "https://www.rorze.com/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月期 決算短信〔日本基準〕（連結）",
+    "url": "https://www.rorze.com/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月期 第3四半期決算説明資料",
+    "url": "https://www.rorze.com/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月期 第3四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.rorze.com/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月期",
+    "url": "https://www.rorze.com/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月8日",
+    "url": "https://www.rorze.com/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月期 第2四半期決算発表（15時30分）",
+    "url": "https://www.rorze.com/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月9日",
+    "url": "https://www.rorze.com/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月期 第1四半期決算発表（15時30分）",
+    "url": "https://www.rorze.com/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月期",
+    "url": "https://www.rorze.com/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月28日",
+    "url": "https://www.rorze.com/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月9日",
+    "url": "https://www.rorze.com/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月期 決算発表（15時30分）",
+    "url": "https://www.rorze.com/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年1月9日",
+    "url": "https://www.rorze.com/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月期 第3四半期決算発表（15時30分）",
+    "url": "https://www.rorze.com/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年10月14日",
+    "url": "https://www.rorze.com/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月期 第2四半期決算説明会（機関投資家、アナリスト向け）",
+    "url": "https://www.rorze.com/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年10月10日",
+    "url": "https://www.rorze.com/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月期 第2四半期決算発表（15時30分）",
+    "url": "https://www.rorze.com/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年7月11日",
+    "url": "https://www.rorze.com/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月期 第1四半期決算発表（15時30分）",
+    "url": "https://www.rorze.com/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年2月期",
+    "url": "https://www.rorze.com/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年5月29日",
+    "url": "https://www.rorze.com/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年4月14日",
+    "url": "https://www.rorze.com/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年4月11日",
+    "url": "https://www.rorze.com/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年2月期 決算発表（15時30分）",
+    "url": "https://www.rorze.com/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年1月10日",
+    "url": "https://www.rorze.com/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年2月期 第3四半期決算発表（15時30分）",
+    "url": "https://www.rorze.com/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年10月15日",
+    "url": "https://www.rorze.com/ir/calender/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月期",
+    "url": "https://www.rorze.com/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月8日",
+    "url": "https://www.rorze.com/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月期 第2四半期決算短信[日本基準](連結)",
+    "url": "https://www.rorze.com/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月9日",
+    "url": "https://www.rorze.com/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月期 第1四半期決算短信[日本基準](連結)",
+    "url": "https://www.rorze.com/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月期 第2四半期決算説明資料",
+    "url": "https://www.rorze.com/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月期 第1四半期決算説明資料",
+    "url": "https://www.rorze.com/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月14日",
+    "url": "https://www.rorze.com/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月期",
+    "url": "https://www.rorze.com/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月31日",
+    "url": "https://www.rorze.com/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月9日",
+    "url": "https://www.rorze.com/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月期 決算短信[日本基準](連結)",
+    "url": "https://www.rorze.com/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年1月9日",
+    "url": "https://www.rorze.com/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月期 第3四半期決算短信[日本基準](連結)",
+    "url": "https://www.rorze.com/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年10月10日",
+    "url": "https://www.rorze.com/ir/library/",
+    "pass": 1
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "当社の強み | ローツェ株式会社",
+    "url": "https://www.rorze.com/company/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "「優れた技術に基づいて競争優位を確保する可能性が高い中小企業である」として RORZE SYSTEMS が受賞",
+    "url": "https://www.rorze.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "これに対して当社グループでは、日頃からサプライヤーとの関係強化に努めるとともに調達リスクをモニタリングして適正な在庫の確保に努めています",
+    "url": "https://www.rorze.com/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "在庫のリスクによる影響",
+    "url": "https://www.rorze.com/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "営業利益率 29.0%",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/meeting_2027_Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " 部材の先行手配・在庫確保、代替部品・代替",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/meeting_2027_Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の特徴・強み",
+    "url": "https://cregio.jp/column/interview_rorze/",
+    "pass": 3
+   },
+   {
+    "quote": "「強み」は高品質、理念を軸に自律的なものづくり文化が形成",
+    "url": "https://cregio.jp/column/interview_rorze/",
+    "pass": 3
+   },
+   {
+    "quote": "資本政策や企業再編のアドバイザリーにも強みを持ち、地域金融機関や専門家と連携しながら、中小企業の持続的な成長と後継者募集をサポート",
+    "url": "https://cregio.jp/column/interview_rorze/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "低発塵で高スループット、高い信頼性をもつシステムで、お客様の半導体製造ラインを支えます",
+    "url": "https://www.rorze.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "これもひとえに、株主の皆様、お取引先様をはじめとする多くの関係者の皆様方の温かいご支援の賜物と心より感謝申し上げます",
+    "url": "https://www.rorze.com/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "そのため、顧客の投資サイクルの変動により、当社の受注・売上・稼働率が影響を受ける可能性があります",
+    "url": "https://www.rorze.com/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "これに対し当社グループでは、顧客の設備投資動向や受注状況を定期的に把握・検証するとともに、柔軟な生産体制を整備し、急激な需要変動に対応できる体制づくりを行っております",
+    "url": "https://www.rorze.com/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "市況変動や顧客の経営計画の変更等により原材料の消費が滞留した場合、業績に影響を与える可能性があります",
+    "url": "https://www.rorze.com/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは事業上の様々な技術情報や顧客情報を保有しており、ランサムウェア、委託先経由の侵害、脆弱性悪用、地政学的背景の攻撃等により、操業停止や情報流出、信用失墜・費用負担が生じるおそれがあります",
+    "url": "https://www.rorze.com/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "しかしながら、顧客要求の短納期化に対応できない場合や競合他社に技術先行された場合は業績に影響を及ぼす可能性があります",
+    "url": "https://www.rorze.com/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、市場性を見極め新製品開発のスピードアップを図り、顧客要求に対応してまいります",
+    "url": "https://www.rorze.com/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "環境問題に対する懸念は世界的に高まり、当社グループが主に属する半導体及びＦＰＤ業界におきましても、取引に際し顧客からの要求が増加しております",
+    "url": "https://www.rorze.com/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "こうした中、環境問題に対する取り組みが十分でない場合には、顧客からの取引が減少するだけでなく、社会的信用の低下により、当社グループの経営成績及び財政状態に影響を与える可能性があります",
+    "url": "https://www.rorze.com/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "しかしながら、想定を超える大規模な災害等により、当社グループの事業拠点又は取引先等に甚大な被害が発生した場合には、当社グループの経営成績や財政状態に影響を及ぼす可能性があります",
+    "url": "https://www.rorze.com/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "また、通信環境やお客様のコンピュー タの状況、その他の理由により、当ウェブサイトを正常に利用できない場合があります",
+    "url": "https://www.rorze.com/ir/disclaimer/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客との契約から",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/RORZE_QR42_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 65,236 366 65,602 － 65,602",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/RORZE_QR42_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．売上高は顧客の所在地を基礎とし、国又は地域に分類しております",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/RORZE_QR42_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 79,357 376 79,733 － 79,733",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/RORZE_QR42_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益を分解した情報は、「注記事項(セグメント情報等)」に記載のとおりであります",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/RORZE_QR42_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " 分析装置は、顧客の装置検収時期のずれ込みや部品調達・生産リードタイムの長期化により減収",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/meeting_2027_Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "エンドユーザー",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/meeting_2027_Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※ 「地域別売上高」は顧客企業の本社所在地別に集計",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/meeting_2027_Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " 受注は堅調なるも顧客の検収時期のずれ込みや部品調達・生産リードタイムの長期化により減収",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/meeting_2027_Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " Nanoverse社から顧客に納入した評価装置に対する評価継続中",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/meeting_2027_Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " 顧客から出ている課題についてのアプローチを継続している状況",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/meeting_2027_Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " 早期に顧客の評価が完了し、今期中の売上計上が可能となるよう交渉中",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/meeting_2027_Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/20271008_2027_Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 79,357 376 79,733 － 79,733",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/20271008_2027_Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．売上高は顧客の所在地を基礎とし、国又は地域に分類しております",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/20271008_2027_Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "世界最高峰エベレストの横に位置し、エベレストが高いがゆえに目立ちませんが、お客様をエベレストと見立て、お客様がNo.1（エベレスト）になって頂くために、我々はその隣に寄り添い、同じ山の土台を共有しながら、支えるという意味を込めています",
+    "url": "https://cregio.jp/column/interview_rorze/",
+    "pass": 3
+   },
+   {
+    "quote": "我々はメーカーなので「いかに高品質な製品をつくるか」という点で、現在は世界中のお客様から一定の評価をいただいています",
+    "url": "https://cregio.jp/column/interview_rorze/",
+    "pass": 3
+   },
+   {
+    "quote": "当時から品質の高い設計・製造ができるというベースはありましたが、十分にその価値を海外のお客様に訴求しきれていない時期もありました",
+    "url": "https://cregio.jp/column/interview_rorze/",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、一度、海外のお客様に使っていただけると、その良さを実感していただき、それが後押しになり、ご愛顧いただくようになり、現在もシェアを伸ばしています",
+    "url": "https://cregio.jp/column/interview_rorze/",
+    "pass": 3
+   },
+   {
+    "quote": "「ローツェのロボットは壊れない・壊れにくい」といったお客様の声や、データからも製造品質が高いことは証明されています",
+    "url": "https://cregio.jp/column/interview_rorze/",
+    "pass": 3
+   },
+   {
+    "quote": "海外の取引先も多くありますが、顧客層の広いコントローラー事業以外は、グループが直接販売しています",
+    "url": "https://cregio.jp/column/interview_rorze/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の声を聞かないとつくれませんからね",
+    "url": "https://cregio.jp/column/interview_rorze/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体業界では、お客様が求めるスピードがものすごく早いので、求められる品質に差はあるものの、台湾・韓国はビジネススピードが早いです",
+    "url": "https://cregio.jp/column/interview_rorze/",
+    "pass": 3
+   },
+   {
+    "quote": "同じ文化圏での顧客折衝、各子会社のモチベーションを高く維持する意味でも、なるべく現地の方を社長とする方針としており、大きな権限を持たせています",
+    "url": "https://cregio.jp/column/interview_rorze/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様からのお問い合わせに、3日かけて回答するのが普通と思う会社と、レスポンスを返すのは2時間以内にすべきという会社もあり、その基準をどこに置くのか、なにを普通と感じるのかが、会社の文化であり、力です",
+    "url": "https://cregio.jp/column/interview_rorze/",
+    "pass": 3
+   },
+   {
+    "quote": "「顧客意向第一」を貫き、経営者の意思決定に寄り添う",
+    "url": "https://cregio.jp/column/interview_rorze/",
+    "pass": 3
+   },
+   {
+    "quote": "取引先企業一覧",
+    "url": "https://www.regional.co.jp/change/201801_vol45.html",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "Cimetrix Inc.の日本における販売代理店契約を締結",
+    "url": "https://www.rorze.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ベストパートナーアワード",
+    "url": "https://www.rorze.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "同社の発展に貢献したパートナー企業として RORZE TECHNOLOGY INC. が受賞",
+    "url": "https://www.rorze.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "士業パートナー制度",
+    "url": "https://cregio.jp/column/interview_rorze/",
+    "pass": 3
+   },
+   {
+    "quote": "メンバー紹介",
+    "url": "https://cregio.jp/column/interview_rorze/",
+    "pass": 3
+   },
+   {
+    "quote": "クレジオ・パートナーズ TOP",
+    "url": "https://cregio.jp/column/interview_rorze/",
+    "pass": 3
+   },
+   {
+    "quote": "ちょうどリーマンショックの後で、取引をしていたアメリカのソフトウェア販売会社が、財務状況が悪化したので出資して欲しいと言われ、ローツェとして、出資する代わりに代理店の権利をくれと要求したことで、ソフトウェア販売ビジネスが社内に立ち上がりました",
+    "url": "https://cregio.jp/column/interview_rorze/",
+    "pass": 3
+   },
+   {
+    "quote": "直近、イアスという東京都の半導体工場で使用される不純物分析装置の製造を行う企業にグループに加わっていただき、その時は資本政策のコンサルティング会社としてクレジオ・パートナーズさんにもご協力いただきました",
+    "url": "https://cregio.jp/column/interview_rorze/",
+    "pass": 3
+   },
+   {
+    "quote": "クレジオ・パートナーズ株式会社",
+    "url": "https://cregio.jp/column/interview_rorze/",
+    "pass": 3
+   },
+   {
+    "quote": "メディア紹介実績",
+    "url": "https://www.regional.co.jp/change/201801_vol45.html",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "300mmウエハ対応キャリアストックRICSS300発表",
+    "url": "https://www.rorze.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "① 【ストックオプション制度の内容】",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/RORZE_QR42_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "支払手数料 907百万円 1,143百万円",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/RORZE_QR42_2Q.pdf",
+    "pass": 2
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメントごとの経営成績は、次のとおりであります",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/RORZE_QR42_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "半導体・ＦＰＤ関連装置事業の売上高は79,357百万円(前年同期比21.6％増)、セグメント利益は23,969百万円(前",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/RORZE_QR42_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ライフサイエンス事業につきましては、売上高は376百万円(前年同期比2.8％増)、セグメント損失は147百万円",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/RORZE_QR42_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(前年同期はセグメント損失119百万円)となりました",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/RORZE_QR42_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(セグメント情報等)",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/RORZE_QR42_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/RORZE_QR42_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．報告セグメントごとの売上高及び利益又は損失の金額に関する情報並びに収益の分解情報",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/RORZE_QR42_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/RORZE_QR42_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/RORZE_QR42_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/RORZE_QR42_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注) １．セグメント利益又は損失の調整額は、各報告セグメントに配分していない全社費用△427百万円であり、主",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/RORZE_QR42_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "に報告セグメントに帰属しない一般管理費であります",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/RORZE_QR42_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益又は損失は、中間連結損益計算書の営業利益と調整を行っております",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/RORZE_QR42_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．報告セグメントごとの固定資産の減損損失又はのれん等に関する情報",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/RORZE_QR42_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "半導体・ＦＰＤ関連装置事業セグメントにおいて、2024年６月に行われたNanoverse Technologies, Ltd.との企",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/RORZE_QR42_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注) １．セグメント利益又は損失の調整額は、各報告セグメントに配分していない全社費用△725百万円であり、主",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/RORZE_QR42_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益を分解した情報は、「注記事項(セグメント情報等)」に記載のとおりであります",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/RORZE_QR42_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(セグメント情報等) ……………………………………………………………………………………………７",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/20271008_2027_Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントごとの経営成績は、次のとおりであります",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/20271008_2027_Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "半導体・ＦＰＤ関連装置事業の売上高は79,357百万円(前年同期比21.6％増)、セグメント利益は23,969百万円(前",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/20271008_2027_Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ライフサイエンス事業につきましては、売上高は376百万円(前年同期比2.8％増)、セグメント損失は147百万円",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/20271008_2027_Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(前年同期はセグメント損失119百万円)となりました",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/20271008_2027_Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(セグメント情報等)",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/20271008_2027_Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/20271008_2027_Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．報告セグメントごとの売上高及び利益又は損失の金額に関する情報並びに収益の分解情報",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/20271008_2027_Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/20271008_2027_Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/20271008_2027_Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/20271008_2027_Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注) １．セグメント利益又は損失の調整額は、各報告セグメントに配分していない全社費用△725百万円であり、主",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/20271008_2027_Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "に報告セグメントに帰属しない一般管理費であります",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/20271008_2027_Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益又は損失は、中間連結損益計算書の営業利益と調整を行っております",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/20271008_2027_Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当中間連結会計期間における生産実績をセグメントごと及び品目別に示すと、次のとおりであります",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/20271008_2027_Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/20271008_2027_Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当中間連結会計期間における受注実績をセグメントごと及び品目別に示すと、次のとおりであります",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/20271008_2027_Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの名称 受注高",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/20271008_2027_Q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当中間連結会計期間における販売実績をセグメントごと及び品目別に示すと、次のとおりであります",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/20271008_2027_Q2.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Integrated Report - ローツェ — Integrated Report - ローツェ ローツェ株式会社 PDF https://www.rorze.com > uploads > 2025/11 > Integr...",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2025/11/IntegratedReport_RORZE_jp_2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | ローツェ 株式会社 — 会社概要 | ローツェ 株式会社 ローツェ株式会社 https://www.rorze.com > ごあいさつ",
+    "url": "https://www.rorze.com/company/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "経営方針・体制 | ローツェ 株式会社 — 経営方針・体制 | ローツェ 株式会社 ローツェ株式会社 https://www.rorze.com > 株主・投資家情報",
+    "url": "https://www.rorze.com/ir/management/",
+    "pass": 3
+   },
+   {
+    "quote": "ローツェ (株)【東証プライム市場上場】の採用データ - マイナビ — ローツェ (株)【東証プライム市場上場】の採用データ - マイナビ マイナビ https://job.mynavi.jp > corpinfo > displayEmployment",
+    "url": "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=53920&recruitingCourseId=27058410",
+    "pass": 3
+   },
+   {
+    "quote": "ローツェ （6323）事業 モデル と27年2月期2Q決算まとめ - note — ローツェ （6323）事業 モデル と27年2月期2Q決算まとめ - note note https://note.com > sokyokutei",
+    "url": "https://note.com/sokyokutei/n/n621905284fff?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリ | ローツェ 株式会社 — IRライブラリ | ローツェ 株式会社 ローツェ株式会社 https://www.rorze.com > 株主・投資家情報",
+    "url": "https://www.rorze.com/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "IRニュース | ローツェ 株式会社 — IRニュース | ローツェ 株式会社 ローツェ株式会社 https://www.rorze.com > ir_news",
+    "url": "https://www.rorze.com/ir_news/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年2月期(第42期) 第2四半期 決算説明資料 - ローツェ — 2027年2月期(第42期) 第2四半期 決算説明資料 - ローツェ ローツェ株式会社 PDF https://www.rorze.com > uploads > meeting_2027_Q2",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/meeting_2027_Q2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026年2月期（第41期） 決算説明資料 - ローツェ — 2026年2月期（第41期） 決算説明資料 - ローツェ ローツェ株式会社 PDF https://www.rorze.com > uploads > meeting_2026_Q4",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/04/meeting_2026_Q4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【 ローツェ 】[6323]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 ローツェ 】[6323]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=6323",
+    "pass": 3
+   },
+   {
+    "quote": "第40期 有価証券報告書 - ローツェ株式会社 — 第40期 有価証券報告書 - ローツェ株式会社 ローツェ株式会社 PDF https://www.rorze.com > uploads > 2025/05",
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2025/05/RORZE_40_4Q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国内・海外拠点 | ローツェ 株式会社 — 国内・海外拠点 | ローツェ 株式会社 ローツェ株式会社 https://www.rorze.com > ごあいさつ",
+    "url": "https://www.rorze.com/company/base/",
+    "pass": 3
+   },
+   {
+    "quote": "よくあるご質問 | ローツェ 株式会社 — よくあるご質問 | ローツェ 株式会社 ローツェ株式会社 https://www.rorze.com > 株主・投資家情報",
+    "url": "https://www.rorze.com/ir/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "世界を駆ける半導体搬送ロボットメーカー｜ ローツェ 株式会社 — 世界を駆ける半導体搬送ロボットメーカー｜ ローツェ 株式会社 クレジオ・パートナーズ株式会社 https://cregio.jp > コラム > インタビュー",
+    "url": "https://cregio.jp/column/interview_rorze/",
+    "pass": 3
+   },
+   {
+    "quote": "ローツェ 株式会社 代表取締役 社長 藤代 祥之 — ローツェ 株式会社 代表取締役 社長 藤代 祥之 regional.co.jp https://www.regional.co.jp > change > 201801_vol45",
+    "url": "https://www.regional.co.jp/change/201801_vol45.html",
+    "pass": 3
+   },
+   {
+    "quote": "ごあいさつ | ローツェ 株式会社 — ごあいさつ | ローツェ 株式会社 ローツェ株式会社 https://www.rorze.com > company",
+    "url": "https://www.rorze.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "ローツェ の歴代 社長 - The社史 — ローツェ の歴代 社長 - The社史 The社史 https://the-shashi.com > ローツェの歴史",
+    "url": "https://the-shashi.com/tse/6323/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "ローツェ 株式会社｜企業TOP インタビュー ｜広島の企業を知る — ローツェ 株式会社｜企業TOP インタビュー ｜広島の企業を知る リージョナルキャリア広島 https://rs-hiroshima.net > change > 201801_rorze",
+    "url": "https://rs-hiroshima.net/change/201801_rorze.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.rorze.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rorze.com/company/strength/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rorze.com/company/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rorze.com/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rorze.com/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rorze.com/ir/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rorze.com/ir/management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rorze.com/ir/finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rorze.com/ir_news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rorze.com/ir/calender/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rorze.com/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rorze.com/ir/stockinfo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rorze.com/ir/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rorze.com/ir/disclaimer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rorze.com/ir/disclosure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rorze.com/ir/denshikoukoku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rorze.com/ir_news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rorze.com/news/2026/08/31/10812/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rorze.com/ir/disclosure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rorze.com/ir/denshikoukoku/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/RORZE_QR42_2Q.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/meeting_2027_Q2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/ir_20261008.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/20271008_2027_Q2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/08/ir_20260824-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/08/ir_20260803-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/08/ir_20260803.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/07/ir_20260730.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://cregio.jp/column/interview_rorze/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.regional.co.jp/change/201801_vol45.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ローツェ",
+   "results": [
+    "https://www.rorze.com/",
+    "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%84%E3%82%A7_(%E4%BC%81%E6%A5%AD)",
+    "https://www.nikkei.com/nkd/company/?scode=6323",
+    "https://kabutan.jp/stock/?code=6323",
+    "https://www.facebook.com/rorzejapan/?locale=ja_JP",
+    "https://ja.wikipedia.org/wiki/ローツェ",
+    "https://ja.wikipedia.org/wiki/ローツェ_(企業)",
+    "https://finance.yahoo.co.jp/quote/6323.T",
+    "https://www.wikiwand.com/ja/articles/ローツェ_(企業)",
+    "https://www.rorze.com/en/"
+   ]
+  },
+  {
+   "query": "ローツェ ビジネスモデル",
+   "results": [
+    "https://www.rorze.com/wp_rorze/wp-content/uploads/2025/11/IntegratedReport_RORZE_jp_2025.pdf",
+    "https://www.rorze.com/company/overview/",
+    "https://www.rorze.com/ir/management/",
+    "https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=53920&recruitingCourseId=27058410",
+    "https://note.com/sokyokutei/n/n621905284fff?hl=ko",
+    "https://www.rorze.com/company/history/",
+    "https://www.pref.hiroshima.lg.jp/go-hiroshima-database-kigyo/go-data-0333.html",
+    "https://www.youtube.com/watch?v=qZdPb3yeL_4",
+    "https://www.rorze.com/",
+    "https://note.com/sokyokutei/n/n621905284fff"
+   ]
+  },
+  {
+   "query": "ローツェ 決算説明資料",
+   "results": [
+    "https://www.rorze.com/ir/library/",
+    "https://www.rorze.com/ir_news/",
+    "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/meeting_2027_Q2.pdf",
+    "https://www.rorze.com/wp_rorze/wp-content/uploads/2026/04/meeting_2026_Q4.pdf",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=6323",
+    "https://www.rorze.com/ir/faq/",
+    "https://finance.logmi.jp/companies/2790",
+    "https://www.buffett-code.com/company/6323/library",
+    "https://www.rorze.com/ir/calender/",
+    "https://edinetdb.jp/company/E02328/ir-docs/"
+   ]
+  },
+  {
+   "query": "ローツェ 事業系統図",
+   "results": [
+    "https://www.rorze.com/wp_rorze/wp-content/uploads/2025/05/RORZE_40_4Q.pdf",
+    "https://www.rorze.com/company/overview/",
+    "https://www.rorze.com/wp_rorze/wp-content/uploads/2025/11/IntegratedReport_RORZE_jp_2025.pdf",
+    "https://www.rorze.com/company/base/",
+    "https://www.rorze.com/ir/faq/",
+    "https://edinetdb.jp/company/E02328/text",
+    "https://www.rorze.com/company/history/",
+    "https://job.mynavi.jp/28/pc/search/corp53920/outline.html",
+    "https://www.rorze.com/ir/library/",
+    "https://ja.wikipedia.org/wiki/ローツェ_(企業)"
+   ]
+  },
+  {
+   "query": "ローツェ 社長 インタビュー",
+   "results": [
+    "https://cregio.jp/column/interview_rorze/",
+    "https://www.regional.co.jp/change/201801_vol45.html",
+    "https://www.rorze.com/company/",
+    "https://the-shashi.com/tse/6323/ceo/",
+    "https://rs-hiroshima.net/change/201801_rorze.html",
+    "https://www.instagram.com/p/DZD89ygSOJz/",
+    "https://kitaishihon.com/company/6323/board-of-director",
+    "https://fm777.co.jp/bingocompany/%E7%AC%AC7%E5%9B%9E%E3%80%80%E5%B4%8E%E8%B0%B7-%E6%96%87%E9%9B%84%E3%80%80%E3%81%95%E3%81%8D%E3%82%84-%E3%81%B5%E3%81%BF%E3%81%8A%E3%80%801945/",
+    "https://www.youtube.com/watch?v=J4ZKR3Hzc7E",
+    "https://www.sangyo-times.jp/article.aspx?ID=7504"
+   ]
+  }
+ ],
+ "missing": {
+  "ビジネスモデル": "記載なし（3回確認済み：公式20頁／PDF・画像8件／外部2頁・検索5回）"
+ }
+}

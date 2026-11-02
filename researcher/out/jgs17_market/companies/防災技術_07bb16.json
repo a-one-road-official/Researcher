@@ -1,0 +1,1847 @@
+{
+ "name": "防災技術",
+ "en": "disaster management",
+ "aliases": [
+  "防災テック",
+  "防災システム"
+ ],
+ "context": "14 防災 ①防災技術",
+ "kind": "market",
+ "researched_at": "2026-11-02T17:46:53.615041+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "拡大するスマート防災市場：国内2,000億円規模から世界12兆円市場へ - トレンド＆データ | 未来図（ミライズ）",
+    "url": "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0069.html",
+    "pass": 3
+   },
+   {
+    "quote": "拡大するスマート防災市場：国内2,000億円規模から世界12兆円市場へ",
+    "url": "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0069.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内のスマート防災市場は、自治体の防災情報システム、IoTセンサー、AI解析、避難支援サービスなど防災DXを含む領域で、2024〜2025年時点で約2,000〜2,400億円規模の市場を形成しています",
+    "url": "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0069.html",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、国内の広義の防災関連市場（ハード＋ソフト＋サービス全体）は、2025年に約3.5兆円、2030年には5兆円規模に達すると予測されています",
+    "url": "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0069.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年時点の市場規模は 639億5,000万ドルに達しており、2030年には 1,294億2,000万ドルへと倍増する見通しです",
+    "url": "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0069.html",
+    "pass": 3
+   },
+   {
+    "quote": "こうした動きにより、世界のスマート防災市場は今後も継続的に拡大し、2030年に向けて「高度な監視・予測・即応」を実現する防災インフラへの投資が加速すると見込まれています",
+    "url": "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0069.html",
+    "pass": 3
+   },
+   {
+    "quote": "総務省の令和5年版情報通信白書において、デジタルツインは世界的に急成長する市場であり、2025年には3兆9,142億円規模に達すると予測されています",
+    "url": "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0069.html",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイドロボットの市場規模は？2030年・2050年予測と各国の動向",
+    "url": "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0069.html",
+    "pass": 3
+   },
+   {
+    "quote": "災害対策システムの世界市場規模は2030年に2981億米ドル|年平均成長率（CAGR）: 7.4％ | Panorama Data Insights Ltd.のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000016.000091008.html",
+    "pass": 3
+   },
+   {
+    "quote": "災害対策システムの世界市場規模は2030年に2981億米ドル|年平均�成長率（CAGR）: 7.4％",
+    "url": "https://prtimes.jp/main/html/rd/p/000000016.000091008.html",
+    "pass": 3
+   },
+   {
+    "quote": "災害対策システムの世界市場は、2021年から2030年までの予測期間中に年平均成長率（CAGR）7.4％で成長し、2030年には2981億米ドルに達すると予測されます. 2020年の災害対策システムの世界市場規模は14610億米ドルでした.",
+    "url": "https://prtimes.jp/main/html/rd/p/000000016.000091008.html",
+    "pass": 3
+   },
+   {
+    "quote": "災害対策システムの世界市場規模は2030年に2981億米ドル|年平均成長率（CAGR）: 7.4％",
+    "url": "https://prtimes.jp/main/html/rd/p/000000016.000091008.html",
+    "pass": 3
+   },
+   {
+    "quote": "防災情報システム・サービス市場 2025年に約1,160億円市場に発展",
+    "url": "https://www.seedplanning.co.jp/archive/press/2020/2020120401.html",
+    "pass": 3
+   },
+   {
+    "quote": "• 防災情報システム・サービス市場は、2025年に約1,160億円に発展すると推計",
+    "url": "https://www.seedplanning.co.jp/archive/press/2020/2020120401.html",
+    "pass": 3
+   },
+   {
+    "quote": "■防災情報システム・サービス市場は、2025年に約1,160億円に発展する",
+    "url": "https://www.seedplanning.co.jp/archive/press/2020/2020120401.html",
+    "pass": 3
+   },
+   {
+    "quote": "今回の調査では、高成長シナリオとして当該市場が2025年に約1160億円に発展すると予測した",
+    "url": "https://www.seedplanning.co.jp/archive/press/2020/2020120401.html",
+    "pass": 3
+   },
+   {
+    "quote": "4．市場規模予測（2019年度～2025年度）",
+    "url": "https://www.seedplanning.co.jp/archive/press/2020/2020120401.html",
+    "pass": 3
+   },
+   {
+    "quote": "第3章 市場規模の予測",
+    "url": "https://www.seedplanning.co.jp/archive/press/2020/2020120401.html",
+    "pass": 3
+   },
+   {
+    "quote": "1．市場規模の予測方法",
+    "url": "https://www.seedplanning.co.jp/archive/press/2020/2020120401.html",
+    "pass": 3
+   },
+   {
+    "quote": "4．高成長シナリオの市場規模予測（市場セグメント別、2019年度～2025年度の年度別）",
+    "url": "https://www.seedplanning.co.jp/archive/press/2020/2020120401.html",
+    "pass": 3
+   },
+   {
+    "quote": "5．低成長シナリオの市場規模予測（市場セグメント別、2019年度～2025年度の年度別）",
+    "url": "https://www.seedplanning.co.jp/archive/press/2020/2020120401.html",
+    "pass": 3
+   },
+   {
+    "quote": "防災システム市場規模・動向 - 2035年",
+    "url": "https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725",
+    "pass": 3
+   },
+   {
+    "quote": "2024 Market Size",
+    "url": "https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725",
+    "pass": 3
+   },
+   {
+    "quote": "$ 14.72 Billion",
+    "url": "https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725",
+    "pass": 3
+   },
+   {
+    "quote": "2025 Market Size",
+    "url": "https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725",
+    "pass": 3
+   },
+   {
+    "quote": "$ 15.64 Billion",
+    "url": "https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725",
+    "pass": 3
+   },
+   {
+    "quote": "2035 Market Size",
+    "url": "https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725",
+    "pass": 3
+   },
+   {
+    "quote": "$ 28.77 Billion",
+    "url": "https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725",
+    "pass": 3
+   },
+   {
+    "quote": "147.2億ドル",
+    "url": "https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725",
+    "pass": 3
+   },
+   {
+    "quote": "28.77 (USD十億)",
+    "url": "https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の防災情報システム市場規模を184億円と推計",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3909?srsltid=AYCX9vICZ5eIE8SequLm4IjS3QIP8PT3t1dnbIh-EVdQY8qKg8kyeLjI",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の防災情報システム市場※（事業者売上高ベース）を184億円と推計した",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3909?srsltid=AYCX9vICZ5eIE8SequLm4IjS3QIP8PT3t1dnbIh-EVdQY8qKg8kyeLjI",
+    "pass": 3
+   },
+   {
+    "quote": "こうした取り組みは、情報システムやソフトウェア分野への投資拡大につながっており、2025年の防災情報システム市場は前年比101.6%の186億9,000万円を見込む",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3909?srsltid=AYCX9vICZ5eIE8SequLm4IjS3QIP8PT3t1dnbIh-EVdQY8qKg8kyeLjI",
+    "pass": 3
+   },
+   {
+    "quote": "防災・減災サービス市場の市場規模と数値予測（2025-2050） - エネがえる",
+    "url": "https://www.enegaeru.com/disasterpreventionandmitigation-servicesmarket",
+    "pass": 3
+   },
+   {
+    "quote": "防災・減災サービス市場の市場規模と数値予測（2025-2050）",
+    "url": "https://www.enegaeru.com/disasterpreventionandmitigation-servicesmarket",
+    "pass": 3
+   },
+   {
+    "quote": "2025年・2030年・2035年・2040年・2050年の市場規模と数値予測",
+    "url": "https://www.enegaeru.com/disasterpreventionandmitigation-servicesmarket",
+    "pass": 3
+   },
+   {
+    "quote": "2050年の市場規模予測",
+    "url": "https://www.enegaeru.com/disasterpreventionandmitigation-servicesmarket",
+    "pass": 3
+   },
+   {
+    "quote": "2025年から2050年までの防災・減災関連サービス業界の市場規模と予測",
+    "url": "https://www.enegaeru.com/disasterpreventionandmitigation-servicesmarket",
+    "pass": 3
+   },
+   {
+    "quote": "約146億米ドル（約22兆円）規模",
+    "url": "https://www.enegaeru.com/disasterpreventionandmitigation-servicesmarket",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内の防災情報システム・サービス市場は2024年度に約2,150億円に達すると予測",
+    "url": "https://www.enegaeru.com/disasterpreventionandmitigation-servicesmarket",
+    "pass": 3
+   },
+   {
+    "quote": "世界防災システム市場は202.32億米ドル（約30兆円）に達すると予測",
+    "url": "https://www.enegaeru.com/disasterpreventionandmitigation-servicesmarket",
+    "pass": 3
+   },
+   {
+    "quote": "防災情報システム・サービス市場が2025年度には約2,416億円に拡大すると予測",
+    "url": "https://www.enegaeru.com/disasterpreventionandmitigation-servicesmarket",
+    "pass": 3
+   },
+   {
+    "quote": "官公需要が最大1,978億円に達する見込み",
+    "url": "https://www.enegaeru.com/disasterpreventionandmitigation-servicesmarket",
+    "pass": 3
+   },
+   {
+    "quote": "防災情報システム・サービス市場の実態を調査／2025年度の国内市場は2,153億円に：東京新聞 × PR TIMES：東京新聞デジタル",
+    "url": "https://adv.tokyo-np.co.jp/prtimes/article105920/",
+    "pass": 3
+   },
+   {
+    "quote": "防災情報システム・サービス市場の実態を調査／2025年度の国内市場は2,153億円に",
+    "url": "https://adv.tokyo-np.co.jp/prtimes/article105920/",
+    "pass": 3
+   },
+   {
+    "quote": "●政府・地方公共団体等の調達状況及び政府の防災・減災関連の政策動向を踏まえ、市場促進要因及び市場減速要因を整理し、「中間的シナリオ」「高成長シナリオ」「低成長シナリオ」の3パターンに分けて国内市場規模を予測（2025年度～2031年度）",
+    "url": "https://adv.tokyo-np.co.jp/prtimes/article105920/",
+    "pass": 3
+   },
+   {
+    "quote": "政府・地方公共団体等の調達状況及び政府の防災・減災関連の政策動向を踏まえ、市場促進要因及び市場減速要因を整理し、「中間的シナリオ」「高成長シナリオ」「低成長シナリオ」の3パターンに分けて国内市場規模を予測しました",
+    "url": "https://adv.tokyo-np.co.jp/prtimes/article105920/",
+    "pass": 3
+   },
+   {
+    "quote": "●中間シナリオでは2025年度の官公需要が最多の1,691億円に",
+    "url": "https://adv.tokyo-np.co.jp/prtimes/article105920/",
+    "pass": 3
+   },
+   {
+    "quote": "中間的シナリオの市場規模予測では、官公需要及び民間需要を合わせた防災情報システム・サービスの国内市場は、2025年度の約2,153億円から2031年度には約2,459億円に達する予測となりました",
+    "url": "https://adv.tokyo-np.co.jp/prtimes/article105920/",
+    "pass": 3
+   },
+   {
+    "quote": "防災情報システムの2024年市場規模は184億円と推計",
+    "url": "https://www.yanoict.com/summary/show/id/782",
+    "pass": 3
+   },
+   {
+    "quote": "（事業者売上高ベース）を184億円と推計した",
+    "url": "https://www.yanoict.com/summary/show/id/782",
+    "pass": 3
+   },
+   {
+    "quote": "こうした取り組みは、情報システムやソフトウェア分野への投資拡大につながっており、2025年の防災情報システム市場は前年比101.6%の186億9,000万円を見込む",
+    "url": "https://www.yanoict.com/summary/show/id/782",
+    "pass": 3
+   },
+   {
+    "quote": "Disaster management market size worth USD 199.91 billion by 2034 | PreventionWeb",
+    "url": "https://www.preventionweb.net/news/disaster-management-market-size-worth-usd-19991-billion-2034-cagr-121",
+    "pass": 3
+   },
+   {
+    "quote": "Disaster management market size worth USD 199.91 billion by 2034 | CAGR: 12.1%",
+    "url": "https://www.preventionweb.net/news/disaster-management-market-size-worth-usd-19991-billion-2034-cagr-121",
+    "pass": 3
+   },
+   {
+    "quote": "size is expected to reach USD 199.91 billion by 2034, according to a new study by Polaris Market Research. The report",
+    "url": "https://www.preventionweb.net/news/disaster-management-market-size-worth-usd-19991-billion-2034-cagr-121",
+    "pass": 3
+   },
+   {
+    "quote": "\"Natural Disaster Management Market Size, Share, Trends, Industry Analysis Report: By Component (Solution and Services), Application, End User, Communication System, and Region (North America, Europe, Asia Pacific, Latin America, and Middle East & Africa) - Market Forecast, 2025-2034\"",
+    "url": "https://www.preventionweb.net/news/disaster-management-market-size-worth-usd-19991-billion-2034-cagr-121",
+    "pass": 3
+   },
+   {
+    "quote": "By Component Outlook (Revenue - USD Billion, 2020-2034)",
+    "url": "https://www.preventionweb.net/news/disaster-management-market-size-worth-usd-19991-billion-2034-cagr-121",
+    "pass": 3
+   },
+   {
+    "quote": "By Application Outlook (Revenue - USD Billion, 2020-2034)",
+    "url": "https://www.preventionweb.net/news/disaster-management-market-size-worth-usd-19991-billion-2034-cagr-121",
+    "pass": 3
+   },
+   {
+    "quote": "By End User Outlook (Revenue - USD Billion, 2020-2034)",
+    "url": "https://www.preventionweb.net/news/disaster-management-market-size-worth-usd-19991-billion-2034-cagr-121",
+    "pass": 3
+   },
+   {
+    "quote": "By Communication System Outlook (Revenue - USD Billion, 2020 - 2034)",
+    "url": "https://www.preventionweb.net/news/disaster-management-market-size-worth-usd-19991-billion-2034-cagr-121",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "拡大するスマート防災市場：国内2,000億円規模から世界12兆円市場へ - トレンド＆データ | 未来図（ミライズ）",
+    "url": "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0069.html",
+    "pass": 3
+   },
+   {
+    "quote": "拡大するスマート防災市場：国内2,000億円規模から世界12兆円市場へ",
+    "url": "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0069.html",
+    "pass": 3
+   },
+   {
+    "quote": "AI・IoT・デジタルツインなどを活用した「防災テック」領域は成長率が高く、年率10〜15％で拡大しています",
+    "url": "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0069.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年時点の市場規模は 639億5,000万ドルに達しており、2030年には 1,294億2,000万ドルへと倍増する見通しです",
+    "url": "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0069.html",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間中の年平均成長率（CAGR）は 12.3% と非常に高く、世界的に最も成長が期待される防災関連市場の一つとなっています",
+    "url": "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0069.html",
+    "pass": 3
+   },
+   {
+    "quote": "こうした動きにより、世界のスマート防災市場は今後も継続的に拡大し、2030年に向けて「高度な監視・予測・即応」を実現する防災インフラへの投資が加速すると見込まれています",
+    "url": "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0069.html",
+    "pass": 3
+   },
+   {
+    "quote": "災害対策システムの世界市場規模は2030年に2981億米ドル|年平均成長率（CAGR）: 7.4％ | Panorama Data Insights Ltd.のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000016.000091008.html",
+    "pass": 3
+   },
+   {
+    "quote": "災害対策システムの世界市場規模は2030年に2981億米ドル|年平均�成長率（CAGR）: 7.4％",
+    "url": "https://prtimes.jp/main/html/rd/p/000000016.000091008.html",
+    "pass": 3
+   },
+   {
+    "quote": "災害対策システムの世界市場は、2021年から2030年までの予測期間中に年平均成長率（CAGR）7.4％で成長し、2030年には2981億米ドルに達すると予測されます. 2020年の災害対策システムの世界市場規模は14610億米ドルでした.",
+    "url": "https://prtimes.jp/main/html/rd/p/000000016.000091008.html",
+    "pass": 3
+   },
+   {
+    "quote": "災害対策システムの世界市場規模は2030年に2981億米ドル|年平均成長率（CAGR）: 7.4％",
+    "url": "https://prtimes.jp/main/html/rd/p/000000016.000091008.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025 - 2035)",
+    "url": "https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725",
+    "pass": 3
+   },
+   {
+    "quote": "災害対策システム業界は、2025年に156.4億米ドルから2035年には287.7億米ドルに成長する見込みで、2025年から2035年の予測期間中に年平均成長率（CAGR）は6.28を示します",
+    "url": "https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725",
+    "pass": 3
+   },
+   {
+    "quote": "組織がこれらの技術をますます採用するにつれて、市場は大幅に拡大することが予測されており、年率10％以上の成長率が見込まれています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725",
+    "pass": 3
+   },
+   {
+    "quote": "災害対策システム市場は、気候関連の災害の増加と技術の進歩により、2024年から2035年までの間に6.28%のCAGRで成長することが予測されています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725",
+    "pass": 3
+   },
+   {
+    "quote": "2025年から2035年の予測期間中における災害対策システム市場の予想CAGRはどのくらいですか？",
+    "url": "https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725",
+    "pass": 3
+   },
+   {
+    "quote": "2025年から2035年の予測期間中の災害対策システム市場の予想CAGRは6.28%です",
+    "url": "https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725",
+    "pass": 3
+   },
+   {
+    "quote": "こうした取り組みは、情報システムやソフトウェア分野への投資拡大につながっており、2025年の防災情報システム市場は前年比101.6%の186億9,000万円を見込む",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3909?srsltid=AYCX9vICZ5eIE8SequLm4IjS3QIP8PT3t1dnbIh-EVdQY8qKg8kyeLjI",
+    "pass": 3
+   },
+   {
+    "quote": "防災DXの将来を展望すると、政策動向、技術革新、民間投資拡大の3つの要素が相互に作用しながら発展していく見込みである",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3909?srsltid=AYCX9vICZ5eIE8SequLm4IjS3QIP8PT3t1dnbIh-EVdQY8qKg8kyeLjI",
+    "pass": 3
+   },
+   {
+    "quote": "年間成長率7.4〜8.3%で拡大",
+    "url": "https://www.enegaeru.com/disasterpreventionandmitigation-servicesmarket",
+    "pass": 3
+   },
+   {
+    "quote": "防災情報システム・サービス市場が2025年度には約2,416億円に拡大すると予測",
+    "url": "https://www.enegaeru.com/disasterpreventionandmitigation-servicesmarket",
+    "pass": 3
+   },
+   {
+    "quote": "約2倍に拡大する見込み",
+    "url": "https://www.enegaeru.com/disasterpreventionandmitigation-servicesmarket",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR）7.4〜8.3%",
+    "url": "https://www.enegaeru.com/disasterpreventionandmitigation-servicesmarket",
+    "pass": 3
+   },
+   {
+    "quote": "2025年以降は成長率が緩やかになるものの、継続的な市場拡大が見込まれています",
+    "url": "https://www.enegaeru.com/disasterpreventionandmitigation-servicesmarket",
+    "pass": 3
+   },
+   {
+    "quote": "2030年の予測値をベースに年間成長率5〜6%で成長すると仮定",
+    "url": "https://www.enegaeru.com/disasterpreventionandmitigation-servicesmarket",
+    "pass": 3
+   },
+   {
+    "quote": "こうした取り組みは、情報システムやソフトウェア分野への投資拡大につながっており、2025年の防災情報システム市場は前年比101.6%の186億9,000万円を見込む",
+    "url": "https://www.yanoict.com/summary/show/id/782",
+    "pass": 3
+   },
+   {
+    "quote": "防災DXの将来を展望すると、政策動向、技術革新、民間投資拡大の3つの要素が相互に作用しながら発展していく見込みである",
+    "url": "https://www.yanoict.com/summary/show/id/782",
+    "pass": 3
+   },
+   {
+    "quote": "Disaster management market size worth USD 199.91 billion by 2034 | CAGR: 12.1%",
+    "url": "https://www.preventionweb.net/news/disaster-management-market-size-worth-usd-19991-billion-2034-cagr-121",
+    "pass": 3
+   },
+   {
+    "quote": "The global disaster management market size is estimated at USD 107.92 billion in 2026 and is predicted to reach around USD 174.62 billion by 2034, accelerating at a CAGR of 6.20% from 2025 to 2034. The market sizing and forecasts are revenue-based (USD Million/Billion), with 2024 as the base year",
+    "url": "https://www.precedenceresearch.com/disaster-management-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 6.20%",
+    "url": "https://www.precedenceresearch.com/disaster-management-market",
+    "pass": 3
+   },
+   {
+    "quote": "On the basis of type, the disaster management sector is anticipated to grow at the highest CAGR from 2025 to 2034. Surveillance systems, such as video cameras,",
+    "url": "https://www.precedenceresearch.com/disaster-management-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026 - 2034)",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/natural-disaster-management-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Asia Pacific region is projected to show rapid growth, with a CAGR of 12.5%. This acceleration is largely fueled by the growing frequency of climate-related disasters.",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/natural-disaster-management-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD billion, and CAGR from 2026 to 2034",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/natural-disaster-management-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global market is projected to register a CAGR of 12.1% during the forecast period.",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/natural-disaster-management-market",
+    "pass": 3
+   },
+   {
+    "quote": "Natural Disaster Management Market Size Worth USD 199.91 Billion by 2034 | CAGR: 12.1%",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/natural-disaster-management-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2023–2030",
+    "url": "https://www.grandviewresearch.com/industry-analysis/disaster-preparedness-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2023-2030): 8.5%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/disaster-preparedness-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "The situational awareness solutions segment is anticipated to register the fastest CAGR of 8.7% over the forecast period. The increasing demand for surveillance and",
+    "url": "https://www.grandviewresearch.com/industry-analysis/disaster-preparedness-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 8.5 % from 2023 to 2030",
+    "url": "https://www.grandviewresearch.com/industry-analysis/disaster-preparedness-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD billion and CAGR from 2023 to 2030",
+    "url": "https://www.grandviewresearch.com/industry-analysis/disaster-preparedness-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global disaster preparedness system market is expected to grow at a CAGR of 8.5% from 2023 to 2030, reaching USD 308.0 billion by 2030.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/disaster-preparedness-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "at a CAGR of 6.2%",
+    "url": "https://www.persistencemarketresearch.com/market-research/crisis-emergency-and-incident-management-platforms-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Surveillance & security monitoring platforms are forecast to grow at 8.5% CAGR during 2025–2032, reflecting an increasing demand for AI-enabled analytics and real-time situational awareness.",
+    "url": "https://www.persistencemarketresearch.com/market-research/crisis-emergency-and-incident-management-platforms-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific is poised to be the fastest-growing regional market from 2025 to 2032 at around 7.3% CAGR, benefiting from higher investments in disaster reduction technologies, policy reforms, and aggressive Smart City investments.",
+    "url": "https://www.persistencemarketresearch.com/market-research/crisis-emergency-and-incident-management-platforms-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Projected Growth (CAGR 2025 to 2032)",
+    "url": "https://www.persistencemarketresearch.com/market-research/crisis-emergency-and-incident-management-platforms-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Historical Market Growth (CAGR 2019 to 2024)",
+    "url": "https://www.persistencemarketresearch.com/market-research/crisis-emergency-and-incident-management-platforms-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific is the fastest-growing regional market for crisis, emergency, and incident management platforms, poised to expand at a CAGR of 7.3% between 2025 and 2032. This growth is energized by a convergence of factors, including rapid urbanization in China, India, and ASEAN nations, government-led Smart City investments, and increasing digital literacy rates facilitating technology penetration.",
+    "url": "https://www.persistencemarketresearch.com/market-research/crisis-emergency-and-incident-management-platforms-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "The crisis, emergency, and incident management platforms market is poised to witness a CAGR of 6.2% from 2025 to 2032.",
+    "url": "https://www.persistencemarketresearch.com/market-research/crisis-emergency-and-incident-management-platforms-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025 - 2035)",
+    "url": "https://www.marketresearchfuture.com/reports/disaster-preparedness-system-market-28725",
+    "pass": 3
+   },
+   {
+    "quote": "As per Market Research Future analysis, the Disaster Preparedness System Market Size was estimated at 14.72 USD Billion in 2024. The Disaster Preparedness System industry is projected to grow from 15.64 USD Billion in 2025 to 28.77 USD Billion by 2035, exhibiting a compound annual growth rate (CAGR) of 6.28% during the forecast period 2025 - 2035",
+    "url": "https://www.marketresearchfuture.com/reports/disaster-preparedness-system-market-28725",
+    "pass": 3
+   },
+   {
+    "quote": "The Disaster Preparedness System Market is projected to grow at a 6.28% CAGR from 2025 to 2035, driven by increasing climate-related disasters and technological advancements.",
+    "url": "https://www.marketresearchfuture.com/reports/disaster-preparedness-system-market-28725",
+    "pass": 3
+   },
+   {
+    "quote": "What is the expected CAGR for the Disaster Preparedness System Market during the forecast period 2025 - 2035?",
+    "url": "https://www.marketresearchfuture.com/reports/disaster-preparedness-system-market-28725",
+    "pass": 3
+   },
+   {
+    "quote": "The expected CAGR for the Disaster Preparedness System Market during the forecast period 2025 - 2035 is 6.28%.",
+    "url": "https://www.marketresearchfuture.com/reports/disaster-preparedness-system-market-28725",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026–2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/natural-disaster-management-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Fastest-growing regional market: Asia Pacific (highest CAGR, 2026-2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/natural-disaster-management-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2033): 12.5%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/natural-disaster-management-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 12.5% from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/natural-disaster-management-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD million/billion, and CAGR from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/natural-disaster-management-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The global natural disaster management market is expected to grow at a CAGR of 12.5% from 2026 to 2033, reaching USD 185.8 billion by 2033.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/natural-disaster-management-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "According to a research report published by Spherical Insights & Consulting, The Global Natural Disaster Detection IoT Market size is projected to grow from USD 73.1 Billion in 2025 to USD 237.38 Billion by 2035, at a CAGR of 4.68 % during the forecast period 2026–2035.",
+    "url": "https://www.sphericalinsights.com/blogs/top-10-companies-in-global-natural-disaster-management-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "災害対策システムの世界市場における主要企業のプロファイル一覧",
+    "url": "https://prtimes.jp/main/html/rd/p/000000016.000091008.html",
+    "pass": 3
+   },
+   {
+    "quote": "Other Prominent Players",
+    "url": "https://prtimes.jp/main/html/rd/p/000000016.000091008.html",
+    "pass": 3
+   },
+   {
+    "quote": "④ 主要企業別の落札件数・合計落札金額一覧",
+    "url": "https://www.seedplanning.co.jp/archive/press/2020/2020120401.html",
+    "pass": 3
+   },
+   {
+    "quote": "⑤ 主要企業別の落札件数（市場セグメント別）",
+    "url": "https://www.seedplanning.co.jp/archive/press/2020/2020120401.html",
+    "pass": 3
+   },
+   {
+    "quote": "（5）主要企業が提供するSNS投稿分析サービス",
+    "url": "https://www.seedplanning.co.jp/archive/press/2020/2020120401.html",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725",
+    "pass": 3
+   },
+   {
+    "quote": "北米の競争環境は堅牢であり、ハネウェル、ゼネラル・エレクトリック、IBMなどの主要企業が存在します",
+    "url": "https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業と競争の洞察",
+    "url": "https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725",
+    "pass": 3
+   },
+   {
+    "quote": "ハネウェル（米国）、シーメンス（ドイツ）、IBM（米国）などの主要企業が最前線に立ち、それぞれが市場ポジションを強化するための独自の戦略を採用しています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725",
+    "pass": 3
+   },
+   {
+    "quote": "市場構造は中程度に分散しているようで、いくつかの主要企業が substantialな市場シェアを持ち、多くの小規模企業がニッチセグメントに貢献しています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725",
+    "pass": 3
+   },
+   {
+    "quote": "これらの主要企業の集合的な影響が競争のダイナミクスを形成し、サービス提供や市場のリーチを強化するために戦略的パートナーシップやコラボレーションを行っています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725",
+    "pass": 3
+   },
+   {
+    "quote": "災害対策システム市場市場の主要企業には以下が含まれます",
+    "url": "https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業のプロファイル",
+    "url": "https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725",
+    "pass": 3
+   },
+   {
+    "quote": "産業構造の変化と新規参入企業の動向",
+    "url": "https://www.enegaeru.com/disasterpreventionandmitigation-servicesmarket",
+    "pass": 3
+   },
+   {
+    "quote": "新規参入企業の動向",
+    "url": "https://www.enegaeru.com/disasterpreventionandmitigation-servicesmarket",
+    "pass": 3
+   },
+   {
+    "quote": "今後、以下のような新規参入企業の増加が予想されます：",
+    "url": "https://www.enegaeru.com/disasterpreventionandmitigation-servicesmarket",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社シード・プランニング（本社：東京都文京区 梅田佳夫社長、以下シード・プランニング）は、国内の防災情報システム・サービス市場について、官公庁による調達状況、最新の政策動向、主要プレイヤー（40社）のサービス動向・技術トレンド等を詳細に調査し、その結果を公開したことをお知らせいたします",
+    "url": "https://adv.tokyo-np.co.jp/prtimes/article105920/",
+    "pass": 3
+   },
+   {
+    "quote": "●主要プレイヤー（40社）の最新動向や技術トレンドを整理",
+    "url": "https://adv.tokyo-np.co.jp/prtimes/article105920/",
+    "pass": 3
+   },
+   {
+    "quote": "3章 主要参入企業の調査個票",
+    "url": "https://www.yanoict.com/summary/show/id/782",
+    "pass": 3
+   },
+   {
+    "quote": "Disaster Management Market Size, Key Companies, Company Market Share, User Adoption, Technology Deployment, Revenue Growth, Competitive Positioning, and Demand Forecast",
+    "url": "https://www.precedenceresearch.com/disaster-management-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 1: Who are the prominent players operating in the disaster management market?",
+    "url": "https://www.precedenceresearch.com/disaster-management-market",
+    "pass": 3
+   },
+   {
+    "quote": "The major players operating in the disaster management market are IBM Corporation, Lockheed Martin Corporation, ESRI, Northrop Grumman Corporation, Honeywell International Inc., General Dynamics Corporation, Booz Allen Hamilton Inc., Cisco Systems, Inc., Motorola Solutions, Inc., Intergraph Corporation, Siemens AG, Tetra Tech Inc., and Others.",
+    "url": "https://www.precedenceresearch.com/disaster-management-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players & Competitive Analysis Report",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/natural-disaster-management-market",
+    "pass": 3
+   },
+   {
+    "quote": "The competitive landscape of the natural disaster management market is defined by aggressive market expansion strategies, continuous technology advancements, and a growing focus on integrated solution development. Industry analysis reveals a strong emphasis on innovation, where key players are investing heavily in AI-driven early warning systems, geospatial intelligence, and",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/natural-disaster-management-market",
+    "pass": 3
+   },
+   {
+    "quote": "List of Key Companies",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/natural-disaster-management-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Market Competitive Landscape, Growth Factors, and Trends",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/natural-disaster-management-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/natural-disaster-management-market",
+    "pass": 3
+   },
+   {
+    "quote": "4. Who are the key players in the natural disaster management market?",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/natural-disaster-management-market",
+    "pass": 3
+   },
+   {
+    "quote": "• A few of the key players in the market are BlackBerry, Esri, Everbridge, Hexagon, Lumineye, NEC, Nokia, Sadeem Technology, SAS Institute, SimpliSafe, SuperMap, Vaisala, Venti LLC, and Xylem.",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/natural-disaster-management-market",
+    "pass": 3
+   },
+   {
+    "quote": "10. Competitive Landscape",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/natural-disaster-management-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies & Market Share Insights",
+    "url": "https://www.grandviewresearch.com/industry-analysis/disaster-preparedness-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company market share analysis, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/disaster-preparedness-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/disaster-preparedness-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/disaster-preparedness-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players are Honeywell International Inc.; Lockheed Martin; Motorola Solutions, Inc.; Siemens; NEC Corporation; IBM; Alertus Technologies LLC; OnSolve; Juvare, LLC; and Singlewire Software, LLC.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/disaster-preparedness-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some Of The Key Players In The GIS in Disaster Management Market Report Include:",
+    "url": "https://www.psmarketresearch.com/market-analysis/gis-in-disaster-management-market-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Our insights into the minutest levels of the markets, including the latest trends and competitive landscape, give you all the answers you need to take your business to new heights",
+    "url": "https://www.psmarketresearch.com/market-analysis/gis-in-disaster-management-market-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.kenresearch.com/global-disaster-preparedness-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.kenresearch.com/global-disaster-preparedness-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Disaster Preparedness Systems Market Competitive Landscape",
+    "url": "https://www.kenresearch.com/global-disaster-preparedness-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "9.1 Market Share of Key Players",
+    "url": "https://www.kenresearch.com/global-disaster-preparedness-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "9.2 Cross Comparison of Key Players",
+    "url": "https://www.kenresearch.com/global-disaster-preparedness-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "1.7 Competitive landscape overview",
+    "url": "https://www.kenresearch.com/global-disaster-preparedness-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.persistencemarketresearch.com/market-research/crisis-emergency-and-incident-management-platforms-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "The regional competitive landscape, moderately consolidated, features global leaders specializing in AI-driven analytics and cloud-based platforms, including Motorola Solutions and Honeywell, complemented by agile mid-tier firms driving innovation in mobile alerting and IoT integration.",
+    "url": "https://www.persistencemarketresearch.com/market-research/crisis-emergency-and-incident-management-platforms-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the crisis, emergency, and incident management platforms market?",
+    "url": "https://www.persistencemarketresearch.com/market-research/crisis-emergency-and-incident-management-platforms-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Motorola Solutions, Inc., Honeywell International Inc., and IBM Corporation are some of the key players.",
+    "url": "https://www.persistencemarketresearch.com/market-research/crisis-emergency-and-incident-management-platforms-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/disaster-preparedness-system-market-28725",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.marketresearchfuture.com/reports/disaster-preparedness-system-market-28725",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players and Competitive Insights",
+    "url": "https://www.marketresearchfuture.com/reports/disaster-preparedness-system-market-28725",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies in the Disaster Preparedness System Market include",
+    "url": "https://www.marketresearchfuture.com/reports/disaster-preparedness-system-market-28725",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, and Trends",
+    "url": "https://www.marketresearchfuture.com/reports/disaster-preparedness-system-market-28725",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/disaster-preparedness-system-market-28725",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the Disaster Preparedness System Market?",
+    "url": "https://www.marketresearchfuture.com/reports/disaster-preparedness-system-market-28725",
+    "pass": 3
+   },
+   {
+    "quote": "Key players include Honeywell, Siemens, General Electric, and IBM, among others, leading the market with innovative solutions.",
+    "url": "https://www.marketresearchfuture.com/reports/disaster-preparedness-system-market-28725",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the natural disaster management industry include Atos SE, Esri, Inc., Motorola Solutions, Inc., and others. Companies are focusing on various strategic initiatives, including new product development, partnerships & collaborations, and agreements to gain a competitive advantage over their rivals.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/natural-disaster-management-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study on the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/natural-disaster-management-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company share, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/natural-disaster-management-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/natural-disaster-management-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the natural disaster management market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/natural-disaster-management-market-report",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "防災 システムの 市場規模 とシェア、2034 年 — 防災 システムの 市場規模 とシェア、2034 年 Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 情報技術",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E9%98%B2%E7%81%BD%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%B8%82%E5%A0%B4-117962",
+    "pass": 3
+   },
+   {
+    "quote": "防災 システムの 市場 規模と シェア 、2034 年 — 防災 システムの 市場 規模と シェア 、2034 年 Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 情報技術",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E9%98%B2%E7%81%BD%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%B8%82%E5%A0%B4-117962",
+    "pass": 3
+   },
+   {
+    "quote": "防災 システム - メーカー・ 企業 7社の業務用製品ランキング — 防災 システム - メーカー・ 企業 7社の業務用製品ランキング 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 防災システム",
+    "url": "https://mono.ipros.com/cg1/%E9%98%B2%E7%81%BD%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "Disaster management market size worth USD 199.91 billion ... — Disaster management market size worth USD 199.91 billion ... PreventionWeb.net https://www.preventionweb.net > news",
+    "url": "https://www.preventionweb.net/news/disaster-management-market-size-worth-usd-19991-billion-2034-cagr-121",
+    "pass": 3
+   },
+   {
+    "quote": "Disaster Management Market Size and Forecast 2026 to 2034 — Disaster Management Market Size and Forecast 2026 to 2034 Precedence Research https://www.precedenceresearch.com > ...",
+    "url": "https://www.precedenceresearch.com/disaster-management-market",
+    "pass": 3
+   },
+   {
+    "quote": "Disaster Management Market [2035] Size & Growth Report — Disaster Management Market [2035] Size & Growth Report Business Research Insights https://www.businessresearchinsights.com > ...",
+    "url": "https://www.businessresearchinsights.com/market-reports/disaster-management-market-105525",
+    "pass": 3
+   },
+   {
+    "quote": "GIS in Disaster Management Market | Growth Statistics By 2030 — GIS in Disaster Management Market | Growth Statistics By 2030 P&S Intelligence https://www.psmarketresearch.com > ...",
+    "url": "https://www.psmarketresearch.com/market-analysis/gis-in-disaster-management-market-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Natural Disaster Management Market (2026 - 2033) — Natural Disaster Management Market (2026 - 2033) Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/natural-disaster-management-market-report",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "北米は、災害備蓄システムの最大の市場であり、世界市場の約45%を占めています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725",
+    "pass": 3
+   },
+   {
+    "quote": "カナダは、全体の市場シェアの約20%を占める第二の市場として続いています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725",
+    "pass": 3
+   },
+   {
+    "quote": "この地域は、世界市場の約25%を占めており、ドイツと英国が最大の貢献国で、それぞれ約10%と8%を占めています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725",
+    "pass": 3
+   },
+   {
+    "quote": "この地域は、世界市場の約20%を占めており、日本やオーストラリアが先頭を切っています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725",
+    "pass": 3
+   },
+   {
+    "quote": "この地域は、世界市場の約10%を占めており、南アフリカやUAEが先頭を切っています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725",
+    "pass": 3
+   },
+   {
+    "quote": "市場全体の約82%を占めると予想",
+    "url": "https://www.enegaeru.com/disasterpreventionandmitigation-servicesmarket",
+    "pass": 3
+   },
+   {
+    "quote": "、2035年度にはサービス提供型の市場が70%以上を占めるようになると予測",
+    "url": "https://www.enegaeru.com/disasterpreventionandmitigation-servicesmarket",
+    "pass": 3
+   },
+   {
+    "quote": "気候変動適応に関連する市場セグメントが市場全体の40〜50%を占める",
+    "url": "https://www.enegaeru.com/disasterpreventionandmitigation-servicesmarket",
+    "pass": 3
+   },
+   {
+    "quote": "2025年シェア",
+    "url": "https://www.enegaeru.com/disasterpreventionandmitigation-servicesmarket",
+    "pass": 3
+   },
+   {
+    "quote": "2030年シェア",
+    "url": "https://www.enegaeru.com/disasterpreventionandmitigation-servicesmarket",
+    "pass": 3
+   },
+   {
+    "quote": "2040年シェア",
+    "url": "https://www.enegaeru.com/disasterpreventionandmitigation-servicesmarket",
+    "pass": 3
+   },
+   {
+    "quote": "2050年シェア",
+    "url": "https://www.enegaeru.com/disasterpreventionandmitigation-servicesmarket",
+    "pass": 3
+   },
+   {
+    "quote": "In terms of component, in 2024, the solution segment dominated the natural disaster management market share due to the heightened deployment of advanced early warning systems.",
+    "url": "https://www.preventionweb.net/news/disaster-management-market-size-worth-usd-19991-billion-2034-cagr-121",
+    "pass": 3
+   },
+   {
+    "quote": "Based on end user, in 2024, the rescue personnel segment accounted for the largest market share due to their frontline operational role requiring high-performance disaster response tools.",
+    "url": "https://www.preventionweb.net/news/disaster-management-market-size-worth-usd-19991-billion-2034-cagr-121",
+    "pass": 3
+   },
+   {
+    "quote": "In 2024, North America held the largest share of the natural disaster management market revenue due to significant federal and state-level investments in disaster preparedness, coupled with robust infrastructure for early warning systems and emergency response.",
+    "url": "https://www.preventionweb.net/news/disaster-management-market-size-worth-usd-19991-billion-2034-cagr-121",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominated the disaster management market in 2024.",
+    "url": "https://www.precedenceresearch.com/disaster-management-market",
+    "pass": 3
+   },
+   {
+    "quote": "By type, the surveillance system segment has held a major market share in 2024.",
+    "url": "https://www.precedenceresearch.com/disaster-management-market",
+    "pass": 3
+   },
+   {
+    "quote": "Olight, a global leader in portable lighting solutions donated 1,336 flashlights valued at $56,830 for enlightening millions of households without power devastated due to the wildfires sweeping through Los Angeles in January 2025.",
+    "url": "https://www.precedenceresearch.com/disaster-management-market",
+    "pass": 3
+   },
+   {
+    "quote": "In September 2024, ICEYE, a global leader in satellite-powered disaster management solutions declared the expansion of data licensing agreement by Aon which will include ICEYE's Flood Insights data globally and Wildfire Insights data for the U.S.",
+    "url": "https://www.precedenceresearch.com/disaster-management-market",
+    "pass": 3
+   },
+   {
+    "quote": "In July 2024, CENTEGIX, an industrial leader and largest provider of wearable safety technology announced collaboration with Axon enterprise, a global public safety technology leader. The partnership will integrate CENTEGIX into Fusus by Axon platform which is a broadly used and trusted emergency and incident management software provider for real-time crime center operations.",
+    "url": "https://www.precedenceresearch.com/disaster-management-market",
+    "pass": 3
+   },
+   {
+    "quote": "In 2025, North America dominated with a 49.8% share owing to the substantial investments and a robust existing response infrastructure.",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/natural-disaster-management-market",
+    "pass": 3
+   },
+   {
+    "quote": "By region, the study provides natural disaster management market insights into North America, Europe, Asia Pacific, Latin America, and the Middle East & Africa. In 2025, North America dominated the natural disaster management market share due to significant federal and state-level investments in",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/natural-disaster-management-market",
+    "pass": 3
+   },
+   {
+    "quote": "3. Which region dominated the global natural disaster management market share in 2025?",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/natural-disaster-management-market",
+    "pass": 3
+   },
+   {
+    "quote": "In 2025, North America accounted for the largest market share due to significant federal and state-level investments in disaster preparedness, coupled with robust infrastructure for early warning systems and emergency response.",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/natural-disaster-management-market",
+    "pass": 3
+   },
+   {
+    "quote": "5. Which segment, by component, accounted for a larger share of the natural disaster management market revenue in 2025?",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/natural-disaster-management-market",
+    "pass": 3
+   },
+   {
+    "quote": "In 2025, the solution segment accounted for a larger market share due to the heightened deployment of advanced early warning systems, geospatial intelligence platforms, and risk modeling software.",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/natural-disaster-management-market",
+    "pass": 3
+   },
+   {
+    "quote": "6. In 2025, which segment, based on end user, accounted for the largest market share?",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/natural-disaster-management-market",
+    "pass": 3
+   },
+   {
+    "quote": "In 2025, the rescue personnel segment accounted for the largest market share due to their frontline operational role requiring high-performance disaster response tools.",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/natural-disaster-management-market",
+    "pass": 3
+   },
+   {
+    "quote": "By type, the surveillance system segment dominated the market with a revenue share of more than 35.0% in 2022.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/disaster-preparedness-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "By solution, the disaster recovery solutions segment dominated the disaster preparedness system market in 2022.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/disaster-preparedness-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "By service, the consulting services segment dominated the market with a revenue share of more than 39.0% in 2022.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/disaster-preparedness-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "By end use, the BFSI segment dominated the market in 2022 with a revenue share of more than 20.0%.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/disaster-preparedness-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "The surveillance system segment dominated the market with a revenue share of more than 35.0% in 2022. Various factors, including the escalating occurrence of natural disasters, unpredictable climatic conditions, the prevalence of domestic violence, and government emphasis on safety policies, have prompted emergency management agencies to adopt and enhance surveillance systems in urban areas.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/disaster-preparedness-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "The disaster recovery solutions segment dominated the disaster preparedness system market in 2022 with a revenue share of more than 40.0%. Organizations, regardless of their size, adopt disaster recovery solutions to swiftly recover their crucial data, hardware, and applications, essential for uninterrupted business operations.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/disaster-preparedness-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominated with a revenue share of 33.0% in 2022.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/disaster-preparedness-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "9.1 Market Share of Key Players",
+    "url": "https://www.kenresearch.com/global-disaster-preparedness-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "9.2.4 Market Share in Disaster Preparedness Systems",
+    "url": "https://www.kenresearch.com/global-disaster-preparedness-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "Emergency/mass notification systems are set to dominate with a 28.5% market share in 2025, driven by urbanization and regulatory mandates.",
+    "url": "https://www.persistencemarketresearch.com/market-research/crisis-emergency-and-incident-management-platforms-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "The government & defense vertical is expected to hold a projected 37% market share in 2025, remaining the largest end-user segment in the market.",
+    "url": "https://www.persistencemarketresearch.com/market-research/crisis-emergency-and-incident-management-platforms-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "North America is anticipated to lead with an estimated 42% market share, supported by strong disaster regulations of the U.S. and technological innovation.",
+    "url": "https://www.persistencemarketresearch.com/market-research/crisis-emergency-and-incident-management-platforms-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "By component: Solution segment led the market with the largest revenue share of 62.3% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/natural-disaster-management-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By communication system: Satellite-assisted communication system segment accounted for the largest market revenue share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/natural-disaster-management-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By application: Flood detection & management segment accounted for the largest market revenue share in 2025",
+    "url": "https://www.grandviewresearch.com/industry-analysis/natural-disaster-management-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The flood detection & management segment accounted for the largest market revenue share in 2025, driven by the increasing frequency and severity of flood events worldwide. Governments and disaster response agencies are adopting advanced technologies, such as real-time monitoring systems, remote sensing, and",
+    "url": "https://www.grandviewresearch.com/industry-analysis/natural-disaster-management-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominated with a 33.0% revenue share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/natural-disaster-management-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The solution segment accounted for the largest revenue share of 62.3% in the global natural disaster management market in 2025, driven by strong growth across the disaster relief market and disaster preparedness system market, as organizations increasingly adopt advanced digital platforms to enhance preparedness, response, and recovery capabilities.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/natural-disaster-management-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "This year’s Global Assessment Report on Disaster Risk Reduction examines the risks posed by disasters from now to 2050 and presents an indisputable case for action. This report clearly shows that investing in disaster risk reduction saves money, saves lives, and lays the foundation for a safe and prosperous future for us all. I urge all leaders to heed that call.",
+    "url": "https://www.undrr.org/gar/gar2025",
+    "pass": 3
+   },
+   {
+    "quote": "Approximately 1.2 billion people are expected to be living in cities by 2050 compared to 2020. This growth will be heavily concentrated in the Global South, accounting for 98% of the total. Ensuring these new buildings are safely situated and adequately constructed could potentially save lives while also safeguarding sustainable development, particularly in rapidly urbanizing locations.",
+    "url": "https://www.undrr.org/gar/gar2025",
+    "pass": 3
+   },
+   {
+    "quote": "Earthquakes account for over a quarter (25.6%) of global economic disaster losses.",
+    "url": "https://www.undrr.org/gar/gar2025",
+    "pass": 3
+   },
+   {
+    "quote": "Recent data suggests that floods account for up to 35–40% of weather-related disaster occurrences.",
+    "url": "https://www.undrr.org/gar/gar2025",
+    "pass": 3
+   },
+   {
+    "quote": "In some regions, storms account for up to 35% of total recorded disaster costs, driven by high winds, storm surges, and heavy rainfall.",
+    "url": "https://www.undrr.org/gar/gar2025",
+    "pass": 3
+   },
+   {
+    "quote": "North America Dominated the Natural Disaster Management Market in 2025",
+    "url": "https://www.sphericalinsights.com/blogs/top-10-companies-in-global-natural-disaster-management-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "North America Dominated the Natural Disaster Management Market in 2025.",
+    "url": "https://www.sphericalinsights.com/blogs/top-10-companies-in-global-natural-disaster-management-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "Detailed Explanations: Top 5 Trends",
+    "url": "https://www.sphericalinsights.com/blogs/top-10-companies-in-global-natural-disaster-management-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share (2025)",
+    "url": "https://dataintelo.com/report/disaster-management-market",
+    "pass": 3
+   },
+   {
+    "quote": "Share of 2025 revenue",
+    "url": "https://dataintelo.com/report/disaster-management-market",
+    "pass": 3
+   },
+   {
+    "quote": "The competitive chapter profiles 15 companies with business overview, product portfolio, recent developments and strategy, and ranks them by market share. Shares are in the report.",
+    "url": "https://dataintelo.com/report/disaster-management-market",
+    "pass": 3
+   },
+   {
+    "quote": "16.2 Global Disaster Management Market: Market Share Analysis, 2025",
+    "url": "https://dataintelo.com/report/disaster-management-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading companies include Motorola Solutions, Tetra Tech, AT&T through FirstNet, Octave (the former Hexagon safety business), Everbridge, Genasys, Honeywell, Siemens, NEC, Esri, IBM, Lockheed Martin, Jacobs, AECOM and Intersec. Motorola Solutions is the largest dedicated supplier, with 2025 sales of USD 11.7 billion, but the market remains fragmented across many regional firms.",
+    "url": "https://dataintelo.com/report/disaster-management-market",
+    "pass": 3
+   },
+   {
+    "quote": "Dataintelo research set North America's share of world spending from federal budgets, FirstNet coverage, catastrophe losses and the home markets of the leading vendors, which placed the 2025 world total at USD 140.0 billion.",
+    "url": "https://dataintelo.com/report/disaster-management-market",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "In 2024, North America held the largest share of the natural disaster management market revenue due to significant federal and state-level investments in disaster preparedness, coupled with robust infrastructure for early warning systems and emergency response.",
+    "url": "https://www.preventionweb.net/news/disaster-management-market-size-worth-usd-19991-billion-2034-cagr-121",
+    "pass": 3
+   },
+   {
+    "quote": "In 2025, North America dominated with a 49.8% share owing to the substantial investments and a robust existing response infrastructure.",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/natural-disaster-management-market",
+    "pass": 3
+   },
+   {
+    "quote": "By region, the study provides natural disaster management market insights into North America, Europe, Asia Pacific, Latin America, and the Middle East & Africa. In 2025, North America dominated the natural disaster management market share due to significant federal and state-level investments in",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/natural-disaster-management-market",
+    "pass": 3
+   },
+   {
+    "quote": "In 2025, North America accounted for the largest market share due to significant federal and state-level investments in disaster preparedness, coupled with robust infrastructure for early warning systems and emergency response.",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/natural-disaster-management-market",
+    "pass": 3
+   },
+   {
+    "quote": "4.2.1.1. Government Investments in Resilience Infrastructure",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/natural-disaster-management-market",
+    "pass": 3
+   },
+   {
+    "quote": "3.2.1 High initial investment costs",
+    "url": "https://www.kenresearch.com/global-disaster-preparedness-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "3.4.1 Increasing investment in smart technologies",
+    "url": "https://www.kenresearch.com/global-disaster-preparedness-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "3.5.3 Funding and grants for disaster preparedness initiatives",
+    "url": "https://www.kenresearch.com/global-disaster-preparedness-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "8.6 By Investment Source",
+    "url": "https://www.kenresearch.com/global-disaster-preparedness-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "8.6.1 Public Funding",
+    "url": "https://www.kenresearch.com/global-disaster-preparedness-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "8.6.2 Private Investments",
+    "url": "https://www.kenresearch.com/global-disaster-preparedness-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "8.6.4 Crowdfunding Initiatives",
+    "url": "https://www.kenresearch.com/global-disaster-preparedness-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "9.2.6 R&D Investment as % of Revenue",
+    "url": "https://www.kenresearch.com/global-disaster-preparedness-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific is poised to be the fastest-growing regional market from 2025 to 2032 at around 7.3% CAGR, benefiting from higher investments in disaster reduction technologies, policy reforms, and aggressive Smart City investments.",
+    "url": "https://www.persistencemarketresearch.com/market-research/crisis-emergency-and-incident-management-platforms-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific is the fastest-growing regional market for crisis, emergency, and incident management platforms, poised to expand at a CAGR of 7.3% between 2025 and 2032. This growth is energized by a convergence of factors, including rapid urbanization in China, India, and ASEAN nations, government-led Smart City investments, and increasing digital literacy rates facilitating technology penetration.",
+    "url": "https://www.persistencemarketresearch.com/market-research/crisis-emergency-and-incident-management-platforms-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "As we approach the Fourth Financing for Development Conference later this year, the GAR 2025 carries an important message for us all: investment in disaster risk reduction not only provides a great return on investment, it is essential for our common future.",
+    "url": "https://www.undrr.org/gar/gar2025",
+    "pass": 3
+   },
+   {
+    "quote": "GAR 2025 outlines how better investment pathways can help break these three downward spirals and how choices today will shape our resilience tomorrow.",
+    "url": "https://www.undrr.org/gar/gar2025",
+    "pass": 3
+   },
+   {
+    "quote": "Funding gaps in developing countries are a further constraint. Early Warnings for All needs USD 3.1 billion over five years, and gaps persist in least developed countries and small island states. Much of the demand in these markets depends on multilateral lenders and donors, which lengthens sales cycles and favors vendors with local partners and financing experience.",
+    "url": "https://dataintelo.com/report/disaster-management-market",
+    "pass": 3
+   },
+   {
+    "quote": "10.5 Investment Scenario",
+    "url": "https://dataintelo.com/report/disaster-management-market",
+    "pass": 3
+   },
+   {
+    "quote": "Major programs include the US Disaster Relief Fund and FEMA grants such as the Next Generation Warning System program, the EU Civil Protection Mechanism with EUR 3.32 billion for 2021 to 2027, Japan's national resilience plan for FY2026 to FY2030, and India's National Disaster Risk Management Fund. The UN Early Warnings for All initiative steers funding toward developing countries.",
+    "url": "https://dataintelo.com/report/disaster-management-market",
+    "pass": 3
+   },
+   {
+    "quote": ": More than 20 trillion yen of resilience investment, behind the Asia Pacific growth rate",
+    "url": "https://dataintelo.com/report/disaster-management-market",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "12.3",
+    "url": "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0069.html",
+    "quote": "予測期間中の年平均成長率（CAGR）は 12.3% と非常に高く、世界的に最も成長が期待される防災関連市場の一つとなっています"
+   },
+   {
+    "value": "7.4",
+    "url": "https://prtimes.jp/main/html/rd/p/000000016.000091008.html",
+    "quote": "災害対策システムの世界市場規模は2030年に2981億米ドル|年平均成長率（CAGR）: 7.4％ | Panorama Data Insights Ltd.のプレスリリース"
+   },
+   {
+    "value": "6.28",
+    "url": "https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725",
+    "quote": "2025年から2035年の予測期間中の災害対策システム市場の予想CAGRは6.28%です"
+   },
+   {
+    "value": "12.1",
+    "url": "https://www.preventionweb.net/news/disaster-management-market-size-worth-usd-19991-billion-2034-cagr-121",
+    "quote": "Disaster management market size worth USD 199.91 billion by 2034 | CAGR: 12.1%"
+   },
+   {
+    "value": "6.20",
+    "url": "https://www.precedenceresearch.com/disaster-management-market",
+    "quote": "The global disaster management market size is estimated at USD 107.92 billion in 2026 and is predicted to reach around USD 174.62 billion by 2034, accelerating at a CAGR of 6.20% from 2025 to 2034. The market sizing and forecasts are revenue-based (USD Million/Billion), with 2024 as the base year"
+   },
+   {
+    "value": "12.5",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/natural-disaster-management-market",
+    "quote": "The Asia Pacific region is projected to show rapid growth, with a CAGR of 12.5%. This acceleration is largely fueled by the growing frequency of climate-related disasters."
+   },
+   {
+    "value": "12.1",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/natural-disaster-management-market",
+    "quote": "The global market is projected to register a CAGR of 12.1% during the forecast period."
+   },
+   {
+    "value": "8.7",
+    "url": "https://www.grandviewresearch.com/industry-analysis/disaster-preparedness-systems-market",
+    "quote": "The situational awareness solutions segment is anticipated to register the fastest CAGR of 8.7% over the forecast period. The increasing demand for surveillance and"
+   },
+   {
+    "value": "8.5",
+    "url": "https://www.grandviewresearch.com/industry-analysis/disaster-preparedness-systems-market",
+    "quote": "CAGR of 8.5 % from 2023 to 2030"
+   },
+   {
+    "value": "6.2",
+    "url": "https://www.persistencemarketresearch.com/market-research/crisis-emergency-and-incident-management-platforms-market.asp",
+    "quote": "at a CAGR of 6.2%"
+   },
+   {
+    "value": "7.3",
+    "url": "https://www.persistencemarketresearch.com/market-research/crisis-emergency-and-incident-management-platforms-market.asp",
+    "quote": "Asia Pacific is the fastest-growing regional market for crisis, emergency, and incident management platforms, poised to expand at a CAGR of 7.3% between 2025 and 2032. This growth is energized by a convergence of factors, including rapid urbanization in China, India, and ASEAN nations, government-le"
+   },
+   {
+    "value": "6.28",
+    "url": "https://www.marketresearchfuture.com/reports/disaster-preparedness-system-market-28725",
+    "quote": "As per Market Research Future analysis, the Disaster Preparedness System Market Size was estimated at 14.72 USD Billion in 2024. The Disaster Preparedness System industry is projected to grow from 15.64 USD Billion in 2025 to 28.77 USD Billion by 2035, exhibiting a compound annual growth rate (CAGR)"
+   },
+   {
+    "value": "12.5",
+    "url": "https://www.grandviewresearch.com/industry-analysis/natural-disaster-management-market-report",
+    "quote": "CAGR of 12.5% from 2026 to 2033"
+   },
+   {
+    "value": "4.68",
+    "url": "https://www.sphericalinsights.com/blogs/top-10-companies-in-global-natural-disaster-management-market-2026-2035-expert-view-by-spherical-insights",
+    "quote": "According to a research report published by Spherical Insights & Consulting, The Global Natural Disaster Detection IoT Market size is projected to grow from USD 73.1 Billion in 2025 to USD 237.38 Billion by 2035, at a CAGR of 4.68 % during the forecast period 2026–2035."
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "45",
+    "url": "https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725",
+    "quote": "北米は、災害備蓄システムの最大の市場であり、世界市場の約45%を占めています"
+   },
+   {
+    "value": "20",
+    "url": "https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725",
+    "quote": "カナダは、全体の市場シェアの約20%を占める第二の市場として続いています"
+   },
+   {
+    "value": "25",
+    "url": "https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725",
+    "quote": "この地域は、世界市場の約25%を占めており、ドイツと英国が最大の貢献国で、それぞれ約10%と8%を占めています"
+   },
+   {
+    "value": "10",
+    "url": "https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725",
+    "quote": "この地域は、世界市場の約25%を占めており、ドイツと英国が最大の貢献国で、それぞれ約10%と8%を占めています"
+   },
+   {
+    "value": "8",
+    "url": "https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725",
+    "quote": "この地域は、世界市場の約25%を占めており、ドイツと英国が最大の貢献国で、それぞれ約10%と8%を占めています"
+   },
+   {
+    "value": "82",
+    "url": "https://www.enegaeru.com/disasterpreventionandmitigation-servicesmarket",
+    "quote": "市場全体の約82%を占めると予想"
+   },
+   {
+    "value": "70",
+    "url": "https://www.enegaeru.com/disasterpreventionandmitigation-servicesmarket",
+    "quote": "、2035年度にはサービス提供型の市場が70%以上を占めるようになると予測"
+   },
+   {
+    "value": "50",
+    "url": "https://www.enegaeru.com/disasterpreventionandmitigation-servicesmarket",
+    "quote": "気候変動適応に関連する市場セグメントが市場全体の40〜50%を占める"
+   },
+   {
+    "value": "49.8",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/natural-disaster-management-market",
+    "quote": "In 2025, North America dominated with a 49.8% share owing to the substantial investments and a robust existing response infrastructure."
+   },
+   {
+    "value": "35.0",
+    "url": "https://www.grandviewresearch.com/industry-analysis/disaster-preparedness-systems-market",
+    "quote": "By type, the surveillance system segment dominated the market with a revenue share of more than 35.0% in 2022."
+   },
+   {
+    "value": "39.0",
+    "url": "https://www.grandviewresearch.com/industry-analysis/disaster-preparedness-systems-market",
+    "quote": "By service, the consulting services segment dominated the market with a revenue share of more than 39.0% in 2022."
+   },
+   {
+    "value": "20.0",
+    "url": "https://www.grandviewresearch.com/industry-analysis/disaster-preparedness-systems-market",
+    "quote": "By end use, the BFSI segment dominated the market in 2022 with a revenue share of more than 20.0%."
+   },
+   {
+    "value": "40.0",
+    "url": "https://www.grandviewresearch.com/industry-analysis/disaster-preparedness-systems-market",
+    "quote": "The disaster recovery solutions segment dominated the disaster preparedness system market in 2022 with a revenue share of more than 40.0%. Organizations, regardless of their size, adopt disaster recovery solutions to swiftly recover their crucial data, hardware, and applications, essential for unint"
+   },
+   {
+    "value": "33.0",
+    "url": "https://www.grandviewresearch.com/industry-analysis/disaster-preparedness-systems-market",
+    "quote": "North America dominated with a revenue share of 33.0% in 2022."
+   },
+   {
+    "value": "28.5",
+    "url": "https://www.persistencemarketresearch.com/market-research/crisis-emergency-and-incident-management-platforms-market.asp",
+    "quote": "Emergency/mass notification systems are set to dominate with a 28.5% market share in 2025, driven by urbanization and regulatory mandates."
+   },
+   {
+    "value": "37",
+    "url": "https://www.persistencemarketresearch.com/market-research/crisis-emergency-and-incident-management-platforms-market.asp",
+    "quote": "The government & defense vertical is expected to hold a projected 37% market share in 2025, remaining the largest end-user segment in the market."
+   },
+   {
+    "value": "42",
+    "url": "https://www.persistencemarketresearch.com/market-research/crisis-emergency-and-incident-management-platforms-market.asp",
+    "quote": "North America is anticipated to lead with an estimated 42% market share, supported by strong disaster regulations of the U.S. and technological innovation."
+   },
+   {
+    "value": "62.3",
+    "url": "https://www.grandviewresearch.com/industry-analysis/natural-disaster-management-market-report",
+    "quote": "By component: Solution segment led the market with the largest revenue share of 62.3% in 2025."
+   },
+   {
+    "value": "33.0",
+    "url": "https://www.grandviewresearch.com/industry-analysis/natural-disaster-management-market-report",
+    "quote": "North America dominated with a 33.0% revenue share in 2025."
+   },
+   {
+    "value": "98",
+    "url": "https://www.undrr.org/gar/gar2025",
+    "quote": "Approximately 1.2 billion people are expected to be living in cities by 2050 compared to 2020. This growth will be heavily concentrated in the Global South, accounting for 98% of the total. Ensuring these new buildings are safely situated and adequately constructed could potentially save lives while"
+   },
+   {
+    "value": "25.6",
+    "url": "https://www.undrr.org/gar/gar2025",
+    "quote": "Earthquakes account for over a quarter (25.6%) of global economic disaster losses."
+   },
+   {
+    "value": "40",
+    "url": "https://www.undrr.org/gar/gar2025",
+    "quote": "Recent data suggests that floods account for up to 35–40% of weather-related disaster occurrences."
+   },
+   {
+    "value": "35",
+    "url": "https://www.undrr.org/gar/gar2025",
+    "quote": "In some regions, storms account for up to 35% of total recorded disaster costs, driven by high winds, storm surges, and heavy rainfall."
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0069.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000016.000091008.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/disaster-management-market-105525",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E9%98%B2%E7%81%BD%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%B8%82%E5%A0%B4-117962",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/3468120",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/disasterpreventionmanufacturer",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mono.ipros.com/cg1/%E9%98%B2%E7%81%BD%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seedplanning.co.jp/archive/press/2020/2020120401.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/industry/20260529-disaster-prevention/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3909?srsltid=AYCX9vICZ5eIE8SequLm4IjS3QIP8PT3t1dnbIh-EVdQY8qKg8kyeLjI",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.digital-gyosei.com/post/2025-06-18-research-report-disaster-risk-reduction/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.enegaeru.com/disasterpreventionandmitigation-servicesmarket",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://adv.tokyo-np.co.jp/prtimes/article105920/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yanoict.com/summary/show/id/782",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.preventionweb.net/news/disaster-management-market-size-worth-usd-19991-billion-2034-cagr-121",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/disaster-management-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/emergency-and-disaster-response-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/incident-and-emergency-management-market-101062",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.polarismarketresearch.com/industry-analysis/natural-disaster-management-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/disaster-preparedness-systems-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/incident-emergency-management-market-1280.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.psmarketresearch.com/market-analysis/gis-in-disaster-management-market-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kenresearch.com/global-disaster-preparedness-systems-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/market-reports/disaster-management-market-105525",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.persistencemarketresearch.com/market-research/crisis-emergency-and-incident-management-platforms-market.asp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.preplounge.com/consulting-forum/market-entry-fragmented-vs-concentrated-competitive-landscape-10175",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/disaster-preparedness-system-market-28725",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.consolidated.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.consolidated.com/support/billing-support/my-account",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/natural-disaster-management-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ibisworld.com/united-states/industry/natural-disaster-emergency-relief-services/1614/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.undrr.org/gar/gar2025",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/blogs/top-10-companies-in-global-natural-disaster-management-market-2026-2035-expert-view-by-spherical-insights",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataintelo.com/report/disaster-management-market",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "防災技術 市場規模 CAGR",
+   "results": [
+    "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0069.html",
+    "https://prtimes.jp/main/html/rd/p/000000016.000091008.html",
+    "https://www.businessresearchinsights.com/jp/market-reports/disaster-management-market-105525",
+    "https://www.fortunebusinessinsights.com/jp/%E9%98%B2%E7%81%BD%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%B8%82%E5%A0%B4-117962",
+    "https://newscast.jp/smart/news/3468120",
+    "https://bizdev.reinforz.co.jp/4707",
+    "https://www.databridgemarketresearch.com/jp/reports/global-natural-disaster-management-market",
+    "https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725",
+    "https://www.consegicbusinessintelligence.com/ja/%E8%87%AA%E7%84%B6%E7%81%BD%E5%AE%B3%E7%AE%A1%E7%90%86%E5%B8%82%E5%A0%B4-3195",
+    "https://disaster-tech.businesshub.trueone.co.jp/page-01-market-overview.html"
+   ]
+  },
+  {
+   "query": "防災技術 市場 シェア 上位 企業",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E9%98%B2%E7%81%BD%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%B8%82%E5%A0%B4-117962",
+    "https://service.xenobrain.jp/forecastresults/market-size/disasterpreventionmanufacturer",
+    "https://mono.ipros.com/cg1/%E9%98%B2%E7%81%BD%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/",
+    "https://www.seedplanning.co.jp/press/2020/2020120401.html",
+    "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0069.html",
+    "https://www.tdb.co.jp/report/industry/20260529-disaster-prevention/",
+    "https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725",
+    "https://deallab.info/fire-detection/",
+    "https://snagged780.inkrich.com/posts/disaster-preparedness-systems-652851-mvua29tl"
+   ]
+  },
+  {
+   "query": "防災技術 市場 前年比 2025",
+   "results": [
+    "https://www.yano.co.jp/press-release/show/press_id/3909?srsltid=AYCX9vICZ5eIE8SequLm4IjS3QIP8PT3t1dnbIh-EVdQY8qKg8kyeLjI",
+    "https://www.digital-gyosei.com/post/2025-06-18-research-report-disaster-risk-reduction/",
+    "https://www.enegaeru.com/disasterpreventionandmitigation-servicesmarket",
+    "https://adv.tokyo-np.co.jp/prtimes/article105920/",
+    "https://www.yanoict.com/summary/show/id/782",
+    "https://www.nint.jp/blog/ec-disaster-preparedness-market-trend/",
+    "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0069.html",
+    "https://www.pc-webzine.com/article/3921",
+    "https://www.weeklybcn.com/journal/news/detail/20250910_211819.html",
+    "https://www.yano.co.jp/press-release/show/press_id/3909"
+   ]
+  },
+  {
+   "query": "disaster management market size CAGR 2025",
+   "results": [
+    "https://www.preventionweb.net/news/disaster-management-market-size-worth-usd-19991-billion-2034-cagr-121",
+    "https://www.precedenceresearch.com/disaster-management-market",
+    "https://www.mordorintelligence.com/industry-reports/emergency-and-disaster-response-market",
+    "https://www.fortunebusinessinsights.com/industry-reports/incident-and-emergency-management-market-101062",
+    "https://www.polarismarketresearch.com/industry-analysis/natural-disaster-management-market",
+    "https://www.businessresearchinsights.com/market-reports/disaster-management-market-105525",
+    "https://www.databridgemarketresearch.com/reports/global-natural-disaster-management-market",
+    "https://www.marketsandmarkets.com/Market-Reports/incident-emergency-management-market-1280.html",
+    "https://www.grandviewresearch.com/industry-analysis/natural-disaster-management-market-report",
+    "https://dataintelo.com/report/disaster-management-market"
+   ]
+  },
+  {
+   "query": "disaster management market share top players percent",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/disaster-preparedness-systems-market",
+    "https://www.preventionweb.net/news/disaster-management-market-size-worth-usd-19991-billion-2034-cagr-121",
+    "https://www.fortunebusinessinsights.com/industry-reports/incident-and-emergency-management-market-101062",
+    "https://www.mordorintelligence.com/industry-reports/emergency-and-disaster-response-market",
+    "https://www.marketsandmarkets.com/Market-Reports/incident-emergency-management-market-1280.html",
+    "https://www.psmarketresearch.com/market-analysis/gis-in-disaster-management-market-analysis",
+    "https://www.linkedin.com/pulse/natural-disaster-management-market-2030-size-share-trends-sharma-srmsf",
+    "https://www.kenresearch.com/global-disaster-preparedness-systems-market",
+    "https://www.polarismarketresearch.com/industry-analysis/natural-disaster-management-market",
+    "https://www.precedenceresearch.com/disaster-management-market"
+   ]
+  },
+  {
+   "query": "disaster management market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.persistencemarketresearch.com/market-research/crisis-emergency-and-incident-management-platforms-market.asp",
+    "https://www.businessresearchinsights.com/market-reports/disaster-management-market-105525",
+    "https://www.mordorintelligence.com/industry-reports/emergency-and-disaster-response-market",
+    "https://www.grandviewresearch.com/industry-analysis/disaster-preparedness-systems-market",
+    "https://www.preplounge.com/consulting-forum/market-entry-fragmented-vs-concentrated-competitive-landscape-10175",
+    "https://www.linkedin.com/pulse/disaster-management-market-trends-opportunities-mr-rx-market-flow-n2g2f/",
+    "https://www.marketsandmarkets.com/Market-Reports/incident-emergency-management-market-1280.html",
+    "https://www.fortunebusinessinsights.com/industry-reports/incident-and-emergency-management-market-101062",
+    "https://www.marketresearchfuture.com/reports/disaster-preparedness-system-market-28725",
+    "https://www.consolidated.com/"
+   ]
+  },
+  {
+   "query": "disaster management market key companies share 2025",
+   "results": [
+    "https://www.precedenceresearch.com/disaster-management-market",
+    "https://www.polarismarketresearch.com/industry-analysis/natural-disaster-management-market",
+    "https://www.fortunebusinessinsights.com/industry-reports/incident-and-emergency-management-market-101062",
+    "https://www.grandviewresearch.com/industry-analysis/natural-disaster-management-market-report",
+    "https://www.mordorintelligence.com/industry-reports/emergency-and-disaster-response-market",
+    "https://www.ibisworld.com/united-states/industry/natural-disaster-emergency-relief-services/1614/",
+    "https://www.undrr.org/gar/gar2025",
+    "https://www.sphericalinsights.com/blogs/top-10-companies-in-global-natural-disaster-management-market-2026-2035-expert-view-by-spherical-insights",
+    "https://www.businessresearchinsights.com/market-reports/disaster-management-market-105525",
+    "https://dataintelo.com/report/disaster-management-market"
+   ]
+  }
+ ],
+ "missing": {}
+}

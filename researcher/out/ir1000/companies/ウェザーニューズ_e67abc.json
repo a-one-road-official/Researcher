@@ -1,0 +1,1058 @@
+{
+ "name": "ウェザーニューズ",
+ "aliases": [],
+ "context": "証券コード4825／情報・通信業／プライム（内国株式）／2026.05期 売上高24,479百万円 営業利益率21.4%",
+ "researched_at": "2026-11-02T17:40:25.651543+00:00",
+ "official_url": "https://jp.weathernews.com/",
+ "identified_by": "search:yahoo_jp:ウェザーニューズ",
+ "profile": {
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "ウェザーニューズでは、世界各地で発生する気象現象を的確に把握するために社内で開発した気象モデルや独自インフラを組み合わせ、50カ国以上の顧客、45の市場に対して個々の状況に応じたサービスを展開しています。 法人向けのBtoB事業では、海・空・陸における交通を始め、流通、エネルギーなど多様な産業分野において、リスクへの対応策を支援するコンテンツを提供しています。 個人向けのBtoS(S：supporter)事業では、主にスマートフォンアプリ「ウェザーニュース」や、24時間生放送配信を行う「ウェザーニュースLiVE」を通して情報を提供するだけでなく、サポーター参加型のコンテンツを通した双方向型ネットワークを基に、一人ひとりに合う予測情報をサポーターと共に作り上げています。",
+    "url": "https://job.mynavi.jp/28/pc/search/corp210451/outline.html",
+    "pass": 3
+   }
+  ],
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1986年",
+    "url": "https://job.mynavi.jp/28/pc/search/corp210451/outline.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "1,105人 ( 2026年5月31日現在 )",
+    "url": "https://job.mynavi.jp/28/pc/search/corp210451/outline.html",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "244億79百万円 ( 2026年5月期 )",
+    "url": "https://job.mynavi.jp/28/pc/search/corp210451/outline.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "サービス一覧",
+    "url": "https://jp.weathernews.com/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの流れ",
+    "url": "https://jp.weathernews.com/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちのサービス",
+    "url": "https://jp.weathernews.com/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスラインナップへ",
+    "url": "https://jp.weathernews.com/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://jp.weathernews.com/irinfo/news/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの流れ",
+    "url": "https://jp.weathernews.com/irinfo/news/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://jp.weathernews.com/corporate-outline/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの流れ",
+    "url": "https://jp.weathernews.com/corporate-outline/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://jp.weathernews.com/corporate-outline/our-business-strategy/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの流れ",
+    "url": "https://jp.weathernews.com/corporate-outline/our-business-strategy/",
+    "pass": 1
+   },
+   {
+    "quote": "DataDrivenでコンテンツやサービスをサポーターに問い続け、Aggressively Adaptable Companyとして新たな価値を引き出し育てていくことで、サポーターに愛され、期待され続けるコンテンツ・メーカーになろう",
+    "url": "https://jp.weathernews.com/corporate-outline/our-business-strategy/",
+    "pass": 1
+   },
+   {
+    "quote": "革新的なサービスへの挑戦",
+    "url": "https://jp.weathernews.com/corporate-outline/our-business-strategy/",
+    "pass": 1
+   },
+   {
+    "quote": "無常識な発想を持ち、一匹目のペンギンの如く失敗を恐れずに、Data、Forecast、Communityの連鎖による革新的なサービスの創造や全く新しい市場の開拓に常に挑戦しよう",
+    "url": "https://jp.weathernews.com/corporate-outline/our-business-strategy/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://jp.weathernews.com/corporate-outline/our-history/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの流れ",
+    "url": "https://jp.weathernews.com/corporate-outline/our-history/",
+    "pass": 1
+   },
+   {
+    "quote": "創業時と比べ、気象技術やサービスは格段に進化しました",
+    "url": "https://jp.weathernews.com/corporate-outline/our-history/",
+    "pass": 1
+   },
+   {
+    "quote": "フルサービスウェザーカンパニーへの歩み",
+    "url": "https://jp.weathernews.com/corporate-outline/our-history/",
+    "pass": 1
+   },
+   {
+    "quote": "海洋気象の専門会社として、船舶の最も安全で経済的な航路を推薦する「ウェザールーティングサービス」を提供",
+    "url": "https://jp.weathernews.com/corporate-outline/our-history/",
+    "pass": 1
+   },
+   {
+    "quote": "ピンポイント気象サービスの開始",
+    "url": "https://jp.weathernews.com/corporate-outline/our-history/",
+    "pass": 1
+   },
+   {
+    "quote": "放送局向けサービスの開始",
+    "url": "https://jp.weathernews.com/corporate-outline/our-history/",
+    "pass": 1
+   },
+   {
+    "quote": "放送局からの1本の電話から、衛星画像をテレビで放送するという当時としては画期的なサービスを提供",
+    "url": "https://jp.weathernews.com/corporate-outline/our-history/",
+    "pass": 1
+   },
+   {
+    "quote": "ヘリコプターの運航会社に対して、安全な運航をサポートする航空気象サービスを提供開始",
+    "url": "https://jp.weathernews.com/corporate-outline/our-history/",
+    "pass": 1
+   },
+   {
+    "quote": "ウェザーマーケティングサービスを開始",
+    "url": "https://jp.weathernews.com/corporate-outline/our-history/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの価値に安全性だけでなく、経済性も加わる",
+    "url": "https://jp.weathernews.com/corporate-outline/our-history/",
+    "pass": 1
+   },
+   {
+    "quote": "個人向け気象情報サービスの開始",
+    "url": "https://jp.weathernews.com/corporate-outline/our-history/",
+    "pass": 1
+   },
+   {
+    "quote": "電力会社の業務を支援する電力気象サービスが開始",
+    "url": "https://jp.weathernews.com/corporate-outline/our-history/",
+    "pass": 1
+   },
+   {
+    "quote": "世界向けの気象情報サービスを集中運営する「幕張天気街（ウェザーストリート）」を開設",
+    "url": "https://jp.weathernews.com/corporate-outline/our-history/",
+    "pass": 1
+   },
+   {
+    "quote": "気象研究の最先端であるアメリカ・オクラホマ大学の敷地内にサービス運営拠点を開設",
+    "url": "https://jp.weathernews.com/corporate-outline/our-history/",
+    "pass": 1
+   },
+   {
+    "quote": "鉄道気象サービススタート",
+    "url": "https://jp.weathernews.com/corporate-outline/our-history/",
+    "pass": 1
+   },
+   {
+    "quote": "鉄道事業者への強風対策サービスを提供開始",
+    "url": "https://jp.weathernews.com/corporate-outline/our-history/",
+    "pass": 1
+   },
+   {
+    "quote": "コペンハーゲンに航海気象サービスセンター開設",
+    "url": "https://jp.weathernews.com/corporate-outline/our-history/",
+    "pass": 1
+   },
+   {
+    "quote": "選手向けスポーツ気象サービスを開始",
+    "url": "https://jp.weathernews.com/corporate-outline/our-history/",
+    "pass": 1
+   },
+   {
+    "quote": "仏気象会社METNEXTを買収し、パリにサービスセンター開設",
+    "url": "https://jp.weathernews.com/corporate-outline/our-history/",
+    "pass": 1
+   },
+   {
+    "quote": "「ウェザーニュース」が天気予報サービス予報精度No.1を獲得",
+    "url": "https://jp.weathernews.com/corporate-outline/our-history/",
+    "pass": 1
+   },
+   {
+    "quote": "「ウェザーニュース」が年間を通して天気予報サービスにおける予報精度No.1を獲得",
+    "url": "https://jp.weathernews.com/corporate-outline/our-history/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://jp.weathernews.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの流れ",
+    "url": "https://jp.weathernews.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://jp.weathernews.com/irinfo/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの流れ",
+    "url": "https://jp.weathernews.com/irinfo/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://jp.weathernews.com/irinfo/management/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの流れ",
+    "url": "https://jp.weathernews.com/irinfo/management/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://jp.weathernews.com/irinfo/ir-library/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの流れ",
+    "url": "https://jp.weathernews.com/irinfo/ir-library/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://jp.weathernews.com/irinfo/ir-event/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの流れ",
+    "url": "https://jp.weathernews.com/irinfo/ir-event/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://jp.weathernews.com/irinfo/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの流れ",
+    "url": "https://jp.weathernews.com/irinfo/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://jp.weathernews.com/irinfo/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの流れ",
+    "url": "https://jp.weathernews.com/irinfo/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://jp.weathernews.com/irinfo/ir-library/result",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの流れ",
+    "url": "https://jp.weathernews.com/irinfo/ir-library/result",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://jp.weathernews.com/irinfo/ir-library/report/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの流れ",
+    "url": "https://jp.weathernews.com/irinfo/ir-library/report/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://jp.weathernews.com/irinfo/management/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの流れ",
+    "url": "https://jp.weathernews.com/irinfo/management/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://jp.weathernews.com/irinfo/ir-library/20261008-2",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの流れ",
+    "url": "https://jp.weathernews.com/irinfo/ir-library/20261008-2",
+    "pass": 1
+   },
+   {
+    "quote": "CS業務としてお客様のサービスの導入（オンボーディング）をサポートしたり、サービスの深い部分の活用方法までお伝えしたり、既存のお客様に対するアップセルを推進する業務を強化するなど、今後の売上成長に貢献する人員になる準備が進んでおります",
+    "url": "https://jp.weathernews.com/irinfo/ir-library/20261008-2",
+    "pass": 1
+   },
+   {
+    "quote": "これまでは中小型船向けサービスの売上がSea Domain売上に含まれていましたが、今期よりLand Domainに移行しております",
+    "url": "https://jp.weathernews.com/irinfo/ir-library/20261008-2",
+    "pass": 1
+   },
+   {
+    "quote": "そのため、ルーティングサービスではなくウェザーニュース for businessの内航船向けのプロダクトを通じて沿岸部の気象情報を提供しています",
+    "url": "https://jp.weathernews.com/irinfo/ir-library/20261008-2",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2027年5月期 第1四半期 決算説明会（動画配信）",
+    "url": "https://jp.weathernews.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年５月期 第１四半期 決算説明資料",
+    "url": "https://jp.weathernews.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年５月期 第１四半期決算短信〔日本基準〕（連結）",
+    "url": "https://jp.weathernews.com/",
+    "pass": 1
+   },
+   {
+    "quote": "令和8年熊本地震",
+    "url": "https://jp.weathernews.com/",
+    "pass": 1
+   },
+   {
+    "quote": "1986年 ( 昭和61年6月 )",
+    "url": "https://jp.weathernews.com/corporate-outline/",
+    "pass": 1
+   },
+   {
+    "quote": "1970年1月、福島県いわき市",
+    "url": "https://jp.weathernews.com/corporate-outline/our-history/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月8日",
+    "url": "https://jp.weathernews.com/irinfo/ir-library/20261008-2",
+    "pass": 1
+   },
+   {
+    "quote": "2027年5月期 通期決算説明会のスクリプトです",
+    "url": "https://jp.weathernews.com/irinfo/ir-library/20261008-2",
+    "pass": 1
+   },
+   {
+    "quote": "2023年5月期もさらなる伸長を見込んでおり、15年連続の増収は間違いないとみられる",
+    "url": "https://newspicks.com/news/7772093/body/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年11月21日",
+    "url": "https://newspicks.com/news/7772093/body/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年11月10日",
+    "url": "https://newspicks.com/news/7772093/body/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月3日（火）",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=4825",
+    "pass": 3
+   },
+   {
+    "quote": "2027年５月期 第１四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=4825",
+    "pass": 3
+   },
+   {
+    "quote": "2027年５月期 第１四半期 決算説明資料",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=4825",
+    "pass": 3
+   },
+   {
+    "quote": "1986年の設立以来、気象技術やサービスの提供を手がけてきた当社",
+    "url": "https://job.mynavi.jp/28/pc/search/corp210451/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2002年世界的なサッカー大会日本国内会場での気象面での運営管理・対応情報を提供",
+    "url": "https://job.mynavi.jp/28/pc/search/corp210451/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://job.mynavi.jp/28/pc/search/corp210451/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年 2024年 2025年",
+    "url": "https://job.mynavi.jp/28/pc/search/corp210451/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年7月25日 5:00",
+    "url": "https://diamond.jp/articles/-/347520",
+    "pass": 3
+   },
+   {
+    "quote": "2024年5月期の売上高は222億円です",
+    "url": "https://diamond.jp/articles/-/347520",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "新価値創造を通した高貢献、ストック型事業による高収益、次なる価値創造のための投資を行い、株主・社員サポーターへの公正な分配を実現しよう",
+    "url": "https://jp.weathernews.com/corporate-outline/our-business-strategy/",
+    "pass": 1
+   },
+   {
+    "quote": "今後、当社としては自社のアプリ、自社のウェブサイトをしっかりと伸ばして、その中で広告ビジネスもサブスクも伸ばしていくという戦略を進めていきますが、今期はその転換の年になるのだろうと考えております",
+    "url": "https://jp.weathernews.com/irinfo/ir-library/20261008-2",
+    "pass": 1
+   },
+   {
+    "quote": "これはウェザーニューズのサービスを利用することで、いくらの投資に対していくら返ってくるのか、お客様の業務を分析して、投資（当社のサービス利用料）に対するリターンを分析できる仕組みです",
+    "url": "https://jp.weathernews.com/irinfo/ir-library/20261008-2",
+    "pass": 1
+   },
+   {
+    "quote": "実際に各国の広告収入や広告単価などが少しずつ見え始めています",
+    "url": "https://jp.weathernews.com/irinfo/ir-library/20261008-2",
+    "pass": 1
+   },
+   {
+    "quote": "現在の収益軸はアプリとWEBによるサブスクリプション（月額課金）だ",
+    "url": "https://newspicks.com/news/7772093/body/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "高貢献・高収益・高分配",
+    "url": "https://jp.weathernews.com/corporate-outline/our-business-strategy/",
+    "pass": 1
+   },
+   {
+    "quote": "新価値創造を通した高貢献、ストック型事業による高収益、次なる価値創造のための投資を行い、株主・社員サポーターへの公正な分配を実現しよう",
+    "url": "https://jp.weathernews.com/corporate-outline/our-business-strategy/",
+    "pass": 1
+   },
+   {
+    "quote": "詳細は後ほど説明しますが、今期から粗利率も掲載しておりまして、粗利率については8.6ポイント増加の54.8%と大幅改善となっております",
+    "url": "https://jp.weathernews.com/irinfo/ir-library/20261008-2",
+    "pass": 1
+   },
+   {
+    "quote": "一方で、粗利率に関しては大幅改善となっています",
+    "url": "https://jp.weathernews.com/irinfo/ir-library/20261008-2",
+    "pass": 1
+   },
+   {
+    "quote": "当社の中期ビジョンで2029年5月期末には粗利率を60%以上にする計画を掲げておりますが、現段階で既に54.8%まで達成しております",
+    "url": "https://jp.weathernews.com/irinfo/ir-library/20261008-2",
+    "pass": 1
+   },
+   {
+    "quote": "Landなど一部のDomainでは既に結果も出始めている状況でございますので、より一層粗利率は改善していくことになると思っています",
+    "url": "https://jp.weathernews.com/irinfo/ir-library/20261008-2",
+    "pass": 1
+   },
+   {
+    "quote": "本サービスは専任チームが開発を推進しており、学術論文や国が示す算定式などをAIが吸収・分析することで、顧客ごとの業務に応じたROIを瞬時に算出できるのが強みです",
+    "url": "https://jp.weathernews.com/irinfo/ir-library/20261008-2",
+    "pass": 1
+   },
+   {
+    "quote": "[Q9]：粗利率の改善の背景について、もう少し具体的にイメージできるような説明をお聞きしたい",
+    "url": "https://jp.weathernews.com/irinfo/ir-library/20261008-2",
+    "pass": 1
+   },
+   {
+    "quote": "ウェザーニューズのもうひとつの強みは、ファンコミュニティを形成していることだ",
+    "url": "https://newspicks.com/news/7772093/body/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "技術革新＆パートナーシップ",
+    "url": "https://jp.weathernews.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "施設や店舗など、お仕事の拠点を登録して、各拠点の気象情報や防災情報を確認できます",
+    "url": "https://wxtech.weathernews.com/products/wfb/",
+    "pass": 3
+   },
+   {
+    "quote": "工事現場や店舗など、お客さまのお仕事の拠点を登録して、いつでもまとめて天気予報を確認することができます",
+    "url": "https://wxtech.weathernews.com/products/wfb/",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例をご紹介",
+    "url": "https://wxtech.weathernews.com/products/wfb/",
+    "pass": 3
+   },
+   {
+    "quote": "ウェザーニュース for businessを活用した実際の導入事例をご紹介します",
+    "url": "https://wxtech.weathernews.com/products/wfb/",
+    "pass": 3
+   },
+   {
+    "quote": "【多店舗の防災・BCP対策】3ステップで簡単！AIが店舗向け注意喚起文を自動作成",
+    "url": "https://wxtech.weathernews.com/products/wfb/",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=4825",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=4825",
+    "pass": 3
+   },
+   {
+    "quote": "会社紹介記事",
+    "url": "https://job.mynavi.jp/28/pc/search/corp210451/outline.html",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "今期の後半には、このビジネスモデルの変革への移行の一つを予定しており、売上も伸ばしていく計画になっています",
+    "url": "https://jp.weathernews.com/irinfo/ir-library/20261008-2",
+    "pass": 1
+   },
+   {
+    "quote": "彼らはいったいどうやって稼いでいるのか？ 代表取締役の草開千仁氏に疑問をぶつけ、天気で稼ぐビジネスモデルの謎に迫る",
+    "url": "https://newspicks.com/news/7772093/body/",
+    "pass": 3
+   },
+   {
+    "quote": "このような、市場や業界にとって必要不可欠となる特性を活かしたビジネスモデルは、高速道路の料金所になぞらえて「トールゲート型」と呼ばれる",
+    "url": "https://newspicks.com/news/7772093/body/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "具体的には、顧客向け予報の作成といった現場業務をAIで自動化にしたことで人的リソースを創出し、その人員を戦略的に再配置しております",
+    "url": "https://jp.weathernews.com/irinfo/ir-library/20261008-2",
+    "pass": 1
+   },
+   {
+    "quote": "CS業務としてお客様のサービスの導入（オンボーディング）をサポートしたり、サービスの深い部分の活用方法までお伝えしたり、既存のお客様に対するアップセルを推進する業務を強化するなど、今後の売上成長に貢献する人員になる準備が進んでおります",
+    "url": "https://jp.weathernews.com/irinfo/ir-library/20261008-2",
+    "pass": 1
+   },
+   {
+    "quote": "その理由ですが、主に中小型船が占める内航船のお客様は日本の近海内での航行が多く、実際に港が土砂降りだった場合は荷積みができない、といった港湾作業における気象情報のニーズが大きいです",
+    "url": "https://jp.weathernews.com/irinfo/ir-library/20261008-2",
+    "pass": 1
+   },
+   {
+    "quote": "これまでの「1航海ごとにスポットで売上をいただく」ビジネスから「常にAIが顧客の管理する船を全船を見ている」ビジネスに転換しつつあります",
+    "url": "https://jp.weathernews.com/irinfo/ir-library/20261008-2",
+    "pass": 1
+   },
+   {
+    "quote": "AIが全船を常時監視しており、何か問題を検出したら顧客にアラートを飛ばすとともに航海プランの変更を提案するようなプロダクトです",
+    "url": "https://jp.weathernews.com/irinfo/ir-library/20261008-2",
+    "pass": 1
+   },
+   {
+    "quote": "コアプロダクトの契約数もID数も順調に伸びており、最近では大型のお客様に対しても、ウェザーニュース for Businessの受注が入りつつありますので、コアプロダクトは今後ますます伸びてくる領域だと思っております",
+    "url": "https://jp.weathernews.com/irinfo/ir-library/20261008-2",
+    "pass": 1
+   },
+   {
+    "quote": "今年はしっかり梅雨もあったので、Q1の累積DAU（デイリーアクティブユーザー）が初めて10億の大台を突破しました",
+    "url": "https://jp.weathernews.com/irinfo/ir-library/20261008-2",
+    "pass": 1
+   },
+   {
+    "quote": "これはウェザーニューズのサービスを利用することで、いくらの投資に対していくら返ってくるのか、お客様の業務を分析して、投資（当社のサービス利用料）に対するリターンを分析できる仕組みです",
+    "url": "https://jp.weathernews.com/irinfo/ir-library/20261008-2",
+    "pass": 1
+   },
+   {
+    "quote": "本サービスは専任チームが開発を推進しており、学術論文や国が示す算定式などをAIが吸収・分析することで、顧客ごとの業務に応じたROIを瞬時に算出できるのが強みです",
+    "url": "https://jp.weathernews.com/irinfo/ir-library/20261008-2",
+    "pass": 1
+   },
+   {
+    "quote": "まず我々のAIプロダクトを顧客に導入いただき、いかに顧客側の業務を効率化できるか体感していただき、その評判をもとに競合からのスイッチを加速させる形で考えています",
+    "url": "https://jp.weathernews.com/irinfo/ir-library/20261008-2",
+    "pass": 1
+   },
+   {
+    "quote": "プロダクト導入顧客が十分に増える頃にはAIによるさらなる付加価値コンテンツも徐々に充実してくると見ており、その際にしっかりアップセルを目指します",
+    "url": "https://jp.weathernews.com/irinfo/ir-library/20261008-2",
+    "pass": 1
+   },
+   {
+    "quote": "同じ船にサービスを提供していても運用する顧客が変わると隻数カウントも変わります",
+    "url": "https://jp.weathernews.com/irinfo/ir-library/20261008-2",
+    "pass": 1
+   },
+   {
+    "quote": "：Skyのエアライン顧客の獲得はSeaなどと比較すると時間がかかる特徴がありますが、年間を通じた獲得計画をしっかりと進めております",
+    "url": "https://jp.weathernews.com/irinfo/ir-library/20261008-2",
+    "pass": 1
+   },
+   {
+    "quote": "：インフラ会社や電力会社、物流会社など既存の大手顧客です",
+    "url": "https://jp.weathernews.com/irinfo/ir-library/20261008-2",
+    "pass": 1
+   },
+   {
+    "quote": "当該顧客向けにこれまで専用サービスを作成・提供していた部分のコアプロダクトへの置き換えが始まりつつあります",
+    "url": "https://jp.weathernews.com/irinfo/ir-library/20261008-2",
+    "pass": 1
+   },
+   {
+    "quote": "今期は既存の顧客対応業務全てをAI化することにフォーカスするのではなく、AI自動化で捻出できたリソースをカスタマーサクセス機能の強化に再配置して再教育することに力を入れています",
+    "url": "https://jp.weathernews.com/irinfo/ir-library/20261008-2",
+    "pass": 1
+   },
+   {
+    "quote": "：顧客向け業務の具体例では、各マーケット向けの予報のカスタマイズ作業や顧客向けサービス評価資料作成などでして、こうした業務のAI自動化が進んでいます",
+    "url": "https://jp.weathernews.com/irinfo/ir-library/20261008-2",
+    "pass": 1
+   },
+   {
+    "quote": "これらを担当していたスタッフがCS（カスタマーサクセス）機能に再配置されることで、顧客のサービスのオンボーディングのサポートが強化されます",
+    "url": "https://jp.weathernews.com/irinfo/ir-library/20261008-2",
+    "pass": 1
+   },
+   {
+    "quote": "もともと既存顧客へのサービス提供のROIは10％などある程度の感覚があったと思うが、このROI Generatorにより具体的に可視化されることでさらにクロスセルやアップセルなどの余地が見えてくることはあるか",
+    "url": "https://jp.weathernews.com/irinfo/ir-library/20261008-2",
+    "pass": 1
+   },
+   {
+    "quote": "ただ、これまで顧客にサービスを提供してきたデータがあり、それに基づいて既存顧客のコスト構造を分析することでアップセルやクロスセルにも十分使えるツールになると考えています",
+    "url": "https://jp.weathernews.com/irinfo/ir-library/20261008-2",
+    "pass": 1
+   },
+   {
+    "quote": "ウェザーニュース for businessの具体的な活用例など、お客様の課題に合わせたご提案が可能です",
+    "url": "https://wxtech.weathernews.com/products/wfb/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の迅速かつ的確な体制判断が実現できます",
+    "url": "https://wxtech.weathernews.com/products/wfb/",
+    "pass": 3
+   },
+   {
+    "quote": "地震はもちろん、津波やあらかじめ対策できる風水害でも、ユーザーの位置情報を使った安否の確認ができます",
+    "url": "https://wxtech.weathernews.com/products/wfb/",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザーではなく「サポーター」",
+    "url": "https://newspicks.com/news/7772093/body/",
+    "pass": 3
+   },
+   {
+    "quote": "1カ月に1回以上使用するユーザー数（MAU）は4500万人にのぼり、年間の売り上げは約200億円を誇る",
+    "url": "https://newspicks.com/news/7772093/body/",
+    "pass": 3
+   },
+   {
+    "quote": "天気予報は一般的に無料で見られるものというイメージが強いが、実はウェザーニュースには有料会員プランが存在し、課金するユーザーは過去3年間で3倍に増加しているという",
+    "url": "https://newspicks.com/news/7772093/body/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、ユーザーは各地の様子を撮影してウェザーニューズに送ることができる",
+    "url": "https://newspicks.com/news/7772093/body/",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、ユーザーも天気予報を「つくる」側として参加できるのだ",
+    "url": "https://newspicks.com/news/7772093/body/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした仕組みを構築していることから、ウェザーニューズはユーザーを「サポーター」と呼ぶ",
+    "url": "https://newspicks.com/news/7772093/body/",
+    "pass": 3
+   },
+   {
+    "quote": "天気予報や気象にまつわるニュースを伝えるのはもちろんだが、先述したユーザー参加型の特徴を活かし、ユーザーが送信した各地のレポートをお天気キャスターが読んでくれたりもするという",
+    "url": "https://newspicks.com/news/7772093/body/",
+    "pass": 3
+   },
+   {
+    "quote": "お金がさほど動かないマス対象にはバズりを狙い利用してアプリ利用者・サポーターを増やし、予報精度の向上につなげる",
+    "url": "https://newspicks.com/news/7772093/body/",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザーが天気予報に一役買っているのは面白い",
+    "url": "https://newspicks.com/news/7772093/body/",
+    "pass": 3
+   },
+   {
+    "quote": "気になるのはweathernewsのユーザー層はどのような世代なのだろうということ",
+    "url": "https://newspicks.com/news/7772093/body/",
+    "pass": 3
+   },
+   {
+    "quote": "当社のルーツとなる航海気象・海上気象といったサービスのほか、スポーツ気象・放送気象・トラベル気象など法人・個人問わずさまざまなお客様に向けた事業を展開",
+    "url": "https://job.mynavi.jp/28/pc/search/corp210451/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ウェザーニューズでは、世界各地で発生する気象現象を的確に把握するために社内で開発した気象モデルや独自インフラを組み合わせ、50カ国以上の顧客、45の市場に対して個々の状況に応じたサービスを展開しています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp210451/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ポータルサイトやiPhoneに搭載されているお天気アプリなど大きな競合がいるので、他社ユーザーを取り込めばまだまだこの事業を伸ばせます",
+    "url": "https://diamond.jp/articles/-/347520",
+    "pass": 3
+   },
+   {
+    "quote": "われわれのサービスを活用してゲリラ雷雨など気象への対策を取れば、顧客企業は支払額以上のコストセービングや売り上げアップにつながります",
+    "url": "https://diamond.jp/articles/-/347520",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS（Software as a Service）型ビジネスにシフトし、個人のアプリユーザーからインフラ系の大手企業に至るまで、あらゆる顧客層にサービスを展開していきます",
+    "url": "https://diamond.jp/articles/-/347520",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "前期までと比べて売上構成に変化があります",
+    "url": "https://jp.weathernews.com/irinfo/ir-library/20261008-2",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ウェザーニュース for business - WxTech — ウェザーニュース for business - WxTech 株式会社ウェザーニューズ https://wxtech.weathernews.com > products > wfb",
+    "url": "https://wxtech.weathernews.com/products/wfb/",
+    "pass": 3
+   },
+   {
+    "quote": "過去最高益の ウェザーニューズ 。創業38年目の老舗気象会社が ... — 過去最高益の ウェザーニューズ 。創業38年目の老舗気象会社が ... Business Insider Japan https://www.businessinsider.jp > 国内",
+    "url": "https://www.businessinsider.jp/article/274639/",
+    "pass": 3
+   },
+   {
+    "quote": "決算短信・ 決算説明 会 資料 | Weathernews Inc. — 決算短信・ 決算説明 会 資料 | Weathernews Inc. 株式会社ウェザーニューズ https://jp.weathernews.com > irinfo > ir-library > result",
+    "url": "https://jp.weathernews.com/irinfo/ir-library/result",
+    "pass": 3
+   },
+   {
+    "quote": "【 ウェザーニューズ 】[4825]IR情報 中期経営計画や 決算 短信 — 【 ウェザーニューズ 】[4825]IR情報 中期経営計画や 決算 短信 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=4825",
+    "pass": 3
+   },
+   {
+    "quote": "2025年5月期 第2四半期 決算 発表 | Weathernews Inc. — 2025年5月期 第2四半期 決算 発表 | Weathernews Inc. 株式会社ウェザーニューズ https://jp.weathernews.com > results-briefing-q2-of-2025",
+    "url": "https://jp.weathernews.com/irinfo/announcement/results-briefing-q2-of-2025",
+    "pass": 3
+   },
+   {
+    "quote": "ウェザーニューズ （4825）のIR情報・ 決算資料 - IRBANK — ウェザーニューズ （4825）のIR情報・ 決算資料 - IRBANK IRBANK https://irbank.net > ウェザーニューズ",
+    "url": "https://irbank.net/4825/ir",
+    "pass": 3
+   },
+   {
+    "quote": "2025年5月期 第1四半期 決算 発表 | Weathernews Inc. — 2025年5月期 第1四半期 決算 発表 | Weathernews Inc. 株式会社ウェザーニューズ https://jp.weathernews.com > results-briefing-q1-of-2025",
+    "url": "https://jp.weathernews.com/irinfo/announcement/results-briefing-q1-of-2025",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ウェザーニューズ 会社概要 | Weathernews Inc. — 株式会社 ウェザーニューズ 会社概要 | Weathernews Inc. 株式会社ウェザーニューズ https://jp.weathernews.com > 会社概要",
+    "url": "https://jp.weathernews.com/corporate-outline",
+    "pass": 3
+   },
+   {
+    "quote": "(株) ウェザーニューズ の会社概要 | マイナビ2028 — (株) ウェザーニューズ の会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp210451 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp210451/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ウェザーニューズ - Wikipedia — ウェザーニューズ - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > ウェザーニューズ",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%82%B6%E3%83%BC%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%BA",
+    "pass": 3
+   },
+   {
+    "quote": "ウェザーニューズ の企業情報 | CFN（CareerForum.Net） — ウェザーニューズ の企業情報 | CFN（CareerForum.Net） CFN https://careerforum.net > company_list > company_detail",
+    "url": "https://careerforum.net/ja/company_list/2942/company_detail/",
+    "pass": 3
+   },
+   {
+    "quote": "石橋 知博 - ウェザーニューズ — 石橋 知博 - ウェザーニューズ 株式会社ウェザーニューズ https://jp.weathernews.com > recruit > top-message",
+    "url": "https://jp.weathernews.com/recruit/top-message/",
+    "pass": 3
+   },
+   {
+    "quote": "ウェザーニューズ 「創業家 社長 」復活！新CEOが語る天気業界 ... — ウェザーニューズ 「創業家 社長 」復活！新CEOが語る天気業界 ... ダイヤモンド・オンライン https://diamond.jp > IT・通信 > Diamond Premium News",
+    "url": "https://diamond.jp/articles/-/347520",
+    "pass": 3
+   },
+   {
+    "quote": "社員 インタビュー （紹介）一覧 | Weathernews Inc. — 社員 インタビュー （紹介）一覧 | Weathernews Inc. 株式会社ウェザーニューズ https://jp.weathernews.com > recruit > interview",
+    "url": "https://jp.weathernews.com/recruit/interview/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://jp.weathernews.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.weathernews.com/irinfo/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.weathernews.com/corporate-outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.weathernews.com/corporate-outline/our-business-strategy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.weathernews.com/corporate-outline/our-history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.weathernews.com/sustainability/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.weathernews.com/irinfo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.weathernews.com/irinfo/management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.weathernews.com/irinfo/ir-library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.weathernews.com/irinfo/ir-event/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.weathernews.com/irinfo/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.weathernews.com/irinfo/highlight/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.weathernews.com/irinfo/ir-library/result",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.weathernews.com/irinfo/ir-library/report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.weathernews.com/irinfo/management/plan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.weathernews.com/irinfo/ir-library/20261008-2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.weathernews.com/irinfo/news",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://jp.weathernews.com/assets/img/service/image_flow.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://wxtech.weathernews.com/products/wfb/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newspicks.com/news/7772093/body/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=4825",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp210451/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://diamond.jp/articles/-/347520",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ウェザーニューズ",
+   "results": [
+    "https://weathernews.jp/",
+    "https://jp.weathernews.com/",
+    "https://www.youtube.com/channel/UCNsidkYpIAQ4QaufptQBPHQ",
+    "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%82%B6%E3%83%BC%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%BA",
+    "https://apps.apple.com/jp/app/%E3%82%A6%E3%82%A7%E3%82%B6%E3%83%BC%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/id302955766",
+    "https://www.instagram.com/wni_jp/",
+    "https://ja.wikipedia.org/wiki/ウェザーニューズ",
+    "https://weathernews.jp/onebox/tenki/week/",
+    "https://www.youtube.com/@weathernews/videos",
+    "https://mws.cdn.weathernews.jp/onebox/tenki/"
+   ]
+  },
+  {
+   "query": "ウェザーニューズ ビジネスモデル",
+   "results": [
+    "https://wxtech.weathernews.com/products/wfb/",
+    "https://newspicks.com/news/7772093/body/",
+    "https://smartmarketing.biz-journal.jp/pickup-news/post_336855.html",
+    "https://www.businessinsider.jp/article/274639/",
+    "https://jp.quora.com/%E3%82%A6%E3%82%A7%E3%82%B6%E3%83%BC%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%81%AF%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E5%8F%8E",
+    "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%82%B6%E3%83%BC%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%BA",
+    "https://jp.weathernews.com/the-backbone",
+    "https://www.youtube.com/watch?v=TedYKAU84ZM",
+    "https://jbpress.ismedia.jp/articles/-/85149",
+    "https://biz-journal.jp/company/post_388714.html"
+   ]
+  },
+  {
+   "query": "ウェザーニューズ 決算説明資料",
+   "results": [
+    "https://jp.weathernews.com/irinfo/ir-library/result",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=4825",
+    "https://jp.weathernews.com/irinfo/announcement/results-briefing-q2-of-2025",
+    "https://irbank.net/4825/ir",
+    "https://jp.weathernews.com/irinfo/announcement/results-briefing-q1-of-2025",
+    "https://www.youtube.com/watch?v=lkaY8-7MXuM&vl=ja",
+    "https://finance.biggo.jp/news/JP_4825.T_2026-10-14",
+    "https://kabutan.jp/stock/finance?code=4825",
+    "https://jp.weathernews.com/irinfo/announcement/results-briefing-q3-of-2025",
+    "https://edinetdb.jp/company/E05162/presentations/"
+   ]
+  },
+  {
+   "query": "ウェザーニューズ 事業系統図",
+   "results": [
+    "https://jp.weathernews.com/corporate-outline",
+    "https://job.mynavi.jp/28/pc/search/corp210451/outline.html",
+    "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%82%B6%E3%83%BC%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%BA",
+    "https://careerforum.net/ja/company_list/2942/company_detail/",
+    "https://wxtech.weathernews.com/products/wfb/",
+    "https://www.env.go.jp/content/000429113.pdf",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=4825",
+    "https://kitaishihon.com/company/4825/business",
+    "https://baike.baidu.com/ja/item/%E3%82%A6%E3%82%A7%E3%82%B6%E3%83%BC%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%BA%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/5439574",
+    "https://jp.weathernews.com/your-industry/"
+   ]
+  },
+  {
+   "query": "ウェザーニューズ 社長 インタビュー",
+   "results": [
+    "https://jp.weathernews.com/recruit/top-message/",
+    "https://diamond.jp/articles/-/347520",
+    "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01586/",
+    "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%82%B6%E3%83%BC%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%BA",
+    "https://jp.weathernews.com/recruit/interview/",
+    "https://www.youtube.com/watch?v=pvBCaVWRmJo",
+    "https://k-tsushin.jp/interview/kt54_weathernews/",
+    "https://kitaishihon.com/company/4825/board-of-director",
+    "https://www.instagram.com/p/DcNwPNjkvw7/",
+    "https://ja.wikipedia.org/wiki/石橋知博"
+   ]
+  }
+ ],
+ "missing": {}
+}

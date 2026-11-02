@@ -1,0 +1,2036 @@
+{
+ "name": "六方晶窒化ホウ素（hBN）",
+ "en": "hexagonal boron nitride",
+ "aliases": [
+  "hBN",
+  "boron nitride",
+  "窒化ホウ素"
+ ],
+ "context": "放熱・2次元",
+ "kind": "market",
+ "researched_at": "2026-11-02T17:40:47.499510+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "2023年の市場規模",
+    "url": "https://www.zionmarketresearch.com/ja/report/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 886.23ミリオン",
+    "url": "https://www.zionmarketresearch.com/ja/report/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 1207.84ミリオン",
+    "url": "https://www.zionmarketresearch.com/ja/report/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Zion Market Researchによると、世界の六方晶窒化ホウ素粉末市場は2023年に",
+    "url": "https://www.zionmarketresearch.com/ja/report/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "同市場は2032年までに",
+    "url": "https://www.zionmarketresearch.com/ja/report/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の六方晶窒化ホウ素粉末市場は、COVID-19の蔓延を抑えるために各国政府が実施したロックダウン措置により、短期的には売上がわずかに減少しました",
+    "url": "https://www.zionmarketresearch.com/ja/report/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "2020年の世界の六方晶窒化ホウ素粉末市場規模の大幅な減少は、COVID-19の発生とそれが世界中の経済や産業に及ぼす悪影響に基づいて推定されています",
+    "url": "https://www.zionmarketresearch.com/ja/report/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "2020年の六方晶窒化ホウ素市場はアジア太平洋地域が支配的で、最も収益性の高い地域であると考えられていました",
+    "url": "https://www.zionmarketresearch.com/ja/report/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Zion Market Researchによると、世界の六方晶窒化ホウ素粉末市場は2023年に8億8623万米ドル規模でした",
+    "url": "https://www.zionmarketresearch.com/ja/report/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "同市場は2032年までに12億784万米ドルに達すると予測されています",
+    "url": "https://www.zionmarketresearch.com/ja/report/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "電子パッケージング用窒化ホウ素の世界市場（2026年～2032年）、市場規模（球状窒化ホウ素、非球状窒化ホウ素）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/4647263",
+    "pass": 3
+   },
+   {
+    "quote": "電子パッケージング用窒化ホウ素の世界市場（2026年～2032年）、市場規模（球状窒化ホウ素、非球状窒化ホウ素）・分析レポートを発表",
+    "url": "https://newscast.jp/smart/news/4647263",
+    "pass": 3
+   },
+   {
+    "quote": "電子パッケージング用窒化ホウ素の世界市場規模は、2025年の2,866万米ドルから2032年には1億3,400万米ドルに拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）24.7%で成長すると見込まれています",
+    "url": "https://newscast.jp/smart/news/4647263",
+    "pass": 3
+   },
+   {
+    "quote": "電子パッケージング用窒化ホウ素の米国市場は、2025年のUS$百万から2032年までにUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://newscast.jp/smart/news/4647263",
+    "pass": 3
+   },
+   {
+    "quote": "電子パッケージング用窒化ホウ素の中国市場は、2025年のUS$百万から2032年にはUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://newscast.jp/smart/news/4647263",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の電子パッケージング用窒化ホウ素市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年までのCAGRはXX％になると推定されています",
+    "url": "https://newscast.jp/smart/news/4647263",
+    "pass": 3
+   },
+   {
+    "quote": "2021年から2026年までの、主要な地理的地域および国/地域ごとの年間販売量と年間収益の市場規模データが提供されています",
+    "url": "https://newscast.jp/smart/news/4647263",
+    "pass": 3
+   },
+   {
+    "quote": "2027年から2032年までのグローバル市場規模の予測（地域別販売量と年間収益）、南北アメリカ、APAC、ヨーロッパ、中東およびアフリカの国/地域別予測、ならびにタイプ別および用途別のグローバル予測が含まれます",
+    "url": "https://newscast.jp/smart/news/4647263",
+    "pass": 3
+   },
+   {
+    "quote": "世界の六方晶窒化ホウ素市場は、2025年に 10億米ドルの規模に達し、2026年には 11億米ドル、2035年までには 17億米ドルに達すると予測されており、2026年から2035年にかけて年平均成長率（CAGR）5.6%で拡大する見込みです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の予測市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "六方晶窒化ホウ素市場規模、形態別、2022〜2035年（百万米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、2025年に 3億7,300万米ドルの市場規模で市場をリードしています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Intel Newsroom, Intel and Biden-Harris Administration Finalize $7.86 Billion Funding Award Under U.S. CHIPS Act, November 2024, newsroom.intel.com",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国六方晶窒化ホウ素市場規模、2022〜2035年（百万米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は、2026年から2035年にかけて年平均成長率（CAGR）5.6%で成長し、2035年までに17億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "4. 市場規模の推計",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "窒化ホウ素市場規模、シェア、業界動向 - 2031年",
+    "url": "https://www.consegicbusinessintelligence.com/ja/%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E5%B8%82%E5%A0%B4-1791",
+    "pass": 3
+   },
+   {
+    "quote": "窒化ホウ素市場規模は、2023年の8億6,024万米ドルから2031年には12億8,236万米ドルを超えると推定されています",
+    "url": "https://www.consegicbusinessintelligence.com/ja/%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E5%B8%82%E5%A0%B4-1791",
+    "pass": 3
+   },
+   {
+    "quote": "2031年の市場規模",
+    "url": "https://www.consegicbusinessintelligence.com/ja/%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E5%B8%82%E5%A0%B4-1791",
+    "pass": 3
+   },
+   {
+    "quote": "2023年の北米市場は2億8,535万米ドルと評価され、2031年には4億1,561万米ドルに達すると予想されています",
+    "url": "https://www.consegicbusinessintelligence.com/ja/%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E5%B8%82%E5%A0%B4-1791",
+    "pass": 3
+   },
+   {
+    "quote": "2031 年までに予測される窒化ホウ素の市場規模はどのくらいですか?",
+    "url": "https://www.consegicbusinessintelligence.com/ja/%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E5%B8%82%E5%A0%B4-1791",
+    "pass": 3
+   },
+   {
+    "quote": "窒化ホウ素市場規模は、2023年の8億6,024万米ドルから2031年には12億8,236万米ドルを超えると推定され、2024年には8億8,894万米ドルに増加し、2024年から2031年にかけて5.12%のCAGRで成長すると予測されています",
+    "url": "https://www.consegicbusinessintelligence.com/ja/%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E5%B8%82%E5%A0%B4-1791",
+    "pass": 3
+   },
+   {
+    "quote": "六方晶窒化ホウ素の市場規模、シェア、予測 2032 年",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "六方晶窒化ホウ素の市場規模は、2028年までに2億9,746万米ドルに達し、2021年から2028年の予測期間に5.75%の複合年間成長率で成長すると予想されています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場は、世界の六方晶窒化ホウ素市場、製品タイプ別（チューブ、ロッド、粉末、ガスケット、プレートおよびシート、その他）、用途別（コーティング/離型剤/スプレー、電気絶縁材、複合材料、工業用潤滑剤、溶射、パーソナルケア、その他）、エンドユーザー別（航空宇宙、自動車、半導体および電子機器、その他）、国別（米国、カナダ、メキシコ、ブラジル、アルゼンチン、その他の南米、ドイツ、フランス、イタリア、英国、ベルギー、スペイン、ロシア、トルコ、オランダ、スイス、その他のヨーロッパ、日本、中国、インド、韓国、オーストラリア、シンガポール、マレーシア、タイ、インドネシア、フィリピン、その他のアジア太平洋地域、UAE、サウジアラビア、エジプト、南アフリカ、イスラエル、その他の中東およびアフリカ）業界動向および2028年までの予測に基づいて区分されています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の六方晶窒化ホウ素市場の市場規模は、2023年にUSD 0.00と評価されました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "六方晶窒化ホウ素市場規模は、2036年末までに約10億米ドルに達すると予想されています",
+    "url": "https://www.researchnester.jp/industry-analysis/hexagonal-boron-nitride-market/3028",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の六方晶窒化ホウ素市場は、予測期間中に最大の成長を遂げ、収益シェアは約38%となります",
+    "url": "https://www.researchnester.jp/industry-analysis/hexagonal-boron-nitride-market/3028",
+    "pass": 3
+   },
+   {
+    "quote": "断熱材コンポーネントの国際市場は、2023 年までに 930.2 億米ドルに達すると予想されています",
+    "url": "https://www.researchnester.jp/industry-analysis/hexagonal-boron-nitride-market/3028",
+    "pass": 3
+   },
+   {
+    "quote": "回答: 北米地域の市場は、2036 年末までに最大の市場シェアを獲得すると予想されており、将来に多くのビジネス機会がもたらされると予想されます",
+    "url": "https://www.researchnester.jp/industry-analysis/hexagonal-boron-nitride-market/3028",
+    "pass": 3
+   },
+   {
+    "quote": "自動車セグメントは、2036 年末までに約 42% の最大の市場規模を獲得すると予想されており、大きな成長の余地を示しています",
+    "url": "https://www.researchnester.jp/industry-analysis/hexagonal-boron-nitride-market/3028",
+    "pass": 3
+   },
+   {
+    "quote": "【調査レポート】 世界の六方晶窒化ホウ素市場規模（2025～2034年）：グレード別（プレミアムグレード、スタンダードグレード、カスタムグレード）、用途別、エンドユーザー別産業別",
+    "url": "https://www.marketresearch.co.jp/insights/hexagonal-boron-nitride-market-gmi/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の六方晶窒化ホウ素市場規模（2025～2034年）：グレード別（プレミアムグレード、スタンダードグレード、カスタムグレード）、用途別、エンドユーザー別産業別",
+    "url": "https://www.marketresearch.co.jp/insights/hexagonal-boron-nitride-market-gmi/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の六方晶窒化ホウ素市場は2024年に9億5410万米ドルとなり、2025年から2034年にかけて年平均成長率5.5%以上で成長すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/hexagonal-boron-nitride-market-gmi/",
+    "pass": 3
+   },
+   {
+    "quote": "過去10年間で、hBN市場は特殊な産業用途からハイテクおよび消費者セクターにおける幅広い存在へと移行しました",
+    "url": "https://www.marketresearch.co.jp/insights/hexagonal-boron-nitride-market-gmi/",
+    "pass": 3
+   },
+   {
+    "quote": "プレミアムグレードの2024年の市場規模は5億1730万米ドルで、2025-2034年のCAGRは6%に拡大すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/hexagonal-boron-nitride-market-gmi/",
+    "pass": 3
+   },
+   {
+    "quote": "熱管理分野の六方晶窒化ホウ素市場は、2024年に3億1900万米ドルと評価され、2025年から2034年までの年平均成長率は6.2%でした",
+    "url": "https://www.marketresearch.co.jp/insights/hexagonal-boron-nitride-market-gmi/",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカの六方晶窒化ホウ素市場は2024年に3億700万米ドルと評価され、2034年まで年平均成長率6.4%で成長する見込みです",
+    "url": "https://www.marketresearch.co.jp/insights/hexagonal-boron-nitride-market-gmi/",
+    "pass": 3
+   },
+   {
+    "quote": "第6章 2021-2034年市場規模予測：用途別（百万米ドル）（トン）",
+    "url": "https://www.marketresearch.co.jp/insights/hexagonal-boron-nitride-market-gmi/",
+    "pass": 3
+   },
+   {
+    "quote": "世界のチタンパウダー市場規模（2025～2034年）：製品別（純粉、合金粉末）、グレード別、用途別",
+    "url": "https://www.marketresearch.co.jp/insights/hexagonal-boron-nitride-market-gmi/",
+    "pass": 3
+   },
+   {
+    "quote": "世界のワイン用清澄剤市場規模（2025～2034年）：形状別（液体、粉末）、種類別、ワイン種類別",
+    "url": "https://www.marketresearch.co.jp/insights/hexagonal-boron-nitride-market-gmi/",
+    "pass": 3
+   },
+   {
+    "quote": "ボールベアリング市場 2025-2033年 市場規模と展望",
+    "url": "https://www.marketresearch.co.jp/insights/hexagonal-boron-nitride-market-gmi/",
+    "pass": 3
+   },
+   {
+    "quote": "UVDロボット市場規模、シェアおよびトレンド分析レポート：タイプ別（過酸化水素蒸気、紫外線）、用途別（商業および産業、ヘルスケア）、地域別（北米、ヨーロッパ、APAC、中東およびアフリカ、LATAM）予測2026-2034",
+    "url": "https://www.marketresearch.co.jp/insights/hexagonal-boron-nitride-market-gmi/",
+    "pass": 3
+   },
+   {
+    "quote": "AIショッピングアシスタント市場規模、シェアおよびトレンド分析レポート：タイプ別（音声ベースAIショッピングアシスタント、テキストベースAIショッピングアシスタント、ビジュアルベースAIショッピングアシスタント、マルチモーダルAIショッピングアシスタント）、技術別（自然言語処理（NLP）、機械学習、コンピュータービジョン、統合技術）、アプリケーション別（小売、ヘルスケア、旅行、メディア、その他のアプリケーション）、地域別（北米、ヨーロッパ、APAC、中東およびアフリカ、LATAM）の予測、2026-2034",
+    "url": "https://www.marketresearch.co.jp/insights/hexagonal-boron-nitride-market-gmi/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 1.72 Bn",
+    "url": "https://www.coherentmi.com/ja/industry-reports/%E5%85%AD%E6%96%B9%E6%99%B6%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E3%81%AE%E4%B8%96%E7%95%8C%E5%B8%82%E5%A0%B4-42",
+    "pass": 3
+   },
+   {
+    "quote": "USD 3.99 Bn",
+    "url": "https://www.coherentmi.com/ja/industry-reports/%E5%85%AD%E6%96%B9%E6%99%B6%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E3%81%AE%E4%B8%96%E7%95%8C%E5%B8%82%E5%A0%B4-42",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルヘキサゴンボロン窒化物 市場は2025年のUSD 1.7で評価され、2032年までのUSD 4.0億に達すると予想されます",
+    "url": "https://www.coherentmi.com/ja/industry-reports/%E5%85%AD%E6%96%B9%E6%99%B6%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E3%81%AE%E4%B8%96%E7%95%8C%E5%B8%82%E5%A0%B4-42",
+    "pass": 3
+   },
+   {
+    "quote": "世界的な六角窒化物市場は、2025年から2032年にかけて12.8%のCAGRで成長すると予想されます",
+    "url": "https://www.coherentmi.com/ja/industry-reports/%E5%85%AD%E6%96%B9%E6%99%B6%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E3%81%AE%E4%B8%96%E7%95%8C%E5%B8%82%E5%A0%B4-42",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "六方晶窒化ホウ素粉末市場の規模、シェア、動向、成長率（2032年まで）",
+    "url": "https://www.zionmarketresearch.com/ja/report/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "に達すると予測されており、2024年から2032年の予測期間における年平均成長率",
+    "url": "https://www.zionmarketresearch.com/ja/report/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "（CAGR）は3.5%です",
+    "url": "https://www.zionmarketresearch.com/ja/report/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "3.5％のCAGR",
+    "url": "https://www.zionmarketresearch.com/ja/report/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Zion Market Researchによると、世界の六方晶窒化ホウ素粉末市場は、2024年から2032年の予測期間中に年平均成長率（CAGR）3.5%で成長すると予測されている",
+    "url": "https://www.zionmarketresearch.com/ja/report/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "電子パッケージング用窒化ホウ素の世界市場規模は、2025年の2,866万米ドルから2032年には1億3,400万米ドルに拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）24.7%で成長すると見込まれています",
+    "url": "https://newscast.jp/smart/news/4647263",
+    "pass": 3
+   },
+   {
+    "quote": "電子パッケージング用窒化ホウ素の米国市場は、2025年のUS$百万から2032年までにUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://newscast.jp/smart/news/4647263",
+    "pass": 3
+   },
+   {
+    "quote": "電子パッケージング用窒化ホウ素の中国市場は、2025年のUS$百万から2032年にはUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://newscast.jp/smart/news/4647263",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の電子パッケージング用窒化ホウ素市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年までのCAGRはXX％になると推定されています",
+    "url": "https://newscast.jp/smart/news/4647263",
+    "pass": 3
+   },
+   {
+    "quote": "世界の六方晶窒化ホウ素市場は、2025年に 10億米ドルの規模に達し、2026年には 11億米ドル、2035年までには 17億米ドルに達すると予測されており、2026年から2035年にかけて年平均成長率（CAGR）5.6%で拡大する見込みです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "5.6%の市場拡大率の背後には、材料カテゴリー間の重要な分岐があります",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "5Gインフラおよびパワーエレクトロニクス用途の拡大",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の電気自動車販売台数は 2024 年に 1,700 万台を超え、前年比 25% 増となった",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、幅広い用途に適用できることから、他のフィラーとの競争にも最もさらされやすく、年平均成長率（CAGR）は 4.6%と市場全体を下回る",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "チューブおよびロッドは、7.2%で最も高い成長率を示す形態です",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "このカテゴリーは用途開発において重要ですが、年平均成長率（CAGR）が4.6%にとどまるのは、顧客ごとにカスタマイズした配合を認定するために時間と技術リソースが必要となるためです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、2024年には8億8,894万米ドルに拡大し、2024年から2031年にかけて5.12%の年平均成長率（CAGR）で成長すると予測されています",
+    "url": "https://www.consegicbusinessintelligence.com/ja/%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E5%B8%82%E5%A0%B4-1791",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2024年～2031年)",
+    "url": "https://www.consegicbusinessintelligence.com/ja/%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E5%B8%82%E5%A0%B4-1791",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、予測期間中に5.6%のCAGR（年平均成長率）と、市場が最も高い成長率を記録しています",
+    "url": "https://www.consegicbusinessintelligence.com/ja/%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E5%B8%82%E5%A0%B4-1791",
+    "pass": 3
+   },
+   {
+    "quote": "窒化ホウ素市場規模は、2023年の8億6,024万米ドルから2031年には12億8,236万米ドルを超えると推定され、2024年には8億8,894万米ドルに増加し、2024年から2031年にかけて5.12%のCAGRで成長すると予測されています",
+    "url": "https://www.consegicbusinessintelligence.com/ja/%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E5%B8%82%E5%A0%B4-1791",
+    "pass": 3
+   },
+   {
+    "quote": "六方晶窒化ホウ素の市場規模は、2028年までに2億9,746万米ドルに達し、2021年から2028年の予測期間に5.75%の複合年間成長率で成長すると予想されています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、六方晶窒化ホウ素の高コストと代替品の存在が、2021年から2028年の予測期間における六方晶窒化ホウ素市場の成長率に対する主要な制約となる可能性があり、一方で六方晶窒化ホウ素の利点に関する認識不足は、上記の予測期間における六方晶窒化ホウ素市場の成長を妨げる可能性があります",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024 ― 2036 年の予測期間中に5% の CAGR で増加します",
+    "url": "https://www.researchnester.jp/industry-analysis/hexagonal-boron-nitride-market/3028",
+    "pass": 3
+   },
+   {
+    "quote": "1974 年以降の OECD の電力利用拡大の多くは、住宅部門と商業および公共サービス部門で発生しました",
+    "url": "https://www.researchnester.jp/industry-analysis/hexagonal-boron-nitride-market/3028",
+    "pass": 3
+   },
+   {
+    "quote": "自動車セグメントは、六方晶窒化ホウ素の使用増加と自動車産業の拡大により、予測期間中に優れた成長を遂げ、売上シェアの約42%を保持すると予想されます",
+    "url": "https://www.researchnester.jp/industry-analysis/hexagonal-boron-nitride-market/3028",
+    "pass": 3
+   },
+   {
+    "quote": "回答: 六方晶窒化ホウ素市場の規模は、2024 ― 2036 年の予測期間中に約 5% の CAGR が得られると予想されます",
+    "url": "https://www.researchnester.jp/industry-analysis/hexagonal-boron-nitride-market/3028",
+    "pass": 3
+   },
+   {
+    "quote": "世界の六方晶窒化ホウ素市場は2024年に9億5410万米ドルとなり、2025年から2034年にかけて年平均成長率5.5%以上で成長すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/hexagonal-boron-nitride-market-gmi/",
+    "pass": 3
+   },
+   {
+    "quote": "プレミアムグレードの2024年の市場規模は5億1730万米ドルで、2025-2034年のCAGRは6%に拡大すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/hexagonal-boron-nitride-market-gmi/",
+    "pass": 3
+   },
+   {
+    "quote": "熱管理分野の六方晶窒化ホウ素市場は、2024年に3億1900万米ドルと評価され、2025年から2034年までの年平均成長率は6.2%でした",
+    "url": "https://www.marketresearch.co.jp/insights/hexagonal-boron-nitride-market-gmi/",
+    "pass": 3
+   },
+   {
+    "quote": "電子・半導体セグメントは、2024年に4億3,330万米ドルと評価され、2025年から2034年までのCAGRは6.1%でした",
+    "url": "https://www.marketresearch.co.jp/insights/hexagonal-boron-nitride-market-gmi/",
+    "pass": 3
+   },
+   {
+    "quote": "5Gネットワーク、IoT装置、電気自動車（EV）の拡大に伴い、基板、熱界面材料（TIM）、誘電体層におけるhBNの需要は増加傾向にあります",
+    "url": "https://www.marketresearch.co.jp/insights/hexagonal-boron-nitride-market-gmi/",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカの六方晶窒化ホウ素市場は2024年に3億700万米ドルと評価され、2034年まで年平均成長率6.4%で成長する見込みです",
+    "url": "https://www.marketresearch.co.jp/insights/hexagonal-boron-nitride-market-gmi/",
+    "pass": 3
+   },
+   {
+    "quote": "US$ 3.99 によって 2032, US$ 1.72 から 2025, CAGRで成長 12.8%",
+    "url": "https://www.coherentmi.com/ja/industry-reports/%E5%85%AD%E6%96%B9%E6%99%B6%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E3%81%AE%E4%B8%96%E7%95%8C%E5%B8%82%E5%A0%B4-42",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間中に12%以上のCAGRで成長すると予想される六角窒化物のための最速成長市場であることが期待されます",
+    "url": "https://www.coherentmi.com/ja/industry-reports/%E5%85%AD%E6%96%B9%E6%99%B6%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E3%81%AE%E4%B8%96%E7%95%8C%E5%B8%82%E5%A0%B4-42",
+    "pass": 3
+   },
+   {
+    "quote": "2018年4月、米国およびアジア市場でのグローバルフットプリントを拡大するHenze Boron Nitride Products社が買収したボロン窒化物メーカーDCEI社が買収",
+    "url": "https://www.coherentmi.com/ja/industry-reports/%E5%85%AD%E6%96%B9%E6%99%B6%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E3%81%AE%E4%B8%96%E7%95%8C%E5%B8%82%E5%A0%B4-42",
+    "pass": 3
+   },
+   {
+    "quote": "世界的な六角窒化物市場は、2025年から2032年にかけて12.8%のCAGRで成長すると予想されます",
+    "url": "https://www.coherentmi.com/ja/industry-reports/%E5%85%AD%E6%96%B9%E6%99%B6%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E3%81%AE%E4%B8%96%E7%95%8C%E5%B8%82%E5%A0%B4-42",
+    "pass": 3
+   },
+   {
+    "quote": "図をタップで2倍に拡大",
+    "url": "https://semirai.com/glossary/hexagonal-boron-nitride",
+    "pass": 3
+   },
+   {
+    "quote": "The global hexagonal boron nitride market was valued at USD 1 billion in 2025 and is projected to reach USD 1.1 billion in 2026 and USD 1.7 billion by 2035, expanding at a 5.6% CAGR from 2026 to 2035.",
+    "url": "https://www.gminsights.com/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026–2035)",
+    "url": "https://www.gminsights.com/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Custom grade addresses specified particle sizes, surface treatments, morphology, and compound compatibility. Momentive Technologies offers more than 80 boron nitride powder grades across its product portfolio. The category is important for application development, yet its 4.6% CAGR reflects the time and technical resources needed to qualify tailored formulations with individual customers.",
+    "url": "https://www.gminsights.com/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is projected to reach USD 1.7 billion by 2035, growing at a CAGR of 5.6% from 2026 to 2035.",
+    "url": "https://www.gminsights.com/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2035)",
+    "url": "https://www.marketresearchfuture.com/reports/hexagonal-boron-nitride-market-1811",
+    "pass": 3
+   },
+   {
+    "quote": "Plates and Sheets is the fastest-growing type sub-segment, posting an estimated CAGR of 6.1% as demand rises for machinable heat-resistant materials in semiconductor tooling.",
+    "url": "https://www.marketresearchfuture.com/reports/hexagonal-boron-nitride-market-1811",
+    "pass": 3
+   },
+   {
+    "quote": "Electrical Insulation registers the strongest application CAGR at approximately 5.9%, propelled by the Hexagonal Boron Nitride Market's deepening penetration into power-electronics packaging.",
+    "url": "https://www.marketresearchfuture.com/reports/hexagonal-boron-nitride-market-1811",
+    "pass": 3
+   },
+   {
+    "quote": "MRFR's sizing model triangulates bottom-up revenue tracking across 40+ hBN producers with top-down demand estimates from end-use verticals. Historical figures (2021–2024) reflect reported shipments; the base-year 2025 estimate blends Q1–Q3 actuals with Q4 projections. Forecast values (2026–2035) apply a constant 5.3% CAGR anchored to verified demand pipelines for advanced ceramic materials.",
+    "url": "https://www.marketresearchfuture.com/reports/hexagonal-boron-nitride-market-1811",
+    "pass": 3
+   },
+   {
+    "quote": "Data-center GPU shipments are forecast to grow at 13.7% to 15.8% CAGR through 2030 (per SEMI), requiring advanced packaging substrates that rely on electrically insulating materials with superior heat dissipation . The Hexagonal Boron Nitride Market stands to capture incremental value as chipmakers adopt hybrid-bonding and chiplet architectures demanding ultra-thin hBN dielectric layers.",
+    "url": "https://www.marketresearchfuture.com/reports/hexagonal-boron-nitride-market-1811",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR ~5.1%",
+    "url": "https://www.marketresearchfuture.com/reports/hexagonal-boron-nitride-market-1811",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR ~4.8%",
+    "url": "https://www.marketresearchfuture.com/reports/hexagonal-boron-nitride-market-1811",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR ~5.3%",
+    "url": "https://www.marketresearchfuture.com/reports/hexagonal-boron-nitride-market-1811",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR ~4.6%",
+    "url": "https://www.marketresearchfuture.com/reports/hexagonal-boron-nitride-market-1811",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR ~3.9%",
+    "url": "https://www.marketresearchfuture.com/reports/hexagonal-boron-nitride-market-1811",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR ~4.9%",
+    "url": "https://www.marketresearchfuture.com/reports/hexagonal-boron-nitride-market-1811",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR ~6.4%",
+    "url": "https://www.marketresearchfuture.com/reports/hexagonal-boron-nitride-market-1811",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR ~4.5%",
+    "url": "https://www.marketresearchfuture.com/reports/hexagonal-boron-nitride-market-1811",
+    "pass": 3
+   },
+   {
+    "quote": "By Product Type, Pure h-BN dominated with a 60.0% share valued at USD 0.58 billion and a 5.1% CAGR, while h-BN Composites represented 40.0% and are the faster-growing category at a 5.9% CAGR.",
+    "url": "https://www.strategicmarketresearch.com/market-report/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Within Application, Electronics is both the largest and fastest-expanding subsegment, accounting for 42.0% or USD 0.40 billion in 2025 and advancing at a 5.8% CAGR.",
+    "url": "https://www.strategicmarketresearch.com/market-report/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Regionally, Asia Pacific combines scale with the highest growth trajectory, holding 38.0% of 2025 revenue or USD 0.36 billion while expanding at a 6.2% CAGR.",
+    "url": "https://www.strategicmarketresearch.com/market-report/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace & Defense represented 18.0% of end-user revenue, equal to USD 0.17 billion, and is projected to rise at a 5.2% CAGR. Qualification cycles are longer because materials must maintain predictable dielectric, thermal and mechanical behavior through demanding temperature and environmental conditions. Firms such as Kennametal provide h-BN and",
+    "url": "https://www.strategicmarketresearch.com/market-report/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "5.4% CAGR",
+    "url": "https://www.strategicmarketresearch.com/market-report/hexagonal-boron-nitride-market",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "対象となる主要企業",
+    "url": "https://www.zionmarketresearch.com/ja/report/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "六方晶窒化ホウ素粉末市場：主要企業と競争環境",
+    "url": "https://www.zionmarketresearch.com/ja/report/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の六方晶窒化ホウ素粉末市場で事業を展開している主要企業はどこですか？",
+    "url": "https://www.zionmarketresearch.com/ja/report/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の六方晶窒化ホウ素粉末市場の主要企業には、Momentive Performance Materials、Saint-Gobain、HC Starck、3M Company、Denka、UK Abrasives、昭和電工グループ、Henze、Eno High-Tech Material、信越化学工業などが挙げられる",
+    "url": "https://www.zionmarketresearch.com/ja/report/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "電子パッケージング用窒化ホウ素の世界的な主要企業には、サンゴバン、3M、Xtra GmbH、三井化学、Yaan Bestryなどが含まれます",
+    "url": "https://newscast.jp/smart/news/4647263",
+    "pass": 3
+   },
+   {
+    "quote": "また本レポートでは、電子パッケージ用窒化ホウ素のポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、主要グローバル企業の戦略を分析し、加速する世界の電子パッケージ用窒化ホウ素市場における各社の独自の立場をより深く理解できるようにしています",
+    "url": "https://newscast.jp/smart/news/4647263",
+    "pass": 3
+   },
+   {
+    "quote": "また、主要メーカーの生産拠点、販売地域、提供製品、市場集中度分析（CR3、CR5、CR10）、競合状況、新規参入企業、市場におけるM&A活動と戦略も詳述されています",
+    "url": "https://newscast.jp/smart/news/4647263",
+    "pass": 3
+   },
+   {
+    "quote": "第13章には、Saint-Gobain、3M、Xtra GmbH、Mitsui Chemicals、Yaan Bestry、Suzhou Nutpool Materials Technology、Shandong Fangyuan、Suzhou Ginet New Material、Yingkou Liaobin Fine Chemicalといった主要企業に関する詳細な分析が提供されています",
+    "url": "https://newscast.jp/smart/news/4647263",
+    "pass": 3
+   },
+   {
+    "quote": "同社のGrade AおよびGrade B材料は、工業グレードの窒化ホウ素市場への参入を示すものです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "六方晶窒化ホウ素市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "六方晶窒化ホウ素市場の主要企業には、Saint-Gobain、Resonac Holdings Corporation、Denka Company Limited、Momentive Performance Materials Inc.、3M Companyが含まれます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 競争環境と市場への参入・撤退の見通し",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "窒化ホウ素を自社のプロセスに導入することを目指す企業は、特殊な設備とトレーニングに投資する必要があり、参入障壁がさらに高まります",
+    "url": "https://www.consegicbusinessintelligence.com/ja/%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E5%B8%82%E5%A0%B4-1791",
+    "pass": 3
+   },
+   {
+    "quote": "窒化ホウ素業界の主要企業は以下の通りです",
+    "url": "https://www.consegicbusinessintelligence.com/ja/%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E5%B8%82%E5%A0%B4-1791",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、コーティング、離型、電気絶縁などのさまざまな用途における製品の需要の高まりと、この地域における主要企業の強力な存在により、六方晶窒化ホウ素市場をリードしています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "六方晶窒化ホウ素市場レポートで取り上げられている主要企業は、3M、American Elements、デンカ株式会社、サンゴバン、Henze Boron Nitride Products AG、ケナメタル株式会社、水島鉄合金株式会社、UK Abrasives、株式会社、昭和電工株式会社、Grolltex Inc、モメンティブ、イノバセラ、エーアンドデイ株式会社、ZIBO SINYO NITRIDE MATERIALS CO., LTD.、ZYP Coatings、Inc.、OC Oerlikon Management AG、DANDONG CHEMICAL ENGINEERING INSTITUTE CO., LTD.、NB Enterprises、Supervac Industries LLP、信越化学工業株式会社など、国内外の企業です",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の六方晶窒化ホウ素市場市場の主要企業はどこですか？",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "レポートには、世界の六方晶窒化ホウ素市場の主要企業に関する詳細な分析が含まれています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "この調査結果は非常に有益で、新市場参入の判断に役立ちました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "六方晶窒化ホウ素 市場で支配的な主要企業はどれですか?",
+    "url": "https://www.researchnester.jp/industry-analysis/hexagonal-boron-nitride-market/3028",
+    "pass": 3
+   },
+   {
+    "quote": "最後に、主要企業のプロフィールが紹介され、具体的な企業名やそれぞれの特徴についても言及されています",
+    "url": "https://www.marketresearch.co.jp/insights/hexagonal-boron-nitride-market-gmi/",
+    "pass": 3
+   },
+   {
+    "quote": "3M、Saint-Gobain、Momentive Technologiesなどの主要企業は、確立されたプレゼンスと大規模な研究開発投資によって市場をリードしています",
+    "url": "https://www.marketresearch.co.jp/insights/hexagonal-boron-nitride-market-gmi/",
+    "pass": 3
+   },
+   {
+    "quote": "六方晶窒化ホウ素業界で事業を展開する主な企業は以下の通り：",
+    "url": "https://www.marketresearch.co.jp/insights/hexagonal-boron-nitride-market-gmi/",
+    "pass": 3
+   },
+   {
+    "quote": "大手メーカーは、製品ポートフォリオを強化し、新しい市場参入し、お互いの専門知識を活用するために、パートナーシップ、合弁会社、合意に参入しています",
+    "url": "https://www.coherentmi.com/ja/industry-reports/%E5%85%AD%E6%96%B9%E6%99%B6%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E3%81%AE%E4%B8%96%E7%95%8C%E5%B8%82%E5%A0%B4-42",
+    "pass": 3
+   },
+   {
+    "quote": "多くのプレーヤーが参入し、競争が激しい",
+    "url": "https://www.coherentmi.com/ja/industry-reports/%E5%85%AD%E6%96%B9%E6%99%B6%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E3%81%AE%E4%B8%96%E7%95%8C%E5%B8%82%E5%A0%B4-42",
+    "pass": 3
+   },
+   {
+    "quote": "分野別の世界シェアと主要企業",
+    "url": "https://semirai.com/glossary/hexagonal-boron-nitride",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players:",
+    "url": "https://www.gminsights.com/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Hexagonal Boron Nitride Market Share & Competitive Landscape",
+    "url": "https://www.gminsights.com/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in hexagonal boron nitride market?",
+    "url": "https://www.gminsights.com/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in hexagonal boron nitride market include Saint-Gobain, Resonac Holdings Corporation, Denka Company Limited, Momentive Performance Materials Inc., 3M Company.",
+    "url": "https://www.gminsights.com/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/hexagonal-boron-nitride-market-1811",
+    "pass": 3
+   },
+   {
+    "quote": "Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/hexagonal-boron-nitride-market-1811",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.strategicmarketresearch.com/market-report/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players by Revenue and Market Share",
+    "url": "https://www.strategicmarketresearch.com/market-report/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Key Players:",
+    "url": "https://www.strategicmarketresearch.com/market-report/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape and Strategic Insights",
+    "url": "https://www.strategicmarketresearch.com/market-report/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape by Market Share",
+    "url": "https://www.strategicmarketresearch.com/market-report/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Growth Strategies Adopted by Key Players",
+    "url": "https://www.strategicmarketresearch.com/market-report/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/hexagonal-boron-nitride-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/hexagonal-boron-nitride-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in global hexagonal boron nitride market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/hexagonal-boron-nitride-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/blogs/top-20-companies-global-hexagonal-boron-nitride-market-in--2026-2035--spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Which are the leading players operating in the hexagonal boron nitride market?",
+    "url": "https://www.theinsightpartners.com/reports/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "3M, American Elements, Denka Company Limited, Groltex Inc, Saint Gobain, Yara International, Showa, Denko K.K., ZYP Coatings, Inc., Momentive, Henze-BNP are the key players operating in the hexagonal boron nitride market.",
+    "url": "https://www.theinsightpartners.com/reports/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape and Company Benchmarking",
+    "url": "https://www.theinsightpartners.com/reports/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies & Market Insights",
+    "url": "https://www.technavio.com/report/hexagonal-boron-nitride-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "The industry research and growth report includes detailed analyses of the competitive landscape of the market and information about key companies, including:",
+    "url": "https://www.technavio.com/report/hexagonal-boron-nitride-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape",
+    "url": "https://www.technavio.com/report/hexagonal-boron-nitride-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Thorough analysis of the market's competitive landscape and detailed information about companies",
+    "url": "https://www.technavio.com/report/hexagonal-boron-nitride-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "12 Competitive Landscape",
+    "url": "https://www.technavio.com/report/hexagonal-boron-nitride-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "12.2 Competitive Landscape",
+    "url": "https://www.technavio.com/report/hexagonal-boron-nitride-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "13.1 Companies profiled",
+    "url": "https://www.technavio.com/report/hexagonal-boron-nitride-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in this market report?",
+    "url": "https://www.technavio.com/report/hexagonal-boron-nitride-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "North America Hexagonal Boron Nitride Market Competitive Landscape",
+    "url": "https://www.kenresearch.com/industry-reports/north-america-hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is moderately consolidated, with key players dominating through extensive product portfolios and technological advancements. Companies in this space focus on expanding their presence across different applications, particularly in high-performance industries such as aerospace and electronics.",
+    "url": "https://www.kenresearch.com/industry-reports/north-america-hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "8.4. Expansion Strategies for Key Players",
+    "url": "https://www.kenresearch.com/industry-reports/north-america-hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Hypotheses around market growth drivers and future projections were validated through interviews with industry experts from key companies. These insights provided deeper operational and financial knowledge to refine our market estimates.",
+    "url": "https://www.kenresearch.com/industry-reports/north-america-hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in the North America Hexagonal Boron Nitride Market?",
+    "url": "https://www.kenresearch.com/industry-reports/north-america-hexagonal-boron-nitride-market",
+    "pass": 3
+   }
+  ],
+  "日本企業": [
+   {
+    "quote": "例えば、2018年4月、昭和電工はSGL GE Holding GmbH（黒鉛電極製造会社）の買収を完了し、完全子会社とした",
+    "url": "https://www.zionmarketresearch.com/ja/report/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Momentive Performance Materials、Saint-Gobain、HC Starck、3M Company、Denka、UK Abrasives、昭和電工グループ、Henze、Eno High-Tech Material、信越化学工業など",
+    "url": "https://www.zionmarketresearch.com/ja/report/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国、インド、日本などの新興国は、電気絶縁・コーティング分野の成長が著しいことから、近い将来、六方晶窒化ホウ素市場にとって最も重要な地域となる可能性が高いです",
+    "url": "https://www.zionmarketresearch.com/ja/report/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "昭和電工グループ",
+    "url": "https://www.zionmarketresearch.com/ja/report/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の六方晶窒化ホウ素粉末市場の主要企業には、Momentive Performance Materials、Saint-Gobain、HC Starck、3M Company、Denka、UK Abrasives、昭和電工グループ、Henze、Eno High-Tech Material、信越化学工業などが挙げられる",
+    "url": "https://www.zionmarketresearch.com/ja/report/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾といった主要国および地域の市場状況が個別に分析されています",
+    "url": "https://newscast.jp/smart/news/4647263",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：電子パッケージング用窒化ホウ素の世界市場2026年～2032年",
+    "url": "https://newscast.jp/smart/news/4647263",
+    "pass": 3
+   },
+   {
+    "quote": "Saint-Gobain、Resonac Holdings Corporation、Denka Company Limited、Momentive Performance Materials Inc.、3M Company",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Resonacの表面処理ST-BNフレークは、樹脂との親和性を高め、充填率の向上を可能にするよう設計されており、従来のフレークを薄型熱伝導フィルムに使用する際の制約となり得る粘度の問題に対応します",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Resonac Corporation, Flake-Shaped Boron Nitride Filler for High-Thermal-Conductivity Compounds, resonac.com",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "ResonacのSHOBN UHPシリーズは、純度99.9%として規定されており、電気絶縁性と低誘電特性が必要な熱伝導用途向けに設計されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本と韓国は、半導体材料および先端エレクトロニクスの重要な基盤を提供しており、インドの電気自動車販売台数は2024年に 10万台近くに達しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "認定企業の競争環境には、3M Company、American Elements、Denka Company Limited、Grolltex Inc.、Henze Boron Nitride Products AG、Höganäs AB、Kennametal Inc.、Momentive Performance Materials Inc.、Resonac Holdings Corporation、Saint-Gobain、ZYP Coatings Inc.が含まれます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Resonac Holdings Corporation",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Resonac Holdings Corporationは、高純度SHOBN UHP粉末および表面処理済みST-BNフレークにより、半導体パッケージングおよび熱インターフェース用途に対応しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Resonacは、樹脂適合性を改善し、未処理フレーク系で生じる急激な粘度上昇を伴わずに充填材の高充填率を実現する、表面処理ST-BNフレークを製品化した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "六方晶窒化ホウ素市場の主要企業には、Saint-Gobain、Resonac Holdings Corporation、Denka Company Limited、Momentive Performance Materials Inc.、3M Companyが含まれます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "信越化学工業株式会社 (日本)",
+    "url": "https://www.consegicbusinessintelligence.com/ja/%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E5%B8%82%E5%A0%B4-1791",
+    "pass": 3
+   },
+   {
+    "quote": "昭和電工株式会社（日本）",
+    "url": "https://www.consegicbusinessintelligence.com/ja/%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E5%B8%82%E5%A0%B4-1791",
+    "pass": 3
+   },
+   {
+    "quote": "デンカ株式会社 (日本)",
+    "url": "https://www.consegicbusinessintelligence.com/ja/%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E5%B8%82%E5%A0%B4-1791",
+    "pass": 3
+   },
+   {
+    "quote": "昭和電工株式会社 (日本)",
+    "url": "https://www.consegicbusinessintelligence.com/ja/%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E5%B8%82%E5%A0%B4-1791",
+    "pass": 3
+   },
+   {
+    "quote": "分析によると、アジア太平洋地域は市場で最も急速に成長している地域であり、その原動力となっているのは、中国、日本、韓国における急速な工業化と、エレクトロニクス、自動車、セラミック産業の拡大です",
+    "url": "https://www.consegicbusinessintelligence.com/ja/%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E5%B8%82%E5%A0%B4-1791",
+    "pass": 3
+   },
+   {
+    "quote": "日本は、半導体およびコーティング用の高性能材料に注力しており、窒化ホウ素の需要が高まっています",
+    "url": "https://www.consegicbusinessintelligence.com/ja/%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E5%B8%82%E5%A0%B4-1791",
+    "pass": 3
+   },
+   {
+    "quote": "日本: 〒150-0011 東京都渋谷区東1丁目16-8",
+    "url": "https://www.consegicbusinessintelligence.com/ja/%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E5%B8%82%E5%A0%B4-1791",
+    "pass": 3
+   },
+   {
+    "quote": "(+81) Japan",
+    "url": "https://www.consegicbusinessintelligence.com/ja/%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E5%B8%82%E5%A0%B4-1791",
+    "pass": 3
+   },
+   {
+    "quote": ">世界の六方晶窒化ホウ素市場、製品タイプ別（チューブ、ロッド、粉末、ガスケット、プレートおよびシート、その他）、用途別（コーティング/離型剤/スプレー、電気絶縁材、複合材料、工業用潤滑剤、溶射、パーソナルケア、その他）、エンドユーザー別（航空宇宙、自動車、半導体および電子機器、その他）、国別（米国、カナダ、メキシコ、ブラジル、アルゼンチン、その他の南米、ドイツ、フランス、イタリア、英国、ベルギー、スペイン、ロシア、トルコ、オランダ、スイス、その他のヨーロッパ、日本、中国、インド、韓国、オーストラリア、シンガポール、マレーシア、タイ、インドネシア、フィリピン、その他のアジア太平洋地域、UAE、サウジアラビア、エジプト、南アフリカ、イスラエル、その他の中東およびアフリカ）業界動向および2028年までの予測",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の六方晶窒化ホウ素市場、製品タイプ別（チューブ、ロッド、粉末、ガスケット、プレートおよびシート、その他）、用途別（コーティング/離型剤/スプレー、電気絶縁材、複合材料、工業用潤滑剤、溶射、パーソナルケア、その他）、エンドユーザー別（航空宇宙、自動車、半導体および電子機器、その他）、国別（米国、カナダ、メキシコ、ブラジル、アルゼンチン、その他の南米、ドイツ、フランス、イタリア、英国、ベルギー、スペイン、ロシア、トルコ、オランダ、スイス、その他のヨーロッパ、日本、中国、インド、韓国、オーストラリア、シンガポール、マレーシア、タイ、インドネシア、フィリピン、その他のアジア太平洋地域、UAE、サウジアラビア、エジプト、南アフリカ、イスラエル、その他の中東およびアフリカ）業界動向および2028年までの予測",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場レポートでカバーされている国は、北米では米国、カナダ、メキシコ、ヨーロッパではドイツ、フランス、英国、オランダ、スイス、ベルギー、ロシア、イタリア、スペイン、トルコ、その他のヨーロッパ諸国、アジア太平洋地域 (APAC) では中国、日本、インド、韓国、シンガポール、マレーシア、オーストラリア、タイ、インドネシア、フィリピン、その他のアジア太平洋地域 (APAC)、中東およびアフリカ (MEA) の一部としてサウジアラビア、UAE、イスラエル、エジプト、南アフリカ、その他の中東およびアフリカ (MEA)、南米の一部としてブラジル、アルゼンチン、その他の南米です",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "六方晶窒化ホウ素市場レポートで取り上げられている主要企業は、3M、American Elements、デンカ株式会社、サンゴバン、Henze Boron Nitride Products AG、ケナメタル株式会社、水島鉄合金株式会社、UK Abrasives、株式会社、昭和電工株式会社、Grolltex Inc、モメンティブ、イノバセラ、エーアンドデイ株式会社、ZIBO SINYO NITRIDE MATERIALS CO., LTD.、ZYP Coatings、Inc.、OC Oerlikon Management AG、DANDONG CHEMICAL ENGINEERING INSTITUTE CO., LTD.、NB Enterprises、Supervac Industries LLP、信越化学工業株式会社など、国内外の企業です",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場は、世界の六方晶窒化ホウ素市場、製品タイプ別（チューブ、ロッド、粉末、ガスケット、プレートおよびシート、その他）、用途別（コーティング/離型剤/スプレー、電気絶縁材、複合材料、工業用潤滑剤、溶射、パーソナルケア、その他）、エンドユーザー別（航空宇宙、自動車、半導体および電子機器、その他）、国別（米国、カナダ、メキシコ、ブラジル、アルゼンチン、その他の南米、ドイツ、フランス、イタリア、英国、ベルギー、スペイン、ロシア、トルコ、オランダ、スイス、その他のヨーロッパ、日本、中国、インド、韓国、オーストラリア、シンガポール、マレーシア、タイ、インドネシア、フィリピン、その他のアジア太平洋地域、UAE、サウジアラビア、エジプト、南アフリカ、イスラエル、その他の中東およびアフリカ）業界動向および2028年までの予測に基づいて区分されています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋 (日本、中国、インド、インドネシア、マレーシア、オーストラリア、その他のアジア太平洋)",
+    "url": "https://www.researchnester.jp/industry-analysis/hexagonal-boron-nitride-market/3028",
+    "pass": 3
+   },
+   {
+    "quote": "六方晶窒化ホウ素市場 – 日本の展望",
+    "url": "https://www.researchnester.jp/industry-analysis/hexagonal-boron-nitride-market/3028",
+    "pass": 3
+   },
+   {
+    "quote": "日本地域の六方晶窒化ホウ素市場も、この地域での化粧品産業の拡大により、予測期間中に大きな成長を遂げます",
+    "url": "https://www.researchnester.jp/industry-analysis/hexagonal-boron-nitride-market/3028",
+    "pass": 3
+   },
+   {
+    "quote": "日本の組織は、進化し続ける社会の要件に応え、年間 GDP の 3% に相当する生鮮食品を開発するスキルで人気があります",
+    "url": "https://www.researchnester.jp/industry-analysis/hexagonal-boron-nitride-market/3028",
+    "pass": 3
+   },
+   {
+    "quote": "日本の研究開発費は世界で最も高い部類に属しており、米国が約2％、中国が1.5％を占めています",
+    "url": "https://www.researchnester.jp/industry-analysis/hexagonal-boron-nitride-market/3028",
+    "pass": 3
+   },
+   {
+    "quote": "日本の化粧品の力は、その評価を継続的に高める原動力となっています",
+    "url": "https://www.researchnester.jp/industry-analysis/hexagonal-boron-nitride-market/3028",
+    "pass": 3
+   },
+   {
+    "quote": "化粧品業界の外でも、日本人のモノづくりへの熱意は、特定のレベルの効率を確認するために修正を熱心に模索していることを示しています",
+    "url": "https://www.researchnester.jp/industry-analysis/hexagonal-boron-nitride-market/3028",
+    "pass": 3
+   },
+   {
+    "quote": "日本の各製造企業は、前衛的なソリューションと提案を提供する各分野の専門家である「マイスター」を指定しています",
+    "url": "https://www.researchnester.jp/industry-analysis/hexagonal-boron-nitride-market/3028",
+    "pass": 3
+   },
+   {
+    "quote": "六方晶窒化ホウ素の市場成長を促進するもう一つの理由は、日本人の見た目に対する関心が高まり、日常生活における化粧品の使用が増えていることです",
+    "url": "https://www.researchnester.jp/industry-analysis/hexagonal-boron-nitride-market/3028",
+    "pass": 3
+   },
+   {
+    "quote": "2022 年に日本の美容およびパーソナルケア市場の利益は合計 419.8憶米ドルに達し、毎年 5.40% 増加すると予想されています",
+    "url": "https://www.researchnester.jp/industry-analysis/hexagonal-boron-nitride-market/3028",
+    "pass": 3
+   },
+   {
+    "quote": "日本の主要な美容企業には、資生堂、コーセー、ポーラ オルビス、花王、ファンケルが含まれます",
+    "url": "https://www.researchnester.jp/industry-analysis/hexagonal-boron-nitride-market/3028",
+    "pass": 3
+   },
+   {
+    "quote": "日本の顧客は一流の製品を高く評価していると認識されており、女性も男性も結果が得られる製品に追加のお金を投資することに積極的です",
+    "url": "https://www.researchnester.jp/industry-analysis/hexagonal-boron-nitride-market/3028",
+    "pass": 3
+   },
+   {
+    "quote": "西洋諸国と同様に、健康と再生可能性に対する理解の高まりにより、近年、ナチュラルで基礎的な美容製品が日本の消費者に人気を集めています",
+    "url": "https://www.researchnester.jp/industry-analysis/hexagonal-boron-nitride-market/3028",
+    "pass": 3
+   },
+   {
+    "quote": "Saint Gobian Japan",
+    "url": "https://www.researchnester.jp/industry-analysis/hexagonal-boron-nitride-market/3028",
+    "pass": 3
+   },
+   {
+    "quote": "Resonac Corporation",
+    "url": "https://www.researchnester.jp/industry-analysis/hexagonal-boron-nitride-market/3028",
+    "pass": 3
+   },
+   {
+    "quote": "※本ページの内容は、英文レポートの概要および目次を日本語に自動翻訳したものです",
+    "url": "https://www.marketresearch.co.jp/insights/hexagonal-boron-nitride-market-gmi/",
+    "pass": 3
+   },
+   {
+    "quote": "Resonac Holdings Corporation",
+    "url": "https://www.marketresearch.co.jp/insights/hexagonal-boron-nitride-market-gmi/",
+    "pass": 3
+   },
+   {
+    "quote": "8.4.3 日本",
+    "url": "https://www.marketresearch.co.jp/insights/hexagonal-boron-nitride-market-gmi/",
+    "pass": 3
+   },
+   {
+    "quote": "9.9 Resonac Holdings Corporation",
+    "url": "https://www.marketresearch.co.jp/insights/hexagonal-boron-nitride-market-gmi/",
+    "pass": 3
+   },
+   {
+    "quote": "(日本化学会社)は、Ceracessシリーズのボロン窒化物冷却シートの発売を発表しました",
+    "url": "https://www.coherentmi.com/ja/industry-reports/%E5%85%AD%E6%96%B9%E6%99%B6%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E3%81%AE%E4%B8%96%E7%95%8C%E5%B8%82%E5%A0%B4-42",
+    "pass": 3
+   },
+   {
+    "quote": "9月2022日、ZYP コーティング(高温塗装用コーティングの製造・製造・高品質ボロンニトリドコーティングの先駆者)は、日本に拠点を置く化学会社である昭和電工と提携し、北米全域でブロン窒化物製品を配布",
+    "url": "https://www.coherentmi.com/ja/industry-reports/%E5%85%AD%E6%96%B9%E6%99%B6%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E3%81%AE%E4%B8%96%E7%95%8C%E5%B8%82%E5%A0%B4-42",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業ランキング",
+    "url": "https://semirai.com/glossary/hexagonal-boron-nitride",
+    "pass": 3
+   },
+   {
+    "quote": "半導体事業の売上高で並べた日本企業",
+    "url": "https://semirai.com/glossary/hexagonal-boron-nitride",
+    "pass": 3
+   },
+   {
+    "quote": "SEMICON Japan 2026・学会の会期と締切",
+    "url": "https://semirai.com/glossary/hexagonal-boron-nitride",
+    "pass": 3
+   },
+   {
+    "quote": "SEMICON Japan 2026（12/9〜11）にあわせて、出展企業さまの広告掲載のご相談を受け付けています",
+    "url": "https://semirai.com/glossary/hexagonal-boron-nitride",
+    "pass": 3
+   },
+   {
+    "quote": "SEMICON Japan 2026 広告募集",
+    "url": "https://semirai.com/glossary/hexagonal-boron-nitride",
+    "pass": 3
+   },
+   {
+    "quote": "多結晶シリコン（ポリシリコン）・電子工業用シリカ・高純度HClガスの日本有数のサプライヤー",
+    "url": "https://semirai.com/glossary/hexagonal-boron-nitride",
+    "pass": 3
+   },
+   {
+    "quote": "半導体・太陽電池製造に不可欠なポリシリコンの世界上位メーカーであり、日本国内の一貫生産体制を持つ",
+    "url": "https://semirai.com/glossary/hexagonal-boron-nitride",
+    "pass": 3
+   },
+   {
+    "quote": "日本表面科学会",
+    "url": "https://semirai.com/glossary/hexagonal-boron-nitride",
+    "pass": 3
+   },
+   {
+    "quote": "日本学術振興会特別研究員",
+    "url": "https://www.hiroshima-u.ac.jp/news/96241",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "六方晶窒化ホウ素粉末市場の規模、シェア、および2032年までの予測",
+    "url": "https://www.zionmarketresearch.com/ja/report/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "六方晶窒化ホウ素粉末市場の規模、シェア、動向、成長率（2032年まで）",
+    "url": "https://www.zionmarketresearch.com/ja/report/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "2020年には、プレミアムグレードが六方晶窒化ホウ素粉末市場で最大のセグメントとなり、市場全体の最大のシェアを占めました",
+    "url": "https://www.zionmarketresearch.com/ja/report/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "売上高ベースでは、2025年に世界トップ2社が市場シェアの約％を占めました",
+    "url": "https://newscast.jp/smart/news/4647263",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2032年までのグローバル年間販売動向、地域別および国別の現在と将来の分析（2021年、2025年、2032年）、球状および非球状窒化ホウ素といったタイプ別の市場分析（販売量、収益、販売価格、市場シェア2021-2026）、ならびに熱界面材料、CCL、その他の用途別の市場分析（販売量、収益、販売価格、市場シェア2021-2026）が詳細に示されています",
+    "url": "https://newscast.jp/smart/news/4647263",
+    "pass": 3
+   },
+   {
+    "quote": "これには、企業別の年間販売量と市場シェア（2021-2026）、年間収益と収益市場シェア（2021-2026）、および平均販売価格が含まれます",
+    "url": "https://newscast.jp/smart/news/4647263",
+    "pass": 3
+   },
+   {
+    "quote": "六方晶窒化ホウ素市場の規模、シェアおよび分析 — 2035年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "六方晶窒化ホウ素市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Saint-Gobain は、2025年に 15.2%超の市場シェアを占め、市場をリードした",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "が含まれ、2025年にはこれらの企業が合わせて 55.2%の市場シェアを占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Nature Publishing Group, Modulating the thermal conductivity in hexagonal boron nitride via controlled boron isotope concentration, 2019, nature.com",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国地質調査所は、2024年の世界の精製ホウ酸塩生産に占めるトルコの割合を約 48%と推定した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "六方晶窒化ホウ素市場の売上高シェア、等級別（2025年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国は 3億2,240万米ドルを占め、年平均成長率（CAGR）6.5%で拡大すると予測される一方、カナダは 5,050万米ドルを占め、3.6%で成長しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州は、2025年に 2億2,860万米ドルを占めています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "ブラジルの電気自動車販売台数は2024年に 12万5,000台近くに達し、前年比で2倍以上に増加するとともに、市場シェア6.5%に達しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "中東・アフリカは、2025年に 4,360万米ドルを占めています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年現在、六方晶窒化ホウ素市場では北米が最大のシェアを占めている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "一次調査は当社の調査手法の中核であり、分析上の知見全体の約80％を占めます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "窒化ホウ素市場規模、シェア、業界動向 - 2031年",
+    "url": "https://www.consegicbusinessintelligence.com/ja/%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E5%B8%82%E5%A0%B4-1791",
+    "pass": 3
+   },
+   {
+    "quote": "窒化ホウ素市場 - 規模、シェア、業界動向、予測（2024年 - 2031年）",
+    "url": "https://www.consegicbusinessintelligence.com/ja/%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E5%B8%82%E5%A0%B4-1791",
+    "pass": 3
+   },
+   {
+    "quote": "六方晶系窒化ホウ素（h-BN）セグメントは、2023年の窒化ホウ素市場シェアの62.30%を占め、最大の収益を占めました",
+    "url": "https://www.consegicbusinessintelligence.com/ja/%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E5%B8%82%E5%A0%B4-1791",
+    "pass": 3
+   },
+   {
+    "quote": "コーティング・潤滑剤セグメントは、2023年に窒化ホウ素市場において最大の収益シェアを占めました",
+    "url": "https://www.consegicbusinessintelligence.com/ja/%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E5%B8%82%E5%A0%B4-1791",
+    "pass": 3
+   },
+   {
+    "quote": "2023年には、エレクトロニクス分野が最大の収益シェアを占めました",
+    "url": "https://www.consegicbusinessintelligence.com/ja/%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E5%B8%82%E5%A0%B4-1791",
+    "pass": 3
+   },
+   {
+    "quote": "北米市場において、基準年である2023年において、米国は71.30%と最大のシェアを占めました",
+    "url": "https://www.consegicbusinessintelligence.com/ja/%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E5%B8%82%E5%A0%B4-1791",
+    "pass": 3
+   },
+   {
+    "quote": "没入型ディスプレイエンターテインメント市場 - サイズ、業界シェア、成長傾向と予測 2025-2034",
+    "url": "https://www.consegicbusinessintelligence.com/ja/%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E5%B8%82%E5%A0%B4-1791",
+    "pass": 3
+   },
+   {
+    "quote": "アジアパシフィック熱可塑性加硫市場 - サイズ、業界シェア、成長トレンド、予測 2025-2034",
+    "url": "https://www.consegicbusinessintelligence.com/ja/%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E5%B8%82%E5%A0%B4-1791",
+    "pass": 3
+   },
+   {
+    "quote": "六方晶窒化ホウ素の市場規模、シェア、予測 2032 年",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の六方晶窒化ホウ素市場調査、規模、シェアと予測 2036年",
+    "url": "https://www.researchnester.jp/industry-analysis/hexagonal-boron-nitride-market/3028",
+    "pass": 3
+   },
+   {
+    "quote": "日本の研究開発費は世界で最も高い部類に属しており、米国が約2％、中国が1.5％を占めています",
+    "url": "https://www.researchnester.jp/industry-analysis/hexagonal-boron-nitride-market/3028",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の六方晶窒化ホウ素市場は、予測期間中に最大の成長を遂げ、収益シェアは約38%となります",
+    "url": "https://www.researchnester.jp/industry-analysis/hexagonal-boron-nitride-market/3028",
+    "pass": 3
+   },
+   {
+    "quote": "電子デバイスおよびスマート デバイスは最近、家庭の電力導入の 15% に供給されていますが、そのシェアは急速に上昇しています",
+    "url": "https://www.researchnester.jp/industry-analysis/hexagonal-boron-nitride-market/3028",
+    "pass": 3
+   },
+   {
+    "quote": "逆に、業界の利用シェアは恒久的に減少しており、その結果、2019 年現在、これら 3 つのセクターの消費シェアはほぼ同等となっています",
+    "url": "https://www.researchnester.jp/industry-analysis/hexagonal-boron-nitride-market/3028",
+    "pass": 3
+   },
+   {
+    "quote": "碍子セグメントは予測期間に最も成長し、碍子における技術利用の増加により40%を占めると予想されます",
+    "url": "https://www.researchnester.jp/industry-analysis/hexagonal-boron-nitride-market/3028",
+    "pass": 3
+   },
+   {
+    "quote": "米国エネルギー省によると、住宅用建物は国の総エネルギー支出の約 20% を占めています",
+    "url": "https://www.researchnester.jp/industry-analysis/hexagonal-boron-nitride-market/3028",
+    "pass": 3
+   },
+   {
+    "quote": "自動車セグメントは、六方晶窒化ホウ素の使用増加と自動車産業の拡大により、予測期間中に優れた成長を遂げ、売上シェアの約42%を保持すると予想されます",
+    "url": "https://www.researchnester.jp/industry-analysis/hexagonal-boron-nitride-market/3028",
+    "pass": 3
+   },
+   {
+    "quote": "回答: 北米地域の市場は、2036 年末までに最大の市場シェアを獲得すると予想されており、将来に多くのビジネス機会がもたらされると予想されます",
+    "url": "https://www.researchnester.jp/industry-analysis/hexagonal-boron-nitride-market/3028",
+    "pass": 3
+   },
+   {
+    "quote": "4.2 各社の市場シェア分析",
+    "url": "https://www.marketresearch.co.jp/insights/hexagonal-boron-nitride-market-gmi/",
+    "pass": 3
+   },
+   {
+    "quote": "エアピュリファイングスプレー市場の規模、シェアおよびトレンド分析レポート：タイプ別（アロマ、ノンアロマ）、エンドユーザー別（法人、家庭）、販売チャネル別（スーパーマーケット/ハイパーマーケット、リテール薬局、オンライン）、地域別（北米、ヨーロッパ、APAC、中東・アフリカ、LATAM）予測、2026-2034年",
+    "url": "https://www.marketresearch.co.jp/insights/hexagonal-boron-nitride-market-gmi/",
+    "pass": 3
+   },
+   {
+    "quote": "UVDロボット市場規模、シェアおよびトレンド分析レポート：タイプ別（過酸化水素蒸気、紫外線）、用途別（商業および産業、ヘルスケア）、地域別（北米、ヨーロッパ、APAC、中東およびアフリカ、LATAM）予測2026-2034",
+    "url": "https://www.marketresearch.co.jp/insights/hexagonal-boron-nitride-market-gmi/",
+    "pass": 3
+   },
+   {
+    "quote": "AIショッピングアシスタント市場規模、シェアおよびトレンド分析レポート：タイプ別（音声ベースAIショッピングアシスタント、テキストベースAIショッピングアシスタント、ビジュアルベースAIショッピングアシスタント、マルチモーダルAIショッピングアシスタント）、技術別（自然言語処理（NLP）、機械学習、コンピュータービジョン、統合技術）、アプリケーション別（小売、ヘルスケア、旅行、メディア、その他のアプリケーション）、地域別（北米、ヨーロッパ、APAC、中東およびアフリカ、LATAM）の予測、2026-2034",
+    "url": "https://www.marketresearch.co.jp/insights/hexagonal-boron-nitride-market-gmi/",
+    "pass": 3
+   },
+   {
+    "quote": "咳治療薬市場の規模、シェアおよびトレンド分析レポート：製品タイプ別（去痰薬、抗ヒスタミン薬、気管支拡張薬、去鼻充血薬、抗生物質）、年齢層別（成人、小児）、流通チャネル別（小売薬局、病院薬局、オンライン薬局）、地域別（北米、ヨーロッパ、APAC、中東およびアフリカ、LATAM）予測、2026-2034年",
+    "url": "https://www.marketresearch.co.jp/insights/hexagonal-boron-nitride-market-gmi/",
+    "pass": 3
+   },
+   {
+    "quote": "ドローン市場の規模、シェアおよびトレンド分析レポート：コンポーネント別（ハードウェア、ソフトウェア、サービス）、製品別（固定翼、マルチローター、シングルローター、その他）、技術別（遠隔操作、半自律、完全自律）、ペイロード容量別（2KG以下、2KGから19KG、20KGから200KG、200KG以上）、電源別（バッテリー駆動、ガソリン駆動、水素燃料電池、太陽光）、最終用途別（消費者、商業、軍事・防衛、政府・法執行機関、その他）、地域別（北米、ヨーロッパ、APAC、中東・アフリカ、LATAM）の予測、2026-2034年",
+    "url": "https://www.marketresearch.co.jp/insights/hexagonal-boron-nitride-market-gmi/",
+    "pass": 3
+   },
+   {
+    "quote": "六方晶窒化ホウ素の世界市場 規模およびシェア分析 - 成長トレンドおよび予測 (2025-2032)",
+    "url": "https://www.coherentmi.com/ja/industry-reports/%E5%85%AD%E6%96%B9%E6%99%B6%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E3%81%AE%E4%B8%96%E7%95%8C%E5%B8%82%E5%A0%B4-42",
+    "pass": 3
+   },
+   {
+    "quote": "型別で、2025年の市場最大のシェアを占める航空宇宙セグメント",
+    "url": "https://www.coherentmi.com/ja/industry-reports/%E5%85%AD%E6%96%B9%E6%99%B6%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E3%81%AE%E4%B8%96%E7%95%8C%E5%B8%82%E5%A0%B4-42",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場シェアの32%以上を占める、予測期間中の六角形の窒化物のための最大の市場であることが期待されます",
+    "url": "https://www.coherentmi.com/ja/industry-reports/%E5%85%AD%E6%96%B9%E6%99%B6%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E3%81%AE%E4%B8%96%E7%95%8C%E5%B8%82%E5%A0%B4-42",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場シェアの40%以上を占める六角形の窒化物のための2番目に大きい市場であることが期待されます",
+    "url": "https://www.coherentmi.com/ja/industry-reports/%E5%85%AD%E6%96%B9%E6%99%B6%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E3%81%AE%E4%B8%96%E7%95%8C%E5%B8%82%E5%A0%B4-42",
+    "pass": 3
+   },
+   {
+    "quote": "6 年以上の経験を持つ Vidyesh は、カスタマイズされた調査ソリューションのための市場予測、サプライヤー ランドスケープ分析、市場シェア評価の熟練度で高い評価を得ています",
+    "url": "https://www.coherentmi.com/ja/industry-reports/%E5%85%AD%E6%96%B9%E6%99%B6%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E3%81%AE%E4%B8%96%E7%95%8C%E5%B8%82%E5%A0%B4-42",
+    "pass": 3
+   },
+   {
+    "quote": "2023年のグローバル六角形の窒化物市場の最大のシェアに占める航空宇宙セグメント",
+    "url": "https://www.coherentmi.com/ja/industry-reports/%E5%85%AD%E6%96%B9%E6%99%B6%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E3%81%AE%E4%B8%96%E7%95%8C%E5%B8%82%E5%A0%B4-42",
+    "pass": 3
+   },
+   {
+    "quote": "market share in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Supply concentration reinforces this segmentation. Türkiye reports holding about 73% of global boron reserves",
+    "url": "https://www.gminsights.com/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Electric vehicle production is increasing the specification intensity of thermal interfaces. Global electric-car sales exceeded 17 million units in 2024, up 25% year on year; China accounted for more than 11 million sales",
+    "url": "https://www.gminsights.com/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "High-purity boron feedstock is concentrated and vulnerable to supply-chain disruption. Türkiye's boron reserves and state-managed boron industry make the country a critical point in the raw-material chain. The U.S. Geological Survey estimated that Türkiye accounted for about 48% of global refined borate production in 2024",
+    "url": "https://www.gminsights.com/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Middle East & Africa represents USD 43.6 million in 2025. Demand is concentrated in high-temperature industrial processing, specialty lubricants, coatings, and materials distribution. The region's proximity to Türkiye's borate supply chain may support logistics for certain boron-derived materials, although local hBN manufacturing and advanced-electronics demand remain comparatively limited.",
+    "url": "https://www.gminsights.com/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America currently holds the largest share of the hexagonal boron nitride market in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific dominates the Hexagonal Boron Nitride Market with a 44% share, led by China and Japan.",
+    "url": "https://www.marketresearchfuture.com/reports/hexagonal-boron-nitride-market-1811",
+    "pass": 3
+   },
+   {
+    "quote": "~38% market share",
+    "url": "https://www.marketresearchfuture.com/reports/hexagonal-boron-nitride-market-1811",
+    "pass": 3
+   },
+   {
+    "quote": "~8% market share",
+    "url": "https://www.marketresearchfuture.com/reports/hexagonal-boron-nitride-market-1811",
+    "pass": 3
+   },
+   {
+    "quote": "~7% market share",
+    "url": "https://www.marketresearchfuture.com/reports/hexagonal-boron-nitride-market-1811",
+    "pass": 3
+   },
+   {
+    "quote": "~22% market share",
+    "url": "https://www.marketresearchfuture.com/reports/hexagonal-boron-nitride-market-1811",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "Intel Newsroom, Intel and Biden-Harris Administration Finalize $7.86 Billion Funding Award Under U.S. CHIPS Act, November 2024, newsroom.intel.com",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Intel Newsroom, Intel and Biden-Harris Administration Finalize $7.86 Billion Funding Award Under U.S. CHIPS Act. newsroom.intel.com",
+    "url": "https://www.gminsights.com/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Regional revenue does not mirror manufacturing volume alone. North America leads value because semiconductor, aerospace, and EV programs place a relatively high premium on qualified material, engineering support, and supply assurance. The U.S. growth rate of 6.5% is consistent with this mix of advanced packaging investment and high-value electrification applications.",
+    "url": "https://www.gminsights.com/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "India’s Production-Linked Incentive (PLI) policy has committed USD 10 billion to electronics and advanced chemistry manufacturing and has secured greenfield investment in advanced ceramic materials processing",
+    "url": "https://www.marketresearchfuture.com/reports/hexagonal-boron-nitride-market-1811",
+    "pass": 3
+   },
+   {
+    "quote": "A1. Electronics manufacturers need materials that remove heat without creating electrical leakage paths. This is increasing investment in high-purity fillers, engineered composites and application-specific formulations that can support dense semiconductor packages, AI hardware and power electronics.",
+    "url": "https://www.strategicmarketresearch.com/market-report/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "5.Rising Investment in Large-Area Single-Crystalline hBN Film Production",
+    "url": "https://www.sphericalinsights.com/blogs/top-20-companies-global-hexagonal-boron-nitride-market-in--2026-2035--spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "5.2. Cross Comparison Parameters (Market Share, Product Range, R&D Investment, Production Capacity, Regional Presence, Key Clients, Revenue, Employee Count)",
+    "url": "https://www.kenresearch.com/industry-reports/north-america-hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "5.6. Investment Analysis",
+    "url": "https://www.kenresearch.com/industry-reports/north-america-hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Major players in the North America hexagonal boron nitride market include 3M, Momentive Performance Materials, Hgans AB, Kennametal Inc., and Saint-Gobain. These companies lead the market through extensive product offerings and strategic investments in R&D.",
+    "url": "https://www.kenresearch.com/industry-reports/north-america-hexagonal-boron-nitride-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "年間 平均成長率 （CAGR）12.3%で 成長 する 六方晶窒化ホウ素 ... — 年間 平均成長率 （CAGR）12.3%で 成長 する 六方晶窒化ホウ素 ... LinkedIn https://jp.linkedin.com > pulse > 2026年から2033年にか...",
+    "url": "https://jp.linkedin.com/pulse/2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E5%B9%B4%E9%96%93%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr123%E3%81%A7%E6%88%90%E9%95%B7%E3%81%99%E3%82%8B%E5%85%AD%E6%96%B9%E6%99%B6%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E5%B8%82%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%A5%AD%E7%95%8C%E5%88%86%E6%9E%90%E3%81%A8%E6%8A%80-7513700097264599041-nqite",
+    "pass": 3
+   },
+   {
+    "quote": "電子パッケージング用 窒化ホウ素 の世界 市場 （2026年～2032 ... — 電子パッケージング用 窒化ホウ素 の世界 市場 （2026年～2032 ... Newscast.jp https://newscast.jp > smart > news",
+    "url": "https://newscast.jp/smart/news/4647263",
+    "pass": 3
+   },
+   {
+    "quote": "六方晶窒化ホウ素市場 の 規模 、シェアおよび分析 — 2035年 — 六方晶窒化ホウ素市場 の 規模 、シェアおよび分析 — 2035年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > hexago...",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "窒化ホウ素市場規模 、シェア、業界動向 - 2031年 — 窒化ホウ素市場規模 、シェア、業界動向 - 2031年 Consegic Business Intelligence https://www.consegicbusinessintelligence.com > 窒化ホウ...",
+    "url": "https://www.consegicbusinessintelligence.com/ja/%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E5%B8%82%E5%A0%B4-1791",
+    "pass": 3
+   },
+   {
+    "quote": "六方晶窒化ホウ素 の 市場 規模、シェア、 予測 2032 年 — 六方晶窒化ホウ素 の 市場 規模、シェア、 予測 2032 年 Data Bridge Market Research https://www.databridgemarketresearch.com > reports > gl...",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "六方晶窒化ホウ素市場 の規模、シェアおよび分析 — 2035年 — 六方晶窒化ホウ素市場 の規模、シェアおよび分析 — 2035年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > hexago...",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の 六方晶窒化ホウ素市場 調査、規模、シェアと 予測 2036年 — 世界の 六方晶窒化ホウ素市場 調査、規模、シェアと 予測 2036年 Research Nester Japan https://www.researchnester.jp > 業界分析",
+    "url": "https://www.researchnester.jp/industry-analysis/hexagonal-boron-nitride-market/3028",
+    "pass": 3
+   },
+   {
+    "quote": "世界の 六方晶窒化ホウ素市場 規模（2025～2034年） — 世界の 六方晶窒化ホウ素市場 規模（2025～2034年） (株)マーケットリサーチセンター https://www.marketresearch.co.jp > insights > hexagonal-...",
+    "url": "https://www.marketresearch.co.jp/insights/hexagonal-boron-nitride-market-gmi/",
+    "pass": 3
+   },
+   {
+    "quote": "Hexagonal Boron Nitride Market Size , Share & Analysis - 2035 — Hexagonal Boron Nitride Market Size , Share & Analysis - 2035 Global Market Insights Inc. https://www.gminsights.com > hexag...",
+    "url": "https://www.gminsights.com/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Hexagonal Boron Nitride Market Size , Share Report 2035 — Hexagonal Boron Nitride Market Size , Share Report 2035 Market Research Future https://www.marketresearchfuture.com > ...",
+    "url": "https://www.marketresearchfuture.com/reports/hexagonal-boron-nitride-market-1811",
+    "pass": 3
+   },
+   {
+    "quote": "Hexagonal Boron Nitride Market Size Report, 2025 -2030 — Hexagonal Boron Nitride Market Size Report, 2025 -2030 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/hexagonal-boron-nitride-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Top 20 Companies Global Hexagonal Boron Nitride Market — Top 20 Companies Global Hexagonal Boron Nitride Market Spherical Insights https://www.sphericalinsights.com > t...",
+    "url": "https://www.sphericalinsights.com/blogs/top-20-companies-global-hexagonal-boron-nitride-market-in--2026-2035--spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Hexagonal Boron Nitride Market Size , Share | CAGR of 4.5% — Hexagonal Boron Nitride Market Size , Share | CAGR of 4.5% Market.us https://market.us > report > global-he...",
+    "url": "https://market.us/report/global-hexagonal-boron-nitride-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Hexagonal Boron Nitride Market Size, Share & Analysis - 2035 — Hexagonal Boron Nitride Market Size, Share & Analysis - 2035 Global Market Insights Inc. https://www.gminsights.com > hexag...",
+    "url": "https://www.gminsights.com/industry-analysis/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Hexagonal Boron Nitride Market Size Report, 2025-2030 — Hexagonal Boron Nitride Market Size Report, 2025-2030 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/hexagonal-boron-nitride-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Hexagonal Boron Nitride Market Size, Growth & Forecast 2034 — Hexagonal Boron Nitride Market Size, Growth & Forecast 2034 The Insight Partners https://www.theinsightpartners.com > ...",
+    "url": "https://www.theinsightpartners.com/reports/hexagonal-boron-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "Hexagonal Boron Nitride Market Size 2024-2028 - Technavio — Hexagonal Boron Nitride Market Size 2024-2028 - Technavio Technavio https://www.technavio.com > report",
+    "url": "https://www.technavio.com/report/hexagonal-boron-nitride-market-industry-analysis",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "3.5",
+    "url": "https://www.zionmarketresearch.com/ja/report/hexagonal-boron-nitride-market",
+    "quote": "（CAGR）は3.5%です"
+   },
+   {
+    "value": "24.7",
+    "url": "https://newscast.jp/smart/news/4647263",
+    "quote": "電子パッケージング用窒化ホウ素の世界市場規模は、2025年の2,866万米ドルから2032年には1億3,400万米ドルに拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）24.7%で成長すると見込まれています"
+   },
+   {
+    "value": "5.6",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "quote": "世界の六方晶窒化ホウ素市場は、2025年に 10億米ドルの規模に達し、2026年には 11億米ドル、2035年までには 17億米ドルに達すると予測されており、2026年から2035年にかけて年平均成長率（CAGR）5.6%で拡大する見込みです"
+   },
+   {
+    "value": "4.6",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "quote": "ただし、幅広い用途に適用できることから、他のフィラーとの競争にも最もさらされやすく、年平均成長率（CAGR）は 4.6%と市場全体を下回る"
+   },
+   {
+    "value": "5.5",
+    "url": "https://www.marketresearch.co.jp/insights/hexagonal-boron-nitride-market-gmi/",
+    "quote": "世界の六方晶窒化ホウ素市場は2024年に9億5410万米ドルとなり、2025年から2034年にかけて年平均成長率5.5%以上で成長すると予測されています"
+   },
+   {
+    "value": "6",
+    "url": "https://www.marketresearch.co.jp/insights/hexagonal-boron-nitride-market-gmi/",
+    "quote": "プレミアムグレードの2024年の市場規模は5億1730万米ドルで、2025-2034年のCAGRは6%に拡大すると予測されています"
+   },
+   {
+    "value": "6.2",
+    "url": "https://www.marketresearch.co.jp/insights/hexagonal-boron-nitride-market-gmi/",
+    "quote": "熱管理分野の六方晶窒化ホウ素市場は、2024年に3億1900万米ドルと評価され、2025年から2034年までの年平均成長率は6.2%でした"
+   },
+   {
+    "value": "6.1",
+    "url": "https://www.marketresearch.co.jp/insights/hexagonal-boron-nitride-market-gmi/",
+    "quote": "電子・半導体セグメントは、2024年に4億3,330万米ドルと評価され、2025年から2034年までのCAGRは6.1%でした"
+   },
+   {
+    "value": "6.4",
+    "url": "https://www.marketresearch.co.jp/insights/hexagonal-boron-nitride-market-gmi/",
+    "quote": "アメリカの六方晶窒化ホウ素市場は2024年に3億700万米ドルと評価され、2034年まで年平均成長率6.4%で成長する見込みです"
+   },
+   {
+    "value": "12.8",
+    "url": "https://www.coherentmi.com/ja/industry-reports/%E5%85%AD%E6%96%B9%E6%99%B6%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E3%81%AE%E4%B8%96%E7%95%8C%E5%B8%82%E5%A0%B4-42",
+    "quote": "US$ 3.99 によって 2032, US$ 1.72 から 2025, CAGRで成長 12.8%"
+   },
+   {
+    "value": "5.6",
+    "url": "https://www.gminsights.com/industry-analysis/hexagonal-boron-nitride-market",
+    "quote": "The market is projected to reach USD 1.7 billion by 2035, growing at a CAGR of 5.6% from 2026 to 2035."
+   },
+   {
+    "value": "6.1",
+    "url": "https://www.marketresearchfuture.com/reports/hexagonal-boron-nitride-market-1811",
+    "quote": "Plates and Sheets is the fastest-growing type sub-segment, posting an estimated CAGR of 6.1% as demand rises for machinable heat-resistant materials in semiconductor tooling."
+   },
+   {
+    "value": "5.9",
+    "url": "https://www.marketresearchfuture.com/reports/hexagonal-boron-nitride-market-1811",
+    "quote": "Electrical Insulation registers the strongest application CAGR at approximately 5.9%, propelled by the Hexagonal Boron Nitride Market's deepening penetration into power-electronics packaging."
+   },
+   {
+    "value": "5.1",
+    "url": "https://www.marketresearchfuture.com/reports/hexagonal-boron-nitride-market-1811",
+    "quote": "CAGR ~5.1%"
+   },
+   {
+    "value": "4.8",
+    "url": "https://www.marketresearchfuture.com/reports/hexagonal-boron-nitride-market-1811",
+    "quote": "CAGR ~4.8%"
+   },
+   {
+    "value": "5.3",
+    "url": "https://www.marketresearchfuture.com/reports/hexagonal-boron-nitride-market-1811",
+    "quote": "CAGR ~5.3%"
+   },
+   {
+    "value": "4.6",
+    "url": "https://www.marketresearchfuture.com/reports/hexagonal-boron-nitride-market-1811",
+    "quote": "CAGR ~4.6%"
+   },
+   {
+    "value": "3.9",
+    "url": "https://www.marketresearchfuture.com/reports/hexagonal-boron-nitride-market-1811",
+    "quote": "CAGR ~3.9%"
+   },
+   {
+    "value": "4.9",
+    "url": "https://www.marketresearchfuture.com/reports/hexagonal-boron-nitride-market-1811",
+    "quote": "CAGR ~4.9%"
+   },
+   {
+    "value": "6.4",
+    "url": "https://www.marketresearchfuture.com/reports/hexagonal-boron-nitride-market-1811",
+    "quote": "CAGR ~6.4%"
+   },
+   {
+    "value": "4.5",
+    "url": "https://www.marketresearchfuture.com/reports/hexagonal-boron-nitride-market-1811",
+    "quote": "CAGR ~4.5%"
+   },
+   {
+    "value": "40.0",
+    "url": "https://www.strategicmarketresearch.com/market-report/hexagonal-boron-nitride-market",
+    "quote": "By Product Type, Pure h-BN dominated with a 60.0% share valued at USD 0.58 billion and a 5.1% CAGR, while h-BN Composites represented 40.0% and are the faster-growing category at a 5.9% CAGR."
+   }
+  ],
+  "市場規模USD": [
+   {
+    "value": "7.86",
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "quote": "Intel Newsroom, Intel and Biden-Harris Administration Finalize $7.86 Billion Funding Award Under U.S. CHIPS Act, November 2024, newsroom.intel.com"
+   },
+   {
+    "value": "1.72",
+    "url": "https://www.coherentmi.com/ja/industry-reports/%E5%85%AD%E6%96%B9%E6%99%B6%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E3%81%AE%E4%B8%96%E7%95%8C%E5%B8%82%E5%A0%B4-42",
+    "quote": "USD 1.72 Bn"
+   },
+   {
+    "value": "3.99",
+    "url": "https://www.coherentmi.com/ja/industry-reports/%E5%85%AD%E6%96%B9%E6%99%B6%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E3%81%AE%E4%B8%96%E7%95%8C%E5%B8%82%E5%A0%B4-42",
+    "quote": "USD 3.99 Bn"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.zionmarketresearch.com/ja/report/hexagonal-boron-nitride-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/hexagonal-boron-nitride-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/4647263",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.consegicbusinessintelligence.com/ja/%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E5%B8%82%E5%A0%B4-1791",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-hexagonal-boron-nitride-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.jp/industry-analysis/hexagonal-boron-nitride-market/3028",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearch.co.jp/insights/hexagonal-boron-nitride-market-gmi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coherentmi.com/ja/industry-reports/%E5%85%AD%E6%96%B9%E6%99%B6%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E3%81%AE%E4%B8%96%E7%95%8C%E5%B8%82%E5%A0%B4-42",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112504831",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://semirai.com/glossary/hexagonal-boron-nitride",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.arbrown.com/products/h_bn/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hiroshima-u.ac.jp/news/96241",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruka-co.com/products/products-hbn/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pr.mono.ipros.com/shima/product/detail/2001608842/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/hexagonal-boron-nitride-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/hexagonal-boron-nitride-market-1811",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strategicmarketresearch.com/market-report/hexagonal-boron-nitride-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/hexagonal-boron-nitride-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/blogs/top-20-companies-global-hexagonal-boron-nitride-market-in--2026-2035--spherical-insights-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.theinsightpartners.com/reports/hexagonal-boron-nitride-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.technavio.com/report/hexagonal-boron-nitride-market-industry-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kenresearch.com/industry-reports/north-america-hexagonal-boron-nitride-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/our-insights/hexagonal-boron-nitride-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/hexagonal-boron-nitride-market/companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pubs.acs.org/cgdefu/article/25/18/7726/3685412/Growth-of-Bulk-Hexagonal-Boron-Nitride-from-a",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://semiengineering.com/startup-funding-q4-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.crunchbase.com/venture/record-high-us-semiconductor-startup-funding-eoy-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newmarketpitch.com/blogs/news/semiconductor-funding-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S002202482300307X",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "六方晶窒化ホウ素（hBN） 市場規模 年平均成長率",
+   "results": [
+    "https://jp.linkedin.com/pulse/2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E5%B9%B4%E9%96%93%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr123%E3%81%A7%E6%88%90%E9%95%B7%E3%81%99%E3%82%8B%E5%85%AD%E6%96%B9%E6%99%B6%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E5%B8%82%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%A5%AD%E7%95%8C%E5%88%86%E6%9E%90%E3%81%A8%E6%8A%80-7513700097264599041-nqite",
+    "https://www.zionmarketresearch.com/ja/report/hexagonal-boron-nitride-market",
+    "https://www.mordorintelligence.com/ja/industry-reports/hexagonal-boron-nitride-market",
+    "https://newscast.jp/smart/news/4647263",
+    "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "https://www.consegicbusinessintelligence.com/ja/%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E5%B8%82%E5%A0%B4-1791",
+    "https://www.databridgemarketresearch.com/jp/reports/global-hexagonal-boron-nitride-market",
+    "https://www.atpress.ne.jp/news/4647263",
+    "https://www.sdki.jp/reports/hexagonal-boron-nitride-hbn-market/82380",
+    "https://straitsresearch.com/jp/report/hexagonal-boron-nitride-market"
+   ]
+  },
+  {
+   "query": "六方晶窒化ホウ素（hBN） 市場 予測 富士経済 OR 矢野経済 OR シーエムシー",
+   "results": [
+    "https://www.mordorintelligence.com/ja/industry-reports/hexagonal-boron-nitride-market",
+    "https://www.databridgemarketresearch.com/jp/reports/global-hexagonal-boron-nitride-market",
+    "https://www.gminsights.com/ja/industry-analysis/hexagonal-boron-nitride-market",
+    "https://www.researchnester.jp/industry-analysis/hexagonal-boron-nitride-market/3028",
+    "https://www.zionmarketresearch.com/ja/report/hexagonal-boron-nitride-market",
+    "https://www.marketresearch.co.jp/insights/hexagonal-boron-nitride-market-gmi/",
+    "https://newscast.jp/smart/news/4647263",
+    "https://www.coherentmi.com/ja/industry-reports/%E5%85%AD%E6%96%B9%E6%99%B6%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E3%81%AE%E4%B8%96%E7%95%8C%E5%B8%82%E5%A0%B4-42",
+    "https://www.consegicbusinessintelligence.com/ja/%E7%AA%92%E5%8C%96%E3%83%9B%E3%82%A6%E7%B4%A0%E5%B8%82%E5%A0%B4-1791",
+    "https://www.fuji-keizai.co.jp/report/detail.html?code=112504831"
+   ]
+  },
+  {
+   "query": "六方晶窒化ホウ素（hBN） 参入 企業 国内",
+   "results": [
+    "https://www.mordorintelligence.com/ja/industry-reports/hexagonal-boron-nitride-market",
+    "https://semirai.com/glossary/hexagonal-boron-nitride",
+    "https://www.arbrown.com/products/h_bn/",
+    "https://www.hiroshima-u.ac.jp/news/96241",
+    "https://www.maruka-co.com/products/products-hbn/",
+    "https://pr.mono.ipros.com/shima/product/detail/2001608842/",
+    "https://www.sanken.osaka-u.ac.jp/achievement/release/topics_20230207.html",
+    "https://www.databridgemarketresearch.com/jp/reports/global-hexagonal-boron-nitride-market",
+    "https://spap.jst.go.jp/korea/news/220303/topic_nk_03.html",
+    "https://www.gii.co.jp/report/imarc2032545-hexagonal-boron-nitride-market-report-by-type.html"
+   ]
+  },
+  {
+   "query": "hexagonal boron nitride market size CAGR 2025",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/hexagonal-boron-nitride-market",
+    "https://www.marketresearchfuture.com/reports/hexagonal-boron-nitride-market-1811",
+    "https://www.strategicmarketresearch.com/market-report/hexagonal-boron-nitride-market",
+    "https://www.grandviewresearch.com/industry-analysis/hexagonal-boron-nitride-market-report",
+    "https://www.sphericalinsights.com/blogs/top-20-companies-global-hexagonal-boron-nitride-market-in--2026-2035--spherical-insights-analysis",
+    "https://market.us/report/global-hexagonal-boron-nitride-market/",
+    "https://www.linkedin.com/pulse/hexagonal-boron-nitride-market-competitive-landscape-acq8f",
+    "https://www.futuremarketinsights.com/reports/boron-nitride-market",
+    "https://www.researchnester.com/reports/hexagonal-boron-nitride-market/5736",
+    "https://www.imarcgroup.com/hexagonal-boron-nitride-market"
+   ]
+  },
+  {
+   "query": "hexagonal boron nitride market key players competitive landscape",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/hexagonal-boron-nitride-market",
+    "https://www.grandviewresearch.com/industry-analysis/hexagonal-boron-nitride-market-report",
+    "https://www.strategicmarketresearch.com/market-report/hexagonal-boron-nitride-market",
+    "https://www.linkedin.com/pulse/hexagonal-boron-nitride-market-competitive-landscape-acq8f",
+    "https://www.theinsightpartners.com/reports/hexagonal-boron-nitride-market",
+    "https://www.technavio.com/report/hexagonal-boron-nitride-market-industry-analysis",
+    "https://www.kenresearch.com/industry-reports/north-america-hexagonal-boron-nitride-market",
+    "https://www.sphericalinsights.com/our-insights/hexagonal-boron-nitride-market",
+    "https://www.marketresearchfuture.com/reports/hexagonal-boron-nitride-market/companies",
+    "https://www.mordorintelligence.com/industry-reports/hexagonal-boron-nitride-market"
+   ]
+  },
+  {
+   "query": "hexagonal boron nitride startup funding 2025",
+   "results": [
+    "https://pubs.acs.org/cgdefu/article/25/18/7726/3685412/Growth-of-Bulk-Hexagonal-Boron-Nitride-from-a",
+    "https://semiengineering.com/startup-funding-q4-2025/",
+    "https://news.crunchbase.com/venture/record-high-us-semiconductor-startup-funding-eoy-2025/",
+    "https://newmarketpitch.com/blogs/news/semiconductor-funding-analysis",
+    "https://www.linkedin.com/pulse/industrial-grade-hexagonal-boron-nitride-market-us-0brjf/",
+    "https://www.sciencedirect.com/science/article/abs/pii/S002202482300307X",
+    "https://www.photondelta.com/funding/",
+    "https://mitnano.mit.edu/startnano/news",
+    "https://www.nature.com/articles/s41699-022-00328-2",
+    "https://www.gminsights.com/industry-analysis/hexagonal-boron-nitride-market"
+   ]
+  }
+ ],
+ "missing": {}
+}

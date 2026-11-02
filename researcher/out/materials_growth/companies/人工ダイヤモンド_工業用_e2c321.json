@@ -1,0 +1,1916 @@
+{
+ "name": "人工ダイヤモンド（工業用）",
+ "en": "lab grown diamond industrial",
+ "aliases": [
+  "synthetic diamond",
+  "CVD diamond tools",
+  "人工ダイヤモンド"
+ ],
+ "context": "工具",
+ "kind": "market",
+ "researched_at": "2026-11-02T17:39:16.441189+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "世界の合成ダイヤモンド市場規模は、2024年に259億米ドルと推定され、2025年から2034年にかけて年平均成長率（CAGR）5.1%で成長すると見込まれています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/synthetic-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/synthetic-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年の予測市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/synthetic-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "2021年から2032年にかけて、ダイヤモンド業界の市場規模は2021年に943億米ドルに達し、2032年には1,399億米ドルに達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/synthetic-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "2022年の半導体業界の市場規模は5,734億米ドルで、2029年には1.3兆米ドルに達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/synthetic-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "Synthetic Diamond Market Size, By Type, 2021 - 2034 (USD Billion)",
+    "url": "https://www.gminsights.com/ja/industry-analysis/synthetic-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年、合成ダイヤモンド市場は製品タイプ別に、研磨済みダイヤモンドと原石に分類されます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/synthetic-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "研磨済みダイヤモンドが市場成長の大部分を牽引しており、市場規模は2020年の 200億米ドルから 2024年には 259億米ドルに達しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/synthetic-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "原石の市場規模は2024年に 150億米ドルに達し、2034年までに 248億米ドルという大幅な規模に拡大すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/synthetic-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のウェディング市場は2030年までに 4,295.6億米ドルに達すると推定されており、インドの結婚式業界は2023年から2024年にかけて 14%を超えて成長しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/synthetic-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年、製造プロセス別の合成ダイヤモンド市場は、主に高圧高温法（HPHT）と化学気相成長法（CVD）に分類されます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/synthetic-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヤモンド市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヤモンド市場規模、シェア、トレンド分析レポート：製品別（天然、合成）、用途別（ジュエリー、工業用）、カット別（ラウンドブリリアントカット、プリンセスカット、エメラルドカット、クッションカット、オーバルカット、その他）、色別（無色、ほぼ無色、かすか、非常に淡い、淡い）、カラット別（0.009カラット～0.30カラット、0.50カラット、1.00カラット以上、その他）、流通チャネル別（B2B、B2C）、地域別（北米、ヨーロッパ、アジア太平洋、中東・アフリカ、ラテンアメリカ）、予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のダイヤモンド市場規模は、2025年には1,038億6,000万米ドルと評価され、2026年の1,067億7,000万米ドルから2034年には1,331億6,000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は2.8%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年予測市場規模",
+    "url": "https://straitsresearch.com/jp/report/diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "天然ダイヤモンドは市場シェア87.4%、市場規模907億7000万米ドルで、ダイヤモンド市場を席巻しています",
+    "url": "https://straitsresearch.com/jp/report/diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "産業分野は年平均成長率（CAGR）5.69%と最も高い伸びが見込まれ、市場規模は223億3,000万米ドル、市場シェアは21.5%となっています",
+    "url": "https://straitsresearch.com/jp/report/diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "ラウンドブリリアントカットダイヤモンドは、市場シェア38.6%、市場規模400億9,000万米ドルで市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "ほぼ無色のダイヤモンド（グレードG、H、I、J）は、市場シェア49.6%を占め、市場規模は515億1000万米ドルに達しました",
+    "url": "https://straitsresearch.com/jp/report/diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "0.009カラット～0.30カラットのセグメントが市場を席巻し、17.4%のシェアと180億7,000万米ドルの市場規模を誇ります",
+    "url": "https://straitsresearch.com/jp/report/diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "B2Cセグメントは市場シェアの58.7%を占め、市場規模は609億7,000万米ドルに達しました",
+    "url": "https://straitsresearch.com/jp/report/diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米はダイヤモンド市場を牽引しており、市場シェアは36.8%、市場規模は382億2,000万米ドルに達しています",
+    "url": "https://straitsresearch.com/jp/report/diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "産業ダイヤモンド市場規模と予測 – 2025 – 2032",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模:",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "市場は、米ドルから成長するために計画されています 2.1 2025 へ USD 2032年までに3.8億、増幅により運転される8.2%のCAGRを反映した 産業用途および技術の進歩",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ダイヤモンドの世界市場は2027年まで年平均成長率2.8％で成長すると予想される | Report Oceanのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000004612.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ダイヤモンドの世界市場は2027年まで年平均成長率2.8％で成長すると予想される",
+    "url": "https://prtimes.jp/main/html/rd/p/000004612.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年01月05日にREPORTOCEANが発行した新しいレポートによると、-産業用ダイヤモンドの世界市場は、予測期間2021-2027年に2.8%以上の健全な成長率で成長すると予測されています",
+    "url": "https://prtimes.jp/main/html/rd/p/000004612.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ダイヤモンドの世界市場は、2020年に約19億米ドルと評価され、予測期間2021-2027年には2.8%以上の健全な成長率で成長すると予想されています",
+    "url": "https://prtimes.jp/main/html/rd/p/000004612.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "本調査の目的は、近年における様々なセグメントと国の市場規模を定義し、今後8年間の値を予測することです",
+    "url": "https://prtimes.jp/main/html/rd/p/000004612.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ダイヤモンドの市場規模 2021年",
+    "url": "https://prtimes.jp/main/html/rd/p/000004612.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ダイヤモンドの世界市場は2027年まで年平均成長��率2.8％で成長すると予想される",
+    "url": "https://prtimes.jp/main/html/rd/p/000004612.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の世界市場規模は5億3,900万米ドル、販売量は約308万カラット、平均価格は約5米ドル／カラットと推定され、2026～2032年には年平均成長率（CAGR）7.7％で成長し、2032年には8億9,900万米ドルに達すると予測される",
+    "url": "https://newscast.jp/smart/news/4347284",
+    "pass": 3
+   },
+   {
+    "quote": "ェアとランキング、全体の売上と需要予測、2026～2032」によると、CVDダイヤモンドの世界市場は、2025年に539百万米ドルと推定され、2026年には576百万米ドルに達すると予測されています",
+    "url": "https://newscast.jp/smart/news/4347284",
+    "pass": 3
+   },
+   {
+    "quote": "合成ダイヤモンド市場 | 業界シェア 市場規模 成長性 2026 - 2031年",
+    "url": "https://www.gii.co.jp/report/moi1939148-synthetic-diamond-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "合成ダイヤモンド市場は、2025年の254億9,000万米ドルから2026年には272億6,000万米ドルへ成長し、2026年から2031年にかけてCAGR6.95％で推移し、2031年までに381億5,000万米ドルに達すると予測されております",
+    "url": "https://www.gii.co.jp/report/moi1939148-synthetic-diamond-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "合成ダイヤモンド市場の2025年と2026年の市場規模はどのように予測されていますか？",
+    "url": "https://www.gii.co.jp/report/moi1939148-synthetic-diamond-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模は254億9,000万米ドル、2026年には272億6,000万米ドルに達すると予測されています",
+    "url": "https://www.gii.co.jp/report/moi1939148-synthetic-diamond-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "第5章 市場規模と成長予測",
+    "url": "https://www.gii.co.jp/report/moi1939148-synthetic-diamond-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 4,750 換算",
+    "url": "https://www.gii.co.jp/report/moi1939148-synthetic-diamond-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 5,250 換算",
+    "url": "https://www.gii.co.jp/report/moi1939148-synthetic-diamond-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 6,500 換算",
+    "url": "https://www.gii.co.jp/report/moi1939148-synthetic-diamond-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 8,750 換算",
+    "url": "https://www.gii.co.jp/report/moi1939148-synthetic-diamond-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "合成ダイヤモンド市場規模、シェアおよび動向分析レポート：色別、用途別、地域別、およびセグメント別予測（2026年～2033年）",
+    "url": "https://www.gii.co.jp/report/moi1939148-synthetic-diamond-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "合成ダイヤモンド市場規模、シェア、成長分析：種類別、製品タイプ別、製造プロセス別、地域別- 業界予測2026-2033年",
+    "url": "https://www.gii.co.jp/report/moi1939148-synthetic-diamond-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "当レポートでは、世界の硬質・超硬質材料の市場について分析し、主要セグメントごとに、全体的な市場規模 (消費量・消費額) の動向見通し (2023～2029年)、製品区分別・地域別の詳細動向、エンドユーザー産業別・用途別の需要動向、主要サプライヤーの売上高と市場シェアなどを調査しております",
+    "url": "https://mono.ipros.com/cg1/%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89/",
+    "pass": 3
+   },
+   {
+    "quote": "『日米関税合意に基づく総額5500億ドル(約85兆円)の対米投融資について「人工ダイヤモンドを米国内で生産する計画」が有力候補になっている』",
+    "url": "https://kabukarin.net/diamond/9371/",
+    "pass": 3
+   },
+   {
+    "quote": "「総額85兆円」",
+    "url": "https://kabukarin.net/diamond/9371/",
+    "pass": 3
+   },
+   {
+    "quote": "工業用人工ダイヤの製造プロジェクト(投資額約6億ドル)に関心を示している企業として、赤沢経済産業相から直接「旭ダイヤモンド工業」と「ノリタケ」の名前が挙げられました",
+    "url": "https://kabukarin.net/diamond/9371/",
+    "pass": 3
+   },
+   {
+    "quote": "27億円（2023年3月期）",
+    "url": "https://www.smrj.go.jp/supporter/fund_investment/funding/case/ool3bn000000rshf.html",
+    "pass": 3
+   },
+   {
+    "quote": "CVD Lab-grown Diamonds Market Size & Share Report, 2035",
+    "url": "https://www.gminsights.com/industry-analysis/cvd-lab-grown-diamonds-market",
+    "pass": 3
+   },
+   {
+    "quote": "CVD Lab-grown Diamonds Market Size & Share 2026-2035",
+    "url": "https://www.gminsights.com/industry-analysis/cvd-lab-grown-diamonds-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025 Market Size",
+    "url": "https://www.gminsights.com/industry-analysis/cvd-lab-grown-diamonds-market",
+    "pass": 3
+   },
+   {
+    "quote": "$ 15.1 Billion",
+    "url": "https://www.gminsights.com/industry-analysis/cvd-lab-grown-diamonds-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026 Market Size",
+    "url": "https://www.gminsights.com/industry-analysis/cvd-lab-grown-diamonds-market",
+    "pass": 3
+   },
+   {
+    "quote": "$ 16.2 Billion",
+    "url": "https://www.gminsights.com/industry-analysis/cvd-lab-grown-diamonds-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035 Forecast Market Size",
+    "url": "https://www.gminsights.com/industry-analysis/cvd-lab-grown-diamonds-market",
+    "pass": 3
+   },
+   {
+    "quote": "$ 30.8 Billion",
+    "url": "https://www.gminsights.com/industry-analysis/cvd-lab-grown-diamonds-market",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "世界の合成ダイヤモンド市場規模は、2024年に259億米ドルと推定され、2025年から2034年にかけて年平均成長率（CAGR）5.1%で成長すると見込まれています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/synthetic-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR）（2025〜2034年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/synthetic-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "この分野では、12.2%という注目すべき年平均成長率（CAGR）が見込まれています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/synthetic-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "原石の市場規模は2024年に 150億米ドルに達し、2034年までに 248億米ドルという大幅な規模に拡大すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/synthetic-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "研磨済みダイヤモンドは、原石よりも 30〜40%高価であるものの、その希少性から成長率では原石を上回る可能性があります",
+    "url": "https://www.gminsights.com/ja/industry-analysis/synthetic-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場をリードしているのは化学気相成長法（CVD）とその他のHPHT法であり、オフラインの同等製品を 5.2%上回る成長率で拡大しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/synthetic-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "宝飾品セグメントは合成ダイヤモンド業界で最も急速に成長しており、年平均成長率（CAGR）は 5.6%、2024年には総市場の 29%を占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/synthetic-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヤモンド市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のダイヤモンド市場規模は、2025年には1,038億6,000万米ドルと評価され、2026年の1,067億7,000万米ドルから2034年には1,331億6,000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は2.8%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場の年平均成長率（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の年平均成長率（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間中の年平均成長率（CAGR）は3.92%と見込まれています",
+    "url": "https://straitsresearch.com/jp/report/diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "産業分野は年平均成長率（CAGR）5.69%と最も高い伸びが見込まれ、市場規模は223億3,000万米ドル、市場シェアは21.5%となっています",
+    "url": "https://straitsresearch.com/jp/report/diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR）は4.92%と予測されています",
+    "url": "https://straitsresearch.com/jp/report/diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "このセグメントは、年平均成長率（CAGR）5.02%と最も高い成長が見込まれています",
+    "url": "https://straitsresearch.com/jp/report/diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル・インダストリアル・ダイアモンド・マーケット規模は、2025年から2032年までの8.2%のコンパウンド年間成長率(CAGR)を占めると予想される",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "一方、アジアパシフィックは、中国、インド、韓国で急速に拡大するエレクトロニクスおよび自動車製造分野を燃料化し、CAGRが10%を超える最速の成長を展示しています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間 2025〜2032 CAGR:",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "競争力のある戦略: エレメンツ・シックスは、2020年に12%の産業ダイヤモンドシェアを増加させ、合成ダイヤモンドの生産を拡大するための資本支出に焦点を当てています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "市場は、米ドルから成長するために計画されています 2.1 2025 へ USD 2032年までに3.8億、増幅により運転される8.2%のCAGRを反映した 産業用途および技術の進歩",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ダイヤモンドの世界市場は2027年まで年平均成長率2.8％で成長すると予想される | Report Oceanのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000004612.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ダイヤモンドの世界市場は2027年まで年平均成長率2.8％で成長すると予想される",
+    "url": "https://prtimes.jp/main/html/rd/p/000004612.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年01月05日にREPORTOCEANが発行した新しいレポートによると、-産業用ダイヤモンドの世界市場は、予測期間2021-2027年に2.8%以上の健全な成長率で成長すると予測されています",
+    "url": "https://prtimes.jp/main/html/rd/p/000004612.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ダイヤモンドの世界市場は、2020年に約19億米ドルと評価され、予測期間2021-2027年には2.8%以上の健全な成長率で成長すると予想されています",
+    "url": "https://prtimes.jp/main/html/rd/p/000004612.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ダイヤモンドの世界市場は2027年まで年平均成長��率2.8％で成長すると予想される",
+    "url": "https://prtimes.jp/main/html/rd/p/000004612.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の世界市場規模は5億3,900万米ドル、販売量は約308万カラット、平均価格は約5米ドル／カラットと推定され、2026～2032年には年平均成長率（CAGR）7.7％で成長し、2032年には8億9,900万米ドルに達すると予測される",
+    "url": "https://newscast.jp/smart/news/4347284",
+    "pass": 3
+   },
+   {
+    "quote": "その後、2026年から2032年にかけて年平均成長率（CAGR）7.7%で推移し、2032年には899百万米ドルに拡大すると見込まれています",
+    "url": "https://newscast.jp/smart/news/4347284",
+    "pass": 3
+   },
+   {
+    "quote": "合成ダイヤモンド市場は、2025年の254億9,000万米ドルから2026年には272億6,000万米ドルへ成長し、2026年から2031年にかけてCAGR6.95％で推移し、2031年までに381億5,000万米ドルに達すると予測されております",
+    "url": "https://www.gii.co.jp/report/moi1939148-synthetic-diamond-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "米国地質調査所（USGS）の記録によれば、国内生産量は1億6,000万カラット（5,300万米ドル相当）で、前年比5%の増加となりました",
+    "url": "https://www.gii.co.jp/report/moi1939148-synthetic-diamond-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "研磨済み原石は生産量は少ないもの、CAGR9.35％と最も急速に拡大しているカテゴリーです",
+    "url": "https://www.gii.co.jp/report/moi1939148-synthetic-diamond-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "米国宝石学会（GIA）によれば、CVD（化学気相成長法）製品の鑑定依頼がHPHT（高温高圧処理）サンプルを上回り、ファンシーカラーや3カラット以上の原石が前年比で急増しています",
+    "url": "https://www.gii.co.jp/report/moi1939148-synthetic-diamond-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は2025年に世界収益の55.40%を占め、2031年まで年平均CAGR8.05%で最も速い地域成長を継続しています",
+    "url": "https://www.gii.co.jp/report/moi1939148-synthetic-diamond-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "合成ダイヤモンド市場の2031年までのCAGRはどのように予測されていますか？",
+    "url": "https://www.gii.co.jp/report/moi1939148-synthetic-diamond-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "2031年までのCAGRは6.95%です",
+    "url": "https://www.gii.co.jp/report/moi1939148-synthetic-diamond-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は2031年まで年平均CAGR8.05%で成長すると予測されています",
+    "url": "https://www.gii.co.jp/report/moi1939148-synthetic-diamond-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "研磨済み原石はCAGR9.35%で最も急速に拡大しているカテゴリーです",
+    "url": "https://www.gii.co.jp/report/moi1939148-synthetic-diamond-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "こうした当社の強みに加えて、人工宝石市場が成長途上にあるという事業機会も追い風となり、当社は2018年以降、年間売上高の平均成長率50％を連続して達成しており、高収益高成長企業として、今後もさらなる飛躍が期待されている",
+    "url": "https://www.smrj.go.jp/supporter/fund_investment/funding/case/ool3bn000000rshf.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026–2035)",
+    "url": "https://www.gminsights.com/industry-analysis/cvd-lab-grown-diamonds-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is projected to reach USD 30.8 billion by 2035, growing at a CAGR of 7.4% from 2026 to 2035.",
+    "url": "https://www.gminsights.com/industry-analysis/cvd-lab-grown-diamonds-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 13.42%",
+    "url": "https://caratx.com/blog/lab-grown-diamonds-2025-fast-growth-bigger-stones",
+    "pass": 3
+   },
+   {
+    "quote": "Other industry reports corroborate this trajectory, with 24 ChemicalResearch projecting growth from USD 32.1 billion in 2025 to USD 59.8 billion by 2032 (9.2% CAGR).",
+    "url": "https://caratx.com/blog/lab-grown-diamonds-2025-fast-growth-bigger-stones",
+    "pass": 3
+   },
+   {
+    "quote": "YearProjected Market Size CAGR 2025 $29.46 billion 2026 $33.54 billion 2034 $91.85 billion 13.42%.",
+    "url": "https://caratx.com/blog/lab-grown-diamonds-2025-fast-growth-bigger-stones",
+    "pass": 3
+   },
+   {
+    "quote": ": $27.95 billion in 2025 → $30.16 billion in 2026 (7.9% CAGR)",
+    "url": "https://caratx.com/blog/lab-grown-diamonds-2025-fast-growth-bigger-stones",
+    "pass": 3
+   },
+   {
+    "quote": ": $32.1 billion in 2025 → $59.8 billion by 2032 (9.2% CAGR)",
+    "url": "https://caratx.com/blog/lab-grown-diamonds-2025-fast-growth-bigger-stones",
+    "pass": 3
+   },
+   {
+    "quote": ": Beyond jewelry, demand from semiconductor, medical device, and cutting tool manufacturers is growing at 18% CAGR.",
+    "url": "https://caratx.com/blog/lab-grown-diamonds-2025-fast-growth-bigger-stones",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026–2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/industrial-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2033): 6.8%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/industrial-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 6.8% from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/industrial-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD million, volume in million carats, and CAGR from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/industrial-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific is anticipated to register the fastest CAGR of 7.9% over the forecast period.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/industrial-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "The industrial diamond market is expected to grow at a compound annual growth rate of 6.8% from 2026 to 2033 to reach USD 3.2 billion by 2033.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/industrial-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Global Lab-Grown Diamonds Market was valued at USD 27.24 billion in 2024 and is expected to grow at a CAGR of around 11.77% during the forecast period (2025-2033F), driven by growing ethical and environmental concerns, cost competitiveness, and changing consumer preferences.",
+    "url": "https://univdatos.com/reports/lab-grown-diamonds-market",
+    "pass": 3
+   },
+   {
+    "quote": "Accelerate at a CAGR of 11.77%",
+    "url": "https://univdatos.com/reports/lab-grown-diamonds-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global lab-grown diamonds market was valued at USD 27.24 billion in 2024 and is expected to grow at a CAGR of 11.77% during the forecast period (2025-2033).",
+    "url": "https://univdatos.com/reports/lab-grown-diamonds-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Synthetic Diamond Market Insights, Competitive Landscape, and Forecast - 2033 | Market to Reach USD 35.6 Billion at 5.50% CAGR as Semiconductor and Lab-Grown Demand Rises",
+    "url": "https://finance.yahoo.com/markets/commodities/articles/global-synthetic-diamond-market-insights-084600776.html",
+    "pass": 3
+   },
+   {
+    "quote": "The global Synthetic Diamond Market is projected to expand steadily, increasing from USD 24.5 billion in 2026 to USD 35.6 billion by 2033. The market is expected to register a compound annual growth rate (CAGR) of 5.50% during the forecast period, supported by industrialization, technological innovation, automation, and rising demand from high-precision industries.",
+    "url": "https://finance.yahoo.com/markets/commodities/articles/global-synthetic-diamond-market-insights-084600776.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025 to 2035)",
+    "url": "https://www.futuremarketinsights.com/reports/cvd-lab-grown-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "CVD lab-grown diamond market is expected to expand from USD 14.3 billion in 2025 to USD 30.4 billion by 2035. The market is anticipated to register a 7.7% CAGR during the forecast period. Colourless diamonds are likely to lead with 68.4% share, while heat exchangers are projected to account for 29.7% of application demand in 2025.",
+    "url": "https://www.futuremarketinsights.com/reports/cvd-lab-grown-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "Demand is anticipated to grow at a 7.7% CAGR from 2025 to 2035.",
+    "url": "https://www.futuremarketinsights.com/reports/cvd-lab-grown-diamond-market",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "競争力のある価格設定：新たな競合企業の市場参入により、現在では天然石よりも40〜50%低い価格が実現しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/synthetic-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場への参加を拡大するため、主要企業は戦略的な合併、新たな価格設定、カスタマイズサービスの改善を進めている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/synthetic-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "合成ダイヤモンド市場の主要企業",
+    "url": "https://www.gminsights.com/ja/industry-analysis/synthetic-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "合成ダイヤモンド業界の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/synthetic-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "業界の主要企業には、Adamas One、Applied Diamond、Blue Nile、Clean Origin、Diamond Foundry、Element Six UK、New Diamond Technology、Pure Grown Diamonds（PGD）、Rahi Impex、Ritani、Sumitomo Electric Industries、Swarovski、Vibranium Lab などが含まれます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/synthetic-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/synthetic-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 競争環境と市場への参入・撤退の見通し",
+    "url": "https://www.gminsights.com/ja/industry-analysis/synthetic-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、主要企業の競争環境と製品提供の詳細な分析とともに、利害関係者が投資するためにミクロ市場で利用可能な機会も組み込まなければなりません",
+    "url": "https://prtimes.jp/main/html/rd/p/000004612.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業には、Element Six、Coherent、住友電気工業、Orbray、EDP Corporation、Applied Diamond、Diamond Materials、Ningbo Crysdiam Technology、Diamond Foundry、Euclid Techlabs、NeoCoat、Advanced Diamond Technologiesなどが挙げられる",
+    "url": "https://newscast.jp/smart/news/4347284",
+    "pass": 3
+   },
+   {
+    "quote": "技術に重点を置いた新規参入企業が、デバイスグレードの純度を達成できる化学気相成長法（CVD）の生産能力を拡大しているため、競合は激化しており、既存の高圧高温法（HPHT）モデルに直接的な課題を投げかけています",
+    "url": "https://www.gii.co.jp/report/moi1939148-synthetic-diamond-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "合成ダイヤモンド市場における主要企業はどこですか？",
+    "url": "https://www.gii.co.jp/report/moi1939148-synthetic-diamond-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "新規参入業者の脅威",
+    "url": "https://www.gii.co.jp/report/moi1939148-synthetic-diamond-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "他社の参入障壁を一つ乗り越えているわけで、将来的にダイヤモンド半導体を実用化するためには「大口径のウエハ」が必要不可欠となるため、同社の大型化技術は国策レベルでも重要な意味を持ちます",
+    "url": "https://kabukarin.net/diamond/9371/",
+    "pass": 3
+   },
+   {
+    "quote": "急成長を遂げる人工宝石市場にて主要プレイヤーとしてダイヤモンド種結晶を世界へ供給",
+    "url": "https://www.smrj.go.jp/supporter/fund_investment/funding/case/ool3bn000000rshf.html",
+    "pass": 3
+   },
+   {
+    "quote": "数多あるベンチャー投資案件の中でも同社は設備投資が多大な上、収益化までより時間が必要とされる非常に難易度の高い素材製造業の案件でしたが、藤森社長の30年以上に亘る人工ダイヤモンドの研究開発で培われた経験知、高品質かつ大型の単結晶を作製するための気相合成法（CVD）成長条件を最適化する多数のパラメータを差別化要因としてブラックボックス化している点が高い参入障壁となり長期的に収益性の高い素材ビジネスを展開できると判断しました",
+    "url": "https://www.smrj.go.jp/supporter/fund_investment/funding/case/ool3bn000000rshf.html",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/cvd-lab-grown-diamonds-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players:",
+    "url": "https://www.gminsights.com/industry-analysis/cvd-lab-grown-diamonds-market",
+    "pass": 3
+   },
+   {
+    "quote": "CVD Lab-Grown Diamonds Market Share & Competitive Landscape",
+    "url": "https://www.gminsights.com/industry-analysis/cvd-lab-grown-diamonds-market",
+    "pass": 3
+   },
+   {
+    "quote": "Major players operating in the CVD lab-grown diamonds market include:",
+    "url": "https://www.gminsights.com/industry-analysis/cvd-lab-grown-diamonds-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in cvd lab-grown diamonds market?",
+    "url": "https://www.gminsights.com/industry-analysis/cvd-lab-grown-diamonds-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in cvd lab-grown diamonds market include De Beers Group, Bhanderi Lab Grown Diamonds LLP, ABD Diamonds Pvt. Ltd., Grown Diamond Corporation, CVD Diamond Inc..",
+    "url": "https://www.gminsights.com/industry-analysis/cvd-lab-grown-diamonds-market",
+    "pass": 3
+   },
+   {
+    "quote": "37. Lab Grown Diamonds Market Competitive Landscape and Company Profiles",
+    "url": "https://www.researchandmarkets.com/reports/5948682/lab-grown-diamonds-market-report?srsltid=AYCX9vIamUfCFDppoAs5XXIIiHuTt6j-TlYPX_Zs16Oqcmwp-Vedom8S",
+    "pass": 3
+   },
+   {
+    "quote": "37.1. Lab Grown Diamonds Market Competitive Landscape and Market Share 2024",
+    "url": "https://www.researchandmarkets.com/reports/5948682/lab-grown-diamonds-market-report?srsltid=AYCX9vIamUfCFDppoAs5XXIIiHuTt6j-TlYPX_Zs16Oqcmwp-Vedom8S",
+    "pass": 3
+   },
+   {
+    "quote": "The report covers market characteristics, size and growth, segmentation, regional and country breakdowns, total addressable market (TAM), market attractiveness score (MAS), competitive landscape, market shares, company scoring matrix, trends and strategies for this market. It traces the market’s historic and forecast market growth by geography.",
+    "url": "https://www.researchandmarkets.com/reports/5948682/lab-grown-diamonds-market-report?srsltid=AYCX9vIamUfCFDppoAs5XXIIiHuTt6j-TlYPX_Zs16Oqcmwp-Vedom8S",
+    "pass": 3
+   },
+   {
+    "quote": "The competitive landscape chapter gives a description of the competitive nature of the market, market shares, and a description of the leading companies. Key financial deals which have shaped the market in recent years are identified.",
+    "url": "https://www.researchandmarkets.com/reports/5948682/lab-grown-diamonds-market-report?srsltid=AYCX9vIamUfCFDppoAs5XXIIiHuTt6j-TlYPX_Zs16Oqcmwp-Vedom8S",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key companies in the industrial diamond market include De Beers; ALROSA; Applied Diamond, Inc.; Industrial Diamond Laboratories, Inc.; Morgan Advanced Materials; Scio Diamond Technology Corporation; Industrial Abrasives Limited; Advanced Diamond Solutions Inc.;Diamond Technologies Inc.; The 3M Company.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/industrial-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study on the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/industrial-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, volume forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/industrial-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/industrial-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in industrial diamond market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/industrial-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "The key players operating in the industrial diamond market are 3M, ALROSA, De Beers, Element Six, Henan Huanghe Whirlwind Co., Ltd., ILJIN Diamond, Morgan Advanced Materials, Saint-Gobain Abrasives, Zhengzhou Sino-Crystal Diamond Co., Ltd., Zhongnan Diamond Co., Ltd., among others.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/industrial-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "Lab Grown Diamonds Industry Competitive Landscape",
+    "url": "https://univdatos.com/reports/lab-grown-diamonds-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global lab-grown diamonds market is competitive, with several global and international market players. The key players are adopting different growth strategies to enhance their market presence, such as partnerships, agreements, collaborations, new product launches, geographical expansions, and mergers and acquisitions.",
+    "url": "https://univdatos.com/reports/lab-grown-diamonds-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in the market are Mini Diamonds (I) Ltd., WD Advanced Materials, LLC, De Beers Group, ADAMAS ONE, Solitario, Henan Huanghe Whirlwind CO., Ltd., Swarovski AG, ABD Diamonds, New Diamond Technology LLC, and Mittal Diamonds.",
+    "url": "https://univdatos.com/reports/lab-grown-diamonds-market",
+    "pass": 3
+   },
+   {
+    "quote": "Companies profiled",
+    "url": "https://univdatos.com/reports/lab-grown-diamonds-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Trends, Drivers, and Restraints; Revenue Estimation and Forecast; Segmentation Analysis; Demand and Supply Side Analysis; Competitive Landscape; Company Profiling",
+    "url": "https://univdatos.com/reports/lab-grown-diamonds-market",
+    "pass": 3
+   },
+   {
+    "quote": "Examine the regulatory framework, value chain, customer behavior, and competitive landscape of the lab-grown diamonds industry.",
+    "url": "https://univdatos.com/reports/lab-grown-diamonds-market",
+    "pass": 3
+   },
+   {
+    "quote": "Q7: Who are the key players in the global lab-grown diamonds market?",
+    "url": "https://univdatos.com/reports/lab-grown-diamonds-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Synthetic Diamond Market Insights, Competitive Landscape, and Forecast - 2033 | Market to Reach USD 35.6 Billion at 5.50% CAGR as Semiconductor and Lab-Grown Demand Rises",
+    "url": "https://finance.yahoo.com/markets/commodities/articles/global-synthetic-diamond-market-insights-084600776.html",
+    "pass": 3
+   },
+   {
+    "quote": "\"Synthetic Diamond Market Insights, Competitive Landscape, and Market Forecast - 2033\"",
+    "url": "https://finance.yahoo.com/markets/commodities/articles/global-synthetic-diamond-market-insights-084600776.html",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://finance.yahoo.com/markets/commodities/articles/global-synthetic-diamond-market-insights-084600776.html",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape of the CVD Lab-grown Diamond Market",
+    "url": "https://www.futuremarketinsights.com/reports/cvd-lab-grown-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "The CVD lab-grown diamonds market is highly fragmented, with key players such as De Beers (United Kingdom), Goldiam (India), Adamas One Corp (United States), Sumitomo Electric Industries Ltd., and Bhanderi Lab-grown Diamonds LLP (India).",
+    "url": "https://www.futuremarketinsights.com/reports/cvd-lab-grown-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://straitsresearch.com/report/lab-grown-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, Environment & Regulatory Landscape and Trends",
+    "url": "https://straitsresearch.com/report/lab-grown-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players operating in the market are undertaking various initiatives to strengthen their presence and increase the reach of their products and services. Strategies such as expansion activities and partnerships are key in propelling the market growth. Some of the key players operating in the market include Diamond Foundry Inc., Element Six, and others",
+    "url": "https://www.grandviewresearch.com/industry-analysis/synthetic-diamond-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study on the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/synthetic-diamond-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/synthetic-diamond-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/synthetic-diamond-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the synthetic diamond market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/synthetic-diamond-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Some key players in the synthetic diamond market include ALTR Created Diamonds, Diamond Foundry Inc., Element Six, Henan Huanghe Whirlwind Co., Ltd., and IIa Technologies Pte. Ltd.; ILJIN Diamond Co., Ltd.; New Diamond Technology LLC; Pure Grown Diamonds; Scio Diamond Technology Corporation; Zhongnan Diamond Co., Ltd., and others.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/synthetic-diamond-market-report",
+    "pass": 3
+   }
+  ],
+  "日本企業": [
+   {
+    "quote": "Adamas One, Applied Diamond, Blue Nile, Clean Origin, Diamond Foundry, Element Six UK, Henan Huanghe Whirlwind, Iljin Diamond, James Allen, New Diamond Technology, Pure Grown Diamonds (PGD), Rahi Impex, Ritani, Sumitomo Electric Industries, Swarovski, Vibranium Lab",
+    "url": "https://www.gminsights.com/ja/industry-analysis/synthetic-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "Sumitomo Electric Industries",
+    "url": "https://www.gminsights.com/ja/industry-analysis/synthetic-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "業界の主要企業には、Adamas One、Applied Diamond、Blue Nile、Clean Origin、Diamond Foundry、Element Six UK、New Diamond Technology、Pure Grown Diamonds（PGD）、Rahi Impex、Ritani、Sumitomo Electric Industries、Swarovski、Vibranium Lab などが含まれます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/synthetic-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国と日本はブランド品や高品質ジュエリーへの需要を支えており、地域におけるカット、研磨、製造能力がサプライチェーンを強化しています",
+    "url": "https://straitsresearch.com/jp/report/diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のダイヤモンド市場に関する洞察",
+    "url": "https://straitsresearch.com/jp/report/diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のダイヤモンド市場は成熟しており、品質、職人技、洗練されたデザイン、そして信頼できる鑑定書への需要が高いのが特徴です",
+    "url": "https://straitsresearch.com/jp/report/diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "オンラインでの情報収集は、実店舗での購入をますます後押しする一方、ミニマルなジュエリーや、厳選された小粒のダイヤモンドは、日本のファッション嗜好に合致しています",
+    "url": "https://straitsresearch.com/jp/report/diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "これはオリジナルレポートの日本語翻訳ページです",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "Element Sixや住友電気などの企業は、堅牢な産業生態系の活用と、高性能な切削・研削工具の需要を担っています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": ": 中国、台湾、インド、日本、韓国、インドネシア、マレーシア、フィリピン、シンガポール、オーストラリア、アジアパシフィックの休み",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "要素6、河南Huanghe Whirlwind Co.、住友電工、IIa技術、Deビールグループ、産業ダイヤモンド、Sino-Crystal Diamond、Scio Diamond Technology Corporation、Diamond Innovations、AB Diamond Technologies",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "日本政府は、オクマダイヤモンドデバイス株式会社がダイヤモンドを製造する施設を建設することを発表しました",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "住友電気工業",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "住友電工業は、半導体用途に適した高度なモノクリスタル産業ダイヤモンドを発売し、2024年に15%以上の収益成長を実現しました",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "市場は、要素シックス、ヘナンなどの重要な選手によって支配される Huanghe Whirlwind、および住友電気工業、集団的に 戦略を通じて市場シェアの大きな部分に貢献 拡大およびプロダクト革新",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "インド、中国、日本、韓国では、建設業界の発展が需要を牽引しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000004612.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域（中国、インド、日本、韓国、オーストラリア、ニュージーランド、ASEAN諸国、その他アジア太平洋地域）",
+    "url": "https://prtimes.jp/main/html/rd/p/000004612.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本・中国・欧米で異なる競争軸",
+    "url": "https://newscast.jp/smart/news/4347284",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋では半導体製造能力の拡大を背景に、中国と日本が重要な材料・加工拠点として存在感を高めている",
+    "url": "https://newscast.jp/smart/news/4347284",
+    "pass": 3
+   },
+   {
+    "quote": "日本は精密材料、電子部品、光学技術との連携に強みを持ち、中国では国内生産能力と産業化投資が拡大している",
+    "url": "https://newscast.jp/smart/news/4347284",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業には、Element Six、Coherent、住友電気工業、Orbray、EDP Corporation、Applied Diamond、Diamond Materials、Ningbo Crysdiam Technology、Diamond Foundry、Euclid Techlabs、NeoCoat、Advanced Diamond Technologiesなどが挙げられる",
+    "url": "https://newscast.jp/smart/news/4347284",
+    "pass": 3
+   },
+   {
+    "quote": "日本の住所：〒104-0061東京都中央区銀座 6-13-16 銀座 Wall ビル UCF５階",
+    "url": "https://newscast.jp/smart/news/4347284",
+    "pass": 3
+   },
+   {
+    "quote": "TEL：050-5893-6232（日本）；0081-5058936232（グローバル）",
+    "url": "https://newscast.jp/smart/news/4347284",
+    "pass": 3
+   },
+   {
+    "quote": "japan@qyresearch.com",
+    "url": "https://newscast.jp/smart/news/4347284",
+    "pass": 3
+   },
+   {
+    "quote": "特に、競合分析、市場規模予測、業界構造分析、カスタマイズ調査分野において、多くの日本企業から高い信頼と評価を獲得しています",
+    "url": "https://newscast.jp/smart/news/4347284",
+    "pass": 3
+   },
+   {
+    "quote": "Sumitomo Electric Industries, Ltd.",
+    "url": "https://www.gii.co.jp/report/moi1939148-synthetic-diamond-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "合同会社SUPERHARD JAPAN",
+    "url": "https://mono.ipros.com/cg1/%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89/",
+    "pass": 3
+   },
+   {
+    "quote": "西日本貿易株式会社",
+    "url": "https://mono.ipros.com/cg1/%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89/",
+    "pass": 3
+   },
+   {
+    "quote": "日本流通管理支援機構株式会社",
+    "url": "https://mono.ipros.com/cg1/%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89/",
+    "pass": 3
+   },
+   {
+    "quote": "さて、この報道を受け、日本株式市場でもさっそく",
+    "url": "https://kabukarin.net/diamond/9371/",
+    "pass": 3
+   },
+   {
+    "quote": "「アメリカ国内で、同盟国(日本)の技術を使って供給網を作りたい」",
+    "url": "https://kabukarin.net/diamond/9371/",
+    "pass": 3
+   },
+   {
+    "quote": "住友電気工業",
+    "url": "https://kabukarin.net/diamond/9371/",
+    "pass": 3
+   },
+   {
+    "quote": "日本を代表する自動車メーカー、ホンダ傘下の研究機関とタッグを組むことはイーディーピーにとって割と大きな材料ですね",
+    "url": "https://kabukarin.net/diamond/9371/",
+    "pass": 3
+   },
+   {
+    "quote": "人工ダイヤモンド関連株 本命株 5802 住友電気工業",
+    "url": "https://kabukarin.net/diamond/9371/",
+    "pass": 3
+   },
+   {
+    "quote": "5802 住友電気工業",
+    "url": "https://kabukarin.net/diamond/9371/",
+    "pass": 3
+   },
+   {
+    "quote": "電線御三家の一角として知られる住友電気工業は人工ダイヤモンド関連株としても大注目です",
+    "url": "https://kabukarin.net/diamond/9371/",
+    "pass": 3
+   },
+   {
+    "quote": "そういう面では人工ダイヤ関連でも住友電工は大本命といえそうか",
+    "url": "https://kabukarin.net/diamond/9371/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車部品や半導体、缶、電池など、あらゆるモノを大量生産するための「金型」や「工具」を手掛けており日本の製造業を裏で支える存在です",
+    "url": "https://kabukarin.net/diamond/9371/",
+    "pass": 3
+   },
+   {
+    "quote": "DCIハイテク製造業成長支援投資事業有限責任組合（大和企業投資株式会社）、名古屋大学東海地区大学広域ベンチャー1号投資事業有限責任組合（日本ベンチャーキャピタル株式会社）",
+    "url": "https://www.smrj.go.jp/supporter/fund_investment/funding/case/ool3bn000000rshf.html",
+    "pass": 3
+   },
+   {
+    "quote": "藤森社長は大学院卒業後、住友電気工業株式会社（以下、住友電工）へ入社した",
+    "url": "https://www.smrj.go.jp/supporter/fund_investment/funding/case/ool3bn000000rshf.html",
+    "pass": 3
+   },
+   {
+    "quote": "藤森社長は、住友電工では20年以上にわたりダイヤモンドの製造技術や製品開発に従事していた",
+    "url": "https://www.smrj.go.jp/supporter/fund_investment/funding/case/ool3bn000000rshf.html",
+    "pass": 3
+   },
+   {
+    "quote": "住友電工では、こうしたダイヤモンドの特性を活かして工具用品などへの応用が試みられていた",
+    "url": "https://www.smrj.go.jp/supporter/fund_investment/funding/case/ool3bn000000rshf.html",
+    "pass": 3
+   },
+   {
+    "quote": "and Regional Innovation, JAPAN",
+    "url": "https://www.smrj.go.jp/supporter/fund_investment/funding/case/ool3bn000000rshf.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japan adds a separate technology-led demand pattern through Tomei, EDP, and Sumitomo Electric. Japan generated an estimated USD 0.44 billion in 2025, and South Korea generated an estimated USD 0.28 billion. KDT Diamond established a new CVD plant in India in September 2023, linking South Korean production expertise with India’s operating-cost and polishing advantages",
+    "url": "https://www.gminsights.com/industry-analysis/cvd-lab-grown-diamonds-market",
+    "pass": 3
+   },
+   {
+    "quote": "Integrated industrial and technology suppliers: De Beers Group (Element Six), Tomei Diamond Corporation, SP3 Diamond Technologies, EDP Corporation, Sumitomo Electric Industries, and Applied Diamond Inc.",
+    "url": "https://www.gminsights.com/industry-analysis/cvd-lab-grown-diamonds-market",
+    "pass": 3
+   },
+   {
+    "quote": "15. Japan Lab Grown Diamonds Market",
+    "url": "https://www.researchandmarkets.com/reports/5948682/lab-grown-diamonds-market-report?srsltid=AYCX9vIamUfCFDppoAs5XXIIiHuTt6j-TlYPX_Zs16Oqcmwp-Vedom8S",
+    "pass": 3
+   },
+   {
+    "quote": "15.1. Japan Lab Grown Diamonds Market Overview",
+    "url": "https://www.researchandmarkets.com/reports/5948682/lab-grown-diamonds-market-report?srsltid=AYCX9vIamUfCFDppoAs5XXIIiHuTt6j-TlYPX_Zs16Oqcmwp-Vedom8S",
+    "pass": 3
+   },
+   {
+    "quote": "15.2. Japan Lab Grown Diamonds Market, Segmentation by Type, Segmentation by Nature, Segmentation by Manufacturing Process, Historic and Forecast, 2020-2025, 2025-2030F, 2035F, $ Billion",
+    "url": "https://www.researchandmarkets.com/reports/5948682/lab-grown-diamonds-market-report?srsltid=AYCX9vIamUfCFDppoAs5XXIIiHuTt6j-TlYPX_Zs16Oqcmwp-Vedom8S",
+    "pass": 3
+   },
+   {
+    "quote": "Australia; Brazil; China; France; Germany; India; Indonesia; Japan; Taiwan; Russia; South Korea; UK; USA; Canada; Italy; Spain",
+    "url": "https://www.researchandmarkets.com/reports/5948682/lab-grown-diamonds-market-report?srsltid=AYCX9vIamUfCFDppoAs5XXIIiHuTt6j-TlYPX_Zs16Oqcmwp-Vedom8S",
+    "pass": 3
+   },
+   {
+    "quote": "U.S.; Canada; Mexico; Germany; France; Russia; Belgium; China; India; Japan; Brazil; UAE; Saudi Arabia",
+    "url": "https://www.grandviewresearch.com/industry-analysis/industrial-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://univdatos.com/reports/lab-grown-diamonds-market",
+    "pass": 3
+   },
+   {
+    "quote": "U.S., Canada, Germany, U.K., Spain, Italy, France, China, Japan, India, and South Korea",
+    "url": "https://univdatos.com/reports/lab-grown-diamonds-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific is forecast to achieve the fastest growth through 2033. Expanding electronics manufacturing, semiconductor fabrication, construction activity, industrial production, and consumer purchasing power are strengthening demand across China, India, Japan, and South Korea. Regional investment in infrastructure and advanced manufacturing capacity further supports market expansion.",
+    "url": "https://finance.yahoo.com/markets/commodities/articles/global-synthetic-diamond-market-insights-084600776.html",
+    "pass": 3
+   },
+   {
+    "quote": "Toray Industries, Inc.",
+    "url": "https://finance.yahoo.com/markets/commodities/articles/global-synthetic-diamond-market-insights-084600776.html",
+    "pass": 3
+   },
+   {
+    "quote": "Mitsubishi Chemical Corporation",
+    "url": "https://finance.yahoo.com/markets/commodities/articles/global-synthetic-diamond-market-insights-084600776.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japan is projected to register 9.3% CAGR during the forecast period.",
+    "url": "https://www.futuremarketinsights.com/reports/cvd-lab-grown-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "The section analyzes the CVD lab-grown diamonds market by country, including the United States, the United Kingdom, China, Japan, and South Korea. The table presents the CAGR for each country, indicating the expected market growth in that country through 2035.",
+    "url": "https://www.futuremarketinsights.com/reports/cvd-lab-grown-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese History of Valuing Precise Engineering and Craftsmanship in Jewelry",
+    "url": "https://www.futuremarketinsights.com/reports/cvd-lab-grown-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "Cvd Lab Grown Diamond Market Japan Market Share Analysis By Type",
+    "url": "https://www.futuremarketinsights.com/reports/cvd-lab-grown-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan is another Asian country in the CVD lab-grown diamonds market, which is anticipated to register a CAGR of 9.3% through 2035.",
+    "url": "https://www.futuremarketinsights.com/reports/cvd-lab-grown-diamond-market",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "合成ダイヤモンド市場の規模、シェア、動向および2034年までの予測",
+    "url": "https://www.gminsights.com/ja/industry-analysis/synthetic-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "合成ダイヤモンド市場 サイズとシェア 2025 – 2034",
+    "url": "https://www.gminsights.com/ja/industry-analysis/synthetic-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "このうち、原石セグメントは国際市場での需要が高いことから、総市場の 58%を占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/synthetic-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "産業用途は2024年に 39%の市場シェアを占め、2034年まで成長が続くと予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/synthetic-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "宝飾品セグメントは合成ダイヤモンド業界で最も急速に成長しており、年平均成長率（CAGR）は 5.6%、2024年には総市場の 29%を占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/synthetic-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "この分野の上位 5 社である Vibranium Lab Grown Diamonds、James Allen、Clean Origin、Blue Nile、Diamond Foundry は、合計で市場の 60% 超を占めている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/synthetic-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "従来型の資本設備の売上高が 37%減少した一方、天然ダイヤモンド製造の市場が低迷するなか、継続収益が増加し、総収益の 70%超を占めるまでに拡大したことで、その減少が相殺された",
+    "url": "https://www.gminsights.com/ja/industry-analysis/synthetic-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "一次調査は当社の調査手法の中核であり、分析上の知見全体の約80％を占めます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/synthetic-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "データ収集・分析は当社の調査プロセスの重要な一部であり、調査手法全体の約20％を占めます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/synthetic-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヤモンド市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヤモンド市場規模、シェア、トレンド分析レポート：製品別（天然、合成）、用途別（ジュエリー、工業用）、カット別（ラウンドブリリアントカット、プリンセスカット、エメラルドカット、クッションカット、オーバルカット、その他）、色別（無色、ほぼ無色、かすか、非常に淡い、淡い）、カラット別（0.009カラット～0.30カラット、0.50カラット、1.00カラット以上、その他）、流通チャネル別（B2B、B2C）、地域別（北米、ヨーロッパ、アジア太平洋、中東・アフリカ、ラテンアメリカ）、予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年に市場シェア36.8%を占め、ダイヤモンド市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米市場シェア（2025年）",
+    "url": "https://straitsresearch.com/jp/report/diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場シェア",
+    "url": "https://straitsresearch.com/jp/report/diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "天然ダイヤモンドは市場シェア87.4%、市場規模907億7000万米ドルで、ダイヤモンド市場を席巻しています",
+    "url": "https://straitsresearch.com/jp/report/diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "産業分野は年平均成長率（CAGR）5.69%と最も高い伸びが見込まれ、市場規模は223億3,000万米ドル、市場シェアは21.5%となっています",
+    "url": "https://straitsresearch.com/jp/report/diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "ラウンドブリリアントカットダイヤモンドは、市場シェア38.6%、市場規模400億9,000万米ドルで市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "ほぼ無色のダイヤモンド（グレードG、H、I、J）は、市場シェア49.6%を占め、市場規模は515億1000万米ドルに達しました",
+    "url": "https://straitsresearch.com/jp/report/diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "0.009カラット～0.30カラットのセグメントが市場を席巻し、17.4%のシェアと180億7,000万米ドルの市場規模を誇ります",
+    "url": "https://straitsresearch.com/jp/report/diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "B2Cセグメントは市場シェアの58.7%を占め、市場規模は609億7,000万米ドルに達しました",
+    "url": "https://straitsresearch.com/jp/report/diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米はダイヤモンド市場を牽引しており、市場シェアは36.8%、市場規模は382億2,000万米ドルに達しています",
+    "url": "https://straitsresearch.com/jp/report/diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域はダイヤモンド市場において最も急速に成長している地域であり、市場シェアは24.6%、市場規模は255億5,000万米ドルに達しています",
+    "url": "https://straitsresearch.com/jp/report/diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "中東・アフリカのダイヤモンド市場は、市場シェア6.5%を占め、市場規模は67億5,000万米ドルに達しました",
+    "url": "https://straitsresearch.com/jp/report/diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル・インダストリアル・ダイアモンド・マーケット規模は、2025年から2032年までの8.2%のコンパウンド年間成長率(CAGR)を占めると予想される",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "製品カテゴリの分岐セグメントは、コスト効率の高い製造の進歩による68.5%以上の業界シェアを指揮し、合成産業ダイヤモンドであり続けています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、広範な政府有限のイノベーションと産業オートメーションへの取り組みにより、約34%の市場シェアを保有しています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2024年、エレクトロニクス部門は、産業ダイヤモンド消費量の約22%を占め、市場収益の実質的なドライバーと市場予測予測の予測を補強しています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "競争力のある戦略: エレメンツ・シックスは、2020年に12%の産業ダイヤモンドシェアを増加させ、合成ダイヤモンドの生産を拡大するための資本支出に焦点を当てています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "6 年以上の経験を持つ Vidyesh は、カスタマイズされた調査ソリューションのための市場予測、サプライヤー ランドスケープ分析、市場シェア評価の熟練度で高い評価を得ています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "QYResearch調査チームの最新レポート「CVDダイヤモンド―グローバル市場シ上記の図表／データは、QYResearchの最新レポート「CVDダイヤモンド―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」から引用されている",
+    "url": "https://newscast.jp/smart/news/4347284",
+    "pass": 3
+   },
+   {
+    "quote": "本記事は、QY Research発行のレポート「CVDダイヤモンド―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」に基づき、市場動向および競合分析の概要を解説します",
+    "url": "https://newscast.jp/smart/news/4347284",
+    "pass": 3
+   },
+   {
+    "quote": "合成ダイヤモンド市場 | 業界シェア 市場規模 成長性 2026 - 2031年",
+    "url": "https://www.gii.co.jp/report/moi1939148-synthetic-diamond-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "合成ダイヤモンド：市場シェア分析、業界動向と統計、成長予測（2026年～2031年）",
+    "url": "https://www.gii.co.jp/report/moi1939148-synthetic-diamond-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "Synthetic Diamond - Market Share Analysis, Industry Trends & Statistics, Growth Forecasts (2026 - 2031)",
+    "url": "https://www.gii.co.jp/report/moi1939148-synthetic-diamond-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、原石は合成ダイヤモンド市場の65.30%を占めました",
+    "url": "https://www.gii.co.jp/report/moi1939148-synthetic-diamond-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は2025年に世界収益の55.40%を占め、2031年まで年平均CAGR8.05%で最も速い地域成長を継続しています",
+    "url": "https://www.gii.co.jp/report/moi1939148-synthetic-diamond-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "原石は合成ダイヤモンド市場の65.30%を占めています",
+    "url": "https://www.gii.co.jp/report/moi1939148-synthetic-diamond-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "合成ダイヤモンド市場規模、シェアおよび動向分析レポート：色別、用途別、地域別、およびセグメント別予測（2026年～2033年）",
+    "url": "https://www.gii.co.jp/report/moi1939148-synthetic-diamond-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "合成ダイヤモンド市場規模、シェア、成長分析：種類別、製品タイプ別、製造プロセス別、地域別- 業界予測2026-2033年",
+    "url": "https://www.gii.co.jp/report/moi1939148-synthetic-diamond-market-share-analysis-industry.html",
+    "pass": 3
+   },
+   {
+    "quote": "当レポートでは、世界の硬質・超硬質材料の市場について分析し、主要セグメントごとに、全体的な市場規模 (消費量・消費額) の動向見通し (2023～2029年)、製品区分別・地域別の詳細動向、エンドユーザー産業別・用途別の需要動向、主要サプライヤーの売上高と市場シェアなどを調査しております",
+    "url": "https://mono.ipros.com/cg1/%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は2023年3月期の売上において、種結晶の販売が全体売上の95.3％を占めている",
+    "url": "https://www.smrj.go.jp/supporter/fund_investment/funding/case/ool3bn000000rshf.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社は2015年の決算期において、種結晶の販売が売上全体の過半数を占めた",
+    "url": "https://www.smrj.go.jp/supporter/fund_investment/funding/case/ool3bn000000rshf.html",
+    "pass": 3
+   },
+   {
+    "quote": "このうち、売上高の90％以上を占めている人工宝石用製品の種結晶については、引き続き市場の動きに合わせて生産体制を整えていくという",
+    "url": "https://www.smrj.go.jp/supporter/fund_investment/funding/case/ool3bn000000rshf.html",
+    "pass": 3
+   },
+   {
+    "quote": "market share in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/cvd-lab-grown-diamonds-market",
+    "pass": 3
+   },
+   {
+    "quote": ". ABD Diamonds supplies CVD rough into the Surat polishing ecosystem before exporting finished stones. This division of labor illustrates why rough-material suppliers can remain commercially relevant even as the polished share rises. Through 2035, the segment will retain volume importance, although its share of revenue will trail finished material.",
+    "url": "https://www.gminsights.com/industry-analysis/cvd-lab-grown-diamonds-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific currently holds the largest share of the cvd lab-grown diamonds market in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/cvd-lab-grown-diamonds-market",
+    "pass": 3
+   },
+   {
+    "quote": "37.1. Lab Grown Diamonds Market Competitive Landscape and Market Share 2024",
+    "url": "https://www.researchandmarkets.com/reports/5948682/lab-grown-diamonds-market-report?srsltid=AYCX9vIamUfCFDppoAs5XXIIiHuTt6j-TlYPX_Zs16Oqcmwp-Vedom8S",
+    "pass": 3
+   },
+   {
+    "quote": "By type: Synthetic industrial diamond segment held the largest market share of 83.5% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/industrial-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "By application: Construction segment held the largest market share of 51.6% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/industrial-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "By country: China held the largest market share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/industrial-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "Based on type, the synthetic industrial diamond segment led the market with the largest revenue share of 83.5% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/industrial-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "Based on application, the construction segment led the market with the largest revenue share of 51.6% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/industrial-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific dominated the industrial diamond market with the largest revenue share of 42.5% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/industrial-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Up to 2 Carat Category held the Largest Market Share in the Lab Grown Diamonds Market",
+    "url": "https://univdatos.com/reports/lab-grown-diamonds-market",
+    "pass": 3
+   },
+   {
+    "quote": "Q2: Which segment has the largest share of the global lab-grown diamonds market by manufacturing method?",
+    "url": "https://univdatos.com/reports/lab-grown-diamonds-market",
+    "pass": 3
+   },
+   {
+    "quote": "Q6: Which region dominates the global lab-grown diamonds market?",
+    "url": "https://univdatos.com/reports/lab-grown-diamonds-market",
+    "pass": 3
+   },
+   {
+    "quote": "Based on the type, colored CVD lab-grown diamonds dominate the market with a healthy growth of 7.6%. This rising popularity is attributed to:",
+    "url": "https://www.futuremarketinsights.com/reports/cvd-lab-grown-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "Based on the application, heat exchangers dominate the global market with a CAGR of 7.4%. This rising popularity is attributed to:",
+    "url": "https://www.futuremarketinsights.com/reports/cvd-lab-grown-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "The United States dominates the CVD lab-grown diamonds market in the North American region. The United States CVD lab-grown diamonds industry is expected to exhibit a compound annual growth rate of 8.1% until 2035.",
+    "url": "https://www.futuremarketinsights.com/reports/cvd-lab-grown-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share Analysis, 2024",
+    "url": "https://www.futuremarketinsights.com/reports/cvd-lab-grown-diamond-market",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "米国宝石学会（GIA）は、デビアーズ・グループが出資するダイヤモンドの産地追跡ブロックチェーンプラットフォームであるTracrの株式30％を取得する最終契約を締結した",
+    "url": "https://straitsresearch.com/jp/report/diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "こうして、当社は、2014年4月、東京都ベンチャー企業成長支援投資事業有限責任組合と、独立行政法人中小企業基盤整備機構が出資し、大和企業投資株式会社が運営するDCIハイテクの2ファンドより、総額1億5,000万円の資金調達を行った",
+    "url": "https://www.smrj.go.jp/supporter/fund_investment/funding/case/ool3bn000000rshf.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025: SP3 Diamond Technologies exhibited its HFCVD Model 975 reactor and diamond-coated semiconductor wafers at SEMICON West. The event signals continuing supplier investment in semiconductor-facing CVD products. It also positions SP3 as an industrial participant in a market increasingly shaped by substrate and thermal-management performance.",
+    "url": "https://www.gminsights.com/industry-analysis/cvd-lab-grown-diamonds-market",
+    "pass": 3
+   },
+   {
+    "quote": "36. Lab Grown Diamonds Market Regulatory and Investment Landscape",
+    "url": "https://www.researchandmarkets.com/reports/5948682/lab-grown-diamonds-market-report?srsltid=AYCX9vIamUfCFDppoAs5XXIIiHuTt6j-TlYPX_Zs16Oqcmwp-Vedom8S",
+    "pass": 3
+   },
+   {
+    "quote": "Lab-grown diamond prices have declined significantly over time (95% wholesale price drop since 2018). They should be viewed as a consumer product rather than an investment asset. Natural diamonds maintain value differently through controlled extraction and certification systems.",
+    "url": "https://caratx.com/blog/lab-grown-diamonds-2025-fast-growth-bigger-stones",
+    "pass": 3
+   },
+   {
+    "quote": "Q9: How does the scalability of production affect investment potential in the lab-grown diamonds market?",
+    "url": "https://univdatos.com/reports/lab-grown-diamonds-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific is forecast to achieve the fastest growth through 2033. Expanding electronics manufacturing, semiconductor fabrication, construction activity, industrial production, and consumer purchasing power are strengthening demand across China, India, Japan, and South Korea. Regional investment in infrastructure and advanced manufacturing capacity further supports market expansion.",
+    "url": "https://finance.yahoo.com/markets/commodities/articles/global-synthetic-diamond-market-insights-084600776.html",
+    "pass": 3
+   },
+   {
+    "quote": "Key Investment and Funding Activities in Lab Grown Diamond Market, 2025",
+    "url": "https://straitsresearch.com/report/lab-grown-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "ONYA secured USD 0.66 million (INR 5.5 Crore) in pre-seed funding led by Zeropearl VC to expand its lab grown diamond jewelry retail operations across India.",
+    "url": "https://straitsresearch.com/report/lab-grown-diamond-market",
+    "pass": 3
+   },
+   {
+    "quote": "Lucira secured USD 5.5 million in its maiden funding round led by Blume Ventures and Spring Marketing Capital to expand lab grown diamond jewelry operations and strengthen retail presence.",
+    "url": "https://straitsresearch.com/report/lab-grown-diamond-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "工業用 合成 ダイヤモンド Market Trendは、2026年から2033年 ... — 工業用 合成 ダイヤモンド Market Trendは、2026年から2033年 ... LinkedIn https://jp.linkedin.com > pulse > 工業用合成ダイヤモンド-...",
+    "url": "https://jp.linkedin.com/pulse/%E5%B7%A5%E6%A5%AD%E7%94%A8%E5%90%88%E6%88%90%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89-market-trend%E3%81%AF2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr122%E3%81%A7%E6%80%A5%E9%80%9F%E3%81%AA%E6%88%90%E9%95%B7%E3%82%92%E7%B6%9A%E3%81%91%E3%82%8B%E3%81%A8%E4%BA%88%E6%B8%AC%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99-wpduf",
+    "pass": 3
+   },
+   {
+    "quote": "工業用ダイヤモンド市場規模 、シェア、予測レポート、2034 年 — 工業用ダイヤモンド市場規模 、シェア、予測レポート、2034 年 Fortune Business Insights https://www.fortunebusinessinsights.com > 産業ダイヤモ...",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E7%94%A3%E6%A5%AD%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4-112021",
+    "pass": 3
+   },
+   {
+    "quote": "工業用ダイヤモンド市場 規模、シェア、 予測 レポート、2034 年 — 工業用ダイヤモンド市場 規模、シェア、 予測 レポート、2034 年 Fortune Business Insights https://www.fortunebusinessinsights.com > 産業ダイヤモ...",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E7%94%A3%E6%A5%AD%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4-112021",
+    "pass": 3
+   },
+   {
+    "quote": "スゴイはずが…5社比較で見えた「 人工ダイヤモンド 」の惨状 ... — スゴイはずが…5社比較で見えた「 人工ダイヤモンド 」の惨状 ... ビジネス+IT https://www.sbbit.jp > ... > 素材・ナノマテリアル",
+    "url": "https://www.sbbit.jp/article/st/182236",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "5.1",
+    "url": "https://www.gminsights.com/ja/industry-analysis/synthetic-diamond-market",
+    "quote": "世界の合成ダイヤモンド市場規模は、2024年に259億米ドルと推定され、2025年から2034年にかけて年平均成長率（CAGR）5.1%で成長すると見込まれています"
+   },
+   {
+    "value": "5.6",
+    "url": "https://www.gminsights.com/ja/industry-analysis/synthetic-diamond-market",
+    "quote": "宝飾品セグメントは合成ダイヤモンド業界で最も急速に成長しており、年平均成長率（CAGR）は 5.6%、2024年には総市場の 29%を占めました"
+   },
+   {
+    "value": "2.8",
+    "url": "https://straitsresearch.com/jp/report/diamond-market",
+    "quote": "世界のダイヤモンド市場規模は、2025年には1,038億6,000万米ドルと評価され、2026年の1,067億7,000万米ドルから2034年には1,331億6,000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は2.8%となる見込みです"
+   },
+   {
+    "value": "3.92",
+    "url": "https://straitsresearch.com/jp/report/diamond-market",
+    "quote": "予測期間中の年平均成長率（CAGR）は3.92%と見込まれています"
+   },
+   {
+    "value": "5.69",
+    "url": "https://straitsresearch.com/jp/report/diamond-market",
+    "quote": "産業分野は年平均成長率（CAGR）5.69%と最も高い伸びが見込まれ、市場規模は223億3,000万米ドル、市場シェアは21.5%となっています"
+   },
+   {
+    "value": "4.92",
+    "url": "https://straitsresearch.com/jp/report/diamond-market",
+    "quote": "年平均成長率（CAGR）は4.92%と予測されています"
+   },
+   {
+    "value": "5.02",
+    "url": "https://straitsresearch.com/jp/report/diamond-market",
+    "quote": "このセグメントは、年平均成長率（CAGR）5.02%と最も高い成長が見込まれています"
+   },
+   {
+    "value": "10",
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "quote": "一方、アジアパシフィックは、中国、インド、韓国で急速に拡大するエレクトロニクスおよび自動車製造分野を燃料化し、CAGRが10%を超える最速の成長を展示しています"
+   },
+   {
+    "value": "2.8",
+    "url": "https://prtimes.jp/main/html/rd/p/000004612.000067400.html",
+    "quote": "産業用ダイヤモンドの世界市場は2027年まで年平均成長率2.8％で成長すると予想される | Report Oceanのプレスリリース"
+   },
+   {
+    "value": "7.7",
+    "url": "https://newscast.jp/smart/news/4347284",
+    "quote": "2025年の世界市場規模は5億3,900万米ドル、販売量は約308万カラット、平均価格は約5米ドル／カラットと推定され、2026～2032年には年平均成長率（CAGR）7.7％で成長し、2032年には8億9,900万米ドルに達すると予測される"
+   },
+   {
+    "value": "6.95",
+    "url": "https://www.gii.co.jp/report/moi1939148-synthetic-diamond-market-share-analysis-industry.html",
+    "quote": "合成ダイヤモンド市場は、2025年の254億9,000万米ドルから2026年には272億6,000万米ドルへ成長し、2026年から2031年にかけてCAGR6.95％で推移し、2031年までに381億5,000万米ドルに達すると予測されております"
+   },
+   {
+    "value": "9.35",
+    "url": "https://www.gii.co.jp/report/moi1939148-synthetic-diamond-market-share-analysis-industry.html",
+    "quote": "研磨済み原石は生産量は少ないもの、CAGR9.35％と最も急速に拡大しているカテゴリーです"
+   },
+   {
+    "value": "8.05",
+    "url": "https://www.gii.co.jp/report/moi1939148-synthetic-diamond-market-share-analysis-industry.html",
+    "quote": "アジア太平洋地域は2025年に世界収益の55.40%を占め、2031年まで年平均CAGR8.05%で最も速い地域成長を継続しています"
+   },
+   {
+    "value": "7.4",
+    "url": "https://www.gminsights.com/industry-analysis/cvd-lab-grown-diamonds-market",
+    "quote": "The market is projected to reach USD 30.8 billion by 2035, growing at a CAGR of 7.4% from 2026 to 2035."
+   },
+   {
+    "value": "13.42",
+    "url": "https://caratx.com/blog/lab-grown-diamonds-2025-fast-growth-bigger-stones",
+    "quote": "CAGR of 13.42%"
+   },
+   {
+    "value": "6.8",
+    "url": "https://www.grandviewresearch.com/industry-analysis/industrial-diamond-market",
+    "quote": "CAGR of 6.8% from 2026 to 2033"
+   },
+   {
+    "value": "7.9",
+    "url": "https://www.grandviewresearch.com/industry-analysis/industrial-diamond-market",
+    "quote": "Asia Pacific is anticipated to register the fastest CAGR of 7.9% over the forecast period."
+   },
+   {
+    "value": "11.77",
+    "url": "https://univdatos.com/reports/lab-grown-diamonds-market",
+    "quote": "The Global Lab-Grown Diamonds Market was valued at USD 27.24 billion in 2024 and is expected to grow at a CAGR of around 11.77% during the forecast period (2025-2033F), driven by growing ethical and environmental concerns, cost competitiveness, and changing consumer preferences."
+   },
+   {
+    "value": "5.50",
+    "url": "https://finance.yahoo.com/markets/commodities/articles/global-synthetic-diamond-market-insights-084600776.html",
+    "quote": "The global Synthetic Diamond Market is projected to expand steadily, increasing from USD 24.5 billion in 2026 to USD 35.6 billion by 2033. The market is expected to register a compound annual growth rate (CAGR) of 5.50% during the forecast period, supported by industrialization, technological innova"
+   }
+  ],
+  "市場規模USD": [
+   {
+    "value": "15.1",
+    "url": "https://www.gminsights.com/industry-analysis/cvd-lab-grown-diamonds-market",
+    "quote": "$ 15.1 Billion"
+   },
+   {
+    "value": "16.2",
+    "url": "https://www.gminsights.com/industry-analysis/cvd-lab-grown-diamonds-market",
+    "quote": "$ 16.2 Billion"
+   },
+   {
+    "value": "30.8",
+    "url": "https://www.gminsights.com/industry-analysis/cvd-lab-grown-diamonds-market",
+    "quote": "$ 30.8 Billion"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/synthetic-diamond-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/diamond-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E7%94%A3%E6%A5%AD%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4-112021",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000004612.000067400.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/1624124",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketgrowthreports.com/jp/market-reports/diamond-materials-for-semiconductor-market-102627",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/synthetic-diamond-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/4347284",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/moi1939148-synthetic-diamond-market-share-analysis-industry.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reuters.com/jp/world/japan/LG7AYFJ57FOURLNLB6EP7UA4I4-2026-02-18/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://mono.ipros.com/cg1/%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kabukarin.net/diamond/9371/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smrj.go.jp/supporter/fund_investment/funding/case/ool3bn000000rshf.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sbbit.jp/article/st/182236",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/cvd-lab-grown-diamonds-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/lab-grown-diamond-market-110569",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchandmarkets.com/reports/5948682/lab-grown-diamonds-market-report?srsltid=AYCX9vIamUfCFDppoAs5XXIIiHuTt6j-TlYPX_Zs16Oqcmwp-Vedom8S",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://caratx.com/blog/lab-grown-diamonds-2025-fast-growth-bigger-stones",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/industrial-diamond-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.insightaceanalytic.com/report/lab-grown-diamonds-market/2426",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://univdatos.com/reports/lab-grown-diamonds-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marknteladvisors.com/research-library/north-america-lab-grown-diamonds-market.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/markets/commodities/articles/global-synthetic-diamond-market-insights-084600776.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futuremarketinsights.com/reports/cvd-lab-grown-diamond-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/trending-business-models/startups-in-lab-grown-diamond-brands/__-8FRxNISJk-EckYXh4e3rJev6cc6utN_OuVp-1DX7Mo",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://openthemagazine.com/business/india-has-70-lab-grown-diamond-startups-more-than-any-other-country-could-the-platinum-story-repeat",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/report/lab-grown-diamond-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://earthlyjewels.co/blogs/blog/investing-in-your-future-lab-grown-diamonds-as-a-hedge-against-inflation?srsltid=AYCX9vLbsfj3oYdVr_ao2VnByYZ7UKrV-dIxqF9Ev_6jQrfNvbjzROC6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/synthetic-diamond-market-report",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "人工ダイヤモンド（工業用） 市場規模 年平均成長率",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/synthetic-diamond-market",
+    "https://straitsresearch.com/jp/report/diamond-market",
+    "https://jp.linkedin.com/pulse/%E5%B7%A5%E6%A5%AD%E7%94%A8%E5%90%88%E6%88%90%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89-market-trend%E3%81%AF2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr122%E3%81%A7%E6%80%A5%E9%80%9F%E3%81%AA%E6%88%90%E9%95%B7%E3%82%92%E7%B6%9A%E3%81%91%E3%82%8B%E3%81%A8%E4%BA%88%E6%B8%AC%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99-wpduf",
+    "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "https://www.fortunebusinessinsights.com/jp/%E7%94%A3%E6%A5%AD%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4-112021",
+    "https://prtimes.jp/main/html/rd/p/000004612.000067400.html",
+    "https://www.marketgrowthreports.com/jp/market-reports/synthetic-diamond-market-106681",
+    "https://www.mordorintelligence.com/ja/industry-reports/synthetic-diamond-market",
+    "https://newscast.jp/news/3091422",
+    "https://www.globalresearch.co.jp/industrial-diamond-market/"
+   ]
+  },
+  {
+   "query": "人工ダイヤモンド（工業用） 市場 予測 富士経済 OR 矢野経済 OR シーエムシー",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/synthetic-diamond-market",
+    "https://www.fortunebusinessinsights.com/jp/%E7%94%A3%E6%A5%AD%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4-112021",
+    "https://www.atpress.ne.jp/news/1624124",
+    "https://www.marketgrowthreports.com/jp/market-reports/diamond-materials-for-semiconductor-market-102627",
+    "https://www.mordorintelligence.com/ja/industry-reports/synthetic-diamond-market",
+    "https://www.coherentmarketinsights.com/ja/%E5%B7%A5%E6%A5%AD%E7%94%A8%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4",
+    "https://newscast.jp/smart/news/4347284",
+    "https://prtimes.jp/main/html/rd/p/000004612.000067400.html",
+    "https://www.gii.co.jp/report/moi1939148-synthetic-diamond-market-share-analysis-industry.html",
+    "https://www.yano.co.jp/market_reports/listMr_ydb.php"
+   ]
+  },
+  {
+   "query": "人工ダイヤモンド（工業用） 参入 企業 国内",
+   "results": [
+    "https://www.youtube.com/watch?v=GbpP9CEu9Xg",
+    "https://www.reuters.com/jp/world/japan/LG7AYFJ57FOURLNLB6EP7UA4I4-2026-02-18/",
+    "https://mono.ipros.com/cg1/%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89/",
+    "https://kabukarin.net/diamond/9371/",
+    "https://www.smrj.go.jp/supporter/fund_investment/funding/case/ool3bn000000rshf.html",
+    "https://www.sbbit.jp/article/st/182236",
+    "https://www.asahidia.co.jp/corporate/brand/",
+    "https://minkabu.jp/theme/%E4%BA%BA%E5%B7%A5%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89",
+    "https://sumitomoelectric.com/jp/diamonds",
+    "https://mono.ipros.com/cg2/工業用ダイヤモンド/"
+   ]
+  },
+  {
+   "query": "lab grown diamond industrial market size CAGR 2025",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/cvd-lab-grown-diamonds-market",
+    "https://www.fortunebusinessinsights.com/lab-grown-diamond-market-110569",
+    "https://www.researchandmarkets.com/reports/5948682/lab-grown-diamonds-market-report?srsltid=AYCX9vIamUfCFDppoAs5XXIIiHuTt6j-TlYPX_Zs16Oqcmwp-Vedom8S",
+    "https://caratx.com/blog/lab-grown-diamonds-2025-fast-growth-bigger-stones",
+    "https://www.grandviewresearch.com/industry-analysis/industrial-diamond-market",
+    "https://natlawreview.com/press-releases/global-lab-grown-diamonds-market-expand-104-cagr-during-forecast-period",
+    "https://www.futuremarketinsights.com/reports/india-lab-grown-diamond-jewelry-market",
+    "https://www.industryresearch.biz/market-reports/lab-grown-diamond-market-108110",
+    "https://www.persistencemarketresearch.com/market-research/lab-grown-diamonds-market.asp",
+    "https://www.researchandmarkets.com/reports/6187576/lab-grown-diamonds-market-outlook-market"
+   ]
+  },
+  {
+   "query": "lab grown diamond industrial market key players competitive landscape",
+   "results": [
+    "https://www.fortunebusinessinsights.com/lab-grown-diamond-market-110569",
+    "https://www.insightaceanalytic.com/report/lab-grown-diamonds-market/2426",
+    "https://univdatos.com/reports/lab-grown-diamonds-market",
+    "https://www.marknteladvisors.com/research-library/north-america-lab-grown-diamonds-market.html",
+    "https://www.grandviewresearch.com/industry-analysis/industrial-diamond-market",
+    "https://www.linkedin.com/pulse/global-lab-grown-diamond-market-size-share-gscpf",
+    "https://finance.yahoo.com/markets/commodities/articles/global-synthetic-diamond-market-insights-084600776.html",
+    "https://www.futuremarketinsights.com/reports/cvd-lab-grown-diamond-market",
+    "https://www.researchgate.net/publication/397371322_Study_on_the_Impact_and_Reshaping_of_the_Rise_of_Lab-Grown_Diamonds_on_the_Monopolistic_Structure_of_the_Traditional_Diamond_Market",
+    "https://www.einpresswire.com/article/952317639/cvd-lab-grown-diamond-market-competitive-landscape-analyzed-across-leading-global-companies"
+   ]
+  },
+  {
+   "query": "lab grown diamond industrial startup funding 2025",
+   "results": [
+    "https://tracxn.com/d/trending-business-models/startups-in-lab-grown-diamond-brands/__-8FRxNISJk-EckYXh4e3rJev6cc6utN_OuVp-1DX7Mo",
+    "https://www.fortunebusinessinsights.com/lab-grown-diamond-market-110569",
+    "https://caratx.com/blog/lab-grown-diamonds-2025-fast-growth-bigger-stones",
+    "https://openthemagazine.com/business/india-has-70-lab-grown-diamond-startups-more-than-any-other-country-could-the-platinum-story-repeat",
+    "https://www.youtube.com/watch?v=ZmIL-4Pedtk",
+    "https://straitsresearch.com/report/lab-grown-diamond-market",
+    "https://earthlyjewels.co/blogs/blog/investing-in-your-future-lab-grown-diamonds-as-a-hedge-against-inflation?srsltid=AYCX9vLbsfj3oYdVr_ao2VnByYZ7UKrV-dIxqF9Ev_6jQrfNvbjzROC6",
+    "https://www.grandviewresearch.com/industry-analysis/synthetic-diamond-market-report",
+    "https://www.linkedin.com/posts/hindubusinessline_gen-z-dripping-in-lab-grown-diamonds-activity-7408723169068384256-ZTwr",
+    "https://www.ventureradar.com/funding/lab-grown+diamonds"
+   ]
+  }
+ ],
+ "missing": {}
+}

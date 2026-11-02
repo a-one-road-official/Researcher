@@ -1,0 +1,544 @@
+{
+ "name": "水素脆化対策鋼・高圧水素材料",
+ "en": "hydrogen embrittlement resistant steel",
+ "aliases": [
+  "hydrogen pipeline steel",
+  "耐水素鋼"
+ ],
+ "context": "水素",
+ "kind": "market",
+ "researched_at": "2026-11-02T17:38:17.597635+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "水素脆化抵抗鋼の世界市場（2026年～2032年）、市場規模（クロムモリブデン鋼、オーステナイト系ステンレス鋼、その他）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/news/6379103",
+    "pass": 3
+   },
+   {
+    "quote": "水素脆化抵抗鋼の世界市場（2026年～2032年）、市場規模（クロムモリブデン鋼、オーステナイト系ステンレス鋼、その他）・分析レポートを発表",
+    "url": "https://newscast.jp/news/6379103",
+    "pass": 3
+   },
+   {
+    "quote": "世界の水素脆化抵抗鋼市場規模は、2025年の9億6,000万米ドルから2032年には14億8,200万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）6.4％で成長すると見込まれています",
+    "url": "https://newscast.jp/news/6379103",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、世界の水素脆化抵抗鋼市場は、生産能力が約50万トン、販売量が約43万2,000トン、平均価格が1トンあたり約2,270米ドル、粗利益率は概ね17%から25%の範囲でした",
+    "url": "https://newscast.jp/news/6379103",
+    "pass": 3
+   },
+   {
+    "quote": "第4章 地理的地域別の水素脆化抵抗鋼の歴史的レビューには、2021年から2026年までの世界の水素脆化抵抗鋼の市場規模が地理的地域別および国/地域別に記録されており、各地域・国ごとの年間売上高と年間収益が示されています",
+    "url": "https://newscast.jp/news/6379103",
+    "pass": 3
+   },
+   {
+    "quote": "第12章 地理的地域別の水素脆化抵抗鋼の世界予測レビューには、2027年から2032年までの世界の水素脆化抵抗鋼市場規模の地域別予測が示されており、年間売上高と年間収益の予測が含まれます",
+    "url": "https://newscast.jp/news/6379103",
+    "pass": 3
+   },
+   {
+    "quote": "水素脆化抵抗鋼の世界市場（2026年～2032年）、市場規模（クロムモリブデン鋼、オーステナイト系ステンレス鋼、その他）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/6379103",
+    "pass": 3
+   },
+   {
+    "quote": "水素脆化抵抗鋼の世界市場（2026年～2032年）、市場規模（クロムモリブデン鋼、オーステナイト系ステンレス鋼、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/6379103",
+    "pass": 3
+   },
+   {
+    "quote": "世界の水素脆化抵抗鋼市場規模は、2025年の9億6,000万米ドルから2032年には14億8,200万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）6.4％で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/6379103",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、世界の水素脆化抵抗鋼市場は、生産能力が約50万トン、販売量が約43万2,000トン、平均価格が1トンあたり約2,270米ドル、粗利益率は概ね17%から25%の範囲でした",
+    "url": "https://www.atpress.ne.jp/news/6379103",
+    "pass": 3
+   },
+   {
+    "quote": "第4章 地理的地域別の水素脆化抵抗鋼の歴史的レビューには、2021年から2026年までの世界の水素脆化抵抗鋼の市場規模が地理的地域別および国/地域別に記録されており、各地域・国ごとの年間売上高と年間収益が示されています",
+    "url": "https://www.atpress.ne.jp/news/6379103",
+    "pass": 3
+   },
+   {
+    "quote": "第12章 地理的地域別の水素脆化抵抗鋼の世界予測レビューには、2027年から2032年までの世界の水素脆化抵抗鋼市場規模の地域別予測が示されており、年間売上高と年間収益の予測が含まれます",
+    "url": "https://www.atpress.ne.jp/news/6379103",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/6379103",
+    "pass": 3
+   },
+   {
+    "quote": "コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/6379103",
+    "pass": 3
+   },
+   {
+    "quote": "セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/6379103",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/6379103",
+    "pass": 3
+   },
+   {
+    "quote": "食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/6379103",
+    "pass": 3
+   },
+   {
+    "quote": "Capital commitments toward low‑carbon infrastructure in the United Kingdom and the United States, projected to exceed $10 billion over the next decade, include substantial allocation for hydrogen transport systems. Such investments not only increase the demand curve for hydrogen‑resistant steel but also standardize procurement cycles, leading to predictable revenue streams for key suppliers.",
+    "url": "https://www.24marketreports.com/chemicals-and-materials/global-hydrogen-resistant-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 805 million in 2025",
+    "url": "https://www.24marketreports.com/chemicals-and-materials/global-hydrogen-resistant-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 1625 million by 2034",
+    "url": "https://www.24marketreports.com/chemicals-and-materials/global-hydrogen-resistant-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global hydrogen resistant steel market was valued at USD 805 million in 2025 and is projected to reach USD 1625 million by 2034 .",
+    "url": "https://www.24marketreports.com/chemicals-and-materials/global-hydrogen-resistant-steel-market",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "世界の水素脆化抵抗鋼市場規模は、2025年の9億6,000万米ドルから2032年には14億8,200万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）6.4％で成長すると見込まれています",
+    "url": "https://newscast.jp/news/6379103",
+    "pass": 3
+   },
+   {
+    "quote": "世界の水素脆化抵抗鋼市場規模は、2025年の9億6,000万米ドルから2032年には14億8,200万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）6.4％で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/6379103",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "また本レポートでは、水素脆化抵抗鋼のポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、世界的な水素脆化抵抗鋼市場の加速する動向の中で、主要グローバル企業の独自の立場をより深く理解できるよう、各社の戦略を分析しています",
+    "url": "https://newscast.jp/news/6379103",
+    "pass": 3
+   },
+   {
+    "quote": "また、主要メーカーの水素脆化抵抗鋼の生産地域分布、販売地域、製品タイプ、市場集中度分析（競争環境分析、CR3、CR5、CR10集中度と2024年から2026年の予測）、新製品と潜在的な新規参入企業、市場のM&A活動と戦略が詳述されています",
+    "url": "https://newscast.jp/news/6379103",
+    "pass": 3
+   },
+   {
+    "quote": "第13章 主要企業分析には、Proterial、Nippon Steel、ArcelorMittal、POSCO、ThyssenKrupp、Voestalpine、Baosteel Group、Masteel、U.S. Steel、Tata Steel、JFE Steel、Ansteel Group、Dillinger Groupといった主要な13社の詳細な企業プロファイルが収録されています",
+    "url": "https://newscast.jp/news/6379103",
+    "pass": 3
+   },
+   {
+    "quote": "また本レポートでは、水素脆化抵抗鋼のポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、世界的な水素脆化抵抗鋼市場の加速する動向の中で、主要グローバル企業の独自の立場をより深く理解できるよう、各社の戦略を分析しています",
+    "url": "https://www.atpress.ne.jp/news/6379103",
+    "pass": 3
+   },
+   {
+    "quote": "また、主要メーカーの水素脆化抵抗鋼の生産地域分布、販売地域、製品タイプ、市場集中度分析（競争環境分析、CR3、CR5、CR10集中度と2024年から2026年の予測）、新製品と潜在的な新規参入企業、市場のM&A活動と戦略が詳述されています",
+    "url": "https://www.atpress.ne.jp/news/6379103",
+    "pass": 3
+   },
+   {
+    "quote": "第13章 主要企業分析には、Proterial、Nippon Steel、ArcelorMittal、POSCO、ThyssenKrupp、Voestalpine、Baosteel Group、Masteel、U.S. Steel、Tata Steel、JFE Steel、Ansteel Group、Dillinger Groupといった主要な13社の詳細な企業プロファイルが収録されています",
+    "url": "https://www.atpress.ne.jp/news/6379103",
+    "pass": 3
+   },
+   {
+    "quote": "Detailed industry trends, competitive landscape, market insights and growth forecasts to support informed decisions.",
+    "url": "https://www.24marketreports.com/chemicals-and-materials/global-hydrogen-resistant-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "COMPETITIVE LANDSCAPE",
+    "url": "https://www.24marketreports.com/chemicals-and-materials/global-hydrogen-resistant-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "List of Key Steel Modifying Companies Profiled",
+    "url": "https://www.24marketreports.com/chemicals-and-materials/global-hydrogen-resistant-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.24marketreports.com/chemicals-and-materials/global-hydrogen-resistant-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Which key companies operate in Global Hydrogen Resistant Steel Market?",
+    "url": "https://www.24marketreports.com/chemicals-and-materials/global-hydrogen-resistant-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "-> Key players",
+    "url": "https://www.24marketreports.com/chemicals-and-materials/global-hydrogen-resistant-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players include ArcelorMittal, Nippon Steel, POSCO, ThyssenKrupp, Baosteel Group, Masteel, U.S. Steel, Tata Steel, JFE Steel, and Ansteel Group , among others.",
+    "url": "https://www.24marketreports.com/chemicals-and-materials/global-hydrogen-resistant-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Industry Major Players",
+    "url": "https://www.24marketreports.com/chemicals-and-materials/global-hydrogen-resistant-steel-market",
+    "pass": 3
+   }
+  ],
+  "日本企業": [
+   {
+    "quote": "さらに、中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾といった主要国・地域の市場情報が提供されています",
+    "url": "https://newscast.jp/news/6379103",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：水素脆化抵抗鋼の世界市場2026年～2032年",
+    "url": "https://newscast.jp/news/6379103",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾といった主要国・地域の市場情報が提供されています",
+    "url": "https://www.atpress.ne.jp/news/6379103",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：水素脆化抵抗鋼の世界市場2026年～2032年",
+    "url": "https://www.atpress.ne.jp/news/6379103",
+    "pass": 3
+   },
+   {
+    "quote": "dominates the high‑end, high‑purity segment through its advanced Cr‑Mo and advanced line‑pipe alloys, and maintains a strong presence in Japan, China, and Europe.",
+    "url": "https://www.24marketreports.com/chemicals-and-materials/global-hydrogen-resistant-steel-market",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "さらに、水素脆化抵抗鋼のタイプ別（クロムモリブデン鋼、オーステナイト系ステンレス鋼、その他）、製品形態別（厚板鋼、重厚板鋼、ラインパイプ鋼、圧力容器鋼）、サワーサービス厳格度別（軽度、標準、厳重）、および用途別（石油・ガス、精製・石油化学、水素貯蔵・輸送、電力・原子力、その他）のセグメントが詳細に分析されており、各セグメントにおける2021年から2026年までの売上高、市場シェア、収益、売上価格が示されています",
+    "url": "https://newscast.jp/news/6379103",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2026年までの企業別の年間売上高、売上市場シェア、年間収益、収益市場シェア、および売上価格が含まれます",
+    "url": "https://newscast.jp/news/6379103",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、水素脆化抵抗鋼のタイプ別（クロムモリブデン鋼、オーステナイト系ステンレス鋼、その他）、製品形態別（厚板鋼、重厚板鋼、ラインパイプ鋼、圧力容器鋼）、サワーサービス厳格度別（軽度、標準、厳重）、および用途別（石油・ガス、精製・石油化学、水素貯蔵・輸送、電力・原子力、その他）のセグメントが詳細に分析されており、各セグメントにおける2021年から2026年までの売上高、市場シェア、収益、売上価格が示されています",
+    "url": "https://www.atpress.ne.jp/news/6379103",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2026年までの企業別の年間売上高、売上市場シェア、年間収益、収益市場シェア、および売上価格が含まれます",
+    "url": "https://www.atpress.ne.jp/news/6379103",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "Capital commitments toward low‑carbon infrastructure in the United Kingdom and the United States, projected to exceed $10 billion over the next decade, include substantial allocation for hydrogen transport systems. Such investments not only increase the demand curve for hydrogen‑resistant steel but also standardize procurement cycles, leading to predictable revenue streams for key suppliers.",
+    "url": "https://www.24marketreports.com/chemicals-and-materials/global-hydrogen-resistant-steel-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Sample Report: Hydrogen Embrittlement Resistant Steel ... — Sample Report: Hydrogen Embrittlement Resistant Steel ... 24ChemicalResearch https://www.24chemicalresearch.com > ...",
+    "url": "https://www.24chemicalresearch.com/download-sample/318529/hydrogen-embrittlement-resistant-steel-market",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "6.4",
+    "url": "https://newscast.jp/news/6379103",
+    "quote": "世界の水素脆化抵抗鋼市場規模は、2025年の9億6,000万米ドルから2032年には14億8,200万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）6.4％で成長すると見込まれています"
+   },
+   {
+    "value": "6.4",
+    "url": "https://www.atpress.ne.jp/news/6379103",
+    "quote": "世界の水素脆化抵抗鋼市場規模は、2025年の9億6,000万米ドルから2032年には14億8,200万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）6.4％で成長すると見込まれています"
+   }
+  ],
+  "市場規模USD": [
+   {
+    "value": "10",
+    "url": "https://www.24marketreports.com/chemicals-and-materials/global-hydrogen-resistant-steel-market",
+    "quote": "Capital commitments toward low‑carbon infrastructure in the United Kingdom and the United States, projected to exceed $10 billion over the next decade, include substantial allocation for hydrogen transport systems. Such investments not only increase the demand curve for hydrogen‑resistant steel but "
+   },
+   {
+    "value": "805",
+    "url": "https://www.24marketreports.com/chemicals-and-materials/global-hydrogen-resistant-steel-market",
+    "quote": "USD 805 million in 2025"
+   },
+   {
+    "value": "1625",
+    "url": "https://www.24marketreports.com/chemicals-and-materials/global-hydrogen-resistant-steel-market",
+    "quote": "USD 1625 million by 2034"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://newscast.jp/news/6379103",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/6379103",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.theinsightpartners.com/ja/reports/hydrogen-compressor-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/hydrogen-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/hydrogen-compressor-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jim.or.jp/journal/m/pdf3/56/03/230.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jsme.or.jp/kaisi/1287-32/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyo-steel.co.jp/technology/images/pdf/22/22_3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://connect.nissha.com/gassensor/blog/hydrogencrack/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.khk.or.jp/hydrogen/erosion.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nipponsteel.com/product/catalog_download/pdf/P106.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kobelcokaken.co.jp/contract/carbon_neutral/hydrogen_embrittlement.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sgkz.or.jp/prize/science/report/index_51_03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pecj.or.jp/wp-content/uploads/2021/03/JPEC_report_No.210302.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kyushu-u.ac.jp/ja/researches/view/496/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/green-steel-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/high-strength-steel-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bccresearch.com/pressroom/avm/global-green-steel-market-growing-fast-with-214-cagr?srsltid=AYCX9vL8seQ533ukx601Nji7vLO-0ZlI9XySJUf4WCu81wg8jv3nvCyX",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketdataforecast.com/market-reports/stainless-steel-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.factmr.com/report/structural-steel-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.24marketreports.com/chemicals-and-materials/global-hydrogen-resistant-steel-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.24chemicalresearch.com/download-sample/318529/hydrogen-embrittlement-resistant-steel-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maximizemarketresearch.com/market-report/hydrogen-valve-market/278530/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.swagelok.com/en/blog/avoid-hydrogen-embrittlement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lightsources.org/2024/05/10/understanding-stainless-steels-resistance-to-hydrogen-embrittlement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mdpi.com/2624-5558/6/3/34",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sintef.no/en/projects/2025/resisth2-robust-metal-barriers-for-safe-use-of-hydrogen-infrastructure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S1350630724000505",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://gtr.ukri.org/projects?ref=EP%2FL014742%2F1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mpg.de/24623335/stronger-and-safer-new-design-strategy-for-aluminium-combines-strength-with-hydrogen-embrittlement-resistance",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "水素脆化対策鋼・高圧水素材料 市場規模 年平均成長率",
+   "results": [
+    "https://newscast.jp/news/6379103",
+    "https://www.atpress.ne.jp/news/6379103",
+    "https://www.theinsightpartners.com/ja/reports/hydrogen-compressor-market",
+    "https://www.gminsights.com/ja/industry-analysis/hydrogen-market",
+    "https://straitsresearch.com/jp/report/hydrogen-compressor-market",
+    "https://jp.linkedin.com/pulse/%E6%97%A5%E6%9C%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%B0%B4%E7%B4%A0%E8%84%86%E5%8C%96%E6%95%91%E6%B8%88%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E5%B8%82%E5%A0%B4%E5%8B%95%E5%90%91-foundation-data-group-x4xqe",
+    "https://triton-hydrogen.com/jp/insight/%E5%9C%A7%E7%B8%AE%E6%B0%B4%E7%B4%A0%E3%82%AC%E3%82%B9%E8%B2%AF%E8%94%B5%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%82%B7%E3%82%A7%E3%82%A2-2022%E5%B9%B4-%E5%9C%B0%E5%9F%9F%E5%88%A5%E5%8B%95%E5%90%91/",
+    "https://www.mordorintelligence.com/ja/industry-reports/hydrogen-storage-materials-market",
+    "https://www.fortunebusinessinsights.com/jp/%E6%B0%B4%E7%B4%A0%E5%9C%A7%E7%B8%AE%E6%A9%9F%E5%B8%82%E5%A0%B4-105669",
+    "https://nakam.newscast.jp/smart/news/6379103"
+   ]
+  },
+  {
+   "query": "水素脆化対策鋼・高圧水素材料 市場 予測 富士経済 OR 矢野経済 OR シーエムシー",
+   "results": [
+    "https://www.atpress.ne.jp/news/6379103",
+    "https://www.jim.or.jp/journal/m/pdf3/56/03/230.pdf",
+    "https://www.jsme.or.jp/kaisi/1287-32/",
+    "https://www.sanyo-steel.co.jp/technology/images/pdf/22/22_3.pdf",
+    "https://connect.nissha.com/gassensor/blog/hydrogencrack/",
+    "https://www.khk.or.jp/hydrogen/erosion.html",
+    "https://www.kyushu-u.ac.jp/ja/researches/view/496/",
+    "https://jp.linkedin.com/pulse/%E6%97%A5%E6%9C%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%B0%B4%E7%B4%A0%E8%84%86%E5%8C%96%E6%95%91%E6%B8%88%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E5%B8%82%E5%A0%B4%E5%8B%95%E5%90%91-foundation-data-group-x4xqe",
+    "https://gakui.dl.itc.u-tokyo.ac.jp/cgi-bin/gazo.cgi?no=213202"
+   ]
+  },
+  {
+   "query": "水素脆化対策鋼・高圧水素材料 参入 企業 国内",
+   "results": [
+    "https://www.nipponsteel.com/product/catalog_download/pdf/P106.pdf",
+    "https://www.khk.or.jp/hydrogen/erosion.html",
+    "https://www.kobelcokaken.co.jp/contract/carbon_neutral/hydrogen_embrittlement.html",
+    "https://www.sgkz.or.jp/prize/science/report/index_51_03.html",
+    "https://www.pecj.or.jp/wp-content/uploads/2021/03/JPEC_report_No.210302.pdf",
+    "https://www.kyushu-u.ac.jp/ja/researches/view/496/",
+    "https://www.daido.co.jp/common/pdf/pages/technology/journal/95_1/05_technicaldata03_kudo.pdf",
+    "https://connect.nissha.com/gassensor/blog/hydrogencrack/",
+    "https://patents.google.com/patent/JP6089657B2/ja",
+    "https://www.kobelco.co.jp/r-d/technology-review/pdf/73_2/069-076.pdf"
+   ]
+  },
+  {
+   "query": "hydrogen embrittlement resistant steel market size CAGR 2025",
+   "results": [
+    "https://www.linkedin.com/pulse/medium-temperature-hydrogen-resistant-steel-market-analysis-dbe0e",
+    "https://market.us/report/green-steel-market/",
+    "https://www.grandviewresearch.com/industry-analysis/high-strength-steel-market",
+    "https://www.bccresearch.com/pressroom/avm/global-green-steel-market-growing-fast-with-214-cagr?srsltid=AYCX9vL8seQ533ukx601Nji7vLO-0ZlI9XySJUf4WCu81wg8jv3nvCyX",
+    "https://www.marketdataforecast.com/market-reports/stainless-steel-market",
+    "https://www.factmr.com/report/structural-steel-market",
+    "https://www.mordorintelligence.com/industry-reports/wear-resistant-steel-plate-market",
+    "https://www.fortunebusinessinsights.com/industry-reports/high-strength-steel-market-101854",
+    "https://www.mdpi.com/2075-4701/16/7/818",
+    "https://www.24chemicalresearch.com/reports/318529/hydrogen-embrittlement-resistant-steel-market"
+   ]
+  },
+  {
+   "query": "hydrogen embrittlement resistant steel market key players competitive landscape",
+   "results": [
+    "https://www.linkedin.com/pulse/medium-temperature-hydrogen-resistant-steel-market-analysis-dbe0e",
+    "https://www.24marketreports.com/chemicals-and-materials/global-hydrogen-resistant-steel-market",
+    "https://www.24chemicalresearch.com/download-sample/318529/hydrogen-embrittlement-resistant-steel-market",
+    "https://www.maximizemarketresearch.com/market-report/hydrogen-valve-market/278530/",
+    "https://www.swagelok.com/en/blog/avoid-hydrogen-embrittlement",
+    "https://lightsources.org/2024/05/10/understanding-stainless-steels-resistance-to-hydrogen-embrittlement/",
+    "https://eureka.patsnap.com/report-how-to-minimize-hydrogen-embrittlement-risks-in-acid-wash-applications",
+    "https://www.fike.com/knowledge-center/hydrogen-embrittlement/",
+    "https://www.fortunebusinessinsights.com/industry-reports/high-strength-steel-market-101854",
+    "https://dataintelo.com/report/hydrogen-embrittlement-resistant-steel-market"
+   ]
+  },
+  {
+   "query": "hydrogen embrittlement resistant steel startup funding 2025",
+   "results": [
+    "https://www.mdpi.com/2624-5558/6/3/34",
+    "https://www.swagelok.com/en/blog/avoid-hydrogen-embrittlement",
+    "https://www.sintef.no/en/projects/2025/resisth2-robust-metal-barriers-for-safe-use-of-hydrogen-infrastructure/",
+    "https://www.sciencedirect.com/science/article/abs/pii/S1350630724000505",
+    "https://gtr.ukri.org/projects?ref=EP%2FL014742%2F1",
+    "https://www.mpg.de/24623335/stronger-and-safer-new-design-strategy-for-aluminium-combines-strength-with-hydrogen-embrittlement-resistance",
+    "https://www.youtube.com/watch?v=SrM7zoBFsPE",
+    "https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/LP250100192",
+    "https://enkiai.com/hydrogen-in-steel-industry-top-10-projects-companies/",
+    "https://www.24chemicalresearch.com/reports/318529/hydrogen-embrittlement-resistant-steel-market"
+   ]
+  }
+ ],
+ "missing": {}
+}

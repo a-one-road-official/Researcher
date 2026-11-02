@@ -1,0 +1,1826 @@
+{
+ "name": "学究社",
+ "aliases": [],
+ "context": "証券コード9769／サービス業／プライム（内国株式）／2026.03期 売上高13,069百万円 営業利益率22.2%",
+ "researched_at": "2026-11-02T17:38:56.467803+00:00",
+ "official_url": "https://www.gakkyusha.com/",
+ "identified_by": "search:yahoo_jp:学究社",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1976年（昭和51年）10月6日",
+    "url": "https://www.gakkyusha.com/about/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "中学・高校・大学への受験指導を行う進学塾の運営",
+    "url": "https://www.gakkyusha.com/about/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "",
+    "url": "https://kitaishihon.com/company/9769/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "12,626,938 75,247 12,702,186 587,730 13,289,916 ― 13,289,916",
+    "url": "https://kitaishihon.com/company/9769/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部 売上高又は振替高",
+    "value": "2,250 90,632 92,882 263,383 356,265 △356,265 ―",
+    "url": "https://kitaishihon.com/company/9769/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "12,414,319 74,331 12,488,651 580,451 13,069,103 ― 13,069,103",
+    "url": "https://kitaishihon.com/company/9769/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部 売上高又は振替高",
+    "value": "4,320 90,627 94,947 104,415 199,363 △199,363 ―",
+    "url": "https://kitaishihon.com/company/9769/business",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "沿革": [
+   {
+    "quote": "2027年３月期 第２四半期決算説明会のご案内",
+    "url": "https://www.gakkyusha.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第１四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.gakkyusha.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 有価証券報告書",
+    "url": "https://www.gakkyusha.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年度エントリー受付中！",
+    "url": "https://www.gakkyusha.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2028年度インターンシップ",
+    "url": "https://www.gakkyusha.com/",
+    "pass": 1
+   },
+   {
+    "quote": "1976年（昭和51年）10月6日",
+    "url": "https://www.gakkyusha.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第２四半期決算説明会のご案内",
+    "url": "https://www.gakkyusha.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第１四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.gakkyusha.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 有価証券報告書",
+    "url": "https://www.gakkyusha.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 決算説明会資料",
+    "url": "https://www.gakkyusha.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "会社沿革 | 株式会社学究社",
+    "url": "https://www.gakkyusha.com/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1972年、国立の地に生徒5名の学習塾「国立学院」が誕生しました",
+    "url": "https://www.gakkyusha.com/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1987年にはニューヨーク校を開校、海外進出に先鞭をつけました",
+    "url": "https://www.gakkyusha.com/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月1日現在",
+    "url": "https://www.gakkyusha.com/about/%E5%BD%B9%E5%93%A1%E4%B8%80%E8%A6%A7/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 決算短信〔日本基準〕(連結)",
+    "url": "https://www.gakkyusha.com/ir/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 期末決算説明会のご案内",
+    "url": "https://www.gakkyusha.com/ir/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 第３四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.gakkyusha.com/ir/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 中間期決算説明会資料",
+    "url": "https://www.gakkyusha.com/ir/page/3/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 第２四半期(中間期)決算短信〔日本基準〕(連結)",
+    "url": "https://www.gakkyusha.com/ir/page/3/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 第２四半期(中間期)決算説明会のご案内",
+    "url": "https://www.gakkyusha.com/ir/page/3/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 第１四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.gakkyusha.com/ir/page/3/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年３月期 有価証券報告書",
+    "url": "https://www.gakkyusha.com/ir/page/3/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年３月期 決算説明会資料",
+    "url": "https://www.gakkyusha.com/ir/page/3/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年３月期 期末決算説明会のご案内",
+    "url": "https://www.gakkyusha.com/ir/page/4/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年３月期 決算短信〔日本基準〕(連結)",
+    "url": "https://www.gakkyusha.com/ir/page/4/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年３月期 第３四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.gakkyusha.com/ir/page/4/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年３月期 中間期決算説明会資料",
+    "url": "https://www.gakkyusha.com/ir/page/4/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年３月期 第２四半期(中間期)決算短信〔日本基準〕(連結)",
+    "url": "https://www.gakkyusha.com/ir/page/4/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年３月期 第２四半期決算説明会のご案内",
+    "url": "https://www.gakkyusha.com/ir/page/5/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年３月期 第１四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.gakkyusha.com/ir/page/5/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年３月期 有価証券報告書",
+    "url": "https://www.gakkyusha.com/ir/page/5/",
+    "pass": 1
+   },
+   {
+    "quote": "平成17年度3月期 決算短信(連結)",
+    "url": "https://www.gakkyusha.com/ir/page/33/",
+    "pass": 1
+   },
+   {
+    "quote": "平成17年度3月期 決算短信を発表いたしました",
+    "url": "https://www.gakkyusha.com/ir/page/33/",
+    "pass": 1
+   },
+   {
+    "quote": "平成17年度3月期 個別財務諸表の概要",
+    "url": "https://www.gakkyusha.com/ir/page/33/",
+    "pass": 1
+   },
+   {
+    "quote": "平成16年3月期 決算説明資料",
+    "url": "https://www.gakkyusha.com/ir/page/33/",
+    "pass": 1
+   },
+   {
+    "quote": "平成17年度3月期 中間決算短信",
+    "url": "https://www.gakkyusha.com/ir/page/33/",
+    "pass": 1
+   },
+   {
+    "quote": "平成16年度3月期 決算短信(連結)",
+    "url": "https://www.gakkyusha.com/ir/page/33/",
+    "pass": 1
+   },
+   {
+    "quote": "平成16年度3月期 決算短信を発表いたしました",
+    "url": "https://www.gakkyusha.com/ir/page/33/",
+    "pass": 1
+   },
+   {
+    "quote": "平成16年度3月期 個別財務諸表の概要",
+    "url": "https://www.gakkyusha.com/ir/page/33/",
+    "pass": 1
+   },
+   {
+    "quote": "平成16年度3月期 中間決算短信(連結)",
+    "url": "https://www.gakkyusha.com/ir/page/33/",
+    "pass": 1
+   },
+   {
+    "quote": "平成16年度3月期 中間決算短信を発表いたしました",
+    "url": "https://www.gakkyusha.com/ir/page/33/",
+    "pass": 1
+   },
+   {
+    "quote": "平成16年度3月期 個別中間財務諸表の概要",
+    "url": "https://www.gakkyusha.com/ir/page/33/",
+    "pass": 1
+   },
+   {
+    "quote": "平成15年度3月期 決算短信(連結)",
+    "url": "https://www.gakkyusha.com/ir/page/33/",
+    "pass": 1
+   },
+   {
+    "quote": "平成15年度3月期 決算短信を発表いたしました",
+    "url": "https://www.gakkyusha.com/ir/page/33/",
+    "pass": 1
+   },
+   {
+    "quote": "平成15年度3月期 個別財務諸表の概要",
+    "url": "https://www.gakkyusha.com/ir/page/33/",
+    "pass": 1
+   },
+   {
+    "quote": "平成15年度3月期 中間決算短信(連結)",
+    "url": "https://www.gakkyusha.com/ir/page/33/",
+    "pass": 1
+   },
+   {
+    "quote": "平成15年度3月期 中間決算短信を発表いたしました",
+    "url": "https://www.gakkyusha.com/ir/page/33/",
+    "pass": 1
+   },
+   {
+    "quote": "平成15年度3月期 個別中間財務諸表の概要",
+    "url": "https://www.gakkyusha.com/ir/page/33/",
+    "pass": 1
+   },
+   {
+    "quote": "平成14年度3月期 決算短信(連結)",
+    "url": "https://www.gakkyusha.com/ir/page/33/",
+    "pass": 1
+   },
+   {
+    "quote": "平成14年度3月期 決算短信を発表いたしました",
+    "url": "https://www.gakkyusha.com/ir/page/33/",
+    "pass": 1
+   },
+   {
+    "quote": "平成14年度3月期 個別財務諸表の概要",
+    "url": "https://www.gakkyusha.com/ir/page/33/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年３月期 決算説明会資料",
+    "url": "https://www.gakkyusha.com/ir/page/6/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年３月期 決算短信〔日本基準〕(連結)",
+    "url": "https://www.gakkyusha.com/ir/page/6/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年３月期 期末決算説明会のご案内",
+    "url": "https://www.gakkyusha.com/ir/page/6/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年３月期 第３四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.gakkyusha.com/ir/page/6/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年３月期 第２四半期決算説明会資料",
+    "url": "https://www.gakkyusha.com/ir/page/6/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年３月期 第２四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.gakkyusha.com/ir/page/6/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年３月期 第２四半期決算説明会のご案内",
+    "url": "https://www.gakkyusha.com/ir/page/7/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年３月期第１四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.gakkyusha.com/ir/page/7/",
+    "pass": 1
+   },
+   {
+    "quote": "平成20年3月期 第1四半期 財務・業績の概況",
+    "url": "https://www.gakkyusha.com/ir/page/32/",
+    "pass": 1
+   }
+  ],
+  "何を": [
+   {
+    "quote": "・株式会社インターエデュ・ドットコム（インターネットによる受験、教育情報の配信サービス提供）",
+    "url": "https://www.gakkyusha.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "当該サービスの設備を利用した社内の授業点検を同時に実施すること",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "インターネットによる受験、教育情報の配信サービス事業等につきましては、広告関連売上につきましては、",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "人材サービス売上につきましては、塾訪問",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サービスの需要が関西をはじめとする他地域や大学へと拡大し、契約校数が増加したことにより、前年同期と比",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品 45,857 42,399",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "情報の配信サービス事業等を含んでおります",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【根拠条文】 金融商品取引法第24条第１項",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その他の事業としては、インターネットによる受験、教育情報の配信サービス事業等を行っております",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報の配信サービス提供 その他 バナー広告の掲載等",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サポートサービス 人材派遣紹介業 同上 不動産の転借等",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ドットコム 東京都新宿区 40,000 インターネットによる受験、教育情報の配信サービス提供 100.0 当社のバナー広告掲載等役員兼任 ３名",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サポートサービス 同上 20,000 人材派遣紹介業 100.0(100.0) 当社からの不動産転借等",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、当社グループは、学習塾業界のサービスの本質である「質の高い授業の実践」と「合格実績」に徹底的",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "教育サービスの質の向上と地域社会との信頼関係の強化は、当社グループの持続的な成長に不可欠な要素と認識し",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "教育サービスの質は、講師及びスタッフ一人ひとりの能力と成長に支えられるとの認識のもと、授業力・面談",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "特に教育サービスの品質低下や社会的信頼の毀損は重大な事業リスクと捉え、全社的に継続的な対応策を講じて",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サービス）の本質である「授業の質」と「合格実績」を徹底的に追求し、生徒・保護者様を始めとする地域社会",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、教育サービスの特性上、自然災害や事故等により生徒の安全が脅かされるリスクに直面して",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、「ネット授業参観」のサービスを校舎及び合宿場に導入し、教育活動の透明",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の一環として、すべての授業や合宿の様子を保護者様がネットでリアルタイムに確認することができるサービス",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当該サービスの設備を利用した社内の授業点検を同時に実施することによ",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "インターネットによる受験、教育情報の配信サービス事業等につきましては、広告関連売上につきましては、一",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "般企業等法人は前年同期と比較して減少したものの、学校法人関連は新規アプリ及びバナー商品の売上高が伸長し",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "人材サービス売上につきましては、塾訪問サービスの需要",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "種類 事業年度末現在発行数(株)(2026年３月31日) 提出日現在発行数(株)(2026年６月25日) 上場金融商品取引所名又は登録認可金融商品取引業協会名 内容",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金融機関 金融商品取引業者 その他の法人 外国法人等 個人その他 計個人以外 個人",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "社外取締役については、金融商品取引所が定める独立性基準に加え、以下の選任基準を設けております",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、当社グループの事業活動においては、授業を直接担当する時間講師が教育サービスの質を支える重要な",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、金融商品取引法第193条の２第１項の規定に基づき、連結会計年度(2025年４月１日から2026年３月31日ま",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品 51,990 45,857",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株式会社エデュケーターサポートサービス",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "東京証券取引所ウェブサイト（東証上場会社情報サービス）",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/f990cdf64db659f0886bff2ae4dd0aba.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※インターネットのご利用環境、ご加入のサービスやご使用の機種によっては、議決権行使ウェブサイトが利用できない場合があります",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/f990cdf64db659f0886bff2ae4dd0aba.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ことができるサービス「ネット授業参観」を導入しております",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/f990cdf64db659f0886bff2ae4dd0aba.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当該サービスの設備を利用した社内の授業",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/f990cdf64db659f0886bff2ae4dd0aba.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の教育サービスの強みの一つである合宿については、季節講習の一環として、夏期に従来の５泊６日を",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/f990cdf64db659f0886bff2ae4dd0aba.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "インターネットによる受験、教育情報の配信サービス事業等につきましては、広告関連売上につきまし",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/f990cdf64db659f0886bff2ae4dd0aba.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ては、一般企業等法人は前年同期と比較して減少したものの、学校法人関連は新規アプリ及びバナー商品",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/f990cdf64db659f0886bff2ae4dd0aba.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "人材サービス売上につ",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/f990cdf64db659f0886bff2ae4dd0aba.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "きましては、塾訪問サービスの需要が関西をはじめとする他地域や大学へと拡大し、契約校数が増加した",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/f990cdf64db659f0886bff2ae4dd0aba.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "40,000 100 ％ インターネットによる受験、教育情報の配信サービス提供",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/f990cdf64db659f0886bff2ae4dd0aba.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2．当社と会計監査人との間の監査契約において、会社法上の監査に対する報酬等の額と金融商品取引法上の監査に対する報酬等",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/f990cdf64db659f0886bff2ae4dd0aba.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品 45,857 51,990",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/f990cdf64db659f0886bff2ae4dd0aba.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品 37,270 39,968",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/f990cdf64db659f0886bff2ae4dd0aba.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・株式会社エデュケーターサポートサービス",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/62f88f9bcbc483a05b2fb16f1e95f0dd.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品、貯蔵品",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/62f88f9bcbc483a05b2fb16f1e95f0dd.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "［金融商品に関する注記］",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/62f88f9bcbc483a05b2fb16f1e95f0dd.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1．金融商品の状況に関する事項",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/62f88f9bcbc483a05b2fb16f1e95f0dd.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（1）金融商品に対する取組方針",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/62f88f9bcbc483a05b2fb16f1e95f0dd.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは 、主に進学塾による授業等のサービス提供を行うための設備投資計画に基づき 、必要な",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/62f88f9bcbc483a05b2fb16f1e95f0dd.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（2）金融商品の内容及び当該金融商品に関するリスク",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/62f88f9bcbc483a05b2fb16f1e95f0dd.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（3）金融商品に関する管理体制",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/62f88f9bcbc483a05b2fb16f1e95f0dd.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（4）金融商品の時価等に関する事項についての補足説明",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/62f88f9bcbc483a05b2fb16f1e95f0dd.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金融商品の時価には、市場価格に基づく価額のほか 、市場価格がない場合には合理的に算定された価額",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/62f88f9bcbc483a05b2fb16f1e95f0dd.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2．金融商品の時価等に関する事項",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/62f88f9bcbc483a05b2fb16f1e95f0dd.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3. 金融商品の時価のレベル ごとの内訳等に関する事項",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/62f88f9bcbc483a05b2fb16f1e95f0dd.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金融商品の時価を 、時価の算定に用いたインプットの観察可能性及び重要性に応じて 、以下の３つのレ",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/62f88f9bcbc483a05b2fb16f1e95f0dd.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注） 「その他」の区分は報告セグメントに含まれない事業セグメントであり 、インターネットによる受験 、教育情報の配信サービス事",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/62f88f9bcbc483a05b2fb16f1e95f0dd.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "首都圏を中心に「ena」ブランドで進学塾を運営する教育サービス企業",
+    "url": "https://envalith.com/ja/companies/9769/overview",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "「指名委員会等設置会社」（旧 委員会設置会社）へ移行",
+    "url": "https://www.gakkyusha.com/about/history/",
+    "pass": 1
+   },
+   {
+    "quote": "指名委員、報酬委員",
+    "url": "https://www.gakkyusha.com/about/%E5%BD%B9%E5%93%A1%E4%B8%80%E8%A6%A7/",
+    "pass": 1
+   },
+   {
+    "quote": "指名委員、報酬委員、監査委員",
+    "url": "https://www.gakkyusha.com/about/%E5%BD%B9%E5%93%A1%E4%B8%80%E8%A6%A7/",
+    "pass": 1
+   },
+   {
+    "quote": "指名委員、監査委員",
+    "url": "https://www.gakkyusha.com/about/%E5%BD%B9%E5%93%A1%E4%B8%80%E8%A6%A7/",
+    "pass": 1
+   },
+   {
+    "quote": "日比谷晴海通り法律事務所パートナー",
+    "url": "https://www.gakkyusha.com/about/%E5%BD%B9%E5%93%A1%E4%B8%80%E8%A6%A7/",
+    "pass": 1
+   },
+   {
+    "quote": "2003年６月 委員会設置会社（現 指名委員会等設置会社）に移行",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サポートサービス 人材派遣紹介業 同上 不動産の転借等",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サポートサービス 同上 20,000 人材派遣紹介業 100.0(100.0) 当社からの不動産転借等",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ひいては継続的な企業価値の向上を目的として、2003年６月開催の第28回定時株主総会の承認を経て指名委員会",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "会社法関連法令に基づく指名委員会等設置会社制を採用しております",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名委員会、報酬委員会及び監査委員会は原則月１回開催され、指名・報酬・監査の各委員会が取締役会と密",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "[指名委員会]",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の指名委員会は、社外取締役２名及び社内取締役１名で構成されており、過半数を社外取締役で構成する",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ことにより、指名の適正性を確保する体制としております",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名委員会における付議事項としては、株主総会に",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "上記のとおり、当社は指名委員会等設置会社制を採用しております",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名委員会等設置会社は、経営の監督と",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "と、社外取締役を過半数とする指名・報酬・監査の三委員会の設置による一層の経営の監督機能の強化及び透明",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⑧ 指名委員会の活動状況",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当事業年度において当社は指名委員会を原則月１回開催しており、個々の指名委員の出席状況については次の",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注)２ 瀬藤光利氏は、2026年３月より指名委員に就任しております",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名委員会における具体的な検討内容として、株主総会に提出する取締役選任・解任議案の内容を決定したほ",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名委員 栗 﨑 篤 史 1976年２月６日",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注)３ 当社は指名委員会等設置会社であります",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名委員会：委員長 栗﨑篤史 委員 永谷喜一郎 委員 瀬藤光利",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名委員会：委員長 河端真一 委員 瀬藤光利 委員 松井彬",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３名の社外取締役は、監査委員会以外に、指名委員",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "員補助者を指名し、監査委員補助者は監査委員の指揮命令のもと、監査委員と同等の権限を持ち調査を行うもの",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社指名委員兼報酬委員",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/f990cdf64db659f0886bff2ae4dd0aba.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024 年 ６ 月 当社指名委 員（現任）",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/f990cdf64db659f0886bff2ae4dd0aba.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社指名委員兼監査委員兼報酬委員",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/f990cdf64db659f0886bff2ae4dd0aba.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "日比谷晴海通り法律事務所パートナー",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/f990cdf64db659f0886bff2ae4dd0aba.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "20,000 100 ％ 人材派遣紹介業",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/f990cdf64db659f0886bff2ae4dd0aba.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取締役兼代表執行役社長COO 栗 﨑 篤 史 指名委 員",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/f990cdf64db659f0886bff2ae4dd0aba.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取 締 役 永 谷 喜一郎 指名委員、監査委員株式会社営洋代表取締役",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/f990cdf64db659f0886bff2ae4dd0aba.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=9769",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=9769",
+    "pass": 3
+   },
+   {
+    "quote": "人材派遣紹介業",
+    "url": "https://kitaishihon.com/company/9769/business",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "いく収益構造となっております",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://envalith.com/ja/companies/9769/overview",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "外部顧客への売上高 2,287,569 38,255 2,325,824 115,679 2,441,504 ― 2,441,504",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 2,207,696 39,575 2,247,271 123,116 2,370,388 ― 2,370,388",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループでは、市場のニーズや顧客の動向、進学塾としてのあり方を模索しながら、今後の見通しを踏まえて、",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・過去５年間において、当社の主要取引先（連結売上高の５％以上を占める販売先又は連結営業費用の５％",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社及び連結子会社の顧客との契約から生じる収益に関する主要な事業における主な履行義務の内容及び当該履",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客である生徒に対して授業を提供することを履行義務としており、顧客との契約に基づく受講期間において",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "すると、連結計算書類の利用者の意思決定に影響を与えると合理的に見込まれる場合に 、重要性があると判断",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/f990cdf64db659f0886bff2ae4dd0aba.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "と、計算書類等の利用者の意思決定に影響を与えると合理的に見込まれる場合に 、重要性があると判断され",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/f990cdf64db659f0886bff2ae4dd0aba.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社及び連結子会社の顧客との契約から生じる収益に関する主要な事業における主な履行義務の内容",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/62f88f9bcbc483a05b2fb16f1e95f0dd.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客である生徒に対して授業を提供することを履行義務としており 、顧客との契約に基づく受講期間に",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/62f88f9bcbc483a05b2fb16f1e95f0dd.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業債権である売掛金は 、顧客の信用リスクに晒されております",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/62f88f9bcbc483a05b2fb16f1e95f0dd.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、営業債権及び差入保証金について 、管理本部において取引先の状況を定期的にモニタリング",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/62f88f9bcbc483a05b2fb16f1e95f0dd.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1．顧客との契約から生じる収益を分解した情報",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/62f88f9bcbc483a05b2fb16f1e95f0dd.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益 12,414,319 − 12,414,319 502,987 1 2,917,307",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/62f88f9bcbc483a05b2fb16f1e95f0dd.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 12,414,319 7 4,331 1 2,488,651 5 80,451 1 3,069,103",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/62f88f9bcbc483a05b2fb16f1e95f0dd.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2．顧客との契約から生じる収益を理解するための基礎となる情報",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/62f88f9bcbc483a05b2fb16f1e95f0dd.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じた債権（期首残高） 71,814",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/62f88f9bcbc483a05b2fb16f1e95f0dd.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じた債権（期末残高） 61,387",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/62f88f9bcbc483a05b2fb16f1e95f0dd.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "契約負債は、翌月以降に顧客へ提供する授業に関する授業料等の前受金であります",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/62f88f9bcbc483a05b2fb16f1e95f0dd.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、顧客との契約から受",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/62f88f9bcbc483a05b2fb16f1e95f0dd.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の顧客との契約から生じる収益に関する主要な事業における主な履行義務の内容及び当該履行義務を",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/62f88f9bcbc483a05b2fb16f1e95f0dd.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客である生徒に対して授業を提供することを履行義務としており 、顧客との契約に基づく受講期間にお",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/62f88f9bcbc483a05b2fb16f1e95f0dd.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益を理解するための基礎となる情報は 、連結注記表「 ［収益認識に関する注記］ 」に",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/62f88f9bcbc483a05b2fb16f1e95f0dd.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主要顧客は首都圏在住の小学生・中学生・高校生とその保護者",
+    "url": "https://envalith.com/ja/companies/9769/overview",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高",
+    "url": "https://kitaishihon.com/company/9769/business",
+    "pass": 3
+   },
+   {
+    "quote": "単一の商品・サービスの区分の外部顧客への売上高が連結損益計算書の売上高の90％を超えるため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/9769/business",
+    "pass": 3
+   },
+   {
+    "quote": "本邦の外部顧客への売上高が連結損益計算書の売上高の90％を超えるため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/9769/business",
+    "pass": 3
+   },
+   {
+    "quote": "３ 主要な顧客ごとの情報",
+    "url": "https://kitaishihon.com/company/9769/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高のうち、連結損益計算書の売上高の10％以上を占める相手先がないため、記載はありません",
+    "url": "https://kitaishihon.com/company/9769/business",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/9769/business",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "（セグメント情報等の注記） …………………………………………………………………………………９",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの業績を示すと、次のとおりであります",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、セグメント別の売上高はセグメント間の内部取引消",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、当第１四半期連結会計期間より、報告セグメントの区分を変更しており、前年同期との比較・分析は変更",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．報告セグメントごとの売上高及び利益又は損失の金額に関する情報",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント その他",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 △94,277 19,987 △74,290 37,206 △37,083 623 △36,460",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注) １．「その他」の区分は報告セグメントに含まれない事業セグメントであり、インターネットによる受験、教育",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益の調整額623千円は、主にセグメント間取引消去によるものであります",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．セグメント利益は、四半期連結損益計算書の営業利益と調整を行っております",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．報告セグメントごとの固定資産の減損損失又はのれん等に関する情報",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「教育事業」セグメントにおいて、50,417千円の減損損失を計上しております",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 △66,699 19,960 △46,738 18,458 △28,280 861 △27,419",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益の調整額861千円は、主にセグメント間取引消去によるものであります",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．報告セグメントの変更等に関する情報",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "いた連結子会社１社のセグメント区分を「不動産事業」に変更しております",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、前第１四半期連結累計期間のセグメント情報については変更後の区分により作成したものを記載してお",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．報告セグメントごとの固定資産の減損損失又はのれん等に関する情報",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「教育事業」セグメントにおいて、5,323千円の減損損失を計上しております",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループ（当社及び当社の関係会社）の事業内容及び当社と関係会社との取引関係及びセグメントとの関連は",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "以下に示す区分は、セグメントと同一の区分であります",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "会社名 事業内容 セグメントの名称 当社との取引関係",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの業績を示すと、次のとおりであります",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、セグメント別の売上高はセグメント間の内部取引消去",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(業績等の概要)におけるセグメントの業績をご参照ください",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別の内訳は、教育事業 282,881千円、不動産事業567千円、その他23,895千円、調整額△ 552千円でありま",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "会社名 事業所名(所在地) セグメントの名称 設備の内容 投資予定額 資金調達方法 着手年月 完了予定年月総額",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの名称 従業員数(名)",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２ 全社(共通)として記載している従業員数は、特定のセグメントに区分できない管理部門所属のものでありま",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３ 全社(共通)として記載している従業員数は、特定のセグメントに区分できない管理部門所属のものでありま",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメントごとの売上高",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/f3137ff90dc418088c16f0c8fce466a6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※セグメント間取引消去前数値",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/f3137ff90dc418088c16f0c8fce466a6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⾦額 構成比 ⾦額 構成比 増減額",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/f3137ff90dc418088c16f0c8fce466a6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの業績を示すと、次のとおりであります",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/f990cdf64db659f0886bff2ae4dd0aba.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、セグメント別の売上高はセグメント間の内部",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/f990cdf64db659f0886bff2ae4dd0aba.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント その他（注）",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/62f88f9bcbc483a05b2fb16f1e95f0dd.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注） 「その他」の区分は報告セグメントに含まれない事業セグメントであり 、インターネットによる受験 、教育情報の配信サービス事",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/62f88f9bcbc483a05b2fb16f1e95f0dd.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業セグメント別の売上構成と業績詳細",
+    "url": "https://envalith.com/ja/companies/9769/overview",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/9769/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/9769/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/9769/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/9769/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/9769/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/9769/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループ（当社及び当社の関係会社）の事業内容及び当社と関係会社との取引関係及びセグメントとの関連は次のとおりであります",
+    "url": "https://kitaishihon.com/company/9769/business",
+    "pass": 3
+   },
+   {
+    "quote": "以下に示す区分は、セグメントと同一の区分であります",
+    "url": "https://kitaishihon.com/company/9769/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://kitaishihon.com/company/9769/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの業績を示すと、次のとおりであります",
+    "url": "https://kitaishihon.com/company/9769/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、セグメント別の売上高はセグメント間の内部取引消去前の金額によっております",
+    "url": "https://kitaishihon.com/company/9769/business",
+    "pass": 3
+   },
+   {
+    "quote": "(業績等の概要)におけるセグメントの業績をご参照ください",
+    "url": "https://kitaishihon.com/company/9769/business",
+    "pass": 3
+   },
+   {
+    "quote": "(セグメント情報等)",
+    "url": "https://kitaishihon.com/company/9769/business",
+    "pass": 3
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://kitaishihon.com/company/9769/business",
+    "pass": 3
+   },
+   {
+    "quote": "１．報告セグメントの概要",
+    "url": "https://kitaishihon.com/company/9769/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの報告セグメントは、当社グループの構成単位のうち分離された財務情報が入手可能であり、取締役会が経営資源の配分の決定及び業績を評価するために、定期的に検討を行う対象となっているものであります",
+    "url": "https://kitaishihon.com/company/9769/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループはサービス別のセグメントから構成されており、「教育事業」「不動産事業」の２つの報告セグメントとしております",
+    "url": "https://kitaishihon.com/company/9769/business",
+    "pass": 3
+   },
+   {
+    "quote": "２．報告セグメントごとの売上高、利益又は損失、資産、負債その他の項目の金額の算定方法",
+    "url": "https://kitaishihon.com/company/9769/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告されている事業セグメントの会計処理の方法は、「連結財務諸表作成のための基本となる重要な事項」における記載と概ね同一であります",
+    "url": "https://kitaishihon.com/company/9769/business",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "高校授業料の支援も拡充された影響もあり、当社の強みとする都立中・都立高を目指す生徒数が減少していること",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、当社の強みの一つである合宿への需要の高まりを受け、当第１四半期連結累計期間において、清里合宿場",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "小中学生部門（ena小中学部）につきましては、当社の強みとする都立中・都立高を目指す生徒数が減少してい",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、本業での収益性を表す指標として売上高営業利益率を重視しております",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "した2028年３月期までの３ヵ年を計画期間とする中期経営計画では、売上高営業利益率20.0％を継続的に上回る",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当連結会計年度の売上高営業利益率は22.2％となり、計画を上回る結果となりました",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "一方で、東京都における私立高校の授業料実質無償化の拡充を受けて、当社の強みとする都立中・都立高を",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "た指導ノウハウと、東京都内で確立した都立中高一貫校・都立難関高合格実績No.１の強みを活かし、前連結会",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(2) 参入障壁の低い業界",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "学習塾業界の特徴としまして、参入障壁が低いことが挙げられます",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "収益面におきましては、東京都による私立高校授業料の実質無償化拡充の影響もあり、当社の強みとする都立中・",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "スの強みの一つである合宿については、季節講習の一環として、 夏期に従来の５泊６日を10泊11日へ拡充したほか、",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "質無償化拡充の影響を受けて、当社の強みとする都立中・都立高を目指す生徒数が減少したことによるものであ",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、売上高営業利益率は前連結会計年度の19.7％から2.5ポイ",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Ⅳ 当社の強み",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/f3137ff90dc418088c16f0c8fce466a6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・東京都による私⽴高校授業料の実質無償化拡充の影響もあり、当社の強みとする",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/f3137ff90dc418088c16f0c8fce466a6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "連結営業利益（百万円）と営業利益率（ %）",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/f3137ff90dc418088c16f0c8fce466a6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "収益面におきましては、東京都による私立高校授業料の実質無償化拡充の影響もあり、当社の強みとする",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/f990cdf64db659f0886bff2ae4dd0aba.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の教育サービスの強みの一つである合宿については、季節講習の一環として、夏期に従来の５泊６日を",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/f990cdf64db659f0886bff2ae4dd0aba.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「ena」ブランドを軸に、都立中高一貫校・都立難関高受験指導を強みとし、首都圏（東京・千葉・埼玉）を中心に小中学部・個別指導・大学受験部門を展開する",
+    "url": "https://envalith.com/ja/companies/9769/overview",
+    "pass": 3
+   },
+   {
+    "quote": "22%超の高い売上高営業利益率と過去最高益の達成",
+    "url": "https://envalith.com/ja/companies/9769/overview",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期の売上高営業利益率は22.2%（前期比2.5ポイント上昇）となり、中期経営計画目標の20.0%超を上回った",
+    "url": "https://envalith.com/ja/companies/9769/overview",
+    "pass": 3
+   },
+   {
+    "quote": "東京都による私立高校授業料の実質無償化拡充に加え、2026年4月からは国による私立高校授業料支援も拡充されたことで、同社の強みである都立中・都立高志向の生徒数が減少している",
+    "url": "https://envalith.com/ja/companies/9769/overview",
+    "pass": 3
+   },
+   {
+    "quote": "収益面におきましては、東京都による私立高校授業料の実質無償化拡充の影響もあり、当社の強みとする都立中・都立高を目指す生徒数が減少したことから、売上高は前年同期と比較して減少しました",
+    "url": "https://kitaishihon.com/company/9769/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社の教育サービスの強みの一つである合宿については、季節講習の一環として、",
+    "url": "https://kitaishihon.com/company/9769/business",
+    "pass": 3
+   },
+   {
+    "quote": "これは主に、東京都による私立高校授業料の実質無償化拡充の影響を受けて、当社の強みとする都立中・都立高を目指す生徒数が減少したことによるものであります",
+    "url": "https://kitaishihon.com/company/9769/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、売上高営業利益率は前連結会計年度の19.7％から2.5ポイント上昇し22.2％となり、計画を上回る結果となりました",
+    "url": "https://kitaishihon.com/company/9769/business",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "① 【ストックオプション制度の内容】",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "学究社 （9769）の企業概要 | ENVALITH — 学究社 （9769）の企業概要 | ENVALITH ENVALITH https://envalith.com > companies > overview",
+    "url": "https://envalith.com/ja/companies/9769/overview",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内 | 株式会社 学究社 — 会社案内 | 株式会社 学究社 株式会社学究社 https://www.gakkyusha.com > about",
+    "url": "https://www.gakkyusha.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "【平均年収487万円】 学究社 転職ガイド：知っておきたい給与 ... — 【平均年収487万円】 学究社 転職ガイド：知っておきたい給与 ... corp-research.jp https://corp-research.jp > 有報転職ガイド",
+    "url": "https://corp-research.jp/articles/9887",
+    "pass": 3
+   },
+   {
+    "quote": "(株) 学究社 （進学塾ena、ena美術、ena看護）【東証プライム ... — (株) 学究社 （進学塾ena、ena美術、ena看護）【東証プライム ... マイナビ https://job.mynavi.jp > search > corp88099 > employment",
+    "url": "https://job.mynavi.jp/28/pc/search/corp88099/employment.html",
+    "pass": 3
+   },
+   {
+    "quote": "CP[（株） 学究社 ] - C&A CP システム — CP[（株） 学究社 ] - C&A CP システム cp-canda.net https://cp-canda.net > view",
+    "url": "https://cp-canda.net/index.php?url=companies/view/9769",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 | 株式会社 学究社 — IR情報 | 株式会社 学究社 株式会社学究社 https://www.gakkyusha.com > ...",
+    "url": "https://www.gakkyusha.com/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "【 学究社 】[9769]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 学究社 】[9769]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=9769",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3  期 決算説明 会 資料 株式会社 学究社 — 2026年3  期 決算説明 会 資料 株式会社 学究社 株式会社学究社 PDF https://www.gakkyusha.com > uploads > 2026/06",
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/f3137ff90dc418088c16f0c8fce466a6.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "学究社 のIR 資料 - 9769 / プライム / サービス業 — 学究社 のIR 資料 - 9769 / プライム / サービス業 バフェット・コード https://www.buffett-code.com > company > library",
+    "url": "https://www.buffett-code.com/company/9769/library",
+    "pass": 3
+   },
+   {
+    "quote": "学究社 【9769】の 事業 内容 - キタイシホン — 学究社 【9769】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/9769/business",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 学究社 - SalesNow — 株式会社 学究社 - SalesNow SalesNow https://salesnow.jp > トップ > 都道府県 > 東京都",
+    "url": "https://salesnow.jp/db/companies/jcb8j2w1dk3crcxbg",
+    "pass": 3
+   },
+   {
+    "quote": "(株) 学究社 （進学塾ena、ena美術、ena看護）【東証プライム ... — (株) 学究社 （進学塾ena、ena美術、ena看護）【東証プライム ... マイナビ https://job.mynavi.jp > search > corp88099 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp88099/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "代表者挨拶 | 株式会社 学究社 — 代表者挨拶 | 株式会社 学究社 株式会社学究社 https://www.gakkyusha.com > interview",
+    "url": "https://www.gakkyusha.com/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "学究社 、 社長 交代を内定 43歳の齊藤浩太氏が新 社長 に就任へ — 学究社 、 社長 交代を内定 43歳の齊藤浩太氏が新 社長 に就任へ 月刊私塾界 https://www.shijyukukai.jp > 2026/06",
+    "url": "https://www.shijyukukai.jp/2026/06/30230",
+    "pass": 3
+   },
+   {
+    "quote": "学究社社長 に斉藤浩太氏 - 日本経済新聞 — 学究社社長 に斉藤浩太氏 - 日本経済新聞 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXZQODZ00021_R00C26A6000000/",
+    "pass": 3
+   },
+   {
+    "quote": "学究社 、 社長 に斉藤浩太氏 | 日刊工業新聞 電子版 — 学究社 、 社長 に斉藤浩太氏 | 日刊工業新聞 電子版 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/784164",
+    "pass": 3
+   },
+   {
+    "quote": "学究社 【9769】の 社長 ・役員 - キタイシホン — 学究社 【9769】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/9769/board-of-director",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.gakkyusha.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gakkyusha.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gakkyusha.com/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gakkyusha.com/about/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gakkyusha.com/about/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gakkyusha.com/about/%E5%BD%B9%E5%93%A1%E4%B8%80%E8%A6%A7/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gakkyusha.com/about/%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gakkyusha.com/ir/page/2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gakkyusha.com/ir/page/3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gakkyusha.com/ir/page/4/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gakkyusha.com/ir/page/5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gakkyusha.com/ir/page/33/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gakkyusha.com/ir-bp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gakkyusha.com/ir/epn/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/matsui_akira2.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.gakkyusha.com/ir/page/6/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gakkyusha.com/ir/page/7/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gakkyusha.com/ir/page/32/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gakkyusha.com/ir/page/29/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gakkyusha.com/ir/page/30/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gakkyusha.com/ir/page/31/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gakkyusha.com/ir/page/8/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gakkyusha.com/ir/page/9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gakkyusha.com/ir/page/28/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gakkyusha.com/ir/page/27/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/10/d4cf9d6eb0cfc5d8fad21d0626b3f3d7.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/08/Summary-Consolidated-Financial-Results-for-the-Three-Months-Ended-June-30-2026-Under-Japanese-GAAP.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/07/0713f350e1e3877738214d8fd0d26dcc.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/f3137ff90dc418088c16f0c8fce466a6.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/f990cdf64db659f0886bff2ae4dd0aba.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.gakkyusha.com/wp-content/uploads/2026/06/62f88f9bcbc483a05b2fb16f1e95f0dd.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://envalith.com/ja/companies/9769/overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=9769",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/9769/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shijyukukai.jp/2026/06/30230",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "学究社",
+   "results": [
+    "https://www.gakkyusha.com/about/",
+    "https://www.gakkyusha.com/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=9769",
+    "https://job.mynavi.jp/27/pc/search/corp88099/outline.html",
+    "https://en-hyouban.com/company/10007640628/",
+    "https://job.career-tasu.jp/corp/00011756/",
+    "https://ja.wikipedia.org/wiki/Ena_(%E4%BA%88%E5%82%99%E6%A0%A1)",
+    "https://www.ena.co.jp/",
+    "https://ja.wikipedia.org/wiki/学究社",
+    "https://ja.wikipedia.org/wiki/Ena_(予備校)"
+   ]
+  },
+  {
+   "query": "学究社 ビジネスモデル",
+   "results": [
+    "https://envalith.com/ja/companies/9769/overview",
+    "https://www.gakkyusha.com/about/",
+    "https://corp-research.jp/articles/9887",
+    "https://job.mynavi.jp/28/pc/search/corp88099/employment.html",
+    "https://cp-canda.net/index.php?url=companies/view/9769",
+    "https://visionguide.jp/blog001-375/",
+    "https://www.knowledgewing.com/cgi-bin/kw/redirect.cgi?c=UAM50L",
+    "https://www.youtube.com/watch?v=75_f9YCTXrY",
+    "https://note.com/royal_briony388/n/n85b64cab2dca",
+    "https://consovation.com/株式会社学究社の成長戦略と魅力的なビジネスモ/"
+   ]
+  },
+  {
+   "query": "学究社 決算説明資料",
+   "results": [
+    "https://www.gakkyusha.com/ir/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=9769",
+    "https://www.gakkyusha.com/wp-content/uploads/2026/06/f3137ff90dc418088c16f0c8fce466a6.pdf",
+    "https://www.gakken.co.jp/ja/ir/library/result.html",
+    "https://www.buffett-code.com/company/9769/library",
+    "https://rigaku-holdings.com/ir/presentations/",
+    "https://edinetdb.jp/company/E04796/presentations/",
+    "https://irbank.net/97690/ir",
+    "https://edinetdb.jp/company/E04796/ir-docs/",
+    "https://treelazy.com/stock-jp/9769"
+   ]
+  },
+  {
+   "query": "学究社 事業系統図",
+   "results": [
+    "https://www.gakkyusha.com/about/",
+    "https://kitaishihon.com/company/9769/business",
+    "https://salesnow.jp/db/companies/jcb8j2w1dk3crcxbg",
+    "https://job.mynavi.jp/28/pc/search/corp88099/outline.html",
+    "https://cp-canda.net/index.php?url=companies/view/9769",
+    "https://jigyou-v2.kabu-trendpro.com/company.php?code=9769&page=8&q=%E4%BF%9D%E6%9C%89",
+    "https://compalyze.co.jp/company/6012401003599",
+    "https://visionguide.jp/blog001-375/",
+    "https://edinetdb.jp/company/E04796/midterm-plans/",
+    "https://ai-analyst-ir.com/factbook/9769/business"
+   ]
+  },
+  {
+   "query": "学究社 社長 インタビュー",
+   "results": [
+    "https://www.gakkyusha.com/interview/",
+    "https://www.shijyukukai.jp/2026/06/30230",
+    "https://www.nikkei.com/article/DGXZQODZ00021_R00C26A6000000/",
+    "https://www.nikkan.co.jp/articles/view/784164",
+    "https://kitaishihon.com/company/9769/board-of-director",
+    "https://www.gakkyusha.com/about/%E5%BD%B9%E5%93%A1%E4%B8%80%E8%A6%A7/",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260601557508",
+    "https://jobtalk.jp/companies/3911/answers?question_codes=president",
+    "https://j-lic.com/companies/9769/directors",
+    "https://www.gakkyusha.com/interview/kurisaki/"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部4頁・検索5回）"
+ }
+}

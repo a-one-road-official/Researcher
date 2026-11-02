@@ -1,0 +1,1496 @@
+{
+ "name": "テラプローブ",
+ "aliases": [],
+ "context": "証券コード6627／電気機器／スタンダード（内国株式）／2025.12期 売上高41,746百万円 営業利益率21.3%",
+ "researched_at": "2026-11-02T17:41:40.212643+00:00",
+ "official_url": "https://www.teraprobe.com/",
+ "identified_by": "search:yahoo_jp:テラプローブ",
+ "profile": {
+  "事業内容": [
+   {
+    "label": "事業内容を教えてください。",
+    "value": "半導体のテスト受託が主な事業です。 詳細は、下記リンク先ページをご参照ください。 サービス紹介",
+    "url": "https://www.teraprobe.com/ir/faq/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "ウエハテスト事業 ファイナルテスト事業 テスト技術開発事業 労働者派遣事業",
+    "url": "https://www.teraprobe.com/company/profile/",
+    "pass": 1
+   }
+  ],
+  "設立": [
+   {
+    "label": "会社設立はいつですか？",
+    "value": "2005年8月に設立いたしました。 当社の「沿革」は下記リンク先よりご確認いただけます。 会社概要/ 沿革",
+    "url": "https://www.teraprobe.com/ir/faq/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2005年8月",
+    "url": "https://www.teraprobe.com/company/profile/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "308名（2026年3月現在）",
+    "url": "https://www.teraprobe.com/company/profile/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "増加 データセンタ向け製品の需要拡大に加え、新規顧客が増収に寄与",
+    "url": "https://www.teraprobe.com/cwp/wp-content/uploads/20262Q_presentation.pdf",
+    "pass": 2
+   },
+   {
+    "label": "売上高",
+    "value": "増加 データセンタ向け製品の需要拡大、EV向け製品も寄与",
+    "url": "https://www.teraprobe.com/cwp/wp-content/uploads/20262Q_presentation.pdf",
+    "pass": 2
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.teraprobe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "テストオペレーションサービス",
+    "url": "https://www.teraprobe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "テストディベロップメントサービス",
+    "url": "https://www.teraprobe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.teraprobe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスについて",
+    "url": "https://www.teraprobe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス | 株式会社テラプローブ",
+    "url": "https://www.teraprobe.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.teraprobe.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "テストオペレーションサービス",
+    "url": "https://www.teraprobe.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "テストディベロップメントサービス",
+    "url": "https://www.teraprobe.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス内容",
+    "url": "https://www.teraprobe.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "身近な製品のスマートフォンから鉄道、インターネット・通信などの社会インフラなど日常を支える重要な役割を担っております",
+    "url": "https://www.teraprobe.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "現在の製品には、複数の半導体を組み合わせ、1つのパッケージにすることにより、さまざまな機能を搭載し、より豊かな生活を送れるよう進化しております",
+    "url": "https://www.teraprobe.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の高信頼性が要求される製品において実施される",
+    "url": "https://www.teraprobe.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの手元に届く電化製品は、安全、安心なものばかりです",
+    "url": "https://www.teraprobe.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "このウエハテスト工程で、良品、不良品の識別を行い、製品の仕様を満足することが、安全な製品を提供する第一歩となります",
+    "url": "https://www.teraprobe.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の製造リスク管理と共に品質の高い製品の提供とその維持を担っております",
+    "url": "https://www.teraprobe.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "ロジック、イメージセンサ、アナログ、メモリなど幅広い製品分野の測定をカバーできるテスト装置を所有しており、対応可能な製品分野の多様さは、国内トップクラスです",
+    "url": "https://www.teraprobe.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "テストサービスを専門的に行ってきたテラプローブだからこそ、豊富な経験と技術、国内トップクラスの蓄積された豊富なデータを所有しております",
+    "url": "https://www.teraprobe.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "後工程の受託をメインに行っているPTIと連携することで、ウエハテスト工程以降の組み立て工程も一貫して受託する、いわゆるターンキーサービスの提供も行っています",
+    "url": "https://www.teraprobe.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "(半導体組立・テスト受託サービス)",
+    "url": "https://www.teraprobe.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.teraprobe.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "テストオペレーションサービス",
+    "url": "https://www.teraprobe.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "テストディベロップメントサービス",
+    "url": "https://www.teraprobe.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "開発、ライン設計の段階で環境・安全を考慮した評価を行い、生産性の効率化、製品の小型化・高性能化を追求し、環境保全に適合した省資源、省エネルギーの推進を図り、ＣＯ２排出量削減及び原単位改善に取り組む",
+    "url": "https://www.teraprobe.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.teraprobe.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "テストオペレーションサービス",
+    "url": "https://www.teraprobe.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "テストディベロップメントサービス",
+    "url": "https://www.teraprobe.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.teraprobe.com/ir/introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "テストオペレーションサービス",
+    "url": "https://www.teraprobe.com/ir/introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "テストディベロップメントサービス",
+    "url": "https://www.teraprobe.com/ir/introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "このような事業環境の中で、当社グループは、世界的に競争力のある製品群に対してソリューションを提供し、お客様の様々なニーズに迅速かつ柔軟に対応することにより、企業価値の向上を目指してまいります",
+    "url": "https://www.teraprobe.com/ir/introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "具体的には、今後も数量の増加が見込まれ、かつ高品質・高信頼性が要求される車載分野の拡大に加え、AI、5G及びセンサなどの先端製品を開拓してまいります",
+    "url": "https://www.teraprobe.com/ir/introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "そのために、日本と、今や生産・技術ともに半導体産業の世界的な中心地となった台湾の双方において、当社グループのエンジニアの手厚い支援によるお客様のグローバル化サポートや、サプライチェーン、ターンキーの提案などを行い、また、蓄積された技術力を基にR&D活動を推進し、単にテストを受託するだけでなく、お客様の製品企画・開発段階から参入し、魅力のある技術提案を行っていくことで、顧客満足を高め、より強力な取引関係の構築を図ります",
+    "url": "https://www.teraprobe.com/ir/introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.teraprobe.com/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "テストオペレーションサービス",
+    "url": "https://www.teraprobe.com/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "テストディベロップメントサービス",
+    "url": "https://www.teraprobe.com/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.teraprobe.com/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "テストオペレーションサービス",
+    "url": "https://www.teraprobe.com/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "テストディベロップメントサービス",
+    "url": "https://www.teraprobe.com/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.teraprobe.com/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "テストオペレーションサービス",
+    "url": "https://www.teraprobe.com/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "テストディベロップメントサービス",
+    "url": "https://www.teraprobe.com/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.teraprobe.com/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "テストオペレーションサービス",
+    "url": "https://www.teraprobe.com/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "テストディベロップメントサービス",
+    "url": "https://www.teraprobe.com/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.teraprobe.com/ir/stock_information/",
+    "pass": 1
+   },
+   {
+    "quote": "テストオペレーションサービス",
+    "url": "https://www.teraprobe.com/ir/stock_information/",
+    "pass": 1
+   },
+   {
+    "quote": "テストディベロップメントサービス",
+    "url": "https://www.teraprobe.com/ir/stock_information/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.teraprobe.com/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "テストオペレーションサービス",
+    "url": "https://www.teraprobe.com/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "テストディベロップメントサービス",
+    "url": "https://www.teraprobe.com/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.teraprobe.com/ir/public_notice/",
+    "pass": 1
+   },
+   {
+    "quote": "テストオペレーションサービス",
+    "url": "https://www.teraprobe.com/ir/public_notice/",
+    "pass": 1
+   },
+   {
+    "quote": "テストディベロップメントサービス",
+    "url": "https://www.teraprobe.com/ir/public_notice/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.teraprobe.com/ir/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "テストオペレーションサービス",
+    "url": "https://www.teraprobe.com/ir/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "テストディベロップメントサービス",
+    "url": "https://www.teraprobe.com/ir/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.teraprobe.com/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "テストオペレーションサービス",
+    "url": "https://www.teraprobe.com/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "テストディベロップメントサービス",
+    "url": "https://www.teraprobe.com/company/profile/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.teraprobe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.teraprobe.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.teraprobe.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.teraprobe.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーとして、新たな価値創造に貢献する",
+    "url": "https://www.teraprobe.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.teraprobe.com/ir/introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.teraprobe.com/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.teraprobe.com/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.teraprobe.com/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.teraprobe.com/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.teraprobe.com/ir/stock_information/",
+    "pass": 1
+   },
+   {
+    "quote": "株主還元について紹介します",
+    "url": "https://www.teraprobe.com/ir/stock_information/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.teraprobe.com/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.teraprobe.com/ir/public_notice/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.teraprobe.com/ir/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.teraprobe.com/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "・ 指名委員会等設置会社に移行",
+    "url": "https://www.teraprobe.com/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.teraprobe.com/contact/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "単に顧客の半導体製品のテストを受託するだけでなく、テスト技術の開発や最適なテスト装置・仕様の提案などを行い、関係会社等との連携による後工程受託まで含めたターンキーサービスを提供することで、顧客製品の価値向上に貢献し、顧客にとって信頼でき、ともに成長できるパートナーとして長期的な関係を築いています",
+    "url": "https://www.teraprobe.com/ir/individual/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.teraprobe.com/ir/stock_information/yutai/",
+    "pass": 1
+   },
+   {
+    "quote": "常に、チャレンジ精神と誇りをもってビジネスに取り組み、技術を磨き、生産の効率化を進め、世界中のお客様が心から満足し信頼できるパートナーとして、新たな価値創造に貢献する",
+    "url": "https://www.teraprobe.com/ir/individual/sp14.html",
+    "pass": 1
+   },
+   {
+    "quote": "［2016年6月掲載］ テラプローブの事業紹介",
+    "url": "https://www.teraprobe.com/ir/individual/sp14.html",
+    "pass": 1
+   },
+   {
+    "quote": "単に顧客の半導体製品のテストを受託するだけでなく、テスト技術の開発や最適なテスト装置・仕様の提案などを行い、関係会社等との連携による後工程受託まで含めたターンキーサービスを提供することで、顧客製品の価値向上に貢献し、顧客にとって信頼でき、ともに成長できるパートナーとして長期的な関係を築いています",
+    "url": "https://www.teraprobe.com/ir_/individual/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "［2016年6月掲載］ テラプローブの事業紹介",
+    "url": "https://www.teraprobe.com/ir_/individual/sp11.html",
+    "pass": 1
+   },
+   {
+    "quote": "：PTIについて、こちらのスライドでご紹介します",
+    "url": "https://finance.logmi.jp/articles/380364",
+    "pass": 3
+   },
+   {
+    "quote": "当社 指名委員（現任）",
+    "url": "https://kitaishihon.com/company/6627/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "同事務所 パートナー",
+    "url": "https://kitaishihon.com/company/6627/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "同事務所 パートナー（現任）",
+    "url": "https://kitaishihon.com/company/6627/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "トパーズ・リージョナル・パートナーズ㈱",
+    "url": "https://kitaishihon.com/company/6627/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "社外取締役岩間耕二氏は、大手電機メーカーにおける経営者としての経験、並びに長年にわたる半導体事業及び日本企業としての海外での事業活動から得られた豊富な経験と知見を有しており、国際的な視点から当社の中長期的な企業価値の向上に関する助言・提言を行っており、また、報酬委員会の委員長及び指名委員会の委員として、透明性のある意思決定を行うことに貢献しております",
+    "url": "https://kitaishihon.com/company/6627/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "社外取締役森直樹氏は、弁護士としての専門的な知見と豊富な経験を有し、客観的かつ公平な視点に基づき、当社のガバナンスに対する助言・提言を行っており、加えて、事業再生に関する豊富な経験に裏打ちされた企業の実体的な活動を踏まえた実務的かつ合理的な助言・提言を行っており、また、指名委員会の委員長及び監査委員会の委員として、透明性のある意思決定及び実効性のある監査を行うことに貢献しております",
+    "url": "https://kitaishihon.com/company/6627/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "なお、同氏はＬＭ虎ノ門南法律事務所のパートナー弁護士、一般社団法人中小企業再生型事業承継支援機構の理事、トパーズ・リージョナル・パートナーズ株式会社の代表取締役及び株式会社ジャストプランニングの社外監査役であります",
+    "url": "https://kitaishihon.com/company/6627/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "当社が採用する指名委員会等設置会社においては、取締役会は、執行役による業務執行の監督及び会社の重要な意思決定の両方を担う立場にあり、また、各委員会においては員数の過半数が社外取締役である必要があります",
+    "url": "https://kitaishihon.com/company/6627/board-of-director",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "テラプローブの強み",
+    "url": "https://www.teraprobe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "テラプローブの強み",
+    "url": "https://www.teraprobe.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "テラプローブの強み",
+    "url": "https://www.teraprobe.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "テラプローブの強み",
+    "url": "https://www.teraprobe.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "テラプローブの強み",
+    "url": "https://www.teraprobe.com/ir/introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "テラプローブの強み",
+    "url": "https://www.teraprobe.com/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "テラプローブの強み",
+    "url": "https://www.teraprobe.com/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "テラプローブの強み",
+    "url": "https://www.teraprobe.com/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "テラプローブの強み",
+    "url": "https://www.teraprobe.com/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "テラプローブの強み",
+    "url": "https://www.teraprobe.com/ir/stock_information/",
+    "pass": 1
+   },
+   {
+    "quote": "テラプローブの強み",
+    "url": "https://www.teraprobe.com/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "テラプローブの強み",
+    "url": "https://www.teraprobe.com/ir/public_notice/",
+    "pass": 1
+   },
+   {
+    "quote": "テラプローブの強み",
+    "url": "https://www.teraprobe.com/ir/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "テラプローブの強み",
+    "url": "https://www.teraprobe.com/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "テラプローブの強み",
+    "url": "https://www.teraprobe.com/contact/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "強みと成長戦略",
+    "url": "https://www.teraprobe.com/ir/individual/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "テラプローブの強みと成長戦略",
+    "url": "https://www.teraprobe.com/ir/individual/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "テラプローブの強み",
+    "url": "https://www.teraprobe.com/ir/stock_information/yutai/",
+    "pass": 1
+   },
+   {
+    "quote": "強みと成長戦略",
+    "url": "https://www.teraprobe.com/ir_/individual/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "テラプローブの強みと成長戦略",
+    "url": "https://www.teraprobe.com/ir_/individual/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "足元の半導体市場は、コンシューマ向け製品を中心に生産・在庫調整の動きが見られ、短期的には需要が落ち込むと見込んでいます",
+    "url": "https://www.teraprobe.com/ir_/individual/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "売上総利益率 26.0% 27.4% 27.7% 31.1% 31.5% 33.4% 1.9pt -",
+    "url": "https://www.teraprobe.com/cwp/wp-content/uploads/20262Q_presentation.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 19.0% 20.1% 20.7% 24.6% 25.2% 27.4% 2.2pt -",
+    "url": "https://www.teraprobe.com/cwp/wp-content/uploads/20262Q_presentation.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 25.0% 27.4% 2.4pt ー",
+    "url": "https://www.teraprobe.com/cwp/wp-content/uploads/20262Q_presentation.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上総利益率 26.7% 32.5% 5.8pt ー",
+    "url": "https://www.teraprobe.com/cwp/wp-content/uploads/20262Q_presentation.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 19.6% 26.4% 6.8pt ー",
+    "url": "https://www.teraprobe.com/cwp/wp-content/uploads/20262Q_presentation.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "先端分野の売上構成比上昇により、営業利益率27％と四半期最高を更新",
+    "url": "https://www.teraprobe.com/cwp/wp-content/uploads/20262Q_presentation.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 19.0% 20.1% 20.7% 24.6% 21.3% 25.2% 27.4% 27.7% 0.3pt ー 29.4% 1.7pt ー 27.6% 6.3pt ー",
+    "url": "https://www.teraprobe.com/cwp/wp-content/uploads/20262Q_presentation.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 19.0% 21.2% 18.2% 16.3% 19.0% 20.1% 20.7% 24.6% 25.2% 27.4%",
+    "url": "https://www.teraprobe.com/cwp/wp-content/uploads/20262Q_presentation.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 10.5% 7.7% -0.7% 2.3% 16.0% 20.6% 20.3% 18.7% 21.3%",
+    "url": "https://www.teraprobe.com/cwp/wp-content/uploads/20262Q_presentation.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "テラプローブ（6627）の財務情報ならログミーFinance 【QAあり】テラプローブ、主流となる半導体製造工程の水平分業型移行へ柔軟に対応、ソリューション提案を強みにさらなる成長へ - ログミーファイナンス",
+    "url": "https://finance.logmi.jp/articles/380364",
+    "pass": 3
+   },
+   {
+    "quote": "当社の強み:ソリューション提案-1",
+    "url": "https://finance.logmi.jp/articles/380364",
+    "pass": 3
+   },
+   {
+    "quote": "当社の強み:ソリューション提案-2",
+    "url": "https://finance.logmi.jp/articles/380364",
+    "pass": 3
+   },
+   {
+    "quote": "【QAあり】テラプローブ、主流となる半導体製造工程の水平分業型移行へ柔軟に対応、ソリューション提案を強みにさらなる成長へ",
+    "url": "https://finance.logmi.jp/articles/380364",
+    "pass": 3
+   },
+   {
+    "quote": "その名前を聞かない日はないくらい有名なNVIDIAは、設計を強みとした会社です",
+    "url": "https://finance.logmi.jp/articles/380364",
+    "pass": 3
+   },
+   {
+    "quote": "赤い折れ線グラフは営業利益率を表しており、現在では20パーセントを超えるようになっています",
+    "url": "https://finance.logmi.jp/articles/380364",
+    "pass": 3
+   },
+   {
+    "quote": "このような強みをもって、お客さまに提案していきたいと考えています",
+    "url": "https://finance.logmi.jp/articles/380364",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年10月15日",
+    "url": "https://www.teraprobe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期９月度の月次連結売上高（速報）に関するお知らせ",
+    "url": "https://www.teraprobe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月15日",
+    "url": "https://www.teraprobe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期８月度の月次連結売上高（速報）に関するお知らせ",
+    "url": "https://www.teraprobe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月27日",
+    "url": "https://www.teraprobe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第２四半期決算説明会の書き起こしに関するお知らせ",
+    "url": "https://www.teraprobe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月20日",
+    "url": "https://www.teraprobe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第２四半期（中間期）決算説明資料を掲載しました",
+    "url": "https://www.teraprobe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月17日",
+    "url": "https://www.teraprobe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期７月度の月次連結売上高（速報）に関するお知らせ",
+    "url": "https://www.teraprobe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月23日",
+    "url": "https://www.teraprobe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期9月度の月次連結売上高（速報）に関するお知らせ",
+    "url": "https://www.teraprobe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月31日",
+    "url": "https://www.teraprobe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月29日",
+    "url": "https://www.teraprobe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年9月28日",
+    "url": "https://www.teraprobe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年5月12日",
+    "url": "https://www.teraprobe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年9月27日",
+    "url": "https://www.teraprobe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年2月28日",
+    "url": "https://www.teraprobe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月17日",
+    "url": "https://www.teraprobe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月4日",
+    "url": "https://www.teraprobe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年11月28日",
+    "url": "https://www.teraprobe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年5月27日",
+    "url": "https://www.teraprobe.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月15日",
+    "url": "https://www.teraprobe.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期９月度の月次連結売上高（速報）に関するお知らせ",
+    "url": "https://www.teraprobe.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月15日",
+    "url": "https://www.teraprobe.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期８月度の月次連結売上高（速報）に関するお知らせ",
+    "url": "https://www.teraprobe.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月27日",
+    "url": "https://www.teraprobe.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第２四半期決算説明会の書き起こしに関するお知らせ",
+    "url": "https://www.teraprobe.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月20日",
+    "url": "https://www.teraprobe.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第２四半期（中間期）決算説明資料を掲載しました",
+    "url": "https://www.teraprobe.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月17日",
+    "url": "https://www.teraprobe.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期７月度の月次連結売上高（速報）に関するお知らせ",
+    "url": "https://www.teraprobe.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月14日",
+    "url": "https://www.teraprobe.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第２四半期決算短信を掲載しました",
+    "url": "https://www.teraprobe.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月13日",
+    "url": "https://www.teraprobe.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第3四半期決算発表（予定）",
+    "url": "https://www.teraprobe.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月14日",
+    "url": "https://www.teraprobe.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第2四半期決算発表",
+    "url": "https://www.teraprobe.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月15日",
+    "url": "https://www.teraprobe.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第1四半期決算発表",
+    "url": "https://www.teraprobe.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年03月26日",
+    "url": "https://www.teraprobe.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年02月10日",
+    "url": "https://www.teraprobe.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期決算発表",
+    "url": "https://www.teraprobe.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年11月14日",
+    "url": "https://www.teraprobe.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期 第3四半期決算発表",
+    "url": "https://www.teraprobe.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年08月14日",
+    "url": "https://www.teraprobe.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期 第2四半期決算発表",
+    "url": "https://www.teraprobe.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月15日",
+    "url": "https://www.teraprobe.com/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期９月度の月次連結売上高（速報）に関するお知らせ",
+    "url": "https://www.teraprobe.com/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月15日",
+    "url": "https://www.teraprobe.com/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期８月度の月次連結売上高（速報）に関するお知らせ",
+    "url": "https://www.teraprobe.com/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月27日",
+    "url": "https://www.teraprobe.com/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第２四半期決算説明会の書き起こしに関するお知らせ",
+    "url": "https://www.teraprobe.com/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月20日",
+    "url": "https://www.teraprobe.com/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第２四半期（中間期）決算説明資料を掲載しました",
+    "url": "https://www.teraprobe.com/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月17日",
+    "url": "https://www.teraprobe.com/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期７月度の月次連結売上高（速報）に関するお知らせ",
+    "url": "https://www.teraprobe.com/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月14日",
+    "url": "https://www.teraprobe.com/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第２四半期決算短信を掲載しました",
+    "url": "https://www.teraprobe.com/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月31日",
+    "url": "https://www.teraprobe.com/ir/news/",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "お客様の製造リスク管理と共に品質の高い製品の提供とその維持を担っております",
+    "url": "https://www.teraprobe.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "全員への環境教育を徹底し、環境への意識向上をはかると共に、顧客及び地域社会をはじめとして社内外の全ての関係者に対して環境活動の公開につとめる",
+    "url": "https://www.teraprobe.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様にもご協力いただき、中長期の生産計画をあらかじめご提供いただくことで、効率化の観点から稼働設備を決定し、稼働予定のない生産設備については速やかに通電を停止するなど、効率的な運用を追求することで、電力の消費を抑えてます",
+    "url": "https://www.teraprobe.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "世界中のお客様が心から満足し信頼できる",
+    "url": "https://www.teraprobe.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "このような事業環境の中で、当社グループは、世界的に競争力のある製品群に対してソリューションを提供し、お客様の様々なニーズに迅速かつ柔軟に対応することにより、企業価値の向上を目指してまいります",
+    "url": "https://www.teraprobe.com/ir/introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "そのために、日本と、今や生産・技術ともに半導体産業の世界的な中心地となった台湾の双方において、当社グループのエンジニアの手厚い支援によるお客様のグローバル化サポートや、サプライチェーン、ターンキーの提案などを行い、また、蓄積された技術力を基にR&D活動を推進し、単にテストを受託するだけでなく、お客様の製品企画・開発段階から参入し、魅力のある技術提案を行っていくことで、顧客満足を高め、より強力な取引関係の構築を図ります",
+    "url": "https://www.teraprobe.com/ir/introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "単に顧客の半導体製品のテストを受託するだけでなく、テスト技術の開発や最適なテスト装置・仕様の提案などを行い、関係会社等との連携による後工程受託まで含めたターンキーサービスを提供することで、顧客製品の価値向上に貢献し、顧客にとって信頼でき、ともに成長できるパートナーとして長期的な関係を築いています",
+    "url": "https://www.teraprobe.com/ir/individual/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本、台湾の両拠点で、豊富なテスト装置とエンジニアを有しており、取引スキームの提案や、テスト技術の共同開発、テスト装置や仕様の提案など、テストに関する様々なソリューションを提供することで、世界中のお客様からビジネスを獲得しています",
+    "url": "https://www.teraprobe.com/ir/individual/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、それぞれの会社が開拓してきた顧客基盤を活用し、連携して、事業の拡大を進めています",
+    "url": "https://www.teraprobe.com/ir/individual/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "常に、チャレンジ精神と誇りをもってビジネスに取り組み、技術を磨き、生産の効率化を進め、世界中のお客様が心から満足し信頼できるパートナーとして、新たな価値創造に貢献する",
+    "url": "https://www.teraprobe.com/ir/individual/sp14.html",
+    "pass": 1
+   },
+   {
+    "quote": "単に顧客の半導体製品のテストを受託するだけでなく、テスト技術の開発や最適なテスト装置・仕様の提案などを行い、関係会社等との連携による後工程受託まで含めたターンキーサービスを提供することで、顧客製品の価値向上に貢献し、顧客にとって信頼でき、ともに成長できるパートナーとして長期的な関係を築いています",
+    "url": "https://www.teraprobe.com/ir_/individual/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本、台湾の両拠点で、豊富なテスト装置とエンジニアを有しており、取引スキームの提案や、テスト技術の共同開発、テスト装置や仕様の提案など、テストに関する様々なソリューションを提供することで、世界中のお客様からビジネスを獲得しています",
+    "url": "https://www.teraprobe.com/ir_/individual/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、それぞれの会社が開拓してきた顧客基盤を活用し、連携して、事業の拡大を進めています",
+    "url": "https://www.teraprobe.com/ir_/individual/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、製品分野の観点以外のものとして、ファイナルテストの拡大、TPWとの設備プラットフォームの共通化、共同開発等によるお客様との関係深化、PTI",
+    "url": "https://www.teraprobe.com/ir_/individual/sp11.html",
+    "pass": 1
+   },
+   {
+    "quote": "これらは、当社の事業構造をよりバランスの取れたものとし、当社が蓄積してきた技術力に加えて、PTIグループとともに後工程全般についての高度なサポートを提供することで、顧客・事業基盤を強化するものです",
+    "url": "https://www.teraprobe.com/ir_/individual/sp11.html",
+    "pass": 1
+   },
+   {
+    "quote": "データセンタ向けプロセッサーが好調に推移し、新規顧客の量産開始も寄与",
+    "url": "https://www.teraprobe.com/cwp/wp-content/uploads/20262Q_presentation.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "車載向け製品は顧客ごとの増減はあるものの、全体としては安定基調",
+    "url": "https://www.teraprobe.com/cwp/wp-content/uploads/20262Q_presentation.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 : 増加 データセンタ向け製品の需要拡大に加え、新規顧客が増収に寄与",
+    "url": "https://www.teraprobe.com/cwp/wp-content/uploads/20262Q_presentation.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "耐震性 新耐震基準に基づく設計地震発生時• 従業員、構内協力会社及びお客様は安全に避難",
+    "url": "https://www.teraprobe.com/cwp/wp-content/uploads/20262Q_presentation.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客地域別売上割合",
+    "url": "https://www.teraprobe.com/cwp/wp-content/uploads/20262Q_presentation.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① 人的被害: 従業員、構内協力会社及びお客様は安全に避難し、被害はありません",
+    "url": "https://www.teraprobe.com/cwp/wp-content/uploads/20260729.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/6627/board-of-director",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "先端分野の売上構成比上昇により、営業利益率27％と四半期最高を更新",
+    "url": "https://www.teraprobe.com/cwp/wp-content/uploads/20262Q_presentation.pdf",
+    "pass": 2
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "それぞれの強いところに経営資源を集中し、さらに強くなって成長させようというビジネスモデルです",
+    "url": "https://finance.logmi.jp/articles/380364",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "半導体組立・テスト受託サービス - テラプローブ — 半導体組立・テスト受託サービス - テラプローブ 株式会社テラプローブ https://www.teraprobe.com > individual > about",
+    "url": "https://www.teraprobe.com/ir/individual/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "【QAあり】 テラプローブ 、主流となる半導体製造工程の水平 ... — 【QAあり】 テラプローブ 、主流となる半導体製造工程の水平 ... ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/380364",
+    "pass": 3
+   },
+   {
+    "quote": "【バフェットの視点】株式会社 テラプローブ は『買い』か？ — 【バフェットの視点】株式会社 テラプローブ は『買い』か？ note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/open_azalea2045/n/nbb814a0a8ffb",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 - テラプローブ — 決算説明資料 - テラプローブ 株式会社テラプローブ PDF https://www.teraprobe.com > wp-content > uploads",
+    "url": "https://www.teraprobe.com/cwp/wp-content/uploads/20254Q_presentation.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "社会 | 株式会社 テラプローブ — 社会 | 株式会社 テラプローブ 株式会社テラプローブ https://www.teraprobe.com > サステナビリティ",
+    "url": "https://www.teraprobe.com/sustainability/society/",
+    "pass": 3
+   },
+   {
+    "quote": "IR 資料 ｜株式会社 テラプローブ — IR 資料 ｜株式会社 テラプローブ 株式会社テラプローブ https://www.teraprobe.com > IR情報",
+    "url": "https://www.teraprobe.com/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報｜株式会社 テラプローブ — IR情報｜株式会社 テラプローブ 株式会社テラプローブ https://www.teraprobe.com > ...",
+    "url": "https://www.teraprobe.com/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "IRカレンダー | 株式会社 テラプローブ — IRカレンダー | 株式会社 テラプローブ 株式会社テラプローブ https://www.teraprobe.com > IR情報",
+    "url": "https://www.teraprobe.com/ir/calendar/",
+    "pass": 3
+   },
+   {
+    "quote": "【 テラプローブ 】[6627]IR情報 中期経営計画や 決算 短信 | 日経 ... — 【 テラプローブ 】[6627]IR情報 中期経営計画や 決算 短信 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=6627",
+    "pass": 3
+   },
+   {
+    "quote": "組織図 | 株式会社 テラプローブ — 組織図 | 株式会社 テラプローブ 株式会社テラプローブ https://www.teraprobe.com > 会社情報",
+    "url": "https://www.teraprobe.com/company/organisational/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 株式会社 テラプローブ — 会社概要 | 株式会社 テラプローブ 株式会社テラプローブ https://www.teraprobe.com > 会社情報",
+    "url": "https://www.teraprobe.com/company/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 テラプローブ — 株式会社 テラプローブ 株式会社テラプローブ https://www.teraprobe.com > 会社情報",
+    "url": "https://www.teraprobe.com/",
+    "pass": 3
+   },
+   {
+    "quote": "よくある質問 | 株式会社 テラプローブ — よくある質問 | 株式会社 テラプローブ 株式会社テラプローブ https://www.teraprobe.com > IR情報",
+    "url": "https://www.teraprobe.com/ir/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "テラプローブ 【6627】の 社長 ・役員 - キタイシホン — テラプローブ 【6627】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/6627/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 テラプローブ 個人投資家説明会 - YouTube — 株式会社 テラプローブ 個人投資家説明会 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=S6BCHj6UZOg",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 テラプローブ 代表取締役 社長 渡辺 雄一郎｜“名物経営 ... — 株式会社 テラプローブ 代表取締役 社長 渡辺 雄一郎｜“名物経営 ... ベンチャータイムス https://venturetimes.jp > ... > 熱中の肖像",
+    "url": "https://venturetimes.jp/interview/portrait/13697.html",
+    "pass": 3
+   },
+   {
+    "quote": "【賢者の選択Leader & Innovation】株式会社 テラプローブ ... — 【賢者の選択Leader & Innovation】株式会社 テラプローブ ... YouTube https://www.youtube.com > shorts > oHQoPNLWAfg",
+    "url": "https://www.youtube.com/shorts/oHQoPNLWAfg",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.teraprobe.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teraprobe.com/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teraprobe.com/sustainability/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teraprobe.com/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teraprobe.com/ir/introduction/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teraprobe.com/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teraprobe.com/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teraprobe.com/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teraprobe.com/ir/highlight/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teraprobe.com/ir/stock_information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teraprobe.com/ir/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teraprobe.com/ir/individual/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teraprobe.com/ir/public_notice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teraprobe.com/ir/disclosure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teraprobe.com/company/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teraprobe.com/ir_/individual/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teraprobe.com/contact/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teraprobe.com/sustainability/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teraprobe.com/ir/individual/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teraprobe.com/ir/stock_information/yutai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teraprobe.com/ir/individual/sp14.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teraprobe.com/ir/individual/news.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teraprobe.com/ir_/individual/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teraprobe.com/ir_/individual/sp11.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teraprobe.com/ir_/individual/news.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.teraprobe.com/cwp/wp-content/uploads/20261015_monthlysales2609.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.teraprobe.com/cwp/wp-content/uploads/20260915_monthlysales2608.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.teraprobe.com/cwp/wp-content/uploads/20260827_PR.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.teraprobe.com/cwp/wp-content/uploads/20262Q_presentation.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.teraprobe.com/cwp/wp-content/uploads/20260817_monthlysales2607.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.teraprobe.com/cwp/wp-content/uploads/20261023.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.teraprobe.com/cwp/wp-content/uploads/20260731.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.teraprobe.com/cwp/wp-content/uploads/20260729.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://finance.logmi.jp/articles/380364",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/6627/board-of-director",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "テラプローブ",
+   "results": [
+    "https://www.teraprobe.com/",
+    "https://www.teraprobe.com/company/profile/",
+    "https://www.nikkei.com/nkd/company/?scode=6627",
+    "https://www.teraprobe.com/recruit/fresh/",
+    "https://kabutan.jp/stock/?code=6627",
+    "https://www.teraprobe.com/ir/",
+    "https://job.mynavi.jp/27/pc/search/corp294471/outline.html",
+    "https://finance.yahoo.co.jp/quote/6627.T",
+    "https://moneyworld.jp/stock/detail?code=6627",
+    "https://finance.yahoo.co.jp/quote/6627.T/profile"
+   ]
+  },
+  {
+   "query": "テラプローブ ビジネスモデル",
+   "results": [
+    "https://www.teraprobe.com/ir/individual/about.html",
+    "https://finance.logmi.jp/articles/380364",
+    "https://note.com/open_azalea2045/n/nbb814a0a8ffb",
+    "https://www.teraprobe.com/cwp/wp-content/uploads/20254Q_presentation.pdf",
+    "https://www.teraprobe.com/sustainability/society/",
+    "https://www.teraprobe.com/company/profile/",
+    "https://job.mynavi.jp/28/pc/search/corp294471/outline.html",
+    "https://www.openwork.jp/company_answer.php?m_id=a0C1000000TYfth&q_no=9",
+    "https://www.youtube.com/watch?v=iHmCta03VS0",
+    "https://www.youtube.com/watch?v=MVEN09muUkM"
+   ]
+  },
+  {
+   "query": "テラプローブ 決算説明資料",
+   "results": [
+    "https://www.teraprobe.com/ir/library/",
+    "https://www.teraprobe.com/ir/",
+    "https://www.teraprobe.com/ir/calendar/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=6627",
+    "https://www.teraprobe.com/cwp/wp-content/uploads/20254Q_presentation.pdf",
+    "https://www.teraprobe.com/cwp/wp-content/uploads/2018/06/3QFY2016shiryou.pdf",
+    "https://irbank.net/6627/ir",
+    "https://www.teraprobe.com/cwp/wp-content/uploads/2020/05/CY2020_1Qshiryou.pdf",
+    "https://www2.jpx.co.jp/disc/66270/140120260220566189.pdf",
+    "https://irbank.net/E24994/reports"
+   ]
+  },
+  {
+   "query": "テラプローブ 事業系統図",
+   "results": [
+    "https://www.teraprobe.com/company/organisational/",
+    "https://www.teraprobe.com/company/profile/",
+    "https://www.teraprobe.com/",
+    "https://www.teraprobe.com/ir/faq/",
+    "https://finance.logmi.jp/articles/380364",
+    "https://job.mynavi.jp/28/pc/search/corp294471/outline.html",
+    "https://kitaishihon.com/company/6627/business",
+    "https://www.youtube.com/watch?v=S6BCHj6UZOg",
+    "https://www.teraprobe.com/ir/library/cat_library/category_report/",
+    "https://jigyou-v2.kabu-trendpro.com/company/6627/"
+   ]
+  },
+  {
+   "query": "テラプローブ 社長 インタビュー",
+   "results": [
+    "https://www.teraprobe.com/company/profile/",
+    "https://kitaishihon.com/company/6627/board-of-director",
+    "https://www.youtube.com/watch?v=S6BCHj6UZOg",
+    "https://venturetimes.jp/interview/portrait/13697.html",
+    "https://www.youtube.com/shorts/oHQoPNLWAfg",
+    "https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%A9%E3%83%97%E3%83%AD%E3%83%BC%E3%83%96",
+    "https://www.nikkan.co.jp/articles/view/743650",
+    "https://syukatsu-kaigi.jp/companies/86566/post_items/6/word_mouths",
+    "https://www.youtube.com/watch?v=dB5Zt5PGZqs",
+    "https://www.youtube.com/live/S6BCHj6UZOg"
+   ]
+  }
+ ],
+ "missing": {
+  "お金の形": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部2頁・検索5回）"
+ }
+}

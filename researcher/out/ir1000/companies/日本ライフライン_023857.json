@@ -1,0 +1,802 @@
+{
+ "name": "日本ライフライン",
+ "aliases": [],
+ "context": "証券コード7575／卸売業／プライム（内国株式）／2026.03期 売上高59,187百万円 営業利益率21.3%",
+ "researched_at": "2026-11-02T17:41:17.182489+00:00",
+ "official_url": "https://www.jll.co.jp/",
+ "identified_by": "search:yahoo_jp:日本ライフライン",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立年月日",
+    "value": "1981年2月6日",
+    "url": "https://www.jll.co.jp/aboutus/overview.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "医療用機器輸入・製造および販売",
+    "url": "https://www.jll.co.jp/aboutus/overview.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "連結1,304名　単体1,085名（2026年3月31日現在）",
+    "url": "https://www.jll.co.jp/aboutus/overview.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "日本では承認されていない製品または適用に関する情報が掲載されている場合があります",
+    "url": "https://www.jll.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "リズムデバイス製品",
+    "url": "https://www.jll.co.jp/the/business/",
+    "pass": 1
+   },
+   {
+    "quote": "EP／アブレーション製品",
+    "url": "https://www.jll.co.jp/the/business/",
+    "pass": 1
+   },
+   {
+    "quote": "心臓血管外科・血管外科製品",
+    "url": "https://www.jll.co.jp/the/business/",
+    "pass": 1
+   },
+   {
+    "quote": "消化器領域製品",
+    "url": "https://www.jll.co.jp/the/business/",
+    "pass": 1
+   },
+   {
+    "quote": "構造的心疾患インターベーション製品",
+    "url": "https://www.jll.co.jp/the/business/",
+    "pass": 1
+   },
+   {
+    "quote": "脳血管治療製品",
+    "url": "https://www.jll.co.jp/the/business/",
+    "pass": 1
+   },
+   {
+    "quote": "日本では承認されていない製品または適用に関する情報が掲載されている場合があります",
+    "url": "https://www.jll.co.jp/the/business/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の品質管理・安定供給",
+    "url": "https://www.jll.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "同社ユーザーサービスプラットフォーム代表執行役員",
+    "url": "https://www.jll.co.jp/aboutus/officer.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品センター（現 羽田ロジスティックスセンター）を開設",
+    "url": "https://www.jll.co.jp/aboutus/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソーリン・グループ（現 MicroPort CRM社）CRM（心調律管理）製品の独占販売契約を締結",
+    "url": "https://www.jll.co.jp/aboutus/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ボストン・サイエンティフィック CRM（心調律管理）製品の独占販売契約を締結",
+    "url": "https://www.jll.co.jp/aboutus/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "Wallaby Medical (HK) Limited 脳血管内治療製品の独占販売契約を締結",
+    "url": "https://www.jll.co.jp/aboutus/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社フィリップス・ジャパン リードマネジメント製品の独占販売契約を締結",
+    "url": "https://www.jll.co.jp/aboutus/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器（開発中のものを含む）の情報を含む場合がありますが、報道関係者や株主・投資家の皆さまへの情報提供を目的としたものであり、当社製品のプロモーションや広告、医学的なアドバイス等を目的とするものではありません",
+    "url": "https://www.jll.co.jp/investors/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療現場のニーズに寄り添った製品開発を通じて、患者さまや医療従事者にとって最適な医療機器を提供しています",
+    "url": "https://recruit.jll.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "医療現場に寄り添った製品開発",
+    "url": "https://recruit.jll.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "開発者も医療従事者と直接コミュニケーションをとり、潜在的な声も掘り起こし製品開発につなげています",
+    "url": "https://recruit.jll.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "製品開発を重ねる中で、EP／アブレーション領域で確立した押出成形技術など、競合他社が追随できない独自技術を蓄積してきました",
+    "url": "https://recruit.jll.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "この技術は他の自社製品にも応用され、当社の競争優位性を支えています",
+    "url": "https://recruit.jll.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "海外製品の国内市場導入に",
+    "url": "https://recruit.jll.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "主な取り扱い製品",
+    "url": "https://recruit.jll.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "当社の製品ポートフォリオは、心臓血管領域を中核とし、脳血管・消化器領域へと拡大しています",
+    "url": "https://recruit.jll.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "医療現場との強固なネットワークを築くなかで、日本独自のニーズや日本人の体型に適した医療機器の必要性を感じ、1999年よりメーカーとして歩み始め、現在では、自社製品が売上高の半分以上を占めるまでに成長しています",
+    "url": "https://recruit.jll.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高-自社製品",
+    "url": "https://recruit.jll.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高-仕入商品",
+    "url": "https://recruit.jll.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "見据え、世界の医療現場に自社製品を届ける挑戦を続けていきます",
+    "url": "https://recruit.jll.jp/company/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "販売代理店の方へ",
+    "url": "https://www.jll.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店の方へ",
+    "url": "https://www.jll.co.jp/aboutus/access.html",
+    "pass": 1
+   },
+   {
+    "quote": "企業としての持続的な成長を目指し、日本ライフラインが事業活動を通じて取り組んでいるサステナビリティに関する活動をご紹介いたします",
+    "url": "https://www.jll.co.jp/investors/",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介動画",
+    "url": "https://www.jll.co.jp/investors/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店の方へ",
+    "url": "https://www.jll.co.jp/investors/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の取締役、執行役員をご紹介します",
+    "url": "https://www.jll.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店の方へ",
+    "url": "https://www.jll.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器商社としての取り組みを紹介します",
+    "url": "https://www.jll.co.jp/the/business/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器メーカーとしての取り組みを紹介します",
+    "url": "https://www.jll.co.jp/the/business/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店の方へ",
+    "url": "https://www.jll.co.jp/the/business/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店の方へ",
+    "url": "https://www.jll.co.jp/investors/management/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店の方へ",
+    "url": "https://www.jll.co.jp/investors/event/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店の方へ",
+    "url": "https://www.jll.co.jp/investors/performance/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店の方へ",
+    "url": "https://www.jll.co.jp/investors/library/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店の方へ",
+    "url": "https://www.jll.co.jp/investors/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店の方へ",
+    "url": "https://www.jll.co.jp/investors/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店の方へ",
+    "url": "https://www.jll.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店の方へ",
+    "url": "https://www.jll.co.jp/aboutus/overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "㈱MAパートナーズ代表取締役（現任）",
+    "url": "https://www.jll.co.jp/aboutus/officer.html",
+    "pass": 1
+   },
+   {
+    "quote": "TMI総合法律事務所パートナー（現任）",
+    "url": "https://www.jll.co.jp/aboutus/officer.html",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店の方へ",
+    "url": "https://www.jll.co.jp/aboutus/officer.html",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店の方へ",
+    "url": "https://www.jll.co.jp/aboutus/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "販売代理店の方へ",
+    "url": "https://www.jll.co.jp/investors/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "まず中東・アジア地域での市場開拓に取り組み、すでに約20の国・地域で代理店契約を締結し",
+    "url": "https://recruit.jll.jp/company/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "日本ライフラインの歩みや培ってきた技術、 商社とメーカーのハイブリッド型のビジネスモデルなどについてわかりやすくお伝えいたします",
+    "url": "https://www.jll.co.jp/investors/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://recruit.jll.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "ハイブリット型ビジネスモデル",
+    "url": "https://recruit.jll.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループ最大の強みは、メーカー機能と商社機能を高い次元で融合させたハイブリッド型ビジネスモデルです",
+    "url": "https://recruit.jll.jp/company/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2027年3月期",
+    "url": "https://www.jll.co.jp/investors/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月30日発表",
+    "url": "https://www.jll.co.jp/investors/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期〜",
+    "url": "https://www.jll.co.jp/investors/",
+    "pass": 1
+   },
+   {
+    "quote": "2028年3月期",
+    "url": "https://www.jll.co.jp/investors/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年版",
+    "url": "https://www.jll.co.jp/investors/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月版",
+    "url": "https://www.jll.co.jp/investors/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の沿革をご覧いただけます",
+    "url": "https://www.jll.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "1981年2月6日",
+    "url": "https://www.jll.co.jp/aboutus/overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "1981年2月",
+    "url": "https://www.jll.co.jp/aboutus/officer.html",
+    "pass": 1
+   },
+   {
+    "quote": "1987年4月",
+    "url": "https://www.jll.co.jp/aboutus/officer.html",
+    "pass": 1
+   },
+   {
+    "quote": "1992年11月",
+    "url": "https://www.jll.co.jp/aboutus/officer.html",
+    "pass": 1
+   },
+   {
+    "quote": "1994年1月",
+    "url": "https://www.jll.co.jp/aboutus/officer.html",
+    "pass": 1
+   },
+   {
+    "quote": "1997年6月",
+    "url": "https://www.jll.co.jp/aboutus/officer.html",
+    "pass": 1
+   },
+   {
+    "quote": "2005年6月",
+    "url": "https://www.jll.co.jp/aboutus/officer.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年4月",
+    "url": "https://www.jll.co.jp/aboutus/officer.html",
+    "pass": 1
+   },
+   {
+    "quote": "2009年10月",
+    "url": "https://www.jll.co.jp/aboutus/officer.html",
+    "pass": 1
+   },
+   {
+    "quote": "2015年4月",
+    "url": "https://www.jll.co.jp/aboutus/officer.html",
+    "pass": 1
+   },
+   {
+    "quote": "2016年4月",
+    "url": "https://www.jll.co.jp/aboutus/officer.html",
+    "pass": 1
+   },
+   {
+    "quote": "2018年4月",
+    "url": "https://www.jll.co.jp/aboutus/officer.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年7月",
+    "url": "https://www.jll.co.jp/aboutus/officer.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年4月",
+    "url": "https://www.jll.co.jp/aboutus/officer.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年6月",
+    "url": "https://www.jll.co.jp/aboutus/officer.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年1月",
+    "url": "https://www.jll.co.jp/aboutus/officer.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月",
+    "url": "https://www.jll.co.jp/aboutus/officer.html",
+    "pass": 1
+   },
+   {
+    "quote": "2006年8月",
+    "url": "https://www.jll.co.jp/aboutus/officer.html",
+    "pass": 1
+   },
+   {
+    "quote": "2009年4月",
+    "url": "https://www.jll.co.jp/aboutus/officer.html",
+    "pass": 1
+   },
+   {
+    "quote": "2011年4月",
+    "url": "https://www.jll.co.jp/aboutus/officer.html",
+    "pass": 1
+   },
+   {
+    "quote": "2012年4月",
+    "url": "https://www.jll.co.jp/aboutus/officer.html",
+    "pass": 1
+   },
+   {
+    "quote": "2013年7月",
+    "url": "https://www.jll.co.jp/aboutus/officer.html",
+    "pass": 1
+   },
+   {
+    "quote": "2014年4月",
+    "url": "https://www.jll.co.jp/aboutus/officer.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年6月",
+    "url": "https://www.jll.co.jp/aboutus/officer.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年4月",
+    "url": "https://www.jll.co.jp/aboutus/officer.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月",
+    "url": "https://www.jll.co.jp/aboutus/officer.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 日本ライフライン株式会社",
+    "url": "https://www.jll.co.jp/aboutus/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1980年代",
+    "url": "https://www.jll.co.jp/aboutus/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1990年代",
+    "url": "https://www.jll.co.jp/aboutus/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2000年代",
+    "url": "https://www.jll.co.jp/aboutus/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2010年代",
+    "url": "https://www.jll.co.jp/aboutus/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年代",
+    "url": "https://www.jll.co.jp/aboutus/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2028年3月期には 海外売上高20〜30億円 を目標とし、長期的には 海外売上高比率30％の実現を",
+    "url": "https://recruit.jll.jp/company/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "事業内容や取引先との関係についてご覧いただけます",
+    "url": "https://www.jll.co.jp/investors/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "同社ユーザーサービスプラットフォーム代表執行役員",
+    "url": "https://www.jll.co.jp/aboutus/officer.html",
+    "pass": 1
+   },
+   {
+    "quote": "国内顧客カバー率",
+    "url": "https://recruit.jll.jp/company/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "当社グループ最大の強みは、メーカー機能と商社機能を高い次元で融合させたハイブリッド型ビジネスモデルです",
+    "url": "https://recruit.jll.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "この技術は他の自社製品にも応用され、当社の競争優位性を支えています",
+    "url": "https://recruit.jll.jp/company/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "日本ライフライン 株式会社 — 日本ライフライン 株式会社 日本ライフライン株式会社 https://www.jll.co.jp",
+    "url": "https://www.jll.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "トップメッセージ | 日本ライフライン 株式会社 — トップメッセージ | 日本ライフライン 株式会社 日本ライフライン株式会社 https://www.jll.co.jp > the > message",
+    "url": "https://www.jll.co.jp/the/message.html",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家の方へ | 日本ライフライン 株式会社 — 株主・投資家の方へ | 日本ライフライン 株式会社 日本ライフライン株式会社 https://www.jll.co.jp > investors",
+    "url": "https://www.jll.co.jp/investors/",
+    "pass": 3
+   },
+   {
+    "quote": "事業の内容は？ | 日本ライフライン 株式会社 — 事業の内容は？ | 日本ライフライン 株式会社 日本ライフライン株式会社 https://www.jll.co.jp > investors > individual > business",
+    "url": "https://www.jll.co.jp/investors/individual/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 | 日本ライフライン 株式会社 — 決算説明資料 | 日本ライフライン 株式会社 日本ライフライン株式会社 https://www.jll.co.jp > library > earnings_presentations",
+    "url": "https://www.jll.co.jp/investors/library/earnings_presentations.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 | 日本ライフライン 株式会社 — 決算説明 会 | 日本ライフライン 株式会社 日本ライフライン株式会社 https://www.jll.co.jp > event > financial_results_briefing",
+    "url": "https://www.jll.co.jp/investors/event/financial_results_briefing.html",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリー | 日本ライフライン 株式会社 — IRライブラリー | 日本ライフライン 株式会社 日本ライフライン株式会社 https://www.jll.co.jp > investors > library",
+    "url": "https://www.jll.co.jp/investors/library/",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信 | 日本ライフライン 株式会社 — 決算 短信 | 日本ライフライン 株式会社 日本ライフライン株式会社 https://www.jll.co.jp > investors > library > earnings_reports",
+    "url": "https://www.jll.co.jp/investors/library/earnings_reports.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報 | 日本ライフライン 株式会社 — 会社情報 | 日本ライフライン 株式会社 日本ライフライン株式会社 https://www.jll.co.jp > aboutus",
+    "url": "https://www.jll.co.jp/aboutus/",
+    "pass": 3
+   },
+   {
+    "quote": "経営方針・体制 | 日本ライフライン 株式会社 — 経営方針・体制 | 日本ライフライン 株式会社 日本ライフライン株式会社 https://www.jll.co.jp > investors > management",
+    "url": "https://www.jll.co.jp/investors/management/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 日本ライフライン 株式会社 — 会社概要 | 日本ライフライン 株式会社 日本ライフライン株式会社 https://www.jll.co.jp > aboutus > overview",
+    "url": "https://www.jll.co.jp/aboutus/overview.html",
+    "pass": 3
+   },
+   {
+    "quote": "トップメッセージ | 日本ライフライン 株式会社 — トップメッセージ | 日本ライフライン 株式会社 日本ライフライン株式会社 https://www.jll.co.jp > management > message",
+    "url": "https://www.jll.co.jp/sustainability/management/message.html",
+    "pass": 3
+   },
+   {
+    "quote": "社員 インタビュー 一覧｜ 日本ライフライン で働くリアルな声 — 社員 インタビュー 一覧｜ 日本ライフライン で働くリアルな声 recruit.jll.jp https://recruit.jll.jp > interview",
+    "url": "https://recruit.jll.jp/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ライフライン 市場の低評価に 社長 反論 - 日本経済新聞 — 日本ライフライン 市場の低評価に 社長 反論 - 日本経済新聞 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXMZO38613830W8A201C1000000/",
+    "pass": 3
+   },
+   {
+    "quote": "役員一覧 | 日本ライフライン 株式会社 — 役員一覧 | 日本ライフライン 株式会社 日本ライフライン株式会社 https://www.jll.co.jp > aboutus > officer",
+    "url": "https://www.jll.co.jp/aboutus/officer.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.jll.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jll.co.jp/aboutus/access.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jll.co.jp/investors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jll.co.jp/aboutus/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jll.co.jp/the/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jll.co.jp/investors/management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jll.co.jp/investors/event/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jll.co.jp/investors/performance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jll.co.jp/investors/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jll.co.jp/investors/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jll.co.jp/investors/individual/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jll.co.jp/sustainability/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jll.co.jp/aboutus/overview.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jll.co.jp/aboutus/officer.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jll.co.jp/aboutus/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jll.co.jp/investors/news/index.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://recruit.jll.jp/company/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日本ライフライン",
+   "results": [
+    "https://www.jll.co.jp/",
+    "https://recruit.jll.jp/company/",
+    "https://www.nikkei.com/nkd/company/?scode=7575",
+    "https://jp.linkedin.com/company/japan-lifeline",
+    "https://careerforum.net/ja/event/bos/companylist_646/5391/company_detail/",
+    "https://ja.wikipedia.org/wiki/日本フライングディスク協会",
+    "https://www.jll.co.jp/investors/",
+    "https://finance.yahoo.co.jp/quote/7575.T",
+    "https://shikiho.toyokeizai.net/stocks/7575/corporate",
+    "https://kabutan.jp/stock/?code=7575"
+   ]
+  },
+  {
+   "query": "日本ライフライン ビジネスモデル",
+   "results": [
+    "https://www.jll.co.jp/",
+    "https://recruit.jll.jp/company/",
+    "https://www.jll.co.jp/the/message.html",
+    "https://www.jll.co.jp/investors/",
+    "https://www.jll.co.jp/investors/individual/business.html",
+    "https://www.jll.co.jp/pdf/investors/library/integrated_report_2023_view.pdf",
+    "https://careerforum.net/ja/event/bos/companylist_646/5391/company_detail/",
+    "https://business.nikkei.com/atcl/report/15/278209/033000111/",
+    "https://www.jll.co.jp/aboutus/overview.html",
+    "https://www.jll.co.jp/investors/library/integrated_report.html"
+   ]
+  },
+  {
+   "query": "日本ライフライン 決算説明資料",
+   "results": [
+    "https://www.jll.co.jp/investors/library/earnings_presentations.html",
+    "https://www.jll.co.jp/investors/",
+    "https://www.jll.co.jp/investors/event/financial_results_briefing.html",
+    "https://www.jll.co.jp/investors/library/",
+    "https://www.jll.co.jp/investors/library/earnings_reports.html",
+    "https://www.jll.co.jp/investors/event/ir_calendar.html",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120261029559501",
+    "https://www.jll.co.jp/investors/news/index.html"
+   ]
+  },
+  {
+   "query": "日本ライフライン 事業系統図",
+   "results": [
+    "https://www.jll.co.jp/aboutus/",
+    "https://www.jll.co.jp/",
+    "https://www.jll.co.jp/investors/",
+    "https://www.jll.co.jp/investors/management/",
+    "https://www.jll.co.jp/aboutus/overview.html",
+    "https://recruit.jll.jp/company/",
+    "https://www.jll.co.jp/investors/library/investors_guide.html",
+    "https://www.jll.co.jp/sitemap/",
+    "https://www.jll.co.jp/investors/individual/business.html",
+    "https://www.jll.co.jp/index.html"
+   ]
+  },
+  {
+   "query": "日本ライフライン 社長 インタビュー",
+   "results": [
+    "https://www.jll.co.jp/the/message.html",
+    "https://www.jll.co.jp/sustainability/management/message.html",
+    "https://recruit.jll.jp/interview/",
+    "https://www.nikkei.com/article/DGXMZO38613830W8A201C1000000/",
+    "https://www.jll.co.jp/aboutus/officer.html",
+    "https://www.jll.co.jp/aboutus/overview.html",
+    "https://kabu-ir.com/article/75078984.html",
+    "https://kitaishihon.com/company/7575/board-of-director",
+    "https://www.jll.co.jp/",
+    "https://the-shashi.com/tse/7575/executives/ceo/suzuki-keisuke/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部1頁・検索5回）",
+  "お金の形": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部1頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部1頁・検索5回）"
+ }
+}

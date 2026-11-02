@@ -1,0 +1,1421 @@
+{
+ "name": "Ｈｉクラテス",
+ "aliases": [],
+ "context": "証券コード4172／情報・通信業／スタンダード（内国株式）／2025.09期 売上高2,407百万円 営業利益率22.8%",
+ "researched_at": "2026-11-02T17:37:00.475942+00:00",
+ "official_url": "https://hi-crates.co.jp/",
+ "identified_by": "search:yahoo_jp:Hiクラテス",
+ "profile": {
+  "売上高": [
+   {
+    "label": "売上高 （解説）",
+    "value": "2,369 2,215 2,041 2,114 2,406",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=4172",
+    "pass": 3
+   },
+   {
+    "label": "売上高 （解説）",
+    "value": "1,275 1,281 1,100 1,236 1,279",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=4172",
+    "pass": 3
+   },
+   {
+    "label": "システム売上高",
+    "value": "1,461,063 102.4",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "label": "ソフトウエア・付属品売上高",
+    "value": "546,008 185.8",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "label": "プログラム改定売上高",
+    "value": "192,443 81.3",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "label": "自動精算機等売上高",
+    "value": "53,229 117.0",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   }
+  ],
+  "設立": [
+   {
+    "label": "設立年月日",
+    "value": "1978年3月1日",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=4172",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "117 人",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=4172",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "この理念のもと、システムをお使いいただくうえでのお客様のご負担を軽減する",
+    "url": "https://hi-crates.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "HMGはユーザーの先生方が少しでもコストを抑えることができるように設立された、",
+    "url": "https://hi-crates.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "この考えに従い当社は、コーポレート・ガバナンスに関する基本的な考え方として、企業の社会的責任を十分に認識し、事業活動を通じて社会へ貢献するとともに、株主、従業員、取引先及び地域社会等のステークホルダーに対して適切な利益の還元を行うこととしております",
+    "url": "https://hi-crates.co.jp/company/company-ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "1978年、『売上なくして経営なし 利益なくして事業なし 人生もロマン 経営もロマン 無限の可能性に挑戦』を経営理念、また「サポートなくして販売なし」「お客様の笑顔、お客様の満足が私たちの喜び」「顔が見え、心が触れ合う」を事業理念に掲げ歯科医療に夢と未来を提供したいとの強い思いから創業しました",
+    "url": "https://hi-crates.co.jp/company/company-ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "なお、個人情報、顧客情報、および関係者の権利を侵害することになる情報につきましては開示しません",
+    "url": "https://hi-crates.co.jp/company/company-ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、日本の人口減少などマクロ的な影響を受けながらも、今後も顧客数の拡大を続けていくことができる状況と判断しております",
+    "url": "https://kitaishihon.com/company/4172/management-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "しかしながら、当社の歯科電子カルテ統合システムの優位性が失われるほど大きな技術革新の進展や、IT環境の著しい変化が生じた場合、あるいは顧客のニーズが著しく変化した場合には、当社の財政状態及び経営成績に影響を及ぼす可能性があります",
+    "url": "https://kitaishihon.com/company/4172/management-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "(２) 顧客である歯科医院について",
+    "url": "https://kitaishihon.com/company/4172/management-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "「第一部 企業情報 第２ 事業の状況 １ 経営方針、経営環境及び対処すべき課題等 （2）経営環境」に記載のとおり、当社が顧客としている歯科医院数は今後、減少する傾向にあります",
+    "url": "https://kitaishihon.com/company/4172/management-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "これらの要因により、今後、引退による歯科医院数の減少や、経営不振による既存顧客による買替需要・投資意欲の減退等が当社の予測を上回った場合、当社の財政状態及び経営成績に影響を及ぼす可能性があります",
+    "url": "https://kitaishihon.com/company/4172/management-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "(３) 顧客が設立している任意の互助組織HMG（ハイデンタルハードメンテナンス互助会）について",
+    "url": "https://kitaishihon.com/company/4172/management-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "HMGは当社の顧客である歯科医師が発起人となり組成された任意団体であり、加入資格は当社の顧客に限定され、ハードウェアの修理・保守に係る費用など会員の負担軽減を目的に規約に沿って運営されております",
+    "url": "https://kitaishihon.com/company/4172/management-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "当社は現在まで、歯科電子カルテ統合システムの開発・販売に取り組むとともに、市場及び顧客のニーズに真摯に対応することでシェアを伸ばしてまいりましたが、特定商品の供給に特化していることから、当該商品に重大な課題が判明した場合や、市場と大きなミスマッチが発生した場合、当社の財政状態及び経営成績に影響を及ぼす可能性があります",
+    "url": "https://kitaishihon.com/company/4172/management-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、仕入先が限定的であることからこれらの取引先の経営環境の著しい悪化や、商品の供給に重大な問題が生じた場合には、当社の財政状態及び経営成績に影響を及ぼす可能性があります",
+    "url": "https://kitaishihon.com/company/4172/management-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "当社の営業サポート社員は、新規顧客への営業活動と既存顧客に対する保守サービス等のサポート活動の双方を担当しております",
+    "url": "https://kitaishihon.com/company/4172/management-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "そのためプログラム変更に伴う改定作業が必要となった場合、既存顧客に対するサポート活動の増加により、新規顧客に対する営業活動に支障が生じるおそれがあります",
+    "url": "https://kitaishihon.com/company/4172/management-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "当社が安定的な成長を確保していくためには、「歯科医療や保険診療等の電子カルテメーカーとして必須の専門知識」と「ソフトウェア及びハードウェアに係るITスキル」「知識とスキルを駆使して行う説明会講師や顧客ニーズを引き出すコミュニケーション能力」を備えた人財の確保が重要となります",
+    "url": "https://kitaishihon.com/company/4172/management-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "当社の主たるシステムは、その性質上、歯科医院の患者情報を扱うことになり、顧客におけるシステム切り替え時のデータコンバートや買替時など、当社も個人情報に関わることがあります",
+    "url": "https://kitaishihon.com/company/4172/management-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "当社の顧客は歯科医院という医療機関であるため、有事発生時であっても当社には従来通りの役割が求められます",
+    "url": "https://kitaishihon.com/company/4172/management-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "現状、これら自然災害・緊急事態等が発生した場合に備え、BCP（事業継続計画）策定により有事発生時への対処策を立案し、顧客、事業及び財務状況への影響を最小化するよう努めております",
+    "url": "https://kitaishihon.com/company/4172/management-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/4172/management-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "1978年、『売上なくして経営なし 利益なくして事業なし 人生もロマン 経営もロマン 無限の可能性に挑戦』を経営理念、また「サポートなくして販売なし」「お客様の笑顔、お客様の満足が私たちの喜び」「顔が見え、心が触れ合う」を事業理念に掲げ歯科医療に夢と未来を提供したいとの強い思いから創業しました",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "販売先である歯科医院は、原則としてリース契約を活用して支払いを行います",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "商品のハードウェアに係る修理・保守については、顧客による実費負担となっております",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、顧客である歯科医院は、顧客が独自に結成している任意の互助会組織HMG",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "2025年９月30日現在、HMGへの加入は顧客2,974件中、2,916件となっております",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "）とは当社の顧客が独自に結成している任意の",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社の顧客は月当たり1,500円からの会費（なお、システム規模により変動）を納入することで、入会できます",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社及び顧客等との関連を系統図で示すと以下のとおりとなります",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "（*１）上図の[リース活用時]は、顧客が当社商品の購入に当たり、リース会社とリース契約を締結した場合の資金の流れです",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "（*２）上図の[現金取引時］は、顧客が当社商品の購入に当たり、販売代金を直接、顧客から当社に支払う場合の資金の流れです",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "一方、顧客である歯科医院の抱える問題として、慢性的な歯科衛生士不足、保険治療主体から予防歯科へのシフト、来たる国民皆歯科健診への患者受け入れ体制強化等、医療ＤＸによる業務効率化を迫られています",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "歯周病治療・予防に係る検査と記録を歯科医師・衛生士１人で完結するだけでなく、短縮された時間を利用してお客様とのコミュニケーションやカウンセリングの時間に充てることで、患者様の満足度や歯周病予防への意識を高め、定期メンテナンス促進へ繋げることができます",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社の電子カルテ機能については、「医療情報システムの安全管理に関するガイドライン 第６版（令和５年５月）」（厚生労働省）で示されている「電子保存の３基準」に適合するため、株式会社日立製作所のデータベース「HiRDB」に指静脈生体認証システムを組み合わせることで、データベースに対するあらゆる操作及び操作者の記録や、不正な書換・消去などの防止を可能とし、患者及び顧客である歯科医院が安心して利用できるシステムを提供しており、併せて歯科医院の様々な業務に関するオプション製品を揃えております",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "上表の主力商品のコンセプトに、患者及び歯科医院の安心と満足につながる情報システムをパッケージソフトとして提供してまいりました結果、中には20年以上の長期にわたる取引関係となる顧客も多く、当社の顧客による買替更新比率は91.1％",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "となり、顧客数は以下のとおり推移しております",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "２．買替更新比率は、2020年10月１日から2025年９月30日を対象期間として、当社顧客のうち買替更新を行った顧客の合計件数を、",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社顧客のうち買替更新を行った顧客の合計件数と他社切替により当社との取引関係を解除した顧客の合計件数の合計で除して計算しております",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "（地域ブロック別の顧客数の推移）",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、当社は顧客である歯科医院の安心感・満足感を高めるため、創業以来、「ソフトウェア三無主義」を提唱し、定期的な保守料等は受け取っておりません",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、顧客である歯科医院は、当社商品の購入後、毎月定額の保守料等の費用負担なく安心してサポートサービスを受けることができます",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "その担当エリアにおいて当社社員は、新規顧客への営業活動と、既存顧客に対する保守サービス等のサポート活動を行っております",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "新規顧客への営業活動としては、顧客となる歯科医院に直接訪問し、医院運営に適ったシステムとアプリケーションを提案する営業を行っております",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "既存顧客に対するサポート活動としては、顧客ごとに専任の営業サポート社員を配置し、地域密着のサポート体制をとっております",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、定期的な顧客訪問、診療報酬改定時の情報提供（例えば、説明用冊子の作成など）、改定内容に係る説明会の開催や訪問時の個別説明、顧客の歯科医院内での業務フローに合わせた細かなシステム設定、機器障害発生時での訪問対応等があります",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "このようなサポートを専任体制により提供することで、顧客との信頼関係が醸成されると考えております",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "社外役員の独立性に関する基準又は方針は定めておりませんが、選任に際しては、株式会社東京証券取引所の定める独立性に関する判断基準を参考に、当社の主要な取引先の出身者ではないこと、豊富な知識・経験に基づき客観的な視点から当社の経営等に対し、適切な意見具申が期待できること等を基準としております",
+    "url": "https://kitaishihon.com/company/4172/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/4172/board-of-director",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "お問い合わせ・資料請求・オンラインご相談サービスは",
+    "url": "https://hi-crates.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ・資料請求・オンラインご相談サービスは",
+    "url": "https://hi-crates.co.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ・資料請求・オンラインご相談サービスは",
+    "url": "https://hi-crates.co.jp/product/dental/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ・資料請求・オンラインご相談サービスは",
+    "url": "https://hi-crates.co.jp/revo11/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ・資料請求・オンラインご相談サービスは",
+    "url": "https://hi-crates.co.jp/p-voice-dental-spirit/",
+    "pass": 1
+   },
+   {
+    "quote": "日立製作所HiRDB製品情報ページへ",
+    "url": "https://hi-crates.co.jp/product/irdb/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ・資料請求・オンラインご相談サービスは",
+    "url": "https://hi-crates.co.jp/product/irdb/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ・資料請求・オンラインご相談サービスは",
+    "url": "https://hi-crates.co.jp/company/company-ir/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ・資料請求・オンラインご相談サービスは",
+    "url": "https://hi-crates.co.jp/company/company-ir/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "日立中国ソフトウェア株式会社（現株式会社日立ソリューションズ西日本）入社",
+    "url": "https://hi-crates.co.jp/company/company-ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社日立ソリューションズ西日本 第２公共システム事業部 本部長",
+    "url": "https://hi-crates.co.jp/company/company-ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社日立ソリューションズ西日本 退社",
+    "url": "https://hi-crates.co.jp/company/company-ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社エレコム情報サービス 代表取締役",
+    "url": "https://hi-crates.co.jp/company/company-ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ・資料請求・オンラインご相談サービスは",
+    "url": "https://hi-crates.co.jp/company/company-ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ・資料請求・オンラインご相談サービスは",
+    "url": "https://hi-crates.co.jp/company/company-ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ・資料請求・オンラインご相談サービスは",
+    "url": "https://hi-crates.co.jp/company/company-ir/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ・資料請求・オンラインご相談サービスは",
+    "url": "https://hi-crates.co.jp/company/company-ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ・資料請求・オンラインご相談サービスは",
+    "url": "https://hi-crates.co.jp/company/company-ir/performance/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ・資料請求・オンラインご相談サービスは",
+    "url": "https://hi-crates.co.jp/company/company-ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ・資料請求・オンラインご相談サービスは",
+    "url": "https://hi-crates.co.jp/company/company-ir/cashflow/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ・資料請求・オンラインご相談サービスは",
+    "url": "https://hi-crates.co.jp/company/company-ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ・資料請求・オンラインご相談サービスは",
+    "url": "https://hi-crates.co.jp/company/company-ir/results/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ・資料請求・オンラインご相談サービスは",
+    "url": "https://hi-crates.co.jp/company/company-ir/presentations/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ・資料請求・オンラインご相談サービスは",
+    "url": "https://hi-crates.co.jp/company/company-ir/securities/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ・資料請求・オンラインご相談サービスは",
+    "url": "https://hi-crates.co.jp/company/company-ir/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ・資料請求・オンラインご相談サービスは",
+    "url": "https://hi-crates.co.jp/company/company-ir/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ・資料請求・オンラインご相談サービスは",
+    "url": "https://hi-crates.co.jp/company/company-ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ・資料請求・オンラインご相談サービスは",
+    "url": "https://hi-crates.co.jp/company/company-ir/quote/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ・資料請求・オンラインご相談サービスは",
+    "url": "https://hi-crates.co.jp/company/company-ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、金融商品取引法等の諸法令および東京証券取引所の定める有価証券上場規程の「会社情報の適時開示等」(以下、「適時開示規則」といいます)に従って、透明性、公平性、継続性を基本とした迅速な情報開示を行います",
+    "url": "https://hi-crates.co.jp/company/company-ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ・資料請求・オンラインご相談サービスは",
+    "url": "https://hi-crates.co.jp/company/company-ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "(４) 特定商品に特化した事業展開について",
+    "url": "https://kitaishihon.com/company/4172/management-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "当社は現在まで、歯科電子カルテ統合システムの開発・販売に取り組むとともに、市場及び顧客のニーズに真摯に対応することでシェアを伸ばしてまいりましたが、特定商品の供給に特化していることから、当該商品に重大な課題が判明した場合や、市場と大きなミスマッチが発生した場合、当社の財政状態及び経営成績に影響を及ぼす可能性があります",
+    "url": "https://kitaishihon.com/company/4172/management-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "また同契約は、IT機器の安定調達、及び新商品開発時の知識面・技術面での助言や支援など、当社の事業活動の円滑化・安定化に貢献しております",
+    "url": "https://kitaishihon.com/company/4172/management-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、仕入先が限定的であることからこれらの取引先の経営環境の著しい悪化や、商品の供給に重大な問題が生じた場合には、当社の財政状態及び経営成績に影響を及ぼす可能性があります",
+    "url": "https://kitaishihon.com/company/4172/management-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "(７) 商品の品質管理について",
+    "url": "https://kitaishihon.com/company/4172/management-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "当社は歯科電子カルテ統合システムとして、「Hi Dental Spirit」シリーズと附属するアプリケーションは自社で研究・開発を進めており、リリースしている商品について、自社で独自の品質管理を行っております",
+    "url": "https://kitaishihon.com/company/4172/management-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "これまで重大な不具合等は生じておりませんが、何らかの特殊事情により展開している商品について重大な不具合等が生じ、これに対するリカバリーに多くの業務量を要する場合や、新規の供給が停滞するような場合、当社の財政状態及び経営成績に影響を及ぼす可能性があります",
+    "url": "https://kitaishihon.com/company/4172/management-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "当社の営業サポート社員は、新規顧客への営業活動と既存顧客に対する保守サービス等のサポート活動の双方を担当しております",
+    "url": "https://kitaishihon.com/company/4172/management-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "(10) 新商品・サービスの開発及び技術革新等によるプログラム修正について",
+    "url": "https://kitaishihon.com/company/4172/management-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、開発の全てが順調に進み新商品・サービスを提供できるとは限らず、開発途中における修正や見直し等により新商品・サービスの投入に遅れが生じたり、開発そのものが中止された場合には、当社の財政状態及び経営成績に影響を及ぼす可能性があります",
+    "url": "https://kitaishihon.com/company/4172/management-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "当社が提供する地域密着型のサポートサービスを維持するために必要な人員数を割り込む程の人財流出が発生した場合、当社の財政状態及び経営成績に影響を及ぼす可能性があります",
+    "url": "https://kitaishihon.com/company/4172/management-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "当社が保有する商標権は、ロゴマーク及び商品名である「Hi Dental Spirit 」（歯科電子カルテ統合システム）の２つであります",
+    "url": "https://kitaishihon.com/company/4172/management-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "また、当社が商品開発やプロモーション等を行う場合、必要に応じて第三者の特許権、商標権等の知的財産権の登録・使用状況を外部の弁理士等を通じて調査することで、知的財産権に関わるリスク低減を図っております",
+    "url": "https://kitaishihon.com/company/4172/management-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、開発の拠点を岡山本社、地域密着型のサポートサービスの拠点を岡山本社とそれ以外の西日本を中心とした主要都市に設置し、商品は岡山本社から各拠点に配送する方式としております",
+    "url": "https://kitaishihon.com/company/4172/management-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、本社や各拠点が被災等の有事発生時に備え、営業・物流も含めたサービス提供機能の維持を課題として取り組んでおります",
+    "url": "https://kitaishihon.com/company/4172/management-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=4172",
+    "pass": 3
+   },
+   {
+    "quote": "主力商品である「AI・音声電子カルテ統合システム」は、厚生労働省のガイドライン(「電子カルテ三原則」真正性・見読性・保存性)に対応、「生体認証指静脈」を採用することで真正性を確保、世界のセキュアDB「HiRDB」を採用することで監査証跡機能による情報漏洩、データ改竄を排除したカルテ機能とiPadを用いたインフォームドコンセント機能、レセプト機能、これらを統合・一元管理を可能としたシステムです",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "そして2026年１月１日、Hiクラテス株式会社へ商号と商品名を統一することで、ブランド力と企業価値をさらに高めていくと共に、これまで培ってきたすべてを一新、ここから30年50年100年と社会に貢献し続ける会社へ成長して参ります",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、仕入先メーカーから機器等を仕入れ、当社が開発したシステムを搭載することで商品とし、これを歯科医院に納品・販売しております",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "商品のハードウェアに係る修理・保守については、顧客による実費負担となっております",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "主な目的は、当社商品に係るハードウェアの修理・保守等に係る費用の負担や会員同士の情報交流です",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "（*１）上図の[リース活用時]は、顧客が当社商品の購入に当たり、リース会社とリース契約を締結した場合の資金の流れです",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "（*２）上図の[現金取引時］は、顧客が当社商品の購入に当たり、販売代金を直接、顧客から当社に支払う場合の資金の流れです",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社事業及び当社が手掛ける商品・サービスには、以下の特徴があります",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "① 商品・サービスについて",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "そこで当社は、情報漏洩とデータ改ざんを排除し、電子カルテ三原則を確保した医療情報セキュリティの構築、電子カルテとオンライン診療を含む予約・問診・受付自動精算機・歯周病検査・画像・治療説明等が一元管理されたシステム、先生が診療しながら、手袋を外さず、音声でカルテ作成・検査結果が記録でき、治療説明の会話記録とテキスト化による自費での診療トラブルを防止できるシステム、この３要素を備えた商品展開を行っております",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社の電子カルテ機能については、「医療情報システムの安全管理に関するガイドライン 第６版（令和５年５月）」（厚生労働省）で示されている「電子保存の３基準」に適合するため、株式会社日立製作所のデータベース「HiRDB」に指静脈生体認証システムを組み合わせることで、データベースに対するあらゆる操作及び操作者の記録や、不正な書換・消去などの防止を可能とし、患者及び顧客である歯科医院が安心して利用できるシステムを提供しており、併せて歯科医院の様々な業務に関するオプション製品を揃えております",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "オンライン診療を含む予約・問診・受付自動精算機・歯周病検査・画像・治療説明等、これらの製品が一元管理されていることで、業務の効率をあげるシステムを販売しています",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "（当社商品の体系について）",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "「ソフトウェア三無主義」──ソフトウェア保守・システムサポート・バージョンアップ",
+    "url": "https://hi-crates.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「システムサポート、ソフト保守、バージョンアップ」",
+    "url": "https://hi-crates.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "HMGは当社の顧客である歯科医師が発起人となり組成された任意団体であり、加入資格は当社の顧客に限定され、ハードウェアの修理・保守に係る費用など会員の負担軽減を目的に規約に沿って運営されております",
+    "url": "https://kitaishihon.com/company/4172/management-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "当社の営業サポート社員は、新規顧客への営業活動と既存顧客に対する保守サービス等のサポート活動の双方を担当しております",
+    "url": "https://kitaishihon.com/company/4172/management-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "商品のハードウェアに係る修理・保守については、顧客による実費負担となっております",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "に加入することで、ハードウェアの修理・保守に係る費用負担を受けることができます",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "主な目的は、当社商品に係るハードウェアの修理・保守等に係る費用の負担や会員同士の情報交流です",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、当社は顧客である歯科医院の安心感・満足感を高めるため、創業以来、「ソフトウェア三無主義」を提唱し、定期的な保守料等は受け取っておりません",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "「ソフトウェア三無主義」とはシステムサポート、ソフトウェア保守、バージョンアップこれら３つを全て無償で行うサービスです",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、顧客である歯科医院は、当社商品の購入後、毎月定額の保守料等の費用負担なく安心してサポートサービスを受けることができます",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "その担当エリアにおいて当社社員は、新規顧客への営業活動と、既存顧客に対する保守サービス等のサポート活動を行っております",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "またこのように、地域に密着して営業活動とサポート活動を行う専任の営業サポート担当社員が、顧客を直接訪問し保守サービス等の「顔の見える」営業サポートを実践することで顧客の要望を把握し、当社システムの一層の進化・向上につなげることで、顧客満足度の向上に取り組んできた結果、既存顧客が定期的に行う基幹システムの入替時において一定の買替更新比率を確保しております",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2006年11月竣工の本社は、社員が毎日正面玄関から出社し「心を揺さぶられる」ような感性と情熱を育み、",
+    "url": "https://hi-crates.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1978年(昭和53年)",
+    "url": "https://hi-crates.co.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "quote": "1978年3月",
+    "url": "https://hi-crates.co.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "quote": "1987年8月",
+    "url": "https://hi-crates.co.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "quote": "1992年3月",
+    "url": "https://hi-crates.co.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "quote": "1995年8月",
+    "url": "https://hi-crates.co.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "quote": "1996年12月",
+    "url": "https://hi-crates.co.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "quote": "1997年2月",
+    "url": "https://hi-crates.co.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "quote": "1999年10月",
+    "url": "https://hi-crates.co.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年3月",
+    "url": "https://hi-crates.co.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年7月",
+    "url": "https://hi-crates.co.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "quote": "2002年11月",
+    "url": "https://hi-crates.co.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "quote": "2004年10月",
+    "url": "https://hi-crates.co.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "quote": "2004年11月",
+    "url": "https://hi-crates.co.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "quote": "2005年3月",
+    "url": "https://hi-crates.co.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "quote": "2005年5月",
+    "url": "https://hi-crates.co.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "quote": "2005年10月",
+    "url": "https://hi-crates.co.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "quote": "2006年5月",
+    "url": "https://hi-crates.co.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "quote": "2006年9月",
+    "url": "https://hi-crates.co.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年10月",
+    "url": "https://hi-crates.co.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年12月",
+    "url": "https://hi-crates.co.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年8月",
+    "url": "https://hi-crates.co.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年3月",
+    "url": "https://hi-crates.co.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年7月",
+    "url": "https://hi-crates.co.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年12月",
+    "url": "https://hi-crates.co.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年5月",
+    "url": "https://hi-crates.co.jp/company/info/",
+    "pass": 1
+   },
+   {
+    "quote": "1965年6月",
+    "url": "https://hi-crates.co.jp/company/company-ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "1978年3月",
+    "url": "https://hi-crates.co.jp/company/company-ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2013年4月",
+    "url": "https://hi-crates.co.jp/company/company-ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2013年6月",
+    "url": "https://hi-crates.co.jp/company/company-ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "1988年4月",
+    "url": "https://hi-crates.co.jp/company/company-ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年4月",
+    "url": "https://hi-crates.co.jp/company/company-ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年7月",
+    "url": "https://hi-crates.co.jp/company/company-ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年10月",
+    "url": "https://hi-crates.co.jp/company/company-ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年11月",
+    "url": "https://hi-crates.co.jp/company/company-ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年10月",
+    "url": "https://hi-crates.co.jp/company/company-ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月",
+    "url": "https://hi-crates.co.jp/company/company-ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年12月",
+    "url": "https://hi-crates.co.jp/company/company-ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "1991年4月",
+    "url": "https://hi-crates.co.jp/company/company-ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2006年11月",
+    "url": "https://hi-crates.co.jp/company/company-ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2011年4月",
+    "url": "https://hi-crates.co.jp/company/company-ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年4月",
+    "url": "https://hi-crates.co.jp/company/company-ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年4月",
+    "url": "https://hi-crates.co.jp/company/company-ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年8月",
+    "url": "https://hi-crates.co.jp/company/company-ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月",
+    "url": "https://hi-crates.co.jp/company/company-ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年4月",
+    "url": "https://hi-crates.co.jp/company/company-ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年4月",
+    "url": "https://hi-crates.co.jp/company/company-ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "1987年4月",
+    "url": "https://hi-crates.co.jp/company/company-ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2012年11月",
+    "url": "https://hi-crates.co.jp/company/company-ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年5月",
+    "url": "https://hi-crates.co.jp/company/company-ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年3月",
+    "url": "https://hi-crates.co.jp/company/company-ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "1978年3月",
+    "url": "https://hi-crates.co.jp/company/company-ir/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "1978年、『売上なくして経営なし 利益なくして事業なし 人生もロマン 経営もロマン 無限の可能性に挑戦』を経営理念、また「サポートなくして販売なし」「お客様の笑顔、お客様の満足が私たちの喜び」「顔が見え、心が触れ合う」を事業理念に掲げ歯科医療に夢と未来を提供したいとの強い思いから創業しました",
+    "url": "https://hi-crates.co.jp/company/company-ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年1月1日より現社名に変更",
+    "url": "https://hi-crates.co.jp/company/company-ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月25日",
+    "url": "https://hi-crates.co.jp/company/company-ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "1980年5月に東和レジスター中国販売株式会社に商号変更、1982年1月に社内にコンピューターシステム部を開設し、外食産業向け販売管理ソフト「OFF LINE POS SYSTEM」の販売を開始、1984年4月に接骨院向けレセプトシステム「師範代」の販売開始、1986年6月に歯科医院向けレセプトシステム「Hi Dental System」の販売開始し、1987年8月に東和ハイシステム株式会社に商号変更いたしました",
+    "url": "https://hi-crates.co.jp/company/company-ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "2006年11月に岡山県岡山市野田三丁目に本社を新築移転し、現在に至っております",
+    "url": "https://hi-crates.co.jp/company/company-ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年12月25日に、東京証券取引所ＪＡＳＤＡＱ（スタンダード）に上場しました",
+    "url": "https://hi-crates.co.jp/company/company-ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月期有価証券報告書より",
+    "url": "https://kitaishihon.com/company/4172/management-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "2025年５月14日",
+    "url": "https://kitaishihon.com/company/4172/management-strategy",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "しかしながらHMGは当社と独立した組織であることから、会員の総意により結成目的や運営方針に大きな転換が発生し、それが当社のビジネスモデルに大きな影響を与える場合、当社の財政状態及び経営成績に影響を及ぼす可能性があります",
+    "url": "https://kitaishihon.com/company/4172/management-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "（ビジネスモデル）",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "（事業系統図）",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "結成以来、HMGと当社は非常に良好な関係を維持しており、相互に敬意を払いながら共通の利益を追求するパートナー関係を構築しております",
+    "url": "https://kitaishihon.com/company/4172/management-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=4172",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=4172",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=4172",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=4172",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "(１) 競争優位を脅かす技術革新等について",
+    "url": "https://kitaishihon.com/company/4172/management-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率（%）",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=4172",
+    "pass": 3
+   },
+   {
+    "quote": "また、外注委託の活用を限定的とすることで、製販一体の強みをより生かすことができるとの考えによります",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "当事業年度の売上高営業利益率は",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Hiクラテス 【4172】のリスク・配当 - キタイシホン — Hiクラテス 【4172】のリスク・配当 - キタイシホン キタイシホン https://kitaishihon.com > company > management-strategy",
+    "url": "https://kitaishihon.com/company/4172/management-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "AI・音声 Hiクラテス 元年 ナレーション動画 - YouTube — AI・音声 Hiクラテス 元年 ナレーション動画 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=89VD6HkDfd8",
+    "pass": 3
+   },
+   {
+    "quote": "Hiクラテス - Wikipedia — Hiクラテス - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > Hiクラテス",
+    "url": "https://ja.wikipedia.org/wiki/Hi%E3%82%AF%E3%83%A9%E3%83%86%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "Hiクラテス （4172）のプロフィール | 会社四季報オンライン — Hiクラテス （4172）のプロフィール | 会社四季報オンライン 四季報オンライン https://shikiho.toyokeizai.net > 銘柄研究 > Hiクラテス",
+    "url": "https://shikiho.toyokeizai.net/stocks/4172/corporate",
+    "pass": 3
+   },
+   {
+    "quote": "岡山の東和ハイシステム、社名を Hiクラテス に変更 25年1月 — 岡山の東和ハイシステム、社名を Hiクラテス に変更 25年1月 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXZQOCC2938K0Z20C25A9000000/",
+    "pass": 3
+   },
+   {
+    "quote": "【 Hiクラテス 】[4172] 決算 発表や業務・財務情報 | 日経電子版 — 【 Hiクラテス 】[4172] 決算 発表や業務・財務情報 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kessan",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=4172",
+    "pass": 3
+   },
+   {
+    "quote": "Hiクラテス 【4172】の最新 決算 発表、業績修正 - 株探 — Hiクラテス 【4172】の最新 決算 発表、業績修正 - 株探 株探 https://kabutan.jp > Ｈｉクラテス (4172) > 決算",
+    "url": "https://kabutan.jp/stock/finance?code=4172",
+    "pass": 3
+   },
+   {
+    "quote": "Hi クラテス (4172)の概要 - 銘柄スカウターライト — Hi クラテス (4172)の概要 - 銘柄スカウターライト 銘柄スカウターライト https://scouter.monex.co.jp > report > top",
+    "url": "https://scouter.monex.co.jp/report/top/4172",
+    "pass": 3
+   },
+   {
+    "quote": "【 Hiクラテス 】[4172]IR情報 中期経営計画や 決算 短信 | 日経 ... — 【 Hiクラテス 】[4172]IR情報 中期経営計画や 決算 短信 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=4172",
+    "pass": 3
+   },
+   {
+    "quote": "Hiクラテス 【4172】の 事業 内容 - キタイシホン — Hiクラテス 【4172】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "【 Hiクラテス 】[4172]企業概要 社員数や役員報酬・資本金 — 【 Hiクラテス 】[4172]企業概要 社員数や役員報酬・資本金 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=4172",
+    "pass": 3
+   },
+   {
+    "quote": "Hiクラテス [ハイクラテス]（旧東和ハイシステム）（4172） — Hiクラテス [ハイクラテス]（旧東和ハイシステム）（4172） やさしいIPO株のはじめ方 https://www.ipokiso.com > company > towa-hi-sys",
+    "url": "https://www.ipokiso.com/company/2020/towa-hi-sys.html",
+    "pass": 3
+   },
+   {
+    "quote": "Hiクラテス 【4172】の 社長 ・役員 - キタイシホン — Hiクラテス 【4172】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/4172/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "Hiクラテス 株式会社の転職・企業概要 - doda — Hiクラテス 株式会社の転職・企業概要 - doda doda https://doda.jp > View > Company > j_id__10000952618",
+    "url": "https://doda.jp/DodaFront/View/Company/j_id__10000952618/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=4172",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "（単一セグメント）",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "単一セグメントの企業の場合は、連結（あるいは単体）の売上と営業利益を反映しています",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、当社の事業は「歯科医院向けシステム事業」の単一セグメントであります",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、当社は「歯科医院向けシステム事業」の単一セグメントであるため、地域ブロック別に記載しております",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、当社は「歯科医院向けシステム事業」の単一セグメントであるため、収益形態別及び地域ブロック別に記載しております",
+    "url": "https://kitaishihon.com/company/4172/business",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://hi-crates.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hi-crates.co.jp/company/info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hi-crates.co.jp/product/dental/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hi-crates.co.jp/revo11/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hi-crates.co.jp/p-voice-dental-spirit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hi-crates.co.jp/product/irdb/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hi-crates.co.jp/company/company-ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hi-crates.co.jp/company/company-ir/irnews/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hi-crates.co.jp/company/company-ir/executive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hi-crates.co.jp/company/company-ir/governance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hi-crates.co.jp/company/company-ir/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hi-crates.co.jp/company/company-ir/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hi-crates.co.jp/company/company-ir/performance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hi-crates.co.jp/company/company-ir/finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hi-crates.co.jp/company/company-ir/cashflow/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hi-crates.co.jp/company/company-ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hi-crates.co.jp/company/company-ir/results/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hi-crates.co.jp/company/company-ir/presentations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hi-crates.co.jp/company/company-ir/securities/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hi-crates.co.jp/company/company-ir/meeting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hi-crates.co.jp/company/company-ir/disclosure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hi-crates.co.jp/company/company-ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hi-crates.co.jp/company/company-ir/quote/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hi-crates.co.jp/company/company-ir/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hi-crates.co.jp/company/company-ir/policy/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://kitaishihon.com/company/4172/management-strategy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=89VD6HkDfd8",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=4172",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kabutan.jp/stock/finance?code=4172",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kitaishihon.com/company/4172/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=4172",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/4172/board-of-director",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Hiクラテス",
+   "results": [
+    "https://hi-crates.co.jp/company/info/",
+    "https://hi-crates.co.jp/",
+    "https://www.nikkei.com/article/DGXZQOCC2938K0Z20C25A9000000/",
+    "https://ja.wikipedia.org/wiki/Hi%E3%82%AF%E3%83%A9%E3%83%86%E3%82%B9",
+    "https://shikiho.toyokeizai.net/stocks/4172/corporate",
+    "https://syukatsu-kaigi.jp/companies/11808/word_mouths",
+    "https://www.youtube.com/channel/UCRzV-rRliQL32bOi2ATflXg",
+    "https://minkabu.jp/stock/4172",
+    "https://ja.wikipedia.org/wiki/Hiクラテス",
+    "https://minkabu.jp/news/4616740"
+   ]
+  },
+  {
+   "query": "Hiクラテス ビジネスモデル",
+   "results": [
+    "https://kitaishihon.com/company/4172/management-strategy",
+    "https://www.youtube.com/watch?v=89VD6HkDfd8",
+    "https://ja.wikipedia.org/wiki/Hi%E3%82%AF%E3%83%A9%E3%83%86%E3%82%B9",
+    "https://shikiho.toyokeizai.net/stocks/4172/corporate",
+    "https://www.nikkei.com/article/DGXZQOCC2938K0Z20C25A9000000/",
+    "https://www.youtube.com/channel/UCRzV-rRliQL32bOi2ATflXg",
+    "https://www.buffett-code.com/company/4172/",
+    "https://forbesjapan.com/articles/detail/87333",
+    "https://ja.wikipedia.org/wiki/Hiクラテス",
+    "https://hi-crates.co.jp/"
+   ]
+  },
+  {
+   "query": "Hiクラテス 決算説明資料",
+   "results": [
+    "https://www.nikkei.com/nkd/company/kessan/?scode=4172",
+    "https://kabutan.jp/stock/finance?code=4172",
+    "https://scouter.monex.co.jp/report/top/4172",
+    "https://kitaishihon.com/company/4172/management-strategy",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=4172",
+    "https://www.buffett-code.com/company/4172/",
+    "https://web.fisco.jp/platform/companies/0417200",
+    "https://shikiho.toyokeizai.net/stocks/4172/corporate",
+    "https://hi-crates.co.jp/company/company-ir/presentations/",
+    "https://edinetdb.jp/company/E36002/presentations/"
+   ]
+  },
+  {
+   "query": "Hiクラテス 事業系統図",
+   "results": [
+    "https://kitaishihon.com/company/4172/business",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=4172",
+    "https://scouter.monex.co.jp/report/top/4172",
+    "https://shikiho.toyokeizai.net/stocks/4172/corporate",
+    "https://www.ipokiso.com/company/2020/towa-hi-sys.html",
+    "https://web.fisco.jp/platform/companies/0417200",
+    "https://www.buffett-code.com/company/4172/",
+    "https://www.sanyonews.jp/article/1799164",
+    "https://ja.wikipedia.org/wiki/Hiクラテス",
+    "https://hi-crates.co.jp/"
+   ]
+  },
+  {
+   "query": "Hiクラテス 社長 インタビュー",
+   "results": [
+    "https://kitaishihon.com/company/4172/board-of-director",
+    "https://hi-crates.co.jp/company/company-ir/executive/",
+    "https://www.youtube.com/watch?v=89VD6HkDfd8",
+    "https://doda.jp/DodaFront/View/Company/j_id__10000952618/",
+    "https://ja.wikipedia.org/wiki/Hi%E3%82%AF%E3%83%A9%E3%83%86%E3%82%B9",
+    "https://www.nikkei.com/article/DGXZQOCC2938K0Z20C25A9000000/",
+    "https://shikiho.toyokeizai.net/stocks/4172/corporate",
+    "https://newsdig.tbs.co.jp/articles/rsk/2196137?display=1",
+    "https://www.youtube.com/channel/UCRzV-rRliQL32bOi2ATflXg",
+    "https://ja.wikipedia.org/wiki/Hiクラテス"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式25頁／PDF・画像0件／外部7頁・検索5回）"
+ }
+}

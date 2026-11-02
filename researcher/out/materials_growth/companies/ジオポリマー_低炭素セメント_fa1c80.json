@@ -1,0 +1,1785 @@
+{
+ "name": "ジオポリマー・低炭素セメント",
+ "en": "geopolymer cement",
+ "aliases": [
+  "low carbon cement",
+  "green cement",
+  "ジオポリマー"
+ ],
+ "context": "建築",
+ "kind": "market",
+ "researched_at": "2026-11-02T17:35:01.270896+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "ジオポリマー市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/geopolymers-market",
+    "pass": 3
+   },
+   {
+    "quote": "ジオポリマー市場規模、シェア、トレンド分析レポート：製品タイプ別（セメント、コンクリート、プレキャストパネル、グラウト、バインダー、岩石系、カオリン系、メタカオリン系、カルシウム系、その他）、用途別（建築、道路・舗装、滑走路、パイプ・コンクリート補修、橋梁、トンネルライニング、鉄道枕木、コーティング用途、耐火、その他）、充填材別（フライアッシュ）、エンドユーザー別（輸送、建築、インフラ、産業、芸術・装飾、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）、予測、2026～2034年",
+    "url": "https://straitsresearch.com/jp/report/geopolymers-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のジオポリマー市場規模は、2025年には160億1000万米ドルと評価され、2026年の190億5000万米ドルから2034年には766億2000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は19%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/geopolymers-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の市場規模は、予測期間中に年平均成長率（CAGR）30.2%で成長し、2030年までに108億4,500万米ドルに達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/geopolymers-market",
+    "pass": 3
+   },
+   {
+    "quote": "ジオポリマー市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）19%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/geopolymers-market",
+    "pass": 3
+   },
+   {
+    "quote": "光触媒市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/geopolymers-market",
+    "pass": 3
+   },
+   {
+    "quote": "銀ナノワイヤー市場規模、シェア、成長率、分析（2034年）",
+    "url": "https://straitsresearch.com/jp/report/geopolymers-market",
+    "pass": 3
+   },
+   {
+    "quote": "グラフェン市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/geopolymers-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本ジオポリマー市場規模・シェア・予測2034",
+    "url": "https://www.imarcgroup.com/report/ja/japan-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本ジオポリマー市場規模、シェア、動向および予測用途、エンドユーザー業界、地域別2026年～2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のジオポリマー市場規模は、2025年に",
+    "url": "https://www.imarcgroup.com/report/ja/japan-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 625.2百万に",
+    "url": "https://www.imarcgroup.com/report/ja/japan-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 3,037.3百万に",
+    "url": "https://www.imarcgroup.com/report/ja/japan-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.imarcgroup.com/report/ja/japan-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "IMARCグループによると、日本の建設市場規模は2033年までに9,374億米ドルに達すると予想されています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のデジタルテキスタイルプリンティング市場規模・シェア・動向と予測 印刷方式・基材タイプ・インクタイプ・用途・地域別、2026年～2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の鋼管市場規模、シェア、動向および予測、製品タイプ別、材料タイプ別、エンドユース産業別、地域別、2026-2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本粉体塗装装置市場規模、シェア、動向および予測樹脂タイプ別、コンポーネント別、最終用途産業別、地域別、2026-2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "脱炭素コンクリートの世界市場（2026年～2032年）、市場規模（カーボンネガティブコンクリート、セメントフリーコンクリート）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/news/7104576",
+    "pass": 3
+   },
+   {
+    "quote": "脱炭素コンクリートの世界市場（2026年～2032年）、市場規模（カーボンネガティブコンクリート、セメントフリーコンクリート）・分析レポートを発表",
+    "url": "https://newscast.jp/news/7104576",
+    "pass": 3
+   },
+   {
+    "quote": "世界の脱炭素コンクリート市場規模は、2025年の6億700万米ドルから2032年には15億1400万米ドルに拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）14.0%で成長すると見込まれています",
+    "url": "https://newscast.jp/news/7104576",
+    "pass": 3
+   },
+   {
+    "quote": "米国市場規模（2021-2026年）",
+    "url": "https://newscast.jp/news/7104576",
+    "pass": 3
+   },
+   {
+    "quote": "カナダ市場規模（2021-2026年）",
+    "url": "https://newscast.jp/news/7104576",
+    "pass": 3
+   },
+   {
+    "quote": "メキシコ市場規模（2021-2026年）",
+    "url": "https://newscast.jp/news/7104576",
+    "pass": 3
+   },
+   {
+    "quote": "ブラジル市場規模（2021-2026年）",
+    "url": "https://newscast.jp/news/7104576",
+    "pass": 3
+   },
+   {
+    "quote": "中国市場規模（2021-2026年）",
+    "url": "https://newscast.jp/news/7104576",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場規模（2021-2026年）",
+    "url": "https://newscast.jp/news/7104576",
+    "pass": 3
+   },
+   {
+    "quote": "韓国市場規模（2021-2026年）",
+    "url": "https://newscast.jp/news/7104576",
+    "pass": 3
+   },
+   {
+    "quote": "東南アジア市場規模（2021-2026年）",
+    "url": "https://newscast.jp/news/7104576",
+    "pass": 3
+   },
+   {
+    "quote": "インド市場規模（2021-2026年）",
+    "url": "https://newscast.jp/news/7104576",
+    "pass": 3
+   },
+   {
+    "quote": "オーストラリア市場規模（2021-2026年）",
+    "url": "https://newscast.jp/news/7104576",
+    "pass": 3
+   },
+   {
+    "quote": "ジオポリマー市場規模、シェア&予測2032",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のジオポリマー市場規模、シェア、トレンド分析レポート – 業界概要と2032年までの予測",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024 年の市場規模",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 9.81 Billion",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "2032 年の市場規模",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 24.69 Billion",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 15.56 Billion",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "ジオポリマーの日本市場（2026年～2034年）、市場規模（セメントおよびコンクリート、炉および反応器断熱材、複合材料）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/3340916",
+    "pass": 3
+   },
+   {
+    "quote": "ジオポリマーの日本市場（2026年～2034年）、市場規模（セメントおよびコンクリート、炉および反応器断熱材、複合材料）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3340916",
+    "pass": 3
+   },
+   {
+    "quote": "2025年における日本のジオポリマー市場規模は6億2520万ドルに達しました",
+    "url": "https://www.atpress.ne.jp/news/3340916",
+    "pass": 3
+   },
+   {
+    "quote": "ジオポリマーは産業廃棄物の削減と低炭素インフラ開発を可能にする二重の利益を提供し、本調査会社によると、日本の建設市場規模は2033年までに9374億ドルに達すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/3340916",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3340916",
+    "pass": 3
+   },
+   {
+    "quote": "コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3340916",
+    "pass": 3
+   },
+   {
+    "quote": "セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3340916",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3340916",
+    "pass": 3
+   },
+   {
+    "quote": "食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3340916",
+    "pass": 3
+   },
+   {
+    "quote": "水性ポリウレタン離型剤の世界市場（2026年～2032年）、市場規模（シリコーン油系、ワックス系、脂肪酸系、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3340916",
+    "pass": 3
+   },
+   {
+    "quote": "SMDサーモパイルセンサーの世界市場（2026年～2032年）、市場規模（シングルチャンネルセンサー、デュアルチャンネルセンサー）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3340916",
+    "pass": 3
+   },
+   {
+    "quote": "ジオポリマー市場 | 業界シェア 市場規模 成長性 2026 - 2031年",
+    "url": "https://www.gii.co.jp/report/moi2122011-geopolymer-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "第5章 市場規模と成長予測",
+    "url": "https://www.gii.co.jp/report/moi2122011-geopolymer-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 4,750 換算",
+    "url": "https://www.gii.co.jp/report/moi2122011-geopolymer-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 5,250 換算",
+    "url": "https://www.gii.co.jp/report/moi2122011-geopolymer-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 6,500 換算",
+    "url": "https://www.gii.co.jp/report/moi2122011-geopolymer-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 8,750 換算",
+    "url": "https://www.gii.co.jp/report/moi2122011-geopolymer-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "ジオポリマー市場規模、シェア、および成長分析：製品タイプ別、用途別、物理形態別、最終用途別、地域別－業界予測2026-2033年",
+    "url": "https://www.gii.co.jp/report/moi2122011-geopolymer-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "ジオポリマーの世界市場規模、シェア、動向および成長分析レポート2026-2034年",
+    "url": "https://www.gii.co.jp/report/moi2122011-geopolymer-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "ジオポリマーコンクリート市場規模および2033年までの予測",
+    "url": "https://univdatos.com/ja/reports/geopolymer-concrete-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のジオポリマーコンクリート市場は、2024年には約91億4020万米ドルと評価され、炭素排出量を削減するための持続可能で環境に優しい建設資材の需要増加により、予測期間（2025年～2033年F）中に約11.5％の強いCAGRで成長すると予想されています",
+    "url": "https://univdatos.com/ja/reports/geopolymer-concrete-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の市場規模",
+    "url": "https://univdatos.com/ja/reports/geopolymer-concrete-market",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "ジオポリマー市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/geopolymers-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のジオポリマー市場規模は、2025年には160億1000万米ドルと評価され、2026年の190億5000万米ドルから2034年には766億2000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は19%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/geopolymers-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は最大の市場シェアを占めており、予測期間中に年平均成長率（CAGR）28.8%で成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/geopolymers-market",
+    "pass": 3
+   },
+   {
+    "quote": "ヨーロッパ：年平均成長率30.2％で最も成長の速い地域",
+    "url": "https://straitsresearch.com/jp/report/geopolymers-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の市場規模は、予測期間中に年平均成長率（CAGR）30.2%で成長し、2030年までに108億4,500万米ドルに達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/geopolymers-market",
+    "pass": 3
+   },
+   {
+    "quote": "ジオポリマー市場の規模は、2026年には190億5000万米ドルと評価され、2034年までに766億2000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は19%です",
+    "url": "https://straitsresearch.com/jp/report/geopolymers-market",
+    "pass": 3
+   },
+   {
+    "quote": "ジオポリマー市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）19%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/geopolymers-market",
+    "pass": 3
+   },
+   {
+    "quote": "光触媒市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/geopolymers-market",
+    "pass": 3
+   },
+   {
+    "quote": "銀ナノワイヤー市場規模、シェア、成長率、分析（2034年）",
+    "url": "https://straitsresearch.com/jp/report/geopolymers-market",
+    "pass": 3
+   },
+   {
+    "quote": "金ナノ粒子市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/geopolymers-market",
+    "pass": 3
+   },
+   {
+    "quote": "グラフェン市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/geopolymers-market",
+    "pass": 3
+   },
+   {
+    "quote": "達すると予測しており、2026年から2034年の期間中、年平均成長率",
+    "url": "https://www.imarcgroup.com/report/ja/japan-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "（CAGR）は19.20%と",
+    "url": "https://www.imarcgroup.com/report/ja/japan-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場成長率 2026-2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の脱炭素コンクリート市場規模は、2025年の6億700万米ドルから2032年には15億1400万米ドルに拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）14.0%で成長すると見込まれています",
+    "url": "https://newscast.jp/news/7104576",
+    "pass": 3
+   },
+   {
+    "quote": "12.23%のCAGR",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のジオポリマー市場市場は、2025年から2032年の予測期間に年平均成長率12.23%で成長すると予測されています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "本調査会社は、市場が2026年から2034年の期間に19.20%の複合年間成長率（CAGR）で推移し、2034年までに30億3730万ドルに達すると予測しています",
+    "url": "https://www.atpress.ne.jp/news/3340916",
+    "pass": 3
+   },
+   {
+    "quote": "Mordor Intelligenceによると、ジオポリマー市場の規模は、2025年の86億9,000万米ドルから2026年には96億4,000万米ドルへと拡大し、2026年から2031年にかけてCAGR 10.88％で推移し、2031年までに161億5,000万米ドルに達すると予測されています",
+    "url": "https://www.gii.co.jp/report/moi2122011-geopolymer-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、インドではフライアッシュが生産され、政策による利用促進策が講じられた結果、前駆体価格が前年比で下落しました",
+    "url": "https://www.gii.co.jp/report/moi2122011-geopolymer-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "中東およびアフリカ地域は、CAGR10.92％でこの動きを牽引しています",
+    "url": "https://www.gii.co.jp/report/moi2122011-geopolymer-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の86億9,000万米ドルから2026年には96億4,000万米ドルへと拡大し、2031年までに161億5,000万米ドルに達すると予測されています",
+    "url": "https://www.gii.co.jp/report/moi2122011-geopolymer-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRは10.88％です",
+    "url": "https://www.gii.co.jp/report/moi2122011-geopolymer-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "厳格なCO2排出規制により、ポルトランドセメントとジオポリマー結合剤とのコスト格差が拡大する見込みです",
+    "url": "https://www.gii.co.jp/report/moi2122011-geopolymer-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のジオポリマーコンクリート市場は、2024年には約91億4020万米ドルと評価され、炭素排出量を削減するための持続可能で環境に優しい建設資材の需要増加により、予測期間（2025年～2033年F）中に約11.5％の強いCAGRで成長すると予想されています",
+    "url": "https://univdatos.com/ja/reports/geopolymer-concrete-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 11.5%で加速",
+    "url": "https://univdatos.com/ja/reports/geopolymer-concrete-market",
+    "pass": 3
+   },
+   {
+    "quote": "環境に優しい建設資材と持続可能なインフラソリューションに対する需要の高まりにより、2025年から2033年にかけて11.5%という力強いCAGRで成長すると予想されています",
+    "url": "https://univdatos.com/ja/reports/geopolymer-concrete-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026–2035)",
+    "url": "https://www.gminsights.com/industry-analysis/geopolymer-cement-market",
+    "pass": 3
+   },
+   {
+    "quote": "Slag-based (GGBS) geopolymer cement is projected to reach USD 1.16 billion by 2035 and expand at a 17.8% CAGR (2026-2035). Its commercial appeal rests on established industrial handling practices and a comparatively consistent feedstock profile, making GGBS a practical route for producers serving infrastructure and higher-specification applications in steel-producing regions.",
+    "url": "https://www.gminsights.com/industry-analysis/geopolymer-cement-market",
+    "pass": 3
+   },
+   {
+    "quote": "Metakaolin-based geopolymer cement is projected to generate USD 847 million by 2035 and grow at a 21.6% CAGR (2026-2035). Its purity and reactivity support formulations where early strength, repeatability, and dense microstructure are critical, positioning the material for certification-sensitive construction and severe-service environments.",
+    "url": "https://www.gminsights.com/industry-analysis/geopolymer-cement-market",
+    "pass": 3
+   },
+   {
+    "quote": "Red mud-based geopolymer cement represented 2% of revenue in 2025 and is projected to grow at a 30.0% CAGR (2026-2035). The category's opportunity is tied to its ability to turn a challenging alumina-refining residue into a usable binder input, linking adoption to refinery partnerships, waste-valorization policy, and reliable processing capability.",
+    "url": "https://www.gminsights.com/industry-analysis/geopolymer-cement-market",
+    "pass": 3
+   },
+   {
+    "quote": "Mortar & grouts are projected to reach USD 530 million by 2035 and advance at a 17.2% CAGR (2026-2035). These applications benefit where rapid repair, chemical resistance, and adhesion to existing substrates matter more than lowest-cost binder selection, particularly in industrial maintenance and rehabilitation work.",
+    "url": "https://www.gminsights.com/industry-analysis/geopolymer-cement-market",
+    "pass": 3
+   },
+   {
+    "quote": "Pavements & overlays are projected to generate USD 582 million by 2035 and grow at a 22.6% CAGR (2026-2035). Transportation agencies are increasingly assessing materials through maintenance burden, freeze-thaw behavior, and long-term asset availability, giving this application a route to adoption where performance documentation and low-carbon procurement coincide.",
+    "url": "https://www.gminsights.com/industry-analysis/geopolymer-cement-market",
+    "pass": 3
+   },
+   {
+    "quote": "Waste encapsulation is projected to reach USD 159 million by 2035 and record a 16.6% CAGR (2026-2035). Demand is constrained by long approval cycles and specialized contractor requirements, but the application retains strategic value because material selection is driven by containment performance and regulatory qualification rather than broad construction-volume trends.",
+    "url": "https://www.gminsights.com/industry-analysis/geopolymer-cement-market",
+    "pass": 3
+   },
+   {
+    "quote": "Infrastructure is projected to reach USD 1.69 billion by 2035 and grow at a 20.8% CAGR (2026-2035). Roads, bridges, ports, and rail assets provide an important commercial pathway because procurement decisions can incorporate both public carbon objectives and durability requirements over extended operating lives.",
+    "url": "https://www.gminsights.com/industry-analysis/geopolymer-cement-market",
+    "pass": 3
+   },
+   {
+    "quote": "Oil & gas applications are projected to reach USD 265 million by 2035 and expand at a 19.3% CAGR (2026-2035). Well-cementing and offshore repair demand depend on asset-integrity requirements in environments where brines, carbon dioxide, hydrogen sulfide, and thermal cycling challenge conventional cement systems.",
+    "url": "https://www.gminsights.com/industry-analysis/geopolymer-cement-market",
+    "pass": 3
+   },
+   {
+    "quote": "Nuclear & waste management is projected to generate USD 106 million by 2035 and grow at a 19.7% CAGR (2026-2035). This segment is defined by stringent qualification and long decision cycles, yet geopolymer cement's containment-oriented performance profile supports a defensible position in specialized decommissioning and waste-management programs.",
+    "url": "https://www.gminsights.com/industry-analysis/geopolymer-cement-market",
+    "pass": 3
+   },
+   {
+    "quote": "India is projected to reach USD 532 million by 2035 and grow at a 17.5% CAGR (2026-2035). Accessible fly ash and slag streams, combined with sustained infrastructure investment, give domestic producers a favorable input position as public and private buyers progressively incorporate sustainability considerations into construction decisions.",
+    "url": "https://www.gminsights.com/industry-analysis/geopolymer-cement-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan is expected to generate USD 71 million by 2035 and advance at a 17.2% CAGR (2026-2035). Demand is concentrated in high-performance repair, rehabilitation, and waste-management applications, where technical evidence and long-term asset reliability carry more weight than rapid commodity substitution.",
+    "url": "https://www.gminsights.com/industry-analysis/geopolymer-cement-market",
+    "pass": 3
+   },
+   {
+    "quote": "Germany is projected to generate USD 163 million by 2035 and grow at a 25.6% CAGR (2026-2035). Its industrial base, access to slag-related feedstocks, and advanced sustainability requirements support a comparatively developed market for high-purity and performance-led geopolymer cement formulations.",
+    "url": "https://www.gminsights.com/industry-analysis/geopolymer-cement-market",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. is projected to reach USD 405 million by 2035 and expand at a 32.6% CAGR (2026-2035). Federal and state procurement measures can provide producers with demand visibility, but adoption will depend on state-level implementation, qualification requirements, and the availability of scalable inputs beyond traditional fly ash supply.",
+    "url": "https://www.gminsights.com/industry-analysis/geopolymer-cement-market",
+    "pass": 3
+   },
+   {
+    "quote": "Latin America generated USD 27 million and represented 3% of revenue in 2025; it is projected to grow at a 23.4% CAGR (2026-2035). The region combines access to industrial by-products with substantial infrastructure requirements, but adoption will vary by country according to procurement policy, technical standards, and the ability to organize reliable local precursor supply.",
+    "url": "https://www.gminsights.com/industry-analysis/geopolymer-cement-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025 to 2035)",
+    "url": "https://www.futuremarketinsights.com/reports/geopolymer-cement-market",
+    "pass": 3
+   },
+   {
+    "quote": "Geopolymer Cement Market Forecast CAGR: 19.0%",
+    "url": "https://www.futuremarketinsights.com/reports/geopolymer-cement-market",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast CAGR (2025 to 2035)",
+    "url": "https://www.futuremarketinsights.com/reports/geopolymer-cement-market",
+    "pass": 3
+   },
+   {
+    "quote": "The geopolymer cement market is expected to grow at a 19.0% CAGR between 2025 and 2035.",
+    "url": "https://www.futuremarketinsights.com/reports/geopolymer-cement-market",
+    "pass": 3
+   },
+   {
+    "quote": "Projected Size of 62.6 Billion USD by 2032 with a CAGR of 27.98%",
+    "url": "https://pmarketresearch.com/worldwide-geopolymer-cement-market-research/",
+    "pass": 3
+   },
+   {
+    "quote": "2025-2032 CAGR",
+    "url": "https://pmarketresearch.com/worldwide-geopolymer-cement-market-research/",
+    "pass": 3
+   },
+   {
+    "quote": "In 2025, the global geopolymer cement market stood at USD 11.13 Billion. It is projected to reach USD 62.6 Billion by 2032, reflecting a CAGR of 28.0%. The trajectory points to rapid expansion as adoption grows across construction segments and the shift toward lower‑carbon materials accelerates.",
+    "url": "https://pmarketresearch.com/worldwide-geopolymer-cement-market-research/",
+    "pass": 3
+   },
+   {
+    "quote": "Projected CAGR (2025-2032): 27.98%",
+    "url": "https://pmarketresearch.com/worldwide-geopolymer-cement-market-research/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 27.98% (2025-2032)",
+    "url": "https://pmarketresearch.com/worldwide-geopolymer-cement-market-research/",
+    "pass": 3
+   },
+   {
+    "quote": "by 2032, indicating a CAGR of",
+    "url": "https://pmarketresearch.com/worldwide-geopolymer-cement-market-research/",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "ジオポリマー市場における主要企業はどこですか？",
+    "url": "https://straitsresearch.com/jp/report/geopolymers-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場構造、主要プレイヤーのポジショニング、トップ勝ち抜き戦略、競合ダッシュボード、企業評価象限などの競合分析がレポート内で取り上げられています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、すべての主要企業の詳細なプロフィールが提供されています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "ポーターのファイブ・フォース分析は、利害関係者が新規参入の影響、競合関係、供給者パワー、買い手パワー、代替の脅威を評価するのに役立つ",
+    "url": "https://www.imarcgroup.com/report/ja/japan-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "競争環境は、利害関係者が競争環境を理解することを可能にし、市場における主要企業の現在のポジションについての洞察を提供します",
+    "url": "https://www.imarcgroup.com/report/ja/japan-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "また本レポートでは、世界的な主要企業の戦略を分析し、脱炭素コンクリートのポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当てることで、加速する世界の脱炭素コンクリート市場における各企業の独自の立場をより深く理解できるようにしています",
+    "url": "https://newscast.jp/news/7104576",
+    "pass": 3
+   },
+   {
+    "quote": "第3章には、脱炭素コンクリート市場における主要企業の詳細な分析が示されています",
+    "url": "https://newscast.jp/news/7104576",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、主要メーカーの脱炭素コンクリートの生産拠点分布、提供製品、市場の競争状況の分析、上位3社、5社、10社の市場集中度（CR3、CR5、CR10）の分析（2024年から2026年）、新製品の動向、潜在的な新規参入者、および市場におけるM&A活動と戦略についても詳細に解説されています",
+    "url": "https://newscast.jp/news/7104576",
+    "pass": 3
+   },
+   {
+    "quote": "世界のジオポリマー市場市場の主要企業はどこですか？",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場の主要企業には、",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "この調査結果は非常に有益で、新市場参入の判断に役立ちました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "レポートは、市場の構造、主要企業のポジショニング、主要な勝利戦略、競争ダッシュボード、企業評価象限といった競争分析をカバーしており、主要全企業の詳細なプロファイルも提供しています",
+    "url": "https://www.atpress.ne.jp/news/3340916",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートでは、日本のジオポリマー市場がこれまでどのように推移し、今後数年間でどのように推移するか、用途別・最終用途産業別の内訳、バリューチェーンの各段階、主要な推進要因と課題、市場構造と主要企業、競争の程度について回答を提供しています",
+    "url": "https://www.atpress.ne.jp/news/3340916",
+    "pass": 3
+   },
+   {
+    "quote": "第8章には日本ジオポリマー市場を地域別に分類し、関東地方、関西/近畿地方、中部地方、九州・沖縄地方、東北地方、中国地方、北海道地方、四国地方といった各地域の概要、過去および現在の市場トレンド、用途別市場内訳、最終用途産業別市場内訳、主要プレイヤー、市場予測が記載されている",
+    "url": "https://www.atpress.ne.jp/news/3340916",
+    "pass": 3
+   },
+   {
+    "quote": "第10章には主要プレイヤーのプロファイルとして、各企業の事業概要、提供製品、事業戦略、SWOT分析、主要ニュースとイベントが記載されている",
+    "url": "https://www.atpress.ne.jp/news/3340916",
+    "pass": 3
+   },
+   {
+    "quote": "第11章には日本ジオポリマー市場の産業分析として、市場の推進要因、抑制要因、機会、ポーターのファイブフォース分析（買い手の交渉力、サプライヤーの交渉力、競争の度合い、新規参入の脅威、代替品の脅威）、およびバリューチェーン分析が記載されている",
+    "url": "https://www.atpress.ne.jp/news/3340916",
+    "pass": 3
+   },
+   {
+    "quote": "ジオポリマー市場に参入している主要企業はどこですか？",
+    "url": "https://www.gii.co.jp/report/moi2122011-geopolymer-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "Q7：世界のジオポリマーコンクリート市場における主要企業はどこですか？",
+    "url": "https://univdatos.com/ja/reports/geopolymer-concrete-market",
+    "pass": 3
+   },
+   {
+    "quote": "ジオポリマーコンクリート業界の主要企業は以下の通りです:",
+    "url": "https://univdatos.com/ja/reports/geopolymer-concrete-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/geopolymer-cement-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players:",
+    "url": "https://www.gminsights.com/industry-analysis/geopolymer-cement-market",
+    "pass": 3
+   },
+   {
+    "quote": "Geopolymer Cement Market Share & Competitive Landscape",
+    "url": "https://www.gminsights.com/industry-analysis/geopolymer-cement-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in geopolymer cement market?",
+    "url": "https://www.gminsights.com/industry-analysis/geopolymer-cement-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in geopolymer cement market include Wagners Holdings, Betolar Plc, Kiran Global Chems, JSW Cement, Imerys S.A..",
+    "url": "https://www.gminsights.com/industry-analysis/geopolymer-cement-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players in Geopolymer Cement Market: BASF SE, CEMEX S.A.B. de C.V., Wagners, Zeobond Pty Ltd., Banah UK Ltd., Alchemy Geopolymer Solutions, LLC, Geopolymer Solutions LLC",
+    "url": "https://www.futuremarketinsights.com/reports/geopolymer-cement-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape of Geopolymer Cement Market",
+    "url": "https://www.futuremarketinsights.com/reports/geopolymer-cement-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players in the Geopolymer Cement Market",
+    "url": "https://www.futuremarketinsights.com/reports/geopolymer-cement-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.futuremarketinsights.com/reports/geopolymer-cement-market",
+    "pass": 3
+   },
+   {
+    "quote": "Geopolymer Cement Market Report 2026: $4.74 Bn Opportunities, Trends, Competitive Landscape, Strategies, and Forecasts, 2020-2025, 2025-2030F, 2035F",
+    "url": "https://finance.yahoo.com/news/geopolymer-cement-market-report-2026-153300170.html",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape overview, highlighting market shares, key financial transactions, and strategic company rankings.",
+    "url": "https://finance.yahoo.com/news/geopolymer-cement-market-report-2026-153300170.html",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape:",
+    "url": "https://www.researchandmarkets.com/report/geopolymer?srsltid=AYCX9vIUTIWMYNGn3_xL3RYlN3KlvSAqE_MjIyuPL44QTy3op9R_yNQR",
+    "pass": 3
+   },
+   {
+    "quote": "The report has provided a comprehensive analysis of the competitive landscape in the market. Detailed profiles of all major companies have also been provided. Some of the key players in the market include:",
+    "url": "https://www.researchandmarkets.com/report/geopolymer?srsltid=AYCX9vIUTIWMYNGn3_xL3RYlN3KlvSAqE_MjIyuPL44QTy3op9R_yNQR",
+    "pass": 3
+   },
+   {
+    "quote": "8.Who are the key players/companies in the global geopolymer market?",
+    "url": "https://www.researchandmarkets.com/report/geopolymer?srsltid=AYCX9vIUTIWMYNGn3_xL3RYlN3KlvSAqE_MjIyuPL44QTy3op9R_yNQR",
+    "pass": 3
+   },
+   {
+    "quote": "14 Competitive Landscape",
+    "url": "https://www.researchandmarkets.com/report/geopolymer?srsltid=AYCX9vIUTIWMYNGn3_xL3RYlN3KlvSAqE_MjIyuPL44QTy3op9R_yNQR",
+    "pass": 3
+   },
+   {
+    "quote": "14.2 Key Players",
+    "url": "https://www.researchandmarkets.com/report/geopolymer?srsltid=AYCX9vIUTIWMYNGn3_xL3RYlN3KlvSAqE_MjIyuPL44QTy3op9R_yNQR",
+    "pass": 3
+   },
+   {
+    "quote": "14.3 Profiles of Key Players",
+    "url": "https://www.researchandmarkets.com/report/geopolymer?srsltid=AYCX9vIUTIWMYNGn3_xL3RYlN3KlvSAqE_MjIyuPL44QTy3op9R_yNQR",
+    "pass": 3
+   },
+   {
+    "quote": "Table 7: Global: Geopolymer Market: Key Players",
+    "url": "https://www.researchandmarkets.com/report/geopolymer?srsltid=AYCX9vIUTIWMYNGn3_xL3RYlN3KlvSAqE_MjIyuPL44QTy3op9R_yNQR",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://pmarketresearch.com/worldwide-geopolymer-cement-market-research/",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Driving Market Innovation",
+    "url": "https://pmarketresearch.com/worldwide-geopolymer-cement-market-research/",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://pmarketresearch.com/worldwide-geopolymer-cement-market-research/",
+    "pass": 3
+   },
+   {
+    "quote": "applications to improve site usability. The industry is moving from niche R&D to industrial-scale production, with major construction chemical firms acquiring specialized startups to integrate sustainable binder technologies.",
+    "url": "https://pmarketresearch.com/worldwide-geopolymer-cement-market-research/",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://news.crunchbase.com/clean-tech-and-energy/clean-concrete-venture-funding-early-stage-fortera/",
+    "pass": 3
+   },
+   {
+    "quote": "Fortera is one of the more heavily funded of a long list of clean cement and concrete startups. To illustrate, we used Crunchbase",
+    "url": "https://news.crunchbase.com/clean-tech-and-energy/clean-concrete-venture-funding-early-stage-fortera/",
+    "pass": 3
+   },
+   {
+    "quote": "Startups skew early stage",
+    "url": "https://news.crunchbase.com/clean-tech-and-energy/clean-concrete-venture-funding-early-stage-fortera/",
+    "pass": 3
+   },
+   {
+    "quote": "Notably, startups on our list skew pretty early stage. For the vast majority, their last funding round was at seed or Series A.",
+    "url": "https://news.crunchbase.com/clean-tech-and-energy/clean-concrete-venture-funding-early-stage-fortera/",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "ジオポリマー市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/geopolymers-market",
+    "pass": 3
+   },
+   {
+    "quote": "ジオポリマー市場規模、シェア、トレンド分析レポート：製品タイプ別（セメント、コンクリート、プレキャストパネル、グラウト、バインダー、岩石系、カオリン系、メタカオリン系、カルシウム系、その他）、用途別（建築、道路・舗装、滑走路、パイプ・コンクリート補修、橋梁、トンネルライニング、鉄道枕木、コーティング用途、耐火、その他）、充填材別（フライアッシュ）、エンドユーザー別（輸送、建築、インフラ、産業、芸術・装飾、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）、予測、2026～2034年",
+    "url": "https://straitsresearch.com/jp/report/geopolymers-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、2025年に市場シェア38.4%を占め、ジオポリマー市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/geopolymers-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は最大の市場シェアを占めており、予測期間中に年平均成長率（CAGR）28.8%で成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/geopolymers-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年のジオポリマー市場において、最大のシェアを占める地域はどこだったでしょうか？",
+    "url": "https://straitsresearch.com/jp/report/geopolymers-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は2025年に38.4%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/geopolymers-market",
+    "pass": 3
+   },
+   {
+    "quote": "光触媒市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/geopolymers-market",
+    "pass": 3
+   },
+   {
+    "quote": "銀ナノワイヤー市場規模、シェア、成長率、分析（2034年）",
+    "url": "https://straitsresearch.com/jp/report/geopolymers-market",
+    "pass": 3
+   },
+   {
+    "quote": "金ナノ粒子市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/geopolymers-market",
+    "pass": 3
+   },
+   {
+    "quote": "グラフェン市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/geopolymers-market",
+    "pass": 3
+   },
+   {
+    "quote": "複合材電柱市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/geopolymers-market",
+    "pass": 3
+   },
+   {
+    "quote": "合成黒鉛市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/geopolymers-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本ジオポリマー市場規模・シェア・予測2034",
+    "url": "https://www.imarcgroup.com/report/ja/japan-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本ジオポリマー市場規模、シェア、動向および予測用途、エンドユーザー業界、地域別2026年～2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のデジタルテキスタイルプリンティング市場規模・シェア・動向と予測 印刷方式・基材タイプ・インクタイプ・用途・地域別、2026年～2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の鋼管市場規模、シェア、動向および予測、製品タイプ別、材料タイプ別、エンドユース産業別、地域別、2026-2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本粉体塗装装置市場規模、シェア、動向および予測樹脂タイプ別、コンポーネント別、最終用途産業別、地域別、2026-2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、カーボンネガティブコンクリートとセメントフリーコンクリートといったタイプ別、生コンクリートとプレキャスト脱炭素コンクリートといった製造方法別、ジオポリマーコンクリート、SCMコンクリート、AAMコンクリートといった結合材タイプ別、そしてインフラ、住宅・商業建設、海洋工学などの用途別に、2021年から2026年までの販売量、収益、市場シェア、および販売価格の詳細なデータと分析が示されています",
+    "url": "https://newscast.jp/news/7104576",
+    "pass": 3
+   },
+   {
+    "quote": "各企業の2021年から2026年までの年間販売量と収益、それらの市場シェア、および販売価格が比較されています",
+    "url": "https://newscast.jp/news/7104576",
+    "pass": 3
+   },
+   {
+    "quote": "ジオポリマー市場規模、シェア&予測2032",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のジオポリマー市場規模、シェア、トレンド分析レポート – 業界概要と2032年までの予測",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、急速な都市化、大規模なインフラプロジェクト、そして特に中国やインドなどの国における持続可能な建設慣行に対する政府の強力な支援により、2024年にはジオポリマー市場を42.5%の最大の収益シェアで支配しました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "ジオポリマーコンクリートセグメントは、環境に優しいプロファイル、優れた耐久性、従来のポートランドセメントに比べて炭素排出量が少ないことから、2024年には34.6％の最大の市場収益シェアを占めました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "ジオポリマーコンクリートセグメントは、環境に優しい特性、優れた耐久性、そして従来のポートランドセメントに比べて炭素排出量が少ないことから、2024年には34.6%という最大の市場収益シェアを占めました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "2020年10月、英国のエンジニアリング・建設会社であるケルトブレイ・グループは、ワグナーズおよびキャピタル・コンクリートと限定的な独占ライセンス契約を締結し、ジオポリマーベースのセメントゼロコンクリートであるアース・フレンドリー・コンクリート®（EFC）を英国全土に供給・設置しました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "ジオポリマー市場 | 業界シェア 市場規模 成長性 2026 - 2031年",
+    "url": "https://www.gii.co.jp/report/moi2122011-geopolymer-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "ジオポリマー：市場シェア分析、業界動向と統計、成長予測（2026年～2031年）",
+    "url": "https://www.gii.co.jp/report/moi2122011-geopolymer-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "Geopolymer - Market Share Analysis, Industry Trends & Statistics, Growth Forecasts (2026 - 2031)",
+    "url": "https://www.gii.co.jp/report/moi2122011-geopolymer-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、セメント、コンクリート、およびプレキャストパネルがジオポリマー市場を独占し、売上高の52.31％を占めました",
+    "url": "https://www.gii.co.jp/report/moi2122011-geopolymer-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "2031年までに、このセグメントは、低炭素橋梁、学校、高層ビルの外壁などの公共プロジェクトに後押しされ、ジオポリマー市場の相当な割合を占める見通しです",
+    "url": "https://www.gii.co.jp/report/moi2122011-geopolymer-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、アジア太平洋地域は売上高の44.31％を占めました",
+    "url": "https://www.gii.co.jp/report/moi2122011-geopolymer-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "ジオポリマー市場規模、シェア、および成長分析：製品タイプ別、用途別、物理形態別、最終用途別、地域別－業界予測2026-2033年",
+    "url": "https://www.gii.co.jp/report/moi2122011-geopolymer-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "ジオポリマーの世界市場規模、シェア、動向および成長分析レポート2026-2034年",
+    "url": "https://www.gii.co.jp/report/moi2122011-geopolymer-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "Q2：タイプカテゴリー別で、世界のジオポリマーコンクリート市場で最大のシェアを占めるセグメントはどれですか？",
+    "url": "https://univdatos.com/ja/reports/geopolymer-concrete-market",
+    "pass": 3
+   },
+   {
+    "quote": "market share in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/geopolymer-cement-market",
+    "pass": 3
+   },
+   {
+    "quote": "Repair & rehabilitation generated USD 45 million and accounted for 5% of revenue in 2025; it is expected to reach USD 265 million by 2035. Geopolymer cement can be compelling in projects where rapid strength development, substrate bonding, and reduced closure time influence lifecycle cost more directly than initial material price.",
+    "url": "https://www.gminsights.com/industry-analysis/geopolymer-cement-market",
+    "pass": 3
+   },
+   {
+    "quote": "Geopolymer Cement Market Share By End User Industry 2025",
+    "url": "https://www.gminsights.com/industry-analysis/geopolymer-cement-market",
+    "pass": 3
+   },
+   {
+    "quote": "Marine & underwater construction generated USD 36 million and accounted for 4% of revenue in 2025; it is anticipated to reach USD 212 million by 2035. Chloride and sulfate exposure make long-term durability a decisive consideration in port, coastal, and offshore assets, supporting use where owners evaluate maintenance risk over the full service life.",
+    "url": "https://www.gminsights.com/industry-analysis/geopolymer-cement-market",
+    "pass": 3
+   },
+   {
+    "quote": "Geopolymer Cement Market Share By Region 2025 And 2035",
+    "url": "https://www.gminsights.com/industry-analysis/geopolymer-cement-market",
+    "pass": 3
+   },
+   {
+    "quote": "China generated USD 469 million and accounted for 51.9% of global market revenue in 2025; its global share is expected to be 43.6% by 2035. Its scale reflects extensive precursor availability and a broad construction base, while the anticipated mix normalization indicates that other regions are expected to build commercial capacity from smaller starting points.",
+    "url": "https://www.gminsights.com/industry-analysis/geopolymer-cement-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan is expected to generate USD 71 million by 2035 and advance at a 17.2% CAGR (2026-2035). Demand is concentrated in high-performance repair, rehabilitation, and waste-management applications, where technical evidence and long-term asset reliability carry more weight than rapid commodity substitution.",
+    "url": "https://www.gminsights.com/industry-analysis/geopolymer-cement-market",
+    "pass": 3
+   },
+   {
+    "quote": "Brazil generated USD 16 million and accounted for 1.8% of global revenue in 2025; it is projected to reach USD 127 million by 2035. Steel and aluminum value chains offer a broader precursor base than fly ash alone, while coastal, humid, and industrial exposure conditions reinforce the relevance of durability-led binder selection.",
+    "url": "https://www.gminsights.com/industry-analysis/geopolymer-cement-market",
+    "pass": 3
+   },
+   {
+    "quote": "Middle East & Africa is projected to generate USD 318 million by 2035, after accounting for 6% of global market revenue in 2025. Large Gulf development programs can create concentrated demand for low-carbon construction materials, while other parts of the region offer natural-pozzolan resources and greenfield infrastructure activity that may support locally adapted geopolymer cement formulations.",
+    "url": "https://www.gminsights.com/industry-analysis/geopolymer-cement-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific currently holds the largest share of the geopolymer cement market in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/geopolymer-cement-market",
+    "pass": 3
+   },
+   {
+    "quote": "Geopolymer Cement Market Europe Country Market Share Analysis, 2025 & 2035",
+    "url": "https://www.futuremarketinsights.com/reports/geopolymer-cement-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share Analysis, 2024",
+    "url": "https://www.futuremarketinsights.com/reports/geopolymer-cement-market",
+    "pass": 3
+   },
+   {
+    "quote": "Geopolymer Concrete Market Outlook 2026-2034: Market Share, and Growth Analysis",
+    "url": "https://www.researchandmarkets.com/report/geopolymer?srsltid=AYCX9vIUTIWMYNGn3_xL3RYlN3KlvSAqE_MjIyuPL44QTy3op9R_yNQR",
+    "pass": 3
+   },
+   {
+    "quote": "By Type: Fly Ash-based materials accounted for the largest share at 45.5% in 2025.",
+    "url": "https://pmarketresearch.com/worldwide-geopolymer-cement-market-research/",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific dominated the global geopolymer cement market in 2025, capturing 44.32% of revenue.",
+    "url": "https://pmarketresearch.com/worldwide-geopolymer-cement-market-research/",
+    "pass": 3
+   },
+   {
+    "quote": "Fly Ash-based Cement Accounted for the Largest Revenue Share in 2025",
+    "url": "https://pmarketresearch.com/worldwide-geopolymer-cement-market-research/",
+    "pass": 3
+   },
+   {
+    "quote": "In 2025, Fly Ash-based geopolymer cement accounted for USD 5.06 Billion, representing 45.46% of the global market, making it the absolute leader. The US fly ash output fell to 67.3 million tons in 2022 from 75 million tons in 2019 due to coal-fired power plant retirements",
+    "url": "https://pmarketresearch.com/worldwide-geopolymer-cement-market-research/",
+    "pass": 3
+   },
+   {
+    "quote": "Metakaolin-based cement accounted for USD 1.89 Billion (16.94%), while Other Sources represented USD 0.55 Billion (4.95%). These segments play strategic roles as niches with specialized performance profiles and supply diversification benefits, helping buyers manage material risk and meet evolving standards.",
+    "url": "https://pmarketresearch.com/worldwide-geopolymer-cement-market-research/",
+    "pass": 3
+   },
+   {
+    "quote": "Which segment dominated in 2025 by region, type, and application, and what were their revenues?",
+    "url": "https://pmarketresearch.com/worldwide-geopolymer-cement-market-research/",
+    "pass": 3
+   },
+   {
+    "quote": "Geopolymer Cement Market Share by Region (2025)",
+    "url": "https://pmarketresearch.com/worldwide-geopolymer-cement-market-research/",
+    "pass": 3
+   },
+   {
+    "quote": "Geopolymer Cement Market Share Data by Region (2025)",
+    "url": "https://pmarketresearch.com/worldwide-geopolymer-cement-market-research/",
+    "pass": 3
+   },
+   {
+    "quote": "Record venture funding in 2026 has been increasingly concentrated in massive AI rounds, while seed- and early-stage deal counts are on the decline...",
+    "url": "https://news.crunchbase.com/clean-tech-and-energy/clean-concrete-venture-funding-early-stage-fortera/",
+    "pass": 3
+   }
+  ],
+  "日本企業": [
+   {
+    "quote": "日本ジオポリマー市場規模・シェア・予測2034",
+    "url": "https://www.imarcgroup.com/report/ja/japan-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本ジオポリマー市場",
+    "url": "https://www.imarcgroup.com/report/ja/japan-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本ジオポリマー市場規模、シェア、動向および予測用途、エンドユーザー業界、地域別2026年～2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のジオポリマー市場概要：",
+    "url": "https://www.imarcgroup.com/report/ja/japan-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のジオポリマー市場規模は、2025年に",
+    "url": "https://www.imarcgroup.com/report/ja/japan-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のジオポリマー市場動向：",
+    "url": "https://www.imarcgroup.com/report/ja/japan-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本は持続可能性を重視し、炭素排出量の最小化に関心を寄せており、建築建設におけるグリーンオプションの緊急性に大きな影響を与えています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "この移行は、2050年までにカーボンニュートラルを目指す日本の環境政策と一致しています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の建設業界は、持続可能な慣行の導入を求める規制圧力の高まりに直面しており、開発業者はグリーンビルディング認証を取得した資材を積極的に求めています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "IMARCグループによると、日本の建設市場規模は2033年までに9,374億米ドルに達すると予想されています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の継続的なインフラ更新活動、特に交通と都市開発が市場の成長を後押ししている",
+    "url": "https://www.imarcgroup.com/report/ja/japan-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "特に地震が多い日本では、安全性と効率性を高めるため、老朽化したインフラを継続的に更新している",
+    "url": "https://www.imarcgroup.com/report/ja/japan-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の地震の歴史と同様に、構造的完全性を維持するために極端な条件に耐える材料が特に求められている",
+    "url": "https://www.imarcgroup.com/report/ja/japan-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "火力発電のフライアッシュや鉄鋼生産の高炉スラグなど、日本の強力な産業経済は大量の廃棄物を生み出している",
+    "url": "https://www.imarcgroup.com/report/ja/japan-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "ジオポリマー技術の拡張性と性能をより優れたレベルに引き上げるため、日本のメーカーが高等教育機関や環境局と協力している",
+    "url": "https://www.imarcgroup.com/report/ja/japan-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場規模（2021-2026年）",
+    "url": "https://newscast.jp/news/7104576",
+    "pass": 3
+   },
+   {
+    "quote": "2021年から2026年までの期間における中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾といった主要国・地域ごとの販売量と収益が示されており、さらにこの地域全体でのタイプ別および用途別の販売量についても詳細に分析されています",
+    "url": "https://newscast.jp/news/7104576",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：脱炭素コンクリートの世界市場2026年～2032年",
+    "url": "https://newscast.jp/news/7104576",
+    "pass": 3
+   },
+   {
+    "quote": "日本ジオポリマー市場インサイト",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のジオポリマー市場は、インフラの耐久性と環境性能を向上させる高品質で持続可能な材料に対する消費者と産業界の強い関心により、急速な成長が見込まれています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "ジオポリマーの日本市場（2026年～2034年）、市場規模（セメントおよびコンクリート、炉および反応器断熱材、複合材料）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/3340916",
+    "pass": 3
+   },
+   {
+    "quote": "ジオポリマーの日本市場（2026年～2034年）、市場規模（セメントおよびコンクリート、炉および反応器断熱材、複合材料）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3340916",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社マーケットリサーチセンター（本社：東京都港区、世界の市場調査資料販売）では、「ジオポリマーの日本市場（2026年～2034年）、英文タイトル：Japan Geopolymer Market 2026-2034」調査資料を発表しました",
+    "url": "https://www.atpress.ne.jp/news/3340916",
+    "pass": 3
+   },
+   {
+    "quote": "資料には、ジオポリマーの日本市場規模、動向、予測、関連企業の情報などが盛り込まれています",
+    "url": "https://www.atpress.ne.jp/news/3340916",
+    "pass": 3
+   },
+   {
+    "quote": "2025年における日本のジオポリマー市場規模は6億2520万ドルに達しました",
+    "url": "https://www.atpress.ne.jp/news/3340916",
+    "pass": 3
+   },
+   {
+    "quote": "日本のジオポリマー市場の主要トレンドとして、まず持続可能な建設資材への注力の高まりが挙げられます",
+    "url": "https://www.atpress.ne.jp/news/3340916",
+    "pass": 3
+   },
+   {
+    "quote": "日本が持続可能性と炭素排出量削減に重点を置く中で、建築建設におけるグリーンな選択肢への緊急性が高まり、ジオポリマーは通常のポルトランドセメントの環境に優しい代替品として利用が増加しています",
+    "url": "https://www.atpress.ne.jp/news/3340916",
+    "pass": 3
+   },
+   {
+    "quote": "この移行は、2050年までにカーボンニュートラルを達成するという日本の環境政策と一致しており、日本の建設部門は持続可能な慣行の実施を求める規制圧力に直面しています",
+    "url": "https://www.atpress.ne.jp/news/3340916",
+    "pass": 3
+   },
+   {
+    "quote": "ジオポリマーは産業廃棄物の削減と低炭素インフラ開発を可能にする二重の利益を提供し、本調査会社によると、日本の建設市場規模は2033年までに9374億ドルに達すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/3340916",
+    "pass": 3
+   },
+   {
+    "quote": "特に交通・都市開発における日本の継続的なインフラ更新活動は、市場を強化しています",
+    "url": "https://www.atpress.ne.jp/news/3340916",
+    "pass": 3
+   },
+   {
+    "quote": "日本は、地震の多い特性を考慮し、安全性と効率性を向上させるために老朽化したインフラを継続的に更新しています",
+    "url": "https://www.atpress.ne.jp/news/3340916",
+    "pass": 3
+   },
+   {
+    "quote": "日本の強固な工業経済は、火力発電のフライアッシュや製鉄の高炉スラグなど、大量の廃棄物を生み出しています",
+    "url": "https://www.atpress.ne.jp/news/3340916",
+    "pass": 3
+   },
+   {
+    "quote": "日本メーカーは、大学や環境局と協力し、ジオポリマー技術の拡張性と性能を向上させています",
+    "url": "https://www.atpress.ne.jp/news/3340916",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートでは、日本のジオポリマー市場がこれまでどのように推移し、今後数年間でどのように推移するか、用途別・最終用途産業別の内訳、バリューチェーンの各段階、主要な推進要因と課題、市場構造と主要企業、競争の程度について回答を提供しています",
+    "url": "https://www.atpress.ne.jp/news/3340916",
+    "pass": 3
+   },
+   {
+    "quote": "第4章には日本ジオポリマー市場の紹介として、概要、市場動向、業界トレンド、競争情報が記載されている",
+    "url": "https://www.atpress.ne.jp/news/3340916",
+    "pass": 3
+   },
+   {
+    "quote": "日本は耐震安全性を優先し、橋脚の改修にジオポリマーグラウトを指定した一方、韓国の「グリーン・ニューディール」は、港湾や地下鉄でのパイロットプロジェクトを支援しました",
+    "url": "https://www.gii.co.jp/report/moi2122011-geopolymer-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://univdatos.com/ja/reports/geopolymer-concrete-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国、インド、日本は、低炭素製品の使用を促進する政策を制定した主要な国であり、市場の成長を支援しています",
+    "url": "https://univdatos.com/ja/reports/geopolymer-concrete-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国、カナダ、ドイツ、英国、スペイン、イタリア、フランス、中国、日本、インド",
+    "url": "https://univdatos.com/ja/reports/geopolymer-concrete-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は現在、世界のジオポリマーコンクリート市場を牽引しており、その要因は中国、インド、日本などの国々における急速な都市化、政府の支援政策、持続可能なインフラ開発への強い注力です",
+    "url": "https://univdatos.com/ja/reports/geopolymer-concrete-market",
+    "pass": 3
+   },
+   {
+    "quote": "UBE三菱セメント株式会社",
+    "url": "https://www.tansomiru.jp/media/news/mag_1019/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社大林組（社長：白石達）、西松建設株式会社（社長：近藤晴貞）、大阪ガス株式会社（社長：本荘武宏）は共同で、優れた耐酸性と耐熱性を有し、製造過程で排出するCO2量が少ない「ジオポリマーコンクリート」（※1）を施工現場で打ち込む方法を確立し、今回日本で初めて現場で施工することに成功しました",
+    "url": "https://www.obayashi.co.jp/news/detail/news20160701_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年４月、住友大阪セメントなどが新開発した低炭素型コンクリート「ジオエレメントコンクリート（以下、ジオエレメントと略す）」の普及を目指し、全国のコンクリート製品メーカー、ゼネコン、工事施工業者などを主体とする「GEPC（ジオエレメント・プレキャストコンクリート）研究会 」が設立された",
+    "url": "https://r2sj.net/interview/20871",
+    "pass": 3
+   },
+   {
+    "quote": "国が進めるコンクリートの脱炭素化や、社会的課題となっているインフラ構造物の劣化問題への対応としても注目されるジオエレメントについて、会の発起人であり、セメント大手・住友大阪セメントのグループ会社で、ヒューム管や推進管をはじめとする下水道用管路製品を幅広く展開するクリコン池ノ内社長にその可能性や普及展開に向けた方針、今後の課題などを聞いた",
+    "url": "https://r2sj.net/interview/20871",
+    "pass": 3
+   },
+   {
+    "quote": "住友大阪セメント、大阪産業大学の山田宏准教授、ケミカル工事の３者による特許技術",
+    "url": "https://r2sj.net/interview/20871",
+    "pass": 3
+   },
+   {
+    "quote": "住友大阪セメント、大阪産業大学（ジオエレメント発見者「山田 宏 准教授」）、ケミカル工事の３者による特許技術であり、これにより、ハンドリング面の安全性が向上するだけでなく、製造工程を従来のセメントコンクリートに近づけられるという非常に大きな利点も得られました",
+    "url": "https://r2sj.net/interview/20871",
+    "pass": 3
+   },
+   {
+    "quote": "例えば住友大阪セメントの建材部門やグループ企業ではドライタイプの吹付け工法や空洞充填用のエアモルタル技術などにも力を入れてきた経緯があり、こうした技術とも併用可能な材料にしていければと思っています",
+    "url": "https://r2sj.net/interview/20871",
+    "pass": 3
+   },
+   {
+    "quote": "NEXCO西日本 延長 約56kmの新設事業、延長約192kmの区間で拡幅事業進める",
+    "url": "https://r2sj.net/interview/20871",
+    "pass": 3
+   },
+   {
+    "quote": "Japan is expected to generate USD 71 million by 2035 and advance at a 17.2% CAGR (2026-2035). Demand is concentrated in high-performance repair, rehabilitation, and waste-management applications, where technical evidence and long-term asset reliability carry more weight than rapid commodity substitution.",
+    "url": "https://www.gminsights.com/industry-analysis/geopolymer-cement-market",
+    "pass": 3
+   },
+   {
+    "quote": "United States, Canada, Germany, France, United Kingdom, China, Japan, India, Brazil, South Africa",
+    "url": "https://www.futuremarketinsights.com/reports/geopolymer-cement-market",
+    "pass": 3
+   },
+   {
+    "quote": "Explore market insights across diverse regions including Australia, Brazil, China, France, Germany, India, Japan, and more with expanded coverage for Taiwan and Southeast Asia.",
+    "url": "https://finance.yahoo.com/news/geopolymer-cement-market-report-2026-153300170.html",
+    "pass": 3
+   },
+   {
+    "quote": "Stages of this project have been funded by the Alaska Housing Finance Corporation, Fairbanks North Star Borough, Aurora Energy LLC, the First Alaskans Institute, and Doyon Ltd. Industrial wastes have been donated by: Golden Valley Electric Company, Aurora Energy LLC, Kinross Gold, Teck Cominco, Sumitomo Metal Mining.",
+    "url": "https://cchrc.org/geopolymer-cements/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "日本 ジオポリマー市場規模 ・シェア・予測2034 - IMARC Group — 日本 ジオポリマー市場規模 ・シェア・予測2034 - IMARC Group IMARC Group https://www.imarcgroup.com > Chemical & Materials",
+    "url": "https://www.imarcgroup.com/report/ja/japan-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本 ジオポリマー市場 規模・シェア・ 予測 2034 - IMARC Group — 日本 ジオポリマー市場 規模・シェア・ 予測 2034 - IMARC Group IMARC Group https://www.imarcgroup.com > Chemical & Materials",
+    "url": "https://www.imarcgroup.com/report/ja/japan-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "ジオポリマー市場 規模、シェア& 予測 2032 — ジオポリマー市場 規模、シェア& 予測 2032 Data Bridge Market Research https://www.databridgemarketresearch.com > reports > gl...",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-geopolymer-market",
+    "pass": 3
+   },
+   {
+    "quote": "ジオポリマー の日本 市場 （2026年～2034年） - アットプレス — ジオポリマー の日本 市場 （2026年～2034年） - アットプレス アットプレス https://www.atpress.ne.jp > news",
+    "url": "https://www.atpress.ne.jp/news/3340916",
+    "pass": 3
+   },
+   {
+    "quote": "ジオポリマー市場 | 業界シェア 市場 規模 成長性 2026 - 2031年 — ジオポリマー市場 | 業界シェア 市場 規模 成長性 2026 - 2031年 グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > ... > セラミック > セメント",
+    "url": "https://www.gii.co.jp/report/moi1939618-geopolymer-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "ジオポリマー市場 シェア、トレンド、成長 予測 、2035 — ジオポリマー市場 シェア、トレンド、成長 予測 、2035 Business Research Insights https://www.businessresearchinsights.com > market-reports",
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/geopolymer-market-122543",
+    "pass": 3
+   },
+   {
+    "quote": "次世代コンクリートとして注目される ジオポリマー とは？ 低 ... — 次世代コンクリートとして注目される ジオポリマー とは？ 低 ... TansoMiru https://www.tansomiru.jp > CO2メディア > ニュース",
+    "url": "https://www.tansomiru.jp/media/news/mag_1019/",
+    "pass": 3
+   },
+   {
+    "quote": "Geopolymer Cement Market Size , Forecasts Report 2026-2035 — Geopolymer Cement Market Size , Forecasts Report 2026-2035 Global Market Insights Inc. https://www.gminsights.com > geopol...",
+    "url": "https://www.gminsights.com/industry-analysis/geopolymer-cement-market",
+    "pass": 3
+   },
+   {
+    "quote": "Geopolymer Cement Market Report 2026 - Yahoo Finance — Geopolymer Cement Market Report 2026 - Yahoo Finance Yahoo Finance https://finance.yahoo.com > news > g...",
+    "url": "https://finance.yahoo.com/news/geopolymer-cement-market-report-2026-153300170.html",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "Federal Highway Administration, U.S. DOT. \"FHWA Opens Applications for $800 Million in Funding to Reduce Climate Pollution from Transportation.\" highways.dot.gov",
+    "url": "https://www.gminsights.com/industry-analysis/geopolymer-cement-market",
+    "pass": 3
+   },
+   {
+    "quote": "India is projected to reach USD 532 million by 2035 and grow at a 17.5% CAGR (2026-2035). Accessible fly ash and slag streams, combined with sustained infrastructure investment, give domestic producers a favorable input position as public and private buyers progressively incorporate sustainability considerations into construction decisions.",
+    "url": "https://www.gminsights.com/industry-analysis/geopolymer-cement-market",
+    "pass": 3
+   },
+   {
+    "quote": "Over the past few years, companies in the space have raised more than $750 million in venture funding. And investment continues to flow, with Silicon Valley-based",
+    "url": "https://news.crunchbase.com/clean-tech-and-energy/clean-concrete-venture-funding-early-stage-fortera/",
+    "pass": 3
+   },
+   {
+    "quote": "to aggregate a sample of 28 companies that have raised seed for venture funding, with most of the capital coming in 2023 and 2024.",
+    "url": "https://news.crunchbase.com/clean-tech-and-energy/clean-concrete-venture-funding-early-stage-fortera/",
+    "pass": 3
+   },
+   {
+    "quote": "More Money, Fewer Checks: These 3 Charts Show The Divide Behind VC’s Record Funding Year",
+    "url": "https://news.crunchbase.com/clean-tech-and-energy/clean-concrete-venture-funding-early-stage-fortera/",
+    "pass": 3
+   },
+   {
+    "quote": "Record venture funding in 2026 has been increasingly concentrated in massive AI rounds, while seed- and early-stage deal counts are on the decline...",
+    "url": "https://news.crunchbase.com/clean-tech-and-energy/clean-concrete-venture-funding-early-stage-fortera/",
+    "pass": 3
+   },
+   {
+    "quote": "Material Evolution has raised $22.4M across 2 funding rounds.",
+    "url": "https://startupintros.com/orgs/material-evolution",
+    "pass": 3
+   },
+   {
+    "quote": "2 funding rounds",
+    "url": "https://startupintros.com/orgs/material-evolution",
+    "pass": 3
+   },
+   {
+    "quote": "Material Evolution has raised $22.4M in total across 2 funding rounds.",
+    "url": "https://startupintros.com/orgs/material-evolution",
+    "pass": 3
+   },
+   {
+    "quote": "Material Evolution has raised $22.4M across 2 funding rounds. Most recently, it raised $19.0M Series A in June 2023.",
+    "url": "https://startupintros.com/orgs/material-evolution",
+    "pass": 3
+   },
+   {
+    "quote": "$22.4M raised",
+    "url": "https://startupintros.com/orgs/material-evolution",
+    "pass": 3
+   },
+   {
+    "quote": "$19M Series A",
+    "url": "https://startupintros.com/orgs/material-evolution",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "19",
+    "url": "https://straitsresearch.com/jp/report/geopolymers-market",
+    "quote": "世界のジオポリマー市場規模は、2025年には160億1000万米ドルと評価され、2026年の190億5000万米ドルから2034年には766億2000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は19%となる見込みです"
+   },
+   {
+    "value": "28.8",
+    "url": "https://straitsresearch.com/jp/report/geopolymers-market",
+    "quote": "アジア太平洋地域は最大の市場シェアを占めており、予測期間中に年平均成長率（CAGR）28.8%で成長すると予測されています"
+   },
+   {
+    "value": "30.2",
+    "url": "https://straitsresearch.com/jp/report/geopolymers-market",
+    "quote": "ヨーロッパ：年平均成長率30.2％で最も成長の速い地域"
+   },
+   {
+    "value": "19.20",
+    "url": "https://www.imarcgroup.com/report/ja/japan-geopolymer-market",
+    "quote": "（CAGR）は19.20%と"
+   },
+   {
+    "value": "14.0",
+    "url": "https://newscast.jp/news/7104576",
+    "quote": "世界の脱炭素コンクリート市場規模は、2025年の6億700万米ドルから2032年には15億1400万米ドルに拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）14.0%で成長すると見込まれています"
+   },
+   {
+    "value": "12.23",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-geopolymer-market",
+    "quote": "世界のジオポリマー市場市場は、2025年から2032年の予測期間に年平均成長率12.23%で成長すると予測されています"
+   },
+   {
+    "value": "10.88",
+    "url": "https://www.gii.co.jp/report/moi2122011-geopolymer-market-share-analysis-industry-trends.html",
+    "quote": "Mordor Intelligenceによると、ジオポリマー市場の規模は、2025年の86億9,000万米ドルから2026年には96億4,000万米ドルへと拡大し、2026年から2031年にかけてCAGR 10.88％で推移し、2031年までに161億5,000万米ドルに達すると予測されています"
+   },
+   {
+    "value": "10.92",
+    "url": "https://www.gii.co.jp/report/moi2122011-geopolymer-market-share-analysis-industry-trends.html",
+    "quote": "中東およびアフリカ地域は、CAGR10.92％でこの動きを牽引しています"
+   },
+   {
+    "value": "11.5",
+    "url": "https://univdatos.com/ja/reports/geopolymer-concrete-market",
+    "quote": "CAGR 11.5%で加速"
+   },
+   {
+    "value": "19.0",
+    "url": "https://www.futuremarketinsights.com/reports/geopolymer-cement-market",
+    "quote": "Geopolymer Cement Market Forecast CAGR: 19.0%"
+   },
+   {
+    "value": "27.98",
+    "url": "https://pmarketresearch.com/worldwide-geopolymer-cement-market-research/",
+    "quote": "Projected Size of 62.6 Billion USD by 2032 with a CAGR of 27.98%"
+   },
+   {
+    "value": "28.0",
+    "url": "https://pmarketresearch.com/worldwide-geopolymer-cement-market-research/",
+    "quote": "In 2025, the global geopolymer cement market stood at USD 11.13 Billion. It is projected to reach USD 62.6 Billion by 2032, reflecting a CAGR of 28.0%. The trajectory points to rapid expansion as adoption grows across construction segments and the shift toward lower‑carbon materials accelerates."
+   }
+  ],
+  "市場規模USD": [
+   {
+    "value": "9.81",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-geopolymer-market",
+    "quote": "USD 9.81 Billion"
+   },
+   {
+    "value": "24.69",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-geopolymer-market",
+    "quote": "USD 24.69 Billion"
+   },
+   {
+    "value": "15.56",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-geopolymer-market",
+    "quote": "USD 15.56 Billion"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://straitsresearch.com/jp/report/geopolymers-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/geopolymer-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/report/ja/japan-geopolymer-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/cement-market-117719",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/7104576",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-geopolymer-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/3340916",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/moi2122011-geopolymer-market-share-analysis-industry-trends.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/geopolymer-market-122543",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://univdatos.com/ja/reports/geopolymer-concrete-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tansomiru.jp/media/news/mag_1019/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ikk.co.jp/%E5%9B%BD%E5%86%85%E5%88%9D%E3%80%80co%E2%82%82%E6%8E%92%E5%87%BA%E9%87%8F%E3%82%92%E5%A4%A7%E5%B9%85%E3%81%AB%E5%89%8A%E6%B8%9B%E3%81%99%E3%82%8B%E3%82%B8%E3%82%AA%E3%83%9D%E3%83%AA/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.obayashi.co.jp/news/detail/news20160701_01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baike.baidu.com/ja/item/%E4%BD%8E%E7%82%AD%E7%B4%A0%E3%82%BB%E3%83%A1%E3%83%B3%E3%83%88%E6%9D%90%E6%96%99/4788665",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://r2sj.net/interview/20871",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/geopolymer-cement-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/geopolymer-concrete-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/geopolymer-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thebusinessresearchcompany.com/report/geopolymer-global-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futuremarketinsights.com/reports/geopolymer-cement-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strategicmarketresearch.com/market-report/geopolymer-concrete-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/news/geopolymer-cement-market-report-2026-153300170.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/geopolymer-market-32355",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchandmarkets.com/report/geopolymer?srsltid=AYCX9vIUTIWMYNGn3_xL3RYlN3KlvSAqE_MjIyuPL44QTy3op9R_yNQR",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pmarketresearch.com/worldwide-geopolymer-cement-market-research/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.crunchbase.com/clean-tech-and-energy/clean-concrete-venture-funding-early-stage-fortera/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cchrc.org/geopolymer-cements/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/material-evolution",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S221450952500467X",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.geopolymer.org/conference/gpcamp/gpcamp-2025/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ジオポリマー・低炭素セメント 市場規模 年平均成長率",
+   "results": [
+    "https://straitsresearch.com/jp/report/geopolymers-market",
+    "https://www.mordorintelligence.com/ja/industry-reports/geopolymer-market",
+    "https://www.imarcgroup.com/report/ja/japan-geopolymer-market",
+    "https://www.businessresearchinsights.com/jp/market-reports/cement-market-117719",
+    "https://newscast.jp/news/7104576",
+    "https://jp.linkedin.com/pulse/revenue-insights-growth-forecast-%E7%A9%B6%E6%A5%B5%E3%81%AE%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B8%E3%82%AA%E3%83%9D%E3%83%AA%E3%83%9E%E3%83%BC%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88-industry-91tre",
+    "https://www.gminsights.com/ja/industry-analysis/geopolymer-cement-market",
+    "https://www.fortunebusinessinsights.com/jp/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%BB%E3%83%A1%E3%83%B3%E3%83%88%E5%B8%82%E5%A0%B4-107251",
+    "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/025_03_00.pdf",
+    "https://www.fundamentalbusinessinsights.com/ja/industry-report/geopolymer-cement-market-22074"
+   ]
+  },
+  {
+   "query": "ジオポリマー・低炭素セメント 市場 予測 富士経済 OR 矢野経済 OR シーエムシー",
+   "results": [
+    "https://www.imarcgroup.com/report/ja/japan-geopolymer-market",
+    "https://www.databridgemarketresearch.com/jp/reports/global-geopolymer-market",
+    "https://www.atpress.ne.jp/news/3340916",
+    "https://www.gii.co.jp/report/moi1939618-geopolymer-market-share-analysis-industry-trends.html",
+    "https://www.businessresearchinsights.com/jp/market-reports/geopolymer-market-122543",
+    "https://straitsresearch.com/jp/report/geopolymers-market",
+    "https://univdatos.com/ja/reports/geopolymer-concrete-market",
+    "https://www.tansomiru.jp/media/news/mag_1019/",
+    "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2022/09/20/2208m_inada.pdf"
+   ]
+  },
+  {
+   "query": "ジオポリマー・低炭素セメント 参入 企業 国内",
+   "results": [
+    "https://www.tansomiru.jp/media/news/mag_1019/",
+    "https://www.ikk.co.jp/%E5%9B%BD%E5%86%85%E5%88%9D%E3%80%80co%E2%82%82%E6%8E%92%E5%87%BA%E9%87%8F%E3%82%92%E5%A4%A7%E5%B9%85%E3%81%AB%E5%89%8A%E6%B8%9B%E3%81%99%E3%82%8B%E3%82%B8%E3%82%AA%E3%83%9D%E3%83%AA/",
+    "https://www.obayashi.co.jp/news/detail/news20160701_01.html",
+    "https://baike.baidu.com/ja/item/%E4%BD%8E%E7%82%AD%E7%B4%A0%E3%82%BB%E3%83%A1%E3%83%B3%E3%83%88%E6%9D%90%E6%96%99/4788665",
+    "https://www.mordorintelligence.com/ja/industry-reports/geopolymer-market",
+    "https://r2sj.net/interview/20871",
+    "https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-19K22003",
+    "https://www.meti.go.jp/shingikai/sankoshin/green_innovation/energy_structure/pdf/025_03_00.pdf",
+    "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2022/09/20/2208m_inada.pdf",
+    "https://www.nihon-kogyo.co.jp/product/doboku/special/geopolymer.html"
+   ]
+  },
+  {
+   "query": "geopolymer cement market size CAGR 2025",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/geopolymer-cement-market",
+    "https://www.grandviewresearch.com/industry-analysis/geopolymer-concrete-market-report",
+    "https://www.mordorintelligence.com/industry-reports/geopolymer-market",
+    "https://www.thebusinessresearchcompany.com/report/geopolymer-global-market-report",
+    "https://www.linkedin.com/pulse/north-america-geopolymer-cement-market-research-ucb2f",
+    "https://www.futuremarketinsights.com/reports/geopolymer-cement-market",
+    "https://www.imarcgroup.com/geopolymer-market",
+    "https://www.marketresearchreports.com/reports/global-low-carbon-geopolymer-cement-market-strategic-research-report?srsltid=AYCX9vKEFA85lSLQcQJowPbs_5q0arSqf_rUJiM1BpPvsjZ8zpxdQP9I",
+    "https://www.sphericalinsights.com/our-insights/geopolymer-concrete-market",
+    "https://dataintelo.com/report/geopolymer-cement-market"
+   ]
+  },
+  {
+   "query": "geopolymer cement market key players competitive landscape",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/geopolymer-concrete-market-report",
+    "https://www.linkedin.com/pulse/north-america-geopolymer-cement-market-research-ucb2f",
+    "https://www.strategicmarketresearch.com/market-report/geopolymer-concrete-market",
+    "https://finance.yahoo.com/news/geopolymer-cement-market-report-2026-153300170.html",
+    "https://www.mordorintelligence.com/industry-reports/geopolymer-market",
+    "https://www.futuremarketinsights.com/reports/geopolymer-cement-market",
+    "https://www.marketresearchfuture.com/reports/geopolymer-market-32355",
+    "https://www.gminsights.com/industry-analysis/geopolymer-cement-market",
+    "https://www.researchandmarkets.com/report/geopolymer?srsltid=AYCX9vIUTIWMYNGn3_xL3RYlN3KlvSAqE_MjIyuPL44QTy3op9R_yNQR",
+    "https://pmarketresearch.com/worldwide-geopolymer-cement-market-research/"
+   ]
+  },
+  {
+   "query": "geopolymer cement startup funding 2025",
+   "results": [
+    "https://news.crunchbase.com/clean-tech-and-energy/clean-concrete-venture-funding-early-stage-fortera/",
+    "https://www.grandviewresearch.com/industry-analysis/geopolymer-concrete-market-report",
+    "https://cchrc.org/geopolymer-cements/",
+    "https://startupintros.com/orgs/material-evolution",
+    "https://www.sciencedirect.com/science/article/pii/S221450952500467X",
+    "https://www.geopolymer.org/conference/gpcamp/gpcamp-2025/",
+    "https://www.coherentmarketinsights.com/market-insight/geopolymer-market-3090",
+    "https://initiatives.weforum.org/first-movers-coalition/unlocking-capital-to-scale-low-carbon-cement-and-concrete",
+    "https://www.kenresearch.com/us-geopolymer-concrete-market",
+    "https://www.ventureradar.com/funding/geopolymer"
+   ]
+  }
+ ],
+ "missing": {}
+}

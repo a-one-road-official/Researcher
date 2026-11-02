@@ -1,0 +1,1985 @@
+{
+ "name": "圧電材料（非鉛）",
+ "en": "lead-free piezoelectric",
+ "aliases": [
+  "piezoelectric ceramics",
+  "KNN",
+  "圧電セラミックス"
+ ],
+ "context": "センサー",
+ "kind": "market",
+ "researched_at": "2026-11-02T17:35:52.651175+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "圧電材料市場規模・予測レポート 2026〜2035年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "圧電材料市場は2025年に15億3,000万米ドルと評価され、2026年には15億7,000万米ドルとなり、2026〜2035年に年平均成長率（CAGR）5.9%で成長し、2035年までに26億3,000万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の市場規模予測",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "圧電材料市場に関わるサプライチェーン参加者との協議によると、民生用電子機器の正常化と産業設備投資の先送りを背景とする在庫調整局面において、市場は2024年に14億8,000万米ドルまで縮小した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "IoT Analytics. “State of IoT 2025: Number of Connected IoT Devices Growing 14% to 21.1 Billion Globally.” iot-analytics.com",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "PZT（鉛系セラミックス）の市場規模は2025年に9億9,100万米ドルとなり、2035年には15.6億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "圧電材料市場規模：材料タイプ別、2025年および2035年（百万米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "PVDFポリマーの市場規模は2035年に3億6,900万米ドルに達し、2026〜2035年に年平均成長率（CAGR）7.7%で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギーハーベスティング市場は、年平均成長率（CAGR）11.0%で成長し、2035年までに1億6,100万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "KNN系圧電セラミックスの世界市場（2026年～2032年）、市場規模（D33: 100-200 pC/N、D33: 200-300 pC/N）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/news/9947384",
+    "pass": 3
+   },
+   {
+    "quote": "KNN系圧電セラミックスの世界市場（2026年～2032年）、市場規模（D33: 100-200 pC/N、D33: 200-300 pC/N）・分析レポートを発表",
+    "url": "https://newscast.jp/news/9947384",
+    "pass": 3
+   },
+   {
+    "quote": "資料には、KNN系圧電セラミックスの世界市場規模、市場動向、セグメント別予測（D33: 100-200 pC/N、D33: 200-300 pC/N）、関連企業の情報などが盛り込まれています",
+    "url": "https://newscast.jp/news/9947384",
+    "pass": 3
+   },
+   {
+    "quote": "世界のKNN系圧電セラミックス市場規模は、2025年の1,489万米ドルから2032年には4,306万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）16.7%で成長すると見込まれています",
+    "url": "https://newscast.jp/news/9947384",
+    "pass": 3
+   },
+   {
+    "quote": "第4章 地域別KNNベース圧電セラミックスの歴史的レビューには、地域別および国別のKNNベース圧電セラミックスの歴史的な市場規模（2021-2026年）と、南北アメリカ、APAC、ヨーロッパ、中東・アフリカにおける販売成長率に関する情報が記載されている",
+    "url": "https://newscast.jp/news/9947384",
+    "pass": 3
+   },
+   {
+    "quote": "第12章 地域別KNNベース圧電セラミックスの世界予測レビューには、地域別（南北アメリカ、APAC、ヨーロッパ、中東・アフリカ）、タイプ別、および用途別のKNNベース圧電セラミックスの市場規模予測（2027-2032年）と年間収益予測が示されている",
+    "url": "https://newscast.jp/news/9947384",
+    "pass": 3
+   },
+   {
+    "quote": "単結晶圧電材料の世界市場（2026年～2032年）、市場規模（PMN-PT、PIN-PMN-PT、石英、ニオブ酸リチウム（LiNbO₃）、タンタル酸リチウム（LiTaO₃）、その他）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/7443861",
+    "pass": 3
+   },
+   {
+    "quote": "単結晶圧電材料の世界市場（2026年～2032年）、市場規模（PMN-PT、PIN-PMN-PT、石英、ニオブ酸リチウム（LiNbO₃）、タンタル酸リチウム（LiTaO₃）、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/7443861",
+    "pass": 3
+   },
+   {
+    "quote": "世界の単結晶圧電材料市場規模は、2025年の17億4,200万米ドルから2032年には28億5,100万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）7.7％で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/7443861",
+    "pass": 3
+   },
+   {
+    "quote": "2025年時点の世界の単結晶圧電材料市場は、多様な製品ポートフォリオを特徴としており、異なる材料系や加工仕様の製品間で価格に大きな差が見られます",
+    "url": "https://www.atpress.ne.jp/news/7443861",
+    "pass": 3
+   },
+   {
+    "quote": "第4章「地域別単結晶圧電材料の世界歴史レビュー」には、2021年から2026年までの地理的地域別および国/地域別の世界歴史的市場規模、年間売上、年間収益が詳細に分析されています",
+    "url": "https://www.atpress.ne.jp/news/7443861",
+    "pass": 3
+   },
+   {
+    "quote": "第12章「地域別単結晶圧電材料の世界予測レビュー」には、2027年から2032年までのグローバル単結晶圧電材料市場の地域別（アメリカ、APAC、ヨーロッパ、中東・アフリカの国別を含む）、タイプ別、および用途別の市場規模予測と年間収益予測が示されています",
+    "url": "https://www.atpress.ne.jp/news/7443861",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/7443861",
+    "pass": 3
+   },
+   {
+    "quote": "コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/7443861",
+    "pass": 3
+   },
+   {
+    "quote": "セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/7443861",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/7443861",
+    "pass": 3
+   },
+   {
+    "quote": "食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/7443861",
+    "pass": 3
+   },
+   {
+    "quote": "水性ポリウレタン離型剤の世界市場（2026年～2032年）、市場規模（シリコーン油系、ワックス系、脂肪酸系、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/7443861",
+    "pass": 3
+   },
+   {
+    "quote": "SMDサーモパイルセンサーの世界市場（2026年～2032年）、市場規模（シングルチャンネルセンサー、デュアルチャンネルセンサー）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/7443861",
+    "pass": 3
+   },
+   {
+    "quote": "Piezoelectric Materials Market Size, Share, Growth and Global Industry Analysis, Regional Insights and Forecast to 2026-2034",
+    "url": "https://www.gii.co.jp/report/fbs2147033-piezoelectric-materials-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の世界の圧電材料市場規模は19億8,000万米ドルと評価されました",
+    "url": "https://www.gii.co.jp/report/fbs2147033-piezoelectric-materials-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "同市場は、2026年の21億米ドルから2034年までに33億米ドルへと成長し、予測期間中はCAGR5.9％を示すと見込まれています",
+    "url": "https://www.gii.co.jp/report/fbs2147033-piezoelectric-materials-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、アジア太平洋地域は市場規模が9億2,000万米ドル、世界シェア46.46％を記録し、地域別市場で首位となりました",
+    "url": "https://www.gii.co.jp/report/fbs2147033-piezoelectric-materials-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "米国市場は、医療用超音波、防衛用エレクトロニクス、精密センシング、および産業用途に牽引され、2025年には4億3,000万米ドルに達しました",
+    "url": "https://www.gii.co.jp/report/fbs2147033-piezoelectric-materials-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツは2025年に9,000万米ドルの市場規模を記録し、英国は4,000万米ドルに達しました",
+    "url": "https://www.gii.co.jp/report/fbs2147033-piezoelectric-materials-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 4,850 換算",
+    "url": "https://www.gii.co.jp/report/fbs2147033-piezoelectric-materials-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 5,850 換算",
+    "url": "https://www.gii.co.jp/report/fbs2147033-piezoelectric-materials-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 6,850 換算",
+    "url": "https://www.gii.co.jp/report/fbs2147033-piezoelectric-materials-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "圧電材料市場規模、シェア、成長分析：製品別、材料別、元素別、動作モード別、用途別、地域別－業界予測2026-2033年",
+    "url": "https://www.gii.co.jp/report/fbs2147033-piezoelectric-materials-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "圧電材料の世界市場規模、シェア、動向および成長分析レポート、2026年～2034年",
+    "url": "https://www.gii.co.jp/report/fbs2147033-piezoelectric-materials-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "YHResearch調査チームの最新レポート「グローバルKNN無鉛圧電セラミックのトップ会社の市場シェアおよびランキング 2026」によると、世界のKNN無鉛圧電セラミック市場は2025年に16.18百万米ドル規模に達すると予測され、2026年には18.53百万米ドルに拡大する見込みです",
+    "url": "https://newscast.jp/smart/news/7972418",
+    "pass": 3
+   },
+   {
+    "quote": "圧電材料 市場規模、共有及び予測 2032",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の圧電材料市場規模、株式・動向分析レポート – 業界概観と予測 2033",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年の市場規模",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 1.47 Billion",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "2033 年の市場規模",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 2.16 Billion",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 1.92 Billion",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年のUSD 1.47億",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "2033年までのUSD 2.16億",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "YHResearch調査チームの最新レポート「グローバルKNN無鉛圧電セラミックのトップ会社の市場シェアおよびランキング 2026」によると、世界のKNN無鉛圧電セラミック市場は2025年に16.18百万米ドル規模に達すると予測され、2026年には18.53百万米ドルに拡大する見込みです",
+    "url": "https://www.atpress.ne.jp/news/7972418",
+    "pass": 3
+   },
+   {
+    "quote": "食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/7972418",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/7972418",
+    "pass": 3
+   },
+   {
+    "quote": "セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/7972418",
+    "pass": 3
+   },
+   {
+    "quote": "コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/7972418",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/7972418",
+    "pass": 3
+   },
+   {
+    "quote": "SMDサーモパイルセンサーの世界市場（2026年～2032年）、市場規模（シングルチャンネルセンサー、デュアルチャンネルセンサー）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/7972418",
+    "pass": 3
+   },
+   {
+    "quote": "村田製、MLCCに1兆円投資 AIは「創業以来最大のチャンス」",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2302/13/news120.html",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Lead-Free Piezoelectric Materials Market Size, Share and Industry Trends 2035",
+    "url": "https://www.marketresearchfuture.com/reports/advanced-lead-free-piezoelectric-materials-market-13968",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "圧電材料市場は2025年に15億3,000万米ドルと評価され、2026年には15億7,000万米ドルとなり、2026〜2035年に年平均成長率（CAGR）5.9%で成長し、2035年までに26億3,000万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR）（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "慢性疾患の管理と低所得国の医療制度における画像診断へのアクセス拡大を背景に、トランスデューサー／超音波用途セグメントは2035年まで世界市場平均に沿った年平均成長率（CAGR）を維持する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "PVDFポリマーの市場規模は2035年に3億6,900万米ドルに達し、2026〜2035年に年平均成長率（CAGR）7.7%で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "鉛フリーセラミックス（BNT / BT / KNN）は、2035年までに2億2,400万米ドルに達し、2026〜2035年に年平均成長率（CAGR）12.3%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "複合材料・その他の材料は、2035年に市場シェア4.1%を占め、2026〜2035年に年平均成長率（CAGR）6.2%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のKNN系圧電セラミックス市場規模は、2025年の1,489万米ドルから2032年には4,306万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）16.7%で成長すると見込まれています",
+    "url": "https://newscast.jp/news/9947384",
+    "pass": 3
+   },
+   {
+    "quote": "第4章 地域別KNNベース圧電セラミックスの歴史的レビューには、地域別および国別のKNNベース圧電セラミックスの歴史的な市場規模（2021-2026年）と、南北アメリカ、APAC、ヨーロッパ、中東・アフリカにおける販売成長率に関する情報が記載されている",
+    "url": "https://newscast.jp/news/9947384",
+    "pass": 3
+   },
+   {
+    "quote": "世界の単結晶圧電材料市場規模は、2025年の17億4,200万米ドルから2032年には28億5,100万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）7.7％で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/7443861",
+    "pass": 3
+   },
+   {
+    "quote": "同市場は、2026年の21億米ドルから2034年までに33億米ドルへと成長し、予測期間中はCAGR5.9％を示すと見込まれています",
+    "url": "https://www.gii.co.jp/report/fbs2147033-piezoelectric-materials-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "YHResearch調査チームの最新レポート「グローバルKNN無鉛圧電セラミックのトップ会社の市場シェアおよびランキング 2026」によると、世界のKNN無鉛圧電セラミック市場は2025年に16.18百万米ドル規模に達すると予測され、2026年には18.53百万米ドルに拡大する見込みです",
+    "url": "https://newscast.jp/smart/news/7972418",
+    "pass": 3
+   },
+   {
+    "quote": "2032年までに43.11百万ドルに達すると予測されており、2026年から2032年までの期間における年平均成長率（CAGR）は15.1%と予想されています",
+    "url": "https://newscast.jp/smart/news/7972418",
+    "pass": 3
+   },
+   {
+    "quote": "2025年時点では、欧州RoHS規制の運用厳格化や自動車産業におけるサプライチェーン脱鉛化の進展により、試作段階から準量産段階への移行が進行しており、医療・車載・産業機器分野での採用検討が拡大している",
+    "url": "https://newscast.jp/smart/news/7972418",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRの6.88%",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、2026年から2033年までの9.36%の最速のCAGRを登録すると予想され、強力な研究開発活動、先進医療技術の急速な採用、航空宇宙および防衛イノベーション、EV、再生可能エネルギーシステム、および産業オートメーションにおける圧電材料の普及が急速に進んでいます",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "ポリマーセグメントは、軽量、柔軟性、およびウェアラブルエレクトロニクスの需要を増加させ、2026年から2033年まで最速のCAGRを登録することが期待されます",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "アクチュエータセグメントは、2026～2033年の間に最速のCAGRで成長し、ロボティクス、半導体製造、航空宇宙システム、医療機器の精度制御の需要が高まっています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "半導体製造、EV製造、ロボティクス、スマートデバイスへの投資を促進し、5GインフラとIoT導入の拡大に伴い、量産・高機能用途における圧電気材料の燃料供給を継続",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "YHResearch調査チームの最新レポート「グローバルKNN無鉛圧電セラミックのトップ会社の市場シェアおよびランキング 2026」によると、世界のKNN無鉛圧電セラミック市場は2025年に16.18百万米ドル規模に達すると予測され、2026年には18.53百万米ドルに拡大する見込みです",
+    "url": "https://www.atpress.ne.jp/news/7972418",
+    "pass": 3
+   },
+   {
+    "quote": "2032年までに43.11百万ドルに達すると予測されており、2026年から2032年までの期間における年平均成長率（CAGR）は15.1%と予想されています",
+    "url": "https://www.atpress.ne.jp/news/7972418",
+    "pass": 3
+   },
+   {
+    "quote": "2025年時点では、欧州RoHS規制の運用厳格化や自動車産業におけるサプライチェーン脱鉛化の進展により、試作段階から準量産段階への移行が進行しており、医療・車載・産業機器分野での採用検討が拡大している",
+    "url": "https://www.atpress.ne.jp/news/7972418",
+    "pass": 3
+   },
+   {
+    "quote": "スキン効果電気伴熱システムの日本市場動向と産業構造：主要企業・成長率・リスク要因2026-2032",
+    "url": "https://www.atpress.ne.jp/news/7972418",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025 - 2035)",
+    "url": "https://www.marketresearchfuture.com/reports/advanced-lead-free-piezoelectric-materials-market-13968",
+    "pass": 3
+   },
+   {
+    "quote": "As per MRFR analysis, the Advanced Lead-Free Piezoelectric Materials Market was estimated at 126.7 USD Billion in 2024. The market is projected to grow from 153.81 USD Billion in 2025 to 1069.5 USD Billion by 2035, exhibiting a compound annual growth rate (CAGR) of 21.4% during the forecast period 2025 - 2035.",
+    "url": "https://www.marketresearchfuture.com/reports/advanced-lead-free-piezoelectric-materials-market-13968",
+    "pass": 3
+   },
+   {
+    "quote": "The Advanced Lead-Free Piezoelectric Materials Market is projected to grow at a 21.4% CAGR from 2025 to 2035, driven by increasing demand in electronics, automotive, and renewable energy sectors.",
+    "url": "https://www.marketresearchfuture.com/reports/advanced-lead-free-piezoelectric-materials-market-13968",
+    "pass": 3
+   },
+   {
+    "quote": "What is the expected CAGR for the Advanced Lead-Free Piezoelectric Materials Market during the forecast period 2025 - 2035?",
+    "url": "https://www.marketresearchfuture.com/reports/advanced-lead-free-piezoelectric-materials-market-13968",
+    "pass": 3
+   },
+   {
+    "quote": "The expected CAGR for the market during the forecast period 2025 - 2035 is 21.4%.",
+    "url": "https://www.marketresearchfuture.com/reports/advanced-lead-free-piezoelectric-materials-market-13968",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025 to 2035)",
+    "url": "https://www.futuremarketinsights.com/reports/knn-lead-free-piezoelectric-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "knn Lead-free Piezoelectric Ceramics Market Forecast CAGR: 16.4%",
+    "url": "https://www.futuremarketinsights.com/reports/knn-lead-free-piezoelectric-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "knn Lead-free Piezoelectric Ceramics Market Year-over-Year Forecast (2025-2035)",
+    "url": "https://www.futuremarketinsights.com/reports/knn-lead-free-piezoelectric-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast CAGR (2025-2035)",
+    "url": "https://www.futuremarketinsights.com/reports/knn-lead-free-piezoelectric-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025-2035)",
+    "url": "https://www.futuremarketinsights.com/reports/knn-lead-free-piezoelectric-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Geographic Market Strategy: Establish manufacturing presence in high-growth markets like China (22.1% CAGR) and India (20.5% CAGR), while maintaining research partnerships in innovation-leading markets like Germany (18.9% CAGR) and the USA",
+    "url": "https://www.futuremarketinsights.com/reports/knn-lead-free-piezoelectric-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "The KNN lead-free piezoelectric ceramics market is expected to grow at a 16.4% CAGR between 2025 and 2035.",
+    "url": "https://www.futuremarketinsights.com/reports/knn-lead-free-piezoelectric-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global market for lead-free piezoelectric ceramics is projected to grow from $307.3 million in 2025 to reach $549.8 million by the end of 2030, at a compound annual growth rate (CAGR) of 12.3% from 2025 through 2030.",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vIsIXyTDuJZpid6wpNQStCM6q-DGJBjKGndpRGClqLhaEx_-qBX",
+    "pass": 3
+   },
+   {
+    "quote": "Analyses of the global market trends, with revenue data from 2024, estimates for 2025, forecast for 2029 and projected CAGRs through 2030",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vIsIXyTDuJZpid6wpNQStCM6q-DGJBjKGndpRGClqLhaEx_-qBX",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 12.3% from 2025 to 2030",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vIsIXyTDuJZpid6wpNQStCM6q-DGJBjKGndpRGClqLhaEx_-qBX",
+    "pass": 3
+   },
+   {
+    "quote": "The estimated market size of the lead-free piezoelectric ceramics market is $549.8 million by the end of 2030. The CAGR is 12.3%.",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vIsIXyTDuJZpid6wpNQStCM6q-DGJBjKGndpRGClqLhaEx_-qBX",
+    "pass": 3
+   },
+   {
+    "quote": "The global market for glass-ceramics is expected to grow from $2 billion in 2026 and is projected to reach $2.7 billion by the end of 2031, at a compound annual growth rate (CAGR) of 6.3% during the forecast period of 2026 to 2031.",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vIsIXyTDuJZpid6wpNQStCM6q-DGJBjKGndpRGClqLhaEx_-qBX",
+    "pass": 3
+   },
+   {
+    "quote": "The global market for ceramics is expected to grow from $41.3 billion in 2025 and is projected to reach $62.5 billion by the end of 2030, at a compound annual growth rate (CAGR) of 8.6% during the forecast period of 2025 to 2030.",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vIsIXyTDuJZpid6wpNQStCM6q-DGJBjKGndpRGClqLhaEx_-qBX",
+    "pass": 3
+   },
+   {
+    "quote": "The global market for nanocoating is projected to grow from an estimated $15.3 billion in 2025 to reach $33.2 billion by the end of 2030, at a compound annual growth rate (CAGR) of 16.8% from 2025 through 2030.",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vIsIXyTDuJZpid6wpNQStCM6q-DGJBjKGndpRGClqLhaEx_-qBX",
+    "pass": 3
+   },
+   {
+    "quote": "The global market for advanced ceramics and nanoceramic powders totaled $22.2 billion in 2023. It is expected to grow from $23.9 billion in 2024 to reach $35.1 billion by the end of 2029, at a compound annual growth rate (CAGR) of 8.0% from 2024 through 2029.",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vIsIXyTDuJZpid6wpNQStCM6q-DGJBjKGndpRGClqLhaEx_-qBX",
+    "pass": 3
+   },
+   {
+    "quote": "The global market for nanofiltration is expected to grow from $1.5 billion in 2024 and is projected to reach $3.4 billion by the end of 2029, at a compound annual growth rate (CAGR) of 17.6% during the forecast period of 2024 to 2029.",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vIsIXyTDuJZpid6wpNQStCM6q-DGJBjKGndpRGClqLhaEx_-qBX",
+    "pass": 3
+   },
+   {
+    "quote": "The global market for carbon nanotubes was valued at $2.0 billion in 2023. The market is projected to grow from $2.3 billion in 2024 to $5.9 billion by 2029, at a compound annual growth rate (CAGR) of 20.6% from 2024 through 2029.",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vIsIXyTDuJZpid6wpNQStCM6q-DGJBjKGndpRGClqLhaEx_-qBX",
+    "pass": 3
+   },
+   {
+    "quote": "The global agricultural biotechnology market was valued at an estimated $84.7 billion in 2025 and is estimated to increase from $91.5 billion in 2026 to reach $137 billion by the end of 2031, at a compound annual growth rate (CAGR) of 8.4% from 2026 to 2031.",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vIsIXyTDuJZpid6wpNQStCM6q-DGJBjKGndpRGClqLhaEx_-qBX",
+    "pass": 3
+   },
+   {
+    "quote": "The global bioinformatics market was valued at $23.5 billion in 2025 and is estimated to reach $43.5 billion by the end of 2030, at a compound annual growth rate (CAGR) of 13.1% from 2025 to 2030.",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vIsIXyTDuJZpid6wpNQStCM6q-DGJBjKGndpRGClqLhaEx_-qBX",
+    "pass": 3
+   },
+   {
+    "quote": "The global market for lead-free piezoelectric ceramics should grow from $184.1 million in 2021 to $402.1 million by 2026, at compound annual growth rate (CAGR) of 16.9% for the period of 2021-2026.",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vIsIXyTDuJZpid6wpNQStCM6q-DGJBjKGndpRGClqLhaEx_-qBX",
+    "pass": 3
+   },
+   {
+    "quote": "Analyses of the global market trends, with data from 2020-2021, estimates for 2022, and projections of compound annual growth rates (CAGRs) through 2026",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vIsIXyTDuJZpid6wpNQStCM6q-DGJBjKGndpRGClqLhaEx_-qBX",
+    "pass": 3
+   },
+   {
+    "quote": "The global market for lead-free piezoelectric ceramics should grow from $172 million in 2019 to $443 million by 2024 with a compound annual growth rate (CAGR) of 20.8% for the period of 2019-2024.",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vIsIXyTDuJZpid6wpNQStCM6q-DGJBjKGndpRGClqLhaEx_-qBX",
+    "pass": 3
+   },
+   {
+    "quote": "was valued at USD 145.10 Billion in 2023 and is projected to reach USD 558.75 Billion by 2032, growing at a robust CAGR of 16.17% during the forecast period from 2024 to 2032.",
+    "url": "https://www.snsinsider.com/reports/advanced-lead-free-piezoelectric-materials-market-4230",
+    "pass": 3
+   },
+   {
+    "quote": "The Piezoelectric Ceramics Industry is projected to experience a 5.3% Compound Annual Growth Rate (CAGR) from 2024 to 203",
+    "url": "https://www.snsinsider.com/reports/advanced-lead-free-piezoelectric-materials-market-4230",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 16.4 % From 2024 to 2032",
+    "url": "https://www.snsinsider.com/reports/advanced-lead-free-piezoelectric-materials-market-4230",
+    "pass": 3
+   },
+   {
+    "quote": "The global market for lead-free piezoelectric ceramics is projected to grow from $307.3 million in 2025 to reach $549.8 million by the end of 2030, at a compound annual growth rate (CAGR) of 12.3% from 2025 through 2030.",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vLFYqS6gzu7ggIK5v8VW_M-s7qnwCUBCSgbj4bMqs_yprDBKydh",
+    "pass": 3
+   },
+   {
+    "quote": "Analyses of the global market trends, with revenue data from 2024, estimates for 2025, forecast for 2029 and projected CAGRs through 2030",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vLFYqS6gzu7ggIK5v8VW_M-s7qnwCUBCSgbj4bMqs_yprDBKydh",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 12.3% from 2025 to 2030",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vLFYqS6gzu7ggIK5v8VW_M-s7qnwCUBCSgbj4bMqs_yprDBKydh",
+    "pass": 3
+   },
+   {
+    "quote": "The estimated market size of the lead-free piezoelectric ceramics market is $549.8 million by the end of 2030. The CAGR is 12.3%.",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vLFYqS6gzu7ggIK5v8VW_M-s7qnwCUBCSgbj4bMqs_yprDBKydh",
+    "pass": 3
+   },
+   {
+    "quote": "The global market for glass-ceramics is expected to grow from $2 billion in 2026 and is projected to reach $2.7 billion by the end of 2031, at a compound annual growth rate (CAGR) of 6.3% during the forecast period of 2026 to 2031.",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vLFYqS6gzu7ggIK5v8VW_M-s7qnwCUBCSgbj4bMqs_yprDBKydh",
+    "pass": 3
+   },
+   {
+    "quote": "The global market for ceramics is expected to grow from $41.3 billion in 2025 and is projected to reach $62.5 billion by the end of 2030, at a compound annual growth rate (CAGR) of 8.6% during the forecast period of 2025 to 2030.",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vLFYqS6gzu7ggIK5v8VW_M-s7qnwCUBCSgbj4bMqs_yprDBKydh",
+    "pass": 3
+   },
+   {
+    "quote": "The global market for nanocoating is projected to grow from an estimated $15.3 billion in 2025 to reach $33.2 billion by the end of 2030, at a compound annual growth rate (CAGR) of 16.8% from 2025 through 2030.",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vLFYqS6gzu7ggIK5v8VW_M-s7qnwCUBCSgbj4bMqs_yprDBKydh",
+    "pass": 3
+   },
+   {
+    "quote": "The global market for advanced ceramics and nanoceramic powders totaled $22.2 billion in 2023. It is expected to grow from $23.9 billion in 2024 to reach $35.1 billion by the end of 2029, at a compound annual growth rate (CAGR) of 8.0% from 2024 through 2029.",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vLFYqS6gzu7ggIK5v8VW_M-s7qnwCUBCSgbj4bMqs_yprDBKydh",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "同社の地位は、自動車および電子機器用途向けの圧電アクチュエーター、センサー、部品プラットフォームに幅広く参入していることを反映している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Kyocera Corporationは、多層アクチュエーター、超音波トランスデューサー、セラミック共振子の各分野に参入している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "圧電材料市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "圧電材料市場の主要企業には、Murata Manufacturing Co., Ltd.、TDK Corporation、CeramTec GmbH、CTS Corporation、Morgan Advanced Materialsが含まれる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 競争環境と市場への参入・撤退の見通し",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートでは、KNN系圧電セラミックスのポートフォリオと機能、市場参入戦略、市場における地位、地理的展開に焦点を当て、世界有数の企業の戦略を分析し、急成長する世界のKNN系圧電セラミックス市場における各社の独自の立ち位置をより深く理解することを目的としています",
+    "url": "https://newscast.jp/news/9947384",
+    "pass": 3
+   },
+   {
+    "quote": "第3章 企業別グローバル分析には、企業別のKNNベース圧電セラミックスの年間販売量、販売市場シェア、年間収益、収益市場シェア、販売価格に関する詳細、主要メーカーの生産拠点分布、販売地域、提供製品タイプ、市場集中度分析、M&A活動および戦略、新製品と潜在的な新規参入者に関する情報が含まれている",
+    "url": "https://newscast.jp/news/9947384",
+    "pass": 3
+   },
+   {
+    "quote": "第13章 主要プレーヤー分析には、PI Ceramic、CTS Corporation、Niterra、Tsingfeng Technologyなどの主要企業について、会社情報、製品ポートフォリオと仕様、販売量、収益、価格、粗利益（2021-2026年）、主要事業概要、および最新の動向が詳細に分析されている",
+    "url": "https://newscast.jp/news/9947384",
+    "pass": 3
+   },
+   {
+    "quote": "また本レポートでは、単結晶圧電材料のポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、世界的な単結晶圧電材料市場の加速する動向の中で、主要グローバル企業の独自の立場をより深く理解できるよう、各社の戦略を分析しています",
+    "url": "https://www.atpress.ne.jp/news/7443861",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、主要メーカーの生産地域分布、販売地域、提供される製品タイプ、市場集中度（CR3、CR5、CR10）、新製品、潜在的な新規参入者、およびM&A活動と戦略に関する情報も含まれています",
+    "url": "https://www.atpress.ne.jp/news/7443861",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業別の市場シェア・順位分析（2025年）",
+    "url": "https://www.gii.co.jp/report/fbs2147033-piezoelectric-materials-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルKNN無鉛圧電セラミック市場レポート：主要企業のシェア、売上動向、競争戦略 | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/7972418",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルKNN無鉛圧電セラミック市場レポート：主要企業のシェア、売上動向、競争戦略",
+    "url": "https://newscast.jp/smart/news/7972418",
+    "pass": 3
+   },
+   {
+    "quote": "また、焼成工程における温度分布制御および雰囲気制御は、圧電特性の均一性を左右する最重要プロセスであり、高精度プロセスエンジニアリングの確立が技術参入障壁となっている",
+    "url": "https://newscast.jp/smart/news/7972418",
+    "pass": 3
+   },
+   {
+    "quote": "世界の圧電材料市場市場の主要企業はどこですか？",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場の主要企業には、PI セラミックス GmbH、APC International Ltd、L3Harris Technologies Inc、CeramTecが含まれます",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "この調査結果は非常に有益で、新市場参入の判断に役立ちました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルKNN無鉛圧電セラミック市場レポート：主要企業のシェア、売上動向、競争戦略 | YH Research株式会社",
+    "url": "https://www.atpress.ne.jp/news/7972418",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルKNN無鉛圧電セラミック市場レポート：主要企業のシェア、売上動向、競争戦略",
+    "url": "https://www.atpress.ne.jp/news/7972418",
+    "pass": 3
+   },
+   {
+    "quote": "また、焼成工程における温度分布制御および雰囲気制御は、圧電特性の均一性を左右する最重要プロセスであり、高精度プロセスエンジニアリングの確立が技術参入障壁となっている",
+    "url": "https://www.atpress.ne.jp/news/7972418",
+    "pass": 3
+   },
+   {
+    "quote": "スキン効果電気伴熱システムの日本市場動向と産業構造：主要企業・成長率・リスク要因2026-2032",
+    "url": "https://www.atpress.ne.jp/news/7972418",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/advanced-lead-free-piezoelectric-materials-market-13968",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.marketresearchfuture.com/reports/advanced-lead-free-piezoelectric-materials-market-13968",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players and Competitive Insights",
+    "url": "https://www.marketresearchfuture.com/reports/advanced-lead-free-piezoelectric-materials-market-13968",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies in the Advanced Lead-Free Piezoelectric Materials Market include",
+    "url": "https://www.marketresearchfuture.com/reports/advanced-lead-free-piezoelectric-materials-market-13968",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, and Trends",
+    "url": "https://www.marketresearchfuture.com/reports/advanced-lead-free-piezoelectric-materials-market-13968",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/advanced-lead-free-piezoelectric-materials-market-13968",
+    "pass": 3
+   },
+   {
+    "quote": "Key players include Piezo Systems Inc, Murata Manufacturing Co Ltd, and Konghong Corporation.",
+    "url": "https://www.marketresearchfuture.com/reports/advanced-lead-free-piezoelectric-materials-market-13968",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players in KNN Lead-free Piezoelectric Ceramics Market: Sumitomo Chemical, PI Ceramic, CTS Corporation",
+    "url": "https://www.futuremarketinsights.com/reports/knn-lead-free-piezoelectric-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape of the KNN Lead-free Piezoelectric Ceramics Market",
+    "url": "https://www.futuremarketinsights.com/reports/knn-lead-free-piezoelectric-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Materials Innovation: Finance research-intensive startups developing breakthrough KNN compositions with enhanced properties, novel processing approaches reducing manufacturing costs, and advanced characterization tools accelerating development cycles.",
+    "url": "https://www.futuremarketinsights.com/reports/knn-lead-free-piezoelectric-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players in the KNN Lead-free Piezoelectric Ceramics Market",
+    "url": "https://www.futuremarketinsights.com/reports/knn-lead-free-piezoelectric-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.futuremarketinsights.com/reports/knn-lead-free-piezoelectric-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Insight into recent industry structure, competitive landscape of the leading manufacturers of LFPECs, product portfolios, and company value share analysis based on their segmental revenues",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vIsIXyTDuJZpid6wpNQStCM6q-DGJBjKGndpRGClqLhaEx_-qBX",
+    "pass": 3
+   },
+   {
+    "quote": "Company profiles of the major players of the market, including Canon, Hewlett Packard, Hitachi Metals, Murata Manufacturing, Panasonic and Samsung Electro-Mechanics",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vIsIXyTDuJZpid6wpNQStCM6q-DGJBjKGndpRGClqLhaEx_-qBX",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.snsinsider.com/reports/advanced-lead-free-piezoelectric-materials-market-4230",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in the",
+    "url": "https://www.snsinsider.com/reports/advanced-lead-free-piezoelectric-materials-market-4230",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size, Segments Analysis, Competitive Landscape, Regional Analysis, DROC & SWOT Analysis, Forecast Outlook",
+    "url": "https://www.snsinsider.com/reports/advanced-lead-free-piezoelectric-materials-market-4230",
+    "pass": 3
+   },
+   {
+    "quote": "Profiles major players, value chains, and strategic developments.",
+    "url": "https://www.snsinsider.com/reports/advanced-lead-free-piezoelectric-materials-market-4230",
+    "pass": 3
+   },
+   {
+    "quote": "Insight into recent industry structure, competitive landscape of the leading manufacturers of LFPECs, product portfolios, and company value share analysis based on their segmental revenues",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vLFYqS6gzu7ggIK5v8VW_M-s7qnwCUBCSgbj4bMqs_yprDBKydh",
+    "pass": 3
+   },
+   {
+    "quote": "Company profiles of the major players of the market, including Canon, Hewlett Packard, Hitachi Metals, Murata Manufacturing, Panasonic and Samsung Electro-Mechanics",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vLFYqS6gzu7ggIK5v8VW_M-s7qnwCUBCSgbj4bMqs_yprDBKydh",
+    "pass": 3
+   },
+   {
+    "quote": "Strategic Analysis: This includes M&A, new product development, and competitive landscape of the lead free piezoelectric ceramic market.",
+    "url": "https://www.researchandmarkets.com/report/lead-free-piezoelectric-ceramics?srsltid=AYCX9vI955f7k3rzYKjfbTnLuK2aDz9V65iCAtxvfC9AZ8MTvnmes0Ic",
+    "pass": 3
+   },
+   {
+    "quote": "Q.9. Who are the major players in this market? What strategic initiatives are key players pursuing for business growth?",
+    "url": "https://www.researchandmarkets.com/report/lead-free-piezoelectric-ceramics?srsltid=AYCX9vI955f7k3rzYKjfbTnLuK2aDz9V65iCAtxvfC9AZ8MTvnmes0Ic",
+    "pass": 3
+   },
+   {
+    "quote": "7. Company Profiles of Leading Players",
+    "url": "https://www.researchandmarkets.com/report/lead-free-piezoelectric-ceramics?srsltid=AYCX9vI955f7k3rzYKjfbTnLuK2aDz9V65iCAtxvfC9AZ8MTvnmes0Ic",
+    "pass": 3
+   },
+   {
+    "quote": "In-depth interviews of the major players in the market",
+    "url": "https://www.researchandmarkets.com/report/lead-free-piezoelectric-ceramics?srsltid=AYCX9vI955f7k3rzYKjfbTnLuK2aDz9V65iCAtxvfC9AZ8MTvnmes0Ic",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players:",
+    "url": "https://www.verifiedmarketreports.com/product/lead-free-piezoelectric-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Lead-free Piezoelectric Material Market Competitive Landscape",
+    "url": "https://www.verifiedmarketreports.com/product/lead-free-piezoelectric-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.verifiedmarketreports.com/product/lead-free-piezoelectric-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the Key players in the Lead-free Piezoelectric Material Market?",
+    "url": "https://www.verifiedmarketreports.com/product/lead-free-piezoelectric-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Insight into recent industry structure, competitive landscape of the leading manufacturers of LFPECs, product portfolios, and company value share analysis based on their segmental revenues",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vLbVYFiy5iu_cWjtZS3eqqxK1yPuMk93txurUaY8HX4oCf-Duwn",
+    "pass": 3
+   },
+   {
+    "quote": "Company profiles of the major players of the market, including Canon, Hewlett Packard, Hitachi Metals, Murata Manufacturing, Panasonic and Samsung Electro-Mechanics",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vLbVYFiy5iu_cWjtZS3eqqxK1yPuMk93txurUaY8HX4oCf-Duwn",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players in BNT Lead-free Piezoelectric Ceramics Market: CeramTec, PI Ceramic, CTS",
+    "url": "https://www.futuremarketinsights.com/reports/bnt-lead-free-piezoelectric-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape of the BNT Lead-free Piezoelectric Ceramics Market",
+    "url": "https://www.futuremarketinsights.com/reports/bnt-lead-free-piezoelectric-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players in the BNT Lead-free Piezoelectric Ceramics Market",
+    "url": "https://www.futuremarketinsights.com/reports/bnt-lead-free-piezoelectric-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.futuremarketinsights.com/reports/bnt-lead-free-piezoelectric-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Dollar sales by material composition and application category, regional demand trends, competitive landscape, technological advancements in ceramic formulation, environmental compliance development, performance optimization, and sustainable manufacturing integration",
+    "url": "https://www.futuremarketinsights.com/reports/bnt-lead-free-piezoelectric-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "5 chemistry start-ups on our radar in 2026",
+    "url": "https://cen.acs.org/materials/electronic-materials/Lead-free-material-proves-piezoelectric/103/web/2025/12",
+    "pass": 3
+   }
+  ],
+  "日本企業": [
+   {
+    "quote": "Murata Manufacturing Co. Ltd.は、2025年に",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Murata Manufacturing Co., Ltd., TDK Corporation, CeramTec GmbH, CTS Corporation, Morgan Advanced Materials",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の市場規模は2025年に1億7,200万米ドルとなり、2035年には2億8,600万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本は、垂直統合型の電子機器・材料エコシステムを通じて、世界の圧電材料製造において引き続き中核的な役割を担っている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Murata Manufacturing Co., Ltd.",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "TDK Corporation",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Kyocera Corporationは、多層アクチュエーター、超音波トランスデューサー、セラミック共振子の各分野に参入している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Seiko EpsonとSumitomo Chemicalが圧電薄膜の提携を開始",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "- Seiko EpsonとSumitomo Chemicalは2026年8月、当初はインクジェットプリントヘッド向け圧電薄膜に重点を置く提携を発表した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "IBTimes Japan. “Epson, Sumitomo Chemical Partner on Piezoelectric Thin Films for Inkjet.” jp.ibtimes.com",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "圧電材料市場の主要企業には、Murata Manufacturing Co., Ltd.、TDK Corporation、CeramTec GmbH、CTS Corporation、Morgan Advanced Materialsが含まれる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "第6章 APACには、APAC地域における地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾など）、タイプ別、および用途別のKNNベース圧電セラミックスの販売量と収益（2021-2026年）に関する詳細が提供されている",
+    "url": "https://newscast.jp/news/9947384",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：KNN系圧電セラミックスの世界市場2026年～2032年",
+    "url": "https://newscast.jp/news/9947384",
+    "pass": 3
+   },
+   {
+    "quote": "JFEミネラル（日本）",
+    "url": "https://www.atpress.ne.jp/news/7443861",
+    "pass": 3
+   },
+   {
+    "quote": "TAYCA CORPORATION（日本）",
+    "url": "https://www.atpress.ne.jp/news/7443861",
+    "pass": 3
+   },
+   {
+    "quote": "信越化学工業（日本）",
+    "url": "https://www.atpress.ne.jp/news/7443861",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社コイケ（日本）",
+    "url": "https://www.atpress.ne.jp/news/7443861",
+    "pass": 3
+   },
+   {
+    "quote": "住友金属鉱山（日本）",
+    "url": "https://www.atpress.ne.jp/news/7443861",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2026年までの地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾を含む）売上と収益、タイプ別売上、および用途別売上が示されています",
+    "url": "https://www.atpress.ne.jp/news/7443861",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：単結晶圧電材料の世界市場2026年～2032年",
+    "url": "https://www.atpress.ne.jp/news/7443861",
+    "pass": 3
+   },
+   {
+    "quote": "中国、日本、韓国、台湾、インド、および東南アジアは、電子機器、自動車、通信、ヘルスケア、および工業製造分野における活発な活動から恩恵を受けています",
+    "url": "https://www.gii.co.jp/report/fbs2147033-piezoelectric-materials-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "TDK Corporation",
+    "url": "https://www.gii.co.jp/report/fbs2147033-piezoelectric-materials-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル競争環境においては、日本・欧州企業が材料プロセス技術で優位性を維持する一方、中国勢は量産コストと生産規模で存在感を強めている",
+    "url": "https://newscast.jp/smart/news/7972418",
+    "pass": 3
+   },
+   {
+    "quote": "TEL：050-5840-2692（日本）；0081-5058402692（グローバル）",
+    "url": "https://newscast.jp/smart/news/7972418",
+    "pass": 3
+   },
+   {
+    "quote": "アジア・パシフィックは、自動車、家電、テレコム、および中国、日本、韓国、インドの産業オートメーション部門の強力な電子機器製造拠点、急速な産業化、そして高い需要によって運転される2025年に35.53%の最大の収益分配と圧電材料市場を支配しました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社TDK",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、TDK、CeramTec、PI セラミックス、Solvay、Arkema などの企業は、高効率、アプリケーションに最適化された圧電セラミックス、ポリマーのポートフォリオを拡大しています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア・パシフィックは、自動車、家電、テレコム、および中国、日本、韓国、インドを横断する産業オートメーション部門から、強力な電子機器製造拠点、急速な産業化、高需要によって運転され、2025年に35.53%の最大の収益シェアで、圧電材料市場を支配しました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本圧電材料市場インサイト",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "高精度な電子機器、自動車のイノベーション、ロボット、医療機器などへの強い注力により、日本は着実な成長を発揮します",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社TDK(日本)",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル競争環境においては、日本・欧州企業が材料プロセス技術で優位性を維持する一方、中国勢は量産コストと生産規模で存在感を強めている",
+    "url": "https://www.atpress.ne.jp/news/7972418",
+    "pass": 3
+   },
+   {
+    "quote": "TEL：050-5840-2692（日本）；0081-5058402692（グローバル）",
+    "url": "https://www.atpress.ne.jp/news/7972418",
+    "pass": 3
+   },
+   {
+    "quote": "スキン効果電気伴熱システムの日本市場動向と産業構造：主要企業・成長率・リスク要因2026-2032",
+    "url": "https://www.atpress.ne.jp/news/7972418",
+    "pass": 3
+   },
+   {
+    "quote": "日本学術振興会特別研究員",
+    "url": "https://www.hiroshima-u.ac.jp/news/75357",
+    "pass": 3
+   },
+   {
+    "quote": "日本学術会議地区会議",
+    "url": "https://www.hiroshima-u.ac.jp/news/75357",
+    "pass": 3
+   },
+   {
+    "quote": "本研究は、日本学術振興会科学研究費補助金（JP18H01710、JP20H00314、JP20H02441、JP20K21091）および 日本学術振興会―インド政府科学技術省・科学技術庁二国間共同研究プロジェクト（JPJSBP120197724）、日本学術振興会外国人特別研究員（19FP19065）の支援を受けて行われました",
+    "url": "https://www.hiroshima-u.ac.jp/news/75357",
+    "pass": 3
+   },
+   {
+    "quote": "また、公益財団法人村田学術振興財団研究助成（M21助自029）の支援を受けて行われました",
+    "url": "https://www.hiroshima-u.ac.jp/news/75357",
+    "pass": 3
+   },
+   {
+    "quote": "Facebook日本語版",
+    "url": "https://www.hiroshima-u.ac.jp/news/75357",
+    "pass": 3
+   },
+   {
+    "quote": "広島大ら、非鉛系圧電セラミックス材料を合成：優れた強誘電性と圧電性を実現 - EE Times Japan",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2302/13/news120.html",
+    "pass": 3
+   },
+   {
+    "quote": "電源設計（EDN Japan）",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2302/13/news120.html",
+    "pass": 3
+   },
+   {
+    "quote": "エレクトロニクス入門（EDN Japan）",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2302/13/news120.html",
+    "pass": 3
+   },
+   {
+    "quote": "SEMICON Japan",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2302/13/news120.html",
+    "pass": 3
+   },
+   {
+    "quote": "イノベーションは日本を救うのか",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2302/13/news120.html",
+    "pass": 3
+   },
+   {
+    "quote": "EE Times Japan×EDN Japan統合電子版",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2302/13/news120.html",
+    "pass": 3
+   },
+   {
+    "quote": "EE Times Japan",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2302/13/news120.html",
+    "pass": 3
+   },
+   {
+    "quote": "村田製、MLCCに1兆円投資 AIは「創業以来最大のチャンス」",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2302/13/news120.html",
+    "pass": 3
+   },
+   {
+    "quote": "EE Times Japanについて",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2302/13/news120.html",
+    "pass": 3
+   },
+   {
+    "quote": "MURATA MANUFACTURING CO LTD",
+    "url": "https://www.marketresearchfuture.com/reports/advanced-lead-free-piezoelectric-materials-market-13968",
+    "pass": 3
+   },
+   {
+    "quote": "Piezo Systems Inc (US), MURATA MANUFACTURING CO LTD (JP), Konghong Corporation (CN), TRS Technologies Inc (US), APC International Ltd (US), Noliac A/S (DK), Piezotech (FR), Toshiba Corporation (JP), CeramTec GmbH (DE)",
+    "url": "https://www.marketresearchfuture.com/reports/advanced-lead-free-piezoelectric-materials-market-13968",
+    "pass": 3
+   },
+   {
+    "quote": "Key players include Piezo Systems Inc, Murata Manufacturing Co Ltd, and Konghong Corporation.",
+    "url": "https://www.marketresearchfuture.com/reports/advanced-lead-free-piezoelectric-materials-market-13968",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players in KNN Lead-free Piezoelectric Ceramics Market: Sumitomo Chemical, PI Ceramic, CTS Corporation",
+    "url": "https://www.futuremarketinsights.com/reports/knn-lead-free-piezoelectric-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Emphasizes Quality and Precision Manufacturing",
+    "url": "https://www.futuremarketinsights.com/reports/knn-lead-free-piezoelectric-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Knn Lead Free Piezoelectric Ceramics Market Japan Market Share Analysis By Product Form",
+    "url": "https://www.futuremarketinsights.com/reports/knn-lead-free-piezoelectric-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Materials Research Dominates Technology Development in Japan",
+    "url": "https://www.futuremarketinsights.com/reports/knn-lead-free-piezoelectric-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Sumitomo Chemical",
+    "url": "https://www.futuremarketinsights.com/reports/knn-lead-free-piezoelectric-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "China, India, Germany, Brazil, USA, UK, Japan, and 40+ countries",
+    "url": "https://www.futuremarketinsights.com/reports/knn-lead-free-piezoelectric-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Sumitomo Chemical, PI Ceramic, CTS Corporation",
+    "url": "https://www.futuremarketinsights.com/reports/knn-lead-free-piezoelectric-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Profiles of the leading companies, including CTS Corp., PI Ceramic GmbH, Niterra Co. Ltd., Kyocera Corp., and Sumitomo Chemical Co. Ltd.",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vIsIXyTDuJZpid6wpNQStCM6q-DGJBjKGndpRGClqLhaEx_-qBX",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific: China, Japan, South Korea and Rest of APAC.",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vIsIXyTDuJZpid6wpNQStCM6q-DGJBjKGndpRGClqLhaEx_-qBX",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "圧電材料市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、PZTセラミックスは世界の圧電材料需要の65.0%を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "単結晶圧電材料（PMN-PT、PIN-PMN-PT）は、従来のPZTを大幅に上回る電気機械結合係数を示すものの、2025年の世界需要に占める割合は8.0%にとどまった",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "単結晶（PMN-PT / PIN-PMN-PT）は2025年に1億2,200万米ドルを生み出し、2035年には市場シェアが9.8%に達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "水晶は2025年に6.0%のシェアを占め、2035年までに1億1,600万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "複合材料・その他の材料は、2035年に市場シェア4.1%を占め、2026〜2035年に年平均成長率（CAGR）6.2%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "圧電材料市場の用途別シェア、2025年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "アクチュエーターは2035年までに7億4,000万米ドルに達すると予測され、2025年には28.0%のシェアを占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "トランスデューサー・超音波は2025年に3億3,600万米ドルを生み出し、2035年には市場シェアが22.1%に達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "NDT、印刷、触覚技術などを含むその他の用途は、2025年に10.0%のシェアを占め、2035年には市場シェアが8.0%になると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "圧電材料市場シェア（地域別）、2025年・2035年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の圧電材料市場は、2035年までに6億9,900万米ドルに達すると予測され、2025年には28.0%のシェアを占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "第2章 エグゼクティブサマリーには、世界市場の概要、KNNベース圧電セラミックスの年間販売量（2021-2032年）、地域別および国別の現状と将来分析（2021年、2025年、2032年）、タイプ別（D33: 100-200 pC/N、D33: 200-300 pC/N）および用途別（医療、産業、水中・防衛）の販売動向、市場シェア、収益、販売価格に関する情報が収録されている",
+    "url": "https://newscast.jp/news/9947384",
+    "pass": 3
+   },
+   {
+    "quote": "第3章 企業別グローバル分析には、企業別のKNNベース圧電セラミックスの年間販売量、販売市場シェア、年間収益、収益市場シェア、販売価格に関する詳細、主要メーカーの生産拠点分布、販売地域、提供製品タイプ、市場集中度分析、M&A活動および戦略、新製品と潜在的な新規参入者に関する情報が含まれている",
+    "url": "https://newscast.jp/news/9947384",
+    "pass": 3
+   },
+   {
+    "quote": "また、PMN-PT、PIN‑PMN‑PT、クォーツ、ニオブ酸リチウム、タンタル酸リチウム、その他の種類別、インゴット、クリスタルロッド、ウェーハ、基板、その他の形状別、d₃₃＜500 pC/Nとd₃₃≥500 pC/Nの圧電定数d₃₃別、医療、通信、産業、航空宇宙、半導体、その他の用途別の各セグメントについて、2021年から2026年までのグローバル売上市場シェア、収益市場シェア、および販売価格の詳細な分析が含まれています",
+    "url": "https://www.atpress.ne.jp/news/7443861",
+    "pass": 3
+   },
+   {
+    "quote": "これには、2021年から2026年までの企業別グローバル年間売上と市場シェア、グローバル年間収益と市場シェア、および販売価格が記載されています",
+    "url": "https://www.atpress.ne.jp/news/7443861",
+    "pass": 3
+   },
+   {
+    "quote": "市場調査レポート: 圧電材料市場の規模、シェア、成長、および世界の業界分析、地域別動向、ならびに2026年から2034年までの予測",
+    "url": "https://www.gii.co.jp/report/fbs2147033-piezoelectric-materials-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "圧電材料市場の規模、シェア、成長、および世界の業界分析、地域別動向、ならびに2026年から2034年までの予測",
+    "url": "https://www.gii.co.jp/report/fbs2147033-piezoelectric-materials-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、アジア太平洋地域が46.46％の市場シェアを占め、世界市場を牽引しました",
+    "url": "https://www.gii.co.jp/report/fbs2147033-piezoelectric-materials-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、高い感度、耐熱性、適応性を背景に、圧電セラミックスが70.4％のシェアを占め、市場をリードしました",
+    "url": "https://www.gii.co.jp/report/fbs2147033-piezoelectric-materials-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、5Gの展開や高度な電子・通信部品への需要増加に支えられ、IT・通信が最大のシェアを占めました",
+    "url": "https://www.gii.co.jp/report/fbs2147033-piezoelectric-materials-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、アジア太平洋地域は市場規模が9億2,000万米ドル、世界シェア46.46％を記録し、地域別市場で首位となりました",
+    "url": "https://www.gii.co.jp/report/fbs2147033-piezoelectric-materials-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業別の市場シェア・順位分析（2025年）",
+    "url": "https://www.gii.co.jp/report/fbs2147033-piezoelectric-materials-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "圧電材料市場規模、シェア、成長分析：製品別、材料別、元素別、動作モード別、用途別、地域別－業界予測2026-2033年",
+    "url": "https://www.gii.co.jp/report/fbs2147033-piezoelectric-materials-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "圧電材料の世界市場規模、シェア、動向および成長分析レポート、2026年～2034年",
+    "url": "https://www.gii.co.jp/report/fbs2147033-piezoelectric-materials-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "KNN鉛フリー圧電セラミックス：世界市場シェアとランキング、総売上高および需要予測2025-2031年",
+    "url": "https://www.gii.co.jp/report/fbs2147033-piezoelectric-materials-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "圧電マイクロポンプ：世界市場シェアとランキング、総売上高および需要予測2025-2031年",
+    "url": "https://www.gii.co.jp/report/fbs2147033-piezoelectric-materials-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "YHResearch調査チームの最新レポート「グローバルKNN無鉛圧電セラミックのトップ会社の市場シェアおよびランキング 2026」によると、世界のKNN無鉛圧電セラミック市場は2025年に16.18百万米ドル規模に達すると予測され、2026年には18.53百万米ドルに拡大する見込みです",
+    "url": "https://newscast.jp/smart/news/7972418",
+    "pass": 3
+   },
+   {
+    "quote": "上記の図表／データは、YHResearchの最新レポート「グローバルKNN無鉛圧電セラミックのトップ会社の市場シェアおよびランキング 2026」から引用されています",
+    "url": "https://newscast.jp/smart/news/7972418",
+    "pass": 3
+   },
+   {
+    "quote": "本記事は、YH Researchが発行したレポート「グローバルKNN無鉛圧電セラミックのトップ会社の市場シェアおよびランキング 2026」 を紹介しています",
+    "url": "https://newscast.jp/smart/news/7972418",
+    "pass": 3
+   },
+   {
+    "quote": "セラミックスセグメントは、2025年の約48%のシェアで市場を支配し、その優れた圧電係数、高い機械的強度、熱安定性、センサー、アクチュエータ、トランスデューサー、および医療超音波装置にわたる幅広い適用性を支持",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "セラミックスセグメントは、2025年の約48%のシェアで市場を支配し、その優れた圧電係数、高い機械的強度、熱安定性、センサー、アクチュエータ、トランスデューサー、および医療超音波装置にわたる幅広い適用性を支持しています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "センサーセグメントは、自動車安全システム、産業監視、ヘルスケア診断、および消費者電子機器の広範な使用量で、約38～40%の2025の最大の市場シェアを保持しました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車分野は、燃料噴射システム、エンジン管理、ADAS、振動センシング、EVパワートレインコンポーネントの圧電材料の上昇の統合によって駆動され、2025年に約34〜36%のシェアで市場を支配しました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア・パシフィックは、自動車、家電、テレコム、および中国、日本、韓国、インドを横断する産業オートメーション部門から、強力な電子機器製造拠点、急速な産業化、高需要によって運転され、2025年に35.53%の最大の収益シェアで、圧電材料市場を支配しました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "YHResearch調査チームの最新レポート「グローバルKNN無鉛圧電セラミックのトップ会社の市場シェアおよびランキング 2026」によると、世界のKNN無鉛圧電セラミック市場は2025年に16.18百万米ドル規模に達すると予測され、2026年には18.53百万米ドルに拡大する見込みです",
+    "url": "https://www.atpress.ne.jp/news/7972418",
+    "pass": 3
+   },
+   {
+    "quote": "上記の図表／データは、YHResearchの最新レポート「グローバルKNN無鉛圧電セラミックのトップ会社の市場シェアおよびランキング 2026」から引用されています",
+    "url": "https://www.atpress.ne.jp/news/7972418",
+    "pass": 3
+   },
+   {
+    "quote": "本記事は、YH Researchが発行したレポート「グローバルKNN無鉛圧電セラミックのトップ会社の市場シェアおよびランキング 2026」 を紹介しています",
+    "url": "https://www.atpress.ne.jp/news/7972418",
+    "pass": 3
+   },
+   {
+    "quote": "レーザー弱化機業界動向2026：市場シェア、価格変動、投資機会を分析",
+    "url": "https://www.atpress.ne.jp/news/7972418",
+    "pass": 3
+   },
+   {
+    "quote": "図2のように、ペロブスカイト型構造の単位格子のコーナー位置であるAサイトを占めるBaイオンとBiイオンのうち、Biイオンだけが理想的な原子位置から結晶軸方向にずれて配置することから、Aサイトに局部的な分極構造が形成され、これがナノドメインの起源となることがわかりました",
+    "url": "https://www.hiroshima-u.ac.jp/news/75357",
+    "pass": 3
+   },
+   {
+    "quote": "Which material type is expected to dominate the market by 2035?",
+    "url": "https://www.marketresearchfuture.com/reports/advanced-lead-free-piezoelectric-materials-market-13968",
+    "pass": 3
+   },
+   {
+    "quote": "Zinc Oxide is expected to dominate the market with a projected valuation of 454.5 USD Billion by 2035.",
+    "url": "https://www.marketresearchfuture.com/reports/advanced-lead-free-piezoelectric-materials-market-13968",
+    "pass": 3
+   },
+   {
+    "quote": "Coverage of manufacturers representing 70–75% of global market share in 2024",
+    "url": "https://www.marketresearchfuture.com/reports/advanced-lead-free-piezoelectric-materials-market-13968",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share Analysis, 2024",
+    "url": "https://www.futuremarketinsights.com/reports/knn-lead-free-piezoelectric-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "By material, which segment will dominate the market by the end of 2030?",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vIsIXyTDuJZpid6wpNQStCM6q-DGJBjKGndpRGClqLhaEx_-qBX",
+    "pass": 3
+   },
+   {
+    "quote": "The potassium sodium niobate segment will continue to dominate the market by the end of 2030.",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vIsIXyTDuJZpid6wpNQStCM6q-DGJBjKGndpRGClqLhaEx_-qBX",
+    "pass": 3
+   },
+   {
+    "quote": "The North America region is first to dominate the Advanced Lead-Free Piezoelectric Materials market 45%.",
+    "url": "https://www.snsinsider.com/reports/advanced-lead-free-piezoelectric-materials-market-4230",
+    "pass": 3
+   },
+   {
+    "quote": "By material, which segment will dominate the market by the end of 2030?",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vLFYqS6gzu7ggIK5v8VW_M-s7qnwCUBCSgbj4bMqs_yprDBKydh",
+    "pass": 3
+   },
+   {
+    "quote": "The potassium sodium niobate segment will continue to dominate the market by the end of 2030.",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vLFYqS6gzu7ggIK5v8VW_M-s7qnwCUBCSgbj4bMqs_yprDBKydh",
+    "pass": 3
+   },
+   {
+    "quote": "Q.10. What are some of the competing products in this market and how big of a threat do they pose for loss of market share by material or product substitution?",
+    "url": "https://www.researchandmarkets.com/report/lead-free-piezoelectric-ceramics?srsltid=AYCX9vI955f7k3rzYKjfbTnLuK2aDz9V65iCAtxvfC9AZ8MTvnmes0Ic",
+    "pass": 3
+   },
+   {
+    "quote": "*This data will be provided for Top 3 market players*",
+    "url": "https://www.verifiedmarketreports.com/product/lead-free-piezoelectric-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "By material, which segment will dominate the market by the end of 2030?",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vLbVYFiy5iu_cWjtZS3eqqxK1yPuMk93txurUaY8HX4oCf-Duwn",
+    "pass": 3
+   },
+   {
+    "quote": "The potassium sodium niobate segment will continue to dominate the market by the end of 2030.",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vLbVYFiy5iu_cWjtZS3eqqxK1yPuMk93txurUaY8HX4oCf-Duwn",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share Analysis, 2024",
+    "url": "https://www.futuremarketinsights.com/reports/bnt-lead-free-piezoelectric-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": ") of textured ceramics was calculated to be ~37.5 kHz, while that of random is ~35.5 kHz. The difference of 2 kHz can likely be attributed to the difference in grain size as well as the orientation. As the concentration of defects and un-passivated/dangling oxygen bonds increases at grain boundaries, it acts as a conductive pathway between electrodes, leading to reduced gap between open circuit (",
+    "url": "https://www.nature.com/articles/s41467-026-74568-x",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "圧電材料市場規模 ・予測レポート 2026〜2035年 — 圧電材料市場規模 ・予測レポート 2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > piezoel...",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "圧電材料市場規模 、シェアおよび2034年の予測 — 圧電材料市場規模 、シェアおよび2034年の予測 Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 先端材料",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E5%9C%A7%E9%9B%BB%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4-102938",
+    "pass": 3
+   },
+   {
+    "quote": "KNN系 圧電 セラミックスの世界 市場 （2026年～2032年 ... — KNN系 圧電 セラミックスの世界 市場 （2026年～2032年 ... Newscast.jp https://newscast.jp > news",
+    "url": "https://newscast.jp/news/9947384",
+    "pass": 3
+   },
+   {
+    "quote": "単結晶 圧電材料 の世界 市場 （2026年～2032年） - アットプレス — 単結晶 圧電材料 の世界 市場 （2026年～2032年） - アットプレス アットプレス https://www.atpress.ne.jp > news",
+    "url": "https://www.atpress.ne.jp/news/7443861",
+    "pass": 3
+   },
+   {
+    "quote": "圧電材料市場 規模、シェアおよび2034年の 予測 — 圧電材料市場 規模、シェアおよび2034年の 予測 Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 先端材料",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E5%9C%A7%E9%9B%BB%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4-102938",
+    "pass": 3
+   },
+   {
+    "quote": "圧電材料 市場 規模、共有及び 予測 2032 — 圧電材料 市場 規模、共有及び 予測 2032 Data Bridge Market Research https://www.databridgemarketresearch.com > reports > gl...",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-piezoelectric-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "広島大ら、 非鉛 系 圧電 セラミックス 材料 を合成：優れた強誘電 ... — 広島大ら、 非鉛 系 圧電 セラミックス 材料 を合成：優れた強誘電 ... EE Times Japan https://eetimes.itmedia.co.jp > articles > news120",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2302/13/news120.html",
+    "pass": 3
+   },
+   {
+    "quote": "環境に優しい高性能 非鉛圧電材料 を発見 - NIMSアーカイブ — 環境に優しい高性能 非鉛圧電材料 を発見 - NIMSアーカイブ 国立研究開発法人物質・材料研究機構 https://archive.nims.go.jp > news > press > 2009/12",
+    "url": "https://archive.nims.go.jp/news/press/2009/12/p200912100.html",
+    "pass": 3
+   },
+   {
+    "quote": "Global Lead - Free Piezoelectric Ceramics Market Report 2030 — Global Lead - Free Piezoelectric Ceramics Market Report 2030 BCC Research https://www.bccresearch.com > lead-f...",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vIsIXyTDuJZpid6wpNQStCM6q-DGJBjKGndpRGClqLhaEx_-qBX",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Lead - Free Piezoelectric Material Market Report 2032 — Advanced Lead - Free Piezoelectric Material Market Report 2032 SNS Insider https://www.snsinsider.com > reports",
+    "url": "https://www.snsinsider.com/reports/advanced-lead-free-piezoelectric-materials-market-4230",
+    "pass": 3
+   },
+   {
+    "quote": "Global Lead - Free Piezoelectric Ceramics Market Report 2030 — Global Lead - Free Piezoelectric Ceramics Market Report 2030 BCC Research https://www.bccresearch.com > lead-f...",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vLFYqS6gzu7ggIK5v8VW_M-s7qnwCUBCSgbj4bMqs_yprDBKydh",
+    "pass": 3
+   },
+   {
+    "quote": "Global Lead - Free Piezoelectric Ceramics Market Report 2030 — Global Lead - Free Piezoelectric Ceramics Market Report 2030 BCC Research https://www.bccresearch.com > lead-f...",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vLbVYFiy5iu_cWjtZS3eqqxK1yPuMk93txurUaY8HX4oCf-Duwn",
+    "pass": 3
+   },
+   {
+    "quote": "BNT Lead - free Piezoelectric Ceramics Market - 2035 — BNT Lead - free Piezoelectric Ceramics Market - 2035 Future Market Insights https://www.futuremarketinsights.com > ...",
+    "url": "https://www.futuremarketinsights.com/reports/bnt-lead-free-piezoelectric-ceramics-market",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "to achieve the optimum grain size and uniformity for grain growth. Ball-milled powders were dried, pelletized, and sintered with a multistep sintering profile to achieve ~99% theoretical density (T.D). The temperature for sintering was raised to 1190 °C at a rate of 5 °C/min and then cooled rapidly to 1180 °C at a rate of 10 °C/min, where it was maintained for 10 h",
+    "url": "https://www.nature.com/articles/s41467-026-74568-x",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "5.9",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "quote": "圧電材料市場は2025年に15億3,000万米ドルと評価され、2026年には15億7,000万米ドルとなり、2026〜2035年に年平均成長率（CAGR）5.9%で成長し、2035年までに26億3,000万米ドルに達すると予測される"
+   },
+   {
+    "value": "7.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "quote": "PVDFポリマーの市場規模は2035年に3億6,900万米ドルに達し、2026〜2035年に年平均成長率（CAGR）7.7%で拡大すると予測される"
+   },
+   {
+    "value": "12.3",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "quote": "鉛フリーセラミックス（BNT / BT / KNN）は、2035年までに2億2,400万米ドルに達し、2026〜2035年に年平均成長率（CAGR）12.3%で成長すると予測される"
+   },
+   {
+    "value": "6.2",
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "quote": "複合材料・その他の材料は、2035年に市場シェア4.1%を占め、2026〜2035年に年平均成長率（CAGR）6.2%で成長すると予測される"
+   },
+   {
+    "value": "16.7",
+    "url": "https://newscast.jp/news/9947384",
+    "quote": "世界のKNN系圧電セラミックス市場規模は、2025年の1,489万米ドルから2032年には4,306万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）16.7%で成長すると見込まれています"
+   },
+   {
+    "value": "7.7",
+    "url": "https://www.atpress.ne.jp/news/7443861",
+    "quote": "世界の単結晶圧電材料市場規模は、2025年の17億4,200万米ドルから2032年には28億5,100万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）7.7％で成長すると見込まれています"
+   },
+   {
+    "value": "5.9",
+    "url": "https://www.gii.co.jp/report/fbs2147033-piezoelectric-materials-market-size-share-growth.html",
+    "quote": "同市場は、2026年の21億米ドルから2034年までに33億米ドルへと成長し、予測期間中はCAGR5.9％を示すと見込まれています"
+   },
+   {
+    "value": "15.1",
+    "url": "https://newscast.jp/smart/news/7972418",
+    "quote": "2032年までに43.11百万ドルに達すると予測されており、2026年から2032年までの期間における年平均成長率（CAGR）は15.1%と予想されています"
+   },
+   {
+    "value": "6.88",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-piezoelectric-materials-market",
+    "quote": "CAGRの6.88%"
+   },
+   {
+    "value": "15.1",
+    "url": "https://www.atpress.ne.jp/news/7972418",
+    "quote": "2032年までに43.11百万ドルに達すると予測されており、2026年から2032年までの期間における年平均成長率（CAGR）は15.1%と予想されています"
+   },
+   {
+    "value": "21.4",
+    "url": "https://www.marketresearchfuture.com/reports/advanced-lead-free-piezoelectric-materials-market-13968",
+    "quote": "As per MRFR analysis, the Advanced Lead-Free Piezoelectric Materials Market was estimated at 126.7 USD Billion in 2024. The market is projected to grow from 153.81 USD Billion in 2025 to 1069.5 USD Billion by 2035, exhibiting a compound annual growth rate (CAGR) of 21.4% during the forecast period 2"
+   },
+   {
+    "value": "16.4",
+    "url": "https://www.futuremarketinsights.com/reports/knn-lead-free-piezoelectric-ceramics-market",
+    "quote": "knn Lead-free Piezoelectric Ceramics Market Forecast CAGR: 16.4%"
+   },
+   {
+    "value": "20.5",
+    "url": "https://www.futuremarketinsights.com/reports/knn-lead-free-piezoelectric-ceramics-market",
+    "quote": "Geographic Market Strategy: Establish manufacturing presence in high-growth markets like China (22.1% CAGR) and India (20.5% CAGR), while maintaining research partnerships in innovation-leading markets like Germany (18.9% CAGR) and the USA"
+   },
+   {
+    "value": "12.3",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vIsIXyTDuJZpid6wpNQStCM6q-DGJBjKGndpRGClqLhaEx_-qBX",
+    "quote": "The global market for lead-free piezoelectric ceramics is projected to grow from $307.3 million in 2025 to reach $549.8 million by the end of 2030, at a compound annual growth rate (CAGR) of 12.3% from 2025 through 2030."
+   },
+   {
+    "value": "6.3",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vIsIXyTDuJZpid6wpNQStCM6q-DGJBjKGndpRGClqLhaEx_-qBX",
+    "quote": "The global market for glass-ceramics is expected to grow from $2 billion in 2026 and is projected to reach $2.7 billion by the end of 2031, at a compound annual growth rate (CAGR) of 6.3% during the forecast period of 2026 to 2031."
+   },
+   {
+    "value": "8.6",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vIsIXyTDuJZpid6wpNQStCM6q-DGJBjKGndpRGClqLhaEx_-qBX",
+    "quote": "The global market for ceramics is expected to grow from $41.3 billion in 2025 and is projected to reach $62.5 billion by the end of 2030, at a compound annual growth rate (CAGR) of 8.6% during the forecast period of 2025 to 2030."
+   },
+   {
+    "value": "16.8",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vIsIXyTDuJZpid6wpNQStCM6q-DGJBjKGndpRGClqLhaEx_-qBX",
+    "quote": "The global market for nanocoating is projected to grow from an estimated $15.3 billion in 2025 to reach $33.2 billion by the end of 2030, at a compound annual growth rate (CAGR) of 16.8% from 2025 through 2030."
+   },
+   {
+    "value": "8.0",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vIsIXyTDuJZpid6wpNQStCM6q-DGJBjKGndpRGClqLhaEx_-qBX",
+    "quote": "The global market for advanced ceramics and nanoceramic powders totaled $22.2 billion in 2023. It is expected to grow from $23.9 billion in 2024 to reach $35.1 billion by the end of 2029, at a compound annual growth rate (CAGR) of 8.0% from 2024 through 2029."
+   },
+   {
+    "value": "17.6",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vIsIXyTDuJZpid6wpNQStCM6q-DGJBjKGndpRGClqLhaEx_-qBX",
+    "quote": "The global market for nanofiltration is expected to grow from $1.5 billion in 2024 and is projected to reach $3.4 billion by the end of 2029, at a compound annual growth rate (CAGR) of 17.6% during the forecast period of 2024 to 2029."
+   },
+   {
+    "value": "20.6",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vIsIXyTDuJZpid6wpNQStCM6q-DGJBjKGndpRGClqLhaEx_-qBX",
+    "quote": "The global market for carbon nanotubes was valued at $2.0 billion in 2023. The market is projected to grow from $2.3 billion in 2024 to $5.9 billion by 2029, at a compound annual growth rate (CAGR) of 20.6% from 2024 through 2029."
+   },
+   {
+    "value": "8.4",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vIsIXyTDuJZpid6wpNQStCM6q-DGJBjKGndpRGClqLhaEx_-qBX",
+    "quote": "The global agricultural biotechnology market was valued at an estimated $84.7 billion in 2025 and is estimated to increase from $91.5 billion in 2026 to reach $137 billion by the end of 2031, at a compound annual growth rate (CAGR) of 8.4% from 2026 to 2031."
+   },
+   {
+    "value": "13.1",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vIsIXyTDuJZpid6wpNQStCM6q-DGJBjKGndpRGClqLhaEx_-qBX",
+    "quote": "The global bioinformatics market was valued at $23.5 billion in 2025 and is estimated to reach $43.5 billion by the end of 2030, at a compound annual growth rate (CAGR) of 13.1% from 2025 to 2030."
+   },
+   {
+    "value": "16.9",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vIsIXyTDuJZpid6wpNQStCM6q-DGJBjKGndpRGClqLhaEx_-qBX",
+    "quote": "The global market for lead-free piezoelectric ceramics should grow from $184.1 million in 2021 to $402.1 million by 2026, at compound annual growth rate (CAGR) of 16.9% for the period of 2021-2026."
+   },
+   {
+    "value": "20.8",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vIsIXyTDuJZpid6wpNQStCM6q-DGJBjKGndpRGClqLhaEx_-qBX",
+    "quote": "The global market for lead-free piezoelectric ceramics should grow from $172 million in 2019 to $443 million by 2024 with a compound annual growth rate (CAGR) of 20.8% for the period of 2019-2024."
+   },
+   {
+    "value": "16.17",
+    "url": "https://www.snsinsider.com/reports/advanced-lead-free-piezoelectric-materials-market-4230",
+    "quote": "was valued at USD 145.10 Billion in 2023 and is projected to reach USD 558.75 Billion by 2032, growing at a robust CAGR of 16.17% during the forecast period from 2024 to 2032."
+   },
+   {
+    "value": "16.4",
+    "url": "https://www.snsinsider.com/reports/advanced-lead-free-piezoelectric-materials-market-4230",
+    "quote": "CAGR of 16.4 % From 2024 to 2032"
+   },
+   {
+    "value": "12.3",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vLFYqS6gzu7ggIK5v8VW_M-s7qnwCUBCSgbj4bMqs_yprDBKydh",
+    "quote": "The global market for lead-free piezoelectric ceramics is projected to grow from $307.3 million in 2025 to reach $549.8 million by the end of 2030, at a compound annual growth rate (CAGR) of 12.3% from 2025 through 2030."
+   },
+   {
+    "value": "6.3",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vLFYqS6gzu7ggIK5v8VW_M-s7qnwCUBCSgbj4bMqs_yprDBKydh",
+    "quote": "The global market for glass-ceramics is expected to grow from $2 billion in 2026 and is projected to reach $2.7 billion by the end of 2031, at a compound annual growth rate (CAGR) of 6.3% during the forecast period of 2026 to 2031."
+   },
+   {
+    "value": "8.6",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vLFYqS6gzu7ggIK5v8VW_M-s7qnwCUBCSgbj4bMqs_yprDBKydh",
+    "quote": "The global market for ceramics is expected to grow from $41.3 billion in 2025 and is projected to reach $62.5 billion by the end of 2030, at a compound annual growth rate (CAGR) of 8.6% during the forecast period of 2025 to 2030."
+   },
+   {
+    "value": "16.8",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vLFYqS6gzu7ggIK5v8VW_M-s7qnwCUBCSgbj4bMqs_yprDBKydh",
+    "quote": "The global market for nanocoating is projected to grow from an estimated $15.3 billion in 2025 to reach $33.2 billion by the end of 2030, at a compound annual growth rate (CAGR) of 16.8% from 2025 through 2030."
+   },
+   {
+    "value": "8.0",
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vLFYqS6gzu7ggIK5v8VW_M-s7qnwCUBCSgbj4bMqs_yprDBKydh",
+    "quote": "The global market for advanced ceramics and nanoceramic powders totaled $22.2 billion in 2023. It is expected to grow from $23.9 billion in 2024 to reach $35.1 billion by the end of 2029, at a compound annual growth rate (CAGR) of 8.0% from 2024 through 2029."
+   }
+  ],
+  "市場規模USD": [
+   {
+    "value": "1.47",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-piezoelectric-materials-market",
+    "quote": "USD 1.47 Billion"
+   },
+   {
+    "value": "2.16",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-piezoelectric-materials-market",
+    "quote": "USD 2.16 Billion"
+   },
+   {
+    "value": "1.92",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-piezoelectric-materials-market",
+    "quote": "USD 1.92 Billion"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/piezoelectric-devices-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E5%9C%A7%E9%9B%BB%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4-102938",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/9947384",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/7443861",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/fbs2147033-piezoelectric-materials-market-size-share-growth.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/7972418",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-piezoelectric-materials-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/7972418",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pando.life/article/4741438",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.tytlabs.co.jp/ja/technology/achievement/2004_2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niterragroup.com/resource/pdf/csr_report_csr_report2013_j_07.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hiroshima-u.ac.jp/news/75357",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2302/13/news120.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://archive.nims.go.jp/news/press/2009/12/p200912100.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/advanced-lead-free-piezoelectric-materials-market-13968",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futuremarketinsights.com/reports/knn-lead-free-piezoelectric-ceramics-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vIsIXyTDuJZpid6wpNQStCM6q-DGJBjKGndpRGClqLhaEx_-qBX",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/lead-free-piezoelectric-ceramics-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/piezoelectric-materials-market-102938",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snsinsider.com/reports/advanced-lead-free-piezoelectric-materials-market-4230",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vLFYqS6gzu7ggIK5v8VW_M-s7qnwCUBCSgbj4bMqs_yprDBKydh",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S2352847815300083",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchandmarkets.com/report/lead-free-piezoelectric-ceramics?srsltid=AYCX9vI955f7k3rzYKjfbTnLuK2aDz9V65iCAtxvfC9AZ8MTvnmes0Ic",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.verifiedmarketreports.com/product/lead-free-piezoelectric-material-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vLbVYFiy5iu_cWjtZS3eqqxK1yPuMk93txurUaY8HX4oCf-Duwn",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futuremarketinsights.com/reports/bnt-lead-free-piezoelectric-ceramics-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nature.com/articles/s41467-026-74568-x",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.azom.com/news.aspx?newsID=64349",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cen.acs.org/materials/electronic-materials/Lead-free-material-proves-piezoelectric/103/web/2025/12",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "圧電材料（非鉛） 市場規模 年平均成長率",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "https://www.mordorintelligence.com/ja/industry-reports/piezoelectric-devices-market",
+    "https://jp.linkedin.com/pulse/%E7%84%A1%E6%A9%9F%E5%9C%A7%E9%9B%BB%E6%9D%90%E6%96%99-market-growth-forecast-global-analysis-71-cagr-v5nee",
+    "https://www.fortunebusinessinsights.com/jp/%E5%9C%A7%E9%9B%BB%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4-102938",
+    "https://newscast.jp/news/9947384",
+    "https://www.atpress.ne.jp/news/7443861",
+    "https://www.marketresearchfuture.com/ja/reports/piezoelectric-polymer-market-28885",
+    "https://www.sphericalinsights.com/jp/reports/piezoelectric-materials-market",
+    "https://www.dreamnews.jp/press/0000365855",
+    "https://www.fortunebusinessinsights.com/jp/圧電材料市場-102938"
+   ]
+  },
+  {
+   "query": "圧電材料（非鉛） 市場 予測 富士経済 OR 矢野経済 OR シーエムシー",
+   "results": [
+    "https://www.gii.co.jp/report/fbs2147033-piezoelectric-materials-market-size-share-growth.html",
+    "https://www.fortunebusinessinsights.com/jp/%E5%9C%A7%E9%9B%BB%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4-102938",
+    "https://newscast.jp/smart/news/7972418",
+    "https://www.databridgemarketresearch.com/jp/reports/global-piezoelectric-materials-market",
+    "https://www.atpress.ne.jp/news/7972418",
+    "https://www.mordorintelligence.com/ja/industry-reports/piezoelectric-devices-market",
+    "https://pando.life/article/4741438",
+    "https://www.fuji-keizai.co.jp/press/detail.html?cid=26098&la=ja",
+    "https://eriongurakuqi2022.exblog.jp/38858631/"
+   ]
+  },
+  {
+   "query": "圧電材料（非鉛） 参入 企業 国内",
+   "results": [
+    "https://www.tytlabs.co.jp/ja/technology/achievement/2004_2.html",
+    "https://www.niterragroup.com/resource/pdf/csr_report_csr_report2013_j_07.pdf",
+    "https://www.hiroshima-u.ac.jp/news/75357",
+    "https://eetimes.itmedia.co.jp/ee/articles/2302/13/news120.html",
+    "https://www.youtube.com/watch?v=uFuuHrkVSjo",
+    "https://archive.nims.go.jp/news/press/2009/12/p200912100.html",
+    "https://www.gminsights.com/ja/industry-analysis/piezoelectric-materials-market",
+    "http://www.use-jp.org/USE2009/proceedings/USE07_proceedings/1-X/013.pdf",
+    "https://www.yamanashi.ac.jp/28017",
+    "https://www.sphericalinsights.jp/blogs/top-50-companies-in-the-piezoelectric-materials-market-spherical-insights-analysis"
+   ]
+  },
+  {
+   "query": "lead-free piezoelectric market size CAGR 2025",
+   "results": [
+    "https://www.marketresearchfuture.com/reports/advanced-lead-free-piezoelectric-materials-market-13968",
+    "https://www.futuremarketinsights.com/reports/knn-lead-free-piezoelectric-ceramics-market",
+    "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vIsIXyTDuJZpid6wpNQStCM6q-DGJBjKGndpRGClqLhaEx_-qBX",
+    "https://www.linkedin.com/pulse/lead-free-piezoelectric-ceramics-market-us-japan-korea-bnwyf",
+    "https://www.mordorintelligence.com/industry-reports/lead-free-piezoelectric-ceramics-market",
+    "https://www.fortunebusinessinsights.com/piezoelectric-materials-market-102938",
+    "https://www.snsinsider.com/reports/advanced-lead-free-piezoelectric-materials-market-4230",
+    "https://www.precedenceresearch.com/piezoelectric-ceramics-market",
+    "https://uk.finance.yahoo.com/news/lead-free-piezoelectric-ceramics-technology-095300890.html",
+    "https://www.verifiedmarketreports.com/product/lead-free-piezoelectric-material-market/"
+   ]
+  },
+  {
+   "query": "lead-free piezoelectric market key players competitive landscape",
+   "results": [
+    "https://www.marketresearchfuture.com/reports/advanced-lead-free-piezoelectric-materials-market-13968",
+    "https://www.mordorintelligence.com/industry-reports/lead-free-piezoelectric-ceramics-market",
+    "https://www.futuremarketinsights.com/reports/knn-lead-free-piezoelectric-ceramics-market",
+    "https://www.linkedin.com/pulse/research-examination-lead-free-piezoelectric-ceramic-material-h41df",
+    "https://www.snsinsider.com/reports/advanced-lead-free-piezoelectric-materials-market-4230",
+    "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vLFYqS6gzu7ggIK5v8VW_M-s7qnwCUBCSgbj4bMqs_yprDBKydh",
+    "https://www.fortunebusinessinsights.com/piezoelectric-materials-market-102938",
+    "https://www.sciencedirect.com/science/article/pii/S2352847815300083",
+    "https://www.researchandmarkets.com/report/lead-free-piezoelectric-ceramics?srsltid=AYCX9vI955f7k3rzYKjfbTnLuK2aDz9V65iCAtxvfC9AZ8MTvnmes0Ic",
+    "https://www.verifiedmarketreports.com/product/lead-free-piezoelectric-material-market/"
+   ]
+  },
+  {
+   "query": "lead-free piezoelectric startup funding 2025",
+   "results": [
+    "https://www.bccresearch.com/market-research/nanotechnology/lead-free-piezoelectric-ceramics-market-report.html?srsltid=AYCX9vLbVYFiy5iu_cWjtZS3eqqxK1yPuMk93txurUaY8HX4oCf-Duwn",
+    "https://www.futuremarketinsights.com/reports/bnt-lead-free-piezoelectric-ceramics-market",
+    "https://www.nature.com/articles/s41467-026-74568-x",
+    "https://www.snsinsider.com/reports/advanced-lead-free-piezoelectric-materials-market-4230",
+    "https://www.mordorintelligence.com/industry-reports/lead-free-piezoelectric-ceramics-market",
+    "https://www.linkedin.com/pulse/lead-free-piezoelectric-material-market-us-japan-eglqf",
+    "https://www.azom.com/news.aspx?newsID=64349",
+    "https://cen.acs.org/materials/electronic-materials/Lead-free-material-proves-piezoelectric/103/web/2025/12",
+    "https://www.sphericalinsights.com/blogs/world-s-top-25-companies-in-piezoelectric-energy-harvesting-market-2025-industry-intelligence-report-by-spherical-insights-2026-2035",
+    "https://www.ventureradar.com/funding/piezoelectric"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -1,0 +1,265 @@
+{
+ "name": "ワイヤーアーク積層用ワイヤ",
+ "en": "WAAM wire",
+ "aliases": [
+  "wire arc additive manufacturing wire",
+  "WAAMワイヤ"
+ ],
+ "context": "金属AM",
+ "kind": "market",
+ "researched_at": "2026-11-02T17:39:06.825054+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://newscast.jp/news/4594187",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/4594187",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zionmarketresearch.com/ja/report/welding-consumables-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.theinsightpartners.com/ja/reports/welding-wires-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E5%9B%BA%E4%BD%93%E6%BA%B6%E6%8E%A5%E3%83%AF%E3%82%A4%E3%83%A4%E5%B8%82%E5%A0%B4-113477",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://baike.baidu.com/ja/item/%E3%83%AF%E3%82%A4%E3%83%A4%E3%82%A2%E3%83%BC%E3%82%AF%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E6%8A%80%E8%A1%93/7014353",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://catalog.lib.kyushu-u.ac.jp/opac_download_md/7429161/7429161.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www-it.jwes.or.jp/we-com/bn/vol_47/sec_2/2-2/1-1.jsp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daido.co.jp/about/release/2026/260127_waam.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260518_02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hdc3d.com/ja/portfolio-item/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E6%96%B9%E5%BC%8F%E3%81%AE%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E3%80%81%E3%83%AF%E3%82%A4%E3%83%A4%E3%82%A2%E3%83%BC%E3%82%AF/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoque.jp/news/b6fa04d118e2793fcd9579ad6edd5b82ad8fdeac/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www-it.jwes.or.jp/we-com/bn/vol_39/sec_2/2-3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reportprime.com/cored-wire-r160",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.datainsightsreports.com/ja/reports/waiyakushisutemu-55995",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mx3d.com/why-waam-matters/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.frontiersin.org/journals/manufacturing-technology/articles/10.3389/fmtec.2025.1676365/full",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://insidemetaladditivemanufacturing.com/2024/11/18/wire-arc-additive-manufacturing-waam-a-snapshot/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ramlab.com/resources/waam-101/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.waam3d.com/resources/blog",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mx3d.com/what-materials-can-be-used-in-wire-arc-additive-manufacturing-waam/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/united-states-additive-manufacturing-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.waam3d.com/project/hpwaam",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tctmagazine.com/waam3d-funding-wire-based-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nature.com/articles/s41598-025-15250-y",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.edf.fr/en/pulse/ventures-portfolio-mx3d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.global.weir/newsroom/global-news/HPWAAM-breakthrough/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ワイヤーアーク積層用ワイヤ 市場規模 年平均成長率",
+   "results": [
+    "https://newscast.jp/news/4594187",
+    "https://www.atpress.ne.jp/news/4594187",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "https://www.zionmarketresearch.com/ja/report/welding-consumables-market",
+    "https://www.theinsightpartners.com/ja/reports/welding-wires-market",
+    "https://www.imarcgroup.com/report/ja/japan-metal-additive-manufacturing-market",
+    "https://www.coherentmarketinsights.com/ja/%E9%87%91%E5%B1%9E%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E5%B8%82%E5%A0%B4",
+    "https://www.fortunebusinessinsights.com/jp/%E5%9B%BA%E4%BD%93%E6%BA%B6%E6%8E%A5%E3%83%AF%E3%82%A4%E3%83%A4%E5%B8%82%E5%A0%B4-113477",
+    "https://www.gii.co.jp/report/tbrc1933726-wire-arc-additive-manufacturing-cell-global-market.html"
+   ]
+  },
+  {
+   "query": "ワイヤーアーク積層用ワイヤ 市場 予測 富士経済 OR 矢野経済 OR シーエムシー",
+   "results": [
+    "https://newscast.jp/news/4594187",
+    "https://www.atpress.ne.jp/news/4594187",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://www.theinsightpartners.com/ja/reports/welding-wires-market",
+    "https://www.fortunebusinessinsights.com/jp/%E5%9B%BA%E4%BD%93%E6%BA%B6%E6%8E%A5%E3%83%AF%E3%82%A4%E3%83%A4%E5%B8%82%E5%A0%B4-113477",
+    "https://baike.baidu.com/ja/item/%E3%83%AF%E3%82%A4%E3%83%A4%E3%82%A2%E3%83%BC%E3%82%AF%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E6%8A%80%E8%A1%93/7014353",
+    "https://catalog.lib.kyushu-u.ac.jp/opac_download_md/7429161/7429161.pdf",
+    "https://www-it.jwes.or.jp/we-com/bn/vol_47/sec_2/2-2/1-1.jsp",
+    "https://newscast.jp/news/6104846"
+   ]
+  },
+  {
+   "query": "ワイヤーアーク積層用ワイヤ 参入 企業 国内",
+   "results": [
+    "https://www.daido.co.jp/about/release/2026/260127_waam.html",
+    "https://www.daihen.co.jp/newinfo_2026/news_260518_02.html",
+    "https://hdc3d.com/ja/portfolio-item/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E6%96%B9%E5%BC%8F%E3%81%AE%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E3%80%81%E3%83%AF%E3%82%A4%E3%83%A4%E3%82%A2%E3%83%BC%E3%82%AF/",
+    "https://monoque.jp/news/b6fa04d118e2793fcd9579ad6edd5b82ad8fdeac/",
+    "https://www-it.jwes.or.jp/we-com/bn/vol_39/sec_2/2-3.pdf",
+    "https://www.aichi-sangyo.co.jp/products/waam3d/index.html",
+    "https://www.youtube.com/watch?v=2yBL1banI8s",
+    "https://newscast.jp/news/4594187",
+    "https://baike.baidu.com/ja/item/%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E7%94%A8%E6%BA%B6%E6%8E%A5%E3%83%AF%E3%82%A4%E3%83%A4/4973325",
+    "https://aichi-sangyo.co.jp/products/waam3d/index.html"
+   ]
+  },
+  {
+   "query": "WAAM wire market size CAGR 2025",
+   "results": [
+    "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "https://www.reportprime.com/cored-wire-r160",
+    "https://www.datainsightsreports.com/reports/wire-arc-additive-manufacturing-system-market-55995",
+    "https://mx3d.com/why-waam-matters/",
+    "https://www.frontiersin.org/journals/manufacturing-technology/articles/10.3389/fmtec.2025.1676365/full",
+    "https://www.mordorintelligence.com/industry-reports/united-states-wires-and-cables-market",
+    "https://www.openpr.com/news/4654183/growth-of-the-wire-arc-additive-manufacturing-cell-market-driven",
+    "https://www.grandviewresearch.com/industry-analysis/steel-wire-market-report",
+    "https://www.linkedin.com/posts/market-research-growth-analysis_globalwaammarket-wirearcadditivemanufacturing-activity-7521951548277669888-B3Lc",
+    "https://www.qyresearch.com/reports/4760312/wire-arc-additive-manufacture--waam"
+   ]
+  },
+  {
+   "query": "WAAM wire market key players competitive landscape",
+   "results": [
+    "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "https://insidemetaladditivemanufacturing.com/2024/11/18/wire-arc-additive-manufacturing-waam-a-snapshot/",
+    "https://www.datainsightsreports.com/reports/wire-arc-additive-manufacturing-system-market-55995",
+    "https://www.ramlab.com/resources/waam-101/",
+    "https://www.waam3d.com/resources/blog",
+    "https://mx3d.com/what-materials-can-be-used-in-wire-arc-additive-manufacturing-waam/",
+    "https://www.linkedin.com/pulse/wire-arc-additive-manufacturing-solution-market-reach-jctlf",
+    "https://www.mordorintelligence.com/industry-reports/united-states-additive-manufacturing-market",
+    "https://facfox.com/docs/kb/wire-arc-additive-manufacturing-waam-the-big-metal-revolution-in-3d-printing",
+    "https://qualiketresearch.com/reports-details/Global-Wire-Arc-Additive-Manufacturing-WAAM-Market"
+   ]
+  },
+  {
+   "query": "WAAM wire startup funding 2025",
+   "results": [
+    "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "https://www.waam3d.com/project/hpwaam",
+    "https://www.tctmagazine.com/waam3d-funding-wire-based-additive-manufacturing/",
+    "https://www.nature.com/articles/s41598-025-15250-y",
+    "https://mx3d.com/why-waam-matters/",
+    "https://www.edf.fr/en/pulse/ventures-portfolio-mx3d",
+    "https://www.frontiersin.org/journals/manufacturing-technology/articles/10.3389/fmtec.2025.1676365/full",
+    "https://www.global.weir/newsroom/global-news/HPWAAM-breakthrough/",
+    "https://www.youtube.com/watch?v=LzhRvE6765c"
+   ]
+  }
+ ],
+ "missing": {
+  "市場規模": "記載なし（読んだ30頁・検索6回）",
+  "成長率": "記載なし（読んだ30頁・検索6回）",
+  "主要企業": "記載なし（読んだ30頁・検索6回）",
+  "日本企業": "記載なし（読んだ30頁・検索6回）",
+  "上位シェア": "記載なし（読んだ30頁・検索6回）",
+  "投資": "記載なし（読んだ30頁・検索6回）"
+ }
+}

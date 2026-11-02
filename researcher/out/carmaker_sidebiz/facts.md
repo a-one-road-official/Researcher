@@ -1,4 +1,4 @@
-# ハイパーカー・少量生産メーカーの車以外の稼ぎ方（他社向け開発・部品供給・ライセンス・デザイン等）（事実のみ・28社）
+# ハイパーカー・少量生産メーカーの車以外の稼ぎ方（他社向け開発・部品供給・ライセンス・デザイン等）（事実のみ・32社）
 
 ## Ariel Motor Company
 - 公式URL：https://www.arielmotor.co.uk（given）
@@ -360,6 +360,130 @@
 - 設立：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部18頁・検索6回）
 - 従業員数：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部18頁・検索6回）
 - 売上高：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部18頁・検索6回）
+
+## Caterham Cars
+- 公式URL：https://www.caterhamcars.com（given）
+- 従業員数：Kazuho Takahashi (CEO) [ 2 ]（https://en.wikipedia.org/wiki/Caterham_Cars・3回目）
+- 部品・技術の供給：
+  - 「Alongside its well-established pre-owned operation, Caterham Turn 7’s North Yorkshire facility will now supply the full Seven range, accompanied by official parts, workshop servicing and aftersales support.」（https://caterhamcars.com/ja/news/caterham-expands-uk-retailer-network-with-yorkshire-based-caterham-turn-7・1回目）
+  - 「Based on the high-performance Seven R chassis, the track-only car features a naturally aspirated 2.0-litre Ford Duratec engine, delivering 210 bhp at 7,600 rpm for a power-to-weight ratio of 375 bhp-per-tonne. It’s mated to a five-speed manual gearbox, resulting in a 0-60 mph time of just 3.8 seconds and a top speed of 136 mph.」（https://caterhamcars.com/ja/news/seven-miami-special-edition-meets-monterey・1回目）
+  - 「Caterham Cars is pleased to announce a new strategic partnership with Würth UK, one of the UK's leading suppliers of assembly tools, fastening technology and workshop solutions. The collaboration marks an important step in further enhancing the efficiency, precision and quality of Caterham's manufacturing operations at its Dartford facility.」（https://caterhamcars.com/ja/news/caterham-cars-announce-strategic-partnership-with-w%C3%BCrth-uk-to-enhance-manufacturing-operations・1回目）
+  - 「The Caterham and Würth partnership reflects a commitment to supporting performance both on the track and behind the scenes, combining Caterham's iconic driving experience with Würth's expertise in workshop products, systems and solutions.」（https://caterhamcars.com/ja/news/caterham-cars-announce-strategic-partnership-with-w%C3%BCrth-uk-to-enhance-manufacturing-operations・1回目）
+  - 「Other exterior upgrades include a Nürburgring "red" track day roll bar, a Nürburgring mesh grill with Seven logo in dual colour and a 620-style nosecone with carbon aero whiskers. The chassis colour is a distinctive Gunmetal Grey and the car features carbon front wings, Black Pack (black windscreen, headlamp bowls and exhaust heat shield), composite aero screen and LED rear lights clusters.」（https://caterhamcars.com/ja/news/100-years-of-the-ring-one-seven-caterham-unveils-the-nurburgring-limited-edition・1回目）
+  - 「The Caterham Seven Roadsport Championship is officially sponsored by Bilstein for the 2026 season. A long-term technical partner of Caterham, Bilstein provides suspension components found across the Caterham model range, along with all five of our race championships. For more information on Bilstein,」（https://caterhamcars.com/ja/news/caterham-motorsport-united-kingdom-2026-sponsors・1回目）
+  - 「Our final ladder in Caterham Motorsport, the Caterham Seven Championship UK, is sponsored by Motul for the 2026 season. As a global leader in high-performance lubricants and racing fluids, Motul’s involvement in both our road and race car programmes sees the supply of engine oil, brake fluid, gear oil and coolant. For more information on Motul,」（https://caterhamcars.com/ja/news/caterham-motorsport-united-kingdom-2026-sponsors・1回目）
+  - 「VBOX Motorsport continues to play an integral role, providing high-definition camera systems and sophisticated data-logging technology utilised throughout the paddock to help drivers analyse their performance. For information about VBOX Motorsport,」（https://caterhamcars.com/ja/news/caterham-motorsport-united-kingdom-2026-sponsors・1回目）
+  - 「Last but by no means least, we have EBC Brakes, a key technical partner supplying high-performance braking components for road, circuit, and race applications, and will supply all five championships. For more information about EBC Brakes,」（https://caterhamcars.com/ja/news/caterham-motorsport-united-kingdom-2026-sponsors・1回目）
+  - 「Caterham Cars added: “Whilst the business still incurred some supply chain issues in the year, many of the previous year’s supply problems were resolved as the year progressed and this led to more stable monthly output for the majority of the year under review.」（https://www.cityam.com/caterham-bosses-voice-disappointment-at-fourth-loss-in-a-row/・3回目）
+  - 「due to challenges on the UK supply side that are out of our control. This may change in the future as the supply chain challenges ease.」（https://rockymountaincaterham.com/parts/・3回目）
+  - 「The Chassis」（https://caterhamcars.com/en/models/build-a-caterham・3回目）
+- ライセンス・ブランド：
+  - 「If you’re aged 16+ and don’t hold a race licence, the Caterham Academy is your route onto the grid! ✅」（https://caterhamcars.com/ja・1回目）
+  - 「Caterham Cars Announce Strategic Partnership with Würth UK to Enhance Manufacturing Operations」（https://caterhamcars.com/ja?view=article&id=40:news&catid=9・1回目）
+  - 「Caterham Takes to the Track in Miami with Precision Drive Club Partnership」（https://caterhamcars.com/ja?view=article&id=40:news&catid=9・1回目）
+  - 「Caterham and Motul renew their partnership focused on performance」（https://caterhamcars.com/ja?view=article&id=40:news&catid=9・1回目）
+  - 「Miami, Meet Caterham: Walt Grace Vintage Becomes the Brand’s Newest USA Dealer」（https://caterhamcars.com/ja?view=article&id=40:news&catid=9・1回目）
+  - 「The Caterham Motorsport 2027 calendar is officially here, promising another year of thrilling races across all championships. For next year, we have decided to bring our championships together at almost every round.」（https://caterhamcars.com/ja/news/2027-caterham-motorsport-calendar-announced・1回目）
+  - 「2027 sees our Academy Championship return to the fabled Curborough Sprint Course on the 2 and 3 of April, following their pre-season introduction to motorsport program, including the Academy seminar, ARDS day, and exclusive track day at Lydden Hill.」（https://caterhamcars.com/ja/news/2027-caterham-motorsport-calendar-announced・1回目）
+  - 「In an exciting update for the new season, the previous Roadsport Championship has now been officially rebranded as the Clubsport Championship, as the Caterham Motorsport Horse HR13 engine takes its next step up the championship ladder.」（https://caterhamcars.com/ja/news/2027-caterham-motorsport-calendar-announced・1回目）
+  - 「Our first race weekend with all championships takes place on 24 and 25 April at Snetterton, shortly after our official Media Day. From there, the paddock will travel together to some of the UK’s most spectacular circuits, tackling the coastal twists of Anglesey in May, the challenging Croft circuit in June, and the iconic Brands Hatch in July.」（https://caterhamcars.com/ja/news/2027-caterham-motorsport-calendar-announced・1回目）
+  - 「A standout highlight of the 2027 season is the much-anticipated international away round. While our Academy drivers take a mid-summer break, our Clubsport, Seven 270R, Seven 310R, and Seven Championship UK grids will cross the channel to the Netherlands on 24 and 25 July, taking on the legendary banking of Zandvoort.」（https://caterhamcars.com/ja/news/2027-caterham-motorsport-calendar-announced・1回目）
+  - 「Included as part of iRacing’s recently announced ‘Season 4’ upgrade, the Caterham Academy and the 420R race cars allow fans of the sim-racing platform the chance to experience the brand's iconic lightweight sports car in the virtual world for the first time.」（https://caterhamcars.com/ja/news/caterham-cars-makes-its-debut-on-iracing,-the-world%E2%80%99s-largest-sim-racing-platform・1回目）
+  - 「Established in 2003, iRacing is the world’s leading online racing platform. Featuring over 180 officially licensed cars and more than 150 race circuits, it is currently enjoyed by more than 350,000 sim racers and gamers around the globe.」（https://caterhamcars.com/ja/news/caterham-cars-makes-its-debut-on-iracing,-the-world%E2%80%99s-largest-sim-racing-platform・1回目）
+- 車以外の顧客・産業：
+  - 「2027 Caterham Motorsport Calendar Announced!」（https://caterhamcars.com/ja・1回目）
+  - 「From its unique track-focused spec to the serious fun it delivers, Caterham Head of Motorsport, Alex Read, talks all thing…」（https://caterhamcars.com/ja・1回目）
+  - 「Motorsport」（https://caterhamcars.com/ja?view=article&id=40:news&catid=9・1回目）
+  - 「2027 Caterham Motorsport Calendar Announced!」（https://caterhamcars.com/ja?view=article&id=40:news&catid=9・1回目）
+  - 「Caterham Motorsport United Kingdom 2026 Sponsors」（https://caterhamcars.com/ja?view=article&id=40:news&catid=9・1回目）
+  - 「NOVA MOTORSPORT NAMED OFFICIAL TYRE PARTNER FOR CATERHAM MOTORSPORT IN MULTI-YEAR AGREEMENT」（https://caterhamcars.com/ja?view=article&id=40:news&catid=9・1回目）
+  - 「Motorsport」（https://caterhamcars.com/ja/news/620r-takes-on-top-gears-tunnel-run・1回目）
+  - 「2027 Caterham Motorsport Calendar Announced!」（https://caterhamcars.com/ja/news/620r-takes-on-top-gears-tunnel-run・1回目）
+  - 「Motorsport」（https://caterhamcars.com/ja/news/caterham-expands-uk-retailer-network-with-yorkshire-based-caterham-turn-7・1回目）
+  - 「2027 Caterham Motorsport Calendar Announced!」（https://caterhamcars.com/ja/news/caterham-expands-uk-retailer-network-with-yorkshire-based-caterham-turn-7・1回目）
+  - 「2027 Caterham Motorsport Calendar Announced! | Caterham Cars」（https://caterhamcars.com/ja/news/2027-caterham-motorsport-calendar-announced・1回目）
+  - 「2027 Caterham Motorsport Calendar Announced!」（https://caterhamcars.com/ja/news/2027-caterham-motorsport-calendar-announced・1回目）
+- レース・ワンメイク：
+  - 「as LEGO CAT, is the latest vehicle to take on Catesby Tunnel in Top Gear’s (UK) web series.」（https://caterhamcars.com/ja/news/620r-takes-on-top-gears-tunnel-run・1回目）
+  - 「The Caterham Motorsport 2027 calendar is officially here, promising another year of thrilling races across all championships. For next year, we have decided to bring our championships together at almost every round.」（https://caterhamcars.com/ja/news/2027-caterham-motorsport-calendar-announced・1回目）
+  - 「2027 sees our Academy Championship return to the fabled Curborough Sprint Course on the 2 and 3 of April, following their pre-season introduction to motorsport program, including the Academy seminar, ARDS day, and exclusive track day at Lydden Hill.」（https://caterhamcars.com/ja/news/2027-caterham-motorsport-calendar-announced・1回目）
+  - 「In an exciting update for the new season, the previous Roadsport Championship has now been officially rebranded as the Clubsport Championship, as the Caterham Motorsport Horse HR13 engine takes its next step up the championship ladder.」（https://caterhamcars.com/ja/news/2027-caterham-motorsport-calendar-announced・1回目）
+  - 「Our first race weekend with all championships takes place on 24 and 25 April at Snetterton, shortly after our official Media Day. From there, the paddock will travel together to some of the UK’s most spectacular circuits, tackling the coastal twists of Anglesey in May, the challenging Croft circuit in June, and the iconic Brands Hatch in July.」（https://caterhamcars.com/ja/news/2027-caterham-motorsport-calendar-announced・1回目）
+  - 「A standout highlight of the 2027 season is the much-anticipated international away round. While our Academy drivers take a mid-summer break, our Clubsport, Seven 270R, Seven 310R, and Seven Championship UK grids will cross the channel to the Netherlands on 24 and 25 July, taking on the legendary banking of Zandvoort.」（https://caterhamcars.com/ja/news/2027-caterham-motorsport-calendar-announced・1回目）
+  - 「Included as part of iRacing’s recently announced ‘Season 4’ upgrade, the Caterham Academy and the 420R race cars allow fans of the sim-racing platform the chance to experience the brand's iconic lightweight sports car in the virtual world for the first time.」（https://caterhamcars.com/ja/news/caterham-cars-makes-its-debut-on-iracing,-the-world%E2%80%99s-largest-sim-racing-platform・1回目）
+  - 「Players can race the Caterham Seven Academy and Seven 420R race cars by purchasing these from the official iRacing store and entering the dedicated Caterham series. Both cars are available together as part of a single, in-game bundle purchase.」（https://caterhamcars.com/ja/news/caterham-cars-makes-its-debut-on-iracing,-the-world%E2%80%99s-largest-sim-racing-platform・1回目）
+  - 「Along with its changing elevation and camber across its 73 corners, the Nürburgring is a site where Caterham’s road and race cars have flourished for decades. Most notably, an 11th place finish at the Nürburgring 24 Hours in 2002, which saw an outstanding drive by Chris Cooper, Chris Harris, Clive Richards and Peter Haynes.」（https://caterhamcars.com/ja/news/100-years-of-the-ring-one-seven-caterham-unveils-the-nurburgring-limited-edition・1回目）
+  - 「Caterham Seven Academy Championship: Sponsored by Caffeine & Machine」（https://caterhamcars.com/ja/news/caterham-motorsport-united-kingdom-2026-sponsors・1回目）
+  - 「The Caterham Academy Championship is officially sponsored by Caffeine & Machine, the renowned automotive lifestyle brand and cultural hub. As part of the partnership, we are excited to have Caffeine & Machine founder and director, Phil McGovern, joining us on the grid. You can follow Phil’s journey on the Caterham and Caffeine & Machine social channels, and discover more about Caffeine & Machine」（https://caterhamcars.com/ja/news/caterham-motorsport-united-kingdom-2026-sponsors・1回目）
+  - 「Caterham Seven Roadsport Championship: Sponsored by Bilstein」（https://caterhamcars.com/ja/news/caterham-motorsport-united-kingdom-2026-sponsors・1回目）
+- お金の形：
+  - 「Alongside its well-established pre-owned operation, Caterham Turn 7’s North Yorkshire facility will now supply the full Seven range, accompanied by official parts, workshop servicing and aftersales support.」（https://caterhamcars.com/ja/news/caterham-expands-uk-retailer-network-with-yorkshire-based-caterham-turn-7・1回目）
+  - 「At this annual celebration of automotive excellence on the West Coast of California, collectors and track enthusiasts will have the rare opportunity to acquire two examples of the limited Caterham Seven Miami Special Edition, highlighting the manufacturer’s expanding footprint in the American market.」（https://caterhamcars.com/ja/news/seven-miami-special-edition-meets-monterey・1回目）
+  - 「, which opens as part of the esteemed Leuba Collection. Renowned for their dedication to automotive excellence and heritage, the Leuba Collection is perfectly placed to introduce the lightweight sports car to a greater audience. Kevin Duffournet, Head of the Collection, and his team will ensure Swiss customers receive expert guidance through the Caterham range and dedicated aftersales support.」（https://caterhamcars.com/ja/news/caterham-expands-european-network-with-three-new-retailer-appointments・1回目）
+  - 「. Under the expert guidance of CEO Bernardo Bello, the new Catalan showroom will help continue growing the Sevens presence in Spain and provide the Pure. Simple. Fun. Experience to enthusiast, whilst serving existing owners through aftersales support.」（https://caterhamcars.com/ja/news/caterham-expands-european-network-with-three-new-retailer-appointments・1回目）
+  - 「API & Data Feeds」（https://www.cbinsights.com/company/caterham-cars/alternatives-competitors・3回目）
+  - 「's estimated annual revenue is currently」（https://growjo.com/company/Caterham_Cars・3回目）
+  - 「Aftersales Commercial Manager」（https://growjo.com/company/Caterham_Cars・3回目）
+  - 「Inside the Donkervoort, a Dutch super car like no other」（https://www.cityam.com/caterham-bosses-voice-disappointment-at-fourth-loss-in-a-row/・3回目）
+  - 「Caterham provides direct factory aftersales support to help home builders. You can contact our dedicated technical assistance department via」（https://caterhamcars.com/en/models/build-a-caterham・3回目）
+  - 「Caterham Racing was used by the company to act as a feeder team towards developing racing drivers for the」（https://en.wikipedia.org/wiki/Caterham_Cars・3回目）
+  - 「Articles with multiple maintenance issues」（https://en.wikipedia.org/wiki/Caterham_Cars・3回目）
+  - 「Top Gear Magazine Subscription – 3 months for £6」（https://www.topgear.com/car-news/motorsport/caterham-has-signed-a-deal-its-academy-cars-use-engines-renault-geely-joint・3回目）
+- 売上構成：
+  - 「Caterham Cars Appoints Christian Gorton as Global Head of Sales」（https://caterhamcars.com/ja?view=article&id=40:news&catid=9・1回目）
+  - 「Founded by father-and-son duo Jim and Callum McDougall, Turn 7 has firmly established itself within the Caterham community as an independent pre-owned specialist and service centre. The Seven is deep-rooted within the McDougall family with Jim having helped establish the concept behind the Caterham Academy, and Callum working as a Sales Executive for Caterham in the original Town End showroom.」（https://caterhamcars.com/ja/news/caterham-expands-uk-retailer-network-with-yorkshire-based-caterham-turn-7・1回目）
+  - 「Alongside its well-established pre-owned operation, Caterham Turn 7’s North Yorkshire facility will now supply the full Seven range, accompanied by official parts, workshop servicing and aftersales support.」（https://caterhamcars.com/ja/news/caterham-expands-uk-retailer-network-with-yorkshire-based-caterham-turn-7・1回目）
+  - 「Christian Gorton, Global Head of Sales at Caterham Cars, commented:」（https://caterhamcars.com/ja/news/caterham-expands-uk-retailer-network-with-yorkshire-based-caterham-turn-7・1回目）
+  - 「Christian Gorton, Global Head of Sales, Caterham Cars, added: “Monterey Car Week brings together an exceptional mix of enthusiasts, collectors, dealers and motorsport specialists, making it an important week for Caterham in America.」（https://caterhamcars.com/ja/news/seven-miami-special-edition-meets-monterey・1回目）
+  - 「, which opens as part of the esteemed Leuba Collection. Renowned for their dedication to automotive excellence and heritage, the Leuba Collection is perfectly placed to introduce the lightweight sports car to a greater audience. Kevin Duffournet, Head of the Collection, and his team will ensure Swiss customers receive expert guidance through the Caterham range and dedicated aftersales support.」（https://caterhamcars.com/ja/news/caterham-expands-european-network-with-three-new-retailer-appointments・1回目）
+  - 「. Under the expert guidance of CEO Bernardo Bello, the new Catalan showroom will help continue growing the Sevens presence in Spain and provide the Pure. Simple. Fun. Experience to enthusiast, whilst serving existing owners through aftersales support.」（https://caterhamcars.com/ja/news/caterham-expands-european-network-with-three-new-retailer-appointments・1回目）
+  - 「Julien Paques, Managing Director of PJ Sportscars (Caterham Colmar), said: "We are particularly proud and thrilled to officially represent the Caterham brand in Eastern France, and to offer our customers a comprehensive experience, from vehicle sales to authorized after-sales service.」（https://caterhamcars.com/ja/news/caterham-expands-european-network-with-three-new-retailer-appointments・1回目）
+  - 「Salesforce」（https://www.cbinsights.com/company/caterham-cars/alternatives-competitors・3回目）
+  - 「sales@caterham.com」（https://www.motul.com/corporate/newsroom/presse-release/caterham-and-motul-renew-their-partnership-focused-on-performance・3回目）
+  - 「Caterham Cars: Revenue, Competitors, Alternatives」（https://growjo.com/company/Caterham_Cars・3回目）
+  - 「Revenue & Valuation」（https://growjo.com/company/Caterham_Cars・3回目）
+- 創業期と参入のしやすさ：
+  - 「Founded by father-and-son duo Jim and Callum McDougall, Turn 7 has firmly established itself within the Caterham community as an independent pre-owned specialist and service centre. The Seven is deep-rooted within the McDougall family with Jim having helped establish the concept behind the Caterham Academy, and Callum working as a Sales Executive for Caterham in the original Town End showroom.」（https://caterhamcars.com/ja/news/caterham-expands-uk-retailer-network-with-yorkshire-based-caterham-turn-7・1回目）
+  - 「The Caterham Academy Championship is officially sponsored by Caffeine & Machine, the renowned automotive lifestyle brand and cultural hub. As part of the partnership, we are excited to have Caffeine & Machine founder and director, Phil McGovern, joining us on the grid. You can follow Phil’s journey on the Caterham and Caffeine & Machine social channels, and discover more about Caffeine & Machine」（https://caterhamcars.com/ja/news/caterham-motorsport-united-kingdom-2026-sponsors・1回目）
+  - 「Caterham and Motul successfully launched their new partnership at the 2026 edition of Rétromobile in Paris, showcasing two Caterham Sevens, a 2005 K-Series and a 2025 Super Seven 2000, for visitors of the show to see on the Motul stand.」（https://caterhamcars.com/en/news/caterham-and-motul-renew-their-partnership-focused-on-performance・3回目）
+  - 「Geely Holding Group is an automotive group that operates in vehicle manufacturing and technology. The company produces various vehicles, including new energy vehicles, and participates in the development of vehicle networking and autonomous driving technologies. It serves the automotive market with a focus on sustainable development. It was founded in 1986 and is based in Hangzhou, China.」（https://www.cbinsights.com/company/caterham-cars/alternatives-competitors・3回目）
+  - 「Caterham and Motul successfully launched their new partnership at the 2026 edition of Rétromobile in Paris, showcasing two Caterham Sevens, a 2005 K-Series and a 2025 Super Seven 2000, for visitors of the show to see on the Motul stand.」（https://www.motul.com/corporate/newsroom/presse-release/caterham-and-motul-renew-their-partnership-focused-on-performance・3回目）
+  - 「Caterham (Caterham Cars Ltd) has produced lightweight, two-seater sports cars since 1973 when Graham Nearn acquired the tooling, designs and exclusive rights to the Seven from Lotus founder Colin Chapman.」（https://www.motul.com/corporate/newsroom/presse-release/caterham-and-motul-renew-their-partnership-focused-on-performance・3回目）
+  - 「Founded in 1853, Motul is a global company present in 160 countries. Over the years, the brand has built a solid reputation as a trusted partner to support the performance of leading manufacturers, top motorsport teams and major championships, such as the 24 Hours of Le Mans, the WEC, MotoGP, Dakar, Goodwood, or the UCI Mountain Bike World Series.」（https://www.motul.com/corporate/newsroom/presse-release/caterham-and-motul-renew-their-partnership-focused-on-performance・3回目）
+  - 「Revenue & Valuation」（https://growjo.com/company/Caterham_Cars・3回目）
+  - 「Total Funding」（https://growjo.com/company/Caterham_Cars・3回目）
+  - 「Estimated Revenue & Valuation」（https://growjo.com/company/Caterham_Cars・3回目）
+  - 「Employees.」（https://growjo.com/company/Caterham_Cars・3回目）
+  - 「Number of Employees」（https://growjo.com/company/Caterham_Cars・3回目）
+- 顧客名：
+  - 「Usually, we’d be banging on about how a 620R can hit 62 mph in just 2.7s, or how it’s faster around Knockhill than most McLarens – but that’s not why we’re here. No, this time it's all about noise, and LEGO CAT brings it by the bucket-load.」（https://caterhamcars.com/ja/news/620r-takes-on-top-gears-tunnel-run・1回目）
+  - 「Offering intoxicating performance, the track-only 420R race car features a naturally aspirated 2.0-litre Ford Duratec motorsport-tuned engine producing 180bhp, mated to a six-speed SADEV sequential gearbox and Nova Motorsport slick tyres, delivering exceptional levels of grip and driver engagement. Prices for the Seven 420R race car start at £53,990 in the UK or €59,995 in Europe.」（https://caterhamcars.com/ja/news/caterham-cars-makes-its-debut-on-iracing,-the-world%E2%80%99s-largest-sim-racing-platform・1回目）
+  - 「Based on the high-performance Seven R chassis, the track-only car features a naturally aspirated 2.0-litre Ford Duratec engine, delivering 210 bhp at 7,600 rpm for a power-to-weight ratio of 375 bhp-per-tonne. It’s mated to a five-speed manual gearbox, resulting in a 0-60 mph time of just 3.8 seconds and a top speed of 136 mph.」（https://caterhamcars.com/ja/news/seven-miami-special-edition-meets-monterey・1回目）
+  - 「Caterham Cars is pleased to announce a new strategic partnership with Würth UK, one of the UK's leading suppliers of assembly tools, fastening technology and workshop solutions. The collaboration marks an important step in further enhancing the efficiency, precision and quality of Caterham's manufacturing operations at its Dartford facility.」（https://caterhamcars.com/ja/news/caterham-cars-announce-strategic-partnership-with-w%C3%BCrth-uk-to-enhance-manufacturing-operations・1回目）
+  - 「, which opens as part of the esteemed Leuba Collection. Renowned for their dedication to automotive excellence and heritage, the Leuba Collection is perfectly placed to introduce the lightweight sports car to a greater audience. Kevin Duffournet, Head of the Collection, and his team will ensure Swiss customers receive expert guidance through the Caterham range and dedicated aftersales support.」（https://caterhamcars.com/ja/news/caterham-expands-european-network-with-three-new-retailer-appointments・1回目）
+  - 「Teamed with a naturally aspirated 2.0 litre Ford Duratec Engine, it delivers 168ps at 7,250rpm for a power-to-weight ratio of 321bhp/tonne. Paired with a five-speed gearbox, the Nürburgring Edition accelerates from 0-60mph in 4.8 seconds and tops out at a top speed of 209kph.」（https://caterhamcars.com/ja/news/100-years-of-the-ring-one-seven-caterham-unveils-the-nurburgring-limited-edition・1回目）
+  - 「This track-only Seven Miami Special Edition, features a naturally aspirated 2.0-litre Ford Duratec engine, which delivers 210 bhp at 7,600 rpm for a power-to-weight ratio of 375 bhp-per-tonne. Mated to a five-speed manual gearbox, it accelerates from 0-60 mph in just 3.8 seconds and reaches a top speed of 136 mph.」（https://caterhamcars.com/ja/news/caterham-takes-on-miami・1回目）
+  - 「The Miami race weekend is widely recognised for its vibrant energy, world-class entertainment and drawing a diverse audience of industry leaders, celebrities and motorsport enthusiasts alike. Caterham’s presence at such a prestigious international motorsport event, complements the brand's focus on USA market expansion and the recent appointment of Miami’s」（https://caterhamcars.com/ja/news/caterham-takes-on-miami・1回目）
+  - 「The new long-term agreement means that every new Caterham Seven built at the Caterham HQ in Dartford, UK will have their first fill of lubricants supplied by Motul – from the road-going 170 to every new race car across all five Caterham Motorsport UK Championships.」（https://caterhamcars.com/en/news/caterham-and-motul-renew-their-partnership-focused-on-performance・3回目）
+  - 「Honda of the UK Manufacturing」（https://www.cbinsights.com/company/caterham-cars/alternatives-competitors・3回目）
+  - 「Honda of the UK Manufacturing manufactures passenger vehicles. It assembles vehicles for domestic and international markets. It primarily serves automotive manufacturer…」（https://www.cbinsights.com/company/caterham-cars/alternatives-competitors・3回目）
+  - 「Caterham Cars vs. Honda of the UK Manufacturing」（https://www.cbinsights.com/company/caterham-cars/alternatives-competitors・3回目）
+- 検索結果の抜粋：
+  - 「Caterham and Motul renew their partnership focused on ... — Caterham and Motul renew their partnership focused on ... Caterham Cars https://caterhamcars.com > ... > News」（https://caterhamcars.com/en/news/caterham-and-motul-renew-their-partnership-focused-on-performance・3回目）
+  - 「Top Caterham Cars Alternatives, Competitors - CB Insights — Top Caterham Cars Alternatives, Competitors - CB Insights CB Insights https://www.cbinsights.com > company」（https://www.cbinsights.com/company/caterham-cars/alternatives-competitors・3回目）
+  - 「Caterham and Motul renew their partnership focused on ... — Caterham and Motul renew their partnership focused on ... MOTUL https://www.motul.com > presse-release」（https://www.motul.com/corporate/newsroom/presse-release/caterham-and-motul-renew-their-partnership-focused-on-performance・3回目）
+  - 「Caterham Group - Wikipedia — Caterham Group - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Cate...」（https://en.wikipedia.org/wiki/Caterham_Group・3回目）
+  - 「Caterham and Würth UK partner to enhance manufacturing ... — Caterham and Würth UK partner to enhance manufacturing ... Facebook https://www.facebook.com > wurthuk > posts > caterham-...」（https://www.facebook.com/wurthuk/posts/caterham-and-w%C3%BCrth-uk-partner-to-enhance-manufacturing-and-motorsport-operations/1451001037069164/・3回目）
+  - 「Caterham Cars - Overview, News & Similar companies — Caterham Cars - Overview, News & Similar companies ZoomInfo https://www.zoominfo.com > caterha...」（https://www.zoominfo.com/c/caterham-cars-ltd/16616401・3回目）
+  - 「Caterham Cars : Revenue , Competitors, Alternatives - Growjo — Caterham Cars : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > Caterham_Cars」（https://growjo.com/company/Caterham_Cars・3回目）
+  - 「Caterham bosses voice 'disappointment' at fourth loss in a row — Caterham bosses voice 'disappointment' at fourth loss in a row City AM https://www.cityam.com > caterham-b...」（https://www.cityam.com/caterham-bosses-voice-disappointment-at-fourth-loss-in-a-row/・3回目）
+  - 「Caterham Cars Group - Overview, News & Similar companies — Caterham Cars Group - Overview, News & Similar companies ZoomInfo https://www.zoominfo.com > caterha...」（https://www.zoominfo.com/c/caterham-cars-group-ltd/1156354713・3回目）
+  - 「Caterham Cars - 2026 Company Profile, Funding & Competitors — Caterham Cars - 2026 Company Profile, Funding & Competitors Tracxn https://tracxn.com > ... > Companies」（https://tracxn.com/d/companies/caterham-cars/__ReYYzxk-wChnArT--76AGsAAIz1iMysa0lkFO7-cvgU・3回目）
+  - 「USA Caterham Parts Store — Beachman Racing — USA Caterham Parts Store — Beachman Racing Beachman Racing http://www.beachmanracing.com > st...」（http://www.beachmanracing.com/store・3回目）
+  - 「PARTS - Rocky Mountain Caterham — PARTS - Rocky Mountain Caterham Rocky Mountain Caterham https://rockymountaincaterham.com > ...」（https://rockymountaincaterham.com/parts/・3回目）
+- 設立：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部18頁・検索6回）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部18頁・検索6回）
+- 他社向けサービス：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部18頁・検索6回）
 
 ## Czinger Vehicles
 - 公式URL：https://www.czinger.com（given）
@@ -994,6 +1118,122 @@
 - 設立：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部18頁・検索6回）
 - 売上高：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部18頁・検索6回）
 
+## Hennessey Performance
+- 公式URL：https://www.hennesseyperformance.com（given）
+- 従業員数：John Hennessey (CEO)（https://en.wikipedia.org/wiki/Hennessey_Performance_Engineering・3回目）
+- 他社向けサービス：
+  - 「Back in those days, no doubt it was setting a number and beating Bugatti. But it’s evolved since then. The F5 is going to be the fastest, but it's really about engineering excellence and giving an amazing car to our clients.」（https://www.topgear.com/car-news/big-reads/30-years-and-counting-big-interview-john-hennessey・3回目）
+  - 「The F5 will go super fast in a straight line. It will have an amazing top speed, but we want our clients to be able to jump in an F5 at some point in the near future and say it’s as fun on winding country lanes as it is going 250mph on the autobahn.」（https://www.topgear.com/car-news/big-reads/30-years-and-counting-big-interview-john-hennessey・3回目）
+  - 「: We are in the very initial stages of beginning our road testing and validation process. So that's wide ranging from acceleration to top speed to road course to road driving. And again, the overall goal is to give our clients an amazing car. John Heinricy on our team will ensure the performance, drivability and reliability will be everything our clients expect.」（https://www.topgear.com/car-news/big-reads/30-years-and-counting-big-interview-john-hennessey・3回目）
+- 部品・技術の供給：
+  - 「along with forged steel connecting rods (titanium rods were an extra $3,500) and forged aluminum pistons; the whole assembly was then balanced and blueprinted to bring the total power output to」（https://en.wikipedia.org/wiki/Hennessey_Performance_Engineering・3回目）
+  - 「General Dynamics Land Systems」（https://en.wikipedia.org/wiki/Hennessey_Performance_Engineering・3回目）
+  - 「Auto component」（https://en.wikipedia.org/wiki/Hennessey_Performance_Engineering・3回目）
+  - 「Battery Details」（https://www.metrofordofokc.com/hennessey-performance-parts.htm?srsltid=AYCX9vK01KFDjOG0xB4wZi_KfNRcdp2JzeTjppT6vXz9NRMp81sknyy3・3回目）
+  - 「Supercharger systems」（https://www.metrofordofokc.com/hennessey-performance-parts.htm?srsltid=AYCX9vK01KFDjOG0xB4wZi_KfNRcdp2JzeTjppT6vXz9NRMp81sknyy3・3回目）
+  - 「Exhaust systems」（https://www.metrofordofokc.com/hennessey-performance-parts.htm?srsltid=AYCX9vK01KFDjOG0xB4wZi_KfNRcdp2JzeTjppT6vXz9NRMp81sknyy3・3回目）
+  - 「Defense Systems | Hennessey Special Vehicles」（https://www.hennesseyspecialvehicles.com/defense/・3回目）
+  - 「DEFENSE SYSTEMS」（https://www.hennesseyspecialvehicles.com/defense/・3回目）
+  - 「Welcome to Hennessey Defense Systems (HDS), where cutting-edge innovation meets unparalleled defense capabilities. Our latest creation, the Hennessey WARHAWK, is designed to redefine the standards of military transportation and operational efficiency.」（https://www.hennesseyspecialvehicles.com/defense/・3回目）
+  - 「The WARHAWK’s modular design allows for extensive customization to suit various mission requirements. Whether you need to transport supplies, weaponry, or emergency medical equipment, the WARHAWK can be tailored to your specific needs. Key features include:」（https://www.hennesseyspecialvehicles.com/defense/・3回目）
+  - 「Mounting points for weapon systems, reconnaissance apparatus, or medical equipment」（https://www.hennesseyspecialvehicles.com/defense/・3回目）
+  - 「BBC Studios is a commercial company that is owned by the BBC (and just the BBC). No money from the licence fee was used to create this website. The profits we make from it go back to BBC programme-makers to help fund great new BBC programmes. BBC is a trademark of the British Broadcasting Corporation. Logos © 1996.」（https://www.topgear.com/car-news/big-reads/30-years-and-counting-big-interview-john-hennessey・3回目）
+- ライセンス・ブランド：
+  - 「(IP address: 134.33.70.23)」（https://www.hennesseyperformance.com/・1回目）
+  - 「Hennessey Performance Engineering - Wikipedia」（https://en.wikipedia.org/wiki/Hennessey_Performance_Engineering・3回目）
+  - 「About Wikipedia」（https://en.wikipedia.org/wiki/Hennessey_Performance_Engineering・3回目）
+  - 「From Wikipedia, the free encyclopedia」（https://en.wikipedia.org/wiki/Hennessey_Performance_Engineering・3回目）
+  - 「from several brands including」（https://en.wikipedia.org/wiki/Hennessey_Performance_Engineering・3回目）
+  - 「Dodge Viper GTS」（https://en.wikipedia.org/wiki/Hennessey_Performance_Engineering・3回目）
+  - 「race spec braking system and a Penske adjustable suspension system with 30 variable damping settings were available as an option. The total cost of the package stood at US$108,500 excluding the price of a stock Viper GTS.」（https://en.wikipedia.org/wiki/Hennessey_Performance_Engineering・3回目）
+  - 「Hennessey Viper Venom 1000 Twin Turbo」（https://en.wikipedia.org/wiki/Hennessey_Performance_Engineering・3回目）
+  - 「and brands」（https://en.wikipedia.org/wiki/Hennessey_Performance_Engineering・3回目）
+  - 「Scripps-Booth」（https://en.wikipedia.org/wiki/Hennessey_Performance_Engineering・3回目）
+  - 「Oliver Farm Equipment」（https://en.wikipedia.org/wiki/Hennessey_Performance_Engineering・3回目）
+  - 「Mississippi」（https://en.wikipedia.org/wiki/Hennessey_Performance_Engineering・3回目）
+- 車以外の顧客・産業：
+  - 「) is an American automotive tuning company and sports car manufacturer.」（https://en.wikipedia.org/wiki/Hennessey_Performance_Engineering・3回目）
+  - 「sports cars」（https://en.wikipedia.org/wiki/Hennessey_Performance_Engineering・3回目）
+  - 「sport utility vehicles」（https://en.wikipedia.org/wiki/Hennessey_Performance_Engineering・3回目）
+  - 「In 2008, Hennessey opened Tuner School, a private institution dedicated to train high performance vehicle tuner technicians over the course of 14 weeks, at the Lonestar Motorsports Park Complex adjacent to the Hennessey Main Headquarters.」（https://en.wikipedia.org/wiki/Hennessey_Performance_Engineering・3回目）
+  - 「The Hennessey Blackbird, the successor to the Hennessey Venom F5, was announced on August 3, 2026, with design cues that parallel with the aerospace elements found on the」（https://en.wikipedia.org/wiki/Hennessey_Performance_Engineering・3回目）
+  - 「Pilot Sport Cup 2 tires at the cost of US$6,995. The upgraded engine with the standard package is rated at」（https://en.wikipedia.org/wiki/Hennessey_Performance_Engineering・3回目）
+  - 「sports car line-up. The division is tasked to learn from its experiences with the Venom GT and apply it to the newest variation, the」（https://en.wikipedia.org/wiki/Hennessey_Performance_Engineering・3回目）
+  - 「Transportation in the United States」（https://en.wikipedia.org/wiki/Hennessey_Performance_Engineering・3回目）
+  - 「United Defense」（https://en.wikipedia.org/wiki/Hennessey_Performance_Engineering・3回目）
+  - 「Automotive motorsports and performance companies」（https://en.wikipedia.org/wiki/Hennessey_Performance_Engineering・3回目）
+  - 「Defense Systems | Hennessey Special Vehicles」（https://www.hennesseyspecialvehicles.com/defense/・3回目）
+  - 「DEFENSE SYSTEMS」（https://www.hennesseyspecialvehicles.com/defense/・3回目）
+- レース・ワンメイク：
+  - 「Cadillac V series」（https://en.wikipedia.org/wiki/Hennessey_Performance_Engineering・3回目）
+  - 「It’s a very tough business to build one-off race cars with crazy horsepower. You might build one, but you don't know when you'll build the next one. That’s what led us to modifying Ford Raptors. In the last five years we've modified over 2000 Gen 2 Raptors.」（https://www.topgear.com/car-news/big-reads/30-years-and-counting-big-interview-john-hennessey・3回目）
+  - 「TG: What do you think is the Hennessey secret formula? What do you do that others don't if you had to encapsulate it in a sentence?」（https://www.topgear.com/car-news/big-reads/30-years-and-counting-big-interview-john-hennessey・3回目）
+  - 「Formula One」（https://www.topgear.com/car-news/big-reads/30-years-and-counting-big-interview-john-hennessey・3回目）
+  - 「Grande Kimi! Antonelli is Formula 1’s youngest EVER champion」（https://www.topgear.com/car-news/big-reads/30-years-and-counting-big-interview-john-hennessey・3回目）
+- お金の形：
+  - 「's estimated annual revenue is currently」（https://growjo.com/company/Hennessey_Performance・3回目）
+  - 「“Wounded Warrior Project does invaluable work, making tangible impacts on the lives of injured veterans and assisting the families of fallen heroes. Bring a Trailer is honored and humbled to partner with Hennessey and Pennzoil in supporting Wounded Warrior Project by donating 100% of charity auction proceeds and buyer’s fees to the organization.”」（https://www.hennesseyspecialvehicles.com/news/hennessey-partners-with-bring-a-trailer-pennzoil-for-once-in-a-lifetime-charity-auction-in-support-of-wounded-warrior-project/・3回目）
+  - 「Top Gear Magazine Subscription – 3 months for £6」（https://www.topgear.com/car-news/big-reads/30-years-and-counting-big-interview-john-hennessey・3回目）
+  - 「: I've always been competitive – there was an older guy in high school with a 70 1/2 Z28 Camaro that had a built motor in it and I raced him one time. I thought my car was fast and he just kicked my ass. That started a recurring theme over the last 30 years. As I tell my kids, I like to win, but I really hate to lose.」（https://www.topgear.com/car-news/big-reads/30-years-and-counting-big-interview-john-hennessey・3回目）
+  - 「: Yeah. I think I know everybody's name out there. Maybe not one or two of the newer guys, but it's still a family business. Early on my wife worked with me, both in the same office all day long, that doesn't work. So now the business is 50,000 square feet and it's spread out enough that we’re not on top of each other. We have different areas and different departments. That works pretty well.」（https://www.topgear.com/car-news/big-reads/30-years-and-counting-big-interview-john-hennessey・3回目）
+  - 「: Yeah, it’s an all new production facility for the F5 and gives us a total of 51,000 square feet. We’ll build all 24 cars in that facility… then, well, then we have some more exciting plans!」（https://www.topgear.com/car-news/big-reads/30-years-and-counting-big-interview-john-hennessey・3回目）
+  - 「When we feel like we're in a position to set a record, we'll do it in two directions. We’ll bring in the Vbox guys as an independent verification. Then we'll have witnesses there to support that. That's exactly how we did it when we ran the Venom GT back in 2014. We couldn't run two directions back then because NASA was testing something at the end of one of the runways, we could only run one way.」（https://www.topgear.com/car-news/big-reads/30-years-and-counting-big-interview-john-hennessey・3回目）
+  - 「BBC Studios is a commercial company that is owned by the BBC (and just the BBC). No money from the licence fee was used to create this website. The profits we make from it go back to BBC programme-makers to help fund great new BBC programmes. BBC is a trademark of the British Broadcasting Corporation. Logos © 1996.」（https://www.topgear.com/car-news/big-reads/30-years-and-counting-big-interview-john-hennessey・3回目）
+- 売上構成：
+  - 「Divisions」（https://en.wikipedia.org/wiki/Hennessey_Performance_Engineering・3回目）
+  - 「Hennessey established the Hennessey Special Vehicles division in 2017, in which it builds the」（https://en.wikipedia.org/wiki/Hennessey_Performance_Engineering・3回目）
+  - 「sports car line-up. The division is tasked to learn from its experiences with the Venom GT and apply it to the newest variation, the」（https://en.wikipedia.org/wiki/Hennessey_Performance_Engineering・3回目）
+  - 「Hennessey Performance: Revenue, Competitors, Alternatives」（https://growjo.com/company/Hennessey_Performance・3回目）
+  - 「Revenue & Valuation」（https://growjo.com/company/Hennessey_Performance・3回目）
+  - 「Revenue and Competitors」（https://growjo.com/company/Hennessey_Performance・3回目）
+  - 「Estimated Revenue & Valuation」（https://growjo.com/company/Hennessey_Performance・3回目）
+  - 「's estimated annual revenue is currently」（https://growjo.com/company/Hennessey_Performance・3回目）
+  - 「's estimated revenue per employee is $」（https://growjo.com/company/Hennessey_Performance・3回目）
+  - 「Revenue」（https://growjo.com/company/Hennessey_Performance・3回目）
+  - 「Revenue (est)」（https://growjo.com/company/Hennessey_Performance・3回目）
+  - 「Employee Growth %」（https://growjo.com/company/Hennessey_Performance・3回目）
+- 創業期と参入のしやすさ：
+  - 「Founded」（https://en.wikipedia.org/wiki/Hennessey_Performance_Engineering・3回目）
+  - 「Founder」（https://en.wikipedia.org/wiki/Hennessey_Performance_Engineering・3回目）
+  - 「"Ex-Employees Say Hennessey Is A Bigger Mess Than You Ever Imagined"」（https://en.wikipedia.org/wiki/Hennessey_Performance_Engineering・3回目）
+  - 「Revenue & Valuation」（https://growjo.com/company/Hennessey_Performance・3回目）
+  - 「Total Funding」（https://growjo.com/company/Hennessey_Performance・3回目）
+  - 「Estimated Revenue & Valuation」（https://growjo.com/company/Hennessey_Performance・3回目）
+  - 「Employees.」（https://growjo.com/company/Hennessey_Performance・3回目）
+  - 「Number of Employees」（https://growjo.com/company/Hennessey_Performance・3回目）
+  - 「Valuation」（https://growjo.com/company/Hennessey_Performance・3回目）
+  - 「John Hennessey, company Founder and CEO:」（https://www.hennesseyspecialvehicles.com/news/hennessey-partners-with-bring-a-trailer-pennzoil-for-once-in-a-lifetime-charity-auction-in-support-of-wounded-warrior-project/・3回目）
+  - 「Randy Nonnenberg, Co-Founder and President, Bring a Trailer:」（https://www.hennesseyspecialvehicles.com/news/hennessey-partners-with-bring-a-trailer-pennzoil-for-once-in-a-lifetime-charity-auction-in-support-of-wounded-warrior-project/・3回目）
+  - 「John Hennessey, company Founder, and CEO」（https://www.hennesseymedia.com/press-releases/hennessey-partners-with-bring-a-trailer-pennzoil-for-once-in-a-lifetime-charity-auction-in-support-of-wounded-warrior-project/・3回目）
+- 顧客名：
+  - 「Ford Raptor」（https://en.wikipedia.org/wiki/Hennessey_Performance_Engineering・3回目）
+  - 「Ford Mustang」（https://en.wikipedia.org/wiki/Hennessey_Performance_Engineering・3回目）
+  - 「Ford SVT Raptor」（https://en.wikipedia.org/wiki/Hennessey_Performance_Engineering・3回目）
+  - 「. The SUV is limited to 30 produced a year, however since its introduction over 400 versions have been made. It uses the same engine Ford uses for the pickup truck version. The second generation version is a Luxury off-road heavy-duty SUV modified from the」（https://en.wikipedia.org/wiki/Hennessey_Performance_Engineering・3回目）
+  - 「2015 Ford Super Duty」（https://en.wikipedia.org/wiki/Hennessey_Performance_Engineering・3回目）
+  - 「Ford Excursion」（https://en.wikipedia.org/wiki/Hennessey_Performance_Engineering・3回目）
+  - 「As of 2015, the first generation model has been discontinued. In 2018 the Hennessey Ford VelociRaptor 6×6 option was made available, with a 30-inch extended frame and extra axle for a total of six driven wheels.」（https://en.wikipedia.org/wiki/Hennessey_Performance_Engineering・3回目）
+  - 「Ford Bronco」（https://en.wikipedia.org/wiki/Hennessey_Performance_Engineering・3回目）
+  - 「"Hennessey Transforms Ford F-150 SVT Raptor Into VelociRaptor"」（https://en.wikipedia.org/wiki/Hennessey_Performance_Engineering・3回目）
+  - 「"Hennessey Ford VelociRaptor 6×6"」（https://en.wikipedia.org/wiki/Hennessey_Performance_Engineering・3回目）
+  - 「"The Best Ford Raptor R Upgrades - Hennessey Performance"」（https://en.wikipedia.org/wiki/Hennessey_Performance_Engineering・3回目）
+  - 「"The Best Ford Bronco Raptor Upgrade - Hennessey Performance"」（https://en.wikipedia.org/wiki/Hennessey_Performance_Engineering・3回目）
+- 検索結果の抜粋：
+  - 「Industry -Leading Performance - Hennessey Performance — Industry -Leading Performance - Hennessey Performance Hennessey Performance https://www.hennesseyperformance.com > ...」（https://www.hennesseyperformance.com/about/?srsltid=AYCX9vIV3u_gjc7kqnH9xH3cepJVigZJcq_Jo_dbe9MDX6hOnv4bAgES・3回目）
+  - 「Hennessey Performance Engineering - Wikipedia — Hennessey Performance Engineering - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Hen...」（https://en.wikipedia.org/wiki/Hennessey_Performance_Engineering・3回目）
+  - 「Hennessey Performance Competitors and Alternatives - Owler — Hennessey Performance Competitors and Alternatives - Owler Owler https://www.owler.com > competitors」（https://www.owler.com/company/hennessey-middleeast/competitors・3回目）
+  - 「Hennessey Performance | LinkedIn — Hennessey Performance | LinkedIn LinkedIn https://fr.linkedin.com > company > h...」（https://fr.linkedin.com/company/hennessey-performance・3回目）
+  - 「Hennessey Performance Engineering - Autopedia | Fandom — Hennessey Performance Engineering - Autopedia | Fandom Fandom https://automobile.fandom.com > wiki」（https://automobile.fandom.com/wiki/Hennessey_Performance_Engineering・3回目）
+  - 「Hennessey Performance - Overview, News & Similar companies — Hennessey Performance - Overview, News & Similar companies ZoomInfo https://www.zoominfo.com > henness...」（https://www.zoominfo.com/c/hennessey-performance/46910723・3回目）
+  - 「John Hennessey Wins Prestigious Houston Entrepreneur Award — John Hennessey Wins Prestigious Houston Entrepreneur Award Hennessey Performance https://www.hennesseyperformance.com > ...」（https://www.hennesseyperformance.com/news/john-hennessey-receives-entrepreneur-of-the-year-award-from-houston-entrepreneurs-organization/?srsltid=AYCX9vIEVDgYrn9kshRkn71aMz9McHvDz8Jq8uBWToYgMMuUN4Mbqguq・3回目）
+  - 「Hennessey Performance : Revenue , Competitors, Alternatives — Hennessey Performance : Revenue , Competitors, Alternatives Growjo https://growjo.com > company > Hen...」（https://growjo.com/company/Hennessey_Performance・3回目）
+  - 「Hennessey Performance breaks ground on $15M facility in ... — Hennessey Performance breaks ground on $15M facility in ... The Business Journals https://www.bizjournals.com > news」（https://www.bizjournals.com/houston/news/2025/09/10/hennessey-venom-f5-sealy-manufacturing-expansion.html・3回目）
+  - 「Hennessey Performance : Employee Directory | ZoomInfo.com — Hennessey Performance : Employee Directory | ZoomInfo.com ZoomInfo https://www.zoominfo.com > pic > he...」（https://www.zoominfo.com/pic/hennessey-performance/46910723・3回目）
+  - 「Hennessey Performance Vehicles | Ford OEM Parts Outlet — Hennessey Performance Vehicles | Ford OEM Parts Outlet OEM Ford Parts Outlet https://www.oemfordpartsoutlet.com > ...」（https://www.oemfordpartsoutlet.com/hennessey-performance-vehicles?srsltid=AYCX9vLhk1U3qNKlAGIla1HkviRRPdJPMJ9OQSHihfGDn8VM8ko3m2BM・3回目）
+  - 「Hennessey Performance | Official Website — Hennessey Performance | Official Website Hennessey Performance https://www.hennesseyperformance.com」（https://www.hennesseyperformance.com/?srsltid=AYCX9vJMwiOsF6Wz8Emt-QG3lJF_hskH5GaWH8nbSwNCgx4ulgw4EQ-i・3回目）
+- 設立：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部13頁・検索6回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部13頁・検索6回）
+
 ## Hexcel
 - 公式URL：https://www.hexcel.com（given）
 - 従業員数：Tom Gentile (Chairman and CEO)（https://en.wikipedia.org/wiki/Hexcel・3回目）
@@ -1506,6 +1746,118 @@
   - 「Home - Ligier Automotive — Home - Ligier Automotive Ligier Automotive https://ligierautomotive.com > ...」（https://ligierautomotive.com/en/・3回目）
 - 設立：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索6回）
 - 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索6回）
+
+## Litespeed Titanium
+- 公式URL：https://www.litespeed.com（given）
+- 従業員数：Christopher Pascarella (President & CEO)（https://en.wikipedia.org/wiki/Litespeed・3回目）
+- 他社向けサービス：
+  - 「have contracted Litespeed to construct titanium frames in their own lines.」（https://en.wikipedia.org/wiki/Litespeed・3回目）
+  - 「Litespeed has been a contractor and consultant to」（https://en.wikipedia.org/wiki/Litespeed・3回目）
+  - 「Did you know? Litespeed builds more than just titanium bicycle frames. Their tubeset fabrication abilities landed them the contract to produce the tubeset, chassis and suspension systems for the Mars Rover!」（https://www.youtube.com/watch?v=pG6IxbMd_hQ・3回目）
+- 部品・技術の供給：
+  - 「We make the Litespeed that matches your personal style and needs. Choose from a wide range of components, wheelsets, headsets to design your perfect Litespeed.」（https://litespeed.com/・1回目）
+  - 「Litespeed titanium bikes have won World Championships, Olympic Gold, and Tour de France stages. NASA even relied on our team to design and build titanium components for the Curiosity Mars Rover. No bike brand has more experience pushing the limits of titanium manufacturing.」（https://litespeed.com/・1回目）
+  - 「Litespeed bikes have won World Championships and Tour de France stages, and NASA even relied on our team to design and build titanium components for the Curiosity Mars Rover. No bike brand has more experience pushing the limits of titanium manufacturing.」（https://litespeed.com/pages/our-story・1回目）
+  - 「How can I specify component length, width, or gearing on my new bike?」（https://litespeed.com/pages/helpcenter・1回目）
+  - 「We make the Litespeed that matches your personal style and needs. Choose from a wide range of components, wheelsets, headsets to design your perfect Litespeed.」（https://litespeed.com/?srsltid=AYCX9vKEPa-IcrNKcOmd6ckWfGK2wOaGXtCdYkVcbbU4HJf03C19Tf6D・3回目）
+  - 「Litespeed titanium bikes have won World Championships, Olympic Gold, and Tour de France stages. NASA even relied on our team to design and build titanium components for the Curiosity Mars Rover. No bike brand has more experience pushing the limits of titanium manufacturing.」（https://litespeed.com/?srsltid=AYCX9vKEPa-IcrNKcOmd6ckWfGK2wOaGXtCdYkVcbbU4HJf03C19Tf6D・3回目）
+  - 「Components」（https://en.wikipedia.org/wiki/Litespeed・3回目）
+  - 「Despite raw materials and components being "globally sourced," Litespeed has always taken pride in hand-building all of our frames here in America. Engineering and design, tube forming, welding, finishing, and final assembly all happen under one roof.」（https://litespeed.com/blogs/litespeed-stories/what-made-in-america-actually-looks-like?srsltid=AYCX9vLzRJ9UANc0H77-WGKmUHtlEZ7O5R3a_AJ1P5Uhn4B2uJ6Dh1cU・3回目）
+  - 「We also work hard to form partnerships with other Made in America brands like Chris King and Industry Nine to give customers the option to equip bikes with American components. When you」（https://litespeed.com/blogs/litespeed-stories/what-made-in-america-actually-looks-like?srsltid=AYCX9vLzRJ9UANc0H77-WGKmUHtlEZ7O5R3a_AJ1P5Uhn4B2uJ6Dh1cU・3回目）
+  - 「Did you know? Litespeed builds more than just titanium bicycle frames. Their tubeset fabrication abilities landed them the contract to produce the tubeset, chassis and suspension systems for the Mars Rover!」（https://www.youtube.com/watch?v=pG6IxbMd_hQ・3回目）
+  - 「Despite raw materials and components being "globally sourced," Litespeed has always taken pride in hand-building all of our frames here in America. Engineering and design, tube forming, welding, finishing, and final assembly all happen under one roof.」（https://litespeed.com/blogs/litespeed-stories/what-made-in-america-actually-looks-like?srsltid=AYCX9vKi4k5DAqvW0H4_FZPlTxjtwokktU3Fb4i8C0t-JyNCAZunEeAT・3回目）
+  - 「We also work hard to form partnerships with other Made in America brands like Chris King and Industry Nine to give customers the option to equip bikes with American components. When you」（https://litespeed.com/blogs/litespeed-stories/what-made-in-america-actually-looks-like?srsltid=AYCX9vKi4k5DAqvW0H4_FZPlTxjtwokktU3Fb4i8C0t-JyNCAZunEeAT・3回目）
+- ライセンス・ブランド：
+  - 「Skip to content」（https://litespeed.com/・1回目）
+  - 「Shipping」（https://litespeed.com/・1回目）
+  - 「Philippines」（https://litespeed.com/・1回目）
+  - 「São Tomé & Príncipe」（https://litespeed.com/・1回目）
+  - 「When the Trail Demands More - Explore the brand new Pisgah」（https://litespeed.com/・1回目）
+  - 「WE SHIP DIRECT-TO-YOU」（https://litespeed.com/・1回目）
+  - 「WORLD CHAMPIONSHIPS & MARS ROVERS」（https://litespeed.com/・1回目）
+  - 「Litespeed titanium bikes have won World Championships, Olympic Gold, and Tour de France stages. NASA even relied on our team to design and build titanium components for the Curiosity Mars Rover. No bike brand has more experience pushing the limits of titanium manufacturing.」（https://litespeed.com/・1回目）
+  - 「Ships in 3 to 4 Weeks」（https://litespeed.com/・1回目）
+  - 「A titanium bike is a big purchase, but we want to make the choice easy. We provide a level of experience, technology, customization, and craftsmanship that few can match.」（https://litespeed.com/・1回目）
+  - 「Orders and Shipping」（https://litespeed.com/・1回目）
+  - 「Skip to content」（https://litespeed.com/pages/our-story・1回目）
+- 車以外の顧客・産業：
+  - 「Litespeed Titanium Bikes | Litespeed Bicycles」（https://litespeed.com/・1回目）
+  - 「Titanium Trail Hardtail」（https://litespeed.com/・1回目）
+  - 「When the Trail Demands More - Explore the brand new Pisgah」（https://litespeed.com/・1回目）
+  - 「Copyright © 2026 Litespeed Bicycles.」（https://litespeed.com/・1回目）
+  - 「– Litespeed Bicycles」（https://litespeed.com/pages/our-story・1回目）
+  - 「Titanium Trail Hardtail」（https://litespeed.com/pages/our-story・1回目）
+  - 「When the Trail Demands More - Explore the brand new Pisgah」（https://litespeed.com/pages/our-story・1回目）
+  - 「Copyright © 2026 Litespeed Bicycles.」（https://litespeed.com/pages/our-story・1回目）
+  - 「– Litespeed Bicycles」（https://litespeed.com/pages/helpcenter・1回目）
+  - 「Titanium Trail Hardtail」（https://litespeed.com/pages/helpcenter・1回目）
+  - 「When the Trail Demands More - Explore the brand new Pisgah」（https://litespeed.com/pages/helpcenter・1回目）
+  - 「Copyright © 2026 Litespeed Bicycles.」（https://litespeed.com/pages/helpcenter・1回目）
+- レース・ワンメイク：
+  - 「WORLD CHAMPIONSHIPS & MARS ROVERS」（https://litespeed.com/・1回目）
+  - 「Litespeed titanium bikes have won World Championships, Olympic Gold, and Tour de France stages. NASA even relied on our team to design and build titanium components for the Curiosity Mars Rover. No bike brand has more experience pushing the limits of titanium manufacturing.」（https://litespeed.com/・1回目）
+  - 「WORLD CHAMPIONSHIPS & MARS ROVERS」（https://litespeed.com/pages/our-story・1回目）
+  - 「Litespeed bikes have won World Championships and Tour de France stages, and NASA even relied on our team to design and build titanium components for the Curiosity Mars Rover. No bike brand has more experience pushing the limits of titanium manufacturing.」（https://litespeed.com/pages/our-story・1回目）
+  - 「WORLD CHAMPIONSHIPS & MARS ROVERS」（https://litespeed.com/?srsltid=AYCX9vKEPa-IcrNKcOmd6ckWfGK2wOaGXtCdYkVcbbU4HJf03C19Tf6D・3回目）
+  - 「Litespeed titanium bikes have won World Championships, Olympic Gold, and Tour de France stages. NASA even relied on our team to design and build titanium components for the Curiosity Mars Rover. No bike brand has more experience pushing the limits of titanium manufacturing.」（https://litespeed.com/?srsltid=AYCX9vKEPa-IcrNKcOmd6ckWfGK2wOaGXtCdYkVcbbU4HJf03C19Tf6D・3回目）
+  - 「T-Series」（https://en.wikipedia.org/wiki/Litespeed・3回目）
+  - 「: The titanium T-Series includes award-winning T1 (formerly the Archon), the T3, T5, and the T7 which was introduced in 2013. The T1sl replaces the T1 in 2016. It is 15% lighter than the 2015 T1.」（https://en.wikipedia.org/wiki/Litespeed・3回目）
+  - 「L-Series」（https://en.wikipedia.org/wiki/Litespeed・3回目）
+  - 「: The carbon L-Series was introduced in 2012. Litespeed has four L-Series bikes: L1R, L1 (SRAM Red), Li2, and L3 (Ultegra). The L-Series is an all-around road racing bike, with an asymmetrical frame, and UCI-approved.」（https://en.wikipedia.org/wiki/Litespeed・3回目）
+  - 「C-Series」（https://en.wikipedia.org/wiki/Litespeed・3回目）
+  - 「: The carbon C-Series was introduced in 2008. Litespeed has four C-Series bikes: C1R, C1 (Dura-Ace), Ci2, and C3 (Ultegra). The C-Series is an aerodynamic road bike series.」（https://en.wikipedia.org/wiki/Litespeed・3回目）
+- お金の形：
+  - 「Are there import taxes, fees, duties, and VAT for international shipments?」（https://litespeed.com/pages/helpcenter・1回目）
+  - 「Thanks for your feedback!」（https://litespeed.com/pages/help-article/crash-replacement-repair-services・1回目）
+  - 「Thanks for your feedback!」（https://litespeed.com/pages/help-article/register-your-litespeed・1回目）
+  - 「Thanks for your feedback!」（https://litespeed.com/pages/help-article/submitting-a-warranty-claim・1回目）
+  - 「: Named after the Citico Creek Wilderness in Southeastern Tennessee, the pro-grade, Archon-inspired Citico is the first MTB frame to use a T1 engineered 6Al/4V, 6-sided and flared top tube and an oversized bi-axially ovalized down tube to maximize steering feedback, accuracy, and front end stiffness. Compatible with both 26" and 650b wheels.」（https://en.wikipedia.org/wiki/Litespeed・3回目）
+  - 「The Tennessee-built bike offers Ti's legendary ride: The frame feels marvelously supple without being noodley soft, and its second to none in both weight and durability.」（https://en.wikipedia.org/wiki/Litespeed・3回目）
+  - 「This redesigned ride offers versatility with a road-bike feel」（https://en.wikipedia.org/wiki/Litespeed・3回目）
+  - 「Calfee」（https://en.wikipedia.org/wiki/Litespeed・3回目）
+  - 「🍂 November Morning Bossa Nova Jazz - Warm Autumn Coffee Music for Focus and Study」（https://www.youtube.com/watch?v=pG6IxbMd_hQ・3回目）
+- 売上構成：
+  - 「See all Sales →」（https://litespeed.com/・1回目）
+  - 「Save up to 30% when you pay with your FSA/HSA - Learn More」（https://litespeed.com/・1回目）
+  - 「AS LOW AS 0% APR OVER 12 MONTHS*」（https://litespeed.com/・1回目）
+  - 「See all Sales →」（https://litespeed.com/pages/our-story・1回目）
+  - 「Save up to 30% when you pay with your FSA/HSA - Learn More」（https://litespeed.com/pages/our-story・1回目）
+  - 「See all Sales →」（https://litespeed.com/pages/helpcenter・1回目）
+  - 「Save up to 30% when you pay with your FSA/HSA - Learn More」（https://litespeed.com/pages/helpcenter・1回目）
+  - 「See all Sales →」（https://litespeed.com/pages/help/warranty-services・1回目）
+  - 「Save up to 30% when you pay with your FSA/HSA - Learn More」（https://litespeed.com/pages/help/warranty-services・1回目）
+  - 「See all Sales →」（https://litespeed.com/pages/help-article/crash-replacement-repair-services・1回目）
+  - 「Save up to 30% when you pay with your FSA/HSA - Learn More」（https://litespeed.com/pages/help-article/crash-replacement-repair-services・1回目）
+  - 「See all Sales →」（https://litespeed.com/pages/help-article/register-your-litespeed・1回目）
+- 創業期と参入のしやすさ：
+  - 「Founded」（https://en.wikipedia.org/wiki/Litespeed・3回目）
+  - 「: The carbon L-Series was introduced in 2012. Litespeed has four L-Series bikes: L1R, L1 (SRAM Red), Li2, and L3 (Ultegra). The L-Series is an all-around road racing bike, with an asymmetrical frame, and UCI-approved.」（https://en.wikipedia.org/wiki/Litespeed・3回目）
+  - 「: The carbon C-Series was introduced in 2008. Litespeed has four C-Series bikes: C1R, C1 (Dura-Ace), Ci2, and C3 (Ultegra). The C-Series is an aerodynamic road bike series.」（https://en.wikipedia.org/wiki/Litespeed・3回目）
+  - 「: Litespeed has two M-Series bikes: M1 and M3. The M-Series are built to exceed the demands of training and racing, day in and day out, with design features that are unheard-of at this price point.」（https://en.wikipedia.org/wiki/Litespeed・3回目）
+  - 「," a channel run by Nicholas Carlson, a Pulitzer Prize-winner, former Editor-in-Chief of Business Insider, and founder of Dynamo, a new」（https://litespeed.com/blogs/litespeed-stories/what-made-in-america-actually-looks-like?srsltid=AYCX9vLzRJ9UANc0H77-WGKmUHtlEZ7O5R3a_AJ1P5Uhn4B2uJ6Dh1cU・3回目）
+  - 「," a channel run by Nicholas Carlson, a Pulitzer Prize-winner, former Editor-in-Chief of Business Insider, and founder of Dynamo, a new」（https://litespeed.com/blogs/litespeed-stories/what-made-in-america-actually-looks-like?srsltid=AYCX9vKi4k5DAqvW0H4_FZPlTxjtwokktU3Fb4i8C0t-JyNCAZunEeAT・3回目）
+  - 「“We are very excited about partnering with a growing cycling series like the GFNS,” said Peter Hurley, president and CEO of ABG. “With the Series focusing on both competitive and recreational experiences, we can showcase the Litespeed T5 capabilities and engage with a wide range of riders. And, as an additional bonus, our own employees will be able to join some of the rides.”」（https://www.granfondonationalseries.com/blog/2018/3/20/litespeed-becomes-official-bike-sponsor-of-the-gran-fondo-national-series・3回目）
+- 顧客名：
+  - 「Saudi Arabia」（https://litespeed.com/・1回目）
+  - 「Slovakia」（https://litespeed.com/・1回目）
+  - 「Litespeed titanium bikes have won World Championships, Olympic Gold, and Tour de France stages. NASA even relied on our team to design and build titanium components for the Curiosity Mars Rover. No bike brand has more experience pushing the limits of titanium manufacturing.」（https://litespeed.com/・1回目）
+  - 「Saudi Arabia」（https://litespeed.com/pages/our-story・1回目）
+  - 「Slovakia」（https://litespeed.com/pages/our-story・1回目）
+  - 「Litespeed bikes have won World Championships and Tour de France stages, and NASA even relied on our team to design and build titanium components for the Curiosity Mars Rover. No bike brand has more experience pushing the limits of titanium manufacturing.」（https://litespeed.com/pages/our-story・1回目）
+  - 「Saudi Arabia」（https://litespeed.com/pages/helpcenter・1回目）
+  - 「Slovakia」（https://litespeed.com/pages/helpcenter・1回目）
+  - 「Saudi Arabia」（https://litespeed.com/pages/help/warranty-services・1回目）
+  - 「Slovakia」（https://litespeed.com/pages/help/warranty-services・1回目）
+  - 「Saudi Arabia」（https://litespeed.com/pages/help-article/crash-replacement-repair-services・1回目）
+  - 「Slovakia」（https://litespeed.com/pages/help-article/crash-replacement-repair-services・1回目）
+- 検索結果の抜粋：
+  - 「Litespeed Bicycles: Litespeed Titanium Bikes — Litespeed Bicycles: Litespeed Titanium Bikes Litespeed Bicycles https://litespeed.com」（https://litespeed.com/?srsltid=AYCX9vKEPa-IcrNKcOmd6ckWfGK2wOaGXtCdYkVcbbU4HJf03C19Tf6D・3回目）
+  - 「Why are older 90s Litespeed Titanium bicycles so valuable? — Why are older 90s Litespeed Titanium bicycles so valuable? Quora https://www.quora.com > Why-are-ol...」（https://www.quora.com/Why-are-older-90s-Litespeed-Titanium-bicycles-so-valuable・3回目）
+  - 「Litespeed Titanium Bicycles Factory Tour - YouTube — Litespeed Titanium Bicycles Factory Tour - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=pG6IxbMd_hQ・3回目）
+  - 「Litespeed Bicycles: Litespeed Titanium Bikes — Litespeed Bicycles: Litespeed Titanium Bikes Litespeed Bicycles https://litespeed.com」（https://litespeed.com/?srsltid=AYCX9vJfZvxPaimz67ufjTHif8WI_iHpWmGqRLshoZe90xYUMpkJU5k0・3回目）
+  - 「25+ Litespeed Titanium Bike Frames for sale - eBay — 25+ Litespeed Titanium Bike Frames for sale - eBay eBay https://www.ebay.com > Litespeed-Tit...」（https://www.ebay.com/b/Litespeed-Titanium-Bike-Frames/22679/bn_1957112・3回目）
+- 設立：記載なし（3回確認済み：公式8頁／PDF・画像0件／外部18頁・検索6回）
+- 売上高：記載なし（3回確認済み：公式8頁／PDF・画像0件／外部18頁・検索6回）
 
 ## Lotus Engineering
 - 公式URL：https://www.lotuscars.com/en-GB/lotus-engineering（given）
@@ -3370,6 +3722,136 @@ Gaurav Godbole ( CFO )（https://en.wikipedia.org/wiki/Pininfarina・3回目）
 - 設立：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部13頁・検索6回）
 - 従業員数：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部13頁・検索6回）
 - 売上高：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部13頁・検索6回）
+
+## Williams Advanced Engineering
+- 公式URL：https://www.fortescue.com/en/zero/williams-advanced-engineering（given）
+- 他社向けサービス：
+  - 「Williams Grand Prix Engineering Services LLP, a limited liability partnership registered in England and Wales with company registration number OC456938 and whose registered address is at Station Road, Grove, Wantage, Oxfordshire, OX12 0DQ.」（https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vJn67M4miDSZrv7VTSRc9Qvu6BktIqw4Dt7arXo8_L75pjSWKgv・3回目）
+  - 「Williams Advanced Engineering Limited is a world-leading technology and engineering services business delivering pioneering innovation to improve performance, efficiency and sustainability to a global customer base.」（https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/・3回目）
+  - 「Engineering services for electrification and light-weighting」（https://www.emkcapital.com/our-portfolio/williams・3回目）
+  - 「WAE is a world leading engineering technology and consulting business providing innovative electrification and lightweight technology solutions to motorsport, high performance automotive, mining, aviation, defence and other sectors.」（https://www.emkcapital.com/our-portfolio/williams・3回目）
+  - 「Read about how our clients succeed with PitchBook」（https://pitchbook.com/profiles/company/398946-52・3回目）
+  - 「Provider of battery and electrification engineering services to multiple industries based in Wantage, United Kingdom.」（https://pitchbook.com/profiles/company/398946-52・3回目）
+  - 「We find the best talent for our clients and match candidates to their ideal jobs.」（https://www.michaelpage.co.uk/clientprofile/williams-advanced-engineering・3回目）
+  - 「Williams Advanced Engineering exists to accelerate the advantage and impact of our clients. We do it through innovative engineering and technology that solves complex problems and brings a step-change in weight, speed and efficiency.」（https://www.michaelpage.co.uk/clientprofile/williams-advanced-engineering・3回目）
+  - 「Williams Grand Prix Engineering Services LLP, a limited liability partnership registered in England and Wales with company registration number OC456938 and whose registered address is at Station Road, Grove, Wantage, Oxfordshire, OX12 0DQ.」（https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vLMY3TKWJbIjmbFhIFRNgwd6JhDfT5sEkROsTXklPN1ffzPqhVj・3回目）
+  - 「Williams Grand Prix Engineering Services LLP, a limited liability partnership registered in England and Wales with company registration number OC456938 and whose registered address is at Station Road, Grove, Wantage, Oxfordshire, OX12 0DQ.」（https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vJi3XDbwUwYg2KvHoR046GmsV-lBaGb96S2VsrgDiQidT1iSPFW・3回目）
+  - 「. Williams began diversifying in 2010, leading to the establishment of a WAE division, before it became its own limited company. All non-F1 business went over, and WAE head of motorsport Doug Campling moved across with his team in 2013, when the firm won the contract to build the first generation of Formula E batteries.」（https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road・3回目）
+  - 「WAE picked up this varied set of racing contracts thanks to its deep in-house capabilities in Grove, Oxfordshire. It can manufacture a few thousand top-end batteries each year, fine-tuning them in its testing facilities. It can build complete vehicles, using strong aerodynamics facilities for R&D. Its F1 heritage provides vehicle dynamics capabilities, as well as small-scale manufacturing.」（https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road・3回目）
+- 部品・技術の供給：
+  - 「Clients will be able to draw on the resources, assets, skillsets, technologies and talent available to the racing team to unlock new performance and potential in their businesses. Williams Grand Prix Technologies will also work closely with Williams Racing’s technology suppliers and partners to bring advanced solutions in simulation intelligence and data engineering to clients.」（https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vJn67M4miDSZrv7VTSRc9Qvu6BktIqw4Dt7arXo8_L75pjSWKgv・3回目）
+  - 「Williams Advanced Engineering and Molicel, announce a strategic collaboration covering current and next generation battery cells - Molicel」（https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/・3回目）
+  - 「Backup Battery Units」（https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/・3回目）
+  - 「Williams Advanced Engineering and Molicel, announce a strategic collaboration covering current and next generation battery cells」（https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/・3回目）
+  - 「Williams Advanced Engineering and Molicel have agreed a strategic collaboration to support the next generation of high performance, superior quality, lithium-ion power battery cells.」（https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/・3回目）
+  - 「The collaboration will bring together power-optimized cell technology from Molicel, together with WAE’s advanced system design and control systems know how to deliver a shared vision of high performance battery systems, optimized for power, while also delivering energy density, across a number of industries.」（https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/・3回目）
+  - 「The company provides ground-breaking innovation covering electrification, lightweighting, systems and whole product development, all aided by advanced simulation, rapid prototype manufacturing, testing, and in close collaboration with our customers, Williams Advanced Engineering is committed to meeting the continued sustainability challenges of the 21」（https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/・3回目）
+  - 「Connect our data to your systems with the PitchBook API and Data feed」（https://pitchbook.com/profiles/company/398946-52・3回目）
+  - 「Provider of battery and electrification engineering services to multiple industries based in Wantage, United Kingdom.」（https://pitchbook.com/profiles/company/398946-52・3回目）
+  - 「Additive Manufacturing Technologies (AMT PostPro)」（https://pitchbook.com/profiles/company/398946-52・3回目）
+  - 「Procurement & Supply Chain」（https://www.michaelpage.co.uk/clientprofile/williams-advanced-engineering・3回目）
+  - 「Supply Chain」（https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/・3回目）
+- ライセンス・ブランド：
+  - 「Racing in Formula 1 involves a lightning-fast development cycle, taking a car from concept to competition in less than 12 months. Williams Racing is one of the most successful teams in F1 history, with nine Constructors’ Championships, seven Drivers’ Championships and 114 race wins.」（https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vJn67M4miDSZrv7VTSRc9Qvu6BktIqw4Dt7arXo8_L75pjSWKgv・3回目）
+  - 「Williams Grand Prix Technologies will offer this innovation-led approach and extraordinary pedigree to a wide range of new sectors including wider motorsport, premium automotive, aerospace, defence, marine, energy, sport and lifestyle.」（https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vJn67M4miDSZrv7VTSRc9Qvu6BktIqw4Dt7arXo8_L75pjSWKgv・3回目）
+  - 「Hear from Team Principal James Vowles as he breaks down our performance at the Autódromo Hermanos Rodríguez」（https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vJn67M4miDSZrv7VTSRc9Qvu6BktIqw4Dt7arXo8_L75pjSWKgv・3回目）
+  - 「Ship to:」（https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vJn67M4miDSZrv7VTSRc9Qvu6BktIqw4Dt7arXo8_L75pjSWKgv・3回目）
+  - 「© 2026 The Williams Group, under licence to Williams IP Holdings LLC」（https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vJn67M4miDSZrv7VTSRc9Qvu6BktIqw4Dt7arXo8_L75pjSWKgv・3回目）
+  - 「Williams Grand Prix Engineering Services LLP, a limited liability partnership registered in England and Wales with company registration number OC456938 and whose registered address is at Station Road, Grove, Wantage, Oxfordshire, OX12 0DQ.」（https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vJn67M4miDSZrv7VTSRc9Qvu6BktIqw4Dt7arXo8_L75pjSWKgv・3回目）
+  - 「Williams Advanced Engineering and Molicel, announce a strategic collaboration covering current and next generation battery cells - Molicel」（https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/・3回目）
+  - 「Williams Advanced Engineering and Molicel, announce a strategic collaboration covering current and next generation battery cells」（https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/・3回目）
+  - 「Williams Advanced Engineering and Molicel have agreed a strategic collaboration to support the next generation of high performance, superior quality, lithium-ion power battery cells.」（https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/・3回目）
+  - 「The collaboration will bring together power-optimized cell technology from Molicel, together with WAE’s advanced system design and control systems know how to deliver a shared vision of high performance battery systems, optimized for power, while also delivering energy density, across a number of industries.」（https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/・3回目）
+  - 「Molicel has accumulated extensive expertise and know-how in chemical research and manufacturing engineering during the last 40 years in addition to database design and validation methodologies. The relationship will initially focus on collaboration to assess and develop technology to support demonstration activities aimed at growing market awareness of this exciting technological development.」（https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/・3回目）
+  - 「Combining cutting-edge technological advances and the industry’s best engineers with precision and speed to market derived from the ultra-competitive environment of motorsport, Williams Advanced Engineering’s capabilities cover a wide range of disciplines.」（https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/・3回目）
+- 車以外の顧客・産業：
+  - 「Drawing on lessons learned over almost 50 years at the pinnacle of motorsport, Williams Grand Prix Technologies will bring a laser focus to solving clients’ problems using world-leading engineering capabilities.」（https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vJn67M4miDSZrv7VTSRc9Qvu6BktIqw4Dt7arXo8_L75pjSWKgv・3回目）
+  - 「Williams Grand Prix Technologies will offer this innovation-led approach and extraordinary pedigree to a wide range of new sectors including wider motorsport, premium automotive, aerospace, defence, marine, energy, sport and lifestyle.」（https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vJn67M4miDSZrv7VTSRc9Qvu6BktIqw4Dt7arXo8_L75pjSWKgv・3回目）
+  - 「Hyper EVs & Racing Sports Cars」（https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/・3回目）
+  - 「The collaboration will bring together power-optimized cell technology from Molicel, together with WAE’s advanced system design and control systems know how to deliver a shared vision of high performance battery systems, optimized for power, while also delivering energy density, across a number of industries.」（https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/・3回目）
+  - 「MOLICEL® belongs to the energy business of Taiwan Cement Corporation (TCC). TCC is the first listing company in Taiwan stock market. The group has business units in the field of power plant, renewable energy and BESS.」（https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/・3回目）
+  - 「Combining cutting-edge technological advances and the industry’s best engineers with precision and speed to market derived from the ultra-competitive environment of motorsport, Williams Advanced Engineering’s capabilities cover a wide range of disciplines.」（https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/・3回目）
+  - 「HQ - E-One Moli Energy Corp.」（https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/・3回目）
+  - 「North America - E-One Moli Energy (Canada) Ltd」（https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/・3回目）
+  - 「molicel@molienergy.com」（https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/・3回目）
+  - 「WAE is a world leading engineering technology and consulting business providing innovative electrification and lightweight technology solutions to motorsport, high performance automotive, mining, aviation, defence and other sectors.」（https://www.emkcapital.com/our-portfolio/williams・3回目）
+  - 「Emerging tech research on AI, healthcare, energy, and more」（https://pitchbook.com/profiles/company/398946-52・3回目）
+  - 「Industrials」（https://pitchbook.com/profiles/company/398946-52・3回目）
+- レース・ワンメイク：
+  - 「Racing in Formula 1 involves a lightning-fast development cycle, taking a car from concept to competition in less than 12 months. Williams Racing is one of the most successful teams in F1 history, with nine Constructors’ Championships, seven Drivers’ Championships and 114 race wins.」（https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vJn67M4miDSZrv7VTSRc9Qvu6BktIqw4Dt7arXo8_L75pjSWKgv・3回目）
+  - 「Discover the start times for each session as Formula 1 heads to Brazil for round 20」（https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vJn67M4miDSZrv7VTSRc9Qvu6BktIqw4Dt7arXo8_L75pjSWKgv・3回目）
+  - 「The business was the sole supplier of the battery system for the entire Formula E grid since the racing series began in 2014 to the end of the fourth season in 2018. Initially having to step in at the eleventh hour, WAE designed, built and delivered the battery packs in just 15 months, and achieved more than 99.5% reliability.」（https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/・3回目）
+  - 「In 2018, WAE received the Queen’s Award for Enterprise in Innovation for its ability to design, develop and deliver the batteries for all Formula E cars racing in the championship, while ensuring the successful transfer of that knowledge to road cars and other sustainable transport.」（https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/・3回目）
+  - 「Inspired and based on the design of a Formula One wing, the Aerofoil channels the cold air that falls from the top of an open fridge down the front of the fridge, preventing it from spilling out into the aisle in a supermarket.」（https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/・3回目）
+  - 「Williams is one of the world’s leading Formula 1 teams. It exists purely to race in the top echelon of motor racing, where it has been winning grands prix for more than three decades.」（https://www.raceenginetechnology.com/Suppliers/williams-advanced-engineering・3回目）
+  - 「Racing in Formula 1 involves a lightning-fast development cycle, taking a car from concept to competition in less than 12 months. Williams Racing is one of the most successful teams in F1 history, with nine Constructors’ Championships, seven Drivers’ Championships and 114 race wins.」（https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vLMY3TKWJbIjmbFhIFRNgwd6JhDfT5sEkROsTXklPN1ffzPqhVj・3回目）
+  - 「Discover the start times for each session as Formula 1 heads to Brazil for round 20」（https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vLMY3TKWJbIjmbFhIFRNgwd6JhDfT5sEkROsTXklPN1ffzPqhVj・3回目）
+  - 「Racing in Formula 1 involves a lightning-fast development cycle, taking a car from concept to competition in less than 12 months. Williams Racing is one of the most successful teams in F1 history, with nine Constructors’ Championships, seven Drivers’ Championships and 114 race wins.」（https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vJi3XDbwUwYg2KvHoR046GmsV-lBaGb96S2VsrgDiQidT1iSPFW・3回目）
+  - 「Discover the start times for each session as Formula 1 heads to Brazil for round 20」（https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vJi3XDbwUwYg2KvHoR046GmsV-lBaGb96S2VsrgDiQidT1iSPFW・3回目）
+  - 「Formula Student」（https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road・3回目）
+  - 「IMechE Focus Webinar Series」（https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road・3回目）
+- お金の形：
+  - 「Connect our data to your systems with the PitchBook API and Data feed」（https://pitchbook.com/profiles/company/398946-52・3回目）
+  - 「Feedback」（https://www.michaelpage.co.uk/clientprofile/williams-advanced-engineering・3回目）
+  - 「This saves up to 30% of a supermarket’s energy costs and has the potential to save the equivalent of a month’s worth of the domestic CO2 emissions from a city the size of Manchester annually. Furthermore, all the aluminium used for Aerofoil blades and blanking plates is made from 100% recycled material.」（https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/・3回目）
+  - 「Pay membership fees」（https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road・3回目）
+  - 「planned for production in a couple of years’ time. Aston Martin really needs the DBX if it is to drive annual sales to the 10,000-plus needed to generate serious profits and perhaps fuel a potential public flotation.」（https://www.autocar.co.uk/car-news/new-cars/williams-advanced-engineering-boss-why-his-company-world-leader・3回目）
+  - 「RSS feed」（https://www.autocar.co.uk/car-news/new-cars/williams-advanced-engineering-boss-why-his-company-world-leader・3回目）
+- 売上構成：
+  - 「MOLICEL® belongs to the energy business of Taiwan Cement Corporation (TCC). TCC is the first listing company in Taiwan stock market. The group has business units in the field of power plant, renewable energy and BESS.」（https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/・3回目）
+  - 「EMK acquired 75% of the business from Williams F1 which has a deep and renowned heritage in racing and engineering excellence, both in the UK and internationally. In its core areas of high-performance electrification and light-weighting it is a clear technology and market leader with a very strong reputation.」（https://www.emkcapital.com/our-portfolio/williams・3回目）
+  - 「Follow PE and VC trends across key industrial segments」（https://pitchbook.com/profiles/company/398946-52・3回目）
+  - 「Secondary market analysis of GP-led transactions and LP stake sales」（https://pitchbook.com/profiles/company/398946-52・3回目）
+  - 「What is WAE Technologies’s current revenue?」（https://pitchbook.com/profiles/company/398946-52・3回目）
+  - 「The current revenue for WAE Technologies is」（https://pitchbook.com/profiles/company/398946-52・3回目）
+  - 「Segments」（https://pitchbook.com/profiles/company/398946-52・3回目）
+  - 「The business was the sole supplier of the battery system for the entire Formula E grid since the racing series began in 2014 to the end of the fourth season in 2018. Initially having to step in at the eleventh hour, WAE designed, built and delivered the battery packs in just 15 months, and achieved more than 99.5% reliability.」（https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/・3回目）
+  - 「This saves up to 30% of a supermarket’s energy costs and has the potential to save the equivalent of a month’s worth of the domestic CO2 emissions from a city the size of Manchester annually. Furthermore, all the aluminium used for Aerofoil blades and blanking plates is made from 100% recycled material.」（https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/・3回目）
+  - 「. Williams began diversifying in 2010, leading to the establishment of a WAE division, before it became its own limited company. All non-F1 business went over, and WAE head of motorsport Doug Campling moved across with his team in 2013, when the firm won the contract to build the first generation of Formula E batteries.」（https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road・3回目）
+  - 「planned for production in a couple of years’ time. Aston Martin really needs the DBX if it is to drive annual sales to the 10,000-plus needed to generate serious profits and perhaps fuel a potential public flotation.」（https://www.autocar.co.uk/car-news/new-cars/williams-advanced-engineering-boss-why-his-company-world-leader・3回目）
+  - 「Other activities include involvement in a big-scale power storage project in Germany, using part-spent car batteries as the medium. They may have lost 20% capacity and ended their useful life in cars, says Wilson, but they can do useful work in a battery bank for another 20 years.」（https://www.autocar.co.uk/car-news/new-cars/williams-advanced-engineering-boss-why-his-company-world-leader・3回目）
+- 創業期と参入のしやすさ：
+  - 「WAE Technologies 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook」（https://pitchbook.com/profiles/company/398946-52・3回目）
+  - 「Follow capital flows across investors, deals, and industry trends」（https://pitchbook.com/profiles/company/398946-52・3回目）
+  - 「Find investment opportunities and active investors faster」（https://pitchbook.com/profiles/company/398946-52・3回目）
+  - 「Investors」（https://pitchbook.com/profiles/company/398946-52・3回目）
+  - 「Comprehensive insights, from emerging startups to global deal activity」（https://pitchbook.com/profiles/company/398946-52・3回目）
+  - 「Insights into deal flow, valuations, and market drivers」（https://pitchbook.com/profiles/company/398946-52・3回目）
+  - 「Startup M&A, VC-backed IPOs, direct secondaries, and more」（https://pitchbook.com/profiles/company/398946-52・3回目）
+  - 「Valuations」（https://pitchbook.com/profiles/company/398946-52・3回目）
+  - 「Valuation trends and news for dealmakers」（https://pitchbook.com/profiles/company/398946-52・3回目）
+  - 「Stay ahead in the evolving world of VC, startups, and technology」（https://pitchbook.com/profiles/company/398946-52・3回目）
+  - 「Rankings of investors, managers, and lenders across asset classes」（https://pitchbook.com/profiles/company/398946-52・3回目）
+  - 「Year Founded」（https://pitchbook.com/profiles/company/398946-52・3回目）
+- 顧客名：
+  - 「Williams Grand Prix Engineering Services LLP, a limited liability partnership registered in England and Wales with company registration number OC456938 and whose registered address is at Station Road, Grove, Wantage, Oxfordshire, OX12 0DQ.」（https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vJn67M4miDSZrv7VTSRc9Qvu6BktIqw4Dt7arXo8_L75pjSWKgv・3回目）
+  - 「Follow PE and VC trends across key industrial segments」（https://pitchbook.com/profiles/company/398946-52・3回目）
+  - 「Segments」（https://pitchbook.com/profiles/company/398946-52・3回目）
+  - 「Audit & Advisory」（https://www.michaelpage.co.uk/clientprofile/williams-advanced-engineering・3回目）
+  - 「Tasked with creating a vehicle that achieved the performance of a Bugatti Veyron, the emissions of a Toyota Prius and the pure electric range of a Chevrolet Volt, WAE delivered a rolling showcase for innovation in aerodynamics, carbon-composite manufacture and hybrid technologies. What’s even more impressive is the timescale involved.」（https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/・3回目）
+  - 「– technology allowing virtual and augmented reality (VR/AR) to be more efficiently used by professionals working in immersive design, production, review and training」（https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/・3回目）
+  - 「Oxford Space Systems」（https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/・3回目）
+  - 「Grove , Wantage, Oxfordshire, OX12 0DQ, UK」（https://www.raceenginetechnology.com/Suppliers/williams-advanced-engineering・3回目）
+  - 「Williams Grand Prix Engineering Services LLP, a limited liability partnership registered in England and Wales with company registration number OC456938 and whose registered address is at Station Road, Grove, Wantage, Oxfordshire, OX12 0DQ.」（https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vLMY3TKWJbIjmbFhIFRNgwd6JhDfT5sEkROsTXklPN1ffzPqhVj・3回目）
+  - 「Williams Grand Prix Engineering Services LLP, a limited liability partnership registered in England and Wales with company registration number OC456938 and whose registered address is at Station Road, Grove, Wantage, Oxfordshire, OX12 0DQ.」（https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vJi3XDbwUwYg2KvHoR046GmsV-lBaGb96S2VsrgDiQidT1iSPFW・3回目）
+  - 「Williams Advanced Engineering is supplying batteries for the electric Extreme-E racing series, which kicked off in Saudi Arabia at the weekend (Credit: Spacesuit Media/ Shivraj Gohil)」（https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road・3回目）
+  - 「Williams is a Formula One giant. Its nine constructors’ championships are second only to Ferrari. Yet, despite that huge success, co-founder Sir Patrick Head described it as “an engineering company that just happened to go motor racing”.」（https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road・3回目）
+- 検索結果の抜粋：
+  - 「Williams Advanced Engineering and Molicel, announce a ... — Williams Advanced Engineering and Molicel, announce a ... Molicel https://www.molicel.com > newsroom」（https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/・3回目）
+  - 「Williams Advanced Engineering | Investments - EMK Capital — Williams Advanced Engineering | Investments - EMK Capital EMK Capital https://www.emkcapital.com > williams」（https://www.emkcapital.com/our-portfolio/williams・3回目）
+  - 「Italdesign partners with Williams Advanced Engineering to ... — Italdesign partners with Williams Advanced Engineering to ... Italdesign https://www.italdesign.it > italdesign-...」（https://www.italdesign.it/en/italdesign-partners-with-williams-advanced-engineering-to-create-complete-high-performance-ev-solution/・3回目）
+  - 「Williams Advanced Engineering - Manufacturing Today — Williams Advanced Engineering - Manufacturing Today Manufacturing Today https://manufacturing-today.com > wi...」（https://manufacturing-today.com/news/williams-advanced-engineering/・3回目）
+  - 「WAE Technologies 2026 Company Profile - PitchBook — WAE Technologies 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company」（https://pitchbook.com/profiles/company/398946-52・3回目）
+  - 「Williams Advanced Engineering - Michael Page — Williams Advanced Engineering - Michael Page Michael Page https://www.michaelpage.co.uk > will...」（https://www.michaelpage.co.uk/clientprofile/williams-advanced-engineering・3回目）
+  - 「Williams Advanced Engineering : Driving and disrupting ... — Williams Advanced Engineering : Driving and disrupting ... The Manufacturer https://www.themanufacturer.com > ...」（https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/・3回目）
+  - 「Williams Advanced Engineering - Race Engine Technology — Williams Advanced Engineering - Race Engine Technology Race Engine Technology https://www.raceenginetechnology.com > ...」（https://www.raceenginetechnology.com/Suppliers/williams-advanced-engineering・3回目）
+  - 「WILLIAMS ADVANCED ENGINEERING (WAE) APPOINTED ... — WILLIAMS ADVANCED ENGINEERING (WAE) APPOINTED ... Reddit https://www.reddit.com > wec > ivaeir」（https://www.reddit.com/r/wec/comments/ivaeir/williams_advanced_engineering_wae_appointed_as/・3回目）
+  - 「Williams Advanced Engineering Renamed WAE Technologies — Williams Advanced Engineering Renamed WAE Technologies Engineering.com https://www.engineering.com > willia...」（https://www.engineering.com/williams-advanced-engineering-renamed-wae-technologies/・3回目）
+  - 「Williams Advanced Engineering Receives Fresh Rebranding ... — Williams Advanced Engineering Receives Fresh Rebranding ... autoevolution https://www.autoevolution.com > news」（https://www.autoevolution.com/news/williams-advanced-engineering-receives-fresh-rebranding-becomes-wae-technologies-207646.html・3回目）
+  - 「Williams Advanced Engineering and Molicell team up for high ... — Williams Advanced Engineering and Molicell team up for high ... E-Mobility Engineering https://www.emobility-engineering.com > ...」（https://www.emobility-engineering.com/williams-advanced-engineering-molicell-high-power-battery-applications/・3回目）
+- 設立：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索6回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索6回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索6回）
 
 ## YCOM
 - 公式URL：https://www.ycom.it（given）

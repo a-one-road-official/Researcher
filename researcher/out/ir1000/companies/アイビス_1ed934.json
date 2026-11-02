@@ -1,0 +1,2065 @@
+{
+ "name": "アイビス",
+ "aliases": [],
+ "context": "証券コード9343／サービス業／グロース（内国株式）／2025.12期 売上高5,005百万円 営業利益率24.0%",
+ "researched_at": "2026-11-02T17:35:22.531400+00:00",
+ "official_url": "https://ibispaint.com/",
+ "identified_by": "search:yahoo_jp:アイビス",
+ "profile": {
+  "設立": [
+   {
+    "label": "設 立",
+    "value": "2000年5月11日（平成12年） 沿革はこちら",
+    "url": "https://www.ibis.ne.jp/company/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "384名（2026年09月30日現在、アルバイト含む）",
+    "url": "https://www.ibis.ne.jp/company/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "iPhone、iPad、スマートフォン等、モバイルアプリの研究及び開発、販売、運営 Webアプリケーションの研究及び開発、販売、運営 iPhone、iPad、スマートフォン等、モバイルアプリの受託開発 Webアプリケーションの受託開発 人工知能の研究及び開発、販売 労働者派遣事業 許可番号（派13-317592） 他",
+    "url": "https://www.ibis.ne.jp/company/",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "海外売上高",
+    "value": "1,060,851 78.6",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "label": "海外売上高",
+    "value": "875,526 72.8",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "label": "海外売上高",
+    "value": "208,553 77.1",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "label": "海外売上高",
+    "value": "2,148,578 75.9",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "2,830,230 2,055,883 118,977 5,005,091 － 5,005,091",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部 売上高又は振替高",
+    "value": "－ － － － － －",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "ユーザー同士のコラボも楽しい、",
+    "url": "https://ibispaint.com/about.jsp",
+    "pass": 1
+   },
+   {
+    "quote": "』には、世界中のお絵かき好きが毎日たくさんの作品を投稿しており、ユーザー同士のコラボレーションも活発です",
+    "url": "https://ibispaint.com/about.jsp",
+    "pass": 1
+   },
+   {
+    "quote": "(Edu 以外) 他のユーザーの作品が更新された後にもう一度ダウンロードすると、以前にダウンロードした作品が上書きされてしまう不具合を修正しました",
+    "url": "https://ibispaint.com/historyAndRights.jsp?newsID=313331619",
+    "pass": 1
+   },
+   {
+    "quote": "モバイル事業は、iOS・Android用モバイルペイントアプリ『ibisPaint』の開発、サービス運営、さらにはibisPaintを通して制作された全世界のユーザーコンテンツに発表の場を与える投稿サイト「ibispaint.com」の運営を行っております",
+    "url": "https://www.ibis.ne.jp/services/",
+    "pass": 3
+   },
+   {
+    "quote": "を超え、MAU（Monthly Active Users：月間のアクティブユーザー数）が4000万人を超えております",
+    "url": "https://www.ibis.ne.jp/services/",
+    "pass": 3
+   },
+   {
+    "quote": "特に受託開発サービスでは、2000年初頭のモバイル黎明期から培ったこれらアプリの開発技術やリリース、運用ノウハウを有していることがソリューション事業としての強みにもなっており、企画段階やユーザーインターフェース（UI）/ユーザーエクスペリエンス（UX） に関するご相談にも対応することができる他、アプリと連携するバックエンドのWebシステム等も含めた設計から開発・運用までを自社においてワンストップで開発することが可能となっております",
+    "url": "https://www.ibis.ne.jp/services/",
+    "pass": 3
+   },
+   {
+    "quote": "界１位のユーザー基盤を持つ自社開発のモバイルペイントアプリ「ibisPaint」を",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "通じたアプリユーザー向け広告収益とサブスクリプション収益である",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方でこれまで収益の中心であった「ibisPaint」ユーザーに向けた広告収益が",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有料サブスクリプションの獲得については同社の既存ユーザー基盤 (MAU",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "のユーザー基盤を持つ自社開発のモバイルペイントアプリ「ibisPaint」を通じたアプリユーザー向け広告収益とサブスク",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "アプリ課金 943 20.4% ユーザーの購入による収益",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "このユーザー数は、日本産アプリを対象とした調査において、欧米で 1 位、全世界でも３位のアク",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ティブユーザー数を誇る",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、ペイントアプリとしても世界 1 位の規模であり、全世界ユーザーシェアは 86.5%であ",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「ibisPaint」の収益としては、このユーザー数に向けたアプリ広告の売上に加え、追加機能 ・追加素材や、広告非表示機",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "な収益源はアプリ上で歌声を再現するための音声データ集 (ボイスライブラリ) の販売であり、ユーザーが追加で有料",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「ibisPaint」のユーザーは 2019 年末の 1,000 万人前後から、2021 年末においては 4,000 万人前後にまで到達し、アクテ",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ィブユーザー数ベースで日本産アプリ (モバイルペイントアプリ以外も含む全カテゴリ) として欧米で 1 位、全世界で 3",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "位のユーザー基盤を有する世界 1 位のペイントアプリとなった",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、把握しておくべき事業上の転換点として、2024 年から収益モデルを無料ユーザー向けのアプリ広告収益からサ",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これは、ユーザー基盤・認知度が十分拡大した結果、広告によるユーザー獲得の効率性が低下",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "し、効率性や継続性の観点から、口コミ・レビューを通じたユーザー獲得で十分成長させていくことが可能という分析に",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ーに使われているアプリであるが、これ程多くのユーザーに選ばれる背景として第一に挙げられる点は「 絵やイラ",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "に女性や 25 歳未満の若年層を中心とした、現在のユーザー基盤を確立出来た点が、同社のビジネスの付加価値の",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "能なアプリの先行者優位とユーザーの定着が、強力な参入障壁と利益の源泉となっている",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、イラストを始める層のファーストアプリとして使われること は、ユーザーが「ibisPaint」の操作に慣れてしまうこ",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "機能の蓄積や築き上げたユーザー基盤等の要素は後発がキャッチアップすることは難しいと考えられ、 参入障壁が",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "アプリ広告収益: DAU/MAU 等のアクティブユーザー数 × アクティブユーザーあたり収益",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "アクティブユーザーあたり収益: インターネット広告市場の動向や広告に関する固有施策等",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有料アカウント数: 既存アカウント数 × 継続率 + アクティブユーザー × 新規の有料転換率",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サービス運営、さらには「ibisPaint」で制作された全世界のユーザーコンテンツに発表の場を与えるオンラインギャラリー「ibispaint.com」の運営を行う事業セグメントであります",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社は「ibisPaint」をモバイルアプリ提供プラットフォームである「Google Play」や「App Store」等を通じてユーザーに提供しております",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "上記、アプリ課金収入及びアプリ広告売上については、ユーザーの獲得・維持が収益構造の源泉となっております",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "また「ibisPaint」は、世界の19言語に対応したアプリであり、積極的な海外プロモーション（投資対象国は61ヶ国）を実施し、ユーザー数の増加及び収益の拡大に繋げております",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、App Store「グラフィックス＆デザイン」カテゴリにおいて、2025年に全世界でもっとも多くのアクティブユーザー数を獲得し、2019年から７年連続でカテゴリ世界１位を維持いたしました（注２）",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "（注３）：「Monthly Active Users」の略で、月あたりのアクティブユーザー数を示す",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "ソーシャルメディアやソーシャルアプリなどで、適切な利用者数を示す値として使われる指標",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "「ibisPaint」で創り出されたイラストを投稿できるメディア「ibispaint.com」は、ユーザーから投稿された作品がイラスト、マンガ等の種別に日別、月間、年間ランキング形式で閲覧できるようになっている他、投稿されている作品データをダウンロードすることができ、お絵かきのテクニックを学ぶこともできるようになっております",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "これらの特色により、作品へのコメント等を通じてユーザー同士のコラボレーションが活発に行われており、「ibisPaint」へのエンゲージメントの創出に貢献しております",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "（注５）：「ibispaint.com」は、2025年12月末現在、作品の投稿、ユーザーの交流等のサービス提供を目的としており、収益はありません",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "海外ユーザー数が日本国内ユーザー数を上回る",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザー獲得手法については、2016年９月期以降、世界61ヶ国のインターネット広告に出稿しており、広告出稿による効果に関するデータをモニタリングすることで、効果的な海外プロモーションを実施しております",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "国内人口は減少が見込まれるなか、まだまだ増える世界人口を相手にすること、増え続ける「モバイル」ユーザーを対象にしていることは大きなアドバンテージであると考えております",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "Z世代のユーザー割合が多い",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "また顧客生涯価値（注６）を高めることにおいて",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "「ibisPaint」のユーザー属性を年代別に分析したところ、「ibisPaint」の",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "Z世代を中心にユーザーを拡大深耕しております",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "（注６）：顧客が生涯を通じて企業にもたらす利益（Life Time Value）のこと",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "無料版ユーザーからの収益",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社の無料版アプリはユーザーに配信される広告から収益を得ています",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、無料版が充実していることから、高い水準の顧客満足度を実現しています",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "満足度が高いことで以下のユーザー行動につながっております",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "a. リテンション（顧客の囲い込み、流失防止）",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "顧客満足度が低いアプリであれば、顧客は使用を停止し、競合アプリに乗り換えてしまいます",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "顧客満足度の高さはリテンションに直結しています",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "全世界5億ダウンロードを突破し、世界中にユーザーを持つモバイルペイントアプリ「ibisPaint（アイビスペイント）」を開発・運営する株式会社アイビスは、2025年1月31日、AI音声合成技術を主軸に事業を展開する株式会社テクノスピーチを傘下に迎えました",
+    "url": "https://prtimes.com/story/detail/ZrNWAnIpWEb",
+    "pass": 3
+   },
+   {
+    "quote": "現在は19言語に対応し、世界200以上の国と地域で利用されており、月間アクティブユーザー数は約3,900万にのぼります",
+    "url": "https://prtimes.com/story/detail/ZrNWAnIpWEb",
+    "pass": 3
+   },
+   {
+    "quote": "ibisPaintは絵を描くクリエイター向け、VoiSonaは音楽・歌声のクリエイター向けと、ユーザー層が近い",
+    "url": "https://prtimes.com/story/detail/ZrNWAnIpWEb",
+    "pass": 3
+   },
+   {
+    "quote": "ibisPaintも新機能を出すとユーザーの驚きの声を聞きますが、VoiSonaも同じく、歌声や話し声のクオリティに驚くユーザーを見て、クリエイター向け製品の面白さを再確認しました",
+    "url": "https://prtimes.com/story/detail/ZrNWAnIpWEb",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "①[画面右上の歯車ボタン] > ②[商品説明を見る]",
+    "url": "https://ibispaint.com/about.jsp",
+    "pass": 1
+   },
+   {
+    "quote": "また、外部サービスのアカウントを使った新規登録を廃止したため、初めてログインする場合はibisアカウントの作成が必要になりました",
+    "url": "https://ibispaint.com/historyAndRights.jsp?newsID=313331619",
+    "pass": 1
+   },
+   {
+    "quote": "2000年初頭のNTTドコモのi-modeが発表された時代に創業したアイビスでは、当時のまだまだPCが優位な時代において、モバイル分野に特化した製品開発・サービスを次々とリリースしていきました",
+    "url": "https://www.ibis.ne.jp/services/",
+    "pass": 3
+   },
+   {
+    "quote": "企業向けにその技術力を提供するソリューション事業も展開しており、モバイル事業とともに企業にも「ワォ！」を届けております",
+    "url": "https://www.ibis.ne.jp/services/",
+    "pass": 3
+   },
+   {
+    "quote": "モバイル事業は、iOS・Android用モバイルペイントアプリ『ibisPaint』の開発、サービス運営、さらにはibisPaintを通して制作された全世界のユーザーコンテンツに発表の場を与える投稿サイト「ibispaint.com」の運営を行っております",
+    "url": "https://www.ibis.ne.jp/services/",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューション事業",
+    "url": "https://www.ibis.ne.jp/services/",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューション事業では、インターネット端末用アプリの開発・運用保守及び、クラウドコンピューティングサービスである「アマゾン ウェブ サービス(AWS)」を用いたサーバ構築・移行・運用保守等の開発サービスを行なっております",
+    "url": "https://www.ibis.ne.jp/services/",
+    "pass": 3
+   },
+   {
+    "quote": "特に受託開発サービスでは、2000年初頭のモバイル黎明期から培ったこれらアプリの開発技術やリリース、運用ノウハウを有していることがソリューション事業としての強みにもなっており、企画段階やユーザーインターフェース（UI）/ユーザーエクスペリエンス（UX） に関するご相談にも対応することができる他、アプリと連携するバックエンドのWebシステム等も含めた設計から開発・運用までを自社においてワンストップで開発することが可能となっております",
+    "url": "https://www.ibis.ne.jp/services/",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューション事業を詳しく見る",
+    "url": "https://www.ibis.ne.jp/services/",
+    "pass": 3
+   },
+   {
+    "quote": "業種: サービス業",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "技術者派遣を行うソリューション事業を行っている",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューション事業",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "クライアント向けに受託開発や IT 技術者派遣を行うソリューション事業を行っている",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "モバイル事業 2,611 56.4% 1,342 116.2% 自社製品を扱うセグメント",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューション事業 2,014 43.6% 275 23.8% 他社案件を扱うセグメント",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "プリの開発力であり、その開発力をクライアントに向けて提供しているのがソリューション事業となっている",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "アイビス （9343） はモバイルアプリ開発に強みを持ち、「ibisPaint」など自社製品を扱うモバイル事業と、受託開発・IT",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "技術者派遣のソリューション事業を展開している",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "創業時より自社製品の開発を目指してはいたものの、事業的な観点から始めはシステムの受託開発と IT 技術者派遣を",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "行っており、これらが現在のソリューション事業にまで繋がっている",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "その後、当時のソリューション事業が軌道に乗った創業 4~5 年後あたりから自社製品の開発に取り組み始め、2010 年",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "に神谷氏自ら企画・設計を行い、2011 年にリリースした製品が、現在モバイル事業の主力となっている「ibisPaint」であ",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、直近の展開として、2025 年 1 月末に自社製品「VoiSona」の開発・運営を中心に、AI 歌声合成事業を行うテクノス",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「VoiSona」は今後同社グループの製品として展開される",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "同社の事業セグメントはモバイル事業 (売上構成比 56%, 営業利益構成比 116%)、ソリューション事業 (売上構成比",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【事業・サービスの付加価値・利益の源泉はどこにあるのか】",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "アイビスのビジネスモデルは、主に「ibisPaint」を中心としたモバイル事業と、IT 人材を活用したソリューション事業か",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューション事業は人",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "とに繋がるため、他製品に乗り換える際のスイッチングコストとして機能する点も無視できないだろう",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "式で収益が上がるサービスによるものであり、近年では PC 版などの収益を含む",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➢ ソリューション事業",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューション事業 売上構成比 (2024年12月期)",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューション事業業績",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューション事業については以下のような形で分解して認識するのが妥当であると IR Agents は考える",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当時のまだまだPCが優位な時代において、モバイル分野に特化した製品開発・サービスを次々とリリースしてまいりました",
+    "url": "https://www.ibis.ne.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "その技術力を受託開発として企業向けに提供する「ソリューション事業」も展開しており、「モバイル事業」とともに企業にも「ワォ！」を届けております",
+    "url": "https://www.ibis.ne.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "一般社団法人愛知県情報サービス産業協会",
+    "url": "https://www.ibis.ne.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューション事業",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "「ソリューション事業」",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "サービス運営、さらには「ibisPaint」で制作された全世界のユーザーコンテンツに発表の場を与えるオンラインギャラリー「ibispaint.com」の運営を行う事業セグメントであります",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、より快適に利用いただくために、２つの有料サービスを提供しております",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "１つは、広告非表示機能を含む追加機能や追加素材等の利用が可能となる定額課金型のプレミアム会員サービス（サブスクリプション課金）の提供であり、月額課金制と年額課金制の２種類の方法があります",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "両サービスは本セグメントのアプリ課金収入モデルにおける主な収益源となっており、当連結会計年度において、アプリ課金売上（サブスクリプション課金及び売切型アプリの合計）がアプリ広告売上をはじめて上回るなど、課金収入へのシフトが明確になってきております",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、2022年６月にリリースしましたWindows版ペイントアプリ「ibisPaint」については、当初は売切型アプリのみを販売しておりましたが、2024年３月に定額課金型のプレミアム会員サービス（サブスクリプション",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "（注５）：「ibispaint.com」は、2025年12月末現在、作品の投稿、ユーザーの交流等のサービス提供を目的としており、収益はありません",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "モバイルセグメントでは、モバイル最適化、優秀なエンジニア、スピードへのこだわりが三位一体となって、「ibisPaint」の開発力・サービス運営において他社製品との差別化を図っております",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "「ibisPaint」の製品ラインナップは以下のとおりです",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "(2) ソリューションセグメント",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューションセグメントでは大きく分けて２つの事業を展開しております",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューションセグメントに関する事業系統図は、次のとおりであります",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "スマートフォンやタブレット端末の登場以降、急速な情報通信技術の発展により様々な分野においてデジタルサービスの創出、利活用が進む中において、当社は顧客のIT戦略",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "で培ったこれらアプリの開発技術やリリース、運用ノウハウを有していることがソリューション",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "「ibisPaint」の開発・運用実績やソリューション",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "情報通信技術の発展によるDXや多様なITサービスが展開されている中において、IT人材の需要は今後も高まる傾向が見込まれるため、引き続き本セグメントを拡大していく方針であります",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "（注７）：音声合成市場の市場規模は、360iResearch社の「音声合成市場：コンポーネント別（サービス、ソフトウェア、ソリューション）、タイプ別（ニューラル＆カスタム、非ニューラル）、言語別、展開モード別、組織規模別、業種別– 2024年～2030年のグローバル予測」によります",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "このような環境のもと、当社は、高成長事業として収益性を重視した自社製品セグメントであるモバイル事業、安定成長事業として創業来高い評価を受けているセグメントであるソリューション事業の２つの既存事業に加え、新成長事業として2025年４月より世界最先端の音声関連技術の普及を目指す名工大発ベンチャーのセグメントであるAI歌声合成事業を３つ目の報告セグメントとし、いずれも積極的な事業展開を行いました",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "「ibisPaint」は、世界200以上の国と地域で利用されており、デジタルイラストを描くユーザー向けに、トレンドを取り入れた新機能やサービスの提供に注力いたしました",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "「ソリューションセグメント」では、スマートフォンやタブレットなどのインターネット端末向けのアプリケーション開発支援を行いました",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度におきましては、主力製品の「ibisPaint」についてはシリーズ累計のダウンロード数を積み重ね、2025年９月10日に大台の５億ダウンロードを達成し、2025年12月末日時点では５億2,052万ダウンロードとなりました",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、教育機関向け商品「ibisPaint Edu」については、４月に新たに「ibisPaint Edu for Android」を追加し、iOSとAndroid両環境への対応を実現いたしました",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "新機能の紹介",
+    "url": "https://ibispaint.com/about.jsp",
+    "pass": 1
+   },
+   {
+    "quote": "マンガ機能紹介",
+    "url": "https://ibispaint.com/about.jsp",
+    "pass": 1
+   },
+   {
+    "quote": "パソコンのペイントソフト並の豊富な機能の中から一部をご紹介します",
+    "url": "https://ibispaint.com/about.jsp",
+    "pass": 1
+   },
+   {
+    "quote": "新機能の紹介",
+    "url": "https://ibispaint.com/historyAndRights.jsp",
+    "pass": 1
+   },
+   {
+    "quote": "マンガ機能紹介",
+    "url": "https://ibispaint.com/historyAndRights.jsp",
+    "pass": 1
+   },
+   {
+    "quote": "新機能の紹介",
+    "url": "https://ibispaint.com/historyAndRights.jsp?newsID=313331619",
+    "pass": 1
+   },
+   {
+    "quote": "マンガ機能紹介",
+    "url": "https://ibispaint.com/historyAndRights.jsp?newsID=313331619",
+    "pass": 1
+   },
+   {
+    "quote": "新機能の紹介",
+    "url": "https://ibispaint.com/historyAndRights.jsp?newsID=310928458",
+    "pass": 1
+   },
+   {
+    "quote": "マンガ機能紹介",
+    "url": "https://ibispaint.com/historyAndRights.jsp?newsID=310928458",
+    "pass": 1
+   },
+   {
+    "quote": "新機能の紹介",
+    "url": "https://ibispaint.com/historyAndRights.jsp?newsID=309076693",
+    "pass": 1
+   },
+   {
+    "quote": "マンガ機能紹介",
+    "url": "https://ibispaint.com/historyAndRights.jsp?newsID=309076693",
+    "pass": 1
+   },
+   {
+    "quote": "新機能の紹介",
+    "url": "https://ibispaint.com/historyAndRights.jsp?newsID=306556365",
+    "pass": 1
+   },
+   {
+    "quote": "マンガ機能紹介",
+    "url": "https://ibispaint.com/historyAndRights.jsp?newsID=306556365",
+    "pass": 1
+   },
+   {
+    "quote": "新機能の紹介",
+    "url": "https://ibispaint.com/historyAndRights.jsp?newsID=303340270",
+    "pass": 1
+   },
+   {
+    "quote": "マンガ機能紹介",
+    "url": "https://ibispaint.com/historyAndRights.jsp?newsID=303340270",
+    "pass": 1
+   },
+   {
+    "quote": "各新機能の紹介は",
+    "url": "https://ibispaint.com/historyAndRights.jsp?newsID=303340270",
+    "pass": 1
+   },
+   {
+    "quote": "新機能の紹介",
+    "url": "https://ibispaint.com/historyAndRights.jsp?newsID=302590238",
+    "pass": 1
+   },
+   {
+    "quote": "マンガ機能紹介",
+    "url": "https://ibispaint.com/historyAndRights.jsp?newsID=302590238",
+    "pass": 1
+   },
+   {
+    "quote": "新機能の紹介",
+    "url": "https://ibispaint.com/historyAndRights.jsp?newsID=298222714",
+    "pass": 1
+   },
+   {
+    "quote": "マンガ機能紹介",
+    "url": "https://ibispaint.com/historyAndRights.jsp?newsID=298222714",
+    "pass": 1
+   },
+   {
+    "quote": "新機能の紹介",
+    "url": "https://ibispaint.com/historyAndRights.jsp?newsID=297238130",
+    "pass": 1
+   },
+   {
+    "quote": "マンガ機能紹介",
+    "url": "https://ibispaint.com/historyAndRights.jsp?newsID=297238130",
+    "pass": 1
+   },
+   {
+    "quote": "一方で、同社は任意の委員会として指名報酬委員会を設置して おり、その議長は独立取締役が勤め、各委員会 3 名",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を推進するためのベストパートナーとして技術を提供し、よりエキサイティングでスピーディな社会の創出の一役を担いたいという考えから以下の５つのポリシーを掲げております",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "の強みとなっており、ホームページを見た顧客からの直接受注獲得や受託開発の顧客からの紹介受注獲得に繋がっております",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "私自身のポジティブな変化としては、神谷さんにマーケティングの本をご紹介していただき、考え方が変わった部分がありますね",
+    "url": "https://prtimes.com/story/detail/ZrNWAnIpWEb",
+    "pass": 3
+   },
+   {
+    "quote": "アナリストレポート・上場会社紹介",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/9343.html",
+    "pass": 3
+   },
+   {
+    "quote": "ibisPaintの公式サイトでは、ユーザーの公開作品がランキング形式で紹介されている",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/9343.html",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "ソリューション事業では、インターネット端末用アプリの開発・運用保守及び、クラウドコンピューティングサービスである「アマゾン ウェブ サービス(AWS)」を用いたサーバ構築・移行・運用保守等の開発サービスを行なっております",
+    "url": "https://www.ibis.ne.jp/services/",
+    "pass": 3
+   },
+   {
+    "quote": "また、サーバ上で動作するアプリケーションに最適な設計を考慮したAWSでのサーバ構築や移行等から運用・保守及び新規事業への導入コンサルティング等も行っております",
+    "url": "https://www.ibis.ne.jp/services/",
+    "pass": 3
+   },
+   {
+    "quote": "通じたアプリユーザー向け広告収益とサブスクリプション収益である",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Paint」におけるサブスクリプション収益への注力及び成長と、アプリの現状を",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "同社は今後の成長戦略として、「ibisPaint」における有料サブスクリプションの",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "有料サブスクリプションの獲得については同社の既存ユーザー基盤 (MAU",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "IR Agents として今後注目したい点としては、① サブスクリプション契約数の",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サブスクリプション収益 198 330 687 1,123 1,559 1,956 契約数×契約単価として計算",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サブスクリプション契約数 (千件) 66 119 232 344 464 584 年間 120 千契約程度の増加を見込む",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "契約あたり単価 (円/人・年) 2,955 2,756 2,953 3,266 3,359 3,350 直近水準を踏まえて見通しを作成",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高 -- -- -- 75 140 180 連結は FY25/12 Q3 より 保守的に想定し利益貢献は見込まず",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "のユーザー基盤を持つ自社開発のモバイルペイントアプリ「ibisPaint」を通じたアプリユーザー向け広告収益とサブスク",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サブスクリプション 687 14.9% アプリの有料サブスク",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "アプリ課金の売上の内、サブスクリプション型の収",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、サブスク伸長へ舵を切ったのと同じタイミングで、広告費の抑制・効率化にも取り組み、利益成長を意識",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024 年には収益構造を広告からサブスクリプション重視へと転換し、収益の安定化を図",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "現在はモバイルペイントアプリ「ibisPaint」のアプリ広告収益と、サブスクリプション及び売切型のオプション/ライセ",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サブスクリプション",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サブスクリプション収益: 有料アカウント数 × 単価",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売切型収益: オプション/ライセンス販売数 × 単価",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "オプション/ライセンス販売数: 既存アクティブユーザー数の拡大、アプリ内広告を通じた誘導施策等",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サブスクリプション/売切の単価: 同社の価格戦略",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "続いて、アプリ広告に関して、ユーザー基盤が安定してきた現状としては単価変動により影響を受ける割合が大き",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "続いて、サブスクリプション収益に関して、単価は安定して年間 3,000 円程度 (これは同社の有料プランの価格と",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "戦略について触れることとなるが、約 650 万の DAU、約 4,000 万人の MAU に向けて、現状 23.2 万件のサブスクリ",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方、同社が主軸とする成長戦略は、サブスクリプションモデルの拡大にあり、今後、契約件数のさらなる増",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "加とともに課金構成の中でのサブスク比率はさらに高まる見通しであり、それに伴い売切型収益の相対的な構成",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１つは、広告非表示機能を含む追加機能や追加素材等の利用が可能となる定額課金型のプレミアム会員サービス（サブスクリプション課金）の提供であり、月額課金制と年額課金制の２種類の方法があります",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "両サービスは本セグメントのアプリ課金収入モデルにおける主な収益源となっており、当連結会計年度において、アプリ課金売上（サブスクリプション課金及び売切型アプリの合計）がアプリ広告売上をはじめて上回るなど、課金収入へのシフトが明確になってきております",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、2022年６月にリリースしましたWindows版ペイントアプリ「ibisPaint」については、当初は売切型アプリのみを販売しておりましたが、2024年３月に定額課金型のプレミアム会員サービス（サブスクリプション",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "そして、2025年８月にMac版をリリースし、プロユース×マルチデバイス展開の事業方針の元、サブスクリプション課金をはじめとするアプリ課金の成長を加速させております",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "通常、アプリビジネスは、サブスクリプション（定額課金）や購入（売切課金）をどれだけ獲得するかが鍵になると考えられています",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "１つはスマートフォンやタブレット端末などインターネット端末用のアプリケーション開発、クラウドサーバ環境構築及び運用保守等を提供している受託開発事業、そしてもう１つはシステムエンジニア等のIT技術者派遣事業です",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "受託開発事業は準委任契約（履行割合型・成果完成型）又は請負契約によるもので、モバイルアプリやWebアプリ等の開発や運用保守を受託しております",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "受託開発に係る売上はフロー型の収益モデルであり、運用保守に係る売上は受託開発したアプリ等の運用保守が継続する限りは安定的に収益が見込めるストック型の収益モデルであります",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドコンピューティングを用いたサーバ環境構築・移行・運用保守については原則として当社内のみで行っており、収益モデルはアプリの受託開発・運用保守と同様であります",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "から運用・保守及び新規事業への導入コンサルティング等も行っております",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "前者に係る売上はフロー型の収益モデルであり、後者に係る売上はストック型の収益モデルとなっております",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "またサブスクリプション課金などによるマネタイズの強化にも取り組み、収益の持続的な成長を図りました",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "国内外の著名アーティストによるボイスライブラリの充実、モバイル領域への展開、そしてサブスクリプション型の安定収益モデルの構築に取り組みました",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "これらの新機能の一部はプレミアム会員限定で提供され、リリース直後からサブスクリプション契約数の増加に寄与するとともに、中長期的な契約数の増加にもつながっており、収益面においても一定の成果を挙げております",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "サブスクリプション",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、広告市況については軟調な動きが見られ、加えて広告配信アルゴリズムの変化による影響も重なり、「eCPM（広告単価）」は下振れし、",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "一方、アプリ課金の中では、サブスクリプションが好調を維持しており、各種新機能・新サービスの追加や既存ユーザー向けの契約促進施策が功を奏し、",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "売切型アプリについては、モバイル向け・PC向けともにサブスクリプションへの誘導が進んだため、",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、第３四半期連結累計期間において、アプリ課金売上（サブスクリプション及び売切型アプリの合計）がアプリ広告売上を上回り、この傾向は第４四半期累計期間でも継続いたしました",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "受託開発事業では、継続的なライセンス提供により安定した売上を確保し、音声合成及び歌声合成のマルチタスクモデルに関する先進的な研究開発を行いました",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "※２．Apple Inc.はプラットフォーム提供会社であり、同社に対する販売実績は、当社の提供するアプリの利用者（ユーザー）にかかる利用料等であります",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "これは主にモバイル事業において、主力アプリ「ibisPaint」シリーズの利用者基盤が拡大し、プレミアム会員サービスの契約者数が堅調に増加したことに伴い、月額課金型サブスクリプション売上が安定的に積み上がったことによるものであります",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "これは主に開発人員の増加に伴う人件費、アクティブユーザー増加に伴うサーバ利用料等の通信費及び連結子会社取得に伴う費用",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "これは主にモバイル事業におけるサブスクリプション売上及び課金売上の拡大に伴う支払手数料によります",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "２．Apple Inc.はプラットフォーム提供会社であり、同社に対する販売実績は、当社の提供するアプリの利用者（ユーザー）にかかる利用料等であります",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "長らく種をまいてきたibisPaintは、アプリ内広告に続き有料版のサブスク収入なども伸び、順調に“刈り取り”の時期を迎えている",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/9343.html",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "特に受託開発サービスでは、2000年初頭のモバイル黎明期から培ったこれらアプリの開発技術やリリース、運用ノウハウを有していることがソリューション事業としての強みにもなっており、企画段階やユーザーインターフェース（UI）/ユーザーエクスペリエンス（UX） に関するご相談にも対応することができる他、アプリと連携するバックエンドのWebシステム等も含めた設計から開発・運用までを自社においてワンストップで開発することが可能となっております",
+    "url": "https://www.ibis.ne.jp/services/",
+    "pass": 3
+   },
+   {
+    "quote": "アイビス (9343) はモバイル向けアプリの開発力に強みを持つ IT 企業であ",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上総利益率 7 60.4 %",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率 7 25.0 %",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率 (%) 6.4 10.6 25.0 24.9 29.8 30.8",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "粗利率 (%) 69.7% 63.5% 60.4% 61.0% 62.0% 62.0%",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率 (%) 6.5% 10.6% 25.0% 24.9% 29.8% 30.8%",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "アイビス (9343) はモバイル向けアプリの開発力に強みを持つ IT 企業であり、自社プロダクトを扱うモバイル事業と、",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "アイビス （9343） はモバイルアプリ開発に強みを持ち、「ibisPaint」など自社製品を扱うモバイル事業と、受託開発・IT",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "能なアプリの先行者優位とユーザーの定着が、強力な参入障壁と利益の源泉となっている",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "機能の蓄積や築き上げたユーザー基盤等の要素は後発がキャッチアップすることは難しいと考えられ、 参入障壁が",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "れるため、当該ポジションが非常に持続的な強みや利益の源泉となっている かについて IR Agents として評価する",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "モバイル事業において、「ibisPaint」はアマチュア・若年層に強みを持ち、競合比でも大きなユーザー基盤を持つことは",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "◼ 営業利益率の改善を通して、利益面に関しては売上以上の成長を目指す",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サブスク収益を今後の軸として成長していくことに違和感は無いが、アプリ広告収益も 非常に高収益な事業であ",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "り、同社の強みを維持するための開発投資を支える事業であることも間違いないため、実績としてアプリ広告収益",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "のアプリ」を提供、という部分に、当社の一番の強みがあります",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "としての強みにもなっており、企画段階やユーザーインターフェース（UI）/ユーザーエクスペリエンス（UX） に関するご相談にも対応することができるほか、アプリと連携するバックエンドのWebシステム等も含めた設計から開発・運用までを自社においてワンストップで開発することが可能となっております",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "の強みとなっており、ホームページを見た顧客からの直接受注獲得や受託開発の顧客からの紹介受注獲得に繋がっております",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "強みを最大限生かせる好機をとらえ、ガラケー全盛期の2005年には、パソコン並みの表示ができる高性能Webブラウザ「ibisBrowser（アイビスブラウザ）」をリリース",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/9343.html",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2000年初頭のNTTドコモのi-modeが発表された時代に創業したアイビスでは、当時のまだまだPCが優位な時代において、モバイル分野に特化した製品開発・サービスを次々とリリースしていきました",
+    "url": "https://www.ibis.ne.jp/services/",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年 4 月 30 日",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024 年 12 月期の業績は売上高 4,625 百万円 (前年比+13.2%)、営業利益",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024 年 12 月期には減少傾向となった点は気がかりである",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3. 沿革・ビジョン p.5",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024 年末には AI 歌声合成アプリ「VoiSona」を手がけるテクノスピーチ社を買収し、新たな事業領域にも参入 した",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "沿革・ビジョン",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本項では同社の沿革や成り立ちから、会社として目指しているビジョンがどこにあるのかについて説明する",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業の成り立ち・沿革",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024 年には収益構造を広告からサブスクリプション重視へと転換し、収益の安定化を図",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024 年 12 月期に関して IT エンジニア数は 240 人で横ばいとなり、2025 年 12 月期に関しては 233 人と同社は減",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024 年は売上 13.2%増・営業利益 166.1%増と好調で、サブスクリプションが前年の 2 倍以上に伸び全体を牽引",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年は売上・利益ともに成長率が鈍化",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2019 年有償第 1 回 同社取締役 609 円 150,000 株 4.09%",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2019 年無償第 1 回 同社従業員 609 円 5,882 株 0.15%",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021 年無償第 1 回 同社取締役・従業員 1,290 円 60,000 株 1.63%",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2000年初頭のNTTドコモのi-modeが発表された時代に創業したアイビス",
+    "url": "https://www.ibis.ne.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "2000年5月11日（平成12年）",
+    "url": "https://www.ibis.ne.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "沿革はこちら",
+    "url": "https://www.ibis.ne.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期有価証券報告書より",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月末現在、「ibisPaint」の累計ダウンロード数において、海外比率は全体の93.9％に達しており、日本国内のダウンロード数を著しく上回っております",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "1990年代中盤以降に生まれた世代が",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "2025年３月５日に実施した大型のアップデートでは、ユーザーがオリジナルのブラシパターンを作成・共有できる「オリジナルブラシパターン機能」や、選択範囲内の閉じた領域を指定色で瞬時に塗りつぶしたり、塗りを削除したりできる「塗りつぶしツール：囲って塗る・囲って消す」など全部で９つの新機能をリリースいたしました",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "2025年１月１日",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月31日",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月7日 12時00分",
+    "url": "https://prtimes.com/story/detail/ZrNWAnIpWEb",
+    "pass": 3
+   },
+   {
+    "quote": "2022年にはBtoCブランド「VoiSona」をリリースし、リアルな歌声を生成できるアプリとして注目を集めています",
+    "url": "https://prtimes.com/story/detail/ZrNWAnIpWEb",
+    "pass": 3
+   },
+   {
+    "quote": "2026年2月12日 11時00分",
+    "url": "https://prtimes.com/story/detail/ZrNWAnIpWEb",
+    "pass": 3
+   },
+   {
+    "quote": "2025年5月7日 11時00分",
+    "url": "https://prtimes.com/story/detail/ZrNWAnIpWEb",
+    "pass": 3
+   },
+   {
+    "quote": "2022年、日本企業発のアプリとして、世界のアクティブ・ユーザ数で2位を達成※",
+    "url": "https://prtimes.com/story/detail/ZrNWAnIpWEb",
+    "pass": 3
+   },
+   {
+    "quote": "2023年6月29日 15時00分",
+    "url": "https://prtimes.com/story/detail/ZrNWAnIpWEb",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月13日 20時37分",
+    "url": "https://prtimes.com/story/detail/ZrNWAnIpWEb",
+    "pass": 3
+   },
+   {
+    "quote": "2026年9月30日 17時30分",
+    "url": "https://prtimes.com/story/detail/ZrNWAnIpWEb",
+    "pass": 3
+   },
+   {
+    "quote": "2026年9月14日 17時00分",
+    "url": "https://prtimes.com/story/detail/ZrNWAnIpWEb",
+    "pass": 3
+   },
+   {
+    "quote": "2026年9月8日 09時24分",
+    "url": "https://prtimes.com/story/detail/ZrNWAnIpWEb",
+    "pass": 3
+   },
+   {
+    "quote": "2024年02月07日 10時00分",
+    "url": "https://prtimes.com/story/detail/ZrNWAnIpWEb",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月26日 10時00分",
+    "url": "https://prtimes.com/story/detail/ZrNWAnIpWEb",
+    "pass": 3
+   },
+   {
+    "quote": "2024年06月04日 19時00分",
+    "url": "https://prtimes.com/story/detail/ZrNWAnIpWEb",
+    "pass": 3
+   },
+   {
+    "quote": "2023年11月17日 12時05分",
+    "url": "https://prtimes.com/story/detail/ZrNWAnIpWEb",
+    "pass": 3
+   },
+   {
+    "quote": "2020年09月11日 12時00分",
+    "url": "https://prtimes.com/story/detail/ZrNWAnIpWEb",
+    "pass": 3
+   },
+   {
+    "quote": "1992年、技術者育成で名高い名古屋工業大学へ進学するころには、将来ITで起業する意志は固まっていた",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/9343.html",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4. ビジネスモデル p.6",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、把握しておくべき事業上の転換点として、2024 年から収益モデルを無料ユーザー向けのアプリ広告収益からサ",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "同社は収益構造上「ibisPaint」の会社という印象が強い",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024 年には収益構造を広告からサブスクリプション重視へと転換し、収益の安定化を図",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本項では同社のビジネスモデルについて説明する",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "以下、それぞれの事業についてビジネスモデル等を説明する",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "アイビスのビジネスモデルは、主に「ibisPaint」を中心としたモバイル事業と、IT 人材を活用したソリューション事業か",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【事業の収益構造】",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出典: 経済産業省『音楽産業の新たな時代に即したビジネスモデルの在り方に関する報告書』 (2024 年 7 月)",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "掲げているが、ビジネスモデル等から財務の懸念は非常に小さく、中長期的な還元拡大を期待したい",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "同社はストック性が高く、大きな設備投資が不要なビジネスモデルであること、2024/12 期実績で 25.0%という高い利",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サブスクリプション型収益モデル (toC)",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024/12 期に発生したように、広告収益に基づくビジネスモデルはマクロの景気等への連動性や、広告配信プラッ",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "より株式市場におけるビジネスモデルに対する評価が変わり得ることについては意識したいと IR Agents では結",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を抑えることで、株式市場でのビジネスモデル評価が向上する可能性がある",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "モバイルセグメントに関する事業系統図は、次のとおりであります",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "■ ビジネスモデル",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "上記、アプリ課金収入及びアプリ広告売上については、ユーザーの獲得・維持が収益構造の源泉となっております",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューションセグメントに関する事業系統図は、次のとおりであります",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "受託開発に係る売上はフロー型の収益モデルであり、運用保守に係る売上は受託開発したアプリ等の運用保守が継続する限りは安定的に収益が見込めるストック型の収益モデルであります",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドコンピューティングを用いたサーバ環境構築・移行・運用保守については原則として当社内のみで行っており、収益モデルはアプリの受託開発・運用保守と同様であります",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "IT技術者派遣事業は、当社が無期雇用契約を締結したシステムエンジニア等の技術者を、労働者派遣契約に基づき、顧客である求人企業（派遣先企業）に派遣し、その人材派遣料を収益源とするビジネスモデルであります",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "AI歌声合成セグメントに関する事業系統図は、次のとおりであります",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "前者に係る売上はフロー型の収益モデルであり、後者に係る売上はストック型の収益モデルとなっております",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "国内外の著名アーティストによるボイスライブラリの充実、モバイル領域への展開、そしてサブスクリプション型の安定収益モデルの構築に取り組みました",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "を上回り、課金収入が主軸の収益構造が明確になってきております",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、当社グループの収益構造は、従来のモバイル事業中心に加えて、技術関連資産も活用した収益構造へと拡張しております",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント情報 FY 2022 FY 2023 FY 2024 FY 2025 FY 2026 FY 2027 補足・前提",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント費用 1,773 1,696 1,269 1,357 1,537 1,740 広告宣伝費は増えないものの一部開発投資分が継続して増加",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント利益 391 759 1,342 1,521 2,037 2,231",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント利益 161 90 275 274 288 303 13%程度のセグメント利益率を継続",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント利益 -- -- -- △75 △80 △40 のれん償却が上乗せされる想定で利益貢献を見込まず",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント利益合計 552 849 1,617 1,721 2,245 2,494",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "項目 (単位: 百万円) 売上高 構成比 営業利益 構成比 詳細",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "モバイル事業 2,611 56.4% 1,342 116.2% 自社製品を扱うセグメント",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューション事業 2,014 43.6% 275 23.8% 他社案件を扱うセグメント",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "同社の事業セグメントはモバイル事業 (売上構成比 56%, 営業利益構成比 116%)、ソリューション事業 (売上構成比",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "44%、営業利益構成比 24%) から成っている",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【セグメント概要】",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "収益構成比は以下の通りである",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "モバイル事業 売上構成比 (2024年12月期)",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "単位: 百万円 (カッコ内は構成比)",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "単位: 百万円 (カッコ内はセグメント売上比)",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューション事業 売上構成比 (2024年12月期)",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント利益 (百万円)",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1 人あたり売上高: 受託開発と IT 技術者派遣の構成比、市場の需給環境、稼働率等",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "連結前の 2024 年 6 月期における収益構成比は以下の通りである",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "AI歌声合成事業 売上構成比 (2024年6月期)",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "各セグメントの費用構造については上記で触れたが、",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "全社費用は各報告セグメントに配分していない費用であり、",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "主に報告セグメントに帰属しない一般管理費であるが、",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ォンの保有割合、デジタル系分野の BtoC-EC 市場における「その他」の構成比率、同社実施の調査に基づくデジタ",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "財務諸表 注記事項」に揚げるセグメント情報の区分と同一であります",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "※ 売上構成比は2025年12月期の実績を基に算出しております",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "(1) モバイルセグメント",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "モバイルセグメントは、当社",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "サービス運営、さらには「ibisPaint」で制作された全世界のユーザーコンテンツに発表の場を与えるオンラインギャラリー「ibispaint.com」の運営を行う事業セグメントであります",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "モバイルセグメントに関する事業系統図は、次のとおりであります",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "SSP事業者への広告枠の提供は本セグメントの広告ビジネスにおける主な収益源となっております",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "両サービスは本セグメントのアプリ課金収入モデルにおける主な収益源となっており、当連結会計年度において、アプリ課金売上（サブスクリプション課金及び売切型アプリの合計）がアプリ広告売上をはじめて上回るなど、課金収入へのシフトが明確になってきております",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "※ 売上高及び売上構成比は2025年12月期の実績を基に算出しております",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "モバイルセグメントでは、モバイル最適化、優秀なエンジニア、スピードへのこだわりが三位一体となって、「ibisPaint」の開発力・サービス運営において他社製品との差別化を図っております",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "(2) ソリューションセグメント",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューションセグメントでは大きく分けて２つの事業を展開しております",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "その豊富かつ高度な技術力を受託開発やIT技術者派遣として企業向けに提供を行う事業セグメントであります",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューションセグメントに関する事業系統図は、次のとおりであります",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "情報通信技術の発展によるDXや多様なITサービスが展開されている中において、IT人材の需要は今後も高まる傾向が見込まれるため、引き続き本セグメントを拡大していく方針であります",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "(3) AI歌声合成セグメント",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "AI歌声合成セグメントは、AI音声合成技術関連事業を展開する株式会社テクノスピーチ（2025年１月31日に完全子会社化）のBtoC向けのAI歌声合成アプリ「VoiSona（ボイソナ）」事業とBtoB向けの受託開発事業の２つを手掛けるセグメントとなり、当連結会計年度第２四半期より損益の連結計上を開始しております",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "AI歌声合成セグメントに関する事業系統図は、次のとおりであります",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "※ 売上構成比上のVoiSonaには、便宜上、同じBtoC領域のCeVIOの売上高と、VoiSona及びCeVIO向けボイスライブラリ制作の売上高が含まれております",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "それでも売上ベースでモバイルセグメントの7割超、ダウンロード数に占めるシェアでは9割を超えるというibisPaintの海外ユーザー獲得に、グローバルな発信力を持つ日本のコンテンツが味方したのは間違いない",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/9343.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社の急成長を牽引し、広告収入がモバイルセグメントの年商の6割を稼ぎ出す大ヒットアプリに育ったibisPaintだが、2011年のリリースから1、2年は「エンジニア1人分の人件費もまかなえない程度の売上」（神谷さん）が続いていたという",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/9343.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "事業情報 - 株式会社 アイビス — 事業情報 - 株式会社 アイビス 株式会社アイビス https://www.ibis.ne.jp > services",
+    "url": "https://www.ibis.ne.jp/services/",
+    "pass": 3
+   },
+   {
+    "quote": "アイビス (9343) — アイビス (9343) finance-frontend-pc-dist.west.edge.storage-yahoo.jp PDF https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp > ...",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容 - 株式会社アイビス — 事業内容 - 株式会社アイビス ibis-h.com https://www.ibis-h.com > brand",
+    "url": "https://www.ibis-h.com/brand/",
+    "pass": 3
+   },
+   {
+    "quote": "アイビス ir資料 ビジネスモデル のスライドデザイン - スラデザ — アイビス ir資料 ビジネスモデル のスライドデザイン - スラデザ スラデザ https://design-sli.de > 資料の種類 > ir資料",
+    "url": "https://design-sli.de/slide/9148",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 - 株式会社 アイビス — 決算説明資料 - 株式会社 アイビス 株式会社アイビス https://www.ibis.ne.jp > IR情報",
+    "url": "https://www.ibis.ne.jp/ir/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 - 株式会社 アイビス — IR情報 - 株式会社 アイビス 株式会社アイビス https://www.ibis.ne.jp > ...",
+    "url": "https://www.ibis.ne.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 ｜IR情報｜株式会社 アイビス ホールディングス — 決算説明資料 ｜IR情報｜株式会社 アイビス ホールディングス 株式会社アイビスホールディングス https://ibisholdings.co.jp > library > presentation",
+    "url": "https://ibisholdings.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アイビス - ログミーファイナンス - logmi Finance — 株式会社 アイビス - ログミーファイナンス - logmi Finance ログミーFinance https://finance.logmi.jp > companies",
+    "url": "https://finance.logmi.jp/companies/4144",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アイビス （IR/広報） (@ibis_PR) / X — 株式会社 アイビス （IR/広報） (@ibis_PR) / X X https://x.com > ibis_PR",
+    "url": "https://x.com/ibis_PR",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 - 株式会社 アイビス — 企業情報 - 株式会社 アイビス 株式会社アイビス https://www.ibis.ne.jp > company",
+    "url": "https://www.ibis.ne.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "アイビス 【9343】の 事業 内容 - キタイシホン — アイビス 【9343】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/9343/business",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アイビス 2024年12月期 オンライン決算説明会 — 株式会社 アイビス 2024年12月期 オンライン決算説明会 YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=szmaR0UdI6E",
+    "pass": 3
+   },
+   {
+    "quote": "アイビス 、世界累計ダウンロード数2.9億回の人気ペイント ... — アイビス 、世界累計ダウンロード数2.9億回の人気ペイント ... ログミーファイナンス https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/378512",
+    "pass": 3
+   },
+   {
+    "quote": "代表挨拶| 株式会社 アイビス 採用 — 代表挨拶| 株式会社 アイビス 採用 株式会社アイビス https://www.ibis.ne.jp > 採用情報",
+    "url": "https://www.ibis.ne.jp/recruit/greeting/",
+    "pass": 3
+   },
+   {
+    "quote": "アイビス社長 メッセージ｜ibisPaintのビジネスモデルと成長戦略 — アイビス社長 メッセージ｜ibisPaintのビジネスモデルと成長戦略 YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=hlaFnxdv7Xo",
+    "pass": 3
+   },
+   {
+    "quote": "第463回 神谷栄治氏（株式会社 アイビス 代表取締役 社長 ）【後… — 第463回 神谷栄治氏（株式会社 アイビス 代表取締役 社長 ）【後… Apple Podcasts https://podcasts.apple.com > podcast > 第463回-神谷栄治...",
+    "url": "https://podcasts.apple.com/eg/podcast/%E7%AC%AC463%E5%9B%9E-%E7%A5%9E%E8%B0%B7%E6%A0%84%E6%B2%BB%E6%B0%8F-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%82%A4%E3%83%93%E3%82%B9%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9%E7%A4%BE%E9%95%B7-%E5%BE%8C%E7%B7%A8/id1188969522?i=1000739297163",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://ibispaint.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ibispaint.com/about.jsp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ibispaint.com/historyAndRights.jsp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ibispaint.com/historyAndRights.jsp?newsID=313331619",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ibispaint.com/historyAndRights.jsp?newsID=310928458",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ibispaint.com/historyAndRights.jsp?newsID=309076693",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ibispaint.com/historyAndRights.jsp?newsID=306556365",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ibispaint.com/historyAndRights.jsp?newsID=303340270",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ibispaint.com/historyAndRights.jsp?newsID=302590238",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ibispaint.com/historyAndRights.jsp?newsID=298222714",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ibispaint.com/historyAndRights.jsp?newsID=297238130",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.ibis.ne.jp/services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ibis.ne.jp/ir/presentations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ibis.ne.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ibis.ne.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/9343/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.com/story/detail/ZrNWAnIpWEb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/9343.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "アイビス",
+   "results": [
+    "https://ibispaint.com/",
+    "https://play.google.com/store/apps/details?id=jp.ne.ibis.ibispaintx.app&hl=ja",
+    "https://www.ibis.ne.jp/",
+    "https://x.com/ibisPaint",
+    "https://apps.apple.com/jp/app/%E3%82%A2%E3%82%A4%E3%83%93%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%B3%E3%83%88x/id450722833",
+    "https://www.youtube.com/channel/UCo2EevPr79_Ux66GACESAkQ",
+    "https://ja.wikipedia.org/wiki/アイビス_(ソフトウェア会社)",
+    "https://www.ibis.ne.jp/company/",
+    "https://ibsnet.co.jp/",
+    "https://ibispaint.com/?lang=ja"
+   ]
+  },
+  {
+   "query": "アイビス ビジネスモデル",
+   "results": [
+    "https://www.ibis.ne.jp/services/",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "https://finance.logmi.jp/articles/380505",
+    "https://www.ibis-h.com/brand/",
+    "https://design-sli.de/slide/9148",
+    "https://note.com/kabuberry_/n/n0a1bc6b433a2",
+    "https://kitaishihon.com/company/9343/business",
+    "https://prtimes.com/story/detail/jbAJpdiggMB",
+    "https://consovation.com/株式会社アイビスのビジネスモデルを徹底解説-最/",
+    "https://www.ibis.ne.jp/company/"
+   ]
+  },
+  {
+   "query": "アイビス 決算説明資料",
+   "results": [
+    "https://www.ibis.ne.jp/ir/presentations/",
+    "https://www.ibis.ne.jp/ir/",
+    "https://ibisholdings.co.jp/ir/library/presentation/",
+    "https://finance.logmi.jp/companies/4144",
+    "https://x.com/ibis_PR",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260512/20260512524366.pdf",
+    "https://ibisholdings.co.jp/ir/",
+    "https://www.youtube.com/watch?v=L6lRSqglBXI"
+   ]
+  },
+  {
+   "query": "アイビス 事業系統図",
+   "results": [
+    "https://www.ibis.ne.jp/company/",
+    "https://kitaishihon.com/company/9343/business",
+    "https://www.youtube.com/watch?v=szmaR0UdI6E",
+    "https://finance.logmi.jp/articles/378512",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf",
+    "https://ibispaint.com/infoCompany.jsp",
+    "https://i-bis.jp/company/",
+    "https://design-sli.de/slide/9148",
+    "https://www.ibis-japan.co.jp/"
+   ]
+  },
+  {
+   "query": "アイビス 社長 インタビュー",
+   "results": [
+    "https://prtimes.com/story/detail/ZrNWAnIpWEb",
+    "https://www.jpx.co.jp/listing/ir-clips/interview/detail/9343.html",
+    "https://www.ibis.ne.jp/recruit/greeting/",
+    "https://www.youtube.com/watch?v=hlaFnxdv7Xo",
+    "https://podcasts.apple.com/eg/podcast/%E7%AC%AC463%E5%9B%9E-%E7%A5%9E%E8%B0%B7%E6%A0%84%E6%B2%BB%E6%B0%8F-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%82%A4%E3%83%93%E3%82%B9%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9%E7%A4%BE%E9%95%B7-%E5%BE%8C%E7%B7%A8/id1188969522?i=1000739297163",
+    "https://android-developers-jp.googleblog.com/2025/04/weareplay-interview-series-meet-ibis.html",
+    "https://shachomeikan.jp/article/1972",
+    "https://www.ibis.ne.jp/ir/message/",
+    "https://note.com/ibisjapan",
+    "https://www.ibis.ne.jp/20260212-prtimesstory-interview/"
+   ]
+  }
+ ],
+ "missing": {}
+}

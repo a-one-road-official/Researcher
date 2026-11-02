@@ -1,0 +1,2350 @@
+{
+ "name": "Caterham Cars",
+ "aliases": [
+  "Caterham",
+  "ケータハム"
+ ],
+ "context": "少量生産・ワンメイクレース（英）",
+ "researched_at": "2026-11-02T17:40:21.313051+00:00",
+ "official_url": "https://www.caterhamcars.com",
+ "identified_by": "given",
+ "profile": {
+  "従業員数": [
+   {
+    "label": "Key people",
+    "value": "Kazuho Takahashi (CEO) [ 2 ]",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "ライセンス・ブランド": [
+   {
+    "quote": "If you’re aged 16+ and don’t hold a race licence, the Caterham Academy is your route onto the grid! ✅",
+    "url": "https://caterhamcars.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "Caterham Cars Announce Strategic Partnership with Würth UK to Enhance Manufacturing Operations",
+    "url": "https://caterhamcars.com/ja?view=article&id=40:news&catid=9",
+    "pass": 1
+   },
+   {
+    "quote": "Caterham Takes to the Track in Miami with Precision Drive Club Partnership",
+    "url": "https://caterhamcars.com/ja?view=article&id=40:news&catid=9",
+    "pass": 1
+   },
+   {
+    "quote": "Caterham and Motul renew their partnership focused on performance",
+    "url": "https://caterhamcars.com/ja?view=article&id=40:news&catid=9",
+    "pass": 1
+   },
+   {
+    "quote": "Miami, Meet Caterham: Walt Grace Vintage Becomes the Brand’s Newest USA Dealer",
+    "url": "https://caterhamcars.com/ja?view=article&id=40:news&catid=9",
+    "pass": 1
+   },
+   {
+    "quote": "The Caterham Motorsport 2027 calendar is officially here, promising another year of thrilling races across all championships. For next year, we have decided to bring our championships together at almost every round.",
+    "url": "https://caterhamcars.com/ja/news/2027-caterham-motorsport-calendar-announced",
+    "pass": 1
+   },
+   {
+    "quote": "2027 sees our Academy Championship return to the fabled Curborough Sprint Course on the 2 and 3 of April, following their pre-season introduction to motorsport program, including the Academy seminar, ARDS day, and exclusive track day at Lydden Hill.",
+    "url": "https://caterhamcars.com/ja/news/2027-caterham-motorsport-calendar-announced",
+    "pass": 1
+   },
+   {
+    "quote": "In an exciting update for the new season, the previous Roadsport Championship has now been officially rebranded as the Clubsport Championship, as the Caterham Motorsport Horse HR13 engine takes its next step up the championship ladder.",
+    "url": "https://caterhamcars.com/ja/news/2027-caterham-motorsport-calendar-announced",
+    "pass": 1
+   },
+   {
+    "quote": "Our first race weekend with all championships takes place on 24 and 25 April at Snetterton, shortly after our official Media Day. From there, the paddock will travel together to some of the UK’s most spectacular circuits, tackling the coastal twists of Anglesey in May, the challenging Croft circuit in June, and the iconic Brands Hatch in July.",
+    "url": "https://caterhamcars.com/ja/news/2027-caterham-motorsport-calendar-announced",
+    "pass": 1
+   },
+   {
+    "quote": "A standout highlight of the 2027 season is the much-anticipated international away round. While our Academy drivers take a mid-summer break, our Clubsport, Seven 270R, Seven 310R, and Seven Championship UK grids will cross the channel to the Netherlands on 24 and 25 July, taking on the legendary banking of Zandvoort.",
+    "url": "https://caterhamcars.com/ja/news/2027-caterham-motorsport-calendar-announced",
+    "pass": 1
+   },
+   {
+    "quote": "Included as part of iRacing’s recently announced ‘Season 4’ upgrade, the Caterham Academy and the 420R race cars allow fans of the sim-racing platform the chance to experience the brand's iconic lightweight sports car in the virtual world for the first time.",
+    "url": "https://caterhamcars.com/ja/news/caterham-cars-makes-its-debut-on-iracing,-the-world%E2%80%99s-largest-sim-racing-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Established in 2003, iRacing is the world’s leading online racing platform. Featuring over 180 officially licensed cars and more than 150 race circuits, it is currently enjoyed by more than 350,000 sim racers and gamers around the globe.",
+    "url": "https://caterhamcars.com/ja/news/caterham-cars-makes-its-debut-on-iracing,-the-world%E2%80%99s-largest-sim-racing-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Offering intoxicating performance, the track-only 420R race car features a naturally aspirated 2.0-litre Ford Duratec motorsport-tuned engine producing 180bhp, mated to a six-speed SADEV sequential gearbox and Nova Motorsport slick tyres, delivering exceptional levels of grip and driver engagement. Prices for the Seven 420R race car start at £53,990 in the UK or €59,995 in Europe.",
+    "url": "https://caterhamcars.com/ja/news/caterham-cars-makes-its-debut-on-iracing,-the-world%E2%80%99s-largest-sim-racing-platform",
+    "pass": 1
+   },
+   {
+    "quote": "All 12 vehicles are finished in a bespoke Aqua paint and Miami Special Edition decal pack in Vibrant Pink and White. To finish the exterior design, the use of the official Miami script and silhouette of the Miami International Autodrome circuit features on the rear of the car.",
+    "url": "https://caterhamcars.com/ja/news/seven-miami-special-edition-meets-monterey",
+    "pass": 1
+   },
+   {
+    "quote": "The bespoke aesthetics continue throughout the interior with the Miami script embroidered on the headrests, and an individually numbered plaque located on the dashboard.",
+    "url": "https://caterhamcars.com/ja/news/seven-miami-special-edition-meets-monterey",
+    "pass": 1
+   },
+   {
+    "quote": "With two of our Miami Special Edition Sevens being offered at the Bonhams auction, and our team attending events throughout the week including Monterey British, we will have a valuable opportunity to showcase the brand and meet both existing and new contacts.",
+    "url": "https://caterhamcars.com/ja/news/seven-miami-special-edition-meets-monterey",
+    "pass": 1
+   },
+   {
+    "quote": "“Our attendance is deliberately focused on being present, building relationships and exploring opportunities with prospective dealers, partners and those involved in the motorsport community. As we continue to develop Caterham’s presence in the US, Monterey provides the ideal setting to introduce more people to the brand and strengthen the connections that will support our future growth.”",
+    "url": "https://caterhamcars.com/ja/news/seven-miami-special-edition-meets-monterey",
+    "pass": 1
+   },
+   {
+    "quote": "Caterham Cars Announce Strategic Partnership with Würth UK to Enhance Manufacturing Operations | Caterham Cars",
+    "url": "https://caterhamcars.com/ja/news/caterham-cars-announce-strategic-partnership-with-w%C3%BCrth-uk-to-enhance-manufacturing-operations",
+    "pass": 1
+   },
+   {
+    "quote": "Caterham Cars Announce Strategic Partnership with Würth UK to Enhance Manufacturing Operations",
+    "url": "https://caterhamcars.com/ja/news/caterham-cars-announce-strategic-partnership-with-w%C3%BCrth-uk-to-enhance-manufacturing-operations",
+    "pass": 1
+   },
+   {
+    "quote": "Caterham Cars is pleased to announce a new strategic partnership with Würth UK, one of the UK's leading suppliers of assembly tools, fastening technology and workshop solutions. The collaboration marks an important step in further enhancing the efficiency, precision and quality of Caterham's manufacturing operations at its Dartford facility.",
+    "url": "https://caterhamcars.com/ja/news/caterham-cars-announce-strategic-partnership-with-w%C3%BCrth-uk-to-enhance-manufacturing-operations",
+    "pass": 1
+   },
+   {
+    "quote": "The partnership was formally signed at the prestigious ADAC 24-Hour Race at the Nürburgring, one of motorsport's most iconic events. To mark the occasion, Würth UK hosted a brand activation within the Caterham Nürburgring showroom, while Würth UK Managing Director, Omar Edris, joined the pre-race parade on the world-famous Nordschleife in Caterham's recently launched Seven 340 Nürburgring Edition.",
+    "url": "https://caterhamcars.com/ja/news/caterham-cars-announce-strategic-partnership-with-w%C3%BCrth-uk-to-enhance-manufacturing-operations",
+    "pass": 1
+   },
+   {
+    "quote": "Personal protective equipment (PPE) and safety products",
+    "url": "https://caterhamcars.com/ja/news/caterham-cars-announce-strategic-partnership-with-w%C3%BCrth-uk-to-enhance-manufacturing-operations",
+    "pass": 1
+   },
+   {
+    "quote": "The Caterham and Würth partnership reflects a commitment to supporting performance both on the track and behind the scenes, combining Caterham's iconic driving experience with Würth's expertise in workshop products, systems and solutions.",
+    "url": "https://caterhamcars.com/ja/news/caterham-cars-announce-strategic-partnership-with-w%C3%BCrth-uk-to-enhance-manufacturing-operations",
+    "pass": 1
+   },
+   {
+    "quote": "We are pleased to announce the appointment of three new official retailers across Europe: Caterham Noville in Switzerland, Caterham Barcelona in Spain, and Caterham Colmar in France. This triple appointment further strengthens the brand’s European footprint, bringing the iconic Seven closer to driving enthusiasts in key regional markets.",
+    "url": "https://caterhamcars.com/ja/news/caterham-expands-european-network-with-three-new-retailer-appointments",
+    "pass": 1
+   },
+   {
+    "quote": "Julien Paques, Managing Director of PJ Sportscars (Caterham Colmar), said: \"We are particularly proud and thrilled to officially represent the Caterham brand in Eastern France, and to offer our customers a comprehensive experience, from vehicle sales to authorized after-sales service.",
+    "url": "https://caterhamcars.com/ja/news/caterham-expands-european-network-with-three-new-retailer-appointments",
+    "pass": 1
+   },
+   {
+    "quote": "Our ambition is to expand Caterham's footprint nationwide — both within our dealership and during enthusiast gatherings, track days, or motorsport events. We look forward to sharing with the brand’s enthusiasts the pure joy of driving that makes Caterham legendary.\"",
+    "url": "https://caterhamcars.com/ja/news/caterham-expands-european-network-with-three-new-retailer-appointments",
+    "pass": 1
+   },
+   {
+    "quote": "For more information about Caterham's European retailers, or to find your nearest dealership, please visit our",
+    "url": "https://caterhamcars.com/ja/news/caterham-expands-european-network-with-three-new-retailer-appointments",
+    "pass": 1
+   },
+   {
+    "quote": "Motorsport fans attending the event can see the model at the Caterham Nürburgring dealership and on the Bilstein stand in the paddock across the weekend.",
+    "url": "https://caterhamcars.com/ja/news/100-years-of-the-ring-one-seven-caterham-unveils-the-nurburgring-limited-edition",
+    "pass": 1
+   },
+   {
+    "quote": "The vehicle will be finished in a bespoke Aqua custom paint with a unique Miami Special Edition decal pack in Vibrant Pink and White. To finish the exterior design, the iconic Miami script and silhouette of the circuit features on the rear of the car.",
+    "url": "https://caterhamcars.com/ja/news/caterham-takes-on-miami",
+    "pass": 1
+   },
+   {
+    "quote": ": “Miami has become a global hub for elite motorsport and luxury automotive culture, so to have this moment to unveil the Miami Special Edition is truly unique. This car represents the very best of lightweight British engineering, and seeing the car launched and on display at the race weekend will be a significant moment for our brand.”",
+    "url": "https://caterhamcars.com/ja/news/caterham-takes-on-miami",
+    "pass": 1
+   },
+   {
+    "quote": "The Miami race weekend is widely recognised for its vibrant energy, world-class entertainment and drawing a diverse audience of industry leaders, celebrities and motorsport enthusiasts alike. Caterham’s presence at such a prestigious international motorsport event, complements the brand's focus on USA market expansion and the recent appointment of Miami’s",
+    "url": "https://caterhamcars.com/ja/news/caterham-takes-on-miami",
+    "pass": 1
+   },
+   {
+    "quote": "as its latest US dealer. In addition, Caterham recently announced a partnership with",
+    "url": "https://caterhamcars.com/ja/news/caterham-takes-on-miami",
+    "pass": 1
+   },
+   {
+    "quote": ", an invitation only, private membership community curated to deliver world-class driving and hospitality experiences based at the Miami International Autodrome.",
+    "url": "https://caterhamcars.com/ja/news/caterham-takes-on-miami",
+    "pass": 1
+   },
+   {
+    "quote": "Caterham Seven Academy Championship: Sponsored by Caffeine & Machine",
+    "url": "https://caterhamcars.com/ja/news/caterham-motorsport-united-kingdom-2026-sponsors",
+    "pass": 1
+   },
+   {
+    "quote": "The Caterham Academy Championship is officially sponsored by Caffeine & Machine, the renowned automotive lifestyle brand and cultural hub. As part of the partnership, we are excited to have Caffeine & Machine founder and director, Phil McGovern, joining us on the grid. You can follow Phil’s journey on the Caterham and Caffeine & Machine social channels, and discover more about Caffeine & Machine",
+    "url": "https://caterhamcars.com/ja/news/caterham-motorsport-united-kingdom-2026-sponsors",
+    "pass": 1
+   },
+   {
+    "quote": "Caterham Seven Roadsport Championship: Sponsored by Bilstein",
+    "url": "https://caterhamcars.com/ja/news/caterham-motorsport-united-kingdom-2026-sponsors",
+    "pass": 1
+   },
+   {
+    "quote": "The Caterham Seven Roadsport Championship is officially sponsored by Bilstein for the 2026 season. A long-term technical partner of Caterham, Bilstein provides suspension components found across the Caterham model range, along with all five of our race championships. For more information on Bilstein,",
+    "url": "https://caterhamcars.com/ja/news/caterham-motorsport-united-kingdom-2026-sponsors",
+    "pass": 1
+   },
+   {
+    "quote": "Caterham Seven 270R Championship: Sponsored by FanDrive",
+    "url": "https://caterhamcars.com/ja/news/caterham-motorsport-united-kingdom-2026-sponsors",
+    "pass": 1
+   },
+   {
+    "quote": "Caterham Seven 310R Championship: Sponsored by Vertex Watches",
+    "url": "https://caterhamcars.com/ja/news/caterham-motorsport-united-kingdom-2026-sponsors",
+    "pass": 1
+   },
+   {
+    "quote": "Returning for 2026, the Caterham Seven 310R Championship is sponsored by Vertex Watches. It is great to welcome back a brand that, like Caterham, is synonymous with classic, timeless design and rich British heritage. For more information on Vertex Watches,",
+    "url": "https://caterhamcars.com/ja/news/caterham-motorsport-united-kingdom-2026-sponsors",
+    "pass": 1
+   },
+   {
+    "quote": "Caterham Seven Championship UK: Sponsored by Motul",
+    "url": "https://caterhamcars.com/ja/news/caterham-motorsport-united-kingdom-2026-sponsors",
+    "pass": 1
+   },
+   {
+    "quote": "Our final ladder in Caterham Motorsport, the Caterham Seven Championship UK, is sponsored by Motul for the 2026 season. As a global leader in high-performance lubricants and racing fluids, Motul’s involvement in both our road and race car programmes sees the supply of engine oil, brake fluid, gear oil and coolant. For more information on Motul,",
+    "url": "https://caterhamcars.com/ja/news/caterham-motorsport-united-kingdom-2026-sponsors",
+    "pass": 1
+   },
+   {
+    "quote": "Last but by no means least, we have EBC Brakes, a key technical partner supplying high-performance braking components for road, circuit, and race applications, and will supply all five championships. For more information about EBC Brakes,",
+    "url": "https://caterhamcars.com/ja/news/caterham-motorsport-united-kingdom-2026-sponsors",
+    "pass": 1
+   },
+   {
+    "quote": "Skip to main content",
+    "url": "https://caterhamcars.com/us/news-us/miami-meet-caterham-walt-grace-vintage-becomes-the-brands-newest-usa-dealer",
+    "pass": 1
+   },
+   {
+    "quote": "Miami, Meet Caterham: Walt Grace Vintage Becomes the Brand’s Newest USA Dealer",
+    "url": "https://caterhamcars.com/us/news-us/miami-meet-caterham-walt-grace-vintage-becomes-the-brands-newest-usa-dealer",
+    "pass": 1
+   },
+   {
+    "quote": "Caterham and Motul renew their partnership focused on performance | Caterham Cars",
+    "url": "https://caterhamcars.com/en/news/caterham-and-motul-renew-their-partnership-focused-on-performance",
+    "pass": 3
+   },
+   {
+    "quote": "Skip to main content",
+    "url": "https://caterhamcars.com/en/news/caterham-and-motul-renew-their-partnership-focused-on-performance",
+    "pass": 3
+   },
+   {
+    "quote": "Caterham and Motul renew their partnership focused on performance",
+    "url": "https://caterhamcars.com/en/news/caterham-and-motul-renew-their-partnership-focused-on-performance",
+    "pass": 3
+   },
+   {
+    "quote": "Caterham and Motul today announce the renewal of their partnership, bringing together Caterham’s lightweight sports car expertise and Motul’s long-standing know-how in high-performance lubrication, built on more than 170 years of experience.",
+    "url": "https://caterhamcars.com/en/news/caterham-and-motul-renew-their-partnership-focused-on-performance",
+    "pass": 3
+   },
+   {
+    "quote": "The new long-term agreement means that every new Caterham Seven built at the Caterham HQ in Dartford, UK will have their first fill of lubricants supplied by Motul – from the road-going 170 to every new race car across all five Caterham Motorsport UK Championships.",
+    "url": "https://caterhamcars.com/en/news/caterham-and-motul-renew-their-partnership-focused-on-performance",
+    "pass": 3
+   },
+   {
+    "quote": "As part of the partnership, Motul will also become the title sponsor of the Caterham Seven Championship UK for the 2026 season, the nationally recognised top-tier Caterham racing series in the UK.",
+    "url": "https://caterhamcars.com/en/news/caterham-and-motul-renew-their-partnership-focused-on-performance",
+    "pass": 3
+   },
+   {
+    "quote": "Ali McColl, Global Head of Marketing, Caterham, commented: “This partnership is a significant milestone for Caterham, aligning our brand with a world-renowned leader in lubricants and fluid technology, reinforcing our commitment to performance across both our road and race cars. Motul brings a depth of experience in performance and efficiency that few other partners can offer.”",
+    "url": "https://caterhamcars.com/en/news/caterham-and-motul-renew-their-partnership-focused-on-performance",
+    "pass": 3
+   },
+   {
+    "quote": "“This agreement also marks an exciting new chapter for Caterham Motorsport. As we look ahead to the 2026 season, we are proud to unveil the Motul Caterham Seven Championship UK as the new name for the pinnacle of Caterham racing in the UK.”",
+    "url": "https://caterhamcars.com/en/news/caterham-and-motul-renew-their-partnership-focused-on-performance",
+    "pass": 3
+   },
+   {
+    "quote": "Caterham and Motul successfully launched their new partnership at the 2026 edition of Rétromobile in Paris, showcasing two Caterham Sevens, a 2005 K-Series and a 2025 Super Seven 2000, for visitors of the show to see on the Motul stand.",
+    "url": "https://caterhamcars.com/en/news/caterham-and-motul-renew-their-partnership-focused-on-performance",
+    "pass": 3
+   },
+   {
+    "quote": "Anticipate Competitor Strategy",
+    "url": "https://www.cbinsights.com/company/caterham-cars/alternatives-competitors",
+    "pass": 3
+   },
+   {
+    "quote": "Team Management and Collaboration",
+    "url": "https://www.cbinsights.com/company/caterham-cars/alternatives-competitors",
+    "pass": 3
+   },
+   {
+    "quote": "Buyer Interview Transcripts",
+    "url": "https://www.cbinsights.com/company/caterham-cars/alternatives-competitors",
+    "pass": 3
+   },
+   {
+    "quote": "Geely Holding Group is an automotive group that operates in vehicle manufacturing and technology. The company produces various vehicles, including new energy vehicles, and participates in the development of vehicle networking and autonomous driving technologies. It serves the automotive market with a focus on sustainable development. It was founded in 1986 and is based in Hangzhou, China.",
+    "url": "https://www.cbinsights.com/company/caterham-cars/alternatives-competitors",
+    "pass": 3
+   },
+   {
+    "quote": "Partnership",
+    "url": "https://www.cbinsights.com/company/caterham-cars/alternatives-competitors",
+    "pass": 3
+   },
+   {
+    "quote": "Caterham and Motul renew their partnership focused on performance",
+    "url": "https://www.motul.com/corporate/newsroom/presse-release/caterham-and-motul-renew-their-partnership-focused-on-performance",
+    "pass": 3
+   }
+  ],
+  "車以外の顧客・産業": [
+   {
+    "quote": "2027 Caterham Motorsport Calendar Announced!",
+    "url": "https://caterhamcars.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "From its unique track-focused spec to the serious fun it delivers, Caterham Head of Motorsport, Alex Read, talks all thing…",
+    "url": "https://caterhamcars.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "Motorsport",
+    "url": "https://caterhamcars.com/ja?view=article&id=40:news&catid=9",
+    "pass": 1
+   },
+   {
+    "quote": "2027 Caterham Motorsport Calendar Announced!",
+    "url": "https://caterhamcars.com/ja?view=article&id=40:news&catid=9",
+    "pass": 1
+   },
+   {
+    "quote": "Caterham Motorsport United Kingdom 2026 Sponsors",
+    "url": "https://caterhamcars.com/ja?view=article&id=40:news&catid=9",
+    "pass": 1
+   },
+   {
+    "quote": "NOVA MOTORSPORT NAMED OFFICIAL TYRE PARTNER FOR CATERHAM MOTORSPORT IN MULTI-YEAR AGREEMENT",
+    "url": "https://caterhamcars.com/ja?view=article&id=40:news&catid=9",
+    "pass": 1
+   },
+   {
+    "quote": "Motorsport",
+    "url": "https://caterhamcars.com/ja/news/620r-takes-on-top-gears-tunnel-run",
+    "pass": 1
+   },
+   {
+    "quote": "2027 Caterham Motorsport Calendar Announced!",
+    "url": "https://caterhamcars.com/ja/news/620r-takes-on-top-gears-tunnel-run",
+    "pass": 1
+   },
+   {
+    "quote": "Motorsport",
+    "url": "https://caterhamcars.com/ja/news/caterham-expands-uk-retailer-network-with-yorkshire-based-caterham-turn-7",
+    "pass": 1
+   },
+   {
+    "quote": "2027 Caterham Motorsport Calendar Announced!",
+    "url": "https://caterhamcars.com/ja/news/caterham-expands-uk-retailer-network-with-yorkshire-based-caterham-turn-7",
+    "pass": 1
+   },
+   {
+    "quote": "2027 Caterham Motorsport Calendar Announced! | Caterham Cars",
+    "url": "https://caterhamcars.com/ja/news/2027-caterham-motorsport-calendar-announced",
+    "pass": 1
+   },
+   {
+    "quote": "2027 Caterham Motorsport Calendar Announced!",
+    "url": "https://caterhamcars.com/ja/news/2027-caterham-motorsport-calendar-announced",
+    "pass": 1
+   },
+   {
+    "quote": "The Caterham Motorsport 2027 calendar is officially here, promising another year of thrilling races across all championships. For next year, we have decided to bring our championships together at almost every round.",
+    "url": "https://caterhamcars.com/ja/news/2027-caterham-motorsport-calendar-announced",
+    "pass": 1
+   },
+   {
+    "quote": "2027 sees our Academy Championship return to the fabled Curborough Sprint Course on the 2 and 3 of April, following their pre-season introduction to motorsport program, including the Academy seminar, ARDS day, and exclusive track day at Lydden Hill.",
+    "url": "https://caterhamcars.com/ja/news/2027-caterham-motorsport-calendar-announced",
+    "pass": 1
+   },
+   {
+    "quote": "In an exciting update for the new season, the previous Roadsport Championship has now been officially rebranded as the Clubsport Championship, as the Caterham Motorsport Horse HR13 engine takes its next step up the championship ladder.",
+    "url": "https://caterhamcars.com/ja/news/2027-caterham-motorsport-calendar-announced",
+    "pass": 1
+   },
+   {
+    "quote": "A standout highlight of the 2027 season is the much-anticipated international away round. While our Academy drivers take a mid-summer break, our Clubsport, Seven 270R, Seven 310R, and Seven Championship UK grids will cross the channel to the Netherlands on 24 and 25 July, taking on the legendary banking of Zandvoort.",
+    "url": "https://caterhamcars.com/ja/news/2027-caterham-motorsport-calendar-announced",
+    "pass": 1
+   },
+   {
+    "quote": "Featuring an action-packed schedule, an incredible international venue, and fresh opportunities for emerging racing talent, the countdown to the 2027 Caterham Motorsport season is officially underway.",
+    "url": "https://caterhamcars.com/ja/news/2027-caterham-motorsport-calendar-announced",
+    "pass": 1
+   },
+   {
+    "quote": "Caterham Cars is excited to reveal two digital versions of its iconic sports car - the Caterham Seven Academy race car and the Seven 420R race car - are now available on iRacing, the world’s largest online sim-racing platform.",
+    "url": "https://caterhamcars.com/ja/news/caterham-cars-makes-its-debut-on-iracing,-the-world%E2%80%99s-largest-sim-racing-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Included as part of iRacing’s recently announced ‘Season 4’ upgrade, the Caterham Academy and the 420R race cars allow fans of the sim-racing platform the chance to experience the brand's iconic lightweight sports car in the virtual world for the first time.",
+    "url": "https://caterhamcars.com/ja/news/caterham-cars-makes-its-debut-on-iracing,-the-world%E2%80%99s-largest-sim-racing-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Offering intoxicating performance, the track-only 420R race car features a naturally aspirated 2.0-litre Ford Duratec motorsport-tuned engine producing 180bhp, mated to a six-speed SADEV sequential gearbox and Nova Motorsport slick tyres, delivering exceptional levels of grip and driver engagement. Prices for the Seven 420R race car start at £53,990 in the UK or €59,995 in Europe.",
+    "url": "https://caterhamcars.com/ja/news/caterham-cars-makes-its-debut-on-iracing,-the-world%E2%80%99s-largest-sim-racing-platform",
+    "pass": 1
+   },
+   {
+    "quote": "2027 Caterham Motorsport Calendar Announced!",
+    "url": "https://caterhamcars.com/ja/news/caterham-cars-makes-its-debut-on-iracing,-the-world%E2%80%99s-largest-sim-racing-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Christian Gorton, Global Head of Sales, Caterham Cars, added: “Monterey Car Week brings together an exceptional mix of enthusiasts, collectors, dealers and motorsport specialists, making it an important week for Caterham in America.",
+    "url": "https://caterhamcars.com/ja/news/seven-miami-special-edition-meets-monterey",
+    "pass": 1
+   },
+   {
+    "quote": "“Our attendance is deliberately focused on being present, building relationships and exploring opportunities with prospective dealers, partners and those involved in the motorsport community. As we continue to develop Caterham’s presence in the US, Monterey provides the ideal setting to introduce more people to the brand and strengthen the connections that will support our future growth.”",
+    "url": "https://caterhamcars.com/ja/news/seven-miami-special-edition-meets-monterey",
+    "pass": 1
+   },
+   {
+    "quote": "2027 Caterham Motorsport Calendar Announced!",
+    "url": "https://caterhamcars.com/ja/news/seven-miami-special-edition-meets-monterey",
+    "pass": 1
+   },
+   {
+    "quote": "The partnership was formally signed at the prestigious ADAC 24-Hour Race at the Nürburgring, one of motorsport's most iconic events. To mark the occasion, Würth UK hosted a brand activation within the Caterham Nürburgring showroom, while Würth UK Managing Director, Omar Edris, joined the pre-race parade on the world-famous Nordschleife in Caterham's recently launched Seven 340 Nürburgring Edition.",
+    "url": "https://caterhamcars.com/ja/news/caterham-cars-announce-strategic-partnership-with-w%C3%BCrth-uk-to-enhance-manufacturing-operations",
+    "pass": 1
+   },
+   {
+    "quote": "2027 Caterham Motorsport Calendar Announced!",
+    "url": "https://caterhamcars.com/ja/news/caterham-cars-announce-strategic-partnership-with-w%C3%BCrth-uk-to-enhance-manufacturing-operations",
+    "pass": 1
+   },
+   {
+    "quote": ", which opens as part of the esteemed Leuba Collection. Renowned for their dedication to automotive excellence and heritage, the Leuba Collection is perfectly placed to introduce the lightweight sports car to a greater audience. Kevin Duffournet, Head of the Collection, and his team will ensure Swiss customers receive expert guidance through the Caterham range and dedicated aftersales support.",
+    "url": "https://caterhamcars.com/ja/news/caterham-expands-european-network-with-three-new-retailer-appointments",
+    "pass": 1
+   },
+   {
+    "quote": ". The new site will be managed by Julien Paques, who brings a wealth of specialist automotive experience through his existing operation, PJ Sportscars. Situated in the picturesque Alsace region, Julien and his team are well positioned to deliver the pure driving experience that Caterham is known for.",
+    "url": "https://caterhamcars.com/ja/news/caterham-expands-european-network-with-three-new-retailer-appointments",
+    "pass": 1
+   },
+   {
+    "quote": "Julien Paques, Managing Director of PJ Sportscars (Caterham Colmar), said: \"We are particularly proud and thrilled to officially represent the Caterham brand in Eastern France, and to offer our customers a comprehensive experience, from vehicle sales to authorized after-sales service.",
+    "url": "https://caterhamcars.com/ja/news/caterham-expands-european-network-with-three-new-retailer-appointments",
+    "pass": 1
+   },
+   {
+    "quote": "Our ambition is to expand Caterham's footprint nationwide — both within our dealership and during enthusiast gatherings, track days, or motorsport events. We look forward to sharing with the brand’s enthusiasts the pure joy of driving that makes Caterham legendary.\"",
+    "url": "https://caterhamcars.com/ja/news/caterham-expands-european-network-with-three-new-retailer-appointments",
+    "pass": 1
+   },
+   {
+    "quote": "Motorsport",
+    "url": "https://caterhamcars.com/ja/news/caterham-expands-european-network-with-three-new-retailer-appointments",
+    "pass": 1
+   },
+   {
+    "quote": "2027 Caterham Motorsport Calendar Announced!",
+    "url": "https://caterhamcars.com/ja/news/caterham-expands-european-network-with-three-new-retailer-appointments",
+    "pass": 1
+   },
+   {
+    "quote": "Motorsport fans attending the event can see the model at the Caterham Nürburgring dealership and on the Bilstein stand in the paddock across the weekend.",
+    "url": "https://caterhamcars.com/ja/news/100-years-of-the-ring-one-seven-caterham-unveils-the-nurburgring-limited-edition",
+    "pass": 1
+   },
+   {
+    "quote": "2027 Caterham Motorsport Calendar Announced!",
+    "url": "https://caterhamcars.com/ja/news/100-years-of-the-ring-one-seven-caterham-unveils-the-nurburgring-limited-edition",
+    "pass": 1
+   },
+   {
+    "quote": "Motorsport fans attending the race will have the opportunity to see this lightweight, track-focused special edition from Caterham for the first time on Friday 1st May on Race Street, located in the West Campus of the Miami International Autodrome.",
+    "url": "https://caterhamcars.com/ja/news/caterham-takes-on-miami",
+    "pass": 1
+   },
+   {
+    "quote": ": “Miami has become a global hub for elite motorsport and luxury automotive culture, so to have this moment to unveil the Miami Special Edition is truly unique. This car represents the very best of lightweight British engineering, and seeing the car launched and on display at the race weekend will be a significant moment for our brand.”",
+    "url": "https://caterhamcars.com/ja/news/caterham-takes-on-miami",
+    "pass": 1
+   },
+   {
+    "quote": "The Miami race weekend is widely recognised for its vibrant energy, world-class entertainment and drawing a diverse audience of industry leaders, celebrities and motorsport enthusiasts alike. Caterham’s presence at such a prestigious international motorsport event, complements the brand's focus on USA market expansion and the recent appointment of Miami’s",
+    "url": "https://caterhamcars.com/ja/news/caterham-takes-on-miami",
+    "pass": 1
+   },
+   {
+    "quote": "Motorsport",
+    "url": "https://caterhamcars.com/ja/news/caterham-takes-on-miami",
+    "pass": 1
+   },
+   {
+    "quote": "2027 Caterham Motorsport Calendar Announced!",
+    "url": "https://caterhamcars.com/ja/news/caterham-takes-on-miami",
+    "pass": 1
+   },
+   {
+    "quote": "Caterham Motorsport United Kingdom 2026 Sponsors | Caterham Cars",
+    "url": "https://caterhamcars.com/ja/news/caterham-motorsport-united-kingdom-2026-sponsors",
+    "pass": 1
+   },
+   {
+    "quote": "Caterham Motorsport United Kingdom 2026 Sponsors",
+    "url": "https://caterhamcars.com/ja/news/caterham-motorsport-united-kingdom-2026-sponsors",
+    "pass": 1
+   },
+   {
+    "quote": "Caterham Motorsport United Kingdom 2026 officially starts this weekend at Cadwell Park, so let's take a look at this year's sponsors, who help make all of this possible.",
+    "url": "https://caterhamcars.com/ja/news/caterham-motorsport-united-kingdom-2026-sponsors",
+    "pass": 1
+   },
+   {
+    "quote": "Caterham Seven Roadsport Championship: Sponsored by Bilstein",
+    "url": "https://caterhamcars.com/ja/news/caterham-motorsport-united-kingdom-2026-sponsors",
+    "pass": 1
+   },
+   {
+    "quote": "The Caterham Seven Roadsport Championship is officially sponsored by Bilstein for the 2026 season. A long-term technical partner of Caterham, Bilstein provides suspension components found across the Caterham model range, along with all five of our race championships. For more information on Bilstein,",
+    "url": "https://caterhamcars.com/ja/news/caterham-motorsport-united-kingdom-2026-sponsors",
+    "pass": 1
+   },
+   {
+    "quote": "Our final ladder in Caterham Motorsport, the Caterham Seven Championship UK, is sponsored by Motul for the 2026 season. As a global leader in high-performance lubricants and racing fluids, Motul’s involvement in both our road and race car programmes sees the supply of engine oil, brake fluid, gear oil and coolant. For more information on Motul,",
+    "url": "https://caterhamcars.com/ja/news/caterham-motorsport-united-kingdom-2026-sponsors",
+    "pass": 1
+   },
+   {
+    "quote": "Motorsport Partners: Nova Motorsport, VBOX Motorsport, EBC Brakes",
+    "url": "https://caterhamcars.com/ja/news/caterham-motorsport-united-kingdom-2026-sponsors",
+    "pass": 1
+   },
+   {
+    "quote": "VBOX Motorsport continues to play an integral role, providing high-definition camera systems and sophisticated data-logging technology utilised throughout the paddock to help drivers analyse their performance. For information about VBOX Motorsport,",
+    "url": "https://caterhamcars.com/ja/news/caterham-motorsport-united-kingdom-2026-sponsors",
+    "pass": 1
+   },
+   {
+    "quote": "2027 Caterham Motorsport Calendar Announced!",
+    "url": "https://caterhamcars.com/ja/news/caterham-motorsport-united-kingdom-2026-sponsors",
+    "pass": 1
+   },
+   {
+    "quote": "Motorsport",
+    "url": "https://caterhamcars.com/us/news-us/miami-meet-caterham-walt-grace-vintage-becomes-the-brands-newest-usa-dealer",
+    "pass": 1
+   },
+   {
+    "quote": "2027 Caterham Motorsport Calendar Announced!",
+    "url": "https://caterhamcars.com/us/news-us/miami-meet-caterham-walt-grace-vintage-becomes-the-brands-newest-usa-dealer",
+    "pass": 1
+   },
+   {
+    "quote": "Motorsport",
+    "url": "https://caterhamcars.com/en/news/caterham-and-motul-renew-their-partnership-focused-on-performance",
+    "pass": 3
+   },
+   {
+    "quote": "Caterham and Motul today announce the renewal of their partnership, bringing together Caterham’s lightweight sports car expertise and Motul’s long-standing know-how in high-performance lubrication, built on more than 170 years of experience.",
+    "url": "https://caterhamcars.com/en/news/caterham-and-motul-renew-their-partnership-focused-on-performance",
+    "pass": 3
+   },
+   {
+    "quote": "The new long-term agreement means that every new Caterham Seven built at the Caterham HQ in Dartford, UK will have their first fill of lubricants supplied by Motul – from the road-going 170 to every new race car across all five Caterham Motorsport UK Championships.",
+    "url": "https://caterhamcars.com/en/news/caterham-and-motul-renew-their-partnership-focused-on-performance",
+    "pass": 3
+   },
+   {
+    "quote": "“This agreement also marks an exciting new chapter for Caterham Motorsport. As we look ahead to the 2026 season, we are proud to unveil the Motul Caterham Seven Championship UK as the new name for the pinnacle of Caterham racing in the UK.”",
+    "url": "https://caterhamcars.com/en/news/caterham-and-motul-renew-their-partnership-focused-on-performance",
+    "pass": 3
+   },
+   {
+    "quote": "2027 Caterham Motorsport Calendar Announced!",
+    "url": "https://caterhamcars.com/en/news/caterham-and-motul-renew-their-partnership-focused-on-performance",
+    "pass": 3
+   },
+   {
+    "quote": "Consumer & Retail",
+    "url": "https://www.cbinsights.com/company/caterham-cars/alternatives-competitors",
+    "pass": 3
+   },
+   {
+    "quote": "Industrials",
+    "url": "https://www.cbinsights.com/company/caterham-cars/alternatives-competitors",
+    "pass": 3
+   },
+   {
+    "quote": "Geely Holding Group is an automotive group that operates in vehicle manufacturing and technology. The company produces various vehicles, including new energy vehicles, and participates in the development of vehicle networking and autonomous driving technologies. It serves the automotive market with a focus on sustainable development. It was founded in 1986 and is based in Hangzhou, China.",
+    "url": "https://www.cbinsights.com/company/caterham-cars/alternatives-competitors",
+    "pass": 3
+   },
+   {
+    "quote": "– Caterham and Motul today announce the renewal of their partnership, bringing together Caterham’s lightweight sports car expertise and Motul’s long-standing know-how in high-performance lubrication, built on more than 170 years of experience.",
+    "url": "https://www.motul.com/corporate/newsroom/presse-release/caterham-and-motul-renew-their-partnership-focused-on-performance",
+    "pass": 3
+   },
+   {
+    "quote": "The new long-term agreement means that every new Caterham Seven built at the Caterham HQ in Dartford, UK will have their first fill of lubricants supplied by Motul – from the road-going 170 to every new race car across all five Caterham Motorsport UK Championships.",
+    "url": "https://www.motul.com/corporate/newsroom/presse-release/caterham-and-motul-renew-their-partnership-focused-on-performance",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "Caterham Cars Appoints Christian Gorton as Global Head of Sales",
+    "url": "https://caterhamcars.com/ja?view=article&id=40:news&catid=9",
+    "pass": 1
+   },
+   {
+    "quote": "Founded by father-and-son duo Jim and Callum McDougall, Turn 7 has firmly established itself within the Caterham community as an independent pre-owned specialist and service centre. The Seven is deep-rooted within the McDougall family with Jim having helped establish the concept behind the Caterham Academy, and Callum working as a Sales Executive for Caterham in the original Town End showroom.",
+    "url": "https://caterhamcars.com/ja/news/caterham-expands-uk-retailer-network-with-yorkshire-based-caterham-turn-7",
+    "pass": 1
+   },
+   {
+    "quote": "Alongside its well-established pre-owned operation, Caterham Turn 7’s North Yorkshire facility will now supply the full Seven range, accompanied by official parts, workshop servicing and aftersales support.",
+    "url": "https://caterhamcars.com/ja/news/caterham-expands-uk-retailer-network-with-yorkshire-based-caterham-turn-7",
+    "pass": 1
+   },
+   {
+    "quote": "Christian Gorton, Global Head of Sales at Caterham Cars, commented:",
+    "url": "https://caterhamcars.com/ja/news/caterham-expands-uk-retailer-network-with-yorkshire-based-caterham-turn-7",
+    "pass": 1
+   },
+   {
+    "quote": "Christian Gorton, Global Head of Sales, Caterham Cars, added: “Monterey Car Week brings together an exceptional mix of enthusiasts, collectors, dealers and motorsport specialists, making it an important week for Caterham in America.",
+    "url": "https://caterhamcars.com/ja/news/seven-miami-special-edition-meets-monterey",
+    "pass": 1
+   },
+   {
+    "quote": ", which opens as part of the esteemed Leuba Collection. Renowned for their dedication to automotive excellence and heritage, the Leuba Collection is perfectly placed to introduce the lightweight sports car to a greater audience. Kevin Duffournet, Head of the Collection, and his team will ensure Swiss customers receive expert guidance through the Caterham range and dedicated aftersales support.",
+    "url": "https://caterhamcars.com/ja/news/caterham-expands-european-network-with-three-new-retailer-appointments",
+    "pass": 1
+   },
+   {
+    "quote": ". Under the expert guidance of CEO Bernardo Bello, the new Catalan showroom will help continue growing the Sevens presence in Spain and provide the Pure. Simple. Fun. Experience to enthusiast, whilst serving existing owners through aftersales support.",
+    "url": "https://caterhamcars.com/ja/news/caterham-expands-european-network-with-three-new-retailer-appointments",
+    "pass": 1
+   },
+   {
+    "quote": "Julien Paques, Managing Director of PJ Sportscars (Caterham Colmar), said: \"We are particularly proud and thrilled to officially represent the Caterham brand in Eastern France, and to offer our customers a comprehensive experience, from vehicle sales to authorized after-sales service.",
+    "url": "https://caterhamcars.com/ja/news/caterham-expands-european-network-with-three-new-retailer-appointments",
+    "pass": 1
+   },
+   {
+    "quote": "Salesforce",
+    "url": "https://www.cbinsights.com/company/caterham-cars/alternatives-competitors",
+    "pass": 3
+   },
+   {
+    "quote": "sales@caterham.com",
+    "url": "https://www.motul.com/corporate/newsroom/presse-release/caterham-and-motul-renew-their-partnership-focused-on-performance",
+    "pass": 3
+   },
+   {
+    "quote": "Caterham Cars: Revenue, Competitors, Alternatives",
+    "url": "https://growjo.com/company/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue & Valuation",
+    "url": "https://growjo.com/company/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue and Competitors",
+    "url": "https://growjo.com/company/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated Revenue & Valuation",
+    "url": "https://growjo.com/company/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated annual revenue is currently",
+    "url": "https://growjo.com/company/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated revenue per employee is $",
+    "url": "https://growjo.com/company/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Aftersales Commercial Manager",
+    "url": "https://growjo.com/company/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue",
+    "url": "https://growjo.com/company/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue (est)",
+    "url": "https://growjo.com/company/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Employee Growth %",
+    "url": "https://growjo.com/company/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Best Sales Lead Database",
+    "url": "https://growjo.com/company/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "also show that its turnover rose from £20m to £23.8m in the year.",
+    "url": "https://www.cityam.com/caterham-bosses-voice-disappointment-at-fourth-loss-in-a-row/",
+    "pass": 3
+   },
+   {
+    "quote": "Caterham Cars said the increase in its turnover was due to an increase in the output of new vehicles, from 450 to 541.",
+    "url": "https://www.cityam.com/caterham-bosses-voice-disappointment-at-fourth-loss-in-a-row/",
+    "pass": 3
+   },
+   {
+    "quote": "The company’s UK turnover decreased from £10m to £8.9m in the year but rose in Europe from £6.6m to £9.5m, from £2.2m to £3.6m in Japan and from £1.1m to £1.7m in the rest of the world.",
+    "url": "https://www.cityam.com/caterham-bosses-voice-disappointment-at-fourth-loss-in-a-row/",
+    "pass": 3
+   },
+   {
+    "quote": "Caterham Cars added: “Whilst the business still incurred some supply chain issues in the year, many of the previous year’s supply problems were resolved as the year progressed and this led to more stable monthly output for the majority of the year under review.",
+    "url": "https://www.cityam.com/caterham-bosses-voice-disappointment-at-fourth-loss-in-a-row/",
+    "pass": 3
+   },
+   {
+    "quote": "“Other revenue streams remained relatively unchanged in the year, except for a drop in used car and service revenues.",
+    "url": "https://www.cityam.com/caterham-bosses-voice-disappointment-at-fourth-loss-in-a-row/",
+    "pass": 3
+   },
+   {
+    "quote": "car sales",
+    "url": "https://www.cityam.com/caterham-bosses-voice-disappointment-at-fourth-loss-in-a-row/",
+    "pass": 3
+   },
+   {
+    "quote": "Tesco retreats from Europe with £1.5bn sale of Czech and Slovak divisions",
+    "url": "https://www.cityam.com/caterham-bosses-voice-disappointment-at-fourth-loss-in-a-row/",
+    "pass": 3
+   },
+   {
+    "quote": "Caterham provides direct factory aftersales support to help home builders. You can contact our dedicated technical assistance department via",
+    "url": "https://caterhamcars.com/en/models/build-a-caterham",
+    "pass": 3
+   },
+   {
+    "quote": "Horse Technologies, a division of Horse Powertrain, who will become the new supplier of engines for the Caterham Academy Championship from 2026 onwards.",
+    "url": "https://caterhamcars.com/ja/news/caterham-partners-with-horse-technologies-for-2026-academy-championship-engines",
+    "pass": 3
+   },
+   {
+    "quote": "Horse Technologies is a division of Horse Powertrain – a global joint venture between Renault, Geely and Aramco – that develops and manufacturers next-generation hybrid and combustion engines and systems. Along with complete powertrains, Horse Technologies also produces cutting-edge engines, gearboxes, motors, batteries, and power electronics systems.",
+    "url": "https://caterhamcars.com/ja/news/caterham-partners-with-horse-technologies-for-2026-academy-championship-engines",
+    "pass": 3
+   },
+   {
+    "quote": "Now, Horse Technologies is apparently a subdivision of Horse Powertrain, and Horse Powertrain was",
+    "url": "https://www.topgear.com/car-news/motorsport/caterham-has-signed-a-deal-its-academy-cars-use-engines-renault-geely-joint",
+    "pass": 3
+   }
+  ],
+  "レース・ワンメイク": [
+   {
+    "quote": "as LEGO CAT, is the latest vehicle to take on Catesby Tunnel in Top Gear’s (UK) web series.",
+    "url": "https://caterhamcars.com/ja/news/620r-takes-on-top-gears-tunnel-run",
+    "pass": 1
+   },
+   {
+    "quote": "The Caterham Motorsport 2027 calendar is officially here, promising another year of thrilling races across all championships. For next year, we have decided to bring our championships together at almost every round.",
+    "url": "https://caterhamcars.com/ja/news/2027-caterham-motorsport-calendar-announced",
+    "pass": 1
+   },
+   {
+    "quote": "2027 sees our Academy Championship return to the fabled Curborough Sprint Course on the 2 and 3 of April, following their pre-season introduction to motorsport program, including the Academy seminar, ARDS day, and exclusive track day at Lydden Hill.",
+    "url": "https://caterhamcars.com/ja/news/2027-caterham-motorsport-calendar-announced",
+    "pass": 1
+   },
+   {
+    "quote": "In an exciting update for the new season, the previous Roadsport Championship has now been officially rebranded as the Clubsport Championship, as the Caterham Motorsport Horse HR13 engine takes its next step up the championship ladder.",
+    "url": "https://caterhamcars.com/ja/news/2027-caterham-motorsport-calendar-announced",
+    "pass": 1
+   },
+   {
+    "quote": "Our first race weekend with all championships takes place on 24 and 25 April at Snetterton, shortly after our official Media Day. From there, the paddock will travel together to some of the UK’s most spectacular circuits, tackling the coastal twists of Anglesey in May, the challenging Croft circuit in June, and the iconic Brands Hatch in July.",
+    "url": "https://caterhamcars.com/ja/news/2027-caterham-motorsport-calendar-announced",
+    "pass": 1
+   },
+   {
+    "quote": "A standout highlight of the 2027 season is the much-anticipated international away round. While our Academy drivers take a mid-summer break, our Clubsport, Seven 270R, Seven 310R, and Seven Championship UK grids will cross the channel to the Netherlands on 24 and 25 July, taking on the legendary banking of Zandvoort.",
+    "url": "https://caterhamcars.com/ja/news/2027-caterham-motorsport-calendar-announced",
+    "pass": 1
+   },
+   {
+    "quote": "Included as part of iRacing’s recently announced ‘Season 4’ upgrade, the Caterham Academy and the 420R race cars allow fans of the sim-racing platform the chance to experience the brand's iconic lightweight sports car in the virtual world for the first time.",
+    "url": "https://caterhamcars.com/ja/news/caterham-cars-makes-its-debut-on-iracing,-the-world%E2%80%99s-largest-sim-racing-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Players can race the Caterham Seven Academy and Seven 420R race cars by purchasing these from the official iRacing store and entering the dedicated Caterham series. Both cars are available together as part of a single, in-game bundle purchase.",
+    "url": "https://caterhamcars.com/ja/news/caterham-cars-makes-its-debut-on-iracing,-the-world%E2%80%99s-largest-sim-racing-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Along with its changing elevation and camber across its 73 corners, the Nürburgring is a site where Caterham’s road and race cars have flourished for decades. Most notably, an 11th place finish at the Nürburgring 24 Hours in 2002, which saw an outstanding drive by Chris Cooper, Chris Harris, Clive Richards and Peter Haynes.",
+    "url": "https://caterhamcars.com/ja/news/100-years-of-the-ring-one-seven-caterham-unveils-the-nurburgring-limited-edition",
+    "pass": 1
+   },
+   {
+    "quote": "Caterham Seven Academy Championship: Sponsored by Caffeine & Machine",
+    "url": "https://caterhamcars.com/ja/news/caterham-motorsport-united-kingdom-2026-sponsors",
+    "pass": 1
+   },
+   {
+    "quote": "The Caterham Academy Championship is officially sponsored by Caffeine & Machine, the renowned automotive lifestyle brand and cultural hub. As part of the partnership, we are excited to have Caffeine & Machine founder and director, Phil McGovern, joining us on the grid. You can follow Phil’s journey on the Caterham and Caffeine & Machine social channels, and discover more about Caffeine & Machine",
+    "url": "https://caterhamcars.com/ja/news/caterham-motorsport-united-kingdom-2026-sponsors",
+    "pass": 1
+   },
+   {
+    "quote": "Caterham Seven Roadsport Championship: Sponsored by Bilstein",
+    "url": "https://caterhamcars.com/ja/news/caterham-motorsport-united-kingdom-2026-sponsors",
+    "pass": 1
+   },
+   {
+    "quote": "The Caterham Seven Roadsport Championship is officially sponsored by Bilstein for the 2026 season. A long-term technical partner of Caterham, Bilstein provides suspension components found across the Caterham model range, along with all five of our race championships. For more information on Bilstein,",
+    "url": "https://caterhamcars.com/ja/news/caterham-motorsport-united-kingdom-2026-sponsors",
+    "pass": 1
+   },
+   {
+    "quote": "Caterham Seven 270R Championship: Sponsored by FanDrive",
+    "url": "https://caterhamcars.com/ja/news/caterham-motorsport-united-kingdom-2026-sponsors",
+    "pass": 1
+   },
+   {
+    "quote": "Caterham Seven 310R Championship: Sponsored by Vertex Watches",
+    "url": "https://caterhamcars.com/ja/news/caterham-motorsport-united-kingdom-2026-sponsors",
+    "pass": 1
+   },
+   {
+    "quote": "Returning for 2026, the Caterham Seven 310R Championship is sponsored by Vertex Watches. It is great to welcome back a brand that, like Caterham, is synonymous with classic, timeless design and rich British heritage. For more information on Vertex Watches,",
+    "url": "https://caterhamcars.com/ja/news/caterham-motorsport-united-kingdom-2026-sponsors",
+    "pass": 1
+   },
+   {
+    "quote": "Caterham Seven Championship UK: Sponsored by Motul",
+    "url": "https://caterhamcars.com/ja/news/caterham-motorsport-united-kingdom-2026-sponsors",
+    "pass": 1
+   },
+   {
+    "quote": "Our final ladder in Caterham Motorsport, the Caterham Seven Championship UK, is sponsored by Motul for the 2026 season. As a global leader in high-performance lubricants and racing fluids, Motul’s involvement in both our road and race car programmes sees the supply of engine oil, brake fluid, gear oil and coolant. For more information on Motul,",
+    "url": "https://caterhamcars.com/ja/news/caterham-motorsport-united-kingdom-2026-sponsors",
+    "pass": 1
+   },
+   {
+    "quote": "Last but by no means least, we have EBC Brakes, a key technical partner supplying high-performance braking components for road, circuit, and race applications, and will supply all five championships. For more information about EBC Brakes,",
+    "url": "https://caterhamcars.com/ja/news/caterham-motorsport-united-kingdom-2026-sponsors",
+    "pass": 1
+   },
+   {
+    "quote": "The new long-term agreement means that every new Caterham Seven built at the Caterham HQ in Dartford, UK will have their first fill of lubricants supplied by Motul – from the road-going 170 to every new race car across all five Caterham Motorsport UK Championships.",
+    "url": "https://caterhamcars.com/en/news/caterham-and-motul-renew-their-partnership-focused-on-performance",
+    "pass": 3
+   },
+   {
+    "quote": "As part of the partnership, Motul will also become the title sponsor of the Caterham Seven Championship UK for the 2026 season, the nationally recognised top-tier Caterham racing series in the UK.",
+    "url": "https://caterhamcars.com/en/news/caterham-and-motul-renew-their-partnership-focused-on-performance",
+    "pass": 3
+   },
+   {
+    "quote": "Ali McColl, Global Head of Marketing, Caterham, commented: “This partnership is a significant milestone for Caterham, aligning our brand with a world-renowned leader in lubricants and fluid technology, reinforcing our commitment to performance across both our road and race cars. Motul brings a depth of experience in performance and efficiency that few other partners can offer.”",
+    "url": "https://caterhamcars.com/en/news/caterham-and-motul-renew-their-partnership-focused-on-performance",
+    "pass": 3
+   },
+   {
+    "quote": "“This agreement also marks an exciting new chapter for Caterham Motorsport. As we look ahead to the 2026 season, we are proud to unveil the Motul Caterham Seven Championship UK as the new name for the pinnacle of Caterham racing in the UK.”",
+    "url": "https://caterhamcars.com/en/news/caterham-and-motul-renew-their-partnership-focused-on-performance",
+    "pass": 3
+   },
+   {
+    "quote": "Caterham and Motul successfully launched their new partnership at the 2026 edition of Rétromobile in Paris, showcasing two Caterham Sevens, a 2005 K-Series and a 2025 Super Seven 2000, for visitors of the show to see on the Motul stand.",
+    "url": "https://caterhamcars.com/en/news/caterham-and-motul-renew-their-partnership-focused-on-performance",
+    "pass": 3
+   },
+   {
+    "quote": "Motul are also named the title sponsor of the Caterham Seven Championship UK for the 2026 season",
+    "url": "https://www.motul.com/corporate/newsroom/presse-release/caterham-and-motul-renew-their-partnership-focused-on-performance",
+    "pass": 3
+   },
+   {
+    "quote": "The new long-term agreement means that every new Caterham Seven built at the Caterham HQ in Dartford, UK will have their first fill of lubricants supplied by Motul – from the road-going 170 to every new race car across all five Caterham Motorsport UK Championships.",
+    "url": "https://www.motul.com/corporate/newsroom/presse-release/caterham-and-motul-renew-their-partnership-focused-on-performance",
+    "pass": 3
+   },
+   {
+    "quote": "As part of the partnership, Motul will also become the title sponsor of the Caterham Seven Championship UK for the 2026 season, the nationally recognised top-tier Caterham racing series in the UK.",
+    "url": "https://www.motul.com/corporate/newsroom/presse-release/caterham-and-motul-renew-their-partnership-focused-on-performance",
+    "pass": 3
+   },
+   {
+    "quote": "“This partnership is a significant milestone for Caterham, aligning our brand with a world-renowned leader in lubricants and fluid technology, reinforcing our commitment to performance across both our road and race cars. Motul brings a depth of experience in performance and efficiency that few other partners can offer.”",
+    "url": "https://www.motul.com/corporate/newsroom/presse-release/caterham-and-motul-renew-their-partnership-focused-on-performance",
+    "pass": 3
+   },
+   {
+    "quote": "“This agreement also marks an exciting new chapter for Caterham Motorsport. As we look ahead to the 2026 season, we are proud to unveil the Motul Caterham Seven Championship UK as the new name for the pinnacle of Caterham racing in the UK.”",
+    "url": "https://www.motul.com/corporate/newsroom/presse-release/caterham-and-motul-renew-their-partnership-focused-on-performance",
+    "pass": 3
+   },
+   {
+    "quote": "Caterham and Motul successfully launched their new partnership at the 2026 edition of Rétromobile in Paris, showcasing two Caterham Sevens, a 2005 K-Series and a 2025 Super Seven 2000, for visitors of the show to see on the Motul stand.",
+    "url": "https://www.motul.com/corporate/newsroom/presse-release/caterham-and-motul-renew-their-partnership-focused-on-performance",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 1853, Motul is a global company present in 160 countries. Over the years, the brand has built a solid reputation as a trusted partner to support the performance of leading manufacturers, top motorsport teams and major championships, such as the 24 Hours of Le Mans, the WEC, MotoGP, Dakar, Goodwood, or the UCI Mountain Bike World Series.",
+    "url": "https://www.motul.com/corporate/newsroom/presse-release/caterham-and-motul-renew-their-partnership-focused-on-performance",
+    "pass": 3
+   },
+   {
+    "quote": "Aramco Team Series",
+    "url": "https://www.cityam.com/caterham-bosses-voice-disappointment-at-fourth-loss-in-a-row/",
+    "pass": 3
+   },
+   {
+    "quote": "The car is scheduled to be displayed at several events throughout the Summer, with its first appearance at this weekend’s Formula 1 British Grand Prix.",
+    "url": "https://caterhamcars.com/en/news/f-lightweight-caterham-x-raf-seven-360-unveiled-at-the-british-f1",
+    "pass": 3
+   },
+   {
+    "quote": "Series 3 (S3)",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Series 5 (SV)",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "CSR (Series 6)",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Formula One",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "GP2 Series",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "(or Seven), originally launched in 1973, is a direct evolution of the Series 3",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "launched the Series 1",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "in 1957. The car was immediately embraced by enthusiasts as a low-cost, lightweight sports car and successful race car. Revised Series 2, Series 3 and Series 4 versions were subsequently launched in 1960, 1968 and 1970 respectively.",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "after Lotus announced its intention to discontinue the model. Caterham initially restarted manufacture of the Lotus Seven Series 4; however, when this proved unpopular, production switched to a Series 3 model in 1974.",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "and competed in Formula One between the",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "The 21 never sold particularly well, with only 48 ever made. It had moderate racing success in the Belcar 24-hour series in Europe and is credited with helping Caterham develop the widetrack setup used in SVs (amongst other developments) and the CSR's sweeping interior is reminiscent of the original 21 design.",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "There are currently three chassis options available; Series 3, Series 5 and CSR.",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "The most popular variant retains the dimensions and layout of the Lotus 7 Series 3.",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Engines: 1.4-litre K-Series (105",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "bhp) or 1.6-litre K-Series (120",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "The Superlight R400 series is Caterham Motorsport's premier British championship. The R400 is a 220",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "bhp Cosworth powered dedicated race car with a Quaife six-speed sequential gearbox replacing the standard Caterham unit used in the R300. As with all series above Academy, it runs on Avon CR500 tyres.",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "The Superlight R500 series is the latest of Caterham Motorsport's Superlight series of RSA Racing cars. Powered by a 2.0-litre",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "car of the year 2008. In another appearance earlier in the series, it placed fifth on the Power Lap board with a 1:17.9. This time beat the €1,100,000 (£899,000/$1,550,000), 1001",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "In October 2012 a supercharged model for a race-series above the R300-class was released, including slick tyres and a sequential gearbox.",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "K series",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "series, under the guise",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "The team raced under the same Green and Yellow livery as the Formula 1 team.",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": ", until the company had to cease operations in both series.",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "The Caterham Motorsport Ladder is a progression through the various Caterham Cars championships, starting with the Caterham Academy, and moving through ultimately to their most prestigious European events. The championships which form the ladder are:",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Caterham partners with Horse Technologies for 2026 Academy Championship engines | Caterham Cars",
+    "url": "https://caterhamcars.com/ja/news/caterham-partners-with-horse-technologies-for-2026-academy-championship-engines",
+    "pass": 3
+   },
+   {
+    "quote": "Caterham partners with Horse Technologies for 2026 Academy Championship engines",
+    "url": "https://caterhamcars.com/ja/news/caterham-partners-with-horse-technologies-for-2026-academy-championship-engines",
+    "pass": 3
+   }
+  ],
+  "顧客名": [
+   {
+    "quote": "Usually, we’d be banging on about how a 620R can hit 62 mph in just 2.7s, or how it’s faster around Knockhill than most McLarens – but that’s not why we’re here. No, this time it's all about noise, and LEGO CAT brings it by the bucket-load.",
+    "url": "https://caterhamcars.com/ja/news/620r-takes-on-top-gears-tunnel-run",
+    "pass": 1
+   },
+   {
+    "quote": "Offering intoxicating performance, the track-only 420R race car features a naturally aspirated 2.0-litre Ford Duratec motorsport-tuned engine producing 180bhp, mated to a six-speed SADEV sequential gearbox and Nova Motorsport slick tyres, delivering exceptional levels of grip and driver engagement. Prices for the Seven 420R race car start at £53,990 in the UK or €59,995 in Europe.",
+    "url": "https://caterhamcars.com/ja/news/caterham-cars-makes-its-debut-on-iracing,-the-world%E2%80%99s-largest-sim-racing-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Based on the high-performance Seven R chassis, the track-only car features a naturally aspirated 2.0-litre Ford Duratec engine, delivering 210 bhp at 7,600 rpm for a power-to-weight ratio of 375 bhp-per-tonne. It’s mated to a five-speed manual gearbox, resulting in a 0-60 mph time of just 3.8 seconds and a top speed of 136 mph.",
+    "url": "https://caterhamcars.com/ja/news/seven-miami-special-edition-meets-monterey",
+    "pass": 1
+   },
+   {
+    "quote": "Caterham Cars is pleased to announce a new strategic partnership with Würth UK, one of the UK's leading suppliers of assembly tools, fastening technology and workshop solutions. The collaboration marks an important step in further enhancing the efficiency, precision and quality of Caterham's manufacturing operations at its Dartford facility.",
+    "url": "https://caterhamcars.com/ja/news/caterham-cars-announce-strategic-partnership-with-w%C3%BCrth-uk-to-enhance-manufacturing-operations",
+    "pass": 1
+   },
+   {
+    "quote": ", which opens as part of the esteemed Leuba Collection. Renowned for their dedication to automotive excellence and heritage, the Leuba Collection is perfectly placed to introduce the lightweight sports car to a greater audience. Kevin Duffournet, Head of the Collection, and his team will ensure Swiss customers receive expert guidance through the Caterham range and dedicated aftersales support.",
+    "url": "https://caterhamcars.com/ja/news/caterham-expands-european-network-with-three-new-retailer-appointments",
+    "pass": 1
+   },
+   {
+    "quote": "Teamed with a naturally aspirated 2.0 litre Ford Duratec Engine, it delivers 168ps at 7,250rpm for a power-to-weight ratio of 321bhp/tonne. Paired with a five-speed gearbox, the Nürburgring Edition accelerates from 0-60mph in 4.8 seconds and tops out at a top speed of 209kph.",
+    "url": "https://caterhamcars.com/ja/news/100-years-of-the-ring-one-seven-caterham-unveils-the-nurburgring-limited-edition",
+    "pass": 1
+   },
+   {
+    "quote": "This track-only Seven Miami Special Edition, features a naturally aspirated 2.0-litre Ford Duratec engine, which delivers 210 bhp at 7,600 rpm for a power-to-weight ratio of 375 bhp-per-tonne. Mated to a five-speed manual gearbox, it accelerates from 0-60 mph in just 3.8 seconds and reaches a top speed of 136 mph.",
+    "url": "https://caterhamcars.com/ja/news/caterham-takes-on-miami",
+    "pass": 1
+   },
+   {
+    "quote": "The Miami race weekend is widely recognised for its vibrant energy, world-class entertainment and drawing a diverse audience of industry leaders, celebrities and motorsport enthusiasts alike. Caterham’s presence at such a prestigious international motorsport event, complements the brand's focus on USA market expansion and the recent appointment of Miami’s",
+    "url": "https://caterhamcars.com/ja/news/caterham-takes-on-miami",
+    "pass": 1
+   },
+   {
+    "quote": "The new long-term agreement means that every new Caterham Seven built at the Caterham HQ in Dartford, UK will have their first fill of lubricants supplied by Motul – from the road-going 170 to every new race car across all five Caterham Motorsport UK Championships.",
+    "url": "https://caterhamcars.com/en/news/caterham-and-motul-renew-their-partnership-focused-on-performance",
+    "pass": 3
+   },
+   {
+    "quote": "Honda of the UK Manufacturing",
+    "url": "https://www.cbinsights.com/company/caterham-cars/alternatives-competitors",
+    "pass": 3
+   },
+   {
+    "quote": "Honda of the UK Manufacturing manufactures passenger vehicles. It assembles vehicles for domestic and international markets. It primarily serves automotive manufacturer…",
+    "url": "https://www.cbinsights.com/company/caterham-cars/alternatives-competitors",
+    "pass": 3
+   },
+   {
+    "quote": "Caterham Cars vs. Honda of the UK Manufacturing",
+    "url": "https://www.cbinsights.com/company/caterham-cars/alternatives-competitors",
+    "pass": 3
+   },
+   {
+    "quote": "Compare Caterham Cars and Honda of the UK Manufacturing",
+    "url": "https://www.cbinsights.com/company/caterham-cars/alternatives-competitors",
+    "pass": 3
+   },
+   {
+    "quote": "BMW UK",
+    "url": "https://www.cbinsights.com/company/caterham-cars/alternatives-competitors",
+    "pass": 3
+   },
+   {
+    "quote": "McLaren Automotive",
+    "url": "https://www.cbinsights.com/company/caterham-cars/alternatives-competitors",
+    "pass": 3
+   },
+   {
+    "quote": "All new Caterham Sevens built at the Caterham HQ, Dartford, UK have their first fill of lubricants supplied by Motul",
+    "url": "https://www.motul.com/corporate/newsroom/presse-release/caterham-and-motul-renew-their-partnership-focused-on-performance",
+    "pass": 3
+   },
+   {
+    "quote": "Dartford, Thursday, 5th February 2026",
+    "url": "https://www.motul.com/corporate/newsroom/presse-release/caterham-and-motul-renew-their-partnership-focused-on-performance",
+    "pass": 3
+   },
+   {
+    "quote": "The new long-term agreement means that every new Caterham Seven built at the Caterham HQ in Dartford, UK will have their first fill of lubricants supplied by Motul – from the road-going 170 to every new race car across all five Caterham Motorsport UK Championships.",
+    "url": "https://www.motul.com/corporate/newsroom/presse-release/caterham-and-motul-renew-their-partnership-focused-on-performance",
+    "pass": 3
+   },
+   {
+    "quote": "Caterham Cars Ltd, Unit 10, Rennie Drive, Dartford, DA1 5FD",
+    "url": "https://www.motul.com/corporate/newsroom/presse-release/caterham-and-motul-renew-their-partnership-focused-on-performance",
+    "pass": 3
+   },
+   {
+    "quote": "The British manufacturer produces its unique cars exclusively from within the UK. Today, Caterham is headquartered in Dartford, Kent, where it has built cars in both assembled and kit-build form since 1987. As of 2026, Caterham is represented by over 50 official retailers across 15 key markets globally.",
+    "url": "https://www.motul.com/corporate/newsroom/presse-release/caterham-and-motul-renew-their-partnership-focused-on-performance",
+    "pass": 3
+   },
+   {
+    "quote": "The Caterham model range consists of several models which feature Suzuki, Ford or HORSE powered engines. Certain models are available in specific regions, and the current lineup features the Seven Academy race car, Seven 420R race car, Seven 170, Super Seven 600, Super Seven 2000, Seven 340, Seven 360, Seven 420, Seven 420 CUP, Seven 620, Seven 310 Encore and the Seven CSR Twenty.",
+    "url": "https://www.motul.com/corporate/newsroom/presse-release/caterham-and-motul-renew-their-partnership-focused-on-performance",
+    "pass": 3
+   },
+   {
+    "quote": "10 Lancia Delta S4 Stradale (0-60 Mph 3.5-Seconds) · 9 Ford RS200 Evolution (0-60 Mph 3.8-Seconds) · 8 Caterham 7 HPC 1700 BRD (0-60 Mph 4.8-...",
+    "url": "https://growjo.com/company/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Empresaria Grou...",
+    "url": "https://growjo.com/company/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Inside Saudi",
+    "url": "https://www.cityam.com/caterham-bosses-voice-disappointment-at-fourth-loss-in-a-row/",
+    "pass": 3
+   },
+   {
+    "quote": "Since we are focusing on the modern Seven (Zetec/Duratec/Sigma), currently all items in the store are intended for left-hand-drive models. If you are looking for something that is specific to a right-hand-drive vehicle, or an item not currently in the store, please contact us at",
+    "url": "http://www.beachmanracing.com/store",
+    "pass": 3
+   },
+   {
+    "quote": "Ford Kent Crossflow",
+    "url": "https://rockymountaincaterham.com/parts/",
+    "pass": 3
+   },
+   {
+    "quote": "The Drivetrain. The chosen engine and gearbox (such as Ford Duratec or Suzuki turbo units depending on the model), plus the differential and driveshafts",
+    "url": "https://caterhamcars.com/en/models/build-a-caterham",
+    "pass": 3
+   },
+   {
+    "quote": "Assembly Guide (Sigma) Edition 2.2",
+    "url": "https://caterhamcars.com/en/models/build-a-caterham",
+    "pass": 3
+   },
+   {
+    "quote": "2.0 Litre Ford Duratec Engine",
+    "url": "https://caterhamcars.com/en/models/build-a-caterham",
+    "pass": 3
+   },
+   {
+    "quote": "https://mobile.engineering.com/audio/6379.mp3",
+    "url": "https://www.engineering.com/caterham-cars-futuristic-aeroseven/",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche, TCS $1.5B deal puts AI at the center of digital transformation",
+    "url": "https://www.engineering.com/caterham-cars-futuristic-aeroseven/",
+    "pass": 3
+   },
+   {
+    "quote": "Dartford",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Ford-Lotus Twin Cam",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Caterham also had Vegantune develop a version of the Twin Cam using Ford's 1598-cc block (rather than basing it on the earlier 1498",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Bob has amassed over 40 years of experience in all aspects of vehicle design, innovation, engineering, sourcing and project management. Culminating with six years as Program Director for NISMO road cars and sports models, including the Nissan 370z and GT-R.",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Dartford, Kent",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": ", Oxfordshire, where it is expected the new models of cars to be produced in the future will be developed and built. This new facility was formerly used by the",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "In 2024 Caterham Cars moved production to a brand new facility, still in Dartford, Kent.",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Engines: 1.6-litre Ford Sigma (120,125 or 150",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "bhp) or 2.0-litre Ford Duratec (175",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "The Superlight is intended for track and fast road usage. Superlight spec includes performance options such as carbon bodywork and a close ratio 6-speed gearbox. A wind deflector in place of the windscreen makes a helmet more or less mandatory. The Superlight R400 uses a 2.0 litre Ford Duratec engine tuned to",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Engines: 1.6-litre Ford Sigma (150",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Ford Duratec",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Bugatti Veyron",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Engines: 2.3-litre Ford Duratec tuned by Cosworth (200",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Historically, engines have been supplied by Ford, specifically",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Ford Kent engines",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "McLaren F1",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Ford Zetec",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": ", Honda Fireblade, Honda Blackbird, Suzuki Hayabusa and even the Mazda Rotary engine.",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Since 2017, several cars have been built with the direct injection turbo Ford Ecoboost 1.6.litre version of this engine which with a hybrid turbo provides more horsepower than Caterham's own supercharged Duratec, and more torque than any factory car including the V8 Levante.",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "the sole engine supplier for factory-built Sevens, with Ford Zetec, Honda Fireblade, Yamaha R1 and Suzuki Hayabusa engines still available for kit assembly. The Rover engines were based on the",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Ford T9",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Ford Sigma",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "TTM GM0",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Aveling-Barford",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "The HR13 engine replaces the outgoing Ford Sigma engine, which has powered the Caterham Academy series since 2008.",
+    "url": "https://caterhamcars.com/ja/news/caterham-partners-with-horse-technologies-for-2026-academy-championship-engines",
+    "pass": 3
+   },
+   {
+    "quote": "Offering intoxicating performance, the track-only 420R race car features a naturally aspirated 2.0-litre Ford Duratec motorsport-tuned engine producing 180bhp, mated to a six-speed SADEV sequential gearbox and Nova Motorsport slick tyres, delivering exceptional levels of grip and driver engagement. Prices for the Seven 420R race car start at £53,990 in the UK or €59,995 in Europe.",
+    "url": "https://caterhamcars.com/en/news/caterham-cars-makes-its-debut-on-iracing,-the-world%E2%80%99s-largest-sim-racing-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Does this mean all future Caterhams will use a 1.3-litre four-pot Renault engine when the Ford supply runs out?",
+    "url": "https://www.topgear.com/car-news/motorsport/caterham-has-signed-a-deal-its-academy-cars-use-engines-renault-geely-joint",
+    "pass": 3
+   },
+   {
+    "quote": ". Both of those companies are 45 per cent shareholders, with Saudi oil company Aramco taking a 10 per cent share. Unsurprisingly, Horse focuses on hybrids, internal combustion engines, synthetic fuels and hydrogen.",
+    "url": "https://www.topgear.com/car-news/motorsport/caterham-has-signed-a-deal-its-academy-cars-use-engines-renault-geely-joint",
+    "pass": 3
+   }
+  ],
+  "部品・技術の供給": [
+   {
+    "quote": "Alongside its well-established pre-owned operation, Caterham Turn 7’s North Yorkshire facility will now supply the full Seven range, accompanied by official parts, workshop servicing and aftersales support.",
+    "url": "https://caterhamcars.com/ja/news/caterham-expands-uk-retailer-network-with-yorkshire-based-caterham-turn-7",
+    "pass": 1
+   },
+   {
+    "quote": "Based on the high-performance Seven R chassis, the track-only car features a naturally aspirated 2.0-litre Ford Duratec engine, delivering 210 bhp at 7,600 rpm for a power-to-weight ratio of 375 bhp-per-tonne. It’s mated to a five-speed manual gearbox, resulting in a 0-60 mph time of just 3.8 seconds and a top speed of 136 mph.",
+    "url": "https://caterhamcars.com/ja/news/seven-miami-special-edition-meets-monterey",
+    "pass": 1
+   },
+   {
+    "quote": "Caterham Cars is pleased to announce a new strategic partnership with Würth UK, one of the UK's leading suppliers of assembly tools, fastening technology and workshop solutions. The collaboration marks an important step in further enhancing the efficiency, precision and quality of Caterham's manufacturing operations at its Dartford facility.",
+    "url": "https://caterhamcars.com/ja/news/caterham-cars-announce-strategic-partnership-with-w%C3%BCrth-uk-to-enhance-manufacturing-operations",
+    "pass": 1
+   },
+   {
+    "quote": "The Caterham and Würth partnership reflects a commitment to supporting performance both on the track and behind the scenes, combining Caterham's iconic driving experience with Würth's expertise in workshop products, systems and solutions.",
+    "url": "https://caterhamcars.com/ja/news/caterham-cars-announce-strategic-partnership-with-w%C3%BCrth-uk-to-enhance-manufacturing-operations",
+    "pass": 1
+   },
+   {
+    "quote": "Other exterior upgrades include a Nürburgring \"red\" track day roll bar, a Nürburgring mesh grill with Seven logo in dual colour and a 620-style nosecone with carbon aero whiskers. The chassis colour is a distinctive Gunmetal Grey and the car features carbon front wings, Black Pack (black windscreen, headlamp bowls and exhaust heat shield), composite aero screen and LED rear lights clusters.",
+    "url": "https://caterhamcars.com/ja/news/100-years-of-the-ring-one-seven-caterham-unveils-the-nurburgring-limited-edition",
+    "pass": 1
+   },
+   {
+    "quote": "The Caterham Seven Roadsport Championship is officially sponsored by Bilstein for the 2026 season. A long-term technical partner of Caterham, Bilstein provides suspension components found across the Caterham model range, along with all five of our race championships. For more information on Bilstein,",
+    "url": "https://caterhamcars.com/ja/news/caterham-motorsport-united-kingdom-2026-sponsors",
+    "pass": 1
+   },
+   {
+    "quote": "Our final ladder in Caterham Motorsport, the Caterham Seven Championship UK, is sponsored by Motul for the 2026 season. As a global leader in high-performance lubricants and racing fluids, Motul’s involvement in both our road and race car programmes sees the supply of engine oil, brake fluid, gear oil and coolant. For more information on Motul,",
+    "url": "https://caterhamcars.com/ja/news/caterham-motorsport-united-kingdom-2026-sponsors",
+    "pass": 1
+   },
+   {
+    "quote": "VBOX Motorsport continues to play an integral role, providing high-definition camera systems and sophisticated data-logging technology utilised throughout the paddock to help drivers analyse their performance. For information about VBOX Motorsport,",
+    "url": "https://caterhamcars.com/ja/news/caterham-motorsport-united-kingdom-2026-sponsors",
+    "pass": 1
+   },
+   {
+    "quote": "Last but by no means least, we have EBC Brakes, a key technical partner supplying high-performance braking components for road, circuit, and race applications, and will supply all five championships. For more information about EBC Brakes,",
+    "url": "https://caterhamcars.com/ja/news/caterham-motorsport-united-kingdom-2026-sponsors",
+    "pass": 1
+   },
+   {
+    "quote": "Caterham Cars added: “Whilst the business still incurred some supply chain issues in the year, many of the previous year’s supply problems were resolved as the year progressed and this led to more stable monthly output for the majority of the year under review.",
+    "url": "https://www.cityam.com/caterham-bosses-voice-disappointment-at-fourth-loss-in-a-row/",
+    "pass": 3
+   },
+   {
+    "quote": "due to challenges on the UK supply side that are out of our control. This may change in the future as the supply chain challenges ease.",
+    "url": "https://rockymountaincaterham.com/parts/",
+    "pass": 3
+   },
+   {
+    "quote": "The Chassis",
+    "url": "https://caterhamcars.com/en/models/build-a-caterham",
+    "pass": 3
+   },
+   {
+    "quote": "The Components",
+    "url": "https://caterhamcars.com/en/models/build-a-caterham",
+    "pass": 3
+   },
+   {
+    "quote": "The Chassis, Interior and Trim",
+    "url": "https://caterhamcars.com/en/models/build-a-caterham",
+    "pass": 3
+   },
+   {
+    "quote": "A fully painted spaceframe chassis that you have chosen, matching painted nosecone, and front/rear cycle wings. Pre-installed dashboard with gauges and switches, seats, harnesses/seatbelts, and tunnel covers.",
+    "url": "https://caterhamcars.com/en/models/build-a-caterham",
+    "pass": 3
+   },
+   {
+    "quote": "Labeled Component Boxes for each specific build stage, containing parts like suspension wishbones, brakes, steering rack, and electrical looms",
+    "url": "https://caterhamcars.com/en/models/build-a-caterham",
+    "pass": 3
+   },
+   {
+    "quote": "No specialist fabrication skills or welding are required. The chassis arrives pre-assembled and powder-coated. Building the self assembly primarily requires a standard set of hand tools (metric/imperial sockets and spanner sets, torque wrench, rivet gun, jack, and axle stands). Caterham provides a detailed step-by-step",
+    "url": "https://caterhamcars.com/en/models/build-a-caterham",
+    "pass": 3
+   },
+   {
+    "quote": "Friday, 5 July 2024: If we asked you to name a vehicle that has been in production for over fifty years, had a minimally altered design and was highly manoeuvrable – we know exactly what you’d be thinking. No, it’s not Seven. It’s the Puma HC2 helicopter, and you won’t believe what we’ve been up to…",
+    "url": "https://caterhamcars.com/en/news/f-lightweight-caterham-x-raf-seven-360-unveiled-at-the-british-f1",
+    "pass": 3
+   },
+   {
+    "quote": "Caterham and the Royal Air Force (RAF) have unveiled a very special one-off car, built using the skin, interior and other components from a Puma HC2 helicopter that has come to the end of its service life, paying tribute to this remarkable aircraft.",
+    "url": "https://caterhamcars.com/en/news/f-lightweight-caterham-x-raf-seven-360-unveiled-at-the-british-f1",
+    "pass": 3
+   },
+   {
+    "quote": "Inside, the aircraft’s quilted soundproofing now lines the side panels and tunnel top, along with providing padding for carbon fibre seats, retaining the helicopter’s evacuation instructions stitched into the lining.",
+    "url": "https://caterhamcars.com/en/news/f-lightweight-caterham-x-raf-seven-360-unveiled-at-the-british-f1",
+    "pass": 3
+   },
+   {
+    "quote": "A final ‘easter egg’ can be found under the bonnet, where the ammunition box now contains the car’s battery.",
+    "url": "https://caterhamcars.com/en/news/f-lightweight-caterham-x-raf-seven-360-unveiled-at-the-british-f1",
+    "pass": 3
+   },
+   {
+    "quote": "The external skin remains as it was when taken from the aircraft for authenticity, whilst the remaining panels have been painted matching NATO green. The chassis also replicates the aircraft beneath the surface, finished in Desert Sand.",
+    "url": "https://caterhamcars.com/en/news/f-lightweight-caterham-x-raf-seven-360-unveiled-at-the-british-f1",
+    "pass": 3
+   },
+   {
+    "quote": "Sqn Ldr Morley said: “Royal Air Force Benson Science Technology Engineering and Mathematics (STEM) team will be attending multiple events throughout the summer, promoting STEM in both the military and industry. Along with support from RAF Engineering & Cyber Recruitment the team have an amazing opportunity to host and present this one-off Caterham car made with former RAF Puma components.\"",
+    "url": "https://caterhamcars.com/en/news/f-lightweight-caterham-x-raf-seven-360-unveiled-at-the-british-f1",
+    "pass": 3
+   },
+   {
+    "quote": "Components",
+    "url": "https://www.engineering.com/caterham-cars-futuristic-aeroseven/",
+    "pass": 3
+   },
+   {
+    "quote": "3D-Printed Swag Ideas for Your Next Trade Show",
+    "url": "https://www.engineering.com/caterham-cars-futuristic-aeroseven/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing needs AI-enabled, globally resilient supply chains",
+    "url": "https://www.engineering.com/caterham-cars-futuristic-aeroseven/",
+    "pass": 3
+   },
+   {
+    "quote": "Chassis variants",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "In 1974, under the name of Seven Cars Limited, Caterham built 20 production cars with chassis numbers 1 to 20 and one prototype, with chassis number 0 (CS3 3550 – CS3 3570).",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "cc engine, with the exception of chassis number 7 which, intended for racing, was fitted with a 1962",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "In the end, Caterham had engine tuners Vegantune build the engines, using reconditioned twin cam heads, to supply the very important Japanese market.",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "As with its Lotus Seven precursors, Caterhams are constructed of aluminium sheet attached to a tubular steel chassis. Nose cone and wings are either",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "carbon fibre",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "on some versions) rather than particularly powerful engines. As well as a lightweight chassis and bodywork, Caterham Sevens achieve their very low mass through their lack of comfort and safety oriented features such as a fixed roof, doors, radio, air-conditioning, airbags, traction/stability control,",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": ", safety and emissions regulations in the modern era. As a result, the chassis/engine combinations, specifications, pricing and kit-form availability vary widely between countries.",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "possible. Sevens will be shipped to the US in part-built form and sold as rolling chassis via Superformance's nationwide dealer network for customers to then complete the build personally or through the Superformance dealership. The initial US line-up includes several Caterham Sevens: 280, 360, 480, and the 620R.",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Mechanically the 21 was very similar to the 7, using a modified 7 spaceframe chassis with a new GRP roadster-style body, including a wrap-around windscreen and fold-away fabric hood (convertible top) manufactured by Oxted Trimming Company.",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "The 21 benefited from a considerably stiffer setup than a 7, due to the work on the chassis and having a full body. Comfort was introduced in the same minimalist style as the 7, adding just enough to make it a proper roadster without adding too much weight.",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "There are currently three chassis options available; Series 3, Series 5 and CSR.",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "The chassis were originailly",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "at Arch Motors, but when manufacture moved to Westbury the chassis became",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Although visually very similar to the S3, the SV is longer, taller and wider and has significantly more space for taller and broader drivers with the added benefits of more luggage space, a larger fuel tank and more stability. The SV chassis is",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "was launched in 2005 following extensive research and development by Caterham with the objective of creating an improved Seven. The CSR is based on the larger dimensions of the SV but with a substantially revised and stiffer chassis, inboard 'pushrod' front suspensions, fully independent rear suspension, improved aerodynamics, potent",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Classic trim is available on S3/SV chassis",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Superlight trim is available on S3/SV chassis",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "The CSR chassis comes in two basic trims which mirror those of the S3/SV cars. The 'basic' CSR has a road and touring oriented spec with full windscreen and weather equipment. This is available as the CSR200 (200",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "the sole engine supplier for factory-built Sevens, with Ford Zetec, Honda Fireblade, Yamaha R1 and Suzuki Hayabusa engines still available for kit assembly. The Rover engines were based on the",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "The most extreme engine/chassis combination available from the factory as of 2013 was the 620R with the",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": ". British Broadcasting Corporation. 2013",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Composite",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Caterham Composites",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Alternative Chassis Engineering",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Horse Technologies, a division of Horse Powertrain, who will become the new supplier of engines for the Caterham Academy Championship from 2026 onwards.",
+    "url": "https://caterhamcars.com/ja/news/caterham-partners-with-horse-technologies-for-2026-academy-championship-engines",
+    "pass": 3
+   },
+   {
+    "quote": "Horse Technologies is a division of Horse Powertrain – a global joint venture between Renault, Geely and Aramco – that develops and manufacturers next-generation hybrid and combustion engines and systems. Along with complete powertrains, Horse Technologies also produces cutting-edge engines, gearboxes, motors, batteries, and power electronics systems.",
+    "url": "https://caterhamcars.com/ja/news/caterham-partners-with-horse-technologies-for-2026-academy-championship-engines",
+    "pass": 3
+   },
+   {
+    "quote": "Does this mean all future Caterhams will use a 1.3-litre four-pot Renault engine when the Ford supply runs out?",
+    "url": "https://www.topgear.com/car-news/motorsport/caterham-has-signed-a-deal-its-academy-cars-use-engines-renault-geely-joint",
+    "pass": 3
+   },
+   {
+    "quote": "Now, Horse Technologies is apparently a subdivision of Horse Powertrain, and Horse Powertrain was",
+    "url": "https://www.topgear.com/car-news/motorsport/caterham-has-signed-a-deal-its-academy-cars-use-engines-renault-geely-joint",
+    "pass": 3
+   },
+   {
+    "quote": "It’s also worth noting that although the cars for the Caterham Academy are race-prepped, they’re also road legal. So, is this a sign Caterham will start using Horse engines across the board when its current supply of Ford Sigma units runs out? There’s no confirmation just yet, but we wouldn’t bet against it.",
+    "url": "https://www.topgear.com/car-news/motorsport/caterham-has-signed-a-deal-its-academy-cars-use-engines-renault-geely-joint",
+    "pass": 3
+   },
+   {
+    "quote": "BBC Studios is a commercial company that is owned by the BBC (and just the BBC). No money from the licence fee was used to create this website. The profits we make from it go back to BBC programme-makers to help fund great new BBC programmes. BBC is a trademark of the British Broadcasting Corporation. Logos © 1996.",
+    "url": "https://www.topgear.com/car-news/motorsport/caterham-has-signed-a-deal-its-academy-cars-use-engines-renault-geely-joint",
+    "pass": 3
+   },
+   {
+    "quote": "Construction of chassis #400 - the first Seven begins.",
+    "url": "https://caterhamcars.com/en/about/history",
+    "pass": 3
+   },
+   {
+    "quote": "Launch of the all new Larger Chassis - wider and longer.",
+    "url": "https://caterhamcars.com/en/about/history",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "Alongside its well-established pre-owned operation, Caterham Turn 7’s North Yorkshire facility will now supply the full Seven range, accompanied by official parts, workshop servicing and aftersales support.",
+    "url": "https://caterhamcars.com/ja/news/caterham-expands-uk-retailer-network-with-yorkshire-based-caterham-turn-7",
+    "pass": 1
+   },
+   {
+    "quote": "At this annual celebration of automotive excellence on the West Coast of California, collectors and track enthusiasts will have the rare opportunity to acquire two examples of the limited Caterham Seven Miami Special Edition, highlighting the manufacturer’s expanding footprint in the American market.",
+    "url": "https://caterhamcars.com/ja/news/seven-miami-special-edition-meets-monterey",
+    "pass": 1
+   },
+   {
+    "quote": ", which opens as part of the esteemed Leuba Collection. Renowned for their dedication to automotive excellence and heritage, the Leuba Collection is perfectly placed to introduce the lightweight sports car to a greater audience. Kevin Duffournet, Head of the Collection, and his team will ensure Swiss customers receive expert guidance through the Caterham range and dedicated aftersales support.",
+    "url": "https://caterhamcars.com/ja/news/caterham-expands-european-network-with-three-new-retailer-appointments",
+    "pass": 1
+   },
+   {
+    "quote": ". Under the expert guidance of CEO Bernardo Bello, the new Catalan showroom will help continue growing the Sevens presence in Spain and provide the Pure. Simple. Fun. Experience to enthusiast, whilst serving existing owners through aftersales support.",
+    "url": "https://caterhamcars.com/ja/news/caterham-expands-european-network-with-three-new-retailer-appointments",
+    "pass": 1
+   },
+   {
+    "quote": "API & Data Feeds",
+    "url": "https://www.cbinsights.com/company/caterham-cars/alternatives-competitors",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated annual revenue is currently",
+    "url": "https://growjo.com/company/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Aftersales Commercial Manager",
+    "url": "https://growjo.com/company/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Inside the Donkervoort, a Dutch super car like no other",
+    "url": "https://www.cityam.com/caterham-bosses-voice-disappointment-at-fourth-loss-in-a-row/",
+    "pass": 3
+   },
+   {
+    "quote": "Caterham provides direct factory aftersales support to help home builders. You can contact our dedicated technical assistance department via",
+    "url": "https://caterhamcars.com/en/models/build-a-caterham",
+    "pass": 3
+   },
+   {
+    "quote": "Caterham Racing was used by the company to act as a feeder team towards developing racing drivers for the",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Articles with multiple maintenance issues",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Top Gear Magazine Subscription – 3 months for £6",
+    "url": "https://www.topgear.com/car-news/motorsport/caterham-has-signed-a-deal-its-academy-cars-use-engines-renault-geely-joint",
+    "pass": 3
+   },
+   {
+    "quote": "BBC Studios is a commercial company that is owned by the BBC (and just the BBC). No money from the licence fee was used to create this website. The profits we make from it go back to BBC programme-makers to help fund great new BBC programmes. BBC is a trademark of the British Broadcasting Corporation. Logos © 1996.",
+    "url": "https://www.topgear.com/car-news/motorsport/caterham-has-signed-a-deal-its-academy-cars-use-engines-renault-geely-joint",
+    "pass": 3
+   },
+   {
+    "quote": "True to our ethos, we’ve created more than 1,000 brand new racing drivers through our Caterham Academy programme, but the Seven has a knack for making you feel like a hero wherever you drive.",
+    "url": "https://caterhamcars.com/en/about/history",
+    "pass": 3
+   }
+  ],
+  "創業期と参入のしやすさ": [
+   {
+    "quote": "Founded by father-and-son duo Jim and Callum McDougall, Turn 7 has firmly established itself within the Caterham community as an independent pre-owned specialist and service centre. The Seven is deep-rooted within the McDougall family with Jim having helped establish the concept behind the Caterham Academy, and Callum working as a Sales Executive for Caterham in the original Town End showroom.",
+    "url": "https://caterhamcars.com/ja/news/caterham-expands-uk-retailer-network-with-yorkshire-based-caterham-turn-7",
+    "pass": 1
+   },
+   {
+    "quote": "The Caterham Academy Championship is officially sponsored by Caffeine & Machine, the renowned automotive lifestyle brand and cultural hub. As part of the partnership, we are excited to have Caffeine & Machine founder and director, Phil McGovern, joining us on the grid. You can follow Phil’s journey on the Caterham and Caffeine & Machine social channels, and discover more about Caffeine & Machine",
+    "url": "https://caterhamcars.com/ja/news/caterham-motorsport-united-kingdom-2026-sponsors",
+    "pass": 1
+   },
+   {
+    "quote": "Caterham and Motul successfully launched their new partnership at the 2026 edition of Rétromobile in Paris, showcasing two Caterham Sevens, a 2005 K-Series and a 2025 Super Seven 2000, for visitors of the show to see on the Motul stand.",
+    "url": "https://caterhamcars.com/en/news/caterham-and-motul-renew-their-partnership-focused-on-performance",
+    "pass": 3
+   },
+   {
+    "quote": "Geely Holding Group is an automotive group that operates in vehicle manufacturing and technology. The company produces various vehicles, including new energy vehicles, and participates in the development of vehicle networking and autonomous driving technologies. It serves the automotive market with a focus on sustainable development. It was founded in 1986 and is based in Hangzhou, China.",
+    "url": "https://www.cbinsights.com/company/caterham-cars/alternatives-competitors",
+    "pass": 3
+   },
+   {
+    "quote": "Caterham and Motul successfully launched their new partnership at the 2026 edition of Rétromobile in Paris, showcasing two Caterham Sevens, a 2005 K-Series and a 2025 Super Seven 2000, for visitors of the show to see on the Motul stand.",
+    "url": "https://www.motul.com/corporate/newsroom/presse-release/caterham-and-motul-renew-their-partnership-focused-on-performance",
+    "pass": 3
+   },
+   {
+    "quote": "Caterham (Caterham Cars Ltd) has produced lightweight, two-seater sports cars since 1973 when Graham Nearn acquired the tooling, designs and exclusive rights to the Seven from Lotus founder Colin Chapman.",
+    "url": "https://www.motul.com/corporate/newsroom/presse-release/caterham-and-motul-renew-their-partnership-focused-on-performance",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 1853, Motul is a global company present in 160 countries. Over the years, the brand has built a solid reputation as a trusted partner to support the performance of leading manufacturers, top motorsport teams and major championships, such as the 24 Hours of Le Mans, the WEC, MotoGP, Dakar, Goodwood, or the UCI Mountain Bike World Series.",
+    "url": "https://www.motul.com/corporate/newsroom/presse-release/caterham-and-motul-renew-their-partnership-focused-on-performance",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue & Valuation",
+    "url": "https://growjo.com/company/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Total Funding",
+    "url": "https://growjo.com/company/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated Revenue & Valuation",
+    "url": "https://growjo.com/company/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Employees.",
+    "url": "https://growjo.com/company/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Number of Employees",
+    "url": "https://growjo.com/company/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Valuation",
+    "url": "https://growjo.com/company/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Caterham Cars was founded in 1974 by Graham Nearn and was independent until it was acquired by Tony Fernandez in 2011.",
+    "url": "https://www.cityam.com/caterham-bosses-voice-disappointment-at-fourth-loss-in-a-row/",
+    "pass": 3
+   },
+   {
+    "quote": "Your Caterham is delivered directly to your garage in organised, numbered crates.",
+    "url": "https://caterhamcars.com/en/models/build-a-caterham",
+    "pass": 3
+   },
+   {
+    "quote": "On average, assembling a Caterham Seven from this form takes approximately 50 to 80 hours for an amateur builder working in a standard home garage. Assembly time varies depending on the specific model, options selected, and your level of mechanical experience.",
+    "url": "https://caterhamcars.com/en/models/build-a-caterham",
+    "pass": 3
+   },
+   {
+    "quote": "Love the car, but short on garage space?",
+    "url": "https://caterhamcars.com/en/models/build-a-caterham",
+    "pass": 3
+   },
+   {
+    "quote": "A unique dashboard, authentically satin black to mirror the Puma’s, re-purposes the military grade switchgear from the aircraft to replace the regular dash switches and boasts a helicopter-style three-stage ignition sequence for added theatre to start-up. Meanwhile, the aircraft’s navigational clock forms the centrepiece of the dash.",
+    "url": "https://caterhamcars.com/en/news/f-lightweight-caterham-x-raf-seven-360-unveiled-at-the-british-f1",
+    "pass": 3
+   },
+   {
+    "quote": "Founded",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Founder",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Caterham Cars had been a major Lotus 7 dealer during the 1960s, and its founder, Graham Nearn, purchased the rights to continue manufacture of the Seven design from Chapman in 1973,",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Caterham, however, underestimated the effort involved in creating a completely new car and took far too long from its inception to deliver the first customer cars, seeing many people who had placed deposits defect to the Lotus Elise and other vehicles. Early ones were used as \"prototypes\", leaving customers to help iron out some of the foibles of the new car.",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "bhp Cosworth powered dedicated race car with a Quaife six-speed sequential gearbox replacing the standard Caterham unit used in the R300. As with all series above Academy, it runs on Avon CR500 tyres.",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "In October 2012 a supercharged model for a race-series above the R300-class was released, including slick tyres and a sequential gearbox.",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Caterham and Motul renew their partnership focused on ... — Caterham and Motul renew their partnership focused on ... Caterham Cars https://caterhamcars.com > ... > News",
+    "url": "https://caterhamcars.com/en/news/caterham-and-motul-renew-their-partnership-focused-on-performance",
+    "pass": 3
+   },
+   {
+    "quote": "Top Caterham Cars Alternatives, Competitors - CB Insights — Top Caterham Cars Alternatives, Competitors - CB Insights CB Insights https://www.cbinsights.com > company",
+    "url": "https://www.cbinsights.com/company/caterham-cars/alternatives-competitors",
+    "pass": 3
+   },
+   {
+    "quote": "Caterham and Motul renew their partnership focused on ... — Caterham and Motul renew their partnership focused on ... MOTUL https://www.motul.com > presse-release",
+    "url": "https://www.motul.com/corporate/newsroom/presse-release/caterham-and-motul-renew-their-partnership-focused-on-performance",
+    "pass": 3
+   },
+   {
+    "quote": "Caterham Group - Wikipedia — Caterham Group - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Cate...",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Group",
+    "pass": 3
+   },
+   {
+    "quote": "Caterham and Würth UK partner to enhance manufacturing ... — Caterham and Würth UK partner to enhance manufacturing ... Facebook https://www.facebook.com > wurthuk > posts > caterham-...",
+    "url": "https://www.facebook.com/wurthuk/posts/caterham-and-w%C3%BCrth-uk-partner-to-enhance-manufacturing-and-motorsport-operations/1451001037069164/",
+    "pass": 3
+   },
+   {
+    "quote": "Caterham Cars - Overview, News & Similar companies — Caterham Cars - Overview, News & Similar companies ZoomInfo https://www.zoominfo.com > caterha...",
+    "url": "https://www.zoominfo.com/c/caterham-cars-ltd/16616401",
+    "pass": 3
+   },
+   {
+    "quote": "Caterham Cars : Revenue , Competitors, Alternatives - Growjo — Caterham Cars : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > Caterham_Cars",
+    "url": "https://growjo.com/company/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "Caterham bosses voice 'disappointment' at fourth loss in a row — Caterham bosses voice 'disappointment' at fourth loss in a row City AM https://www.cityam.com > caterham-b...",
+    "url": "https://www.cityam.com/caterham-bosses-voice-disappointment-at-fourth-loss-in-a-row/",
+    "pass": 3
+   },
+   {
+    "quote": "Caterham Cars Group - Overview, News & Similar companies — Caterham Cars Group - Overview, News & Similar companies ZoomInfo https://www.zoominfo.com > caterha...",
+    "url": "https://www.zoominfo.com/c/caterham-cars-group-ltd/1156354713",
+    "pass": 3
+   },
+   {
+    "quote": "Caterham Cars - 2026 Company Profile, Funding & Competitors — Caterham Cars - 2026 Company Profile, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/caterham-cars/__ReYYzxk-wChnArT--76AGsAAIz1iMysa0lkFO7-cvgU",
+    "pass": 3
+   },
+   {
+    "quote": "USA Caterham Parts Store — Beachman Racing — USA Caterham Parts Store — Beachman Racing Beachman Racing http://www.beachmanracing.com > st...",
+    "url": "http://www.beachmanracing.com/store",
+    "pass": 3
+   },
+   {
+    "quote": "PARTS - Rocky Mountain Caterham — PARTS - Rocky Mountain Caterham Rocky Mountain Caterham https://rockymountaincaterham.com > ...",
+    "url": "https://rockymountaincaterham.com/parts/",
+    "pass": 3
+   },
+   {
+    "quote": "Assembly - Self-Build - Caterham Cars — Assembly - Self-Build - Caterham Cars Caterham Cars https://caterhamcars.com > ... > Models",
+    "url": "https://caterhamcars.com/en/models/assembly",
+    "pass": 3
+   },
+   {
+    "quote": "Caterham Project V Concept Borrows Parts From High-End ... — Caterham Project V Concept Borrows Parts From High-End ... CarBuzz https://carbuzz.com > News",
+    "url": "https://carbuzz.com/news/caterham-project-v-concept-borrows-parts-from-high-end-european-sports-cars/",
+    "pass": 3
+   },
+   {
+    "quote": "New USA Caterham Online Parts Store - USA7s Forum — New USA Caterham Online Parts Store - USA7s Forum USA7s Forum https://usa7s.net > ips > topic > 12570...",
+    "url": "https://usa7s.net/ips/topic/12570-new-usa-caterham-online-parts-store/",
+    "pass": 3
+   },
+   {
+    "quote": "FLIGHT-WEIGHT: RAF SEVEN 360 UNVEILED AT BRITISH F1 — FLIGHT-WEIGHT: RAF SEVEN 360 UNVEILED AT BRITISH F1 Caterham Cars https://caterhamcars.com > ... > News",
+    "url": "https://caterhamcars.com/en/news/f-lightweight-caterham-x-raf-seven-360-unveiled-at-the-british-f1",
+    "pass": 3
+   },
+   {
+    "quote": "Caterham Cars ' Futuristic AeroSeven - Engineering.com — Caterham Cars ' Futuristic AeroSeven - Engineering.com Engineering.com https://www.engineering.com > caterh...",
+    "url": "https://www.engineering.com/caterham-cars-futuristic-aeroseven/",
+    "pass": 3
+   },
+   {
+    "quote": "Caterham Cars - Wikipedia — Caterham Cars - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Cate...",
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "pass": 3
+   },
+   {
+    "quote": "2027 Caterham Project V SHOCKED the World - YouTube — 2027 Caterham Project V SHOCKED the World - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=Kvqu6Oo_93c",
+    "pass": 3
+   },
+   {
+    "quote": "Caterham's Project V: Electric Sports Car Revolution — Caterham's Project V: Electric Sports Car Revolution Industrial Equipment News https://www.ien.com > blog > caterha...",
+    "url": "https://www.ien.com/product-development/blog/22959170/caterhams-project-v-electric-sports-car-revolution",
+    "pass": 3
+   },
+   {
+    "quote": "Caterham partners with Horse Technologies for 2026 ... — Caterham partners with Horse Technologies for 2026 ... Caterham Cars https://caterhamcars.com > ... > News",
+    "url": "https://caterhamcars.com/ja/news/caterham-partners-with-horse-technologies-for-2026-academy-championship-engines",
+    "pass": 3
+   },
+   {
+    "quote": "CATERHAM CARS MAKES ITS DEBUT ON iRACING, THE ... — CATERHAM CARS MAKES ITS DEBUT ON iRACING, THE ... Caterham Cars https://caterhamcars.com > ... > News",
+    "url": "https://caterhamcars.com/en/news/caterham-cars-makes-its-debut-on-iracing,-the-world%E2%80%99s-largest-sim-racing-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Caterham has signed a deal for its Academy cars to use ... — Caterham has signed a deal for its Academy cars to use ... Top Gear https://www.topgear.com > motorsport",
+    "url": "https://www.topgear.com/car-news/motorsport/caterham-has-signed-a-deal-its-academy-cars-use-engines-renault-geely-joint",
+    "pass": 3
+   },
+   {
+    "quote": "FPZERO Simulators x Caterham Cars - FPZERO Simulators — FPZERO Simulators x Caterham Cars - FPZERO Simulators FPZERO Simulators https://www.fpzero.co.uk > blog > the...",
+    "url": "https://www.fpzero.co.uk/blog/the-official-caterham-clubsport-simulator/",
+    "pass": 3
+   },
+   {
+    "quote": "We are excited to announce that Caterham has signed a ... — We are excited to announce that Caterham has signed a ... Facebook https://www.facebook.com > MotorsportCaterham > posts",
+    "url": "https://www.facebook.com/MotorsportCaterham/posts/we-are-excited-to-announce-that-caterham-has-signed-a-formal-agreement-with-hors/122146107116482178/",
+    "pass": 3
+   },
+   {
+    "quote": "About Us - History | Caterham Cars — About Us - History | Caterham Cars Caterham Cars https://caterhamcars.com > history",
+    "url": "https://caterhamcars.com/en/about/history",
+    "pass": 3
+   },
+   {
+    "quote": "Graham Nearn: founder of Caterham Cars - The Times — Graham Nearn: founder of Caterham Cars - The Times The Times https://www.thetimes.com > article",
+    "url": "https://www.thetimes.com/sport/formula-one/article/graham-nearn-founder-of-caterham-cars-8x07f39592t",
+    "pass": 3
+   },
+   {
+    "quote": "Caterham's CEO On Making Purist British Sportscars That ... — Caterham's CEO On Making Purist British Sportscars That ... Forbes https://www.forbes.com > ... > Arts",
+    "url": "https://www.forbes.com/sites/nargessbanks/2018/11/21/insight-caterham/",
+    "pass": 3
+   },
+   {
+    "quote": "The intertwined story of Caterham and the Lotus Seven — The intertwined story of Caterham and the Lotus Seven Footman James https://www.footmanjames.co.uk > blog",
+    "url": "https://www.footmanjames.co.uk/blog/story-of-caterham-and-the-lotus-seven",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://caterhamcars.com/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://caterhamcars.com/ja?view=article&id=40:news&catid=9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://caterhamcars.com/ja/news/620r-takes-on-top-gears-tunnel-run",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://caterhamcars.com/ja/news/caterham-expands-uk-retailer-network-with-yorkshire-based-caterham-turn-7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://caterhamcars.com/ja/news/2027-caterham-motorsport-calendar-announced",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://caterhamcars.com/ja/news/caterham-cars-makes-its-debut-on-iracing,-the-world%E2%80%99s-largest-sim-racing-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://caterhamcars.com/ja?view=article&id=40:news&catid=9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://caterhamcars.com/ja/news/seven-miami-special-edition-meets-monterey",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://caterhamcars.com/ja/news/caterham-cars-announce-strategic-partnership-with-w%C3%BCrth-uk-to-enhance-manufacturing-operations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://caterhamcars.com/ja/news/caterham-expands-european-network-with-three-new-retailer-appointments",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://caterhamcars.com/ja/news/100-years-of-the-ring-one-seven-caterham-unveils-the-nurburgring-limited-edition",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://caterhamcars.com/ja/news/caterham-takes-on-miami",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://caterhamcars.com/ja/news/caterham-motorsport-united-kingdom-2026-sponsors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://caterhamcars.com/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://caterhamcars.com/assets/Images/News/620R%20TAKES%20ON%20TOP%20GEARS%20TUNNEL%20RUN/top-gear-4.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://caterhamcars.com/assets/Images/News/620R%20TAKES%20ON%20TOP%20GEARS%20TUNNEL%20RUN/top-gear-9.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://caterhamcars.com/assets/Images/News/620R%20TAKES%20ON%20TOP%20GEARS%20TUNNEL%20RUN/top-gear-7.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://caterhamcars.com/assets/Images/News/620R%20TAKES%20ON%20TOP%20GEARS%20TUNNEL%20RUN/top-gear-13.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://caterhamcars.com/assets/Images/News/620R%20TAKES%20ON%20TOP%20GEARS%20TUNNEL%20RUN/top-gear-14.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://caterhamcars.com/assets/Images/News/620R%20TAKES%20ON%20TOP%20GEARS%20TUNNEL%20RUN/top-gear-18.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://caterhamcars.com/assets/Images/News/620R%20TAKES%20ON%20TOP%20GEARS%20TUNNEL%20RUN/top-gear-5.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://caterhamcars.com/assets/Images/News/620R%20TAKES%20ON%20TOP%20GEARS%20TUNNEL%20RUN/top-gear-10.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://caterhamcars.com/ja/news/caterham-cars-makes-its-debut-on-iracing,-the-world%E2%80%99s-largest-sim-racing-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://caterhamcars.com/ja/news/caterham-cars-announce-strategic-partnership-with-w%C3%BCrth-uk-to-enhance-manufacturing-operations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://caterhamcars.com/us/news-us/miami-meet-caterham-walt-grace-vintage-becomes-the-brands-newest-usa-dealer",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://caterhamcars.com/en/news/caterham-and-motul-renew-their-partnership-focused-on-performance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/caterham-cars/alternatives-competitors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.motul.com/corporate/newsroom/presse-release/caterham-and-motul-renew-their-partnership-focused-on-performance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/caterham-cars-ltd/16616401",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/Caterham_Cars",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cityam.com/caterham-bosses-voice-disappointment-at-fourth-loss-in-a-row/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.beachmanracing.com/store",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rockymountaincaterham.com/parts/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://caterhamcars.com/en/models/build-a-caterham",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://caterhamcars.com/en/news/f-lightweight-caterham-x-raf-seven-360-unveiled-at-the-british-f1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.engineering.com/caterham-cars-futuristic-aeroseven/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://caterhamcars.com/ja/news/caterham-partners-with-horse-technologies-for-2026-academy-championship-engines",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://caterhamcars.com/en/news/caterham-cars-makes-its-debut-on-iracing,-the-world%E2%80%99s-largest-sim-racing-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.topgear.com/car-news/motorsport/caterham-has-signed-a-deal-its-academy-cars-use-engines-renault-geely-joint",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://caterhamcars.com/en/about/history",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thetimes.com/sport/formula-one/article/graham-nearn-founder-of-caterham-cars-8x07f39592t",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Caterham Cars engineering services clients other industries",
+   "results": [
+    "https://caterhamcars.com/en/news/caterham-and-motul-renew-their-partnership-focused-on-performance",
+    "https://www.cbinsights.com/company/caterham-cars/alternatives-competitors",
+    "https://www.motul.com/corporate/newsroom/presse-release/caterham-and-motul-renew-their-partnership-focused-on-performance",
+    "https://en.wikipedia.org/wiki/Caterham_Group",
+    "https://www.facebook.com/wurthuk/posts/caterham-and-w%C3%BCrth-uk-partner-to-enhance-manufacturing-and-motorsport-operations/1451001037069164/",
+    "https://www.evo.co.uk/caterham/11973/caterham-sets-up-engineering-business",
+    "https://caterhamcars.com/en/about/company",
+    "https://growjo.com/company/Caterham_Cars",
+    "https://www.caranddriver.com/news/a70532899/caterham-us-plans/",
+    "https://www.linkedin.com/company/caterham-technology"
+   ]
+  },
+  {
+   "query": "Caterham Cars revenue turnover employees",
+   "results": [
+    "https://www.zoominfo.com/c/caterham-cars-ltd/16616401",
+    "https://growjo.com/company/Caterham_Cars",
+    "https://www.cityam.com/caterham-bosses-voice-disappointment-at-fourth-loss-in-a-row/",
+    "https://www.zoominfo.com/c/caterham-cars-group-ltd/1156354713",
+    "https://tracxn.com/d/companies/caterham-cars/__ReYYzxk-wChnArT--76AGsAAIz1iMysa0lkFO7-cvgU",
+    "https://www.owler.com/company/caterhamcars",
+    "https://pitchbook.com/profiles/company/59887-72",
+    "https://uk.globaldatabase.com/company/caterham-cars-ltd",
+    "https://open.endole.co.uk/insight/company/01171408-caterham-cars-ltd",
+    "https://compworth.com/company/caterham-cars"
+   ]
+  },
+  {
+   "query": "Caterham Cars supplies components to OEM",
+   "results": [
+    "http://www.beachmanracing.com/store",
+    "https://rockymountaincaterham.com/parts/",
+    "https://caterhamcars.com/en/models/assembly",
+    "https://carbuzz.com/news/caterham-project-v-concept-borrows-parts-from-high-end-european-sports-cars/",
+    "https://usa7s.net/ips/topic/12570-new-usa-caterham-online-parts-store/",
+    "https://www.ebay.co.uk/b/bn_79425824",
+    "https://caterhamparts.co.uk/",
+    "https://www.youtube.com/watch?v=ix7Mbxp2VNA&vl=ja",
+    "https://www.demon-tweeks.com/motorsport/car-preparation/caterham-parts/?srsltid=AYCX9vLa0s8_2DXQ2RgT5BjcljC2RZHA2hl7MvdTDzJNNwR7HpsRDTk2",
+    "https://officialcaterhamparts.com/"
+   ]
+  },
+  {
+   "query": "Caterham Cars aerospace defence non-automotive",
+   "results": [
+    "https://caterhamcars.com/en/news/f-lightweight-caterham-x-raf-seven-360-unveiled-at-the-british-f1",
+    "https://www.engineering.com/caterham-cars-futuristic-aeroseven/",
+    "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "https://www.youtube.com/watch?v=Kvqu6Oo_93c",
+    "https://www.ien.com/product-development/blog/22959170/caterhams-project-v-electric-sports-car-revolution",
+    "https://caterhamcars.com/us/configurator",
+    "https://www.facebook.com/nytimes/posts/the-british-company-caterham-is-making-a-push-into-the-american-market-with-the-/1344080584241068/",
+    "https://www.motorauthority.com/news/1087075_caterham-aeroseven-concept-unveiled-a-modern-f1-inspired-seven",
+    "https://en.wikipedia.org/wiki/Caterham_Group",
+    "https://caterhamcars.com/en"
+   ]
+  },
+  {
+   "query": "Caterham Cars licensing technology partnership",
+   "results": [
+    "https://caterhamcars.com/ja/news/caterham-partners-with-horse-technologies-for-2026-academy-championship-engines",
+    "https://caterhamcars.com/en/news/caterham-cars-makes-its-debut-on-iracing,-the-world%E2%80%99s-largest-sim-racing-platform",
+    "https://www.topgear.com/car-news/motorsport/caterham-has-signed-a-deal-its-academy-cars-use-engines-renault-geely-joint",
+    "https://www.fpzero.co.uk/blog/the-official-caterham-clubsport-simulator/",
+    "https://www.facebook.com/MotorsportCaterham/posts/we-are-excited-to-announce-that-caterham-has-signed-a-formal-agreement-with-hors/122146107116482178/",
+    "https://caterhamcars.com/ja/news/caterham-partners-with-fpzero-simulators",
+    "https://www.octane-magazine.com/news/caterham-names-caffeine-machine-as-official-partner-for-2026-uk-academy-race-series/",
+    "https://swindonpowertrain.com/swindon-powertrain-partner-with-caterham-on-ev-seven/",
+    "https://news.cision.com/horse-powertrain/r/horse-technologies-engines-to-power-2026-caterham-academy-cars,c4284624",
+    "https://en.wikipedia.org/wiki/Caterham_Group"
+   ]
+  },
+  {
+   "query": "Caterham Cars founder early days first customer funding",
+   "results": [
+    "https://en.wikipedia.org/wiki/Caterham_Cars",
+    "https://caterhamcars.com/en/about/history",
+    "https://www.thetimes.com/sport/formula-one/article/graham-nearn-founder-of-caterham-cars-8x07f39592t",
+    "https://www.forbes.com/sites/nargessbanks/2018/11/21/insight-caterham/",
+    "https://www.footmanjames.co.uk/blog/story-of-caterham-and-the-lotus-seven",
+    "https://sportscardigest.com/50th-anniversary-of-caterham/",
+    "https://www.youtube.com/watch?v=E5-iGLk1PdY",
+    "http://colinchapmanmuseum.co.uk/?page_id=21",
+    "https://manufacturing-today.com/news/caterham-cars/",
+    "https://en.wikipedia.org/wiki/Caterham_Group"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式25頁／PDF・画像0件／外部18頁・検索6回）",
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像0件／外部18頁・検索6回）",
+  "他社向けサービス": "記載なし（3回確認済み：公式25頁／PDF・画像0件／外部18頁・検索6回）"
+ }
+}

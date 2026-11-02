@@ -1,0 +1,1837 @@
+{
+ "name": "手術支援ロボット",
+ "en": "surgical robot",
+ "aliases": [
+  "ロボット手術"
+ ],
+ "context": "11 創薬 ④先端医療デバイス",
+ "kind": "market",
+ "researched_at": "2026-11-02T17:38:23.084736+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "手術ロボット市場規模・シェアレポート、2034年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/surgical-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の手術用ロボット市場は、2024年に81億米ドルと評価されました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/surgical-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Market Insights Inc.が発行した最新レポートによると、市場は2025年の92億米ドルから2034年には384億米ドルに達すると予測されており、予測期間中に17.2%のCAGRで成長する見込みです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/surgical-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/surgical-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/surgical-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年の市場規模予測",
+    "url": "https://www.gminsights.com/ja/industry-analysis/surgical-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場は2021年の58億米ドルから増加し、2023年には71億米ドルに達し、過去の成長率は11.9%でした",
+    "url": "https://www.gminsights.com/ja/industry-analysis/surgical-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国市場は、2021年に33億米ドル、2022年に36億米ドルと評価されました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/surgical-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は、2023年の40億米ドルから成長し、2024年に45億米ドルに達し、2025年から2034年にかけて15,9%のCAGRで成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/surgical-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "ヨーロッパ市場は、2024年に15億米ドルを占め、予測期間中に有望な成長を示すと予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/surgical-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模:",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%89%8B%E8%A1%93%E7%94%A8%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "この最新の投資により、総額が1億ドルを超える",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%89%8B%E8%A1%93%E7%94%A8%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "製品の種類 インサイト(Revenue、USD Mn、2020 - 2032)",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%89%8B%E8%A1%93%E7%94%A8%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "手術の洞察(Revenue、USD Mn、2020 - 2032)",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%89%8B%E8%A1%93%E7%94%A8%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "地域洞察(Revenue、USD Mn、2020 - 2032)",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%89%8B%E8%A1%93%E7%94%A8%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "手術ロボット市場はUSD 8,280.0で評価されると推定される 2025年のMnは、2032年までにUSD 20,604.6 Mnに達すると予想されます",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%89%8B%E8%A1%93%E7%94%A8%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "手術ロボット市場は2025年から2032年にかけて13.9%を予定しています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%89%8B%E8%A1%93%E7%94%A8%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 手術支援ロボットの世界市場規模は、2020 年の64 億ドル（実績）から2026 年の144",
+    "url": "https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2021_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "億ドル（予測）と、今後の増加が見込まれている6",
+    "url": "https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2021_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "市場シェアの多い企業 10億ドル以上の買収",
+    "url": "https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2021_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "れらの企業も技術開発成果を特許出願しており（表 5）、手術支援ロボットの市場は全体",
+    "url": "https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2021_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「手術支援ロボット市場規模、成長と動向分析レポート 2026-2033年」の市場調査レポート出版・販売開始のご案内 | 株式会社SEMABIZのプレスリリース",
+    "url": "https://www.dreamnews.jp/press/0000359418",
+    "pass": 3
+   },
+   {
+    "quote": "「手術支援ロボット市場規模、成長と動向分析レポート 2026-2033年」の市場調査レポート出版・販売開始のご案内",
+    "url": "https://www.dreamnews.jp/press/0000359418",
+    "pass": 3
+   },
+   {
+    "quote": "SEMABIZはGrand View Researchの英文調査報告書「手術支援ロボット市場規模、成長と動向分析レポート 2026-2033年-Surgical Robots Market (2026 - 2033)」の販売を2026年8月17日に開始いたしました",
+    "url": "https://www.dreamnews.jp/press/0000359418",
+    "pass": 3
+   },
+   {
+    "quote": "手術支援ロボット市場 - 用途別（一般外科、整形外科）、エンドユーザー別（入院、外来）、地域、セグメント別予測による市場規模、成長と動向分析レポート 2026-2033年",
+    "url": "https://www.dreamnews.jp/press/0000359418",
+    "pass": 3
+   },
+   {
+    "quote": "Surgical Robots Market Size, Share & Trends Analysis Report By Components, By Application (General Surgery, Orthopedic Surgery), By End-use (Inpatient, Outpatient), By Region, And Segment Forecasts, 2026 - 2033",
+    "url": "https://www.dreamnews.jp/press/0000359418",
+    "pass": 3
+   },
+   {
+    "quote": "ドローン・アズ・ア・サービス（DaaS）の市場規模、成長と動向分析レポート 2026-2033年（Grand View Research）",
+    "url": "https://www.dreamnews.jp/press/0000359418",
+    "pass": 3
+   },
+   {
+    "quote": "ヘルシースナックの市場規模、成長と動向分析レポート 2026-2033年（Grand View Research）",
+    "url": "https://www.dreamnews.jp/press/0000359418",
+    "pass": 3
+   },
+   {
+    "quote": "医療機器受託製造の市場規模、シェア、動向、2031年までの世界予測（MarketsandMarkets）",
+    "url": "https://www.dreamnews.jp/press/0000359418",
+    "pass": 3
+   },
+   {
+    "quote": "スポーツアナリティクスの市場規模、シェア、動向、2031年までの世界予測（MarketsandMarkets）",
+    "url": "https://www.dreamnews.jp/press/0000359418",
+    "pass": 3
+   },
+   {
+    "quote": "グリッドフォーミングインバータの市場規模、成長と動向分析レポート 2026-2033年（Grand View Research）",
+    "url": "https://www.dreamnews.jp/press/0000359418",
+    "pass": 3
+   },
+   {
+    "quote": "NEDO（新エネルギー・産業技術総合開発機構）では、国内の医療ロボットは2020年346億円から2035年の948億円と約3倍近くに拡大すると予測しています",
+    "url": "https://www.ee-ties.com/magazine/52944/",
+    "pass": 3
+   },
+   {
+    "quote": "また、世界市場では2018年では6.8兆円、2023年には17.8兆円、2030年には20兆円に成長すると予測しているレポートも出されており、国内外とも大きな市場へと拡大する有望な産業となっています",
+    "url": "https://www.ee-ties.com/magazine/52944/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年代前半からの前年比成長率が120％〜270％に達するなど、市場は活況",
+    "url": "https://jet-mfg.com/category/service-robots/medical-robot/robotic-surgery/",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット支援手術システム市場規模、シェア、成長率（2034年）",
+    "url": "https://straitsresearch.com/jp/report/robotic-assisted-surgery-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット支援手術システム市場規模、シェア、トレンド分析レポート：製品タイプ別（システム、消耗品・付属品、ソフトウェア・サービス）、用途別（婦人科手術、心血管外科、脳神経外科、整形外科、腹腔鏡手術、泌尿器科、その他）、エンドユーザー別（病院、外来手術センター、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/robotic-assisted-surgery-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のロボット支援手術システム市場規模は、2025年には113億8000万米ドルと評価され、2026年の129億1000万米ドルから2034年には353億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は13.42%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/robotic-assisted-surgery-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット支援手術システム市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）13.42%で成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/robotic-assisted-surgery-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動心肺蘇生装置市場規模、予測、需要、機会、2034年",
+    "url": "https://straitsresearch.com/jp/report/robotic-assisted-surgery-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "動脈カニューレ市場規模、予測、需要、機会、2034年",
+    "url": "https://straitsresearch.com/jp/report/robotic-assisted-surgery-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "血管造影カテーテル市場規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/robotic-assisted-surgery-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "歯科印象システム市場規模、シェア、成長率、分析（2034年）",
+    "url": "https://straitsresearch.com/jp/report/robotic-assisted-surgery-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の手術ロボットシステム市場2025～2033年、市場規模・企業動向・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/news/2872028",
+    "pass": 3
+   },
+   {
+    "quote": "日本の手術ロボットシステム市場2025～2033年、市場規模・企業動向・分析レポートを発表",
+    "url": "https://newscast.jp/news/2872028",
+    "pass": 3
+   },
+   {
+    "quote": "日本の手術支援ロボットシステム市場は、2024年に5億3,962万米ドル規模となり、2033年には20億9,377万米ドルに達すると予測されている",
+    "url": "https://newscast.jp/news/2872028",
+    "pass": 3
+   },
+   {
+    "quote": "一方、資料の整形外科セグメントの直後に「Graphene-Based Bandages segment grew from US$54.79 million in 2022 to US$59.37 million in 2023」という記述が突然挿入されているが、これは手術支援ロボット市場とは明らかに無関係である",
+    "url": "https://newscast.jp/news/2872028",
+    "pass": 3
+   },
+   {
+    "quote": "総じて、日本の手術支援ロボットシステム市場は、2024年の5億3,962万米ドルから2033年に20億9,377万米ドルへ約3.9倍に拡大する高成長市場であり、CAGR16.9％という予測は、高齢化、手術件数増加、低侵襲手術需要、精密医療、ロボティクス技術進歩を反映している",
+    "url": "https://newscast.jp/news/2872028",
+    "pass": 3
+   },
+   {
+    "quote": "日本の手術ロボットシステム市場2025～2033年、市場規模・企業動向・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/2872028",
+    "pass": 3
+   },
+   {
+    "quote": "日本の手術ロボットシステム市場2025～2033年、市場規模・企業動向・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/2872028",
+    "pass": 3
+   },
+   {
+    "quote": "日本の手術支援ロボットシステム市場は、2024年に5億3,962万米ドル規模となり、2033年には20億9,377万米ドルに達すると予測されている",
+    "url": "https://www.atpress.ne.jp/news/2872028",
+    "pass": 3
+   },
+   {
+    "quote": "一方、資料の整形外科セグメントの直後に「Graphene-Based Bandages segment grew from US$54.79 million in 2022 to US$59.37 million in 2023」という記述が突然挿入されているが、これは手術支援ロボット市場とは明らかに無関係である",
+    "url": "https://www.atpress.ne.jp/news/2872028",
+    "pass": 3
+   },
+   {
+    "quote": "総じて、日本の手術支援ロボットシステム市場は、2024年の5億3,962万米ドルから2033年に20億9,377万米ドルへ約3.9倍に拡大する高成長市場であり、CAGR16.9％という予測は、高齢化、手術件数増加、低侵襲手術需要、精密医療、ロボティクス技術進歩を反映している",
+    "url": "https://www.atpress.ne.jp/news/2872028",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/2872028",
+    "pass": 3
+   },
+   {
+    "quote": "コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/2872028",
+    "pass": 3
+   },
+   {
+    "quote": "セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/2872028",
+    "pass": 3
+   },
+   {
+    "quote": "医療用ロボット市場 | 市場規模 分析 予測 2026-2032年 【市場調査レポート】",
+    "url": "https://www.gii.co.jp/report/ires2094470-medical-robots-market-global-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "医療用ロボット市場は、2032年までにCAGR7.92％で321億1,000万米ドル規模に拡大すると予測されています",
+    "url": "https://www.gii.co.jp/report/ires2094470-medical-robots-market-global-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 3,939 換算",
+    "url": "https://www.gii.co.jp/report/ires2094470-medical-robots-market-global-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 5,959 換算",
+    "url": "https://www.gii.co.jp/report/ires2094470-medical-robots-market-global-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "https://microport.com/news/microport-medbot-achieves-first-ever-half-year-profitability-expects-net-profit-of-rmb-28-40-million",
+    "url": "https://note.com/kagawatomo/n/nbf9230ad6279",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "Global Market Insights Inc.が発行した最新レポートによると、市場は2025年の92億米ドルから2034年には384億米ドルに達すると予測されており、予測期間中に17.2%のCAGRで成長する見込みです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/surgical-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率 (CAGR) (2025年〜2034年)",
+    "url": "https://www.gminsights.com/ja/industry-analysis/surgical-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場は2021年の58億米ドルから増加し、2023年には71億米ドルに達し、過去の成長率は11.9%でした",
+    "url": "https://www.gminsights.com/ja/industry-analysis/surgical-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "臨床応用におけるこの拡大は、製造業者に追加の収益機会を創出しており、ロボット支援手術に対するメディケア償還額は2021年から2023年の間に35%増加しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/surgical-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "一方、ロボットシステムセグメントは16%のCAGRで成長すると予想されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/surgical-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットシステムセグメントは2024年に26億米ドルの収益を記録し、2025年から2034年にかけて16%のCAGRで着実に拡大すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/surgical-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "一般外科セグメントは2024年に市場を支配し、24億米ドルを占め、予測期間中に18,1%のCAGRで成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/surgical-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "婦人科手術セグメントは2024年に大きな売上高を計上し、予測期間中に17%のCAGRで成長すると予想されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/surgical-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "2032年までに、化合物の年間成長率を示す",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%89%8B%E8%A1%93%E7%94%A8%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "(CAGR) 13.9%",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%89%8B%E8%A1%93%E7%94%A8%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間 2025〜2032 CAGR:",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%89%8B%E8%A1%93%E7%94%A8%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "外科ロボットは高い定義を提供し、外科場所の3-D眺めを拡大するコンピュータ コンソールの外科医によって制御される外科器械が付いているカメラの腕そして機械腕から成っています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%89%8B%E8%A1%93%E7%94%A8%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "(3) 欧米の大手企業は、 積極的に他社を買収や提携により、 事業の強化拡大を図っている",
+    "url": "https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2021_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【表 4】技術区分 「課題→手術機会の拡大→遠隔地からの手術の実現」 のファミリー件数推",
+    "url": "https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2021_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の規模は、2025年に141億米ドルと評価され、2026年から2033年にかけて年平均成長率（CAGR）14.9%で推移し、2026年の172億米ドルから2033年には456億米ドルに達するとGrand View Researchでは予測しています",
+    "url": "https://www.dreamnews.jp/press/0000359418",
+    "pass": 3
+   },
+   {
+    "quote": "• 最も急成長している地域市場：アジア太平洋地域（2026年～2033年の期間で最高のCAGRを記録）",
+    "url": "https://www.dreamnews.jp/press/0000359418",
+    "pass": 3
+   },
+   {
+    "quote": "1) 診療科を横断したロボット支援低侵襲手術の導入拡大",
+    "url": "https://www.dreamnews.jp/press/0000359418",
+    "pass": 3
+   },
+   {
+    "quote": "NEDO（新エネルギー・産業技術総合開発機構）では、国内の医療ロボットは2020年346億円から2035年の948億円と約3倍近くに拡大すると予測しています",
+    "url": "https://www.ee-ties.com/magazine/52944/",
+    "pass": 3
+   },
+   {
+    "quote": "また、世界市場では2018年では6.8兆円、2023年には17.8兆円、2030年には20兆円に成長すると予測しているレポートも出されており、国内外とも大きな市場へと拡大する有望な産業となっています",
+    "url": "https://www.ee-ties.com/magazine/52944/",
+    "pass": 3
+   },
+   {
+    "quote": "政府は2016年に、「医療機器の研究開発及び普及促進に関する基本計画」（国産医療機器の開発を加速させ、輸出拡大を目指す計画）の中で、重点5分野の一つに「手術支援ロボット」を上げています",
+    "url": "https://www.ee-ties.com/magazine/52944/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年代前半からの前年比成長率が120％〜270％に達するなど、市場は活況",
+    "url": "https://jet-mfg.com/category/service-robots/medical-robot/robotic-surgery/",
+    "pass": 3
+   },
+   {
+    "quote": "前年比成長率は18.2%",
+    "url": "https://www.reportprime.com/ja/%E5%8C%BB%E7%99%82%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-r19449/company",
+    "pass": 3
+   },
+   {
+    "quote": "予測 RAS CAGR 20.0 %",
+    "url": "https://www.reportprime.com/ja/%E5%8C%BB%E7%99%82%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-r19449/company",
+    "pass": 3
+   },
+   {
+    "quote": "前年比成長率は7.4%",
+    "url": "https://www.reportprime.com/ja/%E5%8C%BB%E7%99%82%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-r19449/company",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット支援手術システム市場規模、シェア、成長率（2034年）",
+    "url": "https://straitsresearch.com/jp/report/robotic-assisted-surgery-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のロボット支援手術システム市場規模は、2025年には113億8000万米ドルと評価され、2026年の129億1000万米ドルから2034年には353億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は13.42%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/robotic-assisted-surgery-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "消耗品・付属品部門は、予測期間中に年平均成長率（CAGR）18.65%で成長し、最大の市場シェアを占めると予測されています",
+    "url": "https://straitsresearch.com/jp/report/robotic-assisted-surgery-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "泌尿器科分野は、予測期間中に年平均成長率（CAGR）17.5%で成長し、最大の市場シェアを占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/robotic-assisted-surgery-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "病院分野は、予測期間中に年平均成長率（CAGR）16.8%で成長し、最大の市場シェアを占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/robotic-assisted-surgery-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は予測期間中に年平均成長率（CAGR）16.27%で拡大し、市場を牽引するだろう",
+    "url": "https://straitsresearch.com/jp/report/robotic-assisted-surgery-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "ヨーロッパは2030年までに42億5800万米ドルを創出し、年平均成長率（CAGR）は17.5%になると見込まれています",
+    "url": "https://straitsresearch.com/jp/report/robotic-assisted-surgery-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット支援手術システム市場の規模は、2026年には129億1000万米ドルと評価され、2034年までに353億5000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は13.42%です",
+    "url": "https://straitsresearch.com/jp/report/robotic-assisted-surgery-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025～2033年の年平均成長率（CAGR）は16.9％であり、高齢化に伴う手術件数の増加、低侵襲手術への需要、ロボット技術・画像技術の高度化、手術精度や患者転帰の改善ニーズを背景に、比較的高い成長が見込まれている",
+    "url": "https://newscast.jp/news/2872028",
+    "pass": 3
+   },
+   {
+    "quote": "総じて、日本の手術支援ロボットシステム市場は、2024年の5億3,962万米ドルから2033年に20億9,377万米ドルへ約3.9倍に拡大する高成長市場であり、CAGR16.9％という予測は、高齢化、手術件数増加、低侵襲手術需要、精密医療、ロボティクス技術進歩を反映している",
+    "url": "https://newscast.jp/news/2872028",
+    "pass": 3
+   },
+   {
+    "quote": "2025～2033年の年平均成長率（CAGR）は16.9％であり、高齢化に伴う手術件数の増加、低侵襲手術への需要、ロボット技術・画像技術の高度化、手術精度や患者転帰の改善ニーズを背景に、比較的高い成長が見込まれている",
+    "url": "https://www.atpress.ne.jp/news/2872028",
+    "pass": 3
+   },
+   {
+    "quote": "総じて、日本の手術支援ロボットシステム市場は、2024年の5億3,962万米ドルから2033年に20億9,377万米ドルへ約3.9倍に拡大する高成長市場であり、CAGR16.9％という予測は、高齢化、手術件数増加、低侵襲手術需要、精密医療、ロボティクス技術進歩を反映している",
+    "url": "https://www.atpress.ne.jp/news/2872028",
+    "pass": 3
+   },
+   {
+    "quote": "医療用ロボット市場は、2032年までにCAGR7.92％で321億1,000万米ドル規模に拡大すると予測されています",
+    "url": "https://www.gii.co.jp/report/ires2094470-medical-robots-market-global-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRは7.92%です",
+    "url": "https://www.gii.co.jp/report/ires2094470-medical-robots-market-global-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年第2四半期のIntuitive Surgicalの売上高は28億9230万ドルで、前年同期比19％増だった",
+    "url": "https://note.com/kagawatomo/n/nbf9230ad6279",
+    "pass": 3
+   },
+   {
+    "quote": "2026年第2四半期、同社のインストゥルメント・アクセサリー売上は前年同期比18％増加した",
+    "url": "https://note.com/kagawatomo/n/nbf9230ad6279",
+    "pass": 3
+   },
+   {
+    "quote": "Ion手術の伸びは36％と、Da Vinciを上回るペースで拡大している",
+    "url": "https://note.com/kagawatomo/n/nbf9230ad6279",
+    "pass": 3
+   },
+   {
+    "quote": "会社は2026年第2四半期決算で、2026年通年のDa Vinci手術件数成長率見通しを約13.5％から15.5％とし、レンジの中間付近を見込むとした",
+    "url": "https://note.com/kagawatomo/n/nbf9230ad6279",
+    "pass": 3
+   },
+   {
+    "quote": "続く2026年6月、Medtronicは一般外科と婦人科への適応拡大に向けた510(k)を提出した",
+    "url": "https://note.com/kagawatomo/n/nbf9230ad6279",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の売上は5.51億元で前年比114.22％増、帰属純損失は2.54億元で前年から60.73％縮小した",
+    "url": "https://note.com/kagawatomo/n/nbf9230ad6279",
+    "pass": 3
+   },
+   {
+    "quote": "直近3年の売上CAGRは約130％",
+    "url": "https://note.com/kagawatomo/n/nbf9230ad6279",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の海外売上は4億元超、前年比287％増である",
+    "url": "https://note.com/kagawatomo/n/nbf9230ad6279",
+    "pass": 3
+   },
+   {
+    "quote": "売上高は前年同期比約200〜230％増、粗利益率も前年同期から15ポイント超改善する見込みとされた",
+    "url": "https://note.com/kagawatomo/n/nbf9230ad6279",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の売上は4.56億元で前年比184.8％増、純損失は約8,860万元で約59.4％縮小した",
+    "url": "https://note.com/kagawatomo/n/nbf9230ad6279",
+    "pass": 3
+   },
+   {
+    "quote": "これによりEU加盟27か国とノルウェーなどで販売が可能になり、販売可能国は計30か国以上へ拡大した",
+    "url": "https://note.com/kagawatomo/n/nbf9230ad6279",
+    "pass": 3
+   },
+   {
+    "quote": "設置台数は11,710台へ、前年同期比12％増えた",
+    "url": "https://note.com/kagawatomo/n/nbf9230ad6279",
+    "pass": 3
+   },
+   {
+    "quote": "Robotic Surgery Market to Grow at 16.54% CAGR till 2035",
+    "url": "https://www.towardshealthcare.com/insights/robotic-surgery-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2025-2035",
+    "url": "https://www.towardshealthcare.com/insights/robotic-surgery-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "The global robotic surgery market size is calculated at USD 13.79 billion in 2025, grew to USD 16.07 billion in 2026, and is projected to reach around USD 63.73 billion by 2035. The market is expanding at a CAGR of 16.54% between 2026 and 2035.",
+    "url": "https://www.towardshealthcare.com/insights/robotic-surgery-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "Expected to maintain a CAGR of 16.54% from 2026 to 2035.",
+    "url": "https://www.towardshealthcare.com/insights/robotic-surgery-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026 - 2035)",
+    "url": "https://www.towardshealthcare.com/insights/robotic-surgery-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "The global robotic surgery market is valued at USD 13.79 billion in 2025, expected to reach USD 16.07 billion by 2026, and projected to grow to USD 63.73 billion by 2035 at a CAGR of 16.54%.",
+    "url": "https://www.towardshealthcare.com/insights/robotic-surgery-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026–2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/surgical-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "Fastest-growing regional market: Asia Pacific (highest CAGR, 2026-2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/surgical-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2033): 14.9%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/surgical-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 14.9% from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/surgical-robot-market",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "手術ロボット市場規模・シェアレポート、2034年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/surgical-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "手術用ロボット市場 サイズとシェア 2025 - 2034",
+    "url": "https://www.gminsights.com/ja/industry-analysis/surgical-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場における上位5社は、",
+    "url": "https://www.gminsights.com/ja/industry-analysis/surgical-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "器具・付属品セグメントは、すべての手術手技における反復使用、継続的な製品アップグレード、交換用品および消耗品を必要とするロボット支援手術の増加により、2024年に68%の大きな市場シェアを獲得し、市場における優位性を確立しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/surgical-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "一般外科セグメントは2024年に市場を支配し、24億米ドルを占め、予測期間中に18,1%のCAGRで成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/surgical-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "病院セグメントは2024年に72.4%の売上高シェアで市場を支配し、予測期間内に284億米ドルに達すると予想されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/surgical-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、2024年に59,1%の最高市場シェアで市場を支配しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/surgical-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "ヨーロッパ市場は、2024年に15億米ドルを占め、予測期間中に有望な成長を示すと予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/surgical-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要プレーヤーには、ACCURAY、INTUITIVE、Medtronic、Strykerが含まれ、これらは合計で市場シェアの93.4%を占めています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/surgical-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場シェア83.5%",
+    "url": "https://www.gminsights.com/ja/industry-analysis/surgical-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の累計市場シェアは93.4%",
+    "url": "https://www.gminsights.com/ja/industry-analysis/surgical-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年に83.5%のシェアで手術用ロボット市場をリードしているINTUITIVEは、高精度、信頼性、幅広い臨床応用で知られるダヴィンチ手術システムで市場をリードしています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/surgical-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "手術ロボット市場シェアと機会、2025-2032",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%89%8B%E8%A1%93%E7%94%A8%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場シェア",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%89%8B%E8%A1%93%E7%94%A8%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場シェアは、主要産業選手の強い存在と医療施設におけるロボット技術の早期採用によるものです",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%89%8B%E8%A1%93%E7%94%A8%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "製品の種類に関しては、2025年の市場収益シェアを損なうと推定される機器および付属品",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%89%8B%E8%A1%93%E7%94%A8%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "(3) 出願人別ランキングでは、上位は企業が多く、米国籍の大学が1 校入っている",
+    "url": "https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2021_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "プ 4 位は米国籍企業が占める",
+    "url": "https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2021_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "上位 20 者中、米国籍出願人が 8 者と最も多く、日本",
+    "url": "https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2021_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) メーカ別市場シェアは、 米国企業による寡占状態である",
+    "url": "https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2021_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "鏡手術支援ロボットでは、 上位一社が99.8％、 整形外科手術支援ロボットでは、 上位",
+    "url": "https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2021_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一社が74.6％、脳神経外科手術支援ロボットでは、上位一社が67.0％を占める",
+    "url": "https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2021_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "市場シェアの多い企業 10億ドル以上の買収",
+    "url": "https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2021_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【図3】手術支援ロボットのメーカ別市場シェア",
+    "url": "https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2021_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出願人国籍・地域別で最も多いのは米国籍出願人の5,370 件で、 全体の52.5％を占める",
+    "url": "https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2021_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中国は、 自国 （中国籍出願人） からの出願件数が全体の8 割以上を占める",
+    "url": "https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2021_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出願人別ファミリー件数の上位は企業が多く、 米国籍の大学が1 校入っている",
+    "url": "https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2021_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "上位20 者中、米国籍出願人が 8 者と最も多く、日本国籍出",
+    "url": "https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2021_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【表 5】出願人別ファミリー件数上位ランキング（日米欧中韓ASEAN 豪加台露伯印以への出",
+    "url": "https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2021_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "27.8％を占めている",
+    "url": "https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2021_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "地域別では北米が市場を主導し、2025年時点で47.0%という最大のシェアを占めました",
+    "url": "https://www.dreamnews.jp/press/0000359418",
+    "pass": 3
+   },
+   {
+    "quote": "• コンポーネント別：2025年、手術支援ロボットのアクセサリー部門が約53.6%と最大のシェアを占めた",
+    "url": "https://www.dreamnews.jp/press/0000359418",
+    "pass": 3
+   },
+   {
+    "quote": "• 用途別：2025年、一般外科が28.7%と最大の市場シェアを占めた",
+    "url": "https://www.dreamnews.jp/press/0000359418",
+    "pass": 3
+   },
+   {
+    "quote": "• 最終用途別：2025年、入院患者向けが72.0%と最大の市場シェアを占めた",
+    "url": "https://www.dreamnews.jp/press/0000359418",
+    "pass": 3
+   },
+   {
+    "quote": "• 最大の地域市場：北米（2025年時点で収益シェア47.0%）",
+    "url": "https://www.dreamnews.jp/press/0000359418",
+    "pass": 3
+   },
+   {
+    "quote": "• 国別：2025年時点で米国が最大のシェアを占めた",
+    "url": "https://www.dreamnews.jp/press/0000359418",
+    "pass": 3
+   },
+   {
+    "quote": "医療機器受託製造の市場規模、シェア、動向、2031年までの世界予測（MarketsandMarkets）",
+    "url": "https://www.dreamnews.jp/press/0000359418",
+    "pass": 3
+   },
+   {
+    "quote": "スポーツアナリティクスの市場規模、シェア、動向、2031年までの世界予測（MarketsandMarkets）",
+    "url": "https://www.dreamnews.jp/press/0000359418",
+    "pass": 3
+   },
+   {
+    "quote": "全世界で4500台以上が納入され、日本でも約300台が納入され、世界のトップシェアを誇っています",
+    "url": "https://www.ee-ties.com/magazine/52944/",
+    "pass": 3
+   },
+   {
+    "quote": "軟部組織ロボット工学と比類のないサービス エコシステムで 70 % を超える市場シェア",
+    "url": "https://www.reportprime.com/ja/%E5%8C%BB%E7%99%82%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-r19449/company",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット支援手術システム市場規模、シェア、成長率（2034年）",
+    "url": "https://straitsresearch.com/jp/report/robotic-assisted-surgery-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット支援手術システム市場規模、シェア、トレンド分析レポート：製品タイプ別（システム、消耗品・付属品、ソフトウェア・サービス）、用途別（婦人科手術、心血管外科、脳神経外科、整形外科、腹腔鏡手術、泌尿器科、その他）、エンドユーザー別（病院、外来手術センター、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/robotic-assisted-surgery-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、2025年に45.2%の市場シェアを占め、ロボット支援手術システム市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/robotic-assisted-surgery-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "消耗品・付属品部門は、予測期間中に年平均成長率（CAGR）18.65%で成長し、最大の市場シェアを占めると予測されています",
+    "url": "https://straitsresearch.com/jp/report/robotic-assisted-surgery-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "システム部門は2番目に大きな市場シェアを占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/robotic-assisted-surgery-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "泌尿器科分野は、予測期間中に年平均成長率（CAGR）17.5%で成長し、最大の市場シェアを占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/robotic-assisted-surgery-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "婦人科分野は2番目に大きな市場シェアを占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/robotic-assisted-surgery-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "病院分野は、予測期間中に年平均成長率（CAGR）16.8%で成長し、最大の市場シェアを占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/robotic-assisted-surgery-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "外来手術センター部門は、2番目に大きな市場シェアを占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/robotic-assisted-surgery-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年に45.2%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/robotic-assisted-surgery-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "美容糸市場の規模、シェア、成長率、予測（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/robotic-assisted-surgery-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "血管造影カテーテル市場規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/robotic-assisted-surgery-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "バッテリー不要インプラント市場の規模、シェア、成長率、分析（2034年）",
+    "url": "https://straitsresearch.com/jp/report/robotic-assisted-surgery-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本では65歳以上人口が約3,623万人に達し、人口のほぼ3分の1を占めるとされる",
+    "url": "https://newscast.jp/news/2872028",
+    "pass": 3
+   },
+   {
+    "quote": "日本では65歳以上人口が約3,623万人に達し、人口のほぼ3分の1を占めるとされる",
+    "url": "https://www.atpress.ne.jp/news/2872028",
+    "pass": 3
+   },
+   {
+    "quote": "市場シェア分析、2025年",
+    "url": "https://www.gii.co.jp/report/ires2094470-medical-robots-market-global-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "同四半期において、Intuitiveが定義するリカーリング収益は24億6910万ドルで、総売上の85％を占めた",
+    "url": "https://note.com/kagawatomo/n/nbf9230ad6279",
+    "pass": 3
+   },
+   {
+    "quote": "リカーリング収益は総売上の85％を占める",
+    "url": "https://note.com/kagawatomo/n/nbf9230ad6279",
+    "pass": 3
+   },
+   {
+    "quote": "By offering, the products segment held the largest share of the market in 2025.",
+    "url": "https://www.towardshealthcare.com/insights/robotic-surgery-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "Question 2: Which region currently dominates the robotic surgery market and why?",
+    "url": "https://www.towardshealthcare.com/insights/robotic-surgery-market-sizing",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "主要企業には、Intuitive、Medtronic、Stryker、Accuray、Zimmer Biomet、Smith & Nephew、CMR Surgical、Globus Medical、Asensus Surgical、およびRenishawが含まれる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/surgical-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/surgical-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "本調査では、手術支援ロボット市場における以下の主要企業を取り上げています",
+    "url": "https://www.dreamnews.jp/press/0000359418",
+    "pass": 3
+   },
+   {
+    "quote": "参入企業が増え、製品の多様化と競争が加速している状態",
+    "url": "https://jet-mfg.com/category/service-robots/medical-robot/robotic-surgery/",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット支援手術システムの市場は現在、低侵襲手術への嗜好の高まり、新規参入企業の出現、技術革新の進展といった要因によって牽引されています",
+    "url": "https://straitsresearch.com/jp/report/robotic-assisted-surgery-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場における主要企業は、Intuitive Surgical Inc.、Stryker Corporation、Johnson & Johnson Inc.、SRI International、Accuray Incorporatedである",
+    "url": "https://straitsresearch.com/jp/report/robotic-assisted-surgery-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業には、Medicaroid Corporation、Kawasaki Heavy Industries、TELEXISTENCE、Sony Group、Intuitive Surgical、Medtronic、MicroPort Scientific、Smith+Nephew、ASAHI SURGICAL ROBOTICSなどが挙げられている",
+    "url": "https://newscast.jp/news/2872028",
+    "pass": 3
+   },
+   {
+    "quote": "新興の先駆的企業および主要プレイヤー",
+    "url": "https://newscast.jp/news/2872028",
+    "pass": 3
+   },
+   {
+    "quote": "9.2 その他の主要企業",
+    "url": "https://newscast.jp/news/2872028",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業には、Medicaroid Corporation、Kawasaki Heavy Industries、TELEXISTENCE、Sony Group、Intuitive Surgical、Medtronic、MicroPort Scientific、Smith+Nephew、ASAHI SURGICAL ROBOTICSなどが挙げられている",
+    "url": "https://www.atpress.ne.jp/news/2872028",
+    "pass": 3
+   },
+   {
+    "quote": "新興の先駆的企業および主要プレイヤー",
+    "url": "https://www.atpress.ne.jp/news/2872028",
+    "pass": 3
+   },
+   {
+    "quote": "9.2 その他の主要企業",
+    "url": "https://www.atpress.ne.jp/news/2872028",
+    "pass": 3
+   },
+   {
+    "quote": "Robotic Surgery Market Size, Trends and Key Players",
+    "url": "https://www.towardshealthcare.com/insights/robotic-surgery-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players",
+    "url": "https://www.towardshealthcare.com/insights/robotic-surgery-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study of the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/surgical-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, volume forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/surgical-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/surgical-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "Surgical Robotics Ecosystem, Regulatory Environment & Competitive Landscape Assessment",
+    "url": "https://www.grandviewresearch.com/industry-analysis/surgical-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the surgical robots market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/surgical-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some key players operating in the surgical robots market include Medtronic; Intuitive surgical; MICROPORT SCIENTIFIC; SS Innovations; Stryker; Johnson & Johnson; Asensus Surgical US, Inc.- Part of KARL STORZ; Distalmotion; CMR Surgical; Moon Surgical; Medicaroid; Ronovo Surgical; Cornerstone Robotics, and others.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/surgical-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/surgical-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players:",
+    "url": "https://www.gminsights.com/industry-analysis/surgical-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "Surgical Robots Market Share & Competitive Landscape",
+    "url": "https://www.gminsights.com/industry-analysis/surgical-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in Surgical Robots Market?",
+    "url": "https://www.gminsights.com/industry-analysis/surgical-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in Surgical Robots Market include Intuitive Surgical, Stryker, Johnson & Johnson, Zimmer Biomet, Smith & Nephew.",
+    "url": "https://www.gminsights.com/industry-analysis/surgical-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/surgical-robots-market-3025",
+    "pass": 3
+   },
+   {
+    "quote": "Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/surgical-robots-market-3025",
+    "pass": 3
+   },
+   {
+    "quote": "Clinical safety studies, competitive landscape analysis, surgical adoption trends, 510(k) and PMA approval data, and robotic-assisted procedure statistics for robotic surgical systems, robotic instruments, imaging systems, and computer-assisted surgical platforms were gathered from these sources.",
+    "url": "https://www.marketresearchfuture.com/reports/surgical-robots-market-3025",
+    "pass": 3
+   },
+   {
+    "quote": "Next Generation Surgical Robotics Market Insights, Competitive Landscape, and Market Forecast - 2034",
+    "url": "https://www.delveinsight.com/report-store/next-generation-surgical-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Next Generation Surgical Robotics Competitive Landscape is led by the following active manufacturers and developers:",
+    "url": "https://www.delveinsight.com/report-store/next-generation-surgical-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Next Generation Surgical Robotics Market Competitive Landscape",
+    "url": "https://www.delveinsight.com/report-store/next-generation-surgical-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Next Generation Surgical Robotics competitive landscape can be evaluated across the following dimensions:",
+    "url": "https://www.delveinsight.com/report-store/next-generation-surgical-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading players",
+    "url": "https://www.delveinsight.com/report-store/next-generation-surgical-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies dominating the Global Next Generation Surgical Robotics Market.",
+    "url": "https://www.delveinsight.com/report-store/next-generation-surgical-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "8. Next Generation Surgical Robotics Market Competitive Landscape",
+    "url": "https://www.delveinsight.com/report-store/next-generation-surgical-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.delveinsight.com/report-store/next-generation-surgical-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in the Next Generation Surgical Robotics market?",
+    "url": "https://www.delveinsight.com/report-store/next-generation-surgical-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Next Generation Surgical Robotics - Market Insights, Competitive Landscape, and Market Forecast - 2034",
+    "url": "https://www.researchandmarkets.com/reports/6274304/next-generation-surgical-robotics-market?srsltid=AYCX9vIauGX2XEGTH6ozExUyhYTcl4RMFUU6vsY1SK5SiDf8wULNLr0Y",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies in Next Generation Surgical Robotics Market",
+    "url": "https://www.researchandmarkets.com/reports/6274304/next-generation-surgical-robotics-market?srsltid=AYCX9vIauGX2XEGTH6ozExUyhYTcl4RMFUU6vsY1SK5SiDf8wULNLr0Y",
+    "pass": 3
+   },
+   {
+    "quote": "The competitive landscape is led by the following active manufacturers and developers:",
+    "url": "https://www.researchandmarkets.com/reports/6274304/next-generation-surgical-robotics-market?srsltid=AYCX9vIauGX2XEGTH6ozExUyhYTcl4RMFUU6vsY1SK5SiDf8wULNLr0Y",
+    "pass": 3
+   },
+   {
+    "quote": "Next Generation Surgical Robotics Market Competitive Landscape",
+    "url": "https://www.researchandmarkets.com/reports/6274304/next-generation-surgical-robotics-market?srsltid=AYCX9vIauGX2XEGTH6ozExUyhYTcl4RMFUU6vsY1SK5SiDf8wULNLr0Y",
+    "pass": 3
+   },
+   {
+    "quote": "The competitive landscape can be evaluated across the following dimensions:",
+    "url": "https://www.researchandmarkets.com/reports/6274304/next-generation-surgical-robotics-market?srsltid=AYCX9vIauGX2XEGTH6ozExUyhYTcl4RMFUU6vsY1SK5SiDf8wULNLr0Y",
+    "pass": 3
+   },
+   {
+    "quote": "Leading players: Intuitive Surgical, Medtronic, Johnson & Johnson MedTech, Stryker, and Zimmer Biomet anchor the top tier.",
+    "url": "https://www.researchandmarkets.com/reports/6274304/next-generation-surgical-robotics-market?srsltid=AYCX9vIauGX2XEGTH6ozExUyhYTcl4RMFUU6vsY1SK5SiDf8wULNLr0Y",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies dominating the global next generation surgical robotics market.",
+    "url": "https://www.researchandmarkets.com/reports/6274304/next-generation-surgical-robotics-market?srsltid=AYCX9vIauGX2XEGTH6ozExUyhYTcl4RMFUU6vsY1SK5SiDf8wULNLr0Y",
+    "pass": 3
+   },
+   {
+    "quote": "Q5. Who are the major players in the Next Generation Surgical Robotics market?",
+    "url": "https://www.researchandmarkets.com/reports/6274304/next-generation-surgical-robotics-market?srsltid=AYCX9vIauGX2XEGTH6ozExUyhYTcl4RMFUU6vsY1SK5SiDf8wULNLr0Y",
+    "pass": 3
+   },
+   {
+    "quote": "8. Next Generation Surgical Robotics Market Competitive Landscape",
+    "url": "https://www.researchandmarkets.com/reports/6274304/next-generation-surgical-robotics-market?srsltid=AYCX9vIauGX2XEGTH6ozExUyhYTcl4RMFUU6vsY1SK5SiDf8wULNLr0Y",
+    "pass": 3
+   },
+   {
+    "quote": "Table 29: Competitive Landscape",
+    "url": "https://www.researchandmarkets.com/reports/6274304/next-generation-surgical-robotics-market?srsltid=AYCX9vIauGX2XEGTH6ozExUyhYTcl4RMFUU6vsY1SK5SiDf8wULNLr0Y",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 36: Competitive Landscape",
+    "url": "https://www.researchandmarkets.com/reports/6274304/next-generation-surgical-robotics-market?srsltid=AYCX9vIauGX2XEGTH6ozExUyhYTcl4RMFUU6vsY1SK5SiDf8wULNLr0Y",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13394648/",
+    "pass": 3
+   },
+   {
+    "quote": "Surgical Robots Market Size & Share Analysis - Trends, Drivers, Competitive Landscape, and Forecasts (2024 - 2030)",
+    "url": "https://www.psmarketresearch.com/market-analysis/surgical-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.psmarketresearch.com/market-analysis/surgical-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players in the Surgical Robots Market Are:",
+    "url": "https://www.psmarketresearch.com/market-analysis/surgical-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading companies across industries trust us to deliver data-driven insights and innovative solutions for their most critical decisions. From data-driven strategies to actionable insights, we empower the decision-makers who shape industries and define the future. From Fortune 500 companies to innovative startups, we are proud to partner with organisations that drive progress in their industries.",
+    "url": "https://www.psmarketresearch.com/market-analysis/surgical-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Our insights into the minutest levels of the markets, including the latest trends and competitive landscape, give you all the answers you need to take your business to new heights",
+    "url": "https://www.psmarketresearch.com/market-analysis/surgical-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.persistencemarketresearch.com/market-research/orthopedic-surgical-robots-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the orthopedic surgical robots market?",
+    "url": "https://www.persistencemarketresearch.com/market-research/orthopedic-surgical-robots-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Key players include Stryker, Zimmer Biomet, Medtronic, Smith+Nephew, Globus Medical, Brainlab, and THINK Surgical.",
+    "url": "https://www.persistencemarketresearch.com/market-research/orthopedic-surgical-robots-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Surgical Robotics Market Size, Key Companies, Company Product Portfolio, Hospital Procurement Trends, Manufacturing Capacity, Sales Performance, Regulatory Approvals, Company Market Share, and Forecast",
+    "url": "https://www.precedenceresearch.com/surgical-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.precedenceresearch.com/surgical-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players:",
+    "url": "https://www.precedenceresearch.com/surgical-robotics-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "令和3年度特許出願技術動向調査 － 手術支援ロボット － — 令和3年度特許出願技術動向調査 － 手術支援ロボット － 特許庁 PDF https://www.jpo.go.jp > tokkyo > document > index",
+    "url": "https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2021_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「 手術支援ロボット市場規模 、成長と動向分析レポート 2026 ... — 「 手術支援ロボット市場規模 、成長と動向分析レポート 2026 ... ドリームニュース https://www.dreamnews.jp > press",
+    "url": "https://www.dreamnews.jp/press/0000359418",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット手術市場 規模、シェア、成長 |レポート、2034 年 — ロボット手術市場 規模、シェア、成長 |レポート、2034 年 Fortune Business Insights https://www.fortunebusinessinsights.com > 業界-レポート",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E6%89%8B%E8%A1%93%E5%B8%82%E5%A0%B4-100124",
+    "pass": 3
+   },
+   {
+    "quote": "Surgical Robots Market Size & Share Report, 2026-2033 — Surgical Robots Market Size & Share Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/surgical-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "Surgical Robots Market Size , Forecasts Report 2026-2035 — Surgical Robots Market Size , Forecasts Report 2026-2035 Global Market Insights Inc. https://www.gminsights.com > surgica...",
+    "url": "https://www.gminsights.com/industry-analysis/surgical-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "Surgical Robots Market Size , Share & Global Trends 2035 — Surgical Robots Market Size , Share & Global Trends 2035 Market Research Future https://www.marketresearchfuture.com > ...",
+    "url": "https://www.marketresearchfuture.com/reports/surgical-robots-market-3025",
+    "pass": 3
+   },
+   {
+    "quote": "Next Generation Surgical Robotics - 2034 — Next Generation Surgical Robotics - 2034 Research and Markets https://www.researchandmarkets.com > ...",
+    "url": "https://www.researchandmarkets.com/reports/6274304/next-generation-surgical-robotics-market?srsltid=AYCX9vIauGX2XEGTH6ozExUyhYTcl4RMFUU6vsY1SK5SiDf8wULNLr0Y",
+    "pass": 3
+   },
+   {
+    "quote": "Surgical Robots Market Size, Share & Growth Report, 2030 — Surgical Robots Market Size, Share & Growth Report, 2030 P&S Intelligence https://www.psmarketresearch.com > ...",
+    "url": "https://www.psmarketresearch.com/market-analysis/surgical-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Surgical Robotics Market Companies , Size & Trends 2026-2035 — Surgical Robotics Market Companies , Size & Trends 2026-2035 Precedence Research https://www.precedenceresearch.com > ...",
+    "url": "https://www.precedenceresearch.com/surgical-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Why 2025 is a key year for the surgical robotics market — Why 2025 is a key year for the surgical robotics market Medical Device Network https://www.medicaldevice-network.com > ...",
+    "url": "https://www.medicaldevice-network.com/features/why-2025-is-a-key-year-for-the-surgical-robotics-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Surgical Robot Companies in 2026 - Medtec China — Top 10 Surgical Robot Companies in 2026 - Medtec China www.medteccn.com https://en.medtecchina.com > show",
+    "url": "https://en.medtecchina.com/media/show/top-10-surgical-robot-companies-2026/",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/2872028",
+    "pass": 3
+   },
+   {
+    "quote": "メディカロイドは2013年、産業用ロボットの川崎重工業と、検査・診断技術と医療ネットワークを持つシスメックスの折半出資で設立された会社である",
+    "url": "https://note.com/kagawatomo/n/nbf9230ad6279",
+    "pass": 3
+   },
+   {
+    "quote": "The European Union actively promotes the integration of robotics and also provides funding for productivity and competitiveness. It has established a strong foundation of collaboration and knowledge-sharing among all robotics stakeholders through a portfolio of 120 research projects.",
+    "url": "https://www.towardshealthcare.com/insights/robotic-surgery-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominated the surgical robots market with a share of 47.0% in 2025. This is attributed to the increasing number of hospitals opting for robot-assisted surgeries, the U.S. government's high healthcare spending, and growing regional robotic investments.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/surgical-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "Germany generated USD 501 million in 2025 and is projected to reach USD 1.43 billion by 2035. The country's private hospital presence, academic surgical networks, and capacity for medical technology investment support early use of advanced robotic applications. Adoption is likely to remain linked to hospital consolidation, specialty-center investment, and evidence-based procurement.",
+    "url": "https://www.gminsights.com/industry-analysis/surgical-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "Spain generated USD 220 million in 2025 and is projected to grow at a 14.8% CAGR (2026–2035). A comparatively underpenetrated robotics base and rising private-sector investment provide room for expansion. The pace of adoption will vary by autonomous community, hospital ownership model, and the availability of specialized surgical teams.",
+    "url": "https://www.gminsights.com/industry-analysis/surgical-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "India generated USD 190 million in 2025 and is projected to grow at a 16.4% CAGR (2026–2035). Private hospital chains and metropolitan surgical centers are likely to remain the initial engines of adoption. Training expansion and healthcare infrastructure investment can widen access over time, though affordability and reimbursement constraints will continue to shape the speed of diffusion.",
+    "url": "https://www.gminsights.com/industry-analysis/surgical-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "Australia generated USD 79 million in 2025 and is projected to reach USD 324 million by 2035. Private hospital investment, surgeon adoption of minimally invasive procedures, and interest in orthopedic robotics underpin market development. Deployment will be influenced by state-level healthcare delivery structures and the ability of suppliers to support dispersed clinical sites.",
+    "url": "https://www.gminsights.com/industry-analysis/surgical-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "Argentina generated USD 42 million in 2025 and is projected to grow at a 10.7% CAGR (2026–2035). The market has advanced surgical capabilities in leading cities, but macroeconomic instability and limited capital availability constrain broad-based investment. Robotic adoption is therefore likely to remain concentrated within higher-income private healthcare settings.",
+    "url": "https://www.gminsights.com/industry-analysis/surgical-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "Middle East & Africa generated USD 227 million in 2025 and is projected to reach USD 797 million by 2035. Demand is concentrated in Gulf markets with substantial investment in tertiary hospital capacity and medical tourism infrastructure. Elsewhere, restricted capital budgets, workforce limitations, and high procedure costs constrain adoption, producing a highly uneven regional opportunity.",
+    "url": "https://www.gminsights.com/industry-analysis/surgical-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "Saudi Arabia generated USD 98 million in 2025 and is projected to grow at a 15.1% CAGR (2026–2035). Healthcare transformation initiatives and investment in advanced hospital infrastructure are supporting demand for sophisticated surgical technologies. The opportunity depends on how effectively new facilities develop trained clinical teams and sustained multi-specialty case volumes.",
+    "url": "https://www.gminsights.com/industry-analysis/surgical-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "South Africa generated USD 47 million in 2025 and is projected to reach USD 108 million by 2035. Private hospital investment provides the main basis for robotic surgery growth, while public-sector capital constraints limit broader access. High consumable costs and unequal healthcare purchasing power will continue to define the market's adoption ceiling.",
+    "url": "https://www.gminsights.com/industry-analysis/surgical-robots-market",
+    "pass": 3
+   },
+   {
+    "quote": "Germany anchors the region because its supplementary payment structure makes case-level economics transparent to hospital controllers. NHS England's elective recovery funding released capital for more than 40 new placements across 2024–2025, concentrated in urology and colorectal services",
+    "url": "https://www.marketresearchfuture.com/reports/surgical-robots-market-3025",
+    "pass": 3
+   },
+   {
+    "quote": "Promising improved precision and visualization for surgeons, and better experiences and outcomes for patients, investments in surgical robotics have swelled over the past 10 years. It’s now a $3 to $3.5 billion global market, up from around $800 million in 2015.",
+    "url": "https://www.bain.com/insights/navigating-the-next-wave-of-surgical-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "9. Next Generation Surgical Robotics Market Startup Funding and Investment Trends",
+    "url": "https://www.delveinsight.com/report-store/next-generation-surgical-robotics-market",
+    "pass": 3
+   },
+   {
+    "quote": "9. Next Generation Surgical Robotics Market Startup Funding and Investment Trends",
+    "url": "https://www.researchandmarkets.com/reports/6274304/next-generation-surgical-robotics-market?srsltid=AYCX9vIauGX2XEGTH6ozExUyhYTcl4RMFUU6vsY1SK5SiDf8wULNLr0Y",
+    "pass": 3
+   },
+   {
+    "quote": "Table 30: Startup Funding and Investment Trends",
+    "url": "https://www.researchandmarkets.com/reports/6274304/next-generation-surgical-robotics-market?srsltid=AYCX9vIauGX2XEGTH6ozExUyhYTcl4RMFUU6vsY1SK5SiDf8wULNLr0Y",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 37: Startup Funding and Investment Trends",
+    "url": "https://www.researchandmarkets.com/reports/6274304/next-generation-surgical-robotics-market?srsltid=AYCX9vIauGX2XEGTH6ozExUyhYTcl4RMFUU6vsY1SK5SiDf8wULNLr0Y",
+    "pass": 3
+   },
+   {
+    "quote": "In October 2025, Panda Surgical raised USD 1.34 million for its handheld neurosurgical robot.",
+    "url": "https://www.rootsanalysis.com/reports/surgical-robots-market.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "13.9",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%89%8B%E8%A1%93%E7%94%A8%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4",
+    "quote": "(CAGR) 13.9%"
+   },
+   {
+    "value": "14.9",
+    "url": "https://www.dreamnews.jp/press/0000359418",
+    "quote": "の規模は、2025年に141億米ドルと評価され、2026年から2033年にかけて年平均成長率（CAGR）14.9%で推移し、2026年の172億米ドルから2033年には456億米ドルに達するとGrand View Researchでは予測しています"
+   },
+   {
+    "value": "20.0",
+    "url": "https://www.reportprime.com/ja/%E5%8C%BB%E7%99%82%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-r19449/company",
+    "quote": "予測 RAS CAGR 20.0 %"
+   },
+   {
+    "value": "13.42",
+    "url": "https://straitsresearch.com/jp/report/robotic-assisted-surgery-systems-market",
+    "quote": "世界のロボット支援手術システム市場規模は、2025年には113億8000万米ドルと評価され、2026年の129億1000万米ドルから2034年には353億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は13.42%となる見込みです"
+   },
+   {
+    "value": "18.65",
+    "url": "https://straitsresearch.com/jp/report/robotic-assisted-surgery-systems-market",
+    "quote": "消耗品・付属品部門は、予測期間中に年平均成長率（CAGR）18.65%で成長し、最大の市場シェアを占めると予測されています"
+   },
+   {
+    "value": "17.5",
+    "url": "https://straitsresearch.com/jp/report/robotic-assisted-surgery-systems-market",
+    "quote": "泌尿器科分野は、予測期間中に年平均成長率（CAGR）17.5%で成長し、最大の市場シェアを占める見込みです"
+   },
+   {
+    "value": "16.8",
+    "url": "https://straitsresearch.com/jp/report/robotic-assisted-surgery-systems-market",
+    "quote": "病院分野は、予測期間中に年平均成長率（CAGR）16.8%で成長し、最大の市場シェアを占める見込みです"
+   },
+   {
+    "value": "16.27",
+    "url": "https://straitsresearch.com/jp/report/robotic-assisted-surgery-systems-market",
+    "quote": "北米は予測期間中に年平均成長率（CAGR）16.27%で拡大し、市場を牽引するだろう"
+   },
+   {
+    "value": "16.9",
+    "url": "https://newscast.jp/news/2872028",
+    "quote": "2025～2033年の年平均成長率（CAGR）は16.9％であり、高齢化に伴う手術件数の増加、低侵襲手術への需要、ロボット技術・画像技術の高度化、手術精度や患者転帰の改善ニーズを背景に、比較的高い成長が見込まれている"
+   },
+   {
+    "value": "16.9",
+    "url": "https://www.atpress.ne.jp/news/2872028",
+    "quote": "2025～2033年の年平均成長率（CAGR）は16.9％であり、高齢化に伴う手術件数の増加、低侵襲手術への需要、ロボット技術・画像技術の高度化、手術精度や患者転帰の改善ニーズを背景に、比較的高い成長が見込まれている"
+   },
+   {
+    "value": "7.92",
+    "url": "https://www.gii.co.jp/report/ires2094470-medical-robots-market-global-forecast.html",
+    "quote": "医療用ロボット市場は、2032年までにCAGR7.92％で321億1,000万米ドル規模に拡大すると予測されています"
+   },
+   {
+    "value": "130",
+    "url": "https://note.com/kagawatomo/n/nbf9230ad6279",
+    "quote": "直近3年の売上CAGRは約130％"
+   },
+   {
+    "value": "16.54",
+    "url": "https://www.towardshealthcare.com/insights/robotic-surgery-market-sizing",
+    "quote": "The global robotic surgery market size is calculated at USD 13.79 billion in 2025, grew to USD 16.07 billion in 2026, and is projected to reach around USD 63.73 billion by 2035. The market is expanding at a CAGR of 16.54% between 2026 and 2035."
+   },
+   {
+    "value": "14.9",
+    "url": "https://www.grandviewresearch.com/industry-analysis/surgical-robot-market",
+    "quote": "CAGR of 14.9% from 2026 to 2033"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "68",
+    "url": "https://www.gminsights.com/ja/industry-analysis/surgical-robots-market",
+    "quote": "器具・付属品セグメントは、すべての手術手技における反復使用、継続的な製品アップグレード、交換用品および消耗品を必要とするロボット支援手術の増加により、2024年に68%の大きな市場シェアを獲得し、市場における優位性を確立しました"
+   },
+   {
+    "value": "1",
+    "url": "https://www.gminsights.com/ja/industry-analysis/surgical-robots-market",
+    "quote": "一般外科セグメントは2024年に市場を支配し、24億米ドルを占め、予測期間中に18,1%のCAGRで成長すると予測されています"
+   },
+   {
+    "value": "72.4",
+    "url": "https://www.gminsights.com/ja/industry-analysis/surgical-robots-market",
+    "quote": "病院セグメントは2024年に72.4%の売上高シェアで市場を支配し、予測期間内に284億米ドルに達すると予想されています"
+   },
+   {
+    "value": "93.4",
+    "url": "https://www.gminsights.com/ja/industry-analysis/surgical-robots-market",
+    "quote": "主要プレーヤーには、ACCURAY、INTUITIVE、Medtronic、Strykerが含まれ、これらは合計で市場シェアの93.4%を占めています"
+   },
+   {
+    "value": "83.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/surgical-robots-market",
+    "quote": "市場シェア83.5%"
+   },
+   {
+    "value": "99.8",
+    "url": "https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2021_02.pdf",
+    "quote": "鏡手術支援ロボットでは、 上位一社が99.8％、 整形外科手術支援ロボットでは、 上位"
+   },
+   {
+    "value": "74.6",
+    "url": "https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2021_02.pdf",
+    "quote": "一社が74.6％、脳神経外科手術支援ロボットでは、上位一社が67.0％を占める"
+   },
+   {
+    "value": "67.0",
+    "url": "https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2021_02.pdf",
+    "quote": "一社が74.6％、脳神経外科手術支援ロボットでは、上位一社が67.0％を占める"
+   },
+   {
+    "value": "52.5",
+    "url": "https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2021_02.pdf",
+    "quote": "出願人国籍・地域別で最も多いのは米国籍出願人の5,370 件で、 全体の52.5％を占める"
+   },
+   {
+    "value": "27.8",
+    "url": "https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2021_02.pdf",
+    "quote": "27.8％を占めている"
+   },
+   {
+    "value": "47.0",
+    "url": "https://www.dreamnews.jp/press/0000359418",
+    "quote": "地域別では北米が市場を主導し、2025年時点で47.0%という最大のシェアを占めました"
+   },
+   {
+    "value": "53.6",
+    "url": "https://www.dreamnews.jp/press/0000359418",
+    "quote": "• コンポーネント別：2025年、手術支援ロボットのアクセサリー部門が約53.6%と最大のシェアを占めた"
+   },
+   {
+    "value": "28.7",
+    "url": "https://www.dreamnews.jp/press/0000359418",
+    "quote": "• 用途別：2025年、一般外科が28.7%と最大の市場シェアを占めた"
+   },
+   {
+    "value": "72.0",
+    "url": "https://www.dreamnews.jp/press/0000359418",
+    "quote": "• 最終用途別：2025年、入院患者向けが72.0%と最大の市場シェアを占めた"
+   },
+   {
+    "value": "70",
+    "url": "https://www.reportprime.com/ja/%E5%8C%BB%E7%99%82%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-r19449/company",
+    "quote": "軟部組織ロボット工学と比類のないサービス エコシステムで 70 % を超える市場シェア"
+   },
+   {
+    "value": "45.2",
+    "url": "https://straitsresearch.com/jp/report/robotic-assisted-surgery-systems-market",
+    "quote": "北米は、2025年に45.2%の市場シェアを占め、ロボット支援手術システム市場を牽引しました"
+   },
+   {
+    "value": "18.65",
+    "url": "https://straitsresearch.com/jp/report/robotic-assisted-surgery-systems-market",
+    "quote": "消耗品・付属品部門は、予測期間中に年平均成長率（CAGR）18.65%で成長し、最大の市場シェアを占めると予測されています"
+   },
+   {
+    "value": "17.5",
+    "url": "https://straitsresearch.com/jp/report/robotic-assisted-surgery-systems-market",
+    "quote": "泌尿器科分野は、予測期間中に年平均成長率（CAGR）17.5%で成長し、最大の市場シェアを占める見込みです"
+   },
+   {
+    "value": "16.8",
+    "url": "https://straitsresearch.com/jp/report/robotic-assisted-surgery-systems-market",
+    "quote": "病院分野は、予測期間中に年平均成長率（CAGR）16.8%で成長し、最大の市場シェアを占める見込みです"
+   },
+   {
+    "value": "85",
+    "url": "https://note.com/kagawatomo/n/nbf9230ad6279",
+    "quote": "同四半期において、Intuitiveが定義するリカーリング収益は24億6910万ドルで、総売上の85％を占めた"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/surgical-robots-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E6%89%8B%E8%A1%93%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4-100948",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%89%8B%E8%A1%93%E7%94%A8%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2021_02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.dreamnews.jp/press/0000359418",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ee-ties.com/magazine/52944/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jet-mfg.com/category/service-robots/medical-robot/robotic-surgery/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reportprime.com/ja/%E5%8C%BB%E7%99%82%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-r19449/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/robotic-assisted-surgery-systems-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E6%89%8B%E8%A1%93%E5%B8%82%E5%A0%B4-100124",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/2872028",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E6%89%8B%E8%A1%93%E5%B8%82%E5%A0%B4-100124",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/2872028",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/ires2094470-medical-robots-market-global-forecast.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kagawatomo/n/nbf9230ad6279",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.towardshealthcare.com/insights/robotic-surgery-market-sizing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/surgical-robot-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/surgical-robots-market-256618532.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/robotic-surgical-procedures-market-100124",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/surgical-robots-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oliverwyman.com/our-expertise/perspectives/health/2023/august/positioning-the-industry-for-growth-in-robotic-surgery.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/surgical-robots-market-100948",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/surgical-robots-market-3025",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mddionline.com/robotics/surgical-robotics-market-explodes-to-56b-by-2034-as-hospitals-embrace-ai-powered-precision-systems",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bain.com/insights/navigating-the-next-wave-of-surgical-robotics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.delveinsight.com/report-store/next-generation-surgical-robotics-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchandmarkets.com/reports/6274304/next-generation-surgical-robotics-market?srsltid=AYCX9vIauGX2XEGTH6ozExUyhYTcl4RMFUU6vsY1SK5SiDf8wULNLr0Y",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13394648/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.psmarketresearch.com/market-analysis/surgical-robotics-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.persistencemarketresearch.com/market-research/orthopedic-surgical-robots-market.asp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/surgical-robotics-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.medicaldevice-network.com/features/why-2025-is-a-key-year-for-the-surgical-robotics-market/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://en.medtecchina.com/media/show/top-10-surgical-robot-companies-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rootsanalysis.com/reports/surgical-robots-market.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.globaldata.com/data-insights/healthcare/medical-surgical-robotics-market-current-trends-and-future-market-dynamics/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "手術支援ロボット 市場規模 CAGR",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/surgical-robots-market",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E6%89%8B%E8%A1%93%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4-100948",
+    "https://www.coherentmarketinsights.com/ja/%E6%89%8B%E8%A1%93%E7%94%A8%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4",
+    "https://jp.linkedin.com/pulse/%E6%89%8B%E8%A1%93%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4%E3%81%AE%E6%88%90%E9%95%B7%E4%BA%88%E6%B8%AC2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6cagr-122-matrix-motifs-ds9be",
+    "https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2021_02.pdf",
+    "https://www.dreamnews.jp/press/0000359418",
+    "https://pando.life/article/4759402",
+    "https://www.gii.co.jp/report/ires2094470-medical-robots-market-global-forecast.html",
+    "https://www.zionmarketresearch.com/ja/report/medical-robotic-systems-market",
+    "https://straitsresearch.com/jp/report/robotic-assisted-surgery-systems-market"
+   ]
+  },
+  {
+   "query": "手術支援ロボット 市場 シェア 上位 企業",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/surgical-robots-market",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E6%89%8B%E8%A1%93%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4-100948",
+    "https://www.ee-ties.com/magazine/52944/",
+    "https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2021_02.pdf",
+    "https://www.coherentmarketinsights.com/ja/%E6%89%8B%E8%A1%93%E7%94%A8%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4",
+    "https://jet-mfg.com/category/service-robots/medical-robot/robotic-surgery/",
+    "https://www.reportprime.com/ja/%E5%8C%BB%E7%99%82%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88-r19449/company",
+    "https://straitsresearch.com/jp/report/robotic-assisted-surgery-systems-market",
+    "https://jp.linkedin.com/pulse/%E5%A9%A6%E4%BA%BA%E7%A7%91%E6%89%8B%E8%A1%93%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%AE%E6%9C%89%E5%8A%9B%E4%BC%81%E6%A5%AD%E3%83%88%E3%83%83%E3%83%9710-freightflowx-4pdje",
+    "https://www.fortunebusinessinsights.com/jp/業界-レポート/ロボット手術市場-100124"
+   ]
+  },
+  {
+   "query": "手術支援ロボット 市場 前年比 2025",
+   "results": [
+    "https://newscast.jp/news/2872028",
+    "https://www.gminsights.com/ja/industry-analysis/surgical-robots-market",
+    "https://www.coherentmarketinsights.com/ja/%E6%89%8B%E8%A1%93%E7%94%A8%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E6%89%8B%E8%A1%93%E5%B8%82%E5%A0%B4-100124",
+    "https://www.atpress.ne.jp/news/2872028",
+    "https://www.gii.co.jp/report/ires2094470-medical-robots-market-global-forecast.html",
+    "https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2021_02.pdf",
+    "https://www.dreamnews.jp/press/0000359418",
+    "https://note.com/kagawatomo/n/nbf9230ad6279",
+    "https://www.coherentmarketinsights.com/ja/手術用ロボット市場"
+   ]
+  },
+  {
+   "query": "surgical robot market size CAGR 2025",
+   "results": [
+    "https://www.towardshealthcare.com/insights/robotic-surgery-market-sizing",
+    "https://www.grandviewresearch.com/industry-analysis/surgical-robot-market",
+    "https://www.marketsandmarkets.com/Market-Reports/surgical-robots-market-256618532.html",
+    "https://www.fortunebusinessinsights.com/industry-reports/robotic-surgical-procedures-market-100124",
+    "https://www.gminsights.com/industry-analysis/surgical-robots-market",
+    "https://www.oliverwyman.com/our-expertise/perspectives/health/2023/august/positioning-the-industry-for-growth-in-robotic-surgery.html",
+    "https://www.globaldata.com/data-insights/healthcare/medical-surgical-robotics-market-current-trends-and-future-market-dynamics/",
+    "https://orthospinenews.com/2026/04/13/surgical-robots-market-size-is-projected-to-attain-usd-38-27-billion-by-2035-sns-insider/",
+    "https://www.marketresearchfuture.com/reports/surgical-robots-market-3025",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/surgical-robots-market/us"
+   ]
+  },
+  {
+   "query": "surgical robot market share top players percent",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/surgical-robot-market",
+    "https://www.marketsandmarkets.com/Market-Reports/surgical-robots-market-256618532.html",
+    "https://www.oliverwyman.com/our-expertise/perspectives/health/2023/august/positioning-the-industry-for-growth-in-robotic-surgery.html",
+    "https://www.fortunebusinessinsights.com/industry-reports/surgical-robots-market-100948",
+    "https://www.marketresearchfuture.com/reports/surgical-robots-market-3025",
+    "https://www.mddionline.com/robotics/surgical-robotics-market-explodes-to-56b-by-2034-as-hospitals-embrace-ai-powered-precision-systems",
+    "https://www.gminsights.com/industry-analysis/surgical-robots-market",
+    "https://www.bain.com/insights/navigating-the-next-wave-of-surgical-robotics/",
+    "https://www.globaldata.com/data-insights/healthcare/medical-surgical-robotics-market-current-trends-and-future-market-dynamics/",
+    "https://www.expertmarketresearch.com/healthcare-articles/top-companies-in-the-surgical-robots-market"
+   ]
+  },
+  {
+   "query": "surgical robot market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.delveinsight.com/report-store/next-generation-surgical-robotics-market",
+    "https://www.researchandmarkets.com/reports/6274304/next-generation-surgical-robotics-market?srsltid=AYCX9vIauGX2XEGTH6ozExUyhYTcl4RMFUU6vsY1SK5SiDf8wULNLr0Y",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC13394648/",
+    "https://www.psmarketresearch.com/market-analysis/surgical-robotics-market",
+    "https://www.fortunebusinessinsights.com/industry-reports/surgical-robots-market-100948",
+    "https://www.bain.com/insights/navigating-the-next-wave-of-surgical-robotics/",
+    "https://www.persistencemarketresearch.com/market-research/orthopedic-surgical-robots-market.asp",
+    "https://www.linkedin.com/pulse/competitive-landscape-key-trends-guiding-surgical-robot-market-aaiof",
+    "https://www.maximizemarketresearch.com/market-report/global-surgical-robots-market/22528/",
+    "https://www.consolidated.com/"
+   ]
+  },
+  {
+   "query": "surgical robot market key companies share 2025",
+   "results": [
+    "https://www.precedenceresearch.com/surgical-robotics-market",
+    "https://www.grandviewresearch.com/industry-analysis/surgical-robot-market",
+    "https://www.marketsandmarkets.com/Market-Reports/surgical-robots-market-256618532.html",
+    "https://www.medicaldevice-network.com/features/why-2025-is-a-key-year-for-the-surgical-robotics-market/",
+    "https://www.fortunebusinessinsights.com/industry-reports/surgical-robots-market-100948",
+    "https://en.medtecchina.com/media/show/top-10-surgical-robot-companies-2026/",
+    "https://www.gminsights.com/industry-analysis/surgical-robots-market",
+    "https://www.rootsanalysis.com/reports/surgical-robots-market.html",
+    "https://www.globaldata.com/data-insights/healthcare/medical-surgical-robotics-market-current-trends-and-future-market-dynamics/",
+    "https://analysissphere.com/surgical-robots-market/"
+   ]
+  }
+ ],
+ "missing": {}
+}

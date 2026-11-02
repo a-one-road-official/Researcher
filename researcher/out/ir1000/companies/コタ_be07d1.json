@@ -1,0 +1,1625 @@
+{
+ "name": "コタ",
+ "aliases": [],
+ "context": "証券コード4923／化学／プライム（内国株式）／2026.03期 売上高9,604百万円 営業利益率20.8%",
+ "researched_at": "2026-11-02T17:44:11.918127+00:00",
+ "official_url": "https://www.cota.co.jp/",
+ "identified_by": "search:yahoo_jp:コタ",
+ "profile": {
+  "従業員数": [
+   {
+    "label": "従業員数（人）",
+    "value": "355 355 373 390 395",
+    "url": "https://www.cota.co.jp/company-ir/sustainability",
+    "pass": 1
+   },
+   {
+    "label": "従業員数（単独）",
+    "value": "460人",
+    "url": "https://finance.yahoo.co.jp/quote/4923.T/profile",
+    "pass": 3
+   },
+   {
+    "label": "従業員数（連結）",
+    "value": "---",
+    "url": "https://finance.yahoo.co.jp/quote/4923.T/profile",
+    "pass": 3
+   }
+  ],
+  "設立": [
+   {
+    "label": "設立年月日",
+    "value": "1979年9月27日",
+    "url": "https://finance.yahoo.co.jp/quote/4923.T/profile",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "自然のやさしさと科学の力を融合させながら、徹底したお客様目線で、ニーズに敵った製品開発を日夜追求しています",
+    "url": "https://www.cota.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "品質はもちろん、人にも環境にも安心・安全であることを基本に原料にもこだわり、厳しい品質チェックと改良を幾重にも重ねる地道なプロセスを経て、お客様の髪を芯から美しくする製品が誕生します",
+    "url": "https://www.cota.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "美容室に来店されたお客様に髪の状態などについてカウンセリングを行い、お客様のヘアスタイルやヘアコンディションの維持に必要かつ最適な製品（シャンプーやトリートメント等）を対面で店舗販売すること（店販）を推進することで、美容室の収益改善を実現しています",
+    "url": "https://www.cota.co.jp/company-ir/guidance",
+    "pass": 1
+   },
+   {
+    "quote": "当社はこの「コタ旬報店システム」を通じて、 お取引先美容室に対して営業戦略や人材育成等、あらゆる面から業績向上のためにコンサルティング・セールス（経営コンサルティング）を行い、美容室との信頼関係を築いています",
+    "url": "https://www.cota.co.jp/company-ir/guidance",
+    "pass": 1
+   },
+   {
+    "quote": "美容室に来店されるお客様に、安心してお使いいただける製品を提供し続けるために、当社では開発から製造、販売にいたるまで、一貫した自社体制を構築しています",
+    "url": "https://www.cota.co.jp/company-ir/guidance",
+    "pass": 1
+   },
+   {
+    "quote": "このような妥協なき姿勢と厳正な検証を重ねることで、お客様に長く愛されている製品が誕生しています",
+    "url": "https://www.cota.co.jp/company-ir/guidance",
+    "pass": 1
+   },
+   {
+    "quote": "「お客様に当社製品を安心して使っていただきたい」という想いから、生産工程においては、既存の生産方法に捉われず、高い目標と改善意識を持ちながら、日々、新しい「ものづくり」にも挑戦しています",
+    "url": "https://www.cota.co.jp/company-ir/guidance",
+    "pass": 1
+   },
+   {
+    "quote": "全役員、全従業員、さらには、お客様、株主、お取引業者、地域社会等、当社を取り巻くすべてのステークホルダーの皆さまと、共有したいと考えています",
+    "url": "https://www.cota.co.jp/company-ir/vision",
+    "pass": 1
+   },
+   {
+    "quote": "「世のため」とは、１円でも多く納税し、１人でも多く雇用することであり、「人のため」とは、株主、顧客（代理店、美容室）、取引先（仕入先、金融機関等）の方々が、当社に期待されていることを実現し、従業員の経済的な豊かさと幸福感を高めることです",
+    "url": "https://www.cota.co.jp/company-ir/vision",
+    "pass": 1
+   },
+   {
+    "quote": "「トイレタリーの販売を中心とした店販戦略」では、「美容室とともに、女性を髪から美しくする」という考えのもと、美容室に来店されたお客様にカウンセリングを行い、シャンプーやトリートメントなどのトイレタリーを中心に、お客様のヘアスタイルやヘアコンディションの維持に必要かつ最適な製品をお勧めし販売する「店販」を推進することで、美容室の収益改善を実現しています",
+    "url": "https://www.cota.co.jp/company-ir/vision",
+    "pass": 1
+   },
+   {
+    "quote": "当社のものづくりでは、「Nature & Science」という考えをもとに、自然のやさしさと科学の力を融合させながら、徹底したお客様目線で、ニーズに適った製品開発を日夜追求しています",
+    "url": "https://www.cota.co.jp/company-ir/vision",
+    "pass": 1
+   },
+   {
+    "quote": "創業精神である「美容業界（美容室経営）の近代化」の実現に向け、「お取引先である美容室の繁栄が当社の繁栄につながる」という基本的な考え方を堅持し、各部門においては次のような方針を持って取り組みます",
+    "url": "https://www.cota.co.jp/company-ir/vision",
+    "pass": 1
+   },
+   {
+    "quote": "髪から女性を美しくする高付加価値、かつエンドユーザーに対して「安心・安全」な製品の開発及び品質管理に努めるとともに、産学連携を含めた各分野における基礎研究を進めます",
+    "url": "https://www.cota.co.jp/company-ir/vision",
+    "pass": 1
+   },
+   {
+    "quote": "したがいまして、\\サステナビリティをめぐる課題への対応が、\\中長期的な企業価値や収益機会の向上につながる\\重要な経営課題であることを踏まえ、\\全役員、全従業員、さらにはお客様、\\株主、お取引業者、地域社会等、\\当社を取り巻くすべての\\ステークホルダーの皆様と\\コタという会社を「共有」したいと考えております",
+    "url": "https://www.cota.co.jp/company-ir/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "当社に関わるすべてのお取引先に対して、環境保全活動への考え方と取り組みを共有します",
+    "url": "https://www.cota.co.jp/company-ir/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "全役員、全従業員、さらには、お客様、株主、お取引先業者、",
+    "url": "https://www.cota.co.jp/company-ir/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "当社が目指す『美容業界の近代化』とは、お取引先である「美容室の経営を近代化する」ことです",
+    "url": "https://www.cota.co.jp/company-ir/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、女性がキレイになる意識改革の最初の入り口は髪をキレイにすることであり、女性のキレイを実現するためには、髪のプロである美容師さんが来店されたお客様に髪の状態などについてカウンセリングを行い、髪からキレイになるための提案を行うことが重要であると考えています",
+    "url": "https://www.cota.co.jp/company-ir/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "そのため、当社のお取引先美容室では、お客様お一人おひとりにカウンセリングを行い、シャンプーやトリートメントを中心に、ヘアスタイルやヘアコンディションの維持に必要かつ最適な製品をご提案し、販売しており、それを当業界では「店販（てんぱん）」と呼んでいます",
+    "url": "https://www.cota.co.jp/company-ir/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "一方で、お客様は髪がキレイになり、満足されることから、再来店につながるだけでなく、お友達などをご紹介していただけるようにもなります",
+    "url": "https://www.cota.co.jp/company-ir/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "また、店販を購入されたお客様は、スーパーやドラッグストアなどで購入されていた市販品から、美容室でのみ購入できる高品質・高付加価値な美容室専売品に切り替えられたということであり、これまでにはなかった市場が開拓できた証であると言えます",
+    "url": "https://www.cota.co.jp/company-ir/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "その中で、当社の業績が店販用品市場を上回って着実に推移しているのは、お客様のご購入が一度きりということではなく、当社製品の性能に満足され、継続してご使用いただけているからです",
+    "url": "https://www.cota.co.jp/company-ir/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "『店販戦略』を稼動させ、業績（生産性）を向上するサイクルを生むためには、お取引先美容室において",
+    "url": "https://www.cota.co.jp/company-ir/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、美容室の経営改善システムである「旬報店（じゅんぽうてん）システム」を通じて、営業戦略や人材育成等、あらゆる面から業績向上のための経営アドバイスも積極的に行っており、「旬報店システム」を提供しているお取引先美容室を「旬報店」といいます",
+    "url": "https://www.cota.co.jp/company-ir/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "つまり、旬報店システムは、単なる売上管理や顧客管理のシステムではなく、当社の創業精神である『美容業界の近代化』に向けた志（こころざし）を美容室経営者、スタッフ、そして当社と共有するシステムであり、スタッフのモチベーションの醸成により、業績向上への本質的な仕組みを構築することができます",
+    "url": "https://www.cota.co.jp/company-ir/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "また、旬報店システムでは、お取引先美容室とビジョンを共有し、それに至るまでの目標を設定（売上高や来店客数等の11項目で目標を設定）し、日々の進捗状況を管理しています",
+    "url": "https://www.cota.co.jp/company-ir/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "美容業界では、引き続き美容室経営の二極分化により厳しい状況が続く見通しですが、当社では美容室の業績向上に資することができる独自のビジネスモデルを展開することで、お取引先美容室のより一層の業績向上に取り組み、美容業界の発展と近代化に注力する考えです",
+    "url": "https://www.cota.co.jp/company-ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発から生産、受注、出荷並びに営業活動については、事象発生後も人海戦術等を駆使することでお取引先美容室及び代理店に対して、大きなご迷惑をおかけすることなく継続できていましたが、2026年３月期の決算については、数値の確定及び会計監査人の監査手続等の遅れにより発表までに時間を要することになりました",
+    "url": "https://www.cota.co.jp/company-ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "今後も、当社独自のビジネスモデルをこれまで以上に積み上げ、磨くことで、多くのお取引先美容室の客単価を向上し、美容室の繁栄および生産性の向上、そして持続可能な経営を実現していきたいと考えています",
+    "url": "https://www.cota.co.jp/company-ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "厚みのある生炭酸のクリームやきめ細かな泡のシャンプー等で、頭皮マッサージを行いながら施術を行うため、美容室に来店されたお客様からはその心地よさに大変ご好評をいただいています",
+    "url": "https://www.cota.co.jp/company-ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "当社は美容室向け頭髪用化粧品メーカーとして、安心・安全で高品質な製品を製造・販売するだけではなく、競合他社にはない独自のビジネスモデルを展開し、お取引先美容室の業績向上を実現し続けることで、今後も着実成長を続けていきたいと考えています",
+    "url": "https://www.cota.co.jp/company-ir/highlight/performance-trends",
+    "pass": 1
+   },
+   {
+    "quote": "投資判断はあくまでも利用者ご自身のご判断において行われますようお願いいたします",
+    "url": "https://www.cota.co.jp/company-ir/disclaimer",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は創業以来、サロン様にご来店されるお客様に、安心・満足してお使いいただけるように、徹底した『こだわりのものづくり』を行って参りました",
+    "url": "https://www.cota.co.jp/beautystory/event6.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、弊社製品は、その特性上、専門家であるサロンスタッフ様のカウンセリングにより、髪の状態を診断し、お客様の髪の状態に最も合った製品を選ぶことで、最大の効果を発揮する美容室専売品として作られているため、お客様には、サロン様からのみ販売をさせていただいております",
+    "url": "https://www.cota.co.jp/beautystory/event6.html",
+    "pass": 1
+   },
+   {
+    "quote": "従いまして、これらの販売は弊社が認めたものではなく、偽造品や模造品である可能性のほか、製品の使用期限や品質・安全性の管理も保証できず、お客様に不利益を与えかねません",
+    "url": "https://www.cota.co.jp/beautystory/event6.html",
+    "pass": 1
+   },
+   {
+    "quote": "「美容室経営の繁栄に貢献すること」を第一の目的とし、美容室を通じてのみ製品をお客様へお届けする「サロン専売」のスタイルを貫いています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "美容師の方々と共にお客様一人ひとりの髪の悩みに応え、真の美しさを追求しています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "多くのサロンでは顧客満足度向上や売上維持に課題を抱えがちですが、コタの製品はヘアケアの仕上がりや安全性に定評があり、お客さまに満足してもらいやすいという強みがあります",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "研究開発チームが顧客ニーズをいち早くキャッチし、技術的にも質の高いヘアケア製品を生み出す点が土台となっています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "研究開発チームはサロンオーナーや顧客の声をもとに、次に求められる製品は何かを探り当て、試作やテストを重ねることで付加価値の高いアイテムを生み出します",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との関係",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "コタが目指すのは顧客との長期的なパートナーシップです",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "実際にコタの製品群は価格帯が比較的高めにもかかわらず、リピート率が高いことで知られており、こうした細かなフォローアップの積み重ねが顧客ロイヤルティを高めているのです",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客セグメント",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "コタの顧客セグメントは全国の美容室が中心です",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "売上を上げたいが新規顧客をどのように増やせば良いか分からない、リピーターを定着させるには何が必要かなど、サロン側の悩みは多岐にわたります",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "単に大口顧客だけを重視するのではなく、小規模サロンでも経営を成功に導くノウハウを積み上げることで、多くの美容室に信頼される存在となっているのです",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "まず研究開発によって魅力的な新製品を投入し、営業担当がサロンの経営状況や顧客ニーズに合わせた最適な使い方を提案します",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "サロンは自社の売上アップにつなげやすく、顧客満足度も高まるため製品の評判がさらに向上します",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "投資・売買に関する最終決定は、お客様ご自身のご判断でなさいますようお願い申し上げます",
+    "url": "https://finance.yahoo.co.jp/quote/4923.T/profile",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "自然のやさしさと科学の力を融合させながら、徹底したお客様目線で、ニーズに敵った製品開発を日夜追求しています",
+    "url": "https://www.cota.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "品質はもちろん、人にも環境にも安心・安全であることを基本に原料にもこだわり、厳しい品質チェックと改良を幾重にも重ねる地道なプロセスを経て、お客様の髪を芯から美しくする製品が誕生します",
+    "url": "https://www.cota.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "そして、オートメーション化が進んだ生産現場において、今なおきちんと「人の目」と「人の手」を活かしたものづくりを続けながら、ゆるぎない想いが詰まった安心・安全、高品質の製品を作り上げています",
+    "url": "https://www.cota.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の価格改定に関するお知らせ",
+    "url": "https://www.cota.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "美容室に来店されたお客様に髪の状態などについてカウンセリングを行い、お客様のヘアスタイルやヘアコンディションの維持に必要かつ最適な製品（シャンプーやトリートメント等）を対面で店舗販売すること（店販）を推進することで、美容室の収益改善を実現しています",
+    "url": "https://www.cota.co.jp/company-ir/guidance",
+    "pass": 1
+   },
+   {
+    "quote": "一貫した製品開発・生産・販売体制",
+    "url": "https://www.cota.co.jp/company-ir/guidance",
+    "pass": 1
+   },
+   {
+    "quote": "美容室に来店されるお客様に、安心してお使いいただける製品を提供し続けるために、当社では開発から製造、販売にいたるまで、一貫した自社体制を構築しています",
+    "url": "https://www.cota.co.jp/company-ir/guidance",
+    "pass": 1
+   },
+   {
+    "quote": "毛髪に関する基礎研究から使用する原料の調査や調合、製品の性能評価、完成した製品の品質検査などを経て当社製品は誕生します",
+    "url": "https://www.cota.co.jp/company-ir/guidance",
+    "pass": 1
+   },
+   {
+    "quote": "使用する原料は環境や人体にとって優しいものを厳選しながら、製品コンセプトに沿った性能を実現するために、時間と労力のすべてを注ぎこむ姿勢で製品開発を進めています",
+    "url": "https://www.cota.co.jp/company-ir/guidance",
+    "pass": 1
+   },
+   {
+    "quote": "また、製品をご使用になる美容室へ試作品を持って伺い、求める髪の感触や使用感、要望などのご意見をいただき、さらに改良を重ねています",
+    "url": "https://www.cota.co.jp/company-ir/guidance",
+    "pass": 1
+   },
+   {
+    "quote": "このような妥協なき姿勢と厳正な検証を重ねることで、お客様に長く愛されている製品が誕生しています",
+    "url": "https://www.cota.co.jp/company-ir/guidance",
+    "pass": 1
+   },
+   {
+    "quote": "「お客様に当社製品を安心して使っていただきたい」という想いから、生産工程においては、既存の生産方法に捉われず、高い目標と改善意識を持ちながら、日々、新しい「ものづくり」にも挑戦しています",
+    "url": "https://www.cota.co.jp/company-ir/guidance",
+    "pass": 1
+   },
+   {
+    "quote": "当社の株主優待は、３月末の株主様を対象に年１回実施しており、シャンプーとトリートメントを中心に、株主様お一人おひとりの髪や頭皮の状態に合った製品をお届けしています",
+    "url": "https://www.cota.co.jp/company-ir/guidance",
+    "pass": 1
+   },
+   {
+    "quote": "また、ものづくりでは、自然のやさしさと科学の力を融合させながら、人にも環境にもやさしい原料にこだわり、新たな成分を求めて日々研究を重ねながら安心・安全、高品質な製品をお届けしています",
+    "url": "https://www.cota.co.jp/company-ir/guidance",
+    "pass": 1
+   },
+   {
+    "quote": "ネイチャー&サイエンス～製品開発に対する考え方～",
+    "url": "https://www.cota.co.jp/company-ir/guidance",
+    "pass": 1
+   },
+   {
+    "quote": "#6：「当社製品と市販品の違い」",
+    "url": "https://www.cota.co.jp/company-ir/guidance",
+    "pass": 1
+   },
+   {
+    "quote": "新製品コタクチュールで感じる「五感に満ちる、最上質」",
+    "url": "https://www.cota.co.jp/company-ir/guidance",
+    "pass": 1
+   },
+   {
+    "quote": "「トイレタリーの販売を中心とした店販戦略」では、「美容室とともに、女性を髪から美しくする」という考えのもと、美容室に来店されたお客様にカウンセリングを行い、シャンプーやトリートメントなどのトイレタリーを中心に、お客様のヘアスタイルやヘアコンディションの維持に必要かつ最適な製品をお勧めし販売する「店販」を推進することで、美容室の収益改善を実現しています",
+    "url": "https://www.cota.co.jp/company-ir/vision",
+    "pass": 1
+   },
+   {
+    "quote": "当社のものづくりでは、「Nature & Science」という考えをもとに、自然のやさしさと科学の力を融合させながら、徹底したお客様目線で、ニーズに適った製品開発を日夜追求しています",
+    "url": "https://www.cota.co.jp/company-ir/vision",
+    "pass": 1
+   },
+   {
+    "quote": "そして、今なおきちんと「人の目」と「人の手」を活かしたものづくりを続けながら、ゆるぎない想いが詰まった安心・安全、高品質な製品を作り上げています",
+    "url": "https://www.cota.co.jp/company-ir/vision",
+    "pass": 1
+   },
+   {
+    "quote": "「安心・安全」なものづくりにより、高品質な製品を市場に安定的に供給することで、当社や当社製品に対する信頼の向上に努めます",
+    "url": "https://www.cota.co.jp/company-ir/vision",
+    "pass": 1
+   },
+   {
+    "quote": "髪から女性を美しくする高付加価値、かつエンドユーザーに対して「安心・安全」な製品の開発及び品質管理に努めるとともに、産学連携を含めた各分野における基礎研究を進めます",
+    "url": "https://www.cota.co.jp/company-ir/vision",
+    "pass": 1
+   },
+   {
+    "quote": "また、当社の事業に係るすべての生産及び消費活動と、これらの製品又はサービスの環境への影響を低減するために、担当取締役を委員長とした「環境委員会」を中心に、気候変動への対応を含めた（",
+    "url": "https://www.cota.co.jp/company-ir/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "「ネイチャー&サイエンス」の方針のもと、人に、地球環境にやさしい製品開発に努めます",
+    "url": "https://www.cota.co.jp/company-ir/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "プラスチックゴミ削減のために、自然環境に配慮したエコパックを業務用製品に採用しています",
+    "url": "https://www.cota.co.jp/company-ir/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "詰め替え製品の販売促進",
+    "url": "https://www.cota.co.jp/company-ir/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "エコパック製品の販売を促進させることで、包装資材を産業廃棄物として排出した際のCO2排出量の削減につなげる",
+    "url": "https://www.cota.co.jp/company-ir/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "当社製品の一部を再生可能な生物由来の資源を原料とした容器に変更し、環境負荷の低減につなげる",
+    "url": "https://www.cota.co.jp/company-ir/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "そのため、当社のお取引先美容室では、お客様お一人おひとりにカウンセリングを行い、シャンプーやトリートメントを中心に、ヘアスタイルやヘアコンディションの維持に必要かつ最適な製品をご提案し、販売しており、それを当業界では「店販（てんぱん）」と呼んでいます",
+    "url": "https://www.cota.co.jp/company-ir/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "その中で、当社の業績が店販用品市場を上回って着実に推移しているのは、お客様のご購入が一度きりということではなく、当社製品の性能に満足され、継続してご使用いただけているからです",
+    "url": "https://www.cota.co.jp/company-ir/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "取締役会においては、会社の業務執行状況、その他必要と認める事項についての報告を行うとともに、新製品の開発・販売、重要なイベントの開催に加え、当事業年度においては、支店の移転、次期基幹システムの検討、給与水準の引上げ、人事異動・組織変更についての検討を行いました",
+    "url": "https://www.cota.co.jp/company-ir/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "株主や個人投資家の皆様に、事業内容や業績、ビジネスモデル、製品等について説明し、当社の魅力についてお伝えしています",
+    "url": "https://www.cota.co.jp/company-ir/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "おかげさまで売上高については、店販戦略の主力である「コタ アイ ケア」の販売が好調に推移したことにより、2.4％の増収となり、過去最高（28期連続の増収）となりました",
+    "url": "https://www.cota.co.jp/company-ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "また、引き続き、店販戦略の主力である「コタ アイ ケア」を中心としたトイレタリーを推進し、拡販を図るとともに、さらなる成長のための人材の獲得と育成、給与水準の引上げに加え、サイバーセキュリティ強化費用等を中心とした販売費及び一般管理費の増加等を見込んでいます",
+    "url": "https://www.cota.co.jp/company-ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "本特許の知見は、糖酸化現象による毛髪の硬化や感触の低下の抑制につながる新規ヘアケア製品の開発へ活用する予定です",
+    "url": "https://www.cota.co.jp/company-ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "美容室の来店客に対するカウンセリング提案をベースに、主力の「コタ アイ ケア」及び「コタクチュール」を中心とした店販を継続して提案・推進しました",
+    "url": "https://www.cota.co.jp/company-ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "主力の「コタスタイリング ベース」及び「コタクチュール ベース」を中心に、美容室でのカウンセリングを通じた店販の推進に注力しました",
+    "url": "https://www.cota.co.jp/company-ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "主力の「コタカラー モカレド」及び「コタカラー ニュート グレイ」を中心に、付加価値の高いヘアカラーメニューの提案に注力しました",
+    "url": "https://www.cota.co.jp/company-ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "主力の「コタエイジング グロウセラム」による、エイジングケアの提案に注力しました",
+    "url": "https://www.cota.co.jp/company-ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "主力の「コタウェーブ リジカル」及び「コタストレート スリム」を中心に、積極的なパーマメニューの提案に注力しました",
+    "url": "https://www.cota.co.jp/company-ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "”を併せもつ製品設計にしており、「浮かす」・「洗う」・「整える」の３つのステップで施術を行います",
+    "url": "https://www.cota.co.jp/company-ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "（研究部 開発課 製品評価係 主任 北村 俊樹）",
+    "url": "https://www.cota.co.jp/company-ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "「コタヘッドスパ ピュレス」製品ページ",
+    "url": "https://www.cota.co.jp/company-ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "よりキレイになりたいと願う女性のために、髪のプロである美容師さんから高い評価をいただいている当社製品（シャンプー＆トリートメント等）を使用した、「髪からもっと美しくなるヘアケア」をご紹介するイベントを各地で開催しています",
+    "url": "https://www.cota.co.jp/company-ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "当社では所有株式数及び保有期間に応じて、自社製品（下記コースから選択）をお届けする株主優待制度を設けております",
+    "url": "https://www.cota.co.jp/company-ir/dividend-shareholder",
+    "pass": 1
+   },
+   {
+    "quote": "相当の当社製品",
+    "url": "https://www.cota.co.jp/company-ir/dividend-shareholder",
+    "pass": 1
+   },
+   {
+    "quote": "当社は美容室向け頭髪用化粧品メーカーとして、安心・安全で高品質な製品を製造・販売するだけではなく、競合他社にはない独自のビジネスモデルを展開し、お取引先美容室の業績向上を実現し続けることで、今後も着実成長を続けていきたいと考えています",
+    "url": "https://www.cota.co.jp/company-ir/highlight/performance-trends",
+    "pass": 1
+   },
+   {
+    "quote": "そこで、よりキレイになりたいと願う女性のために、髪のプロである美容師さんから高い評価をいただいている当社製品（シャンプー＆トリートメント など）を使った「髪からもっと美しくなるヘアケア」をご紹介するイベントを開催します",
+    "url": "https://www.cota.co.jp/beautystory/event6.html",
+    "pass": 1
+   },
+   {
+    "quote": "コタのロングセラー製品「コタ アイ ケア」のカウンセリングをご体験いただき、あなたにぴったりのシャンプー＆トリートメントをお選びしプレゼントします",
+    "url": "https://www.cota.co.jp/beautystory/event6.html",
+    "pass": 1
+   },
+   {
+    "quote": "・COTAブランドのヘアケア製品に興味のある方 など",
+    "url": "https://www.cota.co.jp/beautystory/event6.html",
+    "pass": 1
+   },
+   {
+    "quote": "弊社製品のお買い求めについて",
+    "url": "https://www.cota.co.jp/beautystory/event6.html",
+    "pass": 1
+   },
+   {
+    "quote": "弊社の製品がインターネットの通販サイトやオークションで販売されている場合がありますが、",
+    "url": "https://www.cota.co.jp/beautystory/event6.html",
+    "pass": 1
+   },
+   {
+    "quote": "従いまして、これらの販売は弊社が認めたものではなく、偽造品や模造品である可能性のほか、製品の使用期限や品質・安全性の管理もなされておりません",
+    "url": "https://www.cota.co.jp/beautystory/event6.html",
+    "pass": 1
+   },
+   {
+    "quote": "弊社製品は、その特性上、専門家である美容師さまのカウンセリングにより、髪質の状態を診断し、髪の状態に最も合った製品を選ぶことで最大の効果を発揮するようにつくられておりますので、弊社ではインターネット上での販売については認めておらず、",
+    "url": "https://www.cota.co.jp/beautystory/event6.html",
+    "pass": 1
+   },
+   {
+    "quote": "ネット通販等でご購入いただきました製品に対する品質・安全性や使用上でのトラブル等についての保証は致しかねます",
+    "url": "https://www.cota.co.jp/beautystory/event6.html",
+    "pass": 1
+   },
+   {
+    "quote": "平素は弊社製品をご愛顧いただき、誠にありがとうございます",
+    "url": "https://www.cota.co.jp/beautystory/event6.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、弊社製品は、その特性上、専門家であるサロンスタッフ様のカウンセリングにより、髪の状態を診断し、お客様の髪の状態に最も合った製品を選ぶことで、最大の効果を発揮する美容室専売品として作られているため、お客様には、サロン様からのみ販売をさせていただいております",
+    "url": "https://www.cota.co.jp/beautystory/event6.html",
+    "pass": 1
+   },
+   {
+    "quote": "しかし、弊社製品が、サロン様からの販売と異なる流通経路から販売されているケースが見受けられます",
+    "url": "https://www.cota.co.jp/beautystory/event6.html",
+    "pass": 1
+   },
+   {
+    "quote": "従いまして、これらの販売は弊社が認めたものではなく、偽造品や模造品である可能性のほか、製品の使用期限や品質・安全性の管理も保証できず、お客様に不利益を与えかねません",
+    "url": "https://www.cota.co.jp/beautystory/event6.html",
+    "pass": 1
+   },
+   {
+    "quote": "今後ともサロン様で弊社製品を安心してお買い求めいただき、弊社製品のご愛顧を賜りますよう、何卒宜しくお願い申し上げます",
+    "url": "https://www.cota.co.jp/beautystory/event6.html",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2027年３月期 第２四半期決算は2026年11月５日（木）に発表する予定です",
+    "url": "https://www.cota.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 中間期決算説明会（2025年11月27日）",
+    "url": "https://www.cota.co.jp/company-ir/guidance",
+    "pass": 1
+   },
+   {
+    "quote": "2025年３月期 決算説明会（2025年６月２日）",
+    "url": "https://www.cota.co.jp/company-ir/guidance",
+    "pass": 1
+   },
+   {
+    "quote": "2025年３月期 中間期決算説明会（2024年11月28日）",
+    "url": "https://www.cota.co.jp/company-ir/guidance",
+    "pass": 1
+   },
+   {
+    "quote": "2024年３月期 決算説明会（2024年6月3日）",
+    "url": "https://www.cota.co.jp/company-ir/guidance",
+    "pass": 1
+   },
+   {
+    "quote": "1979年9月27日",
+    "url": "https://www.cota.co.jp/company-ir/profile",
+    "pass": 1
+   },
+   {
+    "quote": "コタ株式会社 | 沿革 会社の歴史",
+    "url": "https://www.cota.co.jp/company-ir/history",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 会社の歴史",
+    "url": "https://www.cota.co.jp/company-ir/history",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月19日付で社長を退任し、会長に就任しましたのでご挨拶申し上げます",
+    "url": "https://www.cota.co.jp/company-ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 決算",
+    "url": "https://www.cota.co.jp/company-ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 通期業績予想",
+    "url": "https://www.cota.co.jp/company-ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期の期末配当につきましては、１株当たり普通配当で20円を予想しています",
+    "url": "https://www.cota.co.jp/company-ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "2026年６月19日付で代表取締役社長に就任しました、吉田 茂治と申します",
+    "url": "https://www.cota.co.jp/company-ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "2026年５月に頭皮と心のバランスを整えるヘッドスパメニュー専用品「コタヘッドスパ ピュレス」を発売しました",
+    "url": "https://www.cota.co.jp/company-ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月末日現在の株主名簿に記録された株主様を対象に、当社の事業内容等へのご理解をより一層深めていただくことを目的とした株主様限定のIRイベント「COTA BEAUTY STORY EXPO」を上記日程にて開催します",
+    "url": "https://www.cota.co.jp/company-ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "2005年3月期",
+    "url": "https://www.cota.co.jp/company-ir/ir-library/securities-report",
+    "pass": 1
+   },
+   {
+    "quote": "2004年3月期",
+    "url": "https://www.cota.co.jp/company-ir/ir-library/securities-report",
+    "pass": 1
+   },
+   {
+    "quote": "2003年3月期",
+    "url": "https://www.cota.co.jp/company-ir/ir-library/securities-report",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月31日現在",
+    "url": "https://www.cota.co.jp/company-ir/general-meeting-of-shareholders",
+    "pass": 1
+   },
+   {
+    "quote": "2015年10月15日制定",
+    "url": "https://www.cota.co.jp/company-ir/corporate-governance",
+    "pass": 1
+   },
+   {
+    "quote": "2015年12月1日改訂",
+    "url": "https://www.cota.co.jp/company-ir/corporate-governance",
+    "pass": 1
+   },
+   {
+    "quote": "2018年11月15日改訂",
+    "url": "https://www.cota.co.jp/company-ir/corporate-governance",
+    "pass": 1
+   },
+   {
+    "quote": "2020年6月19日改訂",
+    "url": "https://www.cota.co.jp/company-ir/corporate-governance",
+    "pass": 1
+   },
+   {
+    "quote": "2021年11月18日改訂",
+    "url": "https://www.cota.co.jp/company-ir/corporate-governance",
+    "pass": 1
+   },
+   {
+    "quote": "2022年4月1日改訂",
+    "url": "https://www.cota.co.jp/company-ir/corporate-governance",
+    "pass": 1
+   },
+   {
+    "quote": "2022年6月17日改訂",
+    "url": "https://www.cota.co.jp/company-ir/corporate-governance",
+    "pass": 1
+   },
+   {
+    "quote": "2023年6月26日改訂",
+    "url": "https://www.cota.co.jp/company-ir/corporate-governance",
+    "pass": 1
+   },
+   {
+    "quote": "2024年6月24日改訂",
+    "url": "https://www.cota.co.jp/company-ir/corporate-governance",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月23日改訂",
+    "url": "https://www.cota.co.jp/company-ir/corporate-governance",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月22日改訂",
+    "url": "https://www.cota.co.jp/company-ir/corporate-governance",
+    "pass": 1
+   },
+   {
+    "quote": "2025年4月1日～2029年3月31日",
+    "url": "https://www.cota.co.jp/company-ir/action-plan",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月1日 策定",
+    "url": "https://www.cota.co.jp/company-ir/action-plan-woman",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月1日 ～ 2029年3月31日",
+    "url": "https://www.cota.co.jp/company-ir/action-plan-woman",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月31日 更新",
+    "url": "https://www.cota.co.jp/company-ir/action-plan-woman",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度 第45期 ：",
+    "url": "https://www.cota.co.jp/company-ir/action-plan-woman",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度 第46期 ：",
+    "url": "https://www.cota.co.jp/company-ir/action-plan-woman",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度 第47期 ：",
+    "url": "https://www.cota.co.jp/company-ir/action-plan-woman",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度 第45期 ： 男性",
+    "url": "https://www.cota.co.jp/company-ir/action-plan-woman",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度 第46期 ： 男性",
+    "url": "https://www.cota.co.jp/company-ir/action-plan-woman",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度 第47期 ： 男性",
+    "url": "https://www.cota.co.jp/company-ir/action-plan-woman",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度 第47期 ： 全従業員",
+    "url": "https://www.cota.co.jp/company-ir/action-plan-woman",
+    "pass": 1
+   },
+   {
+    "quote": "2025年5月8日に発表された2025年3月期の決算短信によりますと、売上高は101億2,800万円となり、前の期に比べて7.0%の増加となりました",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年2月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年8月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年7月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年5月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年4月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "そこで、メーカーとしてだけ存在するのではなく、「美容室の繁栄のためにできることをお手伝いしよう」という想いから、創業精神に「美容業界（美容室経営）の近代化」を掲げ、その具体的施策として独自のビジネスモデルを展開しています",
+    "url": "https://www.cota.co.jp/company-ir/guidance",
+    "pass": 1
+   },
+   {
+    "quote": "２つのビジネスモデル",
+    "url": "https://www.cota.co.jp/company-ir/guidance",
+    "pass": 1
+   },
+   {
+    "quote": "当社では「世の中の美容室を一軒でも多く近代経営に導く」、「世の中の女性を一人でも多く髪から美しくする」を２つのミッションとしており、その実現のために２つの独自のビジネスモデルを展開しています",
+    "url": "https://www.cota.co.jp/company-ir/guidance",
+    "pass": 1
+   },
+   {
+    "quote": "そして、世の中の美容室を一軒でも多く近代経営に導くために、独自のビジネスモデルを展開しています",
+    "url": "https://www.cota.co.jp/company-ir/vision",
+    "pass": 1
+   },
+   {
+    "quote": "独自のビジネスモデル",
+    "url": "https://www.cota.co.jp/company-ir/vision",
+    "pass": 1
+   },
+   {
+    "quote": "独自のビジネスモデルである「トイレタリーの販売を中心とした店販戦略」及び「旬報店システムを軸としたコンサルティング・セールス」の実践を通して、美容室の業績向上に努めます",
+    "url": "https://www.cota.co.jp/company-ir/vision",
+    "pass": 1
+   },
+   {
+    "quote": "当社独自のビジネスモデルである",
+    "url": "https://www.cota.co.jp/company-ir/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "株主や個人投資家の皆様に、事業内容や業績、ビジネスモデル、製品等について説明し、当社の魅力についてお伝えしています",
+    "url": "https://www.cota.co.jp/company-ir/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "美容業界では、引き続き美容室経営の二極分化により厳しい状況が続く見通しですが、当社では美容室の業績向上に資することができる独自のビジネスモデルを展開することで、お取引先美容室のより一層の業績向上に取り組み、美容業界の発展と近代化に注力する考えです",
+    "url": "https://www.cota.co.jp/company-ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "今後も、当社独自のビジネスモデルをこれまで以上に積み上げ、磨くことで、多くのお取引先美容室の客単価を向上し、美容室の繁栄および生産性の向上、そして持続可能な経営を実現していきたいと考えています",
+    "url": "https://www.cota.co.jp/company-ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "当社は美容室向け頭髪用化粧品メーカーとして、安心・安全で高品質な製品を製造・販売するだけではなく、競合他社にはない独自のビジネスモデルを展開し、お取引先美容室の業績向上を実現し続けることで、今後も着実成長を続けていきたいと考えています",
+    "url": "https://www.cota.co.jp/company-ir/highlight/performance-trends",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社コタのビジネスモデル解剖で見る成長戦略 | チームマイクの企業分析",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社コタのビジネスモデル解剖で見る成長戦略",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "主力ブランドの「コタ アイ ケア」シリーズをはじめとする高品質な製品の提供に加え、美容室への経営支援や教育サポートも行う独自のビジネスモデルを展開しています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした二重の収益構造によって、製品の性能やブランド力に加えてサロン全体の売上を底上げできるコタのサービスに引き続き需要が集まり、IR資料でも新製品の売上動向が注目されるケースが多くなっています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "サロンの成功がコタの成功につながるビジネスモデルゆえに、双方がウィンウィンの関係を築きやすい点も自己強化ループを後押ししています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社きもとが築くビジネスモデルと魅力に迫る",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "ラサ工業のビジネスモデルと成長戦略を徹底解剖する魅力的な視点",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ZACROSの成長戦略とビジネスモデル",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社クラレのビジネスモデルと成長戦略 独自技術が切り拓く未来を徹底分析",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "トリケミカル研究所が魅せるビジネスモデルの強みと将来性",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "日本触媒のビジネスモデルを徹底解説しながら成長戦略を見極める最新IR資料活用ガイド",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "コーセーホールディングスの成長戦略を徹底解剖 ビジネスモデルの魅力",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ハーバー研究所の魅力を探る ビジネスモデルと成長戦略",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ドライケミカル株式会社の『ビジネスモデル』と圧倒的競争力を解",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社動力のIR資料から紐解く次世代へのビジネスモデルと成長戦略",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ガイシの驚異的なビジネスモデルと次世代へ向けた成長戦略を徹底解説",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "マーチャント・バンカーズの隠された成長戦略と驚異のビジネスモデル",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期については、「増収増益」を見込んでおり、美容室の業績向上に資する独自のビジネスモデル展開、主力製品「コタアイケア」を中心とした店販推進、そして人材獲得・育成・給与水準引き上げ等に伴う販売費及び一般管理費の増加を見込んでいます",
+    "url": "https://edinetdb.jp/company/E01059/presentations/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "現在の私たちがあるのも、ビジネスパートナーである美容室、そこで働く美容師の方々との信頼関係があればこそだと考えます",
+    "url": "https://www.cota.co.jp/company-ir/guidance",
+    "pass": 1
+   },
+   {
+    "quote": "美容室に来店されたお客様に髪の状態などについてカウンセリングを行い、お客様のヘアスタイルやヘアコンディションの維持に必要かつ最適な製品（シャンプーやトリートメント等）を対面で店舗販売すること（店販）を推進することで、美容室の収益改善を実現しています",
+    "url": "https://www.cota.co.jp/company-ir/guidance",
+    "pass": 1
+   },
+   {
+    "quote": "株主優待制度のご紹介",
+    "url": "https://www.cota.co.jp/company-ir/guidance",
+    "pass": 1
+   },
+   {
+    "quote": "株主優待品のご紹介～コタ アイ ケア編～",
+    "url": "https://www.cota.co.jp/company-ir/guidance",
+    "pass": 1
+   },
+   {
+    "quote": "株主優待のご紹介～コタクチュール編～",
+    "url": "https://www.cota.co.jp/company-ir/guidance",
+    "pass": 1
+   },
+   {
+    "quote": "株主優待のご紹介～コタエイジング編～",
+    "url": "https://www.cota.co.jp/company-ir/guidance",
+    "pass": 1
+   },
+   {
+    "quote": "株主優待品のご紹介～コタセラ スパ編～",
+    "url": "https://www.cota.co.jp/company-ir/guidance",
+    "pass": 1
+   },
+   {
+    "quote": "株主優待品のご紹介～スタイリング剤&スキャルプケア剤編～",
+    "url": "https://www.cota.co.jp/company-ir/guidance",
+    "pass": 1
+   },
+   {
+    "quote": "当社の概要から社員が共有している考え方まで、様々なテーマに沿って当社のことをご紹介しています",
+    "url": "https://www.cota.co.jp/company-ir/guidance",
+    "pass": 1
+   },
+   {
+    "quote": "代理店／国内61社・海外1社",
+    "url": "https://www.cota.co.jp/company-ir/profile",
+    "pass": 1
+   },
+   {
+    "quote": "「世のため」とは、１円でも多く納税し、１人でも多く雇用することであり、「人のため」とは、株主、顧客（代理店、美容室）、取引先（仕入先、金融機関等）の方々が、当社に期待されていることを実現し、従業員の経済的な豊かさと幸福感を高めることです",
+    "url": "https://www.cota.co.jp/company-ir/vision",
+    "pass": 1
+   },
+   {
+    "quote": "当社及び代理店の営業教育を目的に情報研修室を開設",
+    "url": "https://www.cota.co.jp/company-ir/history",
+    "pass": 1
+   },
+   {
+    "quote": "美容室への直販拠点として名古屋営業所を開設",
+    "url": "https://www.cota.co.jp/company-ir/history",
+    "pass": 1
+   },
+   {
+    "quote": "（以降、各地に開設する支店・営業所はすべて直販拠点となる）",
+    "url": "https://www.cota.co.jp/company-ir/history",
+    "pass": 1
+   },
+   {
+    "quote": "社内動画配信システムを通じて環境委員会の活動を紹介し、意識向上を図る",
+    "url": "https://www.cota.co.jp/company-ir/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "一方で、お客様は髪がキレイになり、満足されることから、再来店につながるだけでなく、お友達などをご紹介していただけるようにもなります",
+    "url": "https://www.cota.co.jp/company-ir/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発から生産、受注、出荷並びに営業活動については、事象発生後も人海戦術等を駆使することでお取引先美容室及び代理店に対して、大きなご迷惑をおかけすることなく継続できていましたが、2026年３月期の決算については、数値の確定及び会計監査人の監査手続等の遅れにより発表までに時間を要することになりました",
+    "url": "https://www.cota.co.jp/company-ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "よりキレイになりたいと願う女性のために、髪のプロである美容師さんから高い評価をいただいている当社製品（シャンプー＆トリートメント等）を使用した、「髪からもっと美しくなるヘアケア」をご紹介するイベントを各地で開催しています",
+    "url": "https://www.cota.co.jp/company-ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "そこで、よりキレイになりたいと願う女性のために、髪のプロである美容師さんから高い評価をいただいている当社製品（シャンプー＆トリートメント など）を使った「髪からもっと美しくなるヘアケア」をご紹介するイベントを開催します",
+    "url": "https://www.cota.co.jp/beautystory/event6.html",
+    "pass": 1
+   },
+   {
+    "quote": "すべての女性にCOTAが提案している「女性は髪からもっと美しくなれる」という世界観や、毎日のヘアケアの重要性についてご紹介いたします",
+    "url": "https://www.cota.co.jp/beautystory/event6.html",
+    "pass": 1
+   },
+   {
+    "quote": "美容業界（美容室・美容メーカー・代理店等）の",
+    "url": "https://www.cota.co.jp/beautystory/event6.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品の品質面だけでなく経営支援の部分でも差別化を図ることで、サロンにとって欠かせないパートナーとしての位置づけを確立しているのが特徴ですです",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "コタが主なパートナーとしているのは美容室や代理店です",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "とりわけサロンとの関係は単なる買い手と売り手というよりも、サロン経営を共に考えるパートナーという位置づけが強いです",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "また代理店を通じた販売ルートも維持しつつ、直接営業と組み合わせることで全国各地のサロンへのアクセスを確保しているのも特徴です",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "こうしたパートナーシップによって、コタは製品の導入規模や販売力を拡大しつつ、現場の生の声をフィードバックに活かすことができるのです",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "コタのチャンネルは大きく分けて直接営業と代理店経由ですが、直接営業を重視していることでサロンとの密接な関係性を築き上げています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店経由の販売も併用しており、より広いエリアのサロンにアプローチできますが、直接的なフィードバックが得にくいデメリットもあります",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "そのためコタでは代理店とも連携しながら新製品の情報や美容室向けノウハウを共有し、できる限りサロンへスピーディに届ける取り組みを行っています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "コタが目指すのは顧客との長期的なパートナーシップです",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "のパートナーからの情報提供を受けています",
+    "url": "https://finance.yahoo.co.jp/quote/4923.T/profile",
+    "pass": 3
+   },
+   {
+    "quote": "▼「SALON SEARCH」お取り扱い美容室のご紹介",
+    "url": "https://www.youtube.com/watch?v=om8p1ID2LsU",
+    "pass": 3
+   },
+   {
+    "quote": "コタ株式会社様の製品を取り扱う店舗が都道府県別で検索できます",
+    "url": "https://www.youtube.com/watch?v=om8p1ID2LsU",
+    "pass": 3
+   },
+   {
+    "quote": "＜女子トーク（正しいシャンプー・トリートメントの手順をご紹介）＞",
+    "url": "https://www.youtube.com/watch?v=om8p1ID2LsU",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "シャンプーやトリートメントの販売、すなわち「店販」を推進することで、美容室ではカットやカラー、パーマなどの売上に、店販による売上が加わることから、客単価が大幅に上がります",
+    "url": "https://www.cota.co.jp/company-ir/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "その結果、美容室は高い客単価を維持しながら来店客が増え、安定的に業績が向上することになります",
+    "url": "https://www.cota.co.jp/company-ir/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "今後も、当社独自のビジネスモデルをこれまで以上に積み上げ、磨くことで、多くのお取引先美容室の客単価を向上し、美容室の繁栄および生産性の向上、そして持続可能な経営を実現していきたいと考えています",
+    "url": "https://www.cota.co.jp/company-ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "これによって製品の単価アップや継続利用にもつながり、コタの事業基盤をより強固にしていく狙いがあります",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "VIP倶楽部を詳しく見る（月額2,838円）",
+    "url": "https://finance.yahoo.co.jp/quote/4923.T/profile",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "当社は営業戦略上、売上高及び各利益の構成比率は下半期のウエイトが大きくなっています",
+    "url": "https://www.cota.co.jp/company-ir/highlight/performance-trends",
+    "pass": 1
+   },
+   {
+    "quote": "顧客セグメント",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "コタの顧客セグメントは全国の美容室が中心です",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "事業セグメント",
+    "url": "https://edinetdb.jp/company/E01059/presentations/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "多くのサロンでは顧客満足度向上や売上維持に課題を抱えがちですが、コタの製品はヘアケアの仕上がりや安全性に定評があり、お客さまに満足してもらいやすいという強みがあります",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "トリケミカル研究所が魅せるビジネスモデルの強みと将来性",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "説明会では、経営方針、当社の強み、営業スタイル、配当方針、今後の展開などを説明します",
+    "url": "https://edinetdb.jp/company/E01059/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "企業の強みが業績にどのように表れているか、業績情報よりご確認いただけます",
+    "url": "https://finance.yahoo.co.jp/quote/4923.T/profile",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社コタのビジネスモデル解剖で見る成長戦略 | チームマイクの企... — Feb 8, 2025 · 採用情報 コタの初任給は月給20万8150円以上であり、営業未経験からのスタートでも安定した給与水準が期待できます。 年間休日は120日以上とされており、オフタイムもしっかり確保しながら成長していきたい方に向いています。",
+    "url": "https://consovation.com/株式会社コタのビジネスモデル解剖で見る成長戦/",
+    "pass": 3
+   },
+   {
+    "quote": "コタ株式会社 | コタビジョン - COTA — 独自のビジネスモデルである「トイレタリーの販売を中心とした店販戦略」及び「旬報店システムを軸としたコンサルティング・セールス」の実践を通して、美容室の業績向上に努めます。",
+    "url": "https://www.cota.co.jp/company-ir/vision",
+    "pass": 3
+   },
+   {
+    "quote": "コタ株式会社 | コタについて - COTA — 2つのビジネスモデル 当社では「世の中の美容室を一軒でも多く近代経営に導く」、「世の中の女性を一人でも多く髪から美しくする」を2つのミッションとしており、その実現のために2つの独自のビジネスモデルを展開しています。",
+    "url": "https://www.cota.co.jp/company-ir/guidance",
+    "pass": 3
+   },
+   {
+    "quote": "コタ（4923）の企業分析 - Smart Stock Notesコタ（4923）の事業内容、事業の状況や経営戦略、事業等のリスクにつ...【銘柄分析】コタ（COTA）：28期連続増収を誇るプレミアムヘアケアの...コタ:地域を代表する企業100選 - madeinlocal.jp — Apr 7, 2025 · コタ（4923）の企業分析。美容院向けの頭髪用化粧品及び医薬部外品の製造・販売を行う企業。主に美容室向けにトイレタリー製品や整髪料、カラー剤、育毛剤、パーマ剤などを提供している。 (3) 営業活動の特徴（独自のビジネスモデル）① トイレタリーの販売を中心とした店販（てんぱん）戦略「店販」とは、美容室に来店されたお客様に対して、髪のプロである美容師のカウンセリングを通じてヘアケアやヘアスタイルのアドバイスを行い ... Sep 11, 2026 · 【銘柄分析】コタ（COTA）：2",
+    "url": "https://www.smartstocknotes.jp/2025/04/08/企業分析：コタ（4923）-2/",
+    "pass": 3
+   },
+   {
+    "quote": "コタ（4923）の事業内容、事業の状況や経営戦略、事業等のリスクにつ... — (3) 営業活動の特徴（独自のビジネスモデル）① トイレタリーの販売を中心とした店販（てんぱん）戦略「店販」とは、美容室に来店されたお客様に対して、髪のプロである美容師のカウンセリングを通じてヘアケアやヘアスタイルのアドバイスを行い ...",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=4923",
+    "pass": 3
+   },
+   {
+    "quote": "コタ株式会社 | 決算短信・決算説明資料 - COTA — TOP 企業・投資家情報 企業・投資家情報 IRライブラリー 決算短信・決算説明資料",
+    "url": "https://www.cota.co.jp/ir/library.html",
+    "pass": 3
+   },
+   {
+    "quote": "コタ株式会社 — 決算説明資料 - EDINET DB — Jun 20, 2025 · コタ株式会社の決算説明資料を、AIで構造化されたセクション単位で表示。経営戦略・業績・ガバナンスなどテーマタグつき。",
+    "url": "https://edinetdb.jp/company/E01059/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "コタ株式会社 — IR資料 - EDINET DB — Apr 16, 2026 · EDINET DB > 企業一覧 > コタ株式会社 > IR資料 コタ株式会社 — IR資料 統合報告書・中期経営計画・決算説明資料などのIR資料を、AIがセクション単位で構造化したデータです。 本文の検索・テーマタグでの絞り込みが可能です。 （証券コード: 49230・業種: 化学）",
+    "url": "https://edinetdb.jp/company/E01059/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "コタ株式会社 | 企業・投資家情報 - COTA — COTA Guidance コタについて Company Profile 会社概要 COTA Vision コタビジョン History 沿革 Corporate Guide 会社案内パンフレット Sustainability サステナビリティ",
+    "url": "https://www.cota.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "コタ（4923）のIR情報・決算資料 - IRBANK — May 26, 2026 · コタ（4923）のIR情報・適時開示一覧。決算発表、業績修正などの開示情報を掲載。",
+    "url": "https://irbank.net/4923/ir",
+    "pass": 3
+   },
+   {
+    "quote": "コタ(株)【4923】：企業情報（決算時期・代表者名・大株主情報・IR動...4923 コタ | 事業内容 - 有価証券報告書-第38期 (平成28年4月1日-平成...系統図の閲覧・事前相談・接続検討（有料）｜東北電力ネットワーク — 17 hours ago · コタ(株)【4923】の決算時期や平均年収、代表者名、大株主情報、大量保有報告状況、IR動画などの企業情報をご覧いただけます。Yahoo!ファイナンスでは株価速報、チャート、ランキング、ポートフォリオ、ニュース、掲示板など投資判断に役立つ情報を掲載しています。 また、当社の事業における位置付け及び事業系統図は、以下のとおりであります。 (2) 販売ルート 製品の販売につきましては、当社から全国各地の代理店に販売する「代理店ルート」と、当社が直接美容室に販売する「直販ルート」の2つの方法を採用しており、代理店へは営業第一部が、美",
+    "url": "https://finance.yahoo.co.jp/quote/4923.T/profile",
+    "pass": 3
+   },
+   {
+    "quote": "4923 コタ | 事業内容 - 有価証券報告書-第38期 (平成28年4月1日-平成... — また、当社の事業における位置付け及び事業系統図は、以下のとおりであります。 (2) 販売ルート 製品の販売につきましては、当社から全国各地の代理店に販売する「代理店ルート」と、当社が直接美容室に販売する「直販ルート」の2つの方法を採用しており、代理店へは営業第一部が、美容 ...",
+    "url": "https://irbank.net/E01059/business?f=S100AINK",
+    "pass": 3
+   },
+   {
+    "quote": "COTA | コタ株式会社 — 次世代育成支援対策に基づく「行動計画」 女性活躍推進法に基づく「行動計画」",
+    "url": "https://www.cota.co.jp/corporate/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "コタ株式会社 | 企業・投資家情報 - COTA — COTA Guidance コタについて Company Profile 会社概要 COTA Vision コタビジョン History 沿革 Corporate Guide 会社案内パンフレット Sustainability サステナビリティ",
+    "url": "https://www.cota.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "【対談】イベントスウェブ スペシャル対談《前編》コタ（COTA）株式会...社長メッセージ｜COTA コタ株式会社 リクルート(採用情報)サイト[Interview] EventsWeb Special Interview (Part 2) COTA Co ...コタ小田博英社長「猛暑が美容室需要の逆風に」 - 日本経済新聞美容室コンサルで販売数伸ばす、ヘアケア品メーカー 資本政策に独自性...コタ株式会社 | コタビジョン - COTA小田博英氏の経歴｜コタの歴代社長（2004年〜現任） — Jan 28, 2021 · 今回は、美容室向けの頭髪用化粧品など製造・販売する、コタ株式会社（証券コード：4923・東証1部 ／ 代表取締役社長 小田 博英氏）様の ... コタ株式会社の代表取締役社長からリクルートサイト（採用情報）をご覧の皆様へのメッセージです。当社がイメージする「いい会社」と",
+    "url": "https://www.youtube.com/watch?v=om8p1ID2LsU",
+    "pass": 3
+   },
+   {
+    "quote": "社長メッセージ｜COTA コタ株式会社 リクルート(採用情報)サイト — コタ株式会社の代表取締役社長からリクルートサイト（採用情報）をご覧の皆様へのメッセージです。当社がイメージする「いい会社」とは、売上高の規模が大きかったり、立派な建物であったりする会社ではなく、社内で働く従業員一人ひとりの前向きな意識がつくり上げるものと考えてい ...",
+    "url": "https://www.cota.co.jp/recruit/newgraduate/message/",
+    "pass": 3
+   },
+   {
+    "quote": "[Interview] EventsWeb Special Interview (Part 2) COTA Co ...コタ小田博英社長「猛暑が美容室需要の逆風に」 - 日本経済新聞美容室コンサルで販売数伸ばす、ヘアケア品メーカー 資本政策に独自性...コタ株式会社 | コタビジョン - COTA小田博英氏の経歴｜コタの歴代社長（2004年〜現任） — Feb 4, 2021 · 今回は、美容室向けの頭髪用化粧品など製造・販売する、コタ株式会社（証券コード：4923・東証1部 ／ 代表取締役社長 小田 博英氏）様の ... Nov 24, 2023 · 「夏の猛暑で外出を控える人が増え、美容室の利用者数が低調だった」と振り返るのは、美容室向けのシャンプーやトリートメントを扱うコタの ... Jun 15, 2023 · 1959年10月生まれ。京都府出身。 84年、サクラクレパスを退社し、",
+    "url": "https://www.youtube.com/watch?v=bj0RiBpflFQ",
+    "pass": 3
+   },
+   {
+    "quote": "コタ小田博英社長「猛暑が美容室需要の逆風に」 - 日本経済新聞 — Nov 24, 2023 · 「夏の猛暑で外出を控える人が増え、美容室の利用者数が低調だった」と振り返るのは、美容室向けのシャンプーやトリートメントを扱うコタの ...",
+    "url": "https://www.nikkei.com/article/DGXZQOUF073ZQ0X01C23A1000000/",
+    "pass": 3
+   },
+   {
+    "quote": "美容室コンサルで販売数伸ばす、ヘアケア品メーカー 資本政策に独自性... — Jun 15, 2023 · 1959年10月生まれ。京都府出身。 84年、サクラクレパスを退社し、コタに入社。87年、同社初の営業所である名古屋営業所（現：名古屋支店）所長に就任。 91年、総務部長に就任。95年、常務取締役営業本部長に就任。98年、常務取締役管理部長に就任。2004年、代表取締役社長に就任（現任）。15年 ...",
+    "url": "https://www.kabutecho.com/interview/美容室コンサルで販売数伸ばす、ヘアケア品メー/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.cota.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cota.co.jp/company-ir",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cota.co.jp/company-ir/guidance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cota.co.jp/company-ir/profile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cota.co.jp/company-ir/vision",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cota.co.jp/company-ir/history",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cota.co.jp/company-ir/sustainability",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cota.co.jp/company-ir/ir-news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cota.co.jp/company-ir/message",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cota.co.jp/company-ir/dividend-shareholder",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cota.co.jp/company-ir/highlight/performance-trends",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cota.co.jp/company-ir/highlight/financial-information",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cota.co.jp/company-ir/highlight/management-indicator",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cota.co.jp/company-ir/ir-library/financial-results",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cota.co.jp/company-ir/ir-library/securities-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cota.co.jp/company-ir/ir-library/internal-control-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cota.co.jp/company-ir/ir-library/report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cota.co.jp/company-ir/ir-library/english-translation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cota.co.jp/company-ir/general-meeting-of-shareholders",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cota.co.jp/company-ir/corporate-governance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cota.co.jp/company-ir/action-plan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cota.co.jp/company-ir/action-plan-woman",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cota.co.jp/company-ir/electric-public-notice",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cota.co.jp/company-ir/disclaimer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cota.co.jp/beautystory/event6.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.cota.co.jp/company/pdf/guide.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://edinetdb.jp/company/E01059/presentations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mit-hd.co.jp/ir-information/keito/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.co.jp/quote/4923.T/profile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=om8p1ID2LsU",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "コタ",
+   "results": [
+    "https://www.cota.co.jp/",
+    "https://couta901.com/",
+    "https://www.instagram.com/cota_jp/",
+    "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%BF",
+    "https://www.youtube.com/channel/UCpaOGKF3yjk7xjpCGNpKjaQ",
+    "https://www.cosme.net/brands/3947/product/",
+    "https://ja.wikipedia.org/wiki/コタ",
+    "https://grokipedia.com/page/mangwa_kortar",
+    "https://www.cota.co.jp/products/",
+    "https://lipscosme.com/brands/2647/categories/181"
+   ]
+  },
+  {
+   "query": "コタ ビジネスモデル",
+   "results": [
+    "https://consovation.com/株式会社コタのビジネスモデル解剖で見る成長戦/",
+    "https://www.cota.co.jp/company-ir/vision",
+    "https://www.cota.co.jp/company-ir/guidance",
+    "https://www.smartstocknotes.jp/2025/04/08/企業分析：コタ（4923）-2/",
+    "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=4923",
+    "https://www.youtube.com/watch?v=RBV6SoWVhIM",
+    "https://madeinlocal.jp/category/companies/kyoto006"
+   ]
+  },
+  {
+   "query": "コタ 決算説明資料",
+   "results": [
+    "https://www.cota.co.jp/ir/library.html",
+    "https://edinetdb.jp/company/E01059/presentations/",
+    "https://edinetdb.jp/company/E01059/ir-docs/",
+    "https://www.cota.co.jp/ir/",
+    "https://irbank.net/4923/ir",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=4923",
+    "https://www.cota.co.jp/company-ir/message"
+   ]
+  },
+  {
+   "query": "コタ 事業系統図",
+   "results": [
+    "https://mit-hd.co.jp/ir-information/keito/",
+    "https://finance.yahoo.co.jp/quote/4923.T/profile",
+    "https://irbank.net/E01059/business?f=S100AINK",
+    "https://www.cota.co.jp/corporate/index.html",
+    "https://www.cota.co.jp/company/",
+    "https://www.cotta.co.jp/wp/wp-content/uploads/2024/12/20241216js.pdf",
+    "https://nw.tohoku-epco.co.jp/consignment/procedures/"
+   ]
+  },
+  {
+   "query": "コタ 社長 インタビュー",
+   "results": [
+    "https://www.youtube.com/watch?v=om8p1ID2LsU",
+    "https://www.cota.co.jp/recruit/newgraduate/message/",
+    "https://www.youtube.com/watch?v=bj0RiBpflFQ",
+    "https://www.nikkei.com/article/DGXZQOUF073ZQ0X01C23A1000000/",
+    "https://www.kabutecho.com/interview/美容室コンサルで販売数伸ばす、ヘアケア品メー/",
+    "https://www.cota.co.jp/company-ir/vision",
+    "https://the-shashi.com/tse/4923/executives/ceo/oda-hiroteru/"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式25頁／PDF・画像1件／外部5頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像1件／外部5頁・検索5回）"
+ }
+}

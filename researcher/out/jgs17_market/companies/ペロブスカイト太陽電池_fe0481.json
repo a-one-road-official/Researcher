@@ -1,0 +1,1967 @@
+{
+ "name": "ペロブスカイト太陽電池",
+ "en": "perovskite solar cell",
+ "aliases": [
+  "ペロブスカイト"
+ ],
+ "context": "12 GX ①ペロブスカイト",
+ "kind": "market",
+ "researched_at": "2026-11-02T17:39:08.706773+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "ペロブスカイト太陽電池市場規模・予測レポート（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の市場規模予測",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池市場規模：用途別、2025年および2035年（百万米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域のペロブスカイト太陽電池市場は、2025年に世界売上高の57.0%を占め、2035年までに15.7億米ドルを生み出すと予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "オーストラリアの市場規模は2035年までに4,300万米ドルに達すると予測され、2025年にはアジア太平洋地域の売上高の2.1%を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の市場規模は2035年までに7億400万米ドルに達し、2026〜2035年の年平均成長率（CAGR）は22.4%となる見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツの市場規模は2025年に2,050万米ドルとなり、2035年までに1億4,500万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "英国の市場規模は2035年までに1億850万米ドルに達すると予測され、2025年には欧州の売上高の17.1%を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "フランスの市場規模は2025年に1,350万米ドルとなり、2026〜2035年の年平均成長率（CAGR）は24.0%と予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "イタリアの市場規模は2035年までに9,000万米ドルに達し、2026〜2035年の年平均成長率（CAGR）は25.0%となる見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池市場は、2025年に3億2,597万米ドルと評価され、2026年には3億9,863万米ドルに成長し、CAGR24.35％で推移し、2032年までに14億9,908万米ドルに達すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/8958287",
+    "pass": 3
+   },
+   {
+    "quote": "食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8958287",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8958287",
+    "pass": 3
+   },
+   {
+    "quote": "セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8958287",
+    "pass": 3
+   },
+   {
+    "quote": "コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8958287",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8958287",
+    "pass": 3
+   },
+   {
+    "quote": "SMDサーモパイルセンサーの世界市場（2026年～2032年）、市場規模（シングルチャンネルセンサー、デュアルチャンネルセンサー）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8958287",
+    "pass": 3
+   },
+   {
+    "quote": "世界のペロブスカイト太陽電池市場は2023年に130.0百万米ドルを超え、2036年末までに5865.7百万米ドルに達すると予測されており、2024―2036年の予測期間中に37.3%のCAGRを記録しています",
+    "url": "https://www.researchnester.jp/industry-analysis/perovskite-solar-cell-market/3373",
+    "pass": 3
+   },
+   {
+    "quote": "2024年6月、日本政府はグリーンイノベーション基金プロジェクトの下で次世代太陽電池の開発に495億円の資金を提供しました",
+    "url": "https://www.researchnester.jp/industry-analysis/perovskite-solar-cell-market/3373",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域のペロブスカイト太陽電池市場は、化石燃料への依存度を下げるための太陽光パネルの設置増加と政府の支援策により、2036年末までに約33.0%という最大の収益シェアを占めると予想されています",
+    "url": "https://www.researchnester.jp/industry-analysis/perovskite-solar-cell-market/3373",
+    "pass": 3
+   },
+   {
+    "quote": "日本のペロブスカイト太陽電池市場は、2036年末までに驚異的なCAGRを記録すると予想されています",
+    "url": "https://www.researchnester.jp/industry-analysis/perovskite-solar-cell-market/3373",
+    "pass": 3
+   },
+   {
+    "quote": "カナダ市場は、先進技術の採用率の高さ、ソーラーパネルの設置数の増加、研究開発活動への投資の増加に対する認識の高まりにより、2024―2036年の間に急速なCAGRを記録すると予想されています",
+    "url": "https://www.researchnester.jp/industry-analysis/perovskite-solar-cell-market/3373",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池市場規模は、2024―2036年の予測期間中に37.3%のCAGRで拡大し、2036年末までに5865.7百万米ドルを超えると予測されています",
+    "url": "https://www.researchnester.jp/industry-analysis/perovskite-solar-cell-market/3373",
+    "pass": 3
+   },
+   {
+    "quote": "次世代太陽電池の世界市場規模は、2025年には38億米ドルと評価され、2026年の45億6000万米ドルから2034年には194億6000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は19.9%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/next-generation-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国は次世代太陽電池市場を支配しており、その市場規模は2024年には13億4000万米ドル、2025年には16億4000万米ドルに達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/next-generation-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模：38億米ドル",
+    "url": "https://straitsresearch.com/jp/report/next-generation-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年の市場規模予測：156億2000万米ドル",
+    "url": "https://straitsresearch.com/jp/report/next-generation-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋市場は、2026年から2034年の予測期間において、年平均成長率（CAGR）約20.0%で最も急速に成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/next-generation-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国市場は年間500億米ドル以上の規模があり、2030年までに1000億米ドルに達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/next-generation-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "次世代太陽電池市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）19.9%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/next-generation-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "約1,100億円投資",
+    "url": "https://s.gbase.ai/insight/perovskite-solar-cell-ranking-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "旧シャープ堺工場で100MW級ライン新設・投資900億円",
+    "url": "https://s.gbase.ai/insight/perovskite-solar-cell-ranking-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "2,000億円",
+    "url": "https://s.gbase.ai/insight/perovskite-solar-cell-ranking-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "2035-40年には数兆円規模、長期成長軌道",
+    "url": "https://s.gbase.ai/insight/perovskite-solar-cell-ranking-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "2,000億円の支援 + 首相の関与",
+    "url": "https://s.gbase.ai/insight/perovskite-solar-cell-ranking-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "総額246億円",
+    "url": "https://s.gbase.ai/insight/perovskite-solar-cell-ranking-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "補助金2,000億円の他、法規制の整備・原材料調達網（サプライチェーン）構築が急務",
+    "url": "https://s.gbase.ai/insight/perovskite-solar-cell-ranking-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Q4: ペロブスカイト太陽電池の市場規模と普及時期は？",
+    "url": "https://s.gbase.ai/insight/perovskite-solar-cell-ranking-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "2025〜27年は実証・初期導入フェーズ、2027〜30年は初期量産・限定用途フェーズ、2030年代前半〜中盤はGW級生産ライン構築、2035〜40年には世界市場で数兆円規模に成長すると予測されています",
+    "url": "https://s.gbase.ai/insight/perovskite-solar-cell-ranking-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "政府は産業化に向け次世代型太陽電池の開発プロジェクト（498億円）を立ち上げ、2030年に実装を目指しています",
+    "url": "https://green-transformation.jp/media/sustainability/perovskite-solar-cells-112/",
+    "pass": 3
+   },
+   {
+    "quote": "、1GW体制はできるだけ早く築くとし、時期は示していない（総投資約3,100億円、うち約半分を政府補助）",
+    "url": "https://bright-co-ltd.com/solar-media/solar/perovskite-maker/",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池、前年比2倍超に 世界の市場規模 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC299P00Z20C26A9000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池、前年比2倍超に 世界の市場規模",
+    "url": "https://www.nikkei.com/article/DGXZQOUC299P00Z20C26A9000000/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の世界市場の規模は前年比2.3倍の1088億円を見込む",
+    "url": "https://www.nikkei.com/article/DGXZQOUC299P00Z20C26A9000000/",
+    "pass": 3
+   },
+   {
+    "quote": "30年ごろから量産が進み40年には3兆6854億円まで拡大すると予測する",
+    "url": "https://www.nikkei.com/article/DGXZQOUC299P00Z20C26A9000000/",
+    "pass": 3
+   },
+   {
+    "quote": "25年の市場規模は467億円で実証段階が多かったが、現在は中国の新興企業を中心に量産体制が整いつつある",
+    "url": "https://www.nikkei.com/article/DGXZQOUC299P00Z20C26A9000000/",
+    "pass": 3
+   },
+   {
+    "quote": "日東電工、ペロブスカイト太陽電池向け部材に参入 売上高100億円へ",
+    "url": "https://www.nikkei.com/article/DGXZQOUC299P00Z20C26A9000000/",
+    "pass": 3
+   },
+   {
+    "quote": "今年にも1000億円超え、ペロブスカイト太陽電池の世界市場 - ニュース - メガソーラービジネス plus : 日経BP",
+    "url": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06109/?ST=msb",
+    "pass": 3
+   },
+   {
+    "quote": "今年にも1000億円超え、ペロブスカイト太陽電池の世界市場",
+    "url": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06109/?ST=msb",
+    "pass": 3
+   },
+   {
+    "quote": "2026年のペロブスカイト太陽電池の世界市場は、前年比2.3倍となる1088億円が見込まれるーー富士経済（東京都中央区）が9月29日にこうした調査結果を発表した",
+    "url": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06109/?ST=msb",
+    "pass": 3
+   },
+   {
+    "quote": "2035年以降は既存太陽電池の代替として普及することで、2040年には2025年比78.9倍の3兆6854億円と大幅な市場拡大が予測される",
+    "url": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06109/?ST=msb",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池の国内市場、2040年度に982億円",
+    "url": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06109/?ST=msb",
+    "pass": 3
+   },
+   {
+    "quote": "2040年の世界市場を3兆6,854億円(2025年比78.9倍)と推計 | 富士経済グループ 市場調査レポートサイト",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3393.html",
+    "pass": 3
+   },
+   {
+    "quote": "2040年の世界市場を3兆6,854億円(2025年比78.9倍)と推計",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3393.html",
+    "pass": 3
+   },
+   {
+    "quote": "商用化が開始された直後のため、変換効率や耐久性などのモジュールの性能、量産時の歩留まりの低さなどが課題となっていますが、メーカーによる供給実績は拡大しており、2026年の市場は前年比2.3倍の1,088億円が見込まれます",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3393.html",
+    "pass": 3
+   },
+   {
+    "quote": "2030年頃にはスタートアップメーカーのほかに、大手結晶シリコン太陽電池メーカーによるタンデム型の量産化が進み、2035年以降既存太陽電池の代替として普及することで、2040年には3兆6,854億円と、大幅な市場拡大が予測されます",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3393.html",
+    "pass": 3
+   },
+   {
+    "quote": "2040年の電池向けCNT(粉体)の世界市場を2,679億円(2025年比5.0倍)と推計",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3393.html",
+    "pass": 3
+   },
+   {
+    "quote": "2030年度の国内市場を4兆4,768億円(2025年度比149.1%)と推計",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3393.html",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "2026〜2035年の年平均成長率（CAGR）22.7%で成長し、2035年には32億米ドルに達する見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR）（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト・シリコンタンデム構造で効率が継続的に年次向上することは、電力事業用および商業用の調達において単接合シリコンを置き換えるための主要な前提条件であり、この需要経路が2035年までの市場の絶対額ベースの拡大の大部分を牽引する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "ロール・ツー・ロール方式や蒸着プロセスを用いたペロブスカイト製造の拡大には、IEC 61215の認証試験に合格できる封止材とモジュール構造が必要である",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "発電分野の2025年の売上高は1億790万米ドルで、2026〜2035年の年平均成長率（CAGR）は30.5%と予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "平面型n-i-pは2025年に硬質セグメント売上高の27.4%を占め、2026〜2035年の年平均成長率（CAGR）は15.5%と予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "メソポーラス製品は2025年に硬質セグメント売上高の21.0%を占め、2026〜2035年の年平均成長率（CAGR）は-1.2%となり、縮小すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "フレキシブルモジュールは2025年に市場売上高の36.0%を占め、2026〜2035年に年平均成長率（CAGR）23.7%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "平面型フレキシブルは2025年にフレキシブルセグメントの売上高の42.2%を占め、2026〜2035年に年平均成長率（CAGR）14.6%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池市場は、2025年に3億2,597万米ドルと評価され、2026年には3億9,863万米ドルに成長し、CAGR24.35％で推移し、2032年までに14億9,908万米ドルに達すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/8958287",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR（%） 24.35%",
+    "url": "https://www.atpress.ne.jp/news/8958287",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRは24.35%です",
+    "url": "https://www.atpress.ne.jp/news/8958287",
+    "pass": 3
+   },
+   {
+    "quote": "世界のペロブスカイト太陽電池市場は2023年に130.0百万米ドルを超え、2036年末までに5865.7百万米ドルに達すると予測されており、2024―2036年の予測期間中に37.3%のCAGRを記録しています",
+    "url": "https://www.researchnester.jp/industry-analysis/perovskite-solar-cell-market/3373",
+    "pass": 3
+   },
+   {
+    "quote": "日本のペロブスカイト太陽電池市場は、2036年末までに驚異的なCAGRを記録すると予想されています",
+    "url": "https://www.researchnester.jp/industry-analysis/perovskite-solar-cell-market/3373",
+    "pass": 3
+   },
+   {
+    "quote": "カナダ市場は、先進技術の採用率の高さ、ソーラーパネルの設置数の増加、研究開発活動への投資の増加に対する認識の高まりにより、2024―2036年の間に急速なCAGRを記録すると予想されています",
+    "url": "https://www.researchnester.jp/industry-analysis/perovskite-solar-cell-market/3373",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、2023 年 7 月、オランダ政府は SolarNL イニシアチブを立ち上げ、オランダで円形の統合型太陽光パネルとセルの生産を拡大するために、太陽電池と太陽エネルギー製造に取り組む企業や研究機関に資金を提供しています",
+    "url": "https://www.researchnester.jp/industry-analysis/perovskite-solar-cell-market/3373",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池市場規模は、2024―2036年の予測期間中に37.3%のCAGRで拡大し、2036年末までに5865.7百万米ドルを超えると予測されています",
+    "url": "https://www.researchnester.jp/industry-analysis/perovskite-solar-cell-market/3373",
+    "pass": 3
+   },
+   {
+    "quote": "次世代太陽電池市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/next-generation-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "次世代太陽電池の世界市場規模は、2025年には38億米ドルと評価され、2026年の45億6000万米ドルから2034年には194億6000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は19.9%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/next-generation-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、予測期間中に約20.0%という最も速い年平均成長率（CAGR）で成長すると予想されている",
+    "url": "https://straitsresearch.com/jp/report/next-generation-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "技術別に見ると、ペロブスカイト太陽電池分野は、予測期間中に28.6%という最も速い年平均成長率（CAGR）を記録すると推定されている",
+    "url": "https://straitsresearch.com/jp/report/next-generation-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "用途別に見ると、住宅セグメントは予測期間中に約21.4%の年平均成長率（CAGR）を記録すると推定される",
+    "url": "https://straitsresearch.com/jp/report/next-generation-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（2026年～2034年）：19.9%",
+    "url": "https://straitsresearch.com/jp/report/next-generation-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "ガリウムヒ素（GaAs）は、航空宇宙、宇宙、集光型太陽光発電向けの高効率太陽電池モジュールといった特殊用途における需要の高まりを背景に、予測期間中に年平均成長率（CAGR）26.4%という最も力強い成長を遂げると予測されている",
+    "url": "https://straitsresearch.com/jp/report/next-generation-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池セグメントは、予測期間全体を通して最も急速に成長する市場になると予測されており、年平均成長率（CAGR）は約28.6%という驚異的な伸びを示しています",
+    "url": "https://straitsresearch.com/jp/report/next-generation-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "住宅部門は、屋上太陽光発電設備の普及拡大、政府によるネットメータリング制度の支援、そして太陽エネルギーの持続可能性に対する人々の意識向上と実践の促進を主な要因として、21.4%という最も高い成長率が予測されています",
+    "url": "https://straitsresearch.com/jp/report/next-generation-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋市場は、2026年から2034年の予測期間において、年平均成長率（CAGR）約20.0%で最も急速に成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/next-generation-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "なかでも太陽光発電の世界の累積導入量は、2014年から2023年までの10年間で8倍に拡大しています",
+    "url": "https://green-transformation.jp/media/sustainability/perovskite-solar-cells-112/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年の太陽光発電市場の成長規模は著しいものでしたが、拡大の大半は中国が牽引したものです",
+    "url": "https://green-transformation.jp/media/sustainability/perovskite-solar-cells-112/",
+    "pass": 3
+   },
+   {
+    "quote": "国は2024年5月より、「次世代型太陽電池の導入拡大及び産業競争力強化に向けた官民協議会」において、「",
+    "url": "https://green-transformation.jp/media/sustainability/perovskite-solar-cells-112/",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池、前年比2倍超に 世界の市場規模 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC299P00Z20C26A9000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池、前年比2倍超に 世界の市場規模",
+    "url": "https://www.nikkei.com/article/DGXZQOUC299P00Z20C26A9000000/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の世界市場の規模は前年比2.3倍の1088億円を見込む",
+    "url": "https://www.nikkei.com/article/DGXZQOUC299P00Z20C26A9000000/",
+    "pass": 3
+   },
+   {
+    "quote": "30年ごろから量産が進み40年には3兆6854億円まで拡大すると予測する",
+    "url": "https://www.nikkei.com/article/DGXZQOUC299P00Z20C26A9000000/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年のペロブスカイト太陽電池の世界市場は、前年比2.3倍となる1088億円が見込まれるーー富士経済（東京都中央区）が9月29日にこうした調査結果を発表した",
+    "url": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06109/?ST=msb",
+    "pass": 3
+   },
+   {
+    "quote": "2030年ごろまでは、既存太陽電池では設置が難しかった建材一体型や建物据え付け型太陽電池で軽さを生かした単接合型が採用されることで市場拡大をけん引するとみられる",
+    "url": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06109/?ST=msb",
+    "pass": 3
+   },
+   {
+    "quote": "2035年以降は既存太陽電池の代替として普及することで、2040年には2025年比78.9倍の3兆6854億円と大幅な市場拡大が予測される",
+    "url": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06109/?ST=msb",
+    "pass": 3
+   },
+   {
+    "quote": "商用化が開始された直後のため、変換効率や耐久性などのモジュールの性能、量産時の歩留まりの低さなどが課題となっていますが、メーカーによる供給実績は拡大しており、2026年の市場は前年比2.3倍の1,088億円が見込まれます",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3393.html",
+    "pass": 3
+   },
+   {
+    "quote": "2030年頃までは、既存太陽電池では設置が難しかったBIPV、BAPVで軽量さを活かした単接合型が採用されることで、市場拡大をけん引するとみられます",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3393.html",
+    "pass": 3
+   },
+   {
+    "quote": "2030年頃にはスタートアップメーカーのほかに、大手結晶シリコン太陽電池メーカーによるタンデム型の量産化が進み、2035年以降既存太陽電池の代替として普及することで、2040年には3兆6,854億円と、大幅な市場拡大が予測されます",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3393.html",
+    "pass": 3
+   },
+   {
+    "quote": "単接合型はすでに商用化されており、搭載面積の小さい電子棚札や組み込み電源での採用を中心に、2024年の市場は前年比61.3%増の500億円となった",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25071&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "一方、タンデム型は試験的生産やサンプル出荷に留まっているため、2024年の市場は前年比80.0%増の90億円となった",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25071&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "既存太陽電池からの代替が進み、2020年代後半から市場は急拡大すると予想される",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25071&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "また、更なる変換効率の向上が可能なタンデム型の開発が進み、2030年前後から発電事業用途などでの導入増が期待され、市場拡大を後押しするとみられる",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25071&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "タンデム型を前提とした大手メーカーが参入しており、LONGi Green Energy Technology(中国)やHanwha Q CELLS(韓国)などの結晶シリコン太陽電池の大手メーカーの量産計画もあるため、長期的な市場拡大が予想され、2040年にはペロブスカイト太陽電池の約6割をタンデム型が占めるとみられる",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25071&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "2030年度以降にはガラス基板タンデム型の本格出荷が想定され、市場拡大が期待される",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25071&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "The perovskite solar cell market was valued at USD 415 million in 2025, is projected to reach USD 508 million in 2026, and is expected to grow at a 22.7% CAGR (2026-2035) to USD 3.2 billion by 2035.",
+    "url": "https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026–2035)",
+    "url": "https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "Power Generation generated USD 107.9 million in 2025 and is projected to grow at a 30.5% CAGR (2026-2035). Its expansion depends on tandem modules closing the gap between demonstrated efficiency and financeable field performance, allowing developers to value higher output per unit area in commercial and utility procurements.",
+    "url": "https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "Planar n-i-p accounted for 27.4% of rigid-segment revenue in 2025 and is projected to grow at a 15.5% CAGR (2026-2035). The architecture retains relevance where established process familiarity and near-term manufacturability matter, but it faces a strategic challenge from tandem designs with stronger efficiency headroom.",
+    "url": "https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "Mesoporous products held 21.0% of rigid-segment revenue in 2025 and are projected to decline at a -1.2% CAGR (2026-2035). Manufacturing complexity and a less favorable scale-up profile limit the architecture's ability to compete for new capital against planar and tandem alternatives.",
+    "url": "https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "Flexible modules accounted for 36.0% of market revenue in 2025 and are projected to grow at a 23.7% CAGR (2026-2035). Their value proposition is strongest in applications where substrate conformity, low weight, and integration into nontraditional surfaces outweigh the preference for conventional rigid-panel formats.",
+    "url": "https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "Planar Flexible represented 42.2% of flexible-segment revenue in 2025 and is projected to grow at a 14.6% CAGR (2026-2035). The segment benefits from solution-processing compatibility, although it will increasingly compete with tandem designs as buyers prioritize power density alongside mechanical flexibility.",
+    "url": "https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "Emerging 2D/3D and quantum-dot-enhanced configurations accounted for 26.8% of flexible-segment revenue in 2025 and are projected to grow at a 19.0% CAGR (2026-2035). These formats remain strategically important as technology options, but their market role will depend on whether their performance and manufacturing advantages prove durable outside development settings.",
+    "url": "https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "Solution-Processed 1-Step held 34.0% of manufacturing-process revenue in 2025 and is projected to grow at a 19.5% CAGR (2026-2035). Its relatively accessible equipment profile supports early production, though maintaining film uniformity at larger dimensions remains a key competitive constraint.",
+    "url": "https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "Vapor/Physical Deposition is expected to account for 39.5% of manufacturing-process revenue by 2035 and is projected to grow at a 28.5% CAGR (2026-2035). Its appeal lies in multilayer precision and compatibility with more controlled production environments, particularly for tandem structures where process uniformity is central to module yield.",
+    "url": "https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "Hybrid processes generated USD 47.7 million in 2025 and are projected to grow at a 12.3% CAGR (2026-2035). These approaches can combine the advantages of solution and vapor steps, but their long-term role will depend on whether the added process complexity produces a clear cost, throughput, or reliability advantage.",
+    "url": "https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan is projected to generate USD 149.0 million by 2035 and is expected to grow at a 24.5% CAGR (2026-2035). Demand is supported by advanced materials capabilities and a strong fit between high-performance thin-film products and commercial BIPV or industrial rooftop use cases where module quality and integration matter.",
+    "url": "https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "India represented 1.8% of Asia Pacific revenue in 2025 and is projected to grow at a 31.5% CAGR (2026-2035). Its rooftop and distributed-solar opportunity provides a substantial eventual demand base, although perovskite uptake will rely on the availability of cost-competitive products with locally acceptable reliability credentials.",
+    "url": "https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "Europe is projected to generate USD 704.0 million by 2035 and is expected to grow at a 22.4% CAGR (2026-2035). Building decarbonization policy, renovation activity, and an established base of specialist perovskite developers create a demand architecture that favors BIPV and commercial installations.",
+    "url": "https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "ペロブスカイト太陽電池市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "本市場の上位5社は",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、BIPVは市場売上高の36.0%を占め、2035年には9億1,200万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "民生用電子機器分野は、2025年に市場売上高の16.5%を占め、2035年には2億8,800万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "防衛・航空宇宙分野の2025年の売上高は5,600万米ドルで、2035年には市場売上高の7.5%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "輸送分野は2025年に売上高シェアの8.0%を占め、2035年には1億4,400万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "硬質モジュールは2025年に市場売上高の64.0%を占め、2035年には19億2,000万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "平面型n-i-pは2025年に硬質セグメント売上高の27.4%を占め、2026〜2035年の年平均成長率（CAGR）は15.5%と予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "平面型p-i-nの2025年の売上高は6,260万米ドルで、2035年には硬質セグメント売上高の10.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "メソポーラス製品は2025年に硬質セグメント売上高の21.0%を占め、2026〜2035年の年平均成長率（CAGR）は-1.2%となり、縮小すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト・シリコンタンデムは2025年に7,440万米ドルを生み出し、2035年までに剛性セグメントの売上高の70.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "フレキシブルモジュールは2025年に市場売上高の36.0%を占め、2026〜2035年に年平均成長率（CAGR）23.7%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "平面型フレキシブルは2025年にフレキシブルセグメントの売上高の42.2%を占め、2026〜2035年に年平均成長率（CAGR）14.6%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池市場調査、規模、シェアと予測2036年",
+    "url": "https://www.researchnester.jp/industry-analysis/perovskite-solar-cell-market/3373",
+    "pass": 3
+   },
+   {
+    "quote": "インフラへの投資の増加、および太陽光発電技術の利用を促進するための政府資金とインセンティブにより、2024―2036年の予測期間中に大きなシェアを占めると予測されています",
+    "url": "https://www.researchnester.jp/industry-analysis/perovskite-solar-cell-market/3373",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域のペロブスカイト太陽電池市場は、化石燃料への依存度を下げるための太陽光パネルの設置増加と政府の支援策により、2036年末までに約33.0%という最大の収益シェアを占めると予想されています",
+    "url": "https://www.researchnester.jp/industry-analysis/perovskite-solar-cell-market/3373",
+    "pass": 3
+   },
+   {
+    "quote": "タイプ別では、フレキシブルセグメントが2036年末までに40.0％という大きな収益シェアを占めると予想されています",
+    "url": "https://www.researchnester.jp/industry-analysis/perovskite-solar-cell-market/3373",
+    "pass": 3
+   },
+   {
+    "quote": "構造セグメンテーションに基づくと、平面セグメントは予測期間中に60.0％のシェアを占めると予想されます",
+    "url": "https://www.researchnester.jp/industry-analysis/perovskite-solar-cell-market/3373",
+    "pass": 3
+   },
+   {
+    "quote": "回答: アジア太平洋地域のペロブスカイト太陽電池部門は、2036年末までに33%のシェアを占める見込みです",
+    "url": "https://www.researchnester.jp/industry-analysis/perovskite-solar-cell-market/3373",
+    "pass": 3
+   },
+   {
+    "quote": "次世代太陽電池市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/next-generation-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "次世代太陽電池市場の規模、シェア、トレンド分析レポート：材料タイプ別（テルル化カドミウム（CdTe）、セレン化銅インジウムガリウム（CIGS）、アモルファスシリコン（a-Si）、ヒ化ガリウム（GaAs）、その他）、技術別（ペロブスカイト太陽電池、有機太陽電池、色素増感太陽電池、その他）、設置タイプ別（系統連系型、系統分離型）、用途別（住宅用、商業用、産業用、公益事業、政府プロジェクト、その他）、地域別（北米、欧州、アジア太平洋地域、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/next-generation-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、2025年に35.4%の市場シェアを占め、次世代太陽電池市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/next-generation-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年時点で約35.4%の収益シェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/next-generation-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "材料の種類別に見ると、銅インジウムガリウムセレン（CIGS）セグメントが2025年に57.83%という最高の市場シェアを占めた",
+    "url": "https://straitsresearch.com/jp/report/next-generation-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "設置タイプに基づくと、系統連系型セグメントは2025年の次世代太陽電池市場の約54.3%を占めると推定される",
+    "url": "https://straitsresearch.com/jp/report/next-generation-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、CIGSセグメントが総収益の57.83%を占める大きな貢献を果たすと予測されています",
+    "url": "https://straitsresearch.com/jp/report/next-generation-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場を牽引したのは色素増感太陽電池（DSSC）分野で、2025年には売上高の32.4%を占めた",
+    "url": "https://straitsresearch.com/jp/report/next-generation-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、オングリッドセグメントが急速に成長し、収益シェアは54.3%に達しました",
+    "url": "https://straitsresearch.com/jp/report/next-generation-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、北米が市場シェアの約35.4%を占めると予想されており、これは同地域の持続可能性イニシアチブと企業のESGコミットメントに支えられた住宅および商業部門における太陽エネルギーの大規模な利用によるもので、最大のシェアとなる見込みです",
+    "url": "https://straitsresearch.com/jp/report/next-generation-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年4月、OxfordPVはTrinaSolarと、ペロブスカイト太陽電池製品の製造および販売に関する独占特許ライセンス契約を締結したことを発表しました",
+    "url": "https://straitsresearch.com/jp/report/next-generation-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の次世代太陽電池市場において、最大のシェアを占める地域はどこだったでしょうか？",
+    "url": "https://straitsresearch.com/jp/report/next-generation-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年に35.4%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/next-generation-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "分散型太陽光発電市場の規模、シェア、成長率（2034年）",
+    "url": "https://straitsresearch.com/jp/report/next-generation-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "太陽電池封止材市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/next-generation-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "主原料「ヨウ素」で日本は世界シェア第2位（29%）、推定埋蔵量は世界1位（78%）",
+    "url": "https://s.gbase.ai/insight/perovskite-solar-cell-ranking-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "ヨウ素世界シェア15%、量産フェーズで需要増",
+    "url": "https://s.gbase.ai/insight/perovskite-solar-cell-ranking-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "本命株（勝率70%以上）として、伊勢化学工業（ヨウ素世界シェア15%）、K&Oエナジーグループ（日本のヨウ素埋蔵量80%保有）、ヒラノテクシード（専用塗工設備）、三菱ガス化学（ヨウ素＋高機能ポリマー）が挙げられます",
+    "url": "https://s.gbase.ai/insight/perovskite-solar-cell-ranking-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "日本はかつてシリコン系太陽電池の技術開発で成功し、2000年頃には世界シェアが50％を超えていました",
+    "url": "https://green-transformation.jp/media/sustainability/perovskite-solar-cells-112/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、2005年以降は中国をはじめとする海外企業に市場を奪われ、2025年のシェアは1％にも及びません",
+    "url": "https://green-transformation.jp/media/sustainability/perovskite-solar-cells-112/",
+    "pass": 3
+   },
+   {
+    "quote": "特許庁の「令和元年度大分野別出願動向調査」によると、ペロブスカイト太陽電池の特許出願件数の上位10者のうち3者を日本企業が占めており、日本は将来的にみて高い技術力を基に世界をリードしていくことが求められるでしょう",
+    "url": "https://green-transformation.jp/media/sustainability/perovskite-solar-cells-112/",
+    "pass": 3
+   },
+   {
+    "quote": "また、主原料の「ヨウ素」は、日本が世界シェア第2位の生産量のため、他国に比べ資源の部分で優位性がある点も注目を集める理由のひとつです",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "pass": 3
+   },
+   {
+    "quote": "」は、日本はチリに次ぐ世界2位の生産国で、世界の29%のシェアを持っています",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに推定埋蔵量では、日本のシェアは圧倒的1位で世界の78%のシェアを持っています",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "pass": 3
+   },
+   {
+    "quote": "参照元：産経新聞「世界シェア２割強の「ヨウ素」、高付加価値化に期待」",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "pass": 3
+   },
+   {
+    "quote": "グラフを見て頂くとお分かりの通り、出願件数のトップは中国で、全体の55.7%と構成比の半分以上を占めています",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "pass": 3
+   },
+   {
+    "quote": "この表の大きな特徴として、上位10社には中国企業が含まれていない一方で、日本企業が多数を占めている点が挙げられます",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "pass": 3
+   },
+   {
+    "quote": "タンデム型を前提とした大手メーカーが参入しており、LONGi Green Energy Technology(中国)やHanwha Q CELLS(韓国)などの結晶シリコン太陽電池の大手メーカーの量産計画もあるため、長期的な市場拡大が予想され、2040年にはペロブスカイト太陽電池の約6割をタンデム型が占めるとみられる",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25071&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "採用基板別にみると、現状はガラス基板が中心で9割弱を占める",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25071&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "フィルム基板型も大きく伸びて3割強を占めると予測される",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25071&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "market share in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top 5 players in this market include",
+    "url": "https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "Sustained annual efficiency gains in perovskite-silicon tandem architecture are the primary precondition for displacing single-junction silicon in utility and commercial procurement, the demand channel that drives the largest share of absolute market expansion through 2035",
+    "url": "https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "BIPV accounted for 36.0% of market revenue in 2025 and is projected to generate USD 912.0 million by 2035. Demand is supported by the ability of thin-film products to fit facades, skylights, curved surfaces, and other architectural elements where module aesthetics, weight, and form factor influence the specification.",
+    "url": "https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "Defense & Aerospace generated USD 56.0 million in 2025 and is expected to account for 7.5% of market revenue by 2035. The segment rewards power-to-weight performance and adaptable form factors, but adoption is moderated by lengthy environmental qualification and supplier-approval procedures.",
+    "url": "https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "Planar n-i-p accounted for 27.4% of rigid-segment revenue in 2025 and is projected to grow at a 15.5% CAGR (2026-2035). The architecture retains relevance where established process familiarity and near-term manufacturability matter, but it faces a strategic challenge from tandem designs with stronger efficiency headroom.",
+    "url": "https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "Planar p-i-n generated USD 62.6 million in 2025 and is expected to represent 10.0% of rigid-segment revenue by 2035. Its position is likely to narrow as manufacturing investment increasingly concentrates on architectures that can support differentiated tandem performance.",
+    "url": "https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "Perovskite-Silicon Tandem generated USD 74.4 million in 2025 and is expected to account for 70.0% of rigid-segment revenue by 2035. The architecture offers a credible path to higher energy yield without abandoning established silicon manufacturing and supply-chain knowledge, making it a focal point for commercial-scale investment.",
+    "url": "https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "Flexible modules accounted for 36.0% of market revenue in 2025 and are projected to grow at a 23.7% CAGR (2026-2035). Their value proposition is strongest in applications where substrate conformity, low weight, and integration into nontraditional surfaces outweigh the preference for conventional rigid-panel formats.",
+    "url": "https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "Emerging 2D/3D and quantum-dot-enhanced configurations accounted for 26.8% of flexible-segment revenue in 2025 and are projected to grow at a 19.0% CAGR (2026-2035). These formats remain strategically important as technology options, but their market role will depend on whether their performance and manufacturing advantages prove durable outside development settings.",
+    "url": "https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "Perovskite Solar Cell Market Share, by End Use, 2025",
+    "url": "https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "ペロブスカイト太陽電池市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池市場の主要企業には、Microquanta Semiconductor、Saule Technologies、GCL Optoelectronic Materials、Utmolight、Oxford PVなどが含まれる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場シェア調査では、業界の方向性に影響を与える主要企業、地理的優位性、新しいトレンドに焦点を当て、このダイナミックな市場内でさまざまな地域や企業がどのように位置付けられているかを明らかにしています",
+    "url": "https://www.researchnester.jp/industry-analysis/perovskite-solar-cell-market/3373",
+    "pass": 3
+   },
+   {
+    "quote": "以下は、世界市場で活動している主要企業の一覧です",
+    "url": "https://www.researchnester.jp/industry-analysis/perovskite-solar-cell-market/3373",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池 市場で支配的な主要企業はどれですか?",
+    "url": "https://www.researchnester.jp/industry-analysis/perovskite-solar-cell-market/3373",
+    "pass": 3
+   },
+   {
+    "quote": "市場の主要企業は、Panasonic Holdings Corporation、Toshiba Corporation、SEKISUI CHEMICAL CO., LTDなどです",
+    "url": "https://www.researchnester.jp/industry-analysis/perovskite-solar-cell-market/3373",
+    "pass": 3
+   },
+   {
+    "quote": "市場は、高度な製品ポートフォリオ、技術力、戦略的パートナーシップを有する少数の主要企業によって支配されている",
+    "url": "https://straitsresearch.com/jp/report/next-generation-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場における主要企業は、First Solar, Inc.、Hanwha Q CELLS、Oxford Photovoltaics Ltd.、Trina Solarである",
+    "url": "https://straitsresearch.com/jp/report/next-generation-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "なお、本記事以外にも、より詳細な市場構造、市場シェア、参入企業動向などをお知りになりたい方は、",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3393.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、参入企業18社の開発状況・計画・今後の展開などをまとめた",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25071&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players:",
+    "url": "https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "Perovskite Solar Cell Market Share & Competitive Landscape",
+    "url": "https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in Perovskite Solar Cells Market?",
+    "url": "https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in Perovskite Solar Cells Market include Microquanta Semiconductor, Saule Technologies, GCL Optoelectronic Materials, Utmolight, Oxford PV.",
+    "url": "https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study on the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the perovskite solar cell market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key players include Oxford PV; Microquanta Semiconductor Co., Ltd.; Greatcell Energy; Saule Technologies; Hanwha Q CELLS; CubicPV; EneCoat Technologies; Swift Solar; G24 Power Ltd.; Panasonic Corporation.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://finance.yahoo.com/energy/articles/perovskite-solar-cell-market-reach-181100005.html",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://finance.yahoo.com/energy/articles/perovskite-solar-cell-market-reach-181100005.html",
+    "pass": 3
+   },
+   {
+    "quote": "Perovskite Solar Cell Market Size, Key Companies, Company Market Share, Power Generation Capacity, Energy Consumption, Pricing Trends, Investment Analysis, Competitive Positioning, and Demand Forecast",
+    "url": "https://www.precedenceresearch.com/perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape: The Market is Splitting Between Technology Specialists and Incumbent Silicon Manufacturers",
+    "url": "https://www.precedenceresearch.com/perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 3: Who are the prominent players operating in the perovskite solar cell market?",
+    "url": "https://www.precedenceresearch.com/perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Insights",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "Which are the major players operating in the global perovskite solar cell market?",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "Saule Technologies, FrontMaterials Co. Ltd., Xiamen Weihua Solar Co. Ltd., Fraunhofer ISE, Polyera Corporation, Solaronix SA, Dyesol, FlexLink Systems Inc., New Energy Technologies Inc, Oxford Photovoltaics, Hanwha Q CELLS, CubicPV, EneCoat Technologies, Microquanta Semiconductor, Greatcell Energy, Oxford PV , P3C , Perovskia Solar AG are the major players.",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "Perovskite Solar Cell Market Competitive Landscape",
+    "url": "https://www.skyquestt.com/report/perovskite-solar-cell-market/companies",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Analysis",
+    "url": "https://market.us/report/perovskite-solar-cells-module-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Market Key Players",
+    "url": "https://market.us/report/perovskite-solar-cells-module-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Market Dynamics, Competitive Landscape, Geopolitical Impact, and Recent Developments",
+    "url": "https://market.us/report/perovskite-solar-cells-module-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://market.us/report/perovskite-solar-cells-module-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies:",
+    "url": "https://www.marketdataforecast.com/market-reports/europe-perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global, Regional & Country Level Analysis, Segment-Level Analysis; DROC, PESTLE Analysis, Porter's Five Forces Analysis, Competitive Landscape, Analyst Overview of Investment Opportunities",
+    "url": "https://www.marketdataforecast.com/market-reports/europe-perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "COMPETITIVE LANDSCAPE",
+    "url": "https://www.marketdataforecast.com/market-reports/europe-perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "Prominent players include Oxford Photovoltaics, Saule Technologies, Greatcell Energy, Meyer Burger Technology AG, Dyenamo AB, and Fraunhofer ISE.",
+    "url": "https://www.marketdataforecast.com/market-reports/europe-perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape Analysis, Company Profile Analysis, Market Size, Share, Growth",
+    "url": "https://www.datamintelligence.com/research-report/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "Major players include Alfa Aesar, Energy Materials Corp, Greatcell Energy, Microquanta Semiconductor, Fraunhofer ISE, and Frontier Energy Solution.",
+    "url": "https://www.datamintelligence.com/research-report/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "led competitive landscape",
+    "url": "https://dataintelo.com/report/global-perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Analyzed",
+    "url": "https://dataintelo.com/report/global-perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "Map the competitive landscape and the strategies of leading players",
+    "url": "https://dataintelo.com/report/global-perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "This stage helps the team understand the market structure, the value chain, the major players, and the key factors that influence demand.",
+    "url": "https://dataintelo.com/report/global-perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "Perovskite Solar Cell Market: By Structure: Planar Perovskite Solar Cells, Mesoporous Perovskite Solar Cells; By Product: Rigid Perovskite Solar Cells, Flexible Perovskite Solar Cells; By Method: Solution Method, Others; By End Use; Regional Analysis; Competitive Landscape; 2026-2035",
+    "url": "https://www.expertmarketresearch.com/reports/perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.expertmarketresearch.com/reports/perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "The comprehensive EMR report provides an in-depth assessment of the market based on the Porter's five forces model along with giving a SWOT analysis. The report gives a detailed analysis of the following key players in the global perovskite solar cell market, covering their competitive landscape and latest developments like mergers, acquisitions, investments, and expansion plans.",
+    "url": "https://www.expertmarketresearch.com/reports/perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "*Please note that this is only a partial list; the complete list of key players is available in the full report. Additionally, the list of key players can be customized to better suit your needs.*",
+    "url": "https://www.expertmarketresearch.com/reports/perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "The major players in the industry are Oxford PV, Greatcell Energy Pty Ltd, Saule Technologies, Swift Solar Inc., and Hubei Wonder Solar LLC, among others.",
+    "url": "https://www.expertmarketresearch.com/reports/perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "Growth Analysis, Dynamics, Key Players and Innovations, Outlook and Forecast 2025-2032",
+    "url": "https://www.intelmarketresearch.com/perovskite-solar-cells-market-14304",
+    "pass": 3
+   },
+   {
+    "quote": "COMPETITIVE LANDSCAPE",
+    "url": "https://www.intelmarketresearch.com/perovskite-solar-cells-market-14304",
+    "pass": 3
+   },
+   {
+    "quote": "List of Key Perovskite Solar Cells Companies Profiled",
+    "url": "https://www.intelmarketresearch.com/perovskite-solar-cells-market-14304",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.intelmarketresearch.com/perovskite-solar-cells-market-14304",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in Perovskite Solar Cells Market?",
+    "url": "https://www.intelmarketresearch.com/perovskite-solar-cells-market-14304",
+    "pass": 3
+   },
+   {
+    "quote": "Major players include",
+    "url": "https://www.intelmarketresearch.com/perovskite-solar-cells-market-14304",
+    "pass": 3
+   },
+   {
+    "quote": "Table 1. Key Players of Perovskite Solar Cells in Global Market",
+    "url": "https://www.intelmarketresearch.com/perovskite-solar-cells-market-14304",
+    "pass": 3
+   },
+   {
+    "quote": "Industry trends and structural change; global market size by volume and value; competitive landscape by manufacturer, including capacity expansions, mergers and acquisitions; market segments by type, application and geography.",
+    "url": "https://www.intelmarketresearch.com/perovskite-solar-cells-market-14304",
+    "pass": 3
+   },
+   {
+    "quote": "Primary work establishes segmentation by type and application, product price ranges, key participants, raw material supply and downstream demand, industry status and outlook, and market dynamics including risks, influencing factors, opportunities, barriers, trends and the strategies of leading players.",
+    "url": "https://www.intelmarketresearch.com/perovskite-solar-cells-market-14304",
+    "pass": 3
+   },
+   {
+    "quote": "Custom reports aligned with your industry and competitive landscape.",
+    "url": "https://www.intelmarketresearch.com/perovskite-solar-cells-market-14304",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8958287",
+    "pass": 3
+   },
+   {
+    "quote": "2023年6月、P3Cテクノロジーアンドソリューションズは、さまざまな政府機関や民間団体にフレキシブルペロブスカイト太陽電池を実証するために250億米ドルの資金調達を発表しました",
+    "url": "https://www.researchnester.jp/industry-analysis/perovskite-solar-cell-market/3373",
+    "pass": 3
+   },
+   {
+    "quote": "Planar p-i-n generated USD 62.6 million in 2025 and is expected to represent 10.0% of rigid-segment revenue by 2035. Its position is likely to narrow as manufacturing investment increasingly concentrates on architectures that can support differentiated tandem performance.",
+    "url": "https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "Perovskite-Silicon Tandem generated USD 74.4 million in 2025 and is expected to account for 70.0% of rigid-segment revenue by 2035. The architecture offers a credible path to higher energy yield without abandoning established silicon manufacturing and supply-chain knowledge, making it a focal point for commercial-scale investment.",
+    "url": "https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "Government funding is supporting the transition from laboratory research to scalable manufacturing. In May 2024, the U.S. Department of",
+    "url": "https://market.us/press-release/perovskite-solar-cell-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Credence Research Inc. is a global market intelligence and consulting firm founded in 2015. It provides quantitative market research, competitive intelligence and strategic advisory services to organizations assessing new products, investment decisions and regional opportunities. The firm combines primary and secondary research with industry interviews and structured market models.",
+    "url": "https://finance.yahoo.com/energy/articles/perovskite-solar-cell-market-reach-181100005.html",
+    "pass": 3
+   },
+   {
+    "quote": "The company profiles cover the 22-company group and examine each firm's revenue, perovskite involvement, RandD and patents, performance records, production sites, output levels, partnerships, technology roadmaps, regions of operation, planned products, revenue plans, investments made, expansion plans and the weaknesses each one currently faces.",
+    "url": "https://www.precedenceresearch.com/perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "for 2025. Such an advantage can be explained by the well-developed research and development infrastructure of the countries like the USA and Canada with the government financial support for innovations in the sector combined with the participation of universities and venture capitalists into the production process.",
+    "url": "https://market.us/report/perovskite-solar-cells-module-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Germany (market leader with a 26.3% share in 2025, backed by robust public funding, industrial chemistry sectors, and the Photovoltaics Strategy 2030)",
+    "url": "https://www.marketdataforecast.com/market-reports/europe-perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "market share in 2025, with concentrated development in California, Massachusetts, and Colorado regions. United States Department of Energy funding for tandem solar research at national laboratories including",
+    "url": "https://dataintelo.com/report/global-perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "between 2022 and 2026, driven by manufacturing process improvements and economies of scale. Investment in automated inspection systems, encapsulation technologies, and quality control standardization has improved yield rates to",
+    "url": "https://dataintelo.com/report/global-perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "countries, create sustained demand extending through 2034 and justify manufacturer investments in capacity expansion and technology development.",
+    "url": "https://dataintelo.com/report/global-perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "10.5 Investment Scenario",
+    "url": "https://dataintelo.com/report/global-perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific is projected to maintain market leadership with 42.3% regional share in 2025, expanding to 44.8% by 2034. Europe follows with 28.1% share, while North America accounts for 17.2%. China, South Korea, and Japan are the primary growth drivers through government incentives, manufacturing investments, and favorable renewable energy policies.",
+    "url": "https://dataintelo.com/report/global-perovskite-solar-cell-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ペロブスカイト太陽電池市場規模 、シェア、2034 年の予測 — ペロブスカイト太陽電池市場規模 、シェア、2034 年の予測 Fortune Business Insights https://www.fortunebusinessinsights.com > 業界-レポート",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E3%83%9A%E3%83%AD%E3%83%96%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%88%E5%A4%AA%E9%99%BD%E9%9B%BB%E6%B1%A0%E5%B8%82%E5%A0%B4-101556",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池市場 サイズとシェア 2026-2035 — ペロブスカイト太陽電池市場 サイズとシェア 2026-2035 Global Market Insights Inc. https://www.gminsights.com > perovskite-solar-cells-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池市場 調査、 規模 、シェアと予測2036年 — ペロブスカイト太陽電池市場 調査、 規模 、シェアと予測2036年 Research Nester Japan https://www.researchnester.jp > 業界分析",
+    "url": "https://www.researchnester.jp/industry-analysis/perovskite-solar-cell-market/3373",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池 メーカー7社 - Metoree — ペロブスカイト太陽電池 メーカー7社 - Metoree Metoree https://metoree.com > 電源",
+    "url": "https://metoree.com/categories/9402/",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池企業 ランキング・戦略分析レポート — ペロブスカイト太陽電池企業 ランキング・戦略分析レポート GBaseGTM https://s.gbase.ai > perovskite-solar-cell-ranking-2026",
+    "url": "https://s.gbase.ai/insight/perovskite-solar-cell-ranking-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池市場 サイズと シェア 2026-2035 — ペロブスカイト太陽電池市場 サイズと シェア 2026-2035 Global Market Insights Inc. https://www.gminsights.com > perovskite-solar-cells-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "【2026】 ペロブスカイト太陽電池 メーカー一覧と実用化 ... — 【2026】 ペロブスカイト太陽電池 メーカー一覧と実用化 ... bright-co-ltd.com https://bright-co-ltd.com > ホーム > 太陽光発電一覧",
+    "url": "https://bright-co-ltd.com/solar-media/solar/perovskite-maker/",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池 、 前年比 2倍超に 世界の 市場 規模 — ペロブスカイト太陽電池 、 前年比 2倍超に 世界の 市場 規模 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXZQOUC299P00Z20C26A9000000/",
+    "pass": 3
+   },
+   {
+    "quote": "今年にも1000億円超え、 ペロブスカイト太陽電池 の世界 市場 — 今年にも1000億円超え、 ペロブスカイト太陽電池 の世界 市場 日経BP https://project.nikkeibp.co.jp > atcl > news",
+    "url": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06109/?ST=msb",
+    "pass": 3
+   },
+   {
+    "quote": "ペロブスカイト太陽電池 の 市場 を調査。2040年の世界 市場 を3 ... — ペロブスカイト太陽電池 の 市場 を調査。2040年の世界 市場 を3 ... fkg-report.jp https://www.fkg-report.jp > market-trends",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3393.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 2025 年最新動向】 ペロブスカイト太陽電池 の基礎知識と ... — 【 2025 年最新動向】 ペロブスカイト太陽電池 の基礎知識と ... 株式会社エネテク https://enetech.co.jp > guide > perovskite-solar-cells",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "pass": 3
+   },
+   {
+    "quote": "Perovskite Solar Cells Market Size , Forecasts Report 2026-2035 — Perovskite Solar Cells Market Size , Forecasts Report 2026-2035 Global Market Insights Inc. https://www.gminsights.com > perovs...",
+    "url": "https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   },
+   {
+    "quote": "Perovskite Solar Cells Market Size , Share and Forecast 2034 — Perovskite Solar Cells Market Size , Share and Forecast 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/perovskite-solar-cell-market-101556",
+    "pass": 3
+   },
+   {
+    "quote": "Perovskite Solar Cell Market Size , Growth Report, 2026-2033 — Perovskite Solar Cell Market Size , Growth Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Perovskite Solar Cell Market Size , Share | CAGR 67.6% — Perovskite Solar Cell Market Size , Share | CAGR 67.6% Market.us https://market.us > Press Releases",
+    "url": "https://market.us/press-release/perovskite-solar-cell-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Perovskite Solar Cell Market to Reach USD 1.73 Billion by ... — Perovskite Solar Cell Market to Reach USD 1.73 Billion by ... Yahoo Finance https://finance.yahoo.com > articles",
+    "url": "https://finance.yahoo.com/energy/articles/perovskite-solar-cell-market-reach-181100005.html",
+    "pass": 3
+   },
+   {
+    "quote": "Perovskite Solar Cells Market Size, Share and Forecast 2034 — Perovskite Solar Cells Market Size, Share and Forecast 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/perovskite-solar-cell-market-101556",
+    "pass": 3
+   },
+   {
+    "quote": "Perovskite Solar Cell Market Companies , Size & Trends 2026 ... — Perovskite Solar Cell Market Companies , Size & Trends 2026 ... Precedence Research https://www.precedenceresearch.com > ...",
+    "url": "https://www.precedenceresearch.com/perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "Perovskite Solar Cell Market Size & Opportunities, 2026-2033 — Perovskite Solar Cell Market Size & Opportunities, 2026-2033 Coherent Market Insights https://www.coherentmarketinsights.com > Energy",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "Perovskite Solar Cell Market Size, Share & 2031 Growth ... — Perovskite Solar Cell Market Size, Share & 2031 Growth ... Mordor Intelligence https://www.mordorintelligence.com > ...",
+    "url": "https://www.mordorintelligence.com/industry-reports/perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "Perovskite Solar Cells Module Market Size | CAGR of 33.5% — Perovskite Solar Cells Module Market Size | CAGR of 33.5% Market.us https://market.us > report > perovskite...",
+    "url": "https://market.us/report/perovskite-solar-cells-module-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Europe Perovskite Solar Cell Market Size & Share, 2034 — Europe Perovskite Solar Cell Market Size & Share, 2034 Market Data Forecast https://www.marketdataforecast.com > ...",
+    "url": "https://www.marketdataforecast.com/market-reports/europe-perovskite-solar-cell-market",
+    "pass": 3
+   },
+   {
+    "quote": "Perovskite Solar Cell Market Size, Growth Report, 2026-2033 — Perovskite Solar Cell Market Size, Growth Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Perovskite Solar Cells Market Size, Forecasts Report 2026-2035 — Perovskite Solar Cells Market Size, Forecasts Report 2026-2035 Global Market Insights Inc. https://www.gminsights.com > perovs...",
+    "url": "https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "22.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "quote": "2026〜2035年の年平均成長率（CAGR）22.7%で成長し、2035年には32億米ドルに達する見込みである"
+   },
+   {
+    "value": "30.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "quote": "発電分野の2025年の売上高は1億790万米ドルで、2026〜2035年の年平均成長率（CAGR）は30.5%と予測される"
+   },
+   {
+    "value": "15.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "quote": "平面型n-i-pは2025年に硬質セグメント売上高の27.4%を占め、2026〜2035年の年平均成長率（CAGR）は15.5%と予測される"
+   },
+   {
+    "value": "1.2",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "quote": "メソポーラス製品は2025年に硬質セグメント売上高の21.0%を占め、2026〜2035年の年平均成長率（CAGR）は-1.2%となり、縮小すると予測される"
+   },
+   {
+    "value": "23.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "quote": "フレキシブルモジュールは2025年に市場売上高の36.0%を占め、2026〜2035年に年平均成長率（CAGR）23.7%で成長すると予測される"
+   },
+   {
+    "value": "14.6",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "quote": "平面型フレキシブルは2025年にフレキシブルセグメントの売上高の42.2%を占め、2026〜2035年に年平均成長率（CAGR）14.6%で成長すると予測される"
+   },
+   {
+    "value": "24.35",
+    "url": "https://www.atpress.ne.jp/news/8958287",
+    "quote": "ペロブスカイト太陽電池市場は、2025年に3億2,597万米ドルと評価され、2026年には3億9,863万米ドルに成長し、CAGR24.35％で推移し、2032年までに14億9,908万米ドルに達すると予測されています"
+   },
+   {
+    "value": "19.9",
+    "url": "https://straitsresearch.com/jp/report/next-generation-solar-cell-market",
+    "quote": "次世代太陽電池の世界市場規模は、2025年には38億米ドルと評価され、2026年の45億6000万米ドルから2034年には194億6000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は19.9%となる見込みです"
+   },
+   {
+    "value": "26.4",
+    "url": "https://straitsresearch.com/jp/report/next-generation-solar-cell-market",
+    "quote": "ガリウムヒ素（GaAs）は、航空宇宙、宇宙、集光型太陽光発電向けの高効率太陽電池モジュールといった特殊用途における需要の高まりを背景に、予測期間中に年平均成長率（CAGR）26.4%という最も力強い成長を遂げると予測されている"
+   },
+   {
+    "value": "28.6",
+    "url": "https://straitsresearch.com/jp/report/next-generation-solar-cell-market",
+    "quote": "ペロブスカイト太陽電池セグメントは、予測期間全体を通して最も急速に成長する市場になると予測されており、年平均成長率（CAGR）は約28.6%という驚異的な伸びを示しています"
+   },
+   {
+    "value": "20.0",
+    "url": "https://straitsresearch.com/jp/report/next-generation-solar-cell-market",
+    "quote": "アジア太平洋市場は、2026年から2034年の予測期間において、年平均成長率（CAGR）約20.0%で最も急速に成長すると予測されています"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "36.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "quote": "2025年、BIPVは市場売上高の36.0%を占め、2035年には9億1,200万米ドルに達すると予測される"
+   },
+   {
+    "value": "16.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "quote": "民生用電子機器分野は、2025年に市場売上高の16.5%を占め、2035年には2億8,800万米ドルに達すると予測される"
+   },
+   {
+    "value": "7.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "quote": "防衛・航空宇宙分野の2025年の売上高は5,600万米ドルで、2035年には市場売上高の7.5%を占めると予測される"
+   },
+   {
+    "value": "8.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "quote": "輸送分野は2025年に売上高シェアの8.0%を占め、2035年には1億4,400万米ドルに達すると予測される"
+   },
+   {
+    "value": "64.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "quote": "硬質モジュールは2025年に市場売上高の64.0%を占め、2035年には19億2,000万米ドルに達すると予測される"
+   },
+   {
+    "value": "27.4",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "quote": "平面型n-i-pは2025年に硬質セグメント売上高の27.4%を占め、2026〜2035年の年平均成長率（CAGR）は15.5%と予測される"
+   },
+   {
+    "value": "15.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "quote": "平面型n-i-pは2025年に硬質セグメント売上高の27.4%を占め、2026〜2035年の年平均成長率（CAGR）は15.5%と予測される"
+   },
+   {
+    "value": "10.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "quote": "平面型p-i-nの2025年の売上高は6,260万米ドルで、2035年には硬質セグメント売上高の10.0%を占めると予測される"
+   },
+   {
+    "value": "21.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "quote": "メソポーラス製品は2025年に硬質セグメント売上高の21.0%を占め、2026〜2035年の年平均成長率（CAGR）は-1.2%となり、縮小すると予測される"
+   },
+   {
+    "value": "1.2",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "quote": "メソポーラス製品は2025年に硬質セグメント売上高の21.0%を占め、2026〜2035年の年平均成長率（CAGR）は-1.2%となり、縮小すると予測される"
+   },
+   {
+    "value": "70.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "quote": "ペロブスカイト・シリコンタンデムは2025年に7,440万米ドルを生み出し、2035年までに剛性セグメントの売上高の70.0%を占めると予測される"
+   },
+   {
+    "value": "23.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "quote": "フレキシブルモジュールは2025年に市場売上高の36.0%を占め、2026〜2035年に年平均成長率（CAGR）23.7%で成長すると予測される"
+   },
+   {
+    "value": "42.2",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "quote": "平面型フレキシブルは2025年にフレキシブルセグメントの売上高の42.2%を占め、2026〜2035年に年平均成長率（CAGR）14.6%で成長すると予測される"
+   },
+   {
+    "value": "14.6",
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "quote": "平面型フレキシブルは2025年にフレキシブルセグメントの売上高の42.2%を占め、2026〜2035年に年平均成長率（CAGR）14.6%で成長すると予測される"
+   },
+   {
+    "value": "33.0",
+    "url": "https://www.researchnester.jp/industry-analysis/perovskite-solar-cell-market/3373",
+    "quote": "アジア太平洋地域のペロブスカイト太陽電池市場は、化石燃料への依存度を下げるための太陽光パネルの設置増加と政府の支援策により、2036年末までに約33.0%という最大の収益シェアを占めると予想されています"
+   },
+   {
+    "value": "40.0",
+    "url": "https://www.researchnester.jp/industry-analysis/perovskite-solar-cell-market/3373",
+    "quote": "タイプ別では、フレキシブルセグメントが2036年末までに40.0％という大きな収益シェアを占めると予想されています"
+   },
+   {
+    "value": "60.0",
+    "url": "https://www.researchnester.jp/industry-analysis/perovskite-solar-cell-market/3373",
+    "quote": "構造セグメンテーションに基づくと、平面セグメントは予測期間中に60.0％のシェアを占めると予想されます"
+   },
+   {
+    "value": "33",
+    "url": "https://www.researchnester.jp/industry-analysis/perovskite-solar-cell-market/3373",
+    "quote": "回答: アジア太平洋地域のペロブスカイト太陽電池部門は、2036年末までに33%のシェアを占める見込みです"
+   },
+   {
+    "value": "35.4",
+    "url": "https://straitsresearch.com/jp/report/next-generation-solar-cell-market",
+    "quote": "北米は、2025年に35.4%の市場シェアを占め、次世代太陽電池市場を牽引しました"
+   },
+   {
+    "value": "57.83",
+    "url": "https://straitsresearch.com/jp/report/next-generation-solar-cell-market",
+    "quote": "材料の種類別に見ると、銅インジウムガリウムセレン（CIGS）セグメントが2025年に57.83%という最高の市場シェアを占めた"
+   },
+   {
+    "value": "54.3",
+    "url": "https://straitsresearch.com/jp/report/next-generation-solar-cell-market",
+    "quote": "設置タイプに基づくと、系統連系型セグメントは2025年の次世代太陽電池市場の約54.3%を占めると推定される"
+   },
+   {
+    "value": "32.4",
+    "url": "https://straitsresearch.com/jp/report/next-generation-solar-cell-market",
+    "quote": "市場を牽引したのは色素増感太陽電池（DSSC）分野で、2025年には売上高の32.4%を占めた"
+   },
+   {
+    "value": "29",
+    "url": "https://s.gbase.ai/insight/perovskite-solar-cell-ranking-2026/",
+    "quote": "主原料「ヨウ素」で日本は世界シェア第2位（29%）、推定埋蔵量は世界1位（78%）"
+   },
+   {
+    "value": "78",
+    "url": "https://s.gbase.ai/insight/perovskite-solar-cell-ranking-2026/",
+    "quote": "主原料「ヨウ素」で日本は世界シェア第2位（29%）、推定埋蔵量は世界1位（78%）"
+   },
+   {
+    "value": "15",
+    "url": "https://s.gbase.ai/insight/perovskite-solar-cell-ranking-2026/",
+    "quote": "ヨウ素世界シェア15%、量産フェーズで需要増"
+   },
+   {
+    "value": "70",
+    "url": "https://s.gbase.ai/insight/perovskite-solar-cell-ranking-2026/",
+    "quote": "本命株（勝率70%以上）として、伊勢化学工業（ヨウ素世界シェア15%）、K&Oエナジーグループ（日本のヨウ素埋蔵量80%保有）、ヒラノテクシード（専用塗工設備）、三菱ガス化学（ヨウ素＋高機能ポリマー）が挙げられます"
+   },
+   {
+    "value": "80",
+    "url": "https://s.gbase.ai/insight/perovskite-solar-cell-ranking-2026/",
+    "quote": "本命株（勝率70%以上）として、伊勢化学工業（ヨウ素世界シェア15%）、K&Oエナジーグループ（日本のヨウ素埋蔵量80%保有）、ヒラノテクシード（専用塗工設備）、三菱ガス化学（ヨウ素＋高機能ポリマー）が挙げられます"
+   },
+   {
+    "value": "50",
+    "url": "https://green-transformation.jp/media/sustainability/perovskite-solar-cells-112/",
+    "quote": "日本はかつてシリコン系太陽電池の技術開発で成功し、2000年頃には世界シェアが50％を超えていました"
+   },
+   {
+    "value": "1",
+    "url": "https://green-transformation.jp/media/sustainability/perovskite-solar-cells-112/",
+    "quote": "しかし、2005年以降は中国をはじめとする海外企業に市場を奪われ、2025年のシェアは1％にも及びません"
+   },
+   {
+    "value": "29",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "quote": "」は、日本はチリに次ぐ世界2位の生産国で、世界の29%のシェアを持っています"
+   },
+   {
+    "value": "78",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "quote": "さらに推定埋蔵量では、日本のシェアは圧倒的1位で世界の78%のシェアを持っています"
+   },
+   {
+    "value": "55.7",
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "quote": "グラフを見て頂くとお分かりの通り、出願件数のトップは中国で、全体の55.7%と構成比の半分以上を占めています"
+   },
+   {
+    "value": "36.0",
+    "url": "https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market",
+    "quote": "BIPV accounted for 36.0% of market revenue in 2025 and is projected to generate USD 912.0 million by 2035. Demand is supported by the ability of thin-film products to fit facades, skylights, curved surfaces, and other architectural elements where module aesthetics, weight, and form factor influence "
+   },
+   {
+    "value": "7.5",
+    "url": "https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market",
+    "quote": "Defense & Aerospace generated USD 56.0 million in 2025 and is expected to account for 7.5% of market revenue by 2035. The segment rewards power-to-weight performance and adaptable form factors, but adoption is moderated by lengthy environmental qualification and supplier-approval procedures."
+   },
+   {
+    "value": "27.4",
+    "url": "https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market",
+    "quote": "Planar n-i-p accounted for 27.4% of rigid-segment revenue in 2025 and is projected to grow at a 15.5% CAGR (2026-2035). The architecture retains relevance where established process familiarity and near-term manufacturability matter, but it faces a strategic challenge from tandem designs with stronge"
+   },
+   {
+    "value": "15.5",
+    "url": "https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market",
+    "quote": "Planar n-i-p accounted for 27.4% of rigid-segment revenue in 2025 and is projected to grow at a 15.5% CAGR (2026-2035). The architecture retains relevance where established process familiarity and near-term manufacturability matter, but it faces a strategic challenge from tandem designs with stronge"
+   },
+   {
+    "value": "10.0",
+    "url": "https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market",
+    "quote": "Planar p-i-n generated USD 62.6 million in 2025 and is expected to represent 10.0% of rigid-segment revenue by 2035. Its position is likely to narrow as manufacturing investment increasingly concentrates on architectures that can support differentiated tandem performance."
+   },
+   {
+    "value": "70.0",
+    "url": "https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market",
+    "quote": "Perovskite-Silicon Tandem generated USD 74.4 million in 2025 and is expected to account for 70.0% of rigid-segment revenue by 2035. The architecture offers a credible path to higher energy yield without abandoning established silicon manufacturing and supply-chain knowledge, making it a focal point "
+   },
+   {
+    "value": "23.7",
+    "url": "https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market",
+    "quote": "Flexible modules accounted for 36.0% of market revenue in 2025 and are projected to grow at a 23.7% CAGR (2026-2035). Their value proposition is strongest in applications where substrate conformity, low weight, and integration into nontraditional surfaces outweigh the preference for conventional rig"
+   },
+   {
+    "value": "26.8",
+    "url": "https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market",
+    "quote": "Emerging 2D/3D and quantum-dot-enhanced configurations accounted for 26.8% of flexible-segment revenue in 2025 and are projected to grow at a 19.0% CAGR (2026-2035). These formats remain strategically important as technology options, but their market role will depend on whether their performance and"
+   },
+   {
+    "value": "19.0",
+    "url": "https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market",
+    "quote": "Emerging 2D/3D and quantum-dot-enhanced configurations accounted for 26.8% of flexible-segment revenue in 2025 and are projected to grow at a 19.0% CAGR (2026-2035). These formats remain strategically important as technology options, but their market role will depend on whether their performance and"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E3%83%9A%E3%83%AD%E3%83%96%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%88%E5%A4%AA%E9%99%BD%E9%9B%BB%E6%B1%A0%E5%B8%82%E5%A0%B4-101556",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/8958287",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.jp/industry-analysis/perovskite-solar-cell-market/3373",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/next-generation-solar-cell-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/9402/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://s.gbase.ai/insight/perovskite-solar-cell-ranking-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://green-transformation.jp/media/sustainability/perovskite-solar-cells-112/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bright-co-ltd.com/solar-media/solar/perovskite-maker/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mri.co.jp/knowledge/column/20260316.html",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUC299P00Z20C26A9000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06109/?ST=msb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fkg-report.jp/market-trends/2026/3393.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25071&la=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/perovskite-solar-cell-market-101556",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/press-release/perovskite-solar-cell-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/energy/articles/perovskite-solar-cell-market-reach-181100005.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/perovskite-solar-cell-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/industry-reports/perovskite-solar-cell-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/perovskite-solar-cell-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skyquestt.com/report/perovskite-solar-cell-market/companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/perovskite-solar-cells-module-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S2949821X26003029",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketdataforecast.com/market-reports/europe-perovskite-solar-cell-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.globenewswire.com/news-release/2026/10/22/3386628/0/en/perovskite-solar-cell-market-research-4-gw-commercialization-partnership-manufacturing-capacity-and-technology-investments-market-forecast-pricing-trends-and-business-opportunities.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Consolidated_financial_statement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Consolidated_(band)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.datamintelligence.com/research-report/perovskite-solar-cells-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataintelo.com/report/global-perovskite-solar-cell-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.expertmarketresearch.com/reports/perovskite-solar-cell-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intelmarketresearch.com/perovskite-solar-cells-market-14304",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.360researchreports.com/market-reports/perovskite-solar-cells-market-202670",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ペロブスカイト太陽電池 市場規模 CAGR",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E3%83%9A%E3%83%AD%E3%83%96%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%88%E5%A4%AA%E9%99%BD%E9%9B%BB%E6%B1%A0%E5%B8%82%E5%A0%B4-101556",
+    "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "https://www.atpress.ne.jp/news/8958287",
+    "https://www.researchnester.jp/industry-analysis/perovskite-solar-cell-market/3373",
+    "https://jp.linkedin.com/pulse/%E9%89%9B%E3%81%AE%E3%81%AA%E3%81%84%E3%83%9A%E3%83%AD%E3%83%96%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%88%E5%A4%AA%E9%99%BD%E9%9B%BB%E6%B1%A0%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AE%E5%BE%B9%E5%BA%95%E5%88%86%E6%9E%902026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E4%BA%88%E6%B8%AC92cagr%E6%88%90-7519552949640089600-l6gxe",
+    "https://straitsresearch.com/jp/report/next-generation-solar-cell-market",
+    "https://www.fkg-report.jp/market-trends/2026/3393.html",
+    "https://www.gii.co.jp/report/ires2103337-perovskite-solar-cell-market-global-forecast.html",
+    "https://gamma.app/docs/168475-h7ca82nnatifcdy",
+    "https://www.fortunebusinessinsights.com/jp/業界-レポート/ペロブスカイト太陽電池市場-101556"
+   ]
+  },
+  {
+   "query": "ペロブスカイト太陽電池 市場 シェア 上位 企業",
+   "results": [
+    "https://metoree.com/categories/9402/",
+    "https://s.gbase.ai/insight/perovskite-solar-cell-ranking-2026/",
+    "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "https://green-transformation.jp/media/sustainability/perovskite-solar-cells-112/",
+    "https://bright-co-ltd.com/solar-media/solar/perovskite-maker/",
+    "https://www.mri.co.jp/knowledge/column/20260316.html",
+    "https://www.affrc.maff.go.jp/docs/innovate/attach/pdf/seika-36.pdf",
+    "https://www.ipros.com/cg3/%E3%83%9A%E3%83%AD%E3%83%96%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%88%E5%A4%AA%E9%99%BD%E9%9B%BB%E6%B1%A0/",
+    "https://sol.kepco.jp/useful/taiyoko/w/peropusukaito/",
+    "https://tkm03031414.hatenablog.com/entry/20260908/1788830183"
+   ]
+  },
+  {
+   "query": "ペロブスカイト太陽電池 市場 前年比 2025",
+   "results": [
+    "https://www.nikkei.com/article/DGXZQOUC299P00Z20C26A9000000/",
+    "https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06109/?ST=msb",
+    "https://www.fkg-report.jp/market-trends/2026/3393.html",
+    "https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market",
+    "https://enetech.co.jp/guide/perovskite-solar-cells/",
+    "https://www.fuji-keizai.co.jp/press/detail.html?cid=25071&la=ja",
+    "https://www.atpress.ne.jp/news/8958287",
+    "https://www.meti.go.jp/shingikai/energy_environment/perovskite_solar_cell/pdf/009_00_03.pdf",
+    "https://www.snsinsider.com/reports/ja/perovskite-solar-cell-market-10762",
+    "https://tcnc.jp/tech_journal/2026_perovskite.pdf"
+   ]
+  },
+  {
+   "query": "perovskite solar cell market size CAGR 2025",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market",
+    "https://www.fortunebusinessinsights.com/industry-reports/perovskite-solar-cell-market-101556",
+    "https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report",
+    "https://market.us/press-release/perovskite-solar-cell-market/",
+    "https://finance.yahoo.com/energy/articles/perovskite-solar-cell-market-reach-181100005.html",
+    "https://www.mordorintelligence.com/industry-reports/solar-cell-market",
+    "https://www.coherentmarketinsights.com/industry-reports/perovskite-solar-cell-market",
+    "https://www.futuremarketinsights.com/reports/perovskite-market",
+    "https://www.linkedin.com/pulse/perovskite-solar-cell-market-assessment-predictive-metrics-gymve",
+    "https://www.expertmarketresearch.com/reports/perovskite-solar-cell-market"
+   ]
+  },
+  {
+   "query": "perovskite solar cell market share top players percent",
+   "results": [
+    "https://www.fortunebusinessinsights.com/industry-reports/perovskite-solar-cell-market-101556",
+    "https://www.precedenceresearch.com/perovskite-solar-cell-market",
+    "https://www.coherentmarketinsights.com/industry-reports/perovskite-solar-cell-market",
+    "https://www.mordorintelligence.com/industry-reports/perovskite-solar-cell-market",
+    "https://www.skyquestt.com/report/perovskite-solar-cell-market/companies",
+    "https://market.us/report/perovskite-solar-cells-module-market/",
+    "https://www.linkedin.com/pulse/lead-free-perovskite-solar-cell-market-trends-growth-outlook-hpbxe",
+    "https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report",
+    "https://finance.yahoo.com/energy/articles/perovskite-solar-cell-market-reach-181100005.html",
+    "https://www.thebusinessresearchcompany.com/report/perovskite-solar-cell-global-market-report"
+   ]
+  },
+  {
+   "query": "perovskite solar cell market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.mordorintelligence.com/industry-reports/perovskite-solar-cell-market",
+    "https://www.fortunebusinessinsights.com/industry-reports/perovskite-solar-cell-market-101556",
+    "https://www.sciencedirect.com/science/article/pii/S2949821X26003029",
+    "https://www.marketdataforecast.com/market-reports/europe-perovskite-solar-cell-market",
+    "https://market.us/report/perovskite-solar-cells-module-market/",
+    "https://www.skyquestt.com/report/perovskite-solar-cell-market/companies",
+    "https://www.precedenceresearch.com/perovskite-solar-cell-market",
+    "https://www.globenewswire.com/news-release/2026/10/22/3386628/0/en/perovskite-solar-cell-market-research-4-gw-commercialization-partnership-manufacturing-capacity-and-technology-investments-market-forecast-pricing-trends-and-business-opportunities.html",
+    "https://www.coherentmarketinsights.com/industry-reports/perovskite-solar-cell-market",
+    "https://en.wikipedia.org/wiki/Consolidated_financial_statement"
+   ]
+  },
+  {
+   "query": "perovskite solar cell market key companies share 2025",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report",
+    "https://www.fortunebusinessinsights.com/industry-reports/perovskite-solar-cell-market-101556",
+    "https://market.us/report/perovskite-solar-cells-module-market/",
+    "https://www.coherentmarketinsights.com/industry-reports/perovskite-solar-cell-market",
+    "https://finance.yahoo.com/energy/articles/perovskite-solar-cell-market-reach-181100005.html",
+    "https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market",
+    "https://www.datamintelligence.com/research-report/perovskite-solar-cells-market",
+    "https://www.skyquestt.com/report/perovskite-solar-cell-market/companies",
+    "https://www.mordorintelligence.com/industry-reports/perovskite-solar-cell-market",
+    "https://www.precedenceresearch.com/perovskite-solar-cell-market"
+   ]
+  }
+ ],
+ "missing": {}
+}

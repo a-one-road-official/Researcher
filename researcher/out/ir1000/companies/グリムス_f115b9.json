@@ -1,0 +1,631 @@
+{
+ "name": "グリムス",
+ "aliases": [],
+ "context": "証券コード3150／電気・ガス業／プライム（内国株式）／2026.03期 売上高33,936百万円 営業利益率21.1%",
+ "researched_at": "2026-11-02T17:54:49.238888+00:00",
+ "official_url": "https://www.omochabako-webstore.jp/",
+ "identified_by": "search:yahoo_jp:グリムス",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2005年7月4日",
+    "url": "https://www.grems.co.jp/about/profile",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "連結従業員数",
+    "value": "367名（2026年3月31日現在）",
+    "url": "https://www.grems.co.jp/about/profile",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "グループ事業内容",
+    "value": "エネルギーに関するコンサルティング、商品・サービスの販売",
+    "url": "https://www.grems.co.jp/about/profile",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "omochabako - 秋冬新商品 -",
+    "url": "https://www.omochabako-webstore.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "商品は在庫限りとさせていただきます",
+    "url": "https://www.omochabako-webstore.jp/hpgen/HPB/shop/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご注文いただきました商品が在庫切れの場合は、メール（またはメールのご登録がない場合はお電話）にてご連絡差し上げます",
+    "url": "https://www.omochabako-webstore.jp/hpgen/HPB/shop/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品代金以外の必要料金",
+    "url": "https://www.omochabako-webstore.jp/hpgen/HPB/shop/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "代金引換：商品到着時に、運送会社の方に代金をお支払いください",
+    "url": "https://www.omochabako-webstore.jp/hpgen/HPB/shop/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "クレジットカード決済:：商品注文時に課金対象となります",
+    "url": "https://www.omochabako-webstore.jp/hpgen/HPB/shop/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "amazon pay(アマゾンペイ)：決済:商品注文時に課金対象となります",
+    "url": "https://www.omochabako-webstore.jp/hpgen/HPB/shop/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "不良品、誤発送が生じた場合は、【商品到着後10日以内】にご連絡下さいますようお願い申し上げます",
+    "url": "https://www.omochabako-webstore.jp/hpgen/HPB/shop/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "不良品は商品を本社にて確認次第、代品出荷いたします",
+    "url": "https://www.omochabako-webstore.jp/hpgen/HPB/shop/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "※定期購入商品は、クレジットカード決済、代金引換のみのお支払いとなります",
+    "url": "https://www.omochabako-webstore.jp/hpgen/HPB/shop/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "omochabako - 秋冬新商品 -",
+    "url": "https://www.omochabako-webstore.jp/hpgen/HPB/shop/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "グリムスは、電気をめぐる困りごとを「診断し、提案し、設置し、供給する」ところまで一気通貫で引き受ける、エネルギーソリューションの会社だ",
+    "url": "https://note.com/tatsuya_sabato/n/n5960e1dd8a7f",
+    "pass": 3
+   },
+   {
+    "quote": "決算短信・有価証券報告書・適時開示などの一次情報から、企業の事実・会社計画・未確認点・次に見る数字を整理する日本株リサーチ会員制サービスです",
+    "url": "https://note.com/tatsuya_sabato/n/n5960e1dd8a7f",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギーソリューション事業",
+    "url": "https://www.grems.co.jp/ir/library",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギーソリューション事業",
+    "url": "https://www.grems.co.jp/ir",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギーに関するコンサルティング、商品・サービスの販売",
+    "url": "https://www.grems.co.jp/about/profile",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギーソリューション事業",
+    "url": "https://www.grems.co.jp/about/profile",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギーソリューション事業",
+    "url": "https://www.grems.co.jp/about",
+    "pass": 3
+   },
+   {
+    "quote": "会社紹介記事－中小企業の電力コスト削減と地球環境改善の両立に挑戦するエネルギーソリューションカンパニーの思い｜社長名鑑",
+    "url": "https://shachomeikan.jp/article/4519",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の電力コスト削減と地球環境改善の両立に挑戦するエネルギーソリューションカンパニーの思い",
+    "url": "https://shachomeikan.jp/article/4519",
+    "pass": 3
+   },
+   {
+    "quote": "ー貴社の商品・サービスで、特に強いこだわりをお持ちのポイントについて教えてください",
+    "url": "https://shachomeikan.jp/article/4519",
+    "pass": 3
+   },
+   {
+    "quote": "電力使用の運用改善や設備改善を軸としたコンサルティングを通し、専門性の高いサービスを提供している株式会社GRコンサルティング",
+    "url": "https://shachomeikan.jp/article/4519",
+    "pass": 3
+   },
+   {
+    "quote": "カーボンニュートラルの実現と中小企業の経営効率向上に寄与するエネルギーソリューションカンパニーの存在意義は大きい",
+    "url": "https://shachomeikan.jp/article/4519",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "※税込8,800円以上お買い上げのお客様は、送料・代引き手数料が無料です",
+    "url": "https://www.omochabako-webstore.jp/hpgen/HPB/shop/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のご都合による返品/交換はお受けできませんので、何卒ご了承ください",
+    "url": "https://www.omochabako-webstore.jp/hpgen/HPB/shop/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "※お客様のご都合による返品/交換はお受けできませんので、何卒ご了承ください",
+    "url": "https://www.omochabako-webstore.jp/hpgen/HPB/shop/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "町工場や中小企業のもとへ足を運び、契約の見直しや電子ブレーカー（基本料金を下げるための機器）の導入で電気代を削り、そこから自家消費用の太陽光発電、蓄電池、さらには電気そのものの小売へと、同じ顧客に次々と提案を重ねていく",
+    "url": "https://note.com/tatsuya_sabato/n/n5960e1dd8a7f",
+    "pass": 3
+   },
+   {
+    "quote": "会社の公式資料や決算説明資料を読むと、この「一人の顧客に長く付き合い、商材を載せ替えていく」という発想が、創業以来ずっと事業の背骨になっていることが見えてくる",
+    "url": "https://note.com/tatsuya_sabato/n/n5960e1dd8a7f",
+    "pass": 3
+   },
+   {
+    "quote": "電気代が高いという状況そのものが営業のきっかけになり、一度つかんだ顧客に複数の商材を売れる「クロスセルの仕組み」と、大型の発電所を自前で抱え込まない「身軽な収益構造」が、この会社の競争優位の核にある",
+    "url": "https://note.com/tatsuya_sabato/n/n5960e1dd8a7f",
+    "pass": 3
+   },
+   {
+    "quote": "電気代を下げる相談から始まり、最終的には電気そのものを売るところまで、顧客との接点を縦に深く取りにいくのが特徴と言える",
+    "url": "https://note.com/tatsuya_sabato/n/n5960e1dd8a7f",
+    "pass": 3
+   },
+   {
+    "quote": "当時、「自由化までに顧客を増やしておいて一気に波に乗る」という話を初めて聞いて、すごい先見性だなと感じました",
+    "url": "https://recruit.grems.co.jp/crosstalk/crosstalk1.html",
+    "pass": 3
+   },
+   {
+    "quote": "実際、2016年に自由化と同時に新電力事業やって、既存のお客様に一気にご加入していただきましたね",
+    "url": "https://recruit.grems.co.jp/crosstalk/crosstalk1.html",
+    "pass": 3
+   },
+   {
+    "quote": "「電力の全面自由化までに顧客を増やしておき、一気に波に乗る」という話を初めて聞き、田中社長の先見性とカリスマ性を感じたことを覚えています",
+    "url": "https://shachomeikan.jp/article/4519",
+    "pass": 3
+   },
+   {
+    "quote": "お客様にとって真の価値を提供する",
+    "url": "https://shachomeikan.jp/article/4519",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、主に中小企業のお客様が抱える電力コストの課題を抽出し、効果の高い解決策をコンサルティングしています",
+    "url": "https://shachomeikan.jp/article/4519",
+    "pass": 3
+   },
+   {
+    "quote": "ご導入いただいたお客様がいつでも安心して我々に相談いただけるよう、主要都市に拠点を配置し、協力工事会社とともにアフターフォローにも注力しております",
+    "url": "https://shachomeikan.jp/article/4519",
+    "pass": 3
+   },
+   {
+    "quote": "これらの事業を展開する中で強くこだわっているのは、お客様にとって真の価値を提供することです",
+    "url": "https://shachomeikan.jp/article/4519",
+    "pass": 3
+   },
+   {
+    "quote": "グループ全体としては「すべての人に感動と喜びを」という企業理念の実現を目指し、多くのお客様に持続可能な社会の構築に貢献していただけるようバックアップしております",
+    "url": "https://shachomeikan.jp/article/4519",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業のお客様にとって、昨今の電気代高騰は悩ましい問題ですが、電力コストは国際的にも高止まりしている状態です",
+    "url": "https://shachomeikan.jp/article/4519",
+    "pass": 3
+   },
+   {
+    "quote": "お客様満足度の向上と地球環境改善への貢献を目指す",
+    "url": "https://shachomeikan.jp/article/4519",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、中小企業を対象とした事業用太陽光発電システムのリーディングカンパニーですが、現状の顧客開拓実績は顧客候補の0.5％に過ぎません",
+    "url": "https://shachomeikan.jp/article/4519",
+    "pass": 3
+   },
+   {
+    "quote": "今後も、日本経済の根幹を支える中小企業様の経営強化のパートナーとして、お客様が抱えるお悩みに対して最適な解決策をご提案することで、お客様満足度の向上と地球環境改善への貢献を図ってまいる所存です",
+    "url": "https://shachomeikan.jp/article/4519",
+    "pass": 3
+   },
+   {
+    "quote": "「ユーザーイン発想」で年間1,000点以上を開発",
+    "url": "https://shachomeikan.jp/article/4519",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "【代引き手数料】330円",
+    "url": "https://www.omochabako-webstore.jp/hpgen/HPB/shop/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "※税込8,800円以上お買い上げのお客様は、送料・代引き手数料が無料です",
+    "url": "https://www.omochabako-webstore.jp/hpgen/HPB/shop/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "具体的な数字を覚えるのではなく、受注の質やストック化の進み具合など、注目すべき指標の方向性",
+    "url": "https://note.com/tatsuya_sabato/n/n5960e1dd8a7f",
+    "pass": 3
+   },
+   {
+    "quote": "ストックビジネス",
+    "url": "https://note.com/tatsuya_sabato/n/n5960e1dd8a7f",
+    "pass": 3
+   },
+   {
+    "quote": "公開3プランは月額500円・1,000円・3,000円",
+    "url": "https://note.com/tatsuya_sabato/n/n5960e1dd8a7f",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "商品は在庫限りとさせていただきます",
+    "url": "https://www.omochabako-webstore.jp/hpgen/HPB/shop/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご注文いただきました商品が在庫切れの場合は、メール（またはメールのご登録がない場合はお電話）にてご連絡差し上げます",
+    "url": "https://www.omochabako-webstore.jp/hpgen/HPB/shop/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "電気代が高いという状況そのものが営業のきっかけになり、一度つかんだ顧客に複数の商材を売れる「クロスセルの仕組み」と、大型の発電所を自前で抱え込まない「身軽な収益構造」が、この会社の競争優位の核にある",
+    "url": "https://note.com/tatsuya_sabato/n/n5960e1dd8a7f",
+    "pass": 3
+   },
+   {
+    "quote": "決算短信・有報・適時開示から日本企業の強み・成長余地・リスクを整理",
+    "url": "https://note.com/tatsuya_sabato/n/n5960e1dd8a7f",
+    "pass": 3
+   },
+   {
+    "quote": "勉学にはそこまで力を入れてこなかった分、営業というフィールドなら自分の強みを活かせると考え、営業以外の道はあまり選択肢に入っていなかったのです",
+    "url": "https://shachomeikan.jp/article/4519",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "電気代が高いという状況そのものが営業のきっかけになり、一度つかんだ顧客に複数の商材を売れる「クロスセルの仕組み」と、大型の発電所を自前で抱え込まない「身軽な収益構造」が、この会社の競争優位の核にある",
+    "url": "https://note.com/tatsuya_sabato/n/n5960e1dd8a7f",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルの詳細分析 どこで、どう儲けているのか",
+    "url": "https://note.com/tatsuya_sabato/n/n5960e1dd8a7f",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル分析",
+    "url": "https://note.com/tatsuya_sabato/n/n5960e1dd8a7f",
+    "pass": 3
+   },
+   {
+    "quote": "このマガジンでは、上場・未上場企業を問わず、財務分析からビジネスモデル、成長可能性、リスク要因まで、徹底したデューデリジェンス（DD）の視点で解説します",
+    "url": "https://note.com/tatsuya_sabato/n/n5960e1dd8a7f",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年6月30日 05:27",
+    "url": "https://note.com/tatsuya_sabato/n/n5960e1dd8a7f",
+    "pass": 3
+   },
+   {
+    "quote": "2005年7月4日",
+    "url": "https://www.grems.co.jp/about/profile",
+    "pass": 3
+   },
+   {
+    "quote": "2011年4月1日",
+    "url": "https://www.grems.co.jp/about/profile",
+    "pass": 3
+   },
+   {
+    "quote": "2012年12月3日",
+    "url": "https://www.grems.co.jp/about/profile",
+    "pass": 3
+   },
+   {
+    "quote": "2022年4月1日",
+    "url": "https://www.grems.co.jp/about/profile",
+    "pass": 3
+   },
+   {
+    "quote": "2005年にグリムスを自身含め6名で設立",
+    "url": "https://recruit.grems.co.jp/crosstalk/crosstalk1.html",
+    "pass": 3
+   },
+   {
+    "quote": "2009年入社",
+    "url": "https://recruit.grems.co.jp/crosstalk/crosstalk1.html",
+    "pass": 3
+   },
+   {
+    "quote": "2008年新卒入社",
+    "url": "https://recruit.grems.co.jp/crosstalk/crosstalk1.html",
+    "pass": 3
+   },
+   {
+    "quote": "2030年度にかけては、自家消費型の事業用太陽光発電システムの市場も大幅に拡大すると見込まれている中、当社は中小企業をターゲットとした低圧電力（200ボルト）市場で独自の成長を遂げてきました",
+    "url": "https://shachomeikan.jp/article/4519",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "グリムス Research Memo（6）：系統用蓄電池事業の ... - 株探 — グリムス Research Memo（6）：系統用蓄電池事業の ... - 株探 株探 https://kabutan.jp > 市場ニュース",
+    "url": "https://kabutan.jp/news/marketnews/?b=n202607270415",
+    "pass": 3
+   },
+   {
+    "quote": "【QAあり】 グリムス 、売上高、営業利益ともに過去最高を ... — 【QAあり】 グリムス 、売上高、営業利益ともに過去最高を ... ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/381930",
+    "pass": 3
+   },
+   {
+    "quote": "グリムス (3150) の企業概要・業績・財務・IR資料 — グリムス (3150) の企業概要・業績・財務・IR資料 crex-data.com https://www.crex-data.com > 企業",
+    "url": "https://www.crex-data.com/company/3150",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリー - 株式会社グリムス GREMS,Inc. — IRライブラリー - 株式会社グリムス GREMS,Inc. grems.co.jp https://www.grems.co.jp > library",
+    "url": "https://www.grems.co.jp/ir/library",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 ｜ 株式会社 グリムス GREMS,Inc. — IR情報 ｜ 株式会社 グリムス GREMS,Inc. grems.co.jp https://www.grems.co.jp > ...",
+    "url": "https://www.grems.co.jp/ir",
+    "pass": 3
+   },
+   {
+    "quote": "【 グリムス 】[3150]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 グリムス 】[3150]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=3150",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 グリムス - ログミーファイナンス - logmi Finance — 株式会社 グリムス - ログミーファイナンス - logmi Finance ログミーFinance https://finance.logmi.jp > companies",
+    "url": "https://finance.logmi.jp/companies/1918",
+    "pass": 3
+   },
+   {
+    "quote": "グリムス （3150）のIR情報・ 決算資料 - IRBANK — グリムス （3150）のIR情報・ 決算資料 - IRBANK IRBANK https://irbank.net > グリムス",
+    "url": "https://irbank.net/3150/ir",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 - 株式会社グリムス GREMS,Inc. — 企業情報 - 株式会社グリムス GREMS,Inc. grems.co.jp https://www.grems.co.jp > about > profile",
+    "url": "https://www.grems.co.jp/about/profile",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 ｜ 株式会社 グリムス GREMS,Inc. — 会社概要 ｜ 株式会社 グリムス GREMS,Inc. grems.co.jp https://www.grems.co.jp > about",
+    "url": "https://www.grems.co.jp/about",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 グリムス — 株式会社 グリムス allione.jp PDF https://www.allione.jp > uploads > 2025/11",
+    "url": "https://www.allione.jp/wp-content/uploads/2025/11/59c49e94d014b72d07caabc4fe8cdf37.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "グリムス 【3150】の 事業 内容 - キタイシホン — グリムス 【3150】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/3150/business",
+    "pass": 3
+   },
+   {
+    "quote": "入社時の想い – グリムス グループ公式採用サイト - GREMS — 入社時の想い – グリムス グループ公式採用サイト - GREMS recruit.grems.co.jp https://recruit.grems.co.jp > crosstalk > crosstalk1",
+    "url": "https://recruit.grems.co.jp/crosstalk/crosstalk1.html",
+    "pass": 3
+   },
+   {
+    "quote": "グリムス 【3150】の 社長 ・役員 - キタイシホン — グリムス 【3150】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/3150/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 グリムス ソーラーの評判を社員に直接聞いてみた ... — 株式会社 グリムス ソーラーの評判を社員に直接聞いてみた ... Wantedly https://www.wantedly.com > ... > ストーリー",
+    "url": "https://www.wantedly.com/companies/gremz-solar/post_articles/1000722",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.grems.co.jp/ir",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "企業理念をご紹介いたします",
+    "url": "https://www.grems.co.jp/about",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報や組織図、関連会社をご紹介いたします",
+    "url": "https://www.grems.co.jp/about",
+    "pass": 3
+   },
+   {
+    "quote": "グリムスの歴史をご紹介いたします",
+    "url": "https://www.grems.co.jp/about",
+    "pass": 3
+   },
+   {
+    "quote": "会社紹介記事－中小企業の電力コスト削減と地球環境改善の両立に挑戦するエネルギーソリューションカンパニーの思い｜社長名鑑",
+    "url": "https://shachomeikan.jp/article/4519",
+    "pass": 3
+   },
+   {
+    "quote": "今後も、日本経済の根幹を支える中小企業様の経営強化のパートナーとして、お客様が抱えるお悩みに対して最適な解決策をご提案することで、お客様満足度の向上と地球環境改善への貢献を図ってまいる所存です",
+    "url": "https://shachomeikan.jp/article/4519",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.omochabako-webstore.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.omochabako-webstore.jp/_ga/login.cgi",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.omochabako-webstore.jp/hpgen/HPB/shop/business.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://kabutan.jp/news/marketnews/?b=n202607270415",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/tatsuya_sabato/n/n5960e1dd8a7f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grems.co.jp/ir/library",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.grems.co.jp/ir",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.grems.co.jp/about/profile",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.grems.co.jp/about",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://recruit.grems.co.jp/crosstalk/crosstalk1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shachomeikan.jp/article/4519",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "グリムス",
+   "results": [
+    "https://www.omochabako-webstore.jp/SHOP/182389/182407/list.html?srsltid=AYCX9vIs6pG8v2XkfdBlxmN2G5G-ChadWQ3Q4i02TohTbQzIGQGx1IEt",
+    "https://www.crayonhouse.co.jp/shop/r/r207004/",
+    "https://www.omochabako.co.jp/brand/grimms",
+    "https://yubo-shop.com/collections/grimms",
+    "https://kids-laboratory.co.jp/content/world-toys/grimms-wooden-toys-guide/",
+    "https://search.rakuten.co.jp/search/mall/%E3%82%B0%E3%83%AA%E3%83%A0%E3%82%B9/",
+    "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AA%E3%83%A0%E3%82%B9",
+    "https://www.brjordan.com/brand/grimms/",
+    "https://ja.wikipedia.org/wiki/グリムス",
+    "https://www.grems.co.jp/"
+   ]
+  },
+  {
+   "query": "グリムス ビジネスモデル",
+   "results": [
+    "https://kabutan.jp/news/marketnews/?b=n202607270415",
+    "https://note.com/tatsuya_sabato/n/n5960e1dd8a7f",
+    "https://finance.logmi.jp/articles/381930",
+    "https://topics.smt.docomo.ne.jp/article/fisco/business/fisco-0009350020260727032",
+    "https://www.crex-data.com/company/3150",
+    "https://9e-career-insidesales.com/jobs/249",
+    "https://storage.googleapis.com/studio-design-asset-files/projects/7kadkQXeq3/s-1x1_d764d00e-3f5e-4210-b77a-4bb337efa6bb.pdf",
+    "https://www.grems.co.jp/about/philosophy",
+    "https://www.grems.co.jp/",
+    "https://www.grems.co.jp/ir/strategy/"
+   ]
+  },
+  {
+   "query": "グリムス 決算説明資料",
+   "results": [
+    "https://www.grems.co.jp/ir/library",
+    "https://www.grems.co.jp/ir",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=3150",
+    "https://finance.logmi.jp/companies/1918",
+    "https://irbank.net/3150/ir",
+    "https://kitaishihon.com/company/3150/ir-meeting",
+    "https://www.moomoo.com/news/notice/307838575/grems-supplementary-materials-to-the-first-quarter-earnings-release-for",
+    "https://www.grems.co.jp/ir/library/irdata",
+    "https://svss.tv/admin/sv/chapter/file_260_1702015870662.pdf",
+    "https://finance.yahoo.co.jp/quote/3150.T/financials?styl=presentation"
+   ]
+  },
+  {
+   "query": "グリムス 事業系統図",
+   "results": [
+    "https://www.grems.co.jp/about/profile",
+    "https://www.grems.co.jp/about",
+    "https://www.allione.jp/wp-content/uploads/2025/11/59c49e94d014b72d07caabc4fe8cdf37.pdf",
+    "https://kitaishihon.com/company/3150/business",
+    "https://finance.logmi.jp/articles/381930",
+    "https://www.crex-data.com/company/3150",
+    "https://www.gremz-energy.co.jp/",
+    "https://web.fisco.jp/platform/companies/0315000",
+    "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AA%E3%83%A0%E3%82%B9",
+    "https://ja.wikipedia.org/wiki/グリムス"
+   ]
+  },
+  {
+   "query": "グリムス 社長 インタビュー",
+   "results": [
+    "https://recruit.grems.co.jp/crosstalk/crosstalk1.html",
+    "https://shachomeikan.jp/article/4519",
+    "https://recruit.grems.co.jp/crosstalk/crosstalk2",
+    "https://kitaishihon.com/company/3150/board-of-director",
+    "https://www.wantedly.com/companies/gremz-solar/post_articles/1000722",
+    "https://www.youtube.com/watch?v=rAT3McPlZQE",
+    "https://jobtalk.jp/companies/24969/answers?question_codes=president",
+    "https://www.openwork.jp/a0C1000000TtdHQ/analysis/",
+    "https://shikiho.toyokeizai.net/news/0/609298",
+    "https://www.grems.co.jp/about/greeting"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部8頁・検索5回）"
+ }
+}

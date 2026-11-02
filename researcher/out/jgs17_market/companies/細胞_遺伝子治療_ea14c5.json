@@ -1,0 +1,1933 @@
+{
+ "name": "細胞・遺伝子治療",
+ "en": "cell and gene therapy",
+ "aliases": [
+  "再生医療",
+  "CGT"
+ ],
+ "context": "10 バイオ ②バイオ医薬品・再生医療",
+ "kind": "market",
+ "researched_at": "2026-11-02T17:35:09.868729+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "細胞・遺伝子治療製造サービス市場規模、2032年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "2023年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "2032年の予測市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Cell & Gene Therapy Manufacturing Services Market, By Type, 2021 - 2032 (USD Billion)",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "受託製造セグメントは2023年に大きな市場シェアを占め、2032年までに市場規模が213億米ドルに達すると見込まれます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国の細胞・遺伝子治療製造サービス市場は、2024年から2032年にかけて18%の年平均成長率（CAGR）で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の細胞・遺伝子治療製造サービス市場は、分析期間中に20.2%の年平均成長率（CAGR）で成長し、高い成長を遂げると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模で 2023",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模で 2032",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "遺伝子治療市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の遺伝子治療市場規模は、2025年には101億4000万米ドルと評価され、2026年の120億4000万米ドルから2034年には477億2000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は18.78%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国は遺伝子治療市場を支配しており、その市場規模は2024年には33億3205万米ドル、2025年には39億3515万米ドルに達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年の市場規模予測",
+    "url": "https://straitsresearch.com/jp/report/gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "1)遺伝子治療市場規模",
+    "url": "https://www.sdki.jp/reports/gene-therapy-market/116552",
+    "pass": 3
+   },
+   {
+    "quote": "遺伝子治療市場に関する当社の調査レポートによると、市場は2025ー2035年の予測期間中に年間複利成長率（CAGR）22.9%で成長すると予想されています",
+    "url": "https://www.sdki.jp/reports/gene-therapy-market/116552",
+    "pass": 3
+   },
+   {
+    "quote": "2035年には、市場規模は611億米ドルに達すると見込まれています",
+    "url": "https://www.sdki.jp/reports/gene-therapy-market/116552",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、当社の調査アナリストによると、基準年の市場規模は95億米ドルでしました",
+    "url": "https://www.sdki.jp/reports/gene-therapy-market/116552",
+    "pass": 3
+   },
+   {
+    "quote": "4)日本の遺伝子治療市場規模:",
+    "url": "https://www.sdki.jp/reports/gene-therapy-market/116552",
+    "pass": 3
+   },
+   {
+    "quote": "日本の遺伝子治療市場は、2025年の219百万人から2035年には873百万人に増加し、年間複利成長率（CAGR）13.6%で成長すると予測されています",
+    "url": "https://www.sdki.jp/reports/gene-therapy-market/116552",
+    "pass": 3
+   },
+   {
+    "quote": "3100億円",
+    "url": "https://www.sdki.jp/reports/gene-therapy-market/116552",
+    "pass": 3
+   },
+   {
+    "quote": "4,100億円",
+    "url": "https://www.sdki.jp/reports/gene-therapy-market/116552",
+    "pass": 3
+   },
+   {
+    "quote": "EU最大：2024年の遺伝子治療市場は約43億ユーロ、需要は2021年から12.5%増加",
+    "url": "https://www.sdki.jp/reports/gene-therapy-market/116552",
+    "pass": 3
+   },
+   {
+    "quote": "世界の遺伝子治療市場規模は、予測期間中に年間複利成長率（CAGR）22.9%で成長し、2035年には611億米ドルに達すると予測されています",
+    "url": "https://www.sdki.jp/reports/gene-therapy-market/116552",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、当社の調査レポートによると、2025年の遺伝子治療市場規模は適度なペースで成長すると予想されています",
+    "url": "https://www.sdki.jp/reports/gene-therapy-market/116552",
+    "pass": 3
+   },
+   {
+    "quote": "2024年、世界の遺伝子治療市場規模は95億米ドルに達しました",
+    "url": "https://www.sdki.jp/reports/gene-therapy-market/116552",
+    "pass": 3
+   },
+   {
+    "quote": "細胞・遺伝子治療CDMO市場 | 市場規模 シェア 動向分析 予測 2025～2033年まで",
+    "url": "https://www.gii.co.jp/report/grvi1842001-cell-gene-therapy-cdmo-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "細胞・遺伝子治療CDMOの世界市場：市場規模・シェア・動向分析 (相別・製品別・適応症別・地域別)、セグメント別予測 (2025年～2033年)",
+    "url": "https://www.gii.co.jp/report/grvi1842001-cell-gene-therapy-cdmo-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "Cell And Gene Therapy CDMO Market Size, Share & Trends Analysis Report By Phase, By Product, By Indication, By Region, And Segment Forecasts, 2025 - 2033",
+    "url": "https://www.gii.co.jp/report/grvi1842001-cell-gene-therapy-cdmo-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界の細胞・遺伝子治療CDMOの市場規模は、2024年に43億1,000万米ドルと評価され、2033年には271億2,000万米ドルに達し、2025年から2033年までのCAGRは23.03%で成長すると予測されています",
+    "url": "https://www.gii.co.jp/report/grvi1842001-cell-gene-therapy-cdmo-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界の細胞・遺伝子治療CDMOの市場規模と動向分析：相別（2021～2033年）",
+    "url": "https://www.gii.co.jp/report/grvi1842001-cell-gene-therapy-cdmo-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界の細胞・遺伝子治療CDMOの市場規模と動向分析：製品別（2021～2033年）",
+    "url": "https://www.gii.co.jp/report/grvi1842001-cell-gene-therapy-cdmo-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界の細胞・遺伝子治療CDMOの市場規模と動向分析：適応症別（2021～2033年）",
+    "url": "https://www.gii.co.jp/report/grvi1842001-cell-gene-therapy-cdmo-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模の予測と動向分析（2021～2033年）",
+    "url": "https://www.gii.co.jp/report/grvi1842001-cell-gene-therapy-cdmo-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 5,950 換算",
+    "url": "https://www.gii.co.jp/report/grvi1842001-cell-gene-therapy-cdmo-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 6,950 換算",
+    "url": "https://www.gii.co.jp/report/grvi1842001-cell-gene-therapy-cdmo-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 8,950 換算",
+    "url": "https://www.gii.co.jp/report/grvi1842001-cell-gene-therapy-cdmo-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "1億ドル超～5億ドル億",
+    "url": "https://firm.or.jp/wp-content/uploads/2025/01/Cell-Gene-Therapy-Development-in-Japan-Report-%E5%92%8C%E8%A8%B3%E5%8F%82%E8%80%83%E3%83%BC%E6%9C%80%E7%B5%82%E7%89%88.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "0ドル～1億ドル",
+    "url": "https://firm.or.jp/wp-content/uploads/2025/01/Cell-Gene-Therapy-Development-in-Japan-Report-%E5%92%8C%E8%A8%B3%E5%8F%82%E8%80%83%E3%83%BC%E6%9C%80%E7%B5%82%E7%89%88.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10億ドル超",
+    "url": "https://firm.or.jp/wp-content/uploads/2025/01/Cell-Gene-Therapy-Development-in-Japan-Report-%E5%92%8C%E8%A8%B3%E5%8F%82%E8%80%83%E3%83%BC%E6%9C%80%E7%B5%82%E7%89%88.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5億ドル超～10億ドル",
+    "url": "https://firm.or.jp/wp-content/uploads/2025/01/Cell-Gene-Therapy-Development-in-Japan-Report-%E5%92%8C%E8%A8%B3%E5%8F%82%E8%80%83%E3%83%BC%E6%9C%80%E7%B5%82%E7%89%88.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 0ドル～1億ドル",
+    "url": "https://firm.or.jp/wp-content/uploads/2025/01/Cell-Gene-Therapy-Development-in-Japan-Report-%E5%92%8C%E8%A8%B3%E5%8F%82%E8%80%83%E3%83%BC%E6%9C%80%E7%B5%82%E7%89%88.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 1億ドル超～5億ドル",
+    "url": "https://firm.or.jp/wp-content/uploads/2025/01/Cell-Gene-Therapy-Development-in-Japan-Report-%E5%92%8C%E8%A8%B3%E5%8F%82%E8%80%83%E3%83%BC%E6%9C%80%E7%B5%82%E7%89%88.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 5億ドル超～10億ドル",
+    "url": "https://firm.or.jp/wp-content/uploads/2025/01/Cell-Gene-Therapy-Development-in-Japan-Report-%E5%92%8C%E8%A8%B3%E5%8F%82%E8%80%83%E3%83%BC%E6%9C%80%E7%B5%82%E7%89%88.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 10億ドル超",
+    "url": "https://firm.or.jp/wp-content/uploads/2025/01/Cell-Gene-Therapy-Development-in-Japan-Report-%E5%92%8C%E8%A8%B3%E5%8F%82%E8%80%83%E3%83%BC%E6%9C%80%E7%B5%82%E7%89%88.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "15. 細胞・遺伝子治療の市場規模の魅力度に応じて、以下の地域をランク付けしてください（高→低）",
+    "url": "https://firm.or.jp/wp-content/uploads/2025/01/Cell-Gene-Therapy-Development-in-Japan-Report-%E5%92%8C%E8%A8%B3%E5%8F%82%E8%80%83%E3%83%BC%E6%9C%80%E7%B5%82%E7%89%88.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本の細胞・遺伝子治療市場規模 & 2034年見通し",
+    "url": "https://www.imarcgroup.com/report/ja/japan-cell-gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の細胞・遺伝子治療の市場規模、シェア、動向、予測治療タイプ、適応症、送達モード、エンドユーザー、地域別、2026-2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-cell-gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の細胞・遺伝子治療市場規模は、2025年に",
+    "url": "https://www.imarcgroup.com/report/ja/japan-cell-gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.imarcgroup.com/report/ja/japan-cell-gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の4Kテレビ市場規模、シェア、動向、予測 技術、画面サイズ、エンドユーザー、地域別、2026-2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-cell-gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本ヘルスケア分野における3Dプリンティング市場規模、シェア、動向および予測 材料、技術、用途、エンドユーザー、地域別、2026年～2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-cell-gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "4 市場規模予測",
+    "url": "https://www.amed.go.jp/content/000062056.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4-1. 市場規模算出ロジック",
+    "url": "https://www.amed.go.jp/content/000062056.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4-2. 国内市場規模予測",
+    "url": "https://www.amed.go.jp/content/000062056.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4-3. 世界市場規模予測",
+    "url": "https://www.amed.go.jp/content/000062056.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国内の再生医療等製品の市場は2018年時点では約36億円",
+    "url": "https://www.amed.go.jp/content/000062056.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国内上市品の市場規模（2018年） 2019年に販売開始した製品の売上",
+    "url": "https://www.amed.go.jp/content/000062056.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "海外における主要な再生医療等製品の市場規模は2018年時点で978百万米ドル",
+    "url": "https://www.amed.go.jp/content/000062056.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 高成長: 年平均成長率が高く、2030年ごろまでに数兆円市",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/synbio/pdf/001_22_00.pdf",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "細胞・遺伝子治療製造サービス市場の規模は、2023年に 59億米ドルに達し、2024年から2032年にかけて年平均成長率（CAGR）18.9%で成長すると予測されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（2024〜2032年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "過去10年間にライフサイエンス分野で増加したプライベートエクイティ投資および資本注入を背景とするこれらの投資は、市場拡大を促進する重要な要因となっている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "細胞治療セグメントは2023年に 60.6%の市場シェアを占めて市場をリードし、予測期間中も年平均成長率（CAGR）18.6%で優位性を維持すると見込まれている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2023年、世界の細胞・遺伝子治療製造サービス市場で41%の市場シェアを占めて首位となり、分析期間中の年平均成長率（CAGR）は18.1%に達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国の細胞・遺伝子治療製造サービス市場は、2024年から2032年にかけて18%の年平均成長率（CAGR）で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の細胞・遺伝子治療製造サービス市場は、分析期間中に20.2%の年平均成長率（CAGR）で成長し、高い成長を遂げると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間 2024 to 2032 CAGR",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "遺伝子治療市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の遺伝子治療市場規模は、2025年には101億4000万米ドルと評価され、2026年の120億4000万米ドルから2034年には477億2000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は18.78%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は遺伝子治療市場において最も急速に成長している地域として台頭しており、2025年には年平均成長率（CAGR）20.12%を示すと予測されている",
+    "url": "https://straitsresearch.com/jp/report/gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "ベクター別に見ると、AAVセグメントは2025年に市場を牽引し、年平均成長率（CAGR）19.43%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年にはAAVセグメントが市場を席巻し、年平均成長率（CAGR）19.43%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の遺伝子治療市場において、心血管疾患分野は分析期間中に年平均成長率（CAGR）19.6%で最も速い成長が見込まれています",
+    "url": "https://straitsresearch.com/jp/report/gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "吸入投与分野は、分析期間中に16.9%という比較的緩やかな成長率にとどまると予想されます",
+    "url": "https://straitsresearch.com/jp/report/gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、予測期間中に年平均成長率（CAGR）20.12%で最も急速に成長する地域です",
+    "url": "https://straitsresearch.com/jp/report/gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "遺伝子治療市場に関する当社の調査レポートによると、市場は2025ー2035年の予測期間中に年間複利成長率（CAGR）22.9%で成長すると予想されています",
+    "url": "https://www.sdki.jp/reports/gene-therapy-market/116552",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025–2035",
+    "url": "https://www.sdki.jp/reports/gene-therapy-market/116552",
+    "pass": 3
+   },
+   {
+    "quote": "日本の遺伝子治療市場は、2025年の219百万人から2035年には873百万人に増加し、年間複利成長率（CAGR）13.6%で成長すると予測されています",
+    "url": "https://www.sdki.jp/reports/gene-therapy-market/116552",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025",
+    "url": "https://www.sdki.jp/reports/gene-therapy-market/116552",
+    "pass": 3
+   },
+   {
+    "quote": "成長率（2010",
+    "url": "https://www.sdki.jp/reports/gene-therapy-market/116552",
+    "pass": 3
+   },
+   {
+    "quote": "Novartisのキムリアの適用範囲が42%拡大",
+    "url": "https://www.sdki.jp/reports/gene-therapy-market/116552",
+    "pass": 3
+   },
+   {
+    "quote": "世界の細胞・遺伝子治療CDMOの市場規模は、2024年に43億1,000万米ドルと評価され、2033年には271億2,000万米ドルに達し、2025年から2033年までのCAGRは23.03%で成長すると予測されています",
+    "url": "https://www.gii.co.jp/report/grvi1842001-cell-gene-therapy-cdmo-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRは23.03%です",
+    "url": "https://www.gii.co.jp/report/grvi1842001-cell-gene-therapy-cdmo-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "に達し、2026年から2034年にかけて年平均成長率",
+    "url": "https://www.imarcgroup.com/report/ja/japan-cell-gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "（CAGR）11.40%",
+    "url": "https://www.imarcgroup.com/report/ja/japan-cell-gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場成長率（2026-2034）",
+    "url": "https://www.imarcgroup.com/report/ja/japan-cell-gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "• 高成長: 年平均成長率が高く、2030年ごろまでに数兆円市",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/synbio/pdf/001_22_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "AAV遺伝子治療市場規模と前年比成長率、2025年～2032年",
+    "url": "https://www.coherentmarketinsights.com/ja/AAV%E9%81%BA%E4%BC%9D%E5%AD%90%E6%B2%BB%E7%99%82%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "年間複合成長率（CAGR） が 25.5%",
+    "url": "https://www.coherentmarketinsights.com/ja/AAV%E9%81%BA%E4%BC%9D%E5%AD%90%E6%B2%BB%E7%99%82%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "10月2025日、ロンザグループ グローバルなライフサイエンス製造会社であるAGは、細胞および遺伝子治療ポートフォリオを拡大しました",
+    "url": "https://www.coherentmarketinsights.com/ja/AAV%E9%81%BA%E4%BC%9D%E5%AD%90%E6%B2%BB%E7%99%82%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間 2025〜2032 CAGR:",
+    "url": "https://www.coherentmarketinsights.com/ja/AAV%E9%81%BA%E4%BC%9D%E5%AD%90%E6%B2%BB%E7%99%82%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2025年から2032年にかけて、グローバルAAV遺伝子治療市場のCAGRが25.5%を投影する",
+    "url": "https://www.coherentmarketinsights.com/ja/AAV%E9%81%BA%E4%BC%9D%E5%AD%90%E6%B2%BB%E7%99%82%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "細胞・遺伝子治療（CGT）市場は、2023年の181億3000万ドルから2025年には253億7000万ドルに達し、前年比19％増という顕著な伸びを示す",
+    "url": "https://www.cryoport.com/ja/2025%E5%B9%B4%E3%81%AE%E6%A5%AD%E7%95%8C%E4%BA%88%E6%B8%AC%E3%83%88%E3%83%83%E3%83%9710/",
+    "pass": 3
+   },
+   {
+    "quote": "新規治療薬の申請件数は前年比で約30％増加し、2025年には過去最高の15件になると予想されている、",
+    "url": "https://www.cryoport.com/ja/2025%E5%B9%B4%E3%81%AE%E6%A5%AD%E7%95%8C%E4%BA%88%E6%B8%AC%E3%83%88%E3%83%83%E3%83%9710/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の細胞療法市場規模は、2025年には68億8000万米ドルと評価され、2026年の83億3000万米ドルから2034年には383億9000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は21.05%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/cell-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は最も速いペースで成長しており、年平均成長率（CAGR）は23.76%となっている",
+    "url": "https://straitsresearch.com/jp/report/cell-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "治療の種類に基づくと、同種細胞療法は22.65%という最も速い年平均成長率（CAGR）を記録すると予想されている",
+    "url": "https://straitsresearch.com/jp/report/cell-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（2025年～2034年）：21.05%",
+    "url": "https://straitsresearch.com/jp/report/cell-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "同種細胞療法分野は、2026年から2034年にかけて年平均成長率（CAGR）22.65%で成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/cell-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、予測期間中に年平均成長率（CAGR）23.76%で最も急速に成長する地域です",
+    "url": "https://straitsresearch.com/jp/report/cell-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Market Insights Inc.が発表した最新のレポートによると、市場は2026年の41億米ドルから2035年には336億米ドルに拡大し、予測期間中の年平均成長率（CAGR）は26.2%になると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR（2026～2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "2022年から2024年にかけて、市場は大幅に成長し、2022年の17億米ドルから2024年には26億米ドルに拡大しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "体外送達法は、分析期間中に26.4%の年平均成長率（CAGR）で成長すると予想されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "非ウイルスベクター部門の市場規模は2025年に3億7,230万米ドルとなり、予測期間中の年平均成長率（CAGR）は27.2%に達すると予想されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "腫瘍学部門は2025年に46.5%の市場シェアを占めて市場を支配し、2026年から2035年にかけて年平均成長率（CAGR）24.2%で成長すると予想されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "expected to expand at a notable CAGR of 18.7% from 2025 to 2034.",
+    "url": "https://www.biospace.com/press-releases/cell-and-gene-therapy-market-size-rapidly-approaching-117-46-billion-by-2034",
+    "pass": 3
+   },
+   {
+    "quote": "expected to expand at a notable CAGR of 19.2% from 2025 to 2034.",
+    "url": "https://www.biospace.com/press-releases/cell-and-gene-therapy-market-size-rapidly-approaching-117-46-billion-by-2034",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025-2034)",
+    "url": "https://www.biospace.com/press-releases/cell-and-gene-therapy-market-size-rapidly-approaching-117-46-billion-by-2034",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific (CAGR 19.2% 2025-2034)",
+    "url": "https://www.biospace.com/press-releases/cell-and-gene-therapy-market-size-rapidly-approaching-117-46-billion-by-2034",
+    "pass": 3
+   },
+   {
+    "quote": "at a CAGR of 18.8% from 2025 to 2034.",
+    "url": "https://www.biospace.com/press-releases/cell-and-gene-therapy-market-size-rapidly-approaching-117-46-billion-by-2034",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2025-2035",
+    "url": "https://www.towardshealthcare.com/insights/cell-and-gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The cell and gene therapy market size touched US$ 8.94 billion in 2025, with expectations of climbing to US$ 10.44 billion in 2026 and hitting US$ 47.18 billion by 2035, driven by a CAGR of 18.1% over the forecast period.",
+    "url": "https://www.towardshealthcare.com/insights/cell-and-gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Expected to maintain a CAGR of 18.1% from 2026 to 2035.",
+    "url": "https://www.towardshealthcare.com/insights/cell-and-gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. cell and gene therapy market is projected to grow from USD 4.09 billion in 2025 to around USD 20 billion by 2035 at a 17.2% CAGR.",
+    "url": "https://www.towardshealthcare.com/insights/cell-and-gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The North American cell and gene therapy market is set to grow from US$ 4.46 billion in 2025 to US$ 47.18 billion by 2035 at a CAGR of 17.1%.",
+    "url": "https://www.towardshealthcare.com/insights/cell-and-gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Europe’s cell and gene therapy market is $ 2.23 billion in 2025, $ 2.6 billion in 2026, and $ 11.83 billion by 2035, growing at 18.2% CAGR.",
+    "url": "https://www.towardshealthcare.com/insights/cell-and-gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "APAC cell and gene therapy market to Grow from USD 1.78 billion in 2025 to USD 11.74 billion by 2035 at 20.7% CAGR",
+    "url": "https://www.towardshealthcare.com/insights/cell-and-gene-therapy-market",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "細胞・遺伝子治療製造サービス市場 サイズとシェア 2024 to 2032",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "細胞治療セグメントは2023年に 60.6%の市場シェアを占めて市場をリードし、予測期間中も年平均成長率（CAGR）18.6%で優位性を維持すると見込まれている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "受託製造セグメントは2023年に大きな市場シェアを占め、2032年までに市場規模が213億米ドルに達すると見込まれます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "2023年には、バイオ医薬品企業が細胞・遺伝子治療製造サービス市場で69.4%の最大シェアを維持すると予想されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2023年、世界の細胞・遺伝子治療製造サービス市場で41%の市場シェアを占めて首位となり、分析期間中の年平均成長率（CAGR）は18.1%に達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "2023年、バイオ医薬品会社セグメントは、細胞および遺伝子治療製造サービス市場における69.4%のシェアを保有し、研究開発における重要な投資や、医薬品の発見と開発に関する広範な専門知識に起因しています.",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "一次調査は当社の調査手法の中核であり、分析上の知見全体の約80％を占めます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "データ収集・分析は当社の調査プロセスの重要な一部であり、調査手法全体の約20％を占めます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "遺伝子治療市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "遺伝子治療市場の規模、シェア、トレンド分析レポート：ベクター別（ウイルス性、非ウイルス性）、適応症別（癌、嚢胞性線維症、心疾患、糖尿病、血友病、エイズ、その他）、投与経路別（静脈内投与、吸入投与）、地域別（北米、欧州、アジア太平洋地域、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、2025年の市場シェアが53.98%で、遺伝子治療市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年に53.98%の収益シェアを獲得し、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "適応症別に見ると、がん分野が市場を牽引し、2025年には収益シェアが42%に達した",
+    "url": "https://straitsresearch.com/jp/report/gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "がん治療分野は、2025年の収益シェアが42%に達し、市場を牽引した",
+    "url": "https://straitsresearch.com/jp/report/gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米地域は2025年に53.98%の収益シェアを占め、市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には北米が市場を席巻し、53.98%のシェアを占めた",
+    "url": "https://straitsresearch.com/jp/report/gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "結核検査市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "CRISPR-Cas9遺伝子編集技術市場規模、シェア、2034年",
+    "url": "https://straitsresearch.com/jp/report/gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "細胞療法原料市場の規模、シェア、成長率、分析（2034年）",
+    "url": "https://straitsresearch.com/jp/report/gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "デング熱ワクチン市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "トランスダクション技術市場の規模、シェア、成長率、分析、2034年",
+    "url": "https://straitsresearch.com/jp/report/gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "遺伝子治療市場の傾向：世界規模、シェア、需要、主要メーカー｜市場展望調査 2025－2035年",
+    "url": "https://www.sdki.jp/reports/gene-therapy-market/116552",
+    "pass": 3
+   },
+   {
+    "quote": "遺伝子治療市場調査レポート、規模とシェア、成長機会、及び傾向洞察分析― ベクタータイプ別、適応症別、投与方法別、投与経路別、エンドユーザー別、及び地域別―世界市場の見通しと予測 2025－2035年",
+    "url": "https://www.sdki.jp/reports/gene-therapy-market/116552",
+    "pass": 3
+   },
+   {
+    "quote": "国内の遺伝子治療研究開発費の15%を占めました（2023年）",
+    "url": "https://www.sdki.jp/reports/gene-therapy-market/116552",
+    "pass": 3
+   },
+   {
+    "quote": "日本の遺伝子治療製造能力の20%を東京が占めています",
+    "url": "https://www.sdki.jp/reports/gene-therapy-market/116552",
+    "pass": 3
+   },
+   {
+    "quote": "日本の進行中の遺伝子治療パイプラインの12%を占めています",
+    "url": "https://www.sdki.jp/reports/gene-therapy-market/116552",
+    "pass": 3
+   },
+   {
+    "quote": "これらのうち、アデノ随伴ウイルスサブセグメントは、予測期間中に39%の市場シェアを占めると予想されています",
+    "url": "https://www.sdki.jp/reports/gene-therapy-market/116552",
+    "pass": 3
+   },
+   {
+    "quote": "腫瘍学のサブセグメントは、予測期間中に43%の市場シェアを占めると見込まれています",
+    "url": "https://www.sdki.jp/reports/gene-therapy-market/116552",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、予測期間中に 41% の市場シェアを占めると予想されています",
+    "url": "https://www.sdki.jp/reports/gene-therapy-market/116552",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツは22%を超える最大のシェアを占め、イギリスとフランスがそれに続いています",
+    "url": "https://www.sdki.jp/reports/gene-therapy-market/116552",
+    "pass": 3
+   },
+   {
+    "quote": "細胞・遺伝子治療CDMO市場 | 市場規模 シェア 動向分析 予測 2025～2033年まで",
+    "url": "https://www.gii.co.jp/report/grvi1842001-cell-gene-therapy-cdmo-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "細胞・遺伝子治療CDMOの世界市場：市場規模・シェア・動向分析 (相別・製品別・適応症別・地域別)、セグメント別予測 (2025年～2033年)",
+    "url": "https://www.gii.co.jp/report/grvi1842001-cell-gene-therapy-cdmo-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "細胞・遺伝子治療CDMO市場のシェア分析（2024年）",
+    "url": "https://www.gii.co.jp/report/grvi1842001-cell-gene-therapy-cdmo-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の細胞・遺伝子治療の市場規模、シェア、動向、予測治療タイプ、適応症、送達モード、エンドユーザー、地域別、2026-2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-cell-gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の4Kテレビ市場規模、シェア、動向、予測 技術、画面サイズ、エンドユーザー、地域別、2026-2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-cell-gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本ヘルスケア分野における3Dプリンティング市場規模、シェア、動向および予測 材料、技術、用途、エンドユーザー、地域別、2026年～2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-cell-gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、がん領域以外では他家細胞が半数以上(350件196件)を占める",
+    "url": "https://www.amed.go.jp/content/000062056.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "再生・細胞治療の上市品は自家細胞を用いた製品が約70%を占める",
+    "url": "https://www.amed.go.jp/content/000062056.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "他家細胞による開発品が半数以上(350件中196件)を占める",
+    "url": "https://www.amed.go.jp/content/000062056.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "細胞医療・遺伝子治療の地域別市場シェア（2024年, %）",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/synbio/pdf/001_22_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "AAV遺伝子治療市場 規模とシェアの分析 - 成長傾向と予測 (2026-2033) 分析",
+    "url": "https://www.coherentmarketinsights.com/ja/AAV%E9%81%BA%E4%BC%9D%E5%AD%90%E6%B2%BB%E7%99%82%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "AAV9 セグメントは、2025 年に世界の AAV 遺伝子治療市場シェアの",
+    "url": "https://www.coherentmarketinsights.com/ja/AAV%E9%81%BA%E4%BC%9D%E5%AD%90%E6%B2%BB%E7%99%82%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "中枢神経系セグメントは、2025 年に市場シェアの",
+    "url": "https://www.coherentmarketinsights.com/ja/AAV%E9%81%BA%E4%BC%9D%E5%AD%90%E6%B2%BB%E7%99%82%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "AAV9が2025年のAAV遺伝子治療市場で最も高いシェアを得られるのはなぜですか?",
+    "url": "https://www.coherentmarketinsights.com/ja/AAV%E9%81%BA%E4%BC%9D%E5%AD%90%E6%B2%BB%E7%99%82%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "AAV9セグメントは、2025年のグローバルAAV遺伝子治療市場のシェアの27.4%をキャプチャすることが期待されています",
+    "url": "https://www.coherentmarketinsights.com/ja/AAV%E9%81%BA%E4%BC%9D%E5%AD%90%E6%B2%BB%E7%99%82%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "神経障害セグメントは、2025年に35.6%のグローバルAAV遺伝子治療市場の最大のシェアを保持し、重要な非met医療ニーズと遺伝子治療技術の強力な治療の可能性によって駆動されます",
+    "url": "https://www.coherentmarketinsights.com/ja/AAV%E9%81%BA%E4%BC%9D%E5%AD%90%E6%B2%BB%E7%99%82%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "中枢神経系は、中枢神経系(CNS)障害が複雑で重要なため、2025年の市場シェアの32.1%を保持するように計画され、革新的な治療ソリューションを必要とする可能性があります",
+    "url": "https://www.coherentmarketinsights.com/ja/AAV%E9%81%BA%E4%BC%9D%E5%AD%90%E6%B2%BB%E7%99%82%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "北アメリカ地域は、2025年に39.5%のシェアを持つ市場をリードし、主に強力な医療インフラ、広大な研究開発、民間や政府のセクターによる大規模な投資によって調達されています",
+    "url": "https://www.coherentmarketinsights.com/ja/AAV%E9%81%BA%E4%BC%9D%E5%AD%90%E6%B2%BB%E7%99%82%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "ベクトルセロタイプでは、AAV9は2025年の市場収益のシェアを支配すると推定されます",
+    "url": "https://www.coherentmarketinsights.com/ja/AAV%E9%81%BA%E4%BC%9D%E5%AD%90%E6%B2%BB%E7%99%82%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "細胞療法市場の規模、シェア、成長、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/cell-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "細胞療法市場の規模、シェア、トレンド分析レポート：治療タイプ別（同種療法、自家療法、非幹細胞療法）、治療領域別（腫瘍学、心血管疾患、筋骨格系疾患、皮膚科、その他）、製造業者別（バイオ医薬品・バイオテクノロジー企業、製薬会社、CDMO/CMO、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/cell-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年に市場シェア57.35%を占め、細胞療法市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/cell-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は世界市場において圧倒的なシェアを占め、2025年には57.35%のシェアを占める見込みである",
+    "url": "https://straitsresearch.com/jp/report/cell-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "用途別に見ると、2025年には腫瘍学分野が38.17%と最大の市場シェアを占めると予測されている",
+    "url": "https://straitsresearch.com/jp/report/cell-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "腫瘍学分野は、2025年時点で収益シェア38.17%を占め、市場を牽引する存在となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/cell-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米地域は2025年に収益シェア57.35%を占め、市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/cell-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年に57.35%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/cell-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "結核検査市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/cell-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "CRISPR-Cas9遺伝子編集技術市場規模、シェア、2034年",
+    "url": "https://straitsresearch.com/jp/report/cell-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "細胞療法原料市場の規模、シェア、成長率、分析（2034年）",
+    "url": "https://straitsresearch.com/jp/report/cell-therapy-market",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "細胞・遺伝子治療製造サービス業界で事業を展開する主な企業は以下のとおりです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業と傾向の戦略的導入",
+    "url": "https://www.sdki.jp/reports/gene-therapy-market/116552",
+    "pass": 3
+   },
+   {
+    "quote": "遺伝子治療事業の推進に役立った主要企業とその主要戦略は以下のとおりです:",
+    "url": "https://www.sdki.jp/reports/gene-therapy-market/116552",
+    "pass": 3
+   },
+   {
+    "quote": "Novartis AG、 bluebird bio、CRISPR Therapeutics、 Beam Therapeutics、 Benitec Biopharmaなどが、世界の遺伝子治療市場で活動している主要企業です",
+    "url": "https://www.sdki.jp/reports/gene-therapy-market/116552",
+    "pass": 3
+   },
+   {
+    "quote": "当社の調査レポートによると、遺伝子治療市場において日本国内で事業を展開している主要企業には、Nipro Corporation、Terumo BCT、 Anges Inc.、Aurion Biotechなどが挙げられます",
+    "url": "https://www.sdki.jp/reports/gene-therapy-market/116552",
+    "pass": 3
+   },
+   {
+    "quote": "細胞・遺伝子治療CDMO市場における主要企業はどこですか？",
+    "url": "https://www.gii.co.jp/report/grvi1842001-cell-gene-therapy-cdmo-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "競争環境は、利害関係者が競争環境を理解することを可能にし、市場における主要企業の現在のポジションについての洞察を提供します",
+    "url": "https://www.imarcgroup.com/report/ja/japan-cell-gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場における主要企業は、ノバルティスAG、アムジェン社、ベリセル社、ギリアド・サイエンシズ社である",
+    "url": "https://straitsresearch.com/jp/report/cell-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "遺伝子治療市場の主要企業には、ノバルティス、サレプタ・セラピューティクス、クリスタル・バイオテック、バーテックス・ファーマシューティカルズ、フェリング・ファーマシューティカルズなどがあります",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Novartis、Sarepta Therapeutics、Krystal Biotech、Vertex Pharmaceuticals、Ferring Pharmaceuticalsなどの主要企業は、遺伝子治療業界で合計約45%の市場シェアを占めています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "遺伝子治療業界で事業を展開する主な企業は以下のとおりです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Novartisは遺伝子治療市場における主要企業であり、約20.5の高い市場シェアを有しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Vertex Pharmaceuticalsは遺伝子治療業界の主要企業であり、鎌状赤血球症やβサラセミアなどの遺伝性血液疾患に対する革新的な治療法に注力しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "遺伝子治療市場における主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "NextGen: Top Startups to Watch",
+    "url": "https://www.biospace.com/press-releases/cell-and-gene-therapy-market-size-rapidly-approaching-117-46-billion-by-2034",
+    "pass": 3
+   },
+   {
+    "quote": "cross-border collaborations are driving a highly competitive landscape.",
+    "url": "https://www.biospace.com/press-releases/cell-and-gene-therapy-market-size-rapidly-approaching-117-46-billion-by-2034",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players",
+    "url": "https://www.towardshealthcare.com/insights/cell-and-gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Europe cell and gene therapy market is expanding due to increased government spending, supportive regulations, and rising demand for advanced therapies, with key players including biotech firms, pharmaceutical companies, and academic institutions. The growth is further fueled by the popularity of CAR-T cell therapies, backed by EMA approvals and funding initiatives like Horizon Europe.",
+    "url": "https://www.towardshealthcare.com/insights/cell-and-gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The cell and gene therapy market has experienced remarkable growth and progress in recent years, holding immense potential for transforming healthcare with personalized and targeted therapies. Several key players dominate the competitive landscape in this field. To gain a larger share of the market, players are using strategies like investments, alliances, acquisitions, and mergers.",
+    "url": "https://www.towardshealthcare.com/insights/cell-and-gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Cell and Gene Therapy Market Size, Key Companies, Company Market Share, Patient Volume, Treatment Adoption Rates, Pricing Analysis, Regulatory Landscape, Competitive Positioning, and Demand Forecast",
+    "url": "https://www.precedenceresearch.com/cell-and-gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players:",
+    "url": "https://www.precedenceresearch.com/cell-and-gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players",
+    "url": "https://www.precedenceresearch.com/cell-and-gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Other Major Key Players",
+    "url": "https://www.precedenceresearch.com/cell-and-gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 4: Who are the top key players operating in the cell and gene therapy market",
+    "url": "https://www.precedenceresearch.com/cell-and-gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The key players operating in the cell and gene therapy market are Alnylam Pharmaceuticals Inc., Amgen Inc., Biogen Inc., CORESTEM Inc., Dendreon Pharmaceuticals LLC., Helixmith Co. Ltd., JCR Pharmaceuticals Co. Ltd., Kolon TissueGene Inc., Novartis AG, Pfizer Inc. and Others.",
+    "url": "https://www.precedenceresearch.com/cell-and-gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players operating in the cell and gene therapy manufacturing market are undertaking various initiatives to strengthen their market presence and increase the reach of their products and services. Strategies such as expansion activities and partnerships play a key role in propelling market growth.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cell-gene-therapy-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study on the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cell-gene-therapy-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cell-gene-therapy-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cell-gene-therapy-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the cell and gene therapy manufacturing market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cell-gene-therapy-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some key players in the cell & gene therapy manufacturing market are Thermo Fisher Scientific, Lonza AG, Fujifilm, Bluebird Bio Inc., Samsung Biologics, Takara Bio Inc., Catalent Inc., and Merck KGaA.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cell-gene-therapy-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "APAC Cell and Gene Therapy Market Size, Top Key Players and Trends with Growth",
+    "url": "https://www.towardshealthcare.com/insights/apac-cell-and-gene-therapy-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players",
+    "url": "https://www.towardshealthcare.com/insights/apac-cell-and-gene-therapy-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "In September 2025, Japan External Trade Organization (JETRO) launched its \"Regenerative Medicine/Cell and Gene Therapy Startups for Japan Entry Acceleration Program.\"",
+    "url": "https://www.towardshealthcare.com/insights/apac-cell-and-gene-therapy-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players:",
+    "url": "https://www.towardshealthcare.com/insights/apac-cell-and-gene-therapy-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.towardshealthcare.com/insights/apac-cell-and-gene-therapy-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies and Their contributions and offerings",
+    "url": "https://www.towardshealthcare.com/insights/apac-cell-and-gene-therapy-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "Question 3: Who are the key players in the APAC cell and gene therapy market?",
+    "url": "https://www.towardshealthcare.com/insights/apac-cell-and-gene-therapy-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "Some key players include JW Therapeutics, Legend Biotech, CARsgen Therapeutics, Takeda Pharmaceutical Company, and Daiichi Sankyo.",
+    "url": "https://www.towardshealthcare.com/insights/apac-cell-and-gene-therapy-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/reports/cell-and-gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Worldwide Top Key Players in The Cell and Gene Therapy Market Include",
+    "url": "https://www.sphericalinsights.com/reports/cell-and-gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "NextGen: Top Startups to Watch",
+    "url": "https://www.biospace.com/press-releases/cell-and-gene-therapy-market-size-expected-to-hit-usd-119-30-billion-by-2034",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company ranking, competitive landscape, growth",
+    "url": "https://www.biospace.com/press-releases/cell-and-gene-therapy-market-size-expected-to-hit-usd-119-30-billion-by-2034",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.biospace.com/press-releases/cell-and-gene-therapy-market-size-expected-to-hit-usd-119-30-billion-by-2034",
+    "pass": 3
+   },
+   {
+    "quote": "biotech and pharmaceutical value chain, empowering startups, global",
+    "url": "https://www.biospace.com/press-releases/cell-and-gene-therapy-market-size-expected-to-hit-usd-119-30-billion-by-2034",
+    "pass": 3
+   },
+   {
+    "quote": "Startups & Academia",
+    "url": "https://www.rootsanalysis.com/reports/cell-and-gene-therapy-cros-market/230.html",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape and Partnerships Activity",
+    "url": "https://www.rootsanalysis.com/reports/cell-and-gene-therapy-cros-market/230.html",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Involved in Cell and Gene Therapy CRO Market",
+    "url": "https://www.rootsanalysis.com/reports/cell-and-gene-therapy-cros-market/230.html",
+    "pass": 3
+   },
+   {
+    "quote": "Is Roots Analysis affiliated with the companies profiled in this report?",
+    "url": "https://www.rootsanalysis.com/reports/cell-and-gene-therapy-cros-market/230.html",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Startups, “Top Gene Therapy Companies,”",
+    "url": "https://www.biopharminternational.com/view/growth-in-cell-and-gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "MedicalStartups.org",
+    "url": "https://www.biopharminternational.com/view/growth-in-cell-and-gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/gene-therapy-market-8399",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.marketresearchfuture.com/reports/gene-therapy-market-8399",
+    "pass": 3
+   },
+   {
+    "quote": "The competitive landscape is characterized by significant collaborations between biotech firms and academic institutions, fostering innovation. Canada also plays a vital role, with increasing investments in gene therapy research and development, further solidifying North America's position as a leader in this field.",
+    "url": "https://www.marketresearchfuture.com/reports/gene-therapy-market-8399",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players and Competitive Insights",
+    "url": "https://www.marketresearchfuture.com/reports/gene-therapy-market-8399",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies in the Gene Therapy Market include",
+    "url": "https://www.marketresearchfuture.com/reports/gene-therapy-market-8399",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, and Trends",
+    "url": "https://www.marketresearchfuture.com/reports/gene-therapy-market-8399",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/gene-therapy-market-8399",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "先進分子治療における取引活動は減速の兆しを見せており、2025年初頭には資金調達ラウンド、戦略的提携、共同契約の件数が減少した",
+    "url": "https://straitsresearch.com/jp/report/gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "資金調達およびIR（インベスター・リレーションズ） 3",
+    "url": "https://firm.or.jp/wp-content/uploads/2025/01/Cell-Gene-Therapy-Development-in-Japan-Report-%E5%92%8C%E8%A8%B3%E5%8F%82%E8%80%83%E3%83%BC%E6%9C%80%E7%B5%82%E7%89%88.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "9. (a) 臨床試験の実施に最も投資を見込む地域はどこですか？［計画投資額",
+    "url": "https://firm.or.jp/wp-content/uploads/2025/01/Cell-Gene-Therapy-Development-in-Japan-Report-%E5%92%8C%E8%A8%B3%E5%8F%82%E8%80%83%E3%83%BC%E6%9C%80%E7%B5%82%E7%89%88.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【資料22】 畠構成員 提出資料",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/synbio/pdf/001_22_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "billion in funding since 2020, led by increased government R&D spending in",
+    "url": "https://www.biospace.com/press-releases/cell-and-gene-therapy-market-size-rapidly-approaching-117-46-billion-by-2034",
+    "pass": 3
+   },
+   {
+    "quote": "Biopharma VC Funding in Q2 Reaches Highest Quarterly Level Since 2022",
+    "url": "https://www.biospace.com/press-releases/cell-and-gene-therapy-market-size-rapidly-approaching-117-46-billion-by-2034",
+    "pass": 3
+   },
+   {
+    "quote": "of research across all stages of development, including preclinical through preregistration. In the field of gene and cell therapy, there were more than 1,300 candidates reported in development specifically for oncology in 2021. This highlights the significant focus and investment in developing innovative therapies to address cancer and improve patient outcomes.",
+    "url": "https://www.towardshealthcare.com/insights/cell-and-gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The growing demand for cell and gene therapy products raises investment from both the government and private organizations. In 2023, call and gene therapy developers raised $3.5 billion across 65 deals.",
+    "url": "https://www.towardshealthcare.com/insights/cell-and-gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": ", with both major global companies and emerging start-ups pouring resources into advanced therapies like cell, gene, and gene-modifying treatments. In 2018 alone, global investment in these advanced therapies reached about $13 billion. The following year, 19 major mergers and acquisitions in the cell and gene therapy (CGT) space were completed, totaling over $156 billion.",
+    "url": "https://www.towardshealthcare.com/insights/cell-and-gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The musculoskeletal/orthopedic disorders segment held 21.24% of the market share in 2025. It drives market growth by creating high demand for regenerative treatments of debilitating, chronic conditions. These therapies offer targeted repair of damaged tissues, replacing traditional surgery. Rising aging populations and injuries significantly boost research investments.",
+    "url": "https://www.towardshealthcare.com/insights/cell-and-gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": ". China has also made significant investments in the field, launching the Made in China 2025 initiative to promote the development of innovative therapies.",
+    "url": "https://www.towardshealthcare.com/insights/cell-and-gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Saudi Arabia is strengthening the cell and gene therapy market through Vision 2030 healthcare transformation initiatives and increased biomedical investments. Government funding supports advanced research centers and specialized genomic medicine programs. Growing partnerships with international biotechnology companies improve technology transfer.",
+    "url": "https://www.towardshealthcare.com/insights/cell-and-gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The acquisitions and partnerships associated with companies engaged in the cell and gene therapy industry also signify the growing investments in the sector. In July 2025, Eli Lilly and Company, a global",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cell-gene-therapy-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Expansion: Eventual growth is impacted by the continuous R&D investments, supportive regulations, and expanded international collaborations. Cell Therapies and Teijin (Australia and Japan) collaborated in October 2025 for the development of a more robust CGT infrastructure in the Asia-Pacific region.",
+    "url": "https://www.towardshealthcare.com/insights/apac-cell-and-gene-therapy-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "Major Investors: In May 2025, the Singapore-based gene therapy developer raised a $45 million Series B round to emphasize therapies for cardiovascular diseases.",
+    "url": "https://www.towardshealthcare.com/insights/apac-cell-and-gene-therapy-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "By capturing nearly 70% share, the viral vectors segment led the APAC cell and gene therapy market in 2024. Expanded investments in healthcare and R&D, the growth of gene and cell therapy",
+    "url": "https://www.towardshealthcare.com/insights/apac-cell-and-gene-therapy-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "application for NVC-001, an AAV vector-based gene therapy intended to treat",
+    "url": "https://www.biospace.com/press-releases/cell-and-gene-therapy-market-size-expected-to-hit-usd-119-30-billion-by-2034",
+    "pass": 3
+   },
+   {
+    "quote": "Biopharma VC Funding in Q2 Reaches Highest Quarterly Level Since 2022",
+    "url": "https://www.biospace.com/press-releases/cell-and-gene-therapy-market-size-expected-to-hit-usd-119-30-billion-by-2034",
+    "pass": 3
+   },
+   {
+    "quote": "Many bio/pharma companies are re-considering their commercialization strategies and have re-invested in R&D to standardize vector productions and purification, implement forward engineering techniques in cell therapies, and improve cryopreservation of cellular samples as well as exploring the development of off-the-shelf allogeneic cell solutions (2).",
+    "url": "https://www.biopharminternational.com/view/growth-in-cell-and-gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "According to WHO data, noncommunicable diseases accounted for approximately 41 million deaths annually worldwide, highlighting the increasing need for advanced treatment approaches. The growing global disease burden is encouraging investment in innovative gene therapies designed to provide long-term and targeted therapeutic benefits.",
+    "url": "https://www.marketresearchfuture.com/reports/gene-therapy-market-8399",
+    "pass": 3
+   },
+   {
+    "quote": "North America accounted for the largest share of the global Gene Therapy Market size, reaching USD 2.8 billion in 2024. The region benefits from robust investment in research and development, a strong regulatory framework, and high demand for innovative therapies.",
+    "url": "https://www.marketresearchfuture.com/reports/gene-therapy-market-8399",
+    "pass": 3
+   },
+   {
+    "quote": "Europe is the second-largest market for gene therapy, holding approximately 30% of the global market share. The region is witnessing significant growth driven by advancements in regulatory frameworks, such as the European Medicines Agency's (EMA) guidelines for gene therapies. These regulations are designed to streamline the approval process, encouraging innovation and investment in the sector.",
+    "url": "https://www.marketresearchfuture.com/reports/gene-therapy-market-8399",
+    "pass": 3
+   },
+   {
+    "quote": "Between 2018 and 2019, public and private institutions in the U.S. and Europe invested more than $15 billion in cell and gene therapies, bolstering product development pipelines.",
+    "url": "https://www.cellandgene.com/doc/catalysts-of-change-how-the-cell-and-gene-therapy-market-has-evolved-0001",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.fiercebiotech.com/biotech/kyverna-overshoots-even-its-raised-ipo-expectations-bringing-319m-oversized-offering",
+    "url": "https://www.cellandgene.com/doc/catalysts-of-change-how-the-cell-and-gene-therapy-market-has-evolved-0001",
+    "pass": 3
+   },
+   {
+    "quote": "https://synapse.patsnap.com/article/arsenalbio-secures-325m-series-c-funding-with-nvidia-regeneron-support",
+    "url": "https://www.cellandgene.com/doc/catalysts-of-change-how-the-cell-and-gene-therapy-market-has-evolved-0001",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. cell and gene therapy market was valued at USD 7.82 billion in 2025 and is projected to hit around USD 59.57 billion by 2035, growing at a CAGR of 22.51% during the forecast period 2026 to 2035. The growth of the market is attributed to the rising demand for personalized therapies and increasing investments in cell and gene therapy R&D.",
+    "url": "https://www.novaoneadvisor.com/report/us-cell-and-gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. cell and gene therapy market was valued at USD 7.82 billion in 2025 and is expected to grow to approximately USD 59.57 billion by 2035, with a CAGR of 22.51% during the forecast period from 2026 to 2035. This growth is driven by increasing demand for personalized therapies, breakthroughs in gene editing technologies, and rising investment in cell and gene therapy research.",
+    "url": "https://www.novaoneadvisor.com/report/us-cell-and-gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Biopharma VC Funding in Q2 Reaches Highest Quarterly Level Since 2022",
+    "url": "https://www.biospace.com/press-releases/cell-and-gene-therapy-clinical-trials-market-accelerates-from-usd-12-47-billion-in-2025-to-usd-45-31-billion-by-2034",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "細胞 ・ 遺伝子治療 製造サービス 市場規模 、2032年 — 細胞 ・ 遺伝子治療 製造サービス 市場規模 、2032年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > cell-gen...",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本における 細胞 ・ 遺伝子治療 の開発、製造、商業化に関する ... — 日本における 細胞 ・ 遺伝子治療 の開発、製造、商業化に関する ... 再生医療イノベーションフォーラム PDF https://firm.or.jp > wp-content > uploads > 2025/01",
+    "url": "https://firm.or.jp/wp-content/uploads/2025/01/Cell-Gene-Therapy-Development-in-Japan-Report-%E5%92%8C%E8%A8%B3%E5%8F%82%E8%80%83%E3%83%BC%E6%9C%80%E7%B5%82%E7%89%88.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本の 細胞 ・ 遺伝子治療市場 規模 & 2034年見通し — 日本の 細胞 ・ 遺伝子治療市場 規模 & 2034年見通し IMARC Group https://www.imarcgroup.com > Healthcare",
+    "url": "https://www.imarcgroup.com/report/ja/japan-cell-gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "細胞 ・ 遺伝子治療 の次： 2025 年の業界予測トップ10 — 細胞 ・ 遺伝子治療 の次： 2025 年の業界予測トップ10 Cryoport Systems https://www.cryoport.com > 2025年の業界予測トップ10",
+    "url": "https://www.cryoport.com/ja/2025%E5%B9%B4%E3%81%AE%E6%A5%AD%E7%95%8C%E4%BA%88%E6%B8%AC%E3%83%88%E3%83%83%E3%83%9710/",
+    "pass": 3
+   },
+   {
+    "quote": "Cell And Gene Therapy Manufacturing Market Report, 2033 — Cell And Gene Therapy Manufacturing Market Report, 2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cell-gene-therapy-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "APAC Cell and Gene Therapy Market to Grow at 20.7% CAGR ... — APAC Cell and Gene Therapy Market to Grow at 20.7% CAGR ... Towards Healthcare https://www.towardshealthcare.com > ...",
+    "url": "https://www.towardshealthcare.com/insights/apac-cell-and-gene-therapy-market-sizing",
+    "pass": 3
+   },
+   {
+    "quote": "Cell and Gene Therapy Market Size , Forecast, Price to 2035 — Cell and Gene Therapy Market Size , Forecast, Price to 2035 Spherical Insights https://www.sphericalinsights.com > c...",
+    "url": "https://www.sphericalinsights.com/reports/cell-and-gene-therapy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top 50 Cell and Gene Therapy Companies in 2026 — Top 50 Cell and Gene Therapy Companies in 2026 Towards Healthcare https://www.towardshealthcare.com > ...",
+    "url": "https://www.towardshealthcare.com/key-insights/top-cell-gene-therapy-companies",
+    "pass": 3
+   },
+   {
+    "quote": "US Cell and Gene Therapy Market Size 2025 to 2035 — US Cell and Gene Therapy Market Size 2025 to 2035 Nova One Advisor https://www.novaoneadvisor.com > u...",
+    "url": "https://www.novaoneadvisor.com/report/us-cell-and-gene-therapy-market",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "18.9",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market",
+    "quote": "細胞・遺伝子治療製造サービス市場の規模は、2023年に 59億米ドルに達し、2024年から2032年にかけて年平均成長率（CAGR）18.9%で成長すると予測されている"
+   },
+   {
+    "value": "18.6",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market",
+    "quote": "細胞治療セグメントは2023年に 60.6%の市場シェアを占めて市場をリードし、予測期間中も年平均成長率（CAGR）18.6%で優位性を維持すると見込まれている"
+   },
+   {
+    "value": "18.1",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market",
+    "quote": "北米は2023年、世界の細胞・遺伝子治療製造サービス市場で41%の市場シェアを占めて首位となり、分析期間中の年平均成長率（CAGR）は18.1%に達すると予測されています"
+   },
+   {
+    "value": "18.78",
+    "url": "https://straitsresearch.com/jp/report/gene-therapy-market",
+    "quote": "世界の遺伝子治療市場規模は、2025年には101億4000万米ドルと評価され、2026年の120億4000万米ドルから2034年には477億2000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は18.78%となる見込みです"
+   },
+   {
+    "value": "20.12",
+    "url": "https://straitsresearch.com/jp/report/gene-therapy-market",
+    "quote": "アジア太平洋地域は遺伝子治療市場において最も急速に成長している地域として台頭しており、2025年には年平均成長率（CAGR）20.12%を示すと予測されている"
+   },
+   {
+    "value": "19.43",
+    "url": "https://straitsresearch.com/jp/report/gene-therapy-market",
+    "quote": "ベクター別に見ると、AAVセグメントは2025年に市場を牽引し、年平均成長率（CAGR）19.43%で成長すると予測されている"
+   },
+   {
+    "value": "19.6",
+    "url": "https://straitsresearch.com/jp/report/gene-therapy-market",
+    "quote": "世界の遺伝子治療市場において、心血管疾患分野は分析期間中に年平均成長率（CAGR）19.6%で最も速い成長が見込まれています"
+   },
+   {
+    "value": "22.9",
+    "url": "https://www.sdki.jp/reports/gene-therapy-market/116552",
+    "quote": "遺伝子治療市場に関する当社の調査レポートによると、市場は2025ー2035年の予測期間中に年間複利成長率（CAGR）22.9%で成長すると予想されています"
+   },
+   {
+    "value": "13.6",
+    "url": "https://www.sdki.jp/reports/gene-therapy-market/116552",
+    "quote": "日本の遺伝子治療市場は、2025年の219百万人から2035年には873百万人に増加し、年間複利成長率（CAGR）13.6%で成長すると予測されています"
+   },
+   {
+    "value": "23.03",
+    "url": "https://www.gii.co.jp/report/grvi1842001-cell-gene-therapy-cdmo-market-size-share-trends.html",
+    "quote": "世界の細胞・遺伝子治療CDMOの市場規模は、2024年に43億1,000万米ドルと評価され、2033年には271億2,000万米ドルに達し、2025年から2033年までのCAGRは23.03%で成長すると予測されています"
+   },
+   {
+    "value": "11.40",
+    "url": "https://www.imarcgroup.com/report/ja/japan-cell-gene-therapy-market",
+    "quote": "（CAGR）11.40%"
+   },
+   {
+    "value": "25.5",
+    "url": "https://www.coherentmarketinsights.com/ja/AAV%E9%81%BA%E4%BC%9D%E5%AD%90%E6%B2%BB%E7%99%82%E5%B8%82%E5%A0%B4",
+    "quote": "年間複合成長率（CAGR） が 25.5%"
+   },
+   {
+    "value": "21.05",
+    "url": "https://straitsresearch.com/jp/report/cell-therapy-market",
+    "quote": "世界の細胞療法市場規模は、2025年には68億8000万米ドルと評価され、2026年の83億3000万米ドルから2034年には383億9000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は21.05%となる見込みです"
+   },
+   {
+    "value": "23.76",
+    "url": "https://straitsresearch.com/jp/report/cell-therapy-market",
+    "quote": "アジア太平洋地域は最も速いペースで成長しており、年平均成長率（CAGR）は23.76%となっている"
+   },
+   {
+    "value": "22.65",
+    "url": "https://straitsresearch.com/jp/report/cell-therapy-market",
+    "quote": "同種細胞療法分野は、2026年から2034年にかけて年平均成長率（CAGR）22.65%で成長すると予測されています"
+   },
+   {
+    "value": "26.2",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gene-therapy-market",
+    "quote": "Global Market Insights Inc.が発表した最新のレポートによると、市場は2026年の41億米ドルから2035年には336億米ドルに拡大し、予測期間中の年平均成長率（CAGR）は26.2%になると予測されています"
+   },
+   {
+    "value": "27.2",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gene-therapy-market",
+    "quote": "非ウイルスベクター部門の市場規模は2025年に3億7,230万米ドルとなり、予測期間中の年平均成長率（CAGR）は27.2%に達すると予想されています"
+   },
+   {
+    "value": "24.2",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gene-therapy-market",
+    "quote": "腫瘍学部門は2025年に46.5%の市場シェアを占めて市場を支配し、2026年から2035年にかけて年平均成長率（CAGR）24.2%で成長すると予想されています"
+   },
+   {
+    "value": "18.7",
+    "url": "https://www.biospace.com/press-releases/cell-and-gene-therapy-market-size-rapidly-approaching-117-46-billion-by-2034",
+    "quote": "expected to expand at a notable CAGR of 18.7% from 2025 to 2034."
+   },
+   {
+    "value": "19.2",
+    "url": "https://www.biospace.com/press-releases/cell-and-gene-therapy-market-size-rapidly-approaching-117-46-billion-by-2034",
+    "quote": "expected to expand at a notable CAGR of 19.2% from 2025 to 2034."
+   },
+   {
+    "value": "18.8",
+    "url": "https://www.biospace.com/press-releases/cell-and-gene-therapy-market-size-rapidly-approaching-117-46-billion-by-2034",
+    "quote": "at a CAGR of 18.8% from 2025 to 2034."
+   },
+   {
+    "value": "18.1",
+    "url": "https://www.towardshealthcare.com/insights/cell-and-gene-therapy-market",
+    "quote": "The cell and gene therapy market size touched US$ 8.94 billion in 2025, with expectations of climbing to US$ 10.44 billion in 2026 and hitting US$ 47.18 billion by 2035, driven by a CAGR of 18.1% over the forecast period."
+   },
+   {
+    "value": "17.1",
+    "url": "https://www.towardshealthcare.com/insights/cell-and-gene-therapy-market",
+    "quote": "The North American cell and gene therapy market is set to grow from US$ 4.46 billion in 2025 to US$ 47.18 billion by 2035 at a CAGR of 17.1%."
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "60.6",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market",
+    "quote": "細胞治療セグメントは2023年に 60.6%の市場シェアを占めて市場をリードし、予測期間中も年平均成長率（CAGR）18.6%で優位性を維持すると見込まれている"
+   },
+   {
+    "value": "18.6",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market",
+    "quote": "細胞治療セグメントは2023年に 60.6%の市場シェアを占めて市場をリードし、予測期間中も年平均成長率（CAGR）18.6%で優位性を維持すると見込まれている"
+   },
+   {
+    "value": "69.4",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market",
+    "quote": "2023年には、バイオ医薬品企業が細胞・遺伝子治療製造サービス市場で69.4%の最大シェアを維持すると予想されています"
+   },
+   {
+    "value": "41",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market",
+    "quote": "北米は2023年、世界の細胞・遺伝子治療製造サービス市場で41%の市場シェアを占めて首位となり、分析期間中の年平均成長率（CAGR）は18.1%に達すると予測されています"
+   },
+   {
+    "value": "18.1",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market",
+    "quote": "北米は2023年、世界の細胞・遺伝子治療製造サービス市場で41%の市場シェアを占めて首位となり、分析期間中の年平均成長率（CAGR）は18.1%に達すると予測されています"
+   },
+   {
+    "value": "80",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market",
+    "quote": "一次調査は当社の調査手法の中核であり、分析上の知見全体の約80％を占めます"
+   },
+   {
+    "value": "20",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market",
+    "quote": "データ収集・分析は当社の調査プロセスの重要な一部であり、調査手法全体の約20％を占めます"
+   },
+   {
+    "value": "53.98",
+    "url": "https://straitsresearch.com/jp/report/gene-therapy-market",
+    "quote": "北米は、2025年の市場シェアが53.98%で、遺伝子治療市場を牽引しました"
+   },
+   {
+    "value": "42",
+    "url": "https://straitsresearch.com/jp/report/gene-therapy-market",
+    "quote": "適応症別に見ると、がん分野が市場を牽引し、2025年には収益シェアが42%に達した"
+   },
+   {
+    "value": "15",
+    "url": "https://www.sdki.jp/reports/gene-therapy-market/116552",
+    "quote": "国内の遺伝子治療研究開発費の15%を占めました（2023年）"
+   },
+   {
+    "value": "20",
+    "url": "https://www.sdki.jp/reports/gene-therapy-market/116552",
+    "quote": "日本の遺伝子治療製造能力の20%を東京が占めています"
+   },
+   {
+    "value": "12",
+    "url": "https://www.sdki.jp/reports/gene-therapy-market/116552",
+    "quote": "日本の進行中の遺伝子治療パイプラインの12%を占めています"
+   },
+   {
+    "value": "39",
+    "url": "https://www.sdki.jp/reports/gene-therapy-market/116552",
+    "quote": "これらのうち、アデノ随伴ウイルスサブセグメントは、予測期間中に39%の市場シェアを占めると予想されています"
+   },
+   {
+    "value": "43",
+    "url": "https://www.sdki.jp/reports/gene-therapy-market/116552",
+    "quote": "腫瘍学のサブセグメントは、予測期間中に43%の市場シェアを占めると見込まれています"
+   },
+   {
+    "value": "41",
+    "url": "https://www.sdki.jp/reports/gene-therapy-market/116552",
+    "quote": "北米は、予測期間中に 41% の市場シェアを占めると予想されています"
+   },
+   {
+    "value": "22",
+    "url": "https://www.sdki.jp/reports/gene-therapy-market/116552",
+    "quote": "ドイツは22%を超える最大のシェアを占め、イギリスとフランスがそれに続いています"
+   },
+   {
+    "value": "70",
+    "url": "https://www.amed.go.jp/content/000062056.pdf",
+    "quote": "再生・細胞治療の上市品は自家細胞を用いた製品が約70%を占める"
+   },
+   {
+    "value": "27.4",
+    "url": "https://www.coherentmarketinsights.com/ja/AAV%E9%81%BA%E4%BC%9D%E5%AD%90%E6%B2%BB%E7%99%82%E5%B8%82%E5%A0%B4",
+    "quote": "AAV9セグメントは、2025年のグローバルAAV遺伝子治療市場のシェアの27.4%をキャプチャすることが期待されています"
+   },
+   {
+    "value": "35.6",
+    "url": "https://www.coherentmarketinsights.com/ja/AAV%E9%81%BA%E4%BC%9D%E5%AD%90%E6%B2%BB%E7%99%82%E5%B8%82%E5%A0%B4",
+    "quote": "神経障害セグメントは、2025年に35.6%のグローバルAAV遺伝子治療市場の最大のシェアを保持し、重要な非met医療ニーズと遺伝子治療技術の強力な治療の可能性によって駆動されます"
+   },
+   {
+    "value": "32.1",
+    "url": "https://www.coherentmarketinsights.com/ja/AAV%E9%81%BA%E4%BC%9D%E5%AD%90%E6%B2%BB%E7%99%82%E5%B8%82%E5%A0%B4",
+    "quote": "中枢神経系は、中枢神経系(CNS)障害が複雑で重要なため、2025年の市場シェアの32.1%を保持するように計画され、革新的な治療ソリューションを必要とする可能性があります"
+   },
+   {
+    "value": "39.5",
+    "url": "https://www.coherentmarketinsights.com/ja/AAV%E9%81%BA%E4%BC%9D%E5%AD%90%E6%B2%BB%E7%99%82%E5%B8%82%E5%A0%B4",
+    "quote": "北アメリカ地域は、2025年に39.5%のシェアを持つ市場をリードし、主に強力な医療インフラ、広大な研究開発、民間や政府のセクターによる大規模な投資によって調達されています"
+   },
+   {
+    "value": "57.35",
+    "url": "https://straitsresearch.com/jp/report/cell-therapy-market",
+    "quote": "北米は2025年に市場シェア57.35%を占め、細胞療法市場を牽引しました"
+   },
+   {
+    "value": "38.17",
+    "url": "https://straitsresearch.com/jp/report/cell-therapy-market",
+    "quote": "用途別に見ると、2025年には腫瘍学分野が38.17%と最大の市場シェアを占めると予測されている"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E7%B4%B0%E8%83%9E%E3%81%8A%E3%82%88%E3%81%B3%E9%81%BA%E4%BC%9D%E5%AD%90%E6%B2%BB%E7%99%82%E5%B8%82%E5%A0%B4-114130",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/cell-and-gene-therapy-market-118679",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/gene-therapy-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sdki.jp/reports/gene-therapy-market/116552",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/grvi1842001-cell-gene-therapy-cdmo-market-size-share-trends.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://firm.or.jp/wp-content/uploads/2025/01/Cell-Gene-Therapy-Development-in-Japan-Report-%E5%92%8C%E8%A8%B3%E5%8F%82%E8%80%83%E3%83%BC%E6%9C%80%E7%B5%82%E7%89%88.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.imarcgroup.com/report/ja/japan-cell-gene-therapy-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amed.go.jp/content/000062056.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/synbio/pdf/001_22_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/ja/AAV%E9%81%BA%E4%BC%9D%E5%AD%90%E6%B2%BB%E7%99%82%E5%B8%82%E5%A0%B4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cryoport.com/ja/2025%E5%B9%B4%E3%81%AE%E6%A5%AD%E7%95%8C%E4%BA%88%E6%B8%AC%E3%83%88%E3%83%83%E3%83%9710/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E9%81%BA%E4%BC%9D%E5%AD%90%E6%B2%BB%E7%99%82%E5%B8%82%E5%A0%B4-100243",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/cell-therapy-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/gene-therapy-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/cell-and-gene-therapy-market-114130",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.biospace.com/press-releases/cell-and-gene-therapy-market-size-rapidly-approaching-117-46-billion-by-2034",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.towardshealthcare.com/insights/cell-and-gene-therapy-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/cell-and-gene-therapy-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/cell-gene-therapy-manufacturing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.towardshealthcare.com/insights/apac-cell-and-gene-therapy-market-sizing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/reports/cell-and-gene-therapy-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.biospace.com/press-releases/cell-and-gene-therapy-market-size-expected-to-hit-usd-119-30-billion-by-2034",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rootsanalysis.com/reports/cell-and-gene-therapy-cros-market/230.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.biopharminternational.com/view/growth-in-cell-and-gene-therapy-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oliverwyman.com/our-expertise/insights/2024/may/commercial-viability-gap-in-cell-and-gene-therapy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/gene-therapy-market-8399",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.delveinsight.com/report-store/gene-therapy-competitive-landscape",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/cell-and-gene-therapy-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cellandgene.com/doc/catalysts-of-change-how-the-cell-and-gene-therapy-market-has-evolved-0001",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/gene-therapy-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.towardshealthcare.com/key-insights/top-cell-gene-therapy-companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.novaoneadvisor.com/report/us-cell-and-gene-therapy-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.biospace.com/press-releases/cell-and-gene-therapy-clinical-trials-market-accelerates-from-usd-12-47-billion-in-2025-to-usd-45-31-billion-by-2034",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/gene-therapy-market-8399",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "細胞・遺伝子治療 市場規模 CAGR",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E7%B4%B0%E8%83%9E%E3%81%8A%E3%82%88%E3%81%B3%E9%81%BA%E4%BC%9D%E5%AD%90%E6%B2%BB%E7%99%82%E5%B8%82%E5%A0%B4-114130",
+    "https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market",
+    "https://www.businessresearchinsights.com/jp/market-reports/cell-and-gene-therapy-market-118679",
+    "https://straitsresearch.com/jp/report/gene-therapy-market",
+    "https://www.sdki.jp/reports/gene-therapy-market/116552",
+    "https://www.meti.go.jp/shingikai/mono_info_service/synbio/pdf/001_22_00.pdf",
+    "https://www.sphericalinsights.com/jp/reports/cell-and-gene-therapy-market",
+    "https://www.gii.co.jp/report/grvi1842001-cell-gene-therapy-cdmo-market-size-share-trends.html",
+    "https://jp.linkedin.com/pulse/%E7%B4%B0%E8%83%9E%E3%81%8A%E3%82%88%E3%81%B3%E9%81%BA%E4%BC%9D%E5%AD%90%E6%B2%BB%E7%99%82%E3%83%90%E3%82%A4%E3%82%AA%E3%82%A2%E3%83%83%E3%82%BB%E3%82%A4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9-market-size-growth-type-application-zklue",
+    "https://straitsresearch.com/jp/report/cell-and-gene-therapy-market"
+   ]
+  },
+  {
+   "query": "細胞・遺伝子治療 市場 シェア 上位 企業",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E7%B4%B0%E8%83%9E%E3%81%8A%E3%82%88%E3%81%B3%E9%81%BA%E4%BC%9D%E5%AD%90%E6%B2%BB%E7%99%82%E5%B8%82%E5%A0%B4-114130",
+    "https://www.businessresearchinsights.com/jp/market-reports/cell-and-gene-therapy-market-118679",
+    "https://straitsresearch.com/jp/report/gene-therapy-market",
+    "https://www.gii.co.jp/report/grvi1842001-cell-gene-therapy-cdmo-market-size-share-trends.html",
+    "https://firm.or.jp/wp-content/uploads/2025/01/Cell-Gene-Therapy-Development-in-Japan-Report-%E5%92%8C%E8%A8%B3%E5%8F%82%E8%80%83%E3%83%BC%E6%9C%80%E7%B5%82%E7%89%88.pdf",
+    "https://www.imarcgroup.com/report/ja/japan-cell-gene-therapy-market",
+    "https://www.amed.go.jp/content/000062056.pdf",
+    "https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market",
+    "https://www.meti.go.jp/shingikai/mono_info_service/synbio/pdf/001_22_00.pdf",
+    "https://straitsresearch.com/jp/report/cell-and-gene-therapy-market"
+   ]
+  },
+  {
+   "query": "細胞・遺伝子治療 市場 前年比 2025",
+   "results": [
+    "https://www.coherentmarketinsights.com/ja/AAV%E9%81%BA%E4%BC%9D%E5%AD%90%E6%B2%BB%E7%99%82%E5%B8%82%E5%A0%B4",
+    "https://www.cryoport.com/ja/2025%E5%B9%B4%E3%81%AE%E6%A5%AD%E7%95%8C%E4%BA%88%E6%B8%AC%E3%83%88%E3%83%83%E3%83%9710/",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E9%81%BA%E4%BC%9D%E5%AD%90%E6%B2%BB%E7%99%82%E5%B8%82%E5%A0%B4-100243",
+    "https://straitsresearch.com/jp/report/cell-therapy-market",
+    "https://www.gminsights.com/ja/industry-analysis/gene-therapy-market",
+    "https://www.meti.go.jp/shingikai/mono_info_service/synbio/pdf/001_22_00.pdf",
+    "https://www.businessresearchinsights.com/jp/market-reports/cell-and-gene-therapy-market-118679",
+    "https://www.gii.co.jp/report/grvi1842001-cell-gene-therapy-cdmo-market-size-share-trends.html",
+    "https://www.amed.go.jp/program/list/13/01/pamphlet_archive.html",
+    "https://www.coherentmarketinsights.com/ja/細胞治療市場"
+   ]
+  },
+  {
+   "query": "cell and gene therapy market size CAGR 2025",
+   "results": [
+    "https://www.fortunebusinessinsights.com/cell-and-gene-therapy-market-114130",
+    "https://www.biospace.com/press-releases/cell-and-gene-therapy-market-size-rapidly-approaching-117-46-billion-by-2034",
+    "https://www.towardshealthcare.com/insights/cell-and-gene-therapy-market",
+    "https://www.precedenceresearch.com/cell-and-gene-therapy-market",
+    "https://www.grandviewresearch.com/industry-analysis/cell-gene-therapy-manufacturing-market",
+    "https://www.coherentmarketinsights.com/market-insight/cell-and-gene-therapy-market-2475",
+    "https://www.novaoneadvisor.com/report/cell-and-gene-therapy-market",
+    "https://www.rootsanalysis.com/reports/gene-therapies-market/268.html",
+    "https://finance.yahoo.com/sectors/healthcare/articles/cell-therapy-technology-market-research-101100869.html",
+    "https://www.expertmarketresearch.com/reports/cell-and-gene-therapy-cgt-market"
+   ]
+  },
+  {
+   "query": "cell and gene therapy market share top players percent",
+   "results": [
+    "https://www.fortunebusinessinsights.com/cell-and-gene-therapy-market-114130",
+    "https://www.grandviewresearch.com/industry-analysis/cell-gene-therapy-manufacturing-market",
+    "https://www.precedenceresearch.com/cell-and-gene-therapy-market",
+    "https://www.towardshealthcare.com/insights/apac-cell-and-gene-therapy-market-sizing",
+    "https://www.sphericalinsights.com/reports/cell-and-gene-therapy-market",
+    "https://www.linkedin.com/pulse/north-america-cell-gene-therapy-market-size-key-players-xnxfe/",
+    "https://www.biospace.com/press-releases/cell-and-gene-therapy-market-size-expected-to-hit-usd-119-30-billion-by-2034",
+    "https://www.rootsanalysis.com/reports/cell-and-gene-therapy-cros-market/230.html",
+    "https://www.biopharminternational.com/view/growth-in-cell-and-gene-therapy-market",
+    "https://straitsresearch.com/report/cell-and-gene-therapy-market"
+   ]
+  },
+  {
+   "query": "cell and gene therapy market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.oliverwyman.com/our-expertise/insights/2024/may/commercial-viability-gap-in-cell-and-gene-therapy.html",
+    "https://www.marketresearchfuture.com/reports/gene-therapy-market-8399",
+    "https://www.fortunebusinessinsights.com/cell-and-gene-therapy-market-114130",
+    "https://www.delveinsight.com/report-store/gene-therapy-competitive-landscape",
+    "https://www.linkedin.com/pulse/north-america-cell-gene-therapy-market-size-key-players-xnxfe/",
+    "https://www.towardshealthcare.com/insights/cell-and-gene-therapy-market",
+    "https://www.mordorintelligence.com/industry-reports/cell-and-gene-therapy-market",
+    "https://www.cellandgene.com/doc/catalysts-of-change-how-the-cell-and-gene-therapy-market-has-evolved-0001",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC12926371/",
+    "https://en.wikipedia.org/wiki/Consolidated_financial_statement"
+   ]
+  },
+  {
+   "query": "cell and gene therapy market key companies share 2025",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/gene-therapy-market",
+    "https://www.fortunebusinessinsights.com/cell-and-gene-therapy-market-114130",
+    "https://www.precedenceresearch.com/cell-and-gene-therapy-market",
+    "https://www.towardshealthcare.com/key-insights/top-cell-gene-therapy-companies",
+    "https://www.novaoneadvisor.com/report/us-cell-and-gene-therapy-market",
+    "https://www.biospace.com/press-releases/cell-and-gene-therapy-clinical-trials-market-accelerates-from-usd-12-47-billion-in-2025-to-usd-45-31-billion-by-2034",
+    "https://www.grandviewresearch.com/industry-analysis/cell-gene-therapy-manufacturing-market",
+    "https://www.marketresearchfuture.com/reports/cell-gene-therapy-market-22203",
+    "https://www.prnewswire.com/news-releases/global-cell-and-gene-therapy-market-forecast-to-2025-by-product-disease-end-user-and-region---covid-19-updated-301108455.html",
+    "https://www.custommarketinsights.com/report/cell-and-gene-therapy-market/"
+   ]
+  }
+ ],
+ "missing": {}
+}

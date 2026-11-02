@@ -1,0 +1,1755 @@
+{
+ "name": "アシロ",
+ "aliases": [],
+ "context": "証券コード7378／サービス業／グロース（内国株式）／2025.10期 売上高6,647百万円 営業利益率21.3%",
+ "researched_at": "2026-11-02T17:42:16.635272+00:00",
+ "official_url": "https://asiro.co.jp/",
+ "identified_by": "search:yahoo_jp:アシロ",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "2009年11月",
+    "url": "https://asiro.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2016年4月",
+    "url": "https://asiro.co.jp/about/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "127名（2025年10月末現在） ※連結子会社を含む",
+    "url": "https://asiro.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "label": "従業員に関する情報",
+    "value": "人事・労務管理に関わる業務を遂行するため その他上記に付随する目的のため",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上収益",
+    "value": "4,694,121 6,647,361 1,953,240 41.6",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "label": "売上収益",
+    "value": "",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "世界中の誰よりも深くユーザーとお客様を幸せにしたい",
+    "url": "https://asiro.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "悩むユーザーを",
+    "url": "https://asiro.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーを幸せにする",
+    "url": "https://asiro.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様が、幅広い法律分野から弁護士を検索し、面談予約まで行える総合弁護士データベースサービスです",
+    "url": "https://asiro.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "世界中の誰よりも深く、ユーザーとお客様を幸せにすることを目指し、そのための手段には一切の制限を設けません",
+    "url": "https://asiro.co.jp/ma/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスを社会基盤となり得る水準まで深化させ、永続的にお客様に貢献するため、中長期的な視点で事業を運営します",
+    "url": "https://asiro.co.jp/ma/",
+    "pass": 1
+   },
+   {
+    "quote": "また、ユーザーがインターネットを活用して弁護士を比較検討できるようになったことで、「初回相談料無料」「成功報酬制」等の料金体系を導入する弁護士も増加してきており、多様な選択肢が生まれることでリーガルサービスの敷居が低くなり、弁護士に相談・依頼しやすい環境作りを支援することが出来ているものと考えております",
+    "url": "https://asiro.co.jp/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーとお客様を幸せにしたい",
+    "url": "https://asiro.co.jp/career/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザー、クライアントはもちろん、",
+    "url": "https://asiro.co.jp/career/",
+    "pass": 1
+   },
+   {
+    "quote": "目の前のお客様を幸せにすることで、",
+    "url": "https://asiro.co.jp/career/",
+    "pass": 1
+   },
+   {
+    "quote": "そのお客様がほかの誰かを幸せにする",
+    "url": "https://asiro.co.jp/career/",
+    "pass": 1
+   },
+   {
+    "quote": "キャリアアップステージでは各エージェントやサイトごとに利用者にアンケートを実施し、「生の声」を発信しています",
+    "url": "https://tenshoku.asiro.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "本プライバシーポリシーの日本語以外の言語による翻訳版は、利用者の便宜のために提供するものであり、参考訳にすぎません",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、当社が提供する各種サービスにおいて、利用者からお預かりした個人情報を管理するにあたって、細心の注意を払い、この「個人情報に関する公表文」（以下「本プライバシーポリシー」といいます",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "）が利用者から直接取得する個人情報については適用されません",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "本サービスのお客様及び広告の掲載主に関する個人情報",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "）及び本サービスの運営に必要な範囲で、本サービスに係る利用者（以下「ユーザー」といいます",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "）から、ユーザー又は掲載主に係る個人情報を取得することがあります",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "本サービスに関する当社の規約、ポリシー等の変更等をユーザーに通知するため",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先等より個人情報の取扱いを伴う業務を委託された場合においてこの委託された業務を実施するため",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーと当社との間の契約又は法令に基づく権利の行使又は義務の履行のため",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーが当社に提供した氏名、連絡先その他の個人情報",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーが当社に提供した氏名、連絡先、不動産情報その他の個人情報",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーが当社に提供した氏名、連絡先（メールアドレス及び電話番号）その他の個人情報",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "本サービスに係る利用契約の申込み及びその締結、本サービスの提供等、代金等の請求、当社が取り扱う本サービスに関するお問合せ、緊急時のご連絡及びお客様情報管理その他の各種連絡対応管理のため",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーに関する以下の情報",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "契約者・利用ユーザー情報：氏名、メールアドレス、電話番号、所属会社名・部署名、アカウントID等",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、上記１（１）１、９及び１０記載の利用目的の範囲内において、当社の提携事業者（弁護士、司法書士、不動産事業者、少額短期保険会社、保険代理店等）に対し、個人のお客様の個人情報（氏名、連絡先、その他の個人情報）を提供いたします",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の職業紹介従事者が求職者又はインターン希望者等に代わって、当社クライアントの求人又はインターンへの応募に必要となる利用者等の個人情報を当該クライアントに提供いたします",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、広告配信の最適化、効果測定のため必要な場合には、利用者に適した広告を表示するため、国内外の広告配信事業者（Google、Meta、LINEヤフー等）が保有するユーザーリストと、当社が保有する情報を紐付けて広告を配信・分析します",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者からの問い合わせ対応、カスタマーサポート",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "※利用者が選択した提携事業者以外の提携事業者は含まれません",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者と提携事業者等との連絡・やりとりの仲介",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "提携事業者等による利用者への本サービスの提供",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、利用者のニーズにより適した広告を表示するために、個人データの一部（ハッシュ化されたメールアドレス、Cookie等）を、米国等の外国にある広告配信事業者に提供する場合があります",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "これらのツールによりページをご覧いただく際に必要なシステム情報や、お客様が同一人物であると確認するための情報、お客様の行動履歴（アクセスしたページ、閲覧したコンテンツ等）、端末情報及び位置情報等を取得することがあります",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "LegalBase（リーガルテックサービス）では、契約者・利用ユーザー自身の個人情報のほか、契約者がアップロードした契約書等のデータ（以下「文書データ」といいます",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "この基本方針は、当社が保有する全ての情報資産及びこれを利用する全ての役職員（以下「情報利用者」といいます",
+    "url": "https://asiro.co.jp/security/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、情報セキュリティに関わる法令、規制、規範、契約上の義務を遵守するとともに、お客様の期待に応えます",
+    "url": "https://asiro.co.jp/security/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザー保護基準について",
+    "url": "https://asiro.co.jp/ad-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーの迷惑となるような広告の禁止",
+    "url": "https://asiro.co.jp/ad-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "以下のような、ユーザーの迷惑となるような広告を掲載することはできません",
+    "url": "https://asiro.co.jp/ad-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "その他、ユーザーの迷惑となるもの",
+    "url": "https://asiro.co.jp/ad-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーの意に反する広告の禁止",
+    "url": "https://asiro.co.jp/ad-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "以下のような、ユーザーの意に反する広告を掲載することはできません",
+    "url": "https://asiro.co.jp/ad-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーの意思確認なくして、ソフトウェアのダウンロードが開始される、アプリケーションが起動するもの",
+    "url": "https://asiro.co.jp/ad-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "その他、ユーザーの意に反する動きをするもの",
+    "url": "https://asiro.co.jp/ad-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "2.4 ユーザーが広告主（事業者）の表示であることを判別することが困難である表示",
+    "url": "https://asiro.co.jp/ad-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "動画において、ユーザーが認識できないほど短い時間で、広告主の表示である旨を表示する場合",
+    "url": "https://asiro.co.jp/ad-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーが広告主の表示であることを認識しにくい、文言・場所・大きさ・色で表示する場合（文章で表示する場合も含む",
+    "url": "https://asiro.co.jp/ad-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "ネイティブ広告（デザイン、内容、フォーマットが、媒体社が編集する記事・コンテンツの形式や提供するサービスの機能と同様でそれらと⼀体化しており、ユーザーの情報利⽤体験を妨げない広告であり、リンク先がコンテンツであるものを指す（リンク先が広告主等への問合せページ（資料申込みページや商品購入ページ等）の場合、与えるユーザー体験が違うことからネイティブ広告に該当しない）",
+    "url": "https://asiro.co.jp/ad-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーに誤解や不快感を与えるもの",
+    "url": "https://asiro.co.jp/ad-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "非科学的または迷信に類するもので、利用者を惑わせるものや不安を与えるもの",
+    "url": "https://asiro.co.jp/ad-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "利用にあたり本人確認を行っていること（利用者の本人確認を実施していることが、サイト内に記載されている必要があります",
+    "url": "https://asiro.co.jp/ad-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "法律で定められた方法により、利用者が18歳以上であるかの利用資格を確認していること",
+    "url": "https://asiro.co.jp/ad-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者の生命、身体、財産を惑わせる表現や、不安を与える表現がないこと",
+    "url": "https://asiro.co.jp/ad-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "占いの内容、利用手順、料金体系、退会方法など利用者が事前にサービス内容を理解するために必要な情報の提供があること",
+    "url": "https://asiro.co.jp/ad-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "就職、資格取得、受験合格等、サービスの利用効果について客観的な裏付けなく虚偽や誇張により利用者を誤認させるおそれがないこと",
+    "url": "https://asiro.co.jp/ad-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "料金がサービスの内容に比べて著しく高額となっていないことや、利用者に著しく不利益な支払条件となっていないこと",
+    "url": "https://asiro.co.jp/ad-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "未成年の利用、他人との交流に対し適切な配慮がされていること（オンラインゲームのメッセージ送受信機能による、恋愛を対象とした出会いを目的とした使用が確認できた場合や、プライバシー侵害への対策がなされていない場合、アイテムの盗難防止対策など利用者間のトラブルについて防止策がなされていない場合は掲載不可）",
+    "url": "https://asiro.co.jp/ad-guideline/",
+    "pass": 1
+   }
+  ],
+  "何を": [
+   {
+    "quote": "より深く、サービスを深化させる",
+    "url": "https://asiro.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "提供サービス",
+    "url": "https://asiro.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "提供サービス",
+    "url": "https://asiro.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "刹那的なサービスではなく",
+    "url": "https://asiro.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスを創り上げたい",
+    "url": "https://asiro.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の社名は、世界最深地点で生存が確認された深海魚の名前（ヨミノアシロ）を拝借しており、「アシロに関わる人を誰よりも深く幸せにすることで、よりよい社会の実現に貢献する」という企業理念の下、表層的なサービスではなく、日常生活の基盤やインフラと成り得るサービスの創出を目指しています",
+    "url": "https://asiro.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "法人・個人事業主向けの弁護士費用保険と予防法務サービスを組み合わせ、平時の備えからトラブル発生時の解決までを支援します",
+    "url": "https://asiro.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様が、幅広い法律分野から弁護士を検索し、面談予約まで行える総合弁護士データベースサービスです",
+    "url": "https://asiro.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社アシロ、Griffin Corp.と訴訟費用立替えサービスの日本展開に向けた基本合意書を締結",
+    "url": "https://asiro.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社アシロ、エージェントIG社と業務提携 中小企業及び個人事業主に対する広範な営業ネットワークを通じ、法務支援サービス『LegalBase』の販売機会を拡大",
+    "url": "https://asiro.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社アシロ、イオン保険サービスと業務提携契約を締結 個人向け総合弁護士データベース『リーガルメイト』の提供を開始",
+    "url": "https://asiro.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社アシロ、イオン保険サービスと業務提携 中小企業･個人事業主向｢法務あんしんパック｣を6月1日より提供開始",
+    "url": "https://asiro.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスを社会基盤となり得る水準まで深化させ、永続的にお客様に貢献するため、中長期的な視点で事業を運営します",
+    "url": "https://asiro.co.jp/ma/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は「関わるすべての人々を誰よりも深く幸せにする」というミッションのもと、法律問題にお悩みを抱える方と弁護士の最適なマッチングを図るサービスを主要事業として運営しております",
+    "url": "https://asiro.co.jp/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "また、弁護士や社外取締役、管理部門スタッフの採用を検討する企業に人材紹介するサービスも運営するととともに、連結子会社であるアシロ少額短期保険では弁護士費用の一部を賄うことができる保険商品を提供しております",
+    "url": "https://asiro.co.jp/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "当社が取り組むこれらの事業は、司法サービスへのアクセス機会を提供するものであり、2015年に国連の193の加盟国による全会一致で採択された「持続可能な開発目標（SDGs）」の達成に貢献できる部分が大きいと考えていることから、事業拡大を通じて社会の持続的発展に貢献していきます",
+    "url": "https://asiro.co.jp/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "また、ユーザーがインターネットを活用して弁護士を比較検討できるようになったことで、「初回相談料無料」「成功報酬制」等の料金体系を導入する弁護士も増加してきており、多様な選択肢が生まれることでリーガルサービスの敷居が低くなり、弁護士に相談・依頼しやすい環境作りを支援することが出来ているものと考えております",
+    "url": "https://asiro.co.jp/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "加えて、企業内弁護士や社外取締役、管理部門スタッフの採用を検討する企業に人材紹介するサービスを運営することで企業にとっての司法アクセスへの改善を進めるとともに、弁護士費用を保険金で賄うことができる保険商品を販売している少額短期保険会社を連結子会社化することで、弁護士を活用する際の主要な懸念点の一つである弁護士費用という問題へのアプローチも進めております",
+    "url": "https://asiro.co.jp/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスを深化させたい",
+    "url": "https://asiro.co.jp/career/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちのサービスで、",
+    "url": "https://asiro.co.jp/career/",
+    "pass": 1
+   },
+   {
+    "quote": "販売・サービス",
+    "url": "https://tenshoku.asiro.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "保育士も退職代行を使える！利用すべきケースやおすすめのサービスも紹介",
+    "url": "https://tenshoku.asiro.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "アシロ関連サービス",
+    "url": "https://tenshoku.asiro.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "管理部門専門の転職支援サービス",
+    "url": "https://tenshoku.asiro.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "公認会計士・税理士・弁理士の転職支援サービス",
+    "url": "https://tenshoku.asiro.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、当社が提供する各種サービスにおいて、利用者からお預かりした個人情報を管理するにあたって、細心の注意を払い、この「個人情報に関する公表文」（以下「本プライバシーポリシー」といいます",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "なお、以下の内容は、適用対象となるサービスを特定した項目を除き、インターネットメディア事業、弁護士広告事業及びその他のWebマーケティング事業及びその他広告事業、保険代理店事業、リーガルテック事業及び人材紹介事業その他当社が営む全事業に係る各種サービス（以下「本サービス」といいます",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "また、適用対象となるサービスを特定した項目に係る定めは、この共通適用項目に優先して適用されるものとします",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "本サービスの利用には、会員登録時・問い合わせフォーム送信時等に別途明示的な同意をいただく場合がありますが、当該同意が得られない場合においても、本サービスの利用をもって本プライバシーポリシーへの同意があったものとします",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "本プライバシーポリシーに同意いただけない場合は、本サービスのご利用を直ちにお控えください",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "※本プライバシーポリシーは、本サービスに広告を掲載している広告主（弁護士・司法書士等の専門家を含みます",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "本サービスのお客様及び広告の掲載主に関する個人情報",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "）及び本サービスの運営に必要な範囲で、本サービスに係る利用者（以下「ユーザー」といいます",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "本サービスのための提携事業者に対する個人情報の提供のため",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "当社又は提携事業者の各種サービスの提供又は紹介のため",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイト及び本サービスの品質向上のためのアンケートの実施のため",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "本サービス及びサポートの改善向上並びに新規サービスの開発やマーケティング資料に利用するため（提携事業者に対する匿名化された連絡又は問合せ内容の統計分析、マーケティングリサーチ、出版・情報配信への活用を含む",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "本サービスに関する当社の規約、ポリシー等の変更等をユーザーに通知するため",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": ")のサービスの提供又は紹介のため",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "以下の提携事業者が提供するサービス又は商品のご案内のための提携事業者に対する以下の個人情報の提供のため",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "※当社は株式会社アシロ少額短期保険より保険業務の委託を受けた代理店であり、当該少額短期保険会社が提供するサービス又は商品のご案内のための個人情報の提供を含みます",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "本サービスに係る利用契約の申込み及びその締結、本サービスの提供等、代金等の請求、当社が取り扱う本サービスに関するお問合せ、緊急時のご連絡及びお客様情報管理その他の各種連絡対応管理のため",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "本サービスに関する利用料金その他の金銭債権の管理及び債権回収（外部事業者への委託を含む",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "人材紹介事業として提供する有料職業紹介（以下「人材紹介サービス」といいます",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "人材紹介サービスへの登録、登録事項変更、退会手続き等のため",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "当社クライアントに対する適切な登録者等（人材紹介サービスの登録者、求職者、採用決定者及びインターン希望者等の総称をいいます",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "人材紹介サービスの品質向上のためのアンケートの実施のため",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "人材紹介サービスを通じた本サービスのご案内のため",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "本サービスの利用履歴、本サービスを経由して第三者（弁護士、司法書士等の専門家及びその他の広告主又は提携事業者）に対して行う問合せフォーム又は問合せメールその他の手段での連絡・問合せの内容、閲覧履歴",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "有料サービスに係る利用料金の決済手段及びこれに関する各種情報（Stripe, Inc.によるクレジットカード決済処理に係る情報を含む",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "アシロ広告掲載基準は、当社が提供するメディアサイトおよびそれに付随するすべてのサービスの広告掲載に適用される基準となります",
+    "url": "https://asiro.co.jp/ad-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "ECサイトの商品紹介や、企業が自社サイトやソーシャルメディアを利用して行うマーケティング活動（企業広報、販売促進、パブリシティ、口コミなど）",
+    "url": "https://asiro.co.jp/ad-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "専門情報サイトやオンラインショッピングモールの情報掲載（求人情報、店舗情報、商品情報、クーポンなど）",
+    "url": "https://asiro.co.jp/ad-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "ネイティブ広告（デザイン、内容、フォーマットが、媒体社が編集する記事・コンテンツの形式や提供するサービスの機能と同様でそれらと⼀体化しており、ユーザーの情報利⽤体験を妨げない広告であり、リンク先がコンテンツであるものを指す（リンク先が広告主等への問合せページ（資料申込みページや商品購入ページ等）の場合、与えるユーザー体験が違うことからネイティブ広告に該当しない）",
+    "url": "https://asiro.co.jp/ad-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "商品、サービスの内容が、事実と相違して、実際のものや他のものよりも優良であると誤認させる優良誤認表示や、他の物より安いと誤認させる有利誤認表示などの不当表示となる広告は不可とする",
+    "url": "https://asiro.co.jp/ad-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "広告主体とは異なる第三者が、商品やサービスなどを推奨、あるいは保証しているかのような表現をする際に、確実な事実の裏付けがないもの",
+    "url": "https://asiro.co.jp/ad-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "掲載掲載禁止商品",
+    "url": "https://asiro.co.jp/ad-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "以下に該当する又は該当するおそれのある商品の広告は掲載できないものとします",
+    "url": "https://asiro.co.jp/ad-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "性的な商品・サービス",
+    "url": "https://asiro.co.jp/ad-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "クレジットカードのショッピング枠現金化サービス",
+    "url": "https://asiro.co.jp/ad-guideline/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "アシロで働くスタッフをご紹介",
+    "url": "https://asiro.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "有料職業紹介事業（13-ユ-313782）",
+    "url": "https://asiro.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "弁護士に特化した求人のご紹介から戦略的な内定獲得支援まで、弁護士業界に精通したプロフェッショナルが対応",
+    "url": "https://asiro.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "また、弁護士や社外取締役、管理部門スタッフの採用を検討する企業に人材紹介するサービスも運営するととともに、連結子会社であるアシロ少額短期保険では弁護士費用の一部を賄うことができる保険商品を提供しております",
+    "url": "https://asiro.co.jp/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "加えて、企業内弁護士や社外取締役、管理部門スタッフの採用を検討する企業に人材紹介するサービスを運営することで企業にとっての司法アクセスへの改善を進めるとともに、弁護士費用を保険金で賄うことができる保険商品を販売している少額短期保険会社を連結子会社化することで、弁護士を活用する際の主要な懸念点の一つである弁護士費用という問題へのアプローチも進めております",
+    "url": "https://asiro.co.jp/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "それぞれのメンバーがなぜアシロを選んだのか、入社してからの自己成長、変化をインタビュー記事でご紹介",
+    "url": "https://asiro.co.jp/career/",
+    "pass": 1
+   },
+   {
+    "quote": "企業紹介動画",
+    "url": "https://asiro.co.jp/career/",
+    "pass": 1
+   },
+   {
+    "quote": "夏採用の企業一覧2026【27卒】業界別に大手企業79社を紹介",
+    "url": "https://tenshoku.asiro.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "求職者にとって適切な選択を見つけるのは難しいかもしれませんが、一方で、多くのメディアで紹介される転職エージェントは一定の高い信頼を持っていると言えます",
+    "url": "https://tenshoku.asiro.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "(職業紹介事業会社)の中から、あなたに最もおすすめの転職エージェントを厳選紹介",
+    "url": "https://tenshoku.asiro.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "保育士も退職代行を使える！利用すべきケースやおすすめのサービスも紹介",
+    "url": "https://tenshoku.asiro.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "監修者をご紹介",
+    "url": "https://tenshoku.asiro.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、インターネットメディア事業、Webマーケティング事業及びその他の広告事業、少額短期保険代理事業、損害保険代理事業、リーガルテック事業、人材紹介事業並びにその他当社が営む事業における当社の正当な事業遂行上並びに従業員の雇用、人事管理上必要な範囲に限定して、個人情報保護法に定める個人情報を取得・利用及び提供するものとします",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "なお、以下の内容は、適用対象となるサービスを特定した項目を除き、インターネットメディア事業、弁護士広告事業及びその他のWebマーケティング事業及びその他広告事業、保険代理店事業、リーガルテック事業及び人材紹介事業その他当社が営む全事業に係る各種サービス（以下「本サービス」といいます",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "当社又は提携事業者の各種サービスの提供又は紹介のため",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": ")のサービスの提供又は紹介のため",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "※当社は株式会社アシロ少額短期保険より保険業務の委託を受けた代理店であり、当該少額短期保険会社が提供するサービス又は商品のご案内のための個人情報の提供を含みます",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "人材紹介事業として提供する有料職業紹介（以下「人材紹介サービス」といいます",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "人材紹介サービスへの登録、登録事項変更、退会手続き等のため",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "当社クライアントに対する適切な登録者等（人材紹介サービスの登録者、求職者、採用決定者及びインターン希望者等の総称をいいます",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "）の紹介のため",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "人材紹介サービスの品質向上のためのアンケートの実施のため",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "人材紹介サービスを通じた本サービスのご案内のため",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "人材紹介サービスの登録者等に関する以下の情報",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、上記１（１）１、９及び１０記載の利用目的の範囲内において、当社の提携事業者（弁護士、司法書士、不動産事業者、少額短期保険会社、保険代理店等）に対し、個人のお客様の個人情報（氏名、連絡先、その他の個人情報）を提供いたします",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "求人企業への提供（人材紹介事業）",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、下記の場合に人材紹介サービスにおける個人情報を第三者に提供いたします",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の職業紹介従事者が求職者又はインターン希望者等に代わって、当社クライアントの求人又はインターンへの応募に必要となる利用者等の個人情報を当該クライアントに提供いたします",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、人材紹介サービスの提供及び本サービスの向上のため、第三者と提携する場合があります",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "なお、この場合において提供する情報の項目は、ハッシュ化されたメールアドレス・電話番号、Cookie、広告識別子（AAID・IDFA）、利用履歴等（人材紹介サービスの場合は更に職種、年収帯（希望年収帯）を含みます",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "人材紹介サービス：個人特定に係る情報を伏せた上での転職成功事例記事の作成、出版、情報配信",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "ECサイトの商品紹介や、企業が自社サイトやソーシャルメディアを利用して行うマーケティング活動（企業広報、販売促進、パブリシティ、口コミなど）",
+    "url": "https://asiro.co.jp/ad-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "専門情報サイトやオンラインショッピングモールの情報掲載（求人情報、店舗情報、商品情報、クーポンなど）",
+    "url": "https://asiro.co.jp/ad-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "無限連鎖溝（ねずみ講）、連鎖販売取引（ネットワークビジネス）への勧誘や紹介",
+    "url": "https://asiro.co.jp/ad-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "根拠法令に基づき、厚生労働大臣から必要な許可を受けている者であること（人材派遣業：労働者派遣法、職業紹介事業（人材紹介業）：職業安定法）",
+    "url": "https://asiro.co.jp/ad-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "求職者への費用負担が発生する、物品の購入、講座の受講などの義務を負わせていないこと（紹介事業者の有料のパソコン講習を受けることや、パソコンを購入する必要があるなど、求職者に対して職業紹介の条件として金銭的な負担をさせるものは掲載不可）",
+    "url": "https://asiro.co.jp/ad-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "結婚紹介業（インターネット異性紹介業を除く）",
+    "url": "https://asiro.co.jp/ad-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "インターネット異性紹介業",
+    "url": "https://asiro.co.jp/ad-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "インターネット異性紹介事業規制法に基づき、必要な届出がされていること",
+    "url": "https://asiro.co.jp/ad-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の広告掲載基準と同等程度の基準に基づき、掲載する店舗、サービス提供元、および表示内容を審査していること",
+    "url": "https://asiro.co.jp/ad-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "広告出稿元が、競技、くじの主催団体、投票券や証票の販売店、それらの上部団体、もしくは、それに準じるものであること",
+    "url": "https://asiro.co.jp/ad-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "代理店募集、フランチャイズ経営者募集",
+    "url": "https://asiro.co.jp/ad-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "）が運営する弁護士紹介メディアである",
+    "url": "https://asiro.co.jp/bengo-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "その他これらと同等又は類似の弁護士紹介メディア（以下、これらを総称して「弁護士紹介メディア」といいます",
+    "url": "https://asiro.co.jp/bengo-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "弁護士紹介メディアでは、弊社が作成するコラム記事（以下「コラム記事」といいます",
+    "url": "https://asiro.co.jp/bengo-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "そこで、本ページでは弊社の運営する弁護士紹介メディアにおいて、コラム記事の執筆体制や情報ソースを開示することで、サイト訪問者の皆様に適切に弊社の弁護士紹介メディアをご活用いただこうと考えております",
+    "url": "https://asiro.co.jp/bengo-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "本ページに目を通していただくことで、弊社が運営する弁護士紹介メディアのコラム記事についてご理解を深めていただく機会となれば幸いです",
+    "url": "https://asiro.co.jp/bengo-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社が弁護士紹介メディアにて掲載するコラム記事は「弁護士又は司法書士(※)が執筆し弊社編集部が編集を行い公開」するものと「弊社スタッフが執筆し弁護士又は司法書士(※)が監修を行い公開」するものの2パターンがございます",
+    "url": "https://asiro.co.jp/bengo-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "弁護士紹介メディアのコラム記事を執筆するスタッフは弁護士資格を有しておりませんが、サイト訪問者の方にとってわかりにくいことをわかりやすく伝え、難解でわかりにくい法律の理解を手助けすることを目的として、日々研鑽を積みながら執筆をしております",
+    "url": "https://asiro.co.jp/bengo-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "各スタッフが特定の分野に精通できるよう、出来る限り同一の弁護士紹介メディアのコラム記事の執筆を担当（情報の質を担保するために、書籍や弁護士へのヒアリングなどで日々正しい法律知識を身につけるための研鑽を積んでおります）",
+    "url": "https://asiro.co.jp/bengo-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "弁護士紹介メディアで紹介するコラム記事の内容は、あくまでも一般論や過去の判例に基づいて、特定の法律の仕組や概念を説明するものであり、個別具体的な事象や最新の事例にはそぐわないケースがあります",
+    "url": "https://asiro.co.jp/bengo-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "弁護士紹介メディアの情報閲覧、及びご利用によりサイト訪問者に生じたトラブルなどに対して、弊社は一切責任を負いかねますので予めご了承ください",
+    "url": "https://asiro.co.jp/bengo-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社の弁護士紹介メディアでは出来る限り正確な情報を提供するため、以下の情報元をメインに記事を執筆しております",
+    "url": "https://asiro.co.jp/bengo-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社が運営する弁護士紹介メディアは「転ばぬ先の杖」として難解な法律をサイト訪問者の皆様にできるだけ分かりやすく解説することを目的としております",
+    "url": "https://asiro.co.jp/bengo-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社の弁護士紹介メディア及びコラム記事をご覧いただくことで、サイト訪問者の皆様が法的トラブルを未然に防ぐことができたり、現在直面している法的トラブルの解決の一助となるようなことがあれば、大変に嬉しく思います",
+    "url": "https://asiro.co.jp/bengo-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "これが、弊社が弁護士紹介メディアにおいて弁護士への相談を推奨する理由です",
+    "url": "https://asiro.co.jp/bengo-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "業務運営規程（有料職業紹介事業）",
+    "url": "https://asiro.co.jp/sitemap/",
+    "pass": 1
+   },
+   {
+    "quote": "利用規約（有料職業紹介事業）",
+    "url": "https://asiro.co.jp/sitemap/",
+    "pass": 1
+   },
+   {
+    "quote": "また、当該事業を拡大する中で蓄積した弁護士業界のネットワークや知見、インターネット上での集客ノウハウを活かし、弁護士有資格者等の人材紹介サービスを提供する「HR事業」を2020年より、弁護士費用保険等の販売を行う「保険事業」を連結子会社の株式会社アシロ少額短期保険にて2022年より開始しております",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、HR事業は現在、弁護士有資格者や公認会計士といった士業人材に限らず、管理部門人材の人材紹介サービスも提供し、事業の幅を拡大しております",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2009年11月",
+    "url": "https://asiro.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年4月",
+    "url": "https://asiro.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月最新版",
+    "url": "https://tenshoku.asiro.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年9月15日 施行",
+    "url": "https://asiro.co.jp/security/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月1日最終更新",
+    "url": "https://asiro.co.jp/external-transmission-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月期の営業利益15億円を足元の基準とし、2027年10月期には営業利益20億円前後を目指します",
+    "url": "https://asiro.co.jp/ir/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年10月期有価証券報告書より",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "2016年10月期（注）",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "2017年10月期",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "2018年10月期",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "2019年10月期",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "2020年10月期",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "2021年10月期",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "2022年10月期",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "2023年10月期",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "2024年10月期",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月期",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "2022年９月１日に株式会社カイラス少額短期保険から社名を変更）の株式を2022年４月28日に追加取得して連結子会社化することにより、少額短期保険事業を開始しております",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "2022年10月期（注）",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "2020年より開始した人材紹介サービスは、当初の弁護士に加えて、他士業の人材や管理部門人材にも取扱い職種の幅を広げ、法律事務所や事業会社等を中心とする取引先からのニーズに応え、サービスの質の向上と業務効率化を継続してまいりました",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "2009年11月の設立以来、リーガルメディアの運営を基盤としつつ徐々に事業を拡大し、2021年7月には東証マザーズ（現 東証グロース）への上場を果たした株式会社アシロ",
+    "url": "https://kyoto-leaders.jp/archives/41",
+    "pass": 3
+   },
+   {
+    "quote": "1983年、京都府生まれ",
+    "url": "https://www.ceo-voice.com/interview/asiro.html",
+    "pass": 3
+   },
+   {
+    "quote": "2009年設立、12年よりベンナビ離婚のサービスを開始",
+    "url": "https://www.ceo-voice.com/interview/asiro.html",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "また、ユーザーがインターネットを活用して弁護士を比較検討できるようになったことで、「初回相談料無料」「成功報酬制」等の料金体系を導入する弁護士も増加してきており、多様な選択肢が生まれることでリーガルサービスの敷居が低くなり、弁護士に相談・依頼しやすい環境作りを支援することが出来ているものと考えております",
+    "url": "https://asiro.co.jp/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "本サービスに関する利用料金その他の金銭債権の管理及び債権回収（外部事業者への委託を含む",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "有料サービスに係る利用料金の決済手段及びこれに関する各種情報（Stripe, Inc.によるクレジットカード決済処理に係る情報を含む",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ会社から受託する人事関連業務・経理業務・社内システムの運用保守に関わる業務等を遂行するため",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "利用料金の決済（Stripe）",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "LegalBaseの利用料金の決済は、Stripe, Inc.（米国）が提供する決済処理サービスを通じて行います",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "ご記入いただいた請求書、代理人によるお求めの場合は代理人であることを確認する書類、手数料分の郵便為替（利用目的の通知並びに開示の請求の場合のみ）を上記個人情報問合せ係までご郵送ください",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "利用目的の通知又は開示のお求めについての手数料",
+    "url": "https://asiro.co.jp/privacy/",
+    "pass": 1
+   },
+   {
+    "quote": "費用、取引リスクに関する明確な表示があること（手数料、元本が欠損するおそれがある場合はその旨、元本を上回る損失が生じるおそれがある場合はその旨など）",
+    "url": "https://asiro.co.jp/ad-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "費用、取引リスクに関する明確な表示があること（法令上、取り扱う仮想通貨の名称や仕組みなどの説明、法定通貨ではないこと、価格変動があること、手数料などの契約内容などが明確に記載されていることが必要となります）",
+    "url": "https://asiro.co.jp/ad-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "主要事業である「メディア事業」の中でも、収益の大きい「リーガルメディア」は主に月額定額の掲載料収入（サイト内の有料広告の掲載枠数に、月額定額の掲載枠単価を乗じた金額）であり、掲載枠数の増加に比例して収益が伸長するストック型の収益構造であることから、安定的な成長を目指すことが出来るビジネスモデルとなっております",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "派生メディアの報酬体系はユーザーからの問合せ数に応じた成果報酬型でありフロー収益となりますが、リーガルメディアの報酬体系は、サイト内の有料広告の掲載枠数に月額定額の掲載枠単価を乗じた広告収入を得るストック収益となっていることから、安定した収益を見込むことが可能となっております",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、掲載枠数は、顧客である弁護士がサイト内で有料広告を出稿している枠の数であり、掲載枠数に月額定額の掲載枠単価を乗じた広告収入を顧客である弁護士から得ております",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、問合せ数は、ユーザーが顧客に対して電話、メール等による問合せを行った数であり、問合せ数に問合せ単価を乗じた広告収入を顧客から得ております",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "本サービスは、採用候補者となるユーザーは無料で利用でき、候補者の採用が決定し、入社することによって採用企業から紹介手数料を得る成果報酬型を採用しており、フロー型の収益構造となっております",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "主力のメディア事業では、掲載枠数・顧客数の着実な純増に加え、サービスの高付加価値化による単価上昇が進展し、売上収益41.0%増、セグメント利益86.2％増と高い成長を実現いたしました",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "主力のリーガルメディアにおいては、新規顧客開拓を推し進めるとともに、解約率の引き下げ並びに既存顧客からの追加受注に注力した結果、2025年10月における掲載枠数は3,332枠（前年同月比5.9％増）、掲載顧客数は1,191件（同3.3％増）と着実に純増を続けております",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、当社プラットフォームの集客力向上に伴い、サービスの高付加価値化を推進した結果、平均単価の上昇に寄与いたしました",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "この結果、リーガルメディアの売上収益は3,784,558千円（前年同期比53.8％増）、営業利益は1,558,846千円（同103.2％増）と、数量成長と単価上昇の相乗効果により高い成長を実現いたしました",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "メディア事業における売上収益及び営業利益について、リーガルメディアと派生メディアの内訳及びリーガルメディアにおけるストック収益とフロー収益の内訳（注）は次のとおりであります",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "（注）リカーリングで発生する月額定額の掲載料収入をストック収益として集計し、ストック収益以外の収益をフロー収益として集計しております",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、フロー収益は主に初期手数料やアフィリエイト収入、当社が保険代理店となっている保険商品の代理店手数料で構成されております",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "うち、ストック収益",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "成功報酬ではなく、毎月一定の金額をいただく広告掲載スタイルが特徴です",
+    "url": "https://kyoto-leaders.jp/archives/41",
+    "pass": 3
+   },
+   {
+    "quote": "こちらに関しては、成功報酬を受け取るアフィリエイト収益モデルになります",
+    "url": "https://kyoto-leaders.jp/archives/41",
+    "pass": 3
+   },
+   {
+    "quote": "クライアントありきのメディアなので、直販をしないとクライアントの声を聞くことはできませんし、代理人が入ると収益の3割程度の手数料を支払う必要があります",
+    "url": "https://kyoto-leaders.jp/archives/41",
+    "pass": 3
+   },
+   {
+    "quote": "最初のうちはユーザーが右肩上がりに増えて収益面にも余裕が生まれるのですが、やがて停滞してきたときにはその手数料が重荷になりますし、代理人を入れていなければ、その手数料分を広告宣伝費にして原価に充てることができます",
+    "url": "https://kyoto-leaders.jp/archives/41",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "リクルートエージェントの強みは何と言ってもその非公開求人の数",
+    "url": "https://tenshoku.asiro.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "売上収益・営業利益率の推移と将来イメージ及びその後の成長イメージ",
+    "url": "https://asiro.co.jp/ir/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "我々が考えるアシロの強みについてまとめています",
+    "url": "https://asiro.co.jp/career/message/",
+    "pass": 1
+   },
+   {
+    "quote": "強みだけでなく、いまアシロが抱えている弱み・課題、その課題をまとめています",
+    "url": "https://asiro.co.jp/career/message/",
+    "pass": 1
+   },
+   {
+    "quote": "――各事業について、競合と比べての強みを教えてください",
+    "url": "https://kyoto-leaders.jp/archives/41",
+    "pass": 3
+   },
+   {
+    "quote": "事業を継続するうえで、「何が最終的に競争優位性の源泉になるか」を見極め、そこに集中的に投資することが競争優位性につながると思います",
+    "url": "https://kyoto-leaders.jp/archives/41",
+    "pass": 3
+   },
+   {
+    "quote": "顧客が期待するものを安定的に供給するための仕組みを作っていることが、大きな競争優位です",
+    "url": "https://kyoto-leaders.jp/archives/41",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "ビジネスモデルが明確なこと",
+    "url": "https://asiro.co.jp/ad-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "応募者が行うビジネスモデルが明瞭であること（募集者の収益構造、開業、運営資金等、ビジネスモデルが明確に記載されていないものは掲載不可）",
+    "url": "https://asiro.co.jp/ad-guideline/",
+    "pass": 1
+   },
+   {
+    "quote": "主要事業である「メディア事業」の中でも、収益の大きい「リーガルメディア」は主に月額定額の掲載料収入（サイト内の有料広告の掲載枠数に、月額定額の掲載枠単価を乗じた金額）であり、掲載枠数の増加に比例して収益が伸長するストック型の収益構造であることから、安定的な成長を目指すことが出来るビジネスモデルとなっております",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザーはリーガルメディア・派生メディアとも原則として無料で閲覧することができ、メディアへ広告出稿をする弁護士・企業等の顧客から広告収入を頂くビジネスモデルとなっております",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、問合せ数が増加すれば広告収入が増加致しますが、問合せ数はGoogleの検索アルゴリズムなど外部環境の影響により増減し、フロー型の収益構造となっております",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "本サービスは、採用候補者となるユーザーは無料で利用でき、候補者の採用が決定し、入社することによって採用企業から紹介手数料を得る成果報酬型を採用しており、フロー型の収益構造となっております",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "以上述べた事業を事業系統図によって示すと以下のとおりであります",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "そのなかで、2026年10月期は安定的かつ持続的な成長を実現するための収益構造の見直し・再構築期間と位置付けております",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "こちらに関しては、成功報酬を受け取るアフィリエイト収益モデルになります",
+    "url": "https://kyoto-leaders.jp/archives/41",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "株式会社セグメント",
+    "url": "https://asiro.co.jp/external-transmission-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "上記の３事業は、「第５ 経理の状況 １ 連結財務諸表等 (１) 連結財務諸表 連結財務諸表注記 ７．セグメント情報」に掲げる区分と同一であります",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループを取り巻くインターネット広告市場におきましては、前年である2024年の広告費は３兆6,517億円（前年比9.6%増加）となり、総広告費に占める構成比は47.6%に達しました",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "主力のメディア事業では、掲載枠数・顧客数の着実な純増に加え、サービスの高付加価値化による単価上昇が進展し、売上収益41.0%増、セグメント利益86.2％増と高い成長を実現いたしました",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "HR事業では事業の整理と業務効率化等の推進により初めてのセグメント黒字を達成し、保険事業では法人向け市場という新たな成長ドライバーの開拓に本格着手いたしました",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントごとの経営成績は次のとおりであります",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、売上収益はセグメント間取引の相殺消去後の数値であります",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "以上の結果、メディア事業全体の売上収益は6,242,624千円（前年同期比41.0％増）、セグメント利益は2,034,591千円（同86.2％増）となりました",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、人材紹介サービスは引き続き堅調に売上収益を伸ばしており、初めてセグメント利益を計上するに至りました",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "以上の結果、売上収益は335,297千円（前年同期比75.5％増）、セグメント利益は71,480千円（前年同期は116,004千円の損失）となりました",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、上記に記載している連結経営成績及びセグメント別損益のうち、売上収益、営業利益及び税引前利益については非継続事業を除いた継続事業の金額を記載しております",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "以上の結果、売上収益は69,440千円（前年同期比8.6％減）、セグメント損益は159,559千円の損失（前年同期は130,470千円の損失）となりました",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度の販売実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１．セグメント間の取引については相殺消去しております",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "オープン株式会社（旧 株式会社セグメント）",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "（注）株式会社セグメントは、2024年6月1日にRPAテクノロジーズ株式会社及びオープンアソシエイツ株式会社と統合し、オープン株式会社に社名変更しております",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度におけるセグメントの経営成績は、次のとおりであります",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "構成比(注)",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント利益",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "事業と強み | アシロ 採用サイト — 事業と強み | アシロ 採用サイト 株式会社アシロ https://asiro.co.jp > ホーム > アシロを知る",
+    "url": "https://asiro.co.jp/career/about/business-content/",
+    "pass": 3
+   },
+   {
+    "quote": "アシロ 【7378】の事業内容 - キタイシホン — アシロ 【7378】の事業内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "アシロ /高い参入障壁を持つリーガルメディアを主に事業展開 — アシロ /高い参入障壁を持つリーガルメディアを主に事業展開 ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/376758",
+    "pass": 3
+   },
+   {
+    "quote": "倫理観と結果への執着心で突き進む。株式会社 アシロ が成長し ... — 倫理観と結果への執着心で突き進む。株式会社 アシロ が成長し ... 京都リーダーズ https://kyoto-leaders.jp > archives",
+    "url": "https://kyoto-leaders.jp/archives/41",
+    "pass": 3
+   },
+   {
+    "quote": "決算 関連 資料 | IR - ASIRO Inc. - 株式会社 アシロ — 決算 関連 資料 | IR - ASIRO Inc. - 株式会社 アシロ 株式会社アシロ https://asiro.co.jp > ホーム > IRライブラリー",
+    "url": "https://asiro.co.jp/ir/library/document/",
+    "pass": 3
+   },
+   {
+    "quote": "アシロ [7378]：2026年10月期第2四半期 決算説明資料 2026年 ... — アシロ [7378]：2026年10月期第2四半期 決算説明資料 2026年 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260609566588/",
+    "pass": 3
+   },
+   {
+    "quote": "アシロ (7378) 個人投資家・機関投資家合同IRセミナー【 資料 ... — アシロ (7378) 個人投資家・機関投資家合同IRセミナー【 資料 ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=98hWQfQ8jN0",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アシロ - ログミーファイナンス - logmi Finance — 株式会社 アシロ - ログミーファイナンス - logmi Finance ログミーFinance https://finance.logmi.jp > companies",
+    "url": "https://finance.logmi.jp/companies/1231",
+    "pass": 3
+   },
+   {
+    "quote": "アシロ ：2026年10月期第3四半期 決算説明資料 - Moomoo — アシロ ：2026年10月期第3四半期 決算説明資料 - Moomoo Moomoo https://www.moomoo.com > news > notice > asiro-present...",
+    "url": "https://www.moomoo.com/ja/news/notice/308119524/asiro-presentation-materials-for-the-third-quarter-financial-results-of",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アシロ ｜CLARIFY THE CORE PART — 株式会社 アシロ ｜CLARIFY THE CORE PART 株式会社アシロ https://asiro.co.jp",
+    "url": "https://asiro.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "アシロ 【7378】の 事業 内容 - キタイシホン — アシロ 【7378】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/7378/business",
+    "pass": 3
+   },
+   {
+    "quote": "アシロ （7378）、高単価商品に依存しない収益基盤の構築へ ... — アシロ （7378）、高単価商品に依存しない収益基盤の構築へ ... ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/385125",
+    "pass": 3
+   },
+   {
+    "quote": "【株式会社 アシロ 】企業説明動画 - YouTube — 【株式会社 アシロ 】企業説明動画 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=PSYiWgRsq68",
+    "pass": 3
+   },
+   {
+    "quote": "アシロ （ASIRO Inc.）| レポート掲載企業 - Alpha Win Capital — アシロ （ASIRO Inc.）| レポート掲載企業 - Alpha Win Capital Alpha Win Capital https://www.awincap.com > report",
+    "url": "https://www.awincap.com/report/7378.html",
+    "pass": 3
+   },
+   {
+    "quote": "アシロ ／中山 博登 社長 「20代は、踏ん張り続けて10％まで ... — アシロ ／中山 博登 社長 「20代は、踏ん張り続けて10％まで ... ceo-voice.com https://www.ceo-voice.com > 記事一覧",
+    "url": "https://www.ceo-voice.com/interview/asiro.html",
+    "pass": 3
+   },
+   {
+    "quote": "『新規上場 社長 の大志 ～Moment of Life～』に 当社代表取締役 ... — 『新規上場 社長 の大志 ～Moment of Life～』に 当社代表取締役 ... 株式会社アシロ https://asiro.co.jp > ニュース > プレスリリース",
+    "url": "https://asiro.co.jp/news/2022/7819/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アシロ ｜ 成長ベンチャーに訊く - CBRE — 株式会社 アシロ ｜ 成長ベンチャーに訊く - CBRE CBRE https://www.cbre.co.jp > office > trend > venture_asiro",
+    "url": "https://www.cbre.co.jp/properties/column/office/trend/venture_asiro",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://asiro.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asiro.co.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asiro.co.jp/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asiro.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asiro.co.jp/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asiro.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asiro.co.jp/ma/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asiro.co.jp/sustainability/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asiro.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asiro.co.jp/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.asiro.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asiro.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asiro.co.jp/privacy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asiro.co.jp/security/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asiro.co.jp/ad-guideline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asiro.co.jp/bengo-guideline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asiro.co.jp/external-transmission-policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asiro.co.jp/sitemap/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asiro.co.jp/ir/topmessage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asiro.co.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asiro.co.jp/ir/plan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asiro.co.jp/ir/highlight/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asiro.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asiro.co.jp/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asiro.co.jp/career/message/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://asiro.co.jp/wp-content/themes/ashiro/pdf/20220331privacy_safety-management-measures.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://kitaishihon.com/company/7378/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260609566588/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/7378/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyoto-leaders.jp/archives/41",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ceo-voice.com/interview/asiro.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "アシロ",
+   "results": [
+    "https://asiro.co.jp/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=7378",
+    "https://finance.logmi.jp/companies/1231",
+    "https://www.wantedly.com/companies/asiro",
+    "https://job.mynavi.jp/27/pc/search/corp261759/outline.html",
+    "https://ja.wikipedia.org/wiki/アシロ"
+   ]
+  },
+  {
+   "query": "アシロ ビジネスモデル",
+   "results": [
+    "https://asiro.co.jp/career/about/business-content/",
+    "https://kitaishihon.com/company/7378/business",
+    "https://finance.logmi.jp/articles/376758",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251211/20251210517435.pdf",
+    "https://kyoto-leaders.jp/archives/41",
+    "https://www.wantedly.com/companies/asiro/about",
+    "https://www.cbre.co.jp/properties/column/office/trend/venture_asiro",
+    "https://www.youtube.com/watch?v=pbdm5jO7FA4",
+    "https://note.com/yuz6017/n/n561a8c9d7203",
+    "https://consovation.com/株式会社アシロのビジネスモデルで見る成長戦略/"
+   ]
+  },
+  {
+   "query": "アシロ 決算説明資料",
+   "results": [
+    "https://asiro.co.jp/ir/library/document/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260609566588/",
+    "https://www.youtube.com/watch?v=98hWQfQ8jN0",
+    "https://finance.logmi.jp/companies/1231",
+    "https://www.moomoo.com/ja/news/notice/308119524/asiro-presentation-materials-for-the-third-quarter-financial-results-of",
+    "https://irbank.net/E34994/reports",
+    "https://asiro.co.jp/ir/",
+    "https://www.youtube.com/watch?v=JUFgJVKUQes",
+    "https://corp.opro.net/ir/presentation/"
+   ]
+  },
+  {
+   "query": "アシロ 事業系統図",
+   "results": [
+    "https://asiro.co.jp/",
+    "https://kitaishihon.com/company/7378/business",
+    "https://finance.logmi.jp/articles/385125",
+    "https://www.youtube.com/watch?v=PSYiWgRsq68",
+    "https://www.awincap.com/report/7378.html",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=7378",
+    "https://job.mynavi.jp/28/pc/search/corp261759/outline.html",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100V584.pdf",
+    "https://www.crex-data.com/company/7378",
+    "https://asiro.co.jp/business/"
+   ]
+  },
+  {
+   "query": "アシロ 社長 インタビュー",
+   "results": [
+    "https://kyoto-leaders.jp/archives/41",
+    "https://www.ceo-voice.com/interview/asiro.html",
+    "https://asiro.co.jp/news/2022/7819/",
+    "https://www.youtube.com/watch?v=mEbj6OPFNTM",
+    "https://www.cbre.co.jp/properties/column/office/trend/venture_asiro",
+    "https://www.youtube.com/playlist?list=PL9-c-3mbr0wC-iR-UtAJjN4s6YEHgPj3O",
+    "https://kitaishihon.com/company/7378/board-of-director",
+    "https://asiro.co.jp/career/people/",
+    "https://shachomeikan.jp/industry_article/2270",
+    "https://media.asiro.co.jp/people/ceo/"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式25頁／PDF・画像1件／外部5頁・検索5回）"
+ }
+}

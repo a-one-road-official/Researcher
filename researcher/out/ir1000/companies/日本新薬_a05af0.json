@@ -1,0 +1,1194 @@
+{
+ "name": "日本新薬",
+ "aliases": [],
+ "context": "証券コード4516／医薬品／プライム（内国株式）／2026.03期 売上高170,771百万円 営業利益率20.8%",
+ "researched_at": "2026-11-02T17:55:53.161416+00:00",
+ "official_url": "https://www.nippon-shinyaku.co.jp/",
+ "identified_by": "search:yahoo_jp:日本新薬",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1919年 10月1日",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%96%B0%E8%96%AC",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "連結：1,707億71百万 （2026年3月期）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%96%B0%E8%96%AC",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "連結：2,309人 （2026年3月末現在）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%96%B0%E8%96%AC",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "> 顧客責任",
+    "url": "https://www.nippon-shinyaku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "> 顧客責任",
+    "url": "https://www.nippon-shinyaku.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "> 顧客責任",
+    "url": "https://www.nippon-shinyaku.co.jp/link/redirect.php?q=http://pah-support.jp",
+    "pass": 1
+   },
+   {
+    "quote": "> 顧客責任",
+    "url": "https://www.nippon-shinyaku.co.jp/link/redirect.php?q=http://alcoholic-navi.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "> 顧客責任",
+    "url": "https://www.nippon-shinyaku.co.jp/link/redirect.php?q=https://seiritsu.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "> 顧客責任",
+    "url": "https://www.nippon-shinyaku.co.jp/link/redirect.php?q=https://www.ed-care-support.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "> 顧客責任",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "> 顧客責任",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/managementpolicy/top_interview.php",
+    "pass": 1
+   },
+   {
+    "quote": "患者さんや顧客一人ひとりの“生きる“ということにこれまで以上に本気で向き合い、社会に貢献していくため、引き続き医薬品事業と機能食品事業の二つの事業に取り組みます",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/managementpolicy/top_interview.php",
+    "pass": 1
+   },
+   {
+    "quote": "患者さんを中心に据えた「ペイシェント・セントリシティ」の考え方や顧客視点を重視し、独自性のある製品・サービスの提供を通じて、新しい生きるを世界に届けていきます",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/managementpolicy/top_interview.php",
+    "pass": 1
+   },
+   {
+    "quote": "> 顧客責任",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_news/ns2026/",
+    "pass": 1
+   },
+   {
+    "quote": "> 顧客責任",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/managementpolicy/",
+    "pass": 1
+   },
+   {
+    "quote": "> 顧客責任",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "> 顧客責任",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_library/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "> 顧客責任",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/esg_management/",
+    "pass": 1
+   },
+   {
+    "quote": "> 顧客責任",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_stock/",
+    "pass": 1
+   },
+   {
+    "quote": "> 顧客責任",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/Investor/",
+    "pass": 1
+   },
+   {
+    "quote": "> 顧客責任",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/calendar/calendar2026/",
+    "pass": 1
+   },
+   {
+    "quote": "> 顧客責任",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/stockprice.php",
+    "pass": 1
+   },
+   {
+    "quote": "> 顧客責任",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/analyst_coverage.php",
+    "pass": 1
+   },
+   {
+    "quote": "> 顧客責任",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/announcement.php",
+    "pass": 1
+   },
+   {
+    "quote": "> 顧客責任",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_policy.php",
+    "pass": 1
+   },
+   {
+    "quote": "> 顧客責任",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_email.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の個人情報の取り扱い基本方針については、個人情報の取扱いをご覧ください",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_email.php",
+    "pass": 1
+   },
+   {
+    "quote": "> 顧客責任",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_sitemap.php",
+    "pass": 1
+   },
+   {
+    "quote": "> 顧客責任",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_library/shinyaku_report.php",
+    "pass": 1
+   },
+   {
+    "quote": "> 顧客責任",
+    "url": "https://www.nippon-shinyaku.co.jp/sustainability/esg/human-capital/working_environment.php",
+    "pass": 1
+   },
+   {
+    "quote": "> 顧客責任",
+    "url": "https://www.nippon-shinyaku.co.jp/sustainability/esg/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "高品質で特長のある製品やサービスを提供する（顧客）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%96%B0%E8%96%AC",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "> 主要製品",
+    "url": "https://www.nippon-shinyaku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "> 製品情報",
+    "url": "https://www.nippon-shinyaku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、経営理念である「人々の健康と豊かな生活創りに貢献する」のもと、研究開発におけるターゲットを明確化し、製品パイプラインの拡充に向けてライセンス活動や共同研究を積極的に展開しています",
+    "url": "https://www.nippon-shinyaku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "> 主要製品",
+    "url": "https://www.nippon-shinyaku.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "> 製品情報",
+    "url": "https://www.nippon-shinyaku.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "> 主要製品",
+    "url": "https://www.nippon-shinyaku.co.jp/link/redirect.php?q=http://pah-support.jp",
+    "pass": 1
+   },
+   {
+    "quote": "> 製品情報",
+    "url": "https://www.nippon-shinyaku.co.jp/link/redirect.php?q=http://pah-support.jp",
+    "pass": 1
+   },
+   {
+    "quote": "> 主要製品",
+    "url": "https://www.nippon-shinyaku.co.jp/link/redirect.php?q=http://alcoholic-navi.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "> 製品情報",
+    "url": "https://www.nippon-shinyaku.co.jp/link/redirect.php?q=http://alcoholic-navi.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "> 主要製品",
+    "url": "https://www.nippon-shinyaku.co.jp/link/redirect.php?q=https://seiritsu.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "> 製品情報",
+    "url": "https://www.nippon-shinyaku.co.jp/link/redirect.php?q=https://seiritsu.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "> 主要製品",
+    "url": "https://www.nippon-shinyaku.co.jp/link/redirect.php?q=https://www.ed-care-support.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "> 製品情報",
+    "url": "https://www.nippon-shinyaku.co.jp/link/redirect.php?q=https://www.ed-care-support.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "> 主要製品",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "> 製品情報",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品開発状況",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "3.製品開発状況",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "> 主要製品",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/managementpolicy/top_interview.php",
+    "pass": 1
+   },
+   {
+    "quote": "> 製品情報",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/managementpolicy/top_interview.php",
+    "pass": 1
+   },
+   {
+    "quote": "環境変化の激しい中、人々の多様化する“生きる”というニーズに対して高品質で特長のある製品・サービスを提供していくため、当社は長期ビジョンとして「京都のグローバルヘルスケアカンパニーとして、一人ひとりの新しい生きるを世界に届ける会社」を2035年のありたい姿に掲げました",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/managementpolicy/top_interview.php",
+    "pass": 1
+   },
+   {
+    "quote": "患者さんを中心に据えた「ペイシェント・セントリシティ」の考え方や顧客視点を重視し、独自性のある製品・サービスの提供を通じて、新しい生きるを世界に届けていきます",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/managementpolicy/top_interview.php",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度からスタートした第七次5ヵ年中期経営計画「For Global Growth Beyond the Cliff」では、ウプトラビのパテントクリフを乗り越え、2035年のありたい姿を実現するために、製品・サービスを世界に提供する土台をさらに強化していきます",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/managementpolicy/top_interview.php",
+    "pass": 1
+   },
+   {
+    "quote": "引き続き、高品質で独自性の高い高付加価値の素材および最終製品を提供していきます",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/managementpolicy/top_interview.php",
+    "pass": 1
+   },
+   {
+    "quote": "> 主要製品",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_news/ns2026/",
+    "pass": 1
+   },
+   {
+    "quote": "> 製品情報",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_news/ns2026/",
+    "pass": 1
+   },
+   {
+    "quote": "> 主要製品",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/managementpolicy/",
+    "pass": 1
+   },
+   {
+    "quote": "> 製品情報",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/managementpolicy/",
+    "pass": 1
+   },
+   {
+    "quote": "> 主要製品",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "> 製品情報",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "製品開発状況",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "> 主要製品",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_library/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "> 製品情報",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_library/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "> 主要製品",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/esg_management/",
+    "pass": 1
+   },
+   {
+    "quote": "> 製品情報",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/esg_management/",
+    "pass": 1
+   },
+   {
+    "quote": "> 主要製品",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_stock/",
+    "pass": 1
+   },
+   {
+    "quote": "> 製品情報",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_stock/",
+    "pass": 1
+   },
+   {
+    "quote": "> 主要製品",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/Investor/",
+    "pass": 1
+   },
+   {
+    "quote": "> 製品情報",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/Investor/",
+    "pass": 1
+   },
+   {
+    "quote": "製品開発状況",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/Investor/",
+    "pass": 1
+   },
+   {
+    "quote": "> 主要製品",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/calendar/calendar2026/",
+    "pass": 1
+   },
+   {
+    "quote": "> 製品情報",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/calendar/calendar2026/",
+    "pass": 1
+   },
+   {
+    "quote": "> 主要製品",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/stockprice.php",
+    "pass": 1
+   },
+   {
+    "quote": "> 製品情報",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/stockprice.php",
+    "pass": 1
+   },
+   {
+    "quote": "> 主要製品",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/analyst_coverage.php",
+    "pass": 1
+   },
+   {
+    "quote": "> 製品情報",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/analyst_coverage.php",
+    "pass": 1
+   },
+   {
+    "quote": "この一覧表のアナリスト及びこの一覧表に掲載されていないアナリストは、定期もしくは不定期に、独自の判断に基づいて当社の業績、事業、製品、技術などを分析し、あるいは将来の業績を予測しています",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/analyst_coverage.php",
+    "pass": 1
+   },
+   {
+    "quote": "> 主要製品",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/announcement.php",
+    "pass": 1
+   },
+   {
+    "quote": "> 製品情報",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/announcement.php",
+    "pass": 1
+   },
+   {
+    "quote": "> 主要製品",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_policy.php",
+    "pass": 1
+   },
+   {
+    "quote": "> 製品情報",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_policy.php",
+    "pass": 1
+   },
+   {
+    "quote": "日本新薬株式会社は、適時適切な会社情報の開示が健全な資本市場の根幹をなすものであることを十分に認識し、金融商品取引法等の関係法令及び上場証券取引所規則に則り、すべてのステークホルダー並びにメディアに対し、タイムリーかつ公平な情報開示に努めます",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_policy.php",
+    "pass": 1
+   },
+   {
+    "quote": "会社法および金融商品取引法その他関係法令により定められる開示物",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_policy.php",
+    "pass": 1
+   },
+   {
+    "quote": "> 主要製品",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_email.php",
+    "pass": 1
+   },
+   {
+    "quote": "> 製品情報",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_email.php",
+    "pass": 1
+   },
+   {
+    "quote": "本サービスでは、原則として当社ウェブサイトのIR関連情報の更新または掲載が完了した後、電子メールを配信させていただきます",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_email.php",
+    "pass": 1
+   },
+   {
+    "quote": "本サービスの利用にあたり、利用上発生する、あるいはサービスが正常に利用できないことにより、登録いただいたみなさまに発生する不利益に関しては、当社は一切の責任を負わない旨、あらかじめご了承下さい",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_email.php",
+    "pass": 1
+   },
+   {
+    "quote": "本サービスでは、メール配信システムとして株式会社イー・エージェンシーのさぶみっと！を採用しております",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_email.php",
+    "pass": 1
+   },
+   {
+    "quote": "本サービスにつきましては、当社の都合により、登録いただいたみなさまへ通知することなく、サービス内容の変更または中止をさせていただく場合があります",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_email.php",
+    "pass": 1
+   },
+   {
+    "quote": "> 主要製品",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_sitemap.php",
+    "pass": 1
+   },
+   {
+    "quote": "> 製品情報",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_sitemap.php",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "日本新薬の企業活動を紹介します",
+    "url": "https://www.nippon-shinyaku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "SDGパートナーズ",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%96%B0%E8%96%AC",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "再発または難治性びまん性大細胞型B細胞リンパ腫治療薬ロンカスツキシマブテシリン（MT-2111）について田辺ファーマと日本における独占的販売に関するサブライセンス契約を締結",
+    "url": "https://www.nippon-shinyaku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、経営理念である「人々の健康と豊かな生活創りに貢献する」のもと、研究開発におけるターゲットを明確化し、製品パイプラインの拡充に向けてライセンス活動や共同研究を積極的に展開しています",
+    "url": "https://www.nippon-shinyaku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "再発または難治性びまん性大細胞型B細胞リンパ腫治療薬ロンカスツキシマブテシリン（MT-2111）について田辺ファーマと日本における独占的販売に関するサブライセンス契約を締結",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "再発または難治性びまん性大細胞型B細胞リンパ腫治療薬ロンカスツキシマブテシリン（MT-2111）について田辺ファーマと日本における独占的販売に関するサブライセンス契約を締結",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_news/ns2026/",
+    "pass": 1
+   },
+   {
+    "quote": "NS-025の全世界における開発・製造・販売に関する独占的ライセンス契約締結のお知らせ",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_news/ns2026/",
+    "pass": 1
+   },
+   {
+    "quote": "経営理念は、「人々の健康と豊かな生活創りに貢献する」であり、ターゲットを明確化してライセンス活動や共同研究開発をつづける企業である",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%96%B0%E8%96%AC",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%96%B0%E8%96%AC",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E4%BA%95%E4%BA%A8_(%E5%AE%9F%E6%A5%AD%E5%AE%B6)",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E5%89%8D%E5%B7%9D%E9%87%8D%E4%BF%A1",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年10月29日",
+    "url": "https://www.nippon-shinyaku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月23日",
+    "url": "https://www.nippon-shinyaku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月09日",
+    "url": "https://www.nippon-shinyaku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月01日",
+    "url": "https://www.nippon-shinyaku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月14日",
+    "url": "https://www.nippon-shinyaku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月26日",
+    "url": "https://www.nippon-shinyaku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月17日",
+    "url": "https://www.nippon-shinyaku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月31日",
+    "url": "https://www.nippon-shinyaku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月29日",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月01日",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月26日",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月25日",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月13日",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期決算発表・決算説明会",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月06日",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期決算発表・決算説明会",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月15日",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期決算発表・決算説明会",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年03月02日",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月1日～31日",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度 全上場企業",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度からスタートした第七次5ヵ年中期経営計画「For Global Growth Beyond the Cliff」では、ウプトラビのパテントクリフを乗り越え、2035年のありたい姿を実現するために、製品・サービスを世界に提供する土台をさらに強化していきます",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/managementpolicy/top_interview.php",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月29日",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_news/ns2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月01日",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_news/ns2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月26日",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_news/ns2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月25日",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_news/ns2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月19日",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_news/ns2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月10日",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_news/ns2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月06日",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_news/ns2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期決算発表",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_news/ns2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月04日",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_news/ns2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月30日",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_news/ns2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月22日",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_news/ns2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月21日",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_news/ns2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月26日",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_news/ns2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月23日",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_news/ns2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月20日",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_news/ns2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月15日",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_news/ns2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期決算発表",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_news/ns2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月14日",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_news/ns2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月08日",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_news/ns2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年04月10日",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_news/ns2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年03月25日",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_news/ns2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年03月18日",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_news/ns2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年03月11日",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_news/ns2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年02月24日",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_news/ns2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年02月10日",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_news/ns2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月13日",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/calendar/calendar2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期決算発表・決算説明会",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/calendar/calendar2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月06日",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/calendar/calendar2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期決算発表・決算説明会",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/calendar/calendar2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月15日",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/calendar/calendar2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期決算発表・決算説明会",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/calendar/calendar2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年03月02日",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/calendar/calendar2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年02月09日",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/calendar/calendar2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第3四半期決算説明会",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/calendar/calendar2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第3四半期決算発表",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/calendar/calendar2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月 現在",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/analyst_coverage.php",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度重点活動目標",
+    "url": "https://www.nippon-shinyaku.co.jp/sustainability/esg/human-capital/working_environment.php",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度重点施策",
+    "url": "https://www.nippon-shinyaku.co.jp/sustainability/esg/human-capital/working_environment.php",
+    "pass": 1
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "日本新薬の強み",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_library/shinyaku_report.php",
+    "pass": 1
+   },
+   {
+    "quote": "系や血液腫瘍領域を強みとしており、近年は",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%96%B0%E8%96%AC",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "IR資料室 | 株主・投資家の皆さま | 日本新薬 — 日本新薬株式会社「株主・投資家の皆さま」の「IR資料室」ページです。決算関連資料、統合報告書をご覧いただけます。また、最新の資料を一括でダウンロードいただけます。",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_library/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家の皆さまへ | 日本新薬 — Aug 25, 2026 · 日本新薬株式会社の「株主・投資家の皆さま」ページです。経営方針・経営計画、業績・財務情報、IR資料、サステナビリティ経営、株式・株主情報についてご紹介します。",
+    "url": "https://www.nippon-shinyaku.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "日本新薬株式会社 — 決算説明資料 - EDINET DB — Jun 29, 2026 · 日本新薬株式会社の決算説明資料を、AIで構造化されたセクション単位で表示。経営戦略・業績・ガバナンスなどテーマ ...",
+    "url": "https://edinetdb.jp/company/E00931/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "日本新薬（4516）のIR情報・決算資料 - IRBANK — Feb 9, 2026 · 日本新薬（4516）のIR情報・適時開示一覧。決算発表、業績修正などの開示情報を掲載。",
+    "url": "https://irbank.net/4516/ir",
+    "pass": 3
+   },
+   {
+    "quote": "日本新薬（4516）の決算発表資料一覧 | IRBANK — 日本新薬（4516）の決算発表資料一覧 β版IRBANKでは、 有報・決算資料の中身 がすぐ引ける新規登録の受付は残り 1 日 無料でβ版をはじめる 登録すると永久30%OFFと米株版の先行利用も付きます",
+    "url": "https://irbank.net/E00931/reports",
+    "pass": 3
+   },
+   {
+    "quote": "日本新薬 - Wikipedia — 日本新薬株式会社 （にっぽんしんやく, 英: Nippon Shinyaku Co., Ltd.）は、癌治療薬など製造する 製薬会社 である。 本社を 京都市 南区 吉祥院西ノ庄門口町に置く日本で代表される企業である。",
+    "url": "https://ja.wikipedia.org/wiki/日本新薬",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報 | 日本新薬 — 日本新薬株式会社の「会社情報」ページです。企業情報、経営理念・経営方針、医薬品事業、機能食品事業についてご紹介 ...",
+    "url": "https://www.nippon-shinyaku.co.jp/company_profile/",
+    "pass": 3
+   },
+   {
+    "quote": "日本新薬（4516）は、何で稼いでいる？｜事業・業績5年・同業比較 | ... — 日本新薬（4516）は、何で稼いでいる？ 日本新薬＝医薬品と機能食品の、二つの区分で稼ぐ会社。 2026年3月期の売上収益は1,708億円。 事業の中身・誰に売る・業績5年・営業利益率の推移・他の会社と比べるとを、決算の数字と図で読む。",
+    "url": "https://zukaikeizai.com/kaisha/4516/",
+    "pass": 3
+   },
+   {
+    "quote": "日本新薬 (4516) のセグメント別業績｜事業別売上・利益構成 - Zaimir... — Oct 2, 2026 · 日本新薬（4516）の事業セグメント別売上・営業利益の構成と推移を表示。どの事業が売上・利益を稼いでいるかをグラフで把握でき、主力事業・成長事業の見極めや、事業ポートフォリオの集中度・多角化度合いの分析、セグメント別利益率の比較に、EDINETの有価証券報告書のセグメント情報 ...",
+    "url": "https://zaimiru.jp/company/4516/segment",
+    "pass": 3
+   },
+   {
+    "quote": "事業構成 │ 会社情報 │ 日本新薬 — 機能食品事業 売上収益 222億円 （2026年3月末現在） 製薬企業としての高い技術力を生かし、健康食品素材、品質安定保存剤、プロテイン製剤のバルク事業に加え、サプリメント事業を中心として、市場ニーズに応える高付加価値製品を提供しています。",
+    "url": "https://www.nippon-shinyaku.co.jp/company_profile/activities/",
+    "pass": 3
+   },
+   {
+    "quote": "中井亨 (実業家) - Wikipedia — “ 日本新薬 次期社長に中井取締役が内定 DMD薬ビルテプソの海外展開推進 ”. ミクスOnline. 株式会社ミクス (2021年3月17日). 2025年10月6日閲覧。 “日本新薬新社長に中井亨氏が昇格 14年ぶり交代、前川重信社長は会長に”. 京都新聞 ON BUSINESS.",
+    "url": "https://ja.wikipedia.org/wiki/中井亨_(実業家)",
+    "pass": 3
+   },
+   {
+    "quote": "前川重信 - Wikipedia — 前川重信 2026年 前川 重信 （まえかわ しげのぶ、 1953年 1月18日 - ）は、 日本 の 経営者。 日本新薬 代表取締役会長を務めているほか、 一般社団法人京都経営者協会 の会長も務める [1]。 滋賀県 出身 [2]。",
+    "url": "https://ja.wikipedia.org/wiki/前川重信",
+    "pass": 3
+   },
+   {
+    "quote": "代表取締役社長メッセージ │ 会社情報 │ 日本新薬 — 1919 年、創業者・市野瀬潜は「日本人の服むくすりは日本人の手でつくりたい」という志のもと、日本新薬を創立しました。以来 100 余年、私たちは「人々の健康と豊かな生活創りに貢献する」という経営理念のもと、時代とともに変化する医療ニーズに向き合い、価値の創出に挑み続けてき ...",
+    "url": "https://www.nippon-shinyaku.co.jp/company_profile/top_message02.php",
+    "pass": 3
+   },
+   {
+    "quote": "展望2026トップインタビュー＞ 日本新薬・中井 亨 社長 細胞医薬の米... — Mar 25, 2026 · 化学工業日報社 (@chemicaldailyad). ＜#展望2026トップインタビュー＞ 日本新薬・中井 亨 社長 細胞医薬の米国上市に自信 – #化学工業日報電子版 #新型コロナ #再生医療 #ワクチン #遺伝子治療 #創薬 #治験",
+    "url": "https://x.com/chemicaldailyad/status/2036944327017222359",
+    "pass": 3
+   },
+   {
+    "quote": "中井亨氏の経歴｜日本新薬の歴代社長（2021年〜現任） — 2 days ago · 日本新薬（社長）中井亨氏。2021年6月、前川重信氏の後任として代表取締役社長に就任した。アンチセンス核酸医薬ビルテプソの米国での自社販売を、前任の前川重信氏から引き継いで進めた。",
+    "url": "https://the-shashi.com/tse/4516/executives/ceo/nakai-toru/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.nippon-shinyaku.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-shinyaku.co.jp/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-shinyaku.co.jp/link/redirect.php?q=http://pah-support.jp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-shinyaku.co.jp/link/redirect.php?q=http://alcoholic-navi.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-shinyaku.co.jp/link/redirect.php?q=https://seiritsu.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-shinyaku.co.jp/link/redirect.php?q=https://www.ed-care-support.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-shinyaku.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-shinyaku.co.jp/ir/managementpolicy/top_interview.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_news/ns2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-shinyaku.co.jp/ir/managementpolicy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-shinyaku.co.jp/ir/financial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_library/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-shinyaku.co.jp/ir/esg_management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-shinyaku.co.jp/ir/Investor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-shinyaku.co.jp/ir/calendar/calendar2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-shinyaku.co.jp/ir/stockprice.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-shinyaku.co.jp/ir/analyst_coverage.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-shinyaku.co.jp/ir/announcement.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_policy.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_email.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_sitemap.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_library/shinyaku_report.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-shinyaku.co.jp/sustainability/esg/human-capital/working_environment.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-shinyaku.co.jp/sustainability/esg/environment/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.nippon-shinyaku.co.jp/company_profile/lib/pdf/policy/patient_policy.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_library/pdf/shinyaku_report/2026/financialcapitalstrategy_2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_library/pdf/shinyaku_report/2026/financialcapitalstrategy_2026.pdf?date=2026",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_library/pdf/shinyaku_report/2025/financialcapitalstrategy_2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_library/pdf/shinyaku_report/2026/NipponShinyaku_Report2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_library/pdf/shinyaku_report/2026/NipponShinyaku_Report2026.pdf?v=2",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_library/pdf/shinyaku_report/2025/NipponShinyaku_Report2025_ESG.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nippon-shinyaku.co.jp/ir/ir_library/pdf/shinyaku_report/2025/NipponShinyaku_Report2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nippon-shinyaku.co.jp/sustainability/lib/img/esg/human-capital/img_flow.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.nippon-shinyaku.co.jp/sustainability/lib/img/esg/human-capital/img_flow_sp.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%96%B0%E8%96%AC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E4%BA%95%E4%BA%A8_(%E5%AE%9F%E6%A5%AD%E5%AE%B6)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%89%8D%E5%B7%9D%E9%87%8D%E4%BF%A1",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日本新薬",
+   "results": [
+    "https://www.nippon-shinyaku.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%96%B0%E8%96%AC",
+    "https://www.nippon-shinyaku-shop.com/",
+    "https://www.goodstory.jp/companies/nippon-shinyaku/",
+    "https://ja.wikipedia.org/wiki/日本新薬",
+    "https://www.nippon-shinyaku.co.jp/company_profile/",
+    "https://finance.yahoo.co.jp/quote/4516.T",
+    "https://finance.yahoo.co.jp/quote/4516.T/profile",
+    "https://www.traders.co.jp/stocks/61_4516/",
+    "https://ot32.qhit.net/mizuhosc/page/quote.cgi?F=market/kakaku&QCODE=4516&MKTN=T"
+   ]
+  },
+  {
+   "query": "日本新薬 ビジネスモデル",
+   "results": []
+  },
+  {
+   "query": "日本新薬 決算説明資料",
+   "results": [
+    "https://www.nippon-shinyaku.co.jp/ir/ir_library/index.html",
+    "https://www.nippon-shinyaku.co.jp/ir/",
+    "https://edinetdb.jp/company/E00931/presentations/",
+    "https://irbank.net/4516/ir",
+    "https://irbank.net/E00931/reports",
+    "https://treelazy.com/stock-jp/4516/conference",
+    "https://www.buffett-code.com/company/4516/library"
+   ]
+  },
+  {
+   "query": "日本新薬 事業系統図",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日本新薬",
+    "https://www.nippon-shinyaku.co.jp/company_profile/",
+    "https://zukaikeizai.com/kaisha/4516/",
+    "https://zaimiru.jp/company/4516/segment",
+    "https://www.nippon-shinyaku.co.jp/company_profile/activities/",
+    "https://www.sonyfg.co.jp/ja/financial_info/annualreport/260729_06.pdf",
+    "https://www.nipponkayaku.co.jp/company/information/organization.html"
+   ]
+  },
+  {
+   "query": "日本新薬 社長 インタビュー",
+   "results": [
+    "https://ja.wikipedia.org/wiki/中井亨_(実業家)",
+    "https://ja.wikipedia.org/wiki/前川重信",
+    "https://www.nippon-shinyaku.co.jp/company_profile/top_message02.php",
+    "https://x.com/chemicaldailyad/status/2036944327017222359",
+    "https://the-shashi.com/tse/4516/executives/ceo/nakai-toru/",
+    "https://www.nippon-shinyaku.co.jp/company_profile/profile/executive_officer/nakai.php"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式25頁／PDF・画像10件／外部3頁・検索5回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式25頁／PDF・画像10件／外部3頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式25頁／PDF・画像10件／外部3頁・検索5回）"
+ }
+}

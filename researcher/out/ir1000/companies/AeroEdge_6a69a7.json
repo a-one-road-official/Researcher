@@ -1,0 +1,1766 @@
+{
+ "name": "ＡｅｒｏＥｄｇｅ",
+ "aliases": [],
+ "context": "証券コード7409／輸送用機器／グロース（内国株式）／2026.06期 売上高5,085百万円 営業利益率22.5%",
+ "researched_at": "2026-11-02T17:37:27.607844+00:00",
+ "official_url": "https://aeroedge.co.jp/",
+ "identified_by": "search:yahoo_jp:AeroEdge",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立年月日",
+    "value": "2015年（平成27年）9月16日",
+    "url": "https://aeroedge.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2015年（平成27年）9月16日",
+    "url": "https://aeroedge.co.jp/ir/overview/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "210人（2026年7月1日現在）",
+    "url": "https://aeroedge.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "210人（2026年7月1日現在）",
+    "url": "https://aeroedge.co.jp/ir/overview/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "航空機エンジン部品の製造、販売 自動車、鉄道、発電機等の部品の製造、販売 エンジニアリングサービスの提供",
+    "url": "https://aeroedge.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "航空機エンジン部品の製造、販売 自動車、鉄道、発電機等の部品の製造、販売 エンジニアリングサービスの提供",
+    "url": "https://aeroedge.co.jp/ir/overview/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "2022年6月期売上高",
+    "value": "1,824百万円",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf",
+    "pass": 3
+   },
+   {
+    "label": "売上高（千円）",
+    "value": "3,602,276 5,084,657",
+    "url": "https://kitaishihon.com/company/7409/business",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "ビジネスモデル": [
+   {
+    "quote": "自社の新たなビジネスモデルの構築に取り組んでいます",
+    "url": "https://aeroedge.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "収益構造と財務ハイライト",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "01 高い加工/量産技術 02 設計権を持つエンジンメーカーとの直接取引 03 資源価格変動リスクに晒されない取引形態 04 航空機の生産と連動したビジネスモデル",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "予測しやすく継続性の高いビジネスモデルを構築",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "航空機の生産と連動したビジネスモデル",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "01 高い加工/量産技術 02 グローバルエンジンメーカーとの直接取引 03 資源価格変動リスクに晒されない取引形態 04 将来予測を行いやすいビジネスモデル",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "成長見込みが示されている航空業界に属し、受注残を10年分以上抱える航空機体の生産に連動するビジネスモデル",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "受注残を10年分以上抱える航空機体に連動したビジネスモデル",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "収益構造イメージ",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5. 収益構造と財務ハイライト",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "収益構造イメージ対売上高比率（単位：％）",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "収益構造（2025年6月期） 収益構造の特徴",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "チタンアルミブレード生産に関しては、材料無償支給により変動比率低 収益構造から、売上拡大時の利益率の増加幅が大きい",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "新材料量産後の収益構造",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "新材料量産後は収益構造が変化していく見込み",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従って、航空機エンジン産業の事業収益モデルは莫大な初期投資と、長期に渡る品質管理体制と生産管理体制の準備と構築を必要とすることが特徴となります",
+    "url": "https://kitaishihon.com/company/7409/business",
+    "pass": 3
+   },
+   {
+    "quote": "そして、航空機エンジン産業において、事業の初期段階である導入期には赤字事業となりますが、設備投資が一巡した成長期以降は継続的に黒字事業となることが一般的なビジネスモデルとなっております",
+    "url": "https://kitaishihon.com/company/7409/business",
+    "pass": 3
+   },
+   {
+    "quote": "［事業系統図］",
+    "url": "https://kitaishihon.com/company/7409/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの主力製品であるチタンアルミブレードは、材料が顧客からの無償支給であることから変動費比率が低く、生産数量の増加が利益率の改善に結びつく収益構造にあります",
+    "url": "https://kitaishihon.com/company/7409/business",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "お客様が満足する「ものづくり」を実現するため常に最先端の技術を研究・追求し、",
+    "url": "https://aeroedge.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "柔軟なサービスを提供し、お客様のご要望にお応えすることを約束いたします",
+    "url": "https://aeroedge.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ITビジネス部は「ITをテクノロジーではなくビジネスとして捉える」ことを重視し、ITエンジニアが製造現場に入り込むことで現場のユーザー体験（UX）を追求しています",
+    "url": "https://aeroedge.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "そして最終的には、その加工条件をお客様が正式に承認する必要があります",
+    "url": "https://aeroedge.co.jp/helloaeroedge/1845/",
+    "pass": 1
+   },
+   {
+    "quote": "LEAPエンジン向けチタンアルミ製低圧タービンブレードは現在、顧客から支給された材料を加工し生産しています",
+    "url": "https://aeroedge.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "プライバシー情報のうち「履歴情報および特性情報」とは，上記に定める「個人情報」以外のものをいい，ご利用いただいたサービスやご購入いただいた商品，ご覧になったページや広告の履歴，ユーザーが検索された検索キーワード，ご利用日時，ご利用の方法，ご利用環境，郵便番号や性別，職業，年齢，ユーザーのIPアドレス，クッキー情報，位置情報，端末の個体識別情報などを指します",
+    "url": "https://aeroedge.co.jp/ir/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は，ユーザーが利用登録をする際に氏名，生年月日，住所，電話番号，メールアドレス，銀行口座番号，クレジットカード番号，運転免許証番号などの個人情報をお尋ねすることがあります",
+    "url": "https://aeroedge.co.jp/ir/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "また，ユーザーと提携先などとの間でなされたユーザーの個人情報を含む取引記録や，決済に関する情報を当社の提携先（情報提供元，広告主，広告配信先などを含みます",
+    "url": "https://aeroedge.co.jp/ir/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は，ユーザーについて，利用したサービスやソフトウエア，購入した商品，閲覧したページや広告の履歴，検索した検索キーワード，利用日時，利用方法，利用環境（携帯端末を通じてご利用の場合の当該端末の通信状態，利用に際しての各種設定情報なども含みます），IPアドレス，クッキー情報，位置情報，端末の個体識別情報などの履歴情報および特性情報を，ユーザーが当社や提携先のサービスを利用しまたはページを閲覧する際に収集します",
+    "url": "https://aeroedge.co.jp/ir/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "（1）ユーザーに自分の登録情報の閲覧や修正，利用状況の閲覧を行っていただくために，氏名，住所，連絡先，支払方法などの登録情報，利用されたサービスや購入された商品，およびそれらの代金などに関する情報を表示する目的",
+    "url": "https://aeroedge.co.jp/ir/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "（2）ユーザーにお知らせや連絡をするためにメールアドレスを利用する場合やユーザーに商品を送付したり必要に応じて連絡したりするため，氏名や住所などの連絡先情報を利用する目的",
+    "url": "https://aeroedge.co.jp/ir/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "（3）ユーザーの本人確認を行うために，氏名，生年月日，住所，電話番号，銀行口座番号，クレジットカード番号，運転免許証番号，配達証明付き郵便の到達結果などの情報を利用する目的",
+    "url": "https://aeroedge.co.jp/ir/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "（4）ユーザーに代金を請求するために，購入された商品名や数量，利用されたサービスの種類や期間，回数，請求金額，氏名，住所，銀行口座番号やクレジットカード番号などの支払に関する情報などを利用する目的",
+    "url": "https://aeroedge.co.jp/ir/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "（5）ユーザーが簡便にデータを入力できるようにするために，当社に登録されている情報を入力画面に表示させたり，ユーザーのご指示に基づいて他のサービスなど（提携先が提供するものも含みます）に転送したりする目的",
+    "url": "https://aeroedge.co.jp/ir/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "（6）代金の支払を遅滞したり第三者に損害を発生させたりするなど，本サービスの利用規約に違反したユーザーや，不正・不当な目的でサービスを利用しようとするユーザーの利用をお断りするために，利用態様，氏名や住所など個人を特定するための情報を利用する目的",
+    "url": "https://aeroedge.co.jp/ir/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "（7）ユーザーからのお問い合わせに対応するために，お問い合わせ内容や代金の請求に関する情報など当社がユーザーに対してサービスを提供するにあたって必要となる情報や，ユーザーのサービス利用状況，連絡先情報などを利用する目的",
+    "url": "https://aeroedge.co.jp/ir/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は，次に掲げる場合を除いて，あらかじめユーザーの同意を得ることなく，第三者に個人情報を提供することはありません",
+    "url": "https://aeroedge.co.jp/ir/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーは，当社の保有する自己の個人情報が誤った情報である場合には，当社が定める手続きにより，当社に対して個人情報の訂正または削除を請求することができます",
+    "url": "https://aeroedge.co.jp/ir/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は，ユーザーから前項の請求を受けてその請求に応じる必要があると判断した場合には，遅滞なく，当該個人情報の訂正または削除を行い，これをユーザーに通知します",
+    "url": "https://aeroedge.co.jp/ir/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "本ポリシーの内容は，ユーザーに通知することなく，変更することができるものとします",
+    "url": "https://aeroedge.co.jp/ir/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、「ゼロからイチを創る ～常識を疑い、組織力で難しい課題に挑戦する～」という経営理念のもと、創造性と技術力で新たな製造業の形を作り出すことにより、顧客へ付加価値を提供するとともに、社会に貢献していくことを目指しております",
+    "url": "https://aeroedge.co.jp/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "当社はこの認識のもと、新たな価値を創造するとともに、経営効率化により真に競争力のある利益体質企業を構築することで、株主をはじめとして顧客、従業員と共存共栄をもたらす経営を実践していくと共に、グローバル・スタンダードに対応し得る経営機能の強化、コンプライアンス体制の構築を更に進める考えであります",
+    "url": "https://aeroedge.co.jp/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様が満足する「ものづくり」を実現するため常に最先端の技術を研究・追求し、",
+    "url": "https://aeroedge.co.jp/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "また、部品設計の段階からお客様と協業してVA/VE提案を行ってきた多くの実績があり、コスト競争力や付加価値を追求した取り組みを実施します",
+    "url": "https://aeroedge.co.jp/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "航空産業の品質マネジメントシステム、顧客要求事項に準拠した品質保証の体制を独自に構築しています",
+    "url": "https://aeroedge.co.jp/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "並行して、新規サプライヤー及び協力メーカーの開拓を積極的に行い、多様なお客様のニーズに応えられる強力なネットワークを構築し、当社の競争力を維持・向上しています",
+    "url": "https://aeroedge.co.jp/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "主要な販売先は仏航空機エンジンメーカー",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "海オフィス駐在時には、顧客日本企業やその現地法人等に対する幅広い財務",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "特定（主に航空事業者）利用者 不特定（主に個人）",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 工程変更管理や顧客認証など、航空業界の複雑な品質保証プロセスの維持・管理能力 等",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国内外のお客様に対する訴求力強化のために、創業当初からデジタルを重要施策と位置付け、生産管理システム、",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（顧客要求管理）",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 顧客の開発動向を入手可能",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 当社が(a)契約不履行や破産等した場合、(b)当社の支配株主が同社の競合企業となった場合、(c)LEAPエンジンの事業主体が変更した場合、(d)同社がオフセット取引（特定の顧客に製品を購入してもらう見返りに、特定の部品発注を行うと",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "」「精密検査」が要求され、複雑に絡まった難易度の高い工程設計が必要となりますが、これらを自社で設計し、顧客要求を実現しております",
+    "url": "https://kitaishihon.com/company/7409/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、航空産業の品質マネジメントシステム、顧客要求事項に準拠した品質保証の体制を独自に構築しております",
+    "url": "https://kitaishihon.com/company/7409/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、2026年６月には、国内大手重工業メーカーを主要な取引先として航空機体部品及び防衛関連部品の加工を主力事業とする株式会社オノプラントの全株式を取得し完全子会社化したことにより、事業領域を機体部品及び防衛関連分野にも拡大しております",
+    "url": "https://kitaishihon.com/company/7409/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの主力製品であるチタンアルミブレードは、材料が顧客からの無償支給であることから変動費比率が低く、生産数量の増加が利益率の改善に結びつく収益構造にあります",
+    "url": "https://kitaishihon.com/company/7409/business",
+    "pass": 3
+   },
+   {
+    "quote": "主要事業であるチタンアルミブレードの生産においては、材料が顧客からの無償支給であるため、当社において材料購入に関わる運転資金負担はありません",
+    "url": "https://kitaishihon.com/company/7409/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、加工事業の単一セグメントであり、当該事業の外部顧客への売上高が連結損益計算書の売上高の90％超であるため、記載を省略しています",
+    "url": "https://kitaishihon.com/company/7409/business",
+    "pass": 3
+   },
+   {
+    "quote": "(注) 売上高は、顧客の所在地を基礎とし、国及び地域ごとに分類しております",
+    "url": "https://kitaishihon.com/company/7409/business",
+    "pass": 3
+   },
+   {
+    "quote": "３．主要な顧客ごとの情報",
+    "url": "https://kitaishihon.com/company/7409/business",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の名称又は氏名",
+    "url": "https://kitaishihon.com/company/7409/business",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/7409/business",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "製品・サービス",
+    "url": "https://aeroedge.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリングサービス",
+    "url": "https://aeroedge.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションカンパニーへ",
+    "url": "https://aeroedge.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "常に変わりゆく世の中で、社会への価値、社会から求められるソリューションを一人ひとりが創造し、組織で提供します",
+    "url": "https://aeroedge.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "創造性と技術力で感動をもたらすソリューションカンパニーへ",
+    "url": "https://aeroedge.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "加工・サービス案内",
+    "url": "https://aeroedge.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Additive Manufacturing技術を用いた製品開発の支援や、",
+    "url": "https://aeroedge.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "柔軟なサービスを提供し、お客様のご要望にお応えすることを約束いたします",
+    "url": "https://aeroedge.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスに関してお気軽にお問い合わせください",
+    "url": "https://aeroedge.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://aeroedge.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリングサービス",
+    "url": "https://aeroedge.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリングサービスの提供",
+    "url": "https://aeroedge.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "中小企業庁 平成28年度 「革新的ものづくり・商業・サービス開発支援補助金」の補助事業者に採択",
+    "url": "https://aeroedge.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "中小企業庁 平成30年度 「ものづくり・商業・サービス生産性向上促進補助金」の補助事業者に採択",
+    "url": "https://aeroedge.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "治具設計のエンジニアリングサービスを開始",
+    "url": "https://aeroedge.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "非破壊検査立ち上げ支援サービスを開始",
+    "url": "https://aeroedge.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、航空製品用機器の機械加工部品の製造の事業活動を踏まえて、以下の方針に基づき情報セキュリティ管理を行い、経営者主導で情報セキュリティに関する法規制を遵守し継続的な改善に努めます",
+    "url": "https://aeroedge.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "・脱炭素管理クラウドを用いた製品ラインの温室効果ガス排出量の検証",
+    "url": "https://aeroedge.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスに関してお気軽にお問い合わせください",
+    "url": "https://aeroedge.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://aeroedge.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリングサービス",
+    "url": "https://aeroedge.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスに関してお気軽にお問い合わせください",
+    "url": "https://aeroedge.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://aeroedge.co.jp/helloaeroedge/1845/",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリングサービス",
+    "url": "https://aeroedge.co.jp/helloaeroedge/1845/",
+    "pass": 1
+   },
+   {
+    "quote": "チタンアルミブレードの売上が伸びている主な理由として、航空機需要の拡大により受注残が高い水準で続いていること、そして当社製品が搭載されるA320neo・737MAXが世界的に増産の方向で動いていることを説明会でお伝えしました",
+    "url": "https://aeroedge.co.jp/helloaeroedge/1845/",
+    "pass": 1
+   },
+   {
+    "quote": "部品加工では、効率よく高品質な製品をつくるため、最適な加工条件を試行錯誤しながら探していきます",
+    "url": "https://aeroedge.co.jp/helloaeroedge/1845/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスに関してお気軽にお問い合わせください",
+    "url": "https://aeroedge.co.jp/helloaeroedge/1845/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://aeroedge.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリングサービス",
+    "url": "https://aeroedge.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスに関してお気軽にお問い合わせください",
+    "url": "https://aeroedge.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://aeroedge.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリングサービス",
+    "url": "https://aeroedge.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "AeroEdgeは、現在の主力事業であるチタンアルミ製タービンブレードの更なる販売拡大並びに収益性の向上を図ると共に、新たな量産ビジネスの拡大を目指してまいります",
+    "url": "https://aeroedge.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスに関してお気軽にお問い合わせください",
+    "url": "https://aeroedge.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://aeroedge.co.jp/ir/performance/",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリングサービス",
+    "url": "https://aeroedge.co.jp/ir/performance/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスに関してお気軽にお問い合わせください",
+    "url": "https://aeroedge.co.jp/ir/performance/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://aeroedge.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリングサービス",
+    "url": "https://aeroedge.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスに関してお気軽にお問い合わせください",
+    "url": "https://aeroedge.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://aeroedge.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリングサービス",
+    "url": "https://aeroedge.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ライフサイクルが長く、安定した収益が期待できる航空機エンジン部品の量産案件拡大により収益の多様化を図ります",
+    "url": "https://aeroedge.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスに関してお気軽にお問い合わせください",
+    "url": "https://aeroedge.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://aeroedge.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリングサービス",
+    "url": "https://aeroedge.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスに関してお気軽にお問い合わせください",
+    "url": "https://aeroedge.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://aeroedge.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリングサービス",
+    "url": "https://aeroedge.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスに関してお気軽にお問い合わせください",
+    "url": "https://aeroedge.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://aeroedge.co.jp/ir/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリングサービス",
+    "url": "https://aeroedge.co.jp/ir/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリングサービスの提供",
+    "url": "https://aeroedge.co.jp/ir/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスに関してお気軽にお問い合わせください",
+    "url": "https://aeroedge.co.jp/ir/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://aeroedge.co.jp/ir/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリングサービス",
+    "url": "https://aeroedge.co.jp/ir/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "・製品・サービスや採用、講演など、IR情報以外のお問い合わせは画面右上の",
+    "url": "https://aeroedge.co.jp/ir/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "●⾦融商品取引法 第166条にある「重要事実」に該当する可能性のあるご質問(株主還元、株価対策等)",
+    "url": "https://aeroedge.co.jp/ir/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "プライバシー情報のうち「履歴情報および特性情報」とは，上記に定める「個人情報」以外のものをいい，ご利用いただいたサービスやご購入いただいた商品，ご覧になったページや広告の履歴，ユーザーが検索された検索キーワード，ご利用日時，ご利用の方法，ご利用環境，郵便番号や性別，職業，年齢，ユーザーのIPアドレス，クッキー情報，位置情報，端末の個体識別情報などを指します",
+    "url": "https://aeroedge.co.jp/ir/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は，ユーザーについて，利用したサービスやソフトウエア，購入した商品，閲覧したページや広告の履歴，検索した検索キーワード，利用日時，利用方法，利用環境（携帯端末を通じてご利用の場合の当該端末の通信状態，利用に際しての各種設定情報なども含みます），IPアドレス，クッキー情報，位置情報，端末の個体識別情報などの履歴情報および特性情報を，ユーザーが当社や提携先のサービスを利用しまたはページを閲覧する際に収集します",
+    "url": "https://aeroedge.co.jp/ir/inquiry/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "マネジメント紹介",
+    "url": "https://aeroedge.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "AeroEdge紹介動画",
+    "url": "https://aeroedge.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "マネジメント紹介",
+    "url": "https://aeroedge.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "マネジメント紹介",
+    "url": "https://aeroedge.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "マネジメント紹介",
+    "url": "https://aeroedge.co.jp/helloaeroedge/1845/",
+    "pass": 1
+   },
+   {
+    "quote": "マネジメント紹介",
+    "url": "https://aeroedge.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "マネジメント紹介",
+    "url": "https://aeroedge.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "マネジメント紹介",
+    "url": "https://aeroedge.co.jp/ir/performance/",
+    "pass": 1
+   },
+   {
+    "quote": "マネジメント紹介",
+    "url": "https://aeroedge.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "マネジメント紹介",
+    "url": "https://aeroedge.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "マネジメント紹介",
+    "url": "https://aeroedge.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "マネジメント紹介",
+    "url": "https://aeroedge.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "マネジメント紹介",
+    "url": "https://aeroedge.co.jp/ir/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "マネジメント紹介",
+    "url": "https://aeroedge.co.jp/ir/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "マネジメント紹介",
+    "url": "https://aeroedge.co.jp/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "マネジメント紹介",
+    "url": "https://aeroedge.co.jp/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "マネジメント紹介",
+    "url": "https://aeroedge.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "マネジメント紹介",
+    "url": "https://aeroedge.co.jp/ir/cashflow/",
+    "pass": 1
+   },
+   {
+    "quote": "マネジメント紹介",
+    "url": "https://aeroedge.co.jp/ir/results/",
+    "pass": 1
+   },
+   {
+    "quote": "マネジメント紹介",
+    "url": "https://aeroedge.co.jp/ir/presentations/",
+    "pass": 1
+   },
+   {
+    "quote": "マネジメント紹介",
+    "url": "https://aeroedge.co.jp/ir/securities/",
+    "pass": 1
+   },
+   {
+    "quote": "マネジメント紹介",
+    "url": "https://aeroedge.co.jp/ir/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "マネジメント紹介",
+    "url": "https://aeroedge.co.jp/ir/others/",
+    "pass": 1
+   },
+   {
+    "quote": "マネジメント紹介",
+    "url": "https://aeroedge.co.jp/ir/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "マネジメント紹介",
+    "url": "https://aeroedge.co.jp/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "国内外のサプライヤー及び協力メーカーの公正な選定及び評価を行い、試作・量産パートナーとして継続的かつ安定した信頼関係を構築しています",
+    "url": "https://aeroedge.co.jp/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "マネジメント紹介",
+    "url": "https://aeroedge.co.jp/ir/quote/",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "会社概要・沿革",
+    "url": "https://aeroedge.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要＆沿革",
+    "url": "https://aeroedge.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月16日「チタンアル",
+    "url": "https://aeroedge.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革 - AeroEdge株式会社",
+    "url": "https://aeroedge.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革",
+    "url": "https://aeroedge.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年（平成27年）9月16日",
+    "url": "https://aeroedge.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年（平成27年) 9月",
+    "url": "https://aeroedge.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年（平成28年) 1月",
+    "url": "https://aeroedge.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年（平成28年) 3月",
+    "url": "https://aeroedge.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年（平成28年) 4月",
+    "url": "https://aeroedge.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年（平成30年) 3月",
+    "url": "https://aeroedge.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年（平成30年) 6月",
+    "url": "https://aeroedge.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年（平成30年) 7月",
+    "url": "https://aeroedge.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年（平成30年) 9月",
+    "url": "https://aeroedge.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年（平成31年) 1月",
+    "url": "https://aeroedge.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年（平成31年) 4月",
+    "url": "https://aeroedge.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年（令和元年) 6月",
+    "url": "https://aeroedge.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年（令和2年) 5月",
+    "url": "https://aeroedge.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年（令和4年) 8月",
+    "url": "https://aeroedge.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年（令和5年) 7月",
+    "url": "https://aeroedge.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年（令和6年) 6月",
+    "url": "https://aeroedge.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年（令和7年) 4月",
+    "url": "https://aeroedge.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年（令和8年) 6月",
+    "url": "https://aeroedge.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年11月1日",
+    "url": "https://aeroedge.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革",
+    "url": "https://aeroedge.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革",
+    "url": "https://aeroedge.co.jp/helloaeroedge/1845/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年末時点の受注残はA320neo：7,145機、737MAX：5,411機となっており、現在の生産ペースでは、いま受注されている機体が納品されるのは約12年後という長い待ち行列になっています",
+    "url": "https://aeroedge.co.jp/helloaeroedge/1845/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革",
+    "url": "https://aeroedge.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革",
+    "url": "https://aeroedge.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年7月4日",
+    "url": "https://aeroedge.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革",
+    "url": "https://aeroedge.co.jp/ir/performance/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革",
+    "url": "https://aeroedge.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革",
+    "url": "https://aeroedge.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革はこちら",
+    "url": "https://aeroedge.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "2013年に日本の中小企業として初めて、大手航空機エンジンメーカー 仏Safran Aircraft Engines社 と供給契約を結びました",
+    "url": "https://aeroedge.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年には、仏Safran Aircraft Engines社の約2000社のグローバルサプライヤーのうち5社のみに与えられるSupplier Performance Awardを受賞するなど、AeroEdgeの技術は高く評価されています",
+    "url": "https://aeroedge.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 通期決算予想",
+    "url": "https://aeroedge.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 通期決算予想のポイント",
+    "url": "https://aeroedge.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年6月期の供給開始見込み",
+    "url": "https://aeroedge.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年、グローバル大手航空機関連メーカーと、部品供給に関する長期契約（10年）を締結するとともに、その他の部品の量産立上げを進めております",
+    "url": "https://aeroedge.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革",
+    "url": "https://aeroedge.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革",
+    "url": "https://aeroedge.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月13日",
+    "url": "https://aeroedge.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年6月期第1四半期決算発表",
+    "url": "https://aeroedge.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月中旬",
+    "url": "https://aeroedge.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年6月期第2四半期決算発表",
+    "url": "https://aeroedge.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年5月中旬",
+    "url": "https://aeroedge.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年6月期第3四半期決算発表",
+    "url": "https://aeroedge.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年8月中旬",
+    "url": "https://aeroedge.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年6月期決算発表",
+    "url": "https://aeroedge.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年9月下旬",
+    "url": "https://aeroedge.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革",
+    "url": "https://aeroedge.co.jp/ir/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年（平成27年）9月16日",
+    "url": "https://aeroedge.co.jp/ir/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革",
+    "url": "https://aeroedge.co.jp/ir/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革",
+    "url": "https://aeroedge.co.jp/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "1984年4月",
+    "url": "https://aeroedge.co.jp/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "1987年4月",
+    "url": "https://aeroedge.co.jp/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "1990年7月",
+    "url": "https://aeroedge.co.jp/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "1994年11月",
+    "url": "https://aeroedge.co.jp/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年7月",
+    "url": "https://aeroedge.co.jp/ir/executive/",
+    "pass": 1
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "品質管理クラウドを用いた不適合管理、RFIDを活用した在庫効率管理、ノーコード・ローコードで業務の効率化アプリを開発するための「内製アプリ基盤」を運用しています",
+    "url": "https://aeroedge.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "により、生産実績、在庫、設備の稼働状況のデータを一元管理するデータ",
+    "url": "https://aeroedge.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "当社はこれまで、チタンアルミブレード事業で大幅な改善を行い、高収益な体制を構築した経験があります",
+    "url": "https://aeroedge.co.jp/helloaeroedge/1845/",
+    "pass": 1
+   },
+   {
+    "quote": "AeroEdgeでは機械加工や工程設計といった従来から持つ強みに基づく積層形状の設計や前後工程の設計を含めたご提案が可能です",
+    "url": "https://aeroedge.co.jp/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "AeroEdgeでは、歯車製造ノウハウを熟知した技術者が工程設計を行い、関係会社である菊地歯車株式会社を始めとする歯車加工に強みをもつ協力メーカー各社との連携により、精密な歯車製品の多様な加工ニーズに応えることが可能です",
+    "url": "https://aeroedge.co.jp/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "耐熱合金や開発中の材料への対応力に強みを持ち、最適な設備選定、治具設計、工具設定、加工条件出しなど短期間で良品を安定供給することが可能です",
+    "url": "https://aeroedge.co.jp/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "高い参入障壁",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "01 成長市場 02 高い参入障壁",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "02 高い参入障壁",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "参入障壁が高い航空業界",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "航空業界は他産業より、高い品質が求められ、参入障壁が高い",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "01 回復から成長 02 高い参入障壁",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "高い参入障壁により航空機・エンジンの種類、プレイヤーは限定的",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社は加工技術と量産技術に強み",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（在庫効率管理）",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高 営業利益 EBITDA 営業利益率",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の参入障壁は他業界と比較して高く、競合が参入しにくいことから、今後も取引を継続できるものと考えておりますが、もし、上記記載の契約終了や",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が、同社、並びに同製品への依存度を引き下げるため、他の航空機エンジン部品等、当社の強みを発揮できる分野での新規量産案件の拡大に努めて",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の強みを発揮できる分野",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "タービン部品、等、当社の強み",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "航空機産業はその産業構造から、参入障壁が高く、最終製品メーカー（機体及びエンジン）が少数の企業で占められていることが特徴となります",
+    "url": "https://kitaishihon.com/company/7409/business",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、参入障壁が高く、新規参入企業が少ないために将来の利益を計画しやすいという特徴があります",
+    "url": "https://kitaishihon.com/company/7409/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度の販売費及び一般管理費は1,163,012千円となり、営業利益は1,145,382千円、売上高営業利益率は22.5％となりました",
+    "url": "https://kitaishihon.com/company/7409/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上高の拡大により固定費の回収が進んだことから、先行投資を継続しながらも営業利益率を高めることができたものと認識しております",
+    "url": "https://kitaishihon.com/company/7409/business",
+    "pass": 3
+   },
+   {
+    "quote": "提出会社単体では、販売費及び一般管理費は1,107,812千円（前期比7.4％増）、営業利益は1,200,582千円（前期比83.2％増）となり、売上高営業利益率は23.6％（前事業年度18.2％）となりました",
+    "url": "https://kitaishihon.com/company/7409/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、当社グループは新規案件の拡大を進めておりますが、新規案件の立上時には売上規模に比べて固定費である減価償却費や人件費の割合が大きくなり、営業利益率が抑えられる傾向にあります",
+    "url": "https://kitaishihon.com/company/7409/business",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "なお，個人情報の開示に際しては，１件あたり1,000円の手数料を申し受けます",
+    "url": "https://aeroedge.co.jp/ir/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "販売単価についても契約によって原則として定められているため、当社の売上金額は一定の精度で見込むことができます",
+    "url": "https://kitaishihon.com/company/7409/business",
+    "pass": 3
+   },
+   {
+    "quote": "営業外費用の主な内容は、設備投資資金の調達に伴う借入金残高の増加を反映した支払利息74,926千円及び支払手数料17,659千円であります",
+    "url": "https://kitaishihon.com/company/7409/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、前事業年度に計上していたリファイナンスに伴うシンジケートローン手数料及び為替差損の反動により、営業外損益は改善しております",
+    "url": "https://kitaishihon.com/company/7409/business",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "（全体売上に対する構成比：92.9％）",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（25年6月期売上構成比：94.5％）",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "構成比：5.5％）",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "対売上比率 △ 30.3% 28.5% 41.2% 45.1% 38.0%",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "対売上比率 - - 16.4% 21.1% 18.2% 16.4%",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "対売上比率 - 0.5% 20.5% 25.2% △ 0.9% 14.7%",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "対売上比率 - 0.4% 23.0% 20.9% △ 1.0% 10.1%",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "対売上比率 - 17.5% 31.4% 32.6% 19.3% 28.0%",
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/7409/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/7409/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/7409/business",
+    "pass": 3
+   },
+   {
+    "quote": "（単一セグメント）",
+    "url": "https://kitaishihon.com/company/7409/business",
+    "pass": 3
+   },
+   {
+    "quote": "単一セグメントの企業の場合は、連結（あるいは単体）の売上と営業利益を反映しています",
+    "url": "https://kitaishihon.com/company/7409/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/7409/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/7409/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/7409/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは「加工事業」の単一セグメントで活動しておりますが、参考として、当社の事業・機能を主要製品であるLEAPチタンアルミブレード加工とその他の",
+    "url": "https://kitaishihon.com/company/7409/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、加工事業の単一セグメントのため、セグメントごとの記載を省略しております",
+    "url": "https://kitaishihon.com/company/7409/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、当社グループは「加工事業」の単一セグメントであるため、セグメント別の記載を省略しております",
+    "url": "https://kitaishihon.com/company/7409/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://kitaishihon.com/company/7409/business",
+    "pass": 3
+   },
+   {
+    "quote": "(セグメント情報等)",
+    "url": "https://kitaishihon.com/company/7409/business",
+    "pass": 3
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://kitaishihon.com/company/7409/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、加工事業の単一セグメントであるため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/7409/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、加工事業の単一セグメントであり、当該事業の外部顧客への売上高が連結損益計算書の売上高の90％超であるため、記載を省略しています",
+    "url": "https://kitaishihon.com/company/7409/business",
+    "pass": 3
+   },
+   {
+    "quote": "単一セグメント",
+    "url": "https://kitaishihon.com/company/7409/business",
+    "pass": 3
+   },
+   {
+    "quote": "であるため、関連するセグメント名の記載を省略しております",
+    "url": "https://kitaishihon.com/company/7409/business",
+    "pass": 3
+   },
+   {
+    "quote": "【報告セグメントごとの固定資産の減損損失に関する情報】",
+    "url": "https://kitaishihon.com/company/7409/business",
+    "pass": 3
+   },
+   {
+    "quote": "【報告セグメントごとののれんの償却額及び未償却残高に関する情報】",
+    "url": "https://kitaishihon.com/company/7409/business",
+    "pass": 3
+   },
+   {
+    "quote": "【報告セグメントごとの負ののれん発生益に関する情報】",
+    "url": "https://kitaishihon.com/company/7409/business",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "AeroEdge 株式会社（エアロエッジ） — AeroEdge 株式会社（エアロエッジ） AeroEdge株式会社 https://aeroedge.co.jp",
+    "url": "https://aeroedge.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "AeroEdge 、中長期目標として航空機エンジンMRO市場参入を ... — AeroEdge 、中長期目標として航空機エンジンMRO市場参入を ... ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/383304",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙株のモート（堀）【018】 AeroEdge ｜まさ - note — 宇宙株のモート（堀）【018】 AeroEdge ｜まさ - note note https://note.com > ビジネス > キャリア・働き方",
+    "url": "https://note.com/good_dill292/n/n5c6a62ac634f",
+    "pass": 3
+   },
+   {
+    "quote": "AeroEdge 【7409】の事業内容 - キタイシホン — AeroEdge 【7409】の事業内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/7409/business",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 - AeroEdge 株式会社 — 決算説明資料 - AeroEdge 株式会社 AeroEdge株式会社 https://aeroedge.co.jp > IR情報",
+    "url": "https://aeroedge.co.jp/ir/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 - AeroEdge 株式会社 — IR情報 - AeroEdge 株式会社 AeroEdge株式会社 https://aeroedge.co.jp > ...",
+    "url": "https://aeroedge.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "【速報版】 AeroEdge 株式会社 2026年6月期 決算説明 — 【速報版】 AeroEdge 株式会社 2026年6月期 決算説明 ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/385816",
+    "pass": 3
+   },
+   {
+    "quote": "AeroEdge （7409） 2026年6月期第2四半期 決算説明 - YouTube — AeroEdge （7409） 2026年6月期第2四半期 決算説明 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=oVVMYaNdP64",
+    "pass": 3
+   },
+   {
+    "quote": "【 AeroEdge 】[7409]IR情報 中期経営計画や 決算 短信 | 日経 ... — 【 AeroEdge 】[7409]IR情報 中期経営計画や 決算 短信 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=7409",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要・沿革 - AeroEdge 株式会社 — 会社概要・沿革 - AeroEdge 株式会社 AeroEdge株式会社 https://aeroedge.co.jp > company > profile",
+    "url": "https://aeroedge.co.jp/company/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "AeroEdge 【7409】の 事業 内容 - キタイシホン — AeroEdge 【7409】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/7409/business",
+    "pass": 3
+   },
+   {
+    "quote": "【 AeroEdge 】[7409]IR情報 中期経営計画や決算短信 | 日経 ... — 【 AeroEdge 】[7409]IR情報 中期経営計画や決算短信 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=7409",
+    "pass": 3
+   },
+   {
+    "quote": "AeroEdge ［7409］グロース IPO - YouTube — AeroEdge ［7409］グロース IPO - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=psMyyULX32w",
+    "pass": 3
+   },
+   {
+    "quote": "代表取締役 社長 森西の インタビュー が 社長 名鑑に掲載 — 代表取締役 社長 森西の インタビュー が 社長 名鑑に掲載 AeroEdge株式会社 https://aeroedge.co.jp > news > newsrelease",
+    "url": "https://aeroedge.co.jp/news/newsrelease/1760/",
+    "pass": 3
+   },
+   {
+    "quote": "AeroEdge (@aeroedge01) - Facebook — AeroEdge (@aeroedge01) - Facebook Facebook https://www.facebook.com > aeroedge01",
+    "url": "https://www.facebook.com/aeroedge01/",
+    "pass": 3
+   },
+   {
+    "quote": "AeroEdge 株式会社 代表取締役 社長 兼執行役員CEO 森西 淳 — AeroEdge 株式会社 代表取締役 社長 兼執行役員CEO 森西 淳 社長名鑑 https://shachomeikan.jp > industry_article",
+    "url": "https://shachomeikan.jp/industry_article/5230",
+    "pass": 3
+   },
+   {
+    "quote": "AeroEdge 【7409】の 社長 ・役員 - キタイシホン — AeroEdge 【7409】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/7409/board-of-director",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://aeroedge.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aeroedge.co.jp/company/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aeroedge.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aeroedge.co.jp/helloaeroedge/1845/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aeroedge.co.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aeroedge.co.jp/ir/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aeroedge.co.jp/ir/performance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aeroedge.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aeroedge.co.jp/ir/individual/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aeroedge.co.jp/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aeroedge.co.jp/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aeroedge.co.jp/ir/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aeroedge.co.jp/ir/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aeroedge.co.jp/ir/executive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aeroedge.co.jp/ir/governance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aeroedge.co.jp/ir/finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aeroedge.co.jp/ir/cashflow/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aeroedge.co.jp/ir/results/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aeroedge.co.jp/ir/presentations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aeroedge.co.jp/ir/securities/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aeroedge.co.jp/ir/meeting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aeroedge.co.jp/ir/others/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aeroedge.co.jp/ir/disclosure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aeroedge.co.jp/machining/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aeroedge.co.jp/ir/quote/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://aeroedge.co.jp/wp-content/themes/latest/assets/img/ir/individual_anker_icon_business.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://aeroedge.co.jp/wp-content/themes/latest/assets/img/ir/individual_business_leap.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://aeroedge.co.jp/wp-content/themes/latest/assets/img/ir/individual_business_other.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://aeroedge.co.jp/wp-content/themes/latest/assets/img/ir/individual_growth_business.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kitaishihon.com/company/7409/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/aeroedge01/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "AeroEdge",
+   "results": [
+    "https://aeroedge.co.jp/en/",
+    "https://aeroedge.org/",
+    "https://www.instagram.com/aeroedge1/",
+    "https://www.toyota-tsusho.com/english/press/detail/180327_004150.html",
+    "https://www.theworldfolio.com/interviews/edge-of-flight-aeroedge-soars-beyond-manufacturing/7156/?id=7156",
+    "https://aeroedge.co.jp/",
+    "https://ja.wikipedia.org/wiki/AIR-EDGE",
+    "https://en.aeroedgeglobal.com/",
+    "https://finance.yahoo.com/quote/7409.T/?fr=sycsrp_catchall",
+    "https://aeroedge-tech.com/"
+   ]
+  },
+  {
+   "query": "AeroEdge ビジネスモデル",
+   "results": [
+    "https://aeroedge.co.jp/",
+    "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf",
+    "https://finance.logmi.jp/articles/383304",
+    "https://note.com/good_dill292/n/n5c6a62ac634f",
+    "https://kitaishihon.com/company/7409/business",
+    "https://www.projectdesign.jp/articles/87c07a20-b107-4062-b83d-755d3f6695f3",
+    "https://www.idaten.vc/post/%E8%88%AA%E7%A9%BA%E6%A9%9F%E9%96%A2%E9%80%A3%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%83%BBaeroedge%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%AA%BF%E3%81%B9%E3%81%A6%E3%81%BF%E3%81%9F",
+    "https://aeroedge.co.jp/helloaeroedge/838/",
+    "https://www2.jpx.co.jp/disc/74090/140120260904532164.pdf",
+    "https://aeroedge.co.jp/additive-manufacturing/"
+   ]
+  },
+  {
+   "query": "AeroEdge 決算説明資料",
+   "results": [
+    "https://aeroedge.co.jp/ir/presentations/",
+    "https://aeroedge.co.jp/ir/",
+    "https://finance.logmi.jp/articles/385816",
+    "https://www.youtube.com/watch?v=oVVMYaNdP64",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=7409",
+    "https://x.com/AeroEdge_IR",
+    "https://edinetdb.jp/company/E38695/presentations/",
+    "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20260219564901/140120260219564901.pdf",
+    "https://kitaishihon.com/video/27368",
+    "https://www2.jpx.co.jp/disc/74090/140120260820523413.pdf"
+   ]
+  },
+  {
+   "query": "AeroEdge 事業系統図",
+   "results": [
+    "https://aeroedge.co.jp/company/profile/",
+    "https://kitaishihon.com/company/7409/business",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=7409",
+    "https://www.youtube.com/watch?v=psMyyULX32w",
+    "https://finance.logmi.jp/articles/383304",
+    "https://magicalir.net/Disclosure/-/file/1745772",
+    "https://aeroedge.co.jp/",
+    "https://note.com/good_dill292/n/n5c6a62ac634f",
+    "https://design-sli.de/slide/8943"
+   ]
+  },
+  {
+   "query": "AeroEdge 社長 インタビュー",
+   "results": [
+    "https://aeroedge.co.jp/news/newsrelease/1760/",
+    "https://www.facebook.com/aeroedge01/",
+    "https://shachomeikan.jp/industry_article/5230",
+    "https://kitaishihon.com/company/7409/board-of-director",
+    "https://www.youtube.com/watch?v=psMyyULX32w",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC121Q20S6A610C2000000",
+    "https://journal.meti.go.jp/future/37414/",
+    "https://aeroedge.co.jp/helloaeroedge/",
+    "https://startup-db.com/companies/7jKLpOYUzxNJPO1Y",
+    "https://shachomeikan.jp/corporations/25394"
+   ]
+  }
+ ],
+ "missing": {}
+}

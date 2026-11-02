@@ -1,0 +1,942 @@
+{
+ "name": "トレンドマイクロ",
+ "aliases": [],
+ "context": "証券コード4704／情報・通信業／プライム（内国株式）／2025.12期 売上高275,984百万円 営業利益率20.9%",
+ "researched_at": "2026-11-02T17:44:18.133797+00:00",
+ "official_url": "https://cybersecurity.trendmicro.com/",
+ "identified_by": "search:ddgs:bing:トレンドマイクロ",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1989年",
+    "url": "https://shachomeikan.jp/industry_article/4211",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業概要",
+    "value": "コンピュータ及びインターネット用セキュリティ関連製品・サービスの開発・販売",
+    "url": "https://shachomeikan.jp/industry_article/4211",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "法人向け製品・サービス",
+    "url": "https://cybersecurity.trendmicro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品およびサービスのプライバシーポリシー",
+    "url": "https://cybersecurity.trendmicro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "安全なAIインフラ、アプリケーション、サービスのアドバイス、構築、統合、および運用を支援",
+    "url": "https://www.trendmicro.com/ja_jp/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品の契約更新について",
+    "url": "https://www.trendmicro.com/ja_jp/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティリスク診断サービス",
+    "url": "https://www.trendmicro.com/ja_jp/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "厳選されたサイバーセキュリティ事業会社群の親会社として、AIが加速する時代における持続的な成長を支えるガバナンス、シェアードサービス、および戦略的投資を提供しています",
+    "url": "https://www.trendmicro.com/ja_jp/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品の契約更新について",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "弊社製品ご契約時に必要な登録情報の申請について",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティリスク診断サービス",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品購入後の技術的なお問い合わせ",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "電話での製品検討に関するご相談",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品の契約更新について",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "弊社製品ご契約時に必要な登録情報の申請について",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティリスク診断サービス",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品購入後の技術的なお問い合わせ",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "電話での製品検討に関するご相談",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "メール配信サービス",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "安全なAIインフラ、アプリケーション、サービスのアドバイス、構築、統合、および運用を支援",
+    "url": "https://www.trendmicro.com/ja_jp/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品の契約更新について",
+    "url": "https://www.trendmicro.com/ja_jp/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティリスク診断サービス",
+    "url": "https://www.trendmicro.com/ja_jp/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "トレンドマイクロのソリューション",
+    "url": "https://www.trendmicro.com/ja_jp/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "コンピュータ及びインターネット用セキュリティ関連製品・サービスの開発・販売",
+    "url": "https://www.trendmicro.com/ja_jp/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "安全なAIインフラ、アプリケーション、サービスのアドバイス、構築、統合、および運用を支援",
+    "url": "https://www.trendmicro.com/ja_jp/about/leaders.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品の契約更新について",
+    "url": "https://www.trendmicro.com/ja_jp/about/leaders.html",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティリスク診断サービス",
+    "url": "https://www.trendmicro.com/ja_jp/about/leaders.html",
+    "pass": 3
+   },
+   {
+    "quote": "エバの指揮の下、トレンドマイクロは製品からセキュリティマネジメントソリューションに至るまで、数々の業界初のサービスを展開",
+    "url": "https://www.trendmicro.com/ja_jp/about/leaders.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本地域の代表として、また、サイバーセキュリティイノベーション研究所の所長も兼任し、消費者向けブロードバンドおよび通信業者/ISP市場の拡大と推進、ならびに企業、政府、および教育市場向けの統合ソリューションの発展に貢献しています",
+    "url": "https://www.trendmicro.com/ja_jp/about/leaders.html",
+    "pass": 3
+   },
+   {
+    "quote": "Entrust社を設立する前は、Nortel社のエンジニアリング部門でいくつかの製品開発ポジションに就き、次世代のネットワーク技術を開発しました",
+    "url": "https://www.trendmicro.com/ja_jp/about/leaders.html",
+    "pass": 3
+   },
+   {
+    "quote": "最高開発責任者として、AIの導入および全製品・全事業部門への統合を主導",
+    "url": "https://www.trendmicro.com/ja_jp/about/leaders.html",
+    "pass": 3
+   },
+   {
+    "quote": "これまでに、世界各地でエンジニアリングチームの構築・育成を行い、業界をリードする「2時間SLAマルウェア対応サービス」を確立",
+    "url": "https://www.trendmicro.com/ja_jp/about/leaders.html",
+    "pass": 3
+   },
+   {
+    "quote": "チーフプラットフォームオフィサー(CPO)およびグローバルコンシューマビジネスのジェネラルマネージャ(GM)として在任中に、トレンドマイクロの製品ポートフォリオを単一の統合プラットフォームへと変革させました",
+    "url": "https://www.trendmicro.com/ja_jp/about/leaders.html",
+    "pass": 3
+   },
+   {
+    "quote": "そのダイナミックなリーダーシップにより、エキスパートたちが団結し、新的な製品やサービスを提供することで、お客様の持続的成長を支援します",
+    "url": "https://www.trendmicro.com/ja_jp/about/leaders.html",
+    "pass": 3
+   },
+   {
+    "quote": "TrendAI™ のCEOとして、グローバルに展開する製品、セールス、マーケティング部門を統括しています",
+    "url": "https://www.trendmicro.com/ja_jp/about/leaders.html",
+    "pass": 3
+   },
+   {
+    "quote": "レイチェルは、開発者としての経験をはじめ、開発管理、営業、プロダクトマーケティング、製品管理、そして経営層でのリーダシップに至るまで、20年以上にわたる幅広いキャリアにより、テック界に対する深い理解とイノベーションへの情熱を培ってきました",
+    "url": "https://www.trendmicro.com/ja_jp/about/leaders.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在は、TrendAI™ のサイバーセキュリティプラットフォーム全体における事業成長の推進、イノベーションの加速、そしてグローバル企業の多様化するニーズに対応する顧客中心のソリューションの提供を担っています",
+    "url": "https://www.trendmicro.com/ja_jp/about/leaders.html",
+    "pass": 3
+   },
+   {
+    "quote": "レイチェルのリーダーシップのもと、トレンドマイクロは製品戦略と市場展開、ブランドの影響力を連携させることで、“secure the connected world”という企業ミッションの実現を加速させています",
+    "url": "https://www.trendmicro.com/ja_jp/about/leaders.html",
+    "pass": 3
+   },
+   {
+    "quote": "ローカルネットワークの急増とインターネットの成熟に伴い、同社の焦点はウイルス対策およびコンテンツセキュリティソフトウェアとサービスへと進化しました",
+    "url": "https://www.trendmicro.com/ja_jp/about/leaders.html",
+    "pass": 3
+   },
+   {
+    "quote": "特に、日本で70%以上の市場シェアを持つウイルス対策製品「ウイルスバスター」の地位確立に貢献し、台湾でも4年連続で「台湾グローバルブランド」のトップ賞を獲得するなど、その手腕は高く評価されています",
+    "url": "https://www.trendmicro.com/ja_jp/about/leaders.html",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、インターネット黎明期に私たちは、個々のパソコンだけでなくサーバ側での対策も必要だと考え、サーバを保護する製品を開発しました",
+    "url": "https://shachomeikan.jp/industry_article/4211",
+    "pass": 3
+   },
+   {
+    "quote": "コンピュータ及びインターネット用セキュリティ関連製品・サービスの開発・販売",
+    "url": "https://shachomeikan.jp/industry_article/4211",
+    "pass": 3
+   },
+   {
+    "quote": "会員数45万人以上の訪日外国人旅行者向けサービスを展開",
+    "url": "https://shachomeikan.jp/industry_article/4211",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "新規ライセンス",
+    "url": "https://cybersecurity.trendmicro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ストックオプション（新株予約権）の発行内容確定に関するお知らせ(PDF:104KB)",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社取締役及び従業員並びに当社子会社取締役及び従業員に対する ストックオプション（新株予約権）の付与に関するお知らせ(PDF:210KB)",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations.html",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "販売パートナーを探す",
+    "url": "https://www.trendmicro.com/ja_jp/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "TrendAI™ のパートナーになる",
+    "url": "https://www.trendmicro.com/ja_jp/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーポータル",
+    "url": "https://www.trendmicro.com/ja_jp/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "TrendAI Vision One™ のAIセキュリティ機能の追加利用やパートナーによる専門的な技術支援を提供",
+    "url": "https://www.trendmicro.com/ja_jp/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーを探す",
+    "url": "https://www.trendmicro.com/ja_jp/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーになる",
+    "url": "https://www.trendmicro.com/ja_jp/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "販売パートナーを探す",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーポータル",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーを探す",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "販売パートナーを探す",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーポータル",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーを探す",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "販売パートナーを探す",
+    "url": "https://www.trendmicro.com/ja_jp/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "TrendAI™ のパートナーになる",
+    "url": "https://www.trendmicro.com/ja_jp/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーポータル",
+    "url": "https://www.trendmicro.com/ja_jp/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーを探す",
+    "url": "https://www.trendmicro.com/ja_jp/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーになる",
+    "url": "https://www.trendmicro.com/ja_jp/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "販売パートナーを探す",
+    "url": "https://www.trendmicro.com/ja_jp/about/leaders.html",
+    "pass": 3
+   },
+   {
+    "quote": "TrendAI™ のパートナーになる",
+    "url": "https://www.trendmicro.com/ja_jp/about/leaders.html",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーポータル",
+    "url": "https://www.trendmicro.com/ja_jp/about/leaders.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在は、物理AIセキュリティのカテゴリリーダーとしての地位を確立すべく、世界的イノベーターとの戦略的パートナーシップの構築や、業界標準の策定を推進し、VicOne社のさらなる成長を牽引しています",
+    "url": "https://www.trendmicro.com/ja_jp/about/leaders.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在トレンドマイクロは、30カ国以上で営業、運用、研究、サポート、開発を行う2,000人以上の従業員を擁していますが、その代表取締役会長として、また、顧客および業界のパートナーにとって、トレンドマイクロの声であり続けています",
+    "url": "https://www.trendmicro.com/ja_jp/about/leaders.html",
+    "pass": 3
+   },
+   {
+    "quote": "日産自動車人事部、欧州日産を経て、米フライシュマン・ヒラードの日本法人のSVP/パートナーとして人事制度、風土改革、社内コミュニケーション、レピュテーションマネジメント、リーダーシップ開発などに従事しました",
+    "url": "https://www.trendmicro.com/ja_jp/about/leaders.html",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーを探す",
+    "url": "https://www.trendmicro.com/ja_jp/about/leaders.html",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーになる",
+    "url": "https://www.trendmicro.com/ja_jp/about/leaders.html",
+    "pass": 3
+   },
+   {
+    "quote": "“店舗を持たない飲食店”で業界に変革を",
+    "url": "https://shachomeikan.jp/industry_article/4211",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "企業理念・沿革",
+    "url": "https://www.trendmicro.com/ja_jp/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年9～10月",
+    "url": "https://www.trendmicro.com/ja_jp/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月12日（木）14:00~15:00",
+    "url": "https://www.trendmicro.com/ja_jp/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業理念・沿革",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年第2四半期データ",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年第1四半期データ",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年第4四半期データ",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年第3四半期データ",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年第2四半期データ",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年第1四半期データ",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年第4四半期データ",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年第3四半期データ",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年第2四半期データ",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年第1四半期データ",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年第4四半期データ",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年第3四半期データ",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年第2四半期データ",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年第1四半期データ",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年第4四半期データ",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年第3四半期データ",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年第2四半期データ",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年第1四半期データ",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年第4四半期データ",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年第3四半期データ",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年第2四半期データ",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年第1四半期データ",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年第4四半期データ",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年第3四半期データ",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業理念・沿革",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月23日",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月9日",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年2月18日",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月19日",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月9日",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月4日",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月12日",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月12日（木）16：00（日本時間）より、当社2026年度第3四半期決算報告会を開催いたします",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月12日",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年9月",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業理念・沿革",
+    "url": "https://www.trendmicro.com/ja_jp/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "トレンドマイクロの沿革、企業理念、行動規範",
+    "url": "https://www.trendmicro.com/ja_jp/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "1989年10月24日",
+    "url": "https://www.trendmicro.com/ja_jp/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業理念・沿革",
+    "url": "https://www.trendmicro.com/ja_jp/about/leaders.html",
+    "pass": 3
+   },
+   {
+    "quote": "1988年の創業以来、エバ・チェンはトレンドマイクロをけん引し、世界で最も革新的なインターネットコンテンツセキュリティ企業へと成長させてきました",
+    "url": "https://www.trendmicro.com/ja_jp/about/leaders.html",
+    "pass": 3
+   },
+   {
+    "quote": "1988年から1996年まではエグゼクティブ・バイスプレジデントを務め、1996年から2004年まではCTOを務めました",
+    "url": "https://www.trendmicro.com/ja_jp/about/leaders.html",
+    "pass": 3
+   },
+   {
+    "quote": "2004年末に、代表取締役社長兼グループCEOに就任しました",
+    "url": "https://www.trendmicro.com/ja_jp/about/leaders.html",
+    "pass": 3
+   },
+   {
+    "quote": "1982年に日本大学商学部経営学科を卒業し、日本ディジタルイクイップメント株式会社（現ヒューレットパッカード株式会社）でセールスマネージャとしてキャリアをスタートしました",
+    "url": "https://www.trendmicro.com/ja_jp/about/leaders.html",
+    "pass": 3
+   },
+   {
+    "quote": "2001年にはZDNetアジアによって「25人のMovers & Shakers賞」の一人に選出され、フォーチュン誌からは「世界的勢力」と称され、ビジネスウィーク誌のスターズ・オブ・アジア賞には2度にわたって選出されました",
+    "url": "https://www.trendmicro.com/ja_jp/about/leaders.html",
+    "pass": 3
+   },
+   {
+    "quote": "2006年からは、多摩大学大学院教授を兼務し研究科長などを歴任しています",
+    "url": "https://www.trendmicro.com/ja_jp/about/leaders.html",
+    "pass": 3
+   },
+   {
+    "quote": "2005年、私がCEOに就任して間もなく「594事件」と呼ばれる事件が発生しました",
+    "url": "https://shachomeikan.jp/industry_article/4211",
+    "pass": 3
+   },
+   {
+    "quote": "1988年、アメリカのテキサス大学にてMBAおよびMIS取得",
+    "url": "https://shachomeikan.jp/industry_article/4211",
+    "pass": 3
+   },
+   {
+    "quote": "1996年、トレンドマイクロ株式会社に社名を変更",
+    "url": "https://shachomeikan.jp/industry_article/4211",
+    "pass": 3
+   },
+   {
+    "quote": "1997年、同社取締役技術開発部門統括責任者（CTO）へ就任",
+    "url": "https://shachomeikan.jp/industry_article/4211",
+    "pass": 3
+   },
+   {
+    "quote": "2005年、同社代表取締役社長兼CEOへ就任",
+    "url": "https://shachomeikan.jp/industry_article/4211",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "トレンドマイクロ (JP) | エンタープライズ向けグローバルAI ... — トレンドマイクロ (JP) | エンタープライズ向けグローバルAI ... www.trendmicro.com https://www.trendmicro.com > ja_jp > business",
+    "url": "https://www.trendmicro.com/ja_jp/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "トレンドマイクロ の法人向け製品をわかりやすく比較解説 — トレンドマイクロ の法人向け製品をわかりやすく比較解説 c-compe.com https://c-compe.com > ホーム > セキュリティソフト知識",
+    "url": "https://c-compe.com/securitysoft/securitysoft-knowledge/trendmicro-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "ウイルスバスター ビジネス セキュリティ | トレンドマイクロ (JP) — ウイルスバスター ビジネス セキュリティ | トレンドマイクロ (JP) www.trendmicro.com https://www.trendmicro.com > ja_jp > worry-free-standard",
+    "url": "https://www.trendmicro.com/ja_jp/small-business/worry-free-standard.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算 情報 | トレンドマイクロ (JP) - Trend Micro — 決算 情報 | トレンドマイクロ (JP) - Trend Micro www.trendmicro.com https://www.trendmicro.com > about > reports-presentation",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "投資家向け情報 | トレンドマイクロ (JP) - Trend Micro — 投資家向け情報 | トレンドマイクロ (JP) - Trend Micro www.trendmicro.com https://www.trendmicro.com > about > investor-relations",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算 報告会 | トレンドマイクロ (JP) - Trend Micro — 決算 報告会 | トレンドマイクロ (JP) - Trend Micro www.trendmicro.com https://www.trendmicro.com > about > meeting-calendar",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations/meeting-calendar.html",
+    "pass": 3
+   },
+   {
+    "quote": "オンライン形式 決算 報告会 | トレンドマイクロ - Trend Micro — オンライン形式 決算 報告会 | トレンドマイクロ - Trend Micro www.trendmicro.com https://www.trendmicro.com > about > meeting-calendar",
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations/meeting-calendar/how-to-join-in-online-meeting.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 トレンドマイクロ 】[4704]IR情報 中期経営計画や 決算 短信 — 【 トレンドマイクロ 】[4704]IR情報 中期経営計画や 決算 短信 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=4704",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | トレンドマイクロ (JP) - Trend Micro — 会社概要 | トレンドマイクロ (JP) - Trend Micro www.trendmicro.com https://www.trendmicro.com > ja_jp > about",
+    "url": "https://www.trendmicro.com/ja_jp/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "トレンドマイクロ - Wikipedia — トレンドマイクロ - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > トレンドマイクロ",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD",
+    "pass": 3
+   },
+   {
+    "quote": "トレンドマイクロ 【4704】の 事業 内容 - キタイシホン — トレンドマイクロ 【4704】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/4704/business",
+    "pass": 3
+   },
+   {
+    "quote": "エグゼクティブ一覧 | トレンドマイクロ (JP) - Trend Micro — エグゼクティブ一覧 | トレンドマイクロ (JP) - Trend Micro www.trendmicro.com https://www.trendmicro.com > ja_jp > about > leaders",
+    "url": "https://www.trendmicro.com/ja_jp/about/leaders.html",
+    "pass": 3
+   },
+   {
+    "quote": "トレンドマイクロ 株式会社 代表取締役 社長 兼CEO エバ チェン — トレンドマイクロ 株式会社 代表取締役 社長 兼CEO エバ チェン 社長名鑑 https://shachomeikan.jp > industry_article",
+    "url": "https://shachomeikan.jp/industry_article/4211",
+    "pass": 3
+   },
+   {
+    "quote": "トレンドマイクロ 株式会社 取締役 副 社長 大三川 彰彦 - YouTube — トレンドマイクロ 株式会社 取締役 副 社長 大三川 彰彦 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=WExdWghFiYs",
+    "pass": 3
+   },
+   {
+    "quote": "エバ・チェン氏の経歴｜ トレンドマイクロ の歴代 社長 - The社史 — エバ・チェン氏の経歴｜ トレンドマイクロ の歴代 社長 - The社史 The社史 https://the-shashi.com > トレンドマイクロの歴史 > 歴代社長",
+    "url": "https://the-shashi.com/tse/4704/executives/ceo/eva-chen/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "20年以上にわたりサイバーセキュリティ分野でイノベーションを牽引してきた経験を活かし、AIを用いたセキュリティ強化、運用効率化、そして顧客価値最大化に向けたグローバルな取り組みをリードしています",
+    "url": "https://www.trendmicro.com/ja_jp/about/leaders.html",
+    "pass": 3
+   },
+   {
+    "quote": "そのダイナミックなリーダーシップにより、エキスパートたちが団結し、新的な製品やサービスを提供することで、お客様の持続的成長を支援します",
+    "url": "https://www.trendmicro.com/ja_jp/about/leaders.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在は、TrendAI™ のサイバーセキュリティプラットフォーム全体における事業成長の推進、イノベーションの加速、そしてグローバル企業の多様化するニーズに対応する顧客中心のソリューションの提供を担っています",
+    "url": "https://www.trendmicro.com/ja_jp/about/leaders.html",
+    "pass": 3
+   },
+   {
+    "quote": "レイチェルのキャリアは、イノベーションへの情熱、顧客の成功への強いこだわり、そしてテクノロジーを活用した価値の拡大に対する揺るぎない取り組みによって築かれています",
+    "url": "https://www.trendmicro.com/ja_jp/about/leaders.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在トレンドマイクロは、30カ国以上で営業、運用、研究、サポート、開発を行う2,000人以上の従業員を擁していますが、その代表取締役会長として、また、顧客および業界のパートナーにとって、トレンドマイクロの声であり続けています",
+    "url": "https://www.trendmicro.com/ja_jp/about/leaders.html",
+    "pass": 3
+   },
+   {
+    "quote": "当初はソフトウェアの海賊版対策をメインに手がけていましたが、あるとき顧客から「パソコンがおかしくなった」と連絡がありました",
+    "url": "https://shachomeikan.jp/industry_article/4211",
+    "pass": 3
+   },
+   {
+    "quote": "そこで顧客のパソコンを調査した結果、世界初のコンピュータウイルスとされる「Brain」が原因だと判明したのです",
+    "url": "https://shachomeikan.jp/industry_article/4211",
+    "pass": 3
+   },
+   {
+    "quote": "そうした中で、弊社は独自のハードディスク保護技術を持っていたため、このウイルスに感染したお客様のデータを保護することができたのです",
+    "url": "https://shachomeikan.jp/industry_article/4211",
+    "pass": 3
+   },
+   {
+    "quote": "弊社のウイルス対策ソフトのアップデート内容に問題があり、多くのお客様のコンピュータで深刻な障害が発生したのです",
+    "url": "https://shachomeikan.jp/industry_article/4211",
+    "pass": 3
+   },
+   {
+    "quote": "会員数45万人以上の訪日外国人旅行者向けサービスを展開",
+    "url": "https://shachomeikan.jp/industry_article/4211",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "このように常に時代の変化を先読みし、セキュリティのあり方を根本から考え直す姿勢が、弊社の強みとなっています",
+    "url": "https://shachomeikan.jp/industry_article/4211",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://cybersecurity.trendmicro.com/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://success.trendmicro.com/ja-JP/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trendmicro.com/ja_jp/business.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trendmicro.com/ja_jp/about/investor-relations.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trendmicro.com/ja_jp/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trendmicro.com/ja_jp/business.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trendmicro.com/ja_jp/about/leaders.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shachomeikan.jp/industry_article/4211",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "トレンドマイクロ",
+   "results": [
+    "https://www.trendmicro.com/ja_jp/forHome.html",
+    "https://www.trendmicro.com/ja_jp/business.html",
+    "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD",
+    "https://www.trendmicro.com/ja_jp/about.html",
+    "https://www.trendmicro.com/ja_jp/about/careers/mission-and-culture.html",
+    "https://www.trendmicro.com/en_us/business.html",
+    "https://c-compe.com/securitysoft/securitysoft-knowledge/trendmicro-company-guide/",
+    "https://www.youtube.com/c/TrendMicroJapan",
+    "https://ja.wikipedia.org/wiki/トレンドマイクロ",
+    "https://helpcenter.trendlife.com/ja-jp/"
+   ]
+  },
+  {
+   "query": "トレンドマイクロ ビジネスモデル",
+   "results": [
+    "https://success.trendmicro.com/ja-JP/",
+    "https://www.trendmicro.com/ja_jp/business.html",
+    "https://c-compe.com/securitysoft/securitysoft-knowledge/trendmicro-guide/",
+    "https://www.trendmicro.com/ja_jp/small-business/worry-free-standard.html",
+    "https://www.trendmicro.com/content/dam/trendmicro/global/ja/about/investor-relations/reports-presentation/2021/y2020q4-omikawa-20210217.pdf",
+    "https://note.com/nekonyannko222/n/ne3913e012380",
+    "https://partnersuccess.jp/media/partnersuccess_trendmicro",
+    "https://www.trendmicro.com/ja_jp/buy/purchase-application-form.html",
+    "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD",
+    "https://consovation.com/トレンドマイクロの全体像/"
+   ]
+  },
+  {
+   "query": "トレンドマイクロ 決算説明資料",
+   "results": [
+    "https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html",
+    "https://www.trendmicro.com/ja_jp/about/investor-relations.html",
+    "https://www.trendmicro.com/ja_jp/about/investor-relations/meeting-calendar.html",
+    "https://www.trendmicro.com/ja_jp/about/investor-relations/meeting-calendar/how-to-join-in-online-meeting.html",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=4704",
+    "https://www.trendmicro.com/ja_jp/about/investor-relations/schedule.html",
+    "https://irbank.net/E04999/reports",
+    "https://www.trendmicro.com/ja_jp/about/investor-relations/meeting-calendar/disclaimer.html",
+    "https://edinetdb.jp/company/E04999/ir-docs/",
+    "https://finance.yahoo.co.jp/quote/4704.T/financials"
+   ]
+  },
+  {
+   "query": "トレンドマイクロ 事業系統図",
+   "results": [
+    "https://www.trendmicro.com/ja_jp/about.html",
+    "https://www.trendmicro.com/ja_jp/business.html",
+    "https://www.trendmicro.com/content/dam/trendmicro/global/ja/about/investor-relations/IR_FactSheet2025_J_final.pdf",
+    "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD",
+    "https://kitaishihon.com/company/4704/business",
+    "https://c-compe.com/securitysoft/securitysoft-knowledge/trendmicro-guide/",
+    "https://www.trendmicro.com/ja_jp/about/careers/mission-and-culture.html",
+    "https://www.theofficialboard.jp/%E7%B5%84%E7%B9%94%E5%9B%B3/trend-micro",
+    "https://www.trendmicro.com/ja_jp/about/careers/at-a-glance.html",
+    "https://ja.wikipedia.org/wiki/トレンドマイクロ"
+   ]
+  },
+  {
+   "query": "トレンドマイクロ 社長 インタビュー",
+   "results": [
+    "https://www.trendmicro.com/ja_jp/about/leaders.html",
+    "https://shachomeikan.jp/industry_article/4211",
+    "https://www.yomiuri.co.jp/economy/20260601-GYT8T00226/",
+    "https://www.youtube.com/watch?v=WExdWghFiYs",
+    "https://the-shashi.com/tse/4704/executives/ceo/eva-chen/",
+    "https://www.j-big.de/ja/trend-micro-%E3%80%8C%E7%A7%81%E3%81%9F%E3%81%A1%E3%81%AEdna%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6it%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AF%E4%B8%80%E8%B2%AB%E3%81%97%E3%81%9F/",
+    "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD",
+    "https://www.youtube.com/playlist?list=PLVIXe_mDaaWZ5_S4sm6AF12ohxM1B8cSI",
+    "https://subsc.opro.net/sabiken/hear-front/taidan-trendmicro.html",
+    "https://www.diamondv.jp/article/4sp124iASKBtYCpncAQ3bK"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索5回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索5回）"
+ }
+}

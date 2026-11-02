@@ -1,0 +1,1583 @@
+{
+ "name": "液体金属",
+ "en": "liquid metal",
+ "aliases": [
+  "gallium liquid metal",
+  "液体金属"
+ ],
+ "context": "放熱・ソフトロボット",
+ "kind": "market",
+ "researched_at": "2026-11-02T17:42:16.870483+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "液体金属電子ペーストの世界市場（2026年～2032年）、市場規模（高温ペースト、中温ペースト、低温ペースト）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/7699024",
+    "pass": 3
+   },
+   {
+    "quote": "液体金属電子ペーストの世界市場（2026年～2032年）、市場規模（高温ペースト、中温ペースト、低温ペースト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/7699024",
+    "pass": 3
+   },
+   {
+    "quote": "世界の液体金属電子ペースト市場規模は、2025年の1,703万米ドルから2032年には3,004万米ドルに成長すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/7699024",
+    "pass": 3
+   },
+   {
+    "quote": "米国における液体金属電子ペースト市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までのCAGRは%です",
+    "url": "https://www.atpress.ne.jp/news/7699024",
+    "pass": 3
+   },
+   {
+    "quote": "中国における液体金属電子ペースト市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までのCAGRは%です",
+    "url": "https://www.atpress.ne.jp/news/7699024",
+    "pass": 3
+   },
+   {
+    "quote": "欧州における液体金属電子ペースト市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までのCAGRは%です",
+    "url": "https://www.atpress.ne.jp/news/7699024",
+    "pass": 3
+   },
+   {
+    "quote": "第４章 2021年から2026年までの液状金属電子ペーストの世界の歴史的市場規模を、地域別および国/地域別の売上と収益で振り返っている",
+    "url": "https://www.atpress.ne.jp/news/7699024",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/7699024",
+    "pass": 3
+   },
+   {
+    "quote": "コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/7699024",
+    "pass": 3
+   },
+   {
+    "quote": "セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/7699024",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/7699024",
+    "pass": 3
+   },
+   {
+    "quote": "液体金属市場 | 市場規模 業界シェア 市場分析 成長性 2026年",
+    "url": "https://www.gii.co.jp/report/tbrc1927989-liquid-metals-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "第7章 世界の戦略分析フレームワーク、現在の市場規模、市場比較および成長率分析",
+    "url": "https://www.gii.co.jp/report/tbrc1927989-liquid-metals-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "第8章 市場における世界の総潜在市場規模（TAM）",
+    "url": "https://www.gii.co.jp/report/tbrc1927989-liquid-metals-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 4,490 換算",
+    "url": "https://www.gii.co.jp/report/tbrc1927989-liquid-metals-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 6,490 換算",
+    "url": "https://www.gii.co.jp/report/tbrc1927989-liquid-metals-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 8,490 換算",
+    "url": "https://www.gii.co.jp/report/tbrc1927989-liquid-metals-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "液体金属電子用インクの世界市場（2026年～2032年）、市場規模（ガリウム系合金、セシウム系合金、フランシウム系合金、その他）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/news/4061148",
+    "pass": 3
+   },
+   {
+    "quote": "液体金属電子用インクの世界市場（2026年～2032年）、市場規模（ガリウム系合金、セシウム系合金、フランシウム系合金、その他）・分析レポートを発表",
+    "url": "https://newscast.jp/news/4061148",
+    "pass": 3
+   },
+   {
+    "quote": "世界の液体金属電子インク市場規模は、2025年の1,346万米ドルから2032年には2,374万米ドルに成長すると予測されています",
+    "url": "https://newscast.jp/news/4061148",
+    "pass": 3
+   },
+   {
+    "quote": "米国における液体金属電子インク市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までのCAGRは%です",
+    "url": "https://newscast.jp/news/4061148",
+    "pass": 3
+   },
+   {
+    "quote": "中国における液体金属電子インク市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までのCAGRは%です",
+    "url": "https://newscast.jp/news/4061148",
+    "pass": 3
+   },
+   {
+    "quote": "欧州における液体金属電子インク市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までのCAGRは%です",
+    "url": "https://newscast.jp/news/4061148",
+    "pass": 3
+   },
+   {
+    "quote": "第４章には、世界の液体金属エレクトロニクスインク市場の地域別過去データが収録されており、2021年から2026年までの地域別および国別の年間売上と年間収益の市場規模が示されている",
+    "url": "https://newscast.jp/news/4061148",
+    "pass": 3
+   },
+   {
+    "quote": "第１２章には、世界の液体金属エレクトロニクスインク市場の将来予測が収録されており、2027年から2032年までの地域別、国別（アメリカ、APAC、ヨーロッパ、中東およびアフリカ）、タイプ別、および用途別の市場規模と年間収益の予測が含まれる",
+    "url": "https://newscast.jp/news/4061148",
+    "pass": 3
+   },
+   {
+    "quote": "液体金属スリップリングの世界市場（2026年～2032年）、市場規模（単回路、多回路）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4874776",
+    "pass": 3
+   },
+   {
+    "quote": "世界の液体金属スリップリング市場規模は、2025年の2,562万米ドルから2032年には3,237万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）3.5%で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/4874776",
+    "pass": 3
+   },
+   {
+    "quote": "米国の液体金属スリップリング市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年にかけて年平均成長率（CAGR）XX％で成長すると推定されています",
+    "url": "https://www.atpress.ne.jp/news/4874776",
+    "pass": 3
+   },
+   {
+    "quote": "中国の液体金属スリップリング市場は、2025年のX百万米ドルから2032年にはX百万米ドルへと拡大し、2026年から2032年にかけて年平均成長率（CAGR）%で成長すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/4874776",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の液体金属スリップリング市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年までのCAGRはXX％になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/4874776",
+    "pass": 3
+   },
+   {
+    "quote": "第4章には、2021年から2026年までの液体金属スリップリングの世界市場の過去のレビューが記載されており、地域別および国/地域別の年間販売量と年間収益の市場規模が含まれています",
+    "url": "https://www.atpress.ne.jp/news/4874776",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2027年から2032年までの地域別（米州、APAC、欧州、中東・アフリカを含む）の市場規模予測と年間収益予測、国別の予測、さらにタイプ別およびアプリケーション別のグローバル予測が含まれています",
+    "url": "https://www.atpress.ne.jp/news/4874776",
+    "pass": 3
+   },
+   {
+    "quote": "液体金属スリップリングの世界市場（2026年～2032年）、市場規模（単回路、多回路）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/4874776",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4874776",
+    "pass": 3
+   },
+   {
+    "quote": "コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4874776",
+    "pass": 3
+   },
+   {
+    "quote": "セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4874776",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4874776",
+    "pass": 3
+   },
+   {
+    "quote": "食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4874776",
+    "pass": 3
+   },
+   {
+    "quote": "富士経済、リチウムイオン二次電池材料の世界市場を調査――25年に12兆円を超えると予測 - ケータイ Watch",
+    "url": "https://k-tai.watch.impress.co.jp/docs/news/1433383.html",
+    "pass": 3
+   },
+   {
+    "quote": "富士経済、リチウムイオン二次電池材料の世界市場を調査――25年に12兆円を超えると予測",
+    "url": "https://k-tai.watch.impress.co.jp/docs/news/1433383.html",
+    "pass": 3
+   },
+   {
+    "quote": "リチウムイオン二次電池材料の世界市場は、2025年に12兆円を超えると予測している",
+    "url": "https://k-tai.watch.impress.co.jp/docs/news/1433383.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年は、23品目合計で8兆9094億円となり、2020年と比べて3倍の成長となることが見込まれている",
+    "url": "https://k-tai.watch.impress.co.jp/docs/news/1433383.html",
+    "pass": 3
+   },
+   {
+    "quote": "背景には、環境規制に対応する電気自動車や、再生可能エネルギー利用促進に向けた電池需要の増加があり、2024年には10兆円を突破、2025年には12兆2312億円になると予想している",
+    "url": "https://k-tai.watch.impress.co.jp/docs/news/1433383.html",
+    "pass": 3
+   },
+   {
+    "quote": "素材別で見てみると、市場の半数以上を占める正極活物質は、2022年予測で5兆8353億円（20年比で3.7倍）",
+    "url": "https://k-tai.watch.impress.co.jp/docs/news/1433383.html",
+    "pass": 3
+   },
+   {
+    "quote": "なお、リチウムイオン電池を含む、電池素材の世界市場をみると、2022年は9兆3418億円（20年比2.9倍）と予測している",
+    "url": "https://k-tai.watch.impress.co.jp/docs/news/1433383.html",
+    "pass": 3
+   },
+   {
+    "quote": "ハイブリッド車向けのニッケル水素電池も堅調な伸びを見せており、2025年には12兆7300億円（20年比3.9倍）となるのではと予測している",
+    "url": "https://k-tai.watch.impress.co.jp/docs/news/1433383.html",
+    "pass": 3
+   },
+   {
+    "quote": "スマートスピーカー市場は2025年に9.2倍にーー富士経済の市場調査",
+    "url": "https://k-tai.watch.impress.co.jp/docs/news/1433383.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界の液体金属市場は、2025年から2031年にかけてCAGR 9.5％で成長すると予測されています",
+    "url": "https://www.gii.co.jp/report/luci1944646-liquid-metal-market-report-trends-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリント技術の成熟に伴い、革新的な製造ソリューションを求める様々な分野での採用拡大を背景に、液体金属の市場は大幅に成長すると予想されます",
+    "url": "https://www.gii.co.jp/report/luci1944646-liquid-metal-market-report-trends-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 4,850 換算",
+    "url": "https://www.gii.co.jp/report/luci1944646-liquid-metal-market-report-trends-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 6,700 換算",
+    "url": "https://www.gii.co.jp/report/luci1944646-liquid-metal-market-report-trends-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 8,850 換算",
+    "url": "https://www.gii.co.jp/report/luci1944646-liquid-metal-market-report-trends-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 10,000 換算",
+    "url": "https://www.gii.co.jp/report/luci1944646-liquid-metal-market-report-trends-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "液体金属放熱パッド市場に関する当社の調査レポートによると、市場は2025－2037年の予測期間中に約3%のCAGRで成長すると予想されています",
+    "url": "https://www.sdki.jp/reports/liquid-metal-thermal-pad-market/590641270",
+    "pass": 3
+   },
+   {
+    "quote": "将来の年には、市場は約510 億米ドルの価値に達する見込みです",
+    "url": "https://www.sdki.jp/reports/liquid-metal-thermal-pad-market/590641270",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、当社の調査アナリストによると、基準年の市場規模は約240 億米ドルと記録されています",
+    "url": "https://www.sdki.jp/reports/liquid-metal-thermal-pad-market/590641270",
+    "pass": 3
+   },
+   {
+    "quote": "現在、電子機器市場は世界中で拡大し続けており、半導体企業は2027年に7,260億米ドルに達すると予想されています",
+    "url": "https://www.sdki.jp/reports/liquid-metal-thermal-pad-market/590641270",
+    "pass": 3
+   },
+   {
+    "quote": "日本の電子機器およびITハードウェア市場は、2022年に約1,420億米ドルで、健全な成長率を示しています",
+    "url": "https://www.sdki.jp/reports/liquid-metal-thermal-pad-market/590641270",
+    "pass": 3
+   },
+   {
+    "quote": "世界の液体金属放熱パッド市場はタイプに基づいて、熱伝導率：30－50W/m.K、熱伝導率：50－80W/m.K、その他に分割されています",
+    "url": "https://www.sdki.jp/reports/liquid-metal-thermal-pad-market/590641270",
+    "pass": 3
+   },
+   {
+    "quote": "これら 5 つのセグメントのうち、液体金属放熱パッド市場は IGBT セグメントが支配的となり、2037 年までに総市場シェアが約 33% を超えると予想されます",
+    "url": "https://www.sdki.jp/reports/liquid-metal-thermal-pad-market/590641270",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "2026年から2032年にかけて、年平均成長率（CAGR）8.6%で成長すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/7699024",
+    "pass": 3
+   },
+   {
+    "quote": "米国における液体金属電子ペースト市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までのCAGRは%です",
+    "url": "https://www.atpress.ne.jp/news/7699024",
+    "pass": 3
+   },
+   {
+    "quote": "中国における液体金属電子ペースト市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までのCAGRは%です",
+    "url": "https://www.atpress.ne.jp/news/7699024",
+    "pass": 3
+   },
+   {
+    "quote": "欧州における液体金属電子ペースト市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までのCAGRは%です",
+    "url": "https://www.atpress.ne.jp/news/7699024",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の24億4,000万米ドルから2026年には26億5,000万米ドルへと、CAGR8.5％で拡大する見込みです",
+    "url": "https://www.gii.co.jp/report/tbrc1927989-liquid-metals-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "2030年には36億5,000万米ドルに達し、CAGRは8.4％となる見込みです",
+    "url": "https://www.gii.co.jp/report/tbrc1927989-liquid-metals-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間における成長要因としては、電気自動車における熱管理需要の増加、フレキシブル電子機器およびウェアラブル電子機器の成長、3Dプリンティングおよび積層造形における利用拡大、医療・生体医療機器分野での応用拡大、高性能液体金属合金の技術革新などが挙げられます",
+    "url": "https://www.gii.co.jp/report/tbrc1927989-liquid-metals-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間における主な動向としては、熱管理用途における液体金属の使用増加、フレキシブルエレクトロニクス分野での採用拡大、3Dプリンティングおよび積層造形向け液体金属の成長、産業用途向けガリウムおよびガリスタン合金の拡大、インジウム・ビスマス・ナトリウムカリウム合金への需要増加が挙げられます",
+    "url": "https://www.gii.co.jp/report/tbrc1927989-liquid-metals-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "液体金属市場の企業は、製造精度・拡張性・コスト効率の向上と産業用途の拡大を目的に、3Dプリンティングなどの技術革新に注力しています",
+    "url": "https://www.gii.co.jp/report/tbrc1927989-liquid-metals-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "第7章 世界の戦略分析フレームワーク、現在の市場規模、市場比較および成長率分析",
+    "url": "https://www.gii.co.jp/report/tbrc1927989-liquid-metals-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年から2032年にかけて、年平均成長率（CAGR）8.6%で成長すると予測されています",
+    "url": "https://newscast.jp/news/4061148",
+    "pass": 3
+   },
+   {
+    "quote": "米国における液体金属電子インク市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までのCAGRは%です",
+    "url": "https://newscast.jp/news/4061148",
+    "pass": 3
+   },
+   {
+    "quote": "中国における液体金属電子インク市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までのCAGRは%です",
+    "url": "https://newscast.jp/news/4061148",
+    "pass": 3
+   },
+   {
+    "quote": "欧州における液体金属電子インク市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までのCAGRは%です",
+    "url": "https://newscast.jp/news/4061148",
+    "pass": 3
+   },
+   {
+    "quote": "世界の液体金属スリップリング市場規模は、2025年の2,562万米ドルから2032年には3,237万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）3.5%で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/4874776",
+    "pass": 3
+   },
+   {
+    "quote": "米国の液体金属スリップリング市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年にかけて年平均成長率（CAGR）XX％で成長すると推定されています",
+    "url": "https://www.atpress.ne.jp/news/4874776",
+    "pass": 3
+   },
+   {
+    "quote": "中国の液体金属スリップリング市場は、2025年のX百万米ドルから2032年にはX百万米ドルへと拡大し、2026年から2032年にかけて年平均成長率（CAGR）%で成長すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/4874776",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の液体金属スリップリング市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年までのCAGRはXX％になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/4874776",
+    "pass": 3
+   },
+   {
+    "quote": "スマートスピーカー市場は2025年に9.2倍にーー富士経済の市場調査",
+    "url": "https://k-tai.watch.impress.co.jp/docs/news/1433383.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界の液体金属市場は、2025年から2031年にかけてCAGR 9.5％で成長すると予測されています",
+    "url": "https://www.gii.co.jp/report/luci1944646-liquid-metal-market-report-trends-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリント技術の成熟に伴い、革新的な製造ソリューションを求める様々な分野での採用拡大を背景に、液体金属の市場は大幅に成長すると予想されます",
+    "url": "https://www.gii.co.jp/report/luci1944646-liquid-metal-market-report-trends-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "液体金属放熱パッド市場に関する当社の調査レポートによると、市場は2025－2037年の予測期間中に約3%のCAGRで成長すると予想されています",
+    "url": "https://www.sdki.jp/reports/liquid-metal-thermal-pad-market/590641270",
+    "pass": 3
+   },
+   {
+    "quote": "現在、電子機器市場は世界中で拡大し続けており、半導体企業は2027年に7,260億米ドルに達すると予想されています",
+    "url": "https://www.sdki.jp/reports/liquid-metal-thermal-pad-market/590641270",
+    "pass": 3
+   },
+   {
+    "quote": "日本の電子機器およびITハードウェア市場は、2022年に約1,420億米ドルで、健全な成長率を示しています",
+    "url": "https://www.sdki.jp/reports/liquid-metal-thermal-pad-market/590641270",
+    "pass": 3
+   },
+   {
+    "quote": "台湾の消費者向け電子機器の収益は、2024年に約10％増加し、観測期間中最大の成長率となりました",
+    "url": "https://www.sdki.jp/reports/liquid-metal-thermal-pad-market/590641270",
+    "pass": 3
+   },
+   {
+    "quote": "世界の液体金属放熱パッド市場規模は、2025―2037 年間に 3% の CAGR で成長し、2037 年までに 510 億米ドルを獲得すると予測されています",
+    "url": "https://www.sdki.jp/reports/liquid-metal-thermal-pad-market/590641270",
+    "pass": 3
+   },
+   {
+    "quote": "Size is estimated at USD 2.58 Billion in 2025 and is expected to reach USD 5.97 Billion by 2035 and grow at a CAGR of 8.75% over 2026-2035. The Liquid Metal Market is seeing substantial growth due to rising demand for sophisticated thermal management solutions in high-performance electronics, data centers, and semiconductor devices.",
+    "url": "https://finance.yahoo.com/news/liquid-metal-market-size-reach-090400762.html",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size is estimated at USD 0.58 Billion in 2025 and is expected to reach USD 1.60 Billion by 2035, growing at a CAGR of 8.16% over the forecast period of 2026-2035. The growth of the U.S. specialty liquid metal market is driven by strong demand from advanced electronics, data centers, and semiconductor manufacturing, and increasing adoption in electric vehicles.",
+    "url": "https://finance.yahoo.com/news/liquid-metal-market-size-reach-090400762.html",
+    "pass": 3
+   },
+   {
+    "quote": "Based on Region, Asia Pacific Dominated Holding the Largest Market Share in 2025 and North America is Expected to Grow with Significant CAGR in the Market During 2026-2033",
+    "url": "https://finance.yahoo.com/news/liquid-metal-market-size-reach-090400762.html",
+    "pass": 3
+   },
+   {
+    "quote": "is the fastest-growing region, estimated to increase at a CAGR 8.60% during the projection period 2026-2035. This rapid rise is attributed to the rising deployment of AI-driven data centers and high-performance computing infrastructure that demand better heat management systems.",
+    "url": "https://finance.yahoo.com/news/liquid-metal-market-size-reach-090400762.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 8.75% From 2026 to 2035",
+    "url": "https://finance.yahoo.com/news/liquid-metal-market-size-reach-090400762.html",
+    "pass": 3
+   },
+   {
+    "quote": "size is valued at USD 2.58 Billion in 2025 and is expected to reach USD 5.97 Billion by 2035 and grow at a CAGR of 8.75% over the forecast period 2026-2035.",
+    "url": "https://www.snsinsider.com/reports/liquid-metal-market-9668",
+    "pass": 3
+   },
+   {
+    "quote": "Market size is USD 0.58 Billion in 2025 and is expected to reach USD 1.60 Billion by 2035, growing at a CAGR of 8.16% over the forecast period of 2026-2035.",
+    "url": "https://www.snsinsider.com/reports/liquid-metal-market-9668",
+    "pass": 3
+   },
+   {
+    "quote": "is the fastest-growing region, expected to grow at a CAGR 8.60% during the forecast period 2026-2035",
+    "url": "https://www.snsinsider.com/reports/liquid-metal-market-9668",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 8.75% From 2026 to 2035",
+    "url": "https://www.snsinsider.com/reports/liquid-metal-market-9668",
+    "pass": 3
+   },
+   {
+    "quote": "The Liquid Metal Market is expected to grow at a CAGR of 8.75% during 2026-2035.",
+    "url": "https://www.snsinsider.com/reports/liquid-metal-market-9668",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025-2035): 5.37%",
+    "url": "https://www.sphericalinsights.com/reports/metals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast Period CAGR 2025-2035 :",
+    "url": "https://www.sphericalinsights.com/reports/metals-market",
+    "pass": 3
+   },
+   {
+    "quote": "1. What is the CAGR of the metals market over the forecast period?",
+    "url": "https://www.sphericalinsights.com/reports/metals-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global metals market is projected to expand at a CAGR of 5.37% during the forecast period.",
+    "url": "https://www.sphericalinsights.com/reports/metals-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global metals market Size is expected to grow from USD 78.40 billion in 2024 to USD 139.35 billion by 2035, at a CAGR of 5.37% during the forecast period 2025-2035.",
+    "url": "https://www.sphericalinsights.com/reports/metals-market",
+    "pass": 3
+   },
+   {
+    "quote": "19.5% CAGR",
+    "url": "https://www.insightaceanalytic.com/report/bulk-metallic-glass-market/1521",
+    "pass": 3
+   },
+   {
+    "quote": "Bulk Metallic Glass Market Size is predicted to witness a 19.5% CAGR during the forecast period for 2026 to 2035.",
+    "url": "https://www.insightaceanalytic.com/report/bulk-metallic-glass-market/1521",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 19.5% from 2026 to 2035",
+    "url": "https://www.insightaceanalytic.com/report/bulk-metallic-glass-market/1521",
+    "pass": 3
+   },
+   {
+    "quote": "Representation of revenue in US$ Million, Volume in Tons and CAGR from 2026 to 2035",
+    "url": "https://www.insightaceanalytic.com/report/bulk-metallic-glass-market/1521",
+    "pass": 3
+   },
+   {
+    "quote": "Bulk Metallic Glass Market expected to grow at a 19.5% CAGR during the forecast period for 2026 to 2035",
+    "url": "https://www.insightaceanalytic.com/report/bulk-metallic-glass-market/1521",
+    "pass": 3
+   },
+   {
+    "quote": "The liquid metals market size has grown strongly in recent years. It will grow from $2.27 billion in 2024 to $2.48 billion in 2025 at a compound annual growth rate (CAGR) of 9.2%. The liquid metals market size is expected to see strong growth in the next few years. It will grow to $3.5 billion in 2029 at a compound annual growth rate (CAGR) of 9%.",
+    "url": "https://finance.yahoo.com/news/liquid-metals-market-report-2025-094300069.html",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "本レポートでは、液体金属電子ペーストのポートフォリオと能力、市場参入戦略、市場における地位、地理的展開に焦点を当て、世界有数の企業の戦略を分析し、急成長する世界の液体金属電子ペースト市場における各社の独自の立ち位置をより深く理解することを目的としています",
+    "url": "https://www.atpress.ne.jp/news/7699024",
+    "pass": 3
+   },
+   {
+    "quote": "主要メーカーの生産地域分布、販売地域、製品タイプ、市場集中度分析、新規製品、潜在的な参入企業、およびM&A活動と戦略についても詳述している",
+    "url": "https://www.atpress.ne.jp/news/7699024",
+    "pass": 3
+   },
+   {
+    "quote": "第１３章 主要企業として、雲南科維液態金属谷研発有限公司、中科三安材料科技有限公司、湖南LED電子インク有限公司の各社について、企業情報、製品ポートフォリオと仕様、売上、収益、価格、粗利益、主要事業概要、および最新の動向を詳細に分析している",
+    "url": "https://www.atpress.ne.jp/news/7699024",
+    "pass": 3
+   },
+   {
+    "quote": "液体金属市場における主要企業はどこですか？",
+    "url": "https://www.gii.co.jp/report/tbrc1927989-liquid-metals-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートでは、液体金属電子インクのポートフォリオと機能、市場参入戦略、市場における地位、地理的展開に焦点を当て、世界有数の企業の戦略を分析し、急成長する世界の液体金属電子インク市場における各社の独自の立ち位置をより深く理解することを目的としています",
+    "url": "https://newscast.jp/news/4061148",
+    "pass": 3
+   },
+   {
+    "quote": "主要メーカーの生産地域分布、販売地域、製品タイプ、市場集中度分析（CR3、CR5、CR10）、新規製品および潜在的な参入企業、ならびに市場のM&A活動と戦略についても言及されている",
+    "url": "https://newscast.jp/news/4061148",
+    "pass": 3
+   },
+   {
+    "quote": "第１３章には、主要企業（Yunnan Kewei Liquid Metal Valley R&D Co., Ltd、Liquid X、UES, Inc.）の詳細な分析が提供されており、企業情報、製品ポートフォリオと仕様、2021年から2026年までの売上、収益、価格、粗利益、主要事業概要、および最新の動向が紹介されている",
+    "url": "https://newscast.jp/news/4061148",
+    "pass": 3
+   },
+   {
+    "quote": "また、本レポートでは、液体金属スリップリングのポートフォリオと能力、市場参入戦略、市場での位置づけ、地理的展開に焦点を当て、世界的な液体金属スリップリング市場の急速な成長の中で、主要グローバル企業の独自の立場をより深く理解するために、それらの企業の戦略を分析しています",
+    "url": "https://www.atpress.ne.jp/news/4874776",
+    "pass": 3
+   },
+   {
+    "quote": "また、競争状況分析、集中度（CR3、CR5、CR10）分析（2024年から2026年）、新製品と潜在的な新規参入企業、市場におけるM&A活動と戦略についても言及されています",
+    "url": "https://www.atpress.ne.jp/news/4874776",
+    "pass": 3
+   },
+   {
+    "quote": "戦略的提携と市場投資：主要企業はパートナーシップを構築し、研究開発に投資することで液体金属の応用を加速させ、市場の成長と技術的ブレークスルーを促進しています",
+    "url": "https://www.gii.co.jp/report/luci1944646-liquid-metal-market-report-trends-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "第14章 バリューチェーン上の主要企業のプロファイル",
+    "url": "https://www.gii.co.jp/report/luci1944646-liquid-metal-market-report-trends-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "現地の参加者は、ハイエンド機器の熱効率を向上させる液体金属パッドを提供することで、この安定した市場に参入できるはずです",
+    "url": "https://www.sdki.jp/reports/liquid-metal-thermal-pad-market/590641270",
+    "pass": 3
+   },
+   {
+    "quote": "世界の液体金属放熱パッド市場の成長に重要な役割を果たす主要な主要企業には、Indium Corporation、Laird Technologies, Inc.、Henkel AG & Co. KGaA、Prolimatech Inc.、Enerdyne Thermal Solutions, Incなどが含まれます",
+    "url": "https://www.sdki.jp/reports/liquid-metal-thermal-pad-market/590641270",
+    "pass": 3
+   },
+   {
+    "quote": "この調査には、世界の液体金属放熱パッド市場分析レポートにおける詳細な競合分析、企業概要、最近の動向、およびこれらの主要企業の主要な市場戦略が含まれています",
+    "url": "https://www.sdki.jp/reports/liquid-metal-thermal-pad-market/590641270",
+    "pass": 3
+   },
+   {
+    "quote": "Indium Corporation、Laird Technologies, Inc.、Henkel AG & Co. KGaA、Prolimatech Inc.、Enerdyne Thermal Solutions, Incなどは、世界の液体金属放熱パッド市場で機能する主要企業の一部です",
+    "url": "https://www.sdki.jp/reports/liquid-metal-thermal-pad-market/590641270",
+    "pass": 3
+   },
+   {
+    "quote": "Panasonic Corporation、Hitachi, Ltd.、Shin-Etsu Chemical Co., Ltd.、KCC Corporation、FUJI POLYMER INDUSTRIES CO., LTD.などは、液体金属放熱パッド市場の日本の分野で機能している主要企業の一部です",
+    "url": "https://www.sdki.jp/reports/liquid-metal-thermal-pad-market/590641270",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players Analysis Listed in the Liquid Metal Market Report",
+    "url": "https://finance.yahoo.com/news/liquid-metal-market-size-reach-090400762.html",
+    "pass": 3
+   },
+   {
+    "quote": "COMPETITIVE LANDSCAPE",
+    "url": "https://finance.yahoo.com/news/liquid-metal-market-size-reach-090400762.html",
+    "pass": 3
+   },
+   {
+    "quote": "– helps you gauge the market strength of key players through adoption rates, technological investments, supply chain integration, and innovation focus areas.",
+    "url": "https://finance.yahoo.com/news/liquid-metal-market-size-reach-090400762.html",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.snsinsider.com/reports/liquid-metal-market-9668",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players:",
+    "url": "https://www.snsinsider.com/reports/liquid-metal-market-9668",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size, Segments Analysis, Competitive Landscape, Regional Analysis, DROC & SWOT Analysis, Forecast Outlook",
+    "url": "https://www.snsinsider.com/reports/liquid-metal-market-9668",
+    "pass": 3
+   },
+   {
+    "quote": "Profiles major players, value chains, and strategic developments.",
+    "url": "https://www.snsinsider.com/reports/liquid-metal-market-9668",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/reports/metals-market",
+    "pass": 3
+   },
+   {
+    "quote": "WORLDWIDE TOP KEY PLAYERS IN THE METALS MARKET INCLUDE",
+    "url": "https://www.sphericalinsights.com/reports/metals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape:",
+    "url": "https://www.insightaceanalytic.com/report/bulk-metallic-glass-market/1521",
+    "pass": 3
+   },
+   {
+    "quote": "Major key players in the bulk metallic glass market are:",
+    "url": "https://www.insightaceanalytic.com/report/bulk-metallic-glass-market/1521",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.insightaceanalytic.com/report/bulk-metallic-glass-market/1521",
+    "pass": 3
+   },
+   {
+    "quote": "Free customization report with the procurement of the report, Modifications to the regional and segment scope. Particular Geographic competitive landscape.",
+    "url": "https://www.insightaceanalytic.com/report/bulk-metallic-glass-market/1521",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in Bulk Metallic Glass Market?",
+    "url": "https://www.insightaceanalytic.com/report/bulk-metallic-glass-market/1521",
+    "pass": 3
+   },
+   {
+    "quote": "See the data, methodology, and competitive landscape preview & delivered to your inbox shortly.",
+    "url": "https://www.insightaceanalytic.com/report/bulk-metallic-glass-market/1521",
+    "pass": 3
+   },
+   {
+    "quote": "The liquid metals market is set to grow from $2.27 billion in 2024 to $3.5 billion in 2029, driven by rising demand for advanced thermal management, 3D printing, and smart facilities. Key players, including Indium Corporation, are pursuing innovations in manufacturing precision and eco-friendly solutions. Asia-Pacific leads in market growth.",
+    "url": "https://finance.yahoo.com/news/liquid-metals-market-report-2025-094300069.html",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled:",
+    "url": "https://finance.yahoo.com/news/liquid-metals-market-report-2025-094300069.html",
+    "pass": 3
+   },
+   {
+    "quote": "View More Key Players",
+    "url": "https://eureka.patsnap.com/report-analysis-of-liquid-metal-interconnect-durability-in-harsh-environments",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.geekwire.com/2025/washington-energy-startup-lands-doe-funding-for-researching-liquid-metal-walls-in-fusion-generators/",
+    "pass": 3
+   },
+   {
+    "quote": "sponsored by Google for Startups",
+    "url": "https://www.geekwire.com/2025/washington-energy-startup-lands-doe-funding-for-researching-liquid-metal-walls-in-fusion-generators/",
+    "pass": 3
+   },
+   {
+    "quote": "has held leadership for multiple startups and is the son of Swadesh Mahajan.",
+    "url": "https://www.geekwire.com/2025/washington-energy-startup-lands-doe-funding-for-researching-liquid-metal-walls-in-fusion-generators/",
+    "pass": 3
+   },
+   {
+    "quote": "GeekWire Startups",
+    "url": "https://www.geekwire.com/2025/washington-energy-startup-lands-doe-funding-for-researching-liquid-metal-walls-in-fusion-generators/",
+    "pass": 3
+   },
+   {
+    "quote": "Meet the key players in the Pacific Northwest’s fusion energy hub",
+    "url": "https://www.geekwire.com/2025/washington-energy-startup-lands-doe-funding-for-researching-liquid-metal-walls-in-fusion-generators/",
+    "pass": 3
+   },
+   {
+    "quote": "LiquidMetal Ventures is a newly established venture capital fund based in Boston, aiming at investing in early-stage (Seed, Angel, and pre-A round) in a minority group, particularly deep-tech startups.",
+    "url": "https://www.liquidmetalvc.com/",
+    "pass": 3
+   }
+  ],
+  "日本企業": [
+   {
+    "quote": "第６章 APAC市場における液状金属電子ペーストの地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾）、タイプ別、およびアプリケーション別の売上と収益を分析している",
+    "url": "https://www.atpress.ne.jp/news/7699024",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：液体金属電子ペーストの世界市場2026年～2032年",
+    "url": "https://www.atpress.ne.jp/news/7699024",
+    "pass": 3
+   },
+   {
+    "quote": "第14章 日本市場",
+    "url": "https://www.gii.co.jp/report/tbrc1927989-liquid-metals-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "Metaliqx Pte Ltd., Granges AB, Neo Performance Materials Inc., AMG Advanced Metallurgical Group, 5N Plus Inc., Materion Corporation, Ningbo Shine Magnetic Materials Co. Ltd., Hunan Jiuding Technology Co. Ltd., Zhuzhou Keneng New Material Co. Ltd., Yunnan Germanium Co. Ltd., Dowa Electronics Materials Co. Ltd., Sumitomo Metal Mining Co. Ltd., Nippon Rare Metal Inc., Heraeus Holding GmbH, Umicore SA",
+    "url": "https://www.gii.co.jp/report/tbrc1927989-liquid-metals-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "第６章には、APAC市場に焦点を当て、2021年から2026年までの地域別および国別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾）、タイプ別、および用途別の売上データが詳細に記載されている",
+    "url": "https://newscast.jp/news/4061148",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：液体金属電子用インクの世界市場2026年～2032年",
+    "url": "https://newscast.jp/news/4061148",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2026年までの地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾を含む）の販売量と収益、タイプ別およびアプリケーション別の販売データが示されています",
+    "url": "https://www.atpress.ne.jp/news/4874776",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：液体金属スリップリングの世界市場2026年～2032年",
+    "url": "https://www.atpress.ne.jp/news/4874776",
+    "pass": 3
+   },
+   {
+    "quote": "日本の液体金属市場",
+    "url": "https://www.gii.co.jp/report/luci1944646-liquid-metal-market-report-trends-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "Dowa Holdings Co., Ltd.",
+    "url": "https://www.gii.co.jp/report/luci1944646-liquid-metal-market-report-trends-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "Hitachi Metals, Ltd.",
+    "url": "https://www.gii.co.jp/report/luci1944646-liquid-metal-market-report-trends-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "必要に応じて日本語レポートが入手可能",
+    "url": "https://www.sdki.jp/reports/liquid-metal-thermal-pad-market/590641270",
+    "pass": 3
+   },
+   {
+    "quote": "日本の電子機器産業は、先進的な電子機器の主要生産国である日本の経済の重要な部分です",
+    "url": "https://www.sdki.jp/reports/liquid-metal-thermal-pad-market/590641270",
+    "pass": 3
+   },
+   {
+    "quote": "日本の電子機器およびITハードウェア市場は、2022年に約1,420億米ドルで、健全な成長率を示しています",
+    "url": "https://www.sdki.jp/reports/liquid-metal-thermal-pad-market/590641270",
+    "pass": 3
+   },
+   {
+    "quote": "日本で液体金属パッドが使用されているのは、新技術と高水準を重視しているためです",
+    "url": "https://www.sdki.jp/reports/liquid-metal-thermal-pad-market/590641270",
+    "pass": 3
+   },
+   {
+    "quote": "メーカーがパフォーマンスと製品の信頼性の向上を求めているため、これらのパッドは日本のメーカーの完成品に採用されつつあります",
+    "url": "https://www.sdki.jp/reports/liquid-metal-thermal-pad-market/590641270",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、世界中の、特に日本の電子機器メーカーは、適切な熱管理のために液体金属放熱パッドを必要とすることが予測されます",
+    "url": "https://www.sdki.jp/reports/liquid-metal-thermal-pad-market/590641270",
+    "pass": 3
+   },
+   {
+    "quote": "日本の現地プレーヤーにとって、液体金属放熱パッド市場の収益創出のチャンスとは何ですか",
+    "url": "https://www.sdki.jp/reports/liquid-metal-thermal-pad-market/590641270",
+    "pass": 3
+   },
+   {
+    "quote": "日本の液体金属放熱パッド市場は、国内需要と輸出機会の両方に牽引され、現地プレーヤーにとっていくつかの収益創出のチャンスを提供しています",
+    "url": "https://www.sdki.jp/reports/liquid-metal-thermal-pad-market/590641270",
+    "pass": 3
+   },
+   {
+    "quote": "日本は最も先進的な国の一つであり、特に電子機器と半導体の製造で有名です",
+    "url": "https://www.sdki.jp/reports/liquid-metal-thermal-pad-market/590641270",
+    "pass": 3
+   },
+   {
+    "quote": "輸出面では、日本の強力な貿易関係と高品質製品に対する評判により、現地メーカーは優位な立場にあります",
+    "url": "https://www.sdki.jp/reports/liquid-metal-thermal-pad-market/590641270",
+    "pass": 3
+   },
+   {
+    "quote": "2022年、日本は約200億米ドル相当の電子部品を輸出しており、これらの製品に使用される液体金属パッドの大きな市場があることを示しています",
+    "url": "https://www.sdki.jp/reports/liquid-metal-thermal-pad-market/590641270",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、高度な冷却ソリューションに対する世界的な需要の高まりは、日本のメーカーにとって優れた輸出機会を提供します",
+    "url": "https://www.sdki.jp/reports/liquid-metal-thermal-pad-market/590641270",
+    "pass": 3
+   },
+   {
+    "quote": "日本政府は、「Society 5」などのエレクトロニクスおよび半導体産業を支援するための措置を導入しました",
+    "url": "https://www.sdki.jp/reports/liquid-metal-thermal-pad-market/590641270",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、いくつかの日本企業が液体金属パッドの生産と開発を進めていることが明らかになりました",
+    "url": "https://www.sdki.jp/reports/liquid-metal-thermal-pad-market/590641270",
+    "pass": 3
+   },
+   {
+    "quote": "これらの電気自動車メーカーの中には、Panasonic、Fujipoly、Shin-Etsu Chemicalなど、パフォーマンスと使用の点でより良いソリューションを提供するための新製品を研究している熱管理ソリューションに投資している企業もあります",
+    "url": "https://www.sdki.jp/reports/liquid-metal-thermal-pad-market/590641270",
+    "pass": 3
+   },
+   {
+    "quote": "Shin-Etsu Chemical Co. Ltd.",
+    "url": "https://finance.yahoo.com/news/liquid-metal-market-size-reach-090400762.html",
+    "pass": 3
+   },
+   {
+    "quote": "Hitachi Metals Ltd.",
+    "url": "https://finance.yahoo.com/news/liquid-metal-market-size-reach-090400762.html",
+    "pass": 3
+   },
+   {
+    "quote": "accounted for the largest regional revenue share in 2025, at over 43.12%. Asia Pacific dominates the Liquid Metal market due to strong electronics manufacturing and semiconductor output in nations, such as China, South Korea, Taiwan, and Japan.",
+    "url": "https://finance.yahoo.com/news/liquid-metal-market-size-reach-090400762.html",
+    "pass": 3
+   },
+   {
+    "quote": "North America (US, Canada), Europe (Germany, UK, France, Italy, Spain, Russia, Poland, Rest of Europe), Asia Pacific (China, India, Japan, South Korea, Australia, ASEAN Countries, Rest of Asia Pacific), Middle East & Africa (UAE, Saudi Arabia, Qatar, South Africa, Rest of Middle East & Africa), Latin America (Brazil, Argentina, Mexico, Colombia, Rest of Latin America).",
+    "url": "https://finance.yahoo.com/news/liquid-metal-market-size-reach-090400762.html",
+    "pass": 3
+   },
+   {
+    "quote": "Shin-Etsu Chemical Co. Ltd.",
+    "url": "https://www.snsinsider.com/reports/liquid-metal-market-9668",
+    "pass": 3
+   },
+   {
+    "quote": "Hitachi Metals Ltd.",
+    "url": "https://www.snsinsider.com/reports/liquid-metal-market-9668",
+    "pass": 3
+   },
+   {
+    "quote": "North America (US, Canada), Europe (Germany, UK, France, Italy, Spain, Russia, Poland, Rest of Europe), Asia Pacific (China, India, Japan, South Korea, Australia, ASEAN Countries, Rest of Asia Pacific), Middle East & Africa (UAE, Saudi Arabia, Qatar, South Africa, Rest of Middle East & Africa), Latin America (Brazil, Argentina, Mexico, Colombia, Rest of Latin America).",
+    "url": "https://www.snsinsider.com/reports/liquid-metal-market-9668",
+    "pass": 3
+   },
+   {
+    "quote": "Rapid urbanization, industrialization, and rising infrastructure spending are some of the forces propelling the Asia-Pacific area. Strong economic growth is being seen by nations like China, India, Japan, and Southeast Asia, which in turn is driving up demand for metals in a variety of industries, including manufacturing, electronics, automotive, and construction.",
+    "url": "https://www.sphericalinsights.com/reports/metals-market",
+    "pass": 3
+   },
+   {
+    "quote": "In January 2022-A sub-license agreement was signed by Liquidmetal Technologies, Inc. through its majority-owned subsidiary, Liquidmetal Golf, and Amorphous Technologies Japan (ATJ) Inc., a newly formed Japanese company founded by Twins Corporation.",
+    "url": "https://www.insightaceanalytic.com/report/bulk-metallic-glass-market/1521",
+    "pass": 3
+   },
+   {
+    "quote": "Hitachi Metals, Ltd.",
+    "url": "https://www.insightaceanalytic.com/report/bulk-metallic-glass-market/1521",
+    "pass": 3
+   },
+   {
+    "quote": "In addition, Asia Pacific is projected to grow rapidly in the global bulk metallic glass market. China and Japan are some of the largest commercial centers for metallic glass in the Asia Pacific region. Government initiatives and policies and increased demand for electrical items have increased private and recognized players' expenditures.",
+    "url": "https://www.insightaceanalytic.com/report/bulk-metallic-glass-market/1521",
+    "pass": 3
+   },
+   {
+    "quote": "U.S.; Canada; U.K.; Germany; China; Japan; Brazil; Mexico; The UK; France; Italy; Spain; Japan; India; South Korea; South East Asia",
+    "url": "https://www.insightaceanalytic.com/report/bulk-metallic-glass-market/1521",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "売上高ベースでは、世界最大手2社が2025年までに約100%のシェアを占める見込みです",
+    "url": "https://www.atpress.ne.jp/news/7699024",
+    "pass": 3
+   },
+   {
+    "quote": "第３章 企業ごとの液状金属電子ペーストのグローバルな分解データとして、年間売上、売上市場シェア、年間収益、収益市場シェア、販売価格を提供している",
+    "url": "https://www.atpress.ne.jp/news/7699024",
+    "pass": 3
+   },
+   {
+    "quote": "液体金属市場 | 市場規模 業界シェア 市場分析 成長性 2026年",
+    "url": "https://www.gii.co.jp/report/tbrc1927989-liquid-metals-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、英国に拠点を置く商業電気サービス企業TNS Electrical Solutionsが2024年8月に発表した報告書によると、英国のスマートホームは720万戸に達し、全世帯の24.4%を占めています",
+    "url": "https://www.gii.co.jp/report/tbrc1927989-liquid-metals-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "2027年までにスマートホーム数は1,510万戸に増加し、英国の全世帯の50.2%以上を占めると予測されています",
+    "url": "https://www.gii.co.jp/report/tbrc1927989-liquid-metals-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "液体金属市場：競合情勢と市場シェア、2024年",
+    "url": "https://www.gii.co.jp/report/tbrc1927989-liquid-metals-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "収益面では、世界最大の2社が2025年には約〇％のシェアを占める見込みです",
+    "url": "https://newscast.jp/news/4061148",
+    "pass": 3
+   },
+   {
+    "quote": "また、タイプ別（ガリウム系合金、セシウム系合金、フランシウム系合金、その他）および用途別（電子スタイラスインク、プリンター消耗品、その他）の市場セグメントの詳細な分析が、売上、収益、市場シェア、および価格の観点から2021年から2026年までのデータで提供されている",
+    "url": "https://newscast.jp/news/4061148",
+    "pass": 3
+   },
+   {
+    "quote": "第３章には、企業別のグローバル市場データが詳述されており、2021年から2026年までの年間売上、売上市場シェア、年間収益、収益市場シェア、および企業別の販売価格が含まれる",
+    "url": "https://newscast.jp/news/4061148",
+    "pass": 3
+   },
+   {
+    "quote": "売上高ベースでは、2025年に世界トップ2社が市場シェアの約%を占めました",
+    "url": "https://www.atpress.ne.jp/news/4874776",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2032年までの世界年間販売額、2021年、2025年、2032年における地域別および国別の現在と将来の分析、タイプ別（シングル回路、マルチ回路）およびアプリケーション別（半導体、防衛・航空宇宙、試験装置など）のセグメント分析、タイプ別およびアプリケーション別の販売量市場シェア、収益および市場シェア、販売価格（2021年から2026年）が含まれています",
+    "url": "https://www.atpress.ne.jp/news/4874776",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、各企業の液体金属スリップリングの年間販売量と市場シェア、年間収益と市場シェア、販売価格（いずれも2021年から2026年）、主要メーカーの生産地域分布、販売地域、提供される製品タイプに関する情報が含まれています",
+    "url": "https://www.atpress.ne.jp/news/4874776",
+    "pass": 3
+   },
+   {
+    "quote": "素材別で見てみると、市場の半数以上を占める正極活物質は、2022年予測で5兆8353億円（20年比で3.7倍）",
+    "url": "https://k-tai.watch.impress.co.jp/docs/news/1433383.html",
+    "pass": 3
+   },
+   {
+    "quote": "液体金属放熱パッド市場調査レポート、規模とシェア、成長機会、およびトレンド洞察分析―タイプ別、アプリケーション別、および地域別―世界予測2025―2037 年",
+    "url": "https://www.sdki.jp/reports/liquid-metal-thermal-pad-market/590641270",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、アジア太平洋地域の市場が予測期間中に約33％の支配的な市場シェアを維持し、主にこの地域のエレクトロニクスおよび半導体産業の成長の結果として、今後数年間に有望な成長機会を示すと予想しています",
+    "url": "https://www.sdki.jp/reports/liquid-metal-thermal-pad-market/590641270",
+    "pass": 3
+   },
+   {
+    "quote": "これらのセグメントのうち、熱伝導率：30－50W/m.Kセグメントは、2037年までに市場総収益の約50％を占め、市場で重要な位置を占めています",
+    "url": "https://www.sdki.jp/reports/liquid-metal-thermal-pad-market/590641270",
+    "pass": 3
+   },
+   {
+    "quote": "これら 5 つのセグメントのうち、液体金属放熱パッド市場は IGBT セグメントが支配的となり、2037 年までに総市場シェアが約 33% を超えると予想されます",
+    "url": "https://www.sdki.jp/reports/liquid-metal-thermal-pad-market/590641270",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、2037年までに市場シェアの約33％以上を占めることになります",
+    "url": "https://www.sdki.jp/reports/liquid-metal-thermal-pad-market/590641270",
+    "pass": 3
+   },
+   {
+    "quote": "北米地域の市場も、予測期間中に約 29% の市場シェアを獲得すると予想されています",
+    "url": "https://www.sdki.jp/reports/liquid-metal-thermal-pad-market/590641270",
+    "pass": 3
+   },
+   {
+    "quote": "シリンガアルデヒド市場調査レポート、規模とシェア、成長機会、主要メーカー及び傾向洞察分析― アプリケーション別、製造プロセス別、純度・グレード別、最終用途産業別及び地域別―世界市場の見通しと予測 2026－2035年",
+    "url": "https://www.sdki.jp/reports/liquid-metal-thermal-pad-market/590641270",
+    "pass": 3
+   },
+   {
+    "quote": "プロピオンアルデヒド市場調査レポート、規模とシェア、成長機会、主要メーカー及び傾向洞察分析― アプリケーション別、製造プロセス別、純度・グレード別、最終用途産業別、流通チャネル別及び地域別―世界市場の見通しと予測 2026－2035年",
+    "url": "https://www.sdki.jp/reports/liquid-metal-thermal-pad-market/590641270",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年には、アジア太平洋地域が液体金属放熱パッド市場で最大のシェアを獲得すると予測されています",
+    "url": "https://www.sdki.jp/reports/liquid-metal-thermal-pad-market/590641270",
+    "pass": 3
+   },
+   {
+    "quote": "In 2025, thermal management dominated with 45% share as it is the primary application driving liquid metal adoption, particularly in electronics, data centers, and high-power devices. The flexible electronics is the fastest-growing segment during 2026–2035 driven by the growing demand for wearable devices, soft robotics, and stretchable circuits that require conductive and flexible materials.",
+    "url": "https://finance.yahoo.com/news/liquid-metal-market-size-reach-090400762.html",
+    "pass": 3
+   },
+   {
+    "quote": "Based on Region, Asia Pacific Dominated Holding the Largest Market Share in 2025 and North America is Expected to Grow with Significant CAGR in the Market During 2026-2033",
+    "url": "https://finance.yahoo.com/news/liquid-metal-market-size-reach-090400762.html",
+    "pass": 3
+   },
+   {
+    "quote": "accounted for the largest regional revenue share in 2025, at over 43.12%. Asia Pacific dominates the Liquid Metal market due to strong electronics manufacturing and semiconductor output in nations, such as China, South Korea, Taiwan, and Japan.",
+    "url": "https://finance.yahoo.com/news/liquid-metal-market-size-reach-090400762.html",
+    "pass": 3
+   },
+   {
+    "quote": "By Product Type: In 2025, gallium-based alloys dominated with 50% share; indium-based alloys are the fastest-growing segment during 2026–2035.",
+    "url": "https://www.snsinsider.com/reports/liquid-metal-market-9668",
+    "pass": 3
+   },
+   {
+    "quote": "By Form: In 2025, liquid form dominated with 55% share; paste/gel is the fastest-growing segment during 2026–2035.",
+    "url": "https://www.snsinsider.com/reports/liquid-metal-market-9668",
+    "pass": 3
+   },
+   {
+    "quote": "By Application: In 2025, thermal management dominated with 45% share; flexible electronics is the fastest-growing segment during 2026–2035.",
+    "url": "https://www.snsinsider.com/reports/liquid-metal-market-9668",
+    "pass": 3
+   },
+   {
+    "quote": "By End-User Industry: In 2025, electronics & semiconductors dominated with 52% share; automotive & EVs is the fastest-growing segment during 2026–2035.",
+    "url": "https://www.snsinsider.com/reports/liquid-metal-market-9668",
+    "pass": 3
+   },
+   {
+    "quote": "North-America dominated the Liquid Metal Market in 2025.",
+    "url": "https://www.snsinsider.com/reports/liquid-metal-market-9668",
+    "pass": 3
+   },
+   {
+    "quote": "3. Which region holds the largest share of the metals market?",
+    "url": "https://www.sphericalinsights.com/reports/metals-market",
+    "pass": 3
+   },
+   {
+    "quote": "Liquid Metals Market Report 2025 | From $2.27 Billion in 2024 to $3.5 Billion by 2029 - Global Long-term Forecast to 2034 - Asia-Pacific Dominates as the Fastest-Growing Region",
+    "url": "https://finance.yahoo.com/news/liquid-metals-market-report-2025-094300069.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "液体金属 電子ペーストの世界 市場 （2026年～2032年） — 液体金属 電子ペーストの世界 市場 （2026年～2032年） アットプレス https://www.atpress.ne.jp > news",
+    "url": "https://www.atpress.ne.jp/news/7699024",
+    "pass": 3
+   },
+   {
+    "quote": "液体金属 市場 | 市場規模 業界シェア 市場分析 成長 性 2026年 — 液体金属 市場 | 市場規模 業界シェア 市場分析 成長 性 2026年 グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > ... > マテリアル/化学品 > 金属",
+    "url": "https://www.gii.co.jp/report/tbrc1927989-liquid-metals-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "液体金属 装飾塗料 市場 の将来動向：2026～2032年の 年平均 ... — 液体金属 装飾塗料 市場 の将来動向：2026～2032年の 年平均 ... QYResearch(QYリサーチ) https://www.qyresearch.co.jp > news > liquid-metal-decor...",
+    "url": "https://www.qyresearch.co.jp/news/16462/liquid-metal-decorative-paint",
+    "pass": 3
+   },
+   {
+    "quote": "液体金属 電子用インクの世界 市場 （2026年～2032年） — 液体金属 電子用インクの世界 市場 （2026年～2032年） Newscast.jp https://newscast.jp > news",
+    "url": "https://newscast.jp/news/4061148",
+    "pass": 3
+   },
+   {
+    "quote": "液体金属 複合材料 市場規模 ・シェアおよび2032年 成長 ... — 液体金属 複合材料 市場規模 ・シェアおよび2032年 成長 ... Mordor Intelligence https://www.mordorintelligence.com > industry-reports > l...",
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/liquid-metal-composites-market",
+    "pass": 3
+   },
+   {
+    "quote": "液体金属 スリップリングの世界 市場 （2026年～2032年） — 液体金属 スリップリングの世界 市場 （2026年～2032年） アットプレス https://www.atpress.ne.jp > news",
+    "url": "https://www.atpress.ne.jp/news/4874776",
+    "pass": 3
+   },
+   {
+    "quote": "液体金属市場 レポート：2031年までの動向、 予測 、競合分析 — 液体金属市場 レポート：2031年までの動向、 予測 、競合分析 グローバルインフォメーション https://www.gii.co.jp > ... > マテリアル/化学品 > 金属",
+    "url": "https://www.gii.co.jp/report/luci1944646-liquid-metal-market-report-trends-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界の 液体金属 放熱パッド市場レポート: 2025－2037 年の傾向 — 世界の 液体金属 放熱パッド市場レポート: 2025－2037 年の傾向 SDKI Analytics https://www.sdki.jp > レポート",
+    "url": "https://www.sdki.jp/reports/liquid-metal-thermal-pad-market/590641270",
+    "pass": 3
+   },
+   {
+    "quote": "液体金属 の株価リアルタイム・構成銘柄一覧 - moomoo証券 — 液体金属 の株価リアルタイム・構成銘柄一覧 - moomoo証券 Moomoo https://www.moomoo.com > liquid-metal-BK23274",
+    "url": "https://www.moomoo.com/ja/sectors/liquid-metal-BK23274",
+    "pass": 3
+   },
+   {
+    "quote": "液体金属 スリップリングの世界市場（2026年～2032年） — 液体金属 スリップリングの世界市場（2026年～2032年） アットプレス https://www.atpress.ne.jp > news",
+    "url": "https://www.atpress.ne.jp/news/4874776",
+    "pass": 3
+   },
+   {
+    "quote": "液体金属 バッテリーエネルギー貯蔵システム業界の主要 企業 10社 — 液体金属 バッテリーエネルギー貯蔵システム業界の主要 企業 10社 LinkedIn https://jp.linkedin.com > pulse > 液体金属バッテリーエネ...",
+    "url": "https://jp.linkedin.com/pulse/%E6%B6%B2%E4%BD%93%E9%87%91%E5%B1%9E%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E8%B2%AF%E8%94%B5%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E6%A5%AD%E7%95%8C%E3%81%AE%E4%B8%BB%E8%A6%81%E4%BC%81%E6%A5%AD10%E7%A4%BE-strategicshift-insights-oa0ze",
+    "pass": 3
+   },
+   {
+    "quote": "Liquid Metal Market Size to Reach USD 5.97 Billion by 2035 ... — Liquid Metal Market Size to Reach USD 5.97 Billion by 2035 ... Yahoo Finance https://finance.yahoo.com > news > li...",
+    "url": "https://finance.yahoo.com/news/liquid-metal-market-size-reach-090400762.html",
+    "pass": 3
+   },
+   {
+    "quote": "Liquid Metal Market Size , Industry Share and Forecast 2035 — Liquid Metal Market Size , Industry Share and Forecast 2035 SNS Insider https://www.snsinsider.com > reports",
+    "url": "https://www.snsinsider.com/reports/liquid-metal-market-9668",
+    "pass": 3
+   },
+   {
+    "quote": "Liquid Metals Market to Reach 5.34 Billion by 2033 - LinkedIn — Liquid Metals Market to Reach 5.34 Billion by 2033 - LinkedIn LinkedIn https://www.linkedin.com > posts > c...",
+    "url": "https://www.linkedin.com/posts/cn-market-insights_the-global-liquid-metals-market-is-projected-activity-7504131661190828032-bf1V",
+    "pass": 3
+   },
+   {
+    "quote": "Liquid Metals Market Report 2025 | From $2.27 Billion in 2024 ... — Liquid Metals Market Report 2025 | From $2.27 Billion in 2024 ... Yahoo Finance https://finance.yahoo.com > news > li...",
+    "url": "https://finance.yahoo.com/news/liquid-metals-market-report-2025-094300069.html",
+    "pass": 3
+   },
+   {
+    "quote": "Liquid Metal Market Size, Industry Share and Forecast 2035 — Liquid Metal Market Size, Industry Share and Forecast 2035 SNS Insider https://www.snsinsider.com > reports",
+    "url": "https://www.snsinsider.com/reports/liquid-metal-market-9668",
+    "pass": 3
+   },
+   {
+    "quote": "Startup lands DOE funding for researching liquid metal walls ... — Startup lands DOE funding for researching liquid metal walls ... GeekWire https://www.geekwire.com > 2025",
+    "url": "https://www.geekwire.com/2025/washington-energy-startup-lands-doe-funding-for-researching-liquid-metal-walls-in-fusion-generators/",
+    "pass": 3
+   },
+   {
+    "quote": "AMA with LiquidMetal AI - 25M Raised from Sequoia, Atlantic ... — AMA with LiquidMetal AI - 25M Raised from Sequoia, Atlantic ... Reddit https://www.reddit.com > comments",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1kr878g/ama_with_liquidmetal_ai_25m_raised_from_sequoia/",
+    "pass": 3
+   },
+   {
+    "quote": "Fluent Metal launches liquid metal printing with $5.5M in funding — Fluent Metal launches liquid metal printing with $5.5M in funding VoxelMatters https://www.voxelmatters.com > fluen...",
+    "url": "https://www.voxelmatters.com/fluent-metal-launches-liquid-metal-printing-with-5-5m-in-funding/",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "In September 2025, World EV Day, Vedanta Limited announced that it had invested over 12,500 crore to increase its capacity to manufacture metals for India's expanding electric vehicle market These projects include ferrochrome production facilities, zinc alloy plants, and aluminum smelters",
+    "url": "https://www.sphericalinsights.com/reports/metals-market",
+    "pass": 3
+   },
+   {
+    "quote": "The startup previously raised less than $800,000 in seed funding.",
+    "url": "https://www.geekwire.com/2025/washington-energy-startup-lands-doe-funding-for-researching-liquid-metal-walls-in-fusion-generators/",
+    "pass": 3
+   },
+   {
+    "quote": "After public ask for funding, B.C.’s General Fusion lands $22M from investors",
+    "url": "https://www.geekwire.com/2025/washington-energy-startup-lands-doe-funding-for-researching-liquid-metal-walls-in-fusion-generators/",
+    "pass": 3
+   },
+   {
+    "quote": "Arieca has raised $7.7M across 3 funding rounds.",
+    "url": "https://startupintros.com/orgs/arieca",
+    "pass": 3
+   },
+   {
+    "quote": "3 funding rounds",
+    "url": "https://startupintros.com/orgs/arieca",
+    "pass": 3
+   },
+   {
+    "quote": "Arieca has raised $7.7M in total across 3 funding rounds.",
+    "url": "https://startupintros.com/orgs/arieca",
+    "pass": 3
+   },
+   {
+    "quote": "Arieca has raised $7.7M across 3 funding rounds. Most recently, it raised $7.0M Series A in May 2022.",
+    "url": "https://startupintros.com/orgs/arieca",
+    "pass": 3
+   },
+   {
+    "quote": "$7.7M raised",
+    "url": "https://startupintros.com/orgs/arieca",
+    "pass": 3
+   },
+   {
+    "quote": "$7M Series A",
+    "url": "https://startupintros.com/orgs/arieca",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "8.6",
+    "url": "https://www.atpress.ne.jp/news/7699024",
+    "quote": "2026年から2032年にかけて、年平均成長率（CAGR）8.6%で成長すると予測されています"
+   },
+   {
+    "value": "8.5",
+    "url": "https://www.gii.co.jp/report/tbrc1927989-liquid-metals-global-market-report.html",
+    "quote": "2025年の24億4,000万米ドルから2026年には26億5,000万米ドルへと、CAGR8.5％で拡大する見込みです"
+   },
+   {
+    "value": "8.4",
+    "url": "https://www.gii.co.jp/report/tbrc1927989-liquid-metals-global-market-report.html",
+    "quote": "2030年には36億5,000万米ドルに達し、CAGRは8.4％となる見込みです"
+   },
+   {
+    "value": "8.6",
+    "url": "https://newscast.jp/news/4061148",
+    "quote": "2026年から2032年にかけて、年平均成長率（CAGR）8.6%で成長すると予測されています"
+   },
+   {
+    "value": "3.5",
+    "url": "https://www.atpress.ne.jp/news/4874776",
+    "quote": "世界の液体金属スリップリング市場規模は、2025年の2,562万米ドルから2032年には3,237万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）3.5%で成長すると見込まれています"
+   },
+   {
+    "value": "9.5",
+    "url": "https://www.gii.co.jp/report/luci1944646-liquid-metal-market-report-trends-forecast.html",
+    "quote": "世界の液体金属市場は、2025年から2031年にかけてCAGR 9.5％で成長すると予測されています"
+   },
+   {
+    "value": "8.75",
+    "url": "https://finance.yahoo.com/news/liquid-metal-market-size-reach-090400762.html",
+    "quote": "Size is estimated at USD 2.58 Billion in 2025 and is expected to reach USD 5.97 Billion by 2035 and grow at a CAGR of 8.75% over 2026-2035. The Liquid Metal Market is seeing substantial growth due to rising demand for sophisticated thermal management solutions in high-performance electronics, data c"
+   },
+   {
+    "value": "8.16",
+    "url": "https://finance.yahoo.com/news/liquid-metal-market-size-reach-090400762.html",
+    "quote": "Market Size is estimated at USD 0.58 Billion in 2025 and is expected to reach USD 1.60 Billion by 2035, growing at a CAGR of 8.16% over the forecast period of 2026-2035. The growth of the U.S. specialty liquid metal market is driven by strong demand from advanced electronics, data centers, and semic"
+   },
+   {
+    "value": "8.60",
+    "url": "https://finance.yahoo.com/news/liquid-metal-market-size-reach-090400762.html",
+    "quote": "is the fastest-growing region, estimated to increase at a CAGR 8.60% during the projection period 2026-2035. This rapid rise is attributed to the rising deployment of AI-driven data centers and high-performance computing infrastructure that demand better heat management systems."
+   },
+   {
+    "value": "8.75",
+    "url": "https://www.snsinsider.com/reports/liquid-metal-market-9668",
+    "quote": "size is valued at USD 2.58 Billion in 2025 and is expected to reach USD 5.97 Billion by 2035 and grow at a CAGR of 8.75% over the forecast period 2026-2035."
+   },
+   {
+    "value": "8.16",
+    "url": "https://www.snsinsider.com/reports/liquid-metal-market-9668",
+    "quote": "Market size is USD 0.58 Billion in 2025 and is expected to reach USD 1.60 Billion by 2035, growing at a CAGR of 8.16% over the forecast period of 2026-2035."
+   },
+   {
+    "value": "8.60",
+    "url": "https://www.snsinsider.com/reports/liquid-metal-market-9668",
+    "quote": "is the fastest-growing region, expected to grow at a CAGR 8.60% during the forecast period 2026-2035"
+   },
+   {
+    "value": "5.37",
+    "url": "https://www.sphericalinsights.com/reports/metals-market",
+    "quote": "The global metals market is projected to expand at a CAGR of 5.37% during the forecast period."
+   },
+   {
+    "value": "19.5",
+    "url": "https://www.insightaceanalytic.com/report/bulk-metallic-glass-market/1521",
+    "quote": "CAGR of 19.5% from 2026 to 2035"
+   },
+   {
+    "value": "9.2",
+    "url": "https://finance.yahoo.com/news/liquid-metals-market-report-2025-094300069.html",
+    "quote": "The liquid metals market size has grown strongly in recent years. It will grow from $2.27 billion in 2024 to $2.48 billion in 2025 at a compound annual growth rate (CAGR) of 9.2%. The liquid metals market size is expected to see strong growth in the next few years. It will grow to $3.5 billion in 20"
+   },
+   {
+    "value": "9",
+    "url": "https://finance.yahoo.com/news/liquid-metals-market-report-2025-094300069.html",
+    "quote": "The liquid metals market size has grown strongly in recent years. It will grow from $2.27 billion in 2024 to $2.48 billion in 2025 at a compound annual growth rate (CAGR) of 9.2%. The liquid metals market size is expected to see strong growth in the next few years. It will grow to $3.5 billion in 20"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.atpress.ne.jp/news/7699024",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/tbrc1927989-liquid-metals-global-market-report.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qyresearch.co.jp/news/16462/liquid-metal-decorative-paint",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://newscast.jp/news/4061148",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/liquid-metal-composites-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/4874776",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-keizai.co.jp/report/report.html?public_status=1&la=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://k-tai.watch.impress.co.jp/docs/news/1433383.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fkg-report.jp/research-fields/chemicals/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/luci1944646-liquid-metal-market-report-trends-forecast.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg1/%E6%B6%B2%E4%BD%93/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sdki.jp/reports/liquid-metal-thermal-pad-market/590641270",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moomoo.com/ja/sectors/liquid-metal-BK23274",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://em.mitsui-kinzoku.com/liquid-innovate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.irisoele.com/jp/technology/advanced-technology/liquid-metal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/news/liquid-metal-market-size-reach-090400762.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snsinsider.com/reports/liquid-metal-market-9668",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/reports/metals-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.insightaceanalytic.com/report/bulk-metallic-glass-market/1521",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/precious-metals-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/news/liquid-metals-market-report-2025-094300069.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eureka.patsnap.com/report-analysis-of-liquid-metal-interconnect-durability-in-harsh-environments",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/market-insight/base-metals-market-2719",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.psmarketresearch.com/market-analysis/silicon-metal-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.liquidmetal.com/blog",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.geekwire.com/2025/washington-energy-startup-lands-doe-funding-for-researching-liquid-metal-walls-in-fusion-generators/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/arieca",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1kr878g/ama_with_liquidmetal_ai_25m_raised_from_sequoia/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.liquidmetalvc.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newmarketpitch.com/blogs/news/solid-state-battery-top-startups-fundraising",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "液体金属 市場規模 年平均成長率",
+   "results": [
+    "https://www.atpress.ne.jp/news/7699024",
+    "https://www.gii.co.jp/report/tbrc1927989-liquid-metals-global-market-report.html",
+    "https://www.qyresearch.co.jp/news/16462/liquid-metal-decorative-paint",
+    "https://newscast.jp/news/4061148",
+    "https://www.mordorintelligence.com/ja/industry-reports/liquid-metal-composites-market",
+    "https://www.gminsights.com/ja/industry-analysis/liquid-adhesives-market",
+    "https://www.atpress.ne.jp/news/4874776",
+    "https://www.marketresearch.co.jp/mrc24br-ag70721-market-report/",
+    "https://www.verifiedmarketreports.com/ja/product/liquid-metal-material-market/",
+    "https://www.verifiedmarketreports.com/ja/product/liquid-metal-market/"
+   ]
+  },
+  {
+   "query": "液体金属 市場 予測 富士経済 OR 矢野経済 OR シーエムシー",
+   "results": [
+    "https://www.atpress.ne.jp/news/4874776",
+    "https://www.fuji-keizai.co.jp/report/report.html?public_status=1&la=ja",
+    "https://k-tai.watch.impress.co.jp/docs/news/1433383.html",
+    "https://www.fkg-report.jp/research-fields/chemicals/",
+    "https://www.gii.co.jp/report/luci1944646-liquid-metal-market-report-trends-forecast.html",
+    "https://www.fcr.co.jp/report/ctg_material.html",
+    "https://www.yano.co.jp/press-release/show/press_id/4047?srsltid=AYCX9vI-dzwSRNye8ybsHb1MmsWzOTEAMueDkygbJuaXU7yV62PrWpWk",
+    "https://cmcre.com/",
+    "https://newscast.jp/smart/news/9470903",
+    "https://www.fuji-keizai.co.jp/report/"
+   ]
+  },
+  {
+   "query": "液体金属 参入 企業 国内",
+   "results": [
+    "https://mono.ipros.com/cg1/%E6%B6%B2%E4%BD%93/",
+    "https://www.sdki.jp/reports/liquid-metal-thermal-pad-market/590641270",
+    "https://www.moomoo.com/ja/sectors/liquid-metal-BK23274",
+    "https://em.mitsui-kinzoku.com/liquid-innovate/",
+    "https://www.atpress.ne.jp/news/4874776",
+    "https://jp.linkedin.com/pulse/%E6%B6%B2%E4%BD%93%E9%87%91%E5%B1%9E%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E8%B2%AF%E8%94%B5%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E6%A5%AD%E7%95%8C%E3%81%AE%E4%B8%BB%E8%A6%81%E4%BC%81%E6%A5%AD10%E7%A4%BE-strategicshift-insights-oa0ze",
+    "https://www.irisoele.com/jp/technology/advanced-technology/liquid-metal/",
+    "https://www.asahi.com/articles/ASRBD3FKHRBCULBH00Q.html",
+    "https://ja.sindathermal.com/news/arieca-a-liquid-metal-embedded-elastomer-lme-17246304052552704.html",
+    "https://www.industrystock.com/ja/companies/金属工業/金属/液体金属"
+   ]
+  },
+  {
+   "query": "liquid metal market size CAGR 2025",
+   "results": [
+    "https://finance.yahoo.com/news/liquid-metal-market-size-reach-090400762.html",
+    "https://www.snsinsider.com/reports/liquid-metal-market-9668",
+    "https://www.sphericalinsights.com/reports/metals-market",
+    "https://www.insightaceanalytic.com/report/bulk-metallic-glass-market/1521",
+    "https://www.linkedin.com/posts/cn-market-insights_the-global-liquid-metals-market-is-projected-activity-7504131661190828032-bf1V",
+    "https://www.grandviewresearch.com/industry-analysis/precious-metals-market",
+    "https://www.youtube.com/watch?v=bwnA4M9nvSw",
+    "https://www.psmarketresearch.com/market-analysis/silicon-metal-market-report",
+    "https://tracxn.com/d/companies/liquidmetal/__8YlVzV_WCEPlEI1levYmmfG_cgmmq03KMvCH4gWtaKY",
+    "https://dataintelo.com/report/global-liquid-metal-market"
+   ]
+  },
+  {
+   "query": "liquid metal market key players competitive landscape",
+   "results": [
+    "https://www.linkedin.com/pulse/liquid-metal-product-market-us-japan-korea-ro67f",
+    "https://finance.yahoo.com/news/liquid-metals-market-report-2025-094300069.html",
+    "https://www.snsinsider.com/reports/liquid-metal-market-9668",
+    "https://www.insightaceanalytic.com/report/bulk-metallic-glass-market/1521",
+    "https://eureka.patsnap.com/report-analysis-of-liquid-metal-interconnect-durability-in-harsh-environments",
+    "https://www.coherentmarketinsights.com/market-insight/base-metals-market-2719",
+    "https://www.linkedin.com/pulse/liquid-metal-product-market-industry-drivers-regional-4bwbf",
+    "https://www.psmarketresearch.com/market-analysis/silicon-metal-market-report",
+    "https://www.liquidmetal.com/blog",
+    "https://www.futuremarketreport.com/industry-report/liquid-metal-market"
+   ]
+  },
+  {
+   "query": "liquid metal startup funding 2025",
+   "results": [
+    "https://www.geekwire.com/2025/washington-energy-startup-lands-doe-funding-for-researching-liquid-metal-walls-in-fusion-generators/",
+    "https://startupintros.com/orgs/arieca",
+    "https://www.reddit.com/r/AI_Agents/comments/1kr878g/ama_with_liquidmetal_ai_25m_raised_from_sequoia/",
+    "https://www.liquidmetalvc.com/",
+    "https://newmarketpitch.com/blogs/news/solid-state-battery-top-startups-fundraising",
+    "https://www.voxelmatters.com/fluent-metal-launches-liquid-metal-printing-with-5-5m-in-funding/",
+    "https://growthlist.co/energy-startups/",
+    "https://www.linkedin.com/posts/taylorlowe11_ai-startup-metal-raises-5-million-to-transform-activity-7371184098087714816-0d_0",
+    "https://discover.vultr.com/liquidmetal-ai-case-study",
+    "https://tracxn.com/d/companies/liquidmetal-ai/___pwbUshGJBS-DibDjryaQetSYH1LdjymfaORquTZ0AA/funding-and-investors"
+   ]
+  }
+ ],
+ "missing": {}
+}

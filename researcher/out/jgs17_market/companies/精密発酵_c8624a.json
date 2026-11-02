@@ -1,0 +1,2088 @@
+{
+ "name": "精密発酵",
+ "en": "precision fermentation",
+ "aliases": [
+  "代替タンパク",
+  "代替乳"
+ ],
+ "context": "16 フードテック ④新規食品",
+ "kind": "market",
+ "researched_at": "2026-11-02T17:54:10.662039+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "精密発酵原料市場規模レポート、2026〜2035年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "精密発酵原料市場は、2025年に9億4,000万米ドルと評価され、2026年には10億7,000万米ドルに達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の予測市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の精密発酵原料市場規模、原料タイプ別、2025年・2035年（百万米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "産業バイオテクノロジー分野の市場規模は、2025年に9,900万米ドルとなり、2035年には3億5,700万米ドルに達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "酵母は2025年に市場の37.0%を占め、2035年には市場規模が12億4,000万米ドルに達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "細菌は2025年に2億8,200万米ドルの市場規模を生み出し、2026〜2035年に13.1%の年平均成長率で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "糸状菌は2025年に市場の22.0%を占め、2035年には市場規模が6億8,300万米ドルに達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の精密発酵原料市場は、2025年に3億5,200万米ドルとなり、2035年には11億1,000万米ドルに達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "精密発酵市場は2035年に286億米ドルへ拡大、CAGR 27.3％で加速する次世代食品・代替タンパク質の商業化と日本企業の成長戦略 | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/6185690",
+    "pass": 3
+   },
+   {
+    "quote": "精密発酵市場は2035年に286億米ドルへ拡大、CAGR 27.3％で加速する次世代食品・代替タンパク質の商業化と日本企業の成長戦略",
+    "url": "https://newscast.jp/smart/news/6185690",
+    "pass": 3
+   },
+   {
+    "quote": "精密発酵市場は2025年の25億米ドルから2035年には286億米ドルに拡大する見通し",
+    "url": "https://newscast.jp/smart/news/6185690",
+    "pass": 3
+   },
+   {
+    "quote": "精密発酵市場は、2025年の25億米ドルから2035年には286億米ドルに達すると予測されている",
+    "url": "https://newscast.jp/smart/news/6185690",
+    "pass": 3
+   },
+   {
+    "quote": "• 精密発酵市場は急速な拡大が見込まれており、2025年の25億米ドルから2035年までに286億米ドルへと成長し、2026年から2035年にかけて年平均成長率（CAGR）27.3％を記録すると予測されています",
+    "url": "https://newscast.jp/smart/news/6185690",
+    "pass": 3
+   },
+   {
+    "quote": "2035年に286億米ドルへの拡大が予測される精密発酵市場は、食品原料の製造方法を変えるだけでなく、バイオ技術を活用した産業構造の変化を促す可能性がある",
+    "url": "https://newscast.jp/smart/news/6185690",
+    "pass": 3
+   },
+   {
+    "quote": "2023年の市場規模",
+    "url": "https://www.zionmarketresearch.com/ja/report/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "当社のリサーチアナリストによる分析によると、世界の精密発酵市場は予測期間（2024年～2032年）において、年平均成長率（CAGR）約44.20%で成長すると予測されています",
+    "url": "https://www.zionmarketresearch.com/ja/report/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "収益面では、世界の精密発酵市場規模は2023年に約39億5000万米ドルと評価され、2032年までに1065億6000万米ドルに達すると予測されている",
+    "url": "https://www.zionmarketresearch.com/ja/report/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間中、米国市場は微生物発酵プロセスの効率向上における技術革新の進展に伴い、年平均成長率（CAGR）46.75%以上を達成すると見込まれています",
+    "url": "https://www.zionmarketresearch.com/ja/report/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "調査によると、世界の精密発酵市場規模は2023年には約39億5000万米ドルであり、2032年までに約1065億6000万米ドルに成長すると予測されている",
+    "url": "https://www.zionmarketresearch.com/ja/report/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年のUSD 4.21 Bn",
+    "url": "https://www.coherentmarketinsights.com/ja/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の市場規模:",
+    "url": "https://www.coherentmarketinsights.com/ja/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "原材料の洞察(Revenue、USD Bn、2019 - 2031)",
+    "url": "https://www.coherentmarketinsights.com/ja/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "Microbeインサイト(Revenue、USD Bn、2019 - 2031)",
+    "url": "https://www.coherentmarketinsights.com/ja/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "アプリケーションインサイト(Revenue、USD Bn、2019 - 2031)",
+    "url": "https://www.coherentmarketinsights.com/ja/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "地域洞察 (Revenue, USD Bn, 2019 - 2031)",
+    "url": "https://www.coherentmarketinsights.com/ja/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "世界規模の精密発酵市場規模は、2024年のUSD 4.21億で評価され、2031年のUSD 45.80億に達する見込みです",
+    "url": "https://www.coherentmarketinsights.com/ja/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "精密発酵市場規模、シェア&予測2032",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の精密発酵市場規模、シェア、トレンド分析レポート – 業界概要と2032年までの予測",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024 年の市場規模",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 2.67 Billion",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "2032 年の市場規模",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 61.86 Billion",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 12.85 Billion",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "精密発酵成分市場 | 市場規模 市場調査 予測 2030年まで",
+    "url": "https://www.gii.co.jp/report/mama1742427-precision-fermentation-ingredients-market-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界の精密発酵成分の市場規模は、2025年の50億2,000万米ドルから2030年までに363億1,000万米ドルに達すると予測され、予測期間にCAGRで48.6%の成長が見込まれます",
+    "url": "https://www.gii.co.jp/report/mama1742427-precision-fermentation-ingredients-market-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 4,950 換算",
+    "url": "https://www.gii.co.jp/report/mama1742427-precision-fermentation-ingredients-market-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 6,650 換算",
+    "url": "https://www.gii.co.jp/report/mama1742427-precision-fermentation-ingredients-market-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 8,150 換算",
+    "url": "https://www.gii.co.jp/report/mama1742427-precision-fermentation-ingredients-market-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 10,000 換算",
+    "url": "https://www.gii.co.jp/report/mama1742427-precision-fermentation-ingredients-market-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "13 green queen “New Food Tech Co Superlatus Agrees To Acquire Perfect Day’s The Urgent Company Brands for $1.25 Million”",
+    "url": "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2024/02/15/2402t_sawano.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.greenqueen.com.hk/new-food-tech-co-superlatus-acquires-perfect-days-the-urgent-company-brands-for-1-25-million/",
+    "url": "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2024/02/15/2402t_sawano.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "世界の精密発酵関連市場規模は2024年時点で約30億ドルと推計され、2025年には約43億ドル、2030年代前半までに数十億ドル規模へ拡大する予測があります",
+    "url": "https://note.com/better_equation/n/n7e6d6dd6b4ce",
+    "pass": 3
+   },
+   {
+    "quote": "例えばある調査では、2032年に世界市場が540億ドル規模に達し年平均成長率（CAGR）は40%台後半にのぼるとの予測が示されています",
+    "url": "https://note.com/better_equation/n/n7e6d6dd6b4ce",
+    "pass": 3
+   },
+   {
+    "quote": "米国市場規模は2024年に約10億ドルと推定され、2034年には170億ドル規模に達するとの予測もあります",
+    "url": "https://note.com/better_equation/n/n7e6d6dd6b4ce",
+    "pass": 3
+   },
+   {
+    "quote": "100億円を超える資金調達が目立った2021年-2022年と比べ、2023年の精密発酵分野ではどのような動きが見られたのか",
+    "url": "https://foodtech-japan.com/2024/03/23/pf-12/",
+    "pass": 3
+   },
+   {
+    "quote": "代替母乳のBiomilqがシリーズAで約24億円を調達",
+    "url": "https://foodtech-japan.com/2024/03/23/pf-12/",
+    "pass": 3
+   },
+   {
+    "quote": "古細菌の力で二酸化炭素をタンパク質に変換｜オーストリア企業Arkeon Biotechnologiesが約8.5億円を調達",
+    "url": "https://foodtech-japan.com/2024/03/23/pf-12/",
+    "pass": 3
+   },
+   {
+    "quote": "米Liberation Bioindustries、60万L精密発酵工場の完成に約39億円不足｜売却・合弁交渉も不成立",
+    "url": "https://foodtech-japan.com/2024/03/23/pf-12/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年のUSD 6.68 Bn",
+    "url": "https://www.coherentmi.com/ja/industry-reports/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%8E%9F%E6%96%99%E5%B8%82%E5%A0%B4-709",
+    "pass": 3
+   },
+   {
+    "quote": "2032年までにUSD 84.52 Bn",
+    "url": "https://www.coherentmi.com/ja/industry-reports/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%8E%9F%E6%96%99%E5%B8%82%E5%A0%B4-709",
+    "pass": 3
+   },
+   {
+    "quote": "USD 6.68 Bn",
+    "url": "https://www.coherentmi.com/ja/industry-reports/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%8E%9F%E6%96%99%E5%B8%82%E5%A0%B4-709",
+    "pass": 3
+   },
+   {
+    "quote": "USD 84.52 Bn",
+    "url": "https://www.coherentmi.com/ja/industry-reports/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%8E%9F%E6%96%99%E5%B8%82%E5%A0%B4-709",
+    "pass": 3
+   },
+   {
+    "quote": "精密発酵成分市場は、2025年にUSD 6.68 Bnで評価され、2032年までにUSD 84.52 Bnに達すると予想されます",
+    "url": "https://www.coherentmi.com/ja/industry-reports/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%8E%9F%E6%96%99%E5%B8%82%E5%A0%B4-709",
+    "pass": 3
+   },
+   {
+    "quote": "精密発酵成分の市場は2025-2032から43.7%であるように計画されています",
+    "url": "https://www.coherentmi.com/ja/industry-reports/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%8E%9F%E6%96%99%E5%B8%82%E5%A0%B4-709",
+    "pass": 3
+   },
+   {
+    "quote": "Precision Fermentation Market Size Report, 2026-2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/precision-fermentation-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size, 2025",
+    "url": "https://www.grandviewresearch.com/industry-analysis/precision-fermentation-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Market size in 2025: USD 4.7 Billion",
+    "url": "https://www.grandviewresearch.com/industry-analysis/precision-fermentation-market-report",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "2026〜2035年の年平均成長率（CAGR）は13.1%で、2035年には32億5,000万米ドルに達する見込みです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR）（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "B2B-oriented生産企業への投資集中の高まりは、商業化の計画が有望であることを裏付けるとともに、単位当たりコストの低減に必要な生産規模拡大のためのインフラ整備を可能にします",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "酵素は2025年に3億4,700万米ドルの売上を生み出し、2026〜2035年に年平均成長率（CAGR）10.9%で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "脂質・特殊油脂は、2035年に3億9,000万米ドルの売上を生み出し、2026〜2035年に年平均成長率（CAGR）14.2%で拡大すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品・ヘルスケアは、2035年に4億8,800万米ドルの売上を生み出し、年平均成長率（CAGR）14.6%で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "動物栄養分野は、2035年までに市場の11.0%を占めると予測され、2026〜2035年の年平均成長率（CAGR）は14.1%と見込まれています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "精密発酵市場は2035年に286億米ドルへ拡大、CAGR 27.3％で加速する次世代食品・代替タンパク質の商業化と日本企業の成長戦略 | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/6185690",
+    "pass": 3
+   },
+   {
+    "quote": "精密発酵市場は2035年に286億米ドルへ拡大、CAGR 27.3％で加速する次世代食品・代替タンパク質の商業化と日本企業の成長戦略",
+    "url": "https://newscast.jp/smart/news/6185690",
+    "pass": 3
+   },
+   {
+    "quote": "精密発酵市場は2025年の25億米ドルから2035年には286億米ドルに拡大する見通し",
+    "url": "https://newscast.jp/smart/news/6185690",
+    "pass": 3
+   },
+   {
+    "quote": "2026年から2035年の予測期間における年平均成長率（CAGR）は27.3％と見込まれ、食品技術と産業バイオテクノロジーの融合を象徴する成長分野として注目される",
+    "url": "https://newscast.jp/smart/news/6185690",
+    "pass": 3
+   },
+   {
+    "quote": "• 精密発酵市場は急速な拡大が見込まれており、2025年の25億米ドルから2035年までに286億米ドルへと成長し、2026年から2035年にかけて年平均成長率（CAGR）27.3％を記録すると予測されています",
+    "url": "https://newscast.jp/smart/news/6185690",
+    "pass": 3
+   },
+   {
+    "quote": "精密発酵市場の規模、シェア、トレンド、成長率（2032年まで）",
+    "url": "https://www.zionmarketresearch.com/ja/report/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "でしたが、2024年から2032年までの年平均成長率",
+    "url": "https://www.zionmarketresearch.com/ja/report/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "当社のリサーチアナリストによる分析によると、世界の精密発酵市場は予測期間（2024年～2032年）において、年平均成長率（CAGR）約44.20%で成長すると予測されています",
+    "url": "https://www.zionmarketresearch.com/ja/report/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年から2031年にかけて40.6%のCAGR",
+    "url": "https://www.coherentmarketinsights.com/ja/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間 2024～2031 CAGR:",
+    "url": "https://www.coherentmarketinsights.com/ja/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "精密発酵市場のCAGRは、2024年から2031年にかけて40.6%を予定しています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "48.12%のCAGR",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "細菌分野は、その急速な成長、遺伝子組み換えの実現可能性、そして広範な代謝経路により、2025年から2032年にかけて46.5%という最も高い成長率を記録すると予想されています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "卵白セグメントは、2025年から2032年にかけて47.2%という最も高い成長率を記録すると予想されています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "マリーナ・クロッシングスに20万平方フィート（約18,000平方メートル）の敷地を建設することで、同社の製造能力は、歴史あるユニオン・ストックヤードにある従来の3万5,000平方フィート（約3,500平方メートル）の施設から大幅に拡大します",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の精密発酵成分の市場規模は、2025年の50億2,000万米ドルから2030年までに363億1,000万米ドルに達すると予測され、予測期間にCAGRで48.6%の成長が見込まれます",
+    "url": "https://www.gii.co.jp/report/mama1742427-precision-fermentation-ingredients-market-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "欧米を中心に、ヴィーガンに加えてフレキシタリアン5人口が増加し、植物性代替食品市場が拡大して",
+    "url": "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2024/02/15/2402t_sawano.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3．注目される市場拡大に向けた業界動向",
+    "url": "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2024/02/15/2402t_sawano.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4．精密発酵製品の市場拡大に向けた課題",
+    "url": "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2024/02/15/2402t_sawano.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "世界の精密発酵関連市場規模は2024年時点で約30億ドルと推計され、2025年には約43億ドル、2030年代前半までに数十億ドル規模へ拡大する予測があります",
+    "url": "https://note.com/better_equation/n/n7e6d6dd6b4ce",
+    "pass": 3
+   },
+   {
+    "quote": "例えばある調査では、2032年に世界市場が540億ドル規模に達し年平均成長率（CAGR）は40%台後半にのぼるとの予測が示されています",
+    "url": "https://note.com/better_equation/n/n7e6d6dd6b4ce",
+    "pass": 3
+   },
+   {
+    "quote": "これは2020年代後半から2030年代にかけて30%を超える年成長率で推移する計算であり、食品関連では異例の高成長分野です",
+    "url": "https://note.com/better_equation/n/n7e6d6dd6b4ce",
+    "pass": 3
+   },
+   {
+    "quote": "例えばPerfect Day社は当初、自社ブランドのアイスクリームを販売する消費者ビジネスにも乗り出しましたが、2022年以降は戦略を転換し、自社は原料供給に専念して大手メーカーとの提携を拡大しました",
+    "url": "https://note.com/better_equation/n/n7e6d6dd6b4ce",
+    "pass": 3
+   },
+   {
+    "quote": "2025年から2032年にかけて43.7%のCAGR",
+    "url": "https://www.coherentmi.com/ja/industry-reports/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%8E%9F%E6%96%99%E5%B8%82%E5%A0%B4-709",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026–2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/precision-fermentation-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Fastest-growing regional market: Asia Pacific (highest CAGR, 2026-2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/precision-fermentation-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2033): 48.3%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/precision-fermentation-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 48.3% from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/precision-fermentation-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Volume in kilotons; revenue in USD million/billion and CAGR from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/precision-fermentation-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The global precision fermentation market is expected to grow at a compound annual growth rate of 48.3% from 2026 to 2033 to reach USD 101.5 billion by 2033.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/precision-fermentation-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025 - 2035)",
+    "url": "https://www.marketresearchfuture.com/reports/precision-fermentation-market-11616",
+    "pass": 3
+   },
+   {
+    "quote": "As per Market Research Future analysis, the Precision Fermentation Market Size was estimated at 4.25 USD Billion in 2024. The Precision Fermentation industry is projected to grow from 6.239 USD Billion in 2025 to 290.03 USD Billion by 2035, exhibiting a compound annual growth rate (CAGR) of 46.8% during the forecast period 2025 - 2035",
+    "url": "https://www.marketresearchfuture.com/reports/precision-fermentation-market-11616",
+    "pass": 3
+   },
+   {
+    "quote": "The Precision Fermentation Market is projected to grow at a 46.8% CAGR from 2025 to 2035, driven by technological advancements, increasing demand for sustainable food sources, and regulatory support.",
+    "url": "https://www.marketresearchfuture.com/reports/precision-fermentation-market-11616",
+    "pass": 3
+   },
+   {
+    "quote": "What is the expected CAGR for the Precision Fermentation Market during the forecast period 2025 - 2035?",
+    "url": "https://www.marketresearchfuture.com/reports/precision-fermentation-market-11616",
+    "pass": 3
+   },
+   {
+    "quote": "The expected CAGR for the Precision Fermentation Market during 2025 - 2035 is 46.8%.",
+    "url": "https://www.marketresearchfuture.com/reports/precision-fermentation-market-11616",
+    "pass": 3
+   },
+   {
+    "quote": "The global precision fermentation market size is estimated at USD 6.89 billion in 2026 and is anticipated to reach around USD 75.76 billion by 2035, growing at soild CAGR of 31.47% between 2026 and 2035.",
+    "url": "https://www.precedenceresearch.com/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 31.47%",
+    "url": "https://www.precedenceresearch.com/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. precision fermentation market size accounted for USD 1.41 billion in 2025 and is predicted to be worth around USD 20.74 billion by 2035, expanding at CAGR of 38.45% between 2026 and 2035.",
+    "url": "https://www.precedenceresearch.com/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 2: What will be the CAGR of global precision fermentation market?",
+    "url": "https://www.precedenceresearch.com/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026–2035)",
+    "url": "https://www.gminsights.com/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "Bacteria generated USD 282 million in 2025 and are projected to grow at a 13.1% CAGR (2026-2035). Bacterial hosts are important to HMO production and selected enzyme and vitamin pathways. Their commercial role is closely linked to scalable, high-throughput products where fermentation efficiency and established process knowledge can support cost-sensitive ingredient supply.",
+    "url": "https://www.gminsights.com/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "Canada is projected to grow at a 13.9% CAGR (2026-2035). Its opportunity is supported by biotechnology clusters, regulatory engagement with novel foods, and growing interest in biomanufacturing infrastructure. Commercial development will depend on the ability to translate research capacity into reliable ingredient production and customer contracts.",
+    "url": "https://www.gminsights.com/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Netherlands is projected to grow at a 13.4% CAGR (2026-2035). Its importance extends beyond domestic demand through its role in European ingredient manufacturing, HMO infrastructure, and international trade. The country is well positioned to serve as a commercialization base for suppliers targeting multiple European food and nutrition markets.",
+    "url": "https://www.gminsights.com/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "Australia is projected to grow at a 13.9% CAGR (2026-2035). The market benefits from its novel-food framework and an emerging base of precision fermentation companies, particularly in specialty lipids and proteins. Its role may extend beyond domestic consumption through export-oriented development and partnerships with overseas manufacturing providers.",
+    "url": "https://www.gminsights.com/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is projected to reach USD 3.25 billion by 2035, growing at a CAGR of 13.1% from 2026 to 2035.",
+    "url": "https://www.gminsights.com/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026 – 2033",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "(CAGR) of 41.0% from 2026 to 2033.",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast Period 2026 to 2033 CAGR:",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "The CAGR of the Precision Fermentation Market is projected to be 41.0% from 2026 to 2033.",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 43.75%",
+    "url": "https://www.rootsanalysis.com/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 43.75% from 2024 to 2035",
+    "url": "https://www.rootsanalysis.com/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "The precision fermentation market is expected to grow at a compounded annual growth rate (CAGR) of over 43.75% during the forecast 2024-2035.",
+    "url": "https://www.rootsanalysis.com/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025 to 2035)",
+    "url": "https://www.futuremarketinsights.com/reports/precision-fermentation-ingredients-market",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "精密発酵原料市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "Novonesisは2025年に35%超の市場シェアを獲得し、市場をリードしました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "本市場の上位5社は、",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "これらの企業は、2025年に合計73%の市場シェアを占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "タンパク質は2025年に市場の22.0%を占め、2035年には28.0%に達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "ヒトミルクオリゴ糖は2025年に市場の21.4%を占め、2035年には7億1,500万米ドルの売上を生み出すと予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "その他の特殊成分は2025年に3,000万米ドルの売上を生み出し、2035年には市場の3.0%を占めると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "用途別の世界の精密発酵原料市場シェア、2025年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "化粧品・パーソナルケアは2025年に市場の8.3%を占め、2035年には2億6,000万米ドルの売上を生み出すと予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "動物栄養分野は、2035年までに市場の11.0%を占めると予測され、2026〜2035年の年平均成長率（CAGR）は14.1%と見込まれています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "酵母は2025年に市場の37.0%を占め、2035年には市場規模が12億4,000万米ドルに達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "糸状菌は2025年に市場の22.0%を占め、2035年には市場規模が6億8,300万米ドルに達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "微細藻類は、2035年までに市場の11.0%を占めると予測され、2026〜2035年の年平均成長率は13.7%と見込まれています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "地域別の世界の精密発酵原料市場シェア、2025年・2035年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州は2025年に市場の30.0%を占め、2035年には市場規模が9億4,300万米ドルに達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "• 2025年には、動物由来でない乳と卵タンパク質、酵素、香料、その他の機能性原料の商品化に牽引され、食品と飲料分野が市場を独占しました",
+    "url": "https://newscast.jp/smart/news/6185690",
+    "pass": 3
+   },
+   {
+    "quote": "精密発酵市場の規模、シェア、価値、および2032年までの予測",
+    "url": "https://www.zionmarketresearch.com/ja/report/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "精密発酵市場の規模、シェア、トレンド、成長率（2032年まで）",
+    "url": "https://www.zionmarketresearch.com/ja/report/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "2023年には、ホエイ＆カゼインタンパク質セグメントが最も高い成長率を示し、最終市場シェアの約40.01%を占めました",
+    "url": "https://www.zionmarketresearch.com/ja/report/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "2023年には、北米は世界収益の約44.01%を占め、地域別市場では米国が首位となりました",
+    "url": "https://www.zionmarketresearch.com/ja/report/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "精密発酵市場 規模とシェアの分析 - 成長傾向と予測 (2026-2033) 分析",
+    "url": "https://www.coherentmarketinsights.com/ja/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "成分の面では、Whey&Casein Proteinは、従来の乳製品および動物タンパク質に対する持続可能な自然代替のための消費者の需要を高めるために、市場の31.9%のシェアに貢献します",
+    "url": "https://www.coherentmarketinsights.com/ja/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "マイクロビーの面では、酵母は、精密発酵のためのホスト生物として、その汎用性を借りて市場の39.6%シェアに貢献します",
+    "url": "https://www.coherentmarketinsights.com/ja/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "適用の面では、乳製品代替品35.7%は、植物ベースの牛乳や他の非乳製品の人気によって運転された市場の最高のシェアを共有しています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、世界規模の精密発酵市場で36.7%のシェアを誇る優勢地域として設立しました",
+    "url": "https://www.coherentmarketinsights.com/ja/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "成分の面では、Whey&Casein Proteinは2024年の市場収益分配をdominateと推定されます",
+    "url": "https://www.coherentmarketinsights.com/ja/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "精密発酵市場規模、シェア&予測2032",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の精密発酵市場規模、シェア、トレンド分析レポート – 業界概要と2032年までの予測",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、バイオテクノロジーの革新の早期導入、多額の研究開発投資、主要な業界プレーヤーの強力な存在により、2024年に42.5％の最大の収益シェアで精密発酵市場を支配しました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "酵母セグメントは、特に食品や飲料用途における高品質のタンパク質や酵素の生産における広範な使用により、2024年に40％の最大の市場収益シェアを占めました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "酵母セグメントは、特に食品・飲料用途において、高品質なタンパク質や酵素の生産における広範な利用を背景に、2024年には市場収益シェアの40%を占め、最大のシェアを占めました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "ホエイ＆カゼインプロテインセグメントは、2024年には酵素に次いで2番目に大きな市場シェア（30%）を占めました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国の精密発酵市場は、バイオテクノロジーへの旺盛な投資と持続可能なタンパク質代替品に対する消費者意識の高まりに支えられ、2024年には北米市場において最大の収益シェア（85.9%）を獲得しました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場シェア分析（2024年）",
+    "url": "https://www.gii.co.jp/report/mama1742427-precision-fermentation-ingredients-market-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "11 Business Wire “Food Tech Leaders Come Together to Form the Precision Fermentation Alliance to Champion a More Resilient and Sustainable",
+    "url": "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2024/02/15/2402t_sawano.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.businesswire.com/news/home/20230216005362/en/Food-Tech-Leaders-Come-Together-to-Form-the-Precision-Fermentation-Alliance-to-",
+    "url": "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2024/02/15/2402t_sawano.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "～中型が大部分を占める14（図表7）",
+    "url": "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2024/02/15/2402t_sawano.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "精密発酵原料市場 規模およびシェア分析 - 成長トレンドおよび予測 (2025-2032)",
+    "url": "https://www.coherentmi.com/ja/industry-reports/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%8E%9F%E6%96%99%E5%B8%82%E5%A0%B4-709",
+    "pass": 3
+   },
+   {
+    "quote": "製品の観点から、酵母ベースの精密発酵成分が2025年の精密発酵成分の54%のシェアに貢献します",
+    "url": "https://www.coherentmi.com/ja/industry-reports/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%8E%9F%E6%96%99%E5%B8%82%E5%A0%B4-709",
+    "pass": 3
+   },
+   {
+    "quote": "原料の原料の原料の点では、微生物ベースの精密発酵の原料は複雑な分子を作り出すことの適応性への2025の精密発酵の原料の市場の41%のシェアに貢献します",
+    "url": "https://www.coherentmi.com/ja/industry-reports/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%8E%9F%E6%96%99%E5%B8%82%E5%A0%B4-709",
+    "pass": 3
+   },
+   {
+    "quote": "北アメリカ: 2023年37%の最大のシェアを誇る精密発酵原料市場を廃止",
+    "url": "https://www.coherentmi.com/ja/industry-reports/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%8E%9F%E6%96%99%E5%B8%82%E5%A0%B4-709",
+    "pass": 3
+   },
+   {
+    "quote": "イーストベースの成分セグメントは、2023年に54%の精密発酵成分市場で大きなシェアを保有しました",
+    "url": "https://www.coherentmi.com/ja/industry-reports/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%8E%9F%E6%96%99%E5%B8%82%E5%A0%B4-709",
+    "pass": 3
+   },
+   {
+    "quote": "北アメリカは、最大の市場シェアを占め、米国は、精密発酵原料市場への最大の貢献者であり、2023年に米ドル840百万で推定されています",
+    "url": "https://www.coherentmi.com/ja/industry-reports/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%8E%9F%E6%96%99%E5%B8%82%E5%A0%B4-709",
+    "pass": 3
+   },
+   {
+    "quote": "By Ingredients: The whey & casein protein segment held the largest revenue share of 20.8% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/precision-fermentation-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By microbe: The yeast segment held the largest revenue share of 43.1% in 2025 in terms of value.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/precision-fermentation-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By end use: The food & beverages segment held the largest revenue share of 63.1% in 2025 in terms of value.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/precision-fermentation-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "benefits from GRAS status in major markets, reducing regulatory complexity and accelerating time-to-market for food, pharmaceutical, and personal care applications. Strong investment inflows, extensive strain-engineering advancements, and proven downstream processing economics further reinforced yeast’s leadership position in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/precision-fermentation-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The yeast segment held the highest market share of 43.1% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/precision-fermentation-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominated with a 40.8% revenue share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/precision-fermentation-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The Food Production segment holds the largest market share, valued at 1.5 USD Billion.",
+    "url": "https://www.marketresearchfuture.com/reports/precision-fermentation-market-11616",
+    "pass": 3
+   },
+   {
+    "quote": "North America holds the largest market share of 32.7% in 2025.",
+    "url": "https://www.precedenceresearch.com/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "By Ingredient, the whey & casein protein segment has held a revenue share of 38.7% in 2025.",
+    "url": "https://www.precedenceresearch.com/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "By Microbe, the yeast segment contributed the highest market share of 30.4% 2025",
+    "url": "https://www.precedenceresearch.com/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "By fermentation type, the precision fermentation segment dominated the market in 2025.",
+    "url": "https://www.precedenceresearch.com/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "By end-user, the food & beverages segment dominated the market in 2025.",
+    "url": "https://www.precedenceresearch.com/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. precision fermentation market size accounted for USD 1.41 billion in 2025 and is predicted to be worth around USD 20.74 billion by 2035, expanding at CAGR of 38.45% between 2026 and 2035.",
+    "url": "https://www.precedenceresearch.com/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": ", Bored Cow, a leader in animal-free dairy industry, announced its expansion into 2,000 Albertsons stores in New York to provide dairy products made through precision fermentation.",
+    "url": "https://www.precedenceresearch.com/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "market share in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top 5 players in this market include",
+    "url": "https://www.gminsights.com/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "Rising investor concentration in B2B-oriented producers validates commercialization pipelines and finances the scale-up infrastructure needed to reduce per-unit costs.",
+    "url": "https://www.gminsights.com/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "精密発酵原料市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "精密発酵原料市場の主要企業には、Novonesis、DSM-Firmenich、Perfect Day、BASF SE、Evonik Industriesなどがある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業のリスト：",
+    "url": "https://newscast.jp/smart/news/6185690",
+    "pass": 3
+   },
+   {
+    "quote": "対象となる主要企業",
+    "url": "https://www.zionmarketresearch.com/ja/report/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "精密発酵市場の成長を活用している主要企業はどれですか？",
+    "url": "https://www.zionmarketresearch.com/ja/report/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業、最新動向、競争インテリジェンス",
+    "url": "https://www.coherentmarketinsights.com/ja/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "世界の精密発酵市場市場の主要企業はどこですか？",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場の主要企業には、",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要参入企業の戦略/強み（2020年～2025年）",
+    "url": "https://www.gii.co.jp/report/mama1742427-precision-fermentation-ingredients-market-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業の評価マトリクス：主要企業（2024年）",
+    "url": "https://www.gii.co.jp/report/mama1742427-precision-fermentation-ingredients-market-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "Key players operating in the precision fermentation market are undertaking various initiatives to strengthen their presence and increase the reach of their products and services. Strategies such as expansion activities and partnerships are key in propelling the market growth.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/precision-fermentation-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Volume & revenue forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/precision-fermentation-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/precision-fermentation-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in precision fermentation market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/precision-fermentation-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players operating in the precision fermentation market include Geltor, Perday Day Inc, The Every Co., Impossible Foods Inc., Motif FoodWorks Inc., Formo, Eden Brew, Mycorena, Change Foods, and MycoTechnology.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/precision-fermentation-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/precision-fermentation-market-11616",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.marketresearchfuture.com/reports/precision-fermentation-market-11616",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players and Competitive Insights",
+    "url": "https://www.marketresearchfuture.com/reports/precision-fermentation-market-11616",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies in the Precision Fermentation Market include",
+    "url": "https://www.marketresearchfuture.com/reports/precision-fermentation-market-11616",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, and Trends",
+    "url": "https://www.marketresearchfuture.com/reports/precision-fermentation-market-11616",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/precision-fermentation-market-11616",
+    "pass": 3
+   },
+   {
+    "quote": "What are the key players in the Precision Fermentation Market?",
+    "url": "https://www.marketresearchfuture.com/reports/precision-fermentation-market-11616",
+    "pass": 3
+   },
+   {
+    "quote": "Key players include Perfect Day, Ginkgo Bioworks, TurtleTree Labs, and others.",
+    "url": "https://www.marketresearchfuture.com/reports/precision-fermentation-market-11616",
+    "pass": 3
+   },
+   {
+    "quote": "Precision Fermentation Market Size, Key Companies, Company Market Share, Production Volume, Consumption Trends, Pricing Analysis, Export & Import Dynamics, Competitive Positioning, and Demand Forecast",
+    "url": "https://www.precedenceresearch.com/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 3: Who are the prominent players operating in the precision fermentation market?",
+    "url": "https://www.precedenceresearch.com/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "The major players operating in the precision fermentation market are Change Foods, Geltor, Helania Inc, Formo, FUMI Ingredients, Fybraworks Foods, Imagindairy Ltd, Eden Brew, Impossible Foods Inc, Melt & Marble, Motif Foodworks, Inc, Mycorena, Myco Technology, New Culture, Nourish Ingredients, Perfect Day Inc, Remilk Ltd, Shiru Inc, The Every Co., Triton Algae Innovations, and Others.",
+    "url": "https://www.precedenceresearch.com/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players:",
+    "url": "https://www.gminsights.com/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "Precision Fermentation Ingredients Market Share & Competitive Landscape",
+    "url": "https://www.gminsights.com/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in precision fermentation ingredients market?",
+    "url": "https://www.gminsights.com/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in precision fermentation ingredients market include Novonesis, DSM-Firmenich, Perfect Day, BASF SE, Evonik Industries.",
+    "url": "https://www.gminsights.com/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Insights",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "Which are the major players operating in the precision fermentation market?",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "Change Foods, Geltor, Helania Inc, Formo, FUMI Ingredients, Fybraworks Foods, Imagindairy Ltd, Eden Brew, Impossible Foods Inc, Melt & Marble, Motif Foodworks, Inc, Mycorena, Myco Technology, New Culture, Nourish Ingredients, Perfect Day Inc, Remilk Ltd, Shiru Inc, The Every Co., and Triton Algae Innovations are the major players.",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "Startups & Academia",
+    "url": "https://www.rootsanalysis.com/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.rootsanalysis.com/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape of Precision Fermentation Market",
+    "url": "https://www.rootsanalysis.com/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape of Precision Fermentation Ingredients Market",
+    "url": "https://www.futuremarketinsights.com/reports/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players in the Precision Fermentation Ingredients Market",
+    "url": "https://www.futuremarketinsights.com/reports/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.futuremarketinsights.com/reports/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape evaluation tracking major vendors, strategic acquisitions, and product development initiatives.",
+    "url": "https://www.futuremarketinsights.com/reports/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Analysis",
+    "url": "https://market.us/report/precision-fermentation-market/",
+    "pass": 3
+   },
+   {
+    "quote": "points of CAGR drag by forcing startups to concentrate spend on a narrow SKU pipeline, delay foodservice-to-retail conversion, and accept lower initial contract volumes until legal, quality, and insurance teams at major buyers complete internal sign-off.",
+    "url": "https://market.us/report/precision-fermentation-market/",
+    "pass": 3
+   },
+   {
+    "quote": "If leading players pivot to platform models and capture even",
+    "url": "https://market.us/report/precision-fermentation-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The Major Players in The Industry",
+    "url": "https://market.us/report/precision-fermentation-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Market Dynamics, Competitive Landscape, Recent Developments",
+    "url": "https://market.us/report/precision-fermentation-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://market.us/report/precision-fermentation-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://straitsresearch.com/report/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, Environment & Regulatory Landscape and Trends",
+    "url": "https://straitsresearch.com/report/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players/Competitors profiles covered in the Precision Fermentation Market report in a strategic perspective",
+    "url": "https://www.maximizemarketresearch.com/market-report/precision-fermentation-market/195708/",
+    "pass": 3
+   },
+   {
+    "quote": "2. Global Precision Fermentation Market: Competitive Landscape",
+    "url": "https://www.maximizemarketresearch.com/market-report/precision-fermentation-market/195708/",
+    "pass": 3
+   },
+   {
+    "quote": "2.2. Competitive Landscape",
+    "url": "https://www.maximizemarketresearch.com/market-report/precision-fermentation-market/195708/",
+    "pass": 3
+   },
+   {
+    "quote": "2.3. Key Players Benchmarking",
+    "url": "https://www.maximizemarketresearch.com/market-report/precision-fermentation-market/195708/",
+    "pass": 3
+   },
+   {
+    "quote": "10. Company Profile: Key Players",
+    "url": "https://www.maximizemarketresearch.com/market-report/precision-fermentation-market/195708/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape / Company Profiles",
+    "url": "https://www.maximizemarketresearch.com/market-report/precision-fermentation-market/195708/",
+    "pass": 3
+   },
+   {
+    "quote": "Global Frozen Tortilla Market Size by Source and Distribution Channel – Segment-Level Market Assessment, Growth Opportunity Analysis, Competitive Landscape & Forecast to 2032",
+    "url": "https://www.maximizemarketresearch.com/market-report/precision-fermentation-market/195708/",
+    "pass": 3
+   },
+   {
+    "quote": "Harnessing knowledge from large companies for the benefit of startups:",
+    "url": "https://gfi.org/resource/fermentation-meat-seafood-eggs-dairy-and-ingredients-state-of-the-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "Partnerships with key dairy, meat, fungi, grain, and yeast makers are enabling synergies and helping grow fermentation ingredient, process, and product pipelines. In this space, startups benefit from corporations’ long-time expertise in industries such as dairy, and together they build on existing knowledge to maximize",
+    "url": "https://gfi.org/resource/fermentation-meat-seafood-eggs-dairy-and-ingredients-state-of-the-industry/",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "2025年、精密発酵企業は発酵分野全体の資金調達額の66%を獲得しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "2028年まで資金調達環境が維持されれば、施設の建設と商業展開が支えられ、市場の予測成長軌道の下支えとなります",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "2016年以降、発酵原料エコシステムへの累積投資額は52億米ドルに達しており、生産、精製、規制科学の能力強化を支えています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "発酵分野を主な事業領域とする企業の2025年の資金調達額は3億5,700万米ドルとなった",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年2月、DSM-FirmenichとFonterraの支援を受けたオランダの精密発酵スタートアップ企業Viviciは、シリーズAの資金調達を実施しました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "100億円を超える資金調達が目立った2021年-2022年と比べ、2023年の精密発酵分野ではどのような動きが見られたのか",
+    "url": "https://foodtech-japan.com/2024/03/23/pf-12/",
+    "pass": 3
+   },
+   {
+    "quote": "benefits from GRAS status in major markets, reducing regulatory complexity and accelerating time-to-market for food, pharmaceutical, and personal care applications. Strong investment inflows, extensive strain-engineering advancements, and proven downstream processing economics further reinforced yeast’s leadership position in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/precision-fermentation-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Genomatica recently raised significant funding in May 2023 to bolster its sustainability initiatives. Additionally, Motif FoodWorks has secured partnerships to further research in",
+    "url": "https://www.marketresearchfuture.com/reports/precision-fermentation-market-11616",
+    "pass": 3
+   },
+   {
+    "quote": "Precision fermentation companies captured 66% of total fermentation sector funding in 2025, reflecting institutional preference for B2B ingredient supply models over consumer-product plays",
+    "url": "https://www.gminsights.com/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "GFI analysis of Net Zero Insights investment data, 2026 State of the Industry report",
+    "url": "https://www.gminsights.com/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "Cumulative investment in the fermentation ingredient ecosystem has totaled USD 5.2 billion since 2016, supporting production, purification, and regulatory-science capabilities",
+    "url": "https://www.gminsights.com/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "Companies operating primarily in the fermentation ecosystem raised USD 357 million in 2025 as capital markets tightened and investor attention shifted toward unit economics and credible profitability pathways",
+    "url": "https://www.gminsights.com/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "The UAE generated USD 12 million in 2025. Its food-security agenda and interest in advanced food technologies support its role as a regional commercialization hub. Investment attraction, pilot infrastructure, and partnerships with international ingredient companies will be important to converting policy interest into sustained supply.",
+    "url": "https://www.gminsights.com/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "Saudi Arabia generated USD 10 million in 2025 and is projected to reach USD 43 million by 2035. Food-security investment and industrial-development programs support the creation of an emerging market for fermentation-enabled ingredients. Long-term progress will depend on the availability of specialized technical talent, viable infrastructure, and demand from domestic food producers.",
+    "url": "https://www.gminsights.com/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "companies during 2025, highlighting continued industry interest in scalable food biotechnology solutions. GFI reported an exact funding total of",
+    "url": "https://market.us/report/precision-fermentation-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Companies operating mainly within the fermentation ecosystem also secured US$357 million in investment during 2025.",
+    "url": "https://market.us/report/precision-fermentation-market/",
+    "pass": 3
+   },
+   {
+    "quote": "in investment during 2025, reflecting growing confidence in fermentation-based food production. In addition, the U.S. Food and Drug Administration (FDA) continued reviewing and approving novel fermentation-derived food ingredients, helping accelerate product launches across dairy alternatives, nutrition products, and specialty foods",
+    "url": "https://market.us/report/precision-fermentation-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Arkeon Biotechnologies is an Austria-based biotechnology company specializing in protein production through gas fermentation technology. Founded in 2021, the company develops amino acids and protein ingredients using microorganisms that convert carbon dioxide into valuable food components. Arkeon has secured funding exceeding",
+    "url": "https://market.us/report/precision-fermentation-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Formo, headquartered in Germany, focuses on producing animal-free dairy products through precision fermentation. Established in 2019, the company develops fermentation-derived dairy proteins intended for cheese and other dairy applications. Formo has raised more than US$90 million in funding to support research, product development, and manufacturing expansion.",
+    "url": "https://market.us/report/precision-fermentation-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The Canada precision fermentation ingredients market size was valued at USD 140 million in 2025, supported by increasing investments in food biotechnology, sustainable ingredient production, and agricultural innovation. Government funding for clean biotechnology and expanding partnerships between research institutions and ingredient manufacturers are strengthening commercialization activities.",
+    "url": "https://straitsresearch.com/report/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Japan precision fermentation ingredients market was valued at USD 140 million in 2025, supported by strong expertise in industrial biotechnology, food science, and functional ingredient development. Increasing investments in next-generation food technologies and growing demand for sustainable proteins are encouraging wider adoption of precision fermentation-derived ingredients.",
+    "url": "https://straitsresearch.com/report/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global investments in fermentation-based protein exceeded €5 billion from 2015-2024, with over €1 billion in Europe.",
+    "url": "https://proveg.org/policy/precision-fermentation/",
+    "pass": 3
+   },
+   {
+    "quote": "In 2024, European precision-fermentation companies raised €120 million – more than three times the amount raised in 2023.",
+    "url": "https://proveg.org/policy/precision-fermentation/",
+    "pass": 3
+   },
+   {
+    "quote": "The country’s Plant Based Food Grant will distribute over €130 million from 2023-2030 to plant-based innovation, with funding provided from farm to fork. Denmark recognizes that a strong national plant-based sector can drive economic growth, including exports and international expansion.",
+    "url": "https://proveg.org/policy/precision-fermentation/",
+    "pass": 3
+   },
+   {
+    "quote": "To promote food sovereignty and sustainable innovation, France supported Standing Ovation’s precision-fermented milk protein with €3 million in loans and grants administered through the Agri-Food Resilience and Capacity initiative, and via the EU Green Investment Loan administered by Bpifrance.",
+    "url": "https://proveg.org/policy/precision-fermentation/",
+    "pass": 3
+   },
+   {
+    "quote": "The UK’s Department of Science, Innovation and Technology has invested €1.6 million in a new hub to strengthen regulatory expertise in precision fermentation.",
+    "url": "https://proveg.org/policy/precision-fermentation/",
+    "pass": 3
+   },
+   {
+    "quote": "This builds on the three recently launched alt-protein centers which include a focus on precision fermentation and received around €45 million in funding from various governmental bodies.",
+    "url": "https://proveg.org/policy/precision-fermentation/",
+    "pass": 3
+   },
+   {
+    "quote": "Despite all these developments in the precision-fermentation sector, progress isn’t guaranteed. Continued public and private support are both essential in order to turn potential into impact. According to the Good Food Institute Europe, Europe will need to invest €760 million a year in public funding in order to unlock the full potential of alternative proteins.",
+    "url": "https://proveg.org/policy/precision-fermentation/",
+    "pass": 3
+   },
+   {
+    "quote": "In 2025, the fermentation-enabled protein and ingredients sector experienced a mix of successes and struggles across the commercial, investment, technology, policy, and regulatory landscape. Highlights in the report include:",
+    "url": "https://gfi.org/resource/fermentation-meat-seafood-eggs-dairy-and-ingredients-state-of-the-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "The Every Company secured USD 50 million in Series D funding in June 2025 to accelerate production and commercial launches of precision-fermented egg and dairy proteins, reflecting continued strong investor confidence in the sector's commercial trajectory as leading U.S. biotechnology companies scale toward mainstream food industry adoption of animal-free functional proteins.",
+    "url": "https://www.snsinsider.com/reports/precision-fermentation-ingredients-market-3992",
+    "pass": 3
+   },
+   {
+    "quote": "Enzymes will dominate all other segments in terms of CAGR at 42.60% during the forecast period 2026-2035 owing to increasing need for precision-fermented enzymes for use in various food processing, pharmaceuticals, and industries. The increasing investments in enzyme engineering that can replace the existing chemical catalysts will further support this above-average growth rate of the segment.",
+    "url": "https://www.snsinsider.com/reports/precision-fermentation-ingredients-market-3992",
+    "pass": 3
+   },
+   {
+    "quote": "2025: Fonterra announced a strategic investment in a 4 million-litre precision fermentation facility in the UAE with Vivici and Abu Dhabi partners to produce high-purity Halal-compliant animal-free proteins, diversifying its dairy portfolio and targeting Middle Eastern demand.",
+    "url": "https://www.marknteladvisors.com/research-library/precision-fermentation-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025: The EVERY Company raised $55 million in Series D financing to expand commercial production of its precision-fermented egg proteins, moving toward wider rollout and partnerships with major food retailers.",
+    "url": "https://www.marknteladvisors.com/research-library/precision-fermentation-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "In pharmaceuticals, advanced fermentation is reshaping drug manufacturing. Companies such as Antheia secured a USD 56 million investment in 2025 to expand fermentation-based production of essential therapeutic precursors, reducing reliance on plant cultivation and stabilizing supply chains.",
+    "url": "https://www.marknteladvisors.com/research-library/precision-fermentation-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "Beyond 2025, further investments in microbial biomanufacturing capacity and regulatory incentives are anticipated as governments prioritize resilient, biotechnology-driven drug supply infrastructures.",
+    "url": "https://www.marknteladvisors.com/research-library/precision-fermentation-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "Overall, the convergence of public funding, regulatory alignment, and shifting industry demand for sustainable, scalable biologics positions precision fermentation as a strategic growth area. This opportunity is poised to significantly broaden market adoption and investment well beyond 2025.",
+    "url": "https://www.marknteladvisors.com/research-library/precision-fermentation-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "A key structural advantage is Europe’s Horizon Europe and EIC funding frameworks, which earmarked substantial investment for fermentation research and start-ups in 2024–2025, enhancing pilot infrastructure and scaling capabilities for fermentation processes. The EU’s USD 50 million support under the EIC Accelerator Challenge highlights this regional commitment.",
+    "url": "https://www.marknteladvisors.com/research-library/precision-fermentation-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "Europe’s concentration of industrial biotechnology research centers and interconnected markets, combined with strong public engagement platforms such as the EU Advanced Fermentation Conference (Brussels, 2026), creates a collaborative ecosystem that accelerates adoption, regulatory dialogue, and investment attraction across the region .",
+    "url": "https://www.marknteladvisors.com/research-library/precision-fermentation-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": ". Ovalbumin from fermentation gives bakery, confectionery and egg-white applications a fixed-price option that does not depend on flock health. EVERY Company raised USD 55.0 Million in a Series D round on 28 October 2025 to widen supply of its egg proteins.",
+    "url": "https://www.emergenresearch.com/industry-report/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "GFI fermentation investment, USD 357.0 Million in 2025 versus USD 632.0 Million in 2024",
+    "url": "https://www.emergenresearch.com/industry-report/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "for the closely related dairy side. For instance, in October 2025, EVERY Company, US, raised USD 55.0 Million in a Series D round to widen supply of its egg proteins. The dairy and dairy alternatives segment, at an 8.8% CAGR, is driven by whey and casein from fermentation, and the infant and early-life nutrition segment, at a 6.5% CAGR, is driven by human milk oligosaccharide demand.",
+    "url": "https://www.emergenresearch.com/industry-report/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "On 28 October 2025, EVERY Company, which is a US food technology company that makes egg proteins by precision fermentation, raised USD 55.0 Million in a Series D round led by McWin Capital Partners. The company said it produces metric tons of product every month at commercial scale. Its products include OvoPro and OvoBoost.",
+    "url": "https://www.emergenresearch.com/industry-report/precision-fermentation-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "精密発酵市場規模 ・シェア |成長レポート 2034 — 精密発酵市場規模 ・シェア |成長レポート 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > 精密発酵市場-...",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%B8%82%E5%A0%B4-109824",
+    "pass": 3
+   },
+   {
+    "quote": "精密発酵 原料 市場規模 レポート、2026〜2035年 — 精密発酵 原料 市場規模 レポート、2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > precisio...",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "精密発酵市場 は2035年に286億米ドルへ拡大 - Newscast.jp — 精密発酵市場 は2035年に286億米ドルへ拡大 - Newscast.jp Newscast.jp https://newscast.jp > smart > news",
+    "url": "https://newscast.jp/smart/news/6185690",
+    "pass": 3
+   },
+   {
+    "quote": "精密発酵市場 の 規模 、シェア、価値、および2032年までの予測 — 精密発酵市場 の 規模 、シェア、価値、および2032年までの予測 Zion Market Research https://www.zionmarketresearch.com > report > precision-...",
+    "url": "https://www.zionmarketresearch.com/ja/report/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "精密発酵市場 は2035年に286億米ドルへ拡大 - アットプレス — 精密発酵市場 は2035年に286億米ドルへ拡大 - アットプレス アットプレス https://www.atpress.ne.jp > news",
+    "url": "https://www.atpress.ne.jp/news/6185690",
+    "pass": 3
+   },
+   {
+    "quote": "精密発酵市場 規模・ シェア |成長レポート 2034 — 精密発酵市場 規模・ シェア |成長レポート 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > 精密発酵市場-...",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%B8%82%E5%A0%B4-109824",
+    "pass": 3
+   },
+   {
+    "quote": "精密発酵 原料 市場 規模レポート、2026〜2035年 — 精密発酵 原料 市場 規模レポート、2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > precisio...",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "精密発酵市場 規模、 シェア &予測2032 — 精密発酵市場 規模、 シェア &予測2032 Data Bridge Market Research https://www.databridgemarketresearch.com > reports > gl...",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "精密発酵 成分 市場 | 市場 規模 市場 調査 予測 2030年まで — 精密発酵 成分 市場 | 市場 規模 市場 調査 予測 2030年まで グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > ... > 食料/飲料 > 添加物",
+    "url": "https://www.gii.co.jp/report/mama1742427-precision-fermentation-ingredients-market-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "次世代の食料生産技術「 精密発酵 」とは ―業界団結で加速 ... — 次世代の食料生産技術「 精密発酵 」とは ―業界団結で加速 ... MITSUI & CO., LTD. PDF https://www.mitsui.com > afieldfile > 2024/02/15",
+    "url": "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2024/02/15/2402t_sawano.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "精密発酵市場 規模・シェア |成長レポート 2034 — 精密発酵市場 規模・シェア |成長レポート 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > 精密発酵市場-...",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%B8%82%E5%A0%B4-109824",
+    "pass": 3
+   },
+   {
+    "quote": "米国の 精密発酵 業界の概要（ 2025 年版） - note — 米国の 精密発酵 業界の概要（ 2025 年版） - note note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/better_equation/n/n7e6d6dd6b4ce",
+    "pass": 3
+   },
+   {
+    "quote": "Precision Fermentation Market Size Report, 2026-2033 — Precision Fermentation Market Size Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/precision-fermentation-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Precision Fermentation Market Size , Trends, Outlook 2035 — Precision Fermentation Market Size , Trends, Outlook 2035 Market Research Future https://www.marketresearchfuture.com > ...",
+    "url": "https://www.marketresearchfuture.com/reports/precision-fermentation-market-11616",
+    "pass": 3
+   },
+   {
+    "quote": "Global Precision Fermentation Market Report 2024 — Global Precision Fermentation Market Report 2024 PR Newswire https://www.prnewswire.com > global...",
+    "url": "https://www.prnewswire.com/news-releases/global-precision-fermentation-market-report-2024---market-anticipated-to-surge-to-17-43-billion-by-2028-with-cagr-of-48-302063333.html",
+    "pass": 3
+   },
+   {
+    "quote": "Precision Fermentation Ingredients Market Size , Report 2026 ... — Precision Fermentation Ingredients Market Size , Report 2026 ... Global Market Insights Inc. https://www.gminsights.com > precisi...",
+    "url": "https://www.gminsights.com/industry-analysis/precision-fermentation-ingredients-market",
+    "pass": 3
+   },
+   {
+    "quote": "Precision Fermentation Market Size and Forecast, 2026-2033 — Precision Fermentation Market Size and Forecast, 2026-2033 Coherent Market Insights https://www.coherentmarketinsights.com > industry-reports",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "Precision Fermentation Market Size & Share Report, 2035 — Precision Fermentation Market Size & Share Report, 2035 Roots Analysis https://www.rootsanalysis.com > preci...",
+    "url": "https://www.rootsanalysis.com/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "Precision Fermentation Market Size, Trends, Outlook 2035 — Precision Fermentation Market Size, Trends, Outlook 2035 Market Research Future https://www.marketresearchfuture.com > ...",
+    "url": "https://www.marketresearchfuture.com/reports/precision-fermentation-market-11616",
+    "pass": 3
+   },
+   {
+    "quote": "Precision Fermentation Market Size, Share, 2034 — Precision Fermentation Market Size, Share, 2034 Straits Research https://straitsresearch.com > report > p...",
+    "url": "https://straitsresearch.com/report/precision-fermentation-market",
+    "pass": 3
+   },
+   {
+    "quote": "US Precision Fermentation Ingredients Market (2025-2030) — US Precision Fermentation Ingredients Market (2025-2030) MarketsandMarkets https://www.marketsandmarkets.com > ...",
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/precision-fermentation-market/us",
+    "pass": 3
+   },
+   {
+    "quote": "Global Precision Fermentation Market Size, Share 2025 -2034 — Global Precision Fermentation Market Size, Share 2025 -2034 Custom Market Insights https://www.custommarketinsights.com > ...",
+    "url": "https://www.custommarketinsights.com/report/precision-fermentation-market/",
+    "pass": 3
+   },
+   {
+    "quote": "$267.64 Bn Precision Fermentation Market Industry Trends ... — $267.64 Bn Precision Fermentation Market Industry Trends ... Business Wire https://www.businesswire.com > home",
+    "url": "https://www.businesswire.com/news/home/20251119068215/en/%24267.64-Bn-Precision-Fermentation-Market-Industry-Trends-and-Global-Market-Forecasts-to-2035-Rising-Demand-for-Plant-Based-Protein-Accelerates-Adoption-of-Novel-Protein-Production-Technologies---ResearchAndMarkets.com",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "13.1",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "quote": "2026〜2035年の年平均成長率（CAGR）は13.1%で、2035年には32億5,000万米ドルに達する見込みです"
+   },
+   {
+    "value": "10.9",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "quote": "酵素は2025年に3億4,700万米ドルの売上を生み出し、2026〜2035年に年平均成長率（CAGR）10.9%で成長すると予測されています"
+   },
+   {
+    "value": "14.2",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "quote": "脂質・特殊油脂は、2035年に3億9,000万米ドルの売上を生み出し、2026〜2035年に年平均成長率（CAGR）14.2%で拡大すると予測されています"
+   },
+   {
+    "value": "14.6",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "quote": "医薬品・ヘルスケアは、2035年に4億8,800万米ドルの売上を生み出し、年平均成長率（CAGR）14.6%で成長すると予測されています"
+   },
+   {
+    "value": "14.1",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "quote": "動物栄養分野は、2035年までに市場の11.0%を占めると予測され、2026〜2035年の年平均成長率（CAGR）は14.1%と見込まれています"
+   },
+   {
+    "value": "27.3",
+    "url": "https://newscast.jp/smart/news/6185690",
+    "quote": "精密発酵市場は2035年に286億米ドルへ拡大、CAGR 27.3％で加速する次世代食品・代替タンパク質の商業化と日本企業の成長戦略 | NEWSCAST"
+   },
+   {
+    "value": "44.20",
+    "url": "https://www.zionmarketresearch.com/ja/report/precision-fermentation-market",
+    "quote": "当社のリサーチアナリストによる分析によると、世界の精密発酵市場は予測期間（2024年～2032年）において、年平均成長率（CAGR）約44.20%で成長すると予測されています"
+   },
+   {
+    "value": "48.6",
+    "url": "https://www.gii.co.jp/report/mama1742427-precision-fermentation-ingredients-market-by.html",
+    "quote": "世界の精密発酵成分の市場規模は、2025年の50億2,000万米ドルから2030年までに363億1,000万米ドルに達すると予測され、予測期間にCAGRで48.6%の成長が見込まれます"
+   },
+   {
+    "value": "40",
+    "url": "https://note.com/better_equation/n/n7e6d6dd6b4ce",
+    "quote": "例えばある調査では、2032年に世界市場が540億ドル規模に達し年平均成長率（CAGR）は40%台後半にのぼるとの予測が示されています"
+   },
+   {
+    "value": "48.3",
+    "url": "https://www.grandviewresearch.com/industry-analysis/precision-fermentation-market-report",
+    "quote": "CAGR of 48.3% from 2026 to 2033"
+   },
+   {
+    "value": "46.8",
+    "url": "https://www.marketresearchfuture.com/reports/precision-fermentation-market-11616",
+    "quote": "As per Market Research Future analysis, the Precision Fermentation Market Size was estimated at 4.25 USD Billion in 2024. The Precision Fermentation industry is projected to grow from 6.239 USD Billion in 2025 to 290.03 USD Billion by 2035, exhibiting a compound annual growth rate (CAGR) of 46.8% du"
+   },
+   {
+    "value": "31.47",
+    "url": "https://www.precedenceresearch.com/precision-fermentation-market",
+    "quote": "The global precision fermentation market size is estimated at USD 6.89 billion in 2026 and is anticipated to reach around USD 75.76 billion by 2035, growing at soild CAGR of 31.47% between 2026 and 2035."
+   },
+   {
+    "value": "38.45",
+    "url": "https://www.precedenceresearch.com/precision-fermentation-market",
+    "quote": "The U.S. precision fermentation market size accounted for USD 1.41 billion in 2025 and is predicted to be worth around USD 20.74 billion by 2035, expanding at CAGR of 38.45% between 2026 and 2035."
+   },
+   {
+    "value": "13.1",
+    "url": "https://www.gminsights.com/industry-analysis/precision-fermentation-ingredients-market",
+    "quote": "The market is projected to reach USD 3.25 billion by 2035, growing at a CAGR of 13.1% from 2026 to 2035."
+   },
+   {
+    "value": "41.0",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/precision-fermentation-market",
+    "quote": "(CAGR) of 41.0% from 2026 to 2033."
+   },
+   {
+    "value": "43.75",
+    "url": "https://www.rootsanalysis.com/precision-fermentation-market",
+    "quote": "CAGR of 43.75%"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "35",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "quote": "Novonesisは2025年に35%超の市場シェアを獲得し、市場をリードしました"
+   },
+   {
+    "value": "73",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "quote": "これらの企業は、2025年に合計73%の市場シェアを占めました"
+   },
+   {
+    "value": "22.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "quote": "タンパク質は2025年に市場の22.0%を占め、2035年には28.0%に達すると予測される"
+   },
+   {
+    "value": "28.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "quote": "タンパク質は2025年に市場の22.0%を占め、2035年には28.0%に達すると予測される"
+   },
+   {
+    "value": "21.4",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "quote": "ヒトミルクオリゴ糖は2025年に市場の21.4%を占め、2035年には7億1,500万米ドルの売上を生み出すと予測されています"
+   },
+   {
+    "value": "3.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "quote": "その他の特殊成分は2025年に3,000万米ドルの売上を生み出し、2035年には市場の3.0%を占めると予測されています"
+   },
+   {
+    "value": "8.3",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "quote": "化粧品・パーソナルケアは2025年に市場の8.3%を占め、2035年には2億6,000万米ドルの売上を生み出すと予測されています"
+   },
+   {
+    "value": "11.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "quote": "動物栄養分野は、2035年までに市場の11.0%を占めると予測され、2026〜2035年の年平均成長率（CAGR）は14.1%と見込まれています"
+   },
+   {
+    "value": "14.1",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "quote": "動物栄養分野は、2035年までに市場の11.0%を占めると予測され、2026〜2035年の年平均成長率（CAGR）は14.1%と見込まれています"
+   },
+   {
+    "value": "37.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "quote": "酵母は2025年に市場の37.0%を占め、2035年には市場規模が12億4,000万米ドルに達すると予測されています"
+   },
+   {
+    "value": "13.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "quote": "微細藻類は、2035年までに市場の11.0%を占めると予測され、2026〜2035年の年平均成長率は13.7%と見込まれています"
+   },
+   {
+    "value": "30.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "quote": "欧州は2025年に市場の30.0%を占め、2035年には市場規模が9億4,300万米ドルに達すると予測されています"
+   },
+   {
+    "value": "40.01",
+    "url": "https://www.zionmarketresearch.com/ja/report/precision-fermentation-market",
+    "quote": "2023年には、ホエイ＆カゼインタンパク質セグメントが最も高い成長率を示し、最終市場シェアの約40.01%を占めました"
+   },
+   {
+    "value": "44.01",
+    "url": "https://www.zionmarketresearch.com/ja/report/precision-fermentation-market",
+    "quote": "2023年には、北米は世界収益の約44.01%を占め、地域別市場では米国が首位となりました"
+   },
+   {
+    "value": "31.9",
+    "url": "https://www.coherentmarketinsights.com/ja/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%B8%82%E5%A0%B4",
+    "quote": "成分の面では、Whey&Casein Proteinは、従来の乳製品および動物タンパク質に対する持続可能な自然代替のための消費者の需要を高めるために、市場の31.9%のシェアに貢献します"
+   },
+   {
+    "value": "39.6",
+    "url": "https://www.coherentmarketinsights.com/ja/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%B8%82%E5%A0%B4",
+    "quote": "マイクロビーの面では、酵母は、精密発酵のためのホスト生物として、その汎用性を借りて市場の39.6%シェアに貢献します"
+   },
+   {
+    "value": "35.7",
+    "url": "https://www.coherentmarketinsights.com/ja/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%B8%82%E5%A0%B4",
+    "quote": "適用の面では、乳製品代替品35.7%は、植物ベースの牛乳や他の非乳製品の人気によって運転された市場の最高のシェアを共有しています"
+   },
+   {
+    "value": "36.7",
+    "url": "https://www.coherentmarketinsights.com/ja/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%B8%82%E5%A0%B4",
+    "quote": "北米は、世界規模の精密発酵市場で36.7%のシェアを誇る優勢地域として設立しました"
+   },
+   {
+    "value": "42.5",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-precision-fermentation-market",
+    "quote": "北米は、バイオテクノロジーの革新の早期導入、多額の研究開発投資、主要な業界プレーヤーの強力な存在により、2024年に42.5％の最大の収益シェアで精密発酵市場を支配しました"
+   },
+   {
+    "value": "40",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-precision-fermentation-market",
+    "quote": "酵母セグメントは、特に食品や飲料用途における高品質のタンパク質や酵素の生産における広範な使用により、2024年に40％の最大の市場収益シェアを占めました"
+   },
+   {
+    "value": "30",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-precision-fermentation-market",
+    "quote": "ホエイ＆カゼインプロテインセグメントは、2024年には酵素に次いで2番目に大きな市場シェア（30%）を占めました"
+   },
+   {
+    "value": "85.9",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-precision-fermentation-market",
+    "quote": "米国の精密発酵市場は、バイオテクノロジーへの旺盛な投資と持続可能なタンパク質代替品に対する消費者意識の高まりに支えられ、2024年には北米市場において最大の収益シェア（85.9%）を獲得しました"
+   },
+   {
+    "value": "54",
+    "url": "https://www.coherentmi.com/ja/industry-reports/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%8E%9F%E6%96%99%E5%B8%82%E5%A0%B4-709",
+    "quote": "製品の観点から、酵母ベースの精密発酵成分が2025年の精密発酵成分の54%のシェアに貢献します"
+   },
+   {
+    "value": "41",
+    "url": "https://www.coherentmi.com/ja/industry-reports/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%8E%9F%E6%96%99%E5%B8%82%E5%A0%B4-709",
+    "quote": "原料の原料の原料の点では、微生物ベースの精密発酵の原料は複雑な分子を作り出すことの適応性への2025の精密発酵の原料の市場の41%のシェアに貢献します"
+   },
+   {
+    "value": "37",
+    "url": "https://www.coherentmi.com/ja/industry-reports/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%8E%9F%E6%96%99%E5%B8%82%E5%A0%B4-709",
+    "quote": "北アメリカ: 2023年37%の最大のシェアを誇る精密発酵原料市場を廃止"
+   },
+   {
+    "value": "20.8",
+    "url": "https://www.grandviewresearch.com/industry-analysis/precision-fermentation-market-report",
+    "quote": "By Ingredients: The whey & casein protein segment held the largest revenue share of 20.8% in 2025."
+   },
+   {
+    "value": "43.1",
+    "url": "https://www.grandviewresearch.com/industry-analysis/precision-fermentation-market-report",
+    "quote": "By microbe: The yeast segment held the largest revenue share of 43.1% in 2025 in terms of value."
+   },
+   {
+    "value": "63.1",
+    "url": "https://www.grandviewresearch.com/industry-analysis/precision-fermentation-market-report",
+    "quote": "By end use: The food & beverages segment held the largest revenue share of 63.1% in 2025 in terms of value."
+   },
+   {
+    "value": "40.8",
+    "url": "https://www.grandviewresearch.com/industry-analysis/precision-fermentation-market-report",
+    "quote": "North America dominated with a 40.8% revenue share in 2025."
+   },
+   {
+    "value": "32.7",
+    "url": "https://www.precedenceresearch.com/precision-fermentation-market",
+    "quote": "North America holds the largest market share of 32.7% in 2025."
+   },
+   {
+    "value": "38.7",
+    "url": "https://www.precedenceresearch.com/precision-fermentation-market",
+    "quote": "By Ingredient, the whey & casein protein segment has held a revenue share of 38.7% in 2025."
+   },
+   {
+    "value": "30.4",
+    "url": "https://www.precedenceresearch.com/precision-fermentation-market",
+    "quote": "By Microbe, the yeast segment contributed the highest market share of 30.4% 2025"
+   },
+   {
+    "value": "38.45",
+    "url": "https://www.precedenceresearch.com/precision-fermentation-market",
+    "quote": "The U.S. precision fermentation market size accounted for USD 1.41 billion in 2025 and is predicted to be worth around USD 20.74 billion by 2035, expanding at CAGR of 38.45% between 2026 and 2035."
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%B8%82%E5%A0%B4-109824",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/6185690",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zionmarketresearch.com/ja/report/precision-fermentation-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/ja/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%B8%82%E5%A0%B4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-precision-fermentation-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/mama1742427-precision-fermentation-ingredients-market-by.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2024/02/15/2402t_sawano.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/better_equation/n/n7e6d6dd6b4ce",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://foodtech-japan.com/2024/03/23/pf-12/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mizuhobank.co.jp/corporate/industry/sangyou/pdf/1080_25.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.excite.co.jp/news/article/Dreamnews_0000365381/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coherentmi.com/ja/industry-reports/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%8E%9F%E6%96%99%E5%B8%82%E5%A0%B4-709",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%B8%82%E5%A0%B4-109824",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketreport.jp/global-precision-fermentation-market-2025-2032",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/precision-fermentation-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/precision-fermentation-market-109824",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/precision-fermentation-market-11616",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/precision-fermentation-market-30824914.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/precision-fermentation-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/precision-fermentation-ingredients-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/industry-reports/precision-fermentation-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rootsanalysis.com/precision-fermentation-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futuremarketinsights.com/reports/precision-fermentation-ingredients-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/precision-fermentation-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/report/precision-fermentation-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maximizemarketresearch.com/market-report/precision-fermentation-market/195708/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/precision-fermentation-market/us",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://proveg.org/policy/precision-fermentation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gfi.org/resource/fermentation-meat-seafood-eggs-dairy-and-ingredients-state-of-the-industry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.custommarketinsights.com/report/precision-fermentation-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snsinsider.com/reports/precision-fermentation-ingredients-market-3992",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businesswire.com/news/home/20251119068215/en/%24267.64-Bn-Precision-Fermentation-Market-Industry-Trends-and-Global-Market-Forecasts-to-2035-Rising-Demand-for-Plant-Based-Protein-Accelerates-Adoption-of-Novel-Protein-Production-Technologies---ResearchAndMarkets.com",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marknteladvisors.com/research-library/precision-fermentation-market-report.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.emergenresearch.com/industry-report/precision-fermentation-market",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "精密発酵 市場規模 CAGR",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%B8%82%E5%A0%B4-109824",
+    "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "https://newscast.jp/smart/news/6185690",
+    "https://www.zionmarketresearch.com/ja/report/precision-fermentation-market",
+    "https://www.coherentmarketinsights.com/ja/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%B8%82%E5%A0%B4",
+    "https://www.atpress.ne.jp/news/6185690",
+    "https://jp.linkedin.com/pulse/%E4%BB%A3%E6%9B%BF%E3%82%BF%E3%83%B3%E3%83%91%E3%82%AF%E8%B3%AA%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%B8%82%E5%A0%B4%E3%81%AE%E6%88%90%E9%95%B7%E7%8E%87%E3%81%A8%E8%A6%8F%E6%A8%A12026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E9%A9%9A%E7%95%B0%E7%9A%84%E3%81%AAcagr-73-driventodistraction-ailre",
+    "https://www.reportocean.co.jp/industry-reports/precision-fermentation-market",
+    "https://snagged780.inkrich.com/posts/precision-fermentation-389847-mvd3y70u",
+    "https://straitsresearch.com/jp/report/precision-fermentation-market"
+   ]
+  },
+  {
+   "query": "精密発酵 市場 シェア 上位 企業",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%B8%82%E5%A0%B4-109824",
+    "https://www.coherentmarketinsights.com/ja/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%B8%82%E5%A0%B4",
+    "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "https://www.databridgemarketresearch.com/jp/reports/global-precision-fermentation-market",
+    "https://www.gii.co.jp/report/mama1742427-precision-fermentation-ingredients-market-by.html",
+    "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2024/02/15/2402t_sawano.pdf",
+    "https://note.com/better_equation/n/n7e6d6dd6b4ce",
+    "https://foodtech-japan.com/2024/03/23/pf-12/",
+    "https://framtiden.earth/fermentation-based-annual-report/",
+    "https://www.coherentmarketinsights.com/ja/精密発酵市場"
+   ]
+  },
+  {
+   "query": "精密発酵 市場 前年比 2025",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%B8%82%E5%A0%B4-109824",
+    "https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market",
+    "https://www.coherentmarketinsights.com/ja/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%B8%82%E5%A0%B4",
+    "https://note.com/better_equation/n/n7e6d6dd6b4ce",
+    "https://www.mizuhobank.co.jp/corporate/industry/sangyou/pdf/1080_25.pdf",
+    "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2024/02/15/2402t_sawano.pdf",
+    "http://www.excite.co.jp/news/article/Dreamnews_0000365381/",
+    "https://www.coherentmi.com/ja/industry-reports/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%8E%9F%E6%96%99%E5%B8%82%E5%A0%B4-709",
+    "https://www.databridgemarketresearch.com/jp/reports/global-precision-fermentation-market",
+    "https://www.fortunebusinessinsights.com/jp/精密発酵市場-109824"
+   ]
+  },
+  {
+   "query": "precision fermentation market size CAGR 2025",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/precision-fermentation-market-report",
+    "https://www.fortunebusinessinsights.com/precision-fermentation-market-109824",
+    "https://www.marketresearchfuture.com/reports/precision-fermentation-market-11616",
+    "https://www.marketsandmarkets.com/Market-Reports/precision-fermentation-market-30824914.html",
+    "https://www.precedenceresearch.com/precision-fermentation-market",
+    "https://www.prnewswire.com/news-releases/global-precision-fermentation-market-report-2024---market-anticipated-to-surge-to-17-43-billion-by-2028-with-cagr-of-48-302063333.html",
+    "https://www.gminsights.com/industry-analysis/precision-fermentation-ingredients-market",
+    "https://www.custommarketinsights.com/report/precision-fermentation-market/",
+    "https://www.rootsanalysis.com/precision-fermentation-market",
+    "https://www.verifiedmarketresearch.com/product/precision-fermentation-market/"
+   ]
+  },
+  {
+   "query": "precision fermentation market share top players percent",
+   "results": [
+    "https://www.marketsandmarkets.com/Market-Reports/precision-fermentation-market-30824914.html",
+    "https://www.gminsights.com/industry-analysis/precision-fermentation-ingredients-market",
+    "https://www.grandviewresearch.com/industry-analysis/precision-fermentation-market-report",
+    "https://www.marketresearchfuture.com/reports/precision-fermentation-market-11616",
+    "https://www.coherentmarketinsights.com/industry-reports/precision-fermentation-market",
+    "https://www.rootsanalysis.com/precision-fermentation-market",
+    "https://www.futuremarketinsights.com/reports/precision-fermentation-ingredients-market",
+    "https://market.us/report/precision-fermentation-market/",
+    "https://www.fortunebusinessinsights.com/precision-fermentation-market-109824",
+    "https://www.databridgemarketresearch.com/reports/global-precision-fermentation-market"
+   ]
+  },
+  {
+   "query": "precision fermentation market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.marketresearchfuture.com/reports/precision-fermentation-market-11616",
+    "https://straitsresearch.com/report/precision-fermentation-market",
+    "https://www.fortunebusinessinsights.com/precision-fermentation-market-109824",
+    "https://www.rootsanalysis.com/precision-fermentation-market",
+    "https://www.maximizemarketresearch.com/market-report/precision-fermentation-market/195708/",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/precision-fermentation-market/us",
+    "https://www.futuremarketinsights.com/reports/precision-fermentation-ingredients-market",
+    "https://proveg.org/policy/precision-fermentation/",
+    "https://gfi.org/resource/fermentation-meat-seafood-eggs-dairy-and-ingredients-state-of-the-industry/",
+    "https://en.wikipedia.org/wiki/Consolidated_(band)"
+   ]
+  },
+  {
+   "query": "precision fermentation market key companies share 2025",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/precision-fermentation-market-report",
+    "https://www.custommarketinsights.com/report/precision-fermentation-market/",
+    "https://www.marketresearchfuture.com/reports/precision-fermentation-market-11616",
+    "https://www.fortunebusinessinsights.com/precision-fermentation-market-109824",
+    "https://www.snsinsider.com/reports/precision-fermentation-ingredients-market-3992",
+    "https://www.businesswire.com/news/home/20251119068215/en/%24267.64-Bn-Precision-Fermentation-Market-Industry-Trends-and-Global-Market-Forecasts-to-2035-Rising-Demand-for-Plant-Based-Protein-Accelerates-Adoption-of-Novel-Protein-Production-Technologies---ResearchAndMarkets.com",
+    "https://www.futuremarketinsights.com/reports/precision-fermentation-ingredients-market",
+    "https://www.marknteladvisors.com/research-library/precision-fermentation-market-report.html",
+    "https://www.rootsanalysis.com/precision-fermentation-market",
+    "https://www.emergenresearch.com/industry-report/precision-fermentation-market"
+   ]
+  }
+ ],
+ "missing": {}
+}

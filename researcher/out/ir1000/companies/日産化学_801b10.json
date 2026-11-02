@@ -1,0 +1,1358 @@
+{
+ "name": "日産化学",
+ "aliases": [],
+ "context": "証券コード4021／化学／プライム（内国株式）／2026.03期 売上高279,586百万円 営業利益率22.7%",
+ "researched_at": "2026-11-02T17:38:54.374215+00:00",
+ "official_url": "https://www.nissanchem.co.jp/",
+ "identified_by": "search:yahoo_jp:日産化学",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1887年（明治20年）",
+    "url": "https://www.nissanchem.co.jp/profile/corporate.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "連結：3,411名 単体：2,107名 ※2026年3月現在",
+    "url": "https://www.nissanchem.co.jp/profile/corporate.html",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "69,871 78,792 +8,921 69,100 +9,692",
+    "url": "https://www.nissanchem.co.jp/ir_info/president.html",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "2,796 2,897",
+    "url": "https://www.nissanchem.co.jp/ir_info/president.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "誠実な企業風土が育む技術力で、お客様とともに未来を創ります",
+    "url": "https://www.nissanchem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーの高度な欲求に的を絞った製品の開発ーそれも、私たちの重要な使命と考えます",
+    "url": "https://www.nissanchem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "日産化学取引先持株会",
+    "url": "https://www.nissanchem.co.jp/ir_info/stock/stockholder.html",
+    "pass": 1
+   }
+  ],
+  "何を": [
+   {
+    "quote": "当サイトでは、サイトのサービス・利便性向上をご提供するため、クッキーを利用しています",
+    "url": "https://www.nissanchem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "事業・製品トップ",
+    "url": "https://www.nissanchem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "環境配慮型製品・サービスの提供",
+    "url": "https://www.nissanchem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の品質向上",
+    "url": "https://www.nissanchem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報検索",
+    "url": "https://www.nissanchem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品分野で探す",
+    "url": "https://www.nissanchem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "アンモニア系製品",
+    "url": "https://www.nissanchem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "プール、浄化槽、環境化学品関連製品",
+    "url": "https://www.nissanchem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "環境化学品関連製品",
+    "url": "https://www.nissanchem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "浄化槽、環境化学品関連製品",
+    "url": "https://www.nissanchem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーの高度な欲求に的を絞った製品の開発ーそれも、私たちの重要な使命と考えます",
+    "url": "https://www.nissanchem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社には、どのような製品、特徴があるのか、",
+    "url": "https://www.nissanchem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "社会のなかで活躍する日産化学の主要製品",
+    "url": "https://www.nissanchem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当サイトでは、サイトのサービス・利便性向上をご提供するため、クッキーを利用しています",
+    "url": "https://www.nissanchem.co.jp/profile/corporate.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業・製品トップ",
+    "url": "https://www.nissanchem.co.jp/profile/corporate.html",
+    "pass": 1
+   },
+   {
+    "quote": "環境配慮型製品・サービスの提供",
+    "url": "https://www.nissanchem.co.jp/profile/corporate.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品の品質向上",
+    "url": "https://www.nissanchem.co.jp/profile/corporate.html",
+    "pass": 1
+   },
+   {
+    "quote": "当サイトでは、サイトのサービス・利便性向上をご提供するため、クッキーを利用しています",
+    "url": "https://www.nissanchem.co.jp/profile/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業・製品トップ",
+    "url": "https://www.nissanchem.co.jp/profile/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "環境配慮型製品・サービスの提供",
+    "url": "https://www.nissanchem.co.jp/profile/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品の品質向上",
+    "url": "https://www.nissanchem.co.jp/profile/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "当サイトでは、サイトのサービス・利便性向上をご提供するため、クッキーを利用しています",
+    "url": "https://www.nissanchem.co.jp/ir_info/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業・製品トップ",
+    "url": "https://www.nissanchem.co.jp/ir_info/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "環境配慮型製品・サービスの提供",
+    "url": "https://www.nissanchem.co.jp/ir_info/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品の品質向上",
+    "url": "https://www.nissanchem.co.jp/ir_info/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "※MSCI指数への日産化学株式会社の組み入れ、および本ページにおけるMSCIロゴ、商標、サービスマーク、または指数名称の使用は、MSCIまたはその関係会社による日産化学株式会社の後援、保証、または販売促進ではありません",
+    "url": "https://www.nissanchem.co.jp/ir_info/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "MSCIおよびMSCI指数の名称とロゴは、MSCIまたはその関係会社の商標またはサービスマークです",
+    "url": "https://www.nissanchem.co.jp/ir_info/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "当サイトでは、サイトのサービス・利便性向上をご提供するため、クッキーを利用しています",
+    "url": "https://www.nissanchem.co.jp/ir_info/president.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業・製品トップ",
+    "url": "https://www.nissanchem.co.jp/ir_info/president.html",
+    "pass": 1
+   },
+   {
+    "quote": "環境配慮型製品・サービスの提供",
+    "url": "https://www.nissanchem.co.jp/ir_info/president.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品の品質向上",
+    "url": "https://www.nissanchem.co.jp/ir_info/president.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業領域は、「情報通信」、「ライフサイエンス」、「環境エネルギー」の成長事業に、基盤事業である「素材・サービス」を加えた4つとします",
+    "url": "https://www.nissanchem.co.jp/ir_info/president.html",
+    "pass": 1
+   },
+   {
+    "quote": "新しいコア技術を獲得し既存コア技術と融合、深化させることで、新製品、新規事業を創出、成長路線を築きます",
+    "url": "https://www.nissanchem.co.jp/ir_info/president.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、社会課題解決に貢献する製品・サービスの拡大に加え、地球環境への負荷軽減に根差した経営により、地域を含め社会全体からの信用と評価の獲得を図ります",
+    "url": "https://www.nissanchem.co.jp/ir_info/president.html",
+    "pass": 1
+   },
+   {
+    "quote": "半導体をはじめ、成長が見込まれるセグメントへM&Aを含めて経営資源を集中投下する一方で、コストダウンおよび低収益製品を持つセグメントの構造改革に積極的に取り組む",
+    "url": "https://www.nissanchem.co.jp/ir_info/president.html",
+    "pass": 1
+   },
+   {
+    "quote": "「2030年を見据えた新製品の開発」",
+    "url": "https://www.nissanchem.co.jp/ir_info/president.html",
+    "pass": 1
+   },
+   {
+    "quote": "StageⅡでは、前述の戦略遂行に加え、持続可能な社会に貢献するため、社会に貢献する製品・サービスを明確化した日産化学サステナブルアジェンダの拡大、人材の確保・育成、ダイバーシティ推進、GHG排出量削減目標など、非財務指標目標を掲げます",
+    "url": "https://www.nissanchem.co.jp/ir_info/president.html",
+    "pass": 1
+   },
+   {
+    "quote": "当サイトでは、サイトのサービス・利便性向上をご提供するため、クッキーを利用しています",
+    "url": "https://www.nissanchem.co.jp/ir_info/nissanchem/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業・製品トップ",
+    "url": "https://www.nissanchem.co.jp/ir_info/nissanchem/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "環境配慮型製品・サービスの提供",
+    "url": "https://www.nissanchem.co.jp/ir_info/nissanchem/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品の品質向上",
+    "url": "https://www.nissanchem.co.jp/ir_info/nissanchem/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社には、どのような製品があるのか、どのような特徴があるのか、",
+    "url": "https://www.nissanchem.co.jp/ir_info/nissanchem/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "当サイトでは、サイトのサービス・利便性向上をご提供するため、クッキーを利用しています",
+    "url": "https://www.nissanchem.co.jp/ir_info/calendar/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業・製品トップ",
+    "url": "https://www.nissanchem.co.jp/ir_info/calendar/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "環境配慮型製品・サービスの提供",
+    "url": "https://www.nissanchem.co.jp/ir_info/calendar/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品の品質向上",
+    "url": "https://www.nissanchem.co.jp/ir_info/calendar/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "当サイトでは、サイトのサービス・利便性向上をご提供するため、クッキーを利用しています",
+    "url": "https://www.nissanchem.co.jp/ir_info/business/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業・製品トップ",
+    "url": "https://www.nissanchem.co.jp/ir_info/business/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "環境配慮型製品・サービスの提供",
+    "url": "https://www.nissanchem.co.jp/ir_info/business/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品の品質向上",
+    "url": "https://www.nissanchem.co.jp/ir_info/business/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "当サイトでは、サイトのサービス・利便性向上をご提供するため、クッキーを利用しています",
+    "url": "https://www.nissanchem.co.jp/ir_info/business/profit_and_loss.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業・製品トップ",
+    "url": "https://www.nissanchem.co.jp/ir_info/business/profit_and_loss.html",
+    "pass": 1
+   },
+   {
+    "quote": "環境配慮型製品・サービスの提供",
+    "url": "https://www.nissanchem.co.jp/ir_info/business/profit_and_loss.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品の品質向上",
+    "url": "https://www.nissanchem.co.jp/ir_info/business/profit_and_loss.html",
+    "pass": 1
+   },
+   {
+    "quote": "当サイトでは、サイトのサービス・利便性向上をご提供するため、クッキーを利用しています",
+    "url": "https://www.nissanchem.co.jp/ir_info/business/loan.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業・製品トップ",
+    "url": "https://www.nissanchem.co.jp/ir_info/business/loan.html",
+    "pass": 1
+   },
+   {
+    "quote": "環境配慮型製品・サービスの提供",
+    "url": "https://www.nissanchem.co.jp/ir_info/business/loan.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品の品質向上",
+    "url": "https://www.nissanchem.co.jp/ir_info/business/loan.html",
+    "pass": 1
+   },
+   {
+    "quote": "当サイトでは、サイトのサービス・利便性向上をご提供するため、クッキーを利用しています",
+    "url": "https://www.nissanchem.co.jp/ir_info/business/cash.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業・製品トップ",
+    "url": "https://www.nissanchem.co.jp/ir_info/business/cash.html",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "会社紹介冊子、動画 等",
+    "url": "https://www.nissanchem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子",
+    "url": "https://www.nissanchem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "推進体制、取り組みなどをご紹介します",
+    "url": "https://www.nissanchem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "6つのポイントをご紹介いたします",
+    "url": "https://www.nissanchem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "無機コロイド材料のご紹介",
+    "url": "https://www.nissanchem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子、動画 等",
+    "url": "https://www.nissanchem.co.jp/profile/corporate.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子",
+    "url": "https://www.nissanchem.co.jp/profile/corporate.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子、動画 等",
+    "url": "https://www.nissanchem.co.jp/profile/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子",
+    "url": "https://www.nissanchem.co.jp/profile/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子、動画 等",
+    "url": "https://www.nissanchem.co.jp/ir_info/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子",
+    "url": "https://www.nissanchem.co.jp/ir_info/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介映像（17:18）",
+    "url": "https://www.nissanchem.co.jp/ir_info/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子、動画 等",
+    "url": "https://www.nissanchem.co.jp/ir_info/president.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子",
+    "url": "https://www.nissanchem.co.jp/ir_info/president.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子、動画 等",
+    "url": "https://www.nissanchem.co.jp/ir_info/nissanchem/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子",
+    "url": "https://www.nissanchem.co.jp/ir_info/nissanchem/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "日産化学をよりよく知っていただくために、6つのポイントをご紹介いたします",
+    "url": "https://www.nissanchem.co.jp/ir_info/nissanchem/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子、動画 等",
+    "url": "https://www.nissanchem.co.jp/ir_info/calendar/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子",
+    "url": "https://www.nissanchem.co.jp/ir_info/calendar/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子、動画 等",
+    "url": "https://www.nissanchem.co.jp/ir_info/business/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子",
+    "url": "https://www.nissanchem.co.jp/ir_info/business/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子、動画 等",
+    "url": "https://www.nissanchem.co.jp/ir_info/business/profit_and_loss.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子",
+    "url": "https://www.nissanchem.co.jp/ir_info/business/profit_and_loss.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子、動画 等",
+    "url": "https://www.nissanchem.co.jp/ir_info/business/loan.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子",
+    "url": "https://www.nissanchem.co.jp/ir_info/business/loan.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子、動画 等",
+    "url": "https://www.nissanchem.co.jp/ir_info/business/cash.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子",
+    "url": "https://www.nissanchem.co.jp/ir_info/business/cash.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子、動画 等",
+    "url": "https://www.nissanchem.co.jp/ir_info/library/financial_report.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子",
+    "url": "https://www.nissanchem.co.jp/ir_info/library/financial_report.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子、動画 等",
+    "url": "https://www.nissanchem.co.jp/ir_info/library/pm_ir-meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子",
+    "url": "https://www.nissanchem.co.jp/ir_info/library/pm_ir-meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子、動画 等",
+    "url": "https://www.nissanchem.co.jp/ir_info/library/private_investors.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子",
+    "url": "https://www.nissanchem.co.jp/ir_info/library/private_investors.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子、動画 等",
+    "url": "https://www.nissanchem.co.jp/ir_info/library/securities.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子",
+    "url": "https://www.nissanchem.co.jp/ir_info/library/securities.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子、動画 等",
+    "url": "https://www.nissanchem.co.jp/ir_info/library/annual_report.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子",
+    "url": "https://www.nissanchem.co.jp/ir_info/library/annual_report.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子、動画 等",
+    "url": "https://www.nissanchem.co.jp/ir_info/library/communication.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子",
+    "url": "https://www.nissanchem.co.jp/ir_info/library/communication.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子、動画 等",
+    "url": "https://www.nissanchem.co.jp/ir_info/library/general_meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子",
+    "url": "https://www.nissanchem.co.jp/ir_info/library/general_meeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子、動画 等",
+    "url": "https://www.nissanchem.co.jp/ir_info/library/business_plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子",
+    "url": "https://www.nissanchem.co.jp/ir_info/library/business_plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子、動画 等",
+    "url": "https://www.nissanchem.co.jp/ir_info/stock/stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子",
+    "url": "https://www.nissanchem.co.jp/ir_info/stock/stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "三井住友信託銀行「店舗のご案内」（Webサイトへリンク）",
+    "url": "https://www.nissanchem.co.jp/ir_info/stock/stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子、動画 等",
+    "url": "https://www.nissanchem.co.jp/ir_info/stock/votingrights.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子",
+    "url": "https://www.nissanchem.co.jp/ir_info/stock/votingrights.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子、動画 等",
+    "url": "https://www.nissanchem.co.jp/ir_info/stock/stockholder.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子",
+    "url": "https://www.nissanchem.co.jp/ir_info/stock/stockholder.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子、動画 等",
+    "url": "https://www.nissanchem.co.jp/ir_info/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子",
+    "url": "https://www.nissanchem.co.jp/ir_info/stock/dividend.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子、動画 等",
+    "url": "https://www.nissanchem.co.jp/ir_info/stock/rating.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子",
+    "url": "https://www.nissanchem.co.jp/ir_info/stock/rating.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子、動画 等",
+    "url": "https://www.nissanchem.co.jp/ir_info/stock/public.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介冊子",
+    "url": "https://www.nissanchem.co.jp/ir_info/stock/public.html",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "日産化学とAxcelead DDP、DNAコード化ライブラリー（DEL）に関するライセンス契約を締結",
+    "url": "https://www.nissanchem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "住友化学、ライセンス・触媒を一体運営",
+    "url": "https://chemicaldaily.com/archives/867164",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年10月09日",
+    "url": "https://www.nissanchem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月07日",
+    "url": "https://www.nissanchem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月01日",
+    "url": "https://www.nissanchem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月25日",
+    "url": "https://www.nissanchem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "令和8年熊本地震の被災者のみなさまへの支援について",
+    "url": "https://www.nissanchem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月17日",
+    "url": "https://www.nissanchem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月05日",
+    "url": "https://www.nissanchem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月16日",
+    "url": "https://www.nissanchem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月01日",
+    "url": "https://www.nissanchem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年02月24日",
+    "url": "https://www.nissanchem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月02日",
+    "url": "https://www.nissanchem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年10月17日",
+    "url": "https://www.nissanchem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年08月27日",
+    "url": "https://www.nissanchem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月07日",
+    "url": "https://www.nissanchem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期 決算短信",
+    "url": "https://www.nissanchem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期 決算説明資料",
+    "url": "https://www.nissanchem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月04日",
+    "url": "https://www.nissanchem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月02日",
+    "url": "https://www.nissanchem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月12日",
+    "url": "https://www.nissanchem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年03月10日",
+    "url": "https://www.nissanchem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年01月22日",
+    "url": "https://www.nissanchem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年10月10日",
+    "url": "https://www.nissanchem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月16日",
+    "url": "https://www.nissanchem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "令和8年度全国発明表彰 表彰式が行われました",
+    "url": "https://www.nissanchem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月26日",
+    "url": "https://www.nissanchem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "日産化学/会社沿革",
+    "url": "https://www.nissanchem.co.jp/profile/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1907年（明治40年）12月",
+    "url": "https://www.nissanchem.co.jp/profile/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1910年（明治43年） 7月",
+    "url": "https://www.nissanchem.co.jp/profile/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1919年（大正 8年） 2月",
+    "url": "https://www.nissanchem.co.jp/profile/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1922年（大正11年） 6月",
+    "url": "https://www.nissanchem.co.jp/profile/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1923年（大正12年） 5月",
+    "url": "https://www.nissanchem.co.jp/profile/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1928年（昭和 3年） 4月",
+    "url": "https://www.nissanchem.co.jp/profile/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1931年（昭和 6年） 2月",
+    "url": "https://www.nissanchem.co.jp/profile/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1932年（昭和 7年）10月",
+    "url": "https://www.nissanchem.co.jp/profile/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1937年（昭和12年）12月",
+    "url": "https://www.nissanchem.co.jp/profile/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1943年（昭和18年） 4月",
+    "url": "https://www.nissanchem.co.jp/profile/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1945年（昭和20年） 4月",
+    "url": "https://www.nissanchem.co.jp/profile/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1949年（昭和24年） 5月",
+    "url": "https://www.nissanchem.co.jp/profile/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1949年（昭和24年） 7月",
+    "url": "https://www.nissanchem.co.jp/profile/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1965年（昭和40年） 1月",
+    "url": "https://www.nissanchem.co.jp/profile/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1968年（昭和43年）11月",
+    "url": "https://www.nissanchem.co.jp/profile/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1969年（昭和44年） 8月",
+    "url": "https://www.nissanchem.co.jp/profile/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1969年（昭和44年）12月",
+    "url": "https://www.nissanchem.co.jp/profile/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1988年（昭和63年） 6月",
+    "url": "https://www.nissanchem.co.jp/profile/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1989年（平成元年）10月",
+    "url": "https://www.nissanchem.co.jp/profile/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1996年（平成 8年） 7月",
+    "url": "https://www.nissanchem.co.jp/profile/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1998年（平成10年） 4月",
+    "url": "https://www.nissanchem.co.jp/profile/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2001年（平成13年） 4月",
+    "url": "https://www.nissanchem.co.jp/profile/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2001年（平成13年） 6月",
+    "url": "https://www.nissanchem.co.jp/profile/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2001年（平成13年）10月",
+    "url": "https://www.nissanchem.co.jp/profile/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月07日",
+    "url": "https://www.nissanchem.co.jp/ir_info/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期 決算短信",
+    "url": "https://www.nissanchem.co.jp/ir_info/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期 決算説明資料",
+    "url": "https://www.nissanchem.co.jp/ir_info/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月04日",
+    "url": "https://www.nissanchem.co.jp/ir_info/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月02日",
+    "url": "https://www.nissanchem.co.jp/ir_info/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月9日（月） 15:30",
+    "url": "https://www.nissanchem.co.jp/ir_info/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期決算発表・機関投資家説明会予定",
+    "url": "https://www.nissanchem.co.jp/ir_info/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度 第1四半期",
+    "url": "https://www.nissanchem.co.jp/ir_info/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度 第1四半期決算短信",
+    "url": "https://www.nissanchem.co.jp/ir_info/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度 第1四半期決算説明資料",
+    "url": "https://www.nissanchem.co.jp/ir_info/index.html",
+    "pass": 1
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "当社グループの2026年度第1四半期実績につきまして、機能性材料セグメントは、半導体材料が好調に推移し、大幅な増収となりました",
+    "url": "https://www.nissanchem.co.jp/ir_info/president.html",
+    "pass": 1
+   },
+   {
+    "quote": "農業化学品セグメントは、ほぼ前年並みの売上高となりました",
+    "url": "https://www.nissanchem.co.jp/ir_info/president.html",
+    "pass": 1
+   },
+   {
+    "quote": "化学品セグメントは、基礎化学品、ファインケミカルともに増収となりました",
+    "url": "https://www.nissanchem.co.jp/ir_info/president.html",
+    "pass": 1
+   },
+   {
+    "quote": "ヘルスケアセグメントは、増収となりました",
+    "url": "https://www.nissanchem.co.jp/ir_info/president.html",
+    "pass": 1
+   },
+   {
+    "quote": "半導体をはじめ、成長が見込まれるセグメントへM&Aを含めて経営資源を集中投下する一方で、コストダウンおよび低収益製品を持つセグメントの構造改革に積極的に取り組む",
+    "url": "https://www.nissanchem.co.jp/ir_info/president.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント(売上・営業利益)",
+    "url": "https://www.nissanchem.co.jp/ir_info/business/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント(資産・ROA)",
+    "url": "https://www.nissanchem.co.jp/ir_info/business/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメント",
+    "url": "https://www.nissanchem.co.jp/ir_info/library/annual_report.html",
+    "pass": 1
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "ビジネスモデルと競争優位性",
+    "url": "https://www.nissanchem.co.jp/ir_info/library/annual_report.html",
+    "pass": 1
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "ビジネスモデルと競争優位性",
+    "url": "https://www.nissanchem.co.jp/ir_info/library/annual_report.html",
+    "pass": 1
+   },
+   {
+    "quote": "日産化学・木下会長（下）高収益もまだ一流に非ず : 化学工業日報 電子版",
+    "url": "https://chemicaldaily.com/archives/867164",
+    "pass": 3
+   },
+   {
+    "quote": "日産化学・木下会長（下）高収益もまだ一流に非ず",
+    "url": "https://chemicaldaily.com/archives/867164",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "統合レポート 2025 - 日産化学 — 統合レポート 2025 - 日産化学 日産化学 PDF https://www.nissanchem.co.jp > ir_info > archive",
+    "url": "https://www.nissanchem.co.jp/ir_info/archive/ar/ar2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日産化学 — 日産化学 日産化学 https://www.nissanchem.co.jp",
+    "url": "https://www.nissanchem.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "【超・深掘り企業分析】 日産化学 (4021)はなぜ\"高収益\"を維持 ... — 【超・深掘り企業分析】 日産化学 (4021)はなぜ\"高収益\"を維持 ... note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/tatsuya_sabato/n/ne0a6f387976c",
+    "pass": 3
+   },
+   {
+    "quote": "業績ハイライト - 日産化学/IR情報 — 業績ハイライト - 日産化学/IR情報 日産化学 https://www.nissanchem.co.jp > business > highlight",
+    "url": "https://www.nissanchem.co.jp/ir_info/business/highlight.html",
+    "pass": 3
+   },
+   {
+    "quote": "CFOメッセージ - IR情報 - 日産化学 — CFOメッセージ - IR情報 - 日産化学 日産化学 https://www.nissanchem.co.jp > library > message_cfo",
+    "url": "https://www.nissanchem.co.jp/ir_info/library/message_cfo.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算短信・ 決算説明資料 - IR情報 - 日産化学/IR情報 — 決算短信・ 決算説明資料 - IR情報 - 日産化学/IR情報 日産化学 https://www.nissanchem.co.jp > library > financial_report",
+    "url": "https://www.nissanchem.co.jp/ir_info/library/financial_report.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 - 日産化学 — IR情報 - 日産化学 日産化学 https://www.nissanchem.co.jp > ir_info",
+    "url": "https://www.nissanchem.co.jp/ir_info/",
+    "pass": 3
+   },
+   {
+    "quote": "IRカレンダー - 日産化学 — IRカレンダー - 日産化学 日産化学 https://www.nissanchem.co.jp > calendar > calendar",
+    "url": "https://www.nissanchem.co.jp/ir_info/calendar/calendar.html",
+    "pass": 3
+   },
+   {
+    "quote": "有価証券報告書等 - IR情報 - 日産化学 — 有価証券報告書等 - IR情報 - 日産化学 日産化学 https://www.nissanchem.co.jp > ir_info > library > securities",
+    "url": "https://www.nissanchem.co.jp/ir_info/library/securities.html",
+    "pass": 3
+   },
+   {
+    "quote": "個人投資家向け 説明 会 資料 - 日産化学/IR情報 — 個人投資家向け 説明 会 資料 - 日産化学/IR情報 日産化学 https://www.nissanchem.co.jp > library > private_investors",
+    "url": "https://www.nissanchem.co.jp/ir_info/library/private_investors.html",
+    "pass": 3
+   },
+   {
+    "quote": "組織 - 日産化学 — 組織 - 日産化学 日産化学 https://www.nissanchem.co.jp > profile > soshiki",
+    "url": "https://www.nissanchem.co.jp/profile/soshiki.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報 - 日産化学 — 会社情報 - 日産化学 日産化学 https://www.nissanchem.co.jp > profile",
+    "url": "https://www.nissanchem.co.jp/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "社員の話を聞く | 日産化学 株式会社 採用情報サイト — 社員の話を聞く | 日産化学 株式会社 採用情報サイト 日産化学 https://www.nissanchem.co.jp > saiyo > employee",
+    "url": "https://www.nissanchem.co.jp/saiyo/employee/",
+    "pass": 3
+   },
+   {
+    "quote": "日産化学 ・木下会長（下）高収益もまだ一流に非ず — 日産化学 ・木下会長（下）高収益もまだ一流に非ず 化学工業日報 電子版 https://chemicaldaily.com > archives",
+    "url": "https://chemicaldaily.com/archives/867164",
+    "pass": 3
+   },
+   {
+    "quote": "ジマンダイセンを追いかけて 日産化学 へ？殺菌剤製品担当に ... — ジマンダイセンを追いかけて 日産化学 へ？殺菌剤製品担当に ... YouTube https://www.youtube.com > shorts",
+    "url": "https://www.youtube.com/shorts/5kAG-d8QaEQ",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.nissanchem.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissanchem.co.jp/profile/corporate.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissanchem.co.jp/profile/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissanchem.co.jp/ir_info/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissanchem.co.jp/ir_info/president.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissanchem.co.jp/ir_info/nissanchem/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissanchem.co.jp/ir_info/calendar/calendar.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissanchem.co.jp/ir_info/business/highlight.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissanchem.co.jp/ir_info/business/profit_and_loss.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissanchem.co.jp/ir_info/business/loan.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissanchem.co.jp/ir_info/business/cash.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissanchem.co.jp/ir_info/library/financial_report.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissanchem.co.jp/ir_info/library/pm_ir-meeting.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissanchem.co.jp/ir_info/library/private_investors.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissanchem.co.jp/ir_info/library/securities.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissanchem.co.jp/ir_info/library/annual_report.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissanchem.co.jp/ir_info/library/communication.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissanchem.co.jp/ir_info/library/general_meeting.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissanchem.co.jp/ir_info/library/business_plan.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissanchem.co.jp/ir_info/stock/stock.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissanchem.co.jp/ir_info/stock/votingrights.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissanchem.co.jp/ir_info/stock/stockholder.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissanchem.co.jp/ir_info/stock/dividend.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissanchem.co.jp/ir_info/stock/rating.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissanchem.co.jp/ir_info/stock/public.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.nissanchem.co.jp/profile/archive_pdf01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nissanchem.co.jp/ir_info/archive/ar/ar2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nissanchem.co.jp/ir_info/archive/ar/ar2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nissanchem.co.jp/ir_info/archive/ar/ar2024.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nissanchem.co.jp/ir_info/archive/ar/ar2023.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nissanchem.co.jp/ir_info/archive/ar/ar2022.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nissanchem.co.jp/ir_info/archive/ar/ar2021.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nissanchem.co.jp/ir_info/archive/ar/ar2020.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://chemicaldaily.com/archives/867164",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日産化学",
+   "results": [
+    "https://www.nissanchem.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%94%A3%E5%8C%96%E5%AD%A6",
+    "https://job.mynavi.jp/28/pc/search/corp1016/outline.html",
+    "https://www.nikkei.com/nkd/company/?scode=4021",
+    "https://www.linkedin.com/company/%E6%97%A5%E7%94%A3%E5%8C%96%E5%AD%A6%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://kabutan.jp/stock/?code=4021",
+    "https://ja.wikipedia.org/wiki/日産化学",
+    "https://en.wikipedia.org/wiki/Nissan_Chemical_Corporation",
+    "https://www.nissanchem.co.jp/news_release/",
+    "https://finance.yahoo.co.jp/quote/4021.T"
+   ]
+  },
+  {
+   "query": "日産化学 ビジネスモデル",
+   "results": [
+    "https://www.nissanchem.co.jp/ir_info/archive/ar/ar2025.pdf",
+    "https://www.nissanchem.co.jp/",
+    "https://note.com/tatsuya_sabato/n/ne0a6f387976c",
+    "https://www.nissanchem.co.jp/ir_info/business/highlight.html",
+    "https://www.nissanchem.co.jp/ir_info/library/message_cfo.html",
+    "https://www.nissanchem.co.jp/ir_info/archive/ar/ar2024.pdf",
+    "https://www.youtube.com/watch?v=bnQcii6NUO8",
+    "https://www.nissanchem.co.jp/ir_info/archive/ar/ar2026.pdf",
+    "https://job.mynavi.jp/28/pc/search/corp1016/outline.html",
+    "https://www.nissanchem.co.jp/ir_info/library/annual_report.html"
+   ]
+  },
+  {
+   "query": "日産化学 決算説明資料",
+   "results": [
+    "https://www.nissanchem.co.jp/ir_info/library/financial_report.html",
+    "https://www.nissanchem.co.jp/ir_info/",
+    "https://www.nissanchem.co.jp/ir_info/calendar/calendar.html",
+    "https://www.nissanchem.co.jp/ir_info/library/securities.html",
+    "https://www.nissanchem.co.jp/ir_info/library/private_investors.html",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=4021",
+    "https://www.nissanchem.co.jp/ir_info/library/pm_ir-meeting.html",
+    "https://www.nissanchem.co.jp/ir_info/disclosure.html",
+    "https://www.nissanchem.co.jp/profile/archive.html",
+    "https://www.nissan-global.com/JP/IR/FINANCIAL_RESULTS/"
+   ]
+  },
+  {
+   "query": "日産化学 事業系統図",
+   "results": [
+    "https://www.nissanchem.co.jp/profile/soshiki.html",
+    "https://www.nissanchem.co.jp/profile/",
+    "https://www.nissanchem.co.jp/ir_info/",
+    "https://www.nissanchem.co.jp/",
+    "https://www.nissanchem.co.jp/ir_info/library/securities.html",
+    "https://www.nissanchem.co.jp/ir_info/nissanchem/products.html",
+    "https://www.nissanchem.co.jp/profile/associated.html",
+    "https://kitaishihon.com/company/4021/business",
+    "https://www.nissanchem.co.jp/ir_info/nissanchem/history.html",
+    "https://ja.wikipedia.org/wiki/日産化学"
+   ]
+  },
+  {
+   "query": "日産化学 社長 インタビュー",
+   "results": [
+    "https://www.nissanchem.co.jp/saiyo/employee/",
+    "https://chemicaldaily.com/archives/867164",
+    "https://www.weekly-economist.com/interview/yagi_shinsuke/",
+    "https://www.youtube.com/shorts/5kAG-d8QaEQ",
+    "https://tenshoku.co-co-color.com/interview/special/p6199/",
+    "https://the-shashi.com/tse/4021/ceo/",
+    "https://corporate.quick.co.jp/cases/nissanchem/",
+    "https://michinaru.co.jp/works/customerstory_nissanchem/",
+    "https://forbesjapan.com/articles/detail/86832",
+    "https://www.nissanchem.co.jp/ir_info/president.html"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部1頁・検索5回）"
+ }
+}

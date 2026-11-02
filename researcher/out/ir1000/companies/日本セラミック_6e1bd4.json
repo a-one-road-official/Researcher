@@ -1,0 +1,1126 @@
+{
+ "name": "日本セラミック",
+ "aliases": [],
+ "context": "証券コード6929／電気機器／プライム（内国株式）／2025.12期 売上高27,325百万円 営業利益率22.8%",
+ "researched_at": "2026-11-02T17:46:56.569029+00:00",
+ "official_url": "https://www.nicera.co.jp/",
+ "identified_by": "search:yahoo_jp:日本セラミック",
+ "profile": {
+  "売上高": [
+   {
+    "label": "売上高（百万円）",
+    "value": "21,358 23,258 24,449 25,037 27,325",
+    "url": "https://www.nicera.co.jp/ir/financial",
+    "pass": 1
+   }
+  ],
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1975年(昭和50年)6月",
+    "url": "https://www.nicera.co.jp/company/corporate-profile",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "連結1,377(2,335)名/単体275(28)名(2025年12月末現在)",
+    "url": "https://www.nicera.co.jp/company/corporate-profile",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "沿革": [
+   {
+    "quote": "2026年12月期 株主通信（中間報告書）",
+    "url": "https://www.nicera.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年新卒採用",
+    "url": "https://www.nicera.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年新卒採用",
+    "url": "https://www.nicera.co.jp/inquiry",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 株主通信（中間報告書）",
+    "url": "https://www.nicera.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期",
+    "url": "https://www.nicera.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 株主通信（中間報告書） > PDF 1MB",
+    "url": "https://www.nicera.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期",
+    "url": "https://www.nicera.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期 株主通信（中間報告書） > PDF 1MB",
+    "url": "https://www.nicera.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2024年12月期",
+    "url": "https://www.nicera.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2024年12月期 株主通信（中間報告書） > PDF 1MB",
+    "url": "https://www.nicera.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2023年12月期",
+    "url": "https://www.nicera.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2023年12月期 株主通信（中間報告書） > PDF 1MB",
+    "url": "https://www.nicera.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2022年12月期",
+    "url": "https://www.nicera.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2022年12月期 株主通信（中間報告書） > PDF 950KB",
+    "url": "https://www.nicera.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2022年12月期第２四半期連結累計期間の業績予想と実績値の差異並びに通期連結業績予想の修正に関するお知らせ > PDF 101 KB",
+    "url": "https://www.nicera.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月6日（金）",
+    "url": "https://www.nicera.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2027年新卒採用",
+    "url": "https://www.nicera.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2027年新卒採用",
+    "url": "https://www.nicera.co.jp/company/business-policy",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期（2026年1月〜2026年12月）",
+    "url": "https://www.nicera.co.jp/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 株主通信（中間報告書）",
+    "url": "https://www.nicera.co.jp/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期（2025年1月〜2025年12月）",
+    "url": "https://www.nicera.co.jp/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期 株主通信（中間報告書）",
+    "url": "https://www.nicera.co.jp/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期第2四半期連結累計期間の業績予想と実績値の差異並びに通期連結業績予想の修正に関するお知らせ",
+    "url": "https://www.nicera.co.jp/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "2024年12月期（2024年1月〜2024年12月）",
+    "url": "https://www.nicera.co.jp/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "2024年12月期 株主通信（中間報告書）",
+    "url": "https://www.nicera.co.jp/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "2023年12月期（2023年1月〜2023年12月）",
+    "url": "https://www.nicera.co.jp/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "2023年12月期 株主通信（中間報告書）",
+    "url": "https://www.nicera.co.jp/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "2022年12月期（2022年1月〜2022年12月）",
+    "url": "https://www.nicera.co.jp/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "2022年12月期 株主通信（中間報告書）",
+    "url": "https://www.nicera.co.jp/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "2022年12月期第2四半期連結累計期間の業績予想と実績値の差異並びに通期連結業績予想の修正に関するお知らせ",
+    "url": "https://www.nicera.co.jp/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "2021年12月期（2021年1月〜2021年12月）",
+    "url": "https://www.nicera.co.jp/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "2021年12月期 株主通信（中間報告書）",
+    "url": "https://www.nicera.co.jp/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "2021年12月期第2四半期連結業績予想の修正に関するお知らせ",
+    "url": "https://www.nicera.co.jp/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "2020年12月期（2020年1月〜2020年12月）",
+    "url": "https://www.nicera.co.jp/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "2020年12月期 株主通信（中間報告書）",
+    "url": "https://www.nicera.co.jp/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "2019年12月期（2019年1月〜2019年12月）",
+    "url": "https://www.nicera.co.jp/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "2019年12月期 株主通信（中間報告書）",
+    "url": "https://www.nicera.co.jp/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "2018年12月期（2018年1月〜2018年12月）",
+    "url": "https://www.nicera.co.jp/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "2018年12月期 株主通信（中間報告書）",
+    "url": "https://www.nicera.co.jp/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "2017年12月期（2017年1月〜2017年12月）",
+    "url": "https://www.nicera.co.jp/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "2016年12月期（2016年1月〜2016年12月）",
+    "url": "https://www.nicera.co.jp/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "2015年12月期（2015年1月〜2015年12月）",
+    "url": "https://www.nicera.co.jp/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "2026年～2028年中期経営計画",
+    "url": "https://www.nicera.co.jp/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "2027年新卒採用",
+    "url": "https://www.nicera.co.jp/ir/financial",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期",
+    "url": "https://www.nicera.co.jp/ir/irinformation",
+    "pass": 1
+   },
+   {
+    "quote": "2024年12月期",
+    "url": "https://www.nicera.co.jp/ir/irinformation",
+    "pass": 1
+   },
+   {
+    "quote": "2023年12月期",
+    "url": "https://www.nicera.co.jp/ir/irinformation",
+    "pass": 1
+   },
+   {
+    "quote": "2022年12月期",
+    "url": "https://www.nicera.co.jp/ir/irinformation",
+    "pass": 1
+   },
+   {
+    "quote": "2021年12月期",
+    "url": "https://www.nicera.co.jp/ir/irinformation",
+    "pass": 1
+   },
+   {
+    "quote": "2027年新卒採用",
+    "url": "https://www.nicera.co.jp/ir/irinformation",
+    "pass": 1
+   },
+   {
+    "quote": "1975年(昭和50年)6月",
+    "url": "https://www.nicera.co.jp/company/corporate-profile",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月31日付",
+    "url": "https://www.nicera.co.jp/company/corporate-profile",
+    "pass": 1
+   },
+   {
+    "quote": "2027年新卒採用",
+    "url": "https://www.nicera.co.jp/company/corporate-profile",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 日本セラミック株式会社",
+    "url": "https://www.nicera.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2027年新卒採用",
+    "url": "https://www.nicera.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2027年新卒採用",
+    "url": "https://www.nicera.co.jp/inquiry/infrared-sensor",
+    "pass": 1
+   },
+   {
+    "quote": "2027年新卒採用",
+    "url": "https://www.nicera.co.jp/inquiry/ultrasonic-sensor",
+    "pass": 1
+   },
+   {
+    "quote": "2027年新卒採用",
+    "url": "https://www.nicera.co.jp/inquiry/current-sensor",
+    "pass": 1
+   },
+   {
+    "quote": "2027年新卒採用",
+    "url": "https://www.nicera.co.jp/inquiry/module",
+    "pass": 1
+   },
+   {
+    "quote": "2027年新卒採用",
+    "url": "https://www.nicera.co.jp/inquiry/hall-elemets",
+    "pass": 1
+   }
+  ],
+  "何を": [
+   {
+    "quote": "製品に関するお問合せ",
+    "url": "https://www.nicera.co.jp/inquiry",
+    "pass": 1
+   },
+   {
+    "quote": "真価のある製品を社会に納め人類に貢献する",
+    "url": "https://www.nicera.co.jp/company/business-policy",
+    "pass": 1
+   },
+   {
+    "quote": "日本セラミックは、変わりゆく時代のニーズに先駆けた真価のある知的製品を社会に納め、人類に貢献するべく邁進致します",
+    "url": "https://www.nicera.co.jp/company/business-policy",
+    "pass": 1
+   },
+   {
+    "quote": "上場金融商品取引所",
+    "url": "https://www.nicera.co.jp/ir/irinformation",
+    "pass": 1
+   },
+   {
+    "quote": "各種センサ製品や、モジュール製品などの電子部品並びにその他関連製品の研究開発及び製造販売",
+    "url": "https://www.nicera.co.jp/company/corporate-profile",
+    "pass": 1
+   },
+   {
+    "quote": "カタログ製品",
+    "url": "https://www.nicera.co.jp/inquiry/infrared-sensor",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サポートに関するお問合せ",
+    "url": "https://www.nicera.co.jp/inquiry/infrared-sensor",
+    "pass": 1
+   },
+   {
+    "quote": "お問合せ製品（品番・型番）",
+    "url": "https://www.nicera.co.jp/inquiry/infrared-sensor",
+    "pass": 1
+   },
+   {
+    "quote": "カタログ製品",
+    "url": "https://www.nicera.co.jp/inquiry/ultrasonic-sensor",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サポートに関するお問合せ",
+    "url": "https://www.nicera.co.jp/inquiry/ultrasonic-sensor",
+    "pass": 1
+   },
+   {
+    "quote": "お問合せ製品（品番・型番）",
+    "url": "https://www.nicera.co.jp/inquiry/ultrasonic-sensor",
+    "pass": 1
+   },
+   {
+    "quote": "カタログ製品",
+    "url": "https://www.nicera.co.jp/inquiry/current-sensor",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サポートに関するお問合せ",
+    "url": "https://www.nicera.co.jp/inquiry/current-sensor",
+    "pass": 1
+   },
+   {
+    "quote": "お問合せ製品（品番・型番）",
+    "url": "https://www.nicera.co.jp/inquiry/current-sensor",
+    "pass": 1
+   },
+   {
+    "quote": "カタログ製品",
+    "url": "https://www.nicera.co.jp/inquiry/module",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サポートに関するお問合せ",
+    "url": "https://www.nicera.co.jp/inquiry/module",
+    "pass": 1
+   },
+   {
+    "quote": "お問合せ製品（品番・型番）",
+    "url": "https://www.nicera.co.jp/inquiry/module",
+    "pass": 1
+   },
+   {
+    "quote": "カタログ製品",
+    "url": "https://www.nicera.co.jp/inquiry/hall-elemets",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サポートに関するお問合せ",
+    "url": "https://www.nicera.co.jp/inquiry/hall-elemets",
+    "pass": 1
+   },
+   {
+    "quote": "お問合せ製品（品番・型番）",
+    "url": "https://www.nicera.co.jp/inquiry/hall-elemets",
+    "pass": 1
+   },
+   {
+    "quote": "販売においては引き続き自動車業界向けセンサや赤外線センサ製品の売上が好調ではありますが、",
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2018/07/ir-201706.pdf",
+    "pass": 1
+   },
+   {
+    "quote": "照明関連、磁性製品の売上は、顧客の在庫調整や不採算アイテムの整理などにより減少しました",
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2018/07/ir-201706.pdf",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、電子部品及びその関連製品の研究開発、製造並びに販売を主たる目的とした単一事業である",
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2018/07/ir-201706.pdf",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、電子部品及びその関連製品の研究開発、製造並びに販売を主たる目的とした単一事業である",
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2019/09/2016_2Q.pdf",
+    "pass": 1
+   },
+   {
+    "quote": "このような経営環境の中 、当社グループにおきましては 、資本効率を重視した製品群",
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2026/08/52_2Q-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の一部見直しや 、中国市場における環境対応車向け製品の販売落ち込みによる減収要",
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2026/08/52_2Q-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "因があったものの、ADAS向け車載安全製品や、照明、産業機械向けセンサモジュール",
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2026/08/52_2Q-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品の販売が堅調に推移したことや 、為替が円安に推移したことなどから 、当中間連",
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2026/08/52_2Q-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "上場金融商品取引所 東京証券取引所 プライム市場",
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2026/08/52_2Q-report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "環境対応車向け製品が中国市場の販売減少などにより減収",
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2026/08/2026_2Q_kessansetumeishiryou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ADAS向け車載安全製品や、照明、産業機械向け",
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2026/08/2026_2Q_kessansetumeishiryou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "センサモジュール製品の販売が堅調に推移し増収",
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2026/08/2026_2Q_kessansetumeishiryou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "国内 ：照明、産業機械向けセンサモジュール製品などが増収",
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2026/08/2026_2Q_kessansetumeishiryou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "極東アジア：中国市場向けの販売減少により環境対応車向け製品や自動照明向け製品が減収",
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2026/08/2026_2Q_kessansetumeishiryou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "欧州 ：車載防犯向け製品が増収",
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2026/08/2026_2Q_kessansetumeishiryou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このような経営環境の中、当社グループにおきましては、資本効率を重視した製品群の一部見直しや、中国市場",
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2026/08/2026_2Qtanshin_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "における環境対応車向け製品の販売落ち込みによる減収要因があったものの、ADAS向け車載安全製品や、照明、産",
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2026/08/2026_2Qtanshin_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "業機械向けセンサモジュール製品の販売が堅調に推移したことや、為替が円安に推移したことなどから、当中間連",
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2026/08/2026_2Qtanshin_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "中国では、ハイテク製品の生産や輸出が好調に推移した一方、不動産市場の停滞や個人消費の伸び悩みが見られ",
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2026/05/2026_1Q_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このような経営環境の中、当社グループにおきましては、ADAS向け車載安全製品やセキュリティ向け製品の販売が",
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2026/05/2026_1Q_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "堅調に推移したものの、資本効率を重視し製品群を一部見直したことなどから、当第１四半期連結累計期間の売上高",
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2026/05/2026_1Q_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、電子部品並びにその関連製品の研究開発及び製造販売を主たる目的とした単一事業であるた",
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2026/05/2026_1Q_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、電子部品並びにその関連製品の研究開発及び製造販売を主たる目的とした単一事業であり、収",
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2026/05/2026_1Q_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "日本の有名な自動車会社に提供している商品は信頼性がありますので、「彼らが使っている商品をそのまま欲しい」というお客も中にはいます",
+    "url": "https://kigyoka.com/archives/20240909.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様に対しても、一人のお客様に一つの商品とは限りません",
+    "url": "https://kigyoka.com/archives/20240909.html",
+    "pass": 3
+   },
+   {
+    "quote": "適正価格を確保しなければ、お客様に納得していただけるような商品は作れません",
+    "url": "https://kigyoka.com/archives/20240909.html",
+    "pass": 3
+   },
+   {
+    "quote": "最高の製品を適正な価格で提供することが、私たちの使命なのです",
+    "url": "https://kigyoka.com/archives/20240909.html",
+    "pass": 3
+   },
+   {
+    "quote": "谷口 新製品開発のアイデアも浮かびますが、今では直接提言することは少なくなりました",
+    "url": "https://kigyoka.com/archives/20240909.html",
+    "pass": 3
+   },
+   {
+    "quote": "センサ技術の商品化に際しては、私自身も自宅で試すことが少なくありません",
+    "url": "https://kigyoka.com/archives/20240909.html",
+    "pass": 3
+   },
+   {
+    "quote": "国内で商品がすぐに売れて儲かっていたら、マーケットを日本だけに絞って足元ばかり見ていたことでしょう",
+    "url": "https://kigyoka.com/archives/20240909.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在ではセンサのみならず、その応用商品、半導体センサ等新分野へも進出しており、新製品の開発を続けている",
+    "url": "https://kigyoka.com/archives/20240909.html",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "真価はお客様の満足度と繁栄によって証されるものです",
+    "url": "https://www.nicera.co.jp/company/business-policy",
+    "pass": 1
+   },
+   {
+    "quote": "「品質こそが第一」を信念に、顧客の信頼と満足を得る品質を",
+    "url": "https://www.nicera.co.jp/company/business-policy",
+    "pass": 1
+   },
+   {
+    "quote": "照明関連、磁性製品の売上は、顧客の在庫調整や不採算アイテムの整理などにより減少しました",
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2018/07/ir-201706.pdf",
+    "pass": 1
+   },
+   {
+    "quote": "また、当社グループでは、お客様のニー",
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2019/09/2016_2Q.pdf",
+    "pass": 1
+   },
+   {
+    "quote": "顧客との契約から生じる収益 6,639 6,566",
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2026/05/2026_1Q_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 6,639 6,566",
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2026/05/2026_1Q_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "日本セラミックは、その豊富な経験と技術力を駆使し、顧客一人ひとりに適した多彩なセンサを開発している",
+    "url": "https://kigyoka.com/archives/20240909.html",
+    "pass": 3
+   },
+   {
+    "quote": "顧客に応じて最適なセンサを開発",
+    "url": "https://kigyoka.com/archives/20240909.html",
+    "pass": 3
+   },
+   {
+    "quote": "谷口 お客様の数だけあります",
+    "url": "https://kigyoka.com/archives/20240909.html",
+    "pass": 3
+   },
+   {
+    "quote": "一人ひとりのお客様に個性を持たせる必要があるのです",
+    "url": "https://kigyoka.com/archives/20240909.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様に対しても、一人のお客様に一つの商品とは限りません",
+    "url": "https://kigyoka.com/archives/20240909.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様とお話しする時でも、私たちが適性を考えてはじき出したコストを提示させていただき、それで拒否されれば交渉決裂、承認していただければ商談成立です",
+    "url": "https://kigyoka.com/archives/20240909.html",
+    "pass": 3
+   },
+   {
+    "quote": "適正価格を確保しなければ、お客様に納得していただけるような商品は作れません",
+    "url": "https://kigyoka.com/archives/20240909.html",
+    "pass": 3
+   },
+   {
+    "quote": "信頼性の高いセンサを、人命と財産を守るという共通の目的のために提供している企業ですので、私たちはお客様の秘密事項を完璧に守り通さなくてはならないのです",
+    "url": "https://kigyoka.com/archives/20240909.html",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "ストックオプションの行使による収入 94 52",
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2018/07/ir-201706.pdf",
+    "pass": 1
+   },
+   {
+    "quote": "その他、平成28年２月５日開催の取締役会決議に基づき、自己株式を138,000株取得し、ストックオプションの",
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2018/07/ir-201706.pdf",
+    "pass": 1
+   },
+   {
+    "quote": "ストックオプションの行使による収入 11 94",
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2019/09/2016_2Q.pdf",
+    "pass": 1
+   },
+   {
+    "quote": "その他、ストックオプションの権利行使に伴う減少等と併せて総額1,986百万円が減少した結果、当第２四半期",
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2019/09/2016_2Q.pdf",
+    "pass": 1
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "（セグメント情報） …………………………………………………………………………………… 8",
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2018/07/ir-201706.pdf",
+    "pass": 1
+   },
+   {
+    "quote": "（セグメント情報等）",
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2018/07/ir-201706.pdf",
+    "pass": 1
+   },
+   {
+    "quote": "ため、セグメントの記載を省略しております",
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2018/07/ir-201706.pdf",
+    "pass": 1
+   },
+   {
+    "quote": "（セグメント情報等） ………………………………………………………………………………… 9",
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2019/09/2016_2Q.pdf",
+    "pass": 1
+   },
+   {
+    "quote": "（セグメント情報等）",
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2019/09/2016_2Q.pdf",
+    "pass": 1
+   },
+   {
+    "quote": "ため、セグメントの記載を省略しております",
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2019/09/2016_2Q.pdf",
+    "pass": 1
+   },
+   {
+    "quote": "（セグメント情報等の注記） ……………………………………………………………………………………… 8",
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2026/05/2026_1Q_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2026/05/2026_1Q_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2026/05/2026_1Q_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "め、セグメントの記載を省略しております",
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2026/05/2026_1Q_ja.pdf",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "このような経営環境の中、当社グループでは引き続き生産活動の改善と在庫の適正化による原価の圧縮に力を入",
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2018/07/ir-201706.pdf",
+    "pass": 1
+   },
+   {
+    "quote": "照明関連、磁性製品の売上は、顧客の在庫調整や不採算アイテムの整理などにより減少しました",
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2018/07/ir-201706.pdf",
+    "pass": 1
+   },
+   {
+    "quote": "在庫の適正化や株主還元、事業・案件の選択と集中を進め",
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2026/08/2026_2Q_kessansetumeishiryou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 19.7% 21.7% 20.4% 22.8% 23.3% 23.1% 21.9% 24.3% 21.8%",
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2026/08/2026_2Q_kessansetumeishiryou.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "日本セラミック 株式会社 — 日本セラミック 株式会社 日本セラミック株式会社 https://www.nicera.co.jp",
+    "url": "https://www.nicera.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "日本セラミック (6929) の企業概要・業績・財務・IR資料 — 日本セラミック (6929) の企業概要・業績・財務・IR資料 crex-data.com https://www.crex-data.com > 企業",
+    "url": "https://www.crex-data.com/company/6929",
+    "pass": 3
+   },
+   {
+    "quote": "日本セラミック (株)【東証プライム市場上場】 - マイナビ — 日本セラミック (株)【東証プライム市場上場】 - マイナビ マイナビ https://job.mynavi.jp > search > corp211649 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp211649/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本セラミック の「企業分析［強み・弱み・展望］」 OpenWork — 日本セラミック の「企業分析［強み・弱み・展望］」 OpenWork OpenWork https://www.openwork.jp > ... > 日本セラミック",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrSl&q_no=9",
+    "pass": 3
+   },
+   {
+    "quote": "【特集】 日本セラミック の強さの秘密 - 企業家倶楽部 — 【特集】 日本セラミック の強さの秘密 - 企業家倶楽部 企業家倶楽部 https://kigyoka.com > archives",
+    "url": "https://kigyoka.com/archives/20260527.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR 資料 室 | 日本セラミック 株式会社 — IR 資料 室 | 日本セラミック 株式会社 日本セラミック株式会社 https://www.nicera.co.jp > library",
+    "url": "https://www.nicera.co.jp/ir/library",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家情報 | 日本セラミック 株式会社 — 株主・投資家情報 | 日本セラミック 株式会社 日本セラミック株式会社 https://www.nicera.co.jp > ...",
+    "url": "https://www.nicera.co.jp/ir",
+    "pass": 3
+   },
+   {
+    "quote": "日本セラミック 株式会社 IR 資料 - EDINET DB — 日本セラミック 株式会社 IR 資料 - EDINET DB EDINET DB https://edinetdb.jp > 日本セラミック株式会社",
+    "url": "https://edinetdb.jp/company/E01988/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "日本セラミック [6929]：2026年12月期 第2四半期(中間期) 決算 ... — 日本セラミック [6929]：2026年12月期 第2四半期(中間期) 決算 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260727500333/",
+    "pass": 3
+   },
+   {
+    "quote": "日本セラミック 【6929】のIR 資料 - キタイシホン — 日本セラミック 【6929】のIR 資料 - キタイシホン キタイシホン https://kitaishihon.com > company > ir-library",
+    "url": "https://kitaishihon.com/company/6929/ir-library",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 日本セラミック 株式会社 — 会社概要 | 日本セラミック 株式会社 日本セラミック株式会社 https://www.nicera.co.jp > company > corporate-profile",
+    "url": "https://www.nicera.co.jp/company/corporate-profile",
+    "pass": 3
+   },
+   {
+    "quote": "日本セラミック (株)【東証プライム市場上場】の会社概要 — 日本セラミック (株)【東証プライム市場上場】の会社概要 マイナビ https://job.mynavi.jp > search > corp211649 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp211649/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本セラミック 株式会社 — 有価証券報告書テキスト（最新） — 日本セラミック 株式会社 — 有価証券報告書テキスト（最新） EDINET DB https://edinetdb.jp > 電気機器 > 日本セラミック株式会社",
+    "url": "https://edinetdb.jp/company/E01988/text",
+    "pass": 3
+   },
+   {
+    "quote": "【編集長 インタビュー 】 日本セラミック 谷口義晴 社長 — 【編集長 インタビュー 】 日本セラミック 谷口義晴 社長 企業家倶楽部 https://kigyoka.com > archives",
+    "url": "https://kigyoka.com/archives/20240909.html",
+    "pass": 3
+   },
+   {
+    "quote": "沿革 | 日本セラミック 株式会社 — 沿革 | 日本セラミック 株式会社 日本セラミック株式会社 https://www.nicera.co.jp > company > history",
+    "url": "https://www.nicera.co.jp/company/history",
+    "pass": 3
+   },
+   {
+    "quote": "日本セラミック社長 ・谷口真一氏「品質重視し利益率追求」 — 日本セラミック社長 ・谷口真一氏「品質重視し利益率追求」 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/325996",
+    "pass": 3
+   },
+   {
+    "quote": "日本セラミック 【6929】の 社長 ・役員 - キタイシホン — 日本セラミック 【6929】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/6929/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "【とっとり未来創造プロジェクト】 日本セラミック - YouTube — 【とっとり未来創造プロジェクト】 日本セラミック - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=MSRyaaYkXhk",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "以来、「共産圏にビジネスのパートナーを作る」と言って東奔西走し、１９８６年、ついに中国科学院とのパートナーシップも持って、上海に進出しました",
+    "url": "https://kigyoka.com/archives/20240909.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.nicera.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nicera.co.jp/inquiry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nicera.co.jp/ir",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nicera.co.jp/company/business-policy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nicera.co.jp/ir/library",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nicera.co.jp/ir/financial",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nicera.co.jp/ir/irinformation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nicera.co.jp/company/corporate-profile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nicera.co.jp/company/history",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nicera.co.jp/en/inquiry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nicera.co.jp/inquiry/infrared-sensor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nicera.co.jp/inquiry/ultrasonic-sensor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nicera.co.jp/inquiry/current-sensor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nicera.co.jp/inquiry/module",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nicera.co.jp/inquiry/hall-elemets",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nicera.co.jp/inquiry/ir",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nicera.co.jp/inquiry/recruit",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nicera.co.jp/en/ir",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nicera.co.jp/en/company/business-policy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nicera.co.jp/en/ir/library",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2018/07/ir-201706.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2019/09/2016_2Q.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nicera.co.jp/en/ir/financial",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nicera.co.jp/en/ir/irinformation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nicera.co.jp/en/company/history",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2026/11/2026.11_jikokabu_ja.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2026/10/2026.10_jikokabu_ja.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2026/09/2026.9_jikokabu_ja.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2026/08/52_2Q-report.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2026/08/2026.8_jikokabu_kettei_ja.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2026/08/2026_2Q_kessansetumeishiryou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2026/08/2026_2Qtanshin_ja.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nicera.co.jp/wordpress/wp-content/uploads/2026/05/2026_1Q_ja.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.crex-data.com/company/6929",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kigyoka.com/archives/20240909.html",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日本セラミック",
+   "results": [
+    "https://www.nicera.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF",
+    "https://www.ceramic.or.jp/",
+    "https://www.nikkei.com/nkd/company/?scode=6929",
+    "https://job.mynavi.jp/27/pc/search/corp211649/outline.html",
+    "https://ja.wikipedia.org/wiki/日本セラミック",
+    "https://www.nicera.co.jp/en/",
+    "https://finance.yahoo.co.jp/quote/6929.T",
+    "https://finance.yahoo.co.jp/quote/6929.T/financials",
+    "https://moneyworld.jp/stock/detail?code=6929"
+   ]
+  },
+  {
+   "query": "日本セラミック ビジネスモデル",
+   "results": [
+    "https://www.nicera.co.jp/",
+    "https://www.crex-data.com/company/6929",
+    "https://job.mynavi.jp/27/pc/search/corp211649/outline.html",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrSl&q_no=9",
+    "https://kigyoka.com/archives/20260527.html",
+    "https://furusato.tori-info.co.jp/kigyo_guide/search/234/",
+    "https://en-hyouban.com/company/00003738095/23/",
+    "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF",
+    "https://hw-jobs.careermine.jp/salary/nippon-ceramic",
+    "https://consovation.com/日本セラミックのビジネスモデルを徹底解説-成長/"
+   ]
+  },
+  {
+   "query": "日本セラミック 決算説明資料",
+   "results": [
+    "https://www.nicera.co.jp/ir/library",
+    "https://www.nicera.co.jp/ir",
+    "https://edinetdb.jp/company/E01988/ir-docs/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260727500333/",
+    "https://kitaishihon.com/company/6929/ir-library",
+    "https://www.buffett-code.com/company/6929/library",
+    "https://irbank.net/6929/ir",
+    "https://finance.matsui.co.jp/stock/6929/settlement/index",
+    "https://scouter.monex.co.jp/report/top/6929",
+    "https://finance.yahoo.co.jp/quote/6929.T/financials"
+   ]
+  },
+  {
+   "query": "日本セラミック 事業系統図",
+   "results": [
+    "https://www.nicera.co.jp/company/corporate-profile",
+    "https://www.nicera.co.jp/",
+    "https://job.mynavi.jp/28/pc/search/corp211649/outline.html",
+    "https://edinetdb.jp/company/E01988/text",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100T4PN.pdf",
+    "https://www.crex-data.com/company/6929",
+    "https://www.buffett-code.com/company/6929/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=6929",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrSl&q_no=9",
+    "https://irbank.net/E01988/business?f=S100VHEL"
+   ]
+  },
+  {
+   "query": "日本セラミック 社長 インタビュー",
+   "results": [
+    "https://kigyoka.com/archives/20240909.html",
+    "https://www.nicera.co.jp/company/history",
+    "https://www.nikkan.co.jp/articles/view/325996",
+    "https://kitaishihon.com/company/6929/board-of-director",
+    "https://www.youtube.com/watch?v=MSRyaaYkXhk",
+    "https://jobnavi-tottori.com/company_post/%E9%B3%A5%E5%8F%96%E3%81%8B%E3%82%89%E4%B8%96%E7%95%8C%E3%81%AB%E6%8C%91%E3%82%80%E6%97%A5%E6%9C%AC%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%80%82%E8%B6%85/",
+    "https://furusato.tori-info.co.jp/kigyo_guide/search/234/",
+    "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF",
+    "https://note.com/nekonyannko222/n/n0c4ff90221de",
+    "https://www.nicera.co.jp/company/message"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部2頁・検索5回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部2頁・検索5回）"
+ }
+}

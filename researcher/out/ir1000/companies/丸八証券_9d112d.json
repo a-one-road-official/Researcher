@@ -1,0 +1,1834 @@
+{
+ "name": "丸八証券",
+ "aliases": [],
+ "context": "証券コード8700／証券、商品先物取引業／スタンダード（内国株式）／2026.03期 売上高3,576百万円 営業利益率20.7%",
+ "researched_at": "2026-11-02T17:45:36.168441+00:00",
+ "official_url": "https://www.maruhachi-sec.co.jp/",
+ "identified_by": "search:yahoo_jp:丸八証券",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "昭和19年3月30日",
+    "url": "https://www.maruhachi-sec.co.jp/company/gaiyou.php",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1944年 （ 昭和 19年） 3月30日",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "149名（2026年9月末現在）",
+    "url": "https://www.maruhachi-sec.co.jp/company/gaiyou.php",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "149名 （2020年3月31日現在） [ 1 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "営業収益（百万円）",
+    "value": "2,864 2,502 3,262 3,082 3,576",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/zaimu.php",
+    "pass": 1
+   },
+   {
+    "label": "純営業収益（百万円）",
+    "value": "2,847 2,497 3,258 3,077 3,560",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/zaimu.php",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "24億21百万円 （2020年3月期） [ 1 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "「お客様本位の業務運営」に対する取り組みの公表",
+    "url": "https://www.maruhachi-sec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談室では、お客様のご意見・苦情を受付けております",
+    "url": "https://www.maruhachi-sec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談室",
+    "url": "https://www.maruhachi-sec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "※発信者番号を非通知に設定されているお客様は、はじめに186（番号通知）をダイヤルしてからご利用ください",
+    "url": "https://www.maruhachi-sec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様本位の業務運営に関する方針",
+    "url": "https://www.maruhachi-sec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "募集等にかかる株券等のお客様への配分にかかる基本方針",
+    "url": "https://www.maruhachi-sec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「お客様本位の業務運営」に対する取り組みの公表",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客資産の分別管理に関する保証業務について",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様本位の業務運営に関する基本方針の改正",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談室では、お客様のご意見・苦情を受付けております",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談室",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "※発信者番号を非通知に設定されているお客様は、はじめに186（番号通知）をダイヤルしてからご利用ください",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様本位の業務運営に関する方針",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "募集等にかかる株券等のお客様への配分にかかる基本方針",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談室では、お客様のご意見・苦情を受付けております",
+    "url": "https://www.maruhachi-sec.co.jp/company/gaiyou.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談室",
+    "url": "https://www.maruhachi-sec.co.jp/company/gaiyou.php",
+    "pass": 1
+   },
+   {
+    "quote": "※発信者番号を非通知に設定されているお客様は、はじめに186（番号通知）をダイヤルしてからご利用ください",
+    "url": "https://www.maruhachi-sec.co.jp/company/gaiyou.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様本位の業務運営に関する方針",
+    "url": "https://www.maruhachi-sec.co.jp/company/gaiyou.php",
+    "pass": 1
+   },
+   {
+    "quote": "募集等にかかる株券等のお客様への配分にかかる基本方針",
+    "url": "https://www.maruhachi-sec.co.jp/company/gaiyou.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談室では、お客様のご意見・苦情を受付けております",
+    "url": "https://www.maruhachi-sec.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談室",
+    "url": "https://www.maruhachi-sec.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "※発信者番号を非通知に設定されているお客様は、はじめに186（番号通知）をダイヤルしてからご利用ください",
+    "url": "https://www.maruhachi-sec.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様本位の業務運営に関する方針",
+    "url": "https://www.maruhachi-sec.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "募集等にかかる株券等のお客様への配分にかかる基本方針",
+    "url": "https://www.maruhachi-sec.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談室では、お客様のご意見・苦情を受付けております",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/tanshin.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談室",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/tanshin.php",
+    "pass": 1
+   },
+   {
+    "quote": "※発信者番号を非通知に設定されているお客様は、はじめに186（番号通知）をダイヤルしてからご利用ください",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/tanshin.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様本位の業務運営に関する方針",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/tanshin.php",
+    "pass": 1
+   },
+   {
+    "quote": "募集等にかかる株券等のお客様への配分にかかる基本方針",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/tanshin.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談室では、お客様のご意見・苦情を受付けております",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/zaimu.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談室",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/zaimu.php",
+    "pass": 1
+   },
+   {
+    "quote": "※発信者番号を非通知に設定されているお客様は、はじめに186（番号通知）をダイヤルしてからご利用ください",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/zaimu.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様本位の業務運営に関する方針",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/zaimu.php",
+    "pass": 1
+   },
+   {
+    "quote": "募集等にかかる株券等のお客様への配分にかかる基本方針",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/zaimu.php",
+    "pass": 1
+   },
+   {
+    "quote": "取引先リスク相当額",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/jikoshihon.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談室では、お客様のご意見・苦情を受付けております",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/jikoshihon.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談室",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/jikoshihon.php",
+    "pass": 1
+   },
+   {
+    "quote": "※発信者番号を非通知に設定されているお客様は、はじめに186（番号通知）をダイヤルしてからご利用ください",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/jikoshihon.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様本位の業務運営に関する方針",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/jikoshihon.php",
+    "pass": 1
+   },
+   {
+    "quote": "募集等にかかる株券等のお客様への配分にかかる基本方針",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/jikoshihon.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談室では、お客様のご意見・苦情を受付けております",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/bunkatsu.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談室",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/bunkatsu.php",
+    "pass": 1
+   },
+   {
+    "quote": "※発信者番号を非通知に設定されているお客様は、はじめに186（番号通知）をダイヤルしてからご利用ください",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/bunkatsu.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様本位の業務運営に関する方針",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/bunkatsu.php",
+    "pass": 1
+   },
+   {
+    "quote": "募集等にかかる株券等のお客様への配分にかかる基本方針",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/bunkatsu.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談室では、お客様のご意見・苦情を受付けております",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/shihanki.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談室",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/shihanki.php",
+    "pass": 1
+   },
+   {
+    "quote": "※発信者番号を非通知に設定されているお客様は、はじめに186（番号通知）をダイヤルしてからご利用ください",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/shihanki.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様本位の業務運営に関する方針",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/shihanki.php",
+    "pass": 1
+   },
+   {
+    "quote": "募集等にかかる株券等のお客様への配分にかかる基本方針",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/shihanki.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談室では、お客様のご意見・苦情を受付けております",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/kabunushi.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談室",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/kabunushi.php",
+    "pass": 1
+   },
+   {
+    "quote": "※発信者番号を非通知に設定されているお客様は、はじめに186（番号通知）をダイヤルしてからご利用ください",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/kabunushi.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様本位の業務運営に関する方針",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/kabunushi.php",
+    "pass": 1
+   },
+   {
+    "quote": "募集等にかかる株券等のお客様への配分にかかる基本方針",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/kabunushi.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談室では、お客様のご意見・苦情を受付けております",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/calendar.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談室",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/calendar.php",
+    "pass": 1
+   },
+   {
+    "quote": "※発信者番号を非通知に設定されているお客様は、はじめに186（番号通知）をダイヤルしてからご利用ください",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/calendar.php",
+    "pass": 1
+   },
+   {
+    "quote": "お客様本位の業務運営に関する方針",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/calendar.php",
+    "pass": 1
+   },
+   {
+    "quote": "募集等にかかる株券等のお客様への配分にかかる基本方針",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/calendar.php",
+    "pass": 1
+   }
+  ],
+  "何を": [
+   {
+    "quote": "取扱商品一覧",
+    "url": "https://www.maruhachi-sec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "残高照会サービス",
+    "url": "https://www.maruhachi-sec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品にご投資いただく際には、各商品等に所定の手数料や諸経費等をご負担いただく場合があります",
+    "url": "https://www.maruhachi-sec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "また、各商品等には価格の変動等による損失が生じるおそれがあります",
+    "url": "https://www.maruhachi-sec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "商品ごとに手数料等およびリスクは異なりますので、該当商品の契約締結前交付書面等をよくお読みください",
+    "url": "https://www.maruhachi-sec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "丸八証券株式会社 金融商品取引業者 東海財務局長（金商）第20 号 加入協会：日本証券業協会",
+    "url": "https://www.maruhachi-sec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "取扱商品一覧",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品にご投資いただく際には、各商品等に所定の手数料や諸経費等をご負担いただく場合があります",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "また、各商品等には価格の変動等による損失が生じるおそれがあります",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "商品ごとに手数料等およびリスクは異なりますので、該当商品の契約締結前交付書面等をよくお読みください",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "丸八証券株式会社 金融商品取引業者 東海財務局長（金商）第20 号 加入協会：日本証券業協会",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "取扱商品一覧",
+    "url": "https://www.maruhachi-sec.co.jp/company/gaiyou.php",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品取引業者 東海財務局長（金商）第20号",
+    "url": "https://www.maruhachi-sec.co.jp/company/gaiyou.php",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品にご投資いただく際には、各商品等に所定の手数料や諸経費等をご負担いただく場合があります",
+    "url": "https://www.maruhachi-sec.co.jp/company/gaiyou.php",
+    "pass": 1
+   },
+   {
+    "quote": "また、各商品等には価格の変動等による損失が生じるおそれがあります",
+    "url": "https://www.maruhachi-sec.co.jp/company/gaiyou.php",
+    "pass": 1
+   },
+   {
+    "quote": "商品ごとに手数料等およびリスクは異なりますので、該当商品の契約締結前交付書面等をよくお読みください",
+    "url": "https://www.maruhachi-sec.co.jp/company/gaiyou.php",
+    "pass": 1
+   },
+   {
+    "quote": "丸八証券株式会社 金融商品取引業者 東海財務局長（金商）第20 号 加入協会：日本証券業協会",
+    "url": "https://www.maruhachi-sec.co.jp/company/gaiyou.php",
+    "pass": 1
+   },
+   {
+    "quote": "取扱商品一覧",
+    "url": "https://www.maruhachi-sec.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品取引法に基づく金融商品取引業者として登録",
+    "url": "https://www.maruhachi-sec.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品にご投資いただく際には、各商品等に所定の手数料や諸経費等をご負担いただく場合があります",
+    "url": "https://www.maruhachi-sec.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "また、各商品等には価格の変動等による損失が生じるおそれがあります",
+    "url": "https://www.maruhachi-sec.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "商品ごとに手数料等およびリスクは異なりますので、該当商品の契約締結前交付書面等をよくお読みください",
+    "url": "https://www.maruhachi-sec.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "丸八証券株式会社 金融商品取引業者 東海財務局長（金商）第20 号 加入協会：日本証券業協会",
+    "url": "https://www.maruhachi-sec.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "取扱商品一覧",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/tanshin.php",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品にご投資いただく際には、各商品等に所定の手数料や諸経費等をご負担いただく場合があります",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/tanshin.php",
+    "pass": 1
+   },
+   {
+    "quote": "また、各商品等には価格の変動等による損失が生じるおそれがあります",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/tanshin.php",
+    "pass": 1
+   },
+   {
+    "quote": "商品ごとに手数料等およびリスクは異なりますので、該当商品の契約締結前交付書面等をよくお読みください",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/tanshin.php",
+    "pass": 1
+   },
+   {
+    "quote": "丸八証券株式会社 金融商品取引業者 東海財務局長（金商）第20 号 加入協会：日本証券業協会",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/tanshin.php",
+    "pass": 1
+   },
+   {
+    "quote": "取扱商品一覧",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/zaimu.php",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品にご投資いただく際には、各商品等に所定の手数料や諸経費等をご負担いただく場合があります",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/zaimu.php",
+    "pass": 1
+   },
+   {
+    "quote": "また、各商品等には価格の変動等による損失が生じるおそれがあります",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/zaimu.php",
+    "pass": 1
+   },
+   {
+    "quote": "商品ごとに手数料等およびリスクは異なりますので、該当商品の契約締結前交付書面等をよくお読みください",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/zaimu.php",
+    "pass": 1
+   },
+   {
+    "quote": "丸八証券株式会社 金融商品取引業者 東海財務局長（金商）第20 号 加入協会：日本証券業協会",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/zaimu.php",
+    "pass": 1
+   },
+   {
+    "quote": "取扱商品一覧",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/jikoshihon.php",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品取引業者は、金融商品取引法及び内閣府令に基づき自己資本規制比率を算出し、毎月内閣総理大臣に届け出るとともに、3月、6月、9月及び12月の 末日における同比率を公衆の縦覧に供するものとされております",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/jikoshihon.php",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品にご投資いただく際には、各商品等に所定の手数料や諸経費等をご負担いただく場合があります",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/jikoshihon.php",
+    "pass": 1
+   },
+   {
+    "quote": "また、各商品等には価格の変動等による損失が生じるおそれがあります",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/jikoshihon.php",
+    "pass": 1
+   },
+   {
+    "quote": "商品ごとに手数料等およびリスクは異なりますので、該当商品の契約締結前交付書面等をよくお読みください",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/jikoshihon.php",
+    "pass": 1
+   },
+   {
+    "quote": "丸八証券株式会社 金融商品取引業者 東海財務局長（金商）第20 号 加入協会：日本証券業協会",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/jikoshihon.php",
+    "pass": 1
+   },
+   {
+    "quote": "取扱商品一覧",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/bunkatsu.php",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品にご投資いただく際には、各商品等に所定の手数料や諸経費等をご負担いただく場合があります",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/bunkatsu.php",
+    "pass": 1
+   },
+   {
+    "quote": "また、各商品等には価格の変動等による損失が生じるおそれがあります",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/bunkatsu.php",
+    "pass": 1
+   },
+   {
+    "quote": "商品ごとに手数料等およびリスクは異なりますので、該当商品の契約締結前交付書面等をよくお読みください",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/bunkatsu.php",
+    "pass": 1
+   },
+   {
+    "quote": "丸八証券株式会社 金融商品取引業者 東海財務局長（金商）第20 号 加入協会：日本証券業協会",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/bunkatsu.php",
+    "pass": 1
+   },
+   {
+    "quote": "取扱商品一覧",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/shihanki.php",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品にご投資いただく際には、各商品等に所定の手数料や諸経費等をご負担いただく場合があります",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/shihanki.php",
+    "pass": 1
+   },
+   {
+    "quote": "また、各商品等には価格の変動等による損失が生じるおそれがあります",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/shihanki.php",
+    "pass": 1
+   },
+   {
+    "quote": "商品ごとに手数料等およびリスクは異なりますので、該当商品の契約締結前交付書面等をよくお読みください",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/shihanki.php",
+    "pass": 1
+   },
+   {
+    "quote": "丸八証券株式会社 金融商品取引業者 東海財務局長（金商）第20 号 加入協会：日本証券業協会",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/shihanki.php",
+    "pass": 1
+   },
+   {
+    "quote": "取扱商品一覧",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/kabunushi.php",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品にご投資いただく際には、各商品等に所定の手数料や諸経費等をご負担いただく場合があります",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/kabunushi.php",
+    "pass": 1
+   },
+   {
+    "quote": "また、各商品等には価格の変動等による損失が生じるおそれがあります",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/kabunushi.php",
+    "pass": 1
+   },
+   {
+    "quote": "商品ごとに手数料等およびリスクは異なりますので、該当商品の契約締結前交付書面等をよくお読みください",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/kabunushi.php",
+    "pass": 1
+   },
+   {
+    "quote": "丸八証券株式会社 金融商品取引業者 東海財務局長（金商）第20 号 加入協会：日本証券業協会",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/kabunushi.php",
+    "pass": 1
+   },
+   {
+    "quote": "取扱商品一覧",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/calendar.php",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品にご投資いただく際には、各商品等に所定の手数料や諸経費等をご負担いただく場合があります",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/calendar.php",
+    "pass": 1
+   },
+   {
+    "quote": "また、各商品等には価格の変動等による損失が生じるおそれがあります",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/calendar.php",
+    "pass": 1
+   },
+   {
+    "quote": "商品ごとに手数料等およびリスクは異なりますので、該当商品の契約締結前交付書面等をよくお読みください",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/calendar.php",
+    "pass": 1
+   },
+   {
+    "quote": "丸八証券株式会社 金融商品取引業者 東海財務局長（金商）第20 号 加入協会：日本証券業協会",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/calendar.php",
+    "pass": 1
+   },
+   {
+    "quote": "取扱商品一覧",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/kabushiki.php",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "リスク・手数料",
+    "url": "https://www.maruhachi-sec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品にご投資いただく際には、各商品等に所定の手数料や諸経費等をご負担いただく場合があります",
+    "url": "https://www.maruhachi-sec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "商品ごとに手数料等およびリスクは異なりますので、該当商品の契約締結前交付書面等をよくお読みください",
+    "url": "https://www.maruhachi-sec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "リスク・手数料",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品にご投資いただく際には、各商品等に所定の手数料や諸経費等をご負担いただく場合があります",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "商品ごとに手数料等およびリスクは異なりますので、該当商品の契約締結前交付書面等をよくお読みください",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "リスク・手数料",
+    "url": "https://www.maruhachi-sec.co.jp/company/gaiyou.php",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品にご投資いただく際には、各商品等に所定の手数料や諸経費等をご負担いただく場合があります",
+    "url": "https://www.maruhachi-sec.co.jp/company/gaiyou.php",
+    "pass": 1
+   },
+   {
+    "quote": "商品ごとに手数料等およびリスクは異なりますので、該当商品の契約締結前交付書面等をよくお読みください",
+    "url": "https://www.maruhachi-sec.co.jp/company/gaiyou.php",
+    "pass": 1
+   },
+   {
+    "quote": "リスク・手数料",
+    "url": "https://www.maruhachi-sec.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品にご投資いただく際には、各商品等に所定の手数料や諸経費等をご負担いただく場合があります",
+    "url": "https://www.maruhachi-sec.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "商品ごとに手数料等およびリスクは異なりますので、該当商品の契約締結前交付書面等をよくお読みください",
+    "url": "https://www.maruhachi-sec.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "リスク・手数料",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/tanshin.php",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品にご投資いただく際には、各商品等に所定の手数料や諸経費等をご負担いただく場合があります",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/tanshin.php",
+    "pass": 1
+   },
+   {
+    "quote": "商品ごとに手数料等およびリスクは異なりますので、該当商品の契約締結前交付書面等をよくお読みください",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/tanshin.php",
+    "pass": 1
+   },
+   {
+    "quote": "リスク・手数料",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/zaimu.php",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品にご投資いただく際には、各商品等に所定の手数料や諸経費等をご負担いただく場合があります",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/zaimu.php",
+    "pass": 1
+   },
+   {
+    "quote": "商品ごとに手数料等およびリスクは異なりますので、該当商品の契約締結前交付書面等をよくお読みください",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/zaimu.php",
+    "pass": 1
+   },
+   {
+    "quote": "リスク・手数料",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/jikoshihon.php",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品にご投資いただく際には、各商品等に所定の手数料や諸経費等をご負担いただく場合があります",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/jikoshihon.php",
+    "pass": 1
+   },
+   {
+    "quote": "商品ごとに手数料等およびリスクは異なりますので、該当商品の契約締結前交付書面等をよくお読みください",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/jikoshihon.php",
+    "pass": 1
+   },
+   {
+    "quote": "リスク・手数料",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/bunkatsu.php",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品にご投資いただく際には、各商品等に所定の手数料や諸経費等をご負担いただく場合があります",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/bunkatsu.php",
+    "pass": 1
+   },
+   {
+    "quote": "商品ごとに手数料等およびリスクは異なりますので、該当商品の契約締結前交付書面等をよくお読みください",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/bunkatsu.php",
+    "pass": 1
+   },
+   {
+    "quote": "リスク・手数料",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/shihanki.php",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品にご投資いただく際には、各商品等に所定の手数料や諸経費等をご負担いただく場合があります",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/shihanki.php",
+    "pass": 1
+   },
+   {
+    "quote": "商品ごとに手数料等およびリスクは異なりますので、該当商品の契約締結前交付書面等をよくお読みください",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/shihanki.php",
+    "pass": 1
+   },
+   {
+    "quote": "リスク・手数料",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/kabunushi.php",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品にご投資いただく際には、各商品等に所定の手数料や諸経費等をご負担いただく場合があります",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/kabunushi.php",
+    "pass": 1
+   },
+   {
+    "quote": "商品ごとに手数料等およびリスクは異なりますので、該当商品の契約締結前交付書面等をよくお読みください",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/kabunushi.php",
+    "pass": 1
+   },
+   {
+    "quote": "リスク・手数料",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/calendar.php",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品にご投資いただく際には、各商品等に所定の手数料や諸経費等をご負担いただく場合があります",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/calendar.php",
+    "pass": 1
+   },
+   {
+    "quote": "商品ごとに手数料等およびリスクは異なりますので、該当商品の契約締結前交付書面等をよくお読みください",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/calendar.php",
+    "pass": 1
+   },
+   {
+    "quote": "リスク・手数料",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/kabushiki.php",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品にご投資いただく際には、各商品等に所定の手数料や諸経費等をご負担いただく場合があります",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/kabushiki.php",
+    "pass": 1
+   },
+   {
+    "quote": "商品ごとに手数料等およびリスクは異なりますので、該当商品の契約締結前交付書面等をよくお読みください",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/kabushiki.php",
+    "pass": 1
+   },
+   {
+    "quote": "リスク・手数料",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/kabuka.php",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品にご投資いただく際には、各商品等に所定の手数料や諸経費等をご負担いただく場合があります",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/kabuka.php",
+    "pass": 1
+   },
+   {
+    "quote": "商品ごとに手数料等およびリスクは異なりますので、該当商品の契約締結前交付書面等をよくお読みください",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/kabuka.php",
+    "pass": 1
+   },
+   {
+    "quote": "リスク・手数料",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/koukoku.php",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品にご投資いただく際には、各商品等に所定の手数料や諸経費等をご負担いただく場合があります",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/koukoku.php",
+    "pass": 1
+   },
+   {
+    "quote": "商品ごとに手数料等およびリスクは異なりますので、該当商品の契約締結前交付書面等をよくお読みください",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/koukoku.php",
+    "pass": 1
+   },
+   {
+    "quote": "リスク・手数料",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/irnews-detail.php?nid=848",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品にご投資いただく際には、各商品等に所定の手数料や諸経費等をご負担いただく場合があります",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/irnews-detail.php?nid=848",
+    "pass": 1
+   },
+   {
+    "quote": "商品ごとに手数料等およびリスクは異なりますので、該当商品の契約締結前交付書面等をよくお読みください",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/irnews-detail.php?nid=848",
+    "pass": 1
+   },
+   {
+    "quote": "リスク・手数料",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/irnews-detail.php?nid=849",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品にご投資いただく際には、各商品等に所定の手数料や諸経費等をご負担いただく場合があります",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/irnews-detail.php?nid=849",
+    "pass": 1
+   },
+   {
+    "quote": "商品ごとに手数料等およびリスクは異なりますので、該当商品の契約締結前交付書面等をよくお読みください",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/irnews-detail.php?nid=849",
+    "pass": 1
+   },
+   {
+    "quote": "リスク・手数料",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/irnews-detail.php?nid=847",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品にご投資いただく際には、各商品等に所定の手数料や諸経費等をご負担いただく場合があります",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/irnews-detail.php?nid=847",
+    "pass": 1
+   },
+   {
+    "quote": "商品ごとに手数料等およびリスクは異なりますので、該当商品の契約締結前交付書面等をよくお読みください",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/irnews-detail.php?nid=847",
+    "pass": 1
+   },
+   {
+    "quote": "リスク・手数料",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/irnews-detail.php?nid=845",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品にご投資いただく際には、各商品等に所定の手数料や諸経費等をご負担いただく場合があります",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/irnews-detail.php?nid=845",
+    "pass": 1
+   },
+   {
+    "quote": "商品ごとに手数料等およびリスクは異なりますので、該当商品の契約締結前交付書面等をよくお読みください",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/irnews-detail.php?nid=845",
+    "pass": 1
+   },
+   {
+    "quote": "リスク・手数料",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/irnews-detail.php?nid=846",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品にご投資いただく際には、各商品等に所定の手数料や諸経費等をご負担いただく場合があります",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/irnews-detail.php?nid=846",
+    "pass": 1
+   },
+   {
+    "quote": "商品ごとに手数料等およびリスクは異なりますので、該当商品の契約締結前交付書面等をよくお読みください",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/irnews-detail.php?nid=846",
+    "pass": 1
+   },
+   {
+    "quote": "3. 手数料等の明確化",
+    "url": "https://www.maruhachi-sec.co.jp/cms/footer_pdf/dl.php?nid=43",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、商品・サービスや取引方法に応じて、お客様に手数料・費用等をご負担いただいて",
+    "url": "https://www.maruhachi-sec.co.jp/cms/footer_pdf/dl.php?nid=43",
+    "pass": 1
+   },
+   {
+    "quote": "購入・売却対価とは別に、お客様からいただく手数料・費用等には国内外の金融商品",
+    "url": "https://www.maruhachi-sec.co.jp/cms/footer_pdf/dl.php?nid=43",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2027年３月期 第2四半期（中間期）決算短信〔日本基準〕（非連結)",
+    "url": "https://www.maruhachi-sec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第2四半期（中間期）決算速報値に関するお知らせ",
+    "url": "https://www.maruhachi-sec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "令和８年台風第18号に伴う災害等に対する金融上の措置について",
+    "url": "https://www.maruhachi-sec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第2四半期（中間期）決算短信〔日本基準〕（非連結)",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第2四半期（中間期）決算速報値に関するお知らせ",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算短信〔日本基準〕（非連結)",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第１四半期決算速報値に関するお知らせ",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算短信〔日本基準〕（非連結)",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算速報値に関するお知らせ",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 配当予想に関するお知らせ",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 第３四半期決算短信〔日本基準〕(非連結)",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 第3四半期決算速報値に関するお知らせ",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 第2四半期 決算短信〔日本基準〕（非連結)",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 第2四半期決算速報値に関するお知らせ",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第1四半期 決算短信〔日本基準〕（非連結）",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 第1四半期決算速報値に関するお知らせ",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年３月期 決算短信〔日本基準〕（非連結）",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年３月期決算速報値に関するお知らせ",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年３月期 配当予想に関するお知らせ",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年３月期 第3四半期 決算短信〔日本基準〕（非連結)",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年３月期 第3四半期決算速報値に関するお知らせ",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年３月期 第2四半期（中間期）決算短信〔日本基準〕（非連結）",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年３月期 第2四半期（中間期）決算速報値に関するお知らせ",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第1四半期決算短信〔日本基準〕（非連結）",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年３月期 第1四半期決算速報値に関するお知らせ",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 決算短信〔日本基準〕（非連結)",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期決算速報値に関するお知らせ",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 配当予想（設立80周年記念配当含む）に関するお知らせ",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和19年3月30日",
+    "url": "https://www.maruhachi-sec.co.jp/company/gaiyou.php",
+    "pass": 1
+   },
+   {
+    "quote": "会社沿革 | 丸八証券株式会社",
+    "url": "https://www.maruhachi-sec.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "＞ 会社沿革",
+    "url": "https://www.maruhachi-sec.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "2024年 3月",
+    "url": "https://www.maruhachi-sec.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "2022年 4月",
+    "url": "https://www.maruhachi-sec.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "2021年 4月",
+    "url": "https://www.maruhachi-sec.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "2018年 10月",
+    "url": "https://www.maruhachi-sec.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "2011年 3月",
+    "url": "https://www.maruhachi-sec.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "2010年 2月",
+    "url": "https://www.maruhachi-sec.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "2008年 11月",
+    "url": "https://www.maruhachi-sec.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "2007年 9月",
+    "url": "https://www.maruhachi-sec.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "2005年 6月",
+    "url": "https://www.maruhachi-sec.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "2004年 11月",
+    "url": "https://www.maruhachi-sec.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "1988年 5月",
+    "url": "https://www.maruhachi-sec.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "1968年 4月",
+    "url": "https://www.maruhachi-sec.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "1967年 8月",
+    "url": "https://www.maruhachi-sec.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "1966年 10月",
+    "url": "https://www.maruhachi-sec.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "1949年 4月",
+    "url": "https://www.maruhachi-sec.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "1948年 9月",
+    "url": "https://www.maruhachi-sec.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "1944年 3月",
+    "url": "https://www.maruhachi-sec.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "1936年 2月",
+    "url": "https://www.maruhachi-sec.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/tanshin.php",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/tanshin.php",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/tanshin.php",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/tanshin.php",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/tanshin.php",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/tanshin.php",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/tanshin.php",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月期",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/tanshin.php",
+    "pass": 1
+   },
+   {
+    "quote": "2019年3月期",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/tanshin.php",
+    "pass": 1
+   },
+   {
+    "quote": "2018年3月期",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/tanshin.php",
+    "pass": 1
+   },
+   {
+    "quote": "2017年3月期",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/tanshin.php",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "営業店舗の移転に関するお知らせ",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "営業店舗移転に関するお知らせ",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "得を促し、お客様のご希望によっては税理士・弁護士等の専門家をご紹介しております",
+    "url": "https://www.maruhachi-sec.co.jp/cms/footer_pdf/dl.php?nid=43",
+    "pass": 1
+   },
+   {
+    "quote": "この細やかな対応が、お客さまの継続的な利用と紹介につながっています",
+    "url": "https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/",
+    "pass": 3
+   },
+   {
+    "quote": "丸八証券のリソースは、経験豊富な営業スタッフや地域に密着した店舗網、さらに多様な金融商品です",
+    "url": "https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/",
+    "pass": 3
+   },
+   {
+    "quote": "丸八証券では東海東京フィナンシャル・ホールディングスとの連携など、外部とのパートナーシップを活用しています",
+    "url": "https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/",
+    "pass": 3
+   },
+   {
+    "quote": "このパートナーシップは、丸八証券の営業力と大手グループのシステムや商品力の相乗効果で、お客さまへの付加価値を高める役割を果たしています",
+    "url": "https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/",
+    "pass": 3
+   },
+   {
+    "quote": "丸八証券のチャンネルは、対面中心の店舗営業と、電話やメールを使ったサポートです",
+    "url": "https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/",
+    "pass": 3
+   },
+   {
+    "quote": "こうしたチャンネルの運営はコストがかかりますが、その分リピーターや紹介が増えやすいという特徴があります",
+    "url": "https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/",
+    "pass": 3
+   },
+   {
+    "quote": "丸八証券は、お客さまとの関係を長期的なパートナーシップとして考えています",
+    "url": "https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/",
+    "pass": 3
+   },
+   {
+    "quote": "この継続的な関係づくりが、丸八証券への信頼やリピート、紹介などを増やす原動力となっています",
+    "url": "https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/",
+    "pass": 3
+   },
+   {
+    "quote": "証券会社のビジネスモデルがこれらの手数料やフィーによって成り立っており、特に対面でのサポートが多い丸八証券では、人件費や店舗運営費をまかなうためにも手数料が重要だからです",
+    "url": "https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/",
+    "pass": 3
+   },
+   {
+    "quote": "丸八証券のコスト構造は、人件費、店舗の運営費、そしてシステムの維持費が大きなウェイトを占めています",
+    "url": "https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/",
+    "pass": 3
+   },
+   {
+    "quote": "対面営業を重視するためにスタッフを多く配置し、店舗を地元に構えているからです",
+    "url": "https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/",
+    "pass": 3
+   },
+   {
+    "quote": "丸八証券の自己強化ループは、地域密着型の対面営業で築いた信頼関係がお客さまからの紹介を生み、その紹介がさらに新規顧客を呼び込み、業績を拡大するという好循環です",
+    "url": "https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/",
+    "pass": 3
+   },
+   {
+    "quote": "企業概要と最近の業績水戸証券株式会社【全体の業績】水戸証券は、茨城県をはじめとする関東エリアを中心に地域密着型の店舗ネットワークを構え、対面営業による丁寧なコンサルティングを強みとして株式・投資信託・債券などの投資・金融サービスを提供する老...",
+    "url": "https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル",
+    "url": "https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/",
+    "pass": 3
+   },
+   {
+    "quote": "アイ・パートナーズフィナンシャル",
+    "url": "https://the-shashi.com/tse/8700/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "（できる限りSNSへの投稿ではなく、飲み会や、社内 Slack・Teams など、リアルな口コミでご紹介いただけますと大変嬉しく存じます",
+    "url": "https://the-shashi.com/tse/8700/ceo/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "のビジネスモデルに応じて 、運用責任者や運用の責任を実質的に負う者について、本人の同意の",
+    "url": "https://www.maruhachi-sec.co.jp/cms/footer_pdf/dl.php?nid=43",
+    "pass": 1
+   },
+   {
+    "quote": "丸八証券が地域に根ざして実現するビジネスモデルの魅力 | チームマイクの企業分析",
+    "url": "https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/",
+    "pass": 3
+   },
+   {
+    "quote": "丸八証券が地域に根ざして実現するビジネスモデルの魅力",
+    "url": "https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/",
+    "pass": 3
+   },
+   {
+    "quote": "これが口コミや地域コミュニティを介して新たな顧客を呼び込み、丸八証券のビジネスモデルをさらに強固なものにしてきました",
+    "url": "https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/",
+    "pass": 3
+   },
+   {
+    "quote": "証券会社のビジネスモデルがこれらの手数料やフィーによって成り立っており、特に対面でのサポートが多い丸八証券では、人件費や店舗運営費をまかなうためにも手数料が重要だからです",
+    "url": "https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルと地域性を両立させる姿勢が、今後の丸八証券を語る上で欠かせないポイントになりそうです",
+    "url": "https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/",
+    "pass": 3
+   },
+   {
+    "quote": "水戸証券が魅せる最新ビジネスモデルと成長戦略",
+    "url": "https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/",
+    "pass": 3
+   },
+   {
+    "quote": "GMOフィナンシャルホールディングスのビジネスモデルを徹底解説 成長戦略とIR資料から見る魅力",
+    "url": "https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/",
+    "pass": 3
+   },
+   {
+    "quote": "岡三証券グループのビジネスモデルと成長戦略を徹底解説",
+    "url": "https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/",
+    "pass": 3
+   },
+   {
+    "quote": "MS&ADインシュアランスグループホールディングスのビジネスモデルが分かる魅力解説",
+    "url": "https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/",
+    "pass": 3
+   },
+   {
+    "quote": "日産証券グループのビジネスモデルを徹底解説 魅力と成長戦略のポイント",
+    "url": "https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社UNBANKEDのビジネスモデルと成長の魅力",
+    "url": "https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社HSホールディングスのビジネスモデルに迫る魅力的な成長戦略",
+    "url": "https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社トレイダーズホールディングスの成長戦略とビジネスモデル",
+    "url": "https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル",
+    "url": "https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ドライケミカル株式会社の『ビジネスモデル』と圧倒的競争力を解",
+    "url": "https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社動力のIR資料から紐解く次世代へのビジネスモデルと成長戦略",
+    "url": "https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ガイシの驚異的なビジネスモデルと次世代へ向けた成長戦略を徹底解説",
+    "url": "https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/",
+    "pass": 3
+   },
+   {
+    "quote": "マーチャント・バンカーズの隠された成長戦略と驚異のビジネスモデル",
+    "url": "https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "顧客セグメント",
+    "url": "https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/",
+    "pass": 3
+   },
+   {
+    "quote": "丸八証券の主な顧客セグメントは、愛知県を中心とした個人投資家や中小企業です",
+    "url": "https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "地域密着型のコンサルティング力ときめ細かな顧客サポートを強みに、顧客の長期的な資産形成を総合的に手掛ける事業基盤を構築しています",
+    "url": "https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし一方で、対面を大切にする姿勢は同社の大きな強みでもあります",
+    "url": "https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/",
+    "pass": 3
+   },
+   {
+    "quote": "企業概要と最近の業績水戸証券株式会社【全体の業績】水戸証券は、茨城県をはじめとする関東エリアを中心に地域密着型の店舗ネットワークを構え、対面営業による丁寧なコンサルティングを強みとして株式・投資信託・債券などの投資・金融サービスを提供する老...",
+    "url": "https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/",
+    "pass": 3
+   },
+   {
+    "quote": "企業概要と最近の業績日産証券グループ株式会社【全体の業績】日産証券グループは、創業から長年にわたり培った商品先物取引やデリバティブ取引の高度な知見を強みとし、国内外の有価証券取引、FX（外国為替証拠金取引）、商品先物取引などを包括的に展開す...",
+    "url": "https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "丸八証券 - Wikipedia — 丸八証券 ... 丸八証券株式会社 （まるはちしょうけん、 英: Maruhachi Securities Co.,Ltd.）は、 愛知県 名古屋市 に本店を置く日本の 証券会社。 東海東京フィナンシャル・ホールディングス の 連結子会社。",
+    "url": "https://ja.wikipedia.org/wiki/丸八証券",
+    "pass": 3
+   },
+   {
+    "quote": "丸八証券が地域に根ざして実現するビジネスモデルの魅力 | チームマイ... — Feb 28, 2025 · 主要活動 丸八証券の主要活動は、お客さまへの資産運用提案や金融商品の販売、そしてマーケット情報の提供です。 営業担当が対面でお客さまの意向をじっくりヒアリングし、それぞれのライフステージや資産状況に合った投資信託や株式を提案しています。",
+    "url": "https://consovation.com/丸八証券が地域に根ざして実現するビジネスモデ/",
+    "pass": 3
+   },
+   {
+    "quote": "丸八証券株式会社 — 契約締結前交付書面等について マネロン・テロ資金供与対策に関する基本方針 求職者等に対するセクシャルハラスメント防止に関する基本方針 丸八証券株式会社 金融商品取引業者 東海財務局長（金商）第20 号 加入協会：日本証券業協会",
+    "url": "https://www.maruhachi-sec.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "丸八証券 (8700) の企業概要・業績・財務・IR資料｜CREX経済データプ... — 丸八証券（8700・証券、商品先物取引業）の最新決算サマリ・売上推移・財務指標・経営戦略をAIが構造化要約。 投資家・就活生・業界研究向けの企業データプラットフォーム。",
+    "url": "https://www.crex-data.com/company/8700",
+    "pass": 3
+   },
+   {
+    "quote": "【丸八証券】 [8700]IR情報 中期経営計画や決算短信 | 日経電子版 — 丸八証券 現在値 (15:30)： 2,025 円 前日比： ＋20 (＋1.00％) トップ ニュース チャート 株価 業績・財務 市場予想 企業発情報 企業概要 株主情報 年収 ...",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=8700",
+    "pass": 3
+   },
+   {
+    "quote": "丸八証券（8700）のIR情報・決算資料 - IRBANK — Jul 24, 2026 · 丸八証券（8700）のIR情報・決算資料 β版IRBANKでは、 有報・決算資料の中身 がすぐ引ける新規登録の受付は残り 6 日 無料でβ版をはじめる 登録すると永久30%OFFと米株版の先行利用も付きます 2026/10/22",
+    "url": "https://irbank.net/8700/ir",
+    "pass": 3
+   },
+   {
+    "quote": "丸八証券 (株)【8700】：決算情報 - Yahoo!ファイナンス — 3 days ago · 丸八証券 (株)【8700】の決算短信を生成AIで要約した内容をご覧いただけます。 Yahoo!ファイナンスでは株価速報、チャート、ランキング、ポートフォリオ、ニュース、掲示板など投資判断に役立つ情報を掲載しています。",
+    "url": "https://finance.yahoo.co.jp/quote/8700.T/financials",
+    "pass": 3
+   },
+   {
+    "quote": "丸八証券株式会社（8700）決算短信・有価証券報告書 — 丸八証券株式会社（証券コード 8700）の決算資料をまとめて掲載。 有価証券報告書・半期報告書 4 件、決算短信・決算説明会資料など適時開示 4 件。 PDF は EDINET・TDnet の原本へ直接リンクしています。",
+    "url": "https://treelazy.com/stock-jp/8700",
+    "pass": 3
+   },
+   {
+    "quote": "丸八証券株式会社（8700）適時開示・決算短信 一覧｜毎日更新｜Treela... — 丸八証券株式会社（8700）の適時開示 4 件：決算短信・決算説明会資料・業績予想修正など、TDnet から毎日収集。PDF 原文へのリンク付き。",
+    "url": "https://treelazy.com/stock-jp/8700/conference",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報・電子公告 | 丸八証券株式会社 — Oct 22, 2026 · 2024/07/31 「丸八証券 設立80周年記念講演会」開催のお知らせ 2024/07/31 2025年3月期 第1四半期決算短信〔日本基準〕（非連結） 2024/07/24 2025年3月期 第1四半期決算速報値に関するお知らせ 2024/07/01 顧客資産の分別管理に関する保証業務について 2024/06/25",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/",
+    "pass": 3
+   },
+   {
+    "quote": "丸八証券（8700）の事業内容・業績｜平均年収749万円・売上36億円（20... — 丸八証券（8700）は証券、商品先物取引業の会社。 2026年3月期は売上36億円・営業利益7億円、平均年収749万円。 事業内容と業績を有価証券報告書の数字で図解。",
+    "url": "https://zukaikeizai.com/kaisha/8700/",
+    "pass": 3
+   },
+   {
+    "quote": "丸八証券（8700）の関連テーマ・事業内容｜事業テーマPro — 概要 丸八証券は、愛知県名古屋市に本社を置く証券会社です。 東海東京フィナンシャル・ホールディングスの連結子会社であり、地域密着型の営業を強みとしています。 お客様との対面での営業を重視し、資産形成のサポートを行っています。",
+    "url": "https://jigyou-v2.kabu-trendpro.com/company/8700/",
+    "pass": 3
+   },
+   {
+    "quote": "丸八証券（8700）の事業内容、事業の状況や経営戦略、事業等のリスク... — 本ページでは、有価証券報告書記載の丸八証券の事業内容、事業の状況や経営指針、事業のリスクなどについて紹介しています。 最新の経営戦略、ビジネスモデル、財務状況、および将来の展望を含む包括的な情報をご提供します。",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=8700",
+    "pass": 3
+   },
+   {
+    "quote": "鈴木卓也 - Wikipedia — 鈴木卓也 鈴木 卓也 （すずき たくや、 1966年 2月24日 - ）は、 日本 の 実業家。 丸八証券 株式会社 代表取締役 社長。 東海東京フィナンシャル・ホールディングス 顧問。",
+    "url": "https://ja.wikipedia.org/wiki/鈴木卓也",
+    "pass": 3
+   },
+   {
+    "quote": "丸八証券の歴代社長 - the-shashi.com — 1 day ago · 丸八証券の歴代社長一覧。現在の社長は鈴木卓也（2021年就任）。2014年以降の2代について在任期間・出身・経歴を有価証券 ...",
+    "url": "https://the-shashi.com/tse/8700/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "丸八証券の社長は誰？鈴木 卓也氏の経歴・就任年【8700】 | 企業スコ... — 丸八証券株式会社の社長は鈴木 卓也氏（代表取締役社長・60歳）。 2021年6月に社長に就任。 有価証券報告書（2026年3月期）の「役員の状況」から、経歴と取締役の一覧をまとめました。",
+    "url": "https://kigyo-scope.jp/company/8700/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "新役員体制に関するお知らせ | 丸八証券株式会社 — Jun 24, 2025 · 契約締結前交付書面等について マネロン・テロ資金供与対策に関する基本方針 求職者等に対するセクシャルハラスメント防止に関する基本方針 丸八証券株式会社 金融商品取引業者 東海財務局長（金商）第20 号 加入協会：日本証券業協会",
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/irnews-detail.php?nid=802",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報 | 丸八証券株式会社 — 丁寧に確実に真剣に、また、親切に対応してまいります。 お客様、株主の皆様におかれましては、今後とも変わらぬご支援、ご鞭撻を賜りますよう、 よろしく お願い申し上げます。 2026年7月 代表取締役社長 鈴木 卓也",
+    "url": "https://www.maruhachi-sec.co.jp/company/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.maruhachi-sec.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruhachi-sec.co.jp/company/gaiyou.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruhachi-sec.co.jp/company/history.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/tanshin.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/zaimu.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/jikoshihon.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/bunkatsu.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/shihanki.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/kabunushi.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/calendar.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/kabushiki.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/kabuka.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/koukoku.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/irnews-detail.php?nid=848",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/irnews-detail.php?nid=849",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/irnews-detail.php?nid=847",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/irnews-detail.php?nid=845",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruhachi-sec.co.jp/ir-news/irnews-detail.php?nid=846",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruhachi-sec.co.jp/cms/footer_pdf/dl.php?nid=43",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.maruhachi-sec.co.jp/cms/footer_pdf/dl.php?nid=1",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.maruhachi-sec.co.jp/cms/footer_pdf/dl.php?nid=2",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.maruhachi-sec.co.jp/cms/footer_pdf/dl.php?nid=3",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.maruhachi-sec.co.jp/cms/footer_pdf/dl.php?nid=4",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.maruhachi-sec.co.jp/cms/footer_pdf/dl.php?nid=5",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.maruhachi-sec.co.jp/images/pdf/harassment.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.maruhachi-sec.co.jp/images/pdf/guide.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.maruhachi-sec.co.jp/images/pdf/family-support.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruhachi.co.jp/ir%E6%83%85%E5%A0%B1/ir%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://irbank.net/8700/ir",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E9%88%B4%E6%9C%A8%E5%8D%93%E4%B9%9F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://the-shashi.com/tse/8700/ceo/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "丸八証券",
+   "results": [
+    "https://www.maruhachi-sec.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8",
+    "https://maruhachi-sec.starmf.jp/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=8700",
+    "https://job.mynavi.jp/27/pc/search/corp14512/outline.html",
+    "https://ja.wikipedia.org/wiki/丸八証券",
+    "https://www.maruhachi-sec.co.jp/ir-news/",
+    "https://finance.yahoo.co.jp/quote/8700.T",
+    "https://finance.yahoo.co.jp/quote/8700.T/profile",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=8700"
+   ]
+  },
+  {
+   "query": "丸八証券 ビジネスモデル",
+   "results": [
+    "https://ja.wikipedia.org/wiki/丸八証券",
+    "https://consovation.com/丸八証券が地域に根ざして実現するビジネスモデ/",
+    "https://www.maruhachi-sec.co.jp/",
+    "https://www.crex-data.com/company/8700",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=8700",
+    "https://stock-insights.net/articles/8700-snapshot-2026q3",
+    "https://www.maruhachi-sec.co.jp/company/"
+   ]
+  },
+  {
+   "query": "丸八証券 決算説明資料",
+   "results": [
+    "https://www.maruhachi.co.jp/ir情報/irライブラリ/決算説明資料",
+    "https://irbank.net/8700/ir",
+    "https://finance.yahoo.co.jp/quote/8700.T/financials",
+    "https://treelazy.com/stock-jp/8700",
+    "https://treelazy.com/stock-jp/8700/conference",
+    "https://www.maruhachi-sec.co.jp/ir-news/tanshin.php",
+    "https://www.maruhachi-sec.co.jp/ir-news/index.php"
+   ]
+  },
+  {
+   "query": "丸八証券 事業系統図",
+   "results": [
+    "https://www.maruhachi-sec.co.jp/",
+    "https://www.maruhachi-sec.co.jp/ir-news/",
+    "https://zukaikeizai.com/kaisha/8700/",
+    "https://jigyou-v2.kabu-trendpro.com/company/8700/",
+    "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=8700",
+    "https://jigyou.kabu-trendpro.com/company.php?ticker=8700",
+    "https://www.jsda.or.jp/kyoukaiin/kyoukaiin/files/0357_maruhachi_202603.pdf"
+   ]
+  },
+  {
+   "query": "丸八証券 社長 インタビュー",
+   "results": [
+    "https://ja.wikipedia.org/wiki/鈴木卓也",
+    "https://the-shashi.com/tse/8700/ceo/",
+    "https://kigyo-scope.jp/company/8700/ceo/",
+    "https://www.maruhachi-sec.co.jp/ir-news/irnews-detail.php?nid=802",
+    "https://www.maruhachi-sec.co.jp/company/",
+    "https://kitaishihon.com/company/8700/board-of-director",
+    "https://www.maruhachi.co.jp/ir情報/経営情報/役員紹介"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式25頁／PDF・画像3件／外部6頁・検索5回）"
+ }
+}

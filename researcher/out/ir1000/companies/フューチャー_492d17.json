@@ -1,0 +1,972 @@
+{
+ "name": "フューチャー",
+ "aliases": [],
+ "context": "証券コード4722／情報・通信業／プライム（内国株式）／2025.12期 売上高75,993百万円 営業利益率21.3%",
+ "researched_at": "2026-11-02T17:43:03.718965+00:00",
+ "official_url": "https://www.future.co.jp/",
+ "identified_by": "search:yahoo_jp:フューチャー",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1989年11月28日",
+    "url": "https://www.future.co.jp/company_profile/corporate_profile/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "連結：759億93百万円 （2025年12月期）",
+    "url": "https://www.future.co.jp/company_profile/corporate_profile/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "連結：3,624名 （2025年12月末現在）",
+    "url": "https://www.future.co.jp/company_profile/corporate_profile/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "グループ経営戦略、新事業・サービスの企画立案",
+    "url": "https://www.future.co.jp/company_profile/corporate_profile/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "お客様の未来価値を最大化し、",
+    "url": "https://www.future.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは「お客様の未来価値を最大化すること」をミッションとし、常に未来をポジティブに捉え、現状に満足することなく、自らの革新とお客様の「成功」を実現し続ける企業でありたいと考えています",
+    "url": "https://www.future.co.jp/investor_relations/top_message/",
+    "pass": 1
+   },
+   {
+    "quote": "また、当社は経営戦略に沿った情報セキュリティを実現するとともに、当社の情報セキュリティに対するお客様の信頼に応え、より強固なものにするために、継続的な監視と改善を続けてまいります",
+    "url": "https://www.future.co.jp/investor_relations/security_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、ビジネスの継続的な発展とお客様の信頼に応えるために、重要な情報資産の機密性、完全性、可用性の確保に努めます",
+    "url": "https://www.future.co.jp/investor_relations/security_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、法令、規制及びお客様との契約上の要求事項を順守します",
+    "url": "https://www.future.co.jp/investor_relations/security_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、お客様よりお預かりした個人情報を、プライバシーポリシーに従って運用管理します",
+    "url": "https://www.future.co.jp/investor_relations/security_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、クラウドサービスの利用および提供にあたり、クラウド事業者と利用者間の責任分界を明確にし、それぞれの役割に応じた適切なセキュリティ管理を実施します",
+    "url": "https://www.future.co.jp/investor_relations/security_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の事業特性から、顧客の機密情報に触れることが必然であり、その機密保持責任は重大であること",
+    "url": "https://www.future.co.jp/investor_relations/security_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "企業のIT戦略に不可欠なクラウドコンピューティングの活用において、クラウドのポテンシャルを最大限に引き出すための安全な土台を、自ら体現し、顧客に提供すること",
+    "url": "https://www.future.co.jp/investor_relations/security_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様との間で締結した契約に基づき、必要な範囲において利用するため",
+    "url": "https://www.future.co.jp/investor_relations/privacy_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "（例）情報システムの開発、保守、運用、及び関連する業務を遂行するにあたり、必要最低限の範囲において、お客様及びお客様の取引先の個人情報を利用する必要がある場合など",
+    "url": "https://www.future.co.jp/investor_relations/privacy_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "現在は、最高情報セキュリティ責任者として技術や組織・顧客などの情報管理を徹底し、IT武装によるセキュリティ強化を図る",
+    "url": "https://www.future.co.jp/company_profile/corporate_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "世界の技術動向を見定め最新の技術を選定してお客様に提供することで、未来価値の最大化に努める",
+    "url": "https://www.future.co.jp/company_profile/corporate_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "フューチャーはこれまで国内外の投資家やアナリストの皆様と積極的にコミュニケーションを図ってきましたが、社会課題を経営に取り込み、持続可能な成長を実現するサステナビリティ経営の動きが世界的に高まるなかで、従来の財務情報に加えてSDGsやESG、ダイバーシティ＆インクルージョンなどの非財務情報を世界に向けて積極的に発信し、お客様や従業員、従業員の家族といった幅広いステークホルダーの方々と、企業価値向上のために議論する場を設けたいと考えました",
+    "url": "https://www.future.co.jp/investor_relations/integrated_report/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、フューチャーグループのコアビジネスであるITコンサルティング事業では、IT戦略パートナーとして常にお客様に寄り添い、経営・業務・ITの三位一体で様々な業界のDXやビジネス変革を推進してきました",
+    "url": "https://www.future.co.jp/investor_relations/integrated_report/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様とともに挑戦を続け、新しい価値を創造するという考えのもと、FUTURE",
+    "url": "https://www.future.co.jp/investor_relations/integrated_report/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の経営改革や業務改革、およびフューチャーグループが提供するシステムやサービスをつうじて未来に新しい価値を創造し、社会課題の解決やよりよい社会に向けて変革をリードします",
+    "url": "https://www.future.co.jp/investor_relations/integrated_report/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "たとえば、日本の企業にとって大きな課題であるDX化・クラウド化は、お客様の事業の柔軟性や効率性を高めるだけでなく、働き方改革や地域活性化、省電力化による環境負荷低減など、日本が抱える社会課題の解決にもつながります",
+    "url": "https://www.future.co.jp/investor_relations/integrated_report/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "フューチャーグループは「世の中にないものはつくる」を信条に、テクノロジーをベースとした革新的なビジネスやサービスから得られた知見をお客様に提供する付加価値に転換していくことで、ビジネス変革や社会の発展に貢献します",
+    "url": "https://www.future.co.jp/investor_relations/integrated_report/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "刻々と変化する世界の技術動向を見定め、お客様の課題解決に向けて最新の技術を選定して提供するだけでなく、解決するための仕組みがまだ世の中に存在しない場合は、自ら設計・開発しています",
+    "url": "https://www.future.co.jp/investor_relations/integrated_report/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客満足度調査（JCSI）",
+    "url": "https://www.jpc-net.jp/column/detail/004526.html",
+    "pass": 3
+   },
+   {
+    "quote": "経営品質・顧客満足",
+    "url": "https://www.jpc-net.jp/column/detail/004526.html",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "売上高営業利益率",
+    "url": "https://www.future.co.jp/investor_relations/",
+    "pass": 1
+   },
+   {
+    "quote": "変革の最大の原動力であり、フューチャーグループの最大の強みであるのが、テクノロジーを目利きする力とそれを実装する力です",
+    "url": "https://www.future.co.jp/investor_relations/integrated_report/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "このようにプロジェクトごとに最適なテクノロジーを選び、新しいビジネスアイデアとして実装できることが、経営とITの両輪でノウハウを積み上げてきたフューチャーグループの強みです",
+    "url": "https://www.future.co.jp/investor_relations/integrated_report/about.html",
+    "pass": 1
+   }
+  ],
+  "何を": [
+   {
+    "quote": "私たちは、今後もこれまでに培った知見とノウハウを活かしたオリジナルなサービスを開発・提供するとともに、持株会社制のメリットを活かしてグループ企業のコラボレーション強化とシナジー拡大を図り、独自の付加価値の提供に努めていきます",
+    "url": "https://www.future.co.jp/investor_relations/top_message/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、クラウドサービスの利用および提供にあたり、クラウド事業者と利用者間の責任分界を明確にし、それぞれの役割に応じた適切なセキュリティ管理を実施します",
+    "url": "https://www.future.co.jp/investor_relations/security_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、情報テクノロジーを核としたITコンサルティング・ソフトウエア開発販売をサービスドメインにしていることから、セキュリティに関して、テクノロジーの側面から範たるべきこと",
+    "url": "https://www.future.co.jp/investor_relations/security_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "当社及びグループ関連会社のITソリューションサービスをご利用する方が保有する個人情報",
+    "url": "https://www.future.co.jp/investor_relations/privacy_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "当社及びグループ関連会社のITソリューションサービスのご紹介、提案、各種セミナー、イベント等の開催のご案内の際に、必要な範囲において利用するため",
+    "url": "https://www.future.co.jp/investor_relations/privacy_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "当社へ個人情報を提供されるか否かは、ご本人のご判断によりますが、個人情報を提供されない場合は、当社からの適切なサービスが受けられないことがありますので、予めご了承ください",
+    "url": "https://www.future.co.jp/investor_relations/privacy_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ経営戦略、新事業・サービスの企画立案",
+    "url": "https://www.future.co.jp/company_profile/corporate_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "ITコンサルティング＆サービス事業",
+    "url": "https://www.future.co.jp/company_profile/corporate_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "(主流領域:金融、流通、サービス)",
+    "url": "https://www.future.co.jp/company_profile/corporate_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "スポーツ・アウトドア商品等の企画、販売",
+    "url": "https://www.future.co.jp/company_profile/corporate_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "ITコンサルティング、ソリューションの提供",
+    "url": "https://www.future.co.jp/company_profile/corporate_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "当社 エンタープライズサービスグループ長",
+    "url": "https://www.future.co.jp/company_profile/corporate_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "当社 エンタープライズビジネス本部長 兼 公共サービスグループ長",
+    "url": "https://www.future.co.jp/company_profile/corporate_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "ITコンサルタントして流通サービス業を中心に数多くのプロジェクトに携わる",
+    "url": "https://www.future.co.jp/company_profile/corporate_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "コーポレートファミリーサービス担当",
+    "url": "https://www.future.co.jp/company_profile/corporate_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ザクラ（現東京カレンダー株式会社）がメディアサービス事業を継承",
+    "url": "https://www.future.co.jp/company_profile/corporate_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の経営改革や業務改革、およびフューチャーグループが提供するシステムやサービスをつうじて未来に新しい価値を創造し、社会課題の解決やよりよい社会に向けて変革をリードします",
+    "url": "https://www.future.co.jp/investor_relations/integrated_report/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "フューチャーグループは「世の中にないものはつくる」を信条に、テクノロジーをベースとした革新的なビジネスやサービスから得られた知見をお客様に提供する付加価値に転換していくことで、ビジネス変革や社会の発展に貢献します",
+    "url": "https://www.future.co.jp/investor_relations/integrated_report/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "フューチャーグループは2016年に持株体制へと移行し、コアビジネスであるITコンサルティング事業と、それまで培ってきた知見とノウハウをオリジナルサービスとして展開するビジネスイノベーション事業の「2WAY戦略」によって、グループ全体の成長を図ってきました",
+    "url": "https://www.future.co.jp/investor_relations/integrated_report/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "変化を恐れず成長する組織へ～製造・エネルギーサービス事業部の挑戦～",
+    "url": "https://note.future.co.jp/m/mc4cc99038085?gs=edfa207cd8001e8aaf932eca4a7affa9",
+    "pass": 3
+   },
+   {
+    "quote": "その手で、10年先の社会基盤を創らないか？フューチャー公共サービス事業部の挑戦と未来",
+    "url": "https://note.future.co.jp/m/mc4cc99038085?gs=edfa207cd8001e8aaf932eca4a7affa9",
+    "pass": 3
+   },
+   {
+    "quote": "「フューチャーの縮図」流通サービス事業部のご紹介",
+    "url": "https://note.future.co.jp/m/mc4cc99038085?gs=edfa207cd8001e8aaf932eca4a7affa9",
+    "pass": 3
+   },
+   {
+    "quote": "本来、生産性と品質を担保し、ソリューションとして備わっているものがデジタルなシステムだが、日本の縦割り行政のシステムは全体設計がなく、部分を継ぎ接ぎしながら凌いでいるためだ",
+    "url": "https://www.jpc-net.jp/column/detail/004526.html",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "ITの進化が経済、社会の変化をグローバル規模で加速させる中、フューチャーグループは企業経営者のパートナーとしてビジネスのあるべき姿を考え抜き、そのための最適な仕組みを高い技術力で実現するという、独自のコンサルティングスタイルを築き上げてきました",
+    "url": "https://www.future.co.jp/investor_relations/top_message/",
+    "pass": 1
+   },
+   {
+    "quote": "事業ポートフォリオ、事業実績などの財務情報に加えて、SDGs、ESG、ダイバーシティ&インクルージョンの取組みといった非財務情報も紹介しています",
+    "url": "https://www.future.co.jp/investor_relations/integrated_report/",
+    "pass": 1
+   },
+   {
+    "quote": "フューチャー株式会社（以下「当社」といいます）では、以下の者を、「個人情報保護責任者」に指名し、個人情報保護のための対策立案、実施及び運用、 評価、改善など、個人情報保護のために必要な対策を行っております",
+    "url": "https://www.future.co.jp/investor_relations/privacy_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "当社及びグループ関連会社のITソリューションサービスのご紹介、提案、各種セミナー、イベント等の開催のご案内の際に、必要な範囲において利用するため",
+    "url": "https://www.future.co.jp/investor_relations/privacy_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "アスパラントグループ株式会社 シニアパートナー",
+    "url": "https://www.future.co.jp/company_profile/corporate_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "アスパラントグループ株式会社 副会長 ファウンディングパートナー（現任）",
+    "url": "https://www.future.co.jp/company_profile/corporate_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社アルバ・パートナーズ 設立 代表取締役（現任）",
+    "url": "https://www.future.co.jp/company_profile/corporate_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "また過去の取組みを紹介するだけでなく、未来への対話を促すアジェンダを提供している点が大きな特長です",
+    "url": "https://www.future.co.jp/investor_relations/integrated_report/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "NOWはフューチャーグループの現状がわかるリンク集で、事業ポートフォリオ、事業実績などの財務情報に加えて、SDGs、ESG、ダイバーシティ＆インクルージョンの取組みといった非財務情報も紹介しています",
+    "url": "https://www.future.co.jp/investor_relations/integrated_report/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、フューチャーグループのコアビジネスであるITコンサルティング事業では、IT戦略パートナーとして常にお客様に寄り添い、経営・業務・ITの三位一体で様々な業界のDXやビジネス変革を推進してきました",
+    "url": "https://www.future.co.jp/investor_relations/integrated_report/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業ポートフォリオ、事業実績などの財務情報に加えて、SDGs、ESG、ダイバーシティ&インクルージョンの取組みといった非財務情報も紹介しています",
+    "url": "https://www.future.co.jp/investor_relations/integrated_report/now.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業ポートフォリオ、事業実績などの財務情報に加えて、SDGs、ESG、ダイバーシティ&インクルージョンの取組みといった非財務情報も紹介しています",
+    "url": "https://www.future.co.jp/investor_relations/integrated_report/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "「フューチャーの縮図」流通サービス事業部のご紹介",
+    "url": "https://note.future.co.jp/m/mc4cc99038085?gs=edfa207cd8001e8aaf932eca4a7affa9",
+    "pass": 3
+   },
+   {
+    "quote": "フューチャーのサイバーセキュリティ領域の魅力を紹介します！",
+    "url": "https://note.future.co.jp/m/mc4cc99038085?gs=edfa207cd8001e8aaf932eca4a7affa9",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルタント紹介",
+    "url": "https://www.jpc-net.jp/column/detail/004526.html",
+    "pass": 3
+   },
+   {
+    "quote": "金丸氏の提言は、企業がそもそも数が限られている優秀なデジタル人材の採用を目指す人事戦略を見直し、重要プロジェクトごとに質的補完と量的補完とに切り分けた上で、長期的なパートナーシップの契約締結を目指すことだ",
+    "url": "https://www.jpc-net.jp/column/detail/004526.html",
+    "pass": 3
+   },
+   {
+    "quote": "労働組合が「経営者としてふさわしい人物」を発表するだけでも、外部主体の指名報酬委員会、株主やその他のステークホルダー（利害関係者）にも、大きなインパクトを与えるのではないだろうか",
+    "url": "https://www.jpc-net.jp/column/detail/004526.html",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2025年度",
+    "url": "https://www.future.co.jp/investor_relations/ir_event/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月26日",
+    "url": "https://www.future.co.jp/investor_relations/ir_event/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期 定時株主総会",
+    "url": "https://www.future.co.jp/investor_relations/ir_event/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.future.co.jp/investor_relations/ir_event/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月25日",
+    "url": "https://www.future.co.jp/investor_relations/ir_event/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年12月期 定時株主総会",
+    "url": "https://www.future.co.jp/investor_relations/ir_event/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://www.future.co.jp/investor_relations/ir_event/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月27日",
+    "url": "https://www.future.co.jp/investor_relations/ir_event/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年12月期 定時株主総会",
+    "url": "https://www.future.co.jp/investor_relations/ir_event/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度",
+    "url": "https://www.future.co.jp/investor_relations/ir_event/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月23日",
+    "url": "https://www.future.co.jp/investor_relations/ir_event/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年12月期 定時株主総会",
+    "url": "https://www.future.co.jp/investor_relations/ir_event/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年度",
+    "url": "https://www.future.co.jp/investor_relations/ir_event/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月23日",
+    "url": "https://www.future.co.jp/investor_relations/ir_event/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年12月期 定時株主総会",
+    "url": "https://www.future.co.jp/investor_relations/ir_event/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年度",
+    "url": "https://www.future.co.jp/investor_relations/ir_event/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月24日",
+    "url": "https://www.future.co.jp/investor_relations/ir_event/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年12月期 定時株主総会",
+    "url": "https://www.future.co.jp/investor_relations/ir_event/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年度",
+    "url": "https://www.future.co.jp/investor_relations/ir_event/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月25日",
+    "url": "https://www.future.co.jp/investor_relations/ir_event/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年12月期 定時株主総会",
+    "url": "https://www.future.co.jp/investor_relations/ir_event/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年度",
+    "url": "https://www.future.co.jp/investor_relations/ir_event/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年3月26日",
+    "url": "https://www.future.co.jp/investor_relations/ir_event/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年12月期 定時株主総会",
+    "url": "https://www.future.co.jp/investor_relations/ir_event/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年度",
+    "url": "https://www.future.co.jp/investor_relations/ir_event/",
+    "pass": 1
+   },
+   {
+    "quote": "2002年2月25日制定",
+    "url": "https://www.future.co.jp/investor_relations/security_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月26日最終改定",
+    "url": "https://www.future.co.jp/investor_relations/security_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "2005年2月22日制定",
+    "url": "https://www.future.co.jp/investor_relations/privacy_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月26日最終改定",
+    "url": "https://www.future.co.jp/investor_relations/privacy_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "1989年11月28日",
+    "url": "https://www.future.co.jp/company_profile/corporate_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "1979年4月",
+    "url": "https://www.future.co.jp/company_profile/corporate_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "1982年4月",
+    "url": "https://www.future.co.jp/company_profile/corporate_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "1985年9月",
+    "url": "https://www.future.co.jp/company_profile/corporate_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "1989年11月",
+    "url": "https://www.future.co.jp/company_profile/corporate_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2006年3月",
+    "url": "https://www.future.co.jp/company_profile/corporate_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2007年1月",
+    "url": "https://www.future.co.jp/company_profile/corporate_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2011年3月",
+    "url": "https://www.future.co.jp/company_profile/corporate_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年7月",
+    "url": "https://www.future.co.jp/company_profile/corporate_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年4月",
+    "url": "https://www.future.co.jp/company_profile/corporate_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月",
+    "url": "https://www.future.co.jp/company_profile/corporate_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月",
+    "url": "https://www.future.co.jp/company_profile/corporate_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "1983年4月",
+    "url": "https://www.future.co.jp/company_profile/corporate_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "1987年2月",
+    "url": "https://www.future.co.jp/company_profile/corporate_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "1996年7月",
+    "url": "https://www.future.co.jp/company_profile/corporate_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "1997年1月",
+    "url": "https://www.future.co.jp/company_profile/corporate_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2003年10月",
+    "url": "https://www.future.co.jp/company_profile/corporate_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年3月",
+    "url": "https://www.future.co.jp/company_profile/corporate_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月",
+    "url": "https://www.future.co.jp/company_profile/corporate_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年10月",
+    "url": "https://www.future.co.jp/company_profile/corporate_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2002年7月",
+    "url": "https://www.future.co.jp/company_profile/corporate_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2013年4月",
+    "url": "https://www.future.co.jp/company_profile/corporate_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年4月",
+    "url": "https://www.future.co.jp/company_profile/corporate_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年3月",
+    "url": "https://www.future.co.jp/company_profile/corporate_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年4月",
+    "url": "https://www.future.co.jp/company_profile/corporate_profile/",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "（例）情報システムの開発、保守、運用、及び関連する業務を遂行するにあたり、必要最低限の範囲において、お客様及びお客様の取引先の個人情報を利用する必要がある場合など",
+    "url": "https://www.future.co.jp/investor_relations/privacy_policy/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "フューチャー の ビジネス - 未来報 - フューチャー株式会社 — フューチャー の ビジネス - 未来報 - フューチャー株式会社 未来報 https://note.future.co.jp > ...",
+    "url": "https://note.future.co.jp/m/mc4cc99038085",
+    "pass": 3
+   },
+   {
+    "quote": "Future GROUP - フューチャー株式会社 — Future GROUP - フューチャー株式会社 フューチャー株式会社 https://www.future.co.jp > company_profile > future_group",
+    "url": "https://www.future.co.jp/company_profile/future_group/",
+    "pass": 3
+   },
+   {
+    "quote": "フューチャー （ フューチャー アーキテクト）の企業情報 - CFN — フューチャー （ フューチャー アーキテクト）の企業情報 - CFN CFN https://careerforum.net > companylist_33 > company_detail",
+    "url": "https://careerforum.net/ja/event/bos/companylist_33/688/company_detail/",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリ - 決算 短信 - フューチャー株式会社 — IRライブラリ - 決算 短信 - フューチャー株式会社 フューチャー株式会社 https://www.future.co.jp > investor_relations > ir_library",
+    "url": "https://www.future.co.jp/investor_relations/ir_library/",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家の皆様へ - フューチャー株式会社 — 株主・投資家の皆様へ - フューチャー株式会社 フューチャー株式会社 https://www.future.co.jp > investor_relations",
+    "url": "https://www.future.co.jp/investor_relations/",
+    "pass": 3
+   },
+   {
+    "quote": "【 フューチャー 】[4722]IR情報 中期経営計画や 決算 短信 | 日経 ... — 【 フューチャー 】[4722]IR情報 中期経営計画や 決算 短信 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=4722",
+    "pass": 3
+   },
+   {
+    "quote": "IRニュース - フューチャー株式会社 — IRニュース - フューチャー株式会社 フューチャー株式会社 https://www.future.co.jp > investor_relations > ir_news",
+    "url": "https://www.future.co.jp/investor_relations/ir_news/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - フューチャー株式会社 — 会社概要 - フューチャー株式会社 フューチャー株式会社 https://www.future.co.jp > corporate_profile",
+    "url": "https://www.future.co.jp/company_profile/corporate_profile/",
+    "pass": 3
+   },
+   {
+    "quote": "CORPORATE PROFILE | フューチャー アーキテクト株式会社 — CORPORATE PROFILE | フューチャー アーキテクト株式会社 フューチャー株式会社 https://www.future.co.jp > architect > corporate_profile",
+    "url": "https://www.future.co.jp/architect/corporate_profile/corporate_profile/",
+    "pass": 3
+   },
+   {
+    "quote": "事例・実績 | フューチャー アーキテクト株式会社 — 事例・実績 | フューチャー アーキテクト株式会社 フューチャー株式会社 https://www.future.co.jp > architect > our_service > case",
+    "url": "https://www.future.co.jp/architect/our_service/case/",
+    "pass": 3
+   },
+   {
+    "quote": "フューチャー ｜会社説明 vol1.会社概要・ビジネス編 - YouTube — フューチャー ｜会社説明 vol1.会社概要・ビジネス編 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=EeLFWFmHw-s",
+    "pass": 3
+   },
+   {
+    "quote": "事業 報告｜ フューチャー 株式会社 スマート招集 — 事業 報告｜ フューチャー 株式会社 スマート招集 p.sokai.jp https://p.sokai.jp > report",
+    "url": "https://p.sokai.jp/4722/report/",
+    "pass": 3
+   },
+   {
+    "quote": "MESSAGE | フューチャー 採用情報 — MESSAGE | フューチャー 採用情報 フューチャー株式会社 https://www.future.co.jp > recruit > message",
+    "url": "https://www.future.co.jp/recruit/message/",
+    "pass": 3
+   },
+   {
+    "quote": "コロナ危機に克つ：金丸 恭文 フューチャー 代表取締役会長兼 ... — コロナ危機に克つ：金丸 恭文 フューチャー 代表取締役会長兼 ... 公益財団法人日本生産性本部 https://www.jpc-net.jp > コラム・事例 > コロナ危機",
+    "url": "https://www.jpc-net.jp/column/detail/004526.html",
+    "pass": 3
+   },
+   {
+    "quote": "フューチャー アーキテクト株式会社に社名変更。同社会長 — フューチャー アーキテクト株式会社に社名変更。同社会長 kanjuku-hiraku.com http://www.kanjuku-hiraku.com > interview",
+    "url": "http://www.kanjuku-hiraku.com/interview/116_2.html",
+    "pass": 3
+   },
+   {
+    "quote": "フューチャー アーキテクト株式会社 | 注目企業 インタビュー — フューチャー アーキテクト株式会社 | 注目企業 インタビュー liber.co.jp https://www.liber.co.jp > 注目企業インタビュー",
+    "url": "https://www.liber.co.jp/corporate-interview/fua/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.future.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.future.co.jp/company_profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.future.co.jp/investor_relations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.future.co.jp/investor_relations/top_message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.future.co.jp/investor_relations/ir_news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.future.co.jp/investor_relations/ir_library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.future.co.jp/investor_relations/ir_event/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.future.co.jp/investor_relations/info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.future.co.jp/investor_relations/integrated_report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.future.co.jp/investor_relations/security_policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.future.co.jp/investor_relations/privacy_policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.future.co.jp/company_profile/corporate_profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.future.co.jp/investor_relations/ir_library/?tp=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.future.co.jp/investor_relations/ir_library/?tp=3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.future.co.jp/investor_relations/integrated_report/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.future.co.jp/investor_relations/integrated_report/now.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.future.co.jp/en/investor_relations/integrated_report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.future.co.jp/investor_relations/integrated_report/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.future.co.jp/en/investor_relations/integrated_report/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.future.co.jp/en/investor_relations/integrated_report/now.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.future.co.jp/en/investor_relations/integrated_report/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.future.co.jp/en/investor_relations/privacy_policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.future.co.jp/en/investor_relations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.future.co.jp/en/about_us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.future.co.jp/en/about_us/csr/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.future.co.jp/investor_relations/PDF/hd-KaijiShinsei.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.future.co.jp/en/investor_relations/integrated_report/assets/dist/img/now/sec3-img1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.future.co.jp/m/mc4cc99038085?gs=edfa207cd8001e8aaf932eca4a7affa9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpc-net.jp/column/detail/004526.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "フューチャー",
+   "results": [
+    "https://www.future.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A5%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC_(%E3%83%A9%E3%83%83%E3%83%91%E3%83%BC)",
+    "https://ejje.weblio.jp/content/future",
+    "https://cn.linkedin.com/company/future-corporation",
+    "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A5%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC",
+    "https://ja.wikipedia.org/wiki/フューチャー",
+    "https://ja.wikipedia.org/wiki/フューチャー_(企業)",
+    "https://www.future.co.jp/company_profile/corporate_profile/",
+    "https://finance.yahoo.co.jp/quote/4722.T/profile",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=4722"
+   ]
+  },
+  {
+   "query": "フューチャー ビジネスモデル",
+   "results": [
+    "https://note.future.co.jp/m/mc4cc99038085",
+    "https://www.future.co.jp/company_profile/future_group/",
+    "https://www.nri.com/jp/knowledge/glossary/busi_method.html",
+    "https://careerforum.net/ja/event/bos/companylist_33/688/company_detail/",
+    "https://open.talentio.com/r/1/c/future/pages/93291",
+    "https://monstar-lab.com/dx/solution/about-businessmodel/",
+    "https://www.future.co.jp/architect/our_service/case/",
+    "https://my-vision.co.jp/consultant/it/firms/future",
+    "https://www.youtube.com/watch?v=h7xdCb7r2wk",
+    "https://futuremodel.co.jp/company/"
+   ]
+  },
+  {
+   "query": "フューチャー 決算説明資料",
+   "results": [
+    "https://www.future.co.jp/investor_relations/ir_library/",
+    "https://www.future.co.jp/investor_relations/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=4722",
+    "https://www.future.co.jp/investor_relations/ir_news/",
+    "https://global-assets.irdirect.jp/pdf/menu_file/4722/20250207110236_8384.pdf",
+    "https://www.futurelink.co.jp/ir/",
+    "https://www.future.co.jp/investor_relations/ir_event/",
+    "https://edinetdb.jp/company/E05033/presentations/",
+    "https://edinetdb.jp/company/E05033/ir-docs/",
+    "https://www.buffett-code.com/company/4722/library"
+   ]
+  },
+  {
+   "query": "フューチャー 事業系統図",
+   "results": [
+    "https://www.future.co.jp/company_profile/corporate_profile/",
+    "https://www.future.co.jp/architect/corporate_profile/corporate_profile/",
+    "https://www.future.co.jp/architect/our_service/case/",
+    "https://www.youtube.com/watch?v=EeLFWFmHw-s",
+    "https://p.sokai.jp/4722/report/",
+    "https://www.future.co.jp/",
+    "https://global-assets.irdirect.jp/pdf/menu_file/4722/20230925170613_8654.pdf",
+    "https://the-shashi.com/tse/4722/",
+    "https://www.future.co.jp/recruit/strength/",
+    "https://ja.wikipedia.org/wiki/フューチャー_(企業)"
+   ]
+  },
+  {
+   "query": "フューチャー 社長 インタビュー",
+   "results": [
+    "https://www.future.co.jp/recruit/message/",
+    "https://www.jpc-net.jp/column/detail/004526.html",
+    "https://globe.asahi.com/article/14504518",
+    "http://www.kanjuku-hiraku.com/interview/116_2.html",
+    "https://www.liber.co.jp/corporate-interview/fua/",
+    "https://typeshukatsu.jp/s/article/industry/it/c-1162-2/31543/",
+    "https://business.nikkei.com/atcl/NBD/19/00119/00273/",
+    "https://www.axc.ne.jp/introduction/interview/futurearchitect/001/index.html",
+    "https://www.youtube.com/watch?v=h7xdCb7r2wk",
+    "https://www.future.co.jp/press_room/media/"
+   ]
+  }
+ ],
+ "missing": {
+  "ビジネスモデル": "記載なし（3回確認済み：公式25頁／PDF・画像2件／外部2頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式25頁／PDF・画像2件／外部2頁・検索5回）"
+ }
+}

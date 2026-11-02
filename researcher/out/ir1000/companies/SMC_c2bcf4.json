@@ -1,0 +1,996 @@
+{
+ "name": "ＳＭＣ",
+ "aliases": [],
+ "context": "証券コード6273／機械／プライム（内国株式）／2026.03期 売上高842,541百万円 営業利益率22.6%",
+ "researched_at": "2026-11-02T17:37:16.122037+00:00",
+ "official_url": "https://www.smc.edu/",
+ "identified_by": "search:yahoo_jp:SMC",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1959 年（昭和34 年）4 月27 日",
+    "url": "https://www.smcworld.com/about/ja-jp/index.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "1959年4月",
+    "url": "https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "8,425 億円(連結) ※",
+    "url": "https://www.smcworld.com/about/ja-jp/index.html",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "5521億円",
+    "url": "https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "24,773 名(連結) ※",
+    "url": "https://www.smcworld.com/about/ja-jp/index.html",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "2万619人（2021年3月末、連結）",
+    "url": "https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "自動制御機器製品の製造加工および販売 焼結濾過体および各種濾過装置の製造および販売",
+    "url": "https://www.smcworld.com/about/ja-jp/index.html",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "自動制御機器製品の製造・加工・販売など",
+    "url": "https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "SMCは、技術・製造・営業の各部門が緊密に連携して、世界中のお客様からのご要望に応える取り組みを続けています",
+    "url": "https://www.smcworld.com/ir/ja-jp/investor.html",
+    "pass": 3
+   },
+   {
+    "quote": "性能や耐久性の向上はもちろん、小型化・軽量化、製造時のCO2排出量削減など、多様化し高度化するお客様のニーズにお応えするため、研究開発に取り組んでいます",
+    "url": "https://www.smcworld.com/ir/ja-jp/investor.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界中のお客様に、製品を高品質、低コスト、短納期でお届けするため、生産管理システムを整備しています",
+    "url": "https://www.smcworld.com/ir/ja-jp/investor.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の課題解決に向け、共に考える",
+    "url": "https://www.smcworld.com/ir/ja-jp/investor.html",
+    "pass": 3
+   },
+   {
+    "quote": "営業スタッフが、CO2排出量の削減、ライン停止の防止、省スペース、コストダウンなどお客様の課題解決に向けて、最適な提案に努めています",
+    "url": "https://www.smcworld.com/ir/ja-jp/investor.html",
+    "pass": 3
+   },
+   {
+    "quote": "SMCは、お客様のエネルギー消費量を大きく削減できる新製品を続々と開発しています",
+    "url": "https://www.smcworld.com/ir/ja-jp/investor.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様のニーズに応じた製品開発と、技術サポートを提供しています",
+    "url": "https://www.smcworld.com/ir/ja-jp/investor.html",
+    "pass": 3
+   },
+   {
+    "quote": "SMCの生産拠点・物流拠点は、お客様のニーズに応える多品種少量生産と、生産効率の向上の両立に取り組んでいます",
+    "url": "https://www.smcworld.com/ir/ja-jp/investor.html",
+    "pass": 3
+   },
+   {
+    "quote": "グループの連携を密にして、お客様へのサービス向上と、",
+    "url": "https://www.smcworld.com/ir/ja-jp/investor.html",
+    "pass": 3
+   },
+   {
+    "quote": "創業当初から掲げる「顧客第一主義」のもと、お客様のご要望にお応えする形で、空気圧機器をはじめとする自動制御機器の製造販売を開始したSMCは、製造・販売・研究開発のグローバル展開を進め、世界トップシェアの空気圧機器の総合メーカーとして、成長を続けています",
+    "url": "https://www.smcworld.com/ir/ja-jp/investor.html",
+    "pass": 3
+   },
+   {
+    "quote": "MUFGが拓く富裕層ビジネスの新たな地平「エムット Excellent Club」の顧客戦略",
+    "url": "https://forbesjapan.com/articles/detail/45525",
+    "pass": 3
+   },
+   {
+    "quote": "「昔は、お客様から『もうかっているなら安くしろ』と迫られるのを避ける意図があったとか",
+    "url": "https://forbesjapan.com/articles/detail/45525",
+    "pass": 3
+   },
+   {
+    "quote": "SMCの温調機器はお客様に実際に機器をテストして頂き、ご購入の検討をしていただける貸出しサービスや24時間のサポート体制で安心してお使いいただけます",
+    "url": "https://www.smcworld.com/about/ja-jp/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、リースをご希望されるお客様にはリース会社をご紹介することができます",
+    "url": "https://www.smcworld.com/about/ja-jp/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "食品や医療機器は伝統的に欧州、特にドイツ語圏であるドイツ、スイス、オーストリアなどが強いので、この地域での顧客開拓を狙います",
+    "url": "https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c",
+    "pass": 3
+   },
+   {
+    "quote": "システム導入により、顧客企業は必要以上に工場内に高い空気圧をかけずに済み、省電力が実現できます",
+    "url": "https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c",
+    "pass": 3
+   },
+   {
+    "quote": "A SMCアメリカの社長時代、納期が遅れ、毎朝、顧客からの問い合わせに追われました",
+    "url": "https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c",
+    "pass": 3
+   },
+   {
+    "quote": "大変な経験でしたが、今もその顧客は当社製品を使ってくれています",
+    "url": "https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "SMCの製品",
+    "url": "https://www.smcworld.com/ir/ja-jp/investor.html",
+    "pass": 3
+   },
+   {
+    "quote": "環境性能に優れた製品開発",
+    "url": "https://www.smcworld.com/ir/ja-jp/investor.html",
+    "pass": 3
+   },
+   {
+    "quote": "スマートフォン、自動車、飲料、靴など、私たちの生活に欠かせない多くの製品が、自動化された工場で大量生産されています",
+    "url": "https://www.smcworld.com/ir/ja-jp/investor.html",
+    "pass": 3
+   },
+   {
+    "quote": "SMCの主力製品である「空気圧機器」は、圧縮空気の力を利用したFA機器です",
+    "url": "https://www.smcworld.com/ir/ja-jp/investor.html",
+    "pass": 3
+   },
+   {
+    "quote": "代表的な製品",
+    "url": "https://www.smcworld.com/ir/ja-jp/investor.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品開発に取り組む",
+    "url": "https://www.smcworld.com/ir/ja-jp/investor.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界中のお客様に、製品を高品質、低コスト、短納期でお届けするため、生産管理システムを整備しています",
+    "url": "https://www.smcworld.com/ir/ja-jp/investor.html",
+    "pass": 3
+   },
+   {
+    "quote": "開発された製品事例",
+    "url": "https://www.smcworld.com/ir/ja-jp/investor.html",
+    "pass": 3
+   },
+   {
+    "quote": "SMCは、お客様のエネルギー消費量を大きく削減できる新製品を続々と開発しています",
+    "url": "https://www.smcworld.com/ir/ja-jp/investor.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様のニーズに応じた製品開発と、技術サポートを提供しています",
+    "url": "https://www.smcworld.com/ir/ja-jp/investor.html",
+    "pass": 3
+   },
+   {
+    "quote": "SMCは、70万品目を超える製品群を取り揃え、戦略的に厚めの在庫を保持して、短納期即納体制を整えています",
+    "url": "https://www.smcworld.com/ir/ja-jp/investor.html",
+    "pass": 3
+   },
+   {
+    "quote": "グループの連携を密にして、お客様へのサービス向上と、",
+    "url": "https://www.smcworld.com/ir/ja-jp/investor.html",
+    "pass": 3
+   },
+   {
+    "quote": "いかなる非常事態にも製品供給を継続できるBCP(事業継続計画)の体制強化に努めています",
+    "url": "https://www.smcworld.com/ir/ja-jp/investor.html",
+    "pass": 3
+   },
+   {
+    "quote": "現地サービス",
+    "url": "https://www.smcworld.com/ir/ja-jp/investor.html",
+    "pass": 3
+   },
+   {
+    "quote": "電子版ビューア サービス再開のご報告",
+    "url": "https://forbesjapan.com/articles/detail/45525",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、認知度が低いのは、製品分野だけが理由ではない",
+    "url": "https://forbesjapan.com/articles/detail/45525",
+    "pass": 3
+   },
+   {
+    "quote": "SMCの製品",
+    "url": "https://www.smcworld.com/ir/ja-jp/briefing-materials.html",
+    "pass": 3
+   },
+   {
+    "quote": "環境性能に優れた製品開発",
+    "url": "https://www.smcworld.com/ir/ja-jp/briefing-materials.html",
+    "pass": 3
+   },
+   {
+    "quote": "SMCの製品",
+    "url": "https://www.smcworld.com/ir/ja-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "環境性能に優れた製品開発",
+    "url": "https://www.smcworld.com/ir/ja-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.smcworld.com/about/ja-jp/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品・ソリューション",
+    "url": "https://www.smcworld.com/about/ja-jp/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "生産終了製品のご案内",
+    "url": "https://www.smcworld.com/about/ja-jp/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "SMC製品取扱注意事項",
+    "url": "https://www.smcworld.com/about/ja-jp/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "ドライヤメンテナンスサービスのご案内",
+    "url": "https://www.smcworld.com/about/ja-jp/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "業種別ソリューションのご紹介",
+    "url": "https://www.smcworld.com/about/ja-jp/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "課題別ソリューションのご紹介",
+    "url": "https://www.smcworld.com/about/ja-jp/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Handling Lab サービスのご案内",
+    "url": "https://www.smcworld.com/about/ja-jp/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "サーモチラー保証延長サービス",
+    "url": "https://www.smcworld.com/about/ja-jp/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "国際規格対応製品ガイド",
+    "url": "https://www.smcworld.com/about/ja-jp/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品品番確認",
+    "url": "https://www.smcworld.com/about/ja-jp/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "自動制御機器製品の製造加工および販売",
+    "url": "https://www.smcworld.com/about/ja-jp/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要製品 空気圧制御システム",
+    "url": "https://www.smcworld.com/about/ja-jp/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "周辺分野に広がるSMC製品",
+    "url": "https://www.smcworld.com/about/ja-jp/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "貸出サービスのご案内",
+    "url": "https://www.smcworld.com/about/ja-jp/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "既存製品（VBAシリーズ）より15dB（A）低減",
+    "url": "https://www.smcworld.com/about/ja-jp/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "・既存製品（VBAシリーズ）と取付互換",
+    "url": "https://www.smcworld.com/about/ja-jp/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "サーモチラーは、温度コントロールした循環液で設備や装置の熱源を温調する製品です",
+    "url": "https://www.smcworld.com/about/ja-jp/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "SMCの温調機器はお客様に実際に機器をテストして頂き、ご購入の検討をしていただける貸出しサービスや24時間のサポート体制で安心してお使いいただけます",
+    "url": "https://www.smcworld.com/about/ja-jp/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "メンテナンスサービス",
+    "url": "https://www.smcworld.com/about/ja-jp/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "貸出サービス",
+    "url": "https://www.smcworld.com/about/ja-jp/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "保証延長サービス",
+    "url": "https://www.smcworld.com/about/ja-jp/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "バータイプ・ノズルタイプ・ファンタイプ・ガンタイプ等の除電エリアやワークの大きさに対応した幅広い製品を取り揃えております",
+    "url": "https://www.smcworld.com/about/ja-jp/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "食品衛生対応：NSFやFDA、HACCPなどの食品規格へ貢献できる製品やスマート農業・自動制御化が進む農業といった幅広い用途でお使いいただける製品も多数ご用意しています",
+    "url": "https://www.smcworld.com/about/ja-jp/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "── 主力の空気圧機器とはどのような製品でしょうか",
+    "url": "https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c",
+    "pass": 3
+   },
+   {
+    "quote": "── 具体的に、どのような製品を作っているのですか",
+    "url": "https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c",
+    "pass": 3
+   },
+   {
+    "quote": "高田 空気圧で物を動かす「エアーシリンダー」、空気の流れを制御する「バルブ」、空気内の余分な熱や水分を除去する「ドライヤー」などの空気圧機器を中心に、半導体製造に使われる薬液の温度管理に使う温調機器や各種センサーなども含め、自動制御機器関連で70万品目を超える製品を製造しています",
+    "url": "https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c",
+    "pass": 3
+   },
+   {
+    "quote": "空気圧機器はもともと環境負荷が低いうえ、当社の製品は同じ大きさの物を動かすにも、他社より軽量小型で済みます",
+    "url": "https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c",
+    "pass": 3
+   },
+   {
+    "quote": "大変な経験でしたが、今もその顧客は当社製品を使ってくれています",
+    "url": "https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容：自動制御機器製品の製造・加工・販売など",
+    "url": "https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "豊富な品揃えと潤沢な在庫",
+    "url": "https://www.smcworld.com/ir/ja-jp/investor.html",
+    "pass": 3
+   },
+   {
+    "quote": "SMCは、70万品目を超える製品群を取り揃え、戦略的に厚めの在庫を保持して、短納期即納体制を整えています",
+    "url": "https://www.smcworld.com/ir/ja-jp/investor.html",
+    "pass": 3
+   },
+   {
+    "quote": "豊富な品揃えと潤沢な在庫",
+    "url": "https://www.smcworld.com/ir/ja-jp/briefing-materials.html",
+    "pass": 3
+   },
+   {
+    "quote": "豊富な品揃えと潤沢な在庫",
+    "url": "https://www.smcworld.com/ir/ja-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "空気圧の強みは",
+    "url": "https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "1989年～",
+    "url": "https://www.smcworld.com/ir/ja-jp/investor.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年12月号発売中",
+    "url": "https://forbesjapan.com/articles/detail/45525",
+    "pass": 3
+   },
+   {
+    "quote": "当社の事業内容や業績、沿革を分かりやすく説明いたします",
+    "url": "https://www.smcworld.com/ir/ja-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "1959 年（昭和34 年）4 月27 日",
+    "url": "https://www.smcworld.com/about/ja-jp/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年5月20日(火)、SMC(株)代表取締役社長の髙田芳樹氏に会員企業トップインタビューに伺いました",
+    "url": "https://tokyokeikyo.jp/news/smc%E6%A0%AA%E3%80%80%E9%AB%99%E7%94%B0%E7%A4%BE%E9%95%B7%E3%81%AB%E3%83%88%E3%83%83%E3%83%97%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年の経営者：「空気圧機器で世界の工場を自動化」＝高田芳樹・SMC社長インタビュー | 週刊エコノミスト Online",
+    "url": "https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c",
+    "pass": 3
+   },
+   {
+    "quote": "2022年の経営者",
+    "url": "https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c",
+    "pass": 3
+   },
+   {
+    "quote": "2021年12月20日",
+    "url": "https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c",
+    "pass": 3
+   },
+   {
+    "quote": "2022年も装置メーカーは強気で、当社の部品についても生産能力を上げてほしいと言われるほどです",
+    "url": "https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c",
+    "pass": 3
+   },
+   {
+    "quote": "1958年生まれ、東京都出身",
+    "url": "https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c",
+    "pass": 3
+   },
+   {
+    "quote": "2021年の経営者：ノジマ店舗の「接客力」で家電量販店生き残り術＝ノジマ・野島廣司社長",
+    "url": "https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c",
+    "pass": 3
+   },
+   {
+    "quote": "2021年の経営者：航空や自動車、リースの専門性磨く 野上誠 東京センチュリー社長",
+    "url": "https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c",
+    "pass": 3
+   },
+   {
+    "quote": "2021年の経営者：海外売上比率が6割を超すキッコーマンの底力＝中野祥三郎社長インタビュー",
+    "url": "https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c",
+    "pass": 3
+   },
+   {
+    "quote": "2021年の経営者：半導体ＥＵＶマスク検査で先行し、高成長を期待＝岡林理・レーザーテック社長",
+    "url": "https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c",
+    "pass": 3
+   },
+   {
+    "quote": "2021年の経営者：料理から日用品まで「宅配を日常化」 藤井英雄 出前館社長",
+    "url": "https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の経営者",
+    "url": "https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c",
+    "pass": 3
+   },
+   {
+    "quote": "1989年～",
+    "url": "https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "紹介率80％超の裏側──オンデックが貫く、目先の数字を追わないM&A支援の哲学",
+    "url": "https://forbesjapan.com/articles/detail/45525",
+    "pass": 3
+   },
+   {
+    "quote": "最新号のご紹介",
+    "url": "https://forbesjapan.com/articles/detail/45525",
+    "pass": 3
+   },
+   {
+    "quote": "20年に指名・報酬委員会を設置",
+    "url": "https://forbesjapan.com/articles/detail/45525",
+    "pass": 3
+   },
+   {
+    "quote": "WEB販売代理店",
+    "url": "https://www.smcworld.com/about/ja-jp/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "業種別ソリューションのご紹介",
+    "url": "https://www.smcworld.com/about/ja-jp/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "課題別ソリューションのご紹介",
+    "url": "https://www.smcworld.com/about/ja-jp/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "国内代理店一覧",
+    "url": "https://www.smcworld.com/about/ja-jp/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "リース会社ご紹介",
+    "url": "https://www.smcworld.com/about/ja-jp/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、リースをご希望されるお客様にはリース会社をご紹介することができます",
+    "url": "https://www.smcworld.com/about/ja-jp/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "アセットレンタルのご紹介",
+    "url": "https://www.smcworld.com/about/ja-jp/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年の経営者：ノジマ店舗の「接客力」で家電量販店生き残り術＝ノジマ・野島廣司社長",
+    "url": "https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c",
+    "pass": 3
+   },
+   {
+    "quote": "経営者に一番近いパートナー――桑木小恵子 辻・本郷 税理士法人 理事長",
+    "url": "https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "SMC 早わかり｜IR情報｜ SMC 株式会社 - SMC CORPORATION — SMC 早わかり｜IR情報｜ SMC 株式会社 - SMC CORPORATION SMC CORPORATION https://www.smcworld.com > ja-jp > investor",
+    "url": "https://www.smcworld.com/ir/ja-jp/investor.html",
+    "pass": 3
+   },
+   {
+    "quote": "謎に包まれた優良企業 SMC 。成長の鍵はグローバル化 — 謎に包まれた優良企業 SMC 。成長の鍵はグローバル化 Forbes JAPAN https://forbesjapan.com > ビジネス",
+    "url": "https://forbesjapan.com/articles/detail/45525",
+    "pass": 3
+   },
+   {
+    "quote": "SMC の知財戦略：空気圧制御機器市場における防衛的 ... — SMC の知財戦略：空気圧制御機器市場における防衛的 ... TechnoProducer株式会社 https://www.techno-producer.com > AIレポート > 企業分析",
+    "url": "https://www.techno-producer.com/ai-report/smc_ip_strategy_report/",
+    "pass": 3
+   },
+   {
+    "quote": "【 SMC 】利益率30%の秘密！「空気」を2,000億円 ... - YouTube — 【 SMC 】利益率30%の秘密！「空気」を2,000億円 ... - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=Gpal2cSY3TI",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリ - 決算説明 会 資料 - SMC CORPORATION — IRライブラリ - 決算説明 会 資料 - SMC CORPORATION SMC CORPORATION https://www.smcworld.com > ja-jp > briefing-materials",
+    "url": "https://www.smcworld.com/ir/ja-jp/briefing-materials.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報｜ SMC 株式会社 — IR情報｜ SMC 株式会社 SMC CORPORATION https://www.smcworld.com > ja-jp",
+    "url": "https://www.smcworld.com/ir/ja-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "SMC [6273]：2026年3月期 決算説明 会 資料 ... - 日本経済新聞 — SMC [6273]：2026年3月期 決算説明 会 資料 ... - 日本経済新聞 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260514534222/",
+    "pass": 3
+   },
+   {
+    "quote": "SMC 【6273】空気圧機器グローバルトップの企業は安定した ... — SMC 【6273】空気圧機器グローバルトップの企業は安定した ... 日興フロッギー https://froggy.smbcnikko.co.jp > ...",
+    "url": "https://froggy.smbcnikko.co.jp/69394/",
+    "pass": 3
+   },
+   {
+    "quote": "SMC 株式会社 IR 資料 - EDINET DB — SMC 株式会社 IR 資料 - EDINET DB EDINET DB https://edinetdb.jp > ＳＭＣ株式会社",
+    "url": "https://edinetdb.jp/company/E01673/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 ⁄ 企業行動指針 - SMC CORPORATION — 会社概要 ⁄ 企業行動指針 - SMC CORPORATION SMC CORPORATION https://www.smcworld.com > about > ja-jp",
+    "url": "https://www.smcworld.com/about/ja-jp/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "SMC - Wikipedia — SMC - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > SMC",
+    "url": "https://ja.wikipedia.org/wiki/SMC",
+    "pass": 3
+   },
+   {
+    "quote": "SMC 株式会社の会社概要・製品情報 - Metoree — SMC 株式会社の会社概要・製品情報 - Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/613/",
+    "pass": 3
+   },
+   {
+    "quote": "CORPORATE GUIDE - SMC CORPORATION — CORPORATE GUIDE - SMC CORPORATION SMC CORPORATION PDF https://www.smcworld.com > data > 01-11-guide",
+    "url": "https://www.smcworld.com/catalog/SMC-HP/mpv1/01-11-guide/data/01-11-guide.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "SMC の髙田 社長 にトップ インタビュー しました - 東京経営者協会 — SMC の髙田 社長 にトップ インタビュー しました - 東京経営者協会 一般社団法人 東京経営者協会 https://tokyokeikyo.jp > news > smc株　髙田社長にトップ...",
+    "url": "https://tokyokeikyo.jp/news/smc%E6%A0%AA%E3%80%80%E9%AB%99%E7%94%B0%E7%A4%BE%E9%95%B7%E3%81%AB%E3%83%88%E3%83%83%E3%83%97%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC/",
+    "pass": 3
+   },
+   {
+    "quote": "空気圧機器で世界の工場を自動化」＝高田芳樹・ SMC社長 ... — 空気圧機器で世界の工場を自動化」＝高田芳樹・ SMC社長 ... 週刊エコノミスト Online https://weekly-economist.mainichi.jp > articles",
+    "url": "https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c",
+    "pass": 3
+   },
+   {
+    "quote": "「空気圧機器で世界の工場を自動化」＝高田芳樹・ SMC社長 ... — 「空気圧機器で世界の工場を自動化」＝高田芳樹・ SMC社長 ... 週刊エコノミスト https://www.weekly-economist.com > takada_yoshiki",
+    "url": "https://www.weekly-economist.com/interview/takada_yoshiki/",
+    "pass": 3
+   },
+   {
+    "quote": "SMC 株式会社: 「成長モードに突入しています」 — SMC 株式会社: 「成長モードに突入しています」 DJW https://www.djw.de > smc-wir-sind-im-wachstumsmodus",
+    "url": "https://www.djw.de/ja/infopool/infopool/smc-wir-sind-im-wachstumsmodus",
+    "pass": 3
+   },
+   {
+    "quote": "提案先も組織も変えねば／ SMC 高田芳樹 社長 - robot digest — 提案先も組織も変えねば／ SMC 高田芳樹 社長 - robot digest robot digest https://www.robot-digest.com > contents",
+    "url": "https://www.robot-digest.com/contents/?id=1712624207-350202",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "高田 海外売上比率は73％で、うち中国が24％、中国以外のアジアが17％、欧州が17％、米国が11％です",
+    "url": "https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c",
+    "pass": 3
+   },
+   {
+    "quote": "2021年の経営者：海外売上比率が6割を超すキッコーマンの底力＝中野祥三郎社長インタビュー",
+    "url": "https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.smc.edu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smc.edu/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smc.edu/about/facts-stats/history.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smc.edu/about/facts-stats/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smc.edu/about/spotlight-faculty/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smc.edu/about/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smc.edu/directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smc.edu/about/contact/hours.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smc.edu/about/campuses/tours.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smc.edu/about/campuses/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smc.edu/about/campuses/maps-directions.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smc.edu/about/campuses/parking-transportation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smc.edu/admission-aid/apply/new-students/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smc.edu/student-support/academic-support/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smc.edu/student-support/direct-connect/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smc.edu/student-support/new-students/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smc.edu/cc",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.smc.edu/about/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smc.edu/directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smc.edu/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smc.edu/about/facts-stats/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smc.edu/about/spotlight-faculty/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smc.edu/about/campuses/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smc.edu/about/campuses/parking-transportation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smc.edu/student-support/academic-support/library/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.smc.edu/about/documents/SMC-HistoricalBrochure.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.smc.edu/about/campuses/documents/SMC-Main-Map8-26C.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.smc.edu/about/campuses/documents/SMC-Main-Map8-26BW.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.smc.edu/about/campuses/documents/251-math-science-map.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.smc.edu/about/campuses/documents/transit-map-color.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.smc.edu/about/campuses/documents/transit-map-bw.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.smc.edu/about/campuses/documents/smc-survival-guide.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.smc.edu/about/campuses/documents/smc-housing-search.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.smc.edu/academics/academic-departments/business/images/faculty/lu-ming.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.smc.edu/images/icons/business.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.smcworld.com/ir/ja-jp/investor.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://forbesjapan.com/articles/detail/45525",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smcworld.com/ir/ja-jp/briefing-materials.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smcworld.com/ir/ja-jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smcworld.com/about/ja-jp/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smcworld.com/ir/ja-jp/investor.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyokeikyo.jp/news/smc%E6%A0%AA%E3%80%80%E9%AB%99%E7%94%B0%E7%A4%BE%E9%95%B7%E3%81%AB%E3%83%88%E3%83%83%E3%83%97%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "SMC",
+   "results": [
+    "https://www.smc.edu/",
+    "https://www.smcusa.com/",
+    "https://www.smcworld.com/",
+    "https://www.smc.edu/admission-aid/cc-login/index.html",
+    "https://en.wikipedia.org/wiki/SMC",
+    "https://www.instagram.com/smcusacorporation/",
+    "https://www.smc.edu/academics/online-learning/canvas.php",
+    "https://www.smcworld.com/webcatalog/en-ph/",
+    "https://www.linkedin.com/company/smc",
+    "https://ja.wikipedia.org/wiki/SMC"
+   ]
+  },
+  {
+   "query": "SMC ビジネスモデル",
+   "results": [
+    "https://www.smcworld.com/ir/ja-jp/investor.html",
+    "https://forbesjapan.com/articles/detail/45525",
+    "https://www.techno-producer.com/ai-report/smc_ip_strategy_report/",
+    "https://note.com/open_azalea2045/n/nc3096e4ac673",
+    "https://www.youtube.com/watch?v=Gpal2cSY3TI",
+    "https://www.nikkan.co.jp/jm/smc",
+    "https://www.j-big.de/ja/smc%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E3%80%8C%E6%88%90%E9%95%B7%E3%83%A2%E3%83%BC%E3%83%89%E3%81%AB%E7%AA%81%E5%85%A5%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%8D/",
+    "https://otsumu.co.jp/knowledge/cases/smc-pneumatic-global-supply.html",
+    "https://www.openwork.jp/one_answer.php?vid=a0A2x00000H4mC1&qco=9",
+    "https://consovation.com/smc株式会社の成長戦略と魅力に迫るビジネスモデ/"
+   ]
+  },
+  {
+   "query": "SMC 決算説明資料",
+   "results": [
+    "https://www.smcworld.com/ir/ja-jp/briefing-materials.html",
+    "https://www.smcworld.com/ir/ja-jp/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260514534222/",
+    "https://froggy.smbcnikko.co.jp/69394/",
+    "https://edinetdb.jp/company/E01673/ir-docs/",
+    "https://www.buffett-code.com/company/6273/library",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=6273",
+    "https://www.smcworld.com/ir/ja-jp/calendar.html",
+    "https://www.youtube.com/shorts/DLPh4fDU5s8",
+    "https://edinetdb.jp/company/E01673/presentations/"
+   ]
+  },
+  {
+   "query": "SMC 事業系統図",
+   "results": [
+    "https://www.smcworld.com/about/ja-jp/index.html",
+    "https://www.smcworld.com/ir/ja-jp/investor.html",
+    "https://ja.wikipedia.org/wiki/SMC",
+    "https://metoree.com/companies/613/",
+    "https://www.smcworld.com/catalog/SMC-HP/mpv1/01-11-guide/data/01-11-guide.pdf",
+    "https://www.smcworld.com/ja-jp/",
+    "https://www.smcworld.com/ir/ja-jp/",
+    "https://www.smcworld.com/catalog/SMC-HP/mpv/01-12-SMC-GUIDE/data/01-12-SMC-GUIDE.pdf",
+    "https://www.smcworld.com/catalog/SMC-HP/mpv/01-11-guide/data/01-11-guide.pdf",
+    "https://donburi.accountant/report/?t=3&es=1228"
+   ]
+  },
+  {
+   "query": "SMC 社長 インタビュー",
+   "results": [
+    "https://tokyokeikyo.jp/news/smc%E6%A0%AA%E3%80%80%E9%AB%99%E7%94%B0%E7%A4%BE%E9%95%B7%E3%81%AB%E3%83%88%E3%83%83%E3%83%97%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC/",
+    "https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c",
+    "https://www.weekly-economist.com/interview/takada_yoshiki/",
+    "https://www.djw.de/ja/infopool/infopool/smc-wir-sind-im-wachstumsmodus",
+    "https://www.robot-digest.com/contents/?id=1712624207-350202",
+    "https://www.nikkan.co.jp/articles/view/594763",
+    "https://www.news-pub.co.jp/award/interview.php",
+    "https://www.smcworld.com/about/sustainability/ja-jp/top_message.html",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOUC2370L0T20C25A6000000",
+    "https://ja.wikipedia.org/wiki/髙田芳樹"
+   ]
+  }
+ ],
+ "missing": {
+  "ビジネスモデル": "記載なし（3回確認済み：公式25頁／PDF・画像10件／外部8頁・検索5回）",
+  "お金の形": "記載なし（3回確認済み：公式25頁／PDF・画像10件／外部8頁・検索5回）"
+ }
+}

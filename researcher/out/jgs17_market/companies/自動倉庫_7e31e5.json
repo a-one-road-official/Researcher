@@ -1,0 +1,1924 @@
+{
+ "name": "自動倉庫",
+ "en": "automated storage and retrieval system",
+ "aliases": [
+  "AS/RS",
+  "物流ロボット",
+  "倉庫自動化"
+ ],
+ "context": "15 港湾ロジ ③次世代型倉庫",
+ "kind": "market",
+ "researched_at": "2026-11-02T17:48:07.239862+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "倉庫自動化市場規模、シェア、および予測 – 2034年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の倉庫自動化市場規模は、2024年に265億米ドルと評価され、2025年から2034年にかけて15.9%のCAGRで成長すると推定されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年予測市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "pass": 3
+   },
+   {
+    "quote": "倉庫自動化市場規模、コンポーネント別、2021年~2034年(10億米ドル)",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "pass": 3
+   },
+   {
+    "quote": "ハードウェア市場は、2034年までに15.3%のCAGRで成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "pass": 3
+   },
+   {
+    "quote": "サービス市場は、2024年に37%の市場シェアを占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "pass": 3
+   },
+   {
+    "quote": "Eコマースフルフィルメントセンター市場は、2034年までに313億米ドルに達すると予想されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "pass": 3
+   },
+   {
+    "quote": "オンプレミス市場は、2034年までに478億米ドルに達すると予想されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動倉庫モジュールの世界市場（2026年～2032年）、市場規模（シングルレベル型、デュアルレベル型）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/4495383",
+    "pass": 3
+   },
+   {
+    "quote": "自動倉庫モジュールの世界市場（2026年～2032年）、市場規模（シングルレベル型、デュアルレベル型）・分析レポートを発表",
+    "url": "https://newscast.jp/smart/news/4495383",
+    "pass": 3
+   },
+   {
+    "quote": "世界の自動倉庫モジュール（ASRM）市場規模は、2025年の5億1,300万米ドルから2032年には7億2,500万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）5.2%で成長すると見込まれています",
+    "url": "https://newscast.jp/smart/news/4495383",
+    "pass": 3
+   },
+   {
+    "quote": "米国の自動倉庫（AS/RS）市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年にかけて年平均成長率（CAGR）XX％で成長すると推定されています",
+    "url": "https://newscast.jp/smart/news/4495383",
+    "pass": 3
+   },
+   {
+    "quote": "中国の自動倉庫モジュール市場は、2025年の数百万米ドルから2032年には数百万米ドルへと拡大し、2026年から2032年にかけて年平均成長率（CAGR）%で成長すると予測されています",
+    "url": "https://newscast.jp/smart/news/4495383",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の自動倉庫モジュール市場は、2025年のX百万米ドルから2032年にはX百万米ドルへと拡大し、2026年から2032年までのCAGRは%になると予測されています",
+    "url": "https://newscast.jp/smart/news/4495383",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、地理的地域別および国/地域別の世界歴史的自動倉庫モジュール市場規模（年間販売および年間収益）が2021年から2026年までの期間で詳細に示されています",
+    "url": "https://newscast.jp/smart/news/4495383",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2027年から2032年までの期間における地域別（アメリカ、APAC、ヨーロッパ、中東・アフリカ）、国別、タイプ別、および用途別のグローバル自動倉庫モジュール市場規模（販売および年間収益）の予測が詳細に示されています",
+    "url": "https://newscast.jp/smart/news/4495383",
+    "pass": 3
+   },
+   {
+    "quote": "自動倉庫モジュールの世界市場（2026年～2032年）、市場規模（シングルレベル型、デュアルレベル型）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/4495383",
+    "pass": 3
+   },
+   {
+    "quote": "自動倉庫モジュールの世界市場（2026年～2032年）、市場規模（シングルレベル型、デュアルレベル型）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4495383",
+    "pass": 3
+   },
+   {
+    "quote": "世界の自動倉庫モジュール（ASRM）市場規模は、2025年の5億1,300万米ドルから2032年には7億2,500万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）5.2%で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/4495383",
+    "pass": 3
+   },
+   {
+    "quote": "米国の自動倉庫（AS/RS）市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年にかけて年平均成長率（CAGR）XX％で成長すると推定されています",
+    "url": "https://www.atpress.ne.jp/news/4495383",
+    "pass": 3
+   },
+   {
+    "quote": "中国の自動倉庫モジュール市場は、2025年の数百万米ドルから2032年には数百万米ドルへと拡大し、2026年から2032年にかけて年平均成長率（CAGR）%で成長すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/4495383",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の自動倉庫モジュール市場は、2025年のX百万米ドルから2032年にはX百万米ドルへと拡大し、2026年から2032年までのCAGRは%になると予測されています",
+    "url": "https://www.atpress.ne.jp/news/4495383",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、地理的地域別および国/地域別の世界歴史的自動倉庫モジュール市場規模（年間販売および年間収益）が2021年から2026年までの期間で詳細に示されています",
+    "url": "https://www.atpress.ne.jp/news/4495383",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2027年から2032年までの期間における地域別（アメリカ、APAC、ヨーロッパ、中東・アフリカ）、国別、タイプ別、および用途別のグローバル自動倉庫モジュール市場規模（販売および年間収益）の予測が詳細に示されています",
+    "url": "https://www.atpress.ne.jp/news/4495383",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4495383",
+    "pass": 3
+   },
+   {
+    "quote": "コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4495383",
+    "pass": 3
+   },
+   {
+    "quote": "セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4495383",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4495383",
+    "pass": 3
+   },
+   {
+    "quote": "食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4495383",
+    "pass": 3
+   },
+   {
+    "quote": "自動倉庫システム市場| 市場規模 市場調査 予測 2030年まで",
+    "url": "https://www.gii.co.jp/report/mama1649591-automated-storage-retrieval-system-market-by-type.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界の自動倉庫システムの市場規模は、8.5%のCAGRで拡大し、2025年には98億6,000万米ドル、2030年には148億米ドルに達すると予測されています",
+    "url": "https://www.gii.co.jp/report/mama1649591-automated-storage-retrieval-system-market-by-type.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 4,950 換算",
+    "url": "https://www.gii.co.jp/report/mama1649591-automated-storage-retrieval-system-market-by-type.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 6,650 換算",
+    "url": "https://www.gii.co.jp/report/mama1649591-automated-storage-retrieval-system-market-by-type.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 8,150 換算",
+    "url": "https://www.gii.co.jp/report/mama1649591-automated-storage-retrieval-system-market-by-type.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 10,000 換算",
+    "url": "https://www.gii.co.jp/report/mama1649591-automated-storage-retrieval-system-market-by-type.html",
+    "pass": 3
+   },
+   {
+    "quote": "マテリアルハンドリング（物流関連）の世界市場は、13～15兆円規模と推計される巨大市場です",
+    "url": "https://lplanners.jp/blog/automatic-warehouse-share/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度の物流ロボティクス市場規模は前年度比13.1％増の404億3,000万円の見込み",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3762?srsltid=AYCX9vI3JDvOAdi0-kBsYVRZ4ym3bHGJF4bpaL7iJmVJaHdROUdOr_tp",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度（見込）の物流ロボティクス国内市場規模（事業者売上高ベース）は、前年度比113.1%の404億3,000万円と推計した",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3762?srsltid=AYCX9vI3JDvOAdi0-kBsYVRZ4ym3bHGJF4bpaL7iJmVJaHdROUdOr_tp",
+    "pass": 3
+   },
+   {
+    "quote": "物流ロボティクス国内市場規模は2027年度に733億3,000万円、2030年度には1,238億円になると予測する",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3762?srsltid=AYCX9vI3JDvOAdi0-kBsYVRZ4ym3bHGJF4bpaL7iJmVJaHdROUdOr_tp",
+    "pass": 3
+   },
+   {
+    "quote": "こうした背景から、2030年度の物流ロボティクス市場規模は1,000億円を超える規模になると予測する",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3762?srsltid=AYCX9vI3JDvOAdi0-kBsYVRZ4ym3bHGJF4bpaL7iJmVJaHdROUdOr_tp",
+    "pass": 3
+   },
+   {
+    "quote": "■次世代物流システム 9,232億円(2.1倍)",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=20005&la=en",
+    "pass": 3
+   },
+   {
+    "quote": "●倉庫ロボットシステム 270億円(8.4倍)",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=20005&la=en",
+    "pass": 3
+   },
+   {
+    "quote": "2,987億円",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=20005&la=en",
+    "pass": 3
+   },
+   {
+    "quote": "4,997億円",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=20005&la=en",
+    "pass": 3
+   },
+   {
+    "quote": "1,182億円",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=20005&la=en",
+    "pass": 3
+   },
+   {
+    "quote": "1,230億円",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=20005&la=en",
+    "pass": 3
+   },
+   {
+    "quote": "1,189億円",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=20005&la=en",
+    "pass": 3
+   },
+   {
+    "quote": "4,631億円",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=20005&la=en",
+    "pass": 3
+   },
+   {
+    "quote": "9,232億円",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=20005&la=en",
+    "pass": 3
+   },
+   {
+    "quote": "2019年の市場は2018年比7.7%増の4,631億円が見込まれる",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=20005&la=en",
+    "pass": 3
+   },
+   {
+    "quote": "今後も各分野で堅調な伸びが期待され、2025年には同2.1倍の9,232億円が予測される",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=20005&la=en",
+    "pass": 3
+   },
+   {
+    "quote": "1,180億円",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=20005&la=en",
+    "pass": 3
+   },
+   {
+    "quote": "2,120億円",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=20005&la=en",
+    "pass": 3
+   },
+   {
+    "quote": "2,058億円",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=20005&la=en",
+    "pass": 3
+   },
+   {
+    "quote": "自動倉庫・検索システム市場規模、市場シェア、2034年",
+    "url": "https://straitsresearch.com/jp/report/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の自動倉庫システム市場規模は、2025年には102億9,000万米ドルと評価され、2026年の111億3,000万米ドルから2034年には209億2,000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は8.2%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動倉庫システム市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）8.2%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "IoTヘルスケア市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "ブロックチェーンIoT市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "世界の倉庫自動化市場規模は、2024年に265億米ドルと評価され、2025年から2034年にかけて15.9%のCAGRで成長すると推定されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率(2025年~2034年)",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "pass": 3
+   },
+   {
+    "quote": "国際貿易局(ITA)によると、世界のB2C電子商取引の収益だけでも、2017年の1兆4000億米ドルから2027年には5兆5000億米ドルに達し、年平均成長率14.4%で成長する見込みです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "pass": 3
+   },
+   {
+    "quote": "ハードウェア市場は、2034年までに15.3%のCAGRで成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "pass": 3
+   },
+   {
+    "quote": "自律移動ロボット(AMR)市場は、2034年までに18%のCAGRで成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "pass": 3
+   },
+   {
+    "quote": "カナダ倉庫自動化市場は2034年までに17.5%の年平均成長率で成長すると予想されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツ倉庫自動化市場は2034年までに17%の年平均成長率で成長すると予想されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "pass": 3
+   },
+   {
+    "quote": "英国倉庫自動化市場は2034年までに16.3%の年平均成長率で成長すると予想されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "pass": 3
+   },
+   {
+    "quote": "フランスの倉庫自動化市場は、2034年までに15.4%のCAGRで成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "pass": 3
+   },
+   {
+    "quote": "スペインの倉庫自動化市場は、2034年までに14.2%のCAGRで成長すると予想されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、2034年までに17.9%のCAGRで成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "pass": 3
+   },
+   {
+    "quote": "インドの倉庫自動化市場は、2034年までに19.6%のCAGRで成長すると予想されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の自動倉庫モジュール（ASRM）市場規模は、2025年の5億1,300万米ドルから2032年には7億2,500万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）5.2%で成長すると見込まれています",
+    "url": "https://newscast.jp/smart/news/4495383",
+    "pass": 3
+   },
+   {
+    "quote": "米国の自動倉庫（AS/RS）市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年にかけて年平均成長率（CAGR）XX％で成長すると推定されています",
+    "url": "https://newscast.jp/smart/news/4495383",
+    "pass": 3
+   },
+   {
+    "quote": "中国の自動倉庫モジュール市場は、2025年の数百万米ドルから2032年には数百万米ドルへと拡大し、2026年から2032年にかけて年平均成長率（CAGR）%で成長すると予測されています",
+    "url": "https://newscast.jp/smart/news/4495383",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の自動倉庫モジュール市場は、2025年のX百万米ドルから2032年にはX百万米ドルへと拡大し、2026年から2032年までのCAGRは%になると予測されています",
+    "url": "https://newscast.jp/smart/news/4495383",
+    "pass": 3
+   },
+   {
+    "quote": "世界の自動倉庫モジュール（ASRM）市場規模は、2025年の5億1,300万米ドルから2032年には7億2,500万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）5.2%で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/4495383",
+    "pass": 3
+   },
+   {
+    "quote": "米国の自動倉庫（AS/RS）市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年にかけて年平均成長率（CAGR）XX％で成長すると推定されています",
+    "url": "https://www.atpress.ne.jp/news/4495383",
+    "pass": 3
+   },
+   {
+    "quote": "中国の自動倉庫モジュール市場は、2025年の数百万米ドルから2032年には数百万米ドルへと拡大し、2026年から2032年にかけて年平均成長率（CAGR）%で成長すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/4495383",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の自動倉庫モジュール市場は、2025年のX百万米ドルから2032年にはX百万米ドルへと拡大し、2026年から2032年までのCAGRは%になると予測されています",
+    "url": "https://www.atpress.ne.jp/news/4495383",
+    "pass": 3
+   },
+   {
+    "quote": "世界の自動倉庫システムの市場規模は、8.5%のCAGRで拡大し、2025年には98億6,000万米ドル、2030年には148億米ドルに達すると予測されています",
+    "url": "https://www.gii.co.jp/report/mama1649591-automated-storage-retrieval-system-market-by-type.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、インダストリー4.0の導入拡大や持続可能性への注目が、エネルギー効率の高い自動化システムへの投資を促し、倉庫業務の近代化や世界サプライチェーンの変革をもたらしています",
+    "url": "https://www.gii.co.jp/report/mama1649591-automated-storage-retrieval-system-market-by-type.html",
+    "pass": 3
+   },
+   {
+    "quote": "総合マーケティングビジネスの株式会社富士経済(東京都中央区日本橋小伝馬町 社長 清口 正夫 03-3664-5811)は、物流現場における人手不足を解決する手段として自動化設備やソフトウエアを活用した省人化提案が進むと同時に、ユーザーニーズの多様化などに伴う需要増加により拡大を続けている、次世代物流システム・ビジネスの市場を調査した",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=20005&la=en",
+    "pass": 3
+   },
+   {
+    "quote": "世界の自動倉庫システム市場規模は、2025年には102億9,000万米ドルと評価され、2026年の111億3,000万米ドルから2034年には209億2,000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は8.2%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "ユニットロードセクションは、最も大きな収益を維持し、年平均成長率（CAGR）5.2%で成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "保管部門は最も高いシェアを占め、年平均成長率（CAGR）4.7%で成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "食品・飲料分野は、年平均成長率（CAGR）9.5%で成長し、最大の市場シェアを占めると予測されています",
+    "url": "https://straitsresearch.com/jp/report/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、予測期間中に年平均成長率（CAGR）10.13%で拡大し、最大のシェアを占めると予測されています",
+    "url": "https://straitsresearch.com/jp/report/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州は48億1,200万米ドルのシェアを占めると予測されており、年平均成長率（CAGR）は5.15%です",
+    "url": "https://straitsresearch.com/jp/report/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026–2035)",
+    "url": "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Software and controls are forecast to outpace the market's overall CAGR through 2035 as AI integration becomes a standard deployment expectation, shifting value capture toward recurring software and service revenue streams",
+    "url": "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Cube-based systems represented 6.0% of revenue in 2025 and are forecast to expand at an 11.1% CAGR (2026-2035). Their grid architecture supports incremental scaling and high storage density within existing facilities, which is particularly relevant where building expansion is constrained and fulfillment volumes are uncertain.",
+    "url": "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Mini-load AS/RS generated USD 1.98 billion in 2025 and is forecast to grow at a 5.4% CAGR (2026-2035). Precision tote, carton, and small-parts handling continues to support demand in pharmaceuticals, electronics, and automotive components logistics, where retrieval accuracy and traceability are operationally material.",
+    "url": "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Software and controls represented 18.0% of revenue in 2025 and are forecast to grow at an 11.1% CAGR (2026-2035). Warehouse control, execution, and analytics platforms are increasingly central to optimizing asset utilization, routing work across automated subsystems, and monetizing recurring software and support relationships.",
+    "url": "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing support accounted for 22.0% of revenue in 2025 and is expected to grow at a 5.2% CAGR (2026-2035). Demand is linked to modernization cycles and the need to synchronize component availability with production workflows, although site-specific systems integration can lengthen project timelines.",
+    "url": "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Cold chain storage generated USD 1.54 billion in 2025 and is forecast to expand at an 8.4% CAGR (2026-2035). Automated systems can help operators maintain repeatable handling, inventory rotation, and traceability in chilled and frozen environments where labor availability and operating conditions are persistent concerns.",
+    "url": "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Food and beverage generated USD 1.76 billion in 2025 and is forecast to grow at a 6.0% CAGR (2026-2035). Ambient, chilled, and frozen logistics require different hardware configurations, but each benefits from automated inventory rotation and more consistent handling across food-safety-sensitive supply chains.",
+    "url": "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing - general represented 15.0% of revenue in 2025 and is expected to grow at a 5.0% CAGR (2026-2035). Adoption is driven principally by labor availability, facility consolidation, and the need to stabilize material flows, rather than by the rapid fulfillment-cycle demands present in retail distribution.",
+    "url": "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Electronics and semiconductor represented 5.0% of revenue in 2025 and are forecast to grow at a 9.8% CAGR (2026-2035). Cleanroom compatibility, anti-static handling, and precision inventory control create a specialized ASRS opportunity as component manufacturing and packaging capacity expands.",
+    "url": "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Storage-only systems represented 20.0% of revenue in 2025 and are forecast to grow at a 6.3% CAGR (2026-2035). They remain relevant for buffer inventory, bulk materials, and facilities that separate storage from retrieval through independently controlled handling equipment.",
+    "url": "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Sorting and sequencing represented 6.0% of revenue in 2025 and are forecast to grow at an 11.1% CAGR (2026-2035). These configurations address the increasingly important task of aligning item release with downstream packing, consolidation, and delivery workflows.",
+    "url": "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Canada represented 15.0% of North American revenue in 2025 and is forecast to grow at a 4.2% CAGR (2026-2035). Grocery distribution, pharmaceutical warehousing, and cold-chain logistics remain the principal demand areas, although market scale and implementation capacity temper the pace of adoption.",
+    "url": "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Germany generated USD 1.10 billion in 2025 and is forecast to grow at a 6.5% CAGR (2026-2035). Its installed base of industrial automation, strong intralogistics ecosystem, and demand from automotive, industrial, and food logistics support continuing replacement and upgrade activity.",
+    "url": "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "France represented 15.3% of European revenue in 2025 and is forecast to grow at a 5.8% CAGR (2026-2035). Retail and food distribution remain central, with brownfield modernization creating opportunities to add robotic and shuttle systems to facilities built around manual picking and conveyor infrastructure.",
+    "url": "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2035)",
+    "url": "https://www.marketresearchfuture.com/reports/automated-storage-retrieval-system-market-3886",
+    "pass": 3
+   },
+   {
+    "quote": "Cube-based and robotic storage platforms are forecast to register a 12.89% CAGR through 2035, driven by e-commerce fulfillment density requirements.",
+    "url": "https://www.marketresearchfuture.com/reports/automated-storage-retrieval-system-market-3886",
+    "pass": 3
+   },
+   {
+    "quote": "Mini-load tote systems represent the fastest-growing load category at 11.96% CAGR, addressing the shift toward small-parcel, high-velocity order profiles.",
+    "url": "https://www.marketresearchfuture.com/reports/automated-storage-retrieval-system-market-3886",
+    "pass": 3
+   },
+   {
+    "quote": "Goods-to-person order picking is advancing at a 14.88% CAGR, underpinned by labor-substitution economics.",
+    "url": "https://www.marketresearchfuture.com/reports/automated-storage-retrieval-system-market-3886",
+    "pass": 3
+   },
+   {
+    "quote": "E-commerce and retail is registering the highest forecast CAGR of 14.25%, reflecting the omnichannel fulfillment imperative.",
+    "url": "https://www.marketresearchfuture.com/reports/automated-storage-retrieval-system-market-3886",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific is the fastest-growing regional segment at 12.60% CAGR to 2035.",
+    "url": "https://www.marketresearchfuture.com/reports/automated-storage-retrieval-system-market-3886",
+    "pass": 3
+   },
+   {
+    "quote": "12.60% CAGR (2026–2035)",
+    "url": "https://www.marketresearchfuture.com/reports/automated-storage-retrieval-system-market-3886",
+    "pass": 3
+   },
+   {
+    "quote": "10.28% CAGR",
+    "url": "https://www.marketresearchfuture.com/reports/automated-storage-retrieval-system-market-3886",
+    "pass": 3
+   },
+   {
+    "quote": "9.85% CAGR",
+    "url": "https://www.marketresearchfuture.com/reports/automated-storage-retrieval-system-market-3886",
+    "pass": 3
+   },
+   {
+    "quote": "8.72% CAGR",
+    "url": "https://www.marketresearchfuture.com/reports/automated-storage-retrieval-system-market-3886",
+    "pass": 3
+   },
+   {
+    "quote": "14.18% CAGR",
+    "url": "https://www.marketresearchfuture.com/reports/automated-storage-retrieval-system-market-3886",
+    "pass": 3
+   },
+   {
+    "quote": "9.52% CAGR",
+    "url": "https://www.marketresearchfuture.com/reports/automated-storage-retrieval-system-market-3886",
+    "pass": 3
+   },
+   {
+    "quote": "8.15% CAGR",
+    "url": "https://www.marketresearchfuture.com/reports/automated-storage-retrieval-system-market-3886",
+    "pass": 3
+   },
+   {
+    "quote": "10.35% CAGR",
+    "url": "https://www.marketresearchfuture.com/reports/automated-storage-retrieval-system-market-3886",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 7.92%",
+    "url": "https://www.precedenceresearch.com/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Europe automated storage and retrieval system market size was exhibited at USD 4.11 billion in 2026 and is projected to be worth around USD 7.84 billion by 2035, growing at a CAGR of 7.40% from 2026 to 2035.",
+    "url": "https://www.precedenceresearch.com/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "倉庫自動化市場規模、シェア、および予測 – 2034年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "pass": 3
+   },
+   {
+    "quote": "倉庫自動化市場 サイズとシェア 2025 – 2034",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "pass": 3
+   },
+   {
+    "quote": "サービス市場は、2024年に37%の市場シェアを占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "pass": 3
+   },
+   {
+    "quote": "倉庫自動化市場シェア、倉庫タイプ別、2024年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "pass": 3
+   },
+   {
+    "quote": "冷蔵倉庫は、2024年に22.6%の市場シェアを占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドベース倉庫セグメントは、2024年に市場で35.3%のシェアを占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動保管・搬送システム(AS/RS)は、2024年に26.3%の市場シェアを占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "pass": 3
+   },
+   {
+    "quote": "在庫追跡&管理は、2024年に26.2%の市場シェアを占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "pass": 3
+   },
+   {
+    "quote": "食品・飲料業界は2024年に市場シェアの16.4%を占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2024年に市場シェアの35.6%を占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州は2024年に21.8%の重要な市場シェアを占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "pass": 3
+   },
+   {
+    "quote": "イタリアの倉庫自動化市場は、2024年に14.2%のシェアを占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国の倉庫自動化市場は、2024年に市場シェアの48.9%を占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の倉庫自動化市場は、2024年に12.3%のシェアを占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "pass": 3
+   },
+   {
+    "quote": "ラテンアメリカは、2024年に倉庫自動化市場の6.9%のシェアを占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "pass": 3
+   },
+   {
+    "quote": "売上高ベースでは、2025年に世界の上位2社が市場シェアの約％を占めました",
+    "url": "https://newscast.jp/smart/news/4495383",
+    "pass": 3
+   },
+   {
+    "quote": "また、タイプ別（シングルレベルタイプ、デュアルレベルタイプ）の自動倉庫モジュールセグメントについて、タイプ別の販売、販売市場シェア、収益と市場シェア、販売価格（いずれも2021年-2026年）が詳細に分析されています",
+    "url": "https://newscast.jp/smart/news/4495383",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、用途別（産業製造、自動車、倉庫・物流、防衛・航空宇宙、その他）の自動倉庫モジュールセグメントについても、用途別の販売、販売市場シェア、収益と市場シェア、販売価格（いずれも2021年-2026年）が詳細に分析されています",
+    "url": "https://newscast.jp/smart/news/4495383",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、企業別のグローバル自動倉庫モジュール年間販売と市場シェア（2021年-2026年）、企業別のグローバル自動倉庫モジュール年間収益と市場シェア（2021年-2026年）、企業別の販売価格が分析されています",
+    "url": "https://newscast.jp/smart/news/4495383",
+    "pass": 3
+   },
+   {
+    "quote": "売上高ベースでは、2025年に世界の上位2社が市場シェアの約％を占めました",
+    "url": "https://www.atpress.ne.jp/news/4495383",
+    "pass": 3
+   },
+   {
+    "quote": "また、タイプ別（シングルレベルタイプ、デュアルレベルタイプ）の自動倉庫モジュールセグメントについて、タイプ別の販売、販売市場シェア、収益と市場シェア、販売価格（いずれも2021年-2026年）が詳細に分析されています",
+    "url": "https://www.atpress.ne.jp/news/4495383",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、用途別（産業製造、自動車、倉庫・物流、防衛・航空宇宙、その他）の自動倉庫モジュールセグメントについても、用途別の販売、販売市場シェア、収益と市場シェア、販売価格（いずれも2021年-2026年）が詳細に分析されています",
+    "url": "https://www.atpress.ne.jp/news/4495383",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、企業別のグローバル自動倉庫モジュール年間販売と市場シェア（2021年-2026年）、企業別のグローバル自動倉庫モジュール年間収益と市場シェア（2021年-2026年）、企業別の販売価格が分析されています",
+    "url": "https://www.atpress.ne.jp/news/4495383",
+    "pass": 3
+   },
+   {
+    "quote": "市場シェア分析、2023年",
+    "url": "https://www.gii.co.jp/report/mama1649591-automated-storage-retrieval-system-market-by-type.html",
+    "pass": 3
+   },
+   {
+    "quote": "自動倉庫システム（ASRS）：市場シェア分析、業界動向と統計、成長予測（2026年～2031年）",
+    "url": "https://www.gii.co.jp/report/mama1649591-automated-storage-retrieval-system-market-by-type.html",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の自動倉庫システム：市場シェア分析、業界動向と統計、成長予測（2026年～2031年）",
+    "url": "https://www.gii.co.jp/report/mama1649591-automated-storage-retrieval-system-market-by-type.html",
+    "pass": 3
+   },
+   {
+    "quote": "マルチエージェントシステム市場の規模、シェア、および動向分析レポート：構成要素別、導入形態別、用途別、最終用途別、地域別、およびセグメント別予測（2026年～2033年）",
+    "url": "https://www.gii.co.jp/report/mama1649591-automated-storage-retrieval-system-market-by-type.html",
+    "pass": 3
+   },
+   {
+    "quote": "マテハン機器の世界シェアトップのダイフクに続き、第4位のシェアを誇る村田機械では、WMS（倉庫管理システム）を始めとするさまざまな自動倉庫システムを提供しています",
+    "url": "https://n-apt.com/info/automatic-warehouse-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "自動倉庫などのマテハン機器の世界シェアトップを誇るのは日本のダイフクで、その売上高は40億1600万ドルにも上ります",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/378/",
+    "pass": 3
+   },
+   {
+    "quote": "マテハン機器の世界シェアで上位10社のうち日本企業が2社を占めています",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/378/",
+    "pass": 3
+   },
+   {
+    "quote": "マテハン機器の世界シェアトップを誇るダイフクは、世界26の国と地域に拠点を持つグローバル企業です",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/378/",
+    "pass": 3
+   },
+   {
+    "quote": "村田機械はマテハン機器の世界シェア4位で、",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/378/",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ロボットの種類と世界シェア4強メーカーランキング｜中小製造企業の課題解決メリットとは",
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/378/",
+    "pass": 3
+   },
+   {
+    "quote": "最大手のシェーファーでもシェアは3％に満たないので、シェアトップにこだわる必要は決してありません",
+    "url": "https://lplanners.jp/blog/automatic-warehouse-share/",
+    "pass": 3
+   },
+   {
+    "quote": "この調査では、次世代物流システムとしてロジスティクス・ファシリティ8品目、ロボティクス・オートメーション9品目、IoT(ソフト・ソリューション)5品目、IoT(ハード)5品目、AI4品目、また、次世代物流ビジネスとして通販フルフィルメントサービスや倉庫シェアリングなど4品目について、市場の現状を分析し、将来を予想した",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=20005&la=en",
+    "pass": 3
+   },
+   {
+    "quote": "自動倉庫・検索システム市場規模、市場シェア、2034年",
+    "url": "https://straitsresearch.com/jp/report/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動倉庫システム市場の規模、シェア、トレンド分析レポート：タイプ別（オートストア、カルーセル、ミッドロード、ミニロード、ユニットロード、垂直リフトモジュール）、機能別（組立、配送、キット化、ピッキング、保管、その他）、産業分野別（航空、自動車、化学、小売・Eコマース、食品・飲料、ヘルスケア・医薬品、金属・重機械、半導体・電子機器、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）の予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、2025年に36.4%の市場シェアを占め、自動倉庫システム市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "ミニロード部門は2番目に大きなシェアを占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "保管部門は最も高いシェアを占め、年平均成長率（CAGR）4.7%で成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "流通チャネルは2番目に大きなシェアを占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "食品・飲料分野は、年平均成長率（CAGR）9.5%で成長し、最大の市場シェアを占めると予測されています",
+    "url": "https://straitsresearch.com/jp/report/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車部門は2番目に大きなシェアを占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、予測期間中に年平均成長率（CAGR）10.13%で拡大し、最大のシェアを占めると予測されています",
+    "url": "https://straitsresearch.com/jp/report/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州は48億1,200万米ドルのシェアを占めると予測されており、年平均成長率（CAGR）は5.15%です",
+    "url": "https://straitsresearch.com/jp/report/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は2025年に36.4%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "IoTヘルスケア市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "ブロックチェーンIoT市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "大規模言語モデル（LLM）市場規模、シェア、成長率、分析、2034年",
+    "url": "https://straitsresearch.com/jp/report/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "企業向けLLM市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "market share in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top 5 players in this market include",
+    "url": "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Robotic AS/RS and shuttle-based systems are forecast to capture rising proportions of new ASRS deployments, with order-picking and goods-to-person applications absorbing a structurally larger share of capital spend through 2035",
+    "url": "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Professional-service-robot demand has remained concentrated in logistics applications, with nearly 113,000 transportation and logistics robots sold in 2023, up 35% year over year",
+    "url": "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Hardware segment share of total ASRS spend is forecast to decline through 2035 as services and software absorb growing proportions of operator budgets, compressing gross margins for equipment-focused vendors while creating recurring-revenue opportunity for platform providers",
+    "url": "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Unit load AS/RS is expected to reach USD 3.45 billion by 2035 and accounted for 20.0% of revenue in 2025. Crane-based pallet storage remains important in high-volume inbound logistics and manufacturing environments, where load consistency and dense vertical storage often outweigh the flexibility benefits of newer robotic formats.",
+    "url": "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Order fulfillment and e-commerce applications are forecast to reach USD 5.06 billion by 2035, after representing 20.0% of revenue in 2025. The segment benefits from fragmented baskets, shorter delivery expectations, and the need to improve pick accuracy while operating efficiently across omnichannel inventory pools.",
+    "url": "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing support accounted for 22.0% of revenue in 2025 and is expected to grow at a 5.2% CAGR (2026-2035). Demand is linked to modernization cycles and the need to synchronize component availability with production workflows, although site-specific systems integration can lengthen project timelines.",
+    "url": "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Automated Storage and Retrieval System (ASRS) Market Share, by Application, 2025",
+    "url": "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "3PL and contract logistics is projected to reach USD 3.45 billion by 2035 and accounted for 13.0% of revenue in 2025. These operators can create repeated procurement opportunities because automation investments are often deployed across multiple facilities serving distinct customer contracts and service-level requirements.",
+    "url": "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "業界の主要企業には、6 River Systems、AutoStore、Bastian Solutions、Daifuku、Dematic、Element Logicなどが挙げられる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、本レポートでは、世界的な主要企業の戦略を分析し、ASRMのポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当てることで、加速する世界のASRM市場におけるこれらの企業の独自の立場をより深く理解できるようにしています",
+    "url": "https://newscast.jp/smart/news/4495383",
+    "pass": 3
+   },
+   {
+    "quote": "また、本レポートでは、世界的な主要企業の戦略を分析し、ASRMのポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当てることで、加速する世界のASRM市場におけるこれらの企業の独自の立場をより深く理解できるようにしています",
+    "url": "https://www.atpress.ne.jp/news/4495383",
+    "pass": 3
+   },
+   {
+    "quote": "主要な市場参入企業、堅牢なインフラ、ロボット工学、AI、IoTなどの自動化技術への高い投資が、市場の成長にさらに貢献しています",
+    "url": "https://www.gii.co.jp/report/mama1649591-automated-storage-retrieval-system-market-by-type.html",
+    "pass": 3
+   },
+   {
+    "quote": "スマートウェアハウジングと持続可能性を重視する傾向が強まっている北米は、世界のASRS市場における主要参入企業です",
+    "url": "https://www.gii.co.jp/report/mama1649591-automated-storage-retrieval-system-market-by-type.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要参入企業の戦略/強み、2021年～2024年",
+    "url": "https://www.gii.co.jp/report/mama1649591-automated-storage-retrieval-system-market-by-type.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業評価マトリックス：主要参入企業、2024年",
+    "url": "https://www.gii.co.jp/report/mama1649591-automated-storage-retrieval-system-market-by-type.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要参入企業",
+    "url": "https://www.gii.co.jp/report/mama1649591-automated-storage-retrieval-system-market-by-type.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社矢野経済研究所（代表取締役社長：水越孝）は、国内の物流ロボティクス市場を調査し、市場規模、参入企業の動向、将来展望を明らかにした",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3762?srsltid=AYCX9vI3JDvOAdi0-kBsYVRZ4ym3bHGJF4bpaL7iJmVJaHdROUdOr_tp",
+    "pass": 3
+   },
+   {
+    "quote": "全般的な通販の物流・出荷代行を行う通販フルフィルメントサービスは、ECの参入企業および利用者の増加により需要増加が続いている",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=20005&la=en",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players:",
+    "url": "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Automated Storage and Retrieval System (ASRS) Market Share & Competitive Landscape",
+    "url": "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in Automated Storage and Retrieval System (ASRS) Market?",
+    "url": "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in Automated Storage and Retrieval System (ASRS) Market include KION Group AG (Dematic), Murata Machinery Co., SSI Schäfer Group, Vanderlande Industries, Daifuku Co., Ltd..",
+    "url": "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/automated-storage-retrieval-system-market-3886",
+    "pass": 3
+   },
+   {
+    "quote": "Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/automated-storage-retrieval-system-market-3886",
+    "pass": 3
+   },
+   {
+    "quote": "Automated Storage and Retrieval System Market Size, Key Companies, Company Market Share, User Adoption, Technology Deployment, Revenue Growth, Competitive Positioning, and Demand Forecast",
+    "url": "https://www.precedenceresearch.com/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.precedenceresearch.com/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players:",
+    "url": "https://www.precedenceresearch.com/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Other Major Key Players",
+    "url": "https://www.precedenceresearch.com/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 3: Who are the prominent players operating in the automated storage and retrieval system market?",
+    "url": "https://www.precedenceresearch.com/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players operating in the market include Dematic (KION GROUP AG), Daifuku Co., Ltd., and SSI SCHAEFER Group, among others.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/automated-storage-retrievel-system-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/automated-storage-retrievel-system-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/automated-storage-retrievel-system-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in automated storage and retrieval systems market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/automated-storage-retrievel-system-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Some key players operating in the automated storage and retrieval systems market include Kardex Group, Daifuku Co., Ltd., Murata Machinery, Ltd., SSI Schaefer AG, TGW Logistics Group GmbH, Dematic Corp. (Kion Group AG), and Mecalux, S.A..",
+    "url": "https://www.grandviewresearch.com/industry-analysis/automated-storage-retrievel-system-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies:",
+    "url": "https://www.marketdataforecast.com/market-reports/europe-automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Regional & Country Level Analysis, Segment-Level Analysis, DROC, PESTLE Analysis, Porter’s Five Forces Analysis, Competitive Landscape, Analyst Overview on Investment Opportunities",
+    "url": "https://www.marketdataforecast.com/market-reports/europe-automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Furthermore, AutoStore’s modular architecture allows seamless expansion without requiring extensive facility modifications, making it highly attractive to SMEs and startups seeking cost-effective automation solutions. As urban logistics hubs prioritize space optimization and sustainability, AutoStore ASRS is expected to see continued adoption across diverse industry verticals in Europe.",
+    "url": "https://www.marketdataforecast.com/market-reports/europe-automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Major players such as Dematic and Honeywell Intelligrated have reported strong demand for robotic picking cells and voice-directed picking integrations linked to ASRS. Moreover, the rise of micro-fulfillment centers near urban hubs has further intensified the need for fast, accurate order processing, reinforcing the critical role of ASRS in optimizing picking workflows across the region.",
+    "url": "https://www.marketdataforecast.com/market-reports/europe-automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "In Europe, Dematic supports major players in the retail, automotive, and logistics sectors with scalable automation strategies that align with evolving supply chain demands.",
+    "url": "https://www.marketdataforecast.com/market-reports/europe-automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "One of the primary strategies employed by key players in the Europe Automated Storage and Retrieval System (ASRS) market is expanding digital integration and software capabilities. Companies are investing heavily in AI-powered warehouse management systems, predictive analytics, and IoT-enabled control interfaces to offer more intelligent and adaptive automation solutions.",
+    "url": "https://www.marketdataforecast.com/market-reports/europe-automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Lastly, companies are focusing on product diversification and modular system development, allowing customers to scale their automation infrastructure according to demand fluctuations. This flexibility appeals to SMEs and startups seeking cost-effective entry points into automated warehousing without compromising long-term scalability or performance.",
+    "url": "https://www.marketdataforecast.com/market-reports/europe-automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Mecalux SA (Spain), Knapp AG (Austria), TGW Logistics Group GmbH (Austria), Vanderlande Industries (Netherlands), Daifuku Co. Ltd. (Japan), Kardex Group (Switzerland), Swisslog Holding AG (Switzerland), SSI Schaefer Group (Germany), Murata Machinery (Japan) and System Logistics Corporation (Italy) are some of the major players in the European market.",
+    "url": "https://www.marketdataforecast.com/market-reports/europe-automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Automated Storage And Retrieval System Market Competitive Landscape",
+    "url": "https://www.skyquestt.com/report/automated-storage-and-retrieval-system-asrs-market",
+    "pass": 3
+   },
+   {
+    "quote": "(Exhibit: Data Table: Emerging startups details)",
+    "url": "https://www.skyquestt.com/report/automated-storage-and-retrieval-system-asrs-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.skyquestt.com/report/automated-storage-and-retrieval-system-asrs-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America region dominates the global automated storage and retrieval system market with 41.8% market share in 2026. This is due to strong presence of major players across various end-use industries.",
+    "url": "https://www.coherentmarketinsights.com/market-insight/automated-storage-and-retrieval-system-market-5451",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.coherentmarketinsights.com/market-insight/automated-storage-and-retrieval-system-market-5451",
+    "pass": 3
+   },
+   {
+    "quote": "Market Concentration and Competitive Landscape",
+    "url": "https://www.coherentmarketinsights.com/market-insight/automated-storage-and-retrieval-system-market-5451",
+    "pass": 3
+   },
+   {
+    "quote": "in 2026 of the total market share due to strong presence of major players across various end-use industries. The U.S. alone contributes to more than 70.5% of the regional market owing to high demand from industries such as e-commerce, automotive, food & beverage etc.",
+    "url": "https://www.coherentmarketinsights.com/market-insight/automated-storage-and-retrieval-system-market-5451",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Insights",
+    "url": "https://www.coherentmarketinsights.com/market-insight/automated-storage-and-retrieval-system-market-5451",
+    "pass": 3
+   },
+   {
+    "quote": "Key strategies of major players",
+    "url": "https://metastatinsight.com/report/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key companies in the Automated Storage & Retrieval System Market?",
+    "url": "https://metastatinsight.com/report/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top players operating in the Automated Storage & Retrieval System industry includes Daifuku Co., SSI Schäfer AG, Murata Machinery, Knapp AG, TGW Logistics Group, and Others.",
+    "url": "https://metastatinsight.com/report/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Major players profiled in this report are as follows: Major Players: TGW Logistics Group (Austria), Kardex (Switzerland), Daifuku Co., Ltd. (Japan), Murata Manufacturing Co., Ltd. (Japan), and SSI SCHAEFER (Germany) and Others. These leading companies possess a wide portfolio of products, establishing a prominent presence in established as well as emerging markets.",
+    "url": "https://www.researchandmarkets.com/report/automated-storage-retrieval?srsltid=AYCX9vLFmPwZsDV4hc90k7RTXN1DdQ0v2MzmM_Tf7Q7z1CMtob9cbv46",
+    "pass": 3
+   },
+   {
+    "quote": "The study provides a detailed competitive analysis of these key players in the automated storage & retrieval system market, presenting their company profiles, most recent developments, and key market strategies.",
+    "url": "https://www.researchandmarkets.com/report/automated-storage-retrieval?srsltid=AYCX9vLFmPwZsDV4hc90k7RTXN1DdQ0v2MzmM_Tf7Q7z1CMtob9cbv46",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Assessment: In-depth assessment of market shares, growth strategies, and service offerings of leading players like TGW Logistics Group (Austria), Kardex (Switzerland), Daifuku Co., Ltd. (Japan), Murata Manufacturing Co., Ltd. (Japan), SSI SCHAEFER (Germany) and Others.",
+    "url": "https://www.researchandmarkets.com/report/automated-storage-retrieval?srsltid=AYCX9vLFmPwZsDV4hc90k7RTXN1DdQ0v2MzmM_Tf7Q7z1CMtob9cbv46",
+    "pass": 3
+   },
+   {
+    "quote": "5.5.1 Indicative Pricing of Asrs Provided by Key Players, by Type, 2024",
+    "url": "https://www.researchandmarkets.com/report/automated-storage-retrieval?srsltid=AYCX9vLFmPwZsDV4hc90k7RTXN1DdQ0v2MzmM_Tf7Q7z1CMtob9cbv46",
+    "pass": 3
+   },
+   {
+    "quote": "15 Competitive Landscape",
+    "url": "https://www.researchandmarkets.com/report/automated-storage-retrieval?srsltid=AYCX9vLFmPwZsDV4hc90k7RTXN1DdQ0v2MzmM_Tf7Q7z1CMtob9cbv46",
+    "pass": 3
+   },
+   {
+    "quote": "15.7 Company Evaluation Matrix: Key Players, 2024",
+    "url": "https://www.researchandmarkets.com/report/automated-storage-retrieval?srsltid=AYCX9vLFmPwZsDV4hc90k7RTXN1DdQ0v2MzmM_Tf7Q7z1CMtob9cbv46",
+    "pass": 3
+   },
+   {
+    "quote": "15.7.5 Company Footprint: Key Players, 2024",
+    "url": "https://www.researchandmarkets.com/report/automated-storage-retrieval?srsltid=AYCX9vLFmPwZsDV4hc90k7RTXN1DdQ0v2MzmM_Tf7Q7z1CMtob9cbv46",
+    "pass": 3
+   },
+   {
+    "quote": "15.8 Company Evaluation Matrix: Startups/SMEs, 2024",
+    "url": "https://www.researchandmarkets.com/report/automated-storage-retrieval?srsltid=AYCX9vLFmPwZsDV4hc90k7RTXN1DdQ0v2MzmM_Tf7Q7z1CMtob9cbv46",
+    "pass": 3
+   },
+   {
+    "quote": "15.8.5 Competitive Benchmarking: Startups/SMEs, 2024",
+    "url": "https://www.researchandmarkets.com/report/automated-storage-retrieval?srsltid=AYCX9vLFmPwZsDV4hc90k7RTXN1DdQ0v2MzmM_Tf7Q7z1CMtob9cbv46",
+    "pass": 3
+   },
+   {
+    "quote": "15.8.5.1 Detailed List of Key Startups/SMEs",
+    "url": "https://www.researchandmarkets.com/report/automated-storage-retrieval?srsltid=AYCX9vLFmPwZsDV4hc90k7RTXN1DdQ0v2MzmM_Tf7Q7z1CMtob9cbv46",
+    "pass": 3
+   },
+   {
+    "quote": "15.8.5.2 Competitive Benchmarking of Key Startups/SMEs",
+    "url": "https://www.researchandmarkets.com/report/automated-storage-retrieval?srsltid=AYCX9vLFmPwZsDV4hc90k7RTXN1DdQ0v2MzmM_Tf7Q7z1CMtob9cbv46",
+    "pass": 3
+   },
+   {
+    "quote": "16.1 Key Players",
+    "url": "https://www.researchandmarkets.com/report/automated-storage-retrieval?srsltid=AYCX9vLFmPwZsDV4hc90k7RTXN1DdQ0v2MzmM_Tf7Q7z1CMtob9cbv46",
+    "pass": 3
+   },
+   {
+    "quote": "Table 4 Indicative Pricing of Asrs Offered by Key Players, by Type, 2024 (USD)",
+    "url": "https://www.researchandmarkets.com/report/automated-storage-retrieval?srsltid=AYCX9vLFmPwZsDV4hc90k7RTXN1DdQ0v2MzmM_Tf7Q7z1CMtob9cbv46",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4495383",
+    "pass": 3
+   },
+   {
+    "quote": "A McKinsey survey of 65 senior logistics and supply chain executives found 70% planned automation investment over five years",
+    "url": "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Distribution centers generated USD 3.52 billion in 2025 and are projected to hold 34.0% of revenue by 2035. Their scale, throughput demands, and mix of inbound pallet handling and outbound order processing make them the natural anchor application for ASRS investment.",
+    "url": "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "3PL and contract logistics is projected to reach USD 3.45 billion by 2035 and accounted for 13.0% of revenue in 2025. These operators can create repeated procurement opportunities because automation investments are often deployed across multiple facilities serving distinct customer contracts and service-level requirements.",
+    "url": "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "The United States generated USD 2.71 billion in 2025 and is projected to represent 87.1% of North American revenue by 2035. Warehouse labor economics, semiconductor and battery manufacturing investment, and large-scale retail distribution networks support demand for both fulfillment-focused and production-adjacent automation.",
+    "url": "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Spain represented 10.7% of European revenue in 2025 and is forecast to grow at a 7.0% CAGR (2026-2035). Its position as a southern European logistics hub and continued investment in e-commerce and apparel distribution are increasing demand for scalable fulfillment automation.",
+    "url": "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "China is expected to reach USD 3.60 billion by 2035 and represented 42.6% of Asia Pacific revenue in 2025. Domestic OEM development, industrial automation priorities, and continued investment in e-commerce and cold-chain logistics position the country as the region's largest demand center.",
+    "url": "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan is projected to reach USD 2.18 billion by 2035 and represented 24.4% of Asia Pacific revenue in 2025. Replacement of mature installations, precision manufacturing logistics, and demographic pressure on warehouse labor underpin investment in both established and robotic ASRS formats.",
+    "url": "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Latin America generated USD 440 million in 2025 and is forecast to grow at a 7.1% CAGR (2026-2035). Formal retail expansion, e-commerce investment, and modernization by multinational logistics and food companies support adoption, although financing conditions and macroeconomic volatility remain project-level considerations.",
+    "url": "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Mexico generated USD 150 million in 2025 and is projected to account for 34.8% of Latin American revenue by 2035. Nearshoring-driven manufacturing investment and cross-border supply-chain integration are supporting demand for compatible warehouse-control and storage automation platforms.",
+    "url": "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Saudi Arabia generated USD 130 million in 2025 and is forecast to grow at a 14.9% CAGR (2026-2035). Logistics investment, domestic e-commerce development, and modernization of food and pharmaceutical supply chains are expanding the market for automated distribution infrastructure.",
+    "url": "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Murata Machinery held approximately 8% of market revenue in 2025. Its specialization in semiconductor automated material handling, mini-load systems, and precision manufacturing environments creates a differentiated position as investment in advanced manufacturing facilities continues.",
+    "url": "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Most mid-size deployments (200,000–500,000 sq ft) achieve payback within 3–5 years depending on labor-cost geography and shift structure . Facilities running three shifts in high-wage regions often recoup investment in under three years.",
+    "url": "https://www.marketresearchfuture.com/reports/automated-storage-retrieval-system-market-3886",
+    "pass": 3
+   },
+   {
+    "quote": "Germany advances in the market through Industry 4.0 smart factory modernisation, smart factory integration, and dominance of the automotive sector. The German federal government launched digital frameworks, major legislative packages, and funding injections to boost the modernization of its supply chains.",
+    "url": "https://www.precedenceresearch.com/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Stellantis announced a US$388 million investment for the development of a new state-of-the-art Mopar service-parts distribution megahub located in Van Buren Township, Michigan. The facility is expected to open in 2027 with about 488 workers represented by the UAW and utilizes AutoStore automated storage and retrieval technology to improve and centralize its parts distribution network.",
+    "url": "https://www.precedenceresearch.com/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "the City Council of Franklin, Ohio, approved a development agreement for Modula's $24 million expansion of its facility on Commerce Center Drive. The 180,000 sq ft expansion was supposed to phase in 60 new full-time jobs by 2028 over three years. It was tied to a 15-year property tax abatement program under the city's Community Reinvestment Area and New Community Authority.",
+    "url": "https://www.precedenceresearch.com/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Like, as per the European Logistics Association (ELA), warehouse automation investments across Western Europe increased by nearly 14% annually between 2020 and 2023. This trend shows the region’s focus on Industry 4.0 technologies, including robotics, AI-driven inventory management, and real-time data analytics—key components of modern ASRS installations.",
+    "url": "https://www.marketdataforecast.com/market-reports/europe-automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Moreover, market leaders such as Amazon and Zalando have invested heavily in fully automated fulfillment centers across Europe. In fact, as per McKinsey & Company, a significant portion of new large-scale warehouse projects launched in the region between 2021 and 2023 incorporated ASRS technology to support same-day delivery commitments.",
+    "url": "https://www.marketdataforecast.com/market-reports/europe-automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "According to the European Cold Chain Federation (ECCF), refrigerated warehouse capacity in the EU grew by 9% annually between 2020 and 2023, reflecting heightened investment in controlled-environment storage facilities.",
+    "url": "https://www.marketdataforecast.com/market-reports/europe-automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Besides, according to the European Network and Information Security Directive (NIS2), organizations operating critical logistics infrastructure are now subject to stricter cybersecurity compliance requirements. Meeting these standards requires additional investments in secure communication protocols, encryption technologies, and employee cybersecurity training.",
+    "url": "https://www.marketdataforecast.com/market-reports/europe-automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "The UK held a significant portion of the European ASRS market, driven by the rapid expansion of e-commerce, logistics modernization, and post-Brexit supply chain adjustments. According to the Office for National Statistics (ONS), the UK’s e-commerce sector grew year-over-year in 2023, prompting increased investment in automated fulfillment infrastructure.",
+    "url": "https://www.marketdataforecast.com/market-reports/europe-automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "France is benefiting from strong industrial modernization efforts and growing investments in digital logistics. According to the French Ministry of Economy, the country’s logistics sector generated over €140 billion in revenue in 2023, with automation playing a central role in improving supply chain resilience.",
+    "url": "https://www.marketdataforecast.com/market-reports/europe-automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "In 2024, GreenBox Systems—a SoftBank-Symbotic joint venture made a US $144 million investment to build a fully automated warehouse in Jackson, Georgia. The warehouse, to be inaugurated in 2025, will have 300 employees and utilize sophisticated AI-powered, vision-based robotic systems to reduce human touch in sorting, packing, and shipping.",
+    "url": "https://www.coherentmarketinsights.com/market-insight/automated-storage-and-retrieval-system-market-5451",
+    "pass": 3
+   },
+   {
+    "quote": "5.7 Investment and Funding Scenario",
+    "url": "https://www.researchandmarkets.com/report/automated-storage-retrieval?srsltid=AYCX9vLFmPwZsDV4hc90k7RTXN1DdQ0v2MzmM_Tf7Q7z1CMtob9cbv46",
+    "pass": 3
+   },
+   {
+    "quote": "6.2.6 Investments in Micro-Fulfillment Technology",
+    "url": "https://www.researchandmarkets.com/report/automated-storage-retrieval?srsltid=AYCX9vLFmPwZsDV4hc90k7RTXN1DdQ0v2MzmM_Tf7Q7z1CMtob9cbv46",
+    "pass": 3
+   },
+   {
+    "quote": "Table 19 Fundings for Micro-Fulfillment Centers, 2021-2022",
+    "url": "https://www.researchandmarkets.com/report/automated-storage-retrieval?srsltid=AYCX9vLFmPwZsDV4hc90k7RTXN1DdQ0v2MzmM_Tf7Q7z1CMtob9cbv46",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 29 Investment and Funding Scenario, 2020-2024",
+    "url": "https://www.researchandmarkets.com/report/automated-storage-retrieval?srsltid=AYCX9vLFmPwZsDV4hc90k7RTXN1DdQ0v2MzmM_Tf7Q7z1CMtob9cbv46",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "倉庫 自動化 市場規模 、シェア、および予測 – 2034年 — 倉庫 自動化 市場規模 、シェア、および予測 – 2034年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > wareho...",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動倉庫 モジュールの世界 市場 （2026年～2032年） — 自動倉庫 モジュールの世界 市場 （2026年～2032年） Newscast.jp https://newscast.jp > smart > news",
+    "url": "https://newscast.jp/smart/news/4495383",
+    "pass": 3
+   },
+   {
+    "quote": "自動倉庫 モジュールの世界 市場 （2026年～2032年） — 自動倉庫 モジュールの世界 市場 （2026年～2032年） アットプレス https://www.atpress.ne.jp > news",
+    "url": "https://www.atpress.ne.jp/news/4495383",
+    "pass": 3
+   },
+   {
+    "quote": "自動倉庫 システム市場| 市場規模 市場調査 予測 2030年まで — 自動倉庫 システム市場| 市場規模 市場調査 予測 2030年まで グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > ... > オートメーション/ロボット",
+    "url": "https://www.gii.co.jp/report/mama1649591-automated-storage-retrieval-system-market-by-type.html",
+    "pass": 3
+   },
+   {
+    "quote": "自動倉庫 retrieval システム 市場 (2026 – 2035) — 自動倉庫 retrieval システム 市場 (2026 – 2035) Market Research Future https://www.marketresearchfuture.com > reports > automa...",
+    "url": "https://www.marketresearchfuture.com/ja/reports/automated-storage-retrieval-system-market-3886",
+    "pass": 3
+   },
+   {
+    "quote": "倉庫 自動化 市場シェア 、規模、傾向、2034 年 — 倉庫 自動化 市場シェア 、規模、傾向、2034 年 Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 情報技術",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E5%80%89%E5%BA%AB%E8%87%AA%E5%8B%95%E5%8C%96%E5%B8%82%E5%A0%B4-112006",
+    "pass": 3
+   },
+   {
+    "quote": "自動倉庫 の代表的メーカー11選｜特徴と選び方をわかりやすく ... — 自動倉庫 の代表的メーカー11選｜特徴と選び方をわかりやすく ... n-apt.com https://n-apt.com > automatic-warehouse-manufacturer",
+    "url": "https://n-apt.com/info/automatic-warehouse-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "倉庫 自動化 市場 規模、 シェア 、および予測 – 2034年 — 倉庫 自動化 市場 規模、 シェア 、および予測 – 2034年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > wareho...",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動倉庫 システム メーカー36社 注目ランキング【2026年】 — 自動倉庫 システム メーカー36社 注目ランキング【2026年】 Metoree https://metoree.com > categories",
+    "url": "https://metoree.com/categories/110055/",
+    "pass": 3
+   },
+   {
+    "quote": "物流ロボティクス 市場 に関する調査を実施（ 2025 年） — 物流ロボティクス 市場 に関する調査を実施（ 2025 年） yano.co.jp https://www.yano.co.jp > press-release > show > press_id",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3762?srsltid=AYCX9vI3JDvOAdi0-kBsYVRZ4ym3bHGJF4bpaL7iJmVJaHdROUdOr_tp",
+    "pass": 3
+   },
+   {
+    "quote": "自動倉庫 ・検索システム 市場 規模、 市場 シェア、2034年 — 自動倉庫 ・検索システム 市場 規模、 市場 シェア、2034年 Straits Research https://straitsresearch.com > 情報技術 > テクノロジー",
+    "url": "https://straitsresearch.com/jp/report/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "ボックス型 自動倉庫 ソリューションの世界 市場 （2026年 ... — ボックス型 自動倉庫 ソリューションの世界 市場 （2026年 ... アットプレス https://www.atpress.ne.jp > news",
+    "url": "https://www.atpress.ne.jp/news/9375049",
+    "pass": 3
+   },
+   {
+    "quote": "Automated Storage and Retrieval System Market (2026 – 2035) — Automated Storage and Retrieval System Market (2026 – 2035) Market Research Future https://www.marketresearchfuture.com > ...",
+    "url": "https://www.marketresearchfuture.com/reports/automated-storage-retrieval-system-market-3886",
+    "pass": 3
+   },
+   {
+    "quote": "Automated Storage And Retrieval Systems Market Size , 2030 — Automated Storage And Retrieval Systems Market Size , 2030 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/automated-storage-retrievel-system-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Automated Storage and Retrieval System Market worth $12.7 ... — Automated Storage and Retrieval System Market worth $12.7 ... PR Newswire https://www.prnewswire.com > autom...",
+    "url": "https://www.prnewswire.com/news-releases/automated-storage-and-retrieval-system-market-worth-12-7-billion-by-2028---exclusive-report-by-marketsandmarkets-301941165.html",
+    "pass": 3
+   },
+   {
+    "quote": "India Automated Storage and Retrieval System Market (2025 ... — India Automated Storage and Retrieval System Market (2025 ... MarketsandMarkets https://www.marketsandmarkets.com > ...",
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/automated-storage-retrieval-system-market/India",
+    "pass": 3
+   },
+   {
+    "quote": "Automated Storage and Retrieval Systems Market Size , 2034 — Automated Storage and Retrieval Systems Market Size , 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/automated-storage-and-retrieval-systems-as-rs-market-109701",
+    "pass": 3
+   },
+   {
+    "quote": "Automated Storage And Retrieval System Market Forecast, 2033 — Automated Storage And Retrieval System Market Forecast, 2033 Coherent Market Insights https://www.coherentmarketinsights.com > market-insight",
+    "url": "https://www.coherentmarketinsights.com/market-insight/automated-storage-and-retrieval-system-market-5451",
+    "pass": 3
+   },
+   {
+    "quote": "Automated Storage & Retrieval System Market Size Till 2033 — Automated Storage & Retrieval System Market Size Till 2033 Metastat Insights https://metastatinsight.com > report",
+    "url": "https://metastatinsight.com/report/automated-storage-and-retrieval-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Automated Storage And Retrieval Systems Market Size, 2030 — Automated Storage And Retrieval Systems Market Size, 2030 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/automated-storage-retrievel-system-market-report",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "14.4",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "quote": "国際貿易局(ITA)によると、世界のB2C電子商取引の収益だけでも、2017年の1兆4000億米ドルから2027年には5兆5000億米ドルに達し、年平均成長率14.4%で成長する見込みです"
+   },
+   {
+    "value": "5.2",
+    "url": "https://newscast.jp/smart/news/4495383",
+    "quote": "世界の自動倉庫モジュール（ASRM）市場規模は、2025年の5億1,300万米ドルから2032年には7億2,500万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）5.2%で成長すると見込まれています"
+   },
+   {
+    "value": "5.2",
+    "url": "https://www.atpress.ne.jp/news/4495383",
+    "quote": "世界の自動倉庫モジュール（ASRM）市場規模は、2025年の5億1,300万米ドルから2032年には7億2,500万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）5.2%で成長すると見込まれています"
+   },
+   {
+    "value": "8.2",
+    "url": "https://straitsresearch.com/jp/report/automated-storage-and-retrieval-system-market",
+    "quote": "世界の自動倉庫システム市場規模は、2025年には102億9,000万米ドルと評価され、2026年の111億3,000万米ドルから2034年には209億2,000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は8.2%となる見込みです"
+   },
+   {
+    "value": "5.2",
+    "url": "https://straitsresearch.com/jp/report/automated-storage-and-retrieval-system-market",
+    "quote": "ユニットロードセクションは、最も大きな収益を維持し、年平均成長率（CAGR）5.2%で成長すると予測されています"
+   },
+   {
+    "value": "4.7",
+    "url": "https://straitsresearch.com/jp/report/automated-storage-and-retrieval-system-market",
+    "quote": "保管部門は最も高いシェアを占め、年平均成長率（CAGR）4.7%で成長すると予測されています"
+   },
+   {
+    "value": "9.5",
+    "url": "https://straitsresearch.com/jp/report/automated-storage-and-retrieval-system-market",
+    "quote": "食品・飲料分野は、年平均成長率（CAGR）9.5%で成長し、最大の市場シェアを占めると予測されています"
+   },
+   {
+    "value": "10.13",
+    "url": "https://straitsresearch.com/jp/report/automated-storage-and-retrieval-system-market",
+    "quote": "アジア太平洋地域は、予測期間中に年平均成長率（CAGR）10.13%で拡大し、最大のシェアを占めると予測されています"
+   },
+   {
+    "value": "5.15",
+    "url": "https://straitsresearch.com/jp/report/automated-storage-and-retrieval-system-market",
+    "quote": "欧州は48億1,200万米ドルのシェアを占めると予測されており、年平均成長率（CAGR）は5.15%です"
+   },
+   {
+    "value": "14.25",
+    "url": "https://www.marketresearchfuture.com/reports/automated-storage-retrieval-system-market-3886",
+    "quote": "E-commerce and retail is registering the highest forecast CAGR of 14.25%, reflecting the omnichannel fulfillment imperative."
+   },
+   {
+    "value": "7.92",
+    "url": "https://www.precedenceresearch.com/automated-storage-and-retrieval-system-market",
+    "quote": "CAGR of 7.92%"
+   },
+   {
+    "value": "7.40",
+    "url": "https://www.precedenceresearch.com/automated-storage-and-retrieval-system-market",
+    "quote": "The Europe automated storage and retrieval system market size was exhibited at USD 4.11 billion in 2026 and is projected to be worth around USD 7.84 billion by 2035, growing at a CAGR of 7.40% from 2026 to 2035."
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "37",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "quote": "サービス市場は、2024年に37%の市場シェアを占めました"
+   },
+   {
+    "value": "22.6",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "quote": "冷蔵倉庫は、2024年に22.6%の市場シェアを占めました"
+   },
+   {
+    "value": "35.3",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "quote": "クラウドベース倉庫セグメントは、2024年に市場で35.3%のシェアを占めました"
+   },
+   {
+    "value": "26.3",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "quote": "自動保管・搬送システム(AS/RS)は、2024年に26.3%の市場シェアを占めました"
+   },
+   {
+    "value": "26.2",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "quote": "在庫追跡&管理は、2024年に26.2%の市場シェアを占めました"
+   },
+   {
+    "value": "16.4",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "quote": "食品・飲料業界は2024年に市場シェアの16.4%を占めました"
+   },
+   {
+    "value": "35.6",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "quote": "北米は2024年に市場シェアの35.6%を占めました"
+   },
+   {
+    "value": "21.8",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "quote": "欧州は2024年に21.8%の重要な市場シェアを占めました"
+   },
+   {
+    "value": "14.2",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "quote": "イタリアの倉庫自動化市場は、2024年に14.2%のシェアを占めました"
+   },
+   {
+    "value": "48.9",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "quote": "中国の倉庫自動化市場は、2024年に市場シェアの48.9%を占めました"
+   },
+   {
+    "value": "12.3",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "quote": "日本の倉庫自動化市場は、2024年に12.3%のシェアを占めました"
+   },
+   {
+    "value": "6.9",
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "quote": "ラテンアメリカは、2024年に倉庫自動化市場の6.9%のシェアを占めました"
+   },
+   {
+    "value": "3",
+    "url": "https://lplanners.jp/blog/automatic-warehouse-share/",
+    "quote": "最大手のシェーファーでもシェアは3％に満たないので、シェアトップにこだわる必要は決してありません"
+   },
+   {
+    "value": "36.4",
+    "url": "https://straitsresearch.com/jp/report/automated-storage-and-retrieval-system-market",
+    "quote": "アジア太平洋地域は、2025年に36.4%の市場シェアを占め、自動倉庫システム市場を牽引しました"
+   },
+   {
+    "value": "4.7",
+    "url": "https://straitsresearch.com/jp/report/automated-storage-and-retrieval-system-market",
+    "quote": "保管部門は最も高いシェアを占め、年平均成長率（CAGR）4.7%で成長すると予測されています"
+   },
+   {
+    "value": "9.5",
+    "url": "https://straitsresearch.com/jp/report/automated-storage-and-retrieval-system-market",
+    "quote": "食品・飲料分野は、年平均成長率（CAGR）9.5%で成長し、最大の市場シェアを占めると予測されています"
+   },
+   {
+    "value": "10.13",
+    "url": "https://straitsresearch.com/jp/report/automated-storage-and-retrieval-system-market",
+    "quote": "アジア太平洋地域は、予測期間中に年平均成長率（CAGR）10.13%で拡大し、最大のシェアを占めると予測されています"
+   },
+   {
+    "value": "5.15",
+    "url": "https://straitsresearch.com/jp/report/automated-storage-and-retrieval-system-market",
+    "quote": "欧州は48億1,200万米ドルのシェアを占めると予測されており、年平均成長率（CAGR）は5.15%です"
+   },
+   {
+    "value": "35",
+    "url": "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "quote": "Professional-service-robot demand has remained concentrated in logistics applications, with nearly 113,000 transportation and logistics robots sold in 2023, up 35% year over year"
+   },
+   {
+    "value": "20.0",
+    "url": "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "quote": "Unit load AS/RS is expected to reach USD 3.45 billion by 2035 and accounted for 20.0% of revenue in 2025. Crane-based pallet storage remains important in high-volume inbound logistics and manufacturing environments, where load consistency and dense vertical storage often outweigh the flexibility ben"
+   },
+   {
+    "value": "22.0",
+    "url": "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "quote": "Manufacturing support accounted for 22.0% of revenue in 2025 and is expected to grow at a 5.2% CAGR (2026-2035). Demand is linked to modernization cycles and the need to synchronize component availability with production workflows, although site-specific systems integration can lengthen project time"
+   },
+   {
+    "value": "5.2",
+    "url": "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "quote": "Manufacturing support accounted for 22.0% of revenue in 2025 and is expected to grow at a 5.2% CAGR (2026-2035). Demand is linked to modernization cycles and the need to synchronize component availability with production workflows, although site-specific systems integration can lengthen project time"
+   },
+   {
+    "value": "13.0",
+    "url": "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "quote": "3PL and contract logistics is projected to reach USD 3.45 billion by 2035 and accounted for 13.0% of revenue in 2025. These operators can create repeated procurement opportunities because automation investments are often deployed across multiple facilities serving distinct customer contracts and ser"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/4495383",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/4495383",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/mama1649591-automated-storage-retrieval-system-market-by-type.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E5%80%89%E5%BA%AB%E5%B8%82%E5%A0%B4-106506",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E5%80%89%E5%BA%AB%E8%87%AA%E5%8B%95%E5%8C%96%E5%B8%82%E5%A0%B4-112006",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://n-apt.com/info/automatic-warehouse-manufacturer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/378/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/110055/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://lplanners.jp/blog/automatic-warehouse-share/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3762?srsltid=AYCX9vI3JDvOAdi0-kBsYVRZ4ym3bHGJF4bpaL7iJmVJaHdROUdOr_tp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=20005&la=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/automated-storage-and-retrieval-system-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E5%80%89%E5%BA%AB%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4-108713",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/automated-storage-and-retrieval-system-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/automated-storage-retrieval-system-market-195267987.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/automated-storage-retrieval-system-market-3886",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/automated-storage-and-retrieval-system-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/automated-storage-retrievel-system-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/automated-storage-and-retrieval-system-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/automated-storage-retrieval-system-market/India",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/automated-storage-and-retrieval-systems-as-rs-market-109701",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketdataforecast.com/market-reports/europe-automated-storage-and-retrieval-system-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skyquestt.com/report/automated-storage-and-retrieval-system-asrs-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/market-insight/automated-storage-and-retrieval-system-market-5451",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metastatinsight.com/report/automated-storage-and-retrieval-system-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Consolidated_(band)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Consolidated",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dictionary.cambridge.org/dictionary/english/consolidated",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchandmarkets.com/report/automated-storage-retrieval?srsltid=AYCX9vLFmPwZsDV4hc90k7RTXN1DdQ0v2MzmM_Tf7Q7z1CMtob9cbv46",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/ResearchInsight/automated-storage-retrieval-system-market.asp",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchandmarkets.com/reports/5528901/automated-storage-and-retrieval-system-global",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/automated-storage-retrieval-system-market/companies",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "自動倉庫 市場規模 CAGR",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "https://newscast.jp/smart/news/4495383",
+    "https://www.atpress.ne.jp/news/4495383",
+    "https://www.gii.co.jp/report/mama1649591-automated-storage-retrieval-system-market-by-type.html",
+    "https://www.fortunebusinessinsights.com/jp/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E5%80%89%E5%BA%AB%E5%B8%82%E5%A0%B4-106506",
+    "https://www.marketresearchfuture.com/ja/reports/automated-storage-retrieval-system-market-3886",
+    "https://very384.inkrich.com/posts/automated-storage-retrieval-system-652792-mvtx7bdw",
+    "https://jp.linkedin.com/pulse/%E5%80%89%E5%BA%AB%E3%82%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-industry-market-analysis-2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AEcagr-59%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8F%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AE%E8%A9%95%E4%BE%A1-i0c8e",
+    "https://www.sphericalinsights.com/jp/reports/autonomous-warehouse-robot-market",
+    "https://www.mordorintelligence.com/ja/industry-reports/warehouse-automation-market"
+   ]
+  },
+  {
+   "query": "自動倉庫 市場 シェア 上位 企業",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E5%80%89%E5%BA%AB%E8%87%AA%E5%8B%95%E5%8C%96%E5%B8%82%E5%A0%B4-112006",
+    "https://n-apt.com/info/automatic-warehouse-manufacturer/",
+    "https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/378/",
+    "https://metoree.com/categories/110055/",
+    "https://lplanners.jp/blog/automatic-warehouse-share/",
+    "https://www.warehouse-automatic.net/",
+    "https://www.sdki.jp/reports/warehouse-automation-market/104559",
+    "https://deallab.info/material-handling/",
+    "https://yhrnews.hatenadiary.com/entry/2026/07/13/110106"
+   ]
+  },
+  {
+   "query": "自動倉庫 市場 前年比 2025",
+   "results": [
+    "https://www.yano.co.jp/press-release/show/press_id/3762?srsltid=AYCX9vI3JDvOAdi0-kBsYVRZ4ym3bHGJF4bpaL7iJmVJaHdROUdOr_tp",
+    "https://www.fuji-keizai.co.jp/press/detail.html?cid=20005&la=en",
+    "https://www.mordorintelligence.com/ja/industry-reports/automated-storage-and-retrieval-system-market",
+    "https://www.fortunebusinessinsights.com/jp/%E5%80%89%E5%BA%AB%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4-108713",
+    "https://straitsresearch.com/jp/report/automated-storage-and-retrieval-system-market",
+    "https://www.atpress.ne.jp/news/9375049",
+    "https://www.sdki.jp/reports/warehouse-automation-market/104559",
+    "https://newscast.jp/smart/news/6904045",
+    "https://www.gminsights.com/ja/industry-analysis/logistics-robots-market",
+    "https://qyresearchnews.hateblo.jp/entry/2025/08/19/104635"
+   ]
+  },
+  {
+   "query": "automated storage and retrieval system market size CAGR 2025",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "https://www.marketsandmarkets.com/Market-Reports/automated-storage-retrieval-system-market-195267987.html",
+    "https://www.marketresearchfuture.com/reports/automated-storage-retrieval-system-market-3886",
+    "https://www.precedenceresearch.com/automated-storage-and-retrieval-system-market",
+    "https://www.grandviewresearch.com/industry-analysis/automated-storage-retrievel-system-market-report",
+    "https://www.prnewswire.com/news-releases/automated-storage-and-retrieval-system-market-worth-12-7-billion-by-2028---exclusive-report-by-marketsandmarkets-301941165.html",
+    "https://www.mordorintelligence.com/industry-reports/automated-storage-and-retrieval-system-market",
+    "https://www.stellarmr.com/report/automated-storage-and-retrieval-systems-market/2501",
+    "https://www.linkedin.com/pulse/united-states-automated-storage-retrieval-system-industry-zaqff",
+    "https://www.usdanalytics.com/industry-reports/automated-storage-and-retrieval-system-market"
+   ]
+  },
+  {
+   "query": "automated storage and retrieval system market share top players percent",
+   "results": [
+    "https://www.mordorintelligence.com/industry-reports/automated-storage-and-retrieval-system-market",
+    "https://www.marketresearchfuture.com/reports/automated-storage-retrieval-system-market-3886",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/automated-storage-retrieval-system-market/India",
+    "https://www.grandviewresearch.com/industry-analysis/automated-storage-retrievel-system-market-report",
+    "https://www.fortunebusinessinsights.com/automated-storage-and-retrieval-systems-as-rs-market-109701",
+    "https://www.precedenceresearch.com/automated-storage-and-retrieval-system-market",
+    "https://www.marketdataforecast.com/market-reports/europe-automated-storage-and-retrieval-system-market",
+    "https://www.linkedin.com/pulse/forecast-91-cagr-study-automatic-storage-retrieval-system-market-9phte",
+    "https://www.skyquestt.com/report/automated-storage-and-retrieval-system-asrs-market",
+    "https://www.marketsandmarkets.com/ResearchInsight/automated-storage-retrieval-system-market.asp"
+   ]
+  },
+  {
+   "query": "automated storage and retrieval system market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "https://www.marketsandmarkets.com/Market-Reports/automated-storage-retrieval-system-market-195267987.html",
+    "https://www.coherentmarketinsights.com/market-insight/automated-storage-and-retrieval-system-market-5451",
+    "https://www.linkedin.com/pulse/understanding-competitive-landscape-automated-storage-retrieval-zluae",
+    "https://metastatinsight.com/report/automated-storage-and-retrieval-system-market",
+    "https://www.grandviewresearch.com/industry-analysis/automated-storage-retrievel-system-market-report",
+    "https://www.marketresearchfuture.com/reports/automated-storage-retrieval-system-market-3886",
+    "https://www.skyquestt.com/report/automated-storage-and-retrieval-system-asrs-market",
+    "https://www.mordorintelligence.com/industry-reports/automated-storage-and-retrieval-system-market",
+    "https://en.wikipedia.org/wiki/Consolidated_(band)"
+   ]
+  },
+  {
+   "query": "automated storage and retrieval system market key companies share 2025",
+   "results": [
+    "https://www.marketsandmarkets.com/Market-Reports/automated-storage-retrieval-system-market-195267987.html",
+    "https://www.mordorintelligence.com/industry-reports/automated-storage-and-retrieval-system-market",
+    "https://www.precedenceresearch.com/automated-storage-and-retrieval-system-market",
+    "https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market",
+    "https://www.grandviewresearch.com/industry-analysis/automated-storage-retrievel-system-market-report",
+    "https://www.marketresearchfuture.com/reports/automated-storage-retrieval-system-market-3886",
+    "https://www.fortunebusinessinsights.com/automated-storage-and-retrieval-systems-as-rs-market-109701",
+    "https://www.researchandmarkets.com/report/automated-storage-retrieval?srsltid=AYCX9vLFmPwZsDV4hc90k7RTXN1DdQ0v2MzmM_Tf7Q7z1CMtob9cbv46",
+    "https://www.linkedin.com/pulse/automated-storage-retrieval-system-asrs-market-share-leading-companies-ia2se",
+    "https://www.marketsandmarkets.com/ResearchInsight/automated-storage-retrieval-system-market.asp"
+   ]
+  }
+ ],
+ "missing": {}
+}

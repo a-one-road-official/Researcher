@@ -1,0 +1,2043 @@
+{
+ "name": "放熱材料（TIM・金属系）",
+ "en": "thermal interface materials",
+ "aliases": [
+  "liquid metal TIM",
+  "thermal interface",
+  "放熱材料"
+ ],
+ "context": "AIデータセンター",
+ "kind": "market",
+ "researched_at": "2026-11-02T17:43:49.253696+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "熱伝導性材料市場規模・シェア予測レポート2035",
+    "url": "https://www.researchnester.com/ja/reports/thermal-interface-materials-market/5183",
+    "pass": 3
+   },
+   {
+    "quote": "熱伝導性材料市場規模とシェア（製品タイプ別：グリース・接着剤、サーマルパッド、ギャップフィラー、相変化材料、テープ・フィルム）、用途、材料タイプ - グローバル需給分析、成長予測、統計レポート 2026-2035",
+    "url": "https://www.researchnester.com/ja/reports/thermal-interface-materials-market/5183",
+    "pass": 3
+   },
+   {
+    "quote": "2026 市場規模",
+    "url": "https://www.researchnester.com/ja/reports/thermal-interface-materials-market/5183",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模：",
+    "url": "https://www.researchnester.com/ja/reports/thermal-interface-materials-market/5183",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模：",
+    "url": "https://www.researchnester.com/ja/reports/thermal-interface-materials-market/5183",
+    "pass": 3
+   },
+   {
+    "quote": "基準年市場規模（2025年）",
+    "url": "https://www.researchnester.com/ja/reports/thermal-interface-materials-market/5183",
+    "pass": 3
+   },
+   {
+    "quote": "予測年市場規模（2035年）",
+    "url": "https://www.researchnester.com/ja/reports/thermal-interface-materials-market/5183",
+    "pass": 3
+   },
+   {
+    "quote": "140億ドル",
+    "url": "https://www.researchnester.com/ja/reports/thermal-interface-materials-market/5183",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月、高性能AI半導体チップの熱伝導材料として使用される非導電性フィルムと熱伝導シートの生産能力を拡大するために150億円（約1億ドル）の投資を発表した",
+    "url": "https://www.researchnester.com/ja/reports/thermal-interface-materials-market/5183",
+    "pass": 3
+   },
+   {
+    "quote": "半導体用熱界面材料の世界市場（2026年～2032年）、市場規模（サーマルパッド、サーマルグリースおよびペースト、サーマル接着剤、ギャップフィラー、相変化型TIM、金属系TIM、炭素系TIM、その他）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/9302418",
+    "pass": 3
+   },
+   {
+    "quote": "半導体用熱界面材料の世界市場（2026年～2032年）、市場規模（サーマルパッド、サーマルグリースおよびペースト、サーマル接着剤、ギャップフィラー、相変化型TIM、金属系TIM、炭素系TIM、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9302418",
+    "pass": 3
+   },
+   {
+    "quote": "世界の半導体熱界面材料（TIM）市場規模は、2025年の12億5,000万米ドルから2032年には25億2,900万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）10.6％で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/9302418",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2032年までのグローバル市場規模、地域別の市場規模CAGR（2021年、2025年、2032年の比較）、国/地域別の現在および将来の分析（2021年、2025年、2032年）が含まれます",
+    "url": "https://www.atpress.ne.jp/news/9302418",
+    "pass": 3
+   },
+   {
+    "quote": "第3章には、プレイヤー別の半導体用熱界面材料市場規模の詳細な分析が示されています",
+    "url": "https://www.atpress.ne.jp/news/9302418",
+    "pass": 3
+   },
+   {
+    "quote": "2021年から2026年までの地域別市場規模、国/地域別の年間収益が示されています",
+    "url": "https://www.atpress.ne.jp/news/9302418",
+    "pass": 3
+   },
+   {
+    "quote": "また、アメリカ、APAC（アジア太平洋）、ヨーロッパ、中東・アフリカの各地域における半導体用熱界面材料市場規模の成長が2021年から2026年までの期間で詳細に分析されています",
+    "url": "https://www.atpress.ne.jp/news/9302418",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2026年までの国別市場規模（アメリカ合衆国、カナダ、メキシコ、ブラジル）、タイプ別市場規模、およびアプリケーション別市場規模が示されています",
+    "url": "https://www.atpress.ne.jp/news/9302418",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2026年までの地域別市場規模（中国、日本、韓国、東南アジア、インド、オーストラリア）、タイプ別市場規模、およびアプリケーション別市場規模が示されています",
+    "url": "https://www.atpress.ne.jp/news/9302418",
+    "pass": 3
+   },
+   {
+    "quote": "日本の熱伝導性材料市場規模は、2025年に2億5,450万米ドルに達しました",
+    "url": "https://newscast.jp/news/4014721",
+    "pass": 3
+   },
+   {
+    "quote": "今後、IMARCグループは、市場規模が2034年までに5億4,160万米ドルに達し、2026年から2034年の間に8.76%の成長率（CAGR）を示すと予測しています",
+    "url": "https://newscast.jp/news/4014721",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模：2億5,450万米ドル",
+    "url": "https://newscast.jp/news/4014721",
+    "pass": 3
+   },
+   {
+    "quote": "日本の熱伝導性材料市場規模は2025年に2億5,450万米ドルに達しました",
+    "url": "https://newscast.jp/news/4014721",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の車載電池用TIMの市場を1,524億円（2024年比176.4%）と推計 | 富士経済グループ 市場調査レポートサイト",
+    "url": "https://www.fkg-report.jp/market-trends/2026/2764.html",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の車載電池用TIMの市場を1,524億円（2024年比176.4%）と推計",
+    "url": "https://www.fkg-report.jp/market-trends/2026/2764.html",
+    "pass": 3
+   },
+   {
+    "quote": "市場は放熱ギャップフィラーがけん引し、今後も8割以上を占めると予想されます",
+    "url": "https://www.fkg-report.jp/market-trends/2026/2764.html",
+    "pass": 3
+   },
+   {
+    "quote": "2040年の世界市場を2兆6,730億円(2025年見込比215.6倍)と推計",
+    "url": "https://www.fkg-report.jp/market-trends/2026/2764.html",
+    "pass": 3
+   },
+   {
+    "quote": "2029年度の国内市場を3兆1,779億円(2024年度比2.1倍)と推計",
+    "url": "https://www.fkg-report.jp/market-trends/2026/2764.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年に「ChatGPT」が公開されて以降、生成AIの技術・市場は日進月歩であり、国内外で投資が活発化している",
+    "url": "https://www.fcr.co.jp/report/252q06.htm",
+    "pass": 3
+   },
+   {
+    "quote": "2) AI DC向けTIM市場規模推移および予測（2024年〜2030年・2035年予測）（3）",
+    "url": "https://www.fcr.co.jp/report/252q06.htm",
+    "pass": 3
+   },
+   {
+    "quote": "3) AI DC向け放熱フィラー市場規模推移および予測（2024年〜2030年・2035年予測）（4）",
+    "url": "https://www.fcr.co.jp/report/252q06.htm",
+    "pass": 3
+   },
+   {
+    "quote": "1) AIアクセラレーターチップ市場規模推移および予測（46）",
+    "url": "https://www.fcr.co.jp/report/252q06.htm",
+    "pass": 3
+   },
+   {
+    "quote": "2) サーバー向けCPU市場規模推移および予測（47）",
+    "url": "https://www.fcr.co.jp/report/252q06.htm",
+    "pass": 3
+   },
+   {
+    "quote": "3) NIC市場規模推移および予測（47）",
+    "url": "https://www.fcr.co.jp/report/252q06.htm",
+    "pass": 3
+   },
+   {
+    "quote": "4) クライアント側光トランシーバー市場規模推移および予測（48）",
+    "url": "https://www.fcr.co.jp/report/252q06.htm",
+    "pass": 3
+   },
+   {
+    "quote": "5) パワーデバイス市場規模推移および予測（48）",
+    "url": "https://www.fcr.co.jp/report/252q06.htm",
+    "pass": 3
+   },
+   {
+    "quote": "1. 市場規模推移および予測一覧（50）",
+    "url": "https://www.fcr.co.jp/report/252q06.htm",
+    "pass": 3
+   },
+   {
+    "quote": "1) AI DC向けTIM市場規模推移および予測一覧（50）",
+    "url": "https://www.fcr.co.jp/report/252q06.htm",
+    "pass": 3
+   },
+   {
+    "quote": "2) AI DC向け放熱フィラー市場規模推移および予測一覧（51）",
+    "url": "https://www.fcr.co.jp/report/252q06.htm",
+    "pass": 3
+   },
+   {
+    "quote": "3. AI DC向けTIM市場規模推移と予測(2024～2035年)",
+    "url": "https://www.cmcbooks.co.jp/products/detail.php?product_id=116328",
+    "pass": 3
+   },
+   {
+    "quote": "4. AI DC向け放熱フィラー市場規模推移と予測(2024～2035年)",
+    "url": "https://www.cmcbooks.co.jp/products/detail.php?product_id=116328",
+    "pass": 3
+   },
+   {
+    "quote": "2. 市場規模予測の現実化:液冷供給網の定着",
+    "url": "https://www.cmcbooks.co.jp/products/detail.php?product_id=116328",
+    "pass": 3
+   },
+   {
+    "quote": "伝熱シート業界は2028年度には約6,000億円",
+    "url": "https://shingi.jst.go.jp/pdf/2025/2025_ynu_003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年約4,000億円から年率",
+    "url": "https://shingi.jst.go.jp/pdf/2025/2025_ynu_003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " ウェアラブル市場規模は2023年",
+    "url": "https://shingi.jst.go.jp/pdf/2025/2025_ynu_003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "で1,202億ドル、Health &Fitness",
+    "url": "https://shingi.jst.go.jp/pdf/2025/2025_ynu_003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "計30%弱 約360億ドルが対象",
+    "url": "https://shingi.jst.go.jp/pdf/2025/2025_ynu_003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Thermal Interface Materials Market Size, Forecasts Report 2026-2035",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Thermal Interface Materials Market Size & Share 2026-2035",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "The thermal interface materials market was valued at USD 2.9 billion in 2025, is projected to reach USD 3.23 billion in 2026, and is forecast to expand at 8.9% CAGR (2026–2035) to USD 6.79 billion by 2035.",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025 Market Size",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "$ 2.9 Billion",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026 Market Size",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "$ 3.23 Billion",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035 Forecast Market Size",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "$ 6.79 Billion",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market's blended average selling price stood at USD 39/kg in 2025. That average conceals a widening value gap between conventional formulations and engineered materials designed for demanding thermal interfaces, supporting a revenue mix that is increasingly influenced by specification intensity rather than material volume alone.",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Approximately 17 million electric cars were sold globally in 2024",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 450B+ in private U.S. semiconductor investment announced as of August 2024",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Thermal Greases & Pastes generated USD 841 million in 2025 and are expected to grow at 6.4% CAGR (2026–2035). Their established role in serviceable electronics and conventional cooling assemblies preserves demand, but higher-density systems are increasingly favoring formats that provide more consistent placement and long-cycle stability.",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Thermal Interface Materials Market Size By Product Type 2025 And 2035 Usd Billion",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "CAGR 2027-2036",
+    "url": "https://www.researchnester.com/ja/reports/thermal-interface-materials-market/5183",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間（2026年から2035年）中、年平均成長率（CAGR）12.4%で成長が見込まれます",
+    "url": "https://www.researchnester.com/ja/reports/thermal-interface-materials-market/5183",
+    "pass": 3
+   },
+   {
+    "quote": "北米では、高性能コンピューティング、クラウド データ センター、高度な半導体製造の導入が加速し、2035 年までに大幅な拡大が見込まれています",
+    "url": "https://www.researchnester.com/ja/reports/thermal-interface-materials-market/5183",
+    "pass": 3
+   },
+   {
+    "quote": "12.4% CAGR（2026～2035年）",
+    "url": "https://www.researchnester.com/ja/reports/thermal-interface-materials-market/5183",
+    "pass": 3
+   },
+   {
+    "quote": "世界の半導体熱界面材料（TIM）市場規模は、2025年の12億5,000万米ドルから2032年には25億2,900万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）10.6％で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/9302418",
+    "pass": 3
+   },
+   {
+    "quote": "2026年から2032年にかけて、主な成長要因は、高度なロジックおよびAIワークロードによる熱流束の増加、コンパクトな民生用設計における熱予算の厳格化、そしてインターフェース最適化の価値を高める高性能パッケージングの普及拡大である",
+    "url": "https://www.atpress.ne.jp/news/9302418",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2032年までのグローバル市場規模、地域別の市場規模CAGR（2021年、2025年、2032年の比較）、国/地域別の現在および将来の分析（2021年、2025年、2032年）が含まれます",
+    "url": "https://www.atpress.ne.jp/news/9302418",
+    "pass": 3
+   },
+   {
+    "quote": "今後、IMARCグループは、市場規模が2034年までに5億4,160万米ドルに達し、2026年から2034年の間に8.76%の成長率（CAGR）を示すと予測しています",
+    "url": "https://newscast.jp/news/4014721",
+    "pass": 3
+   },
+   {
+    "quote": "市場成長率2026-2034年: 8.76%",
+    "url": "https://newscast.jp/news/4014721",
+    "pass": 3
+   },
+   {
+    "quote": "自動車分野での伸びが市場をけん引しており、2022年は前年比74.0%増と大きく拡大した",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=23084&view_type=2&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "日本だけでなく、北米、欧州、中国での採用増加や、メーカーによる生産能力の増強もあり、2023年以降も引き続き拡大が予想される",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=23084&view_type=2&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "2024年約4,000億円から年率",
+    "url": "https://shingi.jst.go.jp/pdf/2025/2025_ynu_003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "The thermal interface materials market was valued at USD 2.9 billion in 2025, is projected to reach USD 3.23 billion in 2026, and is forecast to expand at 8.9% CAGR (2026–2035) to USD 6.79 billion by 2035.",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026–2035)",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Thermal Greases & Pastes generated USD 841 million in 2025 and are expected to grow at 6.4% CAGR (2026–2035). Their established role in serviceable electronics and conventional cooling assemblies preserves demand, but higher-density systems are increasingly favoring formats that provide more consistent placement and long-cycle stability.",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Europe accounted for 22.0% of the market in 2025 and is expected to grow at 8.0% CAGR (2026–2035). Automotive electrification, industrial power electronics, and materials regulation make the region commercially important, while compliance-driven reformulation adds complexity to product development and customer approval cycles.",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "China generated USD 584 million in 2025 and is projected to grow at 10.2% CAGR (2026–2035). Its scale in battery manufacturing, electronics production, and domestic computing infrastructure creates a broad requirement for materials ranging from high-volume gap fillers to advanced packaging interfaces.",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "South Korea generated USD 110 million in 2025 and is expected to grow at 9.6% CAGR (2026–2035). Memory production, advanced packaging, and battery manufacturing intensify the need for materials that can meet tightly controlled thermal and process specifications.",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "India accounted for 8.0% of Asia Pacific in 2025 and is expected to grow at 10.6% CAGR (2026–2035). Electronics manufacturing incentives, expanding data infrastructure, and an emerging electric-vehicle production base are broadening the local customer base for thermal-management materials.",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Brazil generated USD 73 million in 2025 and is expected to grow at 7.3% CAGR (2026–2035). Consumer electronics assembly, automotive manufacturing, and network modernization support demand, while vehicle electrification provides an emerging pathway for higher-value material formats.",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Saudi Arabia generated USD 22 million in 2025 and is expected to grow at 7.7% CAGR (2026–2035). Technology infrastructure programs, telecommunications expansion, and industrial development are creating a broader set of use cases for thermal materials.",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is projected to reach USD 6.79 billion by 2035, growing at a CAGR of 8.9% from 2026 to 2035.",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026–2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "By product: Phase change materials segment is expected to grow at the fastest CAGR of 12.4%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Fastest-growing market: Asia Pacific (highest CAGR, 2026-2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026–2033): 12.0%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Phase change materials segment is anticipated to expand at the fastest CAGR of 12.4% during the forecast period. It is widely used in construction work, supported by the demand for cooler buildings. The material act as heat storage wherein the heat gets absorbed during summer and retained heat can be used in winter times to manage the temperature difference.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 12.0% from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD Million/Billion and CAGR from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global thermal interface materials market is expected to grow at a compound annual growth rate of 12.0% from 2026 to 2033 to reach USD 11.2 billion in 2033.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is expected to grow at a CAGR of 11.63% from 2026 to 2035.",
+    "url": "https://www.precedenceresearch.com/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 11.44%",
+    "url": "https://www.precedenceresearch.com/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Asia Pacific thermal interface materials market size was anticipated at USD 1.85 billion in 2025 and is expected to be worth USD 5.54 billion by 2035, with a notable CAGR of 11.61% from 2026 to 2035.",
+    "url": "https://www.precedenceresearch.com/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 2: What is the CAGR of thermal interface materials market?",
+    "url": "https://www.precedenceresearch.com/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global thermal interface materials market is growing at a CAGR of 11.44% during the prediction period 2026 to 2035.",
+    "url": "https://www.precedenceresearch.com/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 9.5% during 2026-2032",
+    "url": "https://www.stratviewresearch.com/market-reports/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "The thermal interface materials market is likely to grow at a CAGR of 9.5% during 2026-2032.",
+    "url": "https://www.stratviewresearch.com/market-reports/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025 - 2035)",
+    "url": "https://www.marketresearchfuture.com/reports/thermal-interface-materials-market-3135",
+    "pass": 3
+   },
+   {
+    "quote": "As per Market Research Future analysis, the Thermal Interface Materials Market was estimated at 2.63 USD Billion in 2024. The Thermal Interface Materials industry is projected to grow from 2.904 USD Billion in 2025 to 7.834 USD Billion by 2035, exhibiting a compound annual growth rate (CAGR) of 10.4% during the forecast period 2025 - 2035",
+    "url": "https://www.marketresearchfuture.com/reports/thermal-interface-materials-market-3135",
+    "pass": 3
+   },
+   {
+    "quote": "The Thermal Interface Materials Market is projected to grow at a 10.43% CAGR from 2025 to 2035, driven by advancements in electronics and increasing thermal management needs.",
+    "url": "https://www.marketresearchfuture.com/reports/thermal-interface-materials-market-3135",
+    "pass": 3
+   },
+   {
+    "quote": "What is the expected CAGR for the Thermal Interface Materials Market from 2025 to 2035?",
+    "url": "https://www.marketresearchfuture.com/reports/thermal-interface-materials-market-3135",
+    "pass": 3
+   },
+   {
+    "quote": "The expected CAGR for the Thermal Interface Materials Market during the forecast period 2025 - 2035 is 10.43%.",
+    "url": "https://www.marketresearchfuture.com/reports/thermal-interface-materials-market-3135",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2033)",
+    "url": "https://www.datamintelligence.com/research-report/-thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 9.7% during the forecast period from 2026 to 2033",
+    "url": "https://www.datamintelligence.com/research-report/-thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Thermal Interface Materials Market is estimated to reach USD 3.90 Billion in 2025 and is projected to grow to USD 8.17 Billion by 2033, registering strong growth at a CAGR of 9.7% during the forecast period from 2026 to 2033.",
+    "url": "https://www.datamintelligence.com/research-report/-thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "By region, North America held the 24% market share in 2025 and is expected to grow at the fastest with a CAGR of 10.30% during the forecast period due to data center investments and advancement in semiconductor infrastructure.",
+    "url": "https://www.towardschemandmaterials.com/insights/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "By material, the polyimide segment held 13% market share in 2025 and is expected to grow at the fastest CAGR of 10.2% over the forecast period, driven by its demand in advanced semiconductor packaging and flexible electronics manufacturing.",
+    "url": "https://www.towardschemandmaterials.com/insights/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "By type, the gap fillers segment held 23% market share in 2025 and is expected to grow at the fastest CAGR of 10.5% over the forecast period because it offers higher thermal transfer efficiency. And demand for power electronics systems.",
+    "url": "https://www.towardschemandmaterials.com/insights/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "By application, the automotive segment held 24% market share in 2025 and is expected to grow at the fastest CAGR of 11.3% over the forecast period accelerated by demand for thermal management in EV battery system and power electronics.",
+    "url": "https://www.towardschemandmaterials.com/insights/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 4.85 Billion | CAGR (2026–2035): 9.45%",
+    "url": "https://www.towardschemandmaterials.com/insights/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "313.11 Thousand Tons | Volume CAGR (2026–2035): 8.75%",
+    "url": "https://www.towardschemandmaterials.com/insights/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing CAGR (2026–2035): 2.95%",
+    "url": "https://www.towardschemandmaterials.com/insights/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 9.45%",
+    "url": "https://www.towardschemandmaterials.com/insights/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "The automotive application segment is expanding at the fastest rate, with an expected CAGR of 11.3% during the forecast period. This rapid acceleration is fueled by the transition toward electric vehicles, requiring reliable materials to protect high-voltage batteries and power electronics from thermal runaway.",
+    "url": "https://www.towardschemandmaterials.com/insights/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Asia Pacific region led the market with a 46% revenue share in 2025 due to its vast electronics and battery manufacturing infrastructure. However, North America is projected to grow at the fastest rate with a CAGR of 10.30%, fueled by massive regional investments in semiconductor facilities and AI data centers.",
+    "url": "https://www.towardschemandmaterials.com/insights/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market size of TIMs will exceed US$7 billion by 2036, with a CAGR of around 10% between 2026 and 2036.",
+    "url": "https://www.idtechex.com/en/research-report/thermal-interface-materials/1116",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "インド市場への参入戦略（GTM）",
+    "url": "https://www.researchnester.com/ja/reports/thermal-interface-materials-market/5183",
+    "pass": 3
+   },
+   {
+    "quote": "この分野の主要企業は、高伝導性配合の革新、地域的な製造拡大、そして自動車EV、半導体、データセンターなどの分野に適したTIMソリューションを提供するパートナーシップにおいて、熾烈な競争を繰り広げています",
+    "url": "https://www.researchnester.com/ja/reports/thermal-interface-materials-market/5183",
+    "pass": 3
+   },
+   {
+    "quote": "熱伝導材料市場を支配している主要企業は誰ですか?",
+    "url": "https://www.researchnester.com/ja/reports/thermal-interface-materials-market/5183",
+    "pass": 3
+   },
+   {
+    "quote": "また、本レポートでは、半導体熱界面材料のポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、世界的な半導体熱界面材料市場の急速な拡大の中で、主要グローバル企業の独自の立場をより深く理解できるよう、各社の戦略を分析しています",
+    "url": "https://www.atpress.ne.jp/news/9302418",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートでは、製品タイプ、用途、主要企業、主要地域および国別に、半導体熱界面材料市場の包括的な概要、市場シェア、成長機会を提示しています",
+    "url": "https://www.atpress.ne.jp/news/9302418",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2026年までのグローバル市場におけるプレイヤー別の収益と市場シェア、主要プレイヤーの本社と提供製品に関する情報が含まれています",
+    "url": "https://www.atpress.ne.jp/news/9302418",
+    "pass": 3
+   },
+   {
+    "quote": "新製品や潜在的参入企業、M&Aや事業拡大に関する情報も分析されています",
+    "url": "https://www.atpress.ne.jp/news/9302418",
+    "pass": 3
+   },
+   {
+    "quote": "第11章には、主要プレイヤーの詳細な分析が収録されています",
+    "url": "https://www.atpress.ne.jp/news/9302418",
+    "pass": 3
+   },
+   {
+    "quote": "市場参入・事業拡大のための包括的なサービスを提供しています",
+    "url": "https://newscast.jp/news/4014721",
+    "pass": 3
+   },
+   {
+    "quote": "なお、本記事以外にも、より詳細な市場構造、市場シェア、参入企業動向などをお知りになりたい方は、",
+    "url": "https://www.fkg-report.jp/market-trends/2026/2764.html",
+    "pass": 3
+   },
+   {
+    "quote": "本マルチクライアント特別調査企画がTIMおよび放熱フィラーなどの参入各社の事業拡大に貢献し、また成長産業である生成AIデータセンター事業に参入するため、材料の研究・開発している関連企業の一助となれば幸いである",
+    "url": "https://www.fcr.co.jp/report/252q06.htm",
+    "pass": 3
+   },
+   {
+    "quote": "1) 主要企業の参入状況一覧（52）",
+    "url": "https://www.fcr.co.jp/report/252q06.htm",
+    "pass": 3
+   },
+   {
+    "quote": "4.4 投資対効果(ROI)と市場参入障壁の構築",
+    "url": "https://www.cmcbooks.co.jp/products/detail.php?product_id=116328",
+    "pass": 3
+   },
+   {
+    "quote": "2. 国内主要企業:原材料レイヤーの物性支配(不可欠性の独占)と構造的乖離",
+    "url": "https://www.cmcbooks.co.jp/products/detail.php?product_id=116328",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players:",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Thermal Interface Materials Market Share & Competitive Landscape",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in thermal interface materials market?",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in thermal interface materials market include Henkel AG & Co. KGaA, Shin-Etsu Chemical Co., Ltd., 3M Company (Solventum), Dow Inc., Momentive Performance Materials Inc..",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players operating in the market include 3M, Indium Corporation, Honeywell International Inc. and others:",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study on the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the thermal interface materials market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some key players operating in the precision guided munition market include Indium Corporation, Fujipoly, The Dow Chemical Company, 3M, Henkel, Honeywell International Inc., among others.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Thermal Interface Materials Market Size, Key Companies, Company Market Share, Production Capacity, Raw Material Pricing, Export & Import Analysis, Manufacturing Cost, Market Share, and Demand Forecast",
+    "url": "https://www.precedenceresearch.com/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 5: Who are the key players in thermal interface materials market?",
+    "url": "https://www.precedenceresearch.com/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.stratviewresearch.com/market-reports/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Most of the major players compete in some of the governing factors including price, product offerings, regional presence, etc.",
+    "url": "https://www.stratviewresearch.com/market-reports/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "The following are the key players in the",
+    "url": "https://www.stratviewresearch.com/market-reports/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape and dynamics: Market share, Service portfolio, New Product Launches, etc.",
+    "url": "https://www.stratviewresearch.com/market-reports/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "SWOT analysis of key players (up to three players).",
+    "url": "https://www.stratviewresearch.com/market-reports/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Benchmarking of key players on the following parameters: Product portfolio, geographical reach, regional presence, and strategic alliances.",
+    "url": "https://www.stratviewresearch.com/market-reports/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the market?",
+    "url": "https://www.stratviewresearch.com/market-reports/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "The 3M Company, Henkel AG & Co. KGAA, Parker Hannifin Corporation, DOW Corning Corporation, Laird Technologies, Inc., Momentive Performance Materials Inc., The Bergquist Company, Inc., Indium Corporation, Wakefield-Vette, Inc., Zalman Tech Co., Ltd are among the key players in the market.",
+    "url": "https://www.stratviewresearch.com/market-reports/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/thermal-interface-materials-market-3135",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.marketresearchfuture.com/reports/thermal-interface-materials-market-3135",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players and Competitive Insights",
+    "url": "https://www.marketresearchfuture.com/reports/thermal-interface-materials-market-3135",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies in the Thermal Interface Materials Market include",
+    "url": "https://www.marketresearchfuture.com/reports/thermal-interface-materials-market-3135",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, and Trends",
+    "url": "https://www.marketresearchfuture.com/reports/thermal-interface-materials-market-3135",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/thermal-interface-materials-market-3135",
+    "pass": 3
+   },
+   {
+    "quote": "Henkel is recognized as one of the key players in the Thermal Interface Materials Market.",
+    "url": "https://www.marketresearchfuture.com/reports/thermal-interface-materials-market-3135",
+    "pass": 3
+   },
+   {
+    "quote": "IDTechEx has served over 35,000 customers globally. These range from large corporations to ambitious start-ups, and from Governments to research centers. Our customers use our work to make informed decisions and save time and resources.",
+    "url": "https://www.idtechex.com/en/research-report/thermal-interface-materials-2020-2030-forecasts-technologies-opportunities/705",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape Analysis, Company Profile Analysis, Market Size, Share, Growth, Demand, Recent Developments, Mergers and acquisitions, New Product Launches, Growth Strategies, Revenue Analysis, and Other key insights.",
+    "url": "https://www.datamintelligence.com/research-report/-thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Thermal Interface Materials Companies and Competitive Landscape",
+    "url": "https://www.datamintelligence.com/research-report/-thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Thermal Interface Materials Market Competitive Landscape Analysis Report by 2035",
+    "url": "https://www.towardschemandmaterials.com/insights/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Thermal Interface Materials Market Trends, Leading Companies, Company Revenue / Sales Performance, Plant Utilization, Production Volume, Pricing Dynamics, Supply Chain Performance, Competitive Landscape, and Industry Growth",
+    "url": "https://www.towardschemandmaterials.com/insights/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Thermal Interface Materials Market Size, Competitive Landscape Analysis Report 2035",
+    "url": "https://www.towardschemandmaterials.com/insights/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "A substantial investment is driving the expansion of automated production infrastructures optimized for a high-volume liquid delivery system in the market. Venture capital into specialized material science startups to scale the commercialization of nano-driven materials, providing liquidity.",
+    "url": "https://www.towardschemandmaterials.com/insights/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.towardschemandmaterials.com/insights/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players:",
+    "url": "https://www.towardschemandmaterials.com/insights/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Other Major Players",
+    "url": "https://www.towardschemandmaterials.com/insights/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 2: Who are the top key players in the thermal interface materials market?",
+    "url": "https://www.towardschemandmaterials.com/insights/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Natural Fiber Market Size, Key Companies, Company Production Capacity, Manufacturing Efficiency, Capacity Utilization, Raw Material Consumption, Cost Structure, Export Trends, Company Expansion Strategies, and Competitive Landscape",
+    "url": "https://www.towardschemandmaterials.com/insights/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Foam Tape Market Size, Key Companies, Company Technology / Innovation, Production Economics, Trade Analysis, Material Efficiency, Market Penetration, Company Investment Strategies, and Sustainability Trends",
+    "url": "https://www.towardschemandmaterials.com/insights/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Floor Adhesives Market Size, Key Companies, Company Production Capacity, Manufacturing Efficiency, Capacity Utilization, Raw Material Consumption, Cost Structure, Export Trends, Company Expansion Strategies, and Competitive Landscape",
+    "url": "https://www.towardschemandmaterials.com/insights/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Cement Paints Market Size, Key Companies, Company Market Share, Production Capacity, Raw Material Pricing, Export & Import Analysis, Manufacturing Cost, Competitive Positioning, and Demand Forecast",
+    "url": "https://www.towardschemandmaterials.com/insights/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape and company intelligence",
+    "url": "https://www.towardschemandmaterials.com/insights/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Primary information from key companies",
+    "url": "https://www.idtechex.com/en/research-report/thermal-interface-materials/1116",
+    "pass": 3
+   },
+   {
+    "quote": "IDTechEx has served over 35,000 customers globally. These range from large corporations to ambitious start-ups, and from Governments to research centers. Our customers use our work to make informed decisions and save time and resources.",
+    "url": "https://www.idtechex.com/en/research-report/thermal-interface-materials/1116",
+    "pass": 3
+   }
+  ],
+  "日本企業": [
+   {
+    "quote": "TDKベンチャーズは2025年1月、次世代AIコンピューティング向けの高度な熱伝導性材料を開発しているNovoLINCへの投資を発表しました",
+    "url": "https://www.researchnester.com/ja/reports/thermal-interface-materials-market/5183",
+    "pass": 3
+   },
+   {
+    "quote": "この技術は、ARPA-EのCOOLERCHIPSプログラムとNSFの資金提供を通じて育成され、Mベンチャーズ、フットヒルベンチャーズ、TDKベンチャーズの強力な支援を受けて、データセンターや半導体アプリケーション向けの熱ソリューションを拡大しています",
+    "url": "https://www.researchnester.com/ja/reports/thermal-interface-materials-market/5183",
+    "pass": 3
+   },
+   {
+    "quote": "Henkel AG & Co. KGaA (ドイツ)、Dow Inc. (米国)、Honeywell International Inc. (米国)、Parker Hannifin Corporation (米国)、Indium Corporation (米国)、信越化学工業株式会社 (日本)、Momentive Performance Materials Inc. (米国)、Laird Performance Materials (英国)、Fujipoly America Corporation (日本)、Wakefield-Vette, Inc. (米国)、Electrolube (英国)、Zalman Tech Co., Ltd. (韓国)、DuPont de Nemours, Inc. (米国)",
+    "url": "https://www.researchnester.com/ja/reports/thermal-interface-materials-market/5183",
+    "pass": 3
+   },
+   {
+    "quote": "米国、中国、日本、ドイツ、韓国",
+    "url": "https://www.researchnester.com/ja/reports/thermal-interface-materials-market/5183",
+    "pass": 3
+   },
+   {
+    "quote": "（日本、中国、インド、インドネシア、マレーシア、オーストラリア、韓国、その他のアジア太平洋地域）",
+    "url": "https://www.researchnester.com/ja/reports/thermal-interface-materials-market/5183",
+    "pass": 3
+   },
+   {
+    "quote": "信越化学工業株式会社（日本）",
+    "url": "https://www.researchnester.com/ja/reports/thermal-interface-materials-market/5183",
+    "pass": 3
+   },
+   {
+    "quote": "富士ポリアメリカ株式会社（日本）",
+    "url": "https://www.researchnester.com/ja/reports/thermal-interface-materials-market/5183",
+    "pass": 3
+   },
+   {
+    "quote": "信越化学工業株式会社は",
+    "url": "https://www.researchnester.com/ja/reports/thermal-interface-materials-market/5183",
+    "pass": 3
+   },
+   {
+    "quote": "レゾナックホールディングスは",
+    "url": "https://www.researchnester.com/ja/reports/thermal-interface-materials-market/5183",
+    "pass": 3
+   },
+   {
+    "quote": "Japan (+81)",
+    "url": "https://www.researchnester.com/ja/reports/thermal-interface-materials-market/5183",
+    "pass": 3
+   },
+   {
+    "quote": "Japan オフィス",
+    "url": "https://www.researchnester.com/ja/reports/thermal-interface-materials-market/5183",
+    "pass": 3
+   },
+   {
+    "quote": "信越化学工業",
+    "url": "https://www.atpress.ne.jp/news/9302418",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2026年までの地域別市場規模（中国、日本、韓国、東南アジア、インド、オーストラリア）、タイプ別市場規模、およびアプリケーション別市場規模が示されています",
+    "url": "https://www.atpress.ne.jp/news/9302418",
+    "pass": 3
+   },
+   {
+    "quote": "各主要国/地域（中国、日本、韓国、東南アジア、インド、オーストラリア）の市場に関する情報も提供されています",
+    "url": "https://www.atpress.ne.jp/news/9302418",
+    "pass": 3
+   },
+   {
+    "quote": "2027年から2032年までの期間における地域別予測（アメリカ、APAC、ヨーロッパ、中東・アフリカ）、国別予測（アメリカ合衆国、カナダ、メキシコ、ブラジル、中国、日本、韓国、東南アジア、インド、オーストラリア、ドイツ、フランス、イギリス、イタリア、ロシア、エジプト、南アフリカ、イスラエル、トルコ、GCC諸国）、タイプ別予測、およびアプリケーション別予測が詳細に示されています",
+    "url": "https://www.atpress.ne.jp/news/9302418",
+    "pass": 3
+   },
+   {
+    "quote": "DuPont、Dow、Henkel、Shin-Etsu Chemical、3M、Parker Hannifin、Fujipoly、Wacker Chemie、Indium Corporation、Shenzhen FRD、Suzhou Tianmai、Hongfucheng、Beijing Zhongshi Technology、Shenzhen Born Industrial、Shenzhen Aochuan Technology、Guangzhou Jointasといった各社の企業情報、提供される半導体用熱界面材料製品、2021年から2026年までの収益、粗利益、市場シェア、主要事業概要、および最新の動向に関する詳細な情報が提供されています",
+    "url": "https://www.atpress.ne.jp/news/9302418",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：半導体用熱界面材料の世界市場2026年～2032年",
+    "url": "https://www.atpress.ne.jp/news/9302418",
+    "pass": 3
+   },
+   {
+    "quote": "日本サーマルインターフェース材料市場2034年に5億4,160万米ドル規模に到達し2026〜2034年に8.76％成長する見通し | NEWSCAST",
+    "url": "https://newscast.jp/news/4014721",
+    "pass": 3
+   },
+   {
+    "quote": "日本サーマルインターフェース材料市場2034年に5億4,160万米ドル規模に到達し2026〜2034年に8.76％成長する見通し",
+    "url": "https://newscast.jp/news/4014721",
+    "pass": 3
+   },
+   {
+    "quote": "日本の熱伝導性材料市場規模は、2025年に2億5,450万米ドルに達しました",
+    "url": "https://newscast.jp/news/4014721",
+    "pass": 3
+   },
+   {
+    "quote": "日本における熱伝導性材料市場の規模と成長概要（2026-2034年）",
+    "url": "https://newscast.jp/news/4014721",
+    "pass": 3
+   },
+   {
+    "quote": "「日本の熱伝導性材料市場：業界動向、シェア、規模、成長、機会、予測2026-2034」",
+    "url": "https://newscast.jp/news/4014721",
+    "pass": 3
+   },
+   {
+    "quote": "日本の熱伝導性材料市場規模は2025年に2億5,450万米ドルに達しました",
+    "url": "https://newscast.jp/news/4014721",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.imarcgroup.com/japan-thermal-interface-material-market/requestsample",
+    "url": "https://newscast.jp/news/4014721",
+    "pass": 3
+   },
+   {
+    "quote": "AIは日本の熱伝導性材料市場の未来をどう変えるのか？",
+    "url": "https://newscast.jp/news/4014721",
+    "pass": 3
+   },
+   {
+    "quote": "AIは在庫管理だけでなく、無駄を削減し、日本の電子機器メーカーが必要とするまさにその時に、特殊なTIM製品を供給します",
+    "url": "https://newscast.jp/news/4014721",
+    "pass": 3
+   },
+   {
+    "quote": "日本の熱伝導性材料市場の動向と推進要因",
+    "url": "https://newscast.jp/news/4014721",
+    "pass": 3
+   },
+   {
+    "quote": "日本の熱伝導材料市場は急成長を遂げています",
+    "url": "https://newscast.jp/news/4014721",
+    "pass": 3
+   },
+   {
+    "quote": "日本は先進エレクトロニクスの分野で世界をリードしており、スマートフォン、ノートパソコン、そして自動車のあらゆるテクノロジーなど、ガジェットの高性能化に伴い、それらが発する熱は増加の一途を辿っています",
+    "url": "https://newscast.jp/news/4014721",
+    "pass": 3
+   },
+   {
+    "quote": "日本の人々や企業はこれらの高性能デバイスに依存しているため、あらゆる機器を冷却し、スムーズに動作させるためのより優れた方法が必要です",
+    "url": "https://newscast.jp/news/4014721",
+    "pass": 3
+   },
+   {
+    "quote": "日本の熱伝導材料市場は、電気自動車への急速な移行によって大きな後押しを受けています",
+    "url": "https://newscast.jp/news/4014721",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、技術の限界に挑戦することで知られる日本の自動車メーカーは、EVの性能、安全性、そして寿命を向上させるため、よりスマートな熱システムにリソースを投入しています",
+    "url": "https://newscast.jp/news/4014721",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=23084&view_type=2&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "総合マーケティングビジネスの株式会社富士経済(東京都中央区日本橋 社長 菊地 弘幸 03-3241-3470)は、EVやADAS関連機器などの自動車分野、通信基地局やサーバーなどの通信分野などで需要増加が予想されるとともに、さらなる高機能化が求められる放熱部材の世界市場を調査した",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=23084&view_type=2&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "日本では放熱シートや放熱グリースの使用が多かったが、TIMの厚みを薄くしたい場合や熱伝導率を向上させたい場合などで放熱ギャップフィラーの使用が増えている",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=23084&view_type=2&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "日本だけでなく、北米、欧州、中国での採用増加や、メーカーによる生産能力の増強もあり、2023年以降も引き続き拡大が予想される",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=23084&view_type=2&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "2026 日本の石油化学工業と誘導品市場の将来…",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=23084&view_type=2&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "水酸化アルミニウムを中心に日本メーカーが存在感を見せています",
+    "url": "https://www.fkg-report.jp/market-trends/2026/2764.html",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、放熱フィラーとして使用できる製品は、日本メーカー製品などに限られるため供給不足が懸念されており、その不足分をアルミナで補う可能性もあります",
+    "url": "https://www.fkg-report.jp/market-trends/2026/2764.html",
+    "pass": 3
+   },
+   {
+    "quote": "堺化学工業、JFEミネラル、住友化学、住友ベークライト、積水ポリマテック、デンカ、東洋アルミニウム、トクヤマ、日鉄ケミカル＆マテリアル、富士高分子工業、三井金属、三菱ケミカル、レゾナック、Laird Technologies",
+    "url": "https://www.fcr.co.jp/report/252q06.htm",
+    "pass": 3
+   },
+   {
+    "quote": "3. 住友化学（120）",
+    "url": "https://www.fcr.co.jp/report/252q06.htm",
+    "pass": 3
+   },
+   {
+    "quote": "4. 住友ベークライト（122）",
+    "url": "https://www.fcr.co.jp/report/252q06.htm",
+    "pass": 3
+   },
+   {
+    "quote": "12. 三菱ケミカル（144）",
+    "url": "https://www.fcr.co.jp/report/252q06.htm",
+    "pass": 3
+   },
+   {
+    "quote": "13. レゾナック（146）",
+    "url": "https://www.fcr.co.jp/report/252q06.htm",
+    "pass": 3
+   },
+   {
+    "quote": "4. 日本国内勢の生き残り戦略:高純度材料の独占供給と標準化への関与",
+    "url": "https://www.cmcbooks.co.jp/products/detail.php?product_id=116328",
+    "pass": 3
+   },
+   {
+    "quote": "日本全国一律660円",
+    "url": "https://www.cmcbooks.co.jp/products/detail.php?product_id=116328",
+    "pass": 3
+   },
+   {
+    "quote": "当社では、2023年夏より、ドイツNanotest社製のTIMA5を日本国内で販売開始しました",
+    "url": "https://www.matsuo-sangyo.co.jp/secret-base/solution/thermal-interface-material/",
+    "pass": 3
+   },
+   {
+    "quote": "日本パリレン株式会社",
+    "url": "https://shingi.jst.go.jp/pdf/2025/2025_ynu_003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・共同研究実施企業から2029年の日本市場導入後世界展開を目指す",
+    "url": "https://shingi.jst.go.jp/pdf/2025/2025_ynu_003.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Henkel AG & Co. KGaA, Shin-Etsu Chemical Co., Ltd., 3M Company (Solventum), Dow Inc., Momentive Performance Materials Inc.",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan accounted for 24.0% of Asia Pacific in 2025 and is projected to reach USD 661 million by 2035. Advanced semiconductor packaging, specialty materials capability, and electronics manufacturing give the country a dual role as a demanding domestic market and a strategically important supply source.",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Shin-Etsu Chemical Co., Ltd. accounted for 13.1% market share in 2025. Vertical integration in silicone materials supports consistency and supply-chain control, while the company's links to Asian electronics and semiconductor ecosystems provide access to demanding application requirements.",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Business Wire / Mitsubishi Chemical Group and Boston Materials. \"Mitsubishi Chemical Group and Boston Materials Form Strategic Collaboration to Advance Semiconductor Packaging with Breakthrough Liquid Metal Thermal Materials.\" prnewswire.com",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in thermal interface materials market include Henkel AG & Co. KGaA, Shin-Etsu Chemical Co., Ltd., 3M Company (Solventum), Dow Inc., Momentive Performance Materials Inc..",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Shin-Etsu",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "U.S.; Canada; Mexico; France; Germany; UK; Italy; China; India; Japan; South Korea; Argentina; Brazil; UAE; Saudi Arabia",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "The 3M Company; Henkel; Indium Corporation; Fujipoly; The Dow Chemical Company; Honeywell International Inc.; SIBELCO; Shin-Etsu",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Shin-Etsu Chemical Co. Ltd.",
+    "url": "https://www.precedenceresearch.com/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific (Country Analysis: China, Japan, India, South Korea, and Rest of Asia-Pacific)",
+    "url": "https://www.stratviewresearch.com/market-reports/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "ASIA (Japan and Korea):",
+    "url": "https://www.idtechex.com/en/research-report/thermal-interface-materials-2020-2030-forecasts-technologies-opportunities/705",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "熱伝導性材料市場規模・シェア予測レポート2035",
+    "url": "https://www.researchnester.com/ja/reports/thermal-interface-materials-market/5183",
+    "pass": 3
+   },
+   {
+    "quote": "熱伝導性材料市場規模とシェア（製品タイプ別：グリース・接着剤、サーマルパッド、ギャップフィラー、相変化材料、テープ・フィルム）、用途、材料タイプ - グローバル需給分析、成長予測、統計レポート 2026-2035",
+    "url": "https://www.researchnester.com/ja/reports/thermal-interface-materials-market/5183",
+    "pass": 3
+   },
+   {
+    "quote": "2035年までに45.2％のシェアを獲得",
+    "url": "https://www.researchnester.com/ja/reports/thermal-interface-materials-market/5183",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、強力な製造拠点、有利な税制、政府の支援政策に支えられ、2035年までに熱伝導材料市場で45.2%のシェアを占めると予想されています",
+    "url": "https://www.researchnester.com/ja/reports/thermal-interface-materials-market/5183",
+    "pass": 3
+   },
+   {
+    "quote": "グリースと接着剤は、優れた隙間充填能力、高い熱伝導性、熱サイクル下での信頼性に支えられ、2035年までに熱伝導性材料市場で44.3%の収益シェアを確保すると予測されています",
+    "url": "https://www.researchnester.com/ja/reports/thermal-interface-materials-market/5183",
+    "pass": 3
+   },
+   {
+    "quote": "高性能 PC、AI ワークロード、ハイパースケール データ センター、マルチ GPU 構成からの熱需要の高まりにより、コンピューターは 2035 年末までにかなりの収益シェアを獲得する見込みです",
+    "url": "https://www.researchnester.com/ja/reports/thermal-interface-materials-market/5183",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋（2035年までに45.2%のシェア）",
+    "url": "https://www.researchnester.com/ja/reports/thermal-interface-materials-market/5183",
+    "pass": 3
+   },
+   {
+    "quote": "グリースと接着剤は、予測期間中に放熱材料市場における最大の売上高シェア44.3%を獲得し、製品タイプセグメントをリードする見込みです",
+    "url": "https://www.researchnester.com/ja/reports/thermal-interface-materials-market/5183",
+    "pass": 3
+   },
+   {
+    "quote": "アプリケーションセグメントでは、2035年末までにコンピューターがサーマルインターフェースマテリアル市場でかなりの収益シェアを獲得するでしょう",
+    "url": "https://www.researchnester.com/ja/reports/thermal-interface-materials-market/5183",
+    "pass": 3
+   },
+   {
+    "quote": "熱伝導材料市場において、アジア太平洋地域は2035年末までに45.2%の最大シェアを占めると見込まれています",
+    "url": "https://www.researchnester.com/ja/reports/thermal-interface-materials-market/5183",
+    "pass": 3
+   },
+   {
+    "quote": "2035 年までに熱伝導性材料市場で大きなシェアを獲得するのはどの製品タイプセグメントでしょうか?",
+    "url": "https://www.researchnester.com/ja/reports/thermal-interface-materials-market/5183",
+    "pass": 3
+   },
+   {
+    "quote": "製品タイプ別では、グリースおよび接着剤セグメントが2035年までに44.3%という最大の市場シェアを獲得し、2026年から2035年にかけて有利な成長機会を示すことが予想されています",
+    "url": "https://www.researchnester.com/ja/reports/thermal-interface-materials-market/5183",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の市場は、2035年末までに45.2%の最大の市場シェアを占めると予測されており、将来的にはさらに多くのビジネスチャンスがもたらされるでしょう",
+    "url": "https://www.researchnester.com/ja/reports/thermal-interface-materials-market/5183",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2026年までのグローバル市場におけるプレイヤー別の収益と市場シェア、主要プレイヤーの本社と提供製品に関する情報が含まれています",
+    "url": "https://www.atpress.ne.jp/news/9302418",
+    "pass": 3
+   },
+   {
+    "quote": "DuPont、Dow、Henkel、Shin-Etsu Chemical、3M、Parker Hannifin、Fujipoly、Wacker Chemie、Indium Corporation、Shenzhen FRD、Suzhou Tianmai、Hongfucheng、Beijing Zhongshi Technology、Shenzhen Born Industrial、Shenzhen Aochuan Technology、Guangzhou Jointasといった各社の企業情報、提供される半導体用熱界面材料製品、2021年から2026年までの収益、粗利益、市場シェア、主要事業概要、および最新の動向に関する詳細な情報が提供されています",
+    "url": "https://www.atpress.ne.jp/news/9302418",
+    "pass": 3
+   },
+   {
+    "quote": "「日本の熱伝導性材料市場：業界動向、シェア、規模、成長、機会、予測2026-2034」",
+    "url": "https://newscast.jp/news/4014721",
+    "pass": 3
+   },
+   {
+    "quote": "現状、放熱ギャップフィラーが約8割を占めています",
+    "url": "https://www.fkg-report.jp/market-trends/2026/2764.html",
+    "pass": 3
+   },
+   {
+    "quote": "市場は放熱ギャップフィラーがけん引し、今後も8割以上を占めると予想されます",
+    "url": "https://www.fkg-report.jp/market-trends/2026/2764.html",
+    "pass": 3
+   },
+   {
+    "quote": "5. 冷却方式のシェア変遷予測:D2C、液浸、相変化冷却の転換点",
+    "url": "https://www.cmcbooks.co.jp/products/detail.php?product_id=116328",
+    "pass": 3
+   },
+   {
+    "quote": "6. 冷却方式のシェア変遷予測:高性能TIM採用によるTCO最適化の経済的インパクト",
+    "url": "https://www.cmcbooks.co.jp/products/detail.php?product_id=116328",
+    "pass": 3
+   },
+   {
+    "quote": "4. 日本国内勢の生き残り戦略:高純度材料の独占供給と標準化への関与",
+    "url": "https://www.cmcbooks.co.jp/products/detail.php?product_id=116328",
+    "pass": 3
+   },
+   {
+    "quote": "2. 国内主要企業:原材料レイヤーの物性支配(不可欠性の独占)と構造的乖離",
+    "url": "https://www.cmcbooks.co.jp/products/detail.php?product_id=116328",
+    "pass": 3
+   },
+   {
+    "quote": "market share in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Moderate concentration persists through 2035; qualification barriers sustain incumbents and M&A accelerates among innovators",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Metal-Based TIMs are projected to reach USD 543 million by 2035 and held 9.0% of the market in 2025. Adoption remains concentrated in demanding semiconductor packaging and high-reliability assemblies, where performance advantages can justify specialized handling, material cost, and qualification requirements.",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Non-Silicone (Epoxy/Polyimide/Acrylic) materials accounted for 20.0% of the market in 2025 and are projected to reach USD 1.42 billion by 2035. Their strategic relevance is rising as customers seek formulations that address siloxane-related compliance and contamination concerns without sacrificing manufacturability or thermal reliability.",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Thermal Interface Materials Market Share By Application 2025",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Telecommunications accounted for 10.0% of the market in 2025 and are projected to reach USD 543 million by 2035. Radio-frequency power amplifiers, optical equipment, and network hardware sustain demand, although equipment efficiency gains and the maturity of early network buildouts temper the segment's expansion.",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial & Power Electronics generated USD 319 million in 2025 and are expected to maintain an 11.0% market share by 2035. Motor drives, power conversion equipment, and industrial control systems provide a comparatively stable base, where reliability across long operating cycles takes priority over the most aggressive conductivity specifications.",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Thermal Interface Materials Market Share By Region 2025 And 2035",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Europe accounted for 22.0% of the market in 2025 and is expected to grow at 8.0% CAGR (2026–2035). Automotive electrification, industrial power electronics, and materials regulation make the region commercially important, while compliance-driven reformulation adds complexity to product development and customer approval cycles.",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "The UK accounted for 13.9% of Europe in 2025 and is projected to reach USD 193 million by 2035. Aerospace and defense activity, data center development, and automotive electrification provide a diversified base for higher-reliability thermal materials.",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan accounted for 24.0% of Asia Pacific in 2025 and is projected to reach USD 661 million by 2035. Advanced semiconductor packaging, specialty materials capability, and electronics manufacturing give the country a dual role as a demanding domestic market and a strategically important supply source.",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "By product: Thermal greases and adhesives segment held the largest market share of 34.4% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "By application: Computers segment held the largest market share of 23.5% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Largest market: Asia Pacific (39.3% market share, 2025)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific dominated the market with a share of over 39.3% in 2025 due to high demand owing to the presence of a large base of manufacturing zone. In addition to the manufacturing base, reductions in corporate tax, GST, rising household incomes, consumer health awareness, changing lifestyles, and government policies have the potential to propel industry growth in this region.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific dominated the global thermal interface materials market with the highest share of 39.3% in 2025. This is attributable to rising industrial base, automation, and manufacturing activities happening in emerging economies.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Thermal greases and adhesives segment led the market with a share of 34.4% in 2025, while phase change materials segment is expected to grow fastest.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Computers segment accounted for a significant share of 23.5% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific led the global market with the highest market share of 40% in 2025.",
+    "url": "https://www.precedenceresearch.com/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "By Product, the greases & adhesives segment has held the largest market share of 40% in 2025.",
+    "url": "https://www.precedenceresearch.com/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "By Application, the computer application segment captured the biggest revenue share of 27% in 2025.",
+    "url": "https://www.precedenceresearch.com/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "The phase change materials segment is expected to gain the highest market share between 2026 and 2035.",
+    "url": "https://www.precedenceresearch.com/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "The computer segment held the largest market share in 2025, as thermal interface materials reduce thermal resistance and prevent overheating. Thermal interface materials are usually applied between computer processing units, such as CPUs, GPUs, and TPUs, and cooling hardware. The increasing adoption of computers and laptops promotes the demand for thermal interface materials.",
+    "url": "https://www.precedenceresearch.com/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific Dominated the Thermal Interface Materials Market in 2025",
+    "url": "https://www.precedenceresearch.com/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 3: Which segment was accounted for the largest thermal interface materials market share?",
+    "url": "https://www.precedenceresearch.com/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Asia Pacific led the market with the highest revenue share of more than 40% in 2026 owing to the presence of large manufacturing base for various industries in the region.",
+    "url": "https://www.precedenceresearch.com/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Coverage of manufacturers representing 65-70% of global market share in 2024, with statistical imputation for private company revenues based on employment data, facility capacity, and regional production indices",
+    "url": "https://www.marketresearchfuture.com/reports/thermal-interface-materials-market-3135",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific Market Share in 2025 - (43.8%)",
+    "url": "https://www.datamintelligence.com/research-report/-thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Among all regions, the North American region is expected to hold the largest share of the global market over the forecast period. Thermal Interface Materials Market in the United States and Canada produces the utmost share. Whereas the European Thermal Interface Materials Market is projected to continue its presence globally from 2024 to 2031.",
+    "url": "https://www.datamintelligence.com/research-report/-thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "By region, Asia Pacific dominated the thermal interface materials market by holding a 46% share in 2025, driven by strong electronics manufacturing practices and industrial expansion.",
+    "url": "https://www.towardschemandmaterials.com/insights/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "By region, North America held the 24% market share in 2025 and is expected to grow at the fastest with a CAGR of 10.30% during the forecast period due to data center investments and advancement in semiconductor infrastructure.",
+    "url": "https://www.towardschemandmaterials.com/insights/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "By material, the silicone segment dominated the market with the largest share of 48% in 2025 due to its thermal stability and reliability in EV battery and power module cooling.",
+    "url": "https://www.towardschemandmaterials.com/insights/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "By material, the polyimide segment held 13% market share in 2025 and is expected to grow at the fastest CAGR of 10.2% over the forecast period, driven by its demand in advanced semiconductor packaging and flexible electronics manufacturing.",
+    "url": "https://www.towardschemandmaterials.com/insights/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "By type, the greases & adhesives segment dominated the market with the largest share of 31% in 2025, used in CPUs, Industrial electronics, and GPUs for large-scale electronics manufacturing.",
+    "url": "https://www.towardschemandmaterials.com/insights/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "By type, the gap fillers segment held 23% market share in 2025 and is expected to grow at the fastest CAGR of 10.5% over the forecast period because it offers higher thermal transfer efficiency. And demand for power electronics systems.",
+    "url": "https://www.towardschemandmaterials.com/insights/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "By application, the computers & data centers segment dominated the market with the largest share of 28% in 2025, driven by AI servers expansion and advanced processing materials.",
+    "url": "https://www.towardschemandmaterials.com/insights/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "By application, the automotive segment held 24% market share in 2025 and is expected to grow at the fastest CAGR of 11.3% over the forecast period accelerated by demand for thermal management in EV battery system and power electronics.",
+    "url": "https://www.towardschemandmaterials.com/insights/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "largest Market Revenue Share of 46% in 2025|USD 2.23 Billion",
+    "url": "https://www.towardschemandmaterials.com/insights/thermal-interface-materials-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "放熱材料市場規模 ・シェアおよび2031年 成長 トレンドレポート — 放熱材料市場規模 ・シェアおよび2031年 成長 トレンドレポート Mordor Intelligence https://www.mordorintelligence.com > industry-reports",
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/heat-dissipation-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "TIM （Thermal Interface Material）の世界 市場 を調査。2035年 ... — TIM （Thermal Interface Material）の世界 市場 を調査。2035年 ... fkg-report.jp https://www.fkg-report.jp > market-trends",
+    "url": "https://www.fkg-report.jp/market-trends/2026/2764.html",
+    "pass": 3
+   },
+   {
+    "quote": "放熱材料市場 規模・シェアおよび2031年成長トレンドレポート — 放熱材料市場 規模・シェアおよび2031年成長トレンドレポート Mordor Intelligence https://www.mordorintelligence.com > industry-reports",
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/heat-dissipation-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Thermal Interface Materials Market Size & Share 2026-2035 — Thermal Interface Materials Market Size & Share 2026-2035 Global Market Insights Inc. https://www.gminsights.com > therma...",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Thermal Interface Materials Market Size Report, 2026-2033 — Thermal Interface Materials Market Size Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Thermal Interface Materials Market Size , Share, Report, 2034 — Thermal Interface Materials Market Size , Share, Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/thermal-interface-materials-market-102950",
+    "pass": 3
+   },
+   {
+    "quote": "Thermal Interface Materials Market Size to Worth USD 13.64 ... — Thermal Interface Materials Market Size to Worth USD 13.64 ... Precedence Research https://www.precedenceresearch.com > ...",
+    "url": "https://www.precedenceresearch.com/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Thermal Interface Materials Market Analysis | 2026-2032 — Thermal Interface Materials Market Analysis | 2026-2032 Stratview Research https://www.stratviewresearch.com > t...",
+    "url": "https://www.stratviewresearch.com/market-reports/thermal-interface-materials-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Thermal Interface Materials Market Size, Share, Report, 2034 — Thermal Interface Materials Market Size, Share, Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/thermal-interface-materials-market-102950",
+    "pass": 3
+   },
+   {
+    "quote": "Thermal Interface Materials 2020-2030: Forecasts ... - IDTechEx — Thermal Interface Materials 2020-2030: Forecasts ... - IDTechEx IDTechEx https://www.idtechex.com > thermal-i...",
+    "url": "https://www.idtechex.com/en/research-report/thermal-interface-materials-2020-2030-forecasts-technologies-opportunities/705",
+    "pass": 3
+   },
+   {
+    "quote": "Thermal Interface Materials 2026-2036 - IDTechEx — Thermal Interface Materials 2026-2036 - IDTechEx IDTechEx https://www.idtechex.com > thermal-i...",
+    "url": "https://www.idtechex.com/en/research-report/thermal-interface-materials/1116",
+    "pass": 3
+   },
+   {
+    "quote": "Thermal Interface Materials (TIMs) Market 2025 -2035, Profiles ... — Thermal Interface Materials (TIMs) Market 2025 -2035, Profiles ... Business Wire https://www.businesswire.com > home",
+    "url": "https://www.businesswire.com/news/home/20250319797120/en/Thermal-Interface-Materials-TIMs-Market-2025-2035-Profiles-of-Established-Global-Manufacturers-and-Innovative-Technology-Startups---ResearchAndMarkets.com",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "USD 450B+ in private U.S. semiconductor investment announced as of August 2024",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "The North America thermal interface materials market generated USD 957 million in 2025 and is projected to reach USD 2.13 billion by 2035. Demand is supported by advanced semiconductor activity, AI data center investment, and vehicle electrification, all of which place greater value on materials that can meet stringent thermal and reliability specifications.",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. generated USD 813 million in 2025 and is projected to reach USD 1.81 billion by 2035. Its role is shaped by hyperscale computing, domestic semiconductor capacity expansion, and battery manufacturing investment, creating a demand profile weighted toward premium and application-specific materials.",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Latin America thermal interface materials market generated USD 116 million in 2025 and is projected to reach USD 235 million by 2035. Demand is concentrated around electronics assembly, automotive production, and telecommunications investment, with regional growth linked to a relatively small number of industrial centers.",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Middle East & Africa thermal interface materials market generated USD 87 million in 2025 and is projected to reach USD 181 million by 2035. Data center investment, telecommunications deployment, and power-electronics demand in renewable-energy projects are creating selective opportunities across the region.",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "By region, North America held the 24% market share in 2025 and is expected to grow at the fastest with a CAGR of 10.30% during the forecast period due to data center investments and advancement in semiconductor infrastructure.",
+    "url": "https://www.towardschemandmaterials.com/insights/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Investment Flow for Thermal Interface Materials Market in 2026",
+    "url": "https://www.towardschemandmaterials.com/insights/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "In January 2026, Vertiv Group launched Vertiv™ MegaMod™ HDX, a hybrid liquid-cooling system optimized for AI and high-performance computing processing units in North America and EMEA. This investment integrates direct-to-chip liquid cooling with air-cooled designs to meet thermal demand.",
+    "url": "https://www.towardschemandmaterials.com/insights/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global thermal interface materials market size is estimated at USD 5.31 billion in 2026. It is projected to experience strong growth, reaching USD 11.96 billion by 2035, driven by investments in 5G infrastructure, automation, and modern data centers.",
+    "url": "https://www.towardschemandmaterials.com/insights/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Asia Pacific region led the market with a 46% revenue share in 2025 due to its vast electronics and battery manufacturing infrastructure. However, North America is projected to grow at the fastest rate with a CAGR of 10.30%, fueled by massive regional investments in semiconductor facilities and AI data centers.",
+    "url": "https://www.towardschemandmaterials.com/insights/thermal-interface-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Foothill Ventures is a $250M AUM American venture capital firm, based in Los Altos, California. Foothill Ventures is among North America's most active seed investors in semiconductors, and has backed companies such as d-Matrix, HyperLight, Tetramem, Metalenz, Aviva Links, Quintessent and others. For more information, visit www.foothill.ventures.",
+    "url": "https://www.m-ventures.com/news/novolinc-secures-investments-to-assist-ai-computing-with-groundbreaking-thermal-interface-technology",
+    "pass": 3
+   },
+   {
+    "quote": "Arieca has raised $7.7M across 3 funding rounds.",
+    "url": "https://startupintros.com/orgs/arieca",
+    "pass": 3
+   },
+   {
+    "quote": "3 funding rounds",
+    "url": "https://startupintros.com/orgs/arieca",
+    "pass": 3
+   },
+   {
+    "quote": "Arieca has raised $7.7M in total across 3 funding rounds.",
+    "url": "https://startupintros.com/orgs/arieca",
+    "pass": 3
+   },
+   {
+    "quote": "Arieca has raised $7.7M across 3 funding rounds. Most recently, it raised $7.0M Series A in May 2022.",
+    "url": "https://startupintros.com/orgs/arieca",
+    "pass": 3
+   },
+   {
+    "quote": "$7.7M raised",
+    "url": "https://startupintros.com/orgs/arieca",
+    "pass": 3
+   },
+   {
+    "quote": "$7M Series A",
+    "url": "https://startupintros.com/orgs/arieca",
+    "pass": 3
+   },
+   {
+    "quote": "Investment Analyst (Fund EX1)",
+    "url": "https://tdk-ventures.com/news/announcements/tdk-ventures-invests-in-novolincs-advanced-thermal-interface-solutions-for-next-generation-ai-computing/",
+    "pass": 3
+   },
+   {
+    "quote": "Bengaluru-based Ultraviolette raises $21 million in its latest funding round",
+    "url": "https://tdk-ventures.com/news/announcements/tdk-ventures-invests-in-novolincs-advanced-thermal-interface-solutions-for-next-generation-ai-computing/",
+    "pass": 3
+   },
+   {
+    "quote": "[Weekly funding roundup Aug 9-16] VC inflow into Indian startups on the rise",
+    "url": "https://tdk-ventures.com/news/announcements/tdk-ventures-invests-in-novolincs-advanced-thermal-interface-solutions-for-next-generation-ai-computing/",
+    "pass": 3
+   },
+   {
+    "quote": "America’s Top Venture Capital Firms of 2025",
+    "url": "https://tdk-ventures.com/news/announcements/tdk-ventures-invests-in-novolincs-advanced-thermal-interface-solutions-for-next-generation-ai-computing/",
+    "pass": 3
+   },
+   {
+    "quote": "Indian deeptech funding to cross $5 billion mark over next 5 years: Report",
+    "url": "https://tdk-ventures.com/news/announcements/tdk-ventures-invests-in-novolincs-advanced-thermal-interface-solutions-for-next-generation-ai-computing/",
+    "pass": 3
+   },
+   {
+    "quote": "EtherealX Raises $21M in Series A Funding",
+    "url": "https://tdk-ventures.com/news/announcements/tdk-ventures-invests-in-novolincs-advanced-thermal-interface-solutions-for-next-generation-ai-computing/",
+    "pass": 3
+   },
+   {
+    "quote": "The Guild raises $20.5M in Series A round led by TDK Ventures, BIG Capital; co’s valuation jumps 5.5x",
+    "url": "https://tdk-ventures.com/news/announcements/tdk-ventures-invests-in-novolincs-advanced-thermal-interface-solutions-for-next-generation-ai-computing/",
+    "pass": 3
+   },
+   {
+    "quote": "AI network startup Eridu emerges from stealth with hefty $200M Series A",
+    "url": "https://tdk-ventures.com/news/announcements/tdk-ventures-invests-in-novolincs-advanced-thermal-interface-solutions-for-next-generation-ai-computing/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "12.4",
+    "url": "https://www.researchnester.com/ja/reports/thermal-interface-materials-market/5183",
+    "quote": "予測期間（2026年から2035年）中、年平均成長率（CAGR）12.4%で成長が見込まれます"
+   },
+   {
+    "value": "10.6",
+    "url": "https://www.atpress.ne.jp/news/9302418",
+    "quote": "世界の半導体熱界面材料（TIM）市場規模は、2025年の12億5,000万米ドルから2032年には25億2,900万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）10.6％で成長すると見込まれています"
+   },
+   {
+    "value": "8.9",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "quote": "The market is projected to reach USD 6.79 billion by 2035, growing at a CAGR of 8.9% from 2026 to 2035."
+   },
+   {
+    "value": "12.4",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermal-interface-materials-market",
+    "quote": "By product: Phase change materials segment is expected to grow at the fastest CAGR of 12.4%"
+   },
+   {
+    "value": "12.0",
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermal-interface-materials-market",
+    "quote": "CAGR of 12.0% from 2026 to 2033"
+   },
+   {
+    "value": "11.63",
+    "url": "https://www.precedenceresearch.com/thermal-interface-materials-market",
+    "quote": "The market is expected to grow at a CAGR of 11.63% from 2026 to 2035."
+   },
+   {
+    "value": "11.44",
+    "url": "https://www.precedenceresearch.com/thermal-interface-materials-market",
+    "quote": "CAGR of 11.44%"
+   },
+   {
+    "value": "11.61",
+    "url": "https://www.precedenceresearch.com/thermal-interface-materials-market",
+    "quote": "The Asia Pacific thermal interface materials market size was anticipated at USD 1.85 billion in 2025 and is expected to be worth USD 5.54 billion by 2035, with a notable CAGR of 11.61% from 2026 to 2035."
+   },
+   {
+    "value": "9.5",
+    "url": "https://www.stratviewresearch.com/market-reports/thermal-interface-materials-market",
+    "quote": "CAGR of 9.5% during 2026-2032"
+   },
+   {
+    "value": "10.4",
+    "url": "https://www.marketresearchfuture.com/reports/thermal-interface-materials-market-3135",
+    "quote": "As per Market Research Future analysis, the Thermal Interface Materials Market was estimated at 2.63 USD Billion in 2024. The Thermal Interface Materials industry is projected to grow from 2.904 USD Billion in 2025 to 7.834 USD Billion by 2035, exhibiting a compound annual growth rate (CAGR) of 10.4"
+   },
+   {
+    "value": "9.7",
+    "url": "https://www.datamintelligence.com/research-report/-thermal-interface-materials-market",
+    "quote": "CAGR of 9.7% during the forecast period from 2026 to 2033"
+   },
+   {
+    "value": "10.30",
+    "url": "https://www.towardschemandmaterials.com/insights/thermal-interface-materials-market",
+    "quote": "By region, North America held the 24% market share in 2025 and is expected to grow at the fastest with a CAGR of 10.30% during the forecast period due to data center investments and advancement in semiconductor infrastructure."
+   },
+   {
+    "value": "10.2",
+    "url": "https://www.towardschemandmaterials.com/insights/thermal-interface-materials-market",
+    "quote": "By material, the polyimide segment held 13% market share in 2025 and is expected to grow at the fastest CAGR of 10.2% over the forecast period, driven by its demand in advanced semiconductor packaging and flexible electronics manufacturing."
+   },
+   {
+    "value": "10.5",
+    "url": "https://www.towardschemandmaterials.com/insights/thermal-interface-materials-market",
+    "quote": "By type, the gap fillers segment held 23% market share in 2025 and is expected to grow at the fastest CAGR of 10.5% over the forecast period because it offers higher thermal transfer efficiency. And demand for power electronics systems."
+   },
+   {
+    "value": "11.3",
+    "url": "https://www.towardschemandmaterials.com/insights/thermal-interface-materials-market",
+    "quote": "By application, the automotive segment held 24% market share in 2025 and is expected to grow at the fastest CAGR of 11.3% over the forecast period accelerated by demand for thermal management in EV battery system and power electronics."
+   },
+   {
+    "value": "9.45",
+    "url": "https://www.towardschemandmaterials.com/insights/thermal-interface-materials-market",
+    "quote": "CAGR 9.45%"
+   },
+   {
+    "value": "10",
+    "url": "https://www.idtechex.com/en/research-report/thermal-interface-materials/1116",
+    "quote": "The market size of TIMs will exceed US$7 billion by 2036, with a CAGR of around 10% between 2026 and 2036."
+   }
+  ],
+  "市場規模USD": [
+   {
+    "value": "2.9",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "quote": "The thermal interface materials market was valued at USD 2.9 billion in 2025, is projected to reach USD 3.23 billion in 2026, and is forecast to expand at 8.9% CAGR (2026–2035) to USD 6.79 billion by 2035."
+   },
+   {
+    "value": "3.23",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "quote": "The thermal interface materials market was valued at USD 2.9 billion in 2025, is projected to reach USD 3.23 billion in 2026, and is forecast to expand at 8.9% CAGR (2026–2035) to USD 6.79 billion by 2035."
+   },
+   {
+    "value": "6.79",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "quote": "The thermal interface materials market was valued at USD 2.9 billion in 2025, is projected to reach USD 3.23 billion in 2026, and is forecast to expand at 8.9% CAGR (2026–2035) to USD 6.79 billion by 2035."
+   },
+   {
+    "value": "841",
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "quote": "Thermal Greases & Pastes generated USD 841 million in 2025 and are expected to grow at 6.4% CAGR (2026–2035). Their established role in serviceable electronics and conventional cooling assemblies preserves demand, but higher-density systems are increasingly favoring formats that provide more consist"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://straitsresearch.com/jp/report/thermal-interface-material-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.com/ja/reports/thermal-interface-materials-market/5183",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/9302418",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/heat-dissipation-materials-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/4014721",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=23084&view_type=2&la=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fkg-report.jp/market-trends/2026/2764.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fcr.co.jp/report/252q06.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cmcbooks.co.jp/products/detail.php?product_id=116328",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsuo-sangyo.co.jp/secret-base/solution/thermal-interface-material/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shingi.jst.go.jp/pdf/2025/2025_ynu_003.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.musashi-engineering.co.jp/blog/column/a156",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ozekinet.com/media/power_supply/tim/thermal_interface_material_guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zeon.co.jp/business/enterprise/electronic/tim/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/thermal-interface-material-market-13483121.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/thermal-interface-materials-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/thermal-interface-materials-market-102950",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/thermal-interface-materials-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stratviewresearch.com/market-reports/thermal-interface-materials-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/thermal-interface-materials-market-3135",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idtechex.com/en/research-report/thermal-interface-materials-2020-2030-forecasts-technologies-opportunities/705",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.datamintelligence.com/research-report/-thermal-interface-materials-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.towardschemandmaterials.com/insights/thermal-interface-materials-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idtechex.com/en/research-report/thermal-interface-materials/1116",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businesswire.com/news/home/20250319797120/en/Thermal-Interface-Materials-TIMs-Market-2025-2035-Profiles-of-Established-Global-Manufacturers-and-Innovative-Technology-Startups---ResearchAndMarkets.com",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.m-ventures.com/news/novolinc-secures-investments-to-assist-ai-computing-with-groundbreaking-thermal-interface-technology",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/arieca",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tdk-ventures.com/news/announcements/tdk-ventures-invests-in-novolincs-advanced-thermal-interface-solutions-for-next-generation-ai-computing/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "放熱材料（TIM・金属系） 市場規模 年平均成長率",
+   "results": [
+    "https://straitsresearch.com/jp/report/thermal-interface-material-market",
+    "https://www.researchnester.com/ja/reports/thermal-interface-materials-market/5183",
+    "https://www.atpress.ne.jp/news/9302418",
+    "https://www.mordorintelligence.com/ja/industry-reports/heat-dissipation-materials-market",
+    "https://newscast.jp/news/4014721",
+    "https://www.fortunebusinessinsights.com/jp/%E3%82%B5%E3%83%BC%E3%83%9E%E3%83%AB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A7%E3%83%BC%E3%82%B9%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4-102950",
+    "https://www.gminsights.com/ja/industry-analysis/thermal-interface-materials-market",
+    "https://velog.io/@qyresearch/%E3%82%B5%E3%83%BC%E3%83%9E%E3%83%AB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A7%E3%83%BC%E3%82%B9%E6%9D%90%E6%96%99%E6%97%A5%E6%9C%AC%E5%B8%82%E5%A0%B4%E5%88%86%E6%9E%90%EF%BC%9A%E3%83%88%E3%83%83%E3%83%9710%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%AE%E5%A3%B2%E4%B8%8A%E6%AF%94%E8%BC%83%E3%81%A8%E7%AB%B6%E4%BA%89%E7%92%B0%E5%A2%83",
+    "https://www.fuji-keizai.co.jp/press/detail.html?cid=23119&view_type=2&la=ja"
+   ]
+  },
+  {
+   "query": "放熱材料（TIM・金属系） 市場 予測 富士経済 OR 矢野経済 OR シーエムシー",
+   "results": [
+    "https://www.fuji-keizai.co.jp/press/detail.html?cid=23084&view_type=2&la=ja",
+    "https://www.fkg-report.jp/market-trends/2026/2764.html",
+    "https://straitsresearch.com/jp/report/thermal-interface-material-market",
+    "https://www.atpress.ne.jp/news/9302418",
+    "https://www.researchnester.com/ja/reports/thermal-interface-materials-market/5183",
+    "https://www.mordorintelligence.com/ja/industry-reports/heat-dissipation-materials-market",
+    "https://newscast.jp/news/4014721",
+    "https://www.fcr.co.jp/report/252q06.htm",
+    "https://www.cmcbooks.co.jp/products/detail.php?product_id=116328"
+   ]
+  },
+  {
+   "query": "放熱材料（TIM・金属系） 参入 企業 国内",
+   "results": [
+    "https://www.matsuo-sangyo.co.jp/secret-base/solution/thermal-interface-material/",
+    "https://shingi.jst.go.jp/pdf/2025/2025_ynu_003.pdf",
+    "https://www.musashi-engineering.co.jp/blog/column/a156",
+    "https://www.ozekinet.com/media/power_supply/tim/thermal_interface_material_guide",
+    "https://www.zeon.co.jp/business/enterprise/electronic/tim/",
+    "https://mono.ipros.com/cg1/%E6%94%BE%E7%86%B1%E6%9D%90/",
+    "https://www.nordson.com/ja-jp/divisions/electronics-solutions/your-process/fluid-types/thermal-interface-material-tim",
+    "https://www.indium.com/ja/products/thermal-interface-materials/",
+    "https://www.idtechex.com/ja/research-article/thermal-interface-materials-transition-to-high-performance-materials/33640"
+   ]
+  },
+  {
+   "query": "thermal interface materials market size CAGR 2025",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "https://www.marketsandmarkets.com/Market-Reports/thermal-interface-material-market-13483121.html",
+    "https://www.grandviewresearch.com/industry-analysis/thermal-interface-materials-market",
+    "https://www.fortunebusinessinsights.com/thermal-interface-materials-market-102950",
+    "https://www.precedenceresearch.com/thermal-interface-materials-market",
+    "https://www.stratviewresearch.com/market-reports/thermal-interface-materials-market.html",
+    "https://www.marketresearchfuture.com/reports/thermal-interface-materials-market-3135",
+    "https://www.globenewswire.com/news-release/2026/10/01/3373231/0/en/global-thermal-interface-materials-market-size-share-trends-and-forecast-2026-2034-evs-5g-and-advanced-computing-drive-8-25-cagr-toward-us-8-6-billion.html",
+    "https://www.linkedin.com/pulse/market-analysis-united-states-thermal-interface-materials-kul9e",
+    "https://www.igtps.com/report/thermal-interface-materials-market"
+   ]
+  },
+  {
+   "query": "thermal interface materials market key players competitive landscape",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/thermal-interface-materials-market",
+    "https://www.marketsandmarkets.com/Market-Reports/thermal-interface-material-market-13483121.html",
+    "https://www.stratviewresearch.com/market-reports/thermal-interface-materials-market.html",
+    "https://www.fortunebusinessinsights.com/thermal-interface-materials-market-102950",
+    "https://www.marketresearchfuture.com/reports/thermal-interface-materials-market-3135",
+    "https://www.idtechex.com/en/research-report/thermal-interface-materials-2020-2030-forecasts-technologies-opportunities/705",
+    "https://www.linkedin.com/pulse/thermal-interface-material-market-demand-segments-1t2jc/",
+    "https://www.grandviewresearch.com/industry-analysis/thermal-interface-materials-market",
+    "https://www.datamintelligence.com/research-report/-thermal-interface-materials-market",
+    "https://www.towardschemandmaterials.com/insights/thermal-interface-materials-market"
+   ]
+  },
+  {
+   "query": "thermal interface materials startup funding 2025",
+   "results": [
+    "https://www.idtechex.com/en/research-report/thermal-interface-materials/1116",
+    "https://www.businesswire.com/news/home/20250319797120/en/Thermal-Interface-Materials-TIMs-Market-2025-2035-Profiles-of-Established-Global-Manufacturers-and-Innovative-Technology-Startups---ResearchAndMarkets.com",
+    "https://www.m-ventures.com/news/novolinc-secures-investments-to-assist-ai-computing-with-groundbreaking-thermal-interface-technology",
+    "https://startupintros.com/orgs/arieca",
+    "https://tdk-ventures.com/news/announcements/tdk-ventures-invests-in-novolincs-advanced-thermal-interface-solutions-for-next-generation-ai-computing/",
+    "https://www.prnewswire.com/news-releases/novolinc-secures-investments-to-assist-ai-computing-with-groundbreaking-thermal-interface-technology-302354651.html",
+    "https://www.grandviewresearch.com/industry-analysis/thermal-interface-materials-market",
+    "https://finance.yahoo.com/technology/articles/thermal-interface-materials-market-advances-083000166.html",
+    "https://www.coherentmarketinsights.com/market-insight/thermal-interface-materials-market-5695",
+    "https://www.prnewswire.com/news-releases/novolinc-raises-new-capital-to-break-the-thermal-barrier-limiting-next-gen-ai-chips-302645009.html"
+   ]
+  }
+ ],
+ "missing": {}
+}

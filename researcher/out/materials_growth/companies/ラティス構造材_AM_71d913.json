@@ -1,0 +1,1962 @@
+{
+ "name": "ラティス構造材（AM）",
+ "en": "lattice structures additive manufacturing",
+ "aliases": [
+  "lattice",
+  "ラティス構造"
+ ],
+ "context": "金属AM",
+ "kind": "market",
+ "researched_at": "2026-11-02T17:42:25.432349+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "積層造形市場規模・成長レポート 2035",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "2025 市場規模",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "北米の付加製造市場は、強力な研究開発能力と潤沢な連邦政府資金に支えられ、2035年までに44.3%のシェアを確保すると予測されています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模：",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模：",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "基準年市場規模（2025年）",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "1,131億ドル",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "予測年市場規模（2035年）",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "6,477億ドル",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "北米市場は、議論された任期を通じて44.3％という最高のシェアを維持すると予測されています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "予測市場規模（2030年）",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "同国の市場はまた、企業が複雑で高性能な部品の社内AM生産をサポートする、より広範なインダストリー4.0フレームワークと密接に統合されているため、その恩恵を受けています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "AM市場は今後5年で年平均13.5％成長へ、210億ユーロ規模に拡大見通し | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/cases/other-fields/am-market-growth-135-percent-ampower-260407/",
+    "pass": 3
+   },
+   {
+    "quote": "AM市場は今後5年で年平均13.5％成長へ、210億ユーロ規模に拡大見通し",
+    "url": "https://news.sharelab.jp/cases/other-fields/am-market-growth-135-percent-ampower-260407/",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は210億ユーロ（約3兆4,650億円 ※1ユーロ＝165円換算）を超える見通しである",
+    "url": "https://news.sharelab.jp/cases/other-fields/am-market-growth-135-percent-ampower-260407/",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形市場は2025年に5.6%成長した（出典：AMPOWER）",
+    "url": "https://news.sharelab.jp/cases/other-fields/am-market-growth-135-percent-ampower-260407/",
+    "pass": 3
+   },
+   {
+    "quote": "Wohlers Report 2026発表、AM市場は成長継続も投資は慎重姿勢が鮮明に",
+    "url": "https://news.sharelab.jp/cases/other-fields/am-market-growth-135-percent-ampower-260407/",
+    "pass": 3
+   },
+   {
+    "quote": "金属AM市場、2034年に9兆円規模へ！VoxelMattersが最新市場レポートを公開",
+    "url": "https://news.sharelab.jp/cases/other-fields/am-market-growth-135-percent-ampower-260407/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/cases/other-fields/am-market-growth-135-percent-ampower-260407/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の3Dプリンティング金属市場規模は、2025年には12億米ドルと評価され、2026年の14億2000万米ドルから2034年には53億2000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は18%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年予測市場規模",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の3Dプリンティング金属市場は、2025年には地域別で最大のシェアとなる38.5%を占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国の3Dプリンティング金属市場は、航空機フリートの近代化の恩恵を受ける可能性がある",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "カナダの3Dプリンティング金属市場は、高度な製造活動の恩恵を受ける可能性がある",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "カナダのイノベーション・科学・経済開発省は、2030年までに製造業の売上高を50%増の1兆ドルに、製造業の輸出を5,400億ドルにすることを目標としており、カナダ国立研究評議会は引き続き金属積層造形と高度な製造技術を支援している",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の3Dプリンティング金属市場は、予測期間中に年平均成長率（CAGR）27.9%で成長すると予想されており、地域市場の中で最も急速に成長している市場となっています",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の3Dプリンティング金属市場は、日本政府が2040年までに世界の金属積層造形市場における日本のシェアを10%未満から20%に引き上げるという目標を掲げていること、また、同じ期間に機械部品および工具産業における航空宇宙などの高付加価値分野のシェアを30%から50%に引き上げるという目標を掲げていることから恩恵を受ける可能性があります",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国の3Dプリンティング金属市場は、中国が2026年から2030年にかけて全国的な研究開発費を年間少なくとも7%増加させ、先端材料、ハイエンド機器、その他のコア技術のブレークスルーを加速させ、金属積層造形開発を支援するという計画から恩恵を受ける可能性がある",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "韓国の3Dプリンティング金属市場は、2030年までに10の専門クラスターを追加設立し、コア戦略技術を持つ企業の数を100社から200社に拡大し、5つのAIベースの先端材料開発プロジェクトを開始することを目標とする政府の2026～2030年材料・部品・設備計画から恩恵を受ける可能性がある",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "インドの3Dプリンティング金属市場は、約100社の新規スタートアップ、500の積層造形製品、50のインド固有の積層造形技術、10万人の熟練労働者を目標とする国家積層造形戦略から恩恵を受け、国内の金属積層造形能力の開発を支援する可能性がある",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形装置市場は2025年に86億米ドルと評価され、2026年には99億米ドルに拡大し、年平均成長率（CAGR）13.0%で成長して2035年までに297億米ドルに達すると予測される（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の市場規模予測",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "業界専門家との協議によると、積層造形装置市場は2024年に75億5,000万米ドルを記録した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形装置市場規模、技術タイプ別、2025年および2035年（10億米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "バット光重合方式は、2035年までに市場規模が59.4億米ドルに達し、2026〜2035年の年平均成長率（CAGR）は14.8%になると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "バインダージェッティングの2025年の市場規模は6億米ドルで、2035年には市場シェアが9.0%に達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "ポリマー・プラスチック対応装置の2025年の市場規模は37億米ドルで、2035年には市場の33.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "金属対応装置は2025年に市場の38.1%を占め、2035年には市場規模が133.7億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "複合材料対応装置の2025年の市場規模は6.9億米ドルで、2026〜2035年には年平均成長率（CAGR）18.4%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "産業用システムの2025年の市場規模は48.2億米ドルで、2035年には市場の50.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "デスクトップ向けおよび上級消費者向けシステムの市場規模は、2035年までに59.4億米ドルに達し、2026〜2035年に年平均成長率（CAGR）15.1%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティング市場は2026年第1四半期に43億5,000万ドル規模へ AM Researchが最新市場レポートを発表",
+    "url": "https://news.sharelab.jp/market-trends/",
+    "pass": 3
+   },
+   {
+    "quote": "金属AM市場、2034年に9兆円規模へ！VoxelMattersが最新市場レポートを公開",
+    "url": "https://news.sharelab.jp/market-trends/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の3Dプリント市場規模予測、2025年に250億ドルに達する見込み",
+    "url": "https://news.sharelab.jp/market-trends/",
+    "pass": 3
+   },
+   {
+    "quote": "市場調査会社のSmarTech Analysis社は、グローバルでの3Dプリント市場規模が2050年…",
+    "url": "https://news.sharelab.jp/market-trends/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンティング市場は年率23.9%の成長を続ける見込みと報告ーグランドビュー・リサーチ",
+    "url": "https://news.sharelab.jp/market-trends/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター世界市場は前年同期比で27％成長！2022年第2四半期ーSmarTech Analysis",
+    "url": "https://news.sharelab.jp/market-trends/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用3Dプリンター市場、2026年に約6,300億円に成長見込み",
+    "url": "https://news.sharelab.jp/market-trends/",
+    "pass": 3
+   },
+   {
+    "quote": "【業界別動向】航空宇宙業界3Dプリンター市場は年平均成長率26.6%の見通し",
+    "url": "https://news.sharelab.jp/market-trends/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年の日本の工作機械の市場規模…",
+    "url": "https://news.sharelab.jp/market-trends/",
+    "pass": 3
+   },
+   {
+    "quote": "2017年の国内3Dプリンター市場規模（IDC Japanのレポートより）",
+    "url": "https://news.sharelab.jp/market-trends/",
+    "pass": 3
+   },
+   {
+    "quote": "2017年の国内3Dプリンティング市場の総売上額は308億円（前年比8.9％増）2022年の市場規模…",
+    "url": "https://news.sharelab.jp/market-trends/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/market-trends/",
+    "pass": 3
+   },
+   {
+    "quote": "先進ラティス構造材料市場 | 市場規模 業界分析 予測 2032年 【市場調査レポート】",
+    "url": "https://www.gii.co.jp/report/smrc1916743-advanced-lattice-structured-materials-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Stratistics MRCの調査によると、世界の先進ラティス構造材料市場は2025年に736億米ドル規模となり、予測期間中にCAGR 6.3％で成長し、2032年までに1,129億米ドルに達すると見込まれています",
+    "url": "https://www.gii.co.jp/report/smrc1916743-advanced-lattice-structured-materials-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 4,150 換算",
+    "url": "https://www.gii.co.jp/report/smrc1916743-advanced-lattice-structured-materials-market.html",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "CAGR 2026-2035",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間（2026年から2035年）中、年平均成長率（CAGR）は21.4%です",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "貿易成長率（5年間年率）",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "過去5年間の平均年間成長率",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、急速な工業化、スマート製造イニシアチブ、そして政府の多大な支援に支えられ、2026年から2035年にかけて最も速いペースで拡大すると予測されています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "21.4% CAGR（2026～2035年）",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "2024年11月、ストラタシスは、多額の投資を行い、トリトンテクノロジーズと提携することでポリマー以外にも事業を拡大し、製品ポートフォリオに量産グレードの金属およびセラミック積層造形を追加したと発表しました",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "インダストリー4.0の導入拡大：",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月、Fabric8Labsは5,000万米ドルを調達し、米国での電気化学的積層造形生産を拡大し、熱管理、無線通信、パワーエレクトロニクス向けの部品の年間生産能力を500万個から2,200万個に増強しました",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "、航空宇宙、ヘルスケア、工業分野における導入拡大と、インダストリー4.0製造業を推進する政策による広範な支援を受け、地域の積層造形市場において支配的な地位を確立しています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "AM市場は今後5年で年平均13.5％成長へ、210億ユーロ規模に拡大見通し | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/cases/other-fields/am-market-growth-135-percent-ampower-260407/",
+    "pass": 3
+   },
+   {
+    "quote": "AM市場は今後5年で年平均13.5％成長へ、210億ユーロ規模に拡大見通し",
+    "url": "https://news.sharelab.jp/cases/other-fields/am-market-growth-135-percent-ampower-260407/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年は前年比5.6％の成長が見込まれており、前年の2％から回復基調に転じている",
+    "url": "https://news.sharelab.jp/cases/other-fields/am-market-growth-135-percent-ampower-260407/",
+    "pass": 3
+   },
+   {
+    "quote": "AMPOWERはこうした状況を踏まえ、今後5年間で年平均13.5％の成長を予測",
+    "url": "https://news.sharelab.jp/cases/other-fields/am-market-growth-135-percent-ampower-260407/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの分野では過去4年間にわたり、20％を超える成長率を維持している",
+    "url": "https://news.sharelab.jp/cases/other-fields/am-market-growth-135-percent-ampower-260407/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティング金属市場の規模、シェア、成長率、予測（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の3Dプリンティング金属市場規模は、2025年には12億米ドルと評価され、2026年の14億2000万米ドルから2034年には53億2000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は18%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場CAGR（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の年平均成長率（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "こうした材料供給の拡大は、金属3Dプリンティングの普及をさらに促進するでしょう",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "歯科および整形外科分野における金属3Dプリンティングの拡大、ならびにジュエリーおよび高級品への金属3Dプリンティングの採用は、成長機会をもたらす",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "アルミニウム分野は、軽量性、高い強度重量比、複雑な3Dプリント部品への適合性といった特性により、年平均成長率（CAGR）26.4%で成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "バインダージェット方式は、高速生産、効率的な材料利用、複雑な金属部品を大規模に生産できる能力を背景に、年平均成長率（CAGR）27.2%で成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形装置市場は2025年に86億米ドルと評価され、2026年には99億米ドルに拡大し、年平均成長率（CAGR）13.0%で成長して2035年までに297億米ドルに達すると予測される（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR）（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "これは、2025年の基準年水準への急回復に先立ち、産業分野のエンドユーザーが設備投資の決定を先送りしたことを反映する前年比の縮小である",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "2030年に向けて部品の重要度区分が二次構造部品へと拡大するのに伴い、航空宇宙分野のAM装置調達も拡大し、精密LPBFおよび電子ビーム溶融方式の産業用システムに複数年にわたる安定した需要がもたらされる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ポリマーAM機器の売上高成長率は、2028年まで金属AMを下回る",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "材料押出は2025年に市場の27.0%を占め、2026〜2035年に年平均成長率（CAGR）9.6%で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "バット光重合方式は、2035年までに市場規模が59.4億米ドルに達し、2026〜2035年の年平均成長率（CAGR）は14.8%になると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "DEDやWAAMを含む指向性エネルギー堆積方式は、2025年に市場の6.1%を占め、2026〜2035年には年平均成長率（CAGR）13.1%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "複合材料対応装置の2025年の市場規模は6.9億米ドルで、2026〜2035年には年平均成長率（CAGR）18.4%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "セラミックス対応装置は、2035年までに市場の5.0%を占め、2026〜2035年には年平均成長率（CAGR）13.1%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "プロフェッショナル向けおよびベンチトップ型システムは、2025年に市場の28.0%を占め、2026〜2035年には年平均成長率（CAGR）14.0%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンティング市場は年率23.9%の成長を続ける見込みと報告ーグランドビュー・リサーチ",
+    "url": "https://news.sharelab.jp/market-trends/",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカの調査会社のグランドビュー・リサーチは、全世界での金属3Dプリンティング市場が年率23.9%…",
+    "url": "https://news.sharelab.jp/market-trends/",
+    "pass": 3
+   },
+   {
+    "quote": "『AM Forward (AMフォワード)』～バイデン米大統領が掲げる3Dプリンターを活用した内需拡大施策",
+    "url": "https://news.sharelab.jp/market-trends/",
+    "pass": 3
+   },
+   {
+    "quote": "【業界別動向】航空宇宙業界3Dプリンター市場は年平均成長率26.6%の見通し",
+    "url": "https://news.sharelab.jp/market-trends/",
+    "pass": 3
+   },
+   {
+    "quote": "2017年の国内3Dプリンティング市場の総売上額は308億円（前年比8.9％増）2022年の市場規模…",
+    "url": "https://news.sharelab.jp/market-trends/",
+    "pass": 3
+   },
+   {
+    "quote": "Stratistics MRCの調査によると、世界の先進ラティス構造材料市場は2025年に736億米ドル規模となり、予測期間中にCAGR 6.3％で成長し、2032年までに1,129億米ドルに達すると見込まれています",
+    "url": "https://www.gii.co.jp/report/smrc1916743-advanced-lattice-structured-materials-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年の3Dプリンタ材料の世界市場規模は前年比24.9％増の4,607億2,000万円",
+    "url": "https://www.yano.co.jp/market_reports/C66112800?srsltid=AYCX9vIcVZqlbucKUdaNlEAXJTUAjx7ckv5gpmZ2jYp7xj966AI0NLbF",
+    "pass": 3
+   },
+   {
+    "quote": "市場の拡大基調が続き、2028年には1兆円の大台突破へ",
+    "url": "https://www.yano.co.jp/market_reports/C66112800?srsltid=AYCX9vIcVZqlbucKUdaNlEAXJTUAjx7ckv5gpmZ2jYp7xj966AI0NLbF",
+    "pass": 3
+   },
+   {
+    "quote": "2023～2028年のCAGRは重量、金額ともに10%を超える",
+    "url": "https://www.yano.co.jp/market_reports/C66112800?srsltid=AYCX9vIcVZqlbucKUdaNlEAXJTUAjx7ckv5gpmZ2jYp7xj966AI0NLbF",
+    "pass": 3
+   },
+   {
+    "quote": "Rilsan® Invent PA11パウダーは実製品向けの需要が拡大傾向",
+    "url": "https://www.yano.co.jp/market_reports/C66112800?srsltid=AYCX9vIcVZqlbucKUdaNlEAXJTUAjx7ckv5gpmZ2jYp7xj966AI0NLbF",
+    "pass": 3
+   },
+   {
+    "quote": "ペレット式3Dプリンタの活用領域を拡大させる",
+    "url": "https://www.yano.co.jp/market_reports/C66112800?srsltid=AYCX9vIcVZqlbucKUdaNlEAXJTUAjx7ckv5gpmZ2jYp7xj966AI0NLbF",
+    "pass": 3
+   },
+   {
+    "quote": "2024年版 拡大する施設園芸の市場実態と将来展望",
+    "url": "https://www.yano.co.jp/market_reports/C66112800?srsltid=AYCX9vIcVZqlbucKUdaNlEAXJTUAjx7ckv5gpmZ2jYp7xj966AI0NLbF",
+    "pass": 3
+   },
+   {
+    "quote": "C66102700 2024年版 拡大する施設園芸の市場実態と将来展望",
+    "url": "https://www.yano.co.jp/market_reports/C66112800?srsltid=AYCX9vIcVZqlbucKUdaNlEAXJTUAjx7ckv5gpmZ2jYp7xj966AI0NLbF",
+    "pass": 3
+   },
+   {
+    "quote": "The global market for 3D printers and associated materials is forecast to reach US$122.7 billion by 2037, representing a CAGR of 19.8% from US$20.1 billion in 2027.",
+    "url": "https://www.idtechex.com/ja/research-report/3d-printing-and-additive-manufacturing/1182",
+    "pass": 3
+   },
+   {
+    "quote": "降増加傾向にあり，2017 年には前年比180％と著し",
+    "url": "https://www.jstage.jst.go.jp/article/seisankanri/28/2/28_17/_pdf/-char/en",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026–2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global additive manufacturing market size was valued at USD 30.6 billion in 2025 and is projected to grow from USD 37.6 billion in 2026 to USD 168.9 billion by 2033, at a CAGR of 23.9% from 2026 to 2033. The market in North America dominated with a revenue share of 32.8% in 2025. The market growth is driven by the rapid adoption of industrial 3D printing, digital manufacturing, and",
+    "url": "https://www.grandviewresearch.com/industry-analysis/additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Fastest-growing regional market: Asia Pacific (highest CAGR, 2026-2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2033): 23.9%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The scanning software segment is expected to grow at the fastest CAGR from 2026 to 2033, supported by the rapid adoption of",
+    "url": "https://www.grandviewresearch.com/industry-analysis/additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 23.9% from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD million/billion and CAGR from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global additive manufacturing market is expected to grow at a compound annual growth rate of 23.9% from 2026 to 2033 to reach USD 168.9 billion by 2033.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global healthcare additive manufacturing market size was estimated at USD 13.33 billion in 2025 and is predicted to increase from USD 16.22 billion in 2026 to approximately USD 82.30 billion by 2035, expanding at a CAGR of 19.97% from 2025 to 2034. The healthcare additive manufacturing market is driven by rising demand for personalized medical devices and 3D-printed healthcare solutions.",
+    "url": "https://www.precedenceresearch.com/healthcare-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "By technology, the deposition modelling segment is expected to grow at the fastest CAGR of the market between 2026 and 2035.",
+    "url": "https://www.precedenceresearch.com/healthcare-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 19.97%",
+    "url": "https://www.precedenceresearch.com/healthcare-additive-manufacturing-market",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "インド市場への参入戦略（GTM）",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "主要プレイヤー:",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "分析力の明晰さ、体系的な問題解決能力、そしてデータ統合における精確さで知られるパルルは、大規模なデータセットを戦略的インサイトへと簡素化することに長けており、テクノロジーの導入、市場参入、ポートフォリオの成長に関する意思決定を促進する上で重要な役割を果たします",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティング金属市場の主要企業には、EOS GmbH、3D Systems Corporation、Renishaw plc、Stratasys Ltd.、およびNikon SLM Solutions AGがあり、これら4社で市場全体の約25～28%を占めている",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティング金属市場における主要企業はどこですか？",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、規制対象となる防衛生産サプライチェーンに参入するサプライヤーにとって、産業用システム導入の商業リスクが低下する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形装置市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形装置市場の主要企業には、3D Systems、EOS、Bambu Lab、BLT Bright Laser Technologiesなどがある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 競争環境と市場への参入・撤退の見通し",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "構造用および荷重支持用途での利用拡大は、市場参入企業にとって新たな収益源を開拓すると期待されます",
+    "url": "https://www.gii.co.jp/report/smrc1916743-advanced-lattice-structured-materials-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要プレイヤーのSWOT分析（最大3社）",
+    "url": "https://www.gii.co.jp/report/smrc1916743-advanced-lattice-structured-materials-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要プレイヤーの製品ポートフォリオ、地理的展開、戦略的提携に基づくベンチマーキング",
+    "url": "https://www.gii.co.jp/report/smrc1916743-advanced-lattice-structured-materials-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "新規参入業者の脅威",
+    "url": "https://www.gii.co.jp/report/smrc1916743-advanced-lattice-structured-materials-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートでは3Dプリンタの普及に向けた材料の開発トレンドや需要動向、普及に向けた課題、参入企業の事業戦略を分析するとともに、2028年までの市場成長性を予測する",
+    "url": "https://www.yano.co.jp/market_reports/C66112800?srsltid=AYCX9vIcVZqlbucKUdaNlEAXJTUAjx7ckv5gpmZ2jYp7xj966AI0NLbF",
+    "pass": 3
+   },
+   {
+    "quote": "：3Dプリンタの普及に向けた材料の開発トレンドや需要動向、普及に向けた課題、参入企業の事業戦略を分析するとともに、2028年までの市場成長性を予測することを目的とする",
+    "url": "https://www.yano.co.jp/market_reports/C66112800?srsltid=AYCX9vIcVZqlbucKUdaNlEAXJTUAjx7ckv5gpmZ2jYp7xj966AI0NLbF",
+    "pass": 3
+   },
+   {
+    "quote": "（表）液槽光重合法向け材料市場の主な参入メーカー",
+    "url": "https://www.yano.co.jp/market_reports/C66112800?srsltid=AYCX9vIcVZqlbucKUdaNlEAXJTUAjx7ckv5gpmZ2jYp7xj966AI0NLbF",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape and business models:",
+    "url": "https://www.idtechex.com/ja/research-report/3d-printing-and-additive-manufacturing/1182",
+    "pass": 3
+   },
+   {
+    "quote": "Leading players across additive manufacturing technologies in 2025, illustrating the market share of major 3D printing technologies and selected representative manufacturers. Source: IDTechEx.",
+    "url": "https://www.idtechex.com/ja/research-report/3d-printing-and-additive-manufacturing/1182",
+    "pass": 3
+   },
+   {
+    "quote": "Leading players across additive manufacturing technologies (2025)",
+    "url": "https://www.idtechex.com/ja/research-report/3d-printing-and-additive-manufacturing/1182",
+    "pass": 3
+   },
+   {
+    "quote": "Thermoplastic extrusion: Key players",
+    "url": "https://www.idtechex.com/ja/research-report/3d-printing-and-additive-manufacturing/1182",
+    "pass": 3
+   },
+   {
+    "quote": "SLA/DLP: Key players",
+    "url": "https://www.idtechex.com/ja/research-report/3d-printing-and-additive-manufacturing/1182",
+    "pass": 3
+   },
+   {
+    "quote": "Material jetting: Key players",
+    "url": "https://www.idtechex.com/ja/research-report/3d-printing-and-additive-manufacturing/1182",
+    "pass": 3
+   },
+   {
+    "quote": "Binder Jetting: Key players",
+    "url": "https://www.idtechex.com/ja/research-report/3d-printing-and-additive-manufacturing/1182",
+    "pass": 3
+   },
+   {
+    "quote": "SLS: Key players",
+    "url": "https://www.idtechex.com/ja/research-report/3d-printing-and-additive-manufacturing/1182",
+    "pass": 3
+   },
+   {
+    "quote": "DLMS: Key players",
+    "url": "https://www.idtechex.com/ja/research-report/3d-printing-and-additive-manufacturing/1182",
+    "pass": 3
+   },
+   {
+    "quote": "EBM: Key players",
+    "url": "https://www.idtechex.com/ja/research-report/3d-printing-and-additive-manufacturing/1182",
+    "pass": 3
+   },
+   {
+    "quote": "Blown powder: Key players",
+    "url": "https://www.idtechex.com/ja/research-report/3d-printing-and-additive-manufacturing/1182",
+    "pass": 3
+   },
+   {
+    "quote": "Welding: Key players",
+    "url": "https://www.idtechex.com/ja/research-report/3d-printing-and-additive-manufacturing/1182",
+    "pass": 3
+   },
+   {
+    "quote": "IDTechEx has served over 35,000 customers globally. These range from large corporations to ambitious start-ups, and from Governments to research centers. Our customers use our work to make informed decisions and save time and resources.",
+    "url": "https://www.idtechex.com/ja/research-report/3d-printing-and-additive-manufacturing/1182",
+    "pass": 3
+   },
+   {
+    "quote": "が高額であることが参入障壁を高める要因のひとつ",
+    "url": "https://www.jstage.jst.go.jp/article/seisankanri/28/2/28_17/_pdf/-char/en",
+    "pass": 3
+   },
+   {
+    "quote": "の参入経緯は様々であるが，既存事業で培った技術",
+    "url": "https://www.jstage.jst.go.jp/article/seisankanri/28/2/28_17/_pdf/-char/en",
+    "pass": 3
+   },
+   {
+    "quote": "AM への参入時期 2017. 10 2013. 4 2001 2017 2013. 9",
+    "url": "https://www.jstage.jst.go.jp/article/seisankanri/28/2/28_17/_pdf/-char/en",
+    "pass": 3
+   },
+   {
+    "quote": "参入の背景 鋳造と総合商社 CAD システム 熱処理 機械設計 鋼材商社",
+    "url": "https://www.jstage.jst.go.jp/article/seisankanri/28/2/28_17/_pdf/-char/en",
+    "pass": 3
+   },
+   {
+    "quote": "規模， 積層造形分野への参入経緯は異なるが，20 年",
+    "url": "https://www.jstage.jst.go.jp/article/seisankanri/28/2/28_17/_pdf/-char/en",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key companies in the additive manufacturing industry include 3D Systems, Inc., 3DCeram, HP Inc., Autodesk, Inc., and Canon, Inc., among others. These companies focus on product innovation, R&D, and strategic initiatives such as new product launches, business expansions, partnerships, collaborations, and mergers and acquisitions.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study on the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the additive manufacturing market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some key players operating in the additive manufacturing market include 3D Systems, Inc., 3DCeram, HP Inc., Autodesk, Inc., Canon, Inc., Dassault Systèmes, EnvisionTec, Inc., EOS (Electro Optical Systems) GmbH, ExOne, and GE Additive.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Healthcare Additive Manufacturing Market Size, Key Companies, Company Market Share, Patient Volume, Treatment Adoption Rates, Pricing Analysis, Regulatory Landscape, Competitive Positioning, and Demand Forecast",
+    "url": "https://www.precedenceresearch.com/healthcare-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.precedenceresearch.com/healthcare-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players:",
+    "url": "https://www.precedenceresearch.com/healthcare-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 2: Who are the major players in the healthcare additive manufacturing market?",
+    "url": "https://www.precedenceresearch.com/healthcare-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Insights",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Which are the major players operating in the global metal additive manufacturing market?",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "GE Additive, 3D Systems, Desktop Metal, EOS GmbH, Renishaw, SLM Solutions, Stratasys, Markforged, Velo3D, DMG Mori, HP Inc., TRUMPF, ExOne (a Desktop Metal company), Materialise, Formlabs, Norsk Titanium, Optomec, Prima Additive, XJet, and VulcanForms are the major players.",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "India’s National Strategy for Additive Manufacturing set targets to capture 5% of the global additive manufacturing market and contribute nearly USD 1 billion to GDP. The strategy also targets 50 India-specific technologies, 100 new start-ups, 500 new products, and 100,000 skilled workers, supporting domestic technology development and wider industrial adoption.",
+    "url": "https://straitsresearch.com/report/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://straitsresearch.com/report/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, Environment & Regulatory Landscape and Trends",
+    "url": "https://straitsresearch.com/report/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "COMPETITIVE LANDSCAPE",
+    "url": "https://www.24chemicalresearch.com/reports/315068/lattice-structures-market",
+    "pass": 3
+   },
+   {
+    "quote": "List of Key Lattice Structures Companies Profiled",
+    "url": "https://www.24chemicalresearch.com/reports/315068/lattice-structures-market",
+    "pass": 3
+   },
+   {
+    "quote": "It further examines the competitive landscape, highlighting the major vendors and identifying the critical factors expected to challenge market growth.",
+    "url": "https://www.24chemicalresearch.com/reports/315068/lattice-structures-market",
+    "pass": 3
+   },
+   {
+    "quote": "Which key companies operate in Lattice Structures Market?",
+    "url": "https://www.24chemicalresearch.com/reports/315068/lattice-structures-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players include Axalta Coating Systems, AkzoNobel, BASF SE, PPG, Sherwin'Williams, and 3M, among others.",
+    "url": "https://www.24chemicalresearch.com/reports/315068/lattice-structures-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Sales and Market Share",
+    "url": "https://www.24chemicalresearch.com/reports/315068/lattice-structures-market",
+    "pass": 3
+   },
+   {
+    "quote": "Announced and under-construction capacity, expected start-up dates, closures and rationalisation",
+    "url": "https://www.24chemicalresearch.com/reports/315068/lattice-structures-market",
+    "pass": 3
+   },
+   {
+    "quote": "and capacity start-up timing — are varied. The published figures reflect the base",
+    "url": "https://www.24chemicalresearch.com/reports/315068/lattice-structures-market",
+    "pass": 3
+   }
+  ],
+  "日本企業": [
+   {
+    "quote": "4位 日本 - 5億2900万米ドル",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "ANSYS, Inc. (米国)、Höganäs AB (スウェーデン)、EOS (ドイツ)、Stratasys (米国)、Renishaw plc. (英国)、ヤマザキマザック株式会社 (日本)、Materialise (ベルギー)、Markforged (米国)、Titomic Limited (オーストラリア)、SLM Solutions (ドイツ)、Proto Labs (米国)、ENVISIONTEC US LLC (米国)、Ultimaker BV (オランダ)、American Additive Manufacturing LLC (米国)、Optomec, Inc. (米国)、3D Systems Inc. (米国)、ExOne (米国)",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "米国、中国、ドイツ、日本、英国",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "(日本、中国、インド、インドネシア、マレーシア、オーストラリア、韓国、その他のアジア太平洋地域)",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "日本、中国、インドなどの主要国は、民生用電子機器、自動車、医療部品にAMを活用しており、一方で地域的なデジタル化はAMをより身近なものにしています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月、島津製作所は、大学や産業界のパートナーと共同で統合型金属積層造形システムを開発するための5年間の研究開発プログラムに、日本のNEDOに選定されたと発表しました",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "Japan (+81)",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "Japan オフィス",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "特にポリマー領域でのプリンターファーム志向は、日本の製造業にとっても現実的な選択肢となり得る",
+    "url": "https://news.sharelab.jp/cases/other-fields/am-market-growth-135-percent-ampower-260407/",
+    "pass": 3
+   },
+   {
+    "quote": "「日本の製造業革新に不可欠な金属積層造形技術の未来」レポート公開 ― みずほ銀行",
+    "url": "https://news.sharelab.jp/cases/other-fields/am-market-growth-135-percent-ampower-260407/",
+    "pass": 3
+   },
+   {
+    "quote": "TCT Japan 2025主催者に聞く！3Dプリンター展示会来場のポイントとは？",
+    "url": "https://news.sharelab.jp/cases/other-fields/am-market-growth-135-percent-ampower-260407/",
+    "pass": 3
+   },
+   {
+    "quote": "ShareLabは日本の業務用3Dプリンタ―およびAM（アディティブ・マニュファクチャリング）に関するあらゆる情報が集まるポータルサイトです",
+    "url": "https://news.sharelab.jp/cases/other-fields/am-market-growth-135-percent-ampower-260407/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/cases/other-fields/am-market-growth-135-percent-ampower-260407/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Additive Manufacturing Meet-up (JAMM) #12 参加申込フォーム",
+    "url": "https://news.sharelab.jp/cases/other-fields/am-market-growth-135-percent-ampower-260407/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Additive Manufacturing Meet-up (JAMM) #13 参加申込フォーム",
+    "url": "https://news.sharelab.jp/cases/other-fields/am-market-growth-135-percent-ampower-260407/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Additive Manufacturing Meet-up (JAMM) #14 参加申込フォーム",
+    "url": "https://news.sharelab.jp/cases/other-fields/am-market-growth-135-percent-ampower-260407/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の3Dプリンティング金属市場は、日本政府が2040年までに世界の金属積層造形市場における日本のシェアを10%未満から20%に引き上げるという目標を掲げていること、また、同じ期間に機械部品および工具産業における航空宇宙などの高付加価値分野のシェアを30%から50%に引き上げるという目標を掲げていることから恩恵を受ける可能性があります",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国で拡大する産業用およびデスクトップ型プラットフォームのエコシステム、日本の精密製造基盤、インドで進展する生産能力、政府支援による先端製造への投資が、地域の成長を支えている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "「日本の製造業革新に不可欠な金属積層造形技術の未来」レポート公開 ― みずほ銀行",
+    "url": "https://news.sharelab.jp/market-trends/",
+    "pass": 3
+   },
+   {
+    "quote": "EMO Hannover 2019で欧州へPRする日本の積層造形関連企業",
+    "url": "https://news.sharelab.jp/market-trends/",
+    "pass": 3
+   },
+   {
+    "quote": "日本からも三…",
+    "url": "https://news.sharelab.jp/market-trends/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の工作機械市場",
+    "url": "https://news.sharelab.jp/market-trends/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の工作機械の市場規模は日本工作機械工業会が統計を取っている",
+    "url": "https://news.sharelab.jp/market-trends/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年の日本の工作機械の市場規模…",
+    "url": "https://news.sharelab.jp/market-trends/",
+    "pass": 3
+   },
+   {
+    "quote": "2017年の国内3Dプリンター市場規模（IDC Japanのレポートより）",
+    "url": "https://news.sharelab.jp/market-trends/",
+    "pass": 3
+   },
+   {
+    "quote": "TCT Japan 2025主催者に聞く！3Dプリンター展示会来場のポイントとは？",
+    "url": "https://news.sharelab.jp/market-trends/",
+    "pass": 3
+   },
+   {
+    "quote": "ShareLabは日本の業務用3Dプリンタ―およびAM（アディティブ・マニュファクチャリング）に関するあらゆる情報が集まるポータルサイトです",
+    "url": "https://news.sharelab.jp/market-trends/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/market-trends/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Additive Manufacturing Meet-up (JAMM) #12 参加申込フォーム",
+    "url": "https://news.sharelab.jp/market-trends/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Additive Manufacturing Meet-up (JAMM) #13 参加申込フォーム",
+    "url": "https://news.sharelab.jp/market-trends/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Additive Manufacturing Meet-up (JAMM) #14 参加申込フォーム",
+    "url": "https://news.sharelab.jp/market-trends/",
+    "pass": 3
+   },
+   {
+    "quote": "中国、日本、韓国などの国々は、航空宇宙、自動車、電子機器製造にラティス材料を統合しています",
+    "url": "https://www.gii.co.jp/report/smrc1916743-advanced-lattice-structured-materials-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本での3Dプリンタの普及を加速させる",
+    "url": "https://www.yano.co.jp/market_reports/C66112800?srsltid=AYCX9vIcVZqlbucKUdaNlEAXJTUAjx7ckv5gpmZ2jYp7xj966AI0NLbF",
+    "pass": 3
+   },
+   {
+    "quote": "（表）日本で3Dプリンタの活用が広がらない要因",
+    "url": "https://www.yano.co.jp/market_reports/C66112800?srsltid=AYCX9vIcVZqlbucKUdaNlEAXJTUAjx7ckv5gpmZ2jYp7xj966AI0NLbF",
+    "pass": 3
+   },
+   {
+    "quote": "日本では金型向けの需要が本格化",
+    "url": "https://www.yano.co.jp/market_reports/C66112800?srsltid=AYCX9vIcVZqlbucKUdaNlEAXJTUAjx7ckv5gpmZ2jYp7xj966AI0NLbF",
+    "pass": 3
+   },
+   {
+    "quote": "東レ株式会社",
+    "url": "https://www.yano.co.jp/market_reports/C66112800?srsltid=AYCX9vIcVZqlbucKUdaNlEAXJTUAjx7ckv5gpmZ2jYp7xj966AI0NLbF",
+    "pass": 3
+   },
+   {
+    "quote": "大同特殊鋼株式会社",
+    "url": "https://www.yano.co.jp/market_reports/C66112800?srsltid=AYCX9vIcVZqlbucKUdaNlEAXJTUAjx7ckv5gpmZ2jYp7xj966AI0NLbF",
+    "pass": 3
+   },
+   {
+    "quote": "日本ではFe系粉末の需要が産業用部品向けに本格化",
+    "url": "https://www.yano.co.jp/market_reports/C66112800?srsltid=AYCX9vIcVZqlbucKUdaNlEAXJTUAjx7ckv5gpmZ2jYp7xj966AI0NLbF",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社大阪チタニウムテクノロジーズ",
+    "url": "https://www.yano.co.jp/market_reports/C66112800?srsltid=AYCX9vIcVZqlbucKUdaNlEAXJTUAjx7ckv5gpmZ2jYp7xj966AI0NLbF",
+    "pass": 3
+   },
+   {
+    "quote": "アイディーテックエックス株式会社 (IDTechEx日本法人)",
+    "url": "https://www.idtechex.com/ja/research-report/3d-printing-and-additive-manufacturing/1182",
+    "pass": 3
+   },
+   {
+    "quote": "IDTechEx was established in 1999, and is headquartered in Cambridge, UK. Since then, the company has significantly expanded and operates globally, having served customers in over 80 countries. Subsidiary companies are based in the USA, Germany and Japan.",
+    "url": "https://www.idtechex.com/ja/research-report/3d-printing-and-additive-manufacturing/1182",
+    "pass": 3
+   },
+   {
+    "quote": "ラティス構造 | 日本積層造形株式会社",
+    "url": "https://jampt.jp/case/amlist/am-2272/",
+    "pass": 3
+   },
+   {
+    "quote": "日本積層造形株式会社／JAMPT（ジャンプ）",
+    "url": "https://jampt.jp/case/amlist/am-2272/",
+    "pass": 3
+   },
+   {
+    "quote": "日本積層造形株式会社",
+    "url": "https://news.sharelab.jp/cases/aerospace/jampt-slim-250703/",
+    "pass": 3
+   },
+   {
+    "quote": "（宮城県多賀城市、以下、JAMPT）が、金属3Dプリンターを用いて製作したアルミニウム製の「衝撃吸収材」が、日本国際博覧会（大阪・関西万博）において展示されている",
+    "url": "https://news.sharelab.jp/cases/aerospace/jampt-slim-250703/",
+    "pass": 3
+   },
+   {
+    "quote": "月面着陸を支えた日本製3D造形部品、万博で184日間の常設展示",
+    "url": "https://news.sharelab.jp/cases/aerospace/jampt-slim-250703/",
+    "pass": 3
+   },
+   {
+    "quote": "“壊れることで守る”日本の技術思想 SLIMの衝撃吸収材が万博で紹介",
+    "url": "https://news.sharelab.jp/cases/aerospace/jampt-slim-250703/",
+    "pass": 3
+   },
+   {
+    "quote": "JAMPTの宇宙部品と流れ橋が語る日本の循環型ものづくり",
+    "url": "https://news.sharelab.jp/cases/aerospace/jampt-slim-250703/",
+    "pass": 3
+   },
+   {
+    "quote": "この衝撃吸収材は、日本政府が主導する「日本館」の中の「ファクトリーエリア」に常設展示されており、万博の開催期間である2025年4月13日から10月13日までの全184日間を通じて来場者に公開される",
+    "url": "https://news.sharelab.jp/cases/aerospace/jampt-slim-250703/",
+    "pass": 3
+   },
+   {
+    "quote": "展示を通じて、JAMPTが金属積層造形分野において蓄積してきた技術力や、日本企業が持つ宇宙産業への応用可能性が紹介されている",
+    "url": "https://news.sharelab.jp/cases/aerospace/jampt-slim-250703/",
+    "pass": 3
+   },
+   {
+    "quote": "小型月着陸実証機「SLIM」は、国立研究開発法人宇宙航空研究開発機構（以下、JAXA）によって開発され、2025年1月20日、日本初となる月面への軟着陸を達成した",
+    "url": "https://news.sharelab.jp/cases/aerospace/jampt-slim-250703/",
+    "pass": 3
+   },
+   {
+    "quote": "このような先端技術の成果は、2025年の大阪・関西万博における日本政府館「ファクトリーエリア」にて紹介されている",
+    "url": "https://news.sharelab.jp/cases/aerospace/jampt-slim-250703/",
+    "pass": 3
+   },
+   {
+    "quote": "同エリアでは、日本の伝統的な「ものづくり」思想として、部分的な破壊を受け入れる柔構造の考え方や、資源・素材の循環的利用がどのように技術へと昇華されてきたかを紹介する展示が行われている",
+    "url": "https://news.sharelab.jp/cases/aerospace/jampt-slim-250703/",
+    "pass": 3
+   },
+   {
+    "quote": "この橋は、増水時に橋桁が流されることで構造全体を守る仕組みを有し、日本の“柔らかくしなやかな設計思想”を体現している",
+    "url": "https://news.sharelab.jp/cases/aerospace/jampt-slim-250703/",
+    "pass": 3
+   },
+   {
+    "quote": "本展示を通じて、JAMPTの3Dプリンティング技術が宇宙開発において果たした役割と、日本の循環型ものづくりの精神が、未来志向の技術革新とどのように結びついているのかが体感できる構成となっている",
+    "url": "https://news.sharelab.jp/cases/aerospace/jampt-slim-250703/",
+    "pass": 3
+   },
+   {
+    "quote": "大阪・関西万博の日本館では、同部品が“意図的に壊れることで守る”という柔構造思想の現代的応用例として展示され、伝統的な日本のものづくり精神と最先端技術の融合が紹介されている",
+    "url": "https://news.sharelab.jp/cases/aerospace/jampt-slim-250703/",
+    "pass": 3
+   },
+   {
+    "quote": "小型月着陸実証機SLIMが「第54回 日本産業技術大賞 文部科学大臣賞」を受賞 ― JAMPT",
+    "url": "https://news.sharelab.jp/cases/aerospace/jampt-slim-250703/",
+    "pass": 3
+   },
+   {
+    "quote": "日本積層造形が3Dプリントの国際規格「AM製造サイト認証」を取得",
+    "url": "https://news.sharelab.jp/cases/aerospace/jampt-slim-250703/",
+    "pass": 3
+   },
+   {
+    "quote": "Current Status of Metal Additive Manufacturing Business in Japan",
+    "url": "https://www.jstage.jst.go.jp/article/seisankanri/28/2/28_17/_pdf/-char/en",
+    "pass": 3
+   },
+   {
+    "quote": "Also, in Japan, mass production parts manufacturing has begun, and the number of service bureaus",
+    "url": "https://www.jstage.jst.go.jp/article/seisankanri/28/2/28_17/_pdf/-char/en",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "積層造形市場の規模とシェア、プリンタータイプ別（デスクトッププリンター、産業用プリンター）、材質別、業界別、テクノロジー別、ソフトウェア別、アプリケーション別、サービス別 - グローバル需給分析、成長予測、統計レポート 2026-2035",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "2035年までに44.3％のシェアを獲得",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "北米の付加製造市場は、強力な研究開発能力と潤沢な連邦政府資金に支えられ、2035年までに44.3%のシェアを確保すると予測されています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "2035年までに、連続生産に適した信頼性の高い大型システムへの需要の高まりにより、積層造形市場における産業用プリンターセグメントは、全体シェアの68.5%を占めると予想されています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "高度な製造業における機能的で高性能な部品の採用が増えているため、材料セグメント内の金属サブタイプは 2035 年までにかなりのシェアを占めると予想されています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "北米（2035年までに44.3%のシェア）",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間の終わりまでに、産業用プリンターセグメントは、積層造形市場で68.5％という最大のシェアを獲得すると予想されています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "材料セグメントでは、金属サ​​ブタイプが2035年末までに高いシェア価値で市場をリードすると予想されています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "北米市場は、議論された任期を通じて44.3％という最高のシェアを維持すると予測されています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "2035 年までに、どのエンドユーザー セグメントが積層造形市場で大きな市場シェアを獲得するでしょうか?",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "プリンターの種類別に見ると、産業用プリンターセグメントは2035年までに68.5%という最大の市場シェアを獲得し、2026年から2035年にかけて大きな成長機会を示すことが予想されています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "北米市場は、2035年末までに44.3%の最大の市場シェアを占めると予測されており、将来的にはさらに多くのビジネスチャンスが生まれると予想されています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティング金属市場の規模、シェア、成長率、予測（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティング金属市場の規模、シェア、トレンド分析レポート：タイプ別（鋼、チタン、アルミニウム、ニッケル）、技術別（指向性エネルギー堆積、バインダージェッティング、粉末床溶融、金属押出、その他（デジタルライトプロジェクター、マルチジェットフュージョン、マテリアルジェッティング））、形態別（粉末、フィラメント）、用途別（消費財、航空宇宙・防衛、自動車・輸送、ヘルスケア、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年に38.5%の市場シェアを占め、3Dプリンティング金属市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米市場シェア（2025年）",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場シェア",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼分野は、その高い強度、耐久性、そして産業、自動車、航空宇宙分野における幅広い用途により、2025年には市場シェアの34.2%を占めると予測されています",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "粉末床溶融法は、その高い精度、効率的な材料利用、そして複雑な形状の金属部品を製造できる能力により、2025年には市場シェアの43.8%を占めると予測されています",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "粉末材料セグメントは2025年に86.7%のシェアを占め、高い材料精度、効率的な堆積、複雑な金属部品の製造への適性といった利点に支えられ、2026年から2034年の予測期間中に年平均成長率（CAGR）24.9%で成長すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙・防衛分野の融合技術は、航空機や防衛システムにおける軽量・高強度・複雑な部品の製造に金属3Dプリンティングが広く利用されるようになったことにより、2025年には市場シェアの38.6%を占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の3Dプリンティング金属市場は、2025年には地域別で最大のシェアとなる38.5%を占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の3Dプリンティング金属市場は、日本政府が2040年までに世界の金属積層造形市場における日本のシェアを10%未満から20%に引き上げるという目標を掲げていること、また、同じ期間に機械部品および工具産業における航空宇宙などの高付加価値分野のシェアを30%から50%に引き上げるという目標を掲げていることから恩恵を受ける可能性があります",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年時点で、欧州の3Dプリンティング金属市場は地域シェアの28.4%を占めています",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティング金属市場の主要企業には、EOS GmbH、3D Systems Corporation、Renishaw plc、Stratasys Ltd.、およびNikon SLM Solutions AGがあり、これら4社で市場全体の約25～28%を占めている",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の3Dプリンティング金属市場において、最大のシェアを占める地域はどこだったでしょうか？",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年時点で38.5%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形装置市場の規模とシェア、2026〜2035年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形装置市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Stratasysは2025年に9%超の市場シェアを獲得し、市場をリードした",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "で、2025年の市場シェアは合計",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "LPBF、SLS、MJF、EBMを含む粉末床溶融結合は、2025年に29.3億米ドルを生み出し、2035年には市場の38.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "材料押出は2025年に市場の27.0%を占め、2026〜2035年に年平均成長率（CAGR）9.6%で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "バインダージェッティングの2025年の市場規模は6億米ドルで、2035年には市場シェアが9.0%に達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "DEDやWAAMを含む指向性エネルギー堆積方式は、2025年に市場の6.1%を占め、2026〜2035年には年平均成長率（CAGR）13.1%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "ポリマー・プラスチック対応装置の2025年の市場規模は37億米ドルで、2035年には市場の33.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "材料適合性別の積層造形装置市場シェア（2025年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "金属対応装置は2025年に市場の38.1%を占め、2035年には市場規模が133.7億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "セラミックス対応装置は、2035年までに市場の5.0%を占め、2026〜2035年には年平均成長率（CAGR）13.1%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "産業用システムの2025年の市場規模は48.2億米ドルで、2035年には市場の50.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "プロフェッショナル向けおよびベンチトップ型システムは、2025年に市場の28.0%を占め、2026〜2035年には年平均成長率（CAGR）14.0%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター・AM（アディティブ・マニュファクチャリング）市場の最新トレンド、将来予測、投資動向をシェアラボ編集部が定期的にまとめています",
+    "url": "https://news.sharelab.jp/market-trends/",
+    "pass": 3
+   },
+   {
+    "quote": "概要 シェアラボ編集部では、NASDAQに上場している3Dプリンター関連企業の業績を集計している",
+    "url": "https://news.sharelab.jp/market-trends/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年版 パチンコ関連メーカーの動向とマーケットシェア",
+    "url": "https://www.yano.co.jp/market_reports/C66112800?srsltid=AYCX9vIcVZqlbucKUdaNlEAXJTUAjx7ckv5gpmZ2jYp7xj966AI0NLbF",
+    "pass": 3
+   },
+   {
+    "quote": "C66111200 2024年版 パチンコ関連メーカーの動向とマーケットシェア",
+    "url": "https://www.yano.co.jp/market_reports/C66112800?srsltid=AYCX9vIcVZqlbucKUdaNlEAXJTUAjx7ckv5gpmZ2jYp7xj966AI0NLbF",
+    "pass": 3
+   },
+   {
+    "quote": "Leading players across additive manufacturing technologies in 2025, illustrating the market share of major 3D printing technologies and selected representative manufacturers. Source: IDTechEx.",
+    "url": "https://www.idtechex.com/ja/research-report/3d-printing-and-additive-manufacturing/1182",
+    "pass": 3
+   },
+   {
+    "quote": "Printer market share by geography in 2025, comparing revenue by manufacturer headquarters with revenue by consumption across AMER, EMEA and APAC, and highlighting regional imbalances between production and demand. Source: IDTechEx.",
+    "url": "https://www.idtechex.com/ja/research-report/3d-printing-and-additive-manufacturing/1182",
+    "pass": 3
+   },
+   {
+    "quote": "Printers vs materials market share (2025)",
+    "url": "https://www.idtechex.com/ja/research-report/3d-printing-and-additive-manufacturing/1182",
+    "pass": 3
+   },
+   {
+    "quote": "Printers market share by organization (2025)",
+    "url": "https://www.idtechex.com/ja/research-report/3d-printing-and-additive-manufacturing/1182",
+    "pass": 3
+   },
+   {
+    "quote": "Printers market share by technology (2025)",
+    "url": "https://www.idtechex.com/ja/research-report/3d-printing-and-additive-manufacturing/1182",
+    "pass": 3
+   },
+   {
+    "quote": "Printers Market Share by End-Users (2025)",
+    "url": "https://www.idtechex.com/ja/research-report/3d-printing-and-additive-manufacturing/1182",
+    "pass": 3
+   },
+   {
+    "quote": "Printer Market Share by Geography (2025)",
+    "url": "https://www.idtechex.com/ja/research-report/3d-printing-and-additive-manufacturing/1182",
+    "pass": 3
+   },
+   {
+    "quote": "Printers market share by end-users (2025)",
+    "url": "https://www.idtechex.com/ja/research-report/3d-printing-and-additive-manufacturing/1182",
+    "pass": 3
+   },
+   {
+    "quote": "Printer market share by geography (2025)",
+    "url": "https://www.idtechex.com/ja/research-report/3d-printing-and-additive-manufacturing/1182",
+    "pass": 3
+   },
+   {
+    "quote": "Thermoplastic extrusion: Home and small business market share (2025)",
+    "url": "https://www.idtechex.com/ja/research-report/3d-printing-and-additive-manufacturing/1182",
+    "pass": 3
+   },
+   {
+    "quote": "Thermoplastic powder: MJF vs SLS market share (2025)",
+    "url": "https://www.idtechex.com/ja/research-report/3d-printing-and-additive-manufacturing/1182",
+    "pass": 3
+   },
+   {
+    "quote": "図 1 2001-2017 年金属AM 特許出願国別シェア",
+    "url": "https://www.jstage.jst.go.jp/article/seisankanri/28/2/28_17/_pdf/-char/en",
+    "pass": 3
+   },
+   {
+    "quote": "Size, Share & Trends Analysis Report By Component (Hardware, Software, Services), By Printer Type (Desktop 3D, Industrial 3D), By Technology, By Software, By Application, By Vertical, By Material, By Region, And Segment Forecasts",
+    "url": "https://www.grandviewresearch.com/industry-analysis/additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global additive manufacturing market size was valued at USD 30.6 billion in 2025 and is projected to grow from USD 37.6 billion in 2026 to USD 168.9 billion by 2033, at a CAGR of 23.9% from 2026 to 2033. The market in North America dominated with a revenue share of 32.8% in 2025. The market growth is driven by the rapid adoption of industrial 3D printing, digital manufacturing, and",
+    "url": "https://www.grandviewresearch.com/industry-analysis/additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "By component: The hardware segment dominated the market in 2025 and accounted for the largest share of 62.6%.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/additive-manufacturing-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "AM市場 は今後5年で 年平均 13.5％ 成長 へ、210億ユーロ 規模 に ... — AM市場 は今後5年で 年平均 13.5％ 成長 へ、210億ユーロ 規模 に ... ShareLab NEWS https://news.sharelab.jp > 事例 > その他業界事例",
+    "url": "https://news.sharelab.jp/cases/other-fields/am-market-growth-135-percent-ampower-260407/",
+    "pass": 3
+   },
+   {
+    "quote": "AM市場 動向・業界レポートまとめ | 業務用3Dプリンターの ... — AM市場 動向・業界レポートまとめ | 業務用3Dプリンターの ... ShareLab NEWS https://news.sharelab.jp > market-trends",
+    "url": "https://news.sharelab.jp/market-trends/",
+    "pass": 3
+   },
+   {
+    "quote": "先進 ラティス構造材料市場 | 市場 規模 業界分析 予測 2032年 ... — 先進 ラティス構造材料市場 | 市場 規模 業界分析 予測 2032年 ... グローバルインフォメーション https://www.gii.co.jp > ... > マテリアル/化学品",
+    "url": "https://www.gii.co.jp/report/smrc1916743-advanced-lattice-structured-materials-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "ラティス構造 | 金属3Dプリンターの AM 技術による受託造形 ... — ラティス構造 | 金属3Dプリンターの AM 技術による受託造形 ... 日本積層造形株式会社 https://jampt.jp > 造形事例一覧 > ラティス",
+    "url": "https://jampt.jp/case/amlist/am-2272/",
+    "pass": 3
+   },
+   {
+    "quote": "ラティス構造 ③ラティス造形を可能とする金属3Dプリンター — ラティス構造 ③ラティス造形を可能とする金属3Dプリンター 3dpro.jp https://www.3dpro.jp > ... > 金属3Dプリンタの方式",
+    "url": "https://www.3dpro.jp/column/metal_3d_printer_method/lattice03",
+    "pass": 3
+   },
+   {
+    "quote": "JAMPT製3Dプリンター部品、SLIM搭載「衝撃吸収材」が大阪 ... — JAMPT製3Dプリンター部品、SLIM搭載「衝撃吸収材」が大阪 ... ShareLab NEWS https://news.sharelab.jp > 事例 > 航空宇宙業界事例",
+    "url": "https://news.sharelab.jp/cases/aerospace/jampt-slim-250703/",
+    "pass": 3
+   },
+   {
+    "quote": "【展示会】9/25～26「Formnext Asia Tokyo Forum 2025 ... — 【展示会】9/25～26「Formnext Asia Tokyo Forum 2025 ... 日本AM協会 https://jsam.or.jp > セミナー・イベント",
+    "url": "https://jsam.or.jp/event/2025-10-06-5465/",
+    "pass": 3
+   },
+   {
+    "quote": "Lattice Structures Market Research Report 2026-2034 — Lattice Structures Market Research Report 2026-2034 24ChemicalResearch https://www.24chemicalresearch.com > ...",
+    "url": "https://www.24chemicalresearch.com/reports/315068/lattice-structures-market",
+    "pass": 3
+   },
+   {
+    "quote": "Lattice 3D Printing Software Now Driven by $1M in Pre-Seed ... — Lattice 3D Printing Software Now Driven by $1M in Pre-Seed ... 3DPrint.com https://3dprint.com > lattice-3d-printi...",
+    "url": "https://3dprint.com/285306/lattice-3d-printing-software-now-driven-by-1m-in-pre-seed-funding/",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "2019年3Dプリンター関連資金調達まとめ(随時更新）",
+    "url": "https://news.sharelab.jp/market-trends/",
+    "pass": 3
+   },
+   {
+    "quote": "In the IDTechEx forecasts, small businesses and home users will account for approximately 75% of printer revenues by 2037. The report examines the conditions underpinning this shift, including a broader customer base and investment in production capacity. This transformation requires suppliers to understand not only which machines will be purchased, but also by whom and for what requirements.",
+    "url": "https://www.idtechex.com/ja/research-report/3d-printing-and-additive-manufacturing/1182",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominated the additive manufacturing market and accounted for a share of 32.8% in 2025, driven by the strong presence of leading additive manufacturing companies, advanced R&D infrastructure, and early adoption of Industry 4.0 technologies. The region benefits from high investments in aerospace, defense, and healthcare sectors, which are key adopters of additive manufacturing.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Germany additive manufacturing market held a substantial market share in 2025. The market is driven by Germany’s leadership in precision engineering, industrial automation, and advanced manufacturing technologies. Strong adoption across automotive and aerospace sectors, combined with significant investments in Industry 4.0, smart factories, and metal additive manufacturing, is fueling growth.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "China’s national standard GB/T 47934-2026 for metal powder-bed fusion in critical applications is scheduled to take effect on February 1, 2027, supporting more consistent process quality and performance. During 2026–2030, China also plans to increase investment in research and development by at least 7% annually, while promoting new manufacturing technologies and applications.",
+    "url": "https://straitsresearch.com/report/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "3D Systems has announced investments in expanding its capabilities for additive manufacturing in aerospace and defense industries for large-scale production of 3D-printed parts for aircraft and defense systems.",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Lattice 3D Printing Software Now Driven by $1M in Pre-Seed Funding - 3DPrint.com | Additive Manufacturing Business",
+    "url": "https://3dprint.com/285306/lattice-3d-printing-software-now-driven-by-1m-in-pre-seed-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "285306/lattice-3d-printing-software-now-driven-by-1m-in-pre-seed-funding",
+    "url": "https://3dprint.com/285306/lattice-3d-printing-software-now-driven-by-1m-in-pre-seed-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Lattice 3D Printing Software Now Driven by $1M in Pre-Seed Funding",
+    "url": "https://3dprint.com/285306/lattice-3d-printing-software-now-driven-by-1m-in-pre-seed-funding/",
+    "pass": 3
+   },
+   {
+    "quote": ", a Chicago-based startup that develops software for designing optimal lattice structures that can be fabricated via 3D printing, has secured $1 million in pre-seed capital led by AP Ventures, the strategic investment arm of engineering service provider",
+    "url": "https://3dprint.com/285306/lattice-3d-printing-software-now-driven-by-1m-in-pre-seed-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "machines and then vapor smoothed on GoProto’s AMT PostPro 3D. Saving costs and making better products is the objective for General Lattice and what it’s working toward with its software; the $1 million pre-seed funding will undoubtedly help the company expand and engage in new partnerships with strategic players in the AM industry.",
+    "url": "https://3dprint.com/285306/lattice-3d-printing-software-now-driven-by-1m-in-pre-seed-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "3D printing funding",
+    "url": "https://3dprint.com/285306/lattice-3d-printing-software-now-driven-by-1m-in-pre-seed-funding/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "21.4",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "quote": "予測期間（2026年から2035年）中、年平均成長率（CAGR）は21.4%です"
+   },
+   {
+    "value": "18",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "quote": "世界の3Dプリンティング金属市場規模は、2025年には12億米ドルと評価され、2026年の14億2000万米ドルから2034年には53億2000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は18%となる見込みです"
+   },
+   {
+    "value": "26.4",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "quote": "アルミニウム分野は、軽量性、高い強度重量比、複雑な3Dプリント部品への適合性といった特性により、年平均成長率（CAGR）26.4%で成長すると予測されています"
+   },
+   {
+    "value": "27.2",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "quote": "バインダージェット方式は、高速生産、効率的な材料利用、複雑な金属部品を大規模に生産できる能力を背景に、年平均成長率（CAGR）27.2%で成長すると予測されています"
+   },
+   {
+    "value": "13.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "quote": "積層造形装置市場は2025年に86億米ドルと評価され、2026年には99億米ドルに拡大し、年平均成長率（CAGR）13.0%で成長して2035年までに297億米ドルに達すると予測される（2026〜2035年）"
+   },
+   {
+    "value": "9.6",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "quote": "材料押出は2025年に市場の27.0%を占め、2026〜2035年に年平均成長率（CAGR）9.6%で拡大すると予測される"
+   },
+   {
+    "value": "14.8",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "quote": "バット光重合方式は、2035年までに市場規模が59.4億米ドルに達し、2026〜2035年の年平均成長率（CAGR）は14.8%になると予測される"
+   },
+   {
+    "value": "13.1",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "quote": "DEDやWAAMを含む指向性エネルギー堆積方式は、2025年に市場の6.1%を占め、2026〜2035年には年平均成長率（CAGR）13.1%で成長すると予測される"
+   },
+   {
+    "value": "18.4",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "quote": "複合材料対応装置の2025年の市場規模は6.9億米ドルで、2026〜2035年には年平均成長率（CAGR）18.4%で成長すると予測される"
+   },
+   {
+    "value": "14.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "quote": "プロフェッショナル向けおよびベンチトップ型システムは、2025年に市場の28.0%を占め、2026〜2035年には年平均成長率（CAGR）14.0%で成長すると予測される"
+   },
+   {
+    "value": "26.6",
+    "url": "https://news.sharelab.jp/market-trends/",
+    "quote": "【業界別動向】航空宇宙業界3Dプリンター市場は年平均成長率26.6%の見通し"
+   },
+   {
+    "value": "6.3",
+    "url": "https://www.gii.co.jp/report/smrc1916743-advanced-lattice-structured-materials-market.html",
+    "quote": "Stratistics MRCの調査によると、世界の先進ラティス構造材料市場は2025年に736億米ドル規模となり、予測期間中にCAGR 6.3％で成長し、2032年までに1,129億米ドルに達すると見込まれています"
+   },
+   {
+    "value": "10",
+    "url": "https://www.yano.co.jp/market_reports/C66112800?srsltid=AYCX9vIcVZqlbucKUdaNlEAXJTUAjx7ckv5gpmZ2jYp7xj966AI0NLbF",
+    "quote": "2023～2028年のCAGRは重量、金額ともに10%を超える"
+   },
+   {
+    "value": "19.8",
+    "url": "https://www.idtechex.com/ja/research-report/3d-printing-and-additive-manufacturing/1182",
+    "quote": "The global market for 3D printers and associated materials is forecast to reach US$122.7 billion by 2037, representing a CAGR of 19.8% from US$20.1 billion in 2027."
+   },
+   {
+    "value": "23.9",
+    "url": "https://www.grandviewresearch.com/industry-analysis/additive-manufacturing-market",
+    "quote": "The global additive manufacturing market size was valued at USD 30.6 billion in 2025 and is projected to grow from USD 37.6 billion in 2026 to USD 168.9 billion by 2033, at a CAGR of 23.9% from 2026 to 2033. The market in North America dominated with a revenue share of 32.8% in 2025. The market grow"
+   },
+   {
+    "value": "19.97",
+    "url": "https://www.precedenceresearch.com/healthcare-additive-manufacturing-market",
+    "quote": "The global healthcare additive manufacturing market size was estimated at USD 13.33 billion in 2025 and is predicted to increase from USD 16.22 billion in 2026 to approximately USD 82.30 billion by 2035, expanding at a CAGR of 19.97% from 2025 to 2034. The healthcare additive manufacturing market is"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/cases/other-fields/am-market-growth-135-percent-ampower-260407/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/united-states-additive-manufacturing-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/market-trends/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/smrc1916743-advanced-lattice-structured-materials-market.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/3d-printing-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yano.co.jp/market_reports/C66112800?srsltid=AYCX9vIcVZqlbucKUdaNlEAXJTUAjx7ckv5gpmZ2jYp7xj966AI0NLbF",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idtechex.com/ja/research-report/3d-printing-and-additive-manufacturing/1182",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/case/amlist/am-2272/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dpro.jp/column/metal_3d_printer_method/lattice03",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2021FY/000098.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://news.sharelab.jp/cases/aerospace/jampt-slim-250703/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jstage.jst.go.jp/article/seisankanri/28/2/28_17/_pdf/-char/en",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/additive-manufacturing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/healthcare-additive-manufacturing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/global-additive-manufacturing-and-material-market-industry",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/industry-reports/metal-additive-manufacturing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/report/metal-additive-manufacturing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.24chemicalresearch.com/reports/315068/lattice-structures-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S2666496825000226",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.polarismarketresearch.com/industry-analysis/additive-manufacturing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.factmr.com/report/additive-manufacturing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11989511/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprint.com/285306/lattice-3d-printing-software-now-driven-by-1m-in-pre-seed-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/tetmets-low-energy-approach-to-metal-lattice-construction/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mdpi.com/2072-666x/16/12/1418",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://luxcreo.com/using-lattice-structures-in-additive-manufacturing-software-lc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dealroom.co/lists/additive-manufacturing-startups/",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ラティス構造材（AM） 市場規模 年平均成長率",
+   "results": [
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://news.sharelab.jp/cases/other-fields/am-market-growth-135-percent-ampower-260407/",
+    "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-equipment-market",
+    "https://www.mordorintelligence.com/ja/industry-reports/united-states-additive-manufacturing-market",
+    "https://www.coherentmarketinsights.com/ja/%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E5%B8%82%E5%A0%B4",
+    "https://www.marketreportsworld.com/jp/market-reports/additive-manufacturing-market-14719804",
+    "https://newscast.jp/smart/news/7258227",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%B8%82%E5%A0%B4-101902",
+    "https://www.gii.co.jp/report/smrc1916743-advanced-lattice-structured-materials-market.html"
+   ]
+  },
+  {
+   "query": "ラティス構造材（AM） 市場 予測 富士経済 OR 矢野経済 OR シーエムシー",
+   "results": [
+    "https://news.sharelab.jp/market-trends/",
+    "https://www.gii.co.jp/report/smrc1916743-advanced-lattice-structured-materials-market.html",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://www.mordorintelligence.com/ja/industry-reports/3d-printing-market",
+    "https://www.yano.co.jp/market_reports/C66112800?srsltid=AYCX9vIcVZqlbucKUdaNlEAXJTUAjx7ckv5gpmZ2jYp7xj966AI0NLbF",
+    "https://www.idtechex.com/ja/research-report/3d-printing-and-additive-manufacturing/1182",
+    "https://www.fortunebusinessinsights.com/jp/%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E5%B8%82%E5%A0%B4-115506",
+    "https://monoist.itmedia.co.jp/mn/articles/2001/27/news014.html",
+    "https://www.yanoict.com/opinion/show/id/413"
+   ]
+  },
+  {
+   "query": "ラティス構造材（AM） 参入 企業 国内",
+   "results": [
+    "https://jampt.jp/case/amlist/am-2272/",
+    "https://www.3dpro.jp/column/metal_3d_printer_method/lattice03",
+    "https://www.meti.go.jp/meti_lib/report/2021FY/000098.pdf",
+    "https://news.sharelab.jp/cases/aerospace/jampt-slim-250703/",
+    "https://www.jstage.jst.go.jp/article/seisankanri/28/2/28_17/_pdf/-char/en",
+    "https://jsam.or.jp/event/2025-10-06-5465/",
+    "https://www.iri-tokyo.jp/about/organization/headquarters/kikai/",
+    "https://www.pref.niigata.lg.jp/uploaded/attachment/345260.pdf",
+    "https://3dprint.or.jp/dfam25/",
+    "https://mono.ipros.com/cg1/構造材/"
+   ]
+  },
+  {
+   "query": "lattice structures additive manufacturing market size CAGR 2025",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/additive-manufacturing-market",
+    "https://www.precedenceresearch.com/healthcare-additive-manufacturing-market",
+    "https://www.mordorintelligence.com/industry-reports/global-additive-manufacturing-and-material-market-industry",
+    "https://www.coherentmarketinsights.com/industry-reports/metal-additive-manufacturing-market",
+    "https://straitsresearch.com/report/metal-additive-manufacturing-market",
+    "https://www.businessresearchinsights.com/market-reports/additive-manufacturing-market-119206",
+    "https://www.linkedin.com/pulse/united-states-additive-manufacturing-solutions-market-elm9e",
+    "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC11989511/",
+    "https://dataintelo.com/report/additive-manufactured-lattice-panels-market"
+   ]
+  },
+  {
+   "query": "lattice structures additive manufacturing market key players competitive landscape",
+   "results": [
+    "https://www.24chemicalresearch.com/reports/315068/lattice-structures-market",
+    "https://www.grandviewresearch.com/industry-analysis/additive-manufacturing-market",
+    "https://www.sciencedirect.com/science/article/pii/S2666496825000226",
+    "https://www.polarismarketresearch.com/industry-analysis/additive-manufacturing-market",
+    "https://www.factmr.com/report/additive-manufacturing-market",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC11989511/",
+    "https://www.mordorintelligence.com/industry-reports/global-additive-manufacturing-and-material-market-industry",
+    "https://3dpartsunlimited.com/blog-post/deep-dive-benefits-lattice-structures-3d-printing/",
+    "https://www.usdanalytics.com/industry-reports/metal-additive-manufacturing-market",
+    "https://www.datamarketanalysis.com/reports/additive-manufactured-lattice-panels-market"
+   ]
+  },
+  {
+   "query": "lattice structures additive manufacturing startup funding 2025",
+   "results": [
+    "https://3dprint.com/285306/lattice-3d-printing-software-now-driven-by-1m-in-pre-seed-funding/",
+    "https://www.voxelmatters.com/tetmets-low-energy-approach-to-metal-lattice-construction/",
+    "https://www.mdpi.com/2072-666x/16/12/1418",
+    "https://luxcreo.com/using-lattice-structures-in-additive-manufacturing-software-lc/",
+    "https://dealroom.co/lists/additive-manufacturing-startups/",
+    "https://www.additivemanufacturing.media/topics/startups",
+    "https://www.mattech-journal.org/articles/mattech/full_html/2024/02/mt20230146/mt20230146.html",
+    "https://www.eplus3d.com/the-advantage-of-additive-manufacturing-for-lattice-structure.html",
+    "https://www.instagram.com/reel/Deb4aSRginZ/",
+    "https://startupintros.com/orgs/general-lattice"
+   ]
+  }
+ ],
+ "missing": {}
+}

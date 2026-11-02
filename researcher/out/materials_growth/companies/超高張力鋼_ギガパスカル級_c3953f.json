@@ -1,0 +1,2011 @@
+{
+ "name": "超高張力鋼（ギガパスカル級）",
+ "en": "advanced high strength steel",
+ "aliases": [
+  "AHSS",
+  "giga steel",
+  "3rd generation AHSS",
+  "超ハイテン"
+ ],
+ "context": "自動車",
+ "kind": "market",
+ "researched_at": "2026-11-02T17:38:08.111513+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "超高張力鋼板市場規模（百万米ドル）2025-2032年",
+    "url": "https://www.atpress.ne.jp/news/5761278",
+    "pass": 3
+   },
+   {
+    "quote": "QYResearchの調査によると、世界の超高張力鋼板市場規模は2025年に30,390百万米ドルへ達し、2032年には44,760百万米ドルまで拡大すると予測されている",
+    "url": "https://www.atpress.ne.jp/news/5761278",
+    "pass": 3
+   },
+   {
+    "quote": "コンクリートパイプマシン市場規模220百万米ドル予測：世界の産業現状、競合分析、成長動向2026",
+    "url": "https://www.atpress.ne.jp/news/5761278",
+    "pass": 3
+   },
+   {
+    "quote": "無水乳脂肪の世界市場規模：年平均成長率9.8%予測、最新トレンドと需要変化2026-2032",
+    "url": "https://www.atpress.ne.jp/news/5761278",
+    "pass": 3
+   },
+   {
+    "quote": "自走式クローラーロータリー耕うん機市場規模は2026年1288百万米ドル、成長率7.3%で拡大予測",
+    "url": "https://www.atpress.ne.jp/news/5761278",
+    "pass": 3
+   },
+   {
+    "quote": "【最新予測】治療用抗体発見サービス市場規模、2026年に2144百万米ドルへ｜年平均成長率11.7%で推移予測",
+    "url": "https://www.atpress.ne.jp/news/5761278",
+    "pass": 3
+   },
+   {
+    "quote": "食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/5761278",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/5761278",
+    "pass": 3
+   },
+   {
+    "quote": "セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/5761278",
+    "pass": 3
+   },
+   {
+    "quote": "コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/5761278",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/5761278",
+    "pass": 3
+   },
+   {
+    "quote": "Surveyreportsの専門家が超高強度鋼市場調査を分析した結果、2024年の超高強度鋼市場規模は218億米ドルであることが判明した",
+    "url": "https://www.dreamnews.jp/press/0000307039",
+    "pass": 3
+   },
+   {
+    "quote": "超高強度鋼市場は、2024年と2033年の予測期間中に約5.4%のCAGRで成長することが提案されている",
+    "url": "https://www.dreamnews.jp/press/0000307039",
+    "pass": 3
+   },
+   {
+    "quote": "超高強度鋼市場は地域別に、北米、欧州、アジア太平洋、中南米、中東・アフリカの5つの主要地域に区分される",
+    "url": "https://www.dreamnews.jp/press/0000307039",
+    "pass": 3
+   },
+   {
+    "quote": "日本アニメ市場：海外売上、新作アニメプロジェクト、クロスオーバーイベントを主な原動力とする数十億ドル規模のビジネス機会が、2026年後半から2027年にかけて市場を形成する",
+    "url": "https://www.dreamnews.jp/press/0000307039",
+    "pass": 3
+   },
+   {
+    "quote": "超高張力鋼市場規模、シェア、成長分析、セグメント、成長ドライバーと課題、および市場における主要企業、予測2035年",
+    "url": "https://www.sdki.jp/reports/ultra-high-strength-steel-market/109020",
+    "pass": 3
+   },
+   {
+    "quote": "超高張力鋼市場は、2025年に140億米ドルの市場価値から、2035年までに220億米ドルに達すると推定され、2026－2035年の予測期間中に8％のCAGRで成長すると予想されています",
+    "url": "https://www.sdki.jp/reports/ultra-high-strength-steel-market/109020",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の超高張力鋼市場は、2026ー2035年の間に最大なCAGRで成長すると予測されています",
+    "url": "https://www.sdki.jp/reports/ultra-high-strength-steel-market/109020",
+    "pass": 3
+   },
+   {
+    "quote": "自動車用高張力鋼の日本市場（～2031年）、市場規模（二相鋼（DP）、変形誘起塑性（TRIP）鋼、マルテンサイト鋼）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1483199",
+    "pass": 3
+   },
+   {
+    "quote": "当リサーチ会社が発行した調査レポート「インド自動車用高張力鋼市場2031年」によると、インド選別機市場は2031年までに15.5億ドル以上の市場規模に達すると予想されています",
+    "url": "https://www.atpress.ne.jp/news/1483199",
+    "pass": 3
+   },
+   {
+    "quote": "6.1. 金額別市場規模",
+    "url": "https://www.atpress.ne.jp/news/1483199",
+    "pass": 3
+   },
+   {
+    "quote": "6.2. 製品タイプ別市場規模と予測",
+    "url": "https://www.atpress.ne.jp/news/1483199",
+    "pass": 3
+   },
+   {
+    "quote": "6.3. 車両タイプ別市場規模と予測",
+    "url": "https://www.atpress.ne.jp/news/1483199",
+    "pass": 3
+   },
+   {
+    "quote": "6.4. 用途別市場規模と予測",
+    "url": "https://www.atpress.ne.jp/news/1483199",
+    "pass": 3
+   },
+   {
+    "quote": "6.5. 地域別市場規模と予測",
+    "url": "https://www.atpress.ne.jp/news/1483199",
+    "pass": 3
+   },
+   {
+    "quote": "7.1.1. デュアルフェーズ (DP) 鋼別 日本の自動車用高張力鋼市場規模, 2020-2031年",
+    "url": "https://www.atpress.ne.jp/news/1483199",
+    "pass": 3
+   },
+   {
+    "quote": "自動車用高張力鋼の日本市場（～2031年）、市場規模（デュアルフェーズ（DP）鋼、変形誘起塑性（TRIP）鋼、マルテンサイト鋼）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/news/2412727",
+    "pass": 3
+   },
+   {
+    "quote": "自動車用高張力鋼の日本市場（～2031年）、市場規模（デュアルフェーズ（DP）鋼、変形誘起塑性（TRIP）鋼、マルテンサイト鋼）・分析レポートを発表",
+    "url": "https://newscast.jp/news/2412727",
+    "pass": 3
+   },
+   {
+    "quote": "調査レポート「インド自動車用高張力鋼市場 2031」によると、インドの自動車用高張力鋼（AHSS）市場は、軽量で燃費効率が高く安全な車両への需要増加に牽引され、堅調な成長を遂げている",
+    "url": "https://newscast.jp/news/2412727",
+    "pass": 3
+   },
+   {
+    "quote": "6.1. 市場規模（金額ベース）",
+    "url": "https://newscast.jp/news/2412727",
+    "pass": 3
+   },
+   {
+    "quote": "6.2. 市場規模および予測（製品タイプ別）",
+    "url": "https://newscast.jp/news/2412727",
+    "pass": 3
+   },
+   {
+    "quote": "6.3. 市場規模および予測（車種別）",
+    "url": "https://newscast.jp/news/2412727",
+    "pass": 3
+   },
+   {
+    "quote": "6.4. 市場規模および予測（用途別）",
+    "url": "https://newscast.jp/news/2412727",
+    "pass": 3
+   },
+   {
+    "quote": "6.5. 市場規模および予測（地域別）",
+    "url": "https://newscast.jp/news/2412727",
+    "pass": 3
+   },
+   {
+    "quote": "7.1.1. 日本の自動車用先進高張力鋼市場規模（デュアルフェーズ（DP）鋼別）、2020-2031年",
+    "url": "https://newscast.jp/news/2412727",
+    "pass": 3
+   },
+   {
+    "quote": "市場調査レポート: 超高強度鋼の市場規模、シェア、成長、および世界の業界分析、地域別動向、ならびに2026年から2034年までの予測",
+    "url": "https://www.gii.co.jp/report/fbs2149229-ultra-high-strength-steel-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "超高強度鋼の市場規模、シェア、成長、および世界の業界分析、地域別動向、ならびに2026年から2034年までの予測",
+    "url": "https://www.gii.co.jp/report/fbs2149229-ultra-high-strength-steel-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "Ultra High Strength Steel Market Size, Share, Growth and Global Industry Analysis, Regional Insights and Forecast to 2026-2034",
+    "url": "https://www.gii.co.jp/report/fbs2149229-ultra-high-strength-steel-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の世界の超高張力鋼市場規模は91億3,000万米ドルと評価されました",
+    "url": "https://www.gii.co.jp/report/fbs2149229-ultra-high-strength-steel-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "同市場は2025年に89億9,000万米ドル、2032年までに150億8,000万米ドルに達すると予測されており、予測期間中はCAGR 6.6％を示すと見込まれています",
+    "url": "https://www.gii.co.jp/report/fbs2149229-ultra-high-strength-steel-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 4,850 換算",
+    "url": "https://www.gii.co.jp/report/fbs2149229-ultra-high-strength-steel-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 5,850 換算",
+    "url": "https://www.gii.co.jp/report/fbs2149229-ultra-high-strength-steel-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 6,850 換算",
+    "url": "https://www.gii.co.jp/report/fbs2149229-ultra-high-strength-steel-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "造船用鋼材の市場規模、シェア、および成長分析：鋼材製品タイプ別、材質グレード／規格別、船舶用途別、供給厚さ別、地域別―2026年～2033年の業界予測",
+    "url": "https://www.gii.co.jp/report/fbs2149229-ultra-high-strength-steel-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "High Strength Steel Market Size, Share & Forecast Report 2035",
+    "url": "https://www.marketresearchfuture.com/reports/high-strength-steel-market-5638",
+    "pass": 3
+   },
+   {
+    "quote": "2024 Market Size",
+    "url": "https://www.marketresearchfuture.com/reports/high-strength-steel-market-5638",
+    "pass": 3
+   },
+   {
+    "quote": "$ 50.1 Billion",
+    "url": "https://www.marketresearchfuture.com/reports/high-strength-steel-market-5638",
+    "pass": 3
+   },
+   {
+    "quote": "2025 Market Size",
+    "url": "https://www.marketresearchfuture.com/reports/high-strength-steel-market-5638",
+    "pass": 3
+   },
+   {
+    "quote": "$ 53.94 Billion",
+    "url": "https://www.marketresearchfuture.com/reports/high-strength-steel-market-5638",
+    "pass": 3
+   },
+   {
+    "quote": "2035 Market Size",
+    "url": "https://www.marketresearchfuture.com/reports/high-strength-steel-market-5638",
+    "pass": 3
+   },
+   {
+    "quote": "$ 112.87 Billion",
+    "url": "https://www.marketresearchfuture.com/reports/high-strength-steel-market-5638",
+    "pass": 3
+   },
+   {
+    "quote": "As per MRFR analysis, the High Strength Steel Market Size was estimated at 50.1 USD Billion in 2024. The High Strength Steel industry is projected to grow from 53.94 USD Billion in 2025 to 112.87 USD Billion by 2035, exhibiting a compound annual growth rate (CAGR) of 7.66% during the forecast period 2025 - 2035.",
+    "url": "https://www.marketresearchfuture.com/reports/high-strength-steel-market-5638",
+    "pass": 3
+   },
+   {
+    "quote": "50.1 (USD Billion)",
+    "url": "https://www.marketresearchfuture.com/reports/high-strength-steel-market-5638",
+    "pass": 3
+   },
+   {
+    "quote": "112.87 (USD Billion)",
+    "url": "https://www.marketresearchfuture.com/reports/high-strength-steel-market-5638",
+    "pass": 3
+   },
+   {
+    "quote": "The High Strength Steel Market is projected to grow at a 7.66% CAGR from 2025 to 2035, driven by increasing demand in automotive and construction sectors.",
+    "url": "https://www.marketresearchfuture.com/reports/high-strength-steel-market-5638",
+    "pass": 3
+   },
+   {
+    "quote": "MARKET SIZE 2024",
+    "url": "https://www.marketresearchfuture.com/reports/high-strength-steel-market-5638",
+    "pass": 3
+   },
+   {
+    "quote": "50.1(USD Billion)",
+    "url": "https://www.marketresearchfuture.com/reports/high-strength-steel-market-5638",
+    "pass": 3
+   },
+   {
+    "quote": "Third Generation Advanced High-Strength Steel Market Size & Share | Industry Growth 2032",
+    "url": "https://www.databridgemarketresearch.com/reports/global-third-generation-advanced-high-strength-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Third Generation Advanced High-Strength Steel Market Size, Share, and Trends Analysis Report – Industry Overview and Forecast to 2032",
+    "url": "https://www.databridgemarketresearch.com/reports/global-third-generation-advanced-high-strength-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024 Market Size",
+    "url": "https://www.databridgemarketresearch.com/reports/global-third-generation-advanced-high-strength-steel-market",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "超高張力鋼板市場分析レポート：2026年32076.99百万米ドル規模、成長率5.71%推移",
+    "url": "https://www.atpress.ne.jp/news/5761278",
+    "pass": 3
+   },
+   {
+    "quote": "QYResearchの調査によると、世界の超高張力鋼板市場規模は2025年に30,390百万米ドルへ達し、2032年には44,760百万米ドルまで拡大すると予測されている",
+    "url": "https://www.atpress.ne.jp/news/5761278",
+    "pass": 3
+   },
+   {
+    "quote": "2026年から2032年における年平均成長率（CAGR）は5.71%となり、世界的な自動車電動化、車体軽量化、高強度材料への置換需要が市場拡大を牽引する主要因となる",
+    "url": "https://www.atpress.ne.jp/news/5761278",
+    "pass": 3
+   },
+   {
+    "quote": "用途別では、自動車・輸送分野が2025年に市場全体の75.52%を占め、2032年には33,740百万米ドルまで拡大する見通しであり、予測期間中のCAGRは5.62%と安定した成長が見込まれている",
+    "url": "https://www.atpress.ne.jp/news/5761278",
+    "pass": 3
+   },
+   {
+    "quote": "特に過去6か月間では、自動車メーカーとの長期供給契約や低炭素鋼材への投資拡大が相次ぎ、市場競争は品質・技術・環境対応力を中心とした新たな局面へ進んでいる",
+    "url": "https://www.atpress.ne.jp/news/5761278",
+    "pass": 3
+   },
+   {
+    "quote": "世界の炭酸カリウム顆粒市場動向、年平均成長率4.49%で拡大継続2026-2032",
+    "url": "https://www.atpress.ne.jp/news/5761278",
+    "pass": 3
+   },
+   {
+    "quote": "無水乳脂肪の世界市場規模：年平均成長率9.8%予測、最新トレンドと需要変化2026-2032",
+    "url": "https://www.atpress.ne.jp/news/5761278",
+    "pass": 3
+   },
+   {
+    "quote": "世界の酸化アルミニウム銅市場動向、年平均成長率9.5%で拡大継続2026-2032",
+    "url": "https://www.atpress.ne.jp/news/5761278",
+    "pass": 3
+   },
+   {
+    "quote": "自走式クローラーロータリー耕うん機市場規模は2026年1288百万米ドル、成長率7.3%で拡大予測",
+    "url": "https://www.atpress.ne.jp/news/5761278",
+    "pass": 3
+   },
+   {
+    "quote": "【最新予測】治療用抗体発見サービス市場規模、2026年に2144百万米ドルへ｜年平均成長率11.7%で推移予測",
+    "url": "https://www.atpress.ne.jp/news/5761278",
+    "pass": 3
+   },
+   {
+    "quote": "超高強度鋼市場は、2024年と2033年の予測期間中に約5.4%のCAGRで成長することが提案されている",
+    "url": "https://www.dreamnews.jp/press/0000307039",
+    "pass": 3
+   },
+   {
+    "quote": "超高張力鋼市場は、2025年に140億米ドルの市場価値から、2035年までに220億米ドルに達すると推定され、2026－2035年の予測期間中に8％のCAGRで成長すると予想されています",
+    "url": "https://www.sdki.jp/reports/ultra-high-strength-steel-market/109020",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の超高張力鋼市場は、2026ー2035年の間に最大なCAGRで成長すると予測されています",
+    "url": "https://www.sdki.jp/reports/ultra-high-strength-steel-market/109020",
+    "pass": 3
+   },
+   {
+    "quote": "同市場は2025年に89億9,000万米ドル、2032年までに150億8,000万米ドルに達すると予測されており、予測期間中はCAGR 6.6％を示すと見込まれています",
+    "url": "https://www.gii.co.jp/report/fbs2149229-ultra-high-strength-steel-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "日産自動車、「超高張力鋼板」の採用を25%に拡大",
+    "url": "https://global.nissannews.com/ja-JP/releases/130312-01-j",
+    "pass": 3
+   },
+   {
+    "quote": "日産自動車株式会社（本社:神奈川県横浜市西区、社長:カルロス ゴーン）は12日、車体の軽量化に向けて、車体部品における「超高張力鋼板（超ハイテン材）」の採用を2017年以降に発売する新型車で25%（重量ベース）まで拡大する計画を発表しました",
+    "url": "https://global.nissannews.com/ja-JP/releases/130312-01-j",
+    "pass": 3
+   },
+   {
+    "quote": "同社は今後、この1.2GPa級高成形性超ハイテン材を積極的に採用することにより、1.2GPaを含む超ハイテン材の採用比率を2017年以降25%まで拡大します",
+    "url": "https://global.nissannews.com/ja-JP/releases/130312-01-j",
+    "pass": 3
+   },
+   {
+    "quote": "この1.2GPa級を含む超ハイテン材の積極的採用と軽量化の拡大は、燃費向上に貢献しています",
+    "url": "https://global.nissannews.com/ja-JP/releases/130312-01-j",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025 - 2035)",
+    "url": "https://www.marketresearchfuture.com/reports/high-strength-steel-market-5638",
+    "pass": 3
+   },
+   {
+    "quote": "As per MRFR analysis, the High Strength Steel Market Size was estimated at 50.1 USD Billion in 2024. The High Strength Steel industry is projected to grow from 53.94 USD Billion in 2025 to 112.87 USD Billion by 2035, exhibiting a compound annual growth rate (CAGR) of 7.66% during the forecast period 2025 - 2035.",
+    "url": "https://www.marketresearchfuture.com/reports/high-strength-steel-market-5638",
+    "pass": 3
+   },
+   {
+    "quote": "The High Strength Steel Market is projected to grow at a 7.66% CAGR from 2025 to 2035, driven by increasing demand in automotive and construction sectors.",
+    "url": "https://www.marketresearchfuture.com/reports/high-strength-steel-market-5638",
+    "pass": 3
+   },
+   {
+    "quote": "What is the expected CAGR for the High Strength Steel Market during the forecast period 2025 - 2035?",
+    "url": "https://www.marketresearchfuture.com/reports/high-strength-steel-market-5638",
+    "pass": 3
+   },
+   {
+    "quote": "The expected CAGR for the High Strength Steel Market during the forecast period 2025 - 2035 is 7.66%.",
+    "url": "https://www.marketresearchfuture.com/reports/high-strength-steel-market-5638",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 10.5%",
+    "url": "https://www.databridgemarketresearch.com/reports/global-third-generation-advanced-high-strength-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Above 1600 MPA segment is expected to witness the fastest CAGR from 2025 to 2032, driven by demand for ultra-high strength applications, particularly in chassis reinforcements and intrusion-resistant structures. Advancements in alloy design and processing techniques support this segment's expansion.",
+    "url": "https://www.databridgemarketresearch.com/reports/global-third-generation-advanced-high-strength-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Quenching and Partitioning (Q&P) segment is expected to witness the fastest CAGR from 2025 to 2032, driven by superior strength-ductility combinations and the ability to tailor microstructures for specific requirements. Growth is supported by high-performance applications in next-generation mobility solutions.",
+    "url": "https://www.databridgemarketresearch.com/reports/global-third-generation-advanced-high-strength-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Europe Third Generation Advanced High-Strength Steel market is projected to grow at a steady CAGR through 2032, supported by the region’s strong automotive manufacturing base and green mobility initiatives. Germany, France, and Italy are spearheading the transition to lightweight materials in passenger and commercial vehicles.",
+    "url": "https://www.databridgemarketresearch.com/reports/global-third-generation-advanced-high-strength-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Asia-Pacific Third Generation Advanced High-Strength Steel market is set to record the fastest CAGR of over 10.1% in 2025, driven by rapid urbanization, infrastructure growth, and booming automotive industries in China, India, South Korea, and Southeast Asia.",
+    "url": "https://www.databridgemarketresearch.com/reports/global-third-generation-advanced-high-strength-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Third Generation Advanced High Strength Steel Market is projected to grow at a CAGR of 8.90% during the forecast period by 2028.",
+    "url": "https://www.databridgemarketresearch.com/reports/global-third-generation-advanced-high-strength-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026–2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/high-strength-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Fastest-growing regional market: Europe (highest CAGR, 2026-2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/high-strength-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2033): 9.0%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/high-strength-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 9.0% from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/high-strength-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD billion/million, volume in kilotons, and CAGR from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/high-strength-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global high strength steel market is expected to grow at a compound annual growth rate of 9.0% from 2026 to 2033 to reach USD 78.4 billion by 2033.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/high-strength-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025 - 2035)",
+    "url": "https://www.marketresearchfuture.com/reports/advanced-high-strength-steel-market-22784",
+    "pass": 3
+   },
+   {
+    "quote": "As per Market Research Future analysis, the Advanced High Strength Steel Market Size was estimated at 64.69 USD Billion in 2024. The Advanced High Strength Steel industry is projected to grow from 71.17 USD Billion in 2025 to 184.8 USD Billion by 2035, exhibiting a compound annual growth rate (CAGR) of 10.01% during the forecast period 2025 - 2035",
+    "url": "https://www.marketresearchfuture.com/reports/advanced-high-strength-steel-market-22784",
+    "pass": 3
+   },
+   {
+    "quote": "North America (10.4% CAGR)",
+    "url": "https://www.marketresearchfuture.com/reports/advanced-high-strength-steel-market-22784",
+    "pass": 3
+   },
+   {
+    "quote": "(+4.8% CAGR impact): 25-39% weight reduction",
+    "url": "https://www.marketresearchfuture.com/reports/advanced-high-strength-steel-market-22784",
+    "pass": 3
+   },
+   {
+    "quote": "EV battery protection structures (+3.2% CAGR impact)",
+    "url": "https://www.marketresearchfuture.com/reports/advanced-high-strength-steel-market-22784",
+    "pass": 3
+   },
+   {
+    "quote": "Infrastructure modernization (+1.5% CAGR impact): Bridges & seismic zones",
+    "url": "https://www.marketresearchfuture.com/reports/advanced-high-strength-steel-market-22784",
+    "pass": 3
+   },
+   {
+    "quote": "The Advanced High Strength Steel Market is projected to grow at a 10.01% CAGR from 2025 to 2035, driven by increasing automotive demand, infrastructure development, and technological advancements.",
+    "url": "https://www.marketresearchfuture.com/reports/advanced-high-strength-steel-market-22784",
+    "pass": 3
+   },
+   {
+    "quote": "What is the expected CAGR for the Advanced High Strength Steel Market during the forecast period 2025 - 2035?",
+    "url": "https://www.marketresearchfuture.com/reports/advanced-high-strength-steel-market-22784",
+    "pass": 3
+   },
+   {
+    "quote": "The expected CAGR for the Advanced High Strength Steel Market during the forecast period 2025 - 2035 is 10.01%.",
+    "url": "https://www.marketresearchfuture.com/reports/advanced-high-strength-steel-market-22784",
+    "pass": 3
+   },
+   {
+    "quote": "The Advanced High Strength Steel Market is expected to experience robust growth, driven by a CAGR of 10.01% from 2025 to 2035.",
+    "url": "https://www.marketresearchfuture.com/reports/advanced-high-strength-steel-market-22784",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026 - 2036):",
+    "url": "https://www.factmr.com/report/2995/advanced-high-strength-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 7.9%",
+    "url": "https://www.factmr.com/report/2995/advanced-high-strength-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "7.9% CAGR",
+    "url": "https://www.factmr.com/report/2995/advanced-high-strength-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "8.1% CAGR",
+    "url": "https://www.factmr.com/report/2995/advanced-high-strength-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "7.6% CAGR",
+    "url": "https://www.factmr.com/report/2995/advanced-high-strength-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "7.5% CAGR",
+    "url": "https://www.factmr.com/report/2995/advanced-high-strength-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Demand for AHSS is forecasted to rise at a CAGR of 7.9% from 2024 to 2034.",
+    "url": "https://www.factmr.com/report/2995/advanced-high-strength-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "AHSS (Advanced High Strength Steel) Market size was valued at USD 27.5 Billion in 2024 and is poised to grow from USD 29.89 Billion in 2025 to USD 58.26 Billion by 2033, growing at a CAGR of 8.7% during the forecast period (2026–2033).",
+    "url": "https://www.skyquestt.com/report/ahss-market",
+    "pass": 3
+   },
+   {
+    "quote": "8.7% CAGR",
+    "url": "https://www.skyquestt.com/report/ahss-market",
+    "pass": 3
+   },
+   {
+    "quote": "Exhibit: Data on GDP - Year-over-year growth 2016-2022 (%)",
+    "url": "https://www.skyquestt.com/report/ahss-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2024–2030",
+    "url": "https://www.grandviewresearch.com/industry-analysis/automotive-advanced-high-strength-steel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2024-2030): 6.4%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/automotive-advanced-high-strength-steel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The suspension segment is anticipated to grow by a CAGR of 7.3% over the forecast period. The relevance of a product in suspension is based on its properties, such as strength, durability, weight reduction, and cost efficiency. The use of products in the suspension system allows manufacturers to efficiently reduce the weight of the system, thereby improving fuel efficiency.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/automotive-advanced-high-strength-steel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 6.4% from 2024 to 2030",
+    "url": "https://www.grandviewresearch.com/industry-analysis/automotive-advanced-high-strength-steel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Volume in Kilotons, Revenue in USD million, and CAGR from 2024 to 2030",
+    "url": "https://www.grandviewresearch.com/industry-analysis/automotive-advanced-high-strength-steel-market-report",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "豊富な調査ネットワークと最新データを活用することで、企業の経営戦略策定、新規事業開発、市場参入判断を支援し、実践的かつ信頼性の高いインサイトを提供しています",
+    "url": "https://www.atpress.ne.jp/news/5761278",
+    "pass": 3
+   },
+   {
+    "quote": "超高張力鋼市場規模、シェア、成長分析、セグメント、成長ドライバーと課題、および市場における主要企業、予測2035年",
+    "url": "https://www.sdki.jp/reports/ultra-high-strength-steel-market/109020",
+    "pass": 3
+   },
+   {
+    "quote": "これらの要因は、経験豊富な専門家の需要を促進しており、既存の市場プレーヤーだけでなく、新規参入者にとっても有利なビジネスチャンスを生み出すと推定されています",
+    "url": "https://www.sdki.jp/reports/ultra-high-strength-steel-market/109020",
+    "pass": 3
+   },
+   {
+    "quote": "この調査には、超高張力鋼市場におけるこれらの主要企業の詳細な競合分析、企業プロファイル、最近の動向、および主要な市場戦略が含まれています",
+    "url": "https://www.sdki.jp/reports/ultra-high-strength-steel-market/109020",
+    "pass": 3
+   },
+   {
+    "quote": "? 主要企業プロファイル",
+    "url": "https://newscast.jp/news/2412727",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業別の市場シェア・順位分析（2024年）",
+    "url": "https://www.gii.co.jp/report/fbs2149229-ultra-high-strength-steel-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/high-strength-steel-market-5638",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.marketresearchfuture.com/reports/high-strength-steel-market-5638",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players and Competitive Insights",
+    "url": "https://www.marketresearchfuture.com/reports/high-strength-steel-market-5638",
+    "pass": 3
+   },
+   {
+    "quote": "The High Strength Steel Market is currently characterized by a dynamic competitive landscape, driven by increasing demand for lightweight and durable materials across various industries, including automotive, construction, and energy. Key players such as",
+    "url": "https://www.marketresearchfuture.com/reports/high-strength-steel-market-5638",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies in the High Strength Steel Market include",
+    "url": "https://www.marketresearchfuture.com/reports/high-strength-steel-market-5638",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, and Trends",
+    "url": "https://www.marketresearchfuture.com/reports/high-strength-steel-market-5638",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/high-strength-steel-market-5638",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the High Strength Steel Market?",
+    "url": "https://www.marketresearchfuture.com/reports/high-strength-steel-market-5638",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the High Strength Steel Market include ArcelorMittal, Nippon Steel Corporation, Tata Steel, and POSCO, among others.",
+    "url": "https://www.marketresearchfuture.com/reports/high-strength-steel-market-5638",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.databridgemarketresearch.com/reports/global-third-generation-advanced-high-strength-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players operating in the market?",
+    "url": "https://www.databridgemarketresearch.com/reports/global-third-generation-advanced-high-strength-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "The major players in the Third Generation Advanced High Strength Steel Market are SSAB AB, ARCELORMITTAL S.A., voestalpine AG, AK Steel Corporation, POSCO, United States Steel, thyssenkrupp AG, JFE Steel Corporation, NIPPON STEEL CORPORATION (NSSMC), Anyang Iron and Steel Group, Inc., etc.",
+    "url": "https://www.databridgemarketresearch.com/reports/global-third-generation-advanced-high-strength-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players operating in the market include ArcelorMittal, JSW Steel, and others",
+    "url": "https://www.grandviewresearch.com/industry-analysis/high-strength-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study on the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/high-strength-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue & volume forecast, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/high-strength-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/high-strength-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in high strength steel market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/high-strength-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players of the global high strength steel market are ArcelorMittal; Tata Steel; voestalpine AG; POSCO; SSAB; ThyssenKrupp AG; Nucor Corporation; SAIL; NIPPON STEEL CORPORATION; JSW, and others.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/high-strength-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/advanced-high-strength-steel-market-22784",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.marketresearchfuture.com/reports/advanced-high-strength-steel-market-22784",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players and Competitive Insights",
+    "url": "https://www.marketresearchfuture.com/reports/advanced-high-strength-steel-market-22784",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies in the Advanced High Strength Steel Market include",
+    "url": "https://www.marketresearchfuture.com/reports/advanced-high-strength-steel-market-22784",
+    "pass": 3
+   },
+   {
+    "quote": "JSW Steel selected ANDRITZ to supply a continuous galvanizing line for its Toranagallu plant in Karnataka. The line is designed to produce automotive-grade advanced high-strength steel with tensile strengths up to 1,480 MPa and annual capacity of approximately 500,000 tonnes. Start-up is scheduled for 2028. This investment will expand India's domestic supply of value-added automotive steel.",
+    "url": "https://www.marketresearchfuture.com/reports/advanced-high-strength-steel-market-22784",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, and Trends",
+    "url": "https://www.marketresearchfuture.com/reports/advanced-high-strength-steel-market-22784",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/advanced-high-strength-steel-market-22784",
+    "pass": 3
+   },
+   {
+    "quote": "Which key players are leading the Advanced High Strength Steel Market?",
+    "url": "https://www.marketresearchfuture.com/reports/advanced-high-strength-steel-market-22784",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the Advanced High Strength Steel Market include ArcelorMittal, Nippon Steel Corporation, and Tata Steel Limited.",
+    "url": "https://www.marketresearchfuture.com/reports/advanced-high-strength-steel-market-22784",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.factmr.com/report/2995/advanced-high-strength-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Startups are focusing on transforming the landscape of AHSS. New companies are investing on research and development initiatives to introduce innovative steel solutions. By offering innovative products new companies are set to attract a wider consumer base.",
+    "url": "https://www.factmr.com/report/2995/advanced-high-strength-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.factmr.com/report/2995/advanced-high-strength-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the advanced high strength steel market are focusing on product innovation, with '3rd Generation' being the buzzword. Forward integration with leading automotive players remains a key differentiating strategy.",
+    "url": "https://www.factmr.com/report/2995/advanced-high-strength-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "AHSS (Advanced High Strength Steel) Market Competitive Landscape",
+    "url": "https://www.skyquestt.com/report/ahss-market",
+    "pass": 3
+   },
+   {
+    "quote": "The competitive landscape of the global AHSS (Advanced High Strength Steel) market is highly competitive and fragmented. The market is dominated by several large players, including steel manufacturers, suppliers, and distributors, as well as several small and medium-sized players. These companies compete on various factors such as product quality, innovation, price, and distribution network.",
+    "url": "https://www.skyquestt.com/report/ahss-market",
+    "pass": 3
+   },
+   {
+    "quote": "In recent years, many companies have been investing in R&D to develop new AHSS products and improve existing products. Innovation and product development are critical factors for companies to remain competitive in the market. Companies are also focusing on expanding their distribution networks to reach new customers and increase their market share. Some of the key players in the market are:",
+    "url": "https://www.skyquestt.com/report/ahss-market",
+    "pass": 3
+   },
+   {
+    "quote": "(Exhibit: Data Table: Emerging startups details)",
+    "url": "https://www.skyquestt.com/report/ahss-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.skyquestt.com/report/ahss-market",
+    "pass": 3
+   },
+   {
+    "quote": "Identify racial solutions and innovation, connected to deep ecosystems of innovators, start-ups, academics, and strategic partners.",
+    "url": "https://www.skyquestt.com/report/ahss-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players operating in the market include Arcelor Mittal S.A, SSAB, JSW Steel Limited, Cleveland-Cliffs Inc., and United States Steel Corporation:",
+    "url": "https://www.grandviewresearch.com/industry-analysis/automotive-advanced-high-strength-steel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Volume & revenue forecast, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/automotive-advanced-high-strength-steel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/automotive-advanced-high-strength-steel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the global automotive advanced high strength steel market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/automotive-advanced-high-strength-steel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Chapter 7. Competitive Landscape",
+    "url": "https://uk.finance.yahoo.com/news/high-strength-steel-market-poised-084600282.html",
+    "pass": 3
+   },
+   {
+    "quote": "The leading players profiled in this High Strength Steel market report include:",
+    "url": "https://uk.finance.yahoo.com/news/high-strength-steel-market-poised-084600282.html",
+    "pass": 3
+   },
+   {
+    "quote": "Overall, these key players collectively influence technology direction, material performance benchmarks, and supply chain resilience within the Automotive Advanced High Strength Steel market. Their strategies in innovation, scalability, and regulatory alignment continue shaping market growth dynamics in 2024.",
+    "url": "https://market.us/report/automotive-advanced-high-strength-steel-ahss-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players in the Market",
+    "url": "https://market.us/report/automotive-advanced-high-strength-steel-ahss-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Market Dynamics, Competitive Landscape, Recent Developments",
+    "url": "https://market.us/report/automotive-advanced-high-strength-steel-ahss-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://market.us/report/automotive-advanced-high-strength-steel-ahss-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive Advanced High-Strength Steel (AHSS) Market Forecasts Growth from $24.56 Billion (2025) to $42.59 Billion by 2035, Profiling ArcelorMittal, Nippon Steel, POSCO, Tata Steel & 12 Other Key Players",
+    "url": "https://uk.finance.yahoo.com/news/automotive-advanced-high-strength-steel-134800230.html",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://uk.finance.yahoo.com/news/automotive-advanced-high-strength-steel-134800230.html",
+    "pass": 3
+   },
+   {
+    "quote": "1.6 Start-Up Landscape",
+    "url": "https://uk.finance.yahoo.com/news/automotive-advanced-high-strength-steel-134800230.html",
+    "pass": 3
+   },
+   {
+    "quote": "5.5.2 Companies Profiled",
+    "url": "https://uk.finance.yahoo.com/news/automotive-advanced-high-strength-steel-134800230.html",
+    "pass": 3
+   },
+   {
+    "quote": "1.6 Start-Up Landscape",
+    "url": "https://bisresearch.com/industry-report/automotive-advanced-high-strength-steel-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Table 2: Competitive Landscape Snapshot",
+    "url": "https://bisresearch.com/industry-report/automotive-advanced-high-strength-steel-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Table 10: Start-up Landscape by Value-Chain Position",
+    "url": "https://bisresearch.com/industry-report/automotive-advanced-high-strength-steel-market.html",
+    "pass": 3
+   }
+  ],
+  "日本企業": [
+   {
+    "quote": "地域別では、中国、日本、北米および欧州が超高張力鋼板市場の主要生産拠点となっている",
+    "url": "https://www.atpress.ne.jp/news/5761278",
+    "pass": 3
+   },
+   {
+    "quote": "需要面では、中国、米国、日本、韓国、インドを中心とするアジア太平洋地域が最大市場を形成しており、欧州では環境規制強化と自動車産業の高付加価値化が市場成長を支えている",
+    "url": "https://www.atpress.ne.jp/news/5761278",
+    "pass": 3
+   },
+   {
+    "quote": "日本の住所：〒104-0061東京都中央区銀座 6-13-16 銀座 Wall ビル UCF５階",
+    "url": "https://www.atpress.ne.jp/news/5761278",
+    "pass": 3
+   },
+   {
+    "quote": "TEL：050-5893-6232（日本）；0081-5058936232（グローバル）",
+    "url": "https://www.atpress.ne.jp/news/5761278",
+    "pass": 3
+   },
+   {
+    "quote": "japan@qyresearch.com",
+    "url": "https://www.atpress.ne.jp/news/5761278",
+    "pass": 3
+   },
+   {
+    "quote": "QYResearch株式会社は、2017年に日本・東京で設立された市場調査・コンサルティング会社です",
+    "url": "https://www.atpress.ne.jp/news/5761278",
+    "pass": 3
+   },
+   {
+    "quote": "超高張力鋼板市場における重要な関係者には、アルセロール・ミッタル, タタ・スチール, ボスタルピンAG, ポスコ, SSAB, ティッセンクルップAG, Nucor Corporation, 聊城開発区瑞星鋼管製造有限公司（宝鋼集団）, SAIL, 新日本製鐵, JSW, 中国安鋼集団有限公司, その他の主要プレーヤー.",
+    "url": "https://www.dreamnews.jp/press/0000307039",
+    "pass": 3
+   },
+   {
+    "quote": "また、当社の調査レポートには、日本のお客様の特定のニーズに合わせた詳細な分析も含まれている",
+    "url": "https://www.dreamnews.jp/press/0000307039",
+    "pass": 3
+   },
+   {
+    "quote": "● 2033年までの世界のライドシェアリング市場（北米、ヨーロッパ、アジア太平洋地域、中南米）の需要と機会分析（日本を含む国別）",
+    "url": "https://www.dreamnews.jp/press/0000307039",
+    "pass": 3
+   },
+   {
+    "quote": "● アジア太平洋- 日本、中国、インド、インドネシア、マレーシア、オーストラリア、その他のアジア太平洋地域",
+    "url": "https://www.dreamnews.jp/press/0000307039",
+    "pass": 3
+   },
+   {
+    "quote": "日本農業アナリティクス市場：AI主導型農業、精密農業、スマートファームデータソリューションにおけるビジネス機会",
+    "url": "https://www.dreamnews.jp/press/0000307039",
+    "pass": 3
+   },
+   {
+    "quote": "日本ラピッドサーマルプロセス装置市場：先端ウェハー処理、2nmチップ製造、次世代半導体ファブにおけるビジネス機会",
+    "url": "https://www.dreamnews.jp/press/0000307039",
+    "pass": 3
+   },
+   {
+    "quote": "日本半導体真空バルブ市場：先端チップ製造、高純度真空システム、次世代ファブの拡張におけるビジネス機会",
+    "url": "https://www.dreamnews.jp/press/0000307039",
+    "pass": 3
+   },
+   {
+    "quote": "日本歯科医療機器市場：デジタル歯科医療、AIを活用した診断、先端歯科医療技術におけるビジネス機会",
+    "url": "https://www.dreamnews.jp/press/0000307039",
+    "pass": 3
+   },
+   {
+    "quote": "日本アニメ市場：海外売上、新作アニメプロジェクト、クロスオーバーイベントを主な原動力とする数十億ドル規模のビジネス機会が、2026年後半から2027年にかけて市場を形成する",
+    "url": "https://www.dreamnews.jp/press/0000307039",
+    "pass": 3
+   },
+   {
+    "quote": "日本半導体フォトレジスト市場：EUVリソグラフィ、先端材料、次世代半導...",
+    "url": "https://www.dreamnews.jp/press/0000307039",
+    "pass": 3
+   },
+   {
+    "quote": "必要に応じて日本語レポートが入手可能",
+    "url": "https://www.sdki.jp/reports/ultra-high-strength-steel-market/109020",
+    "pass": 3
+   },
+   {
+    "quote": "世界の化学産業は、ヨーロッパ、日本、米国、およびアジアの発展途上国が世界の化学品販売全体で主導的な地位を獲得することで、競争環境の劇的な変化を目撃しています",
+    "url": "https://www.sdki.jp/reports/ultra-high-strength-steel-market/109020",
+    "pass": 3
+   },
+   {
+    "quote": "日本の化学物質の輸出は、約30％のY-O-Y成長を示しめており、2021年4月に85億米ドルを超えました",
+    "url": "https://www.sdki.jp/reports/ultra-high-strength-steel-market/109020",
+    "pass": 3
+   },
+   {
+    "quote": "これらには、北米（米国、カナダ、およびその他の北米）、ヨーロッパ（ドイツ、フランス、イタリア、スペイン、英国、およびその他のヨーロッパ）、アジア太平洋（中国、日本、インド、オーストラリア、シンガポール、およびその他のアジア太平洋）およびその他の地域が含まれます",
+    "url": "https://www.sdki.jp/reports/ultra-high-strength-steel-market/109020",
+    "pass": 3
+   },
+   {
+    "quote": "、デンマーク）、アイルランド、スイス、オーストリア、ポーランド、トルコ、ロシア、その他のヨーロッパ）、ポーランド、トルコ、ロシア、その他のヨーロッパ）、アジア太平洋（中国、インド、日本、韓国、シンガポール、インドネシア、マレーシア）",
+    "url": "https://www.sdki.jp/reports/ultra-high-strength-steel-market/109020",
+    "pass": 3
+   },
+   {
+    "quote": "超高張力鋼市場の主要なキープレーヤーには、The United States Steel Corporation (米国)、ArcelorMittal (ルクセンブルグ)、Schuler Group (ドイツ)、SAIL (インド)、China Baowu Steel Group Corp. (中国)、POSCO (韓国)、Tata Steel (インド)、JSW Steel (インド)、Voestalpine Group (オーストラリア)、Nippon Steel & Sumitomo Metal Corporation (日本)、Kobe Steel (日本)、China Steel Corporation (台湾)、JFE Steel (日本)、Essar Steel (ムンバイ)、Novolipetsk Steel (ロシア)などがあります",
+    "url": "https://www.sdki.jp/reports/ultra-high-strength-steel-market/109020",
+    "pass": 3
+   },
+   {
+    "quote": "Analyticsは、日本を代表するリサーチと戦略コンサルティング会社です",
+    "url": "https://www.sdki.jp/reports/ultra-high-strength-steel-market/109020",
+    "pass": 3
+   },
+   {
+    "quote": "日本のニュース",
+    "url": "https://www.sdki.jp/reports/ultra-high-strength-steel-market/109020",
+    "pass": 3
+   },
+   {
+    "quote": "日本事務所 ：",
+    "url": "https://www.sdki.jp/reports/ultra-high-strength-steel-market/109020",
+    "pass": 3
+   },
+   {
+    "quote": "15/F セルリアンタワー, 桜丘町26-1、150-8512, 東京、渋谷区、日本",
+    "url": "https://www.sdki.jp/reports/ultra-high-strength-steel-market/109020",
+    "pass": 3
+   },
+   {
+    "quote": "自動車用高張力鋼の日本市場（～2031年）、市場規模（二相鋼（DP）、変形誘起塑性（TRIP）鋼、マルテンサイト鋼）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1483199",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社マーケットリサーチセンター（本社：東京都港区、世界の市場調査資料販売）では、「自動車用高張力鋼の日本市場（～2031年）、英文タイトル：Japan Automotive Advanced High Strength Steel Market 2031」調査資料を発表しました",
+    "url": "https://www.atpress.ne.jp/news/1483199",
+    "pass": 3
+   },
+   {
+    "quote": "資料には、自動車用高張力鋼の日本市場規模、動向、セグメント別予測（二相鋼（DP）、変形誘起塑性（TRIP）鋼、マルテンサイト鋼）、関連企業の情報などが盛り込まれています",
+    "url": "https://www.atpress.ne.jp/news/1483199",
+    "pass": 3
+   },
+   {
+    "quote": "4.2. 日本のマクロ経済指標",
+    "url": "https://www.atpress.ne.jp/news/1483199",
+    "pass": 3
+   },
+   {
+    "quote": "日本の自動車用高張力鋼市場概要",
+    "url": "https://www.atpress.ne.jp/news/1483199",
+    "pass": 3
+   },
+   {
+    "quote": "日本の自動車用高張力鋼市場セグメンテーション",
+    "url": "https://www.atpress.ne.jp/news/1483199",
+    "pass": 3
+   },
+   {
+    "quote": "7.1. 製品タイプ別 日本の自動車用高張力鋼市場",
+    "url": "https://www.atpress.ne.jp/news/1483199",
+    "pass": 3
+   },
+   {
+    "quote": "7.1.1. デュアルフェーズ (DP) 鋼別 日本の自動車用高張力鋼市場規模, 2020-2031年",
+    "url": "https://www.atpress.ne.jp/news/1483199",
+    "pass": 3
+   },
+   {
+    "quote": "7.1.2. 相変態誘起塑性 (TRIP) 鋼別 日本の自動車用高張力鋼市場規模, 2020-2031年",
+    "url": "https://www.atpress.ne.jp/news/1483199",
+    "pass": 3
+   },
+   {
+    "quote": "7.1.3. マルテンサイト鋼別 日本の自動車用高張力鋼市場規模, 2020-2031年",
+    "url": "https://www.atpress.ne.jp/news/1483199",
+    "pass": 3
+   },
+   {
+    "quote": "7.1.4. 複合相鋼別 日本の自動車用高張力鋼市場規模, 2020-2031年",
+    "url": "https://www.atpress.ne.jp/news/1483199",
+    "pass": 3
+   },
+   {
+    "quote": "7.1.5. プレス焼入れ鋼別 日本の自動車用高張力鋼市場規模, 2020-2031年",
+    "url": "https://www.atpress.ne.jp/news/1483199",
+    "pass": 3
+   },
+   {
+    "quote": "7.1.6. その他別 日本の自動車用高張力鋼市場規模, 2020-2031年",
+    "url": "https://www.atpress.ne.jp/news/1483199",
+    "pass": 3
+   },
+   {
+    "quote": "7.2. 車両タイプ別 日本の自動車用高張力鋼市場",
+    "url": "https://www.atpress.ne.jp/news/1483199",
+    "pass": 3
+   },
+   {
+    "quote": "7.2.1. 乗用車別 日本の自動車用高張力鋼市場規模, 2020-2031年",
+    "url": "https://www.atpress.ne.jp/news/1483199",
+    "pass": 3
+   },
+   {
+    "quote": "自動車用高張力鋼の日本市場（～2031年）、市場規模（デュアルフェーズ（DP）鋼、変形誘起塑性（TRIP）鋼、マルテンサイト鋼）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/news/2412727",
+    "pass": 3
+   },
+   {
+    "quote": "自動車用高張力鋼の日本市場（～2031年）、市場規模（デュアルフェーズ（DP）鋼、変形誘起塑性（TRIP）鋼、マルテンサイト鋼）・分析レポートを発表",
+    "url": "https://newscast.jp/news/2412727",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社マーケットリサーチセンター（本社：東京都港区、世界の市場調査資料販売）では、「自動車用高張力鋼の日本市場（～2031年）、英文タイトル：Japan Automotive Advanced High Strength Steel Market 2031」調査資料を発表しました",
+    "url": "https://newscast.jp/news/2412727",
+    "pass": 3
+   },
+   {
+    "quote": "資料には、自動車用高張力鋼の日本市場規模、動向、セグメント別予測（デュアルフェーズ（DP）鋼、変形誘起塑性（TRIP）鋼、マルテンサイト鋼）、関連企業の情報などが盛り込まれています",
+    "url": "https://newscast.jp/news/2412727",
+    "pass": 3
+   },
+   {
+    "quote": "日本の地理的状況",
+    "url": "https://newscast.jp/news/2412727",
+    "pass": 3
+   },
+   {
+    "quote": "4.2. 日本のマクロ経済指標",
+    "url": "https://newscast.jp/news/2412727",
+    "pass": 3
+   },
+   {
+    "quote": "日本の自動車用先進高張力鋼市場の概要",
+    "url": "https://newscast.jp/news/2412727",
+    "pass": 3
+   },
+   {
+    "quote": "日本の自動車用先進高張力鋼市場のセグメンテーション",
+    "url": "https://newscast.jp/news/2412727",
+    "pass": 3
+   },
+   {
+    "quote": "7.1. 日本の自動車用先進高張力鋼市場（製品タイプ別）",
+    "url": "https://newscast.jp/news/2412727",
+    "pass": 3
+   },
+   {
+    "quote": "7.1.1. 日本の自動車用先進高張力鋼市場規模（デュアルフェーズ（DP）鋼別）、2020-2031年",
+    "url": "https://newscast.jp/news/2412727",
+    "pass": 3
+   },
+   {
+    "quote": "7.1.2. 日本の自動車用先進高張力鋼市場規模（変形誘起塑性（TRIP）鋼別）、2020-2031年",
+    "url": "https://newscast.jp/news/2412727",
+    "pass": 3
+   },
+   {
+    "quote": "7.1.3. 日本の自動車用先進高張力鋼市場規模（マルテンサイト系鋼別）、2020-2031年",
+    "url": "https://newscast.jp/news/2412727",
+    "pass": 3
+   },
+   {
+    "quote": "7.1.4. 日本の自動車用先進高張力鋼市場規模（複合相鋼別）、2020-2031年",
+    "url": "https://newscast.jp/news/2412727",
+    "pass": 3
+   },
+   {
+    "quote": "7.1.5. 日本の自動車用先進高張力鋼市場規模（プレス硬化鋼別）、2020-2031年",
+    "url": "https://newscast.jp/news/2412727",
+    "pass": 3
+   },
+   {
+    "quote": "7.1.6. 日本の自動車用先進高張力鋼市場規模（その他別）、2020-2031年",
+    "url": "https://newscast.jp/news/2412727",
+    "pass": 3
+   },
+   {
+    "quote": "Sumitomo Chemical",
+    "url": "https://www.gii.co.jp/report/fbs2149229-ultra-high-strength-steel-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本製鉄グループ事業内容",
+    "url": "https://www.nipponsteel.com/news/20150525_100.html",
+    "pass": 3
+   },
+   {
+    "quote": "早わかり日本製鉄",
+    "url": "https://www.nipponsteel.com/news/20150525_100.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本製鉄メール配信サービス",
+    "url": "https://www.nipponsteel.com/news/20150525_100.html",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "用途別では、自動車・輸送分野が2025年に市場全体の75.52%を占め、2032年には33,740百万米ドルまで拡大する見通しであり、予測期間中のCAGRは5.62%と安定した成長が見込まれている",
+    "url": "https://www.atpress.ne.jp/news/5761278",
+    "pass": 3
+   },
+   {
+    "quote": "市場競争では、ArcelorMittal、POSCO、Baowu、SSAB、Voestalpine、Ansteel、ThyssenKrupp AG、Nippon Steel、JFE Steel、Tata Steelをはじめとする世界的な鉄鋼メーカーが市場供給を主導しており、上位5社で世界市場売上高の約51.68%を占める",
+    "url": "https://www.atpress.ne.jp/news/5761278",
+    "pass": 3
+   },
+   {
+    "quote": "本記事は、QY Research発行のレポート「超高張力鋼板―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」に基づき、市場動向および競合分析の概要を解説します",
+    "url": "https://www.atpress.ne.jp/news/5761278",
+    "pass": 3
+   },
+   {
+    "quote": "超高強度鋼市場：メーカー規模、世界市場分析、シェア、地域成長、上位主要プレーヤー、2033年予測 | Survey Reports合同会社のプレスリリース",
+    "url": "https://www.dreamnews.jp/press/0000307039",
+    "pass": 3
+   },
+   {
+    "quote": "超高強度鋼市場：メーカー規模、世界市場分析、シェア、地域成長、上位主要プレーヤー、2033年予測",
+    "url": "https://www.dreamnews.jp/press/0000307039",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、超高強度鋼市場シェアは、2033年末までに323億米ドルの感動的な収益を予測する",
+    "url": "https://www.dreamnews.jp/press/0000307039",
+    "pass": 3
+   },
+   {
+    "quote": "● 2033年までの世界のライドシェアリング市場（北米、ヨーロッパ、アジア太平洋地域、中南米）の需要と機会分析（日本を含む国別）",
+    "url": "https://www.dreamnews.jp/press/0000307039",
+    "pass": 3
+   },
+   {
+    "quote": "このうち、北米地域は2033年末までに最大の市場シェアを占めると予測されている",
+    "url": "https://www.dreamnews.jp/press/0000307039",
+    "pass": 3
+   },
+   {
+    "quote": "超高張力鋼市場規模、シェア、成長分析、セグメント、成長ドライバーと課題、および市場における主要企業、予測2035年",
+    "url": "https://www.sdki.jp/reports/ultra-high-strength-steel-market/109020",
+    "pass": 3
+   },
+   {
+    "quote": "中国は世界の化学物質の生産で主導的な地位を占めており、2019年の世界の化学物質販売の約40％のシェアを占めています",
+    "url": "https://www.sdki.jp/reports/ultra-high-strength-steel-market/109020",
+    "pass": 3
+   },
+   {
+    "quote": "シリンガアルデヒド市場調査レポート、規模とシェア、成長機会、主要メーカー及び傾向洞察分析― アプリケーション別、製造プロセス別、純度・グレード別、最終用途産業別及び地域別―世界市場の見通しと予測 2026－2035年",
+    "url": "https://www.sdki.jp/reports/ultra-high-strength-steel-market/109020",
+    "pass": 3
+   },
+   {
+    "quote": "プロピオンアルデヒド市場調査レポート、規模とシェア、成長機会、主要メーカー及び傾向洞察分析― アプリケーション別、製造プロセス別、純度・グレード別、最終用途産業別、流通チャネル別及び地域別―世界市場の見通しと予測 2026－2035年",
+    "url": "https://www.sdki.jp/reports/ultra-high-strength-steel-market/109020",
+    "pass": 3
+   },
+   {
+    "quote": "市場調査レポート: 超高強度鋼の市場規模、シェア、成長、および世界の業界分析、地域別動向、ならびに2026年から2034年までの予測",
+    "url": "https://www.gii.co.jp/report/fbs2149229-ultra-high-strength-steel-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "超高強度鋼の市場規模、シェア、成長、および世界の業界分析、地域別動向、ならびに2026年から2034年までの予測",
+    "url": "https://www.gii.co.jp/report/fbs2149229-ultra-high-strength-steel-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年、北米は49.07％のシェアを占め、世界の超高強度鋼市場を牽引しました",
+    "url": "https://www.gii.co.jp/report/fbs2149229-ultra-high-strength-steel-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業別の市場シェア・順位分析（2024年）",
+    "url": "https://www.gii.co.jp/report/fbs2149229-ultra-high-strength-steel-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "先進高強度鋼：市場シェア分析、業界動向と統計、成長予測（2026年～2031年）",
+    "url": "https://www.gii.co.jp/report/fbs2149229-ultra-high-strength-steel-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "高張力鋼：市場シェア分析、業界動向と統計、成長予測（2026年～2031年）",
+    "url": "https://www.gii.co.jp/report/fbs2149229-ultra-high-strength-steel-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "造船用鋼材の市場規模、シェア、および成長分析：鋼材製品タイプ別、材質グレード／規格別、船舶用途別、供給厚さ別、地域別―2026年～2033年の業界予測",
+    "url": "https://www.gii.co.jp/report/fbs2149229-ultra-high-strength-steel-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "By 2035, the High Strength Steel Market is expected to achieve robust growth and increased market share.",
+    "url": "https://www.marketresearchfuture.com/reports/high-strength-steel-market-5638",
+    "pass": 3
+   },
+   {
+    "quote": "Coverage of manufacturers representing 75-80% of global market share in 2024",
+    "url": "https://www.marketresearchfuture.com/reports/high-strength-steel-market-5638",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominates the Third Generation Advanced High-Strength Steel Market with the largest revenue share of 68.3% in 2024, characterized by its massive automotive production capacity, increasing adoption of lightweight, fuel-efficient vehicles.",
+    "url": "https://www.databridgemarketresearch.com/reports/global-third-generation-advanced-high-strength-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "The dual-phase (DP) segment is expected to dominate the Third Generation Advanced High-Strength Steel Market with a market share of 37.2% in 2024, driven by its excellent balance of strength and ductility, making it suitable for structural and crash-relevant components.",
+    "url": "https://www.databridgemarketresearch.com/reports/global-third-generation-advanced-high-strength-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "On the basis of hot rolled product type, the market is segmented into Strip and Quarto Plate. The Strip segment dominates the largest market revenue share of 64.1% in 2025, driven by its wide use in automotive and construction industries. Strips offer high dimensional accuracy and superior surface quality, essential for downstream forming operations.",
+    "url": "https://www.databridgemarketresearch.com/reports/global-third-generation-advanced-high-strength-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "On the basis of end user, the market is segmented into Passenger Car and Commercial Vehicle. The Passenger Car segment dominates the largest market revenue share of 71.4% in 2025, driven by large-scale production volumes and growing emphasis on vehicle weight reduction. OEMs are integrating Third Generation AHSS to meet emissions and safety norms.",
+    "url": "https://www.databridgemarketresearch.com/reports/global-third-generation-advanced-high-strength-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominates the Third Generation Advanced High-Strength Steel Market with the largest revenue share of 68.3% in 2024, driven by its massive automotive production capacity, increasing adoption of lightweight, fuel-efficient vehicles, and strong investment in advanced metallurgical research.",
+    "url": "https://www.databridgemarketresearch.com/reports/global-third-generation-advanced-high-strength-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. Third Generation Advanced High-Strength Steel market captured the largest revenue share of over 68.5% within North America in 2025, driven by growing demand for lightweight, fuel-efficient vehicles and stringent regulatory standards on carbon emissions. Automakers are increasingly adopting 3rd Gen AHSS for body-in-white components due to its superior formability and crash resistance.",
+    "url": "https://www.databridgemarketresearch.com/reports/global-third-generation-advanced-high-strength-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "By type: High strength low alloy segment segment dominated the market, with a revenue share of 36.5% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/high-strength-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "By application: Automotive segment held the largest market share of 81.1% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/high-strength-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "High strength low alloy segment segment dominated the market, with a revenue share of 36.5% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/high-strength-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific dominated the high strength steel market with the largest market revenue share of over 48.0% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/high-strength-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive segment held the largest market share of 81.1% in 2025",
+    "url": "https://www.grandviewresearch.com/industry-analysis/high-strength-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "of the global advanced high strength steel market share by 2034.",
+    "url": "https://www.factmr.com/report/2995/advanced-high-strength-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Chart on Market share by geography 2021-2027 (%)",
+    "url": "https://www.skyquestt.com/report/ahss-market",
+    "pass": 3
+   },
+   {
+    "quote": "Data Table on Market share by geography 2021-2027(%)",
+    "url": "https://www.skyquestt.com/report/ahss-market",
+    "pass": 3
+   },
+   {
+    "quote": "Chart on Market share by country 2021-2027 (%)",
+    "url": "https://www.skyquestt.com/report/ahss-market",
+    "pass": 3
+   },
+   {
+    "quote": "Data Table on Market share by country 2021-2027(%)",
+    "url": "https://www.skyquestt.com/report/ahss-market",
+    "pass": 3
+   },
+   {
+    "quote": "Exhibit: Chart on Market share 2021-2027 (%)",
+    "url": "https://www.skyquestt.com/report/ahss-market",
+    "pass": 3
+   },
+   {
+    "quote": "Exhibit: Pie chart analysis on company market share, 2021(%)",
+    "url": "https://www.skyquestt.com/report/ahss-market",
+    "pass": 3
+   },
+   {
+    "quote": "By product type, the dual-phase (DP) segment held the largest revenue share of over 52.0% in 2023.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/automotive-advanced-high-strength-steel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "In terms of application, body in white (BIW) segment held the largest revenue share of over 57.0% in 2023.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/automotive-advanced-high-strength-steel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The Asia Pacific automotive advanced high strength steel market accounted for the largest revenue share, exceeding 47.0% of the global market in 2023. The region's rising demand for passenger vehicles is positively influencing the demand for products in the region.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/automotive-advanced-high-strength-steel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": ", AHSS, and flat carbon steels. According to the company, it has a 25% market share in special steel.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/automotive-advanced-high-strength-steel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 14 High strength steel market, by type: Market share, 2025 & 2033",
+    "url": "https://uk.finance.yahoo.com/news/high-strength-steel-market-poised-084600282.html",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 16 High strength steel market, by application: Market share, 2025 & 2033",
+    "url": "https://uk.finance.yahoo.com/news/high-strength-steel-market-poised-084600282.html",
+    "pass": 3
+   },
+   {
+    "quote": "Body-in-White (BIW) is expected to remain the largest component segment, reaching $22,998.6 million by 2035. Demand is concentrated in pillars, roof rails, side sills, rockers, floor cross-members, front and rear rails, tunnels and passenger safety cages. These components are central to torsional stiffness, intrusion resistance, occupant protection and crashworthiness.",
+    "url": "https://uk.finance.yahoo.com/news/automotive-advanced-high-strength-steel-134800230.html",
+    "pass": 3
+   },
+   {
+    "quote": "5.4 Market Share Analysis",
+    "url": "https://uk.finance.yahoo.com/news/automotive-advanced-high-strength-steel-134800230.html",
+    "pass": 3
+   },
+   {
+    "quote": "5.5.1.7 Market Share, 2025",
+    "url": "https://uk.finance.yahoo.com/news/automotive-advanced-high-strength-steel-134800230.html",
+    "pass": 3
+   },
+   {
+    "quote": "5.4 Market Share Analysis",
+    "url": "https://bisresearch.com/industry-report/automotive-advanced-high-strength-steel-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "5.5.1.7 Market Share, 2025",
+    "url": "https://bisresearch.com/industry-report/automotive-advanced-high-strength-steel-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "5.5.2.7 Market Share, 2025",
+    "url": "https://bisresearch.com/industry-report/automotive-advanced-high-strength-steel-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "5.5.3.7 Market Share, 2025",
+    "url": "https://bisresearch.com/industry-report/automotive-advanced-high-strength-steel-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "5.5.4.7 Market Share, 2025",
+    "url": "https://bisresearch.com/industry-report/automotive-advanced-high-strength-steel-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "5.5.5.7 Market Share, 2025",
+    "url": "https://bisresearch.com/industry-report/automotive-advanced-high-strength-steel-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "5.5.6.7 Market Share, 2025",
+    "url": "https://bisresearch.com/industry-report/automotive-advanced-high-strength-steel-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "5.5.7.7 Market Share, 2025",
+    "url": "https://bisresearch.com/industry-report/automotive-advanced-high-strength-steel-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "5.5.8.7 Market Share, 2025",
+    "url": "https://bisresearch.com/industry-report/automotive-advanced-high-strength-steel-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "5.5.9.7 Market Share, 2025",
+    "url": "https://bisresearch.com/industry-report/automotive-advanced-high-strength-steel-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "5.5.10.7 Market Share, 2025",
+    "url": "https://bisresearch.com/industry-report/automotive-advanced-high-strength-steel-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "5.5.11.7 Market Share, 2025",
+    "url": "https://bisresearch.com/industry-report/automotive-advanced-high-strength-steel-market.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "超高張力鋼 の 市場規模 ・シェア | 成長 [2032] — 超高張力鋼 の 市場規模 ・シェア | 成長 [2032] Fortune Business Insights https://www.fortunebusinessinsights.com > ... > 金属・鉱物",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E8%B6%85%E9%AB%98%E5%BC%B5%E5%8A%9B%E9%8B%BC%E5%B8%82%E5%A0%B4-114895",
+    "pass": 3
+   },
+   {
+    "quote": "超高張力 鋼板 市場 分析レポート：2026年32076.99百万米ドル ... — 超高張力 鋼板 市場 分析レポート：2026年32076.99百万米ドル ... アットプレス https://www.atpress.ne.jp > ... > QY Research株式会社",
+    "url": "https://www.atpress.ne.jp/news/5761278",
+    "pass": 3
+   },
+   {
+    "quote": "世界の 超高張力 鋼板 市場 （2023年-2030年） - MarketReport.jp — 世界の 超高張力 鋼板 市場 （2023年-2030年） - MarketReport.jp MarketReport.jp https://www.marketreport.jp > ...",
+    "url": "https://www.marketreport.jp/datm24ma357",
+    "pass": 3
+   },
+   {
+    "quote": "超高張力鋼 の 市場 規模・シェア |成長 [2032] — 超高張力鋼 の 市場 規模・シェア |成長 [2032] Fortune Business Insights https://www.fortunebusinessinsights.com > ... > 金属・鉱物",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E8%B6%85%E9%AB%98%E5%BC%B5%E5%8A%9B%E9%8B%BC%E5%B8%82%E5%A0%B4-114895",
+    "pass": 3
+   },
+   {
+    "quote": "日産自動車、「 超高張力 鋼板」の採用を25%に拡大 — 日産自動車、「 超高張力 鋼板」の採用を25%に拡大 日産自動車ニュースルーム https://global.nissannews.com > ja-JP > releases",
+    "url": "https://global.nissannews.com/ja-JP/releases/130312-01-j",
+    "pass": 3
+   },
+   {
+    "quote": "超高張力鋼 の市場規模・シェア |成長 [2032] — 超高張力鋼 の市場規模・シェア |成長 [2032] Fortune Business Insights https://www.fortunebusinessinsights.com > ... > 金属・鉱物",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E8%B6%85%E9%AB%98%E5%BC%B5%E5%8A%9B%E9%8B%BC%E5%B8%82%E5%A0%B4-114895",
+    "pass": 3
+   },
+   {
+    "quote": "1.2 GPa級 高成形性超ハイテン材 - 自動車技術会 — 1.2 GPa級 高成形性超ハイテン材 - 自動車技術会 公益社団法人自動車技術会 https://www.jsae.or.jp > ... > 車体",
+    "url": "https://www.jsae.or.jp/autotech/category6/6-5/",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced High Strength Steel Market Size 2024-2028 — Advanced High Strength Steel Market Size 2024-2028 Technavio https://www.technavio.com > Steel",
+    "url": "https://www.technavio.com/report/advanced-high-strength-steel-market-size-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive Advanced High Strength Steel Market (2024 - 2030) — Automotive Advanced High Strength Steel Market (2024 - 2030) Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/automotive-advanced-high-strength-steel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive Advanced High Strength Steel ( AHSS ) Market | 9.8% — Automotive Advanced High Strength Steel ( AHSS ) Market | 9.8% Market.us https://market.us > report > automotiv...",
+    "url": "https://market.us/report/automotive-advanced-high-strength-steel-ahss-market/",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "North America dominates the Third Generation Advanced High-Strength Steel Market with the largest revenue share of 68.3% in 2024, driven by its massive automotive production capacity, increasing adoption of lightweight, fuel-efficient vehicles, and strong investment in advanced metallurgical research.",
+    "url": "https://www.databridgemarketresearch.com/reports/global-third-generation-advanced-high-strength-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "JSW Steel selected ANDRITZ to supply a continuous galvanizing line for its Toranagallu plant in Karnataka. The line is designed to produce automotive-grade advanced high-strength steel with tensile strengths up to 1,480 MPa and annual capacity of approximately 500,000 tonnes. Start-up is scheduled for 2028. This investment will expand India's domestic supply of value-added automotive steel.",
+    "url": "https://www.marketresearchfuture.com/reports/advanced-high-strength-steel-market-22784",
+    "pass": 3
+   },
+   {
+    "quote": "WorldAutoSteel reported findings from a vehicle front-body-structure study showing that greater use of advanced high-strength steel could reduce component count by up to 34%, vehicle weight by 8%, and component costs by 10%. The study also estimated potential manufacturing-investment savings of US$21 million, demonstrating AHSS's potential to improve vehicle design efficiency.",
+    "url": "https://www.marketresearchfuture.com/reports/advanced-high-strength-steel-market-22784",
+    "pass": 3
+   },
+   {
+    "quote": "In January 2022, SSAB announced that it is going to convert its plants in Lulea and Raahe (Sweden) into cost-effective mini mills by installing electric arc furnaces and rolling mills. This investment is expected to result in a wider range of SSAB's premium products, such as AHSS and quenched and tempered steel (Q&T).",
+    "url": "https://www.grandviewresearch.com/industry-analysis/automotive-advanced-high-strength-steel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "production plant in Bryan County, Georgia, with an investment of USD 5.5 billion. The company is aiming to commence commercial production by the first half of 2025 and intends to achieve an annual production capacity of 300,000 units.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/automotive-advanced-high-strength-steel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "High-Strength Steel Market Poised for Robust Growth Through 2033, Fueled by Lightweighting Trends, Infrastructure Investment and Rising Automotive Demand",
+    "url": "https://uk.finance.yahoo.com/news/high-strength-steel-market-poised-084600282.html",
+    "pass": 3
+   },
+   {
+    "quote": "The need for advanced tooling and stamping infrastructure adds further pressure. OEMs and Tier 1 suppliers must invest in upgraded presses, dies, and welding systems. Such investments create barriers, especially for smaller manufacturers with limited capital budgets.",
+    "url": "https://market.us/report/automotive-advanced-high-strength-steel-ahss-market/",
+    "pass": 3
+   },
+   {
+    "quote": "EV manufacturing and investment in coated and GPa-class capacity reinforce the region's market leadership. Important projects include POSCO's 1.5 GPa galvanized GIGA STEEL line and Indian coated-AHSS expansion. North America and Europe also present opportunities linked to localized supply, automotive-grade galvanizing capacity, emissions targets and low-carbon steel procurement.",
+    "url": "https://uk.finance.yahoo.com/news/automotive-advanced-high-strength-steel-134800230.html",
+    "pass": 3
+   },
+   {
+    "quote": "1.8 Investment Landscape and R&D Trends",
+    "url": "https://uk.finance.yahoo.com/news/automotive-advanced-high-strength-steel-134800230.html",
+    "pass": 3
+   },
+   {
+    "quote": "1.8.1 Investment Landscape",
+    "url": "https://uk.finance.yahoo.com/news/automotive-advanced-high-strength-steel-134800230.html",
+    "pass": 3
+   },
+   {
+    "quote": "1.8.3 Investment Priorities and R&D Emphasis",
+    "url": "https://uk.finance.yahoo.com/news/automotive-advanced-high-strength-steel-134800230.html",
+    "pass": 3
+   },
+   {
+    "quote": "1.8 Investment Landscape and R&D Trends",
+    "url": "https://bisresearch.com/industry-report/automotive-advanced-high-strength-steel-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "1.8.1 Investment Landscape",
+    "url": "https://bisresearch.com/industry-report/automotive-advanced-high-strength-steel-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "1.8.3 Investment Priorities and R&D Emphasis",
+    "url": "https://bisresearch.com/industry-report/automotive-advanced-high-strength-steel-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Table 14: Investment Landscape",
+    "url": "https://bisresearch.com/industry-report/automotive-advanced-high-strength-steel-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Table 16: Investment Priorities and R&D Emphasis",
+    "url": "https://bisresearch.com/industry-report/automotive-advanced-high-strength-steel-market.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "5.71",
+    "url": "https://www.atpress.ne.jp/news/5761278",
+    "quote": "2026年から2032年における年平均成長率（CAGR）は5.71%となり、世界的な自動車電動化、車体軽量化、高強度材料への置換需要が市場拡大を牽引する主要因となる"
+   },
+   {
+    "value": "5.62",
+    "url": "https://www.atpress.ne.jp/news/5761278",
+    "quote": "用途別では、自動車・輸送分野が2025年に市場全体の75.52%を占め、2032年には33,740百万米ドルまで拡大する見通しであり、予測期間中のCAGRは5.62%と安定した成長が見込まれている"
+   },
+   {
+    "value": "4.49",
+    "url": "https://www.atpress.ne.jp/news/5761278",
+    "quote": "世界の炭酸カリウム顆粒市場動向、年平均成長率4.49%で拡大継続2026-2032"
+   },
+   {
+    "value": "9.8",
+    "url": "https://www.atpress.ne.jp/news/5761278",
+    "quote": "無水乳脂肪の世界市場規模：年平均成長率9.8%予測、最新トレンドと需要変化2026-2032"
+   },
+   {
+    "value": "9.5",
+    "url": "https://www.atpress.ne.jp/news/5761278",
+    "quote": "世界の酸化アルミニウム銅市場動向、年平均成長率9.5%で拡大継続2026-2032"
+   },
+   {
+    "value": "11.7",
+    "url": "https://www.atpress.ne.jp/news/5761278",
+    "quote": "【最新予測】治療用抗体発見サービス市場規模、2026年に2144百万米ドルへ｜年平均成長率11.7%で推移予測"
+   },
+   {
+    "value": "6.6",
+    "url": "https://www.gii.co.jp/report/fbs2149229-ultra-high-strength-steel-market-size-share-growth.html",
+    "quote": "同市場は2025年に89億9,000万米ドル、2032年までに150億8,000万米ドルに達すると予測されており、予測期間中はCAGR 6.6％を示すと見込まれています"
+   },
+   {
+    "value": "7.66",
+    "url": "https://www.marketresearchfuture.com/reports/high-strength-steel-market-5638",
+    "quote": "As per MRFR analysis, the High Strength Steel Market Size was estimated at 50.1 USD Billion in 2024. The High Strength Steel industry is projected to grow from 53.94 USD Billion in 2025 to 112.87 USD Billion by 2035, exhibiting a compound annual growth rate (CAGR) of 7.66% during the forecast period"
+   },
+   {
+    "value": "10.5",
+    "url": "https://www.databridgemarketresearch.com/reports/global-third-generation-advanced-high-strength-steel-market",
+    "quote": "CAGR of 10.5%"
+   },
+   {
+    "value": "10.1",
+    "url": "https://www.databridgemarketresearch.com/reports/global-third-generation-advanced-high-strength-steel-market",
+    "quote": "The Asia-Pacific Third Generation Advanced High-Strength Steel market is set to record the fastest CAGR of over 10.1% in 2025, driven by rapid urbanization, infrastructure growth, and booming automotive industries in China, India, South Korea, and Southeast Asia."
+   },
+   {
+    "value": "8.90",
+    "url": "https://www.databridgemarketresearch.com/reports/global-third-generation-advanced-high-strength-steel-market",
+    "quote": "The Third Generation Advanced High Strength Steel Market is projected to grow at a CAGR of 8.90% during the forecast period by 2028."
+   },
+   {
+    "value": "9.0",
+    "url": "https://www.grandviewresearch.com/industry-analysis/high-strength-steel-market",
+    "quote": "CAGR of 9.0% from 2026 to 2033"
+   },
+   {
+    "value": "10.01",
+    "url": "https://www.marketresearchfuture.com/reports/advanced-high-strength-steel-market-22784",
+    "quote": "As per Market Research Future analysis, the Advanced High Strength Steel Market Size was estimated at 64.69 USD Billion in 2024. The Advanced High Strength Steel industry is projected to grow from 71.17 USD Billion in 2025 to 184.8 USD Billion by 2035, exhibiting a compound annual growth rate (CAGR)"
+   },
+   {
+    "value": "7.9",
+    "url": "https://www.factmr.com/report/2995/advanced-high-strength-steel-market",
+    "quote": "CAGR of 7.9%"
+   },
+   {
+    "value": "8.7",
+    "url": "https://www.skyquestt.com/report/ahss-market",
+    "quote": "AHSS (Advanced High Strength Steel) Market size was valued at USD 27.5 Billion in 2024 and is poised to grow from USD 29.89 Billion in 2025 to USD 58.26 Billion by 2033, growing at a CAGR of 8.7% during the forecast period (2026–2033)."
+   },
+   {
+    "value": "7.3",
+    "url": "https://www.grandviewresearch.com/industry-analysis/automotive-advanced-high-strength-steel-market-report",
+    "quote": "The suspension segment is anticipated to grow by a CAGR of 7.3% over the forecast period. The relevance of a product in suspension is based on its properties, such as strength, durability, weight reduction, and cost efficiency. The use of products in the suspension system allows manufacturers to eff"
+   },
+   {
+    "value": "6.4",
+    "url": "https://www.grandviewresearch.com/industry-analysis/automotive-advanced-high-strength-steel-market-report",
+    "quote": "CAGR of 6.4% from 2024 to 2030"
+   }
+  ],
+  "市場規模USD": [
+   {
+    "value": "50.1",
+    "url": "https://www.marketresearchfuture.com/reports/high-strength-steel-market-5638",
+    "quote": "$ 50.1 Billion"
+   },
+   {
+    "value": "53.94",
+    "url": "https://www.marketresearchfuture.com/reports/high-strength-steel-market-5638",
+    "quote": "$ 53.94 Billion"
+   },
+   {
+    "value": "112.87",
+    "url": "https://www.marketresearchfuture.com/reports/high-strength-steel-market-5638",
+    "quote": "$ 112.87 Billion"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E8%B6%85%E9%AB%98%E5%BC%B5%E5%8A%9B%E9%8B%BC%E5%B8%82%E5%A0%B4-114895",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/5761278",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketreport.jp/datm24ma357",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dreamnews.jp/press/0000307039",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sdki.jp/reports/ultra-high-strength-steel-market/109020",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/1483199",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/2412727",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/high-strength-steel-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/fbs2149229-ultra-high-strength-steel-market-size-share-growth.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yhresearch.co.jp/news/2893/high-strength-steel-sheets",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nipponsteel.com/news/20150525_100.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissan-global.com/JP/INNOVATION/TECHNOLOGY/ARCHIVE/HIGH_TEN/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://global.nissannews.com/ja-JP/releases/130312-01-j",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/6115/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jsae.or.jp/autotech/category6/6-5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/high-strength-steel-market-5638",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/high-strength-steel-market-101854",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.databridgemarketresearch.com/reports/global-third-generation-advanced-high-strength-steel-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/high-strength-steel-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.technavio.com/report/advanced-high-strength-steel-market-size-industry-analysis",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/advanced-high-strength-steel-market-22784",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.factmr.com/report/2995/advanced-high-strength-steel-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skyquestt.com/report/ahss-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/automotive-advanced-high-strength-steel-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uk.finance.yahoo.com/news/high-strength-steel-market-poised-084600282.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/automotive-advanced-high-strength-steel-ahss-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uk.finance.yahoo.com/news/automotive-advanced-high-strength-steel-134800230.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bisresearch.com/industry-report/automotive-advanced-high-strength-steel-market.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oedit.colorado.gov/advanced-industries-early-stage-capital-retention-grant",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/blogs/top-25-companies-in-global-ultra-high-strength-steel-uhss-market-2025-2035-spherical-insights-analysis",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "超高張力鋼（ギガパスカル級） 市場規模 年平均成長率",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E8%B6%85%E9%AB%98%E5%BC%B5%E5%8A%9B%E9%8B%BC%E5%B8%82%E5%A0%B4-114895",
+    "https://www.atpress.ne.jp/news/5761278",
+    "https://www.marketreport.jp/datm24ma357",
+    "https://www.dreamnews.jp/press/0000307039",
+    "https://www.sdki.jp/reports/ultra-high-strength-steel-market/109020",
+    "https://www.gminsights.com/ja/industry-analysis/steel-market-for-automotive-and-aerospace-applications",
+    "https://www.mordorintelligence.com/ja/industry-reports/ultra-high-strength-steel-market",
+    "https://www.databridgemarketresearch.com/jp/reports/global-automotive-advanced-high-strength-steel-ahss-market",
+    "https://www.yhresearch.co.jp/news/2893/high-strength-steel-sheets",
+    "https://www.fortunebusinessinsights.com/jp/超高張力鋼市場-114895"
+   ]
+  },
+  {
+   "query": "超高張力鋼（ギガパスカル級） 市場 予測 富士経済 OR 矢野経済 OR シーエムシー",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E8%B6%85%E9%AB%98%E5%BC%B5%E5%8A%9B%E9%8B%BC%E5%B8%82%E5%A0%B4-114895",
+    "https://www.marketreport.jp/datm24ma357",
+    "https://www.atpress.ne.jp/news/1483199",
+    "https://www.dreamnews.jp/press/0000307039",
+    "https://www.sdki.jp/reports/ultra-high-strength-steel-market/109020",
+    "https://newscast.jp/news/2412727",
+    "https://www.mordorintelligence.com/ja/industry-reports/high-strength-steel-market",
+    "https://www.gii.co.jp/report/fbs2149229-ultra-high-strength-steel-market-size-share-growth.html",
+    "https://www.yhresearch.co.jp/news/2893/high-strength-steel-sheets"
+   ]
+  },
+  {
+   "query": "超高張力鋼（ギガパスカル級） 参入 企業 国内",
+   "results": [
+    "https://www.nipponsteel.com/news/20150525_100.html",
+    "https://www.nissan-global.com/JP/INNOVATION/TECHNOLOGY/ARCHIVE/HIGH_TEN/",
+    "https://global.nissannews.com/ja-JP/releases/130312-01-j",
+    "https://metoree.com/categories/6115/",
+    "https://www.fortunebusinessinsights.com/jp/%E8%B6%85%E9%AB%98%E5%BC%B5%E5%8A%9B%E9%8B%BC%E5%B8%82%E5%A0%B4-114895",
+    "https://www.jsae.or.jp/autotech/category6/6-5/",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/00001/06488/",
+    "https://www.jfe-steel.co.jp/release/2020/12/201223.html",
+    "https://autoprove.net/japanese-car/nissan/131124/",
+    "https://note.com/qy_research/n/n1c40e62c866f"
+   ]
+  },
+  {
+   "query": "advanced high strength steel market size CAGR 2025",
+   "results": [
+    "https://www.marketresearchfuture.com/reports/high-strength-steel-market-5638",
+    "https://www.fortunebusinessinsights.com/industry-reports/high-strength-steel-market-101854",
+    "https://www.databridgemarketresearch.com/reports/global-third-generation-advanced-high-strength-steel-market",
+    "https://www.grandviewresearch.com/industry-analysis/high-strength-steel-market",
+    "https://www.technavio.com/report/advanced-high-strength-steel-market-size-industry-analysis",
+    "https://www.linkedin.com/pulse/comprehensive-analysis-advanced-high-strength-steel-market-nkvwf",
+    "https://dataintelo.com/report/global-third-generation-advanced-high-strength-steel-market",
+    "https://www.sphericalinsights.com/reports/united-states-third-generation-advanced-high-strength-steel-market",
+    "https://www.researchandmarkets.com/reports/6181592/advanced-high-strength-steel-market-report?srsltid=AYCX9vK35N4xtwWm616ysGhCxaXanSH7O4wL6F8pHih11E6R_GwwXMRP",
+    "https://www.mordorintelligence.com/industry-reports/advanced-high-strength-steel-market"
+   ]
+  },
+  {
+   "query": "advanced high strength steel market key players competitive landscape",
+   "results": [
+    "https://www.marketresearchfuture.com/reports/advanced-high-strength-steel-market-22784",
+    "https://www.fortunebusinessinsights.com/industry-reports/high-strength-steel-market-101854",
+    "https://www.factmr.com/report/2995/advanced-high-strength-steel-market",
+    "https://www.skyquestt.com/report/ahss-market",
+    "https://www.linkedin.com/pulse/comprehensive-analysis-advanced-high-strength-steel-market-nkvwf",
+    "https://www.grandviewresearch.com/industry-analysis/automotive-advanced-high-strength-steel-market-report",
+    "https://uk.finance.yahoo.com/news/high-strength-steel-market-poised-084600282.html",
+    "https://www.strategicmarketresearch.com/market-report/automotive-advanced-high-strength-steel-market",
+    "https://www.marketresearch.com/Lucintel-v2747/Advanced-High-Strength-Steel-Trends-42691344/",
+    "https://www.mordorintelligence.com/industry-reports/advanced-high-strength-steel-market"
+   ]
+  },
+  {
+   "query": "advanced high strength steel startup funding 2025",
+   "results": [
+    "https://market.us/report/automotive-advanced-high-strength-steel-ahss-market/",
+    "https://uk.finance.yahoo.com/news/automotive-advanced-high-strength-steel-134800230.html",
+    "https://bisresearch.com/industry-report/automotive-advanced-high-strength-steel-market.html",
+    "https://www.skyquestt.com/report/ahss-market",
+    "https://oedit.colorado.gov/advanced-industries-early-stage-capital-retention-grant",
+    "https://www.grandviewresearch.com/industry-analysis/high-strength-steel-market",
+    "https://www.sphericalinsights.com/blogs/top-25-companies-in-global-ultra-high-strength-steel-uhss-market-2025-2035-spherical-insights-analysis",
+    "https://www.worldautosteel.org/",
+    "https://www.ussteel.com/media/newsroom/-/blogs/u-s-steel-unveils-new-era-of-growth",
+    "https://finance.yahoo.com/markets/stocks/articles/automotive-advanced-high-strength-steel-134800970.html?fr=sycsrp_catchall"
+   ]
+  }
+ ],
+ "missing": {}
+}

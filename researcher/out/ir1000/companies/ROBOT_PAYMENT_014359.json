@@ -1,0 +1,1652 @@
+{
+ "name": "ＲＯＢＯＴ　ＰＡＹＭＥＮＴ",
+ "aliases": [],
+ "context": "証券コード4374／情報・通信業／グロース（内国株式）／2025.12期 売上高3,256百万円 営業利益率23.8%",
+ "researched_at": "2026-11-02T17:46:34.323225+00:00",
+ "official_url": "https://www.robotpayment.co.jp/",
+ "identified_by": "search:yahoo_jp:ROBOT PAYMENT",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立年月",
+    "value": "2000年10月(平成12年10月)",
+    "url": "https://www.robotpayment.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "・設立",
+    "value": "2010年7月",
+    "url": "https://www.nikkei.com/article/DGXZRSP687120_Z10C25A2000000/",
+    "pass": 3
+   },
+   {
+    "label": "・設立",
+    "value": "2000年10月",
+    "url": "https://www.nikkei.com/article/DGXZRSP687120_Z10C25A2000000/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "フィナンシャルクラウド事業 ペイメント事業",
+    "url": "https://www.robotpayment.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "154名 ※臨時従業員を含み、派遣社員・業務委託を除く",
+    "url": "https://www.robotpayment.co.jp/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "サブスクビジネスに必要な機能がワンパッケージになった自動決済・顧客管理サービス",
+    "url": "https://www.robotpayment.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "旧来の商取引における慣習や非効率な取引手続き、さらには取引先に対する与信の問題が企業の資金循環を妨げ、潜在的な力を発揮できない企業が日本には数多く存在しています",
+    "url": "https://www.robotpayment.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "※お客様側のセキュリティ設定で、ユーザー受信拒否と認識されているか、迷惑メール対策等で、ドメイン指定受信拒否を設定されている場合、お問い合わせに対するメールが正しく届かないことがあります",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクビジネスは成長の鍵ですが、顧客が増えるほど管理は複雑になります",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/dx/",
+    "pass": 1
+   },
+   {
+    "quote": "導入企業規模",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/dx/",
+    "pass": 1
+   },
+   {
+    "quote": "業界別導入企業",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/dx/",
+    "pass": 1
+   },
+   {
+    "quote": "旧来の商取引における慣習や非効率な取引手続き、さらには取引先に対する与信の問題が企業の資金循環を妨げ、潜在的な力を発揮できない企業が日本には数多く存在しています",
+    "url": "https://www.robotpayment.co.jp/ir/management/message/",
+    "pass": 1
+   },
+   {
+    "quote": "「サブスクペイ」は、2000年の創業時から「インターネット決済代行サービス」として提供している、BtoC、BtoB向けのサブスクビジネスに特化した顧客管理・自動決済ソリューションです",
+    "url": "https://www.robotpayment.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、クレジットカード会社や銀行などの決済事業者と決済を利用したい企業・加盟店をつなぎ、決済・顧客管理・課金システムなどの決済手段を一括して提供しています",
+    "url": "https://www.robotpayment.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "また、顧客との接点となるWebサイトの作成・顧客情報の収集・決済・プラン変更・解約までワンパッケージで完結できるのが特徴です",
+    "url": "https://www.robotpayment.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "クレジットカード決済・口座振替・バンクチェック（銀行振込・バーチャル口座）コンビニ決済サービス 払込票方式（請求書払い）をラインアップしており、顧客数・請求件数の急激な増加へ対応することで企業の競争力を高めます",
+    "url": "https://www.robotpayment.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "営業活動や顧客との契約条件に影響を与えることなく、柔軟に導入できます",
+    "url": "https://www.robotpayment.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "決済事業者から当社に顧客企業（加盟店）の売上代金が入金され、その後顧客企業に送金するまでの間に資金が滞留します",
+    "url": "https://www.robotpayment.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "当社内に滞留する期間は、その分貸借対照表に置いて、現金・預り金が増え、顧客企業へ送金されると、その分貸借対照表に置いて現金・預り金が減ります",
+    "url": "https://www.robotpayment.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客企業の売上代金は銀行やカード会社などの各決済事業者から当社へ入金されたのち、最大50日間当社に滞留し、当社から顧客企業へ送金されます",
+    "url": "https://www.robotpayment.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "一方、顧客企業と当社間で決まっている出金サイクルが主に末締め翌月末払い・末締め翌々月20日であるためです",
+    "url": "https://www.robotpayment.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクビジネスは成長の鍵ですが、顧客が増えるほど管理は複雑になります",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/dx/column/",
+    "pass": 1
+   },
+   {
+    "quote": "導入企業規模",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/dx/column/",
+    "pass": 1
+   },
+   {
+    "quote": "業界別導入企業",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/dx/column/",
+    "pass": 1
+   },
+   {
+    "quote": "導入企業規模",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/dx/interview/",
+    "pass": 1
+   },
+   {
+    "quote": "業界別導入企業",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/dx/interview/",
+    "pass": 1
+   },
+   {
+    "quote": "愛和税理士法人は「お客様にとって何がベストか？」を常に考え、行動する税理士事務所です",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/comment.html",
+    "pass": 1
+   },
+   {
+    "quote": "弊社でもテレワークの導入・運用、書類の電子化等、日々改善を試行しながら、そこで得た経験をお客様にもお伝えすることで、より早く、より正確で、より楽な経理業務の実現をお手伝いしております",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/comment.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様と共にシステムを構築しながら、働き方が変化していく様を見るのは嬉しいですし、やりがいでもあります",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/comment.html",
+    "pass": 1
+   },
+   {
+    "quote": "業務の完全なる電子（オンライン）化への取り組みは当社のみではなく、取引先企業様引いては、全国の企業様が抱える課題ではありますが、相互協力を図ることで実現可能な課題であると考えます",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/comment.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社invoxは、取引先からどんな形式の請求書が届いても、自動で振込データや仕訳データを生成するクラウドサービス「invox」を提供しています",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/comment.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、新型コロナウイルス感染拡大の防止及びお客様や従業員並びに関係者皆様の感染リスクを低減し、安全を確保するとともに、サービスを継続的かつ安定的に提供するため、2020年2月より段階的に在宅勤務を推進し、2020年4月6日より全社員原則在宅勤務を導入、2021年7月末まで継続予定です",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/comment.html",
+    "pass": 1
+   },
+   {
+    "quote": "これを実現するには、自社だけでなく取引先を含めた社会全体が進化していく必要があると思い、今回のプロジェクトに賛同致しました",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/comment.html",
+    "pass": 1
+   },
+   {
+    "quote": "「お客様と共によろこびを追求し続ける創造企業」を使命とする弊社にとって、ペーパーレスや自動化を推進し、生産性向上に役立てることこそが存在価値です",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/comment.html",
+    "pass": 1
+   },
+   {
+    "quote": "本プロジェクトの広まりを推進すると同時に、弊社のミッションである「テクノロジーによりバックオフィスがワクワク働ける環境作り」の実現のため、業務自動化を通じたお客様の生産性向上、新たな価値創出への貢献に日々取り組んでいきます",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/comment.html",
+    "pass": 1
+   },
+   {
+    "quote": "多くのお取引先様と共にさらなる成長を目指し、デジタル化へのチャレンジを共有→共感→協働にと推進していくために、経理からも更なる一歩を踏み出したいと考えています",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/comment.html",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプション事業者様が「SIOS bilink」を利用することで、顧客毎に異なる割引率の適用やトライアル期間の設定など、各種施策への対応が可能となります",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/comment.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、顧客管理システムや請求書発行システムなどとの連携が容易であるため、経理部門の請求業務を効率的に行えるようになります",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/comment.html",
+    "pass": 1
+   },
+   {
+    "quote": "私どもはお客様にいつまでも強く必要として頂くために時代の最先端を視野にさらなる努力をしていきます",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/comment.html",
+    "pass": 1
+   },
+   {
+    "quote": "セールスフォース・ドットコムは、即座に最先端テクノロジーを使えるよう「テクノロジーの民主化」を推進し、企業と顧客が新しいカタチでつながることをサポートすることに貢献してきました",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/comment.html",
+    "pass": 1
+   },
+   {
+    "quote": "特に最近ではSNSの利用が拡大し、専門的な材料の情報やレシピコンテンツが簡単に手に入るようになったことで、幅広い層のお客様が料理を楽しむようになりました",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/comment.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は業務プロセスの最後にある経理のデジタル化にとどまらず、会社全体の業務プロセスのデザインをし直すことが、全ての部門の生産性向上、またお客様への新たな価値の提供につながると考えています",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/comment.html",
+    "pass": 1
+   },
+   {
+    "quote": "このプロジェクトを通じて社内の業務プロセスや情報のデジタル化を進め、当社に蓄積されている100年分の知見を形にし、今後も多くのお客様に料理を楽しんでいただけるような商品の企画、提供に取り組んでまいります",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/comment.html",
+    "pass": 1
+   },
+   {
+    "quote": "「紙の請求書の電子化」を推進するには自社だけでなく取引先の協力を得ることが重要です",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/comment.html",
+    "pass": 1
+   },
+   {
+    "quote": "柔軟な働き方が求められる昨今、弊社は経費精算や勤怠管理をはじめとする各種申請のワークフローを“リアルタイム・時短・見える化”を実現するクラウドサービスにより提供し、顧客企業の働き方改革の推進や電子化への対応をサポートしてきました",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/comment.html",
+    "pass": 1
+   },
+   {
+    "quote": "その理由の一つが、まだまだ請求書は紙で郵送してほしい取引先が多いから・・",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/comment.html",
+    "pass": 1
+   },
+   {
+    "quote": "この取り組みは、自社に限らず取引先を含め社会全体で促進していかなければならない取り組みであると実感しています",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/comment.html",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプション事業者様が「SIOS bilink」を利用することで、顧客毎に異なる割引率の適用やトライアル期間の設定など、",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/pro_comment.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、顧客管理システムや請求書発行システムなどとの連携が容易であるため、経理部門の請求業務を効率的に行えるようになります",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/pro_comment.html",
+    "pass": 1
+   },
+   {
+    "quote": "手順書の作成時間を大幅に削減するだけでなく、人材育成効率化や顧客満足度の向上など、様々な成果が報告されています",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/pro_comment.html",
+    "pass": 1
+   },
+   {
+    "quote": "導入企業規模",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/dx/payment/",
+    "pass": 1
+   },
+   {
+    "quote": "業界別導入企業",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/dx/payment/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先と請求情報の登録だけで請求業務が完了...",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/dx/payment/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスク（定額制サービス）の定期的な決済処理と、法人顧客の経費精算に必要なイン...",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/dx/payment/",
+    "pass": 1
+   },
+   {
+    "quote": "「サブスクペイ Professional」は、自動決済や顧客管理などの機能がワンパッケージになったサブスク管理サービスです",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/dx/payment/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客との接点となるWebサイトの作成から、顧客情報の収集、決済、プラン変更・解約まで...",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/dx/payment/",
+    "pass": 1
+   },
+   {
+    "quote": "請求管理ロボの対象市場は、シェア0.7％と顧客獲得余地が大きい",
+    "url": "https://www.robotpayment.co.jp/ir/img/ir-data_oct2025_jp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客基盤の統合と AI人材の育成により、新",
+    "url": "https://www.robotpayment.co.jp/ir/img/ir-data_oct2025_jp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ROBOT PAYMENT、顧客管理・自動決済サービス「サブスクペイ」がライフカードとの協働で新サービス分野へ対応を拡大 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZRSP687120_Z10C25A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ROBOT PAYMENT、顧客管理・自動決済サービス「サブスクペイ」がライフカードとの協働で新サービス分野へ対応を拡大",
+    "url": "https://www.nikkei.com/article/DGXZRSP687120_Z10C25A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客管理・自動決済サービス「サブスクペイ」が新たなサービス分野への対応を拡大",
+    "url": "https://www.nikkei.com/article/DGXZRSP687120_Z10C25A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ROBOT PAYMENT（証券コード : 4374、以下「当社」）は、当社が提供する顧客管理・自動決済サービス「サブスクペイ」において、新たなビジネス分野やサービスモデルへの対応をさらに拡大しました",
+    "url": "https://www.nikkei.com/article/DGXZRSP687120_Z10C25A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "■顧客管理・自動決済サービス「サブスクペイ」",
+    "url": "https://www.nikkei.com/article/DGXZRSP687120_Z10C25A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "「サブスクペイ」は、サブスクビジネスに特化した顧客管理・自動決済サービスです",
+    "url": "https://www.nikkei.com/article/DGXZRSP687120_Z10C25A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との接点となるWebサイトの作成から、顧客情報の収集、決済、プラン変更・解約までワンパッケージで完結します",
+    "url": "https://www.nikkei.com/article/DGXZRSP687120_Z10C25A2000000/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "バックオフィスDXサービスを探す",
+    "url": "https://www.robotpayment.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お金をつなぐ様々な革新的サービスで社会課題を解決し、日本における中小企業や基幹産業が持つ本来の力を発揮できるよう、お金の流れを潤滑にすることで、商取引が円滑に進み、新たな価値が次々と生まれる機会を創出してまいります",
+    "url": "https://www.robotpayment.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "革新的な決済インフラで、商取引を自由にする様々なソリューションを提供します",
+    "url": "https://www.robotpayment.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクビジネスに必要な機能がワンパッケージになった自動決済・顧客管理サービス",
+    "url": "https://www.robotpayment.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "請求・集金・消込・催促などの請求業務や債権管理をすべて自動化し、経理の業務負荷を軽減するクラウドサービス",
+    "url": "https://www.robotpayment.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "与信審査から請求書の発行・送付、消込、催促・督促をすべて代行し、売掛金100%保証付の企業間請求代行サービス",
+    "url": "https://www.robotpayment.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お手持ちのカードを利用し、支払いを最大60日延長することで資金繰り改善に役立つ請求書カード払いサービス",
+    "url": "https://www.robotpayment.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "都度発生する商取引を一定期間でまとめて請求し、一括で代金回収を行う、BtoB向けの企業間決済代行サービス",
+    "url": "https://www.robotpayment.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "企業間請求代行サービス 「請求まるなげロボ」、 累計請求書発行件数10万件を突破",
+    "url": "https://www.robotpayment.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "一部サービス停止のお知らせ",
+    "url": "https://www.robotpayment.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "電力小売サービス「Looopでんき」を展開する株式会社Looopが、督促・回収のデジタルインフラ「債権回収ロボ」を導入",
+    "url": "https://www.robotpayment.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "バックオフィスDXサービスを探す",
+    "url": "https://www.robotpayment.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は2000年、インターネット決済の黎明期にインターネット決済サービス（「サブスクペイ」）を開始いたしました",
+    "url": "https://www.robotpayment.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、商取引を阻む3つの壁に対して、お金をつなぐ様々な革新的サービスで解決いたします",
+    "url": "https://www.robotpayment.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "スマートなサービスを追求する",
+    "url": "https://www.robotpayment.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "バックオフィスDXサービスを探す",
+    "url": "https://www.robotpayment.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "バックオフィスDXサービスを探す",
+    "url": "https://www.robotpayment.co.jp/en/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "DXサービスを探す",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/",
+    "pass": 1
+   },
+   {
+    "quote": "バックオフィスDXサービスを探す",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/",
+    "pass": 1
+   },
+   {
+    "quote": "・本サービス実施にかかるコンピュータシステムの保守点検または更新を行う場合",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/",
+    "pass": 1
+   },
+   {
+    "quote": "・参加に使用するSNSや署名サービスが中断または中止した場合",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、参加者に予告することなく、本プロジェクトの内容の一部または全部を変更し、もしくは本サービスの提供を中止することがあります",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/",
+    "pass": 1
+   },
+   {
+    "quote": "DXサービスを探す | 日本の経理をもっと自由に",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/dx/",
+    "pass": 1
+   },
+   {
+    "quote": "DXサービスを探す",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/dx/",
+    "pass": 1
+   },
+   {
+    "quote": "「バックオフィス業務効率化」に活用できるおすすめサービスを、",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/dx/",
+    "pass": 1
+   },
+   {
+    "quote": "【2026年】掛け払い決済代行サービスおすすめ5選を比較",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/dx/",
+    "pass": 1
+   },
+   {
+    "quote": "厳選した5つの掛け払い決済代行サービスについて、特徴や手数料、対応した支払い方法を比較します",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/dx/",
+    "pass": 1
+   },
+   {
+    "quote": "掛け払い決済代行サービスとは、企業間取引における後払い決済の業務を代行するサービスです",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/dx/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス選びのポイントやメリットも紹介...",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/dx/",
+    "pass": 1
+   },
+   {
+    "quote": "バックオフィスDXサービスを探す",
+    "url": "https://www.robotpayment.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "バックオフィスDXサービスを探す",
+    "url": "https://www.robotpayment.co.jp/biz/news/245",
+    "pass": 1
+   },
+   {
+    "quote": "DXサービスを探す",
+    "url": "https://www.robotpayment.co.jp/biz/news/245",
+    "pass": 1
+   },
+   {
+    "quote": "バックオフィスDXサービスを探す",
+    "url": "https://www.robotpayment.co.jp/ir/management/message/",
+    "pass": 1
+   },
+   {
+    "quote": "加えて、さらなる成長を求め、キャピタルアロケーションや投資対効果を綿密に計算しつつ、既存サービスの拡張や派生による新規事業やM&Aなどに向けた投資を実行してまいります",
+    "url": "https://www.robotpayment.co.jp/ir/management/message/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、商取引を阻む3つの壁に対して、お金をつなぐ様々な革新的サービスで解決いたします",
+    "url": "https://www.robotpayment.co.jp/ir/management/message/",
+    "pass": 1
+   },
+   {
+    "quote": "バックオフィスDXサービスを探す",
+    "url": "https://www.robotpayment.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "「サブスクペイ」は、2000年の創業時から「インターネット決済代行サービス」として提供している、BtoC、BtoB向けのサブスクビジネスに特化した顧客管理・自動決済ソリューションです",
+    "url": "https://www.robotpayment.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "クレジットカード決済・口座振替・バンクチェック（銀行振込・バーチャル口座）コンビニ決済サービス 払込票方式（請求書払い）をラインアップしており、顧客数・請求件数の急激な増加へ対応することで企業の競争力を高めます",
+    "url": "https://www.robotpayment.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "「請求まるなげロボ」は、2019年から提供しているBtoB取引における請求業務を完全代行し、企業のキャッシュフロー改善を支援するサービス です",
+    "url": "https://www.robotpayment.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "「1click後払い」は、2022年から提供しているカード決済を利用した法人間のBNPLサービスです",
+    "url": "https://www.robotpayment.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "その後、買い手企業による実際のキャッシュアウトは、クレジットカード利用の場合、クレジット会社の支払いサイクルに合わせて最大60日延長可能にし、資金繰りの改善を支援するサービスです",
+    "url": "https://www.robotpayment.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "「1click早マール」は、売り手企業が発行した請求書の売掛金を、最短3営業日で資金化できる早期入金サービスです",
+    "url": "https://www.robotpayment.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "当社が事業者間決済サービスプロバイダー（BBPS）として加盟店業務を代行することで、与信リスクを低減し、未回収時の負担軽減につなげます",
+    "url": "https://www.robotpayment.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "「ファクタリングロボ for Saas」は、SaaS事業者向けに特化した売掛金の早期金化サービスです",
+    "url": "https://www.robotpayment.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "ROBOT PAYMENTが提供する各サービスの収益モデルを、課金体系・ターゲットごとにマッピングしています",
+    "url": "https://www.robotpayment.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "バックオフィスDXサービスを探す",
+    "url": "https://www.robotpayment.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は2000年、インターネット決済の黎明期にインターネット決済サービス（「サブスクペイ」）を開始いたしました",
+    "url": "https://www.robotpayment.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "こうした背景にある、商取引を阻む社会課題である「慣習」「非効率」「与信」という3つの壁に対して、ROBOT PAYMENTは、お金をつなぐ様々な革新的サービスで解決し、日本における中小企業や基幹産業が持つ本来の力を発揮できるよう、お金の流れを潤滑にすることで、商取引が円滑に進み、新たな価値が次々と生まれる機会を創出してまいります",
+    "url": "https://www.robotpayment.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "商取引を阻む慣習、非効率、与信の3つの壁に対し、当社サービスを提供し、解決を行っていく",
+    "url": "https://www.robotpayment.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "インターネット決済代行サービス「サブスクペイ」",
+    "url": "https://www.robotpayment.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "ファクタリングサービス（請求まるなげロボ / ファクタリングロボ for SaaS）と後払い決済サービス（1click後払い）",
+    "url": "https://www.robotpayment.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "・インターネット決済代行サービスのシェア拡大",
+    "url": "https://www.robotpayment.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "収益構造の進化とサービス高度化",
+    "url": "https://www.robotpayment.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "・AIスコアリングを活用した未収金管理サービスの開発",
+    "url": "https://www.robotpayment.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "バックオフィスDXサービスを探す",
+    "url": "https://www.robotpayment.co.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "バックオフィスDXサービスを探す",
+    "url": "https://www.robotpayment.co.jp/en/ir/management/message/",
+    "pass": 1
+   },
+   {
+    "quote": "バックオフィスDXサービスを探す",
+    "url": "https://www.robotpayment.co.jp/en/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "バックオフィスDXサービスを探す",
+    "url": "https://www.robotpayment.co.jp/en/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "バックオフィスDXサービスを探す",
+    "url": "https://www.robotpayment.co.jp/en/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "バックオフィスDXサービスを探す",
+    "url": "https://www.robotpayment.co.jp/en/ir/highlight/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "日経新聞電子版にて、当社が紹介されました",
+    "url": "https://www.robotpayment.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "日本経済新聞・日経新聞電子版にて、当社が紹介されました",
+    "url": "https://www.robotpayment.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ジャパニーズ インベスターにて、当社が紹介されました",
+    "url": "https://www.robotpayment.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "日経ヴェリタスにて、当社が紹介されました",
+    "url": "https://www.robotpayment.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "経営のコーポレート・ガバナンスに関する取組み、ディスクロージャーポリシーなどをご紹介しています",
+    "url": "https://www.robotpayment.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "販売・経営・請求・経理財務・人事労務の目的別にご紹介します",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/dx/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス選びのポイントやメリットも紹介...",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/dx/",
+    "pass": 1
+   },
+   {
+    "quote": "コスメ・美容の総合サイト@cosmeをはじめ、EC・店舗の小売事業を展開する株式会社アイスタイルでは、オンライン美容部員やバーチャル店舗などDXによる新しい購買体験を提供しております",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/comment.html",
+    "pass": 1
+   },
+   {
+    "quote": "新型コロナウイルス感染拡大での緊急事態宣言を受け、テレワークの需要が高まる中、弊社が代理店をしていますHubspot社のCRMやMAと弊社のキャッシュフローの導入で、企業のテレワークを支援しております",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/comment.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス業に特化した店舗変革プラットフォーム「はたLuck®︎」を提供している弊社も、DX化によって店舗の業務効率化や生産性向上を支援している企業のひとつです",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/comment.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介へ",
+    "url": "https://www.nikkei.com/article/DGXZRSP687120_Z10C25A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/article/DGXZRSP687120_Z10C25A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "講演会向け講師紹介",
+    "url": "https://www.nikkei.com/article/DGXZRSP687120_Z10C25A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/article/DGXZRSP687120_Z10C25A2000000/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "サブスクペイ",
+    "url": "https://www.robotpayment.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプションラボ",
+    "url": "https://www.robotpayment.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクの決済を自動化したい企業向け",
+    "url": "https://www.robotpayment.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクビジネスに必要な機能がワンパッケージになった自動決済・顧客管理サービス",
+    "url": "https://www.robotpayment.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "業界最安水準 手数料 2.5％～",
+    "url": "https://www.robotpayment.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスク管理",
+    "url": "https://www.robotpayment.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "請求管理ロボ、サブスクペイが「ITreview Grid Award 2026 Fall」の最高位『Leader』を16期連続ダブル受賞",
+    "url": "https://www.robotpayment.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクペイ",
+    "url": "https://www.robotpayment.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプションラボ",
+    "url": "https://www.robotpayment.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は2000年、インターネット決済の黎明期にインターネット決済サービス（「サブスクペイ」）を開始いたしました",
+    "url": "https://www.robotpayment.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "紙の請求書や手作業など、業務効率を阻害する非効率の壁には、「請求管理ロボ」「請求まるなげロボ」「サブスクペイ」を活用して業務効率化を実現し、課題を解決",
+    "url": "https://www.robotpayment.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクペイ",
+    "url": "https://www.robotpayment.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプションラボ",
+    "url": "https://www.robotpayment.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクペイ",
+    "url": "https://www.robotpayment.co.jp/en/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプションラボ",
+    "url": "https://www.robotpayment.co.jp/en/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "・本サービス実施にかかるコンピュータシステムの保守点検または更新を行う場合",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクペイ Standard",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/dx/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクペイ Professional",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/dx/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクペイ インボイス",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/dx/",
+    "pass": 1
+   },
+   {
+    "quote": "【2026年】サブスク管理システムおすすめ12選を比較",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/dx/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクビジネスは成長の鍵ですが、顧客が増えるほど管理は複雑になります",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/dx/",
+    "pass": 1
+   },
+   {
+    "quote": "そこで本記事では、この課題を解決し、サブスクビジネスを円滑にする「サブスク管理シ...",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/dx/",
+    "pass": 1
+   },
+   {
+    "quote": "厳選した5つの掛け払い決済代行サービスについて、特徴や手数料、対応した支払い方法を比較します",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/dx/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクペイ",
+    "url": "https://www.robotpayment.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプションラボ",
+    "url": "https://www.robotpayment.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクペイ",
+    "url": "https://www.robotpayment.co.jp/biz/news/245",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプションラボ",
+    "url": "https://www.robotpayment.co.jp/biz/news/245",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクペイ",
+    "url": "https://www.robotpayment.co.jp/ir/management/message/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプションラボ",
+    "url": "https://www.robotpayment.co.jp/ir/management/message/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの事業モデルは、リカーリング収益が97%を超える、非常に安定した、いわゆるストック型ビジネスです",
+    "url": "https://www.robotpayment.co.jp/ir/management/message/",
+    "pass": 1
+   },
+   {
+    "quote": "そして、安定したリカーリングビジネスを志向しながら、収益が地層構造のように着実に積み重なるビジネスモデルを今後も推進していく予定です",
+    "url": "https://www.robotpayment.co.jp/ir/management/message/",
+    "pass": 1
+   },
+   {
+    "quote": "※1リカーリング収益：経常的に発生する売上であり、売上高から初期費用を除いたもの",
+    "url": "https://www.robotpayment.co.jp/ir/management/message/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクペイ",
+    "url": "https://www.robotpayment.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプションラボ",
+    "url": "https://www.robotpayment.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "「サブスクペイ」は、2000年の創業時から「インターネット決済代行サービス」として提供している、BtoC、BtoB向けのサブスクビジネスに特化した顧客管理・自動決済ソリューションです",
+    "url": "https://www.robotpayment.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプションモデルにおいて、将来の月額利用料を最大1年分まで現金化できることを特徴としており、資金調達環境が厳しい中でも、安定したキャッシュフローの確保を可能にします",
+    "url": "https://www.robotpayment.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "主にサブスクビジネスを行う事業者",
+    "url": "https://www.robotpayment.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "ストック（月額固定費）",
+    "url": "https://www.robotpayment.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "システム利用料などに対する固定費",
+    "url": "https://www.robotpayment.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "郵送代行や請求処理件数などに対する従量課金",
+    "url": "https://www.robotpayment.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクペイ",
+    "url": "https://www.robotpayment.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプションラボ",
+    "url": "https://www.robotpayment.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は2000年、インターネット決済の黎明期にインターネット決済サービス（「サブスクペイ」）を開始いたしました",
+    "url": "https://www.robotpayment.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "インターネット決済代行サービス「サブスクペイ」",
+    "url": "https://www.robotpayment.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "「サブスクペイ」の市場規模は38兆円、EC決済市場もCAGR12.2%で拡大中です",
+    "url": "https://www.robotpayment.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクペイ",
+    "url": "https://www.robotpayment.co.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプションラボ",
+    "url": "https://www.robotpayment.co.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクペイ",
+    "url": "https://www.robotpayment.co.jp/en/ir/management/message/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプションラボ",
+    "url": "https://www.robotpayment.co.jp/en/ir/management/message/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクペイ",
+    "url": "https://www.robotpayment.co.jp/en/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプションラボ",
+    "url": "https://www.robotpayment.co.jp/en/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクペイ",
+    "url": "https://www.robotpayment.co.jp/en/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプションラボ",
+    "url": "https://www.robotpayment.co.jp/en/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクペイ",
+    "url": "https://www.robotpayment.co.jp/en/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプションラボ",
+    "url": "https://www.robotpayment.co.jp/en/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクペイ",
+    "url": "https://www.robotpayment.co.jp/en/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプションラボ",
+    "url": "https://www.robotpayment.co.jp/en/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "【2026年】サブスク管理システムおすすめ12選を比較",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/dx/column/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクビジネスは成長の鍵ですが、顧客が増えるほど管理は複雑になります",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/dx/column/",
+    "pass": 1
+   },
+   {
+    "quote": "そこで本記事では、この課題を解決し、サブスクビジネス…",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/dx/column/",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年12月期第１四半期 個人投資家決算質問会 質疑応答の要約を公開",
+    "url": "https://www.robotpayment.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年1月",
+    "url": "https://www.robotpayment.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年10月(平成12年10月)",
+    "url": "https://www.robotpayment.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第２四半期決算説明会動画",
+    "url": "https://www.robotpayment.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年7月2日の発足から120社以上の賛同企業と共に、声を挙げています",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月6日",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/dx/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月5日",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/dx/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月3日",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/dx/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年1月18日",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/dx/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月23日",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/dx/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月2日",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/dx/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月14日",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/dx/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第１四半期 個人投資家決算質問会 質疑応答の要約を公開 | 株式会社ROBOT PAYMENT",
+    "url": "https://www.robotpayment.co.jp/biz/news/245",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第１四半期 個人投資家決算質問会 質疑応答の要約を公開",
+    "url": "https://www.robotpayment.co.jp/biz/news/245",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月18日（月）に開催した、個人投資家決算質問会の要約を公開いたしました",
+    "url": "https://www.robotpayment.co.jp/biz/news/245",
+    "pass": 1
+   },
+   {
+    "quote": "2022年2月14日開示の決算説明資料より再掲（2021年12月期通期決算説明資料）",
+    "url": "https://www.robotpayment.co.jp/ir/img/ir-data_oct2025_jp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年12月期に売上高50億円・営業利益12億円を目指す",
+    "url": "https://www.robotpayment.co.jp/ir/img/ir-data_oct2025_jp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年12月期の業績予想は赤字",
+    "url": "https://www.robotpayment.co.jp/ir/img/ir-data_oct2025_jp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年2月 決算発表（2021年12月期通期決算）",
+    "url": "https://www.robotpayment.co.jp/ir/img/ir-data_oct2025_jp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年12月期通期業績予想は赤字",
+    "url": "https://www.robotpayment.co.jp/ir/img/ir-data_oct2025_jp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年2月14日開示の決算説明資料より再掲（2022年12月期通期決算説明資料）",
+    "url": "https://www.robotpayment.co.jp/ir/img/ir-data_oct2025_jp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年2月 決算発表（2022年12月期通期決算）",
+    "url": "https://www.robotpayment.co.jp/ir/img/ir-data_oct2025_jp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年11月 決算発表（2023年12月期3Q決算）",
+    "url": "https://www.robotpayment.co.jp/ir/img/ir-data_oct2025_jp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年8月 決算発表（2023年12月期2Q決算）",
+    "url": "https://www.robotpayment.co.jp/ir/img/ir-data_oct2025_jp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年2月14日開示の決算説明資料より再掲（2023年12月期通期決算説明資料）",
+    "url": "https://www.robotpayment.co.jp/ir/img/ir-data_oct2025_jp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年11月14日開示の決算説明資料より再掲（2024年12月期3Q決算説明資料）",
+    "url": "https://www.robotpayment.co.jp/ir/img/ir-data_oct2025_jp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年8月発表の2Q決算, 同年11月発表の3Q決算で通期業績予想を上方修正",
+    "url": "https://www.robotpayment.co.jp/ir/img/ir-data_oct2025_jp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年11月発表の3Q決算で配当予想を上方修正",
+    "url": "https://www.robotpayment.co.jp/ir/img/ir-data_oct2025_jp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年11月 決算発表（2024年12月期3Q決算）",
+    "url": "https://www.robotpayment.co.jp/ir/img/ir-data_oct2025_jp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年2月 決算発表（2023年12月期通期決算）",
+    "url": "https://www.robotpayment.co.jp/ir/img/ir-data_oct2025_jp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年8月 決算発表（2024年12月期2Q決算）",
+    "url": "https://www.robotpayment.co.jp/ir/img/ir-data_oct2025_jp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年2月 決算発表（2024年12月期通期決算）",
+    "url": "https://www.robotpayment.co.jp/ir/img/ir-data_oct2025_jp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年12月期をピークに売上高成長率が鈍化したため",
+    "url": "https://www.robotpayment.co.jp/ir/img/ir-data_oct2025_jp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2035年12月期時点の売上高成長率は、利益重視シナリオ※に対し、",
+    "url": "https://www.robotpayment.co.jp/ir/img/ir-data_oct2025_jp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2035年12月期時点の売上高は、利益重視シナリオ※に対し、",
+    "url": "https://www.robotpayment.co.jp/ir/img/ir-data_oct2025_jp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2035年12月期時点の営業利益は、利益重視シナリオ※に対し、",
+    "url": "https://www.robotpayment.co.jp/ir/img/ir-data_oct2025_jp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年時点でのサブスクペイ市場規模試算※1 ※2 インターネット決済サービス市場の推移※2",
+    "url": "https://www.robotpayment.co.jp/ir/img/ir-data_oct2025_jp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年 2024年",
+    "url": "https://www.robotpayment.co.jp/ir/img/ir-data_oct2025_jp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年時点での請求管理ロボ市場規模試算※1 国内SaaS市場規模推移※2",
+    "url": "https://www.robotpayment.co.jp/ir/img/ir-data_oct2025_jp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年 2025年",
+    "url": "https://www.robotpayment.co.jp/ir/img/ir-data_oct2025_jp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年2月19日 10:27",
+    "url": "https://www.nikkei.com/article/DGXZRSP687120_Z10C25A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年12月期 第２四半期決算説明会",
+    "url": "https://www.youtube.com/watch?v=pbdHIsR-vl4",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期第３四半期 決算説明会",
+    "url": "https://www.youtube.com/watch?v=pbdHIsR-vl4",
+    "pass": 3
+   },
+   {
+    "quote": "2026年12月期 第１四半期 個人投資家質問会",
+    "url": "https://www.youtube.com/watch?v=pbdHIsR-vl4",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期 通期決算説明会",
+    "url": "https://www.youtube.com/watch?v=pbdHIsR-vl4",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "情報漏洩やシステム停止のリスクが高いビジネスであること、また難解でブラックボックスな事業構造で参入障壁が高いがゆえに勝機を感じたためです",
+    "url": "https://www.robotpayment.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "「人財とのアナログな関係性」が事業上の強みでありますが、経理を含むコーポレート部門の「デジタル化」を推進し、より付加価値が高い業務へのシフトに取り組んでおります",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/comment.html",
+    "pass": 1
+   },
+   {
+    "quote": "「サブスクペイ Standard」とは、サブスクビジネスに強みをもつオンライン決済サービスです",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/dx/payment/",
+    "pass": 1
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "そして、安定したリカーリングビジネスを志向しながら、収益が地層構造のように着実に積み重なるビジネスモデルを今後も推進していく予定です",
+    "url": "https://www.robotpayment.co.jp/ir/management/message/",
+    "pass": 1
+   },
+   {
+    "quote": "3.収益モデル構成",
+    "url": "https://www.robotpayment.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "ROBOT PAYMENTが提供する各サービスの収益モデルを、課金体系・ターゲットごとにマッピングしています",
+    "url": "https://www.robotpayment.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "銀行の預金が負債として計上されるのと同様に、当社ビジネスモデルでは預り金が構造的に発生します",
+    "url": "https://www.robotpayment.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "これは決済代行業務における業務運用上の特性であり、当社の業績やビジネスモデルに根本的な問題があるわけではございません",
+    "url": "https://www.robotpayment.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "収益構造の進化とサービス高度化",
+    "url": "https://www.robotpayment.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は今までのビジネスモデルを大胆に変え、新しい事業を始めることにしました",
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/comment.html",
+    "pass": 1
+   },
+   {
+    "quote": "※当社はビジネスモデル上および財務体質上、潤沢な手元流動性を有しているため、現状借入を元にした投資の予定はない",
+    "url": "https://www.robotpayment.co.jp/ir/img/ir-data_oct2025_jp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ライフカード社との協働で幅広いビジネスモデルへ対応",
+    "url": "https://www.nikkei.com/article/DGXZRSP687120_Z10C25A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "これまでサービスの提供が難しいとされていた市場にも、当社の「サブスクペイ」がビジネスモデルに新しい変化をもたらします",
+    "url": "https://www.nikkei.com/article/DGXZRSP687120_Z10C25A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "新たなビジネスモデルやサービスの立ち上げを迅速かつスムーズにサポートします",
+    "url": "https://www.nikkei.com/article/DGXZRSP687120_Z10C25A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "#ビジネスモデル",
+    "url": "https://www.nikkei.com/article/DGXZRSP687120_Z10C25A2000000/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "事業概要 | 株式会社 ROBOT PAYMENT （ロボットペイメント） — 事業概要 | 株式会社 ROBOT PAYMENT （ロボットペイメント） 株式会社ROBOT PAYMENT https://www.robotpayment.co.jp > individual",
+    "url": "https://www.robotpayment.co.jp/ir/individual/",
+    "pass": 3
+   },
+   {
+    "quote": "会社の強みと戦略 | 採用情報 - ROBOT PAYMENT — 会社の強みと戦略 | 採用情報 - ROBOT PAYMENT 株式会社ROBOT PAYMENT https://www.robotpayment.co.jp > company > strategies",
+    "url": "https://www.robotpayment.co.jp/recruit/company/strategies/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ROBOT PAYMENT の会社情報 | M&Aクラウド — 株式会社 ROBOT PAYMENT の会社情報 | M&Aクラウド M&Aクラウド https://macloud.jp > companies",
+    "url": "https://macloud.jp/companies/13043",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ROBOT PAYMENT の事業とカルチャー - Wantedly — 株式会社 ROBOT PAYMENT の事業とカルチャー - Wantedly Wantedly https://www.wantedly.com > robotpayment > about",
+    "url": "https://www.wantedly.com/companies/robotpayment/about",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 | 株式会社 ROBOT PAYMENT （ロボット ... — 決算説明資料 | 株式会社 ROBOT PAYMENT （ロボット ... 株式会社ROBOT PAYMENT https://www.robotpayment.co.jp > library > presentation",
+    "url": "https://www.robotpayment.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "IRトップページ｜ ロボット ペイメント — IRトップページ｜ ロボット ペイメント 株式会社ROBOT PAYMENT https://www.robotpayment.co.jp > ...",
+    "url": "https://www.robotpayment.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "ROBOT PAYMENT 【4374】の最新 決算 発表、業績修正 — ROBOT PAYMENT 【4374】の最新 決算 発表、業績修正 株探 https://kabutan.jp > ... > 決算",
+    "url": "https://kabutan.jp/stock/finance?code=4374",
+    "pass": 3
+   },
+   {
+    "quote": "ROBOT PAYMENT [4374]：2025年12月期通期 決算 ... — ROBOT PAYMENT [4374]：2025年12月期通期 決算 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260212555327/",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信 | 株式会社 ROBOT PAYMENT （ロボットペイメント） — 決算 短信 | 株式会社 ROBOT PAYMENT （ロボットペイメント） 株式会社ROBOT PAYMENT https://www.robotpayment.co.jp > library > result",
+    "url": "https://www.robotpayment.co.jp/ir/library/result/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 株式会社 ROBOT PAYMENT （ロボットペイメント） — 会社概要 | 株式会社 ROBOT PAYMENT （ロボットペイメント） 株式会社ROBOT PAYMENT https://www.robotpayment.co.jp > company",
+    "url": "https://www.robotpayment.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "ROBOTPAYMENT 事業 説明 - YouTube — ROBOTPAYMENT 事業 説明 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=pbdHIsR-vl4",
+    "pass": 3
+   },
+   {
+    "quote": "ROBOT PAYMENT の久野様に突撃取材！ 事業 内容や中期経営 ... — ROBOT PAYMENT の久野様に突撃取材！ 事業 内容や中期経営 ... やさしい株のはじめ方 https://kabukiso.com > syuzai > kaisya > robotpayment",
+    "url": "https://kabukiso.com/syuzai/kaisya/robotpayment.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 ROBOT PAYMENT （4374）銘柄分析】サブスクペイ売上 ... — 【 ROBOT PAYMENT （4374）銘柄分析】サブスクペイ売上 ... note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/stock1/n/n5233a84a00e3",
+    "pass": 3
+   },
+   {
+    "quote": "YouTube公式アカウントに、清久の インタビュー を公開しま ... — YouTube公式アカウントに、清久の インタビュー を公開しま ... 株式会社ROBOT PAYMENT http://www.robotpayment.co.jp > biz > news",
+    "url": "http://www.robotpayment.co.jp/biz/news/188",
+    "pass": 3
+   },
+   {
+    "quote": "ROBOT PAYMENT - YouTube — ROBOT PAYMENT - YouTube YouTube https://www.youtube.com > channel",
+    "url": "https://www.youtube.com/channel/UCX4UdqwlMrKtY-epaZtR9gQ",
+    "pass": 3
+   },
+   {
+    "quote": "【導入事例】株式会社 ROBOT PAYMENT ｜ 社長 が話す会議から — 【導入事例】株式会社 ROBOT PAYMENT ｜ 社長 が話す会議から 株式会社ピグマ https://www.pygma.co.jp > case",
+    "url": "https://www.pygma.co.jp/case/0012",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.robotpayment.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robotpayment.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robotpayment.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robotpayment.co.jp/en/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/dx/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robotpayment.co.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robotpayment.co.jp/biz/news/245",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robotpayment.co.jp/ir/management/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robotpayment.co.jp/ir/individual/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robotpayment.co.jp/ir/policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robotpayment.co.jp/ir/highlight/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robotpayment.co.jp/en/ir/management/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robotpayment.co.jp/en/ir/individual/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robotpayment.co.jp/en/ir/policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robotpayment.co.jp/en/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robotpayment.co.jp/en/ir/highlight/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/dx/column/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/dx/interview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/comment.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/form.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/list/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/pro_comment.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/jichitai_denshika.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robotpayment.co.jp/keiri_liberty/dx/payment/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.robotpayment.co.jp/ir/img/ir-data_oct2025_jp.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.robotpayment.co.jp/en/ir/img/ir-data_oct2025_en.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.nikkei.com/article/DGXZRSP687120_Z10C25A2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=pbdHIsR-vl4",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/channel/UCX4UdqwlMrKtY-epaZtR9gQ",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ROBOT PAYMENT",
+   "results": [
+    "https://www.robotpayment.co.jp/",
+    "https://www.youtube.com/channel/UCX4UdqwlMrKtY-epaZtR9gQ",
+    "https://www.investing.com/equities/robot-payment-company-profile",
+    "https://www.openwork.jp/company.php?m_id=a0C3000000ixdEo",
+    "https://www.wantedly.com/companies/robotpayment",
+    "https://ja.wikipedia.org/wiki/ROBOT_PAYMENT",
+    "https://grokipedia.com/page/402_payment_required_mr_robot_",
+    "https://www.robotpayment.co.jp/company/",
+    "https://finance.yahoo.com/quote/4374.T/?fr=sycsrp_catchall",
+    "https://www.marketwatch.com/investing/stock/4374?countrycode=jp"
+   ]
+  },
+  {
+   "query": "ROBOT PAYMENT ビジネスモデル",
+   "results": [
+    "https://www.robotpayment.co.jp/ir/individual/",
+    "https://www.nikkei.com/article/DGXZRSP687120_Z10C25A2000000/",
+    "https://www.robotpayment.co.jp/recruit/company/strategies/",
+    "https://macloud.jp/companies/13043",
+    "https://www.wantedly.com/companies/robotpayment/about",
+    "https://promote.sales-doc.com/usecase/robot-payment",
+    "https://note.com/bold_roses_rism/n/n14b765316137",
+    "https://ja.wikipedia.org/wiki/ROBOT_PAYMENT",
+    "https://www.robotpayment.co.jp/",
+    "https://www.robotpayment.co.jp/ir/ultimate_guide/"
+   ]
+  },
+  {
+   "query": "ROBOT PAYMENT 決算説明資料",
+   "results": [
+    "https://www.robotpayment.co.jp/ir/library/presentation/",
+    "https://www.robotpayment.co.jp/ir/",
+    "https://kabutan.jp/stock/finance?code=4374",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260212555327/",
+    "https://www.robotpayment.co.jp/ir/library/result/",
+    "https://finance.logmi.jp/articles/382545",
+    "https://www.buffett-code.com/company/4374/library?page=6&page_tpr=7",
+    "https://www.robotpayment.co.jp/ir/library/material/",
+    "https://edinetdb.jp/company/E36901/presentations/",
+    "https://minkabu.jp/stock/4374/settlement"
+   ]
+  },
+  {
+   "query": "ROBOT PAYMENT 事業系統図",
+   "results": [
+    "https://www.robotpayment.co.jp/company/",
+    "https://www.youtube.com/watch?v=pbdHIsR-vl4",
+    "https://kabukiso.com/syuzai/kaisya/robotpayment.html",
+    "https://note.com/stock1/n/n5233a84a00e3",
+    "https://macloud.jp/companies/13043",
+    "https://xn--mnq881egoay3cv46dzoi.jp/article/company09.php",
+    "https://ja.wikipedia.org/wiki/ROBOT_PAYMENT",
+    "https://docs.myasp.jp/19489/",
+    "https://www.robotpayment.co.jp/ir/individual/",
+    "https://www.robotpayment.co.jp/"
+   ]
+  },
+  {
+   "query": "ROBOT PAYMENT 社長 インタビュー",
+   "results": [
+    "http://www.robotpayment.co.jp/biz/news/188",
+    "https://www.youtube.com/channel/UCX4UdqwlMrKtY-epaZtR9gQ",
+    "https://www.pygma.co.jp/case/0012",
+    "https://www.youtube.com/watch?v=L4erhiyGNkY",
+    "https://www.wantedly.com/projects/201988",
+    "https://www.matsui.co.jp/money-satellite/movie/investment/venture/mv-szIn_ahyWdXI.html",
+    "https://www.robotpayment.co.jp/recruit/jobs/interview/",
+    "https://www.youtube.com/watch?v=vn-eQOeDBcs",
+    "https://www.nikkei.com/article/DGXZQOUC100TB0Q1A910C2000000/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像2件／外部3頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式25頁／PDF・画像2件／外部3頁・検索5回）"
+ }
+}

@@ -1,4 +1,4 @@
-# 戦略17分野 小区分の市場の伸びと上位シェア（事実のみ・64品目）
+# 戦略17分野 小区分の市場の伸びと上位シェア（事実のみ・75品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -3916,6 +3916,89 @@
   - 「レアメタルリサイクルサービス市場規模、2035年の予測 — グローバルレアメタルリサイクルサービス市場規模は、2024年のUSD 2.1億ドルから2035年までのUSD 7.8億米ドルに成長すると予想され、12.67%のCAGRで、主要企業がドーワホールディングス株式会社です.」（https://www.sphericalinsights.com/jp/reports/rare-metal-recycling-services-market）
   - 「レアメタルリサイクルサービス市場：主要65社の市場規模・需要・対象... — リサイクル技術の進歩、促進的な法律、そして循環型経済の概念への注目の高まりが、リサイクルの普及を加速させています。 複雑な回収技術といった課題はあるものの、資源効率と持続可能性を促進するこの市場は、世界の産業の未来にとって不可欠です。」（https://www.sphericalinsights.jp/blogs/top-65-rare-metal-recycling-services-companies-in-the-globe-2025-statistical-view-by-spherical-insights-and-consulting）
 
+## マテリアルズインフォマティクス（materials informatics）
+- 文脈：9 マテリアル ⑥AI活用材料
+- 市場規模：
+  - 「マテリアル・インフォマティクス市場は、2025年に7億1,995万米ドルと評価され、2026年には8億4,846万米ドルに成長し、CAGR18.34％で推移し、2032年までに23億4,119万米ドルに達すると予測されています」（https://newscast.jp/smart/news/8350130）
+  - 「マテリアル・インフォマティクス市場 | 市場規模 分析 予測 2026-2032年 【市場調査レポート】」（https://www.gii.co.jp/report/ires2102877-material-informatics-market-global-forecast.html）
+  - 「マテリアル・インフォマティクス市場は、2032年までにCAGR18.34％で5億8,382万米ドル規模に拡大すると予測されています」（https://www.gii.co.jp/report/ires2102877-material-informatics-market-global-forecast.html）
+  - 「USD 3,939 換算」（https://www.gii.co.jp/report/ires2102877-material-informatics-market-global-forecast.html）
+  - 「USD 5,959 換算」（https://www.gii.co.jp/report/ires2102877-material-informatics-market-global-forecast.html）
+  - 「2030年のマテリアルDX世界市場規模は2025年比305％増の3兆1,653億5,000万円の見込み」（https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIGp2sFx1LkiET3WZSYbVaBEz1DAVl4PK1mfhPIzFsZmci3l3KT）
+  - 「2030年のマテリアルDX世界市場規模は3兆円超を予測」（https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIGp2sFx1LkiET3WZSYbVaBEz1DAVl4PK1mfhPIzFsZmci3l3KT）
+  - 「「計算科学とシミュレーション技術」、「AI・機械学習による材料設計」の2つのテーマを追加し、利用分野、市場規模動向を掲載」（https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIGp2sFx1LkiET3WZSYbVaBEz1DAVl4PK1mfhPIzFsZmci3l3KT）
+  - 「Ａ：2025年の実績と2030～2050年までの市場規模予測を掲載しています」（https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIGp2sFx1LkiET3WZSYbVaBEz1DAVl4PK1mfhPIzFsZmci3l3KT）
+  - 「「第1章：プロセス・インフォマティクス」では、マテリアルDXにおけるPIの概要とトピックス、市場規模、関連する企業や大学などの動向が掲載され必要な情報が得られます」（https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIGp2sFx1LkiET3WZSYbVaBEz1DAVl4PK1mfhPIzFsZmci3l3KT）
+  - 「「第2章：計算科学とシミュレーション技術」では、マテリアルDXにおける計算科学とシミュレーション技術の概要とトピックス、市場規模、関連する企業や大学などの動向が掲載され必要な情報が得られます」（https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIGp2sFx1LkiET3WZSYbVaBEz1DAVl4PK1mfhPIzFsZmci3l3KT）
+  - 「「第3章：AI・機械学習による材料設計」では、マテリアルDXにおけるAI・機械学習による材料設計のトピックス、市場規模、関連する企業や大学などの動向が掲載され必要な情報が得られます」（https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIGp2sFx1LkiET3WZSYbVaBEz1DAVl4PK1mfhPIzFsZmci3l3KT）
+  - 「「第4章：有機材料インフォマティクス」では、マテリアルDXにおける有機材料インフォマティクスの概要とトピックス、市場規模、関連する企業や大学などの動向が掲載され必要な情報が得られます」（https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIGp2sFx1LkiET3WZSYbVaBEz1DAVl4PK1mfhPIzFsZmci3l3KT）
+  - 「「第5章：無機材料インフォマティクス」では、マテリアルDXにおける無機材料インフォマティクスの概要とトピックス、市場規模、関連する企業や大学などの動向が掲載され必要な情報が得られます」（https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIGp2sFx1LkiET3WZSYbVaBEz1DAVl4PK1mfhPIzFsZmci3l3KT）
+  - 「4．マテリアルDXにおけるプロセス・インフォマティクス（PI）の市場規模予測」（https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIGp2sFx1LkiET3WZSYbVaBEz1DAVl4PK1mfhPIzFsZmci3l3KT）
+- 成長率：
+  - 「マテリアル・インフォマティクス市場は、2025年に7億1,995万米ドルと評価され、2026年には8億4,846万米ドルに成長し、CAGR18.34％で推移し、2032年までに23億4,119万米ドルに達すると予測されています」（https://newscast.jp/smart/news/8350130）
+  - 「CAGR（%） 18.34%」（https://newscast.jp/smart/news/8350130）
+  - 「CAGRは18.34%です」（https://newscast.jp/smart/news/8350130）
+  - 「マテリアル・インフォマティクス市場は、2032年までにCAGR18.34％で5億8,382万米ドル規模に拡大すると予測されています」（https://www.gii.co.jp/report/ires2102877-material-informatics-market-global-forecast.html）
+  - 「CAGRは18.34%です」（https://www.gii.co.jp/report/ires2102877-material-informatics-market-global-forecast.html）
+  - 「(3)産業利用拡大の取組」（https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIGp2sFx1LkiET3WZSYbVaBEz1DAVl4PK1mfhPIzFsZmci3l3KT）
+  - 「(3)計算科学の産業応用の拡大」（https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIGp2sFx1LkiET3WZSYbVaBEz1DAVl4PK1mfhPIzFsZmci3l3KT）
+  - 「マテリアル・インフォマティクス市場は、2025年に7億1,995万米ドルと評価され、2026年には8億4,846万米ドルに成長し、CAGR18.34％で推移し、2032年までに23億4,119万米ドルに達すると予測されています」（https://www.atpress.ne.jp/news/8350130）
+  - 「CAGR（%） 18.34%」（https://www.atpress.ne.jp/news/8350130）
+  - 「CAGRは18.34%です」（https://www.atpress.ne.jp/news/8350130）
+  - 「予測期間中に年平均成長率 (CAGR) 23.24% で成長すると予測されています」（https://cervicornconsultingmarketnews.inkrich.com/posts/6/）
+  - 「レポートによれば、世界のマテリアルインフォマティクス市場は、2024年の1億7,302万米ドルと比較して、2035年までに13億7,640万米ドルに達し、年平均成長率 20.81% という顕著な拡大を遂げると予測されている」（https://www.dreamnews.jp/press/0000327907）
+  - 「(3)産業利用拡大の取組」（https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vLrTg_zINF8-GsgkZjoepq5hp_hyjBMSo5mDlxWoLbHQfyTW7Vf）
+  - 「(3)計算科学の産業応用の拡大」（https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vLrTg_zINF8-GsgkZjoepq5hp_hyjBMSo5mDlxWoLbHQfyTW7Vf）
+  - 「The global market for external provision of materials informatics will reach US$725 million by 2034, representing 9.0% CAGR vs. 2025.」（https://www.idtechex.com/ja/research-report/materials-informatics-2025/1096）
+- 上位シェア：
+  - 「市場シェア分析、2025年」（https://www.gii.co.jp/report/ires2102877-material-informatics-market-global-forecast.html）
+  - 「マテリアルインフォマティクス市場- 世界の産業規模、シェア、動向、機会、および予測（用途別、材料タイプ別、技術別、地域別、競合別）、2020-2030年予測」（https://www.gii.co.jp/report/ires2102877-material-informatics-market-global-forecast.html）
+  - 「マテリアルズインフォマティクス市場規模、シェア、トレンド、成長2024-2033年 | 記事 | ブログ」（https://cervicornconsultingmarketnews.inkrich.com/posts/6/）
+  - 「マテリアルズインフォマティクス市場規模、シェア、トレンド、成長2024-2033年」（https://cervicornconsultingmarketnews.inkrich.com/posts/6/）
+  - 「電解装置市場の規模、シェア、傾向、成長 2024-2033」（https://cervicornconsultingmarketnews.inkrich.com/posts/6/）
+  - 「冷蔵倉庫市場の規模、シェア、動向 2024-2033」（https://cervicornconsultingmarketnews.inkrich.com/posts/6/）
+  - 「持続可能な航空燃料市場規模、シェア 2024-2033」（https://cervicornconsultingmarketnews.inkrich.com/posts/6/）
+  - 「マテリアルズ・インフォマティクス市場の需要、シェア、動向、成長、機会および洞察分析（2025年～2035年） | ＫＤマーケットインサイツ株式会社のプレスリリース」（https://www.dreamnews.jp/press/0000327907）
+  - 「マテリアルズ・インフォマティクス市場の需要、シェア、動向、成長、機会および洞察分析（2025年～2035年）」（https://www.dreamnews.jp/press/0000327907）
+  - 「日本の製造業はGDPの20%以上を占め、ソフトウェアソリューションへの投資額は約129億米ドルに上ります」（https://www.dreamnews.jp/press/0000327907）
+  - 「工業素材は日本の輸出産業の約20％を占めており、世界市場で過半数のシェアを占めるマテリアル製品も多数存在しています」（https://www.mitsubishielectric.co.jp/medigital/column/biz/012/）
+  - 「日本でマテリアルズ・インフォマティクスの需要が高まる理由として、工業素材が輸出産業の約20％を占めていることが挙げられます」（https://www.libcon.co.jp/column/materials-informatics/）
+  - 「2024年のMatterSimやEquformerV2の登場以降も、あらゆる元素に対応した汎用モデルの報告は2025年も相次ぎ、前半はリーダーボードの上位が1ヶ月おきに入れ替わるような状態でした」（https://yokoyamatomoyasu.github.io/mi-paper-2025）
+  - 「2024年までは、エネルギーの予測精度は良いが原子間力はあまり良くない、などモデルごとに一長一短がありましたが、多面的なベンチマーク指標も構築され、上位モデルはどれでも一通りのことはできるという印象です」（https://yokoyamatomoyasu.github.io/mi-paper-2025）
+  - 「North America dominated with a 39.00% share in 2025, driven by strong adoption in pharmaceuticals, electronics, and chemicals」（https://www.precedenceresearch.com/material-informatics-market）
+- 主要企業：
+  - 「マテリアル・インフォマティクスの主要企業はどこですか？」（https://newscast.jp/smart/news/8350130）
+  - 「主要企業はどこですか？」（https://www.gii.co.jp/report/ires2102877-material-informatics-market-global-forecast.html）
+  - 「主要プレイヤー動向、2025年～2050年までの予測、といったマーケティングに必要な情報を収録」（https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIGp2sFx1LkiET3WZSYbVaBEz1DAVl4PK1mfhPIzFsZmci3l3KT）
+  - 「マテリアル・インフォマティクスの主要企業はどこですか？」（https://www.atpress.ne.jp/news/8350130）
+  - 「主要企業の製品ポートフォリオに関する詳細な情報」（https://cervicornconsultingmarketnews.inkrich.com/posts/6/）
+  - 「主要企業の市場戦略、地理、事業セグメントの詳細な評価」（https://cervicornconsultingmarketnews.inkrich.com/posts/6/）
+  - 「主要プレイヤー動向、2025年～2050年までの予測、といったマーケティングに必要な情報を収録」（https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vLrTg_zINF8-GsgkZjoepq5hp_hyjBMSo5mDlxWoLbHQfyTW7Vf）
+  - 「参入企業概要、技術進歩、市場展望、戦略的アプローチ」（https://www.idtechex.com/ja/research-report/materials-informatics-2025/1096）
+  - 「参入企業分析」（https://www.idtechex.com/ja/research-report/materials-informatics-2025/1096）
+  - 「業界参入企業データ」（https://www.idtechex.com/ja/research-report/materials-informatics-2025/1096）
+  - 「Interview based profiles of many key companies are included within this IDTechEx report.」（https://www.idtechex.com/ja/research-report/materials-informatics-2025/1096）
+  - 「Materials Informatics Market Size, Key Companies, Company Product Portfolio, Digital Transformation, Technology Investment, Adoption Rates, Customer Acquisition, and Competitive Landscape」（https://www.precedenceresearch.com/material-informatics-market）
+  - 「Competitive Landscape」（https://www.precedenceresearch.com/material-informatics-market）
+  - 「Who are the Key Companies in the Material Informatics Market?」（https://www.precedenceresearch.com/material-informatics-market）
+  - 「Major players include Schrödinger, Kebotix, Citrine Informatics, Domo Chemicals, DeepMatter Group, and Exabyte.io, focusing on AI integration and partnerships .」（https://www.precedenceresearch.com/material-informatics-market）
+- 投資：
+  - 「ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表」（https://www.atpress.ne.jp/news/8350130）
+  - 「日本の製造業はGDPの20%以上を占め、ソフトウェアソリューションへの投資額は約129億米ドルに上ります」（https://www.dreamnews.jp/press/0000327907）
+  - 「https://t.co/VC15NCHWOk」（https://yokoyamatomoyasu.github.io/mi-paper-2025）
+  - 「Asia Pacific is projected to witness the fastest growth. The material informatics market CAGR for the regional market is expected to be 23.11%. The region is witnessing rising investments in material science across emerging economies. Asia Pacific also benefits from a strong electronics base.」（https://www.polarismarketresearch.com/industry-analysis/material-informatics-market）
+  - 「North America led with an 37.82% share in 2025. The region has a well-established foundation of materials research. North America also benefits from rising investments in artificial intelligence and digital platforms.」（https://www.polarismarketresearch.com/industry-analysis/material-informatics-market）
+  - 「Asia Pacific is projected to witness the fastest growth at an 23.11% CAGR. There is increasing research into materials in the region within the emerging countries. In addition, there is growing investment in state-of-the-art manufacturing and research facilities.」（https://www.polarismarketresearch.com/industry-analysis/material-informatics-market）
+  - 「1. U.S. Department of Energy. (2024). Materials Genome Initiative: Strategic plan update and funding report. DOE.」（https://www.factmr.com/report/materials-informatics-market）
+  - 「By 2022, the market grew to USD 120.5 Million, reflecting heightened interest and investment in material informatics technologies.」（https://metastatinsight.com/blogdetails/top-20-material-informatics-companies）
+- 検索結果の抜粋：
+  - 「マテリアルズインフォマティクス 開発 会社10社 - Metoree — マテリアルズインフォマティクス 開発 会社10社 - Metoree Metoree https://metoree.com > サービス」（https://metoree.com/categories/8864/）
+  - 「Materials Informatics Market Companies, Size & Trends 2026 ... — Materials Informatics Market Companies, Size & Trends 2026 ... Precedence Research https://www.precedenceresearch.com > ...」（https://www.precedenceresearch.com/material-informatics-market）
+  - 「Materials Informatics 2025 -2035: Markets, Strategies, Players — Materials Informatics 2025 -2035: Markets, Strategies, Players IDTechEx https://www.idtechex.com > materials...」（https://www.idtechex.com/en/research-report/materials-informatics-2025/1096）
+  - 「Materials Informatics Market (2026-2036) - Meticulous Research — Materials Informatics Market (2026-2036) - Meticulous Research Meticulous Research https://www.meticulousresearch.com > ...」（https://www.meticulousresearch.com/product/materials-informatics-market-6787）
+  - 「Materials Informatics 2027-2037: Markets, Strategies, Players — Materials Informatics 2027-2037: Markets, Strategies, Players IDTechEx https://www.idtechex.com > materials...」（https://www.idtechex.com/en/research-report/materials-informatics/1183）
+  - 「Materials Informatics Market Companies , Size & Trends 2026 ... — Materials Informatics Market Companies , Size & Trends 2026 ... Precedence Research https://www.precedenceresearch.com > ...」（https://www.precedenceresearch.com/material-informatics-market）
+
 ## 合成生物学（synthetic biology）
 - 文脈：10 バイオ ①バイオものづくり
 - 市場規模：
@@ -4112,6 +4195,99 @@
   - 「Biopharmaceuticals Market Size, Share , Forecast, [2034] — Biopharmaceuticals Market Size, Share , Forecast, [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/biopharmaceuticals-market-106928）
   - 「Biopharmaceuticals Market Size & Share Overview 2031 — Biopharmaceuticals Market Size & Share Overview 2031 Mordor Intelligence https://www.mordorintelligence.com > ...」（https://www.mordorintelligence.com/industry-reports/global-biopharmaceuticals-market-industry）
 
+## 細胞・遺伝子治療（cell and gene therapy）
+- 文脈：10 バイオ ②バイオ医薬品・再生医療
+- 市場規模：
+  - 「細胞・遺伝子治療製造サービス市場規模、2032年」（https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market）
+  - 「2023年の市場規模」（https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market）
+  - 「2032年の予測市場規模」（https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market）
+  - 「Cell & Gene Therapy Manufacturing Services Market, By Type, 2021 - 2032 (USD Billion)」（https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market）
+  - 「受託製造セグメントは2023年に大きな市場シェアを占め、2032年までに市場規模が213億米ドルに達すると見込まれます」（https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market）
+  - 「米国の細胞・遺伝子治療製造サービス市場は、2024年から2032年にかけて18%の年平均成長率（CAGR）で成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market）
+  - 「アジア太平洋地域の細胞・遺伝子治療製造サービス市場は、分析期間中に20.2%の年平均成長率（CAGR）で成長し、高い成長を遂げると予測されています」（https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market）
+  - 「市場規模で 2023」（https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market）
+  - 「市場規模で 2032」（https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market）
+  - 「遺伝子治療市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/gene-therapy-market）
+  - 「世界の遺伝子治療市場規模は、2025年には101億4000万米ドルと評価され、2026年の120億4000万米ドルから2034年には477億2000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は18.78%となる見込みです」（https://straitsresearch.com/jp/report/gene-therapy-market）
+  - 「米国は遺伝子治療市場を支配しており、その市場規模は2024年には33億3205万米ドル、2025年には39億3515万米ドルに達すると予測されている」（https://straitsresearch.com/jp/report/gene-therapy-market）
+  - 「2025年の市場規模」（https://straitsresearch.com/jp/report/gene-therapy-market）
+  - 「2034年の市場規模予測」（https://straitsresearch.com/jp/report/gene-therapy-market）
+  - 「1)遺伝子治療市場規模」（https://www.sdki.jp/reports/gene-therapy-market/116552）
+- 成長率：
+  - 「細胞・遺伝子治療製造サービス市場の規模は、2023年に 59億米ドルに達し、2024年から2032年にかけて年平均成長率（CAGR）18.9%で成長すると予測されている」（https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market）
+  - 「年平均成長率（2024〜2032年）」（https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market）
+  - 「過去10年間にライフサイエンス分野で増加したプライベートエクイティ投資および資本注入を背景とするこれらの投資は、市場拡大を促進する重要な要因となっている」（https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market）
+  - 「細胞治療セグメントは2023年に 60.6%の市場シェアを占めて市場をリードし、予測期間中も年平均成長率（CAGR）18.6%で優位性を維持すると見込まれている」（https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market）
+  - 「北米は2023年、世界の細胞・遺伝子治療製造サービス市場で41%の市場シェアを占めて首位となり、分析期間中の年平均成長率（CAGR）は18.1%に達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market）
+  - 「米国の細胞・遺伝子治療製造サービス市場は、2024年から2032年にかけて18%の年平均成長率（CAGR）で成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market）
+  - 「アジア太平洋地域の細胞・遺伝子治療製造サービス市場は、分析期間中に20.2%の年平均成長率（CAGR）で成長し、高い成長を遂げると予測されています」（https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market）
+  - 「予測期間 2024 to 2032 CAGR」（https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market）
+  - 「遺伝子治療市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/gene-therapy-market）
+  - 「世界の遺伝子治療市場規模は、2025年には101億4000万米ドルと評価され、2026年の120億4000万米ドルから2034年には477億2000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は18.78%となる見込みです」（https://straitsresearch.com/jp/report/gene-therapy-market）
+  - 「アジア太平洋地域は遺伝子治療市場において最も急速に成長している地域として台頭しており、2025年には年平均成長率（CAGR）20.12%を示すと予測されている」（https://straitsresearch.com/jp/report/gene-therapy-market）
+  - 「ベクター別に見ると、AAVセグメントは2025年に市場を牽引し、年平均成長率（CAGR）19.43%で成長すると予測されている」（https://straitsresearch.com/jp/report/gene-therapy-market）
+  - 「年平均成長率（2026年～2034年）」（https://straitsresearch.com/jp/report/gene-therapy-market）
+  - 「2025年にはAAVセグメントが市場を席巻し、年平均成長率（CAGR）19.43%で成長すると予測されている」（https://straitsresearch.com/jp/report/gene-therapy-market）
+  - 「世界の遺伝子治療市場において、心血管疾患分野は分析期間中に年平均成長率（CAGR）19.6%で最も速い成長が見込まれています」（https://straitsresearch.com/jp/report/gene-therapy-market）
+- 上位シェア：
+  - 「細胞・遺伝子治療製造サービス市場 サイズとシェア 2024 to 2032」（https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market）
+  - 「細胞治療セグメントは2023年に 60.6%の市場シェアを占めて市場をリードし、予測期間中も年平均成長率（CAGR）18.6%で優位性を維持すると見込まれている」（https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market）
+  - 「受託製造セグメントは2023年に大きな市場シェアを占め、2032年までに市場規模が213億米ドルに達すると見込まれます」（https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market）
+  - 「2023年には、バイオ医薬品企業が細胞・遺伝子治療製造サービス市場で69.4%の最大シェアを維持すると予想されています」（https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market）
+  - 「北米は2023年、世界の細胞・遺伝子治療製造サービス市場で41%の市場シェアを占めて首位となり、分析期間中の年平均成長率（CAGR）は18.1%に達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market）
+  - 「2023年、バイオ医薬品会社セグメントは、細胞および遺伝子治療製造サービス市場における69.4%のシェアを保有し、研究開発における重要な投資や、医薬品の発見と開発に関する広範な専門知識に起因しています.」（https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market）
+  - 「一次調査は当社の調査手法の中核であり、分析上の知見全体の約80％を占めます」（https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market）
+  - 「データ収集・分析は当社の調査プロセスの重要な一部であり、調査手法全体の約20％を占めます」（https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market）
+  - 「遺伝子治療市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/gene-therapy-market）
+  - 「遺伝子治療市場の規模、シェア、トレンド分析レポート：ベクター別（ウイルス性、非ウイルス性）、適応症別（癌、嚢胞性線維症、心疾患、糖尿病、血友病、エイズ、その他）、投与経路別（静脈内投与、吸入投与）、地域別（北米、欧州、アジア太平洋地域、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年」（https://straitsresearch.com/jp/report/gene-therapy-market）
+  - 「北米は、2025年の市場シェアが53.98%で、遺伝子治療市場を牽引しました」（https://straitsresearch.com/jp/report/gene-therapy-market）
+  - 「北米は2025年に53.98%の収益シェアを獲得し、市場を席巻した」（https://straitsresearch.com/jp/report/gene-therapy-market）
+  - 「適応症別に見ると、がん分野が市場を牽引し、2025年には収益シェアが42%に達した」（https://straitsresearch.com/jp/report/gene-therapy-market）
+  - 「がん治療分野は、2025年の収益シェアが42%に達し、市場を牽引した」（https://straitsresearch.com/jp/report/gene-therapy-market）
+  - 「北米地域は2025年に53.98%の収益シェアを占め、市場を牽引しました」（https://straitsresearch.com/jp/report/gene-therapy-market）
+- 主要企業：
+  - 「細胞・遺伝子治療製造サービス業界で事業を展開する主な企業は以下のとおりです」（https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market）
+  - 「主要企業と傾向の戦略的導入」（https://www.sdki.jp/reports/gene-therapy-market/116552）
+  - 「遺伝子治療事業の推進に役立った主要企業とその主要戦略は以下のとおりです:」（https://www.sdki.jp/reports/gene-therapy-market/116552）
+  - 「Novartis AG、 bluebird bio、CRISPR Therapeutics、 Beam Therapeutics、 Benitec Biopharmaなどが、世界の遺伝子治療市場で活動している主要企業です」（https://www.sdki.jp/reports/gene-therapy-market/116552）
+  - 「当社の調査レポートによると、遺伝子治療市場において日本国内で事業を展開している主要企業には、Nipro Corporation、Terumo BCT、 Anges Inc.、Aurion Biotechなどが挙げられます」（https://www.sdki.jp/reports/gene-therapy-market/116552）
+  - 「細胞・遺伝子治療CDMO市場における主要企業はどこですか？」（https://www.gii.co.jp/report/grvi1842001-cell-gene-therapy-cdmo-market-size-share-trends.html）
+  - 「競争環境は、利害関係者が競争環境を理解することを可能にし、市場における主要企業の現在のポジションについての洞察を提供します」（https://www.imarcgroup.com/report/ja/japan-cell-gene-therapy-market）
+  - 「この市場における主要企業は、ノバルティスAG、アムジェン社、ベリセル社、ギリアド・サイエンシズ社である」（https://straitsresearch.com/jp/report/cell-therapy-market）
+  - 「遺伝子治療市場の主要企業には、ノバルティス、サレプタ・セラピューティクス、クリスタル・バイオテック、バーテックス・ファーマシューティカルズ、フェリング・ファーマシューティカルズなどがあります」（https://www.gminsights.com/ja/industry-analysis/gene-therapy-market）
+  - 「Novartis、Sarepta Therapeutics、Krystal Biotech、Vertex Pharmaceuticals、Ferring Pharmaceuticalsなどの主要企業は、遺伝子治療業界で合計約45%の市場シェアを占めています」（https://www.gminsights.com/ja/industry-analysis/gene-therapy-market）
+  - 「遺伝子治療業界で事業を展開する主な企業は以下のとおりです」（https://www.gminsights.com/ja/industry-analysis/gene-therapy-market）
+  - 「Novartisは遺伝子治療市場における主要企業であり、約20.5の高い市場シェアを有しています」（https://www.gminsights.com/ja/industry-analysis/gene-therapy-market）
+  - 「Vertex Pharmaceuticalsは遺伝子治療業界の主要企業であり、鎌状赤血球症やβサラセミアなどの遺伝性血液疾患に対する革新的な治療法に注力しています」（https://www.gminsights.com/ja/industry-analysis/gene-therapy-market）
+  - 「遺伝子治療市場における主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/gene-therapy-market）
+- 投資：
+  - 「先進分子治療における取引活動は減速の兆しを見せており、2025年初頭には資金調達ラウンド、戦略的提携、共同契約の件数が減少した」（https://straitsresearch.com/jp/report/gene-therapy-market）
+  - 「資金調達およびIR（インベスター・リレーションズ） 3」（https://firm.or.jp/wp-content/uploads/2025/01/Cell-Gene-Therapy-Development-in-Japan-Report-%E5%92%8C%E8%A8%B3%E5%8F%82%E8%80%83%E3%83%BC%E6%9C%80%E7%B5%82%E7%89%88.pdf）
+  - 「9. (a) 臨床試験の実施に最も投資を見込む地域はどこですか？［計画投資額」（https://firm.or.jp/wp-content/uploads/2025/01/Cell-Gene-Therapy-Development-in-Japan-Report-%E5%92%8C%E8%A8%B3%E5%8F%82%E8%80%83%E3%83%BC%E6%9C%80%E7%B5%82%E7%89%88.pdf）
+  - 「【資料22】 畠構成員 提出資料」（https://www.meti.go.jp/shingikai/mono_info_service/synbio/pdf/001_22_00.pdf）
+  - 「billion in funding since 2020, led by increased government R&D spending in」（https://www.biospace.com/press-releases/cell-and-gene-therapy-market-size-rapidly-approaching-117-46-billion-by-2034）
+  - 「Biopharma VC Funding in Q2 Reaches Highest Quarterly Level Since 2022」（https://www.biospace.com/press-releases/cell-and-gene-therapy-market-size-rapidly-approaching-117-46-billion-by-2034）
+  - 「of research across all stages of development, including preclinical through preregistration. In the field of gene and cell therapy, there were more than 1,300 candidates reported in development specifically for oncology in 2021. This highlights the significant focus and investment in developing innovative therapies to address cancer and improve patient outcomes.」（https://www.towardshealthcare.com/insights/cell-and-gene-therapy-market）
+  - 「The growing demand for cell and gene therapy products raises investment from both the government and private organizations. In 2023, call and gene therapy developers raised $3.5 billion across 65 deals.」（https://www.towardshealthcare.com/insights/cell-and-gene-therapy-market）
+  - 「, with both major global companies and emerging start-ups pouring resources into advanced therapies like cell, gene, and gene-modifying treatments. In 2018 alone, global investment in these advanced therapies reached about $13 billion. The following year, 19 major mergers and acquisitions in the cell and gene therapy (CGT) space were completed, totaling over $156 billion.」（https://www.towardshealthcare.com/insights/cell-and-gene-therapy-market）
+  - 「The musculoskeletal/orthopedic disorders segment held 21.24% of the market share in 2025. It drives market growth by creating high demand for regenerative treatments of debilitating, chronic conditions. These therapies offer targeted repair of damaged tissues, replacing traditional surgery. Rising aging populations and injuries significantly boost research investments.」（https://www.towardshealthcare.com/insights/cell-and-gene-therapy-market）
+  - 「. China has also made significant investments in the field, launching the Made in China 2025 initiative to promote the development of innovative therapies.」（https://www.towardshealthcare.com/insights/cell-and-gene-therapy-market）
+  - 「Saudi Arabia is strengthening the cell and gene therapy market through Vision 2030 healthcare transformation initiatives and increased biomedical investments. Government funding supports advanced research centers and specialized genomic medicine programs. Growing partnerships with international biotechnology companies improve technology transfer.」（https://www.towardshealthcare.com/insights/cell-and-gene-therapy-market）
+  - 「The acquisitions and partnerships associated with companies engaged in the cell and gene therapy industry also signify the growing investments in the sector. In July 2025, Eli Lilly and Company, a global」（https://www.grandviewresearch.com/industry-analysis/cell-gene-therapy-manufacturing-market）
+  - 「Global Expansion: Eventual growth is impacted by the continuous R&D investments, supportive regulations, and expanded international collaborations. Cell Therapies and Teijin (Australia and Japan) collaborated in October 2025 for the development of a more robust CGT infrastructure in the Asia-Pacific region.」（https://www.towardshealthcare.com/insights/apac-cell-and-gene-therapy-market-sizing）
+  - 「Major Investors: In May 2025, the Singapore-based gene therapy developer raised a $45 million Series B round to emphasize therapies for cardiovascular diseases.」（https://www.towardshealthcare.com/insights/apac-cell-and-gene-therapy-market-sizing）
+- 検索結果の抜粋：
+  - 「細胞 ・ 遺伝子治療 製造サービス 市場規模 、2032年 — 細胞 ・ 遺伝子治療 製造サービス 市場規模 、2032年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > cell-gen...」（https://www.gminsights.com/ja/industry-analysis/cell-gene-therapy-manufacturing-services-market）
+  - 「日本における 細胞 ・ 遺伝子治療 の開発、製造、商業化に関する ... — 日本における 細胞 ・ 遺伝子治療 の開発、製造、商業化に関する ... 再生医療イノベーションフォーラム PDF https://firm.or.jp > wp-content > uploads > 2025/01」（https://firm.or.jp/wp-content/uploads/2025/01/Cell-Gene-Therapy-Development-in-Japan-Report-%E5%92%8C%E8%A8%B3%E5%8F%82%E8%80%83%E3%83%BC%E6%9C%80%E7%B5%82%E7%89%88.pdf）
+  - 「日本の 細胞 ・ 遺伝子治療市場 規模 & 2034年見通し — 日本の 細胞 ・ 遺伝子治療市場 規模 & 2034年見通し IMARC Group https://www.imarcgroup.com > Healthcare」（https://www.imarcgroup.com/report/ja/japan-cell-gene-therapy-market）
+  - 「細胞 ・ 遺伝子治療 の次： 2025 年の業界予測トップ10 — 細胞 ・ 遺伝子治療 の次： 2025 年の業界予測トップ10 Cryoport Systems https://www.cryoport.com > 2025年の業界予測トップ10」（https://www.cryoport.com/ja/2025%E5%B9%B4%E3%81%AE%E6%A5%AD%E7%95%8C%E4%BA%88%E6%B8%AC%E3%83%88%E3%83%83%E3%83%9710/）
+  - 「Cell And Gene Therapy Manufacturing Market Report, 2033 — Cell And Gene Therapy Manufacturing Market Report, 2033 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/cell-gene-therapy-manufacturing-market）
+  - 「APAC Cell and Gene Therapy Market to Grow at 20.7% CAGR ... — APAC Cell and Gene Therapy Market to Grow at 20.7% CAGR ... Towards Healthcare https://www.towardshealthcare.com > ...」（https://www.towardshealthcare.com/insights/apac-cell-and-gene-therapy-market-sizing）
+  - 「Cell and Gene Therapy Market Size , Forecast, Price to 2035 — Cell and Gene Therapy Market Size , Forecast, Price to 2035 Spherical Insights https://www.sphericalinsights.com > c...」（https://www.sphericalinsights.com/reports/cell-and-gene-therapy-market）
+  - 「Top 50 Cell and Gene Therapy Companies in 2026 — Top 50 Cell and Gene Therapy Companies in 2026 Towards Healthcare https://www.towardshealthcare.com > ...」（https://www.towardshealthcare.com/key-insights/top-cell-gene-therapy-companies）
+  - 「US Cell and Gene Therapy Market Size 2025 to 2035 — US Cell and Gene Therapy Market Size 2025 to 2035 Nova One Advisor https://www.novaoneadvisor.com > u...」（https://www.novaoneadvisor.com/report/us-cell-and-gene-therapy-market）
+
 ## 医薬品受託製造（pharmaceutical CDMO）
 - 文脈：11 創薬 ①ファーストインクラス等
 - 市場規模：
@@ -4305,6 +4481,101 @@
   - 「2026 ワクチン市場 を調査 ｜ プレスリリース - 富士経済 — 2026 ワクチン市場 を調査 ｜ プレスリリース - 富士経済 富士経済グループ https://www.fuji-keizai.co.jp > press > detail」（https://www.fuji-keizai.co.jp/press/detail.html?cid=26076&la=ja）
   - 「ワクチン市場 規模、シェア、成長率、分析、レポート（2034 ... — ワクチン市場 規模、シェア、成長率、分析、レポート（2034 ... Straits Research https://straitsresearch.com > 健康管理 > バイオテクノロジー」（https://straitsresearch.com/jp/report/vaccines-market）
 
+## 手術支援ロボット（surgical robot）
+- 文脈：11 創薬 ④先端医療デバイス
+- 市場規模：
+  - 「手術ロボット市場規模・シェアレポート、2034年」（https://www.gminsights.com/ja/industry-analysis/surgical-robots-market）
+  - 「世界の手術用ロボット市場は、2024年に81億米ドルと評価されました」（https://www.gminsights.com/ja/industry-analysis/surgical-robots-market）
+  - 「Global Market Insights Inc.が発行した最新レポートによると、市場は2025年の92億米ドルから2034年には384億米ドルに達すると予測されており、予測期間中に17.2%のCAGRで成長する見込みです」（https://www.gminsights.com/ja/industry-analysis/surgical-robots-market）
+  - 「2024年の市場規模」（https://www.gminsights.com/ja/industry-analysis/surgical-robots-market）
+  - 「2025年の市場規模」（https://www.gminsights.com/ja/industry-analysis/surgical-robots-market）
+  - 「2034年の市場規模予測」（https://www.gminsights.com/ja/industry-analysis/surgical-robots-market）
+  - 「市場は2021年の58億米ドルから増加し、2023年には71億米ドルに達し、過去の成長率は11.9%でした」（https://www.gminsights.com/ja/industry-analysis/surgical-robots-market）
+  - 「米国市場は、2021年に33億米ドル、2022年に36億米ドルと評価されました」（https://www.gminsights.com/ja/industry-analysis/surgical-robots-market）
+  - 「市場規模は、2023年の40億米ドルから成長し、2024年に45億米ドルに達し、2025年から2034年にかけて15,9%のCAGRで成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/surgical-robots-market）
+  - 「ヨーロッパ市場は、2024年に15億米ドルを占め、予測期間中に有望な成長を示すと予測されています」（https://www.gminsights.com/ja/industry-analysis/surgical-robots-market）
+  - 「2025年の市場規模:」（https://www.coherentmarketinsights.com/ja/%E6%89%8B%E8%A1%93%E7%94%A8%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4）
+  - 「この最新の投資により、総額が1億ドルを超える」（https://www.coherentmarketinsights.com/ja/%E6%89%8B%E8%A1%93%E7%94%A8%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4）
+  - 「製品の種類 インサイト(Revenue、USD Mn、2020 - 2032)」（https://www.coherentmarketinsights.com/ja/%E6%89%8B%E8%A1%93%E7%94%A8%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4）
+  - 「手術の洞察(Revenue、USD Mn、2020 - 2032)」（https://www.coherentmarketinsights.com/ja/%E6%89%8B%E8%A1%93%E7%94%A8%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4）
+  - 「地域洞察(Revenue、USD Mn、2020 - 2032)」（https://www.coherentmarketinsights.com/ja/%E6%89%8B%E8%A1%93%E7%94%A8%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4）
+- 成長率：
+  - 「Global Market Insights Inc.が発行した最新レポートによると、市場は2025年の92億米ドルから2034年には384億米ドルに達すると予測されており、予測期間中に17.2%のCAGRで成長する見込みです」（https://www.gminsights.com/ja/industry-analysis/surgical-robots-market）
+  - 「年平均成長率 (CAGR) (2025年〜2034年)」（https://www.gminsights.com/ja/industry-analysis/surgical-robots-market）
+  - 「市場は2021年の58億米ドルから増加し、2023年には71億米ドルに達し、過去の成長率は11.9%でした」（https://www.gminsights.com/ja/industry-analysis/surgical-robots-market）
+  - 「臨床応用におけるこの拡大は、製造業者に追加の収益機会を創出しており、ロボット支援手術に対するメディケア償還額は2021年から2023年の間に35%増加しました」（https://www.gminsights.com/ja/industry-analysis/surgical-robots-market）
+  - 「一方、ロボットシステムセグメントは16%のCAGRで成長すると予想されています」（https://www.gminsights.com/ja/industry-analysis/surgical-robots-market）
+  - 「ロボットシステムセグメントは2024年に26億米ドルの収益を記録し、2025年から2034年にかけて16%のCAGRで着実に拡大すると予測されています」（https://www.gminsights.com/ja/industry-analysis/surgical-robots-market）
+  - 「一般外科セグメントは2024年に市場を支配し、24億米ドルを占め、予測期間中に18,1%のCAGRで成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/surgical-robots-market）
+  - 「婦人科手術セグメントは2024年に大きな売上高を計上し、予測期間中に17%のCAGRで成長すると予想されています」（https://www.gminsights.com/ja/industry-analysis/surgical-robots-market）
+  - 「2032年までに、化合物の年間成長率を示す」（https://www.coherentmarketinsights.com/ja/%E6%89%8B%E8%A1%93%E7%94%A8%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4）
+  - 「(CAGR) 13.9%」（https://www.coherentmarketinsights.com/ja/%E6%89%8B%E8%A1%93%E7%94%A8%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4）
+  - 「予測期間 2025〜2032 CAGR:」（https://www.coherentmarketinsights.com/ja/%E6%89%8B%E8%A1%93%E7%94%A8%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4）
+  - 「外科ロボットは高い定義を提供し、外科場所の3-D眺めを拡大するコンピュータ コンソールの外科医によって制御される外科器械が付いているカメラの腕そして機械腕から成っています」（https://www.coherentmarketinsights.com/ja/%E6%89%8B%E8%A1%93%E7%94%A8%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4）
+  - 「(3) 欧米の大手企業は、 積極的に他社を買収や提携により、 事業の強化拡大を図っている」（https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2021_02.pdf）
+  - 「【表 4】技術区分 「課題→手術機会の拡大→遠隔地からの手術の実現」 のファミリー件数推」（https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2021_02.pdf）
+  - 「の規模は、2025年に141億米ドルと評価され、2026年から2033年にかけて年平均成長率（CAGR）14.9%で推移し、2026年の172億米ドルから2033年には456億米ドルに達するとGrand View Researchでは予測しています」（https://www.dreamnews.jp/press/0000359418）
+- 上位シェア：
+  - 「手術ロボット市場規模・シェアレポート、2034年」（https://www.gminsights.com/ja/industry-analysis/surgical-robots-market）
+  - 「手術用ロボット市場 サイズとシェア 2025 - 2034」（https://www.gminsights.com/ja/industry-analysis/surgical-robots-market）
+  - 「この市場における上位5社は、」（https://www.gminsights.com/ja/industry-analysis/surgical-robots-market）
+  - 「器具・付属品セグメントは、すべての手術手技における反復使用、継続的な製品アップグレード、交換用品および消耗品を必要とするロボット支援手術の増加により、2024年に68%の大きな市場シェアを獲得し、市場における優位性を確立しました」（https://www.gminsights.com/ja/industry-analysis/surgical-robots-market）
+  - 「一般外科セグメントは2024年に市場を支配し、24億米ドルを占め、予測期間中に18,1%のCAGRで成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/surgical-robots-market）
+  - 「病院セグメントは2024年に72.4%の売上高シェアで市場を支配し、予測期間内に284億米ドルに達すると予想されています」（https://www.gminsights.com/ja/industry-analysis/surgical-robots-market）
+  - 「北米は、2024年に59,1%の最高市場シェアで市場を支配しました」（https://www.gminsights.com/ja/industry-analysis/surgical-robots-market）
+  - 「ヨーロッパ市場は、2024年に15億米ドルを占め、予測期間中に有望な成長を示すと予測されています」（https://www.gminsights.com/ja/industry-analysis/surgical-robots-market）
+  - 「主要プレーヤーには、ACCURAY、INTUITIVE、Medtronic、Strykerが含まれ、これらは合計で市場シェアの93.4%を占めています」（https://www.gminsights.com/ja/industry-analysis/surgical-robots-market）
+  - 「市場シェア83.5%」（https://www.gminsights.com/ja/industry-analysis/surgical-robots-market）
+  - 「2024年の累計市場シェアは93.4%」（https://www.gminsights.com/ja/industry-analysis/surgical-robots-market）
+  - 「2024年に83.5%のシェアで手術用ロボット市場をリードしているINTUITIVEは、高精度、信頼性、幅広い臨床応用で知られるダヴィンチ手術システムで市場をリードしています」（https://www.gminsights.com/ja/industry-analysis/surgical-robots-market）
+  - 「手術ロボット市場シェアと機会、2025-2032」（https://www.coherentmarketinsights.com/ja/%E6%89%8B%E8%A1%93%E7%94%A8%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4）
+  - 「2025年の市場シェア」（https://www.coherentmarketinsights.com/ja/%E6%89%8B%E8%A1%93%E7%94%A8%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4）
+  - 「2025年の市場シェアは、主要産業選手の強い存在と医療施設におけるロボット技術の早期採用によるものです」（https://www.coherentmarketinsights.com/ja/%E6%89%8B%E8%A1%93%E7%94%A8%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4）
+- 主要企業：
+  - 「主要企業には、Intuitive、Medtronic、Stryker、Accuray、Zimmer Biomet、Smith & Nephew、CMR Surgical、Globus Medical、Asensus Surgical、およびRenishawが含まれる」（https://www.gminsights.com/ja/industry-analysis/surgical-robots-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/surgical-robots-market）
+  - 「本調査では、手術支援ロボット市場における以下の主要企業を取り上げています」（https://www.dreamnews.jp/press/0000359418）
+  - 「参入企業が増え、製品の多様化と競争が加速している状態」（https://jet-mfg.com/category/service-robots/medical-robot/robotic-surgery/）
+  - 「ロボット支援手術システムの市場は現在、低侵襲手術への嗜好の高まり、新規参入企業の出現、技術革新の進展といった要因によって牽引されています」（https://straitsresearch.com/jp/report/robotic-assisted-surgery-systems-market）
+  - 「この市場における主要企業は、Intuitive Surgical Inc.、Stryker Corporation、Johnson & Johnson Inc.、SRI International、Accuray Incorporatedである」（https://straitsresearch.com/jp/report/robotic-assisted-surgery-systems-market）
+  - 「主要企業には、Medicaroid Corporation、Kawasaki Heavy Industries、TELEXISTENCE、Sony Group、Intuitive Surgical、Medtronic、MicroPort Scientific、Smith+Nephew、ASAHI SURGICAL ROBOTICSなどが挙げられている」（https://newscast.jp/news/2872028）
+  - 「新興の先駆的企業および主要プレイヤー」（https://newscast.jp/news/2872028）
+  - 「9.2 その他の主要企業」（https://newscast.jp/news/2872028）
+  - 「主要企業には、Medicaroid Corporation、Kawasaki Heavy Industries、TELEXISTENCE、Sony Group、Intuitive Surgical、Medtronic、MicroPort Scientific、Smith+Nephew、ASAHI SURGICAL ROBOTICSなどが挙げられている」（https://www.atpress.ne.jp/news/2872028）
+  - 「新興の先駆的企業および主要プレイヤー」（https://www.atpress.ne.jp/news/2872028）
+  - 「9.2 その他の主要企業」（https://www.atpress.ne.jp/news/2872028）
+  - 「Robotic Surgery Market Size, Trends and Key Players」（https://www.towardshealthcare.com/insights/robotic-surgery-market-sizing）
+  - 「Top Key Players」（https://www.towardshealthcare.com/insights/robotic-surgery-market-sizing）
+  - 「The following key companies have been profiled for this study of the」（https://www.grandviewresearch.com/industry-analysis/surgical-robot-market）
+- 投資：
+  - 「ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表」（https://www.atpress.ne.jp/news/2872028）
+  - 「メディカロイドは2013年、産業用ロボットの川崎重工業と、検査・診断技術と医療ネットワークを持つシスメックスの折半出資で設立された会社である」（https://note.com/kagawatomo/n/nbf9230ad6279）
+  - 「The European Union actively promotes the integration of robotics and also provides funding for productivity and competitiveness. It has established a strong foundation of collaboration and knowledge-sharing among all robotics stakeholders through a portfolio of 120 research projects.」（https://www.towardshealthcare.com/insights/robotic-surgery-market-sizing）
+  - 「North America dominated the surgical robots market with a share of 47.0% in 2025. This is attributed to the increasing number of hospitals opting for robot-assisted surgeries, the U.S. government's high healthcare spending, and growing regional robotic investments.」（https://www.grandviewresearch.com/industry-analysis/surgical-robot-market）
+  - 「Germany generated USD 501 million in 2025 and is projected to reach USD 1.43 billion by 2035. The country's private hospital presence, academic surgical networks, and capacity for medical technology investment support early use of advanced robotic applications. Adoption is likely to remain linked to hospital consolidation, specialty-center investment, and evidence-based procurement.」（https://www.gminsights.com/industry-analysis/surgical-robots-market）
+  - 「Spain generated USD 220 million in 2025 and is projected to grow at a 14.8% CAGR (2026–2035). A comparatively underpenetrated robotics base and rising private-sector investment provide room for expansion. The pace of adoption will vary by autonomous community, hospital ownership model, and the availability of specialized surgical teams.」（https://www.gminsights.com/industry-analysis/surgical-robots-market）
+  - 「India generated USD 190 million in 2025 and is projected to grow at a 16.4% CAGR (2026–2035). Private hospital chains and metropolitan surgical centers are likely to remain the initial engines of adoption. Training expansion and healthcare infrastructure investment can widen access over time, though affordability and reimbursement constraints will continue to shape the speed of diffusion.」（https://www.gminsights.com/industry-analysis/surgical-robots-market）
+  - 「Australia generated USD 79 million in 2025 and is projected to reach USD 324 million by 2035. Private hospital investment, surgeon adoption of minimally invasive procedures, and interest in orthopedic robotics underpin market development. Deployment will be influenced by state-level healthcare delivery structures and the ability of suppliers to support dispersed clinical sites.」（https://www.gminsights.com/industry-analysis/surgical-robots-market）
+  - 「Argentina generated USD 42 million in 2025 and is projected to grow at a 10.7% CAGR (2026–2035). The market has advanced surgical capabilities in leading cities, but macroeconomic instability and limited capital availability constrain broad-based investment. Robotic adoption is therefore likely to remain concentrated within higher-income private healthcare settings.」（https://www.gminsights.com/industry-analysis/surgical-robots-market）
+  - 「Middle East & Africa generated USD 227 million in 2025 and is projected to reach USD 797 million by 2035. Demand is concentrated in Gulf markets with substantial investment in tertiary hospital capacity and medical tourism infrastructure. Elsewhere, restricted capital budgets, workforce limitations, and high procedure costs constrain adoption, producing a highly uneven regional opportunity.」（https://www.gminsights.com/industry-analysis/surgical-robots-market）
+  - 「Saudi Arabia generated USD 98 million in 2025 and is projected to grow at a 15.1% CAGR (2026–2035). Healthcare transformation initiatives and investment in advanced hospital infrastructure are supporting demand for sophisticated surgical technologies. The opportunity depends on how effectively new facilities develop trained clinical teams and sustained multi-specialty case volumes.」（https://www.gminsights.com/industry-analysis/surgical-robots-market）
+  - 「South Africa generated USD 47 million in 2025 and is projected to reach USD 108 million by 2035. Private hospital investment provides the main basis for robotic surgery growth, while public-sector capital constraints limit broader access. High consumable costs and unequal healthcare purchasing power will continue to define the market's adoption ceiling.」（https://www.gminsights.com/industry-analysis/surgical-robots-market）
+  - 「Germany anchors the region because its supplementary payment structure makes case-level economics transparent to hospital controllers. NHS England's elective recovery funding released capital for more than 40 new placements across 2024–2025, concentrated in urology and colorectal services」（https://www.marketresearchfuture.com/reports/surgical-robots-market-3025）
+  - 「Promising improved precision and visualization for surgeons, and better experiences and outcomes for patients, investments in surgical robotics have swelled over the past 10 years. It’s now a $3 to $3.5 billion global market, up from around $800 million in 2015.」（https://www.bain.com/insights/navigating-the-next-wave-of-surgical-robotics/）
+  - 「9. Next Generation Surgical Robotics Market Startup Funding and Investment Trends」（https://www.delveinsight.com/report-store/next-generation-surgical-robotics-market）
+- 検索結果の抜粋：
+  - 「令和3年度特許出願技術動向調査 － 手術支援ロボット － — 令和3年度特許出願技術動向調査 － 手術支援ロボット － 特許庁 PDF https://www.jpo.go.jp > tokkyo > document > index」（https://www.jpo.go.jp/resources/report/gidou-houkoku/tokkyo/document/index/2021_02.pdf）
+  - 「「 手術支援ロボット市場規模 、成長と動向分析レポート 2026 ... — 「 手術支援ロボット市場規模 、成長と動向分析レポート 2026 ... ドリームニュース https://www.dreamnews.jp > press」（https://www.dreamnews.jp/press/0000359418）
+  - 「ロボット手術市場 規模、シェア、成長 |レポート、2034 年 — ロボット手術市場 規模、シェア、成長 |レポート、2034 年 Fortune Business Insights https://www.fortunebusinessinsights.com > 業界-レポート」（https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E6%89%8B%E8%A1%93%E5%B8%82%E5%A0%B4-100124）
+  - 「Surgical Robots Market Size & Share Report, 2026-2033 — Surgical Robots Market Size & Share Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/surgical-robot-market）
+  - 「Surgical Robots Market Size , Forecasts Report 2026-2035 — Surgical Robots Market Size , Forecasts Report 2026-2035 Global Market Insights Inc. https://www.gminsights.com > surgica...」（https://www.gminsights.com/industry-analysis/surgical-robots-market）
+  - 「Surgical Robots Market Size , Share & Global Trends 2035 — Surgical Robots Market Size , Share & Global Trends 2035 Market Research Future https://www.marketresearchfuture.com > ...」（https://www.marketresearchfuture.com/reports/surgical-robots-market-3025）
+  - 「Next Generation Surgical Robotics - 2034 — Next Generation Surgical Robotics - 2034 Research and Markets https://www.researchandmarkets.com > ...」（https://www.researchandmarkets.com/reports/6274304/next-generation-surgical-robotics-market?srsltid=AYCX9vIauGX2XEGTH6ozExUyhYTcl4RMFUU6vsY1SK5SiDf8wULNLr0Y）
+  - 「Surgical Robots Market Size, Share & Growth Report, 2030 — Surgical Robots Market Size, Share & Growth Report, 2030 P&S Intelligence https://www.psmarketresearch.com > ...」（https://www.psmarketresearch.com/market-analysis/surgical-robotics-market）
+  - 「Surgical Robotics Market Companies , Size & Trends 2026-2035 — Surgical Robotics Market Companies , Size & Trends 2026-2035 Precedence Research https://www.precedenceresearch.com > ...」（https://www.precedenceresearch.com/surgical-robotics-market）
+  - 「Why 2025 is a key year for the surgical robotics market — Why 2025 is a key year for the surgical robotics market Medical Device Network https://www.medicaldevice-network.com > ...」（https://www.medicaldevice-network.com/features/why-2025-is-a-key-year-for-the-surgical-robotics-market/）
+  - 「Top 10 Surgical Robot Companies in 2026 - Medtec China — Top 10 Surgical Robot Companies in 2026 - Medtec China www.medteccn.com https://en.medtecchina.com > show」（https://en.medtecchina.com/media/show/top-10-surgical-robot-companies-2026/）
+
 ## AI医療機器（AI medical devices）
 - 文脈：11 創薬 ④先端医療デバイス
 - 市場規模：
@@ -4477,6 +4748,104 @@
   - 「Digital Health Market Size , Trends, Growth, Analysis, 2026-2034 — Digital Health Market Size , Trends, Growth, Analysis, 2026-2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/industry-reports/digital-health-market-100227）
   - 「Digital Health Market Report 2025-2030, By Offering, Disease ... — Digital Health Market Report 2025-2030, By Offering, Disease ... MarketsandMarkets https://www.marketsandmarkets.com > ...」（https://www.marketsandmarkets.com/Market-Reports/digital-health-market-45458752.html）
   - 「US Digital Health Market Size, Share | CAGR of 19.6% — US Digital Health Market Size, Share | CAGR of 19.6% Market.us https://market.us > ... > Healthcare IT」（https://market.us/report/us-digital-health-market/）
+
+## ペロブスカイト太陽電池（perovskite solar cell）
+- 文脈：12 GX ①ペロブスカイト
+- 市場規模：
+  - 「ペロブスカイト太陽電池市場規模・予測レポート（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「2025年の市場規模」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「2026年の市場規模」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「2035年の市場規模予測」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「ペロブスカイト太陽電池市場規模：用途別、2025年および2035年（百万米ドル）」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「アジア太平洋地域のペロブスカイト太陽電池市場は、2025年に世界売上高の57.0%を占め、2035年までに15.7億米ドルを生み出すと予測される」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「オーストラリアの市場規模は2035年までに4,300万米ドルに達すると予測され、2025年にはアジア太平洋地域の売上高の2.1%を占めた」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「欧州の市場規模は2035年までに7億400万米ドルに達し、2026〜2035年の年平均成長率（CAGR）は22.4%となる見込みである」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「ドイツの市場規模は2025年に2,050万米ドルとなり、2035年までに1億4,500万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「英国の市場規模は2035年までに1億850万米ドルに達すると予測され、2025年には欧州の売上高の17.1%を占めた」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「フランスの市場規模は2025年に1,350万米ドルとなり、2026〜2035年の年平均成長率（CAGR）は24.0%と予測される」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「イタリアの市場規模は2035年までに9,000万米ドルに達し、2026〜2035年の年平均成長率（CAGR）は25.0%となる見込みである」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「ペロブスカイト太陽電池市場は、2025年に3億2,597万米ドルと評価され、2026年には3億9,863万米ドルに成長し、CAGR24.35％で推移し、2032年までに14億9,908万米ドルに達すると予測されています」（https://www.atpress.ne.jp/news/8958287）
+  - 「食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表」（https://www.atpress.ne.jp/news/8958287）
+  - 「ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表」（https://www.atpress.ne.jp/news/8958287）
+- 成長率：
+  - 「2026〜2035年の年平均成長率（CAGR）22.7%で成長し、2035年には32億米ドルに達する見込みである」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「年平均成長率（CAGR）（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「ペロブスカイト・シリコンタンデム構造で効率が継続的に年次向上することは、電力事業用および商業用の調達において単接合シリコンを置き換えるための主要な前提条件であり、この需要経路が2035年までの市場の絶対額ベースの拡大の大部分を牽引する」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「ロール・ツー・ロール方式や蒸着プロセスを用いたペロブスカイト製造の拡大には、IEC 61215の認証試験に合格できる封止材とモジュール構造が必要である」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「発電分野の2025年の売上高は1億790万米ドルで、2026〜2035年の年平均成長率（CAGR）は30.5%と予測される」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「平面型n-i-pは2025年に硬質セグメント売上高の27.4%を占め、2026〜2035年の年平均成長率（CAGR）は15.5%と予測される」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「メソポーラス製品は2025年に硬質セグメント売上高の21.0%を占め、2026〜2035年の年平均成長率（CAGR）は-1.2%となり、縮小すると予測される」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「フレキシブルモジュールは2025年に市場売上高の36.0%を占め、2026〜2035年に年平均成長率（CAGR）23.7%で成長すると予測される」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「平面型フレキシブルは2025年にフレキシブルセグメントの売上高の42.2%を占め、2026〜2035年に年平均成長率（CAGR）14.6%で成長すると予測される」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「ペロブスカイト太陽電池市場は、2025年に3億2,597万米ドルと評価され、2026年には3億9,863万米ドルに成長し、CAGR24.35％で推移し、2032年までに14億9,908万米ドルに達すると予測されています」（https://www.atpress.ne.jp/news/8958287）
+  - 「CAGR（%） 24.35%」（https://www.atpress.ne.jp/news/8958287）
+  - 「CAGRは24.35%です」（https://www.atpress.ne.jp/news/8958287）
+  - 「世界のペロブスカイト太陽電池市場は2023年に130.0百万米ドルを超え、2036年末までに5865.7百万米ドルに達すると予測されており、2024―2036年の予測期間中に37.3%のCAGRを記録しています」（https://www.researchnester.jp/industry-analysis/perovskite-solar-cell-market/3373）
+  - 「日本のペロブスカイト太陽電池市場は、2036年末までに驚異的なCAGRを記録すると予想されています」（https://www.researchnester.jp/industry-analysis/perovskite-solar-cell-market/3373）
+  - 「カナダ市場は、先進技術の採用率の高さ、ソーラーパネルの設置数の増加、研究開発活動への投資の増加に対する認識の高まりにより、2024―2036年の間に急速なCAGRを記録すると予想されています」（https://www.researchnester.jp/industry-analysis/perovskite-solar-cell-market/3373）
+- 上位シェア：
+  - 「ペロブスカイト太陽電池市場 サイズとシェア 2026-2035」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「本市場の上位5社は」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「2025年、BIPVは市場売上高の36.0%を占め、2035年には9億1,200万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「民生用電子機器分野は、2025年に市場売上高の16.5%を占め、2035年には2億8,800万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「防衛・航空宇宙分野の2025年の売上高は5,600万米ドルで、2035年には市場売上高の7.5%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「輸送分野は2025年に売上高シェアの8.0%を占め、2035年には1億4,400万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「硬質モジュールは2025年に市場売上高の64.0%を占め、2035年には19億2,000万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「平面型n-i-pは2025年に硬質セグメント売上高の27.4%を占め、2026〜2035年の年平均成長率（CAGR）は15.5%と予測される」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「平面型p-i-nの2025年の売上高は6,260万米ドルで、2035年には硬質セグメント売上高の10.0%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「メソポーラス製品は2025年に硬質セグメント売上高の21.0%を占め、2026〜2035年の年平均成長率（CAGR）は-1.2%となり、縮小すると予測される」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「ペロブスカイト・シリコンタンデムは2025年に7,440万米ドルを生み出し、2035年までに剛性セグメントの売上高の70.0%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「フレキシブルモジュールは2025年に市場売上高の36.0%を占め、2026〜2035年に年平均成長率（CAGR）23.7%で成長すると予測される」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「平面型フレキシブルは2025年にフレキシブルセグメントの売上高の42.2%を占め、2026〜2035年に年平均成長率（CAGR）14.6%で成長すると予測される」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「ペロブスカイト太陽電池市場調査、規模、シェアと予測2036年」（https://www.researchnester.jp/industry-analysis/perovskite-solar-cell-market/3373）
+  - 「インフラへの投資の増加、および太陽光発電技術の利用を促進するための政府資金とインセンティブにより、2024―2036年の予測期間中に大きなシェアを占めると予測されています」（https://www.researchnester.jp/industry-analysis/perovskite-solar-cell-market/3373）
+- 主要企業：
+  - 「ペロブスカイト太陽電池市場の主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「ペロブスカイト太陽電池市場の主要企業には、Microquanta Semiconductor、Saule Technologies、GCL Optoelectronic Materials、Utmolight、Oxford PVなどが含まれる」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「市場シェア調査では、業界の方向性に影響を与える主要企業、地理的優位性、新しいトレンドに焦点を当て、このダイナミックな市場内でさまざまな地域や企業がどのように位置付けられているかを明らかにしています」（https://www.researchnester.jp/industry-analysis/perovskite-solar-cell-market/3373）
+  - 「以下は、世界市場で活動している主要企業の一覧です」（https://www.researchnester.jp/industry-analysis/perovskite-solar-cell-market/3373）
+  - 「ペロブスカイト太陽電池 市場で支配的な主要企業はどれですか?」（https://www.researchnester.jp/industry-analysis/perovskite-solar-cell-market/3373）
+  - 「市場の主要企業は、Panasonic Holdings Corporation、Toshiba Corporation、SEKISUI CHEMICAL CO., LTDなどです」（https://www.researchnester.jp/industry-analysis/perovskite-solar-cell-market/3373）
+  - 「市場は、高度な製品ポートフォリオ、技術力、戦略的パートナーシップを有する少数の主要企業によって支配されている」（https://straitsresearch.com/jp/report/next-generation-solar-cell-market）
+  - 「この市場における主要企業は、First Solar, Inc.、Hanwha Q CELLS、Oxford Photovoltaics Ltd.、Trina Solarである」（https://straitsresearch.com/jp/report/next-generation-solar-cell-market）
+  - 「なお、本記事以外にも、より詳細な市場構造、市場シェア、参入企業動向などをお知りになりたい方は、」（https://www.fkg-report.jp/market-trends/2026/3393.html）
+  - 「また、参入企業18社の開発状況・計画・今後の展開などをまとめた」（https://www.fuji-keizai.co.jp/press/detail.html?cid=25071&la=ja）
+  - 「Key Players」（https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market）
+  - 「Leading Players:」（https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market）
+  - 「Perovskite Solar Cell Market Share & Competitive Landscape」（https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market）
+  - 「Who are the major players in Perovskite Solar Cells Market?」（https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market）
+- 投資：
+  - 「ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表」（https://www.atpress.ne.jp/news/8958287）
+  - 「2023年6月、P3Cテクノロジーアンドソリューションズは、さまざまな政府機関や民間団体にフレキシブルペロブスカイト太陽電池を実証するために250億米ドルの資金調達を発表しました」（https://www.researchnester.jp/industry-analysis/perovskite-solar-cell-market/3373）
+  - 「Planar p-i-n generated USD 62.6 million in 2025 and is expected to represent 10.0% of rigid-segment revenue by 2035. Its position is likely to narrow as manufacturing investment increasingly concentrates on architectures that can support differentiated tandem performance.」（https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market）
+  - 「Perovskite-Silicon Tandem generated USD 74.4 million in 2025 and is expected to account for 70.0% of rigid-segment revenue by 2035. The architecture offers a credible path to higher energy yield without abandoning established silicon manufacturing and supply-chain knowledge, making it a focal point for commercial-scale investment.」（https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market）
+  - 「Government funding is supporting the transition from laboratory research to scalable manufacturing. In May 2024, the U.S. Department of」（https://market.us/press-release/perovskite-solar-cell-market/）
+  - 「Credence Research Inc. is a global market intelligence and consulting firm founded in 2015. It provides quantitative market research, competitive intelligence and strategic advisory services to organizations assessing new products, investment decisions and regional opportunities. The firm combines primary and secondary research with industry interviews and structured market models.」（https://finance.yahoo.com/energy/articles/perovskite-solar-cell-market-reach-181100005.html）
+  - 「The company profiles cover the 22-company group and examine each firm's revenue, perovskite involvement, RandD and patents, performance records, production sites, output levels, partnerships, technology roadmaps, regions of operation, planned products, revenue plans, investments made, expansion plans and the weaknesses each one currently faces.」（https://www.precedenceresearch.com/perovskite-solar-cell-market）
+  - 「for 2025. Such an advantage can be explained by the well-developed research and development infrastructure of the countries like the USA and Canada with the government financial support for innovations in the sector combined with the participation of universities and venture capitalists into the production process.」（https://market.us/report/perovskite-solar-cells-module-market/）
+  - 「Germany (market leader with a 26.3% share in 2025, backed by robust public funding, industrial chemistry sectors, and the Photovoltaics Strategy 2030)」（https://www.marketdataforecast.com/market-reports/europe-perovskite-solar-cell-market）
+  - 「market share in 2025, with concentrated development in California, Massachusetts, and Colorado regions. United States Department of Energy funding for tandem solar research at national laboratories including」（https://dataintelo.com/report/global-perovskite-solar-cell-market）
+  - 「between 2022 and 2026, driven by manufacturing process improvements and economies of scale. Investment in automated inspection systems, encapsulation technologies, and quality control standardization has improved yield rates to」（https://dataintelo.com/report/global-perovskite-solar-cell-market）
+  - 「countries, create sustained demand extending through 2034 and justify manufacturer investments in capacity expansion and technology development.」（https://dataintelo.com/report/global-perovskite-solar-cell-market）
+  - 「10.5 Investment Scenario」（https://dataintelo.com/report/global-perovskite-solar-cell-market）
+  - 「Asia Pacific is projected to maintain market leadership with 42.3% regional share in 2025, expanding to 44.8% by 2034. Europe follows with 28.1% share, while North America accounts for 17.2%. China, South Korea, and Japan are the primary growth drivers through government incentives, manufacturing investments, and favorable renewable energy policies.」（https://dataintelo.com/report/global-perovskite-solar-cell-market）
+- 検索結果の抜粋：
+  - 「ペロブスカイト太陽電池市場規模 、シェア、2034 年の予測 — ペロブスカイト太陽電池市場規模 、シェア、2034 年の予測 Fortune Business Insights https://www.fortunebusinessinsights.com > 業界-レポート」（https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E3%83%9A%E3%83%AD%E3%83%96%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%88%E5%A4%AA%E9%99%BD%E9%9B%BB%E6%B1%A0%E5%B8%82%E5%A0%B4-101556）
+  - 「ペロブスカイト太陽電池市場 サイズとシェア 2026-2035 — ペロブスカイト太陽電池市場 サイズとシェア 2026-2035 Global Market Insights Inc. https://www.gminsights.com > perovskite-solar-cells-market」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「ペロブスカイト太陽電池市場 調査、 規模 、シェアと予測2036年 — ペロブスカイト太陽電池市場 調査、 規模 、シェアと予測2036年 Research Nester Japan https://www.researchnester.jp > 業界分析」（https://www.researchnester.jp/industry-analysis/perovskite-solar-cell-market/3373）
+  - 「ペロブスカイト太陽電池 メーカー7社 - Metoree — ペロブスカイト太陽電池 メーカー7社 - Metoree Metoree https://metoree.com > 電源」（https://metoree.com/categories/9402/）
+  - 「ペロブスカイト太陽電池企業 ランキング・戦略分析レポート — ペロブスカイト太陽電池企業 ランキング・戦略分析レポート GBaseGTM https://s.gbase.ai > perovskite-solar-cell-ranking-2026」（https://s.gbase.ai/insight/perovskite-solar-cell-ranking-2026/）
+  - 「ペロブスカイト太陽電池市場 サイズと シェア 2026-2035 — ペロブスカイト太陽電池市場 サイズと シェア 2026-2035 Global Market Insights Inc. https://www.gminsights.com > perovskite-solar-cells-market」（https://www.gminsights.com/ja/industry-analysis/perovskite-solar-cells-market）
+  - 「【2026】 ペロブスカイト太陽電池 メーカー一覧と実用化 ... — 【2026】 ペロブスカイト太陽電池 メーカー一覧と実用化 ... bright-co-ltd.com https://bright-co-ltd.com > ホーム > 太陽光発電一覧」（https://bright-co-ltd.com/solar-media/solar/perovskite-maker/）
+  - 「ペロブスカイト太陽電池 、 前年比 2倍超に 世界の 市場 規模 — ペロブスカイト太陽電池 、 前年比 2倍超に 世界の 市場 規模 日本経済新聞 https://www.nikkei.com > article」（https://www.nikkei.com/article/DGXZQOUC299P00Z20C26A9000000/）
+  - 「今年にも1000億円超え、 ペロブスカイト太陽電池 の世界 市場 — 今年にも1000億円超え、 ペロブスカイト太陽電池 の世界 市場 日経BP https://project.nikkeibp.co.jp > atcl > news」（https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/06109/?ST=msb）
+  - 「ペロブスカイト太陽電池 の 市場 を調査。2040年の世界 市場 を3 ... — ペロブスカイト太陽電池 の 市場 を調査。2040年の世界 市場 を3 ... fkg-report.jp https://www.fkg-report.jp > market-trends」（https://www.fkg-report.jp/market-trends/2026/3393.html）
+  - 「【 2025 年最新動向】 ペロブスカイト太陽電池 の基礎知識と ... — 【 2025 年最新動向】 ペロブスカイト太陽電池 の基礎知識と ... 株式会社エネテク https://enetech.co.jp > guide > perovskite-solar-cells」（https://enetech.co.jp/guide/perovskite-solar-cells/）
+  - 「Perovskite Solar Cells Market Size , Forecasts Report 2026-2035 — Perovskite Solar Cells Market Size , Forecasts Report 2026-2035 Global Market Insights Inc. https://www.gminsights.com > perovs...」（https://www.gminsights.com/industry-analysis/perovskite-solar-cells-market）
+  - 「Perovskite Solar Cells Market Size , Share and Forecast 2034 — Perovskite Solar Cells Market Size , Share and Forecast 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/industry-reports/perovskite-solar-cell-market-101556）
+  - 「Perovskite Solar Cell Market Size , Growth Report, 2026-2033 — Perovskite Solar Cell Market Size , Growth Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report）
+  - 「Perovskite Solar Cell Market Size , Share | CAGR 67.6% — Perovskite Solar Cell Market Size , Share | CAGR 67.6% Market.us https://market.us > Press Releases」（https://market.us/press-release/perovskite-solar-cell-market/）
 
 ## 水電解装置（water electrolyzer）
 - 文脈：12 GX ②水素等
@@ -4668,6 +5037,105 @@
   - 「Green Ammonia Market Size , Share | CAGR of 95.6% — Green Ammonia Market Size , Share | CAGR of 95.6% Market.us https://market.us > report > green-am...」（https://market.us/report/green-ammonia-market/）
   - 「Green Ammonia Market 2026-32 - Markntel Advisor — Green Ammonia Market 2026-32 - Markntel Advisor Markntel Advisor https://www.marknteladvisors.com > ...」（https://www.marknteladvisors.com/research-library/global-green-ammonia-market.html）
   - 「Green Ammonia Market Size, Share And Trends Report, 2034 — Green Ammonia Market Size, Share And Trends Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/green-ammonia-market-105642）
+
+## 合成燃料（e-fuels）
+- 文脈：12 GX ②水素等
+- 市場規模：
+  - 「合成燃料市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/synthetic-fuels-market）
+  - 「世界の合成燃料市場規模は、2025年には67億6,000万米ドルと評価され、2026年の79億9,000万米ドルから2034年には303億3,000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は18.15%となる見込みです」（https://straitsresearch.com/jp/report/synthetic-fuels-market）
+  - 「米国エネルギー省（DOE）は、2050年までに温室効果ガス排出量実質ゼロを達成するという戦略の一環として、合成燃料技術の研究開発に1億ドル以上を投じている」（https://straitsresearch.com/jp/report/synthetic-fuels-market）
+  - 「合成燃料市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）18.15%で成長すると予測されている」（https://straitsresearch.com/jp/report/synthetic-fuels-market）
+  - 「合成ガス市場規模、シェア、成長率、機会、分析（2034年まで）」（https://straitsresearch.com/jp/report/synthetic-fuels-market）
+  - 「燃料電池市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/synthetic-fuels-market）
+  - 「バイオマス発電市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/synthetic-fuels-market）
+  - 「世界の合成燃料市場規模は2033年までに313.8億米ドルに達する見込み」（https://www.sphericalinsights.com/jp/reports/synthetic-fuel-market）
+  - 「の市場規模 2023:」（https://www.sphericalinsights.com/jp/reports/synthetic-fuel-market）
+  - 「合成燃料 (e-fuel) 市場 | 市場規模 シェア 分析 成長性 2035年 【市場調査レポート】」（https://www.gii.co.jp/report/root1883715-e-fuels-market-till-distribution-by-type-fuel-type.html）
+  - 「Roots Analysisの調査によると、世界の合成燃料 (e-fuel) の市場規模は、現在の688億米ドルから、2035年までに2,866億米ドルへ成長し、予測期間におけるCAGRは15.34％と推定されています」（https://www.gii.co.jp/report/root1883715-e-fuels-market-till-distribution-by-type-fuel-type.html）
+  - 「USD 4,799 換算」（https://www.gii.co.jp/report/root1883715-e-fuels-market-till-distribution-by-type-fuel-type.html）
+  - 「USD 6,999 換算」（https://www.gii.co.jp/report/root1883715-e-fuels-market-till-distribution-by-type-fuel-type.html）
+  - 「USD 10,599 換算」（https://www.gii.co.jp/report/root1883715-e-fuels-market-till-distribution-by-type-fuel-type.html）
+  - 「USD 17,999 換算」（https://www.gii.co.jp/report/root1883715-e-fuels-market-till-distribution-by-type-fuel-type.html）
+- 成長率：
+  - 「合成燃料市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/synthetic-fuels-market）
+  - 「世界の合成燃料市場規模は、2025年には67億6,000万米ドルと評価され、2026年の79億9,000万米ドルから2034年には303億3,000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は18.15%となる見込みです」（https://straitsresearch.com/jp/report/synthetic-fuels-market）
+  - 「合成燃料市場の規模は、2026年には79億9000万米ドルと評価され、2034年までに303億3000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は18.15%です」（https://straitsresearch.com/jp/report/synthetic-fuels-market）
+  - 「合成燃料市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）18.15%で成長すると予測されている」（https://straitsresearch.com/jp/report/synthetic-fuels-market）
+  - 「合成ガス市場規模、シェア、成長率、機会、分析（2034年まで）」（https://straitsresearch.com/jp/report/synthetic-fuels-market）
+  - 「木炭ブリケット市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/synthetic-fuels-market）
+  - 「固体再生燃料市場の規模、シェア、成長率、2034年」（https://straitsresearch.com/jp/report/synthetic-fuels-market）
+  - 「微生物燃料電池市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/synthetic-fuels-market）
+  - 「燃料電池市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/synthetic-fuels-market）
+  - 「規模は、予測期間中に年平均成長率(CAGR)21.65%で成長し、2023年の44億2,000万米ドルから2033年には313億8,000万米ドルに達すると予想されています」（https://www.sphericalinsights.com/jp/reports/synthetic-fuel-market）
+  - 「予測期間のCAGR 2023 - 2033 :」（https://www.sphericalinsights.com/jp/reports/synthetic-fuel-market）
+  - 「Roots Analysisの調査によると、世界の合成燃料 (e-fuel) の市場規模は、現在の688億米ドルから、2035年までに2,866億米ドルへ成長し、予測期間におけるCAGRは15.34％と推定されています」（https://www.gii.co.jp/report/root1883715-e-fuels-market-till-distribution-by-type-fuel-type.html）
+  - 「Global Market Insights Inc.の最新調査によると、市場規模は 2026年の 1,784億米ドルから 2035年には 4,321億米ドルに拡大し、年平均成長率（CAGR）は 10.3%に達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/biofuel-market）
+  - 「年平均成長率（CAGR、2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/biofuel-market）
+  - 「同社は 2027年までに 2.2 Mt/年へ拡大する戦略も進めている」（https://www.gminsights.com/ja/industry-analysis/biofuel-market）
+- 上位シェア：
+  - 「合成燃料市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/synthetic-fuels-market）
+  - 「合成燃料市場の規模、シェア、トレンド分析レポート：製造方法別（フィッシャー・トロプシュ合成、メタノールからガソリン（MTG）、電気分解法）、用途別（ガソリン、ディーゼル、ジェット燃料、その他）、エンドユーザー別（輸送、発電、産業、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年」（https://straitsresearch.com/jp/report/synthetic-fuels-market）
+  - 「アジア太平洋地域は、2025年に36.8%の市場シェアを占め、合成燃料市場を牽引しました」（https://straitsresearch.com/jp/report/synthetic-fuels-market）
+  - 「2025年の合成燃料市場において、最大のシェアを占める地域はどこだったでしょうか？」（https://straitsresearch.com/jp/report/synthetic-fuels-market）
+  - 「アジア太平洋地域は2025年に36.8%のシェアを占め、市場を席巻した」（https://straitsresearch.com/jp/report/synthetic-fuels-market）
+  - 「合成ガス市場規模、シェア、成長率、機会、分析（2034年まで）」（https://straitsresearch.com/jp/report/synthetic-fuels-market）
+  - 「木炭ブリケット市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/synthetic-fuels-market）
+  - 「固体再生燃料市場の規模、シェア、成長率、2034年」（https://straitsresearch.com/jp/report/synthetic-fuels-market）
+  - 「微生物燃料電池市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/synthetic-fuels-market）
+  - 「燃料電池市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/synthetic-fuels-market）
+  - 「バイオマス発電市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/synthetic-fuels-market）
+  - 「世界の合成燃料市場の規模、シェア、COVID-19の影響分析、原材料別(石炭液化、バイオマス液化、ガス液化)、タイプ別(合成ガソリン、合成ディーゼル、合成灯油)、用途別(輸送、産業部門、発電)、地域別(北米、ヨーロッパ、アジア太平洋、ラテンアメリカ、中東、アフリカ)、2023～2033年の分析と予測」（https://www.sphericalinsights.com/jp/reports/synthetic-fuel-market）
+  - 「規模、シェア、および COVID-19 の影響分析、原材料別 (石炭から液体への変換、バイオマスから液体への変換、ガスから液体への変換)、タイプ別 (合成ガソリン、合成ディーゼル、合成灯油)、アプリケーション別 (輸送、産業部門、発電)、および地域別 (北米、ヨーロッパ、アジア太平洋、ラテンアメリカ、中東、アフリカ)、分析と予測 2023 ～ 2033」に関するレポートから、180 ページにわたる 110 の市場データ表と図表を含む主要な業界の洞察を参照してください」（https://www.sphericalinsights.com/jp/reports/synthetic-fuel-market）
+  - 「合成燃料 (e-fuel) 市場 | 市場規模 シェア 分析 成長性 2035年 【市場調査レポート】」（https://www.gii.co.jp/report/root1883715-e-fuels-market-till-distribution-by-type-fuel-type.html）
+  - 「バイオ燃料市場 サイズとシェア 2026 - 2035」（https://www.gminsights.com/ja/industry-analysis/biofuel-market）
+- 主要企業：
+  - 「業界が性能を損なうことなく二酸化炭素排出量の削減を目指す中、主要企業がこの需要に応えるべく先進的な生産技術に投資しており、ディーゼル燃料セグメントは今後も成長が見込まれます」（https://straitsresearch.com/jp/report/synthetic-fuels-market）
+  - 「この市場における主要企業は、アウディAG、ロイヤル・ダッチ・シェルPlc、エクソンモービル・コーポレーション、サソル・リミテッド、ペトロチャイナ・カンパニー・リミテッドである」（https://straitsresearch.com/jp/report/synthetic-fuels-market）
+  - 「Startups」（https://www.sphericalinsights.com/jp/reports/synthetic-fuel-market）
+  - 「当レポートでは、世界の合成燃料 (e-fuel) の市場を調査し、 市場概要、背景、市場影響因子の分析、市場規模の推移・予測、各種区分・地域別の詳細分析、競合情勢、主要企業のプロファイルなどをまとめています」（https://www.gii.co.jp/report/root1883715-e-fuels-market-till-distribution-by-type-fuel-type.html）
+  - 「第8章 主要企業の包括的データベース」（https://www.gii.co.jp/report/root1883715-e-fuels-market-till-distribution-by-type-fuel-type.html）
+  - 「バイオ燃料市場の主要企業」（https://www.gminsights.com/ja/industry-analysis/biofuel-market）
+  - 「バイオ燃料業界で事業を展開する主要企業は以下のとおりである」（https://www.gminsights.com/ja/industry-analysis/biofuel-market）
+  - 「Cargill は、原料供給とバイオディーゼル生産を通じてバイオ燃料市場を支える主要企業であり、複数地域における再生可能燃料の成長に寄与している」（https://www.gminsights.com/ja/industry-analysis/biofuel-market）
+  - 「バイオ燃料業界の主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/biofuel-market）
+  - 「業界で事業を展開する主要企業には、Neste Corporation、POET LLC、ADM、Cargill、Wilmar International、Chevron Corporation、TotalEnergies、UPM、Verbio、Praj Industries などが挙げられます」（https://www.gminsights.com/ja/industry-analysis/biofuel-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/biofuel-market）
+  - 「E-Fuel市場の主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/e-fuel-market）
+  - 「E-Fuel市場の主要企業として、European Energy/Kassø、INERATEC、Infinium、Nordic Ren-Gas、P2X Solutionsなどが挙げられる」（https://www.gminsights.com/ja/industry-analysis/e-fuel-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/e-fuel-market）
+  - 「Startups」（https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-alternative-fuels-market-statistics-report-till-2035）
+- 投資：
+  - 「出資者数 2」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_03_00.pdf）
+  - 「出資者数 12」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_03_00.pdf）
+  - 「出資者数 11」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_03_00.pdf）
+  - 「出資者数 10」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_03_00.pdf）
+  - 「出資者数 23」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_03_00.pdf）
+  - 「*2022年、6百万ユーロ出資」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_03_00.pdf）
+  - 「出資者数 21」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_03_00.pdf）
+  - 「出資者数 39」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_03_00.pdf）
+  - 「出資者数 3」（https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_03_00.pdf）
+  - 「2024年5月には、米国やチリ、ウルグアイに工場建設を計画する米国HIFグローバル社に約180億円を出資すると表明」（https://www.decarbonation-tech.com/intro_5010/）
+  - 「HIFグローバルへ１億1400万米ドルの出資を発表」（https://www.decarbonation-tech.com/intro_5010/）
+  - 「と水素からe-メタノールを合成する技術を有し、中国の麦芬隆上海環境工程技術（MFES）に出資して、2022年9月から商業運転（11万トン/年）を開始している」（https://www.decarbonation-tech.com/intro_5010/）
+  - 「2023年5月、丸紅は、MFESとMFESが出資し販売権を有する安陽順利環保科技（順利）が製造する」（https://www.decarbonation-tech.com/intro_5010/）
+  - 「Terreva Renewables（テレヴァ・リニューアブルズ）へ33.3％を出資」（https://www.decarbonation-tech.com/intro_5010/）
+  - 「2023年3月、ポルトガルのガス配送でシェア7割超のFloene（丸紅と東邦ガス共同で22.5％出資）を通じ、太陽光発電で地元企業が製造したグリーン水素を、」（https://www.decarbonation-tech.com/intro_5010/）
+- 検索結果の抜粋：
+  - 「合成燃料市場規模 、シェア、成長率、分析、レポート（2034 ... — 合成燃料市場規模 、シェア、成長率、分析、レポート（2034 ... Straits Research https://straitsresearch.com > エネルギーと電力 > バイオ燃料」（https://straitsresearch.com/jp/report/synthetic-fuels-market）
+  - 「合成燃料市場規模 、業界シェア、2034年までの予測 — 合成燃料市場規模 、業界シェア、2034年までの予測 Fortune Business Insights https://www.fortunebusinessinsights.com > 業界-レポート」（https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E5%90%88%E6%88%90%E7%87%83%E6%96%99%E5%B8%82%E5%A0%B4-101497）
+  - 「合成燃料市場 の分析、需要、2033年までの予測 — 合成燃料市場 の分析、需要、2033年までの予測 Spherical Insights https://www.sphericalinsights.com > Energy & Power」（https://www.sphericalinsights.com/jp/reports/synthetic-fuel-market）
+  - 「合成燃料 (e-fuel) の世界 市場 (～2035年) — 合成燃料 (e-fuel) の世界 市場 (～2035年) グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > ... > エネルギー/環境 > 化石燃料」（https://www.gii.co.jp/report/root1883715-e-fuels-market-till-distribution-by-type-fuel-type.html）
+  - 「合成燃料市場 規模、 シェア 、成長率、分析、レポート（2034 ... — 合成燃料市場 規模、 シェア 、成長率、分析、レポート（2034 ... Straits Research https://straitsresearch.com > エネルギーと電力 > バイオ燃料」（https://straitsresearch.com/jp/report/synthetic-fuels-market）
+  - 「e-fuel 市場 規模・予測レポート 2026〜2035年 — e-fuel 市場 規模・予測レポート 2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > e-fuel-market」（https://www.gminsights.com/ja/industry-analysis/e-fuel-market）
+  - 「合成燃料市場 規模、業界 シェア 、2034年までの予測 — 合成燃料市場 規模、業界 シェア 、2034年までの予測 Fortune Business Insights https://www.fortunebusinessinsights.com > 業界-レポート」（https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E5%90%88%E6%88%90%E7%87%83%E6%96%99%E5%B8%82%E5%A0%B4-101497）
+  - 「合成燃料市場 規模、シェア、成長率、分析、レポート（2034 ... — 合成燃料市場 規模、シェア、成長率、分析、レポート（2034 ... Straits Research https://straitsresearch.com > エネルギーと電力 > バイオ燃料」（https://straitsresearch.com/jp/report/synthetic-fuels-market）
+  - 「合成燃料市場 規模、業界シェア、2034年までの予測 — 合成燃料市場 規模、業界シェア、2034年までの予測 Fortune Business Insights https://www.fortunebusinessinsights.com > 業界-レポート」（https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E5%90%88%E6%88%90%E7%87%83%E6%96%99%E5%B8%82%E5%A0%B4-101497）
+  - 「E - fuels Market Report 2025 -2030 [269 Pages & 281 Tables] — E - fuels Market Report 2025 -2030 [269 Pages & 281 Tables] MarketsandMarkets https://www.marketsandmarkets.com > ...」（https://www.marketsandmarkets.com/Market-Reports/e-fuels-market-7297145.html）
+  - 「E - Fuel Market Size , Forecasts Report 2026-2035 — E - Fuel Market Size , Forecasts Report 2026-2035 Global Market Insights Inc. https://www.gminsights.com > e-fuel-...」（https://www.gminsights.com/industry-analysis/e-fuel-market）
+  - 「E - fuels Market Size , Share | CAGR of 18.31% — E - fuels Market Size , Share | CAGR of 18.31% Market.us https://market.us > e-fuels-market」（https://market.us/report/e-fuels-market/）
+  - 「E - fuel Market Size , Share & Forecast Analysis Report 2034 — E - fuel Market Size , Share & Forecast Analysis Report 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/e-fuel-market-109586）
+  - 「E - Fuel Market Size , Share And Growth Report, 2026-2050 — E - Fuel Market Size , Share And Growth Report, 2026-2050 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/e-fuel-market-report）
+  - 「E - fuels Market to Reach $66.25 Billion, at a 22.0% CAGR by ... — E - fuels Market to Reach $66.25 Billion, at a 22.0% CAGR by ... Yahoo Finance https://finance.yahoo.com > articles」（https://finance.yahoo.com/energy/articles/e-fuels-market-reach-66-133000852.html）
 
 ## 地熱発電（geothermal power）
 - 文脈：12 GX ④次世代型地熱
@@ -4861,6 +5329,104 @@
   - 「Offshore Wind Market Report [2026-2035] by Component & Geo — Offshore Wind Market Report [2026-2035] by Component & Geo MarketsandMarkets https://www.marketsandmarkets.com > ...」（https://www.marketsandmarkets.com/Market-Reports/offshore-wind-market-253452593.html）
   - 「Offshore Wind Power Market Size , Share | CAGR of 11.8% — Offshore Wind Power Market Size , Share | CAGR of 11.8% Market.us https://market.us > report > global-off...」（https://market.us/report/global-offshore-wind-power-market/）
 
+## 小型モジュール炉（small modular reactor）
+- 文脈：12 GX ⑥次世代革新炉
+- 市場規模：
+  - 「小型モジュール炉市場規模・成長レポート、2026〜2035年」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「世界の小型モジュール炉（SMR）市場は、2025年に36億米ドルと評価され、2026年から2035年にかけて年平均成長率（CAGR）12.7%で拡大し、2035年までに156億米ドルに達すると予測されている」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「Global Market Insights Inc.が発表した最新レポートによると、市場規模は2026年に53億米ドルに達する」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「2025年の市場規模」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「2026年の市場規模」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「2035年の予測市場規模」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「小型モジュール炉市場規模、炉型別、2023〜2035年（10億米ドル）」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「U.S. Small Modular Reactor Market Size, 2023 – 2035, (USD Billion)」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「2025年の市場は中程度の集中度を示している」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「2035年の小型モジュール炉市場はどのようになると予測されていますか？」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「市場規模は、2026年から2035年にかけて年平均成長率（CAGR）12.7%で成長し、2035年までに156億米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「世界の小型モジュール炉市場規模、シェア、分析、成長、予測（2032年まで）」（https://www.zionmarketresearch.com/ja/report/small-modular-reactor-market）
+  - 「2023年の市場規模」（https://www.zionmarketresearch.com/ja/report/small-modular-reactor-market）
+  - 「世界の小型モジュール式原子炉市場規模は、2023年には約」（https://www.zionmarketresearch.com/ja/report/small-modular-reactor-market）
+  - 「当社のリサーチアナリストによる分析によると、世界の小型モジュール式原子炉市場は、予測期間（2024年～2032年）において、年平均成長率（CAGR）約27.50%で成長すると推定されています」（https://www.zionmarketresearch.com/ja/report/small-modular-reactor-market）
+- 成長率：
+  - 「世界の小型モジュール炉（SMR）市場は、2025年に36億米ドルと評価され、2026年から2035年にかけて年平均成長率（CAGR）12.7%で拡大し、2035年までに156億米ドルに達すると予測されている」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「年平均成長率（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「PWR設計は2025年に31%のシェアを占め、年平均成長率（CAGR）16.3%で成長すると予測されます」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「BWR設計は28%のシェアを占め、年平均成長率（CAGR）18.6%での成長が予測されています」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「高速中性子炉は30%のシェアを占めましたが、主要炉型のなかでは年平均成長率（CAGR）が最も低く、9.7%にとどまります」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「HTGR設計は9.6%のシェアを占め、商用化された中国のHTR-PMと、X-energyによる産業展開への道筋に支えられ、年平均成長率（CAGR）29%で成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「溶融塩／FHRシステムは1%のシェアを占め、年平均成長率（CAGR）30.3%で成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「OkloのAuroraやGeneral AtomicsのEM²を含むその他の設計は、0.4%のシェアから始まるものの、小規模な基盤から年平均成長率（CAGR）36.3%を記録しています」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「発電は2025年に市場の80%を占め、年平均成長率（CAGR）16.7%で成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「産業用・プロセス熱は8%のシェアを占め、年平均成長率（CAGR）23.1%で拡大すると予測されています」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「水素製造は5%のシェアを占め、年平均成長率（CAGR）17.7%で成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「でしたが、2024年から2032年までの年平均成長率」（https://www.zionmarketresearch.com/ja/report/small-modular-reactor-market）
+  - 「当社のリサーチアナリストによる分析によると、世界の小型モジュール式原子炉市場は、予測期間（2024年～2032年）において、年平均成長率（CAGR）約27.50%で成長すると推定されています」（https://www.zionmarketresearch.com/ja/report/small-modular-reactor-market）
+  - 「27.50％のCAGR」（https://www.zionmarketresearch.com/ja/report/small-modular-reactor-market）
+  - 「予測期間中、世界のクリーンエネルギー市場は年平均成長率（CAGR）約10%で成長すると予想されています」（https://www.zionmarketresearch.com/ja/report/small-modular-reactor-market）
+- 上位シェア：
+  - 「小型モジュール炉市場 サイズとシェア 2026-2035」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「IEAは、データセンターが世界の電力消費に占める割合は、2022年の約1.5%から2030年には4〜6%になると予測している」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「PWR設計は2025年に31%のシェアを占め、年平均成長率（CAGR）16.3%で成長すると予測されます」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「BWR設計は28%のシェアを占め、年平均成長率（CAGR）18.6%での成長が予測されています」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「高速中性子炉は30%のシェアを占めましたが、主要炉型のなかでは年平均成長率（CAGR）が最も低く、9.7%にとどまります」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「HTGR設計は9.6%のシェアを占め、商用化された中国のHTR-PMと、X-energyによる産業展開への道筋に支えられ、年平均成長率（CAGR）29%で成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「溶融塩／FHRシステムは1%のシェアを占め、年平均成長率（CAGR）30.3%で成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「OkloのAuroraやGeneral AtomicsのEM²を含むその他の設計は、0.4%のシェアから始まるものの、小規模な基盤から年平均成長率（CAGR）36.3%を記録しています」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「発電は2025年に市場の80%を占め、年平均成長率（CAGR）16.7%で成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「産業用・プロセス熱は8%のシェアを占め、年平均成長率（CAGR）23.1%で拡大すると予測されています」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「小型モジュール炉市場の収益シェア、用途別（2025年）」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「小型モジュール式原子炉市場の規模、シェア、展望、予測（2032年まで）」（https://www.zionmarketresearch.com/ja/report/small-modular-reactor-market）
+  - 「世界の小型モジュール炉市場規模、シェア、分析、成長、予測（2032年まで）」（https://www.zionmarketresearch.com/ja/report/small-modular-reactor-market）
+  - 「売上高ベースでは、2025年に世界の上位2社が市場シェアの約％を占めました」（https://www.atpress.ne.jp/news/5679901）
+  - 「また、軽水炉SMR、高温ガス炉SMR、ナトリウム冷却炉SMR、溶融塩炉SMRなどのタイプ別セグメント、およびAIトレーニングSMR、クラウドSMR、HPC SMRなどの用途別セグメント、さらにクラウドデータセンター、AIデータセンター/AIサーバー、ハイパフォーマンスコンピューティング（HPC）などのアプリケーション別セグメントについて、それぞれ販売量、収益、市場シェア、販売価格の過去（2021年～2026年）のデータと分析が詳細にまとめられています」（https://www.atpress.ne.jp/news/5679901）
+- 主要企業：
+  - 「小型モジュール炉市場の主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「小型モジュール炉市場の主要企業には、GE Hitachi Nuclear Energy、CNNC (China National Nuclear Corp)、TerraPower、Rolls-Royce SMR Ltd、Rosatomなどが含まれ、これらの企業は2025年に合計で64%の市場シェアを占めました」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「対象となる主要企業」（https://www.zionmarketresearch.com/ja/report/small-modular-reactor-market）
+  - 「小型モジュール式原子炉市場の成長を活用している主要企業はどれですか？」（https://www.zionmarketresearch.com/ja/report/small-modular-reactor-market）
+  - 「また、主要メーカーの製造拠点分布、販売地域、提供製品タイプ、市場集中度（CR3、CR5、CR10）を含む競争環境分析、新製品開発、潜在的参入企業、および市場におけるM&A活動と戦略に関する情報が提供されています」（https://www.atpress.ne.jp/news/5679901）
+  - 「主要企業のリスト：」（https://www.reportocean.co.jp/industry-reports/small-modular-reactor-market）
+  - 「競合分析：小型モジュール炉（SMR）市場を支配しているのはどの主要企業か？」（https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market）
+  - 「小型モジュール式原子炉市場の主要企業」（https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market）
+  - 「データセンター向け電力ソリューションの拡大と船舶用原子力推進システムの普及拡大は、市場参入企業にとって新たな可能性を切り開く」（https://straitsresearch.com/jp/report/small-modular-reactor-market）
+  - 「主要企業は、原子炉設計における技術革新、強化された受動安全システム、モジュール製造能力、規制に関する専門知識、電力会社や政府機関との戦略的パートナーシップを通じて競争しています」（https://straitsresearch.com/jp/report/small-modular-reactor-market）
+  - 「この市場における主要企業は、NuScale Power Corporation、GE Hitachi Nuclear Energy、TerraPower, LLC、X-energy Reactor Companyである」（https://straitsresearch.com/jp/report/small-modular-reactor-market）
+  - 「主要企業のリスト：」（https://www.atpress.ne.jp/news/9798881）
+  - 「市場参入企業にとっては、単純な原子力発電設備市場ではなく、エネルギー・製造業・インフラ・クリーンテクノロジーを横断する新しい産業エコシステムとして理解することが重要になっています」（https://www.atpress.ne.jp/news/9798881）
+  - 「ゼネラル・エレクトリック社は、最新の原子力技術を統合した先進的なモジュール式原子炉ソリューションを提供する主要企業の一つです」（https://www.gii.co.jp/report/fbs1933185-small-modular-reactor-market-size-share-growth.html）
+- 投資：
+  - 「2030年まで、実際の立地・建設段階に到達するプロジェクトにとって、原子炉設計の差別化よりも資金調達規律が引き続き決定的な要素となる」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表」（https://www.atpress.ne.jp/news/5679901）
+  - 「NEAは、2025年末までに世界のSMRへの資金調達額が154億ドルに達したことを追跡調査し、国際的な巨額の資本投入を示しました」（https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market）
+  - 「小型モジュール炉（SMR）市場の大手企業の一つであるX-energyは、2026年4月のNASDAQ上場により10億ドル以上の資金調達に成功した」（https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market）
+  - 「小型モジュール炉市場における主要な投資および資金調達活動、2025年～2026年」（https://straitsresearch.com/jp/report/small-modular-reactor-market）
+  - 「2025年10月、ラストエナジー社は、ヨーロッパ全域の産業顧客および商業顧客向けに標準化されたマイクロリアクターの導入を加速させるため、シリーズB資金調達を実施した」（https://straitsresearch.com/jp/report/small-modular-reactor-market）
+  - 「2025年7月、ニュークレオ社は鉛冷却高速炉の開発を加速させ、ヨーロッパ全域でエンジニアリング活動を拡大するために、株式による資金調達を行った」（https://straitsresearch.com/jp/report/small-modular-reactor-market）
+  - 「は2024年10月、米国のX-エナジーに出資し、2039年までに合計5ギガワット以上のSMRを米国内で稼働させる計画を発表しました」（https://diamond.jp/zai/articles/-/1068973）
+  - 「【株主優待】必要投資額30万円台の“実力派”優待株の2銘柄！ 人気のお菓子などがもらえる｢明治HD｣と普段の食卓で使いやすい食品優待の｢理研ビタミン｣に注目」（https://diamond.jp/zai/articles/-/1068973）
+  - 「ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表」（https://www.atpress.ne.jp/news/9798881）
+  - 「同リポートは、人工知能の急速な普及に伴うデータセンターの電力消費急増とエネルギー安全保障の強化を背景に、小型モジュール炉SMRへの累積投資額が2040年までに1,514億5,000万ドルに達し、同年に18.65ギガワットが稼働すると予測しています」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
+  - 「24時間途切れないカーボンフリー電力を得るため、小型モジュール炉SMRの開発企業への出資や長期電力購入契約の締結が相次いでいます」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
+  - 「米テラパワーはエヌビディアなどの出資を受け、ワイオミング州で345メガワット級のナトリウム冷却炉の建設を進めています」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
+  - 「With AI infrastructure accelerating electricity consumption and governments prioritizing energy security, nuclear power and SMR technologies are positioned for significant investment through 2031. The report provides the market intelligence required to assess regional opportunities, competitive positioning, financing challenges, and emerging nuclear procurement models.」（https://finance.yahoo.com/energy/articles/global-nuclear-energy-renaissance-small-094200687.html）
+  - 「share in 2026 because two-module systems and multi-unit plants can align investment with demand growth.」（https://www.futuremarketinsights.com/reports/small-modular-reactor-market）
+- 検索結果の抜粋：
+  - 「小型モジュール炉市場規模 ・成長レポート、2026〜2035年 — 小型モジュール炉市場規模 ・成長レポート、2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > small-m...」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「小型モジュール炉市場 2035年には158億7000万米ドルへ拡大 — 小型モジュール炉市場 2035年には158億7000万米ドルへ拡大 Ｒｅｐｏｒｔ Ｏｃｅａｎ株式会社 https://www.reportocean.co.jp > industry-reports > small-...」（https://www.reportocean.co.jp/industry-reports/small-modular-reactor-market）
+  - 「小型モジュール炉市場 規模・成長レポート、2026〜2035年 — 小型モジュール炉市場 規模・成長レポート、2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > small-m...」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
+  - 「小型モジュール炉市場 規模、 シェア ｜成長予測[2035年] — 小型モジュール炉市場 規模、 シェア ｜成長予測[2035年] Astute Analytica https://www.astuteanalytica.com > industry-report > small-...」（https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market）
+  - 「小型モジュール炉SMR はデータセンターの深刻な電力不足を ... — 小型モジュール炉SMR はデータセンターの深刻な電力不足を ... オルタナティブ・ブログ https://blogs.itmedia.co.jp > business20 > 2026/10 > smrai」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
+  - 「Small Modular Reactor Market Size , Share | CAGR of 5.5% — Small Modular Reactor Market Size , Share | CAGR of 5.5% Market.us https://market.us > report > small-mo...」（https://market.us/report/small-modular-reactor-market/）
+  - 「Small Modular Reactor Market Size , Report, Industry, 2035 — Small Modular Reactor Market Size , Report, Industry, 2035 Roots Analysis https://www.rootsanalysis.com > small...」（https://www.rootsanalysis.com/small-modular-reactor-market）
+  - 「Small Modular Reactor Market Size | Industry Report, 2033 — Small Modular Reactor Market Size | Industry Report, 2033 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/small-modular-reactor-market-report）
+  - 「Small Modular Reactor Market Size & Share Analysis 2030 — Small Modular Reactor Market Size & Share Analysis 2030 Mordor Intelligence https://www.mordorintelligence.com > ...」（https://www.mordorintelligence.com/industry-reports/small-modular-reactor-smr-market）
+  - 「Small Modular Reactor Market Size, Growth Report 2026-2035 — Small Modular Reactor Market Size, Growth Report 2026-2035 Global Market Insights Inc. https://www.gminsights.com > small-...」（https://www.gminsights.com/industry-analysis/small-modular-reactor-market）
+  - 「US Small Modular Reactor Market (2024-2029) — US Small Modular Reactor Market (2024-2029) MarketsandMarkets https://www.marketsandmarkets.com > ...」（https://www.marketsandmarkets.com/Market-Reports/geography/small-modular-reactor-market/US）
+  - 「Small Modular Reactor Market Size, Report, Industry, 2035 — Small Modular Reactor Market Size, Report, Industry, 2035 Roots Analysis https://www.rootsanalysis.com > small...」（https://www.rootsanalysis.com/small-modular-reactor-market）
+  - 「Small Modular Reactor Market Size, Share | CAGR of 5.5% — Small Modular Reactor Market Size, Share | CAGR of 5.5% Market.us https://market.us > report > small-mo...」（https://market.us/report/small-modular-reactor-market/）
+  - 「5 Nuclear Stocks to Watch as SMRs and Microreactors Advance — 5 Nuclear Stocks to Watch as SMRs and Microreactors Advance Themes ETFs https://themesetfs.com > insights > 5-...」（https://themesetfs.com/insights/5-nuclear-stocks-to-watch-as-smrs-and-microreactors-advance）
+
 ## バイオ由来化学品（bio-based chemicals）
 - 文脈：12 GX ⑦GXケミカル
 - 市場規模：
@@ -5052,6 +5618,98 @@
   - 「Fusion Energy Market Size , Share | CAGR of 6.2% — Fusion Energy Market Size , Share | CAGR of 6.2% Market.us https://market.us > report > global-fus...」（https://market.us/report/global-fusion-energy-market/）
   - 「Fusion Energy Market Size , Share | Industry Trend - 2040 — Fusion Energy Market Size , Share | Industry Trend - 2040 Allied Market Research https://www.alliedmarketresearch.com > ...」（https://www.alliedmarketresearch.com/fusion-energy-market-A31820）
 
+## 防災技術（disaster management）
+- 文脈：14 防災 ①防災技術
+- 市場規模：
+  - 「拡大するスマート防災市場：国内2,000億円規模から世界12兆円市場へ - トレンド＆データ | 未来図（ミライズ）」（https://www.mirait-one.com/miraiz/whatsnew/trend-data_0069.html）
+  - 「拡大するスマート防災市場：国内2,000億円規模から世界12兆円市場へ」（https://www.mirait-one.com/miraiz/whatsnew/trend-data_0069.html）
+  - 「日本国内のスマート防災市場は、自治体の防災情報システム、IoTセンサー、AI解析、避難支援サービスなど防災DXを含む領域で、2024〜2025年時点で約2,000〜2,400億円規模の市場を形成しています」（https://www.mirait-one.com/miraiz/whatsnew/trend-data_0069.html）
+  - 「これにより、国内の広義の防災関連市場（ハード＋ソフト＋サービス全体）は、2025年に約3.5兆円、2030年には5兆円規模に達すると予測されています」（https://www.mirait-one.com/miraiz/whatsnew/trend-data_0069.html）
+  - 「2024年時点の市場規模は 639億5,000万ドルに達しており、2030年には 1,294億2,000万ドルへと倍増する見通しです」（https://www.mirait-one.com/miraiz/whatsnew/trend-data_0069.html）
+  - 「こうした動きにより、世界のスマート防災市場は今後も継続的に拡大し、2030年に向けて「高度な監視・予測・即応」を実現する防災インフラへの投資が加速すると見込まれています」（https://www.mirait-one.com/miraiz/whatsnew/trend-data_0069.html）
+  - 「総務省の令和5年版情報通信白書において、デジタルツインは世界的に急成長する市場であり、2025年には3兆9,142億円規模に達すると予測されています」（https://www.mirait-one.com/miraiz/whatsnew/trend-data_0069.html）
+  - 「ヒューマノイドロボットの市場規模は？2030年・2050年予測と各国の動向」（https://www.mirait-one.com/miraiz/whatsnew/trend-data_0069.html）
+  - 「災害対策システムの世界市場規模は2030年に2981億米ドル|年平均成長率（CAGR）: 7.4％ | Panorama Data Insights Ltd.のプレスリリース」（https://prtimes.jp/main/html/rd/p/000000016.000091008.html）
+  - 「災害対策システムの世界市場規模は2030年に2981億米ドル|年平均�成長率（CAGR）: 7.4％」（https://prtimes.jp/main/html/rd/p/000000016.000091008.html）
+  - 「災害対策システムの世界市場は、2021年から2030年までの予測期間中に年平均成長率（CAGR）7.4％で成長し、2030年には2981億米ドルに達すると予測されます. 2020年の災害対策システムの世界市場規模は14610億米ドルでした.」（https://prtimes.jp/main/html/rd/p/000000016.000091008.html）
+  - 「災害対策システムの世界市場規模は2030年に2981億米ドル|年平均成長率（CAGR）: 7.4％」（https://prtimes.jp/main/html/rd/p/000000016.000091008.html）
+  - 「防災情報システム・サービス市場 2025年に約1,160億円市場に発展」（https://www.seedplanning.co.jp/archive/press/2020/2020120401.html）
+  - 「• 防災情報システム・サービス市場は、2025年に約1,160億円に発展すると推計」（https://www.seedplanning.co.jp/archive/press/2020/2020120401.html）
+  - 「■防災情報システム・サービス市場は、2025年に約1,160億円に発展する」（https://www.seedplanning.co.jp/archive/press/2020/2020120401.html）
+- 成長率：
+  - 「拡大するスマート防災市場：国内2,000億円規模から世界12兆円市場へ - トレンド＆データ | 未来図（ミライズ）」（https://www.mirait-one.com/miraiz/whatsnew/trend-data_0069.html）
+  - 「拡大するスマート防災市場：国内2,000億円規模から世界12兆円市場へ」（https://www.mirait-one.com/miraiz/whatsnew/trend-data_0069.html）
+  - 「AI・IoT・デジタルツインなどを活用した「防災テック」領域は成長率が高く、年率10〜15％で拡大しています」（https://www.mirait-one.com/miraiz/whatsnew/trend-data_0069.html）
+  - 「2024年時点の市場規模は 639億5,000万ドルに達しており、2030年には 1,294億2,000万ドルへと倍増する見通しです」（https://www.mirait-one.com/miraiz/whatsnew/trend-data_0069.html）
+  - 「予測期間中の年平均成長率（CAGR）は 12.3% と非常に高く、世界的に最も成長が期待される防災関連市場の一つとなっています」（https://www.mirait-one.com/miraiz/whatsnew/trend-data_0069.html）
+  - 「こうした動きにより、世界のスマート防災市場は今後も継続的に拡大し、2030年に向けて「高度な監視・予測・即応」を実現する防災インフラへの投資が加速すると見込まれています」（https://www.mirait-one.com/miraiz/whatsnew/trend-data_0069.html）
+  - 「災害対策システムの世界市場規模は2030年に2981億米ドル|年平均成長率（CAGR）: 7.4％ | Panorama Data Insights Ltd.のプレスリリース」（https://prtimes.jp/main/html/rd/p/000000016.000091008.html）
+  - 「災害対策システムの世界市場規模は2030年に2981億米ドル|年平均�成長率（CAGR）: 7.4％」（https://prtimes.jp/main/html/rd/p/000000016.000091008.html）
+  - 「災害対策システムの世界市場は、2021年から2030年までの予測期間中に年平均成長率（CAGR）7.4％で成長し、2030年には2981億米ドルに達すると予測されます. 2020年の災害対策システムの世界市場規模は14610億米ドルでした.」（https://prtimes.jp/main/html/rd/p/000000016.000091008.html）
+  - 「災害対策システムの世界市場規模は2030年に2981億米ドル|年平均成長率（CAGR）: 7.4％」（https://prtimes.jp/main/html/rd/p/000000016.000091008.html）
+  - 「CAGR (2025 - 2035)」（https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725）
+  - 「災害対策システム業界は、2025年に156.4億米ドルから2035年には287.7億米ドルに成長する見込みで、2025年から2035年の予測期間中に年平均成長率（CAGR）は6.28を示します」（https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725）
+  - 「組織がこれらの技術をますます採用するにつれて、市場は大幅に拡大することが予測されており、年率10％以上の成長率が見込まれています」（https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725）
+  - 「災害対策システム市場は、気候関連の災害の増加と技術の進歩により、2024年から2035年までの間に6.28%のCAGRで成長することが予測されています」（https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725）
+  - 「2025年から2035年の予測期間中における災害対策システム市場の予想CAGRはどのくらいですか？」（https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725）
+- 上位シェア：
+  - 「北米は、災害備蓄システムの最大の市場であり、世界市場の約45%を占めています」（https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725）
+  - 「カナダは、全体の市場シェアの約20%を占める第二の市場として続いています」（https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725）
+  - 「この地域は、世界市場の約25%を占めており、ドイツと英国が最大の貢献国で、それぞれ約10%と8%を占めています」（https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725）
+  - 「この地域は、世界市場の約20%を占めており、日本やオーストラリアが先頭を切っています」（https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725）
+  - 「この地域は、世界市場の約10%を占めており、南アフリカやUAEが先頭を切っています」（https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725）
+  - 「市場全体の約82%を占めると予想」（https://www.enegaeru.com/disasterpreventionandmitigation-servicesmarket）
+  - 「、2035年度にはサービス提供型の市場が70%以上を占めるようになると予測」（https://www.enegaeru.com/disasterpreventionandmitigation-servicesmarket）
+  - 「気候変動適応に関連する市場セグメントが市場全体の40〜50%を占める」（https://www.enegaeru.com/disasterpreventionandmitigation-servicesmarket）
+  - 「2025年シェア」（https://www.enegaeru.com/disasterpreventionandmitigation-servicesmarket）
+  - 「2030年シェア」（https://www.enegaeru.com/disasterpreventionandmitigation-servicesmarket）
+  - 「2040年シェア」（https://www.enegaeru.com/disasterpreventionandmitigation-servicesmarket）
+  - 「2050年シェア」（https://www.enegaeru.com/disasterpreventionandmitigation-servicesmarket）
+  - 「In terms of component, in 2024, the solution segment dominated the natural disaster management market share due to the heightened deployment of advanced early warning systems.」（https://www.preventionweb.net/news/disaster-management-market-size-worth-usd-19991-billion-2034-cagr-121）
+  - 「Based on end user, in 2024, the rescue personnel segment accounted for the largest market share due to their frontline operational role requiring high-performance disaster response tools.」（https://www.preventionweb.net/news/disaster-management-market-size-worth-usd-19991-billion-2034-cagr-121）
+  - 「In 2024, North America held the largest share of the natural disaster management market revenue due to significant federal and state-level investments in disaster preparedness, coupled with robust infrastructure for early warning systems and emergency response.」（https://www.preventionweb.net/news/disaster-management-market-size-worth-usd-19991-billion-2034-cagr-121）
+- 主要企業：
+  - 「災害対策システムの世界市場における主要企業のプロファイル一覧」（https://prtimes.jp/main/html/rd/p/000000016.000091008.html）
+  - 「Other Prominent Players」（https://prtimes.jp/main/html/rd/p/000000016.000091008.html）
+  - 「④ 主要企業別の落札件数・合計落札金額一覧」（https://www.seedplanning.co.jp/archive/press/2020/2020120401.html）
+  - 「⑤ 主要企業別の落札件数（市場セグメント別）」（https://www.seedplanning.co.jp/archive/press/2020/2020120401.html）
+  - 「（5）主要企業が提供するSNS投稿分析サービス」（https://www.seedplanning.co.jp/archive/press/2020/2020120401.html）
+  - 「Key Players」（https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725）
+  - 「北米の競争環境は堅牢であり、ハネウェル、ゼネラル・エレクトリック、IBMなどの主要企業が存在します」（https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725）
+  - 「主要企業と競争の洞察」（https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725）
+  - 「ハネウェル（米国）、シーメンス（ドイツ）、IBM（米国）などの主要企業が最前線に立ち、それぞれが市場ポジションを強化するための独自の戦略を採用しています」（https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725）
+  - 「市場構造は中程度に分散しているようで、いくつかの主要企業が substantialな市場シェアを持ち、多くの小規模企業がニッチセグメントに貢献しています」（https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725）
+  - 「これらの主要企業の集合的な影響が競争のダイナミクスを形成し、サービス提供や市場のリーチを強化するために戦略的パートナーシップやコラボレーションを行っています」（https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725）
+  - 「災害対策システム市場市場の主要企業には以下が含まれます」（https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725）
+  - 「主要企業のプロファイル」（https://www.marketresearchfuture.com/ja/reports/disaster-preparedness-system-market-28725）
+  - 「産業構造の変化と新規参入企業の動向」（https://www.enegaeru.com/disasterpreventionandmitigation-servicesmarket）
+  - 「新規参入企業の動向」（https://www.enegaeru.com/disasterpreventionandmitigation-servicesmarket）
+- 投資：
+  - 「In 2024, North America held the largest share of the natural disaster management market revenue due to significant federal and state-level investments in disaster preparedness, coupled with robust infrastructure for early warning systems and emergency response.」（https://www.preventionweb.net/news/disaster-management-market-size-worth-usd-19991-billion-2034-cagr-121）
+  - 「In 2025, North America dominated with a 49.8% share owing to the substantial investments and a robust existing response infrastructure.」（https://www.polarismarketresearch.com/industry-analysis/natural-disaster-management-market）
+  - 「By region, the study provides natural disaster management market insights into North America, Europe, Asia Pacific, Latin America, and the Middle East & Africa. In 2025, North America dominated the natural disaster management market share due to significant federal and state-level investments in」（https://www.polarismarketresearch.com/industry-analysis/natural-disaster-management-market）
+  - 「In 2025, North America accounted for the largest market share due to significant federal and state-level investments in disaster preparedness, coupled with robust infrastructure for early warning systems and emergency response.」（https://www.polarismarketresearch.com/industry-analysis/natural-disaster-management-market）
+  - 「4.2.1.1. Government Investments in Resilience Infrastructure」（https://www.polarismarketresearch.com/industry-analysis/natural-disaster-management-market）
+  - 「3.2.1 High initial investment costs」（https://www.kenresearch.com/global-disaster-preparedness-systems-market）
+  - 「3.4.1 Increasing investment in smart technologies」（https://www.kenresearch.com/global-disaster-preparedness-systems-market）
+  - 「3.5.3 Funding and grants for disaster preparedness initiatives」（https://www.kenresearch.com/global-disaster-preparedness-systems-market）
+  - 「8.6 By Investment Source」（https://www.kenresearch.com/global-disaster-preparedness-systems-market）
+  - 「8.6.1 Public Funding」（https://www.kenresearch.com/global-disaster-preparedness-systems-market）
+  - 「8.6.2 Private Investments」（https://www.kenresearch.com/global-disaster-preparedness-systems-market）
+  - 「8.6.4 Crowdfunding Initiatives」（https://www.kenresearch.com/global-disaster-preparedness-systems-market）
+  - 「9.2.6 R&D Investment as % of Revenue」（https://www.kenresearch.com/global-disaster-preparedness-systems-market）
+  - 「Asia Pacific is poised to be the fastest-growing regional market from 2025 to 2032 at around 7.3% CAGR, benefiting from higher investments in disaster reduction technologies, policy reforms, and aggressive Smart City investments.」（https://www.persistencemarketresearch.com/market-research/crisis-emergency-and-incident-management-platforms-market.asp）
+  - 「Asia Pacific is the fastest-growing regional market for crisis, emergency, and incident management platforms, poised to expand at a CAGR of 7.3% between 2025 and 2032. This growth is energized by a convergence of factors, including rapid urbanization in China, India, and ASEAN nations, government-led Smart City investments, and increasing digital literacy rates facilitating technology penetration.」（https://www.persistencemarketresearch.com/market-research/crisis-emergency-and-incident-management-platforms-market.asp）
+- 検索結果の抜粋：
+  - 「防災 システムの 市場規模 とシェア、2034 年 — 防災 システムの 市場規模 とシェア、2034 年 Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 情報技術」（https://www.fortunebusinessinsights.com/jp/%E9%98%B2%E7%81%BD%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%B8%82%E5%A0%B4-117962）
+  - 「防災 システムの 市場 規模と シェア 、2034 年 — 防災 システムの 市場 規模と シェア 、2034 年 Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 情報技術」（https://www.fortunebusinessinsights.com/jp/%E9%98%B2%E7%81%BD%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%B8%82%E5%A0%B4-117962）
+  - 「防災 システム - メーカー・ 企業 7社の業務用製品ランキング — 防災 システム - メーカー・ 企業 7社の業務用製品ランキング 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 防災システム」（https://mono.ipros.com/cg1/%E9%98%B2%E7%81%BD%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/）
+  - 「Disaster management market size worth USD 199.91 billion ... — Disaster management market size worth USD 199.91 billion ... PreventionWeb.net https://www.preventionweb.net > news」（https://www.preventionweb.net/news/disaster-management-market-size-worth-usd-19991-billion-2034-cagr-121）
+  - 「Disaster Management Market Size and Forecast 2026 to 2034 — Disaster Management Market Size and Forecast 2026 to 2034 Precedence Research https://www.precedenceresearch.com > ...」（https://www.precedenceresearch.com/disaster-management-market）
+  - 「Disaster Management Market [2035] Size & Growth Report — Disaster Management Market [2035] Size & Growth Report Business Research Insights https://www.businessresearchinsights.com > ...」（https://www.businessresearchinsights.com/market-reports/disaster-management-market-105525）
+  - 「GIS in Disaster Management Market | Growth Statistics By 2030 — GIS in Disaster Management Market | Growth Statistics By 2030 P&S Intelligence https://www.psmarketresearch.com > ...」（https://www.psmarketresearch.com/market-analysis/gis-in-disaster-management-market-analysis）
+  - 「Natural Disaster Management Market (2026 - 2033) — Natural Disaster Management Market (2026 - 2033) Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/natural-disaster-management-market-report）
+
 ## 港湾クレーン（ship to shore crane）
 - 文脈：15 港湾ロジ ①港湾荷役機械
 - 市場規模：
@@ -5221,6 +5879,105 @@
   - 「Smart Port Market Size Share and Growth Report 2035 — Smart Port Market Size Share and Growth Report 2035 Market Research Future https://www.marketresearchfuture.com > ...」（https://www.marketresearchfuture.com/reports/smart-port-market-29632）
   - 「UK Smart Port Market (2025-2030) - MarketsandMarkets — UK Smart Port Market (2025-2030) - MarketsandMarkets MarketsandMarkets https://www.marketsandmarkets.com > ...」（https://www.marketsandmarkets.com/Market-Reports/geography/smart-ports-market/uk）
   - 「Smart Port Market Size, Share | Industry Report [2026-2034] — Smart Port Market Size, Share | Industry Report [2026-2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/smart-ports-market-112364）
+
+## 自動倉庫（automated storage and retrieval system）
+- 文脈：15 港湾ロジ ③次世代型倉庫
+- 市場規模：
+  - 「倉庫自動化市場規模、シェア、および予測 – 2034年」（https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market）
+  - 「世界の倉庫自動化市場規模は、2024年に265億米ドルと評価され、2025年から2034年にかけて15.9%のCAGRで成長すると推定されています」（https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market）
+  - 「2024年市場規模」（https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market）
+  - 「2034年予測市場規模」（https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market）
+  - 「倉庫自動化市場規模、コンポーネント別、2021年~2034年(10億米ドル)」（https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market）
+  - 「ハードウェア市場は、2034年までに15.3%のCAGRで成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market）
+  - 「サービス市場は、2024年に37%の市場シェアを占めました」（https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market）
+  - 「Eコマースフルフィルメントセンター市場は、2034年までに313億米ドルに達すると予想されています」（https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market）
+  - 「オンプレミス市場は、2034年までに478億米ドルに達すると予想されています」（https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market）
+  - 「自動倉庫モジュールの世界市場（2026年～2032年）、市場規模（シングルレベル型、デュアルレベル型）・分析レポートを発表 | NEWSCAST」（https://newscast.jp/smart/news/4495383）
+  - 「自動倉庫モジュールの世界市場（2026年～2032年）、市場規模（シングルレベル型、デュアルレベル型）・分析レポートを発表」（https://newscast.jp/smart/news/4495383）
+  - 「世界の自動倉庫モジュール（ASRM）市場規模は、2025年の5億1,300万米ドルから2032年には7億2,500万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）5.2%で成長すると見込まれています」（https://newscast.jp/smart/news/4495383）
+  - 「米国の自動倉庫（AS/RS）市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年にかけて年平均成長率（CAGR）XX％で成長すると推定されています」（https://newscast.jp/smart/news/4495383）
+  - 「中国の自動倉庫モジュール市場は、2025年の数百万米ドルから2032年には数百万米ドルへと拡大し、2026年から2032年にかけて年平均成長率（CAGR）%で成長すると予測されています」（https://newscast.jp/smart/news/4495383）
+  - 「欧州の自動倉庫モジュール市場は、2025年のX百万米ドルから2032年にはX百万米ドルへと拡大し、2026年から2032年までのCAGRは%になると予測されています」（https://newscast.jp/smart/news/4495383）
+- 成長率：
+  - 「世界の倉庫自動化市場規模は、2024年に265億米ドルと評価され、2025年から2034年にかけて15.9%のCAGRで成長すると推定されています」（https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market）
+  - 「年平均成長率(2025年~2034年)」（https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market）
+  - 「国際貿易局(ITA)によると、世界のB2C電子商取引の収益だけでも、2017年の1兆4000億米ドルから2027年には5兆5000億米ドルに達し、年平均成長率14.4%で成長する見込みです」（https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market）
+  - 「ハードウェア市場は、2034年までに15.3%のCAGRで成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market）
+  - 「自律移動ロボット(AMR)市場は、2034年までに18%のCAGRで成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market）
+  - 「カナダ倉庫自動化市場は2034年までに17.5%の年平均成長率で成長すると予想されています」（https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market）
+  - 「ドイツ倉庫自動化市場は2034年までに17%の年平均成長率で成長すると予想されています」（https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market）
+  - 「英国倉庫自動化市場は2034年までに16.3%の年平均成長率で成長すると予想されています」（https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market）
+  - 「フランスの倉庫自動化市場は、2034年までに15.4%のCAGRで成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market）
+  - 「スペインの倉庫自動化市場は、2034年までに14.2%のCAGRで成長すると予想されています」（https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market）
+  - 「アジア太平洋地域は、2034年までに17.9%のCAGRで成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market）
+  - 「インドの倉庫自動化市場は、2034年までに19.6%のCAGRで成長すると予想されています」（https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market）
+  - 「世界の自動倉庫モジュール（ASRM）市場規模は、2025年の5億1,300万米ドルから2032年には7億2,500万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）5.2%で成長すると見込まれています」（https://newscast.jp/smart/news/4495383）
+  - 「米国の自動倉庫（AS/RS）市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年にかけて年平均成長率（CAGR）XX％で成長すると推定されています」（https://newscast.jp/smart/news/4495383）
+  - 「中国の自動倉庫モジュール市場は、2025年の数百万米ドルから2032年には数百万米ドルへと拡大し、2026年から2032年にかけて年平均成長率（CAGR）%で成長すると予測されています」（https://newscast.jp/smart/news/4495383）
+- 上位シェア：
+  - 「倉庫自動化市場規模、シェア、および予測 – 2034年」（https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market）
+  - 「倉庫自動化市場 サイズとシェア 2025 – 2034」（https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market）
+  - 「サービス市場は、2024年に37%の市場シェアを占めました」（https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market）
+  - 「倉庫自動化市場シェア、倉庫タイプ別、2024年」（https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market）
+  - 「冷蔵倉庫は、2024年に22.6%の市場シェアを占めました」（https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market）
+  - 「クラウドベース倉庫セグメントは、2024年に市場で35.3%のシェアを占めました」（https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market）
+  - 「自動保管・搬送システム(AS/RS)は、2024年に26.3%の市場シェアを占めました」（https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market）
+  - 「在庫追跡&管理は、2024年に26.2%の市場シェアを占めました」（https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market）
+  - 「食品・飲料業界は2024年に市場シェアの16.4%を占めました」（https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market）
+  - 「北米は2024年に市場シェアの35.6%を占めました」（https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market）
+  - 「欧州は2024年に21.8%の重要な市場シェアを占めました」（https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market）
+  - 「イタリアの倉庫自動化市場は、2024年に14.2%のシェアを占めました」（https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market）
+  - 「中国の倉庫自動化市場は、2024年に市場シェアの48.9%を占めました」（https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market）
+  - 「日本の倉庫自動化市場は、2024年に12.3%のシェアを占めました」（https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market）
+  - 「ラテンアメリカは、2024年に倉庫自動化市場の6.9%のシェアを占めました」（https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market）
+- 主要企業：
+  - 「業界の主要企業には、6 River Systems、AutoStore、Bastian Solutions、Daifuku、Dematic、Element Logicなどが挙げられる」（https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market）
+  - 「また、本レポートでは、世界的な主要企業の戦略を分析し、ASRMのポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当てることで、加速する世界のASRM市場におけるこれらの企業の独自の立場をより深く理解できるようにしています」（https://newscast.jp/smart/news/4495383）
+  - 「また、本レポートでは、世界的な主要企業の戦略を分析し、ASRMのポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当てることで、加速する世界のASRM市場におけるこれらの企業の独自の立場をより深く理解できるようにしています」（https://www.atpress.ne.jp/news/4495383）
+  - 「主要な市場参入企業、堅牢なインフラ、ロボット工学、AI、IoTなどの自動化技術への高い投資が、市場の成長にさらに貢献しています」（https://www.gii.co.jp/report/mama1649591-automated-storage-retrieval-system-market-by-type.html）
+  - 「スマートウェアハウジングと持続可能性を重視する傾向が強まっている北米は、世界のASRS市場における主要参入企業です」（https://www.gii.co.jp/report/mama1649591-automated-storage-retrieval-system-market-by-type.html）
+  - 「主要参入企業の戦略/強み、2021年～2024年」（https://www.gii.co.jp/report/mama1649591-automated-storage-retrieval-system-market-by-type.html）
+  - 「企業評価マトリックス：主要参入企業、2024年」（https://www.gii.co.jp/report/mama1649591-automated-storage-retrieval-system-market-by-type.html）
+  - 「主要参入企業」（https://www.gii.co.jp/report/mama1649591-automated-storage-retrieval-system-market-by-type.html）
+  - 「株式会社矢野経済研究所（代表取締役社長：水越孝）は、国内の物流ロボティクス市場を調査し、市場規模、参入企業の動向、将来展望を明らかにした」（https://www.yano.co.jp/press-release/show/press_id/3762?srsltid=AYCX9vI3JDvOAdi0-kBsYVRZ4ym3bHGJF4bpaL7iJmVJaHdROUdOr_tp）
+  - 「全般的な通販の物流・出荷代行を行う通販フルフィルメントサービスは、ECの参入企業および利用者の増加により需要増加が続いている」（https://www.fuji-keizai.co.jp/press/detail.html?cid=20005&la=en）
+  - 「Key Players」（https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market）
+  - 「Leading Players:」（https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market）
+  - 「Automated Storage and Retrieval System (ASRS) Market Share & Competitive Landscape」（https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market）
+  - 「Who are the major players in Automated Storage and Retrieval System (ASRS) Market?」（https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market）
+- 投資：
+  - 「ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表」（https://www.atpress.ne.jp/news/4495383）
+  - 「A McKinsey survey of 65 senior logistics and supply chain executives found 70% planned automation investment over five years」（https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market）
+  - 「Distribution centers generated USD 3.52 billion in 2025 and are projected to hold 34.0% of revenue by 2035. Their scale, throughput demands, and mix of inbound pallet handling and outbound order processing make them the natural anchor application for ASRS investment.」（https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market）
+  - 「3PL and contract logistics is projected to reach USD 3.45 billion by 2035 and accounted for 13.0% of revenue in 2025. These operators can create repeated procurement opportunities because automation investments are often deployed across multiple facilities serving distinct customer contracts and service-level requirements.」（https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market）
+  - 「The United States generated USD 2.71 billion in 2025 and is projected to represent 87.1% of North American revenue by 2035. Warehouse labor economics, semiconductor and battery manufacturing investment, and large-scale retail distribution networks support demand for both fulfillment-focused and production-adjacent automation.」（https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market）
+  - 「Spain represented 10.7% of European revenue in 2025 and is forecast to grow at a 7.0% CAGR (2026-2035). Its position as a southern European logistics hub and continued investment in e-commerce and apparel distribution are increasing demand for scalable fulfillment automation.」（https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market）
+  - 「China is expected to reach USD 3.60 billion by 2035 and represented 42.6% of Asia Pacific revenue in 2025. Domestic OEM development, industrial automation priorities, and continued investment in e-commerce and cold-chain logistics position the country as the region's largest demand center.」（https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market）
+  - 「Japan is projected to reach USD 2.18 billion by 2035 and represented 24.4% of Asia Pacific revenue in 2025. Replacement of mature installations, precision manufacturing logistics, and demographic pressure on warehouse labor underpin investment in both established and robotic ASRS formats.」（https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market）
+  - 「Latin America generated USD 440 million in 2025 and is forecast to grow at a 7.1% CAGR (2026-2035). Formal retail expansion, e-commerce investment, and modernization by multinational logistics and food companies support adoption, although financing conditions and macroeconomic volatility remain project-level considerations.」（https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market）
+  - 「Mexico generated USD 150 million in 2025 and is projected to account for 34.8% of Latin American revenue by 2035. Nearshoring-driven manufacturing investment and cross-border supply-chain integration are supporting demand for compatible warehouse-control and storage automation platforms.」（https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market）
+  - 「Saudi Arabia generated USD 130 million in 2025 and is forecast to grow at a 14.9% CAGR (2026-2035). Logistics investment, domestic e-commerce development, and modernization of food and pharmaceutical supply chains are expanding the market for automated distribution infrastructure.」（https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market）
+  - 「Murata Machinery held approximately 8% of market revenue in 2025. Its specialization in semiconductor automated material handling, mini-load systems, and precision manufacturing environments creates a differentiated position as investment in advanced manufacturing facilities continues.」（https://www.gminsights.com/industry-analysis/automated-storage-and-retrieval-system-market）
+  - 「Most mid-size deployments (200,000–500,000 sq ft) achieve payback within 3–5 years depending on labor-cost geography and shift structure . Facilities running three shifts in high-wage regions often recoup investment in under three years.」（https://www.marketresearchfuture.com/reports/automated-storage-retrieval-system-market-3886）
+  - 「Germany advances in the market through Industry 4.0 smart factory modernisation, smart factory integration, and dominance of the automotive sector. The German federal government launched digital frameworks, major legislative packages, and funding injections to boost the modernization of its supply chains.」（https://www.precedenceresearch.com/automated-storage-and-retrieval-system-market）
+  - 「Stellantis announced a US$388 million investment for the development of a new state-of-the-art Mopar service-parts distribution megahub located in Van Buren Township, Michigan. The facility is expected to open in 2027 with about 488 workers represented by the UAW and utilizes AutoStore automated storage and retrieval technology to improve and centralize its parts distribution network.」（https://www.precedenceresearch.com/automated-storage-and-retrieval-system-market）
+- 検索結果の抜粋：
+  - 「倉庫 自動化 市場規模 、シェア、および予測 – 2034年 — 倉庫 自動化 市場規模 、シェア、および予測 – 2034年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > wareho...」（https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market）
+  - 「自動倉庫 モジュールの世界 市場 （2026年～2032年） — 自動倉庫 モジュールの世界 市場 （2026年～2032年） Newscast.jp https://newscast.jp > smart > news」（https://newscast.jp/smart/news/4495383）
+  - 「自動倉庫 モジュールの世界 市場 （2026年～2032年） — 自動倉庫 モジュールの世界 市場 （2026年～2032年） アットプレス https://www.atpress.ne.jp > news」（https://www.atpress.ne.jp/news/4495383）
+  - 「自動倉庫 システム市場| 市場規模 市場調査 予測 2030年まで — 自動倉庫 システム市場| 市場規模 市場調査 予測 2030年まで グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > ... > オートメーション/ロボット」（https://www.gii.co.jp/report/mama1649591-automated-storage-retrieval-system-market-by-type.html）
+  - 「自動倉庫 retrieval システム 市場 (2026 – 2035) — 自動倉庫 retrieval システム 市場 (2026 – 2035) Market Research Future https://www.marketresearchfuture.com > reports > automa...」（https://www.marketresearchfuture.com/ja/reports/automated-storage-retrieval-system-market-3886）
+  - 「倉庫 自動化 市場シェア 、規模、傾向、2034 年 — 倉庫 自動化 市場シェア 、規模、傾向、2034 年 Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 情報技術」（https://www.fortunebusinessinsights.com/jp/%E5%80%89%E5%BA%AB%E8%87%AA%E5%8B%95%E5%8C%96%E5%B8%82%E5%A0%B4-112006）
+  - 「自動倉庫 の代表的メーカー11選｜特徴と選び方をわかりやすく ... — 自動倉庫 の代表的メーカー11選｜特徴と選び方をわかりやすく ... n-apt.com https://n-apt.com > automatic-warehouse-manufacturer」（https://n-apt.com/info/automatic-warehouse-manufacturer/）
+  - 「倉庫 自動化 市場 規模、 シェア 、および予測 – 2034年 — 倉庫 自動化 市場 規模、 シェア 、および予測 – 2034年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > wareho...」（https://www.gminsights.com/ja/industry-analysis/warehouse-automation-market）
+  - 「自動倉庫 システム メーカー36社 注目ランキング【2026年】 — 自動倉庫 システム メーカー36社 注目ランキング【2026年】 Metoree https://metoree.com > categories」（https://metoree.com/categories/110055/）
+  - 「物流ロボティクス 市場 に関する調査を実施（ 2025 年） — 物流ロボティクス 市場 に関する調査を実施（ 2025 年） yano.co.jp https://www.yano.co.jp > press-release > show > press_id」（https://www.yano.co.jp/press-release/show/press_id/3762?srsltid=AYCX9vI3JDvOAdi0-kBsYVRZ4ym3bHGJF4bpaL7iJmVJaHdROUdOr_tp）
+  - 「自動倉庫 ・検索システム 市場 規模、 市場 シェア、2034年 — 自動倉庫 ・検索システム 市場 規模、 市場 シェア、2034年 Straits Research https://straitsresearch.com > 情報技術 > テクノロジー」（https://straitsresearch.com/jp/report/automated-storage-and-retrieval-system-market）
+  - 「ボックス型 自動倉庫 ソリューションの世界 市場 （2026年 ... — ボックス型 自動倉庫 ソリューションの世界 市場 （2026年 ... アットプレス https://www.atpress.ne.jp > news」（https://www.atpress.ne.jp/news/9375049）
+  - 「Automated Storage and Retrieval System Market (2026 – 2035) — Automated Storage and Retrieval System Market (2026 – 2035) Market Research Future https://www.marketresearchfuture.com > ...」（https://www.marketresearchfuture.com/reports/automated-storage-retrieval-system-market-3886）
+  - 「Automated Storage And Retrieval Systems Market Size , 2030 — Automated Storage And Retrieval Systems Market Size , 2030 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/automated-storage-retrievel-system-market-report）
+  - 「Automated Storage and Retrieval System Market worth $12.7 ... — Automated Storage and Retrieval System Market worth $12.7 ... PR Newswire https://www.prnewswire.com > autom...」（https://www.prnewswire.com/news-releases/automated-storage-and-retrieval-system-market-worth-12-7-billion-by-2028---exclusive-report-by-marketsandmarkets-301941165.html）
 
 ## 冷凍冷蔵倉庫（cold storage）
 - 文脈：15 港湾ロジ ③次世代型倉庫
@@ -5418,6 +6175,95 @@
   - 「Vertical Farming Market Size , Share | CAGR of 8.3% — Vertical Farming Market Size , Share | CAGR of 8.3% Market.us https://market.us > report > vertical-fa...」（https://market.us/report/vertical-farming-market/）
   - 「Asia-Pacific Vertical Farming Market Share & Growth, 2034 — Asia-Pacific Vertical Farming Market Share & Growth, 2034 Market Data Forecast https://www.marketdataforecast.com > ...」（https://www.marketdataforecast.com/market-reports/apac-vertical-farming-market）
 
+## 陸上養殖（land-based aquaculture）
+- 文脈：16 フードテック ②陸上養殖
+- 市場規模：
+  - 「循環式養殖システム市場規模レポート（2035年）」（https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market）
+  - 「循環式養殖システム（RAS）市場は2025年に28.8億米ドルと評価され、2026年には31.1億米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market）
+  - 「2025年の市場規模」（https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market）
+  - 「2026年の市場規模」（https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market）
+  - 「2035年の市場規模予測」（https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market）
+  - 「水産養殖技術に関する公開売上高の開示情報と、追跡対象施設の投資記録に基づく当社の評価では、循環式養殖システム市場は2022年から2025年にかけて年率8.3%で拡大した」（https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market）
+  - 「バイオろ過システムの2025年の市場規模は6億900万米ドルで、2026〜2035年に年平均成長率（CAGR）8.2%で拡大すると予測される」（https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market）
+  - 「閉鎖循環式養殖システム（RAS）市場規模：コンポーネント別、2025年・2035年（百万米ドル）」（https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market）
+  - 「水循環システムの2025年の市場規模は8億2,900万米ドルで、2035年までに15億7,000万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market）
+  - 「消毒システムの市場規模は、2025年の2億7,600万米ドルから2035年には5億8,400万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market）
+  - 「加熱・冷却システムの市場規模は2025年に3億3,200万米ドルとなり、2035年には7億米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market）
+  - 「その他の市場規模は2025年に1億1,500万米ドルとなり、2035年には2億4,300万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market）
+  - 「魚類の市場規模は2025年に20億7,000万米ドルとなり、2035年には39億5,000万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market）
+  - 「2024 Market Size」（https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125）
+  - 「$ 5,829 Million」（https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125）
+- 成長率：
+  - 「2026〜2035年の年平均成長率（CAGR）は7.7%と見込まれ、2035年までに60.8億米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market）
+  - 「年平均成長率（CAGR）（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market）
+  - 「水産養殖技術に関する公開売上高の開示情報と、追跡対象施設の投資記録に基づく当社の評価では、循環式養殖システム市場は2022年から2025年にかけて年率8.3%で拡大した」（https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market）
+  - 「買い手や各国の食料プログラムが海面漁業から調達先を多様化するなか、2030年までRAS設備の調達が持続的に拡大」（https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market）
+  - 「世界的な1人当たり水産物需要の増加により、養殖システムの生産負担が拡大」（https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market）
+  - 「バイオろ過システムの2025年の市場規模は6億900万米ドルで、2026〜2035年に年平均成長率（CAGR）8.2%で拡大すると予測される」（https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market）
+  - 「酸素供給・曝気システムは、2035年までに9億3,400万米ドルに達し、2026〜2035年に年平均成長率（CAGR）8.4%で成長すると予測される」（https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market）
+  - 「監視・制御システムは、2035年までに7億300万米ドルに達し、2026〜2035年に年平均成長率（CAGR）8.7%で拡大すると予測される」（https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market）
+  - 「CAGR (2025 - 2035)」（https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125）
+  - 「陸上養殖システム業界は、2025年に218.5億米ドルから2035年には360.5億米ドルに成長すると予測されており、2025年から2035年の予測期間中に年平均成長率（CAGR）は5.13を示します」（https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125）
+  - 「さらに、市場は今後5年間で約10%の年平均成長率で成長すると予測されており、これらの技術革新がその推進力となっています」（https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125）
+  - 「陸上養殖システム市場は、2024年から2035年までの間に5.13%のCAGRで成長すると予測されており、これは技術革新、持続可能性の取り組み、そして海産物需要の増加によって推進されます」（https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125）
+  - 「2025年から2035年の予測期間中の陸上養殖システム市場の期待CAGRはどのくらいですか？」（https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125）
+  - 「2025年から2035年の予測期間中の陸上養殖システム市場の期待CAGRは5.13%です」（https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125）
+  - 「ハードウェア・ソフトウェア・サービス市場 CAGR 9.5％」（https://www.maff.go.jp/j/shokusan/sosyutu/attach/pdf/itaku-24.pdf）
+- 上位シェア：
+  - 「循環式養殖システム市場 サイズとシェア 2026-2035」（https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market）
+  - 「この市場の上位5社は、」（https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market）
+  - 「閉鎖循環式陸上養殖システム（RAS）の魚種別市場シェア、2025年」（https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market）
+  - 「地域別循環式養殖システム（RAS）市場シェア、2025年・2035年」（https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market）
+  - 「カナダの2025年の世界市場シェアは6.9%であり、2026〜2035年の年平均成長率（CAGR）は7.4%と予測される」（https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market）
+  - 「イタリアは2025年に世界市場の3.4%を占め、市場規模は2035年に1億9,000万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market）
+  - 「スペインは2035年までに世界市場の2.9%を占め、2026〜2035年の年平均成長率（CAGR）は6.8%と予測される」（https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market）
+  - 「韓国は2025年に世界市場の4.0%を占め、2026〜2035年の年平均成長率（CAGR）は7.4%と予測される」（https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market）
+  - 「その他のアジア太平洋地域は2025年に世界市場の3.5%のシェアを占め、2026〜2035年の年平均成長率（CAGR）は9.8%と予測される」（https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market）
+  - 「中南米は2035年までに世界市場の7.2%を占めると予測され、2026〜2035年の年平均成長率（CAGR）は9.3%と見込まれる」（https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market）
+  - 「アルゼンチンは2025年に世界市場の0.8%のシェアを占め、市場規模は2035年までに5,300万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market）
+  - 「陸上養殖システム市場の規模、シェアおよび予測レポート2035」（https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125）
+  - 「この地域は、世界市場シェアの約40%を占めており、最大の市場となっています」（https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125）
+  - 「この地域は、世界市場シェアの約30%を占めており、第二の市場となっています」（https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125）
+  - 「この地域は、世界市場シェアの約20%を占めており、中国や日本が先頭を切っています」（https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125）
+- 主要企業：
+  - 「循環式養殖システム市場の主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market）
+  - 「循環式養殖システム市場の主要企業には、AKVA Group ASA、Pentair plc、Veolia Water Technologies、AquaMaof Aquaculture Technologies、Billund Aquaculture Servicesなどがある」（https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market）
+  - 「Key Players」（https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125）
+  - 「アメリカ合衆国とカナダは、この分野での主要国であり、Sustainable AquaticsやFisheries and Oceans Canadaなどの主要企業がイノベーションを推進しています」（https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125）
+  - 「主要企業と競争の洞察」（https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125）
+  - 「主要企業のプロファイル」（https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125）
+  - 「陸上養殖システム市場の主要企業はどこですか？」（https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125）
+  - 「市場の主要企業には、AquaMaof、ECO Fish、Atlantic Sapphireなどがあります」（https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125）
+  - 「Cermaq Group AS、Cooke Aquaculture Inc.、Leroy Seafood Group、Mowi ASA（旧Marine Harvest ASA）、P/F Bakkafrostは、養殖市場における主要企業であり、これらの企業を合わせると、養殖市場全体の約20～25%のシェアを占めると推定されている」（https://straitsresearch.com/jp/report/aquaculture-market）
+  - 「養殖市場における主要企業はどこですか？」（https://straitsresearch.com/jp/report/aquaculture-market）
+  - 「株式会社矢野経済研究所（代表取締役社長：水越孝）は、国内における次世代型養殖技術を調査し、市場規模、参入企業の動向、および将来展望を明らかにした」（https://www.yano.co.jp/press-release/show/press_id/3897）
+  - 「2.調査対象： 次世代型養殖技術（スマート水産・陸上養殖システム・アクアポニックス・低魚粉飼料・昆虫飼料）を展開している事業者、養殖事業参入企業、関連官公庁・協会団体・研究機関など」（https://www.yano.co.jp/press-release/show/press_id/3897）
+  - 「世界の陸上養殖市場シェアの上位を占める主要企業の一部をご紹介します：」（https://www.kdmarketinsights.jp/report-analysis/land-based-aquaculture-market/239）
+  - 「陸上養殖市場の主要企業には、Pure Salmon、Atlantic Sapphire、AquaBounty、Matorka、Kuterra Limited、Danish Salmonなどがあります」（https://www.kdmarketinsights.jp/report-analysis/land-based-aquaculture-market/239）
+- 投資：
+  - 「陸上養殖とは｜官民投資ロードマップの目標・投資額2.9兆円・政策をやさしく解説｜官民投資ロードマップをやさしく読む」（https://digital-supporter.net/mirai-ai/17invest/rikujou-youshoku.html）
+  - 「官民投資額は2040年度までに2.9兆円、経済波及効果は2040年度までに47.1兆円と想定されています」（https://digital-supporter.net/mirai-ai/17invest/rikujou-youshoku.html）
+  - 「陸上養殖の官民投資の具体像 ― 投資額2.9兆円・経済波及効果47.1兆円」（https://digital-supporter.net/mirai-ai/17invest/rikujou-youshoku.html）
+  - 「官民投資額は2040年度までで2.9兆円、投資による経済波及効果は2040年度までで47.1兆円と想定されています」（https://digital-supporter.net/mirai-ai/17invest/rikujou-youshoku.html）
+  - 「陸上養殖の官民投資額は2040年度までで2.9兆円、経済波及効果は2040年度までで47.1兆円と想定されています」（https://digital-supporter.net/mirai-ai/17invest/rikujou-youshoku.html）
+  - 「Beyond its role in food supply, aquaculture is a vital source of employment, supporting millions of livelihoods, particularly in developing economies. In 2022, aquaculture contributed to over 50% of the world’s seafood supply, a figure projected to increase steadily as investments in sustainable practices and innovative farming techniques continue to rise.」（https://market.us/report/aquaculture-market/）
+  - 「in cumulative sector investment as of 2025.」（https://dataintelo.com/report/land-based-aquaculture-market）
+  - 「9.5 Investment Scenario」（https://dataintelo.com/report/land-based-aquaculture-market）
+  - 「Latin America is the fastest-growing region through 2032, with Ecuador and Brazil scaling shrimp and tilapia farming through improved biosecurity and export-oriented investment.」（https://www.persistencemarketresearch.com/market-research/aquaculture-market.asp）
+  - 「Crustaceans (~4.60% CAGR), RAS land-based salmon (~15%+ CAGR), marine water seaweed (~6%+ CAGR), and Africa tilapia farming (~8%+ CAGR from a low base) represent the highest-growth investment vectors through 2034. The combined incremental addressable volume from these high-growth sub-segments is estimated at approximately 20 Million Tons by 2034.」（https://www.imarcgroup.com/aquaculture-market）
+  - 「• Government Support and Investment: Nations recognize aquaculture's role in food security and rural employment. Subsidies, grants, and supportive policies accelerate infrastructure development. India's PKVY offers $671.2 per hectare for sustainable practices, while significant private investment flows into sector modernization globally.」（https://vocal.media/journal/fish-farming-market-emerging-trends-opportunities-and-outlook-to-2033）
+  - 「January 2025: Union Minister Rajiv Ranjan Singh launched India's first organic fisheries cluster in Soreng, Sikkim, with a ₹50 crore investment under Pradhan Mantri Matsya Sampada Yojana, focusing on chemical-free sustainable practices.」（https://vocal.media/journal/fish-farming-market-emerging-trends-opportunities-and-outlook-to-2033）
+  - 「Shrimp and salmon demand in North America, Europe, and East Asia is growing at 4 to 6% annually, driving investment in intensive aquaculture production systems that require specialised feed, health products, and water treatment solutions.」（https://www.factmr.com/report/aquaculture-market）
+  - 「Atlantic salmon retail prices in the USA and Europe increased 25 to 35% between 2020 and 2024, per USDA and Eurostat data, driven by supply constraints relative to growing consumer demand. These price signals are attracting capital investment into salmon aquaculture expansion, including RAS-based land production facilities in Norway, Canada, USA, and the Middle East.」（https://www.factmr.com/report/aquaculture-market）
+  - 「Land-based RAS salmon production is attracting over USD 5 billion in announced investment globally, with facilities planned or under construction in the USA (AquaBounty, Atlantic Sapphire), Norway (Salmon Evolution), Japan, and the Middle East. RAS eliminates sea lice and environmental discharge challenges while enabling production near major consumer markets.」（https://www.factmr.com/report/aquaculture-market）
+- 検索結果の抜粋：
+  - 「陸上養殖市場規模 [2026-2035] |研究報告書 — 陸上養殖市場規模 [2026-2035] |研究報告書 Business Research Insights https://www.businessresearchinsights.com > Home > 農業」（https://www.businessresearchinsights.com/jp/market-reports/land-based-aquaculture-market-107354）
+  - 「陸上養殖市場 の 規模 、シェア、成長要因および予測（2025 ... — 陸上養殖市場 の 規模 、シェア、成長要因および予測（2025 ... ドリームニュース https://www.dreamnews.jp > press」（https://www.dreamnews.jp/press/0000343365）
+  - 「陸上養殖市場 規模[2026-2035] |研究報告書 — 陸上養殖市場 規模[2026-2035] |研究報告書 Business Research Insights https://www.businessresearchinsights.com > Home > 農業」（https://www.businessresearchinsights.com/jp/market-reports/land-based-aquaculture-market-107354）
+  - 「陸上養殖市場 規模、シェア、2034年までの見通し — 陸上養殖市場 規模、シェア、2034年までの見通し Market Reports World https://www.marketreportsworld.com > ... > 自動車と輸送」（https://www.marketreportsworld.com/jp/market-reports/land-based-aquaculture-market-14722264）
+  - 「Land - Based Aquaculture Market Size [2026-2035] — Land - Based Aquaculture Market Size [2026-2035] Business Research Insights https://www.businessresearchinsights.com > ...」（https://www.businessresearchinsights.com/market-reports/land-based-aquaculture-market-107354）
+
 ## 食品機械（food processing equipment）
 - 文脈：16 フードテック ③食品機械
 - 市場規模：
@@ -5614,6 +6460,105 @@
   - 「培養肉 の日本 市場 （2026年～2034年）、 市場 規模（ナゲット — 培養肉 の日本 市場 （2026年～2034年）、 市場 規模（ナゲット アットプレス https://www.atpress.ne.jp > news」（https://www.atpress.ne.jp/news/7164755）
   - 「培養肉 の世界 市場 - 2025 年～2030年の予測 — 培養肉 の世界 市場 - 2025 年～2030年の予測 グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > ... > 食料/飲料 > 加工食品」（https://www.gii.co.jp/report/ksi1878189-global-cultured-meat-market-forecasts-from.html）
 
+## 精密発酵（precision fermentation）
+- 文脈：16 フードテック ④新規食品
+- 市場規模：
+  - 「精密発酵原料市場規模レポート、2026〜2035年」（https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market）
+  - 「精密発酵原料市場は、2025年に9億4,000万米ドルと評価され、2026年には10億7,000万米ドルに達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market）
+  - 「2025年の市場規模」（https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market）
+  - 「2026年の市場規模」（https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market）
+  - 「2035年の予測市場規模」（https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market）
+  - 「世界の精密発酵原料市場規模、原料タイプ別、2025年・2035年（百万米ドル）」（https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market）
+  - 「産業バイオテクノロジー分野の市場規模は、2025年に9,900万米ドルとなり、2035年には3億5,700万米ドルに達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market）
+  - 「酵母は2025年に市場の37.0%を占め、2035年には市場規模が12億4,000万米ドルに達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market）
+  - 「細菌は2025年に2億8,200万米ドルの市場規模を生み出し、2026〜2035年に13.1%の年平均成長率で成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market）
+  - 「糸状菌は2025年に市場の22.0%を占め、2035年には市場規模が6億8,300万米ドルに達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market）
+  - 「北米の精密発酵原料市場は、2025年に3億5,200万米ドルとなり、2035年には11億1,000万米ドルに達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market）
+  - 「精密発酵市場は2035年に286億米ドルへ拡大、CAGR 27.3％で加速する次世代食品・代替タンパク質の商業化と日本企業の成長戦略 | NEWSCAST」（https://newscast.jp/smart/news/6185690）
+  - 「精密発酵市場は2035年に286億米ドルへ拡大、CAGR 27.3％で加速する次世代食品・代替タンパク質の商業化と日本企業の成長戦略」（https://newscast.jp/smart/news/6185690）
+  - 「精密発酵市場は2025年の25億米ドルから2035年には286億米ドルに拡大する見通し」（https://newscast.jp/smart/news/6185690）
+  - 「精密発酵市場は、2025年の25億米ドルから2035年には286億米ドルに達すると予測されている」（https://newscast.jp/smart/news/6185690）
+- 成長率：
+  - 「2026〜2035年の年平均成長率（CAGR）は13.1%で、2035年には32億5,000万米ドルに達する見込みです」（https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market）
+  - 「年平均成長率（CAGR）（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market）
+  - 「B2B-oriented生産企業への投資集中の高まりは、商業化の計画が有望であることを裏付けるとともに、単位当たりコストの低減に必要な生産規模拡大のためのインフラ整備を可能にします」（https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market）
+  - 「酵素は2025年に3億4,700万米ドルの売上を生み出し、2026〜2035年に年平均成長率（CAGR）10.9%で成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market）
+  - 「脂質・特殊油脂は、2035年に3億9,000万米ドルの売上を生み出し、2026〜2035年に年平均成長率（CAGR）14.2%で拡大すると予測されています」（https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market）
+  - 「医薬品・ヘルスケアは、2035年に4億8,800万米ドルの売上を生み出し、年平均成長率（CAGR）14.6%で成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market）
+  - 「動物栄養分野は、2035年までに市場の11.0%を占めると予測され、2026〜2035年の年平均成長率（CAGR）は14.1%と見込まれています」（https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market）
+  - 「精密発酵市場は2035年に286億米ドルへ拡大、CAGR 27.3％で加速する次世代食品・代替タンパク質の商業化と日本企業の成長戦略 | NEWSCAST」（https://newscast.jp/smart/news/6185690）
+  - 「精密発酵市場は2035年に286億米ドルへ拡大、CAGR 27.3％で加速する次世代食品・代替タンパク質の商業化と日本企業の成長戦略」（https://newscast.jp/smart/news/6185690）
+  - 「精密発酵市場は2025年の25億米ドルから2035年には286億米ドルに拡大する見通し」（https://newscast.jp/smart/news/6185690）
+  - 「2026年から2035年の予測期間における年平均成長率（CAGR）は27.3％と見込まれ、食品技術と産業バイオテクノロジーの融合を象徴する成長分野として注目される」（https://newscast.jp/smart/news/6185690）
+  - 「• 精密発酵市場は急速な拡大が見込まれており、2025年の25億米ドルから2035年までに286億米ドルへと成長し、2026年から2035年にかけて年平均成長率（CAGR）27.3％を記録すると予測されています」（https://newscast.jp/smart/news/6185690）
+  - 「精密発酵市場の規模、シェア、トレンド、成長率（2032年まで）」（https://www.zionmarketresearch.com/ja/report/precision-fermentation-market）
+  - 「でしたが、2024年から2032年までの年平均成長率」（https://www.zionmarketresearch.com/ja/report/precision-fermentation-market）
+  - 「当社のリサーチアナリストによる分析によると、世界の精密発酵市場は予測期間（2024年～2032年）において、年平均成長率（CAGR）約44.20%で成長すると予測されています」（https://www.zionmarketresearch.com/ja/report/precision-fermentation-market）
+- 上位シェア：
+  - 「精密発酵原料市場 サイズとシェア 2026-2035」（https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market）
+  - 「Novonesisは2025年に35%超の市場シェアを獲得し、市場をリードしました」（https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market）
+  - 「本市場の上位5社は、」（https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market）
+  - 「これらの企業は、2025年に合計73%の市場シェアを占めました」（https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market）
+  - 「タンパク質は2025年に市場の22.0%を占め、2035年には28.0%に達すると予測される」（https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market）
+  - 「ヒトミルクオリゴ糖は2025年に市場の21.4%を占め、2035年には7億1,500万米ドルの売上を生み出すと予測されています」（https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market）
+  - 「その他の特殊成分は2025年に3,000万米ドルの売上を生み出し、2035年には市場の3.0%を占めると予測されています」（https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market）
+  - 「用途別の世界の精密発酵原料市場シェア、2025年」（https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market）
+  - 「化粧品・パーソナルケアは2025年に市場の8.3%を占め、2035年には2億6,000万米ドルの売上を生み出すと予測されています」（https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market）
+  - 「動物栄養分野は、2035年までに市場の11.0%を占めると予測され、2026〜2035年の年平均成長率（CAGR）は14.1%と見込まれています」（https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market）
+  - 「酵母は2025年に市場の37.0%を占め、2035年には市場規模が12億4,000万米ドルに達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market）
+  - 「糸状菌は2025年に市場の22.0%を占め、2035年には市場規模が6億8,300万米ドルに達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market）
+  - 「微細藻類は、2035年までに市場の11.0%を占めると予測され、2026〜2035年の年平均成長率は13.7%と見込まれています」（https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market）
+  - 「地域別の世界の精密発酵原料市場シェア、2025年・2035年」（https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market）
+  - 「欧州は2025年に市場の30.0%を占め、2035年には市場規模が9億4,300万米ドルに達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market）
+- 主要企業：
+  - 「精密発酵原料市場の主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market）
+  - 「精密発酵原料市場の主要企業には、Novonesis、DSM-Firmenich、Perfect Day、BASF SE、Evonik Industriesなどがある」（https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market）
+  - 「主要企業のリスト：」（https://newscast.jp/smart/news/6185690）
+  - 「対象となる主要企業」（https://www.zionmarketresearch.com/ja/report/precision-fermentation-market）
+  - 「精密発酵市場の成長を活用している主要企業はどれですか？」（https://www.zionmarketresearch.com/ja/report/precision-fermentation-market）
+  - 「主要企業、最新動向、競争インテリジェンス」（https://www.coherentmarketinsights.com/ja/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%B8%82%E5%A0%B4）
+  - 「世界の精密発酵市場市場の主要企業はどこですか？」（https://www.databridgemarketresearch.com/jp/reports/global-precision-fermentation-market）
+  - 「市場の主要企業には、」（https://www.databridgemarketresearch.com/jp/reports/global-precision-fermentation-market）
+  - 「主要参入企業の戦略/強み（2020年～2025年）」（https://www.gii.co.jp/report/mama1742427-precision-fermentation-ingredients-market-by.html）
+  - 「企業の評価マトリクス：主要企業（2024年）」（https://www.gii.co.jp/report/mama1742427-precision-fermentation-ingredients-market-by.html）
+  - 「Key players operating in the precision fermentation market are undertaking various initiatives to strengthen their presence and increase the reach of their products and services. Strategies such as expansion activities and partnerships are key in propelling the market growth.」（https://www.grandviewresearch.com/industry-analysis/precision-fermentation-market-report）
+  - 「Volume & revenue forecast, company ranking, competitive landscape, growth factors, and trends」（https://www.grandviewresearch.com/industry-analysis/precision-fermentation-market-report）
+  - 「Key companies profiled」（https://www.grandviewresearch.com/industry-analysis/precision-fermentation-market-report）
+  - 「Who are the key players in precision fermentation market?」（https://www.grandviewresearch.com/industry-analysis/precision-fermentation-market-report）
+- 投資：
+  - 「2025年、精密発酵企業は発酵分野全体の資金調達額の66%を獲得しました」（https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market）
+  - 「2028年まで資金調達環境が維持されれば、施設の建設と商業展開が支えられ、市場の予測成長軌道の下支えとなります」（https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market）
+  - 「2016年以降、発酵原料エコシステムへの累積投資額は52億米ドルに達しており、生産、精製、規制科学の能力強化を支えています」（https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market）
+  - 「発酵分野を主な事業領域とする企業の2025年の資金調達額は3億5,700万米ドルとなった」（https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market）
+  - 「2025年2月、DSM-FirmenichとFonterraの支援を受けたオランダの精密発酵スタートアップ企業Viviciは、シリーズAの資金調達を実施しました」（https://www.databridgemarketresearch.com/jp/reports/global-precision-fermentation-market）
+  - 「100億円を超える資金調達が目立った2021年-2022年と比べ、2023年の精密発酵分野ではどのような動きが見られたのか」（https://foodtech-japan.com/2024/03/23/pf-12/）
+  - 「benefits from GRAS status in major markets, reducing regulatory complexity and accelerating time-to-market for food, pharmaceutical, and personal care applications. Strong investment inflows, extensive strain-engineering advancements, and proven downstream processing economics further reinforced yeast’s leadership position in 2025.」（https://www.grandviewresearch.com/industry-analysis/precision-fermentation-market-report）
+  - 「Genomatica recently raised significant funding in May 2023 to bolster its sustainability initiatives. Additionally, Motif FoodWorks has secured partnerships to further research in」（https://www.marketresearchfuture.com/reports/precision-fermentation-market-11616）
+  - 「Precision fermentation companies captured 66% of total fermentation sector funding in 2025, reflecting institutional preference for B2B ingredient supply models over consumer-product plays」（https://www.gminsights.com/industry-analysis/precision-fermentation-ingredients-market）
+  - 「GFI analysis of Net Zero Insights investment data, 2026 State of the Industry report」（https://www.gminsights.com/industry-analysis/precision-fermentation-ingredients-market）
+  - 「Cumulative investment in the fermentation ingredient ecosystem has totaled USD 5.2 billion since 2016, supporting production, purification, and regulatory-science capabilities」（https://www.gminsights.com/industry-analysis/precision-fermentation-ingredients-market）
+  - 「Companies operating primarily in the fermentation ecosystem raised USD 357 million in 2025 as capital markets tightened and investor attention shifted toward unit economics and credible profitability pathways」（https://www.gminsights.com/industry-analysis/precision-fermentation-ingredients-market）
+  - 「The UAE generated USD 12 million in 2025. Its food-security agenda and interest in advanced food technologies support its role as a regional commercialization hub. Investment attraction, pilot infrastructure, and partnerships with international ingredient companies will be important to converting policy interest into sustained supply.」（https://www.gminsights.com/industry-analysis/precision-fermentation-ingredients-market）
+  - 「Saudi Arabia generated USD 10 million in 2025 and is projected to reach USD 43 million by 2035. Food-security investment and industrial-development programs support the creation of an emerging market for fermentation-enabled ingredients. Long-term progress will depend on the availability of specialized technical talent, viable infrastructure, and demand from domestic food producers.」（https://www.gminsights.com/industry-analysis/precision-fermentation-ingredients-market）
+  - 「companies during 2025, highlighting continued industry interest in scalable food biotechnology solutions. GFI reported an exact funding total of」（https://market.us/report/precision-fermentation-market/）
+- 検索結果の抜粋：
+  - 「精密発酵市場規模 ・シェア |成長レポート 2034 — 精密発酵市場規模 ・シェア |成長レポート 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > 精密発酵市場-...」（https://www.fortunebusinessinsights.com/jp/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%B8%82%E5%A0%B4-109824）
+  - 「精密発酵 原料 市場規模 レポート、2026〜2035年 — 精密発酵 原料 市場規模 レポート、2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > precisio...」（https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market）
+  - 「精密発酵市場 は2035年に286億米ドルへ拡大 - Newscast.jp — 精密発酵市場 は2035年に286億米ドルへ拡大 - Newscast.jp Newscast.jp https://newscast.jp > smart > news」（https://newscast.jp/smart/news/6185690）
+  - 「精密発酵市場 の 規模 、シェア、価値、および2032年までの予測 — 精密発酵市場 の 規模 、シェア、価値、および2032年までの予測 Zion Market Research https://www.zionmarketresearch.com > report > precision-...」（https://www.zionmarketresearch.com/ja/report/precision-fermentation-market）
+  - 「精密発酵市場 は2035年に286億米ドルへ拡大 - アットプレス — 精密発酵市場 は2035年に286億米ドルへ拡大 - アットプレス アットプレス https://www.atpress.ne.jp > news」（https://www.atpress.ne.jp/news/6185690）
+  - 「精密発酵市場 規模・ シェア |成長レポート 2034 — 精密発酵市場 規模・ シェア |成長レポート 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > 精密発酵市場-...」（https://www.fortunebusinessinsights.com/jp/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%B8%82%E5%A0%B4-109824）
+  - 「精密発酵 原料 市場 規模レポート、2026〜2035年 — 精密発酵 原料 市場 規模レポート、2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > precisio...」（https://www.gminsights.com/ja/industry-analysis/precision-fermentation-ingredients-market）
+  - 「精密発酵市場 規模、 シェア &予測2032 — 精密発酵市場 規模、 シェア &予測2032 Data Bridge Market Research https://www.databridgemarketresearch.com > reports > gl...」（https://www.databridgemarketresearch.com/jp/reports/global-precision-fermentation-market）
+  - 「精密発酵 成分 市場 | 市場 規模 市場 調査 予測 2030年まで — 精密発酵 成分 市場 | 市場 規模 市場 調査 予測 2030年まで グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > ... > 食料/飲料 > 添加物」（https://www.gii.co.jp/report/mama1742427-precision-fermentation-ingredients-market-by.html）
+  - 「次世代の食料生産技術「 精密発酵 」とは ―業界団結で加速 ... — 次世代の食料生産技術「 精密発酵 」とは ―業界団結で加速 ... MITSUI & CO., LTD. PDF https://www.mitsui.com > afieldfile > 2024/02/15」（https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2024/02/15/2402t_sawano.pdf）
+  - 「精密発酵市場 規模・シェア |成長レポート 2034 — 精密発酵市場 規模・シェア |成長レポート 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > 精密発酵市場-...」（https://www.fortunebusinessinsights.com/jp/%E7%B2%BE%E5%AF%86%E7%99%BA%E9%85%B5%E5%B8%82%E5%A0%B4-109824）
+  - 「米国の 精密発酵 業界の概要（ 2025 年版） - note — 米国の 精密発酵 業界の概要（ 2025 年版） - note note https://note.com > ビジネス > ビジネス全般」（https://note.com/better_equation/n/n7e6d6dd6b4ce）
+  - 「Precision Fermentation Market Size Report, 2026-2033 — Precision Fermentation Market Size Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/precision-fermentation-market-report）
+  - 「Precision Fermentation Market Size , Trends, Outlook 2035 — Precision Fermentation Market Size , Trends, Outlook 2035 Market Research Future https://www.marketresearchfuture.com > ...」（https://www.marketresearchfuture.com/reports/precision-fermentation-market-11616）
+  - 「Global Precision Fermentation Market Report 2024 — Global Precision Fermentation Market Report 2024 PR Newswire https://www.prnewswire.com > global...」（https://www.prnewswire.com/news-releases/global-precision-fermentation-market-report-2024---market-anticipated-to-surge-to-17-43-billion-by-2028-with-cagr-of-48-302063333.html）
+
 ## ゲーム（video game）
 - 文脈：17 コンテンツ ①ゲーム
 - 市場規模：
@@ -5806,6 +6751,100 @@
   - 「2025 年「日本 アニメ 産業 市場 規模」が史上最高値を更新 ... — 2025 年「日本 アニメ 産業 市場 規模」が史上最高値を更新 ... Facebook https://www.facebook.com > gempartners > posts > 2025...」（https://www.facebook.com/gempartners/posts/2025%E5%B9%B4%E6%97%A5%E6%9C%AC%E3%82%A2%E3%83%8B%E3%83%A1%E7%94%A3%E6%A5%AD%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%8C%E5%8F%B2%E4%B8%8A%E6%9C%80%E9%AB%98%E5%80%A4%E3%82%92%E6%9B%B4%E6%96%B0%E5%89%8D%E5%B9%B4%E6%AF%94117%E3%81%A7%E5%9B%BD%E5%86%85%E5%A4%96%E5%B8%82%E5%A0%B4%E3%81%A8%E3%82%82%E3%81%AB%E5%A2%97%E5%8A%A010%E6%9C%8826%E6%97%A5%E3%81%8B%E3%82%89%E9%96%8B%E5%82%AC%E3%81%AE%E7%AC%AC39%E5%9B%9E%E6%9D%B1%E4%BA%AC%E5%9B%BD%E9%9A%9B%E6%98%A0%E7%94%BB%E7%A5%AD%E3%81%AE%E4%BD%B5%E8%A8%AD%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88tiffcom%E4%BC%9A/1727235176075605/）
   - 「日本の アニメ 産業 市場 規模、初めて4兆円超える… 2025 年 ... — 日本の アニメ 産業 市場 規模、初めて4兆円超える… 2025 年 ... 読売新聞 https://www.yomiuri.co.jp > economy」（https://www.yomiuri.co.jp/economy/20261030-GYT1T00170/）
   - 「「 アニメ 制作 市場 」動向調査 2025 - 帝国データバンク — 「 アニメ 制作 市場 」動向調査 2025 - 帝国データバンク tdb.co.jp https://www.tdb.co.jp > レポート」（https://www.tdb.co.jp/report/industry/20250813-anime24y/）
+
+## マンガ（manga）
+- 文脈：17 コンテンツ ③マンガ
+- 市場規模：
+  - 「世界の漫画市場は2025年に101億米ドルに達し、2026〜2035年の年平均成長率（CAGR）7.0%で拡大し、2035年には200億米ドルに達すると予測されている」（https://www.gminsights.com/ja/industry-analysis/manga-market）
+  - 「市場規模は、2022年の95.5億米ドル、2023年の94.7億米ドル、2024年の96.1億米ドルを経て、2026年には109億米ドルに達する」（https://www.gminsights.com/ja/industry-analysis/manga-market）
+  - 「2025年の市場規模」（https://www.gminsights.com/ja/industry-analysis/manga-market）
+  - 「2026年の市場規模」（https://www.gminsights.com/ja/industry-analysis/manga-market）
+  - 「2035年の予測市場規模」（https://www.gminsights.com/ja/industry-analysis/manga-market）
+  - 「2035年にかけて、海外市場は新規読者の獲得において拡大する割合を担うが、出版社による需要の取り込みにはばらつきが生じる」（https://www.gminsights.com/ja/industry-analysis/manga-market）
+  - 「印刷版漫画の市場規模は 2025 年に 28.2 億米ドルとなり、世界市場全体の 28.0% を占めた」（https://www.gminsights.com/ja/industry-analysis/manga-market）
+  - 「コンテンツ形式別の漫画市場規模、2022〜2035年（10億米ドル単位）」（https://www.gminsights.com/ja/industry-analysis/manga-market）
+  - 「デジタル漫画の市場規模は 2025 年に 72.6 億米ドルとなり、2035 年には 165.7 億米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/manga-market）
+  - 「日本のデジタル漫画市場は 2025 年に 5,273 億円に達し、日本の漫画市場全体 6,925 億円の 76.1% を占めた」（https://www.gminsights.com/ja/industry-analysis/manga-market）
+  - 「デジタル漫画は2035年までに世界市場規模の83.1%を占める見込みであり、同分野の中核的な配信・収益化チャネルとしての地位を一段と強固にする」（https://www.gminsights.com/ja/industry-analysis/manga-market）
+  - 「オンラインチャネルは2025年に82.7億米ドルの収益を生み、市場規模の82.0%を占めた」（https://www.gminsights.com/ja/industry-analysis/manga-market）
+  - 「北米市場は 2025年に 9.5億米ドルを生み出し、年平均成長率5.8%で成長して 2035年には 16.7億米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/manga-market）
+  - 「欧州市場は 2025年に 15.2億米ドルを生み出し、年平均成長率9.1%で成長して 2035年には 36.3億米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/manga-market）
+  - 「マンガ市場は、ジャンル（少年（若い男性向け）、少女（若い女性向け）、青年（成人男性向け）、女性（成人女性向け）、その他（ホラー、スポーツ、ファンタジー、ロマンスなど））、フォーマット／タイプ（印刷マンガ（書籍、雑誌、コミック）、デジタルマンガ（ウェブトゥーン、電子書籍、アプリ）、商品＆コレクターズアイテム（フィギュア、ポスター、アパレル）、および翻案（マンガを原作としたアニメ、映画、ゲーム））、流通チャネル（書店＆小売店、オンラインプラットフォーム＆Eコマース、専門店＆コミックショップ、図書館＆定期購読サービス）、エンドユーザー／オーディエンス（10代＆若年成人、成人（18歳以上）、コレクター＆趣味家、教育機関／学術機関）、および地域によって区分されます」（https://www.snsinsider.com/reports/ja/manga-market-9503）
+- 成長率：
+  - 「世界の漫画市場は2025年に101億米ドルに達し、2026〜2035年の年平均成長率（CAGR）7.0%で拡大し、2035年には200億米ドルに達すると予測されている」（https://www.gminsights.com/ja/industry-analysis/manga-market）
+  - 「2022〜2025年の実績CAGRは1.8%であったのに対し、デジタル配信、海外向けローカライゼーション、アニメと連動した読者獲得が収益創出の構造を変えるなか、予測期間には大幅に速い成長軌道が見込まれる」（https://www.gminsights.com/ja/industry-analysis/manga-market）
+  - 「年平均成長率（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/manga-market）
+  - 「2035年にかけて、海外市場は新規読者の獲得において拡大する割合を担うが、出版社による需要の取り込みにはばらつきが生じる」（https://www.gminsights.com/ja/industry-analysis/manga-market）
+  - 「2035 年まで年平均成長率（CAGR）1.8%で成長し、33.6 億米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/manga-market）
+  - 「年平均成長率（CAGR）は 8.6%となる見込みである」（https://www.gminsights.com/ja/industry-analysis/manga-market）
+  - 「年平均成長率 2026–2035」（https://www.snsinsider.com/reports/ja/manga-market-9503）
+  - 「マンガ市場規模は2025年には139億5000万米ドルと評価され、2035年までに730億1000万米ドルに達すると予測されており、2026年から2035年にかけて年平均成長率（CAGR）18.07%で成長すると見込まれている」（https://www.snsinsider.com/reports/ja/manga-market-9503）
+  - 「米国のマンガ市場規模は、2025年には16億8000万米ドルと評価され、2035年には98億2000万米ドルに達すると予測されており、2026年から2035年にかけて年平均成長率（CAGR）19.39%で成長すると見込まれています」（https://www.snsinsider.com/reports/ja/manga-market-9503）
+  - 「マンガの読者層とアクセス性は世界的に拡大しており、主要なデジタルプラットフォームは、多言語でのデジタル配信を背景に、2024年までに累計4000万人以上の購読者を獲得する見込みである」（https://www.snsinsider.com/reports/ja/manga-market-9503）
+  - 「マンガ市場規模、シェア、成長率、機会、分析（2034年まで）」（https://straitsresearch.com/jp/report/manga-market）
+  - 「世界のマンガ市場規模は、2025年には191億2000万米ドルと評価され、2026年の229億3000万米ドルから2034年には982億1000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は19.94%となる見込みです」（https://straitsresearch.com/jp/report/manga-market）
+  - 「北米はマンガ市場において最も急速な成長を遂げており、年平均成長率（CAGR）は15%を超えています」（https://straitsresearch.com/jp/report/manga-market）
+  - 「マンガ市場規模は2026年には229億3000万米ドルと評価され、2034年までに982億1000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は19.94%である」（https://straitsresearch.com/jp/report/manga-market）
+  - 「億円規模から1兆1,800億円規模の市場に拡大している」（https://www.meti.go.jp/shingikai/mono_info_service/entertainment_creative/pdf/003_04_03.pdf）
+- 上位シェア：
+  - 「漫画市場の規模、シェア、予測レポート、2026〜2035年」（https://www.gminsights.com/ja/industry-analysis/manga-market）
+  - 「マンガ市場 サイズとシェア 2026-2035」（https://www.gminsights.com/ja/industry-analysis/manga-market）
+  - 「NAVER Webtoonは、2025年に13.7%を超える市場シェアを占め、市場をリードしました」（https://www.gminsights.com/ja/industry-analysis/manga-market）
+  - 「本市場の上位5社には、」（https://www.gminsights.com/ja/industry-analysis/manga-market）
+  - 「が含まれ、これらの企業が合計で占めた市場シェアは、2025年に41.9%となりました」（https://www.gminsights.com/ja/industry-analysis/manga-market）
+  - 「2025年の世界の収益に占めるデジタル漫画の割合は72.0%であった一方、成熟したコレクター市場や、日本で確立された紙媒体の出版文化においては、紙媒体も引き続き重要性を保っている」（https://www.gminsights.com/ja/industry-analysis/manga-market）
+  - 「印刷版漫画の市場規模は 2025 年に 28.2 億米ドルとなり、世界市場全体の 28.0% を占めた」（https://www.gminsights.com/ja/industry-analysis/manga-market）
+  - 「日本のデジタル漫画市場は 2025 年に 5,273 億円に達し、日本の漫画市場全体 6,925 億円の 76.1% を占めた」（https://www.gminsights.com/ja/industry-analysis/manga-market）
+  - 「デジタル漫画は2035年までに世界市場規模の83.1%を占める見込みであり、同分野の中核的な配信・収益化チャネルとしての地位を一段と強固にする」（https://www.gminsights.com/ja/industry-analysis/manga-market）
+  - 「アクション・アドベンチャーは2025年に最大のジャンルセグメントとなり、33.8億米ドルの収益を生み、世界収益の33.5%を占めた」（https://www.gminsights.com/ja/industry-analysis/manga-market）
+  - 「ジャンル別漫画市場の収益シェア（%）（2025年）」（https://www.gminsights.com/ja/industry-analysis/manga-market）
+  - 「2035年までには、成長の速いファンタジーやモバイルネイティブのカテゴリーが収益を拡大することで、シェアは緩やかに低下するものの、金額ベースでは引き続き最大のジャンルとなる見込みである」（https://www.gminsights.com/ja/industry-analysis/manga-market）
+  - 「シェアは2025年の18.5%から2035年には22.0%に上昇する見込みである」（https://www.gminsights.com/ja/industry-analysis/manga-market）
+  - 「成人向けは2025年に52.9億米ドルの収益を生み、世界収益の52.5%を占めた」（https://www.gminsights.com/ja/industry-analysis/manga-market）
+  - 「オンラインチャネルは2025年に82.7億米ドルの収益を生み、市場規模の82.0%を占めた」（https://www.gminsights.com/ja/industry-analysis/manga-market）
+- 主要企業：
+  - 「VIZ Mediaは英語圏向けのローカライズおよびライセンス供与を専門とする主要企業であり、Panini Comicsは南欧およびラテンアメリカで大規模な流通支援を提供しています」（https://www.gminsights.com/ja/industry-analysis/manga-market）
+  - 「漫画市場の主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/manga-market）
+  - 「漫画市場の主要企業として、NAVER Webtoon、Shueisha Inc.、Piccoma Corp.、Kodansha Ltd.、Shogakukan Inc.などが挙げられ、これらの企業は 2025年に合計41.9%の市場シェアを占めた」（https://www.gminsights.com/ja/industry-analysis/manga-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/manga-market）
+  - 「マンガ市場の主要プレイヤー：」（https://www.snsinsider.com/reports/ja/manga-market-9503）
+  - 「10.4.1 主要企業による製品／サービスの仕様と特徴」（https://www.snsinsider.com/reports/ja/manga-market-9503）
+  - 「10.4.2 主要企業別製品/サービスヒートマップ」（https://www.snsinsider.com/reports/ja/manga-market-9503）
+  - 「10.4.3 主要プレイヤー別アプリケーションヒートマップ」（https://www.snsinsider.com/reports/ja/manga-market-9503）
+  - 「10.6 主要企業プロファイル」（https://www.snsinsider.com/reports/ja/manga-market-9503）
+  - 「10.6.1.3 主要企業の財務情報」（https://www.snsinsider.com/reports/ja/manga-market-9503）
+  - 「主要企業、バリューチェーン、戦略的開発をプロファイリング」（https://www.snsinsider.com/reports/ja/manga-market-9503）
+  - 「主要企業の世界展開」（https://www.meti.go.jp/shingikai/mono_info_service/entertainment_creative/pdf/003_04_03.pdf）
+  - 「マンガ市場の主要企業は、顧客向けサービス拡充のため戦略的提携を優先的に推進しております」（https://www.gii.co.jp/report/tbrc1968910-manga-global-market-report.html）
+  - 「漫画市場の主要企業はどこですか？」（https://www.gii.co.jp/report/tbrc1968910-manga-global-market-report.html）
+  - 「競争環境の分析では、集英社、講談社、小学館、KADOKAWA、VIZ Media、Yen Press、Seven Seas Entertainment、スクウェア・エニックス・ホールディングス、秋田書店、芳文社、日本文芸社、文藝春秋、一ツ橋グループ、グッドスマイルカンパニー、Bilibili Comics、LINE Digital Frontier（LINE Webtoon）、Kakao Entertainment、Dark Horse Comics、メディアドゥ、J-Novel Club、Comikey Mediaといった主要企業がプロファイルされています」（https://www.marketresearch.co.jp/insights/manga-market-mordor/）
+- 投資：
+  - 「The U.S. manga market is expected to see continued publishing activity, with Kodansha announcing new manga titles for release in 2027. HarperCollins plans to launch its Kazé U.S. manga imprint in Fall 2027, indicating continued investment in English-language manga publishing, although no official numerical forecast specifically for the U.S. manga market has been announced.」（https://straitsresearch.com/report/manga-market）
+  - 「Canada’s Department of Canadian Heritage has allocated CAD 39.97 million in planned funding for the Canada Book Fund in fiscal year 2026–2027, supporting eligible publishing activities, marketing, and distribution, although the program is not specific to manga.」（https://straitsresearch.com/report/manga-market）
+  - 「The company's position in the manga market is further strengthened by its commitment to digital transformation and global expansion. In May 2024, Shogakukan secured a strategic investment of ¥10 billion (approximately USD 87 million) from Sony Group Corporation, specifically targeting digital business enhancement and international market expansion.」（https://www.emergenresearch.com/blog/top-10-companies-in-the-manga-market-in-2026）
+  - 「VC (+1-784)」（https://www.emergenresearch.com/blog/top-10-companies-in-the-manga-market-in-2026）
+  - 「Kadokawa reported that operating profit at its Publication/IP Creation segment fell 90.2 percent in the nine months to December 2025 on investment in digital manufacturing and logistics.」（https://dataintelo.com/report/manga-market）
+  - 「Sony took a 10 percent stake in Kadokawa, which raised its output target to 9,000 manga, light novel and other titles a year by fiscal 2027.」（https://dataintelo.com/report/manga-market）
+  - 「11.5 Investment Scenario」（https://dataintelo.com/report/manga-market）
+  - 「10.1.3 Funding for Educational Programs」（https://www.kenresearch.com/apac-manga-market）
+  - 「10.2.1 Investment in Digital Platforms」（https://www.kenresearch.com/apac-manga-market）
+  - 「10.2.2 Funding for Manga Events」（https://www.kenresearch.com/apac-manga-market）
+- 検索結果の抜粋：
+  - 「漫画市場 の 規模 、シェア、予測レポート、2026〜2035年 — 漫画市場 の 規模 、シェア、予測レポート、2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > manga-market」（https://www.gminsights.com/ja/industry-analysis/manga-market）
+  - 「マンガ市場 の 規模 ・シェア・成長分析（2026年～2035年） — マンガ市場 の 規模 ・シェア・成長分析（2026年～2035年） SNS Insider https://www.snsinsider.com > Report > 情報通信技術」（https://www.snsinsider.com/reports/ja/manga-market-9503）
+  - 「マンガ市場規模 、シェア、成長率、機会、分析（2034年まで） — マンガ市場規模 、シェア、成長率、機会、分析（2034年まで） Straits Research https://straitsresearch.com > report > manga-market」（https://straitsresearch.com/jp/report/manga-market）
+  - 「コミック市場規模 、シェア、金額、傾向 |分析、2034 年 — コミック市場規模 、シェア、金額、傾向 |分析、2034 年 Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 小売業」（https://www.fortunebusinessinsights.com/jp/%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88-103903）
+  - 「マンガ市場 | 市場規模 業界シェア 市場分析 成長性 2026年 — Mar 5, 2026 · 漫画市場の規模は近年急速に拡大しております。2025年の162億8,000万米ドルから、2026年には190億1,000万米ドルへと、CAGR16.8％で成長が見込まれております。過去数年間の成長は、日本のポップカルチャーの人気上昇、マンガ ...」（https://www.gii.co.jp/report/tbrc1968910-manga-global-market-report.html）
+  - 「マンガ市場規模、シェア、動向、成長予測、2034年 — Oct 12, 2026 · マンガマーケット概要 世界のマンガ市場規模は2025年に103億7,000万米ドルと推定されています。 市場は2026年の125億3,000万米ドルから2034年までに568億6,000万米ドルに成長すると予測されており、予測期間中に20.81%のCAGRを示します。」（https://www.fortunebusinessinsights.com/jp/マンガマーケット-116455）
+  - 「漫画市場の規模とシェア分析：成長動向と予測 (2025年～2030年) — Dec 29, 2025 · マンガ市場は、デジタルプラットフォーム、クロスメディア展開、モバイルファーストの読者層に牽引され、ニッチな日本文化の輸出品から世界のエンターテイメントの主流へと移行し、急速な成長を遂げています。 市場概要 Mordor Intelligenceの分析によると、マンガ市場規模は2025年に193.5億米 ...」（https://www.marketresearch.co.jp/insights/manga-market-mordor/）
+  - 「コミック市場規模、シェア、金額、傾向 |分析、2034 年 — Sep 28, 2026 · コミックブック市場規模、シェアおよび業界分析、製品タイプ別（物理コミックおよびデジタルコミック）、エンドユーザー別（子供および成人）、流通チャネル別（書店、コミックストア、オンラインストア、その他）、および地域予測、2026年から2034年」（https://www.fortunebusinessinsights.com/jp/コミックマーケット-103903）
+  - 「主要コミックブックのトップ企業 - 検証済み市場レポート |市場洞察と... — はじめに コミックブック の トップ企業は、映画、ストリーミング、ゲームにわたるマルチメディア展開とストーリーテリングを融合させ、世界的なエンターテイメント エコシステムを再定義し続けています。世界の漫画市場は2034 年までに 250 億米ドルを超えると予測されており、デジタルの ...」（https://www.verifiedmarketreports.com/ja/blog/top-10-comic-book-companies/）
+  - 「2025年コミック市場は6925億円 前年比1.7％減と8年ぶりのマイナス成長... — Feb 25, 2026 · 公益社団法人全国出版協会・出版科学研究所は2月25日、2025年のコミック市場規模を発表した。 紙＋電子市場（推定販売金額）は前年比1.7％減の6925億円と、2017年以来8年ぶりのマイナス成長となった。」（https://hon.jp/news/1.0/0/58504）
+  - 「2025年コミック市場は 1.7％減の 6,925 億円 — 電子コミックは 2.9%増、伸び率鈍化 電子コミックは前年比 2.9%増の 5,273 億円。これまでコミック市場を大きく牽引してきた電子コミックですが、25 年は伸び率が急激に鈍化しました。本格的な成熟期を迎え新規ユーザーの獲得が困難になるなかで、各ストアで大型ポイント還元や割引 ...」（https://shuppankagaku.com/wp/wp-content/uploads/2026/02/ニュースリリース2602.pdf）
+  - 「2025年は8年ぶりのマイナス成長。紙媒体の減少が続くコミック市場の将... — コミック市場全体は前年比1.7％減の6925億円と8年ぶりのマイナス成長で、紙の単行本と雑誌を合わせた紙のコミック市場が前年比14％減の1652億円 ...」（https://news.yahoo.co.jp/expert/articles/dc57827c021fea1d1e3159a95a6e2079e135c8f7）
+  - 「MANGA総研が第2回マンガIP市場調査報告書2025 を公開-2025年の日本漫... — Feb 20, 2026 · 一般社団法人MANGA総合研究所のプレスリリース（2026年2月20日 13時00分）MANGA総研が第2回マンガIP市場調査報告書2025 を公開-2025年の日本漫画の米仏 ...」（https://prtimes.jp/main/html/rd/p/000000014.000145029.html）
+  - 「2025年のコミック市場は7年ぶりのマイナス転換。電子は伸びたが、紙の... — Aug 14, 2026 · 2025年、コミック市場全体は総計6,925億円。 前年よりも108億円減で、久々に前年比マイナス。 ただし、電子だけで見れば151億円の増加となっていて、紙の減少加速の結果こうなった、という事。」（https://soorce.hatenablog.com/entry/20260814/1786709355）
+  - 「25年コミック市場、6925億円（1.7％減）に - 新文化オンライン — Feb 25, 2026 · 全国出版協会・出版科学研究所は2月25日、2025年（1〜12月期累計）の紙と電子を合わせたコミック市場を6925億円（前年比1.7％減）と発表した。 7年連続のプラスで過去最高を更新した前年から、一転してマイナスとなった。」（https://www.shinbunka.co.jp/archives/12677）
 
 ## 音楽（recorded music）
 - 文脈：17 コンテンツ ④音楽

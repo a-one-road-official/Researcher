@@ -1,0 +1,546 @@
+{
+ "name": "ＬｉＮＫＸ",
+ "aliases": [],
+ "context": "証券コード584A／情報・通信業／グロース（内国株式）／2026.06期 売上高1,910百万円 営業利益率23.9%",
+ "researched_at": "2026-11-02T17:36:25.496500+00:00",
+ "official_url": "https://www.linkx.dev/",
+ "identified_by": "search:yahoo_jp:株式会社LiNKX",
+ "profile": {},
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "お取引先企業",
+    "url": "https://www.linkx.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドネイティブで世界標準のシステム設計ができる技術と、AIを高次元で活用できる技術を持ち、かつ社内の厳格なコーディングテストを通過した、顧客プロジェクトに直接アサインされる人員だ",
+    "url": "https://note.com/signal_news/n/nde1ffdbf556b",
+    "pass": 3
+   },
+   {
+    "quote": "つまりこの関係は、「一取引先への依存」というより「ミッション・クリティカルなインフラへの埋め込み」と読む方が正確だ",
+    "url": "https://note.com/signal_news/n/nde1ffdbf556b",
+    "pass": 3
+   },
+   {
+    "quote": "顧客のシステムに深く食い込んでいるため、他社への乗り換えが極めて困難だ",
+    "url": "https://note.com/signal_news/n/nde1ffdbf556b",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "既存の勘定系システムを段階的に切り出し、クラウド・マイクロサービス基盤へ移行",
+    "url": "https://www.linkx.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "また、最新のセキュリティ基準に準拠し、安全かつ柔軟なサービス連携を実現します",
+    "url": "https://www.linkx.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "「ニッキン」に自社AIソリューション「LiNKX AXcelerator」が掲載されました",
+    "url": "https://www.linkx.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "マイクロサービス化、標準化されたAPI、クラウド環境（マルチクラウド対応）を前提とした設計により、拡張性と保守性を高めます",
+    "url": "https://www.linkx.dev/services/overview",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、AI技術を活用した自社ソリューション「AXcelerator」によって、COBOLからの移行を含む大規模なシステム再構築を少数精鋭のチームで実行し、基幹システムのモダン化を推進します",
+    "url": "https://www.linkx.dev/services/overview",
+    "pass": 1
+   },
+   {
+    "quote": "・ オープン化 / マイクロサービス化",
+    "url": "https://www.linkx.dev/services/overview",
+    "pass": 1
+   },
+   {
+    "quote": "フロントサービスや外部システムと基幹系システムを接続するAPIゲートウェイ基盤を構築します",
+    "url": "https://www.linkx.dev/services/overview",
+    "pass": 1
+   },
+   {
+    "quote": "自社ソリューション「BX Connect」を活用した、モダンかつセキュアなAPI基盤の構築にも対応します",
+    "url": "https://www.linkx.dev/services/overview",
+    "pass": 1
+   },
+   {
+    "quote": "世界最大級のITインフラストラクチャーサービスプロバイダーであるKyndryl Inc.の日本法人キンドリルジャパン株式会社とAIパートナーシップ協定を締結",
+    "url": "https://www.linkx.dev/company/about",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "個別ツールのライセンスコストや運用負荷を抑えながら、AI活用を前提としたデータ基盤の高度化を着実に推進します",
+    "url": "https://www.linkx.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "マイクロサービス化、標準化されたAPI、クラウド環境（マルチクラウド対応）を前提とした設計により、拡張性と保守性を高めます",
+    "url": "https://www.linkx.dev/services/overview",
+    "pass": 1
+   },
+   {
+    "quote": "ストック型収入（保守・運用、SaaS等）：2.1%",
+    "url": "https://note.com/signal_news/n/nde1ffdbf556b",
+    "pass": 3
+   },
+   {
+    "quote": "SaaSへの移行を目指すほとんどのITスタートアップが「ストック比率の向上」を語る",
+    "url": "https://note.com/signal_news/n/nde1ffdbf556b",
+    "pass": 3
+   },
+   {
+    "quote": "開発が終わっても、保守・運用として継続関係が続く",
+    "url": "https://note.com/signal_news/n/nde1ffdbf556b",
+    "pass": 3
+   },
+   {
+    "quote": "有報では「フロー型収入をストック型収入へとつなげる」と明記されている",
+    "url": "https://note.com/signal_news/n/nde1ffdbf556b",
+    "pass": 3
+   },
+   {
+    "quote": "月額1,480円",
+    "url": "https://note.com/signal_news/n/nde1ffdbf556b",
+    "pass": 3
+   },
+   {
+    "quote": "(期間限定)マスタープラン｜月額1,480円",
+    "url": "https://note.com/signal_news/n/nde1ffdbf556b",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "AI時代のデータ利活用に向けて日本テラデータ株式会社との戦略的パートナーシップを締結",
+    "url": "https://www.linkx.dev/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "世界最大級のITインフラストラクチャーサービスプロバイダーであるKyndryl Inc.の日本法人キンドリルジャパン株式会社とAIパートナーシップ協定を締結",
+    "url": "https://www.linkx.dev/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "LiNKXはそこに深く入り込み、開発パートナーとして機能している",
+    "url": "https://note.com/signal_news/n/nde1ffdbf556b",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月には、Kyndrylジャパンとのパートナーシップ締結",
+    "url": "https://note.com/signal_news/n/nde1ffdbf556b",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2020年7月15日",
+    "url": "https://www.linkx.dev/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月2日 20:48",
+    "url": "https://note.com/signal_news/n/nde1ffdbf556b",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月、ひとつのIT企業が東京証券取引所グロース市場への上場を申請した",
+    "url": "https://note.com/signal_news/n/nde1ffdbf556b",
+    "pass": 3
+   },
+   {
+    "quote": "2021年6月期が2.98億円",
+    "url": "https://note.com/signal_news/n/nde1ffdbf556b",
+    "pass": 3
+   },
+   {
+    "quote": "2022年6月期が5.37億円",
+    "url": "https://note.com/signal_news/n/nde1ffdbf556b",
+    "pass": 3
+   },
+   {
+    "quote": "2023年6月期が6.72億円",
+    "url": "https://note.com/signal_news/n/nde1ffdbf556b",
+    "pass": 3
+   },
+   {
+    "quote": "2024年6月期が8.27億円",
+    "url": "https://note.com/signal_news/n/nde1ffdbf556b",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月期が13.74億円",
+    "url": "https://note.com/signal_news/n/nde1ffdbf556b",
+    "pass": 3
+   },
+   {
+    "quote": "2021年6月期はマイナス0.97億円の赤字",
+    "url": "https://note.com/signal_news/n/nde1ffdbf556b",
+    "pass": 3
+   },
+   {
+    "quote": "2022年6月期はマイナス0.20億円の赤字",
+    "url": "https://note.com/signal_news/n/nde1ffdbf556b",
+    "pass": 3
+   },
+   {
+    "quote": "2023年6月期はプラス0.56億円で初黒字転換",
+    "url": "https://note.com/signal_news/n/nde1ffdbf556b",
+    "pass": 3
+   },
+   {
+    "quote": "2024年6月期はプラス1.38億円",
+    "url": "https://note.com/signal_news/n/nde1ffdbf556b",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月期はプラス3.36億円",
+    "url": "https://note.com/signal_news/n/nde1ffdbf556b",
+    "pass": 3
+   },
+   {
+    "quote": "2024年6月期：16.7%",
+    "url": "https://note.com/signal_news/n/nde1ffdbf556b",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月期：24.5%",
+    "url": "https://note.com/signal_news/n/nde1ffdbf556b",
+    "pass": 3
+   },
+   {
+    "quote": "2024年6月期末：45人",
+    "url": "https://note.com/signal_news/n/nde1ffdbf556b",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月期末：72人",
+    "url": "https://note.com/signal_news/n/nde1ffdbf556b",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月末：86人",
+    "url": "https://note.com/signal_news/n/nde1ffdbf556b",
+    "pass": 3
+   },
+   {
+    "quote": "2024年6月期：2,357万円",
+    "url": "https://note.com/signal_news/n/nde1ffdbf556b",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月期：2,294万円",
+    "url": "https://note.com/signal_news/n/nde1ffdbf556b",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月期の売上高のうち、株式会社北國銀行との取引が49.5%を占めている",
+    "url": "https://note.com/signal_news/n/nde1ffdbf556b",
+    "pass": 3
+   },
+   {
+    "quote": "2025年4月、ふくおかフィナンシャルグループとの資本業務提携が発表された",
+    "url": "https://note.com/signal_news/n/nde1ffdbf556b",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月には、Kyndrylジャパンとのパートナーシップ締結",
+    "url": "https://note.com/signal_news/n/nde1ffdbf556b",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月期の売上構造を確認する",
+    "url": "https://note.com/signal_news/n/nde1ffdbf556b",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月時点での外国人従業員比率は約40%",
+    "url": "https://note.com/signal_news/n/nde1ffdbf556b",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月23日、新規上場した",
+    "url": "https://www.youtube.com/watch?v=QMIM9rcZ6nw",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "「本物のビジネスモデルの強さ」か、「短期的な特需の歪み」か",
+    "url": "https://note.com/signal_news/n/nde1ffdbf556b",
+    "pass": 3
+   },
+   {
+    "quote": "ここに、この会社のビジネスモデルの本質がある",
+    "url": "https://note.com/signal_news/n/nde1ffdbf556b",
+    "pass": 3
+   },
+   {
+    "quote": "しかし2〜3年後の収益構造がどう変わるかが、この会社の評価の分岐点になる",
+    "url": "https://note.com/signal_news/n/nde1ffdbf556b",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル、競争優位性、経営戦略、決算、成長余地まで1社ずつ分析",
+    "url": "https://note.com/signal_news/n/nde1ffdbf556b",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "さらに驚くのが営業利益率だ",
+    "url": "https://note.com/signal_news/n/nde1ffdbf556b",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、「埋め込まれていること」は参入障壁であると同時に、退出困難なリスクでもある",
+    "url": "https://note.com/signal_news/n/nde1ffdbf556b",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル、競争優位性、経営戦略、決算、成長余地まで1社ずつ分析",
+    "url": "https://note.com/signal_news/n/nde1ffdbf556b",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "事業内容 | LiNKX 株式会社 — 事業内容 | LiNKX 株式会社 LiNKX株式会社 https://www.linkx.dev > services > overview",
+    "url": "https://www.linkx.dev/services/overview",
+    "pass": 3
+   },
+   {
+    "quote": "【 LiNKX IPO分析】1人あたり2300万円を稼ぐエンジニア集団 ... — 【 LiNKX IPO分析】1人あたり2300万円を稼ぐエンジニア集団 ... note https://note.com > ビジネス > スタートアップ・VC",
+    "url": "https://note.com/signal_news/n/nde1ffdbf556b",
+    "pass": 3
+   },
+   {
+    "quote": "LiNKX （584A）のアナリストレポート（IR、株、IPO） — LiNKX （584A）のアナリストレポート（IR、株、IPO） 証券リサーチセンター https://holistic-r.org > report",
+    "url": "https://holistic-r.org/report/584a/",
+    "pass": 3
+   },
+   {
+    "quote": "LiNKX のIPO｜同族役員と社外取締役の構成、有償SOと事業の ... — LiNKX のIPO｜同族役員と社外取締役の構成、有償SOと事業の ... ipo-method.com https://ipo-method.com > IPOの基礎知識",
+    "url": "https://ipo-method.com/ipo-support/9672/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 | IRライブラリー - IR情報 - LiNKX株式会社 — 決算説明資料 | IRライブラリー - IR情報 - LiNKX株式会社 LiNKX株式会社 https://ir.linkx.dev > library > presentation",
+    "url": "https://ir.linkx.dev/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 | LiNKX 株式会社 — IR情報 | LiNKX 株式会社 LiNKX株式会社 https://ir.linkx.dev",
+    "url": "https://ir.linkx.dev/",
+    "pass": 3
+   },
+   {
+    "quote": "【 LiNKX 】[584A]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 LiNKX 】[584A]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=584A",
+    "pass": 3
+   },
+   {
+    "quote": "よくあるご質問 | IR情報 | LiNKX 株式会社 — よくあるご質問 | IR情報 | LiNKX 株式会社 LiNKX株式会社 https://ir.linkx.dev > faq",
+    "url": "https://ir.linkx.dev/ir/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "コーポレート・ガバナンス | 経営情報 | IR情報 | LiNKX 株式会社 — コーポレート・ガバナンス | 経営情報 | IR情報 | LiNKX 株式会社 LiNKX株式会社 https://ir.linkx.dev > management > governance",
+    "url": "https://ir.linkx.dev/ir/management/governance/",
+    "pass": 3
+   },
+   {
+    "quote": "事業 内容 | LiNKX 株式会社 — 事業 内容 | LiNKX 株式会社 LiNKX株式会社 https://www.linkx.dev > services > overview",
+    "url": "https://www.linkx.dev/services/overview",
+    "pass": 3
+   },
+   {
+    "quote": "LiNKX 株式会社 - レガシーからモダンへ、その架け橋となる。 — LiNKX 株式会社 - レガシーからモダンへ、その架け橋となる。 LiNKX株式会社 https://www.linkx.dev",
+    "url": "https://www.linkx.dev/",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 | LiNKX 株式会社 — 企業情報 | LiNKX 株式会社 LiNKX株式会社 https://www.linkx.dev > company > about",
+    "url": "https://www.linkx.dev/company/about",
+    "pass": 3
+   },
+   {
+    "quote": "【 LiNKX 】[584A]企業概要 社員数や役員報酬・資本金 | 日経 ... — 【 LiNKX 】[584A]企業概要 社員数や役員報酬・資本金 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=584A",
+    "pass": 3
+   },
+   {
+    "quote": "LiNKX ［584A］IPO - YouTube — LiNKX ［584A］IPO - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=QMIM9rcZ6nw",
+    "pass": 3
+   },
+   {
+    "quote": "金融総合専門紙「ニッキン」に当社代表取締役 社長 オサムニア ... — 金融総合専門紙「ニッキン」に当社代表取締役 社長 オサムニア ... LiNKX株式会社 https://www.linkx.dev > news",
+    "url": "https://www.linkx.dev/news/Ze1WIeqA",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 | LiNKX 株式会社 — 企業情報 | LiNKX 株式会社 LiNKX株式会社 https://www.linkx.dev > company > executives",
+    "url": "https://www.linkx.dev/company/executives",
+    "pass": 3
+   },
+   {
+    "quote": "LiNKX 上場会見、AIでレガシーシステムを可視化 日本企業の ... — LiNKX 上場会見、AIでレガシーシステムを可視化 日本企業の ... ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/385207",
+    "pass": 3
+   },
+   {
+    "quote": "ニュース | LiNKX 株式会社 — ニュース | LiNKX 株式会社 LiNKX株式会社 https://www.linkx.dev > news",
+    "url": "https://www.linkx.dev/news",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.linkx.dev/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkx.dev/services/overview",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkx.dev/company/about",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://note.com/signal_news/n/nde1ffdbf556b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.linkx.dev/ir/library/presentation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.linkx.dev/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=QMIM9rcZ6nw",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "LiNKX",
+   "results": [
+    "https://www.morningstar.com/funds/xnas/linkx/quote",
+    "https://www.blackrock.com/us/individual/products/227839/lifepath-index-2030-fund",
+    "https://finance.yahoo.com/quote/LINKX/",
+    "https://www.marketwatch.com/investing/fund/linkx",
+    "https://www.cnbc.com/quotes/LINKX",
+    "https://www.wsj.com/market-data/quotes/mutualfund/LINKX",
+    "https://www.morningstar.com/funds/xnas/linkx/performance",
+    "https://seekingalpha.com/symbol/LINKX",
+    "https://ja.wikipedia.org/wiki/LINKL_PLANET",
+    "https://finance.yahoo.com/quote/LINKX/?fr=sycsrp_catchall"
+   ]
+  },
+  {
+   "query": "株式会社LiNKX",
+   "results": [
+    "https://www.linkx.dev/",
+    "https://www.openwork.jp/a0C2x00000OHlld/pr/",
+    "https://www.wantedly.com/companies/company_4355215",
+    "https://jp.linkedin.com/company/linkx-inc",
+    "https://www.green-japan.com/company/8743",
+    "https://ja.wikipedia.org/wiki/株式会社INAX",
+    "https://www.linkx.co.jp/",
+    "https://www.linkx.dev/company",
+    "https://www.linkx-group.com/",
+    "https://www.linkx.dev/company/about"
+   ]
+  },
+  {
+   "query": "LiNKX ビジネスモデル",
+   "results": [
+    "https://www.linkx.dev/services/overview",
+    "https://note.com/signal_news/n/nde1ffdbf556b",
+    "https://holistic-r.org/report/584a/",
+    "https://ipo-method.com/ipo-support/9672/",
+    "https://www.cyber-l.co.jp/recruit/model/",
+    "https://www.youtube.com/watch?v=QMIM9rcZ6nw",
+    "https://www.linkx.dev/",
+    "https://jp.linkedin.com/pulse/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AE%E6%BD%AE%E6%B5%81-part-2linux%E3%81%AE%E6%88%90%E5%8A%9F%E3%81%AB%E5%AD%A6%E3%81%B6%E3%81%93%E3%81%A8-eiichiro-yanagawa",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260925540462",
+    "https://kurabetter.com/archives/19292"
+   ]
+  },
+  {
+   "query": "LiNKX 決算説明資料",
+   "results": [
+    "https://ir.linkx.dev/ir/library/presentation/",
+    "https://ir.linkx.dev/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=584A",
+    "https://ir.linkx.dev/ir/faq/",
+    "https://ir.linkx.dev/ir/management/governance/",
+    "https://jp.medialinks.com/investor-relations/",
+    "https://kabutan.jp/stock/finance?code=584A",
+    "https://ir.linkx.dev/ir/management/message/"
+   ]
+  },
+  {
+   "query": "LiNKX 事業系統図",
+   "results": [
+    "https://www.linkx.dev/services/overview",
+    "https://www.linkx.dev/",
+    "https://prtimes.jp/main/html/rd/p/000000034.000065786.html",
+    "https://www.linkx.dev/company/about",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=584A",
+    "https://shikiho.toyokeizai.net/news/0/949481",
+    "https://kitaishihon.com/company/584A/business",
+    "https://search.sbisec.co.jp/v2/popwin/info/connect/ipo/202605212101.pdf",
+    "https://www.youtube.com/watch?v=QMIM9rcZ6nw",
+    "https://www.linkx.dev/company"
+   ]
+  },
+  {
+   "query": "LiNKX 社長 インタビュー",
+   "results": [
+    "https://www.youtube.com/watch?v=QMIM9rcZ6nw",
+    "https://www.linkx.dev/news/Ze1WIeqA",
+    "https://www.linkx.dev/company/executives",
+    "https://finance.logmi.jp/articles/385207",
+    "https://www.linkx.dev/news",
+    "https://www.youtube.com/watch?v=7Q1OzkyGkCA",
+    "https://www.nikkei.com/article/DGXZQOUC023II0S6A600C2000000/",
+    "https://www.nikkan.co.jp/articles/view/785369",
+    "https://kitaishihon.com/company/584A/board-of-director",
+    "https://note.com/linkx_dev/n/nb20955409cd0"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部4頁・検索6回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部4頁・検索6回）",
+  "事業内容": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部4頁・検索6回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部4頁・検索6回）",
+  "売上構成": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部4頁・検索6回）"
+ }
+}

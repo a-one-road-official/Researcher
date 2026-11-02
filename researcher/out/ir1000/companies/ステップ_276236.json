@@ -1,0 +1,1407 @@
+{
+ "name": "ステップ",
+ "aliases": [],
+ "context": "証券コード9795／サービス業／プライム（内国株式）／2025.09期 売上高15,847百万円 営業利益率23.8%",
+ "researched_at": "2026-11-02T17:43:59.558867+00:00",
+ "official_url": "https://www.stepnet.co.jp/",
+ "identified_by": "search:yahoo_jp:ステップ",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2022年11月",
+    "url": "https://career.medi-site.co.jp/media/kk-step/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "2026年 オリコン顧客満足度ランキングでステップが総合第１位！",
+    "url": "https://www.stepnet.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "＜2025年 オリコン顧客満足度ランキング＞ ８年連続で小中高３冠達成！",
+    "url": "https://www.stepnet.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "それは、あなたの会社がどのように顧客や利害関係者のために価値を創造し、提供し、維持するかを概説するものである",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客を理解し、コア・バリュー・プロポジションを定義し、収益源を探り、チームや利害関係者と調整する必要がある",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "1.顧客セグメントの特定",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "まずは顧客を理解することから始めましょう",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "潜在顧客を人口統計、行動、嗜好に基づく特定のセグメントに分類することで、製品を利用する可能性のあるさまざまなコミュニティと真に共鳴する製品を設計することができます",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "潜在顧客を調査したり、既存のデータを分析したりして、誰にサービスを提供し、彼らが何を最も必要としているかを突き止めましょう",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "掲載されているデータを利用すれば、どのような顧客にサービスを提供しようとしているのかをよりよく理解することができる",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "あなたの顧客が誰であるかがわかったら、次はあなたの製品やサービスを際立たせるものは何かを考えましょう",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "あなたのバリュー・プロポジションは、あなたの顧客が直面している問題と、それを他の誰よりもうまく解決する方法を明確に訴えるものでなければなりません",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "このステップでは、反復と顧客からのフィードバックが効果的です",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "オンラインとオフラインのチャネルを組み合わせて、顧客とのつながりに最適なものを探しましょう",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "4.顧客関係タイプの研究",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との関係は単なる取引ではなく、エンゲージメントとロイヤルティに関わるものです",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客とどのように交流するかを考えてみよう",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "適切なアプローチは、製品や顧客の期待によって異なります",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、顧客関係のタイプを効果的に調査するための詳細なガイドをご用意しました",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客関係タイプの調査方法",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "このガイドでは、顧客ペルソナの特定からアナリティクスの活用、カスタマージャーニーのマッピングまで、すべてを網羅しています",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "サプライヤーやディストリビューター、あるいは同じような顧客層を持つ他の企業との提携も考えられます",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "バリュー・プロポジションは定石ではなく、顧客や市場の動向を知るにつれて進化していくものです",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "11.顧客関係戦略の定義",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との関係は、意図的に構築されることで発展します",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "パーソナライズされたEメール、ロイヤリティ・プログラム、コミュニティ・フォーラムなど、どのような方法で顧客との関わりを深めるにしても、そのアプローチがブランドの価値を反映し、顧客をリピーターにするものであることを確認してください",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "14.顧客セグメントの確定",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "市場分析、人口統計学的調査、顧客からのフィードバックなどのデータを統合し、ターゲット・グループを明確に定義します",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "原因1：顧客理解の不足",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルとは、企業がどのように価値を生み出し、どのように顧客に届け、どのように収益へと変換するかを表した一連の仕組みを指します",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "顧客セグメント",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との関係",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "多くのユーザー数が前提",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "顧客ニーズの検証不足",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルの起点は「顧客」",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "顧客への効果的なアプローチのためには、徹底的かつ体系的に顧客理解に努める必要があります",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "解決策：3ステップで顧客理解を深める",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "ステップ1：ターゲット顧客の仮説を立てる",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "顧客のイメージを深く明確にするために、誰をターゲットとするのか仮説立てします",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "ステップ2：顧客インタビューで定性・定量データを収集",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "ペルソナ設定が完了したら、ターゲット顧客に実際にインタビューを行います",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "自身の解釈は含めず、顧客が実際に使った表現や感情にこそ、今後のマーケティングのヒントが秘められています",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "顧客のイメージを深く明確にするために、年齢・性別・職業・役職といった属性から、購買行動や悩み、価値観などの詳細な人物像を作ります",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "ペルソナを設定することで、事業を推進するチーム全体で顧客像を共有でき、意思決定の基準を明確にする",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "顧客が選ぶべき理由を説明できない",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "顧客理解ができていたとしても、価値が曖昧だと価格根拠の脆弱性につながり、顧客に選ばれる理由を提示できません",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "「顧客にとってどんな価値があるのか」を定義",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "解決策1：顧客の課題と自社の提供価値をマッピングして整理する",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "このフレームワークでは、「顧客への提供価値」を左側に、「顧客セグメント」を右側にマッピングしてつなげ、顧客の課題に対して自社の製品やサービスでどう解決するのかを可視化します",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "このマッピングによって、顧客にとって本当に価値のある要素を見極めます",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "＜顧客への提供価値 ＞",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "＜顧客セグメント＞",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "ゲイン：顧客が得たいこと・達成したいこと",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "既存のお客様との長い関係を持つ一方、近年はWebマーケティングにも力を入れ、ジュエリー以外の用途からも問い合わせが増えているといいます",
+    "url": "https://career.medi-site.co.jp/media/kk-step/",
+    "pass": 3
+   },
+   {
+    "quote": "長いお付き合いのお客様も多いですし、ショーケースを専門的にやっている会社自体がそこまで多くないので、安定して仕事をいただける基盤があります",
+    "url": "https://career.medi-site.co.jp/media/kk-step/",
+    "pass": 3
+   },
+   {
+    "quote": "中野社長が社長になってから、新規のお客様への広げ方も変えたんですよね",
+    "url": "https://career.medi-site.co.jp/media/kk-step/",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、新しいお客様を取るのが苦手だったんです",
+    "url": "https://career.medi-site.co.jp/media/kk-step/",
+    "pass": 3
+   },
+   {
+    "quote": "会社に力があるほど、社員にも、お客様にも、地域にもできることが増えていくんです",
+    "url": "https://career.medi-site.co.jp/media/kk-step/",
+    "pass": 3
+   },
+   {
+    "quote": "長く続いてきたショーケース事業の強みを残しながら、Webマーケティングで新しいお客様との接点を増やし、社内では社員自身が会社づくりに関われる場をつくる",
+    "url": "https://career.medi-site.co.jp/media/kk-step/",
+    "pass": 3
+   },
+   {
+    "quote": "だからこそ、社員にも挑戦できる機会を増やし、会社に力をつけることで、お客様や地域にもより多くの価値を返していきたいと考えています",
+    "url": "https://career.medi-site.co.jp/media/kk-step/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "ステップが「英検プラチナパートナー塾」に認定されました",
+    "url": "https://www.stepnet.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "この記事では、効果的なビジネスモデルを構築するための実践的なステップを紹介する",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "ソーシャルメディア、Eメールキャンペーン、パートナーシップ、あるいは対面イベントなど、オーディエンスの好みに応じて考えてみましょう",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "8.パートナーシップの可能性を探る",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "自社の強みを補い、あるいはギャップを埋めるようなパートナーシップを探しましょう",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーシップは、創造的な解決策や機会の拡大につながることが多い",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "13.主要なパートナーシップの確立",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーシップを正式に結ぶことで、ビジネスに大きな価値を付加することができます",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "強力なパートナーシップは、新しい市場や能力への扉を開くことが多い",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "7.パートナーシップとの調整問題",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーシップを模索し、管理するには、明確さと説明責任が必要だが、コミュニケーション不足や期待値のズレが摩擦につながることも多い",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーシップの機会を追跡し、コラボレーションを公式化するシステムは、成功と停滞の分かれ目となる",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "タスクカードの効果的な使い方を紹介しよう：",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客セグメントの特定から、主要な活動やパートナーシップの定義まで、どのカードも、強固で実行可能なビジネス戦略を構築するための足がかりとなります",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "解決策2：必要な外部パートナーと役割を整理する",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "自社のリソースでは補うことのできないリソースやケイパビリティは、外部パートナーを活用することで補います",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "そのために、どの部門でどのようなパートナーを選定するかを洗い出しましょう",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "協業することによって双方がWin-Winとなれるパートナーを選定することがポイントです",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "＜外部パートナーの選定基準＞",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "ここまでの内容を活かし、7日間で新規事業のビジネスモデル作成にチャレンジできるプログラムをご紹介します",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、新規事業で「ビジネスモデルをどう形にすればいいかわからない」という方向けに、作れない原因と解決策を整理してご紹介しました",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルの基本構造を押さえたうえで、つまずきやすい5つのポイントと、それを解消する具体的なステップをご紹介しました",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "サービス紹介資料",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "法人事業部門のご紹介",
+    "url": "https://www.stepon.co.jp/comprof/orgchart.html",
+    "pass": 3
+   },
+   {
+    "quote": "賃貸オフィス・店舗",
+    "url": "https://www.stepon.co.jp/comprof/orgchart.html",
+    "pass": 3
+   },
+   {
+    "quote": "専門家のご紹介",
+    "url": "https://www.stepon.co.jp/comprof/orgchart.html",
+    "pass": 3
+   },
+   {
+    "quote": "マンションプラザのご紹介",
+    "url": "https://www.stepon.co.jp/comprof/orgchart.html",
+    "pass": 3
+   },
+   {
+    "quote": "売却依頼先店舗を探す",
+    "url": "https://www.stepon.co.jp/comprof/orgchart.html",
+    "pass": 3
+   },
+   {
+    "quote": "有料職業紹介事業許可番号：13-ユ-316383",
+    "url": "https://career.medi-site.co.jp/media/kk-step/",
+    "pass": 3
+   },
+   {
+    "quote": "有料職業紹介事業許可番号 13-ユ-316383",
+    "url": "https://career.medi-site.co.jp/media/kk-step/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年 オリコン顧客満足度ランキングでステップが総合第１位！",
+    "url": "https://www.stepnet.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年春に高校受験ステップ「横浜スクール」「南加瀬スクール」を開校します！",
+    "url": "https://www.stepnet.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年春に大学受験ステップ溝の口校を開校します！",
+    "url": "https://www.stepnet.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年春に学童教室STEPキッズ辻堂駅南口教室を開校します！",
+    "url": "https://www.stepnet.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "令和８年度 公立高校入試における特色検査に関するステップの見解",
+    "url": "https://www.stepnet.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年9月",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1月",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年7月",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年5月",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月1日より、一部の賃貸仲介、賃貸管理業務は住友不動産住宅リース株式会社が取り扱います",
+    "url": "https://www.stepon.co.jp/comprof/orgchart.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年9月30日",
+    "url": "https://career.medi-site.co.jp/media/kk-step/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "勝てるビジネスモデルの作り方：ステップ・バイ・ステップ・ガイド | Kerikaでさらに多くのことを達成しよう",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "勝てるビジネスモデルの作り方：ステップ・バイ・ステップ・ガイド",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "堅実なビジネスモデルは、繁栄するビジネスの礎石である",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、強固なビジネスモデルを構築するのは複雑なプロセスである",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、効果的なビジネスモデルを構築するための実践的なステップを紹介する",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "この画像をクリックすると、チームがどのようにビジネスモデルを構築しているかの例を見ることができる",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "確かなビジネスモデルを構築するために不可欠なステップ",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "収益源は、持続可能なビジネスモデルの基盤です",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "堅実な収益モデルは、将来の成長をサポートしながら、財務的な持続可能性を保証します",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルを構築する際の落とし穴を避けよう",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルを構築するために不可欠なステップを踏むことが重要であっても、そのプロセスにはしばしば隠れた課題が潜んでいる",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "この会社のビジネスモデル・ボードをよく見てみよう",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "1.ビジネスモデル・ステップごとにタスクを追加する",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "各ステップを実行可能なタスクに分解するために作成された「顧客セグメントの特定」や「バリュー・プロポジションの草案」のような新しいタスクが、ビジネスモデルのどの部分も見落とさないようにする",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "このカスタマイズにより、ボードがビジネスモデル独自の要件に適応できるようになります",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "タスクカードは、あなたのチームがビジネスモデルの特定のステップを完了するために必要なすべての詳細を整理する場所です",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "次のステップは、カラムをカスタマイズし、タスクを追加し、独自のビジネスモデルを構築し始めることだ",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルの構築は複雑な道のりですが、きちんと構造化されたワークフローと適切なツールがあれば、プロセスを簡素化し、何も漏れがないようにすることができます",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "既存の計画を練り直すにせよ、ゼロから始めるにせよ、これらのカードとその方法論は、あなた自身のビジネスモデルをカスタマイズするためのフレームワークを提供します",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルの作り方5ステップ｜つまずく5つの原因と解決策も解説 − マガジン ｜ 【マイナビProfessional】企業向けポータルサイト",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルの作り方5ステップ｜つまずく5つの原因と解決策も解説 − マガジン ｜ 【マイナビProfessional】企業向けポータルサイト 読み込まれました",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルの作り方5ステップ｜つまずく5つの原因と解決策も解説",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルとは、",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "：どの収益モデルで、いくらの価格にするかを決める",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルとは？9つの構成要素で理解する",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "代表的なビジネスモデルの4つの型（収益タイプ）",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルの作り方｜つまずく5つの原因と解決策",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "原因3：収益モデルの設計が不十分",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "7日間で作る！新規事業ビジネスモデル構築プログラム",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "Q1．ビジネスモデルの作成にはどれくらい時間がかかりますか？",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "Q2．1人でビジネスモデルを作ることは可能ですか？",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "Q3．ビジネスモデルは一度作ったら変更しないものですか？",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "Q4．フレームワークを使わずにビジネスモデルを作れますか？",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "Q5．既存事業のビジネスモデルも見直すべきですか？",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "まとめ｜ビジネスモデル構築にプロ人材という選択肢",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "新規事業のビジネスモデル構築に、プロ人材という選択肢",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルとは、企業がどのように価値を生み出し、どのように顧客に届け、どのように収益へと変換するかを表した一連の仕組みを指します",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "代表的な整理方法が「ビジネスモデルキャンバス」で、ビジネスモデルを9つの要素に分解します",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルキャンバスの書き方9ステップ｜記入例と活用ポイントを解説",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルを作る前に、自社がどの収益タイプに当てはまるかを押さえると、収益設計が一気に進みます",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル構築でつまずく原因は5つのパターンに分けられます",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルの起点は「顧客」",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "することはビジネスモデルをつくるにあたって重要なプロセスです",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "なかでも、収益モデル設計でよくある失敗パターンは3つあります",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "潜在顧客を人口統計、行動、嗜好に基づく特定のセグメントに分類することで、製品を利用する可能性のあるさまざまなコミュニティと真に共鳴する製品を設計することができます",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "潜在顧客を調査したり、既存のデータを分析したりして、誰にサービスを提供し、彼らが何を最も必要としているかを突き止めましょう",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "掲載されているデータを利用すれば、どのような顧客にサービスを提供しようとしているのかをよりよく理解することができる",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "あなたの顧客が誰であるかがわかったら、次はあなたの製品やサービスを際立たせるものは何かを考えましょう",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "適切なアプローチは、製品や顧客の期待によって異なります",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "サブスクリプション、1回限りの購入、広告など、さまざまな選択肢を検討し、あなたのサービスや読者に合ったものを見つけましょう",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "定期的にこのステップを見直し、フィードバックや洞察を取り入れることで、適切で競争力のあるサービスを提供し続けることができます",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "これらのセグメントのユニークなニーズや嗜好を理解することで、最大の価値を提供するために製品やサービスを調整することができます",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "このステップを完了させることで、提供する商品やマーケティング戦略の精度が高まります",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "単に商品やサービスを説明するだけではなく、事業全体をどのような動きで成立させるかを示す設計図と考えるのがよいでしょう",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "新規事業では、リーンキャンバスで素早く仮説をまとめ、MVP（最小限の製品）で検証する進め方が有効です",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "：商品・サービスを販売して対価を得る",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "「こんな商品があればいいだろう」という供給者目線が抜けていない",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "自社のサービスや製品を、機能の羅列で説明してしまう",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "このフレームワークでは、「顧客への提供価値」を左側に、「顧客セグメント」を右側にマッピングしてつなげ、顧客の課題に対して自社の製品やサービスでどう解決するのかを可視化します",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "製品やサービス：何を提供するか",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "カスタマイズ：製品やサービスの柔軟性",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "サポート：伴走力やアフターサービスの手厚さ",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "無料提供でサービスを開始し、後々有料化するケースです",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "4つのパターンから、自社の製品やサービスに最も適している収益モデルを選定",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "・商品やサービスを販売し、その対価を得るモデル",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "・無料でサービスを提供し、広告収入を得るモデル",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "3つの価格設定アプローチ法から、自社の製品やサービスに最適なものを選択",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "可能であれば競合のサービスを実際に使用してみるのも有用です",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "商品・サービス：機能、価格、品質",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "仮説設計からMVP検証、ピボット判断まで戦略と実行の両面で伴走するサービス",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "まずはサービス資料をご覧ください",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "サービス紹介資料",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "サービス情報",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "サービス資料ダウンロード",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "買主様向けサービス",
+    "url": "https://www.stepon.co.jp/comprof/orgchart.html",
+    "pass": 3
+   },
+   {
+    "quote": "買取仲介サービス(ステップオークション)",
+    "url": "https://www.stepon.co.jp/comprof/orgchart.html",
+    "pass": 3
+   },
+   {
+    "quote": "売主様向けサービス",
+    "url": "https://www.stepon.co.jp/comprof/orgchart.html",
+    "pass": 3
+   },
+   {
+    "quote": "借主様向けサービス",
+    "url": "https://www.stepon.co.jp/comprof/orgchart.html",
+    "pass": 3
+   },
+   {
+    "quote": "貸主様向けサービス",
+    "url": "https://www.stepon.co.jp/comprof/orgchart.html",
+    "pass": 3
+   },
+   {
+    "quote": "サービス・特典",
+    "url": "https://www.stepon.co.jp/comprof/orgchart.html",
+    "pass": 3
+   },
+   {
+    "quote": "宝飾品やフィギュア、楽器など、大切な商品を展示するために使われるショーケース",
+    "url": "https://career.medi-site.co.jp/media/kk-step/",
+    "pass": 3
+   },
+   {
+    "quote": "ステップさんの主力事業の一つが、ショーケースですよね",
+    "url": "https://career.medi-site.co.jp/media/kk-step/",
+    "pass": 3
+   },
+   {
+    "quote": "ベテランも多いし、「商品をきれいに見せよう」「いい会場をつくろう」という意識も高い",
+    "url": "https://career.medi-site.co.jp/media/kk-step/",
+    "pass": 3
+   },
+   {
+    "quote": "ステップが持っていたサービスの力と、こちらが持っていたWebマーケティングの力",
+    "url": "https://career.medi-site.co.jp/media/kk-step/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "サブスクリプション、1回限りの購入、広告など、さまざまな選択肢を検討し、あなたのサービスや読者に合ったものを見つけましょう",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "サブスクリプション型",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "：定額で継続課金する",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "収益が安定する一方、解約率の管理が必要",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "：売り手と買い手をつなぎ手数料を得る",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "②サブスクリプション型",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "・月額や年額で定額料金を受け取るモデル",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "・解約率の管理が必要",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "・売り手と買い手をマッチングし、手数料を得るモデル",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "売上予測：顧客数×単価×購入頻度",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "損益分岐点：固定費÷（単価-変動費）",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "・「総人口×ターゲット比率×購入率×単価」で概算を出し、全体感を掴むのに有用",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "・「想定顧客数×購入頻度×単価」で現実的な見積もりが得られる",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "1.顧客セグメントの特定",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "潜在顧客を人口統計、行動、嗜好に基づく特定のセグメントに分類することで、製品を利用する可能性のあるさまざまなコミュニティと真に共鳴する製品を設計することができます",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "14.顧客セグメントの確定",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "これらのセグメントのユニークなニーズや嗜好を理解することで、最大の価値を提供するために製品やサービスを調整することができます",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客セグメントの特定から収益ストリームの最終決定まで、進捗状況を一目で確認できるようにしながら、細部まで確実に説明できるようになっています",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "各ステップを実行可能なタスクに分解するために作成された「顧客セグメントの特定」や「バリュー・プロポジションの草案」のような新しいタスクが、ビジネスモデルのどの部分も見落とさないようにする",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、顧客セグメントを定義するための調査方法や人口統計分析の概要を説明する",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客セグメントの特定から、主要な活動やパートナーシップの定義まで、どのカードも、強固で実行可能なビジネス戦略を構築するための足がかりとなります",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客セグメント",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "このフレームワークでは、「顧客への提供価値」を左側に、「顧客セグメント」を右側にマッピングしてつなげ、顧客の課題に対して自社の製品やサービスでどう解決するのかを可視化します",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "＜顧客セグメント＞",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "自社の強みを補い、あるいはギャップを埋めるようなパートナーシップを探しましょう",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "在庫を持たずスケールしやすい",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "自社の強みをより詳細に可視化したい方は、「",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "【テンプレ付き】バリューチェーン分析の基本と実践｜強みを可視化する5つの手順",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "・在庫を持たない",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "市場のニーズや競合の強み・弱み、自社が提供できる価値を比べることで、",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "SWOT分析とは、自社を取り巻く内部環境（強み・弱み）と外部環境（機会・脅威）を整理するフレームワークのことです",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "自社の強みをどのように活かすか、弱みをどのように補うかを戦略的に考える",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "競合の強み・弱みを分析しておらず、自社の参入余地を説明できない",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "強み：競争優位性、差別化ポイント",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "ステップが受け継いできた仕事の強みと、そこに加えた新しい取り組み",
+    "url": "https://career.medi-site.co.jp/media/kk-step/",
+    "pass": 3
+   },
+   {
+    "quote": "既存事業の強みを生かしながら、Webマーケティングや組織づくりなど新しい取り組みを進めている",
+    "url": "https://career.medi-site.co.jp/media/kk-step/",
+    "pass": 3
+   },
+   {
+    "quote": "ステップがもともと持っていた強みに、新しい集客方法が加わったんですね",
+    "url": "https://career.medi-site.co.jp/media/kk-step/",
+    "pass": 3
+   },
+   {
+    "quote": "長く続いてきたショーケース事業の強みを残しながら、Webマーケティングで新しいお客様との接点を増やし、社内では社員自身が会社づくりに関われる場をつくる",
+    "url": "https://career.medi-site.co.jp/media/kk-step/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "勝てる ビジネスモデル の作り方： ステップ ・バイ ... - Kerika — 勝てる ビジネスモデル の作り方： ステップ ・バイ ... - Kerika Kerika https://blog.kerika.com > 勝てるビジネスモデルの作り方...",
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル の作り方5 ステップ ｜つまずく5つの原因と解決 ... — ビジネスモデル の作り方5 ステップ ｜つまずく5つの原因と解決 ... マイナビProfessional https://professional.mynavi.jp > magazine > magazine_245",
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル の仮説構築は「7つの ステップ 」で解決できる — ビジネスモデル の仮説構築は「7つの ステップ 」で解決できる クーリエ・ジャポン https://courrier.jp > ビジネス",
+    "url": "https://courrier.jp/columns/339289/",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリー 投資家情報 株式会社 ステップ （ STEP ） — IRライブラリー 投資家情報 株式会社 ステップ （ STEP ） ステップ https://www.stepnet.co.jp > company > IR-finance",
+    "url": "https://www.stepnet.co.jp/company/IR-finance.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信 - IR資料 – サイバーステップホールディングス株式会社 — 決算 短信 - IR資料 – サイバーステップホールディングス株式会社 サイバーステップホールディングス株式会社 https://cshd.cyberstep.com > material > material1-html",
+    "url": "https://cshd.cyberstep.com/cshd/ir/material/material1-html/",
+    "pass": 3
+   },
+   {
+    "quote": "【 ステップ 】[9795]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 ステップ 】[9795]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=9795",
+    "pass": 3
+   },
+   {
+    "quote": "過去のIRライブラリー 投資家情報 株式会社 ステップ （ STEP ） — 過去のIRライブラリー 投資家情報 株式会社 ステップ （ STEP ） ステップ https://www.stepnet.co.jp > company > IR-past",
+    "url": "https://www.stepnet.co.jp/company/IR-past.html",
+    "pass": 3
+   },
+   {
+    "quote": "[ ステップ 9795.T] 2026年9月期 決算 短信〔日本基準〕(非連結) — [ ステップ 9795.T] 2026年9月期 決算 短信〔日本基準〕(非連結) BigGo ファイナンス https://finance.biggo.jp > jpx_tdnet_140120261028557780",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120261028557780",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ステップ - 有価証券報告書 — 株式会社 ステップ - 有価証券報告書 ステップ PDF https://www.stepnet.co.jp > company > data > edi",
+    "url": "https://www.stepnet.co.jp/company/data/edi/2022edi.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "組織図｜会社情報 - 住友不動産ステップ — 組織図｜会社情報 - 住友不動産ステップ 住友不動産ステップ https://www.stepon.co.jp > 会社情報",
+    "url": "https://www.stepon.co.jp/comprof/orgchart.html",
+    "pass": 3
+   },
+   {
+    "quote": "サイバー ステップ ホールディングス【3810】の 事業 内容 — サイバー ステップ ホールディングス【3810】の 事業 内容 キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/3810/business",
+    "pass": 3
+   },
+   {
+    "quote": "代表取締役 - 鈴木 茂 - STEP — 代表取締役 - 鈴木 茂 - STEP 株式会社ステップ https://www.stepltd.co.jp > company",
+    "url": "https://www.stepltd.co.jp/company.htm",
+    "pass": 3
+   },
+   {
+    "quote": "【9795】株式会社 ステップ 事業概要と成長戦略に関するIR ... — 【9795】株式会社 ステップ 事業概要と成長戦略に関するIR ... invest-n.jp https://invest-n.jp > ...",
+    "url": "https://invest-n.jp/ir/2040/",
+    "pass": 3
+   },
+   {
+    "quote": "ご挨拶 | 株式会社 ステップ社長 ブログ — ご挨拶 | 株式会社 ステップ社長 ブログ kk-step.jp https://www.kk-step.jp > ceo > about",
+    "url": "https://www.kk-step.jp/ceo/about/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.stepnet.co.jp/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.stepnet.co.jp/common/img/frontpage/pc_frontpage_detail_button_flow.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.stepnet.co.jp/common/img/frontpage/sp_frontpage_detail_button_flow.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://professional.mynavi.jp/magazine/magazine_245",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://cshd.cyberstep.com/cshd/ir/material/material1-html/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.stepon.co.jp/comprof/orgchart.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career.medi-site.co.jp/media/kk-step/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stepltd.co.jp/company.htm",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ステップ",
+   "results": [
+    "https://www.stepnet.co.jp/",
+    "https://step-japan.jp/mall/?srsltid=AYCX9vLK785JH3I4T8s1JP-rMV8vPIf_sxvWz82R6aLydKRkHBPoAHgh",
+    "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%86%E3%83%83%E3%83%97",
+    "https://steppass.ourstep.jp/",
+    "https://www.youtube.com/channel/UC-eru0rZuV8FF9-PDfbLwYg",
+    "https://www.rakuten.co.jp/step-sports/",
+    "https://kotobank.jp/word/%E3%81%99%E3%81%A6%E3%81%A4%E3%81%B7-3156347",
+    "https://ja.wikipedia.org/wiki/ステップ",
+    "https://kotobank.jp/word/すてつぷ-3156347",
+    "https://www.weblio.jp/content/ステップ"
+   ]
+  },
+  {
+   "query": "ステップ ビジネスモデル",
+   "results": [
+    "https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/",
+    "https://professional.mynavi.jp/magazine/magazine_245",
+    "https://courrier.jp/columns/339289/",
+    "https://circleci.com/ja/blog/what-is-business-model/",
+    "https://proffit.jp/column/1/RJNqgbap",
+    "https://blog.nijibox.jp/article/what_businessmodel/",
+    "https://www.ctc-g.co.jp/keys/blog/detail/what-is-a-business-model",
+    "https://froggy.smbcnikko.co.jp/69881/",
+    "https://theone.co.jp/blog/business-model-how-to-create/",
+    "https://renue.co.jp/posts/business-model-10-types-3-frameworks-ai-agent-5-steps-guide-2026"
+   ]
+  },
+  {
+   "query": "ステップ 決算説明資料",
+   "results": [
+    "https://www.stepnet.co.jp/company/IR-finance.html",
+    "https://cshd.cyberstep.com/cshd/ir/material/material1-html/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=9795",
+    "https://www.stepnet.co.jp/company/IR-past.html",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120261028557780",
+    "https://www.kaisei-group.co.jp/corporate/irlibrary-tanshin.html",
+    "https://cshd.cyberstep.com/cshd/ir/material/material2-html/",
+    "https://www.stepnet.co.jp/company/",
+    "https://www.tess-hd.co.jp/ir/library/presentation",
+    "https://www.stepnet.co.jp/company/data/RB/2026_company2.pdf"
+   ]
+  },
+  {
+   "query": "ステップ 事業系統図",
+   "results": [
+    "https://www.stepnet.co.jp/company/data/edi/2022edi.pdf",
+    "https://www.stepon.co.jp/comprof/orgchart.html",
+    "https://suzuki-tax.net/shacho-kyokasho/organization-chart",
+    "https://kitaishihon.com/company/3810/business",
+    "https://www.subaru.co.jp/ir/management/plan/step_2018.html",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=9795",
+    "https://asana.com/ja/resources/organizational-planning",
+    "https://cshd.cyberstep.com/cshd/business/",
+    "https://www.bpm-j.org/download/bpmmodel.pdf"
+   ]
+  },
+  {
+   "query": "ステップ 社長 インタビュー",
+   "results": [
+    "https://career.medi-site.co.jp/media/kk-step/",
+    "https://www.stepltd.co.jp/company.htm",
+    "https://invest-n.jp/ir/2040/",
+    "https://www.kk-step.jp/ceo/about/",
+    "https://webeecampus.smrj.go.jp/interview/interview_03/",
+    "https://www.green-japan.com/company/2753/interview",
+    "https://www.stepnet.co.jp/company/info-index.html",
+    "https://caretasukeru.com/business-operations/ceo-interview/1431/",
+    "https://www.nippon-shacho.com/interview/interview02/in_fsltd/2/",
+    "http://www.kk-step.jp/ceo/promotion/recruit/interview/"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像2件／外部6頁・検索5回）",
+  "事業内容": "記載なし（3回確認済み：公式1頁／PDF・画像2件／外部6頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像2件／外部6頁・検索5回）"
+ }
+}

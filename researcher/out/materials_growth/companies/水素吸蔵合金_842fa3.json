@@ -1,0 +1,1945 @@
+{
+ "name": "水素吸蔵合金",
+ "en": "hydrogen storage alloy",
+ "aliases": [
+  "metal hydride",
+  "水素吸蔵合金"
+ ],
+ "context": "水素",
+ "kind": "market",
+ "researched_at": "2026-11-02T17:37:42.441628+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "水素貯蔵合金市場：市場規模・需要と2034年までの予測",
+    "url": "https://www.theinsightpartners.com/ja/reports/hydrogen-storage-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "水素貯蔵合金市場規模と予測（2021年 - 2034年）、世界および地域別シェア、トレンド、成長機会分析レポート 対象範囲：タイプ別（AB5、AB2）、アプリケーション別（充電式バッテリー、冷却装置、燃料電池、その他）",
+    "url": "https://www.theinsightpartners.com/ja/reports/hydrogen-storage-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の水素貯蔵合金市場規模は、2025年の37億4,000万米ドルから2034年には72億3,000万米ドルに達すると予測されています",
+    "url": "https://www.theinsightpartners.com/ja/reports/hydrogen-storage-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場は、2026年から2034年の予測期間中、年平均成長率（CAGR）7.6%で成長すると見込まれています",
+    "url": "https://www.theinsightpartners.com/ja/reports/hydrogen-storage-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "ハイブリッドモビリティにおける Ni-MH の耐久性: リチウムイオンの台頭にもかかわらず、Ni-MH バッテリー市場は、その安全性、広い動作温度範囲、ハイブリッド電気自動車 (HEV) や産業用ツールにおける長寿命により、AB5/A2B7 粉末の安定した需要基盤となっています",
+    "url": "https://www.theinsightpartners.com/ja/reports/hydrogen-storage-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.theinsightpartners.com/ja/reports/hydrogen-storage-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年までの市場規模",
+    "url": "https://www.theinsightpartners.com/ja/reports/hydrogen-storage-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "YH Researchによるとのグローバル水素吸蔵合金粉末の市場は2024年の296百万米ドルから2031年には446百万米ドルに成長し、2025年から2031年の間にCAGRは6.4%になると予測されている",
+    "url": "https://newscast.jp/news/2540822",
+    "pass": 3
+   },
+   {
+    "quote": "１.市場規模と予測データ：世界の水素吸蔵合金粉末市場に関する過去データ（2020～2025年）および将来予測データ（2026～2031年）を提供し、市場の成長と規模を明確に示します",
+    "url": "https://newscast.jp/news/2540822",
+    "pass": 3
+   },
+   {
+    "quote": "1.2 グローバル水素吸蔵合金粉末の市場規模と予測",
+    "url": "https://newscast.jp/news/2540822",
+    "pass": 3
+   },
+   {
+    "quote": "1.2.1 売上別のグローバル水素吸蔵合金粉末の市場規模（2020-2031）",
+    "url": "https://newscast.jp/news/2540822",
+    "pass": 3
+   },
+   {
+    "quote": "1.2.2 販売量別のグローバル水素吸蔵合金粉末の市場規模（2020-2031）",
+    "url": "https://newscast.jp/news/2540822",
+    "pass": 3
+   },
+   {
+    "quote": "1.3 中国水素吸蔵合金粉末の市場規模・予測",
+    "url": "https://newscast.jp/news/2540822",
+    "pass": 3
+   },
+   {
+    "quote": "1.3.1 売上別の中国水素吸蔵合金粉末市場規模（2020-2031）",
+    "url": "https://newscast.jp/news/2540822",
+    "pass": 3
+   },
+   {
+    "quote": "1.3.2 販売量別の中国水素吸蔵合金粉末市場規模（2020-2031）",
+    "url": "https://newscast.jp/news/2540822",
+    "pass": 3
+   },
+   {
+    "quote": "1.4.3 水素吸蔵合金粉末の市場規模、中国VS世界（2020-2031）",
+    "url": "https://newscast.jp/news/2540822",
+    "pass": 3
+   },
+   {
+    "quote": "水素吸蔵合金の市場規模、2028年に45億3553万米ドル到達予測 | 株式会社グローバルインフォメーションのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000477.000071640.html",
+    "pass": 3
+   },
+   {
+    "quote": "水素吸蔵合金の市場規模、2028年に45億3553万米ドル到達予測",
+    "url": "https://prtimes.jp/main/html/rd/p/000000477.000071640.html",
+    "pass": 3
+   },
+   {
+    "quote": "水素吸蔵合金の市場規模は、2019年の24億688万米ドルから、2028年には45億3553万米ドルに達し、2020年から2028年にかけて7.3%のCAGRで成長すると予想されています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000477.000071640.html",
+    "pass": 3
+   },
+   {
+    "quote": "2.市場規模推移・予測",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112506839&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "1）市場規模拡大の見通し 3",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112506839&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "1）水素ステーション市場規模推移（フロー） 65",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112506839&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "5.水素ステーション関連主要機器市場規模推移・予測 76",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112506839&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "6.調査対象品目市場規模推移・予測一覧 78",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112506839&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "水素吸蔵合金市場規模は2026年313百万米ドル、成長率6.8%で拡大予測 | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/3012149",
+    "pass": 3
+   },
+   {
+    "quote": "水素吸蔵合金市場規模は2026年313百万米ドル、成長率6.8%で拡大予測",
+    "url": "https://newscast.jp/smart/news/3012149",
+    "pass": 3
+   },
+   {
+    "quote": "水素吸蔵合金市場規模（百万米ドル）2025-2032年",
+    "url": "https://newscast.jp/smart/news/3012149",
+    "pass": 3
+   },
+   {
+    "quote": "QYResearchが最新発表した「水素吸蔵合金―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」市場調査報告書によると、世界水素吸蔵合金市場規模は2025年の約295百万米ドルから2026年には313百万米ドルへ着実に成長し、予測期間6.8％の複合年間成長率（CAGR）で拡大を続け、2032年には465百万米ドルに達する見込みである",
+    "url": "https://newscast.jp/smart/news/3012149",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2032年まで堅調な成長を維持",
+    "url": "https://newscast.jp/smart/news/3012149",
+    "pass": 3
+   },
+   {
+    "quote": "水素貯蔵合金粉末市場 | 市場規模 分析 予測 2026-2032年 【市場調査レポート】",
+    "url": "https://www.gii.co.jp/report/ires2155880-hydrogen-storage-alloy-powder-market-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "水素貯蔵合金粉末市場は、2032年までにCAGR17.60％で7億8,542万米ドル規模に拡大すると予測されています",
+    "url": "https://www.gii.co.jp/report/ires2155880-hydrogen-storage-alloy-powder-market-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 3,939 換算",
+    "url": "https://www.gii.co.jp/report/ires2155880-hydrogen-storage-alloy-powder-market-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 5,959 換算",
+    "url": "https://www.gii.co.jp/report/ires2155880-hydrogen-storage-alloy-powder-market-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "Hydrogen Storage Alloy Market Size, Share, Growth, 2034",
+    "url": "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global hydrogen storage alloy market size was valued at USD 1.91 billion in 2025 and is projected to grow from USD 2.09 billion in 2026 to USD 4.37 billion by 2034, registering a CAGR of 9.59% during the forecast period (2026–2034). Asia Pacific dominated the hydrogen storage alloy market with a market share of 41.28% in 2025.",
+    "url": "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The China hydrogen storage alloy market was valued at USD 340 million in 2025, led by its dominant position in rare earth processing, hydrogen infrastructure development, and fuel cell commercialization. China continues to expand green hydrogen production capacity while strengthening domestic supply chains for critical minerals used in hydrogen storage alloys.",
+    "url": "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The hydrogen storage alloy market size is valued at USD 2.09 Billion in 2026 and is projected to reach USD 4.35 Billion by 2034, at a CAGR of 9.59% during the forecast period 2026-2034.",
+    "url": "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The hydrogen storage alloy market is projected to grow at a CAGR of 9.59% during the forecast period of 2026 2034.",
+    "url": "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Photocatalyst Market Size, Share, Growth, Analysis, Report, 2034",
+    "url": "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Silver Nanowire Market Size, Share, Growth, Analysis, 2034",
+    "url": "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Gold Nanoparticles Market Size, Share, Growth, Analysis, 2034",
+    "url": "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Graphene Market Size, Share, Growth, Analysis, Report, 2034",
+    "url": "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Composite Utility Pole Market Size, Share, Growth, Analysis, 2034",
+    "url": "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Synthetic Graphite Market Size, Share, Growth, Analysis, 2034",
+    "url": "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Hydrogen Storage Materials Market Size, Share & Growth Report, 2035",
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "pass": 3
+   },
+   {
+    "quote": "2026 MARKET SIZE",
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "pass": 3
+   },
+   {
+    "quote": "2035 MARKET SIZE",
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "pass": 3
+   },
+   {
+    "quote": "The Hydrogen Storage Materials Market was valued at USD 584.73 Million in 2025 and is expected to reach USD 2,052.67 Million by 2035, growing at a CAGR of 13.38% from 2026-2035.",
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. Hydrogen Storage Materials Market was valued at USD 110.62 Million in 2025 and is expected to reach USD 363.71 Million by 2035, growing at a CAGR of 12.64% from 2026-2035.",
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "pass": 3
+   },
+   {
+    "quote": "In November 2025, XTC New Energy Materials, through its subsidiary Xiamen XTC Hydrogen Energy, announced a 237 million yuan hydrogen storage alloy project in the Xiamen Free Trade Zone. The plan covers 5,000 tons of hydrogen energy materials and 7,000 tons of functional materials a year, including a solid-state storage device line, with operations scheduled to begin in January 2028.",
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "pass": 3
+   },
+   {
+    "quote": "In November 2025, Velox Energy Materials announced that its Kotai Hydrogen Project with Curtin University had completed Milestone 2 of an ARENA-funded program, triggering a payment of A$1 million. The project transports hydrogen as sodium borohydride powder, has produced about 10 g at laboratory scale, and plans a pilot plant under Milestone 3.",
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "pass": 3
+   },
+   {
+    "quote": "NE.ME.SYS, an Italian start-up, selected Bulgaria's Hydrogenera to supply metal hydride alloy for its MIH-FC project, which integrates fuel cell technology with solid-state hydrogen storage. The project is co-funded with EUR 2.4 million under Italy's PNRR program for hydrogen research.",
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "pass": 3
+   },
+   {
+    "quote": "Ayrton Energy won the grand prize of The Liveability Challenge 2025, receiving S$1 million to scale its e-LOHC hydrogen storage technology across Asia. The funds will support a flagship project in Singapore that will be the company's first operational site in the region.",
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size in 2025",
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "pass": 3
+   },
+   {
+    "quote": "USD 584.73 Million",
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size by 2035",
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "pass": 3
+   },
+   {
+    "quote": "USD 2,052.67 Million",
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "pass": 3
+   },
+   {
+    "quote": "Metal Hydride Hydrogen Storage Market Projected to Scale to $1.30 Billion by 2035, Assesses SRI",
+    "url": "https://www.strategicrevenueinsights.com/industry/metal-hydride-hydrogen-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Metal Hydride Hydrogen Storage Market Size, Share and Forecast 2026-2035",
+    "url": "https://www.strategicrevenueinsights.com/industry/metal-hydride-hydrogen-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 420.00 Million in 2025",
+    "url": "https://www.strategicrevenueinsights.com/industry/metal-hydride-hydrogen-storage-market",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "市場は、2026年から2034年の予測期間中、年平均成長率（CAGR）7.6%で成長すると見込まれています",
+    "url": "https://www.theinsightpartners.com/ja/reports/hydrogen-storage-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、水素吸蔵合金ベースの熱管理システムの出現、産業における脱炭素化規制の拡大、そして定置型電力用途において優れた体積エネルギー密度を提供するAB2型合金容量の大幅な進歩も、市場を後押しすると見込まれています",
+    "url": "https://www.theinsightpartners.com/ja/reports/hydrogen-storage-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "調達動向に焦点を当てた調査では、Ni-MH電池分野に不可欠な高サイクルAB5粉末と、長期エネルギー貯蔵を目的とした「タンクグレード」AB2およびTi-Fe合金の新たな需要との間のギャップが拡大していることが示されています",
+    "url": "https://www.theinsightpartners.com/ja/reports/hydrogen-storage-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のCAGR（2026年～2034年）",
+    "url": "https://www.theinsightpartners.com/ja/reports/hydrogen-storage-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界水素吸蔵合金粉末市場調査：2031年までCAGR6.40%で成長予測 | NEWSCAST",
+    "url": "https://newscast.jp/news/2540822",
+    "pass": 3
+   },
+   {
+    "quote": "世界水素吸蔵合金粉末市場調査：2031年までCAGR6.40%で成長予測",
+    "url": "https://newscast.jp/news/2540822",
+    "pass": 3
+   },
+   {
+    "quote": "YH Researchによるとのグローバル水素吸蔵合金粉末の市場は2024年の296百万米ドルから2031年には446百万米ドルに成長し、2025年から2031年の間にCAGRは6.4%になると予測されている",
+    "url": "https://newscast.jp/news/2540822",
+    "pass": 3
+   },
+   {
+    "quote": "５.主要生産地域のデータ：世界の水素吸蔵合金粉末市場における主要な生産地域、生産能力、生産量、前年比成長率に関する情報を提供します",
+    "url": "https://newscast.jp/news/2540822",
+    "pass": 3
+   },
+   {
+    "quote": "第4章：水素吸蔵合金粉末の世界の主要生産地域、パーセントとCAGR（2020～2031）",
+    "url": "https://newscast.jp/news/2540822",
+    "pass": 3
+   },
+   {
+    "quote": "第6章：製品別の販売量、平均価格、売上、パーセントとCAGR（2020～2031）",
+    "url": "https://newscast.jp/news/2540822",
+    "pass": 3
+   },
+   {
+    "quote": "第7章：アプリケーション別の販売量、平均価格、売上、パーセントとCAGR（2020～2031）",
+    "url": "https://newscast.jp/news/2540822",
+    "pass": 3
+   },
+   {
+    "quote": "第8章：地域別セグメントの販売量、平均価格、売上、パーセントとCAGR（2020～2031）",
+    "url": "https://newscast.jp/news/2540822",
+    "pass": 3
+   },
+   {
+    "quote": "第9章：国別の販売量、平均価格、売上、パーセントとCAGR（2020～2031）",
+    "url": "https://newscast.jp/news/2540822",
+    "pass": 3
+   },
+   {
+    "quote": "水素吸蔵合金の市場規模は、2019年の24億688万米ドルから、2028年には45億3553万米ドルに達し、2020年から2028年にかけて7.3%のCAGRで成長すると予想されています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000477.000071640.html",
+    "pass": 3
+   },
+   {
+    "quote": "1）市場規模拡大の見通し 3",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112506839&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "水素吸蔵合金市場規模は2026年313百万米ドル、成長率6.8%で拡大予測 | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/3012149",
+    "pass": 3
+   },
+   {
+    "quote": "水素吸蔵合金市場規模は2026年313百万米ドル、成長率6.8%で拡大予測",
+    "url": "https://newscast.jp/smart/news/3012149",
+    "pass": 3
+   },
+   {
+    "quote": "QYResearchが最新発表した「水素吸蔵合金―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」市場調査報告書によると、世界水素吸蔵合金市場規模は2025年の約295百万米ドルから2026年には313百万米ドルへ着実に成長し、予測期間6.8％の複合年間成長率（CAGR）で拡大を続け、2032年には465百万米ドルに達する見込みである",
+    "url": "https://newscast.jp/smart/news/3012149",
+    "pass": 3
+   },
+   {
+    "quote": "水素貯蔵合金粉末市場は、2032年までにCAGR17.60％で7億8,542万米ドル規模に拡大すると予測されています",
+    "url": "https://www.gii.co.jp/report/ires2155880-hydrogen-storage-alloy-powder-market-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRは17.60%です",
+    "url": "https://www.gii.co.jp/report/ires2155880-hydrogen-storage-alloy-powder-market-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "1MPa未満の圧力で吸蔵できる水素の体積は、合金自体の体積の1000倍から1500倍にもなります",
+    "url": "https://www.jaici.or.jp/solutions/interview/db/icsd-case7/",
+    "pass": 3
+   },
+   {
+    "quote": "The global hydrogen storage alloy market size was valued at USD 1.91 billion in 2025 and is projected to grow from USD 2.09 billion in 2026 to USD 4.37 billion by 2034, registering a CAGR of 9.59% during the forecast period (2026–2034). Asia Pacific dominated the hydrogen storage alloy market with a market share of 41.28% in 2025.",
+    "url": "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The magnesium-based alloys segment is projected to grow at a CAGR of 11.84% during the forecast period due to its high hydrogen storage capacity and lightweight properties. Ongoing research is improving hydrogen absorption kinetics and reducing operating temperatures, making these alloys increasingly suitable for next-generation hydrogen storage applications.",
+    "url": "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Fuel Cell Electric Vehicles (FCEVs) segment is expected to grow at a CAGR of 10.92% during the forecast period due to expanding hydrogen mobility infrastructure and increasing commercialization of hydrogen-powered passenger and commercial vehicles. Rising government incentives and investments in hydrogen refueling networks are further accelerating adoption.",
+    "url": "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The transportation segment is projected to grow at a CAGR of 11.27% during the forecast period due to increasing adoption of hydrogen-powered buses, trucks, trains, and other heavy-duty vehicles. Continuous expansion of hydrogen refueling infrastructure and fuel cell technology is expected to drive demand for advanced hydrogen storage alloys.",
+    "url": "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The hydrogen storage alloy market size is valued at USD 2.09 Billion in 2026 and is projected to reach USD 4.35 Billion by 2034, at a CAGR of 9.59% during the forecast period 2026-2034.",
+    "url": "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The hydrogen storage alloy market is projected to grow at a CAGR of 9.59% during the forecast period of 2026 2034.",
+    "url": "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Hydrogen Storage Materials Market was valued at USD 584.73 Million in 2025 and is expected to reach USD 2,052.67 Million by 2035, growing at a CAGR of 13.38% from 2026-2035.",
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. Hydrogen Storage Materials Market was valued at USD 110.62 Million in 2025 and is expected to reach USD 363.71 Million by 2035, growing at a CAGR of 12.64% from 2026-2035.",
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "pass": 3
+   },
+   {
+    "quote": "By Material Type, the Metal Hydrides segment dominated the Hydrogen Storage Materials Market with approximately 39.42% share in 2025, while the Nanostructured Materials and MOFs segment is the fastest growing with a CAGR of approximately 16.84%.",
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "pass": 3
+   },
+   {
+    "quote": "By Storage Mechanism, the Absorption segment dominated the Hydrogen Storage Materials Market with approximately 58.63% share in 2025, while the Adsorption segment is the fastest growing with a CAGR of approximately 15.92%.",
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "pass": 3
+   },
+   {
+    "quote": "By Application, the Stationary Energy Storage segment dominated the Hydrogen Storage Materials Market with approximately 41.27% share in 2025, while the Fuel Cell Vehicles and Mobility segment is the fastest growing with a CAGR of approximately 15.28%.",
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "pass": 3
+   },
+   {
+    "quote": "By End-Use Industry, the Energy and Utilities segment dominated the Hydrogen Storage Materials Market with approximately 43.18% share in 2025, while the Chemical and Industrial Gas segment is the fastest growing with a CAGR of approximately 14.76%.",
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "pass": 3
+   },
+   {
+    "quote": "• By Material Type: Dominant – Metal Hydrides (39.42% share in 2025); Fastest-Growing – Nanostructured Materials and MOFs (CAGR 16.84%)",
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "pass": 3
+   },
+   {
+    "quote": "• By Storage Mechanism: Dominant – Absorption (58.63% share in 2025); Fastest-Growing – Adsorption (CAGR 15.92%)",
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "pass": 3
+   },
+   {
+    "quote": "• By Application: Dominant – Stationary Energy Storage (41.27% share in 2025); Fastest-Growing – Fuel Cell Vehicles and Mobility (CAGR 15.28%)",
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "pass": 3
+   },
+   {
+    "quote": "• By End-Use Industry: Dominant – Energy and Utilities (43.18% share in 2025); Fastest-Growing – Chemical and Industrial Gas (CAGR 14.76%)",
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "pass": 3
+   },
+   {
+    "quote": "12.0% CAGR",
+    "url": "https://www.strategicrevenueinsights.com/industry/metal-hydride-hydrogen-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 2026 to 2035",
+    "url": "https://www.strategicrevenueinsights.com/industry/metal-hydride-hydrogen-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific, 13.0% CAGR",
+    "url": "https://www.strategicrevenueinsights.com/industry/metal-hydride-hydrogen-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Regionally, Asia Pacific adds the most, rising from USD 151.20 Million to USD 514.00 Million. North America and Europe grow at 11.1% and 11.4%, which keeps them below the global rate and gives Asia a lead that widens each year.",
+    "url": "https://www.strategicrevenueinsights.com/industry/metal-hydride-hydrogen-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "13.5% CAGR",
+    "url": "https://www.strategicrevenueinsights.com/industry/metal-hydride-hydrogen-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Fuel Cell Vehicles hold 18.00%, or USD 75.60 Million, and grow at 11.5% to USD 224.82 Million. Metal hydrides suit small vehicles, scooters, bikes and utility carts, where space is short and the vehicle can carry the weight. Passenger cars and trucks lean to compressed tanks, which store far more hydrogen per kilogram of tank, so this application remains a niche.",
+    "url": "https://www.strategicrevenueinsights.com/industry/metal-hydride-hydrogen-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "13.0% CAGR",
+    "url": "https://www.strategicrevenueinsights.com/industry/metal-hydride-hydrogen-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "11.1% CAGR",
+    "url": "https://www.strategicrevenueinsights.com/industry/metal-hydride-hydrogen-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "11.4% CAGR",
+    "url": "https://www.strategicrevenueinsights.com/industry/metal-hydride-hydrogen-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "12.3% CAGR",
+    "url": "https://www.strategicrevenueinsights.com/industry/metal-hydride-hydrogen-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "11.7% CAGR",
+    "url": "https://www.strategicrevenueinsights.com/industry/metal-hydride-hydrogen-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Weight penalty removes about 1.4 points. Metal hydrides store little hydrogen per kilogram of material compared with compressed tanks, which rules them out for most road vehicles and aircraft. This explains why Fuel Cell Vehicles grow at only 11.5%.",
+    "url": "https://www.strategicrevenueinsights.com/industry/metal-hydride-hydrogen-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market grows at a CAGR of 12.0% from 2026 to 2035.",
+    "url": "https://www.strategicrevenueinsights.com/industry/metal-hydride-hydrogen-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025 - 2035)",
+    "url": "https://www.marketresearchfuture.com/reports/hydrogen-storage-alloys-market-39835",
+    "pass": 3
+   },
+   {
+    "quote": "As per Market Research Future analysis, the Hydrogen Storage Alloys Market Size was estimated at 1.261 USD Billion in 2024. The Hydrogen Storage Alloys industry is projected to grow from 1.391 USD Billion in 2025 to 3.705 USD Billion by 2035, exhibiting a compound annual growth rate (CAGR) of 10.29% during the forecast period 2025 - 2035",
+    "url": "https://www.marketresearchfuture.com/reports/hydrogen-storage-alloys-market-39835",
+    "pass": 3
+   },
+   {
+    "quote": "The Hydrogen Storage Alloys Market is projected to grow at a 10.29% CAGR from 2025 to 2035, driven by increasing demand for clean energy solutions and advancements in storage technologies.",
+    "url": "https://www.marketresearchfuture.com/reports/hydrogen-storage-alloys-market-39835",
+    "pass": 3
+   },
+   {
+    "quote": "What is the expected CAGR for the Hydrogen Storage Alloys Market during the forecast period 2025 - 2035?",
+    "url": "https://www.marketresearchfuture.com/reports/hydrogen-storage-alloys-market-39835",
+    "pass": 3
+   },
+   {
+    "quote": "The expected CAGR for the Hydrogen Storage Alloys Market during the forecast period 2025 - 2035 is 10.29%.",
+    "url": "https://www.marketresearchfuture.com/reports/hydrogen-storage-alloys-market-39835",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2035 - 2035):",
+    "url": "https://www.factmr.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 8.5%",
+    "url": "https://www.factmr.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "8.5% CAGR",
+    "url": "https://www.factmr.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "10.3% CAGR",
+    "url": "https://www.factmr.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Historical CAGR (2020 to 2024)",
+    "url": "https://www.factmr.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "市場リーダーと主要企業の概要",
+    "url": "https://www.theinsightpartners.com/ja/reports/hydrogen-storage-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "水素貯蔵合金市場で事業を展開している主要企業は次のとおりです",
+    "url": "https://www.theinsightpartners.com/ja/reports/hydrogen-storage-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Insight Partnersは、当社のグローバルな市場参入戦略を支える有益な市場インテリジェンスを提供してくれました",
+    "url": "https://www.theinsightpartners.com/ja/reports/hydrogen-storage-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、主要生産地域、消費地域、及び主要企業の生産・消費の観点から、市場動向を深く理解し、企業が新規市場の開拓や競争力強化に向けた戦略を立てるための有益な情報を提供します",
+    "url": "https://newscast.jp/news/2540822",
+    "pass": 3
+   },
+   {
+    "quote": "３.中国市場の会社別データ：中国の水素吸蔵合金粉末市場における主要企業の売上、価格、市場シェア、業界ランキングに関するデータを提供します",
+    "url": "https://newscast.jp/news/2540822",
+    "pass": 3
+   },
+   {
+    "quote": "第10章：会社概要、製品仕様、アプリケーション、最近の発展状況、販売量、平均価格、売上、粗利益率などについて、市場における主要企業の基本状況を詳しく紹介する",
+    "url": "https://newscast.jp/news/2540822",
+    "pass": 3
+   },
+   {
+    "quote": "5.主要プレイヤーの取り組み事例",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112506839&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "4.主要企業の取り組み事例 40",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112506839&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業と市場競争の状況",
+    "url": "https://newscast.jp/smart/news/3012149",
+    "pass": 3
+   },
+   {
+    "quote": "水素貯蔵合金粉末市場における主要企業はどこですか？",
+    "url": "https://www.gii.co.jp/report/ires2155880-hydrogen-storage-alloy-powder-market-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, Environment & Regulatory Landscape and Trends",
+    "url": "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "NE.ME.SYS, an Italian start-up, selected Bulgaria's Hydrogenera to supply metal hydride alloy for its MIH-FC project, which integrates fuel cell technology with solid-state hydrogen storage. The project is co-funded with EUR 2.4 million under Italy's PNRR program for hydrogen research.",
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "pass": 3
+   },
+   {
+    "quote": "Hydrogen Storage Materials Market Key Players are:",
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size, Segments Analysis, Competitive Landscape, Regional Analysis, DROC & SWOT Analysis, Forecast Outlook",
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the Hydrogen Storage Materials Market?",
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "pass": 3
+   },
+   {
+    "quote": "Key players include Hydrexia Holding Limited, H2MOF Inc., GRZ Technologies SA, SolidHydrogen Pty Ltd, and Treibacher Industrie AG, among others.",
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies",
+    "url": "https://www.strategicrevenueinsights.com/industry/metal-hydride-hydrogen-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Chapter 15. Competitive Landscape",
+    "url": "https://www.strategicrevenueinsights.com/industry/metal-hydride-hydrogen-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/hydrogen-storage-alloys-market-39835",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.marketresearchfuture.com/reports/hydrogen-storage-alloys-market-39835",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players and Competitive Insights",
+    "url": "https://www.marketresearchfuture.com/reports/hydrogen-storage-alloys-market-39835",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies in the Hydrogen Storage Alloys Market include",
+    "url": "https://www.marketresearchfuture.com/reports/hydrogen-storage-alloys-market-39835",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, and Trends",
+    "url": "https://www.marketresearchfuture.com/reports/hydrogen-storage-alloys-market-39835",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/hydrogen-storage-alloys-market-39835",
+    "pass": 3
+   },
+   {
+    "quote": "What are the key players in the Hydrogen Storage Alloys Market?",
+    "url": "https://www.marketresearchfuture.com/reports/hydrogen-storage-alloys-market-39835",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the Hydrogen Storage Alloys Market include Hydrogenics Corporation, Praxair Technology Inc., and Air Products and Chemicals Inc.",
+    "url": "https://www.marketresearchfuture.com/reports/hydrogen-storage-alloys-market-39835",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.factmr.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.factmr.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the Global Hydrogen Storage Alloy Market are American Elements, AMG Titanium Alloys & Coatings LLC, Jiangmen Kanhoo Industry Co. Ltd, Xiamen Tungsten Co. Ltd, Air Liquide, JMC (Japan Metals & Chemicals Co., Ltd., Hexagon Composites ASA, Santoku Corporation amongst other.",
+    "url": "https://www.factmr.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Companies devote a significant portion of their revenue to R&D to resolve problems and offer creative solutions to draw in new customers and stay competitive. The key players in the global hydrogen storage alloy market are innovating advanced materials including metallic hydrides and complex hydrides, which have considerable advantages such as energy density and safety.",
+    "url": "https://www.factmr.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the Major Players Operating in the Global Hydrogen Storage Alloy Market?",
+    "url": "https://www.factmr.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Prominent players in the market are American Elements, AMG Titanium Alloys & Coatings LLC, Jiangmen Kanhoo Industry Co. Ltd, Xiamen Tungsten Co. Ltd, Air Liquide, JMC (Japan Metals & Chemicals Co., Ltd., Hexagon Composites ASA, Santoku Corporation amongst other.",
+    "url": "https://www.factmr.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Hydrogen Storage Alloys Market analysis covering key market trends, global and regional framework, major players, regulations, and recent market developments",
+    "url": "https://www.theinsightpartners.com/reports/hydrogen-storage-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Industry landscape and competition analysis covering market concentration, heat map analysis, prominent players, and recent developments in the Hydrogen Storage Alloys Market",
+    "url": "https://www.theinsightpartners.com/reports/hydrogen-storage-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players and competitive strategies in the market?",
+    "url": "https://www.theinsightpartners.com/reports/hydrogen-storage-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Major players include JMC, Santoku Corporation, Merck KGaA, AMG Titanium, and American Elements. Competitive differentiation is achieved through custom alloy tuning, integrated storage systems, advanced morphology control, and thermal management solutions to meet industrial, stationary, and mobility needs.",
+    "url": "https://www.theinsightpartners.com/reports/hydrogen-storage-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape and Company Benchmarking",
+    "url": "https://www.theinsightpartners.com/reports/hydrogen-storage-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Several startups and R&D consortia are prototyping",
+    "url": "https://www.strategicmarketresearch.com/market-report/hydrogen-storage-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "This approach doesn't just cut R&D costs. It allows startups to leapfrog traditional trial-and-error by focusing on high-probability compositions.",
+    "url": "https://www.strategicmarketresearch.com/market-report/hydrogen-storage-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "early-stage startups",
+    "url": "https://www.strategicmarketresearch.com/market-report/hydrogen-storage-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.strategicmarketresearch.com/market-report/hydrogen-storage-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "are making it easier for utilities and startups to co-develop pilots.",
+    "url": "https://www.strategicmarketresearch.com/market-report/hydrogen-storage-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Q3: Who are the major players in this market?",
+    "url": "https://www.strategicmarketresearch.com/market-report/hydrogen-storage-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "A3: Leading players include Hitachi Metals, GKN Hydrogen, JMC, Sandvik Materials Technology, H2GO Power, and Qingdao Kehua.",
+    "url": "https://www.strategicmarketresearch.com/market-report/hydrogen-storage-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players by Revenue and Market Share",
+    "url": "https://www.strategicmarketresearch.com/market-report/hydrogen-storage-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players and Competitive Analysis",
+    "url": "https://www.strategicmarketresearch.com/market-report/hydrogen-storage-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape and Market Share Analysis",
+    "url": "https://www.strategicmarketresearch.com/market-report/hydrogen-storage-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Growth Strategies Adopted by Key Players",
+    "url": "https://www.strategicmarketresearch.com/market-report/hydrogen-storage-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://growthmarketreports.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Companies Profiled based on Your",
+    "url": "https://growthmarketreports.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies",
+    "url": "https://growthmarketreports.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Hydrogen Storage Alloy Market Competitive Landscape",
+    "url": "https://growthmarketreports.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the hydrogen storage alloy market include",
+    "url": "https://growthmarketreports.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "2. Who are the leading players in the hydrogen storage alloy market?",
+    "url": "https://growthmarketreports.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players include Hitachi Metals Ltd., Toshiba Materials Co. Ltd., Vesuvius PLC, Showa Denko K.K., Beijing Zhongke Hengyuan New Material Technology Co. Ltd., Advanced Technology & Materials Co. Ltd., Hydrogenious LOHC Technologies, and GKN Hydrogen.",
+    "url": "https://growthmarketreports.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some key players operating in the market include Otto Chemie Pvt. Ltd. and Worthington Industries.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/hydrogen-storage-materials-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/hydrogen-storage-materials-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/hydrogen-storage-materials-market-report",
+    "pass": 3
+   }
+  ],
+  "日本企業": [
+   {
+    "quote": "JMC（日本重化学工業株式会社）? 日本",
+    "url": "https://www.theinsightpartners.com/ja/reports/hydrogen-storage-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社サントク?日本",
+    "url": "https://www.theinsightpartners.com/ja/reports/hydrogen-storage-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、バッテリーおよび水素インフラ分野における日本と中国の製造業の優位性に牽引され、今後数年間で最も急速に成長すると予想されています",
+    "url": "https://www.theinsightpartners.com/ja/reports/hydrogen-storage-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場シェア: 世界最大かつ最も急速に成長している地域であり、日本、中国、韓国が生産能力と特許出願でトップを占めています",
+    "url": "https://www.theinsightpartners.com/ja/reports/hydrogen-storage-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "JMC（日本重化学工業株式会社）、三徳株式会社、AMGチタニウムといった確立されたリーダー企業の存在により、競争は激化しています",
+    "url": "https://www.theinsightpartners.com/ja/reports/hydrogen-storage-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "JMC（日本重化学工業株式会社） – 日本",
+    "url": "https://www.theinsightpartners.com/ja/reports/hydrogen-storage-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "三徳株式会社 – 日本",
+    "url": "https://www.theinsightpartners.com/ja/reports/hydrogen-storage-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "会社別分析：Santoku、American Elements、Nippon Denko、Mitsui-Kinzoku、Advanced Refractory Metals、Japan Metals & Chemicals、Zhongke Xueda New Energy Technology、Shenjiang Technology、Whole Win、AE&M JITRI、Xiamen Tungsten、Baotou FDK、China Northern Rare Earth、Jiangxi Tungsten",
+    "url": "https://newscast.jp/news/2540822",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域：中国、日本、韓国、インド、東南アジア、オーストラリア、その他のアジア太平洋地域",
+    "url": "https://newscast.jp/news/2540822",
+    "pass": 3
+   },
+   {
+    "quote": "TEL：050-5840-2692（日本）；0081-5058402692（グローバル）",
+    "url": "https://newscast.jp/news/2540822",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112506839&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "A-2 日本の水素政策 9",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112506839&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "1.日本の水素政策の動向 11",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112506839&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "1）日本の水素政策について 11",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112506839&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "1）日本（水素需要開拓、国内水素製造） 36",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112506839&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "1）日本企業 40",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112506839&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "QYResearchの分析によると、水素吸蔵合金市場の主要メーカーには、XTC New Energy、Jiangxi Tungsten Holding、China Northern Rare Earth、Santoku、Japan Metals & Chemicals、Nippon Denko、Baotou FDK、Shenjiang Technology、Mitsui-Kinzoku、Whole Win などが含まれている",
+    "url": "https://newscast.jp/smart/news/3012149",
+    "pass": 3
+   },
+   {
+    "quote": "日本の住所：〒104–0061東京都中央区銀座 6–13–16 銀座 Wall ビル UCF５階",
+    "url": "https://newscast.jp/smart/news/3012149",
+    "pass": 3
+   },
+   {
+    "quote": "TEL：050–5893–6232（日本）；0081–5058936232（グローバル）",
+    "url": "https://newscast.jp/smart/news/3012149",
+    "pass": 3
+   },
+   {
+    "quote": "japan@qyresearch.com",
+    "url": "https://newscast.jp/smart/news/3012149",
+    "pass": 3
+   },
+   {
+    "quote": "QY Research（QYリサーチ）は2017年に日本の東京で設立され、世界市場に向けて市場調査および戦略分析サービスの提供に尽力してきました",
+    "url": "https://newscast.jp/smart/news/3012149",
+    "pass": 3
+   },
+   {
+    "quote": "日本と韓国は、コンパクトな貯蔵、モビリティ、および燃料電池の統合を重視しています",
+    "url": "https://www.gii.co.jp/report/ires2155880-hydrogen-storage-alloy-powder-market-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "Hitachi Metals, Ltd.",
+    "url": "https://www.gii.co.jp/report/ires2155880-hydrogen-storage-alloy-powder-market-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Metals & Chemicals Co., Ltd.",
+    "url": "https://www.gii.co.jp/report/ires2155880-hydrogen-storage-alloy-powder-market-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "Mitsubishi Materials Corporation",
+    "url": "https://www.gii.co.jp/report/ires2155880-hydrogen-storage-alloy-powder-market-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "水素吸蔵合金 | 事業案内 | 日本重化学工業",
+    "url": "https://www.jmc.co.jp/business/hydrogen-storage-alloy/",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギー消費大国である日本で事業を行う私たちには、有限資源への依存度を減らし、クリーンで再生可能なエネルギーを開発する責任があります",
+    "url": "https://www.jmc.co.jp/business/hydrogen-storage-alloy/",
+    "pass": 3
+   },
+   {
+    "quote": "水素吸蔵合金の開発を開始（鉄チタン系合金・日本真空技術殿、真空治金殿と共同開発）",
+    "url": "https://www.jmc.co.jp/business/hydrogen-storage-alloy/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都中央区日本橋",
+    "url": "https://www.jmc.co.jp/business/hydrogen-storage-alloy/",
+    "pass": 3
+   },
+   {
+    "quote": "PMO EX 日本橋茅場町",
+    "url": "https://www.jmc.co.jp/business/hydrogen-storage-alloy/",
+    "pass": 3
+   },
+   {
+    "quote": "© Japan Metals & Chemicals Co., Ltd.",
+    "url": "https://www.jmc.co.jp/business/hydrogen-storage-alloy/",
+    "pass": 3
+   },
+   {
+    "quote": "水素吸蔵合金（Metal Hydride: MH）による水素貯蔵容器 | 素形材・エンジニアリング事業 | 事業・製品 | 株式会社日本製鋼所 - JSW",
+    "url": "https://www.jsw.co.jp/ja/product/business/material_engineering/me_2000/",
+    "pass": 3
+   },
+   {
+    "quote": "日本製鋼所グループ コンプライアンス・ポリシー",
+    "url": "https://www.jsw.co.jp/ja/product/business/material_engineering/me_2000/",
+    "pass": 3
+   },
+   {
+    "quote": "日本製鋼所グループ サステナビリティ基本方針",
+    "url": "https://www.jsw.co.jp/ja/product/business/material_engineering/me_2000/",
+    "pass": 3
+   },
+   {
+    "quote": "日本製鋼所へのお問い合わせはこちら",
+    "url": "https://www.jsw.co.jp/ja/product/business/material_engineering/me_2000/",
+    "pass": 3
+   },
+   {
+    "quote": "© The Japan Steel Works, LTD.",
+    "url": "https://www.jsw.co.jp/ja/product/business/material_engineering/me_2000/",
+    "pass": 3
+   },
+   {
+    "quote": "日本では経験できない夢のような時間でした",
+    "url": "https://www.jaici.or.jp/solutions/interview/db/icsd-case7/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の天然物創薬研究のハブ拠点を支えるデータベース“化合物大辞典”",
+    "url": "https://www.jaici.or.jp/solutions/interview/db/icsd-case7/",
+    "pass": 3
+   },
+   {
+    "quote": "日本では、オイルショック後の1974年に開始した国家プロジェクト「サンシャイン計画」において、石油に代わる燃料として水素エネルギーが重要項目の一つとして位置づけられたことが水素吸蔵合金の本格的な研究の始まりとなっています",
+    "url": "https://www.jaici.or.jp/solutions/interview/db/icsd-case7/",
+    "pass": 3
+   },
+   {
+    "quote": "現在の日本では年間200万トンの水素が製造されていますが、これらの用途はほぼ化学製品の材料で、エネルギーとして使用されている水素は240トンしかありません",
+    "url": "https://www.jaici.or.jp/solutions/interview/db/icsd-case7/",
+    "pass": 3
+   },
+   {
+    "quote": "日本金属学会技術開発賞 (1997年)、新技術開発財団市村学術賞 貢献賞 (1998年)、平成11年度通商産業省研究業務優秀者表彰工業技術院長表彰 (1999年)、科学技術庁 平成12年度注目発明 (2000年)、Hydrogen Symposium 2008における Herbert C. Brown Award for Innovations in Hydrogen Research (2008年)、International Partnership for Hydrogen and Fuel Cells in the Economy (IPHE)のIPHE Technical Achievement Award (2010年)、第33回応用物理学会論文賞（応用物理学会最優秀論文賞）(2011年) などの多数の受賞歴あり",
+    "url": "https://www.jaici.or.jp/solutions/interview/db/icsd-case7/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Association for International Chemical Information",
+    "url": "https://www.jaici.or.jp/solutions/interview/db/icsd-case7/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Hydrogen Storage Alloy Market Analysis",
+    "url": "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Metals & Chemicals Co., Ltd. (Japan)",
+    "url": "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "JFE Steel Corporation (Japan)",
+    "url": "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Santoku Corporation (Japan)",
+    "url": "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Tanaka Precious Metals (Japan)",
+    "url": "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Hitachi High-Tech Corporation (Japan)",
+    "url": "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Mitsui Mining & Smelting Co., Ltd. (Japan)",
+    "url": "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Metals & Chemicals Co., Ltd. (Japan) · JFE Steel Corporation (Japan) · Santoku Corporation (Japan) · China Rare Earth Holdings Limited (China) · Baotou Rare Earth Research Institute (China)",
+    "url": "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The leading companies in this market are Japan Metals & Chemicals Co., Ltd., JFE Steel Corporation, Santoku Corporation, China Rare Earth Holdings Limited.",
+    "url": "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Metals & Chemicals Co., Ltd.",
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "pass": 3
+   },
+   {
+    "quote": "North America (US, Canada), Europe (Germany, UK, France, Italy, Spain, Russia, Poland, Rest of Europe), Asia Pacific (China, India, Japan, South Korea, Australia, ASEAN Countries, Rest of Asia Pacific), Middle East & Africa (UAE, Saudi Arabia, Qatar, South Africa, Rest of Middle East & Africa), Latin America (Brazil, Argentina, Mexico, Colombia, Rest of Latin America).",
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific is the largest region with 36.00% of revenue and the fastest at 13.0% a year, helped by Japanese alloy makers such as Japan Steel Works, Toyota Industries and Mitsui Mining & Smelting. North America holds 28.00% and Europe 27.00%, with European demand shaped by firms such as GKN Hydrogen, McPhy Energy and Hystorsys.",
+    "url": "https://www.strategicrevenueinsights.com/industry/metal-hydride-hydrogen-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competition is fragmented. GKN Hydrogen leads with an estimated 11.0% share and Japan Steel Works follows with 8.5%, while most suppliers sit below 7.0%. The main competitor is not another hydride maker but compressed gas storage, so market growth depends on how well suppliers show a safety and siting benefit that justifies a higher cost per kilogram stored.",
+    "url": "https://www.strategicrevenueinsights.com/industry/metal-hydride-hydrogen-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "The region leads because Japan and other Asian countries have hydrogen strategies that include solid-state storage, and the alloy supply base is local. Japan Steel Works, Toyota Industries and Mitsui Mining & Smelting make alloys, equipment and applications close to each other, which shortens development cycles. Naval programs and fuel cell pilots add further demand.",
+    "url": "https://www.strategicrevenueinsights.com/industry/metal-hydride-hydrogen-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "GKN Hydrogen holds an estimated 11.0% of the 2025 market, and with Japan Steel Works at 8.5% and McPhy Energy at 7.0% the top three companies together hold 26.5%. Our concentration score is 38 on a scale where 100 is fully consolidated, which describes a fragmented market with a few recognised names and many small specialists.",
+    "url": "https://www.strategicrevenueinsights.com/industry/metal-hydride-hydrogen-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Steel Works",
+    "url": "https://www.strategicrevenueinsights.com/industry/metal-hydride-hydrogen-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan, alloy and pressure equipment maker",
+    "url": "https://www.strategicrevenueinsights.com/industry/metal-hydride-hydrogen-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan, industrial equipment maker",
+    "url": "https://www.strategicrevenueinsights.com/industry/metal-hydride-hydrogen-storage-market",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "水素貯蔵合金市場規模と予測（2021年 - 2034年）、世界および地域別シェア、トレンド、成長機会分析レポート 対象範囲：タイプ別（AB5、AB2）、アプリケーション別（充電式バッテリー、冷却装置、燃料電池、その他）",
+    "url": "https://www.theinsightpartners.com/ja/reports/hydrogen-storage-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年5月21日に、YH Research株式会社（本社：東京都中央区）が発行した「グローバル水素吸蔵合金粉末のトップ会社の市場シェアおよびランキング 2025」によると、本調査レポートでは、水素吸蔵合金粉末市場の現状、定義、分類、用途、産業チェーン構造を総合的に分析し、開発方針、製造プロセス、コスト構造についても詳細に説明します",
+    "url": "https://newscast.jp/news/2540822",
+    "pass": 3
+   },
+   {
+    "quote": "２.会社別の売上と市場シェア：世界の水素吸蔵合金粉末会社別の売上、価格、市場シェア、業界ランキングを提供します",
+    "url": "https://newscast.jp/news/2540822",
+    "pass": 3
+   },
+   {
+    "quote": "３.中国市場の会社別データ：中国の水素吸蔵合金粉末市場における主要企業の売上、価格、市場シェア、業界ランキングに関するデータを提供します",
+    "url": "https://newscast.jp/news/2540822",
+    "pass": 3
+   },
+   {
+    "quote": "第2章：世界水素吸蔵合金粉末の主要会社の市場シェアとランキング、販売量、売上、平均価格（2020～2025）",
+    "url": "https://newscast.jp/news/2540822",
+    "pass": 3
+   },
+   {
+    "quote": "第3章：中国水素吸蔵合金粉末の主要会社の市場シェアとランキング、販売量、売上、平均価格（2020～2025）",
+    "url": "https://newscast.jp/news/2540822",
+    "pass": 3
+   },
+   {
+    "quote": "1.4 世界における中国水素吸蔵合金粉末の市場シェア",
+    "url": "https://newscast.jp/news/2540822",
+    "pass": 3
+   },
+   {
+    "quote": "1.4.1 世界における売上別の中国水素吸蔵合金粉末市場シェア（2020-2031）",
+    "url": "https://newscast.jp/news/2540822",
+    "pass": 3
+   },
+   {
+    "quote": "1.4.2 世界市場における販売量別の中国水素吸蔵合金粉末市場シェア（2020-2031）",
+    "url": "https://newscast.jp/news/2540822",
+    "pass": 3
+   },
+   {
+    "quote": "2 世界主要会社市場シェアとランキング",
+    "url": "https://newscast.jp/news/2540822",
+    "pass": 3
+   },
+   {
+    "quote": "2.1 会社別の世界水素吸蔵合金粉末売上の市場シェア（2020-2025）",
+    "url": "https://newscast.jp/news/2540822",
+    "pass": 3
+   },
+   {
+    "quote": "2.2 会社別の世界水素吸蔵合金粉末販売量の市場シェア（2020-2025）",
+    "url": "https://newscast.jp/news/2540822",
+    "pass": 3
+   },
+   {
+    "quote": "上記データは、QYResearch報告書「水素吸蔵合金―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」に基づく",
+    "url": "https://newscast.jp/smart/news/3012149",
+    "pass": 3
+   },
+   {
+    "quote": "QYResearchが最新発表した「水素吸蔵合金―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」市場調査報告書によると、世界水素吸蔵合金市場規模は2025年の約295百万米ドルから2026年には313百万米ドルへ着実に成長し、予測期間6.8％の複合年間成長率（CAGR）で拡大を続け、2032年には465百万米ドルに達する見込みである",
+    "url": "https://newscast.jp/smart/news/3012149",
+    "pass": 3
+   },
+   {
+    "quote": "2024年時点では、世界上位5社が売上ベースで約53.0％の市場シェアを占めていた",
+    "url": "https://newscast.jp/smart/news/3012149",
+    "pass": 3
+   },
+   {
+    "quote": "この記事は、QYResearch が発行したレポート「水素吸蔵合金―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」に基づき、市場動向および競合分析の概要を解説します",
+    "url": "https://newscast.jp/smart/news/3012149",
+    "pass": 3
+   },
+   {
+    "quote": "市場シェア分析、2025年",
+    "url": "https://www.gii.co.jp/report/ires2155880-hydrogen-storage-alloy-powder-market-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "The global hydrogen storage alloy market size was valued at USD 1.91 billion in 2025 and is projected to grow from USD 2.09 billion in 2026 to USD 4.37 billion by 2034, registering a CAGR of 9.59% during the forecast period (2026–2034). Asia Pacific dominated the hydrogen storage alloy market with a market share of 41.28% in 2025.",
+    "url": "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The AB5 alloys segment accounted for a share of 38.72% in 2025 due to its excellent hydrogen absorption-desorption characteristics, long cycle life, and established commercial use in nickel-metal hydride batteries and hydrogen storage systems. Their widespread commercialization continues to support their leading market position.",
+    "url": "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The stationary energy storage segment accounted for the largest hydrogen storage alloy market share of 42.18% in 2025 due to increasing investments in renewable energy integration and long-duration hydrogen storage systems. Growing deployment of hydrogen hubs and stationary fuel cell systems continues to support segment growth.",
+    "url": "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The energy & utilities segment accounted for a share of 46.35% in 2025 due to growing deployment of hydrogen storage systems for renewable energy integration, grid stabilization, and industrial decarbonization. Utilities are increasingly adopting hydrogen technologies to improve energy security and support net-zero emission targets.",
+    "url": "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Which region accounted for the largest share of the the hydrogen storage alloy market in 2025?",
+    "url": "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific dominated the market with a share of 41.28% in 2025.",
+    "url": "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "By Material Type, the Metal Hydrides segment dominated the Hydrogen Storage Materials Market with approximately 39.42% share in 2025, while the Nanostructured Materials and MOFs segment is the fastest growing with a CAGR of approximately 16.84%.",
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "pass": 3
+   },
+   {
+    "quote": "By Storage Mechanism, the Absorption segment dominated the Hydrogen Storage Materials Market with approximately 58.63% share in 2025, while the Adsorption segment is the fastest growing with a CAGR of approximately 15.92%.",
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "pass": 3
+   },
+   {
+    "quote": "By Application, the Stationary Energy Storage segment dominated the Hydrogen Storage Materials Market with approximately 41.27% share in 2025, while the Fuel Cell Vehicles and Mobility segment is the fastest growing with a CAGR of approximately 15.28%.",
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "pass": 3
+   },
+   {
+    "quote": "By End-Use Industry, the Energy and Utilities segment dominated the Hydrogen Storage Materials Market with approximately 43.18% share in 2025, while the Chemical and Industrial Gas segment is the fastest growing with a CAGR of approximately 14.76%.",
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "pass": 3
+   },
+   {
+    "quote": "By Material Type, Metal Hydrides dominated the market with approximately 39.42% share in 2025, reflecting mature alloy supply chains, low-pressure operation, and a long record of cycling.",
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific dominated the market with approximately 38.74% share in 2025, driven by the largest alloy production base, fuel cell vehicle programs, and industrial decarbonization projects.",
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "pass": 3
+   },
+   {
+    "quote": "Competition is fragmented. GKN Hydrogen leads with an estimated 11.0% share and Japan Steel Works follows with 8.5%, while most suppliers sit below 7.0%. The main competitor is not another hydride maker but compressed gas storage, so market growth depends on how well suppliers show a safety and siting benefit that justifies a higher cost per kilogram stored.",
+    "url": "https://www.strategicrevenueinsights.com/industry/metal-hydride-hydrogen-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "The AB5 (LaNi5) alloy family holds 41.00% of the 2025 market, and it rests on lanthanum and nickel, which means the largest part of the market depends on a rare earth supply chain. Lanthanum is a cheaper rare earth than most, yet its separation and refining are concentrated in a small number of countries, so buyers face price and availability risk.",
+    "url": "https://www.strategicrevenueinsights.com/industry/metal-hydride-hydrogen-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "Our view: the alloy mix in 2035 will be more even than today, with AB5 still the largest single family but with a smaller share of the total than today. System makers who lock in TiFe supply early gain a cost advantage that rivals cannot easily copy.",
+    "url": "https://www.strategicrevenueinsights.com/industry/metal-hydride-hydrogen-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "GKN Hydrogen holds an estimated 11.0% of the 2025 market, and with Japan Steel Works at 8.5% and McPhy Energy at 7.0% the top three companies together hold 26.5%. Our concentration score is 38 on a scale where 100 is fully consolidated, which describes a fragmented market with a few recognised names and many small specialists.",
+    "url": "https://www.strategicrevenueinsights.com/industry/metal-hydride-hydrogen-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "6.1. Market Share Analysis 2026 & 2035",
+    "url": "https://www.strategicrevenueinsights.com/industry/metal-hydride-hydrogen-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "7.1. Market Share Analysis 2026 & 2035",
+    "url": "https://www.strategicrevenueinsights.com/industry/metal-hydride-hydrogen-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "8.1. Market Share Analysis 2026 & 2035",
+    "url": "https://www.strategicrevenueinsights.com/industry/metal-hydride-hydrogen-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "9.1. Market Share Analysis 2026 & 2035",
+    "url": "https://www.strategicrevenueinsights.com/industry/metal-hydride-hydrogen-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "15.1 Market Share Analysis",
+    "url": "https://www.strategicrevenueinsights.com/industry/metal-hydride-hydrogen-storage-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America Market Share (2025)",
+    "url": "https://www.factmr.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "market share in 2025, and the segment is projected to reach a market valuation of",
+    "url": "https://www.factmr.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "These include LaNi 5-type compounds. Known for good kinetics and cycle stability, they dominate stationary applications like backup power and industrial storage.",
+    "url": "https://www.strategicmarketresearch.com/market-report/hydrogen-storage-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "leads in materials R&D, with firms like Hitachi Metals and JMC dominating AB5 alloy production and reliability.",
+    "url": "https://www.strategicmarketresearch.com/market-report/hydrogen-storage-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Q4: Which region dominates the market share?",
+    "url": "https://www.strategicmarketresearch.com/market-report/hydrogen-storage-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share by Alloy Type, Application, and End User (2024 vs. 2030)",
+    "url": "https://www.strategicmarketresearch.com/market-report/hydrogen-storage-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "8. Which regions dominate the hydrogen storage alloy market?",
+    "url": "https://growthmarketreports.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "15.2 Global Hydrogen Storage Alloy Market: Market Share Analysis, 2023",
+    "url": "https://growthmarketreports.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The metal hydrides segment held the highest revenue market share of 38.0% in 2024, due to their superior hydrogen absorption capacity, safety, and ability to operate under moderate temperatures and pressures.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/hydrogen-storage-materials-market-report",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "世界 水素吸蔵合金 粉末 市場 調査：2031年までCAGR6.40%で ... — 世界 水素吸蔵合金 粉末 市場 調査：2031年までCAGR6.40%で ... Newscast.jp https://newscast.jp > news",
+    "url": "https://newscast.jp/news/2540822",
+    "pass": 3
+   },
+   {
+    "quote": "水素吸蔵合金 の 市場規模 、2028年に45億3553万米ドル到達予測 — 水素吸蔵合金 の 市場規模 、2028年に45億3553万米ドル到達予測 PR TIMES https://prtimes.jp > 調査レポート",
+    "url": "https://prtimes.jp/main/html/rd/p/000000477.000071640.html",
+    "pass": 3
+   },
+   {
+    "quote": "水素吸蔵合金市場 規模、シェア、分析[2035年] — 水素吸蔵合金市場 規模、シェア、分析[2035年] Market Reports World https://www.marketreportsworld.com > market-reports > h...",
+    "url": "https://www.marketreportsworld.com/jp/market-reports/hydrogen-storage-alloy-market-14722737",
+    "pass": 3
+   },
+   {
+    "quote": "水素吸蔵合金市場 規模は2026年313百万米ドル - Newscast.jp — 水素吸蔵合金市場 規模は2026年313百万米ドル - Newscast.jp Newscast.jp https://newscast.jp > smart > news",
+    "url": "https://newscast.jp/smart/news/3012149",
+    "pass": 3
+   },
+   {
+    "quote": "水素吸蔵合金 市場規模、シェア、分析[2035年] — 水素吸蔵合金 市場規模、シェア、分析[2035年] Market Reports World https://www.marketreportsworld.com > market-reports > h...",
+    "url": "https://www.marketreportsworld.com/jp/market-reports/hydrogen-storage-alloy-market-14722737",
+    "pass": 3
+   },
+   {
+    "quote": "水素エネルギー社会を支える 水素吸蔵合金 のこれまでとこれから — 水素エネルギー社会を支える 水素吸蔵合金 のこれまでとこれから 化学情報協会 https://www.jaici.or.jp > solutions > interview > icsd-case7",
+    "url": "https://www.jaici.or.jp/solutions/interview/db/icsd-case7/",
+    "pass": 3
+   },
+   {
+    "quote": "Hydrogen Storage Alloy Market Size , Share, Growth, 2034 — Hydrogen Storage Alloy Market Size , Share, Growth, 2034 Straits Research https://straitsresearch.com > report > h...",
+    "url": "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Metal Hydride Market Size , Share, Trends, Outlook, 2034 — Metal Hydride Market Size , Share, Trends, Outlook, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/metal-hydride-market-113356",
+    "pass": 3
+   },
+   {
+    "quote": "Hydrogen Storage Alloys Market Size and Statistics - 2035 — Hydrogen Storage Alloys Market Size and Statistics - 2035 Fact.MR https://www.factmr.com > report > hy...",
+    "url": "https://www.factmr.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Hydrogen Storage Alloys Market Size, Share & Forecast 2034 — Hydrogen Storage Alloys Market Size, Share & Forecast 2034 The Insight Partners https://www.theinsightpartners.com > ...",
+    "url": "https://www.theinsightpartners.com/reports/hydrogen-storage-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Hydrogen Storage Alloys Market Size ($4.3 Billion) 2030 — Global Hydrogen Storage Alloys Market Size ($4.3 Billion) 2030 Strategic Market Research https://www.strategicmarketresearch.com > ...",
+    "url": "https://www.strategicmarketresearch.com/market-report/hydrogen-storage-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Metal Hydride Market Size, Share, Trends, Outlook, 2034 — Metal Hydride Market Size, Share, Trends, Outlook, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/metal-hydride-market-113356",
+    "pass": 3
+   },
+   {
+    "quote": "Hydrogen Storage Alloy Market Size, Share, Growth, 2034 — Hydrogen Storage Alloy Market Size, Share, Growth, 2034 Straits Research https://straitsresearch.com > report > h...",
+    "url": "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "The stationary energy storage segment accounted for the largest hydrogen storage alloy market share of 42.18% in 2025 due to increasing investments in renewable energy integration and long-duration hydrogen storage systems. Growing deployment of hydrogen hubs and stationary fuel cell systems continues to support segment growth.",
+    "url": "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Fuel Cell Electric Vehicles (FCEVs) segment is expected to grow at a CAGR of 10.92% during the forecast period due to expanding hydrogen mobility infrastructure and increasing commercialization of hydrogen-powered passenger and commercial vehicles. Rising government incentives and investments in hydrogen refueling networks are further accelerating adoption.",
+    "url": "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "In October 2026, GRZ Technologies launched an equity funding campaign on Republic Europe, opening its first round to individual investors. The EPFL spin-out, which makes metal hydride based hydrogen storage, compression, and conversion systems used in more than ten countries, plans to scale manufacturing, lower production costs, and expand international distribution.",
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "pass": 3
+   },
+   {
+    "quote": "of the world's energy needs by 2050, which is quite significant and underlines the importance of proper storage solutions. Rapid technological advancements and growing investments in research and development characterize the market.",
+    "url": "https://www.factmr.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "9.5 Investment Scenario",
+    "url": "https://growthmarketreports.com/report/hydrogen-storage-alloy-market",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "7.6",
+    "url": "https://www.theinsightpartners.com/ja/reports/hydrogen-storage-alloys-market",
+    "quote": "市場は、2026年から2034年の予測期間中、年平均成長率（CAGR）7.6%で成長すると見込まれています"
+   },
+   {
+    "value": "6.40",
+    "url": "https://newscast.jp/news/2540822",
+    "quote": "世界水素吸蔵合金粉末市場調査：2031年までCAGR6.40%で成長予測 | NEWSCAST"
+   },
+   {
+    "value": "6.4",
+    "url": "https://newscast.jp/news/2540822",
+    "quote": "YH Researchによるとのグローバル水素吸蔵合金粉末の市場は2024年の296百万米ドルから2031年には446百万米ドルに成長し、2025年から2031年の間にCAGRは6.4%になると予測されている"
+   },
+   {
+    "value": "17.60",
+    "url": "https://www.gii.co.jp/report/ires2155880-hydrogen-storage-alloy-powder-market-global.html",
+    "quote": "水素貯蔵合金粉末市場は、2032年までにCAGR17.60％で7億8,542万米ドル規模に拡大すると予測されています"
+   },
+   {
+    "value": "9.59",
+    "url": "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "quote": "The global hydrogen storage alloy market size was valued at USD 1.91 billion in 2025 and is projected to grow from USD 2.09 billion in 2026 to USD 4.37 billion by 2034, registering a CAGR of 9.59% during the forecast period (2026–2034). Asia Pacific dominated the hydrogen storage alloy market with a"
+   },
+   {
+    "value": "11.84",
+    "url": "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "quote": "The magnesium-based alloys segment is projected to grow at a CAGR of 11.84% during the forecast period due to its high hydrogen storage capacity and lightweight properties. Ongoing research is improving hydrogen absorption kinetics and reducing operating temperatures, making these alloys increasingl"
+   },
+   {
+    "value": "10.92",
+    "url": "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "quote": "The Fuel Cell Electric Vehicles (FCEVs) segment is expected to grow at a CAGR of 10.92% during the forecast period due to expanding hydrogen mobility infrastructure and increasing commercialization of hydrogen-powered passenger and commercial vehicles. Rising government incentives and investments in"
+   },
+   {
+    "value": "11.27",
+    "url": "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "quote": "The transportation segment is projected to grow at a CAGR of 11.27% during the forecast period due to increasing adoption of hydrogen-powered buses, trucks, trains, and other heavy-duty vehicles. Continuous expansion of hydrogen refueling infrastructure and fuel cell technology is expected to drive "
+   },
+   {
+    "value": "13.38",
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "quote": "The Hydrogen Storage Materials Market was valued at USD 584.73 Million in 2025 and is expected to reach USD 2,052.67 Million by 2035, growing at a CAGR of 13.38% from 2026-2035."
+   },
+   {
+    "value": "12.64",
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "quote": "The U.S. Hydrogen Storage Materials Market was valued at USD 110.62 Million in 2025 and is expected to reach USD 363.71 Million by 2035, growing at a CAGR of 12.64% from 2026-2035."
+   },
+   {
+    "value": "16.84",
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "quote": "By Material Type, the Metal Hydrides segment dominated the Hydrogen Storage Materials Market with approximately 39.42% share in 2025, while the Nanostructured Materials and MOFs segment is the fastest growing with a CAGR of approximately 16.84%."
+   },
+   {
+    "value": "15.92",
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "quote": "By Storage Mechanism, the Absorption segment dominated the Hydrogen Storage Materials Market with approximately 58.63% share in 2025, while the Adsorption segment is the fastest growing with a CAGR of approximately 15.92%."
+   },
+   {
+    "value": "15.28",
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "quote": "By Application, the Stationary Energy Storage segment dominated the Hydrogen Storage Materials Market with approximately 41.27% share in 2025, while the Fuel Cell Vehicles and Mobility segment is the fastest growing with a CAGR of approximately 15.28%."
+   },
+   {
+    "value": "14.76",
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "quote": "By End-Use Industry, the Energy and Utilities segment dominated the Hydrogen Storage Materials Market with approximately 43.18% share in 2025, while the Chemical and Industrial Gas segment is the fastest growing with a CAGR of approximately 14.76%."
+   },
+   {
+    "value": "12.0",
+    "url": "https://www.strategicrevenueinsights.com/industry/metal-hydride-hydrogen-storage-market",
+    "quote": "The market grows at a CAGR of 12.0% from 2026 to 2035."
+   },
+   {
+    "value": "10.29",
+    "url": "https://www.marketresearchfuture.com/reports/hydrogen-storage-alloys-market-39835",
+    "quote": "As per Market Research Future analysis, the Hydrogen Storage Alloys Market Size was estimated at 1.261 USD Billion in 2024. The Hydrogen Storage Alloys industry is projected to grow from 1.391 USD Billion in 2025 to 3.705 USD Billion by 2035, exhibiting a compound annual growth rate (CAGR) of 10.29%"
+   },
+   {
+    "value": "8.5",
+    "url": "https://www.factmr.com/report/hydrogen-storage-alloy-market",
+    "quote": "CAGR of 8.5%"
+   }
+  ],
+  "市場規模USD": [
+   {
+    "value": "1.91",
+    "url": "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "quote": "The global hydrogen storage alloy market size was valued at USD 1.91 billion in 2025 and is projected to grow from USD 2.09 billion in 2026 to USD 4.37 billion by 2034, registering a CAGR of 9.59% during the forecast period (2026–2034). Asia Pacific dominated the hydrogen storage alloy market with a"
+   },
+   {
+    "value": "2.09",
+    "url": "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "quote": "The global hydrogen storage alloy market size was valued at USD 1.91 billion in 2025 and is projected to grow from USD 2.09 billion in 2026 to USD 4.37 billion by 2034, registering a CAGR of 9.59% during the forecast period (2026–2034). Asia Pacific dominated the hydrogen storage alloy market with a"
+   },
+   {
+    "value": "4.37",
+    "url": "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "quote": "The global hydrogen storage alloy market size was valued at USD 1.91 billion in 2025 and is projected to grow from USD 2.09 billion in 2026 to USD 4.37 billion by 2034, registering a CAGR of 9.59% during the forecast period (2026–2034). Asia Pacific dominated the hydrogen storage alloy market with a"
+   },
+   {
+    "value": "340",
+    "url": "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "quote": "The China hydrogen storage alloy market was valued at USD 340 million in 2025, led by its dominant position in rare earth processing, hydrogen infrastructure development, and fuel cell commercialization. China continues to expand green hydrogen production capacity while strengthening domestic supply"
+   },
+   {
+    "value": "4.35",
+    "url": "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "quote": "The hydrogen storage alloy market size is valued at USD 2.09 Billion in 2026 and is projected to reach USD 4.35 Billion by 2034, at a CAGR of 9.59% during the forecast period 2026-2034."
+   },
+   {
+    "value": "584.73",
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "quote": "The Hydrogen Storage Materials Market was valued at USD 584.73 Million in 2025 and is expected to reach USD 2,052.67 Million by 2035, growing at a CAGR of 13.38% from 2026-2035."
+   },
+   {
+    "value": "110.62",
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "quote": "The U.S. Hydrogen Storage Materials Market was valued at USD 110.62 Million in 2025 and is expected to reach USD 363.71 Million by 2035, growing at a CAGR of 12.64% from 2026-2035."
+   },
+   {
+    "value": "363.71",
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "quote": "The U.S. Hydrogen Storage Materials Market was valued at USD 110.62 Million in 2025 and is expected to reach USD 363.71 Million by 2035, growing at a CAGR of 12.64% from 2026-2035."
+   },
+   {
+    "value": "1",
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "quote": "In November 2025, Velox Energy Materials announced that its Kotai Hydrogen Project with Curtin University had completed Milestone 2 of an ARENA-funded program, triggering a payment of A$1 million. The project transports hydrogen as sodium borohydride powder, has produced about 10 g at laboratory sca"
+   },
+   {
+    "value": "1.30",
+    "url": "https://www.strategicrevenueinsights.com/industry/metal-hydride-hydrogen-storage-market",
+    "quote": "Metal Hydride Hydrogen Storage Market Projected to Scale to $1.30 Billion by 2035, Assesses SRI"
+   },
+   {
+    "value": "420.00",
+    "url": "https://www.strategicrevenueinsights.com/industry/metal-hydride-hydrogen-storage-market",
+    "quote": "USD 420.00 Million in 2025"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/hydrogen-storage-alloy-market-101305",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.theinsightpartners.com/ja/reports/hydrogen-storage-alloys-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/2540822",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000477.000071640.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E9%87%91%E5%B1%9E%E6%B0%B4%E7%B4%A0%E5%8C%96%E7%89%A9%E5%B8%82%E5%A0%B4-113356",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112506839&la=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketreportsworld.com/jp/market-reports/hydrogen-storage-alloy-market-14722737",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/3012149",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mpp.gorillawiki.jp/entry/0bf41b7a68244d6635fae0ae87d923b6",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/ires2155880-hydrogen-storage-alloy-powder-market-global.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmc.co.jp/business/hydrogen-storage-alloy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jsw.co.jp/ja/product/business/material_engineering/me_2000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jaici.or.jp/solutions/interview/db/icsd-case7/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://u.muroran-it.ac.jp/hydrogen/halloy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/6072/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.globenewswire.com/news-release/2026/10/08/3376990/0/en/global-metal-hydride-market-size-share-growth-trends-and-forecast-2026-2035-hydrogen-storage-and-clean-mobility-drive-7-cagr-toward-usd-9-billion-by-2035.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/metal-hydride-market-113356",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strategicrevenueinsights.com/industry/metal-hydride-hydrogen-storage-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/hydrogen-storage-alloys-market-39835",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.factmr.com/report/hydrogen-storage-alloy-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.theinsightpartners.com/reports/hydrogen-storage-alloys-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strategicmarketresearch.com/market-report/hydrogen-storage-alloys-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growthmarketreports.com/report/hydrogen-storage-alloy-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S1005030225006504",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/hydrogen-storage-materials-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clean-hydrogen.europa.eu/call-proposals-2025-closed_en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.uvic.ca/acet/projects/high-entropy-alloy-materials/index.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/01green",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "水素吸蔵合金 市場規模 年平均成長率",
+   "results": [
+    "https://www.businessresearchinsights.com/jp/market-reports/hydrogen-storage-alloy-market-101305",
+    "https://www.theinsightpartners.com/ja/reports/hydrogen-storage-alloys-market",
+    "https://jp.linkedin.com/pulse/%E6%B0%B4%E7%B4%A0%E8%B2%AF%E8%94%B5%E5%90%88%E9%87%91-market-overview-%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E3%82%92%E5%88%86%E6%9E%90%E3%81%972033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AEcagr-89%E3%82%92%E4%BA%88%E6%B8%AC-vfote",
+    "https://newscast.jp/news/2540822",
+    "https://prtimes.jp/main/html/rd/p/000000477.000071640.html",
+    "https://www.fortunebusinessinsights.com/jp/%E9%87%91%E5%B1%9E%E6%B0%B4%E7%B4%A0%E5%8C%96%E7%89%A9%E5%B8%82%E5%A0%B4-113356",
+    "https://www.marketresearchfuture.com/ja/reports/hydrogen-energy-storage-market-7216",
+    "https://fc-cubic-event.jp/wp-sympo/wp-content/uploads/2024/04/Lecture-3.pdf",
+    "https://newscast.jp/news/1186144",
+    "https://www.marketgrowthreports.com/jp/market-reports/hydrogen-storage-alloy-market-103607"
+   ]
+  },
+  {
+   "query": "水素吸蔵合金 市場 予測 富士経済 OR 矢野経済 OR シーエムシー",
+   "results": [
+    "https://www.businessresearchinsights.com/jp/market-reports/hydrogen-storage-alloy-market-101305",
+    "https://www.fuji-keizai.co.jp/report/detail.html?code=112506839&la=ja",
+    "https://www.marketreportsworld.com/jp/market-reports/hydrogen-storage-alloy-market-14722737",
+    "https://www.theinsightpartners.com/ja/reports/hydrogen-storage-alloys-market",
+    "https://jp.linkedin.com/pulse/%E6%B0%B4%E7%B4%A0%E8%B2%AF%E8%94%B5%E5%90%88%E9%87%91-market-overview-%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E3%82%92%E5%88%86%E6%9E%90%E3%81%972033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AEcagr-89%E3%82%92%E4%BA%88%E6%B8%AC-vfote",
+    "https://newscast.jp/smart/news/3012149",
+    "https://mpp.gorillawiki.jp/entry/0bf41b7a68244d6635fae0ae87d923b6",
+    "https://www.gii.co.jp/report/ires2155880-hydrogen-storage-alloy-powder-market-global.html",
+    "https://www.fortunebusinessinsights.com/jp/%E9%87%91%E5%B1%9E%E6%B0%B4%E7%B4%A0%E5%8C%96%E7%89%A9%E5%B8%82%E5%A0%B4-113356",
+    "https://www.mards.net/"
+   ]
+  },
+  {
+   "query": "水素吸蔵合金 参入 企業 国内",
+   "results": [
+    "https://www.jmc.co.jp/business/hydrogen-storage-alloy/",
+    "https://www.jsw.co.jp/ja/product/business/material_engineering/me_2000/",
+    "https://www.marketreportsworld.com/jp/market-reports/hydrogen-storage-alloy-market-14722737",
+    "https://www.jaici.or.jp/solutions/interview/db/icsd-case7/",
+    "https://www.youtube.com/watch?v=AAd79GN68rY",
+    "https://u.muroran-it.ac.jp/hydrogen/halloy.html",
+    "https://metoree.com/categories/6072/",
+    "https://www.nippondenko.co.jp/ourbusiness/functionalmaterials/hydrogen/",
+    "https://www.env.go.jp/seisaku/list/ondanka_saisei/lowcarbon-h2-sc/support-tool-info/PDF_Excel/hydrogen-business-list.pdf",
+    "https://patentscouter.com/entry/hydrogen-technology6"
+   ]
+  },
+  {
+   "query": "hydrogen storage alloy market size CAGR 2025",
+   "results": [
+    "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "https://www.globenewswire.com/news-release/2026/10/08/3376990/0/en/global-metal-hydride-market-size-share-growth-trends-and-forecast-2026-2035-hydrogen-storage-and-clean-mobility-drive-7-cagr-toward-usd-9-billion-by-2035.html",
+    "https://www.fortunebusinessinsights.com/metal-hydride-market-113356",
+    "https://www.linkedin.com/pulse/north-america-hydrogen-storage-alloy-market-outlook-regional-gbzuf/",
+    "https://www.strategicrevenueinsights.com/industry/metal-hydride-hydrogen-storage-market",
+    "https://www.grandviewresearch.com/industry-analysis/hydrogen-storage-materials-market-report",
+    "https://www.bossonresearch.com/productinfo/98202.html",
+    "https://www.futuremarketinsights.com/reports/hydrogen-storage-tank-and-transportation-market",
+    "https://www.verifiedmarketreports.com/product/hydrogen-storage-alloy-market-size-and-forecast/"
+   ]
+  },
+  {
+   "query": "hydrogen storage alloy market key players competitive landscape",
+   "results": [
+    "https://www.marketresearchfuture.com/reports/hydrogen-storage-alloys-market-39835",
+    "https://www.factmr.com/report/hydrogen-storage-alloy-market",
+    "https://www.theinsightpartners.com/reports/hydrogen-storage-alloys-market",
+    "https://www.linkedin.com/pulse/north-america-hydrogen-storage-alloy-market-outlook-regional-gbzuf/",
+    "https://www.strategicmarketresearch.com/market-report/hydrogen-storage-alloys-market",
+    "https://www.fortunebusinessinsights.com/metal-hydride-market-113356",
+    "https://growthmarketreports.com/report/hydrogen-storage-alloy-market",
+    "https://www.maximizemarketresearch.com/market-report/global-hydrogen-storage-market/14920/",
+    "https://www.snsinsider.com/reports/hydrogen-storage-materials-market-11507",
+    "https://www.futuremarketreport.com/industry-report/hydrogen-storage-alloy-market"
+   ]
+  },
+  {
+   "query": "hydrogen storage alloy startup funding 2025",
+   "results": [
+    "https://straitsresearch.com/report/hydrogen-storage-alloy-market",
+    "https://www.sciencedirect.com/science/article/abs/pii/S1005030225006504",
+    "https://www.grandviewresearch.com/industry-analysis/hydrogen-storage-materials-market-report",
+    "https://www.clean-hydrogen.europa.eu/call-proposals-2025-closed_en",
+    "https://www.uvic.ca/acet/projects/high-entropy-alloy-materials/index.php",
+    "https://startupintros.com/orgs/01green",
+    "https://news.crunchbase.com/clean-tech-and-energy/hydrogen-startup-funding-boom-zeroavia-electrolyzers/",
+    "https://techxplore.com/news/2025-07-solid-state-alloy-enables-safe.html",
+    "https://www.iea.org/reports/global-hydrogen-review-2025/investment-and-innovation",
+    "https://tracxn.com/d/trending-business-models/startups-in-hydrogen-energy-storage/__-jXfrBtlu9kI7adLgDewOf8uV4pCmEjqm0KuB5yQQRQ/companies"
+   ]
+  }
+ ],
+ "missing": {}
+}

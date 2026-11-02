@@ -1,0 +1,1675 @@
+{
+ "name": "蓄熱材料（相変化材料・無機）",
+ "en": "phase change materials",
+ "aliases": [
+  "PCM",
+  "inorganic PCM",
+  "蓄熱材"
+ ],
+ "context": "建築・電池",
+ "kind": "market",
+ "researched_at": "2026-11-02T17:39:40.908524+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "世界の相変化材料市場規模は、2025年には9億2000万米ドルと評価され、2026年の10億8000万米ドルから2034年には37億4000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は16.87%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "相変化材料市場は、2025年に欧州が38.4%の市場シェアを占め、欧州が圧倒的なシェアを誇っています",
+    "url": "https://straitsresearch.com/jp/report/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年市場規模予測",
+    "url": "https://straitsresearch.com/jp/report/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "英国市場は2025年には約0.09億米ドルの規模になると予測されている",
+    "url": "https://straitsresearch.com/jp/report/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツ市場は2025年には約1億米ドル規模になると予測されています",
+    "url": "https://straitsresearch.com/jp/report/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国市場は2025年には約2億1000万米ドル規模となり、北米最大の市場となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "カナダの市場規模は2025年には約0.04億米ドルに達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "相変化材料市場規模、シェア、トレンドレポート、2034年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の世界のフェーズ変化材料市場規模は26億ドルと推定されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場は2025年に30億ドルから2034年に79億ドルに成長すると予測されており、これはGlobal Market Insights Inc.が発表した最新レポートによると、年平均成長率（CAGR）は11.4%です",
+    "url": "https://www.gminsights.com/ja/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の市場規模：26億米ドル",
+    "url": "https://www.gminsights.com/ja/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模：30億米ドル",
+    "url": "https://www.gminsights.com/ja/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年の予測市場規模：79億米ドル",
+    "url": "https://www.gminsights.com/ja/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "相変化材料市場規模、材料タイプ別、2021-2034年（USD億）」 src=",
+    "url": "https://www.gminsights.com/ja/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "熱管理および制御設計の市場は、10.6%のCAGRで成長し、電子機器の冷却、電気自動車のバッテリー管理、データセンターインフラなどの機会拡大により拡大しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "U.S. Phase Change Materials Market Size, 2021-2034 (USD Million)",
+    "url": "https://www.gminsights.com/ja/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "相変化材料市場規模は2023年のUSD 1160.7百万で評価されました",
+    "url": "https://www.sphericalinsights.com/jp/reports/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2023年から2033年にかけて13.93%のCAGRで成長しています",
+    "url": "https://www.sphericalinsights.com/jp/reports/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界相変化材料市場規模はUSD 4275.9に達すると予想される 2033年までに百万個",
+    "url": "https://www.sphericalinsights.com/jp/reports/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界相変化材料市場規模はUSD 4275.9に達すると予想される 予測期間2023〜2033年の間に13.93%のCAGRで2033万人",
+    "url": "https://www.sphericalinsights.com/jp/reports/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "の市場規模 2023:",
+    "url": "https://www.sphericalinsights.com/jp/reports/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の相変化蓄熱材市場規模、シェア、業界予測2026～2034年",
+    "url": "https://www.verifiedmarketreports.com/ja/product/phase-change-heat-storage-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模 (2025)",
+    "url": "https://www.verifiedmarketreports.com/ja/product/phase-change-heat-storage-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 1.5 billion",
+    "url": "https://www.verifiedmarketreports.com/ja/product/phase-change-heat-storage-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 3.8 billion",
+    "url": "https://www.verifiedmarketreports.com/ja/product/phase-change-heat-storage-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "全体として、市場は、2033 年までの軌道を集合的に定義する技術的、経済的、政策的要因の融合によって推進され、大幅な成長を遂げる準備が整っています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/phase-change-heat-storage-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "相変化蓄熱材の米国市場規模は、2024年に12億ドルと評価され、2026年から203年のCAGR約6.2%を反映して、2025年の13億ドルから2033年までに21億ドルに成長する見込みです",
+    "url": "https://www.verifiedmarketreports.com/ja/product/phase-change-heat-storage-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "相変化材料市場 | 市場規模 業界分析 予測 2034年 【市場調査レポート】",
+    "url": "https://www.gii.co.jp/report/smrc2068767-phase-change-materials-market-forecasts-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "Stratistics MRCによると、世界の相変化材料（PCM）市場は2026年に46億米ドル規模となり、2034年までに117億米ドルに達すると予測されており、予測期間中はCAGR12.4％で成長すると見込まれています",
+    "url": "https://www.gii.co.jp/report/smrc2068767-phase-change-materials-market-forecasts-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 4,150 換算",
+    "url": "https://www.gii.co.jp/report/smrc2068767-phase-change-materials-market-forecasts-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 5,250 換算",
+    "url": "https://www.gii.co.jp/report/smrc2068767-phase-change-materials-market-forecasts-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 6,350 換算",
+    "url": "https://www.gii.co.jp/report/smrc2068767-phase-change-materials-market-forecasts-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 7,500 換算",
+    "url": "https://www.gii.co.jp/report/smrc2068767-phase-change-materials-market-forecasts-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "バイオベース相変化材料の市場規模、シェア、成長分析：製品タイプ別、用途別、エンドユーザー別、地域別－業界予測2026-2033年",
+    "url": "https://www.gii.co.jp/report/smrc2068767-phase-change-materials-market-forecasts-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "相変化材料（PCM）市場規模、シェア、成長分析：タイプ別、用途別、エンドユーザー産業別、形態別、地域別－業界予測 2026-2033年",
+    "url": "https://www.gii.co.jp/report/smrc2068767-phase-change-materials-market-forecasts-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "相変化材料 Pcm 市場規模、成長、予測 2032",
+    "url": "https://www.reportprime.com/ja/%E7%9B%B8%E5%A4%89%E5%8C%96%E6%9D%90%E6%96%99-pcm-r20963",
+    "pass": 3
+   },
+   {
+    "quote": "世界の相変化材料 Pcm 市場規模は 2025 年に 13億8,000万ドルで、このレポートは 2026 年から 2032 年までの市場の成長、傾向、機会、予測をカバーしています",
+    "url": "https://www.reportprime.com/ja/%E7%9B%B8%E5%A4%89%E5%8C%96%E6%9D%90%E6%96%99-pcm-r20963",
+    "pass": 3
+   },
+   {
+    "quote": "2026 年には 10 億ドル、堅調な CAGR で拡大",
+    "url": "https://www.reportprime.com/ja/%E7%9B%B8%E5%A4%89%E5%8C%96%E6%9D%90%E6%96%99-pcm-r20963",
+    "pass": 3
+   },
+   {
+    "quote": "PCM 市場は 2032 年までに次の水準に達すると予測されています",
+    "url": "https://www.reportprime.com/ja/%E7%9B%B8%E5%A4%89%E5%8C%96%E6%9D%90%E6%96%99-pcm-r20963",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年の市場規模",
+    "url": "https://www.reportprime.com/ja/%E7%9B%B8%E5%A4%89%E5%8C%96%E6%9D%90%E6%96%99-pcm-r20963",
+    "pass": 3
+   },
+   {
+    "quote": "2026 年の市場規模予測",
+    "url": "https://www.reportprime.com/ja/%E7%9B%B8%E5%A4%89%E5%8C%96%E6%9D%90%E6%96%99-pcm-r20963",
+    "pass": 3
+   },
+   {
+    "quote": "2032 年の市場規模予測",
+    "url": "https://www.reportprime.com/ja/%E7%9B%B8%E5%A4%89%E5%8C%96%E6%9D%90%E6%96%99-pcm-r20963",
+    "pass": 3
+   },
+   {
+    "quote": "世界の市場規模は約2000年に達しており、",
+    "url": "https://www.reportprime.com/ja/%E7%9B%B8%E5%A4%89%E5%8C%96%E6%9D%90%E6%96%99-pcm-r20963",
+    "pass": 3
+   },
+   {
+    "quote": "」によると、無機系先端相変化材料(PCM)の世界市場は、2025年に246百万米ドルと推定され、2026年には260百万米ドルに達すると予測されています",
+    "url": "https://note.com/qy_research/n/n4a340c7b7b92",
+    "pass": 3
+   },
+   {
+    "quote": "熱伝導性相変化シートの世界市場（2026年～2032年）、市場規模（有機材料、無機材料、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9733525",
+    "pass": 3
+   },
+   {
+    "quote": "世界の熱伝導性相変化シート市場規模は、2025年の6億9,700万米ドルから2032年には11億4,300万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）7.5%で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/9733525",
+    "pass": 3
+   },
+   {
+    "quote": "熱伝導性相変化シートの世界市場（2026年～2032年）、市場規模（有機材料、無機材料、その他）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/9733525",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9733525",
+    "pass": 3
+   },
+   {
+    "quote": "コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9733525",
+    "pass": 3
+   },
+   {
+    "quote": "セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9733525",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9733525",
+    "pass": 3
+   },
+   {
+    "quote": "食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9733525",
+    "pass": 3
+   },
+   {
+    "quote": "水性ポリウレタン離型剤の世界市場（2026年～2032年）、市場規模（シリコーン油系、ワックス系、脂肪酸系、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9733525",
+    "pass": 3
+   },
+   {
+    "quote": "SMDサーモパイルセンサーの世界市場（2026年～2032年）、市場規模（シングルチャンネルセンサー、デュアルチャンネルセンサー）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9733525",
+    "pass": 3
+   },
+   {
+    "quote": "Phase Change Materials Market Size, Share & Trends Report, 2034",
+    "url": "https://www.gminsights.com/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Phase Change Materials Market Size & Share 2025 – 2034",
+    "url": "https://www.gminsights.com/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global phase change materials market was estimated at USD 2.6 billion in 2024. The market is expected to grow from USD 3 billion in 2025 to USD 7.9 billion in 2034, at a CAGR of 11.4%, according to latest report published by Global Market Insights Inc.",
+    "url": "https://www.gminsights.com/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024 Market Size",
+    "url": "https://www.gminsights.com/industry-analysis/phase-change-material-market",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "相変化材料市場の規模、シェア、成長率、分析、2034年",
+    "url": "https://straitsresearch.com/jp/report/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の相変化材料市場規模は、2025年には9億2000万米ドルと評価され、2026年の10億8000万米ドルから2034年には37億4000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は16.87%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場CAGR（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の年平均成長率（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "カプセル化セグメントは、相変化材料市場において年平均成長率（CAGR）17.2%で最も速い成長を記録すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "カプセル化された相変化材料セグメントは、効率的かつ制御された熱エネルギー貯蔵へのニーズの高まりを背景に、2026年から2034年にかけて年平均成長率（CAGR）17.2%で、世界の相変化材料市場において最も急速な成長を遂げると予測されています",
+    "url": "https://straitsresearch.com/jp/report/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "同地域は2026年から2034年にかけて年平均成長率（CAGR）15.8%で成長すると見込まれています",
+    "url": "https://straitsresearch.com/jp/report/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は世界の相変化材料市場の27.6%を占め、2025年には2億5000万米ドルに達し、2026年から2034年にかけて年平均成長率（CAGR）17.9%と最も高い成長率を記録すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、2025年に0.21億米ドルと評価された世界の相変化材料市場の22.5%を占め、2026年から2034年にかけて年平均成長率（CAGR）16.6%で成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場は2025年に30億ドルから2034年に79億ドルに成長すると予測されており、これはGlobal Market Insights Inc.が発表した最新レポートによると、年平均成長率（CAGR）は11.4%です",
+    "url": "https://www.gminsights.com/ja/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（2025年～2034年）：11.4%",
+    "url": "https://www.gminsights.com/ja/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "一方、電子機器冷却および自動車熱管理セグメントは、予測期間中に17%を超えるCAGRの成長を示す可能性があります",
+    "url": "https://www.gminsights.com/ja/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米に続いて、アジア太平洋地域は都市化とスマートシティの取り組み、再生可能エネルギーの拡大により、18%のCAGRで最も急速に成長すると予想されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "脂肪酸およびその誘導体は、持続可能性と生分解性の利点が実世界の応用でさらに発見・記録されるにつれ、予測期間中に6.3%のCAGRで成長すると予想されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "塩化水和物および硝酸塩を含む無機PCMは、11.9%のCAGRで急速に拡大しており、主に産業廃熱回収および太陽熱エネルギー貯蔵分野で成長しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "複合およびハイブリッドPCMセグメントは、17.9%のCAGRで記録的な高成長が見込まれており、マイクロカプセル化およびポリマー安定化システムが電子機器、電気自動車、繊維の熱管理でますます一般的になっています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "中温PCMセグメントは2034年までに10.1%のCAGRで成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "硝酸塩およびフッ化塩を含む高温PCMは、産業の脱炭素化の一環として、太陽熱発電および廃熱回収のコンポスト分野で9.2%のCAGRで進歩しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "熱管理および制御設計の市場は、10.6%のCAGRで成長し、電子機器の冷却、電気自動車のバッテリー管理、データセンターインフラなどの機会拡大により拡大しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2023年から2033年にかけて13.93%のCAGRで成長しています",
+    "url": "https://www.sphericalinsights.com/jp/reports/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界相変化材料市場規模はUSD 4275.9に達すると予想される 予測期間2023〜2033年の間に13.93%のCAGRで2033万人",
+    "url": "https://www.sphericalinsights.com/jp/reports/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間のCAGR 2023 - 2033 :",
+    "url": "https://www.sphericalinsights.com/jp/reports/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2034)",
+    "url": "https://www.verifiedmarketreports.com/ja/product/phase-change-heat-storage-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Stratistics MRCによると、世界の相変化材料（PCM）市場は2026年に46億米ドル規模となり、2034年までに117億米ドルに達すると予測されており、予測期間中はCAGR12.4％で成長すると見込まれています",
+    "url": "https://www.gii.co.jp/report/smrc2068767-phase-change-materials-market-forecasts-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "COVID-19ワクチンの流通インフラへの投資によって加速されたバイオ医薬品セクターの拡大は、PCMを組み込んだ温度管理包装に対する大きな需要を生み出しています",
+    "url": "https://www.gii.co.jp/report/smrc2068767-phase-change-materials-market-forecasts-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026 年には 10 億ドル、堅調な CAGR で拡大",
+    "url": "https://www.reportprime.com/ja/%E7%9B%B8%E5%A4%89%E5%8C%96%E6%9D%90%E6%96%99-pcm-r20963",
+    "pass": 3
+   },
+   {
+    "quote": "17.30% CAGR",
+    "url": "https://www.reportprime.com/ja/%E7%9B%B8%E5%A4%89%E5%8C%96%E6%9D%90%E6%96%99-pcm-r20963",
+    "pass": 3
+   },
+   {
+    "quote": "相変化材料 PCM 市場が 2032 年に向けて拡大するにつれて、これらの基本を習得する利害関係者は、不釣り合いな価値、イノベーションの利点、持続可能性の利点を獲得するでしょう",
+    "url": "https://www.reportprime.com/ja/%E7%9B%B8%E5%A4%89%E5%8C%96%E6%9D%90%E6%96%99-pcm-r20963",
+    "pass": 3
+   },
+   {
+    "quote": "2032 年までに 10 億ドルに達し、これは堅調な年間複合成長率 (CAGR) を反映しています",
+    "url": "https://www.reportprime.com/ja/%E7%9B%B8%E5%A4%89%E5%8C%96%E6%9D%90%E6%96%99-pcm-r20963",
+    "pass": 3
+   },
+   {
+    "quote": "2032 年までに CAGR % が増加し、絶対値の大幅な増加が見込まれます",
+    "url": "https://www.reportprime.com/ja/%E7%9B%B8%E5%A4%89%E5%8C%96%E6%9D%90%E6%96%99-pcm-r20963",
+    "pass": 3
+   },
+   {
+    "quote": "世界の無機系先端相変化材料(PCM)市場動向、年平均成長率6.3%で拡大継続2026-2032｜QYResearch",
+    "url": "https://note.com/qy_research/n/n4a340c7b7b92",
+    "pass": 3
+   },
+   {
+    "quote": "世界の無機系先端相変化材料(PCM)市場動向、年平均成長率6.3%で拡大継続2026-2032",
+    "url": "https://note.com/qy_research/n/n4a340c7b7b92",
+    "pass": 3
+   },
+   {
+    "quote": "その後、2026年から2032年にかけて年平均成長率（CAGR）6.3%で推移し、2032年には375百万米ドルに拡大すると見込まれています",
+    "url": "https://note.com/qy_research/n/n4a340c7b7b92",
+    "pass": 3
+   },
+   {
+    "quote": "世界の熱伝導性相変化シート市場規模は、2025年の6億9,700万米ドルから2032年には11億4,300万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）7.5%で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/9733525",
+    "pass": 3
+   },
+   {
+    "quote": "第4章では、2021年から2026年までの世界市場の歴史的レビューとして、地域別および国別の売上と収益、ならびにアメリカ、APAC、ヨーロッパ、中東・アフリカにおける販売成長率が分析されています",
+    "url": "https://www.atpress.ne.jp/news/9733525",
+    "pass": 3
+   },
+   {
+    "quote": "The global phase change materials market was estimated at USD 2.6 billion in 2024. The market is expected to grow from USD 3 billion in 2025 to USD 7.9 billion in 2034, at a CAGR of 11.4%, according to latest report published by Global Market Insights Inc.",
+    "url": "https://www.gminsights.com/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025–2034)",
+    "url": "https://www.gminsights.com/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Construction and building industries maintain the highest demand in PCM consumption with about 40 % of the total consumption, while electronics cooling and automotive thermal management segments are likely to exhibit growth above 17% CAGR in forecast year.",
+    "url": "https://www.gminsights.com/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Inorganic PCMs including salt hydrates and nitrate salts are expanding rapidly with 11.9% CAGR growth, mainly in the area of industrial waste-heat recovery and solar thermal energy storage. Issues associating with the category such as corrosion remain, however, encapsulation methods are developing to improve lifecycle performance.",
+    "url": "https://www.gminsights.com/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "The composite and hybrid PCM segment is poised to take record high growth with a 17.9% CAGR, as microencapsulated and polymer-stabilized systems become increasingly common for thermal management in electronics, electric vehicles, and textiles. Shape-stabilized PCMs are also gaining traction with some innovative applications in aerospace and high-temperature environments.",
+    "url": "https://www.gminsights.com/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "High-temperature PCMs, including nitrate salts and fluoride salts, are advancing in solar thermal power and composting waste-heat recovery at 9.2% CAGR within the extensive decarbonization of industry.",
+    "url": "https://www.gminsights.com/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market for thermal management and control designs is growing at 10.6% CAGR and expanding due to opportunities in electronics cooling, electric vehicle battery management, and data center infrastructure. Comfort and conditioning are also expanding, largely due to trends in delivering sustainable urbanization opportunities.",
+    "url": "https://www.gminsights.com/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "The electronics and semiconductor segment is estimated to have a growth projection of 10.7% CAGR. Growing demand is attributable to device miniaturization and increased demand for thermal management in consumer electronics, data centers, and high-performance computing applications.",
+    "url": "https://www.gminsights.com/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "In 2024, North America has a market value of USD 689 million, and a CAGR of 10.5%.",
+    "url": "https://www.gminsights.com/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast Period 2025 – 2034 CAGR",
+    "url": "https://www.gminsights.com/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market size was USD 2.6 billion in 2024, with a CAGR of 11.4% expected through 2034, driven by urbanization, rising EV adoption, and expansion of data centers.",
+    "url": "https://www.gminsights.com/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "The composite and hybrid PCM segment is projected to grow at a 17.9% CAGR till 2034, supported by innovations in microencapsulation and polymer-stabilized systems for electronics and EVs.",
+    "url": "https://www.gminsights.com/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "The North America market was valued at USD 689 million in 2024, growing at a CAGR of 10.5% through 2034. Growth is driven by sustainable building adoption, EV battery thermal management, and increasing energy storage applications across the U.S. and Canada.",
+    "url": "https://www.gminsights.com/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 17% during 2025-2032",
+    "url": "https://www.stratviewresearch.com/market-reports/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "The phase change materials market is likely to grow at a CAGR of 17% during 2025-2032.",
+    "url": "https://www.stratviewresearch.com/market-reports/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "17.90% CAGR",
+    "url": "https://www.insightaceanalytic.com/report/phase-change-materials-market/2188",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 17.90% from 2026 to 2035",
+    "url": "https://www.insightaceanalytic.com/report/phase-change-materials-market/2188",
+    "pass": 3
+   },
+   {
+    "quote": "Representation of revenue in US$ Mn and CAGR from 2026 to 2035",
+    "url": "https://www.insightaceanalytic.com/report/phase-change-materials-market/2188",
+    "pass": 3
+   },
+   {
+    "quote": "Phase Change Materials Market expected to grow at 17.90% CAGR during the forecast period for 2026 to 2035.",
+    "url": "https://www.insightaceanalytic.com/report/phase-change-materials-market/2188",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2035)",
+    "url": "https://www.marketresearchfuture.com/reports/phase-change-materials-market-8282",
+    "pass": 3
+   },
+   {
+    "quote": "Bio-based products are advancing at a 17.6% CAGR through 2035, the quickest technology-level pace in the study",
+    "url": "https://www.marketresearchfuture.com/reports/phase-change-materials-market-8282",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific records the fastest regional expansion at 17.3% CAGR to 2035",
+    "url": "https://www.marketresearchfuture.com/reports/phase-change-materials-market-8282",
+    "pass": 3
+   },
+   {
+    "quote": "17.3% CAGR (2026–2035)",
+    "url": "https://www.marketresearchfuture.com/reports/phase-change-materials-market-8282",
+    "pass": 3
+   },
+   {
+    "quote": "15.9% CAGR",
+    "url": "https://www.marketresearchfuture.com/reports/phase-change-materials-market-8282",
+    "pass": 3
+   },
+   {
+    "quote": "15.1% CAGR",
+    "url": "https://www.marketresearchfuture.com/reports/phase-change-materials-market-8282",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "相変化材料市場における主要企業はどこですか？",
+    "url": "https://straitsresearch.com/jp/report/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要プレイヤー",
+    "url": "https://www.gminsights.com/ja/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要プレイヤー：上位5社（",
+    "url": "https://www.gminsights.com/ja/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "フェーズチェンジ材料産業で活動する主要企業には以下が含まれます：",
+    "url": "https://www.gminsights.com/ja/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "フェーズチェンジ材料市場の主要プレイヤーは誰ですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 競争環境と市場への参入・撤退の見通し",
+    "url": "https://www.gminsights.com/ja/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/jp/reports/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "この進化により、新規参入者が破壊的テクノロジーを活用して既存企業に挑戦し、業界標準を再構築することで、より競争力の高い状況が促進されています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/phase-change-heat-storage-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "環境の安全性、リサイクル可能性、長期的なパフォーマンスに関する規制の曖昧さにより、市場への参入と拡大がさらに複雑になっています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/phase-change-heat-storage-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、モジュール式のプラグアンドプレイ PCM システムの台頭により、参入障壁が低くなり、迅速な展開が容易になり、より幅広い関係者が市場にアクセスできるようになります",
+    "url": "https://www.verifiedmarketreports.com/ja/product/phase-change-heat-storage-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "市場参入戦略",
+    "url": "https://www.verifiedmarketreports.com/ja/product/phase-change-heat-storage-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業のSWOT分析（最大3社）",
+    "url": "https://www.gii.co.jp/report/smrc2068767-phase-change-materials-market-forecasts-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品ポートフォリオ、地理的展開、戦略的提携に基づく主要企業のベンチマーキング",
+    "url": "https://www.gii.co.jp/report/smrc2068767-phase-change-materials-market-forecasts-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "新規参入業者の脅威",
+    "url": "https://www.gii.co.jp/report/smrc2068767-phase-change-materials-market-forecasts-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の市場シェア分析",
+    "url": "https://www.gii.co.jp/report/smrc2068767-phase-change-materials-market-forecasts-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "チャネル、流通業者、および市場参入戦略の評価",
+    "url": "https://www.gii.co.jp/report/smrc2068767-phase-change-materials-market-forecasts-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "PCM 市場への参入障壁は、この分野の CAGR が 17.30% と好調であり、2025 年の 13 億 800 万から 2032 年までに 41 億 8000 万への拡大が予測されているにもかかわらず、依然として重要な意味を持っています",
+    "url": "https://www.reportprime.com/ja/%E7%9B%B8%E5%A4%89%E5%8C%96%E6%9D%90%E6%96%99-pcm-r20963",
+    "pass": 3
+   },
+   {
+    "quote": "新規参入者は、PCM 化学の複雑さ、長期の熱サイクル信頼性、防火および安全性のコンプライアンス、およびホスト材料との適合性を克服する必要があります",
+    "url": "https://www.reportprime.com/ja/%E7%9B%B8%E5%A4%89%E5%8C%96%E6%9D%90%E6%96%99-pcm-r20963",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業には、Insolcorp, Inc、Rubitherm Technologies GmbH、PCM Products、PLUSS Advanced Technologiesなどが含まれる",
+    "url": "https://note.com/qy_research/n/n4a340c7b7b92",
+    "pass": 3
+   },
+   {
+    "quote": "また、このレポートは、熱伝導性相変化シートのポートフォリオと機能、市場参入戦略、市場における地位、地理的な展開に焦点を当て、世界有数の企業の戦略を分析し、加速する世界の熱伝導性相変化シート市場における各社の独自の地位をより深く理解することを目的としています",
+    "url": "https://www.atpress.ne.jp/news/9733525",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、企業別の世界市場データに焦点を当て、主要企業の売上、収益、市場シェア、販売価格、製品の生産・販売地域、製品タイプ、市場集中度分析、新規参入企業、M&A活動と戦略など、競争環境の詳細が示されています",
+    "url": "https://www.atpress.ne.jp/news/9733525",
+    "pass": 3
+   },
+   {
+    "quote": "第13章では、Honeywell、Henkel、Parker、Laird Technologiesなどの主要企業各社について、企業情報、製品ポートフォリオ、仕様、過去の売上、収益、価格、粗利益、主要事業概要、最新の動向など、詳細な分析が掲載されています",
+    "url": "https://www.atpress.ne.jp/news/9733525",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players:",
+    "url": "https://www.gminsights.com/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Major players operating in the phase change materials industry include:",
+    "url": "https://www.gminsights.com/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the phase change materials market?",
+    "url": "https://www.gminsights.com/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players include BASF SE, Honeywell International, Rubitherm Technologies, Croda International, Henkel AG & Co., and Climator Sweden AB.",
+    "url": "https://www.gminsights.com/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.stratviewresearch.com/market-reports/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in the phase change materials market are:",
+    "url": "https://www.stratviewresearch.com/market-reports/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape and dynamics: Market share, Service portfolio, New Product Launches, etc.",
+    "url": "https://www.stratviewresearch.com/market-reports/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "SWOT analysis of key players (up to 3 players)",
+    "url": "https://www.stratviewresearch.com/market-reports/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Benchmarking of key players on the following parameters: Product portfolio, geographical reach, regional presence, and strategic alliances",
+    "url": "https://www.stratviewresearch.com/market-reports/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.insightaceanalytic.com/report/phase-change-materials-market/2188",
+    "pass": 3
+   },
+   {
+    "quote": "Key players operating in the global advanced phase change materials market are:",
+    "url": "https://www.insightaceanalytic.com/report/phase-change-materials-market/2188",
+    "pass": 3
+   },
+   {
+    "quote": "Free customization report with the procurement of the report, Modifications to the regional and segment scope. Particular Geographic competitive landscape.",
+    "url": "https://www.insightaceanalytic.com/report/phase-change-materials-market/2188",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in Phase Change Materials Market?",
+    "url": "https://www.insightaceanalytic.com/report/phase-change-materials-market/2188",
+    "pass": 3
+   },
+   {
+    "quote": "See the data, methodology, and competitive landscape preview & delivered to your inbox shortly.",
+    "url": "https://www.insightaceanalytic.com/report/phase-change-materials-market/2188",
+    "pass": 3
+   },
+   {
+    "quote": "The study of the global phase change materials market is intended to present a comprehensive picture of its prevailing dynamics, growth pattern, and future outlook. The key purposes of this study are to gauge market trends, determine key players, analyze competitive strategies, and examine market forces that affect the adoption of phase change materials (PCM) in different industries.",
+    "url": "https://www.transparencymarketresearch.com/phase-change-materials-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "This report explores key elements like market size, challenges of the industry, competitive landscape, and consumer behavior in order to give stakeholders a clear overview of the market dynamics. The report further examines the uses of",
+    "url": "https://www.transparencymarketresearch.com/phase-change-materials-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape of Phase Change Materials Industry",
+    "url": "https://www.transparencymarketresearch.com/phase-change-materials-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/phase-change-materials-market-8282",
+    "pass": 3
+   },
+   {
+    "quote": "Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/phase-change-materials-market-8282",
+    "pass": 3
+   },
+   {
+    "quote": "8. Competitive Landscape",
+    "url": "https://www.marketresearchfuture.com/reports/phase-change-materials-market-8282",
+    "pass": 3
+   },
+   {
+    "quote": "The competitive landscape section included information on company profiles, product details, product launches, mergers and acquisitions, and general information. The key players are BASF SE, Albemarle Corporation, Honeywell International Inc., DOW Chemical Company and others.",
+    "url": "https://www.marketresearchfuture.com/reports/phase-change-materials-market-8282",
+    "pass": 3
+   },
+   {
+    "quote": "The data were analysed to gain an in-depth insight into the market. The report provides key insights into the PCM market such as industry growth, competitive landscape, market drivers, trends and opportunities. The research also provided an overview of the Phase Change Materials market.",
+    "url": "https://www.marketresearchfuture.com/reports/phase-change-materials-market-8282",
+    "pass": 3
+   },
+   {
+    "quote": "Meet startups",
+    "url": "https://www.thestartupclub.net/post/startup-of-the-week-nanolope",
+    "pass": 3
+   }
+  ],
+  "日本企業": [
+   {
+    "quote": "日本の相変化材料市場に関する洞察",
+    "url": "https://straitsresearch.com/jp/report/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の市場規模は2025年に約0.04億米ドルに達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "PCM市場はアジア太平洋地域が主導しており、中国、インド、日本、韓国を中心に急速な工業化、都市化、持続可能性へのコミットメントが特徴です",
+    "url": "https://www.gminsights.com/ja/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "2023年5月、DIC株式会社は、アメリカのPhase Change Solutions Inc.（PCS）と戦略的パートナーシップを締結し、日本のオフィスビル、工業施設、物流施設などのインフラ応用向けにBioPCMフェーズチェンジ材料を商業化することを目指しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America (U.S, Canada, Mexico), Europe (Germany, United Kingdom, France), Asia-Pacific (China, Japan, South Korea, India), Middle-East (Saudi Arabia, UAE, Kuwait, Qatar).",
+    "url": "https://www.verifiedmarketreports.com/ja/product/phase-change-heat-storage-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "中国、日本、韓国、インドなどの国々は、増大するエネルギー需要と気候変動への取り組みに応えるために、熱エネルギー貯蔵ソリューションに多額の投資を行っています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/phase-change-heat-storage-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "特に、CSP プロジェクトへの中国の積極的な投資と、産業用途向けの高温無機 PCM への日本の注力は、地域のリーダーシップを実証しています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/phase-change-heat-storage-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の相変化蓄熱材市場は2024年に8億米ドルと評価され、2025年の9億米ドルから2033年までに14億米ドルに、約6.1%のCAGRで成長すると予想されています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/phase-change-heat-storage-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "高温用無機PCMとマイクロカプセル化技術における日本の優れた技術は、蓄熱システムの耐久性と性能を向上させます",
+    "url": "https://www.verifiedmarketreports.com/ja/product/phase-change-heat-storage-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "将来の成長の機会には、PCM を日本のスマートシティ プロジェクトに統合し、精密製造の専門知識を活用して次世代の蓄熱ソリューションを開発することが含まれます",
+    "url": "https://www.verifiedmarketreports.com/ja/product/phase-change-heat-storage-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の PCM 市場は着実に成長し、世界の CAGR に近い",
+    "url": "https://www.reportprime.com/ja/%E7%9B%B8%E5%A4%89%E5%8C%96%E6%9D%90%E6%96%99-pcm-r20963",
+    "pass": 3
+   },
+   {
+    "quote": "日本住所：〒104-0061 東京都中央区銀座6-13-16 銀座Wallビル UCF5階",
+    "url": "https://note.com/qy_research/n/n4a340c7b7b92",
+    "pass": 3
+   },
+   {
+    "quote": "TEL：050-5893-6232（日本）／0081-5058936232（グローバル）",
+    "url": "https://note.com/qy_research/n/n4a340c7b7b92",
+    "pass": 3
+   },
+   {
+    "quote": "E-mail：japan@qyresearch.com",
+    "url": "https://note.com/qy_research/n/n4a340c7b7b92",
+    "pass": 3
+   },
+   {
+    "quote": "MAIL：japan@qyresearch.com",
+    "url": "https://note.com/qy_research/n/n4a340c7b7b92",
+    "pass": 3
+   },
+   {
+    "quote": "信越化学工業",
+    "url": "https://www.atpress.ne.jp/news/9733525",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：熱伝導性相変化シートの世界市場2026年～2032年",
+    "url": "https://www.atpress.ne.jp/news/9733525",
+    "pass": 3
+   },
+   {
+    "quote": "日本エネルギー学会機関誌 えねるみくす",
+    "url": "https://ja.wikipedia.org/wiki/%E7%9B%B8%E5%A4%89%E5%8C%96%E6%9D%90%E6%96%99",
+    "pass": 3
+   },
+   {
+    "quote": "The PCM market is dominated by the Asia Pacific, which is characterized by rapid industrialization, urbanization, and sustainability commitments throughout China, India, Japan, South Korea.",
+    "url": "https://www.gminsights.com/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "In May 2023, DIC Corporation declared a strategic partnership with Phase Change Solutions Inc. (PCS), a United States company, with the aim of commercializing the BioPCM phase change materials for infrastructure applications in Japan aimed at office buildings, industrial properties, and logistics types of facilities. The efforts will lower the air-conditioning load to effectively reduce CO",
+    "url": "https://www.gminsights.com/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific (Country Analysis: China, Japan, India, South Korea, and Rest of Asia-Pacific)",
+    "url": "https://www.stratviewresearch.com/market-reports/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Shin-Etsu Chemicals Co., Ltd.",
+    "url": "https://www.insightaceanalytic.com/report/phase-change-materials-market/2188",
+    "pass": 3
+   },
+   {
+    "quote": "U.S.; Canada; U.K.; Germany; China; India; Japan; Brazil; Mexico ;The UK; France; Italy; Spain; China; Japan; India; South Korea; South East Asia; South Korea; South East Asia",
+    "url": "https://www.insightaceanalytic.com/report/phase-change-materials-market/2188",
+    "pass": 3
+   },
+   {
+    "quote": ". India's growth rests on two unrelated pillars: commercial-building code enforcement in tier-one cities and a vaccine distribution network that spans considerable last-mile distance without reliable refrigeration. Japan and South Korea contribute technical rigour more than volume, with qualification protocols that increasingly set de facto regional standards.",
+    "url": "https://www.marketresearchfuture.com/reports/phase-change-materials-market-8282",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "相変化材料市場の規模、シェア、成長率、分析、2034年",
+    "url": "https://straitsresearch.com/jp/report/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "相変化材料市場の規模、シェア、トレンド分析レポート：タイプ別（有機PCM、無機PCM、バイオベースPCM）、形態別（カプセル化、非カプセル化）、用途別（建築・建設、HVAC、繊維、電子機器、コールドチェーン＆包装、蓄熱、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "相変化材料市場は、2025年に欧州が38.4%の市場シェアを占め、欧州が圧倒的なシェアを誇っています",
+    "url": "https://straitsresearch.com/jp/report/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州市場シェア（2025年）",
+    "url": "https://straitsresearch.com/jp/report/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場シェア",
+    "url": "https://straitsresearch.com/jp/report/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "有機PCMセグメントは、2025年に52.8%のシェアを占め、相変化材料市場を牽引するだろう",
+    "url": "https://straitsresearch.com/jp/report/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "有機相変化材料（PCM）分野は、その優れた熱特性、化学的安定性、そして幅広い温度制御用途への適合性により、2025年には世界の相変化材料市場で52.8%のシェアを占め、市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "建築・建設分野は、2025年に相変化材料市場において31.8%のシェアを占め、市場を牽引する見込みです",
+    "url": "https://straitsresearch.com/jp/report/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "建築・建設分野は、エネルギー効率の高い建物や高度な熱管理ソリューションへの需要の高まりを背景に、2025年には世界の相変化材料市場において31.8%のシェアを占め、市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "相変化材料の世界市場において、欧州は最大のシェアを占め、総収益の38.4%を占め、2025年には3億5,000万米ドルに達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は世界の相変化材料市場の27.6%を占め、2025年には2億5000万米ドルに達し、2026年から2034年にかけて年平均成長率（CAGR）17.9%と最も高い成長率を記録すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、2025年に0.21億米ドルと評価された世界の相変化材料市場の22.5%を占め、2026年から2034年にかけて年平均成長率（CAGR）16.6%で成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋市場において、中国は大きなシェアを占め、2025年には約1億米ドルに達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "中東・アフリカ地域は、世界の相変化材料市場の5.4%を占め、2025年には総額0.05億米ドルに達し、2026年から2034年にかけて年平均成長率（CAGR）13.9%で成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "相変化材料市場規模、シェア、トレンドレポート、2034年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "相変化材料市場 サイズとシェア 2025 – 2034",
+    "url": "https://www.gminsights.com/ja/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "が2024年に7%超の市場シェアをリード",
+    "url": "https://www.gminsights.com/ja/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "）は2024年に25.5%の市場シェアを占める",
+    "url": "https://www.gminsights.com/ja/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "有機PCMは2024年に市場販売の約42%を占めると予測されており、化学的に安定しており、腐食性がなく、建物の外装や繊維に簡単に混合できるためです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "中温PCM（25℃～200℃）は全体の需要の55%を占め、建物、電子機器、車両バッテリーの暖房/冷房に使用されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "建設および建築業界はPCM消費の最大需要を維持しており、総消費量の約40%を占めています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "ヨーロッパは強力なエネルギー効率規制と確立されたR&Dインフラを背景に33%のシェアを占めています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "有機相変化材料は2024年に44%の最大シェアを占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "相変化材料市場収益シェア、温度範囲別（2024年）」 src=",
+    "url": "https://www.gminsights.com/ja/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年、中温PCM材料（25℃～200℃）は50%の最大シェアを占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "熱エネルギー貯蔵は2024年に主要カテゴリを占め、市場の35%を生み出しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年には、建設・建物セグメントは市場シェアの28%を占め、総額7億4200万ドルに達しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "中東・アフリカ地域は市場シェアを拡大させ、2025年には3%のシェアを占めると予想されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間2023〜2033で最大の市場シェアを占める有機セグメント",
+    "url": "https://www.sphericalinsights.com/jp/reports/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間2023〜2033年で最大の市場シェアを占める建設セグメント",
+    "url": "https://www.sphericalinsights.com/jp/reports/phase-change-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の相変化蓄熱材市場規模、シェア、業界予測2026～2034年",
+    "url": "https://www.verifiedmarketreports.com/ja/product/phase-change-heat-storage-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "相変化材料：市場シェア分析、業界動向と統計、成長予測（2026～2031年）",
+    "url": "https://www.gii.co.jp/report/smrc2068767-phase-change-materials-market-forecasts-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "バイオベース相変化材料の市場規模、シェア、成長分析：製品タイプ別、用途別、エンドユーザー別、地域別－業界予測2026-2033年",
+    "url": "https://www.gii.co.jp/report/smrc2068767-phase-change-materials-market-forecasts-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "相変化材料（PCM）市場規模、シェア、成長分析：タイプ別、用途別、エンドユーザー産業別、形態別、地域別－業界予測 2026-2033年",
+    "url": "https://www.gii.co.jp/report/smrc2068767-phase-change-materials-market-forecasts-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年のシェア",
+    "url": "https://www.reportprime.com/ja/%E7%9B%B8%E5%A4%89%E5%8C%96%E6%9D%90%E6%96%99-pcm-r20963",
+    "pass": 3
+   },
+   {
+    "quote": "2032年シェア",
+    "url": "https://www.reportprime.com/ja/%E7%9B%B8%E5%A4%89%E5%8C%96%E6%9D%90%E6%96%99-pcm-r20963",
+    "pass": 3
+   },
+   {
+    "quote": "北米、ヨーロッパ、アジア太平洋地域は、先進的な建設分野、エネルギー効率に対する強力な政策推進、ハイテク産業のリーダーシップを反映して、2025年までに相変化材料（PCM）市場シェアのトップ3地域として浮上します",
+    "url": "https://www.reportprime.com/ja/%E7%9B%B8%E5%A4%89%E5%8C%96%E6%9D%90%E6%96%99-pcm-r20963",
+    "pass": 3
+   },
+   {
+    "quote": "2032 年までに、アジア太平洋地域は PCM 市場シェアでリードを広げると予測されていますが、北米とヨーロッパはプレミアムな高性能ソリューションで確固たる地位を維持します",
+    "url": "https://www.reportprime.com/ja/%E7%9B%B8%E5%A4%89%E5%8C%96%E6%9D%90%E6%96%99-pcm-r20963",
+    "pass": 3
+   },
+   {
+    "quote": "上位参加企業は集合的に世界市場で大きなシェアを占めており、2025 年には約 13 億 8000 万と推定され、17.30% の堅調な CAGR に支えられて 2032 年までに 41 億 8000 万に達すると予測されています",
+    "url": "https://www.reportprime.com/ja/%E7%9B%B8%E5%A4%89%E5%8C%96%E6%9D%90%E6%96%99-pcm-r20963",
+    "pass": 3
+   },
+   {
+    "quote": "2.3.1 タイプ別のグローバル相変化材料 Pcm販売市場シェア (2017-2025)",
+    "url": "https://www.reportprime.com/ja/%E7%9B%B8%E5%A4%89%E5%8C%96%E6%9D%90%E6%96%99-pcm-r20963",
+    "pass": 3
+   },
+   {
+    "quote": "2.3.2 タイプ別のグローバル相変化材料 Pcm収益および市場シェア (2017-2025)",
+    "url": "https://www.reportprime.com/ja/%E7%9B%B8%E5%A4%89%E5%8C%96%E6%9D%90%E6%96%99-pcm-r20963",
+    "pass": 3
+   },
+   {
+    "quote": "2.5.1 用途別のグローバル相変化材料 Pcm販売市場シェア (2020-2025)",
+    "url": "https://www.reportprime.com/ja/%E7%9B%B8%E5%A4%89%E5%8C%96%E6%9D%90%E6%96%99-pcm-r20963",
+    "pass": 3
+   },
+   {
+    "quote": "2.5.2 用途別のグローバル相変化材料 Pcm収益および市場シェア (2017-2025)",
+    "url": "https://www.reportprime.com/ja/%E7%9B%B8%E5%A4%89%E5%8C%96%E6%9D%90%E6%96%99-pcm-r20963",
+    "pass": 3
+   },
+   {
+    "quote": "無機系先端相変化材料(PCM)―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032",
+    "url": "https://note.com/qy_research/n/n4a340c7b7b92",
+    "pass": 3
+   },
+   {
+    "quote": "上記の図表／データは、QYResearchの最新レポート「無機系先端相変化材料(PCM)―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」から引用されている",
+    "url": "https://note.com/qy_research/n/n4a340c7b7b92",
+    "pass": 3
+   },
+   {
+    "quote": "上位3社で約61％の市場シェアを占めている",
+    "url": "https://note.com/qy_research/n/n4a340c7b7b92",
+    "pass": 3
+   },
+   {
+    "quote": "地域別では欧州が最大市場であり、約45％のシェアを占める",
+    "url": "https://note.com/qy_research/n/n4a340c7b7b92",
+    "pass": 3
+   },
+   {
+    "quote": "製品タイプ別では、塩水和物系相変化材料が最大セグメントであり、約79％の市場シェアを占める",
+    "url": "https://note.com/qy_research/n/n4a340c7b7b92",
+    "pass": 3
+   },
+   {
+    "quote": "用途別では、コールドチェーン輸送分野が最大で約30％のシェアを有している",
+    "url": "https://note.com/qy_research/n/n4a340c7b7b92",
+    "pass": 3
+   },
+   {
+    "quote": "本記事は、QY Research発行のレポート「無機系先端相変化材料(PCM)―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」に基づき、市場動向および競合分析の概要を解説します",
+    "url": "https://note.com/qy_research/n/n4a340c7b7b92",
+    "pass": 3
+   },
+   {
+    "quote": "第2章（エグゼクティブサマリー）では、世界の市場概観、地域別・国別の現状と将来分析、製品タイプ別（有機材料、無機材料など）、および用途別（半導体、LCDディスプレイ、自動車など）の市場分析（売上、収益、市場シェア、価格）が要約されています",
+    "url": "https://www.atpress.ne.jp/news/9733525",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、企業別の世界市場データに焦点を当て、主要企業の売上、収益、市場シェア、販売価格、製品の生産・販売地域、製品タイプ、市場集中度分析、新規参入企業、M&A活動と戦略など、競争環境の詳細が示されています",
+    "url": "https://www.atpress.ne.jp/news/9733525",
+    "pass": 3
+   },
+   {
+    "quote": "market share in 2024.",
+    "url": "https://www.gminsights.com/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Medium-temperature PCM 25 °C - 200 °C constitutes 55% of the overall demand, covering heating/cooling for buildings, electronics, and vehicle batteries. Development of low-temperature PCM continues in refrigeration and cold-chain logistics, and high-temperature PCM starts emerging in industrial waste-heat recovery and concentrated solar power applications.",
+    "url": "https://www.gminsights.com/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "MEA is increasing its footprint and is expected to account for 3% of market share in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "The top 5 companies in the phase change materials are BASF SE, Honeywell International, Rubitherm Technologies, Croda International, and Henkel AG & Co. These are significant players in their respective areas and represent 25.5% of the total market share.",
+    "url": "https://www.gminsights.com/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Collective Market Share 25.5% in 2024",
+    "url": "https://www.gminsights.com/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "The thermal energy storage segment accounted for 35% of the market in 2024. It is supported by smart building adoption and renewable energy storage expansion.",
+    "url": "https://www.gminsights.com/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "The construction and building segment held 28% market share with USD 742 million in 2024, driven by energy-efficient infrastructure and net-zero building policies.",
+    "url": "https://www.gminsights.com/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "These companies focus on inorganic modes of expansion to maintain their market share. On these grounds, DuPont has acquired Laird Performance Materials from Advent International for US$ 2.3 Bn. The acquisition intends to further improve DuPont's leadership role in high-performance electromagnetic shielding and thermal management solutions.",
+    "url": "https://www.transparencymarketresearch.com/phase-change-materials-market-report.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "世界の 相変化蓄熱 材 市場規模 、シェア、業界予測2026～2034年 — 世界の 相変化蓄熱 材 市場規模 、シェア、業界予測2026～2034年 Verified Market Reports https://www.verifiedmarketreports.com > product > phase...",
+    "url": "https://www.verifiedmarketreports.com/ja/product/phase-change-heat-storage-material-market/",
+    "pass": 3
+   },
+   {
+    "quote": "相変化材料 Pcm 市場 規模、成長、 予測 2032 - Report Prime — 相変化材料 Pcm 市場 規模、成長、 予測 2032 - Report Prime Report Prime https://www.reportprime.com > ... > 複合材料と先端材料",
+    "url": "https://www.reportprime.com/ja/%E7%9B%B8%E5%A4%89%E5%8C%96%E6%9D%90%E6%96%99-pcm-r20963",
+    "pass": 3
+   },
+   {
+    "quote": "潜熱 蓄熱 材 - メーカー・ 企業 8社の業務用製品ランキング — 潜熱 蓄熱 材 - メーカー・ 企業 8社の業務用製品ランキング 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 潜熱蓄熱材",
+    "url": "https://mono.ipros.com/cg2/%E6%BD%9C%E7%86%B1%E8%93%84%E7%86%B1%E6%9D%90/",
+    "pass": 3
+   },
+   {
+    "quote": "Phase Change Materials Market Size & Share 2025 – 2034 — Phase Change Materials Market Size & Share 2025 – 2034 Global Market Insights Inc. https://www.gminsights.com > phase-...",
+    "url": "https://www.gminsights.com/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Phase Change Materials (PCM) Market Size | CAGR of 18.5% — Phase Change Materials (PCM) Market Size | CAGR of 18.5% Market.us https://market.us > report > phase-cha...",
+    "url": "https://market.us/report/phase-change-materials-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Phase Change Materials Market | Global Industry Report 2035 — Phase Change Materials Market | Global Industry Report 2035 transparencymarketresearch.com https://www.transparencymarketresearch.com > ...",
+    "url": "https://www.transparencymarketresearch.com/phase-change-materials-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "Phase Change Materials Market Report, 2020 - Business Wire — Phase Change Materials Market Report, 2020 - Business Wire Business Wire https://www.businesswire.com > home",
+    "url": "https://www.businesswire.com/news/home/20200401005422/en/Phase-Change-Materials-Market-Report-2020---Trends-Forecast-Competitive-Analysis---ResearchAndMarkets.com",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "Europe held phase change materials market value of USD 583 million in 2024, led specifically by the trend toward sustainability, government funding, and consumer environmental beliefs.",
+    "url": "https://www.gminsights.com/industry-analysis/phase-change-material-market",
+    "pass": 3
+   },
+   {
+    "quote": ". Parallel to that, the U.S. Inflation Reduction Act's 179D deduction, raised to a maximum of USD 5.81 per square foot for 2025 filings, has pulled passive heat-buffering products into mainstream retrofit specifications",
+    "url": "https://www.marketresearchfuture.com/reports/phase-change-materials-market-8282",
+    "pass": 3
+   },
+   {
+    "quote": "U.S. Department of Energy (October 2024): Issued funding under its buildings technologies programme for grid-interactive thermal storage demonstrations, with awards emphasising measured demand-flexibility outcomes",
+    "url": "https://www.marketresearchfuture.com/reports/phase-change-materials-market-8282",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "16.87",
+    "url": "https://straitsresearch.com/jp/report/phase-change-materials-market",
+    "quote": "世界の相変化材料市場規模は、2025年には9億2000万米ドルと評価され、2026年の10億8000万米ドルから2034年には37億4000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は16.87%となる見込みです"
+   },
+   {
+    "value": "17.2",
+    "url": "https://straitsresearch.com/jp/report/phase-change-materials-market",
+    "quote": "カプセル化セグメントは、相変化材料市場において年平均成長率（CAGR）17.2%で最も速い成長を記録すると予測されている"
+   },
+   {
+    "value": "15.8",
+    "url": "https://straitsresearch.com/jp/report/phase-change-materials-market",
+    "quote": "同地域は2026年から2034年にかけて年平均成長率（CAGR）15.8%で成長すると見込まれています"
+   },
+   {
+    "value": "17.9",
+    "url": "https://straitsresearch.com/jp/report/phase-change-materials-market",
+    "quote": "北米は世界の相変化材料市場の27.6%を占め、2025年には2億5000万米ドルに達し、2026年から2034年にかけて年平均成長率（CAGR）17.9%と最も高い成長率を記録すると予測されています"
+   },
+   {
+    "value": "16.6",
+    "url": "https://straitsresearch.com/jp/report/phase-change-materials-market",
+    "quote": "アジア太平洋地域は、2025年に0.21億米ドルと評価された世界の相変化材料市場の22.5%を占め、2026年から2034年にかけて年平均成長率（CAGR）16.6%で成長すると予測されています"
+   },
+   {
+    "value": "11.4",
+    "url": "https://www.gminsights.com/ja/industry-analysis/phase-change-material-market",
+    "quote": "市場は2025年に30億ドルから2034年に79億ドルに成長すると予測されており、これはGlobal Market Insights Inc.が発表した最新レポートによると、年平均成長率（CAGR）は11.4%です"
+   },
+   {
+    "value": "12.4",
+    "url": "https://www.gii.co.jp/report/smrc2068767-phase-change-materials-market-forecasts-global.html",
+    "quote": "Stratistics MRCによると、世界の相変化材料（PCM）市場は2026年に46億米ドル規模となり、2034年までに117億米ドルに達すると予測されており、予測期間中はCAGR12.4％で成長すると見込まれています"
+   },
+   {
+    "value": "6.3",
+    "url": "https://note.com/qy_research/n/n4a340c7b7b92",
+    "quote": "世界の無機系先端相変化材料(PCM)市場動向、年平均成長率6.3%で拡大継続2026-2032｜QYResearch"
+   },
+   {
+    "value": "7.5",
+    "url": "https://www.atpress.ne.jp/news/9733525",
+    "quote": "世界の熱伝導性相変化シート市場規模は、2025年の6億9,700万米ドルから2032年には11億4,300万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）7.5%で成長すると見込まれています"
+   },
+   {
+    "value": "11.4",
+    "url": "https://www.gminsights.com/industry-analysis/phase-change-material-market",
+    "quote": "The global phase change materials market was estimated at USD 2.6 billion in 2024. The market is expected to grow from USD 3 billion in 2025 to USD 7.9 billion in 2034, at a CAGR of 11.4%, according to latest report published by Global Market Insights Inc."
+   },
+   {
+    "value": "10.5",
+    "url": "https://www.gminsights.com/industry-analysis/phase-change-material-market",
+    "quote": "In 2024, North America has a market value of USD 689 million, and a CAGR of 10.5%."
+   },
+   {
+    "value": "17",
+    "url": "https://www.stratviewresearch.com/market-reports/phase-change-materials-market",
+    "quote": "CAGR of 17% during 2025-2032"
+   },
+   {
+    "value": "17.90",
+    "url": "https://www.insightaceanalytic.com/report/phase-change-materials-market/2188",
+    "quote": "CAGR of 17.90% from 2026 to 2035"
+   }
+  ],
+  "市場規模USD": [
+   {
+    "value": "1.5",
+    "url": "https://www.verifiedmarketreports.com/ja/product/phase-change-heat-storage-material-market/",
+    "quote": "USD 1.5 billion"
+   },
+   {
+    "value": "3.8",
+    "url": "https://www.verifiedmarketreports.com/ja/product/phase-change-heat-storage-material-market/",
+    "quote": "USD 3.8 billion"
+   },
+   {
+    "value": "2.6",
+    "url": "https://www.gminsights.com/industry-analysis/phase-change-material-market",
+    "quote": "The global phase change materials market was estimated at USD 2.6 billion in 2024. The market is expected to grow from USD 3 billion in 2025 to USD 7.9 billion in 2034, at a CAGR of 11.4%, according to latest report published by Global Market Insights Inc."
+   },
+   {
+    "value": "3",
+    "url": "https://www.gminsights.com/industry-analysis/phase-change-material-market",
+    "quote": "The global phase change materials market was estimated at USD 2.6 billion in 2024. The market is expected to grow from USD 3 billion in 2025 to USD 7.9 billion in 2034, at a CAGR of 11.4%, according to latest report published by Global Market Insights Inc."
+   },
+   {
+    "value": "7.9",
+    "url": "https://www.gminsights.com/industry-analysis/phase-change-material-market",
+    "quote": "The global phase change materials market was estimated at USD 2.6 billion in 2024. The market is expected to grow from USD 3 billion in 2025 to USD 7.9 billion in 2034, at a CAGR of 11.4%, according to latest report published by Global Market Insights Inc."
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://straitsresearch.com/jp/report/phase-change-materials-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E7%9B%B8%E5%A4%89%E5%8C%96%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4-104848",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/phase-change-material-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/jp/reports/phase-change-materials-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.verifiedmarketreports.com/ja/product/phase-change-heat-storage-material-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/smrc2068767-phase-change-materials-market-forecasts-global.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reportprime.com/ja/%E7%9B%B8%E5%A4%89%E5%8C%96%E6%9D%90%E6%96%99-pcm-r20963",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketreportsworld.com/jp/market-reports/advanced-phase-change-materials-market-14729184",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/qy_research/n/n4a340c7b7b92",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/9733525",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%9B%B8%E5%A4%89%E5%8C%96%E6%9D%90%E6%96%99",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ecoprius.pl/ja/%E7%86%B1%E3%81%A8%E5%86%B7%E5%8D%B4%E8%B2%AF%E8%94%B5pcm%EF%BC%88%E7%9B%B8%E5%A4%89%E5%8C%96%E6%9D%90%E6%96%99%EF%BC%89.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E6%BD%9C%E7%86%B1%E8%93%84%E7%86%B1%E6%9D%90/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baike.baidu.com/ja/item/%E7%9B%B8%E5%A4%89%E5%8C%96%E8%93%84%E7%86%B1%E6%9D%90%E6%96%99/7090041",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.kri-inc.jp/tech/1269397_11451.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/phase-change-material-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/phase-change-materials-market-104848",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stratviewresearch.com/market-reports/phase-change-materials-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/core/PressReleases/advanced-phase-change-material-pcm.asp",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.insightaceanalytic.com/report/phase-change-materials-market/2188",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.transparencymarketresearch.com/phase-change-materials-market-report.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/advanced-phase-change-material-pcm-market-1087.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businesswire.com/news/home/20200401005422/en/Phase-Change-Materials-Market-Report-2020---Trends-Forecast-Competitive-Analysis---ResearchAndMarkets.com",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/phase-change-materials-market-8282",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/phase-change-materials-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://dealroom.co/news/161668-phase-change-materials-startup-raises-14-9m-series-a-for-fibre-productio/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S0927024825002168",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://netzeroinsights.com/resources/2025-investment-trends-heating-cooling-buildings/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/theoretical-framework-for-designing-phase-change-material-systems/F775496CA0456B656DF58AD3CEA39ECB",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thestartupclub.net/post/startup-of-the-week-nanolope",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "蓄熱材料（相変化材料・無機） 市場規模 年平均成長率",
+   "results": [
+    "https://straitsresearch.com/jp/report/phase-change-materials-market",
+    "https://www.fortunebusinessinsights.com/jp/%E7%9B%B8%E5%A4%89%E5%8C%96%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4-104848",
+    "https://www.gminsights.com/ja/industry-analysis/phase-change-material-market",
+    "https://jp.linkedin.com/pulse/%E9%AB%98%E6%B8%A9%E7%9B%B8%E5%A4%89%E5%8C%96%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E4%BA%88%E6%B8%AC%E6%88%90%E9%95%B7%E5%8F%AF%E8%83%BD%E6%80%A7%E5%88%86%E6%9E%90-2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E4%BA%88%E6%B8%AC%E3%81%95%E3%82%8C%E3%82%8B%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr83-xaole",
+    "https://www.sphericalinsights.com/jp/reports/phase-change-materials-market",
+    "https://www.verifiedmarketreports.com/ja/product/phase-change-heat-storage-material-market/",
+    "https://newscast.jp/news/2978418",
+    "https://www.coherentmarketinsights.com/ja/%E9%AB%98%E5%BA%A6%E7%9B%B8%E5%A4%89%E5%8C%96%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4",
+    "https://www.imarcgroup.com/report/ja/advanced-phase-change-materials-market",
+    "https://qyresearch-news.hateblo.jp/entry/2026/10/15/143631"
+   ]
+  },
+  {
+   "query": "蓄熱材料（相変化材料・無機） 市場 予測 富士経済 OR 矢野経済 OR シーエムシー",
+   "results": [
+    "https://straitsresearch.com/jp/report/phase-change-materials-market",
+    "https://www.gii.co.jp/report/smrc2068767-phase-change-materials-market-forecasts-global.html",
+    "https://www.reportprime.com/ja/%E7%9B%B8%E5%A4%89%E5%8C%96%E6%9D%90%E6%96%99-pcm-r20963",
+    "https://www.marketreportsworld.com/jp/market-reports/advanced-phase-change-materials-market-14729184",
+    "https://note.com/qy_research/n/n4a340c7b7b92",
+    "https://www.atpress.ne.jp/news/9733525",
+    "https://www.fortunebusinessinsights.com/jp/%E7%9B%B8%E5%A4%89%E5%8C%96%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4-104848",
+    "https://www.verifiedmarketreports.com/ja/product/phase-change-heat-storage-material-market/",
+    "https://newscast.jp/news/3231414"
+   ]
+  },
+  {
+   "query": "蓄熱材料（相変化材料・無機） 参入 企業 国内",
+   "results": [
+    "https://straitsresearch.com/jp/report/phase-change-materials-market",
+    "https://ja.wikipedia.org/wiki/%E7%9B%B8%E5%A4%89%E5%8C%96%E6%9D%90%E6%96%99",
+    "https://www.ecoprius.pl/ja/%E7%86%B1%E3%81%A8%E5%86%B7%E5%8D%B4%E8%B2%AF%E8%94%B5pcm%EF%BC%88%E7%9B%B8%E5%A4%89%E5%8C%96%E6%9D%90%E6%96%99%EF%BC%89.html",
+    "https://mono.ipros.com/cg2/%E6%BD%9C%E7%86%B1%E8%93%84%E7%86%B1%E6%9D%90/",
+    "https://baike.baidu.com/ja/item/%E7%9B%B8%E5%A4%89%E5%8C%96%E8%93%84%E7%86%B1%E6%9D%90%E6%96%99/7090041",
+    "https://www.kri-inc.jp/tech/1269397_11451.html",
+    "https://www.sun-energy.co.jp/ecojoule-pcm/pcm/",
+    "https://www.linseis.com/ja/%E3%82%A6%E3%82%A3%E3%82%AD/pcm-%E7%9B%B8%E5%A4%89%E5%8C%96%E6%9D%90%E6%96%99/",
+    "https://www.aist.go.jp/aist_j/press_release/pr2020/pr20201012/pr20201012.html",
+    "https://qyresearch-news.hateblo.jp/entry/2026/10/15/143631"
+   ]
+  },
+  {
+   "query": "phase change materials market size CAGR 2025",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/phase-change-material-market",
+    "https://www.fortunebusinessinsights.com/phase-change-materials-market-104848",
+    "https://www.stratviewresearch.com/market-reports/phase-change-materials-market.html",
+    "https://www.marketsandmarkets.com/core/PressReleases/advanced-phase-change-material-pcm.asp",
+    "https://www.insightaceanalytic.com/report/phase-change-materials-market/2188",
+    "https://market.us/report/phase-change-materials-market/",
+    "https://www.marketresearchfuture.com/reports/phase-change-materials-market-8282",
+    "https://finance.yahoo.com/energy/articles/advanced-phase-change-materials-market-141900256.html",
+    "https://www.sphericalinsights.com/blogs/top-15-companies-in-global-phase-change-materials-market-2026-2035-expert-view-by-spherical-insights",
+    "https://www.mordorintelligence.com/industry-reports/phase-change-materials-market"
+   ]
+  },
+  {
+   "query": "phase change materials market key players competitive landscape",
+   "results": [
+    "https://www.transparencymarketresearch.com/phase-change-materials-market-report.html",
+    "https://www.insightaceanalytic.com/report/phase-change-materials-market/2188",
+    "https://www.gminsights.com/industry-analysis/phase-change-material-market",
+    "https://www.marketsandmarkets.com/Market-Reports/advanced-phase-change-material-pcm-market-1087.html",
+    "https://www.stratviewresearch.com/market-reports/phase-change-materials-market.html",
+    "https://www.businesswire.com/news/home/20200401005422/en/Phase-Change-Materials-Market-Report-2020---Trends-Forecast-Competitive-Analysis---ResearchAndMarkets.com",
+    "https://www.linkedin.com/pulse/analyzing-competitive-landscape-phase-change-materials-pcm-market-m8xwc",
+    "https://www.marketresearchfuture.com/reports/phase-change-materials-market-8282",
+    "https://www.fortunebusinessinsights.com/phase-change-materials-market-104848",
+    "https://www.mordorintelligence.com/industry-reports/phase-change-materials-market"
+   ]
+  },
+  {
+   "query": "phase change materials startup funding 2025",
+   "results": [
+    "https://dealroom.co/news/161668-phase-change-materials-startup-raises-14-9m-series-a-for-fibre-productio/",
+    "https://www.sciencedirect.com/science/article/pii/S0927024825002168",
+    "https://netzeroinsights.com/resources/2025-investment-trends-heating-cooling-buildings/",
+    "https://www.linkedin.com/pulse/phase-change-material-pcm-heat-sinks-market-us-japan-korea-11osf",
+    "https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/theoretical-framework-for-designing-phase-change-material-systems/F775496CA0456B656DF58AD3CEA39ECB",
+    "https://www.marketsandmarkets.com/Market-Reports/advanced-phase-change-material-pcm-market-1087.html",
+    "https://www.thestartupclub.net/post/startup-of-the-week-nanolope",
+    "https://www.microerapower.com/learn-more/",
+    "https://www.mdpi.com/1996-1073/18/13/3534",
+    "https://pitchbook.com/profiles/company/969468-58"
+   ]
+  }
+ ],
+ "missing": {}
+}

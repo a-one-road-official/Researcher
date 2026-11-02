@@ -1,0 +1,2118 @@
+{
+ "name": "合成燃料",
+ "en": "e-fuels",
+ "aliases": [
+  "e-fuel",
+  "SAF",
+  "合成メタン"
+ ],
+ "context": "12 GX ②水素等",
+ "kind": "market",
+ "researched_at": "2026-11-02T17:43:06.740310+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "合成燃料市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の合成燃料市場規模は、2025年には67億6,000万米ドルと評価され、2026年の79億9,000万米ドルから2034年には303億3,000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は18.15%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国エネルギー省（DOE）は、2050年までに温室効果ガス排出量実質ゼロを達成するという戦略の一環として、合成燃料技術の研究開発に1億ドル以上を投じている",
+    "url": "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "合成燃料市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）18.15%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "合成ガス市場規模、シェア、成長率、機会、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "燃料電池市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "バイオマス発電市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の合成燃料市場規模は2033年までに313.8億米ドルに達する見込み",
+    "url": "https://www.sphericalinsights.com/jp/reports/synthetic-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "の市場規模 2023:",
+    "url": "https://www.sphericalinsights.com/jp/reports/synthetic-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "合成燃料 (e-fuel) 市場 | 市場規模 シェア 分析 成長性 2035年 【市場調査レポート】",
+    "url": "https://www.gii.co.jp/report/root1883715-e-fuels-market-till-distribution-by-type-fuel-type.html",
+    "pass": 3
+   },
+   {
+    "quote": "Roots Analysisの調査によると、世界の合成燃料 (e-fuel) の市場規模は、現在の688億米ドルから、2035年までに2,866億米ドルへ成長し、予測期間におけるCAGRは15.34％と推定されています",
+    "url": "https://www.gii.co.jp/report/root1883715-e-fuels-market-till-distribution-by-type-fuel-type.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 4,799 換算",
+    "url": "https://www.gii.co.jp/report/root1883715-e-fuels-market-till-distribution-by-type-fuel-type.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 6,999 換算",
+    "url": "https://www.gii.co.jp/report/root1883715-e-fuels-market-till-distribution-by-type-fuel-type.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 10,599 換算",
+    "url": "https://www.gii.co.jp/report/root1883715-e-fuels-market-till-distribution-by-type-fuel-type.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 17,999 換算",
+    "url": "https://www.gii.co.jp/report/root1883715-e-fuels-market-till-distribution-by-type-fuel-type.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のバイオ燃料市場は、2025年に 1,605億米ドルと推定されました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/biofuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Market Insights Inc.の最新調査によると、市場規模は 2026年の 1,784億米ドルから 2035年には 4,321億米ドルに拡大し、年平均成長率（CAGR）は 10.3%に達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/biofuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/biofuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/biofuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の予測市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/biofuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Biofuel Market Size, By Fuel , 2023 - 2035 (USD Billion)",
+    "url": "https://www.gminsights.com/ja/industry-analysis/biofuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "バイオディーゼルバイオ燃料市場は、2035年まで年平均成長率（CAGR）9.9%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/biofuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国バイオ燃料市場規模、2023〜2035年（10億米ドル単位）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/biofuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州市場は、2035年まで年平均成長率（CAGR）9.4%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/biofuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域のバイオ燃料市場は、2035年までに940億米ドルを超える見通しであり、エネルギー安全保障の優先課題、輸送需要の急速な増加、政府が支援する国内混合プログラムによって形成されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/biofuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "中東・アフリカ市場は、2035年までに年平均成長率（CAGR）3.9%で成長する見通しである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/biofuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "e-fuel市場規模・予測レポート 2026〜2035年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "合成燃料（e-fuel）市場は2025年に4億3,510万米ドルと評価され、2026年には8億490万米ドルに達すると予想される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の市場規模予測",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "需要側売上高の分析と商業需要家との直接的な対話に基づき、市場は2030年に43億8,000万米ドルに達すると予想する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "E-Fuel市場規模（製品別）、2025年・2035年（百万米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "e-ガソリンの2025年の市場規模は3,480万米ドルで、2035年には8億3,840万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "海運用途の市場規模は2025年に1億6,530万米ドルで、2035年には市場収益の25.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米のe-fuel市場は2025年に9,570万米ドルを生み出し、2035年までに29.3億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国市場は2025年に6,960万米ドルを生み出し、2035年までに21.4億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の市場規模は2025年に2億2,630万米ドルとなり、2035年までに市場売上高の40.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツの2025年の市場規模は7,830万米ドルで、2035年までに欧州売上高の25.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Spherical Insights & Consulting が公表したリサーチレポートによると、Global Alternative Fuels Market size は、2025 年 USD 0.31 Billion から 2035 年までに USD 0.82 Billion から 2035 年までの予測期間で 10.2% の CAGR で成長する予定です 2026-2035",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-alternative-fuels-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "Spherical Insights & Consulting が公表したリサーチレポートによると、Global Alternative Fuels Marketsize は、2025 年 USD 0.31 Billion から 2035 年までに USD 0.82 Billion から 2035 年までの予測期間で 10.2% の CAGR で成長する予定です",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-alternative-fuels-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月、ペトロブラスは、再生可能なジェット燃料と再生可能エネルギーディーゼルを生産するブラジルの再生可能エネルギー燃料プラントを開発するために、1.2億ドルの投資を承認しました",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-alternative-fuels-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "代替燃料の市場規模は、2025年にUSD 0.31億の価値があると推定されました",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-alternative-fuels-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "市場は2026と2035の間の10.2%のCAGRで拡大する予定です",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-alternative-fuels-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル代替燃料市場規模は、2035年までにUSD 0.82億に達すると予想されます",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-alternative-fuels-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "世界の代替燃料市場規模, シェア, タイプ別 (天然ガス, バイオディーゼル, エタノール, 水素, その他), 車両タイプ別 (旅客車, 軽商用車, 重商用車, その他), エンドユースによる (輸送, 産業, 発電, その他), 地域別 (北アメリカ, ヨーロッパ, アジアパシフィック, ラテンアメリカ, 中東・アフリカ), 分析および予測 2026–2035.",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-alternative-fuels-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "バイオポリマーコーティング市場規模、需要、予測2033",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-alternative-fuels-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "日本絶縁市場規模、インサイト、レポート予測2033",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-alternative-fuels-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "日本ホスフィン・リガンドス市場規模、需要、成長2033年",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-alternative-fuels-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "・国内調達ベースのカーボンニュートラル燃料の市場規模は、金額ベースで2030年度の2兆9,950億円から、2050年度には14兆7,500億円に拡大する",
+    "url": "https://www.ipros.com/cg1/%E7%87%83%E6%96%99/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年9月 6.45億ドルの資金",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_03_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "*￡5,300万≒101億円（190円/￡）",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_03_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2035年までの燃料別市場規模を独自予測",
+    "url": "https://www.yano.co.jp/market_reports/C68107100?srsltid=AYCX9vIzTgXxmMXym7VbhGN8yvhu2Hpn4CI-na2r0dDNIRsEFOXgP8NJ",
+    "pass": 3
+   },
+   {
+    "quote": "「第4章 市場規模予測」",
+    "url": "https://www.yano.co.jp/market_reports/C68107100?srsltid=AYCX9vIzTgXxmMXym7VbhGN8yvhu2Hpn4CI-na2r0dDNIRsEFOXgP8NJ",
+    "pass": 3
+   },
+   {
+    "quote": "第4章 市場規模予測",
+    "url": "https://www.yano.co.jp/market_reports/C68107100?srsltid=AYCX9vIzTgXxmMXym7VbhGN8yvhu2Hpn4CI-na2r0dDNIRsEFOXgP8NJ",
+    "pass": 3
+   },
+   {
+    "quote": "米国農務省（USDA）によれば、2024年の中国の燃料エタノール生産のうち、75％以上が穀物系（トウモロコシ、小麦、米）で、約10％がキャッサバまたはサトウキビ由来、残りは産業廃棄ガスと限られたセルロース系原料に由来するとされている",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/fad39afbde220db7.html",
+    "pass": 3
+   },
+   {
+    "quote": "このように穀物系原料の使用が制限される中、USDAのレポートによれば、2025年時点で中国の平均エタノール混合率は約2.1％にとどまり、E10を実施しているのは15省のみとなった",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/fad39afbde220db7.html",
+    "pass": 3
+   },
+   {
+    "quote": "前述のとおり、世界最大のUCO産出国である中国は、SAFについても生産国としての存在感を高めており、また、2024年の航空市場規模（旅客数）で世界第2位の市場規模を持つことから、市場としてのポテンシャルも高いといえる",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/fad39afbde220db7.html",
+    "pass": 3
+   },
+   {
+    "quote": "USDAの推計では、2025年末までにSAFの国内消費は約6,250万リットル（約5万5,000トン）に達し、第14次5カ年（2021～2025年）規画の政策期間におけるSAFの年間消費量目標5万トンを達成すると予測されている",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/fad39afbde220db7.html",
+    "pass": 3
+   },
+   {
+    "quote": "合成燃料市場は、2032年までにCAGR5.98％で781億9,000万米ドル規模に成長すると予測されております",
+    "url": "https://newscast.jp/news/9362485",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "合成燃料市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の合成燃料市場規模は、2025年には67億6,000万米ドルと評価され、2026年の79億9,000万米ドルから2034年には303億3,000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は18.15%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "合成燃料市場の規模は、2026年には79億9000万米ドルと評価され、2034年までに303億3000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は18.15%です",
+    "url": "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "合成燃料市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）18.15%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "合成ガス市場規模、シェア、成長率、機会、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "木炭ブリケット市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "固体再生燃料市場の規模、シェア、成長率、2034年",
+    "url": "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "微生物燃料電池市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "燃料電池市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "規模は、予測期間中に年平均成長率(CAGR)21.65%で成長し、2023年の44億2,000万米ドルから2033年には313億8,000万米ドルに達すると予想されています",
+    "url": "https://www.sphericalinsights.com/jp/reports/synthetic-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間のCAGR 2023 - 2033 :",
+    "url": "https://www.sphericalinsights.com/jp/reports/synthetic-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Roots Analysisの調査によると、世界の合成燃料 (e-fuel) の市場規模は、現在の688億米ドルから、2035年までに2,866億米ドルへ成長し、予測期間におけるCAGRは15.34％と推定されています",
+    "url": "https://www.gii.co.jp/report/root1883715-e-fuels-market-till-distribution-by-type-fuel-type.html",
+    "pass": 3
+   },
+   {
+    "quote": "Global Market Insights Inc.の最新調査によると、市場規模は 2026年の 1,784億米ドルから 2035年には 4,321億米ドルに拡大し、年平均成長率（CAGR）は 10.3%に達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/biofuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR、2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/biofuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "同社は 2027年までに 2.2 Mt/年へ拡大する戦略も進めている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/biofuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、既存のパイプラインインフラを活用し、2025年には United のハブ空港など、米国の航空会社向け供給も拡大した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/biofuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "バイオディーゼルを基盤とするバイオ燃料業界は、2025年に市場シェア 50.1%を占め、2035年までに年平均成長率（CAGR）10.5%で成長すると見込まれる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/biofuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "バイオディーゼルバイオ燃料市場は、2035年まで年平均成長率（CAGR）9.9%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/biofuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、CI目標（2030年までにCIを30%削減する目標など）が明確化され、クリーン燃料インフラへの支援が拡大した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/biofuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、2026〜2035年に年平均成長率（CAGR）33%で拡大し、2035年には104億8,000万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR）（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "e-ケロシンは2035年までに36.7億米ドルに達し、2026〜2035年に年平均成長率（CAGR）35.7%で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "航空用途は、2026〜2035年に年平均成長率（CAGR）36.5%で拡大し、2035年には39.8億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "eRWGSは2035年までに39.8億米ドルを生み出し、年平均成長率（CAGR）38.0%で成長すると予測される（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "太陽光発電を活用した生産は、2035年までに47.2億米ドルを生み出し、2026〜2035年に年平均成長率（CAGR）35.3%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Spherical Insights & Consulting が公表したリサーチレポートによると、Global Alternative Fuels Market size は、2025 年 USD 0.31 Billion から 2035 年までに USD 0.82 Billion から 2035 年までの予測期間で 10.2% の CAGR で成長する予定です 2026-2035",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-alternative-fuels-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "Spherical Insights & Consulting が公表したリサーチレポートによると、Global Alternative Fuels Marketsize は、2025 年 USD 0.31 Billion から 2035 年までに USD 0.82 Billion から 2035 年までの予測期間で 10.2% の CAGR で成長する予定です",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-alternative-fuels-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "市場は2026と2035の間の10.2%のCAGRで拡大する予定です",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-alternative-fuels-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "マイルストーンは、ジョイントベンチャーのポートフォリオを15の運用RNGプロジェクトに拡大し、米国酪農RNGの大手プロデューサーとしての地位を強化しました",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-alternative-fuels-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "2026年、リライアンス・インダストリーズは、バイオエネルギーポートフォリオを拡大し、2030年までに500以上のCBGプラントの開発と目標を達成し、再生可能エネルギー代替燃料の交換を支援しました",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-alternative-fuels-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "2.交通におけるバイオ燃料の利用拡大",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-alternative-fuels-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "3.グリーン水素の拡大",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-alternative-fuels-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "・国内調達ベースのカーボンニュートラル燃料の市場規模は、金額ベースで2030年度の2兆9,950億円から、2050年度には14兆7,500億円に拡大する",
+    "url": "https://www.ipros.com/cg1/%E7%87%83%E6%96%99/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の自動車向けバイオエタノール消費量は、2025年の1億2,865.9万kLから、2030年に1億5,971.8万kL、2035年には1億8,621.8万kLへ拡大すると予測します",
+    "url": "https://www.yano.co.jp/market_reports/C68107100?srsltid=AYCX9vIzTgXxmMXym7VbhGN8yvhu2Hpn4CI-na2r0dDNIRsEFOXgP8NJ",
+    "pass": 3
+   },
+   {
+    "quote": "2025年比では2030年に24.1％増、2035年に44.7％増となり、2025～2030年の年平均成長率（CAGR）は4.4％となる見通しです",
+    "url": "https://www.yano.co.jp/market_reports/C68107100?srsltid=AYCX9vIzTgXxmMXym7VbhGN8yvhu2Hpn4CI-na2r0dDNIRsEFOXgP8NJ",
+    "pass": 3
+   },
+   {
+    "quote": "自動車向けバイオディーゼル消費量は、2025年の6,598.0万kLから、2030年に1億784.6万kL、2035年には1億3,973.1万kLへ拡大すると予測します",
+    "url": "https://www.yano.co.jp/market_reports/C68107100?srsltid=AYCX9vIzTgXxmMXym7VbhGN8yvhu2Hpn4CI-na2r0dDNIRsEFOXgP8NJ",
+    "pass": 3
+   },
+   {
+    "quote": "また、自動車向け水素需要は、2025年の17.0万tから、2030年に69.7万t、2035年には168.3万tへ拡大すると予測します",
+    "url": "https://www.yano.co.jp/market_reports/C68107100?srsltid=AYCX9vIzTgXxmMXym7VbhGN8yvhu2Hpn4CI-na2r0dDNIRsEFOXgP8NJ",
+    "pass": 3
+   },
+   {
+    "quote": "米国RFS・45Z、EUのREDⅢ、英国RTFO、インドのE20、インドネシアのB40・B50など、各国の義務混合率、低炭素燃料規制、税制・補助制度を整理し、需要拡大への影響を分析しています",
+    "url": "https://www.yano.co.jp/market_reports/C68107100?srsltid=AYCX9vIzTgXxmMXym7VbhGN8yvhu2Hpn4CI-na2r0dDNIRsEFOXgP8NJ",
+    "pass": 3
+   },
+   {
+    "quote": "Ａ：世界の自動車向けバイオエタノール消費量は、2025年の1億2,865.9万kLから、2030年に1億5,971.8万kL、2035年には1億8,621.8万kLへ拡大すると予測しています",
+    "url": "https://www.yano.co.jp/market_reports/C68107100?srsltid=AYCX9vIzTgXxmMXym7VbhGN8yvhu2Hpn4CI-na2r0dDNIRsEFOXgP8NJ",
+    "pass": 3
+   },
+   {
+    "quote": "Ａ：乗用FCEVの大量普及ではなく、年間走行距離と1台当たりの水素消費量が大きいFCトラック・バスを中心に拡大すると予測しています",
+    "url": "https://www.yano.co.jp/market_reports/C68107100?srsltid=AYCX9vIzTgXxmMXym7VbhGN8yvhu2Hpn4CI-na2r0dDNIRsEFOXgP8NJ",
+    "pass": 3
+   },
+   {
+    "quote": "図表 23 バイオエタノール拡大に寄与する政策・規制",
+    "url": "https://www.yano.co.jp/market_reports/C68107100?srsltid=AYCX9vIzTgXxmMXym7VbhGN8yvhu2Hpn4CI-na2r0dDNIRsEFOXgP8NJ",
+    "pass": 3
+   },
+   {
+    "quote": "図表 110 バイオエタノール導入拡大に向けた課題",
+    "url": "https://www.yano.co.jp/market_reports/C68107100?srsltid=AYCX9vIzTgXxmMXym7VbhGN8yvhu2Hpn4CI-na2r0dDNIRsEFOXgP8NJ",
+    "pass": 3
+   },
+   {
+    "quote": "図表 183 マツダのバイオ燃料需給拡大に向けた取り組み構想",
+    "url": "https://www.yano.co.jp/market_reports/C68107100?srsltid=AYCX9vIzTgXxmMXym7VbhGN8yvhu2Hpn4CI-na2r0dDNIRsEFOXgP8NJ",
+    "pass": 3
+   },
+   {
+    "quote": "2026年版 カーボンニュートラル燃料（脱炭素燃料）マーケット ～足元で拡大するモビリティ用途のバイオ燃料の現状と中長期展望～",
+    "url": "https://www.yano.co.jp/market_reports/C68107100?srsltid=AYCX9vIzTgXxmMXym7VbhGN8yvhu2Hpn4CI-na2r0dDNIRsEFOXgP8NJ",
+    "pass": 3
+   },
+   {
+    "quote": "C68105500 2026年版 カーボンニュートラル燃料（脱炭素燃料）マーケット ～足元で拡大するモビリティ用途のバイオ燃料の現状と中長期展望～",
+    "url": "https://www.yano.co.jp/market_reports/C68107100?srsltid=AYCX9vIzTgXxmMXym7VbhGN8yvhu2Hpn4CI-na2r0dDNIRsEFOXgP8NJ",
+    "pass": 3
+   },
+   {
+    "quote": "我が国では、ガソリンにおいては、2030年度までに、一部地域における直接混合も含めたバイオエタノールの導入拡大を通じて、最大濃度10％の低炭素ガソリンの供給開始を目指しています",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "pass": 3
+   },
+   {
+    "quote": "その上で、2040年度から、対応車両の普及状況やサプライチェーンの対策状況などを見極め、対象地域や規模の拡大を図りながら、最大濃度20％の低炭素ガソリンの供給開始を追求します",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "pass": 3
+   },
+   {
+    "quote": "上記方針を踏まえ、2025年6月10日に、総合エネルギー調査会 資源・燃料分科会 脱炭素燃料政策小委員会において、ガソリンへのバイオエタノール導入拡大に向けたアクションプランを策定しました",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "pass": 3
+   },
+   {
+    "quote": "バイオエタノールの導入拡大をめざして、課題解決のアクションプラン策定（2025年7月25日）",
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、その後トウモロコシの生産量・在庫量が減少し、価格が上昇したことを受け、「第11次5カ年（2006～2010年）規画」以降は穀物由来の燃料エタノール（以下、穀物エタノール）の拡大は一時停止され、その代わりに非穀物由来の燃料エタノール（以下、非穀物エタノール）の実証プロジェクトが広西チワン族自治区、内モンゴル自治区、山東省、河南省などで進められた",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/fad39afbde220db7.html",
+    "pass": 3
+   },
+   {
+    "quote": "2017年には全国で「国V基準」のクリーン燃料の義務化により、ガソリンにはE10（10％のエタノールを混合）、ディーゼルにはB5（5％のバイオディーゼルを混合）といった再生可能燃料混合も含めて供給が開始されたが、穀物エタノールは適度にとどめ、総量は厳格に管理し、非穀物エタノールの拡大を推進する方針が打ち出された",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/fad39afbde220db7.html",
+    "pass": 3
+   },
+   {
+    "quote": "米国のバイオエタノール生産者団体である再生可能燃料協会（RFA）の統計によれば、中国は2024年時点で米国、ブラジル、インド、EUに次ぐ世界第5位の燃料エタノール生産国であるものの、2025年の中国の燃料エタノール生産量は前年比11.3％減の約43億リットルと推定され、消費量も同じく約43億リットルへ減少するとの見通しが示された（図1参照）",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/fad39afbde220db7.html",
+    "pass": 3
+   },
+   {
+    "quote": "中国の海関（税関）統計を基に、中国産バイオディーゼルの輸出量の推移を国・地域別に見ると、対EU輸出は、暫定AD税の影響で2024年は前年比58.3％減の約78万トンに急減した（表1参照）",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/fad39afbde220db7.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には正式なAD税が適用されたことで、対EU輸出はさらに縮小し、前年比60.2％減の約31万トンに落ち込んだ",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/fad39afbde220db7.html",
+    "pass": 3
+   },
+   {
+    "quote": "対マレーシア輸出は、2024年に前年比約4.4倍の9万5,000トン、2025年にはさらに2.4倍の22万8,000トンと急増した",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/fad39afbde220db7.html",
+    "pass": 3
+   },
+   {
+    "quote": "対シンガポール輸出も、2024年は前年から約4.8倍の16万9,000トン、2025年には6.8％増の18万1,000トンに拡大した",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/fad39afbde220db7.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、2023年11月には、国家能源局が地方政府や関連企業を対象に「バイオディーゼル普及応用パイロット示範の通知」を発表し、国内での利用拡大や政策体系の構築を目的としたパイロット事業の申請を促した",
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/fad39afbde220db7.html",
+    "pass": 3
+   },
+   {
+    "quote": "合成燃料市場は、2032年までにCAGR5.98％で781億9,000万米ドル規模に成長すると予測されております",
+    "url": "https://newscast.jp/news/9362485",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR（%） 5.98％",
+    "url": "https://newscast.jp/news/9362485",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRは5.98%です",
+    "url": "https://newscast.jp/news/9362485",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "合成燃料市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "合成燃料市場の規模、シェア、トレンド分析レポート：製造方法別（フィッシャー・トロプシュ合成、メタノールからガソリン（MTG）、電気分解法）、用途別（ガソリン、ディーゼル、ジェット燃料、その他）、エンドユーザー別（輸送、発電、産業、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、2025年に36.8%の市場シェアを占め、合成燃料市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の合成燃料市場において、最大のシェアを占める地域はどこだったでしょうか？",
+    "url": "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は2025年に36.8%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "合成ガス市場規模、シェア、成長率、機会、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "木炭ブリケット市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "固体再生燃料市場の規模、シェア、成長率、2034年",
+    "url": "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "微生物燃料電池市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "燃料電池市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "バイオマス発電市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の合成燃料市場の規模、シェア、COVID-19の影響分析、原材料別(石炭液化、バイオマス液化、ガス液化)、タイプ別(合成ガソリン、合成ディーゼル、合成灯油)、用途別(輸送、産業部門、発電)、地域別(北米、ヨーロッパ、アジア太平洋、ラテンアメリカ、中東、アフリカ)、2023～2033年の分析と予測",
+    "url": "https://www.sphericalinsights.com/jp/reports/synthetic-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "規模、シェア、および COVID-19 の影響分析、原材料別 (石炭から液体への変換、バイオマスから液体への変換、ガスから液体への変換)、タイプ別 (合成ガソリン、合成ディーゼル、合成灯油)、アプリケーション別 (輸送、産業部門、発電)、および地域別 (北米、ヨーロッパ、アジア太平洋、ラテンアメリカ、中東、アフリカ)、分析と予測 2023 ～ 2033」に関するレポートから、180 ページにわたる 110 の市場データ表と図表を含む主要な業界の洞察を参照してください",
+    "url": "https://www.sphericalinsights.com/jp/reports/synthetic-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "合成燃料 (e-fuel) 市場 | 市場規模 シェア 分析 成長性 2035年 【市場調査レポート】",
+    "url": "https://www.gii.co.jp/report/root1883715-e-fuels-market-till-distribution-by-type-fuel-type.html",
+    "pass": 3
+   },
+   {
+    "quote": "バイオ燃料市場 サイズとシェア 2026 - 2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/biofuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "POET LLC は 2025年に 8%超の市場シェアを占め、市場をリードしました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/biofuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "本市場の上位 5 社には、",
+    "url": "https://www.gminsights.com/ja/industry-analysis/biofuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "バイオディーゼルを基盤とするバイオ燃料業界は、2025年に市場シェア 50.1%を占め、2035年までに年平均成長率（CAGR）10.5%で成長すると見込まれる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/biofuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "輸送用途は2025年に77.7%の市場シェアを占め、2035年まで年平均成長率（CAGR）9.5%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/biofuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国は2025年、北米バイオ燃料市場で約93%のシェアを占め、市場収益は546億米ドルに達した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/biofuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "バイオ燃料業界の上位5社であるNeste Corporation、POET LLC.、ADM、Cargill、Wilmar Internationalは、2025年に30%超の市場シェアを占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/biofuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場シェア 8%",
+    "url": "https://www.gminsights.com/ja/industry-analysis/biofuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "合計市場シェア 30%",
+    "url": "https://www.gminsights.com/ja/industry-analysis/biofuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年にバイオ燃料業界で最大のシェアを占めた燃料セグメントはどれですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/biofuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "バイオディーゼル部門は、ドロップイン型再生可能燃料への旺盛な需要と、ライフサイクル全体で見た炭素クレジットの採算性の高さを背景に、2025年に50.1%の市場シェアを占め、業界をリードした",
+    "url": "https://www.gminsights.com/ja/industry-analysis/biofuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年に輸送用途セグメントが占めた市場シェアはどの程度でしたか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/biofuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "e-fuel市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場の上位5社は、",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "EU規則2023/2405は、2030年以降、EU域内の空港で供給される全燃料に占める合成e-fuelの割合を最低1.2%とすることを義務付けている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "合成エタノールは2025年に市場収益の4.0%を占め、2035年には6億2,880万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "その他のe-fuel製品は、2025年に市場収益の4.0%を占め、2035年には5.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "海運用途の市場規模は2025年に1億6,530万米ドルで、2035年には市場収益の25.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "用途別E-Fuel市場シェア、2025年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車用途は2025年の収益の10.0%を占め、2035年までに12.6億米ドルを生み出すと予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "その他の用途は2025年の収益の5.0%を占め、2035年までに7億3,360万米ドルを生み出すと予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "フィッシャー・トロプシュ技術は2025年に2億5,240万米ドルを生み出し、2035年までに市場収益の48.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "その他の転換技術は2025年の収益の15.0%を占め、2035年には14.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "風力を利用した生産は2025年に2億6,980万米ドルを生み出し、2035年までに市場収益の55.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "地域別E-Fuel市場シェア（2025年・2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "カナダは2025年の北米売上高の27.3%を占め、2026〜2035年に年平均成長率（CAGR）35.9%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジアパシフィックは、2025年に代替燃料市場を約43.6%の市場シェアで支配しました",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-alternative-fuels-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "世界の代替燃料市場規模, シェア, タイプ別 (天然ガス, バイオディーゼル, エタノール, 水素, その他), 車両タイプ別 (旅客車, 軽商用車, 重商用車, その他), エンドユースによる (輸送, 産業, 発電, その他), 地域別 (北アメリカ, ヨーロッパ, アジアパシフィック, ラテンアメリカ, 中東・アフリカ), 分析および予測 2026–2035.",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-alternative-fuels-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "図表 4 米国のバイオエタノール輸出上位10カ国（2025年）",
+    "url": "https://www.yano.co.jp/market_reports/C68107100?srsltid=AYCX9vIzTgXxmMXym7VbhGN8yvhu2Hpn4CI-na2r0dDNIRsEFOXgP8NJ",
+    "pass": 3
+   },
+   {
+    "quote": "図表 78 EU各国の燃料別販売量・E10シェア",
+    "url": "https://www.yano.co.jp/market_reports/C68107100?srsltid=AYCX9vIzTgXxmMXym7VbhGN8yvhu2Hpn4CI-na2r0dDNIRsEFOXgP8NJ",
+    "pass": 3
+   },
+   {
+    "quote": "図表 79 フランスのE85消費量・シェア",
+    "url": "https://www.yano.co.jp/market_reports/C68107100?srsltid=AYCX9vIzTgXxmMXym7VbhGN8yvhu2Hpn4CI-na2r0dDNIRsEFOXgP8NJ",
+    "pass": 3
+   },
+   {
+    "quote": "排出量（10億3700万トン）のうち、運輸部門からの排出量（1億9180万トン）は18.5％を占めている",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "排出量が8609万トン（自動車全体に占める割合は44.9％）、営業用貨物車が4142万トン（21.6％）、自家用貨物車が3150万トン（16.4％）、バスが333万トン（1.2％）、タクシーが140万トン（0.7％）、二輪車が78万トン（0.4％）である",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "2030年時点で世界の電動車（BEV、FCEV、PHEV、HEV）が占める割合は32％まで増加する",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "335億トンのうち約7億トンであり、国際海運は約2.1％を占めている",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "排出量335億トンのうち国際航空が約6億トンであり、その占める割合は約1.8％である",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "排出量970万トンは、運輸部門の5.1％を占めている",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "削減効果が最も大きく、全体の60～70％を占めると推計されている",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "その後、2018年度で、都市ガスの原料に占める輸入LNGの割合は91.7％に達した",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "を占めており、国内のLNG基地において民間の極低温LNGタンクに2週間分程度、約300万トンが備蓄されている",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "家庭用・商業用のシェアは、2000年代に入ると頭打ち",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "の状況となり、2021年には商業用は9.0％、家庭用24.1％とシェアを大きく落としている点である",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "工業用のシェアは急拡大し、2006年度には50％を上回り",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "market share in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/e-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top 5 players in this market include",
+    "url": "https://www.gminsights.com/industry-analysis/e-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "EU Regulation 2023/2405 requires synthetic e-fuels to constitute a minimum 1.2% share of all fuel supplied at EU airports from 2030",
+    "url": "https://www.gminsights.com/industry-analysis/e-fuel-market",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "業界が性能を損なうことなく二酸化炭素排出量の削減を目指す中、主要企業がこの需要に応えるべく先進的な生産技術に投資しており、ディーゼル燃料セグメントは今後も成長が見込まれます",
+    "url": "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場における主要企業は、アウディAG、ロイヤル・ダッチ・シェルPlc、エクソンモービル・コーポレーション、サソル・リミテッド、ペトロチャイナ・カンパニー・リミテッドである",
+    "url": "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/jp/reports/synthetic-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "当レポートでは、世界の合成燃料 (e-fuel) の市場を調査し、 市場概要、背景、市場影響因子の分析、市場規模の推移・予測、各種区分・地域別の詳細分析、競合情勢、主要企業のプロファイルなどをまとめています",
+    "url": "https://www.gii.co.jp/report/root1883715-e-fuels-market-till-distribution-by-type-fuel-type.html",
+    "pass": 3
+   },
+   {
+    "quote": "第8章 主要企業の包括的データベース",
+    "url": "https://www.gii.co.jp/report/root1883715-e-fuels-market-till-distribution-by-type-fuel-type.html",
+    "pass": 3
+   },
+   {
+    "quote": "バイオ燃料市場の主要企業",
+    "url": "https://www.gminsights.com/ja/industry-analysis/biofuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "バイオ燃料業界で事業を展開する主要企業は以下のとおりである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/biofuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Cargill は、原料供給とバイオディーゼル生産を通じてバイオ燃料市場を支える主要企業であり、複数地域における再生可能燃料の成長に寄与している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/biofuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "バイオ燃料業界の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/biofuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "業界で事業を展開する主要企業には、Neste Corporation、POET LLC、ADM、Cargill、Wilmar International、Chevron Corporation、TotalEnergies、UPM、Verbio、Praj Industries などが挙げられます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/biofuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/biofuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "E-Fuel市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "E-Fuel市場の主要企業として、European Energy/Kassø、INERATEC、Infinium、Nordic Ren-Gas、P2X Solutionsなどが挙げられる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-alternative-fuels-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "インド油株式会社、リライアンス・インダストリーズ、中国石油化学株式会社(Sinopec)、ENEOS(ENEOS)は、地域の代替燃料エコシステムに貢献する主要企業です",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-alternative-fuels-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "レポートは、グローバル・オルタナティブ・フューエルズ・マーケットで稼働している主要企業の詳細な分析を提供します",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-alternative-fuels-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "ネスト株式会社、Valero Energy Corporation、Shell plc、Eni S.p.A.、Chevron Corporationなどの主要企業は、再生可能エネルギー燃料生産および低炭素エネルギーソリューションへの投資を通じた市場開拓を支援しています",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-alternative-fuels-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "自動車向けカーボンニュートラル燃料の世界市場について、政策・制度、原料・製造技術、コスト、車両適合、主要企業の事業戦略、市場規模予測を網羅した市場調査資料です",
+    "url": "https://www.yano.co.jp/market_reports/C68107100?srsltid=AYCX9vIzTgXxmMXym7VbhGN8yvhu2Hpn4CI-na2r0dDNIRsEFOXgP8NJ",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業24社のCN燃料戦略を収録",
+    "url": "https://www.yano.co.jp/market_reports/C68107100?srsltid=AYCX9vIzTgXxmMXym7VbhGN8yvhu2Hpn4CI-na2r0dDNIRsEFOXgP8NJ",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の事業ポートフォリオや戦略修正を把握することで、競合企業の立ち位置、投資の重点領域、提携候補、技術・燃料供給パートナーを抽出できます",
+    "url": "https://www.yano.co.jp/market_reports/C68107100?srsltid=AYCX9vIzTgXxmMXym7VbhGN8yvhu2Hpn4CI-na2r0dDNIRsEFOXgP8NJ",
+    "pass": 3
+   },
+   {
+    "quote": "図表 117 主要企業によるHVO／RDの展開",
+    "url": "https://www.yano.co.jp/market_reports/C68107100?srsltid=AYCX9vIzTgXxmMXym7VbhGN8yvhu2Hpn4CI-na2r0dDNIRsEFOXgP8NJ",
+    "pass": 3
+   },
+   {
+    "quote": "合成燃料市場における主要企業はどこですか？",
+    "url": "https://newscast.jp/news/9362485",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/e-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players:",
+    "url": "https://www.gminsights.com/industry-analysis/e-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "E-Fuel Market Share & Competitive Landscape",
+    "url": "https://www.gminsights.com/industry-analysis/e-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in E-Fuel Market?",
+    "url": "https://www.gminsights.com/industry-analysis/e-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in E-Fuel Market include European Energy/Kassø, INERATEC, Infinium, Nordic Ren-Gas, P2X Solutions.",
+    "url": "https://www.gminsights.com/industry-analysis/e-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Analysis",
+    "url": "https://market.us/report/e-fuels-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The Major Players in the Industry",
+    "url": "https://market.us/report/e-fuels-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Market Dynamics, Competitive Landscape, Recent Developments",
+    "url": "https://market.us/report/e-fuels-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://market.us/report/e-fuels-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players operating in the global E-fuels market include HIF Global, Sunfire GmbH, and Liquid Wind AB, among others.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/e-fuel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, volume forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/e-fuel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/e-fuel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the e-fuel market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/e-fuel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players operating in the global e-fuel market include Arcadia eFuels, Electrochaea GmbH, ExxonMobil Corporation, HIF Global, LanzaJet, Inc., Liquid Wind AB, Norsk e-Fuel AS, Sunfire GmbH, Synhelion SA, and Zero Petroleum, among others.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/e-fuel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.stratviewresearch.com/market-reports/e-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is highly fragmented, with over 50 players. Most of the major players compete in some of the governing factors, including price, service offerings, regional presence, etc. The following are the key players in the E-fuels market. Some of the major players provide a complete range of services,",
+    "url": "https://www.stratviewresearch.com/market-reports/e-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape and dynamics: Market share, Service portfolio, New Product Launches, etc.",
+    "url": "https://www.stratviewresearch.com/market-reports/e-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "SWOT analysis of key players (up to three players)",
+    "url": "https://www.stratviewresearch.com/market-reports/e-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Benchmarking of key players on the following parameters: Service portfolio, geographical reach, regional presence, and strategic alliances",
+    "url": "https://www.stratviewresearch.com/market-reports/e-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Norsk e-Fuel AS, Infinium Operations, LLC, Porsche AG, Saudi Arabian Oil Company (Aramco), HIF Global, LLC, Ineratec GmbH, Repsol S.A., Uniper SE, Sunfire GmbH, and Liquid Wind AB. are the leading players in the E-fuels market.",
+    "url": "https://www.stratviewresearch.com/market-reports/e-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Startups & Academia",
+    "url": "https://www.rootsanalysis.com/e-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.rootsanalysis.com/e-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "E-Fuels Market Competitive Landscape",
+    "url": "https://www.rootsanalysis.com/e-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Startups are focusing on innovation in technologies such as direct air capture technology developing integrated e-fuel production systems, and scaling up by pilot projects. These companies are competing to develop more efficient and cost-effective e-fuel production technology to secure substantial market share.",
+    "url": "https://www.rootsanalysis.com/e-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Examples of key players involved in the market for e-fuels (",
+    "url": "https://www.rootsanalysis.com/e-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Elaborate profiles of prominent players engaged in the e-fuels market, featuring information on their year of establishment, location of headquarters, company size, company mission, company footprint, management team, contact details, financial information, operating business segments, e-fuels market portfolio, moat analysis, recent developments, and an informed future outlook.",
+    "url": "https://www.rootsanalysis.com/e-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "An in-depth analysis of various patents that have been filed / granted related to e-fuels market and its components, based on various parameters, such as type of patent, patent publication year, patent age and leading players.",
+    "url": "https://www.rootsanalysis.com/e-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key winning strategies framework that helps in analyzing the level of competition within an industry, by tracing the key market activities including partnership, funding, expansion of leading players",
+    "url": "https://www.rootsanalysis.com/e-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "E-Fuel Marketの主要プレイヤーはどれですか?",
+    "url": "https://www.coherentmi.com/ja/industry-reports/%E9%9B%BB%E5%AD%90%E7%87%83%E6%96%99%E5%B8%82%E5%A0%B4-644",
+    "pass": 3
+   },
+   {
+    "quote": "アーチャー・ダニエルズ・ミッドランド(株)、バラード・パワー・システム(株)、セレス・パワー・ホールディング(株)、クリーン・フューエル・アライアンス・アメリカ(株)、クレムワークス(株)、イー・フューエル(株)、イー・フューエル・パシフィック(株)、ヘキサゴン・アジリティ(株)、ネスト・オイジ(Neste Oyj)、ノースク・エ・ファエル(株)、シーメンス(株)、アウディ・AG、サンファイヤー、カーボン・リサイクル・インターナショナル(株)、主要プレイヤー)",
+    "url": "https://www.coherentmi.com/ja/industry-reports/%E9%9B%BB%E5%AD%90%E7%87%83%E6%96%99%E5%B8%82%E5%A0%B4-644",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Analysis",
+    "url": "https://market.us/report/e-fuel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "On the international front, countries with significant renewable energy resources are emerging as key players in e-fuel production. Chile, with its abundant solar and wind power, is becoming a hub for green hydrogen and e-fuel production.",
+    "url": "https://market.us/report/e-fuel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Furthermore, startups and niche players such as Climeworks AG and Ineratec GmbH are pushing the boundaries of the e-fuel industry with cutting-edge solutions. Climeworks specializes in direct air capture technology to supply carbon dioxide for synthetic fuel production, a critical component in creating carbon-neutral fuels.",
+    "url": "https://market.us/report/e-fuel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players",
+    "url": "https://market.us/report/e-fuel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Market Dynamics, Competitive Landscape, Recent Developments",
+    "url": "https://market.us/report/e-fuel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://market.us/report/e-fuel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/e-fuel-market-25306",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "合成燃料市場規模 、シェア、成長率、分析、レポート（2034 ... — 合成燃料市場規模 、シェア、成長率、分析、レポート（2034 ... Straits Research https://straitsresearch.com > エネルギーと電力 > バイオ燃料",
+    "url": "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "合成燃料市場規模 、業界シェア、2034年までの予測 — 合成燃料市場規模 、業界シェア、2034年までの予測 Fortune Business Insights https://www.fortunebusinessinsights.com > 業界-レポート",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E5%90%88%E6%88%90%E7%87%83%E6%96%99%E5%B8%82%E5%A0%B4-101497",
+    "pass": 3
+   },
+   {
+    "quote": "合成燃料市場 の分析、需要、2033年までの予測 — 合成燃料市場 の分析、需要、2033年までの予測 Spherical Insights https://www.sphericalinsights.com > Energy & Power",
+    "url": "https://www.sphericalinsights.com/jp/reports/synthetic-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "合成燃料 (e-fuel) の世界 市場 (～2035年) — 合成燃料 (e-fuel) の世界 市場 (～2035年) グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > ... > エネルギー/環境 > 化石燃料",
+    "url": "https://www.gii.co.jp/report/root1883715-e-fuels-market-till-distribution-by-type-fuel-type.html",
+    "pass": 3
+   },
+   {
+    "quote": "合成燃料市場 規模、 シェア 、成長率、分析、レポート（2034 ... — 合成燃料市場 規模、 シェア 、成長率、分析、レポート（2034 ... Straits Research https://straitsresearch.com > エネルギーと電力 > バイオ燃料",
+    "url": "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "e-fuel 市場 規模・予測レポート 2026〜2035年 — e-fuel 市場 規模・予測レポート 2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > e-fuel-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "合成燃料市場 規模、業界 シェア 、2034年までの予測 — 合成燃料市場 規模、業界 シェア 、2034年までの予測 Fortune Business Insights https://www.fortunebusinessinsights.com > 業界-レポート",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E5%90%88%E6%88%90%E7%87%83%E6%96%99%E5%B8%82%E5%A0%B4-101497",
+    "pass": 3
+   },
+   {
+    "quote": "合成燃料市場 規模、シェア、成長率、分析、レポート（2034 ... — 合成燃料市場 規模、シェア、成長率、分析、レポート（2034 ... Straits Research https://straitsresearch.com > エネルギーと電力 > バイオ燃料",
+    "url": "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "合成燃料市場 規模、業界シェア、2034年までの予測 — 合成燃料市場 規模、業界シェア、2034年までの予測 Fortune Business Insights https://www.fortunebusinessinsights.com > 業界-レポート",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E5%90%88%E6%88%90%E7%87%83%E6%96%99%E5%B8%82%E5%A0%B4-101497",
+    "pass": 3
+   },
+   {
+    "quote": "E - fuels Market Report 2025 -2030 [269 Pages & 281 Tables] — E - fuels Market Report 2025 -2030 [269 Pages & 281 Tables] MarketsandMarkets https://www.marketsandmarkets.com > ...",
+    "url": "https://www.marketsandmarkets.com/Market-Reports/e-fuels-market-7297145.html",
+    "pass": 3
+   },
+   {
+    "quote": "E - Fuel Market Size , Forecasts Report 2026-2035 — E - Fuel Market Size , Forecasts Report 2026-2035 Global Market Insights Inc. https://www.gminsights.com > e-fuel-...",
+    "url": "https://www.gminsights.com/industry-analysis/e-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "E - fuels Market Size , Share | CAGR of 18.31% — E - fuels Market Size , Share | CAGR of 18.31% Market.us https://market.us > e-fuels-market",
+    "url": "https://market.us/report/e-fuels-market/",
+    "pass": 3
+   },
+   {
+    "quote": "E - fuel Market Size , Share & Forecast Analysis Report 2034 — E - fuel Market Size , Share & Forecast Analysis Report 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/e-fuel-market-109586",
+    "pass": 3
+   },
+   {
+    "quote": "E - Fuel Market Size , Share And Growth Report, 2026-2050 — E - Fuel Market Size , Share And Growth Report, 2026-2050 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/e-fuel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "E - fuels Market to Reach $66.25 Billion, at a 22.0% CAGR by ... — E - fuels Market to Reach $66.25 Billion, at a 22.0% CAGR by ... Yahoo Finance https://finance.yahoo.com > articles",
+    "url": "https://finance.yahoo.com/energy/articles/e-fuels-market-reach-66-133000852.html",
+    "pass": 3
+   },
+   {
+    "quote": "E - fuel Market Size, Share & Forecast Analysis Report 2034 — E - fuel Market Size, Share & Forecast Analysis Report 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/e-fuel-market-109586",
+    "pass": 3
+   },
+   {
+    "quote": "E - fuels Market worth $66.25 billion by 2030 — E - fuels Market worth $66.25 billion by 2030 MarketsandMarkets https://www.marketsandmarkets.com > ...",
+    "url": "https://www.marketsandmarkets.com/PressReleases/e-fuels.asp",
+    "pass": 3
+   },
+   {
+    "quote": "E - Fuels Market Size, Share , Trends, & Insights Report, 2035 — E - Fuels Market Size, Share , Trends, & Insights Report, 2035 Roots Analysis https://www.rootsanalysis.com > e-fue...",
+    "url": "https://www.rootsanalysis.com/e-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "E - Fuel Market Size, Opportunities YoY Growth Rate, 2032 — E - Fuel Market Size, Opportunities YoY Growth Rate, 2032 CoherentMI https://www.coherentmi.com > e-fuel-...",
+    "url": "https://www.coherentmi.com/industry-reports/e-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "E - fuel Market Size, Share | CAGR of 23.6% — E - fuel Market Size, Share | CAGR of 23.6% Market.us https://market.us > e-fuel-market",
+    "url": "https://market.us/report/e-fuel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "E - Fuels Market Size, Share, Trends, & Insights Report, 2035 — E - Fuels Market Size, Share, Trends, & Insights Report, 2035 Roots Analysis https://www.rootsanalysis.com > e-fue...",
+    "url": "https://www.rootsanalysis.com/e-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "US E - fuels Market (2025-2030) - MarketsandMarkets — US E - fuels Market (2025-2030) - MarketsandMarkets MarketsandMarkets https://www.marketsandmarkets.com > ...",
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/e-fuels-market/US",
+    "pass": 3
+   },
+   {
+    "quote": "E - Fuel Market Size, Growth, Trends, Report 2035 — E - Fuel Market Size, Growth, Trends, Report 2035 Market Research Future https://www.marketresearchfuture.com > ...",
+    "url": "https://www.marketresearchfuture.com/reports/e-fuel-market-25306",
+    "pass": 3
+   },
+   {
+    "quote": "E - Fuel Market Size, Share And Growth Report, 2026-2050 — E - Fuel Market Size, Share And Growth Report, 2026-2050 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/e-fuel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "US e - Fuels Market Size, Trends, Share , Forecast 2025 - 2034 — US e - Fuels Market Size, Trends, Share , Forecast 2025 - 2034 Custom Market Insights https://www.custommarketinsights.com > ...",
+    "url": "https://www.custommarketinsights.com/report/us-e-fuels-market/",
+    "pass": 3
+   },
+   {
+    "quote": "E - fuels Market Size, Share | CAGR of 18.31% — E - fuels Market Size, Share | CAGR of 18.31% Market.us https://market.us > e-fuels-market",
+    "url": "https://market.us/report/e-fuels-market/",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "出資者数 2",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_03_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出資者数 12",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_03_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出資者数 11",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_03_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出資者数 10",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_03_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出資者数 23",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_03_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "*2022年、6百万ユーロ出資",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_03_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出資者数 21",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_03_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出資者数 39",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_03_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出資者数 3",
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_03_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年5月には、米国やチリ、ウルグアイに工場建設を計画する米国HIFグローバル社に約180億円を出資すると表明",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "HIFグローバルへ１億1400万米ドルの出資を発表",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "と水素からe-メタノールを合成する技術を有し、中国の麦芬隆上海環境工程技術（MFES）に出資して、2022年9月から商業運転（11万トン/年）を開始している",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年5月、丸紅は、MFESとMFESが出資し販売権を有する安陽順利環保科技（順利）が製造する",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "Terreva Renewables（テレヴァ・リニューアブルズ）へ33.3％を出資",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年3月、ポルトガルのガス配送でシェア7割超のFloene（丸紅と東邦ガス共同で22.5％出資）を通じ、太陽光発電で地元企業が製造したグリーン水素を、",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年8月、丸紅が出資する液化天然ガス事業の合弁会社PERU LNG （ペルーLNG）は、大阪ガスと共に、",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "を原料に、2030年までに最大20万トン/年の合成メタンを製造し、同社が出資する南部テキサス州のフリーポートLNG基地にパイプラインで送り、液化してLNG船で大阪府や兵庫県内の都市ガス供給拠点まで輸送する",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "pass": 3
+   },
+   {
+    "quote": "if stronger projects secure final investment decisions in 2026 or 2027. This gap shows that the e-fuels industry has technical momentum but remains constrained by project delays, uncertain buyers and high financing costs.",
+    "url": "https://market.us/report/e-fuels-market/",
+    "pass": 3
+   },
+   {
+    "quote": ". Nonetheless, because mineral extraction, refining capacity, and electrolyzer factories operate with multi-year investment cycles and permitting processes commonly exceeding 36 months, this bottleneck remains a long-horizon operational challenge that steadily erodes growth potential rather than a discrete restraint.",
+    "url": "https://market.us/report/e-fuels-market/",
+    "pass": 3
+   },
+   {
+    "quote": "of LNG supply per day in 2026. These shocks can improve the investment case for e-fuels, especially in aviation, shipping and defence, where fuel security is critical.",
+    "url": "https://market.us/report/e-fuels-market/",
+    "pass": 3
+   },
+   {
+    "quote": "European eSAF projects were awaiting investment decisions in December 2025. Therefore, conflict creates near-term cost pressure but stronger strategic demand.",
+    "url": "https://market.us/report/e-fuels-market/",
+    "pass": 3
+   },
+   {
+    "quote": "of e-fuels will be required for aviation and waterborne transport by 2035, strengthening long-term investment visibility for regional producers and technology suppliers over time.",
+    "url": "https://market.us/report/e-fuels-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Hydrogen technology based on electrolysis held the largest share in 2025, reflecting its central role in the value chain. Electrolysis is the primary source of green hydrogen, a crucial feedstock to produce synthetic fuels. Widespread investments in electrolyzer manufacturing, supportive government policies, and declining costs of renewable power have reinforced its dominance.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/e-fuel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "In 2023, Siemens Energy partnered with Liquid Wind to develop eMethanol facilities aimed at cutting shipping emissions, offering investment, technology, and expertise. In April 2022, Mitsubishi Heavy Industries extended its partnership with California-based Infinium to explore introducing its electrofuels technology to the Japanese market.",
+    "url": "https://www.stratviewresearch.com/market-reports/e-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "secured EUR 70 million in funding, EUR 40 million from the EIB and EUR 30 million from Breakthrough Energy Catalyst to build Europe’s largest sustainable e-fuel plant in Frankfurt and advance e-fuel R&D for aviation decarbonization. Overall, the emerging trends of mega projects and growing focus on sustainable",
+    "url": "https://www.rootsanalysis.com/e-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "In 2024, global investments in green",
+    "url": "https://market.us/report/e-fuel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "In 2023, significant numbers indicate the impact of these policies on the industry. The International Energy Agency (IEA) reports that global investment in renewable energy production, including e-fuels, has surged, with an estimated",
+    "url": "https://market.us/report/e-fuel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "allocated towards renewable energy sectors by 2024. This substantial investment underscores the pivotal role of governmental and regulatory frameworks in driving the adoption of e-fuels.",
+    "url": "https://market.us/report/e-fuel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "in funding to support research and development in hydrogen and e-fuel technologies. This initiative aims to reduce the cost of green hydrogen production to under $1 per kilogram, making it a competitive alternative to conventional fuels and accelerating its market adoption.",
+    "url": "https://market.us/report/e-fuel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Infinium, a US-based e-fuel producer, secured $75 million in new funding to expand its e-fuel production facility in Texas, aiming to supply synthetic fuels to the aviation and shipping sectors.",
+    "url": "https://www.marketresearchfuture.com/reports/e-fuel-market-25306",
+    "pass": 3
+   },
+   {
+    "quote": "Q4 2024: Norsk e-Fuel secures €100 million in funding for commercial plant development",
+    "url": "https://www.marketresearchfuture.com/reports/e-fuel-market-25306",
+    "pass": 3
+   },
+   {
+    "quote": "Norsk e-Fuel raised €100 million from a consortium of investors to accelerate the construction of its commercial e-fuel plant in Norway, targeting the aviation sector.",
+    "url": "https://www.marketresearchfuture.com/reports/e-fuel-market-25306",
+    "pass": 3
+   },
+   {
+    "quote": "For example, HIF Global is investing more than USD 6 billion in its e-fuels plant, located in Texas (U.S.), to produce nearly 200,000 tons of carbon-neutral e-fuels per year from 2027, in one of the largest commercial-scale investments in the sector.",
+    "url": "https://www.snsinsider.com/reports/e-fuels-market-8516",
+    "pass": 3
+   },
+   {
+    "quote": "(SAF) is especially strong in the U.S., fuelled by federal climate policies and power-to-liquid and green hydrogen investments. In 2024, a Texas-based energy company began expanding a facility in the state dedicated to producing e-fuels in response to increasing domestic and global demand.",
+    "url": "https://www.snsinsider.com/reports/e-fuels-market-8516",
+    "pass": 3
+   },
+   {
+    "quote": "In March 2024, LanzaTech, a carbon recycling technology company, raised USD150 million in a funding round led by Suncor Energy and Mitsui & Co. The investment supported the expansion of LanzaTech's commercial-scale facilities, which convert industrial emissions into ethanol (LanzaTech press release, 2024).",
+    "url": "https://www.technavio.com/report/e-fuels-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "In May 2024, the European Union passed the Renewable Hydrogen Strategy, aiming to produce 20 million tons of renewable hydrogen annually by 2030 and 40 million tons by 2050. The strategy includes a €4 billion investment in renewable hydrogen projects and infrastructure (European Commission press release, 2024).",
+    "url": "https://www.technavio.com/report/e-fuels-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Target raised to 1.45 million tonnes a year by 2027; Maersk offtake of up to 500,000 tonnes a year",
+    "url": "https://dataintelo.com/report/e-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Final investment decision May 2025 on the 23,000 tonne a year Texas plant",
+    "url": "https://dataintelo.com/report/e-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Goldwind raised the capacity target of its Xing'an League green methanol plant in Inner Mongolia from 850,000 to 1.45 million tonnes a year by 2027.",
+    "url": "https://dataintelo.com/report/e-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Infinium took a final investment decision on Project Roadrunner, a 23,000 tonne a year e-SAF plant in Texas.",
+    "url": "https://dataintelo.com/report/e-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "11.5 Investment Scenario",
+    "url": "https://dataintelo.com/report/e-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": ": Low-emission hydrogen at operation, construction or final investment decision above 4 million tonnes a year by 2030, the pipeline cut to 37 million tonnes from 49 million and the 65 percent share of China in electrolyser capacity, used for the supply outlook and the Asia Pacific view",
+    "url": "https://dataintelo.com/report/e-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Growth to 2034 was set from mandated demand under ReFuelEU Aviation and FuelEU Maritime and from plants that are financed or under construction, checked against the IEA count of low-emission hydrogen supply that has reached a final investment decision.",
+    "url": "https://dataintelo.com/report/e-fuels-market",
+    "pass": 3
+   },
+   {
+    "quote": "Audi AG, founded in 1909 and based in Ingolstadt, Germany, is a prominent player in the automotive sector, promoting sustainable mobility through investments in e-fuels and electrification. The company is committed to decarbonising its vehicle range and minimising its environmental footprint.",
+    "url": "https://www.expertmarketresearch.com/reports/e-fuels-market",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "18.15",
+    "url": "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "quote": "世界の合成燃料市場規模は、2025年には67億6,000万米ドルと評価され、2026年の79億9,000万米ドルから2034年には303億3,000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は18.15%となる見込みです"
+   },
+   {
+    "value": "21.65",
+    "url": "https://www.sphericalinsights.com/jp/reports/synthetic-fuel-market",
+    "quote": "規模は、予測期間中に年平均成長率(CAGR)21.65%で成長し、2023年の44億2,000万米ドルから2033年には313億8,000万米ドルに達すると予想されています"
+   },
+   {
+    "value": "15.34",
+    "url": "https://www.gii.co.jp/report/root1883715-e-fuels-market-till-distribution-by-type-fuel-type.html",
+    "quote": "Roots Analysisの調査によると、世界の合成燃料 (e-fuel) の市場規模は、現在の688億米ドルから、2035年までに2,866億米ドルへ成長し、予測期間におけるCAGRは15.34％と推定されています"
+   },
+   {
+    "value": "10.3",
+    "url": "https://www.gminsights.com/ja/industry-analysis/biofuel-market",
+    "quote": "Global Market Insights Inc.の最新調査によると、市場規模は 2026年の 1,784億米ドルから 2035年には 4,321億米ドルに拡大し、年平均成長率（CAGR）は 10.3%に達すると予測されています"
+   },
+   {
+    "value": "10.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/biofuel-market",
+    "quote": "バイオディーゼルを基盤とするバイオ燃料業界は、2025年に市場シェア 50.1%を占め、2035年までに年平均成長率（CAGR）10.5%で成長すると見込まれる"
+   },
+   {
+    "value": "9.9",
+    "url": "https://www.gminsights.com/ja/industry-analysis/biofuel-market",
+    "quote": "バイオディーゼルバイオ燃料市場は、2035年まで年平均成長率（CAGR）9.9%で成長すると予測される"
+   },
+   {
+    "value": "33",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "quote": "また、2026〜2035年に年平均成長率（CAGR）33%で拡大し、2035年には104億8,000万米ドルに達すると予測される"
+   },
+   {
+    "value": "35.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "quote": "e-ケロシンは2035年までに36.7億米ドルに達し、2026〜2035年に年平均成長率（CAGR）35.7%で拡大すると予測される"
+   },
+   {
+    "value": "36.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "quote": "航空用途は、2026〜2035年に年平均成長率（CAGR）36.5%で拡大し、2035年には39.8億米ドルに達すると予測される"
+   },
+   {
+    "value": "38.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "quote": "eRWGSは2035年までに39.8億米ドルを生み出し、年平均成長率（CAGR）38.0%で成長すると予測される（2026〜2035年）"
+   },
+   {
+    "value": "35.3",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "quote": "太陽光発電を活用した生産は、2035年までに47.2億米ドルを生み出し、2026〜2035年に年平均成長率（CAGR）35.3%で成長すると予測される"
+   },
+   {
+    "value": "4.4",
+    "url": "https://www.yano.co.jp/market_reports/C68107100?srsltid=AYCX9vIzTgXxmMXym7VbhGN8yvhu2Hpn4CI-na2r0dDNIRsEFOXgP8NJ",
+    "quote": "2025年比では2030年に24.1％増、2035年に44.7％増となり、2025～2030年の年平均成長率（CAGR）は4.4％となる見通しです"
+   },
+   {
+    "value": "5.98",
+    "url": "https://newscast.jp/news/9362485",
+    "quote": "合成燃料市場は、2032年までにCAGR5.98％で781億9,000万米ドル規模に成長すると予測されております"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "36.8",
+    "url": "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "quote": "アジア太平洋地域は、2025年に36.8%の市場シェアを占め、合成燃料市場を牽引しました"
+   },
+   {
+    "value": "8",
+    "url": "https://www.gminsights.com/ja/industry-analysis/biofuel-market",
+    "quote": "POET LLC は 2025年に 8%超の市場シェアを占め、市場をリードしました"
+   },
+   {
+    "value": "50.1",
+    "url": "https://www.gminsights.com/ja/industry-analysis/biofuel-market",
+    "quote": "バイオディーゼルを基盤とするバイオ燃料業界は、2025年に市場シェア 50.1%を占め、2035年までに年平均成長率（CAGR）10.5%で成長すると見込まれる"
+   },
+   {
+    "value": "10.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/biofuel-market",
+    "quote": "バイオディーゼルを基盤とするバイオ燃料業界は、2025年に市場シェア 50.1%を占め、2035年までに年平均成長率（CAGR）10.5%で成長すると見込まれる"
+   },
+   {
+    "value": "77.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/biofuel-market",
+    "quote": "輸送用途は2025年に77.7%の市場シェアを占め、2035年まで年平均成長率（CAGR）9.5%で成長すると予測される"
+   },
+   {
+    "value": "9.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/biofuel-market",
+    "quote": "輸送用途は2025年に77.7%の市場シェアを占め、2035年まで年平均成長率（CAGR）9.5%で成長すると予測される"
+   },
+   {
+    "value": "93",
+    "url": "https://www.gminsights.com/ja/industry-analysis/biofuel-market",
+    "quote": "米国は2025年、北米バイオ燃料市場で約93%のシェアを占め、市場収益は546億米ドルに達した"
+   },
+   {
+    "value": "30",
+    "url": "https://www.gminsights.com/ja/industry-analysis/biofuel-market",
+    "quote": "バイオ燃料業界の上位5社であるNeste Corporation、POET LLC.、ADM、Cargill、Wilmar Internationalは、2025年に30%超の市場シェアを占めた"
+   },
+   {
+    "value": "1.2",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "quote": "EU規則2023/2405は、2030年以降、EU域内の空港で供給される全燃料に占める合成e-fuelの割合を最低1.2%とすることを義務付けている"
+   },
+   {
+    "value": "4.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "quote": "合成エタノールは2025年に市場収益の4.0%を占め、2035年には6億2,880万米ドルに達すると予測される"
+   },
+   {
+    "value": "5.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "quote": "その他のe-fuel製品は、2025年に市場収益の4.0%を占め、2035年には5.0%を占めると予測される"
+   },
+   {
+    "value": "25.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "quote": "海運用途の市場規模は2025年に1億6,530万米ドルで、2035年には市場収益の25.0%を占めると予測される"
+   },
+   {
+    "value": "10.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "quote": "自動車用途は2025年の収益の10.0%を占め、2035年までに12.6億米ドルを生み出すと予測される"
+   },
+   {
+    "value": "48.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "quote": "フィッシャー・トロプシュ技術は2025年に2億5,240万米ドルを生み出し、2035年までに市場収益の48.0%を占めると予測される"
+   },
+   {
+    "value": "15.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "quote": "その他の転換技術は2025年の収益の15.0%を占め、2035年には14.0%を占めると予測される"
+   },
+   {
+    "value": "14.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "quote": "その他の転換技術は2025年の収益の15.0%を占め、2035年には14.0%を占めると予測される"
+   },
+   {
+    "value": "55.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "quote": "風力を利用した生産は2025年に2億6,980万米ドルを生み出し、2035年までに市場収益の55.0%を占めると予測される"
+   },
+   {
+    "value": "27.3",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "quote": "カナダは2025年の北米売上高の27.3%を占め、2026〜2035年に年平均成長率（CAGR）35.9%で成長すると予測される"
+   },
+   {
+    "value": "35.9",
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "quote": "カナダは2025年の北米売上高の27.3%を占め、2026〜2035年に年平均成長率（CAGR）35.9%で成長すると予測される"
+   },
+   {
+    "value": "43.6",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-alternative-fuels-market-statistics-report-till-2035",
+    "quote": "アジアパシフィックは、2025年に代替燃料市場を約43.6%の市場シェアで支配しました"
+   },
+   {
+    "value": "18.5",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "quote": "排出量（10億3700万トン）のうち、運輸部門からの排出量（1億9180万トン）は18.5％を占めている"
+   },
+   {
+    "value": "44.9",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "quote": "排出量が8609万トン（自動車全体に占める割合は44.9％）、営業用貨物車が4142万トン（21.6％）、自家用貨物車が3150万トン（16.4％）、バスが333万トン（1.2％）、タクシーが140万トン（0.7％）、二輪車が78万トン（0.4％）である"
+   },
+   {
+    "value": "21.6",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "quote": "排出量が8609万トン（自動車全体に占める割合は44.9％）、営業用貨物車が4142万トン（21.6％）、自家用貨物車が3150万トン（16.4％）、バスが333万トン（1.2％）、タクシーが140万トン（0.7％）、二輪車が78万トン（0.4％）である"
+   },
+   {
+    "value": "16.4",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "quote": "排出量が8609万トン（自動車全体に占める割合は44.9％）、営業用貨物車が4142万トン（21.6％）、自家用貨物車が3150万トン（16.4％）、バスが333万トン（1.2％）、タクシーが140万トン（0.7％）、二輪車が78万トン（0.4％）である"
+   },
+   {
+    "value": "1.2",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "quote": "排出量が8609万トン（自動車全体に占める割合は44.9％）、営業用貨物車が4142万トン（21.6％）、自家用貨物車が3150万トン（16.4％）、バスが333万トン（1.2％）、タクシーが140万トン（0.7％）、二輪車が78万トン（0.4％）である"
+   },
+   {
+    "value": "0.7",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "quote": "排出量が8609万トン（自動車全体に占める割合は44.9％）、営業用貨物車が4142万トン（21.6％）、自家用貨物車が3150万トン（16.4％）、バスが333万トン（1.2％）、タクシーが140万トン（0.7％）、二輪車が78万トン（0.4％）である"
+   },
+   {
+    "value": "0.4",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "quote": "排出量が8609万トン（自動車全体に占める割合は44.9％）、営業用貨物車が4142万トン（21.6％）、自家用貨物車が3150万トン（16.4％）、バスが333万トン（1.2％）、タクシーが140万トン（0.7％）、二輪車が78万トン（0.4％）である"
+   },
+   {
+    "value": "32",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "quote": "2030年時点で世界の電動車（BEV、FCEV、PHEV、HEV）が占める割合は32％まで増加する"
+   },
+   {
+    "value": "2.1",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "quote": "335億トンのうち約7億トンであり、国際海運は約2.1％を占めている"
+   },
+   {
+    "value": "1.8",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "quote": "排出量335億トンのうち国際航空が約6億トンであり、その占める割合は約1.8％である"
+   },
+   {
+    "value": "5.1",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "quote": "排出量970万トンは、運輸部門の5.1％を占めている"
+   },
+   {
+    "value": "70",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "quote": "削減効果が最も大きく、全体の60～70％を占めると推計されている"
+   },
+   {
+    "value": "91.7",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "quote": "その後、2018年度で、都市ガスの原料に占める輸入LNGの割合は91.7％に達した"
+   },
+   {
+    "value": "9.0",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "quote": "の状況となり、2021年には商業用は9.0％、家庭用24.1％とシェアを大きく落としている点である"
+   },
+   {
+    "value": "24.1",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "quote": "の状況となり、2021年には商業用は9.0％、家庭用24.1％とシェアを大きく落としている点である"
+   },
+   {
+    "value": "50",
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "quote": "工業用のシェアは急拡大し、2006年度には50％を上回り"
+   },
+   {
+    "value": "1.2",
+    "url": "https://www.gminsights.com/industry-analysis/e-fuel-market",
+    "quote": "EU Regulation 2023/2405 requires synthetic e-fuels to constitute a minimum 1.2% share of all fuel supplied at EU airports from 2030"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E5%90%88%E6%88%90%E7%87%83%E6%96%99%E5%B8%82%E5%A0%B4-101497",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/jp/reports/synthetic-fuel-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/root1883715-e-fuels-market-till-distribution-by-type-fuel-type.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/biofuel-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-alternative-fuels-market-statistics-report-till-2035",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipros.com/cg1/%E7%87%83%E6%96%99/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_03_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://deallab.info/hydrogen/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yano.co.jp/market_reports/C68107100?srsltid=AYCX9vIzTgXxmMXym7VbhGN8yvhu2Hpn4CI-na2r0dDNIRsEFOXgP8NJ",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/biz/areareports/special/2025/1103/fad39afbde220db7.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/9362485",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.decarbonation-tech.com/intro_5010/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/e-fuels-market-7297145.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/e-fuel-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/e-fuels-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/e-fuel-market-109586",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/e-fuel-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stratviewresearch.com/market-reports/e-fuels-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/PressReleases/e-fuels.asp",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rootsanalysis.com/e-fuels-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coherentmi.com/ja/industry-reports/%E9%9B%BB%E5%AD%90%E7%87%83%E6%96%99%E5%B8%82%E5%A0%B4-644",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/e-fuel-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/e-fuels-market/US",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S0196890425010532",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/e-fuel-market-25306",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snsinsider.com/reports/e-fuels-market-8516",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchgate.net/publication/388370029_Overview_of_the_e-Fuels_Market_Projects_and_the_State_of_the_Art_of_Production_Facilities",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.custommarketinsights.com/report/us-e-fuels-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.technavio.com/report/e-fuels-market-industry-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataintelo.com/report/e-fuels-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://menafn.com/1109636647/Ten-Key-Companies-Driving-Growth-In-The-E-Fuels-Market-Highlighted-In-2025-E-Fuels-Market-Report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.expertmarketresearch.com/reports/e-fuels-market",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "合成燃料 市場規模 CAGR",
+   "results": [
+    "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E5%90%88%E6%88%90%E7%87%83%E6%96%99%E5%B8%82%E5%A0%B4-101497",
+    "https://www.sphericalinsights.com/jp/reports/synthetic-fuel-market",
+    "https://www.gii.co.jp/report/root1883715-e-fuels-market-till-distribution-by-type-fuel-type.html",
+    "https://www.gminsights.com/ja/industry-analysis/biofuel-market",
+    "https://jp.linkedin.com/pulse/%E3%82%AB%E3%83%BC%E3%83%9C%E3%83%B3%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%88%E3%83%A9%E3%83%AB%E5%90%88%E6%88%90%E7%87%83%E6%96%99e-fuels%E5%B8%82%E5%A0%B4%E6%8B%A1%E5%A4%A7%E3%81%AE%E6%8E%A8%E9%80%B2%E8%A6%81%E5%9B%A065%E3%81%AEcagr2026-203-lovre",
+    "https://www.atpress.ne.jp/news/9258118",
+    "https://newscast.jp/smart/news/3178078",
+    "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_05_00.pdf",
+    "https://www.fortunebusinessinsights.com/jp/業界-レポート/合成燃料市場-101497"
+   ]
+  },
+  {
+   "query": "合成燃料 市場 シェア 上位 企業",
+   "results": [
+    "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E5%90%88%E6%88%90%E7%87%83%E6%96%99%E5%B8%82%E5%A0%B4-101497",
+    "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-alternative-fuels-market-statistics-report-till-2035",
+    "https://www.ipros.com/cg1/%E7%87%83%E6%96%99/",
+    "https://www.meti.go.jp/shingikai/energy_environment/e_fuel/pdf/003_03_00.pdf",
+    "https://www.gii.co.jp/report/root1883715-e-fuels-market-till-distribution-by-type-fuel-type.html",
+    "https://deallab.info/hydrogen/",
+    "https://jp.linkedin.com/pulse/%E5%86%8D%E7%94%9F%E5%8F%AF%E8%83%BD%E3%83%A1%E3%82%BF%E3%83%8E%E3%83%BC%E3%83%AB%E7%87%83%E6%96%99%E4%B8%96%E7%95%8C%E3%82%B7%E3%82%A7%E3%82%A2%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0-brixentc-ec9ue",
+    "https://www.fortunebusinessinsights.com/jp/業界-レポート/合成燃料市場-101497"
+   ]
+  },
+  {
+   "query": "合成燃料 市場 前年比 2025",
+   "results": [
+    "https://straitsresearch.com/jp/report/synthetic-fuels-market",
+    "https://www.yano.co.jp/market_reports/C68107100?srsltid=AYCX9vIzTgXxmMXym7VbhGN8yvhu2Hpn4CI-na2r0dDNIRsEFOXgP8NJ",
+    "https://www.gminsights.com/ja/industry-analysis/e-fuel-market",
+    "https://www.enecho.meti.go.jp/category/resources_and_fuel/koudokahou/nextfuel.html",
+    "https://www.jetro.go.jp/biz/areareports/special/2025/1103/fad39afbde220db7.html",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E5%90%88%E6%88%90%E7%87%83%E6%96%99%E5%B8%82%E5%A0%B4-101497",
+    "https://jp.linkedin.com/pulse/synthetic-fuels-market-outlook-20252036-growth-forecast-kambale-bt1ef?tl=ja",
+    "https://newscast.jp/news/9362485",
+    "https://www.decarbonation-tech.com/intro_5010/",
+    "https://www.globalresearch.co.jp/synthetic-fuels-market/"
+   ]
+  },
+  {
+   "query": "e-fuels market size CAGR 2025",
+   "results": [
+    "https://www.marketsandmarkets.com/Market-Reports/e-fuels-market-7297145.html",
+    "https://www.gminsights.com/industry-analysis/e-fuel-market",
+    "https://market.us/report/e-fuels-market/",
+    "https://www.fortunebusinessinsights.com/e-fuel-market-109586",
+    "https://www.grandviewresearch.com/industry-analysis/e-fuel-market-report",
+    "https://finance.yahoo.com/energy/articles/e-fuels-market-reach-66-133000852.html",
+    "https://www.snsinsider.com/reports/e-fuels-market-8516",
+    "https://www.marketresearchfuture.com/reports/e-fuel-market-25306",
+    "https://vocal.media/journal/the-e-fuel-horizon-capitalizing-on-a-staggering-29-43-growth-trajectory",
+    "https://dataintelo.com/report/e-fuels-market"
+   ]
+  },
+  {
+   "query": "e-fuels market share top players percent",
+   "results": [
+    "https://www.stratviewresearch.com/market-reports/e-fuels-market.html",
+    "https://www.fortunebusinessinsights.com/e-fuel-market-109586",
+    "https://www.marketsandmarkets.com/PressReleases/e-fuels.asp",
+    "https://www.rootsanalysis.com/e-fuels-market",
+    "https://www.coherentmi.com/industry-reports/e-fuel-market",
+    "https://market.us/report/e-fuel-market/",
+    "https://www.snsinsider.com/reports/e-fuels-market-8516",
+    "https://www.sciencedirect.com/science/article/pii/S0196890425010532",
+    "https://www.marketresearchfuture.com/reports/e-fuel-market-25306"
+   ]
+  },
+  {
+   "query": "e-fuels market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.stratviewresearch.com/market-reports/e-fuels-market.html",
+    "https://www.rootsanalysis.com/e-fuels-market",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/e-fuels-market/US",
+    "https://www.sciencedirect.com/science/article/pii/S0196890425010532",
+    "https://www.marketresearchfuture.com/reports/e-fuel-market-25306",
+    "https://market.us/report/e-fuel-market/",
+    "https://www.snsinsider.com/reports/e-fuels-market-8516",
+    "https://www.fortunebusinessinsights.com/e-fuel-market-109586",
+    "https://www.researchgate.net/publication/388370029_Overview_of_the_e-Fuels_Market_Projects_and_the_State_of_the_Art_of_Production_Facilities",
+    "https://www.joinleland.com/content/item/urn:contentEntry:6890e9070d1a0aae8f324030"
+   ]
+  },
+  {
+   "query": "e-fuels market key companies share 2025",
+   "results": [
+    "https://www.fortunebusinessinsights.com/e-fuel-market-109586",
+    "https://www.grandviewresearch.com/industry-analysis/e-fuel-market-report",
+    "https://www.marketresearchfuture.com/reports/e-fuel-market-25306",
+    "https://www.stratviewresearch.com/market-reports/e-fuels-market.html",
+    "https://www.custommarketinsights.com/report/us-e-fuels-market/",
+    "https://market.us/report/e-fuels-market/",
+    "https://www.technavio.com/report/e-fuels-market-industry-analysis",
+    "https://www.researchgate.net/publication/388370029_Overview_of_the_e-Fuels_Market_Projects_and_the_State_of_the_Art_of_Production_Facilities",
+    "https://www.snsinsider.com/reports/e-fuels-market-8516",
+    "https://www.marketsandmarkets.com/Market-Reports/e-fuels-market-7297145.html"
+   ]
+  }
+ ],
+ "missing": {}
+}

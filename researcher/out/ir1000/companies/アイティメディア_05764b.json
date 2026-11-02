@@ -1,0 +1,1636 @@
+{
+ "name": "アイティメディア",
+ "aliases": [],
+ "context": "証券コード2148／サービス業／プライム（内国株式）／2026.03期 売上高8,312百万円 営業利益率21.2%",
+ "researched_at": "2026-11-02T17:41:24.007753+00:00",
+ "official_url": "https://corp.itmedia.co.jp/",
+ "identified_by": "search:yahoo_jp:アイティメディア",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1999年12月",
+    "url": "https://corp.itmedia.co.jp/corp/profile/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "382名（連結：2026年3月末日現在）",
+    "url": "https://corp.itmedia.co.jp/corp/profile/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "インターネット・メディア事業 ≫事業について ≫運営メディア紹介 ≫報道倫理綱領",
+    "url": "https://corp.itmedia.co.jp/corp/profile/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上収益",
+    "value": "百万円 8,092 8,752 8,001 8,100 8,311",
+    "url": "https://corp.itmedia.co.jp/ir/about/coc/",
+    "pass": 1
+   },
+   {
+    "label": "売上収益",
+    "value": "",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上収益",
+    "value": "6,630,413  1,470,498  8,100,911  －  8,100,911",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の売上収益",
+    "value": "－  －  －  －  －",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上収益",
+    "value": "6,619,949  1,691,885  8,311,834  －  8,311,834",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "ビジネスモデル": [
+   {
+    "quote": "当社の事業概要、収益モデル、",
+    "url": "https://corp.itmedia.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「リードジェン」をはじめとするデジタルならではの収益モデル開発に成功",
+    "url": "https://corp.itmedia.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "デジタルマーケティングで先進する米国の動向を研究し、国内でもいち早く新たなビジネスモデルの開発に取り組んできました",
+    "url": "https://corp.itmedia.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "当社はこれまで中期目標として、リーマンショックからのV字回復を企図した「2015年度営業利益６億円：Beyond6（ビヨンドシックス）」に続き、新たな収益モデル開発の成果を出す「2020年度営業利益20億円：W20（ダブルトウェンティ）」を連続で達成することができました",
+    "url": "https://corp.itmedia.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "自社でのメディア開発に加えM&Aも活用しながら、デジタルならではの多様なビジネスモデルを積み上げることで、持続的な成長を実現しています",
+    "url": "https://corp.itmedia.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "これに対して、当社はインターネットに特化したメディアという事業基盤を活かしたビジネスモデルの開発への挑戦を続けています",
+    "url": "https://corp.itmedia.co.jp/ir/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "創業当初は広告モデルが収益の過半を占めていましたが、現在はリードジェンを中心とした顧客獲得型のモデルが過半を占めており、こうしたデジタルならではの多様な収益モデルこそが当社の大きな強みと言えます",
+    "url": "https://corp.itmedia.co.jp/ir/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "最新の中期目標においては、2029年度 EPS 140円（営業利益40億円水準）の到達に向けて、さらなるメディア力の拡大と収益モデルの強化に取り組み、中長期的な成長を実現するとともに、資金の活用および株主・投資家の皆様への利益還元を強化いたします",
+    "url": "https://corp.itmedia.co.jp/ir/about/mid-term-targets/",
+    "pass": 1
+   },
+   {
+    "quote": "ITmedia ビジネスオンライン：ニュースを考える、ビジネスモデルを知る",
+    "url": "https://www.itmedia.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "その収益モデルとしては、創業以来、運営メディア上で展開する広告商品の販売を行う広告モデルが中心でしたが、インターネット専業メディアならではの革新による収益モデルの多元化を志向するなかで、米国を中心に急速に発展してきた、インターネットを活用した新たなマーケティング手法であるリードジェネレーション",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   },
+   {
+    "quote": "テクノロジーに関する高度な知見やデータを生かした収益モデルの拡大として、リサーチ・アドバイザリー領域に進出します",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "月間4,000万ユニークブラウザを超える利用者を持つ",
+    "url": "https://corp.itmedia.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様相談窓口",
+    "url": "https://corp.itmedia.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様相談窓口",
+    "url": "https://corp.itmedia.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様相談窓口",
+    "url": "https://corp.itmedia.co.jp/corp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様相談窓口",
+    "url": "https://corp.itmedia.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様相談窓口",
+    "url": "https://corp.itmedia.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様相談窓口",
+    "url": "https://corp.itmedia.co.jp/corp/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様相談窓口",
+    "url": "https://corp.itmedia.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様相談窓口",
+    "url": "https://corp.itmedia.co.jp/ir/about/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客・ユーザー規模",
+    "url": "https://corp.itmedia.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "見込み顧客数",
+    "url": "https://corp.itmedia.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様相談窓口",
+    "url": "https://corp.itmedia.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様相談窓口",
+    "url": "https://corp.itmedia.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様相談窓口",
+    "url": "https://corp.itmedia.co.jp/ir/other/",
+    "pass": 1
+   },
+   {
+    "quote": "創業当初は広告モデルが収益の過半を占めていましたが、現在はリードジェンを中心とした顧客獲得型のモデルが過半を占めており、こうしたデジタルならではの多様な収益モデルこそが当社の大きな強みと言えます",
+    "url": "https://corp.itmedia.co.jp/ir/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様相談窓口",
+    "url": "https://corp.itmedia.co.jp/ir/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様相談窓口",
+    "url": "https://corp.itmedia.co.jp/ir/about/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様相談窓口",
+    "url": "https://corp.itmedia.co.jp/ir/about/mid-term-targets/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様相談窓口",
+    "url": "https://corp.itmedia.co.jp/ir/about/coc/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客の動向について",
+    "url": "https://corp.itmedia.co.jp/ir/about/dialogue/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様相談窓口",
+    "url": "https://corp.itmedia.co.jp/ir/about/dialogue/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様相談窓口",
+    "url": "https://corp.itmedia.co.jp/corp/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様相談窓口",
+    "url": "https://corp.itmedia.co.jp/ir/library/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様相談窓口",
+    "url": "https://corp.itmedia.co.jp/ir/library/securities/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様相談窓口",
+    "url": "https://corp.itmedia.co.jp/ir/stock/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様相談窓口",
+    "url": "https://corp.itmedia.co.jp/ir/library/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様相談窓口",
+    "url": "https://corp.itmedia.co.jp/ir/library/others/",
+    "pass": 1
+   },
+   {
+    "quote": "これらの事業環境の下、当社グループは、インターネット専業メディアとして、IT（情報技術）を中心に専門性の高い情報（ニュースや技術解説記事等）をユーザーに提供する事業を主として展開しております",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、メディアとしての信頼感とブランドが、当社グループの大きな強みとなり、運営するウェブサイトを訪れるユニークブラウザ数は約6,000万UB／月、閲覧されるページビュー数は約３億5,000万PV／月と、多くの利用者を得ております",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、事業部門を基礎とした対象顧客・サービス別のセグメントから構成されており 、「BtoBメディア事業」と「BtoCメディア事業」の２つを報告セグメントとしております",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   },
+   {
+    "quote": "対象とするユーザー",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   },
+   {
+    "quote": "インターネットユーザー",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   },
+   {
+    "quote": "新たに株式会社ピイ.ピイ.コミュニケーションズが当社グループに加わり、予約型広告＆ブランドソリューション収益が増収しましたが、国内SaaS領域の顧客のマーケティング活動の鈍化を背景にデジタルイベント収益及びリードジェン収益が減収しました",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   },
+   {
+    "quote": "・リードジェン会員数は139万人となり、前年同期比2.3％増加しました",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   },
+   {
+    "quote": "・顧客向けのデータ管理基盤「Campaign Central」の開発が進捗し、顧客向けのサービス提供を開始しました",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   },
+   {
+    "quote": "データ を生かしたより成果につながりやすい営業提案が可能となり、AIが解析したインテントデータを顧客に無償提供する など、取引の継続性の向上にも貢献します",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   },
+   {
+    "quote": "・年間1,000回超開催するウェビナーを介して顧客にリードを提供するBtoBマーケティング支援企業であるマジセミ株式会社の全株式を2026年４月１日付で取得し、完全子会社化しました",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、事業部門を基礎とした対象顧客・サービス別のセグメントから構成されており、「BtoBメディア事業」と「BtoCメディア事業」の２つを報告セグメントとしております",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上収益",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   },
+   {
+    "quote": "（3）主要な顧客に関する情報",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   },
+   {
+    "quote": "単一の外部顧客との取引による売上収益が当社グループの売上収益の10％以上となっているものは、次のとおりです",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   },
+   {
+    "quote": "単一の外部顧客との取引による売上収益のうち、連結売上収益の10％以上を占める外部顧客がないため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   },
+   {
+    "quote": "国内収益とされた外部顧客からの売上収益が連結損益計算書の売上収益の大部分を占めるため、地域別の売上収益の記載を省略しております",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "広告サービス",
+    "url": "https://corp.itmedia.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "広告・サービス",
+    "url": "https://corp.itmedia.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://corp.itmedia.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「調査のチカラ」サービス終了のお知らせ",
+    "url": "https://corp.itmedia.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「質問！ITmedia」サービス終了のお知らせ",
+    "url": "https://corp.itmedia.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "広告サービス",
+    "url": "https://corp.itmedia.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "広告・サービス",
+    "url": "https://corp.itmedia.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://corp.itmedia.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "広告サービス",
+    "url": "https://corp.itmedia.co.jp/corp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "広告・サービス",
+    "url": "https://corp.itmedia.co.jp/corp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://corp.itmedia.co.jp/corp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "広告サービス",
+    "url": "https://corp.itmedia.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "広告・サービス",
+    "url": "https://corp.itmedia.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://corp.itmedia.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "広告サービス",
+    "url": "https://corp.itmedia.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "広告・サービス",
+    "url": "https://corp.itmedia.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://corp.itmedia.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "広告サービス",
+    "url": "https://corp.itmedia.co.jp/corp/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社リクルートホールディングスより、法人向けIT製品選定サービス「キーマンズネット」を譲受",
+    "url": "https://corp.itmedia.co.jp/corp/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "アドテクノロジー商品「ITmedia DMP」の提供開始",
+    "url": "https://corp.itmedia.co.jp/corp/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトバンク コマース&サービス株式会社と合弁会社「アイティクラウド株式会社」を設立",
+    "url": "https://corp.itmedia.co.jp/corp/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "広告・サービス",
+    "url": "https://corp.itmedia.co.jp/corp/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://corp.itmedia.co.jp/corp/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "広告サービス",
+    "url": "https://corp.itmedia.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "広告・サービス",
+    "url": "https://corp.itmedia.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://corp.itmedia.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "広告サービス",
+    "url": "https://corp.itmedia.co.jp/ir/about/",
+    "pass": 1
+   },
+   {
+    "quote": "広告・サービス",
+    "url": "https://corp.itmedia.co.jp/ir/about/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://corp.itmedia.co.jp/ir/about/",
+    "pass": 1
+   },
+   {
+    "quote": "広告サービス",
+    "url": "https://corp.itmedia.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "テクノロジー領域で数多くのオンラインメディアを運営し、BtoB（企業向け）テクノロジー市場を軸に、リードジェンや広告といったデジタルマーケティングソリューションを販売しています",
+    "url": "https://corp.itmedia.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、巨大なテクノロジーの市場に特化した強力なメディア力を背景に、企業がテクノロジー製品のデジタルマーケティング活動を行うためのベストパートナーとして選ばれ続けています",
+    "url": "https://corp.itmedia.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "有用なテクノロジー製品の情報が集積されており、さまざまな企業におけるバイヤーが読者・会員としてメディアを閲覧し、テクノロジーの情報収集を行っています",
+    "url": "https://corp.itmedia.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "テクノロジー業界の多くの企業に当社のソリューションを活用いただき、マーケティングを支援しています",
+    "url": "https://corp.itmedia.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "アイティメディアでは、読者・会員のテクノロジー製品についての情報収集の履歴を記録し、そのデータを活用することで、広告だけに留まらないデジタルならではのマーケティングソリューションを開発、提供しています",
+    "url": "https://corp.itmedia.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "成長のベクトルとして、「テクノロジーの発展に即したメディア開発と領域の拡大」、「デジタルならではのマーケティングソリューションの高度化と多様化」、「ゲームチェンジャーとなりうる革新的なメディア・テクノロジーへの対応」を重視しています",
+    "url": "https://corp.itmedia.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "広告・サービス",
+    "url": "https://corp.itmedia.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://corp.itmedia.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "広告サービス",
+    "url": "https://corp.itmedia.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "広告・サービス",
+    "url": "https://corp.itmedia.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://corp.itmedia.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "広告サービス",
+    "url": "https://corp.itmedia.co.jp/ir/other/",
+    "pass": 1
+   },
+   {
+    "quote": "広告・サービス",
+    "url": "https://corp.itmedia.co.jp/ir/other/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://corp.itmedia.co.jp/ir/other/",
+    "pass": 1
+   },
+   {
+    "quote": "広告サービス",
+    "url": "https://corp.itmedia.co.jp/ir/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2029年度に営業利益40億円を目指す中期目標の達成に向けて、AIを含むデジタル化の進む産業領域におけるメディアの拡大、データ基盤の整備によるサービスの革新と自社でのAI活用という3つの成長戦略に注力してまいります",
+    "url": "https://corp.itmedia.co.jp/ir/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "広告・サービス",
+    "url": "https://corp.itmedia.co.jp/ir/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://corp.itmedia.co.jp/ir/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "広告サービス",
+    "url": "https://corp.itmedia.co.jp/ir/about/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "広告・サービス",
+    "url": "https://corp.itmedia.co.jp/ir/about/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://corp.itmedia.co.jp/ir/about/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "広告サービス",
+    "url": "https://corp.itmedia.co.jp/ir/about/mid-term-targets/",
+    "pass": 1
+   },
+   {
+    "quote": "広告・サービス",
+    "url": "https://corp.itmedia.co.jp/ir/about/mid-term-targets/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://corp.itmedia.co.jp/ir/about/mid-term-targets/",
+    "pass": 1
+   },
+   {
+    "quote": "広告サービス",
+    "url": "https://corp.itmedia.co.jp/ir/about/coc/",
+    "pass": 1
+   },
+   {
+    "quote": "広告・サービス",
+    "url": "https://corp.itmedia.co.jp/ir/about/coc/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://corp.itmedia.co.jp/ir/about/coc/",
+    "pass": 1
+   },
+   {
+    "quote": "広告サービス",
+    "url": "https://corp.itmedia.co.jp/ir/about/dialogue/",
+    "pass": 1
+   },
+   {
+    "quote": "広告・サービス",
+    "url": "https://corp.itmedia.co.jp/ir/about/dialogue/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://corp.itmedia.co.jp/ir/about/dialogue/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "資料をご紹介しています",
+    "url": "https://corp.itmedia.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ご紹介します",
+    "url": "https://corp.itmedia.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ - 会社・事業紹介",
+    "url": "https://corp.itmedia.co.jp/corp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "会社・事業紹介",
+    "url": "https://corp.itmedia.co.jp/corp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "会社・事業紹介トップへ >",
+    "url": "https://corp.itmedia.co.jp/corp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "リードジェン紹介動画",
+    "url": "https://corp.itmedia.co.jp/corp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要 - 会社・事業紹介",
+    "url": "https://corp.itmedia.co.jp/corp/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "会社・事業紹介",
+    "url": "https://corp.itmedia.co.jp/corp/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "会社・事業紹介トップへ >",
+    "url": "https://corp.itmedia.co.jp/corp/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "≫経営陣紹介",
+    "url": "https://corp.itmedia.co.jp/corp/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "≫運営メディア紹介",
+    "url": "https://corp.itmedia.co.jp/corp/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "リードジェン紹介動画",
+    "url": "https://corp.itmedia.co.jp/corp/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、巨大なテクノロジーの市場に特化した強力なメディア力を背景に、企業がテクノロジー製品のデジタルマーケティング活動を行うためのベストパートナーとして選ばれ続けています",
+    "url": "https://corp.itmedia.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "直販営業担当",
+    "url": "https://corp.itmedia.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "会社・事業紹介",
+    "url": "https://corp.itmedia.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "会社・事業紹介 - アイティメディア株式会社の会社・事業紹介です",
+    "url": "https://corp.itmedia.co.jp/corp/",
+    "pass": 1
+   },
+   {
+    "quote": "> 会社・事業紹介",
+    "url": "https://corp.itmedia.co.jp/corp/",
+    "pass": 1
+   },
+   {
+    "quote": "会社・事業紹介",
+    "url": "https://corp.itmedia.co.jp/corp/",
+    "pass": 1
+   },
+   {
+    "quote": "リードジェン紹介動画",
+    "url": "https://corp.itmedia.co.jp/corp/",
+    "pass": 1
+   },
+   {
+    "quote": "なぜ三井住友は新店舗で「銀行名」を外したのか？ 「富裕層100万人」を囲うSMBC融合の正体",
+    "url": "https://www.itmedia.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "企業や自治体の総務部、システム部、店舗運営者、小規模工場経営者",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   },
+   {
+    "quote": "メディアレップ：インターネット広告を専門に扱う一次代理店のこと",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   },
+   {
+    "quote": "広告主や、広告代理店から見るとインターネット広告を買い付ける先となり広告媒体の運営者から見ると自社広告枠の販売窓口となります",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "競争優位性、成長分野など、",
+    "url": "https://corp.itmedia.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "アイティメディアの強み",
+    "url": "https://corp.itmedia.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "アイティメディアの強み",
+    "url": "https://corp.itmedia.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "アイティメディアの強み",
+    "url": "https://corp.itmedia.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "アイティメディアの強み",
+    "url": "https://corp.itmedia.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "アイティメディアの強み",
+    "url": "https://corp.itmedia.co.jp/ir/about/",
+    "pass": 1
+   },
+   {
+    "quote": "アイティメディアの強み",
+    "url": "https://corp.itmedia.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の経営理念や事業の強み、業績等をわかりやすくご説明します",
+    "url": "https://corp.itmedia.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "テクノロジー情報の専門メディアとして日本有数のメディア規模・リソースを抱えていることが大きな強みです",
+    "url": "https://corp.itmedia.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "アイティメディアの強み",
+    "url": "https://corp.itmedia.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "アイティメディアの強み",
+    "url": "https://corp.itmedia.co.jp/ir/other/",
+    "pass": 1
+   },
+   {
+    "quote": "アイティメディアの強み",
+    "url": "https://corp.itmedia.co.jp/ir/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "創業当初は広告モデルが収益の過半を占めていましたが、現在はリードジェンを中心とした顧客獲得型のモデルが過半を占めており、こうしたデジタルならではの多様な収益モデルこそが当社の大きな強みと言えます",
+    "url": "https://corp.itmedia.co.jp/ir/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "アイティメディアの強み",
+    "url": "https://corp.itmedia.co.jp/ir/about/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "アイティメディアの強み",
+    "url": "https://corp.itmedia.co.jp/ir/about/mid-term-targets/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、特にAIによるデータ利用ニーズの高まりに注目し、現在の強みを生かしながらも、変化への対応を優先してまいります",
+    "url": "https://corp.itmedia.co.jp/ir/about/mid-term-targets/",
+    "pass": 1
+   },
+   {
+    "quote": "データ活用で競争優位を創出できる新事業へ進出",
+    "url": "https://corp.itmedia.co.jp/ir/about/mid-term-targets/",
+    "pass": 1
+   },
+   {
+    "quote": "アイティメディアの強み",
+    "url": "https://corp.itmedia.co.jp/ir/about/coc/",
+    "pass": 1
+   },
+   {
+    "quote": "アイティメディアの強み",
+    "url": "https://corp.itmedia.co.jp/ir/about/dialogue/",
+    "pass": 1
+   },
+   {
+    "quote": "アイティメディアの強み",
+    "url": "https://corp.itmedia.co.jp/ir/library/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "アイティメディアの強み",
+    "url": "https://corp.itmedia.co.jp/ir/library/securities/",
+    "pass": 1
+   },
+   {
+    "quote": "アイティメディアの強み",
+    "url": "https://corp.itmedia.co.jp/ir/stock/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "アイティメディアの強み",
+    "url": "https://corp.itmedia.co.jp/ir/library/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "アイティメディアの強み",
+    "url": "https://corp.itmedia.co.jp/ir/library/others/",
+    "pass": 1
+   },
+   {
+    "quote": "その結果、メディアとしての信頼感とブランドが、当社グループの大きな強みとなり、運営するウェブサイトを訪れるユニークブラウザ数は約6,000万UB／月、閲覧されるページビュー数は約３億5,000万PV／月と、多くの利用者を得ております",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2025年度下半期版公開：広告審査レポート、メディア透明性レポート",
+    "url": "https://corp.itmedia.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第２四半期（中間期）決算発表およびオンライン決算説明会開催日程のお知らせ",
+    "url": "https://corp.itmedia.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 決算発表",
+    "url": "https://corp.itmedia.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第３四半期 決算発表",
+    "url": "https://corp.itmedia.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第２四半期（中間期） 決算発表",
+    "url": "https://corp.itmedia.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第一四半期 決算発表",
+    "url": "https://corp.itmedia.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 決算発表",
+    "url": "https://corp.itmedia.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 Q1",
+    "url": "https://corp.itmedia.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://corp.itmedia.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "1999年12月",
+    "url": "https://corp.itmedia.co.jp/corp/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2004年1月",
+    "url": "https://corp.itmedia.co.jp/corp/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2005年3月",
+    "url": "https://corp.itmedia.co.jp/corp/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2006年2月",
+    "url": "https://corp.itmedia.co.jp/corp/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2007年4月",
+    "url": "https://corp.itmedia.co.jp/corp/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2008年4月",
+    "url": "https://corp.itmedia.co.jp/corp/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2008年10月",
+    "url": "https://corp.itmedia.co.jp/corp/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年1月",
+    "url": "https://corp.itmedia.co.jp/corp/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年3月",
+    "url": "https://corp.itmedia.co.jp/corp/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2011年7月",
+    "url": "https://corp.itmedia.co.jp/corp/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2011年9月",
+    "url": "https://corp.itmedia.co.jp/corp/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2012年3月",
+    "url": "https://corp.itmedia.co.jp/corp/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年3月",
+    "url": "https://corp.itmedia.co.jp/corp/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年4月",
+    "url": "https://corp.itmedia.co.jp/corp/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年10月",
+    "url": "https://corp.itmedia.co.jp/corp/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年7月",
+    "url": "https://corp.itmedia.co.jp/corp/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年1月",
+    "url": "https://corp.itmedia.co.jp/corp/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年4月",
+    "url": "https://corp.itmedia.co.jp/corp/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年6月",
+    "url": "https://corp.itmedia.co.jp/corp/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年1月",
+    "url": "https://corp.itmedia.co.jp/corp/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年4月",
+    "url": "https://corp.itmedia.co.jp/corp/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年3月",
+    "url": "https://corp.itmedia.co.jp/corp/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年6月",
+    "url": "https://corp.itmedia.co.jp/corp/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年9月",
+    "url": "https://corp.itmedia.co.jp/corp/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年4月",
+    "url": "https://corp.itmedia.co.jp/corp/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2029年度 EPS 140円 達成を目指す",
+    "url": "https://corp.itmedia.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度の連結売上収益は減収減益となりましたが、デジタルイベント収益や運用型広告収益は増収に転じつつあります",
+    "url": "https://corp.itmedia.co.jp/ir/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2029年度に営業利益40億円を目指す中期目標の達成に向けて、AIを含むデジタル化の進む産業領域におけるメディアの拡大、データ基盤の整備によるサービスの革新と自社でのAI活用という3つの成長戦略に注力してまいります",
+    "url": "https://corp.itmedia.co.jp/ir/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年12月",
+    "url": "https://corp.itmedia.co.jp/ir/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月 更新",
+    "url": "https://corp.itmedia.co.jp/ir/about/mid-term-targets/",
+    "pass": 1
+   },
+   {
+    "quote": "2029年度 EPS 140円 達成を目指します",
+    "url": "https://corp.itmedia.co.jp/ir/about/mid-term-targets/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 事業・中期戦略説明会 投影資料",
+    "url": "https://corp.itmedia.co.jp/ir/about/mid-term-targets/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算説明会資料",
+    "url": "https://corp.itmedia.co.jp/ir/about/mid-term-targets/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年1月31日には、「資本コストや株価を意識した経営の実現に向けた対応について」の方針を策定し、大幅な株主還元の強化を決定いたしました",
+    "url": "https://corp.itmedia.co.jp/ir/about/mid-term-targets/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期につきましては年間50円の配当を予定しております",
+    "url": "https://corp.itmedia.co.jp/ir/about/mid-term-targets/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期の当期利益および基本的１株当たり当期利益（EPS）は減益となりました",
+    "url": "https://corp.itmedia.co.jp/ir/about/coc/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年1月に公表をいたしました「資本コストや株価を意識した経営の実現に向けた対応について」の方針に基づく取り組みが進捗しています",
+    "url": "https://corp.itmedia.co.jp/ir/about/coc/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度",
+    "url": "https://corp.itmedia.co.jp/ir/about/dialogue/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://corp.itmedia.co.jp/ir/about/dialogue/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://corp.itmedia.co.jp/ir/about/dialogue/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月25日",
+    "url": "https://corp.itmedia.co.jp/corp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度下半期版公開：広告審査レポート、メディア透明性レポート",
+    "url": "https://corp.itmedia.co.jp/corp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月20日",
+    "url": "https://corp.itmedia.co.jp/corp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月17日",
+    "url": "https://corp.itmedia.co.jp/corp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年1月5日",
+    "url": "https://corp.itmedia.co.jp/corp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年11月27日",
+    "url": "https://corp.itmedia.co.jp/corp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度上半期版公開：広告審査レポート、メディア透明性レポート",
+    "url": "https://corp.itmedia.co.jp/corp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月25日（木）午後1時30分 （受付開始 午後1時）",
+    "url": "https://corp.itmedia.co.jp/ir/stock/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "2024 年１月 31 日",
+    "url": "https://corp.itmedia.co.jp/wp-content/themes/ir/pdf/20240131_haitou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024 年３月期（当期）の期末配当から 2029 年３月期まで適用いたします",
+    "url": "https://corp.itmedia.co.jp/wp-content/themes/ir/pdf/20240131_haitou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024 年３月期（当期） 15 円 00 銭 100 円 00 銭 115 円 00 銭",
+    "url": "https://corp.itmedia.co.jp/wp-content/themes/ir/pdf/20240131_haitou.pdf",
+    "pass": 2
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "BtoCメディア事業の単価改善について",
+    "url": "https://corp.itmedia.co.jp/ir/about/dialogue/",
+    "pass": 1
+   },
+   {
+    "quote": "読者の嗜好や検索エンジン等プラットフォームの動向に即したコンテンツの高品質化が奏功し、広告単価が大きく改善したことで増収しております",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   },
+   {
+    "quote": "特に将来キャッシュ・フローの見積りについては、市場の成長性等を考慮した契約社数及びサービス単価に基づく売上収益の仮定を伴う事業計画の達成可能性を見積もる必要があります",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "メディア企業は何で稼いでいる？ アイティメディア の ... — メディア企業は何で稼いでいる？ アイティメディア の ... アイティメディア株式会社 https://corp.itmedia.co.jp > 採用",
+    "url": "https://corp.itmedia.co.jp/recruit/company/2025/08/20/businessmodel2025/",
+    "pass": 3
+   },
+   {
+    "quote": "10年間でメディア ビジネス はどう変化した？ アイティメディア ... — 10年間でメディア ビジネス はどう変化した？ アイティメディア ... funda.jp https://navi.funda.jp > article > itmedia",
+    "url": "https://navi.funda.jp/article/itmedia",
+    "pass": 3
+   },
+   {
+    "quote": "今さら聞けない アイティメディア の ビジネスモデル ～企業 ... — 今さら聞けない アイティメディア の ビジネスモデル ～企業 ... Wantedly https://www.wantedly.com > ... > ストーリー",
+    "url": "https://www.wantedly.com/companies/itmedia/post_articles/487769",
+    "pass": 3
+   },
+   {
+    "quote": "決算資料 - 株主・投資家情報 - アイティメディア 株式会社 — 決算資料 - 株主・投資家情報 - アイティメディア 株式会社 アイティメディア株式会社 https://corp.itmedia.co.jp > 家 > IRライブラリ",
+    "url": "https://corp.itmedia.co.jp/ir/library/earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家情報 - アイティメディア株式会社 - ITmedia — 株主・投資家情報 - アイティメディア株式会社 - ITmedia アイティメディア株式会社 https://corp.itmedia.co.jp > ...",
+    "url": "https://corp.itmedia.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "【 アイティメディア 】[2148]IR情報 中期経営計画や 決算 短信 — 【 アイティメディア 】[2148]IR情報 中期経営計画や 決算 短信 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=2148",
+    "pass": 3
+   },
+   {
+    "quote": "アイティメディア (2148) : 決算 情報・業績 [ ITmedia ] - みんかぶ — アイティメディア (2148) : 決算 情報・業績 [ ITmedia ] - みんかぶ みんかぶ https://minkabu.jp > ... > アイティメディア[2148]株価情報",
+    "url": "https://minkabu.jp/stock/2148/settlement",
+    "pass": 3
+   },
+   {
+    "quote": "アイティメディア のIR 資料 - 2148 / プライム / サービス業 — アイティメディア のIR 資料 - 2148 / プライム / サービス業 バフェット・コード https://www.buffett-code.com > company > library",
+    "url": "https://www.buffett-code.com/company/2148/library",
+    "pass": 3
+   },
+   {
+    "quote": "アイティメディア の「 事業 」 - 会社・ 事業 紹介 — アイティメディア の「 事業 」 - 会社・ 事業 紹介 アイティメディア株式会社 https://corp.itmedia.co.jp > corp > enterprise",
+    "url": "https://corp.itmedia.co.jp/corp/enterprise/",
+    "pass": 3
+   },
+   {
+    "quote": "アイティメディア 【2148】の 事業 内容 - キタイシホン — アイティメディア 【2148】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 会社・ 事業 紹介 - アイティメディア - ITmedia — 会社概要 - 会社・ 事業 紹介 - アイティメディア - ITmedia アイティメディア株式会社 https://corp.itmedia.co.jp > corp > profile",
+    "url": "https://corp.itmedia.co.jp/corp/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "【 アイティメディア 】[2148]企業概要 社員数や役員報酬・資本金 — 【 アイティメディア 】[2148]企業概要 社員数や役員報酬・資本金 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=2148",
+    "pass": 3
+   },
+   {
+    "quote": "経営陣紹介 - 会社・事業紹介 - アイティメディア 株式会社 — 経営陣紹介 - 会社・事業紹介 - アイティメディア 株式会社 アイティメディア株式会社 https://corp.itmedia.co.jp > corp > team",
+    "url": "https://corp.itmedia.co.jp/corp/team/",
+    "pass": 3
+   },
+   {
+    "quote": "アイティメディア に インタビュー 記事が掲載されました。記事 ... — アイティメディア に インタビュー 記事が掲載されました。記事 ... NTTデータ ルウィーブ株式会社 https://network.nttdata-luweave.com > コラム",
+    "url": "https://network.nttdata-luweave.com/column/2814/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、事業部門を基礎とした対象顧客・サービス別のセグメントから構成されており 、「BtoBメディア事業」と「BtoCメディア事業」の２つを報告セグメントとしております",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   },
+   {
+    "quote": "（2）セグメント別のメディア・サービス概要は以下のとおりであります",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   },
+   {
+    "quote": "以下の事業区分はセグメント情報における事業区分と同一であります",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告セグメント別の当連結会計年度の業績概要は以下のとおりであります",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告セグメント計",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   },
+   {
+    "quote": "（注） セグメント間の取引については相殺消去しております",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   },
+   {
+    "quote": "７．セグメント情報",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   },
+   {
+    "quote": "（1）報告セグメント",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの報告セグメントは、当社グループの構成単位のうち分離された財務情報が入手可能であり、取締役会が、経営資源の配分の決定および業績を評価するために、定期的に検討を行う対象となっている事業セグメントを基礎に決定しております",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、事業部門を基礎とした対象顧客・サービス別のセグメントから構成されており、「BtoBメディア事業」と「BtoCメディア事業」の２つを報告セグメントとしております",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   },
+   {
+    "quote": "各報告セグメントの会計方針は、「３．重要性がある会計方針」で参照している当社グループの会計方針と同一であります",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告セグメントの利益は、「営業利益」であります",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント利益の算定にあたっては、特定の報告セグメントに直接関連しない費用を、最も適切で利用可能な指標に基づき各報告セグメントに配分しております",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント間の売上収益は、市場実勢価格に基づいております",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   },
+   {
+    "quote": "（2）セグメント収益及び業績",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの報告セグメントによる収益及び業績は、以下のとおりであります",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント間の売上収益",
+    "url": "https://kitaishihon.com/company/2148/business",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://corp.itmedia.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.itmedia.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.itmedia.co.jp/corp/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.itmedia.co.jp/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.itmedia.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.itmedia.co.jp/corp/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.itmedia.co.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.itmedia.co.jp/ir/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.itmedia.co.jp/ir/individual/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.itmedia.co.jp/ir/financial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.itmedia.co.jp/ir/other/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.itmedia.co.jp/ir/about/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.itmedia.co.jp/ir/about/governance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.itmedia.co.jp/ir/about/mid-term-targets/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.itmedia.co.jp/ir/about/coc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.itmedia.co.jp/ir/about/dialogue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.itmedia.co.jp/corp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.itmedia.co.jp/ir/library/earnings/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.itmedia.co.jp/ir/library/securities/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.itmedia.co.jp/ir/stock/meeting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.itmedia.co.jp/ir/library/disclosure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.itmedia.co.jp/ir/library/others/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://corp.itmedia.co.jp/wp-content/themes/ir/pdf/20240131_haitou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://corp.itmedia.co.jp/wp-content/themes/ir/pdf/2022_dialogue.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.itmedia.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/2148/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itmedia.co.jp/business/subtop/topinterview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.icom.co.jp/news/8934/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "アイティメディア",
+   "results": [
+    "https://www.itmedia.co.jp/",
+    "https://corp.itmedia.co.jp/corp/profile/",
+    "https://ja.wikipedia.org/wiki/ITmedia",
+    "https://x.com/itmedia",
+    "https://hrmos.co/pages/itmedia",
+    "https://corp.itmedia.co.jp/",
+    "https://jp.linkedin.com/company/itmedia-inc.",
+    "https://kabutan.jp/stock/?code=2148",
+    "https://finance.yahoo.co.jp/quote/2148.T",
+    "https://www.itmedia.co.jp/news/"
+   ]
+  },
+  {
+   "query": "アイティメディア ビジネスモデル",
+   "results": [
+    "https://www.itmedia.co.jp/business/",
+    "https://corp.itmedia.co.jp/recruit/company/2025/08/20/businessmodel2025/",
+    "https://navi.funda.jp/article/itmedia",
+    "https://www.it-comm.co.jp/media/vol8_businessmedia",
+    "https://www.wantedly.com/companies/itmedia/post_articles/487769",
+    "https://ja.wikipedia.org/wiki/ITmedia",
+    "https://media-innovation.jp/database/media/it-media-business",
+    "https://otsumu.co.jp/knowledge/cases/itmedia.html",
+    "https://corp.itmedia.co.jp/recruit/company/2020/08/27/businessmodel/",
+    "https://go.itmedia.co.jp/"
+   ]
+  },
+  {
+   "query": "アイティメディア 決算説明資料",
+   "results": [
+    "https://corp.itmedia.co.jp/ir/library/earnings/",
+    "https://corp.itmedia.co.jp/ir/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=2148",
+    "https://minkabu.jp/stock/2148/settlement",
+    "https://www.buffett-code.com/company/2148/library",
+    "https://finance.biggo.jp/news/ir_2148.T_20261006_9e86a388d024",
+    "https://kabutan.jp/stock/finance?code=2148",
+    "https://irbank.net/2148/ir",
+    "https://edinetdb.jp/company/E05686/presentations/",
+    "https://go.itmedia.co.jp/"
+   ]
+  },
+  {
+   "query": "アイティメディア 事業系統図",
+   "results": [
+    "https://corp.itmedia.co.jp/corp/enterprise/",
+    "https://kitaishihon.com/company/2148/business",
+    "https://corp.itmedia.co.jp/corp/profile/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=2148",
+    "https://ja.wikipedia.org/wiki/ITmedia",
+    "https://www.sbmm-holdings.co.jp/info/group/",
+    "https://hrmos.co/pages/itmedia",
+    "https://paiza.jp/recruiters/293",
+    "https://media-innovation.jp/database/company/itmedia",
+    "https://corp.itmedia.co.jp/corp/"
+   ]
+  },
+  {
+   "query": "アイティメディア 社長 インタビュー",
+   "results": [
+    "https://www.itmedia.co.jp/business/subtop/topinterview/",
+    "https://www.icom.co.jp/news/8934/",
+    "https://corp.itmedia.co.jp/corp/team/",
+    "https://eight.career/article/value/itmedia/",
+    "https://network.nttdata-luweave.com/column/2814/",
+    "https://ja.wikipedia.org/wiki/ITmedia",
+    "https://shachomeikan.jp/presidents/detail/10061989",
+    "https://www.youtube.com/playlist?list=PLvrFiNDincaxhdGRLF4tBV2yuINsD1i5E",
+    "https://media-innovation.jp/article/2024/12/24/142069.html"
+   ]
+  }
+ ],
+ "missing": {}
+}

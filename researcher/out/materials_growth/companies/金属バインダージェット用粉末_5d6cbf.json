@@ -1,0 +1,1717 @@
+{
+ "name": "金属バインダージェット用粉末",
+ "en": "binder jetting metal powder",
+ "aliases": [
+  "metal binder jet",
+  "バインダージェット"
+ ],
+ "context": "金属AM",
+ "kind": "market",
+ "researched_at": "2026-11-02T17:39:14.535718+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "世界の3Dプリンティング金属市場規模は、2025年には12億米ドルと評価され、2026年の14億2000万米ドルから2034年には53億2000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は18%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年予測市場規模",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の3Dプリンティング金属市場は、2025年には地域別で最大のシェアとなる38.5%を占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国の3Dプリンティング金属市場は、航空機フリートの近代化の恩恵を受ける可能性がある",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "カナダの3Dプリンティング金属市場は、高度な製造活動の恩恵を受ける可能性がある",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "カナダのイノベーション・科学・経済開発省は、2030年までに製造業の売上高を50%増の1兆ドルに、製造業の輸出を5,400億ドルにすることを目標としており、カナダ国立研究評議会は引き続き金属積層造形と高度な製造技術を支援している",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の3Dプリンティング金属市場は、予測期間中に年平均成長率（CAGR）27.9%で成長すると予想されており、地域市場の中で最も急速に成長している市場となっています",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の3Dプリンティング金属市場は、日本政府が2040年までに世界の金属積層造形市場における日本のシェアを10%未満から20%に引き上げるという目標を掲げていること、また、同じ期間に機械部品および工具産業における航空宇宙などの高付加価値分野のシェアを30%から50%に引き上げるという目標を掲げていることから恩恵を受ける可能性があります",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国の3Dプリンティング金属市場は、中国が2026年から2030年にかけて全国的な研究開発費を年間少なくとも7%増加させ、先端材料、ハイエンド機器、その他のコア技術のブレークスルーを加速させ、金属積層造形開発を支援するという計画から恩恵を受ける可能性がある",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "韓国の3Dプリンティング金属市場は、2030年までに10の専門クラスターを追加設立し、コア戦略技術を持つ企業の数を100社から200社に拡大し、5つのAIベースの先端材料開発プロジェクトを開始することを目標とする政府の2026～2030年材料・部品・設備計画から恩恵を受ける可能性がある",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "インドの3Dプリンティング金属市場は、約100社の新規スタートアップ、500の積層造形製品、50のインド固有の積層造形技術、10万人の熟練労働者を目標とする国家積層造形戦略から恩恵を受け、国内の金属積層造形能力の開発を支援する可能性がある",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙用バインダージェット式3Dプリンターの世界市場（2026年～2032年）、市場規模（金属バインダージェッティング、砂バインダージェッティング、ポリマーバインダージェッティング、その他）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/7302431",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙用バインダージェット式3Dプリンターの世界市場（2026年～2032年）、市場規模（金属バインダージェッティング、砂バインダージェッティング、ポリマーバインダージェッティング、その他）・分析レポートを発表",
+    "url": "https://newscast.jp/smart/news/7302431",
+    "pass": 3
+   },
+   {
+    "quote": "本資料には、航空宇宙用バインダージェット式3Dプリンターの世界市場規模、市場動向、セグメント別予測（金属バインダージェッティング、砂バインダージェッティング、ポリマーバインダージェッティング、その他）、関連企業の情報などが盛り込まれています",
+    "url": "https://newscast.jp/smart/news/7302431",
+    "pass": 3
+   },
+   {
+    "quote": "世界の航空宇宙グレードバインダージェット3Dプリンター市場規模は、2025年の4,593万米ドルから2032年には9,168万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）10.6%で成長すると見込まれています",
+    "url": "https://newscast.jp/smart/news/7302431",
+    "pass": 3
+   },
+   {
+    "quote": "米国の航空宇宙グレードバインダージェッティング3Dプリンター市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年までのCAGRはXX％になると推定されています",
+    "url": "https://newscast.jp/smart/news/7302431",
+    "pass": 3
+   },
+   {
+    "quote": "中国の航空宇宙グレードバインダージェット3Dプリンター市場は、2025年のUS$百万から2032年にはUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://newscast.jp/smart/news/7302431",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の航空宇宙グレードバインダージェット3Dプリンター市場は、2025年のUS$百万から2032年にはUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://newscast.jp/smart/news/7302431",
+    "pass": 3
+   },
+   {
+    "quote": "本インサイトレポートは、航空宇宙グレードのバインダージェッティング3Dプリンターの世界的な見通しを形作る主要な市場動向、推進要因、および影響要因を評価し、タイプ別、用途別、地域別、市場規模別に予測を細分化することで、新興のビジネスチャンスを浮き彫りにします",
+    "url": "https://newscast.jp/smart/news/7302431",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2026年までの地域別および国別の市場規模（年間販売台数と年間収益）、ならびにアメリカ、APAC、ヨーロッパ、中東およびアフリカにおける販売成長率が詳細に分析されています",
+    "url": "https://newscast.jp/smart/news/7302431",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2027年から2032年までのグローバル市場規模予測（地域別、タイプ別、用途別の年間販売台数と年間収益）、およびアメリカ、APAC、ヨーロッパ、中東およびアフリカの国別・地域別予測が示されています",
+    "url": "https://newscast.jp/smart/news/7302431",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形の日本市場（2026年～2034年）、市場規模（粉末床溶融、バインダージェッティング、直接エネルギー堆積、結合粉末押出）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/4635643",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形の日本市場（2026年～2034年）、市場規模（粉末床溶融、バインダージェッティング、直接エネルギー堆積、結合粉末押出）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4635643",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金属積層造形市場規模は2025年に3億9,110万米ドルに達しました",
+    "url": "https://www.atpress.ne.jp/news/4635643",
+    "pass": 3
+   },
+   {
+    "quote": "本調査会社によると、日本のIndustry 4.0市場規模は2024年に98億米ドルに達しました",
+    "url": "https://www.atpress.ne.jp/news/4635643",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4635643",
+    "pass": 3
+   },
+   {
+    "quote": "コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4635643",
+    "pass": 3
+   },
+   {
+    "quote": "セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4635643",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4635643",
+    "pass": 3
+   },
+   {
+    "quote": "食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4635643",
+    "pass": 3
+   },
+   {
+    "quote": "水性ポリウレタン離型剤の世界市場（2026年～2032年）、市場規模（シリコーン油系、ワックス系、脂肪酸系、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4635643",
+    "pass": 3
+   },
+   {
+    "quote": "SMDサーモパイルセンサーの世界市場（2026年～2032年）、市場規模（シングルチャンネルセンサー、デュアルチャンネルセンサー）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4635643",
+    "pass": 3
+   },
+   {
+    "quote": "バインダージェット市場規模は、2035年末に400億米ドルに達すると予想されています",
+    "url": "https://www.researchnester.jp/industry-analysis/binder-jet-market/2866",
+    "pass": 3
+   },
+   {
+    "quote": "3D プリンティング技術は、複雑でカスタマイズされた部品を高精度で製造できるため人気が高まっており、需要の高まりにより市場は成長しています",
+    "url": "https://www.researchnester.jp/industry-analysis/binder-jet-market/2866",
+    "pass": 3
+   },
+   {
+    "quote": "北米地域のバインダージェット市場は、予測期間中に約32％の最大市場シェアを保持すると予想されます",
+    "url": "https://www.researchnester.jp/industry-analysis/binder-jet-market/2866",
+    "pass": 3
+   },
+   {
+    "quote": "ヨーロッパ地域のバインダー ジェット市場は、2035 年末に約 28% の 2 番目に大きなシェアを占めると予測されています",
+    "url": "https://www.researchnester.jp/industry-analysis/binder-jet-market/2866",
+    "pass": 3
+   },
+   {
+    "quote": "回答: バインダー ジェット市場規模は、2026 ― 2035 年の予測期間中に10% の CAGR に達すると予想されます",
+    "url": "https://www.researchnester.jp/industry-analysis/binder-jet-market/2866",
+    "pass": 3
+   },
+   {
+    "quote": "回答: 北米地域市場は、2035年末に最大市場シェアを保持すると予測されており、将来に多くのビジネス機会がもたらされると予想されています",
+    "url": "https://www.researchnester.jp/industry-analysis/binder-jet-market/2866",
+    "pass": 3
+   },
+   {
+    "quote": "世界のバインダージェット3Dプリンター市場2026年 ：市場規模と Binder-jet 3D Printer 産業分析",
+    "url": "https://www.marketresearch.co.jp/cnt/global-binderjet-3d-printer-mrc-ipr11664/",
+    "pass": 3
+   },
+   {
+    "quote": "世界のバインダージェット3Dプリンター市場2026年：市場規模予測",
+    "url": "https://www.marketresearch.co.jp/cnt/global-binderjet-3d-printer-mrc-ipr11664/",
+    "pass": 3
+   },
+   {
+    "quote": "バインダージェット3Dプリンターの世界市場レポート（Global Binder-jet 3D Printer Market）では、セグメント別市場規模、主要地域と国別市場規模、国内外の主要プレーヤーの動向と市場シェア、販売チャネルなどの項目について詳細な分析を行いました",
+    "url": "https://www.marketresearch.co.jp/cnt/global-binderjet-3d-printer-mrc-ipr11664/",
+    "pass": 3
+   },
+   {
+    "quote": "最新の調査によると、バインダージェット3Dプリンターの世界市場規模は、2024年のxxx百万ドルから2025年にはxxx百万ドルとなり、2024年から2025年の間にxx％の変化があると推定されています",
+    "url": "https://www.marketresearch.co.jp/cnt/global-binderjet-3d-printer-mrc-ipr11664/",
+    "pass": 3
+   },
+   {
+    "quote": "バインダージェット3Dプリンターの世界市場規模は、今後5年間でxx％の年率で成長すると予測されています",
+    "url": "https://www.marketresearch.co.jp/cnt/global-binderjet-3d-printer-mrc-ipr11664/",
+    "pass": 3
+   },
+   {
+    "quote": "地域・国別分析では、北米、アメリカ、カナダ、メキシコ、ヨーロッパ、ドイツ、イギリス、フランス、ロシア、アジア太平洋、日本、中国、インド、韓国、東南アジア、南米、中東、アフリカなどを対象にして、バインダージェット3Dプリンターの市場規模を算出しました",
+    "url": "https://www.marketresearch.co.jp/cnt/global-binderjet-3d-printer-mrc-ipr11664/",
+    "pass": 3
+   },
+   {
+    "quote": "バインダージェット3Dプリンター市場は、種類別には、金属、複合材料、サンド＆セラミックス、その他に、用途別には、ヘルスケア、自動車、航空宇宙、消費財、その他に区分してグローバルと主要地域における2020年～2031年の市場規模を調査・予測しました",
+    "url": "https://www.marketresearch.co.jp/cnt/global-binderjet-3d-printer-mrc-ipr11664/",
+    "pass": 3
+   },
+   {
+    "quote": "– バインダージェット3Dプリンターのアメリカ市場規模",
+    "url": "https://www.marketresearch.co.jp/cnt/global-binderjet-3d-printer-mrc-ipr11664/",
+    "pass": 3
+   },
+   {
+    "quote": "– バインダージェット3Dプリンターのカナダ市場規模",
+    "url": "https://www.marketresearch.co.jp/cnt/global-binderjet-3d-printer-mrc-ipr11664/",
+    "pass": 3
+   },
+   {
+    "quote": "– バインダージェット3Dプリンターのメキシコ市場規模",
+    "url": "https://www.marketresearch.co.jp/cnt/global-binderjet-3d-printer-mrc-ipr11664/",
+    "pass": 3
+   },
+   {
+    "quote": "– バインダージェット3Dプリンターのドイツ市場規模",
+    "url": "https://www.marketresearch.co.jp/cnt/global-binderjet-3d-printer-mrc-ipr11664/",
+    "pass": 3
+   },
+   {
+    "quote": "– バインダージェット3Dプリンターのイギリス市場規模",
+    "url": "https://www.marketresearch.co.jp/cnt/global-binderjet-3d-printer-mrc-ipr11664/",
+    "pass": 3
+   },
+   {
+    "quote": "– バインダージェット3Dプリンターのフランス市場規模",
+    "url": "https://www.marketresearch.co.jp/cnt/global-binderjet-3d-printer-mrc-ipr11664/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/markforged-metal-binder-jet-230526/",
+    "pass": 3
+   },
+   {
+    "quote": "Metal Binder Jetting Market Size, Share Report, 2025-2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-binder-jetting-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size, 2024",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-binder-jetting-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "2024 Market Size: USD 128.7 Million",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-binder-jetting-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "2033 Projected Market Size: USD 331.4 Million",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-binder-jetting-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "announced a self-funded USD 70 million expansion of its nickel-based superalloy powder production near Monroe, North Carolina, aiming to support growing demand in aerospace jet engines and the additive manufacturing industry. The move strengthens ATI’s ability to supply high-performance powders for advanced 3D-printed parts in aerospace, medical, energy and oil & gas markets.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-binder-jetting-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Market size in 2024",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-binder-jetting-market-report",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "3Dプリンティング金属市場の規模、シェア、成長率、予測（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の3Dプリンティング金属市場規模は、2025年には12億米ドルと評価され、2026年の14億2000万米ドルから2034年には53億2000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は18%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場CAGR（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の年平均成長率（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "こうした材料供給の拡大は、金属3Dプリンティングの普及をさらに促進するでしょう",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "歯科および整形外科分野における金属3Dプリンティングの拡大、ならびにジュエリーおよび高級品への金属3Dプリンティングの採用は、成長機会をもたらす",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "アルミニウム分野は、軽量性、高い強度重量比、複雑な3Dプリント部品への適合性といった特性により、年平均成長率（CAGR）26.4%で成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "バインダージェット方式は、高速生産、効率的な材料利用、複雑な金属部品を大規模に生産できる能力を背景に、年平均成長率（CAGR）27.2%で成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の航空宇宙グレードバインダージェット3Dプリンター市場規模は、2025年の4,593万米ドルから2032年には9,168万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）10.6%で成長すると見込まれています",
+    "url": "https://newscast.jp/smart/news/7302431",
+    "pass": 3
+   },
+   {
+    "quote": "米国の航空宇宙グレードバインダージェッティング3Dプリンター市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年までのCAGRはXX％になると推定されています",
+    "url": "https://newscast.jp/smart/news/7302431",
+    "pass": 3
+   },
+   {
+    "quote": "中国の航空宇宙グレードバインダージェット3Dプリンター市場は、2025年のUS$百万から2032年にはUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://newscast.jp/smart/news/7302431",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の航空宇宙グレードバインダージェット3Dプリンター市場は、2025年のUS$百万から2032年にはUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://newscast.jp/smart/news/7302431",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2026年までの地域別および国別の市場規模（年間販売台数と年間収益）、ならびにアメリカ、APAC、ヨーロッパ、中東およびアフリカにおける販売成長率が詳細に分析されています",
+    "url": "https://newscast.jp/smart/news/7302431",
+    "pass": 3
+   },
+   {
+    "quote": "本調査会社は、同市場が2034年までに11億7,890万米ドルに達し、2026年から2034年の予測期間中に13.04%の年平均成長率（CAGR）を示すと予測しています",
+    "url": "https://www.atpress.ne.jp/news/4635643",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、スマートな運用とコスト削減を実現するためのIndustry 4.0プラクティスの導入増加も、日本の金属積層造形市場のシェア拡大に貢献しています",
+    "url": "https://www.atpress.ne.jp/news/4635643",
+    "pass": 3
+   },
+   {
+    "quote": "業界レポートによると、日本のスマートフォン販売台数は2024年に前年比で7%増加しました",
+    "url": "https://www.atpress.ne.jp/news/4635643",
+    "pass": 3
+   },
+   {
+    "quote": "次に、Industry 4.0プラクティスの採用拡大が日本の金属積層造形市場の成長を牽引しています",
+    "url": "https://www.atpress.ne.jp/news/4635643",
+    "pass": 3
+   },
+   {
+    "quote": "2026 ― 2035年の予測期間中に 10% の CAGR で増加します",
+    "url": "https://www.researchnester.jp/industry-analysis/binder-jet-market/2866",
+    "pass": 3
+   },
+   {
+    "quote": "北米で市場シェアを拡大するために、数多くの 3D プリンティング バインダー ジェット ソリューションを提供するサプライヤーは、市場での地位を強化しています",
+    "url": "https://www.researchnester.jp/industry-analysis/binder-jet-market/2866",
+    "pass": 3
+   },
+   {
+    "quote": "NASA を含む多くの政府機関は、3D プリンティング技術への大規模な投資が宇宙用途やゼロ G 技術の開発に多大な影響を与え、業界の拡大を加速する可能性があると観察しています",
+    "url": "https://www.researchnester.jp/industry-analysis/binder-jet-market/2866",
+    "pass": 3
+   },
+   {
+    "quote": "回答: バインダー ジェット市場規模は、2026 ― 2035 年の予測期間中に10% の CAGR に達すると予想されます",
+    "url": "https://www.researchnester.jp/industry-analysis/binder-jet-market/2866",
+    "pass": 3
+   },
+   {
+    "quote": "バインダージェット3Dプリンターの世界市場規模は、今後5年間でxx％の年率で成長すると予測されています",
+    "url": "https://www.marketresearch.co.jp/cnt/global-binderjet-3d-printer-mrc-ipr11664/",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルにおけるバインダージェット3Dプリンター市場で新ビジネス創出や売上拡大に挑むクライアント様が、成長トレンドを取り込み、課題を解決する際に必ず役立つ一冊となっておりますので是非ご活用ください",
+    "url": "https://www.marketresearch.co.jp/cnt/global-binderjet-3d-printer-mrc-ipr11664/",
+    "pass": 3
+   },
+   {
+    "quote": "ExOneでは今後投入する商品に焼結後の造形物の形状を造形前にシミュレーションできるCAEソフトウエアを準備して、焼結の経験が深くないお客様でも比較的円滑にバインダージェット方式の3Dプリンターの導入可能にすること、また今後造形サイズの拡大、生産性が向上された商品を投入する計画です",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column02",
+    "pass": 3
+   },
+   {
+    "quote": "当社焼結技術を活かした３Ｄプリンタの活用加速と量産部品での適用拡大を狙い、２３年７月より三菱商事テクノス（株）と協業し、GE Additiveの最新バインダージェット式３Ｄプリンタ（BJ）を使用した「金型レス」での金属部品の試作・開発サービスを開始しました",
+    "url": "https://sumitomoelectric.com/jp/products/sintering/3dp",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2025–2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-binder-jetting-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025-2033): 10.5%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-binder-jetting-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 10.5% from 2025 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-binder-jetting-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD million/billion, and CAGR from 2025 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-binder-jetting-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The global metal binder jetting market is expected to grow at a compound annual growth rate of 10.5% from 2025 to 2033, reaching USD 331.4 million by 2033.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-binder-jetting-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026 to 2036)",
+    "url": "https://www.futuremarketinsights.com/reports/metal-binder-jetting-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 1.1 billion in 2026 and USD 4.9 billion by 2036 at a 16.1% CAGR.",
+    "url": "https://www.futuremarketinsights.com/reports/metal-binder-jetting-market",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial users in Germany gain access to established expertise across debinding and sintering. Fraunhofer IFAM hosted its sixth sinter-based additive manufacturing workshop in October 2025, covering industrial metal binder jetting implementation and use cases. Demand in Germany is projected to record 19.2% CAGR by 2036, led by application engineering and process-chain knowledge.",
+    "url": "https://www.futuremarketinsights.com/reports/metal-binder-jetting-market",
+    "pass": 3
+   },
+   {
+    "quote": "Adoption in Canada is anticipated to register 17.4% CAGR from 2026 to 2036, driven by applied research and first-use support for manufacturers. University of Waterloo named two co-directors for a sustainable metal additive manufacturing consortium in February 2025. Coordinated laboratory leadership supports company access to process development and quality-control expertise.",
+    "url": "https://www.futuremarketinsights.com/reports/metal-binder-jetting-market",
+    "pass": 3
+   },
+   {
+    "quote": "Sector in France is forecast to expand at 13.9% CAGR between 2026 and 2036, aided by powder-metallurgy infrastructure and semi-industrial process development. CEA-Liten reported a 2,200-square-meter platform in May 2024. Equipment covered powder preparation through printing and final sintering. Integrated facilities support component trials across complex metal and ceramic production routes.",
+    "url": "https://www.futuremarketinsights.com/reports/metal-binder-jetting-market",
+    "pass": 3
+   },
+   {
+    "quote": "What is the CAGR of the Metal Binder Jetting Market from 2026 to 2036?",
+    "url": "https://www.futuremarketinsights.com/reports/metal-binder-jetting-market",
+    "pass": 3
+   },
+   {
+    "quote": "The metal binder jetting market grows at a CAGR of 16.1% between 2026 and 2036, supported by manufacturers converting design freedom into qualified part families across automotive, aerospace, and industrial programs that require controlled sintering behavior and verified production economics throughout recurring serial component production.",
+    "url": "https://www.futuremarketinsights.com/reports/metal-binder-jetting-market",
+    "pass": 3
+   },
+   {
+    "quote": "According to a research report published by Spherical Insights & Consulting, The Global Binder Jetting 3D Printing Market Size is projected To Grow from USD 0.62 Billion in 2024 to USD 2.89 Billion by 2035, at a CAGR of 15.02% during the forecast period 2025–2035.",
+    "url": "https://www.sphericalinsights.com/blogs/top-40-companies-in-binder-jetting-3d-printing-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "The Market Size is Going to Expand at a CAGR of 15.02% between 2025 and 2035.",
+    "url": "https://www.sphericalinsights.com/blogs/top-40-companies-in-binder-jetting-3d-printing-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "Europe is anticipated to grow at the fastest CAGR during the forecast period in the binder jetting 3D printing market.",
+    "url": "https://www.sphericalinsights.com/blogs/top-40-companies-in-binder-jetting-3d-printing-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific is expected to grow at the highest share during the forecast period in the binder jetting 3D printing market.",
+    "url": "https://www.sphericalinsights.com/blogs/top-40-companies-in-binder-jetting-3d-printing-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "To Exceed USD193.77 Billion by 2035 | CAGR of 26.88% : Market Study Report",
+    "url": "https://www.sphericalinsights.com/blogs/top-40-companies-in-binder-jetting-3d-printing-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "To Exceed USD 1.24 Trillion by 2035 | CAGR of 5.2% : Market Study Report",
+    "url": "https://www.sphericalinsights.com/blogs/top-40-companies-in-binder-jetting-3d-printing-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "o Exceed USD 2.83 Billion by 2035 | CAGR of 4.91% : Market Size Report",
+    "url": "https://www.sphericalinsights.com/blogs/top-40-companies-in-binder-jetting-3d-printing-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "To Exceed USD 6.83 Billion by 2035 | CAGR of 6.98% : Market Study Report",
+    "url": "https://www.sphericalinsights.com/blogs/top-40-companies-in-binder-jetting-3d-printing-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "To Exceed USD 125.73 Billion by 2035 | CAGR of 6.67% : Market Study Report",
+    "url": "https://www.sphericalinsights.com/blogs/top-40-companies-in-binder-jetting-3d-printing-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 17.3%",
+    "url": "https://www.persistencemarketresearch.com/market-research/binder-jetting-services-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Projected Growth (CAGR 2026 to 2033)",
+    "url": "https://www.persistencemarketresearch.com/market-research/binder-jetting-services-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Historical Market Growth (CAGR 2020 to 2025)",
+    "url": "https://www.persistencemarketresearch.com/market-research/binder-jetting-services-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "The binder jetting services market is forecast to grow at a CAGR of 17.3% from 2026 to 2033, reflecting its rapid adoption as it shifts from a prototyping tool to a scalable production solution.",
+    "url": "https://www.persistencemarketresearch.com/market-research/binder-jetting-services-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Revenues from metal 3D printing hardware and materials will grow at a CAGR of 10.4% from 2025-2035.",
+    "url": "https://www.idtechex.com/en/research-report/metal-additive-manufacturing/1097",
+    "pass": 3
+   },
+   {
+    "quote": "Advances in high-value markets will grow metal 3D printing at a CAGR of 10.4% from 2025-2035.",
+    "url": "https://www.idtechex.com/en/research-report/metal-additive-manufacturing/1097",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "3Dプリンティング金属市場の主要企業には、EOS GmbH、3D Systems Corporation、Renishaw plc、Stratasys Ltd.、およびNikon SLM Solutions AGがあり、これら4社で市場全体の約25～28%を占めている",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティング金属市場における主要企業はどこですか？",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙グレードのバインダージェット式3Dプリンターの世界的な主要企業には、HP、3D Systems、Voxeljet、GE Additive、Desktop Metalなどが含まれます",
+    "url": "https://newscast.jp/smart/news/7302431",
+    "pass": 3
+   },
+   {
+    "quote": "また、本レポートでは、航空宇宙グレードのバインダージェット式3Dプリンター市場が加速する中、主要グローバル企業の独自の立場をより深く理解するため、同社の製品ポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、その戦略を分析しています",
+    "url": "https://newscast.jp/smart/news/7302431",
+    "pass": 3
+   },
+   {
+    "quote": "また、主要メーカーの生産地域分布、販売地域、提供される製品タイプ、市場集中度分析（競争環境、CR3、CR5、CR10の集中度比率（2024-2026年））、新製品と潜在的参入企業、市場のM&A活動と戦略に関する情報が含まれています",
+    "url": "https://newscast.jp/smart/news/7302431",
+    "pass": 3
+   },
+   {
+    "quote": "市場調査レポートでは、市場構造、主要企業のポジショニング、トップの成功戦略、競争ダッシュボード、企業評価象限を含む包括的な競争環境分析も提供されており、主要企業の詳細なプロファイルも掲載されています",
+    "url": "https://www.atpress.ne.jp/news/4635643",
+    "pass": 3
+   },
+   {
+    "quote": "第9章には日本の金属積層造形市場における関東、関西/近畿、中央/中部、九州・沖縄、東北、中国、北海道、四国の地域別の内訳が、それぞれ概要、歴史的および現在の市場トレンド（2020-2025年）、タイプ別内訳、コンポーネント別内訳、エンドユース産業別内訳、主要プレイヤー、市場予測（2026-2034年）と共に記載されている",
+    "url": "https://www.atpress.ne.jp/news/4635643",
+    "pass": 3
+   },
+   {
+    "quote": "第11章には主要企業のプロファイルとして、各社の事業概要、提供サービス、事業戦略、SWOT分析、主要ニュースとイベントが記載されている",
+    "url": "https://www.atpress.ne.jp/news/4635643",
+    "pass": 3
+   },
+   {
+    "quote": "第12章には日本の金属積層造形市場の業界分析として、推進要因、阻害要因、機会の概要と詳細、ポーターのファイブフォース分析（概要、買い手の交渉力、サプライヤーの交渉力、競争の度合い、新規参入の脅威、代替品の脅威）、バリューチェーン分析が記載されている",
+    "url": "https://www.atpress.ne.jp/news/4635643",
+    "pass": 3
+   },
+   {
+    "quote": "バインダージェット 市場で支配的な主要企業はどれですか?",
+    "url": "https://www.researchnester.jp/industry-analysis/binder-jet-market/2866",
+    "pass": 3
+   },
+   {
+    "quote": "当レポートに含まれる主要企業は、ExOne、Xometry、Voxel jet、…などがあり、各企業のバインダージェット3Dプリンター販売量、売上、価格、市場シェアなどを分析しました",
+    "url": "https://www.marketresearch.co.jp/cnt/global-binderjet-3d-printer-mrc-ipr11664/",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の動向",
+    "url": "https://www.marketresearch.co.jp/cnt/global-binderjet-3d-printer-mrc-ipr11664/",
+    "pass": 3
+   },
+   {
+    "quote": "・バインダージェット3Dプリンターの主要企業分析(企業情報、売上、市場シェアなど)",
+    "url": "https://www.marketresearch.co.jp/cnt/global-binderjet-3d-printer-mrc-ipr11664/",
+    "pass": 3
+   },
+   {
+    "quote": "世界のリニアトラックモジュール市場概要、主要企業の動向（売上、販売価格、市場シェア）、セグメント別市場規模（種類別：ローラーリニアガイド、円筒リニアガイド、ボールリニアガイド；用途別：CNC工作機械、自動化機器、精密機器、医療機器、その他）、 …",
+    "url": "https://www.marketresearch.co.jp/cnt/global-binderjet-3d-printer-mrc-ipr11664/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の静脈血栓塞栓症治療市場概要、主要企業の動向（売上、販売価格、市場シェア）、セグメント別市場規模（種類別：非分割型空気圧縮ポンプ、勾配なし分割型空気圧縮ポンプ；用途別：病院、クリニック、その他）、主要地域別市場規模、流通チ …",
+    "url": "https://www.marketresearch.co.jp/cnt/global-binderjet-3d-printer-mrc-ipr11664/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の可変圧縮比アクチュエータ市場概要、主要企業の動向（売上、販売価格、市場シェア）、セグメント別市場規模（種類別：マルチリンクリンケージ、可変シリンダーヘッド構造、可変ピストントップ構造、可変コンロッドリンケ …",
+    "url": "https://www.marketresearch.co.jp/cnt/global-binderjet-3d-printer-mrc-ipr11664/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の太陽電池式資産トラッカー市場概要、主要企業の動向（売上、販売価格、市場シェア）、セグメント別市場規模（種類別：2G、3G、4G、その他；用途別：車両、船舶、機械、その他）、主要地域別市場規模、流通チャネル分析などの情報を …",
+    "url": "https://www.marketresearch.co.jp/cnt/global-binderjet-3d-printer-mrc-ipr11664/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の露草エキス市場概要、主要企業の動向（売上、販売価格、市場シェア）、セグメント別市場規模（種類別：50%含有、95%含有、その他；用途別：医薬品・健康食品、化粧品、その他）、主要地域別市場規模、流通チャネル分析などの情報を掲載しています",
+    "url": "https://www.marketresearch.co.jp/cnt/global-binderjet-3d-printer-mrc-ipr11664/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の血球計数装置およびシステム市場概要、主要企業の動向（売上、販売価格、市場シェア）、セグメント別市場規模（種類別：自動血球計数装置、自動血球計数装置；用途別：病院、研究所）、主要地域別市場規模、流通チャネル分析など …",
+    "url": "https://www.marketresearch.co.jp/cnt/global-binderjet-3d-printer-mrc-ipr11664/",
+    "pass": 3
+   },
+   {
+    "quote": "世界のアートガラス市場概要、主要企業の動向（売上、販売価格、市場シェア）、セグメント別市場規模（種類別：合わせガラス、複層ガラス、強化ガラス、防弾ガラス、その他；用途別：商業ビル、住宅、その他）、主要地域別市場規模、流通チャネル分析などの情報を掲載していま …",
+    "url": "https://www.marketresearch.co.jp/cnt/global-binderjet-3d-printer-mrc-ipr11664/",
+    "pass": 3
+   },
+   {
+    "quote": "世界のガンマ線照射システム市場概要、主要企業の動向（売上、販売価格、市場シェア）、セグメント別市場規模（種類別：高エネルギー、中・低エネルギー；用途別：医療機器、医薬品、食品産業、化学産業、その他）、主要地域別市場規模、流通チャネル分 …",
+    "url": "https://www.marketresearch.co.jp/cnt/global-binderjet-3d-printer-mrc-ipr11664/",
+    "pass": 3
+   },
+   {
+    "quote": "世界のエアサスペンション電子制御ユニット市場概要、主要企業の動向（売上、販売価格、市場シェア）、セグメント別市場規模（種類別：設備、システム；用途別：商用車、乗用車）、主要地域別市場規模、流通チ …",
+    "url": "https://www.marketresearch.co.jp/cnt/global-binderjet-3d-printer-mrc-ipr11664/",
+    "pass": 3
+   },
+   {
+    "quote": "世界のろ過システム用カートリッジ市場概要、主要企業の動向（売上、販売価格、市場シェア）、セグメント別市場規模（種類別：プリーツ型液体フィルターカートリッジ、糸巻き型液体フィルターカートリッジ、メルトブロー型液体フ …",
+    "url": "https://www.marketresearch.co.jp/cnt/global-binderjet-3d-printer-mrc-ipr11664/",
+    "pass": 3
+   },
+   {
+    "quote": "マークフォージド・ジャパンが国内ドローン市場への参入を表明",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/markforged-metal-binder-jet-230526/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年12月に国内でのドローン規制が緩和されたことにともない（ドローンレベル4解禁）、マークフォージド・ジャパン株式会社が日本のドローン市場へ参入することを …",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/markforged-metal-binder-jet-230526/",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players operating in the market include ATI, Höganäs AB, OC Oerlikon Management AG, and Others.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-binder-jetting-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-binder-jetting-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-binder-jetting-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in metal binder jetting market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-binder-jetting-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Explore the Global Metal Binder Jetting Market — analysis of additive manufacturing trends, technological innovations, regional growth, competitive landscape, and a 10-year market forecast from 2026 to 2036.",
+    "url": "https://www.futuremarketinsights.com/reports/metal-binder-jetting-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.futuremarketinsights.com/reports/metal-binder-jetting-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies",
+    "url": "https://www.futuremarketinsights.com/reports/metal-binder-jetting-market",
+    "pass": 3
+   },
+   {
+    "quote": "Emerging Startups",
+    "url": "https://www.futuremarketinsights.com/reports/metal-binder-jetting-market",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/blogs/top-40-companies-in-binder-jetting-3d-printing-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.persistencemarketresearch.com/market-research/binder-jetting-services-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players operating in the binder jetting services market?",
+    "url": "https://www.persistencemarketresearch.com/market-research/binder-jetting-services-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "These forecasts, generated by IDTechEx analysts, go far beyond what is publicly available and is based upon an extensive number of primary interviews, providing the most important information to the reader. Over 100 company profiles are included as part of this report; this includes key OEMs, disruptive start-ups, incumbent powder providers, and emerging material companies.",
+    "url": "https://www.idtechex.com/en/research-report/metal-additive-manufacturing/1097",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the main players and emerging start-ups?",
+    "url": "https://www.idtechex.com/en/research-report/metal-additive-manufacturing/1097",
+    "pass": 3
+   },
+   {
+    "quote": "Primary interviews with key companies",
+    "url": "https://www.idtechex.com/en/research-report/metal-additive-manufacturing/1097",
+    "pass": 3
+   },
+   {
+    "quote": "Updates on key players and start-ups in metal additive manufacturing",
+    "url": "https://www.idtechex.com/en/research-report/metal-additive-manufacturing/1097",
+    "pass": 3
+   },
+   {
+    "quote": "Key material start-ups for metal additive manufacturing",
+    "url": "https://www.idtechex.com/en/research-report/metal-additive-manufacturing/1097",
+    "pass": 3
+   },
+   {
+    "quote": "IDTechEx has served over 35,000 customers globally. These range from large corporations to ambitious start-ups, and from Governments to research centers. Our customers use our work to make informed decisions and save time and resources.",
+    "url": "https://www.idtechex.com/en/research-report/metal-additive-manufacturing/1097",
+    "pass": 3
+   }
+  ],
+  "日本企業": [
+   {
+    "quote": "日本の3Dプリンティング金属市場は、日本政府が2040年までに世界の金属積層造形市場における日本のシェアを10%未満から20%に引き上げるという目標を掲げていること、また、同じ期間に機械部品および工具産業における航空宇宙などの高付加価値分野のシェアを30%から50%に引き上げるという目標を掲げていることから恩恵を受ける可能性があります",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾といった地域・国別の販売台数と収益（2021-2026年）、およびAPAC地域全体におけるタイプ別、用途別の販売状況（2021-2026年）が示されています",
+    "url": "https://newscast.jp/smart/news/7302431",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：航空宇宙用バインダージェット式3Dプリンターの世界市場2026年～2032年",
+    "url": "https://newscast.jp/smart/news/7302431",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形の日本市場（2026年～2034年）、市場規模（粉末床溶融、バインダージェッティング、直接エネルギー堆積、結合粉末押出）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/4635643",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形の日本市場（2026年～2034年）、市場規模（粉末床溶融、バインダージェッティング、直接エネルギー堆積、結合粉末押出）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4635643",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社マーケットリサーチセンター（本社：東京都港区、世界の市場調査資料販売）では、「金属積層造形の日本市場（2026年～2034年）、英文タイトル：Japan Metal Additive Manufacturing Market 2026-2034」調査資料を発表しました",
+    "url": "https://www.atpress.ne.jp/news/4635643",
+    "pass": 3
+   },
+   {
+    "quote": "資料には、金属積層造形の日本市場規模、動向、予測、関連企業の情報などが盛り込まれています",
+    "url": "https://www.atpress.ne.jp/news/4635643",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金属積層造形市場規模は2025年に3億9,110万米ドルに達しました",
+    "url": "https://www.atpress.ne.jp/news/4635643",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、スマートな運用とコスト削減を実現するためのIndustry 4.0プラクティスの導入増加も、日本の金属積層造形市場のシェア拡大に貢献しています",
+    "url": "https://www.atpress.ne.jp/news/4635643",
+    "pass": 3
+   },
+   {
+    "quote": "業界レポートによると、日本のスマートフォン販売台数は2024年に前年比で7%増加しました",
+    "url": "https://www.atpress.ne.jp/news/4635643",
+    "pass": 3
+   },
+   {
+    "quote": "特に先進的なエレクトロニクス産業で知られる日本では、企業が製品性能を向上させつつ、サイズと重量を削減するために金属積層造形を採用しています",
+    "url": "https://www.atpress.ne.jp/news/4635643",
+    "pass": 3
+   },
+   {
+    "quote": "競争が激化し、消費者向け電子機器分野で常に差別化が必要とされる中、日本の製造業者は優位性を保つために金属積層造形への依存度を高めています",
+    "url": "https://www.atpress.ne.jp/news/4635643",
+    "pass": 3
+   },
+   {
+    "quote": "次に、Industry 4.0プラクティスの採用拡大が日本の金属積層造形市場の成長を牽引しています",
+    "url": "https://www.atpress.ne.jp/news/4635643",
+    "pass": 3
+   },
+   {
+    "quote": "本調査会社によると、日本のIndustry 4.0市場規模は2024年に98億米ドルに達しました",
+    "url": "https://www.atpress.ne.jp/news/4635643",
+    "pass": 3
+   },
+   {
+    "quote": "日本の産業界が自動化、データ分析、相互接続システムを導入するにつれて、金属3Dプリンティングはスマート製造ワークフローに統合されています",
+    "url": "https://www.atpress.ne.jp/news/4635643",
+    "pass": 3
+   },
+   {
+    "quote": "技術的進歩が非常に重視される日本では、企業は競争力を維持するためにこれらの実践を活用しています",
+    "url": "https://www.atpress.ne.jp/news/4635643",
+    "pass": 3
+   },
+   {
+    "quote": "Industry 4.0の原則に沿うことで、製造業者はよりスマートな運用、低コスト、強化された製品性能を実現しており、このデジタル進化は日本の金属積層造形市場を強化しています",
+    "url": "https://www.atpress.ne.jp/news/4635643",
+    "pass": 3
+   },
+   {
+    "quote": "第4章には日本の金属積層造形市場の概要、市場ダイナミクス、業界トレンド、競合インテリジェンスといった導入部分が記載されている",
+    "url": "https://www.atpress.ne.jp/news/4635643",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋 (日本、中国、インド、インドネシア、マレーシア、オーストラリア、その他のアジア太平洋)",
+    "url": "https://www.researchnester.jp/industry-analysis/binder-jet-market/2866",
+    "pass": 3
+   },
+   {
+    "quote": "バインダージェット市場 – 日本の展望",
+    "url": "https://www.researchnester.jp/industry-analysis/binder-jet-market/2866",
+    "pass": 3
+   },
+   {
+    "quote": "日本のバインダージェット技術市場は、予測期間中に大幅なCAGRで成長すると予想されます",
+    "url": "https://www.researchnester.jp/industry-analysis/binder-jet-market/2866",
+    "pass": 3
+   },
+   {
+    "quote": "日本軽自動車協会連合会と日本自動車販売協会連合会の報告によると、2023年10月に国内販売台数は10.7％増の397,672台に達しました",
+    "url": "https://www.researchnester.jp/industry-analysis/binder-jet-market/2866",
+    "pass": 3
+   },
+   {
+    "quote": "Mitsubishi spinout AGC Ceramics Co., Ltd.",
+    "url": "https://www.researchnester.jp/industry-analysis/binder-jet-market/2866",
+    "pass": 3
+   },
+   {
+    "quote": "Sumitomo Electric Industries",
+    "url": "https://www.researchnester.jp/industry-analysis/binder-jet-market/2866",
+    "pass": 3
+   },
+   {
+    "quote": "Mitsubishi Spinoutとローランド DG が中国でバインダー ジェット 3D プリンティングの合弁会社を設立しました",
+    "url": "https://www.researchnester.jp/industry-analysis/binder-jet-market/2866",
+    "pass": 3
+   },
+   {
+    "quote": "同時に、日本企業は、かつて日本が初期の段階から積層造形（AM）に関与した後、放棄しかけた分野での活動をますます活発化させている",
+    "url": "https://www.researchnester.jp/industry-analysis/binder-jet-market/2866",
+    "pass": 3
+   },
+   {
+    "quote": "この発展を実証するのは、三菱からスピンアウトしたAGCセラミックス株式会社とローランド ディー.ジー.株式会社からのニュースです",
+    "url": "https://www.researchnester.jp/industry-analysis/binder-jet-market/2866",
+    "pass": 3
+   },
+   {
+    "quote": "日本のエアコン市場",
+    "url": "https://www.researchnester.jp/industry-analysis/binder-jet-market/2866",
+    "pass": 3
+   },
+   {
+    "quote": "Research Nester Japanは、データに基づいた洞察を複数の業界に提供する、世界な市場調査及び戦略コンサルティング会社です",
+    "url": "https://www.researchnester.jp/industry-analysis/binder-jet-market/2866",
+    "pass": 3
+   },
+   {
+    "quote": "著作権 © 2026 Research Nester Japan無断転載禁止",
+    "url": "https://www.researchnester.jp/industry-analysis/binder-jet-market/2866",
+    "pass": 3
+   },
+   {
+    "quote": "日本語版はありません",
+    "url": "https://www.marketresearch.co.jp/cnt/global-binderjet-3d-printer-mrc-ipr11664/",
+    "pass": 3
+   },
+   {
+    "quote": "地域・国別分析では、北米、アメリカ、カナダ、メキシコ、ヨーロッパ、ドイツ、イギリス、フランス、ロシア、アジア太平洋、日本、中国、インド、韓国、東南アジア、南米、中東、アフリカなどを対象にして、バインダージェット3Dプリンターの市場規模を算出しました",
+    "url": "https://www.marketresearch.co.jp/cnt/global-binderjet-3d-printer-mrc-ipr11664/",
+    "pass": 3
+   },
+   {
+    "quote": "– バインダージェット3Dプリンターの日本市場規模",
+    "url": "https://www.marketresearch.co.jp/cnt/global-binderjet-3d-printer-mrc-ipr11664/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年1月現在、日本で購入可能なバインダージェット方式の3DプリンターはExOne、Digital Metalなど数社に限られますが、コロナの影響で市場投入スケジュールは流動的なものの、2021年以降、GEアディティブ、HP、Desktop Metalなど、各社が相次いで製品投入を予定している注目分野です",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column02",
+    "pass": 3
+   },
+   {
+    "quote": "また日本では10台すでに稼働しています",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column02",
+    "pass": 3
+   },
+   {
+    "quote": "また砂型用3Dプリンターは日本で30台稼働しています",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column02",
+    "pass": 3
+   },
+   {
+    "quote": "日本ではどんな企業が導入しているのでしょうか？",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column02",
+    "pass": 3
+   },
+   {
+    "quote": "2021年1月現在、複数台のExOneの装置を導入して大量生産を行っている企業さまはまだ日本にはいらっしゃらないのですが、すでに今後の利用を見据えて検証を行っている企業様はいらっしゃいます",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column02",
+    "pass": 3
+   },
+   {
+    "quote": "日本で「この材料でこの形状は対応可能か」を検証し、社内の基準をみたすことができれば、世界中の生産拠点に一斉に導入したいという構想のもとで検証をお手伝いしている企業さまは複数社いらっしゃいます",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column02",
+    "pass": 3
+   },
+   {
+    "quote": "日本で製造方法を確立し、世界中の生産拠点で製造することができれば、サプライチェーン全体が大きくかわるインパクトがありますね！",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column02",
+    "pass": 3
+   },
+   {
+    "quote": "飯塚氏のお話の中で、すでに10を超える日本企業がこうした可能性に着目し、現実的な検討を進めていることが明らかになりました",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column02",
+    "pass": 3
+   },
+   {
+    "quote": "マークフォージド・ジャパン株式会社とニデックマシンツール株式会社（旧社名：日本電産マシンツール株式会社）が、 「北陸デジタルものづくりセンター」にMarkforgedの金属バインダージェット方式金属3Dプリンター「DM P2500」を納品したことを発表した",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/markforged-metal-binder-jet-230526/",
+    "pass": 3
+   },
+   {
+    "quote": "北陸デジタルものづくりセンターに「DM P2500 」を納入した、ニデックマシンツール株式会社は旧日本電産グループの工作機械部門で、三菱重工工作機械のAM部門を吸収するなど3Dプリンターへの取り組みを積極化させている",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/markforged-metal-binder-jet-230526/",
+    "pass": 3
+   },
+   {
+    "quote": "ニデックマシンツールの二井谷春彦社長は、プレスリリースで「この度、北陸デジタルものづくりセンターに、高い造形精度と生産性を誇る金属3Dプリンタ、DM P2500を導入できたことで、これから数多くの先進的な応用技術が生まれ、日本における製造革新の起爆剤になると確信しています",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/markforged-metal-binder-jet-230526/",
+    "pass": 3
+   },
+   {
+    "quote": "気になる日本発売は？",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/markforged-metal-binder-jet-230526/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年12月に国内でのドローン規制が緩和されたことにともない（ドローンレベル4解禁）、マークフォージド・ジャパン株式会社が日本のドローン市場へ参入することを …",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/markforged-metal-binder-jet-230526/",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツで2011年に発表されてから既に10年以上が経過しているが、イメージが先行し、日本の「モノづくり」の現場 …",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/markforged-metal-binder-jet-230526/",
+    "pass": 3
+   },
+   {
+    "quote": "TCT Japan 2025主催者に聞く！3Dプリンター展示会来場のポイントとは？",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/markforged-metal-binder-jet-230526/",
+    "pass": 3
+   },
+   {
+    "quote": "ShareLabは日本の業務用3Dプリンタ―およびAM（アディティブ・マニュファクチャリング）に関するあらゆる情報が集まるポータルサイトです",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/markforged-metal-binder-jet-230526/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/markforged-metal-binder-jet-230526/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Additive Manufacturing Meet-up (JAMM) #12 参加申込フォーム",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/markforged-metal-binder-jet-230526/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Additive Manufacturing Meet-up (JAMM) #13 参加申込フォーム",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/markforged-metal-binder-jet-230526/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Additive Manufacturing Meet-up (JAMM) #14 参加申込フォーム",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/markforged-metal-binder-jet-230526/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンタ（BJ） | 焼結部品 | 住友電工",
+    "url": "https://sumitomoelectric.com/jp/products/sintering/3dp",
+    "pass": 3
+   },
+   {
+    "quote": "住友電工について詳しく見る",
+    "url": "https://sumitomoelectric.com/jp/products/sintering/3dp",
+    "pass": 3
+   },
+   {
+    "quote": "住友電工グループの歴史",
+    "url": "https://sumitomoelectric.com/jp/products/sintering/3dp",
+    "pass": 3
+   },
+   {
+    "quote": "住友事業精神",
+    "url": "https://sumitomoelectric.com/jp/products/sintering/3dp",
+    "pass": 3
+   },
+   {
+    "quote": "住友電工グループ情報",
+    "url": "https://sumitomoelectric.com/jp/products/sintering/3dp",
+    "pass": 3
+   },
+   {
+    "quote": "Japan | JP",
+    "url": "https://sumitomoelectric.com/jp/products/sintering/3dp",
+    "pass": 3
+   },
+   {
+    "quote": "住友電工テクニカルレビュー",
+    "url": "https://sumitomoelectric.com/jp/products/sintering/3dp",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "3Dプリンティング金属市場の規模、シェア、成長率、予測（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティング金属市場の規模、シェア、トレンド分析レポート：タイプ別（鋼、チタン、アルミニウム、ニッケル）、技術別（指向性エネルギー堆積、バインダージェッティング、粉末床溶融、金属押出、その他（デジタルライトプロジェクター、マルチジェットフュージョン、マテリアルジェッティング））、形態別（粉末、フィラメント）、用途別（消費財、航空宇宙・防衛、自動車・輸送、ヘルスケア、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年に38.5%の市場シェアを占め、3Dプリンティング金属市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米市場シェア（2025年）",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場シェア",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼分野は、その高い強度、耐久性、そして産業、自動車、航空宇宙分野における幅広い用途により、2025年には市場シェアの34.2%を占めると予測されています",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "粉末床溶融法は、その高い精度、効率的な材料利用、そして複雑な形状の金属部品を製造できる能力により、2025年には市場シェアの43.8%を占めると予測されています",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "粉末材料セグメントは2025年に86.7%のシェアを占め、高い材料精度、効率的な堆積、複雑な金属部品の製造への適性といった利点に支えられ、2026年から2034年の予測期間中に年平均成長率（CAGR）24.9%で成長すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙・防衛分野の融合技術は、航空機や防衛システムにおける軽量・高強度・複雑な部品の製造に金属3Dプリンティングが広く利用されるようになったことにより、2025年には市場シェアの38.6%を占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の3Dプリンティング金属市場は、2025年には地域別で最大のシェアとなる38.5%を占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の3Dプリンティング金属市場は、日本政府が2040年までに世界の金属積層造形市場における日本のシェアを10%未満から20%に引き上げるという目標を掲げていること、また、同じ期間に機械部品および工具産業における航空宇宙などの高付加価値分野のシェアを30%から50%に引き上げるという目標を掲げていることから恩恵を受ける可能性があります",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年時点で、欧州の3Dプリンティング金属市場は地域シェアの28.4%を占めています",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティング金属市場の主要企業には、EOS GmbH、3D Systems Corporation、Renishaw plc、Stratasys Ltd.、およびNikon SLM Solutions AGがあり、これら4社で市場全体の約25～28%を占めている",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の3Dプリンティング金属市場において、最大のシェアを占める地域はどこだったでしょうか？",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年時点で38.5%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "売上高ベースでは、2025年に世界トップ2社が市場シェアの約％を占めました",
+    "url": "https://newscast.jp/smart/news/7302431",
+    "pass": 3
+   },
+   {
+    "quote": "本インサイトレポートは、世界の航空宇宙グレードバインダージェッティング3Dプリンター市場の全体像を包括的に分析し、製品セグメンテーション、企業動向、売上高、市場シェア、最新の開発動向、M&A活動に関連する主要なトレンドを明らかにします",
+    "url": "https://newscast.jp/smart/news/7302431",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートでは、製品タイプ、用途、主要メーカー、主要地域および国別に、航空宇宙グレードバインダージェット3Dプリンター市場の包括的な概要、市場シェア、成長機会を提示します",
+    "url": "https://newscast.jp/smart/news/7302431",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、メタル、サンド、ポリマー、その他のタイプ別セグメントに関する販売、収益、市場シェア、販売価格（2021-2026年）、および軍事用、民間用といった用途別セグメントに関する販売、収益、市場シェア、販売価格（2021-2026年）の要約が収録されています",
+    "url": "https://newscast.jp/smart/news/7302431",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、各企業の航空宇宙用バインダージェット式3Dプリンターの年間販売台数と市場シェア、年間収益と市場シェア（いずれも2021-2026年）、および企業別の販売価格に関するデータが提供されます",
+    "url": "https://newscast.jp/smart/news/7302431",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、スマートな運用とコスト削減を実現するためのIndustry 4.0プラクティスの導入増加も、日本の金属積層造形市場のシェア拡大に貢献しています",
+    "url": "https://www.atpress.ne.jp/news/4635643",
+    "pass": 3
+   },
+   {
+    "quote": "世界のバインダージェット市場調査、規模、シェアと予測 2035年",
+    "url": "https://www.researchnester.jp/industry-analysis/binder-jet-market/2866",
+    "pass": 3
+   },
+   {
+    "quote": "北米地域のバインダージェット市場は、予測期間中に約32％の最大市場シェアを保持すると予想されます",
+    "url": "https://www.researchnester.jp/industry-analysis/binder-jet-market/2866",
+    "pass": 3
+   },
+   {
+    "quote": "北米で市場シェアを拡大するために、数多くの 3D プリンティング バインダー ジェット ソリューションを提供するサプライヤーは、市場での地位を強化しています",
+    "url": "https://www.researchnester.jp/industry-analysis/binder-jet-market/2866",
+    "pass": 3
+   },
+   {
+    "quote": "ヨーロッパ地域のバインダー ジェット市場は、2035 年末に約 28% の 2 番目に大きなシェアを占めると予測されています",
+    "url": "https://www.researchnester.jp/industry-analysis/binder-jet-market/2866",
+    "pass": 3
+   },
+   {
+    "quote": "ハードウェアセグメントは、予測期間中に約 50% の最大市場シェアを保持すると考えられます",
+    "url": "https://www.researchnester.jp/industry-analysis/binder-jet-market/2866",
+    "pass": 3
+   },
+   {
+    "quote": "自動車セグメントは、予測期間中に約 42% の最大市場シェアを保持すると予想されます",
+    "url": "https://www.researchnester.jp/industry-analysis/binder-jet-market/2866",
+    "pass": 3
+   },
+   {
+    "quote": "回答: 北米地域市場は、2035年末に最大市場シェアを保持すると予測されており、将来に多くのビジネス機会がもたらされると予想されています",
+    "url": "https://www.researchnester.jp/industry-analysis/binder-jet-market/2866",
+    "pass": 3
+   },
+   {
+    "quote": "バインダージェット3Dプリンターの世界市場レポート（Global Binder-jet 3D Printer Market）では、セグメント別市場規模、主要地域と国別市場規模、国内外の主要プレーヤーの動向と市場シェア、販売チャネルなどの項目について詳細な分析を行いました",
+    "url": "https://www.marketresearch.co.jp/cnt/global-binderjet-3d-printer-mrc-ipr11664/",
+    "pass": 3
+   },
+   {
+    "quote": "当レポートに含まれる主要企業は、ExOne、Xometry、Voxel jet、…などがあり、各企業のバインダージェット3Dプリンター販売量、売上、価格、市場シェアなどを分析しました",
+    "url": "https://www.marketresearch.co.jp/cnt/global-binderjet-3d-printer-mrc-ipr11664/",
+    "pass": 3
+   },
+   {
+    "quote": "企業別売上及び市場シェア（～2025年）",
+    "url": "https://www.marketresearch.co.jp/cnt/global-binderjet-3d-printer-mrc-ipr11664/",
+    "pass": 3
+   },
+   {
+    "quote": "本調査資料は中国のバインダージェット3Dプリンター市場について調査・分析し、市場概要、市場動向、市場規模、市場予測、市場シェア、企業情報などを掲載しています",
+    "url": "https://www.marketresearch.co.jp/cnt/global-binderjet-3d-printer-mrc-ipr11664/",
+    "pass": 3
+   },
+   {
+    "quote": "・バインダージェット3Dプリンターの主要企業分析(企業情報、売上、市場シェアなど)",
+    "url": "https://www.marketresearch.co.jp/cnt/global-binderjet-3d-printer-mrc-ipr11664/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の太陽電池式資産トラッカー市場概要、主要企業の動向（売上、販売価格、市場シェア）、セグメント別市場規模（種類別：2G、3G、4G、その他；用途別：車両、船舶、機械、その他）、主要地域別市場規模、流通チャネル分析などの情報を …",
+    "url": "https://www.marketresearch.co.jp/cnt/global-binderjet-3d-printer-mrc-ipr11664/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の露草エキス市場概要、主要企業の動向（売上、販売価格、市場シェア）、セグメント別市場規模（種類別：50%含有、95%含有、その他；用途別：医薬品・健康食品、化粧品、その他）、主要地域別市場規模、流通チャネル分析などの情報を掲載しています",
+    "url": "https://www.marketresearch.co.jp/cnt/global-binderjet-3d-printer-mrc-ipr11664/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターのポータルサイト、シェアラボニュースの編集長として、これまで200人以上の業界関係者にインタヴューを実施",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column02",
+    "pass": 3
+   },
+   {
+    "quote": "By end use, the automotive & transportation segment led the market with the largest revenue share of 39.9% in 2024.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-binder-jetting-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Direct sales are anticipated to garner 43.0% share of distribution channel in 2026, followed by metal binder jetting printers as likely to lead to product type with 38.0% share in 2026. Adoption rests on stable sintered density and repeatable batch economics, with distortion during sintering and low equipment utilization forming principal barriers.",
+    "url": "https://www.futuremarketinsights.com/reports/metal-binder-jetting-market",
+    "pass": 3
+   },
+   {
+    "quote": "Direct sales are set to secure 43.0% share of distribution channel in 2026, influenced by qualification support and integrated commercial discussions.",
+    "url": "https://www.futuremarketinsights.com/reports/metal-binder-jetting-market",
+    "pass": 3
+   },
+   {
+    "quote": "Direct sales are estimated to secure 43.0% share of distribution channel in 2026, backed by complex qualification work and negotiated service arrangements. Manufacturer contact helps buyers align printing equipment with powder handling and furnace requirements.",
+    "url": "https://www.futuremarketinsights.com/reports/metal-binder-jetting-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share Analysis, 2025",
+    "url": "https://www.futuremarketinsights.com/reports/metal-binder-jetting-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America is expected to lead the binder jetting service market with around 38% share, supported by early technology adoption, concentration of advanced manufacturing service providers, strong aerospace and defense demand, and active collaboration between service bureaus, OEMs, and research institutions.",
+    "url": "https://www.persistencemarketresearch.com/market-research/binder-jetting-services-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Standard printing is expected to account for around 62% market share, driven by a high demand for green parts used in prototyping and early stage validation, where customers prioritize speed, cost efficiency, and rapid turnaround times over final part densification.",
+    "url": "https://www.persistencemarketresearch.com/market-research/binder-jetting-services-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "North America is the leading regional market, accounting for approximately 38% share, supported by early technology adoption, a concentration of advanced service bureaus and OEMs, and strong demand from the aerospace, defense, and healthcare sectors.",
+    "url": "https://www.persistencemarketresearch.com/market-research/binder-jetting-services-market.asp",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "航空宇宙用 バインダージェット 式3Dプリンターの世界 市場 ... — 航空宇宙用 バインダージェット 式3Dプリンターの世界 市場 ... Newscast.jp https://newscast.jp > smart > news",
+    "url": "https://newscast.jp/smart/news/7302431",
+    "pass": 3
+   },
+   {
+    "quote": "世界の バインダージェット 3Dプリンター 市場 2026年 — 世界の バインダージェット 3Dプリンター 市場 2026年 (株)マーケットリサーチセンター https://www.marketresearch.co.jp > cnt",
+    "url": "https://www.marketresearch.co.jp/cnt/global-binderjet-3d-printer-mrc-ipr11664/",
+    "pass": 3
+   },
+   {
+    "quote": "金属 用 バインダージェット 方式3Dプリンターの 先駆者 - ExOne — 金属 用 バインダージェット 方式3Dプリンターの 先駆者 - ExOne リコー ソリューション・商品サイト https://www.ricoh.co.jp > ... > 金属プリンター 一覧",
+    "url": "https://www.ricoh.co.jp/3dp/metal/column02",
+    "pass": 3
+   },
+   {
+    "quote": "バインダージェット 方式の 金属 3Dプリンターを北陸産総研に ... — バインダージェット 方式の 金属 3Dプリンターを北陸産総研に ... ShareLab NEWS https://news.sharelab.jp > 業界動向 > 金属3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/markforged-metal-binder-jet-230526/",
+    "pass": 3
+   },
+   {
+    "quote": "バインダージェット 方式とは - 3Dプリンターならアルテック — バインダージェット 方式とは - 3Dプリンターならアルテック 3d-printer.jp https://www.3d-printer.jp > Desktop Metal",
+    "url": "https://www.3d-printer.jp/desktop-metal/binder-jetting.html",
+    "pass": 3
+   },
+   {
+    "quote": "バインダージェット に適した 金属粉末 - MET3DP — バインダージェット に適した 金属粉末 - MET3DP Met3DP https://met3dp.com > 未分類",
+    "url": "https://met3dp.com/ja/binder-jetting-202403192/",
+    "pass": 3
+   },
+   {
+    "quote": "【 金属 3Dプリンター解説シリーズ④】 バインダージェット 方式 — 【 金属 3Dプリンター解説シリーズ④】 バインダージェット 方式 YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=LTUL2UvUmlY",
+    "pass": 3
+   },
+   {
+    "quote": "Metal Binder Jetting Market Size , Share Report, 2025 -2033 — Metal Binder Jetting Market Size , Share Report, 2025 -2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-binder-jetting-market-report",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "Metal additive manufacturing investment overview for 2024",
+    "url": "https://www.idtechex.com/en/research-report/metal-additive-manufacturing/1097",
+    "pass": 3
+   },
+   {
+    "quote": "Private funding in metal AM-related companies: 2021-2024",
+    "url": "https://www.idtechex.com/en/research-report/metal-additive-manufacturing/1097",
+    "pass": 3
+   },
+   {
+    "quote": "Private funding in Chinese metal AM companies 2024",
+    "url": "https://www.idtechex.com/en/research-report/metal-additive-manufacturing/1097",
+    "pass": 3
+   },
+   {
+    "quote": "Metal 3D printing private funding: 2023 vs 2024",
+    "url": "https://www.idtechex.com/en/research-report/metal-additive-manufacturing/1097",
+    "pass": 3
+   },
+   {
+    "quote": "Metal 3D printing private funding trends: 2023 vs 2024",
+    "url": "https://www.idtechex.com/en/research-report/metal-additive-manufacturing/1097",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "18",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "quote": "世界の3Dプリンティング金属市場規模は、2025年には12億米ドルと評価され、2026年の14億2000万米ドルから2034年には53億2000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は18%となる見込みです"
+   },
+   {
+    "value": "26.4",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "quote": "アルミニウム分野は、軽量性、高い強度重量比、複雑な3Dプリント部品への適合性といった特性により、年平均成長率（CAGR）26.4%で成長すると予測されています"
+   },
+   {
+    "value": "27.2",
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "quote": "バインダージェット方式は、高速生産、効率的な材料利用、複雑な金属部品を大規模に生産できる能力を背景に、年平均成長率（CAGR）27.2%で成長すると予測されています"
+   },
+   {
+    "value": "10.6",
+    "url": "https://newscast.jp/smart/news/7302431",
+    "quote": "世界の航空宇宙グレードバインダージェット3Dプリンター市場規模は、2025年の4,593万米ドルから2032年には9,168万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）10.6%で成長すると見込まれています"
+   },
+   {
+    "value": "10.5",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-binder-jetting-market-report",
+    "quote": "CAGR of 10.5% from 2025 to 2033"
+   },
+   {
+    "value": "16.1",
+    "url": "https://www.futuremarketinsights.com/reports/metal-binder-jetting-market",
+    "quote": "The metal binder jetting market grows at a CAGR of 16.1% between 2026 and 2036, supported by manufacturers converting design freedom into qualified part families across automotive, aerospace, and industrial programs that require controlled sintering behavior and verified production economics through"
+   },
+   {
+    "value": "15.02",
+    "url": "https://www.sphericalinsights.com/blogs/top-40-companies-in-binder-jetting-3d-printing-market-statistics-report-till-2035",
+    "quote": "According to a research report published by Spherical Insights & Consulting, The Global Binder Jetting 3D Printing Market Size is projected To Grow from USD 0.62 Billion in 2024 to USD 2.89 Billion by 2035, at a CAGR of 15.02% during the forecast period 2025–2035."
+   },
+   {
+    "value": "26.88",
+    "url": "https://www.sphericalinsights.com/blogs/top-40-companies-in-binder-jetting-3d-printing-market-statistics-report-till-2035",
+    "quote": "To Exceed USD193.77 Billion by 2035 | CAGR of 26.88% : Market Study Report"
+   },
+   {
+    "value": "5.2",
+    "url": "https://www.sphericalinsights.com/blogs/top-40-companies-in-binder-jetting-3d-printing-market-statistics-report-till-2035",
+    "quote": "To Exceed USD 1.24 Trillion by 2035 | CAGR of 5.2% : Market Study Report"
+   },
+   {
+    "value": "4.91",
+    "url": "https://www.sphericalinsights.com/blogs/top-40-companies-in-binder-jetting-3d-printing-market-statistics-report-till-2035",
+    "quote": "o Exceed USD 2.83 Billion by 2035 | CAGR of 4.91% : Market Size Report"
+   },
+   {
+    "value": "6.98",
+    "url": "https://www.sphericalinsights.com/blogs/top-40-companies-in-binder-jetting-3d-printing-market-statistics-report-till-2035",
+    "quote": "To Exceed USD 6.83 Billion by 2035 | CAGR of 6.98% : Market Study Report"
+   },
+   {
+    "value": "6.67",
+    "url": "https://www.sphericalinsights.com/blogs/top-40-companies-in-binder-jetting-3d-printing-market-statistics-report-till-2035",
+    "quote": "To Exceed USD 125.73 Billion by 2035 | CAGR of 6.67% : Market Study Report"
+   },
+   {
+    "value": "17.3",
+    "url": "https://www.persistencemarketresearch.com/market-research/binder-jetting-services-market.asp",
+    "quote": "CAGR of 17.3%"
+   },
+   {
+    "value": "10.4",
+    "url": "https://www.idtechex.com/en/research-report/metal-additive-manufacturing/1097",
+    "quote": "Revenues from metal 3D printing hardware and materials will grow at a CAGR of 10.4% from 2025-2035."
+   }
+  ],
+  "市場規模USD": [
+   {
+    "value": "128.7",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-binder-jetting-market-report",
+    "quote": "2024 Market Size: USD 128.7 Million"
+   },
+   {
+    "value": "331.4",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-binder-jetting-market-report",
+    "quote": "2033 Projected Market Size: USD 331.4 Million"
+   },
+   {
+    "value": "70",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-binder-jetting-market-report",
+    "quote": "announced a self-funded USD 70 million expansion of its nickel-based superalloy powder production near Monroe, North Carolina, aiming to support growing demand in aerospace jet engines and the additive manufacturing industry. The move strengthens ATI’s ability to supply high-performance powders for "
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/7302431",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/4635643",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/ja/reports/3d-printing-metal-market-1834",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/binder-jetting-3d-printing-technology-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=23122&la=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.jp/industry-analysis/binder-jet-market/2866",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearch.co.jp/cnt/global-binderjet-3d-printer-mrc-ipr11664/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketgrowthreports.com/jp/market-reports/metal-3d-printer-market-100284",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricoh.co.jp/3dp/metal/column02",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/markforged-metal-binder-jet-230526/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3d-printer.jp/desktop-metal/binder-jetting.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sumitomoelectric.com/jp/products/sintering/3dp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://met3dp.com/ja/binder-jetting-202403192/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/metal-powder-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-binder-jetting-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futuremarketinsights.com/reports/metal-binder-jetting-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/blogs/top-40-companies-in-binder-jetting-3d-printing-market-statistics-report-till-2035",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/metal-powder-market",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.persistencemarketresearch.com/market-research/binder-jetting-services-market.asp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/binder-jetting-3d-printing-technology-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.knowledge-sourcing.com/report/binder-jetting-3d-printing-technology-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idtechex.com/en/research-report/metal-additive-manufacturing/1097",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S2352492825019440",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/headmade-materials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nanalyze.com/2019/03/powder-binder-metal-3d-printing-companies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://all3dp.com/1/betting-on-binder-jetting-for-production-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ventureradar.com/funding/metal+binder+jetting",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "金属バインダージェット用粉末 市場規模 年平均成長率",
+   "results": [
+    "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "https://newscast.jp/smart/news/7302431",
+    "https://jp.linkedin.com/pulse/3d%E5%8D%B0%E5%88%B7%E7%94%A8%E7%90%83%E7%8A%B6%E9%87%91%E5%B1%9E%E7%B2%89%E6%9C%AB%E5%B8%82%E5%A0%B4%E3%81%AE%E6%B4%9E%E5%AF%9F2026%E5%B9%B42033%E5%B9%B4%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%8796%E3%81%A7%E6%88%90%E9%95%B7-insightflow-researchx-lubee",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://www.atpress.ne.jp/news/4635643",
+    "https://www.marketresearchfuture.com/ja/reports/3d-printing-metal-market-1834",
+    "https://www.gminsights.com/ja/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367"
+   ]
+  },
+  {
+   "query": "金属バインダージェット用粉末 市場 予測 富士経済 OR 矢野経済 OR シーエムシー",
+   "results": [
+    "https://newscast.jp/smart/news/7302431",
+    "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "https://www.mordorintelligence.com/ja/industry-reports/binder-jetting-3d-printing-technology-market",
+    "https://www.fuji-keizai.co.jp/press/detail.html?cid=23122&la=ja",
+    "https://www.researchnester.jp/industry-analysis/binder-jet-market/2866",
+    "https://www.marketresearch.co.jp/cnt/global-binderjet-3d-printer-mrc-ipr11664/",
+    "https://jp.linkedin.com/pulse/%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%E3%83%90%E3%82%A4%E3%83%B3%E3%83%80%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0-3d-%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%B8%82%E5%A0%B4%E3%81%AE%E6%88%90%E9%95%B7%E5%88%86%E6%9E%902026-2033%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E6%88%A6%E7%95%A5%E3%81%8A%E3%82%88%E3%81%B3cagr-75-qfole",
+    "https://www.marketgrowthreports.com/jp/market-reports/metal-3d-printer-market-100284",
+    "https://blog.met3dp.com/ja/blog/metal-pbf-vs-binder-jetting-in-2026-throughput-density-and-cost-trade-offs/"
+   ]
+  },
+  {
+   "query": "金属バインダージェット用粉末 参入 企業 国内",
+   "results": [
+    "https://www.ricoh.co.jp/3dp/metal/column02",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/markforged-metal-binder-jet-230526/",
+    "https://www.3d-printer.jp/desktop-metal/binder-jetting.html",
+    "https://sumitomoelectric.com/jp/products/sintering/3dp",
+    "https://met3dp.com/ja/binder-jetting-202403192/",
+    "https://www.youtube.com/watch?v=LTUL2UvUmlY",
+    "https://j3d.co.jp/blog/knowledge/index37/",
+    "https://newscast.jp/smart/news/7302431",
+    "http://3d.kinzoku-kakou-odec.com/column/column-786/",
+    "https://jp.linkedin.com/pulse/日本の工業用金属バインダージェット市場と主要企業-zen-wheels-society-usrke"
+   ]
+  },
+  {
+   "query": "binder jetting metal powder market size CAGR 2025",
+   "results": [
+    "https://www.mordorintelligence.com/industry-reports/metal-powder-market",
+    "https://www.grandviewresearch.com/industry-analysis/metal-binder-jetting-market-report",
+    "https://www.futuremarketinsights.com/reports/metal-binder-jetting-market",
+    "https://www.sphericalinsights.com/blogs/top-40-companies-in-binder-jetting-3d-printing-market-statistics-report-till-2035",
+    "https://www.precedenceresearch.com/metal-powder-market",
+    "https://www.persistencemarketresearch.com/market-research/binder-jetting-services-market.asp",
+    "https://www.polarismarketresearch.com/industry-analysis/metal-binder-jetting-market",
+    "https://www.linkedin.com/pulse/metal-binder-jetting-3d-printing-market-analysis-report-2026-2033-tctqf",
+    "https://straitsresearch.com/report/metal-additive-manufacturing-market",
+    "https://www.datamarketanalysis.com/reports/binder-jetting-market-size-forecast"
+   ]
+  },
+  {
+   "query": "binder jetting metal powder market key players competitive landscape",
+   "results": [
+    "https://www.persistencemarketresearch.com/market-research/binder-jetting-services-market.asp",
+    "https://www.futuremarketinsights.com/reports/metal-binder-jetting-market",
+    "https://www.mordorintelligence.com/industry-reports/binder-jetting-3d-printing-technology-market",
+    "https://www.linkedin.com/pulse/competitive-landscape-binder-jetting-technology-market-strong-ckf2e",
+    "https://www.knowledge-sourcing.com/report/binder-jetting-3d-printing-technology-market",
+    "https://www.idtechex.com/en/research-report/metal-additive-manufacturing/1097",
+    "https://www.gminsights.com/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "https://www.fortunebusinessinsights.com/3d-printing-metals-market-110817",
+    "https://www.unionfab.com/blog/2024/09/binder-jetting"
+   ]
+  },
+  {
+   "query": "binder jetting metal powder startup funding 2025",
+   "results": [
+    "https://www.sphericalinsights.com/blogs/top-40-companies-in-binder-jetting-3d-printing-market-statistics-report-till-2035",
+    "https://www.idtechex.com/en/research-report/metal-additive-manufacturing/1097",
+    "https://www.facebook.com/3dprintcom/posts/according-to-its-latest-financial-update-6k-additive-generated-72-million-in-rev/1817712643728854/",
+    "https://www.sciencedirect.com/science/article/abs/pii/S2352492825019440",
+    "https://startupintros.com/orgs/headmade-materials",
+    "https://www.nanalyze.com/2019/03/powder-binder-metal-3d-printing-companies/",
+    "https://www.mordorintelligence.com/industry-reports/binder-jetting-3d-printing-technology-market",
+    "https://www.youtube.com/watch?v=9ErJt60Vt2A",
+    "https://all3dp.com/1/betting-on-binder-jetting-for-production-additive-manufacturing/",
+    "https://www.ventureradar.com/funding/metal+binder+jetting"
+   ]
+  }
+ ],
+ "missing": {}
+}

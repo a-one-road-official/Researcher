@@ -1,4 +1,4 @@
-# IR1000本ノック 営業利益率10%以上の上場企業 誰に・何を・どうやって・お金の動き（事実のみ・192社）
+# IR1000本ノック 営業利益率10%以上の上場企業 誰に・何を・どうやって・お金の動き（事実のみ・288社）
 
 ## ＡＮＹＣＯＬＯＲ
 - 公式URL：https://www.anycolor.co.jp/（search:yahoo_jp:ANYCOLOR）
@@ -213,6 +213,126 @@
   - 「株式会社 AViC 代表取締役 社長 市原創吾氏 インタビュー — 株式会社 AViC 代表取締役 社長 市原創吾氏 インタビュー 経営ノート https://keiei-note.wizbiz.jp > ... > 上場企業の経営者」（https://keiei-note.wizbiz.jp/146-2/・3回目）
   - 「【IR広告】わずか4年で東証グロースに上場した成長企業 AViC ... — 【IR広告】わずか4年で東証グロースに上場した成長企業 AViC ... YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=Jug3JLIFsoM・3回目）
 
+## ＡｅｒｏＥｄｇｅ
+- 公式URL：https://aeroedge.co.jp/（search:yahoo_jp:AeroEdge）
+- 設立：2015年（平成27年）9月16日（https://aeroedge.co.jp/company/profile/・1回目）
+- 設立：2015年（平成27年）9月16日（https://aeroedge.co.jp/ir/overview/・1回目）
+- 従業員数：210人（2026年7月1日現在）（https://aeroedge.co.jp/company/profile/・1回目）
+- 従業員数：210人（2026年7月1日現在）（https://aeroedge.co.jp/ir/overview/・1回目）
+- 事業内容：航空機エンジン部品の製造、販売 自動車、鉄道、発電機等の部品の製造、販売 エンジニアリングサービスの提供（https://aeroedge.co.jp/company/profile/・1回目）
+- 事業内容：航空機エンジン部品の製造、販売 自動車、鉄道、発電機等の部品の製造、販売 エンジニアリングサービスの提供（https://aeroedge.co.jp/ir/overview/・1回目）
+- 売上高：1,824百万円（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf・3回目）
+- 売上高：3,602,276 5,084,657（https://kitaishihon.com/company/7409/business・3回目）
+- ビジネスモデル：
+  - 「自社の新たなビジネスモデルの構築に取り組んでいます」（https://aeroedge.co.jp/・1回目）
+  - 「収益構造と財務ハイライト」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf・3回目）
+  - 「ビジネスモデル」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf・3回目）
+  - 「01 高い加工/量産技術 02 設計権を持つエンジンメーカーとの直接取引 03 資源価格変動リスクに晒されない取引形態 04 航空機の生産と連動したビジネスモデル」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf・3回目）
+  - 「予測しやすく継続性の高いビジネスモデルを構築」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf・3回目）
+  - 「航空機の生産と連動したビジネスモデル」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf・3回目）
+  - 「01 高い加工/量産技術 02 グローバルエンジンメーカーとの直接取引 03 資源価格変動リスクに晒されない取引形態 04 将来予測を行いやすいビジネスモデル」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf・3回目）
+  - 「成長見込みが示されている航空業界に属し、受注残を10年分以上抱える航空機体の生産に連動するビジネスモデル」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf・3回目）
+  - 「受注残を10年分以上抱える航空機体に連動したビジネスモデル」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf・3回目）
+  - 「収益構造イメージ」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf・3回目）
+  - 「5. 収益構造と財務ハイライト」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf・3回目）
+  - 「収益構造イメージ対売上高比率（単位：％）」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf・3回目）
+- 誰に：
+  - 「お客様が満足する「ものづくり」を実現するため常に最先端の技術を研究・追求し、」（https://aeroedge.co.jp/・1回目）
+  - 「柔軟なサービスを提供し、お客様のご要望にお応えすることを約束いたします」（https://aeroedge.co.jp/・1回目）
+  - 「ITビジネス部は「ITをテクノロジーではなくビジネスとして捉える」ことを重視し、ITエンジニアが製造現場に入り込むことで現場のユーザー体験（UX）を追求しています」（https://aeroedge.co.jp/company/profile/・1回目）
+  - 「そして最終的には、その加工条件をお客様が正式に承認する必要があります」（https://aeroedge.co.jp/helloaeroedge/1845/・1回目）
+  - 「LEAPエンジン向けチタンアルミ製低圧タービンブレードは現在、顧客から支給された材料を加工し生産しています」（https://aeroedge.co.jp/ir/individual/・1回目）
+  - 「プライバシー情報のうち「履歴情報および特性情報」とは，上記に定める「個人情報」以外のものをいい，ご利用いただいたサービスやご購入いただいた商品，ご覧になったページや広告の履歴，ユーザーが検索された検索キーワード，ご利用日時，ご利用の方法，ご利用環境，郵便番号や性別，職業，年齢，ユーザーのIPアドレス，クッキー情報，位置情報，端末の個体識別情報などを指します」（https://aeroedge.co.jp/ir/inquiry/・1回目）
+  - 「当社は，ユーザーが利用登録をする際に氏名，生年月日，住所，電話番号，メールアドレス，銀行口座番号，クレジットカード番号，運転免許証番号などの個人情報をお尋ねすることがあります」（https://aeroedge.co.jp/ir/inquiry/・1回目）
+  - 「また，ユーザーと提携先などとの間でなされたユーザーの個人情報を含む取引記録や，決済に関する情報を当社の提携先（情報提供元，広告主，広告配信先などを含みます」（https://aeroedge.co.jp/ir/inquiry/・1回目）
+  - 「当社は，ユーザーについて，利用したサービスやソフトウエア，購入した商品，閲覧したページや広告の履歴，検索した検索キーワード，利用日時，利用方法，利用環境（携帯端末を通じてご利用の場合の当該端末の通信状態，利用に際しての各種設定情報なども含みます），IPアドレス，クッキー情報，位置情報，端末の個体識別情報などの履歴情報および特性情報を，ユーザーが当社や提携先のサービスを利用しまたはページを閲覧する際に収集します」（https://aeroedge.co.jp/ir/inquiry/・1回目）
+  - 「（1）ユーザーに自分の登録情報の閲覧や修正，利用状況の閲覧を行っていただくために，氏名，住所，連絡先，支払方法などの登録情報，利用されたサービスや購入された商品，およびそれらの代金などに関する情報を表示する目的」（https://aeroedge.co.jp/ir/inquiry/・1回目）
+  - 「（2）ユーザーにお知らせや連絡をするためにメールアドレスを利用する場合やユーザーに商品を送付したり必要に応じて連絡したりするため，氏名や住所などの連絡先情報を利用する目的」（https://aeroedge.co.jp/ir/inquiry/・1回目）
+  - 「（3）ユーザーの本人確認を行うために，氏名，生年月日，住所，電話番号，銀行口座番号，クレジットカード番号，運転免許証番号，配達証明付き郵便の到達結果などの情報を利用する目的」（https://aeroedge.co.jp/ir/inquiry/・1回目）
+- 何を：
+  - 「製品・サービス」（https://aeroedge.co.jp/・1回目）
+  - 「エンジニアリングサービス」（https://aeroedge.co.jp/・1回目）
+  - 「ソリューションカンパニーへ」（https://aeroedge.co.jp/・1回目）
+  - 「常に変わりゆく世の中で、社会への価値、社会から求められるソリューションを一人ひとりが創造し、組織で提供します」（https://aeroedge.co.jp/・1回目）
+  - 「創造性と技術力で感動をもたらすソリューションカンパニーへ」（https://aeroedge.co.jp/・1回目）
+  - 「加工・サービス案内」（https://aeroedge.co.jp/・1回目）
+  - 「Additive Manufacturing技術を用いた製品開発の支援や、」（https://aeroedge.co.jp/・1回目）
+  - 「柔軟なサービスを提供し、お客様のご要望にお応えすることを約束いたします」（https://aeroedge.co.jp/・1回目）
+  - 「製品・サービスに関してお気軽にお問い合わせください」（https://aeroedge.co.jp/・1回目）
+  - 「製品・サービス」（https://aeroedge.co.jp/company/profile/・1回目）
+  - 「エンジニアリングサービス」（https://aeroedge.co.jp/company/profile/・1回目）
+  - 「エンジニアリングサービスの提供」（https://aeroedge.co.jp/company/profile/・1回目）
+- どうやって売るか：
+  - 「マネジメント紹介」（https://aeroedge.co.jp/・1回目）
+  - 「AeroEdge紹介動画」（https://aeroedge.co.jp/・1回目）
+  - 「マネジメント紹介」（https://aeroedge.co.jp/company/profile/・1回目）
+  - 「マネジメント紹介」（https://aeroedge.co.jp/ir/・1回目）
+  - 「マネジメント紹介」（https://aeroedge.co.jp/helloaeroedge/1845/・1回目）
+  - 「マネジメント紹介」（https://aeroedge.co.jp/ir/news/・1回目）
+  - 「マネジメント紹介」（https://aeroedge.co.jp/ir/message/・1回目）
+  - 「マネジメント紹介」（https://aeroedge.co.jp/ir/performance/・1回目）
+  - 「マネジメント紹介」（https://aeroedge.co.jp/ir/library/・1回目）
+  - 「マネジメント紹介」（https://aeroedge.co.jp/ir/individual/・1回目）
+  - 「マネジメント紹介」（https://aeroedge.co.jp/ir/stock/・1回目）
+  - 「マネジメント紹介」（https://aeroedge.co.jp/ir/calendar/・1回目）
+- お金の形：
+  - 「なお，個人情報の開示に際しては，１件あたり1,000円の手数料を申し受けます」（https://aeroedge.co.jp/ir/inquiry/・1回目）
+  - 「販売単価についても契約によって原則として定められているため、当社の売上金額は一定の精度で見込むことができます」（https://kitaishihon.com/company/7409/business・3回目）
+  - 「営業外費用の主な内容は、設備投資資金の調達に伴う借入金残高の増加を反映した支払利息74,926千円及び支払手数料17,659千円であります」（https://kitaishihon.com/company/7409/business・3回目）
+  - 「なお、前事業年度に計上していたリファイナンスに伴うシンジケートローン手数料及び為替差損の反動により、営業外損益は改善しております」（https://kitaishihon.com/company/7409/business・3回目）
+- 売上構成：
+  - 「（全体売上に対する構成比：92.9％）」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf・3回目）
+  - 「（25年6月期売上構成比：94.5％）」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf・3回目）
+  - 「構成比：5.5％）」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf・3回目）
+  - 「対売上比率 △ 30.3% 28.5% 41.2% 45.1% 38.0%」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf・3回目）
+  - 「対売上比率 - - 16.4% 21.1% 18.2% 16.4%」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf・3回目）
+  - 「対売上比率 - 0.5% 20.5% 25.2% △ 0.9% 14.7%」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf・3回目）
+  - 「対売上比率 - 0.4% 23.0% 20.9% △ 1.0% 10.1%」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf・3回目）
+  - 「対売上比率 - 17.5% 31.4% 32.6% 19.3% 28.0%」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf・3回目）
+  - 「セグメント情報」（https://kitaishihon.com/company/7409/business・3回目）
+  - 「※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります」（https://kitaishihon.com/company/7409/business・3回目）
+  - 「※セグメントの売上や利益は、企業毎にその定義が異なる場合があります」（https://kitaishihon.com/company/7409/business・3回目）
+  - 「（単一セグメント）」（https://kitaishihon.com/company/7409/business・3回目）
+- 利益の源泉：
+  - 「品質管理クラウドを用いた不適合管理、RFIDを活用した在庫効率管理、ノーコード・ローコードで業務の効率化アプリを開発するための「内製アプリ基盤」を運用しています」（https://aeroedge.co.jp/company/profile/・1回目）
+  - 「により、生産実績、在庫、設備の稼働状況のデータを一元管理するデータ」（https://aeroedge.co.jp/company/profile/・1回目）
+  - 「当社はこれまで、チタンアルミブレード事業で大幅な改善を行い、高収益な体制を構築した経験があります」（https://aeroedge.co.jp/helloaeroedge/1845/・1回目）
+  - 「AeroEdgeでは機械加工や工程設計といった従来から持つ強みに基づく積層形状の設計や前後工程の設計を含めたご提案が可能です」（https://aeroedge.co.jp/machining/・1回目）
+  - 「AeroEdgeでは、歯車製造ノウハウを熟知した技術者が工程設計を行い、関係会社である菊地歯車株式会社を始めとする歯車加工に強みをもつ協力メーカー各社との連携により、精密な歯車製品の多様な加工ニーズに応えることが可能です」（https://aeroedge.co.jp/machining/・1回目）
+  - 「耐熱合金や開発中の材料への対応力に強みを持ち、最適な設備選定、治具設計、工具設定、加工条件出しなど短期間で良品を安定供給することが可能です」（https://aeroedge.co.jp/machining/・1回目）
+  - 「高い参入障壁」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf・3回目）
+  - 「01 成長市場 02 高い参入障壁」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf・3回目）
+  - 「02 高い参入障壁」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf・3回目）
+  - 「参入障壁が高い航空業界」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf・3回目）
+  - 「航空業界は他産業より、高い品質が求められ、参入障壁が高い」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf・3回目）
+  - 「01 回復から成長 02 高い参入障壁」（https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250902551698/140120250902551698.pdf・3回目）
+- 沿革：
+  - 「会社概要・沿革」（https://aeroedge.co.jp/・1回目）
+  - 「会社概要＆沿革」（https://aeroedge.co.jp/・1回目）
+  - 「2026年4月16日「チタンアル」（https://aeroedge.co.jp/・1回目）
+  - 「会社概要・沿革 - AeroEdge株式会社」（https://aeroedge.co.jp/company/profile/・1回目）
+  - 「会社概要・沿革」（https://aeroedge.co.jp/company/profile/・1回目）
+  - 「2015年（平成27年）9月16日」（https://aeroedge.co.jp/company/profile/・1回目）
+  - 「2015年（平成27年) 9月」（https://aeroedge.co.jp/company/profile/・1回目）
+  - 「2016年（平成28年) 1月」（https://aeroedge.co.jp/company/profile/・1回目）
+  - 「2016年（平成28年) 3月」（https://aeroedge.co.jp/company/profile/・1回目）
+  - 「2016年（平成28年) 4月」（https://aeroedge.co.jp/company/profile/・1回目）
+  - 「2018年（平成30年) 3月」（https://aeroedge.co.jp/company/profile/・1回目）
+  - 「2018年（平成30年) 6月」（https://aeroedge.co.jp/company/profile/・1回目）
+- 検索結果の抜粋：
+  - 「AeroEdge 株式会社（エアロエッジ） — AeroEdge 株式会社（エアロエッジ） AeroEdge株式会社 https://aeroedge.co.jp」（https://aeroedge.co.jp/・3回目）
+  - 「AeroEdge 、中長期目標として航空機エンジンMRO市場参入を ... — AeroEdge 、中長期目標として航空機エンジンMRO市場参入を ... ログミーFinance https://finance.logmi.jp > articles」（https://finance.logmi.jp/articles/383304・3回目）
+  - 「宇宙株のモート（堀）【018】 AeroEdge ｜まさ - note — 宇宙株のモート（堀）【018】 AeroEdge ｜まさ - note note https://note.com > ビジネス > キャリア・働き方」（https://note.com/good_dill292/n/n5c6a62ac634f・3回目）
+  - 「AeroEdge 【7409】の事業内容 - キタイシホン — AeroEdge 【7409】の事業内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/7409/business・3回目）
+  - 「決算説明資料 - AeroEdge 株式会社 — 決算説明資料 - AeroEdge 株式会社 AeroEdge株式会社 https://aeroedge.co.jp > IR情報」（https://aeroedge.co.jp/ir/presentations/・3回目）
+  - 「IR情報 - AeroEdge 株式会社 — IR情報 - AeroEdge 株式会社 AeroEdge株式会社 https://aeroedge.co.jp > ...」（https://aeroedge.co.jp/ir/・3回目）
+  - 「【速報版】 AeroEdge 株式会社 2026年6月期 決算説明 — 【速報版】 AeroEdge 株式会社 2026年6月期 決算説明 ログミーFinance https://finance.logmi.jp > articles」（https://finance.logmi.jp/articles/385816・3回目）
+  - 「AeroEdge （7409） 2026年6月期第2四半期 決算説明 - YouTube — AeroEdge （7409） 2026年6月期第2四半期 決算説明 - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=oVVMYaNdP64・3回目）
+  - 「【 AeroEdge 】[7409]IR情報 中期経営計画や 決算 短信 | 日経 ... — 【 AeroEdge 】[7409]IR情報 中期経営計画や 決算 短信 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo」（https://www.nikkei.com/nkd/company/kigyo/?scode=7409・3回目）
+  - 「会社概要・沿革 - AeroEdge 株式会社 — 会社概要・沿革 - AeroEdge 株式会社 AeroEdge株式会社 https://aeroedge.co.jp > company > profile」（https://aeroedge.co.jp/company/profile/・3回目）
+  - 「AeroEdge 【7409】の 事業 内容 - キタイシホン — AeroEdge 【7409】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/7409/business・3回目）
+  - 「【 AeroEdge 】[7409]IR情報 中期経営計画や決算短信 | 日経 ... — 【 AeroEdge 】[7409]IR情報 中期経営計画や決算短信 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo」（https://www.nikkei.com/nkd/company/kigyo/?scode=7409・3回目）
+
 ## ＦＦＲＩセキュリティ
 - 公式URL：https://www.ffri.jp/（search:yahoo_jp:FFRIセキュリティ）
 - 設立：2007年7月3日（https://www.ffri.jp/company/overview・1回目）
@@ -321,6 +441,227 @@
   - 「代表からみなさまへ - FFRIセキュリティ — 代表からみなさまへ - FFRIセキュリティ ＦＦＲＩ https://www.ffri.jp > ... > ＦＦＲＩセキュリティについて」（https://www.ffri.jp/company/ffri/greeting・3回目）
 - 従業員数：記載なし（3回確認済み：公式17頁／PDF・画像6件／外部2頁・検索5回）
 - 売上高：記載なし（3回確認済み：公式17頁／PDF・画像6件／外部2頁・検索5回）
+
+## ＧＭＯインターネットグループ
+- 公式URL：https://group.gmo/（search:yahoo_jp:GMOインターネットグループ）
+- 設立：1991年5月24日（https://group.gmo/company-profile/outline/・1回目）
+- 設立：GMOインターネットグループ株式会社とGMOサイバーセキュリティ byイエラエ株式会社および株式会社Preferred Networksが、ハードウェアからソフトウェアまでセキュリティが担保された国産AI環境を提供する合弁会社「GMO Preferred Security株式会社」を設立。（https://group.gmo/company-profile/history/・1回目）
+- 設立：GMOインターネットグループ株式会社と株式会社サムライパートナーズが、次世代スタジオ・コンテンツ事業を展開する合弁会社「GMOサムライコンテンツスタジオ株式会社」を設立。（https://group.gmo/company-profile/history/・1回目）
+- 従業員数：グループ 7,936名 （社員 6,612名 / 臨時従業員 1,324名） 2026年4月末日時点（https://group.gmo/company-profile/outline/・1回目）
+- 従業員数：連結：6578名 （2025年12月期）（https://ja.wikipedia.org/wiki/GMO%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97・3回目）
+- 従業員数：6578名（2025年12月末）（https://ja.wikipedia.org/wiki/GMO%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97・3回目）
+- 事業内容：持株会社（グループ経営機能） ■グループの事業内容 インターネットインフラ事業 インターネットセキュリティ事業 インターネット広告・メディア事業 インターネット金融事業 暗号資産事業 事業内容の詳細はこちら（https://group.gmo/company-profile/outline/・1回目）
+- 事業内容：持株会社（グループ経営機能） ■グループの事業内容 インターネットインフラ事業 インターネットセキュリティ事業 インターネット広告・メディア事業 インターネット金融事業 暗号資産事業（https://group.gmo/ir_news/article/903/・1回目）
+- 事業内容：持株会社（グループ経営機能） ■グループの事業内容 インターネットインフラ事業 インターネットセキュリティ事業 インターネット広告・メディア事業 インターネット金融事業 暗号資産事業（https://group.gmo/ir_news/article/902/・1回目）
+- 売上高：連結：2852億6100万円 （2025年12月期） [ 2 ]（https://ja.wikipedia.org/wiki/GMO%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97・3回目）
+- ビジネスモデル：
+  - 「GMOインターネットグループのビジネスモデルが生み出す成長戦略 | チームマイクの企業分析」（https://consovation.com/gmo%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E7%94%9F/・3回目）
+  - 「GMOインターネットグループのビジネスモデルが生み出す成長戦略」（https://consovation.com/gmo%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E7%94%9F/・3回目）
+  - 「イノベーションが導く成長戦略 驚くべきビジネスモデルを誇る株式会社フライトソリューションズ」（https://consovation.com/gmo%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E7%94%9F/・3回目）
+  - 「【株式会社クエスト】ビジネスモデルに迫る魅力と成長戦略」（https://consovation.com/gmo%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E7%94%9F/・3回目）
+  - 「株式会社Ridge-iのビジネスモデルをIR資料で読み解く 成長戦略に注目」（https://consovation.com/gmo%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E7%94%9F/・3回目）
+  - 「ビジネスモデルと成長戦略を徹底解説 株式会社visumoの最新IR資料級ガイド」（https://consovation.com/gmo%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E7%94%9F/・3回目）
+  - 「ビジネスモデルとIR資料で読み解く 驚異的な成長戦略を持つ株式会社モルフォの今と未来」（https://consovation.com/gmo%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E7%94%9F/・3回目）
+  - 「半導体分野で注目を集めるジーダットのビジネスモデルと成長戦略に迫る魅力的なIR資料のポイント」（https://consovation.com/gmo%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E7%94%9F/・3回目）
+  - 「沖縄セルラー電話の成長戦略に迫る 地域密着ビジネスモデルの魅力を解説」（https://consovation.com/gmo%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E7%94%9F/・3回目）
+  - 「朝日放送グループホールディングスの魅力を徹底解説 ビジネスモデルと成長戦略が生み出す新たな可能性」（https://consovation.com/gmo%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E7%94%9F/・3回目）
+  - 「北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル」（https://consovation.com/gmo%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E7%94%9F/・3回目）
+  - 「日本ドライケミカル株式会社の『ビジネスモデル』と圧倒的競争力を解」（https://consovation.com/gmo%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E7%94%9F/・3回目）
+- 誰に：
+  - 「インターネットビジネスを手掛けるお客様へ、インターネット上の住所ともいえる「ドメイン」や、データを保管するための「サーバー」をはじめ、ネットショップ導入のためのシステムを提供する「EC支援」や、ECで必須の「決済」、これら取引の安全を図る「セキュリティ」などといった、ビジネスの基盤となるサービスをワンストップでご提供いたします」（https://group.gmo/company-profile/business/・1回目）
+  - 「インターネットでビジネスを行うお客様の集客をお手伝いいたします」（https://group.gmo/company-profile/business/・1回目）
+  - 「60を超える国と地域のお客様がブースに来場」（https://group.gmo/company-profile/history/・1回目）
+  - 「導入企業数No.1を獲得」（https://group.gmo/company-profile/history/・1回目）
+  - 「「GMOグローバルサイン（株）」が提供する企業向けシングルサインオンサービス（IDaaS）「トラスト・ログイン byGMO」の導入企業数が6,300社を突破し、国内シングルサインオンサービスにおいて導入企業数No.1に」（https://group.gmo/company-profile/history/・1回目）
+  - 「「GMOグローバルサイン・ホールディングス（株）」の電子契約サービス「GMO電子印鑑Agree（現・電子印鑑GMOサイン）」、国内電子契約サービスにおける導入企業数No.1を達成」（https://group.gmo/company-profile/history/・1回目）
+  - 「連結子会社GMOインターネット株式会社における不正アクセスに伴うお客様へのお見舞金のお支払いおよび不正取引による損失の補償に関するお知らせ」（https://group.gmo/news/search/1/ir/・1回目）
+  - 「私たちGMOインターネットグループは、気候変動問題及び環境汚染を含む地球環境問題への取り組みを世界共通の問題であると認識し、インターネットのインフラ、サービス・インフラを提供する企業として当社グループのサービスを通じてお客様及び社会の環境負荷低減に取り組み、脱炭素社会への転換、持続可能な社会の実現を目指します」（https://group.gmo/csr/environment/・1回目）
+  - 「環境負荷軽減への顧客ニーズを充足できないことによる、事業機会の喪失」（https://group.gmo/csr/environment/・1回目）
+  - 「・サプライチェーンを通じた脱炭素やお客様・社会のグリーン化の対応加速に向けた専任組織を設置し、サステナビリティ関連の活動を推進」（https://group.gmo/csr/environment/・1回目）
+  - 「①お客様が便利に」（https://group.gmo/ai-history/・1回目）
+  - 「生成AIの利用者数が3カ月で倍増、第1位はChatGPT、第2位は?」（https://group.gmo/ai-history/・1回目）
+- 何を：
+  - 「エンジニアによる技術発信とクリエイターによる事例共有を通じて、No.1サービスを生み出す挑戦をお伝えします」（https://group.gmo/・1回目）
+  - 「GMOペイメントサービス、「GMO掛け払い」の プラットフォーマー向けAPI連携機能を提供開始」（https://group.gmo/・1回目）
+  - 「GMOペイメントサービス株式会社」（https://group.gmo/・1回目）
+  - 「GMOインターネットグループは、1995年にインターネット事業を開始して以来、「インターネットの便利さ、楽しさ、可能性を、一人でも多くのかたに届けたい」という強い思いのもと、インターネットに関連するさまざまなサービスをお届けしています」（https://group.gmo/company-profile/business/・1回目）
+  - 「インターネットビジネスを手掛けるお客様へ、インターネット上の住所ともいえる「ドメイン」や、データを保管するための「サーバー」をはじめ、ネットショップ導入のためのシステムを提供する「EC支援」や、ECで必須の「決済」、これら取引の安全を図る「セキュリティ」などといった、ビジネスの基盤となるサービスをワンストップでご提供いたします」（https://group.gmo/company-profile/business/・1回目）
+  - 「インターネットインフラ事業のサービス一覧」（https://group.gmo/company-profile/business/・1回目）
+  - 「「すべての人に安心な未来を」実現するインターネットのセキュリティサービスを提供」（https://group.gmo/company-profile/business/・1回目）
+  - 「「盗聴・改ざん・なりすまし防止・ログイン認証強化（SSL・暗号セキュリティ）」、「なりすまし監視・削除支援（ブランドセキュリティ）」、そして「サイバー攻撃対策（サイバーセキュリティ）」といった各種セキュリティサービスをご提供しています」（https://group.gmo/company-profile/business/・1回目）
+  - 「インターネットセキュリティ事業のサービス一覧」（https://group.gmo/company-profile/business/・1回目）
+  - 「自社メディアの運営を通じた広告枠の提供や、アドテクノロジーを活かした運用型広告など、ネット広告サービスを総合的に提供しております」（https://group.gmo/company-profile/business/・1回目）
+  - 「インターネット広告・メディア事業のサービス一覧」（https://group.gmo/company-profile/business/・1回目）
+  - 「取引高世界No.1規模のFX取引や株式取引などのインターネット証券サービスを提供しているほか、グループの強みを結集したテクノロジーバンクとして、GMOあおぞらネット銀行がインターネット銀行サービスを展開しております」（https://group.gmo/company-profile/business/・1回目）
+- どうやって売るか：
+  - 「東大・京大をはじめとする大学との関係についてご紹介するページを公開」（https://group.gmo/・1回目）
+  - 「GMOインターネットグループが積み上げてきたネットのセキュリティの軌跡をご紹介します」（https://group.gmo/・1回目）
+  - 「グループでの積極的なAI活用や、フィジカルとしてのロボティクスによる社会課題解決に向けた挑戦についてご紹介します」（https://group.gmo/・1回目）
+  - 「ここでは、弊社グループの取り組みと、皆様の電子印鑑化推進にお役に立つ情報をまとめたリンク集をご紹介しています」（https://group.gmo/・1回目）
+  - 「役員紹介・顧問紹介」（https://group.gmo/company-profile/outline/・1回目）
+  - 「グループ紹介」（https://group.gmo/company-profile/outline/・1回目）
+  - 「グループ紹介」（https://group.gmo/company-profile/business/・1回目）
+  - 「戦略的パートナーシップ契約を締結」（https://group.gmo/company-profile/history/・1回目）
+  - 「米Anthropicと戦略的パートナーシップ契約を締結」（https://group.gmo/company-profile/history/・1回目）
+  - 「GMO AI＆ロボティクス商事株式会社が、世界No.1の人型ロボット（ヒューマノイド）メーカーUnitree Roboticsと国内正規代理店契約を締結」（https://group.gmo/company-profile/history/・1回目）
+  - 「GMOインターネットグループ株式会社と株式会社サムライパートナーズが、次世代スタジオ・コンテンツ事業を展開する合弁会社「GMOサムライコンテンツスタジオ株式会社」を設立」（https://group.gmo/company-profile/history/・1回目）
+  - 「グループ全パートナー（従業員）が業務時間内に集中して“真剣に”AIに取り組み、業務効率化と生産性向上を加速させます」（https://group.gmo/company-profile/history/・1回目）
+- お金の形：
+  - 「GMO、画像生成AIサービス「ConoHa AI Canvas」の提供を開始--月額990円から」（https://group.gmo/ai-history/・1回目）
+  - 「昨日の経営会議にて、年間総額10億円、一人月額1万円の「GMO AIブースト支援金」制度を決定しました😊」（https://group.gmo/ai-history/・1回目）
+  - 「[プレスリリース]国内初の人型ロボット専用保守車両「GMOヒューマノイド救急車」を導入し、現場対応体制を強化」（https://group.gmo/ai-history/・1回目）
+  - 「[プレスリリース]GMO AI＆ロボティクス商事とTechShareが資本業務提携し、Unitree製ロボットの国内普及と保守体制強化を推進」（https://group.gmo/ai-history/・1回目）
+  - 「GMO傘下、Unitreeの国内正規代理店に 人型ロボの導入から保守まで一気通貫で支援」（https://group.gmo/ai-history/・1回目）
+  - 「「GMOペパボ（株）」、鹿児島県鹿児島市に開発・保守運用等を行うエンジニアに特化した地方拠点「GMOペパボ鹿児島オフィス」を開設」（https://group.gmo/company-profile/history/2015-2019/・1回目）
+  - 「「GMOインターネット（株）（現・GMOインターネットグループ（株））」、福岡県北九州市にサービスの監視・運用保守を行うエンジニア拠点「GMO kitaQ」を開設」（https://group.gmo/company-profile/history/2015-2019/・1回目）
+  - 「岩盤ストック収益」（https://group.gmo/library/file/GMOInternet_Group_Profile.pdf・2回目）
+  - 「強み②岩盤ストック収益とは」（https://group.gmo/library/file/GMOInternet_Group_Profile.pdf・2回目）
+  - 「継続課金の商材」（https://group.gmo/library/file/GMOInternet_Group_Profile.pdf・2回目）
+  - 「岩盤ストックによる」（https://group.gmo/library/file/GMOInternet_Group_Profile.pdf・2回目）
+  - 「岩盤ストック収益（億円）」（https://group.gmo/library/file/GMOInternet_Group_Profile.pdf・2回目）
+- 売上構成：
+  - 「「GMOクリックホールディングス（株）（現・GMOフィナンシャルホールディングス（株））」、仮想通貨の取引高の拡大を背景に、グループの金融セグメントにおける企業価値の向上を図るべく、「GMOコイン（株）」の第三者割当増資を引け受け同社を連結子会社化」（https://group.gmo/company-profile/history/2015-2019/・1回目）
+  - 「顧客セグメント」（https://consovation.com/gmo%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E7%94%9F/・3回目）
+  - 「同社が想定する顧客セグメントは、個人ユーザーから中小企業、大企業まで幅広い層に及びます」（https://consovation.com/gmo%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E7%94%9F/・3回目）
+  - 「連結業績サマリ（セグメント別）」（https://edinetdb.jp/company/E05123/presentations/・3回目）
+  - 「事業セグメント」（https://edinetdb.jp/company/E05123/presentations/・3回目）
+  - 「セグメント別業績サマリ」（https://edinetdb.jp/company/E05123/presentations/・3回目）
+  - 「セグメント内訳では、ドメイン・レンタルサーバー事業、インターネット接続事業、海外事業、インフラ事業共通費等が示される」（https://edinetdb.jp/company/E05123/presentations/・3回目）
+  - 「ストック売上比率86.3%（2026年3月末時点）」（https://edinetdb.jp/company/E05123/presentations/・3回目）
+  - 「参考資料│決算短信・決算説明資料におけるセグメントについて」（https://edinetdb.jp/company/E05123/presentations/・3回目）
+  - 「決算短信と決算説明資料におけるセグメントの関係」（https://edinetdb.jp/company/E05123/presentations/・3回目）
+  - 「決算短信ではセグメント別の売上・営業利益を開示」（https://edinetdb.jp/company/E05123/presentations/・3回目）
+  - 「本資料ではサブセグメントを設け、詳細な内訳を説明」（https://edinetdb.jp/company/E05123/presentations/・3回目）
+- 利益の源泉：
+  - 「取引高世界No.1規模のFX取引や株式取引などのインターネット証券サービスを提供しているほか、グループの強みを結集したテクノロジーバンクとして、GMOあおぞらネット銀行がインターネット銀行サービスを展開しております」（https://group.gmo/company-profile/business/・1回目）
+  - 「インターネットインフラ事業と広告・メディア事業の強みを融合し」（https://group.gmo/company-profile/history/・1回目）
+  - 「「GMOペイメントゲートウェイ（株）」、金融・決済領域のシステム開発に強みを持つ「（株）ビュフォート」の発行済み株式を全数取得し、グループ化」（https://group.gmo/company-profile/history/・1回目）
+  - 「GMOアドパートナーズによる全株式の取得により、モーションコミックをはじめとした動画ソリューション事業に強みを持つ株式会社シフトワンがグループにジョイン」（https://group.gmo/company-profile/history/2015-2019/・1回目）
+  - 「強み②岩盤ストック収益とは」（https://group.gmo/library/file/GMOInternet_Group_Profile.pdf・2回目）
+  - 「強み③リスク分散とは」（https://group.gmo/library/file/GMOInternet_Group_Profile.pdf・2回目）
+  - 「独自のドメイン管理やセキュリティ対策など、インターネットを快適かつ安全に使うための基礎を支える技術が充実しており、それが同社の大きな強みとなっています」（https://consovation.com/gmo%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E7%94%9F/・3回目）
+  - 「特定の分野で強みをもつ外部企業と組むことで、お互いのノウハウを活かしながら新しいサービス開発を進められるようになります」（https://consovation.com/gmo%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E7%94%9F/・3回目）
+  - 「企業概要と最近の業績株式会社モルフォ【全体の業績】株式会社モルフォは、高度な画像処理技術や最先端の人工知能技術を強みとし、スマートデバイスや車載をはじめとするモビリティ領域向けに革新的なソフトウェアおよびライセンスを提供する研究開発型のテク...」（https://consovation.com/gmo%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E7%94%9F/・3回目）
+  - 「営業活動は順調で、引き合いは非常に多く、在庫増加も問題ないと判断」（https://edinetdb.jp/company/E05123/presentations/・3回目）
+  - 「設備投資は在庫過多を避け、業界最先端を維持するため、チップ性能・在庫・稼働状況を見極めながら進める」（https://edinetdb.jp/company/E05123/presentations/・3回目）
+  - 「GPUクラウドの投資は実需連動型で、過度な在庫リスクを避ける方針」（https://edinetdb.jp/company/E05123/presentations/・3回目）
+- 沿革：
+  - 「2023年度新卒採用から国内平均年収を最高水準とする取り組み『～No1＆AI人財採用～新卒年収710万円プログラム』を開始いたしました」（https://group.gmo/・1回目）
+  - 「2026年11月2日」（https://group.gmo/・1回目）
+  - 「2026年10月30日」（https://group.gmo/・1回目）
+  - 「2026年10月22日」（https://group.gmo/・1回目）
+  - 「2026年10月21日」（https://group.gmo/・1回目）
+  - 「2026年10月20日」（https://group.gmo/・1回目）
+  - 「2026年10月19日」（https://group.gmo/・1回目）
+  - 「2026年10月16日」（https://group.gmo/・1回目）
+  - 「2026年10月15日」（https://group.gmo/・1回目）
+  - 「2026年10月8日」（https://group.gmo/・1回目）
+  - 「1991年5月24日」（https://group.gmo/company-profile/outline/・1回目）
+  - 「2026年9月末日時点」（https://group.gmo/company-profile/outline/・1回目）
+- 検索結果の抜粋：
+  - 「GMOインターネットグループ株式会社 — GMOインターネットグループは、インターネットインフラ事業、インターネットセキュリティ事業、インターネット広告・メディア事業、インターネット金融事業、暗号資産事業を展開し、日本のインターネットを支える総合インターネットグループです。「すべての人にインターネット」を ...」（https://group.gmo/?+・3回目）
+  - 「GMOインターネットグループのビジネスモデルが生み出す成長戦略 | チ... — May 21, 2025 · GMOインターネットグループの収益の流れは、ドメインやホスティングなどの利用料、金融取引の手数料、広告サービスによる収入が中心です。 多くの個人や企業が継続的にサービスを使うことで、安定的なストック収益を得られる構造になっています。」（https://consovation.com/gmoインターネットグループのビジネスモデルが生/・3回目）
+  - 「企業情報 | GMOインターネットグループ株式会社 — 「企業情報」ページです。 － インターネットのサービスを総合的に展開する、GMOインターネットグループの企業情報です。 トップメッセージをはじめ、事業内容や主要グループ会社、グループ概略などを掲載しています。」（https://group.gmo/company-profile/・3回目）
+  - 「【GMOインターネットグループ】徹底分析｜収益構造・株価変動・成長戦... — Jun 24, 2026 · GMOインターネットグループ（9449）を徹底分析。 インターネットインフラ、金融、暗号資産事業の収益構造から、直近の株価動向、上昇・下落シナリオ、今後の成長戦略まで初心者にも分かりやすく解説。 投資判断に役立つ実践的な企業分析記事。」（https://kurabetter.com/archives/18624・3回目）
+  - 「投資家情報｜GMOインターネットグループ株式会社 — 17 hours ago · GMOインターネットグループの株主・投資家のみなさま向けの情報を掲載しています。 当社をよくご理解いただけるよう経営方針や、決算・開示資料、業績情報、株主優待情報など様々なコンテンツを掲載しています。 【東証プライム上場 証券コード9449】」（https://ir.group.gmo/・3回目）
+  - 「IRニュース - GMOインターネットグループ株式会社 — 17 hours ago · GMOインターネットグループ株式会社 開示 2026年08月14日 2026年度第2四半期決算説明会を開催いたしました GMOインターネットグループ株式会社 決算 2026年08月14日 剰余金の配当（第2四半期配当）に関するお知らせ GMOインターネットグループ株式会社 開示 2026年 ...」（https://group.gmo/news/search/1/ir/・3回目）
+  - 「GMOインターネットグループ株式会社 決算説明資料 — EDINET DB — イベント概要として、企業名、企業ID、イベント言語、イベント種類、イベント名、決算期、日程、ページ数、時間、開催場所、登壇者（代表取締役グループ代表 熊谷正寿、取締役 グループ副社長執行役員・CFO 安田昌史）が記載されている。」（https://edinetdb.jp/company/E05041/presentations/・3回目）
+  - 「決算短信・説明会資料｜IRライブラリ｜投資家情報｜GMOインターネット... — GMOインターネットグループの株主・投資家のみなさま向けの情報を掲載しています。【東証プライム上場 証券コード9449】」（https://ir.group.gmo/library/presen/・3回目）
+  - 「GMOインターネットグループ - Wikipedia — GMOインターネットグループ株式会社 （ジーエムオーインターネットグループ、 英: GMO Internet Group, Inc.）は、 東京都 渋谷区 桜丘町 の セルリアンタワー に本社を置く、 インターネット 関連事業などを展開するグループの持株会社。 東証 プライム上場企業であり、 JPX日経インデックス400 の ...」（https://ja.wikipedia.org/wiki/GMOインターネットグループ・3回目）
+  - 「GMOインターネットグループ株式会社 — GMOインターネットグループは、インターネットインフラ事業、インターネットセキュリティ事業、インターネット広告・メディア事業、インターネット金融事業、暗号資産事業を展開し、日本のインターネットを支える総合インターネットグループです。」（https://group.gmo/?+・3回目）
+  - 「事業内容 | 企業情報 | GMOインターネットグループ株式会社 — 「事業内容」ページです。 － インターネットのサービスを総合的に展開する、GMOインターネットグループの企業情報です。 トップメッセージをはじめ、事業内容や主要グループ会社、グループ概略などを掲載しています。」（https://group.gmo/company-profile/business/・3回目）
+  - 「GMOインターネットグループ【9449】の事業内容 - キタイシホン — Nov 7, 2025 · 最新年度 ... 3 【事業の内容】 当社グループは、当社と連結子会社149社によって企業集団を構成しております。 各事業における事業内容及びグループ会社の位置づけは、次のとおりです。 ... [事業系統図]事業の系統図は以下のとおりになります。」（https://kitaishihon.com/company/9449/business・3回目）
+
+## ＧＭＯコマース
+- 公式URL：https://www.gmo-c.jp/（search:yahoo_jp:GMOコマース）
+- 設立：2012年11月22日（https://www.gmo-c.jp/company/about/・1回目）
+- 事業内容：店舗のCX向上およびDX推進を支援するマーケティングプラットフォーム等の開発、提供（https://www.gmo-c.jp/company/about/・1回目）
+- 事業内容：■インターネットインフラ事業 ドメイン登録・販売（レジストラ）事業 クラウド・レンタルサーバー（ホスティング）事業 インターネット接続（プロバイダー）事業 ■インターネット広告・メディア事業（https://group.gmo/news/article/10204/・3回目）
+- 事業内容：店舗のCX（顧客体験）向上およびDX（デジタルトランスフォーメーション）推進を支援するマーケティングプラットフォーム等の開発、提供（https://group.gmo/news/article/10204/・3回目）
+- 誰に：
+  - 「店舗の顧客対応を進化させる「」（https://www.gmo-c.jp/company/history/・1回目）
+  - 「AI搭載の店舗向けCX（顧客体験）プラットフォーム「」（https://www.gmo-c.jp/company/history/・1回目）
+  - 「当社は、お客様、取引先様、株主様、採用応募者様、並びに当社の役員及び職員等（以下「お客様等」といいます」（https://www.gmo-c.jp/service-inquiry/・1回目）
+  - 「当社は、お客様等の個人情報を、利用目的を可能な限り特定した上で、ウェブ画面上、電子メール、書面、その他の方法で、適切かつ公正に取得するものとします」（https://www.gmo-c.jp/service-inquiry/・1回目）
+  - 「なお、当社のサービスのご利用に当たっては、通信記録などのお客様等に関する情報が当社の設備に記録されることがあります」（https://www.gmo-c.jp/service-inquiry/・1回目）
+  - 「また、お客様等とのお電話による応対時に、お問い合わせ内容等を正確に把握するため、また当社のサービス品質向上のために、お客様等との通話を録音させて頂く場合があります」（https://www.gmo-c.jp/service-inquiry/・1回目）
+  - 「当社は、お客様等の個人情報の利用に際しては、本プライバシーポリシー内又は各サービスのウェブサイト内において、あらかじめ利用目的をできる限り特定した上で公表し、収集します」（https://www.gmo-c.jp/service-inquiry/・1回目）
+  - 「お客様等の同意を得た利用目的のため」（https://www.gmo-c.jp/service-inquiry/・1回目）
+  - 「サービス使用状況の分析、コンテンツレイアウトおよびサービス品質改善のための判断材料として、お客様等ご自身（本人）を識別できない状態（統計資料等）で、開示・利用するため」（https://www.gmo-c.jp/service-inquiry/・1回目）
+  - 「当社又は当社の提携先等の第三者が提供している各種サービスの提供に伴い、必要となる個人認証、申込・解約処理、サービスに付随したお客様等へのサポート対応を含む一連の運用業務、料金等の請求、与信管理、ならびに料金等の変更および当社で提供するサービスの変更、追加または廃止に係る通知をするため」（https://www.gmo-c.jp/service-inquiry/・1回目）
+  - 「当社又は当社の提携先等の第三者が提供している各種サービスに関連した情報を、電話、郵送による書面、FAX、E-mail等の方法を問わず、お客様等に提供するため」（https://www.gmo-c.jp/service-inquiry/・1回目）
+  - 「GMO店舗AIOサービスの利用者（加盟店）から委託を受けて収集する来店者の属性情報・アンケートデータ等（以下「来訪者情報」といいます」（https://www.gmo-c.jp/service-inquiry/・1回目）
+- 何を：
+  - 「提供サービス」（https://www.gmo-c.jp/・1回目）
+  - 「生成AI時代の購買行動 【GMO NIKKO調査】 商品・サービス検討時、約3人に1人が情報収集の「初手」に生成AI」（https://www.gmo-c.jp/・1回目）
+  - 「AI検索最適化（AIO）サービス」（https://www.gmo-c.jp/・1回目）
+  - 「運用を支援するサポートサービス」（https://www.gmo-c.jp/・1回目）
+  - 「提供サービス」（https://www.gmo-c.jp/company/about/・1回目）
+  - 「提供サービス」（https://www.gmo-c.jp/company/history/・1回目）
+  - 「Yahoo! JAPANと連携して「Yahoo!ショッピング」出店者向けにGoogle商品リスト広告を販売開始」（https://www.gmo-c.jp/company/history/・1回目）
+  - 「ネットショップ本店開店サポートサービス「まるっとサポート！ネットショップ」リリース」（https://www.gmo-c.jp/company/history/・1回目）
+  - 「O2O集客サポートサービス「まるっとサポート！O2O」リリース」（https://www.gmo-c.jp/company/history/・1回目）
+  - 「商品等の撮影代行サービス「おまかせ！撮影代行」リリース」（https://www.gmo-c.jp/company/history/・1回目）
+  - 「リスティング広告出稿代行サービス「おまかせ！リスティング広告」リリース」（https://www.gmo-c.jp/company/history/・1回目）
+  - 「競合商品価格の自動調査・更新ツール「すごい！商品プライス」リリース」（https://www.gmo-c.jp/company/history/・1回目）
+- どうやって売るか：
+  - 「GMO店舗AIO」（https://www.gmo-c.jp/・1回目）
+  - 「店舗様からのお問い合わせ」（https://www.gmo-c.jp/・1回目）
+  - 「GMOコマースは、あらゆる店舗のマーケティング課題を解決する最適なプラットフォームを提供します」（https://www.gmo-c.jp/・1回目）
+  - 「店舗のマーケティングにおけるNo.1プラットフォーマーです」（https://www.gmo-c.jp/・1回目）
+  - 「『リテールアジェンダ2026』登壇のご案内 ～生成AI検索時代の店舗集客をラウンドテーブルで議論～」（https://www.gmo-c.jp/・1回目）
+  - 「導入パートナー」（https://www.gmo-c.jp/・1回目）
+  - 「GMOコマースは豊富な実績から各種認定パートナーとして認められています」（https://www.gmo-c.jp/・1回目）
+  - 「インターネットでのデジタルマーケティングに関する高い知見とノウハウをもって、あらゆる店舗様のニーズに応じた的確なご提案を行うことが可能です」（https://www.gmo-c.jp/・1回目）
+  - 「GMO店舗AIO」（https://www.gmo-c.jp/company/about/・1回目）
+  - 「店舗様からのお問い合わせ」（https://www.gmo-c.jp/company/about/・1回目）
+  - 「店舗のCX向上およびDX推進を支援するマーケティングプラットフォーム等の開発、提供」（https://www.gmo-c.jp/company/about/・1回目）
+  - 「パートナー数」（https://www.gmo-c.jp/company/about/・1回目）
+- お金の形：
+  - 「チャーンレート」（https://ir.gmoc.jp/individual/・3回目）
+  - 「顧客数、単価、ARR、チャーンレートはGMOコマース単体」（https://ir.gmoc.jp/individual/・3回目）
+  - 「店舗数と単価の成長が、売上（ARR）の拡大を支えます」（https://ir.gmoc.jp/individual/・3回目）
+  - 「顧客数24,000店舗×単価16,000円」（https://ir.gmoc.jp/individual/・3回目）
+  - 「売上・ARRは「導入店舗数」と「1店舗あたりの単価」の掛け算で伸びます」（https://ir.gmoc.jp/individual/・3回目）
+  - 「GMOインターネットは、GMOコマースが持つ店舗の顧客基盤と、GMOインターネットのインターネットインフラ事業の顧客基盤との相互送客・クロスセルを進め、2領域のシナジー追求を一段と加速するとともに、広告事業におけるストック型商材の展開を推進します」（https://group.gmo/news/article/10204/・3回目）
+  - 「① クロスセル・ストック型収益への転換」（https://group.gmo/news/article/10204/・3回目）
+  - 「また、GMO NIKKOのAI検索対策に関する知見を活かし、店舗向けAIO（AI検索最適化）など、新たな提案領域への取り組みを加速するとともに、広告代理事業のフロー型収益に月額課金型サービスを組み合わせ、ストック型の収益への転換を進めます」（https://group.gmo/news/article/10204/・3回目）
+  - 「ビジネスとして顧客基盤とデータ基盤を持っている中で、ストックがしっかりと機能しており、「直近数年間は同じようなペースで伸びている」「今後も安定的に伸びるのではないか」と捉えていただいたところが、数字に現れたのではないかと個人的には考えています」（https://finance.logmi.jp/articles/382846・3回目）
+- 利益の源泉：
+  - 「本再編・統合は、GMOコマースを中核に、GMO NIKKO・GMOインサイト・GMOデジタルラボそれぞれの強みを組み合わせ、マーケティング領域の総合力を強化し、お客様への提供価値の最大化を目指すものです」（https://group.gmo/news/article/10204/・3回目）
+  - 「【各社の強み・事業領域】」（https://group.gmo/news/article/10204/・3回目）
+  - 「お客様の事業基盤を支える継続的な接点と、GMO GPUクラウドをはじめとする最先端AI領域への取り組みを強みとしています」（https://group.gmo/news/article/10204/・3回目）
+  - 「SNS運用支援を起点に、AIとデータを活用したマーケティング支援を強みとしています」（https://group.gmo/news/article/10204/・3回目）
+  - 「顧客の認知拡大や新規顧客獲得における戦略立案・クリエイティブ、広告運用までを一体で支援する総合マーケティング支援を強みとしています」（https://group.gmo/news/article/10204/・3回目）
+  - 「広告配信データや店舗における顧客接点とは異なる、メディア上での生活者の興味・関心や閲覧に関するデータを有することを強みとしています」（https://group.gmo/news/article/10204/・3回目）
+  - 「スローガン、新卒採用支援「Goodfind」が堅調に成長 不採算事業の整理で上期増収増益、営業利益率34.7％」（https://finance.logmi.jp/articles/382846・3回目）
+- 沿革：
+  - 「2026年12月期配当予想の修正（増配）に関するお知らせ」（https://www.gmo-c.jp/・1回目）
+  - 「2026年12月期通期連結業績予想の修正に関するお知らせ」（https://www.gmo-c.jp/・1回目）
+  - 「2012年11月22日」（https://www.gmo-c.jp/company/about/・1回目）
+  - 「沿革 – GMOコマース株式会社」（https://www.gmo-c.jp/company/history/・1回目）
+  - 「2012年11月」（https://www.gmo-c.jp/company/history/・1回目）
+  - 「2012年12月」（https://www.gmo-c.jp/company/history/・1回目）
+  - 「2013年3月」（https://www.gmo-c.jp/company/history/・1回目）
+  - 「2013年6月」（https://www.gmo-c.jp/company/history/・1回目）
+  - 「2013年8月」（https://www.gmo-c.jp/company/history/・1回目）
+  - 「2013年10月」（https://www.gmo-c.jp/company/history/・1回目）
+  - 「2013年11月」（https://www.gmo-c.jp/company/history/・1回目）
+  - 「2014年5月」（https://www.gmo-c.jp/company/history/・1回目）
+- 検索結果の抜粋：
+  - 「3分でわかる GMOコマース — 3分でわかる GMOコマース ir.gmoc.jp https://ir.gmoc.jp > IR情報」（https://ir.gmoc.jp/individual/・3回目）
+  - 「GMOコマース 株式会社 — GMOコマース 株式会社 GMOコマース株式会社 https://www.gmo-c.jp」（https://www.gmo-c.jp/・3回目）
+  - 「GMOコマース ［410A］IPO - YouTube — GMOコマース ［410A］IPO - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=3Jk89QcY2lg&vl=ja・3回目）
+  - 「IRライブラリ 決算説明資料 - GMOコマース株式会社 — IRライブラリ 決算説明資料 - GMOコマース株式会社 ir.gmoc.jp https://ir.gmoc.jp > IR情報」（https://ir.gmoc.jp/presentations/・3回目）
+  - 「IRライブラリ 決算 短信 - GMOコマース株式会社 — IRライブラリ 決算 短信 - GMOコマース株式会社 ir.gmoc.jp https://ir.gmoc.jp > IR情報」（https://ir.gmoc.jp/results/・3回目）
+  - 「GMOコマース 株式会社 2025年8月 — GMOコマース 株式会社 2025年8月 GMOクリック証券 PDF https://www.click-sec.com > ipo > mokuromi_pdf」（https://www.click-sec.com/corp/guide/kabu/ipo/mokuromi_pdf/410A_20250901.pdf・3回目）
+  - 「トップメッセージ - GMOコマース株式会社 — トップメッセージ - GMOコマース株式会社 ir.gmoc.jp https://ir.gmoc.jp > IR情報」（https://ir.gmoc.jp/message/・3回目）
+  - 「【質疑応答】 GMOコマース 株式会社（410A） 新規上場記者会見 — 【質疑応答】 GMOコマース 株式会社（410A） 新規上場記者会見 ログミーFinance https://finance.logmi.jp > articles」（https://finance.logmi.jp/articles/382846・3回目）
+  - 「会社概要 - GMOコマース株式会社 — 会社概要 - GMOコマース株式会社 GMOコマース株式会社 https://www.gmo-c.jp > 会社情報」（https://www.gmo-c.jp/company/about/・3回目）
+- 従業員数：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部7頁・検索5回）
+- 売上高：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部7頁・検索5回）
+- ビジネスモデル：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部7頁・検索5回）
+- 売上構成：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部7頁・検索5回）
 
 ## ＧＭＯフィナンシャルホールディングス
 - 公式URL：https://www.gmofh.com/（search:ddgs:google:GMOフィナンシャルホールディングス）
@@ -577,6 +918,120 @@
   - 「会社情報｜ GMOペイメントゲートウェイ — 会社情報｜ GMOペイメントゲートウェイ GMOペイメントゲートウェイ https://www.gmo-pg.com > corp」（https://www.gmo-pg.com/corp/・3回目）
   - 「ABOUT US - 事業 内容 - GMOペイメントゲートウェイ — ABOUT US - 事業 内容 - GMOペイメントゲートウェイ GMOペイメントゲートウェイ https://www.gmo-pg.com > corp > recruit > about_business」（https://www.gmo-pg.com/corp/recruit/about_business/・3回目）
 - 事業内容：記載なし（3回確認済み：公式25頁／PDF・画像16件／外部2頁・検索5回）
+
+## Ｇｌｏｂｅｅ
+- 公式URL：https://globeeawards.com/（search:yahoo_jp:Globee）
+- 設立：2014年6月12日（https://www.globee.io/company・3回目）
+- 従業員数：49名（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+- 従業員数：48名（派遣・業務委託含む） * 2023年04月末現在（https://www.globee.io/company・3回目）
+- 事業内容：AI英語学習アプリ「abceed」、 反転学習プラットフォーム「abceed for school」、 AI英語スクール「ABCEED ENGLISH」の開発·運営（https://www.globee.io/company・3回目）
+- 売上高：1,637,523 2,040,000 2,045,895 408,372 24.9% 5,895 0.3%（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+- 売上高：46.0% 44.4% 41.2%（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+- 売上高：7.6% 7.9% 10.2%（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+- ビジネスモデル：
+  - 「* **ビジネスモデル：** 1,400以上の教材コンテンツとAIによるパーソナライズ学習を強みとし、オーガニックユーザー獲得率91％という高い集客効率を実現」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「ビジネスモデルの優位性を活かした成長サイクルを実現」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「［事業系統図］」（https://kitaishihon.com/company/5575/business・3回目）
+  - 「ソフトバンクの大きな強みは、ビジネスモデルです」（https://keiei-note.wizbiz.jp/155-2/・3回目）
+  - 「「ビジネスモデルとは何なのか、ビジネスはどのように考えて拡大させていくのか」といったことを吸収することができ、大きな学びを得たと思います」（https://keiei-note.wizbiz.jp/155-2/・3回目）
+  - 「ビジネスモデル、アイデア、経験、お金、と色々考えましたが、結論はどれでもありません」（https://keiei-note.wizbiz.jp/155-2/・3回目）
+- 誰に：
+  - 「* **有料会員数：** 15万人超」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「* **累計ユーザー数：** 660万人超」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「* **ビジネスモデル：** 1,400以上の教材コンテンツとAIによるパーソナライズ学習を強みとし、オーガニックユーザー獲得率91％という高い集客効率を実現」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「* **成長サイクル：** コンテンツ拡充とAI機能の強化によりユーザー数と有料会員数を拡大し、蓄積された学習データでさらなる精度向上を図る好循環を構築」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「* **今後の展開：** 2027年5月期はマーケティング強化による有料会員数の拡大に加え、段階的な単価上昇施策を実施」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「管理画面はユーザー数（学習者数）あたりの単価」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「ユーザー数*3」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「有料会員数*4」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「2024年3月の値上げによる単価の上昇、マーケティング強化による会員数の増加が売上高成長に寄与」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「累計ユーザー数」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「廉価プラン会員数の大幅増により前年同期末比29％増加を達成」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「Q2は、例年割引キャンペーンを実施（24/5期は無し）するため相応に会員数は増加する傾向」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+- 何を：
+  - 「AI教材サービス」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「AI英語学習サービス」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「*教材アプリAは複数教科対応のAI教材サービス、教材アプリBは複数教科対応の教材プラットフォームサービス」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「競合サービスとの比較から」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「プラットフォーマー(Apple Inc.及びGoogle LLC)の予期せぬストア運営方針の変更・サービス展開への支障・収益及び利益率の変動」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「・各プラットフォーマーの運営方針に関する情報収集・プラットフォームの動向に影響を受けない法人向けの提供やコーチングサービスなどによる売上高の割合を増加させ、収益源を分散化」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「サービスの品質及び魅力の低下・重要度の高く、ユーザーの需要の多いコンテンツのライセンスが確保できない・既存の出版社のうち重要な取引先との取引が停止」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「特定サービスに依存しているリスク(顕在可能性:低)」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「単ーセグメント、主要サービスである「abceed」に売上高の多くを依存」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「・法人向けの展開強化による顧客層の分散・コーチングサービスの強化」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「本情報來源：TDNet（東京証券取引所 適時開示情報閲覧サービス）」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「人々が情報のインプットやテスト対策に割く時間を短縮し、より創造的な活動ができるようなサービスを作りたい」（https://www.globee.io/・3回目）
+- どうやって売るか：
+  - 「本サイトの使用により、当サイトおよびパートナーはいかなる損失に対しても責任を負わないことに同意したものとみなされます」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「日経電子版のサービス・機能を紹介」（https://www.nikkei.com/nkd/company/kigyo/?scode=5575・3回目）
+  - 「紙面紹介と購読案内」（https://www.nikkei.com/nkd/company/kigyo/?scode=5575・3回目）
+  - 「法人向けについては、営業人員の拡充と体制強化を継続したことが奏功し、導入法人数は当事業年度末時点で累計690件まで伸長しております」（https://kitaishihon.com/company/5575/business・3回目）
+  - 「今回、ご紹介する経営者は、幾嶋研三郎氏（株式会社Globee 代表取締役社長）です」（https://keiei-note.wizbiz.jp/155-2/・3回目）
+  - 「まずは経歴のご紹介です」（https://keiei-note.wizbiz.jp/155-2/・3回目）
+  - 「私自身もTOEICコースを受け持ち、中目黒と渋谷で店舗型の英語学校の運営を始めました」（https://keiei-note.wizbiz.jp/155-2/・3回目）
+  - 「※インタビュー出演、企業紹介などにご興味をお持ちの方は」（https://keiei-note.wizbiz.jp/155-2/・3回目）
+  - 「私たちが描いた理想のアイディアを形にすることで、ユーザーやパートナー企業、一緒に働く仲間が増えていく、そうした好循環が生まれています」（https://www.globee.io/company・3回目）
+- お金の形：
+  - 「* **サブスクリプション売上比率：** 97％」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「* **今後の展開：** 2027年5月期はマーケティング強化による有料会員数の拡大に加え、段階的な単価上昇施策を実施」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「管理画面はユーザー数（学習者数）あたりの単価」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「サブスクリプション売上比率*2」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「2024年3月の値上げによる単価の上昇、マーケティング強化による会員数の増加が売上高成長に寄与」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「サブスク売上比率」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「サブスク売上比率*2」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「版元との信頼関係を積み重ねることで新たなライセンスを獲得」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「既存 abceed 有料会員の平均単価（1,661円/月 × 12ヶ月）」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「2027年5月期は有料会員数の増加に加え、単価の上昇にも着手」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「2. 単価の上昇」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「② 平均単価の減少（直近での売上成長への影響は弱い）」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+- 売上構成：
+  - 「* **サブスクリプション売上比率：** 97％」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「サブスクリプション売上比率*2」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「チャネル別売上構成比率」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「toC売上比率*1」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「サブスク売上比率」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「サブスク売上比率*2」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「単ーセグメント、主要サービスである「abceed」に売上高の多くを依存」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「セグメント情報」（https://kitaishihon.com/company/5575/business・3回目）
+  - 「※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります」（https://kitaishihon.com/company/5575/business・3回目）
+  - 「※セグメントの売上や利益は、企業毎にその定義が異なる場合があります」（https://kitaishihon.com/company/5575/business・3回目）
+  - 「（単一セグメント）」（https://kitaishihon.com/company/5575/business・3回目）
+  - 「単一セグメントの企業の場合は、連結（あるいは単体）の売上と営業利益を反映しています」（https://kitaishihon.com/company/5575/business・3回目）
+- 利益の源泉：
+  - 「* **ビジネスモデル：** 1,400以上の教材コンテンツとAIによるパーソナライズ学習を強みとし、オーガニックユーザー獲得率91％という高い集客効率を実現」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「2 当社の強み」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「3つの強みをかけ合わせ、独自のポジショニングを確立」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「(売上総利益率)」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「(営業利益率)」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「当社では大量の教材コンテンツ、問題に対する大量の学習データやユーザーのTOEIC®公開テストなどの実績データを保有しているのが強みでありますが、それらに加えて英語学習及びTOEIC®等の対策に精通したスタッフによるノウハウも反映しており、以下の２つの特徴によるユーザーの学習成果の向上の強化を図っております」（https://kitaishihon.com/company/5575/business・3回目）
+  - 「ソフトバンクの大きな強みは、ビジネスモデルです」（https://keiei-note.wizbiz.jp/155-2/・3回目）
+  - 「でも自分が大学受験を目指した時に、本当にその1900単語を全部覚える必要はあるでしょうか？すでに知っている単語が1900の中にあるのではないでしょうか？こういう課題を解決できるのが、AI教材の強みです」（https://keiei-note.wizbiz.jp/155-2/・3回目）
+- 沿革：
+  - 「2026年5月期には売上高20.5億円、経常利益率22％を見込み、年平均30％の売上・利益成長を目標に掲げています」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「2024年3月の値上げによる単価の上昇、マーケティング強化による会員数の増加が売上高成長に寄与」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「2026年5月期末時点」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「2026年5月期末までの累計ユーザー数（約665万人）」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「2027年5月期は有料会員数の増加に加え、単価の上昇にも着手」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「2027年5月期も、廉価プラン有料会員数の増加に注力その結果、下記2点を今期の影響として予想」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「2026年5月期は、前期比+24.9%と高い売上高成長率を継続、マーケティング強化により利益率は低下2026年4月14日に上方修正した業績予想対比では、売上高、利益ともにほぼ予想通りに着地」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「2015年3月に慶應義塾大学卒業」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「2014年6月にGlobeeを創業、代表取締役社長に就任」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「2015年3月に東京大学大学院修了」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「2017年8月、当社取締役CTOに就任し、現在はモバイル・フロントエンド・バックエンド・データ分析・インフラまで、横断的に開発を行う」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「2023年度～2025年度の本試験3年分を完全収録（2022年度以前、2026年度版も年内に対応予定）」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+- 検索結果の抜粋：
+  - 「[G－ Globee 5575.T] 事業計画及び成長可能性に関する ... — [G－ Globee 5575.T] 事業計画及び成長可能性に関する ... BigGo ファイナンス https://finance.biggo.jp > jpx_tdnet_140120260825525994」（https://finance.biggo.jp/news/jpx_tdnet_140120260825525994・3回目）
+  - 「株式会社 Globee | 個人の可能性を最大化する — 株式会社 Globee | 個人の可能性を最大化する 株式会社Globee https://www.globee.io」（https://www.globee.io/・3回目）
+  - 「About The Globee ® Awards — About The Globee ® Awards Globee® Business Awards https://globeeawards.com > about」（https://globeeawards.com/about/・3回目）
+  - 「決算説明資料 | 株式会社 Globee — 決算説明資料 | 株式会社 Globee 株式会社Globee https://www.globee.io > library > presentation」（https://www.globee.io/ir/library/presentation・3回目）
+  - 「【 Globee 】[5575]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 Globee 】[5575]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo」（https://www.nikkei.com/nkd/company/kigyo/?scode=5575・3回目）
+  - 「[G－ Globee 5575.T] 2027年5月期 第1四半期 決算説明 ... — [G－ Globee 5575.T] 2027年5月期 第1四半期 決算説明 ... BigGo ファイナンス https://finance.biggo.jp > jpx_tdnet_140120261015551281」（https://finance.biggo.jp/news/jpx_tdnet_140120261015551281・3回目）
+  - 「IR | 株式会社 Globee — IR | 株式会社 Globee 株式会社Globee https://www.globee.io > ...」（https://www.globee.io/ir・3回目）
+  - 「Globee 【5575】の 事業 内容 - キタイシホン — Globee 【5575】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/5575/business・3回目）
+  - 「Globee のオリジナルコンテンツ 事業 部紹介 - note — Globee のオリジナルコンテンツ 事業 部紹介 - note note https://note.com > 語学 > 英語学習」（https://note.com/globee/n/n56d5ca46a56b・3回目）
+  - 「【 Globee 】[5575]IR情報 中期経営計画や決算短信 | 日経電子版 — 【 Globee 】[5575]IR情報 中期経営計画や決算短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo」（https://www.nikkei.com/nkd/company/kigyo/?scode=5575・3回目）
+  - 「Globee [5575] Growth IPO - YouTube — Globee [5575] Growth IPO - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=WSCsMm6AxE8・3回目）
+  - 「株式会社 Globee 代表取締役 社長 幾嶋研三郎氏 インタビュー — 株式会社 Globee 代表取締役 社長 幾嶋研三郎氏 インタビュー 経営ノート https://keiei-note.wizbiz.jp > ... > 上場企業の経営者」（https://keiei-note.wizbiz.jp/155-2/・3回目）
 
 ## ＨＡＮＡＴＯＵＲ　ＪＡＰＡＮ
 - 公式URL：https://hanatourjapan.jp/（search:yahoo_jp:HANATOUR JAPAN）
@@ -883,6 +1338,108 @@
 - 従業員数：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部8頁・検索5回）
 - 事業内容：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部8頁・検索5回）
 - 売上高：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部8頁・検索5回）
+
+## Ｈｉクラテス
+- 公式URL：https://hi-crates.co.jp/（search:yahoo_jp:Hiクラテス）
+- 設立：1978年3月1日（https://www.nikkei.com/nkd/company/gaiyo/?scode=4172・3回目）
+- 従業員数：117 人（https://www.nikkei.com/nkd/company/gaiyo/?scode=4172・3回目）
+- 売上高：2,369 2,215 2,041 2,114 2,406（https://www.nikkei.com/nkd/company/kessan/?scode=4172・3回目）
+- 売上高：1,275 1,281 1,100 1,236 1,279（https://www.nikkei.com/nkd/company/kessan/?scode=4172・3回目）
+- 売上高：1,461,063 102.4（https://kitaishihon.com/company/4172/business・3回目）
+- ビジネスモデル：
+  - 「しかしながらHMGは当社と独立した組織であることから、会員の総意により結成目的や運営方針に大きな転換が発生し、それが当社のビジネスモデルに大きな影響を与える場合、当社の財政状態及び経営成績に影響を及ぼす可能性があります」（https://kitaishihon.com/company/4172/management-strategy・3回目）
+  - 「（ビジネスモデル）」（https://kitaishihon.com/company/4172/business・3回目）
+  - 「（事業系統図）」（https://kitaishihon.com/company/4172/business・3回目）
+- 誰に：
+  - 「この理念のもと、システムをお使いいただくうえでのお客様のご負担を軽減する」（https://hi-crates.co.jp/・1回目）
+  - 「HMGはユーザーの先生方が少しでもコストを抑えることができるように設立された、」（https://hi-crates.co.jp/・1回目）
+  - 「この考えに従い当社は、コーポレート・ガバナンスに関する基本的な考え方として、企業の社会的責任を十分に認識し、事業活動を通じて社会へ貢献するとともに、株主、従業員、取引先及び地域社会等のステークホルダーに対して適切な利益の還元を行うこととしております」（https://hi-crates.co.jp/company/company-ir/governance/・1回目）
+  - 「1978年、『売上なくして経営なし 利益なくして事業なし 人生もロマン 経営もロマン 無限の可能性に挑戦』を経営理念、また「サポートなくして販売なし」「お客様の笑顔、お客様の満足が私たちの喜び」「顔が見え、心が触れ合う」を事業理念に掲げ歯科医療に夢と未来を提供したいとの強い思いから創業しました」（https://hi-crates.co.jp/company/company-ir/message/・1回目）
+  - 「なお、個人情報、顧客情報、および関係者の権利を侵害することになる情報につきましては開示しません」（https://hi-crates.co.jp/company/company-ir/policy/・1回目）
+  - 「これにより、日本の人口減少などマクロ的な影響を受けながらも、今後も顧客数の拡大を続けていくことができる状況と判断しております」（https://kitaishihon.com/company/4172/management-strategy・3回目）
+  - 「しかしながら、当社の歯科電子カルテ統合システムの優位性が失われるほど大きな技術革新の進展や、IT環境の著しい変化が生じた場合、あるいは顧客のニーズが著しく変化した場合には、当社の財政状態及び経営成績に影響を及ぼす可能性があります」（https://kitaishihon.com/company/4172/management-strategy・3回目）
+  - 「(２) 顧客である歯科医院について」（https://kitaishihon.com/company/4172/management-strategy・3回目）
+  - 「「第一部 企業情報 第２ 事業の状況 １ 経営方針、経営環境及び対処すべき課題等 （2）経営環境」に記載のとおり、当社が顧客としている歯科医院数は今後、減少する傾向にあります」（https://kitaishihon.com/company/4172/management-strategy・3回目）
+  - 「これらの要因により、今後、引退による歯科医院数の減少や、経営不振による既存顧客による買替需要・投資意欲の減退等が当社の予測を上回った場合、当社の財政状態及び経営成績に影響を及ぼす可能性があります」（https://kitaishihon.com/company/4172/management-strategy・3回目）
+  - 「(３) 顧客が設立している任意の互助組織HMG（ハイデンタルハードメンテナンス互助会）について」（https://kitaishihon.com/company/4172/management-strategy・3回目）
+  - 「HMGは当社の顧客である歯科医師が発起人となり組成された任意団体であり、加入資格は当社の顧客に限定され、ハードウェアの修理・保守に係る費用など会員の負担軽減を目的に規約に沿って運営されております」（https://kitaishihon.com/company/4172/management-strategy・3回目）
+- 何を：
+  - 「お問い合わせ・資料請求・オンラインご相談サービスは」（https://hi-crates.co.jp/・1回目）
+  - 「お問い合わせ・資料請求・オンラインご相談サービスは」（https://hi-crates.co.jp/company/info/・1回目）
+  - 「お問い合わせ・資料請求・オンラインご相談サービスは」（https://hi-crates.co.jp/product/dental/・1回目）
+  - 「お問い合わせ・資料請求・オンラインご相談サービスは」（https://hi-crates.co.jp/revo11/・1回目）
+  - 「お問い合わせ・資料請求・オンラインご相談サービスは」（https://hi-crates.co.jp/p-voice-dental-spirit/・1回目）
+  - 「日立製作所HiRDB製品情報ページへ」（https://hi-crates.co.jp/product/irdb/・1回目）
+  - 「お問い合わせ・資料請求・オンラインご相談サービスは」（https://hi-crates.co.jp/product/irdb/・1回目）
+  - 「お問い合わせ・資料請求・オンラインご相談サービスは」（https://hi-crates.co.jp/company/company-ir/・1回目）
+  - 「お問い合わせ・資料請求・オンラインご相談サービスは」（https://hi-crates.co.jp/company/company-ir/irnews/・1回目）
+  - 「日立中国ソフトウェア株式会社（現株式会社日立ソリューションズ西日本）入社」（https://hi-crates.co.jp/company/company-ir/executive/・1回目）
+  - 「株式会社日立ソリューションズ西日本 第２公共システム事業部 本部長」（https://hi-crates.co.jp/company/company-ir/executive/・1回目）
+  - 「株式会社日立ソリューションズ西日本 退社」（https://hi-crates.co.jp/company/company-ir/executive/・1回目）
+- どうやって売るか：
+  - 「結成以来、HMGと当社は非常に良好な関係を維持しており、相互に敬意を払いながら共通の利益を追求するパートナー関係を構築しております」（https://kitaishihon.com/company/4172/management-strategy・3回目）
+  - 「日経電子版のサービス・機能を紹介」（https://www.nikkei.com/nkd/company/kessan/?scode=4172・3回目）
+  - 「紙面紹介と購読案内」（https://www.nikkei.com/nkd/company/kessan/?scode=4172・3回目）
+  - 「日経電子版のサービス・機能を紹介」（https://www.nikkei.com/nkd/company/gaiyo/?scode=4172・3回目）
+  - 「紙面紹介と購読案内」（https://www.nikkei.com/nkd/company/gaiyo/?scode=4172・3回目）
+- お金の形：
+  - 「「ソフトウェア三無主義」──ソフトウェア保守・システムサポート・バージョンアップ」（https://hi-crates.co.jp/・1回目）
+  - 「「システムサポート、ソフト保守、バージョンアップ」」（https://hi-crates.co.jp/・1回目）
+  - 「HMGは当社の顧客である歯科医師が発起人となり組成された任意団体であり、加入資格は当社の顧客に限定され、ハードウェアの修理・保守に係る費用など会員の負担軽減を目的に規約に沿って運営されております」（https://kitaishihon.com/company/4172/management-strategy・3回目）
+  - 「当社の営業サポート社員は、新規顧客への営業活動と既存顧客に対する保守サービス等のサポート活動の双方を担当しております」（https://kitaishihon.com/company/4172/management-strategy・3回目）
+  - 「商品のハードウェアに係る修理・保守については、顧客による実費負担となっております」（https://kitaishihon.com/company/4172/business・3回目）
+  - 「に加入することで、ハードウェアの修理・保守に係る費用負担を受けることができます」（https://kitaishihon.com/company/4172/business・3回目）
+  - 「主な目的は、当社商品に係るハードウェアの修理・保守等に係る費用の負担や会員同士の情報交流です」（https://kitaishihon.com/company/4172/business・3回目）
+  - 「なお、当社は顧客である歯科医院の安心感・満足感を高めるため、創業以来、「ソフトウェア三無主義」を提唱し、定期的な保守料等は受け取っておりません」（https://kitaishihon.com/company/4172/business・3回目）
+  - 「「ソフトウェア三無主義」とはシステムサポート、ソフトウェア保守、バージョンアップこれら３つを全て無償で行うサービスです」（https://kitaishihon.com/company/4172/business・3回目）
+  - 「そのため、顧客である歯科医院は、当社商品の購入後、毎月定額の保守料等の費用負担なく安心してサポートサービスを受けることができます」（https://kitaishihon.com/company/4172/business・3回目）
+  - 「その担当エリアにおいて当社社員は、新規顧客への営業活動と、既存顧客に対する保守サービス等のサポート活動を行っております」（https://kitaishihon.com/company/4172/business・3回目）
+  - 「またこのように、地域に密着して営業活動とサポート活動を行う専任の営業サポート担当社員が、顧客を直接訪問し保守サービス等の「顔の見える」営業サポートを実践することで顧客の要望を把握し、当社システムの一層の進化・向上につなげることで、顧客満足度の向上に取り組んできた結果、既存顧客が定期的に行う基幹システムの入替時において一定の買替更新比率を確保しております」（https://kitaishihon.com/company/4172/business・3回目）
+- 売上構成：
+  - 「セグメント情報」（https://www.nikkei.com/nkd/company/kessan/?scode=4172・3回目）
+  - 「セグメント情報」（https://kitaishihon.com/company/4172/business・3回目）
+  - 「※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります」（https://kitaishihon.com/company/4172/business・3回目）
+  - 「※セグメントの売上や利益は、企業毎にその定義が異なる場合があります」（https://kitaishihon.com/company/4172/business・3回目）
+  - 「（単一セグメント）」（https://kitaishihon.com/company/4172/business・3回目）
+  - 「単一セグメントの企業の場合は、連結（あるいは単体）の売上と営業利益を反映しています」（https://kitaishihon.com/company/4172/business・3回目）
+  - 「セグメント名」（https://kitaishihon.com/company/4172/business・3回目）
+  - 「売上構成比率」（https://kitaishihon.com/company/4172/business・3回目）
+  - 「利益構成比率」（https://kitaishihon.com/company/4172/business・3回目）
+  - 「なお、当社の事業は「歯科医院向けシステム事業」の単一セグメントであります」（https://kitaishihon.com/company/4172/business・3回目）
+  - 「なお、当社は「歯科医院向けシステム事業」の単一セグメントであるため、地域ブロック別に記載しております」（https://kitaishihon.com/company/4172/business・3回目）
+  - 「なお、当社は「歯科医院向けシステム事業」の単一セグメントであるため、収益形態別及び地域ブロック別に記載しております」（https://kitaishihon.com/company/4172/business・3回目）
+- 利益の源泉：
+  - 「(１) 競争優位を脅かす技術革新等について」（https://kitaishihon.com/company/4172/management-strategy・3回目）
+  - 「営業利益率（%）」（https://www.nikkei.com/nkd/company/kessan/?scode=4172・3回目）
+  - 「また、外注委託の活用を限定的とすることで、製販一体の強みをより生かすことができるとの考えによります」（https://kitaishihon.com/company/4172/business・3回目）
+  - 「当事業年度の売上高営業利益率は」（https://kitaishihon.com/company/4172/business・3回目）
+- 沿革：
+  - 「2006年11月竣工の本社は、社員が毎日正面玄関から出社し「心を揺さぶられる」ような感性と情熱を育み、」（https://hi-crates.co.jp/・1回目）
+  - 「1978年(昭和53年)」（https://hi-crates.co.jp/company/info/・1回目）
+  - 「1978年3月」（https://hi-crates.co.jp/company/info/・1回目）
+  - 「1987年8月」（https://hi-crates.co.jp/company/info/・1回目）
+  - 「1992年3月」（https://hi-crates.co.jp/company/info/・1回目）
+  - 「1995年8月」（https://hi-crates.co.jp/company/info/・1回目）
+  - 「1996年12月」（https://hi-crates.co.jp/company/info/・1回目）
+  - 「1997年2月」（https://hi-crates.co.jp/company/info/・1回目）
+  - 「1999年10月」（https://hi-crates.co.jp/company/info/・1回目）
+  - 「2000年3月」（https://hi-crates.co.jp/company/info/・1回目）
+  - 「2000年7月」（https://hi-crates.co.jp/company/info/・1回目）
+  - 「2002年11月」（https://hi-crates.co.jp/company/info/・1回目）
+- 検索結果の抜粋：
+  - 「Hiクラテス 【4172】のリスク・配当 - キタイシホン — Hiクラテス 【4172】のリスク・配当 - キタイシホン キタイシホン https://kitaishihon.com > company > management-strategy」（https://kitaishihon.com/company/4172/management-strategy・3回目）
+  - 「AI・音声 Hiクラテス 元年 ナレーション動画 - YouTube — AI・音声 Hiクラテス 元年 ナレーション動画 - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=89VD6HkDfd8・3回目）
+  - 「Hiクラテス - Wikipedia — Hiクラテス - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > Hiクラテス」（https://ja.wikipedia.org/wiki/Hi%E3%82%AF%E3%83%A9%E3%83%86%E3%82%B9・3回目）
+  - 「Hiクラテス （4172）のプロフィール | 会社四季報オンライン — Hiクラテス （4172）のプロフィール | 会社四季報オンライン 四季報オンライン https://shikiho.toyokeizai.net > 銘柄研究 > Hiクラテス」（https://shikiho.toyokeizai.net/stocks/4172/corporate・3回目）
+  - 「岡山の東和ハイシステム、社名を Hiクラテス に変更 25年1月 — 岡山の東和ハイシステム、社名を Hiクラテス に変更 25年1月 日本経済新聞 https://www.nikkei.com > article」（https://www.nikkei.com/article/DGXZQOCC2938K0Z20C25A9000000/・3回目）
+  - 「【 Hiクラテス 】[4172] 決算 発表や業務・財務情報 | 日経電子版 — 【 Hiクラテス 】[4172] 決算 発表や業務・財務情報 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kessan」（https://www.nikkei.com/nkd/company/kessan/?scode=4172・3回目）
+  - 「Hiクラテス 【4172】の最新 決算 発表、業績修正 - 株探 — Hiクラテス 【4172】の最新 決算 発表、業績修正 - 株探 株探 https://kabutan.jp > Ｈｉクラテス (4172) > 決算」（https://kabutan.jp/stock/finance?code=4172・3回目）
+  - 「Hi クラテス (4172)の概要 - 銘柄スカウターライト — Hi クラテス (4172)の概要 - 銘柄スカウターライト 銘柄スカウターライト https://scouter.monex.co.jp > report > top」（https://scouter.monex.co.jp/report/top/4172・3回目）
+  - 「【 Hiクラテス 】[4172]IR情報 中期経営計画や 決算 短信 | 日経 ... — 【 Hiクラテス 】[4172]IR情報 中期経営計画や 決算 短信 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo」（https://www.nikkei.com/nkd/company/kigyo/?scode=4172・3回目）
+  - 「Hiクラテス 【4172】の 事業 内容 - キタイシホン — Hiクラテス 【4172】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/4172/business・3回目）
+  - 「【 Hiクラテス 】[4172]企業概要 社員数や役員報酬・資本金 — 【 Hiクラテス 】[4172]企業概要 社員数や役員報酬・資本金 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo」（https://www.nikkei.com/nkd/company/gaiyo/?scode=4172・3回目）
+  - 「Hiクラテス [ハイクラテス]（旧東和ハイシステム）（4172） — Hiクラテス [ハイクラテス]（旧東和ハイシステム）（4172） やさしいIPO株のはじめ方 https://www.ipokiso.com > company > towa-hi-sys」（https://www.ipokiso.com/company/2020/towa-hi-sys.html・3回目）
+- 事業内容：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部7頁・検索5回）
 
 ## ＩＡＣＥトラベル
 - 公式URL：https://www.iace.co.jp/（search:yahoo_jp:IACEトラベル）
@@ -1342,6 +1899,116 @@
   - 「コーポレート・ガバナンス - 株式会社JCU — コーポレート・ガバナンス - 株式会社JCU 株式会社JCU https://www.jcu-i.com > サステナビリティ > ガバナンス」（https://www.jcu-i.com/sustainability/governance/corporate/・3回目）
 - ビジネスモデル：記載なし（3回確認済み：公式25頁／PDF・画像16件／外部1頁・検索5回）
 
+## ＪＭＤＣ
+- 公式URL：https://www.jmdc.co.jp/（search:yahoo_jp:JMDC）
+- 設立：2002年1月31日（https://www.jmdc.co.jp/profile/・1回目）
+- 従業員数：499名（2026年3月31日現在）（https://www.jmdc.co.jp/profile/・1回目）
+- 事業内容：医療統計データサービス（https://www.jmdc.co.jp/profile/・1回目）
+- 事業内容：3つの柱で医療を支える（https://note.com/tatsuya_sabato/n/na133548bce5e・3回目）
+- ビジネスモデル：
+  - 「するビジネスモデルです」（https://journal.macloud.jp/posts/article_0015・3回目）
+  - 「ここまで述べてきたような強いビジネスモデルを確立しているからこそ、JMDCは同業あるいは近い領域の会社をM&Aすれば、スケールメリットを発揮できる自信を持っているのでしょう」（https://journal.macloud.jp/posts/article_0015・3回目）
+  - 「JMDC(4483)徹底解剖：日本最大級の医療データベースが拓く未来とは？唯一無二のビジネスモデルと成長戦略の深層｜日本個別株デューデリジェンスセンター」（https://note.com/tatsuya_sabato/n/na133548bce5e・3回目）
+  - 「JMDC(4483)徹底解剖：日本最大級の医療データベースが拓く未来とは？唯一無二のビジネスモデルと成長戦略の深層」（https://note.com/tatsuya_sabato/n/na133548bce5e・3回目）
+  - 「なぜJMDCは、これほどまでに強固なビジネスモデルを築き上げることができたのか？その競合優位性の源泉はどこにあるのか？そして、国策ともいえる「データヘルス改革」の追い風を受け、この巨人はどこへ向かおうとしているのか？」（https://note.com/tatsuya_sabato/n/na133548bce5e・3回目）
+  - 「この記事では、単なる企業紹介に留まらず、JMDCという企業の「魂」ともいえるビジネスモデルの核心、それを支える組織力、そして未来に向けた成長ストーリーを、投資家目線で徹底的に深掘りしていく」（https://note.com/tatsuya_sabato/n/na133548bce5e・3回目）
+  - 「【ビジネスモデルの詳細分析】なぜJMDCは「無敵」なのか？」（https://note.com/tatsuya_sabato/n/na133548bce5e・3回目）
+  - 「JMDCの企業価値を理解する上で最も重要なのが、その唯一無二のビジネスモデルと、それによって築かれた圧倒的な競合優位性だ」（https://note.com/tatsuya_sabato/n/na133548bce5e・3回目）
+  - 「その秘密を「収益構造」「競合優位性」「バリューチェーン」の3つの観点から解き明かす」（https://note.com/tatsuya_sabato/n/na133548bce5e・3回目）
+  - 「収益構造：データが「富」を生む仕組み」（https://note.com/tatsuya_sabato/n/na133548bce5e・3回目）
+  - 「その収益構造は、大きく2つの流れに分けられる」（https://note.com/tatsuya_sabato/n/na133548bce5e・3回目）
+  - 「このビジネスモデルの巧みさは、」（https://note.com/tatsuya_sabato/n/na133548bce5e・3回目）
+- 誰に：
+  - 「現在、Pep Upの発行ID数は800万を超えており、ユーザー数は順調に増加しています」（https://www.jmdc.co.jp/・1回目）
+  - 「また、通信環境やお客様のコンピュータの状況、その他の理由により当ウェブサイトを正常に利用できない場合があります」（https://www.jmdc.co.jp/ir/disclaimer/・1回目）
+  - 「※Pep Upご利用者様からのご連絡は」（https://www.jmdc.co.jp/inquiry/・1回目）
+  - 「難易度の高い医療データビジネスで成功した鍵は、先行者利益とユーザー目線」（https://journal.macloud.jp/posts/article_0015・3回目）
+  - 「健保向けのサービス開発にも継続して取り組んでおり、取引先の維持・拡大を順調に進めています」（https://journal.macloud.jp/posts/article_0015・3回目）
+  - 「センシティブなデータを取り扱うにあたり、取引先を絞りたいであろうユーザー各社に対し、」（https://journal.macloud.jp/posts/article_0015・3回目）
+  - 「を上げており、既存顧客向けの売上は前期比約36％増となっています」（https://journal.macloud.jp/posts/article_0015・3回目）
+  - 「今後、血圧計等のユーザーの日常的な計測データもJMDCの医療データベースに連携させていくことで、より解像度の高いデータ活用にチャレンジしていく模様」（https://journal.macloud.jp/posts/article_0015・3回目）
+  - 「データベースを元に、製薬企業向け、保険者向けなど、顧客のニーズに合わせた分析レポートやソリューションを開発」（https://note.com/tatsuya_sabato/n/na133548bce5e・3回目）
+  - 「顧客の課題解決に直結する「商品」へと昇華させる」（https://note.com/tatsuya_sabato/n/na133548bce5e・3回目）
+  - 「専門知識を持った営業担当者が、製薬企業等の顧客に対してコンサルティング型の提案営業を行う」（https://note.com/tatsuya_sabato/n/na133548bce5e・3回目）
+  - 「また、健保組合には保健事業支援サービス「Pep Up」などを提供し、顧客との関係を深化させる」（https://note.com/tatsuya_sabato/n/na133548bce5e・3回目）
+- 何を：
+  - 「個人の健康な生活のため、その結果としての持続可能な国民医療制度の実現のため、人材やテクノロジーに積極的に投資し、医療ビッグデータを活用した新しい取組みやサービス開発にチャレンジし続けます」（https://www.jmdc.co.jp/・1回目）
+  - 「保険者支援サービス」（https://www.jmdc.co.jp/・1回目）
+  - 「健康保険組合等に対して、紙・画像レセプトを含めたレセプトデータ、健診データ、台帳データ等をデータベース化した上で、保健事業においてデータを活用してPDCAを回すことを支援する様々なサービスを提供しています」（https://www.jmdc.co.jp/・1回目）
+  - 「保険者支援サービスを提供している健康保険組合等に対して、当社開発の健康情報プラットフォーム「Pep Up」（ペップアップ）による個人向け健康ポータルサイトを運営しています」（https://www.jmdc.co.jp/・1回目）
+  - 「Pep Up上では様々な健康増進サービスを展開していきます」（https://www.jmdc.co.jp/・1回目）
+  - 「また、今後ヘルスデータプラットフォームサービスの中で取得する健康情報等、他のデータについても、適切な手続きを経て、医療ビッグデータとして活用していきます」（https://www.jmdc.co.jp/・1回目）
+  - 「各種サービスへのお問い合わせ、お見積りや資料請求のご依頼、 サービスへのお申し込みはこちらから」（https://www.jmdc.co.jp/・1回目）
+  - 「医療統計データサービス」（https://www.jmdc.co.jp/profile/・1回目）
+  - 「Pep Upのクラウドサービス提供およびそのためのAWS利用」（https://www.jmdc.co.jp/profile/・1回目）
+  - 「各種サービスへのお問い合わせ、お見積りや資料請求のご依頼、 サービスへのお申し込みはこちらから」（https://www.jmdc.co.jp/profile/・1回目）
+  - 「後発品利用促進支援ツール ジェネリック20（HCG）サービス開始」（https://www.jmdc.co.jp/history/・1回目）
+  - 「生命保険会社向け 診断書標準化処理サービス開始」（https://www.jmdc.co.jp/history/・1回目）
+- どうやって売るか：
+  - 「・経営陣紹介」（https://www.jmdc.co.jp/・1回目）
+  - 「エヌエスパートナーズ株式会社」（https://www.jmdc.co.jp/profile/・1回目）
+  - 「・経営陣紹介」（https://www.jmdc.co.jp/profile/・1回目）
+  - 「・経営陣紹介」（https://www.jmdc.co.jp/history/・1回目）
+  - 「・経営陣紹介」（https://www.jmdc.co.jp/ir/・1回目）
+  - 「・経営陣紹介」（https://www.jmdc.co.jp/ir/management/・1回目）
+  - 「・経営陣紹介」（https://www.jmdc.co.jp/ir/news/・1回目）
+  - 「・経営陣紹介」（https://www.jmdc.co.jp/ir/library/・1回目）
+  - 「・経営陣紹介」（https://www.jmdc.co.jp/ir/highlight/・1回目）
+  - 「・経営陣紹介」（https://www.jmdc.co.jp/ir/schedule/・1回目）
+  - 「・経営陣紹介」（https://www.jmdc.co.jp/ir/stock/・1回目）
+  - 「・経営陣紹介」（https://www.jmdc.co.jp/ir/notice/・1回目）
+- お金の形：
+  - 「JMDCや子会社の取締役を対象に、繰り返しストック・オプションを発行」（https://journal.macloud.jp/posts/article_0015・3回目）
+  - 「③JMDCおよび子会社の取締役に対して繰り返しストック・オプションを発行」（https://journal.macloud.jp/posts/article_0015・3回目）
+  - 「収益（PL）の定性的評価：ストック型の安定収益と高い成長率」（https://note.com/tatsuya_sabato/n/na133548bce5e・3回目）
+  - 「そのため、一度契約を獲得すると継続的に収益が見込める「ストック型」のビジネスモデルとなっている」（https://note.com/tatsuya_sabato/n/na133548bce5e・3回目）
+  - 「これは、前述のストック型ビジネスモデルにより、代金の回収が滞りなく行われていることを示しており、事業の好調さを裏付けている」（https://note.com/tatsuya_sabato/n/na133548bce5e・3回目）
+  - 「主力顧客である製薬企業に対して、より高度な分析ソリューションやコンサルティングを提供することで、顧客単価の上昇（アップセル）を目指す」（https://note.com/tatsuya_sabato/n/na133548bce5e・3回目）
+  - 「ストック型の安定収益基盤を持ちながら、スケールメリットを活かして高い成長率と利益率を両立させている」（https://note.com/tatsuya_sabato/n/na133548bce5e・3回目）
+- 売上構成：
+  - 「JMDCの事業は、大きく分けて以下の3つのセグメントで構成されている」（https://note.com/tatsuya_sabato/n/na133548bce5e・3回目）
+  - 「売上や利益の数字だけでなく、セグメントごとの動向や、各種KPI（重要業績評価指標）の推移を確認することが重要だ」（https://note.com/tatsuya_sabato/n/na133548bce5e・3回目）
+- 利益の源泉：
+  - 「しており、疾患の因果を経年で明らかにすることが可能な「ライフコースデータベース」を構築している点が最大の強みです」（https://journal.macloud.jp/posts/article_0015・3回目）
+  - 「JMDCがここまでの成長を果たせた理由を考察してみると、参入障壁を逆手に取った巧みな戦略が見えてきます」（https://journal.macloud.jp/posts/article_0015・3回目）
+  - 「競合優位性：「見えざる参入障壁」の正体」（https://note.com/tatsuya_sabato/n/na133548bce5e・3回目）
+  - 「しかし、現実的には新規参入が極めて困難な、強力な参入障壁がいくつも存在する」（https://note.com/tatsuya_sabato/n/na133548bce5e・3回目）
+  - 「JMDCの強みは、単なるデータの量だけではない」（https://note.com/tatsuya_sabato/n/na133548bce5e・3回目）
+  - 「これを価値ある情報資産に変える「錬金術」こそが、JMDCの目に見えない、しかし極めて高い参入障壁となっている」（https://note.com/tatsuya_sabato/n/na133548bce5e・3回目）
+  - 「主力事業の市場が拡大していることに加え、JMDCの圧倒的な競争優位性により、既存顧客からのアップセル（より高付加価値なサービスの提供）や新規顧客の獲得が順調に進んでいる」（https://note.com/tatsuya_sabato/n/na133548bce5e・3回目）
+  - 「例えば、同じようにレセプトデータを扱う企業や、電子カルテ情報に強みを持つ企業、治験支援（CRO）の領域からデータビジネスに参入する企業などだ」（https://note.com/tatsuya_sabato/n/na133548bce5e・3回目）
+  - 「単なるデータ提供に留まらないコンサルティング能力も強みとなっている」（https://note.com/tatsuya_sabato/n/na133548bce5e・3回目）
+  - 「極めて高い参入障壁を持つ」（https://note.com/tatsuya_sabato/n/na133548bce5e・3回目）
+  - 「決算短信・有報・適時開示から日本企業の強み・成長余地・リスクを整理」（https://note.com/tatsuya_sabato/n/na133548bce5e・3回目）
+  - 「医療職や健保組合との連携強化や、総労働時間低減の労働環境改善、強みのたんぱく質を活かした新展開も」（https://kenkokeiei-alliance.com/interview/250514・3回目）
+- 沿革：
+  - 「2026年10月26日」（https://www.jmdc.co.jp/・1回目）
+  - 「2026年10月07日」（https://www.jmdc.co.jp/・1回目）
+  - 「2002年1月31日」（https://www.jmdc.co.jp/profile/・1回目）
+  - 「沿革 – 株式会社JMDC」（https://www.jmdc.co.jp/history/・1回目）
+  - 「2026 年 6 月 25 日」（https://www.jmdc.co.jp/ir-assets/notice/koukoku20260625_2.pdf・2回目）
+  - 「2026 年７月 16 日」（https://www.jmdc.co.jp/ir-assets/notice/koukoku20260625_2.pdf・2回目）
+  - 「2026 年 6 月 25 日」（https://www.jmdc.co.jp/ir-assets/notice/koukoku20260625_1.pdf・2回目）
+  - 「2029 年３月期から 2032 年３月期の４事業年度のうち、いずれかの事業年度に」（https://www.jmdc.co.jp/ir-assets/notice/koukoku20260625_1.pdf・2回目）
+  - 「2026 年７月 16 日」（https://www.jmdc.co.jp/ir-assets/notice/koukoku20260625_1.pdf・2回目）
+  - 「令和６年１２月２６日」（https://www.jmdc.co.jp/ir-assets/notice/koukoku20241225.pdf・2回目）
+  - 「令和６年２月２６日」（https://www.jmdc.co.jp/ir-assets/notice/koukoku20240226.pdf・2回目）
+  - 「令和５年５月２９日」（https://www.jmdc.co.jp/ir-assets/notice/koukoku20230525.pdf・2回目）
+- 検索結果の抜粋：
+  - 「ヘルステック領域で14社をM＆Aする JMDC の「データで ... — ヘルステック領域で14社をM＆Aする JMDC の「データで ... Update Ｍ＆Ａ https://journal.macloud.jp > posts > article_0015」（https://journal.macloud.jp/posts/article_0015・3回目）
+  - 「JMDC (4483)徹底解剖：日本最大級の医療データベースが拓く ... — JMDC (4483)徹底解剖：日本最大級の医療データベースが拓く ... note https://note.com > 健康・医療 > 医学全般」（https://note.com/tatsuya_sabato/n/na133548bce5e・3回目）
+  - 「自社でデータを持つ JMDC に転職したから実践できた“本当の ... — 自社でデータを持つ JMDC に転職したから実践できた“本当の ... JMDC VOICE https://blog.jmdc.co.jp > entry > 2022/11/17」（https://blog.jmdc.co.jp/entry/2022/11/17/100000・3回目）
+  - 「グローバルヘルスケア企業元CEOが JMDC に入社した理由 — グローバルヘルスケア企業元CEOが JMDC に入社した理由 JMDC VOICE https://blog.jmdc.co.jp > entry > 2023/03/13」（https://blog.jmdc.co.jp/entry/2023/03/13/100000・3回目）
+  - 「健康で豊かな人生をすべての人に – 株式会社 JMDC — 健康で豊かな人生をすべての人に – 株式会社 JMDC 株式会社JMDC https://www.jmdc.co.jp」（https://www.jmdc.co.jp/・3回目）
+  - 「決算説明 会 資料 - JMDC — 決算説明 会 資料 - JMDC 株式会社JMDC https://www.jmdc.co.jp > IRトップ」（https://www.jmdc.co.jp/ir/presentation/・3回目）
+  - 「IRトップ – 株式会社 JMDC — IRトップ – 株式会社 JMDC 株式会社JMDC https://www.jmdc.co.jp > ...」（https://www.jmdc.co.jp/ir/・3回目）
+  - 「2026年3月期 通期 決算 発表のお知らせ - JMDC — 2026年3月期 通期 決算 発表のお知らせ - JMDC 株式会社JMDC https://www.jmdc.co.jp > news2026 > news20260508-1」（https://www.jmdc.co.jp/news/news2026/news20260508-1/・3回目）
+  - 「2026年3月期 通期 決算説明資料 - JMDC — 2026年3月期 通期 決算説明資料 - JMDC 株式会社JMDC PDF https://www.jmdc.co.jp > 2026/05 > news20260508_2」（https://www.jmdc.co.jp/wp-content/uploads/2026/05/news20260508_2.pdf・3回目）
+  - 「2027年3月期 第1四半期 決算 発表のお知らせ - JMDC — 2027年3月期 第1四半期 決算 発表のお知らせ - JMDC 株式会社JMDC https://www.jmdc.co.jp > news2026 > news20260805」（https://www.jmdc.co.jp/news/news2026/news20260805/・3回目）
+  - 「健康経営トップインタビュー | 健康経営アライアンス — Oct 14, 2026 · 2020年にJMDCに参画し、製薬企業向け、保険者向け、医療機関向けの事業本部の管掌役員を経て、2023年より代表取締役社長兼CEOに就任。 [企業紹介] 医療ビッグデータ業界のパイオニアとして2002年に設立。」（https://kenkokeiei-alliance.com/interview/250514・3回目）
+  - 「【インタビュー】JMDC 野口亮 氏に聞くポストコンサルキャリア | クラ... — Dec 19, 2024 · コンサル転職「トップインタビュー」では株式会社JMDCのトップ野口亮氏にインタビューいたしました。毎回コンサルティングファームのトップの方々にご登場いただき貴重なお話をお伺いしています。是非ご覧ください。」（https://kc-consul.com/?page=interview&list=top&show=vol70・3回目）
+- 売上高：記載なし（3回確認済み：公式13頁／PDF・画像7件／外部4頁・検索5回）
+
 ## Ｊａｐａｎ　Ｅｙｅｗｅａｒ　Ｈｏｌｄｉｎｇｓ
 - 公式URL：https://www.japan-eyewear-holdings.co.jp/（search:yahoo_jp:Japan Eyewear Holdings）
 - 設立：2019年7月（https://www.japan-eyewear-holdings.co.jp/aboutus/company-profile/・1回目）
@@ -1565,6 +2232,191 @@
 - 売上高：記載なし（3回確認済み：公式25頁／PDF・画像16件／外部4頁・検索5回）
 - 売上構成：記載なし（3回確認済み：公式25頁／PDF・画像16件／外部4頁・検索5回）
 
+## ＬＡホールディングス
+- 公式URL：https://lahd.co.jp/（search:yahoo_jp:LAホールディングス）
+- 売上高：（https://kitaishihon.com/company/2986/business・3回目）
+- 売上高：13,000,050 15,805,592 14,849,153 983,859 44,638,655 68,635 44,707,290（https://kitaishihon.com/company/2986/business・3回目）
+- 売上高：－ － － － － 444,378 444,378（https://kitaishihon.com/company/2986/business・3回目）
+- ビジネスモデル：
+  - 「不動産デベロッパーのビジネスモデル上、プロジェクトの引き渡し時に収益を認識するため、四半期ごとに業績の偏りが生じやすいという季節性があります」（https://note.com/stock1/n/n0c5787aa45a2・3回目）
+  - 「ビジネスモデルに基づいています」（https://note.com/stock1/n/n0c5787aa45a2・3回目）
+  - 「LAホールディングス（2986）のビジネスモデルと成長戦略 - 経営陣インタビュー | ENVALITH」（https://envalith.com/ja/companies/2986/management-voice・3回目）
+  - 「収益構造と資本効率」（https://envalith.com/ja/companies/2986/management-voice・3回目）
+  - 「新築マンション全盛の時代に、買い替えで生じる既存住宅を買い取り、リノベーションして販売するという当時誰もやっていなかったビジネスモデルを立ち上げたのが原点である」（https://envalith.com/ja/companies/2986/management-voice・3回目）
+  - 「当社グループの事業系統図は次のとおりです」（https://kitaishihon.com/company/2986/business・3回目）
+- 誰に：
+  - 「これは信託銀行が顧客から預かった資産を信託契約に基づいて管理・運用している形態であり、実質的な受益者は多様である可能性があります」（https://note.com/stock1/n/n0c5787aa45a2・3回目）
+  - 「その「上質さ」や「独自の世界観」が具体的にどのように実現され、顧客に評価されているのか」（https://note.com/stock1/n/n0c5787aa45a2・3回目）
+  - 「新築事業における「A＊G」、「THE EDGE」、「THE DOORS」シリーズのコンセプト、ターゲット顧客、競争環境、および他社ブランドとの具体的な差別化ポイント」（https://note.com/stock1/n/n0c5787aa45a2・3回目）
+  - 「本事業における主な業務はデベロップメント業務であり、同業務の主な内容は、収益不動産開発、新築分譲マンション開発、建売住宅の建築等を行い、法人又は一般顧客等へ販売するものです」（https://kitaishihon.com/company/2986/business・3回目）
+  - 「本業務の主な内容は、中古マンションを戸別に仕入れ、リノベーション内容の企画・立案などにより洗練された住居として再生を図り、一般顧客等へ販売するものです」（https://kitaishihon.com/company/2986/business・3回目）
+  - 「本業務の主な内容は、企業所有の社員寮・社宅、首都圏の賃貸マンション等を対象として、建物１棟を取得後、全面的にリノベーションし、一般顧客等へ戸別に販売するものです」（https://kitaishihon.com/company/2986/business・3回目）
+  - 「幅広い顧客層のニーズに対応した商品展開に加え、企画・デザイン力を強みとして、価格競争に巻き込まれることのない競争優位性の高い高付加価値商品を供給し、独自のポジションを確立してまいります」（https://kitaishihon.com/company/2986/business・3回目）
+  - 「外部顧客への売上高」（https://kitaishihon.com/company/2986/business・3回目）
+  - 「本邦の外部顧客への売上高が連結損益計算書の売上高の90％を超えるため、記載を省略しております」（https://kitaishihon.com/company/2986/business・3回目）
+  - 「３．主要な顧客ごとの情報」（https://kitaishihon.com/company/2986/business・3回目）
+  - 「顧客の名称又は氏名」（https://kitaishihon.com/company/2986/business・3回目）
+  - 「利用者情報の外部送信について」（https://kitaishihon.com/company/2986/business・3回目）
+- 何を：
+  - 「東証上場会社情報サービス」（https://lahd.co.jp/・1回目）
+  - 「東証上場会社情報サービス」（https://lahd.co.jp/company/directors/・1回目）
+  - 「東証上場会社情報サービス」（https://lahd.co.jp/business/・1回目）
+  - 「東証上場会社情報サービス」（https://lahd.co.jp/ir/・1回目）
+  - 「東証上場会社情報サービス」（https://lahd.co.jp/ir_news/・1回目）
+  - 「東証上場会社情報サービス」（https://lahd.co.jp/ir/financial__trashed/financial01/・1回目）
+  - 「東証上場会社情報サービス」（https://lahd.co.jp/ir/financial__trashed/financial02/・1回目）
+  - 「東証上場会社情報サービス」（https://lahd.co.jp/ir/financial__trashed/financial03/・1回目）
+  - 「東証上場会社情報サービス」（https://lahd.co.jp/ir/financial__trashed/financial04/・1回目）
+  - 「東証上場会社情報サービス」（https://lahd.co.jp/ir/financial__trashed/financial05/・1回目）
+  - 「東証上場会社情報サービス」（https://lahd.co.jp/ir/public/・1回目）
+  - 「東証上場会社情報サービス」（https://lahd.co.jp/ir/report/・1回目）
+- どうやって売るか：
+  - 「パートナーとの共同事業」（https://note.com/stock1/n/n0c5787aa45a2・3回目）
+  - 「: 総資産を大きくせず大規模開発を推進するため、ファンドなどのパートナー企業との共同事業を積極的に活用します」（https://note.com/stock1/n/n0c5787aa45a2・3回目）
+  - 「: 高付加価値戦略の継続、金融機関からのクレジット拡大を背景とした大型案件の拡大、パートナー企業との共同事業による大規模開発推進、地方展開の強化などが、売上高・利益目標達成の基礎となります」（https://note.com/stock1/n/n0c5787aa45a2・3回目）
+  - 「また、大規模プロジェクト推進のためにファンドなどパートナー企業との共同事業も開始しており、」（https://note.com/stock1/n/n0c5787aa45a2・3回目）
+  - 「収益不動産開発は、居住用マンションなどの賃貸レジデンス及び店舗ビル、オフィスビルなどの都市型商業ビルの開発業務等を行い、投資法人及び一般法人等へ販売しております」（https://kitaishihon.com/company/2986/business・3回目）
+- お金の形：
+  - 「名義書換手数料」（https://lahd.co.jp/ir/info/info04/・1回目）
+  - 「新券交付手数料」（https://lahd.co.jp/ir/info/info04/・1回目）
+  - 「この戦略により、取り扱い件数を大きく変えずに、1件あたりの平均単価を3億円超に向上させています」（https://note.com/stock1/n/n0c5787aa45a2・3回目）
+  - 「: 不動産開発・販売といったフロー型ビジネスと、不動産賃貸といったストック型ビジネスをバランスよく展開しており、安定収益基盤の強化を図ることで市場変動リスクへの耐性を高めています」（https://note.com/stock1/n/n0c5787aa45a2・3回目）
+  - 「: フロー型ビジネスとストック型ビジネスの組み合わせにより、リスク分散を図りつつ、収益機会の最大化を目指しています」（https://note.com/stock1/n/n0c5787aa45a2・3回目）
+  - 「: プレミアム領域に注力する同社にとって、1億円超や10億円超といった高価格帯物件の仕入件数、販売件数・金額、およびその平均単価は、高付加価値戦略の進捗と売上高・利益率への貢献度を示す重要なKPIです」（https://note.com/stock1/n/n0c5787aa45a2・3回目）
+  - 「フローとストックのバランス」（https://note.com/stock1/n/n0c5787aa45a2・3回目）
+  - 「: 販売事業（フロー）だけでなく、賃貸事業（ストック）にも注力し、安定した収益基盤を構築している点は、フロービジネス中心の企業と比較した際の強みです」（https://note.com/stock1/n/n0c5787aa45a2・3回目）
+  - 「: 単なる手数料獲得やキャピタルゲインだけでなく、地域の問題解決や地域活性化を重視したM&A支援・企業投資を目指しており、同社ならではの事業展開と言えます」（https://note.com/stock1/n/n0c5787aa45a2・3回目）
+  - 「フロー型ビジネス（開発・販売）で収益を追求しつつ、ストック型ビジネス（不動産賃貸）で安定収益を確保するバランス戦略 は安定性に寄与します」（https://note.com/stock1/n/n0c5787aa45a2・3回目）
+  - 「地域活性化を重視し、単なる手数料やキャピタルゲイン目的ではないM&A・企業投資を行うという脇田社長のコメント は、倫理観や社会貢献への意識の高さを示すものと言えます」（https://note.com/stock1/n/n0c5787aa45a2・3回目）
+  - 「しかし、バフェット氏は保守的な将来予測に基づいて安全域を評価するため、不動産業のシクリカルな性質や計画未達のリスクをどう見積もるかが重要です」（https://note.com/stock1/n/n0c5787aa45a2・3回目）
+- 売上構成：
+  - 「事業内容とセグメント」（https://note.com/stock1/n/n0c5787aa45a2・3回目）
+  - 「2025年第1四半期からは報告セグメントの区分が変更され、」（https://note.com/stock1/n/n0c5787aa45a2・3回目）
+  - 「の4つが主要セグメントとなっています」（https://note.com/stock1/n/n0c5787aa45a2・3回目）
+  - 「1. 業種内容・セグメント」（https://note.com/stock1/n/n0c5787aa45a2・3回目）
+  - 「2025年1Qの売上高構成比は25.8%でした」（https://note.com/stock1/n/n0c5787aa45a2・3回目）
+  - 「2025年1Qの売上高構成比は29.5%でした」（https://note.com/stock1/n/n0c5787aa45a2・3回目）
+  - 「2025年1Qの売上高構成比は41.6%と最も大きな割合を占めました」（https://note.com/stock1/n/n0c5787aa45a2・3回目）
+  - 「2025年1Qの売上高構成比は3.1%でした」（https://note.com/stock1/n/n0c5787aa45a2・3回目）
+  - 「その他に不動産売買仲介業務などが含まれる「その他」セグメントがあります」（https://note.com/stock1/n/n0c5787aa45a2・3回目）
+  - 「: 各セグメントにおける開発・再生プロジェクトの件数、特に大型案件の数や総事業費は、将来の売上高ポテンシャルを示します」（https://note.com/stock1/n/n0c5787aa45a2・3回目）
+  - 「以前は新築不動産販売部門、再生不動産販売部門、不動産賃貸事業部門の3セグメントでしたが、2025年第1四半期よりDX不動産価値向上事業を新設し、4セグメント体制に変更しています」（https://note.com/stock1/n/n0c5787aa45a2・3回目）
+  - 「セグメント別売上総利益率では、DX新築不動産事業が38.0%（都市型商業ビル売却による向上）、不動産賃貸事業が59.4%と高い水準を維持しています」（https://note.com/stock1/n/n0c5787aa45a2・3回目）
+- 利益の源泉：
+  - 「【LAホールディングス（2986）銘柄分析】 ニッチ戦略で高収益を追求する不動産企業の成長力と将来性｜トメ五郎」（https://note.com/stock1/n/n0c5787aa45a2・3回目）
+  - 「【LAホールディングス（2986）銘柄分析】 ニッチ戦略で高収益を追求する不動産企業の成長力と将来性」（https://note.com/stock1/n/n0c5787aa45a2・3回目）
+  - 「特に、収益不動産（オフィスビルや商業ビル、賃貸レジデンス）や新築分譲マンションの開発・販売、中古マンションなどをリノベーションして販売する事業に強みを持っています」（https://note.com/stock1/n/n0c5787aa45a2・3回目）
+  - 「将来性のあるエリアで、独自の企画力を持つ物件を開発することで、会社の強みをさらに伸ばしていく狙いです」（https://note.com/stock1/n/n0c5787aa45a2・3回目）
+  - 「再生不動産販売事業では、富裕層のニーズに特化した「上質さ」を提供する企画・デザインを強みとしています」（https://note.com/stock1/n/n0c5787aa45a2・3回目）
+  - 「2. 会社の強み」（https://note.com/stock1/n/n0c5787aa45a2・3回目）
+  - 「これは「未来の一等地」となるポテンシャルの高いエリアの発掘と組み合わされ、独自の市場での競争優位性を築いています」（https://note.com/stock1/n/n0c5787aa45a2・3回目）
+  - 「: 独自のニッチ戦略による高付加価値な商品・サービス提供が奏功し、高い売上総利益率や売上高営業利益率、ROEを実現しています」（https://note.com/stock1/n/n0c5787aa45a2・3回目）
+  - 「: 前述の通り、ROEや売上高営業利益率といった収益性指標が、比較対象となる多くの同業他社よりも高い水準にあります」（https://note.com/stock1/n/n0c5787aa45a2・3回目）
+  - 「: 販売事業（フロー）だけでなく、賃貸事業（ストック）にも注力し、安定した収益基盤を構築している点は、フロービジネス中心の企業と比較した際の強みです」（https://note.com/stock1/n/n0c5787aa45a2・3回目）
+  - 「理解できる事業、持続的な競争優位性（経済的な堀）、有能で株主志向の経営陣、良好な財務状況、そして十分な安全域」（https://note.com/stock1/n/n0c5787aa45a2・3回目）
+  - 「土地の仕入れから商品開発、販売まで一貫して行い、デザイン性や機能性にこだわった「魅力ある商品」を創作することを強みとしています」（https://note.com/stock1/n/n0c5787aa45a2・3回目）
+- 沿革：
+  - 「2026年8月10日」（https://lahd.co.jp/ir/・1回目）
+  - 「2026年6月12日」（https://lahd.co.jp/ir/public/・1回目）
+  - 「2026年2月25日」（https://lahd.co.jp/ir/public/・1回目）
+  - 「2025年2月25日」（https://lahd.co.jp/ir/public/・1回目）
+  - 「2023年4月13日」（https://lahd.co.jp/ir/public/・1回目）
+  - 「2026年3月12日」（https://lahd.co.jp/ir/public/・1回目）
+  - 「2025年12月11日」（https://lahd.co.jp/ir/public/・1回目）
+  - 「2025年3月28日」（https://lahd.co.jp/ir/public/・1回目）
+  - 「2025年1月21日」（https://lahd.co.jp/ir/public/・1回目）
+  - 「2024年12月12日」（https://lahd.co.jp/ir/public/・1回目）
+  - 「2024年3月14日」（https://lahd.co.jp/ir/public/・1回目）
+  - 「2023年3月29日」（https://lahd.co.jp/ir/public/・1回目）
+- 検索結果の抜粋：
+  - 「【 LAホールディングス （2986）銘柄分析】 ニッチ戦略で高 ... — 【 LAホールディングス （2986）銘柄分析】 ニッチ戦略で高 ... note https://note.com > 投資・マネー > 日本株」（https://note.com/stock1/n/n0c5787aa45a2・3回目）
+  - 「株式会社 LAホールディングス 経営陣の視点 - ENVALITH — 株式会社 LAホールディングス 経営陣の視点 - ENVALITH ENVALITH https://envalith.com > companies > management-voice」（https://envalith.com/ja/companies/2986/management-voice・3回目）
+  - 「会社情報 | 株式会社 LAホールディングス — 会社情報 | 株式会社 LAホールディングス 株式会社LAホールディングス https://lahd.co.jp > company > profile」（https://lahd.co.jp/company/profile/・3回目）
+  - 「LAホールディングス (2986) の企業概要・業績・財務・IR資料 — LAホールディングス (2986) の企業概要・業績・財務・IR資料 crex-data.com https://www.crex-data.com > 企業」（https://www.crex-data.com/company/2986・3回目）
+  - 「決算説明資料 ・補足資料 | 株式会社 LAホールディングス — 決算説明資料 ・補足資料 | 株式会社 LAホールディングス 株式会社LAホールディングス https://lahd.co.jp > financial > financial02」（https://lahd.co.jp/ir/financial/financial02/・3回目）
+  - 「LAホールディングス [2986]：2026年12月期 第2四半期 ... — LAホールディングス [2986]：2026年12月期 第2四半期 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr」（https://www.nikkei.com/nkd/disclosure/tdnr/20260810516660/・3回目）
+  - 「IR情報 | 株式会社 LAホールディングス — IR情報 | 株式会社 LAホールディングス 株式会社LAホールディングス https://lahd.co.jp > ...」（https://lahd.co.jp/ir/・3回目）
+  - 「LAホールディングス 【2986】の 事業 内容 - キタイシホン — LAホールディングス 【2986】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/2986/business・3回目）
+  - 「株式会社 LAホールディングス — 株式会社 LAホールディングス 株式会社LAホールディングス https://lahd.co.jp」（https://lahd.co.jp/・3回目）
+  - 「【 インタビュー 】 LAホールディングス 脇田栄一 社長 ／北海道 ... — 【 インタビュー 】 LAホールディングス 脇田栄一 社長 ／北海道 ... e-kensin.net https://e-kensin.net > ...」（https://e-kensin.net/n/n3e2ec849563f・3回目）
+  - 「直撃IR: LAホールディングス (2986) 脇田 社長 に聞く — 直撃IR: LAホールディングス (2986) 脇田 社長 に聞く 日経CNBC online https://online.nikkei-cnbc.co.jp > vod」（https://online.nikkei-cnbc.co.jp/vod/67555・3回目）
+  - 「LAホールディングス 【2986】の 社長 ・役員 - キタイシホン — LAホールディングス 【2986】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director」（https://kitaishihon.com/company/2986/board-of-director・3回目）
+- 設立：記載なし（3回確認済み：公式25頁／PDF・画像9件／外部5頁・検索5回）
+- 従業員数：記載なし（3回確認済み：公式25頁／PDF・画像9件／外部5頁・検索5回）
+- 事業内容：記載なし（3回確認済み：公式25頁／PDF・画像9件／外部5頁・検索5回）
+
+## ＬｉＮＫＸ
+- 公式URL：https://www.linkx.dev/（search:yahoo_jp:株式会社LiNKX）
+- ビジネスモデル：
+  - 「「本物のビジネスモデルの強さ」か、「短期的な特需の歪み」か」（https://note.com/signal_news/n/nde1ffdbf556b・3回目）
+  - 「ここに、この会社のビジネスモデルの本質がある」（https://note.com/signal_news/n/nde1ffdbf556b・3回目）
+  - 「しかし2〜3年後の収益構造がどう変わるかが、この会社の評価の分岐点になる」（https://note.com/signal_news/n/nde1ffdbf556b・3回目）
+  - 「ビジネスモデル、競争優位性、経営戦略、決算、成長余地まで1社ずつ分析」（https://note.com/signal_news/n/nde1ffdbf556b・3回目）
+- 誰に：
+  - 「お取引先企業」（https://www.linkx.dev/・1回目）
+  - 「クラウドネイティブで世界標準のシステム設計ができる技術と、AIを高次元で活用できる技術を持ち、かつ社内の厳格なコーディングテストを通過した、顧客プロジェクトに直接アサインされる人員だ」（https://note.com/signal_news/n/nde1ffdbf556b・3回目）
+  - 「つまりこの関係は、「一取引先への依存」というより「ミッション・クリティカルなインフラへの埋め込み」と読む方が正確だ」（https://note.com/signal_news/n/nde1ffdbf556b・3回目）
+  - 「顧客のシステムに深く食い込んでいるため、他社への乗り換えが極めて困難だ」（https://note.com/signal_news/n/nde1ffdbf556b・3回目）
+- 何を：
+  - 「既存の勘定系システムを段階的に切り出し、クラウド・マイクロサービス基盤へ移行」（https://www.linkx.dev/・1回目）
+  - 「また、最新のセキュリティ基準に準拠し、安全かつ柔軟なサービス連携を実現します」（https://www.linkx.dev/・1回目）
+  - 「「ニッキン」に自社AIソリューション「LiNKX AXcelerator」が掲載されました」（https://www.linkx.dev/・1回目）
+  - 「マイクロサービス化、標準化されたAPI、クラウド環境（マルチクラウド対応）を前提とした設計により、拡張性と保守性を高めます」（https://www.linkx.dev/services/overview・1回目）
+  - 「さらに、AI技術を活用した自社ソリューション「AXcelerator」によって、COBOLからの移行を含む大規模なシステム再構築を少数精鋭のチームで実行し、基幹システムのモダン化を推進します」（https://www.linkx.dev/services/overview・1回目）
+  - 「・ オープン化 / マイクロサービス化」（https://www.linkx.dev/services/overview・1回目）
+  - 「フロントサービスや外部システムと基幹系システムを接続するAPIゲートウェイ基盤を構築します」（https://www.linkx.dev/services/overview・1回目）
+  - 「自社ソリューション「BX Connect」を活用した、モダンかつセキュアなAPI基盤の構築にも対応します」（https://www.linkx.dev/services/overview・1回目）
+  - 「世界最大級のITインフラストラクチャーサービスプロバイダーであるKyndryl Inc.の日本法人キンドリルジャパン株式会社とAIパートナーシップ協定を締結」（https://www.linkx.dev/company/about・1回目）
+- どうやって売るか：
+  - 「AI時代のデータ利活用に向けて日本テラデータ株式会社との戦略的パートナーシップを締結」（https://www.linkx.dev/company/about・1回目）
+  - 「世界最大級のITインフラストラクチャーサービスプロバイダーであるKyndryl Inc.の日本法人キンドリルジャパン株式会社とAIパートナーシップ協定を締結」（https://www.linkx.dev/company/about・1回目）
+  - 「LiNKXはそこに深く入り込み、開発パートナーとして機能している」（https://note.com/signal_news/n/nde1ffdbf556b・3回目）
+  - 「2026年5月には、Kyndrylジャパンとのパートナーシップ締結」（https://note.com/signal_news/n/nde1ffdbf556b・3回目）
+- お金の形：
+  - 「個別ツールのライセンスコストや運用負荷を抑えながら、AI活用を前提としたデータ基盤の高度化を着実に推進します」（https://www.linkx.dev/・1回目）
+  - 「マイクロサービス化、標準化されたAPI、クラウド環境（マルチクラウド対応）を前提とした設計により、拡張性と保守性を高めます」（https://www.linkx.dev/services/overview・1回目）
+  - 「ストック型収入（保守・運用、SaaS等）：2.1%」（https://note.com/signal_news/n/nde1ffdbf556b・3回目）
+  - 「SaaSへの移行を目指すほとんどのITスタートアップが「ストック比率の向上」を語る」（https://note.com/signal_news/n/nde1ffdbf556b・3回目）
+  - 「開発が終わっても、保守・運用として継続関係が続く」（https://note.com/signal_news/n/nde1ffdbf556b・3回目）
+  - 「有報では「フロー型収入をストック型収入へとつなげる」と明記されている」（https://note.com/signal_news/n/nde1ffdbf556b・3回目）
+  - 「月額1,480円」（https://note.com/signal_news/n/nde1ffdbf556b・3回目）
+  - 「(期間限定)マスタープラン｜月額1,480円」（https://note.com/signal_news/n/nde1ffdbf556b・3回目）
+- 利益の源泉：
+  - 「さらに驚くのが営業利益率だ」（https://note.com/signal_news/n/nde1ffdbf556b・3回目）
+  - 「ただし、「埋め込まれていること」は参入障壁であると同時に、退出困難なリスクでもある」（https://note.com/signal_news/n/nde1ffdbf556b・3回目）
+  - 「ビジネスモデル、競争優位性、経営戦略、決算、成長余地まで1社ずつ分析」（https://note.com/signal_news/n/nde1ffdbf556b・3回目）
+- 沿革：
+  - 「2020年7月15日」（https://www.linkx.dev/company/about・1回目）
+  - 「2026年6月2日 20:48」（https://note.com/signal_news/n/nde1ffdbf556b・3回目）
+  - 「2026年5月、ひとつのIT企業が東京証券取引所グロース市場への上場を申請した」（https://note.com/signal_news/n/nde1ffdbf556b・3回目）
+  - 「2021年6月期が2.98億円」（https://note.com/signal_news/n/nde1ffdbf556b・3回目）
+  - 「2022年6月期が5.37億円」（https://note.com/signal_news/n/nde1ffdbf556b・3回目）
+  - 「2023年6月期が6.72億円」（https://note.com/signal_news/n/nde1ffdbf556b・3回目）
+  - 「2024年6月期が8.27億円」（https://note.com/signal_news/n/nde1ffdbf556b・3回目）
+  - 「2025年6月期が13.74億円」（https://note.com/signal_news/n/nde1ffdbf556b・3回目）
+  - 「2021年6月期はマイナス0.97億円の赤字」（https://note.com/signal_news/n/nde1ffdbf556b・3回目）
+  - 「2022年6月期はマイナス0.20億円の赤字」（https://note.com/signal_news/n/nde1ffdbf556b・3回目）
+  - 「2023年6月期はプラス0.56億円で初黒字転換」（https://note.com/signal_news/n/nde1ffdbf556b・3回目）
+  - 「2024年6月期はプラス1.38億円」（https://note.com/signal_news/n/nde1ffdbf556b・3回目）
+- 検索結果の抜粋：
+  - 「事業内容 | LiNKX 株式会社 — 事業内容 | LiNKX 株式会社 LiNKX株式会社 https://www.linkx.dev > services > overview」（https://www.linkx.dev/services/overview・3回目）
+  - 「【 LiNKX IPO分析】1人あたり2300万円を稼ぐエンジニア集団 ... — 【 LiNKX IPO分析】1人あたり2300万円を稼ぐエンジニア集団 ... note https://note.com > ビジネス > スタートアップ・VC」（https://note.com/signal_news/n/nde1ffdbf556b・3回目）
+  - 「LiNKX （584A）のアナリストレポート（IR、株、IPO） — LiNKX （584A）のアナリストレポート（IR、株、IPO） 証券リサーチセンター https://holistic-r.org > report」（https://holistic-r.org/report/584a/・3回目）
+  - 「LiNKX のIPO｜同族役員と社外取締役の構成、有償SOと事業の ... — LiNKX のIPO｜同族役員と社外取締役の構成、有償SOと事業の ... ipo-method.com https://ipo-method.com > IPOの基礎知識」（https://ipo-method.com/ipo-support/9672/・3回目）
+  - 「決算説明資料 | IRライブラリー - IR情報 - LiNKX株式会社 — 決算説明資料 | IRライブラリー - IR情報 - LiNKX株式会社 LiNKX株式会社 https://ir.linkx.dev > library > presentation」（https://ir.linkx.dev/ir/library/presentation/・3回目）
+  - 「IR情報 | LiNKX 株式会社 — IR情報 | LiNKX 株式会社 LiNKX株式会社 https://ir.linkx.dev」（https://ir.linkx.dev/・3回目）
+  - 「【 LiNKX 】[584A]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 LiNKX 】[584A]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo」（https://www.nikkei.com/nkd/company/kigyo/?scode=584A・3回目）
+  - 「よくあるご質問 | IR情報 | LiNKX 株式会社 — よくあるご質問 | IR情報 | LiNKX 株式会社 LiNKX株式会社 https://ir.linkx.dev > faq」（https://ir.linkx.dev/ir/faq/・3回目）
+  - 「コーポレート・ガバナンス | 経営情報 | IR情報 | LiNKX 株式会社 — コーポレート・ガバナンス | 経営情報 | IR情報 | LiNKX 株式会社 LiNKX株式会社 https://ir.linkx.dev > management > governance」（https://ir.linkx.dev/ir/management/governance/・3回目）
+  - 「事業 内容 | LiNKX 株式会社 — 事業 内容 | LiNKX 株式会社 LiNKX株式会社 https://www.linkx.dev > services > overview」（https://www.linkx.dev/services/overview・3回目）
+  - 「LiNKX 株式会社 - レガシーからモダンへ、その架け橋となる。 — LiNKX 株式会社 - レガシーからモダンへ、その架け橋となる。 LiNKX株式会社 https://www.linkx.dev」（https://www.linkx.dev/・3回目）
+  - 「企業情報 | LiNKX 株式会社 — 企業情報 | LiNKX 株式会社 LiNKX株式会社 https://www.linkx.dev > company > about」（https://www.linkx.dev/company/about・3回目）
+- 設立：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部4頁・検索6回）
+- 従業員数：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部4頁・検索6回）
+- 事業内容：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部4頁・検索6回）
+- 売上高：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部4頁・検索6回）
+- 売上構成：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部4頁・検索6回）
+
 ## ＭＡＲＵＷＡ
 - 公式URL：https://www.maruwa-g.com/（search:yahoo_jp:MARUWA）
 - 誰に：
@@ -1632,6 +2484,110 @@
 - 売上高：記載なし（3回確認済み：公式3頁／PDF・画像8件／外部2頁・検索5回）
 - ビジネスモデル：記載なし（3回確認済み：公式3頁／PDF・画像8件／外部2頁・検索5回）
 - お金の形：記載なし（3回確認済み：公式3頁／PDF・画像8件／外部2頁・検索5回）
+
+## ＭＳ－Ｊａｐａｎ
+- 公式URL：https://www.jmsc.co.jp/（search:yahoo_jp:MS-Japan）
+- 設立：1990年 4月（https://www.jesra.or.jp/search/1149/・3回目）
+- 従業員数：(法人全体) 209人 (うち人材紹介部門) 117人（https://www.jesra.or.jp/search/1149/・3回目）
+- 事業内容：管理部門に特化した人材紹介、プロフェッショナルファーム紹介（https://www.jesra.or.jp/search/1149/・3回目）
+- ビジネスモデル：
+  - 「今後も、日本国内で培ったビジネスモデルをベースに、海外市場への展開を加速させてまいります」（https://ir.jmsc.co.jp/vision/strength.html・3回目）
+  - 「●盤石な基盤と高収益モデル」（https://www.wantedly.com/companies/company_7073565/post_articles/1029380・3回目）
+  - 「最初からビジネスモデルはイメージされていたのでしょうか」（https://service.jinjibu.jp/article/detl/innovator/1642/2/・3回目）
+  - 「MS-Japanの士業・管理部門に特化したビジネスモデルと、会社全体の規模感が適切で全体を把握しやすい点に惹かれました」（https://company.jmsc.co.jp/recruit/member/・3回目）
+- 誰に：
+  - 「・ユーザー部門担当者として会計システムに関する開発・保守・運用経験」（https://www.jmsc.co.jp/entry/keiri_zaimu/・1回目）
+  - 「現在、アジアを中心にグローバルなお客様のニーズに応えるサービスを提供しており、将来的には海外の現地で勤務も出来、グローバルなキャリア形成が可能です！」（https://www.jmsc.co.jp/entry/keiri_zaimu/・1回目）
+  - 「上記に加え、お客様の資産管理会社に係る法人業務や、確定申告業務もお願いします」（https://www.jmsc.co.jp/entry/zeirishi/・1回目）
+  - 「ノウハウを集中することによって非営利法人の顧客に対して高い水準のサービスを提供しています」（https://www.jmsc.co.jp/entry/zeirishi/・1回目）
+  - 「■相続税、所得税、固定資産税などの複雑なシミュレーションを、お客様が糸目で理解できる「納得感のある資料」へブラッシュアップ」（https://www.jmsc.co.jp/entry/zeirishi/・1回目）
+  - 「中堅～大手の税理士法人で上場企業のクライアントを担当している税理士が将来的に独立開業を希望する場合、独立後の顧客層に近いと思われる非上場中小零細企業の税務の経験を積むため、小規模な町事務所に転職するケースもあります」（https://www.jmsc.co.jp/entry/zeirishi/・1回目）
+  - 「・ユーザー部門担当者として会計システムに関する開発・保守・運用経験」（https://www.jmsc.co.jp/entry/keiri/・1回目）
+  - 「現在、アジアを中心にグローバルなお客様のニーズに応えるサービスを提供しており、将来的には海外の現地で勤務も出来、グローバルなキャリア形成が可能です！」（https://www.jmsc.co.jp/entry/keiri/・1回目）
+  - 「年間200件近くお客様が増えている急成長中の事務所です！」（https://www.jmsc.co.jp/entry/zeirishigokaku/・1回目）
+  - 「税務会計コンサルタントとして、経営にまつわるお客様の課題抽出から業務改善まで幅広い業務を行ってもらいます」（https://www.jmsc.co.jp/entry/zeirishigokaku/・1回目）
+  - 「・お客様の期待に応えられるように、一生懸命になれる方」（https://www.jmsc.co.jp/entry/zeirishigokaku/・1回目）
+  - 「上記に加え、お客様の資産管理会社に係る法人業務や、確定申告業務もお願いします」（https://www.jmsc.co.jp/entry/zeirishigokaku/・1回目）
+- 何を：
+  - 「サービス紹介を見る」（https://www.jmsc.co.jp/・1回目）
+  - 「転職サポートサービス」（https://www.jmsc.co.jp/・1回目）
+  - 「サービスの流れ」（https://www.jmsc.co.jp/・1回目）
+  - 「サービスFAQ」（https://www.jmsc.co.jp/・1回目）
+  - 「厚生労働省「人材サービス総合サイト」における管理部門・士業領域に特化した有料職業紹介事業者の「無期雇用および4ヶ月以上の有期雇用の就職者数」（2025年度実績を自社集計）による」（https://www.jmsc.co.jp/・1回目）
+  - 「MS-Japanのサービス」（https://www.jmsc.co.jp/・1回目）
+  - 「転職サポートサービスとは」（https://www.jmsc.co.jp/・1回目）
+  - 「サービスの流れを詳しく見る」（https://www.jmsc.co.jp/・1回目）
+  - 「総合転職サービス」（https://www.jmsc.co.jp/・1回目）
+  - 「MS-Japanの転職サービス」（https://www.jmsc.co.jp/・1回目）
+  - 「サービス紹介」（https://www.jmsc.co.jp/・1回目）
+  - 「サービス紹介を見る」（https://www.jmsc.co.jp/seminar/keiri_zaimu/・1回目）
+- どうやって売るか：
+  - 「サービス紹介を見る」（https://www.jmsc.co.jp/・1回目）
+  - 「キャリアアドバイザー紹介」（https://www.jmsc.co.jp/・1回目）
+  - 「厚生労働省「人材サービス総合サイト」における管理部門・士業領域に特化した有料職業紹介事業者の「無期雇用および4ヶ月以上の有期雇用の就職者数」（2025年度実績を自社集計）による」（https://www.jmsc.co.jp/・1回目）
+  - 「なお、管理部門・士業領域への特化の有無は、当社において比較対象の有料職業紹介事業者のウェブサイトを全件閲覧して判断」（https://www.jmsc.co.jp/・1回目）
+  - 「最適な案件をご紹介します」（https://www.jmsc.co.jp/・1回目）
+  - 「求人情報紹介」（https://www.jmsc.co.jp/・1回目）
+  - 「選考を有利に進める書き方のポイントを紹介します！」（https://www.jmsc.co.jp/・1回目）
+  - 「職種や資格に精通したキャリアアドバイザーが、求人紹介はもちろん、応募書類の添削や面接対策まで丁寧にサポートします」（https://www.jmsc.co.jp/・1回目）
+  - 「会員登録いただくことで、MS-Japanだけが取り扱う非公開求人のご紹介も可能です」（https://www.jmsc.co.jp/・1回目）
+  - 「サービス紹介」（https://www.jmsc.co.jp/・1回目）
+  - 「サービス紹介を見る」（https://www.jmsc.co.jp/seminar/keiri_zaimu/・1回目）
+  - 「キャリアアドバイザー紹介」（https://www.jmsc.co.jp/seminar/keiri_zaimu/・1回目）
+- お金の形：
+  - 「・ユーザー部門担当者として会計システムに関する開発・保守・運用経験」（https://www.jmsc.co.jp/entry/keiri_zaimu/・1回目）
+  - 「■上記のモニタリング業務に加え、企業再生、M&A、IPO支援といったコンサルティング業務をサービスラインとしているため、組織再編税制、M&Aの税務DD、SO（ストックオプション）税務対応、上場会計対応（税効果等）等の幅広い税務業務を経験できます」（https://www.jmsc.co.jp/entry/zeirishi/・1回目）
+  - 「・ユーザー部門担当者として会計システムに関する開発・保守・運用経験」（https://www.jmsc.co.jp/entry/keiri/・1回目）
+  - 「■上記のモニタリング業務に加え、企業再生、M&A、IPO支援といったコンサルティング業務をサービスラインとしているため、組織再編税制、M&Aの税務DD、SO（ストックオプション）税務対応、上場会計対応（税効果等）等の幅広い税務業務を経験できます」（https://www.jmsc.co.jp/entry/zeirishigokaku/・1回目）
+  - 「稼働日数や単価、繁忙時期や兼業について等、あらかじめご確認をお願いしております」（https://www.jmsc.co.jp/entry/hiroshima/・1回目）
+  - 「・入退社手続き、資格取得／喪失、月額変更（算定・月変）、産育休関連」（https://www.jmsc.co.jp/entry/hiroshima/・1回目）
+  - 「高単価案件が豊富で高収入狙える」（https://www.jmsc.co.jp/zeirishi/・1回目）
+  - 「・ユーザー部門担当者として会計システムに関する開発・保守・運用経験」（https://www.jmsc.co.jp/entry/pr_marke/・1回目）
+  - 「■社内業務システムの開発・保守・運用」（https://www.jmsc.co.jp/entry/pr_marke/・1回目）
+  - 「■各種ソフトウェアの開発・保守・運用」（https://www.jmsc.co.jp/entry/pr_marke/・1回目）
+  - 「■サーバー(Windows)保守・運用」（https://www.jmsc.co.jp/entry/pr_marke/・1回目）
+  - 「■ネットワーク保守・運用」（https://www.jmsc.co.jp/entry/pr_marke/・1回目）
+- 利益の源泉：
+  - 「さらに、わたしたちは「AIに強みをもつ会社」として、IT技術の利活用による業務効率化に挑戦する攻めの姿勢も持ち合わせるチームであり続けたいという想いを持っています」（https://www.jmsc.co.jp/entry/keiri_zaimu/・1回目）
+  - 「経理財務【管理職候補】◆設立55年以上の優良メーカー/安定した営業基盤で高収益◆」（https://www.jmsc.co.jp/entry/keiri_zaimu/・1回目）
+  - 「さらに、わたしたちは「AIに強みをもつ会社」として、IT技術の利活用による業務効率化に挑戦する攻めの姿勢も持ち合わせるチームであり続けたいという想いを持っています」（https://www.jmsc.co.jp/entry/keiri/・1回目）
+  - 「経理財務【管理職候補】◆設立55年以上の優良メーカー/安定した営業基盤で高収益◆」（https://www.jmsc.co.jp/entry/keiri/・1回目）
+  - 「・IPO準備実務(在庫管理、棚卸、J-SOXの整備)」（https://www.jmsc.co.jp/entry/hiroshima/・1回目）
+  - 「・ネットワーク、サーバー、クラウド等のいずれかに強みを持ち、自ら設計・構築・運用した経験」（https://www.jmsc.co.jp/entry/pr_marke/・1回目）
+  - 「■在庫および倉庫管理の高度化により、コストダウンを強く意識した業務遂行に努める」（https://www.jmsc.co.jp/entry/pr_marke/・1回目）
+  - 「まずは売上原価・在庫確定、資金管理などの実務フローを現場で把握いただいた上で、これまで培ってきたご経験を活かし、」（https://www.jmsc.co.jp/entry/keiri_zaimu/page_2/・1回目）
+  - 「・売上原価・在庫確定、資金管理（グループ資金管理・金融機関対応を含む）等の経理・財務業務の統括」（https://www.jmsc.co.jp/entry/keiri_zaimu/page_2/・1回目）
+  - 「・営業経理の統括：事業部門と連携した事業損益の予算・予実管理、会計データを活用した在庫・採算・資金等の分析と改善提案」（https://www.jmsc.co.jp/entry/keiri_zaimu/page_2/・1回目）
+  - 「これこそが「管理部門・士業特化型エージェント」としての私たちの競争優位性です」（https://www.wantedly.com/companies/company_7073565/post_articles/1029380・3回目）
+  - 「●盤石な基盤と高収益モデル」（https://www.wantedly.com/companies/company_7073565/post_articles/1029380・3回目）
+- 沿革：
+  - 「2023年1月からは、これまでコロナ禍の暫定措置だった在宅勤務、時差出勤の運用を制度化し」（https://www.jmsc.co.jp/entry/zeirishi/・1回目）
+  - 「2023年1月からは、これまでコロナ禍の暫定措置だった在宅勤務、時差出勤の運用を制度化し従業員の多様な働き方に対応いたします」（https://www.jmsc.co.jp/entry/zeirishi/・1回目）
+  - 「2023年1月からは、これまでコロナ禍の暫定措置だった在宅勤務、時差出勤の運用を制度化し」（https://www.jmsc.co.jp/entry/zeirishigokaku/・1回目）
+  - 「2023年1月からは、これまでコロナ禍の暫定措置だった在宅勤務、時差出勤の運用を制度化し従業員の多様な働き方に対応いたします」（https://www.jmsc.co.jp/entry/zeirishigokaku/・1回目）
+  - 「会社概要・沿革」（https://ir.jmsc.co.jp/vision/strength.html・3回目）
+  - 「会社概要・沿革」（https://ir.jmsc.co.jp/library/presentation.html・3回目）
+  - 「2027年3月期 決算等補足説明資料」（https://ir.jmsc.co.jp/library/presentation.html・3回目）
+  - 「2027年3月期第1四半期決算補足説明資料」（https://ir.jmsc.co.jp/library/presentation.html・3回目）
+  - 「2026年3月期 決算等補足説明資料」（https://ir.jmsc.co.jp/library/presentation.html・3回目）
+  - 「2026年3月期決算補足説明資料」（https://ir.jmsc.co.jp/library/presentation.html・3回目）
+  - 「2026年3月期 決算説明 動画」（https://ir.jmsc.co.jp/library/presentation.html・3回目）
+  - 「2026年3月期第3四半期決算補足説明資料」（https://ir.jmsc.co.jp/library/presentation.html・3回目）
+- 検索結果の抜粋：
+  - 「主たる事業と成長戦略｜IR情報 - MS-Japan — 主たる事業と成長戦略｜IR情報 - MS-Japan MS-Japan https://ir.jmsc.co.jp > vision > strength」（https://ir.jmsc.co.jp/vision/strength.html・3回目）
+  - 「MS - Japan が創り出す「世界一の経営管理プラットフォーム」 — MS - Japan が創り出す「世界一の経営管理プラットフォーム」 Wantedly https://www.wantedly.com > ... > ストーリー」（https://www.wantedly.com/companies/company_7073565/post_articles/1029380・3回目）
+  - 「株式会社 MS － Japan の中途採用・転職・求人情報 — 株式会社 MS － Japan の中途採用・転職・求人情報 リクルートエージェント https://www.r-agent.com > company」（https://www.r-agent.com/company/94118/・3回目）
+  - 「株式会社 MS - Japan | Chiyoda-ku Tokyo - Facebook — 株式会社 MS - Japan | Chiyoda-ku Tokyo - Facebook Facebook https://www.facebook.com > ... > Recruiter」（https://www.facebook.com/msjapan.tokyo/?locale=ja_JP・3回目）
+  - 「MS - Japan の「企業分析［強み・弱み・展望］」 OpenWork — MS - Japan の「企業分析［強み・弱み・展望］」 OpenWork OpenWork https://www.openwork.jp > 人材サービス > MS-Japan」（https://www.openwork.jp/company_answer.php?m_id=a0C30000002hPNx&q_no=9・3回目）
+  - 「決算 等補足 説明資料 - IR情報 - MS-Japan — 決算 等補足 説明資料 - IR情報 - MS-Japan MS-Japan https://ir.jmsc.co.jp > library > presentation」（https://ir.jmsc.co.jp/library/presentation.html・3回目）
+  - 「IR 資料 室 - IR情報 - MS-Japan — IR 資料 室 - IR情報 - MS-Japan MS-Japan https://ir.jmsc.co.jp > library」（https://ir.jmsc.co.jp/library.html・3回目）
+  - 「【 MS - Japan 】[6539]IR情報 中期経営計画や 決算 短信 | 日経 ... — 【 MS - Japan 】[6539]IR情報 中期経営計画や 決算 短信 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo」（https://www.nikkei.com/nkd/company/kigyo/?scode=6539・3回目）
+  - 「株式会社 MS － Japan IR 資料 - EDINET DB — 株式会社 MS － Japan IR 資料 - EDINET DB EDINET DB https://edinetdb.jp > 株式会社ＭＳ－Ｊａｐａｎ」（https://edinetdb.jp/company/E32801/ir-docs/・3回目）
+  - 「MS － Japan 【6539】の最新 決算 発表、業績修正 - 株探 — MS － Japan 【6539】の最新 決算 発表、業績修正 - 株探 株探 https://kabutan.jp > ＭＳ－Ｊａｐａｎ (6539) > 決算」（https://kabutan.jp/stock/finance?code=6539・3回目）
+  - 「株式会社 MS - Japan — 株式会社 MS - Japan MS-Japan PDF https://www.jmsc.co.jp > MS-Japan会社案内」（https://www.jmsc.co.jp/corporate/MS-Japan%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85.pdf・3回目）
+  - 「株式会社 MS － Japan 東京本社 — 株式会社 MS － Japan 東京本社 一般社団法人 日本人材紹介事業協会 https://www.jesra.or.jp > 会員企業検索」（https://www.jesra.or.jp/search/1149/・3回目）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像12件／外部7頁・検索5回）
+- 売上構成：記載なし（3回確認済み：公式25頁／PDF・画像12件／外部7頁・検索5回）
 
 ## Ｍ＆Ａキャピタルパートナーズ
 - 公式URL：https://www.ma-cp.com/（search:yahoo_jp:M&Aキャピタルパートナーズ）
@@ -2021,6 +2977,98 @@
 - 従業員数：記載なし（3回確認済み：公式25頁／PDF・画像2件／外部6頁・検索5回）
 - 売上高：記載なし（3回確認済み：公式25頁／PDF・画像2件／外部6頁・検索5回）
 
+## ＰＫＳＨＡ　Ｔｅｃｈｎｏｌｏｇｙ
+- 公式URL：https://www.pkshatech.com/（search:yahoo_jp:PKSHA Technology）
+- 設立：A. 2012年(平成24年)10⽉、東京都新宿区に研究室在籍中に株式会社AppReSearchとして法⼈設⽴しました。 その後、事業領域の拡⼤と共に「株式会社PKSHATechnology」に社名変更し、現在に⾄っております。（https://www.pkshatech.com/ir/faq/・1回目）
+- 事業内容：アルゴリズムライセンス事業（https://www.pkshatech.com/company/about/・1回目）
+- ビジネスモデル：
+  - 「また、日本のデジタル活用にブレーキがかかっている根本的な問題には、ビジネスモデルのインセンティブの構造矛盾があるとコメント」（https://aismiley.co.jp/ai_news/pksha-ai-product-report/・3回目）
+  - 「この労働集約型の構造を脱却するため、PKSHAではライセンス型ビジネスモデルへの切り替えにより、迅速な開発と人数を絞ることで効率性を高め、売り上げの増加につなげています」（https://aismiley.co.jp/ai_news/pksha-ai-product-report/・3回目）
+- 誰に：
+  - 「AI CX 顧客体験のAI進化」（https://www.pkshatech.com/・1回目）
+  - 「顧客の課題や目的に応じたソリューションを開発して提供」（https://www.pkshatech.com/・1回目）
+  - 「ソリューションの成果をプロダクト化し、より多くの顧客に提供」（https://www.pkshatech.com/・1回目）
+  - 「PKSHA社内だけではなく、顧客との共同開発も積極的に実施」（https://www.pkshatech.com/・1回目）
+  - 「利用ユーザー」（https://www.pkshatech.com/・1回目）
+  - 「多くのユーザーと企業との「接点」で、人と共進化するソフトウエアが動いています」（https://www.pkshatech.com/・1回目）
+  - 「AI CX 顧客体験のAI進化」（https://www.pkshatech.com/company/about/・1回目）
+  - 「AI CX 顧客体験のAI進化」（https://www.pkshatech.com/company/history/・1回目）
+  - 「AI CX 顧客体験のAI進化」（https://www.pkshatech.com/ir/・1回目）
+  - 「AI CX 顧客体験のAI進化」（https://www.pkshatech.com/ir/calendar/・1回目）
+  - 「AI CX 顧客体験のAI進化」（https://www.pkshatech.com/ir/news/・1回目）
+  - 「AI CX 顧客体験のAI進化」（https://www.pkshatech.com/ir/summary/・1回目）
+- 何を：
+  - 「PKSHA Technologyは、自然言語処理、画像認識、機械学習/深層学習技術に基づくアルゴリズムを開発し、ソリューションとして提供しています」（https://www.pkshatech.com/・1回目）
+  - 「さらに、ソリューションをもとにプロダクトを開発し、SaaSとして社会実装を加速」（https://www.pkshatech.com/・1回目）
+  - 「顧客の課題や目的に応じたソリューションを開発して提供」（https://www.pkshatech.com/・1回目）
+  - 「ソリューションの成果をプロダクト化し、より多くの顧客に提供」（https://www.pkshatech.com/・1回目）
+  - 「パナソニック プロジェクター＆ディスプレイ、PKSHA AI SaaS 2製品を同時導入——PKSHA AIが品番単位の専門的な問い合わせに回答」（https://www.pkshatech.com/・1回目）
+  - 「ソリューション」（https://www.pkshatech.com/・1回目）
+  - 「ソリューション」（https://www.pkshatech.com/company/about/・1回目）
+  - 「AI SaaS製品を「PKSHA」ブランドに統一」（https://www.pkshatech.com/company/history/・1回目）
+  - 「不正・犯罪検知ソリューション「PKSHA Security」の本格展開開始」（https://www.pkshatech.com/company/history/・1回目）
+  - 「ソリューション」（https://www.pkshatech.com/company/history/・1回目）
+  - 「ソリューション」（https://www.pkshatech.com/ir/・1回目）
+  - 「ソリューション」（https://www.pkshatech.com/ir/calendar/・1回目）
+- どうやって売るか：
+  - 「株式会社PKSHA Technologyは、2025 年 2 月 25 日（火）、第二回 事業説明会にて「AI実装パートナーとして捉える国内大企業のAI活用のハードル」の講演を実施しました」（https://aismiley.co.jp/ai_news/pksha-ai-product-report/・3回目）
+  - 「さらに、AI SolutionおよびAI SaaSの最新事業も紹介しました」（https://aismiley.co.jp/ai_news/pksha-ai-product-report/・3回目）
+  - 「続いて、PKSHA Workplace 執行役員 山本 健介氏がSaaS事業のアップデートについて、ボイスボットやチャットボットなど幅広い領域で展開しているプロダクトを紹介」（https://aismiley.co.jp/ai_news/pksha-ai-product-report/・3回目）
+  - 「新事業の発表では、PKSHA Technology 社長室 室長 大野 紗和子氏が登壇し、人事業務における採用プロセスの最適化についてPKSHA AI Suite for HRによるソリューションを紹介しました」（https://aismiley.co.jp/ai_news/pksha-ai-product-report/・3回目）
+  - 「PKSHA Technology 執行役員 佐野 長紀氏による事業紹介では、クレジットカードの不正利用や保険金の不正請求などの様々な社会問題を防ぐため、PKSHA Securityを活用したソリューションが紹介されました」（https://aismiley.co.jp/ai_news/pksha-ai-product-report/・3回目）
+  - 「本講演では、PKSHAが掲げるミッションおよびビジョンである共進化型の未来に向け、人とAIが連携することで相乗効果を発揮する幅広い業務に対応可能なソリューションが紹介されました」（https://aismiley.co.jp/ai_news/pksha-ai-product-report/・3回目）
+  - 「株式会社アイスマイリーが運営するAIポータルメディア「AIsmiley」は、AIの専門家によるコンテンツ配信とプロダクト紹介を行うWebメディアです」（https://aismiley.co.jp/ai_news/pksha-ai-product-report/・3回目）
+  - 「コールセンターAI導入事例紹介」（https://aismiley.co.jp/ai_news/pksha-ai-product-report/・3回目）
+  - 「AIソリューション一覧紹介」（https://aismiley.co.jp/ai_news/pksha-ai-product-report/・3回目）
+  - 「AI開発プロセス紹介」（https://aismiley.co.jp/ai_news/pksha-ai-product-report/・3回目）
+  - 「AI開発会社紹介」（https://aismiley.co.jp/ai_news/pksha-ai-product-report/・3回目）
+  - 「教育現場にAIを導入する活用事例紹介」（https://aismiley.co.jp/ai_news/pksha-ai-product-report/・3回目）
+- お金の形：
+  - 「アルゴリズムライセンス事業」（https://www.pkshatech.com/company/about/・1回目）
+  - 「この労働集約型の構造を脱却するため、PKSHAではライセンス型ビジネスモデルへの切り替えにより、迅速な開発と人数を絞ることで効率性を高め、売り上げの増加につなげています」（https://aismiley.co.jp/ai_news/pksha-ai-product-report/・3回目）
+  - 「3ヶ月で月額300万円削減 ── AWSコスト削減プロジェクトのリアル」（https://speakerdeck.com/pkshadeck/pksha-technology-companydeck・3回目）
+  - 「パークシャは、自然言語処理、画像認識、機械学習／深層学習技術に関わるアルゴリズムソリューションを自社開発し、顧客にライセンスとして提供する“アルゴリズムサプライヤー”だ」（https://rikeinavi.com/guide/careerguide_topint_18sp・3回目）
+- 売上構成：
+  - 「セグメント別実績」（https://www.pkshatech.com/ir/・1回目）
+  - 「AI Powered Worker セグメント売上収益」（https://www.pkshatech.com/ir/summary/・1回目）
+  - 「AI Powered Worker セグメント利益」（https://www.pkshatech.com/ir/summary/・1回目）
+- 利益の源泉：
+  - 「AI SaaSと組み合わせた柔軟な開発力が強み」（https://www.pkshatech.com/・1回目）
+  - 「例：対話の⾃動化、ノウハウ継承、etc AI Research & Solution AI SaaS AI Solution 届ける 課題を解く まだ誰も解いていない領域で、先を⾏く ⼤⼿テック企業が⼿を出しにくい特化領域で、 PKSHAならではの技術的な強みを築いています」（https://speakerdeck.com/pkshadeck/pksha-technology-companydeck・3回目）
+  - 「需要予測、在庫最適化、棚割り最適化 販促効果予測、広告配信最適化 オンライン診療相談、副作⽤情報抽出 製造 航空 / 物流 / モビリティ AI SaaS ⽬視検査の⾃動化、異常検知 保全知識データベース構築 遅延発⽣予測、配送ルート最適化 ドラレコ映像解析 アダプティブラーニング AI Research & Solution 警備 / ⾒守り 不動産 ⾦融 不審⾏動検知、顔認証（マスク対応） 物件価格予測、設備点検の⾃動化 不正検知、与信審査の⾼度化 AI Powered Worker © PKSHA Technology Inc. 教育 20」（https://speakerdeck.com/pkshadeck/pksha-technology-companydeck・3回目）
+  - 「社内で研究 活動にも注⼒できる環境があることはPKSHAの⾯ ⽩さであり、強みでもあります」（https://speakerdeck.com/pkshadeck/pksha-technology-companydeck・3回目）
+  - 「2012年10月、日本のAI研究をリードする東京大学の松尾研究室出身者によって起業され、アカデミック領域で高い専門性を有するメンバーが在籍していることが強みである同社」（https://rikeinavi.com/guide/careerguide_topint_18sp・3回目）
+  - 「それぞれ異なる強みを持つ多様なプロフェッショナル達とチームを組み、問題解決に挑む、非常に濃密な時間を過ごした」（https://rikeinavi.com/guide/careerguide_topint_18sp・3回目）
+  - 「【生成AIで日本が勝つ方法】日本の強みが活かせる2分野／ロボットと先端科学に注力せよ／周回遅れのフロントランナー／個人の強みを伸ばす教育／AI人材の育成法【上野山勝也×伊藤穰一】日本再興ラストチャンス」（https://www.youtube.com/watch?v=h2xWXFEAAZg・3回目）
+- 沿革：
+  - 「沿革 | Company | PKSHA Technology Inc.」（https://www.pkshatech.com/company/history/・1回目）
+  - 「2012年10月」（https://www.pkshatech.com/company/history/・1回目）
+  - 「2013年2月」（https://www.pkshatech.com/company/history/・1回目）
+  - 「2013年6月」（https://www.pkshatech.com/company/history/・1回目）
+  - 「2013年11月」（https://www.pkshatech.com/company/history/・1回目）
+  - 「2014年2月」（https://www.pkshatech.com/company/history/・1回目）
+  - 「2014年3月」（https://www.pkshatech.com/company/history/・1回目）
+  - 「2014年7月」（https://www.pkshatech.com/company/history/・1回目）
+  - 「2014年8月」（https://www.pkshatech.com/company/history/・1回目）
+  - 「2014年12月」（https://www.pkshatech.com/company/history/・1回目）
+  - 「2015年3月」（https://www.pkshatech.com/company/history/・1回目）
+  - 「2015年10月」（https://www.pkshatech.com/company/history/・1回目）
+- 検索結果の抜粋：
+  - 「PKSHA Technology — PKSHA Technology PKSHA Technology https://www.pkshatech.com」（https://www.pkshatech.com/・3回目）
+  - 「PKSHA Technology のすごすぎる ビジネスモデル ｜sho - note — PKSHA Technology のすごすぎる ビジネスモデル ｜sho - note note https://note.com > ビジネス > ビジネス全般」（https://note.com/sho_kondo/n/n557fd8713ef1・3回目）
+  - 「AI Solution | PKSHA Technology Inc. — AI Solution | PKSHA Technology Inc. PKSHA Technology https://www.pkshatech.com > ai-solution」（https://www.pkshatech.com/ai-solution/・3回目）
+  - 「IRライブラリ | IR | PKSHA Technology Inc. — IRライブラリ | IR | PKSHA Technology Inc. PKSHA Technology https://www.pkshatech.com > library」（https://www.pkshatech.com/ir/library/・3回目）
+  - 「FAQ | IR | PKSHA Technology Inc. — FAQ | IR | PKSHA Technology Inc. PKSHA Technology https://www.pkshatech.com > faq」（https://www.pkshatech.com/ir/faq/・3回目）
+  - 「【 PKSHA Technology 】[3993]IR情報 中期経営計画や 決算 短信 — 【 PKSHA Technology 】[3993]IR情報 中期経営計画や 決算 短信 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo」（https://www.nikkei.com/nkd/company/kigyo/?scode=3993・3回目）
+  - 「業績・財務情報 | IR | PKSHA Technology Inc. — 業績・財務情報 | IR | PKSHA Technology Inc. PKSHA Technology https://www.pkshatech.com > summary」（https://www.pkshatech.com/ir/summary/・3回目）
+  - 「PKSHA Technology 会社紹介資料 / Company Deck — PKSHA Technology 会社紹介資料 / Company Deck Speaker Deck https://speakerdeck.com > pksha-technology-companydeck」（https://speakerdeck.com/pkshadeck/pksha-technology-companydeck・3回目）
+  - 「PKSHAの公式noteへようこそ！ PKSHA Technology の 事業 ... — PKSHAの公式noteへようこそ！ PKSHA Technology の 事業 ... PKSHA Delta https://voice.pkshatech.com > ...」（https://voice.pkshatech.com/n/n9641c76a08c2・3回目）
+  - 「PKSHA Technology 【3993】の 事業 内容 - キタイシホン — PKSHA Technology 【3993】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/3993/business・3回目）
+  - 「トップ インタビュー （株式会社 PKSHA Technology ... - 理系ナビ — トップ インタビュー （株式会社 PKSHA Technology ... - 理系ナビ 理系ナビ https://rikeinavi.com > 就活ガイド」（https://rikeinavi.com/guide/careerguide_topint_18sp・3回目）
+  - 「役員プロフィール | Company | PKSHA Technology Inc. — 役員プロフィール | Company | PKSHA Technology Inc. PKSHA Technology https://www.pkshatech.com > company > people」（https://www.pkshatech.com/company/people/・3回目）
+- 従業員数：記載なし（3回確認済み：公式18頁／PDF・画像8件／外部4頁・検索5回）
+- 売上高：記載なし（3回確認済み：公式18頁／PDF・画像8件／外部4頁・検索5回）
+
 ## ＰＲ　ＴＩＭＥＳ
 - 公式URL：https://japanpr.jp/（search:ddgs:yahoo:PR TIMES Japan）
 - 設立：2005年12月（https://prtimes.jp/main/html/rd/p/000001574.000000112.html・3回目）
@@ -2104,6 +3152,111 @@
 - 売上高：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部8頁・検索10回）
 - ビジネスモデル：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部8頁・検索10回）
 - 売上構成：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部8頁・検索10回）
+
+## ＲＯＢＯＴ　ＰＡＹＭＥＮＴ
+- 公式URL：https://www.robotpayment.co.jp/（search:yahoo_jp:ROBOT PAYMENT）
+- 設立：2000年10月(平成12年10月)（https://www.robotpayment.co.jp/company/・1回目）
+- 設立：2010年7月（https://www.nikkei.com/article/DGXZRSP687120_Z10C25A2000000/・3回目）
+- 設立：2000年10月（https://www.nikkei.com/article/DGXZRSP687120_Z10C25A2000000/・3回目）
+- 従業員数：154名 ※臨時従業員を含み、派遣社員・業務委託を除く（https://www.robotpayment.co.jp/company/・1回目）
+- 事業内容：フィナンシャルクラウド事業 ペイメント事業（https://www.robotpayment.co.jp/company/・1回目）
+- ビジネスモデル：
+  - 「そして、安定したリカーリングビジネスを志向しながら、収益が地層構造のように着実に積み重なるビジネスモデルを今後も推進していく予定です」（https://www.robotpayment.co.jp/ir/management/message/・1回目）
+  - 「3.収益モデル構成」（https://www.robotpayment.co.jp/ir/individual/・1回目）
+  - 「ROBOT PAYMENTが提供する各サービスの収益モデルを、課金体系・ターゲットごとにマッピングしています」（https://www.robotpayment.co.jp/ir/individual/・1回目）
+  - 「銀行の預金が負債として計上されるのと同様に、当社ビジネスモデルでは預り金が構造的に発生します」（https://www.robotpayment.co.jp/ir/individual/・1回目）
+  - 「これは決済代行業務における業務運用上の特性であり、当社の業績やビジネスモデルに根本的な問題があるわけではございません」（https://www.robotpayment.co.jp/ir/individual/・1回目）
+  - 「収益構造の進化とサービス高度化」（https://www.robotpayment.co.jp/ir/policy/・1回目）
+  - 「当社は今までのビジネスモデルを大胆に変え、新しい事業を始めることにしました」（https://www.robotpayment.co.jp/keiri_liberty/comment.html・1回目）
+  - 「※当社はビジネスモデル上および財務体質上、潤沢な手元流動性を有しているため、現状借入を元にした投資の予定はない」（https://www.robotpayment.co.jp/ir/img/ir-data_oct2025_jp.pdf・2回目）
+  - 「ライフカード社との協働で幅広いビジネスモデルへ対応」（https://www.nikkei.com/article/DGXZRSP687120_Z10C25A2000000/・3回目）
+  - 「これまでサービスの提供が難しいとされていた市場にも、当社の「サブスクペイ」がビジネスモデルに新しい変化をもたらします」（https://www.nikkei.com/article/DGXZRSP687120_Z10C25A2000000/・3回目）
+  - 「新たなビジネスモデルやサービスの立ち上げを迅速かつスムーズにサポートします」（https://www.nikkei.com/article/DGXZRSP687120_Z10C25A2000000/・3回目）
+  - 「#ビジネスモデル」（https://www.nikkei.com/article/DGXZRSP687120_Z10C25A2000000/・3回目）
+- 誰に：
+  - 「サブスクビジネスに必要な機能がワンパッケージになった自動決済・顧客管理サービス」（https://www.robotpayment.co.jp/・1回目）
+  - 「旧来の商取引における慣習や非効率な取引手続き、さらには取引先に対する与信の問題が企業の資金循環を妨げ、潜在的な力を発揮できない企業が日本には数多く存在しています」（https://www.robotpayment.co.jp/company/・1回目）
+  - 「※お客様側のセキュリティ設定で、ユーザー受信拒否と認識されているか、迷惑メール対策等で、ドメイン指定受信拒否を設定されている場合、お問い合わせに対するメールが正しく届かないことがあります」（https://www.robotpayment.co.jp/keiri_liberty/・1回目）
+  - 「サブスクビジネスは成長の鍵ですが、顧客が増えるほど管理は複雑になります」（https://www.robotpayment.co.jp/keiri_liberty/dx/・1回目）
+  - 「導入企業規模」（https://www.robotpayment.co.jp/keiri_liberty/dx/・1回目）
+  - 「業界別導入企業」（https://www.robotpayment.co.jp/keiri_liberty/dx/・1回目）
+  - 「旧来の商取引における慣習や非効率な取引手続き、さらには取引先に対する与信の問題が企業の資金循環を妨げ、潜在的な力を発揮できない企業が日本には数多く存在しています」（https://www.robotpayment.co.jp/ir/management/message/・1回目）
+  - 「「サブスクペイ」は、2000年の創業時から「インターネット決済代行サービス」として提供している、BtoC、BtoB向けのサブスクビジネスに特化した顧客管理・自動決済ソリューションです」（https://www.robotpayment.co.jp/ir/individual/・1回目）
+  - 「当社は、クレジットカード会社や銀行などの決済事業者と決済を利用したい企業・加盟店をつなぎ、決済・顧客管理・課金システムなどの決済手段を一括して提供しています」（https://www.robotpayment.co.jp/ir/individual/・1回目）
+  - 「また、顧客との接点となるWebサイトの作成・顧客情報の収集・決済・プラン変更・解約までワンパッケージで完結できるのが特徴です」（https://www.robotpayment.co.jp/ir/individual/・1回目）
+  - 「クレジットカード決済・口座振替・バンクチェック（銀行振込・バーチャル口座）コンビニ決済サービス 払込票方式（請求書払い）をラインアップしており、顧客数・請求件数の急激な増加へ対応することで企業の競争力を高めます」（https://www.robotpayment.co.jp/ir/individual/・1回目）
+  - 「営業活動や顧客との契約条件に影響を与えることなく、柔軟に導入できます」（https://www.robotpayment.co.jp/ir/individual/・1回目）
+- 何を：
+  - 「バックオフィスDXサービスを探す」（https://www.robotpayment.co.jp/・1回目）
+  - 「お金をつなぐ様々な革新的サービスで社会課題を解決し、日本における中小企業や基幹産業が持つ本来の力を発揮できるよう、お金の流れを潤滑にすることで、商取引が円滑に進み、新たな価値が次々と生まれる機会を創出してまいります」（https://www.robotpayment.co.jp/・1回目）
+  - 「革新的な決済インフラで、商取引を自由にする様々なソリューションを提供します」（https://www.robotpayment.co.jp/・1回目）
+  - 「サブスクビジネスに必要な機能がワンパッケージになった自動決済・顧客管理サービス」（https://www.robotpayment.co.jp/・1回目）
+  - 「請求・集金・消込・催促などの請求業務や債権管理をすべて自動化し、経理の業務負荷を軽減するクラウドサービス」（https://www.robotpayment.co.jp/・1回目）
+  - 「与信審査から請求書の発行・送付、消込、催促・督促をすべて代行し、売掛金100%保証付の企業間請求代行サービス」（https://www.robotpayment.co.jp/・1回目）
+  - 「お手持ちのカードを利用し、支払いを最大60日延長することで資金繰り改善に役立つ請求書カード払いサービス」（https://www.robotpayment.co.jp/・1回目）
+  - 「都度発生する商取引を一定期間でまとめて請求し、一括で代金回収を行う、BtoB向けの企業間決済代行サービス」（https://www.robotpayment.co.jp/・1回目）
+  - 「企業間請求代行サービス 「請求まるなげロボ」、 累計請求書発行件数10万件を突破」（https://www.robotpayment.co.jp/・1回目）
+  - 「一部サービス停止のお知らせ」（https://www.robotpayment.co.jp/・1回目）
+  - 「電力小売サービス「Looopでんき」を展開する株式会社Looopが、督促・回収のデジタルインフラ「債権回収ロボ」を導入」（https://www.robotpayment.co.jp/・1回目）
+  - 「バックオフィスDXサービスを探す」（https://www.robotpayment.co.jp/company/・1回目）
+- どうやって売るか：
+  - 「日経新聞電子版にて、当社が紹介されました」（https://www.robotpayment.co.jp/・1回目）
+  - 「日本経済新聞・日経新聞電子版にて、当社が紹介されました」（https://www.robotpayment.co.jp/・1回目）
+  - 「ジャパニーズ インベスターにて、当社が紹介されました」（https://www.robotpayment.co.jp/・1回目）
+  - 「日経ヴェリタスにて、当社が紹介されました」（https://www.robotpayment.co.jp/・1回目）
+  - 「経営のコーポレート・ガバナンスに関する取組み、ディスクロージャーポリシーなどをご紹介しています」（https://www.robotpayment.co.jp/ir/・1回目）
+  - 「販売・経営・請求・経理財務・人事労務の目的別にご紹介します」（https://www.robotpayment.co.jp/keiri_liberty/dx/・1回目）
+  - 「サービス選びのポイントやメリットも紹介...」（https://www.robotpayment.co.jp/keiri_liberty/dx/・1回目）
+  - 「コスメ・美容の総合サイト@cosmeをはじめ、EC・店舗の小売事業を展開する株式会社アイスタイルでは、オンライン美容部員やバーチャル店舗などDXによる新しい購買体験を提供しております」（https://www.robotpayment.co.jp/keiri_liberty/comment.html・1回目）
+  - 「新型コロナウイルス感染拡大での緊急事態宣言を受け、テレワークの需要が高まる中、弊社が代理店をしていますHubspot社のCRMやMAと弊社のキャッシュフローの導入で、企業のテレワークを支援しております」（https://www.robotpayment.co.jp/keiri_liberty/comment.html・1回目）
+  - 「サービス業に特化した店舗変革プラットフォーム「はたLuck®︎」を提供している弊社も、DX化によって店舗の業務効率化や生産性向上を支援している企業のひとつです」（https://www.robotpayment.co.jp/keiri_liberty/comment.html・1回目）
+  - 「サービス紹介へ」（https://www.nikkei.com/article/DGXZRSP687120_Z10C25A2000000/・3回目）
+  - 「日経電子版のサービス・機能を紹介」（https://www.nikkei.com/article/DGXZRSP687120_Z10C25A2000000/・3回目）
+- お金の形：
+  - 「サブスクペイ」（https://www.robotpayment.co.jp/・1回目）
+  - 「サブスクリプションラボ」（https://www.robotpayment.co.jp/・1回目）
+  - 「サブスクの決済を自動化したい企業向け」（https://www.robotpayment.co.jp/・1回目）
+  - 「サブスクビジネスに必要な機能がワンパッケージになった自動決済・顧客管理サービス」（https://www.robotpayment.co.jp/・1回目）
+  - 「業界最安水準 手数料 2.5％～」（https://www.robotpayment.co.jp/・1回目）
+  - 「サブスク管理」（https://www.robotpayment.co.jp/・1回目）
+  - 「請求管理ロボ、サブスクペイが「ITreview Grid Award 2026 Fall」の最高位『Leader』を16期連続ダブル受賞」（https://www.robotpayment.co.jp/・1回目）
+  - 「サブスクペイ」（https://www.robotpayment.co.jp/company/・1回目）
+  - 「サブスクリプションラボ」（https://www.robotpayment.co.jp/company/・1回目）
+  - 「当社は2000年、インターネット決済の黎明期にインターネット決済サービス（「サブスクペイ」）を開始いたしました」（https://www.robotpayment.co.jp/company/・1回目）
+  - 「紙の請求書や手作業など、業務効率を阻害する非効率の壁には、「請求管理ロボ」「請求まるなげロボ」「サブスクペイ」を活用して業務効率化を実現し、課題を解決」（https://www.robotpayment.co.jp/company/・1回目）
+  - 「サブスクペイ」（https://www.robotpayment.co.jp/ir/・1回目）
+- 利益の源泉：
+  - 「情報漏洩やシステム停止のリスクが高いビジネスであること、また難解でブラックボックスな事業構造で参入障壁が高いがゆえに勝機を感じたためです」（https://www.robotpayment.co.jp/company/・1回目）
+  - 「「人財とのアナログな関係性」が事業上の強みでありますが、経理を含むコーポレート部門の「デジタル化」を推進し、より付加価値が高い業務へのシフトに取り組んでおります」（https://www.robotpayment.co.jp/keiri_liberty/comment.html・1回目）
+  - 「「サブスクペイ Standard」とは、サブスクビジネスに強みをもつオンライン決済サービスです」（https://www.robotpayment.co.jp/keiri_liberty/dx/payment/・1回目）
+- 沿革：
+  - 「2026年12月期第１四半期 個人投資家決算質問会 質疑応答の要約を公開」（https://www.robotpayment.co.jp/・1回目）
+  - 「2025年1月」（https://www.robotpayment.co.jp/company/・1回目）
+  - 「2000年10月(平成12年10月)」（https://www.robotpayment.co.jp/company/・1回目）
+  - 「2026年12月期第２四半期決算説明会動画」（https://www.robotpayment.co.jp/ir/・1回目）
+  - 「2020年7月2日の発足から120社以上の賛同企業と共に、声を挙げています」（https://www.robotpayment.co.jp/keiri_liberty/・1回目）
+  - 「2026年2月6日」（https://www.robotpayment.co.jp/keiri_liberty/dx/・1回目）
+  - 「2026年2月5日」（https://www.robotpayment.co.jp/keiri_liberty/dx/・1回目）
+  - 「2026年2月3日」（https://www.robotpayment.co.jp/keiri_liberty/dx/・1回目）
+  - 「2026年1月18日」（https://www.robotpayment.co.jp/keiri_liberty/dx/・1回目）
+  - 「2026年6月23日」（https://www.robotpayment.co.jp/keiri_liberty/dx/・1回目）
+  - 「2026年6月2日」（https://www.robotpayment.co.jp/keiri_liberty/dx/・1回目）
+  - 「2026年2月14日」（https://www.robotpayment.co.jp/keiri_liberty/dx/・1回目）
+- 検索結果の抜粋：
+  - 「事業概要 | 株式会社 ROBOT PAYMENT （ロボットペイメント） — 事業概要 | 株式会社 ROBOT PAYMENT （ロボットペイメント） 株式会社ROBOT PAYMENT https://www.robotpayment.co.jp > individual」（https://www.robotpayment.co.jp/ir/individual/・3回目）
+  - 「会社の強みと戦略 | 採用情報 - ROBOT PAYMENT — 会社の強みと戦略 | 採用情報 - ROBOT PAYMENT 株式会社ROBOT PAYMENT https://www.robotpayment.co.jp > company > strategies」（https://www.robotpayment.co.jp/recruit/company/strategies/・3回目）
+  - 「株式会社 ROBOT PAYMENT の会社情報 | M&Aクラウド — 株式会社 ROBOT PAYMENT の会社情報 | M&Aクラウド M&Aクラウド https://macloud.jp > companies」（https://macloud.jp/companies/13043・3回目）
+  - 「株式会社 ROBOT PAYMENT の事業とカルチャー - Wantedly — 株式会社 ROBOT PAYMENT の事業とカルチャー - Wantedly Wantedly https://www.wantedly.com > robotpayment > about」（https://www.wantedly.com/companies/robotpayment/about・3回目）
+  - 「決算説明資料 | 株式会社 ROBOT PAYMENT （ロボット ... — 決算説明資料 | 株式会社 ROBOT PAYMENT （ロボット ... 株式会社ROBOT PAYMENT https://www.robotpayment.co.jp > library > presentation」（https://www.robotpayment.co.jp/ir/library/presentation/・3回目）
+  - 「IRトップページ｜ ロボット ペイメント — IRトップページ｜ ロボット ペイメント 株式会社ROBOT PAYMENT https://www.robotpayment.co.jp > ...」（https://www.robotpayment.co.jp/ir/・3回目）
+  - 「ROBOT PAYMENT 【4374】の最新 決算 発表、業績修正 — ROBOT PAYMENT 【4374】の最新 決算 発表、業績修正 株探 https://kabutan.jp > ... > 決算」（https://kabutan.jp/stock/finance?code=4374・3回目）
+  - 「ROBOT PAYMENT [4374]：2025年12月期通期 決算 ... — ROBOT PAYMENT [4374]：2025年12月期通期 決算 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr」（https://www.nikkei.com/nkd/disclosure/tdnr/20260212555327/・3回目）
+  - 「決算 短信 | 株式会社 ROBOT PAYMENT （ロボットペイメント） — 決算 短信 | 株式会社 ROBOT PAYMENT （ロボットペイメント） 株式会社ROBOT PAYMENT https://www.robotpayment.co.jp > library > result」（https://www.robotpayment.co.jp/ir/library/result/・3回目）
+  - 「会社概要 | 株式会社 ROBOT PAYMENT （ロボットペイメント） — 会社概要 | 株式会社 ROBOT PAYMENT （ロボットペイメント） 株式会社ROBOT PAYMENT https://www.robotpayment.co.jp > company」（https://www.robotpayment.co.jp/company/・3回目）
+  - 「ROBOTPAYMENT 事業 説明 - YouTube — ROBOTPAYMENT 事業 説明 - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=pbdHIsR-vl4・3回目）
+  - 「ROBOT PAYMENT の久野様に突撃取材！ 事業 内容や中期経営 ... — ROBOT PAYMENT の久野様に突撃取材！ 事業 内容や中期経営 ... やさしい株のはじめ方 https://kabukiso.com > syuzai > kaisya > robotpayment」（https://kabukiso.com/syuzai/kaisya/robotpayment.html・3回目）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像2件／外部3頁・検索5回）
+- 売上構成：記載なし（3回確認済み：公式25頁／PDF・画像2件／外部3頁・検索5回）
 
 ## ＳＡＮＫＹＯ
 - 公式URL：https://www.daiichisankyo.com/（search:yahoo_jp:SANKYO）
@@ -2493,6 +3646,456 @@
 - ビジネスモデル：記載なし（3回確認済み：公式16頁／PDF・画像16件／外部8頁・検索5回）
 - 売上構成：記載なし（3回確認済み：公式16頁／PDF・画像16件／外部8頁・検索5回）
 
+## ＳＭＣ
+- 公式URL：https://www.smc.edu/（search:yahoo_jp:SMC）
+- 設立：1959 年（昭和34 年）4 月27 日（https://www.smcworld.com/about/ja-jp/index.html・3回目）
+- 設立：1959年4月（https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c・3回目）
+- 従業員数：24,773 名(連結) ※（https://www.smcworld.com/about/ja-jp/index.html・3回目）
+- 従業員数：2万619人（2021年3月末、連結）（https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c・3回目）
+- 事業内容：自動制御機器製品の製造加工および販売 焼結濾過体および各種濾過装置の製造および販売（https://www.smcworld.com/about/ja-jp/index.html・3回目）
+- 事業内容：自動制御機器製品の製造・加工・販売など（https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c・3回目）
+- 売上高：8,425 億円(連結) ※（https://www.smcworld.com/about/ja-jp/index.html・3回目）
+- 売上高：5521億円（https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c・3回目）
+- 誰に：
+  - 「SMCは、技術・製造・営業の各部門が緊密に連携して、世界中のお客様からのご要望に応える取り組みを続けています」（https://www.smcworld.com/ir/ja-jp/investor.html・3回目）
+  - 「性能や耐久性の向上はもちろん、小型化・軽量化、製造時のCO2排出量削減など、多様化し高度化するお客様のニーズにお応えするため、研究開発に取り組んでいます」（https://www.smcworld.com/ir/ja-jp/investor.html・3回目）
+  - 「世界中のお客様に、製品を高品質、低コスト、短納期でお届けするため、生産管理システムを整備しています」（https://www.smcworld.com/ir/ja-jp/investor.html・3回目）
+  - 「お客様の課題解決に向け、共に考える」（https://www.smcworld.com/ir/ja-jp/investor.html・3回目）
+  - 「営業スタッフが、CO2排出量の削減、ライン停止の防止、省スペース、コストダウンなどお客様の課題解決に向けて、最適な提案に努めています」（https://www.smcworld.com/ir/ja-jp/investor.html・3回目）
+  - 「SMCは、お客様のエネルギー消費量を大きく削減できる新製品を続々と開発しています」（https://www.smcworld.com/ir/ja-jp/investor.html・3回目）
+  - 「お客様のニーズに応じた製品開発と、技術サポートを提供しています」（https://www.smcworld.com/ir/ja-jp/investor.html・3回目）
+  - 「SMCの生産拠点・物流拠点は、お客様のニーズに応える多品種少量生産と、生産効率の向上の両立に取り組んでいます」（https://www.smcworld.com/ir/ja-jp/investor.html・3回目）
+  - 「グループの連携を密にして、お客様へのサービス向上と、」（https://www.smcworld.com/ir/ja-jp/investor.html・3回目）
+  - 「創業当初から掲げる「顧客第一主義」のもと、お客様のご要望にお応えする形で、空気圧機器をはじめとする自動制御機器の製造販売を開始したSMCは、製造・販売・研究開発のグローバル展開を進め、世界トップシェアの空気圧機器の総合メーカーとして、成長を続けています」（https://www.smcworld.com/ir/ja-jp/investor.html・3回目）
+  - 「MUFGが拓く富裕層ビジネスの新たな地平「エムット Excellent Club」の顧客戦略」（https://forbesjapan.com/articles/detail/45525・3回目）
+  - 「「昔は、お客様から『もうかっているなら安くしろ』と迫られるのを避ける意図があったとか」（https://forbesjapan.com/articles/detail/45525・3回目）
+- 何を：
+  - 「SMCの製品」（https://www.smcworld.com/ir/ja-jp/investor.html・3回目）
+  - 「環境性能に優れた製品開発」（https://www.smcworld.com/ir/ja-jp/investor.html・3回目）
+  - 「スマートフォン、自動車、飲料、靴など、私たちの生活に欠かせない多くの製品が、自動化された工場で大量生産されています」（https://www.smcworld.com/ir/ja-jp/investor.html・3回目）
+  - 「SMCの主力製品である「空気圧機器」は、圧縮空気の力を利用したFA機器です」（https://www.smcworld.com/ir/ja-jp/investor.html・3回目）
+  - 「代表的な製品」（https://www.smcworld.com/ir/ja-jp/investor.html・3回目）
+  - 「製品開発に取り組む」（https://www.smcworld.com/ir/ja-jp/investor.html・3回目）
+  - 「世界中のお客様に、製品を高品質、低コスト、短納期でお届けするため、生産管理システムを整備しています」（https://www.smcworld.com/ir/ja-jp/investor.html・3回目）
+  - 「開発された製品事例」（https://www.smcworld.com/ir/ja-jp/investor.html・3回目）
+  - 「SMCは、お客様のエネルギー消費量を大きく削減できる新製品を続々と開発しています」（https://www.smcworld.com/ir/ja-jp/investor.html・3回目）
+  - 「お客様のニーズに応じた製品開発と、技術サポートを提供しています」（https://www.smcworld.com/ir/ja-jp/investor.html・3回目）
+  - 「SMCは、70万品目を超える製品群を取り揃え、戦略的に厚めの在庫を保持して、短納期即納体制を整えています」（https://www.smcworld.com/ir/ja-jp/investor.html・3回目）
+  - 「グループの連携を密にして、お客様へのサービス向上と、」（https://www.smcworld.com/ir/ja-jp/investor.html・3回目）
+- どうやって売るか：
+  - 「紹介率80％超の裏側──オンデックが貫く、目先の数字を追わないM&A支援の哲学」（https://forbesjapan.com/articles/detail/45525・3回目）
+  - 「最新号のご紹介」（https://forbesjapan.com/articles/detail/45525・3回目）
+  - 「20年に指名・報酬委員会を設置」（https://forbesjapan.com/articles/detail/45525・3回目）
+  - 「WEB販売代理店」（https://www.smcworld.com/about/ja-jp/index.html・3回目）
+  - 「業種別ソリューションのご紹介」（https://www.smcworld.com/about/ja-jp/index.html・3回目）
+  - 「課題別ソリューションのご紹介」（https://www.smcworld.com/about/ja-jp/index.html・3回目）
+  - 「国内代理店一覧」（https://www.smcworld.com/about/ja-jp/index.html・3回目）
+  - 「リース会社ご紹介」（https://www.smcworld.com/about/ja-jp/index.html・3回目）
+  - 「また、リースをご希望されるお客様にはリース会社をご紹介することができます」（https://www.smcworld.com/about/ja-jp/index.html・3回目）
+  - 「アセットレンタルのご紹介」（https://www.smcworld.com/about/ja-jp/index.html・3回目）
+  - 「2021年の経営者：ノジマ店舗の「接客力」で家電量販店生き残り術＝ノジマ・野島廣司社長」（https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c・3回目）
+  - 「経営者に一番近いパートナー――桑木小恵子 辻・本郷 税理士法人 理事長」（https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c・3回目）
+- 売上構成：
+  - 「高田 海外売上比率は73％で、うち中国が24％、中国以外のアジアが17％、欧州が17％、米国が11％です」（https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c・3回目）
+  - 「2021年の経営者：海外売上比率が6割を超すキッコーマンの底力＝中野祥三郎社長インタビュー」（https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c・3回目）
+- 利益の源泉：
+  - 「豊富な品揃えと潤沢な在庫」（https://www.smcworld.com/ir/ja-jp/investor.html・3回目）
+  - 「SMCは、70万品目を超える製品群を取り揃え、戦略的に厚めの在庫を保持して、短納期即納体制を整えています」（https://www.smcworld.com/ir/ja-jp/investor.html・3回目）
+  - 「豊富な品揃えと潤沢な在庫」（https://www.smcworld.com/ir/ja-jp/briefing-materials.html・3回目）
+  - 「豊富な品揃えと潤沢な在庫」（https://www.smcworld.com/ir/ja-jp/・3回目）
+  - 「空気圧の強みは」（https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c・3回目）
+- 沿革：
+  - 「1989年～」（https://www.smcworld.com/ir/ja-jp/investor.html・3回目）
+  - 「2026年12月号発売中」（https://forbesjapan.com/articles/detail/45525・3回目）
+  - 「当社の事業内容や業績、沿革を分かりやすく説明いたします」（https://www.smcworld.com/ir/ja-jp/・3回目）
+  - 「1959 年（昭和34 年）4 月27 日」（https://www.smcworld.com/about/ja-jp/index.html・3回目）
+  - 「2025年5月20日(火)、SMC(株)代表取締役社長の髙田芳樹氏に会員企業トップインタビューに伺いました」（https://tokyokeikyo.jp/news/smc%E6%A0%AA%E3%80%80%E9%AB%99%E7%94%B0%E7%A4%BE%E9%95%B7%E3%81%AB%E3%83%88%E3%83%83%E3%83%97%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC/・3回目）
+  - 「2022年の経営者：「空気圧機器で世界の工場を自動化」＝高田芳樹・SMC社長インタビュー | 週刊エコノミスト Online」（https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c・3回目）
+  - 「2022年の経営者」（https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c・3回目）
+  - 「2021年12月20日」（https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c・3回目）
+  - 「2022年も装置メーカーは強気で、当社の部品についても生産能力を上げてほしいと言われるほどです」（https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c・3回目）
+  - 「1958年生まれ、東京都出身」（https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c・3回目）
+  - 「2021年の経営者：ノジマ店舗の「接客力」で家電量販店生き残り術＝ノジマ・野島廣司社長」（https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c・3回目）
+  - 「2021年の経営者：航空や自動車、リースの専門性磨く 野上誠 東京センチュリー社長」（https://weekly-economist.mainichi.jp/articles/20220104/se1/00m/020/003000c・3回目）
+- 検索結果の抜粋：
+  - 「SMC 早わかり｜IR情報｜ SMC 株式会社 - SMC CORPORATION — SMC 早わかり｜IR情報｜ SMC 株式会社 - SMC CORPORATION SMC CORPORATION https://www.smcworld.com > ja-jp > investor」（https://www.smcworld.com/ir/ja-jp/investor.html・3回目）
+  - 「謎に包まれた優良企業 SMC 。成長の鍵はグローバル化 — 謎に包まれた優良企業 SMC 。成長の鍵はグローバル化 Forbes JAPAN https://forbesjapan.com > ビジネス」（https://forbesjapan.com/articles/detail/45525・3回目）
+  - 「SMC の知財戦略：空気圧制御機器市場における防衛的 ... — SMC の知財戦略：空気圧制御機器市場における防衛的 ... TechnoProducer株式会社 https://www.techno-producer.com > AIレポート > 企業分析」（https://www.techno-producer.com/ai-report/smc_ip_strategy_report/・3回目）
+  - 「【 SMC 】利益率30%の秘密！「空気」を2,000億円 ... - YouTube — 【 SMC 】利益率30%の秘密！「空気」を2,000億円 ... - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=Gpal2cSY3TI・3回目）
+  - 「IRライブラリ - 決算説明 会 資料 - SMC CORPORATION — IRライブラリ - 決算説明 会 資料 - SMC CORPORATION SMC CORPORATION https://www.smcworld.com > ja-jp > briefing-materials」（https://www.smcworld.com/ir/ja-jp/briefing-materials.html・3回目）
+  - 「IR情報｜ SMC 株式会社 — IR情報｜ SMC 株式会社 SMC CORPORATION https://www.smcworld.com > ja-jp」（https://www.smcworld.com/ir/ja-jp/・3回目）
+  - 「SMC [6273]：2026年3月期 決算説明 会 資料 ... - 日本経済新聞 — SMC [6273]：2026年3月期 決算説明 会 資料 ... - 日本経済新聞 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr」（https://www.nikkei.com/nkd/disclosure/tdnr/20260514534222/・3回目）
+  - 「SMC 【6273】空気圧機器グローバルトップの企業は安定した ... — SMC 【6273】空気圧機器グローバルトップの企業は安定した ... 日興フロッギー https://froggy.smbcnikko.co.jp > ...」（https://froggy.smbcnikko.co.jp/69394/・3回目）
+  - 「SMC 株式会社 IR 資料 - EDINET DB — SMC 株式会社 IR 資料 - EDINET DB EDINET DB https://edinetdb.jp > ＳＭＣ株式会社」（https://edinetdb.jp/company/E01673/ir-docs/・3回目）
+  - 「会社概要 ⁄ 企業行動指針 - SMC CORPORATION — 会社概要 ⁄ 企業行動指針 - SMC CORPORATION SMC CORPORATION https://www.smcworld.com > about > ja-jp」（https://www.smcworld.com/about/ja-jp/index.html・3回目）
+  - 「SMC - Wikipedia — SMC - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > SMC」（https://ja.wikipedia.org/wiki/SMC・3回目）
+  - 「SMC 株式会社の会社概要・製品情報 - Metoree — SMC 株式会社の会社概要・製品情報 - Metoree Metoree https://metoree.com > 会社一覧」（https://metoree.com/companies/613/・3回目）
+- ビジネスモデル：記載なし（3回確認済み：公式25頁／PDF・画像10件／外部8頁・検索5回）
+- お金の形：記載なし（3回確認済み：公式25頁／PDF・画像10件／外部8頁・検索5回）
+
+## Ｓ＆Ｊ
+- 公式URL：https://s-jsupply.com/（search:yahoo_jp:S&J）
+- 設立：2008年11月7日（https://www.sandj.co.jp/company/information/・3回目）
+- 従業員数：117名（役員・派遣社員などを含む）2026年10月現在（https://www.sandj.co.jp/company/information/・3回目）
+- 事業内容：サイバーセキュリティ事業 セキュリティ監視・運用 コンサルティングサービス セキュリティ事故対応（https://www.sandj.co.jp/company/information/・3回目）
+- ビジネスモデル：
+  - 「ビジネスモデル（収益構造）」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「セキュリティ監視サービスの収益構造」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+- 誰に：
+  - 「お客様の期待を常に考え「ありがとう」と言われる」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「セキュリティ監視、対処、アドバイスを通じて、お客様に安全と安心を提供する」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「自動化・AI活用を推進して効率化を図り、お客様とのコミュニケーションの機会を最大化する」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「お客様の期待を超えるアドバイスが実現できています」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「攻撃者 顧客企業」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「顧客 企業 ・ 団体」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「お客様環境を考慮した脅威分析＆トリアージを行うことにより、適切な対処方法まで助言が可能」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「顧客は不安になる」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「＜夜間などの顧客不在時の対応フロー＞」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「未契約の顧客」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「顧客ニーズの変化」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「● お客様とのコミュニケーションをとりつつ、対処方法等」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+- 何を：
+  - 「セキュリティサービスを提供する」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「高いサービス継続率と高いストック収益の比率により安定的な年間利益確保を実現」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「サービス継続率(3) / 解約率(4)」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「各サービスにおける月額固定の継続的契約（主に年間契約）をストック売上と定義し、事業年度末のストック売上を 12 倍することにより算出」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「(2) 各サービスにおける月額固定の継続的契約（主に」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「事業内容 SOC(1)サービスコンサルティングサービス」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「取締役 セキュリティプロフェッショナルサービス部長」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「多くのセキュリティ事故対応に立ち会い、事故対応の経験に基づいたコンサルティングのアプローチがすべてのサービスに反映されているため、」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「（対処）、被害を最小限に抑えるサービス提供への熱意が込められ」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「セキュリティサービスを提供しています」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「セキュリティ監視サービス」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「（SOCサービス）」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+- どうやって売るか：
+  - 「代理店との関係 低 / 中期 中」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「当社は販売代理店契約を締結し、当社サービスにおける顧客拡大・収益基盤」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「代理店との良好で安定的な取引関係の構築に努めるとともに、販売支」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「援やマーケティングの強化や新たな代理店の拡充などに注力しております」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「私たちは、あなたのパートナーでありたいと考えています」（https://www.sandj.co.jp/・3回目）
+  - 「【エミン・ユルマズ氏直伝】四季報はココを見ろ！四季報最新号からエミン氏注目の3銘柄を紹介/四季報を使った優良株の選び方/エミン流投資手法を解説」（https://www.youtube.com/watch?v=pESEXXJJUfk・3回目）
+  - 「私たちは、お客様のパートナーでありたいと考えています」（https://www.sandj.co.jp/company/・3回目）
+  - 「代理店の支援を受けながらサービスの拡販に力を入れていく」（https://c-eye.co.jp/ipo-eq/71052・3回目）
+  - 「これからも代理店の協力があって売り上げが増えていく見込みなので、その分は上積みで計画しており、それに合わせた人員を前の年に雇っていかなければならない」（https://c-eye.co.jp/ipo-eq/71052・3回目）
+  - 「現在でも売り上げの約3割を占める代理店であり、IPOを契機に持ち株比率も若干下げて流動株も増やす」（https://c-eye.co.jp/ipo-eq/71052・3回目）
+  - 「今後も、我々にとっては代理店という重要な役割・ポジションにある」（https://c-eye.co.jp/ipo-eq/71052・3回目）
+- お金の形：
+  - 「高いサービス継続率と高いストック収益の比率により安定的な年間利益確保を実現」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「サービス継続率(3) / 解約率(4)」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「ストック売上比率(2)」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「各サービスにおける月額固定の継続的契約（主に年間契約）をストック売上と定義し、事業年度末のストック売上を 12 倍することにより算出」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「(2) 各サービスにおける月額固定の継続的契約（主に」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「年間契約）をストック売上と定義し、事業年度における全体の売上に占めるストック売上の割合 (3)100％－解約率 (4) 前月のストック売上高に対して、当月の解約・減額等の売上高の比率を算出し、事業年度を通じた平均値（各月の解約率の12 か月分÷12）」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「ライセンス ライセンス料」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「委託料 委託料 委託料監視 ・ 運用ライセンス委託料」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「ストック売上の監視サービスの増加に加え、スポット売上であるインシデント対応支援等が発生」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「経営指標（ARR推移、ストック売上比率）」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「ストック(3)売上比率」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「ストック売上比率は85.7％と高水準」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+- 売上構成：
+  - 「ストック売上比率(2)」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「経営指標（ARR推移、ストック売上比率）」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「ストック(3)売上比率」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「ストック売上比率は85.7％と高水準」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「ストック売上で構成された強固な収益基盤（ストック売上比率85.7％） FY2024 / 通期実績」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「中期経営計画 ARR推移、ストック売上比率」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「ストック売上比率は85％超と高水準で推移」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+- 利益の源泉：
+  - 「営業利益 / 営業利益率」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「業績ハイライト 売上高・営業利益・営業利益率（FY2024/4Q）」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「業績ハイライト 売上高・営業利益・営業利益率の推移」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「営業利益・営業利益率の推移」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「営業利益率20％超と高い収益性を継続」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「(2)FY2023において営業利益率が低下するのは、上場に関連する一時的な費用を加味しているため」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「（営業利益率）」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「S＆Jの強みの根源は、」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「成長戦略の根幹となるS＆Jの強み」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「⚫ S&Jの強みは、圧倒的なサイバー攻撃被害対応能力と実績」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「監視サービスを提供できる当社の強みを活かして注力する」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「中期経営計画 売上高・営業利益・営業利益率の推移」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+- 沿革：
+  - 「2025年5月14日」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「2025年5月1日現在」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「2024年第2四半期のサイバーセキュリティ市場は前年同期比」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「2023年第2四半期」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「2024年第2四半期」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「2024 年第2四半期」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf・3回目）
+  - 「2026年11月11日（水） 14:00-15:00」（https://www.sandj.co.jp/・3回目）
+  - 「2026年10月29日（木） 11:00-12:00」（https://www.sandj.co.jp/・3回目）
+  - 「2026年10月27日（火） 11:00-12:00」（https://www.sandj.co.jp/・3回目）
+  - 「2026年9月リリースの新サービス」（https://www.sandj.co.jp/・3回目）
+  - 「2026年5月14日に開催した2026年3月期 決算にかかる機関投資家向け決算説明会のプレゼンテーション動画です」（https://www.youtube.com/watch?v=pESEXXJJUfk・3回目）
+  - 「令和8年度第1回JCM方法論ウェビナー（2026/10/20）」（https://www.youtube.com/watch?v=pESEXXJJUfk・3回目）
+- 検索結果の抜粋：
+  - 「S＆J 株式会社｜インシデント0に、本気。 — S＆J 株式会社｜インシデント0に、本気。 Ｓ＆Ｊ株式会社 https://www.sandj.co.jp」（https://www.sandj.co.jp/・3回目）
+  - 「Swimlane - ユーザー事例 - S＆J 株式会社様 - セキュリティ事業 — Swimlane - ユーザー事例 - S＆J 株式会社様 - セキュリティ事業 株式会社マクニカ https://www.macnica.co.jp > ... > Swimlane > ユーザー事例」（https://www.macnica.co.jp/business/security/manufacturers/swimlane/case_01.html・3回目）
+  - 「JBS× S&J 、「ランサムウェア対応支援サービス」をリリース — JBS× S&J 、「ランサムウェア対応支援サービス」をリリース JBS 日本ビジネスシステムズ株式会社 https://www.jbs.co.jp > news」（https://www.jbs.co.jp/news/2024/1031・3回目）
+  - 「S＆J - レポート - 証券リサーチセンター — S＆J - レポート - 証券リサーチセンター 証券リサーチセンター https://holistic-r.org > レポート」（https://holistic-r.org/report/5599-4/・3回目）
+  - 「決算説明資料 - S＆J株式会社 — 決算説明資料 - S＆J株式会社 Ｓ＆Ｊ株式会社 https://www.sandj.co.jp > IR情報 > 決算短信」（https://www.sandj.co.jp/ir/library/presentation/・3回目）
+  - 「S＆J （株） 2026年3月期 決算説明 動画 - YouTube — S＆J （株） 2026年3月期 決算説明 動画 - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=pESEXXJJUfk・3回目）
+  - 「よくあるご質問 - S＆J株式会社 — よくあるご質問 - S＆J株式会社 Ｓ＆Ｊ株式会社 https://www.sandj.co.jp > IR情報」（https://www.sandj.co.jp/ir/faq/・3回目）
+  - 「【 S&J 】[5599]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 S&J 】[5599]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo」（https://www.nikkei.com/nkd/company/kigyo/?scode=5599・3回目）
+  - 「S&J のIR 資料 - 5599 / グロース / 情報・通信業 — S&J のIR 資料 - 5599 / グロース / 情報・通信業 バフェット・コード https://www.buffett-code.com > company > library」（https://www.buffett-code.com/company/5599/library・3回目）
+  - 「企業情報 - S＆J株式会社 — 企業情報 - S＆J株式会社 Ｓ＆Ｊ株式会社 https://www.sandj.co.jp > company」（https://www.sandj.co.jp/company/・3回目）
+  - 「会社案内 | S＆J 株式会社 — 会社案内 | S＆J 株式会社 Ｓ＆Ｊ株式会社 https://www.sandj.co.jp > 企業情報」（https://www.sandj.co.jp/company/information/・3回目）
+  - 「Swimlane - ユーザー事例 - S＆J 株式会社様 - セキュリティ 事業 — Swimlane - ユーザー事例 - S＆J 株式会社様 - セキュリティ 事業 株式会社マクニカ https://www.macnica.co.jp > ... > Swimlane > ユーザー事例」（https://www.macnica.co.jp/business/security/manufacturers/swimlane/case_01.html・3回目）
+- 売上高：記載なし（3回確認済み：公式2頁／PDF・画像1件／外部8頁・検索5回）
+
+## Ｓｏｌｖｖｙ
+- 公式URL：https://solvvy.co.jp/（search:yahoo_jp:Solvvy）
+- 設立：2009年3月（https://solvvy.co.jp/corporate/company/・1回目）
+- 設立：2009年3月（https://recruit.solvvy.co.jp/about/・3回目）
+- 従業員数：11〜50人（https://solvvy.co.jp/business/・1回目）
+- 従業員数：51〜100人（https://solvvy.co.jp/business/・1回目）
+- 従業員数：100人以上（https://solvvy.co.jp/business/・1回目）
+- 事業内容：事業内容はこちら（https://solvvy.co.jp/corporate/company/・1回目）
+- 事業内容：システム開発コンサルティング（https://solvvy.co.jp/corporate/company/・1回目）
+- 事業内容：資金決済業務（ポイント発行）（https://solvvy.co.jp/corporate/company/・1回目）
+- 売上高：6,705,733 7,679,206 973,473 14.5（https://kitaishihon.com/company/7320/business・3回目）
+- 売上高：保証サービス 682 726 807 964 3,181（https://kitaishihon.com/company/7320/business・3回目）
+- 売上高：再生可能エネルギー 466 353 429 630 1,880（https://kitaishihon.com/company/7320/business・3回目）
+- ビジネスモデル：
+  - 「事業者さまの販売力強化・お客さま満足度向上に加えて、メンテナンスなどの２次商流獲得にも貢献することを通じ、事業の価値創出をお手伝いします」（https://solvvy.co.jp/business/strength/・1回目）
+  - 「事業者さまの二次商流形成・販売促進を支援」（https://solvvy.co.jp/business/service/・1回目）
+  - 「お客さまのメンテナンス資金準備をサポート 事業者さまの二次商流形成・販売促進を支援」（https://solvvy.co.jp/business/service/・1回目）
+  - 「［事業系統図（全事業共通）］」（https://kitaishihon.com/company/7320/business・3回目）
+  - 「これはサービス提供前に保証料を収受する当社のビジネスモデルに起因するものです」（https://kitaishihon.com/company/7320/business・3回目）
+  - 「本サイトの収益モデル・広告について」（https://zuuonline.com/archives/294733・3回目）
+- 誰に：
+  - 「また、エンドユーザーさまに対する当社サービスのメリット訴求についても、弊社がしっかりとバックアップ」（https://solvvy.co.jp/business/strength/・1回目）
+  - 「顧客管理システム（Hamster）」（https://solvvy.co.jp/business/client/・1回目）
+  - 「また、通信環境やお客様のコンピュータの状況、その他の理由により当ウェブサイトを正常に利用できない場合があります」（https://solvvy.co.jp/ir/policy/disclaimer/・1回目）
+  - 「住宅事業者のお客様応対業務を⽀援する「おうちbot」を提供開始.12」（https://solvvy.co.jp/pdf/2025-10-01_Solvvy_Company-overview.pdf・2回目）
+  - 「クビジネス創出に必要な仕組化、そして顧客アプローチを通じ」（https://solvvy.co.jp/pdf/2025-10-01_Solvvy_Company-overview.pdf・2回目）
+  - 「クビジネス創出に必要な仕組化に加え、顧客アプローチを通じ」（https://solvvy.co.jp/pdf/2025-10-01_Solvvy_Company-overview.pdf・2回目）
+  - 「顧客データベースの構築と徹底した鮮度向上により1to1」（https://solvvy.co.jp/pdf/2025-10-01_Solvvy_Company-overview.pdf・2回目）
+  - 「住宅事業者のお客様応対業務を支援する「おうち bot」を提供開始」（https://recruit.solvvy.co.jp/about/・3回目）
+  - 「当社グループは、顧客企業が自社で持つアイデアやリソースだけでは対応できない様々な課題に対して、新たな課題解決の形を提案してまいります」（https://kitaishihon.com/company/7320/business・3回目）
+  - 「また、業界に特化した見積・契約・請求プラットフォームによって、リフォーム工事関連業務に関する業務効率化と収益最適化に貢献するとともに、工事代金の分割払い決済機能により、お客様に対して新たな支払い手段を提供しております」（https://kitaishihon.com/company/7320/business・3回目）
+  - 「これらのサービスにより事業者の業務効率化とオーナーの顧客体験価値向上を支援しております」（https://kitaishihon.com/company/7320/business・3回目）
+  - 「顧客データベースの構築と徹底した鮮度向上により１to１マーケティングを提供します」（https://kitaishihon.com/company/7320/business・3回目）
+- 何を：
+  - 「法人向けサービス資料請求」（https://solvvy.co.jp/・1回目）
+  - 「法人向けサービスについて」（https://solvvy.co.jp/・1回目）
+  - 「個人向けサービスについて」（https://solvvy.co.jp/・1回目）
+  - 「当社利用のメールマガジン配信サービスにおける不正アクセス被害の可能性について（第二報）」（https://solvvy.co.jp/・1回目）
+  - 「当社利用のメールマガジン配信サービスにおける不正アクセス被害の可能性について（第一報）」（https://solvvy.co.jp/・1回目）
+  - 「点検・補修代行サービス」（https://solvvy.co.jp/・1回目）
+  - 「メンテナンス資金積立サービス」（https://solvvy.co.jp/・1回目）
+  - 「アフターサービスのご相談に丁寧に対応いたします」（https://solvvy.co.jp/・1回目）
+  - 「修理・メンテナンスなど、アフターサービスのご相談に丁寧に対応いたします」（https://solvvy.co.jp/・1回目）
+  - 「法人向けサービス資料請求」（https://solvvy.co.jp/business/・1回目）
+  - 「法人向けサービスについて」（https://solvvy.co.jp/business/・1回目）
+  - 「個人向けサービスについて」（https://solvvy.co.jp/business/・1回目）
+- どうやって売るか：
+  - 「はパートナー企業によりそい、」（https://solvvy.co.jp/・1回目）
+  - 「私たちSolvvyはパートナー企業によりそい、ともに解決します」（https://solvvy.co.jp/・1回目）
+  - 「共創パートナーとして、喜怒哀楽をともにする存在でありたいと考えています」（https://solvvy.co.jp/・1回目）
+  - 「当社が多くの事業者さまに選ばれる3つのポイントをご紹介します」（https://solvvy.co.jp/business/・1回目）
+  - 「当社が提供するサービスをご紹介します」（https://solvvy.co.jp/business/・1回目）
+  - 「当社のサービスを導入いただいてるお客さま事例をご紹介します」（https://solvvy.co.jp/business/・1回目）
+  - 「ここでは、私たちが選ばれる3つの理由をご紹介します」（https://solvvy.co.jp/business/strength/・1回目）
+  - 「共創パートナーとして、喜怒哀楽をともにする存在でありたいと考えています」（https://solvvy.co.jp/ir/message/・1回目）
+  - 「役員紹介はこちら」（https://solvvy.co.jp/corporate/company/・1回目）
+  - 「共創パートナーとして、喜怒哀楽をともにする」（https://solvvy.co.jp/pdf/2025-10-01_Solvvy_Company-overview.pdf・2回目）
+  - 「私たちSolvvyはパートナー企業によりそい、」（https://solvvy.co.jp/pdf/2025-10-01_Solvvy_Company-overview.pdf・2回目）
+  - 「2025 アクセンチュア株式会社とのパートナーシップ契約締結.05」（https://solvvy.co.jp/pdf/2025-10-01_Solvvy_Company-overview.pdf・2回目）
+- お金の形：
+  - 「利用料金を教えてください」（https://solvvy.co.jp/business/faq/・1回目）
+  - 「ご利用料金はサービスごとに異なります」（https://solvvy.co.jp/business/faq/・1回目）
+  - 「３. 手数料」（https://solvvy.co.jp/pdf/%E5%8D%98%E5%85%83%E6%9C%AA%E6%BA%80%E6%A0%AA%E5%BC%8F%E3%81%AE%E8%B2%B7%E5%8F%96%E8%B2%B7%E5%A2%97%E5%88%B6%E5%BA%A6%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85.pdf・2回目）
+  - 「当社では、単元未満株式の買取請求・買増請求手数料をいただいておりません」（https://solvvy.co.jp/pdf/%E5%8D%98%E5%85%83%E6%9C%AA%E6%BA%80%E6%A0%AA%E5%BC%8F%E3%81%AE%E8%B2%B7%E5%8F%96%E8%B2%B7%E5%A2%97%E5%88%B6%E5%BA%A6%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85.pdf・2回目）
+  - 「なお、お手続きに際しては、証券会社等の金融機関にて別途お取次手数料がかかる場合がございますので、」（https://solvvy.co.jp/pdf/%E5%8D%98%E5%85%83%E6%9C%AA%E6%BA%80%E6%A0%AA%E5%BC%8F%E3%81%AE%E8%B2%B7%E5%8F%96%E8%B2%B7%E5%A2%97%E5%88%B6%E5%BA%A6%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85.pdf・2回目）
+  - 「されている口座 当社に対する手数料 口座管理機関に対する手数料」（https://solvvy.co.jp/pdf/%E5%8D%98%E5%85%83%E6%9C%AA%E6%BA%80%E6%A0%AA%E5%BC%8F%E3%81%AE%E8%B2%B7%E5%8F%96%E8%B2%B7%E5%A2%97%E5%88%B6%E5%BA%A6%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85.pdf・2回目）
+  - 「たとえば、ストックビジネスの創出」（https://solvvy.co.jp/pdf/2025-10-01_Solvvy_Company-overview.pdf・2回目）
+  - 「保有ライセンス」（https://solvvy.co.jp/pdf/2025-10-01_Solvvy_Company-overview.pdf・2回目）
+  - 「先進のストックビジネスコンサルティング」（https://solvvy.co.jp/pdf/2025-10-01_Solvvy_Company-overview.pdf・2回目）
+  - 「事業内容｜ストックビジネスコンサルティング」（https://solvvy.co.jp/pdf/2025-10-01_Solvvy_Company-overview.pdf・2回目）
+  - 「「ストックビジネスコンサルティング」」（https://solvvy.co.jp/pdf/2025-10-01_Solvvy_Company-overview.pdf・2回目）
+  - 「企業におけるストックビジネスの成⻑を包括的に」（https://solvvy.co.jp/pdf/2025-10-01_Solvvy_Company-overview.pdf・2回目）
+- 売上構成：
+  - 「セグメント情報」（https://kitaishihon.com/company/7320/business・3回目）
+  - 「※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります」（https://kitaishihon.com/company/7320/business・3回目）
+  - 「※セグメントの売上や利益は、企業毎にその定義が異なる場合があります」（https://kitaishihon.com/company/7320/business・3回目）
+  - 「（単一セグメント）」（https://kitaishihon.com/company/7320/business・3回目）
+  - 「単一セグメントの企業の場合は、連結（あるいは単体）の売上と営業利益を反映しています」（https://kitaishihon.com/company/7320/business・3回目）
+  - 「セグメント名」（https://kitaishihon.com/company/7320/business・3回目）
+  - 「売上構成比率」（https://kitaishihon.com/company/7320/business・3回目）
+  - 「利益構成比率」（https://kitaishihon.com/company/7320/business・3回目）
+  - 「セグメント別の主な提供サービスは以下のとおりです」（https://kitaishihon.com/company/7320/business・3回目）
+  - 「セグメント別の経営成績は、次のとおりであります」（https://kitaishihon.com/company/7320/business・3回目）
+  - 「（セグメント別売上高）」（https://kitaishihon.com/company/7320/business・3回目）
+  - 「（セグメント別利益）」（https://kitaishihon.com/company/7320/business・3回目）
+- 利益の源泉：
+  - 「私たちの強み」（https://solvvy.co.jp/・1回目）
+  - 「私たちの強み」（https://solvvy.co.jp/business/・1回目）
+  - 「私たちの強み｜法人のお客さま｜Solvvy株式会社（Solvvy Inc.）」（https://solvvy.co.jp/business/strength/・1回目）
+  - 「私たちの強み」（https://solvvy.co.jp/business/strength/・1回目）
+  - 「お客さま一人ひとりのニーズに応えるために、私たちは独自の強みを活かして最適なソリューションを提供しています」（https://solvvy.co.jp/business/strength/・1回目）
+  - 「私たちの強み」（https://solvvy.co.jp/business/service/・1回目）
+  - 「私たちの強み」（https://solvvy.co.jp/business/casestudy/・1回目）
+  - 「私たちの強み」（https://solvvy.co.jp/business/faq/・1回目）
+  - 「また、当社はグロース市場に上場し、直近5年間だけでも売上高約3倍、経常利益約8倍と急成長を遂げており、健全な財務体質を有している点も、他社にはない強みです」（https://solvvy.co.jp/business/faq/・1回目）
+  - 「私たちの強み」（https://solvvy.co.jp/business/client/・1回目）
+  - 「私たちの強み」（https://solvvy.co.jp/business/request/・1回目）
+  - 「私たちの強み」（https://solvvy.co.jp/ir/・1回目）
+- 沿革：
+  - 「2018年3月に上場」（https://solvvy.co.jp/business/strength/・1回目）
+  - 「2024年11月1日、日本リビング保証株式会社は、株式会社メディアシークとの経営統合により、「Solvvy（ソルヴィー）株式会社」として生まれ変わりました」（https://solvvy.co.jp/ir/・1回目）
+  - 「2024年11月1日、日本リビング保証株式会社は株式会社メディアシークとの経営統合により、「Solvvy（ソルヴィー）株式会社」として生まれ変わりました」（https://solvvy.co.jp/ir/message/・1回目）
+  - 「2018年3月30日」（https://solvvy.co.jp/ir/stockinfo/stock/・1回目）
+  - 「2024年11月1日現在（社名50音順・敬称略）」（https://solvvy.co.jp/ir/stockinfo/analyst-coverage/・1回目）
+  - 「2009年です」（https://solvvy.co.jp/ir/faq/・1回目）
+  - 「2018年3月30日です」（https://solvvy.co.jp/ir/faq/・1回目）
+  - 「2009年3月」（https://solvvy.co.jp/corporate/company/・1回目）
+  - 「2025年6月時点」（https://solvvy.co.jp/corporate/company/・1回目）
+  - 「2024年11⽉、経営統合を機に」（https://solvvy.co.jp/pdf/2025-10-01_Solvvy_Company-overview.pdf・2回目）
+  - 「2024年11⽉１⽇、⽇本リビング保証株式会社は」（https://solvvy.co.jp/pdf/2025-10-01_Solvvy_Company-overview.pdf・2回目）
+  - 「2009年3⽉」（https://solvvy.co.jp/pdf/2025-10-01_Solvvy_Company-overview.pdf・2回目）
+- 検索結果の抜粋：
+  - 「事業内容｜企業情報 - Solvvy — 事業内容｜企業情報 - Solvvy Solvvy（ソルヴィー）株式会社 https://solvvy.co.jp > corporate > business」（https://solvvy.co.jp/corporate/business/・3回目）
+  - 「スピード内定】金融×ITの上場コンサル 会社説明会| Solvvy 株式 ... — スピード内定】金融×ITの上場コンサル 会社説明会| Solvvy 株式 ... ビズリーチ・キャンパス https://br-campus.jp > events」（https://br-campus.jp/events/17357・3回目）
+  - 「Solvvy 株式会社 - LinkedIn — Solvvy 株式会社 - LinkedIn LinkedIn https://jp.linkedin.com > company > solvvy-inc」（https://jp.linkedin.com/company/solvvy-inc・3回目）
+  - 「決算説明資料 ・補足説明資料｜IR情報 - Solvvy — 決算説明資料 ・補足説明資料｜IR情報 - Solvvy Solvvy（ソルヴィー）株式会社 https://solvvy.co.jp > library > presentation」（https://solvvy.co.jp/ir/library/presentation/・3回目）
+  - 「決算 短信｜IR情報 - Solvvy — 決算 短信｜IR情報 - Solvvy Solvvy（ソルヴィー）株式会社 https://solvvy.co.jp > library > report」（https://solvvy.co.jp/ir/library/report/・3回目）
+  - 「【 Solvvy 】[7320]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 Solvvy 】[7320]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo」（https://www.nikkei.com/nkd/company/kigyo/?scode=7320・3回目）
+  - 「[G－ Solvvy 7320.T] 2026年6月期 決算説明資料 — [G－ Solvvy 7320.T] 2026年6月期 決算説明資料 BigGo ファイナンス https://finance.biggo.jp > jpx_tdnet_140120260814520819」（https://finance.biggo.jp/news/jpx_tdnet_140120260814520819・3回目）
+  - 「Solvvy 株式会社 決算説明資料 - EDINET DB — Solvvy 株式会社 決算説明資料 - EDINET DB EDINET DB https://edinetdb.jp > Ｓｏｌｖｖｙ株式会社 > IR資料」（https://edinetdb.jp/company/E33854/presentations/・3回目）
+  - 「私たちについて｜株式会社 Solvvy 採用サイト — 私たちについて｜株式会社 Solvvy 採用サイト Solvvy（ソルヴィー）株式会社 https://recruit.solvvy.co.jp > about」（https://recruit.solvvy.co.jp/about/・3回目）
+  - 「Solvvy 【7320】の 事業 内容 - キタイシホン — Solvvy 【7320】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/7320/business・3回目）
+  - 「【 Solvvy 株式会社】会社紹介資料 - Speaker Deck — 【 Solvvy 株式会社】会社紹介資料 - Speaker Deck Speaker Deck https://speakerdeck.com > urara > solvvyzhu-shi-hui-she-...」（https://speakerdeck.com/urara/solvvyzhu-shi-hui-she-hui-she-shao-jie-zi-liao・3回目）
+  - 「Solvvy - 株式会社フィスコ — Solvvy - 株式会社フィスコ 株式会社フィスコ PDF https://www.fisco.co.jp > FISCO > solvvy20250314」（https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/solvvy20250314.pdf・3回目）
+
+## Ｕｂｉｃｏｍホールディングス
+- 公式URL：https://www.ubicom-hd.com/（search:yahoo_jp:Ubicomホールディングス）
+- 設立：2005年12月8日（https://www.ubicom-hd.com/ja/company/overview.html・1回目）
+- 設立：2005年（https://macloud.jp/companies/389・3回目）
+- 設立：2005年12月8日（https://www.nikkei.com/nkd/company/gaiyo/?scode=3937・3回目）
+- 従業員数：992名（グループ全体、2026年3月末時点）（https://www.ubicom-hd.com/ja/company/overview.html・1回目）
+- 従業員数：1,088人（https://macloud.jp/companies/389・3回目）
+- 従業員数：55 人（https://www.nikkei.com/nkd/company/gaiyo/?scode=3937・3回目）
+- 事業内容：日本全国の病院・クリニックにレセプト点検、医療安全支援、データ分析、（https://www.ubicom-hd.com/ja/ir/news/auto_20260812518668/pdfFile.pdf・2回目）
+- 事業内容：医療機関向けパッケージメーカーとして、また医療、金融/公共、自動車、製造/ロボティクス領域のオフショア開発パートナーとして、DX人材育成、新規事業開発、M&Aを含むレバレッジ戦略を推進。（https://macloud.jp/companies/389・3回目）
+- 事業内容：テクノロジーコンサルティング事業、メディカル事業(レセプト点検ソフトなどの提供)（https://shachomeikan.jp/presidents/detail/10062881・3回目）
+- 売上高：59.4億円（https://macloud.jp/companies/389・3回目）
+- ビジネスモデル：
+  - 「対談動画が公開されました：成長の鍵はM&A戦略とAI駆動型開発へのビジネスモデルチェンジ｜代表青木が徹底解説」（https://www.ubicom-hd.com/ja/index.html・1回目）
+  - 「AI Technology戦略事業では、フィリピン拠点を中心に、海外顧客との直契約案件を拡大し、高単価案件の獲得と収益構造の高度化を推進するとともに、グローバル市場における事業基盤の強化を図ってまいります」（https://www.ubicom-hd.com/ja/about.html・1回目）
+  - 「対談動画が公開されました：成長の鍵はM&A戦略とAI駆動型開発へのビジネスモデルチェンジ｜代表青木が徹底解説 | ニュース | 株式会社Ubicomホールディングス」（https://www.ubicom-hd.com/ja/news/news-202604070001.html・1回目）
+  - 「対談動画が公開されました：成長の鍵はM&A戦略とAI駆動型開発へのビジネスモデルチェンジ｜代表青木が徹底解説」（https://www.ubicom-hd.com/ja/news/news-202604070001.html・1回目）
+  - 「今回は「成長の鍵はM&A戦略とAI駆動型開発へのビジネスモデルチェンジ｜代表青木が徹底解説」と題し、当社の現状と今後の展望について詳しくご紹介しております」（https://www.ubicom-hd.com/ja/news/news-202604070001.html・1回目）
+  - 「この番組では、Ubicomの2大事業であるメディカル事業とテクノロジーコンサルティング事業の事業紹介から、直近の業績、弊社のビジネスモデルや今後の展望について詳しくお話しております」（https://www.ubicom-hd.com/ja/news/news-20240508.html・1回目）
+  - 「唯一無二の高成長・高収益ビジネスモデルの積み上げを実現します」（https://www.ubicom-hd.com/ja/ir/management/message.html・1回目）
+  - 「ホールディングカンパニーの役割として、グループ全体の経営基盤と財務体制の強化を図るべく、スクラップ＆ビルド（事業の再構築）を果敢に実行し、グループ経営資源を自在に統合・活用することで、戦略的投資をこなし高収益ビジネスモデルを確立いたしました」（https://www.ubicom-hd.com/ja/ir/management/message.html・1回目）
+  - 「Ubicomグループは、今後も、技術革新や社会の変化をいち早く捉え、新しいビジネスの創出に果敢に挑戦し、唯一無二の高成長・高収益ビジネスモデルを積み上げてまいります」（https://www.ubicom-hd.com/ja/ir/management/message.html・1回目）
+  - 「を推進することで、高付加価値・高利益型のビジネスモデルチェンジを中⾧期的な戦略として推進してお」（https://www.ubicom-hd.com/ja/ir/news/auto_202607100001/main/0/link/irnews-202607100001.pdf・2回目）
+  - 「・メディカル事業において安定的な収益構造の確立および新商品のローンチが寄与しさらに」（https://www.ubicom-hd.com/ja/ir/library/result/main/00/teaserItems2/01/linkList/0/link/140120190808484998.pdf・2回目）
+  - 「高収益構造の確立による経常利益率20%以上を目指し、」（https://www.ubicom-hd.com/ja/ir/library/result/main/00/teaserItems2/01/linkList/0/link/140120190808484998.pdf・2回目）
+- 誰に：
+  - 「日本・アジアを中心に、世界中のお客様にITソリューションを提供しています」（https://www.ubicom-hd.com/ja/about.html・1回目）
+  - 「AIを事業戦略の中核に据え、30年以上培ってきたグローバル開発体制とエンジニアリング力を活かしたAI駆動開発を推進するとともに、高付加価値・高生産性モデルへの転換を加速し、お客様のDX推進と企業価値向上に貢献してまいります」（https://www.ubicom-hd.com/ja/about.html・1回目）
+  - 「また、医療、金融・公共、自動車、製造、ロボティクス、不動産、エネルギー領域等において、お客様との長期的なパートナーシップを深化させ、AI時代における持続的な成長とグローバル展開を加速してまいります」（https://www.ubicom-hd.com/ja/about.html・1回目）
+  - 「メディカル事業では、全国の販売代理店を対象としたM&A戦略を推進し、販売網の拡充、顧客基盤の拡大、グループシナジーの創出を通じて、持続的な成長と企業価値の向上を目指してまいります」（https://www.ubicom-hd.com/ja/about.html・1回目）
+  - 「AI Technology戦略事業では、フィリピン拠点を中心に、海外顧客との直契約案件を拡大し、高単価案件の獲得と収益構造の高度化を推進するとともに、グローバル市場における事業基盤の強化を図ってまいります」（https://www.ubicom-hd.com/ja/about.html・1回目）
+  - 「上流から下流までを含めた「ワンストップサービス」でお客様をサポート」（https://www.ubicom-hd.com/ja/business/global.html・1回目）
+  - 「お客様のプロジェクトに合ったベンダー選定・開発環境の提供・多様な開発スタイルへの対応、その後の保守運用フェーズまで」（https://www.ubicom-hd.com/ja/business/global.html・1回目）
+  - 「埼玉県を中心に首都圏および北関東エリアにおいて、医療機関との強固な販売網を有するラジエンスウエア株式会社をグループ化し、クロスセルによる顧客単価の向上および販路拡大を通じて、成長と収益力の強化を図る」（https://www.ubicom-hd.com/ja/business/winwin.html・1回目）
+  - 「福岡県において、地域に根差した顧客基盤と販売チャネルを持つ、MightyCheckerシリーズの主要代理店ISM社を連結子会社化」（https://www.ubicom-hd.com/ja/business/winwin.html・1回目）
+  - 「クロスセルによる顧客単価向上、販路拡大により、グループ全体の成長と収益力のさらなる強化を図る、戦略的M&Aを実施」（https://www.ubicom-hd.com/ja/business/winwin.html・1回目）
+  - 「お客様からいただく個人情報は、お問い合わせ・ご質問への回答、情報提供のために使用させていただきます」（https://www.ubicom-hd.com/ja/contact/contact2.html・1回目）
+  - 「お客様からいただいたEメールアドレスが違っている場合や、システム障害等によりお返事できない場合がございます」（https://www.ubicom-hd.com/ja/contact/contact2.html・1回目）
+- 何を：
+  - 「クラウド型レセプト点検ソフトの新製品「MightyChecker® Cloud X」をはじめ、AIを活用した医療機関向け経営支援ソリューションを展示」（https://www.ubicom-hd.com/ja/index.html・1回目）
+  - 「「人」×「技術」で革新的なITソリューションを創造する、」（https://www.ubicom-hd.com/ja/about.html・1回目）
+  - 「日本・アジアを中心に、世界中のお客様にITソリューションを提供しています」（https://www.ubicom-hd.com/ja/about.html・1回目）
+  - 「AIを活用した先進的な開発体制の構築とAIネイティブエンジニアの育成を推進し、企画・構想から要件定義、開発、品質保証、運用保守までを一気通貫で提供する高付加価値型ソリューションを強化してまいります」（https://www.ubicom-hd.com/ja/about.html・1回目）
+  - 「主力商品である医療機関向けMightyシリーズを中心に、2024年から本格化する医師の働き方改革、医療の安全と質の向上、経営改善、クラウド化支援等に取り組んでまいります」（https://www.ubicom-hd.com/ja/about.html・1回目）
+  - 「また、フィリピンのグローバル開発拠点と日本国内のコンサルティング体制を融合し、AIを活用し、企画・要件定義から開発、運用保守までを一気通貫で提供する高付加価値型ソリューションを展開しています」（https://www.ubicom-hd.com/ja/business/global.html・1回目）
+  - 「上流から下流までを含めた「ワンストップサービス」でお客様をサポート」（https://www.ubicom-hd.com/ja/business/global.html・1回目）
+  - 「高い技術力を持つトップノッチエンジニアを先進技術開発センターに有し、グローバルにソリューションを提供しています」（https://www.ubicom-hd.com/ja/business/global.html・1回目）
+  - 「医療機関向け経営支援ソリューションのリーディングカンパニーとして、日本全国の病院・クリニックに」（https://www.ubicom-hd.com/ja/business/medical.html・1回目）
+  - 「レセプト点検、医療安全支援、データ分析、クラウドサービス、開発支援、コンサルティング等の医療ITソリューションを提供」（https://www.ubicom-hd.com/ja/business/medical.html・1回目）
+  - 「パッケージソリューション「 Mightyシリーズ」」（https://www.ubicom-hd.com/ja/business/medical.html・1回目）
+  - 「医療制度の変化や人手不足をカバーするシステム・サービスを提供し、医療現場の課題解決に貢献しています」（https://www.ubicom-hd.com/ja/business/medical.html・1回目）
+- どうやって売るか：
+  - 「当社の新事業「保険ナレッジプラットフォーム」が日経FinTech（2020年12月発行）の特集記事「生保の救世主」に掲載・紹介されました」（https://www.ubicom-hd.com/ja/index.html・1回目）
+  - 「国内のみならず、グローバルに展開する企業の開発パートナーとして、」（https://www.ubicom-hd.com/ja/about.html・1回目）
+  - 「また、医療、金融・公共、自動車、製造、ロボティクス、不動産、エネルギー領域等において、お客様との長期的なパートナーシップを深化させ、AI時代における持続的な成長とグローバル展開を加速してまいります」（https://www.ubicom-hd.com/ja/about.html・1回目）
+  - 「メディカル事業では、全国の販売代理店を対象としたM&A戦略を推進し、販売網の拡充、顧客基盤の拡大、グループシナジーの創出を通じて、持続的な成長と企業価値の向上を目指してまいります」（https://www.ubicom-hd.com/ja/about.html・1回目）
+  - 「投資家様向け会社紹介資料」（https://www.ubicom-hd.com/ja/ir.html・1回目）
+  - 「今回は「成長の鍵はM&A戦略とAI駆動型開発へのビジネスモデルチェンジ｜代表青木が徹底解説」と題し、当社の現状と今後の展望について詳しくご紹介しております」（https://www.ubicom-hd.com/ja/news/news-202604070001.html・1回目）
+  - 「この番組では、Ubicomの2大事業であるメディカル事業とテクノロジーコンサルティング事業の事業紹介から、直近の業績、弊社のビジネスモデルや今後の展望について詳しくお話しております」（https://www.ubicom-hd.com/ja/news/news-20240508.html・1回目）
+  - 「埼玉県を中心に首都圏および北関東エリアにおいて、医療機関との強固な販売網を有するラジエンスウエア株式会社をグループ化し、クロスセルによる顧客単価の向上および販路拡大を通じて、成長と収益力の強化を図る」（https://www.ubicom-hd.com/ja/business/winwin.html・1回目）
+  - 「福岡県において、地域に根差した顧客基盤と販売チャネルを持つ、MightyCheckerシリーズの主要代理店ISM社を連結子会社化」（https://www.ubicom-hd.com/ja/business/winwin.html・1回目）
+  - 「【最強のパートナー】なぜ巨大外資は「Ubicom」を選んだのか？日本IBMとの戦略的協業で挑むAI駆動開発の裏側｜Ubicomホールディングス（3937）（動画メディア：IRTVにて公開）」（https://www.ubicom-hd.com/ja/ir/news.html・1回目）
+  - 「日本IBMの戦略パートナーとして「watsonx」を活用したAI駆動開発体制をフィリピンで構築に関するお知らせ」（https://www.ubicom-hd.com/ja/ir/news.html・1回目）
+  - 「動画公開のお知らせ：【業界大注目のM&A】Ubicom×ISM 福岡県医師会直結パートナーとの戦略的統合/販売代理店M&A戦略の全国展開に向け本格始動」（https://www.ubicom-hd.com/ja/ir/news.html・1回目）
+- お金の形：
+  - 「AIを活用した先進的な開発体制の構築とAIネイティブエンジニアの育成を推進し、企画・構想から要件定義、開発、品質保証、運用保守までを一気通貫で提供する高付加価値型ソリューションを強化してまいります」（https://www.ubicom-hd.com/ja/about.html・1回目）
+  - 「AI Technology戦略事業では、フィリピン拠点を中心に、海外顧客との直契約案件を拡大し、高単価案件の獲得と収益構造の高度化を推進するとともに、グローバル市場における事業基盤の強化を図ってまいります」（https://www.ubicom-hd.com/ja/about.html・1回目）
+  - 「また、フィリピンのグローバル開発拠点と日本国内のコンサルティング体制を融合し、AIを活用し、企画・要件定義から開発、運用保守までを一気通貫で提供する高付加価値型ソリューションを展開しています」（https://www.ubicom-hd.com/ja/business/global.html・1回目）
+  - 「お客様のプロジェクトに合ったベンダー選定・開発環境の提供・多様な開発スタイルへの対応、その後の保守運用フェーズまで」（https://www.ubicom-hd.com/ja/business/global.html・1回目）
+  - 「埼玉県を中心に首都圏および北関東エリアにおいて、医療機関との強固な販売網を有するラジエンスウエア株式会社をグループ化し、クロスセルによる顧客単価の向上および販路拡大を通じて、成長と収益力の強化を図る」（https://www.ubicom-hd.com/ja/business/winwin.html・1回目）
+  - 「クロスセルによる顧客単価向上、販路拡大により、グループ全体の成長と収益力のさらなる強化を図る、戦略的M&Aを実施」（https://www.ubicom-hd.com/ja/business/winwin.html・1回目）
+  - 「メディカル事業において、AI×サブスクモデルを活用した次世代のレセプトチェックシステムを基盤とする「遠隔サービスプラットフォーム」を新たにリリース」（https://www.ubicom-hd.com/ja/ir/news.html・1回目）
+  - 「「国際モダンホスピタルショウ2024」にてAI×サブスクモデル「Mighty QUBE® Hybrid」「MightyChecker®EX」の展示デモを実施」（https://www.ubicom-hd.com/ja/ir/news.html・1回目）
+  - 「募集新株予約権（有償ストック・オプション）の発行内容確定に関するお知らせ」（https://www.ubicom-hd.com/ja/ir/news.html・1回目）
+  - 「募集新株予約権（有償ストック・オプション）の発行に関するお知らせ」（https://www.ubicom-hd.com/ja/ir/news.html・1回目）
+  - 「場の業務効率化と経営基盤の強化に貢献するソリューションの提供に努めるとともに、AI×サブスクリプ」（https://www.ubicom-hd.com/ja/ir/news/auto_202607100001/main/0/link/irnews-202607100001.pdf・2回目）
+  - 「メディカル事業は、AI×サブスクモデルを活用した病院・診療所向け経営支援 IT ソリューションのパ」（https://www.ubicom-hd.com/ja/ir/news/auto_202607100001/main/0/link/irnews-202607100001.pdf・2回目）
+- 売上構成：
+  - 「セグメント情報」（https://www.ubicom-hd.com/ja/index.html・1回目）
+  - 「セグメント情報」（https://www.ubicom-hd.com/ja/about.html・1回目）
+  - 「セグメント情報」（https://www.ubicom-hd.com/ja/business.html・1回目）
+  - 「セグメント情報」（https://www.ubicom-hd.com/ja/ir.html・1回目）
+  - 「セグメント情報」（https://www.ubicom-hd.com/ja/news/news-202604070001.html・1回目）
+  - 「セグメント情報」（https://www.ubicom-hd.com/ja/news/news-20240508.html・1回目）
+  - 「セグメント情報」（https://www.ubicom-hd.com/ja/ir/news/irnews-202609110001.html・1回目）
+  - 「セグメント情報」（https://www.ubicom-hd.com/ja/ir/news/irnews-202608140001.html・1回目）
+  - 「セグメント情報」（https://www.ubicom-hd.com/ja/business/global.html・1回目）
+  - 「セグメント情報」（https://www.ubicom-hd.com/ja/business/medical.html・1回目）
+  - 「セグメント情報」（https://www.ubicom-hd.com/ja/business/winwin.html・1回目）
+  - 「セグメント情報」（https://www.ubicom-hd.com/ja/ir/management.html・1回目）
+- 利益の源泉：
+  - 「ラジオNIKKEI『経営トップに聞く！強みと人材戦略』に当社代表の青木が出演しました」（https://www.ubicom-hd.com/ja/ir/news.html・1回目）
+  - 「唯一無二の高成長・高収益ビジネスモデルの積み上げを実現します」（https://www.ubicom-hd.com/ja/ir/management/message.html・1回目）
+  - 「ホールディングカンパニーの役割として、グループ全体の経営基盤と財務体制の強化を図るべく、スクラップ＆ビルド（事業の再構築）を果敢に実行し、グループ経営資源を自在に統合・活用することで、戦略的投資をこなし高収益ビジネスモデルを確立いたしました」（https://www.ubicom-hd.com/ja/ir/management/message.html・1回目）
+  - 「Ubicomグループは、今後も、技術革新や社会の変化をいち早く捉え、新しいビジネスの創出に果敢に挑戦し、唯一無二の高成長・高収益ビジネスモデルを積み上げてまいります」（https://www.ubicom-hd.com/ja/ir/management/message.html・1回目）
+  - 「ションモデルによる高収益基盤のさらなる拡大を推進してまいります」（https://www.ubicom-hd.com/ja/ir/news/auto_202607100001/main/0/link/irnews-202607100001.pdf・2回目）
+  - 「また、Go Global 方針のもと、AI を活用した高度な開発体制を強みに、グローバル企業との案件」（https://www.ubicom-hd.com/ja/ir/news/auto_202607100001/main/0/link/irnews-202607100001.pdf・2回目）
+  - 「営業利益率向上」（https://www.ubicom-hd.com/ja/ir/news/irnews-202608130002/main/0/link/Presentation%20Materials%20for%20FY2026%20Q1%20Results%20(the%20Three%20Months%20Ended%20June%2030,%202026).pdf・2回目）
+  - 「営業利益率60%以上」（https://www.ubicom-hd.com/ja/ir/news/irnews-202608130002/main/0/link/Presentation%20Materials%20for%20FY2026%20Q1%20Results%20(the%20Three%20Months%20Ended%20June%2030,%202026).pdf・2回目）
+  - 「・2020年3月期第1四半期決算においては、セグメント売上高営業利益率が」（https://www.ubicom-hd.com/ja/ir/library/result/main/00/teaserItems2/01/linkList/0/link/140120190808484998.pdf・2回目）
+  - 「高収益構造の確立による経常利益率20%以上を目指し、」（https://www.ubicom-hd.com/ja/ir/library/result/main/00/teaserItems2/01/linkList/0/link/140120190808484998.pdf・2回目）
+  - 「１株当たり 当期純利益 潜在株式調整後 １株当たり 当期純利益 自己資本 当期純利益率 総資産 経常利益率 売上高 営業利益率」（https://www.ubicom-hd.com/ja/ir/library/result/main/00/teaserItems2/014/linkList/0/link/FY2022_teisei_tanshin.pdf・2回目）
+  - 「AI×高粗利なストック型」（https://www.ubicom-hd.com/ja/ir/main/017/teaserItems1/013/linkList/0/link/20260819gaiyo.pdf・2回目）
+- 沿革：
+  - 「2026年11月12日(木)」（https://www.ubicom-hd.com/ja/ir.html・1回目）
+  - 「2027年3月期 第2四半期決算発表」（https://www.ubicom-hd.com/ja/ir.html・1回目）
+  - 「2027年3月期 第1四半期」（https://www.ubicom-hd.com/ja/ir.html・1回目）
+  - 「2026年3月期」（https://www.ubicom-hd.com/ja/ir.html・1回目）
+  - 「2026年3月期 第3四半期」（https://www.ubicom-hd.com/ja/ir.html・1回目）
+  - 「2026年3月期 第2四半期」（https://www.ubicom-hd.com/ja/ir.html・1回目）
+  - 「2026年3月期 第1四半期」（https://www.ubicom-hd.com/ja/ir.html・1回目）
+  - 「2025年3月期」（https://www.ubicom-hd.com/ja/ir.html・1回目）
+  - 「2025年3月期 第3四半期」（https://www.ubicom-hd.com/ja/ir.html・1回目）
+  - 「2025年3月期 第2四半期」（https://www.ubicom-hd.com/ja/ir.html・1回目）
+  - 「2025年3月期 第1四半期」（https://www.ubicom-hd.com/ja/ir.html・1回目）
+  - 「2024年3月期」（https://www.ubicom-hd.com/ja/ir.html・1回目）
+- 検索結果の抜粋：
+  - 「トップメッセージ | 経営方針 | 投資家情報 | 株式会社 Ubicom ... — トップメッセージ | 経営方針 | 投資家情報 | 株式会社 Ubicom ... 株式会社Ubicomホールディングス https://www.ubicom-hd.com > management > message」（https://www.ubicom-hd.com/ja/ir/management/message.html・3回目）
+  - 「株式会社 Ubicomホールディングス の会社情報 - M&Aクラウド — 株式会社 Ubicomホールディングス の会社情報 - M&Aクラウド M&Aクラウド https://macloud.jp > companies」（https://macloud.jp/companies/389・3回目）
+  - 「ホーム | 株式会社 Ubicomホールディングス — ホーム | 株式会社 Ubicomホールディングス 株式会社Ubicomホールディングス https://www.ubicom-hd.com > ...」（https://www.ubicom-hd.com/ja/index.html・3回目）
+  - 「【特別対談】株式会社 Ubicomホールディングス （3937 ... — 【特別対談】株式会社 Ubicomホールディングス （3937 ... YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=Vrti0XKbUho・3回目）
+  - 「3937） Ubicomホールディングス 2026年3月期中間期決算 — 3937） Ubicomホールディングス 2026年3月期中間期決算 ブリッジサロン http://www.bridge-salon.jp > archives > 2025/12」（http://www.bridge-salon.jp/report_bridge/archives/2025/12/251217_3937.html・3回目）
+  - 「決算資料 - IR・投資家情報 - Ubicomホールディングス — 決算資料 - IR・投資家情報 - Ubicomホールディングス 株式会社Ubicomホールディングス https://www.ubicom-hd.com > library > result」（https://www.ubicom-hd.com/ja/ir/library/result.html・3回目）
+  - 「【 Ubicomホールディングス 】[3937]IR情報 中期経営計画や ... — 【 Ubicomホールディングス 】[3937]IR情報 中期経営計画や ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo」（https://www.nikkei.com/nkd/company/kigyo/?scode=3937・3回目）
+  - 「IR・投資家情報 | 株式会社 Ubicomホールディングス — IR・投資家情報 | 株式会社 Ubicomホールディングス 株式会社Ubicomホールディングス https://www.ubicom-hd.com > ...」（https://www.ubicom-hd.com/ja/ir.html・3回目）
+  - 「【 Ubicomホールディングス 】[3937] 決算 発表や業務・財務情報 — 【 Ubicomホールディングス 】[3937] 決算 発表や業務・財務情報 日本経済新聞 https://www.nikkei.com > nkd > company > kessan」（https://www.nikkei.com/nkd/company/kessan/?scode=3937・3回目）
+  - 「サイトマップ | 株式会社 Ubicomホールディングス — サイトマップ | 株式会社 Ubicomホールディングス 株式会社Ubicomホールディングス https://www.ubicom-hd.com > sitemap」（https://www.ubicom-hd.com/ja/sitemap.html・3回目）
+  - 「Ubicomホールディングス - 日本経済新聞 — Ubicomホールディングス - 日本経済新聞 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo」（https://www.nikkei.com/nkd/company/gaiyo/?scode=3937・3回目）
+  - 「（3937）株式会社 Ubicomホールディングス - ブリッジサロン — （3937）株式会社 Ubicomホールディングス - ブリッジサロン ブリッジサロン http://www.bridge-salon.jp > database > code_3937」（http://www.bridge-salon.jp/database/code_3937.html・3回目）
+
 ## ＶＲＡＩＮ　Ｓｏｌｕｔｉｏｎ
 - 公式URL：https://vrain.co.jp/（search:yahoo_jp:VRAIN Solution）
 - 設立：2020 年 3 月 16 日（https://vrain.co.jp/company/・1回目）
@@ -2597,6 +4200,120 @@
   - 「コーポレート・ガバナンス | 株式会社 VRAIN Solution — コーポレート・ガバナンス | 株式会社 VRAIN Solution 株式会社 VRAIN Solution https://vrain.co.jp > IR情報」（https://vrain.co.jp/ir/governance/・3回目）
   - 「株式会社 VRAIN Solution の「三現主義」で培う独自の ... — 株式会社 VRAIN Solution の「三現主義」で培う独自の ... MoreJob株式会社 https://morejob.co.jp > ミライのお仕事 by MoreJob」（https://morejob.co.jp/mirai/vrain/・3回目）
 - 売上高：記載なし（3回確認済み：公式19頁／PDF・画像0件／外部3頁・検索5回）
+
+## ＺＥＴＡ
+- 公式URL：https://www.zetaglobal.com/（search:yahoo_jp:ZETA）
+- 設立：2007年（https://vizologi.com/ja/business-strategy-canvas/zeta-global-business-model-canvas/・3回目）
+- ビジネスモデル：
+  - 「実際のビジネスモデルの内訳」（https://vizologi.com/ja/business-strategy-canvas/zeta-global-business-model-canvas/・3回目）
+  - 「Zeta Globalのビジネスモデルとはどのようなものですか？」（https://vizologi.com/ja/business-strategy-canvas/zeta-global-business-model-canvas/・3回目）
+  - 「Zeta Globalのビジネスモデルを支える重要な選択肢と、それらがどのように価値を生み出すのかをご覧ください」（https://vizologi.com/ja/business-strategy-canvas/zeta-global-business-model-canvas/・3回目）
+  - 「さらに多くのビジネスモデルを探求する準備はできていますか？」（https://vizologi.com/ja/business-strategy-canvas/zeta-global-business-model-canvas/・3回目）
+  - 「優れた企業のビジネスモデルを発見し、インスピレーションを得て、わずか数分で独自のビジネスモデルを構築しましょう」（https://vizologi.com/ja/business-strategy-canvas/zeta-global-business-model-canvas/・3回目）
+  - 「Zeta Globalのビジネスモデルがこれほど成功している理由は？」（https://vizologi.com/ja/business-strategy-canvas/zeta-global-business-model-canvas/・3回目）
+  - 「Vizologiでは、このようなビジネスモデルの分析と設計が可能です」（https://vizologi.com/ja/business-strategy-canvas/zeta-global-business-model-canvas/・3回目）
+  - 「ゼタグローバルのビジネスモデルは、様々な業界のブランドにデータ駆動型のマーケティングソリューションを提供することに基づいています」（https://vizologi.com/ja/business-strategy-canvas/zeta-global-business-model-canvas/・3回目）
+  - 「Zeta Globalsのビジネスモデルキャンバス」（https://vizologi.com/ja/business-strategy-canvas/zeta-global-business-model-canvas/・3回目）
+  - 「ゼータ・グローバルの収益モデル」（https://vizologi.com/ja/business-strategy-canvas/zeta-global-business-model-canvas/・3回目）
+  - 「ゼータ・グローバルは、様々なビジネスモデルを組み合わせることで収益を上げています」（https://vizologi.com/ja/business-strategy-canvas/zeta-global-business-model-canvas/・3回目）
+  - 「科学ビジネスモデルの構築」（https://vizologi.com/ja/business-strategy-canvas/zeta-global-business-model-canvas/・3回目）
+- 誰に：
+  - 「ゼタグローバルは、デビッド・A・スタインバーグとジョン・スカリーによって2007年に設立され、データ駆動型のマーケティングテクノロジー企業であり、ブランドが顧客と関わり合い、つながることを支援することに注目しています」（https://vizologi.com/ja/business-strategy-canvas/zeta-global-business-model-canvas/・3回目）
+  - 「ゼタグローバルは、駆動データ型のマーケティング テクノロジーの革新的企業であり、そのSaaSベースのマーケティング クラウドは、500以上のフォーチュン1000企業およびミドルマーケットブランドが、実行可能なデータ、高度な分析、機械学習顧客関係を獲得し、維持し、成長させることを支援します」（https://vizologi.com/ja/business-strategy-canvas/zeta-global-business-model-canvas/・3回目）
+  - 「コのCEO）によって2007年に設立されたゼタは、データ駆動型の洞察を活用してマーケティングROIを改善し、顧客ライフタイムバリューを増加させ、ビジネスの成長を促進します」（https://vizologi.com/ja/business-strategy-canvas/zeta-global-business-model-canvas/・3回目）
+  - 「さらに、企業は使用量、キャンペーンのパフォーマンス、またはこれらの要素の組み合わせに基づいて料金を請求する場合顧客体験を向上させ、マーケティングの効果を推進するためにデータを活用するゼタの焦点は、現代のデジタルマーケティングとする複雑さをナビゲートしようブランドの進化するニーズに応えるマーケティング テクノロジーのランドスケープにおいて重要なプレーヤーとしての地位を確立しています」（https://vizologi.com/ja/business-strategy-canvas/zeta-global-business-model-canvas/・3回目）
+  - 「顧客ライフサイクル管理」（https://vizologi.com/ja/business-strategy-canvas/zeta-global-business-model-canvas/・3回目）
+  - 「予測マーケティングクラウド、マーケティングチームが顧客との関係を生涯にわたって構築できるように...」（https://vizologi.com/ja/business-strategy-canvas/zeta-global-business-model-canvas/・3回目）
+  - 「1,500人の顧客」（https://vizologi.com/ja/business-strategy-canvas/zeta-global-business-model-canvas/・3回目）
+  - 「ゼタグローバルは、ビッグデータを活用してブランドがより多くの顧客を獲得するを支援するマーケティング会社です」（https://vizologi.com/ja/business-strategy-canvas/zeta-global-business-model-canvas/・3回目）
+  - 「マーケティングチームが顧客との関係を生涯にわたって構築できるように」（https://vizologi.com/ja/business-strategy-canvas/zeta-global-business-model-canvas/・3回目）
+  - 「クライアントがデータを活用してパーソナライズされた体験を生み出し、獲得と長期的な顧客維持を改善することで、平均をしばらくの間支援します」（https://vizologi.com/ja/business-strategy-canvas/zeta-global-business-model-canvas/・3回目）
+  - 「ゼータ・グローバルの顧客関係」（https://vizologi.com/ja/business-strategy-canvas/zeta-global-business-model-canvas/・3回目）
+  - 「顧客ライフサイクル」（https://vizologi.com/ja/business-strategy-canvas/zeta-global-business-model-canvas/・3回目）
+- 何を：
+  - 「ニューヨーク市に本社を置くゼタグローバルは、人工知能とビッグデータ分析により強化されたマーケティングソリューションを提供しています」（https://vizologi.com/ja/business-strategy-canvas/zeta-global-business-model-canvas/・3回目）
+  - 「ゼタグローバルのビジネスモデルは、様々な業界のブランドにデータ駆動型のマーケティングソリューションを提供することに基づいています」（https://vizologi.com/ja/business-strategy-canvas/zeta-global-business-model-canvas/・3回目）
+  - 「ゼタグローバルは、クライアントがプラットフォームのマーケティングツールとサービスのスイートへのアクセスのためにサブスクリプションベースのモデル収益を上げています」（https://vizologi.com/ja/business-strategy-canvas/zeta-global-business-model-canvas/・3回目）
+  - 「ソフトウェア・アズ・ア・サービス（SaaS）プラットフォーム」（https://vizologi.com/ja/business-strategy-canvas/zeta-global-business-model-canvas/・3回目）
+  - 「プロフェッショナルサービスフィー」（https://vizologi.com/ja/business-strategy-canvas/zeta-global-business-model-canvas/・3回目）
+  - 「サービスとしてのソフトウェア(SaaS)」（https://vizologi.com/ja/business-strategy-canvas/zeta-global-business-model-canvas/・3回目）
+  - 「データ・アズ・ア・サービス（DaaS）」（https://vizologi.com/ja/business-strategy-canvas/zeta-global-business-model-canvas/・3回目）
+  - 「ソリューションプロバイダー」（https://vizologi.com/ja/business-strategy-canvas/zeta-global-business-model-canvas/・3回目）
+  - 「セルフサービス」（https://vizologi.com/ja/business-strategy-canvas/zeta-global-business-model-canvas/・3回目）
+  - 「ビジネスソリューション」（https://vizologi.com/ja/business-strategy-canvas/zeta-global-business-model-canvas/・3回目）
+  - 「一度契約した顧客が翌年も契約を継続し、さらに利用額を増やしている（売上継続率114%）という事実は、Zetaのサービスの満足度の高さを物語っています」（https://note.com/mahjong_lab/n/nd681760f6acc・3回目）
+  - 「Zetaのサービスを利用する大企業（金融機関や自動車メーカーなど）は、自社で保有する顧客リスト（CRMデータ）をZetaのプラットフォームに取り込み、分析や広告配信に活用します」（https://note.com/mahjong_lab/n/nd681760f6acc・3回目）
+- どうやって売るか：
+  - 「ゼータ・グローバルの主要パートナー」（https://vizologi.com/ja/business-strategy-canvas/zeta-global-business-model-canvas/・3回目）
+  - 「ビジネスパートナー」（https://vizologi.com/ja/business-strategy-canvas/zeta-global-business-model-canvas/・3回目）
+  - 「製品紹介TOP」（https://zeta.inc/ir/library/presentations・3回目）
+  - 「製品紹介TOP」（https://zeta.inc/ir/financial-results・3回目）
+  - 「EC事業者 店舗事業者」（https://zeta.inc/wp-content/uploads/2025/04/0e2d5be715e959b93f497ce7e163b650.pdf・3回目）
+  - 「製品紹介/製品戦略/マーケット解説/事例紹介/ビジネスモデル」（https://zeta.inc/wp-content/uploads/2025/04/0e2d5be715e959b93f497ce7e163b650.pdf・3回目）
+  - 「ECと店舗をシームレスに繋ぎ⾃社データを連携‧活⽤」（https://zeta.inc/wp-content/uploads/2025/04/0e2d5be715e959b93f497ce7e163b650.pdf・3回目）
+  - 「紹介や⼝コミを活⽤した」（https://zeta.inc/wp-content/uploads/2025/04/0e2d5be715e959b93f497ce7e163b650.pdf・3回目）
+  - 「リアルの店舗に設置されるデジタルサイネージ」（https://zeta.inc/wp-content/uploads/2025/04/0e2d5be715e959b93f497ce7e163b650.pdf・3回目）
+  - 「びリアル店舗における優れた購買体験」（https://zeta.inc/wp-content/uploads/2025/04/0e2d5be715e959b93f497ce7e163b650.pdf・3回目）
+  - 「薄利の⼩売業界で⾼収益に湧くリテールメディア〜急拡⼤する市場と店舗内外へと多様化するチャンネル〜」（https://zeta.inc/wp-content/uploads/2025/04/0e2d5be715e959b93f497ce7e163b650.pdf・3回目）
+  - 「近年はEC事業者や店舗事業者のリテールメディアビジネスを⽀援する広告事業者」（https://zeta.inc/wp-content/uploads/2025/04/0e2d5be715e959b93f497ce7e163b650.pdf・3回目）
+- お金の形：
+  - 「ゼタグローバルは、クライアントがプラットフォームのマーケティングツールとサービスのスイートへのアクセスのためにサブスクリプションベースのモデル収益を上げています」（https://vizologi.com/ja/business-strategy-canvas/zeta-global-business-model-canvas/・3回目）
+  - 「サブスクリプションベース」（https://vizologi.com/ja/business-strategy-canvas/zeta-global-business-model-canvas/・3回目）
+  - 「サブスクリプション」（https://vizologi.com/ja/business-strategy-canvas/zeta-global-business-model-canvas/・3回目）
+  - 「そのため広告だけがコマースメディアから発⽣するビジネスではなく、さらにサブスクリプション等も期待される」（https://zeta.inc/wp-content/uploads/2025/04/0e2d5be715e959b93f497ce7e163b650.pdf・3回目）
+  - 「ストック型モデルのZETA CXシリーズ」（https://zeta.inc/wp-content/uploads/2025/04/0e2d5be715e959b93f497ce7e163b650.pdf・3回目）
+  - 「•ライセンス収益が翌期以降も安定的に」（https://zeta.inc/wp-content/uploads/2025/04/0e2d5be715e959b93f497ce7e163b650.pdf・3回目）
+  - 「ライセンスの新規売上が翌年以降」（https://zeta.inc/wp-content/uploads/2025/04/0e2d5be715e959b93f497ce7e163b650.pdf・3回目）
+  - 「※3 配当単価は配当総額を2025年2⽉25⽇現在の配当対象株式数で除した値」（https://zeta.inc/wp-content/uploads/2025/04/0e2d5be715e959b93f497ce7e163b650.pdf・3回目）
+  - 「旧ZETA売上総利益率 旧ZETA営業利益率 旧ZETA営利CAGR ZETA CX新規顧客数 ZETA CX顧客平均単価」（https://zeta.inc/wp-content/uploads/2025/04/0e2d5be715e959b93f497ce7e163b650.pdf・3回目）
+  - 「“ストック”ビジネス“ハイエンド”ターゲット」（https://zeta.inc/wp-content/uploads/2025/04/0e2d5be715e959b93f497ce7e163b650.pdf・3回目）
+  - 「“ストック”ビジネス」（https://zeta.inc/wp-content/uploads/2025/04/0e2d5be715e959b93f497ce7e163b650.pdf・3回目）
+  - 「ARPUアップ SEO向上 ロイヤリティ獲得」（https://zeta.inc/wp-content/uploads/2025/04/0e2d5be715e959b93f497ce7e163b650.pdf・3回目）
+- 売上構成：
+  - 「ゼータ・グローバルの顧客セグメント」（https://vizologi.com/ja/business-strategy-canvas/zeta-global-business-model-canvas/・3回目）
+  - 「•EC市場の成⻑によるセグメントの成⻑」（https://zeta.inc/wp-content/uploads/2025/04/0e2d5be715e959b93f497ce7e163b650.pdf・3回目）
+- 利益の源泉：
+  - 「Zetaの最大の強みは、来る「Cookieレス時代」にあります」（https://note.com/mahjong_lab/n/nd681760f6acc・3回目）
+  - 「Zeta Globalは、元AppleのCEOであるジョン・スカリー氏らが2007年に設立した、AIを強みとするマーケティング企業です」（https://note.com/mahjong_lab/n/nd681760f6acc・3回目）
+  - 「Zetaの強みである「個人に紐づく識別子」は、主に以下の3つの方法で、ユーザーの同意（オプトイン）を前提として合法的に収集されています」（https://note.com/mahjong_lab/n/nd681760f6acc・3回目）
+  - 「これは、他社が簡単に真似できない強力な参入障壁となっています」（https://note.com/mahjong_lab/n/nd681760f6acc・3回目）
+  - 「Zetaの真の強みは：」（https://note.com/mahjong_lab/n/nd681760f6acc・3回目）
+  - 「特に、Cookieレス時代という大きな環境変化を追い風にできるビジネスモデルは、長期的な競争優位性を約束するものです」（https://note.com/mahjong_lab/n/nd681760f6acc・3回目）
+  - 「しかしながら現在の高成長は、市場の移行期における一時的な機会を捉えたものである可能性が高く、5-10年後も持続可能な競争優位性を持つかは極めて不透明です」（https://note.com/mahjong_lab/n/nd681760f6acc・3回目）
+  - 「独⾃の強み、特徴を活かして成功している国内の先⾏事例」（https://zeta.inc/wp-content/uploads/2025/04/0e2d5be715e959b93f497ce7e163b650.pdf・3回目）
+  - 「営業利益率 32.6% 36.2% 45.9%」（https://zeta.inc/wp-content/uploads/2025/04/0e2d5be715e959b93f497ce7e163b650.pdf・3回目）
+  - 「グループ売上総利益率 グループ営業利益率 配当性向 ZETA CX導⼊サイト数 取り扱いUGC数」（https://zeta.inc/wp-content/uploads/2025/04/0e2d5be715e959b93f497ce7e163b650.pdf・3回目）
+  - 「旧ZETA売上総利益率 旧ZETA営業利益率 旧ZETA営利CAGR ZETA CX新規顧客数 ZETA CX顧客平均単価」（https://zeta.inc/wp-content/uploads/2025/04/0e2d5be715e959b93f497ce7e163b650.pdf・3回目）
+  - 「営業利益率は重要なKPIとして持続的な改善を実現」（https://zeta.inc/wp-content/uploads/2025/04/0e2d5be715e959b93f497ce7e163b650.pdf・3回目）
+- 沿革：
+  - 「2004年に設立され、マイクロソフトはオーストラリアのシドニーに本社を置き、アメリカ合衆国およびイギリスに...」（https://vizologi.com/ja/business-strategy-canvas/zeta-global-business-model-canvas/・3回目）
+  - 「2025年10月21日 19:50」（https://note.com/mahjong_lab/n/nd681760f6acc・3回目）
+  - 「2024年度の売上は、前年から38.0%増の約10億ドルに達しました」（https://note.com/mahjong_lab/n/nd681760f6acc・3回目）
+  - 「2026年12月期」（https://zeta.inc/ir/library/presentations・3回目）
+  - 「2025年12月期」（https://zeta.inc/ir/library/presentations・3回目）
+  - 「2024年12月期」（https://zeta.inc/ir/library/presentations・3回目）
+  - 「2024年6月期」（https://zeta.inc/ir/library/presentations・3回目）
+  - 「2023年6月期」（https://zeta.inc/ir/library/presentations・3回目）
+  - 「2022年6月期」（https://zeta.inc/ir/library/presentations・3回目）
+  - 「2021年6月期」（https://zeta.inc/ir/library/presentations・3回目）
+  - 「2020年6月期」（https://zeta.inc/ir/library/presentations・3回目）
+  - 「2019年6月期」（https://zeta.inc/ir/library/presentations・3回目）
+- 検索結果の抜粋：
+  - 「Zeta Globalの ビジネスモデル とはどのようなものですか？ — Zeta Globalの ビジネスモデル とはどのようなものですか？ Vizologi https://vizologi.com > zeta-global-business-model-canvas」（https://vizologi.com/ja/business-strategy-canvas/zeta-global-business-model-canvas/・3回目）
+  - 「Zeta Global ( ZETA ) 企業分析レポート：AIマーケティングの ... — Zeta Global ( ZETA ) 企業分析レポート：AIマーケティングの ... note https://note.com > 投資・マネー > 日本株」（https://note.com/mahjong_lab/n/nd681760f6acc・3回目）
+  - 「Zeta Global: AI-Powered Marketing Platform for Enterprises — Zeta Global: AI-Powered Marketing Platform for Enterprises Zeta Global https://www.zetaglobal.com」（https://www.zetaglobal.com/・3回目）
+  - 「【 ZETA 】AIマーケティングの ZETA - YouTube — 【 ZETA 】AIマーケティングの ZETA - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=vou4s7__zKo・3回目）
+  - 「Zeta Global「 Zeta Marketing Platform」に学ぶ大口顧客を ... — Zeta Global「 Zeta Marketing Platform」に学ぶ大口顧客を ... otsumu.co.jp https://otsumu.co.jp > ナレッジ > 企業事例」（https://otsumu.co.jp/knowledge/cases/zeta-global-marketing-platform-scaled-customers.html・3回目）
+  - 「決算説明 | ZETA INC — 決算説明 | ZETA INC ZETA CX https://zeta.inc > IR > IRライブラリ」（https://zeta.inc/ir/library/presentations・3回目）
+  - 「決算 情報 | ZETA INC — 決算 情報 | ZETA INC ZETA CX https://zeta.inc > IR」（https://zeta.inc/ir/financial-results・3回目）
+  - 「ZETA [6031]：2026年12月期 第1四半期 決算説明資料 2026 ... — ZETA [6031]：2026年12月期 第1四半期 決算説明資料 2026 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr」（https://www.nikkei.com/nkd/disclosure/tdnr/20260511522784/・3回目）
+  - 「中期経営計画 ( 事業 計画及び成  可能性に関する事項) — 中期経営計画 ( 事業 計画及び成  可能性に関する事項) ZETA CX PDF https://zeta.inc > wp-content > uploads > 2025/04」（https://zeta.inc/wp-content/uploads/2025/04/0e2d5be715e959b93f497ce7e163b650.pdf・3回目）
+  - 「ZETA 株式会社 個人投資家向けオンライン会社説明会 - YouTube — ZETA 株式会社 個人投資家向けオンライン会社説明会 - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=6-ol4zlrWZA・3回目）
+  - 「zeta ゼータ事業 - 株式会社ヒロホールディングス — zeta ゼータ事業 - 株式会社ヒロホールディングス 株式会社ヒロホールディングス https://kk-hiro.com > Business」（https://kk-hiro.com/business/zeta/・3回目）
+  - 「チーターデジタル株式会社、​​社名を「 Zeta Global Japan ... — チーターデジタル株式会社、​​社名を「 Zeta Global Japan ... Zeta Global https://www.cheetahdigital.com > Home > Press Release」（https://www.cheetahdigital.com/jp/press-release/%E3%83%81%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%80%81%E7%A4%BE%E5%90%8D%E3%82%92%E3%80%8Czeta-global-japan%E6%A0%AA/・3回目）
+- 従業員数：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部8頁・検索5回）
+- 事業内容：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部8頁・検索5回）
+- 売上高：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部8頁・検索5回）
 
 ## ＺＯＺＯ
 - 公式URL：https://corp.zozo.com/（search:yahoo_jp:ZOZO）
@@ -3055,6 +4772,118 @@
 - 事業内容：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索5回）
 - 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索5回）
 
+## ｒａｋｕｍｏ
+- 公式URL：https://rakumo.com/（search:yahoo_jp:rakumo）
+- 設立：2004年（https://shachomeikan.jp/industry_article/5901・3回目）
+- 従業員数：130名（https://shachomeikan.jp/industry_article/5901・3回目）
+- 事業内容：rakumo製品、aloop製品の開発・販売／情報通信機器、ソフトウエアの販売／上記に付随した導入支援サービス（https://shachomeikan.jp/industry_article/5901・3回目）
+- ビジネスモデル：
+  - 「サブスクリプション型のビジネスモデルであるSaaSサービスが2024年度売上の97％を占め、また、ITオフショア開発サービスはラボ型の長期契約がメインであり、継続的な収益力に強みがあるのが特徴です」（https://investor.rakumo.com/ja/ir/management/business.html・3回目）
+  - 「低解約による継続的な収益モデル（リカーリングレベニューモデル）を実現」（https://investor.rakumo.com/ja/ir/management/business.html・3回目）
+  - 「③ rakumoサービスのビジネスモデルについて」（https://kitaishihon.com/company/4060/business・3回目）
+  - 「当社グループの主要サービスである「rakumo」の収益構造は、サービス料金を顧客企業の使用期間及びユーザー数に応じて定期定額契約（サブスクリプション（*９））として課金することで、継続的な収益（リカーリングレベニュー（*10））を得ることができる「サブスクリプション型リカーリングレベニューモデル（*11）」となっております」（https://kitaishihon.com/company/4060/business・3回目）
+  - 「また、導入の容易さや安価な利用料金により、着実なユーザー数の増加、高い継続率を実現しており、多種多様な業界、中小企業から大企業に至るまで2,552社（2025年12月末時点）の企業に導入いただいており、少数の特定顧客に依存しない収益構造となっております」（https://kitaishihon.com/company/4060/business・3回目）
+  - 「［事業系統図］」（https://kitaishihon.com/company/4060/business・3回目）
+  - 「以上述べた事項を事業系統図によって示すと次のとおりであります」（https://kitaishihon.com/company/4060/business・3回目）
+  - 「リカーリングビジネスとは、一度の取引で完了するのではなく継続して取引をおこない、安定した収益を得ることができるビジネスモデル」（https://kitaishihon.com/company/4060/business・3回目）
+  - 「サービス料金を使用期間やユーザー数等に応じて定期定額契約（サブスクリプション）として課金することで、継続的な収益（リカーリングレベニュー）を得るビジネスモデル」（https://kitaishihon.com/company/4060/business・3回目）
+- 誰に：
+  - 「お客様からの信頼と評価」（https://rakumo.com/・1回目）
+  - 「rakumo カレンダー のお客様の声」（https://rakumo.com/・1回目）
+  - 「rakumo ワークフロー のお客様の声」（https://rakumo.com/・1回目）
+  - 「rakumo ボード のお客様の声」（https://rakumo.com/・1回目）
+  - 「オンプレミス型のワークフローシステムを刷新！―ユーザー側・管理者側の双方とも使い勝手が大幅に向上」（https://rakumo.com/・1回目）
+  - 「【Microsoft 365 導入企業の稟議・決裁ワークフロー実態調査】4割超が「紙・押印」や「Excel・Wordのメール回覧」で運用、担当者の5割超は専用ワークフローシステムの新規導入を希望」（https://rakumo.com/・1回目）
+  - 「ご利用中のお客様」（https://rakumo.com/・1回目）
+  - 「ご利用中のお客様」（https://rakumo.com/wp/first_gws_guide/・1回目）
+  - 「サービス料金を顧客企業の使用期間及びユーザー数に応じて定期定額契約（サブスクリプション型）として受領」（https://investor.rakumo.com/ja/ir/management/business.html・3回目）
+  - 「当社製品は、直感的に理解でき、幅広いお客様に利用しやすい操作画面やプロセスのデザインにより、原則として導入作業から運用段階まで、導入企業自ら実施いただけるよう設計しております」（https://investor.rakumo.com/ja/ir/management/business.html・3回目）
+  - 「一方で導入企業からのご要望にお応えするため、前システムからの移行作業や、関連サービスも含めた導入時の初期設定作業、管理者や各ユーザー向けの操作説明等を実施しております」（https://investor.rakumo.com/ja/ir/management/business.html・3回目）
+  - 「メインに実施している「ラボ型」のシステム開発では、顧客ごとに特定のエンジニアを確保し、専属のチームを組成の上、一定期間継続的に開発業務を行います」（https://investor.rakumo.com/ja/ir/management/business.html・3回目）
+- 何を：
+  - 「rakumo 製品」（https://rakumo.com/・1回目）
+  - 「導入支援サービス」（https://rakumo.com/・1回目）
+  - 「rakumo のサービス」（https://rakumo.com/・1回目）
+  - 「株式会社モスフードサービス」（https://rakumo.com/・1回目）
+  - 「サービス資料をダウンロードする」（https://rakumo.com/・1回目）
+  - 「全4製品が出揃い、業務効率化を強力にサポート ～」（https://rakumo.com/・1回目）
+  - 「その他 製品・ソリューション」（https://rakumo.com/・1回目）
+  - 「オフショア開発ソリューション」（https://rakumo.com/・1回目）
+  - 「製品マニュアル」（https://rakumo.com/・1回目）
+  - 「rakumo 製品」（https://rakumo.com/wp/first_gws_guide/・1回目）
+  - 「その他 製品・ソリューション」（https://rakumo.com/wp/first_gws_guide/・1回目）
+  - 「オフショア開発ソリューション」（https://rakumo.com/wp/first_gws_guide/・1回目）
+- どうやって売るか：
+  - 「rakumo のご紹介資料」（https://rakumo.com/・1回目）
+  - 「rakumo 販売パートナー」（https://rakumo.com/・1回目）
+  - 「パートナープログラム」（https://rakumo.com/・1回目）
+  - 「ライセンスパートナー」（https://rakumo.com/・1回目）
+  - 「デプロイ ・ API開発パートナー」（https://rakumo.com/・1回目）
+  - 「紹介プログラム」（https://rakumo.com/・1回目）
+  - 「rakumo 販売パートナー」（https://rakumo.com/wp/first_gws_guide/・1回目）
+  - 「パートナープログラム」（https://rakumo.com/wp/first_gws_guide/・1回目）
+  - 「ライセンスパートナー」（https://rakumo.com/wp/first_gws_guide/・1回目）
+  - 「デプロイ ・ API開発パートナー」（https://rakumo.com/wp/first_gws_guide/・1回目）
+  - 「紹介プログラム」（https://rakumo.com/wp/first_gws_guide/・1回目）
+  - 「版rakumo及びSalesforce版rakumo）、gamba!、SmartVision IR等の開発・販売、他社ライセンス（Google Workspace等）の代理店販売を実施しております」（https://investor.rakumo.com/ja/ir/management/business.html・3回目）
+- お金の形：
+  - 「ライセンスパートナー」（https://rakumo.com/・1回目）
+  - 「ライセンスパートナー」（https://rakumo.com/wp/first_gws_guide/・1回目）
+  - 「サブスクリプション型のビジネスモデルであるSaaSサービスが2024年度売上の97％を占め、また、ITオフショア開発サービスはラボ型の長期契約がメインであり、継続的な収益力に強みがあるのが特徴です」（https://investor.rakumo.com/ja/ir/management/business.html・3回目）
+  - 「版rakumo及びSalesforce版rakumo）、gamba!、SmartVision IR等の開発・販売、他社ライセンス（Google Workspace等）の代理店販売を実施しております」（https://investor.rakumo.com/ja/ir/management/business.html・3回目）
+  - 「サブスクリプション型リカーリングレベニューモデルとなっている点が特徴となります」（https://investor.rakumo.com/ja/ir/management/business.html・3回目）
+  - 「サービス料金を顧客企業の使用期間及びユーザー数に応じて定期定額契約（サブスクリプション型）として受領」（https://investor.rakumo.com/ja/ir/management/business.html・3回目）
+  - 「低解約による継続的な収益モデル（リカーリングレベニューモデル）を実現」（https://investor.rakumo.com/ja/ir/management/business.html・3回目）
+  - 「当社グループの主要サービスは、(1) 当社ライセンスサービス（*１）の開発・提供、他社ライセンスサービスの提供及び当社ライセンスサービスの導入支援を行う「rakumoサービス」、(2) グループ会社のライセンスサービスの開発・提供及びベトナムを拠点に受託開発及びラボ型のシステム開発等を行う「その他サービス」であります」（https://kitaishihon.com/company/4060/business・3回目）
+  - 「企業向けグループウェア製品「rakumo」の開発・販売、rakumoサービスの導入支援等のソリューションサービスのほか、他社ライセンスの代理店販売を実施しております」（https://kitaishihon.com/company/4060/business・3回目）
+  - 「当社ライセンスサービスの導入支援等を行っております」（https://kitaishihon.com/company/4060/business・3回目）
+  - 「ｅ．他社ライセンスの販売」（https://kitaishihon.com/company/4060/business・3回目）
+  - 「Google社のGoogle Workspaceライセンス販売のほか、関連サービスの他社ライセンス販売を行っております」（https://kitaishihon.com/company/4060/business・3回目）
+- 売上構成：
+  - 「セグメント情報」（https://kitaishihon.com/company/4060/business・3回目）
+  - 「※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります」（https://kitaishihon.com/company/4060/business・3回目）
+  - 「※セグメントの売上や利益は、企業毎にその定義が異なる場合があります」（https://kitaishihon.com/company/4060/business・3回目）
+  - 「（単一セグメント）」（https://kitaishihon.com/company/4060/business・3回目）
+  - 「単一セグメントの企業の場合は、連結（あるいは単体）の売上と営業利益を反映しています」（https://kitaishihon.com/company/4060/business・3回目）
+  - 「セグメント名」（https://kitaishihon.com/company/4060/business・3回目）
+  - 「売上構成比率」（https://kitaishihon.com/company/4060/business・3回目）
+  - 「利益構成比率」（https://kitaishihon.com/company/4060/business・3回目）
+  - 「なお、当社グループは、ITビジネスソリューション事業の単一セグメントであるため、セグメント別の記載を省略しております」（https://kitaishihon.com/company/4060/business・3回目）
+  - 「販売面では、業界セグメント特化型マーケティングにおける各種施策（Google Workspace（以下「GWS」という」（https://kitaishihon.com/company/4060/business・3回目）
+  - 「なお、当社グループはITビジネスソリューション事業の単一セグメントであるため、セグメントごとの記載はしておりませんが、サービス別の経営成績を開示しております」（https://kitaishihon.com/company/4060/business・3回目）
+  - 「なお、前連結会計年度のセグメント情報は、変更後の区分方法に基づき開示しております」（https://kitaishihon.com/company/4060/business・3回目）
+- 利益の源泉：
+  - 「サブスクリプション型のビジネスモデルであるSaaSサービスが2024年度売上の97％を占め、また、ITオフショア開発サービスはラボ型の長期契約がメインであり、継続的な収益力に強みがあるのが特徴です」（https://investor.rakumo.com/ja/ir/management/business.html・3回目）
+  - 「ーー競合他社と比較した際の、貴社ならではの強みを教えてください」（https://shachomeikan.jp/industry_article/5901・3回目）
+  - 「導入時の支援をほとんど行わなくても、お客様が直感的に使いこなせる点が大きな強みです」（https://shachomeikan.jp/industry_article/5901・3回目）
+- 沿革：
+  - 「2026年12月期 第2四半期」（https://investor.rakumo.com/ja/ir/library/result.html・3回目）
+  - 「2026年12月期 第1四半期」（https://investor.rakumo.com/ja/ir/library/result.html・3回目）
+  - 「2025年12月期」（https://investor.rakumo.com/ja/ir/library/result.html・3回目）
+  - 「2025年12月期 第3四半期」（https://investor.rakumo.com/ja/ir/library/result.html・3回目）
+  - 「2025年12月期 第2四半期」（https://investor.rakumo.com/ja/ir/library/result.html・3回目）
+  - 「2025年12月期 第1四半期」（https://investor.rakumo.com/ja/ir/library/result.html・3回目）
+  - 「2024年12月期」（https://investor.rakumo.com/ja/ir/library/result.html・3回目）
+  - 「2024年12月期 第3四半期」（https://investor.rakumo.com/ja/ir/library/result.html・3回目）
+  - 「2024年12月期 第2四半期」（https://investor.rakumo.com/ja/ir/library/result.html・3回目）
+  - 「2024年12月期 第1四半期」（https://investor.rakumo.com/ja/ir/library/result.html・3回目）
+  - 「2023年12月期」（https://investor.rakumo.com/ja/ir/library/result.html・3回目）
+  - 「2023年12月期 第3四半期」（https://investor.rakumo.com/ja/ir/library/result.html・3回目）
+- 検索結果の抜粋：
+  - 「事業概要 | 経営方針 | IR・投資家情報 | rakumo 株式会社 — 事業概要 | 経営方針 | IR・投資家情報 | rakumo 株式会社 rakumo ラクモ https://investor.rakumo.com > management > business」（https://investor.rakumo.com/ja/ir/management/business.html・3回目）
+  - 「rakumo 【4060】の事業内容 - キタイシホン — rakumo 【4060】の事業内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/4060/business・3回目）
+  - 「SaaSサービスの特徴 - IR・投資家情報 - rakumo — SaaSサービスの特徴 - IR・投資家情報 - rakumo rakumo ラクモ https://investor.rakumo.com > management > service」（https://investor.rakumo.com/ja/ir/management/service.html・3回目）
+  - 「決算資料 | IRライブラリ | IR・投資家情報 | rakumo 株式会社 — 決算資料 | IRライブラリ | IR・投資家情報 | rakumo 株式会社 rakumo ラクモ https://investor.rakumo.com > library > result」（https://investor.rakumo.com/ja/ir/library/result.html・3回目）
+  - 「IR・投資家情報 - rakumo — IR・投資家情報 - rakumo rakumo ラクモ https://investor.rakumo.com > ...」（https://investor.rakumo.com/ja/ir.html・3回目）
+  - 「rakumo 株式会社 2026年12月期 第1四半期 決算説明 会 - IRTV — rakumo 株式会社 2026年12月期 第1四半期 決算説明 会 - IRTV irtv.jp https://irtv.jp > irtv_live_new > rakumo株式会社　2026...」（https://irtv.jp/irtv_live_new/rakumo%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%80%802026%E5%B9%B412%E6%9C%88%E6%9C%9F-%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E4%BC%9A・3回目）
+  - 「rakumo （4060）の 決算 発表 資料 一覧 - IRBANK — rakumo （4060）の 決算 発表 資料 一覧 - IRBANK IRBANK https://irbank.net > 情報・通信業 > rakumo」（https://irbank.net/E35930/reports・3回目）
+  - 「company - rakumo 株式会社 — company - rakumo 株式会社 rakumo株式会社 https://corporate.rakumo.com > company」（https://corporate.rakumo.com/company/・3回目）
+  - 「rakumo 【4060】の 事業 内容 - キタイシホン — rakumo 【4060】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/4060/business・3回目）
+  - 「rakumo ラクモ | Google Workspace / Microsoft 365 を拡張 ... — rakumo ラクモ | Google Workspace / Microsoft 365 を拡張 ... rakumo ラクモ https://rakumo.com」（https://rakumo.com/・3回目）
+  - 「rakumo の主なKPIや市場規模・業績推移をまとめてを解説 — rakumo の主なKPIや市場規模・業績推移をまとめてを解説 Scale Cloud https://scalecloud.jp > blog > rakumo_kpi」（https://scalecloud.jp/blog/rakumo_kpi/・3回目）
+  - 「rakumo とラクス、「 rakumo ワークフロー」「楽楽精算」の ... — rakumo とラクス、「 rakumo ワークフロー」「楽楽精算」の ... PR TIMES https://prtimes.jp > 商品サービス」（https://prtimes.jp/main/html/rd/p/000000048.000015698.html・3回目）
+- 売上高：記載なし（3回確認済み：公式2頁／PDF・画像3件／外部8頁・検索5回）
+
 ## ｓａｎｔｅｃ　Ｈｏｌｄｉｎｇｓ
 - 公式URL：https://www.santec.com/（search:ddgs:google:santec Holdings 株式会社）
 - 設立：1979年8月25日（https://www.santec.com/jp/about/company/index.html・1回目）
@@ -3358,6 +5187,223 @@
 - 売上高：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部2頁・検索5回）
 - 売上構成：記載なし（3回確認済み：公式20頁／PDF・画像4件／外部2頁・検索5回）
 
+## くすりの窓口
+- 公式URL：特定できず（not_found）
+- ビジネスモデル：
+  - 「2 ビジネスモデル 9 - 21」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「3 収益構造 22 - 27」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「ビジネスモデル ｜くすりの窓口の事業内容」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「（事業系統図）」（https://kitaishihon.com/company/5592/business・3回目）
+  - 「（新事業系統図）」（https://kitaishihon.com/company/5592/business・3回目）
+  - 「くすりの窓口の田中会長に、ビジネスモデル、事業内容についてインタビューしました」（https://e-actionlearning.jp/interview/47・3回目）
+  - 「その過程で、ドラッグストア様と従来の調剤薬局様とではビジネスモデルが違うのだな、と実践しながら分かっていった、という側面がございます」（https://e-actionlearning.jp/interview/47・3回目）
+  - 「メディア事業のビジネスモデル」（https://e-actionlearning.jp/interview/47・3回目）
+  - 「こちらの収益モデルも、ストック売上とショット売上です」（https://e-actionlearning.jp/interview/47・3回目）
+- 誰に：
+  - 「Ⅰ . 一回のお客様を一生のお客様に」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「一般ユーザー（患者）向けに提供する調剤薬局の検索・予約サイト/アプリ「EPARKくすりの窓口」、電子お薬手帳アプリ「EPARKお薬手帳」」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「に関する事業（これまで獲得してきた顧客を」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「みんなのお薬箱事業の顧客開拓を行う」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「医療機関向け「みんなの共同仕入れサービス」の顧客開」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「EPARK会員数は現在4,000万人を突破しており、当社やEPARKグループ会社の各種」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「予約サービスを利用する顧客基盤となっています」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「護、個人ユーザー（患者）をつなぐプラットフォーム」としての機能の拡充を図っ」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「予約・決済・顧客管理を一元化し患者のリピート来局を支援す」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「累計利用者数」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「Pharmacy Support：薬局業界の患者リピート来店促進に特化した顧客管理システム」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「予約管理・お薬手帳管理・顧客管理を一元化し、薬局経営の強力なサポートを実現」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+- 何を：
+  - 「Ⅱ . 提供するサービス・商品は品質、シェアNO.1 を目指します」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「は、処方薬受け取り予約機能やPHR（Personal Health Record）管理機能等を有し、利便性と患者の健康管理に役立つサービスを提供していま」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「また、当社が「みんなの共同仕入れサービス（e-オーダーシステム）」、不動在庫となってしまった医薬品を全国の調剤薬局同士が売買できる」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「マッチングサービス「みんなのお薬箱」、基幹システムなどの各種ITプラットフォームを提供することで、医療体系変革の最前線に立つ調剤薬」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「薬局・医療・介護向けソリューションの提供」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「ＳＢＭグルメソリューションズ株式会社ソリューション事業部長」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「社となった後、薬局業種向けEPARKサービス」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「「みんなのお薬箱」サービスにおける医薬品」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「よる薬局業種向けEPARKサービスの提供」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「「みんなの共同仕入れサービス」における価格交渉を行」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「医療機関向け「みんなの共同仕入れサービス」の顧客開」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「サービスを提供している企業です」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+- どうやって売るか：
+  - 「全国の調剤薬局が約6万店舗あり、そのうち約33％が当社サ」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「イト/アプリ経由で処方箋受取りの事前予約をご利用頂ける店舗です」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「※未導入店舗はQRコード読込や写真で処方されたお薬情報を登録できます」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「※ ケア記録アプリは(株)介護サプリが提供しているシステムで当社が代理店販売を行っております」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「現在当社のインターネットを利用した処方薬受取り予約ができる店舗は約2万店舗」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「全国の調剤薬局が約6万店舗※2あり、予約可能な店舗シェアは約」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「引き続き獲得を進め予約可能店舗数の拡大を図ります」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「当社の予約可能店舗に占めるインターネット予約利用率は平均1.9％となっており」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「利用店舗比率」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「代理店販売と自社開発の「コメットケア」を対象規模に応じて販売しております」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「※1 薬局数：60,171店舗」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「当社サービスを利用する業態別施設・店舗数」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+- お金の形：
+  - 「の同社サービスプラットフォームを利用しており、その対価として利用料を支払う」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「全国の薬局のデッドストック(年間280億円※１)を有効利用し、各薬局による廃棄を削減して売り買い双方の薬局のコスト削減を図るサ」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「強固な顧客基盤と、継続的な売上をもたらすストック型事業を重視する事業モデルをベースに成長を維持しています」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「その後順調にストック売上が増加し2019年3月期に黒字となっています」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「」と「ストック売上」に区分し、粗利益についても事業ごとに「ショット粗利」と」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「「ストック粗利」に区分して、その動向・推移を把握しています」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「トック売上」は月額利用料などの固定金額及び処方薬受取り予約売上や共同仕入れ」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「サービスの手数料など利用料に応じて変動する金額として契約に基づいて将来にわ」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「ストック粗利」は「ストック売上」から当該サービスを維持提供するためのコスト」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「当社は、契約に基づいて将来にわたって継続的な売上・収益をもたらすストック型」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「当社が重要視している「ストック」について」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「ストック売上 ショット売上」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+- 売上構成：
+  - 「3つの事業のバランスの良い売上構成を実現しつつあり、連結営業利益率も上昇基調にあります」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「売上比率は77％、82％、76」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「2023.3期の売上構成比」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「セグメント情報」（https://kitaishihon.com/company/5592/business・3回目）
+  - 「※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります」（https://kitaishihon.com/company/5592/business・3回目）
+  - 「※セグメントの売上や利益は、企業毎にその定義が異なる場合があります」（https://kitaishihon.com/company/5592/business・3回目）
+  - 「（単一セグメント）」（https://kitaishihon.com/company/5592/business・3回目）
+  - 「単一セグメントの企業の場合は、連結（あるいは単体）の売上と営業利益を反映しています」（https://kitaishihon.com/company/5592/business・3回目）
+  - 「セグメント名」（https://kitaishihon.com/company/5592/business・3回目）
+  - 「売上構成比率」（https://kitaishihon.com/company/5592/business・3回目）
+  - 「利益構成比率」（https://kitaishihon.com/company/5592/business・3回目）
+  - 「当社グループは単一セグメントであるため、セグメント別の記載はしておりませんが、主に以下の４つの事業を運営しております」（https://kitaishihon.com/company/5592/business・3回目）
+- 利益の源泉：
+  - 「また、当社が「みんなの共同仕入れサービス（e-オーダーシステム）」、不動在庫となってしまった医薬品を全国の調剤薬局同士が売買できる」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「みんなのお薬箱事業は、薬局の医薬品調達額の削減、 医薬品卸の流通改善、在庫管理の業務効率化と不動在庫」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「薬局の在庫管理と医薬品の自動発注システムを提供」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「不動在庫売買のプラットフォームを提供」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「②eオーダーシステム（薬局の在庫管理と医薬品の自動発注システム提供）」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「③みんなのお薬箱（不動在庫売買のプラットフォーム提供）」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「在庫状況から必要な」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「オンライン発注率向上により在庫の適正化が図れ、」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「AIを活用した在庫管理自動発注システム」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「eオーダー：薬局や医療機関における医薬品の在庫管理及び自動発注のシステム」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「店であれば自動的に卸会社に発注し、薬局等の過剰在庫抑制、欠品防止、薬剤師の事務負担軽減を図ります」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「在庫削減量は、弊社自動発注システム導入企業の導入前月末在庫と導入後月末在庫の単月比較したレンジ」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+- 沿革：
+  - 「2004年9月1日（2015年8月より薬局事業スタート）」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「2000年5月」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「2011年5月」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「2012年6月」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「2012年7月」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「2013年6月」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「2015年2月」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「2015年3月」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「2015年11月」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「2016年9月」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「2017年8月」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「2018年9月」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+- 検索結果の抜粋：
+  - 「パートナープログラム | 株式会社 くすりの窓口 — パートナープログラム | 株式会社 くすりの窓口 株式会社くすりの窓口 https://kusurinomadoguchi.co.jp > partner_program」（https://kusurinomadoguchi.co.jp/service/partner_program/・3回目）
+  - 「株式会社 くすりの窓口 — 株式会社 くすりの窓口 日本取引所グループ PDF https://www2.jpx.co.jp > disc」（https://www2.jpx.co.jp/disc/55920/140120231003562331.pdf・3回目）
+  - 「【 くすりの窓口 （5592）】投資家向け企業分析レポート - note — 【 くすりの窓口 （5592）】投資家向け企業分析レポート - note note https://note.com > 投資・マネー > 日本株」（https://note.com/kabu_times/n/n04f8d83cfcb4・3回目）
+  - 「くすりの窓口 (5592) 田中会長インタビュー - バリュートレンド — くすりの窓口 (5592) 田中会長インタビュー - バリュートレンド e-actionlearning.jp https://e-actionlearning.jp > interview」（https://e-actionlearning.jp/interview/47・3回目）
+  - 「くすりの窓口 【5592】の事業内容 - キタイシホン — くすりの窓口 【5592】の事業内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/5592/business・3回目）
+  - 「決算説明資料 | IR(投資家情報) | 株式会社 くすりの窓口 — 決算説明資料 | IR(投資家情報) | 株式会社 くすりの窓口 株式会社くすりの窓口 https://kusurinomadoguchi.co.jp > settlement_document」（https://kusurinomadoguchi.co.jp/ir/library/settlement_document/・3回目）
+  - 「IR(投資家情報) | 株式会社 くすりの窓口 — IR(投資家情報) | 株式会社 くすりの窓口 株式会社くすりの窓口 https://kusurinomadoguchi.co.jp > ...」（https://kusurinomadoguchi.co.jp/ir/・3回目）
+  - 「【 くすりの窓口 】[5592]IR情報 中期経営計画や 決算 短信 | 日経 ... — 【 くすりの窓口 】[5592]IR情報 中期経営計画や 決算 短信 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo」（https://www.nikkei.com/nkd/company/kigyo/?scode=5592・3回目）
+  - 「くすりの窓口 、ストック売上の積み上げで営業利益 37％増 ... — くすりの窓口 、ストック売上の積み上げで営業利益 37％増 ... ログミーFinance https://finance.logmi.jp > articles」（https://finance.logmi.jp/articles/384828・3回目）
+  - 「くすりの窓口 【5592】の 事業 内容 - キタイシホン — くすりの窓口 【5592】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/5592/business・3回目）
+  - 「株式会社 くすりの窓口 — 株式会社 くすりの窓口 株式会社くすりの窓口 https://kusurinomadoguchi.co.jp」（https://kusurinomadoguchi.co.jp/・3回目）
+  - 「【 くすりの窓口 （5592）銘柄分析】 医療DX進展を追い風に ... — 【 くすりの窓口 （5592）銘柄分析】 医療DX進展を追い風に ... note https://note.com > 投資・マネー > 日本株」（https://note.com/stock1/n/nbb44ca9ce83e・3回目）
+- 設立：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）
+- 従業員数：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）
+- 事業内容：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）
+- 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）
+
+## アイ・アールジャパンホールディングス
+- 公式URL：https://www.irjapan.jp/（search:yahoo_jp:アイ・アールジャパンホールディングス）
+- 設立：2007年10月（https://www.irjapan.net/corporate/・3回目）
+- 従業員数：111,720 0.62（https://www.irjapan.jp/ir_info/stock/market_data.html・1回目）
+- 従業員数：8名 112名（https://my-vision.co.jp/consultant/other/firms/irijapan/irjapan-salary・3回目）
+- 売上高：6.2%増（https://my-vision.co.jp/consultant/other/firms/irijapan/irjapan-salary・3回目）
+- 売上高：8,402 6,012 5,664 5,783 6,141（https://www.nikkei.com/nkd/company/kessan/?scode=6035・3回目）
+- 売上高：3,080 3,067 2,923 3,083 3,414（https://www.nikkei.com/nkd/company/kessan/?scode=6035・3回目）
+- ビジネスモデル：
+  - 「資本市場の今後の劇的な変化に一気通貫で対応できる唯一無二のビジネスモデルを構築」（https://www.irjapan.jp/corporate/business.html・1回目）
+  - 「独自の収益構造や専門性に特化した事業モデル、成果を評価する人事方針」（https://my-vision.co.jp/consultant/other/firms/irijapan/irjapan-salary・3回目）
+  - 「各社のビジネスモデルやインセンティブ比率の違いを把握することで、同社の報酬体系が持つ立ち位置をより客観的に理解できます」（https://my-vision.co.jp/consultant/other/firms/irijapan/irjapan-salary・3回目）
+  - 「しかし、完全成功報酬の比率が極めて高いM&A仲介各社とは根本的にビジネスモデルが異なります」（https://my-vision.co.jp/consultant/other/firms/irijapan/irjapan-salary・3回目）
+- 誰に：
+  - 「お客様（株式公開企業、投資家、市場関係者）の公正な資本競争力の向上とグローバルな資本経済の発展に貢献することを企業使命とする」（https://www.irjapan.jp/group/philosophy.html・1回目）
+  - 「当該リンク先ウェブサイトのご利用は、利用者ご自身の責任においておこなってください」（https://www.irjapan.jp/ir_info/exemption.html・1回目）
+  - 「IRJ グループの顧客の利益が不当に害されることを可及的に防止するべく、 「アイ・アール」（https://www.irjapan.jp/assets/document/basic-policy.pdf・2回目）
+  - 「「IRJ グループ利益相反管理方針」は、顧客の利益を不当に害するおそれのある取引（以」（https://www.irjapan.jp/assets/document/basic-policy.pdf・2回目）
+  - 「）を特定及び類型化し、顧客」（https://www.irjapan.jp/assets/document/basic-policy.pdf・2回目）
+  - 「(1) 顧客と IRJ グループ又は他の顧客と利害が対立している場合において、一方又は双方」（https://www.irjapan.jp/assets/document/basic-policy.pdf・2回目）
+  - 「の顧客の利益を不当に害するおそれのある取引（対立型）」（https://www.irjapan.jp/assets/document/basic-policy.pdf・2回目）
+  - 「(2) 顧客と IRJ グループ又は他の顧客とが同一の対象に対して競合する場合において、顧」（https://www.irjapan.jp/assets/document/basic-policy.pdf・2回目）
+  - 「(3) IRJ グループが保有する未公表の情報を利用して IRJ グループ又は特定の顧客を利す」（https://www.irjapan.jp/assets/document/basic-policy.pdf・2回目）
+  - 「る結果として、顧客の利益を不当に害するおそれのある取引（情報利用型）」（https://www.irjapan.jp/assets/document/basic-policy.pdf・2回目）
+  - 「されるおそれのある顧客との取引を行う部署（業務担当者）を分離する方法、その他」（https://www.irjapan.jp/assets/document/basic-policy.pdf・2回目）
+  - 「(2) 対象取引又は対象取引によって利益が不当に害される又は害されるおそれのある顧客」（https://www.irjapan.jp/assets/document/basic-policy.pdf・2回目）
+- 何を：
+  - 「「Power of Equity」に関する高度かつ多様なソリューションを」（https://www.irjapan.jp/・1回目）
+  - 「実質株主判明調査を基軸として、機関株主とのエンゲージメント活動支援や個人株主対策アドバイザリー等、幅広いソリューションを提供します」（https://www.irjapan.jp/・1回目）
+  - 「数多くの高度な投資銀行案件の実績を有する専門チームが、いずれの金融系列に属さない独立系の強みを活かし、徹底的にクライアントサイドに立ったソリューションを提供します」（https://www.irjapan.jp/・1回目）
+  - 「最近、不特定の方を対象に、当社グループの従業員を名乗り、未公開株式や上場株式等の金融商品の購入等を勧める事例や架空の債券を請求する事例が報告されています」（https://www.irjapan.jp/・1回目）
+  - 「アイ・アール ジャパンホールディングスでは、金融商品の購入等を勧めるような行為は一切行っておりません」（https://www.irjapan.jp/・1回目）
+  - 「また、グループ企業であるアイ・アール ジャパンにおいても、不特定の方への金融商品の勧誘等は行っておりません」（https://www.irjapan.jp/・1回目）
+  - 「株式会社アイ・アールジャパンホールディングスは、「Power of Equity」に関する高度かつ多様なソリューションを提供することで、日本企業の企業価値向上に貢献いたします」（https://www.irjapan.jp/group/philosophy.html・1回目）
+  - 「第一種金融商品取引業者登録「関東財務局長（金商）第2624号」」（https://www.irjapan.jp/corporate/corp_history.html・1回目）
+  - 「第一種金融商品取引業者変更登録（金融商品取引法第2条第8項第9号及び第2号に定める業務）」（https://www.irjapan.jp/corporate/corp_history.html・1回目）
+  - 「同社システム＆サービスビジネス統轄本部チーフビジネスリスクマネジメントオフィサー（CBRO）」（https://www.irjapan.jp/corporate/directors.html・1回目）
+  - 「当社グループが基軸として掲げる「Power of Equity®（株式議決権の力）」という基軸概念の通り、株主の圧力が企業の持続性や経営構造を大きく左右する局面がより一層顕在化している環境下において、有事対応における迅速性と実効性を兼ね備えた対応力、データオリエンティッドな唯一無二のデータベース、Proxy・TOB・M&Aに精通したプロフェッショナル集団など、金融グループに属さない完全独立系アドバイザーとして、当社グループの特長が発揮される局面が増加しており、専門性の高い唯一無二のコンサルティングサービスの必要性が、あらためて強く認識されつつあるものと捉えております」（https://www.irjapan.jp/ir_info/management/ceo_message.html・1回目）
+  - 「なお、2027年3月期の配当は、連結配当性向50％を目処としつつ、当社の配当原資と、子会社である株式会社アイ・アールジャパン（以下、IRJ）が第一種金融商品取引業者であることから、IRJの自己資本を安定的な水準に維持する必要性を勘案しながら、総合的に決定していきます」（https://www.irjapan.jp/ir_info/stock/premium.html・1回目）
+- どうやって売るか：
+  - 「アイ・アールジャパンホールディングスの会社概要についてのご紹介です」（https://www.irjapan.jp/・1回目）
+  - 「アイ・アールジャパンホールディングスの役員のご紹介です」（https://www.irjapan.jp/・1回目）
+  - 「アイ・アールジャパンホールディングスの沿革についてのご紹介です」（https://www.irjapan.jp/・1回目）
+  - 「アイ・アールジャパングループの事業内容のご紹介です」（https://www.irjapan.jp/・1回目）
+  - 「エグゼクティブコンサルタント紹介」（https://my-vision.co.jp/consultant/other/firms/irijapan/irjapan-salary・3回目）
+  - 「早稲田大学を卒業後、JTB、オリックス生命を経てコンサルティング転職に特化した人材紹介会社へ入社」（https://my-vision.co.jp/consultant/other/firms/irijapan/irjapan-salary・3回目）
+  - 「M&Aキャピタルパートナーズ」（https://my-vision.co.jp/consultant/other/firms/irijapan/irjapan-salary・3回目）
+  - 「数値を比較すると、アイアールジャパンの約925万円は、M&A仲介大手のストライクやM&Aキャピタルパートナーズ、VC大手のジャフコ グループの数値を下回る水準となっています」（https://my-vision.co.jp/consultant/other/firms/irijapan/irjapan-salary・3回目）
+  - 「M&Aキャピタルパートナーズ株式会社「」（https://my-vision.co.jp/consultant/other/firms/irijapan/irjapan-salary・3回目）
+  - 「【2026年版】コンサルの大手企業一覧！日系から外資まで業務領域別に紹介」（https://my-vision.co.jp/consultant/other/firms/irijapan/irjapan-salary・3回目）
+  - 「シンクタンクへの転職ガイド【2026年最新】未経験の難易度や求人を紹介」（https://my-vision.co.jp/consultant/other/firms/irijapan/irjapan-salary・3回目）
+  - 「中長期での支援を前提としたキャリアの「パートナー」としてご支援いたします」（https://my-vision.co.jp/consultant/other/firms/irijapan/irjapan-salary・3回目）
+- お金の形：
+  - 「買取手数料:」（https://www.irjapan.jp/ir_info/stock/market_data.html・1回目）
+  - 「株式の売買の委託に係る手数料相当額として別途定める額」（https://www.irjapan.jp/ir_info/stock/market_data.html・1回目）
+  - 「高単価な専門サービスを提供している」（https://my-vision.co.jp/consultant/other/firms/irijapan/irjapan-salary・3回目）
+  - 「難易度が高く単価の設定も大きい案件を多く請け負っている」（https://my-vision.co.jp/consultant/other/firms/irijapan/irjapan-salary・3回目）
+  - 「しかし、完全成功報酬の比率が極めて高いM&A仲介各社とは根本的にビジネスモデルが異なります」（https://my-vision.co.jp/consultant/other/firms/irijapan/irjapan-salary・3回目）
+  - 「2025年4月入社の新卒社員より、初任給は月額40万円に引き上げられました」（https://my-vision.co.jp/consultant/other/firms/irijapan/irjapan-salary・3回目）
+  - 「あわせて、月額50,000円を上限とする通勤交通費や、証券アナリスト二次資格等の取得時手当といったサポートも用意されています」（https://my-vision.co.jp/consultant/other/firms/irijapan/irjapan-salary・3回目）
+- 売上構成：
+  - 「ここでは、同社が展開するビジネスの全体像や売上構成、親会社である持株会社との組織構造の違いについて詳しく解説します」（https://my-vision.co.jp/consultant/other/firms/irijapan/irjapan-salary・3回目）
+  - 「続いて、部門ごとの売上構成と金額の割合は以下のとおりです」（https://my-vision.co.jp/consultant/other/firms/irijapan/irjapan-salary・3回目）
+  - 「売上高の9割以上を同セグメントが占めており、専門性の高い助言業務が収益を大きく牽引している」（https://my-vision.co.jp/consultant/other/firms/irijapan/irjapan-salary・3回目）
+  - 「セグメント情報」（https://www.nikkei.com/nkd/company/kessan/?scode=6035・3回目）
+- 利益の源泉：
+  - 「数多くの高度な投資銀行案件の実績を有する専門チームが、いずれの金融系列に属さない独立系の強みを活かし、徹底的にクライアントサイドに立ったソリューションを提供します」（https://www.irjapan.jp/・1回目）
+  - 「売上高営業利益率」（https://www.irjapan.jp/ir_info/results.html・1回目）
+  - 「HRBPとして習得した組織設計、採用、評価などの豊富な人事領域経験を生かした支援に強みを持つ」（https://my-vision.co.jp/consultant/other/firms/irijapan/irjapan-salary・3回目）
+  - 「特定の金融グループに属さない独立系のアドバイザーとして中立的な支援を提供できる強みが、顧客からの安定した需要獲得につながっています」（https://my-vision.co.jp/consultant/other/firms/irijapan/irjapan-salary・3回目）
+  - 「直近の業績では営業利益の増加傾向が見られ、営業利益率も上昇を示しています」（https://my-vision.co.jp/consultant/other/firms/irijapan/irjapan-salary・3回目）
+  - 「独自のニッチな専門領域で強みを持つ一方で、景気動向や企業の法務・財務戦略の変化に伴う影響も少なくありません」（https://my-vision.co.jp/consultant/other/firms/irijapan/irjapan-salary・3回目）
+  - 「営業利益率（%）」（https://www.nikkei.com/nkd/company/kessan/?scode=6035・3回目）
+- 沿革：
+  - 「アイ・アールジャパンホールディングスの沿革についてのご紹介です」（https://www.irjapan.jp/・1回目）
+  - 「1984年12月」（https://www.irjapan.jp/group/company.html・1回目）
+  - 「2021年2月」（https://www.irjapan.jp/group/company.html・1回目）
+  - 「2022年5月」（https://www.irjapan.jp/group/company.html・1回目）
+  - 「2015年2月」（https://www.irjapan.jp/corporate/corp_prof.html・1回目）
+  - 「沿革｜企業情報｜株式会社アイ・アールジャパンホールディングス」（https://www.irjapan.jp/corporate/corp_history.html・1回目）
+  - 「また、当社の完全子会社アイ・アールジャパンの沿革は以下のとおりです」（https://www.irjapan.jp/corporate/corp_history.html・1回目）
+  - 「アイ・アールジャパンの沿革」（https://www.irjapan.jp/corporate/corp_history.html・1回目）
+  - 「旧アイ・アールジャパン（解散会社）の沿革」（https://www.irjapan.jp/corporate/corp_history.html・1回目）
+  - 「1982年11月」（https://www.irjapan.jp/corporate/directors.html・1回目）
+  - 「1997年10月」（https://www.irjapan.jp/corporate/directors.html・1回目）
+  - 「2001年1月」（https://www.irjapan.jp/corporate/directors.html・1回目）
+- 検索結果の抜粋：
+  - 「事業内容｜企業情報 - アイ・アールジャパンホールディングス — 事業内容｜企業情報 - アイ・アールジャパンホールディングス 株式会社アイ・アール ジャパンホールディングス https://www.irjapan.jp > corporate > business」（https://www.irjapan.jp/corporate/business.html・3回目）
+  - 「決算 短信｜IRライブラリー｜株主・投資家情報 — 決算 短信｜IRライブラリー｜株主・投資家情報 株式会社アイ・アール ジャパンホールディングス https://www.irjapan.jp > ir_info > library > financial_results」（https://www.irjapan.jp/ir_info/library/financial_results.html・3回目）
+  - 「アイ ・ アールジャパンホールディングス - 日本経済新聞 — アイ ・ アールジャパンホールディングス - 日本経済新聞 日本経済新聞 https://www.nikkei.com > nkd > company > kessan」（https://www.nikkei.com/nkd/company/kessan/?scode=6035・3回目）
+  - 「株式会社 アイ ・ アール ジャパンホールディングス — 株式会社 アイ ・ アール ジャパンホールディングス 株式会社アイ・アール ジャパンホールディングス https://www.irjapan.jp」（https://www.irjapan.jp/・3回目）
+  - 「アイ ・ アールジャパンホールディングス (6035) - 決算 情報 — アイ ・ アールジャパンホールディングス (6035) - 決算 情報 みんかぶ https://minkabu.jp > stock > settlement」（https://minkabu.jp/stock/6035/settlement・3回目）
+  - 「企業情報｜株式会社 アイ ・ アールジャパンホールディングス — 企業情報｜株式会社 アイ ・ アールジャパンホールディングス 株式会社アイ・アール ジャパンホールディングス https://www.irjapan.jp > corporate > corp_prof」（https://www.irjapan.jp/corporate/corp_prof.html・3回目）
+  - 「アイ ・ アールジャパンホールディングス 【6035】の 社長 ・役員 — アイ ・ アールジャパンホールディングス 【6035】の 社長 ・役員 キタイシホン https://kitaishihon.com > company > board-of-director」（https://kitaishihon.com/company/6035/board-of-director・3回目）
+- 事業内容：記載なし（3回確認済み：公式25頁／PDF・画像1件／外部4頁・検索5回）
+
 ## アイキューブドシステムズ
 - 公式URL：https://www.icubedsystems.com/（search:yahoo_jp:アイキューブドシステムズ）
 - 設立：2001年(平成13年)9月（https://www.icubedsystems.com/about/・1回目）
@@ -3479,6 +5525,356 @@
   - 「3分で分かる アイキューブドシステムズ （2024年度版） — 3分で分かる アイキューブドシステムズ （2024年度版） 株式会社アイキューブドシステムズ https://note.i3-systems.com > ...」（https://note.i3-systems.com/n/ndb18071612eb・3回目）
 - 従業員数：記載なし（3回確認済み：公式25頁／PDF・画像7件／外部4頁・検索5回）
 - 事業内容：記載なし（3回確認済み：公式25頁／PDF・画像7件／外部4頁・検索5回）
+
+## アイティメディア
+- 公式URL：https://corp.itmedia.co.jp/（search:yahoo_jp:アイティメディア）
+- 設立：1999年12月（https://corp.itmedia.co.jp/corp/profile/・1回目）
+- 従業員数：382名（連結：2026年3月末日現在）（https://corp.itmedia.co.jp/corp/profile/・1回目）
+- 事業内容：インターネット・メディア事業 ≫事業について ≫運営メディア紹介 ≫報道倫理綱領（https://corp.itmedia.co.jp/corp/profile/・1回目）
+- 売上高：百万円 8,092 8,752 8,001 8,100 8,311（https://corp.itmedia.co.jp/ir/about/coc/・1回目）
+- 売上高：（https://kitaishihon.com/company/2148/business・3回目）
+- 売上高：6,630,413  1,470,498  8,100,911  －  8,100,911（https://kitaishihon.com/company/2148/business・3回目）
+- ビジネスモデル：
+  - 「当社の事業概要、収益モデル、」（https://corp.itmedia.co.jp/・1回目）
+  - 「「リードジェン」をはじめとするデジタルならではの収益モデル開発に成功」（https://corp.itmedia.co.jp/ir/individual/・1回目）
+  - 「デジタルマーケティングで先進する米国の動向を研究し、国内でもいち早く新たなビジネスモデルの開発に取り組んできました」（https://corp.itmedia.co.jp/ir/individual/・1回目）
+  - 「当社はこれまで中期目標として、リーマンショックからのV字回復を企図した「2015年度営業利益６億円：Beyond6（ビヨンドシックス）」に続き、新たな収益モデル開発の成果を出す「2020年度営業利益20億円：W20（ダブルトウェンティ）」を連続で達成することができました」（https://corp.itmedia.co.jp/ir/individual/・1回目）
+  - 「自社でのメディア開発に加えM&Aも活用しながら、デジタルならではの多様なビジネスモデルを積み上げることで、持続的な成長を実現しています」（https://corp.itmedia.co.jp/ir/individual/・1回目）
+  - 「これに対して、当社はインターネットに特化したメディアという事業基盤を活かしたビジネスモデルの開発への挑戦を続けています」（https://corp.itmedia.co.jp/ir/about/message/・1回目）
+  - 「創業当初は広告モデルが収益の過半を占めていましたが、現在はリードジェンを中心とした顧客獲得型のモデルが過半を占めており、こうしたデジタルならではの多様な収益モデルこそが当社の大きな強みと言えます」（https://corp.itmedia.co.jp/ir/about/message/・1回目）
+  - 「最新の中期目標においては、2029年度 EPS 140円（営業利益40億円水準）の到達に向けて、さらなるメディア力の拡大と収益モデルの強化に取り組み、中長期的な成長を実現するとともに、資金の活用および株主・投資家の皆様への利益還元を強化いたします」（https://corp.itmedia.co.jp/ir/about/mid-term-targets/・1回目）
+  - 「ITmedia ビジネスオンライン：ニュースを考える、ビジネスモデルを知る」（https://www.itmedia.co.jp/business/・3回目）
+  - 「その収益モデルとしては、創業以来、運営メディア上で展開する広告商品の販売を行う広告モデルが中心でしたが、インターネット専業メディアならではの革新による収益モデルの多元化を志向するなかで、米国を中心に急速に発展してきた、インターネットを活用した新たなマーケティング手法であるリードジェネレーション」（https://kitaishihon.com/company/2148/business・3回目）
+  - 「テクノロジーに関する高度な知見やデータを生かした収益モデルの拡大として、リサーチ・アドバイザリー領域に進出します」（https://kitaishihon.com/company/2148/business・3回目）
+- 誰に：
+  - 「月間4,000万ユニークブラウザを超える利用者を持つ」（https://corp.itmedia.co.jp/・1回目）
+  - 「お取引先様相談窓口」（https://corp.itmedia.co.jp/・1回目）
+  - 「お取引先様相談窓口」（https://corp.itmedia.co.jp/ir/・1回目）
+  - 「お取引先様相談窓口」（https://corp.itmedia.co.jp/corp/inquiry/・1回目）
+  - 「お取引先様相談窓口」（https://corp.itmedia.co.jp/ir/stock/・1回目）
+  - 「お取引先様相談窓口」（https://corp.itmedia.co.jp/ir/library/・1回目）
+  - 「お取引先様相談窓口」（https://corp.itmedia.co.jp/corp/profile/・1回目）
+  - 「お取引先様相談窓口」（https://corp.itmedia.co.jp/ir/news/・1回目）
+  - 「お取引先様相談窓口」（https://corp.itmedia.co.jp/ir/about/・1回目）
+  - 「顧客・ユーザー規模」（https://corp.itmedia.co.jp/ir/individual/・1回目）
+  - 「見込み顧客数」（https://corp.itmedia.co.jp/ir/individual/・1回目）
+  - 「お取引先様相談窓口」（https://corp.itmedia.co.jp/ir/individual/・1回目）
+- 何を：
+  - 「広告サービス」（https://corp.itmedia.co.jp/・1回目）
+  - 「広告・サービス」（https://corp.itmedia.co.jp/・1回目）
+  - 「サービス一覧」（https://corp.itmedia.co.jp/・1回目）
+  - 「「調査のチカラ」サービス終了のお知らせ」（https://corp.itmedia.co.jp/・1回目）
+  - 「「質問！ITmedia」サービス終了のお知らせ」（https://corp.itmedia.co.jp/・1回目）
+  - 「広告サービス」（https://corp.itmedia.co.jp/ir/・1回目）
+  - 「広告・サービス」（https://corp.itmedia.co.jp/ir/・1回目）
+  - 「サービス一覧」（https://corp.itmedia.co.jp/ir/・1回目）
+  - 「広告サービス」（https://corp.itmedia.co.jp/corp/inquiry/・1回目）
+  - 「広告・サービス」（https://corp.itmedia.co.jp/corp/inquiry/・1回目）
+  - 「サービス一覧」（https://corp.itmedia.co.jp/corp/inquiry/・1回目）
+  - 「広告サービス」（https://corp.itmedia.co.jp/ir/stock/・1回目）
+- どうやって売るか：
+  - 「資料をご紹介しています」（https://corp.itmedia.co.jp/・1回目）
+  - 「ご紹介します」（https://corp.itmedia.co.jp/ir/・1回目）
+  - 「お問い合わせ - 会社・事業紹介」（https://corp.itmedia.co.jp/corp/inquiry/・1回目）
+  - 「会社・事業紹介」（https://corp.itmedia.co.jp/corp/inquiry/・1回目）
+  - 「会社・事業紹介トップへ >」（https://corp.itmedia.co.jp/corp/inquiry/・1回目）
+  - 「リードジェン紹介動画」（https://corp.itmedia.co.jp/corp/inquiry/・1回目）
+  - 「会社概要 - 会社・事業紹介」（https://corp.itmedia.co.jp/corp/profile/・1回目）
+  - 「会社・事業紹介」（https://corp.itmedia.co.jp/corp/profile/・1回目）
+  - 「会社・事業紹介トップへ >」（https://corp.itmedia.co.jp/corp/profile/・1回目）
+  - 「≫経営陣紹介」（https://corp.itmedia.co.jp/corp/profile/・1回目）
+  - 「≫運営メディア紹介」（https://corp.itmedia.co.jp/corp/profile/・1回目）
+  - 「リードジェン紹介動画」（https://corp.itmedia.co.jp/corp/profile/・1回目）
+- お金の形：
+  - 「BtoCメディア事業の単価改善について」（https://corp.itmedia.co.jp/ir/about/dialogue/・1回目）
+  - 「読者の嗜好や検索エンジン等プラットフォームの動向に即したコンテンツの高品質化が奏功し、広告単価が大きく改善したことで増収しております」（https://kitaishihon.com/company/2148/business・3回目）
+  - 「特に将来キャッシュ・フローの見積りについては、市場の成長性等を考慮した契約社数及びサービス単価に基づく売上収益の仮定を伴う事業計画の達成可能性を見積もる必要があります」（https://kitaishihon.com/company/2148/business・3回目）
+- 売上構成：
+  - 「セグメント情報」（https://kitaishihon.com/company/2148/business・3回目）
+  - 「※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります」（https://kitaishihon.com/company/2148/business・3回目）
+  - 「※セグメントの売上や利益は、企業毎にその定義が異なる場合があります」（https://kitaishihon.com/company/2148/business・3回目）
+  - 「セグメント名」（https://kitaishihon.com/company/2148/business・3回目）
+  - 「売上構成比率」（https://kitaishihon.com/company/2148/business・3回目）
+  - 「利益構成比率」（https://kitaishihon.com/company/2148/business・3回目）
+  - 「当社グループは、事業部門を基礎とした対象顧客・サービス別のセグメントから構成されており 、「BtoBメディア事業」と「BtoCメディア事業」の２つを報告セグメントとしております」（https://kitaishihon.com/company/2148/business・3回目）
+  - 「（2）セグメント別のメディア・サービス概要は以下のとおりであります」（https://kitaishihon.com/company/2148/business・3回目）
+  - 「以下の事業区分はセグメント情報における事業区分と同一であります」（https://kitaishihon.com/company/2148/business・3回目）
+  - 「報告セグメント別の当連結会計年度の業績概要は以下のとおりであります」（https://kitaishihon.com/company/2148/business・3回目）
+  - 「セグメントの名称」（https://kitaishihon.com/company/2148/business・3回目）
+  - 「報告セグメント計」（https://kitaishihon.com/company/2148/business・3回目）
+- 利益の源泉：
+  - 「競争優位性、成長分野など、」（https://corp.itmedia.co.jp/・1回目）
+  - 「アイティメディアの強み」（https://corp.itmedia.co.jp/ir/・1回目）
+  - 「アイティメディアの強み」（https://corp.itmedia.co.jp/ir/stock/・1回目）
+  - 「アイティメディアの強み」（https://corp.itmedia.co.jp/ir/library/・1回目）
+  - 「アイティメディアの強み」（https://corp.itmedia.co.jp/ir/news/・1回目）
+  - 「アイティメディアの強み」（https://corp.itmedia.co.jp/ir/about/・1回目）
+  - 「アイティメディアの強み」（https://corp.itmedia.co.jp/ir/individual/・1回目）
+  - 「当社の経営理念や事業の強み、業績等をわかりやすくご説明します」（https://corp.itmedia.co.jp/ir/individual/・1回目）
+  - 「テクノロジー情報の専門メディアとして日本有数のメディア規模・リソースを抱えていることが大きな強みです」（https://corp.itmedia.co.jp/ir/individual/・1回目）
+  - 「アイティメディアの強み」（https://corp.itmedia.co.jp/ir/financial/・1回目）
+  - 「アイティメディアの強み」（https://corp.itmedia.co.jp/ir/other/・1回目）
+  - 「アイティメディアの強み」（https://corp.itmedia.co.jp/ir/about/message/・1回目）
+- 沿革：
+  - 「2025年度下半期版公開：広告審査レポート、メディア透明性レポート」（https://corp.itmedia.co.jp/・1回目）
+  - 「2027年３月期 第２四半期（中間期）決算発表およびオンライン決算説明会開催日程のお知らせ」（https://corp.itmedia.co.jp/・1回目）
+  - 「2027年３月期 決算発表」（https://corp.itmedia.co.jp/ir/・1回目）
+  - 「2027年３月期 第３四半期 決算発表」（https://corp.itmedia.co.jp/ir/・1回目）
+  - 「2027年３月期 第２四半期（中間期） 決算発表」（https://corp.itmedia.co.jp/ir/・1回目）
+  - 「2027年３月期 第一四半期 決算発表」（https://corp.itmedia.co.jp/ir/・1回目）
+  - 「2026年３月期 決算発表」（https://corp.itmedia.co.jp/ir/・1回目）
+  - 「2027年３月期 Q1」（https://corp.itmedia.co.jp/ir/・1回目）
+  - 「2026年3月期」（https://corp.itmedia.co.jp/ir/・1回目）
+  - 「1999年12月」（https://corp.itmedia.co.jp/corp/profile/・1回目）
+  - 「2004年1月」（https://corp.itmedia.co.jp/corp/profile/・1回目）
+  - 「2005年3月」（https://corp.itmedia.co.jp/corp/profile/・1回目）
+- 検索結果の抜粋：
+  - 「メディア企業は何で稼いでいる？ アイティメディア の ... — メディア企業は何で稼いでいる？ アイティメディア の ... アイティメディア株式会社 https://corp.itmedia.co.jp > 採用」（https://corp.itmedia.co.jp/recruit/company/2025/08/20/businessmodel2025/・3回目）
+  - 「10年間でメディア ビジネス はどう変化した？ アイティメディア ... — 10年間でメディア ビジネス はどう変化した？ アイティメディア ... funda.jp https://navi.funda.jp > article > itmedia」（https://navi.funda.jp/article/itmedia・3回目）
+  - 「今さら聞けない アイティメディア の ビジネスモデル ～企業 ... — 今さら聞けない アイティメディア の ビジネスモデル ～企業 ... Wantedly https://www.wantedly.com > ... > ストーリー」（https://www.wantedly.com/companies/itmedia/post_articles/487769・3回目）
+  - 「決算資料 - 株主・投資家情報 - アイティメディア 株式会社 — 決算資料 - 株主・投資家情報 - アイティメディア 株式会社 アイティメディア株式会社 https://corp.itmedia.co.jp > 家 > IRライブラリ」（https://corp.itmedia.co.jp/ir/library/earnings/・3回目）
+  - 「株主・投資家情報 - アイティメディア株式会社 - ITmedia — 株主・投資家情報 - アイティメディア株式会社 - ITmedia アイティメディア株式会社 https://corp.itmedia.co.jp > ...」（https://corp.itmedia.co.jp/ir/・3回目）
+  - 「【 アイティメディア 】[2148]IR情報 中期経営計画や 決算 短信 — 【 アイティメディア 】[2148]IR情報 中期経営計画や 決算 短信 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo」（https://www.nikkei.com/nkd/company/kigyo/?scode=2148・3回目）
+  - 「アイティメディア (2148) : 決算 情報・業績 [ ITmedia ] - みんかぶ — アイティメディア (2148) : 決算 情報・業績 [ ITmedia ] - みんかぶ みんかぶ https://minkabu.jp > ... > アイティメディア[2148]株価情報」（https://minkabu.jp/stock/2148/settlement・3回目）
+  - 「アイティメディア のIR 資料 - 2148 / プライム / サービス業 — アイティメディア のIR 資料 - 2148 / プライム / サービス業 バフェット・コード https://www.buffett-code.com > company > library」（https://www.buffett-code.com/company/2148/library・3回目）
+  - 「アイティメディア の「 事業 」 - 会社・ 事業 紹介 — アイティメディア の「 事業 」 - 会社・ 事業 紹介 アイティメディア株式会社 https://corp.itmedia.co.jp > corp > enterprise」（https://corp.itmedia.co.jp/corp/enterprise/・3回目）
+  - 「アイティメディア 【2148】の 事業 内容 - キタイシホン — アイティメディア 【2148】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/2148/business・3回目）
+  - 「会社概要 - 会社・ 事業 紹介 - アイティメディア - ITmedia — 会社概要 - 会社・ 事業 紹介 - アイティメディア - ITmedia アイティメディア株式会社 https://corp.itmedia.co.jp > corp > profile」（https://corp.itmedia.co.jp/corp/profile/・3回目）
+  - 「【 アイティメディア 】[2148]企業概要 社員数や役員報酬・資本金 — 【 アイティメディア 】[2148]企業概要 社員数や役員報酬・資本金 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo」（https://www.nikkei.com/nkd/company/gaiyo/?scode=2148・3回目）
+
+## アイビス
+- 公式URL：https://ibispaint.com/（search:yahoo_jp:アイビス）
+- 設立：2000年5月11日（平成12年） 沿革はこちら（https://www.ibis.ne.jp/company/・3回目）
+- 従業員数：384名（2026年09月30日現在、アルバイト含む）（https://www.ibis.ne.jp/company/・3回目）
+- 事業内容：iPhone、iPad、スマートフォン等、モバイルアプリの研究及び開発、販売、運営 Webアプリケーションの研究及び開発、販売、運営 iPhone、iPad、スマートフォン等、モバイルアプリの受託開発 Webアプリケーションの受託開発 人工知能の研究及び開発、販売 労働者派遣事業 許可番号（派13-317592） 他（https://www.ibis.ne.jp/company/・3回目）
+- 売上高：1,060,851 78.6（https://kitaishihon.com/company/9343/business・3回目）
+- 売上高：875,526 72.8（https://kitaishihon.com/company/9343/business・3回目）
+- 売上高：208,553 77.1（https://kitaishihon.com/company/9343/business・3回目）
+- ビジネスモデル：
+  - 「ビジネスモデル」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「4. ビジネスモデル p.6」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「なお、把握しておくべき事業上の転換点として、2024 年から収益モデルを無料ユーザー向けのアプリ広告収益からサ」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「同社は収益構造上「ibisPaint」の会社という印象が強い」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「2024 年には収益構造を広告からサブスクリプション重視へと転換し、収益の安定化を図」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「本項では同社のビジネスモデルについて説明する」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「以下、それぞれの事業についてビジネスモデル等を説明する」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「アイビスのビジネスモデルは、主に「ibisPaint」を中心としたモバイル事業と、IT 人材を活用したソリューション事業か」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「【事業の収益構造】」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「出典: 経済産業省『音楽産業の新たな時代に即したビジネスモデルの在り方に関する報告書』 (2024 年 7 月)」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「掲げているが、ビジネスモデル等から財務の懸念は非常に小さく、中長期的な還元拡大を期待したい」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「同社はストック性が高く、大きな設備投資が不要なビジネスモデルであること、2024/12 期実績で 25.0%という高い利」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+- 誰に：
+  - 「ユーザー同士のコラボも楽しい、」（https://ibispaint.com/about.jsp・1回目）
+  - 「』には、世界中のお絵かき好きが毎日たくさんの作品を投稿しており、ユーザー同士のコラボレーションも活発です」（https://ibispaint.com/about.jsp・1回目）
+  - 「(Edu 以外) 他のユーザーの作品が更新された後にもう一度ダウンロードすると、以前にダウンロードした作品が上書きされてしまう不具合を修正しました」（https://ibispaint.com/historyAndRights.jsp?newsID=313331619・1回目）
+  - 「モバイル事業は、iOS・Android用モバイルペイントアプリ『ibisPaint』の開発、サービス運営、さらにはibisPaintを通して制作された全世界のユーザーコンテンツに発表の場を与える投稿サイト「ibispaint.com」の運営を行っております」（https://www.ibis.ne.jp/services/・3回目）
+  - 「を超え、MAU（Monthly Active Users：月間のアクティブユーザー数）が4000万人を超えております」（https://www.ibis.ne.jp/services/・3回目）
+  - 「特に受託開発サービスでは、2000年初頭のモバイル黎明期から培ったこれらアプリの開発技術やリリース、運用ノウハウを有していることがソリューション事業としての強みにもなっており、企画段階やユーザーインターフェース（UI）/ユーザーエクスペリエンス（UX） に関するご相談にも対応することができる他、アプリと連携するバックエンドのWebシステム等も含めた設計から開発・運用までを自社においてワンストップで開発することが可能となっております」（https://www.ibis.ne.jp/services/・3回目）
+  - 「界１位のユーザー基盤を持つ自社開発のモバイルペイントアプリ「ibisPaint」を」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「通じたアプリユーザー向け広告収益とサブスクリプション収益である」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「一方でこれまで収益の中心であった「ibisPaint」ユーザーに向けた広告収益が」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「有料サブスクリプションの獲得については同社の既存ユーザー基盤 (MAU」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「のユーザー基盤を持つ自社開発のモバイルペイントアプリ「ibisPaint」を通じたアプリユーザー向け広告収益とサブスク」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「アプリ課金 943 20.4% ユーザーの購入による収益」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+- 何を：
+  - 「①[画面右上の歯車ボタン] > ②[商品説明を見る]」（https://ibispaint.com/about.jsp・1回目）
+  - 「また、外部サービスのアカウントを使った新規登録を廃止したため、初めてログインする場合はibisアカウントの作成が必要になりました」（https://ibispaint.com/historyAndRights.jsp?newsID=313331619・1回目）
+  - 「2000年初頭のNTTドコモのi-modeが発表された時代に創業したアイビスでは、当時のまだまだPCが優位な時代において、モバイル分野に特化した製品開発・サービスを次々とリリースしていきました」（https://www.ibis.ne.jp/services/・3回目）
+  - 「企業向けにその技術力を提供するソリューション事業も展開しており、モバイル事業とともに企業にも「ワォ！」を届けております」（https://www.ibis.ne.jp/services/・3回目）
+  - 「モバイル事業は、iOS・Android用モバイルペイントアプリ『ibisPaint』の開発、サービス運営、さらにはibisPaintを通して制作された全世界のユーザーコンテンツに発表の場を与える投稿サイト「ibispaint.com」の運営を行っております」（https://www.ibis.ne.jp/services/・3回目）
+  - 「ソリューション事業」（https://www.ibis.ne.jp/services/・3回目）
+  - 「ソリューション事業では、インターネット端末用アプリの開発・運用保守及び、クラウドコンピューティングサービスである「アマゾン ウェブ サービス(AWS)」を用いたサーバ構築・移行・運用保守等の開発サービスを行なっております」（https://www.ibis.ne.jp/services/・3回目）
+  - 「特に受託開発サービスでは、2000年初頭のモバイル黎明期から培ったこれらアプリの開発技術やリリース、運用ノウハウを有していることがソリューション事業としての強みにもなっており、企画段階やユーザーインターフェース（UI）/ユーザーエクスペリエンス（UX） に関するご相談にも対応することができる他、アプリと連携するバックエンドのWebシステム等も含めた設計から開発・運用までを自社においてワンストップで開発することが可能となっております」（https://www.ibis.ne.jp/services/・3回目）
+  - 「ソリューション事業を詳しく見る」（https://www.ibis.ne.jp/services/・3回目）
+  - 「業種: サービス業」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「技術者派遣を行うソリューション事業を行っている」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「ソリューション事業」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+- どうやって売るか：
+  - 「新機能の紹介」（https://ibispaint.com/about.jsp・1回目）
+  - 「マンガ機能紹介」（https://ibispaint.com/about.jsp・1回目）
+  - 「パソコンのペイントソフト並の豊富な機能の中から一部をご紹介します」（https://ibispaint.com/about.jsp・1回目）
+  - 「新機能の紹介」（https://ibispaint.com/historyAndRights.jsp・1回目）
+  - 「マンガ機能紹介」（https://ibispaint.com/historyAndRights.jsp・1回目）
+  - 「新機能の紹介」（https://ibispaint.com/historyAndRights.jsp?newsID=313331619・1回目）
+  - 「マンガ機能紹介」（https://ibispaint.com/historyAndRights.jsp?newsID=313331619・1回目）
+  - 「新機能の紹介」（https://ibispaint.com/historyAndRights.jsp?newsID=310928458・1回目）
+  - 「マンガ機能紹介」（https://ibispaint.com/historyAndRights.jsp?newsID=310928458・1回目）
+  - 「新機能の紹介」（https://ibispaint.com/historyAndRights.jsp?newsID=309076693・1回目）
+  - 「マンガ機能紹介」（https://ibispaint.com/historyAndRights.jsp?newsID=309076693・1回目）
+  - 「新機能の紹介」（https://ibispaint.com/historyAndRights.jsp?newsID=306556365・1回目）
+- お金の形：
+  - 「ソリューション事業では、インターネット端末用アプリの開発・運用保守及び、クラウドコンピューティングサービスである「アマゾン ウェブ サービス(AWS)」を用いたサーバ構築・移行・運用保守等の開発サービスを行なっております」（https://www.ibis.ne.jp/services/・3回目）
+  - 「また、サーバ上で動作するアプリケーションに最適な設計を考慮したAWSでのサーバ構築や移行等から運用・保守及び新規事業への導入コンサルティング等も行っております」（https://www.ibis.ne.jp/services/・3回目）
+  - 「通じたアプリユーザー向け広告収益とサブスクリプション収益である」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「Paint」におけるサブスクリプション収益への注力及び成長と、アプリの現状を」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「同社は今後の成長戦略として、「ibisPaint」における有料サブスクリプションの」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「有料サブスクリプションの獲得については同社の既存ユーザー基盤 (MAU」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「IR Agents として今後注目したい点としては、① サブスクリプション契約数の」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「サブスクリプション収益 198 330 687 1,123 1,559 1,956 契約数×契約単価として計算」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「サブスクリプション契約数 (千件) 66 119 232 344 464 584 年間 120 千契約程度の増加を見込む」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「契約あたり単価 (円/人・年) 2,955 2,756 2,953 3,266 3,359 3,350 直近水準を踏まえて見通しを作成」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「売上高 -- -- -- 75 140 180 連結は FY25/12 Q3 より 保守的に想定し利益貢献は見込まず」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「のユーザー基盤を持つ自社開発のモバイルペイントアプリ「ibisPaint」を通じたアプリユーザー向け広告収益とサブスク」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+- 売上構成：
+  - 「セグメント情報 FY 2022 FY 2023 FY 2024 FY 2025 FY 2026 FY 2027 補足・前提」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「セグメント費用 1,773 1,696 1,269 1,357 1,537 1,740 広告宣伝費は増えないものの一部開発投資分が継続して増加」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「セグメント利益 391 759 1,342 1,521 2,037 2,231」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「セグメント利益 161 90 275 274 288 303 13%程度のセグメント利益率を継続」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「セグメント利益 -- -- -- △75 △80 △40 のれん償却が上乗せされる想定で利益貢献を見込まず」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「セグメント利益合計 552 849 1,617 1,721 2,245 2,494」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「項目 (単位: 百万円) 売上高 構成比 営業利益 構成比 詳細」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「モバイル事業 2,611 56.4% 1,342 116.2% 自社製品を扱うセグメント」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「ソリューション事業 2,014 43.6% 275 23.8% 他社案件を扱うセグメント」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「同社の事業セグメントはモバイル事業 (売上構成比 56%, 営業利益構成比 116%)、ソリューション事業 (売上構成比」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「44%、営業利益構成比 24%) から成っている」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「【セグメント概要】」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+- 利益の源泉：
+  - 「特に受託開発サービスでは、2000年初頭のモバイル黎明期から培ったこれらアプリの開発技術やリリース、運用ノウハウを有していることがソリューション事業としての強みにもなっており、企画段階やユーザーインターフェース（UI）/ユーザーエクスペリエンス（UX） に関するご相談にも対応することができる他、アプリと連携するバックエンドのWebシステム等も含めた設計から開発・運用までを自社においてワンストップで開発することが可能となっております」（https://www.ibis.ne.jp/services/・3回目）
+  - 「アイビス (9343) はモバイル向けアプリの開発力に強みを持つ IT 企業であ」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「売上総利益率 7 60.4 %」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「営業利益率 7 25.0 %」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「営業利益率 (%) 6.4 10.6 25.0 24.9 29.8 30.8」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「粗利率 (%) 69.7% 63.5% 60.4% 61.0% 62.0% 62.0%」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「営業利益率 (%) 6.5% 10.6% 25.0% 24.9% 29.8% 30.8%」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「アイビス (9343) はモバイル向けアプリの開発力に強みを持つ IT 企業であり、自社プロダクトを扱うモバイル事業と、」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「アイビス （9343） はモバイルアプリ開発に強みを持ち、「ibisPaint」など自社製品を扱うモバイル事業と、受託開発・IT」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「能なアプリの先行者優位とユーザーの定着が、強力な参入障壁と利益の源泉となっている」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「機能の蓄積や築き上げたユーザー基盤等の要素は後発がキャッチアップすることは難しいと考えられ、 参入障壁が」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「れるため、当該ポジションが非常に持続的な強みや利益の源泉となっている かについて IR Agents として評価する」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+- 沿革：
+  - 「2000年初頭のNTTドコモのi-modeが発表された時代に創業したアイビスでは、当時のまだまだPCが優位な時代において、モバイル分野に特化した製品開発・サービスを次々とリリースしていきました」（https://www.ibis.ne.jp/services/・3回目）
+  - 「2025 年 4 月 30 日」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「2024 年 12 月期の業績は売上高 4,625 百万円 (前年比+13.2%)、営業利益」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「2024 年 12 月期には減少傾向となった点は気がかりである」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「3. 沿革・ビジョン p.5」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「2024 年末には AI 歌声合成アプリ「VoiSona」を手がけるテクノスピーチ社を買収し、新たな事業領域にも参入 した」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「沿革・ビジョン」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「本項では同社の沿革や成り立ちから、会社として目指しているビジョンがどこにあるのかについて説明する」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「事業の成り立ち・沿革」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「2024 年には収益構造を広告からサブスクリプション重視へと転換し、収益の安定化を図」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「2024 年 12 月期に関して IT エンジニア数は 240 人で横ばいとなり、2025 年 12 月期に関しては 233 人と同社は減」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「2024 年は売上 13.2%増・営業利益 166.1%増と好調で、サブスクリプションが前年の 2 倍以上に伸び全体を牽引」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+- 検索結果の抜粋：
+  - 「事業情報 - 株式会社 アイビス — 事業情報 - 株式会社 アイビス 株式会社アイビス https://www.ibis.ne.jp > services」（https://www.ibis.ne.jp/services/・3回目）
+  - 「アイビス (9343) — アイビス (9343) finance-frontend-pc-dist.west.edge.storage-yahoo.jp PDF https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp > ...」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250430/20250430527292.pdf・3回目）
+  - 「事業内容 - 株式会社アイビス — 事業内容 - 株式会社アイビス ibis-h.com https://www.ibis-h.com > brand」（https://www.ibis-h.com/brand/・3回目）
+  - 「アイビス ir資料 ビジネスモデル のスライドデザイン - スラデザ — アイビス ir資料 ビジネスモデル のスライドデザイン - スラデザ スラデザ https://design-sli.de > 資料の種類 > ir資料」（https://design-sli.de/slide/9148・3回目）
+  - 「決算説明資料 - 株式会社 アイビス — 決算説明資料 - 株式会社 アイビス 株式会社アイビス https://www.ibis.ne.jp > IR情報」（https://www.ibis.ne.jp/ir/presentations/・3回目）
+  - 「IR情報 - 株式会社 アイビス — IR情報 - 株式会社 アイビス 株式会社アイビス https://www.ibis.ne.jp > ...」（https://www.ibis.ne.jp/ir/・3回目）
+  - 「決算説明資料 ｜IR情報｜株式会社 アイビス ホールディングス — 決算説明資料 ｜IR情報｜株式会社 アイビス ホールディングス 株式会社アイビスホールディングス https://ibisholdings.co.jp > library > presentation」（https://ibisholdings.co.jp/ir/library/presentation/・3回目）
+  - 「株式会社 アイビス - ログミーファイナンス - logmi Finance — 株式会社 アイビス - ログミーファイナンス - logmi Finance ログミーFinance https://finance.logmi.jp > companies」（https://finance.logmi.jp/companies/4144・3回目）
+  - 「株式会社 アイビス （IR/広報） (@ibis_PR) / X — 株式会社 アイビス （IR/広報） (@ibis_PR) / X X https://x.com > ibis_PR」（https://x.com/ibis_PR・3回目）
+  - 「企業情報 - 株式会社 アイビス — 企業情報 - 株式会社 アイビス 株式会社アイビス https://www.ibis.ne.jp > company」（https://www.ibis.ne.jp/company/・3回目）
+  - 「アイビス 【9343】の 事業 内容 - キタイシホン — アイビス 【9343】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/9343/business・3回目）
+  - 「株式会社 アイビス 2024年12月期 オンライン決算説明会 — 株式会社 アイビス 2024年12月期 オンライン決算説明会 YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=szmaR0UdI6E・3回目）
+
+## アイビーシー
+- 公式URL：https://www.ibc21.co.jp/（search:yahoo_jp:アイビーシー）
+- 設立：2002年10月16日（https://www.ibc21.co.jp/company/・1回目）
+- 設立：2002年10月16日（https://www.ibc21.co.jp/ir/management/・1回目）
+- 設立：2002年（https://macloud.jp/offers/269・3回目）
+- 従業員数：82名（2025年9月30日現在）（https://www.ibc21.co.jp/company/・1回目）
+- 従業員数：82名（2025年9月30日現在）（https://www.ibc21.co.jp/ir/management/・1回目）
+- 従業員数：81人（https://macloud.jp/offers/269・3回目）
+- 事業内容：ITシステム性能監視ツールの開発/販売/サポート ITシステムの性能評価サービス ITシステムの設計・構築、コンサルティング IoTセキュリティ基盤の開発/提供 各種機器、ソフトウェア販売（https://www.ibc21.co.jp/company/・1回目）
+- 事業内容：ITシステム性能監視ツールの開発 / 販売 / サポート ITシステムの性能評価サービス ITシステムの設計・構築、コンサルティング IoTセキュリティ基盤の開発 / 提供 各種機器、ソフトウェア販売（https://www.ibc21.co.jp/ir/management/・1回目）
+- 事業内容：ITシステムを一元的に監視し、 IT障害を予防するためのソフトウェアの 開発・販売（https://www.ibc21.co.jp/ir/understanding-ibc/・1回目）
+- ビジネスモデル：
+  - 「これにより、世の中のビジネスモデルは多様化し、社会全体の生産性向上に大きく貢献しています」（https://www.ibc21.co.jp/recruit/about/・1回目）
+  - 「IT障害をゼロにする――“ネットワークの可視化”で社会インフラを支えるアイビーシーのビジネスモデル｜アイビーシー（3920）のビジネスモデル解説 | Capital Voice Japan」（https://capital-voice.com/commentary/ibc_business・3回目）
+  - 「IT障害をゼロにする――“ネットワークの可視化”で社会インフラを支えるアイビーシーのビジネスモデル」（https://capital-voice.com/commentary/ibc_business・3回目）
+  - 「IT業界で当社ほど多くの顧客資産を有し、着実に収益の上がるビジネスモデルを構築できている企業はなかなかありません」（https://macloud.jp/offers/269・3回目）
+- 誰に：
+  - 「お客様や社会のIT利活用に全力で貢献します」（https://www.ibc21.co.jp/・1回目）
+  - 「アイビーシーは、普段は目に見えない「ITインフラ」領域での困りごとをなくすため、お客様である企業に対して提案から解決までを自社開発製品などを用いながら営業職と技術職が連携して行っています！」（https://www.ibc21.co.jp/・1回目）
+  - 「「ITシステム稼働品質の向上」のさらに上のステージである「サービス品質の向上」を目指し、持続型成長を推進しながら、お客様に求められる製品やサービスの提供を行えるオンリーワン企業となるべく、社会に貢献していきたい」（https://www.ibc21.co.jp/company/・1回目）
+  - 「当社は2022年10月で設立20周年を迎え、お客様、株主様をはじめとする当社のステークホルダーの皆様のご支援に感謝するとともに、社会、お客様との共感を創造する企業として、今後もさらなる発展をして参ります」（https://www.ibc21.co.jp/company/・1回目）
+  - 「アイビーシーでは創業以来、お客様と共に歩み、常に成長していくための」（https://www.ibc21.co.jp/company/・1回目）
+  - 「お客様に心から喜んでいただける企業になる」（https://www.ibc21.co.jp/company/・1回目）
+  - 「お客様に可愛がられること、優れた人材を創出することを通じて社会へ貢献できる企業になる」（https://www.ibc21.co.jp/company/・1回目）
+  - 「nnovation：顧客志向でオンリーワンを追求する」（https://www.ibc21.co.jp/company/・1回目）
+  - 「お客様とのこれまでのつながりを糧とし、30周年・40周年を視野に入れた新たなステージへ向かうため、ミッションとビジョンを新設いたしました」（https://www.ibc21.co.jp/company/・1回目）
+  - 「お客様に求められる製品・サービスを展開していくため、パッケージソフトウェアのSaaS化を進めてまいります」（https://www.ibc21.co.jp/company/・1回目）
+  - 「の導入実績の顧客基盤をもとに、DX支援（ネットワークインテグレーション、クラウドインテグレーション、システムインテグレーション、コンサルティング）のサービスを拡充してまいります」（https://www.ibc21.co.jp/company/・1回目）
+  - 「System Answer シリーズのSaaS型モデルである「SAMS」のプラットフォームをより拡大させ、お客様のセキュリティ管理やコスト管理に対する課題にも取り組んでまいります」（https://www.ibc21.co.jp/company/・1回目）
+- 何を：
+  - 「製品・サービス」（https://www.ibc21.co.jp/・1回目）
+  - 「システムエンジニアリングサービスーIBC-SES」（https://www.ibc21.co.jp/・1回目）
+  - 「ITOGUCHIは、システム全体の構成を可視化するIBCの新サービスです」（https://www.ibc21.co.jp/・1回目）
+  - 「障害予防型監視ソリューション」（https://www.ibc21.co.jp/・1回目）
+  - 「マルチベンダーのネットワーク、サーバー、仮想基盤、クラウドの監視から得た環境固有の特徴、特性を熟知したエンジニアが提供するインテグレーションサービス」（https://www.ibc21.co.jp/・1回目）
+  - 「IT運用アウトソーシングサービス」（https://www.ibc21.co.jp/・1回目）
+  - 「ネットワーク、サーバー、仮想基盤、クラウドの「監視」「保守」「運用」などを24365体制で提供するサービス」（https://www.ibc21.co.jp/・1回目）
+  - 「オペレーション、ヘルプデスクサポート、上級SEによるアドバイザリーサービス（障害相談窓口、障害初動支援、よろず相談など）のサービスメニューを完備」（https://www.ibc21.co.jp/・1回目）
+  - 「サービス概要紹介 Services Informations」（https://www.ibc21.co.jp/・1回目）
+  - 「OSSを駆使して運用を行っていたが、解決できない事象も多く、OSSでの運用に限界を感じていたが、System Answer G3 の導入で、ツールだけでなくメーカーならではの分析サービスや運用の支援サービスを受けることにより、本来の情報システムの業務」（https://www.ibc21.co.jp/・1回目）
+  - 「アイビーシーは、普段は目に見えない「ITインフラ」領域での困りごとをなくすため、お客様である企業に対して提案から解決までを自社開発製品などを用いながら営業職と技術職が連携して行っています！」（https://www.ibc21.co.jp/・1回目）
+  - 「IIBCは、「IT障害をゼロにする」をミッションとして豊かな安定した社会の実現に貢献すべく、クラウド、セキュリティ、AI等の最新技術を活用した競争力の高い製品開発に取り組み、ITインフラ監視ソフトウェア、運用アウトソースサービス、インテグレーションサービスの提供等を行っています」（https://www.ibc21.co.jp/・1回目）
+- どうやって売るか：
+  - 「職種紹介（技術職）」（https://www.ibc21.co.jp/・1回目）
+  - 「職種紹介（営業職）」（https://www.ibc21.co.jp/・1回目）
+  - 「サービス概要紹介 Services Informations」（https://www.ibc21.co.jp/・1回目）
+  - 「職種紹介（技術職）」（https://www.ibc21.co.jp/company/・1回目）
+  - 「職種紹介（営業職）」（https://www.ibc21.co.jp/company/・1回目）
+  - 「JCSSA（一般社団法人 日本コンピュータシステム販売店協会）」（https://www.ibc21.co.jp/company/・1回目）
+  - 「職種紹介（技術職）」（https://www.ibc21.co.jp/ir/・1回目）
+  - 「職種紹介（営業職）」（https://www.ibc21.co.jp/ir/・1回目）
+  - 「職種紹介（技術職）」（https://www.ibc21.co.jp/ir/management/・1回目）
+  - 「職種紹介（営業職）」（https://www.ibc21.co.jp/ir/management/・1回目）
+  - 「JCSSA (一般社団法人 日本コンピュータシステム販売店協会)」（https://www.ibc21.co.jp/ir/management/・1回目）
+  - 「職種紹介（技術職）」（https://www.ibc21.co.jp/ir/understanding-ibc/・1回目）
+- お金の形：
+  - 「保守代行ーIBC Care」（https://www.ibc21.co.jp/・1回目）
+  - 「事前検証、方式検討、要件定義、基本・詳細設計、設定・構築、運用・保守・サポートをワンストップでご提供」（https://www.ibc21.co.jp/・1回目）
+  - 「ネットワーク、サーバー、仮想基盤、クラウドの「監視」「保守」「運用」などを24365体制で提供するサービス」（https://www.ibc21.co.jp/・1回目）
+  - 「保守代行ーIBC Care」（https://www.ibc21.co.jp/company/・1回目）
+  - 「ソフトウェアライセンス販売による」（https://www.ibc21.co.jp/company/・1回目）
+  - 「のライセンス販売実績を重ねています」（https://www.ibc21.co.jp/company/・1回目）
+  - 「IT インフラ の保守を行うサービス「」（https://www.ibc21.co.jp/company/・1回目）
+  - 「保守代行ーIBC Care」（https://www.ibc21.co.jp/ir/・1回目）
+  - 「保守代行ーIBC Care」（https://www.ibc21.co.jp/ir/management/・1回目）
+  - 「◯ソフトウェアライセンス販売による1,000社以上の導入実績の顧客基盤をもとに、DX支援（ネットワークインテグレーション、クラウドインテグレーション、システムインテグレーション、コンサルティング）のサービスを拡充してまいります」（https://www.ibc21.co.jp/ir/management/・1回目）
+  - 「2008年に販売開始した主力製品「System Answer シリーズ」は、2017年には3世代目となる「System Answer G3」がリリースされ、導入実績 1,000社以上、ITシステム機器の監視数 1,800万項目以上のライセンス販売実績を重ねています」（https://www.ibc21.co.jp/ir/management/・1回目）
+  - 「社外取締役を除く取締役の報酬等の構成は、基本報酬、賞与及びストックオプションの３種類とし、社外取締役の報酬は基本報酬のみとしております」（https://www.ibc21.co.jp/ir/management/・1回目）
+- 売上構成：
+  - 「「その他物販」の３つの事業セグメントで」（https://www.ibc21.co.jp/ir/understanding-ibc/・1回目）
+  - 「単一セグメント」（https://www.ibc21.co.jp/ir/understanding-ibc/・1回目）
+  - 「売上構成――主役はライセンス、周辺にサービスと物販」（https://capital-voice.com/commentary/ibc_business・3回目）
+- 利益の源泉：
+  - 「当社の最大の強みは、性能監視に必要な製品を自社で開発している点にあります」（https://www.ibc21.co.jp/company/・1回目）
+  - 「当社の最大の強みは、性能監視に必要な製品を自社で開発している点にあります」（https://www.ibc21.co.jp/ir/management/・1回目）
+  - 「アイビーシーの強み」（https://www.ibc21.co.jp/ir/understanding-ibc/・1回目）
+  - 「【アイビーシーの強み】」（https://www.ibc21.co.jp/ir/understanding-ibc/・1回目）
+  - 「当社の最大の強みは、性能監視に必要な製品を」（https://www.ibc21.co.jp/ir/understanding-ibc/・1回目）
+  - 「つまり、単に売上が伸びるだけでなく、高収益なライセンス販売を軸に、既存顧客の中で単価を高められる余地があります」（https://capital-voice.com/commentary/ibc_business・3回目）
+  - 「これらの強みを生かし、当社を今後、日本のみならず世界の人々から愛される会社にしたいと考えています」（https://macloud.jp/offers/269・3回目）
+- 沿革：
+  - 「2008年に販売開始した主力製品「System Answer シリーズ」は、2017年には3世代目となる「System Answer G3」がリリースされ、」（https://www.ibc21.co.jp/company/・1回目）
+  - 「2002年10月16日」（https://www.ibc21.co.jp/company/・1回目）
+  - 「2002年10月」（https://www.ibc21.co.jp/company/・1回目）
+  - 「2003年6月」（https://www.ibc21.co.jp/company/・1回目）
+  - 「2005年06月」（https://www.ibc21.co.jp/company/・1回目）
+  - 「2007年05月」（https://www.ibc21.co.jp/company/・1回目）
+  - 「2008年12月」（https://www.ibc21.co.jp/company/・1回目）
+  - 「2011年07月」（https://www.ibc21.co.jp/company/・1回目）
+  - 「2015年09月」（https://www.ibc21.co.jp/company/・1回目）
+  - 「2016年11月」（https://www.ibc21.co.jp/company/・1回目）
+  - 「2017年07月」（https://www.ibc21.co.jp/company/・1回目）
+  - 「2017年08月」（https://www.ibc21.co.jp/company/・1回目）
+- 検索結果の抜粋：
+  - 「ネットワークの可視化”で社会インフラを支える アイビーシー ... — ネットワークの可視化”で社会インフラを支える アイビーシー ... Capital Voice Japan https://capital-voice.com > 解説」（https://capital-voice.com/commentary/ibc_business・3回目）
+  - 「ITシステム性能監視の アイビーシー 株式会社（ IBC ）。成長に ... — ITシステム性能監視の アイビーシー 株式会社（ IBC ）。成長に ... M&Aクラウド https://macloud.jp > 買収募集一覧」（https://macloud.jp/offers/269・3回目）
+  - 「【 アイビーシー 】[3920]適時開示情報 株主総会や定款関連 — 【 アイビーシー 】[3920]適時開示情報 株主総会や定款関連 日本経済新聞 https://www.nikkei.com > nkd > company > disclose」（https://www.nikkei.com/nkd/company/disclose/?scode=3920・3回目）
+  - 「IT障害をゼロにする｜ アイビーシー 株式会社（公式） - X — IT障害をゼロにする｜ アイビーシー 株式会社（公式） - X X https://x.com > ibc_sa」（https://x.com/ibc_sa・3回目）
+  - 「企業情報 COMPANY | ITシステム性能監視の アイビーシー 株式 ... — 企業情報 COMPANY | ITシステム性能監視の アイビーシー 株式 ... ibc21.co.jp https://www.ibc21.co.jp > company」（https://www.ibc21.co.jp/company/・3回目）
+  - 「決算説明資料 | ITシステム性能監視の アイビーシー 株式会社 ... — 決算説明資料 | ITシステム性能監視の アイビーシー 株式会社 ... ibc21.co.jp https://www.ibc21.co.jp > presentation」（https://www.ibc21.co.jp/ir/presentation/・3回目）
+  - 「アイビーシー - 日本経済新聞 — アイビーシー - 日本経済新聞 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr」（https://www.nikkei.com/nkd/disclosure/tdnr/20250808535965/・3回目）
+  - 「アイビーシー （3920）のIR情報・ 決算資料 - IRBANK — アイビーシー （3920）のIR情報・ 決算資料 - IRBANK IRBANK https://irbank.net > アイビーシー」（https://irbank.net/3920/ir・3回目）
+  - 「アイビーシー 株式会社 2025年9月期 決算説明 - YouTube — アイビーシー 株式会社 2025年9月期 決算説明 - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=gP0Eglgg_iY・3回目）
+  - 「経営情報 | ITシステム性能監視の アイビーシー 株式会社（ IBC ） — 経営情報 | ITシステム性能監視の アイビーシー 株式会社（ IBC ） ibc21.co.jp https://www.ibc21.co.jp > management」（https://www.ibc21.co.jp/ir/management/・3回目）
+  - 「アイビーシー (株)の新卒採用・会社概要 | マイナビ2027 — アイビーシー (株)の新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp293223 > outline」（https://job.mynavi.jp/27/pc/search/corp293223/outline.html・3回目）
+  - 「ソリューション アイビーシー 株式会社 — ソリューション アイビーシー 株式会社 system-answer.com https://system-answer.com」（https://system-answer.com/・3回目）
+- 売上高：記載なし（3回確認済み：公式21頁／PDF・画像3件／外部3頁・検索5回）
 
 ## アイル
 - 公式URL：https://www.ill.co.jp/（search:yahoo_jp:アイル）
@@ -3855,6 +6251,125 @@
 - 従業員数：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部3頁・検索5回）
 - 利益の源泉：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部3頁・検索5回）
 
+## アシロ
+- 公式URL：https://asiro.co.jp/（search:yahoo_jp:アシロ）
+- 設立：2009年11月（https://asiro.co.jp/about/・1回目）
+- 設立：2016年4月（https://asiro.co.jp/about/・1回目）
+- 従業員数：127名（2025年10月末現在） ※連結子会社を含む（https://asiro.co.jp/about/・1回目）
+- 従業員数：人事・労務管理に関わる業務を遂行するため その他上記に付随する目的のため（https://asiro.co.jp/privacy/・1回目）
+- 売上高：4,694,121 6,647,361 1,953,240 41.6（https://kitaishihon.com/company/7378/business・3回目）
+- 売上高：（https://kitaishihon.com/company/7378/business・3回目）
+- ビジネスモデル：
+  - 「ビジネスモデルが明確なこと」（https://asiro.co.jp/ad-guideline/・1回目）
+  - 「応募者が行うビジネスモデルが明瞭であること（募集者の収益構造、開業、運営資金等、ビジネスモデルが明確に記載されていないものは掲載不可）」（https://asiro.co.jp/ad-guideline/・1回目）
+  - 「主要事業である「メディア事業」の中でも、収益の大きい「リーガルメディア」は主に月額定額の掲載料収入（サイト内の有料広告の掲載枠数に、月額定額の掲載枠単価を乗じた金額）であり、掲載枠数の増加に比例して収益が伸長するストック型の収益構造であることから、安定的な成長を目指すことが出来るビジネスモデルとなっております」（https://kitaishihon.com/company/7378/business・3回目）
+  - 「ユーザーはリーガルメディア・派生メディアとも原則として無料で閲覧することができ、メディアへ広告出稿をする弁護士・企業等の顧客から広告収入を頂くビジネスモデルとなっております」（https://kitaishihon.com/company/7378/business・3回目）
+  - 「そのため、問合せ数が増加すれば広告収入が増加致しますが、問合せ数はGoogleの検索アルゴリズムなど外部環境の影響により増減し、フロー型の収益構造となっております」（https://kitaishihon.com/company/7378/business・3回目）
+  - 「本サービスは、採用候補者となるユーザーは無料で利用でき、候補者の採用が決定し、入社することによって採用企業から紹介手数料を得る成果報酬型を採用しており、フロー型の収益構造となっております」（https://kitaishihon.com/company/7378/business・3回目）
+  - 「以上述べた事業を事業系統図によって示すと以下のとおりであります」（https://kitaishihon.com/company/7378/business・3回目）
+  - 「そのなかで、2026年10月期は安定的かつ持続的な成長を実現するための収益構造の見直し・再構築期間と位置付けております」（https://kitaishihon.com/company/7378/business・3回目）
+  - 「こちらに関しては、成功報酬を受け取るアフィリエイト収益モデルになります」（https://kyoto-leaders.jp/archives/41・3回目）
+- 誰に：
+  - 「世界中の誰よりも深くユーザーとお客様を幸せにしたい」（https://asiro.co.jp/・1回目）
+  - 「悩むユーザーを」（https://asiro.co.jp/・1回目）
+  - 「ユーザーを幸せにする」（https://asiro.co.jp/・1回目）
+  - 「個人のお客様が、幅広い法律分野から弁護士を検索し、面談予約まで行える総合弁護士データベースサービスです」（https://asiro.co.jp/business/・1回目）
+  - 「世界中の誰よりも深く、ユーザーとお客様を幸せにすることを目指し、そのための手段には一切の制限を設けません」（https://asiro.co.jp/ma/・1回目）
+  - 「サービスを社会基盤となり得る水準まで深化させ、永続的にお客様に貢献するため、中長期的な視点で事業を運営します」（https://asiro.co.jp/ma/・1回目）
+  - 「また、ユーザーがインターネットを活用して弁護士を比較検討できるようになったことで、「初回相談料無料」「成功報酬制」等の料金体系を導入する弁護士も増加してきており、多様な選択肢が生まれることでリーガルサービスの敷居が低くなり、弁護士に相談・依頼しやすい環境作りを支援することが出来ているものと考えております」（https://asiro.co.jp/sustainability/・1回目）
+  - 「ユーザーとお客様を幸せにしたい」（https://asiro.co.jp/career/・1回目）
+  - 「ユーザー、クライアントはもちろん、」（https://asiro.co.jp/career/・1回目）
+  - 「目の前のお客様を幸せにすることで、」（https://asiro.co.jp/career/・1回目）
+  - 「そのお客様がほかの誰かを幸せにする」（https://asiro.co.jp/career/・1回目）
+  - 「キャリアアップステージでは各エージェントやサイトごとに利用者にアンケートを実施し、「生の声」を発信しています」（https://tenshoku.asiro.co.jp/・1回目）
+- 何を：
+  - 「より深く、サービスを深化させる」（https://asiro.co.jp/・1回目）
+  - 「提供サービス」（https://asiro.co.jp/・1回目）
+  - 「提供サービス」（https://asiro.co.jp/business/・1回目）
+  - 「刹那的なサービスではなく」（https://asiro.co.jp/business/・1回目）
+  - 「サービスを創り上げたい」（https://asiro.co.jp/business/・1回目）
+  - 「当社の社名は、世界最深地点で生存が確認された深海魚の名前（ヨミノアシロ）を拝借しており、「アシロに関わる人を誰よりも深く幸せにすることで、よりよい社会の実現に貢献する」という企業理念の下、表層的なサービスではなく、日常生活の基盤やインフラと成り得るサービスの創出を目指しています」（https://asiro.co.jp/business/・1回目）
+  - 「法人・個人事業主向けの弁護士費用保険と予防法務サービスを組み合わせ、平時の備えからトラブル発生時の解決までを支援します」（https://asiro.co.jp/business/・1回目）
+  - 「個人のお客様が、幅広い法律分野から弁護士を検索し、面談予約まで行える総合弁護士データベースサービスです」（https://asiro.co.jp/business/・1回目）
+  - 「株式会社アシロ、Griffin Corp.と訴訟費用立替えサービスの日本展開に向けた基本合意書を締結」（https://asiro.co.jp/news/・1回目）
+  - 「株式会社アシロ、エージェントIG社と業務提携 中小企業及び個人事業主に対する広範な営業ネットワークを通じ、法務支援サービス『LegalBase』の販売機会を拡大」（https://asiro.co.jp/news/・1回目）
+  - 「株式会社アシロ、イオン保険サービスと業務提携契約を締結 個人向け総合弁護士データベース『リーガルメイト』の提供を開始」（https://asiro.co.jp/news/・1回目）
+  - 「株式会社アシロ、イオン保険サービスと業務提携 中小企業･個人事業主向｢法務あんしんパック｣を6月1日より提供開始」（https://asiro.co.jp/news/・1回目）
+- どうやって売るか：
+  - 「アシロで働くスタッフをご紹介」（https://asiro.co.jp/・1回目）
+  - 「有料職業紹介事業（13-ユ-313782）」（https://asiro.co.jp/about/・1回目）
+  - 「弁護士に特化した求人のご紹介から戦略的な内定獲得支援まで、弁護士業界に精通したプロフェッショナルが対応」（https://asiro.co.jp/business/・1回目）
+  - 「また、弁護士や社外取締役、管理部門スタッフの採用を検討する企業に人材紹介するサービスも運営するととともに、連結子会社であるアシロ少額短期保険では弁護士費用の一部を賄うことができる保険商品を提供しております」（https://asiro.co.jp/sustainability/・1回目）
+  - 「加えて、企業内弁護士や社外取締役、管理部門スタッフの採用を検討する企業に人材紹介するサービスを運営することで企業にとっての司法アクセスへの改善を進めるとともに、弁護士費用を保険金で賄うことができる保険商品を販売している少額短期保険会社を連結子会社化することで、弁護士を活用する際の主要な懸念点の一つである弁護士費用という問題へのアプローチも進めております」（https://asiro.co.jp/sustainability/・1回目）
+  - 「それぞれのメンバーがなぜアシロを選んだのか、入社してからの自己成長、変化をインタビュー記事でご紹介」（https://asiro.co.jp/career/・1回目）
+  - 「企業紹介動画」（https://asiro.co.jp/career/・1回目）
+  - 「夏採用の企業一覧2026【27卒】業界別に大手企業79社を紹介」（https://tenshoku.asiro.co.jp/・1回目）
+  - 「求職者にとって適切な選択を見つけるのは難しいかもしれませんが、一方で、多くのメディアで紹介される転職エージェントは一定の高い信頼を持っていると言えます」（https://tenshoku.asiro.co.jp/・1回目）
+  - 「(職業紹介事業会社)の中から、あなたに最もおすすめの転職エージェントを厳選紹介」（https://tenshoku.asiro.co.jp/・1回目）
+  - 「保育士も退職代行を使える！利用すべきケースやおすすめのサービスも紹介」（https://tenshoku.asiro.co.jp/・1回目）
+  - 「監修者をご紹介」（https://tenshoku.asiro.co.jp/・1回目）
+- お金の形：
+  - 「また、ユーザーがインターネットを活用して弁護士を比較検討できるようになったことで、「初回相談料無料」「成功報酬制」等の料金体系を導入する弁護士も増加してきており、多様な選択肢が生まれることでリーガルサービスの敷居が低くなり、弁護士に相談・依頼しやすい環境作りを支援することが出来ているものと考えております」（https://asiro.co.jp/sustainability/・1回目）
+  - 「本サービスに関する利用料金その他の金銭債権の管理及び債権回収（外部事業者への委託を含む」（https://asiro.co.jp/privacy/・1回目）
+  - 「有料サービスに係る利用料金の決済手段及びこれに関する各種情報（Stripe, Inc.によるクレジットカード決済処理に係る情報を含む」（https://asiro.co.jp/privacy/・1回目）
+  - 「グループ会社から受託する人事関連業務・経理業務・社内システムの運用保守に関わる業務等を遂行するため」（https://asiro.co.jp/privacy/・1回目）
+  - 「利用料金の決済（Stripe）」（https://asiro.co.jp/privacy/・1回目）
+  - 「LegalBaseの利用料金の決済は、Stripe, Inc.（米国）が提供する決済処理サービスを通じて行います」（https://asiro.co.jp/privacy/・1回目）
+  - 「ご記入いただいた請求書、代理人によるお求めの場合は代理人であることを確認する書類、手数料分の郵便為替（利用目的の通知並びに開示の請求の場合のみ）を上記個人情報問合せ係までご郵送ください」（https://asiro.co.jp/privacy/・1回目）
+  - 「利用目的の通知又は開示のお求めについての手数料」（https://asiro.co.jp/privacy/・1回目）
+  - 「費用、取引リスクに関する明確な表示があること（手数料、元本が欠損するおそれがある場合はその旨、元本を上回る損失が生じるおそれがある場合はその旨など）」（https://asiro.co.jp/ad-guideline/・1回目）
+  - 「費用、取引リスクに関する明確な表示があること（法令上、取り扱う仮想通貨の名称や仕組みなどの説明、法定通貨ではないこと、価格変動があること、手数料などの契約内容などが明確に記載されていることが必要となります）」（https://asiro.co.jp/ad-guideline/・1回目）
+  - 「主要事業である「メディア事業」の中でも、収益の大きい「リーガルメディア」は主に月額定額の掲載料収入（サイト内の有料広告の掲載枠数に、月額定額の掲載枠単価を乗じた金額）であり、掲載枠数の増加に比例して収益が伸長するストック型の収益構造であることから、安定的な成長を目指すことが出来るビジネスモデルとなっております」（https://kitaishihon.com/company/7378/business・3回目）
+  - 「派生メディアの報酬体系はユーザーからの問合せ数に応じた成果報酬型でありフロー収益となりますが、リーガルメディアの報酬体系は、サイト内の有料広告の掲載枠数に月額定額の掲載枠単価を乗じた広告収入を得るストック収益となっていることから、安定した収益を見込むことが可能となっております」（https://kitaishihon.com/company/7378/business・3回目）
+- 売上構成：
+  - 「株式会社セグメント」（https://asiro.co.jp/external-transmission-policy/・1回目）
+  - 「セグメント情報」（https://kitaishihon.com/company/7378/business・3回目）
+  - 「※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります」（https://kitaishihon.com/company/7378/business・3回目）
+  - 「※セグメントの売上や利益は、企業毎にその定義が異なる場合があります」（https://kitaishihon.com/company/7378/business・3回目）
+  - 「セグメント名」（https://kitaishihon.com/company/7378/business・3回目）
+  - 「売上構成比率」（https://kitaishihon.com/company/7378/business・3回目）
+  - 「利益構成比率」（https://kitaishihon.com/company/7378/business・3回目）
+  - 「セグメントの名称」（https://kitaishihon.com/company/7378/business・3回目）
+  - 「上記の３事業は、「第５ 経理の状況 １ 連結財務諸表等 (１) 連結財務諸表 連結財務諸表注記 ７．セグメント情報」に掲げる区分と同一であります」（https://kitaishihon.com/company/7378/business・3回目）
+  - 「当社グループを取り巻くインターネット広告市場におきましては、前年である2024年の広告費は３兆6,517億円（前年比9.6%増加）となり、総広告費に占める構成比は47.6%に達しました」（https://kitaishihon.com/company/7378/business・3回目）
+  - 「主力のメディア事業では、掲載枠数・顧客数の着実な純増に加え、サービスの高付加価値化による単価上昇が進展し、売上収益41.0%増、セグメント利益86.2％増と高い成長を実現いたしました」（https://kitaishihon.com/company/7378/business・3回目）
+  - 「HR事業では事業の整理と業務効率化等の推進により初めてのセグメント黒字を達成し、保険事業では法人向け市場という新たな成長ドライバーの開拓に本格着手いたしました」（https://kitaishihon.com/company/7378/business・3回目）
+- 利益の源泉：
+  - 「リクルートエージェントの強みは何と言ってもその非公開求人の数」（https://tenshoku.asiro.co.jp/・1回目）
+  - 「売上収益・営業利益率の推移と将来イメージ及びその後の成長イメージ」（https://asiro.co.jp/ir/plan/・1回目）
+  - 「我々が考えるアシロの強みについてまとめています」（https://asiro.co.jp/career/message/・1回目）
+  - 「強みだけでなく、いまアシロが抱えている弱み・課題、その課題をまとめています」（https://asiro.co.jp/career/message/・1回目）
+  - 「――各事業について、競合と比べての強みを教えてください」（https://kyoto-leaders.jp/archives/41・3回目）
+  - 「事業を継続するうえで、「何が最終的に競争優位性の源泉になるか」を見極め、そこに集中的に投資することが競争優位性につながると思います」（https://kyoto-leaders.jp/archives/41・3回目）
+  - 「顧客が期待するものを安定的に供給するための仕組みを作っていることが、大きな競争優位です」（https://kyoto-leaders.jp/archives/41・3回目）
+- 沿革：
+  - 「2009年11月」（https://asiro.co.jp/about/・1回目）
+  - 「2016年4月」（https://asiro.co.jp/about/・1回目）
+  - 「2026年11月最新版」（https://tenshoku.asiro.co.jp/・1回目）
+  - 「2020年9月15日 施行」（https://asiro.co.jp/security/・1回目）
+  - 「2026年9月1日最終更新」（https://asiro.co.jp/external-transmission-policy/・1回目）
+  - 「2026年10月期の営業利益15億円を足元の基準とし、2027年10月期には営業利益20億円前後を目指します」（https://asiro.co.jp/ir/plan/・1回目）
+  - 「2025年10月期有価証券報告書より」（https://kitaishihon.com/company/7378/business・3回目）
+  - 「2016年10月期（注）」（https://kitaishihon.com/company/7378/business・3回目）
+  - 「2017年10月期」（https://kitaishihon.com/company/7378/business・3回目）
+  - 「2018年10月期」（https://kitaishihon.com/company/7378/business・3回目）
+  - 「2019年10月期」（https://kitaishihon.com/company/7378/business・3回目）
+  - 「2020年10月期」（https://kitaishihon.com/company/7378/business・3回目）
+- 検索結果の抜粋：
+  - 「事業と強み | アシロ 採用サイト — 事業と強み | アシロ 採用サイト 株式会社アシロ https://asiro.co.jp > ホーム > アシロを知る」（https://asiro.co.jp/career/about/business-content/・3回目）
+  - 「アシロ 【7378】の事業内容 - キタイシホン — アシロ 【7378】の事業内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/7378/business・3回目）
+  - 「アシロ /高い参入障壁を持つリーガルメディアを主に事業展開 — アシロ /高い参入障壁を持つリーガルメディアを主に事業展開 ログミーFinance https://finance.logmi.jp > articles」（https://finance.logmi.jp/articles/376758・3回目）
+  - 「倫理観と結果への執着心で突き進む。株式会社 アシロ が成長し ... — 倫理観と結果への執着心で突き進む。株式会社 アシロ が成長し ... 京都リーダーズ https://kyoto-leaders.jp > archives」（https://kyoto-leaders.jp/archives/41・3回目）
+  - 「決算 関連 資料 | IR - ASIRO Inc. - 株式会社 アシロ — 決算 関連 資料 | IR - ASIRO Inc. - 株式会社 アシロ 株式会社アシロ https://asiro.co.jp > ホーム > IRライブラリー」（https://asiro.co.jp/ir/library/document/・3回目）
+  - 「アシロ [7378]：2026年10月期第2四半期 決算説明資料 2026年 ... — アシロ [7378]：2026年10月期第2四半期 決算説明資料 2026年 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr」（https://www.nikkei.com/nkd/disclosure/tdnr/20260609566588/・3回目）
+  - 「アシロ (7378) 個人投資家・機関投資家合同IRセミナー【 資料 ... — アシロ (7378) 個人投資家・機関投資家合同IRセミナー【 資料 ... YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=98hWQfQ8jN0・3回目）
+  - 「株式会社 アシロ - ログミーファイナンス - logmi Finance — 株式会社 アシロ - ログミーファイナンス - logmi Finance ログミーFinance https://finance.logmi.jp > companies」（https://finance.logmi.jp/companies/1231・3回目）
+  - 「アシロ ：2026年10月期第3四半期 決算説明資料 - Moomoo — アシロ ：2026年10月期第3四半期 決算説明資料 - Moomoo Moomoo https://www.moomoo.com > news > notice > asiro-present...」（https://www.moomoo.com/ja/news/notice/308119524/asiro-presentation-materials-for-the-third-quarter-financial-results-of・3回目）
+  - 「株式会社 アシロ ｜CLARIFY THE CORE PART — 株式会社 アシロ ｜CLARIFY THE CORE PART 株式会社アシロ https://asiro.co.jp」（https://asiro.co.jp/・3回目）
+  - 「アシロ 【7378】の 事業 内容 - キタイシホン — アシロ 【7378】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/7378/business・3回目）
+  - 「アシロ （7378）、高単価商品に依存しない収益基盤の構築へ ... — アシロ （7378）、高単価商品に依存しない収益基盤の構築へ ... ログミーFinance https://finance.logmi.jp > articles」（https://finance.logmi.jp/articles/385125・3回目）
+- 事業内容：記載なし（3回確認済み：公式25頁／PDF・画像1件／外部5頁・検索5回）
+
 ## アステリア
 - 公式URL：https://jp.asteria.com/（search:yahoo_jp:アステリア）
 - 設立：1998年 9月（https://jp.asteria.com/company/profile/・1回目）
@@ -3934,6 +6449,105 @@
   - 「会社概要 | 会社情報 | アステリア 株式会社 — 会社概要 | 会社情報 | アステリア 株式会社 アステリア株式会社 https://jp.asteria.com > company > profile」（https://jp.asteria.com/company/profile/・3回目）
 - 従業員数：記載なし（3回確認済み：公式14頁／PDF・画像5件／外部2頁・検索5回）
 - 売上高：記載なし（3回確認済み：公式14頁／PDF・画像5件／外部2頁・検索5回）
+
+## アトラエ
+- 公式URL：https://atrae.co.jp/（search:yahoo_jp:アトラエ）
+- 設立：一貫して追求する「理想の会社」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+- ビジネスモデル：
+  - 「【ビジネスモデルの詳細分析】未来の組織が生み出す、未来の「働く」」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「しかし、そのビジネスモデルは、従来のリクナビやマイナビといった求人広告とは全く異なります」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「ビジネスモデルの革新性：」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「ビジネスモデル（SaaS）：」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「これは、同社のビジネスモデルと組織構造の効率性の高さを如実に示しています」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「高収益・高成長のビジネスモデル：」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「もちろん事業領域やビジネスモデルによって多少の差はあれど、それが当たり前の世界にこれからなっていくと思う」（https://note.com/raaamenkozou/n/n99819db3c686・3回目）
+- 誰に：
+  - 「自らが実践し、成果を出しているからこそ、そのプロダクトには魂が宿り、顧客からの信頼を勝ち得ることができるのです」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「ユーザーは毎日、AIによってレコメンドされる10人のビジネスパーソンとマッチングします」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「ストック収益であるWevoxは、顧客数が増えるほど、売上に対する費用の増加が緩やかになるため、利益率が向上しやすい構造を持っています」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「広告宣伝費も、プロダクトの力と口コミで顧客を獲得するため、売上規模に対して極めて低く抑えられています」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「多くの競合が、手厚い営業部隊やコンサルタントによる「人海戦術」でサービスを販売しているのに対し、アトラエは徹底して**「プロダクトの力」**で顧客を惹きつけます」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「その根底には、同社の思想が反映された、ユーザーを魅了するためのテクノロジーが埋め込まれています」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「導入企業が増え、データが蓄積されればされるほど、AIの解析精度は向上し、業界平均との比較なども可能になります」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+- 何を：
+  - 「この記事では、この”未来の組織”が、いかにして競争の激しいHR Tech市場で革新的なサービスを生み出し、高い収益性を維持し続けているのか」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「これが現在まで続く主力事業の柱となります」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「「Wevox」は、アトラエの組織運営の哲学とノウハウを、プロダクトという形に凝縮した、まさに同社の”生き様”を商品化した事業です」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「また、サービス開始以来、1,000社以上の組織から蓄積された」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「主力のGreen事業は、成功報酬型であり、採用決定時の報酬単価が高いため、利益率が非常に高いビジネスです」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「多くの競合が、手厚い営業部隊やコンサルタントによる「人海戦術」でサービスを販売しているのに対し、アトラエは徹底して**「プロダクトの力」**で顧客を惹きつけます」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「【技術・サービスの深堀り】思想を形にするテクノロジー」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「Greenは、IT/Web以外の領域へも展開を進め、Wevoxは、エンゲージメントデータを活用した新たなサービス（1on1支援、研修など）へと進化していきます」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「主力事業であるGreenは、企業の採用意欲に左右されるため、景気後退局面では売上・利益が落ち込むリスクがあります」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「主力事業の一つが景気動向に左右されるため、業績の変動リスクがある」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「グローバル企業から「Wevox Great!」って言われたいし、海外でも国内でもいろんなとこに行って、「アトラエで働いてる」と言ったときに「あなたのところのサービス使ってるよ！」「すごい会社で働いてるね！」とかって言ってもらえたら、とんでもなく誇らしくない？」（https://note.com/raaamenkozou/n/n99819db3c686・3回目）
+  - 「『テクノロジーを活用したサービスで世の中に生きがいと働きがいを増やす』」（https://note.com/raaamenkozou/n/n99819db3c686・3回目）
+- どうやって売るか：
+  - 「社員が友人・知人を紹介する「リファラル採用」を支援する機能も充実しており、企業と求職者のミスマッチを減らすことに貢献しています」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「様々な役割を果たしてくれている「アトラエバー」をご紹介致します」（https://note.com/raaamenkozou/n/n99819db3c686・3回目）
+  - 「人材紹介事業部の立ち上げ、関連会社の代表取締役、本社で200人以上を率いる事業責任者を経験したのち、2003年株式会社アトラエを創業」（https://service.jinjibu.jp/article/detl/innovator/2029/・3回目）
+  - 「「ゼロリセット」のゲームで築いた「IT人材紹介」の城」（https://service.jinjibu.jp/article/detl/innovator/2029/・3回目）
+  - 「IT・Web・ゲーム業界に特化した人材紹介会社、株式会社ギークリーの代表・奥山貴広さん」（https://service.jinjibu.jp/article/detl/innovator/2029/・3回目）
+  - 「HR業界の代表的な業界団体をご紹介いたします」（https://service.jinjibu.jp/article/detl/innovator/2029/・3回目）
+  - 「米国ATDの活動に賛同しているパートナー」（https://service.jinjibu.jp/article/detl/innovator/2029/・3回目）
+  - 「一般社団法人 日本人材紹介事業協会」（https://service.jinjibu.jp/article/detl/innovator/2029/・3回目）
+  - 「厚生労働大臣の許可を受けてホワイトカラーを中心とした職業紹介を行う人材紹介事業者の団体です」（https://service.jinjibu.jp/article/detl/innovator/2029/・3回目）
+- お金の形：
+  - 「Green：IT/Web業界に特化した「成功報酬型」求人メディア」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「アトラエは、成功報酬型求人メディア「Green」や、エンゲージメント解析ツール「Wevox」などを手掛ける、HR Tech（ヒューマンリソース・テクノロジー）企業です」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「成功報酬型求人「Green」は、なぜIT/Web業界で圧倒的な強さを誇るのか？」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「成功報酬型求人メディア「Green」をリリース」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「成功報酬型：」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「Greenを通じて応募した候補者の採用が決定し、入社した場合にのみ、成功報酬（理論年収の一定割合）を支払うモデルです」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「企業は、従業員一人あたりの月額利用料を支払う、典型的な」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「ストック型のビジネス」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「主力のGreen事業は、成功報酬型であり、採用決定時の報酬単価が高いため、利益率が非常に高いビジネスです」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「ストック収益であるWevoxは、顧客数が増えるほど、売上に対する費用の増加が緩やかになるため、利益率が向上しやすい構造を持っています」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「成功報酬型のGreenは、企業の採用意欲、すなわち」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「SaaS（Wevox）と成功報酬型（Green）の組み合わせによる、高い利益率と成長性」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+- 利益の源泉：
+  - 「【直近の業績・財務状況】高収益SaaSと景気感応型事業のバランス」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「「社員全員経営」がもたらす、究極の競争優位性と、その裏に潜むリスクとは？」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「競争優位性：」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「高い営業利益率：」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「傑出して高い営業利益率」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「これが、他社には真似のできない、構造的な高収益体質を生み出しています」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「このPL、BS、CFの分析から、アトラエは「高収益性」「高成長性」「高安全性」の三拍子が揃った、極めて優良なファンダメンタルズを持つ企業であると結論付けられます」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「Wevoxの強みは、単なるアンケートツールではない点にあります」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「この**「データのネットワーク効果」**が、Wevoxの参入障壁を日々高めています」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「【経営陣・組織力の評価】競争優位性の源泉、そのすべて」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「この記事で繰り返し述べてきた通り、アトラエの企業価値と競争優位性の源泉は、そのすべてが**「組織力」**に集約されます」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「究極の競争優位性としての「組織文化」：」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+- 沿革：
+  - 「2025年6月30日 20:57」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「設立と沿革：一貫して追求する「理想の会社」」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「2006年：」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「2016年：」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「2017年：」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「2018年：」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「2022年：」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「2023年以降：」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「この沿革で注目すべきは、事業の変遷以上に、創業以来、その」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「2024年2月28日 11:20」（https://note.com/raaamenkozou/n/n99819db3c686・3回目）
+  - 「2021年に岡山大学理学部物理学科を卒業後、新卒としてアトラエに入社」（https://note.com/raaamenkozou/n/n99819db3c686・3回目）
+  - 「1974年生まれ、東京都出身」（https://service.jinjibu.jp/article/detl/innovator/2029/・3回目）
+- 検索結果の抜粋：
+  - 「Green - 株式会社アトラエ | Atrae, Inc. — Green - 株式会社アトラエ | Atrae, Inc. Atrae, Inc. https://atrae.co.jp > business」（https://atrae.co.jp/business/・3回目）
+  - 「アトラエ (6194)の正体は”未来の組織”そのもの - note — アトラエ (6194)の正体は”未来の組織”そのもの - note note https://note.com > ビジネス > 経営・マネジメント」（https://note.com/tatsuya_sabato/n/n73fc932c6054・3回目）
+  - 「「管理しない経営」は本当に成り立つ？ アトラエ に聞く ... — 「管理しない経営」は本当に成り立つ？ アトラエ に聞く ... マネーフォワード クラウド https://biz.moneyforward.com > ... > インタビュー」（https://biz.moneyforward.com/blog/41700/・3回目）
+  - 「株式会社 アトラエ - OpenWork — 株式会社 アトラエ - OpenWork OpenWork https://www.openwork.jp > ... > アトラエ > 強み・弱み・展望」（https://www.openwork.jp/one_answer.php?vid=a0A1000001zK2Zx&qco=9・3回目）
+  - 「株式会社 アトラエ 個人投資家向けオンライン会社説明会 — 株式会社 アトラエ 個人投資家向けオンライン会社説明会 YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=fhb6bd992EA・3回目）
+  - 「決算説明資料 - 株式会社アトラエ | Atrae, Inc. — 決算説明資料 - 株式会社アトラエ | Atrae, Inc. Atrae, Inc. https://atrae.co.jp > presentation」（https://atrae.co.jp/ir/presentation/・3回目）
+  - 「Frequently Asked Questions - 株式会社アトラエ | Atrae, Inc. — Frequently Asked Questions - 株式会社アトラエ | Atrae, Inc. Atrae, Inc. https://atrae.co.jp > faq」（https://atrae.co.jp/ir/faq/・3回目）
+  - 「Disclaimer - 株式会社アトラエ | Atrae, Inc. — Disclaimer - 株式会社アトラエ | Atrae, Inc. 株式会社アトラエ https://atrae.co.jp > disclaimer」（https://atrae.co.jp/ir/disclaimer/・3回目）
+  - 「Corporate governance - 株式会社アトラエ | Atrae, Inc. — Corporate governance - 株式会社アトラエ | Atrae, Inc. Atrae, Inc. https://atrae.co.jp > governance」（https://atrae.co.jp/ir/governance/・3回目）
+  - 「Electronic public notices - 株式会社アトラエ | Atrae, Inc. — Electronic public notices - 株式会社アトラエ | Atrae, Inc. Atrae, Inc. https://atrae.co.jp > notice」（https://atrae.co.jp/ir/notice/・3回目）
+  - 「About us - 株式会社アトラエ | Atrae, Inc. — About us - 株式会社アトラエ | Atrae, Inc. Atrae, Inc. https://atrae.co.jp > about_us」（https://atrae.co.jp/about_us/・3回目）
+  - 「Work Style - 株式会社アトラエ | Atrae, Inc. — Work Style - 株式会社アトラエ | Atrae, Inc. Atrae, Inc. https://atrae.co.jp > culture > workstyle」（https://atrae.co.jp/culture/workstyle/・3回目）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部3頁・検索5回）
+- 事業内容：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部3頁・検索5回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部3頁・検索5回）
+- 売上構成：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部3頁・検索5回）
 
 ## アドテック　プラズマ　テクノロジー
 - 公式URL：https://www.adtec-rf.co.jp/（search:yahoo_jp:アドテック プラズマ テクノロジー）
@@ -4138,6 +6752,120 @@
 - 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）
 - ビジネスモデル：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）
 
+## アルファポリス
+- 公式URL：https://www.alphapolis.co.jp/（search:ddgs:google:アルファポリス）
+- 従業員数：平均年齢（歳） 平均勤続年数（年） 平均年間給与（千円）（https://edinetdb.jp/company/E30908/text?fy=2025・3回目）
+- ビジネスモデル：
+  - 「アルファポリスが挑む新しいビジネスモデルで見えてくる成長戦略 | チームマイクの企業分析」（https://consovation.com/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%9D%E3%83%AA%E3%82%B9%E3%81%8C%E6%8C%91%E3%82%80%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%A6%8B/・3回目）
+  - 「アルファポリスが挑む新しいビジネスモデルで見えてくる成長戦略」（https://consovation.com/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%9D%E3%83%AA%E3%82%B9%E3%81%8C%E6%8C%91%E3%82%80%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%A6%8B/・3回目）
+  - 「読者の直接的な支持を反映したランキングシステムを強みに、ライトノベルや女性向け恋愛小説、Web発コミックなど多彩なジャンルで数々のヒット作を創出し、出版不況下においても独自のビジネスモデルで高い収益性を確立しています」（https://consovation.com/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%9D%E3%83%AA%E3%82%B9%E3%81%8C%E6%8C%91%E3%82%80%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%A6%8B/・3回目）
+  - 「【ビジネスモデルと成長戦略に迫る】SAPコンサルで躍進するノムラシステムコーポレーションの魅力」（https://consovation.com/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%9D%E3%83%AA%E3%82%B9%E3%81%8C%E6%8C%91%E3%82%80%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%A6%8B/・3回目）
+  - 「株式会社東北新社の魅力に迫る IR資料から読み解くビジネスモデルと成長戦略」（https://consovation.com/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%9D%E3%83%AA%E3%82%B9%E3%81%8C%E6%8C%91%E3%82%80%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%A6%8B/・3回目）
+  - 「株式会社ＧＭＯプライム・ストラテジーのビジネスモデルを読み解く 成長戦略のポイント」（https://consovation.com/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%9D%E3%83%AA%E3%82%B9%E3%81%8C%E6%8C%91%E3%82%80%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%A6%8B/・3回目）
+  - 「株式会社スクウェア・エニックス・ホールディングスのビジネスモデルと成長戦略が魅力的すぎる」（https://consovation.com/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%9D%E3%83%AA%E3%82%B9%E3%81%8C%E6%8C%91%E3%82%80%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%A6%8B/・3回目）
+  - 「成長戦略に注目 株式会社プロディライトの魅力を探るビジネスモデル」（https://consovation.com/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%9D%E3%83%AA%E3%82%B9%E3%81%8C%E6%8C%91%E3%82%80%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%A6%8B/・3回目）
+  - 「【ビジネスモデルの要点に迫る 株式会社システムリサーチの成長戦略を徹底解説】」（https://consovation.com/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%9D%E3%83%AA%E3%82%B9%E3%81%8C%E6%8C%91%E3%82%80%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%A6%8B/・3回目）
+  - 「昭文社ホールディングスのビジネスモデル解説 成長戦略の鍵を握る地図とデジタルの融合」（https://consovation.com/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%9D%E3%83%AA%E3%82%B9%E3%81%8C%E6%8C%91%E3%82%80%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%A6%8B/・3回目）
+  - 「KADOKAWAの魅力に迫る ビジネスモデルで見る成長戦略」（https://consovation.com/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%9D%E3%83%AA%E3%82%B9%E3%81%8C%E6%8C%91%E3%82%80%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%A6%8B/・3回目）
+  - 「北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル」（https://consovation.com/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%9D%E3%83%AA%E3%82%B9%E3%81%8C%E6%8C%91%E3%82%80%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%A6%8B/・3回目）
+- 誰に：
+  - 「利用者情報の外部送信について」（https://www.alphapolis.co.jp/・1回目）
+  - 「利用者情報の外部送信について」（https://www.alphapolis.co.jp/prize/requirements・1回目）
+  - 「利用者情報の外部送信について」（https://www.alphapolis.co.jp/prize/about・1回目）
+  - 「利用者情報の外部送信について」（https://www.alphapolis.co.jp/prize/history・1回目）
+  - 「なぜそうなったのかというと、ウェブと紙の両方でユーザー体験を広げるためには、編集者が作品ごとに最適な形でプロモーションできる体制が必要だからです」（https://consovation.com/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%9D%E3%83%AA%E3%82%B9%E3%81%8C%E6%8C%91%E3%82%80%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%A6%8B/・3回目）
+  - 「最大のリソースは、自社で運営する投稿プラットフォームと、そこで形成されるユーザーコミュニティです」（https://consovation.com/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%9D%E3%83%AA%E3%82%B9%E3%81%8C%E6%8C%91%E3%82%80%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%A6%8B/・3回目）
+  - 「顧客との関係」（https://consovation.com/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%9D%E3%83%AA%E3%82%B9%E3%81%8C%E6%8C%91%E3%82%80%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%A6%8B/・3回目）
+  - 「なぜそうなったのかというと、インターネット時代にはユーザーの声を素早く反映させることで作品の質を高めやすくなったからです」（https://consovation.com/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%9D%E3%83%AA%E3%82%B9%E3%81%8C%E6%8C%91%E3%82%80%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%A6%8B/・3回目）
+  - 「顧客セグメント」（https://consovation.com/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%9D%E3%83%AA%E3%82%B9%E3%81%8C%E6%8C%91%E3%82%80%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%A6%8B/・3回目）
+  - 「顧客セグメントとしては、ライトノベルや漫画を好む若い世代が中心となりますが、ウェブ小説ブームの広がりとともに、幅広い年代へと裾野が広がっています」（https://consovation.com/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%9D%E3%83%AA%E3%82%B9%E3%81%8C%E6%8C%91%E3%82%80%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%A6%8B/・3回目）
+  - 「男性向けや女性向けなど特定のジャンルだけでなく、さまざまなファンタジーや恋愛、SFなど多種多様な作品を取り扱うことでユーザー層を拡大しています」（https://consovation.com/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%9D%E3%83%AA%E3%82%B9%E3%81%8C%E6%8C%91%E3%82%80%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%A6%8B/・3回目）
+  - 「同社は、製造業、流通業、サービス業など幅広い業界の顧客に対し、基幹システムの構築から...」（https://consovation.com/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%9D%E3%83%AA%E3%82%B9%E3%81%8C%E6%8C%91%E3%82%80%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%A6%8B/・3回目）
+- 何を：
+  - 「そんなある日、エトワが生み出した便利アイテム・アルミホイルに目をつけた商人から、まさかの商品化の提案が!! アルミホイルを世に広めるため商会を立ち上げたエトワだったが、予想以上の難題が待ち受けていて――!?」（https://www.alphapolis.co.jp/・1回目）
+  - 「レンタルサービス利用規約」（https://www.alphapolis.co.jp/・1回目）
+  - 「ABJマークは、この電子書店・電子書籍配信サービスが、著作権者からコンテンツ使用許諾を得た正規版配信サービスであることを示す登録商標（登録番号 第6091713号）です」（https://www.alphapolis.co.jp/・1回目）
+  - 「ABJマークの詳細、ABJマークを掲示しているサービスの一覧はこちら」（https://www.alphapolis.co.jp/・1回目）
+  - 「貯まったスコアは、一定数以上で特典（各種商品ギフトコードや現金）と交換することができます」（https://www.alphapolis.co.jp/prize/requirements・1回目）
+  - 「レンタルサービス利用規約」（https://www.alphapolis.co.jp/prize/requirements・1回目）
+  - 「「大賞」（アルファポリス編集部選考）、「読者賞」（ポイント最上位作）などを選出し、受賞作は出版化・商品化の可能性があります」（https://www.alphapolis.co.jp/prize/about・1回目）
+  - 「レンタルサービス利用規約」（https://www.alphapolis.co.jp/prize/about・1回目）
+  - 「レンタルサービス利用規約」（https://www.alphapolis.co.jp/prize/history・1回目）
+  - 「さらにヒット作が生まれるとアニメ化や派生商品の企画も容易になり、収益源を多角化しやすい構造を持っています」（https://consovation.com/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%9D%E3%83%AA%E3%82%B9%E3%81%8C%E6%8C%91%E3%82%80%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%A6%8B/・3回目）
+  - 「企業概要と最近の業績株式会社システムリサーチ【全体の業績】株式会社システムリサーチは、企業の多様な経営課題をITの力で解決する独立系の情報サービス企業です」（https://consovation.com/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%9D%E3%83%AA%E3%82%B9%E3%81%8C%E6%8C%91%E3%82%80%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%A6%8B/・3回目）
+  - 「同社は、製造業、流通業、サービス業など幅広い業界の顧客に対し、基幹システムの構築から...」（https://consovation.com/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%9D%E3%83%AA%E3%82%B9%E3%81%8C%E6%8C%91%E3%82%80%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%A6%8B/・3回目）
+- どうやって売るか：
+  - 「プロの声優・俳優による受賞作の“公式読み聞かせ動画”一例をご紹介！」（https://www.alphapolis.co.jp/prize/requirements・1回目）
+  - 「パートナーとしては、印刷会社や製本業者、全国の書店チェーン、電子書籍ストア、さらにはアニメ制作会社など多岐にわたります」（https://consovation.com/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%9D%E3%83%AA%E3%82%B9%E3%81%8C%E6%8C%91%E3%82%80%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%A6%8B/・3回目）
+  - 「そのために信頼できる外部パートナーとの連携を構築し、互いの強みを活かすことによってコスト削減と品質向上を同時に実現しているのです」（https://consovation.com/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%9D%E3%83%AA%E3%82%B9%E3%81%8C%E6%8C%91%E3%82%80%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%A6%8B/・3回目）
+  - 「とはいえ、人気作品をアニメ化する際には追加でライセンスや制作面の調整コストも発生し、今後さらなる拡大を目指すには安定的な投資計画とパートナー企業との緊密な連携が重要となります」（https://consovation.com/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%9D%E3%83%AA%E3%82%B9%E3%81%8C%E6%8C%91%E3%82%80%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%A6%8B/・3回目）
+  - 「北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル」（https://consovation.com/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%9D%E3%83%AA%E3%82%B9%E3%81%8C%E6%8C%91%E3%82%80%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%A6%8B/・3回目）
+  - 「2009年5月20日 - 梶本雄介による自社紹介文」（https://ja.wikipedia.org/wiki/%E6%A2%B6%E6%9C%AC%E9%9B%84%E4%BB%8B・3回目）
+  - 「株式会社クレア・ライフ・パートナーズ 工藤 将太郎 氏」（https://www.ceo-voice.com/interview/alphapolis.html・3回目）
+  - 「株式会社日本不動産パートナーズ 青木 晋市 氏」（https://www.ceo-voice.com/interview/alphapolis.html・3回目）
+  - 「アルサーガパートナーズ株式会社 小俣 泰明 氏」（https://www.ceo-voice.com/interview/alphapolis.html・3回目）
+- お金の形：
+  - 「これは、電子書籍の販売が引き続き好調に推移したことに加え、自社IPを活用したTVアニメ化プロジェクトなどのメディアミックス施策が奏功し、関連するコミックスや原作小説の紙の出版物・電子版双方の売上が大きく伸長したこと、さらにはIPの多面展開に伴うライセンス収入の寄与などが全体業績を押し上げる要因となったことによるものです」（https://consovation.com/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%9D%E3%83%AA%E3%82%B9%E3%81%8C%E6%8C%91%E3%82%80%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%A6%8B/・3回目）
+  - 「収益は書籍や電子書籍の販売が主軸となっていますが、アニメ化やグッズ販売、海外ライセンスなどからも利益を得ています」（https://consovation.com/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%9D%E3%83%AA%E3%82%B9%E3%81%8C%E6%8C%91%E3%82%80%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%A6%8B/・3回目）
+  - 「とはいえ、人気作品をアニメ化する際には追加でライセンスや制作面の調整コストも発生し、今後さらなる拡大を目指すには安定的な投資計画とパートナー企業との緊密な連携が重要となります」（https://consovation.com/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%9D%E3%83%AA%E3%82%B9%E3%81%8C%E6%8C%91%E3%82%80%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%A6%8B/・3回目）
+  - 「「①販売手数料等」は、主に電子書籍販売に係る手数料であり、電子書籍売上の拡大に比例して増加」（https://www2.jpx.co.jp/disc/94670/140120260610567761.pdf・3回目）
+  - 「①販売手数料等 6,826 79.5% 5,445 78.0% ＋ 25.4% ＋ 1,380 主に電子書籍販売の売上拡大に連動して増加」（https://www2.jpx.co.jp/disc/94670/140120260610567761.pdf・3回目）
+  - 「よるストック型利益を」（https://www2.jpx.co.jp/disc/94670/140120260610567761.pdf・3回目）
+  - 「クリエイティブ・コモンズ 表示-継承ライセンス」（https://ja.wikipedia.org/wiki/%E6%A2%B6%E6%9C%AC%E9%9B%84%E4%BB%8B・3回目）
+- 売上構成：
+  - 「顧客セグメント」（https://consovation.com/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%9D%E3%83%AA%E3%82%B9%E3%81%8C%E6%8C%91%E3%82%80%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%A6%8B/・3回目）
+  - 「顧客セグメントとしては、ライトノベルや漫画を好む若い世代が中心となりますが、ウェブ小説ブームの広がりとともに、幅広い年代へと裾野が広がっています」（https://consovation.com/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%9D%E3%83%AA%E3%82%B9%E3%81%8C%E6%8C%91%E3%82%80%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%A6%8B/・3回目）
+  - 「から、４ジャンルの中で売上構成割合が最も高い」（https://www2.jpx.co.jp/disc/94670/140120260610567761.pdf・3回目）
+  - 「従来の「出版事業」セグメントに、「アニメ制作事業」セグメントを追加」（https://www2.jpx.co.jp/disc/94670/140120260610567761.pdf・3回目）
+  - 「４Q累計 構成比」（https://www2.jpx.co.jp/disc/94670/140120260610567761.pdf・3回目）
+  - 「報告セグメント 合計」（https://www2.jpx.co.jp/disc/94670/140120260610567761.pdf・3回目）
+  - 「セグメント利益」（https://www2.jpx.co.jp/disc/94670/140120260610567761.pdf・3回目）
+  - 「セグメント情報（４Q累計）」（https://www2.jpx.co.jp/disc/94670/140120260610567761.pdf・3回目）
+  - 「４Q累計 構成比 ４Q累計 構成比 増減率 増減額」（https://www2.jpx.co.jp/disc/94670/140120260610567761.pdf・3回目）
+  - 「2027年3月期 計画 ～セグメント変更～」（https://www2.jpx.co.jp/disc/94670/140120260610567761.pdf・3回目）
+  - 「「出版事業」及び「アニメ事業」へと開示セグメントを再編」（https://www2.jpx.co.jp/disc/94670/140120260610567761.pdf・3回目）
+  - 「 セグメント間取引」（https://www2.jpx.co.jp/disc/94670/140120260610567761.pdf・3回目）
+- 利益の源泉：
+  - 「読者の直接的な支持を反映したランキングシステムを強みに、ライトノベルや女性向け恋愛小説、Web発コミックなど多彩なジャンルで数々のヒット作を創出し、出版不況下においても独自のビジネスモデルで高い収益性を確立しています」（https://consovation.com/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%9D%E3%83%AA%E3%82%B9%E3%81%8C%E6%8C%91%E3%82%80%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%A6%8B/・3回目）
+  - 「さらに読者側も、ウェブで親しんだ物語を本として所有したいというニーズを満たせる点が強みです」（https://consovation.com/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%9D%E3%83%AA%E3%82%B9%E3%81%8C%E6%8C%91%E3%82%80%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%A6%8B/・3回目）
+  - 「このリアルタイム性が大きな強みとなり、結果的に作家やイラストレーターとの強固なリレーションが築かれ、それが会社の主要なリソースになりました」（https://consovation.com/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%9D%E3%83%AA%E3%82%B9%E3%81%8C%E6%8C%91%E3%82%80%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%A6%8B/・3回目）
+  - 「そのために信頼できる外部パートナーとの連携を構築し、互いの強みを活かすことによってコスト削減と品質向上を同時に実現しているのです」（https://consovation.com/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%9D%E3%83%AA%E3%82%B9%E3%81%8C%E6%8C%91%E3%82%80%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%A6%8B/・3回目）
+  - 「【企業概要と最近の業績】株式会社東北新社【全体の業績】株式会社東北新社は、1961年の創業以来、映像に関するあらゆる領域で革新的な価値を提供し続けている、独自の強みを持った独立系の総合クリエイティブプロダクションです」（https://consovation.com/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%9D%E3%83%AA%E3%82%B9%E3%81%8C%E6%8C%91%E3%82%80%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%A6%8B/・3回目）
+  - 「３．市場環境・競争優位性」（https://www2.jpx.co.jp/disc/94670/140120260610567761.pdf・3回目）
+  - 「出版事業 ～ビジネスモデルの強み～」（https://www2.jpx.co.jp/disc/94670/140120260610567761.pdf・3回目）
+  - 「当社ビジネスモデルの２つの強み」（https://www2.jpx.co.jp/disc/94670/140120260610567761.pdf・3回目）
+  - 「出版事業 ～競争優位性～」（https://www2.jpx.co.jp/disc/94670/140120260610567761.pdf・3回目）
+  - 「自分の強みを自覚したことで“独立”へ」（https://www.ceo-voice.com/interview/alphapolis.html・3回目）
+- 沿革：
+  - 「2026年10月26日」（https://www.alphapolis.co.jp/・1回目）
+  - 「2026年11月01日」（https://www.alphapolis.co.jp/・1回目）
+  - 「2027年1月末日頃」（https://www.alphapolis.co.jp/prize/requirements・1回目）
+  - 「2026年12月の1か月間、第19回絵本大賞を開催いたします」（https://www.alphapolis.co.jp/prize/requirements・1回目）
+  - 「2026年11月〜末日まで開催しております」（https://www.alphapolis.co.jp/prize/about・1回目）
+  - 「2026年12月末日頃結果発表予定です」（https://www.alphapolis.co.jp/prize/about・1回目）
+  - 「2026年11月末までエントリー受付中です」（https://www.alphapolis.co.jp/prize/about・1回目）
+  - 「2026年12月〜末日まで開催いたします」（https://www.alphapolis.co.jp/prize/about・1回目）
+  - 「2027年1月末日頃結果発表予定です」（https://www.alphapolis.co.jp/prize/about・1回目）
+  - 「2026年11月末日頃結果発表予定です」（https://www.alphapolis.co.jp/prize/about・1回目）
+  - 「2026年開催」（https://www.alphapolis.co.jp/prize/history・1回目）
+  - 「2025年3月期の配当金は1株当たり14円が予定されており、株価は2025年1月8日時点で1,110円ほどで推移しています」（https://consovation.com/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%9D%E3%83%AA%E3%82%B9%E3%81%8C%E6%8C%91%E3%82%80%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A7%E8%A6%8B/・3回目）
+- 検索結果の抜粋：
+  - 「事業紹介 | 株式会社アルファポリス — 事業紹介 ビジネスモデル 当社は、当社が運営しておりますインターネット上のWebサイトに投稿された小説・漫画などのコンテンツの内から、サイト内でのユーザー評価を参考に、書籍として出版すべきコンテンツを調達しております。」（https://www.alphapolis.co.jp/company/business・3回目）
+  - 「アルファポリスが挑む新しいビジネスモデルで見えてくる成長戦略 | チ... — May 9, 2025 · 企業概要と最近の業績 株式会社アルファポリス 【全体の業績】 株式会社アルファポリスは、インターネット上で人気を集めた小説や漫画などのWebコンテンツを自社プラットフォームで発掘し、書籍化や電子書籍配信、さらにはアニメ化などのメディアミックス展開までを一貫して手がける総合 ...」（https://consovation.com/アルファポリスが挑む新しいビジネスモデルで見/・3回目）
+  - 「事業計画及び 成長可能性に 関する事項 株式会社アルファポリス — ビジネスの本格拡大に向けたグループ管理体制の最適化に伴い 「出版事業」及び「アニメ事業」へと開示セグメントを再編。 2026年3月期(旧セグメント) グループ会社 出版事業 小説・漫画投稿サイト「アルファポリス」の運営 紙書籍・電子書籍の出版、販売」（https://www2.jpx.co.jp/disc/94670/140120260610567761.pdf・3回目）
+  - 「Web発IP創出のパイオニア、アルファポリス (9467)を徹底解剖！～UGCが... — May 18, 2025 · はじめに：アルファポリスとは何者か？ その全貌を明らかにする 企業概要：Webとリアルを繋ぐIP創出カンパニー、アルファポリスの基盤 ビジネスモデルの詳細分析：アルファポリスの強みと成長エンジン 直近の業績・財務状況：ヒット作依存と収益構造の ...」（https://note.com/tatsuya_sabato/n/nc84c23eb1fd7・3回目）
+  - 「会社概要 | 株式会社アルファポリスアルファポリス（9467）の事業内容、事業の状況や経営戦略、事業等の...第3部：アルファポリスの企業分析⑤｜rask — 企業情報 会社概要 沿革 代表挨拶 役員紹介 経営理念 グループ会社一覧 事業紹介 ビジネスモデル Webサイト運営 書籍出版 IR情報 株主投資家の皆さまへ 業績ハイライト IRニュース IRスケジュール よくある質問 電子公告 免責事項 IRポリシー お問い合わせ ... 朝陽天満アンダルシュノベルズ・漫画TVアニメ化（2026年1月）シリーズ発行部数累計33万部 4.アルファポリス投稿サイトの総コンテンツ数アルファポリスビジネスモデルの基幹となるアルファポリス投稿サイトの総コンテンツ数は、タグ機能の追加や、新たな ... Jun 19, 2025 · 3-5 テンプレIPからの大ヒット育成可能性──「月が導く〜」の特例 これま」（https://www.alphapolis.co.jp/company/about/profile・3回目）
+  - 「2027年3月期 第1四半期 決算説明資料 株式会社アルファポリス — 「出版事業」及び「アニメ事業」へと開示セグメントを再編。 2026年3月期(旧セグメント) グループ会社 出版事業 小説・漫画投稿サイト「アルファポリス」の運営 紙書籍・電子書籍の出版、販売 自社IPのメディア展開(アニメ化等) アニメ制作事業 WHITE FOX NIAアニメーション 調整 2026年3月期に WHITE ...」（https://www2.jpx.co.jp/disc/94670/140120260807515685.pdf・3回目）
+  - 「2026年3月期 第1四半期 決算説明資料 株式会社アルファポリス — 原作:朝陽天満(アルファポリス刊) BL作品を中心としたアニメ化プロジェクト「BALLOON」第1弾作品として始動! 「BALLOON」プロジェクトとは、大日本印刷株式会社、株式会社イマジカインフォス、株式会社BLUE RIGHTSによる共同プロジェクト。」（https://www2.jpx.co.jp/disc/94670/140120250813540986.pdf・3回目）
+  - 「株式会社アルファポリス 決算説明資料 — EDINET DB — 株式会社アルファポリスの決算説明資料を、AIで構造化されたセクション単位で表示。経営戦略・業績・ガバナンスなど ...」（https://edinetdb.jp/company/E30908/presentations/・3回目）
+  - 「2025年3月期 決算説明資料 - tdnet-pdf.kabutan.jp — アルファポリス創業25周年記念大型キャンペーンの実施 2026年3月期に「アルファポリス創業25周年」を記念して、各電子ストアにおいて大規模なキャンペーンを実施予定。」（https://tdnet-pdf.kabutan.jp/20250515/140120250423521765.pdf・3回目）
+  - 「アルファポリス（9467）のIR情報・決算資料 | IRBANK — Jun 12, 2026 · アルファポリス（9467）のIR情報・適時開示一覧。決算発表、業績修正などの開示情報を掲載。」（https://irbank.net/9467/ir・3回目）
+  - 「事業計画及び 成長可能性に 関する事項 株式会社アルファポリス — 出版事業で蓄積した自社IPをアニメ化・メディア展開する「アニメビジネス」の拡大を目指し、2026 年3 月期にアニメ制作会社2社を子会社化し、連結決算に移行。 出版事業 株式会社アルファポリス インターネットのサイト運営、書籍の出版」（https://www2.jpx.co.jp/disc/94670/140120260610567761.pdf・3回目）
+  - 「株式会社アルファポリス 有価証券報告書 全文（FY2025）｜事業内容・... — 株式会社アルファポリス（証券コード 94670）の有価証券報告書 全文（FY2025 提出版）。事業内容・経営分析（MD&A）・リスク情報・コーポレートガバナンス・サステナビリティ・R&D・沿革など 11 セクションを原文ベースで表示。EDINET 原本 PDF へも直リンク。」（https://edinetdb.jp/company/E30908/text?fy=2025・3回目）
+- 設立：記載なし（3回確認済み：公式11頁／PDF・画像2件／外部7頁・検索5回）
+- 事業内容：記載なし（3回確認済み：公式11頁／PDF・画像2件／外部7頁・検索5回）
+- 売上高：記載なし（3回確認済み：公式11頁／PDF・画像2件／外部7頁・検索5回）
+
 ## アースインフィニティ
 - 公式URL：https://www.earth-infinity.co.jp/（search:yahoo_jp:アースインフィニティ）
 - 設立：2002年7月（https://www.earth-infinity.co.jp/company/index.html・1回目）
@@ -4239,6 +6967,103 @@
 - 売上高：記載なし（3回確認済み：公式14頁／PDF・画像2件／外部6頁・検索5回）
 - ビジネスモデル：記載なし（3回確認済み：公式14頁／PDF・画像2件／外部6頁・検索5回）
 - 利益の源泉：記載なし（3回確認済み：公式14頁／PDF・画像2件／外部6頁・検索5回）
+
+## アールビバン
+- 公式URL：https://www.artvivant.co.jp/（search:yahoo_jp:アールビバン）
+- 設立：1984年11月24日（https://www.artvivant.co.jp/company/overview/・1回目）
+- 従業員数：連結296名（単体208名）（2026年3月31日現在）（https://www.artvivant.co.jp/company/overview/・1回目）
+- ビジネスモデル：
+  - 「サービス内容と技術：ダブルラックは加盟店（提携小売業者）からの信用購入あっせん依頼を受け、購入者に代わって代金を立替払し、購入者から分割払いで回収するビジネスモデルです」（https://note.com/kakuka0904/n/n3059a8b3fe2d・3回目）
+  - 「収益モデルと規模：金融サービス事業の収益源は、主に手数料収入や利息収入です」（https://note.com/kakuka0904/n/n3059a8b3fe2d・3回目）
+- 誰に：
+  - 「お客様の心豊かで健康な生活に寄り添い、「夢」や「感動」を提供しつづけます」（https://www.artvivant.co.jp/・1回目）
+  - 「一人でも多くのお客様に夢や希望を感じてもらえるよう経営を行ってまいります」（https://www.artvivant.co.jp/company/・1回目）
+  - 「銀座の老舗画廊などによるアートビジネスの主流は、重厚感のある価値の定まったヨーロッパの原画作品が中心であったが、家庭向きでインテリア性の高い版画を中心にしたアールビバンの商品構成は多くのユーザーに受け入れられ始め、その営業スタイルは」（https://www.artvivant.co.jp/company/history/・1回目）
+  - 「作家から直接仕入れ、お客様にお届けするアールビバンの新しいビジネススタイルが生まれる」（https://www.artvivant.co.jp/company/history/・1回目）
+  - 「多くのお客様へ、迅速かつ確実に」（https://www.artvivant.co.jp/company/history/・1回目）
+  - 「その認定基準は、社会的ニーズへの対応、成長性と安定感のある経営、販売方法・顧客対応の正当性などで、アート関連業界では名実ともにリーディングカンパニーとなり現在に至る」（https://www.artvivant.co.jp/company/history/・1回目）
+  - 「イラスト系作家の特別顧客優待展」（https://www.artvivant.co.jp/company/history/・1回目）
+  - 「業界で唯一となる自社一貫システムを導入しており、迅速かつ確実に価値のある作品をリーズナブルな価格でお客様にお届けすることを実現しました」（https://www.artvivant.co.jp/service/・1回目）
+  - 「ファイナンス事業では、お客様の満足、豊かな生活の実現をお手伝いし、社会への貢献を目指します」（https://www.artvivant.co.jp/service/・1回目）
+  - 「販売形態としては、日本各地で自社主催の展示会・催事販売を積極的に開催し、これにより全国規模で顧客に作品を提供しています」（https://note.com/kakuka0904/n/n3059a8b3fe2d・3回目）
+  - 「この垂直統合型の事業モデルにより、顧客対応の品質向上やコスト管理の徹底が可能となり、他社が模倣しにくいサービス水準を実現しています」（https://note.com/kakuka0904/n/n3059a8b3fe2d・3回目）
+  - 「これらの取り組みは、美術品ビジネスにIT技術を組み合わせることで新たな需要を開拓しようとする試みであり、伝統的なギャラリーが対応しきれない顧客層（若年層へのアプローチやネット経由の販売等）を取り込む狙いが伺えます」（https://note.com/kakuka0904/n/n3059a8b3fe2d・3回目）
+- 何を：
+  - 「銀座の老舗画廊などによるアートビジネスの主流は、重厚感のある価値の定まったヨーロッパの原画作品が中心であったが、家庭向きでインテリア性の高い版画を中心にしたアールビバンの商品構成は多くのユーザーに受け入れられ始め、その営業スタイルは」（https://www.artvivant.co.jp/company/history/・1回目）
+  - 「これによりアールビバンの流通における自社一貫システム（仕入れ、検品、額装、納品、アフターサービス）の基盤が完成する」（https://www.artvivant.co.jp/company/history/・1回目）
+  - 「が携帯電話の待受け画像サービス」（https://www.artvivant.co.jp/company/history/・1回目）
+  - 「[4月]インテリア商品、ステーショナリーの分野でサンリオなど企業提携によるコラボレーションを幅広く行う人気イラストレーター、」（https://www.artvivant.co.jp/company/history/・1回目）
+  - 「アールビバン株式会社（以下、アールビバン）は、版画や絵画などの美術品販売を主力としつつ、金融サービス事業および健康産業事業（ホットヨガ）を展開する企業です」（https://note.com/kakuka0904/n/n3059a8b3fe2d・3回目）
+  - 「金融サービス事業 – 個別信用購入あっせん事業および融資事業」（https://note.com/kakuka0904/n/n3059a8b3fe2d・3回目）
+  - 「以下、それぞれの事業内容や製品・サービス、技術的特徴について詳述します」（https://note.com/kakuka0904/n/n3059a8b3fe2d・3回目）
+  - 「同社はアーティストの発掘・育成・プロデュースから、作品の商品化企画、契約交渉、仕入れ、額装（フレーミング）、販売、納品、さらには購入後のアフターサービスに至るまで、自社内で完結する体制を敷いています」（https://note.com/kakuka0904/n/n3059a8b3fe2d・3回目）
+  - 「この垂直統合型の事業モデルにより、顧客対応の品質向上やコスト管理の徹底が可能となり、他社が模倣しにくいサービス水準を実現しています」（https://note.com/kakuka0904/n/n3059a8b3fe2d・3回目）
+  - 「例えば、美術品購入者への長期的なアフターサービス（作品のメンテナンス相談や下取り・買い替えサポートなど）も自社で提供し、リピーターの囲い込みに成功しています」（https://note.com/kakuka0904/n/n3059a8b3fe2d・3回目）
+  - 「子会社の一つであるインターナショナル・オークション・システムズ株式会社は、屋号「総合美術買取センター」として絵画・美術品の買い取りサービスを展開しています」（https://note.com/kakuka0904/n/n3059a8b3fe2d・3回目）
+  - 「金融サービス事業（ダブルラックによる個品割賦・融資）」（https://note.com/kakuka0904/n/n3059a8b3fe2d・3回目）
+- どうやって売るか：
+  - 「創業から現在に至るまで、アールビバンの歩みをご紹介します」（https://www.artvivant.co.jp/company/・1回目）
+  - 「比較的に高額で、コレクターが限られる油彩などの原画が中心の絵画市場に対し、オリジナル版画作品の稀少性と美術的価値、多くの人々にとって充分に手が届く価格、という版画ならではの魅力を紹介し、新たに」（https://www.artvivant.co.jp/company/history/・1回目）
+  - 「これ以降、大型店舗「ギャラリー・ミューゼ」及び地域密着型店舗「アートスクエア」の直営店舗のネットワークを展開する」（https://www.artvivant.co.jp/company/history/・1回目）
+  - 「※「ギャラリー・ミューゼ 渋谷本店」はじめ、ギャラリー・ミューゼ各店舗、アートスクエア各店舗は2007年をもちまして営業を終了しております」（https://www.artvivant.co.jp/company/history/・1回目）
+  - 「※「手塚治虫ワールドアートスクエア」各店舗は2005年に営業を終了いたしました」（https://www.artvivant.co.jp/company/history/・1回目）
+  - 「以降、名古屋、大阪、福岡等の主要都市に店舗を広げる」（https://www.artvivant.co.jp/company/history/・1回目）
+  - 「の日本総代理店として」（https://www.artvivant.co.jp/company/history/・1回目）
+  - 「／ヨーロッパの新進アーティストを発掘・紹介するプロジェクト」（https://www.artvivant.co.jp/company/history/・1回目）
+  - 「イラスト系アートグッズの拡充とディズニーブランドの紹介」（https://www.artvivant.co.jp/company/history/・1回目）
+  - 「これにより、幅広い世代に人気の高いディズニーをモチーフとした作品の紹介が可能となり、」（https://www.artvivant.co.jp/company/history/・1回目）
+  - 「1都3県への展開により、10店舗超に拡大」（https://www.artvivant.co.jp/company/history/・1回目）
+  - 「の全国展開規模が30店舗超に拡大」（https://www.artvivant.co.jp/company/history/・1回目）
+- お金の形：
+  - 「取り扱い作家と独占契約：アールビバンは国内外の著名アーティストと販売契約・ライセンス契約を結び、独占的な販売権を確保している点が特徴です」（https://note.com/kakuka0904/n/n3059a8b3fe2d・3回目）
+  - 「収益モデルと規模：金融サービス事業の収益源は、主に手数料収入や利息収入です」（https://note.com/kakuka0904/n/n3059a8b3fe2d・3回目）
+  - 「割賦払いを利用する顧客からの分割手数料（金利）や、加盟店からの斡旋手数料を得ることで利益を上げています」（https://note.com/kakuka0904/n/n3059a8b3fe2d・3回目）
+  - 「過去に２度ストックオプションを実施したが、結果的にほとんど行使できなかったため、現在は様子を見ております」（https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20240430_archive/ep3hf5/140120240430579409.pdf・3回目）
+  - 「ストックオプションの付与対象者」（https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20240430_archive/ep3hf5/140120240430579409.pdf・3回目）
+  - 「年額300百万円以内（使用人兼務取締役の使用人分給与は含まない）（2023年６月23日開催の第39期株主総会にて、」（https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20240430_archive/ep3hf5/140120240430579409.pdf・3回目）
+  - 「年額200百万円以内から年額300百万円以内へと改定）とする」（https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20240430_archive/ep3hf5/140120240430579409.pdf・3回目）
+- 売上構成：
+  - 「会社概要と事業セグメント」（https://note.com/kakuka0904/n/n3059a8b3fe2d・3回目）
+  - 「グループ全体では、親会社のアールビバンと連結子会社4社（非連結子会社2社）で構成され 、主要な事業セグメントは以下の3つです ：」（https://note.com/kakuka0904/n/n3059a8b3fe2d・3回目）
+  - 「アールビバンの2025年3月期連結決算におけるセグメント別売上高を見ると、金融サービス事業の売上高は約16.67億円で全体の15.5%を占めており 、美術品販売（約80.92億円、75.2%）に次ぐ第二の柱となっています」（https://note.com/kakuka0904/n/n3059a8b3fe2d・3回目）
+  - 「直近年度のセグメント利益では、金融事業は営業利益ベースで約11.48億円を稼ぎ出し、美術品販売事業（約12.30億円）に匹敵する水準となりました」（https://note.com/kakuka0904/n/n3059a8b3fe2d・3回目）
+  - 「まだ全社への利益貢献度は限定的で、2024年3月期は約0.64億円のセグメント損失を計上するなど投資回収途上の段階です」（https://note.com/kakuka0904/n/n3059a8b3fe2d・3回目）
+  - 「グループ会社のセグメント別の事業に関して責任を負う取締役を任命し法令遵守体制を構築する権限と責任を与え、管理部はこれらを横断的」（https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20240430_archive/ep3hf5/140120240430579409.pdf・3回目）
+- 利益の源泉：
+  - 「アールビバン（7523）事業分析と競争優位・成長予測｜ようじ」（https://note.com/kakuka0904/n/n3059a8b3fe2d・3回目）
+  - 「アールビバン（7523）事業分析と競争優位・成長予測」（https://note.com/kakuka0904/n/n3059a8b3fe2d・3回目）
+  - 「これにより、アールビバンは他社では入手困難な作品を扱う強みを持っています」（https://note.com/kakuka0904/n/n3059a8b3fe2d・3回目）
+  - 「また「オークション」と社名にありますが、現状は査定買取による在庫化と再販売が中心で、公開競売形式のオークション開催についての言及は確認できません」（https://note.com/kakuka0904/n/n3059a8b3fe2d・3回目）
+  - 「売上規模に対する利益率が極めて高く（粗利率・営業利益率が高水準）、貸倒引当金などのコントロール次第では安定的な収益源となっています」（https://note.com/kakuka0904/n/n3059a8b3fe2d・3回目）
+  - 「経済的な堀（Economic Moat）の強みと競合優位性」（https://note.com/kakuka0904/n/n3059a8b3fe2d・3回目）
+- 沿革：
+  - 「2026年10月22日（木）、お電話でのお問い合わせの一時休止について」（https://www.artvivant.co.jp/・1回目）
+  - 「1984年の創業以来、物故作家の版画のみならず、国内外の多くの作家・イラストレーターを発掘、広めてまいりました」（https://www.artvivant.co.jp/company/・1回目）
+  - 「1984年11月24日」（https://www.artvivant.co.jp/company/overview/・1回目）
+  - 「沿革 | ARTVIVANT | アールビバン」（https://www.artvivant.co.jp/company/history/・1回目）
+  - 「2019年にリャド財団と交わした正式契約の元、未公開原画の初披露を実現した」（https://www.artvivant.co.jp/company/history/・1回目）
+  - 「2022年大好評を博したFAIRY TAIL 版画展」（https://www.artvivant.co.jp/company/history/・1回目）
+  - 「2026年10月20日臨時株主総会招集ご通知」（https://www.artvivant.co.jp/ir/・1回目）
+  - 「2025年11月10日 20:40」（https://note.com/kakuka0904/n/n3059a8b3fe2d・3回目）
+  - 「1984年設立、1996年に株式上場され、現在は東京証券取引所スタンダード市場に上場しています」（https://note.com/kakuka0904/n/n3059a8b3fe2d・3回目）
+  - 「また自社運営の常設ギャラリーも保有し、銀座や渋谷をはじめとする都市圏でギャラリー展開を行ってきました（沿革上、1986年に銀座、1990年に渋谷本店に直営ギャラリー開設）」（https://note.com/kakuka0904/n/n3059a8b3fe2d・3回目）
+  - 「2024年3月期には、美術品販売が好調であったことに加え、金融事業でも与信管理の強化により貸倒費用を抑制したことで、2期連続の増収増益を達成しました （連結売上高110.06億円・営業利益23.64億円、前期比それぞれ+2.6%、+5.2% ）」（https://note.com/kakuka0904/n/n3059a8b3fe2d・3回目）
+  - 「2016年にはグループ再編でヨガ事業専業会社としてTSCホリスティック株式会社を設立し、本格的にホットヨガスタジオ「アミーダ」の店舗展開を開始しています」（https://note.com/kakuka0904/n/n3059a8b3fe2d・3回目）
+- 検索結果の抜粋：
+  - 「アールビバン （7523）事業分析と競争優位・成長予測 - note — アールビバン （7523）事業分析と競争優位・成長予測 - note note https://note.com > アート・デザイン > アート・デザイン」（https://note.com/kakuka0904/n/n3059a8b3fe2d・3回目）
+  - 「事業内容 | ARTVIVANT - アールビバン — 事業内容 | ARTVIVANT - アールビバン アールビバン https://www.artvivant.co.jp > service」（https://www.artvivant.co.jp/service/・3回目）
+  - 「「弱み： ビジネスモデル が古い... アールビバン OpenWork — 「弱み： ビジネスモデル が古い... アールビバン OpenWork OpenWork https://www.openwork.jp > ... > 強み・弱み・展望」（https://www.openwork.jp/one_answer.php?vid=a0A1000001ImuAa&qco=9・3回目）
+  - 「アールビバン 株式会社 | ロール モデル 就活・転職サイト ... — アールビバン 株式会社 | ロール モデル 就活・転職サイト ... タレントブック・ストーリー https://www.talent-book.jp > artvivant」（https://www.talent-book.jp/artvivant・3回目）
+  - 「IRライブラリー | ARTVIVANT - アールビバン — IRライブラリー | ARTVIVANT - アールビバン アールビバン https://www.artvivant.co.jp > library」（https://www.artvivant.co.jp/ir/library/・3回目）
+  - 「IR情報 | ARTVIVANT - アールビバン — IR情報 | ARTVIVANT - アールビバン アールビバン https://www.artvivant.co.jp > ...」（https://www.artvivant.co.jp/ir/・3回目）
+  - 「【 アールビバン 】[7523]IR情報 中期経営計画や 決算 短信 | 日経 ... — 【 アールビバン 】[7523]IR情報 中期経営計画や 決算 短信 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo」（https://www.nikkei.com/nkd/company/kigyo/?scode=7523・3回目）
+  - 「アールビバン （7523）のIR情報・ 決算資料 - IRBANK — アールビバン （7523）のIR情報・ 決算資料 - IRBANK IRBANK https://irbank.net > アールビバン」（https://irbank.net/7523/ir・3回目）
+  - 「アールビバン 【7523】 決算 ・業績情報 - Moomoo — アールビバン 【7523】 決算 ・業績情報 - Moomoo Moomoo https://www.moomoo.com > stock > earnings」（https://www.moomoo.com/ja/stock/7523-JP/earnings・3回目）
+  - 「会社概要 | ARTVIVANT - アールビバン — 会社概要 | ARTVIVANT - アールビバン アールビバン https://www.artvivant.co.jp > company > overview」（https://www.artvivant.co.jp/company/overview/・3回目）
+  - 「アールビバン 株式会社 — アールビバン 株式会社 日本経済新聞 PDF https://www.nikkei.com > tdnr > 20240430_archive」（https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20240430_archive/ep3hf5/140120240430579409.pdf・3回目）
+  - 「アールビバン 【7523】の 事業 内容 - キタイシホン — アールビバン 【7523】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/7523/business・3回目）
+- 事業内容：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部3頁・検索5回）
+- 売上高：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部3頁・検索5回）
 
 ## インソース
 - 公式URL：https://www.insource.co.jp/（search:yahoo_jp:インソース）
@@ -4444,6 +7269,110 @@
 - 従業員数：記載なし（3回確認済み：公式3頁／PDF・画像9件／外部6頁・検索5回）
 - 売上高：記載なし（3回確認済み：公式3頁／PDF・画像9件／外部6頁・検索5回）
 - 売上構成：記載なし（3回確認済み：公式3頁／PDF・画像9件／外部6頁・検索5回）
+
+## イントラスト
+- 公式URL：https://www.entrust-inc.jp/（search:yahoo_jp:イントラスト）
+- 設立：2006年3月（https://www.entrust-inc.jp/company/outline.php・1回目）
+- 設立：2006年2月（https://www.entrust-inc.jp/company/outline.php・1回目）
+- 設立：1991年2月（https://www.entrust-inc.jp/company/outline.php・1回目）
+- 事業内容：事業内容 トップ（https://www.entrust-inc.jp/・1回目）
+- 事業内容：事業内容 トップ（https://www.entrust-inc.jp/about/・1回目）
+- 事業内容：事業内容 トップ（https://www.entrust-inc.jp/service/・1回目）
+- ビジネスモデル：
+  - 「イントラストのビジネスモデルの特長」（https://www.entrust-inc.jp/ir/personal/・1回目）
+- 誰に：
+  - 「あらゆる分野でお客様のニーズを具現化する」（https://www.entrust-inc.jp/・1回目）
+  - 「あらゆる分野においてお客様から全面的な信頼を得て業務をお預かりすることで、」（https://www.entrust-inc.jp/company/outline.php・1回目）
+  - 「確かな技術力で旧来システムの刷新からお客様の多様なニーズの具現化まで柔軟に対応し、ビジネスの可能性を最大化します」（https://www.entrust-inc.jp/company/outline.php・1回目）
+  - 「当社は総合保証サービス会社として、あらゆる分野においてお客様から全面的な信頼を得て業務をお預かり頂ける存在でありたい、ご満足いただけるサービスを提供できる企業を目指す思いを込めて“Entrust”という社名にいたしました」（https://www.entrust-inc.jp/ir/faq.php・1回目）
+  - 「介護施設へ入所する利用者の連帯保証人を当社がお引受けする商品です」（https://www.entrust-inc.jp/ir/faq.php・1回目）
+  - 「イントラストが保証商品で培ったノウハウや業務を基に、お客様のニーズに合わせてカスタマイズし提供する業務支援サービス（コンサルティング＆オペレーション）です」（https://www.entrust-inc.jp/ir/faq.php・1回目）
+  - 「これらを役務ごとに切り分け、お客様にニーズにカスタマイズした上でご提供しています」（https://www.entrust-inc.jp/ir/faq.php・1回目）
+  - 「・地域に密着した保証会社設立を検討している地方銀行へ、 顧客管理システム・審査業務を提供」（https://www.entrust-inc.jp/ir/faq.php・1回目）
+  - 「保証サービスでは、契約不履行で生ずるリスクを解消するために、契約申込受付、審査業務、顧客管理、家賃収納、代位弁済、回収業務、法対応業務をフルパッケージでご提供いたします」（https://www.entrust-inc.jp/ir/faq.php・1回目）
+  - 「そのため、優良なお客様にご入居いただきたいとお考えの多くの大手管理会社様から好評の声をいただき、ご採択いただいております」（https://www.entrust-inc.jp/ir/faq.php・1回目）
+  - 「当社においては、介護施設のサービス利用者様等が万が一利用料等のお支払いを遅延された場合、その費用を保証するサービス」（https://www.entrust-inc.jp/ir/glossary.php・1回目）
+  - 「カード決済サービスの提供会社が、信販会社と加盟店の代理人として包括で契約したものユーザーはカード会社との直接的な契約は不要であるため、カード決済サービスを短期間でスタートすることができる」（https://www.entrust-inc.jp/ir/glossary.php・1回目）
+- 何を：
+  - 「総合保証サービス 株式会社イントラスト」（https://www.entrust-inc.jp/・1回目）
+  - 「ソリューション事業」（https://www.entrust-inc.jp/・1回目）
+  - 「C＆Oサービス」（https://www.entrust-inc.jp/・1回目）
+  - 「Doc-onサービス」（https://www.entrust-inc.jp/・1回目）
+  - 「保険デスクサービス」（https://www.entrust-inc.jp/・1回目）
+  - 「C&Oサービス」（https://www.entrust-inc.jp/・1回目）
+  - 「当代理店の金融商品の勧誘方針」（https://www.entrust-inc.jp/・1回目）
+  - 「イントラストについて｜総合保証サービス 株式会社イントラスト」（https://www.entrust-inc.jp/about/・1回目）
+  - 「ソリューション事業」（https://www.entrust-inc.jp/about/・1回目）
+  - 「C＆Oサービス」（https://www.entrust-inc.jp/about/・1回目）
+  - 「Doc-onサービス」（https://www.entrust-inc.jp/about/・1回目）
+  - 「保険デスクサービス」（https://www.entrust-inc.jp/about/・1回目）
+- どうやって売るか：
+  - 「当代理店の金融商品の勧誘方針」（https://www.entrust-inc.jp/・1回目）
+  - 「当代理店の金融商品の勧誘方針」（https://www.entrust-inc.jp/about/・1回目）
+  - 「当社の成り立ちや事業概要を動画でご紹介しております」（https://www.entrust-inc.jp/service/・1回目）
+  - 「当代理店の金融商品の勧誘方針」（https://www.entrust-inc.jp/service/・1回目）
+  - 「当代理店の金融商品の勧誘方針」（https://www.entrust-inc.jp/company/outline.php・1回目）
+  - 「当代理店の金融商品の勧誘方針」（https://www.entrust-inc.jp/company/history.php・1回目）
+  - 「環境や社会に配慮するイントラストの取り組みをご紹介します」（https://www.entrust-inc.jp/ir/・1回目）
+  - 「当代理店の金融商品の勧誘方針」（https://www.entrust-inc.jp/ir/・1回目）
+  - 「当代理店の金融商品の勧誘方針」（https://www.entrust-inc.jp/ir/message.php・1回目）
+  - 「当社の成り立ちや事業概要を動画でご紹介しております」（https://www.entrust-inc.jp/ir/personal/・1回目）
+  - 「過去の売上高・営業利益や、契約件数の推移などの実績をまじえ、事業の安定性についてご紹介します」（https://www.entrust-inc.jp/ir/personal/・1回目）
+  - 「当代理店の金融商品の勧誘方針」（https://www.entrust-inc.jp/ir/personal/・1回目）
+- お金の形：
+  - 「システムの保守・運用管理」（https://www.entrust-inc.jp/company/outline.php・1回目）
+  - 「万が一、入所者からサービス利用料をお支払いいただけなかった際、当社が介護施設へ立替払いを実施し、入所者へお支払いいただくよう不履行解決のための回収や交渉を行います」（https://www.entrust-inc.jp/ir/faq.php・1回目）
+  - 「当社が立替・未回収リスクを負う分、保証料単価が高く、更新料売上が継続的に発生します」（https://www.entrust-inc.jp/ir/faq.php・1回目）
+  - 「貸倒費用や業務委託手数料といったコストが増加している傾向にありますが、この要因はなんですか？」（https://www.entrust-inc.jp/ir/faq.php・1回目）
+  - 「保証サービスは滞納焦付きリスクを引き受けるビジネスでもあるため、貸倒費用や業務委託手数料といったコストが発生いたします」（https://www.entrust-inc.jp/ir/faq.php・1回目）
+  - 「また、業務委託手数料とは、保証料売上から管理会社様へお支払いするフィーを指します」（https://www.entrust-inc.jp/ir/faq.php・1回目）
+  - 「ハウスメーカー系のクライアント企業様の新築賃貸マンション着工数については、施主となるオーナー様は金利の影響もあり減少する可能性も否めませんが、ストックビジネスを展開している当社において受ける影響は軽微ではないかと思料しております」（https://www.entrust-inc.jp/ir/faq.php・1回目）
+  - 「当社においては、介護施設のサービス利用者様等が万が一利用料等のお支払いを遅延された場合、その費用を保証するサービス」（https://www.entrust-inc.jp/ir/glossary.php・1回目）
+  - 「受取手数料 430」（https://www.entrust-inc.jp/ir/rr/15AoFR.pdf・2回目）
+  - 「受取手数料 720」（https://www.entrust-inc.jp/ir/rr/14AoFR.pdf・2回目）
+  - 「受取手数料 840」（https://www.entrust-inc.jp/ir/rr/13AoFR.pdf・2回目）
+  - 「受取手数料 2,250」（https://www.entrust-inc.jp/ir/rr/12AoFR.pdf・2回目）
+- 売上構成：
+  - 「どのような事業セグメントに分かれているか教えてください」（https://www.entrust-inc.jp/ir/faq.php・1回目）
+  - 「株式会社イントラストのグループ会社において、総合保証サービスの単一セグメントとなります」（https://www.entrust-inc.jp/ir/faq.php・1回目）
+  - 「分野 事業セグメント」（https://pdf.irpocket.com/C7191/RzLT/uAgQ/fgz0.pdf・3回目）
+  - 「成長分野 事業セグメント」（https://pdf.irpocket.com/C7191/RzLT/uAgQ/fgz0.pdf・3回目）
+  - 「売上高 構成比 売上高 構成比 成長倍率」（https://pdf.irpocket.com/C7191/RzLT/uAgQ/fgz0.pdf・3回目）
+- 利益の源泉：
+  - 「イントラストの事業内容や強み、」（https://www.entrust-inc.jp/ir/・1回目）
+  - 「イントラストの強みは何ですか？」（https://www.entrust-inc.jp/ir/faq.php・1回目）
+  - 「当社の強みは、主に３点あると考えております」（https://www.entrust-inc.jp/ir/faq.php・1回目）
+  - 「⚫ 営業利益率よりも売上成長を目指しつつ、」（https://pdf.irpocket.com/C7191/RzLT/uAgQ/fgz0.pdf・3回目）
+  - 「▷ 営業利益率は20%に抑え、成長の投資原資に」（https://pdf.irpocket.com/C7191/RzLT/uAgQ/fgz0.pdf・3回目）
+  - 「◼ 賃貸不動産分野は、優良なクライアントの成長をテコに、さらに強みの進化を」（https://pdf.irpocket.com/C7191/RzLT/uAgQ/fgz0.pdf・3回目）
+- 沿革：
+  - 「2006年にゼロからスタートしたイントラストは、今日に至るまでいくつもの困難を乗り越え、経験を積み重ねてまいりました」（https://www.entrust-inc.jp/about/・1回目）
+  - 「2006年3月」（https://www.entrust-inc.jp/company/outline.php・1回目）
+  - 「2006年2月」（https://www.entrust-inc.jp/company/outline.php・1回目）
+  - 「1991年2月」（https://www.entrust-inc.jp/company/outline.php・1回目）
+  - 「沿革｜企業情報｜総合保証サービス 株式会社イントラスト」（https://www.entrust-inc.jp/company/history.php・1回目）
+  - 「2027年3月期〔予想〕」（https://www.entrust-inc.jp/ir/dividend.php・1回目）
+  - 「2026年3月期」（https://www.entrust-inc.jp/ir/dividend.php・1回目）
+  - 「2025年3月期」（https://www.entrust-inc.jp/ir/dividend.php・1回目）
+  - 「2024年3月期」（https://www.entrust-inc.jp/ir/dividend.php・1回目）
+  - 「2023年3月期」（https://www.entrust-inc.jp/ir/dividend.php・1回目）
+  - 「2022年3月期」（https://www.entrust-inc.jp/ir/dividend.php・1回目）
+  - 「2021年3月期」（https://www.entrust-inc.jp/ir/dividend.php・1回目）
+- 検索結果の抜粋：
+  - 「ビジネスモデル の特長｜個人投資家の皆様へ - イントラスト — ビジネスモデル の特長｜個人投資家の皆様へ - イントラスト イントラスト https://www.entrust-inc.jp > IR情報 > 個人投資家の皆様へ」（https://www.entrust-inc.jp/ir/personal/point_01.php・3回目）
+  - 「個人投資家の皆様へ｜IR情報 - イントラスト — 個人投資家の皆様へ｜IR情報 - イントラスト イントラスト https://www.entrust-inc.jp > IR情報」（https://www.entrust-inc.jp/ir/personal/・3回目）
+  - 「みんなの連帯保証人！ イントラスト （7191）の将来性は ... - note — みんなの連帯保証人！ イントラスト （7191）の将来性は ... - note note https://note.com > 投資・マネー > 日本株」（https://note.com/investmentbridge/n/na68c447bcee8・3回目）
+  - 「保証×進化 イントラスト 家賃債務保証で急成長続く！ 介護や ... — 保証×進化 イントラスト 家賃債務保証で急成長続く！ 介護や ... ニッキンONLINE https://www.nikkinonline.com > journal > article」（https://www.nikkinonline.com/journal/article/309609・3回目）
+  - 「株式会社 イントラスト （7191）— 企業情報 - ENVALITH — 株式会社 イントラスト （7191）— 企業情報 - ENVALITH ENVALITH https://envalith.com > companies > overview」（https://envalith.com/ja/companies/7191/overview・3回目）
+  - 「決算説明 会 資料 - イントラスト — 決算説明 会 資料 - イントラスト イントラスト https://www.entrust-inc.jp > IR情報」（https://www.entrust-inc.jp/ir/library_presentation.php・3回目）
+  - 「IRニュース｜IR情報｜総合保証サービス 株式会社 イントラスト — IRニュース｜IR情報｜総合保証サービス 株式会社 イントラスト イントラスト https://www.entrust-inc.jp > IR情報」（https://www.entrust-inc.jp/ir/news.php・3回目）
+  - 「イントラスト （7191） 2026年3月期第2四半期 決算説明 — イントラスト （7191） 2026年3月期第2四半期 決算説明 YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=_hRvpWCqKrc・3回目）
+  - 「【 イントラスト 】[7191]IR情報 中期経営計画や 決算 短信 | 日経 ... — 【 イントラスト 】[7191]IR情報 中期経営計画や 決算 短信 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo」（https://www.nikkei.com/nkd/company/kigyo/?scode=7191・3回目）
+  - 「会社概要｜企業情報｜総合保証サービス 株式会社 イントラスト — 会社概要｜企業情報｜総合保証サービス 株式会社 イントラスト イントラスト https://www.entrust-inc.jp > 企業情報」（https://www.entrust-inc.jp/company/outline.php・3回目）
+  - 「総合保証サービス 株式会社 イントラスト — 総合保証サービス 株式会社 イントラスト イントラスト https://www.entrust-inc.jp」（https://www.entrust-inc.jp/・3回目）
+  - 「前編＞東証一部上場企業の イントラスト 桑原 社長 に聞いた — 前編＞東証一部上場企業の イントラスト 桑原 社長 に聞いた hellonews.jp https://hellonews.jp > ...」（https://hellonews.jp/2947/・3回目）
+- 従業員数：記載なし（3回確認済み：公式18頁／PDF・画像9件／外部2頁・検索5回）
+- 売上高：記載なし（3回確認済み：公式18頁／PDF・画像9件／外部2頁・検索5回）
 
 ## イー・ギャランティ
 - 公式URL：https://www.eguarantee.co.jp/（search:yahoo_jp:イー・ギャランティ）
@@ -4669,6 +7598,116 @@
   - 「事業 内容 - 株式会社イーエムネットジャパン — 事業 内容 - 株式会社イーエムネットジャパン 株式会社イーエムネットジャパン https://emnet.co.jp > business」（https://emnet.co.jp/ir/business・3回目）
   - 「イーエムネットジャパン 【7036】の 事業 内容 - キタイシホン — イーエムネットジャパン 【7036】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/7036/business・3回目）
 
+## ウィルズ
+- 公式URL：https://www.wills-net.co.jp/（search:yahoo_jp:ウィルズ）
+- 設立：2004年10月18日（https://www.wills-net.co.jp/corporate/outline.html・1回目）
+- 設立：2004年10月（https://morejob.co.jp/mirai/wills/・3回目）
+- 設立：15年以上（https://onlystory.co.jp/stories/1027・3回目）
+- 従業員数：31〜50人（https://onlystory.co.jp/stories/1027・3回目）
+- 従業員数：6～10人（https://onlystory.co.jp/stories/1027・3回目）
+- 従業員数：5人以下（https://onlystory.co.jp/stories/1027・3回目）
+- 事業内容：プレミアム優待倶楽部、及びプレミアム優待倶楽部PORTALの運営 IR-naviの運営 サステナビリティソリューション（統合報告書・サステナビリティレポートなどの企画・制作、ESG開示支援） バーチャル株主総会、オンライン決算説明会 株主判明調査(仲介および紹介)（https://www.wills-net.co.jp/corporate/outline.html・1回目）
+- 事業内容：プレミアム優待倶楽部、及びプレミアム優待倶楽部PORTALの運営 IR-naviの運営 サステナビリティソリューション（統合報告書・サステナビリティレポートなどの企画・制作、ESG開示支援） バーチャル株主総会、オンライン決算説明会 株主判明調査(仲介および紹介)（https://morejob.co.jp/mirai/wills/・3回目）
+- 売上高：20.0％以上 19.3％ △0.7ポイント（https://kitaishihon.com/company/4482/business・3回目）
+- 売上高：（https://kitaishihon.com/company/4482/business・3回目）
+- 売上高：4,816,397 255,986 5,072,384 － 5,072,384（https://kitaishihon.com/company/4482/business・3回目）
+- ビジネスモデル：
+  - 「ビジネスモデル」（https://www.wills-net.co.jp/corporate/business.html・1回目）
+  - 「株式会社ウィルズは、IR支援とITを組み合わせた独自のビジネスモデルを展開する企業です」（https://morejob.co.jp/mirai/wills/・3回目）
+  - 「ウィルズの強み：IR支援×自社開発SaaSの唯一無二のビジネスモデル」（https://morejob.co.jp/mirai/wills/・3回目）
+  - 「IR支援と自社開発SaaSツールを組み合わせた唯一無二のビジネスモデル」（https://morejob.co.jp/mirai/wills/・3回目）
+  - 「［事業系統図］」（https://kitaishihon.com/company/4482/business・3回目）
+  - 「そういう背景があるので、正当なビジネスモデルを持ち、IPOゴールではなく、日本経済にインパクトを与えるようなベンチャー企業に投資して貰いたいと思います」（https://www.nvcc.co.jp/article/wills/・3回目）
+- 誰に：
+  - 「（注）株主管理プラットフォーム：取引先の上場企業と機関投資家及び個人投資家をクラウド上でつなぎ、インタラクティブに情報の取得・交換を行えるプラットフォームである、機関投資家マーケティングプラットフォーム「IR-navi」、個人投資家マーケティングプラットフォーム「プレミアム優待倶楽部」、顧客企業毎に異なる株主優待ポイントの合算利用を可能とする「プレミアム優待倶楽部PORTAL」の総称」（https://www.wills-net.co.jp/corporate/business.html・1回目）
+  - 「バーチャル株主総会 導入企業」（https://www.wills-net.co.jp/service/virtual-sm.html・1回目）
+  - 「なお、個人情報、顧客情報及び関係者の権利を侵害することになる情報については、開示しません」（https://www.wills-net.co.jp/ir/management/disclose.html・1回目）
+  - 「実際に投資を行う際は、当サイトの情報に全面的に依拠した投資判断はお控えいただき、投資に関するご決定は利用者ご自身のご判断において行われるようお願い致します」（https://www.wills-net.co.jp/ir/disclaimer.html・1回目）
+  - 「また、通信環境や利用者のコンピューターの状況、その他の理由により当サイトを正常に利用できない場合があります」（https://www.wills-net.co.jp/ir/disclaimer.html・1回目）
+  - 「IRビジネスは未経験でしたが、実務経験を重ねていくうちに着実に成長し、現在では顧客企業のコンペティションに向けた企画提案なども手がける」（https://morejob.co.jp/mirai/wills/・3回目）
+  - 「また、当社の仕事の本質は有形商材を売ることではなく、お客様企業のIR戦略を踏まえた効果的な支援を行うことです」（https://morejob.co.jp/mirai/wills/・3回目）
+  - 「そのためお客様となる上場企業が開示する情報から、その企業の現状や課題を捉える力が不可欠です」（https://morejob.co.jp/mirai/wills/・3回目）
+  - 「があれば、顧客との対話でも的確な提案ができ、信頼関係を築きやすくなります」（https://morejob.co.jp/mirai/wills/・3回目）
+  - 「エンジニアなどお客様のビジネスタイムに合わせることなく働ける職種に関しては、徐々に効率的な働き方が浸透している」（https://morejob.co.jp/mirai/wills/・3回目）
+  - 「実際、お客様の大切な情報を取り扱うという仕事柄、オフィスの自席でインサイダーに関わる話題を出せないこともあり、仕事中は比較的静かな部類かもしれません」（https://morejob.co.jp/mirai/wills/・3回目）
+  - 「お客様のビジネスや業界、さらには金融市場全体への関心を持ち、主体的に学んでいける方に、当社は大きな成長機会を提供できると考えています」（https://morejob.co.jp/mirai/wills/・3回目）
+- 何を：
+  - 「サステナビリティソリューション」（https://www.wills-net.co.jp/・1回目）
+  - 「サービス関連資料」（https://www.wills-net.co.jp/・1回目）
+  - 「上場企業と株主間のコミュニケーション活性化を行う株主管理のDX支援サービス」（https://www.wills-net.co.jp/・1回目）
+  - 「統合報告書・サステナビリティレポートの企画・制作、その他ESG開示支援サービス」（https://www.wills-net.co.jp/・1回目）
+  - 「サービス一覧」（https://www.wills-net.co.jp/・1回目）
+  - 「サステナビリティソリューション」（https://www.wills-net.co.jp/ir/index_en.html・1回目）
+  - 「サービス関連資料」（https://www.wills-net.co.jp/ir/index_en.html・1回目）
+  - 「サステナビリティソリューション」（https://www.wills-net.co.jp/corporate/business.html・1回目）
+  - 「サービス関連資料」（https://www.wills-net.co.jp/corporate/business.html・1回目）
+  - 「・サステナビリティソリューション（統合報告書・アニュアルレポート等の企画・制作）」（https://www.wills-net.co.jp/corporate/business.html・1回目）
+  - 「サステナビリティソリューション」（https://www.wills-net.co.jp/corporate/outline.html・1回目）
+  - 「サービス関連資料」（https://www.wills-net.co.jp/corporate/outline.html・1回目）
+- どうやって売るか：
+  - 「株主判明調査(仲介および紹介)」（https://www.wills-net.co.jp/corporate/outline.html・1回目）
+  - 「この記事では、転職を検討されている方に向けて、同社で働く魅力をご紹介します」（https://morejob.co.jp/mirai/wills/・3回目）
+  - 「関連企業の紹介を追加しました」（https://morejob.co.jp/mirai/wills/・3回目）
+  - 「若手社員の方の具体的な成長事例をご紹介ください」（https://morejob.co.jp/mirai/wills/・3回目）
+  - 「ウィルズでは最近働き方に関する制度の変更があったとのことですが、詳しい内容をご紹介いただけますか？」（https://morejob.co.jp/mirai/wills/・3回目）
+  - 「株主判明調査(仲介および紹介)」（https://morejob.co.jp/mirai/wills/・3回目）
+  - 「採用面接の攻略法〜自己紹介〜」（https://morejob.co.jp/mirai/wills/・3回目）
+  - 「広告事業は「自社媒体Web広告」と「Web広告代理店、及びアドバタイジングゲーム」によって構成されております」（https://kitaishihon.com/company/4482/business・3回目）
+  - 「（２）Web広告代理店、及びアドバタイジングゲーム」（https://kitaishihon.com/company/4482/business・3回目）
+  - 「「Web広告代理店、及びアドバタイジングゲーム」は、「ポイント・自社媒体広告事業」で蓄積してきたWebマーケティング、及びWeb広告のノウハウを生かし、「Web広告代理店」は広告代理店として顧客のWeb広告活動のサポートを行うサービスであります」（https://kitaishihon.com/company/4482/business・3回目）
+  - 「また、顧客のWebサイトに株式会社ネットマイルが開発したゲームソリューションを導入し、また、ゲームへの定期的な参加により、導入先のユーザーの活性化、ロイヤリティ向上を図り、また、当該ゲーム上で前述の「Web広告代理店」にて獲得した広告を配信することで、Web広告売上、及びユーザーのロイヤリティ向上等を図る事業です」（https://kitaishihon.com/company/4482/business・3回目）
+  - 「広告事業は、「自社媒体 Web広告」と「Web広告代理店及びアドバタイジングゲーム」によって構成されております」（https://kitaishihon.com/company/4482/business・3回目）
+- お金の形：
+  - 「新株予約権（税制適格ストック・オプション）の発行に関するお知らせ」（https://www.wills-net.co.jp/・1回目）
+  - 「主な収益は、ストック型のシステム利用料と、企業毎に異なる商品交換期間に発生する株主優待ポイント（所有株式数毎に付与）の利用料で構成されており、顧客数の推移は以下のとおりです」（https://kitaishihon.com/company/4482/business・3回目）
+  - 「主な収益は、ストック型のシステム利用料であり、顧客数の推移は以下のとおりです」（https://kitaishihon.com/company/4482/business・3回目）
+  - 「顧客企業の株主数の増加、及び１社当たりのポイント売上高の平均単価が増加いたしました」（https://kitaishihon.com/company/4482/business・3回目）
+  - 「前期は統合報告書以外のスポット案件の受注がありましたが、当期は統合報告書のストック型案件へのシフトが進んだことにより、売上高は972,666千円（同4.4％増）となりました」（https://kitaishihon.com/company/4482/business・3回目）
+- 売上構成：
+  - 「セグメント情報」（https://kitaishihon.com/company/4482/business・3回目）
+  - 「※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります」（https://kitaishihon.com/company/4482/business・3回目）
+  - 「※セグメントの売上や利益は、企業毎にその定義が異なる場合があります」（https://kitaishihon.com/company/4482/business・3回目）
+  - 「セグメント名」（https://kitaishihon.com/company/4482/business・3回目）
+  - 「売上構成比率」（https://kitaishihon.com/company/4482/business・3回目）
+  - 「利益構成比率」（https://kitaishihon.com/company/4482/business・3回目）
+  - 「報告セグメント別の経営成績の概況は、次のとおりであります」（https://kitaishihon.com/company/4482/business・3回目）
+  - 「以上の結果、当連結会計年度の株主管理プラットフォームの事業の売上高は5,813,173千円（同20.6％増）、セグメント利益は1,377,978千円（同23.1％増）となりました」（https://kitaishihon.com/company/4482/business・3回目）
+  - 「以上の結果、当連結会計年度の広告事業の売上高は247,682千円（同5.8％減）、セグメント損失は75,639千円（前期は84,207千円の損失）となりました」（https://kitaishihon.com/company/4482/business・3回目）
+  - 「セグメントの名称」（https://kitaishihon.com/company/4482/business・3回目）
+  - 「（セグメント情報等）」（https://kitaishihon.com/company/4482/business・3回目）
+  - 「【セグメント情報】」（https://kitaishihon.com/company/4482/business・3回目）
+- 利益の源泉：
+  - 「ウィルズの強み：IR支援×自社開発SaaSの唯一無二のビジネスモデル」（https://morejob.co.jp/mirai/wills/・3回目）
+  - 「ウィルズの事業目的と、事業の強みについて教えていただけますか」（https://morejob.co.jp/mirai/wills/・3回目）
+  - 「これら両面のビジネスによって、投資家を総合的に囲い込めるツールを自社で持っていることが大きな強みです」（https://morejob.co.jp/mirai/wills/・3回目）
+  - 「当社グループは、高い成長性、収益性を達成するために、売上高成長率20.0％、営業利益率20.0％の達成を中期的に目指す経営指標として捉えております」（https://kitaishihon.com/company/4482/business・3回目）
+- 沿革：
+  - 「2023年09月07日」（https://www.wills-net.co.jp/・1回目）
+  - 「2023年08月29日」（https://www.wills-net.co.jp/・1回目）
+  - 「2023年08月28日」（https://www.wills-net.co.jp/・1回目）
+  - 「2004年10月18日」（https://www.wills-net.co.jp/corporate/outline.html・1回目）
+  - 「2025年12月31日現在）」（https://www.wills-net.co.jp/corporate/outline.html・1回目）
+  - 「2004年10月、代表取締役である杉本光生は、「効率的な資本市場の実現」を目指してインベスター・ネットワークス株式会社を設立しました」（https://www.wills-net.co.jp/corporate/history.html・1回目）
+  - 「2017年1月、未来に向けて大きく成長しようという「意志（Will）」を持った集団であることを企図して、社名を株式会社ウィルズに変更しております」（https://www.wills-net.co.jp/corporate/history.html・1回目）
+  - 「当社設立後の沿革は、以下のとおりであります」（https://www.wills-net.co.jp/corporate/history.html・1回目）
+  - 「2004年10月」（https://www.wills-net.co.jp/corporate/history.html・1回目）
+  - 「2005年11月」（https://www.wills-net.co.jp/corporate/history.html・1回目）
+  - 「2008年3月」（https://www.wills-net.co.jp/corporate/history.html・1回目）
+  - 「2008年9月」（https://www.wills-net.co.jp/corporate/history.html・1回目）
+- 検索結果の抜粋：
+  - 「Business事業内容 - 株式会社ウィルズ — Business事業内容 - 株式会社ウィルズ 株式会社ウィルズ https://www.wills-net.co.jp > corporate > business」（https://www.wills-net.co.jp/corporate/business.html・3回目）
+  - 「株式会社 ウィルズ で働く魅力とは？20代から経営層と直接商談 ... — 株式会社 ウィルズ で働く魅力とは？20代から経営層と直接商談 ... MoreJob株式会社 https://morejob.co.jp > ミライのお仕事 by MoreJob」（https://morejob.co.jp/mirai/wills/・3回目）
+  - 「株式会社 ウィルズ - 事業計画及び成長可能性に関する説明資料 — 株式会社 ウィルズ - 事業計画及び成長可能性に関する説明資料 日本経済新聞 PDF https://www.nikkei.com > tdnr > 20250328_archive」（https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20250328_archive/f8tfjm/140120250328502738.pdf・3回目）
+  - 「ウィルズ の「会社紹介」 OpenWork — ウィルズ の「会社紹介」 OpenWork OpenWork https://www.openwork.jp > ... > ウィルズ > 採用情報」（https://www.openwork.jp/a0C10000013fEA2/pr/・3回目）
+  - 「株式会社 ウィルズ の事業とカルチャー - Wantedly — 株式会社 ウィルズ の事業とカルチャー - Wantedly Wantedly https://www.wantedly.com > Wantedly > 株式会社ウィルズ」（https://www.wantedly.com/companies/company_4961786/about・3回目）
+  - 「決算説明 会 資料 - 株式会社ウィルズ — 決算説明 会 資料 - 株式会社ウィルズ 株式会社ウィルズ https://www.wills-net.co.jp > library > material」（https://www.wills-net.co.jp/ir/library/material.html?tp=1・3回目）
+  - 「IRライブラリー - WILLs — IRライブラリー - WILLs 株式会社ウィルズ https://www.wills-net.co.jp > library > material」（https://www.wills-net.co.jp/ir/library/material.html?tp=0・3回目）
+  - 「ウィルズ [4482]：2025年12月期 決算説明資料 2026年2月16日 ... — ウィルズ [4482]：2025年12月期 決算説明資料 2026年2月16日 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr」（https://www.nikkei.com/nkd/disclosure/tdnr/20260216563144/・3回目）
+  - 「株式会社 ウィルズ — 株式会社 ウィルズ 株式会社ウィルズ https://www.wills-net.co.jp」（https://www.wills-net.co.jp/・3回目）
+  - 「ウィルズ 【4482】の 事業 内容 - キタイシホン — ウィルズ 【4482】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/4482/business・3回目）
+  - 「株式会社 ウィルズ - 事業 計画及び成長可能性に関する説明資料 — 株式会社 ウィルズ - 事業 計画及び成長可能性に関する説明資料 日本経済新聞 PDF https://www.nikkei.com > tdnr > 20250328_archive」（https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20250328_archive/f8tfjm/140120250328502738.pdf・3回目）
+  - 「上場企業と投資家をつなぐ「 ウィルズ 」株主管理 ... — 上場企業と投資家をつなぐ「 ウィルズ 」株主管理 ... ストレイナー https://strainer.jp > notes」（https://strainer.jp/notes/8270・3回目）
+
 ## ウイングアーク１ｓｔ
 - 公式URL：https://www.wingarc.com/（search:yahoo_jp:ウイングアーク1st）
 - 設立：2004年3月（https://ir.wingarc.com/・3回目）
@@ -4779,6 +7818,97 @@
   - 「ウイングアーク1st 【4432】の 事業 内容 - キタイシホン — ウイングアーク1st 【4432】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/4432/business・3回目）
   - 「ウイングアーク1st 様 のERPパッケージ・システム導入事例 — ウイングアーク1st 様 のERPパッケージ・システム導入事例 grandit.jp https://www.grandit.jp > 導入事例」（https://www.grandit.jp/showcase/wingarc1st/・3回目）
 - 事業内容：記載なし（3回確認済み：公式7頁／PDF・画像10件／外部7頁・検索5回）
+
+## ウェザーニューズ
+- 公式URL：https://jp.weathernews.com/（search:yahoo_jp:ウェザーニューズ）
+- 設立：1986年（https://job.mynavi.jp/28/pc/search/corp210451/outline.html・3回目）
+- 従業員数：1,105人 ( 2026年5月31日現在 )（https://job.mynavi.jp/28/pc/search/corp210451/outline.html・3回目）
+- 事業内容：ウェザーニューズでは、世界各地で発生する気象現象を的確に把握するために社内で開発した気象モデルや独自インフラを組み合わせ、50カ国以上の顧客、45の市場に対して個々の状況に応じたサービスを展開しています。 法人向けのBtoB事業では、海・空・陸における交通を始め、流通、エネルギーなど多様な産業分野において、リスクへの対応策を支援するコンテンツを提供しています。 個人向けのBtoS(S：supporter)事業では、主にスマートフォンアプリ「ウェザーニュース」や、24時間生放送配信を行う「ウェザーニュースLiVE」を通して情報を提供するだけでなく、サポーター参加型のコンテンツを通した双方向型ネットワークを基に、一人ひとりに合う予測情報をサポーターと共に作り上げています。（https://job.mynavi.jp/28/pc/search/corp210451/outline.html・3回目）
+- 売上高：244億79百万円 ( 2026年5月期 )（https://job.mynavi.jp/28/pc/search/corp210451/outline.html・3回目）
+- ビジネスモデル：
+  - 「今期の後半には、このビジネスモデルの変革への移行の一つを予定しており、売上も伸ばしていく計画になっています」（https://jp.weathernews.com/irinfo/ir-library/20261008-2・1回目）
+  - 「彼らはいったいどうやって稼いでいるのか？ 代表取締役の草開千仁氏に疑問をぶつけ、天気で稼ぐビジネスモデルの謎に迫る」（https://newspicks.com/news/7772093/body/・3回目）
+  - 「このような、市場や業界にとって必要不可欠となる特性を活かしたビジネスモデルは、高速道路の料金所になぞらえて「トールゲート型」と呼ばれる」（https://newspicks.com/news/7772093/body/・3回目）
+- 誰に：
+  - 「具体的には、顧客向け予報の作成といった現場業務をAIで自動化にしたことで人的リソースを創出し、その人員を戦略的に再配置しております」（https://jp.weathernews.com/irinfo/ir-library/20261008-2・1回目）
+  - 「CS業務としてお客様のサービスの導入（オンボーディング）をサポートしたり、サービスの深い部分の活用方法までお伝えしたり、既存のお客様に対するアップセルを推進する業務を強化するなど、今後の売上成長に貢献する人員になる準備が進んでおります」（https://jp.weathernews.com/irinfo/ir-library/20261008-2・1回目）
+  - 「その理由ですが、主に中小型船が占める内航船のお客様は日本の近海内での航行が多く、実際に港が土砂降りだった場合は荷積みができない、といった港湾作業における気象情報のニーズが大きいです」（https://jp.weathernews.com/irinfo/ir-library/20261008-2・1回目）
+  - 「これまでの「1航海ごとにスポットで売上をいただく」ビジネスから「常にAIが顧客の管理する船を全船を見ている」ビジネスに転換しつつあります」（https://jp.weathernews.com/irinfo/ir-library/20261008-2・1回目）
+  - 「AIが全船を常時監視しており、何か問題を検出したら顧客にアラートを飛ばすとともに航海プランの変更を提案するようなプロダクトです」（https://jp.weathernews.com/irinfo/ir-library/20261008-2・1回目）
+  - 「コアプロダクトの契約数もID数も順調に伸びており、最近では大型のお客様に対しても、ウェザーニュース for Businessの受注が入りつつありますので、コアプロダクトは今後ますます伸びてくる領域だと思っております」（https://jp.weathernews.com/irinfo/ir-library/20261008-2・1回目）
+  - 「今年はしっかり梅雨もあったので、Q1の累積DAU（デイリーアクティブユーザー）が初めて10億の大台を突破しました」（https://jp.weathernews.com/irinfo/ir-library/20261008-2・1回目）
+  - 「これはウェザーニューズのサービスを利用することで、いくらの投資に対していくら返ってくるのか、お客様の業務を分析して、投資（当社のサービス利用料）に対するリターンを分析できる仕組みです」（https://jp.weathernews.com/irinfo/ir-library/20261008-2・1回目）
+  - 「本サービスは専任チームが開発を推進しており、学術論文や国が示す算定式などをAIが吸収・分析することで、顧客ごとの業務に応じたROIを瞬時に算出できるのが強みです」（https://jp.weathernews.com/irinfo/ir-library/20261008-2・1回目）
+  - 「まず我々のAIプロダクトを顧客に導入いただき、いかに顧客側の業務を効率化できるか体感していただき、その評判をもとに競合からのスイッチを加速させる形で考えています」（https://jp.weathernews.com/irinfo/ir-library/20261008-2・1回目）
+  - 「プロダクト導入顧客が十分に増える頃にはAIによるさらなる付加価値コンテンツも徐々に充実してくると見ており、その際にしっかりアップセルを目指します」（https://jp.weathernews.com/irinfo/ir-library/20261008-2・1回目）
+  - 「同じ船にサービスを提供していても運用する顧客が変わると隻数カウントも変わります」（https://jp.weathernews.com/irinfo/ir-library/20261008-2・1回目）
+- 何を：
+  - 「サービス一覧」（https://jp.weathernews.com/・1回目）
+  - 「サービスの流れ」（https://jp.weathernews.com/・1回目）
+  - 「私たちのサービス」（https://jp.weathernews.com/・1回目）
+  - 「サービスラインナップへ」（https://jp.weathernews.com/・1回目）
+  - 「サービス一覧」（https://jp.weathernews.com/irinfo/news/・1回目）
+  - 「サービスの流れ」（https://jp.weathernews.com/irinfo/news/・1回目）
+  - 「サービス一覧」（https://jp.weathernews.com/corporate-outline/・1回目）
+  - 「サービスの流れ」（https://jp.weathernews.com/corporate-outline/・1回目）
+  - 「サービス一覧」（https://jp.weathernews.com/corporate-outline/our-business-strategy/・1回目）
+  - 「サービスの流れ」（https://jp.weathernews.com/corporate-outline/our-business-strategy/・1回目）
+  - 「DataDrivenでコンテンツやサービスをサポーターに問い続け、Aggressively Adaptable Companyとして新たな価値を引き出し育てていくことで、サポーターに愛され、期待され続けるコンテンツ・メーカーになろう」（https://jp.weathernews.com/corporate-outline/our-business-strategy/・1回目）
+  - 「革新的なサービスへの挑戦」（https://jp.weathernews.com/corporate-outline/our-business-strategy/・1回目）
+- どうやって売るか：
+  - 「技術革新＆パートナーシップ」（https://jp.weathernews.com/sustainability/environment/・1回目）
+  - 「施設や店舗など、お仕事の拠点を登録して、各拠点の気象情報や防災情報を確認できます」（https://wxtech.weathernews.com/products/wfb/・3回目）
+  - 「工事現場や店舗など、お客さまのお仕事の拠点を登録して、いつでもまとめて天気予報を確認することができます」（https://wxtech.weathernews.com/products/wfb/・3回目）
+  - 「導入事例をご紹介」（https://wxtech.weathernews.com/products/wfb/・3回目）
+  - 「ウェザーニュース for businessを活用した実際の導入事例をご紹介します」（https://wxtech.weathernews.com/products/wfb/・3回目）
+  - 「【多店舗の防災・BCP対策】3ステップで簡単！AIが店舗向け注意喚起文を自動作成」（https://wxtech.weathernews.com/products/wfb/・3回目）
+  - 「日経電子版のサービス・機能を紹介」（https://www.nikkei.com/nkd/company/kigyo/?scode=4825・3回目）
+  - 「紙面紹介と購読案内」（https://www.nikkei.com/nkd/company/kigyo/?scode=4825・3回目）
+  - 「会社紹介記事」（https://job.mynavi.jp/28/pc/search/corp210451/outline.html・3回目）
+- お金の形：
+  - 「新価値創造を通した高貢献、ストック型事業による高収益、次なる価値創造のための投資を行い、株主・社員サポーターへの公正な分配を実現しよう」（https://jp.weathernews.com/corporate-outline/our-business-strategy/・1回目）
+  - 「今後、当社としては自社のアプリ、自社のウェブサイトをしっかりと伸ばして、その中で広告ビジネスもサブスクも伸ばしていくという戦略を進めていきますが、今期はその転換の年になるのだろうと考えております」（https://jp.weathernews.com/irinfo/ir-library/20261008-2・1回目）
+  - 「これはウェザーニューズのサービスを利用することで、いくらの投資に対していくら返ってくるのか、お客様の業務を分析して、投資（当社のサービス利用料）に対するリターンを分析できる仕組みです」（https://jp.weathernews.com/irinfo/ir-library/20261008-2・1回目）
+  - 「実際に各国の広告収入や広告単価などが少しずつ見え始めています」（https://jp.weathernews.com/irinfo/ir-library/20261008-2・1回目）
+  - 「現在の収益軸はアプリとWEBによるサブスクリプション（月額課金）だ」（https://newspicks.com/news/7772093/body/・3回目）
+- 売上構成：
+  - 「前期までと比べて売上構成に変化があります」（https://jp.weathernews.com/irinfo/ir-library/20261008-2・1回目）
+- 利益の源泉：
+  - 「高貢献・高収益・高分配」（https://jp.weathernews.com/corporate-outline/our-business-strategy/・1回目）
+  - 「新価値創造を通した高貢献、ストック型事業による高収益、次なる価値創造のための投資を行い、株主・社員サポーターへの公正な分配を実現しよう」（https://jp.weathernews.com/corporate-outline/our-business-strategy/・1回目）
+  - 「詳細は後ほど説明しますが、今期から粗利率も掲載しておりまして、粗利率については8.6ポイント増加の54.8%と大幅改善となっております」（https://jp.weathernews.com/irinfo/ir-library/20261008-2・1回目）
+  - 「一方で、粗利率に関しては大幅改善となっています」（https://jp.weathernews.com/irinfo/ir-library/20261008-2・1回目）
+  - 「当社の中期ビジョンで2029年5月期末には粗利率を60%以上にする計画を掲げておりますが、現段階で既に54.8%まで達成しております」（https://jp.weathernews.com/irinfo/ir-library/20261008-2・1回目）
+  - 「Landなど一部のDomainでは既に結果も出始めている状況でございますので、より一層粗利率は改善していくことになると思っています」（https://jp.weathernews.com/irinfo/ir-library/20261008-2・1回目）
+  - 「本サービスは専任チームが開発を推進しており、学術論文や国が示す算定式などをAIが吸収・分析することで、顧客ごとの業務に応じたROIを瞬時に算出できるのが強みです」（https://jp.weathernews.com/irinfo/ir-library/20261008-2・1回目）
+  - 「[Q9]：粗利率の改善の背景について、もう少し具体的にイメージできるような説明をお聞きしたい」（https://jp.weathernews.com/irinfo/ir-library/20261008-2・1回目）
+  - 「ウェザーニューズのもうひとつの強みは、ファンコミュニティを形成していることだ」（https://newspicks.com/news/7772093/body/・3回目）
+- 沿革：
+  - 「2027年5月期 第1四半期 決算説明会（動画配信）」（https://jp.weathernews.com/・1回目）
+  - 「2027年５月期 第１四半期 決算説明資料」（https://jp.weathernews.com/・1回目）
+  - 「2027年５月期 第１四半期決算短信〔日本基準〕（連結）」（https://jp.weathernews.com/・1回目）
+  - 「令和8年熊本地震」（https://jp.weathernews.com/・1回目）
+  - 「1986年 ( 昭和61年6月 )」（https://jp.weathernews.com/corporate-outline/・1回目）
+  - 「1970年1月、福島県いわき市」（https://jp.weathernews.com/corporate-outline/our-history/・1回目）
+  - 「2026年10月8日」（https://jp.weathernews.com/irinfo/ir-library/20261008-2・1回目）
+  - 「2027年5月期 通期決算説明会のスクリプトです」（https://jp.weathernews.com/irinfo/ir-library/20261008-2・1回目）
+  - 「2023年5月期もさらなる伸長を見込んでおり、15年連続の増収は間違いないとみられる」（https://newspicks.com/news/7772093/body/・3回目）
+  - 「2022年11月21日」（https://newspicks.com/news/7772093/body/・3回目）
+  - 「2022年11月10日」（https://newspicks.com/news/7772093/body/・3回目）
+  - 「2026年11月3日（火）」（https://www.nikkei.com/nkd/company/kigyo/?scode=4825・3回目）
+- 検索結果の抜粋：
+  - 「ウェザーニュース for business - WxTech — ウェザーニュース for business - WxTech 株式会社ウェザーニューズ https://wxtech.weathernews.com > products > wfb」（https://wxtech.weathernews.com/products/wfb/・3回目）
+  - 「過去最高益の ウェザーニューズ 。創業38年目の老舗気象会社が ... — 過去最高益の ウェザーニューズ 。創業38年目の老舗気象会社が ... Business Insider Japan https://www.businessinsider.jp > 国内」（https://www.businessinsider.jp/article/274639/・3回目）
+  - 「決算短信・ 決算説明 会 資料 | Weathernews Inc. — 決算短信・ 決算説明 会 資料 | Weathernews Inc. 株式会社ウェザーニューズ https://jp.weathernews.com > irinfo > ir-library > result」（https://jp.weathernews.com/irinfo/ir-library/result・3回目）
+  - 「【 ウェザーニューズ 】[4825]IR情報 中期経営計画や 決算 短信 — 【 ウェザーニューズ 】[4825]IR情報 中期経営計画や 決算 短信 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo」（https://www.nikkei.com/nkd/company/kigyo/?scode=4825・3回目）
+  - 「2025年5月期 第2四半期 決算 発表 | Weathernews Inc. — 2025年5月期 第2四半期 決算 発表 | Weathernews Inc. 株式会社ウェザーニューズ https://jp.weathernews.com > results-briefing-q2-of-2025」（https://jp.weathernews.com/irinfo/announcement/results-briefing-q2-of-2025・3回目）
+  - 「ウェザーニューズ （4825）のIR情報・ 決算資料 - IRBANK — ウェザーニューズ （4825）のIR情報・ 決算資料 - IRBANK IRBANK https://irbank.net > ウェザーニューズ」（https://irbank.net/4825/ir・3回目）
+  - 「2025年5月期 第1四半期 決算 発表 | Weathernews Inc. — 2025年5月期 第1四半期 決算 発表 | Weathernews Inc. 株式会社ウェザーニューズ https://jp.weathernews.com > results-briefing-q1-of-2025」（https://jp.weathernews.com/irinfo/announcement/results-briefing-q1-of-2025・3回目）
+  - 「株式会社 ウェザーニューズ 会社概要 | Weathernews Inc. — 株式会社 ウェザーニューズ 会社概要 | Weathernews Inc. 株式会社ウェザーニューズ https://jp.weathernews.com > 会社概要」（https://jp.weathernews.com/corporate-outline・3回目）
+  - 「(株) ウェザーニューズ の会社概要 | マイナビ2028 — (株) ウェザーニューズ の会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp210451 > outline」（https://job.mynavi.jp/28/pc/search/corp210451/outline.html・3回目）
+  - 「ウェザーニューズ - Wikipedia — ウェザーニューズ - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > ウェザーニューズ」（https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%82%B6%E3%83%BC%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%BA・3回目）
+  - 「ウェザーニューズ の企業情報 | CFN（CareerForum.Net） — ウェザーニューズ の企業情報 | CFN（CareerForum.Net） CFN https://careerforum.net > company_list > company_detail」（https://careerforum.net/ja/company_list/2942/company_detail/・3回目）
+  - 「石橋 知博 - ウェザーニューズ — 石橋 知博 - ウェザーニューズ 株式会社ウェザーニューズ https://jp.weathernews.com > recruit > top-message」（https://jp.weathernews.com/recruit/top-message/・3回目）
 
 ## エイトレッド
 - 公式URL：https://www.atled.jp/（search:yahoo_jp:エイトレッド）
@@ -4943,6 +8073,136 @@
 - ビジネスモデル：記載なし（3回確認済み：公式21頁／PDF・画像11件／外部1頁・検索5回）
 - お金の形：記載なし（3回確認済み：公式21頁／PDF・画像11件／外部1頁・検索5回）
 - 売上構成：記載なし（3回確認済み：公式21頁／PDF・画像11件／外部1頁・検索5回）
+
+## エリアリンク
+- 公式URL：https://www.arealink.co.jp/（search:yahoo_jp:エリアリンク）
+- 設立：1995年4月（https://www.arealink.co.jp/information/・1回目）
+- 設立：A. 平成7年（1995）4月です。（https://www.arealink.co.jp/ir/faq/・1回目）
+- 従業員数：81名（役員、臨時従業員、派遣社員を除く） ※2025年12月現在（https://www.arealink.co.jp/information/・1回目）
+- 従業員数：A. 2025年12月末日時点で81名（臨時従業員、派遣社員は除く）です。（https://www.arealink.co.jp/ir/faq/・1回目）
+- 従業員数：奨励金15%（https://www.arealink.co.jp/recruit/environment/・1回目）
+- 事業内容：レンタル収納スペース「ハローストレージ」の運営・管理（https://www.arealink.co.jp/information/・1回目）
+- 事業内容：A. 各事業についての説明は 事業紹介 をご覧ください。（https://www.arealink.co.jp/ir/faq/・1回目）
+- 売上高：売上高（単体） 26,418百万円 ※2025年12月現在（https://www.arealink.co.jp/information/・1回目）
+- 売上高：26,418 — 28,500 — 29,400 —（https://www.arealink.co.jp/ir/strategy/・1回目）
+- 売上高：20,572 20,878 22,463 24,695 26,418（https://www.arealink.co.jp/ir/performance/・1回目）
+- ビジネスモデル：
+  - 「ストックビジネスを中心としたビジネスモデル」（https://www.arealink.co.jp/service/・1回目）
+  - 「複雑な権利関係を整理し、主に借地権者様へ売却するビジネスモデルを確立しました」（https://www.arealink.co.jp/service/・1回目）
+  - 「当社が展開するストレージ事業や土地権利整備事業につきましては、特許権等により法的に他社を排除できるものがなく、ビジネスモデルもシンプルなものであるため、他社の追随参入による競争激化が起こる可能性があります」（https://www.arealink.co.jp/ir/risks/・1回目）
+  - 「株式会社エリアリンクの成長戦略が光るビジネスモデルとは | チームマイクの企業分析」（https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%AF%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%8C%E5%85%89%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9/・3回目）
+  - 「株式会社エリアリンクの成長戦略が光るビジネスモデルとは」（https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%AF%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%8C%E5%85%89%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9/・3回目）
+  - 「同社は自社での物件開発や土地借上げを通じたストレージ出店に加え、底地（借地権のついた土地）の権利調整や売買を行う土地権利整備事業などを手掛け、専門性の高い不動産運用ノウハウと全国規模の管理基盤を強みに盤石な収益構造を築いています」（https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%AF%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%8C%E5%85%89%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9/・3回目）
+  - 「こうした多面的な収益モデルが企業の安定経営を支えているのです」（https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%AF%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%8C%E5%85%89%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9/・3回目）
+  - 「ストレージ事業では一度拠点を開発すれば、維持管理のコストこそ必要ですが、利用料からの継続収入とのバランスが取りやすく、安定的なビジネスモデルを築きやすいという特徴があります」（https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%AF%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%8C%E5%85%89%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9/・3回目）
+  - 「多様なビジネスモデルを組み合わせた安定収益基盤と拡大路線の両立は、投資家のみならず就職活動を行う人にも魅力的なポイントとなるはずです」（https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%AF%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%8C%E5%85%89%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9/・3回目）
+  - 「ビジネスモデルの強化と新規分野への挑戦がどのような成果をもたらすのか、引き続き注目が集まっています」（https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%AF%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%8C%E5%85%89%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9/・3回目）
+  - 「株式会社エンゼルグループの魅力を徹底解説 ビジネスモデルのポイントとは」（https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%AF%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%8C%E5%85%89%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9/・3回目）
+  - 「株式会社ハウスフリーダムのビジネスモデルと成長戦略の魅力」（https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%AF%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%8C%E5%85%89%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9/・3回目）
+- 誰に：
+  - 「エリアリンク、東急リバブルとの顧客紹介における業務連携を開始」（https://www.arealink.co.jp/・1回目）
+  - 「サブリース契約により、物件オーナー様には安定した賃料収入をお約束し、ユーザー様には初期費用を抑えた短期契約可能なオフィス環境を提供し、双方にメリットのあるサービスを展開しています」（https://www.arealink.co.jp/service/・1回目）
+  - 「顧客ニーズや市況を」（https://www.arealink.co.jp/ir/risks/・1回目）
+  - 「当社は、当該リスクへの対応策として、定期的に景気動向・不動産市況等のモニタリングを行うとともに、立地条件及び周辺の相場状況等を勘案して、顧客ニーズに合致する物件の選定を慎重に検討し、リスクの低減を図ってまいります」（https://www.arealink.co.jp/ir/risks/・1回目）
+  - 「当社は、当該リスクへの対応策として、展開する「ハローストレージ」ブランドの認知度向上、新商品・新サービスの開発による差別化を図り顧客基盤を獲得することにより、リスクの低減を図ってまいります」（https://www.arealink.co.jp/ir/risks/・1回目）
+  - 「当社は、当該リスクへの対応策として、顧客や周辺地域住民の安全性を第一に考えた施策を進めていくと同時に、コンテナの安全性に対する啓蒙活動や巡回・メンテナンス体制の強化等により、リスクの低減を図ってまいります」（https://www.arealink.co.jp/ir/risks/・1回目）
+  - 「当社の運営するハローストレージの総室数のうち、お客様が利用している稼働室数の割合」（https://www.arealink.co.jp/ir/faq/・1回目）
+  - 「クルーム等のレンタル収納スペースとして利用者に提供する事業であります」（https://www.arealink.co.jp/wp-content/uploads/2026/07/0dda5e3230e3ce9900a59750d2788ee9.pdf・2回目）
+  - 「管理するアセット事業、建物の空室等を借上げ小規模オフィスとして利用者に提供するオフィス事業等、当社商」（https://www.arealink.co.jp/wp-content/uploads/2026/07/0dda5e3230e3ce9900a59750d2788ee9.pdf・2回目）
+  - 「外部顧客への売上高 11,976,941 1,306,676 783,511 14,067,129 － 14,067,129」（https://www.arealink.co.jp/wp-content/uploads/2026/07/0dda5e3230e3ce9900a59750d2788ee9.pdf・2回目）
+  - 「外部顧客への売上高 13,668,243 1,900,092 769,686 16,338,021 － 16,338,021」（https://www.arealink.co.jp/wp-content/uploads/2026/07/0dda5e3230e3ce9900a59750d2788ee9.pdf・2回目）
+  - 「クルーム等のレンタル収納スペースとして利用者に提供する事業であります」（https://www.arealink.co.jp/wp/wp-content/uploads/2025/11/6b28de23750fa0e70aa2677ef1b26136.pdf・2回目）
+- 何を：
+  - 「人々の暮らしに自由をもたらす夢のある商品であり、」（https://www.arealink.co.jp/・1回目）
+  - 「私たちはトランクルームをはじめとする各種サービスを通じて、」（https://www.arealink.co.jp/・1回目）
+  - 「弊社のサービスに関するご相談・ご質問がございましたら、お気軽にお問い合わせください」（https://www.arealink.co.jp/・1回目）
+  - 「弊社のサービスに関するご相談・ご質問がございましたら、お気軽にお問い合わせください」（https://www.arealink.co.jp/information/・1回目）
+  - 「当社所有の土地建物で、不動産運用サービス事業開始」（https://www.arealink.co.jp/history/・1回目）
+  - 「弊社のサービスに関するご相談・ご質問がございましたら、お気軽にお問い合わせください」（https://www.arealink.co.jp/history/・1回目）
+  - 「いずれも不動産サービスですが、」（https://www.arealink.co.jp/service/・1回目）
+  - 「モノを大切にする社会、収納スペース不足の解消、複雑な土地権利問題の整理、柔軟なオフィス環境の提供、不動産資産の効率的な運用など、お客さまが抱えるさまざまな課題に対して専門的なソリューションを提供します」（https://www.arealink.co.jp/service/・1回目）
+  - 「安心のストレージサービス」（https://www.arealink.co.jp/service/・1回目）
+  - 「「ハローストレージ」を提供する創業以来の主力事業」（https://www.arealink.co.jp/service/・1回目）
+  - 「屋外型コンテナから屋内型、バイク専用、一棟タイプまで、小型から大型を含む多彩な商品ラインナップが特徴です」（https://www.arealink.co.jp/service/・1回目）
+  - 「サブリース契約により、物件オーナー様には安定した賃料収入をお約束し、ユーザー様には初期費用を抑えた短期契約可能なオフィス環境を提供し、双方にメリットのあるサービスを展開しています」（https://www.arealink.co.jp/service/・1回目）
+- どうやって売るか：
+  - 「パートナー制度」（https://www.arealink.co.jp/・1回目）
+  - 「エリアリンク、東急リバブルとの顧客紹介における業務連携を開始」（https://www.arealink.co.jp/・1回目）
+  - 「パートナー制度」（https://www.arealink.co.jp/information/・1回目）
+  - 「パートナー制度」（https://www.arealink.co.jp/history/・1回目）
+  - 「パートナー制度」（https://www.arealink.co.jp/service/・1回目）
+  - 「パートナー企業との少人数連携による機動的な運営体制で、安定稼働と収益最大化をサポートします」（https://www.arealink.co.jp/service/・1回目）
+  - 「パートナー制度について」（https://www.arealink.co.jp/service/・1回目）
+  - 「トランクルーム事業者および事業予定者を対象に、新規出店から、集客・解約、定期清掃、トラブルの一次対応までを一括でサポートする「パートナー制度」の運用を本格的に開始」（https://www.arealink.co.jp/service/・1回目）
+  - 「パートナー制度」（https://www.arealink.co.jp/ir/・1回目）
+  - 「パートナー制度」（https://www.arealink.co.jp/ir/calendar/・1回目）
+  - 「パートナー制度」（https://www.arealink.co.jp/ir/strategy/・1回目）
+  - 「パートナー制度を本格化し出店加速、2029年に総室数20万室強の運営を目指す」（https://www.arealink.co.jp/ir/strategy/・1回目）
+- お金の形：
+  - 「私たちはストックビジネスを基盤に、」（https://www.arealink.co.jp/・1回目）
+  - 「ストックビジネスを中心とした」（https://www.arealink.co.jp/service/・1回目）
+  - 「し、ストックビジネスを中心とした安定性の高い経営を推進しています」（https://www.arealink.co.jp/service/・1回目）
+  - 「ストックビジネスを中心としたビジネスモデル」（https://www.arealink.co.jp/service/・1回目）
+  - 「※お手続きにあたり、お取引の証券会社等より手数料を請求されることがあります」（https://www.arealink.co.jp/ir/stock/・1回目）
+  - 「レンタル収納スペースの利用料が事業収入となる」（https://www.arealink.co.jp/ir/faq/・1回目）
+  - 「支払手数料 76,370 45,502」（https://www.arealink.co.jp/wp-content/uploads/2026/07/0dda5e3230e3ce9900a59750d2788ee9.pdf・2回目）
+  - 「「その他運用サービス事業」は、当社が所有している不動産(事務所・店舗・住居・ホテル等)の賃貸、保守、」（https://www.arealink.co.jp/wp-content/uploads/2026/07/0dda5e3230e3ce9900a59750d2788ee9.pdf・2回目）
+  - 「と経営効率の向上を図るほか、物件開発や現場保守といった共通事業領域における業務プロセスの効率化を進めま」（https://www.arealink.co.jp/wp-content/uploads/2026/07/0dda5e3230e3ce9900a59750d2788ee9.pdf・2回目）
+  - 「上の知見を共有することで対象者の物件稼働率を高め、中期経営計画に掲げる「ストック収益」の最大化を支援し」（https://www.arealink.co.jp/wp-content/uploads/2026/07/0dda5e3230e3ce9900a59750d2788ee9.pdf・2回目）
+  - 「支払手数料 158,094 88,301」（https://www.arealink.co.jp/wp/wp-content/uploads/2025/11/6b28de23750fa0e70aa2677ef1b26136.pdf・2回目）
+  - 「「その他運用サービス事業」は、当社が所有している不動産(事務所・店舗・住居・ホテル等)の賃貸、保守、」（https://www.arealink.co.jp/wp/wp-content/uploads/2025/11/6b28de23750fa0e70aa2677ef1b26136.pdf・2回目）
+- 売上構成：
+  - 「アセット事業、オフィス事業など、不動産運用サービスを運営する事業セグメント」（https://www.arealink.co.jp/ir/faq/・1回目）
+  - 「（セグメント情報等） …………………………………………………………………………………………８」（https://www.arealink.co.jp/wp-content/uploads/2026/07/0dda5e3230e3ce9900a59750d2788ee9.pdf・2回目）
+  - 「各セグメントの業績は以下の通りであります」（https://www.arealink.co.jp/wp-content/uploads/2026/07/0dda5e3230e3ce9900a59750d2788ee9.pdf・2回目）
+  - 「（セグメント情報等）」（https://www.arealink.co.jp/wp-content/uploads/2026/07/0dda5e3230e3ce9900a59750d2788ee9.pdf・2回目）
+  - 「１ 報告セグメントの概要」（https://www.arealink.co.jp/wp-content/uploads/2026/07/0dda5e3230e3ce9900a59750d2788ee9.pdf・2回目）
+  - 「当社の報告セグメントは、当社の構成単位のうち分離された財務情報が入手可能であり、取締役会が、経営資」（https://www.arealink.co.jp/wp-content/uploads/2026/07/0dda5e3230e3ce9900a59750d2788ee9.pdf・2回目）
+  - 「当社は、「ストレージ事業」、「土地権利整備事業」、「その他運用サービス事業」の３つを報告セグメント」（https://www.arealink.co.jp/wp-content/uploads/2026/07/0dda5e3230e3ce9900a59750d2788ee9.pdf・2回目）
+  - 「２ 報告セグメントごとの売上高及び利益又は損失の金額に関する情報」（https://www.arealink.co.jp/wp-content/uploads/2026/07/0dda5e3230e3ce9900a59750d2788ee9.pdf・2回目）
+  - 「報告セグメント」（https://www.arealink.co.jp/wp-content/uploads/2026/07/0dda5e3230e3ce9900a59750d2788ee9.pdf・2回目）
+  - 「セグメント間の内部」（https://www.arealink.co.jp/wp-content/uploads/2026/07/0dda5e3230e3ce9900a59750d2788ee9.pdf・2回目）
+  - 「セグメント利益 3,304,681 180,259 224,988 3,709,929 △687,672 3,022,256」（https://www.arealink.co.jp/wp-content/uploads/2026/07/0dda5e3230e3ce9900a59750d2788ee9.pdf・2回目）
+  - 「(注) １．セグメント利益の調整額△687,672千円は、各報告セグメントに配分していない全社費用であり、その主な」（https://www.arealink.co.jp/wp-content/uploads/2026/07/0dda5e3230e3ce9900a59750d2788ee9.pdf・2回目）
+- 利益の源泉：
+  - 「参入障壁が低いことの」（https://www.arealink.co.jp/ir/risks/・1回目）
+  - 「売上総利益率」（https://www.arealink.co.jp/ir/performance/・1回目）
+  - 「入れにつきましては、引き続き良質物件の仕入れに注力し、在庫額は前期末比601百万円増の3,331百万円となり」（https://www.arealink.co.jp/wp-content/uploads/2026/07/0dda5e3230e3ce9900a59750d2788ee9.pdf・2回目）
+  - 「質物件の仕入れに注力し、在庫額は前期末比473百万円減の2,465百万円となりました」（https://www.arealink.co.jp/wp/wp-content/uploads/2025/11/6b28de23750fa0e70aa2677ef1b26136.pdf・2回目）
+  - 「仕入れに注力し、在庫額は前期末比300百万円減の2,637百万円となりました」（https://www.arealink.co.jp/wp/wp-content/uploads/2025/10/financial-reports-20250730.pdf・2回目）
+  - 「小の規模に応じた良質物件の仕入れに注力し、在庫額は前期末比364百万円減の2,573百万円となりました」（https://www.arealink.co.jp/wp/wp-content/uploads/2025/10/financial-reports-20250430.pdf・2回目）
+  - 「に注力し、在庫額は前期末比871百万円減の2,938百万円となりました」（https://www.arealink.co.jp/wp/wp-content/uploads/2025/10/financial-reports-20250214.pdf・2回目）
+  - 「し、在庫額は前期末比1,156百万円減の2,653百万円となりました」（https://www.arealink.co.jp/wp/wp-content/uploads/2025/10/financial-reports-20241029.pdf・2回目）
+  - 「同社は自社での物件開発や土地借上げを通じたストレージ出店に加え、底地（借地権のついた土地）の権利調整や売買を行う土地権利整備事業などを手掛け、専門性の高い不動産運用ノウハウと全国規模の管理基盤を強みに盤石な収益構造を築いています」（https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%AF%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%8C%E5%85%89%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9/・3回目）
+  - 「たとえばハローストレージでは、居住スペースを圧迫する荷物を外に預けることで生活空間を広く保ちたい個人や、在庫や書類を確保したい法人への利便性を高めています」（https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%AF%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%8C%E5%85%89%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9/・3回目）
+  - 「こうして複数のサービスを組み合わせることで、利用者の多種多様なニーズに応えられることが大きな強みとなっているのです」（https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%AF%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%8C%E5%85%89%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9/・3回目）
+  - 「不動産市場を熟知したスタッフや、権利整理に強い法律や税務の専門家との連携がスムーズであることも大きな強みです」（https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%AA%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%AF%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%8C%E5%85%89%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9/・3回目）
+- 沿革：
+  - 「1995年4月」（https://www.arealink.co.jp/information/・1回目）
+  - 「沿革｜1995年創業・全国47都道府県展開｜ストレージのエリアリンク㈱」（https://www.arealink.co.jp/history/・1回目）
+  - 「2026年9月期_トランクルームにおける市場調査」（https://www.arealink.co.jp/service/・1回目）
+  - 「2024年12月末時点」（https://www.arealink.co.jp/service/・1回目）
+  - 「2026年12月期 第3四半期 決算説明資料」（https://www.arealink.co.jp/ir/・1回目）
+  - 「2026年12月期第３四半期決算短信〔日本基準〕(連結)」（https://www.arealink.co.jp/ir/・1回目）
+  - 「2026年9月度 月次実績」（https://www.arealink.co.jp/ir/・1回目）
+  - 「2026年8月度 月次実績」（https://www.arealink.co.jp/ir/・1回目）
+  - 「2025年上振れ分」（https://www.arealink.co.jp/ir/strategy/・1回目）
+  - 「2025年11月1日付で、普通株式1株につき2株の割合で株式分割を行っております」（https://www.arealink.co.jp/ir/performance/・1回目）
+  - 「2020年12月期の期首に当該株式分割が行われたと仮定して、「1株当たり当期純利益」「1株当たり純資産」 「1株当たり配当金」を算定しております」（https://www.arealink.co.jp/ir/performance/・1回目）
+  - 「2026年7月29日」（https://www.arealink.co.jp/ir/library/・1回目）
+- 検索結果の抜粋：
+  - 「株式会社エリアリンクの成長戦略が光るビジネスモデルとは | チームマ... — Feb 28, 2025 · こうした背景を踏まえると、株式会社エリアリンクの今後の動向には目が離せません。 ビジネスモデルの強化と新規分野への挑戦がどのような成果をもたらすのか、引き続き注目が集まっています。」（https://consovation.com/株式会社エリアリンクの成長戦略が光るビジネス/・3回目）
+  - 「中期経営計画 25-27｜ストレージのエリアリンク株式会社 — エリアリンク株式会社 (本社:東京都千代田区)の中期経営計画25-27のページです。 ストレージ事業を成長ドライバーに据え、20万室強 (シェア率24%)を目指す出店戦略、パートナー制度本格化、データドリブン経営で早期収益化と高稼働率を維持。」（https://www.arealink.co.jp/ir/strategy/・3回目）
+  - 「【8914】エリアリンク株式会社 事業概要と成長戦略に関するIRインタビ... — Oct 15, 2026 · エリアリンク株式会社は「ストレージで暮らしが変わる」をキーワードに、日本の暮らしを変えていきます。 代表取締役社長の鈴木 貴佳氏に事業戦略の変遷や今後の成長方針を伺いました。」（https://invest-n.jp/ir/6203/・3回目）
+  - 「【東京・エリアリンク】 トランクルーム事業で業界最大手に成長。29年...エリアリンクストレージ事業に集中する収益モデルを解説 - TOITOI FIN...エリアリンク (8914)DD｜ハローストレージの国内No.1、PBR1倍割れ脱却... — Feb 10, 2026 · エリアリンク社は、トランクルーム「ハローストレージ」の運営が事業売上の8割を占めています。 土地オーナー向けに遊休地の有効活用を提案し、トランクルームを開発し、日本最大級の店舗数を展開中です。 Mar 21, 2026 · エリアリンク〈8914〉は、ストレージ（トランクルーム）事業と土地権利整備事業を柱に、二桁の増収増益を達成。 2025年以降は中期経営計画で出店加速とESG経営を推進。 土地権利整備事業も堅調で、安定収益と株主還元の両立を実現。 Jun 8, 2025 · エリアリンク (8914)のDDレポ」（https://jcation.com/satoapp/1986/・3回目）
+  - 「エリアリンクストレージ事業に集中する収益モデルを解説 - TOITOI FIN... — Mar 21, 2026 · エリアリンク〈8914〉は、ストレージ（トランクルーム）事業と土地権利整備事業を柱に、二桁の増収増益を達成。 2025年以降は中期経営計画で出店加速とESG経営を推進。 土地権利整備事業も堅調で、安定収益と株主還元の両立を実現。」（https://toitoi-blog.com/arealink-8914/・3回目）
+  - 「IRトップ｜業績・財務・株式情報、最新決算資料｜エリアリンク㈱ — エリアリンク株式会社(本社:東京都千代田区)のIR情報のページです。決算短信・説明資料、中期経営計画、業績・財務データ、株価情報、株主総会資料を公開。22期連続増収を実現する経営基盤と成長戦略をご紹介。」（https://www.arealink.co.jp/ir/・3回目）
+  - 「エリアリンク：2026年12月期 第3四半期決算説明資料 — 5 days ago · 2026年10月28日 エリアリンク[8914]の開示資料「2026年12月期 第3四半期決算説明資料」 が閲覧できます。資料はPDFでダウンロードできます」（https://www.nikkei.com/nkd/disclosure/tdnr/20261027556566/・3回目）
+  - 「【エリアリンク】決算説明資料｜2026年12月期第3四半期 | Japan IR — 5 days ago · エリアリンク株式会社 2026年12月期第3四半期決算説明資料。 ストレージ王の連結子会社化完了を受け、2026年12月期の連結決算予想を公表。 ストレージ王の連結開始に伴い、売上高は23％超の伸びを見込む可能性、通期の予想は上方修正。」（https://japanir.jp/company/company-8914/ir/8914-20261028-03_wp_financial_summary/・3回目）
+  - 「エリアリンクのIR資料 - 8914 / ｽﾀﾝﾀﾞｰﾄﾞ / 不動産業 | バフ... — エリアリンク（8914 / ｽﾀﾝﾀﾞｰﾄﾞ / 不動産業）のIR資料の一覧を表示しています。 有価証券報告書や決算短信、そしてTDnetで開示された適時開示資料をPDFでご覧になれます。」（https://www.buffett-code.com/company/8914/library・3回目）
+  - 「決算説明会・スモールミーティング資料｜ストレージのエリアリンク株... — Jul 29, 2026 · Presentation Materials 決算説明会・スモールミーティング資料 最新情報 2026年10月28日 2026年12月期第3四半期決算説明会資料（PDF） 株主・投資家の皆様から寄せられたご質問と回答」（https://www.arealink.co.jp/ir/library-2/・3回目）
+  - 「事業一覧｜4事業で安定経営を実現する｜ストレージのエリアリンク㈱ — エリアリンク株式会社 (本社:東京都千代田区)の事業一覧。 全国展開するストレージ事業を中心に、土地権利整備・オフィス・アセットの4事業を展開。 ストックビジネスによる安定経営で、トランクルーム運営から不動産ソリューションまでサポート。」（https://www.arealink.co.jp/service/・3回目）
+  - 「エリアリンク株式会社 | 事業概要・投資方針・投資実績 | FIRST CVC — エリアリンク株式会社の事業概要、投資方針、投資実績をまとめた企業プロフィール。 エリアリンク株式会社は、1995年4月に設立された不動産運用サービス企業です（2003年8月に東証マザーズ上場、現在は東証スタンダード市場上場・証券コード8914）。」（https://www.firstcvc.jp/company/arealink.co.jp・3回目）
 
 ## エータイ
 - 公式URL：https://a-tie.co.jp/（search:ddgs:google:エータイ）
@@ -5165,6 +8425,137 @@
   - 「株式会社 オプティマスグループ - NET-IR — 株式会社 オプティマスグループ - NET-IR webcast.net-ir.ne.jp https://webcast.net-ir.ne.jp > ...」（https://webcast.net-ir.ne.jp/92682608/index.html・3回目）
   - 「会社概要｜会社情報｜株式会社 オプティマスグループ — 会社概要｜会社情報｜株式会社 オプティマスグループ 株式会社オプティマスグループ https://www.optimusgroup.co.jp > corporate > company」（https://www.optimusgroup.co.jp/corporate/company/・3回目）
   - 「株式会社 オプティマスグループ — 株式会社 オプティマスグループ 株式会社オプティマスグループ https://www.optimusgroup.co.jp」（https://www.optimusgroup.co.jp/・3回目）
+
+## オリエンタルランド
+- 公式URL：https://www.recruit.olc.co.jp/（search:yahoo_jp:オリエンタルランド）
+- 誰に：
+  - 「ここでいう「あなた」とは、パークに訪れてくださるゲストであり、従業員であり、取引先の方々を含めた関係者すべてを指します」（https://www.kandai-koyukai.com/member/interview/interview4.html・3回目）
+  - 「当日券の扱い方も見直しながら、お客様が快適に体験できる環境を整えました」（https://www.kandai-koyukai.com/member/interview/interview4.html・3回目）
+- 何を：
+  - 「オリエンタルランドの仕事は幅広く、「街」を構成する多くの活動を担っており、広告、物流、インフラ整備、パークでは飲食、商品などの開発・運営も自社で行っています」（https://www.recruit.olc.co.jp/・1回目）
+  - 「施設・サービス」（https://www.kandai-koyukai.com/member/interview/interview4.html・3回目）
+  - 「もちろん列に並んで体験いただくこともできますが、時間を有意義に使って楽しみたいという方々のニーズに応えたいという想いからサービスの導入を決めました」（https://www.kandai-koyukai.com/member/interview/interview4.html・3回目）
+- どうやって売るか：
+  - 「社員紹介一覧へ」（https://www.recruit.olc.co.jp/・1回目）
+  - 「各部会の役割と紹介」（https://www.kandai-koyukai.com/member/interview/interview4.html・3回目）
+- 沿革：
+  - 「2026年ハーバード大学ロニーチェンの卒業式スピーチ『AIなんてクソくらえ」（https://www.youtube.com/watch?v=OUAtNJnHxVI・3回目）
+- 検索結果の抜粋：
+  - 「経営計画 | 株主・投資家の皆様へ | 株式会社 オリエンタルランド — 経営計画 | 株主・投資家の皆様へ | 株式会社 オリエンタルランド 株式会社オリエンタルランド https://www.olc.co.jp > ... > 経営について」（https://www.olc.co.jp/ja/ir/management/plan.html・3回目）
+  - 「価値創造プロセス | 初めてのOLCグループ - オリエンタルランド — 価値創造プロセス | 初めてのOLCグループ - オリエンタルランド 株式会社オリエンタルランド https://www.olc.co.jp > ... > 初めてのOLCグループ」（https://www.olc.co.jp/ja/ir/olc/group03.html・3回目）
+  - 「【 ビジネスモデル 図解2026】 オリエンタルランド の事業戦略 ... — 【 ビジネスモデル 図解2026】 オリエンタルランド の事業戦略 ... mindmeister.jp https://mindmeister.jp > posts > bm-olc」（https://mindmeister.jp/posts/bm-olc・3回目）
+  - 「2035長期経営戦略 - オリエンタルランド — 2035長期経営戦略 - オリエンタルランド 株式会社オリエンタルランド PDF https://www.olc.co.jp > news > news_olc > main > link」（https://www.olc.co.jp/ja/news/news_olc/COPY-auto_20250428525727/main/0/link/20250428.pdf・3回目）
+  - 「オリエンタルランド （OLC）の ビジネスモデル ・強みを徹底分析 — オリエンタルランド （OLC）の ビジネスモデル ・強みを徹底分析 株式会社ST・VISION https://salon.stvision.jp > 企業特集 > 娯楽・レジャー」（https://salon.stvision.jp/?p=733・3回目）
+  - 「IR 資料 室 | 株主・投資家の皆様へ | 株式会社 オリエンタルランド — IR 資料 室 | 株主・投資家の皆様へ | 株式会社 オリエンタルランド 株式会社オリエンタルランド https://www.olc.co.jp > ... > 株主・投資家の皆様へ」（https://www.olc.co.jp/ja/ir/reports.html・3回目）
+  - 「決算説明 会 - 株主・投資家の皆様へ - オリエンタルランド — 決算説明 会 - 株主・投資家の皆様へ - オリエンタルランド 株式会社オリエンタルランド https://www.olc.co.jp > ... > IR資料室」（https://www.olc.co.jp/ja/ir/reports/presentations.html・3回目）
+  - 「2026年3月期 決算説明 会 - オリエンタルランド — 2026年3月期 決算説明 会 - オリエンタルランド 株式会社オリエンタルランド PDF https://www.olc.co.jp > news > news_olc > pdfFile」（https://www.olc.co.jp/ja/news/news_olc/auto_20260428513084/pdfFile.pdf・3回目）
+  - 「決算 短信 - 株主・投資家の皆様へ - オリエンタルランド — 決算 短信 - 株主・投資家の皆様へ - オリエンタルランド 株式会社オリエンタルランド https://www.olc.co.jp > ... > IR資料室」（https://www.olc.co.jp/ja/ir/reports/financial.html・3回目）
+  - 「株主・投資家の皆様へ | 株式会社 オリエンタルランド — 株主・投資家の皆様へ | 株式会社 オリエンタルランド 株式会社オリエンタルランド https://www.olc.co.jp > ...」（https://www.olc.co.jp/ja/ir.html・3回目）
+  - 「会社概要 | 企業情報 | 株式会社 オリエンタルランド — 会社概要 | 企業情報 | 株式会社 オリエンタルランド 株式会社オリエンタルランド https://www.olc.co.jp > トップページ > 企業情報」（https://www.olc.co.jp/ja/company/profile.html・3回目）
+  - 「オリエンタルランド グループ 統合報告書 2026 — オリエンタルランド グループ 統合報告書 2026 株式会社オリエンタルランド PDF https://www.olc.co.jp > file > integrated_2026_ja」（https://www.olc.co.jp/ja/ir/reports/annual/main/01110/teaserItems1/0/file/integrated_2026_ja.pdf・3回目）
+- 設立：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索5回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索5回）
+- 事業内容：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索5回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索5回）
+- ビジネスモデル：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索5回）
+- お金の形：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索5回）
+- 売上構成：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索5回）
+- 利益の源泉：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索5回）
+
+## オルガノ
+- 公式URL：https://www.organo.co.jp/（search:yahoo_jp:オルガノ）
+- 設立：1946年（昭和21年）5月1日（https://www.organo.co.jp/company/profile/・1回目）
+- 従業員数：連結：2,660人　単体：1,227人（2026年3月末時点）（https://www.organo.co.jp/company/profile/・1回目）
+- 事業内容：総合水処理エンジニアリング会社 イオン交換樹脂、分離膜、活性炭等を使用する各種用排水処理装置の製造、販売、メンテナンス及び水処理アウトソーシング受託ならびに各種水処理薬品、食品加工材の販売（https://www.organo.co.jp/company/profile/・1回目）
+- 売上高：連結1,632億円（https://www.organo.co.jp/company/profile/・1回目）
+- ビジネスモデル：
+  - 「そうした社会では、資源の採掘から廃棄まで一方通行のリニア（直線型）から、使用後の材料を回収して再生・再利用するサーキュラー（循環型）へとビジネスモデルを転換することが企業の競争力強化につながります」（https://www.organo.co.jp/sustainability/environment/recycle/・1回目）
+  - 「提供する価値社会課題 課題を解決するビジネスモデル」（https://pdf.irpocket.com/C6368/urNP/dSWm/ihWB.pdf・3回目）
+  - 「どを交換して対価を得る、 という ビジネスモデルを転換し、 メ」（https://pdf.irpocket.com/C6368/urNP/dSWm/ihWB.pdf・3回目）
+- 誰に：
+  - 「お客様からの要望を実装するにとどまらず、常に期待以上の提案ができているか」（https://www.organo.co.jp/about/slogan/・1回目）
+  - 「自分自身に、この社会に、この星の未来に、そして、お客様に」（https://www.organo.co.jp/about/slogan/・1回目）
+  - 「お客様からの要望を実装するにとどまらず、」（https://www.organo.co.jp/about/slogan/・1回目）
+  - 「そして、お客様に」（https://www.organo.co.jp/about/slogan/・1回目）
+  - 「その運転やメンテナンスの中で生じるトラブルへの対応など一つひとつの経験を元に、顧客ニーズに的確に応えるノウハウを積み重ねてきたことが、当社グループの顧客サポート力の源泉となっています」（https://www.organo.co.jp/about/strengths/・1回目）
+  - 「お客様と社会が求める新技術、新製品を世の中に送り出すために、当社では、超純水のさらなる純度向上や、水処理薬品や水処理膜等機能材のさらなる有効活用、プラントのIoT化、分離精製技術の水以外への活用等、ニーズを先読みした技術開発を行っています」（https://www.organo.co.jp/about/research/・1回目）
+  - 「お客様の課題一つひとつと」（https://www.organo.co.jp/about/projects/・1回目）
+  - 「お客様の事業を支援します」（https://www.organo.co.jp/business/plant/・1回目）
+  - 「さまざまな水を顧客ニーズ起点で開発を重ね、独自の応用技術を磨いてきました」（https://www.organo.co.jp/business/plant/・1回目）
+  - 「設計・施工から運用・保守まで一貫したサービスで、お客様の課題解決を支えます」（https://www.organo.co.jp/business/plant/・1回目）
+  - 「お客様の工場内にオルガノが自社設備として水処理設備を設置し、運転管理・メンテナンスまで包括的に対応します」（https://www.organo.co.jp/business/solution/・1回目）
+  - 「設計・施工から運用・保守まで一貫したサービスで、お客様の課題解決を支えます」（https://www.organo.co.jp/business/solution/・1回目）
+- 何を：
+  - 「ー ソリューション事業」（https://www.organo.co.jp/・1回目）
+  - 「機能商品事業」（https://www.organo.co.jp/・1回目）
+  - 「製品・サービス一覧」（https://www.organo.co.jp/・1回目）
+  - 「サービスの提供形態に合わせて、以下の３つの事業に分かれています」（https://www.organo.co.jp/・1回目）
+  - 「ソリューション事業」（https://www.organo.co.jp/・1回目）
+  - 「水処理設備のメンテナンスや運転管理に加え、設備の増強・改造など、多様なニーズに応えるソリューションサービスを提供します」（https://www.organo.co.jp/・1回目）
+  - 「中・小型水処理装置をはじめ、水処理薬品やフィルタ、イオン交換樹脂、食品加工材など多様な製品を製造・販売し、幅広い水処理ニーズに応えています」（https://www.organo.co.jp/・1回目）
+  - 「多様なニーズに応えるソリューションサービスを提供します」（https://www.organo.co.jp/・1回目）
+  - 「多様な製品を製造・販売し、幅広い水処理ニーズに応えています」（https://www.organo.co.jp/・1回目）
+  - 「製品の詳細やご購入はこちらから」（https://www.organo.co.jp/・1回目）
+  - 「ー ソリューション事業」（https://www.organo.co.jp/about/・1回目）
+  - 「機能商品事業」（https://www.organo.co.jp/about/・1回目）
+- どうやって売るか：
+  - 「パートナー企業としてあり続けます」（https://www.organo.co.jp/about/・1回目）
+  - 「さまざまな企業のパートナーとして共に歩んできました」（https://www.organo.co.jp/about/・1回目）
+  - 「イオン交換樹脂アンバーライトの日本総代理店となる」（https://www.organo.co.jp/company/history/・1回目）
+  - 「本賞は、博士後期課程の大学院生などの若手研究者による水環境分野の優れた研究成果を広く紹介し、更なる研究発展を支援する目的で設立されたものです」（https://www.organo.co.jp/sustainability/environment/water/・1回目）
+  - 「フランチャイズ」（https://www.organo.co.jp/sustainability/environment/climate/・1回目）
+  - 「水処理薬品や機能材料など技術領域を広げながら展開地域を拡大し、グローバルで信頼されるパートナー企業へと成長させます」（https://www.organo.co.jp/ir/individual-investors/・1回目）
+  - 「紙面紹介と購読案内」（https://www.nikkei.com/prime/veritas/article/DGXZQOKC250JM0V20C25A3000000・3回目）
+- お金の形：
+  - 「オルガノのプラント建設は、水処理プラントの設計・調達・建設から運用・保守まで一貫して対応できることが特長です」（https://www.organo.co.jp/business/plant/・1回目）
+  - 「保守・メンテナンスを詳しく知る」（https://www.organo.co.jp/business/plant/・1回目）
+  - 「設計・施工から運用・保守まで一貫したサービスで、お客様の課題解決を支えます」（https://www.organo.co.jp/business/plant/・1回目）
+  - 「運転・保守・改善の一括サポートで、現場の安定稼働を実現します」（https://www.organo.co.jp/business/solution/・1回目）
+  - 「運用保守・運用サポート」（https://www.organo.co.jp/business/solution/・1回目）
+  - 「設計・施工から運用・保守まで一貫したサービスで、お客様の課題解決を支えます」（https://www.organo.co.jp/business/solution/・1回目）
+  - 「半導体・医薬品等の精密なものづくりに不可欠な高度な水処理技術と、運転・保守を組み合わせた独自の事業モデルで成長を続けながら、お客さまと産業・社会の持続的な発展を支えています」（https://www.organo.co.jp/ir/individual-investors/・1回目）
+  - 「みや受注単価の下落、 工事や設備における不適合な ど によ る」（https://pdf.irpocket.com/C6368/urNP/dSWm/ihWB.pdf・3回目）
+- 売上構成：
+  - 「売上高構成比」（https://pdf.irpocket.com/C6368/urNP/dSWm/ihWB.pdf・3回目）
+- 利益の源泉：
+  - 「私たちの強み」（https://www.organo.co.jp/・1回目）
+  - 「私たちの強み」（https://www.organo.co.jp/about/・1回目）
+  - 「私たちの強み」（https://www.organo.co.jp/about/slogan/・1回目）
+  - 「私たちの強み | オルガノ株式会社」（https://www.organo.co.jp/about/strengths/・1回目）
+  - 「私たちの強み」（https://www.organo.co.jp/about/strengths/・1回目）
+  - 「私たちの強み」（https://www.organo.co.jp/about/research/・1回目）
+  - 「私たちの強み」（https://www.organo.co.jp/about/global/・1回目）
+  - 「私たちの強み」（https://www.organo.co.jp/about/projects/・1回目）
+  - 「私たちの強み」（https://www.organo.co.jp/business/plant/・1回目）
+  - 「私たちの強み」（https://www.organo.co.jp/business/solution/・1回目）
+  - 「私たちの強み」（https://www.organo.co.jp/business/performance-products-business/・1回目）
+  - 「特に総合的な水処理の知見をコンパクトに製品へ凝縮するノウハウが強みです」（https://www.organo.co.jp/business/performance-products-business/・1回目）
+- 沿革：
+  - 「1940年代」（https://www.organo.co.jp/about/・1回目）
+  - 「1950年代」（https://www.organo.co.jp/about/・1回目）
+  - 「1960年代」（https://www.organo.co.jp/about/・1回目）
+  - 「1980年代」（https://www.organo.co.jp/about/・1回目）
+  - 「2026年で創業」（https://www.organo.co.jp/about/・1回目）
+  - 「1946 年の創業から変わらない、私たちが大事にしてきたもの」（https://www.organo.co.jp/about/slogan/・1回目）
+  - 「1946 年の創業から変わらない、」（https://www.organo.co.jp/about/slogan/・1回目）
+  - 「1946年（昭和21年）5月1日」（https://www.organo.co.jp/company/profile/・1回目）
+  - 「1996年1月15日」（https://www.organo.co.jp/company/profile/・1回目）
+  - 「1997年4月26日」（https://www.organo.co.jp/company/profile/・1回目）
+  - 「1996年3月9日」（https://www.organo.co.jp/company/profile/・1回目）
+  - 「1998年5月16日」（https://www.organo.co.jp/company/profile/・1回目）
+- 検索結果の抜粋：
+  - 「ビジネス 領域 | オルガノ 株式会社 — ビジネス 領域 | オルガノ 株式会社 オルガノ株式会社 https://www.organo.co.jp > business > areas」（https://www.organo.co.jp/business/areas/・3回目）
+  - 「オルガノ 株式会社 — オルガノ 株式会社 オルガノ株式会社 https://www.organo.co.jp」（https://www.organo.co.jp/・3回目）
+  - 「イノベーション・研究開発 | オルガノ 株式会社 — イノベーション・研究開発 | オルガノ 株式会社 オルガノ株式会社 https://www.organo.co.jp > about > research」（https://www.organo.co.jp/about/research/・3回目）
+  - 「半導体業界の生命線を握る「超純水」の巨人、 オルガノ (6368 ... — 半導体業界の生命線を握る「超純水」の巨人、 オルガノ (6368 ... note https://note.com > 投資・マネー > 日本株」（https://note.com/tatsuya_sabato/n/n00c9fcfe498c・3回目）
+  - 「IR 説明 会 資料 | オルガノ 株式会社 — IR 説明 会 資料 | オルガノ 株式会社 オルガノ株式会社 https://www.organo.co.jp > library > earnings-presentation」（https://www.organo.co.jp/ir/library/earnings-presentation/・3回目）
+  - 「IR 資料 室 | オルガノ 株式会社 — IR 資料 室 | オルガノ 株式会社 オルガノ株式会社 https://www.organo.co.jp > library」（https://www.organo.co.jp/ir/library/・3回目）
+  - 「決算 短信 | オルガノ 株式会社 — 決算 短信 | オルガノ 株式会社 オルガノ株式会社 https://www.organo.co.jp > library > earnings-release」（https://www.organo.co.jp/ir/library/earnings-release/・3回目）
+  - 「IRカレンダー | オルガノ 株式会社 — IRカレンダー | オルガノ 株式会社 オルガノ株式会社 https://www.organo.co.jp > calendar」（https://www.organo.co.jp/ir/calendar/・3回目）
+  - 「オルガノ [6368]：2026年3月期 決算説明 会 資料 ... - 日本経済新聞 — オルガノ [6368]：2026年3月期 決算説明 会 資料 ... - 日本経済新聞 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr」（https://www.nikkei.com/nkd/disclosure/tdnr/20260512527047/・3回目）
+  - 「会社概要 | オルガノ 株式会社 — 会社概要 | オルガノ 株式会社 オルガノ株式会社 https://www.organo.co.jp > company > profile」（https://www.organo.co.jp/company/profile/・3回目）
+  - 「拠点情報（ 事業 所一覧・関連会社） | オルガノ 株式会社 — 拠点情報（ 事業 所一覧・関連会社） | オルガノ 株式会社 オルガノ株式会社 https://www.organo.co.jp > company > offices」（https://www.organo.co.jp/company/offices/・3回目）
+  - 「投資家向け情報 | オルガノ 株式会社 — 投資家向け情報 | オルガノ 株式会社 オルガノ株式会社 https://www.organo.co.jp > ...」（https://www.organo.co.jp/ir/・3回目）
 
 ## オロ
 - 公式URL：https://www.oro.com/（search:ddgs:google:オロ）
@@ -6277,6 +9668,89 @@
   - 「カプコン 【9697】の 事業 内容 - キタイシホン — カプコン 【9697】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/9697/business・3回目）
   - 「サイトマップ | | 株式会社 カプコン — サイトマップ | | 株式会社 カプコン CAPCOM https://www.capcom.co.jp > sitemap」（https://www.capcom.co.jp/ir/sitemap.html・3回目）
 
+## カラダノート
+- 公式URL：https://corp.karadanote.jp/（search:ddgs:google:株式会社カラダノート）
+- 設立：2008年12月24日（https://corp.karadanote.jp/about-us・1回目）
+- 設立：2008年12月24日（https://corp.karadanote.jp/ir/overview・1回目）
+- 設立：当社は、2008年12月に健康支援を目的としたサービスを提供するため、東京都港区に株式会社プラスアールを設立しました。2017年3月に事業拡大のため、東京都港区芝公園（現本社所在地）へ移転、同年7月に株式会社カラダノートへ社名変更し、現在に至っております。（https://corp.karadanote.jp/ir/faq・1回目）
+- 従業員数：58名（2023年10月末時点）正社員・アルバイト含む（https://corp.karadanote.jp/about-us・1回目）
+- 従業員数：58名（2022年7月末時点）正社員・アルバイト含む（https://corp.karadanote.jp/ir/overview・1回目）
+- 事業内容：ファミリーデータプラットフォーム事業 妊娠出産育児に関する、メディアの企画運営/アプリの企画開発 服薬、健康管理に関する、アプリの企画開発 労働者派遣事業（許可番号 派13-317240）（https://corp.karadanote.jp/about-us・1回目）
+- 事業内容：ファミリーデータプラットフォーム事業 妊娠出産育児に関する、メディアの企画運営/アプリの企画開発 服薬、健康管理に関する、アプリの企画開発 労働者派遣事業（許可番号 派13-317240）（https://corp.karadanote.jp/ir/overview・1回目）
+- ビジネスモデル：
+  - 「会社概要、ビジョン、ビジネスモデル、事業系統図を説明」（https://edinetdb.jp/company/E35989/midterm-plans/・3回目）
+  - 「：「ガラケー×ヘルスケア」といったビジネスモデルを思いつき、24歳で起業をしました」（https://keiei-note.wizbiz.jp/138-2/・3回目）
+  - 「「家族の健康を支え笑顔を増やす領域をやろう」ということ以外は何のこだわりもなかったので、どのように利益が出るビジネスモデルを構築するか、非常に苦労しました」（https://keiei-note.wizbiz.jp/138-2/・3回目）
+- 誰に：
+  - 「ユーザーへの適切なタイミングでレコメンド・サービス提案を行い、企業やサービスとのマッチングを支援」（https://corp.karadanote.jp/・1回目）
+  - 「また、DX推進事業を通じ、顧客企業の事業活動における環境負荷の低減や環境効率の向上など、環境課題の解決を進めています」（https://corp.karadanote.jp/sustainability/environment・1回目）
+  - 「株式会社ユーザーローカル監査役就任（現任）」（https://corp.karadanote.jp/ir/executive・1回目）
+  - 「お客様の情報を取り扱う事業者として、情報セキュリティ事故の未然防止を社会的責務と考えおります」（https://corp.karadanote.jp/sustainability/governance・1回目）
+  - 「当社は、情報の管理を徹底し、お客様から信頼される会社を目指します」（https://corp.karadanote.jp/sustainability/governance・1回目）
+  - 「なお、個人情報、顧客情報、および関係者の権利を侵害することになる情報につきましては開示しません」（https://corp.karadanote.jp/ir/policy・1回目）
+  - 「競争力の源泉として、①圧倒的なファミリーデータベース資産（出産前後世帯の43%以上をカバー）、②ライフイベントを起点としたマーケティング提案力、③高収益・長期継続を支える顧客基盤（上位顧客取引継続率80%）を説明」（https://edinetdb.jp/company/E35989/midterm-plans/・3回目）
+  - 「成長戦略として対象顧客幅の拡大（男性DB比率13%→50%）、顧客あたりLTVの拡大（金融・住関連領域に集中）、住友生命との資本業務提携を推進」（https://edinetdb.jp/company/E35989/midterm-plans/・3回目）
+  - 「こちらは、上記サービスを通して保有した80万世帯以上の個人情報を活用し、ユーザー様の適切なタイミングで企業やサービスとのマッチングができるよう支援をしています」（https://keiei-note.wizbiz.jp/138-2/・3回目）
+- 何を：
+  - 「各種アプリケーションの提供をはじめとした家族の暮らしを支えるサービスを提供」（https://corp.karadanote.jp/・1回目）
+  - 「ユーザーへの適切なタイミングでレコメンド・サービス提案を行い、企業やサービスとのマッチングを支援」（https://corp.karadanote.jp/・1回目）
+  - 「家族生活周辺産業にてサービスを展開する事業会社に向けたDX推進を支援」（https://corp.karadanote.jp/・1回目）
+  - 「妊娠・子育てサービス」（https://corp.karadanote.jp/・1回目）
+  - 「ヘルスケアサービス」（https://corp.karadanote.jp/・1回目）
+  - 「サービスの提供者という向き合う形でなく、家族の伴走者として共に寄り添い支える存在で」（https://corp.karadanote.jp/about-us・1回目）
+  - 「カラダノートが提供するサービスにどうぞご期待ください」（https://corp.karadanote.jp/about-us・1回目）
+  - 「妊娠・子育てサービス」（https://corp.karadanote.jp/about-us・1回目）
+  - 「ヘルスケアサービス」（https://corp.karadanote.jp/about-us・1回目）
+  - 「妊娠・子育てサービス」（https://corp.karadanote.jp/ir・1回目）
+  - 「ヘルスケアサービス」（https://corp.karadanote.jp/ir・1回目）
+  - 「妊娠・子育てサービス」（https://corp.karadanote.jp/.tabir・1回目）
+- どうやって売るか：
+  - 「家族パートナーシップ事業」（https://corp.karadanote.jp/・1回目）
+  - 「家族パートナーシップ事業」（https://corp.karadanote.jp/about-us・1回目）
+  - 「家族パートナーシップ事業」（https://corp.karadanote.jp/ir・1回目）
+  - 「家族パートナーシップ事業」（https://corp.karadanote.jp/.tabir・1回目）
+  - 「家族パートナーシップ事業」（https://corp.karadanote.jp/sustainability/environment・1回目）
+  - 「家族パートナーシップ事業」（https://corp.karadanote.jp/ir/irnews・1回目）
+  - 「家族パートナーシップ事業」（https://corp.karadanote.jp/ir/message・1回目）
+  - 「家族パートナーシップ事業」（https://corp.karadanote.jp/ir/overview・1回目）
+  - 「株式会社MKSパートナーズ 入社」（https://corp.karadanote.jp/ir/executive・1回目）
+  - 「家族パートナーシップ事業」（https://corp.karadanote.jp/ir/executive・1回目）
+  - 「家族パートナーシップ事業」（https://corp.karadanote.jp/sustainability/governance・1回目）
+  - 「家族パートナーシップ事業」（https://corp.karadanote.jp/ir/performance・1回目）
+- お金の形：
+  - 「他方、当社では株主の皆様との価値共有により、当社の株主価値の創出並びに毀損の防止、及び信用維持へのインセンティブを付与することを目的として、役員報酬等とは別に、ストックオプションを付与しております」（https://corp.karadanote.jp/sustainability/governance・1回目）
+- 利益の源泉：
+  - 「競争力の源泉として、①圧倒的なファミリーデータベース資産（出産前後世帯の43%以上をカバー）、②ライフイベントを起点としたマーケティング提案力、③高収益・長期継続を支える顧客基盤（上位顧客取引継続率80%）を説明」（https://edinetdb.jp/company/E35989/midterm-plans/・3回目）
+  - 「経営目標としてFY2028売上高30億円以上、営業利益15億円以上、営業利益率40%以上、東証プライム基準適合を掲げる」（https://edinetdb.jp/company/E35989/midterm-plans/・3回目）
+- 沿革：
+  - 「2008年12月24日」（https://corp.karadanote.jp/about-us・1回目）
+  - 「2024年度、「健康経営優良法人」に認定されました」（https://corp.karadanote.jp/about-us・1回目）
+  - 「2019年5月15日付にて」（https://corp.karadanote.jp/about-us・1回目）
+  - 「2020年10月27日」（https://corp.karadanote.jp/ir/message・1回目）
+  - 「2008年12月24日」（https://corp.karadanote.jp/ir/overview・1回目）
+  - 「2007年4月」（https://corp.karadanote.jp/ir/executive・1回目）
+  - 「2008年12月」（https://corp.karadanote.jp/ir/executive・1回目）
+  - 「2014年4月」（https://corp.karadanote.jp/ir/executive・1回目）
+  - 「2020年2月」（https://corp.karadanote.jp/ir/executive・1回目）
+  - 「2020年4月」（https://corp.karadanote.jp/ir/executive・1回目）
+  - 「2020年6月」（https://corp.karadanote.jp/ir/executive・1回目）
+  - 「2021年2月」（https://corp.karadanote.jp/ir/executive・1回目）
+- 検索結果の抜粋：
+  - 「株式会社カラダノート — 家族の健康を支え笑顔をふやすサービス「カラダノートシリーズ」を提供する、株式会社カラダノートのコーポレート ...」（https://corp.karadanote.jp/・3回目）
+  - 「ABOUT US - 株式会社カラダノート急成長企業カラダノートのビジネスモデルを深掘り 成長戦略と最新業績...カラダノートの挑戦：1年で3つの新事業と社員の成長を両立する企業文...株式会社カラダノート 中期経営計画 — EDINET DBカラダノート (4014) の企業概要・業績・財務・IR資料｜CREX経済デー...カラダノート [4014]：FY2026 中期経営計画 -事業計画及び成長可能性... — 未来の社会に貢献すると同時に、 全メンバーの金銭的・精神的幸福を追求する。 代表挨拶 「変わる事業、変わらぬ想い」 カラダノートは、「健康の悩みや不安を抱いている人を助けたい」という想いから、2008年12月に一人で創業しました。 Feb 3, 2025 · 同社は、授乳記録アプリ「授乳ノート」や妊娠中の情報を提供する「陣痛きたかも」といった、ママ・パパ向けの自社開発アプリ群を」（https://corp.karadanote.jp/about-us・3回目）
+  - 「カラダノートの挑戦：1年で3つの新事業と社員の成長を両立する企業文...株式会社カラダノート 中期経営計画 — EDINET DBカラダノート (4014) の企業概要・業績・財務・IR資料｜CREX経済デー...カラダノート [4014]：FY2026 中期経営計画 -事業計画及び成長可能性... — Jun 19, 2025 · さらに、これらのアプリで蓄積したデータや技術力を活かして、法人向けのサービスも多数リリースしています。 ... 2021年には新事業を3本スタートさせるなど、意欲的かつスピード感のある経営もカラダノートの特徴です。 Jun 27, 2026 · 会社概要、ビジョン、ビジネスモデル、事業系統図を説明。 ライフイベントを起点としたマーケティング支援ビジネスで、家族サポート事業、ライフイベントマーケティング事業、保険代理事業の3事業。 カラダノートは「家族の健康を支」（https://morejob.co.jp/mirai/karadanote/・3回目）
+  - 「株式会社カラダノート 中期経営計画 — EDINET DB — Jun 27, 2026 · 会社概要、ビジョン、ビジネスモデル、事業系統図を説明。 ライフイベントを起点としたマーケティング支援ビジネスで、家族サポート事業、ライフイベントマーケティング事業、保険代理事業の3事業。」（https://edinetdb.jp/company/E35989/midterm-plans/・3回目）
+  - 「カラダノート (4014) の企業概要・業績・財務・IR資料｜CREX経済デー... — カラダノートは「家族の健康を支え 笑顔をふやす」をビジョンに掲げ、妊娠・育児・ヘルスケアアプリを通じて蓄積したファミリーデータを軸に、企業へのリード送客 (ライフイベントマーケティング)と保険・宅配水等のストック型収益 (家族サポート事業 ...」（https://www.crex-data.com/company/4014・3回目）
+  - 「決算説明資料 - 株式会社カラダノート — 決算説明資料 経営情報 業績・財務情報 IRライブラリ 株式情報 その他IR情報 電子公告 IRライブラリ一覧 決算短信 決算説明資料 有価証券報告書 株主総会関連資料 その他IR資料 適時開示情報」（https://corp.karadanote.jp/ir/presentations・3回目）
+  - 「IR | 株式会社カラダノート — コーポレート・ガバナンス 経営成績 財政状態 キャッシュ・フローの状況 IRライブラリ一覧 決算短信 決算説明資料 有価証券報告書 株主総会関連資料 その他IR資料 適時開示情報 決算説明動画 株式基本情報 株価情報 株主優待情報 詳細はこちら 詳細はこちら」（https://corp.karadanote.jp/ir・3回目）
+  - 「[G－カラダノート 4014.T] 2026年7月期 決算説明資料 — BigGo Finance — Sep 10, 2026 · カラダノートの2026年7月期連結決算は、売上高10億5,900万円（前期比16.6%減）、営業利益2億1,800万円（前期は3,400万円の赤字）、当期純利益2億5,600万円（前期は6,900万円の赤字）となり、構造改革を経て2期ぶりの営業黒字および過去最高益を達成しました。」（https://finance.biggo.com/news/jpx_tdnet_140120260910534168・3回目）
+  - 「カラダノート (4014) 2026年7月期 決算説明資料 2026年09月10日 [適時... — Sep 10, 2026 · 2026/09/10 - カラダノート（4014） の関連ニュース。 「カラダノート (4014) 2026年7月期 決算説明資料」適時開示はPDFで閲覧できます。」（https://minkabu.jp/stock/4014/news/4614744・3回目）
+  - 「カラダノート [4014]：FY2025 中期経営計画 -事業計画及び成長可能性... — 2024年10月17日 カラダノート [4014]の開示資料「FY2025 中期経営計画 -事業計画及び成長可能性に関する事項-」 が閲覧できます。資料はPDFで ...」（https://www.nikkei.com/nkd/disclosure/tdnr/20241016599105/・3回目）
+  - 「カラダノートは何で稼いでいる？儲け方と収益構造を図解 | Vizora — Oct 26, 2026 · カラダノートの売上高は10.6億円です。 売上100円あたり約21円が営業利益として残ります。 前期から売上は-16.6%、営業損益は黒字に転じました。」（https://vizora.meequs.com/ja/company/karadanote・3回目）
+  - 「4014 カラダノート | FY2026中期経営計画-事業計画及び成長可能性に関... — Oct 22, 2025 · 2021/03/04 カラダノート、保険関連事業者DX支援の一環として保険代理事業に参入「かぞくの保険」3月4日より開始（15:00） 2021/03/01 カラダノート、子育て世代の住み替え需要をサポートする新サービス「かぞくのおうち」をリリース（15:00） 2021/02/01」（https://irbank.net/4014/140120251022576984・3回目）
+- 売上高：記載なし（3回確認済み：公式24頁／PDF・画像0件／外部3頁・検索6回）
+- 売上構成：記載なし（3回確認済み：公式24頁／PDF・画像0件／外部3頁・検索6回）
+
 ## キオクシアホールディングス
 - 公式URL：https://www.kioxia-holdings.com/（search:yahoo_jp:キオクシアホールディングス）
 - 設立：2019年3月1日 当社は、東芝メモリ株式会社（現キオクシア株式会社）からの単独株式移転により設立されました。（https://www.kioxia-holdings.com/ja-jp/about/company.html・1回目）
@@ -6368,6 +9842,84 @@
   - 「トップメッセージ | キオクシアホールディングス 株式会社 — トップメッセージ | キオクシアホールディングス 株式会社 キオクシアホールディングス株式会社 https://www.kioxia-holdings.com > ja-jp > about > message」（https://www.kioxia-holdings.com/ja-jp/about/message.html・3回目）
 - 売上高：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部5頁・検索5回）
 - 売上構成：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部5頁・検索5回）
+
+## キッズスター
+- 公式URL：https://www.kidsstar.co.jp/（search:yahoo_jp:キッズスター）
+- 設立：2014年10月20日（https://www.nikkei.com/nkd/company/gaiyo/?scode=248A・3回目）
+- 従業員数：72 人（https://www.nikkei.com/nkd/company/gaiyo/?scode=248A・3回目）
+- ビジネスモデル：
+  - 「日本で培ったごっこランドのビジネスモデルを基に、子供世代の人口増加と経済成長が見込まれるアジアを中心にGokko Worldを展開する方針である」（https://holistic-r.org/report/248a/・3回目）
+  - 「1開催当たり、出展企業と開催施設から収益を得るビジネスモデルとなっている」（https://holistic-r.org/report/248a/・3回目）
+  - 「当サービスは、地方自治体や地場の協賛企業から掲載料を受け取るビジネスモデルとなっている」（https://holistic-r.org/report/248a/・3回目）
+- 誰に：
+  - 「お客様サポート」（https://www.kidsstar.co.jp/・1回目）
+  - 「お客様サポート」（https://www.kidsstar.co.jp/contact/inquiry・1回目）
+  - 「お客様サポート」（https://www.kidsstar.co.jp/contact/ir・1回目）
+  - 「子供ユーザーの利用を無料とする一方で、企業・団体から出店料を受領している」（https://holistic-r.org/report/248a/・3回目）
+  - 「キッズスターは、各企業・団体から、ごっこランドのデジタルコンテンツの開発とサービスの運営を請負うが、両者は相互関連性が高く、単独で顧客が便益を享受できないため、単一の履行義務に該当すると判断し、顧客とのサービス契約期間（最低2年）に亘り、契約に基づく報酬総額を按分して出店料として売上計上している」（https://holistic-r.org/report/248a/・3回目）
+  - 「一定規模のユーザー数を確保したため、24年6月からはベトナム版の法人営業を開始した」（https://holistic-r.org/report/248a/・3回目）
+  - 「お客様サポート」（https://ir.kidsstar.co.jp/・3回目）
+  - 「キャラクターとのコラボレーション企画など様々な施策で新規ユーザーの獲得を目指している」（https://www.projectdesign.jp/articles/48d1976f-0830-487e-937d-2ef1f3f9ae70・3回目）
+- 何を：
+  - 「サービス一覧」（https://www.kidsstar.co.jp/・1回目）
+  - 「４つのソリューション」（https://www.kidsstar.co.jp/・1回目）
+  - 「手のひらで、子どもと社会がつながり「社会体験（ごっこ遊び）」ができるソリューションを通して、」（https://www.kidsstar.co.jp/・1回目）
+  - 「ICT活用やおうち時間が増える新たな環境へと社会が変化していく中、手のひらで、子どもと社会がつながり「社会体験（ごっこ遊び）」ができるソリューションを通して、子どもたちが楽しくプレイしているうちに、自然と企業・ブランド、地方への理解や共感を深め、周囲を巻き込みながらエンゲージメントを高める体験を創出します」（https://www.kidsstar.co.jp/・1回目）
+  - 「サービスページへ」（https://www.kidsstar.co.jp/・1回目）
+  - 「サービスデザイン・」（https://www.kidsstar.co.jp/・1回目）
+  - 「サービスデザイン・受託開発」（https://www.kidsstar.co.jp/・1回目）
+  - 「サービスデザイン・受託開発詳細はこちら」（https://www.kidsstar.co.jp/・1回目）
+  - 「・企業・団体とパートナーシップ組み、社会を学べるサービスを提供」（https://www.kidsstar.co.jp/・1回目）
+  - 「デジタルとリアルの両面から、親子とブランドをつなぐ4サービスを紹介」（https://www.kidsstar.co.jp/・1回目）
+  - 「当社が利用する外部サービス「Studio」における不正アクセス事案の影響について（第一報）」（https://www.kidsstar.co.jp/・1回目）
+  - 「サービスデザイン・受託開発」（https://www.kidsstar.co.jp/contact/inquiry・1回目）
+- どうやって売るか：
+  - 「・企業・団体とパートナーシップ組み、社会を学べるサービスを提供」（https://www.kidsstar.co.jp/・1回目）
+  - 「デジタルとリアルの両面から、親子とブランドをつなぐ4サービスを紹介」（https://www.kidsstar.co.jp/・1回目）
+  - 「展示会への出展情報などをご紹介します」（https://www.kidsstar.co.jp/・1回目）
+  - 「新規上場会社紹介レポート」（https://holistic-r.org/report/248a/・3回目）
+  - 「キッズスター（248A 東証グロース）新規上場会社紹介レポート」（https://holistic-r.org/report/248a/・3回目）
+  - 「キッズスター｜新規上場会社紹介レポート」（https://holistic-r.org/report/248a/・3回目）
+  - 「627A 新規上場会社紹介レポート」（https://holistic-r.org/report/248a/・3回目）
+  - 「621A 新規上場会社紹介レポート」（https://holistic-r.org/report/248a/・3回目）
+  - 「634A 新規上場会社紹介レポート」（https://holistic-r.org/report/248a/・3回目）
+  - 「日経電子版のサービス・機能を紹介」（https://www.nikkei.com/nkd/company/kigyo/?scode=248A・3回目）
+  - 「紙面紹介と購読案内」（https://www.nikkei.com/nkd/company/kigyo/?scode=248A・3回目）
+  - 「日経電子版のサービス・機能を紹介」（https://www.nikkei.com/nkd/company/gaiyo/?scode=248A・3回目）
+- お金の形：
+  - 「#ストック型」（https://holistic-r.org/report/248a/・3回目）
+  - 「オーディオストック」（https://holistic-r.org/report/248a/・3回目）
+- 売上構成：
+  - 「キッズスターはインターネットメディア事業の単一セグメントであるが、売上高をごっこランド&ジモトガイド、B to Cサービス、サービスデザイン、その他に区分している」（https://holistic-r.org/report/248a/・3回目）
+- 沿革：
+  - 「2026年6月26日（金）11:45-12:15 マーケティングWeek夏2026 ...」（https://www.kidsstar.co.jp/・1回目）
+  - 「2025年12月11日（木）ウェビナー開催「ごっこランド」×「あんふぁん」「ぎゅって...」（https://www.kidsstar.co.jp/・1回目）
+  - 「2024年10月2日（水）11:30-12:10 東京 総務・人事・経理...」（https://www.kidsstar.co.jp/・1回目）
+  - 「2026年11月3日（火）」（https://www.nikkei.com/nkd/company/kigyo/?scode=248A・3回目）
+  - 「2026年12月期第2四半期決算説明会動画及び書き起こし記事公開のお知らせ」（https://www.nikkei.com/nkd/company/kigyo/?scode=248A・3回目）
+  - 「2026年12月期 第2四半期（中間期）決算短信〔日本基準〕(連結)」（https://www.nikkei.com/nkd/company/kigyo/?scode=248A・3回目）
+  - 「2026年12月期第2四半期決算説明資料」（https://www.nikkei.com/nkd/company/kigyo/?scode=248A・3回目）
+  - 「2026年11月3日（火）」（https://www.nikkei.com/nkd/company/gaiyo/?scode=248A・3回目）
+  - 「業務内容・沿革」（https://www.nikkei.com/nkd/company/gaiyo/?scode=248A・3回目）
+  - 「2014年10月20日」（https://www.nikkei.com/nkd/company/gaiyo/?scode=248A・3回目）
+  - 「2026年3月26日」（https://www.nikkei.com/nkd/company/gaiyo/?scode=248A・3回目）
+  - 「2025年12月期 （百万円） ［］内は人数」（https://www.nikkei.com/nkd/company/gaiyo/?scode=248A・3回目）
+- 検索結果の抜粋：
+  - 「キッズスター - 証券リサーチセンター — キッズスター - 証券リサーチセンター 証券リサーチセンター https://holistic-r.org > レポート」（https://holistic-r.org/report/248a/・3回目）
+  - 「キッズスター (248A)ストック型で高い営業利益率を確保している — キッズスター (248A)ストック型で高い営業利益率を確保している 株予報コラム https://column.ifis.co.jp > company > stock-r」（https://column.ifis.co.jp/company/stock-r/164625・3回目）
+  - 「(株) キッズスター 【248A】 | 未来金融研究部《ミラキン》 — (株) キッズスター 【248A】 | 未来金融研究部《ミラキン》 未来金融研究部 https://mirakin.jp > ... > 東証グロース > 東京都」（https://mirakin.jp/unyuzyouhou/jouhoutsuushin/kidsstar/・3回目）
+  - 「「 キッズスター 」のIPO情報総まとめ！ スケジュールから幹事 ... — 「 キッズスター 」のIPO情報総まとめ！ スケジュールから幹事 ... ダイヤモンド・オンライン https://diamond.jp > トップ > IPO株の銘柄分析＆予想」（https://diamond.jp/zai/articles/-/1038274・3回目）
+  - 「会社情報 | 株式会社 キッズスター — 会社情報 | 株式会社 キッズスター 株式会社キッズスター https://www.kidsstar.co.jp > company」（https://www.kidsstar.co.jp/company・3回目）
+  - 「IR情報 | 株式会社 キッズスター — IR情報 | 株式会社 キッズスター 株式会社キッズスター https://ir.kidsstar.co.jp」（https://ir.kidsstar.co.jp/・3回目）
+  - 「【 キッズスター 】[248A]IR情報 中期経営計画や 決算 短信 | 日経 ... — 【 キッズスター 】[248A]IR情報 中期経営計画や 決算 短信 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo」（https://www.nikkei.com/nkd/company/kigyo/?scode=248A・3回目）
+  - 「キッズスター （248A）2025年12月期 通期 決算説明 - YouTube — キッズスター （248A）2025年12月期 通期 決算説明 - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=ExSCZadQkWU・3回目）
+  - 「キッズスター （248A）のIR情報・ 決算資料 - IRBANK — キッズスター （248A）のIR情報・ 決算資料 - IRBANK IRBANK https://irbank.net > キッズスター」（https://irbank.net/248A/ir・3回目）
+  - 「キッズスター ：2026年12月期第2四半期 決算説明資料 - Moomoo — キッズスター ：2026年12月期第2四半期 決算説明資料 - Moomoo Moomoo https://www.moomoo.com > news > notice > kids-star-fin...」（https://www.moomoo.com/ja/news/notice/307884216/kids-star-financial-results-presentation-for-the-second-quarter-of・3回目）
+  - 「【 キッズスター 】[248A]企業概要 社員数や役員報酬・資本金 — 【 キッズスター 】[248A]企業概要 社員数や役員報酬・資本金 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo」（https://www.nikkei.com/nkd/company/gaiyo/?scode=248A・3回目）
+  - 「[G－ キッズスター 248A.T] 事業 計画及び成長可能性に関する ... — [G－ キッズスター 248A.T] 事業 計画及び成長可能性に関する ... BigGo ファイナンス https://finance.biggo.jp > jpx_tdnet_140120260325588314」（https://finance.biggo.jp/news/jpx_tdnet_140120260325588314・3回目）
+- 事業内容：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部7頁・検索5回）
+- 売上高：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部7頁・検索5回）
+- 利益の源泉：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部7頁・検索5回）
 
 ## キーエンス
 - 公式URL：https://www.keyence.co.jp/（search:yahoo_jp:キーエンス）
@@ -6478,6 +10030,136 @@
 - 従業員数：記載なし（3回確認済み：公式25頁／PDF・画像13件／外部3頁・検索5回）
 - 事業内容：記載なし（3回確認済み：公式25頁／PDF・画像13件／外部3頁・検索5回）
 
+## ギークリー
+- 公式URL：https://www.geekly.co.jp/（search:yahoo_jp:ギークリー）
+- 設立：1948年9月（https://www.geekly.co.jp/business/case/nissin-foods-holdings/・1回目）
+- 設立：1922年9月（https://www.geekly.co.jp/business/case/tokyu/・1回目）
+- 設立：1919年8月（https://www.geekly.co.jp/business/case/mufg_bank/・1回目）
+- 従業員数：14,467名（連結・2022年4月現在）（https://www.geekly.co.jp/business/case/nissin-foods-holdings/・1回目）
+- 従業員数：1,414人（2022年3月31日現在）（https://www.geekly.co.jp/business/case/tokyu/・1回目）
+- 従業員数：28,843名（2022年3月現在）（https://www.geekly.co.jp/business/case/mufg_bank/・1回目）
+- 事業内容：持株会社として、グループ全体の経営戦略の策定・推進、グループ経営の監査、その他経営管理など（https://www.geekly.co.jp/business/case/nissin-foods-holdings/・1回目）
+- 事業内容：金融業及びその他付帯業務（https://www.geekly.co.jp/business/case/mufg_bank/・1回目）
+- 事業内容：Francfrancを中心としたインテリア・雑貨小売販売事業（https://www.geekly.co.jp/business/case/francfranc/・1回目）
+- ビジネスモデル：
+  - 「リアル設定中心のビジネスモデルにデジタルの要素を加えて、リアルデジタル連動型のビジネスで変遷においての差別化を計るというのが我々の方針ですね」（https://www.geekly.co.jp/business/case/tokyu/・1回目）
+  - 「創業時のビジネスモデル」（https://solid-ventures.media/venture/geekly/・3回目）
+  - 「Geekly創業当初のビジネスモデルは、」（https://solid-ventures.media/venture/geekly/・3回目）
+  - 「また、人材紹介というビジネスモデル自体が成功報酬型でキャッシュフローを生みやすいため、健全な財務基盤を築くことが可能です」（https://solid-ventures.media/venture/geekly/・3回目）
+  - 「外部資金に左右されず、着実に収益を積み上げながら社会課題を解決していくビジネスモデルは、他の起業家にとっても大きな示唆を与えるはずです」（https://solid-ventures.media/venture/geekly/・3回目）
+  - 「スモールビジネスとは？始め方・収益構造・成長の選択肢」（https://solid-ventures.media/venture/geekly/・3回目）
+  - 「［事業系統図］」（https://kitaishihon.com/company/505A/business・3回目）
+  - 「なお、上記の受注残高の認識方法及び収益モデルは、一般的な成功報酬型の人材紹介会社において採用されている方法と相違はありません」（https://kitaishihon.com/company/505A/business・3回目）
+  - 「当該データを蓄積した結果として求職者との面談ではスキル、ビジネス分野、ビジネスモデルなどの項目について確認すれば成約可能性や求職者の興味などを加味した推薦求人案件が自動でシステムからＣＡに提案される仕組みなど、効率的かつ安定したオペレーションの構築を進めております」（https://kitaishihon.com/company/505A/business・3回目）
+  - 「企業がデータとデジタル技術を活用して、製品やサービス、ビジネスモデルを変革すること」（https://kitaishihon.com/company/505A/business・3回目）
+  - 「自分の信じる正しいビジネスモデルがこの会社で実現できないのであれば、もう残る理由はない」（https://service.jinjibu.jp/article/detl/innovator/4201/・3回目）
+  - 「自分たちの都合で小さくまとまっている場合ではなく、しっかりと知名度を向上させることにより、会社を伸ばして、圧倒的な市場シェアを獲得しにいくべきビジネスモデルだ」と確信し、上場へと大きく舵を切りました」（https://service.jinjibu.jp/article/detl/innovator/4201/・3回目）
+- 誰に：
+  - 「転職成功事例・お客様の声」（https://www.geekly.co.jp/・1回目）
+  - 「ユーザー系システムインテグレーター」（https://www.geekly.co.jp/・1回目）
+  - 「ユーザー系SIer」（https://www.geekly.co.jp/・1回目）
+  - 「転職成功事例・お客様の声」（https://www.geekly.co.jp/business/?route=globalnavi・1回目）
+  - 「転職成功事例・お客様の声」（https://www.geekly.co.jp/inquiry/?route=globalnavi・1回目）
+  - 「ユーザー系システムインテグレーター」（https://www.geekly.co.jp/inquiry/?route=globalnavi・1回目）
+  - 「個人のお客様」（https://www.geekly.co.jp/inquiry/?route=globalnavi・1回目）
+  - 「法人のお客様」（https://www.geekly.co.jp/inquiry/?route=globalnavi・1回目）
+  - 「転職成功事例・お客様の声」（https://www.geekly.co.jp/business/・1回目）
+  - 「なお、利用者は、ご希望に応じて各外部サービスごとに情報のリセット（以下「オプトアウト」）を行うことができます」（https://www.geekly.co.jp/inquiry/corporate/・1回目）
+  - 「転職成功事例・お客様の声」（https://www.geekly.co.jp/business/case/・1回目）
+  - 「転職成功事例・お客様の声」（https://www.geekly.co.jp/inquiry/・1回目）
+- 何を：
+  - 「転職支援サービスについて」（https://www.geekly.co.jp/・1回目）
+  - 「作成代行サービス・添削サポート」（https://www.geekly.co.jp/・1回目）
+  - 「業務系SE・PG（自社製品）」（https://www.geekly.co.jp/・1回目）
+  - 「サーバーエンジニア（自社製品）」（https://www.geekly.co.jp/・1回目）
+  - 「プログラマ・Webサービス系エンジニア」（https://www.geekly.co.jp/・1回目）
+  - 「Web系SE・PG（自社製品）」（https://www.geekly.co.jp/・1回目）
+  - 「Webデザイナー（自社サービス）」（https://www.geekly.co.jp/・1回目）
+  - 「Webディレクター・プロデューサー（自社サービス）」（https://www.geekly.co.jp/・1回目）
+  - 「営業（メディア・EC・その他IT・Webサービス）」（https://www.geekly.co.jp/・1回目）
+  - 「マーケティング・商品企画」（https://www.geekly.co.jp/・1回目）
+  - 「Webサービス・Webメディア（EC・ポータル・ソーシャル）」（https://www.geekly.co.jp/・1回目）
+  - 「動画配信サービス」（https://www.geekly.co.jp/・1回目）
+- どうやって売るか：
+  - 「キャリアアドバイザー紹介」（https://www.geekly.co.jp/・1回目）
+  - 「営業（広告代理店・Web制作）」（https://www.geekly.co.jp/・1回目）
+  - 「Webマーケティング（広告代理店・コンサルティング・制作）」（https://www.geekly.co.jp/・1回目）
+  - 「パートナーセールス・アライアンス営業・代理店営業」（https://www.geekly.co.jp/・1回目）
+  - 「広告代理店出身の方歓迎」（https://www.geekly.co.jp/・1回目）
+  - 「無料で求人を紹介してもらう」（https://www.geekly.co.jp/・1回目）
+  - 「をご紹介します」（https://www.geekly.co.jp/・1回目）
+  - 「求人を紹介してもらいたい」（https://www.geekly.co.jp/・1回目）
+  - 「求人をご紹介」（https://www.geekly.co.jp/・1回目）
+  - 「ご希望に沿った求人をご紹介」（https://www.geekly.co.jp/・1回目）
+  - 「ギークリーでは、あなた専任のキャリアアドバイザーが、求人紹介、選考対策、企業との各種調整などを一貫して徹底サポートさせていただくため、」（https://www.geekly.co.jp/・1回目）
+  - 「求職者様のご希望を的確に汲んだ求人のご紹介いたします」（https://www.geekly.co.jp/・1回目）
+- お金の形：
+  - 「ネットワーク保守運用・監視」（https://www.geekly.co.jp/・1回目）
+  - 「保守・運用・監視」（https://www.geekly.co.jp/・1回目）
+  - 「完全成功報酬型で、」（https://www.geekly.co.jp/business/?route=globalnavi・1回目）
+  - 「手数料を一部返金※」（https://www.geekly.co.jp/business/?route=globalnavi・1回目）
+  - 「届出制手数料に係る」（https://www.geekly.co.jp/business/?route=globalnavi・1回目）
+  - 「手数料表（上限額）を見る」（https://www.geekly.co.jp/business/?route=globalnavi・1回目）
+  - 「ネットワーク保守運用・監視」（https://www.geekly.co.jp/inquiry/?route=globalnavi・1回目）
+  - 「保守・運用・監視」（https://www.geekly.co.jp/inquiry/?route=globalnavi・1回目）
+  - 「完全成功報酬型で、」（https://www.geekly.co.jp/business/・1回目）
+  - 「手数料を一部返金※」（https://www.geekly.co.jp/business/・1回目）
+  - 「届出制手数料に係る」（https://www.geekly.co.jp/business/・1回目）
+  - 「手数料表（上限額）を見る」（https://www.geekly.co.jp/business/・1回目）
+- 売上構成：
+  - 「セグメント情報」（https://kitaishihon.com/company/505A/business・3回目）
+  - 「※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります」（https://kitaishihon.com/company/505A/business・3回目）
+  - 「※セグメントの売上や利益は、企業毎にその定義が異なる場合があります」（https://kitaishihon.com/company/505A/business・3回目）
+  - 「（単一セグメント）」（https://kitaishihon.com/company/505A/business・3回目）
+  - 「単一セグメントの企業の場合は、連結（あるいは単体）の売上と営業利益を反映しています」（https://kitaishihon.com/company/505A/business・3回目）
+  - 「セグメント名」（https://kitaishihon.com/company/505A/business・3回目）
+  - 「売上構成比率」（https://kitaishihon.com/company/505A/business・3回目）
+  - 「利益構成比率」（https://kitaishihon.com/company/505A/business・3回目）
+  - 「当社は、職業安定法に基づく有料職業紹介事業の許可を受け、求人企業と求職者の間に立ち、最適な人材と最適な職場を結び付ける人材紹介サービスを単一セグメントにて展開しております」（https://kitaishihon.com/company/505A/business・3回目）
+  - 「結果として2026年５月期の売上上位10社の構成比は合計でも11.1％にとどまっており、安定的かつ継続性の高い収益基盤が形成されると考えております」（https://kitaishihon.com/company/505A/business・3回目）
+  - 「なお、当社は人材紹介事業の単一セグメントであるため、セグメントごとの記載はしておりません」（https://kitaishihon.com/company/505A/business・3回目）
+  - 「なお、当社は人材紹介事業の単一セグメント及び単一サービスであるため、人材紹介事業について記載しております」（https://kitaishihon.com/company/505A/business・3回目）
+- 利益の源泉：
+  - 「UI・UX・CXに強み」（https://www.geekly.co.jp/・1回目）
+  - 「クリエイティブに強み」（https://www.geekly.co.jp/・1回目）
+  - 「細分化されたIT職種ならではのお悩みを理解し、企業ごとの特徴や違いも語れる専門性の高さが強み」（https://www.geekly.co.jp/・1回目）
+  - 「他の総合型エージェントにはない専門性の高さが強み」（https://www.geekly.co.jp/・1回目）
+  - 「スキル感を強みに変えることで、」（https://www.geekly.co.jp/・1回目）
+  - 「ギークリーでは業界・職種ごとにアドバイザーをグルーピングしているため、圧倒的な専門性の高さと情報量を強みとしています」（https://www.geekly.co.jp/business/?route=globalnavi・1回目）
+  - 「60に及ぶポジションの採用を3名で担当することとなった人事が語る、ギークリーのIT人材における強み、人材DBの魅力とは」（https://www.geekly.co.jp/business/?route=globalnavi・1回目）
+  - 「UI・UX・CXに強み」（https://www.geekly.co.jp/inquiry/?route=globalnavi・1回目）
+  - 「クリエイティブに強み」（https://www.geekly.co.jp/inquiry/?route=globalnavi・1回目）
+  - 「ギークリーでは業界・職種ごとにアドバイザーをグルーピングしているため、圧倒的な専門性の高さと情報量を強みとしています」（https://www.geekly.co.jp/business/・1回目）
+  - 「60に及ぶポジションの採用を3名で担当することとなった人事が語る、ギークリーのIT人材における強み、人材DBの魅力とは」（https://www.geekly.co.jp/business/・1回目）
+  - 「UI・UX・CXに強み」（https://www.geekly.co.jp/inquiry/・1回目）
+- 沿革：
+  - 「1992年に第一号店がオープンして以来、これまで木目やベージュ、グレーといった色合いが中心だった家具のデザインに「鮮やかな色」を取り入れるなど、既成概念にとらわれないブランドとして、新しい価値観や豊かな暮らし方の提案を大切にしています」（https://www.geekly.co.jp/business/case/francfranc/・1回目）
+  - 「2020年4月にJapanTaxi株式会社と株式会社ディー・エヌ・エーのMOV/DRIVE CHART事業などが統合し、現在のGO株式会社（旧：株式会社Mobility Technologies）となりました」（https://www.geekly.co.jp/business/case/mobility-technologies/・1回目）
+  - 「2020年以降は人事担当者も採用し、人材紹介会社経由での採用もより強化していけるように体制を整えてきました」（https://www.geekly.co.jp/business/case/voicy/・1回目）
+  - 「2022年1月にGeeklyReview（」（https://www.wantedly.com/companies/company_9375283/post_articles/392565・3回目）
+  - 「2023 年に始めたエンジニア向け資格取得補助制度（AWS・ScrumAlliance 等）は、合格者を即座にハイクラス転職へ送り出す仕組み」（https://solid-ventures.media/venture/geekly/・3回目）
+  - 「2026年5月時点」（https://corp.geekly.co.jp/・3回目）
+  - 「2024年3月時点」（https://corp.geekly.co.jp/・3回目）
+  - 「2026年5月期有価証券報告書より」（https://kitaishihon.com/company/505A/business・3回目）
+  - 「2011年に株式会社ギークリーを創業し、代表取締役社長に就任」（https://service.jinjibu.jp/article/detl/innovator/4201/・3回目）
+  - 「2000年頃の「ドットコムバブル」で新興ベンチャーが次々と台頭する時代でした」（https://service.jinjibu.jp/article/detl/innovator/4201/・3回目）
+  - 「2026年には東証スタンダード市場への上場も果たされましたね」（https://service.jinjibu.jp/article/detl/innovator/4201/・3回目）
+  - 「2020年のコロナ禍です」（https://service.jinjibu.jp/article/detl/innovator/4201/・3回目）
+- 検索結果の抜粋：
+  - 「ギークリー って何やってる会社なの？弊社の事業戦略と今後の ... — ギークリー って何やってる会社なの？弊社の事業戦略と今後の ... Wantedly https://www.wantedly.com > ... > ストーリー」（https://www.wantedly.com/companies/company_9375283/post_articles/392565・3回目）
+  - 「「ソリッドベンチャーとしての株式会社Geekly（ ギークリー ... — 「ソリッドベンチャーとしての株式会社Geekly（ ギークリー ... ソリッドベンチャーズ https://solid-ventures.media > venture > geekly」（https://solid-ventures.media/venture/geekly/・3回目）
+  - 「株式会社 ギークリー : コーポレートサイト — 株式会社 ギークリー : コーポレートサイト 株式会社ギークリー https://corp.geekly.co.jp」（https://corp.geekly.co.jp/・3回目）
+  - 「GEEKLY（ ギークリー ）の強み・企業の魅力 - ワンキャリア — GEEKLY（ ギークリー ）の強み・企業の魅力 - ワンキャリア ワンキャリア https://www.onecareer.jp > companies > appeal」（https://www.onecareer.jp/companies/6784/appeal・3回目）
+  - 「決算説明資料 - 株式会社ギークリー — 決算説明資料 - 株式会社ギークリー 株式会社ギークリー https://corp.geekly.co.jp > library > presentation」（https://corp.geekly.co.jp/ir/library/presentation/・3回目）
+  - 「IR情報トップ - 株式会社ギークリー — IR情報トップ - 株式会社ギークリー 株式会社ギークリー https://corp.geekly.co.jp > ...」（https://corp.geekly.co.jp/ir/・3回目）
+  - 「ギークリー 、IT・Web・ゲーム業界特化の人材紹介事業が好調 ... — ギークリー 、IT・Web・ゲーム業界特化の人材紹介事業が好調 ... ログミーFinance https://finance.logmi.jp > articles」（https://finance.logmi.jp/articles/385340・3回目）
+  - 「株式会社 ギークリー IR 資料 - EDINET DB — 株式会社 ギークリー IR 資料 - EDINET DB EDINET DB https://edinetdb.jp > 株式会社ギークリー」（https://edinetdb.jp/company/E41309/ir-docs/・3回目）
+  - 「ギークリー [505A]：2027年5月期 第1四半期 決算 短信〔日本 ... — ギークリー [505A]：2027年5月期 第1四半期 決算 短信〔日本 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr」（https://www.nikkei.com/nkd/disclosure/tdnr/20261009549025/・3回目）
+  - 「ギークリー 【505A】の 事業 内容 - キタイシホン — ギークリー 【505A】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/505A/business・3回目）
+  - 「企業詳細: 株式会社 ギークリー - SEEKER VISION — 企業詳細: 株式会社 ギークリー - SEEKER VISION SEEKER VISION https://seeker-vision.com > 企業一覧」（https://seeker-vision.com/companies/775・3回目）
+  - 「Geekly 505A - ギークリー - Shared Research — Geekly 505A - ギークリー - Shared Research Shared Research https://sharedresearch.jp > companies」（https://sharedresearch.jp/ja/companies/505A・3回目）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部8頁・検索5回）
+
 ## クオンツ総研ホールディングス
 - 公式URL：https://quants-souken.co.jp/（search:yahoo_jp:クオンツ総研ホールディングス）
 - 設立：2018年10月(M&A総合研究所として)（https://note.com/lithe_poppy8924/n/n7da288f32551・3回目）
@@ -6585,6 +10267,136 @@
   - 「佐上 峻作 株式会社 クオンツ総研ホールディングス — 佐上 峻作 株式会社 クオンツ総研ホールディングス 週刊エコノミスト https://www.weekly-economist.com > shunsaku_sagami」（https://www.weekly-economist.com/recaward2026/shunsaku_sagami/・3回目）
 - 事業内容：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部4頁・検索5回）
 
+## ククレブ・アドバイザーズ
+- 公式URL：https://ccreb.jp/（search:yahoo_jp:ククレブ・アドバイザーズ）
+- 設立：2019年7月4日（https://ccreb.jp/company/summary/・1回目）
+- 設立：2019年7月4日（https://ccreb.jp/company/summary/?id=history・1回目）
+- 設立：2019年7月です。（https://ccreb.jp/ir/faq/・1回目）
+- 従業員数：21名　※2026年8月31日時点。出向者3名を含みます。（https://ccreb.jp/company/summary/・1回目）
+- 従業員数：21名　※2026年8月31日時点。出向者3名を含みます。（https://ccreb.jp/company/summary/?id=history・1回目）
+- 従業員数：20名（2023年9月現在・外部委託を含む）​（https://donzoko-ceo.com/ccreb/・3回目）
+- 事業内容：CREソリューションビジネス 不動産テックビジネス（https://ccreb.jp/company/summary/・1回目）
+- 事業内容：CREソリューションビジネス 不動産テックビジネス（https://ccreb.jp/company/summary/?id=history・1回目）
+- 事業内容：詳細は弊社HPの「 事業紹介 」をご覧ください。（https://ccreb.jp/ir/faq/・1回目）
+- 売上高：1,269,627 2,555,046 1,285,419 101.2％（https://kitaishihon.com/company/276A/business・3回目）
+- ビジネスモデル：
+  - 「」という新しい企業タグラインのもと、不動産テックとCREソリューションを融合させた独自のビジネスモデルを進化させながら、CREプラットフォーマーとしての地位確立を目指してまいります」（https://ccreb.jp/ir/ceo_message/・1回目）
+  - 「成長戦略とビジネスモデルについて」（https://ccreb.jp/ir/investors/・1回目）
+  - 「投資家の皆様から多くお問い合わせをいただいていたことを踏まえ、収益構造の透明性」（https://ccreb.jp/mng/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E9%80%9A%E6%9C%9F_%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf・2回目）
+  - 「ビジネスモデル」（https://ccreb.jp/mng/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E9%80%9A%E6%9C%9F_%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf・2回目）
+  - 「2027年８月期以降、収益構造の透明性をさらに高めていくことを目的として、既存の「CREソリューションビジネ」（https://ccreb.jp/mng/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F_%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1.pdf・2回目）
+  - 「ス」と「不動産テックビジネス」の区分を、「ストック収入」と「フロー収入」に収益構造を分解し、開示してい」（https://ccreb.jp/mng/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F_%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1.pdf・2回目）
+  - 「投資家の皆様から多くお問い合わせをいただいていたことを踏まえ、収益構造の透明性」（https://ccreb.jp/mng/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E9%80%9A%E6%9C%9F_%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88%E4%BB%98.pdf・2回目）
+  - 「しかし、もともと当社のビジネスモデルとしては、不動産テックを活⽤して「CREソリューション」を展開すると」（https://ccreb.jp/mng/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E9%80%9A%E6%9C%9F_%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88%E4%BB%98.pdf・2回目）
+  - 「当社のビジネスモデルを継続的に機関投資家のみなさまに追っていただいていると理解して」（https://ccreb.jp/mng/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E9%80%9A%E6%9C%9F_%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88%E4%BB%98.pdf・2回目）
+  - 「ビジネスモデル」（https://ccreb.jp/mng/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E9%80%9A%E6%9C%9F_%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88%E4%BB%98.pdf・2回目）
+  - 「しかし、もともと当社のビジネスモデルとしては、不動産テックを活用して「CREソリューション」を展開するという構造となっており、単一のセグメントと位置づけています」（https://finance.logmi.jp/articles/386025・3回目）
+  - 「当社のビジネスモデルを継続的に機関投資家のみなさまに追っていただいていると理解しています」（https://finance.logmi.jp/articles/386025・3回目）
+- 誰に：
+  - 「導入企業のCRE営業に関する業務効率向上、」（https://ccreb.jp/・1回目）
+  - 「導入企業のCRE営業に関する業務効率向上、」（https://ccreb.jp/business-model/・1回目）
+  - 「事業計画～設計施工者選定～竣工まで、業務領域はお客様のご要望によりオーダーメイドで柔軟に対応します」（https://ccreb.jp/business-model/cre-solution-biz/・1回目）
+  - 「導入企業のCRE営業に関する業務効率向上、」（https://ccreb.jp/business-model/prop-tech-biz/・1回目）
+  - 「各種開示資料等から利用者のニーズに沿ったデータを即時提供」（https://ccreb.jp/business-model/prop-tech-biz/・1回目）
+  - 「不動産テックビジネスでは、不動産テック関連企業とのM&A・資本提携を推進し、プロダクト間シナジーの創出やエンジニア確保を通じて技術基盤を強化、アライアンス先の販路活用によるユーザー拡大や、地銀向けサービスに強みを持つパートナーとの連携により、不動産テックビジネスの拡大を加速させるM&Aを目指します」（https://ccreb.jp/ir/management/・1回目）
+  - 「また、通信環境やお客様のコンピュータの状況、その他の理由により当ウェブサイトを正常に利用できない場合があります」（https://ccreb.jp/ir/disclaimer/・1回目）
+  - 「業理念のもと、独自の不動産テックと専門的な CRE ソリューションを組み合わせることで、顧客」（https://ccreb.jp/mng/wp-content/uploads/2026/09/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%98%A0%E5%83%8F%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%80%8CPIVOT%E3%80%8D%E3%81%AB%E3%81%A6CRE%E6%88%A6%E7%95%A5%E3%81%AE%E9%87%8D%E8%A6%81%E6%80%A7%E3%82%92%E7%99%BA%E4%BF%A1%EF%BD%9E%E3%80%8C%E3%81%AA%E3%81%9C%E4%B8%8D%E5%8B%95%E7%94%A3%E3%81%8C%E7%B5%8C%E5%96%B6%E6%88%A6%E7%95%A5%E3%82%92%E6%B1%BA%E3%82%81%E3%82%8B%E3%81%AE%E3%81%8B%E3%80%8D%E3%82%92%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AB%E5%AF%BE%E8%AB%87%E5%BD%A2%E5%BC%8F%E5%8B%95%E7%94%BB%E3%82%92%E9%85%8D%E4%BF%A1%E4%B8%AD-%EF%BD%9E.pdf・2回目）
+  - 「d 上場会社を主要な取引先とする者又はその業務執行者」（https://ccreb.jp/mng/wp-content/uploads/2025/11/%E3%82%B3%E3%83%BC%E3%83%9D%E3%83%AC%E3%83%BC%E3%83%88%E3%82%AC%E3%83%90%E3%83%8A%E3%83%B3%E3%82%B9%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf・2回目）
+  - 「e 上場会社の主要な取引先又はその業務執行者」（https://ccreb.jp/mng/wp-content/uploads/2025/11/%E3%82%B3%E3%83%BC%E3%83%9D%E3%83%AC%E3%83%BC%E3%83%88%E3%82%AC%E3%83%90%E3%83%8A%E3%83%B3%E3%82%B9%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf・2回目）
+  - 「h 上場会社の取引先（d、e及びｆのいずれにも該当しないもの）の業務執行者（本人のみ）」（https://ccreb.jp/mng/wp-content/uploads/2025/11/%E3%82%B3%E3%83%BC%E3%83%9D%E3%83%AC%E3%83%BC%E3%83%88%E3%82%AC%E3%83%90%E3%83%8A%E3%83%B3%E3%82%B9%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf・2回目）
+  - 「f 上場会社を主要な取引先とする者又はその業務執行者」（https://ccreb.jp/mng/wp-content/uploads/2025/11/%E3%82%B3%E3%83%BC%E3%83%9D%E3%83%AC%E3%83%BC%E3%83%88%E3%82%AC%E3%83%90%E3%83%8A%E3%83%B3%E3%82%B9%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf・2回目）
+- 何を：
+  - 「CREソリューションビジネス」（https://ccreb.jp/・1回目）
+  - 「ソリューション事例」（https://ccreb.jp/・1回目）
+  - 「IRメール配信サービス」（https://ccreb.jp/・1回目）
+  - 「不動産テック製品の提供により」（https://ccreb.jp/・1回目）
+  - 「PHPの脆弱性対応完了およびサービス機能の再開について」（https://ccreb.jp/・1回目）
+  - 「PHPの脆弱性対応に伴う一部サービス機能の利用制限について」（https://ccreb.jp/・1回目）
+  - 「“企業価値創造ソリューションカンパニー”として」（https://ccreb.jp/・1回目）
+  - 「企業価値創造ソリューションカンパニー」（https://ccreb.jp/・1回目）
+  - 「ソリューションを提供」（https://ccreb.jp/・1回目）
+  - 「CREに関するワンストップソリューションサービス」（https://ccreb.jp/・1回目）
+  - 「デジタルトランスフォーメーション（DX）に資する不動産テックシステム等の開発及びサブスクリプションサービス」（https://ccreb.jp/・1回目）
+  - 「金融商品取引法第37条に定める事項の表示」（https://ccreb.jp/・1回目）
+- どうやって売るか：
+  - 「組みをご紹介します」（https://ccreb.jp/・1回目）
+  - 「賃貸中の店舗の建物を買うという選択 ～建物売却と底地化における「取引成立価格」の考え方～」（https://ccreb.jp/・1回目）
+  - 「事業紹介 | ククレブ・アドバイザーズ株式会社」（https://ccreb.jp/business-model/・1回目）
+  - 「これまでは金額規模やエリアで検討を進めることができなかった企業不動産の流動化も、当社では、事業パートナーとタッグを組み、CRE戦略の幅を広げます」（https://ccreb.jp/business-model/cre-solution-biz/・1回目）
+  - 「各パートナーとの連携においては案件紹介にとどまらず、共同投資やブリッジ機能の活用、テック領域での協業、人材交流など、多面的な取り組みを展開しています」（https://ccreb.jp/ir/management/・1回目）
+  - 「不動産テックビジネスでは、不動産テック関連企業とのM&A・資本提携を推進し、プロダクト間シナジーの創出やエンジニア確保を通じて技術基盤を強化、アライアンス先の販路活用によるユーザー拡大や、地銀向けサービスに強みを持つパートナーとの連携により、不動産テックビジネスの拡大を加速させるM&Aを目指します」（https://ccreb.jp/ir/management/・1回目）
+  - 「株式会社フィールド・パートナーズ」（https://ccreb.jp/ir/shareholder/・1回目）
+  - 「Real Estate）を経営資源としてどのように活用すべきかについて紹介しています」（https://ccreb.jp/mng/wp-content/uploads/2026/09/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%98%A0%E5%83%8F%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%80%8CPIVOT%E3%80%8D%E3%81%AB%E3%81%A6CRE%E6%88%A6%E7%95%A5%E3%81%AE%E9%87%8D%E8%A6%81%E6%80%A7%E3%82%92%E7%99%BA%E4%BF%A1%EF%BD%9E%E3%80%8C%E3%81%AA%E3%81%9C%E4%B8%8D%E5%8B%95%E7%94%A3%E3%81%8C%E7%B5%8C%E5%96%B6%E6%88%A6%E7%95%A5%E3%82%92%E6%B1%BA%E3%82%81%E3%82%8B%E3%81%AE%E3%81%8B%E3%80%8D%E3%82%92%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AB%E5%AF%BE%E8%AB%87%E5%BD%A2%E5%BC%8F%E5%8B%95%E7%94%BB%E3%82%92%E9%85%8D%E4%BF%A1%E4%B8%AD-%EF%BD%9E.pdf・2回目）
+  - 「株式会社フィールド・パートナーズ 404,091 9.45」（https://ccreb.jp/mng/wp-content/uploads/2025/11/%E3%82%B3%E3%83%BC%E3%83%9D%E3%83%AC%E3%83%BC%E3%83%88%E3%82%AC%E3%83%90%E3%83%8A%E3%83%B3%E3%82%B9%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf・2回目）
+  - 「指名委員会又は報酬委員会に相当する」（https://ccreb.jp/mng/wp-content/uploads/2025/11/%E3%82%B3%E3%83%BC%E3%83%9D%E3%83%AC%E3%83%BC%E3%83%88%E3%82%AC%E3%83%90%E3%83%8A%E3%83%B3%E3%82%B9%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf・2回目）
+  - 「指名委員会に相当」（https://ccreb.jp/mng/wp-content/uploads/2025/11/%E3%82%B3%E3%83%BC%E3%83%9D%E3%83%AC%E3%83%BC%E3%83%88%E3%82%AC%E3%83%90%E3%83%8A%E3%83%B3%E3%82%B9%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf・2回目）
+  - 「２．業務執行、監査・監督、指名、報酬決定等の機能に係る事項（現状のコーポレート・ガバナンス体制の概要）」（https://ccreb.jp/mng/wp-content/uploads/2025/11/%E3%82%B3%E3%83%BC%E3%83%9D%E3%83%AC%E3%83%BC%E3%83%88%E3%82%AC%E3%83%90%E3%83%8A%E3%83%B3%E3%82%B9%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf・2回目）
+- お金の形：
+  - 「デジタルトランスフォーメーション（DX）に資する不動産テックシステム等の開発及びサブスクリプションサービス」（https://ccreb.jp/・1回目）
+  - 「自らの事業をDX化するとともに、製品化したシステムのサブスクリプションサービスを提供します」（https://ccreb.jp/business-model/・1回目）
+  - 「デジタルトランスフォーメーション（DX）化に資する不動産テックシステム等の開発及びサブスクリプションサービス」（https://ccreb.jp/business-model/・1回目）
+  - 「サブスクリプションサービス」（https://ccreb.jp/business-model/prop-tech-biz/・1回目）
+  - 「サブスクリプション」（https://ccreb.jp/business-model/prop-tech-biz/・1回目）
+  - 「各種デバイス、サービスの導入支援、運用・保守、回収」（https://ccreb.jp/mng/wp-content/uploads/2026/10/%E8%B2%A9%E5%A3%B2%E7%94%A8%E4%B8%8D%E5%8B%95%E7%94%A3%E3%81%AE%E5%8F%96%E5%BE%97%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.pdf・2回目）
+  - 「ストックオプション制度の導入、その他」（https://ccreb.jp/mng/wp-content/uploads/2025/11/%E3%82%B3%E3%83%BC%E3%83%9D%E3%83%AC%E3%83%BC%E3%83%88%E3%82%AC%E3%83%90%E3%83%8A%E3%83%B3%E3%82%B9%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf・2回目）
+  - 「当社業績に対する貢献意欲や士気を一層高めるとともに、企業価値の向上と経営体質のさらなる強化を図ることを目的とし、ストックオプション制」（https://ccreb.jp/mng/wp-content/uploads/2025/11/%E3%82%B3%E3%83%BC%E3%83%9D%E3%83%AC%E3%83%BC%E3%83%88%E3%82%AC%E3%83%90%E3%83%8A%E3%83%B3%E3%82%B9%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf・2回目）
+  - 「ストックオプションの付与対象者 社内取締役、社外監査役、従業員、その他」（https://ccreb.jp/mng/wp-content/uploads/2025/11/%E3%82%B3%E3%83%BC%E3%83%9D%E3%83%AC%E3%83%BC%E3%83%88%E3%82%AC%E3%83%90%E3%83%8A%E3%83%B3%E3%82%B9%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf・2回目）
+  - 「ストック収入 585 696 +110 +18.8%」（https://ccreb.jp/mng/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E9%80%9A%E6%9C%9F_%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf・2回目）
+  - 「向上を目的に開示方法をフロー収入/ストック収入に変更します」（https://ccreb.jp/mng/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E9%80%9A%E6%9C%9F_%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf・2回目）
+  - 「の収益安定性を示す観点から、不動産テックのサブスク収入に加え、固定コンサルティ」（https://ccreb.jp/mng/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E9%80%9A%E6%9C%9F_%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf・2回目）
+- 売上構成：
+  - 「という単一セグメントの事業ですが、事業拡大に伴いフロー収益が拡大する一方、今後」（https://ccreb.jp/mng/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E9%80%9A%E6%9C%9F_%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf・2回目）
+  - 「株主構成比 (自己株式除く)」（https://ccreb.jp/mng/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E9%80%9A%E6%9C%9F_%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf・2回目）
+  - 「（セグメント情報等） ………………………………………………………………………………11」（https://ccreb.jp/mng/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F_%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1.pdf・2回目）
+  - 「(セグメント情報等)」（https://ccreb.jp/mng/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F_%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1.pdf・2回目）
+  - 「【セグメント情報】」（https://ccreb.jp/mng/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F_%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1.pdf・2回目）
+  - 「当社グループは、ＣＲＥソリューション事業の単一セグメントであるため、記載を省略しております」（https://ccreb.jp/mng/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F_%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1.pdf・2回目）
+  - 「という単⼀セグメントの事業ですが、事業拡⼤に伴いフロー収益が拡⼤する⼀⽅、今後」（https://ccreb.jp/mng/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E9%80%9A%E6%9C%9F_%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88%E4%BB%98.pdf・2回目）
+  - 「いう構造となっており、単⼀のセグメントと位置づけています」（https://ccreb.jp/mng/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E9%80%9A%E6%9C%9F_%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88%E4%BB%98.pdf・2回目）
+  - 「しかし、もともと当社のビジネスモデルとしては、不動産テックを活用して「CREソリューション」を展開するという構造となっており、単一のセグメントと位置づけています」（https://finance.logmi.jp/articles/386025・3回目）
+  - 「セグメント情報」（https://kitaishihon.com/company/276A/business・3回目）
+  - 「※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります」（https://kitaishihon.com/company/276A/business・3回目）
+  - 「※セグメントの売上や利益は、企業毎にその定義が異なる場合があります」（https://kitaishihon.com/company/276A/business・3回目）
+- 利益の源泉：
+  - 「非効率であることから取り組めるプレーヤーが限定的で参入障壁が高い」（https://ccreb.jp/business-model/cre-solution-biz/・1回目）
+  - 「参入障壁が高い分野において」（https://ccreb.jp/business-model/cre-solution-biz/・1回目）
+  - 「事業・エリアに強みを持つ事業会社/金融機関との戦略的なアライアンスを加速」（https://ccreb.jp/ir/management/・1回目）
+  - 「事業領域および重点エリアに強みを持つ事業会社・金融機関との戦略的アライアンスを推進していきます」（https://ccreb.jp/ir/management/・1回目）
+  - 「不動産テックビジネスでは、不動産テック関連企業とのM&A・資本提携を推進し、プロダクト間シナジーの創出やエンジニア確保を通じて技術基盤を強化、アライアンス先の販路活用によるユーザー拡大や、地銀向けサービスに強みを持つパートナーとの連携により、不動産テックビジネスの拡大を加速させるM&Aを目指します」（https://ccreb.jp/ir/management/・1回目）
+  - 「CRE需要の拡大と当社の競争優位性」（https://ccreb.jp/mng/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E9%80%9A%E6%9C%9F_%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf・2回目）
+  - 「高い参入障壁を有するCRE市場において、当社は独自のポジションを確立」（https://ccreb.jp/mng/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E9%80%9A%E6%9C%9F_%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf・2回目）
+  - 「 高い参入障壁」（https://ccreb.jp/mng/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E9%80%9A%E6%9C%9F_%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf・2回目）
+  - 「 粗利率 平均20%程度」（https://ccreb.jp/mng/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E9%80%9A%E6%9C%9F_%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf・2回目）
+  - 「(サービス毎に粗利率は異なる)」（https://ccreb.jp/mng/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E9%80%9A%E6%9C%9F_%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf・2回目）
+  - 「営業利益率 24.0% 16.3% -7.7pt 15.7% +0.6pt」（https://ccreb.jp/mng/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E9%80%9A%E6%9C%9F_%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf・2回目）
+  - 「営業利益率 16.3% 6.1% 16.7% 48.3% 18.5% 20.0% +3.7pt」（https://ccreb.jp/mng/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E9%80%9A%E6%9C%9F_%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf・2回目）
+- 沿革：
+  - 「2026年9月不動産売買動向速報」（https://ccreb.jp/・1回目）
+  - 「2019年7月4日」（https://ccreb.jp/company/summary/・1回目）
+  - 「2020年9月に当社入社」（https://ccreb.jp/company/summary/・1回目）
+  - 「2021年10月に取締役就任」（https://ccreb.jp/company/summary/・1回目）
+  - 「2007年より不動産ファンド運用会社・大手J-REITの運用会社において、不動産ファンドのエグゼキューションを始め、法務・コンプライアンス、エクイティ調達を含む財務やIRなどの業務全般に従事」（https://ccreb.jp/company/summary/・1回目）
+  - 「2022年3月に当社入社」（https://ccreb.jp/company/summary/・1回目）
+  - 「2023年11月に取締役就任」（https://ccreb.jp/company/summary/・1回目）
+  - 「2023年9月当社社外取締役に就任」（https://ccreb.jp/company/summary/・1回目）
+  - 「2019年当社設立前は、大手リース会社、デベロッパー、REIT運用会社にて一貫して法人営業とアクイジション業務を経験」（https://ccreb.jp/company/summary/・1回目）
+  - 「2019年7月4日」（https://ccreb.jp/company/summary/?id=history・1回目）
+  - 「2020年9月に当社入社」（https://ccreb.jp/company/summary/?id=history・1回目）
+  - 「2021年10月に取締役就任」（https://ccreb.jp/company/summary/?id=history・1回目）
+- 検索結果の抜粋：
+  - 「事業紹介 | ククレブ ・ アドバイザーズ 株式会社 — 事業紹介 | ククレブ ・ アドバイザーズ 株式会社 ククレブ・アドバイザーズ株式会社 https://ccreb.jp > business-model」（https://ccreb.jp/business-model/・3回目）
+  - 「ククレブ ・ アドバイザーズ 、企業不動産の売却・有効活用支援 ... — ククレブ ・ アドバイザーズ 、企業不動産の売却・有効活用支援 ... ログミーFinance https://finance.logmi.jp > articles」（https://finance.logmi.jp/articles/386025・3回目）
+  - 「ククレブ ・ アドバイザーズ 【276A】の事業内容 - キタイシホン — ククレブ ・ アドバイザーズ 【276A】の事業内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/276A/business・3回目）
+  - 「276A ククレブ ・ アドバイザーズ アナリストレポート｜小野和彦 — 276A ククレブ ・ アドバイザーズ アナリストレポート｜小野和彦 note https://note.com > ビジネス > ビジネス全般」（https://note.com/oh_no/n/n60d262b7645e・3回目）
+  - 「ククレブ ・ アドバイザーズ ［276A］ IPO - YouTube — ククレブ ・ アドバイザーズ ［276A］ IPO - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=14suURCdYNc・3回目）
+  - 「決算説明資料 | ククレブ ・ アドバイザーズ 株式会社 — 決算説明資料 | ククレブ ・ アドバイザーズ 株式会社 ククレブ・アドバイザーズ株式会社 https://ccreb.jp > IR情報 > IRライブラリー」（https://ccreb.jp/ir/library/presentation/・3回目）
+  - 「IR情報 | ククレブ ・ アドバイザーズ 株式会社 — IR情報 | ククレブ ・ アドバイザーズ 株式会社 ククレブ・アドバイザーズ株式会社 https://ccreb.jp > ...」（https://ccreb.jp/ir/・3回目）
+  - 「【 ククレブ ・ アドバイザーズ 】[276A]IR情報 ... - 日本経済新聞 — 【 ククレブ ・ アドバイザーズ 】[276A]IR情報 ... - 日本経済新聞 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo」（https://www.nikkei.com/nkd/company/kigyo/?scode=276A・3回目）
+  - 「276A 東証グロース 決算 ： ククレブ ・ アドバイザーズ - 株式市況 — 276A 東証グロース 決算 ： ククレブ ・ アドバイザーズ - 株式市況 松井証券 https://finance.matsui.co.jp > stock > settlement」（https://finance.matsui.co.jp/stock/276A/settlement/index・3回目）
+  - 「企業情報 | ククレブ ・ アドバイザーズ 株式会社 — 企業情報 | ククレブ ・ アドバイザーズ 株式会社 ククレブ・アドバイザーズ株式会社 https://ccreb.jp > company」（https://ccreb.jp/company/・3回目）
+  - 「ククレブ ・ アドバイザーズ 【276A】の 事業 内容 - キタイシホン — ククレブ ・ アドバイザーズ 【276A】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/276A/business・3回目）
+  - 「ククレブ ・ アドバイザーズ (株) - IR1on1 — ククレブ ・ アドバイザーズ (株) - IR1on1 IR1on1 https://www.ir1on1.com > ...」（https://www.ir1on1.com/276a/20250213・3回目）
+
 ## クレディセゾン
 - 公式URL：特定できず（not_found）
 - 設立：1951年（昭和26年）5月1日（https://corporate.saisoncard.co.jp/company/about_cs/・3回目）
@@ -6681,6 +10493,87 @@
   - 「会社概要 | クレディセゾン 企業・IR情報 — 会社概要 | クレディセゾン 企業・IR情報 セゾンカード https://corporate.saisoncard.co.jp > company > about_cs」（https://corporate.saisoncard.co.jp/company/about_cs/・3回目）
 - 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）
 
+## グリムス
+- 公式URL：https://www.omochabako-webstore.jp/（search:yahoo_jp:グリムス）
+- 設立：2005年7月4日（https://www.grems.co.jp/about/profile・3回目）
+- 従業員数：367名（2026年3月31日現在）（https://www.grems.co.jp/about/profile・3回目）
+- 事業内容：エネルギーに関するコンサルティング、商品・サービスの販売（https://www.grems.co.jp/about/profile・3回目）
+- ビジネスモデル：
+  - 「電気代が高いという状況そのものが営業のきっかけになり、一度つかんだ顧客に複数の商材を売れる「クロスセルの仕組み」と、大型の発電所を自前で抱え込まない「身軽な収益構造」が、この会社の競争優位の核にある」（https://note.com/tatsuya_sabato/n/n5960e1dd8a7f・3回目）
+  - 「ビジネスモデルの詳細分析 どこで、どう儲けているのか」（https://note.com/tatsuya_sabato/n/n5960e1dd8a7f・3回目）
+  - 「ビジネスモデル分析」（https://note.com/tatsuya_sabato/n/n5960e1dd8a7f・3回目）
+  - 「このマガジンでは、上場・未上場企業を問わず、財務分析からビジネスモデル、成長可能性、リスク要因まで、徹底したデューデリジェンス（DD）の視点で解説します」（https://note.com/tatsuya_sabato/n/n5960e1dd8a7f・3回目）
+- 誰に：
+  - 「※税込8,800円以上お買い上げのお客様は、送料・代引き手数料が無料です」（https://www.omochabako-webstore.jp/hpgen/HPB/shop/business.html・1回目）
+  - 「お客様のご都合による返品/交換はお受けできませんので、何卒ご了承ください」（https://www.omochabako-webstore.jp/hpgen/HPB/shop/business.html・1回目）
+  - 「※お客様のご都合による返品/交換はお受けできませんので、何卒ご了承ください」（https://www.omochabako-webstore.jp/hpgen/HPB/shop/business.html・1回目）
+  - 「町工場や中小企業のもとへ足を運び、契約の見直しや電子ブレーカー（基本料金を下げるための機器）の導入で電気代を削り、そこから自家消費用の太陽光発電、蓄電池、さらには電気そのものの小売へと、同じ顧客に次々と提案を重ねていく」（https://note.com/tatsuya_sabato/n/n5960e1dd8a7f・3回目）
+  - 「会社の公式資料や決算説明資料を読むと、この「一人の顧客に長く付き合い、商材を載せ替えていく」という発想が、創業以来ずっと事業の背骨になっていることが見えてくる」（https://note.com/tatsuya_sabato/n/n5960e1dd8a7f・3回目）
+  - 「電気代が高いという状況そのものが営業のきっかけになり、一度つかんだ顧客に複数の商材を売れる「クロスセルの仕組み」と、大型の発電所を自前で抱え込まない「身軽な収益構造」が、この会社の競争優位の核にある」（https://note.com/tatsuya_sabato/n/n5960e1dd8a7f・3回目）
+  - 「電気代を下げる相談から始まり、最終的には電気そのものを売るところまで、顧客との接点を縦に深く取りにいくのが特徴と言える」（https://note.com/tatsuya_sabato/n/n5960e1dd8a7f・3回目）
+  - 「当時、「自由化までに顧客を増やしておいて一気に波に乗る」という話を初めて聞いて、すごい先見性だなと感じました」（https://recruit.grems.co.jp/crosstalk/crosstalk1.html・3回目）
+  - 「実際、2016年に自由化と同時に新電力事業やって、既存のお客様に一気にご加入していただきましたね」（https://recruit.grems.co.jp/crosstalk/crosstalk1.html・3回目）
+  - 「「電力の全面自由化までに顧客を増やしておき、一気に波に乗る」という話を初めて聞き、田中社長の先見性とカリスマ性を感じたことを覚えています」（https://shachomeikan.jp/article/4519・3回目）
+  - 「お客様にとって真の価値を提供する」（https://shachomeikan.jp/article/4519・3回目）
+  - 「当社は、主に中小企業のお客様が抱える電力コストの課題を抽出し、効果の高い解決策をコンサルティングしています」（https://shachomeikan.jp/article/4519・3回目）
+- 何を：
+  - 「omochabako - 秋冬新商品 -」（https://www.omochabako-webstore.jp/・1回目）
+  - 「商品は在庫限りとさせていただきます」（https://www.omochabako-webstore.jp/hpgen/HPB/shop/business.html・1回目）
+  - 「ご注文いただきました商品が在庫切れの場合は、メール（またはメールのご登録がない場合はお電話）にてご連絡差し上げます」（https://www.omochabako-webstore.jp/hpgen/HPB/shop/business.html・1回目）
+  - 「商品代金以外の必要料金」（https://www.omochabako-webstore.jp/hpgen/HPB/shop/business.html・1回目）
+  - 「代金引換：商品到着時に、運送会社の方に代金をお支払いください」（https://www.omochabako-webstore.jp/hpgen/HPB/shop/business.html・1回目）
+  - 「クレジットカード決済:：商品注文時に課金対象となります」（https://www.omochabako-webstore.jp/hpgen/HPB/shop/business.html・1回目）
+  - 「amazon pay(アマゾンペイ)：決済:商品注文時に課金対象となります」（https://www.omochabako-webstore.jp/hpgen/HPB/shop/business.html・1回目）
+  - 「不良品、誤発送が生じた場合は、【商品到着後10日以内】にご連絡下さいますようお願い申し上げます」（https://www.omochabako-webstore.jp/hpgen/HPB/shop/business.html・1回目）
+  - 「不良品は商品を本社にて確認次第、代品出荷いたします」（https://www.omochabako-webstore.jp/hpgen/HPB/shop/business.html・1回目）
+  - 「※定期購入商品は、クレジットカード決済、代金引換のみのお支払いとなります」（https://www.omochabako-webstore.jp/hpgen/HPB/shop/business.html・1回目）
+  - 「omochabako - 秋冬新商品 -」（https://www.omochabako-webstore.jp/hpgen/HPB/shop/business.html・1回目）
+  - 「グリムスは、電気をめぐる困りごとを「診断し、提案し、設置し、供給する」ところまで一気通貫で引き受ける、エネルギーソリューションの会社だ」（https://note.com/tatsuya_sabato/n/n5960e1dd8a7f・3回目）
+- どうやって売るか：
+  - 「企業理念をご紹介いたします」（https://www.grems.co.jp/about・3回目）
+  - 「企業情報や組織図、関連会社をご紹介いたします」（https://www.grems.co.jp/about・3回目）
+  - 「グリムスの歴史をご紹介いたします」（https://www.grems.co.jp/about・3回目）
+  - 「会社紹介記事－中小企業の電力コスト削減と地球環境改善の両立に挑戦するエネルギーソリューションカンパニーの思い｜社長名鑑」（https://shachomeikan.jp/article/4519・3回目）
+  - 「今後も、日本経済の根幹を支える中小企業様の経営強化のパートナーとして、お客様が抱えるお悩みに対して最適な解決策をご提案することで、お客様満足度の向上と地球環境改善への貢献を図ってまいる所存です」（https://shachomeikan.jp/article/4519・3回目）
+- お金の形：
+  - 「【代引き手数料】330円」（https://www.omochabako-webstore.jp/hpgen/HPB/shop/business.html・1回目）
+  - 「※税込8,800円以上お買い上げのお客様は、送料・代引き手数料が無料です」（https://www.omochabako-webstore.jp/hpgen/HPB/shop/business.html・1回目）
+  - 「具体的な数字を覚えるのではなく、受注の質やストック化の進み具合など、注目すべき指標の方向性」（https://note.com/tatsuya_sabato/n/n5960e1dd8a7f・3回目）
+  - 「ストックビジネス」（https://note.com/tatsuya_sabato/n/n5960e1dd8a7f・3回目）
+  - 「公開3プランは月額500円・1,000円・3,000円」（https://note.com/tatsuya_sabato/n/n5960e1dd8a7f・3回目）
+- 売上構成：
+  - 「セグメント情報」（https://www.grems.co.jp/ir・3回目）
+- 利益の源泉：
+  - 「商品は在庫限りとさせていただきます」（https://www.omochabako-webstore.jp/hpgen/HPB/shop/business.html・1回目）
+  - 「ご注文いただきました商品が在庫切れの場合は、メール（またはメールのご登録がない場合はお電話）にてご連絡差し上げます」（https://www.omochabako-webstore.jp/hpgen/HPB/shop/business.html・1回目）
+  - 「電気代が高いという状況そのものが営業のきっかけになり、一度つかんだ顧客に複数の商材を売れる「クロスセルの仕組み」と、大型の発電所を自前で抱え込まない「身軽な収益構造」が、この会社の競争優位の核にある」（https://note.com/tatsuya_sabato/n/n5960e1dd8a7f・3回目）
+  - 「決算短信・有報・適時開示から日本企業の強み・成長余地・リスクを整理」（https://note.com/tatsuya_sabato/n/n5960e1dd8a7f・3回目）
+  - 「勉学にはそこまで力を入れてこなかった分、営業というフィールドなら自分の強みを活かせると考え、営業以外の道はあまり選択肢に入っていなかったのです」（https://shachomeikan.jp/article/4519・3回目）
+- 沿革：
+  - 「2026年6月30日 05:27」（https://note.com/tatsuya_sabato/n/n5960e1dd8a7f・3回目）
+  - 「2005年7月4日」（https://www.grems.co.jp/about/profile・3回目）
+  - 「2011年4月1日」（https://www.grems.co.jp/about/profile・3回目）
+  - 「2012年12月3日」（https://www.grems.co.jp/about/profile・3回目）
+  - 「2022年4月1日」（https://www.grems.co.jp/about/profile・3回目）
+  - 「2005年にグリムスを自身含め6名で設立」（https://recruit.grems.co.jp/crosstalk/crosstalk1.html・3回目）
+  - 「2009年入社」（https://recruit.grems.co.jp/crosstalk/crosstalk1.html・3回目）
+  - 「2008年新卒入社」（https://recruit.grems.co.jp/crosstalk/crosstalk1.html・3回目）
+  - 「2030年度にかけては、自家消費型の事業用太陽光発電システムの市場も大幅に拡大すると見込まれている中、当社は中小企業をターゲットとした低圧電力（200ボルト）市場で独自の成長を遂げてきました」（https://shachomeikan.jp/article/4519・3回目）
+- 検索結果の抜粋：
+  - 「グリムス Research Memo（6）：系統用蓄電池事業の ... - 株探 — グリムス Research Memo（6）：系統用蓄電池事業の ... - 株探 株探 https://kabutan.jp > 市場ニュース」（https://kabutan.jp/news/marketnews/?b=n202607270415・3回目）
+  - 「【QAあり】 グリムス 、売上高、営業利益ともに過去最高を ... — 【QAあり】 グリムス 、売上高、営業利益ともに過去最高を ... ログミーFinance https://finance.logmi.jp > articles」（https://finance.logmi.jp/articles/381930・3回目）
+  - 「グリムス (3150) の企業概要・業績・財務・IR資料 — グリムス (3150) の企業概要・業績・財務・IR資料 crex-data.com https://www.crex-data.com > 企業」（https://www.crex-data.com/company/3150・3回目）
+  - 「IRライブラリー - 株式会社グリムス GREMS,Inc. — IRライブラリー - 株式会社グリムス GREMS,Inc. grems.co.jp https://www.grems.co.jp > library」（https://www.grems.co.jp/ir/library・3回目）
+  - 「IR情報 ｜ 株式会社 グリムス GREMS,Inc. — IR情報 ｜ 株式会社 グリムス GREMS,Inc. grems.co.jp https://www.grems.co.jp > ...」（https://www.grems.co.jp/ir・3回目）
+  - 「【 グリムス 】[3150]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 グリムス 】[3150]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo」（https://www.nikkei.com/nkd/company/kigyo/?scode=3150・3回目）
+  - 「株式会社 グリムス - ログミーファイナンス - logmi Finance — 株式会社 グリムス - ログミーファイナンス - logmi Finance ログミーFinance https://finance.logmi.jp > companies」（https://finance.logmi.jp/companies/1918・3回目）
+  - 「グリムス （3150）のIR情報・ 決算資料 - IRBANK — グリムス （3150）のIR情報・ 決算資料 - IRBANK IRBANK https://irbank.net > グリムス」（https://irbank.net/3150/ir・3回目）
+  - 「企業情報 - 株式会社グリムス GREMS,Inc. — 企業情報 - 株式会社グリムス GREMS,Inc. grems.co.jp https://www.grems.co.jp > about > profile」（https://www.grems.co.jp/about/profile・3回目）
+  - 「会社概要 ｜ 株式会社 グリムス GREMS,Inc. — 会社概要 ｜ 株式会社 グリムス GREMS,Inc. grems.co.jp https://www.grems.co.jp > about」（https://www.grems.co.jp/about・3回目）
+  - 「株式会社 グリムス — 株式会社 グリムス allione.jp PDF https://www.allione.jp > uploads > 2025/11」（https://www.allione.jp/wp-content/uploads/2025/11/59c49e94d014b72d07caabc4fe8cdf37.pdf・3回目）
+  - 「グリムス 【3150】の 事業 内容 - キタイシホン — グリムス 【3150】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/3150/business・3回目）
+- 売上高：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部8頁・検索5回）
+
 ## グロービング
 - 公式URL：https://globe-ing.com/（search:yahoo_jp:グロービング）
 - 設立：2017年1月（https://globe-ing.com/ir/overview/・1回目）
@@ -6758,6 +10651,109 @@
 - 売上高：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部4頁・検索5回）
 - お金の形：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部4頁・検索5回）
 - 売上構成：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部4頁・検索5回）
+
+## コタ
+- 公式URL：https://www.cota.co.jp/（search:yahoo_jp:コタ）
+- 設立：1979年9月27日（https://finance.yahoo.co.jp/quote/4923.T/profile・3回目）
+- 従業員数：355 355 373 390 395（https://www.cota.co.jp/company-ir/sustainability・1回目）
+- 従業員数：460人（https://finance.yahoo.co.jp/quote/4923.T/profile・3回目）
+- 従業員数：---（https://finance.yahoo.co.jp/quote/4923.T/profile・3回目）
+- ビジネスモデル：
+  - 「そこで、メーカーとしてだけ存在するのではなく、「美容室の繁栄のためにできることをお手伝いしよう」という想いから、創業精神に「美容業界（美容室経営）の近代化」を掲げ、その具体的施策として独自のビジネスモデルを展開しています」（https://www.cota.co.jp/company-ir/guidance・1回目）
+  - 「２つのビジネスモデル」（https://www.cota.co.jp/company-ir/guidance・1回目）
+  - 「当社では「世の中の美容室を一軒でも多く近代経営に導く」、「世の中の女性を一人でも多く髪から美しくする」を２つのミッションとしており、その実現のために２つの独自のビジネスモデルを展開しています」（https://www.cota.co.jp/company-ir/guidance・1回目）
+  - 「そして、世の中の美容室を一軒でも多く近代経営に導くために、独自のビジネスモデルを展開しています」（https://www.cota.co.jp/company-ir/vision・1回目）
+  - 「独自のビジネスモデル」（https://www.cota.co.jp/company-ir/vision・1回目）
+  - 「独自のビジネスモデルである「トイレタリーの販売を中心とした店販戦略」及び「旬報店システムを軸としたコンサルティング・セールス」の実践を通して、美容室の業績向上に努めます」（https://www.cota.co.jp/company-ir/vision・1回目）
+  - 「当社独自のビジネスモデルである」（https://www.cota.co.jp/company-ir/sustainability・1回目）
+  - 「株主や個人投資家の皆様に、事業内容や業績、ビジネスモデル、製品等について説明し、当社の魅力についてお伝えしています」（https://www.cota.co.jp/company-ir/sustainability・1回目）
+  - 「美容業界では、引き続き美容室経営の二極分化により厳しい状況が続く見通しですが、当社では美容室の業績向上に資することができる独自のビジネスモデルを展開することで、お取引先美容室のより一層の業績向上に取り組み、美容業界の発展と近代化に注力する考えです」（https://www.cota.co.jp/company-ir/message・1回目）
+  - 「今後も、当社独自のビジネスモデルをこれまで以上に積み上げ、磨くことで、多くのお取引先美容室の客単価を向上し、美容室の繁栄および生産性の向上、そして持続可能な経営を実現していきたいと考えています」（https://www.cota.co.jp/company-ir/message・1回目）
+  - 「当社は美容室向け頭髪用化粧品メーカーとして、安心・安全で高品質な製品を製造・販売するだけではなく、競合他社にはない独自のビジネスモデルを展開し、お取引先美容室の業績向上を実現し続けることで、今後も着実成長を続けていきたいと考えています」（https://www.cota.co.jp/company-ir/highlight/performance-trends・1回目）
+  - 「株式会社コタのビジネスモデル解剖で見る成長戦略 | チームマイクの企業分析」（https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/・3回目）
+- 誰に：
+  - 「自然のやさしさと科学の力を融合させながら、徹底したお客様目線で、ニーズに敵った製品開発を日夜追求しています」（https://www.cota.co.jp/・1回目）
+  - 「品質はもちろん、人にも環境にも安心・安全であることを基本に原料にもこだわり、厳しい品質チェックと改良を幾重にも重ねる地道なプロセスを経て、お客様の髪を芯から美しくする製品が誕生します」（https://www.cota.co.jp/・1回目）
+  - 「美容室に来店されたお客様に髪の状態などについてカウンセリングを行い、お客様のヘアスタイルやヘアコンディションの維持に必要かつ最適な製品（シャンプーやトリートメント等）を対面で店舗販売すること（店販）を推進することで、美容室の収益改善を実現しています」（https://www.cota.co.jp/company-ir/guidance・1回目）
+  - 「当社はこの「コタ旬報店システム」を通じて、 お取引先美容室に対して営業戦略や人材育成等、あらゆる面から業績向上のためにコンサルティング・セールス（経営コンサルティング）を行い、美容室との信頼関係を築いています」（https://www.cota.co.jp/company-ir/guidance・1回目）
+  - 「美容室に来店されるお客様に、安心してお使いいただける製品を提供し続けるために、当社では開発から製造、販売にいたるまで、一貫した自社体制を構築しています」（https://www.cota.co.jp/company-ir/guidance・1回目）
+  - 「このような妥協なき姿勢と厳正な検証を重ねることで、お客様に長く愛されている製品が誕生しています」（https://www.cota.co.jp/company-ir/guidance・1回目）
+  - 「「お客様に当社製品を安心して使っていただきたい」という想いから、生産工程においては、既存の生産方法に捉われず、高い目標と改善意識を持ちながら、日々、新しい「ものづくり」にも挑戦しています」（https://www.cota.co.jp/company-ir/guidance・1回目）
+  - 「全役員、全従業員、さらには、お客様、株主、お取引業者、地域社会等、当社を取り巻くすべてのステークホルダーの皆さまと、共有したいと考えています」（https://www.cota.co.jp/company-ir/vision・1回目）
+  - 「「世のため」とは、１円でも多く納税し、１人でも多く雇用することであり、「人のため」とは、株主、顧客（代理店、美容室）、取引先（仕入先、金融機関等）の方々が、当社に期待されていることを実現し、従業員の経済的な豊かさと幸福感を高めることです」（https://www.cota.co.jp/company-ir/vision・1回目）
+  - 「「トイレタリーの販売を中心とした店販戦略」では、「美容室とともに、女性を髪から美しくする」という考えのもと、美容室に来店されたお客様にカウンセリングを行い、シャンプーやトリートメントなどのトイレタリーを中心に、お客様のヘアスタイルやヘアコンディションの維持に必要かつ最適な製品をお勧めし販売する「店販」を推進することで、美容室の収益改善を実現しています」（https://www.cota.co.jp/company-ir/vision・1回目）
+  - 「当社のものづくりでは、「Nature & Science」という考えをもとに、自然のやさしさと科学の力を融合させながら、徹底したお客様目線で、ニーズに適った製品開発を日夜追求しています」（https://www.cota.co.jp/company-ir/vision・1回目）
+  - 「創業精神である「美容業界（美容室経営）の近代化」の実現に向け、「お取引先である美容室の繁栄が当社の繁栄につながる」という基本的な考え方を堅持し、各部門においては次のような方針を持って取り組みます」（https://www.cota.co.jp/company-ir/vision・1回目）
+- 何を：
+  - 「自然のやさしさと科学の力を融合させながら、徹底したお客様目線で、ニーズに敵った製品開発を日夜追求しています」（https://www.cota.co.jp/・1回目）
+  - 「品質はもちろん、人にも環境にも安心・安全であることを基本に原料にもこだわり、厳しい品質チェックと改良を幾重にも重ねる地道なプロセスを経て、お客様の髪を芯から美しくする製品が誕生します」（https://www.cota.co.jp/・1回目）
+  - 「そして、オートメーション化が進んだ生産現場において、今なおきちんと「人の目」と「人の手」を活かしたものづくりを続けながら、ゆるぎない想いが詰まった安心・安全、高品質の製品を作り上げています」（https://www.cota.co.jp/・1回目）
+  - 「製品の価格改定に関するお知らせ」（https://www.cota.co.jp/・1回目）
+  - 「美容室に来店されたお客様に髪の状態などについてカウンセリングを行い、お客様のヘアスタイルやヘアコンディションの維持に必要かつ最適な製品（シャンプーやトリートメント等）を対面で店舗販売すること（店販）を推進することで、美容室の収益改善を実現しています」（https://www.cota.co.jp/company-ir/guidance・1回目）
+  - 「一貫した製品開発・生産・販売体制」（https://www.cota.co.jp/company-ir/guidance・1回目）
+  - 「美容室に来店されるお客様に、安心してお使いいただける製品を提供し続けるために、当社では開発から製造、販売にいたるまで、一貫した自社体制を構築しています」（https://www.cota.co.jp/company-ir/guidance・1回目）
+  - 「毛髪に関する基礎研究から使用する原料の調査や調合、製品の性能評価、完成した製品の品質検査などを経て当社製品は誕生します」（https://www.cota.co.jp/company-ir/guidance・1回目）
+  - 「使用する原料は環境や人体にとって優しいものを厳選しながら、製品コンセプトに沿った性能を実現するために、時間と労力のすべてを注ぎこむ姿勢で製品開発を進めています」（https://www.cota.co.jp/company-ir/guidance・1回目）
+  - 「また、製品をご使用になる美容室へ試作品を持って伺い、求める髪の感触や使用感、要望などのご意見をいただき、さらに改良を重ねています」（https://www.cota.co.jp/company-ir/guidance・1回目）
+  - 「このような妥協なき姿勢と厳正な検証を重ねることで、お客様に長く愛されている製品が誕生しています」（https://www.cota.co.jp/company-ir/guidance・1回目）
+  - 「「お客様に当社製品を安心して使っていただきたい」という想いから、生産工程においては、既存の生産方法に捉われず、高い目標と改善意識を持ちながら、日々、新しい「ものづくり」にも挑戦しています」（https://www.cota.co.jp/company-ir/guidance・1回目）
+- どうやって売るか：
+  - 「現在の私たちがあるのも、ビジネスパートナーである美容室、そこで働く美容師の方々との信頼関係があればこそだと考えます」（https://www.cota.co.jp/company-ir/guidance・1回目）
+  - 「美容室に来店されたお客様に髪の状態などについてカウンセリングを行い、お客様のヘアスタイルやヘアコンディションの維持に必要かつ最適な製品（シャンプーやトリートメント等）を対面で店舗販売すること（店販）を推進することで、美容室の収益改善を実現しています」（https://www.cota.co.jp/company-ir/guidance・1回目）
+  - 「株主優待制度のご紹介」（https://www.cota.co.jp/company-ir/guidance・1回目）
+  - 「株主優待品のご紹介～コタ アイ ケア編～」（https://www.cota.co.jp/company-ir/guidance・1回目）
+  - 「株主優待のご紹介～コタクチュール編～」（https://www.cota.co.jp/company-ir/guidance・1回目）
+  - 「株主優待のご紹介～コタエイジング編～」（https://www.cota.co.jp/company-ir/guidance・1回目）
+  - 「株主優待品のご紹介～コタセラ スパ編～」（https://www.cota.co.jp/company-ir/guidance・1回目）
+  - 「株主優待品のご紹介～スタイリング剤&スキャルプケア剤編～」（https://www.cota.co.jp/company-ir/guidance・1回目）
+  - 「当社の概要から社員が共有している考え方まで、様々なテーマに沿って当社のことをご紹介しています」（https://www.cota.co.jp/company-ir/guidance・1回目）
+  - 「代理店／国内61社・海外1社」（https://www.cota.co.jp/company-ir/profile・1回目）
+  - 「「世のため」とは、１円でも多く納税し、１人でも多く雇用することであり、「人のため」とは、株主、顧客（代理店、美容室）、取引先（仕入先、金融機関等）の方々が、当社に期待されていることを実現し、従業員の経済的な豊かさと幸福感を高めることです」（https://www.cota.co.jp/company-ir/vision・1回目）
+  - 「当社及び代理店の営業教育を目的に情報研修室を開設」（https://www.cota.co.jp/company-ir/history・1回目）
+- お金の形：
+  - 「シャンプーやトリートメントの販売、すなわち「店販」を推進することで、美容室ではカットやカラー、パーマなどの売上に、店販による売上が加わることから、客単価が大幅に上がります」（https://www.cota.co.jp/company-ir/sustainability・1回目）
+  - 「その結果、美容室は高い客単価を維持しながら来店客が増え、安定的に業績が向上することになります」（https://www.cota.co.jp/company-ir/sustainability・1回目）
+  - 「今後も、当社独自のビジネスモデルをこれまで以上に積み上げ、磨くことで、多くのお取引先美容室の客単価を向上し、美容室の繁栄および生産性の向上、そして持続可能な経営を実現していきたいと考えています」（https://www.cota.co.jp/company-ir/message・1回目）
+  - 「これによって製品の単価アップや継続利用にもつながり、コタの事業基盤をより強固にしていく狙いがあります」（https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/・3回目）
+  - 「VIP倶楽部を詳しく見る（月額2,838円）」（https://finance.yahoo.co.jp/quote/4923.T/profile・3回目）
+- 売上構成：
+  - 「当社は営業戦略上、売上高及び各利益の構成比率は下半期のウエイトが大きくなっています」（https://www.cota.co.jp/company-ir/highlight/performance-trends・1回目）
+  - 「顧客セグメント」（https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/・3回目）
+  - 「コタの顧客セグメントは全国の美容室が中心です」（https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/・3回目）
+  - 「事業セグメント」（https://edinetdb.jp/company/E01059/presentations/・3回目）
+- 利益の源泉：
+  - 「多くのサロンでは顧客満足度向上や売上維持に課題を抱えがちですが、コタの製品はヘアケアの仕上がりや安全性に定評があり、お客さまに満足してもらいやすいという強みがあります」（https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/・3回目）
+  - 「トリケミカル研究所が魅せるビジネスモデルの強みと将来性」（https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B3%E3%82%BF%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E5%89%96%E3%81%A7%E8%A6%8B%E3%82%8B%E6%88%90%E9%95%B7%E6%88%A6/・3回目）
+  - 「説明会では、経営方針、当社の強み、営業スタイル、配当方針、今後の展開などを説明します」（https://edinetdb.jp/company/E01059/presentations/・3回目）
+  - 「企業の強みが業績にどのように表れているか、業績情報よりご確認いただけます」（https://finance.yahoo.co.jp/quote/4923.T/profile・3回目）
+- 沿革：
+  - 「2027年３月期 第２四半期決算は2026年11月５日（木）に発表する予定です」（https://www.cota.co.jp/・1回目）
+  - 「2026年3月期 中間期決算説明会（2025年11月27日）」（https://www.cota.co.jp/company-ir/guidance・1回目）
+  - 「2025年３月期 決算説明会（2025年６月２日）」（https://www.cota.co.jp/company-ir/guidance・1回目）
+  - 「2025年３月期 中間期決算説明会（2024年11月28日）」（https://www.cota.co.jp/company-ir/guidance・1回目）
+  - 「2024年３月期 決算説明会（2024年6月3日）」（https://www.cota.co.jp/company-ir/guidance・1回目）
+  - 「1979年9月27日」（https://www.cota.co.jp/company-ir/profile・1回目）
+  - 「コタ株式会社 | 沿革 会社の歴史」（https://www.cota.co.jp/company-ir/history・1回目）
+  - 「沿革 会社の歴史」（https://www.cota.co.jp/company-ir/history・1回目）
+  - 「2026年6月19日付で社長を退任し、会長に就任しましたのでご挨拶申し上げます」（https://www.cota.co.jp/company-ir/message・1回目）
+  - 「2026年３月期 決算」（https://www.cota.co.jp/company-ir/message・1回目）
+  - 「2027年３月期 通期業績予想」（https://www.cota.co.jp/company-ir/message・1回目）
+  - 「2027年３月期の期末配当につきましては、１株当たり普通配当で20円を予想しています」（https://www.cota.co.jp/company-ir/message・1回目）
+- 検索結果の抜粋：
+  - 「株式会社コタのビジネスモデル解剖で見る成長戦略 | チームマイクの企... — Feb 8, 2025 · 採用情報 コタの初任給は月給20万8150円以上であり、営業未経験からのスタートでも安定した給与水準が期待できます。 年間休日は120日以上とされており、オフタイムもしっかり確保しながら成長していきたい方に向いています。」（https://consovation.com/株式会社コタのビジネスモデル解剖で見る成長戦/・3回目）
+  - 「コタ株式会社 | コタビジョン - COTA — 独自のビジネスモデルである「トイレタリーの販売を中心とした店販戦略」及び「旬報店システムを軸としたコンサルティング・セールス」の実践を通して、美容室の業績向上に努めます。」（https://www.cota.co.jp/company-ir/vision・3回目）
+  - 「コタ株式会社 | コタについて - COTA — 2つのビジネスモデル 当社では「世の中の美容室を一軒でも多く近代経営に導く」、「世の中の女性を一人でも多く髪から美しくする」を2つのミッションとしており、その実現のために2つの独自のビジネスモデルを展開しています。」（https://www.cota.co.jp/company-ir/guidance・3回目）
+  - 「コタ（4923）の企業分析 - Smart Stock Notesコタ（4923）の事業内容、事業の状況や経営戦略、事業等のリスクにつ...【銘柄分析】コタ（COTA）：28期連続増収を誇るプレミアムヘアケアの...コタ:地域を代表する企業100選 - madeinlocal.jp — Apr 7, 2025 · コタ（4923）の企業分析。美容院向けの頭髪用化粧品及び医薬部外品の製造・販売を行う企業。主に美容室向けにトイレタリー製品や整髪料、カラー剤、育毛剤、パーマ剤などを提供している。 (3) 営業活動の特徴（独自のビジネスモデル）① トイレタリーの販売を中心とした店販（てんぱん）戦略「店販」とは、美容室に来店されたお客様に対して、髪のプロである美容師のカウンセリングを通じてヘアケアやヘアスタイルのアドバイスを行い ... Sep 11, 2026 · 【銘柄分析】コタ（COTA）：2」（https://www.smartstocknotes.jp/2025/04/08/企業分析：コタ（4923）-2/・3回目）
+  - 「コタ（4923）の事業内容、事業の状況や経営戦略、事業等のリスクにつ... — (3) 営業活動の特徴（独自のビジネスモデル）① トイレタリーの販売を中心とした店販（てんぱん）戦略「店販」とは、美容室に来店されたお客様に対して、髪のプロである美容師のカウンセリングを通じてヘアケアやヘアスタイルのアドバイスを行い ...」（https://www.kabutore.biz/genzaikabuka/jigyo.html?code=4923・3回目）
+  - 「コタ株式会社 | 決算短信・決算説明資料 - COTA — TOP 企業・投資家情報 企業・投資家情報 IRライブラリー 決算短信・決算説明資料」（https://www.cota.co.jp/ir/library.html・3回目）
+  - 「コタ株式会社 — 決算説明資料 - EDINET DB — Jun 20, 2025 · コタ株式会社の決算説明資料を、AIで構造化されたセクション単位で表示。経営戦略・業績・ガバナンスなどテーマタグつき。」（https://edinetdb.jp/company/E01059/presentations/・3回目）
+  - 「コタ株式会社 — IR資料 - EDINET DB — Apr 16, 2026 · EDINET DB > 企業一覧 > コタ株式会社 > IR資料 コタ株式会社 — IR資料 統合報告書・中期経営計画・決算説明資料などのIR資料を、AIがセクション単位で構造化したデータです。 本文の検索・テーマタグでの絞り込みが可能です。 （証券コード: 49230・業種: 化学）」（https://edinetdb.jp/company/E01059/ir-docs/・3回目）
+  - 「コタ株式会社 | 企業・投資家情報 - COTA — COTA Guidance コタについて Company Profile 会社概要 COTA Vision コタビジョン History 沿革 Corporate Guide 会社案内パンフレット Sustainability サステナビリティ」（https://www.cota.co.jp/ir/・3回目）
+  - 「コタ（4923）のIR情報・決算資料 - IRBANK — May 26, 2026 · コタ（4923）のIR情報・適時開示一覧。決算発表、業績修正などの開示情報を掲載。」（https://irbank.net/4923/ir・3回目）
+  - 「コタ(株)【4923】：企業情報（決算時期・代表者名・大株主情報・IR動...4923 コタ | 事業内容 - 有価証券報告書-第38期 (平成28年4月1日-平成...系統図の閲覧・事前相談・接続検討（有料）｜東北電力ネットワーク — 17 hours ago · コタ(株)【4923】の決算時期や平均年収、代表者名、大株主情報、大量保有報告状況、IR動画などの企業情報をご覧いただけます。Yahoo!ファイナンスでは株価速報、チャート、ランキング、ポートフォリオ、ニュース、掲示板など投資判断に役立つ情報を掲載しています。 また、当社の事業における位置付け及び事業系統図は、以下のとおりであります。 (2) 販売ルート 製品の販売につきましては、当社から全国各地の代理店に販売する「代理店ルート」と、当社が直接美容室に販売する「直販ルート」の2つの方法を採用しており、代理店へは営業第一部が、美」（https://finance.yahoo.co.jp/quote/4923.T/profile・3回目）
+  - 「4923 コタ | 事業内容 - 有価証券報告書-第38期 (平成28年4月1日-平成... — また、当社の事業における位置付け及び事業系統図は、以下のとおりであります。 (2) 販売ルート 製品の販売につきましては、当社から全国各地の代理店に販売する「代理店ルート」と、当社が直接美容室に販売する「直販ルート」の2つの方法を採用しており、代理店へは営業第一部が、美容 ...」（https://irbank.net/E01059/business?f=S100AINK・3回目）
+- 事業内容：記載なし（3回確認済み：公式25頁／PDF・画像1件／外部5頁・検索5回）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像1件／外部5頁・検索5回）
 
 ## コナミグループ
 - 公式URL：https://www.konami.com/（search:yahoo_jp:コナミグループ）
@@ -6951,6 +10947,124 @@
 - 従業員数：記載なし（3回確認済み：公式10頁／PDF・画像8件／外部6頁・検索5回）
 - 事業内容：記載なし（3回確認済み：公式10頁／PDF・画像8件／外部6頁・検索5回）
 - 売上高：記載なし（3回確認済み：公式10頁／PDF・画像8件／外部6頁・検索5回）
+
+## コーア商事ホールディングス
+- 公式URL：https://www.koashoji-hd.com/（search:yahoo_jp:コーア商事ホールディングス）
+- 設立：2015年１月（https://www.koashoji-hd.com/company/overview.html・1回目）
+- 設立：2015年1月です。（https://www.koashoji-hd.com/ir/faq.html・1回目）
+- 従業員数：318名（2026年6月30日現在）（https://www.koashoji-hd.com/company/overview.html・1回目）
+- 事業内容：医薬品原薬の輸入・販売、医薬品の製造販売等を行う
+子会社等の経営管理及びこれらに附帯または関連する業務（https://www.koashoji-hd.com/company/overview.html・1回目）
+- 事業内容：「事業内容」 ページをご覧ください。（https://www.koashoji-hd.com/ir/faq.html・1回目）
+- 売上高：24,678 百万円 （前期比6.1%増）（https://www.koashoji-hd.com/ir/individual.html・1回目）
+- 売上高：20,353 22,052 22,134 23,269 24,678（https://www.nikkei.com/nkd/company/kessan/?scode=9273・3回目）
+- 売上高：10,355 11,166 11,382 12,259 12,654（https://www.nikkei.com/nkd/company/kessan/?scode=9273・3回目）
+- ビジネスモデル：
+  - 「コーア商事ホールディングスグループのビジネスモデル」（https://www.koashoji-hd.com/・1回目）
+  - 「ビジネスモデルや特徴をコンパクトにご紹介いたします」（https://www.koashoji-hd.com/・1回目）
+  - 「コーア商事ホールディングスグループのビジネスモデル | グループについて | コーア商事ホールディングス株式会社」（https://www.koashoji-hd.com/group/model.html・1回目）
+  - 「コーア商事ホールディングスグループのビジネスモデル」（https://www.koashoji-hd.com/group/model.html・1回目）
+  - 「商社機能と製造機能を併せ持つビジネスモデル」（https://www.koashoji-hd.com/group/model.html・1回目）
+  - 「ビジネスモデル」（https://www.koashoji-hd.com/group/model.html・1回目）
+  - 「コーア商事ホールディングスグループのビジネスモデル」（https://www.koashoji-hd.com/group/virtual-factory.html・1回目）
+  - 「ビジネスモデル」（https://www.koashoji-hd.com/group/virtual-factory.html・1回目）
+  - 「コーア商事ホールディングスグループのビジネスモデル」（https://www.koashoji-hd.com/company/overview.html・1回目）
+  - 「ビジネスモデル」（https://www.koashoji-hd.com/company/overview.html・1回目）
+  - 「コーア商事ホールディングスグループのビジネスモデル」（https://www.koashoji-hd.com/company/history.html・1回目）
+  - 「ビジネスモデル」（https://www.koashoji-hd.com/company/history.html・1回目）
+- 誰に：
+  - 「私たちは商社機能と製造機能を併せ持つ強みを活かし、お客様のあらゆる課題に対応します」（https://www.koashoji-hd.com/group/model.html・1回目）
+  - 「設立以来、コーア商事は「ジェネリックのベストパートナー」として、お客様が安心して使用できる高品質かつ安価な原薬を提供し続けています」（https://www.koashoji-hd.com/group/model.html・1回目）
+  - 「このリソースを活かし単なる原薬供給にとどまらず、新規品目の選定や規格立案といった「開発の最上流」からお客様をサポートします」（https://www.koashoji-hd.com/group/model.html・1回目）
+  - 「お客様の多様なニーズに確かな技術力で」（https://www.koashoji-hd.com/group/model.html・1回目）
+  - 「既に取引をさせて頂いている商品を安定的に提供することはもとより、顧客の研究開発段階からの提案・支援活動を実施しております」（https://www.koashoji-hd.com/group/virtual-factory.html・1回目）
+  - 「当社は、株主をはじめ、顧客、取引先、従業員など当社を取り巻く全てのステークホルダーの利益を考慮しつつ、持続的かつ健全な成長と発展による企業価値の最大化が重要であるという認識のもと、コーポレート・ガバナンス体制の強化に努めております」（https://www.koashoji-hd.com/ir/strategy/governance.html・1回目）
+  - 「私たちは、超高齢社会の到来を見据え、医療ニーズを反映した高品位医薬品及び医薬品原薬等の提供を通じて、お客様や医療機関等関係者各位の期待と信頼に応えます」（https://www.koashoji-hd.com/ir/strategy/compliance.html・1回目）
+  - 「私たちは、個人情報・顧客情報をはじめとする各種情報の保護・管理を徹底します」（https://www.koashoji-hd.com/ir/strategy/compliance.html・1回目）
+  - 「私たちは、お客様、取引先、株主等の企業利害関係者（ステークホルダー）に対して適時適切に企業情報を開示します」（https://www.koashoji-hd.com/ir/strategy/compliance.html・1回目）
+  - 「また開発部を有し、顧客の開発段階から原薬の提案を行うことで、採用に至るケースが増えています」（https://www.koashoji-hd.com/ir/strategy/shareholders.html・1回目）
+  - 「・お問い合わせ内容に対応させていただくため、お客様の個人情報をグループ会社に提供する場合がございます」（https://www.koashoji-hd.com/ir/faq.html・1回目）
+  - 「・当社からの回答はお客様ご本人に対するものです」（https://www.koashoji-hd.com/ir/faq.html・1回目）
+- 何を：
+  - 「電子公告掲載サービス」（https://www.koashoji-hd.com/・1回目）
+  - 「電子公告掲載サービス」（https://www.koashoji-hd.com/group/model.html・1回目）
+  - 「自社製品で培ったノウハウを活かし、大手メーカー様からの受託製造を積極的に展開しています」（https://www.koashoji-hd.com/group/model.html・1回目）
+  - 「電子公告掲載サービス」（https://www.koashoji-hd.com/group/virtual-factory.html・1回目）
+  - 「中間製品保管室」（https://www.koashoji-hd.com/group/virtual-factory.html・1回目）
+  - 「中間製品保管室01」（https://www.koashoji-hd.com/group/virtual-factory.html・1回目）
+  - 「既に取引をさせて頂いている商品を安定的に提供することはもとより、顧客の研究開発段階からの提案・支援活動を実施しております」（https://www.koashoji-hd.com/group/virtual-factory.html・1回目）
+  - 「電子公告掲載サービス」（https://www.koashoji-hd.com/company/overview.html・1回目）
+  - 「電子公告掲載サービス」（https://www.koashoji-hd.com/company/history.html・1回目）
+  - 「電子公告掲載サービス」（https://www.koashoji-hd.com/ir/・1回目）
+  - 「電子公告掲載サービス」（https://www.koashoji-hd.com/ir/strategy/・1回目）
+  - 「電子公告掲載サービス」（https://www.koashoji-hd.com/ir/strategy/mid-term.html・1回目）
+- どうやって売るか：
+  - 「ビジネスモデルや特徴をコンパクトにご紹介いたします」（https://www.koashoji-hd.com/・1回目）
+  - 「社名の由来や沿革、グループ内企業などについて創業者よりご紹介している動画があります」（https://www.koashoji-hd.com/・1回目）
+  - 「トップメッセージや企業理念、会社概要などのご紹介です」（https://www.koashoji-hd.com/・1回目）
+  - 「サステナビリティ基本方針や推進体制、取組みなどについてご紹介しています」（https://www.koashoji-hd.com/・1回目）
+  - 「設立以来、コーア商事は「ジェネリックのベストパートナー」として、お客様が安心して使用できる高品質かつ安価な原薬を提供し続けています」（https://www.koashoji-hd.com/group/model.html・1回目）
+  - 「国内外のパートナーとの信頼関係を基盤に、ジェネリック医薬品メーカー様を中心に多くの原薬を供給しています」（https://www.koashoji-hd.com/group/model.html・1回目）
+  - 「品質に関する情報に対応する時や原薬メーカーを選定する時に活躍する分析機器のうち、6つをご紹介しています」（https://www.koashoji-hd.com/group/virtual-factory.html・1回目）
+  - 「公正かつ迅速な意思決定を可能にする体制を構築し、経営の透明性と監督機能を強化する取り組みをご紹介します」（https://www.koashoji-hd.com/ir/strategy/・1回目）
+  - 「指名・報酬諮問委員会」（https://www.koashoji-hd.com/ir/strategy/governance.html・1回目）
+  - 「指名・報酬諮問委員会は、当社の取締役の指名・報酬等に関する手続きの公正性・透明性・客観性を高め、コーポレート・ガバナンスの充実を図るため、取締役会の任意の諮問機関として設置しており、主に取締役の指名・報酬、後継者計画等に関する事項を審議し、取締役会に対して答申を行っております」（https://www.koashoji-hd.com/ir/strategy/governance.html・1回目）
+  - 「取締役会における取締役の報酬等の額又はその算定方法の決定にあたっては、指名・報酬諮問委員会に対して諮問し、同委員会による審議答申を経たうえで行うものとする」（https://www.koashoji-hd.com/ir/strategy/governance.html・1回目）
+  - 「また報酬額に係る決議に際しては、あらかじめ指名・報酬諮問委員会へ諮問し、答申を受けております」（https://www.koashoji-hd.com/ir/strategy/governance.html・1回目）
+- お金の形：
+  - 「新しいモダリティへの対応として「ライセンスイン活動」を推進します」（https://www.koashoji-hd.com/ir/strategy/mid-term.html・1回目）
+  - 「本社工場の主力製品は、競合の参入や薬価引き下げの影響により、販売数量の減少や販売単価の下落が生じており、厳しい事業環境となっております」（https://www.koashoji-hd.com/ir/strategy/shareholders.html・1回目）
+  - 「また、事業面においては既存の低分子医薬品にとどまらず、新規モダリティへの対応を見据えたライセンスイン等にも積極的に取り組み、将来のさらなる収益基盤の構築を進めてまいります」（https://www.koashoji-hd.com/ir/strategy/shareholders.html・1回目）
+  - 「新しいモダリティへの対応として「ライセンスイン活動」を推進します」（https://www.koashoji-hd.com/ir/individual.html・1回目）
+  - 「ストックオプションの付与対象者」（https://www.koashoji-hd.com/upfile/00.pdf・2回目）
+  - 「監査等委員である取締役の月額報酬並び」（https://www.koashoji-hd.com/upfile/00.pdf・2回目）
+- 売上構成：
+  - 「原薬セグメントを担うコーア商事では、ジェネリック医薬品に加えて、長期収載品」（https://www.koashoji-hd.com/ir/strategy/mid-term.html・1回目）
+  - 「医薬品セグメントを担うコーアイセイでは、蔵王工場シリンジラインの増強・バイアルラインの本格稼働に向け、新規品目の追加を行います」（https://www.koashoji-hd.com/ir/strategy/mid-term.html・1回目）
+  - 「原薬セグメント」（https://www.koashoji-hd.com/ir/strategy/mid-term.html・1回目）
+  - 「医薬品セグメント」（https://www.koashoji-hd.com/ir/strategy/mid-term.html・1回目）
+  - 「原薬セグメントにおける収益性や市場環境について」（https://www.koashoji-hd.com/ir/strategy/shareholders.html・1回目）
+  - 「医薬品セグメントにおける主力製品の動向について」（https://www.koashoji-hd.com/ir/strategy/shareholders.html・1回目）
+  - 「原薬セグメント」（https://www.koashoji-hd.com/ir/individual.html・1回目）
+  - 「医薬品セグメント」（https://www.koashoji-hd.com/ir/individual.html・1回目）
+  - 「原薬セグメント：安定的な収益基盤」（https://www.koashoji-hd.com/ir/individual.html・1回目）
+  - 「原薬セグメントを担うコーア商事では、ジェネリック医薬品に加えて、長期収載品」（https://www.koashoji-hd.com/ir/individual.html・1回目）
+  - 「医薬品セグメント：注射剤に特化したCDMO事業の拡大」（https://www.koashoji-hd.com/ir/individual.html・1回目）
+  - 「医薬品セグメントを担うコーアイセイでは、量産型の蔵王第二工場建設により、国内でも数少ない少量多品種高薬理工場である蔵王第一工場の特徴を活かし、注射剤のシリンジ・バイアルに特化した開発から製造までの一貫したCDMO」（https://www.koashoji-hd.com/ir/individual.html・1回目）
+- 利益の源泉：
+  - 「私たちは商社機能と製造機能を併せ持つ強みを活かし、お客様のあらゆる課題に対応します」（https://www.koashoji-hd.com/group/model.html・1回目）
+  - 「コーア商事の強みは、世界10か国・90社以上の調達網と、自社の「医薬分析センター」による技術力です」（https://www.koashoji-hd.com/group/model.html・1回目）
+  - 「ビジネスモデルと強み」（https://www.koashoji-hd.com/ir/individual.html・1回目）
+  - 「連結営業利益率」（https://www.koashoji-hd.com/ir/individual.html・1回目）
+  - 「コーア商事ホールディングスの強み」（https://www.koashoji-hd.com/ir/individual.html・1回目）
+  - 「■両セグメントの高収益体質の継続」（https://www.koashoji-hd.com/upfile/capital_cost_management.pdf・2回目）
+  - 「営業利益率（%）」（https://www.nikkei.com/nkd/company/kessan/?scode=9273・3回目）
+- 沿革：
+  - 「2030年に向けた長期事業計画の実行により企業価値を高めると同時に、持続的な社会の発展に貢献します」（https://www.koashoji-hd.com/・1回目）
+  - 「社名の由来や沿革、グループ内企業などについて創業者よりご紹介している動画があります」（https://www.koashoji-hd.com/・1回目）
+  - 「2015年１月」（https://www.koashoji-hd.com/company/overview.html・1回目）
+  - 「沿革 | 企業情報 | コーア商事ホールディングス株式会社」（https://www.koashoji-hd.com/company/history.html・1回目）
+  - 「1991年2月」（https://www.koashoji-hd.com/company/history.html・1回目）
+  - 「2002年7月」（https://www.koashoji-hd.com/company/history.html・1回目）
+  - 「2011年6月」（https://www.koashoji-hd.com/company/history.html・1回目）
+  - 「2012年7月」（https://www.koashoji-hd.com/company/history.html・1回目）
+  - 「2015年1月」（https://www.koashoji-hd.com/company/history.html・1回目）
+  - 「2018年6月」（https://www.koashoji-hd.com/company/history.html・1回目）
+  - 「2020年6月」（https://www.koashoji-hd.com/company/history.html・1回目）
+  - 「2022年4月」（https://www.koashoji-hd.com/company/history.html・1回目）
+- 検索結果の抜粋：
+  - 「コーア商事ホールディングス グループの ビジネスモデル — コーア商事ホールディングス グループの ビジネスモデル コーア商事ホールディングス株式会社 https://www.koashoji-hd.com > group > model」（https://www.koashoji-hd.com/group/model.html・3回目）
+  - 「長期事業計画 | IR情報 - コーア商事ホールディングス株式会社 — 長期事業計画 | IR情報 - コーア商事ホールディングス株式会社 コーア商事ホールディングス株式会社 https://www.koashoji-hd.com > strategy > mid-term」（https://www.koashoji-hd.com/ir/strategy/mid-term.html・3回目）
+  - 「コーア商事ホールディングス 株式会社（9273）— 企業情報 — コーア商事ホールディングス 株式会社（9273）— 企業情報 ENVALITH https://envalith.com > companies > overview」（https://envalith.com/ja/companies/9273/overview・3回目）
+  - 「【IRTV 9273】 コーア商事ホールディングス /加速する「超高齢 ... — 【IRTV 9273】 コーア商事ホールディングス /加速する「超高齢 ... YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=EEapRbUej9U・3回目）
+  - 「コーア商事ホールディングス 株式会社 — コーア商事ホールディングス 株式会社 コーア商事ホールディングス株式会社 https://www.koashoji-hd.com」（https://www.koashoji-hd.com/index.html・3回目）
+  - 「【 コーア商事ホールディングス 】[9273] 決算 ... - 日本経済新聞 — 【 コーア商事ホールディングス 】[9273] 決算 ... - 日本経済新聞 日本経済新聞 https://www.nikkei.com > nkd > company > kessan」（https://www.nikkei.com/nkd/company/kessan/?scode=9273・3回目）
+  - 「コーア商事ホールディングス 株式会社 - ログミーファイナンス — コーア商事ホールディングス 株式会社 - ログミーファイナンス ログミーFinance https://finance.logmi.jp > companies」（https://finance.logmi.jp/companies/1274・3回目）
+  - 「コーア商事ホールディングス 決算 ・修正履歴 - 株探 — コーア商事ホールディングス 決算 ・修正履歴 - 株探 株探 https://kabutan.jp > ... > 決算」（https://kabutan.jp/stock/finance?code=9273・3回目）
+  - 「長期 事業 計画 | IR情報 - コーア商事ホールディングス株式会社 — 長期 事業 計画 | IR情報 - コーア商事ホールディングス株式会社 コーア商事ホールディングス株式会社 https://www.koashoji-hd.com > strategy > mid-term」（https://www.koashoji-hd.com/ir/strategy/mid-term.html・3回目）
+  - 「コーア商事ホールディングス 【9273】の 事業 内容 - キタイシホン — コーア商事ホールディングス 【9273】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/9273/business・3回目）
+  - 「コーア商事ホールディングス 【9273】の 社長 ・役員 — コーア商事ホールディングス 【9273】の 社長 ・役員 キタイシホン https://kitaishihon.com > company > board-of-director」（https://kitaishihon.com/company/9273/board-of-director・3回目）
+  - 「コーア商事ホールディングス 代表取締役 社長 首藤 利幸さん — コーア商事ホールディングス 代表取締役 社長 首藤 利幸さん note https://note.com > インタビュー・対談 > インタビュー・対談」（https://note.com/kumifujisawa/n/n6b1b36a27957・3回目）
 
 ## コーエーテクモホールディングス
 - 公式URL：https://www.koeitecmo.co.jp/（search:yahoo_jp:コーエーテクモホールディングス）
@@ -7152,6 +11266,89 @@
   - 「個人情報保護方針について - ゴールドクレスト — 個人情報保護方針について - ゴールドクレスト ゴールドクレスト https://www.goldcrest.co.jp > corp > organization」（https://www.goldcrest.co.jp/corp/organization.html・3回目）
   - 「ゴールドクレスト 【8871】の 事業 内容 - キタイシホン — ゴールドクレスト 【8871】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/8871/business・3回目）
 - 従業員数：記載なし（3回確認済み：公式23頁／PDF・画像8件／外部3頁・検索5回）
+
+## サイバーセキュリティクラウド
+- 公式URL：https://www.cscloud.co.jp/（search:yahoo_jp:サイバーセキュリティクラウド）
+- 設立：2010年8月（https://www.cscloud.co.jp/about/company/・1回目）
+- 事業内容：サイバーセキュリティサービスの開発・提供（https://www.cscloud.co.jp/about/company/・1回目）
+- ビジネスモデル：
+  - 「どのようなビジネスモデルですか？」（https://www.cscloud.co.jp/ir/faq/・1回目）
+- 誰に：
+  - 「売上シェア・導入社数No.1」（https://www.cscloud.co.jp/・1回目）
+  - 「サイバーセキュリティクラウドは、中⼩から⼤企業まで多くのお客様にサービスを提供しております」（https://www.cscloud.co.jp/・1回目）
+  - 「お客様の安心を創り出す」（https://www.cscloud.co.jp/about/value/・1回目）
+  - 「市場の動向やお客様のニーズ、」（https://www.cscloud.co.jp/about/value/・1回目）
+  - 「『お届出の住所・印鑑・姓名等の変更、単元未満株式買取請求、名義変更などの当社株式に関する事務手続き用紙のご請求につきましては、お取引先の証券会社にご連絡ください」（https://www.cscloud.co.jp/ir/stock/overview/・1回目）
+  - 「また、通信環境やお客様のコンピュータの状況、その他の理由により当ウェブサイトを正常に利用できない場合があります」（https://www.cscloud.co.jp/ir/disclaimer/・1回目）
+  - 「主に、サブスクリプション（月額課金）型であり、顧客から使用した期間に応じて継続的に料金を受領するモデルです」（https://www.cscloud.co.jp/ir/faq/・1回目）
+  - 「解約が発生しない限り、顧客から毎月継続的に収益を得られるため、安定的に売上を計上することができます」（https://www.cscloud.co.jp/ir/faq/・1回目）
+  - 「当社所属の脆弱性専門アナリストが、日々現れる脆弱性の内容を調査しコンテンツを作成し、様々な手段を用いてお客様に情報を送り届けています」（https://www.cscloud.co.jp/ir/faq/・1回目）
+  - 「当社は、自社開発・自社運用によるサービス提供を行っているため、人件費を中心に、フリーランスの活用などにかかる業務委託費や、新規ユーザー獲得のための広告宣伝費などが主要なコストになっています」（https://www.cscloud.co.jp/ir/faq/・1回目）
+  - 「短期では、お客様のセキュリティ投資マインドの低下や商談の長期化といった影響が顕在化しました」（https://www.cscloud.co.jp/ir/faq/・1回目）
+  - 「数多くのお客様を守ってきた実績」（https://www.cscloud.co.jp/ir/course/strength/・1回目）
+- 何を：
+  - 「グローバル品質のサービスを提供し続けます」（https://www.cscloud.co.jp/・1回目）
+  - 「WEBサイトを守るセキュリティサービスです」（https://www.cscloud.co.jp/・1回目）
+  - 「「外部脅威対策ソリューション市場の現状と将来展望 2024年度」」（https://www.cscloud.co.jp/・1回目）
+  - 「WAF自動運用サービス」（https://www.cscloud.co.jp/・1回目）
+  - 「自社にとって最適な防御ルールの設定や日々の脆弱性対応などを盛り込んだWAF運用のオールインワンサービスです」（https://www.cscloud.co.jp/・1回目）
+  - 「※出典：ITR Market View「ゲートウェイ・セキュリティ対策型SOCサービス市場2025」〈国内WAF運用監視サービス市場動向の2024年度〉2025年11月6日発表：」（https://www.cscloud.co.jp/・1回目）
+  - 「管理サービス」（https://www.cscloud.co.jp/・1回目）
+  - 「SIDfmは、企業による脆弱性対策の負担を劇的に減らすことができる脆弱性管理サービスです」（https://www.cscloud.co.jp/・1回目）
+  - 「フルマネージドサービス」（https://www.cscloud.co.jp/・1回目）
+  - 「脆弱性診断サービス」（https://www.cscloud.co.jp/・1回目）
+  - 「脆弱性診断サービスについて」（https://www.cscloud.co.jp/・1回目）
+  - 「サービス⼀覧を⾒る」（https://www.cscloud.co.jp/・1回目）
+- どうやって売るか：
+  - 「CSCパートナープログラム」（https://www.cscloud.co.jp/・1回目）
+  - 「プロジェクト紹介」（https://www.cscloud.co.jp/・1回目）
+  - 「サイバーセキュリティクラウドのCSCバリューをご紹介いたします」（https://www.cscloud.co.jp/about/・1回目）
+  - 「サイバーセキュリティクラウドの会社概要と役員をご紹介いたします」（https://www.cscloud.co.jp/about/・1回目）
+  - 「サイバーセキュリティクラウドの沿⾰をご紹介いたします」（https://www.cscloud.co.jp/about/・1回目）
+  - 「CSCパートナープログラム」（https://www.cscloud.co.jp/about/・1回目）
+  - 「プロジェクト紹介」（https://www.cscloud.co.jp/about/・1回目）
+  - 「CSCパートナープログラム」（https://www.cscloud.co.jp/ir/・1回目）
+  - 「プロジェクト紹介」（https://www.cscloud.co.jp/ir/・1回目）
+  - 「CSCパートナープログラム」（https://www.cscloud.co.jp/about/message/・1回目）
+  - 「プロジェクト紹介」（https://www.cscloud.co.jp/about/message/・1回目）
+  - 「CSCパートナープログラム」（https://www.cscloud.co.jp/about/value/・1回目）
+- お金の形：
+  - 「主に、サブスクリプション（月額課金）型であり、顧客から使用した期間に応じて継続的に料金を受領するモデルです」（https://www.cscloud.co.jp/ir/faq/・1回目）
+  - 「サブスクリプション（月額課金）型モデルのメリットは何ですか？」（https://www.cscloud.co.jp/ir/faq/・1回目）
+  - 「※1 Managed Service Providerの略で、ITシステムの保守・運用・監視等を行うサービスベンダーのこと」（https://www.cscloud.co.jp/ir/course/strength/・1回目）
+- 利益の源泉：
+  - 「当社の競争優位の源泉は、AIと世界水準のサイバー脅威インテリジェンスを融合した独自の技術基盤と、世界100ヶ国以上の運用実績から蓄積された膨大な攻撃データにあります」（https://www.cscloud.co.jp/ir/course/topmessage/・1回目）
+  - 「プロダクトの特徴・強みは何ですか？」（https://www.cscloud.co.jp/ir/faq/・1回目）
+  - 「当社の強み | IR情報 | 株式会社サイバーセキュリティクラウド」（https://www.cscloud.co.jp/ir/course/strength/・1回目）
+- 沿革：
+  - 「2025年3月27日 発表：」（https://www.cscloud.co.jp/・1回目）
+  - 「2025年12月期 通期」（https://www.cscloud.co.jp/ir/・1回目）
+  - 「2010年8月」（https://www.cscloud.co.jp/about/company/・1回目）
+  - 「1983年生まれ」（https://www.cscloud.co.jp/about/company/・1回目）
+  - 「2016年にコミュニケーションツールのSaaS開発をおこなう米国AppSocially Inc.のCOOおよび日本子会社の取締役に就任」（https://www.cscloud.co.jp/about/company/・1回目）
+  - 「2018年、株式会社ALIVAL（現M&Aナビ）を創業し、M&Aプラットフォームを開発し日本全国に展開」（https://www.cscloud.co.jp/about/company/・1回目）
+  - 「2023年、一般社団法人サイバーセキュリティ連盟の代表理事に就任」（https://www.cscloud.co.jp/about/company/・1回目）
+  - 「2024年、一般社団法人セキュリティ・キャンプ協議会の理事に就任」（https://www.cscloud.co.jp/about/company/・1回目）
+  - 「1975年生まれ」（https://www.cscloud.co.jp/about/company/・1回目）
+  - 「2016年 当社に入社後、CTOや取締役を歴任」（https://www.cscloud.co.jp/about/company/・1回目）
+  - 「2021年 代表取締役 CTOに就任」（https://www.cscloud.co.jp/about/company/・1回目）
+  - 「2024年 子会社である株式会社ジェネレーティブテクノロジー 代表取締役社長に就任」（https://www.cscloud.co.jp/about/company/・1回目）
+- 検索結果の抜粋：
+  - 「事業環境 | IR情報 | 株式会社 サイバーセキュリティクラウド — 事業環境 | IR情報 | 株式会社 サイバーセキュリティクラウド 株式会社サイバーセキュリティクラウド https://www.cscloud.co.jp > IR情報 > 経営情報」（https://www.cscloud.co.jp/ir/course/business/・3回目）
+  - 「株式会社 サイバーセキュリティクラウド — 株式会社 サイバーセキュリティクラウド 株式会社サイバーセキュリティクラウド https://www.cscloud.co.jp」（https://www.cscloud.co.jp/・3回目）
+  - 「【 サイバーセキュリティクラウド 】中期経営計画2026の概要 — 【 サイバーセキュリティクラウド 】中期経営計画2026の概要 株式会社サイバーセキュリティクラウド https://blog.cscloud.co.jp > ...」（https://blog.cscloud.co.jp/n/n409bdc01c81c・3回目）
+  - 「IRライブラリ／ 決算説明資料 - サイバーセキュリティクラウド — IRライブラリ／ 決算説明資料 - サイバーセキュリティクラウド 株式会社サイバーセキュリティクラウド https://www.cscloud.co.jp > IR情報 > IRライブラリ」（https://www.cscloud.co.jp/ir/library/document/・3回目）
+  - 「IR情報 | 株式会社 サイバーセキュリティクラウド — IR情報 | 株式会社 サイバーセキュリティクラウド 株式会社サイバーセキュリティクラウド https://www.cscloud.co.jp > ...」（https://www.cscloud.co.jp/ir/・3回目）
+  - 「サイバーセキュリティクラウド [4493]：2025年12月期 通期 ... — サイバーセキュリティクラウド [4493]：2025年12月期 通期 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr」（https://www.nikkei.com/nkd/disclosure/tdnr/20260213559860/・3回目）
+  - 「よくあるご質問 | IR情報 | 株式会社 サイバーセキュリティ ... — よくあるご質問 | IR情報 | 株式会社 サイバーセキュリティ ... 株式会社サイバーセキュリティクラウド https://www.cscloud.co.jp > IR情報」（https://www.cscloud.co.jp/ir/faq/・3回目）
+  - 「会社概要・役員一覧 | 株式会社 サイバーセキュリティクラウド — 会社概要・役員一覧 | 株式会社 サイバーセキュリティクラウド 株式会社サイバーセキュリティクラウド https://www.cscloud.co.jp > 企業情報」（https://www.cscloud.co.jp/about/company/・3回目）
+  - 「サイバーセキュリティクラウド の企業情報 - CFN — サイバーセキュリティクラウド の企業情報 - CFN CFN https://careerforum.net > company_list > company_detail」（https://careerforum.net/ja/company_list/5028/company_detail/・3回目）
+  - 「サービス | 株式会社 サイバーセキュリティクラウド — サービス | 株式会社 サイバーセキュリティクラウド 株式会社サイバーセキュリティクラウド https://www.cscloud.co.jp > service」（https://www.cscloud.co.jp/service/・3回目）
+  - 「社長 名鑑に代表取締役 社長 兼 CEO 小池敏弘の インタビュー ... — 社長 名鑑に代表取締役 社長 兼 CEO 小池敏弘の インタビュー ... 株式会社サイバーセキュリティクラウド https://www.cscloud.co.jp > news > media」（https://www.cscloud.co.jp/news/media/202502257901/・3回目）
+  - 「【公式】 サイバーセキュリティクラウド (@CSC_JP) / X — 【公式】 サイバーセキュリティクラウド (@CSC_JP) / X X https://x.com > CSC_JP」（https://x.com/CSC_JP・3回目）
+- 従業員数：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部0頁・検索5回）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部0頁・検索5回）
+- 売上構成：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部0頁・検索5回）
 
 ## サイバーソリューションズ
 - 公式URL：https://www.cybersolutions.co.jp/（search:yahoo_jp:サイバーソリューションズ）
@@ -7441,6 +11638,107 @@
   - 「会社概要 - サムコ株式会社 — 会社概要 - サムコ株式会社 サムコ株式会社 https://www.samco.co.jp > 企業情報」（https://www.samco.co.jp/company/outline/・3回目）
   - 「社長 室 N.Y.｜社員 インタビュー - サムコ株式会社 — 社長 室 N.Y.｜社員 インタビュー - サムコ株式会社 サムコ株式会社 https://www.samco.co.jp > ... > 社員インタビュー」（https://www.samco.co.jp/recruit/company/voice/voice05/・3回目）
 
+## サンフロンティア不動産
+- 公式URL：https://www.sunfrt.co.jp/（search:yahoo_jp:サンフロンティア不動産）
+- 設立：1999年（平成11年）4月8日（https://www.sunfrt.co.jp/company/profile_comp/・1回目）
+- 設立：2013年3月1日（https://www.sunfrt.co.jp/business/yoko/・1回目）
+- 従業員数：正社員 1,076名（パート・アルバイト含む 1,949名） ※サンフロンティアグループ合計（https://www.sunfrt.co.jp/company/profile_comp/・1回目）
+- 事業内容：オフィスビル事業 不動産再生事業 リプランニング ニューヨーク不動産再生 新築ビル・レジデンシャル 賃貸ビル 不動産小口所有商品 不動産サービス事業 売買仲介 プロパティマネジメント リーシングマネジメント 滞納賃料保証 ビルメンテナンス サブリース 貸会議室 土地有効活用 資産コンサルティング 対日不動産投資コンサルティング ホテル・観光事業 ホテル運営 ホテル開発・再生・販売 地域創生・観光 その他 （海外開発事業・建設事業等） 海外開発事業 建設事業（https://www.sunfrt.co.jp/・1回目）
+- 事業内容：事業内容トップ オフィスビル事業 不動産再生事業 ・リプランニング ・ニューヨーク不動産再生 ・新築ビル・レジデンシャル ・賃貸ビル ・不動産小口所有商品 不動産サービス事業 ・売買仲介 ・プロパティマネジメント ・リーシングマネジメント ・滞納賃料保証 ・ビルメンテナンス ・サブリース ・貸会議室 ・土地有効活用 ・資産コンサルティング ・対日不動産投資コンサルティング ホテル・観光事業 ホテル運営 ホテル開発・再生・販売 地域創生・観光 その他（海外開発事業・建設事業等） 海外開発事業 建設事業 環境エネルギー事業（https://www.sunfrt.co.jp/・1回目）
+- 事業内容：オフィスビル事業 不動産再生事業 リプランニング ニューヨーク不動産再生 新築ビル・レジデンシャル 賃貸ビル 不動産小口所有商品 不動産サービス事業 売買仲介 プロパティマネジメント リーシングマネジメント 滞納賃料保証 ビルメンテナンス サブリース 貸会議室 土地有効活用 資産コンサルティング 対日不動産投資コンサルティング ホテル・観光事業 ホテル運営 ホテル開発・再生・販売 地域創生・観光 その他 （海外開発事業・建設事業等） 海外開発事業 建設事業（https://www.sunfrt.co.jp/inquiry/・1回目）
+- ビジネスモデル：
+  - 「独自のビジネスモデルを形成」（https://www.sunfrt.co.jp/business/・1回目）
+  - 「サンフロンティア独自のビジネスモデル」（https://www.sunfrt.co.jp/business/replanning/・1回目）
+- 誰に：
+  - 「お客様に寄り添い、」（https://www.sunfrt.co.jp/・1回目）
+  - 「お客様窓口 | サンフロンティア不動産株式会社」（https://www.sunfrt.co.jp/inquiry_cs/・1回目）
+  - 「お客様窓口 |」（https://www.sunfrt.co.jp/inquiry_cs/・1回目）
+  - 「私たちは、お客様」（https://www.sunfrt.co.jp/inquiry_cs/・1回目）
+  - 「お客様お一人おひとりに寄り添い、同じ視点、同じ方向を見て思いやニーズを共有することを大切にしてきました」（https://www.sunfrt.co.jp/inquiry_cs/・1回目）
+  - 「徹底したお客様視点からの “ものづくり力” と “心温かいサービス力” をベースに、」（https://www.sunfrt.co.jp/company/strong/・1回目）
+  - 「徹底したお客様視点による」（https://www.sunfrt.co.jp/company/strong/・1回目）
+  - 「フィロソフィの共有によって、お客様第一で全てを考え、自らが絶えず進化し、挑戦・創造・前進することで、徹底したお客様視点のものづくりと心温かいサービスを創出」（https://www.sunfrt.co.jp/company/strong/・1回目）
+  - 「お客様から愛され、選んでいただける企業を目指しています」（https://www.sunfrt.co.jp/company/strong/・1回目）
+  - 「まず一番身近な仲間のために働き、お客様には仲間の力を結集して10倍の貢献を目指します」（https://www.sunfrt.co.jp/company/strong/・1回目）
+  - 「お客様に複合的で大きな幸せを提供することで、豊かな社会の実現に貢献します」（https://www.sunfrt.co.jp/company/strong/・1回目）
+  - 「お客様視点で変化する経営」（https://www.sunfrt.co.jp/company/strong/・1回目）
+- 何を：
+  - 「不動産小口所有商品」（https://www.sunfrt.co.jp/・1回目）
+  - 「不動産サービス事業」（https://www.sunfrt.co.jp/・1回目）
+  - 「・不動産小口所有商品」（https://www.sunfrt.co.jp/・1回目）
+  - 「金融商品の販売等に係る勧誘方針」（https://www.sunfrt.co.jp/・1回目）
+  - 「金融商品取引等に関する苦情等についての対応のご案内」（https://www.sunfrt.co.jp/・1回目）
+  - 「東京都心のオフィスビルの再生を中核に、売買・賃貸仲介や管理、ビルメンテナンス、滞納賃料保証、貸会議室運営等、専門部署が連携し、多様なサービスをワンストップで提供しています」（https://www.sunfrt.co.jp/・1回目）
+  - 「不動産小口所有商品」（https://www.sunfrt.co.jp/inquiry/・1回目）
+  - 「不動産サービス事業」（https://www.sunfrt.co.jp/inquiry/・1回目）
+  - 「・不動産小口所有商品」（https://www.sunfrt.co.jp/inquiry/・1回目）
+  - 「金融商品の販売等に係る勧誘方針」（https://www.sunfrt.co.jp/inquiry/・1回目）
+  - 「金融商品取引等に関する苦情等についての対応のご案内」（https://www.sunfrt.co.jp/inquiry/・1回目）
+  - 「当社グループへのご意見やご質問、事業‧サービス、IR‧ニュースリリース、株主‧投資家情報に関するお問い合わせなど、下記のお問い合わせフォーム、」（https://www.sunfrt.co.jp/inquiry/・1回目）
+- どうやって売るか：
+  - 「拠点・店舗一覧」（https://www.sunfrt.co.jp/・1回目）
+  - 「サンフロンティアを動画でご紹介」（https://www.sunfrt.co.jp/・1回目）
+  - 「「拠点・店舗一覧」をご覧ください」（https://www.sunfrt.co.jp/・1回目）
+  - 「拠点・店舗一覧」（https://www.sunfrt.co.jp/inquiry/・1回目）
+  - 「サンフロンティアを動画でご紹介」（https://www.sunfrt.co.jp/inquiry/・1回目）
+  - 「「拠点・店舗一覧」をご覧ください」（https://www.sunfrt.co.jp/inquiry/・1回目）
+  - 「拠点・店舗一覧」（https://www.sunfrt.co.jp/inquiry_cs/・1回目）
+  - 「サンフロンティアを動画でご紹介」（https://www.sunfrt.co.jp/inquiry_cs/・1回目）
+  - 「「拠点・店舗一覧」をご覧ください」（https://www.sunfrt.co.jp/inquiry_cs/・1回目）
+  - 「拠点・店舗一覧」（https://www.sunfrt.co.jp/company/strong/・1回目）
+  - 「サンフロンティアを動画でご紹介」（https://www.sunfrt.co.jp/company/strong/・1回目）
+  - 「「拠点・店舗一覧」をご覧ください」（https://www.sunfrt.co.jp/company/strong/・1回目）
+- お金の形：
+  - 「有線LAN・無線LANなどの通信ネットワーク環境構築、保守やレイアウト提案」（https://www.sunfrt.co.jp/business/ks/・1回目）
+- 売上構成：
+  - 「セグメント情報」（https://www.sunfrt.co.jp/ir/・1回目）
+  - 「事業の特長をセグメントごとにご紹介します」（https://www.sunfrt.co.jp/ir/to_individual_investors/・1回目）
+  - 「セグメント情報」（https://www.sunfrt.co.jp/ir/to_individual_investors/・1回目）
+  - 「セグメント情報」（https://www.sunfrt.co.jp/ir/business_policy_and_strategy/・1回目）
+  - 「セグメント情報」（https://www.sunfrt.co.jp/ir/performance_and_financial/・1回目）
+  - 「セグメント別の業績推移を掲載しております」（https://www.sunfrt.co.jp/ir/performance_and_financial/・1回目）
+  - 「セグメント情報」（https://www.sunfrt.co.jp/ir/stock_information/・1回目）
+- 利益の源泉：
+  - 「サンフロンティアの強み」（https://www.sunfrt.co.jp/・1回目）
+  - 「サンフロンティアの強み」（https://www.sunfrt.co.jp/inquiry/・1回目）
+  - 「サンフロンティアの強み」（https://www.sunfrt.co.jp/inquiry_cs/・1回目）
+  - 「サンフロンティアの強み｜サンフロンティアについて｜サンフロンティア不動産株式会社」（https://www.sunfrt.co.jp/company/strong/・1回目）
+  - 「サンフロンティアの強み」（https://www.sunfrt.co.jp/company/strong/・1回目）
+  - 「サンフロンティアの強み」（https://www.sunfrt.co.jp/company/profile_comp/・1回目）
+  - 「サンフロンティアの強み」（https://www.sunfrt.co.jp/company/history/・1回目）
+  - 「サンフロンティアの強み」（https://www.sunfrt.co.jp/business/・1回目）
+  - 「「サンフロンティアの強み」を」（https://www.sunfrt.co.jp/business/・1回目）
+  - 「サンフロンティアの強み」（https://www.sunfrt.co.jp/business/replanning/・1回目）
+  - 「低稼働ビルを、社会から求められる高収益不動産に再生」（https://www.sunfrt.co.jp/business/replanning/・1回目）
+  - 「空室による収益性低下や老朽化した都心の中規模ビルを当社で購入させていただき、テナント様に選ばれ、高収益をもたらすビルへとバリューアップしたうえで、個人や事業法人、機関投資家の皆様へ販売します」（https://www.sunfrt.co.jp/business/replanning/・1回目）
+- 沿革：
+  - 「2026年10月29日」（https://www.sunfrt.co.jp/・1回目）
+  - 「2026年10月21日」（https://www.sunfrt.co.jp/・1回目）
+  - 「2026年10月16日」（https://www.sunfrt.co.jp/・1回目）
+  - 「2026年10月15日」（https://www.sunfrt.co.jp/・1回目）
+  - 「2026年10月13日」（https://www.sunfrt.co.jp/・1回目）
+  - 「1999年（平成11年）4月8日」（https://www.sunfrt.co.jp/company/profile_comp/・1回目）
+  - 「沿革｜サンフロンティアについて｜サンフロンティア不動産株式会社」（https://www.sunfrt.co.jp/company/history/・1回目）
+  - 「1999年に創業したサンフロンティアのあゆみを沿革でご紹介します」（https://www.sunfrt.co.jp/company/history/・1回目）
+  - 「1990年代」（https://www.sunfrt.co.jp/company/history/・1回目）
+  - 「2000年代」（https://www.sunfrt.co.jp/company/history/・1回目）
+  - 「2010年代」（https://www.sunfrt.co.jp/company/history/・1回目）
+  - 「2020年代」（https://www.sunfrt.co.jp/company/history/・1回目）
+- 検索結果の抜粋：
+  - 「事業内容｜ サンフロンティア不動産 株式会社 — 事業内容｜ サンフロンティア不動産 株式会社 サンフロンティア不動産株式会社 https://www.sunfrt.co.jp > business」（https://www.sunfrt.co.jp/business/・3回目）
+  - 「サンフロンティア の強み — サンフロンティア の強み サンフロンティア不動産株式会社 https://www.sunfrt.co.jp > company > strong」（https://www.sunfrt.co.jp/company/strong/・3回目）
+  - 「サンフロンティア不動産 株式会社 - Shared Research — サンフロンティア不動産 株式会社 - Shared Research Shared Research https://sharedresearch.jp > companies > report」（https://sharedresearch.jp/ja/companies/8934/report/6542f209d90121000ed4bffc・3回目）
+  - 「【27卒】 サンフロンティア不動産 の志望動機30例×面接 ... - note — 【27卒】 サンフロンティア不動産 の志望動機30例×面接 ... - note note https://note.com > キャリア > 就職活動」（https://note.com/jobhuntkeyence/n/nfac1a73ecb80・3回目）
+  - 「トップ・メッセージ｜ サンフロンティア グループの ... — トップ・メッセージ｜ サンフロンティア グループの ... サンフロンティア不動産株式会社 https://www.sunfrt.co.jp > management > message」（https://www.sunfrt.co.jp/sustainability/management/message/・3回目）
+  - 「決算 関連 資料 ・有価証券報告書 - サンフロンティア不動産 — 決算 関連 資料 ・有価証券報告書 - サンフロンティア不動産 サンフロンティア不動産株式会社 https://www.sunfrt.co.jp > ir_doc > financial_statements_a...」（https://www.sunfrt.co.jp/ir/ir_doc/financial_statements_and_related_documents/・3回目）
+  - 「2027年3月期 第1四半期 決算説明 会 | IR動画ライブラリ | IR 資料 — 2027年3月期 第1四半期 決算説明 会 | IR動画ライブラリ | IR 資料 サンフロンティア不動産株式会社 https://www.sunfrt.co.jp > ir_doc > video_library」（https://www.sunfrt.co.jp/ir/ir_doc/video_library/20260807/・3回目）
+  - 「株主・投資家情報 | サンフロンティア不動産 株式会社 — 株主・投資家情報 | サンフロンティア不動産 株式会社 サンフロンティア不動産株式会社 https://www.sunfrt.co.jp > ...」（https://www.sunfrt.co.jp/ir/・3回目）
+  - 「【 サンフロンティア不動産 】[8934]有価証券報告書 | 日経電子版 — 【 サンフロンティア不動産 】[8934]有価証券報告書 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > ednr」（https://www.nikkei.com/nkd/company/ednr/?scode=8934・3回目）
+  - 「IR カレンダー | 株主・投資家情報 - サンフロンティア不動産 — IR カレンダー | 株主・投資家情報 - サンフロンティア不動産 サンフロンティア不動産株式会社 https://www.sunfrt.co.jp > ir_calender」（https://www.sunfrt.co.jp/ir/ir_calender/・3回目）
+  - 「組織図｜ サンフロンティア について — 組織図｜ サンフロンティア について サンフロンティア不動産株式会社 https://www.sunfrt.co.jp > company > organization」（https://www.sunfrt.co.jp/company/organization/・3回目）
+  - 「サンフロンティアについて | サンフロンティア不動産 株式会社 — サンフロンティアについて | サンフロンティア不動産 株式会社 サンフロンティア不動産株式会社 https://www.sunfrt.co.jp > company」（https://www.sunfrt.co.jp/company/・3回目）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像9件／外部0頁・検索5回）
+
 ## サンリオ
 - 公式URL：https://www.sanrio.co.jp/（search:yahoo_jp:サンリオ）
 - ビジネスモデル：
@@ -7555,6 +11853,111 @@
 - 従業員数：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部8頁・検索5回）
 - 事業内容：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部8頁・検索5回）
 - 売上高：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部8頁・検索5回）
+
+## シェアリングテクノロジー
+- 公式URL：https://www.sharing-tech.co.jp/（search:yahoo_jp:シェアリングテクノロジー）
+- 売上高：1,868,701千円（https://kitaishihon.com/company/3989/board-of-director・3回目）
+- ビジネスモデル：
+  - 「収益構造を分解した各指標の推移（売上収益）」（https://www.sharing-tech.co.jp/_ir/pdf/2026_Q3_1/presentation.pdf・2回目）
+  - 「収益構造を分解した各指標の推移（費用項目）」（https://www.sharing-tech.co.jp/_ir/pdf/2026_Q3_1/presentation.pdf・2回目）
+  - 「収益構造の分解」（https://www.sharing-tech.co.jp/_ir/pdf/2026_Q3_1/presentation.pdf・2回目）
+  - 「ビジネスモデル集」（https://mirakin.jp/unyuzyouhou/jouhoutsuushin/sharing-tech/・3回目）
+  - 「ビジネスモデル集はこちら」（https://mirakin.jp/unyuzyouhou/jouhoutsuushin/sharing-tech/・3回目）
+- 誰に：
+  - 「暮らしのお困りごとを解決するプラットフォーム「生活110番」、特定ジャンルに絞った「バーティカルメディアサイト」と24時間365日稼働し続けるコールセンターを通じて、街の専門業者を中心に様々な暮らしのお困りごとを解決する加盟店約7,600社とユーザーをつなぎます」（https://www.sharing-tech.co.jp/・1回目）
+  - 「「生活110番」は暮らしの中で発生するお困りごとを解決するため、生活に関する140以上のサービスジャンルからユーザーにとって最適な専門業者を検索・比較し、問い合わせできるプラットフォームサイトです」（https://www.sharing-tech.co.jp/・1回目）
+  - 「特定テーマに興味を持つユーザーに、効率的に有益な情報を届けることができるバーティカルメディアサイト」（https://www.sharing-tech.co.jp/・1回目）
+  - 「なお、個人情報、顧客情報及び関係者の権利を侵害することになる情報につきましては開示いたしません」（https://www.sharing-tech.co.jp/ir/disclosure-policy/・1回目）
+  - 「投資に関する決定は利用者ご自身の判断でなさるようお願いいたします」（https://www.sharing-tech.co.jp/ir/disclosure-policy/・1回目）
+  - 「暮らしに関する140以上のサービスジャンルからユーザーにとって最適な専門業者を紹介しマッチングするプラットフォームサイトです」（https://www.sharing-tech.co.jp/service/・1回目）
+  - 「ユーザーからのご相談には、24時間365日年中無休のコールセンターにて専任のスタッフが迅速丁寧に受付対応させていただいております」（https://www.sharing-tech.co.jp/service/・1回目）
+  - 「サイト訪問者がもつ課題を効率的に解決できるユーザーメリットの高いサイト群です」（https://www.sharing-tech.co.jp/service/・1回目）
+  - 「累計5万件以上の実績があり、高い技術力でお客様の清潔で快適な暮らしをサポートします」（https://www.sharing-tech.co.jp/service/・1回目）
+  - 「「プラットフォーム事業」・・・ユーザーが抱える『暮らしのお困りごと』を解決するライフサービスのマ」（https://www.sharing-tech.co.jp/_ir/pdf/2026_Q3_1/results.pdf・2回目）
+  - 「「自社施工事業」・・・当社が集客したユーザーに対し、当社グループが元請となり、施工までの」（https://www.sharing-tech.co.jp/_ir/pdf/2026_Q3_1/results.pdf・2回目）
+  - 「外部顧客への売上収益 4,543,192 1,492,722 6,035,914 ― 6,035,914」（https://www.sharing-tech.co.jp/_ir/pdf/2026_Q3_1/results.pdf・2回目）
+- 何を：
+  - 「「生活110番」は暮らしの中で発生するお困りごとを解決するため、生活に関する140以上のサービスジャンルからユーザーにとって最適な専門業者を検索・比較し、問い合わせできるプラットフォームサイトです」（https://www.sharing-tech.co.jp/・1回目）
+  - 「サービス品質の向上や事業発展を共に目指す、良きパートナーを随時募集しておりますので、是非こちらのページからご相談ください」（https://www.sharing-tech.co.jp/・1回目）
+  - 「インターネット回線の取次サービスを提供する「ネット110番事業」を開始」（https://www.sharing-tech.co.jp/history/・1回目）
+  - 「当社は、金融商品取引法等の諸法令及び東京証券取引所の定める有価証券上場規程の「会社情報の適時開示等」（以下「適時開示規則」といいます」（https://www.sharing-tech.co.jp/ir/disclosure-policy/・1回目）
+  - 「暮らしのお困りごと（一般家庭で生じる生活トラブル関連サービス）を対象としたWEB事業を展開しております」（https://www.sharing-tech.co.jp/service/・1回目）
+  - 「暮らしに関する140以上のサービスジャンルからユーザーにとって最適な専門業者を紹介しマッチングするプラットフォームサイトです」（https://www.sharing-tech.co.jp/service/・1回目）
+  - 「特定のライフサービスに関連する情報を発信しており、」（https://www.sharing-tech.co.jp/service/・1回目）
+  - 「シロアリ110番は「平米あたり税込1,320円」の低価格でシロアリ駆除や予防・点検をご依頼できるサービスです」（https://www.sharing-tech.co.jp/service/・1回目）
+  - 「ハチ110番は税込12,100円から最短10分の迅速対応でハチ駆除・蜂退治、蜂の巣駆除をご依頼できるサービスです」（https://www.sharing-tech.co.jp/service/・1回目）
+  - 「害獣駆除110番はハクビシンやイタチなどの害獣駆除、再発予防をご依頼いただける加盟店をご紹介するサービスです」（https://www.sharing-tech.co.jp/service/・1回目）
+  - 「ねずみ110番はねずみの駆除だけでなく再発防止も可能な加盟店をご紹介するサービスです」（https://www.sharing-tech.co.jp/service/・1回目）
+  - 「害虫駆除110番はゴキブリやクロアリ、ムカデといった害虫を1年間の保証付きで駆除できる加盟店をご紹介するサービスです」（https://www.sharing-tech.co.jp/service/・1回目）
+- どうやって売るか：
+  - 「サービス品質の向上や事業発展を共に目指す、良きパートナーを随時募集しておりますので、是非こちらのページからご相談ください」（https://www.sharing-tech.co.jp/・1回目）
+  - 「フランチャイズの窓口株式会社の子会社化」（https://www.sharing-tech.co.jp/history/・1回目）
+  - 「暮らしに関する140以上のサービスジャンルからユーザーにとって最適な専門業者を紹介しマッチングするプラットフォームサイトです」（https://www.sharing-tech.co.jp/service/・1回目）
+  - 「害獣駆除110番はハクビシンやイタチなどの害獣駆除、再発予防をご依頼いただける加盟店をご紹介するサービスです」（https://www.sharing-tech.co.jp/service/・1回目）
+  - 「ねずみ110番はねずみの駆除だけでなく再発防止も可能な加盟店をご紹介するサービスです」（https://www.sharing-tech.co.jp/service/・1回目）
+  - 「害虫駆除110番はゴキブリやクロアリ、ムカデといった害虫を1年間の保証付きで駆除できる加盟店をご紹介するサービスです」（https://www.sharing-tech.co.jp/service/・1回目）
+  - 「雨漏り修理110番は熟練の雨漏り修理加盟店をご紹介するサービスです」（https://www.sharing-tech.co.jp/service/・1回目）
+  - 「カーバッテリー110番は車のバッテリー上がりの解消に加え、バッテリーの交換までご依頼いただける加盟店を紹介するサービスです」（https://www.sharing-tech.co.jp/service/・1回目）
+  - 「草刈り110番はお庭などの面倒な草刈り、草むしり、芝刈りを対応可能な加盟店をご紹介するサービスです」（https://www.sharing-tech.co.jp/service/・1回目）
+  - 「伐採110番は庭木・植木の【伐採・剪定・抜根・後処理】を対応し、木の処分をご依頼いただける加盟店をご紹介するサービスです」（https://www.sharing-tech.co.jp/service/・1回目）
+  - 「剪定110番はお庭や樹園など庭木を1本から剪定する加盟店をご紹介するサービスです」（https://www.sharing-tech.co.jp/service/・1回目）
+  - 「張り替え110番は網戸や襖、畳、障子の張り替え可能な加盟店をご紹介するサービスです」（https://www.sharing-tech.co.jp/service/・1回目）
+- お金の形：
+  - 「問い合わせ件数 問い合わせあたり単価」（https://www.sharing-tech.co.jp/_ir/pdf/2026_Q3_1/presentation.pdf・2回目）
+  - 「問い合わせ件数は、当第3四半期は高単価の案件に意図的に注力したことで若干減少」（https://www.sharing-tech.co.jp/_ir/pdf/2026_Q3_1/presentation.pdf・2回目）
+  - 「せあたり単価は、マッチング最適化と高単価案件の注力に加え、自社施工の主軸であるアズサ」（https://www.sharing-tech.co.jp/_ir/pdf/2026_Q3_1/presentation.pdf・2回目）
+  - 「料を得る成約ベースと、紹介した時点で手数料を得る紹介ベースで構成」（https://www.sharing-tech.co.jp/_ir/pdf/2026_Q3_1/presentation.pdf・2回目）
+  - 「⑤手数料支払い」（https://www.sharing-tech.co.jp/_ir/pdf/2026_Q3_1/presentation.pdf・2回目）
+  - 「問い合わせあたり単価」（https://www.sharing-tech.co.jp/_ir/pdf/2026_Q3_1/presentation.pdf・2回目）
+  - 「り単価の数値として表され、問い合わせ件数はトラフィック、問い合わせ率（CVR）に分解、問」（https://www.sharing-tech.co.jp/_ir/pdf/2026_Q3_1/presentation.pdf・2回目）
+  - 「い合わせあたり単価は成約率、支払価格、手数料率に分解できる」（https://www.sharing-tech.co.jp/_ir/pdf/2026_Q3_1/presentation.pdf・2回目）
+  - 「KPI ＝ トラフィック × 問い合わせ率（CVR） × 成約率 × 支払価格 × 手数料率」（https://www.sharing-tech.co.jp/_ir/pdf/2026_Q3_1/presentation.pdf・2回目）
+- 売上構成：
+  - 「（セグメント情報等） …………………………………………………………………………………………11」（https://www.sharing-tech.co.jp/_ir/pdf/2026_Q3_1/results.pdf・2回目）
+  - 「セグメントごとの売上収益については、プラットフォーム事業が4,483,723千円(前年同期比1.3%減)、自社施工」（https://www.sharing-tech.co.jp/_ir/pdf/2026_Q3_1/results.pdf・2回目）
+  - 「（セグメント情報等）」（https://www.sharing-tech.co.jp/_ir/pdf/2026_Q3_1/results.pdf・2回目）
+  - 「（1）報告セグメントの概要」（https://www.sharing-tech.co.jp/_ir/pdf/2026_Q3_1/results.pdf・2回目）
+  - 「当社グループの報告セグメントは、当社グループの構成単位のうち分離された財務情報が入手可能であり、取」（https://www.sharing-tech.co.jp/_ir/pdf/2026_Q3_1/results.pdf・2回目）
+  - 「業」及び「自社施工事業」の2区分を報告セグメントとしております」（https://www.sharing-tech.co.jp/_ir/pdf/2026_Q3_1/results.pdf・2回目）
+  - 「なお、事業セグメントの集約は行っておりません」（https://www.sharing-tech.co.jp/_ir/pdf/2026_Q3_1/results.pdf・2回目）
+  - 「報告されている事業セグメントの会計処理の方法は、連結財務諸表作成のために採用している方法と同一であ」（https://www.sharing-tech.co.jp/_ir/pdf/2026_Q3_1/results.pdf・2回目）
+  - 「（2）報告セグメントの収益及び実績」（https://www.sharing-tech.co.jp/_ir/pdf/2026_Q3_1/results.pdf・2回目）
+  - 「報告セグメント 調整額」（https://www.sharing-tech.co.jp/_ir/pdf/2026_Q3_1/results.pdf・2回目）
+  - 「セグメント間の内部売上高」（https://www.sharing-tech.co.jp/_ir/pdf/2026_Q3_1/results.pdf・2回目）
+  - 「セグメント利益(注)1 1,889,141 187,565 2,076,706 △636,132 1,440,574」（https://www.sharing-tech.co.jp/_ir/pdf/2026_Q3_1/results.pdf・2回目）
+- 利益の源泉：
+  - 「（営業利益率）」（https://www.sharing-tech.co.jp/_ir/pdf/2026_Q3_1/presentation.pdf・2回目）
+  - 「トラブルを減らすために優良業者のみを選定してマッチングし、加盟店さんと一緒に成長していく、困っている時こそすぐに安心してイメージを伝えられる電話での対応でマッチングならではの強みなど、実際にお話を伺うことで工夫や戦略を知ることができました！」（https://mirakin.jp/unyuzyouhou/jouhoutsuushin/sharing-tech/・3回目）
+  - 「－シェアリングテクノロジーならではの強みややりがいとはなんでしょうか？市川さん：も...」（https://www.wantedly.com/companies/sharing-tech/stories・3回目）
+- 沿革：
+  - 「沿革 || SHARINGTECHNOLOGY INC.」（https://www.sharing-tech.co.jp/history/・1回目）
+  - 「2026年9月期第3四半期」（https://www.sharing-tech.co.jp/ir/・1回目）
+  - 「2006年11月24日となります」（https://www.sharing-tech.co.jp/ir/stockholders/・1回目）
+  - 「2026年9月期 第3四半期決算短信〔ＩＦＲＳ〕(連結)」（https://www.sharing-tech.co.jp/_ir/pdf/2026_Q3_1/results.pdf・2回目）
+  - 「2026年8月14日」（https://www.sharing-tech.co.jp/_ir/pdf/2026_Q3_1/results.pdf・2回目）
+  - 「2026年9月期第3四半期 6,851 13.5 2,993 107.8 2,991 107.9 2,044 107.4 2,051 114.4 2,044 107.4」（https://www.sharing-tech.co.jp/_ir/pdf/2026_Q3_1/results.pdf・2回目）
+  - 「2025年9月期第3四半期 6,035 14.6 1,440 18.7 1,438 18.3 985 △3.4 956 △4.5 985 △3.4」（https://www.sharing-tech.co.jp/_ir/pdf/2026_Q3_1/results.pdf・2回目）
+  - 「2026年9月期第3四半期 85.71 84.67」（https://www.sharing-tech.co.jp/_ir/pdf/2026_Q3_1/results.pdf・2回目）
+  - 「2025年9月期第3四半期 41.11 40.18」（https://www.sharing-tech.co.jp/_ir/pdf/2026_Q3_1/results.pdf・2回目）
+  - 「2026年9月期第3四半期 8,544 5,642 5,642 66.03」（https://www.sharing-tech.co.jp/_ir/pdf/2026_Q3_1/results.pdf・2回目）
+  - 「2025年9月期 7,437 5,200 5,156 69.33」（https://www.sharing-tech.co.jp/_ir/pdf/2026_Q3_1/results.pdf・2回目）
+  - 「2025年9月期 ― 0.00 ― 40.00 40.00」（https://www.sharing-tech.co.jp/_ir/pdf/2026_Q3_1/results.pdf・2回目）
+- 検索結果の抜粋：
+  - 「IR || SHARINGTECHNOLOGY INC. — IR || SHARINGTECHNOLOGY INC. シェアリングテクノロジー株式会社 https://www.sharing-tech.co.jp > ...」（https://www.sharing-tech.co.jp/ir/・3回目）
+  - 「シェアリングテクノロジー [3989]：2025年9月期 決算説明資料 ... — シェアリングテクノロジー [3989]：2025年9月期 決算説明資料 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr」（https://www.nikkei.com/nkd/disclosure/tdnr/20251114503372/・3回目）
+  - 「シェアリングテクノロジー 【3989】のIR 資料 — シェアリングテクノロジー 【3989】のIR 資料 バフェット・コード https://www.buffett-code.com > company > library」（https://www.buffett-code.com/company/3989/library・3回目）
+  - 「シェアリングテクノロジー 【3989】のIR 資料 - キタイシホン — シェアリングテクノロジー 【3989】のIR 資料 - キタイシホン キタイシホン https://kitaishihon.com > company > ir-library」（https://kitaishihon.com/company/3989/ir-library・3回目）
+  - 「シェアリングテクノロジー (株)【3989】 - 未来金融研究部 — シェアリングテクノロジー (株)【3989】 - 未来金融研究部 未来金融研究部 https://mirakin.jp > ... > 東証グロース > 名古屋市 > 愛知県」（https://mirakin.jp/unyuzyouhou/jouhoutsuushin/sharing-tech/・3回目）
+  - 「シェアリングテクノロジー 株式会社の働き方とストーリー — シェアリングテクノロジー 株式会社の働き方とストーリー Wantedly https://www.wantedly.com > sharing-tech > stories」（https://www.wantedly.com/companies/sharing-tech/stories・3回目）
+  - 「シェアリングテクノロジー 株式会社 ... — シェアリングテクノロジー 株式会社 ... シェアリングテクノロジー株式会社 https://www.sharing-tech.co.jp」（https://www.sharing-tech.co.jp/・3回目）
+  - 「シェアリングテクノロジー 【3989】の 事業 内容 - キタイシホン — シェアリングテクノロジー 【3989】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/3989/business・3回目）
+  - 「【 シェアリングテクノロジー 】[3989]企業概要 ... - 日本経済新聞 — 【 シェアリングテクノロジー 】[3989]企業概要 ... - 日本経済新聞 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo」（https://www.nikkei.com/nkd/company/gaiyo/?scode=3989・3回目）
+  - 「社員 インタビュー - 本山 - シェアリングテクノロジー株式会社 — 社員 インタビュー - 本山 - シェアリングテクノロジー株式会社 シェアリングテクノロジー株式会社 https://recruit.sharing-tech.co.jp > interview > motoyama」（https://recruit.sharing-tech.co.jp/interview/motoyama/・3回目）
+  - 「シェアリングテクノロジー 【3989】の 社長 ・役員 - キタイシホン — シェアリングテクノロジー 【3989】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director」（https://kitaishihon.com/company/3989/board-of-director・3回目）
+  - 「シェアリングテクノロジー 代表取締役CEOに片山善隆氏 — シェアリングテクノロジー 代表取締役CEOに片山善隆氏 日本経済新聞 https://www.nikkei.com > article」（https://www.nikkei.com/article/DGXZQOFD178OO0X11C25A1000000/・3回目）
+- 設立：記載なし（3回確認済み：公式11頁／PDF・画像5件／外部7頁・検索5回）
+- 従業員数：記載なし（3回確認済み：公式11頁／PDF・画像5件／外部7頁・検索5回）
+- 事業内容：記載なし（3回確認済み：公式11頁／PDF・画像5件／外部7頁・検索5回）
 
 ## シグマクシス・ホールディングス
 - 公式URL：https://www.sigmaxyz.com/（search:yahoo_jp:シグマクシス・ホールディングス）
@@ -7762,6 +12165,72 @@
   - 「決算 短信 | IRライブラリ | 投資家情報 — 決算 短信 | IRライブラリ | 投資家情報 システム・ロケーション株式会社 https://www.slc.jp > library > financial_reports」（https://www.slc.jp/ir/library/financial_reports.html・3回目）
   - 「システム ・ ロケーション について | 個人投資家の皆様へ — システム ・ ロケーション について | 個人投資家の皆様へ システム・ロケーション株式会社 https://www.slc.jp > investor > about」（https://www.slc.jp/ir/investor/about.html・3回目）
   - 「システム ・ ロケーション - 日本経済新聞 — システム ・ ロケーション - 日本経済新聞 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo」（https://www.nikkei.com/nkd/company/gaiyo/?scode=2480・3回目）
+
+## ショーボンドホールディングス
+- 公式URL：https://www.sho-bondhd.jp/（search:yahoo_jp:ショーボンドホールディングス）
+- 設立：2008年1月4日（https://www.sho-bondhd.jp/company/profile/・1回目）
+- 従業員数：1,068名（2026年6月末現在：連結）（https://www.sho-bondhd.jp/company/profile/・1回目）
+- ビジネスモデル：
+  - 「あの企業の現在地を分析【ビジネスモデル・決算・株価】」（https://www.youtube.com/watch?v=JpENLqMZlDM・3回目）
+- 誰に：
+  - 「本サイトのご利用によって、利用者および第三者に損害およびトラブル（併せて以下、損害等）が発生したとしても、当社は一切その責任を負いません」（https://www.sho-bondhd.jp/ir/・1回目）
+  - 「本サイトは、予告なく、内容が変更されたり、中止されたりすることがありますが、それに伴って利用者および第三者に損害等が発生したとしても、当社は一切その責任を負いません」（https://www.sho-bondhd.jp/ir/・1回目）
+  - 「本サイトからダウンロードしたファイル等の電子情報が、利用者および第三者の情報端末、周辺機器およびアプリケーション等に何らかの影響を及ぼし、それにより利用者および第三者に損害等が発生したとしても、原因のいかんを問わず、当社は一切その責任を負いません」（https://www.sho-bondhd.jp/ir/・1回目）
+  - 「本サイトに、ウィルスその他のマルウェアによる不正な画面が表示され、それにより利用者および第三者に損害等が発生したとしても、当社は一切その責任を負いません」（https://www.sho-bondhd.jp/ir/・1回目）
+  - 「本サイトにおいて、第三者のウェブサイト等を紹介していたとしても、当社は、そのウェブサイト等について何ら推薦および保証をするものではなく、そのウェブサイト等のご利用によって、利用者および第三者に損害等が発生したとしても、一切その責任を負いません」（https://www.sho-bondhd.jp/ir/・1回目）
+- 何を：
+  - 「土木建築用機械器具および製品・材料の製造、販売、施工」（https://www.sho-bondhd.jp/company/profile/・1回目）
+  - 「土木建築用機械器具および製品・材料の輸出入」（https://www.sho-bondhd.jp/company/profile/・1回目）
+  - 「東京大学生産技術研究所などから「ショーボンド」製品の性能試験結果が良好と評価される」（https://www.sho-bondhd.jp/company/history/・1回目）
+  - 「当社は、金融商品取引法および東京証券取引所の定める適時開示規則に基づき情報を開示いたします」（https://www.sho-bondhd.jp/ir/policy/・1回目）
+  - 「バイオマス製品の開発」（https://www.sho-bondhd.jp/csr/environment-policy/・1回目）
+  - 「当社グループは環境負荷低減に向け、バイオマス由来の原料を配合した樹脂系の製品を開発しています」（https://www.sho-bondhd.jp/csr/environment-policy/・1回目）
+  - 「開発した製品は一般社団法人日本有機資源協会（JORA）よりバイオマスマーク認定商品としての認定を受けました」（https://www.sho-bondhd.jp/csr/environment-policy/・1回目）
+  - 「土木建設業界に受け入れられ易くするために、全製品とも主剤と硬化剤の配合比率を整数比とし、建設現場で広く合成樹脂接着剤が導入されるようになりました」（https://www.sho-bondhd.jp/history/・1回目）
+  - 「新製品・新工法の開発に活用されたダイレクトメールと返信用ハガキ」（https://www.sho-bondhd.jp/history/・1回目）
+  - 「東大生研におけるショーボンド製品の接着試験」（https://www.sho-bondhd.jp/history/・1回目）
+  - 「吹雪の中、湯田ダム現場に製品を運ぶ創業者 上田昭」（https://www.sho-bondhd.jp/history/・1回目）
+  - 「これを契機に数多くの高分子材料を土木・建築分野へ応用すべく、新製品・新工法を開発し、また、建設業の東京都知事登録を行い、工事請負体制も確立しました」（https://www.sho-bondhd.jp/history/・1回目）
+- どうやって売るか：
+  - 「本サイトにおいて、第三者のウェブサイト等を紹介していたとしても、当社は、そのウェブサイト等について何ら推薦および保証をするものではなく、そのウェブサイト等のご利用によって、利用者および第三者に損害等が発生したとしても、一切その責任を負いません」（https://www.sho-bondhd.jp/ir/・1回目）
+  - 「協力会社とのパートナーシップ」（https://www.sho-bondhd.jp/ir/library/integrated-report/・1回目）
+  - 「※一部店舗につきましては、株式に関するお手続きの」（https://www.sho-bondhd.jp/ir/stock/procedure/・1回目）
+  - 「【鉄筋防錆】SBLNジェル / 工法・製品紹介 /ショーボンド」（https://www.youtube.com/watch?v=JpENLqMZlDM・3回目）
+- お金の形：
+  - 「昭和50年代末から昭和60年代初めにかけて、社会資本のストックが急激に増大した影響などから橋梁の床版等の損傷が進行し、土木建設業界では「補修の時代」の到来が少しずつ顕在化してきました」（https://www.sho-bondhd.jp/history/・1回目）
+  - 「式または新株予約権に関する取扱いおよび手数料は、法令または定款に定めるもののほ」（https://www.sho-bondhd.jp/pdf/articles_20260101.pdf・2回目）
+- 利益の源泉：
+  - 「これがショーボンドグループの特色であり、強みです」（https://www.sho-bondhd.jp/business/・1回目）
+  - 「1993年、創立35周年を迎えた年には、売上高447億円、営業利益は創業以来最高の34億円を確保し、高収益体質を定着させました」（https://www.sho-bondhd.jp/history/・1回目）
+- 沿革：
+  - 「1964年新潟県昭和大橋の落橋」（https://www.sho-bondhd.jp/・1回目）
+  - 「2008年1月4日」（https://www.sho-bondhd.jp/company/profile/・1回目）
+  - 「沿革 | ショーボンドホールディングス株式会社」（https://www.sho-bondhd.jp/company/history/・1回目）
+  - 「昭和33年6月4日、東京都世田谷区において、「昭和工業株式会社」として設立され、」（https://www.sho-bondhd.jp/company/history/・1回目）
+  - 「各社の沿革のより詳しい内容については、各社のホームページをご参照下さい」（https://www.sho-bondhd.jp/company/history/・1回目）
+  - 「2025年6月期」（https://www.sho-bondhd.jp/ir/library/integrated-report/・1回目）
+  - 「2024年6月期」（https://www.sho-bondhd.jp/ir/library/integrated-report/・1回目）
+  - 「2023年6月期」（https://www.sho-bondhd.jp/ir/library/integrated-report/・1回目）
+  - 「2022年6月期」（https://www.sho-bondhd.jp/ir/library/integrated-report/・1回目）
+  - 「2026年6月期第2四半期末以前の配当金は、株式分割を考慮した金額を記載しております」（https://www.sho-bondhd.jp/ir/stock/dividend/・1回目）
+  - 「1958年6月4日、当社は「昭和工業株式会社」として、東京都世田谷区に設立登記されました」（https://www.sho-bondhd.jp/history/・1回目）
+  - 「1960年には、本社を東京都千代田区に移し、≪ショーボンド≫の販売・施工を開始」（https://www.sho-bondhd.jp/history/・1回目）
+- 検索結果の抜粋：
+  - 「SHO-BOND 統合報告書 2025 - ショーボンドホールディングス — SHO-BOND 統合報告書 2025 - ショーボンドホールディングス ショーボンドホールディングス株式会社 PDF https://www.sho-bondhd.jp > pdf > ir-integratedrepo...」（https://www.sho-bondhd.jp/pdf/ir-integratedreport-2025-A3.pdf・3回目）
+  - 「ショーボンドホールディングス が「中期経営計画2027」を発表 — ショーボンドホールディングス が「中期経営計画2027」を発表 altvega.com https://altvega.com > M&A Insight > 中期経営計画」（https://altvega.com/shobondhd-bp-20240809/・3回目）
+  - 「ショーボンドホールディングス 株式会社 — ショーボンドホールディングス 株式会社 crex-data.com https://www.crex-data.com > 企業」（https://www.crex-data.com/company/1414・3回目）
+  - 「決算短信・ 決算説明 会 資料 - ショーボンドホールディングス — 決算短信・ 決算説明 会 資料 - ショーボンドホールディングス ショーボンドホールディングス株式会社 https://www.sho-bondhd.jp > library > earning」（https://www.sho-bondhd.jp/ir/library/earning/・3回目）
+  - 「IR情報 | ショーボンドホールディングス 株式会社 — IR情報 | ショーボンドホールディングス 株式会社 ショーボンドホールディングス株式会社 https://www.sho-bondhd.jp > ...」（https://www.sho-bondhd.jp/ir/・3回目）
+  - 「ショーボンドホールディングス (1414) 東証プライム 決算 — ショーボンドホールディングス (1414) 東証プライム 決算 松井証券 https://finance.matsui.co.jp > stock > settlement」（https://finance.matsui.co.jp/stock/1414/settlement/index・3回目）
+  - 「【 ショーボンドホールディングス 】[1414]IR ... - 日本経済新聞 — 【 ショーボンドホールディングス 】[1414]IR ... - 日本経済新聞 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo」（https://www.nikkei.com/nkd/company/kigyo/?scode=1414・3回目）
+  - 「ショーボンドホールディングス 株式会社 決算説明資料 — ショーボンドホールディングス 株式会社 決算説明資料 EDINET DB https://edinetdb.jp > ... > IR資料」（https://edinetdb.jp/company/E00329/presentations/・3回目）
+  - 「統合報告書 - ショーボンドホールディングス — 統合報告書 - ショーボンドホールディングス ショーボンドホールディングス株式会社 PDF https://www.sho-bondhd.jp > pdf > ir-integratedrepo...」（https://www.sho-bondhd.jp/pdf/ir-integratedreport-2022-A4.pdf・3回目）
+  - 「ショーボンドホールディングス 【1414】の 事業 内容 — ショーボンドホールディングス 【1414】の 事業 内容 キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/1414/business・3回目）
+  - 「会社概要 | ショーボンドホールディングス 株式会社 — 会社概要 | ショーボンドホールディングス 株式会社 ショーボンドホールディングス株式会社 https://www.sho-bondhd.jp > company > profile」（https://www.sho-bondhd.jp/company/profile/・3回目）
+  - 「トップメッセージ | ショーボンドホールディングス 株式会社 — トップメッセージ | ショーボンドホールディングス 株式会社 ショーボンドホールディングス株式会社 https://www.sho-bondhd.jp > company > message」（https://www.sho-bondhd.jp/company/message/・3回目）
+- 事業内容：記載なし（3回確認済み：公式25頁／PDF・画像16件／外部3頁・検索5回）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像16件／外部3頁・検索5回）
+- 売上構成：記載なし（3回確認済み：公式25頁／PDF・画像16件／外部3頁・検索5回）
 
 ## シンシア
 - 公式URL：https://www.sincere-vision.com/（search:ddgs:google:シンシア）
@@ -8319,6 +12788,94 @@
 - 売上高：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部8頁・検索5回）
 - 売上構成：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部8頁・検索5回）
 
+## ジャストプランニング
+- 公式URL：https://www.justweb.co.jp/（search:yahoo_jp:ジャストプランニング）
+- 設立：1994年01月（https://prtimes.jp/main/html/rd/p/000000031.000102928.html・3回目）
+- 設立：1998年6月1日（https://www.nikkei.com/nkd/company/gaiyo/?scode=4287・3回目）
+- 設立：1994年（https://en-hyouban.com/company/10009678118/・3回目）
+- 従業員数：55 人（https://www.nikkei.com/nkd/company/gaiyo/?scode=4287・3回目）
+- 従業員数：56名（https://en-hyouban.com/company/10009678118/・3回目）
+- 誰に：
+  - 「店舗・本部・顧客を横断したDXを実現します」（https://www.justweb.co.jp/・1回目）
+  - 「モバイルオーダー＆ペイ機能付き顧客管理アプリ」（https://www.justweb.co.jp/・1回目）
+  - 「iToGoはモバイルオーダーに対応した飲食業・小売業に特化した顧客管理アプリです」（https://www.justweb.co.jp/・1回目）
+  - 「スマホで「注文・決済・CRM」ができる、顧客接点DXアプリ」（https://www.justweb.co.jp/service/・1回目）
+  - 「注文履歴や顧客情報をCRMとして活用し、リピート促進やファンづくりにつなげます」（https://www.justweb.co.jp/service/・1回目）
+  - 「指紋認証勤怠管理システム･指紋認証顧客情報管理システムサービス開始」（https://www.justweb.co.jp/company/history/・1回目）
+  - 「なお、個人情報、顧客情報、及び関係者の権利を侵害することになる情報につきましては開示いたしません」（https://www.justweb.co.jp/ir/disclosure/・1回目）
+  - 「当サービスは無料でご利用頂けますが、メール送受信に係る通信費用は利用者の負担となります」（https://www.justweb.co.jp/ir/news-distribution/・1回目）
+  - 「～勘と経験に頼る来客予測のプレッシャーをAIで軽減し、店長がお客様や従業員と向き合える店舗運営を支援～」（https://prtimes.jp/main/html/rd/p/000000031.000102928.html・3回目）
+  - 「外食店舗における店長の重要な役割は、日々の営業現場に立ち、来店されたお客様の体験価値を高めることです」（https://prtimes.jp/main/html/rd/p/000000031.000102928.html・3回目）
+  - 「その結果、店長がお客様や従業員と向き合う時間を確保しにくい状況が生まれています」（https://prtimes.jp/main/html/rd/p/000000031.000102928.html・3回目）
+  - 「これにより、店長や店舗スタッフが、顧客体験の向上や従業員が働きやすい環境づくりなど、本来注力すべき業務に、より多くの時間を使える状態を目指します」（https://prtimes.jp/main/html/rd/p/000000031.000102928.html・3回目）
+- 何を：
+  - 「外食・飲食業界に特化した、店舗運営DXソリューションプロバイダ」（https://www.justweb.co.jp/・1回目）
+  - 「【2026年9月末現在のご契約店舗数】各サービス分類ごとの契...」（https://www.justweb.co.jp/・1回目）
+  - 「【2026年8月末現在のご契約店舗数】各サービス分類ごとの契...」（https://www.justweb.co.jp/・1回目）
+  - 「【2026年7月末現在のご契約店舗数】各サービス分類ごとの契...」（https://www.justweb.co.jp/・1回目）
+  - 「まかせてネットは、店舗と本部をつなぎ、業務効率化と経営の見える化を実現するクラウドサービスです」（https://www.justweb.co.jp/・1回目）
+  - 「提供サービス一覧｜飲食店向け業務支援・クラウドソリューション｜ジャストプランニング｜株式会社ジャストプランニング」（https://www.justweb.co.jp/service/・1回目）
+  - 「提供サービス一覧｜飲食店向け業務支援・クラウドソリューション｜ジャストプランニング」（https://www.justweb.co.jp/service/・1回目）
+  - 「外食・飲食業界に特化した、店舗運営DXソリューションプロバイダ」（https://www.justweb.co.jp/service/・1回目）
+  - 「当社は外食業界に特化したDXソリューションプロバイダとして、」（https://www.justweb.co.jp/service/・1回目）
+  - 「サービス一覧」（https://www.justweb.co.jp/service/・1回目）
+  - 「外食・飲食業界に特化した、店舗運営DXソリューションプロバイダ」（https://www.justweb.co.jp/company/history/・1回目）
+  - 「まかせてネットサービス 拡販開始」（https://www.justweb.co.jp/company/history/・1回目）
+- どうやって売るか：
+  - 「外食・飲食業界に特化した、店舗運営DXソリューションプロバイダ」（https://www.justweb.co.jp/・1回目）
+  - 「店舗・本部・顧客を横断したDXを実現します」（https://www.justweb.co.jp/・1回目）
+  - 「【2026年9月末現在のご契約店舗数】各サービス分類ごとの契...」（https://www.justweb.co.jp/・1回目）
+  - 「【2026年8月末現在のご契約店舗数】各サービス分類ごとの契...」（https://www.justweb.co.jp/・1回目）
+  - 「【2026年7月末現在のご契約店舗数】各サービス分類ごとの契...」（https://www.justweb.co.jp/・1回目）
+  - 「2026年9月末現在のご契約企業数・店舗数」（https://www.justweb.co.jp/・1回目）
+  - 「（+86店舗）」（https://www.justweb.co.jp/・1回目）
+  - 「（+5店舗）」（https://www.justweb.co.jp/・1回目）
+  - 「（±0店舗）」（https://www.justweb.co.jp/・1回目）
+  - 「店舗管理システム」（https://www.justweb.co.jp/・1回目）
+  - 「多店舗運営のDXを、店舗から本部まで」（https://www.justweb.co.jp/・1回目）
+  - 「まかせてネットは、店舗と本部をつなぎ、業務効率化と経営の見える化を実現するクラウドサービスです」（https://www.justweb.co.jp/・1回目）
+- お金の形：
+  - 「この会社の福利厚生にはどのような特徴がありますか？（退職金、住宅補助、寮、財形貯蓄、社員持株会、ストックオプションなどの有無など）」（https://en-hyouban.com/company/10009678118/・3回目）
+- 売上構成：
+  - 「(注) １ 主要な事業の内訳欄には、セグメントの名称を記載しております」（https://kitaishihon.com/company/4287/board-of-director・3回目）
+- 利益の源泉：
+  - 「今後は、売上・勤怠・発注・在庫・顧客・イベントなどのデータを横断的に活用し、AIによる予測・検知・示唆を各業務へ展開することで、外食企業の経営判断と店舗運営の高度化を支援してまいります」（https://prtimes.jp/main/html/rd/p/000000031.000102928.html・3回目）
+  - 「事業展望・強み・弱み」（https://en-hyouban.com/company/10009678118/・3回目）
+  - 「株式会社ジャストプランニングの事業展望・強み・弱みの口コミ」（https://en-hyouban.com/company/10009678118/・3回目）
+  - 「Q.事業の強み：」（https://en-hyouban.com/company/10009678118/・3回目）
+  - 「この会社の事業には、どのような強みがありますか？」（https://en-hyouban.com/company/10009678118/・3回目）
+  - 「事業の強み:新規事業を広げるつもりは無...」（https://en-hyouban.com/company/10009678118/・3回目）
+  - 「事業展望・強み・弱みのすべての口コミを見る」（https://en-hyouban.com/company/10009678118/・3回目）
+- 沿革：
+  - 「2026年9月末現在のご契約企業数・店舗数」（https://www.justweb.co.jp/・1回目）
+  - 「弊社代表よりご挨拶とジャストプランニングの企業理念や沿革、会社概要についてご紹介します」（https://www.justweb.co.jp/・1回目）
+  - 「沿革 | 株式会社ジャストプランニング｜株式会社ジャストプランニング」（https://www.justweb.co.jp/company/history/・1回目）
+  - 「沿革 | 株式会社ジャストプランニング」（https://www.justweb.co.jp/company/history/・1回目）
+  - 「2026年8月5日 16時00分」（https://prtimes.jp/main/html/rd/p/000000031.000102928.html・3回目）
+  - 「1994年01月」（https://prtimes.jp/main/html/rd/p/000000031.000102928.html・3回目）
+  - 「2026年11月3日（火）」（https://www.nikkei.com/nkd/company/gaiyo/?scode=4287・3回目）
+  - 「業務内容・沿革」（https://www.nikkei.com/nkd/company/gaiyo/?scode=4287・3回目）
+  - 「1998年6月1日」（https://www.nikkei.com/nkd/company/gaiyo/?scode=4287・3回目）
+  - 「2026年4月28日」（https://www.nikkei.com/nkd/company/gaiyo/?scode=4287・3回目）
+  - 「2026年1月期 （百万円） ［］内は人数」（https://www.nikkei.com/nkd/company/gaiyo/?scode=4287・3回目）
+  - 「2026年1月期 （百万円）」（https://www.nikkei.com/nkd/company/gaiyo/?scode=4287・3回目）
+- 検索結果の抜粋：
+  - 「企業理念 | 株式会社 ジャストプランニング — 企業理念 | 株式会社 ジャストプランニング 株式会社ジャストプランニング https://www.justweb.co.jp > company > philosophy」（https://www.justweb.co.jp/company/philosophy/・3回目）
+  - 「ジャストプランニング 、「AI来客予測」を提供開始店長の仕事を — ジャストプランニング 、「AI来客予測」を提供開始店長の仕事を PR TIMES https://prtimes.jp > 商品サービス」（https://prtimes.jp/main/html/rd/p/000000031.000102928.html・3回目）
+  - 「株式会社 ジャストプランニング の働き方とストーリー - Wantedly — 株式会社 ジャストプランニング の働き方とストーリー - Wantedly Wantedly https://www.wantedly.com > companies > justweb > stories」（https://www.wantedly.com/companies/justweb/stories・3回目）
+  - 「株式会社 ジャストプランニング の会社概要 - マイナビ転職 — 株式会社 ジャストプランニング の会社概要 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > company」（https://tenshoku.mynavi.jp/company/182538/・3回目）
+  - 「ジャストプランニング - 株式会社フィスコ — ジャストプランニング - 株式会社フィスコ 株式会社フィスコ PDF https://www.fisco.co.jp > justplanning20250409」（https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/justplanning20250409.pdf・3回目）
+  - 「IR 資料 ライブラリー | 株式会社 ジャストプランニング — IR 資料 ライブラリー | 株式会社 ジャストプランニング 株式会社ジャストプランニング https://www.justweb.co.jp > library」（https://www.justweb.co.jp/ir/library/・3回目）
+  - 「IR情報 | 株式会社 ジャストプランニング — IR情報 | 株式会社 ジャストプランニング 株式会社ジャストプランニング https://www.justweb.co.jp > ...」（https://www.justweb.co.jp/ir/・3回目）
+  - 「【 ジャストプランニング 】[4287]IR情報 中期経営計画や 決算 短信 — 【 ジャストプランニング 】[4287]IR情報 中期経営計画や 決算 短信 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo」（https://www.nikkei.com/nkd/company/kigyo/?scode=4287・3回目）
+  - 「株式会社 ジャストプランニング 決算説明資料 - EDINET DB — 株式会社 ジャストプランニング 決算説明資料 - EDINET DB EDINET DB https://edinetdb.jp > ... > IR資料」（https://edinetdb.jp/company/E05204/presentations/・3回目）
+  - 「会社概要 | 株式会社 ジャストプランニング — 会社概要 | 株式会社 ジャストプランニング 株式会社ジャストプランニング https://www.justweb.co.jp > company > overview」（https://www.justweb.co.jp/company/overview/・3回目）
+  - 「【 ジャストプランニング 】[4287]企業概要 社員数や役員報酬 ... — 【 ジャストプランニング 】[4287]企業概要 社員数や役員報酬 ... 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo」（https://www.nikkei.com/nkd/company/gaiyo/?scode=4287・3回目）
+  - 「ジャストプランニング ・システムの評判/社風/社員の口コミ(全 ... — ジャストプランニング ・システムの評判/社風/社員の口コミ(全 ... 転職会議 https://jobtalk.jp > companies > answers」（https://jobtalk.jp/companies/338711/answers・3回目）
+- 事業内容：記載なし（3回確認済み：公式17頁／PDF・画像0件／外部4頁・検索5回）
+- 売上高：記載なし（3回確認済み：公式17頁／PDF・画像0件／外部4頁・検索5回）
+- ビジネスモデル：記載なし（3回確認済み：公式17頁／PDF・画像0件／外部4頁・検索5回）
+
 ## ジャパンインベストメントアドバイザー
 - 公式URL：https://www.jia-ltd.com/（search:yahoo_jp:ジャパンインベストメントアドバイザー）
 - 設立：2006年（平成18年）9月（https://www.jia-ltd.com/aboutus/corporate/・1回目）
@@ -8674,6 +13231,226 @@
 - 売上高：記載なし（3回確認済み：公式25頁／PDF・画像1件／外部1頁・検索5回）
 - ビジネスモデル：記載なし（3回確認済み：公式25頁／PDF・画像1件／外部1頁・検索5回）
 
+## スターツ出版
+- 公式URL：https://starts-pub.jp/（search:yahoo_jp:スターツ出版）
+- 設立：1983年3月2日（https://starts-pub.jp/aboutus/profile・1回目）
+- 従業員数：240名（2025年12月末日現在）（https://starts-pub.jp/aboutus/profile・1回目）
+- 従業員数：61,090（https://starts-pub.jp/ir-3/stockholder・1回目）
+- 事業内容：■書籍コンテンツ事業 小説投稿サイト「野いちご」「Berry’s Cafe」「ノベマ！」の運営。投稿サイトを起点とする書籍、コミックの発行。 ■メディアソリューション事業 雑誌「オズマガジン」、フリーマガジン「メトロミニッツ」「アエルデ」の発行。情報サイト「オズモール」およびレストラン・ホテル・ビューティサロンなどがWeb予約できる「ＯＺのプレミアム予約」サービスの運営。（https://starts-pub.jp/aboutus/profile・1回目）
+- 売上高：8,341百万円 8,581百万円 8,143百万円（https://kitaishihon.com/company/7849/business・3回目）
+- ビジネスモデル：
+  - 「小説投稿サイトを起点に、書籍化、コミック化、映像化へと発展させる独自のビジネスモデルを強みに、多様な読者ニーズに応える作品を継続的に生み出しています」（https://starts-pub.jp/ir-3/ir-massage・1回目）
+  - 「同様のビジネスモデルや同ジャンルのコンテンツを展開する競合との競争は激しくなっており、今後これらの分野」（https://starts-pub.jp/wp-content/uploads/2026/02/kessantanshin20260212.pdf・2回目）
+  - 「当社はサービスの内容、ビジネスモデル、市場の類似性を考慮した事業別のセグメントに区分しており、」（https://starts-pub.jp/wp-content/uploads/2026/02/kessantanshin20260212.pdf・2回目）
+  - 「(1）事業系統図」（https://kitaishihon.com/company/7849/business・3回目）
+- 誰に：
+  - 「時代に合わせたコンテンツを発信し、多くのユーザーに喜んでいただく「文化企業」であり続けます」（https://starts-pub.jp/・1回目）
+  - 「スターツ出版では、創業以来、ユーザーによりそう事業を展開しています」（https://starts-pub.jp/business・1回目）
+  - 「このたび、9月に発生した「オズモール」への不正アクセスにより、お客様の個人情報の一部が外部に漏洩した可能性があることを確認いたしました」（https://starts-pub.jp/aboutus/message・1回目）
+  - 「お客様および関係者の皆様には、多大なるご心配とご迷惑をおかけすることとなり、深くお詫び申し上げます」（https://starts-pub.jp/aboutus/message・1回目）
+  - 「30年間、私たちが変わらず大切にしてきたのは、お客様を「大切な友達」と思い、サービスを提供することです」（https://starts-pub.jp/aboutus/message・1回目）
+  - 「この思いを原点に、お客様一人ひとりに心からときめくおでかけ体験を、パートナーの皆様とともに創り、届けてきました」（https://starts-pub.jp/aboutus/message・1回目）
+  - 「今のオズモールがあるのは、お客様、パートナーの皆様をはじめ、多くの方々のお力添えがあったからこそです」（https://starts-pub.jp/aboutus/message・1回目）
+  - 「2003年にスタートした予約サービス「OZのプレミアム予約」は、おかげさまで現在、年間約370万人、1日約1万人のお客様にご利用いただけるサービスへと成長しました」（https://starts-pub.jp/aboutus/message・1回目）
+  - 「私たちはAIをはじめとする新しい技術を積極的に取り入れ、お客様により良い体験を届けるため、変えるべきものは大胆に変えていきます」（https://starts-pub.jp/aboutus/message・1回目）
+  - 「一方で、お客様を「大切な友達」と考えるオズモールの原点は変えません」（https://starts-pub.jp/aboutus/message・1回目）
+  - 「これからもオズモールは、変わらない原点を大切に、時代とともに進化し、新しい「ときめくおでかけ体験」を創り、お客様に届け続けます」（https://starts-pub.jp/aboutus/message・1回目）
+  - 「スターツ出版は、メディア会社としてSDGsの概念を紹介し、企業だけの取組みとするのではなく、ユーザーに理解してもらうことで、小さな一歩を踏み出したいと考えます」（https://starts-pub.jp/aboutus/vision・1回目）
+- 何を：
+  - 「メッセージやストーリーの詰まったコンテンツとサービスで、」（https://starts-pub.jp/・1回目）
+  - 「ブランドソリューション」（https://starts-pub.jp/・1回目）
+  - 「メディア・コンテンツを起点としたソリューションビジネス」（https://starts-pub.jp/・1回目）
+  - 「厳選した店舗のみを掲載したレストラン・ホテル・ビューティサロンがWeb予約できるサービス」（https://starts-pub.jp/・1回目）
+  - 「出版社の枠を超えたソリューションビジネスを展開しています」（https://starts-pub.jp/・1回目）
+  - 「スターツ出版では、「編集力・メディアの信頼・読者との絆」という強みを活かしたソリューションビジネス、また小説投稿サイトを起点とした書籍・電子書籍・コミックビジネスを行っています」（https://starts-pub.jp/・1回目）
+  - 「スターツ出版では、出版社ならではのメディア力を活かし、「女友達マーケティング」をテーマとしたソリューションビジネスを行っています」（https://starts-pub.jp/・1回目）
+  - 「ブランドソリューション／OZのプレミアム予約／書籍コンテンツ」（https://starts-pub.jp/business・1回目）
+  - 「ブランドソリューション」（https://starts-pub.jp/business・1回目）
+  - 「メディア・コンテンツを起点としたソリューションビジネス」（https://starts-pub.jp/business・1回目）
+  - 「厳選した店舗のみを掲載したレストラン・ホテル・ビューティサロンがWeb予約できるサービス」（https://starts-pub.jp/business・1回目）
+  - 「ブランドソリューション」（https://starts-pub.jp/aboutus・1回目）
+- どうやって売るか：
+  - 「厳選した店舗のみを掲載したレストラン・ホテル・ビューティサロンがWeb予約できるサービス」（https://starts-pub.jp/・1回目）
+  - 「広告主様・掲載店舗様向け」（https://starts-pub.jp/・1回目）
+  - 「【座談会企画】【先輩メッセージ】【働き方紹介】」（https://starts-pub.jp/・1回目）
+  - 「グループ紹介」（https://starts-pub.jp/・1回目）
+  - 「事業紹介 | スターツ出版」（https://starts-pub.jp/business・1回目）
+  - 「厳選した店舗のみを掲載したレストラン・ホテル・ビューティサロンがWeb予約できるサービス」（https://starts-pub.jp/business・1回目）
+  - 「グループ紹介」（https://starts-pub.jp/business・1回目）
+  - 「グループ紹介」（https://starts-pub.jp/aboutus・1回目）
+  - 「グループ紹介」（https://starts-pub.jp/ir-3・1回目）
+  - 「スターツ出版のメディア、媒体データ、広告媒体資料などをご紹介しています」（https://starts-pub.jp/business/media・1回目）
+  - 「グループ紹介」（https://starts-pub.jp/business/media・1回目）
+  - 「グループ紹介」（https://starts-pub.jp/business/service・1回目）
+- 売上構成：
+  - 「スターツ出版の事業のセグメントを教えてください」（https://starts-pub.jp/ir-3/faq・1回目）
+  - 「（セグメント情報等の注記） ……………………………………………………………………………………… 9」（https://starts-pub.jp/wp-content/uploads/2026/08/kextsusantanshin20260806.pdf・2回目）
+  - 「セグメントごとの経営成績は、次のとおりであります」（https://starts-pub.jp/wp-content/uploads/2026/08/kextsusantanshin20260806.pdf・2回目）
+  - 「報告セグメント」（https://starts-pub.jp/wp-content/uploads/2026/08/kextsusantanshin20260806.pdf・2回目）
+  - 「セグメント間の内部」（https://starts-pub.jp/wp-content/uploads/2026/08/kextsusantanshin20260806.pdf・2回目）
+  - 「セグメント利益 726,471 89,308 815,780 △66,751 749,028」（https://starts-pub.jp/wp-content/uploads/2026/08/kextsusantanshin20260806.pdf・2回目）
+  - 「セグメント利益 543,337 39,043 582,380 △81,070 501,310」（https://starts-pub.jp/wp-content/uploads/2026/08/kextsusantanshin20260806.pdf・2回目）
+  - 「（セグメント情報等の注記）」（https://starts-pub.jp/wp-content/uploads/2026/08/kextsusantanshin20260806.pdf・2回目）
+  - 「【セグメント情報】」（https://starts-pub.jp/wp-content/uploads/2026/08/kextsusantanshin20260806.pdf・2回目）
+  - 「１．報告セグメントごとの売上高及び利益又は損失の金額に関する情報並びに収益の分解情報」（https://starts-pub.jp/wp-content/uploads/2026/08/kextsusantanshin20260806.pdf・2回目）
+  - 「（注）１．セグメント利益の調整額△66,751千円は、各報告セグメントに配分していない全社費用になりま」（https://starts-pub.jp/wp-content/uploads/2026/08/kextsusantanshin20260806.pdf・2回目）
+  - 「２．セグメント利益は、中間損益計算書の営業利益と調整を行っております」（https://starts-pub.jp/wp-content/uploads/2026/08/kextsusantanshin20260806.pdf・2回目）
+- 利益の源泉：
+  - 「スターツ出版では、「編集力・メディアの信頼・読者との絆」という強みを活かしたソリューションビジネス、また小説投稿サイトを起点とした書籍・電子書籍・コミックビジネスを行っています」（https://starts-pub.jp/・1回目）
+  - 「スターツ出版の一番の強みは何ですか？」（https://starts-pub.jp/ir-3/faq・1回目）
+  - 「小説投稿サイトを起点に、書籍化、コミック化、映像化へと発展させる独自のビジネスモデルを強みに、多様な読者ニーズに応える作品を継続的に生み出しています」（https://starts-pub.jp/ir-3/ir-massage・1回目）
+  - 「当社は、目標とする経営指標といたしましては、売上高、営業利益、営業利益率を重視しております」（https://kitaishihon.com/company/7849/business・3回目）
+- 沿革：
+  - 「2018年には東京女性のリアルマーケティングを行う「OZmallラボ」を開設、2019年からは、「旅・地域」「街」「ライフスタイル」という領域軸の組織体制となり、提案力を強化しています」（https://starts-pub.jp/・1回目）
+  - 「2027年度・新卒採用は終了いたしました」（https://starts-pub.jp/・1回目）
+  - 「2028年度・新卒採用はマイナビ2028にて公開中です」（https://starts-pub.jp/・1回目）
+  - 「2026年8月25日」（https://starts-pub.jp/ir-3・1回目）
+  - 「2026年8月20日」（https://starts-pub.jp/ir-3・1回目）
+  - 「2026年12月期 第２四半期決算説明会資料」（https://starts-pub.jp/ir-3・1回目）
+  - 「2026年8月6日」（https://starts-pub.jp/ir-3・1回目）
+  - 「2026年12月期 第２四半期（中間期）決算短信〔日本基準〕（非連結）」（https://starts-pub.jp/ir-3・1回目）
+  - 「2026年５月26日」（https://starts-pub.jp/ir-3・1回目）
+  - 「2026年５月12日」（https://starts-pub.jp/ir-3・1回目）
+  - 「2026年12月期 第１四半期決算短信〔日本基準〕（非連結）」（https://starts-pub.jp/ir-3・1回目）
+  - 「2026年２月25日」（https://starts-pub.jp/ir-3・1回目）
+- 検索結果の抜粋：
+  - 「スターツ出版 、Z世代を中心に読書文化の需要を創造 売上高 ... — スターツ出版 、Z世代を中心に読書文化の需要を創造 売上高 ... みんかぶ https://minkabu.jp > ニュース」（https://minkabu.jp/news/3838560・3回目）
+  - 「スターツ出版 — スターツ出版 スターツ出版 https://starts-pub.jp」（https://starts-pub.jp/・3回目）
+  - 「スターツ出版 /ミッションは「文化と笑顔の需要創造」/書籍 ... — スターツ出版 /ミッションは「文化と笑顔の需要創造」/書籍 ... ログミーFinance https://finance.logmi.jp > articles」（https://finance.logmi.jp/articles/378065・3回目）
+  - 「決算説明資料 - スターツ出版 — 決算説明資料 - スターツ出版 スターツ出版 https://starts-pub.jp > report」（https://starts-pub.jp/ir-3/report・3回目）
+  - 「IR情報 - スターツ出版 — IR情報 - スターツ出版 スターツ出版 https://starts-pub.jp > ...」（https://starts-pub.jp/ir-3・3回目）
+  - 「スターツ出版 株式会社 - ログミーファイナンス - logmi Finance — スターツ出版 株式会社 - ログミーファイナンス - logmi Finance ログミーFinance https://finance.logmi.jp > companies」（https://finance.logmi.jp/companies/1195・3回目）
+  - 「決算 短信 - スターツ出版 — 決算 短信 - スターツ出版 スターツ出版 https://starts-pub.jp > financial」（https://starts-pub.jp/ir-3/financial・3回目）
+  - 「スターツ出版 組織図・沿革 — スターツ出版 組織図・沿革 スターツ出版 https://starts-pub.jp > 会社情報」（https://starts-pub.jp/aboutus/profile_groupmap・3回目）
+  - 「スターツ出版 【7849】の 事業 内容 - キタイシホン — スターツ出版 【7849】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/7849/business・3回目）
+  - 「スターツ出版 (株)の会社概要 | マイナビ2028 — スターツ出版 (株)の会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp222561 > outline」（https://job.mynavi.jp/28/pc/search/corp222561/outline.html・3回目）
+  - 「【 スターツ出版 】[7849]企業概要 社員数や役員報酬・資本金 — 【 スターツ出版 】[7849]企業概要 社員数や役員報酬・資本金 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo」（https://www.nikkei.com/nkd/company/gaiyo/?scode=7849・3回目）
+  - 「『 社長 就任にあたってのご挨拶』 | スターツ出版 — 『 社長 就任にあたってのご挨拶』 | スターツ出版 スターツ出版 https://starts-pub.jp > トップページ > トップメッセージ」（https://starts-pub.jp/message20260324・3回目）
+- お金の形：記載なし（3回確認済み：公式25頁／PDF・画像9件／外部3頁・検索5回）
+
+## ステップ
+- 公式URL：https://www.stepnet.co.jp/（search:yahoo_jp:ステップ）
+- 設立：2022年11月（https://career.medi-site.co.jp/media/kk-step/・3回目）
+- ビジネスモデル：
+  - 「勝てるビジネスモデルの作り方：ステップ・バイ・ステップ・ガイド | Kerikaでさらに多くのことを達成しよう」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「勝てるビジネスモデルの作り方：ステップ・バイ・ステップ・ガイド」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「堅実なビジネスモデルは、繁栄するビジネスの礎石である」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「しかし、強固なビジネスモデルを構築するのは複雑なプロセスである」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「この記事では、効果的なビジネスモデルを構築するための実践的なステップを紹介する」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「この画像をクリックすると、チームがどのようにビジネスモデルを構築しているかの例を見ることができる」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「確かなビジネスモデルを構築するために不可欠なステップ」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「収益源は、持続可能なビジネスモデルの基盤です」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「堅実な収益モデルは、将来の成長をサポートしながら、財務的な持続可能性を保証します」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「ビジネスモデルを構築する際の落とし穴を避けよう」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「ビジネスモデルを構築するために不可欠なステップを踏むことが重要であっても、そのプロセスにはしばしば隠れた課題が潜んでいる」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「この会社のビジネスモデル・ボードをよく見てみよう」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+- 誰に：
+  - 「2026年 オリコン顧客満足度ランキングでステップが総合第１位！」（https://www.stepnet.co.jp/・1回目）
+  - 「＜2025年 オリコン顧客満足度ランキング＞ ８年連続で小中高３冠達成！」（https://www.stepnet.co.jp/・1回目）
+  - 「それは、あなたの会社がどのように顧客や利害関係者のために価値を創造し、提供し、維持するかを概説するものである」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「顧客を理解し、コア・バリュー・プロポジションを定義し、収益源を探り、チームや利害関係者と調整する必要がある」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「1.顧客セグメントの特定」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「まずは顧客を理解することから始めましょう」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「潜在顧客を人口統計、行動、嗜好に基づく特定のセグメントに分類することで、製品を利用する可能性のあるさまざまなコミュニティと真に共鳴する製品を設計することができます」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「潜在顧客を調査したり、既存のデータを分析したりして、誰にサービスを提供し、彼らが何を最も必要としているかを突き止めましょう」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「掲載されているデータを利用すれば、どのような顧客にサービスを提供しようとしているのかをよりよく理解することができる」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「あなたの顧客が誰であるかがわかったら、次はあなたの製品やサービスを際立たせるものは何かを考えましょう」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「あなたのバリュー・プロポジションは、あなたの顧客が直面している問題と、それを他の誰よりもうまく解決する方法を明確に訴えるものでなければなりません」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「このステップでは、反復と顧客からのフィードバックが効果的です」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+- 何を：
+  - 「潜在顧客を人口統計、行動、嗜好に基づく特定のセグメントに分類することで、製品を利用する可能性のあるさまざまなコミュニティと真に共鳴する製品を設計することができます」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「潜在顧客を調査したり、既存のデータを分析したりして、誰にサービスを提供し、彼らが何を最も必要としているかを突き止めましょう」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「掲載されているデータを利用すれば、どのような顧客にサービスを提供しようとしているのかをよりよく理解することができる」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「あなたの顧客が誰であるかがわかったら、次はあなたの製品やサービスを際立たせるものは何かを考えましょう」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「適切なアプローチは、製品や顧客の期待によって異なります」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「サブスクリプション、1回限りの購入、広告など、さまざまな選択肢を検討し、あなたのサービスや読者に合ったものを見つけましょう」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「定期的にこのステップを見直し、フィードバックや洞察を取り入れることで、適切で競争力のあるサービスを提供し続けることができます」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「これらのセグメントのユニークなニーズや嗜好を理解することで、最大の価値を提供するために製品やサービスを調整することができます」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「このステップを完了させることで、提供する商品やマーケティング戦略の精度が高まります」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「単に商品やサービスを説明するだけではなく、事業全体をどのような動きで成立させるかを示す設計図と考えるのがよいでしょう」（https://professional.mynavi.jp/magazine/magazine_245・3回目）
+  - 「新規事業では、リーンキャンバスで素早く仮説をまとめ、MVP（最小限の製品）で検証する進め方が有効です」（https://professional.mynavi.jp/magazine/magazine_245・3回目）
+  - 「：商品・サービスを販売して対価を得る」（https://professional.mynavi.jp/magazine/magazine_245・3回目）
+- どうやって売るか：
+  - 「ステップが「英検プラチナパートナー塾」に認定されました」（https://www.stepnet.co.jp/・1回目）
+  - 「この記事では、効果的なビジネスモデルを構築するための実践的なステップを紹介する」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「ソーシャルメディア、Eメールキャンペーン、パートナーシップ、あるいは対面イベントなど、オーディエンスの好みに応じて考えてみましょう」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「8.パートナーシップの可能性を探る」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「自社の強みを補い、あるいはギャップを埋めるようなパートナーシップを探しましょう」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「パートナーシップは、創造的な解決策や機会の拡大につながることが多い」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「13.主要なパートナーシップの確立」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「パートナーシップを正式に結ぶことで、ビジネスに大きな価値を付加することができます」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「強力なパートナーシップは、新しい市場や能力への扉を開くことが多い」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「7.パートナーシップとの調整問題」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「パートナーシップを模索し、管理するには、明確さと説明責任が必要だが、コミュニケーション不足や期待値のズレが摩擦につながることも多い」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「パートナーシップの機会を追跡し、コラボレーションを公式化するシステムは、成功と停滞の分かれ目となる」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+- お金の形：
+  - 「サブスクリプション、1回限りの購入、広告など、さまざまな選択肢を検討し、あなたのサービスや読者に合ったものを見つけましょう」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「サブスクリプション型」（https://professional.mynavi.jp/magazine/magazine_245・3回目）
+  - 「：定額で継続課金する」（https://professional.mynavi.jp/magazine/magazine_245・3回目）
+  - 「収益が安定する一方、解約率の管理が必要」（https://professional.mynavi.jp/magazine/magazine_245・3回目）
+  - 「：売り手と買い手をつなぎ手数料を得る」（https://professional.mynavi.jp/magazine/magazine_245・3回目）
+  - 「②サブスクリプション型」（https://professional.mynavi.jp/magazine/magazine_245・3回目）
+  - 「・月額や年額で定額料金を受け取るモデル」（https://professional.mynavi.jp/magazine/magazine_245・3回目）
+  - 「・解約率の管理が必要」（https://professional.mynavi.jp/magazine/magazine_245・3回目）
+  - 「・売り手と買い手をマッチングし、手数料を得るモデル」（https://professional.mynavi.jp/magazine/magazine_245・3回目）
+  - 「売上予測：顧客数×単価×購入頻度」（https://professional.mynavi.jp/magazine/magazine_245・3回目）
+  - 「損益分岐点：固定費÷（単価-変動費）」（https://professional.mynavi.jp/magazine/magazine_245・3回目）
+  - 「・「総人口×ターゲット比率×購入率×単価」で概算を出し、全体感を掴むのに有用」（https://professional.mynavi.jp/magazine/magazine_245・3回目）
+- 売上構成：
+  - 「1.顧客セグメントの特定」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「潜在顧客を人口統計、行動、嗜好に基づく特定のセグメントに分類することで、製品を利用する可能性のあるさまざまなコミュニティと真に共鳴する製品を設計することができます」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「14.顧客セグメントの確定」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「これらのセグメントのユニークなニーズや嗜好を理解することで、最大の価値を提供するために製品やサービスを調整することができます」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「顧客セグメントの特定から収益ストリームの最終決定まで、進捗状況を一目で確認できるようにしながら、細部まで確実に説明できるようになっています」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「各ステップを実行可能なタスクに分解するために作成された「顧客セグメントの特定」や「バリュー・プロポジションの草案」のような新しいタスクが、ビジネスモデルのどの部分も見落とさないようにする」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「例えば、顧客セグメントを定義するための調査方法や人口統計分析の概要を説明する」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「顧客セグメントの特定から、主要な活動やパートナーシップの定義まで、どのカードも、強固で実行可能なビジネス戦略を構築するための足がかりとなります」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「顧客セグメント」（https://professional.mynavi.jp/magazine/magazine_245・3回目）
+  - 「このフレームワークでは、「顧客への提供価値」を左側に、「顧客セグメント」を右側にマッピングしてつなげ、顧客の課題に対して自社の製品やサービスでどう解決するのかを可視化します」（https://professional.mynavi.jp/magazine/magazine_245・3回目）
+  - 「＜顧客セグメント＞」（https://professional.mynavi.jp/magazine/magazine_245・3回目）
+- 利益の源泉：
+  - 「自社の強みを補い、あるいはギャップを埋めるようなパートナーシップを探しましょう」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「在庫を持たずスケールしやすい」（https://professional.mynavi.jp/magazine/magazine_245・3回目）
+  - 「自社の強みをより詳細に可視化したい方は、「」（https://professional.mynavi.jp/magazine/magazine_245・3回目）
+  - 「【テンプレ付き】バリューチェーン分析の基本と実践｜強みを可視化する5つの手順」（https://professional.mynavi.jp/magazine/magazine_245・3回目）
+  - 「・在庫を持たない」（https://professional.mynavi.jp/magazine/magazine_245・3回目）
+  - 「市場のニーズや競合の強み・弱み、自社が提供できる価値を比べることで、」（https://professional.mynavi.jp/magazine/magazine_245・3回目）
+  - 「SWOT分析とは、自社を取り巻く内部環境（強み・弱み）と外部環境（機会・脅威）を整理するフレームワークのことです」（https://professional.mynavi.jp/magazine/magazine_245・3回目）
+  - 「自社の強みをどのように活かすか、弱みをどのように補うかを戦略的に考える」（https://professional.mynavi.jp/magazine/magazine_245・3回目）
+  - 「競合の強み・弱みを分析しておらず、自社の参入余地を説明できない」（https://professional.mynavi.jp/magazine/magazine_245・3回目）
+  - 「強み：競争優位性、差別化ポイント」（https://professional.mynavi.jp/magazine/magazine_245・3回目）
+  - 「ステップが受け継いできた仕事の強みと、そこに加えた新しい取り組み」（https://career.medi-site.co.jp/media/kk-step/・3回目）
+  - 「既存事業の強みを生かしながら、Webマーケティングや組織づくりなど新しい取り組みを進めている」（https://career.medi-site.co.jp/media/kk-step/・3回目）
+- 沿革：
+  - 「2026年 オリコン顧客満足度ランキングでステップが総合第１位！」（https://www.stepnet.co.jp/・1回目）
+  - 「2027年春に高校受験ステップ「横浜スクール」「南加瀬スクール」を開校します！」（https://www.stepnet.co.jp/・1回目）
+  - 「2027年春に大学受験ステップ溝の口校を開校します！」（https://www.stepnet.co.jp/・1回目）
+  - 「2027年春に学童教室STEPキッズ辻堂駅南口教室を開校します！」（https://www.stepnet.co.jp/・1回目）
+  - 「令和８年度 公立高校入試における特色検査に関するステップの見解」（https://www.stepnet.co.jp/・1回目）
+  - 「2026年10月」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「2026年9月」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「2026年8月」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「2026年7月」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「2026年6月」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「2026年5月」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「2026年4月」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+- 検索結果の抜粋：
+  - 「勝てる ビジネスモデル の作り方： ステップ ・バイ ... - Kerika — 勝てる ビジネスモデル の作り方： ステップ ・バイ ... - Kerika Kerika https://blog.kerika.com > 勝てるビジネスモデルの作り方...」（https://blog.kerika.com/ja/%E5%8B%9D%E3%81%A6%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%9A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%BB%E3%83%90%E3%82%A4/・3回目）
+  - 「ビジネスモデル の作り方5 ステップ ｜つまずく5つの原因と解決 ... — ビジネスモデル の作り方5 ステップ ｜つまずく5つの原因と解決 ... マイナビProfessional https://professional.mynavi.jp > magazine > magazine_245」（https://professional.mynavi.jp/magazine/magazine_245・3回目）
+  - 「ビジネスモデル の仮説構築は「7つの ステップ 」で解決できる — ビジネスモデル の仮説構築は「7つの ステップ 」で解決できる クーリエ・ジャポン https://courrier.jp > ビジネス」（https://courrier.jp/columns/339289/・3回目）
+  - 「IRライブラリー 投資家情報 株式会社 ステップ （ STEP ） — IRライブラリー 投資家情報 株式会社 ステップ （ STEP ） ステップ https://www.stepnet.co.jp > company > IR-finance」（https://www.stepnet.co.jp/company/IR-finance.html・3回目）
+  - 「決算 短信 - IR資料 – サイバーステップホールディングス株式会社 — 決算 短信 - IR資料 – サイバーステップホールディングス株式会社 サイバーステップホールディングス株式会社 https://cshd.cyberstep.com > material > material1-html」（https://cshd.cyberstep.com/cshd/ir/material/material1-html/・3回目）
+  - 「【 ステップ 】[9795]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 ステップ 】[9795]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo」（https://www.nikkei.com/nkd/company/kigyo/?scode=9795・3回目）
+  - 「過去のIRライブラリー 投資家情報 株式会社 ステップ （ STEP ） — 過去のIRライブラリー 投資家情報 株式会社 ステップ （ STEP ） ステップ https://www.stepnet.co.jp > company > IR-past」（https://www.stepnet.co.jp/company/IR-past.html・3回目）
+  - 「[ ステップ 9795.T] 2026年9月期 決算 短信〔日本基準〕(非連結) — [ ステップ 9795.T] 2026年9月期 決算 短信〔日本基準〕(非連結) BigGo ファイナンス https://finance.biggo.jp > jpx_tdnet_140120261028557780」（https://finance.biggo.jp/news/jpx_tdnet_140120261028557780・3回目）
+  - 「株式会社 ステップ - 有価証券報告書 — 株式会社 ステップ - 有価証券報告書 ステップ PDF https://www.stepnet.co.jp > company > data > edi」（https://www.stepnet.co.jp/company/data/edi/2022edi.pdf・3回目）
+  - 「組織図｜会社情報 - 住友不動産ステップ — 組織図｜会社情報 - 住友不動産ステップ 住友不動産ステップ https://www.stepon.co.jp > 会社情報」（https://www.stepon.co.jp/comprof/orgchart.html・3回目）
+  - 「サイバー ステップ ホールディングス【3810】の 事業 内容 — サイバー ステップ ホールディングス【3810】の 事業 内容 キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/3810/business・3回目）
+  - 「代表取締役 - 鈴木 茂 - STEP — 代表取締役 - 鈴木 茂 - STEP 株式会社ステップ https://www.stepltd.co.jp > company」（https://www.stepltd.co.jp/company.htm・3回目）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像2件／外部6頁・検索5回）
+- 事業内容：記載なし（3回確認済み：公式1頁／PDF・画像2件／外部6頁・検索5回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像2件／外部6頁・検索5回）
+
 ## ストライクグループ
 - 公式URL：https://www.strike.co.jp/（search:yahoo_jp:ストライクグループ）
 - 設立：株式現金化によるハッピーリタイアや、個人保証（経営者保証）の解除（https://www.strike.co.jp/about_ma/・1回目）
@@ -8898,6 +13675,202 @@
   - 「有価証券報告書 | IRライブラリー | 株主・投資家情報 | SPARX ... — 有価証券報告書 | IRライブラリー | 株主・投資家情報 | SPARX ... スパークス・グループ株式会社 https://www.sparx.jp > 株主・投資家情報 > IRライブラリー」（https://www.sparx.jp/ir/data/valuable/・3回目）
   - 「スパークス ・ グループ （8739） — スパークス ・ グループ （8739） 株探 PDF https://kabutan.jp > ir_report > storm_8739260601」（https://kabutan.jp/ir_report/storm_8739260601.pdf・3回目）
 - 事業内容：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部4頁・検索5回）
+
+## スポーツフィールド
+- 公式URL：https://www.sports-f.co.jp/（search:yahoo_jp:スポーツフィールド）
+- 設立：2010年1月（https://www.sports-f.co.jp/company/overview/・1回目）
+- 従業員数：335名 （連結：2025年12月末日時点）（https://www.sports-f.co.jp/company/overview/・1回目）
+- 事業内容：◇ 体育会学生を含む新卒者向けイベントの企画・運営 ◇ 体育会学生を含む新卒者向け人財紹介 ◇ 既卒者向け人財紹介 ◇ スポーツ業界専門の求人・転職サイトの運営 ◇ アスリートのデュアルキャリア・セカンドキャリア支援 ◇ 学生向け就職ガイダンスの実施 ◇ 教育・研修コンテンツの企画・実施 ◇ 採用コンサルティング事業（https://www.sports-f.co.jp/company/overview/・1回目）
+- ビジネスモデル：
+  - 「ビジネスモデル」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250319/20250318596141.pdf・3回目）
+- 誰に：
+  - 「報で、このうちの 1 つまたは複数の組み合わせにより、お客様個人を特定することができ」（https://www.sports-f.co.jp/wp-content/themes/SportsField/assets/files/kouza_kiyaku.pdf・2回目）
+  - 「報で、このうちの 1 つまたは複数の組み合わせにより、お客様個人を特定することができ」（https://www.sports-f.co.jp/assets/files/kouza_kiyaku.pdf・2回目）
+  - 「常にお客様の立場で誠実且つスピードある行動をし、満足では」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250319/20250318596141.pdf・3回目）
+  - 「顧客企業とのパイプと実績」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250319/20250318596141.pdf・3回目）
+  - 「◼ 企業の採用活動において、採用ターゲットとなる要件を高い確率で満たしている「スポーツ人財」を対象にサービスを展開することで、顧客」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250319/20250318596141.pdf・3回目）
+  - 「✓ １社あたり顧客価値の最大化を追求 クロスセル推進」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250319/20250318596141.pdf・3回目）
+  - 「✓ AI活用と業務効率化 コア業務の顧客接点に集中」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250319/20250318596141.pdf・3回目）
+  - 「✓ 顧客データをハブ化し、営業効率アップと早期サービス受注実現」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250319/20250318596141.pdf・3回目）
+  - 「◼ ユーザーにとって満足ではなく感動するサービスを提供し続けることで、アナログの深い関係性と登録者数増加を実現する」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250319/20250318596141.pdf・3回目）
+  - 「- 就職支援から体育会総合支援サービスに進化し、アナログの深い関係性と利用ユーザーへ価値提供できる接点を増やす」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250319/20250318596141.pdf・3回目）
+  - 「◼ 各事業の販路と顧客との接点数を最大限に生かすため、顧客価値を実現するソリューション提案が課題」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250319/20250318596141.pdf・3回目）
+  - 「◼ AI活用による業務効率化とコア業務である顧客接点への集中、営業の質・量をより高い水準へ引き上げる」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250319/20250318596141.pdf・3回目）
+- 何を：
+  - 「人財サービス」（https://www.sports-f.co.jp/・1回目）
+  - 「体育会学生のための就職支援サービス」（https://www.sports-f.co.jp/・1回目）
+  - 「体育会・アスリート・スポーツ経験者のための就職・転職エージェントサービス」（https://www.sports-f.co.jp/・1回目）
+  - 「スポーツ経験者のための就職支援サービス」（https://www.sports-f.co.jp/・1回目）
+  - 「転職エージェントサービス」（https://www.sports-f.co.jp/・1回目）
+  - 「若手ハイキャリアを目指すスポーツ経験者のための転職エージェントサービス」（https://www.sports-f.co.jp/・1回目）
+  - 「アスリートのためのキャリア支援、活動支援サービス」（https://www.sports-f.co.jp/・1回目）
+  - 「その他のサービス」（https://www.sports-f.co.jp/・1回目）
+  - 「サービス一覧」（https://sports-f.co.jp/ir/・1回目）
+  - 「体育会学生の総合就職支援サービス「スポナビ」を開始」（https://www.sports-f.co.jp/company/history/・1回目）
+  - 「転職支援サービス「スポナビキャリア」を開始」（https://www.sports-f.co.jp/company/history/・1回目）
+  - 「非公開求人サービス「スポナビエージェント」を開始」（https://www.sports-f.co.jp/company/history/・1回目）
+- どうやって売るか：
+  - 「スタッフ紹介」（https://www.sports-f.co.jp/・1回目）
+  - 「スタッフ紹介」（https://sports-f.co.jp/ir/・1回目）
+  - 「スタッフ紹介」（https://www.sports-f.co.jp/company/overview/・1回目）
+  - 「◇ 体育会学生を含む新卒者向け人財紹介」（https://www.sports-f.co.jp/company/overview/・1回目）
+  - 「◇ 既卒者向け人財紹介」（https://www.sports-f.co.jp/company/overview/・1回目）
+  - 「有料職業紹介番号【13-ユ-306448】/ 労働者派遣番号【派13-306720】」（https://www.sports-f.co.jp/company/overview/・1回目）
+  - 「スタッフ紹介」（https://www.sports-f.co.jp/company/history/・1回目）
+  - 「有料職業紹介業についての厚生労働大臣許可を受ける（厚生労働大臣許可13-ユ-306448）」（https://www.sports-f.co.jp/company/history/・1回目）
+  - 「現役アスリートのデュアルキャリア支援として派遣・紹介予定派遣事業（現「スポナビアスリート」事業）を開始」（https://www.sports-f.co.jp/company/history/・1回目）
+  - 「スタッフ紹介」（https://www.sports-f.co.jp/business/・1回目）
+  - 「体育会学生が一堂に集まる就職イベントや新卒紹介サービスを通して、新卒採用活動を支援」（https://www.sports-f.co.jp/business/・1回目）
+  - 「就職意欲が高く、スポーツ経験をバックグラウンドとする学生の新卒紹介サービスを通じて企業の新卒採用を支援」（https://www.sports-f.co.jp/business/・1回目）
+- お金の形：
+  - 「務手数料を含む受講料を受領した後、サービス利用契約締結の諾否を決定します」（https://www.sports-f.co.jp/wp-content/themes/SportsField/assets/files/kouza_kiyaku.pdf・2回目）
+  - 「この場合、既に受領した事務手数料の払い戻し等は、理由の如何を問わず一切行いま」（https://www.sports-f.co.jp/wp-content/themes/SportsField/assets/files/kouza_kiyaku.pdf・2回目）
+  - 「第４章 サービス利用資格及び事務手数料」（https://www.sports-f.co.jp/wp-content/themes/SportsField/assets/files/kouza_kiyaku.pdf・2回目）
+  - 「務手数料を含む受講料を受領した後、サービス利用契約締結の諾否を決定します」（https://www.sports-f.co.jp/assets/files/kouza_kiyaku.pdf・2回目）
+  - 「この場合、既に受領した事務手数料の払い戻し等は、理由の如何を問わず一切行いま」（https://www.sports-f.co.jp/assets/files/kouza_kiyaku.pdf・2回目）
+  - 「第４章 サービス利用資格及び事務手数料」（https://www.sports-f.co.jp/assets/files/kouza_kiyaku.pdf・2回目）
+  - 「➢ 各卒業年度別のイベント受注において販売枠数と単価を伸長できた」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250319/20250318596141.pdf・3回目）
+- 売上構成：
+  - 「スポーツGDP構成比」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250319/20250318596141.pdf・3回目）
+  - 「IR上は人財事業の単一セグメントだとしていますが、それって個人的にはとても不本意で、当社としてはスポーツの会社だと思っているので、ほんとは競合とか類似会社もスポーツ関連企業を引き合いに出したいところではありますね」（https://univis.co.jp/fundpress/sportsfield/・3回目）
+- 利益の源泉：
+  - 「スポーツ経験に強みがある大学生の採用支援サービス」（https://www.sports-f.co.jp/business/・1回目）
+  - 「体育会に限らない幅広い学生層をカバーしていることが強み」（https://www.sports-f.co.jp/business/・1回目）
+  - 「スポーツの経験をもつ様々な属性の人財を対象とし、スポーツで得た経験を強みに変え、活躍するスポーツ人財をご紹介」（https://www.sports-f.co.jp/business/・1回目）
+  - 「会社概要 特徴強み 事業環境 ビジョン中計 リスク 会社概要 3」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250319/20250318596141.pdf・3回目）
+  - 「会社概要 特徴強み 事業環境 ビジョン中計 リスク」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250319/20250318596141.pdf・3回目）
+  - 「会社概要 特徴強み 事業環境 ビジョン中計 リスク 人財「メーカー」 6」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250319/20250318596141.pdf・3回目）
+  - 「人財の強みをビジネスで活かす「自」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250319/20250318596141.pdf・3回目）
+  - 「己分析」、ビジネスで通用する強みを」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250319/20250318596141.pdf・3回目）
+  - 「会社概要 特徴強み 事業環境 ビジョン中計 リスク ビジネスフロー 9」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250319/20250318596141.pdf・3回目）
+  - 「会社概要 特徴強み 事業環境 ビジョン中計 リスク 当社が運営するブランド 10」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250319/20250318596141.pdf・3回目）
+  - 「会社概要 特徴強み 事業環境 ビジョン中計 リスク 日本の将来推計人口と高齢化率 17」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250319/20250318596141.pdf・3回目）
+  - 「会社概要 特徴強み 事業環境 ビジョン中計 リスク 18歳人口と大学進学者数の将来推計 18」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250319/20250318596141.pdf・3回目）
+- 沿革：
+  - 「2027年卒」（https://www.sports-f.co.jp/・1回目）
+  - 「2028年卒」（https://www.sports-f.co.jp/・1回目）
+  - 「2027年度新卒入社者の内定式を開催 in 大阪」（https://www.sports-f.co.jp/・1回目）
+  - 「2010年1月」（https://www.sports-f.co.jp/company/overview/・1回目）
+  - 「沿革 | 株式会社スポーツフィールド」（https://www.sports-f.co.jp/company/history/・1回目）
+  - 「2026年5月12日」（https://sports-f.co.jp/ir/calendar/・1回目）
+  - 「2026年12月期 第1四半期決算発表」（https://sports-f.co.jp/ir/calendar/・1回目）
+  - 「2026年8月10日」（https://sports-f.co.jp/ir/calendar/・1回目）
+  - 「2026年12月期 第2四半期決算発表」（https://sports-f.co.jp/ir/calendar/・1回目）
+  - 「2026年11月10日」（https://sports-f.co.jp/ir/calendar/・1回目）
+  - 「2026年12月期 第3四半期決算発表」（https://sports-f.co.jp/ir/calendar/・1回目）
+  - 「2027年2月中旬」（https://sports-f.co.jp/ir/calendar/・1回目）
+- 検索結果の抜粋：
+  - 「株式会社 スポーツフィールド — 株式会社 スポーツフィールド 株式会社スポーツフィールド https://www.sports-f.co.jp」（https://www.sports-f.co.jp/・3回目）
+  - 「体育会事業部門‐スポナビ - スポーツフィールド 採用情報 — 体育会事業部門‐スポナビ - スポーツフィールド 採用情報 sports-f.recruitment.jp https://sports-f.recruitment.jp > work > detail」（https://sports-f.recruitment.jp/work/detail/id=332・3回目）
+  - 「会社概要 | 株式会社 スポーツフィールド — 会社概要 | 株式会社 スポーツフィールド 株式会社スポーツフィールド https://www.sports-f.co.jp > 企業情報トップ」（https://www.sports-f.co.jp/company/overview/・3回目）
+  - 「(株) スポーツフィールド の新卒採用・会社概要 | マイナビ2027 — (株) スポーツフィールド の新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp93968 > outline」（https://job.mynavi.jp/27/pc/search/corp93968/outline.html・3回目）
+  - 「決算説明資料 | 株式会社 スポーツフィールド — 決算説明資料 | 株式会社 スポーツフィールド 株式会社スポーツフィールド https://sports-f.co.jp > presentations」（https://sports-f.co.jp/ir/presentations/・3回目）
+  - 「FAQ| 株式会社 スポーツフィールド — FAQ| 株式会社 スポーツフィールド 株式会社スポーツフィールド https://sports-f.co.jp > faq」（https://sports-f.co.jp/ir/faq/・3回目）
+  - 「株主・投資家の皆様へ| 株式会社 スポーツフィールド — 株主・投資家の皆様へ| 株式会社 スポーツフィールド 株式会社スポーツフィールド https://sports-f.co.jp > ...」（https://sports-f.co.jp/ir/・3回目）
+  - 「【 スポーツフィールド 】[7080]IR情報 中期経営計画や 決算 短信 — 【 スポーツフィールド 】[7080]IR情報 中期経営計画や 決算 短信 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo」（https://www.nikkei.com/nkd/company/kigyo/?scode=7080・3回目）
+  - 「IRカレンダー| 株式会社 スポーツフィールド — IRカレンダー| 株式会社 スポーツフィールド 株式会社スポーツフィールド https://sports-f.co.jp > calendar」（https://sports-f.co.jp/ir/calendar/・3回目）
+  - 「サイトマップ | 株式会社 スポーツフィールド — サイトマップ | 株式会社 スポーツフィールド 株式会社スポーツフィールド https://www.sports-f.co.jp > sitemap」（https://www.sports-f.co.jp/sitemap/・3回目）
+  - 「(株) スポーツフィールド の会社概要 | マイナビ2028 — (株) スポーツフィールド の会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp93968 > outline」（https://job.mynavi.jp/28/pc/search/corp93968/outline.html・3回目）
+  - 「株式会社 スポーツフィールド 採用情報 — 株式会社 スポーツフィールド 採用情報 sports-f.recruitment.jp https://sports-f.recruitment.jp」（https://sports-f.recruitment.jp/・3回目）
+- 売上高：記載なし（3回確認済み：公式20頁／PDF・画像3件／外部5頁・検索5回）
+
+## スマレジ
+- 公式URL：https://tenpo-navi.com/（search:ddgs:google:スマレジ）
+- 事業内容：・店舗開業・設備に関する情報リサーチおよびWebメディアの運営 ・看板製作、店舗内装、クラウドPOSレジ等の費用相場・サービス比較情報の提供 ・自治体条例および公的補助金に関する基礎情報の調査・発信（https://tenpo-navi.com/about/・1回目）
+- ビジネスモデル：
+  - 「スマレジのビジネスモデル」（https://note.com/ipponclub/n/n9dd0bda3c219・3回目）
+  - 「そのビジネスモデルと収益の仕組みをまとめた」（https://note.com/ipponclub/n/n9dd0bda3c219・3回目）
+  - 「2. サブスクリプション型の収益モデル」（https://note.com/ipponclub/n/n9dd0bda3c219・3回目）
+  - 「スケーラブルなビジネスモデル」（https://note.com/ipponclub/n/n9dd0bda3c219・3回目）
+  - 「スマレジは、低コストで柔軟性の高いクラウド型POSシステムを提供し、サブスクリプション型の収益モデルを核とすることで、安定した利益を確保」（https://note.com/ipponclub/n/n9dd0bda3c219・3回目）
+  - 「ビジネスモデル」（https://note.com/ipponclub/n/n9dd0bda3c219・3回目）
+- 誰に：
+  - 「会計・レシート発行、売上集計・分析、在庫管理、顧客管理、点検・精算」（https://tenpo-navi.com/posts/air-regi-review-and-cost/・1回目）
+  - 「アプリが無料でも、現場でお客様から現金を預かり、レシートを渡し、カード決済を行うためには周辺機器が必要です」（https://tenpo-navi.com/posts/air-regi-review-and-cost/・1回目）
+  - 「導入は無料プランからスタートできるため、顧客獲得のハードルが低い」（https://note.com/ipponclub/n/n9dd0bda3c219・3回目）
+  - 「より高度な在庫管理、顧客管理、分析ツールなどを含む有料プランを提供」（https://note.com/ipponclub/n/n9dd0bda3c219・3回目）
+  - 「業種や規模に応じて、さまざまな料金プランを用意し、幅広い顧客層をカバー」（https://note.com/ipponclub/n/n9dd0bda3c219・3回目）
+  - 「クラウド型のため、システムを提供するコストが大きく増えることなく、多数の顧客を獲得可能」（https://note.com/ipponclub/n/n9dd0bda3c219・3回目）
+  - 「初期費用の低さで顧客を獲得」（https://note.com/ipponclub/n/n9dd0bda3c219・3回目）
+  - 「無料プランを提供することで、導入ハードルを下げ、新規顧客を獲得」（https://note.com/ipponclub/n/n9dd0bda3c219・3回目）
+  - 「顧客が事業拡大や運営効率化を図る際に、有料プランへ移行する確率が高い」（https://note.com/ipponclub/n/n9dd0bda3c219・3回目）
+  - 「顧客ロイヤリティの高いサービスを提供しているため、解約率が低い」（https://note.com/ipponclub/n/n9dd0bda3c219・3回目）
+  - 「当社の主要顧客であるSMB（中小規模店舗）のオーナーや店舗責任者は、1人何役もこなす多忙な方々ですから、業務効率化は絶対的なニーズなんです」（https://note.com/smaregi/n/n587884d4ac38・3回目）
+  - 「一番大事な顧客を直接担当しているため、どうしても自身の顧客業務が最優先になりがちでした」（https://note.com/smaregi/n/n587884d4ac38・3回目）
+- 何を：
+  - 「・看板製作、店舗内装、クラウドPOSレジ等の費用相場・サービス比較情報の提供」（https://tenpo-navi.com/about/・1回目）
+  - 「特定のサービスや施工会社を根拠なく過剰に持ち上げることなく、それぞれのメリット・デメリット、向いている店舗規模（単独店・小型店かチェーン店か等）を客観的に明記し、読者が自店に最適な判断を下せるコンテンツを提供します」（https://tenpo-navi.com/about/・1回目）
+  - 「Airレジは、手持ちのiPadやiPhoneに専用アプリをインストールするだけで、誰でもカンタンに高機能なPOSレジを始められるサービスです」（https://tenpo-navi.com/posts/air-regi-review-and-cost/・1回目）
+  - 「他社クラウドPOSレジの多くは「無料プランだと商品登録数に上限がある」「売上分析が過去1ヶ月しか見られない」といった制限を設けています」（https://tenpo-navi.com/posts/air-regi-review-and-cost/・1回目）
+  - 「商品登録無制限・売上分析も無期限・利用店舗数無制限」（https://tenpo-navi.com/posts/air-regi-review-and-cost/・1回目）
+  - 「: 日別・月別・商品別の売上グラフ、時間帯別売上データ」（https://tenpo-navi.com/posts/air-regi-review-and-cost/・1回目）
+  - 「商品・在庫管理」（https://tenpo-navi.com/posts/air-regi-review-and-cost/・1回目）
+  - 「ビッグカメラ等で「Airレジ サービスカウンター」が全国展開」（https://tenpo-navi.com/posts/air-regi-review-and-cost/・1回目）
+  - 「テーブルごとのモバイルオーダーやキッチンプリンターの高度な制御を行う場合、別サービスの「Airレジ オーダー（有料プランあり）」を組み合わせる必要があります」（https://tenpo-navi.com/posts/air-regi-review-and-cost/・1回目）
+  - 「S5[“⑤ 商品・メニュー登録＆テスト会計”]:::step」（https://tenpo-navi.com/posts/air-regi-review-and-cost/・1回目）
+  - 「、さらに主要サービスを横断比較したい方は」（https://tenpo-navi.com/posts/air-regi-review-and-cost/・1回目）
+  - 「📢 サービス案内 順次更新中」（https://tenpo-navi.com/posts/air-regi-review-and-cost/・1回目）
+- どうやって売るか：
+  - 「店舗開業設備ナビ【大阪・関西版】」（https://tenpo-navi.com/・1回目）
+  - 「店舗開業設備ナビ」（https://tenpo-navi.com/・1回目）
+  - 「店舗開業・設備工事の無料相談＆相場ポータル」（https://tenpo-navi.com/・1回目）
+  - 「店舗内装・原状回復」（https://tenpo-navi.com/・1回目）
+  - 「店舗内装・オフィス原状回復」（https://tenpo-navi.com/・1回目）
+  - 「店舗開業・改装の設備準備を、」（https://tenpo-navi.com/・1回目）
+  - 「自社施工で安い大阪の優良業者を紹介」（https://tenpo-navi.com/・1回目）
+  - 「大阪の店舗内装おすすめ10選 →」（https://tenpo-navi.com/・1回目）
+  - 「利用店舗数No.1のリクルート提供「Airレジ（エアレジ）」の月額0円の真実、無料の範囲と周辺機器のリアルな導入費用、メリット・注意点・スマレジとの違いをプロが徹底解説」（https://tenpo-navi.com/・1回目）
+  - 「袖看板の高さ制限は？道路法・建築基準法で知っておくべき設置ルールに関する費用相場や選び方、注意点を大阪の店舗オーナー向けにわかりやすく解説します」（https://tenpo-navi.com/・1回目）
+  - 「カフェ・美容室・ネイル・エステサロンに特化した店舗看板の製作費用相場とおしゃれな集客サイン事例を徹底解説！アイアンサイン・LEDカルプ切り文字・ファサード演出の費用感や入店率を高める看板の配置テクニック」（https://tenpo-navi.com/・1回目）
+  - 「【2026年最新】店舗向けキャッシュレス決済端末のおすすめ比較！端末代無料・手数料一覧」（https://tenpo-navi.com/・1回目）
+- お金の形：
+  - 「【完全無料？】Airレジ（エアレジ）の初期費用・機器代と月額料金！導入の落とし穴と評判」（https://tenpo-navi.com/・1回目）
+  - 「利用店舗数No.1のリクルート提供「Airレジ（エアレジ）」の月額0円の真実、無料の範囲と周辺機器のリアルな導入費用、メリット・注意点・スマレジとの違いをプロが徹底解説」（https://tenpo-navi.com/・1回目）
+  - 「【2026年最新】店舗向けキャッシュレス決済端末のおすすめ比較！端末代無料・手数料一覧」（https://tenpo-navi.com/・1回目）
+  - 「決済手数料、入金サイクル、端末代実質無料キャンペーン、審査の早さをプロが解説」（https://tenpo-navi.com/・1回目）
+  - 「月額費用、決済手数料、業種別（飲食店・小売・美容室・個人店）の選び方や周辺機器コスト、IT導入補助金の活用法までプロがわかりやすく解説します」（https://tenpo-navi.com/・1回目）
+  - 「施工費用や月額プランなどの金額情報は、各社公式サイトの公開情報や業界相場を調査した目安値を掲載しています」（https://tenpo-navi.com/about/・1回目）
+  - 「【完全無料？】Airレジ（エアレジ）の初期費用・機器代と月額料金！導入の落とし穴と評判 | 店舗開業設備ナビ【大阪・関西版】」（https://tenpo-navi.com/posts/air-regi-review-and-cost/・1回目）
+  - 「【完全無料？】Airレジ（エアレジ）の初期費用・機器代と月額料金！導入の落とし穴と評判」（https://tenpo-navi.com/posts/air-regi-review-and-cost/・1回目）
+  - 「「Airレジは本当に月額0円でずっと使い続けられるの？」」（https://tenpo-navi.com/posts/air-regi-review-and-cost/・1回目）
+  - 「月額0円の仕組み・無料の範囲、現場で使うための周辺機器のリアルな費用相場、導入のメリット・デメリット、そしてスマレジとの決定的な違い」（https://tenpo-navi.com/posts/air-regi-review-and-cost/・1回目）
+  - 「初期費用 / 月額費用」（https://tenpo-navi.com/posts/air-regi-review-and-cost/・1回目）
+  - 「アプリの利用料・月額固定費は完全に0円だが、ハードウェア（機器代）と決済手数料は必要」（https://tenpo-navi.com/posts/air-regi-review-and-cost/・1回目）
+- 利益の源泉：
+  - 「① 複数店舗の一括管理や高度な在庫管理には不向き」（https://tenpo-navi.com/posts/air-regi-review-and-cost/・1回目）
+  - 「会計・レシート発行、売上集計・分析、在庫管理、顧客管理、点検・精算」（https://tenpo-navi.com/posts/air-regi-review-and-cost/・1回目）
+  - 「商品・在庫管理」（https://tenpo-navi.com/posts/air-regi-review-and-cost/・1回目）
+  - 「: 在庫数カウント、在庫切れアラート（※基本機能）」（https://tenpo-navi.com/posts/air-regi-review-and-cost/・1回目）
+  - 「多店舗展開時の「店舗間での在庫移動」や「本部PCから全店横断での詳細な利益率分析」などは、スマレジ等の上位クラウドPOSに軍配が上がります」（https://tenpo-navi.com/posts/air-regi-review-and-cost/・1回目）
+  - 「（高度在庫管理・本部一括制御）”]:::accent」（https://tenpo-navi.com/posts/air-regi-review-and-cost/・1回目）
+  - 「専用のハードウェア（タブレット端末など）を用い、商品販売や在庫管理、売上データの収集を行うPOSシステム」（https://note.com/ipponclub/n/n9dd0bda3c219・3回目）
+  - 「より高度な在庫管理、顧客管理、分析ツールなどを含む有料プランを提供」（https://note.com/ipponclub/n/n9dd0bda3c219・3回目）
+  - 「POSと決済をソフトとハードの両面で提供できる当社の強みを活かした、サービス体験のさらなる向上に取り組んでいます」（https://note.com/smaregi/n/n587884d4ac38・3回目）
+- 沿革：
+  - 「2024年12月25日 18:00」（https://note.com/ipponclub/n/n9dd0bda3c219・3回目）
+  - 「2031年4月期にARR（年間定期利益）300億円を目指す」（https://note.com/ipponclub/n/n9dd0bda3c219・3回目）
+  - 「2025年7月31日 12:06」（https://note.com/smaregi/n/n587884d4ac38・3回目）
+  - 「2025年7月29日、当社執行役員の高橋が取締役に就任いたしました」（https://note.com/smaregi/n/n587884d4ac38・3回目）
+  - 「2025年3月からは営業本部長を務め、他事業も含めた営業活動全体を管掌しています」（https://note.com/smaregi/n/n587884d4ac38・3回目）
+  - 「2031年4月期までのARR300億円達成」（https://note.com/smaregi/n/n587884d4ac38・3回目）
+  - 「2022年、当社は前年に子会社化していたロイヤルゲート社を吸収合併し、決済サービス「スマレジ・PAYGATE」の販売開を皮」（https://note.com/smaregi/n/n587884d4ac38・3回目）
+- 検索結果の抜粋：
+  - 「スマレジ （4431） 儲けの仕組み｜まーほ - note — スマレジ （4431） 儲けの仕組み｜まーほ - note note https://note.com > ビジネス > ビジネス全般」（https://note.com/ipponclub/n/n9dd0bda3c219・3回目）
+  - 「リテール ビジネス プラン | 小売店舗向け - スマレジ — リテール ビジネス プラン | 小売店舗向け - スマレジ smaregi.jp https://smaregi.jp > price > retail」（https://smaregi.jp/price/retail.php・3回目）
+  - 「事業について | 株式会社 スマレジ 企業サイト — 事業について | 株式会社 スマレジ 企業サイト corp.smaregi.jp https://corp.smaregi.jp > 採用情報 > 会社について知る」（https://corp.smaregi.jp/recruit/about/service.php・3回目）
+  - 「なぜ スマレジ は、巨人多数の市場で高成長/高収益を継続 ... — なぜ スマレジ は、巨人多数の市場で高成長/高収益を継続 ... Tech Growth letter https://industrysafari.theletter.jp > posts」（https://industrysafari.theletter.jp/posts/b4ac77f0-c9c3-11ef-80d1-cda10b442d18・3回目）
+  - 「スマレジ ・POSの料金プラン・価格一覧 — スマレジ ・POSの料金プラン・価格一覧 smaregi.jp https://smaregi.jp > price」（https://smaregi.jp/price/・3回目）
+  - 「決算 情報 | 株式会社 スマレジ 企業サイト — 決算 情報 | 株式会社 スマレジ 企業サイト corp.smaregi.jp https://corp.smaregi.jp > IR > IRライブラリー」（https://corp.smaregi.jp/ir/library/financial-results.php・3回目）
+  - 「IRライブラリー | 株式会社 スマレジ 企業サイト — IRライブラリー | 株式会社 スマレジ 企業サイト corp.smaregi.jp https://corp.smaregi.jp > IR」（https://corp.smaregi.jp/ir/library/・3回目）
+  - 「スマレジ [4431]：2026年4月期通期 決算説明 ... - 日本経済新聞 — スマレジ [4431]：2026年4月期通期 決算説明 ... - 日本経済新聞 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr」（https://www.nikkei.com/nkd/disclosure/tdnr/20260612569309/・3回目）
+  - 「2025年4月期 通期 決算説明資料 - 株式会社スマレジ — 2025年4月期 通期 決算説明資料 - 株式会社スマレジ corp.smaregi.jp https://corp.smaregi.jp > ... > 2025年4月期 通期決算」（https://corp.smaregi.jp/ir/result/fy2025_4Q/・3回目）
+  - 「株式会社 スマレジ IR よくあるご質問（FAQ） — 株式会社 スマレジ IR よくあるご質問（FAQ） corp.smaregi.jp https://corp.smaregi.jp > IR」（https://corp.smaregi.jp/ir/qa.php・3回目）
+  - 「会社概要 | 株式会社 スマレジ 企業サイト — 会社概要 | 株式会社 スマレジ 企業サイト corp.smaregi.jp https://corp.smaregi.jp > 会社情報」（https://corp.smaregi.jp/corporate/company.php・3回目）
+  - 「事業 について | 株式会社 スマレジ 企業サイト — 事業 について | 株式会社 スマレジ 企業サイト corp.smaregi.jp https://corp.smaregi.jp > 採用情報 > 会社について知る」（https://corp.smaregi.jp/recruit/about/service.php・3回目）
+- 設立：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部8頁・検索5回）
+- 従業員数：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部8頁・検索5回）
+- 売上高：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部8頁・検索5回）
+- 売上構成：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部8頁・検索5回）
 
 ## セルシス
 - 公式URL：https://www.celsys.com/（search:yahoo_jp:セルシス）
@@ -9293,6 +14266,83 @@
   - 「3925 ダブルスタンダード | 事業内容 - 有価証券報告書-第11期 (2022/... — 顧客企業の事業の在り方や業務プロセスを洗い出し、関連する競合のWEBサービスとの差異、顧客あるいは取引先とのビジネスフローを詳細に分析したうえで、時間をかけながら世に無い新たなサービスとして企画立案し、導入いたします。」（https://irbank.net/E31957/business?f=S100R4KL・3回目）
   - 「ダブルスタンダード (企業) - Wikipedia — ダブルスタンダード (企業) ... 株式会社ダブルスタンダード （英：Double Standard Inc. ）は、 東京都 港区 に本社を置く企業向け ビッグデータ の生成・提供事業等を行う企業。 JPX日経中小型株指数 の構成銘柄の一つ [1]。」（https://ja.wikipedia.org/wiki/ダブルスタンダード_(企業)・3回目）
 
+## チェンジホールディングス
+- 公式URL：https://www.changeholdings.co.jp/（search:yahoo_jp:チェンジホールディングス）
+- 設立：2003年4月10日　※2023年4月1日に株式会社チェンジから名称変更（https://www.changeholdings.co.jp/company/outline/・1回目）
+- ビジネスモデル：
+  - 「当社グループは「Change People, Change Business, Change Japan.」をミッションに掲げ、「生産性をCHANGEする」というビジョンのもと、「人×技術」で日本の生産性を飛躍的に向上させ、人口減少下の日本を持続可能な社会にするため、ビジネスモデル・業務プロセスのデジタル化及びデジタル人材の育 成支援などの事業を展開し、創業以来、多くの顧客のデジタル化ニーズに対してソリューションを提供しております」（https://www.changeholdings.co.jp/ir/business/・1回目）
+- 誰に：
+  - 「また、通信環境やお客様のコンピュータの状況、その他の理由により当ウェブサイトを正常に利用できない場合があります」（https://www.changeholdings.co.jp/ir/・1回目）
+  - 「当社グループは「Change People, Change Business, Change Japan.」をミッションに掲げ、「生産性をCHANGEする」というビジョンのもと、「人×技術」で日本の生産性を飛躍的に向上させ、人口減少下の日本を持続可能な社会にするため、ビジネスモデル・業務プロセスのデジタル化及びデジタル人材の育 成支援などの事業を展開し、創業以来、多くの顧客のデジタル化ニーズに対してソリューションを提供しております」（https://www.changeholdings.co.jp/ir/business/・1回目）
+  - 「当社は、株主、顧客、使用人をはじめとするステークホルダーの皆様に対して、経営責任と説明責任の明確化を図り、もって、企業価値の最大化によるメリットを提供するため、経営と業務執行における透明性の確保並びにコンプライアンス遵守の徹底を進め、同時に、効率的な経営の推進を行うための仕組みであると考えております」（https://www.changeholdings.co.jp/ir/governance/・1回目）
+  - 「IRは、顧客戦略や従業員への働きかけと並んで、経営が考えるべき非常に重要な活動です」（https://note.com/fundinno/n/n182d5fdfec53・3回目）
+- 何を：
+  - 「ソリューション」（https://www.changeholdings.co.jp/・1回目）
+  - 「つのソリューション」（https://www.changeholdings.co.jp/・1回目）
+  - 「様々なソリューションを提供しています」（https://www.changeholdings.co.jp/・1回目）
+  - 「チェンジホールディングス、東光コンピュータ・サービス、 エアロネクスト、NEXT DELIVERYの4社は、 秋田県から受託した「クマ対策ドローン実証事業」の実証実験を実施」（https://www.changeholdings.co.jp/・1回目）
+  - 「イー・ガーディアン、ECサイトに残る商品情報の"反映漏れ"をAIで検知する「EC商品情報AI監視ソリューション」を提供開始」（https://www.changeholdings.co.jp/・1回目）
+  - 「EGテスティングサービス、Webアクセシビリティ診断事業でSTYZ社と連携開始」（https://www.changeholdings.co.jp/・1回目）
+  - 「ビーキャップ、国際ビジネスコミュニケーション協会の位置情報サービス「Beacapp Here」導入事例を公開」（https://www.changeholdings.co.jp/・1回目）
+  - 「ソリューション」（https://www.changeholdings.co.jp/company/outline/・1回目）
+  - 「東光コンピュータ・サービス株式会社」（https://www.changeholdings.co.jp/company/outline/・1回目）
+  - 「株式会社インタラクティブソリューションズ」（https://www.changeholdings.co.jp/company/outline/・1回目）
+  - 「ソリューション」（https://www.changeholdings.co.jp/company/development/・1回目）
+  - 「公共向けSaaS型ソリューション群モデルやプラットフォームモデル等のサービス領域の強化を目的に株式会社ガバナンステクノロジーズを子会社化」（https://www.changeholdings.co.jp/company/development/・1回目）
+- どうやって売るか：
+  - 「キャリア紹介」（https://www.changeholdings.co.jp/・1回目）
+  - 「キャリア紹介」（https://www.changeholdings.co.jp/company/outline/・1回目）
+  - 「キャリア紹介」（https://www.changeholdings.co.jp/company/development/・1回目）
+  - 「キャリア紹介」（https://www.changeholdings.co.jp/ir/・1回目）
+  - 「キャリア紹介」（https://www.changeholdings.co.jp/ir/message/・1回目）
+  - 「キャリア紹介」（https://www.changeholdings.co.jp/ir/business/・1回目）
+  - 「キャリア紹介」（https://www.changeholdings.co.jp/ir/governance/・1回目）
+  - 「キャリア紹介」（https://www.changeholdings.co.jp/ir/summary/・1回目）
+  - 「キャリア紹介」（https://www.changeholdings.co.jp/ir/material/・1回目）
+  - 「キャリア紹介」（https://www.changeholdings.co.jp/ir/disclosure/・1回目）
+  - 「キャリア紹介」（https://www.changeholdings.co.jp/ir/securities/・1回目）
+  - 「キャリア紹介」（https://www.changeholdings.co.jp/ir/meeting/・1回目）
+- お金の形：
+  - 「Q. FUNDINNOのストックオプションを上場前に現金化できるサービスについて、率直なご意見をお聞かせください」（https://note.com/fundinno/n/n182d5fdfec53・3回目）
+  - 「ストックオプションは「上場しないと意味がない」という固定観念がありますが、未上場のうちからストックオプションを活用することで、企業は選択肢が広がり、働く人々のインセンティブにもなります」（https://note.com/fundinno/n/n182d5fdfec53・3回目）
+  - 「Q. 上場前にストックオプションを現金化できる仕組みは、どのような効果をもたらしますか？」（https://note.com/fundinno/n/n182d5fdfec53・3回目）
+  - 「福留氏：ストックオプションはインセンティブです」（https://note.com/fundinno/n/n182d5fdfec53・3回目）
+  - 「これまではストックオプションが上場が確実視されている会社でなければ価値が生まれにくいという制約がありましたが、上場前に現金化できる仕組みがあれば、今までのハイリスク・ハイリターンの設計になってしまっていたものをミドルリスク・ミドルリターンの設計が可能になります」（https://note.com/fundinno/n/n182d5fdfec53・3回目）
+  - 「当社のサービスにおける手数料等及びリスクはこちら」（https://note.com/fundinno/n/n182d5fdfec53・3回目）
+- 利益の源泉：
+  - 「全国の自治体への営業・マーケティング力に強みを持つ株式会社ホープを持分法適用会社化」（https://www.changeholdings.co.jp/company/development/・1回目）
+  - 「自治体向け観光分野に強みを有する株式会社トラベルジップを子会社化」（https://www.changeholdings.co.jp/company/development/・1回目）
+- 沿革：
+  - 「2026年10月30日」（https://www.changeholdings.co.jp/・1回目）
+  - 「2026年10月29日」（https://www.changeholdings.co.jp/・1回目）
+  - 「2026年10月28日」（https://www.changeholdings.co.jp/・1回目）
+  - 「2026年10月27日」（https://www.changeholdings.co.jp/・1回目）
+  - 「2003年4月10日 ※2023年4月1日に株式会社チェンジから名称変更」（https://www.changeholdings.co.jp/company/outline/・1回目）
+  - 「沿革 | 株式会社チェンジホールディングス」（https://www.changeholdings.co.jp/company/development/・1回目）
+  - 「2016年9月27日」（https://www.changeholdings.co.jp/ir/stock-disclaimer/・1回目）
+  - 「2026年6月10日現在」（https://www.changeholdings.co.jp/ir/dividend/・1回目）
+  - 「2025年12月末日より株主優待の基準日（12月末日および6月末日、以下「基準日」とします）における当社株主名簿に記載または記録された300株（3単元）以上を保有されている株主様を対象といたします」（https://www.changeholdings.co.jp/ir/benefit/・1回目）
+  - 「2020年10月〜2021年9月」（https://www.changeholdings.co.jp/sustainability/environment/climate/・1回目）
+  - 「2022年1月〜2022年12月」（https://www.changeholdings.co.jp/sustainability/environment/climate/・1回目）
+  - 「2023年1月〜2023年12月」（https://www.changeholdings.co.jp/sustainability/environment/climate/・1回目）
+- 検索結果の抜粋：
+  - 「ソリューション | 株式会社 チェンジホールディングス — ソリューション | 株式会社 チェンジホールディングス 株式会社チェンジホールディングス https://www.changeholdings.co.jp > company > solution」（https://www.changeholdings.co.jp/company/solution/・3回目）
+  - 「事業内容 - 株式会社チェンジホールディングス — 事業内容 - 株式会社チェンジホールディングス 株式会社チェンジホールディングス https://www.changeholdings.co.jp > 株主・投資家情報」（https://www.changeholdings.co.jp/ir/business/・3回目）
+  - 「金融機関・自治体における窓口業務のDX化に向けた戦略的 ... — 金融機関・自治体における窓口業務のDX化に向けた戦略的 ... 株式会社チェンジホールディングス https://www.changeholdings.co.jp > ニュース」（https://www.changeholdings.co.jp/news/49/・3回目）
+  - 「チェンジホールディングス 【3962】の事業内容 - キタイシホン — チェンジホールディングス 【3962】の事業内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/3962/business・3回目）
+  - 「チェンジ グループの組織構成 — チェンジ グループの組織構成 株式会社チェンジホールディングス https://www.changeholdings.co.jp > 採用情報」（https://www.changeholdings.co.jp/recruit/organization/・3回目）
+  - 「決算説明 会 資料 | 株式会社 チェンジホールディングス — 決算説明 会 資料 | 株式会社 チェンジホールディングス 株式会社チェンジホールディングス https://www.changeholdings.co.jp > 株主・投資家情報」（https://www.changeholdings.co.jp/ir/material/・3回目）
+  - 「株主・投資家情報 - 株式会社チェンジホールディングス — 株主・投資家情報 - 株式会社チェンジホールディングス 株式会社チェンジホールディングス https://www.changeholdings.co.jp > ...」（https://www.changeholdings.co.jp/ir/・3回目）
+  - 「財務・業績情報 - 株式会社チェンジホールディングス — 財務・業績情報 - 株式会社チェンジホールディングス 株式会社チェンジホールディングス https://www.changeholdings.co.jp > 株主・投資家情報」（https://www.changeholdings.co.jp/ir/highlight/・3回目）
+  - 「ディスクロージャー・ポリシー — ディスクロージャー・ポリシー 株式会社チェンジホールディングス https://www.changeholdings.co.jp > disclosure-policy」（https://www.changeholdings.co.jp/disclosure-policy/・3回目）
+  - 「チェンジホールディングス [3962]：2026年3月期第3四半期 ... — チェンジホールディングス [3962]：2026年3月期第3四半期 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr」（https://www.nikkei.com/nkd/disclosure/tdnr/20260212556676/・3回目）
+  - 「事業 内容 - 株式会社チェンジホールディングス — 事業 内容 - 株式会社チェンジホールディングス 株式会社チェンジホールディングス https://www.changeholdings.co.jp > 株主・投資家情報」（https://www.changeholdings.co.jp/ir/business/・3回目）
+  - 「会社概要 - 株式会社チェンジホールディングス — 会社概要 - 株式会社チェンジホールディングス 株式会社チェンジホールディングス https://www.changeholdings.co.jp > company > about」（https://www.changeholdings.co.jp/company/about/・3回目）
+- 従業員数：記載なし（3回確認済み：公式25頁／PDF・画像1件／外部1頁・検索5回）
+- 事業内容：記載なし（3回確認済み：公式25頁／PDF・画像1件／外部1頁・検索5回）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像1件／外部1頁・検索5回）
+- 売上構成：記載なし（3回確認済み：公式25頁／PDF・画像1件／外部1頁・検索5回）
+
 ## チャットプラス
 - 公式URL：https://chatplus.jp/（search:yahoo_jp:チャットプラス）
 - 設立：2016年8月（https://chatplus.jp/corporate/about/・1回目）
@@ -9403,6 +14453,164 @@
   - 「【 インタビュー 】 チャットプラス 西田 社長 国内最多導入の ... — 【 インタビュー 】 チャットプラス 西田 社長 国内最多導入の ... AIsmiley https://aismiley.co.jp > ニュース」（https://aismiley.co.jp/ai_news/chatplus-aismiley-interview/・3回目）
 - 従業員数：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部2頁・検索5回）
 - 売上高：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部2頁・検索5回）
+
+## テクセンドフォトマスク
+- 公式URL：https://www.photomask.com/（search:yahoo_jp:株式会社テクセンドフォトマスク）
+- 設立：2021年12月13日（https://www.photomask.com/about/overview/・1回目）
+- 従業員数：1,944名（2026年3月末日現在）（https://www.photomask.com/about/overview/・1回目）
+- 事業内容：フォトマスクの製造・販売（https://www.photomask.com/about/・1回目）
+- 事業内容：フォトマスクの製造・販売（https://www.photomask.com/about/overview/・1回目）
+- 誰に：
+  - 「東京に本社を構え、世界各地に広がる顧客サービスネットワークと、主要な地域にある9つの製造拠点を活用し、業界最先端の技術開発力で、外販フォトマスクのリーディングカンパニーとして半導体産業の発展に貢献します」（https://www.photomask.com/about/・1回目）
+  - 「さらに提案力を強化し、パートナー企業やお客様とともに価値創造に挑むことで、「最初に選ばれる企業 Be the First Choice, Always」であり続けることを目指します」（https://www.photomask.com/about/message/・1回目）
+  - 「東京に本社を構え、世界各地に広がる顧客サービスネットワークと、主要な地域にある9つの製造拠点を活用し、業界最先端の技術開発力で、外販フォトマスクのリーディングカンパニーとして半導体産業の発展に貢献します」（https://www.photomask.com/about/feature/・1回目）
+  - 「東京に本社を構え、世界各地に広がる顧客サービスネットワークと、主要な地域にある9つの製造拠点を活用し、業界最先端の技術開発力で、外販フォトマスクのリーディングカンパニーとして半導体産業の発展に貢献します」（https://www.photomask.com/about/locations/・1回目）
+  - 「フォトマスクブランクスの特性はウェハの生産プロセスにも影響を与えるため、顧客プロセスへの最適化も企図したブランクスを開発し、同材料の採用を顧客に提案することで、先端品フォトマスク需要をいち早く取り込むことにも寄与しております」（https://www.photomask.com/ir/growth-strategy/・1回目）
+  - 「なお、個人情報、顧客情報、および関係者の権利を侵害することになる情報につきましては開示しません」（https://www.photomask.com/ir/disclosure-policy/・1回目）
+  - 「投資に関する決定は利用者ご自身の判断でなさるようお願いいたします」（https://www.photomask.com/ir/disclaimer/・1回目）
+  - 「また、通信環境やお客様のコンピュータの状況、その他の理由により当ウェブサイトを正常に利用できない場合があります」（https://www.photomask.com/ir/disclaimer/・1回目）
+- 何を：
+  - 「東京に本社を構え、世界各地に広がる顧客サービスネットワークと、主要な地域にある9つの製造拠点を活用し、業界最先端の技術開発力で、外販フォトマスクのリーディングカンパニーとして半導体産業の発展に貢献します」（https://www.photomask.com/about/・1回目）
+  - 「さらに、ナノインプリントモールドを始めとする微細加工製品にも事業領域を拡大していきます」（https://www.photomask.com/about/・1回目）
+  - 「文化や価値観の交わりから、新たなソリューションを創出します」（https://www.photomask.com/about/philosophy/・1回目）
+  - 「東京に本社を構え、世界各地に広がる顧客サービスネットワークと、主要な地域にある9つの製造拠点を活用し、業界最先端の技術開発力で、外販フォトマスクのリーディングカンパニーとして半導体産業の発展に貢献します」（https://www.photomask.com/about/feature/・1回目）
+  - 「さらに、ナノインプリントモールドを始めとする微細加工製品にも事業領域を拡大していきます」（https://www.photomask.com/about/feature/・1回目）
+  - 「スピーディできめ細かいサービスを提供するために、全世界9カ所に製造拠点を構えています」（https://www.photomask.com/about/feature/・1回目）
+  - 「東京に本社を構え、世界各地に広がる顧客サービスネットワークと、主要な地域にある9つの製造拠点を活用し、業界最先端の技術開発力で、外販フォトマスクのリーディングカンパニーとして半導体産業の発展に貢献します」（https://www.photomask.com/about/locations/・1回目）
+  - 「当社は、金融商品取引法等の諸法令および東京証券取引所の定める有価証券上場規程の「会社情報の適時開示等」(以下、「適時開示規則」といいます)に従って、透明性、公平性、継続性を基本とした迅速な情報開示を行います」（https://www.photomask.com/ir/disclosure-policy/・1回目）
+- どうやって売るか：
+  - 「テレビ東京系列「知られざるガリバー」にて テクセンドフォトマスクが紹介されます」（https://www.photomask.com/・1回目）
+  - 「さらに提案力を強化し、パートナー企業やお客様とともに価値創造に挑むことで、「最初に選ばれる企業 Be the First Choice, Always」であり続けることを目指します」（https://www.photomask.com/about/message/・1回目）
+  - 「これにより、グローバル市場での競争力を強化し、お客さまやパートナーとの信頼関係をより一層深めていきます」（https://www.photomask.com/about/brand/・1回目）
+  - 「国際規格を取得した事業所のご紹介」（https://www.photomask.com/about/iso/・1回目）
+  - 「指名・報酬委員」（https://www.photomask.com/ir/governance/・1回目）
+  - 「当社グループでは、最先端領域において様々なパートナーとの共同開発プロジェクトに取り組んでおります」（https://www.photomask.com/ir/growth-strategy/・1回目）
+- お金の形：
+  - 「社内向け情報システムの企画、設計、開発、運用及び保守業務」（https://www.photomask.com/about/iso/・1回目）
+- 利益の源泉：
+  - 「今回の社名変更は、先端微細加工技術を強みとする企業としての当社の認知度を高め、」（https://www.photomask.com/about/brand/・1回目）
+- 沿革：
+  - 「2026年10月08日」（https://www.photomask.com/・1回目）
+  - 「2026年10月07日」（https://www.photomask.com/・1回目）
+  - 「2026年09月15日」（https://www.photomask.com/・1回目）
+  - 「2026年09月10日」（https://www.photomask.com/・1回目）
+  - 「2026年08月31日」（https://www.photomask.com/・1回目）
+  - 「2026年08月17日」（https://www.photomask.com/・1回目）
+  - 「2026年08月07日」（https://www.photomask.com/・1回目）
+  - 「2026年07月31日」（https://www.photomask.com/・1回目）
+  - 「2026年06月23日」（https://www.photomask.com/・1回目）
+  - 「2026年06月01日」（https://www.photomask.com/・1回目）
+  - 「2021年12月13日」（https://www.photomask.com/about/overview/・1回目）
+  - 「2022年4月1日」（https://www.photomask.com/about/overview/・1回目）
+- 検索結果の抜粋：
+  - 「会社概要｜企業情報｜ テクセンドフォトマスク 株式会社 — 会社概要｜企業情報｜ テクセンドフォトマスク 株式会社 Tekscend Photomask https://www.photomask.com > 企業情報」（https://www.photomask.com/about/overview/・3回目）
+  - 「テクセンドフォトマスク の歴史 - Tekscend Photomask — テクセンドフォトマスク の歴史 - Tekscend Photomask Tekscend Photomask https://www.photomask.com > careers > content > history2」（https://www.photomask.com/careers/jp/graduate/content/history2.html・3回目）
+  - 「職種紹介｜ テクセンドフォトマスク 株式会社 — 職種紹介｜ テクセンドフォトマスク 株式会社 Tekscend Photomask https://www.photomask.com > careers > graduate > jobs」（https://www.photomask.com/careers/jp/graduate/jobs/・3回目）
+  - 「決算説明資料 ｜IR情報｜ テクセンドフォトマスク 株式会社 — 決算説明資料 ｜IR情報｜ テクセンドフォトマスク 株式会社 Tekscend Photomask https://www.photomask.com > IR情報」（https://www.photomask.com/ir/results-briefing/・3回目）
+  - 「決済短信｜IR情報｜ テクセンドフォトマスク 株式会社 — 決済短信｜IR情報｜ テクセンドフォトマスク 株式会社 Tekscend Photomask https://www.photomask.com > IR情報」（https://www.photomask.com/ir/financial-statements/・3回目）
+  - 「IR情報｜ テクセンドフォトマスク 株式会社 — IR情報｜ テクセンドフォトマスク 株式会社 Tekscend Photomask https://www.photomask.com > ...」（https://www.photomask.com/ir/・3回目）
+  - 「FAQ｜IR情報｜ テクセンドフォトマスク 株式会社 — FAQ｜IR情報｜ テクセンドフォトマスク 株式会社 Tekscend Photomask https://www.photomask.com > IR情報」（https://www.photomask.com/ir/faq/・3回目）
+  - 「企業情報｜ テクセンドフォトマスク 株式会社 — 企業情報｜ テクセンドフォトマスク 株式会社 Tekscend Photomask https://www.photomask.com > about」（https://www.photomask.com/about/・3回目）
+  - 「コーポレート・ガバナンス｜IR情報｜ テクセンドフォトマスク ... — コーポレート・ガバナンス｜IR情報｜ テクセンドフォトマスク ... Tekscend Photomask https://www.photomask.com > IR情報」（https://www.photomask.com/ir/governance/・3回目）
+  - 「テクセンドフォトマスク 株式会社」に社名を変更 - TOPPAN — テクセンドフォトマスク 株式会社」に社名を変更 - TOPPAN holdings.toppan.com https://www.holdings.toppan.com > newsrelease241001_1」（https://www.holdings.toppan.com/ja/news/2024/10/newsrelease241001_1.html・3回目）
+  - 「役員一覧 - テクセンドフォトマスク 株式会社 — 役員一覧 - テクセンドフォトマスク 株式会社 Tekscend Photomask https://www.photomask.com > 企業情報」（https://www.photomask.com/about/officers/・3回目）
+  - 「メッセージ｜企業情報｜ テクセンドフォトマスク 株式会社 — メッセージ｜企業情報｜ テクセンドフォトマスク 株式会社 Tekscend Photomask https://www.photomask.com > 企業情報」（https://www.photomask.com/about/message/・3回目）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部0頁・検索6回）
+- ビジネスモデル：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部0頁・検索6回）
+- 売上構成：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部0頁・検索6回）
+
+## テラプローブ
+- 公式URL：https://www.teraprobe.com/（search:yahoo_jp:テラプローブ）
+- 設立：2005年8月に設立いたしました。 当社の「沿革」は下記リンク先よりご確認いただけます。 会社概要/ 沿革（https://www.teraprobe.com/ir/faq/・1回目）
+- 設立：2005年8月（https://www.teraprobe.com/company/profile/・1回目）
+- 従業員数：308名（2026年3月現在）（https://www.teraprobe.com/company/profile/・1回目）
+- 事業内容：半導体のテスト受託が主な事業です。 詳細は、下記リンク先ページをご参照ください。 サービス紹介（https://www.teraprobe.com/ir/faq/・1回目）
+- 事業内容：ウエハテスト事業 ファイナルテスト事業 テスト技術開発事業 労働者派遣事業（https://www.teraprobe.com/company/profile/・1回目）
+- 売上高：増加 データセンタ向け製品の需要拡大に加え、新規顧客が増収に寄与（https://www.teraprobe.com/cwp/wp-content/uploads/20262Q_presentation.pdf・2回目）
+- 売上高：増加 データセンタ向け製品の需要拡大、EV向け製品も寄与（https://www.teraprobe.com/cwp/wp-content/uploads/20262Q_presentation.pdf・2回目）
+- ビジネスモデル：
+  - 「それぞれの強いところに経営資源を集中し、さらに強くなって成長させようというビジネスモデルです」（https://finance.logmi.jp/articles/380364・3回目）
+- 誰に：
+  - 「お客様の製造リスク管理と共に品質の高い製品の提供とその維持を担っております」（https://www.teraprobe.com/service/・1回目）
+  - 「全員への環境教育を徹底し、環境への意識向上をはかると共に、顧客及び地域社会をはじめとして社内外の全ての関係者に対して環境活動の公開につとめる」（https://www.teraprobe.com/sustainability/environment/・1回目）
+  - 「お客様にもご協力いただき、中長期の生産計画をあらかじめご提供いただくことで、効率化の観点から稼働設備を決定し、稼働予定のない生産設備については速やかに通電を停止するなど、効率的な運用を追求することで、電力の消費を抑えてます」（https://www.teraprobe.com/sustainability/environment/・1回目）
+  - 「世界中のお客様が心から満足し信頼できる」（https://www.teraprobe.com/ir/・1回目）
+  - 「このような事業環境の中で、当社グループは、世界的に競争力のある製品群に対してソリューションを提供し、お客様の様々なニーズに迅速かつ柔軟に対応することにより、企業価値の向上を目指してまいります」（https://www.teraprobe.com/ir/introduction/・1回目）
+  - 「そのために、日本と、今や生産・技術ともに半導体産業の世界的な中心地となった台湾の双方において、当社グループのエンジニアの手厚い支援によるお客様のグローバル化サポートや、サプライチェーン、ターンキーの提案などを行い、また、蓄積された技術力を基にR&D活動を推進し、単にテストを受託するだけでなく、お客様の製品企画・開発段階から参入し、魅力のある技術提案を行っていくことで、顧客満足を高め、より強力な取引関係の構築を図ります」（https://www.teraprobe.com/ir/introduction/・1回目）
+  - 「単に顧客の半導体製品のテストを受託するだけでなく、テスト技術の開発や最適なテスト装置・仕様の提案などを行い、関係会社等との連携による後工程受託まで含めたターンキーサービスを提供することで、顧客製品の価値向上に貢献し、顧客にとって信頼でき、ともに成長できるパートナーとして長期的な関係を築いています」（https://www.teraprobe.com/ir/individual/about.html・1回目）
+  - 「日本、台湾の両拠点で、豊富なテスト装置とエンジニアを有しており、取引スキームの提案や、テスト技術の共同開発、テスト装置や仕様の提案など、テストに関する様々なソリューションを提供することで、世界中のお客様からビジネスを獲得しています」（https://www.teraprobe.com/ir/individual/about.html・1回目）
+  - 「また、それぞれの会社が開拓してきた顧客基盤を活用し、連携して、事業の拡大を進めています」（https://www.teraprobe.com/ir/individual/about.html・1回目）
+  - 「常に、チャレンジ精神と誇りをもってビジネスに取り組み、技術を磨き、生産の効率化を進め、世界中のお客様が心から満足し信頼できるパートナーとして、新たな価値創造に貢献する」（https://www.teraprobe.com/ir/individual/sp14.html・1回目）
+  - 「単に顧客の半導体製品のテストを受託するだけでなく、テスト技術の開発や最適なテスト装置・仕様の提案などを行い、関係会社等との連携による後工程受託まで含めたターンキーサービスを提供することで、顧客製品の価値向上に貢献し、顧客にとって信頼でき、ともに成長できるパートナーとして長期的な関係を築いています」（https://www.teraprobe.com/ir_/individual/about.html・1回目）
+  - 「日本、台湾の両拠点で、豊富なテスト装置とエンジニアを有しており、取引スキームの提案や、テスト技術の共同開発、テスト装置や仕様の提案など、テストに関する様々なソリューションを提供することで、世界中のお客様からビジネスを獲得しています」（https://www.teraprobe.com/ir_/individual/about.html・1回目）
+- 何を：
+  - 「サービス紹介」（https://www.teraprobe.com/・1回目）
+  - 「テストオペレーションサービス」（https://www.teraprobe.com/・1回目）
+  - 「テストディベロップメントサービス」（https://www.teraprobe.com/・1回目）
+  - 「ソリューション」（https://www.teraprobe.com/・1回目）
+  - 「サービスについて」（https://www.teraprobe.com/・1回目）
+  - 「サービス | 株式会社テラプローブ」（https://www.teraprobe.com/service/・1回目）
+  - 「サービス紹介」（https://www.teraprobe.com/service/・1回目）
+  - 「テストオペレーションサービス」（https://www.teraprobe.com/service/・1回目）
+  - 「テストディベロップメントサービス」（https://www.teraprobe.com/service/・1回目）
+  - 「サービス内容」（https://www.teraprobe.com/service/・1回目）
+  - 「身近な製品のスマートフォンから鉄道、インターネット・通信などの社会インフラなど日常を支える重要な役割を担っております」（https://www.teraprobe.com/service/・1回目）
+  - 「現在の製品には、複数の半導体を組み合わせ、1つのパッケージにすることにより、さまざまな機能を搭載し、より豊かな生活を送れるよう進化しております」（https://www.teraprobe.com/service/・1回目）
+- どうやって売るか：
+  - 「サービス紹介」（https://www.teraprobe.com/・1回目）
+  - 「サービス紹介」（https://www.teraprobe.com/service/・1回目）
+  - 「サービス紹介」（https://www.teraprobe.com/sustainability/environment/・1回目）
+  - 「サービス紹介」（https://www.teraprobe.com/ir/・1回目）
+  - 「パートナーとして、新たな価値創造に貢献する」（https://www.teraprobe.com/ir/・1回目）
+  - 「サービス紹介」（https://www.teraprobe.com/ir/introduction/・1回目）
+  - 「サービス紹介」（https://www.teraprobe.com/ir/news/・1回目）
+  - 「サービス紹介」（https://www.teraprobe.com/ir/calendar/・1回目）
+  - 「サービス紹介」（https://www.teraprobe.com/ir/library/・1回目）
+  - 「サービス紹介」（https://www.teraprobe.com/ir/highlight/・1回目）
+  - 「サービス紹介」（https://www.teraprobe.com/ir/stock_information/・1回目）
+  - 「株主還元について紹介します」（https://www.teraprobe.com/ir/stock_information/・1回目）
+- 売上構成：
+  - 「先端分野の売上構成比上昇により、営業利益率27％と四半期最高を更新」（https://www.teraprobe.com/cwp/wp-content/uploads/20262Q_presentation.pdf・2回目）
+- 利益の源泉：
+  - 「テラプローブの強み」（https://www.teraprobe.com/・1回目）
+  - 「テラプローブの強み」（https://www.teraprobe.com/service/・1回目）
+  - 「テラプローブの強み」（https://www.teraprobe.com/sustainability/environment/・1回目）
+  - 「テラプローブの強み」（https://www.teraprobe.com/ir/・1回目）
+  - 「テラプローブの強み」（https://www.teraprobe.com/ir/introduction/・1回目）
+  - 「テラプローブの強み」（https://www.teraprobe.com/ir/news/・1回目）
+  - 「テラプローブの強み」（https://www.teraprobe.com/ir/calendar/・1回目）
+  - 「テラプローブの強み」（https://www.teraprobe.com/ir/library/・1回目）
+  - 「テラプローブの強み」（https://www.teraprobe.com/ir/highlight/・1回目）
+  - 「テラプローブの強み」（https://www.teraprobe.com/ir/stock_information/・1回目）
+  - 「テラプローブの強み」（https://www.teraprobe.com/ir/faq/・1回目）
+  - 「テラプローブの強み」（https://www.teraprobe.com/ir/public_notice/・1回目）
+- 沿革：
+  - 「2026年10月15日」（https://www.teraprobe.com/・1回目）
+  - 「2026年12月期９月度の月次連結売上高（速報）に関するお知らせ」（https://www.teraprobe.com/・1回目）
+  - 「2026年9月15日」（https://www.teraprobe.com/・1回目）
+  - 「2026年12月期８月度の月次連結売上高（速報）に関するお知らせ」（https://www.teraprobe.com/・1回目）
+  - 「2026年8月27日」（https://www.teraprobe.com/・1回目）
+  - 「2026年12月期第２四半期決算説明会の書き起こしに関するお知らせ」（https://www.teraprobe.com/・1回目）
+  - 「2026年8月20日」（https://www.teraprobe.com/・1回目）
+  - 「2026年12月期 第２四半期（中間期）決算説明資料を掲載しました」（https://www.teraprobe.com/・1回目）
+  - 「2026年8月17日」（https://www.teraprobe.com/・1回目）
+  - 「2026年12月期７月度の月次連結売上高（速報）に関するお知らせ」（https://www.teraprobe.com/・1回目）
+  - 「2026年10月23日」（https://www.teraprobe.com/・1回目）
+  - 「2026年12月期9月度の月次連結売上高（速報）に関するお知らせ」（https://www.teraprobe.com/・1回目）
+- 検索結果の抜粋：
+  - 「半導体組立・テスト受託サービス - テラプローブ — 半導体組立・テスト受託サービス - テラプローブ 株式会社テラプローブ https://www.teraprobe.com > individual > about」（https://www.teraprobe.com/ir/individual/about.html・3回目）
+  - 「【QAあり】 テラプローブ 、主流となる半導体製造工程の水平 ... — 【QAあり】 テラプローブ 、主流となる半導体製造工程の水平 ... ログミーFinance https://finance.logmi.jp > articles」（https://finance.logmi.jp/articles/380364・3回目）
+  - 「【バフェットの視点】株式会社 テラプローブ は『買い』か？ — 【バフェットの視点】株式会社 テラプローブ は『買い』か？ note https://note.com > 投資・マネー > 日本株」（https://note.com/open_azalea2045/n/nbb814a0a8ffb・3回目）
+  - 「決算説明資料 - テラプローブ — 決算説明資料 - テラプローブ 株式会社テラプローブ PDF https://www.teraprobe.com > wp-content > uploads」（https://www.teraprobe.com/cwp/wp-content/uploads/20254Q_presentation.pdf・3回目）
+  - 「社会 | 株式会社 テラプローブ — 社会 | 株式会社 テラプローブ 株式会社テラプローブ https://www.teraprobe.com > サステナビリティ」（https://www.teraprobe.com/sustainability/society/・3回目）
+  - 「IR 資料 ｜株式会社 テラプローブ — IR 資料 ｜株式会社 テラプローブ 株式会社テラプローブ https://www.teraprobe.com > IR情報」（https://www.teraprobe.com/ir/library/・3回目）
+  - 「IR情報｜株式会社 テラプローブ — IR情報｜株式会社 テラプローブ 株式会社テラプローブ https://www.teraprobe.com > ...」（https://www.teraprobe.com/ir/・3回目）
+  - 「IRカレンダー | 株式会社 テラプローブ — IRカレンダー | 株式会社 テラプローブ 株式会社テラプローブ https://www.teraprobe.com > IR情報」（https://www.teraprobe.com/ir/calendar/・3回目）
+  - 「【 テラプローブ 】[6627]IR情報 中期経営計画や 決算 短信 | 日経 ... — 【 テラプローブ 】[6627]IR情報 中期経営計画や 決算 短信 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo」（https://www.nikkei.com/nkd/company/kigyo/?scode=6627・3回目）
+  - 「組織図 | 株式会社 テラプローブ — 組織図 | 株式会社 テラプローブ 株式会社テラプローブ https://www.teraprobe.com > 会社情報」（https://www.teraprobe.com/company/organisational/・3回目）
+  - 「会社概要 | 株式会社 テラプローブ — 会社概要 | 株式会社 テラプローブ 株式会社テラプローブ https://www.teraprobe.com > 会社情報」（https://www.teraprobe.com/company/profile/・3回目）
+  - 「株式会社 テラプローブ — 株式会社 テラプローブ 株式会社テラプローブ https://www.teraprobe.com > 会社情報」（https://www.teraprobe.com/・3回目）
+- お金の形：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部2頁・検索5回）
 
 ## ディスコ
 - 公式URL：特定できず（not_found）
@@ -10236,6 +15444,422 @@
   - 「取り組みの方針 - トレイダーズホールディングス株式会社 — 取り組みの方針 - トレイダーズホールディングス株式会社 トレイダーズホールディングス株式会社 https://www.tradershd.com > サステナビリティ」（https://www.tradershd.com/sustainability/policy/・3回目）
   - 「役員一覧 - トレイダーズホールディングス株式会社 — 役員一覧 - トレイダーズホールディングス株式会社 トレイダーズホールディングス株式会社 https://www.tradershd.com > 会社情報」（https://www.tradershd.com/company/officer/・3回目）
 
+## トレンドマイクロ
+- 公式URL：https://cybersecurity.trendmicro.com/（search:ddgs:bing:トレンドマイクロ）
+- 設立：1989年（https://shachomeikan.jp/industry_article/4211・3回目）
+- 事業内容：コンピュータ及びインターネット用セキュリティ関連製品・サービスの開発・販売（https://shachomeikan.jp/industry_article/4211・3回目）
+- 誰に：
+  - 「20年以上にわたりサイバーセキュリティ分野でイノベーションを牽引してきた経験を活かし、AIを用いたセキュリティ強化、運用効率化、そして顧客価値最大化に向けたグローバルな取り組みをリードしています」（https://www.trendmicro.com/ja_jp/about/leaders.html・3回目）
+  - 「そのダイナミックなリーダーシップにより、エキスパートたちが団結し、新的な製品やサービスを提供することで、お客様の持続的成長を支援します」（https://www.trendmicro.com/ja_jp/about/leaders.html・3回目）
+  - 「現在は、TrendAI™ のサイバーセキュリティプラットフォーム全体における事業成長の推進、イノベーションの加速、そしてグローバル企業の多様化するニーズに対応する顧客中心のソリューションの提供を担っています」（https://www.trendmicro.com/ja_jp/about/leaders.html・3回目）
+  - 「レイチェルのキャリアは、イノベーションへの情熱、顧客の成功への強いこだわり、そしてテクノロジーを活用した価値の拡大に対する揺るぎない取り組みによって築かれています」（https://www.trendmicro.com/ja_jp/about/leaders.html・3回目）
+  - 「現在トレンドマイクロは、30カ国以上で営業、運用、研究、サポート、開発を行う2,000人以上の従業員を擁していますが、その代表取締役会長として、また、顧客および業界のパートナーにとって、トレンドマイクロの声であり続けています」（https://www.trendmicro.com/ja_jp/about/leaders.html・3回目）
+  - 「当初はソフトウェアの海賊版対策をメインに手がけていましたが、あるとき顧客から「パソコンがおかしくなった」と連絡がありました」（https://shachomeikan.jp/industry_article/4211・3回目）
+  - 「そこで顧客のパソコンを調査した結果、世界初のコンピュータウイルスとされる「Brain」が原因だと判明したのです」（https://shachomeikan.jp/industry_article/4211・3回目）
+  - 「そうした中で、弊社は独自のハードディスク保護技術を持っていたため、このウイルスに感染したお客様のデータを保護することができたのです」（https://shachomeikan.jp/industry_article/4211・3回目）
+  - 「弊社のウイルス対策ソフトのアップデート内容に問題があり、多くのお客様のコンピュータで深刻な障害が発生したのです」（https://shachomeikan.jp/industry_article/4211・3回目）
+  - 「会員数45万人以上の訪日外国人旅行者向けサービスを展開」（https://shachomeikan.jp/industry_article/4211・3回目）
+- 何を：
+  - 「法人向け製品・サービス」（https://cybersecurity.trendmicro.com/・1回目）
+  - 「製品およびサービスのプライバシーポリシー」（https://cybersecurity.trendmicro.com/・1回目）
+  - 「安全なAIインフラ、アプリケーション、サービスのアドバイス、構築、統合、および運用を支援」（https://www.trendmicro.com/ja_jp/business.html・3回目）
+  - 「製品の契約更新について」（https://www.trendmicro.com/ja_jp/business.html・3回目）
+  - 「セキュリティリスク診断サービス」（https://www.trendmicro.com/ja_jp/business.html・3回目）
+  - 「厳選されたサイバーセキュリティ事業会社群の親会社として、AIが加速する時代における持続的な成長を支えるガバナンス、シェアードサービス、および戦略的投資を提供しています」（https://www.trendmicro.com/ja_jp/business.html・3回目）
+  - 「製品の契約更新について」（https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html・3回目）
+  - 「弊社製品ご契約時に必要な登録情報の申請について」（https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html・3回目）
+  - 「セキュリティリスク診断サービス」（https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html・3回目）
+  - 「製品購入後の技術的なお問い合わせ」（https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html・3回目）
+  - 「電話での製品検討に関するご相談」（https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html・3回目）
+  - 「製品の契約更新について」（https://www.trendmicro.com/ja_jp/about/investor-relations.html・3回目）
+- どうやって売るか：
+  - 「販売パートナーを探す」（https://www.trendmicro.com/ja_jp/business.html・3回目）
+  - 「TrendAI™ のパートナーになる」（https://www.trendmicro.com/ja_jp/business.html・3回目）
+  - 「パートナーポータル」（https://www.trendmicro.com/ja_jp/business.html・3回目）
+  - 「TrendAI Vision One™ のAIセキュリティ機能の追加利用やパートナーによる専門的な技術支援を提供」（https://www.trendmicro.com/ja_jp/business.html・3回目）
+  - 「パートナーを探す」（https://www.trendmicro.com/ja_jp/business.html・3回目）
+  - 「パートナーになる」（https://www.trendmicro.com/ja_jp/business.html・3回目）
+  - 「販売パートナーを探す」（https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html・3回目）
+  - 「パートナーポータル」（https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html・3回目）
+  - 「パートナーを探す」（https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html・3回目）
+  - 「販売パートナーを探す」（https://www.trendmicro.com/ja_jp/about/investor-relations.html・3回目）
+  - 「パートナーポータル」（https://www.trendmicro.com/ja_jp/about/investor-relations.html・3回目）
+  - 「パートナーを探す」（https://www.trendmicro.com/ja_jp/about/investor-relations.html・3回目）
+- お金の形：
+  - 「新規ライセンス」（https://cybersecurity.trendmicro.com/・1回目）
+  - 「ストックオプション（新株予約権）の発行内容確定に関するお知らせ(PDF:104KB)」（https://www.trendmicro.com/ja_jp/about/investor-relations.html・3回目）
+  - 「当社取締役及び従業員並びに当社子会社取締役及び従業員に対する ストックオプション（新株予約権）の付与に関するお知らせ(PDF:210KB)」（https://www.trendmicro.com/ja_jp/about/investor-relations.html・3回目）
+- 利益の源泉：
+  - 「このように常に時代の変化を先読みし、セキュリティのあり方を根本から考え直す姿勢が、弊社の強みとなっています」（https://shachomeikan.jp/industry_article/4211・3回目）
+- 沿革：
+  - 「企業理念・沿革」（https://www.trendmicro.com/ja_jp/business.html・3回目）
+  - 「2026年9～10月」（https://www.trendmicro.com/ja_jp/business.html・3回目）
+  - 「2026年11月12日（木）14:00~15:00」（https://www.trendmicro.com/ja_jp/business.html・3回目）
+  - 「企業理念・沿革」（https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html・3回目）
+  - 「2026年第2四半期データ」（https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html・3回目）
+  - 「2026年第1四半期データ」（https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html・3回目）
+  - 「2025年第4四半期データ」（https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html・3回目）
+  - 「2025年第3四半期データ」（https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html・3回目）
+  - 「2025年第2四半期データ」（https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html・3回目）
+  - 「2025年第1四半期データ」（https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html・3回目）
+  - 「2024年第4四半期データ」（https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html・3回目）
+  - 「2024年第3四半期データ」（https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html・3回目）
+- 検索結果の抜粋：
+  - 「トレンドマイクロ (JP) | エンタープライズ向けグローバルAI ... — トレンドマイクロ (JP) | エンタープライズ向けグローバルAI ... www.trendmicro.com https://www.trendmicro.com > ja_jp > business」（https://www.trendmicro.com/ja_jp/business.html・3回目）
+  - 「トレンドマイクロ の法人向け製品をわかりやすく比較解説 — トレンドマイクロ の法人向け製品をわかりやすく比較解説 c-compe.com https://c-compe.com > ホーム > セキュリティソフト知識」（https://c-compe.com/securitysoft/securitysoft-knowledge/trendmicro-guide/・3回目）
+  - 「ウイルスバスター ビジネス セキュリティ | トレンドマイクロ (JP) — ウイルスバスター ビジネス セキュリティ | トレンドマイクロ (JP) www.trendmicro.com https://www.trendmicro.com > ja_jp > worry-free-standard」（https://www.trendmicro.com/ja_jp/small-business/worry-free-standard.html・3回目）
+  - 「決算 情報 | トレンドマイクロ (JP) - Trend Micro — 決算 情報 | トレンドマイクロ (JP) - Trend Micro www.trendmicro.com https://www.trendmicro.com > about > reports-presentation」（https://www.trendmicro.com/ja_jp/about/investor-relations/reports-presentation.html・3回目）
+  - 「投資家向け情報 | トレンドマイクロ (JP) - Trend Micro — 投資家向け情報 | トレンドマイクロ (JP) - Trend Micro www.trendmicro.com https://www.trendmicro.com > about > investor-relations」（https://www.trendmicro.com/ja_jp/about/investor-relations.html・3回目）
+  - 「決算 報告会 | トレンドマイクロ (JP) - Trend Micro — 決算 報告会 | トレンドマイクロ (JP) - Trend Micro www.trendmicro.com https://www.trendmicro.com > about > meeting-calendar」（https://www.trendmicro.com/ja_jp/about/investor-relations/meeting-calendar.html・3回目）
+  - 「オンライン形式 決算 報告会 | トレンドマイクロ - Trend Micro — オンライン形式 決算 報告会 | トレンドマイクロ - Trend Micro www.trendmicro.com https://www.trendmicro.com > about > meeting-calendar」（https://www.trendmicro.com/ja_jp/about/investor-relations/meeting-calendar/how-to-join-in-online-meeting.html・3回目）
+  - 「【 トレンドマイクロ 】[4704]IR情報 中期経営計画や 決算 短信 — 【 トレンドマイクロ 】[4704]IR情報 中期経営計画や 決算 短信 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo」（https://www.nikkei.com/nkd/company/kigyo/?scode=4704・3回目）
+  - 「会社概要 | トレンドマイクロ (JP) - Trend Micro — 会社概要 | トレンドマイクロ (JP) - Trend Micro www.trendmicro.com https://www.trendmicro.com > ja_jp > about」（https://www.trendmicro.com/ja_jp/about.html・3回目）
+  - 「トレンドマイクロ - Wikipedia — トレンドマイクロ - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > トレンドマイクロ」（https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD・3回目）
+  - 「トレンドマイクロ 【4704】の 事業 内容 - キタイシホン — トレンドマイクロ 【4704】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/4704/business・3回目）
+  - 「エグゼクティブ一覧 | トレンドマイクロ (JP) - Trend Micro — エグゼクティブ一覧 | トレンドマイクロ (JP) - Trend Micro www.trendmicro.com https://www.trendmicro.com > ja_jp > about > leaders」（https://www.trendmicro.com/ja_jp/about/leaders.html・3回目）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索5回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索5回）
+- ビジネスモデル：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索5回）
+- 売上構成：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索5回）
+
+## トーカロ
+- 公式URL：https://www.tocalo.co.jp/（search:yahoo_jp:トーカロ）
+- ビジネスモデル：
+  - 「景気の波を受けにくい安定収益モデル:」（https://note.com/modern_eider5829/n/neb359a054f64・3回目）
+  - 「しかし、その確かな技術力と安定したビジネスモデルは、長期目線でポートフォリオを考える上で、非常に魅力的な選択肢となり得るでしょう」（https://note.com/modern_eider5829/n/neb359a054f64・3回目）
+- 誰に：
+  - 「東京エレクトロン株式会社様が持続可能なサプライチェーン構築の取り組みとして立ち上げた「E-COMPASS」を通じて、環境法規制対応などの環境サプライチェーンマネジメント強化に向けた活動に賛同した取引先のうち、1年間の活動において積極的に協力・貢献した取引先を認定する制度です」（https://www.tocalo.co.jp/ja/ir/news/news-1442442642392095179.html・1回目）
+  - 「当社はこれまで、技術力と品質を基盤として顧客との信頼関係を築いてまいりました」（https://www.tocalo.co.jp/ja/ir/management/greeting.html・1回目）
+  - 「当社は、溶射加工を中核とする表面処理加工の専業メーカーとして「技術とアイデア」「若さと情熱」「和と信頼」「グッド・サービス」を社是として掲げ、株主、取引先、社員、地域社会等あらゆるステークホルダーとの良好な信頼関係を基礎に、表面処理皮膜が持つ省資源化、省力化、環境負荷の低減等の諸機能を通じて社会に貢献し、「高技術・高収益体質の、内容の充実した企業グループ」を実現することを経営の基本理念としています」（https://www.tocalo.co.jp/ja/ir/management/policy.html・1回目）
+  - 「お客様のニーズに的確かつ迅速にお応えする「問題解決型企業」を目指す」（https://www.tocalo.co.jp/ja/ir/management/policy.html・1回目）
+  - 「お客様の満足を基本として、社会に有用な製品を開発・提供し、お客様の信頼の確保に努めます」（https://www.tocalo.co.jp/ja/ir/management/policy.html・1回目）
+  - 「株主、取引先、従業員、地域社会など、さまざまなステークホルダーとコミュニケーションを図り、社会への説明責任を果たすため、企業活動全般にわたる情報を適時かつ適切に開示し、透明性の確保に努めます」（https://www.tocalo.co.jp/ja/ir/management/policy.html・1回目）
+  - 「また、取引先においても同様に生産活動に支障をきたす可能性があり、いずれも長期間におよんだ場合には当社グループの業績等に影響を与える可能性があります」（https://www.tocalo.co.jp/ja/ir/management/risk.html・1回目）
+  - 「(3) 顧客による表面改質加工の内製化リスク及び顧客工場の海外移転リスク」（https://www.tocalo.co.jp/ja/ir/management/risk.html・1回目）
+  - 「また、当社グループは顧客から被加工品を受け入れて、当該被加工品に表面改質を行なっていることから、主要顧客の近隣に加工工場を設けるなど、顧客密着型の事業展開を行なっておりますが、主要顧客が生産拠点を海外等の遠方に移転させた場合には、当社グループの業績に影響を与える可能性があります」（https://www.tocalo.co.jp/ja/ir/management/risk.html・1回目）
+  - 「(5) 特定の取引先（東京エレクトロン株式会社グループ）への依存リスク」（https://www.tocalo.co.jp/ja/ir/management/risk.html・1回目）
+  - 「当社グループは、多様な業界に顧客を有し、溶射加工を中心とした表面改質加工を提供しており、それぞれの製品に合わせた品質管理体制のもと、製品を出荷しております」（https://www.tocalo.co.jp/ja/ir/management/risk.html・1回目）
+  - 「当社グループは、半導体・FPD関連をはじめとして、顧客から預かった部品図面など重要技術情報を多数保有しております」（https://www.tocalo.co.jp/ja/ir/management/risk.html・1回目）
+- 何を：
+  - 「トーカロの表面改質ソリューションがそれを実現します」（https://www.tocalo.co.jp/ja/index.html・1回目）
+  - 「社是である「グッド・サービス」を一人ひとりが追求し、事業の発展を通して社会と環境への持続的な貢献を目指します」（https://www.tocalo.co.jp/ja/index.html・1回目）
+  - 「当サイトはサービス向上を目的としてCookieを利用しています」（https://www.tocalo.co.jp/ja/index.html・1回目）
+  - 「当サイトはサービス向上を目的としてCookieを利用しています」（https://www.tocalo.co.jp/ja/ir/management/plan.html・1回目）
+  - 「当サイトはサービス向上を目的としてCookieを利用しています」（https://www.tocalo.co.jp/ja/ir/library/integrated-report.html・1回目）
+  - 「当サイトはサービス向上を目的としてCookieを利用しています」（https://www.tocalo.co.jp/ja/ir/news/news-2417098942411136424.html・1回目）
+  - 「当サイトはサービス向上を目的としてCookieを利用しています」（https://www.tocalo.co.jp/ja/news/news4985856205304936110.html・1回目）
+  - 「その一環として、2025年度における当社の環境活動への取り組み、製品環境調査への積極的な対応などをご評価いただきました」（https://www.tocalo.co.jp/ja/ir/news/news-1442442642392095179.html・1回目）
+  - 「当サイトはサービス向上を目的としてCookieを利用しています」（https://www.tocalo.co.jp/ja/ir/news/news-1442442642392095179.html・1回目）
+  - 「当サイトはサービス向上を目的としてCookieを利用しています」（https://www.tocalo.co.jp/ja/ir/news/news20251030103087.html・1回目）
+  - 「【IRメール配信サービス】」（https://www.tocalo.co.jp/ja/ir/news/news20240617103066.html・1回目）
+  - 「当サイトはサービス向上を目的としてCookieを利用しています」（https://www.tocalo.co.jp/ja/ir/news/news20240617103066.html・1回目）
+- どうやって売るか：
+  - 「東京エレクトロン株式会社様より「グリーンパートナー」に認定されました」（https://www.tocalo.co.jp/ja/index.html・1回目）
+  - 「また、新ミッションである「すべてのステークホルダーから、信頼していただける会社であり続けること」の実現に向け、新たに策定したマテリアリティとKPIに関する具体的な取り組みも紹介しております」（https://www.tocalo.co.jp/ja/ir/news/news-2417098942411136424.html・1回目）
+  - 「当日は、当社ブース（小間番号029）にて会社説明会を開催し、事業概要や今後の成長戦略などについてご紹介します」（https://www.tocalo.co.jp/ja/news/news4985856205304936110.html・1回目）
+  - 「東京エレクトロン株式会社様より「グリーンパートナー」に認定されました | IRニュース | IR情報 | トーカロ株式会社」（https://www.tocalo.co.jp/ja/ir/news/news-1442442642392095179.html・1回目）
+  - 「東京エレクトロン株式会社様より「グリーンパートナー」に認定されました」（https://www.tocalo.co.jp/ja/ir/news/news-1442442642392095179.html・1回目）
+  - 「トーカロ株式会社（本社：兵庫県神戸市、代表取締役 社長執行役員：小林和也）は、東京エレクトロン株式会社様から環境活動の取り組みをご評価いただき、2025年度※の「グリーンパートナー」に認定されました」（https://www.tocalo.co.jp/ja/ir/news/news-1442442642392095179.html・1回目）
+  - 「■グリーンパートナーとは」（https://www.tocalo.co.jp/ja/ir/news/news-1442442642392095179.html・1回目）
+  - 「トーカロ株式会社は、ネーミングライツパートナーの「明石工業高等専門学校」と連携して、機械工学科4年生を対象に「溶射技術」をテーマとした講義を2025年９月に開催いたしました」（https://www.tocalo.co.jp/ja/ir/news/news20251030103087.html・1回目）
+  - 「2024年より明石工業高等専門学校のネーミングライツパートナーとなり、教育支援活動も展開しています」（https://www.tocalo.co.jp/ja/ir/news/news20251030103087.html・1回目）
+  - 「東京エレクトロン株式会社様より「グリーンパートナー」に認定されました」（https://www.tocalo.co.jp/ja/ir.html・1回目）
+  - 「当社の取締役、監査役、執行役員を紹介しています」（https://www.tocalo.co.jp/ja/ir.html・1回目）
+  - 「当社の取締役、監査役、執行役員を紹介しています」（https://www.tocalo.co.jp/ja/ir/management.html・1回目）
+- お金の形：
+  - 「支払手数料 1 1」（https://www.tocalo.co.jp/ja/ir/news/auto_20260805510149/pdfFile.pdf・2回目）
+  - 「支払手数料 6 7」（https://www.tocalo.co.jp/ja/ir/news/auto_20260511522245/pdfFile.pdf・2回目）
+  - 「支払手数料 5 6」（https://www.tocalo.co.jp/ja/ir/news/auto_20260204547023/pdfFile.pdf・2回目）
+  - 「支払手数料 4 4」（https://www.tocalo.co.jp/ja/ir/news/auto_20251106589789/pdfFile.pdf・2回目）
+  - 「またライセンスビジネスというのはできると考えています」（https://e-actionlearning.jp/interview/9・3回目）
+- 売上構成：
+  - 「セグメント別業績」（https://www.tocalo.co.jp/ja/ir/highlights.html・1回目）
+  - 「当社のセグメント別業績を掲載しています」（https://www.tocalo.co.jp/ja/ir/highlights.html・1回目）
+  - 「（セグメント情報等の注記） ………………………………………………………………………10」（https://www.tocalo.co.jp/ja/ir/news/auto_20260805510149/pdfFile.pdf・2回目）
+  - 「また、セグメント別の業績は次のとおりであります」（https://www.tocalo.co.jp/ja/ir/news/auto_20260805510149/pdfFile.pdf・2回目）
+  - 「て堅調に推移したため、当セグメントの売上高は前年同期比14億97百万円(13.9％)増の122億92百万円、セグメン」（https://www.tocalo.co.jp/ja/ir/news/auto_20260805510149/pdfFile.pdf・2回目）
+  - 「社寺田工作所の受注が低迷した影響で、当セグメントの売上高は前年同期比58百万円(8.0％)増の７億88百万円、」（https://www.tocalo.co.jp/ja/ir/news/auto_20260805510149/pdfFile.pdf・2回目）
+  - 「セグメント利益(経常利益)は同３百万円(3.2％)減の１億12百万円となりました」（https://www.tocalo.co.jp/ja/ir/news/auto_20260805510149/pdfFile.pdf・2回目）
+  - 「海外子会社は、半導体分野における一部顧客の在庫調整の影響などにより、当セグメントの売上高は前年同期」（https://www.tocalo.co.jp/ja/ir/news/auto_20260805510149/pdfFile.pdf・2回目）
+  - 「比96百万円(3.2％)減の29億８百万円となり、セグメント利益(経常利益)は同３億97百万円(29.7％)減の９億41百」（https://www.tocalo.co.jp/ja/ir/news/auto_20260805510149/pdfFile.pdf・2回目）
+  - 「その他表面処理加工のセグメントについては、半導体分野向けのＺＡＣ処理加工が好調に推移したため、売上」（https://www.tocalo.co.jp/ja/ir/news/auto_20260805510149/pdfFile.pdf・2回目）
+  - 「高の合計は前年同期比46百万円(7.7％)増の６億56百万円、セグメント利益(経常利益)の合計は同26百万円(30.4」（https://www.tocalo.co.jp/ja/ir/news/auto_20260805510149/pdfFile.pdf・2回目）
+  - 「(参考) セグメント別予想連結売上」（https://www.tocalo.co.jp/ja/ir/news/auto_20260805510149/pdfFile.pdf・2回目）
+- 利益の源泉：
+  - 「「高技術・高収益体質の、内容の充実した企業グループ」を実現するため、これからもあらゆる課題に取り組んでまいります」（https://www.tocalo.co.jp/ja/index.html・1回目）
+  - 「半導体・FPD分野、一般産業分野のコア事業を成長のメインエンジンとして、高収益体制の維持を図ります」（https://www.tocalo.co.jp/ja/ir/management/plan.html・1回目）
+  - 「強みである溶射技術を「深化」させつつ薄膜やレーザなどの「革新技術」への領域を拡大させていきます」（https://www.tocalo.co.jp/ja/ir/management/plan.html・1回目）
+  - 「特集 ― 現場の声で語る、トーカロの強み」（https://www.tocalo.co.jp/ja/ir/library/integrated-report.html・1回目）
+  - 「「統合報告書2026」では、2026年5月11日に公表した新中期経営計画「TOCALO2030」を中心に、当社の強みや成長戦略について解説しています」（https://www.tocalo.co.jp/ja/ir/news/news-2417098942411136424.html・1回目）
+  - 「今後、コア事業の深化、戦略的事業領域の拡大、持続的成長を支える経営基盤の強化という三つの柱を軸に、技術力・品質・サービスの高度化を進め、当社の競争優位性を一層高めていく方針です」（https://www.tocalo.co.jp/ja/ir/management/greeting.html・1回目）
+  - 「半導体分野以外でも、これまで遅れていた需要が一斉に顕在化すると見込まれることから、当社は強みである最先端の溶射技術と営業における情報収集力を発揮することで、産業別の需要動向を的確に捉え、業績向上につなげてまいります」（https://www.tocalo.co.jp/ja/ir/management/greeting.html・1回目）
+  - 「当社は、溶射加工を中核とする表面処理加工の専業メーカーとして「技術とアイデア」「若さと情熱」「和と信頼」「グッド・サービス」を社是として掲げ、株主、取引先、社員、地域社会等あらゆるステークホルダーとの良好な信頼関係を基礎に、表面処理皮膜が持つ省資源化、省力化、環境負荷の低減等の諸機能を通じて社会に貢献し、「高技術・高収益体質の、内容の充実した企業グループ」を実現することを経営の基本理念としています」（https://www.tocalo.co.jp/ja/ir/management/policy.html・1回目）
+  - 「当社は、「高技術・高収益体質の、内容の充実した企業グループ」を実現するため、以下の6項目を経営基本方針として掲げています」（https://www.tocalo.co.jp/ja/ir/management/policy.html・1回目）
+  - 「各種開示資料の掲載をはじめ、当社の強みや地球環境に貢献する表面改質技術のご紹介など、当社の事業内容に魅力を感じていただけるコミュニケーションを目指しています」（https://www.tocalo.co.jp/ja/ir/management/dialog.html・1回目）
+  - 「海外子会社は、半導体分野における一部顧客の在庫調整の影響などにより、当セグメントの売上高は前年同期」（https://www.tocalo.co.jp/ja/ir/news/auto_20260805510149/pdfFile.pdf・2回目）
+  - 「溶射加工(単体)、国内子会社、海外子会社以外のセグメントについては、農業機械部品の在庫調整によるＴ」（https://www.tocalo.co.jp/ja/ir/news/auto_20260511522245/pdfFile.pdf・2回目）
+- 沿革：
+  - 「2026年10月26日」（https://www.tocalo.co.jp/ja/index.html・1回目）
+  - 「2026年10月23日」（https://www.tocalo.co.jp/ja/index.html・1回目）
+  - 「2026年10月22日」（https://www.tocalo.co.jp/ja/index.html・1回目）
+  - 「2026年10月20日」（https://www.tocalo.co.jp/ja/index.html・1回目）
+  - 「2026年9月3日」（https://www.tocalo.co.jp/ja/index.html・1回目）
+  - 「2026年8月18日」（https://www.tocalo.co.jp/ja/index.html・1回目）
+  - 「2026年8月8日」（https://www.tocalo.co.jp/ja/index.html・1回目）
+  - 「2026年9月29日」（https://www.tocalo.co.jp/ja/index.html・1回目）
+  - 「2026年8月7日」（https://www.tocalo.co.jp/ja/index.html・1回目）
+  - 「2026年8月5日」（https://www.tocalo.co.jp/ja/index.html・1回目）
+  - 「2027年３月期第１四半期 決算補足説明資料」（https://www.tocalo.co.jp/ja/index.html・1回目）
+  - 「2027年３月期第１四半期決算短信〔日本基準〕(連結)」（https://www.tocalo.co.jp/ja/index.html・1回目）
+- 検索結果の抜粋：
+  - 「隠れた半導体銘柄・ トーカロ とは？半導体装置の“お化粧”技術 ... — 隠れた半導体銘柄・ トーカロ とは？半導体装置の“お化粧”技術 ... note https://note.com > 科学・テクノロジー > ハードウェア」（https://note.com/modern_eider5829/n/neb359a054f64・3回目）
+  - 「2026年 - トーカロ株式会社 — 2026年 - トーカロ株式会社 トーカロ株式会社 PDF https://www.tocalo.co.jp > main > linkList > link > I...」（https://www.tocalo.co.jp/ja/ir/ir-integrated/main/011115/teaserItems2/00/linkList/0/link/Integratedreport261020_navi.pdf・3回目）
+  - 「会社説明会 — 会社説明会 トーカロ株式会社 PDF https://www.tocalo.co.jp > main > link > Presentation」（https://www.tocalo.co.jp/ja/ir/stockinfo/meeting/main/0/teaserItems3/0/linkList/01/link/Presentation.pdf・3回目）
+  - 「トーカロ 株式会社 — トーカロ 株式会社 トーカロ株式会社 https://www.tocalo.co.jp」（https://www.tocalo.co.jp/・3回目）
+  - 「中期経営計画 | 経営方針 | IR情報 - トーカロ株式会社 — 中期経営計画 | 経営方針 | IR情報 - トーカロ株式会社 トーカロ株式会社 https://www.tocalo.co.jp > ホーム > IR情報 > 経営方針」（https://www.tocalo.co.jp/ja/ir/management/plan.html・3回目）
+  - 「決算 短信・ 決算 補足 説明資料 | IRライブラリ - トーカロ 株式会社 — 決算 短信・ 決算 補足 説明資料 | IRライブラリ - トーカロ 株式会社 トーカロ株式会社 https://www.tocalo.co.jp > ホーム > IR情報 > IRライブラリ」（https://www.tocalo.co.jp/ja/ir/library/result.html・3回目）
+  - 「IR情報 - トーカロ株式会社 — IR情報 - トーカロ株式会社 トーカロ株式会社 https://www.tocalo.co.jp > ...」（https://www.tocalo.co.jp/ja/ir.html・3回目）
+  - 「IRライブラリ | IR情報 - トーカロ株式会社 — IRライブラリ | IR情報 - トーカロ株式会社 トーカロ株式会社 https://www.tocalo.co.jp > ホーム > IR情報」（https://www.tocalo.co.jp/ja/ir/library.html・3回目）
+  - 「【 トーカロ 】[3433]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 トーカロ 】[3433]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo」（https://www.nikkei.com/nkd/company/kigyo/?scode=3433・3回目）
+  - 「IR 資料 一覧 | IRライブラリ | IR情報 | トーカロ 株式会社 — IR 資料 一覧 | IRライブラリ | IR情報 | トーカロ 株式会社 トーカロ株式会社 https://www.tocalo.co.jp > ホーム > IR情報 > IRライブラリ」（https://www.tocalo.co.jp/ja/ir/library/documents.html・3回目）
+  - 「役員一覧 | 経営方針 | IR情報 - トーカロ株式会社 — 役員一覧 | 経営方針 | IR情報 - トーカロ株式会社 トーカロ株式会社 https://www.tocalo.co.jp > ホーム > IR情報 > 経営方針」（https://www.tocalo.co.jp/ja/ir/management/officers.html・3回目）
+  - 「経営方針 | IR情報 - トーカロ株式会社 — 経営方針 | IR情報 - トーカロ株式会社 トーカロ株式会社 https://www.tocalo.co.jp > ホーム > IR情報 > 経営方針」（https://www.tocalo.co.jp/ja/ir/management/policy.html・3回目）
+- 設立：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部2頁・検索5回）
+- 従業員数：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部2頁・検索5回）
+- 事業内容：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部2頁・検索5回）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部2頁・検索5回）
+
+## トーセイ
+- 公式URL：https://www.toseicorp.co.jp/（search:yahoo_jp:トーセイ）
+- 設立：1950年(昭和25年) 2月2日（https://www.toseicorp.co.jp/corporate/data/・1回目）
+- 従業員数：345名(単体)、938名(連結) (嘱託・パート社員含む1,121名)（https://www.toseicorp.co.jp/corporate/data/・1回目）
+- 事業内容：不動産再生事業、不動産開発事業、不動産賃貸事業、不動産ファンド・コンサルティング事業、不動産管理事業、ホテル事業（https://www.toseicorp.co.jp/corporate/data/・1回目）
+- 売上高：794 億円（https://www.toseicorp.co.jp/corporate/plan/・1回目）
+- 売上高：695億円 800億円 850億円（https://www.toseicorp.co.jp/corporate/plan/・1回目）
+- 売上高：617億円 709億円 794億円（https://www.toseicorp.co.jp/corporate/plan/・1回目）
+- ビジネスモデル：
+  - 「DXによる既存事業拡充と新たな収益モデルの創出」（https://www.toseicorp.co.jp/corporate/plan/・1回目）
+  - 「DXによる既存事業拡充と新たな収益モデルの創出」（https://www.toseicorp.co.jp/files/corporate-plan-01.pdf・2回目）
+  - 「新たな収益モデルの創出」（https://www.toseicorp.co.jp/files/corporate-plan-01.pdf・2回目）
+- 誰に：
+  - 「また、DX分野では、業務プロセスの効率化を促進するとともに、自社再生物件、開発物件の出口戦略の多様化に向けて、不動産・金融・DXが融合した不動産テックビジネスである不動産クラウドファンディングやセキュリティ・トークン発行、区分マンション販売のデジタルマッチングに取り組み、新たな顧客層へ不動産投資機会を提供してまいります」（https://www.toseicorp.co.jp/corporate/plan/・1回目）
+  - 「業務プロセスの効率化を促進するとともに、自社再生物件、開発物件の出口戦略の多様化に向けて、不動産・金融・DXが融合した不動産テックビジネスである不動産クラウドファンディングやセキュリティ・トークン発行、区分マンション販売のデジタルマッチングに取り組み、新たな顧客層へ不動産投資機会を提供してまいります」（https://www.toseicorp.co.jp/business/・1回目）
+  - 「個人富裕層から機関投資家まで、幅広い顧客ニーズに応じた販売戦略を展開」（https://www.toseicorp.co.jp/business/development/・1回目）
+  - 「IT技術の進歩や顧客の投資活動の多様化を見据えて、幅広くデジタル分野を研究し、不動産とデジタル技術を融合させた商品・サービスの開発を推進してまいります」（https://www.toseicorp.co.jp/business/dx/・1回目）
+  - 「顧客層拡大に向けた「攻めのDX」と業務効率、サービス品質、商品競争力の向上のための「守りのDX」、2つの「DX」を軸に、新たな事業への挑戦を続けてまいります」（https://www.toseicorp.co.jp/business/dx/・1回目）
+  - 「デジタル技術を用いてユーザーニーズに合わせた物件情報を提供、スピーディかつ正確なマッチングを実現します」（https://www.toseicorp.co.jp/business/dx/・1回目）
+  - 「当社グループの多様な不動産ソリューション機能を活かし、顧客に選ばれる商品・高品質サービスを提供していく」（https://www.toseicorp.co.jp/files/corporate-plan-01.pdf・2回目）
+  - 「技術革新顧客・不動産需要」（https://www.toseicorp.co.jp/files/corporate-plan-01.pdf・2回目）
+  - 「・お客様の安心安全」（https://www.toseicorp.co.jp/files/corporate-plan-01.pdf・2回目）
+  - 「顧客層拡大に向けて攻めのDXを推進」（https://www.toseicorp.co.jp/files/corporate-plan-01.pdf・2回目）
+  - 「• 広告戦略の実施、会員数拡大」（https://www.toseicorp.co.jp/files/corporate-plan-01.pdf・2回目）
+  - 「• TRESQの認知度向上、会員数拡大」（https://www.toseicorp.co.jp/files/corporate-plan-01.pdf・2回目）
+- 何を：
+  - 「IR情報メール配信サービス」（https://www.toseicorp.co.jp/・1回目）
+  - 「商品やサービスを通じた社会的課題の解決」（https://www.toseicorp.co.jp/・1回目）
+  - 「金融商品取引法上の表示」（https://www.toseicorp.co.jp/・1回目）
+  - 「金融商品の販売等に係る勧誘方針」（https://www.toseicorp.co.jp/・1回目）
+  - 「金融商品取引に係る苦情処理措置および紛争解決措置に関する方針」（https://www.toseicorp.co.jp/・1回目）
+  - 「IR情報メール配信サービス」（https://www.toseicorp.co.jp/corporate/data/・1回目）
+  - 「商品やサービスを通じた社会的課題の解決」（https://www.toseicorp.co.jp/corporate/data/・1回目）
+  - 「金融商品取引業登録（第二種金融商品取引業、投資助言、代理業）：関東財務局長（金商）第898号」（https://www.toseicorp.co.jp/corporate/data/・1回目）
+  - 「第二種金融商品取引業協会(正会員)」（https://www.toseicorp.co.jp/corporate/data/・1回目）
+  - 「金融商品取引法上の表示」（https://www.toseicorp.co.jp/corporate/data/・1回目）
+  - 「金融商品の販売等に係る勧誘方針」（https://www.toseicorp.co.jp/corporate/data/・1回目）
+  - 「金融商品取引に係る苦情処理措置および紛争解決措置に関する方針」（https://www.toseicorp.co.jp/corporate/data/・1回目）
+- どうやって売るか：
+  - 「事業紹介トップ」（https://www.toseicorp.co.jp/・1回目）
+  - 「事業内容や業績など、トーセイをすぐ理解できるトピックスをまとめてご紹介します」（https://www.toseicorp.co.jp/・1回目）
+  - 「事業紹介トップ」（https://www.toseicorp.co.jp/corporate/data/・1回目）
+  - 「事業紹介トップ」（https://www.toseicorp.co.jp/corporate/plan/・1回目）
+  - 「事業紹介トップ」（https://www.toseicorp.co.jp/corporate/history/・1回目）
+  - 「事業紹介トップ」（https://www.toseicorp.co.jp/corporate/brochure/・1回目）
+  - 「企業紹介動画」（https://www.toseicorp.co.jp/corporate/brochure/・1回目）
+  - 「1都3県を中心に不動産業を営む、トーセイグループの企業紹介動画です」（https://www.toseicorp.co.jp/corporate/brochure/・1回目）
+  - 「「不動産再生」「不動産開発」「不動産賃貸」「不動産ファンド・コンサルティング」「不動産管理」「ホテル」の6つの事業のご紹介とともに、全ての事業に通じるトーセイの想いをお届けします」（https://www.toseicorp.co.jp/corporate/brochure/・1回目）
+  - 「事業紹介 | トーセイ株式会社」（https://www.toseicorp.co.jp/business/・1回目）
+  - 「事業紹介トップ」（https://www.toseicorp.co.jp/business/・1回目）
+  - 「Sustainable Value Up | 事業紹介 | トーセイ株式会社」（https://www.toseicorp.co.jp/business/revitalization/value-up/・1回目）
+- お金の形：
+  - 「不動産再生事業・不動産開発事業では、サステナビリティを意識した環境配慮商品の提供や既存不動産ストックの活用促進、取扱商品領域の拡大等による差別化を図り、トーセイブランドの確立と浸透を目指します」（https://www.toseicorp.co.jp/corporate/plan/・1回目）
+  - 「媒介手数料の計算方」（https://www.toseicorp.co.jp/files/corporate-data-03.pdf・2回目）
+  - 「• 2年⽬、3年⽬の粗利率は保守的に設定」（https://www.toseicorp.co.jp/files/corporate-plan-01.pdf・2回目）
+  - 「(ホ)当社グループから役員報酬以外に年額1,000万円以上の報酬を受けている弁護士、会計士等でないこと」（https://kitaishihon.com/company/8923/board-of-director・3回目）
+- 売上構成：
+  - 「セグメント情報」（https://www.toseicorp.co.jp/・1回目）
+  - 「セグメント情報」（https://www.toseicorp.co.jp/corporate/data/・1回目）
+  - 「セグメント情報」（https://www.toseicorp.co.jp/corporate/plan/・1回目）
+  - 「セグメント情報」（https://www.toseicorp.co.jp/corporate/history/・1回目）
+  - 「セグメント情報」（https://www.toseicorp.co.jp/corporate/brochure/・1回目）
+  - 「セグメント情報」（https://www.toseicorp.co.jp/business/・1回目）
+  - 「セグメント情報」（https://www.toseicorp.co.jp/business/revitalization/value-up/・1回目）
+  - 「セグメント情報」（https://www.toseicorp.co.jp/business/revitalization/・1回目）
+  - 「セグメント情報」（https://www.toseicorp.co.jp/business/asset/revitalization-office-mansion/・1回目）
+  - 「セグメント情報」（https://www.toseicorp.co.jp/business/asset/used-mansion/・1回目）
+  - 「セグメント情報」（https://www.toseicorp.co.jp/business/development/・1回目）
+  - 「セグメント情報」（https://www.toseicorp.co.jp/business/asset/development-office-facility/・1回目）
+- 利益の源泉：
+  - 「このような事業環境の変化に適応し、当社グループが将来に亘って成長を続け、サステナブルな社会の実現への貢献を通じて企業価値向上を実現していくために、当社グループの競争優位の源泉となるコア・コンピタンスに立脚した「目指す方向性（ありたい姿）」を明確にし、グループ一丸となってビジョン実現に取り組むことを目的として「トーセイグループ長期ビジョン2032」を策定しました」（https://www.toseicorp.co.jp/corporate/plan/・1回目）
+  - 「在庫拡大を図り、仕入を強化」（https://www.toseicorp.co.jp/files/corporate-plan-01.pdf・2回目）
+  - 「* 緑の部分は、売上総利益率、営業利益率を表示しております」（https://www.toseicorp.co.jp/files/corporate-plan-01.pdf・2回目）
+  - 「• 2年⽬、3年⽬の粗利率は保守的に設定」（https://www.toseicorp.co.jp/files/corporate-plan-01.pdf・2回目）
+- 沿革：
+  - 「2026年5月31日現在」（https://www.toseicorp.co.jp/corporate/data/・1回目）
+  - 「1950年(昭和25年) 2月2日」（https://www.toseicorp.co.jp/corporate/data/・1回目）
+  - 「2021年11月期」（https://www.toseicorp.co.jp/corporate/plan/・1回目）
+  - 「2022年11月期」（https://www.toseicorp.co.jp/corporate/plan/・1回目）
+  - 「2023年11月期」（https://www.toseicorp.co.jp/corporate/plan/・1回目）
+  - 「沿革 | 企業情報 | トーセイ株式会社」（https://www.toseicorp.co.jp/corporate/history/・1回目）
+  - 「2025年11月末時点」（https://www.toseicorp.co.jp/business/fund-and-consulting/・1回目）
+  - 「2027年01月13日」（https://www.toseicorp.co.jp/ir/・1回目）
+  - 「2026年11月期 決算発表」（https://www.toseicorp.co.jp/ir/・1回目）
+  - 「2026年10月05日」（https://www.toseicorp.co.jp/ir/・1回目）
+  - 「2026年11月期 第3四半期 決算発表」（https://www.toseicorp.co.jp/ir/・1回目）
+  - 「2026年07月06日」（https://www.toseicorp.co.jp/ir/・1回目）
+- 検索結果の抜粋：
+  - 「ホテル 事業 Hotel Business - トーセイ株式会社 — ホテル 事業 Hotel Business - トーセイ株式会社 トーセイ株式会社 https://www.toseicorp.co.jp > 事業紹介」（https://www.toseicorp.co.jp/business/hotel/・3回目）
+  - 「トーセイ 株式会社 — トーセイ 株式会社 トーセイ株式会社 https://www.toseicorp.co.jp」（https://www.toseicorp.co.jp/・3回目）
+  - 「採用情報 Recruit - トーセイ株式会社 — 採用情報 Recruit - トーセイ株式会社 トーセイ株式会社 https://www.toseicorp.co.jp > recruit」（https://www.toseicorp.co.jp/recruit/・3回目）
+  - 「トーセイ 早わかり | 企業情報 — トーセイ 早わかり | 企業情報 トーセイ株式会社 https://www.toseicorp.co.jp > 企業情報」（https://www.toseicorp.co.jp/corporate/at-a-glance/・3回目）
+  - 「不動産開発事業 Development Business - トーセイ株式会社 — 不動産開発事業 Development Business - トーセイ株式会社 トーセイ株式会社 https://www.toseicorp.co.jp > 事業紹介」（https://www.toseicorp.co.jp/business/development/・3回目）
+  - 「決算短信・ 決算説明資料 | 株主・投資家情報 | トーセイ 株式会社 — 決算短信・ 決算説明資料 | 株主・投資家情報 | トーセイ 株式会社 トーセイ株式会社 https://www.toseicorp.co.jp > ... > IRライブラリー」（https://www.toseicorp.co.jp/ir/irlibrary/results/・3回目）
+  - 「IRライブラリー | 株主・投資家情報 - トーセイ株式会社 — IRライブラリー | 株主・投資家情報 - トーセイ株式会社 トーセイ株式会社 https://www.toseicorp.co.jp > 株主・投資家情報」（https://www.toseicorp.co.jp/ir/irlibrary/・3回目）
+  - 「IR 株主・投資家情報 - トーセイ株式会社 — IR 株主・投資家情報 - トーセイ株式会社 トーセイ株式会社 https://www.toseicorp.co.jp > ...」（https://www.toseicorp.co.jp/ir/・3回目）
+  - 「IRカレンダー | 株主・投資家情報 - トーセイ株式会社 — IRカレンダー | 株主・投資家情報 - トーセイ株式会社 トーセイ株式会社 https://www.toseicorp.co.jp > 株主・投資家情報」（https://www.toseicorp.co.jp/ir/ir-calendar/・3回目）
+  - 「【 トーセイ 】[8923]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 トーセイ 】[8923]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo」（https://www.nikkei.com/nkd/company/kigyo/?scode=8923・3回目）
+  - 「組織図 | 企業情報 - トーセイ株式会社 — 組織図 | 企業情報 - トーセイ株式会社 トーセイ株式会社 https://www.toseicorp.co.jp > 企業情報」（https://www.toseicorp.co.jp/corporate/organization/・3回目）
+  - 「組織図 - トーセイ・コミュニティ株式会社 — 組織図 - トーセイ・コミュニティ株式会社 トーセイ・コミュニティ株式会社 https://www.tosei-com.co.jp > company > organization」（https://www.tosei-com.co.jp/company/organization・3回目）
+
+## ドリームインキュベータ
+- 公式URL：https://www.dreamincubator.co.jp/（search:ddgs:google:ドリームインキュベータ）
+- 設立：2000年6月1日　※活動開始 沿革（https://www.dreamincubator.co.jp/company/overview/・1回目）
+- 設立：2000年 （ 平成 12年） 4月20日（https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0%E3%82%A4%E3%83%B3%E3%82%AD%E3%83%A5%E3%83%99%E3%83%BC%E3%82%BF・3回目）
+- 設立：2000年12月25日（創業：1996年）（https://www.movin.co.jp/firm/interview/interviewDI01.html・3回目）
+- 従業員数：782(42) 808(35) 143(3) 227(5) 214(4) 222(5)（https://www.dreamincubator.co.jp/ir/financial-highlights/・1回目）
+- 従業員数：222名（連結役職員数） （2026年3月末日現在）（https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0%E3%82%A4%E3%83%B3%E3%82%AD%E3%83%A5%E3%83%99%E3%83%BC%E3%82%BF・3回目）
+- 事業内容：ビジネスプロデュース プロフェッショナルサービス ソーシャル・インパクト・ボンド インキュベーション 過去の主な投資先情報（https://www.dreamincubator.co.jp/company/overview/・1回目）
+- 事業内容：・ビジネスプロデュース ・戦略コンサルティング ・ベンチャー投資（https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0%E3%82%A4%E3%83%B3%E3%82%AD%E3%83%A5%E3%83%99%E3%83%BC%E3%82%BF・3回目）
+- 事業内容：有料職業紹介事業(許可番号：13-ユ-040418) 労働者派遣事業(許可番号：派13-315811)（https://www.movin.co.jp/firm/interview/interviewDI01.html・3回目）
+- 売上高：27,776 35,566 30,132 5,378 6,183 8,691（https://www.dreamincubator.co.jp/ir/financial-highlights/・1回目）
+- 売上高：連結：8,691百万円 （2026年3月期）（https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0%E3%82%A4%E3%83%B3%E3%82%AD%E3%83%A5%E3%83%99%E3%83%BC%E3%82%BF・3回目）
+- ビジネスモデル：
+  - 「練られたビジネスモデルを構築すること」（https://www.dreamincubator.co.jp/service/business-produce/・1回目）
+  - 「業界を超えた“構想”の下で大きなビジネスを成立させるには、顧客を魅了し、顧客や接点、データ等を集めてくる撒き餌である“フック”と、フックを活用したマネタイズの仕組みである“回収エンジン”の両方を作りこんだビジネスモデルの設計が不可欠となります」（https://www.dreamincubator.co.jp/service/business-produce/・1回目）
+  - 「そのような中、保有リソース、所属業界、得意なビジネスモデルなど多様な観点から個社最適な両利きの経営を実現することが求められます」（https://www.dreamincubator.co.jp/service/theme/business-strategy/・1回目）
+  - 「DIは事業領域の特定・有望性評価から、ビジネスモデル設計、開発プロセスのステージゲート化まで一体で設計し、成功確率を高める戦略の策定と実行を支援します」（https://www.dreamincubator.co.jp/service/theme/business-strategy/・1回目）
+  - 「顧客ニーズの変化を十分に捉えず、従来のビジネスモデルに依存した探索となることで競争優位を築けないケースが見られます」（https://www.dreamincubator.co.jp/service/theme/business-strategy/・1回目）
+  - 「DIは顧客ニーズの全体像整理から価値創出の幅出し、実行可能なビジネスモデル設計まで一体で行い、価値起点での事業探索を実現します」（https://www.dreamincubator.co.jp/service/theme/business-strategy/・1回目）
+  - 「DIは長年培ったノウハウを用いて、大きく「市場分析/有望領域の特定」「領域ごとのビジネスモデル設計」「仲間づくり/実行支援」の３つのフェーズでプロジェクトを推進します」（https://www.dreamincubator.co.jp/service/theme/new-business/・1回目）
+  - 「近年は、事業創造支援の高度化や収益モデルの進化を図るとともに、戦略立案から企業」（https://www.dreamincubator.co.jp/wp2026/wp-content/uploads/2026/08/DIIR_260804_1Q_KT_JP.pdf・2回目）
+  - 「事業創造を核とした提供価値の高度化と収益モデルの進化」（https://www.dreamincubator.co.jp/wp2026/wp-content/uploads/2026/08/KDIIR_260804_1Q_KHS_JP.pdf・2回目）
+  - 「● 構想やコンセプトを打ち出し、DIのコアコンピタンスである事業創造の新たなビジネスモデルや戦略設計を創出」（https://www.dreamincubator.co.jp/wp2026/wp-content/uploads/2026/08/KDIIR_260804_1Q_KHS_JP.pdf・2回目）
+  - 「● 従来の固定フィーに加え、成功報酬や投資を絡めたモデルなど、多様な収益モデルを実装・実践」（https://www.dreamincubator.co.jp/wp2026/wp-content/uploads/2026/08/KDIIR_260804_1Q_KHS_JP.pdf・2回目）
+  - 「事業創造を核とした提供価値の高度化と収益モデルの進化」（https://www.dreamincubator.co.jp/wp2026/wp-content/uploads/2026/05/20260515-DIIR_4Q_KS.pdf・2回目）
+- 誰に：
+  - 「業界を超えた“構想”の下で大きなビジネスを成立させるには、顧客を魅了し、顧客や接点、データ等を集めてくる撒き餌である“フック”と、フックを活用したマネタイズの仕組みである“回収エンジン”の両方を作りこんだビジネスモデルの設計が不可欠となります」（https://www.dreamincubator.co.jp/service/business-produce/・1回目）
+  - 「顧客ニーズの変化を十分に捉えず、従来のビジネスモデルに依存した探索となることで競争優位を築けないケースが見られます」（https://www.dreamincubator.co.jp/service/theme/business-strategy/・1回目）
+  - 「DIは顧客ニーズの全体像整理から価値創出の幅出し、実行可能なビジネスモデル設計まで一体で行い、価値起点での事業探索を実現します」（https://www.dreamincubator.co.jp/service/theme/business-strategy/・1回目）
+  - 「テクノロジー起点で導入を進めることで顧客価値や市場適合が不十分となり、開発したDXソリューションが成果に結びつかないケースが多く見られます」（https://www.dreamincubator.co.jp/service/theme/digital-transformation-strategy-execution-and-business-reform/・1回目）
+  - 「海外で新規事業を立ち上げても、スケール戦略、現地パートナー連携、顧客接点設計が不十分で成長が停滞するケースが多く見られます」（https://www.dreamincubator.co.jp/service/theme/global-business/・1回目）
+  - 「この2つのプラクティスを通じて、顧客の企業価値を上げるための既存事業の改革／新規事業創造、インストレーション、テクノロジー活用・実装までカバー領域を広げている」（https://www.dreamincubator.co.jp/news/2026/69302/・1回目）
+  - 「ビジネスプロデュースセグメントでは、主に大企業向けに、事業創造や企業変革をはじめとする顧客の様々な経営課」（https://www.dreamincubator.co.jp/wp2026/wp-content/uploads/2026/08/DIIR_260804_1Q_KT_JP.pdf・2回目）
+  - 「企業変革やDX需要といったクライアントニーズの高まりを背景に、既存顧客からの継続受注が堅調に推移しており、」（https://www.dreamincubator.co.jp/wp2026/wp-content/uploads/2026/08/DIIR_260804_1Q_KT_JP.pdf・2回目）
+  - 「外部顧客への売上高 1,366 792 2,159 2,159 － 2,159」（https://www.dreamincubator.co.jp/wp2026/wp-content/uploads/2026/08/DIIR_260804_1Q_KT_JP.pdf・2回目）
+  - 「外部顧客への売上高 1,669 104 1,773 1,773 － 1,773」（https://www.dreamincubator.co.jp/wp2026/wp-content/uploads/2026/08/DIIR_260804_1Q_KT_JP.pdf・2回目）
+  - 「AIサービスの提供会社から導入企業の現場に送り込まれ、各企業向けのカスタマイズを担う特殊なエンジニア職を指す」（https://www.dreamincubator.co.jp/wp2026/wp-content/uploads/2026/08/KDIIR_260804_1Q_KHS_JP.pdf・2回目）
+  - 「顧客コミットを強化し、多様な経営ニーズに対応」（https://www.dreamincubator.co.jp/wp2026/wp-content/uploads/2026/08/KDIIR_260804_1Q_KHS_JP.pdf・2回目）
+- 何を：
+  - 「サービストップ」（https://www.dreamincubator.co.jp/・1回目）
+  - 「M&A戦略／FAS・財務ソリューション」（https://www.dreamincubator.co.jp/・1回目）
+  - 「IT・デジタルサービス」（https://www.dreamincubator.co.jp/・1回目）
+  - 「サービス・教育」（https://www.dreamincubator.co.jp/・1回目）
+  - 「『バッテリー品質保証付きリユースEV』ソリューションの提供開始に向けて」（https://www.dreamincubator.co.jp/・1回目）
+  - 「DIとマツダが行う塗膜耐食性評価サービスに関する取り組みが掲載（日経クロステック）」（https://www.dreamincubator.co.jp/・1回目）
+  - 「ドリームインキュベータと電通、ベトナム市場進出支援サービスを提供開始」（https://www.dreamincubator.co.jp/・1回目）
+  - 「ドリームインキュベータと電通、 インド市場に特化した市場進出・新規事業支援ソリューション提供開始」（https://www.dreamincubator.co.jp/・1回目）
+  - 「JICAと共同で、途上国低炭素社会実現に向けた技術・製品公募セミナーを開催」（https://www.dreamincubator.co.jp/・1回目）
+  - 「豊田市官民連携介護予防「ずっと元気！プロジェクト」における社会参加促進サービスの提供開始」（https://www.dreamincubator.co.jp/・1回目）
+  - 「豊田市官民連携介護予防 ”ずっとつながるプロジェクト” において社会参加促進サービスを提供する民間事業者の募集を開始」（https://www.dreamincubator.co.jp/・1回目）
+  - 「日本国内初 － 「ISO 30414」コンサルティングサービスを開始」（https://www.dreamincubator.co.jp/・1回目）
+- どうやって売るか：
+  - 「DIと山口フィナンシャルグループが行うSIBの取り組みが紹介（BSテレビ東京、日刊工業新聞、山口新聞）」（https://www.dreamincubator.co.jp/・1回目）
+  - 「JICA・IDB LabオープンイノベーションチャレンジTSUBASA2021 採択企業紹介動画公開」（https://www.dreamincubator.co.jp/・1回目）
+  - 「ここでは、構想から実行までを支援してきた具体的なプロジェクト事例をご紹介します」（https://www.dreamincubator.co.jp/・1回目）
+  - 「挑戦者のパートナーとして」（https://www.dreamincubator.co.jp/service/business-produce/・1回目）
+  - 「事業経営や事業投資など、多様な経験を積み重ねた「ビジネスプロデューサー」が高い視座・視野を持ち、挑戦者のパートナーとして伴走します」（https://www.dreamincubator.co.jp/service/business-produce/・1回目）
+  - 「様々なパートナーと連携すること」（https://www.dreamincubator.co.jp/service/business-produce/・1回目）
+  - 「未開の扉を開くには、既存の枠を超えて様々なパートナー（社内・企業・行政・大学）と連携することが必要です」（https://www.dreamincubator.co.jp/service/business-produce/・1回目）
+  - 「パートナリングにあたっては、自社とパートナーの両者がWin-Winとなる関係を構築し、連携の輪を拡大して仲間をつくることが大きな構想の実現に繋がります」（https://www.dreamincubator.co.jp/service/business-produce/・1回目）
+  - 「社内外のパートナーに働きかけ」（https://www.dreamincubator.co.jp/service/business-produce/・1回目）
+  - 「DIは、社内外双方のパートナーを突き動かすことで、成果創出へとリードしていきます」（https://www.dreamincubator.co.jp/service/business-produce/・1回目）
+  - 「ここでは、構想から実行までを支援してきた具体的なプロジェクト事例をご紹介します」（https://www.dreamincubator.co.jp/service/business-produce/・1回目）
+  - 「戦略策定だけでなく現地パートナー企業との交渉やPoC設計までを一貫して支援」（https://www.dreamincubator.co.jp/service/business-produce/・1回目）
+- お金の形：
+  - 「執行役員・野邊 義博がストックマーク社・ウェビナーに登壇、資料を一般公開」（https://www.dreamincubator.co.jp/・1回目）
+  - 「* 全額減損済かつその後のアップラウンドがない銘柄、及び評価対象外のストックオプション除く」（https://www.dreamincubator.co.jp/wp2026/wp-content/uploads/2026/08/KDIIR_260804_1Q_KHS_JP.pdf・2回目）
+  - 「● 従来の固定フィーに加え、成功報酬や投資を絡めたモデルなど、多様な収益モデルを実装・実践」（https://www.dreamincubator.co.jp/wp2026/wp-content/uploads/2026/08/KDIIR_260804_1Q_KHS_JP.pdf・2回目）
+  - 「* 全額減損済かつその後のアップラウンドがない銘柄、及び評価対象外のストックオプション除く」（https://www.dreamincubator.co.jp/wp2026/wp-content/uploads/2026/05/20260515-DIIR_4Q_KS.pdf・2回目）
+  - 「● 従来の固定フィーに加え、成功報酬や投資を絡めたモデルなど、多様な収益モデルを実装・実践」（https://www.dreamincubator.co.jp/wp2026/wp-content/uploads/2026/05/20260515-DIIR_4Q_KS.pdf・2回目）
+  - 「①【ストックオプション制度の内容】」（https://www.dreamincubator.co.jp/wp2026/wp-content/uploads/2025/08/260619-DIIR_4Q_YH.pdf・2回目）
+  - 「監査等委員でない取締役の金銭報酬の額は、2016年６月13日開催の第16回定時株主総会において年額300百」（https://www.dreamincubator.co.jp/wp2026/wp-content/uploads/2025/08/260619-DIIR_4Q_YH.pdf・2回目）
+  - 「監査等委員である取締役の金銭報酬の額は、2025年６月23日開催の第25回定時株主総会において年額80百万」（https://www.dreamincubator.co.jp/wp2026/wp-content/uploads/2025/08/260619-DIIR_4Q_YH.pdf・2回目）
+  - 「５ 監査等委員である取締役の金銭報酬の額は、2025年6月23日開催の第25回定時株主総会において年額」（https://www.dreamincubator.co.jp/wp2026/wp-content/uploads/2025/08/260619-DIIR_4Q_YH.pdf・2回目）
+  - 「営業投資売上原価には、これに対応する営業投資有価証券の売却簿価・支払手数料・評価損、及び投資」（https://www.dreamincubator.co.jp/wp2026/wp-content/uploads/2025/08/260619-DIIR_4Q_YH.pdf・2回目）
+  - 「* 全額減損済かつその後のアップラウンドがない銘柄、及び評価対象外のストックオプション除く」（https://www.dreamincubator.co.jp/wp2026/wp-content/uploads/2026/04/260203-DIIR_3Q_KSH.pdf・2回目）
+  - 「（成功報酬等）の実装・実践」（https://www.dreamincubator.co.jp/wp2026/wp-content/uploads/2026/04/260203-DIIR_3Q_KSH.pdf・2回目）
+- 売上構成：
+  - 「当社グループのセグメントは、ビジネスプロデュース及びベンチャー投資から構成されております」（https://www.dreamincubator.co.jp/wp2026/wp-content/uploads/2026/08/DIIR_260804_1Q_KT_JP.pdf・2回目）
+  - 「（セグメント情報等の注記） ……………………………………………………………………………………… ７」（https://www.dreamincubator.co.jp/wp2026/wp-content/uploads/2026/08/DIIR_260804_1Q_KT_JP.pdf・2回目）
+  - 「当第１四半期連結累計期間における報告セグメントごとの業績は、以下のとおりです」（https://www.dreamincubator.co.jp/wp2026/wp-content/uploads/2026/08/DIIR_260804_1Q_KT_JP.pdf・2回目）
+  - 「（ビジネスプロデュースセグメント）」（https://www.dreamincubator.co.jp/wp2026/wp-content/uploads/2026/08/DIIR_260804_1Q_KT_JP.pdf・2回目）
+  - 「ビジネスプロデュースセグメントでは、主に大企業向けに、事業創造や企業変革をはじめとする顧客の様々な経営課」（https://www.dreamincubator.co.jp/wp2026/wp-content/uploads/2026/08/DIIR_260804_1Q_KT_JP.pdf・2回目）
+  - 「以上の結果、当第１四半期連結累計期間の売上高は1,669百万円（前年同四半期は1,366百万円）、セグメント利益は」（https://www.dreamincubator.co.jp/wp2026/wp-content/uploads/2026/08/DIIR_260804_1Q_KT_JP.pdf・2回目）
+  - 「（ベンチャー投資セグメント）」（https://www.dreamincubator.co.jp/wp2026/wp-content/uploads/2026/08/DIIR_260804_1Q_KT_JP.pdf・2回目）
+  - 「ベンチャー投資セグメントにおいては、スタートアップ企業等への投資育成を行っております」（https://www.dreamincubator.co.jp/wp2026/wp-content/uploads/2026/08/DIIR_260804_1Q_KT_JP.pdf・2回目）
+  - 「以上の結果、当第１四半期連結累計期間の売上高は104百万円（前年同四半期は792百万円）、セグメント損失は28百」（https://www.dreamincubator.co.jp/wp2026/wp-content/uploads/2026/08/DIIR_260804_1Q_KT_JP.pdf・2回目）
+  - 「万円（前年同四半期はセグメント利益671百万円）となりました」（https://www.dreamincubator.co.jp/wp2026/wp-content/uploads/2026/08/DIIR_260804_1Q_KT_JP.pdf・2回目）
+  - 「ビジネスプロデュースセグメントにおいては 、引き続き４つのビジネスプロデュース 領域を着実に推進するととも」（https://www.dreamincubator.co.jp/wp2026/wp-content/uploads/2026/08/DIIR_260804_1Q_KT_JP.pdf・2回目）
+  - 「の取り組みを受けて、ビジネスプロデュースセグメントの売上高は2027年３月期に75億円を見通しており、2030年３月」（https://www.dreamincubator.co.jp/wp2026/wp-content/uploads/2026/08/DIIR_260804_1Q_KT_JP.pdf・2回目）
+- 利益の源泉：
+  - 「「“ビジネスプロデュース×テクノロジー”を強みに」（https://www.dreamincubator.co.jp/・1回目）
+  - 「顧客ニーズの変化を十分に捉えず、従来のビジネスモデルに依存した探索となることで競争優位を築けないケースが見られます」（https://www.dreamincubator.co.jp/service/theme/business-strategy/・1回目）
+  - 「自社の強みを十分に定義できず、外部環境に依存した戦略となることで競争優位を発揮できないケースが多く見られます」（https://www.dreamincubator.co.jp/service/theme/business-strategy/・1回目）
+  - 「に、AIの進化を踏まえた採用・育成の強化に取り組み、高収益性を継続創出する体制の構築を図っていきます」（https://www.dreamincubator.co.jp/wp2026/wp-content/uploads/2026/08/DIIR_260804_1Q_KT_JP.pdf・2回目）
+  - 「‒ 営業利益率」（https://www.dreamincubator.co.jp/wp2026/wp-content/uploads/2026/08/KDIIR_260804_1Q_KHS_JP.pdf・2回目）
+  - 「に取り組み、高収益性を継続創出する体制の構築を図っていきます」（https://www.dreamincubator.co.jp/wp2026/wp-content/uploads/2026/05/20260515_DIIR_4Q-KT.pdf・2回目）
+  - 「2030年目標（売上2倍、営業利益率15％以上）の1年目として、順調なスタート」（https://www.dreamincubator.co.jp/wp2026/wp-content/uploads/2026/05/20260515-DIIR_4Q_KS.pdf・2回目）
+  - 「‒ 営業利益率」（https://www.dreamincubator.co.jp/wp2026/wp-content/uploads/2026/05/20260515-DIIR_4Q_KS.pdf・2回目）
+  - 「● 営業利益： 8億円（営業利益率 12％）」（https://www.dreamincubator.co.jp/wp2026/wp-content/uploads/2026/05/20260515-DIIR_4Q_KS.pdf・2回目）
+  - 「特に、高収益を創出する基盤の構築に向けた投資を継続」（https://www.dreamincubator.co.jp/wp2026/wp-content/uploads/2026/05/20260515-DIIR_4Q_KS.pdf・2回目）
+  - 「当社は、2030年3月期に売上高110億円以上（2025年3月期の２倍、年平均成長率15%)、営業利益率15%以上を」（https://www.dreamincubator.co.jp/wp2026/wp-content/uploads/2025/08/260619-DIIR_4Q_YH.pdf・2回目）
+  - 「中計期間の実績として、売上高は5年で2倍（CAGR 15%）、営業利益率は5年後15%以上を目指します」（https://edinetdb.jp/company/E05221/presentations/・3回目）
+- 沿革：
+  - 「2027年3月期 第1四半期 決算短信及び決算補足説明資料掲載のお知らせ」（https://www.dreamincubator.co.jp/・1回目）
+  - 「2026年3月期 決算短信及び決算説明会資料掲載のお知らせ」（https://www.dreamincubator.co.jp/・1回目）
+  - 「2026年３月期 第３四半期 決算短信及び決算補足説明資料掲載のお知らせ」（https://www.dreamincubator.co.jp/・1回目）
+  - 「2026年3月期 第２四半期 決算短信及び決算説明会資料掲載のお知らせ」（https://www.dreamincubator.co.jp/・1回目）
+  - 「2026年3月期 第1四半期 決算短信及び決算補足説明資料掲載のお知らせ」（https://www.dreamincubator.co.jp/・1回目）
+  - 「2025年3月期 決算短信及び決算説明会資料掲載のお知らせ」（https://www.dreamincubator.co.jp/・1回目）
+  - 「2025年3月期 第3四半期 決算短信／補足説明資料掲載のお知らせ」（https://www.dreamincubator.co.jp/・1回目）
+  - 「2025年3月期 第2四半期 決算短信及び決算説明会資料掲載のお知らせ」（https://www.dreamincubator.co.jp/・1回目）
+  - 「2025年3月期 第1四半期 決算短信／決算補足説明資料掲載のお知らせ」（https://www.dreamincubator.co.jp/・1回目）
+  - 「2024年3月期 決算短信及び決算説明会資料掲載のお知らせ」（https://www.dreamincubator.co.jp/・1回目）
+  - 「2024年3月期 第3四半期 決算短信／補足説明資料掲載のお知らせ」（https://www.dreamincubator.co.jp/・1回目）
+  - 「2024年3月期 第2四半期 決算短信／決算説明会資料掲載のお知らせ」（https://www.dreamincubator.co.jp/・1回目）
+- 検索結果の抜粋：
+  - 「ドリームインキュベータ | DI - Dream Incubator — ドリームインキュベータ（DI）は、戦略コンサルティングを通じて、企業の経営戦略や成長戦略を実現するプロフェッショナルファームです。「ビジネスプロデュース」を強みに、新規事業創造から既存事業の変革まで、テクノロジー活用、業務改革、M&A、海外展開、官民連携等を一貫して支援 ...」（http://www.dreamincubator.co.jp/・3回目）
+  - 「【ドリームインキュベータの特徴】新規事業を創造し社会を変革するビ... — その中で、ボストン コンサルティング グループ（BCG）の元トップマネジメント陣が創業し、「ビジネスプロデュース」という独自の立ち位置を確立しているのが、株式会社ドリームインキュベータ（以下、ドリームインキュベータ）です。」（https://www.axc.ne.jp/media/careertips/dreamincubator-feature?date=202510141943・3回目）
+  - 「サービス | ドリームインキュベータ — 〜単発で終わらないビジネスプロデュースCoEの立ち上げ方〜 2024.05.27 キリンビバレッジ｢健康経営｣で開拓する新領域 ドリームインキュベータと共に市場を開拓 2024.02.13 戦略策定からM&A・その後のバリューアップまで通貫でサポートするDI流事業投資支援 DI ...」（https://www.dreamincubator.co.jp/service/・3回目）
+  - 「社会を変えるビジョン ドリームインキュベータが挑む新規事業創出の最... — Jan 2, 2024 · ドリームインキュベータ（DI）とは DIの企業概要と設立の背景 日本発の戦略コンサルティングファームの特色 新規事業創出を軸にしたビジネスモデル ベンチャーキャピタルとしての役割 DIが目指す「社会を変えるビジョン」 「日本経済を元気にする」と ...」（https://www.kotora.jp/c/50880/・3回目）
+  - 「【企業研究】ドリームインキュベータはなんの会社？仕事内容や競合と... — Oct 10, 2026 · 316 目次 [ 目次を全て表示する ] はじめに 【ドリームインキュベータはなんの会社】ドリームインキュベータはどんな会社なのか 戦略コンサルティングと事業投資の融合 社会課題を解決するビジネスプロデュース ベンチャー企業の育成とグローバル展開」（https://shukatsu-ichiba.com/article/22486・3回目）
+  - 「株式会社ドリームインキュベータ 決算説明資料 — EDINET DB — 株式会社ドリームインキュベータは2000年6月1日に活動を開始し、証券コードは4310（東証プライム）です。 所在地は東京都千代田区霞が関3-2-6 東京俱楽部ビルディング4F、資本金は50億円、従業員数は203名（2025年3月末現在）です。」（https://edinetdb.jp/company/E05221/presentations/・3回目）
+  - 「ドリームインキュベータのIR資料 - 4310 / プライム / サービス業 | ... — Aug 4, 2026 · ドリームインキュベータ（4310 / プライム / サービス業）のIR資料の一覧を表示しています。有価証券報告書や決算短信、そしてTDnetで開示された適時開示資料をPDFでご覧になれます。」（https://www.buffett-code.com/company/4310/library・3回目）
+  - 「株式会社ドリームインキュベータ IR資料 — EDINET DB — Apr 19, 2026 · EDINET DB > 企業一覧 > 株式会社ドリームインキュベータ > IR資料 株式会社ドリームインキュベータ — IR資料 統合報告書・中期経営計画・決算説明資料などのIR資料を、AIがセクション単位で構造化したデータです。」（https://edinetdb.jp/company/E05221/ir-docs/・3回目）
+  - 「ドリームインキュベータ（4310）のIR情報・決算資料 | IRBANK — May 15, 2026 · ドリームインキュベータ（4310）のIR情報・適時開示一覧。決算発表、業績修正などの開示情報を掲載。」（https://irbank.net/4310/ir・3回目）
+  - 「IRライブラリ - ドリームインキュベータ — ビジネスプロデュースで新規事業を創造・立ち上げするDIのIRライブラリについて掲載しています。DIの決算関連資料、株主総会関連資料につきましては、こちらからご確認ください。」（https://www.dreamincubator.co.jp/ir/library/・3回目）
+  - 「ドリームインキュベータ - Wikipedia — 株式会社ドリームインキュベータ （英: Dream Incubator Inc.）は、 東京都 千代田区 に本社を置き、新たな事業や産業の創造・企業の成長支援を行う 日本 の 企業。 堀紘一 が 2000年 （平成12年）に創立。コンサルティングや投資ビジネス実績によって培った知見とネットワークを活用し、産業および ...」（https://ja.wikipedia.org/wiki/ドリームインキュベータ・3回目）
+  - 「【ドリームインキュベータの特徴】新規事業を創造し社会を変革するビ... — 海外を含むベンチャー企業への投資に加え、ドリームインキュベータ自らが事業経営を行う事業投資（インキュベーション）活動まで、多岐にわたるのが特徴です。 2025年3月末時点で、社員数は214名で、連結純資産は131億円にのぼります。」（https://www.axc.ne.jp/media/careertips/dreamincubator-feature・3回目）
+
 ## ドーン
 - 公式URL：https://www.dawn-corp.co.jp/（search:yahoo_jp:ドーン）
 - 設立：1991年6月（https://www.dawn-corp.co.jp/company/outline/・1回目）
@@ -10346,6 +15970,113 @@
   - 「ドーン 財団とは | ドーン 財団 — ドーン 財団とは | ドーン 財団 ドーン財団 https://www.dawn-ogef.jp > dawnzdn」（https://www.dawn-ogef.jp/dawnzdn・3回目）
 - 従業員数：記載なし（3回確認済み：公式6頁／PDF・画像1件／外部4頁・検索5回）
 - 売上高：記載なし（3回確認済み：公式6頁／PDF・画像1件／外部4頁・検索5回）
+
+## ニフティライフスタイル
+- 公式URL：https://niftylifestyle.co.jp/（search:yahoo_jp:ニフティライフスタイル）
+- 設立：2018年2月23日（https://niftylifestyle.co.jp/about/・1回目）
+- 設立：2018年2月23日（https://www.nikkei.com/nkd/company/gaiyo/?scode=4262・3回目）
+- 従業員数：90 人（https://www.nikkei.com/nkd/company/gaiyo/?scode=4262・3回目）
+- 事業内容：行動支援サービス事業（https://niftylifestyle.co.jp/about/・1回目）
+- ビジネスモデル：
+  - 「ビジネスモデル」（https://finance.logmi.jp/articles/377088・3回目）
+  - 「：それぞれのビジネスモデルのご説明になります」（https://finance.logmi.jp/articles/377088・3回目）
+  - 「送客による「成果報酬型」と、SaaS型ツール提供による「月額課金型」の2つが、当社のビジネスモデルになっています」（https://finance.logmi.jp/articles/377088・3回目）
+  - 「また、温浴施設だけから収益を得るビジネスモデルではなく、トイレタリーメーカーや健康食品メーカーからの広告宣伝を取るということで、日帰り温浴施設内で例えばサンプリングなどを行っています」（https://finance.logmi.jp/articles/377088・3回目）
+  - 「「ニフティ不動産」と同様のビジネスモデル、提供価値となっています」（https://finance.logmi.jp/articles/377088・3回目）
+  - 「御社のビジネスモデルは、いたずらに売上を伸ばしていくというよりは、このまま利益をキープしつつ成長していくというイメージですか？」（https://finance.logmi.jp/articles/377088・3回目）
+  - 「ビジネスモデルにも影響していると思いますが、不動産会社から収益を得ているモデルでは物件を均等に出す必要がありますが、当社はポータルを束ねているため、ユーザーが見やすいよう棟寄せや物件毎に寄せています」（https://finance.logmi.jp/articles/377088・3回目）
+  - 「検索中心のモデルから、相談や伴走を含む“エージェント型”へ転換することで、収益モデルの高度化を図る」（https://www.kabutecho.com/interview/%E9%80%B2%E5%8C%96%E3%81%AF%E6%A7%8B%E6%83%B3%E3%81%8B%E3%82%89%E5%AE%9F%E8%A1%8C%E3%81%B8-%E3%83%8B%E3%83%95%E3%83%86%E3%82%A3%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AE/・3回目）
+  - 「■「ニフティ不動産」のビジネスモデル」（https://www.kabutecho.com/interview/%E9%80%B2%E5%8C%96%E3%81%AF%E6%A7%8B%E6%83%B3%E3%81%8B%E3%82%89%E5%AE%9F%E8%A1%8C%E3%81%B8-%E3%83%8B%E3%83%95%E3%83%86%E3%82%A3%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AE/・3回目）
+- 誰に：
+  - 「特に、コアドメインである住まい領域（ニフティ不動産、外壁塗装の窓口）においては、膨大なユーザー行動データとAIを掛け合わせることで、物件検索や比較体験を圧倒的に効率化し、ユーザー一人ひとりに最適化された「行動支援」を実現してまいります」（https://niftylifestyle.co.jp/ir/management/・1回目）
+  - 「また、共通ID基盤を「ライフスタイルMEMBERS」に刷新することで、メンバーシップビジネスを開始し、新たなユーザー行動データ基盤を構築します」（https://niftylifestyle.co.jp/ir/management/・1回目）
+  - 「また、ご来社されたお客様への飲料提供に関しても、ラベルレスペットボトルでの提供を行っております」（https://niftylifestyle.co.jp/sustainability/environment/・1回目）
+  - 「ニフティ不動産：広告宣伝によるアプリ利用者の拡大」（https://finance.logmi.jp/articles/377088・3回目）
+  - 「ニフティ不動産：Android向けアプリの強化と利用者拡大」（https://finance.logmi.jp/articles/377088・3回目）
+  - 「SaaS（DFO）：広告出稿支援ツールの顧客領域拡大」（https://finance.logmi.jp/articles/377088・3回目）
+  - 「質疑応答：アップルのユーザー情報収集規制の影響について」（https://finance.logmi.jp/articles/377088・3回目）
+  - 「質疑応答：アプリ利用者の年代について」（https://finance.logmi.jp/articles/377088・3回目）
+  - 「2018年にWebサービス事業をもっと成長させていこうということで、ユーザー数が増え始めていたマーケットプレイス型の「ニフティ不動産」を中心とした部分を独立させていくということと、Webサービス事業をよりスピード感ある経営で進めていくということで、上場も視野に入れての当社設立の運びとなりました」（https://finance.logmi.jp/articles/377088・3回目）
+  - 「行動支援プラットフォームサービスは、ユーザーの情報検討と企業の集客を、アプリやWebで支援していくものです」（https://finance.logmi.jp/articles/377088・3回目）
+  - 「一方で、企業のほうから見ると、欲しい家や求人などについて、高いニーズを持つユーザーをしっかりと送客できるというところで、高い満足度をいただいております」（https://finance.logmi.jp/articles/377088・3回目）
+  - 「「ニフティ温泉」に関しては、ユーザーがお得なクーポンを店舗に行って使うと、その利用に応じて成果報酬を得られるかたちになっています」（https://finance.logmi.jp/articles/377088・3回目）
+- 何を：
+  - 「掲載物件1,400万件以上! 不動産情報の総合サービス」（https://niftylifestyle.co.jp/・1回目）
+  - 「探せる! 得する! スパ・温泉情報の総合サービス」（https://niftylifestyle.co.jp/・1回目）
+  - 「データフィードの最適化ソリューション」（https://niftylifestyle.co.jp/・1回目）
+  - 「住まい探しの不安と手間を解消するサポートサービス」（https://niftylifestyle.co.jp/・1回目）
+  - 「データフィード最適化サービス「DFO」、Webサイト体験設計SaaS「storeeel」向け商品フィード連携を開始」（https://niftylifestyle.co.jp/・1回目）
+  - 「私たちは、より良い暮らしを目指す人々の行動に寄り添う「行動支援サービス事業」を通じて、持続的な幸せを社会に広げていきます」（https://niftylifestyle.co.jp/about/・1回目）
+  - 「行動支援サービス事業」（https://niftylifestyle.co.jp/about/・1回目）
+  - 「サービスの利便性と日々の業務効率を改善することで、収益性と競争優位性をさらに盤石なものとします」（https://niftylifestyle.co.jp/ir/management/・1回目）
+  - 「「不動産テック領域」の構成サービスである「オンライン内見」では、不動産会社向けに、オンラインによる内見、商談、契約手続き等に最適化されたビデオ共有サービスを提供しており、不動産取引業務のオンライン化を推進する事で、温室効果ガスの削減やペーパーレス化に取り組んでおります」（https://niftylifestyle.co.jp/sustainability/environment/・1回目）
+  - 「不要な書類を個別に紙ごみとして処理するのではなく、機密文書回収用セキュリティボックスで回収し、セキュリティを確保しつつトイレットペーパーなどの紙製品にリサイクルされております」（https://niftylifestyle.co.jp/sustainability/environment/・1回目）
+  - 「行動支援ソリューションサービスのご紹介」（https://finance.logmi.jp/articles/377088・3回目）
+  - 「行動支援ソリューション：売上高、営業利益」（https://finance.logmi.jp/articles/377088・3回目）
+- どうやって売るか：
+  - 「ニフティ不動産のご紹介」（https://finance.logmi.jp/articles/377088・3回目）
+  - 「ニフティ温泉のご紹介」（https://finance.logmi.jp/articles/377088・3回目）
+  - 「ニフティ求人のご紹介」（https://finance.logmi.jp/articles/377088・3回目）
+  - 「行動支援ソリューションサービスのご紹介」（https://finance.logmi.jp/articles/377088・3回目）
+  - 「「ニフティ温泉」に関しては、ユーザーがお得なクーポンを店舗に行って使うと、その利用に応じて成果報酬を得られるかたちになっています」（https://finance.logmi.jp/articles/377088・3回目）
+  - 「まず、主力の「ニフティ不動産」のご紹介になります」（https://finance.logmi.jp/articles/377088・3回目）
+  - 「大手ポータルはいろいろなプロモーションを行っていると思うのですが、その中の1つとして、当社はより質の高いユーザーを送れているということで、長年に渡りパートナーシップを組ませてもらっています」（https://finance.logmi.jp/articles/377088・3回目）
+  - 「：「ニフティ温泉」のご紹介になります」（https://finance.logmi.jp/articles/377088・3回目）
+  - 「：「ニフティ求人」のご紹介になります」（https://finance.logmi.jp/articles/377088・3回目）
+  - 「「オンライン内見」はコロナ禍で利用が増え始め、実際の店舗に行かずに接客することができます」（https://finance.logmi.jp/articles/377088・3回目）
+  - 「集客に際しては影響を与えるものだと考えていますが、逆に、パートナー企業の広告出稿による集客が難しくなった場合に、当社に集客を求められるなど、プラスに向けばとも考えています」（https://finance.logmi.jp/articles/377088・3回目）
+  - 「例えば、IT重説の利用が非常に増えているのは、まさに家を見て「これだ」と決めた後は手続きだけのためにわざわざ店舗に行くのも煩わしいからだと思います」（https://finance.logmi.jp/articles/377088・3回目）
+- お金の形：
+  - 「送客による「成果報酬型」と、SaaS型ツール提供による「月額課金型」の2つが、当社のビジネスモデルになっています」（https://finance.logmi.jp/articles/377088・3回目）
+  - 「行動支援ソリューションは「DFO」「オンライン内見」ともに、DXツールを利用することへの月額課金というかたちで、ストックビジネスとなっています」（https://finance.logmi.jp/articles/377088・3回目）
+  - 「：こちらは取り組みとしてはおもしろいと思うのですが、だいたいは宿泊を取り扱って、宿泊は金額のボリュームが大きいため、だいたい15パーセントから20パーセントの手数料をもらうかたちになるのが一般的だと思います」（https://finance.logmi.jp/articles/377088・3回目）
+  - 「既存の賃貸アプリ、購入アプリをどう伸ばしていくかという部分に関しては、主要KPIである利用者の拡大と送客率の改善、送客単価のアップを考えています」（https://finance.logmi.jp/articles/377088・3回目）
+  - 「単価に関しては、賃貸領域と購入領域で大きく違っており、購入領域の割合を増やしていくことで成長の伸びが期待できると考えています」（https://finance.logmi.jp/articles/377088・3回目）
+  - 「住宅ローンや金融系など、1人当たりのARPUを上げていくことで、不動産事業がさらに成長していくと考えています」（https://finance.logmi.jp/articles/377088・3回目）
+  - 「：全体的な成長のポイントは、ニフティ不動産など行動支援プラットフォームサービスでは、やはり利用者数と利用率、単価をどれだけ改善できるかで、先ほどスライド25ページでも説明したとおりです」（https://finance.logmi.jp/articles/377088・3回目）
+  - 「特定業種に複数のツールを提供することでARPUを上げる戦略もあると思いますし、当社の行動支援プラットフォームとの連携業界に新しいソリューションツールを加え、全体として行動支援ソリューション事業を上げていくことが重要になってきます」（https://finance.logmi.jp/articles/377088・3回目）
+  - 「今後、ストックが溜まっていけばビジネスチャンスもありそうだと思いました」（https://finance.logmi.jp/articles/377088・3回目）
+- 利益の源泉：
+  - 「サービスの利便性と日々の業務効率を改善することで、収益性と競争優位性をさらに盤石なものとします」（https://niftylifestyle.co.jp/ir/management/・1回目）
+  - 「売上高・営業利益率の推移」（https://finance.logmi.jp/articles/377088・3回目）
+  - 「特にスライドにも記載してありますが、情報量が多い点が1つの強みとなっています」（https://finance.logmi.jp/articles/377088・3回目）
+  - 「賃貸から購入まで、家を探す時の情報一括検索プラットフォームサービスというところが、当社の強みになっています」（https://finance.logmi.jp/articles/377088・3回目）
+  - 「：当社は、アプリを活用したユーザー行動データの収集や分析、そして最適な情報提供が強みとなっています」（https://finance.logmi.jp/articles/377088・3回目）
+  - 「アプリならではの情報の溜め方や、その情報を活用した検索プラットフォームというのが当社の強みです」（https://finance.logmi.jp/articles/377088・3回目）
+  - 「いかにして一人ひとりに最適な情報を送れるか、KPIとなる送客率には、このあたりが強みとして出てきていると思っています」（https://finance.logmi.jp/articles/377088・3回目）
+  - 「：設立年度からの売上高と営業利益率の推移です」（https://finance.logmi.jp/articles/377088・3回目）
+  - 「収益性を示す営業利益率も、設立当初から30パーセント強で推移し、安定した売上と利益が確保できている状況になっています」（https://finance.logmi.jp/articles/377088・3回目）
+  - 「我々の強みだったWebマーケティング、ASOやSEOで集客すると、賃貸や不動産という検索ワード等で来る方が多く、実は「ニフティ不動産」の認知率は10パーセントくらいしかないという現状になっています」（https://finance.logmi.jp/articles/377088・3回目）
+  - 「このあたりのブランド認知を上げていくことによって、当社の強みであるASOやSEOのところでブランドキーワードで上がってくると思います」（https://finance.logmi.jp/articles/377088・3回目）
+  - 「営業利益は10億3,400万円で、営業利益率30パーセント超を1つの目安としながら、投資もしつつ一定以上の収益を確保していくことを目指していきたいと考えています」（https://finance.logmi.jp/articles/377088・3回目）
+- 沿革：
+  - 「2030年に向けたVISION」（https://niftylifestyle.co.jp/about/・1回目）
+  - 「2026年3月期から2030年3月期までを対象期間とする中期経営計画です」（https://niftylifestyle.co.jp/about/・1回目）
+  - 「2018年2月23日」（https://niftylifestyle.co.jp/about/・1回目）
+  - 「2018年4月1日」（https://niftylifestyle.co.jp/about/・1回目）
+  - 「2026年3月期から2030年3月期を対象とする、現在進行中の中期経営計画「XPANSION 2030」では、」（https://niftylifestyle.co.jp/ir/management/・1回目）
+  - 「2030年に向けた飛躍の土台を強固に築くことができました」（https://niftylifestyle.co.jp/ir/management/・1回目）
+  - 「2026年5月」（https://niftylifestyle.co.jp/ir/management/・1回目）
+  - 「2027年３月期の期末配当予想につきましては、１株当たり64円00銭となります」（https://niftylifestyle.co.jp/ir/dividend/・1回目）
+  - 「2027年3月期 第2四半期決算発表」（https://niftylifestyle.co.jp/ir/calendar/・1回目）
+  - 「2027年3月期 第1四半期決算発表」（https://niftylifestyle.co.jp/ir/calendar/・1回目）
+  - 「2026年3月期 通期決算発表（」（https://niftylifestyle.co.jp/ir/calendar/・1回目）
+  - 「2026年3月期 第3四半期決算発表（」（https://niftylifestyle.co.jp/ir/calendar/・1回目）
+- 検索結果の抜粋：
+  - 「ニフティライフスタイル /ライフスタイル領域×テクノロジーで ... — ニフティライフスタイル /ライフスタイル領域×テクノロジーで ... ログミーFinance https://finance.logmi.jp > articles」（https://finance.logmi.jp/articles/377088・3回目）
+  - 「進化は構想から実行へ ニフティライフスタイル の成長シナリオ — 進化は構想から実行へ ニフティライフスタイル の成長シナリオ 株主手帳オンライン https://www.kabutecho.com > インタビュー」（https://www.kabutecho.com/interview/%E9%80%B2%E5%8C%96%E3%81%AF%E6%A7%8B%E6%83%B3%E3%81%8B%E3%82%89%E5%AE%9F%E8%A1%8C%E3%81%B8-%E3%83%8B%E3%83%95%E3%83%86%E3%82%A3%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AE/・3回目）
+  - 「ニフティライフスタイル 株式会社 | 思いやりとテクノロジーで ... — ニフティライフスタイル 株式会社 | 思いやりとテクノロジーで ... ニフティライフスタイル株式会社 https://niftylifestyle.co.jp」（https://niftylifestyle.co.jp/・3回目）
+  - 「ニフティライフスタイル の「企業分析［強み・弱み・展望 ... — ニフティライフスタイル の「企業分析［強み・弱み・展望 ... OpenWork https://www.openwork.jp > ... > ニフティライフスタイル」（https://www.openwork.jp/company_answer.php?m_id=a0C1000001Rvruw&q_no=9・3回目）
+  - 「ニフティライフスタイル 中期経営計画（2026年3月期～2030 ... — ニフティライフスタイル 中期経営計画（2026年3月期～2030 ... YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=DBr83EOJLKM・3回目）
+  - 「決算説明資料 - ニフティライフスタイル株式会社 — 決算説明資料 - ニフティライフスタイル株式会社 ニフティライフスタイル株式会社 https://niftylifestyle.co.jp > presentations」（https://niftylifestyle.co.jp/ir/presentations/・3回目）
+  - 「IR情報 - ニフティライフスタイル株式会社 — IR情報 - ニフティライフスタイル株式会社 ニフティライフスタイル株式会社 https://niftylifestyle.co.jp > ...」（https://niftylifestyle.co.jp/ir/・3回目）
+  - 「【 ニフティライフスタイル 】[4262]IR情報 中期 ... - 日本経済新聞 — 【 ニフティライフスタイル 】[4262]IR情報 中期 ... - 日本経済新聞 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo」（https://www.nikkei.com/nkd/company/kigyo/?scode=4262・3回目）
+  - 「ニフティライフスタイル 、設立来8期連続増収で営業利益18.5 ... — ニフティライフスタイル 、設立来8期連続増収で営業利益18.5 ... ログミーFinance https://finance.logmi.jp > articles」（https://finance.logmi.jp/articles/384809・3回目）
+  - 「ニフティライフスタイル 2026年3月期 第1四半期 決算説明 動画 — ニフティライフスタイル 2026年3月期 第1四半期 決算説明 動画 YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=A5eqC9iP_1c・3回目）
+  - 「企業情報 - ニフティライフスタイル株式会社 — 企業情報 - ニフティライフスタイル株式会社 ニフティライフスタイル株式会社 https://niftylifestyle.co.jp > about」（https://niftylifestyle.co.jp/about/・3回目）
+  - 「【 ニフティライフスタイル 】[4262]企業概要 社員数や役員報酬 ... — 【 ニフティライフスタイル 】[4262]企業概要 社員数や役員報酬 ... 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo」（https://www.nikkei.com/nkd/company/gaiyo/?scode=4262・3回目）
+- 売上高：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部4頁・検索5回）
+- 売上構成：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部4頁・検索5回）
 
 ## ネオジャパン
 - 公式URL：https://www.neo.co.jp/（search:yahoo_jp:ネオジャパン）
@@ -10585,6 +16316,96 @@
 - 設立：記載なし（3回確認済み：公式15頁／PDF・画像0件／外部8頁・検索5回）
 - 従業員数：記載なし（3回確認済み：公式15頁／PDF・画像0件／外部8頁・検索5回）
 - 事業内容：記載なし（3回確認済み：公式15頁／PDF・画像0件／外部8頁・検索5回）
+
+## ノースサンド
+- 公式URL：https://northsand.co.jp/（search:yahoo_jp:ノースサンド）
+- ビジネスモデル：
+  - 「フォルトナは採用企業から紹介手数料をいただくビジネスモデルのため、転職するご相談者様から費用をいただくことはありません」（https://fortna.co.jp/northsand_interview/・3回目）
+- 誰に：
+  - 「お客様のためになることを」（https://northsand.co.jp/・1回目）
+  - 「“人”を大切にし、地に足をつけ、お客様が本当に求めている事は何かを考え続け、そこにフィットするように素早く動く、それをただひたすら繰り返しているに過ぎません」（https://northsand.co.jp/company/・1回目）
+  - 「まだ創業から日が浅いにもかかわらず、大手企業様を中心に多数のお客様からご支持いただいているのは、本質的な意味で“人”にフォーカスを当てた、唯一のコンサルティング会社であるからだと自負しております」（https://northsand.co.jp/company/・1回目）
+  - 「スキルだけではなく人間力を育み、お客様の感情面にも寄り添いながら問題を解決していきます」（https://northsand.co.jp/service/・1回目）
+  - 「お客様のプレゼンサポート」（https://northsand.co.jp/service/business-introduction/・1回目）
+  - 「お客様とリハーサルを行い、伝え方の練習相手になる」（https://northsand.co.jp/service/business-introduction/・1回目）
+  - 「質疑応答でお客様が詰まったときに、補足してスムーズに場をつなぐ」（https://northsand.co.jp/service/business-introduction/・1回目）
+  - 「お客様の手元資料に付箋で重要ポイントや話す順番を書いておく」（https://northsand.co.jp/service/business-introduction/・1回目）
+  - 「顧客が直接言いにくい指摘を代理で整理して伝える」（https://northsand.co.jp/service/business-introduction/・1回目）
+  - 「忙しいお客様に代わって関係者への連絡事項を展開する」（https://northsand.co.jp/service/business-introduction/・1回目）
+  - 「お客様関連部署の新しい社内規則を全体に展開して混乱を防ぐ」（https://northsand.co.jp/service/business-introduction/・1回目）
+  - 「お客様の担当者が異動予定を知り、後任準備をしておく」（https://northsand.co.jp/service/business-introduction/・1回目）
+- 何を：
+  - 「提供しているサービスやソリューションの内容、強み、対応領域などを紹介するページです」（https://northsand.co.jp/・1回目）
+  - 「提供しているサービスやソリューションの内容、強み、対応領域などを紹介するページです」（https://northsand.co.jp/company/・1回目）
+  - 「サービス｜株式会社ノースサンド」（https://northsand.co.jp/service/・1回目）
+  - 「提供しているサービスやソリューションの内容、強み、対応領域などを紹介するページです」（https://northsand.co.jp/service/・1回目）
+  - 「ITとビジネスのコンサルティングサービス」（https://northsand.co.jp/service/・1回目）
+  - 「コンサルティングサービス」（https://northsand.co.jp/service/・1回目）
+  - 「提供しているサービスやソリューションの内容、強み、対応領域などを紹介するページです」（https://northsand.co.jp/ir/・1回目）
+  - 「提供しているサービスやソリューションの内容、強み、対応領域などを紹介するページです」（https://northsand.co.jp/company/officer/・1回目）
+  - 「ITプロジェクトの企画立案や新規サービスの立ち上げなどに従事」（https://northsand.co.jp/company/officer/・1回目）
+  - 「2009年に国内大手SIerに入社し、クラウドサービス事業に従事」（https://northsand.co.jp/company/officer/・1回目）
+  - 「総合情報サービス企業の現場統括として現場拡大に貢献」（https://northsand.co.jp/company/officer/・1回目）
+  - 「事業紹介｜サービス｜株式会社ノースサンド」（https://northsand.co.jp/service/business-introduction/・1回目）
+- どうやって売るか：
+  - 「会社概要、役員紹介など、組織の基本情報を掲載しております」（https://northsand.co.jp/・1回目）
+  - 「私たちが大切にしている想いや価値観をご紹介しております」（https://northsand.co.jp/・1回目）
+  - 「提供しているサービスやソリューションの内容、強み、対応領域などを紹介するページです」（https://northsand.co.jp/・1回目）
+  - 「会社概要、役員紹介など、組織の基本情報を掲載しております」（https://northsand.co.jp/company/・1回目）
+  - 「私たちが大切にしている想いや価値観をご紹介しております」（https://northsand.co.jp/company/・1回目）
+  - 「提供しているサービスやソリューションの内容、強み、対応領域などを紹介するページです」（https://northsand.co.jp/company/・1回目）
+  - 「会社概要、役員紹介など、組織の基本情報を掲載しております」（https://northsand.co.jp/service/・1回目）
+  - 「私たちが大切にしている想いや価値観をご紹介しております」（https://northsand.co.jp/service/・1回目）
+  - 「提供しているサービスやソリューションの内容、強み、対応領域などを紹介するページです」（https://northsand.co.jp/service/・1回目）
+  - 「株式会社NTT DXパートナー」（https://northsand.co.jp/service/・1回目）
+  - 「NTT DXパートナー様が語る、信頼の理由とは？」（https://northsand.co.jp/service/・1回目）
+  - 「会社概要、役員紹介など、組織の基本情報を掲載しております」（https://northsand.co.jp/ir/・1回目）
+- お金の形：
+  - 「フォルトナは採用企業から紹介手数料をいただくビジネスモデルのため、転職するご相談者様から費用をいただくことはありません」（https://fortna.co.jp/northsand_interview/・3回目）
+- 利益の源泉：
+  - 「提供しているサービスやソリューションの内容、強み、対応領域などを紹介するページです」（https://northsand.co.jp/・1回目）
+  - 「提供しているサービスやソリューションの内容、強み、対応領域などを紹介するページです」（https://northsand.co.jp/company/・1回目）
+  - 「提供しているサービスやソリューションの内容、強み、対応領域などを紹介するページです」（https://northsand.co.jp/service/・1回目）
+  - 「提供しているサービスやソリューションの内容、強み、対応領域などを紹介するページです」（https://northsand.co.jp/ir/・1回目）
+  - 「提供しているサービスやソリューションの内容、強み、対応領域などを紹介するページです」（https://northsand.co.jp/company/officer/・1回目）
+  - 「提供しているサービスやソリューションの内容、強み、対応領域などを紹介するページです」（https://northsand.co.jp/service/business-introduction/・1回目）
+  - 「提供しているサービスやソリューションの内容、強み、対応領域などを紹介するページです」（https://northsand.co.jp/ir/ir-library/・1回目）
+  - 「提供しているサービスやソリューションの内容、強み、対応領域などを紹介するページです」（https://northsand.co.jp/ir/ir-news/・1回目）
+  - 「提供しているサービスやソリューションの内容、強み、対応領域などを紹介するページです」（https://northsand.co.jp/ir/corporate-governance/・1回目）
+  - 「提供しているサービスやソリューションの内容、強み、対応領域などを紹介するページです」（https://northsand.co.jp/ir/financial-results/・1回目）
+  - 「提供しているサービスやソリューションの内容、強み、対応領域などを紹介するページです」（https://northsand.co.jp/ir/financial/・1回目）
+  - 「提供しているサービスやソリューションの内容、強み、対応領域などを紹介するページです」（https://northsand.co.jp/ir/cash-flow/・1回目）
+- 沿革：
+  - 「2015年7月10日」（https://northsand.co.jp/company/・1回目）
+  - 「2027年1月期第2四半期決算説明資料はこちら」（https://northsand.co.jp/ir/・1回目）
+  - 「2015年、株式会社ノースサンドを設立し、代表取締役に就任」（https://northsand.co.jp/company/officer/・1回目）
+  - 「2019年より取締役に就任」（https://northsand.co.jp/company/officer/・1回目）
+  - 「2009年に国内大手コンサルティング会社入社後、2015年にノースサンド立ち上げに参画」（https://northsand.co.jp/company/officer/・1回目）
+  - 「2001年に大手電力会社に入社後、2017年に大手会計系コンサルティング会社へ移籍」（https://northsand.co.jp/company/officer/・1回目）
+  - 「2022年にノースサンドに入社し、コーポレート部門の責任者として取締役に就任」（https://northsand.co.jp/company/officer/・1回目）
+  - 「2024年より当社社外取締役に就任」（https://northsand.co.jp/company/officer/・1回目）
+  - 「2026年より、取締役常勤監査等委員に就任」（https://northsand.co.jp/company/officer/・1回目）
+  - 「2006年に弁護士登録後、名川・岡村法律事務所に入所」（https://northsand.co.jp/company/officer/・1回目）
+  - 「2015年にパートナー、2021年に副所長に就任」（https://northsand.co.jp/company/officer/・1回目）
+  - 「2023年社外監査役、2026年より社外取締役監査等委員に就任」（https://northsand.co.jp/company/officer/・1回目）
+- 検索結果の抜粋：
+  - 「株式会社 ノースサンド - 世界をデザインする — 株式会社 ノースサンド - 世界をデザインする 株式会社ノースサンド https://northsand.co.jp」（https://northsand.co.jp/・3回目）
+  - 「会社概要｜株式会社 ノースサンド — 会社概要｜株式会社 ノースサンド 株式会社ノースサンド https://northsand.co.jp > company」（https://northsand.co.jp/company/・3回目）
+  - 「ノースサンド ① ― キャリア戦略編｜急拡大期に若手の裁量 ... — ノースサンド ① ― キャリア戦略編｜急拡大期に若手の裁量 ... note https://note.com > キャリア > キャリア戦略」（https://note.com/consul_agent/n/n15d1ce7c128c・3回目）
+  - 「ノースサンド はどのような会社？将来性・年収・働き方を徹底 ... — ノースサンド はどのような会社？将来性・年収・働き方を徹底 ... タイグロンパートナーズ https://www.tiglon-partners.com > knowledge」（https://www.tiglon-partners.com/knowledge/a10bb00000055sdyaa/16716/・3回目）
+  - 「ノースサンド の企業情報 | CFN（CareerForum.Net） — ノースサンド の企業情報 | CFN（CareerForum.Net） CFN https://careerforum.net > company_list > company_detail」（https://careerforum.net/ja/company_list/3762/company_detail/・3回目）
+  - 「IR情報｜株式会社 ノースサンド — IR情報｜株式会社 ノースサンド 株式会社ノースサンド https://northsand.co.jp > ...」（https://northsand.co.jp/ir/・3回目）
+  - 「【 ノースサンド 】[446A]IR情報 中期経営計画や 決算 短信 | 日経 ... — 【 ノースサンド 】[446A]IR情報 中期経営計画や 決算 短信 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo」（https://www.nikkei.com/nkd/company/kigyo/?scode=446A・3回目）
+  - 「ノースサンド （446A） 2026年1月期第3四半期 決算説明 — ノースサンド （446A） 2026年1月期第3四半期 決算説明 YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=IEbGi_6pnWo・3回目）
+  - 「ノースサンド の 資料 一覧 | IR 資料 に特化した事例まとめサイト — ノースサンド の 資料 一覧 | IR 資料 に特化した事例まとめサイト IRコンパス https://ir-compass.com > company > ノースサンド」（https://ir-compass.com/company/%E3%83%8E%E3%83%BC%E3%82%B9%E3%82%B5%E3%83%B3%E3%83%89/・3回目）
+  - 「ノースサンド 、3Q売上高・利益ともに過去最高を更新 ... — ノースサンド 、3Q売上高・利益ともに過去最高を更新 ... ログミーFinance https://finance.logmi.jp > articles」（https://finance.logmi.jp/articles/383586・3回目）
+  - 「コーポレート・ガバナンス｜IR情報｜株式会社 ノースサンド — コーポレート・ガバナンス｜IR情報｜株式会社 ノースサンド 株式会社ノースサンド https://northsand.co.jp > corporate-governance」（https://northsand.co.jp/ir/corporate-governance/・3回目）
+  - 「ノースサンド とは？会社概要や 事業 内容、将来性について解説 — ノースサンド とは？会社概要や 事業 内容、将来性について解説 マイビジョン https://my-vision.co.jp > consultant > firms > northsand」（https://my-vision.co.jp/consultant/it/firms/northsand・3回目）
+- 設立：記載なし（3回確認済み：公式13頁／PDF・画像8件／外部3頁・検索5回）
+- 従業員数：記載なし（3回確認済み：公式13頁／PDF・画像8件／外部3頁・検索5回）
+- 事業内容：記載なし（3回確認済み：公式13頁／PDF・画像8件／外部3頁・検索5回）
+- 売上高：記載なし（3回確認済み：公式13頁／PDF・画像8件／外部3頁・検索5回）
+- 売上構成：記載なし（3回確認済み：公式13頁／PDF・画像8件／外部3頁・検索5回）
 
 ## バイク王＆カンパニー
 - 公式URL：https://www.8190.co.jp/（search:yahoo_jp:バイク王&カンパニー）
@@ -11431,6 +17252,113 @@
   - 「事業 紹介 - 株式会社ファインデックス FINDEX Inc. — 事業 紹介 - 株式会社ファインデックス FINDEX Inc. findex.co.jp https://findex.co.jp > recruit > business」（https://findex.co.jp/recruit/business/index.html・3回目）
   - 「会社概要 - 株式会社ファインデックス FINDEX Inc. — 会社概要 - 株式会社ファインデックス FINDEX Inc. findex.co.jp https://findex.co.jp > company」（https://findex.co.jp/company/・3回目）
 
+## ファナック
+- 公式URL：https://www.fanuc.co.jp/（search:yahoo_jp:ファナック）
+- 設立：1972年（https://www.fanuc.co.jp/ja/profile/outline.html・1回目）
+- ビジネスモデル：
+  - 「【ビジネスモデル図解2026】ファナックの事業戦略を構造化する（公開マップあり） ｜【公式】MindMeister（マインドマイスター）」（https://mindmeister.jp/posts/bm-fanuc・3回目）
+  - 「【ビジネスモデル図解2026】ファナックの事業戦略を構造化する（公開マップあり） ｜【公式】MindMeister（マインドマイスター） has loaded」（https://mindmeister.jp/posts/bm-fanuc・3回目）
+  - 「ビジネスモデル図解」（https://mindmeister.jp/posts/bm-fanuc・3回目）
+  - 「【ビジネスモデル図解2026】ファナックの事業戦略を構造化する（公開マップあり）」（https://mindmeister.jp/posts/bm-fanuc・3回目）
+  - 「💁‍♂️ この記事は、身近な企業をテーマに、マインドマップツールを用いて、メタ的にビジネスモデルを図解する試みです」（https://mindmeister.jp/posts/bm-fanuc・3回目）
+  - 「「ビジネスモデル図解」一覧」（https://mindmeister.jp/posts/bm-fanuc・3回目）
+  - 「1. ファナックのビジネスモデル構造マップ」（https://mindmeister.jp/posts/bm-fanuc・3回目）
+  - 「以下は、ファナックが製造現場の自動化を支えるビジネスモデルの全体像を、わかりやすく階層化して構築したマインドマップです」（https://mindmeister.jp/posts/bm-fanuc・3回目）
+  - 「」の体制は、納入後数十年にわたる保守を約束するビジネスモデルです」（https://mindmeister.jp/posts/bm-fanuc・3回目）
+  - 「【ビジネスモデル図解2026】Sansanの事業戦略を構造化する（公開マップあり）」（https://mindmeister.jp/posts/bm-fanuc・3回目）
+  - 「【ビジネスモデル図解2026】ベイカレントの事業戦略を構造化する（公開マップあり）」（https://mindmeister.jp/posts/bm-fanuc・3回目）
+  - 「【ビジネスモデル図解2026】アイシンの事業戦略を構造化する（公開マップあり）」（https://mindmeister.jp/posts/bm-fanuc・3回目）
+- 誰に：
+  - 「お客様とともに」（https://www.fanuc.co.jp/・1回目）
+  - 「お客様とともに」（https://www.fanuc.co.jp/ja/product/robot/model/・1回目）
+  - 「お客様とともに」（https://www.fanuc.co.jp/ja/service/lifetimemaint/repairfactory.html・1回目）
+  - 「お客様とともに」（https://www.fanuc.co.jp/ja/training/training-inquiry.html・1回目）
+  - 「お客様とともに」（https://www.fanuc.co.jp/ja/sustainability/sdgs/fabusiness.html・1回目）
+  - 「お客様の安全確保」（https://www.fanuc.co.jp/ja/sustainability/sdgs/fabusiness.html・1回目）
+  - 「お客様とともに」（https://www.fanuc.co.jp/ja/sustainability/sdgs/robotbusiness.html・1回目）
+  - 「ファナックは、お客様の工場の自動化・ロボット化を進め、生産性向上に貢献することに集中しています」（https://www.fanuc.co.jp/ja/sustainability/sdgs/robotbusiness.html・1回目）
+  - 「ファナックが2019年12月に発表した協働ロボットCRXシリーズは、お客様にとっての使いやすさを徹底的に追及し、初めてでも簡単に使えるロボットです」（https://www.fanuc.co.jp/ja/sustainability/sdgs/robotbusiness.html・1回目）
+  - 「ファナックはお客様の工場の生産性向上、労働人口の減少や熟練技術者減少の解決策として、社会的課題解決に応えるロボットを開発しています」（https://www.fanuc.co.jp/ja/sustainability/sdgs/robotbusiness.html・1回目）
+  - 「お客様とともに」（https://www.fanuc.co.jp/ja/sustainability/sdgs/robomachinebusiness.html・1回目）
+  - 「ロボマシン事業の商品はファナックのCNCとサーボを搭載した工作機械もしくは産業機械で、お客様の工場で生産に使用されます」（https://www.fanuc.co.jp/ja/sustainability/sdgs/robomachinebusiness.html・1回目）
+- 何を：
+  - 「商品カタログ」（https://www.fanuc.co.jp/・1回目）
+  - 「商品紹介ビデオ」（https://www.fanuc.co.jp/・1回目）
+  - 「商品セキュリティ」（https://www.fanuc.co.jp/・1回目）
+  - 「商品の脆弱性情報」（https://www.fanuc.co.jp/・1回目）
+  - 「サービスのご案内」（https://www.fanuc.co.jp/・1回目）
+  - 「国内サービス」（https://www.fanuc.co.jp/・1回目）
+  - 「国内サービスの窓口」（https://www.fanuc.co.jp/・1回目）
+  - 「CS24サービスのご案内」（https://www.fanuc.co.jp/・1回目）
+  - 「国内サービスからのお知らせ」（https://www.fanuc.co.jp/・1回目）
+  - 「サービスのリーフレット」（https://www.fanuc.co.jp/・1回目）
+  - 「グローバルサービス」（https://www.fanuc.co.jp/・1回目）
+  - 「日本のサービス拠点」（https://www.fanuc.co.jp/・1回目）
+- どうやって売るか：
+  - 「商品紹介ビデオ」（https://www.fanuc.co.jp/・1回目）
+  - 「修理工場の紹介」（https://www.fanuc.co.jp/・1回目）
+  - 「サービス紹介ビデオ」（https://www.fanuc.co.jp/・1回目）
+  - 「アカデミ紹介ビデオ」（https://www.fanuc.co.jp/・1回目）
+  - 「日立とファナック、フィジカルAI実装の共同事業化に向けた戦略的パートナーシップを締結」（https://www.fanuc.co.jp/・1回目）
+  - 「商品紹介ビデオ」（https://www.fanuc.co.jp/ja/product/robot/model/・1回目）
+  - 「修理工場の紹介」（https://www.fanuc.co.jp/ja/product/robot/model/・1回目）
+  - 「サービス紹介ビデオ」（https://www.fanuc.co.jp/ja/product/robot/model/・1回目）
+  - 「アカデミ紹介ビデオ」（https://www.fanuc.co.jp/ja/product/robot/model/・1回目）
+  - 「ファナックロボットシステムインテグレータサイトでは、ファナックロボットをお使いいただく方々のために、日本国内で活躍しているロボットシステムインテグレータを紹介しています」（https://www.fanuc.co.jp/ja/product/robot/model/・1回目）
+  - 「修理工場の紹介 - 生涯保守 - サービスのご案内 - ファナック株式会社」（https://www.fanuc.co.jp/ja/service/lifetimemaint/repairfactory.html・1回目）
+  - 「商品紹介ビデオ」（https://www.fanuc.co.jp/ja/service/lifetimemaint/repairfactory.html・1回目）
+- お金の形：
+  - 「保守契約のご案内」（https://www.fanuc.co.jp/・1回目）
+  - 「保守部品のインターネット購入」（https://www.fanuc.co.jp/・1回目）
+  - 「保守部品のオンライン購入はこちら FANUC E-Store」（https://www.fanuc.co.jp/・1回目）
+  - 「Service First：ファナックは「サービスファースト」の精神のもと、世界に270以上のサービス拠点を置き、100ヶ国以上でファナック商品を生涯保守いたします」（https://www.fanuc.co.jp/・1回目）
+  - 「保守契約のご案内」（https://www.fanuc.co.jp/ja/product/robot/model/・1回目）
+  - 「保守部品のインターネット購入」（https://www.fanuc.co.jp/ja/product/robot/model/・1回目）
+  - 「修理工場の紹介 - 生涯保守 - サービスのご案内 - ファナック株式会社」（https://www.fanuc.co.jp/ja/service/lifetimemaint/repairfactory.html・1回目）
+  - 「保守契約のご案内」（https://www.fanuc.co.jp/ja/service/lifetimemaint/repairfactory.html・1回目）
+  - 「保守部品のインターネット購入」（https://www.fanuc.co.jp/ja/service/lifetimemaint/repairfactory.html・1回目）
+  - 「保守契約のご案内」（https://www.fanuc.co.jp/ja/training/training-inquiry.html・1回目）
+  - 「保守部品のインターネット購入」（https://www.fanuc.co.jp/ja/training/training-inquiry.html・1回目）
+  - 「保守契約のご案内」（https://www.fanuc.co.jp/ja/sustainability/sdgs/fabusiness.html・1回目）
+- 利益の源泉：
+  - 「その圧倒的な強みは、徹底した合理化と高収益体質を両立する垂直統合型の技術開発にある――」（https://mindmeister.jp/posts/bm-fanuc・3回目）
+  - 「本記事では、成功企業の強みを直感的に理解し、自社の事業計画に転用できるよう、同社の戦略を1枚のマップに「構造化」して公開します」（https://mindmeister.jp/posts/bm-fanuc・3回目）
+  - 「上で提示した3つの強みの柱について、ファナックの模倣困難な競争優位性がどこにあるのか、構造を深掘りして解説します」（https://mindmeister.jp/posts/bm-fanuc・3回目）
+  - 「ファナックの競争優位の源泉は、」（https://mindmeister.jp/posts/bm-fanuc・3回目）
+  - 「ハードウェアとソフトウェアを自社で密接に結びつける技術開発構造こそが、他社が容易に追随できない技術的な参入障壁となり、高収益を支える盤石なコアバリューとなっています」（https://mindmeister.jp/posts/bm-fanuc・3回目）
+  - 「営業利益率30%前後という驚異的な数値を支えるオペレーションの核は、富士山麓に集約された徹底した自動化生産体制にあります」（https://mindmeister.jp/posts/bm-fanuc・3回目）
+  - 「今後については、一時期過剰だったロボットの在庫が適正水準に戻るなど、明るい兆しもあります」（https://www.robot-digest.com/contents/?id=1742884668-817000・3回目）
+- 沿革：
+  - 「2026年10月29日」（https://www.fanuc.co.jp/・1回目）
+  - 「2026年10月27日」（https://www.fanuc.co.jp/・1回目）
+  - 「2026年10月23日」（https://www.fanuc.co.jp/・1回目）
+  - 「2026年度第2四半期決算説明会資料」（https://www.fanuc.co.jp/・1回目）
+  - 「2027年3月期第2四半期決算短信」（https://www.fanuc.co.jp/・1回目）
+  - 「2026年10月22日」（https://www.fanuc.co.jp/・1回目）
+  - 「2026年10月20日」（https://www.fanuc.co.jp/・1回目）
+  - 「2026年9月30日」（https://www.fanuc.co.jp/・1回目）
+  - 「2026年9月24日」（https://www.fanuc.co.jp/・1回目）
+  - 「2026年9月18日」（https://www.fanuc.co.jp/・1回目）
+  - 「2026年9月11日」（https://www.fanuc.co.jp/・1回目）
+  - 「2026年9月3日」（https://www.fanuc.co.jp/・1回目）
+- 検索結果の抜粋：
+  - 「【 ビジネスモデル 図解2026】 ファナック の事業戦略を構造化 ... — 【 ビジネスモデル 図解2026】 ファナック の事業戦略を構造化 ... mindmeister.jp https://mindmeister.jp > posts > bm-fanuc」（https://mindmeister.jp/posts/bm-fanuc・3回目）
+  - 「統合報告書 - ファナック 株式会社 ( FANUC CORPORATION) — 統合報告書 - ファナック 株式会社 ( FANUC CORPORATION) Fanuc Corporation PDF https://www.fanuc.co.jp > pdf > integratedreport2024」（https://www.fanuc.co.jp/ja/ir/annualreport/pdf/integratedreport2024.pdf・3回目）
+  - 「ファナック の ビジネスモデル とは？ - Vizologi — ファナック の ビジネスモデル とは？ - Vizologi Vizologi https://vizologi.com > fanuc-business-model-canvas」（https://vizologi.com/ja/business-strategy-canvas/fanuc-business-model-canvas/・3回目）
+  - 「ファナック の成功の秘密 : 革新的なFA技術と ビジネスモデル 解説 — ファナック の成功の秘密 : 革新的なFA技術と ビジネスモデル 解説 コントリ https://comtri.jp > コラム」（https://comtri.jp/fanac/・3回目）
+  - 「株主・投資家情報 - ファナック 株式会社 — 株主・投資家情報 - ファナック 株式会社 Fanuc Corporation https://www.fanuc.co.jp > ...」（https://www.fanuc.co.jp/ja/ir/・3回目）
+  - 「【 ファナック 】[6954] 決算 発表や業務・財務情報 | 日経電子版 — 【 ファナック 】[6954] 決算 発表や業務・財務情報 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kessan」（https://www.nikkei.com/nkd/company/kessan/?scode=6954・3回目）
+  - 「ファナック （6954）のIR情報・ 決算資料 - IRBANK — ファナック （6954）のIR情報・ 決算資料 - IRBANK IRBANK https://irbank.net > ファナック」（https://irbank.net/6954/ir・3回目）
+  - 「ファナック の組織 - 会社案内 — ファナック の組織 - 会社案内 Fanuc Corporation https://www.fanuc.co.jp > profile > organization」（https://www.fanuc.co.jp/ja/profile/organization.html・3回目）
+  - 「会社案内冊子 - ファナック株式会社 (FANUC CORPORATION) — 会社案内冊子 - ファナック株式会社 (FANUC CORPORATION) Fanuc Corporation https://www.fanuc.co.jp > profile > booklet」（https://www.fanuc.co.jp/ja/profile/booklet/・3回目）
+  - 「ファナック 山口賢治 社長 兼CEO インタビュー - ロボット情報局 — ファナック 山口賢治 社長 兼CEO インタビュー - ロボット情報局 Fanuc Corporation https://www.fanuc.co.jp > product > robot > article」（https://www.fanuc.co.jp/ja/product/robot/article/np202606-07.html・3回目）
+  - 「ファナック 山口賢治 社長 兼CEO インタビュー - robot digest — ファナック 山口賢治 社長 兼CEO インタビュー - robot digest robot digest https://www.robot-digest.com > contents」（https://www.robot-digest.com/contents/?id=1742884668-817000・3回目）
+  - 「ファナック 代表取締役 社長 山口 賢治 氏 ｜ インタビュー — ファナック 代表取締役 社長 山口 賢治 氏 ｜ インタビュー Mono Que https://monoque.jp > columns > post-258」（https://monoque.jp/columns/post-258/・3回目）
+- 従業員数：記載なし（3回確認済み：公式25頁／PDF・画像10件／外部2頁・検索5回）
+- 事業内容：記載なし（3回確認済み：公式25頁／PDF・画像10件／外部2頁・検索5回）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像10件／外部2頁・検索5回）
+- 売上構成：記載なし（3回確認済み：公式25頁／PDF・画像10件／外部2頁・検索5回）
+
 ## ファンコミュニケーションズ
 - 公式URL：https://www.fancs.com/（search:yahoo_jp:ファンコミュニケーションズ）
 - 設立：1999年10月1日 沿革（https://www.fancs.com/company/・1回目）
@@ -11753,6 +17681,153 @@
   - 「フィックスターズ — フィックスターズ Fixstars Corporation https://www.fixstars.com > ...」（https://www.fixstars.com/ja・3回目）
   - 「フィックスターズ 【3687】の 事業 内容 - キタイシホン — フィックスターズ 【3687】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/3687/business・3回目）
 
+## フィットイージー
+- 公式URL：https://tyuutora.com/（search:ddgs:yahoo:フィットイージー）
+- 従業員数：304名 ※2025年10月1日時点（パート・アルバイト含）（https://recruit.fiteasy.co.jp/career/about/index.html・3回目）
+- 事業内容：フィットネスクラブの運営、企画、FC展開事業（https://recruit.fiteasy.co.jp/career/about/index.html・3回目）
+- ビジネスモデル：
+  - 「ビジネスモデル」（https://recruit.fiteasy.co.jp/career/about/index.html・3回目）
+- 誰に：
+  - 「マシンジムを基本アイテムとしながら、シミュレーションゴルフやサウナ、スタジオ、コワーキングスペースなど立地ごとに「プラスアルファ」を巧みに使い分け、コアユーザーのみならず、初心者やライトユーザーにも魅力的な空間“アミューズメントフィットネス”を掲げる「フィットイージー」［図表1］である」（https://www.sogo-unicom.co.jp/lid/n202211/p01/・3回目）
+  - 「と同時に、ゴルフやサウナ目当ての初心者や未経験者の方にも気軽に使っていただきたいですし、スタジオを導入することで女性の方にも気軽に利用いただくことで、会員数の底上げにつなげていければと考えています」（https://www.sogo-unicom.co.jp/lid/n202211/p01/・3回目）
+  - 「200店舗突破という店舗数だけ見ると24時間ジム業界での大手になりつつあるジムではなく、ピラティスやヨガでもないエステの美容でもないアミューズメントフィットネスと呼ばれるまさにそこに行けばディズニーランドのような豪華かつ沢山のサービスが受けられ、自分のサードプレイスの場所として、会員数20万人以上の方に親しまれてます」（https://note.com/clever_mango63/n/n7802ffd86d69・3回目）
+  - 「創業7年で店舗数200店舗・会員数 20万人を誇るFIT-EASY(フィットイージー)の凄さとは」（https://note.com/clever_mango63/n/n7802ffd86d69・3回目）
+  - 「2021年:50店鋪以上突破、会員数4万人に」（https://note.com/clever_mango63/n/n7802ffd86d69・3回目）
+  - 「会社の成長スピードの把握と現状の売上から分解して顧客数・顧客単価であったり今回だと、FCのフランチャイズ料が好調なのか、単純に会員の売上数が伸びているのかを確認しております」（https://note.com/clever_mango63/n/n7802ffd86d69・3回目）
+  - 「ブームという捉え方より、潜在的な顧客数が伸びているのでマーケットが広がっているからこそどこのジムも店舗数を伸ばしたり新規開業数も増えております」（https://note.com/clever_mango63/n/n7802ffd86d69・3回目）
+  - 「FIT-EASYの中での市場でのポジショニングではアミューズメント型かつ全ユーザーがターゲットと定義しております」（https://note.com/clever_mango63/n/n7802ffd86d69・3回目）
+  - 「と思えることがシェアを急拡大かつお客様が増えているのではと思っております」（https://note.com/clever_mango63/n/n7802ffd86d69・3回目）
+  - 「利用者の満足度がすごい！？」（https://note.com/clever_mango63/n/n7802ffd86d69・3回目）
+  - 「1店舗あたりの会員数は既にフィットネス業界でNo.1?」（https://note.com/clever_mango63/n/n7802ffd86d69・3回目）
+  - 「24時間フィットネス業界の王者と呼ばれるエニタイムフィットネスとの1店舗あたりの会員数と比較しても統計的にはFIT-EASYの方が会員数が多くなっております」（https://note.com/clever_mango63/n/n7802ffd86d69・3回目）
+- 何を：
+  - 「レジャー＆サービス産業展」（https://www.sogo-unicom.co.jp/lid/n202211/p01/・3回目）
+  - 「人に左右されず、誰がやっても同じように運営できる仕組みとシステムを構築することで、そこで行なえるサービスの領域を無限に広げていくことを目指しているのです」（https://www.sogo-unicom.co.jp/lid/n202211/p01/・3回目）
+  - 「レジャー＆サービス産業展2026」（https://www.sogo-unicom.co.jp/lid/n202211/p01/・3回目）
+  - 「レジャー&サービス産業展2026 特別セミナー」（https://www.sogo-unicom.co.jp/lid/n202211/p01/・3回目）
+  - 「200店舗突破という店舗数だけ見ると24時間ジム業界での大手になりつつあるジムではなく、ピラティスやヨガでもないエステの美容でもないアミューズメントフィットネスと呼ばれるまさにそこに行けばディズニーランドのような豪華かつ沢山のサービスが受けられ、自分のサードプレイスの場所として、会員数20万人以上の方に親しまれてます」（https://note.com/clever_mango63/n/n7802ffd86d69・3回目）
+  - 「2020年:スマート入会サービス・熱感知システム導入(コロナ禍の中）」（https://note.com/clever_mango63/n/n7802ffd86d69・3回目）
+  - 「その上での商品・サービスに対しての限界利益・営業利益・売上目標/数量なども考慮しながら、全体の予算額を視野に入れた上でどういった施策（かっこよくいうとマーケティング戦略の立案と実行）が最適かを考えるようにしております」（https://note.com/clever_mango63/n/n7802ffd86d69・3回目）
+- どうやって売るか：
+  - 「フィットイージー瑞浪店をレビュー｜サウナもゴルフもある全部入り店舗」（https://tyuutora.com/・1回目）
+  - 「【毎日飲んでレビュー】ザバス ホエイプロテイン リッチショコラの飲み方4選｜豆乳・スムージーも紹介」（https://tyuutora.com/・1回目）
+  - 「フィットネスを始めようか迷っている人へお役立ち情報をブログで紹介していきます」（https://tyuutora.com/・1回目）
+  - 「店舗数は瞬く間に増え続けています」（https://recruit.fiteasy.co.jp/career/about/index.html・3回目）
+  - 「年内には120店舗体制に」（https://www.sogo-unicom.co.jp/lid/n202211/p01/・3回目）
+  - 「――まずは業績と店舗数の推移をお聞かせください」（https://www.sogo-unicom.co.jp/lid/n202211/p01/・3回目）
+  - 「店舗数も出店エリアの拡大とともに急速に伸びています」（https://www.sogo-unicom.co.jp/lid/n202211/p01/・3回目）
+  - 「本社のある岐阜県内の3店舗を皮切りに東海エリアに18年末に10店舗、次いで神奈川、静岡、福井に進出して19年末に40店舗、その後、奈良、群馬、石川へ出店し、20年末に60店舗」（https://www.sogo-unicom.co.jp/lid/n202211/p01/・3回目）
+  - 「21年には東京、神奈川など関東エリア、兵庫、岡山、山梨、愛媛、香川など関西・四国・九州エリアにも進出して80店舗を記録しています」（https://www.sogo-unicom.co.jp/lid/n202211/p01/・3回目）
+  - 「今年22年にはさらに店舗数は増加し、9月時点で100店舗を突破しました」（https://www.sogo-unicom.co.jp/lid/n202211/p01/・3回目）
+  - 「年内には120店舗を超えると見込んでいます」（https://www.sogo-unicom.co.jp/lid/n202211/p01/・3回目）
+  - 「全店舗に高品質のトレーニングマシンを設置するだけでなく、これにプラスしてスタジオ、バーチャルバイクマシン、ボルダリングマシン、タンニングマシン、女性専用エリア、酸素ルーム、卓球といった機能を施設ごとにカスタマイズしながら付加していきます」（https://www.sogo-unicom.co.jp/lid/n202211/p01/・3回目）
+- お金の形：
+  - 「【フィットイージーの料金】月額・初期費用・プラン別を完全解説」（https://tyuutora.com/・1回目）
+  - 「会社の成長スピードの把握と現状の売上から分解して顧客数・顧客単価であったり今回だと、FCのフランチャイズ料が好調なのか、単純に会員の売上数が伸びているのかを確認しております」（https://note.com/clever_mango63/n/n7802ffd86d69・3回目）
+  - 「入会金・事務手数料・11月会費・12月会費が0（約23,000円相当）」（https://note.com/clever_mango63/n/n7802ffd86d69・3回目）
+- 売上構成：
+  - 「売上構成＆内訳」（https://note.com/clever_mango63/n/n7802ffd86d69・3回目）
+  - 「売上構成&内訳に関しては、主に何にお金がかかるのかを把握した上で、重要な売上セグメントの中でも重要な指標を理解するために確認しております」（https://note.com/clever_mango63/n/n7802ffd86d69・3回目）
+- 利益の源泉：
+  - 「――基本アイテムとなるマシンジムでコア層をしっかりつかみつつ、スタジオやシミュレーションゴルフ、サウナなど、フィットネス未経験者やライト層にも魅力的なコンテンツを加えることでいずれの層にも訴求できるというのが強みですね」（https://www.sogo-unicom.co.jp/lid/n202211/p01/・3回目）
+- 沿革：
+  - 「2026年11月2日」（https://tyuutora.com/・1回目）
+  - 「2026年10月12日」（https://tyuutora.com/・1回目）
+  - 「2026年9月26日」（https://tyuutora.com/・1回目）
+  - 「2026年9月21日」（https://tyuutora.com/・1回目）
+  - 「2026年7月17日」（https://tyuutora.com/・1回目）
+  - 「2026年7月11日」（https://tyuutora.com/・1回目）
+  - 「2026年6月2日」（https://tyuutora.com/・1回目）
+  - 「2026年5月30日」（https://tyuutora.com/・1回目）
+  - 「2026年5月21日」（https://tyuutora.com/・1回目）
+  - 「2026年5月17日」（https://tyuutora.com/・1回目）
+  - 「2024年7月には上場も実現」（https://recruit.fiteasy.co.jp/career/about/index.html・3回目）
+  - 「2022年11月号」（https://www.sogo-unicom.co.jp/lid/n202211/p01/・3回目）
+- 検索結果の抜粋：
+  - 「フランチャイズ加盟店募集 ｜ フィットイージー [ FIT - EASY ] 24 ... — フランチャイズ加盟店募集 ｜ フィットイージー [ FIT - EASY ] 24 ... fiteasy.jp https://fiteasy.jp > fc-start」（https://fiteasy.jp/fc-start/・3回目）
+  - 「フィットイージー 株式会社2024年10月期決算 - Fitness Business — フィットイージー 株式会社2024年10月期決算 - Fitness Business Fitness Business https://business.fitnessclub.jp > ニュース > 国内トレンド」（https://business.fitnessclub.jp/articles/-/2420・3回目）
+  - 「FIT - EASY ( フィットイージー )のフランチャイズの評判は？開業 ... — FIT - EASY ( フィットイージー )のフランチャイズの評判は？開業 ... fc-compass.com https://fc-compass.com > フランチャイザー」（https://fc-compass.com/franchisor/fiteasy/・3回目）
+  - 「フィットイージー [212A]：2026年10月期 第3四半期 決算説明 ... — フィットイージー [212A]：2026年10月期 第3四半期 決算説明 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr」（https://www.nikkei.com/nkd/disclosure/tdnr/20260914535615/・3回目）
+  - 「フィットイージー 株式会社 個人投資家向けオンライン2025年 ... — フィットイージー 株式会社 個人投資家向けオンライン2025年 ... YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=qkDwJy19S0U・3回目）
+  - 「フィットイージー 【212A】の 事業 内容 - キタイシホン — フィットイージー 【212A】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/212A/business・3回目）
+  - 「【 インタビュー 】 中森勇樹氏 フィットイージー COO取締役 ... — 【 インタビュー 】 中森勇樹氏 フィットイージー COO取締役 ... 綜合ユニコム株式会社 https://www.sogo-unicom.co.jp > ... > 2022年11月号」（https://www.sogo-unicom.co.jp/lid/n202211/p01/・3回目）
+  - 「フィットイージー 株式会社様 インタビュー ｜Webサイト構築 — フィットイージー 株式会社様 インタビュー ｜Webサイト構築 株式会社シーズ https://www.seeds-std.co.jp > interview > 01_fiteasy」（https://www.seeds-std.co.jp/service/system/interview/01_fiteasy.html・3回目）
+  - 「フィットイージー （株） 代表取締役 國江仙嗣氏 | 商業施設新聞 — フィットイージー （株） 代表取締役 國江仙嗣氏 | 商業施設新聞 産業タイムズ社 https://www.sangyo-times.jp > article」（https://www.sangyo-times.jp/article.aspx?ID=7532・3回目）
+- 設立：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索5回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索5回）
+
+## フィンテック　グローバル
+- 公式URL：https://fgitr.co.jp/（search:yahoo_jp:株式会社フィンテック グローバル）
+- 誰に：
+  - 「私たちフィンテックグローバル信託は「すべての産業界へ革新的なストラクチャードファイナンスの効用を浸透させる」というフィンテックグローバル（FGI）のコーポレートアイデンティティのもと、お客様ニーズに即した信託サービスを提供する運用型信託会社です」（https://fgitr.co.jp/・1回目）
+  - 「信託の力でお客様の大切な資産を守り育てることを通じて、社会の発展と持続可能な未来の実現に貢献してまいります」（https://fgitr.co.jp/・1回目）
+  - 「顧客本位の業務運営を実現するための方針」（https://www.fgi.co.jp/business/・3回目）
+  - 「フィンテック グローバル（FGI）は、先端的・革新的なファイナンス・ソリューションを提供するブティック型投資銀行*として、顧客の課題解決に貢献しています」（https://www.fgi.co.jp/business/・3回目）
+  - 「ファイナンスアレンジなどを提供する投資銀行業務から始まったFGIの業務は、多様な顧客ニーズにお応えするために投資業務、投資運用業務に広がりました」（https://www.fgi.co.jp/business/・3回目）
+  - 「ファイナンスアレンジメントなどにより資金調達を支援し、顧客の戦略的目標の達成に貢献しています」（https://www.fgi.co.jp/business/・3回目）
+  - 「課題解決のために最適な財務戦略を企画・提案し、ファイナンスアレンジメントなどにより資金調達などを支援して、顧客の戦略的目標の達成に貢献します」（https://www.fgi.co.jp/business/・3回目）
+  - 「顧客本位の業務運営を実現するための方針」（https://www.fgi.co.jp/about/message/・3回目）
+  - 「また近年開始したトラックオペレーティングリースのアレンジや航空機リースは、ユーザーの事業や財務の課題解決と、投資家ニーズを結びつけるソリューションとして、大きな成長余地があると考えております」（https://www.fgi.co.jp/about/message/・3回目）
+  - 「当社グループは、これらの業務を継続・強化することで、顧客の課題解決に貢献してまいります」（https://www.fgi.co.jp/about/message/・3回目）
+  - 「ふと周りを見ると、地方にとって非常に重要な、ゼネコンのような企業が顧客として存在していましたが、金融の視点から見ても明らかに倒産の危機に瀕している会社が数多くあり、厳しい状況が広がっていました」（https://finance.logmi.jp/articles/383405・3回目）
+  - 「当社は、400を超える500近い自治体を取引先としており、かつ都道府県を中心とする大規模自治体や政令指定都市、特別区など非常に多くのお客さまとお取引しています」（https://finance.logmi.jp/articles/383405・3回目）
+- 何を：
+  - 「私たちフィンテックグローバル信託は「すべての産業界へ革新的なストラクチャードファイナンスの効用を浸透させる」というフィンテックグローバル（FGI）のコーポレートアイデンティティのもと、お客様ニーズに即した信託サービスを提供する運用型信託会社です」（https://fgitr.co.jp/・1回目）
+  - 「FGIグループが長年培ってきた金融商品組成のノウハウと、信託の多様な機能を融合させることで、高付加価値なサービスの提供を目指してまいります」（https://fgitr.co.jp/・1回目）
+  - 「⾦融商品勧誘⽅針」（https://fgitr.co.jp/・1回目）
+  - 「⾦融商品勧誘⽅針」（https://fgitr.co.jp/company/・1回目）
+  - 「地域課題ソリューション」（https://www.fgi.co.jp/business/・3回目）
+  - 「フィンテック グローバル（FGI）は、先端的・革新的なファイナンス・ソリューションを提供するブティック型投資銀行*として、顧客の課題解決に貢献しています」（https://www.fgi.co.jp/business/・3回目）
+  - 「そして、これらのノウハウを活用した地域課題ソリューションを提供しています」（https://www.fgi.co.jp/business/・3回目）
+  - 「また航空機のアセットマネジメント、技術サービス、リマーケティング、資金調達支援、オペレーティングリースなどのファイナンスサービスを提供しています」（https://www.fgi.co.jp/business/・3回目）
+  - 「航空機のアセットマネジメント、技術サービス、リマーケティング、資金調達支援、オペレーティングリースなどのファイナンスサービスを提供しています」（https://www.fgi.co.jp/business/・3回目）
+  - 「施設の維持更新、エネルギー価格の高騰、地方財政悪化などの社会課題にソリューションを提供し、地域の持続的成長を支えます」（https://www.fgi.co.jp/business/・3回目）
+  - 「地域課題ソリューション」（https://www.fgi.co.jp/about/message/・3回目）
+  - 「当社は、先端的・革新的なファイナンス・ソリューションを提供する投資銀行業務、投資業務、投資運用業務、並びにこれらのノウハウを活用した地域課題ソリューションを、時代のニーズや環境変化にあわせて様々な領域で取り組んでおります」（https://www.fgi.co.jp/about/message/・3回目）
+- どうやって売るか：
+  - 「投資先企業の紹介」（https://www.fgi.co.jp/business/・3回目）
+  - 「FGIグループの投資先紹介」（https://www.fgi.co.jp/business/・3回目）
+  - 「FGIキャピタル・パートナーズ㈱(FGICP) 企業サイト」（https://www.fgi.co.jp/business/・3回目）
+  - 「・FIT電源のFIP電源への転換 TMI総合法律事務所 パートナー弁護士 深津功二」（https://www.fgi.co.jp/business/・3回目）
+  - 「次に、当社の成り立ちと沿革についてご紹介します」（https://finance.logmi.jp/articles/383405・3回目）
+  - 「FAM（フィンテック アセットマネジメント）は、不動産の投資運用業務のライセンスを持つ会社で、FGICP（FGIキャピタル・パートナーズ）は、有価証券等の運用ライセンスを保有している会社です」（https://finance.logmi.jp/articles/383405・3回目）
+- お金の形：
+  - 「一方で、地方銀行については、投資運用業や金融商品の販売事業などに必要なライセンスを保有していないため、これらの事業を進めることが難しい現状があります」（https://finance.logmi.jp/articles/383405・3回目）
+  - 「しかし、私たちはこれらのライセンスを有しているため、私たちが参画することで、地方で取り組んでいなかった案件や停滞していた案件が生き残れる可能性を作り出しました」（https://finance.logmi.jp/articles/383405・3回目）
+  - 「こちらについては、先ほどもお話ししたように、地銀各社が当社と取引する理由の1つがライセンスの問題です」（https://finance.logmi.jp/articles/383405・3回目）
+  - 「FAM（フィンテック アセットマネジメント）は、不動産の投資運用業務のライセンスを持つ会社で、FGICP（FGIキャピタル・パートナーズ）は、有価証券等の運用ライセンスを保有している会社です」（https://finance.logmi.jp/articles/383405・3回目）
+  - 「構図として、当グループは投資銀行事業のライセンスやノウハウをすべて活用し、地方自治体との関係性を基に問題の抽出を行います」（https://finance.logmi.jp/articles/383405・3回目）
+- 売上構成：
+  - 「FGIグループ会社・事業セグメント」（https://finance.logmi.jp/articles/383405・3回目）
+  - 「三菱ＨＣキャピタル、航空セグメントが牽引し4期連続最高益 新中計で配当性向を45%に引き上げROEを最重要指標に」（https://finance.logmi.jp/articles/383405・3回目）
+- 沿革：
+  - 「2017年 6月設立」（https://fgitr.co.jp/company/・1回目）
+  - 「2018年 5月信託業法に基づく信託業(運用型信託会社)の免許取得」（https://fgitr.co.jp/company/・1回目）
+  - 「2018年 7月営業開始、信託協会加盟、宅地建物取引業届出」（https://fgitr.co.jp/company/・1回目）
+  - 「2026年1月フィンテックグローバル信託株式会社に商号変更」（https://fgitr.co.jp/company/・1回目）
+  - 「2026年2月本店所在地を東京都品川区へ変更」（https://fgitr.co.jp/company/・1回目）
+  - 「会社概要・沿革」（https://www.fgi.co.jp/business/・3回目）
+  - 「会社概要・沿革」（https://www.fgi.co.jp/about/message/・3回目）
+  - 「2026年1月5日」（https://www.fgi.co.jp/about/message/・3回目）
+  - 「2026年9月期の見通し」（https://finance.logmi.jp/articles/383405・3回目）
+  - 「次に、当社の成り立ちと沿革についてご紹介します」（https://finance.logmi.jp/articles/383405・3回目）
+  - 「2005年には上場を果たし、そこで得た資金を活用して自己投資が可能となりました」（https://finance.logmi.jp/articles/383405・3回目）
+  - 「2008年のリーマンショックを迎えた当時、当社の資産規模は、自己資本300億円、投融資残高約1,000億円、借入金は800億円近くという状態でした」（https://finance.logmi.jp/articles/383405・3回目）
+- 検索結果の抜粋：
+  - 「フィンテックグローバル (株)の新卒採用・会社概要 - マイナビ — フィンテックグローバル (株)の新卒採用・会社概要 - マイナビ マイナビ https://job.mynavi.jp > search > corp219386 > outline」（https://job.mynavi.jp/27/pc/search/corp219386/outline.html・3回目）
+  - 「フィンテックグローバル 【8789】のIR 資料 - その他金融業 — フィンテックグローバル 【8789】のIR 資料 - その他金融業 バフェット・コード https://www.buffett-code.com > company > library」（https://www.buffett-code.com/company/8789/library・3回目）
+  - 「【 フィンテックグローバル 】[8789]企業概要 社員数や役員報酬 ... — 【 フィンテックグローバル 】[8789]企業概要 社員数や役員報酬 ... 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo」（https://www.nikkei.com/nkd/company/gaiyo/?scode=8789・3回目）
+  - 「フィンテックグローバル 信託株式会社 — フィンテックグローバル 信託株式会社 フィンテックグローバル信託株式会社 https://fgitr.co.jp」（https://fgitr.co.jp/・3回目）
+  - 「【QAあり】 フィンテック グローバル 、事業承継 M＆Aを中心 ... — 【QAあり】 フィンテック グローバル 、事業承継 M＆Aを中心 ... ログミーFinance https://finance.logmi.jp > articles」（https://finance.logmi.jp/articles/383405・3回目）
+  - 「フィンテック グローバル 【8789】の 社長 ・役員 - キタイシホン — フィンテック グローバル 【8789】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director」（https://kitaishihon.com/company/8789/board-of-director・3回目）
+  - 「フィンテック グローバル の 社長 は誰？玉井 信光氏の経歴 ... — フィンテック グローバル の 社長 は誰？玉井 信光氏の経歴 ... kigyo-scope.jp https://kigyo-scope.jp > company > ceo」（https://kigyo-scope.jp/company/8789/ceo/・3回目）
+- 設立：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部8頁・検索6回）
+- 従業員数：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部8頁・検索6回）
+- 事業内容：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部8頁・検索6回）
+- 売上高：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部8頁・検索6回）
+- ビジネスモデル：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部8頁・検索6回）
+- 利益の源泉：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部8頁・検索6回）
+
 ## フィードフォースグループ
 - 公式URL：https://feedforcegroup.jp/（search:yahoo_jp:フィードフォースグループ）
 - 事業内容：プロフェッショナルサービスとSaaSの両輪（https://note.com/tatsuya_sabato/n/nf39d3defa8de・3回目）
@@ -11879,6 +17954,87 @@
 - 設立：記載なし（3回確認済み：公式12頁／PDF・画像1件／外部4頁・検索5回）
 - 従業員数：記載なし（3回確認済み：公式12頁／PDF・画像1件／外部4頁・検索5回）
 
+## フォースタートアップス
+- 公式URL：https://www.forstartups.com/（search:yahoo_jp:フォースタートアップス）
+- ビジネスモデル：
+  - 「ハンティング型のビジネスモデルで活用される、大手人材会社等が展開する求職者を集客しているデータベースサービス」（https://www.forstartups.com/ir/individual・1回目）
+- 誰に：
+  - 「求職者に対して求人案件の提案を行い、求人企業の面接選考に進んでいる求職者数（ユニークユーザー）数を指す」（https://www.forstartups.com/ir/individual・1回目）
+  - 「主に当社ヒューマンキャピタル事業の顧客であるスタートアップ企業の起業家、経営陣、投資するベンチャーキャピタリストが来社し、ヒューマンキャピタリスト向けに成長戦略・経営方針をインプットする場」（https://www.forstartups.com/ir/individual・1回目）
+  - 「顧客視点であるほど、自らも成長できる」（https://www.wantedly.com/companies/forstartups・3回目）
+  - 「私たちが上場をしたことがないのに、お客様へ「御社はIPOすべき」（https://keiei-note.wizbiz.jp/97-2/・3回目）
+- 何を：
+  - 「「世界で勝負できる産業、企業、サービス、人を創出し、日本の成⻑を支えていく」」（https://www.forstartups.com/・1回目）
+  - 「サービス一覧」（https://www.forstartups.com/・1回目）
+  - 「フォースタートアップスは、2016年の創業よりスタートアップ企業向け人材支援事業を中核に、出口支援、資金支援、データベース運営、コミュニティ形成などの「成長産業支援プラットフォーム」を構築し、スタートアップや挑戦者を支える各種サービスを提供しています」（https://www.forstartups.com/・1回目）
+  - 「「世界で勝負できる産業、企業、サービス、人を創出し、日本の成⻑を支えていく」」（https://www.forstartups.com/about・1回目）
+  - 「for Startupsのサービスとエコシステムが連携し、未来に向けて成長を支援する関係性を示す図」（https://www.forstartups.com/about/business・1回目）
+  - 「サービスには、ヒューマンキャピタル、STARTUP DB、for Startups Capital、スタートアップM&A介寨、GRIC、アクセラレーションがあります」（https://www.forstartups.com/about/business・1回目）
+  - 「図は、for Startupsを中心に、6つのサービスと8つのステークホルダーが連携するエコシステムを示しています」（https://www.forstartups.com/about/business・1回目）
+  - 「サービスには、ヒューマンキャピタル、STARTUP DB、for Startups Capital、スタートアップM&A仲介、GRIC、アクセラレーションがあります」（https://www.forstartups.com/about/business・1回目）
+  - 「多面的なサービスにより、起業家やスタートアップの課題解決を支援します」（https://www.forstartups.com/about/business・1回目）
+  - 「各サービスとエコシステムとの接続で、起業家・スタートアップの成長を最大化させます」（https://www.forstartups.com/about/business・1回目）
+  - 「フードデリバリーサービス」（https://www.forstartups.com/recruit/environment・1回目）
+  - 「起業家・スタートアップ企業等の成長を支援する各種サービスを展開することにより、挑戦・成長産業を支えるプラットフォームを目指す当社の経営方針・構想を指す」（https://www.forstartups.com/ir/individual・1回目）
+- どうやって売るか：
+  - 「経営幹部やコアメンバーの紹介を通じ、企業の成長を組織構築の面からリードします」（https://www.forstartups.com/・1回目）
+  - 「スタートアップスの最たる友人であり、パートナーであり、自らも最たる挑戦者たれ」（https://www.forstartups.com/about・1回目）
+  - 「社員紹介手当（50万円）」（https://www.forstartups.com/recruit/environment・1回目）
+  - 「ヒューマンキャピタル事業の場合は、求職者が紹介先企業への転職を意思決定された時点で受注が計上され、売上は該当の求職者が入社する日に計上される」（https://www.forstartups.com/ir/individual・1回目）
+  - 「一定期間内にて、紹介先企業への転職を意思決定された求職者の数（受注件数）」（https://www.forstartups.com/ir/individual・1回目）
+  - 「人材紹介事業にて、担当者が企業と求職者の双方向の課題解決を行うモデルであり、当社が採用する方式である」（https://www.forstartups.com/ir/individual・1回目）
+  - 「求人ニーズに合致する人材に対し、紹介会社側から能動的に接触（スカウト）を図り、人材紹介へ繋げるモデル」（https://www.forstartups.com/ir/individual・1回目）
+  - 「年間200回ほどを開催しており、得られた情報を当社の人材紹介サービスへ活かしている」（https://www.forstartups.com/ir/individual・1回目）
+  - 「当社の人材紹介実績及び知見を活かした、スタートアップ企業向けの採用課題解決サービス」（https://www.forstartups.com/ir/individual・1回目）
+  - 「スタートアップ企業への人材紹介を中核とするスタートアップ企業支援を行っています」（https://www.forstartups.com/ir/faq・1回目）
+  - 「人材紹介・人材派遣」（https://www.nikkei.com/nkd/company/kigyo/?scode=7089・3回目）
+  - 「【ベンチャー企業支援】経営幹部の人材紹介や成長戦略の助言など」（https://www.nikkei.com/nkd/company/kigyo/?scode=7089・3回目）
+- お金の形：
+  - 「一定期間内の成約により当社が収受する成功報酬料の総額であり、該当期間内の営業活動の成果を示す指標」（https://www.forstartups.com/ir/individual・1回目）
+  - 「ヒューマンキャピタル事業における手数料の平均値」（https://www.forstartups.com/ir/individual・1回目）
+  - 「手数料は「転職が決定した方の入社時年収」 × 「転職が決定した企業との契約手数料率」にて算出される」（https://www.forstartups.com/ir/individual・1回目）
+  - 「原則として、契約期間に対して月額固定報酬を収受する」（https://www.forstartups.com/ir/individual・1回目）
+  - 「成功報酬や新設会社への継続的な人材支援を行う」（https://www.forstartups.com/ir/individual・1回目）
+  - 「取引金額が大きくなるほど手数料率が低くなる報酬体系であることが特徴」（https://www.forstartups.com/ir/individual・1回目）
+- 利益の源泉：
+  - 「私たちはこの変化を捉え、スタートアップ支援で培った強みを、大企業、行政、大学、金融機関などを含む「イノベーション支援」へと拡張していきます」（https://www.forstartups.com/about/message・1回目）
+  - 「強み・参入障壁となる「3つの資本」」（https://www.forstartups.com/ir/management/story・1回目）
+  - 「IIRC（International Integrated Reporting Council：国際統合報告評議会）が定義する「6つの資本」のうち、当社グループの強みであり重視しているものを以下の通り定義しています」（https://www.forstartups.com/ir/management/story・1回目）
+  - 「これらの強みを活かしてヒューマンキャピタル事業を中核とする「成長産業支援プラットフォーム」を構築し、挑戦者を支えることで当社グループの持続的成長と社会課題解決を両立してまいります」（https://www.forstartups.com/ir/management/story・1回目）
+  - 「強みをさらに強固にするための重点課題」（https://www.forstartups.com/ir/management/story・1回目）
+  - 「「強み」をさらに強固なものにするため、以下の3課題に取り組んでいます」（https://www.forstartups.com/ir/management/story・1回目）
+- 沿革：
+  - 「2016年の会社設立時に「成長産業支援事業」を掲げてから10年」（https://www.forstartups.com/about/message・1回目）
+  - 「2040年度までの長期国家戦略「日本成長戦略」のもと、日本経済を成長軌道に乗せるための戦略17分野を中心に、官民を挙げた大規模な投資計画が推進されています」（https://www.forstartups.com/about/message・1回目）
+  - 「2016年入社」（https://www.forstartups.com/recruit/environment・1回目）
+  - 「2025年に執行役員に就任」（https://www.forstartups.com/recruit/environment・1回目）
+  - 「2016年9月です」（https://www.forstartups.com/ir/faq・1回目）
+  - 「2020年3月13日です」（https://www.forstartups.com/ir/faq・1回目）
+  - 「2026年11月3日（火）」（https://www.nikkei.com/nkd/company/kigyo/?scode=7089・3回目）
+  - 「2027年3月期 第1四半期決算説明資料」（https://www.nikkei.com/nkd/company/kigyo/?scode=7089・3回目）
+  - 「2027年3月期 第1四半期決算短信〔日本基準〕（連結）」（https://www.nikkei.com/nkd/company/kigyo/?scode=7089・3回目）
+  - 「2018年3月にオープンした「Flagship」、2022年4月にオープンした「New Flagship」、そして2024年11月にオープンした「The Flagship」へと、事業拡大と文化の進化を牽引する場所となっています」（https://www.wantedly.com/companies/forstartups・3回目）
+  - 「2020年3月には、東証マザーズに上場されました」（https://keiei-note.wizbiz.jp/97-2/・3回目）
+  - 「2016年 国内初『殿堂』入りHeadhunter認定を頂く事ができました」（https://keiei-note.wizbiz.jp/97-2/・3回目）
+- 検索結果の抜粋：
+  - 「私たちについて｜ フォースタートアップス 株式会社 — 私たちについて｜ フォースタートアップス 株式会社 フォースタートアップス https://www.forstartups.com > about」（https://www.forstartups.com/about・3回目）
+  - 「フォースタートアップス 株式会社 - ミドルの転職 — フォースタートアップス 株式会社 - ミドルの転職 ミドルの転職 https://mid-tenshoku.com > 転職エージェントTOP」（https://mid-tenshoku.com/agency/a-1404/・3回目）
+  - 「【7089】 フォースタートアップス のリサーチレポート - note — 【7089】 フォースタートアップス のリサーチレポート - note note https://note.com > 人物・社会 > 金融・投資家」（https://note.com/yossamaaaa/n/n466c49090e7f・3回目）
+  - 「フォースタートアップス 株式会社 - STARTUP DB — フォースタートアップス 株式会社 - STARTUP DB STARTUP DB｜スタートアップデータベース https://startup-db.com > 投資家企業一覧」（https://startup-db.com/investment-companies/PM41JdNUdYKpxB6X・3回目）
+  - 「IRライブラリ｜IR情報｜ フォースタートアップス 株式会社 — IRライブラリ｜IR情報｜ フォースタートアップス 株式会社 フォースタートアップス https://www.forstartups.com > library」（https://www.forstartups.com/ir/library・3回目）
+  - 「【 フォースタートアップス 】[7089]IR情報 中期経営計画や 決算 ... — 【 フォースタートアップス 】[7089]IR情報 中期経営計画や 決算 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo」（https://www.nikkei.com/nkd/company/kigyo/?scode=7089・3回目）
+  - 「フォースタートアップス 株式会社 - ログミーファイナンス — フォースタートアップス 株式会社 - ログミーファイナンス ログミーFinance https://finance.logmi.jp > companies」（https://finance.logmi.jp/companies/1031・3回目）
+  - 「IRニュース｜IR情報｜ フォースタートアップス 株式会社 — IRニュース｜IR情報｜ フォースタートアップス 株式会社 フォースタートアップス https://www.forstartups.com > news」（https://www.forstartups.com/ir/news・3回目）
+  - 「（7089） フォースタートアップス 株式会社 - ブリッジサロン — （7089） フォースタートアップス 株式会社 - ブリッジサロン ブリッジサロン http://www.bridge-salon.jp > database > code_7089」（http://www.bridge-salon.jp/database/code_7089.html・3回目）
+  - 「フォースタートアップス 株式会社 | スタートアップへの人材 ... — フォースタートアップス 株式会社 | スタートアップへの人材 ... フォースタートアップス https://www.forstartups.com」（https://www.forstartups.com/・3回目）
+  - 「for Startups , Inc. / フォースタートアップス 株式会社 - Wantedly — for Startups , Inc. / フォースタートアップス 株式会社 - Wantedly Wantedly https://www.wantedly.com > companies > forstartups」（https://www.wantedly.com/companies/forstartups・3回目）
+  - 「フォースタートアップス 株式会社｜開発プロモーター紹介 — フォースタートアップス 株式会社｜開発プロモーター紹介 next-5g-boosters.metro.tokyo.lg.jp https://next-5g-boosters.metro.tokyo.lg.jp > forstartups」（https://next-5g-boosters.metro.tokyo.lg.jp/promoter/forstartups.html・3回目）
+- 設立：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部5頁・検索5回）
+- 従業員数：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部5頁・検索5回）
+- 事業内容：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部5頁・検索5回）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部5頁・検索5回）
+- 売上構成：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部5頁・検索5回）
+
 ## フツパー
 - 公式URL：https://hutzper.com/（search:yahoo_jp:フツパー）
 - 設立：2020年04月（https://startupclass.co.jp/article/2025/12/26/hutzper-2/・3回目）
@@ -11973,6 +18129,86 @@
 - 事業内容：記載なし（3回確認済み：公式11頁／PDF・画像1件／外部4頁・検索5回）
 - 売上高：記載なし（3回確認済み：公式11頁／PDF・画像1件／外部4頁・検索5回）
 - 売上構成：記載なし（3回確認済み：公式11頁／PDF・画像1件／外部4頁・検索5回）
+
+## フューチャー
+- 公式URL：https://www.future.co.jp/（search:yahoo_jp:フューチャー）
+- 設立：1989年11月28日（https://www.future.co.jp/company_profile/corporate_profile/・1回目）
+- 従業員数：連結：3,624名 （2025年12月末現在）（https://www.future.co.jp/company_profile/corporate_profile/・1回目）
+- 事業内容：グループ経営戦略、新事業・サービスの企画立案（https://www.future.co.jp/company_profile/corporate_profile/・1回目）
+- 売上高：連結：759億93百万円 （2025年12月期）（https://www.future.co.jp/company_profile/corporate_profile/・1回目）
+- 誰に：
+  - 「お客様の未来価値を最大化し、」（https://www.future.co.jp/・1回目）
+  - 「私たちは「お客様の未来価値を最大化すること」をミッションとし、常に未来をポジティブに捉え、現状に満足することなく、自らの革新とお客様の「成功」を実現し続ける企業でありたいと考えています」（https://www.future.co.jp/investor_relations/top_message/・1回目）
+  - 「また、当社は経営戦略に沿った情報セキュリティを実現するとともに、当社の情報セキュリティに対するお客様の信頼に応え、より強固なものにするために、継続的な監視と改善を続けてまいります」（https://www.future.co.jp/investor_relations/security_policy/・1回目）
+  - 「当社は、ビジネスの継続的な発展とお客様の信頼に応えるために、重要な情報資産の機密性、完全性、可用性の確保に努めます」（https://www.future.co.jp/investor_relations/security_policy/・1回目）
+  - 「当社は、法令、規制及びお客様との契約上の要求事項を順守します」（https://www.future.co.jp/investor_relations/security_policy/・1回目）
+  - 「当社は、お客様よりお預かりした個人情報を、プライバシーポリシーに従って運用管理します」（https://www.future.co.jp/investor_relations/security_policy/・1回目）
+  - 「当社は、クラウドサービスの利用および提供にあたり、クラウド事業者と利用者間の責任分界を明確にし、それぞれの役割に応じた適切なセキュリティ管理を実施します」（https://www.future.co.jp/investor_relations/security_policy/・1回目）
+  - 「当社の事業特性から、顧客の機密情報に触れることが必然であり、その機密保持責任は重大であること」（https://www.future.co.jp/investor_relations/security_policy/・1回目）
+  - 「企業のIT戦略に不可欠なクラウドコンピューティングの活用において、クラウドのポテンシャルを最大限に引き出すための安全な土台を、自ら体現し、顧客に提供すること」（https://www.future.co.jp/investor_relations/security_policy/・1回目）
+  - 「お客様との間で締結した契約に基づき、必要な範囲において利用するため」（https://www.future.co.jp/investor_relations/privacy_policy/・1回目）
+  - 「（例）情報システムの開発、保守、運用、及び関連する業務を遂行するにあたり、必要最低限の範囲において、お客様及びお客様の取引先の個人情報を利用する必要がある場合など」（https://www.future.co.jp/investor_relations/privacy_policy/・1回目）
+  - 「現在は、最高情報セキュリティ責任者として技術や組織・顧客などの情報管理を徹底し、IT武装によるセキュリティ強化を図る」（https://www.future.co.jp/company_profile/corporate_profile/・1回目）
+- 何を：
+  - 「私たちは、今後もこれまでに培った知見とノウハウを活かしたオリジナルなサービスを開発・提供するとともに、持株会社制のメリットを活かしてグループ企業のコラボレーション強化とシナジー拡大を図り、独自の付加価値の提供に努めていきます」（https://www.future.co.jp/investor_relations/top_message/・1回目）
+  - 「当社は、クラウドサービスの利用および提供にあたり、クラウド事業者と利用者間の責任分界を明確にし、それぞれの役割に応じた適切なセキュリティ管理を実施します」（https://www.future.co.jp/investor_relations/security_policy/・1回目）
+  - 「当社は、情報テクノロジーを核としたITコンサルティング・ソフトウエア開発販売をサービスドメインにしていることから、セキュリティに関して、テクノロジーの側面から範たるべきこと」（https://www.future.co.jp/investor_relations/security_policy/・1回目）
+  - 「当社及びグループ関連会社のITソリューションサービスをご利用する方が保有する個人情報」（https://www.future.co.jp/investor_relations/privacy_policy/・1回目）
+  - 「当社及びグループ関連会社のITソリューションサービスのご紹介、提案、各種セミナー、イベント等の開催のご案内の際に、必要な範囲において利用するため」（https://www.future.co.jp/investor_relations/privacy_policy/・1回目）
+  - 「当社へ個人情報を提供されるか否かは、ご本人のご判断によりますが、個人情報を提供されない場合は、当社からの適切なサービスが受けられないことがありますので、予めご了承ください」（https://www.future.co.jp/investor_relations/privacy_policy/・1回目）
+  - 「グループ経営戦略、新事業・サービスの企画立案」（https://www.future.co.jp/company_profile/corporate_profile/・1回目）
+  - 「ITコンサルティング＆サービス事業」（https://www.future.co.jp/company_profile/corporate_profile/・1回目）
+  - 「(主流領域:金融、流通、サービス)」（https://www.future.co.jp/company_profile/corporate_profile/・1回目）
+  - 「スポーツ・アウトドア商品等の企画、販売」（https://www.future.co.jp/company_profile/corporate_profile/・1回目）
+  - 「ITコンサルティング、ソリューションの提供」（https://www.future.co.jp/company_profile/corporate_profile/・1回目）
+  - 「当社 エンタープライズサービスグループ長」（https://www.future.co.jp/company_profile/corporate_profile/・1回目）
+- どうやって売るか：
+  - 「ITの進化が経済、社会の変化をグローバル規模で加速させる中、フューチャーグループは企業経営者のパートナーとしてビジネスのあるべき姿を考え抜き、そのための最適な仕組みを高い技術力で実現するという、独自のコンサルティングスタイルを築き上げてきました」（https://www.future.co.jp/investor_relations/top_message/・1回目）
+  - 「事業ポートフォリオ、事業実績などの財務情報に加えて、SDGs、ESG、ダイバーシティ&インクルージョンの取組みといった非財務情報も紹介しています」（https://www.future.co.jp/investor_relations/integrated_report/・1回目）
+  - 「フューチャー株式会社（以下「当社」といいます）では、以下の者を、「個人情報保護責任者」に指名し、個人情報保護のための対策立案、実施及び運用、 評価、改善など、個人情報保護のために必要な対策を行っております」（https://www.future.co.jp/investor_relations/privacy_policy/・1回目）
+  - 「当社及びグループ関連会社のITソリューションサービスのご紹介、提案、各種セミナー、イベント等の開催のご案内の際に、必要な範囲において利用するため」（https://www.future.co.jp/investor_relations/privacy_policy/・1回目）
+  - 「アスパラントグループ株式会社 シニアパートナー」（https://www.future.co.jp/company_profile/corporate_profile/・1回目）
+  - 「アスパラントグループ株式会社 副会長 ファウンディングパートナー（現任）」（https://www.future.co.jp/company_profile/corporate_profile/・1回目）
+  - 「株式会社アルバ・パートナーズ 設立 代表取締役（現任）」（https://www.future.co.jp/company_profile/corporate_profile/・1回目）
+  - 「また過去の取組みを紹介するだけでなく、未来への対話を促すアジェンダを提供している点が大きな特長です」（https://www.future.co.jp/investor_relations/integrated_report/about.html・1回目）
+  - 「NOWはフューチャーグループの現状がわかるリンク集で、事業ポートフォリオ、事業実績などの財務情報に加えて、SDGs、ESG、ダイバーシティ＆インクルージョンの取組みといった非財務情報も紹介しています」（https://www.future.co.jp/investor_relations/integrated_report/about.html・1回目）
+  - 「また、フューチャーグループのコアビジネスであるITコンサルティング事業では、IT戦略パートナーとして常にお客様に寄り添い、経営・業務・ITの三位一体で様々な業界のDXやビジネス変革を推進してきました」（https://www.future.co.jp/investor_relations/integrated_report/about.html・1回目）
+  - 「事業ポートフォリオ、事業実績などの財務情報に加えて、SDGs、ESG、ダイバーシティ&インクルージョンの取組みといった非財務情報も紹介しています」（https://www.future.co.jp/investor_relations/integrated_report/now.html・1回目）
+  - 「事業ポートフォリオ、事業実績などの財務情報に加えて、SDGs、ESG、ダイバーシティ&インクルージョンの取組みといった非財務情報も紹介しています」（https://www.future.co.jp/investor_relations/integrated_report/index.html・1回目）
+- お金の形：
+  - 「（例）情報システムの開発、保守、運用、及び関連する業務を遂行するにあたり、必要最低限の範囲において、お客様及びお客様の取引先の個人情報を利用する必要がある場合など」（https://www.future.co.jp/investor_relations/privacy_policy/・1回目）
+- 利益の源泉：
+  - 「売上高営業利益率」（https://www.future.co.jp/investor_relations/・1回目）
+  - 「変革の最大の原動力であり、フューチャーグループの最大の強みであるのが、テクノロジーを目利きする力とそれを実装する力です」（https://www.future.co.jp/investor_relations/integrated_report/about.html・1回目）
+  - 「このようにプロジェクトごとに最適なテクノロジーを選び、新しいビジネスアイデアとして実装できることが、経営とITの両輪でノウハウを積み上げてきたフューチャーグループの強みです」（https://www.future.co.jp/investor_relations/integrated_report/about.html・1回目）
+- 沿革：
+  - 「2025年度」（https://www.future.co.jp/investor_relations/ir_event/・1回目）
+  - 「2026年3月26日」（https://www.future.co.jp/investor_relations/ir_event/・1回目）
+  - 「2025年12月期 定時株主総会」（https://www.future.co.jp/investor_relations/ir_event/・1回目）
+  - 「2024年度」（https://www.future.co.jp/investor_relations/ir_event/・1回目）
+  - 「2025年3月25日」（https://www.future.co.jp/investor_relations/ir_event/・1回目）
+  - 「2024年12月期 定時株主総会」（https://www.future.co.jp/investor_relations/ir_event/・1回目）
+  - 「2023年度」（https://www.future.co.jp/investor_relations/ir_event/・1回目）
+  - 「2024年3月27日」（https://www.future.co.jp/investor_relations/ir_event/・1回目）
+  - 「2023年12月期 定時株主総会」（https://www.future.co.jp/investor_relations/ir_event/・1回目）
+  - 「2022年度」（https://www.future.co.jp/investor_relations/ir_event/・1回目）
+  - 「2023年3月23日」（https://www.future.co.jp/investor_relations/ir_event/・1回目）
+  - 「2022年12月期 定時株主総会」（https://www.future.co.jp/investor_relations/ir_event/・1回目）
+- 検索結果の抜粋：
+  - 「フューチャー の ビジネス - 未来報 - フューチャー株式会社 — フューチャー の ビジネス - 未来報 - フューチャー株式会社 未来報 https://note.future.co.jp > ...」（https://note.future.co.jp/m/mc4cc99038085・3回目）
+  - 「Future GROUP - フューチャー株式会社 — Future GROUP - フューチャー株式会社 フューチャー株式会社 https://www.future.co.jp > company_profile > future_group」（https://www.future.co.jp/company_profile/future_group/・3回目）
+  - 「フューチャー （ フューチャー アーキテクト）の企業情報 - CFN — フューチャー （ フューチャー アーキテクト）の企業情報 - CFN CFN https://careerforum.net > companylist_33 > company_detail」（https://careerforum.net/ja/event/bos/companylist_33/688/company_detail/・3回目）
+  - 「IRライブラリ - 決算 短信 - フューチャー株式会社 — IRライブラリ - 決算 短信 - フューチャー株式会社 フューチャー株式会社 https://www.future.co.jp > investor_relations > ir_library」（https://www.future.co.jp/investor_relations/ir_library/・3回目）
+  - 「株主・投資家の皆様へ - フューチャー株式会社 — 株主・投資家の皆様へ - フューチャー株式会社 フューチャー株式会社 https://www.future.co.jp > investor_relations」（https://www.future.co.jp/investor_relations/・3回目）
+  - 「【 フューチャー 】[4722]IR情報 中期経営計画や 決算 短信 | 日経 ... — 【 フューチャー 】[4722]IR情報 中期経営計画や 決算 短信 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo」（https://www.nikkei.com/nkd/company/kigyo/?scode=4722・3回目）
+  - 「IRニュース - フューチャー株式会社 — IRニュース - フューチャー株式会社 フューチャー株式会社 https://www.future.co.jp > investor_relations > ir_news」（https://www.future.co.jp/investor_relations/ir_news/・3回目）
+  - 「会社概要 - フューチャー株式会社 — 会社概要 - フューチャー株式会社 フューチャー株式会社 https://www.future.co.jp > corporate_profile」（https://www.future.co.jp/company_profile/corporate_profile/・3回目）
+  - 「CORPORATE PROFILE | フューチャー アーキテクト株式会社 — CORPORATE PROFILE | フューチャー アーキテクト株式会社 フューチャー株式会社 https://www.future.co.jp > architect > corporate_profile」（https://www.future.co.jp/architect/corporate_profile/corporate_profile/・3回目）
+  - 「事例・実績 | フューチャー アーキテクト株式会社 — 事例・実績 | フューチャー アーキテクト株式会社 フューチャー株式会社 https://www.future.co.jp > architect > our_service > case」（https://www.future.co.jp/architect/our_service/case/・3回目）
+  - 「フューチャー ｜会社説明 vol1.会社概要・ビジネス編 - YouTube — フューチャー ｜会社説明 vol1.会社概要・ビジネス編 - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=EeLFWFmHw-s・3回目）
+  - 「事業 報告｜ フューチャー 株式会社 スマート招集 — 事業 報告｜ フューチャー 株式会社 スマート招集 p.sokai.jp https://p.sokai.jp > report」（https://p.sokai.jp/4722/report/・3回目）
+- ビジネスモデル：記載なし（3回確認済み：公式25頁／PDF・画像2件／外部2頁・検索5回）
+- 売上構成：記載なし（3回確認済み：公式25頁／PDF・画像2件／外部2頁・検索5回）
 
 ## フルヤ金属
 - 公式URL：https://www.furuyametals.co.jp/（search:yahoo_jp:フルヤ金属）
@@ -12294,6 +18530,126 @@
   - 「ブティックス （9272）のプロフィール - 会社四季報オンライン — ブティックス （9272）のプロフィール - 会社四季報オンライン 四季報オンライン https://shikiho.toyokeizai.net > 銘柄研究 > ブティックス」（https://shikiho.toyokeizai.net/stocks/9272/corporate・3回目）
 - 売上高：記載なし（3回確認済み：公式13頁／PDF・画像9件／外部3頁・検索5回）
 
+## ブランジスタ
+- 公式URL：https://www.brangista.com/（search:yahoo_jp:ブランジスタ）
+- 従業員数：138名（https://www.brangista.com/ir/esg-data.html・1回目）
+- 従業員数：169名（https://www.brangista.com/ir/esg-data.html・1回目）
+- 売上高：（https://kitaishihon.com/company/6176/business・3回目）
+- 売上高：1,667,639 2,109,973 972,811 4,750,425 72,026 4,822,452 － 4,822,452（https://kitaishihon.com/company/6176/business・3回目）
+- 売上高：－ － － － 74,110 74,110 △74,110 －（https://kitaishihon.com/company/6176/business・3回目）
+- ビジネスモデル：
+  - 「これまでの当社サービスを融合し、新たなビジネスモデルを構築」（https://www.brangista.com/overview/・1回目）
+  - 「プロモーション支援事業の収益モデルを教えてください」（https://www.brangista.com/ir/faq.html・1回目）
+  - 「メディア事業の収益モデルを教えてください」（https://www.brangista.com/ir/faq.html・1回目）
+  - 「ソリューション事業の収益モデルを教えてください」（https://www.brangista.com/ir/faq.html・1回目）
+  - 「電子雑誌ビジネスモデル」（https://finance.logmi.jp/articles/377534・3回目）
+  - 「：ビジネスモデルは2つあります」（https://finance.logmi.jp/articles/377534・3回目）
+  - 「［事業系統図］」（https://kitaishihon.com/company/6176/business・3回目）
+  - 「当社グループの事業系統図は以下のとおりであります」（https://kitaishihon.com/company/6176/business・3回目）
+- 誰に：
+  - 「クライアント企業の戦略・ニーズに合わせたウェブサイト制作・運営や、新規顧客の開拓から顧客のリピーター化までを当社一社で提供しております」（https://www.brangista.com/business/・1回目）
+  - 「また、通信環境やお客様のコンピュータの状況、その他の理由により当ウェブサイトを正常に利用できない場合があります」（https://www.brangista.com/ir/disclaimer.html・1回目）
+  - 「「旅色」月間利用者数の推移」（https://finance.logmi.jp/articles/377534・3回目）
+  - 「利用者数拡大に向けたコンテンツの充実」（https://finance.logmi.jp/articles/377534・3回目）
+  - 「前期末は過去最高の600万人弱の利用者数（読者数）を確保することができましたので、今期に関してもさらに伸ばしていく施策を展開していこうと思っています」（https://finance.logmi.jp/articles/377534・3回目）
+  - 「：こちらに関して、足元は「全国旅行支援」を使用して旅行しようと見た方がいらっしゃったのかと思いますが、かなりの利用者数があり、継続して見ている方がいるのだと思います」（https://finance.logmi.jp/articles/377534・3回目）
+  - 「：利用者数拡大に向けたコンテンツの充実とは、サイト内にさまざまなコンテンツを追加していくということです」（https://finance.logmi.jp/articles/377534・3回目）
+  - 「サイトを利用される方が目的地に着きやすくなることによって、利用者の満足度向上が図れます」（https://finance.logmi.jp/articles/377534・3回目）
+  - 「現在の会員数は4,000人で、著名な社長の講演を聞いたり、企業同士を結び付けるビジネスマッチングを行ったりしています」（https://finance.logmi.jp/articles/377534・3回目）
+  - 「ソリューション事業では、クライアント企業の戦略・ニーズに合わせたウェブサイト制作・運営や、新規顧客の開拓から顧客のリピーター化までを当社一社で提供しております」（https://kitaishihon.com/company/6176/business・3回目）
+  - 「顧客との契約から生じる収益」（https://kitaishihon.com/company/6176/business・3回目）
+  - 「外部顧客への売上高」（https://kitaishihon.com/company/6176/business・3回目）
+- 何を：
+  - 「我々にしか実現できないサービスで」（https://www.brangista.com/・1回目）
+  - 「アクセルジャパンにタレントが自社商品を持ってPRしてくれる新プランが登場」（https://www.brangista.com/・1回目）
+  - 「ブランジスタのサービス」（https://www.brangista.com/・1回目）
+  - 「電子雑誌への広告掲載や、電子雑誌の制作受託といったサービスを提供いたします」（https://www.brangista.com/・1回目）
+  - 「ECサイトの運営に必要な業務を丸ごと代行する他、複数のECモール間の在庫一元管理システム、物流・出荷代行サービスなど、ECサイト運営に関わるさまざまな業務を当社で一社で提供しています」（https://www.brangista.com/・1回目）
+  - 「(株) ブランジスタソリューション」（https://www.brangista.com/・1回目）
+  - 「(株) ブランジスタソリューション」（https://www.brangista.com/inquiry/・1回目）
+  - 「(株) ブランジスタソリューション」（https://www.brangista.com/company/・1回目）
+  - 「ソリューション事業」（https://www.brangista.com/business/・1回目）
+  - 「当社グループは、「電子雑誌」「ソリューション」に加え、タレントを起用した企業プロモーション支援プロジェクト「アクセルジャパン」を展開しております」（https://www.brangista.com/business/・1回目）
+  - 「無料電子雑誌の制作・発行、EC出店企業を中心に提供する各種ソリューションサービス、初期費用不要・月額費用だけで、企業のPRなどに著名タレントの写真・動画を使用できるサービスを提供しております」（https://www.brangista.com/business/・1回目）
+  - 「私たちは、当社にしか実現できないサービスで、企業・団体・地域、さまざまなコミュニティと人・もの・情報をつなぎ、活気あふれる地域社会の発展に貢献することを目指しています」（https://www.brangista.com/business/・1回目）
+- どうやって売るか：
+  - 「明日4/14放送NHKの番組「コント×ドキュメンタリー 笑う会社革命」でブランジスタメディア社をご紹介いただきます」（https://www.brangista.com/・1回目）
+  - 「自治体の魅力を紹介したい」（https://www.brangista.com/・1回目）
+  - 「自治体の魅力を紹介したい」（https://www.brangista.com/inquiry/・1回目）
+  - 「自社ECサイト、ECモール出店企業、越境EC運営企業など」（https://www.brangista.com/overview/・1回目）
+  - 「Brangistaの特長を数字で分かりやすく紹介しています」（https://www.brangista.com/ir/・1回目）
+  - 「東南アジアGMV65兆円の販売網でEC販売を支援（PDF:224KB）」（https://www.brangista.com/ir/news/・1回目）
+  - 「明日4/14放送NHKの番組「コント×ドキュメンタリー 笑う会社革命」でブランジスタメディア社をご紹介いただきます」（https://www.brangista.com/news/・1回目）
+  - 「電子雑誌の誌面で紹介する掲載施設の選定、プロモーション企画の提案、掲載記事のプランニング、プロモーションのコンサルティングを行っていただきます」（https://www.brangista.com/recruit/・1回目）
+  - 「先輩社員紹介」（https://www.brangista.com/recruit/・1回目）
+  - 「各募集職種別に先輩社員の声、1日の仕事のスケジュール例を紹介しています」（https://www.brangista.com/recruit/・1回目）
+  - 「質疑応答：広告代理店としての役割について」（https://finance.logmi.jp/articles/377534・3回目）
+  - 「先ほど「LIFULL HOME’S」をご紹介しましたが、各企業のオウンドメディアとして、我々が作った雑誌をWebサイトなどさまざまな場所で活用いただくというかたちです」（https://finance.logmi.jp/articles/377534・3回目）
+- お金の形：
+  - 「無料電子雑誌の制作・発行、EC出店企業を中心に提供する各種ソリューションサービス、初期費用不要・月額費用だけで、企業のPRなどに著名タレントの写真・動画を使用できるサービスを提供しております」（https://www.brangista.com/business/・1回目）
+  - 「初期費用不要かつ月額定額制（月額40万円〜）で著名タレントの写真・動画が使えるプロモーションツールと、経営者の学びと交流の場を提供する新プロジェクト「ACCEL JAPAN（アクセルジャパン）」を提供」（https://www.brangista.com/business/・1回目）
+  - 「主な収益源は、契約企業からの利用料金となっており、当社2022年9月期第１四半期連結会計期間の期首から適用しております新たな会計基準（※）においては使用権に該当するため、契約を開始した時点で契約期間中の収益すべてを認識することとなっております」（https://www.brangista.com/business/・1回目）
+  - 「主な収益源は、各サービスを利用する契約企業からの月額の業務受託費用や利用料金となっており、ECサイトの運営に必要なサービスを提供しております」（https://www.brangista.com/business/・1回目）
+  - 「（株）ブランジスタエールでは、初期費用0円かつ月額費用だけで、著名タレントの肖像をPRツールに使用し、自社のブランディングや商品・サービスのPR、採用活動などに活用することができるサービスを提供いたします」（https://www.brangista.com/overview/・1回目）
+  - 「初期費用不要かつ月額定額制で著名タレントの写真・動画が使えるプロモーションツールと、経営者の学びと交流の場を提供するプロジェクトは、中小企業だけではなく、大企業や経済産業省・中小企業庁、地方自治体など、全国各地のさまざまなクライアントのPR活動に活用いただいております」（https://www.brangista.com/ir/message.html・1回目）
+  - 「プロモーション支援事業では、サービス利用企業がタレントの肖像を活用したPRを、初期費用不要、月額定額制で実現できるアクセルジャパンを提供しております」（https://www.brangista.com/ir/faq.html・1回目）
+  - 「年間契約のみとなっており、利用企業からは月額定額でお支払いをしていただいておりますが、契約を開始した時点で契約期間中の収益すべてを計上することとなっております」（https://www.brangista.com/ir/faq.html・1回目）
+  - 「初期費用はなく、月額40万円〜の定額制でご利用いただけます」（https://www.brangista.com/ir/faq.html・1回目）
+  - 「メインサービスの「ECサポートサービス」では、月額制の料金設定で定常業務やセール時の対応など、毎月の必要な業務に合わせて柔軟に対応しております」（https://www.brangista.com/ir/faq.html・1回目）
+  - 「主にEC・通販事業者からECサイト・ウェブサイト・SNS運用およびマーケティング業務を受託し、月額の業務受託費用を受領しております」（https://www.brangista.com/ir/faq.html・1回目）
+  - 「複数社の外注管理の手間がなく、月額定額制のためコストコントロールが容易であり、常時数百サイトのECサイトを運営していることによってトレンドの把握、経験・ノウハウを有していることから売上向上に寄与できるため、クライアントからご評価いただいております」（https://www.brangista.com/ir/faq.html・1回目）
+- 売上構成：
+  - 「最も歴史が長く、メディア事業の売上構成比率が最も高い電子雑誌となっております」（https://www.brangista.com/ir/faq.html・1回目）
+  - 「セグメント情報」（https://kitaishihon.com/company/6176/business・3回目）
+  - 「※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります」（https://kitaishihon.com/company/6176/business・3回目）
+  - 「※セグメントの売上や利益は、企業毎にその定義が異なる場合があります」（https://kitaishihon.com/company/6176/business・3回目）
+  - 「セグメント名」（https://kitaishihon.com/company/6176/business・3回目）
+  - 「売上構成比率」（https://kitaishihon.com/company/6176/business・3回目）
+  - 「利益構成比率」（https://kitaishihon.com/company/6176/business・3回目）
+  - 「当社グループの事業セグメントごとの事業内容と主な提供会社は以下のとおりであります」（https://kitaishihon.com/company/6176/business・3回目）
+  - 「セグメントごとの経営成績は、次のとおりであります」（https://kitaishihon.com/company/6176/business・3回目）
+  - 「セグメント利益909百万円」（https://kitaishihon.com/company/6176/business・3回目）
+  - 「セグメント利益296百万円」（https://kitaishihon.com/company/6176/business・3回目）
+  - 「セグメント利益142百万円」（https://kitaishihon.com/company/6176/business・3回目）
+- 利益の源泉：
+  - 「ECサイトの運営に必要な業務を丸ごと代行する他、複数のECモール間の在庫一元管理システム、物流・出荷代行サービスなど、ECサイト運営に関わるさまざまな業務を当社で一社で提供しています」（https://www.brangista.com/・1回目）
+  - 「在庫一元管理システム、物流・出荷代行サービスなどを展開」（https://www.brangista.com/overview/・1回目）
+  - 「今後も、当社の強みを生かした当社だからこそ実現できるサービスラインナップで地域活性化に貢献し、さらなる企業価値の向上を目指してまいります」（https://www.brangista.com/ir/message.html・1回目）
+  - 「電子雑誌関連の強み1 日本を代表する俳優を起用」（https://finance.logmi.jp/articles/377534・3回目）
+  - 「電子雑誌関連の強み2 商品開発~営業~発行まで自社完結」（https://finance.logmi.jp/articles/377534・3回目）
+  - 「：電子雑誌に関して、我々の強みだと感じているところを2つご説明します」（https://finance.logmi.jp/articles/377534・3回目）
+  - 「：2つ目の強みです」（https://finance.logmi.jp/articles/377534・3回目）
+  - 「このように、臨機応変で迅速な対応が可能であることが我々の強みであると思っています」（https://finance.logmi.jp/articles/377534・3回目）
+  - 「スローガン、新卒採用支援「Goodfind」が堅調に成長 不採算事業の整理で上期増収増益、営業利益率34.7％」（https://finance.logmi.jp/articles/377534・3回目）
+- 沿革：
+  - 「2000年（設立時）から」（https://www.brangista.com/overview/・1回目）
+  - 「2005年から」（https://www.brangista.com/overview/・1回目）
+  - 「2007年から」（https://www.brangista.com/overview/・1回目）
+  - 「2007年に電子雑誌を創刊」（https://www.brangista.com/overview/・1回目）
+  - 「2019年から」（https://www.brangista.com/overview/・1回目）
+  - 「2025年9月末日時点」（https://www.brangista.com/overview/・1回目）
+  - 「2026年9月期（第26期）第3四半期決算短信（PDF:408KB）」（https://www.brangista.com/ir/・1回目）
+  - 「2026年9月期 第3四半期決算説明資料（PDF:16.9MB）」（https://www.brangista.com/ir/・1回目）
+  - 「2000年の創業以来、企業の販売促進支援サービスを提供し、iPadもKindleも登場していなかった2007年からは、有名俳優が登場する電子雑誌を創刊いたしました」（https://www.brangista.com/ir/message.html・1回目）
+  - 「2022年からは、当社がこれまでに培ってきた営業力・キャスティング力・クリエイティブ力を活かしたプロモーション支援事業「アクセルジャパン」を開始いたしました」（https://www.brangista.com/ir/message.html・1回目）
+  - 「2025年には、東京証券取引所への上場10周年、創業25周年を迎え、新たな成長期に入りました」（https://www.brangista.com/ir/message.html・1回目）
+  - 「2026年のIRニュース｜IR情報｜株式会社ブランジスタ」（https://www.brangista.com/ir/news/・1回目）
+- 検索結果の抜粋：
+  - 「ブランジスタ 早わかり — ブランジスタ 早わかり 株式会社ブランジスタ https://www.brangista.com > overview」（https://www.brangista.com/overview/・3回目）
+  - 「ブランジスタ /「官民連携プラン」など4戦略で成長図る — ブランジスタ /「官民連携プラン」など4戦略で成長図る ログミーFinance https://finance.logmi.jp > articles」（https://finance.logmi.jp/articles/377534・3回目）
+  - 「ブランジスタ （6176）のプロフィール | 会社四季報オンライン — ブランジスタ （6176）のプロフィール | 会社四季報オンライン 四季報オンライン https://shikiho.toyokeizai.net > 銘柄研究 > ブランジスタ」（https://shikiho.toyokeizai.net/stocks/6176/corporate・3回目）
+  - 「ブランジスタ 【6176】の事業内容 - キタイシホン — ブランジスタ 【6176】の事業内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/6176/business・3回目）
+  - 「決算説明資料 ・動画｜IR情報 - 株式会社ブランジスタ — 決算説明資料 ・動画｜IR情報 - 株式会社ブランジスタ 株式会社ブランジスタ https://www.brangista.com > IR情報」（https://www.brangista.com/ir/presentation-materials.html・3回目）
+  - 「IR情報 - 株式会社ブランジスタ — IR情報 - 株式会社ブランジスタ 株式会社ブランジスタ https://www.brangista.com > ...」（https://www.brangista.com/ir/・3回目）
+  - 「決算 短信｜IR情報 - 株式会社ブランジスタ — 決算 短信｜IR情報 - 株式会社ブランジスタ 株式会社ブランジスタ https://www.brangista.com > IR情報」（https://www.brangista.com/ir/financial-statements.html・3回目）
+  - 「【 ブランジスタ 】[6176]IR情報 中期経営計画や 決算 短信 | 日経 ... — 【 ブランジスタ 】[6176]IR情報 中期経営計画や 決算 短信 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo」（https://www.nikkei.com/nkd/company/kigyo/?scode=6176・3回目）
+  - 「株式会社 ブランジスタ 事業 計画及び成長可能性に関する事項 — 株式会社 ブランジスタ 事業 計画及び成長可能性に関する事項 株式会社ブランジスタ PDF https://www.brangista.com > library」（https://www.brangista.com/ir/library/2024/eyttbrrmt5k58h5net.pdf・3回目）
+  - 「ブランジスタ 【6176】の 事業 内容 - キタイシホン — ブランジスタ 【6176】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/6176/business・3回目）
+  - 「会社概要｜企業情報 - 株式会社ブランジスタ — 会社概要｜企業情報 - 株式会社ブランジスタ 株式会社ブランジスタ https://www.brangista.com > 企業情報」（https://www.brangista.com/company/about.html・3回目）
+  - 「ブランジスタ - 株式会社フィスコ — ブランジスタ - 株式会社フィスコ 株式会社フィスコ PDF https://www.fisco.co.jp > FISCO > brangista20230808」（https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/brangista20230808.pdf・3回目）
+- 設立：記載なし（3回確認済み：公式25頁／PDF・画像16件／外部3頁・検索5回）
+- 事業内容：記載なし（3回確認済み：公式25頁／PDF・画像16件／外部3頁・検索5回）
+
 ## プラスアルファ・コンサルティング
 - 公式URL：https://www.pa-consul.co.jp/（search:yahoo_jp:プラスアルファ・コンサルティング）
 - ビジネスモデル：
@@ -12361,6 +18717,105 @@
 - 事業内容：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部3頁・検索5回）
 - 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部3頁・検索5回）
 - 売上構成：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部3頁・検索5回）
+
+## プログリット
+- 公式URL：https://www.progrit.co.jp/（search:yahoo_jp:プログリット）
+- 設立：2016年9月（https://about.progrit.co.jp/company・3回目）
+- 設立：2016年9月（https://service.jinjibu.jp/article/detl/innovator/3677/・3回目）
+- 事業内容：英語コーチングサービス / サブスクリプション型英語学習サービス（https://about.progrit.co.jp/company・3回目）
+- 事業内容：英語コーチングサービス / サブスクリプション型英語学習サービス（https://service.jinjibu.jp/article/detl/innovator/3677/・3回目）
+- ビジネスモデル：
+  - 「⸺プログリットのような「新しいビジネスモデル」のサービスを0から作るときに、どんなことを意識すべきか教えてください」（https://markelabo.com/n/nb8979612b214?gs=01eaf87005f9d58265defbd8b7de065a・3回目）
+  - 「ビジネスモデル」（https://www.youtube.com/watch?v=xFhrv1Tt0QE・3回目）
+  - 「ただ、具体的なビジネスモデルはまだなく、仕事の合間に模索する日々が続きました」（https://service.jinjibu.jp/article/detl/innovator/3677/・3回目）
+  - 「最初のビジネスモデルは今の英語教育とはまったく異なるものだったそうですね」（https://service.jinjibu.jp/article/detl/innovator/3677/・3回目）
+  - 「そう考えて新しいビジネスモデルを「英語コーチング」に決めました」（https://service.jinjibu.jp/article/detl/innovator/3677/・3回目）
+  - 「ただ、過去にない英語コーチングのビジネスモデルは投資家の理解を得るのが難しいと考え、すべて自己資金でまかなうことに方針転換していたのでお金がありません」（https://service.jinjibu.jp/article/detl/innovator/3677/・3回目）
+- 誰に：
+  - 「お客様満足度」（https://www.progrit.co.jp/・1回目）
+  - 「しかし、現在の職場はもっと密になっていて、お客様のためにアメリカ側のメンバーも含めてワンチームで日々コミュニケーションしています」（https://www.progrit.co.jp/interview/business/interview0127/・1回目）
+  - 「日本のお客様の要望や思いをきちんと伝えたいし、」（https://www.progrit.co.jp/interview/business/interview0127/・1回目）
+  - 「でも冒頭で申し上げた通り、日本のお客様の希望を正しく伝えること、本社のフィードバックをきちんと理解することができていないな…と思いながら何年間も過ごしていたんです」（https://www.progrit.co.jp/interview/business/interview0127/・1回目）
+  - 「お客様が増えていくのとは別に、」（https://markelabo.com/n/nb8979612b214?gs=01eaf87005f9d58265defbd8b7de065a・3回目）
+  - 「着実にお客様は増えていましたが、「世間に認めてもらう」という観点では、上場して結果を出すしかなかったんです」（https://markelabo.com/n/nb8979612b214?gs=01eaf87005f9d58265defbd8b7de065a・3回目）
+  - 「僕らが救いたいお客様がいて、これが最高のサービスなんだ」（https://markelabo.com/n/nb8979612b214?gs=01eaf87005f9d58265defbd8b7de065a・3回目）
+  - 「お客様にとって最高のプロダクトは何か？最高のサービス体験は何か？ これを考えて実行する」（https://markelabo.com/n/nb8979612b214?gs=01eaf87005f9d58265defbd8b7de065a・3回目）
+  - 「2018年から本格的に「オンラインコース」をはじめたことで、世界中の人がプログリットを受けられるようになり、顧客層の拡大につながりました」（https://markelabo.com/n/nb8979612b214?gs=01eaf87005f9d58265defbd8b7de065a・3回目）
+  - 「例えば、お客様の継続率を引き上げるアンバサダーや、英語力を引き上げるアンバサダーが校舎毎にいて、社内で目一杯それを推進します」（https://markelabo.com/n/nb8979612b214?gs=01eaf87005f9d58265defbd8b7de065a・3回目）
+  - 「プログリットで、英語力がめちゃめちゃ伸びたお客様と、伸び率の低かったお客様を200名弱ずつ分析すると、いくつか発見がありました」（https://markelabo.com/n/nb8979612b214?gs=01eaf87005f9d58265defbd8b7de065a・3回目）
+  - 「ユーザーが音声でシャドーイングを行うと、英語のプロが添削して結果が戻ってきます」（https://markelabo.com/n/nb8979612b214?gs=01eaf87005f9d58265defbd8b7de065a・3回目）
+- 何を：
+  - 「※1 サービス開始から2025年8月時点の累計受講者数 ※2 2022年9月〜2023年8月のビジネス英会話コース卒業生データに基づく ※3 2024年12月〜2025年4月のビジネス英会話コース卒業生データ ※4 英語学習サービスに関わる上場企業の各社IR情報による（2023年9月1日時点 当社調べ）」（https://www.progrit.co.jp/・1回目）
+  - 「サービスをつくりたい」（https://www.progrit.co.jp/・1回目）
+  - 「※1 2024年12月〜2025年4月のビジネス英会話コース卒業生データ ※2 2024年12月〜2025年4月のTOEIC® L&R TESTコース卒業生データ ※3 2021年1月〜9月の受講生データ ※4 2024年7月〜2025年4月の卒業生データ ※5 サービス開始から2025年8月時点の累計受講者数 ※6 2022/9月～2023/8月のビジネス英会話コース卒業生データ ※7 英語学習サービスに関わる上場企業の各社IR情報による（2023年9月1日時点 当社調べ）」（https://www.progrit.co.jp/・1回目）
+  - 「※電話窓口は英語コーチングサービス専用です」（https://www.progrit.co.jp/・1回目）
+  - 「その他のサービスに関するお問い合わせはフォームより承っております」（https://www.progrit.co.jp/・1回目）
+  - 「※英語学習サービスに関わる上場企業の各社IR情報による（2023/9/1時点 当社調べ）」（https://www.progrit.co.jp/・1回目）
+  - 「※電話窓口は英語コーチングサービス専用です」（https://www.progrit.co.jp/interview/business/interview0134/・1回目）
+  - 「その他のサービスに関するお問い合わせはフォームより承っております」（https://www.progrit.co.jp/interview/business/interview0134/・1回目）
+  - 「※英語学習サービスに関わる上場企業の各社IR情報による（2023/9/1時点 当社調べ）」（https://www.progrit.co.jp/interview/business/interview0134/・1回目）
+  - 「※電話窓口は英語コーチングサービス専用です」（https://www.progrit.co.jp/interview/business/interview0127/・1回目）
+  - 「その他のサービスに関するお問い合わせはフォームより承っております」（https://www.progrit.co.jp/interview/business/interview0127/・1回目）
+  - 「※英語学習サービスに関わる上場企業の各社IR情報による（2023/9/1時点 当社調べ）」（https://www.progrit.co.jp/interview/business/interview0127/・1回目）
+- どうやって売るか：
+  - 「確立されたメソッドに精通したプロフェッショナルを、あなたのパートナーに」（https://www.progrit.co.jp/・1回目）
+  - 「受講生・卒業生からご紹介いただいた方」（https://www.progrit.co.jp/・1回目）
+  - 「以前、バンコクの展示会で一緒になったビジネスパートナーが、以前は全く英語ができなかったのに、急に喋れるようになっていたんです」（https://www.progrit.co.jp/interview/business/interview0135/・1回目）
+  - 「「この原料の由来は？」「代理店は？」「日本への輸出実績は？」といった深い話を、通訳を介さずに聞ける」（https://www.progrit.co.jp/interview/business/interview0135/・1回目）
+  - 「正しい努力を、信頼できるパートナーと共に継続すれば、確実に景色は変わります」（https://www.progrit.co.jp/interview/business/interview0133/・1回目）
+  - 「事業の指標としては「満足度・継続コースの入会率・友人紹介比率」など、満足につながる指標をいろいろな角度から見ていますね」（https://markelabo.com/n/nb8979612b214?gs=01eaf87005f9d58265defbd8b7de065a・3回目）
+  - 「先輩に紹介してもらった、投資家の瀧本哲史さんに投資していただけることになり、毎月メンタリングをお願いできることになりました」（https://markelabo.com/n/nb8979612b214?gs=01eaf87005f9d58265defbd8b7de065a・3回目）
+  - 「プログリットのような店舗ビジネスって、稼働率がめちゃめちゃ重要なんですよ」（https://markelabo.com/n/nb8979612b214?gs=01eaf87005f9d58265defbd8b7de065a・3回目）
+  - 「たくさんある店舗の「稼働率の平準化」が課題なんですね」（https://markelabo.com/n/nb8979612b214?gs=01eaf87005f9d58265defbd8b7de065a・3回目）
+  - 「この「店舗の稼働率」を高めることに貢献しました」（https://markelabo.com/n/nb8979612b214?gs=01eaf87005f9d58265defbd8b7de065a・3回目）
+  - 「オンラインなら稼働率の低い店舗のコンサルタントが担当できるためです」（https://markelabo.com/n/nb8979612b214?gs=01eaf87005f9d58265defbd8b7de065a・3回目）
+  - 「ただ店舗にこだわっているので、今後もオンラインだけには絶対しません」（https://markelabo.com/n/nb8979612b214?gs=01eaf87005f9d58265defbd8b7de065a・3回目）
+- お金の形：
+  - 「英語業界って基本、単価が安くて儲からず、従業員の給料が低くて、非正規雇用が多くなるという、負のループに陥っている会社が多いと感じていて」（https://markelabo.com/n/nb8979612b214?gs=01eaf87005f9d58265defbd8b7de065a・3回目）
+  - 「【英語学習BIG3＋1】単語・シャドーイング・口頭英作文＋英会話／卒業後60％の人が英語学習を継続／コーチングとサブスクの最強ループ／世界で自由に活躍できる人を増やす／新規事業とM&Aにも意欲」（https://www.youtube.com/watch?v=xFhrv1Tt0QE・3回目）
+  - 「解約率について」（https://www.youtube.com/watch?v=xFhrv1Tt0QE・3回目）
+  - 「英語学習者の自学自習をコンサルティングする英語コーチングサービス「プログリット」は、3ヵ月コースで50万円を超える高単価サービスですが、それでも2か月待ちの大盛況です」（https://www.youtube.com/watch?v=xFhrv1Tt0QE・3回目）
+  - 「英語コーチングサービス / サブスクリプション型英語学習サービス」（https://about.progrit.co.jp/company・3回目）
+  - 「月額制シャドーイング添削コースの提供開始」（https://about.progrit.co.jp/company・3回目）
+  - 「サブスクリプションサービス」（https://about.progrit.co.jp/・3回目）
+  - 「シャドーイング学習とプロによる毎日の音声添削で、英語リスニング力を強化するサブスクリプションサービスです」（https://about.progrit.co.jp/・3回目）
+  - 「瞬間英作文＋独り言英会話のトレーニングと、AIによる判定・添削によって、英語スピーキング力を強化するサブスクリプションサービスです」（https://about.progrit.co.jp/・3回目）
+  - 「あなたをよく知る専属のAI講師と、予約なしでいつでも実践的な英会話レッスンができるサブスクリプションサービスです」（https://about.progrit.co.jp/・3回目）
+  - 「瞬発力トレーニングと忘却曲線に基づく最適な復習で、ビジネス英単語を使えるレベルへ定着させる、無料のサブスクリプションサービスです」（https://about.progrit.co.jp/・3回目）
+  - 「英語コーチングサービス / サブスクリプション型英語学習サービス」（https://service.jinjibu.jp/article/detl/innovator/3677/・3回目）
+- 利益の源泉：
+  - 「私の英語レベルの強みや弱み、さらには性格や特性まで冷静かつ的確に分析してくださりました」（https://www.progrit.co.jp/interview/business/interview0135/・1回目）
+  - 「でも逆に「仕組み化」できれば参入障壁になる」（https://markelabo.com/n/nb8979612b214?gs=01eaf87005f9d58265defbd8b7de065a・3回目）
+  - 「競争環境と競争優位性」（https://www.youtube.com/watch?v=xFhrv1Tt0QE・3回目）
+- 沿革：
+  - 「2024年6月27日 11:30」（https://markelabo.com/n/nb8979612b214?gs=01eaf87005f9d58265defbd8b7de065a・3回目）
+  - 「2016年に創業してから、」（https://markelabo.com/n/nb8979612b214?gs=01eaf87005f9d58265defbd8b7de065a・3回目）
+  - 「2022年の上場時に、瀧本さんと一緒に撮影した写真」（https://markelabo.com/n/nb8979612b214?gs=01eaf87005f9d58265defbd8b7de065a・3回目）
+  - 「2018年から本格的に「オンラインコース」をはじめたことで、世界中の人がプログリットを受けられるようになり、顧客層の拡大につながりました」（https://markelabo.com/n/nb8979612b214?gs=01eaf87005f9d58265defbd8b7de065a・3回目）
+  - 「2013年から約10年運営しています」（https://markelabo.com/n/nb8979612b214?gs=01eaf87005f9d58265defbd8b7de065a・3回目）
+  - 「2026年8月期 決算短信〔日本基準〕（連結）」（https://about.progrit.co.jp/ir・3回目）
+  - 「2026年8月期 通期決算説明資料（事業計画及び成長可能性に関する事項）」（https://about.progrit.co.jp/ir・3回目）
+  - 「2026年8月期 通期決算説明動画」（https://about.progrit.co.jp/ir・3回目）
+  - 「2026年8月期 通期決算に関する質疑応答（要旨）」（https://about.progrit.co.jp/ir・3回目）
+  - 「2016年9月」（https://about.progrit.co.jp/company・3回目）
+  - 「2022年、東証グロース市場に上場」（https://service.jinjibu.jp/article/detl/innovator/3677/・3回目）
+  - 「2021年、Forbesが選ぶ「30 UNDER 30 Asia」に選出」（https://service.jinjibu.jp/article/detl/innovator/3677/・3回目）
+- 検索結果の抜粋：
+  - 「常識から逆算して生まれた「 プログリット 」が年商30億円まで ... — 常識から逆算して生まれた「 プログリット 」が年商30億円まで ... アプリマーケティング研究所 https://markelabo.com > ...」（https://markelabo.com/n/nb8979612b214・3回目）
+  - 「プログリット (9560) 会社説明動画 - 「教えない英語 ... - YouTube — プログリット (9560) 会社説明動画 - 「教えない英語 ... - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=xFhrv1Tt0QE・3回目）
+  - 「英語研修なら短期で伸びる英語コーチング プログリット ... — 英語研修なら短期で伸びる英語コーチング プログリット ... business.progrit.co.jp https://business.progrit.co.jp」（https://business.progrit.co.jp/・3回目）
+  - 「人生変わった、 プログリット の英語学習｜TYA - note — 人生変わった、 プログリット の英語学習｜TYA - note note https://note.com > 語学 > 英語学習」（https://note.com/tyas_eng/n/nc8d946525456・3回目）
+  - 「ビジネス 英会話コース | 英語コーチングなら プログリット ... — ビジネス 英会話コース | 英語コーチングなら プログリット ... progrit.co.jp https://www.progrit.co.jp > ... > ビジネス英会話コース」（https://www.progrit.co.jp/course/business/・3回目）
+  - 「決算説明資料 - 株式会社プログリット — 決算説明資料 - 株式会社プログリット 株式会社プログリット https://about.progrit.co.jp > presentation」（https://about.progrit.co.jp/ir/presentation・3回目）
+  - 「IR - 株式会社プログリット — IR - 株式会社プログリット 株式会社プログリット https://about.progrit.co.jp > ...」（https://about.progrit.co.jp/ir・3回目）
+  - 「よくある質問 - 株式会社プログリット — よくある質問 - 株式会社プログリット 株式会社プログリット https://about.progrit.co.jp > faq」（https://about.progrit.co.jp/ir/faq・3回目）
+  - 「IRメッセージ - 株式会社プログリット — IRメッセージ - 株式会社プログリット 株式会社プログリット https://about.progrit.co.jp > message」（https://about.progrit.co.jp/ir/message・3回目）
+  - 「プログリット [9560]：2026年8月期 通期 決算説明資料 （事業 ... — プログリット [9560]：2026年8月期 通期 決算説明資料 （事業 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr」（https://www.nikkei.com/nkd/disclosure/tdnr/20261014550451/・3回目）
+  - 「会社情報 - 株式会社プログリット — 会社情報 - 株式会社プログリット 株式会社プログリット https://about.progrit.co.jp > company」（https://about.progrit.co.jp/company・3回目）
+  - 「株式会社 プログリット : コーポレート — 株式会社 プログリット : コーポレート 株式会社プログリット https://about.progrit.co.jp」（https://about.progrit.co.jp/・3回目）
+- 従業員数：記載なし（3回確認済み：公式12頁／PDF・画像2件／外部8頁・検索5回）
+- 売上高：記載なし（3回確認済み：公式12頁／PDF・画像2件／外部8頁・検索5回）
+- 売上構成：記載なし（3回確認済み：公式12頁／PDF・画像2件／外部8頁・検索5回）
 
 ## プログレス・テクノロジーズ　グループ
 - 公式URL：https://progresstech-group.jp/（search:yahoo_jp:プログレス・テクノロジーズ グループ）
@@ -13027,6 +19482,115 @@
   - 「『日中経営者』が、 ベース 株式会社 代表取締役 社長 中山 克成 ... — 『日中経営者』が、 ベース 株式会社 代表取締役 社長 中山 克成 ... アットプレス https://www.atpress.ne.jp > news」（https://www.atpress.ne.jp/news/587212・3回目）
   - 「「経営ノート」に当社代表の インタビュー が掲載されました — 「経営ノート」に当社代表の インタビュー が掲載されました ベース株式会社 https://www.basenet.co.jp > news > 「経営ノート」に当社...」（https://www.basenet.co.jp/news/%E3%80%8C%E7%B5%8C%E5%96%B6%E3%83%8E%E3%83%BC%E3%83%88%E3%80%8D%E3%81%AB%E5%BD%93%E7%A4%BE%E4%BB%A3%E8%A1%A8%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%81%8C%E6%8E%B2%E8%BC%89/・3回目）
 - 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索5回）
+
+## ホクリヨウ
+- 公式URL：特定できず（not_found）
+- ビジネスモデル：
+  - 「ビジネスモデル」（https://envalith.com/ja/companies/1384/overview・3回目）
+  - 「ビジネスモデルと収益源」（https://note.com/open_azalea2045/n/nfd14b43babf3・3回目）
+  - 「これは単なる鶏卵相場上昇の追い風を受けた結果にとどまらず、同社のビジネスモデルがいかにインフレに対する耐性と、予期せぬ危機を乗り越える管理能力を備えているかを明確に証明するものです」（https://note.com/open_azalea2045/n/nfd14b43babf3・3回目）
+  - 「テクノロジーの進化によって数年で陳腐化してしまう製品や、ブラックボックス化した金融派生商品とは異なり、ホクリヨウのビジネスモデルは極めて明快であり、いかなる投資家にとっても「理解の輪」のど真ん中に位置する事業です」（https://note.com/open_azalea2045/n/nfd14b43babf3・3回目）
+  - 「このビジネスモデルにおける最大の特長であり、収益性の源泉となっているのが、問屋（卸売業者）を通さずにスーパーマーケットなどの小売店や外食チェーンに直接販売を行っている点です」（https://note.com/open_azalea2045/n/nfd14b43babf3・3回目）
+  - 「いかに優れたビジネスモデルを持ち、深い堀に囲まれていたとしても、過剰な負債という時限爆弾を抱えた企業は長期投資の対象にはなりません」（https://note.com/open_azalea2045/n/nfd14b43babf3・3回目）
+  - 「これらの点から当社の収益構造を支える基礎的な体力は維持されていると判断しております」（https://kitaishihon.com/company/1384/business・3回目）
+  - 「今後については経営戦略に掲げたケージフリー卵の拡売、海外事業の強化、農場工場の生産性向上に加え、販売単価の改定や物流の合理化によるコスト削減等を確実に実行し、当社収益構造の改善を達成してまいります」（https://kitaishihon.com/company/1384/business・3回目）
+- 誰に：
+  - 「主要顧客はスーパー等の小売流通会社で、ホテル・レストラン・食品加工業者向け業務用にも幅広く供給しています」（https://envalith.com/ja/companies/1384/overview・3回目）
+  - 「「PG卵モーニング」等の自社ブランドに加え、取引先向けOEMプライベートブランドも展開し、差別化卵（特殊卵・ケージフリー卵）の販売比率向上により相場変動への耐性を高めています」（https://envalith.com/ja/companies/1384/overview・3回目）
+  - 「当社の最大の特徴は、多くは生産から流通会社（取引先）への販売まで、自社内で一貫して行っている点であり、流通会社と直接取引することによって消費者サイドのニーズを素早く生産に反映させることができます」（https://kitaishihon.com/company/1384/business・3回目）
+  - 「道内５つのGP工場で製造された鶏卵製品はほぼ100％問屋を通さず取引先に直接販売をしており、道内取引先にGP工場から均一な品質の安全な卵を迅速にお届けしております」（https://kitaishihon.com/company/1384/business・3回目）
+  - 「当社の鶏卵の特徴は「ＰＧ卵モーニング」、「サラダ気分」、「雛の巣」などの自社ブランドのほか、安心安全の当社の品質が評価され各取引先別にプライベートブランドもOEM提供しており、消費者が求める価値（栄養素等）を付与し高価格設定が可能な特殊卵の販売比率が高いという点があげられます」（https://kitaishihon.com/company/1384/business・3回目）
+  - 「また、従来東北地区での販売は問屋売りが主流でしたが、現在は当社盛岡支店・仙台支店におきまして直接地場取引先への販売を拡大しており、直接販売の比率を高めております」（https://kitaishihon.com/company/1384/business・3回目）
+  - 「利用者情報の外部送信について」（https://kitaishihon.com/company/1384/business・3回目）
+  - 「【会見映像①】GMO熊谷正寿会長ら会見「お客様を守れず申し訳ない」サイバー攻撃の経緯･取り組みは 会見冒頭～質疑前」（https://www.youtube.com/watch?v=5x_BCwlmfII・3回目）
+- 何を：
+  - 「道内5GP工場全てがFSSC22000認証を取得し、統一設計思想に基づく同一品質製品を製造しています」（https://envalith.com/ja/companies/1384/overview・3回目）
+  - 「テクノロジーの進化によって数年で陳腐化してしまう製品や、ブラックボックス化した金融派生商品とは異なり、ホクリヨウのビジネスモデルは極めて明快であり、いかなる投資家にとっても「理解の輪」のど真ん中に位置する事業です」（https://note.com/open_azalea2045/n/nfd14b43babf3・3回目）
+  - 「卵という商品は「重く、割れやすく、単価が安く、鮮度が命」という特異な物理的特性を持っています」（https://note.com/open_azalea2045/n/nfd14b43babf3・3回目）
+  - 「つまり、商品価格に対する輸送コストの割合が極めて高いため、例えば本州の大手養鶏業者が北海道へ卵を海を越えて大量輸送し、価格競争を挑むことは経済合理性の観点から事実上不可能です」（https://note.com/open_azalea2045/n/nfd14b43babf3・3回目）
+  - 「同社の看板商品である「PG卵モーニング」をはじめとする自社ブランド卵は、道内のほぼすべてのスーパーマーケットに陳列され、消費者に指名買いされる商品へと育っています8」（https://note.com/open_azalea2045/n/nfd14b43babf3・3回目）
+  - 「万が一、同社の主力農場で感染が発生した場合、大規模な殺処分と長期間の操業停止を余儀なくされ、短期的な業績とキャッシュフローが直撃を受けます」（https://note.com/open_azalea2045/n/nfd14b43babf3・3回目）
+  - 「本記事は、AIバフェット研究所が公開情報に基づき独自に分析・作成したものであり、特定の金融商品の売買を推奨する投資助言ではありません」（https://note.com/open_azalea2045/n/nfd14b43babf3・3回目）
+  - 「食品の製造・加工工程のあらゆる段階で発生する恐れのある微生物汚染等の危害をあらかじめ分析（Hazard Analysis）し、その結果に基づいて、製造工程のどの段階でどのような対策を講じればより安全な製品を得ることができるかという重要管理点（Critical Control Point）を定め、これを連続的に監視することにより製品の安全を確保する衛生管理の手法です」（https://kitaishihon.com/company/1384/business・3回目）
+  - 「道内の成鶏５農場で生産された卵はすべてFSSC22000（注）の認証を取得した５GP工場で製品化されます」（https://kitaishihon.com/company/1384/business・3回目）
+  - 「道内の５GP工場は2000年～2011年にかけて、統一された設計思想に基づき、従来のGP工場を廃止し新築された工場で、同一品質の製品を製造できることが大きな特徴となっております」（https://kitaishihon.com/company/1384/business・3回目）
+  - 「GP工場は多くの農場鶏舎とバーコンベアで連結されており、その日に生産されたほぼ全ての卵をその日の内に製品化しております」（https://kitaishihon.com/company/1384/business・3回目）
+  - 「東北においては現在３GP工場（岩手２GP、宮城１GP）が稼働しており当社の盛岡支店、仙台支店に鶏卵製品を供給する役割を担っております」（https://kitaishihon.com/company/1384/business・3回目）
+- どうやって売るか：
+  - 「自社一貫生産・直販体制と差別化卵の高単価販売で収益を確保する鶏卵専業モデル」（https://envalith.com/ja/companies/1384/overview・3回目）
+  - 「北海道市場での圧倒的シェアと直販体制」（https://envalith.com/ja/companies/1384/overview・3回目）
+  - 「同社の直販率は約98%にも達します2」（https://note.com/open_azalea2045/n/nfd14b43babf3・3回目）
+  - 「同社の看板商品である「PG卵モーニング」をはじめとする自社ブランド卵は、道内のほぼすべてのスーパーマーケットに陳列され、消費者に指名買いされる商品へと育っています8」（https://note.com/open_azalea2045/n/nfd14b43babf3・3回目）
+  - 「直接流通体制は単に利益率を高めるだけでなく、小売店側からすれば「全道の店舗に、毎日欠かさず、均一な品質で大量の卵を直接納品してくれる唯一無二のパートナー」であることを意味します」（https://note.com/open_azalea2045/n/nfd14b43babf3・3回目）
+  - 「さらに、「PG卵モーニング」などの高付加価値ブランド卵による価格決定力と、問屋を通さない直販網が強固な参入障壁を形成しています」（https://note.com/open_azalea2045/n/nfd14b43babf3・3回目）
+  - 「和のグロッサリーストア多店舗化にいち早く成功 “食のＳＰＡ”企業として海外販路も順次拡大」（https://www.kabutecho.com/interview/%E5%8C%97%E6%B5%B7%E9%81%93%E3%81%A7%EF%BC%95%E5%89%B2%E3%81%AE%E3%82%B7%E3%82%A7%E3%82%A2%E3%80%81%E6%97%A5%E3%81%AB%E5%8D%B5%EF%BC%93%EF%BC%93%EF%BC%90%E4%B8%87%E5%80%8B%E5%87%BA%E8%8D%B7-%E3%80%8C/・3回目）
+- お金の形：
+  - 「自社一貫生産・直販体制と差別化卵の高単価販売で収益を確保する鶏卵専業モデル」（https://envalith.com/ja/companies/1384/overview・3回目）
+  - 「収益は鶏卵相場に大きく左右されますが、販売価格改定と差別化卵拡販により単価向上を図っています」（https://envalith.com/ja/companies/1384/overview・3回目）
+  - 「エビアリー卵等のケージフリー卵の販売地域・チャネルを拡大し、相場変動に対する耐性強化と単価向上を図る」（https://envalith.com/ja/companies/1384/overview・3回目）
+  - 「収益源は極めてシンプルに「卵の販売数量 × 鶏卵相場（販売単価）」で決まりますが、単なるコモディティ（日用品）としての卵を売るだけではありません」（https://note.com/open_azalea2045/n/nfd14b43babf3・3回目）
+  - 「卵という商品は「重く、割れやすく、単価が安く、鮮度が命」という特異な物理的特性を持っています」（https://note.com/open_azalea2045/n/nfd14b43babf3・3回目）
+  - 「鳥インフルエンザによる鶏卵不足が解消に向かい、相場が落ち着きを取り戻すことを見越し、次期（2027年3月期）の業績予想としては売上高225億円、営業利益33.3億円（営業利益率14.8%）という、減収減益の保守的かつ極めて現実的なガイダンスを発表しています1」（https://note.com/open_azalea2045/n/nfd14b43babf3・3回目）
+  - 「この算定にはDCF法（ディスカウント・キャッシュフロー法）を用いますが、バフェット流の鉄則に従い、過度な楽観を排した保守的な前提を置きます」（https://note.com/open_azalea2045/n/nfd14b43babf3・3回目）
+  - 「しかし、ブランド卵による単価上昇や、関東圏へのシェア拡大によるカバーを加味し、2年目以降は年率0.5%〜1.0%という極めて保守的な微増成長を設定しました14」（https://note.com/open_azalea2045/n/nfd14b43babf3・3回目）
+  - 「より保守的なシナリオとして7.0%、8.0%への感応度も確認します14」（https://note.com/open_azalea2045/n/nfd14b43babf3・3回目）
+  - 「保守的な正常化利益をベースに算出しています14」（https://note.com/open_azalea2045/n/nfd14b43babf3・3回目）
+  - 「：正常化された利益に基づく保守的なDCF分析において、1株あたりの本質的価値は約3,800円と算出されました」（https://note.com/open_azalea2045/n/nfd14b43babf3・3回目）
+  - 「今後については経営戦略に掲げたケージフリー卵の拡売、海外事業の強化、農場工場の生産性向上に加え、販売単価の改定や物流の合理化によるコスト削減等を確実に実行し、当社収益構造の改善を達成してまいります」（https://kitaishihon.com/company/1384/business・3回目）
+- 売上構成：
+  - 「事業セグメント別の売上構成と業績詳細」（https://envalith.com/ja/companies/1384/overview・3回目）
+  - 「同社の主たる事業は「鶏を育て、卵を採り、パックに詰めて消費者に届ける」という単一セグメントで構成されています1」（https://note.com/open_azalea2045/n/nfd14b43babf3・3回目）
+  - 「マージン推移とセグメント収益性」（https://note.com/open_azalea2045/n/nfd14b43babf3・3回目）
+  - 「同社は鶏卵事業の単一セグメントであるため、その利益率は非常にシンプルに「鶏卵の市場相場」と「飼料価格（主に輸入トウモロコシ）」のスプレッド（利幅）に大きく左右されます」（https://note.com/open_azalea2045/n/nfd14b43babf3・3回目）
+  - 「セグメント情報」（https://kitaishihon.com/company/1384/business・3回目）
+  - 「※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります」（https://kitaishihon.com/company/1384/business・3回目）
+  - 「※セグメントの売上や利益は、企業毎にその定義が異なる場合があります」（https://kitaishihon.com/company/1384/business・3回目）
+  - 「（単一セグメント）」（https://kitaishihon.com/company/1384/business・3回目）
+  - 「単一セグメントの企業の場合は、連結（あるいは単体）の売上と営業利益を反映しています」（https://kitaishihon.com/company/1384/business・3回目）
+  - 「セグメント名」（https://kitaishihon.com/company/1384/business・3回目）
+  - 「売上構成比率」（https://kitaishihon.com/company/1384/business・3回目）
+  - 「利益構成比率」（https://kitaishihon.com/company/1384/business・3回目）
+- 利益の源泉：
+  - 「【バフェットの視点】株式会社ホクリヨウは『買い』か？ — 北海道の圧倒的シェアと高収益体質がもたらす隠れた「経済的な堀」｜AIバフェット研究所 所長」（https://note.com/open_azalea2045/n/nfd14b43babf3・3回目）
+  - 「【バフェットの視点】株式会社ホクリヨウは『買い』か？ — 北海道の圧倒的シェアと高収益体質がもたらす隠れた「経済的な堀」」（https://note.com/open_azalea2045/n/nfd14b43babf3・3回目）
+  - 「ブランド/コスト/スイッチングコスト/無形資産/参入障壁」（https://note.com/open_azalea2045/n/nfd14b43babf3・3回目）
+  - 「このような厳しい事業環境下において、強固な財務基盤と圧倒的な地域シェアを持つ企業は、単に一時的な危機を生き延びるだけでなく、体力の乏しい競合他社が市場から脱落していく中で、自らの競争優位性をさらに強固なものへと変えていきます」（https://note.com/open_azalea2045/n/nfd14b43babf3・3回目）
+  - 「第一の堀は、圧倒的なコスト優位性と参入障壁、すなわち「規模の経済」と「地理的優位性」の掛け合わせです」（https://note.com/open_azalea2045/n/nfd14b43babf3・3回目）
+  - 「直近の2026年3月期においては、売上高231億円に対して営業利益が49.6億円となり、営業利益率は驚異の21.5%まで跳ね上がりました9」（https://note.com/open_azalea2045/n/nfd14b43babf3・3回目）
+  - 「鳥インフルエンザによる鶏卵不足が解消に向かい、相場が落ち着きを取り戻すことを見越し、次期（2027年3月期）の業績予想としては売上高225億円、営業利益33.3億円（営業利益率14.8%）という、減収減益の保守的かつ極めて現実的なガイダンスを発表しています1」（https://note.com/open_azalea2045/n/nfd14b43babf3・3回目）
+  - 「その後は、長期的な正常化マージンである営業利益率11.0%〜12.0%程度へと緩やかに収斂していくと仮定しました」（https://note.com/open_azalea2045/n/nfd14b43babf3・3回目）
+  - 「さらに、「PG卵モーニング」などの高付加価値ブランド卵による価格決定力と、問屋を通さない直販網が強固な参入障壁を形成しています」（https://note.com/open_azalea2045/n/nfd14b43babf3・3回目）
+  - 「20年３月期、過去最高益を更新「コーポレートイン」を強みに利益成長」（https://www.kabutecho.com/interview/%E5%8C%97%E6%B5%B7%E9%81%93%E3%81%A7%EF%BC%95%E5%89%B2%E3%81%AE%E3%82%B7%E3%82%A7%E3%82%A2%E3%80%81%E6%97%A5%E3%81%AB%E5%8D%B5%EF%BC%93%EF%BC%93%EF%BC%90%E4%B8%87%E5%80%8B%E5%87%BA%E8%8D%B7-%E3%80%8C/・3回目）
+- 沿革：
+  - 「2026年3月末時点の道内飼養羽数は約225万羽で、北海道市場において高いシェアを占めます」（https://envalith.com/ja/companies/1384/overview・3回目）
+  - 「2024年2月時点の北海道採卵鶏飼養羽数約452万羽に対し、当社道内飼養羽数は2026年3月末時点で約225万羽と約50%のシェアを占めます」（https://envalith.com/ja/companies/1384/overview・3回目）
+  - 「2026年3月期の鳥インフルエンザ特需一巡で2027年3月期は大幅減益予想」（https://envalith.com/ja/companies/1384/overview・3回目）
+  - 「2026年3月期は殺処分による供給減少と相場高騰で売上高23,107百万円・営業利益4,965百万円の過去最高水準を記録したが、2027年3月期第1四半期は鶏卵相場が軟化（北海道Mサイズ前年同期比1円11銭安、東京Mサイズ21円61銭安）し、営業利益は前年同期比14.8％減の1,112百万円」（https://envalith.com/ja/companies/1384/overview・3回目）
+  - 「2027年3月期第1四半期は売上高5,865百万円（前年同期比0.0％増）とほぼ横ばいながら、営業利益1,112百万円（同14.8％減）、四半期純利益800百万円（同16.3％減）と減益となった」（https://envalith.com/ja/companies/1384/overview・3回目）
+  - 「2026年8月13日」（https://envalith.com/ja/companies/1384/overview・3回目）
+  - 「2026年8月6日 07:09」（https://note.com/open_azalea2045/n/nfd14b43babf3・3回目）
+  - 「2026年3月期末時点において、同社の総資産は234億円に上りますが、そのうち最も流動性の高い現金預金が約73億円と大きな割合を占めています9」（https://note.com/open_azalea2045/n/nfd14b43babf3・3回目）
+  - 「2024年3月期：年間70円」（https://note.com/open_azalea2045/n/nfd14b43babf3・3回目）
+  - 「2025年3月期：年間70円」（https://note.com/open_azalea2045/n/nfd14b43babf3・3回目）
+  - 「2026年3月期：年間130円（業績絶好調に伴う大幅な増配）1」（https://note.com/open_azalea2045/n/nfd14b43babf3・3回目）
+  - 「2027年3月期（予想）：年間80円（業績の正常化を見込んだ減配）1」（https://note.com/open_azalea2045/n/nfd14b43babf3・3回目）
+- 検索結果の抜粋：
+  - 「株式会社 ホクリヨウ （1384）— 企業情報 | ENVALITH · 企業概要 — 株式会社 ホクリヨウ （1384）— 企業情報 | ENVALITH · 企業概要 ENVALITH https://envalith.com > companies > overview」（https://envalith.com/ja/companies/1384/overview・3回目）
+  - 「【バフェットの視点】株式会社 ホクリヨウ は『買い』か？ - note — 【バフェットの視点】株式会社 ホクリヨウ は『買い』か？ - note note https://note.com > 投資・マネー > 日本株」（https://note.com/open_azalea2045/n/nfd14b43babf3・3回目）
+  - 「ホリスティック企業レポート ホクリヨウ - 証券リサーチセンター — ホリスティック企業レポート ホクリヨウ - 証券リサーチセンター 証券リサーチセンター PDF https://holistic-r.org > data」（https://holistic-r.org/data/1384/1384160212.pdf・3回目）
+  - 「ホクリヨウ 【1384】の企業情報 - キタイシホン — ホクリヨウ 【1384】の企業情報 - キタイシホン キタイシホン https://kitaishihon.com > company > top」（https://kitaishihon.com/company/1384/top・3回目）
+  - 「株式会社 ホクリヨウ （1384）に対する株主提案の実施について — 株式会社 ホクリヨウ （1384）に対する株主提案の実施について SIFT Japan https://siftjapan.org > shareholder-proposal-hokuryo-1384」（https://siftjapan.org/2026/04/21/shareholder-proposal-hokuryo-1384/・3回目）
+  - 「決算 短信 | IR情報 - ホクリヨウ — 決算 短信 | IR情報 - ホクリヨウ ホクリヨウ https://www.hokuryo.co.jp > earning」（https://www.hokuryo.co.jp/ir/earning/・3回目）
+  - 「IR情報 - ホクリヨウ — IR情報 - ホクリヨウ ホクリヨウ https://www.hokuryo.co.jp > ...」（https://www.hokuryo.co.jp/ir/・3回目）
+  - 「ホクリヨウ のIR 資料 - 1384 / ｽﾀﾝﾀﾞｰﾄﾞ / 水産・農林業 — ホクリヨウ のIR 資料 - 1384 / ｽﾀﾝﾀﾞｰﾄﾞ / 水産・農林業 バフェット・コード https://www.buffett-code.com > company > library」（https://www.buffett-code.com/company/1384/library・3回目）
+  - 「【 ホクリヨウ 】[1384]IR情報 中期経営計画や 決算 短信 | 日経 ... — 【 ホクリヨウ 】[1384]IR情報 中期経営計画や 決算 短信 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo」（https://www.nikkei.com/nkd/company/kigyo/?scode=1384・3回目）
+  - 「ホクリヨウ （1384）のIR情報・ 決算資料 - IRBANK — ホクリヨウ （1384）のIR情報・ 決算資料 - IRBANK IRBANK https://irbank.net > ホクリヨウ」（https://irbank.net/1384/ir・3回目）
+  - 「会 社 案 内 - ホクリヨウ — 会 社 案 内 - ホクリヨウ ホクリヨウ PDF https://www.hokuryo.co.jp > uploads > 2023/10」（https://www.hokuryo.co.jp/wp-content/uploads/2023/10/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9B%E3%82%AF%E3%83%AA%E3%83%A8%E3%82%A6%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85%EF%BC%882023%E5%B9%B4%EF%BC%93%E6%9C%88%E7%89%88%EF%BC%89.pdf・3回目）
+  - 「ホクリヨウ 【1384】の 事業 内容 - キタイシホン — ホクリヨウ 【1384】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/1384/business・3回目）
+- 設立：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）
+- 従業員数：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）
+- 事業内容：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）
+- 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）
 
 ## マネックスグループ
 - 公式URL：特定できず（not_found）
@@ -13955,6 +20519,228 @@
 - 利益の源泉：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部0頁・検索7回）
 - 沿革：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部0頁・検索7回）
 
+## ユニオンツール
+- 公式URL：https://www.uniontool.co.jp/（search:yahoo_jp:ユニオンツール）
+- 設立：昭和35年（https://www.uniontool.co.jp/corporate/outline.html・1回目）
+- 設立：小さな研究所から世界企業へ（https://note.com/tatsuya_sabato/n/n9be8d14c5026・3回目）
+- 従業員数：1,530名（2025年12月末現在）（https://www.uniontool.co.jp/corporate/outline.html・1回目）
+- 従業員数：905名（2025年12月末現在）（https://www.uniontool.co.jp/corporate/outline.html・1回目）
+- 従業員数：真面目で実直な企業文化（https://note.com/tatsuya_sabato/n/n9be8d14c5026・3回目）
+- 事業内容：切削工具、直線運動軸受、エンドミル、測定機器 等 金属加工機械の製造と販売（https://www.uniontool.co.jp/corporate/outline.html・1回目）
+- 事業内容：社会の進化を支える「縁の下の力持ち」（https://note.com/tatsuya_sabato/n/n9be8d14c5026・3回目）
+- 売上高：（https://kitaishihon.com/company/6278/business・3回目）
+- 売上高：11,028 17,318 2,019 2,238 32,606 － 32,606（https://kitaishihon.com/company/6278/business・3回目）
+- 売上高：11,406 925 － 1 12,332 △12,332 －（https://kitaishihon.com/company/6278/business・3回目）
+- ビジネスモデル：
+  - 「この記事では、表面的な数字やデータを追うだけでは見えてこない、ユニオンツールのビジネスモデルの神髄、技術力の源泉、そして未来への成長戦略を、定性的な側面から徹底的に深掘りしていきます」（https://note.com/tatsuya_sabato/n/n9be8d14c5026・3回目）
+  - 「【ビジネスモデルの詳細分析】驚異的な利益率を生む"自前主義"の神髄」（https://note.com/tatsuya_sabato/n/n9be8d14c5026・3回目）
+  - 「収益構造：高付加価値製品がもたらす安定した収益基盤」（https://note.com/tatsuya_sabato/n/n9be8d14c5026・3回目）
+  - 「結果として、価格競争に巻き込まれにくく、高い利益率を維持することが可能な収益構造を確立しているのです」（https://note.com/tatsuya_sabato/n/n9be8d14c5026・3回目）
+  - 「同社のビジネスモデルの根幹を成す、極めて戦略的な選択なのです」（https://note.com/tatsuya_sabato/n/n9be8d14c5026・3回目）
+  - 「これは、前述したビジネスモデルの強さ、すなわち、高付加価値な製品を競争力のあるコストで製造できる能力が、直接的に数字に表れた結果です」（https://note.com/tatsuya_sabato/n/n9be8d14c5026・3回目）
+  - 「「生産設備の100%内製化」という模倣困難なビジネスモデルが、技術・コスト・スピードの全てにおいて強力な参入障壁を構築している」（https://note.com/tatsuya_sabato/n/n9be8d14c5026・3回目）
+  - 「同社の「優れた製品を供給して社会に貢献する」という理念と、それを具現化する「自前主義」のビジネスモデルが、今後も揺るぎない価値を生み出し続ける可能性は高いと考えられます」（https://note.com/tatsuya_sabato/n/n9be8d14c5026・3回目）
+- 誰に：
+  - 「早く能力増強でき、素早く品質を向上させ、お客様の多種多様にわたるニーズを充足させることができるのです」（https://www.uniontool.co.jp/ir/faq.html・1回目）
+  - 「また、通信環境やお客様のコンピュータの状況、その他の理由により当ウェブサイトを正常に利用できない場合があります」（https://www.uniontool.co.jp/ir/disclaimer.html・1回目）
+  - 「顧客が抱える課題を解決し、生産性の向上に貢献し、最終的には社会全体の発展に寄与するものでなければならない、という強い意志が込められています」（https://note.com/tatsuya_sabato/n/n9be8d14c5026・3回目）
+  - 「この理念が、後述する徹底した品質管理や、顧客との密接なリレーションシップ構築に繋がっているのです」（https://note.com/tatsuya_sabato/n/n9be8d14c5026・3回目）
+  - 「顧客であるプリント配線板メーカーや金型メーカーの生産ラインにおいて、」（https://note.com/tatsuya_sabato/n/n9be8d14c5026・3回目）
+  - 「そのため、顧客は価格の安さだけで製品を選ぶことはありません」（https://note.com/tatsuya_sabato/n/n9be8d14c5026・3回目）
+  - 「また、世界中に広がる販売網を通じて、特定の地域や特定の顧客に依存しない、バランスの取れた収益ポートフォリオを構築している点も、経営の安定性に大きく寄与しています」（https://note.com/tatsuya_sabato/n/n9be8d14c5026・3回目）
+  - 「顧客から「もっと硬い素材に対応できるドリルが欲しい」「さらに微細な穴を開けたい」といった新しいニーズが寄せられた際、ユニオンツールは即座に社内の設備開発部門と連携し、新しい製品仕様に最適化された生産設備を設計・製造することができます」（https://note.com/tatsuya_sabato/n/n9be8d14c5026・3回目）
+  - 「顧客との対話の中から未来のニーズを先読みし、次世代の製品開発に繋げる体制が整っています」（https://note.com/tatsuya_sabato/n/n9be8d14c5026・3回目）
+  - 「世界各地の現地法人が、単なる販売代理店ではなく、地域の顧客に対する技術サポートの拠点としても機能しています」（https://note.com/tatsuya_sabato/n/n9be8d14c5026・3回目）
+  - 「顧客の生産ラインで発生した課題に対し、専門知識を持った営業担当者や技術者が迅速に対応することで、単なる「モノ売り」ではない、**「ソリューション提供」**という形で深い信頼関係を築いています」（https://note.com/tatsuya_sabato/n/n9be8d14c5026・3回目）
+  - 「製品の再研磨サービスなども手掛けており、顧客のトータルコスト削減に貢献しています」（https://note.com/tatsuya_sabato/n/n9be8d14c5026・3回目）
+- 何を：
+  - 「生体センサ関連製品」（https://www.uniontool.co.jp/・1回目）
+  - 「UNIMAXエンドミル 製品検索ツール」（https://www.uniontool.co.jp/・1回目）
+  - 「超硬エンドミル・ドリル UNIMAXシリーズから、お探しの工具を検索できる製品検索システムです」（https://www.uniontool.co.jp/・1回目）
+  - 「情報提供サービス」（https://www.uniontool.co.jp/・1回目）
+  - 「加工機用CAMデータ・生体センサ製品の取扱説明書を含む関連情報など、こちらよりダウンロードいただけます」（https://www.uniontool.co.jp/・1回目）
+  - 「超硬エンドミルφ8mmシャンク以上製品 受注および納期に関するお願い」（https://www.uniontool.co.jp/・1回目）
+  - 「超硬エンドミルφ8mmシャンク以上製品 価格改定のご案内」（https://www.uniontool.co.jp/・1回目）
+  - 「ユニオンツールでは各種展示会に製品を出展しております」（https://www.uniontool.co.jp/・1回目）
+  - 「実際の製品をご覧になりたい方はぜひ展示会にお越しください」（https://www.uniontool.co.jp/・1回目）
+  - 「製品に関するお問い合わせはこちら」（https://www.uniontool.co.jp/・1回目）
+  - 「生体センサ関連製品」（https://www.uniontool.co.jp/corporate/outline.html・1回目）
+  - 「優れた製品を供給して社会に貢献する」（https://www.uniontool.co.jp/corporate/outline.html・1回目）
+- どうやって売るか：
+  - 「会社紹介動画」（https://www.uniontool.co.jp/・1回目）
+  - 「会社概要や沿革など、基本的な会社情報をご紹介します」（https://www.uniontool.co.jp/・1回目）
+  - 「決算ダイジェストや株主情報など、投資家向け情報をご紹介します」（https://www.uniontool.co.jp/・1回目）
+  - 「環境への取り組みや芸術文化支援活動など社会貢献活動をご紹介します」（https://www.uniontool.co.jp/・1回目）
+  - 「各種メディアの掲載実績を紹介しています」（https://www.uniontool.co.jp/・1回目）
+  - 「会社紹介動画」（https://www.uniontool.co.jp/corporate/outline.html・1回目）
+  - 「会社紹介動画 | ユニオンツール株式会社」（https://www.uniontool.co.jp/corporate/about.html・1回目）
+  - 「会社紹介動画」（https://www.uniontool.co.jp/corporate/about.html・1回目）
+  - 「会社紹介ムービー」（https://www.uniontool.co.jp/corporate/about.html・1回目）
+  - 「会社紹介動画」（https://www.uniontool.co.jp/corporate/history.html・1回目）
+  - 「会社紹介動画」（https://www.uniontool.co.jp/ir/・1回目）
+  - 「会社紹介動画」（https://www.uniontool.co.jp/ir/about/index.html・1回目）
+- お金の形：
+  - 「堅実経営は美点である一方、過度に保守的になり、大胆な投資の機会を逃してしまう可能性も否定できません」（https://note.com/tatsuya_sabato/n/n9be8d14c5026・3回目）
+- 売上構成：
+  - 「セグメント情報」（https://kitaishihon.com/company/6278/business・3回目）
+  - 「※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります」（https://kitaishihon.com/company/6278/business・3回目）
+  - 「※セグメントの売上や利益は、企業毎にその定義が異なる場合があります」（https://kitaishihon.com/company/6278/business・3回目）
+  - 「セグメント名」（https://kitaishihon.com/company/6278/business・3回目）
+  - 「売上構成比率」（https://kitaishihon.com/company/6278/business・3回目）
+  - 「利益構成比率」（https://kitaishihon.com/company/6278/business・3回目）
+  - 「「日本」、「アジア」、「北米」および「欧州」の各セグメントで、以下の製品の製造・販売を行なっております」（https://kitaishihon.com/company/6278/business・3回目）
+  - 「次にセグメント別の状況ですが、日本では、」（https://kitaishihon.com/company/6278/business・3回目）
+  - 「売上高(セグメント間取引消去額を含む」（https://kitaishihon.com/company/6278/business・3回目）
+  - 「)となり、セグメント利益(営業利益)は」（https://kitaishihon.com/company/6278/business・3回目）
+  - 「)となり、セグメント利益は」（https://kitaishihon.com/company/6278/business・3回目）
+  - 「)、セグメント利益は」（https://kitaishihon.com/company/6278/business・3回目）
+- 利益の源泉：
+  - 「当社は、プリント配線板用超硬ドリル（PCBドリルといいます）を中心に、産業用切削工具に強みを持つ機械工具メーカーです」（https://www.uniontool.co.jp/ir/faq.html・1回目）
+  - 「その他、ドリル製造設備の自社開発、業界で唯一世界拠点を整備している、強固な財務体質、高収益性など、小さくてもひと味違う特徴を合わせ持っています」（https://www.uniontool.co.jp/ir/faq.html・1回目）
+  - 「このユニークな経営哲学は、同社にどのような競争優位性をもたらし、そして未来の成長にどう繋がっていくのでしょうか」（https://note.com/tatsuya_sabato/n/n9be8d14c5026・3回目）
+  - 「ユニオンツールの最大の強み、そして競合優位性の源泉は、**「生産設備のほぼ100%を自社で開発・製造している」**という、他に類を見ない徹底した“自前主義”にあります」（https://note.com/tatsuya_sabato/n/n9be8d14c5026・3回目）
+  - 「これにより、技術の核心部分が完全にブラックボックス化され、競合他社が容易に模倣できない、極めて高い参入障壁を築き上げています」（https://note.com/tatsuya_sabato/n/n9be8d14c5026・3回目）
+  - 「前述の通り、内製化した超高性能な生産設備が最大の強みです」（https://note.com/tatsuya_sabato/n/n9be8d14c5026・3回目）
+  - 「PL（損益計算書）：安定した高収益体質」（https://note.com/tatsuya_sabato/n/n9be8d14c5026・3回目）
+  - 「ユニオンツールの損益計算書を定性的に見ると、その特徴は**「安定的に高い営業利益率」**に集約されます」（https://note.com/tatsuya_sabato/n/n9be8d14c5026・3回目）
+  - 「こうした地道な人財育成が、同社の強みである「自前主義」を未来へと繋いでいくのです」（https://note.com/tatsuya_sabato/n/n9be8d14c5026・3回目）
+  - 「強みである生産設備の内製化をさらに推し進め、生産効率の向上と原価低減を追求します」（https://note.com/tatsuya_sabato/n/n9be8d14c5026・3回目）
+  - 「「生産設備の100%内製化」という模倣困難なビジネスモデルが、技術・コスト・スピードの全てにおいて強力な参入障壁を構築している」（https://note.com/tatsuya_sabato/n/n9be8d14c5026・3回目）
+  - 「決算短信・有報・適時開示から日本企業の強み・成長余地・リスクを整理」（https://note.com/tatsuya_sabato/n/n9be8d14c5026・3回目）
+- 沿革：
+  - 「2026年展示会予定表を掲載いたしました」（https://www.uniontool.co.jp/・1回目）
+  - 「会社概要や沿革など、基本的な会社情報をご紹介します」（https://www.uniontool.co.jp/・1回目）
+  - 「2025年展示会予定表を掲載いたしました」（https://www.uniontool.co.jp/・1回目）
+  - 「沿革 | ユニオンツール株式会社」（https://www.uniontool.co.jp/corporate/history.html・1回目）
+  - 「1960年の創業以来”本業に専心し、高品質・高技術で社会に貢献する”企業でありたいと努力してまいりました」（https://www.uniontool.co.jp/ir/faq.html・1回目）
+  - 「2026年8月28日(金)10:00～17:00」（https://www.uniontool.co.jp/news/20260828.html・1回目）
+  - 「2026年8月29日(土)10:00～17:00」（https://www.uniontool.co.jp/news/20260828.html・1回目）
+  - 「2026年8月28日(金)15:30～15:55」（https://www.uniontool.co.jp/news/20260828.html・1回目）
+  - 「2025年8月25日 20:14」（https://note.com/tatsuya_sabato/n/n9be8d14c5026・3回目）
+  - 「設立と沿革：小さな研究所から世界企業へ」（https://note.com/tatsuya_sabato/n/n9be8d14c5026・3回目）
+  - 「1989年に株式を店頭公開し、1998年には東京証券取引所第一部（現・プライム市場）への上場を果たすなど、その歩みは常に堅実そのものです」（https://note.com/tatsuya_sabato/n/n9be8d14c5026・3回目）
+  - 「2025年12月期有価証券報告書より」（https://kitaishihon.com/company/6278/business・3回目）
+- 検索結果の抜粋：
+  - 「ユニオンツール の強さ | ユニオンツール 採用サイト — ユニオンツール の強さ | ユニオンツール 採用サイト ユニオンツール株式会社 https://www.uniontool.co.jp > recruit > strength」（https://www.uniontool.co.jp/recruit/strength/・3回目）
+  - 「ユニオンツール 株式会社 会社紹介ムービー(ダイジェスト) — ユニオンツール 株式会社 会社紹介ムービー(ダイジェスト) YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=wlr_iOuTllM・3回目）
+  - 「会社概要 | ユニオンツール 株式会社 — 会社概要 | ユニオンツール 株式会社 ユニオンツール株式会社 https://www.uniontool.co.jp > corporate > outline」（https://www.uniontool.co.jp/corporate/outline.html・3回目）
+  - 「よくあるご質問 | ユニオンツール 株式会社 — よくあるご質問 | ユニオンツール 株式会社 ユニオンツール株式会社 https://www.uniontool.co.jp > faq」（https://www.uniontool.co.jp/ir/faq.html・3回目）
+  - 「決算説明 会 資料 | ユニオンツール 株式会社 — 決算説明 会 資料 | ユニオンツール 株式会社 ユニオンツール株式会社 https://www.uniontool.co.jp > library > results」（https://www.uniontool.co.jp/ir/library/results.html・3回目）
+  - 「ユニオンツール 【6278】のIR 資料 - バフェット・コード — ユニオンツール 【6278】のIR 資料 - バフェット・コード バフェット・コード https://www.buffett-code.com > company > library」（https://www.buffett-code.com/company/6278/library・3回目）
+  - 「【 ユニオンツール 】[6278]IR情報 中期経営計画や 決算 短信 — 【 ユニオンツール 】[6278]IR情報 中期経営計画や 決算 短信 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo」（https://www.nikkei.com/nkd/company/kigyo/?scode=6278・3回目）
+  - 「ユニオンツール 【6278】の最新 決算 発表、業績修正 - 株探 — ユニオンツール 【6278】の最新 決算 発表、業績修正 - 株探 株探 https://kabutan.jp > ユニオンツール (6278) > 決算」（https://kabutan.jp/stock/finance?code=6278・3回目）
+  - 「ユニオンツール （6278）のIR情報・ 決算資料 - IRBANK — ユニオンツール （6278）のIR情報・ 決算資料 - IRBANK IRBANK https://irbank.net > ユニオンツール」（https://irbank.net/6278/ir・3回目）
+  - 「ユニオンツール 【6278】の 事業 内容 - キタイシホン — ユニオンツール 【6278】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/6278/business・3回目）
+  - 「拠点紹介 | ユニオンツール 採用サイト — 拠点紹介 | ユニオンツール 採用サイト ユニオンツール株式会社 https://www.uniontool.co.jp > recruit > location」（https://www.uniontool.co.jp/recruit/location/・3回目）
+  - 「ユニオンツール 株式会社 長岡工場 - NAZE — ユニオンツール 株式会社 長岡工場 - NAZE na-ze.jp http://na-ze.jp > 会員企業・団体 > 機器装置製造組立」（http://na-ze.jp/database/%E3%83%A6%E3%83%8B%E3%82%AA%E3%83%B3%E3%83%84%E3%83%BC%E3%83%AB%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E9%95%B7%E5%B2%A1%E5%B7%A5%E5%A0%B4/・3回目）
+
+## ユミルリンク
+- 公式URL：https://www.ymir.co.jp/（search:yahoo_jp:ユミルリンク）
+- ビジネスモデル：
+  - 「ビジネスモデルまたはその活用方式で、利用者はインターネットに接続可能な端末とブラウザ（インターネット」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100VGDU.pdf・3回目）
+  - 「でサービス提供できるノウハウを有する垂直統合型のビジネスモデルにより手掛けております」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100VGDU.pdf・3回目）
+  - 「［事業系統図］」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100VGDU.pdf・3回目）
+  - 「当社グループの事業系統図は以下のとおりであります」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100VGDU.pdf・3回目）
+  - 「ケールメリットを得やすいビジネスモデルのため、基本的には堅調な事業推進が可能となっております」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100VGDU.pdf・3回目）
+- 誰に：
+  - 「企業と顧客とのコミュニケーション構築を支援する」（https://www.ymir.co.jp/・1回目）
+  - 「三菱 UFJ 銀行に個人顧客向けのマーケティングメール配信サービスを提供 ～的確な情報をダイレクトに届ける配信サービスで非対面チャネルを強化～」（https://www.ymir.co.jp/info/・1回目）
+  - 「Salesforceと連携する「Cuenote SMS for Salesforce」を提供開始～Salesforceの管理画面からシームレスにSMSを送信、利用者の業務効率を向上～」（https://www.ymir.co.jp/info/・1回目）
+  - 「「登録した覚えのないメールマガジン」は迷惑メールと判断！？ ～メールマガジン登録ユーザーの動向調査に関するレポートを公開～」（https://www.ymir.co.jp/info/・1回目）
+  - 「メルマガ購読は1分以内が7割弱 ライトアップとの共同調査でわかったメルマガユーザーのリアルな動向」（https://www.ymir.co.jp/info/・1回目）
+  - 「VMware Carbon Blackの導入企業としてユミルリンクが紹介されました」（https://www.ymir.co.jp/info/・1回目）
+  - 「メール配信システム「Cuenote FC」においてフリークエンシー機能を提供開始 ～過度なコミュニケーションを自動回避、顧客との良好な関係を維持～」（https://www.ymir.co.jp/info/・1回目）
+  - 「メール配信システム「Cuenote FC」にてカートリマインド機能を提供開始～カート放棄ユーザーへメールでリマインド、機会損失を低減～」（https://www.ymir.co.jp/info/・1回目）
+  - 「「Cuenoteシリーズ」がメール送信市場で製品の10要素のうち8要素で顧客満足度1位を獲得 ～機能の充実度、セキュリティ（個人情報漏洩対策など）をはじめとする8つの要素で顧客満足度1位に～」（https://www.ymir.co.jp/info/・1回目）
+  - 「メール配信システム「Cuenote FC」を大幅に機能拡充、ユーザーの利用端末ごとに最適なメールを自動で送り分け可能に」（https://www.ymir.co.jp/info/・1回目）
+  - 「アンケートシステム「Cuenote Survey」にパラメーター記録機能を追加、個人情報を取得せずに顧客識別や経路分析が可能に」（https://www.ymir.co.jp/info/・1回目）
+  - 「メール配信システム「Cuenote FC」、ユーザー属性別の分析が容易に」（https://www.ymir.co.jp/info/・1回目）
+- 何を：
+  - 「メッセージングソリューションのユミルリンク」（https://www.ymir.co.jp/・1回目）
+  - 「ソリューションの」（https://www.ymir.co.jp/・1回目）
+  - 「企業におけるインターネットでのコミュニケーション課題をトータルに解決する、メッセージングソリューションを提供しています」（https://www.ymir.co.jp/・1回目）
+  - 「Brotliの脆弱性のCuenoteサービスに関する影響はございません」（https://www.ymir.co.jp/・1回目）
+  - 「PHPの脆弱性のCuenoteサービスに関する影響はございません」（https://www.ymir.co.jp/・1回目）
+  - 「メッセージングソリューションを提供しています」（https://www.ymir.co.jp/・1回目）
+  - 「SMS配信サービス」（https://www.ymir.co.jp/・1回目）
+  - 「安否確認サービス」（https://www.ymir.co.jp/・1回目）
+  - 「ユミルリンクについて｜メッセージングソリューションのユミルリンク」（https://www.ymir.co.jp/about/・1回目）
+  - 「NEWS｜メッセージングソリューションのユミルリンク」（https://www.ymir.co.jp/info/・1回目）
+  - 「Brotliの脆弱性のCuenoteサービスに関する影響はございません」（https://www.ymir.co.jp/info/・1回目）
+  - 「PHPの脆弱性のCuenoteサービスに関する影響はございません」（https://www.ymir.co.jp/info/・1回目）
+- どうやって売るか：
+  - 「ユミルリンク、サイボウズの「オフィシャルパートナー」に認定」（https://www.ymir.co.jp/info/・1回目）
+  - 「VMware Carbon Blackの導入企業としてユミルリンクが紹介されました」（https://www.ymir.co.jp/info/・1回目）
+  - 「マイナビ出版の「Web Designing」に当社のメール配信システム「Cuenote パートナー制度」に関する取材記事が掲載されました」（https://www.ymir.co.jp/info/・1回目）
+  - 「多店舗展開する企業向けに本部管理機能を拡充、 メール配信システムの会員情報を集約・一元管理」（https://www.ymir.co.jp/info/・1回目）
+  - 「取引先との健全なパートナーシップを構築するため、関連法令等を引き続き遵守してまいります」（https://www.ymir.co.jp/sustainability/・1回目）
+  - 「当社グループでは、事業拡大にあたり販売代理店を活用する場合があり、その際には当社サービス提供の対価の」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100VGDU.pdf・3回目）
+  - 「受領は販売代理店を経由して行われております」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100VGDU.pdf・3回目）
+  - 「てステークホルダー（お客様、ビジネスパートナー、地域社会、株主・投資家、従業員）と良好な関係を築くとと」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100VGDU.pdf・3回目）
+  - 「及び販売代理店との関係悪化が発生した場合、当社の業績に影響を及ぼす可能性があります」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100VGDU.pdf・3回目）
+  - 「きな取引先の解約を防ぐとともに、販売代理店との良好な関係を強化して顧客数の増加を図ることで、」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100VGDU.pdf・3回目）
+  - 「代理店販売の委託を行っています」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100VGDU.pdf・3回目）
+  - 「当社は、Cuenoteの代理店販売を除き、親会社グループとの取引削減を進める方針ですが、今後も継続」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100VGDU.pdf・3回目）
+- お金の形：
+  - 「メールリレーサービス「Cuenote SR-S」 月額27,000円（税込29,700円）から利用できる新プランを提供開始 〜トランザクションメール送信を行いたい企業の幅広いニーズに対応～」（https://www.ymir.co.jp/info/・1回目）
+  - 「メールリレーサーバーCuenote SR-SのASPサービスを提供開始、月額7万5,000円からの定額制料金プランを採用」（https://www.ymir.co.jp/info/・1回目）
+  - 「メール配信システム Forcast を Cuenote FC へ名称変更、月額 1万円～の ASP サービスプランを拡充」（https://www.ymir.co.jp/info/・1回目）
+  - 「月額あたり3000円の低価格メール配信サービス「めるまが」提供開始」（https://www.ymir.co.jp/info/・1回目）
+  - 「システムの開発・運用・保守を全て自社で行っており、高速処理に必要なパフォーマンスチューニングやISP毎に確実にメールを届けるための分析などはもちろん、営業・サポート宛に寄せられる機能追加・改善のご要望等のフィードバックを反映しながら、日々進化を続けています」（https://www.ymir.co.jp/products/・1回目）
+  - 「ステム保守やソフトウエア更新など専門性の高いサービスが提供されます」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100VGDU.pdf・3回目）
+  - 「続ける限りサービス利用売上が計上されるサブスクリプション型収益であり、新規顧客獲得や既存顧客のプラン」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100VGDU.pdf・3回目）
+  - 「し安定的な収益基盤となることから、定期契約額（SaaSのサービス利用売上や買取型ソフトウエアの保守売上な」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100VGDU.pdf・3回目）
+  - 「に影響する期末の定期契約額(月次経常収益)とメールサービスの解約率の推移を管理しております」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100VGDU.pdf・3回目）
+  - 「全・信頼性」「利便性」「経済的合理性」の向上を踏まえ、企画、設計、開発、運用、販売、保守を一気通貫」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100VGDU.pdf・3回目）
+  - 「(定額・従量制)」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100VGDU.pdf・3回目）
+  - 「器を選ばない簡便さや、サーバ等の資産を持たず、保守体制のアウトソーシング化も可能であり、それらがメ」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100VGDU.pdf・3回目）
+- 売上構成：
+  - 「「Cuenote SMS」、セグメント配信など複数の機能追加を実施」（https://www.ymir.co.jp/info/・1回目）
+  - 「メール配信システム「Cuenote FC」にて Webトラッキング機能を提供開始 ～Webサイトの行動履歴に応じたセグメント・シナリオ配信が可能に～」（https://www.ymir.co.jp/info/・1回目）
+  - 「（注）当社グループは単一セグメントであるため、会社別に記載しております」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100VGDU.pdf・3回目）
+  - 「２．当社はメッセージングソリューション事業の単一セグメントであるため、事業部門別の従業員数を記載し」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100VGDU.pdf・3回目）
+  - 「そのほか、当社グループはメッセージングソリューション事業の単一セグメントであるため、セグメントご」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100VGDU.pdf・3回目）
+  - 「業の単一セグメントであるため提供サービス別に記載しております」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100VGDU.pdf・3回目）
+  - 「なお、当社グループはメッセージングソリューション事業の単一セグメントであるため、セグメントごとの記載は」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100VGDU.pdf・3回目）
+  - 「２．当社は、メッセージングソリューション事業の単一セグメントであるためセグメント別の記載を省略して」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100VGDU.pdf・3回目）
+- 利益の源泉：
+  - 「ライトアップとの共同調査でわかったマーケティングにおける強みと特徴」（https://www.ymir.co.jp/info/・1回目）
+  - 「ラジオNIKKEI「経営トップに聞く！強みと人材戦略」に当社代表が出演いたしました」（https://www.ymir.co.jp/info/・1回目）
+  - 「ー 特徴と強み」（https://www.ymir.co.jp/ir/news/・1回目）
+  - 「特徴と強み｜ユミルリンクについて｜メッセージングソリューションのユミルリンク」（https://www.ymir.co.jp/about/features.html・1回目）
+  - 「断するための客観的な指標等」に記載のとおり、主な経営指標として売上高、営業利益、営業利益率に」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100VGDU.pdf・3回目）
+  - 「営業利益率 23.9％」（https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100VGDU.pdf・3回目）
+- 沿革：
+  - 「2026年11月6日開催「Web担当者Forumミーティング2026秋」に登壇いたします」（https://www.ymir.co.jp/info/・1回目）
+  - 「2026年7月11日開催「type転職フェア」に出展いたします《ブースNo.45》」（https://www.ymir.co.jp/info/・1回目）
+  - 「2026年6月17日開催「宣伝会議サミット」に登壇いたします」（https://www.ymir.co.jp/info/・1回目）
+  - 「2025年11月26日開催「宣伝会議サミット」に登壇いたします」（https://www.ymir.co.jp/info/・1回目）
+  - 「2026年10月19日にお知らせした内容に、その後の調査で判明した事項と当社の対応を加え、報告を更新いたします」（https://www.ymir.co.jp/info/ymir-information20261027.html・1回目）
+  - 「2026年10月16日(金)に当社担当者が一部システムにおいて不正アクセスが生じていることを確認いたしました」（https://www.ymir.co.jp/info/ymir-information20261027.html・1回目）
+  - 「2026年10月21日にセキュリティアップデートが公開されたPHPの脆弱性（CVE-2026-109618、CVE-2026-109619）につきまして、Cuenoteサービスへの影響はございません」（https://www.ymir.co.jp/info/ymir-information202610222.html・1回目）
+  - 「2026年10月26日」（https://www.ymir.co.jp/ir/news/・1回目）
+  - 「2026年10月19日」（https://www.ymir.co.jp/ir/news/・1回目）
+  - 「2026年10月14日」（https://www.ymir.co.jp/ir/news/・1回目）
+  - 「2026年10月09日」（https://www.ymir.co.jp/ir/news/・1回目）
+  - 「2026年12月期 第3四半期の決算発表は、2026年11月13日（金）11時30分頃を予定しております」（https://www.ymir.co.jp/ir/news/・1回目）
+- 検索結果の抜粋：
+  - 「事業内容｜ ユミルリンク について — 事業内容｜ ユミルリンク について ymir.co.jp https://www.ymir.co.jp > about > business」（https://www.ymir.co.jp/about/business.html・3回目）
+  - 「ユミルリンク 【4372】の人的資本 - キタイシホン — ユミルリンク 【4372】の人的資本 - キタイシホン キタイシホン https://kitaishihon.com > company > human-capital」（https://kitaishihon.com/company/4372/human-capital・3回目）
+  - 「ユミルリンク 、売上・営業利益ともに過去最高を更新 SaaS ... — ユミルリンク 、売上・営業利益ともに過去最高を更新 SaaS ... ログミーFinance https://finance.logmi.jp > articles」（https://finance.logmi.jp/articles/383930・3回目）
+  - 「ユミルリンク 社のクラウド型 メール 配信システムを支える ... — ユミルリンク 社のクラウド型 メール 配信システムを支える ... さくらインターネット https://case.sakura.ad.jp > case」（https://case.sakura.ad.jp/case/386/・3回目）
+  - 「決算説明資料 ｜メッセージングソリューションの ユミルリンク — 決算説明資料 ｜メッセージングソリューションの ユミルリンク ymir.co.jp https://www.ymir.co.jp > library > presentation」（https://www.ymir.co.jp/ir/library/presentation/・3回目）
+  - 「IR情報｜メッセージングソリューションの ユミルリンク — IR情報｜メッセージングソリューションの ユミルリンク ymir.co.jp https://www.ymir.co.jp > ...」（https://www.ymir.co.jp/ir/・3回目）
+  - 「ユミルリンク 株式会社 - ログミーファイナンス - logmi Finance — ユミルリンク 株式会社 - ログミーファイナンス - logmi Finance ログミーFinance https://finance.logmi.jp > companies」（https://finance.logmi.jp/companies/1327・3回目）
+  - 「ユミルリンク [4372]：2025年12月期通期 決算説明資料 2026年 ... — ユミルリンク [4372]：2025年12月期通期 決算説明資料 2026年 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr」（https://www.nikkei.com/nkd/disclosure/tdnr/20260213558955/・3回目）
+  - 「ユミルリンク _IR (@Ymirlink_IR) / X — ユミルリンク _IR (@Ymirlink_IR) / X X https://x.com > Ymirlink_IR」（https://x.com/Ymirlink_IR・3回目）
+  - 「会社概要｜ ユミルリンク について — 会社概要｜ ユミルリンク について ymir.co.jp https://www.ymir.co.jp > about > corporate」（https://www.ymir.co.jp/about/corporate.html・3回目）
+  - 「ユミルリンク のメール配信サービスの一部サーバシステムに ... — ユミルリンク のメール配信サービスの一部サーバシステムに ... ScanNetSecurity https://scan.netsecurity.ne.jp > article > 2026/10/22」（https://scan.netsecurity.ne.jp/article/2026/10/22/56541.html・3回目）
+  - 「ユミルリンク 株式会社 中期経営計画 - EDINET DB — ユミルリンク 株式会社 中期経営計画 - EDINET DB EDINET DB https://edinetdb.jp > ユミルリンク株式会社 > IR資料」（https://edinetdb.jp/company/E36905/midterm-plans/・3回目）
+- 設立：記載なし（3回確認済み：公式25頁／PDF・画像1件／外部4頁・検索5回）
+- 従業員数：記載なし（3回確認済み：公式25頁／PDF・画像1件／外部4頁・検索5回）
+- 事業内容：記載なし（3回確認済み：公式25頁／PDF・画像1件／外部4頁・検索5回）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像1件／外部4頁・検索5回）
+
 ## ユー・エス・エス
 - 公式URL：特定できず（not_found）
 - 設立：1980年10月29日（https://www.ussnet.co.jp/corporate/company/index.html・3回目）
@@ -14460,6 +21246,235 @@
 - 売上高：記載なし（3回確認済み：公式25頁／PDF・画像6件／外部4頁・検索5回）
 - 売上構成：記載なし（3回確認済み：公式25頁／PDF・画像6件／外部4頁・検索5回）
 
+## リップス
+- 公式URL：https://lipps.co.jp/（search:yahoo_jp:リップス）
+- 設立：2008年4月8日（https://lipps.co.jp/company/・1回目）
+- 従業員数：48名 ※ 2025年8月31日時点 アルバイトは含まない（https://lipps.co.jp/company/・1回目）
+- 事業内容：化粧品の企画・販売及びサロンのフランチャイズ運営（https://lipps.co.jp/company/・1回目）
+- ビジネスモデル：
+  - 「ビジネスモデル」（https://sme-support-navi.jp/2026lippsipojigyoukeikaku/・3回目）
+  - 「会社概要・ビジネスモデル・優位性・成長戦略」（https://sme-support-navi.jp/2026lippsipojigyoukeikaku/・3回目）
+  - 「ビジネスモデル：商品とサロンの両面展開」（https://sme-support-navi.jp/2026lippsipojigyoukeikaku/・3回目）
+  - 「リップスのビジネスモデルは、」（https://sme-support-navi.jp/2026lippsipojigyoukeikaku/・3回目）
+  - 「本記事では、クラシコ株式会社のIPOに関する基本情報を整理したうえで、「事業計画及び成長可能性に関する事項」をもとに、会社概要、ビジネスモデル、競争優位性、成長戦略について分かりやすく解説します」（https://sme-support-navi.jp/2026lippsipojigyoukeikaku/・3回目）
+  - 「株式会社フツパーのIPOに学ぶ、中小企業経営に活かせるビジネスモデルと競争力のつくり方」（https://sme-support-navi.jp/2026lippsipojigyoukeikaku/・3回目）
+  - 「本記事では、株式会社フツパーのIPO情報と「事業計画及び成長可能性に関する事項」をもとに、特にビジネスモデルと競争力の源泉に焦点を当て、中小企業経営にどのような示唆があるのかを読み解いていきます」（https://sme-support-navi.jp/2026lippsipojigyoukeikaku/・3回目）
+  - 「株式会社フィットクルーのIPOに学ぶ、中小企業が成長産業で勝つためのビジネスモデルとは」（https://sme-support-navi.jp/2026lippsipojigyoukeikaku/・3回目）
+  - 「本記事では、株式会社フィットクルーのIPO情報を整理するとともに、「事業計画及び成長可能性に関する事項」を読み解きながら、中小企業経営者・支援者にとって参考となるビジネスモデルや競争力の源泉、成長戦略について解説します」（https://sme-support-navi.jp/2026lippsipojigyoukeikaku/・3回目）
+  - 「なお、商品事業の事業系統図は以下のとおりとなります」（https://www.jpx.co.jp/listing/stocks/new/um3qrc000001jhyo-att/06LIPPS-1s.pdf・3回目）
+  - 「なお、サロンフランチャイズ事業の事業系統図は以下のとおりとなります」（https://www.jpx.co.jp/listing/stocks/new/um3qrc000001jhyo-att/06LIPPS-1s.pdf・3回目）
+- 誰に：
+  - 「「カッコいい」を求めるユーザーが」（https://lipps.co.jp/・1回目）
+  - 「指を触れただけで、シザーの違いがわかるため、お客様から目を離すことなくシザーを取ることができます」（https://lipps.co.jp/history-of-lipps/・1回目）
+  - 「肌が荒れるシャンプーが、お客様の髪に良いわけがありません」（https://lipps.co.jp/history-of-lipps/・1回目）
+  - 「「お客様の髪を美しくしたい」「洗えば洗うほど、髪の毛がきれいになっていく」（https://lipps.co.jp/history-of-lipps/・1回目）
+  - 「日々、鏡の中でお客様と向き合いながら、私たちが強く感じてきたのは、すべての人はカッコいい、ということ」（https://lipps.co.jp/history-of-lipps/・1回目）
+  - 「また、永くつづくメンズビューティーブランドである私たちには熱量の高いお客様・ファンがいます」（https://lipps.co.jp/ir/・1回目）
+  - 「日々、鏡の中でお客様と向き合いながら、私たちが強く感じてきたのは、すべての人はカッコいい、ということ」（https://lipps.co.jp/company/・1回目）
+  - 「これを強みとし、常に最新トレンドを取り入れながら、日々サロンですくい上げるお客様のリアルなニーズに応える確かなプロダクトを次々に生み出すブランドとして、日本の、そして世界のメンズビューティーのスタンダードを目指します」（https://lipps.co.jp/company/・1回目）
+  - 「お客様の中にあるカッコよさを引き出すことで、憧れをカタチにし、ありのままの自分を楽しむ背中を押しつづける」（https://lipps.co.jp/company/・1回目）
+  - 「指を触れただけで、シザーの違いがわかるため、お客様から目を離すことなくシザーと取ることができます」（https://lipps.co.jp/history-of-lipps-hair/・1回目）
+  - 「肌が荒れるシャンプーが、お客様の髪に良いわけがありません」（https://lipps.co.jp/history-of-lipps-hair/・1回目）
+  - 「「お客様の髪を美しくしたい」「洗えば洗うほど、髪の毛がきれいになっていく」（https://lipps.co.jp/history-of-lipps-hair/・1回目）
+- 何を：
+  - 「hairでも実際にこのヘアオイルを使っており、大人気商品の一つとなっています」（https://lipps.co.jp/history-of-lipps/・1回目）
+  - 「当社のスキンケア・メイクアップ商品ブランドである『LIPPS」（https://lipps.co.jp/history-of-lipps/・1回目）
+  - 「サロンで使用するプロツールであると同時に、多様な価値観と社会課題への関心を持つZ世代に共感していただける商品であることを目指し、約４年ぶりに「リップスヘアー」（https://lipps.co.jp/history-of-lipps/・1回目）
+  - 「『日本パッケージデザイン大賞2023（主催：公益社団法人日本パッケージデザイン協会）』にて銀賞を受賞、さらに『2023年度グッドデザイン賞（主催：公益財団法人日本デザイン振興会）』を受賞し、主力商品として更なる認知度の向上と販路の拡大につながりました」（https://lipps.co.jp/history-of-lipps/・1回目）
+  - 「以降、ヘアサロンは日本を代表するサロンブランドとなり、プロダクトもワックスやヘアオイルなどのヘアケア製品から、メンズビューティーにより踏み込んだメイクアップの領域まで展開を拡げています」（https://lipps.co.jp/ir/・1回目）
+  - 「私たちの活動で日々排出・生産されるCO２や石油由来製品が及ぼす影響を考え、環境負荷や気候変動の緩和のためのサステナビリティアクションのひとつとして日本財団の「海と日本PROJECT」を支援しています」（https://lipps.co.jp/company/・1回目）
+  - 「「デザイン」マニュアルの完成によってLIPPSのスタイリストは、常にお客様にハイクオリティーなサービスを提供できる技能を習得できるようになりました」（https://lipps.co.jp/history-of-lipps-hair/・1回目）
+  - 「創業以来「LIPPS」という統一ブランドでサロンや商品の事業を行ってきましたが、サロンサービスを事業単位で明確化するため「LIPPS」から「LIPPS」（https://lipps.co.jp/history-of-lipps-hair/・1回目）
+  - 「また、のれん分けによる新規出店が加速してきたことから、フランチャイズモデルの再構築に着手、店舗でのサービス品質のレベルを担保してくため、本部機能の強化を図りヘアサロングループとして新たな運営形態に進化していきました」（https://lipps.co.jp/history-of-lipps-hair/・1回目）
+  - 「2006年にはシャンプー・トリートメント、2007年にはワックスがリリースされ、以降も時代のトレンドに合わせた商品の改良や新開発の展開を進めています」（https://lipps.co.jp/service/・1回目）
+  - 「LIPPSは商品の質だけではなく、パッケージにもこだわります」（https://lipps.co.jp/service/・1回目）
+  - 「広がる商品展開と」（https://lipps.co.jp/service/・1回目）
+- どうやって売るか：
+  - 「ご紹介します」（https://lipps.co.jp/・1回目）
+  - 「どの店舗のだれが担当になっても、ハイクオリティーの施術を提供できる」（https://lipps.co.jp/history-of-lipps/・1回目）
+  - 「「LIPPS」をメンズビューティーブランドとして発展させるため、ヘアサロンを直営していた株式会社リップスの社名を株式会社リップスヘアーに変更、経営権を従業員に譲渡、当社がフランチャイズ本部として店舗運営を支援継続していくよう事業整理しました」（https://lipps.co.jp/history-of-lipps/・1回目）
+  - 「株式会社レスプリは株式会社リップスに社名を変更し、野村キャピタル・パートナーズ株式会社と資本提携しました」（https://lipps.co.jp/history-of-lipps/・1回目）
+  - 「化粧品の企画・販売及びサロンのフランチャイズ運営」（https://lipps.co.jp/company/・1回目）
+  - 「どの店舗のだれが担当になっても、ハイクオリティーの施術を提供できる」（https://lipps.co.jp/history-of-lipps-hair/・1回目）
+  - 「店舗の呼称を「LIPPS」から」（https://lipps.co.jp/history-of-lipps-hair/・1回目）
+  - 「hair」へと店舗名称を変更しました」（https://lipps.co.jp/history-of-lipps-hair/・1回目）
+  - 「また、のれん分けによる新規出店が加速してきたことから、フランチャイズモデルの再構築に着手、店舗でのサービス品質のレベルを担保してくため、本部機能の強化を図りヘアサロングループとして新たな運営形態に進化していきました」（https://lipps.co.jp/history-of-lipps-hair/・1回目）
+  - 「オンライン販売・販売店舗拡大に努めています」（https://lipps.co.jp/service/・1回目）
+  - 「当社はフランチャイズ本部として、LIPPS」（https://lipps.co.jp/service/・1回目）
+  - 「メンズカットに特化したオリジナルのマニュアルと教育システムにより、店舗・スタッフを問わずに高クオリティの施術をお客様へ提供することができます」（https://lipps.co.jp/service/・1回目）
+- お金の形：
+  - 「~スキンケア・メイクアップ用品の月額購入平均金額（円）」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250630/20250629503705.pdf・3回目）
+  - 「※１：2024年 LIPPS hairのPOS実績、当社調べ ※2：LIPPS商品販売数は、24年8月期の商品販売高を商品単価で割った概算数字」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250630/20250629503705.pdf・3回目）
+  - 「CPA（顧客獲得単価）」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250630/20250629503705.pdf・3回目）
+  - 「有償ストック・オプション（新株予約権）の発行内容確定に関するお知らせ」（https://www.nikkei.com/nkd/company/kigyo/?scode=373A・3回目）
+  - 「有償ストック・オプション（新株予約権）の発行に関するお知らせ」（https://www.nikkei.com/nkd/company/kigyo/?scode=373A・3回目）
+  - 「とから、人件費や支払手数料等が前年同期比で65,285千円増加しました」（https://www.jpx.co.jp/listing/stocks/new/um3qrc000001jhyo-att/06LIPPS-1s.pdf・3回目）
+  - 「加に伴い運送費が増加したこと、組織体制の構築・整備を行うために支払手数料や人件費などが増加したことなど」（https://www.jpx.co.jp/listing/stocks/new/um3qrc000001jhyo-att/06LIPPS-1s.pdf・3回目）
+  - 「① 【ストックオプション制度の内容】」（https://www.jpx.co.jp/listing/stocks/new/um3qrc000001jhyo-att/06LIPPS-1s.pdf・3回目）
+  - 「・取締役の報酬額 年額200,000千円以内（2021年６月15日開催の定時株主総会で決議されており、決議時点で」（https://www.jpx.co.jp/listing/stocks/new/um3qrc000001jhyo-att/06LIPPS-1s.pdf・3回目）
+  - 「・監査役の報酬額 年額 30,000千円以内（2024年８月28日開催の臨時株主総会で決議されており、決議時点で」（https://www.jpx.co.jp/listing/stocks/new/um3qrc000001jhyo-att/06LIPPS-1s.pdf・3回目）
+  - 「また当社の役員報酬等 は、固定報酬を基本としてお り、無償ストック・オプション以外の業績連 動報酬は現時」（https://www.jpx.co.jp/listing/stocks/new/um3qrc000001jhyo-att/06LIPPS-1s.pdf・3回目）
+  - 「支払手数料 5,274 97,521 13,909 162,806」（https://www.jpx.co.jp/listing/stocks/new/um3qrc000001jhyo-att/06LIPPS-1s.pdf・3回目）
+- 売上構成：
+  - 「以下に示す区分 は、セグメント」（https://www.jpx.co.jp/listing/stocks/new/um3qrc000001jhyo-att/06LIPPS-1s.pdf・3回目）
+  - 「セグメントの名称 従業員数(名)」（https://www.jpx.co.jp/listing/stocks/new/um3qrc000001jhyo-att/06LIPPS-1s.pdf・3回目）
+  - 「セグメント別の概況は、次のとおりとなります」（https://www.jpx.co.jp/listing/stocks/new/um3qrc000001jhyo-att/06LIPPS-1s.pdf・3回目）
+  - 「この結果、当事業の売上高は 3,309,671千円（前年同期比25.2％増）、セグメント利益は 609,691千円（前年同」（https://www.jpx.co.jp/listing/stocks/new/um3qrc000001jhyo-att/06LIPPS-1s.pdf・3回目）
+  - 「この結果、当事業の売上高は451,246千円（前年同期比2.4％減）、セグメント利益は111,279千円（前年同期比」（https://www.jpx.co.jp/listing/stocks/new/um3qrc000001jhyo-att/06LIPPS-1s.pdf・3回目）
+  - 「なお、当中間会計期間におけるセグメントの業績は、次のとおりとなります」（https://www.jpx.co.jp/listing/stocks/new/um3qrc000001jhyo-att/06LIPPS-1s.pdf・3回目）
+  - 「この結果、当中間会計期間における 商品事業のセグメント売 上高は1,895,379千円、セグメント利益は 392,514」（https://www.jpx.co.jp/listing/stocks/new/um3qrc000001jhyo-att/06LIPPS-1s.pdf・3回目）
+  - 「この結果、当中間会計期間におけるサロンフランチャイズ事業のセグメント売上高は214,360千円、セグメント」（https://www.jpx.co.jp/listing/stocks/new/um3qrc000001jhyo-att/06LIPPS-1s.pdf・3回目）
+  - 「第17期事業年度及び第18期中間会計期間における生産実績をセグメントごとに示すと、次のとおりでありま」（https://www.jpx.co.jp/listing/stocks/new/um3qrc000001jhyo-att/06LIPPS-1s.pdf・3回目）
+  - 「セグメントの名称」（https://www.jpx.co.jp/listing/stocks/new/um3qrc000001jhyo-att/06LIPPS-1s.pdf・3回目）
+  - 「第17期事業年度及び第18期中間会計期間における販売実績をセグメントごとに示すと、次のとおりでありま」（https://www.jpx.co.jp/listing/stocks/new/um3qrc000001jhyo-att/06LIPPS-1s.pdf・3回目）
+  - 「なお、事業セグメントに資産を配分していないため、セグメント別の記載を省略しております」（https://www.jpx.co.jp/listing/stocks/new/um3qrc000001jhyo-att/06LIPPS-1s.pdf・3回目）
+- 利益の源泉：
+  - 「メンズヘアー文化を強みとして、」（https://lipps.co.jp/company/・1回目）
+  - 「これを強みとし、常に最新トレンドを取り入れながら、日々サロンですくい上げるお客様のリアルなニーズに応える確かなプロダクトを次々に生み出すブランドとして、日本の、そして世界のメンズビューティーのスタンダードを目指します」（https://lipps.co.jp/company/・1回目）
+  - 「この仕組みはスケールしやすく、直営店を多く持つ必要がないため、リソースを商品開発とマーケティングに集中できる点が強みです」（https://sme-support-navi.jp/2026lippsipojigyoukeikaku/・3回目）
+  - 「直営店にこだわらず、自社の強みを共有できるパートナーを増やすことで、リソースの最適化とブランドの浸透を図ることができます」（https://sme-support-navi.jp/2026lippsipojigyoukeikaku/・3回目）
+  - 「本記事では、クラシコ株式会社のIPOに関する基本情報を整理したうえで、「事業計画及び成長可能性に関する事項」をもとに、会社概要、ビジネスモデル、競争優位性、成長戦略について分かりやすく解説します」（https://sme-support-navi.jp/2026lippsipojigyoukeikaku/・3回目）
+  - 「01.会社概要 02.市場環境 03.競争優位性 04.成長戦略」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250630/20250629503705.pdf・3回目）
+  - 「01.会社概要 02.市場環境 03.競争優位性 04.成長戦略 05.リスク情報 06.財務情報」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250630/20250629503705.pdf・3回目）
+  - 「これを強みとし、常に最新トレンドを取り入れながら、日々サロンですく」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250630/20250629503705.pdf・3回目）
+  - 「KPIとしては、商品事業の売上高、営業利益率、販促費率を重視」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250630/20250629503705.pdf・3回目）
+  - 「2 商品事業営業利益率」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250630/20250629503705.pdf・3回目）
+  - 「商品事業の営業利益率を重視」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250630/20250629503705.pdf・3回目）
+  - 「当社の強み×3」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250630/20250629503705.pdf・3回目）
+- 沿革：
+  - 「2020年リニューアル）」（https://lipps.co.jp/history-of-lipps/・1回目）
+  - 「1999年のヘアサロン開業以来、LIPPSはメンズビューティのトップランナーとして、」（https://lipps.co.jp/history-of-lipps/・1回目）
+  - 「2006年にはプロダクト領域にも分野を拡げ、LIPPSシャンプー・トリートメントをリリースしました」（https://lipps.co.jp/ir/・1回目）
+  - 「1999年のヘアサロン開業以来、LIPPSはメンズビューティーのトップランナーとして、独自のスタイリングを提案し、トレンドを創り出してきました」（https://lipps.co.jp/company/・1回目）
+  - 「2008年4月8日」（https://lipps.co.jp/company/・1回目）
+  - 「2025年8月31日時点 アルバイトは含まない」（https://lipps.co.jp/company/・1回目）
+  - 「2019年より、コンセプトに「カッコつけていこう」（https://lipps.co.jp/history-of-lipps-hair/・1回目）
+  - 「2006年にはシャンプー・トリートメント、2007年にはワックスがリリースされ、以降も時代のトレンドに合わせた商品の改良や新開発の展開を進めています」（https://lipps.co.jp/service/・1回目）
+  - 「1999年に原宿からスタートしたヘアサロン『LIPPS（現「LIPPS」（https://lipps.co.jp/service/・1回目）
+  - 「2025年6月、東京証券取引所グロース市場に新規上場（IPO）を果たした」（https://sme-support-navi.jp/2026lippsipojigyoukeikaku/・3回目）
+  - 「2025年6月の公開価格は3,130円で設定され、投資家や市場からの関心も高い案件となっています」（https://sme-support-navi.jp/2026lippsipojigyoukeikaku/・3回目）
+  - 「2025年6月に経済産業省が発行した「企業価値向上に向けた海外資本活用ガイドブック」を取り上げ、中小企業やスタートアップにとってなぜこの内容が重要なのかを、事例とともにわかりやすく解説していきます」（https://sme-support-navi.jp/2026lippsipojigyoukeikaku/・3回目）
+- 検索結果の抜粋：
+  - 「株式会社 リップス のIPOから読み解く「成長可能性」 — 株式会社 リップス のIPOから読み解く「成長可能性」 sme-support-navi.jp https://sme-support-navi.jp > IPO」（https://sme-support-navi.jp/2026lippsipojigyoukeikaku/・3回目）
+  - 「株式会社 リップス - 成長可能性に関する 説明資料 — 株式会社 リップス - 成長可能性に関する 説明資料 finance-frontend-pc-dist.west.edge.storage-yahoo.jp PDF https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp > ...」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250630/20250629503705.pdf・3回目）
+  - 「LIPPS | リップス 【公式】 (@lipps_mens) - Instagram — LIPPS | リップス 【公式】 (@lipps_mens) - Instagram Instagram https://www.instagram.com > lipps_mens」（https://www.instagram.com/lipps_mens/・3回目）
+  - 「【 リップス 】[373A]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 リップス 】[373A]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo」（https://www.nikkei.com/nkd/company/kigyo/?scode=373A・3回目）
+  - 「[G－ リップス 373A.T] 2026年8月期 決算説明資料 （事業計画 ... — [G－ リップス 373A.T] 2026年8月期 決算説明資料 （事業計画 ... BigGo ファイナンス https://finance.biggo.jp > jpx_tdnet_140120261014550750」（https://finance.biggo.jp/news/jpx_tdnet_140120261014550750・3回目）
+  - 「LIPPS | 株式会社 リップス — LIPPS | 株式会社 リップス LIPPS https://lipps.co.jp」（https://lipps.co.jp/・3回目）
+  - 「株式会社 リップス との資本提携について - Nomura — 株式会社 リップス との資本提携について - Nomura Nomura https://www.nomuraholdings.com > news20220630102756」（https://www.nomuraholdings.com/jp/news/nr/news20220630102756.html・3回目）
+  - 「リップス社長 交代 マツキヨココカラ松田取締役が新 社長 に — リップス社長 交代 マツキヨココカラ松田取締役が新 社長 に 美容業界ニュースメディア https://www.beautopia.jp > 経営・業界動向」（https://www.beautopia.jp/159096/・3回目）
+  - 「化粧品の リップス 上場、的場 社長 「男性向けトータルブランド ... — 化粧品の リップス 上場、的場 社長 「男性向けトータルブランド ... 日本経済新聞 https://www.nikkei.com > article」（https://www.nikkei.com/article/DGXZQOUC306160Q5A630C2000000/・3回目）
+  - 「株式会社 リップス カンパニー 代表取締役 社長 林 幸海 — 株式会社 リップス カンパニー 代表取締役 社長 林 幸海 社長名鑑 https://shachomeikan.jp > industry_article」（https://shachomeikan.jp/industry_article/6272・3回目）
+- 売上高：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部6頁・検索5回）
+
+## レントラックス
+- 公式URL：https://www.rentracks.co.jp/（search:yahoo_jp:レントラックス）
+- 設立：2005年12月（https://www.rentracks.co.jp/company/・1回目）
+- 売上高：333 344 342 358 302 389 2,068（https://www.rentracks.co.jp/ir/finance/others.html・1回目）
+- 売上高：316 344 303 299 291 358 1,912（https://www.rentracks.co.jp/ir/finance/others.html・1回目）
+- 売上高：2,068（https://www.rentracks.co.jp/ir/finance/others.html・1回目）
+- ビジネスモデル：
+  - 「そのような群雄割拠の時代の中でも、私たちレントラックスグループは、時代の変化に対応するスピード感を持ち、従来のビジネスモデルの進化発展と共に、常に新たな取り組みにもチャレンジする精神で、株主の皆様からも中長期でご支援頂ける企業体を目指して日々取り組んで参ります」（https://www.rentracks.co.jp/ir/personal/message.html・1回目）
+- 誰に：
+  - 「ユーザー送客」（https://www.rentracks.co.jp/・1回目）
+  - 「一般には公開されていない自社ASP（アフィリエイトサービスプロバイダー）を活用し、質の良いお客様の誘導をお約束致します」（https://www.rentracks.co.jp/works/・1回目）
+  - 「また、SEO対策をされているアフィリエイター様が殆どなので、モチベーションの高いお客様の誘導ができ、しかも成約率が格段にあがります」（https://www.rentracks.co.jp/works/・1回目）
+  - 「また、株主の皆様やお客様にご満足頂くためにも、経営理念、経営方針の実践と合わせ、経営幹部含め、社員の成長と人格の向上無しでは将来の事業発展はないと考え、日々周囲への感謝の気持ちや思いやりを忘れずに素直な姿勢で業務に取り組んで参ります」（https://www.rentracks.co.jp/ir/personal/message.html・1回目）
+  - 「スマートフォン用にサイト再構成、適切な表示への切替を実現し、スムーズな表示でユーザーの離脱率を抑えます」（https://www.rentracks.co.jp/ir/personal/works.html・1回目）
+  - 「顧客の検索連動型広告における効果を高める為、適切なキーワードの選定・管理や最も効果の高い出稿時期の調整など、サポートを行っています」（https://www.rentracks.co.jp/ir/personal/works.html・1回目）
+  - 「当社グループにおきましては、2021年3月期まで成果報酬型広告サービス事業及び検索連動型広告代行事業に係る取引において、売上高に顧客への請求額、売上原価にアフィリエイト報酬及び媒体費を計上しておりましたが、当該会計基準適用後は、これらを代理人取引と判断し、両者を相殺した金額を売上高として計上しております」（https://www.rentracks.co.jp/ir/f_results/・1回目）
+  - 「顧客の「成果」につながる」（https://www.rentracks.co.jp/lp/sponsor_mvform/?utm_source=official_inquiry・1回目）
+  - 「アフィリエイト広告では、お客様の期待する成果（対象商品の購入、無料会員登録完了、来店等）が発生した分を成果報酬としてお支払いただく」（https://www.rentracks.co.jp/lp/sponsor_mvform/?utm_source=official_inquiry・1回目）
+  - 「また、当社のアフィリエイトパートナーは、SEOやリスティング広告に力を入れている方が多く、見込み顧客がより」（https://www.rentracks.co.jp/lp/sponsor_mvform/?utm_source=official_inquiry・1回目）
+  - 「行事業に係る取引において、売上高に顧客への請求額、売上原価にアフィリエイト報酬及び媒体費を計」（https://www.rentracks.co.jp/ir/library/pdf/21th/2026_03_09_monthly.pdf・2回目）
+  - 「庫販売」と、お客様間の売買を仲介する「仲介販売」の２種類の事業形態があり、海外取引先様への販」（https://www.rentracks.co.jp/ir/library/pdf/21th/2026_03_09_monthly.pdf・2回目）
+- 何を：
+  - 「株式会社レントラックス ｜ クローズド アフィリエイトサービス」（https://www.rentracks.co.jp/・1回目）
+  - 「アフィリエイトサービスプロバイダ事業」（https://www.rentracks.co.jp/・1回目）
+  - 「アフィリエイトサービス」（https://www.rentracks.co.jp/・1回目）
+  - 「成果報酬額の調整、確定した成果報酬の回収・支払管理等のサービスを提供」（https://www.rentracks.co.jp/・1回目）
+  - 「オーダーメイドサービス」（https://www.rentracks.co.jp/・1回目）
+  - 「アフィリエイトサービスプロバイダ事業」（https://www.rentracks.co.jp/company/・1回目）
+  - 「アフィリエイトサービスプロバイダ事業」（https://www.rentracks.co.jp/company/history.html・1回目）
+  - 「アフィリエイトサービスプロバイダ事業」（https://www.rentracks.co.jp/works/・1回目）
+  - 「一般には公開されていない自社ASP（アフィリエイトサービスプロバイダー）を活用し、質の良いお客様の誘導をお約束致します」（https://www.rentracks.co.jp/works/・1回目）
+  - 「各種サービスへの」（https://www.rentracks.co.jp/works/・1回目）
+  - 「アフィリエイトサービスプロバイダ事業」（https://www.rentracks.co.jp/inquiry/・1回目）
+  - 「各種サービスについてのお問い合わせ」（https://www.rentracks.co.jp/inquiry/・1回目）
+- どうやって売るか：
+  - 「広告主様とパートナーサイト運営者様間の仲介」（https://www.rentracks.co.jp/・1回目）
+  - 「パートナーサイト様」（https://www.rentracks.co.jp/・1回目）
+  - 「パートナーサイトを経由した」（https://www.rentracks.co.jp/・1回目）
+  - 「アフィリエイター様講師ご紹介」（https://www.rentracks.co.jp/・1回目）
+  - 「広告主様講師ご紹介」（https://www.rentracks.co.jp/・1回目）
+  - 「株式会社クオリュクス＆パートナーズ」（https://www.rentracks.co.jp/company/history.html・1回目）
+  - 「パートナーサイト運営者数」（https://www.rentracks.co.jp/ir/finance/others.html・1回目）
+  - 「パートナーサイト運営者とは、「レントラックス(Rentracks)」に登録した広告掲載媒体の運営者をさします」（https://www.rentracks.co.jp/ir/finance/others.html・1回目）
+  - 「既存パートナーサイト運営者様からの紹介」（https://www.rentracks.co.jp/lp/sponsor_mvform/?utm_source=official_inquiry・1回目）
+  - 「アフィリエイト塾等からの紹介」（https://www.rentracks.co.jp/lp/sponsor_mvform/?utm_source=official_inquiry・1回目）
+  - 「当社からのリクルーティング等 にのみパートナーサイト登録可能とする「クローズド型」のサービス体制」（https://www.rentracks.co.jp/lp/sponsor_mvform/?utm_source=official_inquiry・1回目）
+  - 「また、当社のアフィリエイトパートナーは、SEOやリスティング広告に力を入れている方が多く、見込み顧客がより」（https://www.rentracks.co.jp/lp/sponsor_mvform/?utm_source=official_inquiry・1回目）
+- お金の形：
+  - 「広告主が広告掲載者に対して売り上げに応じた手数料（報酬）を支払う完全成果報酬型広告配信システムです」（https://www.rentracks.co.jp/・1回目）
+  - 「募集新株予約権（有償ストック・オプション）の発行に関するお知らせ」（https://www.rentracks.co.jp/ir/library/orhers.html・1回目）
+  - 「ストック・オプション（新株予約権）の発行内容確定に関するお知らせ」（https://www.rentracks.co.jp/ir/library/orhers.html・1回目）
+  - 「ストック・オプション（新株予約権）の発行に関するお知らせ」（https://www.rentracks.co.jp/ir/library/orhers.html・1回目）
+  - 「単元未満株式の買取手数料は当社株式が東京証券取引所マザーズに上場された日から「株式の売買の委託に係る手数料相当額として別途定める金額」に変更されます」（https://www.rentracks.co.jp/ir/finance/stocinfo.html・1回目）
+  - 「販売額と原価を相殺しない総額売上、 「仲介販売」は販売手数料のみの純額売上にて売上高を計上してお」（https://www.rentracks.co.jp/ir/library/pdf/21th/2026_03_09_monthly.pdf・2回目）
+  - 「販売額と原価を相殺しない総額売上、 「仲介販売」は販売手数料のみの純額売上にて売上高を計上してお」（https://www.rentracks.co.jp/ir/library/pdf/21th/2026_03_08_monthly.pdf・2回目）
+  - 「販売額と原価を相殺しない総額売上、 「仲介販売」は販売手数料のみの純額売上にて売上高を計上してお」（https://www.rentracks.co.jp/ir/library/pdf/21th/2026_03_07_monthly.pdf・2回目）
+  - 「販売額と原価を相殺しない総額売上、 「仲介販売」は販売手数料のみの純額売上にて売上高を計上してお」（https://www.rentracks.co.jp/ir/library/pdf/21th/2026_03_06_monthly.pdf・2回目）
+- 売上構成：
+  - 「（セグメント情報等の注記） ……………………………………………………………………………………… 7」（https://www.rentracks.co.jp/ir/library/pdf/21th/21th_qtr1_result.pdf・2回目）
+  - 「セグメント別の売上高は、成果報酬型広告サービス事業が552,055千円（前年同四半期比104.3％）、検索連動型」（https://www.rentracks.co.jp/ir/library/pdf/21th/21th_qtr1_result.pdf・2回目）
+  - 「また、セグメント利益は、成果報酬型広」（https://www.rentracks.co.jp/ir/library/pdf/21th/21th_qtr1_result.pdf・2回目）
+  - 「報告セグメント」（https://www.rentracks.co.jp/ir/library/pdf/21th/21th_qtr1_result.pdf・2回目）
+  - 「セグメント利益 529,088 12,684 36,080 577,853 73,874 651,727」（https://www.rentracks.co.jp/ir/library/pdf/21th/21th_qtr1_result.pdf・2回目）
+  - 「セグメント利益 552,055 24,337 58,076 634,470 57,145 691,615」（https://www.rentracks.co.jp/ir/library/pdf/21th/21th_qtr1_result.pdf・2回目）
+  - 「（セグメント情報等の注記）」（https://www.rentracks.co.jp/ir/library/pdf/21th/21th_qtr1_result.pdf・2回目）
+  - 「【セグメント情報】」（https://www.rentracks.co.jp/ir/library/pdf/21th/21th_qtr1_result.pdf・2回目）
+  - 「１．報告セグメントごとの売上高及び利益の金額に関する情報並びに収益の分解情報」（https://www.rentracks.co.jp/ir/library/pdf/21th/21th_qtr1_result.pdf・2回目）
+  - 「（注）１ 「その他」の区分は報告セグメントに含まれない事業セグメントであり、媒体運営事業、コンテンツ販売事」（https://www.rentracks.co.jp/ir/library/pdf/21th/21th_qtr1_result.pdf・2回目）
+  - 「２ セグメント利益の合計額は、四半期連結損益計算書の売上総利益と一致しております」（https://www.rentracks.co.jp/ir/library/pdf/21th/21th_qtr1_result.pdf・2回目）
+- 利益の源泉：
+  - 「これらのシステムを利用し、数値として集計された組織や短所の改善や強みのさらなる発展を目指す企業様へ、各種研修やコンサルティングを実施いたします」（https://www.rentracks.co.jp/ir/personal/works.html・1回目）
+  - 「売は「在庫販売」の割合が高い傾向がございます」（https://www.rentracks.co.jp/ir/library/pdf/21th/2026_03_09_monthly.pdf・2回目）
+  - 「「収益認識に関する会計基準」(企業会計基準第29号 2020年３月31日)等の適用により、 「在庫販売」は」（https://www.rentracks.co.jp/ir/library/pdf/21th/2026_03_09_monthly.pdf・2回目）
+  - 「売は「在庫販売」の割合が高い傾向がございます」（https://www.rentracks.co.jp/ir/library/pdf/21th/2026_03_08_monthly.pdf・2回目）
+  - 「「収益認識に関する会計基準」(企業会計基準第29号 2020年３月31日)等の適用により、 「在庫販売」は」（https://www.rentracks.co.jp/ir/library/pdf/21th/2026_03_08_monthly.pdf・2回目）
+  - 「売は「在庫販売」の割合が高い傾向がございます」（https://www.rentracks.co.jp/ir/library/pdf/21th/2026_03_07_monthly.pdf・2回目）
+  - 「「収益認識に関する会計基準」(企業会計基準第29号 2020年３月31日)等の適用により、 「在庫販売」は」（https://www.rentracks.co.jp/ir/library/pdf/21th/2026_03_07_monthly.pdf・2回目）
+  - 「売は「在庫販売」の割合が高い傾向がございます」（https://www.rentracks.co.jp/ir/library/pdf/21th/2026_03_06_monthly.pdf・2回目）
+  - 「「収益認識に関する会計基準」(企業会計基準第29号 2020年３月31日)等の適用により、 「在庫販売」は」（https://www.rentracks.co.jp/ir/library/pdf/21th/2026_03_06_monthly.pdf・2回目）
+- 沿革：
+  - 「2026年10月23日」（https://www.rentracks.co.jp/・1回目）
+  - 「2026年10月16日」（https://www.rentracks.co.jp/・1回目）
+  - 「2026年09月25日」（https://www.rentracks.co.jp/・1回目）
+  - 「2026年08月21日」（https://www.rentracks.co.jp/・1回目）
+  - 「2026年08月14日」（https://www.rentracks.co.jp/・1回目）
+  - 「2027年3月期 第1四半期決算短信を開示しました」（https://www.rentracks.co.jp/・1回目）
+  - 「2005年12月」（https://www.rentracks.co.jp/company/・1回目）
+  - 「1997年4月」（https://www.rentracks.co.jp/company/・1回目）
+  - 「2000年5月」（https://www.rentracks.co.jp/company/・1回目）
+  - 「2005年8月」（https://www.rentracks.co.jp/company/・1回目）
+  - 「2006年1月」（https://www.rentracks.co.jp/company/・1回目）
+  - 「沿革 | 株式会社レントラックス」（https://www.rentracks.co.jp/company/history.html・1回目）
+- 検索結果の抜粋：
+  - 「決算説明資料 - レントラックス — 決算説明資料 - レントラックス レントラックス PDF https://www.rentracks.co.jp > library > pdf」（https://www.rentracks.co.jp/ir/library/pdf/17th/17th_result_explanation_20220530.pdf・3回目）
+  - 「事業内容 | 株式会社 レントラックス — 事業内容 | 株式会社 レントラックス レントラックス https://www.rentracks.co.jp > works」（https://www.rentracks.co.jp/works/・3回目）
+  - 「レントラックス [6045]：事業計画及び成長可能性に関する事項 ... — レントラックス [6045]：事業計画及び成長可能性に関する事項 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr」（https://www.nikkei.com/nkd/disclosure/tdnr/20260522544259/・3回目）
+  - 「トップメッセージ | 株式会社 レントラックス IR情報 — トップメッセージ | 株式会社 レントラックス IR情報 レントラックス https://www.rentracks.co.jp > personal > message」（https://www.rentracks.co.jp/ir/personal/message.html・3回目）
+  - 「株式会社 レントラックス の会社情報 - Wantedly — 株式会社 レントラックス の会社情報 - Wantedly Wantedly https://www.wantedly.com > company_2122849」（https://www.wantedly.com/companies/company_2122849・3回目）
+  - 「決算説明資料 | 株式会社 レントラックス IR情報 — 決算説明資料 | 株式会社 レントラックス IR情報 レントラックス https://www.rentracks.co.jp > library > explain」（https://www.rentracks.co.jp/ir/library/explain.html・3回目）
+  - 「IR | 株式会社 レントラックス — IR | 株式会社 レントラックス レントラックス https://www.rentracks.co.jp > ...」（https://www.rentracks.co.jp/ir/・3回目）
+  - 「決算 短信 | 株式会社 レントラックス IR情報 — 決算 短信 | 株式会社 レントラックス IR情報 レントラックス https://www.rentracks.co.jp > library > result」（https://www.rentracks.co.jp/ir/library/result.html・3回目）
+  - 「IRニュース | 株式会社 レントラックス IR情報 — IRニュース | 株式会社 レントラックス IR情報 レントラックス https://www.rentracks.co.jp > news」（https://www.rentracks.co.jp/ir/news/・3回目）
+  - 「その他 資料 | 株式会社 レントラックス IR情報 — その他 資料 | 株式会社 レントラックス IR情報 レントラックス https://www.rentracks.co.jp > library > orhers」（https://www.rentracks.co.jp/ir/library/orhers.html・3回目）
+  - 「会社概要 | 株式会社 レントラックス — 会社概要 | 株式会社 レントラックス レントラックス https://www.rentracks.co.jp > company」（https://www.rentracks.co.jp/company/・3回目）
+  - 「決算説明資料 - レントラックス — 決算説明資料 - レントラックス レントラックス PDF https://www.rentracks.co.jp > library > pdf」（https://www.rentracks.co.jp/ir/library/pdf/21th/21th_result_explanation_20260526.pdf・3回目）
+- 従業員数：記載なし（3回確認済み：公式25頁／PDF・画像13件／外部0頁・検索5回）
+- 事業内容：記載なし（3回確認済み：公式25頁／PDF・画像13件／外部0頁・検索5回）
+
 ## レーザーテック
 - 公式URL：https://www.lasertec.co.jp/（search:yahoo_jp:レーザーテック）
 - 設立：昭和35年7月（https://www.lasertec.co.jp/company/profile/・1回目）
@@ -14558,6 +21573,108 @@
 - 従業員数：記載なし（3回確認済み：公式19頁／PDF・画像7件／外部3頁・検索5回）
 - 売上高：記載なし（3回確認済み：公式19頁／PDF・画像7件／外部3頁・検索5回）
 - 売上構成：記載なし（3回確認済み：公式19頁／PDF・画像7件／外部3頁・検索5回）
+
+## ローツェ
+- 公式URL：https://www.rorze.com/（search:yahoo_jp:ローツェ）
+- 設立：1985年3月30日（https://www.rorze.com/company/overview/・1回目）
+- 設立：1985年3月（https://cregio.jp/column/interview_rorze/・3回目）
+- 従業員数：362名、連結：4,551名 ※2026年2月末現在、 臨時従業員及び再雇用従業員の年間平均雇用人員含む（https://www.rorze.com/company/overview/・1回目）
+- 従業員数：239名、連結：3,894名（2023年11月末現在）（https://cregio.jp/column/interview_rorze/・3回目）
+- 事業内容：半導体・FPD関連装置等 自動化装置の開発設計・製造・販売 半導体関連装置 当社の売上の半分以上を占める主力事業です。低発塵で高スループット、高い信頼性をもつシステムで、お客様の半導体製造ラインを支えます。 FPD関連装置 半導体関連装置で培った確かな技術により高スループット、高信頼性のシステムを実現します。 分析装置 半導体製造工程における金属汚染管理は非常に重要であり、Siウエハ中の金属不純物をICP-MS（誘導結合プラズマ質量分析法）で自動分析します。 ライフサイエンス関連装置 創薬・再生医療に必要な細胞培養操作において、インキュベーター（細胞培養装置）やソフトウエアパッケージによる効率化、自動化を実現します。 モータ制御機器 小型で信頼性が高く、高機能な製品です。当社の半導体・FPD関連装置は当社の制御製品が支えています。（https://www.rorze.com/company/overview/・1回目）
+- 事業内容：半導体・FPD関連装置・ライフサイエンス関連装置・モーター制御機器等の自動化装置の開発設計・製造・販売（https://cregio.jp/column/interview_rorze/・3回目）
+- 売上高：69,754百万円、連結：128,794百万円（2026年2月期）（https://www.rorze.com/company/overview/・1回目）
+- 売上高：連 67,004 94,518 93,247 124,406 128,794（https://www.rorze.com/ir/finance/・1回目）
+- 誰に：
+  - 「低発塵で高スループット、高い信頼性をもつシステムで、お客様の半導体製造ラインを支えます」（https://www.rorze.com/company/overview/・1回目）
+  - 「これもひとえに、株主の皆様、お取引先様をはじめとする多くの関係者の皆様方の温かいご支援の賜物と心より感謝申し上げます」（https://www.rorze.com/ir/message/・1回目）
+  - 「そのため、顧客の投資サイクルの変動により、当社の受注・売上・稼働率が影響を受ける可能性があります」（https://www.rorze.com/ir/management/・1回目）
+  - 「これに対し当社グループでは、顧客の設備投資動向や受注状況を定期的に把握・検証するとともに、柔軟な生産体制を整備し、急激な需要変動に対応できる体制づくりを行っております」（https://www.rorze.com/ir/management/・1回目）
+  - 「市況変動や顧客の経営計画の変更等により原材料の消費が滞留した場合、業績に影響を与える可能性があります」（https://www.rorze.com/ir/management/・1回目）
+  - 「当社グループは事業上の様々な技術情報や顧客情報を保有しており、ランサムウェア、委託先経由の侵害、脆弱性悪用、地政学的背景の攻撃等により、操業停止や情報流出、信用失墜・費用負担が生じるおそれがあります」（https://www.rorze.com/ir/management/・1回目）
+  - 「しかしながら、顧客要求の短納期化に対応できない場合や競合他社に技術先行された場合は業績に影響を及ぼす可能性があります」（https://www.rorze.com/ir/management/・1回目）
+  - 「当社グループは、市場性を見極め新製品開発のスピードアップを図り、顧客要求に対応してまいります」（https://www.rorze.com/ir/management/・1回目）
+  - 「環境問題に対する懸念は世界的に高まり、当社グループが主に属する半導体及びＦＰＤ業界におきましても、取引に際し顧客からの要求が増加しております」（https://www.rorze.com/ir/management/・1回目）
+  - 「こうした中、環境問題に対する取り組みが十分でない場合には、顧客からの取引が減少するだけでなく、社会的信用の低下により、当社グループの経営成績及び財政状態に影響を与える可能性があります」（https://www.rorze.com/ir/management/・1回目）
+  - 「しかしながら、想定を超える大規模な災害等により、当社グループの事業拠点又は取引先等に甚大な被害が発生した場合には、当社グループの経営成績や財政状態に影響を及ぼす可能性があります」（https://www.rorze.com/ir/management/・1回目）
+  - 「また、通信環境やお客様のコンピュー タの状況、その他の理由により、当ウェブサイトを正常に利用できない場合があります」（https://www.rorze.com/ir/disclaimer/・1回目）
+- 何を：
+  - 「ライフサイエンス関連製品」（https://www.rorze.com/・1回目）
+  - 「ソフトウェアソリューション」（https://www.rorze.com/・1回目）
+  - 「製品情報をみる」（https://www.rorze.com/・1回目）
+  - 「ライフサイエンス関連製品」（https://www.rorze.com/company/strength/・1回目）
+  - 「ソフトウェアソリューション」（https://www.rorze.com/company/strength/・1回目）
+  - 「ライフサイエンス関連製品」（https://www.rorze.com/company/overview/・1回目）
+  - 「ソフトウェアソリューション」（https://www.rorze.com/company/overview/・1回目）
+  - 「当社の売上の半分以上を占める主力事業です」（https://www.rorze.com/company/overview/・1回目）
+  - 「小型で信頼性が高く、高機能な製品です」（https://www.rorze.com/company/overview/・1回目）
+  - 「当社の半導体・FPD関連装置は当社の制御製品が支えています」（https://www.rorze.com/company/overview/・1回目）
+  - 「ライフサイエンス関連製品」（https://www.rorze.com/company/history/・1回目）
+  - 「ソフトウェアソリューション」（https://www.rorze.com/company/history/・1回目）
+- どうやって売るか：
+  - 「Cimetrix Inc.の日本における販売代理店契約を締結」（https://www.rorze.com/company/history/・1回目）
+  - 「ベストパートナーアワード」（https://www.rorze.com/company/history/・1回目）
+  - 「同社の発展に貢献したパートナー企業として RORZE TECHNOLOGY INC. が受賞」（https://www.rorze.com/company/history/・1回目）
+  - 「士業パートナー制度」（https://cregio.jp/column/interview_rorze/・3回目）
+  - 「メンバー紹介」（https://cregio.jp/column/interview_rorze/・3回目）
+  - 「クレジオ・パートナーズ TOP」（https://cregio.jp/column/interview_rorze/・3回目）
+  - 「ちょうどリーマンショックの後で、取引をしていたアメリカのソフトウェア販売会社が、財務状況が悪化したので出資して欲しいと言われ、ローツェとして、出資する代わりに代理店の権利をくれと要求したことで、ソフトウェア販売ビジネスが社内に立ち上がりました」（https://cregio.jp/column/interview_rorze/・3回目）
+  - 「直近、イアスという東京都の半導体工場で使用される不純物分析装置の製造を行う企業にグループに加わっていただき、その時は資本政策のコンサルティング会社としてクレジオ・パートナーズさんにもご協力いただきました」（https://cregio.jp/column/interview_rorze/・3回目）
+  - 「クレジオ・パートナーズ株式会社」（https://cregio.jp/column/interview_rorze/・3回目）
+  - 「メディア紹介実績」（https://www.regional.co.jp/change/201801_vol45.html・3回目）
+- お金の形：
+  - 「300mmウエハ対応キャリアストックRICSS300発表」（https://www.rorze.com/company/history/・1回目）
+  - 「① 【ストックオプション制度の内容】」（https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/RORZE_QR42_2Q.pdf・2回目）
+  - 「支払手数料 907百万円 1,143百万円」（https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/RORZE_QR42_2Q.pdf・2回目）
+- 売上構成：
+  - 「セグメントごとの経営成績は、次のとおりであります」（https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/RORZE_QR42_2Q.pdf・2回目）
+  - 「半導体・ＦＰＤ関連装置事業の売上高は79,357百万円(前年同期比21.6％増)、セグメント利益は23,969百万円(前」（https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/RORZE_QR42_2Q.pdf・2回目）
+  - 「ライフサイエンス事業につきましては、売上高は376百万円(前年同期比2.8％増)、セグメント損失は147百万円」（https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/RORZE_QR42_2Q.pdf・2回目）
+  - 「(前年同期はセグメント損失119百万円)となりました」（https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/RORZE_QR42_2Q.pdf・2回目）
+  - 「(セグメント情報等)」（https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/RORZE_QR42_2Q.pdf・2回目）
+  - 「【セグメント情報】」（https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/RORZE_QR42_2Q.pdf・2回目）
+  - 「１．報告セグメントごとの売上高及び利益又は損失の金額に関する情報並びに収益の分解情報」（https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/RORZE_QR42_2Q.pdf・2回目）
+  - 「報告セグメント」（https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/RORZE_QR42_2Q.pdf・2回目）
+  - 「セグメント間の内部」（https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/RORZE_QR42_2Q.pdf・2回目）
+  - 「セグメント利益」（https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/RORZE_QR42_2Q.pdf・2回目）
+  - 「(注) １．セグメント利益又は損失の調整額は、各報告セグメントに配分していない全社費用△427百万円であり、主」（https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/RORZE_QR42_2Q.pdf・2回目）
+  - 「に報告セグメントに帰属しない一般管理費であります」（https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/RORZE_QR42_2Q.pdf・2回目）
+- 利益の源泉：
+  - 「当社の強み | ローツェ株式会社」（https://www.rorze.com/company/strength/・1回目）
+  - 「「優れた技術に基づいて競争優位を確保する可能性が高い中小企業である」として RORZE SYSTEMS が受賞」（https://www.rorze.com/company/history/・1回目）
+  - 「これに対して当社グループでは、日頃からサプライヤーとの関係強化に努めるとともに調達リスクをモニタリングして適正な在庫の確保に努めています」（https://www.rorze.com/ir/management/・1回目）
+  - 「在庫のリスクによる影響」（https://www.rorze.com/ir/management/・1回目）
+  - 「営業利益率 29.0%」（https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/meeting_2027_Q2.pdf・2回目）
+  - 「 部材の先行手配・在庫確保、代替部品・代替」（https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/meeting_2027_Q2.pdf・2回目）
+  - 「当社の特徴・強み」（https://cregio.jp/column/interview_rorze/・3回目）
+  - 「「強み」は高品質、理念を軸に自律的なものづくり文化が形成」（https://cregio.jp/column/interview_rorze/・3回目）
+  - 「資本政策や企業再編のアドバイザリーにも強みを持ち、地域金融機関や専門家と連携しながら、中小企業の持続的な成長と後継者募集をサポート」（https://cregio.jp/column/interview_rorze/・3回目）
+- 沿革：
+  - 「2027年2月期 第2四半期決算説明資料」（https://www.rorze.com/・1回目）
+  - 「2027年2月期 第2四半期決算短信〔日本基準〕（連結）」（https://www.rorze.com/・1回目）
+  - 「令和８年熊本地震の影響に関するお知らせ（第2報）」（https://www.rorze.com/・1回目）
+  - 「令和８年熊本地震の影響に関するお知らせ」（https://www.rorze.com/・1回目）
+  - 「1985年3月30日」（https://www.rorze.com/company/overview/・1回目）
+  - 「沿革 | ローツェ株式会社」（https://www.rorze.com/company/history/・1回目）
+  - 「2011年度に引き続き連続受賞」（https://www.rorze.com/company/history/・1回目）
+  - 「2011年度より3年連続受賞」（https://www.rorze.com/company/history/・1回目）
+  - 「2011年度より4年連続受賞」（https://www.rorze.com/company/history/・1回目）
+  - 「2011年度より5年連続受賞」（https://www.rorze.com/company/history/・1回目）
+  - 「2027年2月期 第2四半期決算説明資料」（https://www.rorze.com/ir_news/・1回目）
+  - 「2027年2月期 第2四半期決算短信〔日本基準〕（連結）」（https://www.rorze.com/ir_news/・1回目）
+- 検索結果の抜粋：
+  - 「Integrated Report - ローツェ — Integrated Report - ローツェ ローツェ株式会社 PDF https://www.rorze.com > uploads > 2025/11 > Integr...」（https://www.rorze.com/wp_rorze/wp-content/uploads/2025/11/IntegratedReport_RORZE_jp_2025.pdf・3回目）
+  - 「会社概要 | ローツェ 株式会社 — 会社概要 | ローツェ 株式会社 ローツェ株式会社 https://www.rorze.com > ごあいさつ」（https://www.rorze.com/company/overview/・3回目）
+  - 「経営方針・体制 | ローツェ 株式会社 — 経営方針・体制 | ローツェ 株式会社 ローツェ株式会社 https://www.rorze.com > 株主・投資家情報」（https://www.rorze.com/ir/management/・3回目）
+  - 「ローツェ (株)【東証プライム市場上場】の採用データ - マイナビ — ローツェ (株)【東証プライム市場上場】の採用データ - マイナビ マイナビ https://job.mynavi.jp > corpinfo > displayEmployment」（https://job.mynavi.jp/27/pc/corpinfo/displayEmployment/index/?corpId=53920&recruitingCourseId=27058410・3回目）
+  - 「ローツェ （6323）事業 モデル と27年2月期2Q決算まとめ - note — ローツェ （6323）事業 モデル と27年2月期2Q決算まとめ - note note https://note.com > sokyokutei」（https://note.com/sokyokutei/n/n621905284fff?hl=ko・3回目）
+  - 「IRライブラリ | ローツェ 株式会社 — IRライブラリ | ローツェ 株式会社 ローツェ株式会社 https://www.rorze.com > 株主・投資家情報」（https://www.rorze.com/ir/library/・3回目）
+  - 「IRニュース | ローツェ 株式会社 — IRニュース | ローツェ 株式会社 ローツェ株式会社 https://www.rorze.com > ir_news」（https://www.rorze.com/ir_news/・3回目）
+  - 「2027年2月期(第42期) 第2四半期 決算説明資料 - ローツェ — 2027年2月期(第42期) 第2四半期 決算説明資料 - ローツェ ローツェ株式会社 PDF https://www.rorze.com > uploads > meeting_2027_Q2」（https://www.rorze.com/wp_rorze/wp-content/uploads/2026/10/meeting_2027_Q2.pdf・3回目）
+  - 「2026年2月期（第41期） 決算説明資料 - ローツェ — 2026年2月期（第41期） 決算説明資料 - ローツェ ローツェ株式会社 PDF https://www.rorze.com > uploads > meeting_2026_Q4」（https://www.rorze.com/wp_rorze/wp-content/uploads/2026/04/meeting_2026_Q4.pdf・3回目）
+  - 「【 ローツェ 】[6323]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 ローツェ 】[6323]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo」（https://www.nikkei.com/nkd/company/kigyo/?scode=6323・3回目）
+  - 「第40期 有価証券報告書 - ローツェ株式会社 — 第40期 有価証券報告書 - ローツェ株式会社 ローツェ株式会社 PDF https://www.rorze.com > uploads > 2025/05」（https://www.rorze.com/wp_rorze/wp-content/uploads/2025/05/RORZE_40_4Q.pdf・3回目）
+  - 「国内・海外拠点 | ローツェ 株式会社 — 国内・海外拠点 | ローツェ 株式会社 ローツェ株式会社 https://www.rorze.com > ごあいさつ」（https://www.rorze.com/company/base/・3回目）
+- ビジネスモデル：記載なし（3回確認済み：公式20頁／PDF・画像8件／外部2頁・検索5回）
 
 ## ロードスターキャピタル
 - 公式URL：https://www.loadstarcapital.com/（search:yahoo_jp:ロードスターキャピタル）
@@ -14767,6 +21884,101 @@
   - 「ワンキャリア 会社説明資料 / Company Deck — ワンキャリア 会社説明資料 / Company Deck Speaker Deck https://speakerdeck.com > onecareer > wankiyaria-hui-she...」（https://speakerdeck.com/onecareer/wankiyaria-hui-she-shao-jie-zi-liao・3回目）
   - 「就活サイト【 ワンキャリア 】インターンシップや新卒の就職 ... — 就活サイト【 ワンキャリア 】インターンシップや新卒の就職 ... ワンキャリア https://www.onecareer.jp」（https://www.onecareer.jp/・3回目）
 - 売上構成：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部8頁・検索5回）
+
+## 上村工業
+- 公式URL：https://www.uyemura.co.jp/（search:yahoo_jp:上村工業）
+- 設立：1848年（嘉永元年）​（https://www.uyemura.co.jp/company/outline/・1回目）
+- 設立：1933年（昭和8年）12月3日​（https://www.uyemura.co.jp/company/outline/・1回目）
+- 従業員数：単体：284名​ 連結：1,528名​ （2026年3月末現在）​（https://www.uyemura.co.jp/company/outline/・1回目）
+- 事業内容：めっき用化学品・機械の研究、開発、製造、販売など​（https://www.uyemura.co.jp/company/outline/・1回目）
+- 売上高：単体：453 億 70 百万円 連結：917 億 84 百万円 （2025年4月1日～2026年3月31日）（https://www.uyemura.co.jp/company/outline/・1回目）
+- ビジネスモデル：
+  - 「【スマートホーム2.0 暮らしを劇的に変える住まいの進化】〈12〉日本のテレビ産業の没落 水面下で進んだビジネスモデル転換」（https://dempa-digital.com/article/113328・3回目）
+- 誰に：
+  - 「当社において開発された製品を市場に出す前に、ユーザーでの使用条件を実験・確認するための工場として、大阪府守口市に合弁会社、三和防錆株式会社（後に株式会社サミックスへ社名変更）を設立した」（https://www.uyemura.co.jp/company/history/・1回目）
+  - 「無電解ニッケルめっき液管理装置は「ケミロボ」シリーズと合わせてユーザーのニーズに合った装置を供給できる体制ができ、多数のめっき現場で採用された」（https://www.uyemura.co.jp/company/history/・1回目）
+  - 「お客様の多様なニーズに対応したオンリーワンの製品・サービスをご提供するべく、めっき用薬品、めっき用装置、液管理装置の「めっきに関わる全ての分野」から最先端のものづくりをサポートいたします」（https://www.uyemura.co.jp/company/business/・1回目）
+  - 「ウエムラでは、お客様のもとに製品を納入した後も、生産現場に寄り添い、営業・技術が一体となった、きめ細かな技術支援を行っています」（https://www.uyemura.co.jp/company/business/・1回目）
+  - 「日本国内には東京・名古屋・大阪に営業拠点を設け、お客様のものづくりを全力でサポートしています」（https://www.uyemura.co.jp/company/business/・1回目）
+  - 「また、1980年代中頃から海外に進出し、環太平洋地域に生産拠点を持つお客様を国内と変わらぬサービスでバックアップしています」（https://www.uyemura.co.jp/company/business/・1回目）
+  - 「そんな顧客からの信頼を育ててきたのは、」（https://www.uyemura.co.jp/development/modelplant/・1回目）
+  - 「これらすべてを扱うということは、お客様から求められるソリューションを提供するために、全責任を負うということ」（https://www.uyemura.co.jp/development/modelplant/・1回目）
+  - 「そのことを寄せられるお客様からの信頼は、長年にわたって私たちの事業の大きな推進力となってきました」（https://www.uyemura.co.jp/development/modelplant/・1回目）
+  - 「しかし、お客様に提供するサービスの確かさを、自分たちの工場で、自分たちの手で確認したいという思いを持つウエムラにとって、それは当然のことでした」（https://www.uyemura.co.jp/development/modelplant/・1回目）
+  - 「さらに、海外進出をご検討になるお客様に対しては、現場調査から、工場計画まで行うフルサポート」（https://www.uyemura.co.jp/development/modelplant/・1回目）
+  - 「顧客との契約か」（https://www.uyemura.co.jp/wordpress/wp-content/uploads/2026/08/80e2388d38075880d1d9fa181a0ec420.pdf・2回目）
+- 何を：
+  - 「製品・研究開発情報​」（https://www.uyemura.co.jp/・1回目）
+  - 「製品情報はこちら」（https://www.uyemura.co.jp/・1回目）
+  - 「社外講演のお知らせ（複合めっきの概要および無電解Ni-P/PTFE複合めっき浴ニムフロン製品の紹介）」（https://www.uyemura.co.jp/・1回目）
+  - 「ウエムラがご提案するめっきのトータルソリューション」（https://www.uyemura.co.jp/・1回目）
+  - 「自動車、パソコン、携帯端末、家電製品など、身の回りの様々な製品に使われているめっきの技術」（https://www.uyemura.co.jp/・1回目）
+  - 「製品・研究開発情報​」（https://www.uyemura.co.jp/ir/・1回目）
+  - 「製品・研究開発情報​」（https://www.uyemura.co.jp/inquiry/・1回目）
+  - 「弊社の製品に関するお問い合わせ」（https://www.uyemura.co.jp/inquiry/・1回目）
+  - 「貴社製品・サービスの売込みはご遠慮ください」（https://www.uyemura.co.jp/inquiry/・1回目）
+  - 「製品・研究開発情報​」（https://www.uyemura.co.jp/company/outline/・1回目）
+  - 「製品・研究開発情報​」（https://www.uyemura.co.jp/company/history/・1回目）
+  - 「やがてシアン化銅めっき用の光沢剤「アサヒカプナー」や光沢ニッケルめっき用の「アサヒライト」などの独自製品を開発して成功を収めた」（https://www.uyemura.co.jp/company/history/・1回目）
+- どうやって売るか：
+  - 「モデル工場紹介​」（https://www.uyemura.co.jp/・1回目）
+  - 「社外講演のお知らせ（複合めっきの概要および無電解Ni-P/PTFE複合めっき浴ニムフロン製品の紹介）」（https://www.uyemura.co.jp/・1回目）
+  - 「そんなめっきのことなら何でも知っているウエムラ博士が、めっきの「あれこれ」をご紹介します」（https://www.uyemura.co.jp/・1回目）
+  - 「モデル工場紹介​」（https://www.uyemura.co.jp/ir/・1回目）
+  - 「モデル工場紹介​」（https://www.uyemura.co.jp/inquiry/・1回目）
+  - 「モデル工場紹介​」（https://www.uyemura.co.jp/company/outline/・1回目）
+  - 「モデル工場紹介​」（https://www.uyemura.co.jp/company/history/・1回目）
+  - 「1848年に日本の薬種取引の中心地であった大阪の道修町に和漢薬種商を専門とする店舗を構えたのが当社の始まりである」（https://www.uyemura.co.jp/company/history/・1回目）
+  - 「モデル工場紹介​」（https://www.uyemura.co.jp/company/business/・1回目）
+  - 「モデル工場紹介」（https://www.uyemura.co.jp/company/business/・1回目）
+  - 「モデル工場紹介 | 上村工業株式会社」（https://www.uyemura.co.jp/development/modelplant/・1回目）
+  - 「モデル工場紹介​」（https://www.uyemura.co.jp/development/modelplant/・1回目）
+- お金の形：
+  - 「支払手数料 5 7」（https://www.uyemura.co.jp/wordpress/wp-content/uploads/2026/08/80e2388d38075880d1d9fa181a0ec420.pdf・2回目）
+- 売上構成：
+  - 「調に推移し、売上高、セグメント利益ともに前年同四半期を上回りました」（https://www.uyemura.co.jp/wordpress/wp-content/uploads/2026/08/8471e999a76166121fa8822f27ee43b9.pdf・2回目）
+  - 「販売により、セグメント利益は前年同四半期を上回りました」（https://www.uyemura.co.jp/wordpress/wp-content/uploads/2026/08/8471e999a76166121fa8822f27ee43b9.pdf・2回目）
+  - 「上回りましたが、原材料価格の高騰等の影響により、セグメント利益は前年同四半期を下」（https://www.uyemura.co.jp/wordpress/wp-content/uploads/2026/08/8471e999a76166121fa8822f27ee43b9.pdf・2回目）
+  - 「事業セグメント別売上高」（https://www.uyemura.co.jp/wordpress/wp-content/uploads/2026/08/8471e999a76166121fa8822f27ee43b9.pdf・2回目）
+  - 「事業セグメント別営業利益」（https://www.uyemura.co.jp/wordpress/wp-content/uploads/2026/08/8471e999a76166121fa8822f27ee43b9.pdf・2回目）
+  - 「構成比 構成比」（https://www.uyemura.co.jp/wordpress/wp-content/uploads/2026/08/8471e999a76166121fa8822f27ee43b9.pdf・2回目）
+  - 「⚫ 事業セグメント別売上高・営業利益予想」（https://www.uyemura.co.jp/wordpress/wp-content/uploads/2026/08/8471e999a76166121fa8822f27ee43b9.pdf・2回目）
+  - 「（セグメント情報等の注記） ……………………………………………………………………………………… 8」（https://www.uyemura.co.jp/wordpress/wp-content/uploads/2026/08/80e2388d38075880d1d9fa181a0ec420.pdf・2回目）
+  - 「セグメントごとの経営成績は、次のとおりであります」（https://www.uyemura.co.jp/wordpress/wp-content/uploads/2026/08/80e2388d38075880d1d9fa181a0ec420.pdf・2回目）
+  - 「上高、セグメント利益ともに前年同四半期を上回りました」（https://www.uyemura.co.jp/wordpress/wp-content/uploads/2026/08/80e2388d38075880d1d9fa181a0ec420.pdf・2回目）
+  - 「この結果、当第１四半期連結累計期間の売上高は227億５百万円（前年同四半期比36.9％増）、セグメント」（https://www.uyemura.co.jp/wordpress/wp-content/uploads/2026/08/80e2388d38075880d1d9fa181a0ec420.pdf・2回目）
+  - 「この結果、当第１四半期連結累計期間の売上高は18億84百万円（前年同四半期比11.8％減）、セグメント利」（https://www.uyemura.co.jp/wordpress/wp-content/uploads/2026/08/80e2388d38075880d1d9fa181a0ec420.pdf・2回目）
+- 利益の源泉：
+  - 「ウエムラの強みは、このモデル工場にあります」（https://www.uyemura.co.jp/development/modelplant/・1回目）
+  - 「営業利益率（%）」（https://www.uyemura.co.jp/wordpress/wp-content/uploads/2026/08/8471e999a76166121fa8822f27ee43b9.pdf・2回目）
+  - 「売上高 営業利益 営業利益率」（https://www.uyemura.co.jp/wordpress/wp-content/uploads/2026/08/8471e999a76166121fa8822f27ee43b9.pdf・2回目）
+  - 「7月以降は前倒し需要の在庫調整で、前年同期比で見ると11月ぐらいまでは少し厳しくなりそうだ」（https://dempa-digital.com/article/113328・3回目）
+- 沿革：
+  - 「2027年3月期第1四半期決算説明資料 を掲載いたしました」（https://www.uyemura.co.jp/・1回目）
+  - 「2027年３月期 第１四半期決算短信〔日本基準〕（連結） を掲載いたしました」（https://www.uyemura.co.jp/・1回目）
+  - 「1968年に開設した中央研究所（大阪府枚方市）では、⾼度な分析を可能にする最新設備を揃え、」（https://www.uyemura.co.jp/・1回目）
+  - 「2027年3月期第1四半期決算説明資料 を掲載いたしました」（https://www.uyemura.co.jp/ir/・1回目）
+  - 「2027年３月期 第１四半期決算短信〔日本基準〕（連結） を掲載いたしました」（https://www.uyemura.co.jp/ir/・1回目）
+  - 「2026年3月期決算説明資料 を掲載いたしました」（https://www.uyemura.co.jp/ir/・1回目）
+  - 「2026年３月期 決算短信〔日本基準〕（連結） を掲載いたしました」（https://www.uyemura.co.jp/ir/・1回目）
+  - 「1933年（昭和8年）12月3日​」（https://www.uyemura.co.jp/company/outline/・1回目）
+  - 「1918年に油脂性研磨剤の国産化に成功し、製造を始めた」（https://www.uyemura.co.jp/company/history/・1回目）
+  - 「1969年に社名を現在の上村工業株式会社に変更した」（https://www.uyemura.co.jp/company/history/・1回目）
+  - 「1978年頃の枚方工場」（https://www.uyemura.co.jp/company/history/・1回目）
+  - 「1996年に無電解めっきによるハードディスク下地層形成技術の開発で科学技術庁長官賞を受賞した」（https://www.uyemura.co.jp/company/history/・1回目）
+- 検索結果の抜粋：
+  - 「事業内容 | 上村工業 株式会社 — 事業内容 | 上村工業 株式会社 上村工業株式会社 https://www.uyemura.co.jp > 企業情報」（https://www.uyemura.co.jp/company/business/・3回目）
+  - 「【ASEAN特集】 上村工業 新規顧客開拓を積極的に進める — 【ASEAN特集】 上村工業 新規顧客開拓を積極的に進める 電波新聞デジタル https://dempa-digital.com > article」（https://dempa-digital.com/article/113328・3回目）
+  - 「【隠れた巨人】 上村工業 （4966）AI半導体を ... - YouTube — 【隠れた巨人】 上村工業 （4966）AI半導体を ... - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=zkMQ8O4XbAI・3回目）
+  - 「モデル 工場紹介 | 上村工業 株式会社 — モデル 工場紹介 | 上村工業 株式会社 上村工業株式会社 https://www.uyemura.co.jp > 製品・研究開発情報」（https://www.uyemura.co.jp/development/modelplant/・3回目）
+  - 「上村工業 株式会社の会社情報 - LabBase就職 — 上村工業 株式会社の会社情報 - LabBase就職 LabBase就職 https://compass.labbase.jp > company」（https://compass.labbase.jp/company/1787・3回目）
+  - 「IRライブラリ | 上村工業 株式会社 — IRライブラリ | 上村工業 株式会社 上村工業株式会社 https://www.uyemura.co.jp > IR情報」（https://www.uyemura.co.jp/ir/library/・3回目）
+  - 「IR情報 | 上村工業 株式会社 — IR情報 | 上村工業 株式会社 上村工業株式会社 https://www.uyemura.co.jp > ...」（https://www.uyemura.co.jp/ir/・3回目）
+  - 「【 上村工業 】[4966]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 上村工業 】[4966]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo」（https://www.nikkei.com/nkd/company/kigyo/?scode=4966・3回目）
+  - 「2026年3月期 決算説明資料 を掲載いたしました - 上村工業 — 2026年3月期 決算説明資料 を掲載いたしました - 上村工業 上村工業株式会社 https://www.uyemura.co.jp > topics-ir」（https://www.uyemura.co.jp/topics-ir/12138/・3回目）
+  - 「上村工業 【4966】の最新 決算 発表、業績修正 - 株探 — 上村工業 【4966】の最新 決算 発表、業績修正 - 株探 株探 https://kabutan.jp > 上村工業 (4966) > 決算」（https://kabutan.jp/stock/finance?code=4966・3回目）
+  - 「拠点一覧 | 上村工業 株式会社 — 拠点一覧 | 上村工業 株式会社 上村工業株式会社 https://www.uyemura.co.jp > 企業情報」（https://www.uyemura.co.jp/company/location/・3回目）
+  - 「事業 内容 | 上村工業 株式会社 — 事業 内容 | 上村工業 株式会社 上村工業株式会社 https://www.uyemura.co.jp > 企業情報」（https://www.uyemura.co.jp/company/business/・3回目）
 
 ## 中外製薬
 - 公式URL：https://www.chugai-pharm.co.jp/（search:yahoo_jp:中外製薬）
@@ -15072,6 +22284,116 @@
 - 売上構成：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部2頁・検索5回）
 - 利益の源泉：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部2頁・検索5回）
 
+## 丸八証券
+- 公式URL：https://www.maruhachi-sec.co.jp/（search:yahoo_jp:丸八証券）
+- 設立：昭和19年3月30日（https://www.maruhachi-sec.co.jp/company/gaiyou.php・1回目）
+- 設立：1944年 （ 昭和 19年） 3月30日（https://ja.wikipedia.org/wiki/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8・3回目）
+- 従業員数：149名（2026年9月末現在）（https://www.maruhachi-sec.co.jp/company/gaiyou.php・1回目）
+- 従業員数：149名 （2020年3月31日現在） [ 1 ]（https://ja.wikipedia.org/wiki/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8・3回目）
+- 売上高：2,864 2,502 3,262 3,082 3,576（https://www.maruhachi-sec.co.jp/ir-news/zaimu.php・1回目）
+- 売上高：2,847 2,497 3,258 3,077 3,560（https://www.maruhachi-sec.co.jp/ir-news/zaimu.php・1回目）
+- 売上高：24億21百万円 （2020年3月期） [ 1 ]（https://ja.wikipedia.org/wiki/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8・3回目）
+- ビジネスモデル：
+  - 「のビジネスモデルに応じて 、運用責任者や運用の責任を実質的に負う者について、本人の同意の」（https://www.maruhachi-sec.co.jp/cms/footer_pdf/dl.php?nid=43・1回目）
+  - 「丸八証券が地域に根ざして実現するビジネスモデルの魅力 | チームマイクの企業分析」（https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/・3回目）
+  - 「丸八証券が地域に根ざして実現するビジネスモデルの魅力」（https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/・3回目）
+  - 「これが口コミや地域コミュニティを介して新たな顧客を呼び込み、丸八証券のビジネスモデルをさらに強固なものにしてきました」（https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/・3回目）
+  - 「証券会社のビジネスモデルがこれらの手数料やフィーによって成り立っており、特に対面でのサポートが多い丸八証券では、人件費や店舗運営費をまかなうためにも手数料が重要だからです」（https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/・3回目）
+  - 「ビジネスモデルと地域性を両立させる姿勢が、今後の丸八証券を語る上で欠かせないポイントになりそうです」（https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/・3回目）
+  - 「水戸証券が魅せる最新ビジネスモデルと成長戦略」（https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/・3回目）
+  - 「GMOフィナンシャルホールディングスのビジネスモデルを徹底解説 成長戦略とIR資料から見る魅力」（https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/・3回目）
+  - 「岡三証券グループのビジネスモデルと成長戦略を徹底解説」（https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/・3回目）
+  - 「MS&ADインシュアランスグループホールディングスのビジネスモデルが分かる魅力解説」（https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/・3回目）
+  - 「日産証券グループのビジネスモデルを徹底解説 魅力と成長戦略のポイント」（https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/・3回目）
+  - 「株式会社UNBANKEDのビジネスモデルと成長の魅力」（https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/・3回目）
+- 誰に：
+  - 「「お客様本位の業務運営」に対する取り組みの公表」（https://www.maruhachi-sec.co.jp/・1回目）
+  - 「お客様相談室では、お客様のご意見・苦情を受付けております」（https://www.maruhachi-sec.co.jp/・1回目）
+  - 「お客様相談室」（https://www.maruhachi-sec.co.jp/・1回目）
+  - 「※発信者番号を非通知に設定されているお客様は、はじめに186（番号通知）をダイヤルしてからご利用ください」（https://www.maruhachi-sec.co.jp/・1回目）
+  - 「お客様本位の業務運営に関する方針」（https://www.maruhachi-sec.co.jp/・1回目）
+  - 「募集等にかかる株券等のお客様への配分にかかる基本方針」（https://www.maruhachi-sec.co.jp/・1回目）
+  - 「「お客様本位の業務運営」に対する取り組みの公表」（https://www.maruhachi-sec.co.jp/ir-news/・1回目）
+  - 「顧客資産の分別管理に関する保証業務について」（https://www.maruhachi-sec.co.jp/ir-news/・1回目）
+  - 「お客様本位の業務運営に関する基本方針の改正」（https://www.maruhachi-sec.co.jp/ir-news/・1回目）
+  - 「お客様相談室では、お客様のご意見・苦情を受付けております」（https://www.maruhachi-sec.co.jp/ir-news/・1回目）
+  - 「お客様相談室」（https://www.maruhachi-sec.co.jp/ir-news/・1回目）
+  - 「※発信者番号を非通知に設定されているお客様は、はじめに186（番号通知）をダイヤルしてからご利用ください」（https://www.maruhachi-sec.co.jp/ir-news/・1回目）
+- 何を：
+  - 「取扱商品一覧」（https://www.maruhachi-sec.co.jp/・1回目）
+  - 「残高照会サービス」（https://www.maruhachi-sec.co.jp/・1回目）
+  - 「金融商品にご投資いただく際には、各商品等に所定の手数料や諸経費等をご負担いただく場合があります」（https://www.maruhachi-sec.co.jp/・1回目）
+  - 「また、各商品等には価格の変動等による損失が生じるおそれがあります」（https://www.maruhachi-sec.co.jp/・1回目）
+  - 「商品ごとに手数料等およびリスクは異なりますので、該当商品の契約締結前交付書面等をよくお読みください」（https://www.maruhachi-sec.co.jp/・1回目）
+  - 「丸八証券株式会社 金融商品取引業者 東海財務局長（金商）第20 号 加入協会：日本証券業協会」（https://www.maruhachi-sec.co.jp/・1回目）
+  - 「取扱商品一覧」（https://www.maruhachi-sec.co.jp/ir-news/・1回目）
+  - 「金融商品にご投資いただく際には、各商品等に所定の手数料や諸経費等をご負担いただく場合があります」（https://www.maruhachi-sec.co.jp/ir-news/・1回目）
+  - 「また、各商品等には価格の変動等による損失が生じるおそれがあります」（https://www.maruhachi-sec.co.jp/ir-news/・1回目）
+  - 「商品ごとに手数料等およびリスクは異なりますので、該当商品の契約締結前交付書面等をよくお読みください」（https://www.maruhachi-sec.co.jp/ir-news/・1回目）
+  - 「丸八証券株式会社 金融商品取引業者 東海財務局長（金商）第20 号 加入協会：日本証券業協会」（https://www.maruhachi-sec.co.jp/ir-news/・1回目）
+  - 「取扱商品一覧」（https://www.maruhachi-sec.co.jp/company/gaiyou.php・1回目）
+- どうやって売るか：
+  - 「営業店舗の移転に関するお知らせ」（https://www.maruhachi-sec.co.jp/ir-news/・1回目）
+  - 「営業店舗移転に関するお知らせ」（https://www.maruhachi-sec.co.jp/ir-news/・1回目）
+  - 「得を促し、お客様のご希望によっては税理士・弁護士等の専門家をご紹介しております」（https://www.maruhachi-sec.co.jp/cms/footer_pdf/dl.php?nid=43・1回目）
+  - 「この細やかな対応が、お客さまの継続的な利用と紹介につながっています」（https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/・3回目）
+  - 「丸八証券のリソースは、経験豊富な営業スタッフや地域に密着した店舗網、さらに多様な金融商品です」（https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/・3回目）
+  - 「丸八証券では東海東京フィナンシャル・ホールディングスとの連携など、外部とのパートナーシップを活用しています」（https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/・3回目）
+  - 「このパートナーシップは、丸八証券の営業力と大手グループのシステムや商品力の相乗効果で、お客さまへの付加価値を高める役割を果たしています」（https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/・3回目）
+  - 「丸八証券のチャンネルは、対面中心の店舗営業と、電話やメールを使ったサポートです」（https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/・3回目）
+  - 「こうしたチャンネルの運営はコストがかかりますが、その分リピーターや紹介が増えやすいという特徴があります」（https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/・3回目）
+  - 「丸八証券は、お客さまとの関係を長期的なパートナーシップとして考えています」（https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/・3回目）
+  - 「この継続的な関係づくりが、丸八証券への信頼やリピート、紹介などを増やす原動力となっています」（https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/・3回目）
+  - 「証券会社のビジネスモデルがこれらの手数料やフィーによって成り立っており、特に対面でのサポートが多い丸八証券では、人件費や店舗運営費をまかなうためにも手数料が重要だからです」（https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/・3回目）
+- お金の形：
+  - 「リスク・手数料」（https://www.maruhachi-sec.co.jp/・1回目）
+  - 「金融商品にご投資いただく際には、各商品等に所定の手数料や諸経費等をご負担いただく場合があります」（https://www.maruhachi-sec.co.jp/・1回目）
+  - 「商品ごとに手数料等およびリスクは異なりますので、該当商品の契約締結前交付書面等をよくお読みください」（https://www.maruhachi-sec.co.jp/・1回目）
+  - 「リスク・手数料」（https://www.maruhachi-sec.co.jp/ir-news/・1回目）
+  - 「金融商品にご投資いただく際には、各商品等に所定の手数料や諸経費等をご負担いただく場合があります」（https://www.maruhachi-sec.co.jp/ir-news/・1回目）
+  - 「商品ごとに手数料等およびリスクは異なりますので、該当商品の契約締結前交付書面等をよくお読みください」（https://www.maruhachi-sec.co.jp/ir-news/・1回目）
+  - 「リスク・手数料」（https://www.maruhachi-sec.co.jp/company/gaiyou.php・1回目）
+  - 「金融商品にご投資いただく際には、各商品等に所定の手数料や諸経費等をご負担いただく場合があります」（https://www.maruhachi-sec.co.jp/company/gaiyou.php・1回目）
+  - 「商品ごとに手数料等およびリスクは異なりますので、該当商品の契約締結前交付書面等をよくお読みください」（https://www.maruhachi-sec.co.jp/company/gaiyou.php・1回目）
+  - 「リスク・手数料」（https://www.maruhachi-sec.co.jp/company/history.php・1回目）
+  - 「金融商品にご投資いただく際には、各商品等に所定の手数料や諸経費等をご負担いただく場合があります」（https://www.maruhachi-sec.co.jp/company/history.php・1回目）
+  - 「商品ごとに手数料等およびリスクは異なりますので、該当商品の契約締結前交付書面等をよくお読みください」（https://www.maruhachi-sec.co.jp/company/history.php・1回目）
+- 売上構成：
+  - 「顧客セグメント」（https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/・3回目）
+  - 「丸八証券の主な顧客セグメントは、愛知県を中心とした個人投資家や中小企業です」（https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/・3回目）
+- 利益の源泉：
+  - 「地域密着型のコンサルティング力ときめ細かな顧客サポートを強みに、顧客の長期的な資産形成を総合的に手掛ける事業基盤を構築しています」（https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/・3回目）
+  - 「しかし一方で、対面を大切にする姿勢は同社の大きな強みでもあります」（https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/・3回目）
+  - 「企業概要と最近の業績水戸証券株式会社【全体の業績】水戸証券は、茨城県をはじめとする関東エリアを中心に地域密着型の店舗ネットワークを構え、対面営業による丁寧なコンサルティングを強みとして株式・投資信託・債券などの投資・金融サービスを提供する老...」（https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/・3回目）
+  - 「企業概要と最近の業績日産証券グループ株式会社【全体の業績】日産証券グループは、創業から長年にわたり培った商品先物取引やデリバティブ取引の高度な知見を強みとし、国内外の有価証券取引、FX（外国為替証拠金取引）、商品先物取引などを包括的に展開す...」（https://consovation.com/%E4%B8%B8%E5%85%AB%E8%A8%BC%E5%88%B8%E3%81%8C%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%A6%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87/・3回目）
+- 沿革：
+  - 「2027年３月期 第2四半期（中間期）決算短信〔日本基準〕（非連結)」（https://www.maruhachi-sec.co.jp/・1回目）
+  - 「2027年３月期 第2四半期（中間期）決算速報値に関するお知らせ」（https://www.maruhachi-sec.co.jp/・1回目）
+  - 「令和８年台風第18号に伴う災害等に対する金融上の措置について」（https://www.maruhachi-sec.co.jp/・1回目）
+  - 「2027年３月期 第2四半期（中間期）決算短信〔日本基準〕（非連結)」（https://www.maruhachi-sec.co.jp/ir-news/・1回目）
+  - 「2027年３月期 第2四半期（中間期）決算速報値に関するお知らせ」（https://www.maruhachi-sec.co.jp/ir-news/・1回目）
+  - 「2027年3月期 第1四半期決算短信〔日本基準〕（非連結)」（https://www.maruhachi-sec.co.jp/ir-news/・1回目）
+  - 「2027年3月期 第１四半期決算速報値に関するお知らせ」（https://www.maruhachi-sec.co.jp/ir-news/・1回目）
+  - 「2026年3月期 決算短信〔日本基準〕（非連結)」（https://www.maruhachi-sec.co.jp/ir-news/・1回目）
+  - 「2026年3月期 決算速報値に関するお知らせ」（https://www.maruhachi-sec.co.jp/ir-news/・1回目）
+  - 「2026年3月期 配当予想に関するお知らせ」（https://www.maruhachi-sec.co.jp/ir-news/・1回目）
+  - 「2026年３月期 第３四半期決算短信〔日本基準〕(非連結)」（https://www.maruhachi-sec.co.jp/ir-news/・1回目）
+  - 「2026年３月期 第3四半期決算速報値に関するお知らせ」（https://www.maruhachi-sec.co.jp/ir-news/・1回目）
+- 検索結果の抜粋：
+  - 「丸八証券 - Wikipedia — 丸八証券 ... 丸八証券株式会社 （まるはちしょうけん、 英: Maruhachi Securities Co.,Ltd.）は、 愛知県 名古屋市 に本店を置く日本の 証券会社。 東海東京フィナンシャル・ホールディングス の 連結子会社。」（https://ja.wikipedia.org/wiki/丸八証券・3回目）
+  - 「丸八証券が地域に根ざして実現するビジネスモデルの魅力 | チームマイ... — Feb 28, 2025 · 主要活動 丸八証券の主要活動は、お客さまへの資産運用提案や金融商品の販売、そしてマーケット情報の提供です。 営業担当が対面でお客さまの意向をじっくりヒアリングし、それぞれのライフステージや資産状況に合った投資信託や株式を提案しています。」（https://consovation.com/丸八証券が地域に根ざして実現するビジネスモデ/・3回目）
+  - 「丸八証券株式会社 — 契約締結前交付書面等について マネロン・テロ資金供与対策に関する基本方針 求職者等に対するセクシャルハラスメント防止に関する基本方針 丸八証券株式会社 金融商品取引業者 東海財務局長（金商）第20 号 加入協会：日本証券業協会」（https://www.maruhachi-sec.co.jp/・3回目）
+  - 「丸八証券 (8700) の企業概要・業績・財務・IR資料｜CREX経済データプ... — 丸八証券（8700・証券、商品先物取引業）の最新決算サマリ・売上推移・財務指標・経営戦略をAIが構造化要約。 投資家・就活生・業界研究向けの企業データプラットフォーム。」（https://www.crex-data.com/company/8700・3回目）
+  - 「【丸八証券】 [8700]IR情報 中期経営計画や決算短信 | 日経電子版 — 丸八証券 現在値 (15:30)： 2,025 円 前日比： ＋20 (＋1.00％) トップ ニュース チャート 株価 業績・財務 市場予想 企業発情報 企業概要 株主情報 年収 ...」（https://www.nikkei.com/nkd/company/kigyo/?scode=8700・3回目）
+  - 「丸八証券（8700）のIR情報・決算資料 - IRBANK — Jul 24, 2026 · 丸八証券（8700）のIR情報・決算資料 β版IRBANKでは、 有報・決算資料の中身 がすぐ引ける新規登録の受付は残り 6 日 無料でβ版をはじめる 登録すると永久30%OFFと米株版の先行利用も付きます 2026/10/22」（https://irbank.net/8700/ir・3回目）
+  - 「丸八証券 (株)【8700】：決算情報 - Yahoo!ファイナンス — 3 days ago · 丸八証券 (株)【8700】の決算短信を生成AIで要約した内容をご覧いただけます。 Yahoo!ファイナンスでは株価速報、チャート、ランキング、ポートフォリオ、ニュース、掲示板など投資判断に役立つ情報を掲載しています。」（https://finance.yahoo.co.jp/quote/8700.T/financials・3回目）
+  - 「丸八証券株式会社（8700）決算短信・有価証券報告書 — 丸八証券株式会社（証券コード 8700）の決算資料をまとめて掲載。 有価証券報告書・半期報告書 4 件、決算短信・決算説明会資料など適時開示 4 件。 PDF は EDINET・TDnet の原本へ直接リンクしています。」（https://treelazy.com/stock-jp/8700・3回目）
+  - 「丸八証券株式会社（8700）適時開示・決算短信 一覧｜毎日更新｜Treela... — 丸八証券株式会社（8700）の適時開示 4 件：決算短信・決算説明会資料・業績予想修正など、TDnet から毎日収集。PDF 原文へのリンク付き。」（https://treelazy.com/stock-jp/8700/conference・3回目）
+  - 「IR情報・電子公告 | 丸八証券株式会社 — Oct 22, 2026 · 2024/07/31 「丸八証券 設立80周年記念講演会」開催のお知らせ 2024/07/31 2025年3月期 第1四半期決算短信〔日本基準〕（非連結） 2024/07/24 2025年3月期 第1四半期決算速報値に関するお知らせ 2024/07/01 顧客資産の分別管理に関する保証業務について 2024/06/25」（https://www.maruhachi-sec.co.jp/ir-news/・3回目）
+  - 「丸八証券（8700）の事業内容・業績｜平均年収749万円・売上36億円（20... — 丸八証券（8700）は証券、商品先物取引業の会社。 2026年3月期は売上36億円・営業利益7億円、平均年収749万円。 事業内容と業績を有価証券報告書の数字で図解。」（https://zukaikeizai.com/kaisha/8700/・3回目）
+  - 「丸八証券（8700）の関連テーマ・事業内容｜事業テーマPro — 概要 丸八証券は、愛知県名古屋市に本社を置く証券会社です。 東海東京フィナンシャル・ホールディングスの連結子会社であり、地域密着型の営業を強みとしています。 お客様との対面での営業を重視し、資産形成のサポートを行っています。」（https://jigyou-v2.kabu-trendpro.com/company/8700/・3回目）
+- 事業内容：記載なし（3回確認済み：公式25頁／PDF・画像3件／外部6頁・検索5回）
+
 ## 京阪神ビルディング
 - 公式URL：https://stracap.jp/（search:ddgs:google:京阪神ビルディング 株式会社）
 - 設立：2012年9月（https://stracap.jp/company・1回目）
@@ -15305,6 +22627,276 @@
 - ビジネスモデル：記載なし（3回確認済み：公式25頁／PDF・画像7件／外部0頁・検索5回）
 - 売上構成：記載なし（3回確認済み：公式25頁／PDF・画像7件／外部0頁・検索5回）
 - 利益の源泉：記載なし（3回確認済み：公式25頁／PDF・画像7件／外部0頁・検索5回）
+
+## 伊勢化学工業
+- 公式URL：https://www.isechem.co.jp/（search:yahoo_jp:伊勢化学工業）
+- ビジネスモデル：
+  - 「そして今、この堅実なビジネスモデルに、巨大な成長カタリストが加わろうとしています」（https://note.com/tatsuya_sabato/n/nbc9fac26a6b6・3回目）
+  - 「第2章：ビジネスモデルの深層分析「二つの収益エンジン」」（https://note.com/tatsuya_sabato/n/nbc9fac26a6b6・3回目）
+  - 「そのビジネスモデルには、極めて高効率な「二つのエンジン」が搭載されています」（https://note.com/tatsuya_sabato/n/nbc9fac26a6b6・3回目）
+- 誰に：
+  - 「当社では、1970年代から金属化合物事業をスタートし、現在ではニッケル、コバルト系の金属化合物をお客様のニーズに合わせて、徹底した品質管理の下に生産しております」（https://www.isechem.co.jp/business/businessfield/・1回目）
+  - 「お客様のニーズに応え得る研究開発」（https://www.isechem.co.jp/business/businessfield/metals/・1回目）
+  - 「お客様との対話の中でニーズを探り、研究開発を進めてゆく」（https://www.isechem.co.jp/business/businessfield/metals/・1回目）
+  - 「）は、当社経営基本方針に基づき、株主・投資者、顧客、取引先、従業員、地域社会等、当社を取り巻くステークホルダー（以下、「ステークホルダー」という」（https://www.isechem.co.jp/ir/disclosure/・1回目）
+  - 「ものであり、 利用者の皆さまのプライバシー、 またはご利用環境を侵すことはありませ」（https://www.isechem.co.jp/assets/pdf/privacy.pdf・2回目）
+  - 「・ クッキー (Cookie) とは：ウェブサーバーがお客様のコンピュータを識別する技術です」（https://www.isechem.co.jp/assets/pdf/privacy.pdf・2回目）
+  - 「イトでは、 利用状況に関する統計・分析やお客様への情報提供、 その他サイトの利便性」（https://www.isechem.co.jp/assets/pdf/privacy.pdf・2回目）
+  - 「Google Analyticsでは、 「Cookie」を使用し、利用者の情報を収集していますが、利用」（https://www.isechem.co.jp/assets/pdf/privacy.pdf・2回目）
+  - 「計画的に実施し防災体制を強化、お客様にご安心いただける供給体制を盤石にしてまいります」（https://www.isechem.co.jp/assets/pdf/governance_report_260327.pdf・2回目）
+  - 「金属化合物事業では、ＭＬＣＣ向けの需要拡大に沿って生産体制を確保するとともに、お客様と連携し一層のコストダウンを図ってまいり」（https://www.isechem.co.jp/assets/pdf/governance_report_260327.pdf・2回目）
+  - 「スの重要な販売先となっており、当社と当該子会社は、相互に企業価値向上に資する関係にあります」（https://www.isechem.co.jp/assets/pdf/governance_report_260327.pdf・2回目）
+  - 「d 上場会社を主要な取引先とする者又はその業務執行者」（https://www.isechem.co.jp/assets/pdf/governance_report_260327.pdf・2回目）
+- 何を：
+  - 「どの分野でも製品を生産するだけでなく、リサイクルにも積極的に取り組んでいます」（https://www.isechem.co.jp/business/businessfield/・1回目）
+  - 「生命の星・地球に眠る地下資源の恩恵を受け、製品を生産しているからこそ環境への配慮を忘れない」（https://www.isechem.co.jp/business/businessfield/・1回目）
+  - 「その後、精製工程にて不純物を除去して高純度のヨウ素製品を製造します」（https://www.isechem.co.jp/business/businessfield/iodine/・1回目）
+  - 「主なヨウ素製品としては、独自開発した球状ヨウ素「イセフロー® 」やヨウ化カリウム、ヨウ化ナトリウム等のヨウ素化合物を製造しています」（https://www.isechem.co.jp/business/businessfield/iodine/・1回目）
+  - 「主力の塩化ニッケル製造工程においては、独自の晶析技術による安定生産を実現しています」（https://www.isechem.co.jp/business/businessfield/metals/・1回目）
+  - 「また、原料から製品まで徹底した品質管理のもと生産を行っています」（https://www.isechem.co.jp/business/businessfield/metals/・1回目）
+  - 「さらには、製品梱包工程をはじめ、製造工程のオートメーション化を進めており、生産効率の向上を図っています」（https://www.isechem.co.jp/business/businessfield/metals/・1回目）
+  - 「日本とアメリカ、2つの生産拠点から製品を輸出できるのが当社ならではの強みです」（https://www.isechem.co.jp/business/global/・1回目）
+  - 「これらを推進するために開発本部を中心に、営業、製造の各部門と連携して研究開発活動を進め、関連部署が一丸となって製造プロセス技術、付加価値製品の開発を行っています」（https://www.isechem.co.jp/business/rd/・1回目）
+  - 「上場金融商品取引所」（https://www.isechem.co.jp/profile/outline/・1回目）
+  - 「上場金融商品取引所」（https://www.isechem.co.jp/ir/procedure/・1回目）
+  - 「(１)当社は、法令及び上場金融商品取引所の定める諸規則等（以下、「法令等」という」（https://www.isechem.co.jp/ir/disclosure/・1回目）
+- どうやって売るか：
+  - 「そんな基本情報をわかりやすくご紹介します」（https://www.isechem.co.jp/・1回目）
+  - 「事業紹介 | 伊勢化学工業株式会社」（https://www.isechem.co.jp/business/・1回目）
+  - 「そんな基本情報をわかりやすくご紹介します」（https://www.isechem.co.jp/business/・1回目）
+  - 「そんな基本情報をわかりやすくご紹介します」（https://www.isechem.co.jp/ir/・1回目）
+  - 「の貢献度・達成状況）の評価による支給率を乗じて算出された額の妥当性について、指名・報酬委員会に諮問し、当該委員会の答申を最」（https://www.isechem.co.jp/assets/pdf/governance_report_260327.pdf・2回目）
+  - 「議した結果の妥当性について、指名・報酬委員会に諮問し、当該委員会の答申を最大限尊重の上、取締役会決議により、決定するもの」（https://www.isechem.co.jp/assets/pdf/governance_report_260327.pdf・2回目）
+  - 「4.経営陣幹部の選任・役員候補の指名を行うに当たっての方針・手続」（https://www.isechem.co.jp/assets/pdf/governance_report_260327.pdf・2回目）
+  - 「知識、専門性、見識等を考慮し、取締役・監査役候補を指名いたします」（https://www.isechem.co.jp/assets/pdf/governance_report_260327.pdf・2回目）
+  - 「迅速かつ適切に執行できる経験と能力を重視して指名いたします」（https://www.isechem.co.jp/assets/pdf/governance_report_260327.pdf・2回目）
+  - 「保護を図るため、取締役の指名・報酬等に係る取締役会の機能の独立性・客観性と説明責任を強化することを目的として、過半数の独立社」（https://www.isechem.co.jp/assets/pdf/governance_report_260327.pdf・2回目）
+  - 「外取締役で構成する指名・報酬委員会を設置いたしました」（https://www.isechem.co.jp/assets/pdf/governance_report_260327.pdf・2回目）
+  - 「5.役員候補の個々の選任・指名についての説明」（https://www.isechem.co.jp/assets/pdf/governance_report_260327.pdf・2回目）
+- お金の形：
+  - 「ストックオプションの付与対象者」（https://www.isechem.co.jp/assets/pdf/governance_report_260327.pdf・2回目）
+  - 「3.2021年３月26日開催の定時株主総会決議において、取締役の報酬限度額は、年額96百万円以内（うち社外取締役分24百万円以内）、」（https://www.isechem.co.jp/assets/pdf/governance_report_260327.pdf・2回目）
+  - 「監査役の報酬限度額は、年額30百万円以内と決議いただいております」（https://www.isechem.co.jp/assets/pdf/governance_report_260327.pdf・2回目）
+  - 「なお、2025年３月27日開催の定時株主総会決議において、取締役の報酬限度額は、年額100百万円以内（うち社外取締役分30百万円」（https://www.isechem.co.jp/assets/pdf/governance_report_260327.pdf・2回目）
+  - 「以内・使用人兼務取締役の使用人分給与等は含まない）、監査役の報酬限度額は、年額35百万円以内と決議いただいております」（https://www.isechem.co.jp/assets/pdf/governance_report_260327.pdf・2回目）
+  - 「月額1,650円(税込)」（https://online.nikkei-cnbc.co.jp/vod/61893・3回目）
+- 利益の源泉：
+  - 「日本とアメリカ、2つの生産拠点から製品を輸出できるのが当社ならではの強みです」（https://www.isechem.co.jp/business/global/・1回目）
+  - 「当社は、社内に異なる経験・技能・属性を反映した多様な視点や価値観が存在することは、会社の持続的な成長を確保する上での強みとなり得」（https://www.isechem.co.jp/assets/pdf/governance_report_260327.pdf・2回目）
+  - 「資源開発には巨額の設備投資が必要ですが、AGCの資本力と技術的バックアップがあることは、独立系の化学メーカーとは一線を画す強みとなります」（https://note.com/tatsuya_sabato/n/nbc9fac26a6b6・3回目）
+  - 「第4章：市場環境と参入障壁（エコノミック・モート）」（https://note.com/tatsuya_sabato/n/nbc9fac26a6b6・3回目）
+  - 「投資の神様ウォーレン・バフェットが好む「深い堀（参入障壁）」が、伊勢化学工業には存在します」（https://note.com/tatsuya_sabato/n/nbc9fac26a6b6・3回目）
+  - 「1. 物理的な参入障壁（地理的独占）」（https://note.com/tatsuya_sabato/n/nbc9fac26a6b6・3回目）
+  - 「汎用品の化学メーカーと比較して、営業利益率が高い傾向にあります」（https://note.com/tatsuya_sabato/n/nbc9fac26a6b6・3回目）
+  - 「決算短信・有報・適時開示から日本企業の強み・成長余地・リスクを整理」（https://note.com/tatsuya_sabato/n/nbc9fac26a6b6・3回目）
+  - 「世界トップクラスの生産量を持つヨウ素など、地下資源を活用したビジネスに強みを持つ伊勢化学工業」（https://online.nikkei-cnbc.co.jp/vod/61893・3回目）
+- 沿革：
+  - 「沿革 | 伊勢化学工業株式会社」（https://www.isechem.co.jp/profile/history/・1回目）
+  - 「1927年03月」（https://www.isechem.co.jp/profile/history/・1回目）
+  - 「1948年03月」（https://www.isechem.co.jp/profile/history/・1回目）
+  - 「1949年08月」（https://www.isechem.co.jp/profile/history/・1回目）
+  - 「1950年06月」（https://www.isechem.co.jp/profile/history/・1回目）
+  - 「1955年12月」（https://www.isechem.co.jp/profile/history/・1回目）
+  - 「1959年11月」（https://www.isechem.co.jp/profile/history/・1回目）
+  - 「1960年01月」（https://www.isechem.co.jp/profile/history/・1回目）
+  - 「1961年10月」（https://www.isechem.co.jp/profile/history/・1回目）
+  - 「1969年08月」（https://www.isechem.co.jp/profile/history/・1回目）
+  - 「1970年05月」（https://www.isechem.co.jp/profile/history/・1回目）
+  - 「1975年04月」（https://www.isechem.co.jp/profile/history/・1回目）
+- 検索結果の抜粋：
+  - 「事業紹介 | 伊勢化学工業 株式会社 — 事業紹介 | 伊勢化学工業 株式会社 伊勢化学工業株式会社 https://www.isechem.co.jp > business」（https://www.isechem.co.jp/business/index.html・3回目）
+  - 「次世代エネルギーのダークホースか。「 伊勢化学工業 (4107 ... — 次世代エネルギーのダークホースか。「 伊勢化学工業 (4107 ... note https://note.com > 投資・マネー > 日本株」（https://note.com/tatsuya_sabato/n/nbc9fac26a6b6・3回目）
+  - 「伊勢化学工業 株式会社 — 伊勢化学工業 株式会社 伊勢化学工業株式会社 https://www.isechem.co.jp」（https://www.isechem.co.jp/index.html・3回目）
+  - 「伊勢化学工業 【4107】の事業内容 - キタイシホン — 伊勢化学工業 【4107】の事業内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/4107/business・3回目）
+  - 「社員インタビュー | 伊勢化学工業 株式会社 — 社員インタビュー | 伊勢化学工業 株式会社 伊勢化学工業株式会社 https://www.isechem.co.jp > 採用情報」（https://www.isechem.co.jp/careers/interview/index.html・3回目）
+  - 「決算 短信／補足 説明資料 - 伊勢化学工業株式会社 — 決算 短信／補足 説明資料 - 伊勢化学工業株式会社 伊勢化学工業株式会社 https://www.isechem.co.jp > IR情報 > IRライブラリー」（https://www.isechem.co.jp/ir/library/accounts/index.html・3回目）
+  - 「IR情報 | 伊勢化学工業 株式会社 — IR情報 | 伊勢化学工業 株式会社 伊勢化学工業株式会社 https://www.isechem.co.jp > ...」（https://www.isechem.co.jp/ir/index.html・3回目）
+  - 「【 伊勢化学工業 】[4107]IR情報 中期経営計画や 決算 短信 | 日経 ... — 【 伊勢化学工業 】[4107]IR情報 中期経営計画や 決算 短信 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo」（https://www.nikkei.com/nkd/company/kigyo/?scode=4107・3回目）
+  - 「伊勢化学工業 【4107】の最新 決算 発表、業績修正 - 株探 — 伊勢化学工業 【4107】の最新 決算 発表、業績修正 - 株探 株探 https://kabutan.jp > 伊勢化学工業 (4107)」（https://kabutan.jp/stock/finance?code=4107・3回目）
+  - 「伊勢化学工業 （4107）のIR情報・ 決算資料 - IRBANK — 伊勢化学工業 （4107）のIR情報・ 決算資料 - IRBANK IRBANK https://irbank.net > 伊勢化学工業」（https://irbank.net/4107/ir・3回目）
+  - 「会社概要 | 伊勢化学工業 株式会社 — 会社概要 | 伊勢化学工業 株式会社 伊勢化学工業株式会社 https://www.isechem.co.jp > 企業情報」（https://www.isechem.co.jp/profile/outline/index.html・3回目）
+  - 「サイトマップ | 伊勢化学工業 株式会社 — サイトマップ | 伊勢化学工業 株式会社 伊勢化学工業株式会社 https://www.isechem.co.jp > sitemap」（https://www.isechem.co.jp/sitemap/index.html・3回目）
+- 設立：記載なし（3回確認済み：公式25頁／PDF・画像13件／外部2頁・検索5回）
+- 従業員数：記載なし（3回確認済み：公式25頁／PDF・画像13件／外部2頁・検索5回）
+- 事業内容：記載なし（3回確認済み：公式25頁／PDF・画像13件／外部2頁・検索5回）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像13件／外部2頁・検索5回）
+- 売上構成：記載なし（3回確認済み：公式25頁／PDF・画像13件／外部2頁・検索5回）
+
+## 伊豆シャボテンリゾート
+- 公式URL：https://izu-sr.co.jp/（search:yahoo_jp:伊豆シャボテンリゾート）
+- 売上高：（https://kitaishihon.com/company/6819/business・3回目）
+- 売上高：3,530,238 1,259,238 700,082 5,489,559 70 5,489,630 ― 5,489,630（https://kitaishihon.com/company/6819/business・3回目）
+- 売上高：― ― 5,713 5,713 ― 5,713 △5,713 ―（https://kitaishihon.com/company/6819/business・3回目）
+- ビジネスモデル：
+  - 「［事業系統図］」（https://kitaishihon.com/company/6819/business・3回目）
+  - 「2026年３月31日時点での事業系統図を示すと次のとおりであります」（https://kitaishihon.com/company/6819/business・3回目）
+- 誰に：
+  - 「「お客様に再来訪をお考えいただける」」（https://izu-sr.co.jp/・1回目）
+  - 「寛ぎとワクワク感を大切に「全世代のお客様に楽しんでいただき、寛いでいただく」こと目指しています」（https://izu-sr.co.jp/・1回目）
+  - 「寛ぎとワクワク感を大切に「全世代のお客様に楽しんでいただき、寛いでいただく」こと目指しています」（https://izu-sr.co.jp/business/・1回目）
+  - 「外部顧客への」（https://izu-sr.co.jp/wp-content/uploads/2026/08/tanshin-2026-08-14.pdf・2回目）
+  - 「を幅広いお客様に体験していただけますよう出店候補地を模索しておりましたところ、大阪を」（https://izu-sr.co.jp/wp-content/uploads/2026/08/0cf0c8044fc4a2e57ec73e18ff070d45.pdf・2回目）
+  - 「お客様に体験していただけますよう出店候補地を模索しておりましたところ、東京都武蔵野市」（https://izu-sr.co.jp/wp-content/uploads/2026/06/b8059cc64c2a265999b6f06a2fb24caf.pdf・2回目）
+  - 「当社グループの利害関係者の多くは、国内の株主、債権者、取引先等であり、海外からの資金調達の必要性が乏し」（https://izu-sr.co.jp/wp-content/uploads/2025/11/tanshin-2026-05-15-1.pdf・2回目）
+  - 「外部顧客への」（https://izu-sr.co.jp/wp-content/uploads/2025/11/tanshin-2026-05-15-1.pdf・2回目）
+  - 「そして、株主様、取引先、従業員といった全てのステークホルダーとともに、コンプライアンスと社会的責任に十分配慮し、企業価値向上に努めることを経営の基本方針としております」（https://kitaishihon.com/company/6819/business・3回目）
+  - 「外部顧客への売上高」（https://kitaishihon.com/company/6819/business・3回目）
+  - 「本邦の外部顧客への売上高が連結損益計算書の売上高の90％を超えるため、記載を省略しております」（https://kitaishihon.com/company/6819/business・3回目）
+  - 「３ 主要な顧客ごとの情報」（https://kitaishihon.com/company/6819/business・3回目）
+- 何を：
+  - 「商品等 87,954 100,877」（https://izu-sr.co.jp/wp-content/uploads/2026/08/tanshin-2026-08-14.pdf・2回目）
+  - 「サービスレベルの向上、効果的な宣伝広告）を重点施策として実施してまいります」（https://izu-sr.co.jp/wp-content/uploads/2025/11/tanshin-2026-05-15-1.pdf・2回目）
+  - 「商品等 88,662 87,954」（https://izu-sr.co.jp/wp-content/uploads/2025/11/tanshin-2026-05-15-1.pdf・2回目）
+  - 「商品等の増減額（△は増加） △14,632 707」（https://izu-sr.co.jp/wp-content/uploads/2025/11/tanshin-2026-05-15-1.pdf・2回目）
+  - 「(2) 各報告セグメントに属する製品及びサービスの種類」（https://izu-sr.co.jp/wp-content/uploads/2025/11/tanshin-2026-05-15-1.pdf・2回目）
+  - 「伊豆半島に所在する各公園でサービスを提供しております」（https://izu-sr.co.jp/wp-content/uploads/2025/11/tanshin-2026-05-15-1.pdf・2回目）
+  - 「る全国６カ所にある動物ふれあい施設であるアニタッチ各店舗でサービスを提供しております」（https://izu-sr.co.jp/wp-content/uploads/2025/11/tanshin-2026-05-15-1.pdf・2回目）
+  - 「る各宿泊施設でサービスを提供しております」（https://izu-sr.co.jp/wp-content/uploads/2025/11/tanshin-2026-05-15-1.pdf・2回目）
+  - 「引き続き各施設の全般的な魅力向上（魅力的な運営施設の新設、イベントの拡充、物販の拡充、接遇などサービスレベルの向上、効果的な宣伝広告）を重点施策として実施してまいります」（https://kitaishihon.com/company/6819/business・3回目）
+  - 「(2) 各報告セグメントに属する製品及びサービスの種類」（https://kitaishihon.com/company/6819/business・3回目）
+  - 「「レジャー事業」は、主に、株式会社伊豆シャボテン公園が運営する伊豆シャボテン動物公園をはじめとする伊豆半島に所在する各公園でサービスを提供しております」（https://kitaishihon.com/company/6819/business・3回目）
+  - 「「アニタッチ事業」は、主に、株式会社伊豆シャボテン公園が運営するアニタッチみなとみらいをはじめとする全国６カ所にある動物ふれあい施設であるアニタッチ各店舗でサービスを提供しております」（https://kitaishihon.com/company/6819/business・3回目）
+- どうやって売るか：
+  - 「事業内容の紹介」（https://izu-sr.co.jp/・1回目）
+  - 「事業紹介 | 伊豆シャボテンリゾート株式会社」（https://izu-sr.co.jp/business/・1回目）
+  - 「事業内容の紹介」（https://izu-sr.co.jp/business/・1回目）
+  - 「店舗でのご利⽤時に、チケットトップ画⾯にて操作していただく必要がございますので、必ずホーム画⾯への追加やブックマーク（お気に⼊り）などでチケットのURLを保存をお願いいたします」（https://izu-sr.co.jp/forinvestors/benefit/・1回目）
+  - 「開設して以来、着実に拠点を広げ現在は計 6 店舗の運営に至っております」（https://izu-sr.co.jp/wp-content/uploads/2026/08/0cf0c8044fc4a2e57ec73e18ff070d45.pdf・2回目）
+  - 「徒歩１分、「戎橋筋（えびすばしすじ）商店街」に立地する当店舗は、既存店舗より一層多くの」（https://izu-sr.co.jp/wp-content/uploads/2026/08/0cf0c8044fc4a2e57ec73e18ff070d45.pdf・2回目）
+  - 「外国人を含む観光客が来店する店舗であると想定しています」（https://izu-sr.co.jp/wp-content/uploads/2026/08/0cf0c8044fc4a2e57ec73e18ff070d45.pdf・2回目）
+  - 「引き続き 2029 年 3 月期までに 6 店舗を新規オープンするという目標を堅持し、積極的な」（https://izu-sr.co.jp/wp-content/uploads/2026/08/0cf0c8044fc4a2e57ec73e18ff070d45.pdf・2回目）
+  - 「店舗開発を行ってまいります」（https://izu-sr.co.jp/wp-content/uploads/2026/08/0cf0c8044fc4a2e57ec73e18ff070d45.pdf・2回目）
+  - 「着実に拠点を広げ、現在は計 6 店舗の運営に至っております」（https://izu-sr.co.jp/wp-content/uploads/2026/06/b8059cc64c2a265999b6f06a2fb24caf.pdf・2回目）
+  - 「また、2029 年 3 月期までに 6 店舗をオープンするという目標を引き続き堅持し、 今後も積極」（https://izu-sr.co.jp/wp-content/uploads/2026/06/b8059cc64c2a265999b6f06a2fb24caf.pdf・2回目）
+  - 「的な店舗開発を行ってまいります」（https://izu-sr.co.jp/wp-content/uploads/2026/06/b8059cc64c2a265999b6f06a2fb24caf.pdf・2回目）
+- お金の形：
+  - 「手数料について」（https://izu-sr.co.jp/forinvestors/fractional_shares_guide/・1回目）
+  - 「当社では、単元未満株式の買取手数料及び買増手数料を無料としております」（https://izu-sr.co.jp/forinvestors/fractional_shares_guide/・1回目）
+  - 「なお、お手続きに際しては、証券会社等の金融機関にて別途お取次ぎ手数料がかかる場合がございますので、お取引口座のある証券会社へお問い合わせ下さい」（https://izu-sr.co.jp/forinvestors/fractional_shares_guide/・1回目）
+  - 「受取手数料 342 367」（https://izu-sr.co.jp/wp-content/uploads/2026/08/tanshin-2026-08-14.pdf・2回目）
+  - 「受取手数料 1,328 1,521」（https://izu-sr.co.jp/wp-content/uploads/2025/11/tanshin-2026-05-15-1.pdf・2回目）
+- 売上構成：
+  - 「（セグメント情報等の注記） ……………………………………………………………………７」（https://izu-sr.co.jp/wp-content/uploads/2026/08/tanshin-2026-08-14.pdf・2回目）
+  - 「セグメントごとの経営成績は、次のとおりであります」（https://izu-sr.co.jp/wp-content/uploads/2026/08/tanshin-2026-08-14.pdf・2回目）
+  - 「売上高は840百万円（前期比10.0％増）、セグメント利益は127百万円（前期比11.1％」（https://izu-sr.co.jp/wp-content/uploads/2026/08/tanshin-2026-08-14.pdf・2回目）
+  - 「売上高は136百万円（前期比4.0％減）、セグメント損失は20百万円(前年同期はセグメント損失16百」（https://izu-sr.co.jp/wp-content/uploads/2026/08/tanshin-2026-08-14.pdf・2回目）
+  - 「（セグメント情報等の注記）」（https://izu-sr.co.jp/wp-content/uploads/2026/08/tanshin-2026-08-14.pdf・2回目）
+  - 「【セグメント情報】」（https://izu-sr.co.jp/wp-content/uploads/2026/08/tanshin-2026-08-14.pdf・2回目）
+  - 「１．報告セグメントごとの売上高及び利益又は損失の金額に関する情報」（https://izu-sr.co.jp/wp-content/uploads/2026/08/tanshin-2026-08-14.pdf・2回目）
+  - 「報告セグメント」（https://izu-sr.co.jp/wp-content/uploads/2026/08/tanshin-2026-08-14.pdf・2回目）
+  - 「セグメント間」（https://izu-sr.co.jp/wp-content/uploads/2026/08/tanshin-2026-08-14.pdf・2回目）
+  - 「セグメント利益」（https://izu-sr.co.jp/wp-content/uploads/2026/08/tanshin-2026-08-14.pdf・2回目）
+  - 「(注) １．「その他事業」の区分は、報告セグメントに含まれない事業セグメントであり、エンターテインメント事」（https://izu-sr.co.jp/wp-content/uploads/2026/08/tanshin-2026-08-14.pdf・2回目）
+  - 「２．セグメント利益又は損失(△)の調整額1,800千円は、セグメント間取引消去によるものです」（https://izu-sr.co.jp/wp-content/uploads/2026/08/tanshin-2026-08-14.pdf・2回目）
+- 沿革：
+  - 「2026年08月14日」（https://izu-sr.co.jp/・1回目）
+  - 「2027年３月期第１四半期決算短信〔日本基準〕（連結）」（https://izu-sr.co.jp/・1回目）
+  - 「2026年08月12日」（https://izu-sr.co.jp/・1回目）
+  - 「2026年06月15日」（https://izu-sr.co.jp/・1回目）
+  - 「2026年05月29日」（https://izu-sr.co.jp/・1回目）
+  - 「2026年05月15日」（https://izu-sr.co.jp/・1回目）
+  - 「2026年３月期決算短信〔日本基準〕（連結）」（https://izu-sr.co.jp/・1回目）
+  - 「2025年10月29日」（https://izu-sr.co.jp/・1回目）
+  - 「2025年06月26日」（https://izu-sr.co.jp/・1回目）
+  - 「2025年02月18日」（https://izu-sr.co.jp/・1回目）
+  - 「2024年07月24日」（https://izu-sr.co.jp/・1回目）
+  - 「2026年02月13日」（https://izu-sr.co.jp/・1回目）
+- 検索結果の抜粋：
+  - 「事業紹介 | 伊豆シャボテンリゾート 株式会社 — 事業紹介 | 伊豆シャボテンリゾート 株式会社 伊豆シャボテンリゾート株式会社 https://izu-sr.co.jp > business」（https://izu-sr.co.jp/business/・3回目）
+  - 「伊豆シャボテンリゾート (6819) の企業概要・業績・財務・IR ... — 伊豆シャボテンリゾート (6819) の企業概要・業績・財務・IR ... crex-data.com https://www.crex-data.com > 企業」（https://www.crex-data.com/company/6819・3回目）
+  - 「伊豆シャボテンリゾート 【6819】の事業内容 - キタイシホン — 伊豆シャボテンリゾート 【6819】の事業内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/6819/business・3回目）
+  - 「決算 短信 | 伊豆シャボテンリゾート 株式会社 — 決算 短信 | 伊豆シャボテンリゾート 株式会社 伊豆シャボテンリゾート株式会社 https://izu-sr.co.jp > 投資家の皆さまへ」（https://izu-sr.co.jp/forinvestors/results/・3回目）
+  - 「投資家の皆さまへ | 伊豆シャボテンリゾート 株式会社 — 投資家の皆さまへ | 伊豆シャボテンリゾート 株式会社 伊豆シャボテンリゾート株式会社 https://izu-sr.co.jp > forinvestors」（https://izu-sr.co.jp/forinvestors/・3回目）
+  - 「【 伊豆シャボテンリゾート 】[6819]適時開示 ... - 日本経済新聞 — 【 伊豆シャボテンリゾート 】[6819]適時開示 ... - 日本経済新聞 日本経済新聞 https://www.nikkei.com > nkd > company > disclose」（https://www.nikkei.com/nkd/company/disclose/?scode=6819・3回目）
+  - 「伊豆シャボテンリゾート 【6819】の最新 決算 発表、業績修正 — 伊豆シャボテンリゾート 【6819】の最新 決算 発表、業績修正 株探 https://kabutan.jp > 伊豆シャボテンリゾート (6819) > 決算」（https://kabutan.jp/stock/finance?code=6819・3回目）
+  - 「伊豆シャボテンリゾート 【6819】の 事業 内容 - キタイシホン — 伊豆シャボテンリゾート 【6819】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/6819/business・3回目）
+  - 「事業 紹介 | 伊豆シャボテンリゾート 株式会社 — 事業 紹介 | 伊豆シャボテンリゾート 株式会社 伊豆シャボテンリゾート株式会社 https://izu-sr.co.jp > business」（https://izu-sr.co.jp/business/・3回目）
+  - 「伊豆シャボテンリゾート 株式会社50周年記念 事業 — 伊豆シャボテンリゾート 株式会社50周年記念 事業 伊豆シャボテン動物公園 https://izushaboten.com > トピックス」（https://izushaboten.com/news/%E4%BC%8A%E8%B1%86%E3%82%B7%E3%83%A3%E3%83%9C%E3%83%86%E3%83%B3%E3%83%AA%E3%82%BE%E3%83%BC%E3%83%88%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE50%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E4%BA%8B%E6%A5%AD%E3%80%80/・3回目）
+  - 「伊豆シャボテンリゾート 株式会社 2025年3月期 — 伊豆シャボテンリゾート 株式会社 2025年3月期 finance-frontend-pc-dist.west.edge.storage-yahoo.jp PDF https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp > ...」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250522/20250522561289.pdf・3回目）
+  - 「企業情報 | 伊豆シャボテンリゾート 株式会社 — 企業情報 | 伊豆シャボテンリゾート 株式会社 伊豆シャボテンリゾート株式会社 https://izu-sr.co.jp > company」（https://izu-sr.co.jp/company/・3回目）
+- 設立：記載なし（3回確認済み：公式20頁／PDF・画像16件／外部3頁・検索5回）
+- 従業員数：記載なし（3回確認済み：公式20頁／PDF・画像16件／外部3頁・検索5回）
+- 事業内容：記載なし（3回確認済み：公式20頁／PDF・画像16件／外部3頁・検索5回）
+- 利益の源泉：記載なし（3回確認済み：公式20頁／PDF・画像16件／外部3頁・検索5回）
+
+## 住友ファーマ
+- 公式URL：https://www.sumitomo-pharma.co.jp/（search:yahoo_jp:住友ファーマ）
+- 設立：1897年（明治30年）5月14日（https://www.sumitomo-pharma.co.jp/profile/profile/・1回目）
+- 従業員数：1,754名（連結：3,135名）（2026年9月30日現在）（https://www.sumitomo-pharma.co.jp/profile/profile/・1回目）
+- 事業内容：医療用医薬品等の製造および販売（https://www.sumitomo-pharma.co.jp/profile/profile/・1回目）
+- 誰に：
+  - 「当社は今後も、患者さんとご家族、医療関係者、株主、投資家、従業員、取引先、地域社会など多様なステークホルダーとの積極的な対話を重視し、事業活動ではコーポレートガバナンス体制の強化とコンプライアンスの徹底により、継続的な企業価値の向上につなげ持続可能な社会の実現に貢献します」（https://www.sumitomo-pharma.co.jp/ir/library/shareholders_report/investor_report_206.html・1回目）
+  - 「薬の研究開発には長い年月が必要ですし、薬の品質や安定的な供給の上に顧客との信頼関係が成り立っています」（https://ps.nikkei.com/sumitomopharma2205/・3回目）
+- 何を：
+  - 「iPS細胞由来製品輸送プロジェクト」（https://www.sumitomo-pharma.co.jp/・1回目）
+  - 「当社は、革新的な医薬品と医療ソリューションの創出、サイエンス発展への貢献をはじめ、さまざまな取組を通じてサステナビリティ経営を推進しています」（https://www.sumitomo-pharma.co.jp/・1回目）
+  - 「当社は、革新的な医薬品と医療ソリューションの創出、サイエンス発展への貢献をはじめ、さまざまな取組を通じてサステナビリティ経営を推進しています」（https://www.sumitomo-pharma.co.jp/ir/library/annual/・1回目）
+  - 「製品価値（安全性・有用性）とともに経済的メリットも訴求」（https://www.sumitomo-pharma.co.jp/ir/managerial_policy/boost2028/・1回目）
+  - 「という製品特徴の認知を拡大」（https://www.sumitomo-pharma.co.jp/ir/managerial_policy/boost2028/・1回目）
+  - 「基幹3製品売上高」（https://www.sumitomo-pharma.co.jp/ir/managerial_policy/boost2028/・1回目）
+  - 「R&D・製品」（https://www.sumitomo-pharma.co.jp/ir/library/presentation/・1回目）
+  - 「当社は、革新的な医薬品と医療ソリューションの創出、サイエンス発展への貢献をはじめ、さまざまな取組を通じてサステナビリティ経営を推進しています」（https://www.sumitomo-pharma.co.jp/ir/library/presentation/・1回目）
+  - 「当社は、革新的な医薬品と医療ソリューションの創出、サイエンス発展への貢献をはじめ、さまざまな取組を通じてサステナビリティ経営を推進しています」（https://www.sumitomo-pharma.co.jp/ir/library/shareholders_report/・1回目）
+  - 「当社は、革新的な医薬品と医療ソリューションの創出、サイエンス発展への貢献をはじめ、さまざまな取組を通じてサステナビリティ経営を推進しています」（https://www.sumitomo-pharma.co.jp/ir/library/securities_report/・1回目）
+  - 「当社製品に関するお問い合わせ」（https://www.sumitomo-pharma.co.jp/inquiry/・1回目）
+  - 「当社は、革新的な医薬品と医療ソリューションの創出、サイエンス発展への貢献をはじめ、さまざまな取組を通じてサステナビリティ経営を推進しています」（https://www.sumitomo-pharma.co.jp/ir/・1回目）
+- どうやって売るか：
+  - 「社長メッセージ、住友ファーマの会社概要、事業内容、中期経営計画、主要拠点・グループ会社などを紹介しています」（https://www.sumitomo-pharma.co.jp/・1回目）
+  - 「会社紹介（YouTube）」（https://www.sumitomo-pharma.co.jp/ir/library/annual/・1回目）
+  - 「価値最大化に寄与できるパートナー」（https://www.sumitomo-pharma.co.jp/ir/managerial_policy/boost2028/・1回目）
+  - 「会社紹介（YouTube）」（https://www.sumitomo-pharma.co.jp/ir/library/presentation/・1回目）
+  - 「会社紹介（YouTube）」（https://www.sumitomo-pharma.co.jp/ir/library/shareholders_report/・1回目）
+  - 「会社紹介（YouTube）」（https://www.sumitomo-pharma.co.jp/ir/library/securities_report/・1回目）
+  - 「会社紹介（YouTube）」（https://www.sumitomo-pharma.co.jp/ir/・1回目）
+  - 「会社紹介（YouTube）」（https://www.sumitomo-pharma.co.jp/ir/library/・1回目）
+  - 「会社紹介（YouTube）」（https://www.sumitomo-pharma.co.jp/ir/managerial_policy/・1回目）
+  - 「当社グループの2026年度第2四半期累計期間（2026年4月1日から2026年9月30日まで）の事業概況をご紹介します」（https://www.sumitomo-pharma.co.jp/ir/library/shareholders_report/investor_report_207.html・1回目）
+  - 「社外パートナーとの連携も視野に入れながら、この技術の価値を最大限に引き出していきます」（https://www.sumitomo-pharma.co.jp/ir/library/shareholders_report/investor_report_207.html・1回目）
+  - 「会社紹介（YouTube）」（https://www.sumitomo-pharma.co.jp/ir/library/shareholders_report/investor_report_207.html・1回目）
+- お金の形：
+  - 「IQVIAからライセンスされた情報に基づく社内算定（NSP」（https://www.sumitomo-pharma.co.jp/ir/managerial_policy/boost2028/・1回目）
+  - 「IQVIAからライセンスされた情報（NPA for the period 10/1」（https://www.sumitomo-pharma.co.jp/ir/managerial_policy/boost2028/・1回目）
+  - 「⽶国での販促投資の拡⼤やライセンス関連」（https://www.sumitomo-pharma.co.jp/news/assets/pdf/ir20261030.pdf・2回目）
+- 売上構成：
+  - 「新たな患者セグメントへ訴求し、医療貢献・シェア拡大を加速」（https://www.sumitomo-pharma.co.jp/ir/managerial_policy/boost2028/・1回目）
+  - 「セグメント別概況」（https://www.sumitomo-pharma.co.jp/ir/library/shareholders_report/investor_report_206.html・1回目）
+  - 「セグメント別概況」（https://www.sumitomo-pharma.co.jp/ir/library/shareholders_report/investor_report_205.html・1回目）
+  - 「海外売上比率 81.3％ 83.2％」（https://www.sumitomo-pharma.co.jp/news/assets/pdf/br20261030_2.pdf・2回目）
+  - 「株主数(名) 株式数(千株) 構成比(%)」（https://www.sumitomo-pharma.co.jp/news/assets/pdf/br20261030_2.pdf・2回目）
+- 利益の源泉：
+  - 「住友ファーマの事業や強み・企業としての取組など、タグを選択して気になる情報を見つけることができます」（https://www.sumitomo-pharma.co.jp/・1回目）
+  - 「住友ファーマの3つの強み」（https://www.sumitomo-pharma.co.jp/・1回目）
+  - 「疾患領域としては、がん領域、精神神経領域、その他領域、モダリティとしては、低分子、再生・細胞医薬に注力し、「価値創造サイクル」の循環を通じて戦略的にこれらの強みを深化・拡張し、グローバルに独自のポジションを確立して人々の健康で豊かな生活に貢献します」（https://www.sumitomo-pharma.co.jp/・1回目）
+  - 「アンメットニーズが高く、SMPの強みを活かせる造血器腫瘍、神経変性(神経希少疾患を含む)に注力し、早期に患者での客観的な有効性シグナル取得を重視した開発戦略で、画期的治療薬の連続的な創出を目指す」（https://www.sumitomo-pharma.co.jp/ir/managerial_policy/boost2028/・1回目）
+  - 「SMPが強みとするモダリティ」（https://www.sumitomo-pharma.co.jp/ir/managerial_policy/boost2028/・1回目）
+- 沿革：
+  - 「2033年度における当社の目指す姿は、「価値創造サイクル」を力強く循環させ、継続的にイノベーションを社会実装に結びつけられている企業です」（https://www.sumitomo-pharma.co.jp/・1回目）
+  - 「2026年11月02日」（https://www.sumitomo-pharma.co.jp/・1回目）
+  - 「2026年10月30日」（https://www.sumitomo-pharma.co.jp/・1回目）
+  - 「2026年度（2027年3月期）第2四半期決算​説明会資料​（PDF/1,353KB）」（https://www.sumitomo-pharma.co.jp/・1回目）
+  - 「2026年度（2027年3月期）第2四半期決算（IFRS）補足資料（PDF/426KB）」（https://www.sumitomo-pharma.co.jp/・1回目）
+  - 「2027年3月期 第２四半期（中間期）決算短信〔ＩＦＲＳ〕（連結）（PDF/406KB）」（https://www.sumitomo-pharma.co.jp/・1回目）
+  - 「2026年09月30日」（https://www.sumitomo-pharma.co.jp/・1回目）
+  - 「2023年度の活動実績や各種データは、当ウェブサイトの関連ページをご参照ください」（https://www.sumitomo-pharma.co.jp/ir/library/annual/・1回目）
+  - 「2030年代に2,500億円規模」（https://www.sumitomo-pharma.co.jp/ir/managerial_policy/boost2028/・1回目）
+  - 「2025年度の修正予想は1,500億円を上回る見込み」（https://www.sumitomo-pharma.co.jp/ir/managerial_policy/boost2028/・1回目）
+  - 「2030年代に1,500億円規模」（https://www.sumitomo-pharma.co.jp/ir/managerial_policy/boost2028/・1回目）
+  - 「2025年度の修正予想は約900億円の見込み」（https://www.sumitomo-pharma.co.jp/ir/managerial_policy/boost2028/・1回目）
+- 検索結果の抜粋：
+  - 「ビジネスモデル ～価値創造プロセス〜 | 住友ファーマ 株式会社 — ビジネスモデル ～価値創造プロセス〜 | 住友ファーマ 株式会社 住友ファーマ株式会社 https://www.sumitomo-pharma.co.jp > creation_process」（https://www.sumitomo-pharma.co.jp/sustainability/management/creation_process.html・3回目）
+  - 「ビジネスモデル ～価値創造プロセス〜 | 2023 - 住友ファーマ — ビジネスモデル ～価値創造プロセス〜 | 2023 - 住友ファーマ 住友ファーマ株式会社 PDF https://www.sumitomo-pharma.co.jp > assets > pdf」（https://www.sumitomo-pharma.co.jp/sustainability/ftse2023/assets/pdf/creation_process-2023-archive.pdf・3回目）
+  - 「住友ファーマ とは | 住友ファーマ 株式会社 — 住友ファーマ とは | 住友ファーマ 株式会社 住友ファーマ株式会社 https://www.sumitomo-pharma.co.jp > 会社情報」（https://www.sumitomo-pharma.co.jp/profile/brand/・3回目）
+  - 「説明 会 資料 ・動画・音声 | 住友ファーマ 株式会社 — 説明 会 資料 ・動画・音声 | 住友ファーマ 株式会社 住友ファーマ株式会社 https://www.sumitomo-pharma.co.jp > ... > IR資料」（https://www.sumitomo-pharma.co.jp/ir/library/presentation/・3回目）
+  - 「決算 短信・補足 資料 | 住友ファーマ 株式会社 — 決算 短信・補足 資料 | 住友ファーマ 株式会社 住友ファーマ株式会社 https://www.sumitomo-pharma.co.jp > ... > IR資料」（https://www.sumitomo-pharma.co.jp/ir/library/financial_results_summary/・3回目）
+  - 「IR 資料 | 住友ファーマ 株式会社 — IR 資料 | 住友ファーマ 株式会社 住友ファーマ株式会社 https://www.sumitomo-pharma.co.jp > library」（https://www.sumitomo-pharma.co.jp/ir/library/・3回目）
+  - 「株主・投資家の皆さま（証券コード：4506） - 住友ファーマ — 株主・投資家の皆さま（証券コード：4506） - 住友ファーマ 住友ファーマ株式会社 https://www.sumitomo-pharma.co.jp > ...」（https://www.sumitomo-pharma.co.jp/ir/・3回目）
+  - 「2026年度（2027年3月期） 第1四半期決算 決算説明 会 — 2026年度（2027年3月期） 第1四半期決算 決算説明 会 住友ファーマ株式会社 PDF https://www.sumitomo-pharma.co.jp > assets > pdf」（https://www.sumitomo-pharma.co.jp/news/assets/pdf/ir20260731.pdf・3回目）
+  - 「組織図 | 住友ファーマ 株式会社 — 組織図 | 住友ファーマ 株式会社 住友ファーマ株式会社 https://www.sumitomo-pharma.co.jp > 会社情報」（https://www.sumitomo-pharma.co.jp/profile/organization/・3回目）
+  - 「会社情報 | 住友ファーマ 株式会社 — 会社情報 | 住友ファーマ 株式会社 住友ファーマ株式会社 https://www.sumitomo-pharma.co.jp > profile」（https://www.sumitomo-pharma.co.jp/profile/・3回目）
+  - 「会社概要 | 住友ファーマ 株式会社 — 会社概要 | 住友ファーマ 株式会社 住友ファーマ株式会社 https://www.sumitomo-pharma.co.jp > 会社情報」（https://www.sumitomo-pharma.co.jp/profile/profile/・3回目）
+  - 「住友ファーマ 株式会社 — 住友ファーマ 株式会社 住友ファーマ株式会社 https://www.sumitomo-pharma.co.jp」（https://www.sumitomo-pharma.co.jp/・3回目）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像9件／外部1頁・検索5回）
+- ビジネスモデル：記載なし（3回確認済み：公式25頁／PDF・画像9件／外部1頁・検索5回）
 
 ## 住友不動産
 - 公式URL：https://www.sumitomo-rd.co.jp/（search:yahoo_jp:住友不動産）
@@ -15681,6 +23273,99 @@
   - 「社長 ご挨拶 | 全国保証 株式会社 — 社長 ご挨拶 | 全国保証 株式会社 全国保証株式会社 https://www.zenkoku.co.jp > company > message」（https://www.zenkoku.co.jp/company/message.html・3回目）
 - 売上高：記載なし（3回確認済み：公式25頁／PDF・画像14件／外部2頁・検索5回）
 - 売上構成：記載なし（3回確認済み：公式25頁／PDF・画像14件／外部2頁・検索5回）
+
+## 助川電気工業
+- 公式URL：https://sukegawadenki.co.jp/（search:yahoo_jp:助川電気工業）
+- 設立：1949年2月（https://sukegawadenki.co.jp/・1回目）
+- 設立：百目鬼　用吉（https://sukegawadenki.co.jp/・1回目）
+- 売上高：49.6億円（前年比＋8.5%）（https://note.com/kabuhanetemate/n/nd87c13c37210・3回目）
+- 売上高：割合（％） 売上高（千円） 割合（％）（https://kitaishihon.com/company/7711/business・3回目）
+- ビジネスモデル：
+  - 「② 事業内容とビジネスモデル｜“熱と圧力”のプロフェッショナル」（https://note.com/kabuhanetemate/n/nd87c13c37210・3回目）
+- 誰に：
+  - 「外部顧客への売上高 2,108,135 2,183,827 4,291,963 34,258 4,326,221 － 4,326,221」（https://sukegawadenki.co.jp/wpkanri/wp-content/uploads/2026/08/e38ea1dc800654d423452333f1807512.pdf・2回目）
+  - 「外部顧客への売上高 2,725,142 1,817,220 4,542,362 4,542,362 － 4,542,362」（https://sukegawadenki.co.jp/wpkanri/wp-content/uploads/2026/08/e38ea1dc800654d423452333f1807512.pdf・2回目）
+  - 「外部顧客への売上高 1,418,201 1,507,797 2,925,999 34,258 2,960,257 － 2,960,257」（https://sukegawadenki.co.jp/wpkanri/wp-content/uploads/2026/05/S100Y3YZ.pdf・2回目）
+  - 「外部顧客への売上高 1,901,775 1,207,161 3,108,937 3,108,937 － 3,108,937」（https://sukegawadenki.co.jp/wpkanri/wp-content/uploads/2026/05/S100Y3YZ.pdf・2回目）
+  - 「顧客との契約から生じる収益を分解した情報」（https://sukegawadenki.co.jp/wpkanri/wp-content/uploads/2026/05/S100Y3YZ.pdf・2回目）
+  - 「顧客との契約から」（https://sukegawadenki.co.jp/wpkanri/wp-content/uploads/2026/05/S100Y3YZ.pdf・2回目）
+  - 「外部顧客への売上高 1,418,201 1,507,797 2,925,999 34,258 2,960,257」（https://sukegawadenki.co.jp/wpkanri/wp-content/uploads/2026/05/S100Y3YZ.pdf・2回目）
+  - 「外部顧客への売上高 1,901,775 1,207,161 3,108,937 3,108,937」（https://sukegawadenki.co.jp/wpkanri/wp-content/uploads/2026/05/S100Y3YZ.pdf・2回目）
+  - 「外部顧客への売上高 1,418,201 1,507,797 2,925,999 34,258 2,960,257 － 2,960,257」（https://sukegawadenki.co.jp/wpkanri/wp-content/uploads/2026/05/a9327eee591105cc75726e4bed73ab67.pdf・2回目）
+  - 「外部顧客への売上高 1,901,775 1,207,161 3,108,937 3,108,937 － 3,108,937」（https://sukegawadenki.co.jp/wpkanri/wp-content/uploads/2026/05/a9327eee591105cc75726e4bed73ab67.pdf・2回目）
+  - 「外部顧客への売上高 508,886 792,770 1,301,657 17,983 1,319,640 － 1,319,640」（https://sukegawadenki.co.jp/wpkanri/wp-content/uploads/2026/02/5c340a77037a1b68d3cd7306665ac9a9.pdf・2回目）
+  - 「外部顧客への売上高 824,322 627,103 1,451,426 1,451,426 － 1,451,426」（https://sukegawadenki.co.jp/wpkanri/wp-content/uploads/2026/02/5c340a77037a1b68d3cd7306665ac9a9.pdf・2回目）
+- 何を：
+  - 「助川電気工業の製品について」（https://sukegawadenki.co.jp/・1回目）
+  - 「て、研究機関向け核融合関連製品及び原子力発電所の再稼働に向けた関連製品が増加したことに」（https://sukegawadenki.co.jp/wpkanri/wp-content/uploads/2026/08/e38ea1dc800654d423452333f1807512.pdf・2回目）
+  - 「自動車関連製品及び環境関連設備向け製品が減少したことにより、売上高は1,817百万円（前年同」（https://sukegawadenki.co.jp/wpkanri/wp-content/uploads/2026/08/e38ea1dc800654d423452333f1807512.pdf・2回目）
+  - 「商品及び製品 178,892 214,027」（https://sukegawadenki.co.jp/wpkanri/wp-content/uploads/2026/08/e38ea1dc800654d423452333f1807512.pdf・2回目）
+  - 「【根拠条文】 金融商品取引法第24条の５第１項の表の第１号」（https://sukegawadenki.co.jp/wpkanri/wp-content/uploads/2026/05/S100Y3YZ.pdf・2回目）
+  - 「連製品及び原子力発電所の再稼働に向けた関連製品が増加したことにより、売上高は1,901百万円（前年同中間期」（https://sukegawadenki.co.jp/wpkanri/wp-content/uploads/2026/05/S100Y3YZ.pdf・2回目）
+  - 「産業システム関連事業においては、半導体製造装置関係が増加傾向に転じ始めたものの、自動車関連製品及び環」（https://sukegawadenki.co.jp/wpkanri/wp-content/uploads/2026/05/S100Y3YZ.pdf・2回目）
+  - 「境関連設備向け製品が減少したことにより、売上高は1,207百万円（前年同中間期比19.9％減）、セグメント利益」（https://sukegawadenki.co.jp/wpkanri/wp-content/uploads/2026/05/S100Y3YZ.pdf・2回目）
+  - 「種類 中間会計期間末現在発行数（株）（2026年３月31日） 提出日現在発行数（株）（2026年５月15日） 上場金融商品取引所名又は登録認可金融商品取引業協会名 内容」（https://sukegawadenki.co.jp/wpkanri/wp-content/uploads/2026/05/S100Y3YZ.pdf・2回目）
+  - 「また、当社は、金融商品取引法第24条の５第１項の表の第１号の上欄に掲げる会社に該当し、財務諸表等規則第１」（https://sukegawadenki.co.jp/wpkanri/wp-content/uploads/2026/05/S100Y3YZ.pdf・2回目）
+  - 「当社は、金融商品取引法第193条の２第１項の規定に基づき、中間会計期間（2025年10月１日から2026年３月31日」（https://sukegawadenki.co.jp/wpkanri/wp-content/uploads/2026/05/S100Y3YZ.pdf・2回目）
+  - 「商品及び製品 178,892 200,895」（https://sukegawadenki.co.jp/wpkanri/wp-content/uploads/2026/05/S100Y3YZ.pdf・2回目）
+- どうやって売るか：
+  - 「2002年11月 食関連の一環として茨城県日立市に飲食店舗を開設」（https://sukegawadenki.co.jp/wpkanri/wp-content/uploads/2025/12/S100XAGE.pdf・2回目）
+  - 「経営管理委員会は、社長が直接所管し、社長が指名する役員、本部長、部長を委員として構成し、原則月一回開」（https://sukegawadenki.co.jp/wpkanri/wp-content/uploads/2025/12/S100XAGE.pdf・2回目）
+  - 「当社は、内部監査を専門とする部署を設置しておりませんが、社長の指名した内部監査責任者１名、内部監査担」（https://sukegawadenki.co.jp/wpkanri/wp-content/uploads/2025/12/S100XAGE.pdf・2回目）
+  - 「福島県いわき市 店舗等 建物、構築物等 21,214千円」（https://sukegawadenki.co.jp/wpkanri/wp-content/uploads/2025/12/S100XAGE.pdf・2回目）
+- お金の形：
+  - 「①【ストックオプション制度の内容】」（https://sukegawadenki.co.jp/wpkanri/wp-content/uploads/2026/05/S100Y3YZ.pdf・2回目）
+  - 「①【ストックオプション制度の内容】」（https://sukegawadenki.co.jp/wpkanri/wp-content/uploads/2025/12/S100XAGE.pdf・2回目）
+  - 「具体的には、基本報酬としての月額報酬、業績連動報酬及び退職慰労金」（https://sukegawadenki.co.jp/wpkanri/wp-content/uploads/2025/12/S100XAGE.pdf・2回目）
+  - 「退職慰労金は、役員退職慰労金規定に基づき、在職中の報酬月額、役位、在職年数、貢献度に応じて算出さ」（https://sukegawadenki.co.jp/wpkanri/wp-content/uploads/2025/12/S100XAGE.pdf・2回目）
+  - 「（注）１ 報酬限度額は、2015年12月16日開催の第78期定時株主総会において、取締役（監査等委員を除く）は月額」（https://sukegawadenki.co.jp/wpkanri/wp-content/uploads/2025/12/S100XAGE.pdf・2回目）
+  - 「15,000千円以内（但し、使用人兼務取締役の使用人分は含まない）、取締役（監査等委員）は月額2,000千円」（https://sukegawadenki.co.jp/wpkanri/wp-content/uploads/2025/12/S100XAGE.pdf・2回目）
+- 売上構成：
+  - 「（セグメント情報等の注記） ……………………………………………………………………………………… ７」（https://sukegawadenki.co.jp/wpkanri/wp-content/uploads/2026/08/e38ea1dc800654d423452333f1807512.pdf・2回目）
+  - 「より、売上高は2,725百万円（前年同四半期比29.3％増）、セグメント利益（営業利益）は937百」（https://sukegawadenki.co.jp/wpkanri/wp-content/uploads/2026/08/e38ea1dc800654d423452333f1807512.pdf・2回目）
+  - 「四半期比16.8％減）、セグメント利益（営業利益）は469百万円（前年同四半期比23.7％減）とな」（https://sukegawadenki.co.jp/wpkanri/wp-content/uploads/2026/08/e38ea1dc800654d423452333f1807512.pdf・2回目）
+  - 「報告セグメント」（https://sukegawadenki.co.jp/wpkanri/wp-content/uploads/2026/08/e38ea1dc800654d423452333f1807512.pdf・2回目）
+  - 「セグメント間の内部売上」（https://sukegawadenki.co.jp/wpkanri/wp-content/uploads/2026/08/e38ea1dc800654d423452333f1807512.pdf・2回目）
+  - 「セグメント利益又は損失」（https://sukegawadenki.co.jp/wpkanri/wp-content/uploads/2026/08/e38ea1dc800654d423452333f1807512.pdf・2回目）
+  - 「セグメント利益 937,391 469,834 1,407,226 1,407,226 △276,207 1,131,018」（https://sukegawadenki.co.jp/wpkanri/wp-content/uploads/2026/08/e38ea1dc800654d423452333f1807512.pdf・2回目）
+  - 「（セグメント情報等の注記）」（https://sukegawadenki.co.jp/wpkanri/wp-content/uploads/2026/08/e38ea1dc800654d423452333f1807512.pdf・2回目）
+  - 「【セグメント情報】」（https://sukegawadenki.co.jp/wpkanri/wp-content/uploads/2026/08/e38ea1dc800654d423452333f1807512.pdf・2回目）
+  - 「１．報告セグメントごとの売上高及び利益又は損失の金額に関する情報」（https://sukegawadenki.co.jp/wpkanri/wp-content/uploads/2026/08/e38ea1dc800654d423452333f1807512.pdf・2回目）
+  - 「（注）１ 「その他」の区分は報告セグメントに含まれない事業セグメントであり、飲食店の経営等を含んで」（https://sukegawadenki.co.jp/wpkanri/wp-content/uploads/2026/08/e38ea1dc800654d423452333f1807512.pdf・2回目）
+  - 「２ セグメント利益又は損失の調整額△267,616千円は、各報告セグメントに配分していない全社費用」（https://sukegawadenki.co.jp/wpkanri/wp-content/uploads/2026/08/e38ea1dc800654d423452333f1807512.pdf・2回目）
+- 利益の源泉：
+  - 「1株当たり当期純利益 潜在株式調整後1株当たり当期純利益 自己資本当期純利益率 総資産経常利益率 売上高営業利益率」（https://sukegawadenki.co.jp/wpkanri/wp-content/uploads/2025/11/dd8a1f34f556c66cf2a4a0212fbd548d.pdf・2回目）
+  - 「在庫評価減 19,811 6,740」（https://sukegawadenki.co.jp/wpkanri/wp-content/uploads/2025/12/S100XAGE.pdf・2回目）
+  - 「過酷環境でも安定動作する技術力が強み」（https://note.com/kabuhanetemate/n/nd87c13c37210・3回目）
+  - 「助川電気は、量産型ではなく「原子力・水素・半導体」などの高精度分野に強みを持つ企業です」（https://note.com/kabuhanetemate/n/nd87c13c37210・3回目）
+- 沿革：
+  - 「1949年2月」（https://sukegawadenki.co.jp/・1回目）
+  - 「2026年１１月５日 2026年９月期決算短信[日本基準](非連結)発表予定」（https://sukegawadenki.co.jp/・1回目）
+  - 「2026年9月期第3四半期決算短信〔日本基準〕（非連結）」（https://sukegawadenki.co.jp/・1回目）
+  - 「2026年９月期第３四半期決算短信[日本基準](非連結)発表」（https://sukegawadenki.co.jp/・1回目）
+  - 「2026年9月期第2四半期（中間期）決算短信〔日本基準〕（非連結）」（https://sukegawadenki.co.jp/・1回目）
+  - 「2026年9月期第1四半期決算短信〔日本基準〕（非連結）」（https://sukegawadenki.co.jp/・1回目）
+  - 「2025年9月期決算短信〔日本基準〕（非連結）」（https://sukegawadenki.co.jp/・1回目）
+  - 「2025年9月期第3四半期決算短信〔日本基準〕（非連結）」（https://sukegawadenki.co.jp/・1回目）
+  - 「2025年９月期第２四半期（中間期）における業績予想と実績の差異、及び通期業績予想の修正並びに剰余金の配当（中間配当）及び期末配当予想の修正に関するお知らせ」（https://sukegawadenki.co.jp/・1回目）
+  - 「2026年９月期第２四半期（中間期）決算短信[日本基準](非連結)発表」（https://sukegawadenki.co.jp/・1回目）
+  - 「2026年９月期第１四半期決算短信[日本基準](非連結)発表」（https://sukegawadenki.co.jp/・1回目）
+  - 「2026 年」（https://sukegawadenki.co.jp/ir-information/・1回目）
+- 検索結果の抜粋：
+  - 「助川電気工業 （7711）｜“熱と圧力”で未来を支える精密企業 — 助川電気工業 （7711）｜“熱と圧力”で未来を支える精密企業 note https://note.com > ... > 科学・テクノロジー全般」（https://note.com/kabuhanetemate/n/nd87c13c37210・3回目）
+  - 「会社案内｜ 助川電気工業 株式会社 — 会社案内｜ 助川電気工業 株式会社 助川電気工業株式会社 https://sukegawadenki.co.jp > company-profile」（https://sukegawadenki.co.jp/company-profile/・3回目）
+  - 「助川電気工業 (株)【東証スタンダード上場】 - マイナビ — 助川電気工業 (株)【東証スタンダード上場】 - マイナビ マイナビ https://job.mynavi.jp > search > corp56851 > outline」（https://job.mynavi.jp/27/pc/search/corp56851/outline.html・3回目）
+  - 「助川電気工業 【7711】の事業内容 - キタイシホン — 助川電気工業 【7711】の事業内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/7711/business・3回目）
+  - 「【 助川電気工業 】[7711]企業概要 社員数や役員報酬・資本金 — 【 助川電気工業 】[7711]企業概要 社員数や役員報酬・資本金 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo」（https://www.nikkei.com/nkd/company/gaiyo/?scode=7711・3回目）
+  - 「IR情報｜ 助川電気工業 株式会社 — IR情報｜ 助川電気工業 株式会社 助川電気工業株式会社 https://sukegawadenki.co.jp > ir-information」（https://sukegawadenki.co.jp/ir-information/・3回目）
+  - 「IR情報 - 助川電気工業 — IR情報 - 助川電気工業 助川電気工業株式会社 https://sukegawadenki.co.jp > date」（https://sukegawadenki.co.jp/date/2025/・3回目）
+  - 「助川電気工業 【7711】のIR 資料 - キタイシホン — 助川電気工業 【7711】のIR 資料 - キタイシホン キタイシホン https://kitaishihon.com > company > ir-library」（https://kitaishihon.com/company/7711/ir-library・3回目）
+  - 「【 助川電気工業 】[7711]IR情報 中期経営計画や 決算 短信 | 日経 ... — 【 助川電気工業 】[7711]IR情報 中期経営計画や 決算 短信 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo」（https://www.nikkei.com/nkd/company/kigyo/?scode=7711・3回目）
+  - 「助川電気工業 (7711) 東証スタンダード 決算 | マーケット情報 — 助川電気工業 (7711) 東証スタンダード 決算 | マーケット情報 松井証券 https://finance.matsui.co.jp > ... > 助川電気工業(7711)」（https://finance.matsui.co.jp/stock/7711/settlement/index・3回目）
+  - 「助川電気工業 株式会社｜熱と計測のシステムエンジニアリング ... — 助川電気工業 株式会社｜熱と計測のシステムエンジニアリング ... 助川電気工業株式会社 https://sukegawadenki.co.jp」（https://sukegawadenki.co.jp/・3回目）
+  - 「助川電気工業 【7711】の 事業 内容 - キタイシホン — 助川電気工業 【7711】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/7711/business・3回目）
+- 従業員数：記載なし（3回確認済み：公式6頁／PDF・画像8件／外部3頁・検索5回）
+- 事業内容：記載なし（3回確認済み：公式6頁／PDF・画像8件／外部3頁・検索5回）
 
 ## 勤次郎
 - 公式URL：https://www.kinjiro-e.com/（search:yahoo_jp:勤次郎）
@@ -16100,6 +23785,310 @@
   - 「大栄環境 - Wikipedia — 大栄環境 ... 大栄環境株式会社 （だいえいかんきょう、Daiei Kankyo Co.,Ltd.）は、 兵庫県 神戸市 に本社を置き、廃棄物の収集運搬及び処理処分などを手掛けている企業。 東京証券取引所 プライム市場上場。」（https://ja.wikipedia.org/wiki/大栄環境・3回目）
   - 「大栄環境グル - tdnet-pdf.kabutan.jp — 編集方針 本報告書は、投資家の皆さまとの建設的な対話のきっかけとなることを目的に、大栄環境グループの企業価値向上に向けた取り組みを体系的に整理して編集しました。」（https://tdnet-pdf.kabutan.jp/20250830/140120250829549856.pdf・3回目）
 
+## 太陽ホールディングス
+- 公式URL：https://www.taiyo-hd.co.jp/（search:yahoo_jp:太陽ホールディングス）
+- 設立：2017年8月2日（https://www.taiyo-hd.co.jp/jp/business/medical.html・1回目）
+- 設立：2019年4月25日（https://www.taiyo-hd.co.jp/jp/business/medical.html・1回目）
+- 設立：2013年3月26日（https://www.taiyo-hd.co.jp/jp/business/ictandsustainability.html・1回目）
+- 従業員数：連結 2,561名/単体 176名（https://www.taiyo-hd.co.jp/jp/about/overview.html・1回目）
+- 従業員数：2,137 2,120 2,210 2,485 2,561（https://www.taiyo-hd.co.jp/jp/investor/highlight.html・1回目）
+- 事業内容：持株会社、グループ全体の経営方針策定および経営管理（https://www.taiyo-hd.co.jp/jp/about/overview.html・1回目）
+- 事業内容：4つのセグメントで未来社会の課題解決に貢献（https://note.com/tatsuya_sabato/n/n4b22b62a98bc・3回目）
+- 売上高：119,010 137,851 18,841 16%（https://www.taiyo-hd.co.jp/jp/investor/performance.html・1回目）
+- 売上高：97,966 97,338 104,775 119,010 137,851（https://www.taiyo-hd.co.jp/jp/investor/highlight.html・1回目）
+- 売上高：18.3 16.4 17.4 18.5 23.6（https://www.taiyo-hd.co.jp/jp/investor/highlight.html・1回目）
+- ビジネスモデル：
+  - 「IoTやビッグデータ、人工知能等ITの急速な発達により、産業構造やビジネスモデルがかつてないスピードで変革する中、いずれの企業も、デジタル化が経営上の重要な課題となっています」（https://www.taiyo-hd.co.jp/jp/business/ictandsustainability.html・1回目）
+  - 「ビジネスモデルの核心：ニッチトップ戦略と「化学の力」による多角化」（https://note.com/tatsuya_sabato/n/n4b22b62a98bc・3回目）
+  - 「太陽HDのビジネスモデルは、**特定のニッチ市場で圧倒的なNo.1を目指す「ニッチトップ戦略」」（https://note.com/tatsuya_sabato/n/n4b22b62a98bc・3回目）
+- 誰に：
+  - 「既存顧客からの受託数量が増加」（https://www.taiyo-hd.co.jp/jp/investor/performance.html・1回目）
+  - 「ICT&S事業は、当社グループや顧客をデジタル領域でサポートする「ICT事業」、受託合成開発を行う「ファインケミカル事業」、再生可能エネルギーの普及促進を行う「エネルギー事業」や植物工場の運営を行う「食糧事業」、当社グループ内の食堂運営を担う「飲食（フードサービス）事業」など、幅広い分野で新規事業の創出を行っています」（https://www.taiyo-hd.co.jp/jp/business/ictandsustainability.html・1回目）
+  - 「2015年から当社グループの一員になり、今後もお客様のニーズを一歩先で捉えるケミカルのエキスパートを目指していきます」（https://www.taiyo-hd.co.jp/jp/business/ictandsustainability.html・1回目）
+  - 「者の普通株式を自己又は顧客の勘定で、本公開買付けの発表から、本公開買付期間中にも、本公開買付けによ」（https://www.taiyo-hd.co.jp/jp/investor/irnews/news20261009000002/main/0/link/20261009_02.pdf・2回目）
+  - 「顧客関連資産 4,047 3,928」（https://www.taiyo-hd.co.jp/jp/investor/library/latest-information/main/01/teaserItems1/0112/linkList/0/link/20260731_01.pdf・2回目）
+  - 「外部顧客への売上高 22,232 9,419 31,651 1,527 33,179」（https://www.taiyo-hd.co.jp/jp/investor/library/latest-information/main/01/teaserItems1/0112/linkList/0/link/20260731_01.pdf・2回目）
+  - 「外部顧客への売上高 28,049 9,203 37,252 1,766 39,019」（https://www.taiyo-hd.co.jp/jp/investor/library/latest-information/main/01/teaserItems1/0112/linkList/0/link/20260731_01.pdf・2回目）
+  - 「製造受託事業 既存顧客からの受託数量増加」（https://www.taiyo-hd.co.jp/jp/investor/library/latest-information/main/01/teaserItems1/0112/linkList/01/link/20260731_03.pdf・2回目）
+  - 「アジア、北米、欧州に生産・販売拠点を持ち、グローバルな顧客ニーズに迅速に対応」（https://note.com/tatsuya_sabato/n/n4b22b62a98bc・3回目）
+  - 「顧客との強固な関係:」（https://note.com/tatsuya_sabato/n/n4b22b62a98bc・3回目）
+  - 「アジア、北米、欧州など、世界各地の顧客ニーズに迅速に対応するための生産・販売・技術サポート体制」（https://note.com/tatsuya_sabato/n/n4b22b62a98bc・3回目）
+  - 「投資有価証券4,085百万円、建設仮勘定2,933百万円の増加、繰延税金資産830百万円、販売権659百万円、顧客関連資産476百万円の減少」（https://kitaishihon.com/company/4626/business・3回目）
+- 何を：
+  - 「製品・ソリューション」（https://www.taiyo-hd.co.jp/jp/index.html・1回目）
+  - 「携帯電話やパソコンなどのIT機器やデジタル家電、車載用電子機器などあらゆるエレクトロニクス製品に利用されるプリント基板(PCB)」（https://www.taiyo-hd.co.jp/jp/about/group.html・1回目）
+  - 「日本、中国、台湾、韓国、米国、ベトナムに生産・販売拠点を設け、香港、シンガポール、タイ、米国に販売や技術サービス拠点を整備し、世界をカバーするネットワーク体制を構築しています」（https://www.taiyo-hd.co.jp/jp/about/group.html・1回目）
+  - 「製品分野は大別して、プリント基板（PCB）用部材とフラットパネル・ディスプレイ（FPD）用部材に分類できます」（https://www.taiyo-hd.co.jp/jp/business/electronics.html・1回目）
+  - 「さらには、PCB用部材やFPD用部材などの製品分野で培った要素技術を活かし、電子部品業界をターゲットとして新しい製品分野を開拓することを目指します」（https://www.taiyo-hd.co.jp/jp/business/electronics.html・1回目）
+  - 「製品分野の分類」（https://www.taiyo-hd.co.jp/jp/business/electronics.html・1回目）
+  - 「MID製品（立体成形基板）」（https://www.taiyo-hd.co.jp/jp/business/electronics.html・1回目）
+  - 「AIの普及を背景とした需要の高まりがみられ、メモリ向けのドライフィルム製品を中心に販売数量が増加」（https://www.taiyo-hd.co.jp/jp/investor/performance.html・1回目）
+  - 「最終製品の需要変動に伴い当社製品の需要が低下し、ディスプレイ関連製品(白色DF)の販売数量は減少」（https://www.taiyo-hd.co.jp/jp/investor/performance.html・1回目）
+  - 「医療・医薬品事業の売上高は、製造受託事業における受託数量の増加や、製造販売事業における一部製品の需要増加等により、前年同期を4,932百万円上回る36,490百万円（前年同期比15.6％増）となりました」（https://www.taiyo-hd.co.jp/jp/investor/performance.html・1回目）
+  - 「薬価改定における不採算品再算定により、一部製品の薬価が引き上げられたことで、売上が増加」（https://www.taiyo-hd.co.jp/jp/investor/performance.html・1回目）
+  - 「今後は、更なる製品の譲受等により長期収載品事業の拡大を図ると共に、国内製造拠点として高槻工場を皮切りに海外のネットワーク拡大にも目を向け、グローバルな事業展開を目指します」（https://www.taiyo-hd.co.jp/jp/business/medical.html・1回目）
+- どうやって売るか：
+  - 「グループ紹介」（https://www.taiyo-hd.co.jp/jp/index.html・1回目）
+  - 「ひと目でわかるグループ紹介」（https://www.taiyo-hd.co.jp/jp/index.html・1回目）
+  - 「事業紹介TOPへ」（https://www.taiyo-hd.co.jp/jp/index.html・1回目）
+  - 「オフィス、工場の様子を写真でご紹介」（https://www.taiyo-hd.co.jp/jp/index.html・1回目）
+  - 「事業紹介 | 太陽ホールディングス株式会社」（https://www.taiyo-hd.co.jp/jp/business.html・1回目）
+  - 「グループ紹介」（https://www.taiyo-hd.co.jp/jp/about/group.html・1回目）
+  - 「>>グループ紹介 TOP」（https://www.taiyo-hd.co.jp/jp/about/group.html・1回目）
+  - 「エレクトロニクス事業 | 事業紹介 | 太陽ホールディングス株式会社」（https://www.taiyo-hd.co.jp/jp/business/electronics.html・1回目）
+  - 「グループ紹介」（https://www.taiyo-hd.co.jp/jp/investor/performance.html・1回目）
+  - 「グループ紹介」（https://www.taiyo-hd.co.jp/jp/investor/library.html・1回目）
+  - 「医療・医薬品事業 | 事業紹介 | 太陽ホールディングス株式会社」（https://www.taiyo-hd.co.jp/jp/business/medical.html・1回目）
+  - 「ICT&S事業 | 事業紹介 | 太陽ホールディングス株式会社」（https://www.taiyo-hd.co.jp/jp/business/ictandsustainability.html・1回目）
+- 売上構成：
+  - 「海外売上比率」（https://www.taiyo-hd.co.jp/jp/about/group.html・1回目）
+  - 「セグメントごとの経営成績は次のとおりです」（https://www.taiyo-hd.co.jp/jp/investor/performance.html・1回目）
+  - 「当社グループは、事業子会社を基礎としたセグメントから構成されており、「エレクトロニクス事業」「医療・医薬品事業」の2つを報告セグメントとしています」（https://www.taiyo-hd.co.jp/jp/investor/performance.html・1回目）
+  - 「セグメント利益は、前年同期を7,718百万円上回る29,177百万円（前年同期比36.0％増）となりました」（https://www.taiyo-hd.co.jp/jp/investor/performance.html・1回目）
+  - 「セグメント利益は、前年同期を3,014百万円上回る5,063百万円（前年同期比147.1％増）となりました」（https://www.taiyo-hd.co.jp/jp/investor/performance.html・1回目）
+  - 「（セグメント情報等の注記） ………………………………………………………………………………………… 7」（https://www.taiyo-hd.co.jp/jp/investor/library/latest-information/main/01/teaserItems1/0112/linkList/0/link/20260731_01.pdf・2回目）
+  - 「報告セグメント その他」（https://www.taiyo-hd.co.jp/jp/investor/library/latest-information/main/01/teaserItems1/0112/linkList/0/link/20260731_01.pdf・2回目）
+  - 「セグメント間の内部売上」（https://www.taiyo-hd.co.jp/jp/investor/library/latest-information/main/01/teaserItems1/0112/linkList/0/link/20260731_01.pdf・2回目）
+  - 「セグメント利益又は損失」（https://www.taiyo-hd.co.jp/jp/investor/library/latest-information/main/01/teaserItems1/0112/linkList/0/link/20260731_01.pdf・2回目）
+  - 「報告セグメント計 7,580」（https://www.taiyo-hd.co.jp/jp/investor/library/latest-information/main/01/teaserItems1/0112/linkList/0/link/20260731_01.pdf・2回目）
+  - 「セグメント間取引消去 8」（https://www.taiyo-hd.co.jp/jp/investor/library/latest-information/main/01/teaserItems1/0112/linkList/0/link/20260731_01.pdf・2回目）
+  - 「事業セグメントに配分していない損益（注） △500」（https://www.taiyo-hd.co.jp/jp/investor/library/latest-information/main/01/teaserItems1/0112/linkList/0/link/20260731_01.pdf・2回目）
+- 利益の源泉：
+  - 「営業利益・売上高営業利益率」（https://www.taiyo-hd.co.jp/jp/investor/highlight.html・1回目）
+  - 「売上高営業利益率（％）」（https://www.taiyo-hd.co.jp/jp/investor/highlight.html・1回目）
+  - 「営業利益率 21% 27% 23% 23%」（https://www.taiyo-hd.co.jp/jp/investor/library/latest-information/main/01/teaserItems1/0112/linkList/01/link/20260731_03.pdf・2回目）
+  - 「営業利益率 28% 35% 30% 31%」（https://www.taiyo-hd.co.jp/jp/investor/library/latest-information/main/01/teaserItems1/0112/linkList/01/link/20260731_03.pdf・2回目）
+  - 「営業利益率 15% 8% 10% 11%」（https://www.taiyo-hd.co.jp/jp/investor/library/latest-information/main/01/teaserItems1/0112/linkList/01/link/20260731_03.pdf・2回目）
+  - 「営業利益率 △2% 8% ‐ ‐ ‐ ‐」（https://www.taiyo-hd.co.jp/jp/investor/library/latest-information/main/01/teaserItems1/0112/linkList/01/link/20260731_03.pdf・2回目）
+  - 「化学合成技術や品質管理ノウハウといった、エレクトロニクス事業で培った強みを活かせる分野と位置づけています」（https://note.com/tatsuya_sabato/n/n4b22b62a98bc・3回目）
+  - 「太陽HDの強み:」（https://note.com/tatsuya_sabato/n/n4b22b62a98bc・3回目）
+  - 「参入する市場の競争環境、自社の強みを活かせるか、そしてM&Aを行う場合はその後のPMI（買収後統合）がうまくいくかなどが、成否を分けます」（https://note.com/tatsuya_sabato/n/n4b22b62a98bc・3回目）
+  - 「太陽HDが、化学メーカーとしての強み（有機合成技術、品質管理など）を活かし、いかに独自のポジションを築けるかが鍵となります」（https://note.com/tatsuya_sabato/n/n4b22b62a98bc・3回目）
+  - 「強みと成長ポテンシャル」（https://note.com/tatsuya_sabato/n/n4b22b62a98bc・3回目）
+  - 「決算短信・有報・適時開示から日本企業の強み・成長余地・リスクを整理」（https://note.com/tatsuya_sabato/n/n4b22b62a98bc・3回目）
+- 沿革：
+  - 「2026年10月9日」（https://www.taiyo-hd.co.jp/jp/index.html・1回目）
+  - 「2026年9月30日」（https://www.taiyo-hd.co.jp/jp/index.html・1回目）
+  - 「令和8年熊本地震被害に対する義援金拠出に関するお知らせ」（https://www.taiyo-hd.co.jp/jp/index.html・1回目）
+  - 「2026年9月10日」（https://www.taiyo-hd.co.jp/jp/index.html・1回目）
+  - 「2026年9月9日」（https://www.taiyo-hd.co.jp/jp/index.html・1回目）
+  - 「2026年10月9日」（https://www.taiyo-hd.co.jp/jp/investor.html・1回目）
+  - 「2026年9月9日」（https://www.taiyo-hd.co.jp/jp/investor.html・1回目）
+  - 「2026年9月1日」（https://www.taiyo-hd.co.jp/jp/investor.html・1回目）
+  - 「2026年8月5日」（https://www.taiyo-hd.co.jp/jp/investor.html・1回目）
+  - 「2024年10月開始の選定療養制度における対象品目の販売数量が減少」（https://www.taiyo-hd.co.jp/jp/investor/performance.html・1回目）
+  - 「2025年3月期」（https://www.taiyo-hd.co.jp/jp/investor/performance.html・1回目）
+  - 「2026年3月期」（https://www.taiyo-hd.co.jp/jp/investor/performance.html・1回目）
+- 検索結果の抜粋：
+  - 「事業紹介 太陽ホールディングス 新卒採用サイト — 事業紹介 太陽ホールディングス 新卒採用サイト 太陽ホールディングス株式会社 https://www.taiyo-hd.co.jp > recruit > aboutus > business」（https://www.taiyo-hd.co.jp/recruit/aboutus/business/・3回目）
+  - 「太陽ホールディングス 株式会社 ビジネスモデル — 太陽ホールディングス 株式会社 ビジネスモデル ジャスネットキャリア https://career.jusnet.co.jp > taiyohd > business_detail」（https://career.jusnet.co.jp/global/taiyohd/business_detail.php・3回目）
+  - 「太陽ホールディングス (株)の会社概要 | マイナビ2028 — 太陽ホールディングス (株)の会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp99287 > outline」（https://job.mynavi.jp/28/pc/search/corp99287/outline.html・3回目）
+  - 「事業紹介 | 太陽ホールディングス 株式会社 — 事業紹介 | 太陽ホールディングス 株式会社 太陽ホールディングス株式会社 https://www.taiyo-hd.co.jp > business」（https://www.taiyo-hd.co.jp/jp/business.html・3回目）
+  - 「決算説明資料 | IRライブラリ - 太陽ホールディングス — 決算説明資料 | IRライブラリ - 太陽ホールディングス 太陽ホールディングス株式会社 https://www.taiyo-hd.co.jp > library > presentation」（https://www.taiyo-hd.co.jp/jp/investor/library/presentation.html・3回目）
+  - 「IRライブラリ | 投資家情報 | 太陽ホールディングス 株式会社 — IRライブラリ | 投資家情報 | 太陽ホールディングス 株式会社 太陽ホールディングス株式会社 https://www.taiyo-hd.co.jp > investor > library」（https://www.taiyo-hd.co.jp/jp/investor/library.html・3回目）
+  - 「投資家情報 | 太陽ホールディングス 株式会社 — 投資家情報 | 太陽ホールディングス 株式会社 太陽ホールディングス株式会社 https://www.taiyo-hd.co.jp > investor」（https://www.taiyo-hd.co.jp/jp/investor.html・3回目）
+  - 「IRニュース | 投資家情報 | 太陽ホールディングス 株式会社 — IRニュース | 投資家情報 | 太陽ホールディングス 株式会社 太陽ホールディングス株式会社 https://www.taiyo-hd.co.jp > investor > irnews」（https://www.taiyo-hd.co.jp/jp/investor/irnews.html・3回目）
+  - 「太陽ホールディングス 株式会社 on X: "「2026年3月期 決算 ... — 太陽ホールディングス 株式会社 on X: "「2026年3月期 決算 ... X https://x.com > @Taiyo_hd」（https://x.com/Taiyo_hd/status/2049732749322543261・3回目）
+  - 「企業概要 | 企業情報 | 太陽ホールディングス 株式会社 — 企業概要 | 企業情報 | 太陽ホールディングス 株式会社 太陽ホールディングス株式会社 https://www.taiyo-hd.co.jp > about > overview」（https://www.taiyo-hd.co.jp/jp/about/overview.html・3回目）
+  - 「太陽ホールディングス 【4626】の 事業 内容 - キタイシホン — 太陽ホールディングス 【4626】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/4626/business・3回目）
+  - 「事業 紹介 | 太陽ホールディングス 株式会社 — 事業 紹介 | 太陽ホールディングス 株式会社 太陽ホールディングス株式会社 https://www.taiyo-hd.co.jp > business」（https://www.taiyo-hd.co.jp/jp/business.html・3回目）
+- お金の形：記載なし（3回確認済み：公式25頁／PDF・画像16件／外部4頁・検索5回）
+
+## 学情
+- 公式URL：https://company.gakujo.ne.jp/（search:yahoo_jp:学情）
+- ビジネスモデル：
+  - 「求人広告を掲載した際に広告掲載料が発生するビジネスモデルです」（https://company.gakujo.ne.jp/ir/now/・1回目）
+  - 「ヘッドハンティングした人材が入社した際にフィーが発生するビジネスモデルと、システム利用の際に利用料が発生するビジネスモデルを併存させています」（https://company.gakujo.ne.jp/ir/now/・1回目）
+  - 「ブース出展に際しブース出展料が発生するビジネスモデルです」（https://company.gakujo.ne.jp/ir/now/・1回目）
+  - 「紹介した人材の入社が決定した際に、成功報酬料が発生するビジネスモデルです」（https://company.gakujo.ne.jp/ir/now/・1回目）
+- 誰に：
+  - 「[20代専門]転職サイト「Ｒｅ就活」会員数300万人を突破するとともに、 「20代が選ぶ20代向け転...」（https://company.gakujo.ne.jp/・1回目）
+  - 「「Ｒｅ就活」会員数50万人突破」（https://company.gakujo.ne.jp/company/history/・1回目）
+  - 「「Ｒｅ就活」会員数100万人突破」（https://company.gakujo.ne.jp/company/history/・1回目）
+  - 「「Ｒｅ就活」会員数150万人突破」（https://company.gakujo.ne.jp/company/history/・1回目）
+  - 「「Ｒｅ就活」会員数180万人突破」（https://company.gakujo.ne.jp/company/history/・1回目）
+  - 「「Ｒｅ就活」会員数200万人突破」（https://company.gakujo.ne.jp/company/history/・1回目）
+  - 「「Ｒｅ就活キャンパス（旧あさがくナビ）」ダイレクトリクルーティングサイト「会員数」4年連続No.1（東京商工リサーチ調べ）を獲得」（https://company.gakujo.ne.jp/company/history/・1回目）
+  - 「「Ｒｅ就活」会員数230万人突破」（https://company.gakujo.ne.jp/company/history/・1回目）
+  - 「「Ｒｅ就活キャンパス（旧あさがくナビ）」オリコン顧客満足度(R)調査 学生満足度3年連続No.1（※2022年～2024年 オリコン顧客満足度(R)調査 逆求人型就活サービス 就活支援コンテンツ 第1位）を獲得」（https://company.gakujo.ne.jp/company/history/・1回目）
+  - 「「Ｒｅ就活」会員数260万人突破」（https://company.gakujo.ne.jp/company/history/・1回目）
+  - 「「Ｒｅ就活30」の会員数が10,000人を突破」（https://company.gakujo.ne.jp/company/history/・1回目）
+  - 「「Ｒｅ就活」会員数280万人突破」（https://company.gakujo.ne.jp/company/history/・1回目）
+- 何を：
+  - 「法人向けサービス」（https://company.gakujo.ne.jp/・1回目）
+  - 「個人向けサービス」（https://company.gakujo.ne.jp/・1回目）
+  - 「サービス・PR」（https://company.gakujo.ne.jp/・1回目）
+  - 「学情のさまざまなサービスを紹介します」（https://company.gakujo.ne.jp/・1回目）
+  - 「30代専門ダイレクトリクルーティングサービス」（https://company.gakujo.ne.jp/・1回目）
+  - 「20代専門転職エージェントサービス」（https://company.gakujo.ne.jp/・1回目）
+  - 「法人向けサービスを見る」（https://company.gakujo.ne.jp/・1回目）
+  - 「個人向けサービスを見る」（https://company.gakujo.ne.jp/・1回目）
+  - 「法人向けサービス」（https://company.gakujo.ne.jp/ir/・1回目）
+  - 「個人向けサービス」（https://company.gakujo.ne.jp/ir/・1回目）
+  - 「商品トピックス」（https://company.gakujo.ne.jp/ir/・1回目）
+  - 「法人向けサービス」（https://company.gakujo.ne.jp/company/business/・1回目）
+- どうやって売るか：
+  - 「学情のさまざまなサービスを紹介します」（https://company.gakujo.ne.jp/・1回目）
+  - 「自社にマッチする20代を紹介して欲しい」（https://company.gakujo.ne.jp/・1回目）
+  - 「学情の経営方針・中期経営計画をご紹介しています」（https://company.gakujo.ne.jp/ir/・1回目）
+  - 「事業紹介 | 株式会社学情｜通年採用のプロフェッショナル」（https://company.gakujo.ne.jp/company/business/・1回目）
+  - 「若手求職者・学生に選択肢（求人）を紹介」（https://company.gakujo.ne.jp/company/business/・1回目）
+  - 「一般社団法人 日本経済団体連合会、公益社団法人 全国求人情報協会、一般社団法人 日本人材紹介事業協会、日本就職情報出版懇話会、公益財団法人 森林文化協会」（https://company.gakujo.ne.jp/company/outline/・1回目）
+  - 「職業紹介事業許可（有料職業紹介事業）取得」（https://company.gakujo.ne.jp/company/history/・1回目）
+  - 「具体的なサービスや取り組みをご紹介いたします」（https://company.gakujo.ne.jp/ir/past/・1回目）
+  - 「紹介した人材の入社が決定した際に、成功報酬料が発生するビジネスモデルです」（https://company.gakujo.ne.jp/ir/now/・1回目）
+  - 「そのためのアプローチをご紹介します」（https://company.gakujo.ne.jp/ir/now/・1回目）
+  - 「子育てに関する制度を紹介し、制度利用による両立を支援す」（https://company.gakujo.ne.jp/wp-content/uploads/2024/06/a99f2ebb67eed54b32e0fd76b2946133.pdf・2回目）
+  - 「広告掲載料 人材紹介会社」（https://company.gakujo.ne.jp/wp-content/themes/gakujo/_assets/images/ir/lpIRPresent_flow.png・2回目）
+- お金の形：
+  - 「ヘッドハンティングした人材が入社した際にフィーが発生するビジネスモデルと、システム利用の際に利用料が発生するビジネスモデルを併存させています」（https://company.gakujo.ne.jp/ir/now/・1回目）
+  - 「紹介した人材の入社が決定した際に、成功報酬料が発生するビジネスモデルです」（https://company.gakujo.ne.jp/ir/now/・1回目）
+- 利益の源泉：
+  - 「就職を支援する当社の強みだと考えています」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250530/20250529572673.pdf・3回目）
+  - 「これまでも、 そしてこれからも当社の強みになると考えています」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250530/20250529572673.pdf・3回目）
+  - 「採用市場が大き く変化しよう とする中、 ワンス ト ップ営業はさらなる競争優位へ」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250530/20250529572673.pdf・3回目）
+  - 「■ 他社との競争優位性を高める学情の営業体制と提供サービス」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250530/20250529572673.pdf・3回目）
+  - 「営業利益／営業利益率 Webメディ ア売上高」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250530/20250529572673.pdf・3回目）
+  - 「売上総利益率 58.8 66.0 63.6 66.0 67.2 65.9 67.4 66.5 66.8 66.4」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250530/20250529572673.pdf・3回目）
+  - 「営業利益率 19.7 27.2 24.9 22.6 27.6 20.8 29.2 23.9 26.3 24.8」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250530/20250529572673.pdf・3回目）
+  - 「日本人は働かなくなったのか？―働き方改革で真価が問われる企業の競争優位性（パーソル総合研究所）」（https://jinjibu.jp/article/detl/topinterview/1278/・3回目）
+- 沿革：
+  - 「1976年（昭和51年）11月」（https://company.gakujo.ne.jp/company/outline/・1回目）
+  - 「1977年（昭和52年）11月7日」（https://company.gakujo.ne.jp/company/outline/・1回目）
+  - 「2023年10月期：64％」（https://company.gakujo.ne.jp/company/outline/・1回目）
+  - 「2024年10月期：70％」（https://company.gakujo.ne.jp/company/outline/・1回目）
+  - 「2025年10月期：68％」（https://company.gakujo.ne.jp/company/outline/・1回目）
+  - 「沿革 | 株式会社学情｜通年採用のプロフェッショナル」（https://company.gakujo.ne.jp/company/history/・1回目）
+  - 「1970年代」（https://company.gakujo.ne.jp/company/history/・1回目）
+  - 「1980年代」（https://company.gakujo.ne.jp/company/history/・1回目）
+  - 「1990年代」（https://company.gakujo.ne.jp/company/history/・1回目）
+  - 「2000年代」（https://company.gakujo.ne.jp/company/history/・1回目）
+  - 「2010年代」（https://company.gakujo.ne.jp/company/history/・1回目）
+  - 「2020年代」（https://company.gakujo.ne.jp/company/history/・1回目）
+- 検索結果の抜粋：
+  - 「事業の特長｜株式会社 学情 採用情報サイト — 事業の特長｜株式会社 学情 採用情報サイト 株式会社学情 https://company.gakujo.ne.jp > business > strong_point」（https://company.gakujo.ne.jp/saiyo/business/strong_point.html・3回目）
+  - 「学情 の「企業分析［強み・弱み・展望］」 OpenWork — 学情 の「企業分析［強み・弱み・展望］」 OpenWork OpenWork https://www.openwork.jp > 人材サービス > 学情」（https://www.openwork.jp/company_answer.php?m_id=a0910000000Fqj3&q_no=9・3回目）
+  - 「学情 のいま | 株式会社 学情 ｜通年採用のプロフェッショナル — 学情 のいま | 株式会社 学情 ｜通年採用のプロフェッショナル 株式会社学情 https://company.gakujo.ne.jp > now」（https://company.gakujo.ne.jp/ir/now/・3回目）
+  - 「学情 (2301)：なぜ「減益決算」を悲観するのは間違っている ... — 学情 (2301)：なぜ「減益決算」を悲観するのは間違っている ... note https://note.com > キャリア > キャリア戦略」（https://note.com/hr793/n/n3b4a5ece3b01・3回目）
+  - 「決算説明資料 | 株式会社 学情 ｜通年採用のプロフェッショナル — 決算説明資料 | 株式会社 学情 ｜通年採用のプロフェッショナル 株式会社学情 https://company.gakujo.ne.jp > IR情報 > IR ライブラリ」（https://company.gakujo.ne.jp/ir/library/presentation/・3回目）
+  - 「IR ライブラリ | 株式会社 学情 ｜通年採用のプロフェッショナル — IR ライブラリ | 株式会社 学情 ｜通年採用のプロフェッショナル 株式会社学情 https://company.gakujo.ne.jp > library」（https://company.gakujo.ne.jp/ir/library/・3回目）
+  - 「学情 [2301]：2026年10月期 第3四半期 決算 短信（日本基準 ... — 学情 [2301]：2026年10月期 第3四半期 決算 短信（日本基準 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr」（https://www.nikkei.com/nkd/disclosure/tdnr/20260908533240/・3回目）
+  - 「学情 （2301）のIR情報・ 決算資料 - IRBANK — 学情 （2301）のIR情報・ 決算資料 - IRBANK IRBANK https://irbank.net > 学情」（https://irbank.net/2301/ir・3回目）
+  - 「学情 のこれから | 株式会社 学情 ｜通年採用のプロフェッショナル — 学情 のこれから | 株式会社 学情 ｜通年採用のプロフェッショナル 株式会社学情 https://company.gakujo.ne.jp > future」（https://company.gakujo.ne.jp/ir/future/・3回目）
+  - 「学情 【2301】の 事業 内容 - キタイシホン — 学情 【2301】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/2301/business・3回目）
+  - 「株式会社 学情 統合報告書 - EDINET DB — 株式会社 学情 統合報告書 - EDINET DB EDINET DB https://edinetdb.jp > 株式会社学情 > IR資料」（https://edinetdb.jp/company/E05286/integrated-reports/・3回目）
+  - 「学情 のこれまで | 株式会社 学情 ｜通年採用のプロフェッショナル — 学情 のこれまで | 株式会社 学情 ｜通年採用のプロフェッショナル 株式会社学情 https://company.gakujo.ne.jp > past」（https://company.gakujo.ne.jp/ir/past/・3回目）
+- 設立：記載なし（3回確認済み：公式25頁／PDF・画像16件／外部3頁・検索5回）
+- 従業員数：記載なし（3回確認済み：公式25頁／PDF・画像16件／外部3頁・検索5回）
+- 事業内容：記載なし（3回確認済み：公式25頁／PDF・画像16件／外部3頁・検索5回）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像16件／外部3頁・検索5回）
+- 売上構成：記載なし（3回確認済み：公式25頁／PDF・画像16件／外部3頁・検索5回）
+
+## 学究社
+- 公式URL：https://www.gakkyusha.com/（search:yahoo_jp:学究社）
+- 設立：1976年（昭和51年）10月6日（https://www.gakkyusha.com/about/・1回目）
+- 事業内容：中学・高校・大学への受験指導を行う進学塾の運営（https://www.gakkyusha.com/about/・1回目）
+- 売上高：（https://kitaishihon.com/company/9769/business・3回目）
+- 売上高：12,626,938 75,247 12,702,186 587,730 13,289,916 ― 13,289,916（https://kitaishihon.com/company/9769/business・3回目）
+- 売上高：2,250 90,632 92,882 263,383 356,265 △356,265 ―（https://kitaishihon.com/company/9769/business・3回目）
+- ビジネスモデル：
+  - 「いく収益構造となっております」（https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf・2回目）
+  - 「ビジネスモデル」（https://envalith.com/ja/companies/9769/overview・3回目）
+- 誰に：
+  - 「外部顧客への売上高 2,287,569 38,255 2,325,824 115,679 2,441,504 ― 2,441,504」（https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf・2回目）
+  - 「外部顧客への売上高 2,207,696 39,575 2,247,271 123,116 2,370,388 ― 2,370,388」（https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf・2回目）
+  - 「当社グループでは、市場のニーズや顧客の動向、進学塾としてのあり方を模索しながら、今後の見通しを踏まえて、」（https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf・2回目）
+  - 「・過去５年間において、当社の主要取引先（連結売上高の５％以上を占める販売先又は連結営業費用の５％」（https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf・2回目）
+  - 「当社及び連結子会社の顧客との契約から生じる収益に関する主要な事業における主な履行義務の内容及び当該履」（https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf・2回目）
+  - 「顧客である生徒に対して授業を提供することを履行義務としており、顧客との契約に基づく受講期間において」（https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf・2回目）
+  - 「すると、連結計算書類の利用者の意思決定に影響を与えると合理的に見込まれる場合に 、重要性があると判断」（https://www.gakkyusha.com/wp-content/uploads/2026/06/f990cdf64db659f0886bff2ae4dd0aba.pdf・2回目）
+  - 「と、計算書類等の利用者の意思決定に影響を与えると合理的に見込まれる場合に 、重要性があると判断され」（https://www.gakkyusha.com/wp-content/uploads/2026/06/f990cdf64db659f0886bff2ae4dd0aba.pdf・2回目）
+  - 「当社及び連結子会社の顧客との契約から生じる収益に関する主要な事業における主な履行義務の内容」（https://www.gakkyusha.com/wp-content/uploads/2026/06/62f88f9bcbc483a05b2fb16f1e95f0dd.pdf・2回目）
+  - 「顧客である生徒に対して授業を提供することを履行義務としており 、顧客との契約に基づく受講期間に」（https://www.gakkyusha.com/wp-content/uploads/2026/06/62f88f9bcbc483a05b2fb16f1e95f0dd.pdf・2回目）
+  - 「営業債権である売掛金は 、顧客の信用リスクに晒されております」（https://www.gakkyusha.com/wp-content/uploads/2026/06/62f88f9bcbc483a05b2fb16f1e95f0dd.pdf・2回目）
+  - 「当社は、営業債権及び差入保証金について 、管理本部において取引先の状況を定期的にモニタリング」（https://www.gakkyusha.com/wp-content/uploads/2026/06/62f88f9bcbc483a05b2fb16f1e95f0dd.pdf・2回目）
+- 何を：
+  - 「・株式会社インターエデュ・ドットコム（インターネットによる受験、教育情報の配信サービス提供）」（https://www.gakkyusha.com/about/・1回目）
+  - 「当該サービスの設備を利用した社内の授業点検を同時に実施すること」（https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf・2回目）
+  - 「インターネットによる受験、教育情報の配信サービス事業等につきましては、広告関連売上につきましては、」（https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf・2回目）
+  - 「人材サービス売上につきましては、塾訪問」（https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf・2回目）
+  - 「サービスの需要が関西をはじめとする他地域や大学へと拡大し、契約校数が増加したことにより、前年同期と比」（https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf・2回目）
+  - 「商品 45,857 42,399」（https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf・2回目）
+  - 「情報の配信サービス事業等を含んでおります」（https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf・2回目）
+  - 「【根拠条文】 金融商品取引法第24条第１項」（https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf・2回目）
+  - 「その他の事業としては、インターネットによる受験、教育情報の配信サービス事業等を行っております」（https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf・2回目）
+  - 「報の配信サービス提供 その他 バナー広告の掲載等」（https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf・2回目）
+  - 「サポートサービス 人材派遣紹介業 同上 不動産の転借等」（https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf・2回目）
+  - 「ドットコム 東京都新宿区 40,000 インターネットによる受験、教育情報の配信サービス提供 100.0 当社のバナー広告掲載等役員兼任 ３名」（https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf・2回目）
+- どうやって売るか：
+  - 「「指名委員会等設置会社」（旧 委員会設置会社）へ移行」（https://www.gakkyusha.com/about/history/・1回目）
+  - 「指名委員、報酬委員」（https://www.gakkyusha.com/about/%E5%BD%B9%E5%93%A1%E4%B8%80%E8%A6%A7/・1回目）
+  - 「指名委員、報酬委員、監査委員」（https://www.gakkyusha.com/about/%E5%BD%B9%E5%93%A1%E4%B8%80%E8%A6%A7/・1回目）
+  - 「指名委員、監査委員」（https://www.gakkyusha.com/about/%E5%BD%B9%E5%93%A1%E4%B8%80%E8%A6%A7/・1回目）
+  - 「日比谷晴海通り法律事務所パートナー」（https://www.gakkyusha.com/about/%E5%BD%B9%E5%93%A1%E4%B8%80%E8%A6%A7/・1回目）
+  - 「2003年６月 委員会設置会社（現 指名委員会等設置会社）に移行」（https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf・2回目）
+  - 「サポートサービス 人材派遣紹介業 同上 不動産の転借等」（https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf・2回目）
+  - 「サポートサービス 同上 20,000 人材派遣紹介業 100.0(100.0) 当社からの不動産転借等」（https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf・2回目）
+  - 「ひいては継続的な企業価値の向上を目的として、2003年６月開催の第28回定時株主総会の承認を経て指名委員会」（https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf・2回目）
+  - 「会社法関連法令に基づく指名委員会等設置会社制を採用しております」（https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf・2回目）
+  - 「指名委員会、報酬委員会及び監査委員会は原則月１回開催され、指名・報酬・監査の各委員会が取締役会と密」（https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf・2回目）
+  - 「[指名委員会]」（https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf・2回目）
+- お金の形：
+  - 「① 【ストックオプション制度の内容】」（https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf・2回目）
+- 売上構成：
+  - 「（セグメント情報等の注記） …………………………………………………………………………………９」（https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf・2回目）
+  - 「セグメントの業績を示すと、次のとおりであります」（https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf・2回目）
+  - 「なお、セグメント別の売上高はセグメント間の内部取引消」（https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf・2回目）
+  - 「また、当第１四半期連結会計期間より、報告セグメントの区分を変更しており、前年同期との比較・分析は変更」（https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf・2回目）
+  - 「（セグメント情報等の注記）」（https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf・2回目）
+  - 「１．報告セグメントごとの売上高及び利益又は損失の金額に関する情報」（https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf・2回目）
+  - 「報告セグメント その他」（https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf・2回目）
+  - 「セグメント間の内部」（https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf・2回目）
+  - 「セグメント利益 △94,277 19,987 △74,290 37,206 △37,083 623 △36,460」（https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf・2回目）
+  - 「(注) １．「その他」の区分は報告セグメントに含まれない事業セグメントであり、インターネットによる受験、教育」（https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf・2回目）
+  - 「２．セグメント利益の調整額623千円は、主にセグメント間取引消去によるものであります」（https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf・2回目）
+  - 「３．セグメント利益は、四半期連結損益計算書の営業利益と調整を行っております」（https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf・2回目）
+- 利益の源泉：
+  - 「高校授業料の支援も拡充された影響もあり、当社の強みとする都立中・都立高を目指す生徒数が減少していること」（https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf・2回目）
+  - 「なお、当社の強みの一つである合宿への需要の高まりを受け、当第１四半期連結累計期間において、清里合宿場」（https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf・2回目）
+  - 「小中学生部門（ena小中学部）につきましては、当社の強みとする都立中・都立高を目指す生徒数が減少してい」（https://www.gakkyusha.com/wp-content/uploads/2026/08/aeab7ee2b758acfd31069d4e9a0fcf81.pdf・2回目）
+  - 「当社グループは、本業での収益性を表す指標として売上高営業利益率を重視しております」（https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf・2回目）
+  - 「した2028年３月期までの３ヵ年を計画期間とする中期経営計画では、売上高営業利益率20.0％を継続的に上回る」（https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf・2回目）
+  - 「当連結会計年度の売上高営業利益率は22.2％となり、計画を上回る結果となりました」（https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf・2回目）
+  - 「一方で、東京都における私立高校の授業料実質無償化の拡充を受けて、当社の強みとする都立中・都立高を」（https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf・2回目）
+  - 「た指導ノウハウと、東京都内で確立した都立中高一貫校・都立難関高合格実績No.１の強みを活かし、前連結会」（https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf・2回目）
+  - 「(2) 参入障壁の低い業界」（https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf・2回目）
+  - 「学習塾業界の特徴としまして、参入障壁が低いことが挙げられます」（https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf・2回目）
+  - 「収益面におきましては、東京都による私立高校授業料の実質無償化拡充の影響もあり、当社の強みとする都立中・」（https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf・2回目）
+  - 「スの強みの一つである合宿については、季節講習の一環として、 夏期に従来の５泊６日を10泊11日へ拡充したほか、」（https://www.gakkyusha.com/wp-content/uploads/2026/06/0dad476765049ac3a2d5fc41560791e2.pdf・2回目）
+- 沿革：
+  - 「2027年３月期 第２四半期決算説明会のご案内」（https://www.gakkyusha.com/・1回目）
+  - 「2027年３月期 第１四半期決算短信〔日本基準〕(連結)」（https://www.gakkyusha.com/・1回目）
+  - 「2026年３月期 有価証券報告書」（https://www.gakkyusha.com/・1回目）
+  - 「2027年度エントリー受付中！」（https://www.gakkyusha.com/・1回目）
+  - 「2028年度インターンシップ」（https://www.gakkyusha.com/・1回目）
+  - 「1976年（昭和51年）10月6日」（https://www.gakkyusha.com/about/・1回目）
+  - 「2027年３月期 第２四半期決算説明会のご案内」（https://www.gakkyusha.com/ir/・1回目）
+  - 「2027年３月期 第１四半期決算短信〔日本基準〕(連結)」（https://www.gakkyusha.com/ir/・1回目）
+  - 「2026年３月期 有価証券報告書」（https://www.gakkyusha.com/ir/・1回目）
+  - 「2026年３月期 決算説明会資料」（https://www.gakkyusha.com/ir/・1回目）
+  - 「会社沿革 | 株式会社学究社」（https://www.gakkyusha.com/about/history/・1回目）
+  - 「1972年、国立の地に生徒5名の学習塾「国立学院」が誕生しました」（https://www.gakkyusha.com/about/history/・1回目）
+- 検索結果の抜粋：
+  - 「学究社 （9769）の企業概要 | ENVALITH — 学究社 （9769）の企業概要 | ENVALITH ENVALITH https://envalith.com > companies > overview」（https://envalith.com/ja/companies/9769/overview・3回目）
+  - 「会社案内 | 株式会社 学究社 — 会社案内 | 株式会社 学究社 株式会社学究社 https://www.gakkyusha.com > about」（https://www.gakkyusha.com/about/・3回目）
+  - 「【平均年収487万円】 学究社 転職ガイド：知っておきたい給与 ... — 【平均年収487万円】 学究社 転職ガイド：知っておきたい給与 ... corp-research.jp https://corp-research.jp > 有報転職ガイド」（https://corp-research.jp/articles/9887・3回目）
+  - 「(株) 学究社 （進学塾ena、ena美術、ena看護）【東証プライム ... — (株) 学究社 （進学塾ena、ena美術、ena看護）【東証プライム ... マイナビ https://job.mynavi.jp > search > corp88099 > employment」（https://job.mynavi.jp/28/pc/search/corp88099/employment.html・3回目）
+  - 「CP[（株） 学究社 ] - C&A CP システム — CP[（株） 学究社 ] - C&A CP システム cp-canda.net https://cp-canda.net > view」（https://cp-canda.net/index.php?url=companies/view/9769・3回目）
+  - 「IR情報 | 株式会社 学究社 — IR情報 | 株式会社 学究社 株式会社学究社 https://www.gakkyusha.com > ...」（https://www.gakkyusha.com/ir/・3回目）
+  - 「【 学究社 】[9769]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 学究社 】[9769]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo」（https://www.nikkei.com/nkd/company/kigyo/?scode=9769・3回目）
+  - 「2026年3  期 決算説明 会 資料 株式会社 学究社 — 2026年3  期 決算説明 会 資料 株式会社 学究社 株式会社学究社 PDF https://www.gakkyusha.com > uploads > 2026/06」（https://www.gakkyusha.com/wp-content/uploads/2026/06/f3137ff90dc418088c16f0c8fce466a6.pdf・3回目）
+  - 「学究社 のIR 資料 - 9769 / プライム / サービス業 — 学究社 のIR 資料 - 9769 / プライム / サービス業 バフェット・コード https://www.buffett-code.com > company > library」（https://www.buffett-code.com/company/9769/library・3回目）
+  - 「学究社 【9769】の 事業 内容 - キタイシホン — 学究社 【9769】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/9769/business・3回目）
+  - 「株式会社 学究社 - SalesNow — 株式会社 学究社 - SalesNow SalesNow https://salesnow.jp > トップ > 都道府県 > 東京都」（https://salesnow.jp/db/companies/jcb8j2w1dk3crcxbg・3回目）
+  - 「(株) 学究社 （進学塾ena、ena美術、ena看護）【東証プライム ... — (株) 学究社 （進学塾ena、ena美術、ena看護）【東証プライム ... マイナビ https://job.mynavi.jp > search > corp88099 > outline」（https://job.mynavi.jp/28/pc/search/corp88099/outline.html・3回目）
+- 従業員数：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部4頁・検索5回）
+
 ## 守谷輸送機工業
 - 公式URL：https://moriya-elevator.co.jp/（search:yahoo_jp:守谷輸送機工業）
 - 設立：1950年3月（https://moriya-elevator.co.jp/company/profile/・1回目）
@@ -16200,6 +24189,168 @@
   - 「守谷輸送機工業 （6226）のアナリストレポート（IR、株、IPO） — 守谷輸送機工業 （6226）のアナリストレポート（IR、株、IPO） 証券リサーチセンター https://holistic-r.org > report」（https://holistic-r.org/report/6226/・3回目）
 - 事業内容：記載なし（3回確認済み：公式25頁／PDF・画像2件／外部3頁・検索5回）
 - 売上高：記載なし（3回確認済み：公式25頁／PDF・画像2件／外部3頁・検索5回）
+
+## 寿スピリッツ
+- 公式URL：https://www.kotobukispirits.co.jp/（search:yahoo_jp:寿スピリッツ）
+- 設立：平成8年4月9日（https://www.kotobukispirits.co.jp/ja/about/group.html・1回目）
+- 設立：平成23年12月15日（https://www.kotobukispirits.co.jp/ja/about/group.html・1回目）
+- 設立：平成26年9月29日（https://www.kotobukispirits.co.jp/ja/about/group.html・1回目）
+- 事業内容：菓子製造事業、卸売事業、小売事業（店舗及びカフェの運営）、通信販売事業（https://www.kotobukispirits.co.jp/ja/ir/news/auto_20260929541941/pdfFile.pdf・2回目）
+- 誰に：
+  - 「お客様にご試食いただきながら、ブランドを紹介し材料に対するこだわりや独自の製法についてお伝えする「超試食販売」を実践しています」（https://www.kotobukispirits.co.jp/ja/about/glance.html・1回目）
+  - 「今後もこの基本方針のもと「全国各地のお菓子のオリジナルブランドとショップブランドの総合プロデューサー」として、蓄積した豊富な技術、ノウハウをもって、より一層お客様に喜ばれる商品創りとサービスの提供に精進し、当社グループの成長・拡大を目指してまいります」（https://www.kotobukispirits.co.jp/ja/about/philosophy.html・1回目）
+  - 「利潤の追求のみが企業の目的ではなく、会社が未来永劫発展し続けるためには、常に「人様に喜んでいただく」ことを最優先に考え、お客様に喜んでいただける商品を創り、お客様に喜ばれるサービスを提供し続け、地域社会への貢献、共存・共栄こそが、会社の存在意義であり、当社グループに与えられた使命であります」（https://www.kotobukispirits.co.jp/ja/about/philosophy.html・1回目）
+  - 「1. 私達は、お客様に喜ばれることを自らの喜びとする」（https://www.kotobukispirits.co.jp/ja/about/philosophy.html・1回目）
+  - 「ライフスタイルの変化、価値観の多様化が進む中、商品・サービスに対するお客様の選別の目は厳しさを増してきております」（https://www.kotobukispirits.co.jp/ja/ir/info.html・1回目）
+  - 「こうした変化にすばやく対応し、お客様の要望に対応できる商品・サービスの企画力の有無が当社グループの将来を左右するものと考えております」（https://www.kotobukispirits.co.jp/ja/ir/info.html・1回目）
+  - 「期間中、税込7,000円以上ご購入のお客様に、」（https://www.kotobukispirits.co.jp/ja/ir/news/auto_20260910534258/pdfFile.pdf・2回目）
+- 何を：
+  - 「安心安全な製品の提供」（https://www.kotobukispirits.co.jp/ja/index.html・1回目）
+  - 「当サイトはサービス向上を目的としてCookieを利用しています」（https://www.kotobukispirits.co.jp/ja/index.html・1回目）
+  - 「当サイトはサービス向上を目的としてCookieを利用しています」（https://www.kotobukispirits.co.jp/ja/index/mv-slider.html・1回目）
+  - 「毎年3月31日現在の当社株主名簿に記載または記録された、1単元（100株）以上を保有されている株主様を対象に、3,000円相当の当社グループ製品を一律1セット贈呈しています」（https://www.kotobukispirits.co.jp/ja/ir/about/trans.html・1回目）
+  - 「当サイトはサービス向上を目的としてCookieを利用しています」（https://www.kotobukispirits.co.jp/ja/ir/about/trans.html・1回目）
+  - 「当サイトはサービス向上を目的としてCookieを利用しています」（https://www.kotobukispirits.co.jp/ja/ir/library/integrated_report.html・1回目）
+  - 「売出価格等の決定に関するお知らせ（金融商品取引法第15条第5項に基づく公表文）」（https://www.kotobukispirits.co.jp/ja/news.html・1回目）
+  - 「【お知らせ】弊社グループが製造・販売する商品には、健康被害が報道されている小林製薬の「紅麹」原料を一切使用しておりません」（https://www.kotobukispirits.co.jp/ja/news.html・1回目）
+  - 「当サイトはサービス向上を目的としてCookieを利用しています」（https://www.kotobukispirits.co.jp/ja/news.html・1回目）
+  - 「売出価格等の決定に関するお知らせ（金融商品取引法第15条第5項に基づく公表文）」（https://www.kotobukispirits.co.jp/ja/ir/news.html・1回目）
+  - 「当サイトはサービス向上を目的としてCookieを利用しています」（https://www.kotobukispirits.co.jp/ja/ir/news.html・1回目）
+  - 「企画部門が中心となり、ブランドの根幹となるコンセプトとストーリーを検討し、あわせて商品の試作も実施しています」（https://www.kotobukispirits.co.jp/ja/about/glance.html・1回目）
+- どうやって売るか：
+  - 「「東京ミルクチーズ工場」がリブランド後、初となるフラッグシップ店舗をオープン!」（https://www.kotobukispirits.co.jp/ja/news.html・1回目）
+  - 「小樽洋菓子舗ルタオの新たな大型店舗が「旧小樽倉庫南側」に2024年10月開業予定」（https://www.kotobukispirits.co.jp/ja/news.html・1回目）
+  - 「JR新宿駅改札内「EATo LUMINE」に当社グループより3店舗出店」（https://www.kotobukispirits.co.jp/ja/news.html・1回目）
+  - 「指名・報酬諮問委員会の設置に関するお知らせ」（https://www.kotobukispirits.co.jp/ja/news.html・1回目）
+  - 「「東京ミルクチーズ工場」がリブランド後、初となるフラッグシップ店舗をオープン!」（https://www.kotobukispirits.co.jp/ja/ir/news.html・1回目）
+  - 「小樽洋菓子舗ルタオの新たな大型店舗が「旧小樽倉庫南側」に2024年10月開業予定」（https://www.kotobukispirits.co.jp/ja/ir/news.html・1回目）
+  - 「JR新宿駅改札内「EATo LUMINE」に当社グループより3店舗出店」（https://www.kotobukispirits.co.jp/ja/ir/news.html・1回目）
+  - 「指名・報酬諮問委員会の設置に関するお知らせ」（https://www.kotobukispirits.co.jp/ja/ir/news.html・1回目）
+  - 「お客様にご試食いただきながら、ブランドを紹介し材料に対するこだわりや独自の製法についてお伝えする「超試食販売」を実践しています」（https://www.kotobukispirits.co.jp/ja/about/glance.html・1回目）
+  - 「その後西日本を中心に販売子会社を順次設立全国に販売網を広げる」（https://www.kotobukispirits.co.jp/ja/about/history.html・1回目）
+  - 「直近の業績や最新情報をご紹介しています」（https://www.kotobukispirits.co.jp/ja/ir.html・1回目）
+  - 「その他には健康食品事業、保険代理店業などがございます」（https://www.kotobukispirits.co.jp/ja/ir/qa.html・1回目）
+- 売上構成：
+  - 「●セグメント別売上状況（概算） （単位：百万円）」（https://www.kotobukispirits.co.jp/ja/ir/news/auto_20261007547334/pdfFile.pdf・2回目）
+  - 「セグメント計 22,545 20,361 2,184 10.7% 42,947 39,030 3,917 10.0%」（https://www.kotobukispirits.co.jp/ja/ir/news/auto_20261007547334/pdfFile.pdf・2回目）
+  - 「り設立したことに伴い、セグメント名称を「ケイシイシイグループ」に変更いたしまし」（https://www.kotobukispirits.co.jp/ja/ir/news/auto_20261007547334/pdfFile.pdf・2回目）
+  - 「（注２）調整額は、セグメント間の内部売上高であります」（https://www.kotobukispirits.co.jp/ja/ir/news/auto_20261007547334/pdfFile.pdf・2回目）
+- 利益の源泉：
+  - 「価値を創出する強み」（https://www.kotobukispirits.co.jp/ja/ir/library/integrated_report.html・1回目）
+  - 「グループの強み」（https://www.kotobukispirits.co.jp/ja/about/glance.html・1回目）
+  - 「5つの強みを生かし、高いブランド価値を発揮しています」（https://www.kotobukispirits.co.jp/ja/about/glance.html・1回目）
+- 沿革：
+  - 「2026年11月2日」（https://www.kotobukispirits.co.jp/ja/index.html・1回目）
+  - 「2026年10月8日」（https://www.kotobukispirits.co.jp/ja/index.html・1回目）
+  - 「2027年３月期第２四半期の売上状況（概算）について」（https://www.kotobukispirits.co.jp/ja/index.html・1回目）
+  - 「2026年10月2日」（https://www.kotobukispirits.co.jp/ja/index.html・1回目）
+  - 「2026年9月16日」（https://www.kotobukispirits.co.jp/ja/index.html・1回目）
+  - 「2026年8月25日」（https://www.kotobukispirits.co.jp/ja/index.html・1回目）
+  - 「2026年8月7日」（https://www.kotobukispirits.co.jp/ja/index.html・1回目）
+  - 「2026年3月期」（https://www.kotobukispirits.co.jp/ja/ir/library/integrated_report.html・1回目）
+  - 「2025年3月期」（https://www.kotobukispirits.co.jp/ja/ir/library/integrated_report.html・1回目）
+  - 「2024年3月期」（https://www.kotobukispirits.co.jp/ja/ir/library/integrated_report.html・1回目）
+  - 「2026年11月2日」（https://www.kotobukispirits.co.jp/ja/news.html・1回目）
+  - 「2026年10月8日」（https://www.kotobukispirits.co.jp/ja/news.html・1回目）
+- 検索結果の抜粋：
+  - 「価値創造 ストーリー - 寿スピリッツ — 価値創造 ストーリー - 寿スピリッツ 寿スピリッツ株式会社 PDF https://www.kotobukispirits.co.jp > linkList > link」（https://www.kotobukispirits.co.jp/ja/ir/library/integrated_report/main/00/teaserItems2/04/linkList/0/link/integrated_report_2024_04.pdf・3回目）
+  - 「営業利益率2割､｢ 寿スピリッツ ｣異例の高収益体質の秘密 — 営業利益率2割､｢ 寿スピリッツ ｣異例の高収益体質の秘密 四季報オンライン https://shikiho.toyokeizai.net > 新着記事 > 注目銘柄」（https://shikiho.toyokeizai.net/news/0/676191・3回目）
+  - 「早わかり 寿スピリッツ | 企業情報 — 早わかり 寿スピリッツ | 企業情報 寿スピリッツ株式会社 https://www.kotobukispirits.co.jp > about > glance」（https://www.kotobukispirits.co.jp/ja/about/glance.html・3回目）
+  - 「寿スピリッツ 、増収増益の極意は「褒める朝礼」 - 日経ビジネス — 寿スピリッツ 、増収増益の極意は「褒める朝礼」 - 日経ビジネス 日経ビジネス電子版 https://business.nikkei.com > ケーススタディー」（https://business.nikkei.com/atcl/NBD/19/00114/00033/・3回目）
+  - 「決算説明 会 資料 | IRライブラリ | IR・投資家情報 - 寿スピリッツ — 決算説明 会 資料 | IRライブラリ | IR・投資家情報 - 寿スピリッツ 寿スピリッツ株式会社 https://www.kotobukispirits.co.jp > library > closing」（https://www.kotobukispirits.co.jp/ja/ir/library/closing.html・3回目）
+  - 「IR・投資家情報 | 寿スピリッツ 株式会社 — IR・投資家情報 | 寿スピリッツ 株式会社 寿スピリッツ株式会社 https://www.kotobukispirits.co.jp > ...」（https://www.kotobukispirits.co.jp/ja/ir.html・3回目）
+  - 「決算 短信 | IR・投資家情報 | 寿スピリッツ 株式会社 — 決算 短信 | IR・投資家情報 | 寿スピリッツ 株式会社 寿スピリッツ株式会社 https://www.kotobukispirits.co.jp > library > state」（https://www.kotobukispirits.co.jp/ja/ir/library/state.html・3回目）
+  - 「寿スピリッツ [2222]：2026年3月期第1四半期 決算説明資料 ... — 寿スピリッツ [2222]：2026年3月期第1四半期 決算説明資料 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr」（https://www.nikkei.com/nkd/disclosure/tdnr/20250730524107/・3回目）
+  - 「IRライブラリ | IR・投資家情報 | 寿スピリッツ 株式会社 — IRライブラリ | IR・投資家情報 | 寿スピリッツ 株式会社 寿スピリッツ株式会社 https://www.kotobukispirits.co.jp > library」（https://www.kotobukispirits.co.jp/ja/ir/library.html・3回目）
+  - 「2026年3月期 決算説明会資料 - 寿スピリッツ — 2026年3月期 決算説明会資料 - 寿スピリッツ 寿スピリッツ株式会社 PDF https://www.kotobukispirits.co.jp > news > pdfFile」（https://www.kotobukispirits.co.jp/ja/ir/news/auto_20260515536069/pdfFile.pdf・3回目）
+  - 「会社概要 | 企業情報 - 寿スピリッツ — 会社概要 | 企業情報 - 寿スピリッツ 寿スピリッツ株式会社 https://www.kotobukispirits.co.jp > about > detail」（https://www.kotobukispirits.co.jp/ja/about/detail.html・3回目）
+  - 「コーポレートガバナンスの強化 | 寿スピリッツ 株式会社 — コーポレートガバナンスの強化 | 寿スピリッツ 株式会社 寿スピリッツ株式会社 https://www.kotobukispirits.co.jp > governance」（https://www.kotobukispirits.co.jp/ja/sustainability/governance.html・3回目）
+- 従業員数：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部2頁・検索5回）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部2頁・検索5回）
+- ビジネスモデル：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部2頁・検索5回）
+- お金の形：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部2頁・検索5回）
+
+## 山一電機
+- 公式URL：https://www.yamaichi.co.jp/（search:yahoo_jp:山一電機）
+- 設立：1956年11月1日（https://www.yamaichi.co.jp/aboutus/outline/・1回目）
+- 従業員数：山一電機株式会社　398名（2026年3月末） ＊ 山一電機グループ　2,060名（2026年3月末） ＊ ＊臨時雇用者数は含んでいません 平均臨時雇用者数（2026年3月末） 山一電機株式会社：60名 山一電機グループ：1,879名 組織図（https://www.yamaichi.co.jp/aboutus/outline/・1回目）
+- 事業内容：テストソリューション事業 検査用バーンインソケット 検査用テストソケット プローブカード テストサービス コネクタソリューション事業 コネクタ 実装用ICソケット フレキシブル配線板（YFLEX®） 光関連事業 光薄膜フィルタ 半導体レーザ光源 光フイルタモジュール製品 会社案内 プロダクトガイド（https://www.yamaichi.co.jp/aboutus/outline/・1回目）
+- 誰に：
+  - 「お客様の価値創出に貢献します」（https://www.yamaichi.co.jp/・1回目）
+  - 「日々進化するエレクトロニクスの世界で、お客様の変わらぬベストパートナーであるために」（https://www.yamaichi.co.jp/・1回目）
+  - 「半導体の検査市場において欠くことのできない接触機構技術や微細精密加工技術を通じて、お客様の半導体検査工程に優れたソリューションをグローバルに提供します」（https://www.yamaichi.co.jp/・1回目）
+  - 「当社は様々な種類のコネクタおよびFPC（YFLEX®）を生産し、世界中のお客様へ提供しています」（https://www.yamaichi.co.jp/・1回目）
+  - 「当ウェブサイトでは、お客様により良いサービスを提供するため、クッキーを利用しています」（https://www.yamaichi.co.jp/・1回目）
+  - 「当ウェブサイトでは、お客様により良いサービスを提供するため、クッキーを利用しています」（https://www.yamaichi.co.jp/aboutus/・1回目）
+  - 「⼭⼀電機グループは、「⼈の尊重」、「企業価値の最⼤化」、「企業品質の向上」、「技術⽴社への挑戦」および「社会的役割の達成」という経営理念のもと、⼈‧企業‧社会‧地球とのより良い結びつきを柔軟な技術⼒と発想⼒をもって意欲的に創造する「もっとしなやかに ベターコネクション」をコーポレートスローガンに、お客様の価値創出に貢献します」（https://www.yamaichi.co.jp/aboutus/philosophy/・1回目）
+  - 「信頼の最大の基盤である優れた製品品質と企業品質を提供することによって、顧客の満足を図ります」（https://www.yamaichi.co.jp/aboutus/philosophy/・1回目）
+  - 「私たちは、⼈・企業・社会・地球とのより良い結びつきを柔軟な技術⼒と発想⼒をもって意欲的に創造する「もっとしなやかに Better Connection 」をコーポレートスローガンに、お客様の価値創出に貢献します」（https://www.yamaichi.co.jp/aboutus/philosophy/・1回目）
+  - 「当ウェブサイトでは、お客様により良いサービスを提供するため、クッキーを利用しています」（https://www.yamaichi.co.jp/aboutus/philosophy/・1回目）
+  - 「当ウェブサイトでは、お客様により良いサービスを提供するため、クッキーを利用しています」（https://www.yamaichi.co.jp/aboutus/outline/・1回目）
+  - 「これまで、お客様のニーズの変化に応えながら、技術開発と製品開発を重ね、エレクトロニクス産業の発展に貢献してまいりました」（https://www.yamaichi.co.jp/aboutus/message/・1回目）
+- 何を：
+  - 「テストソリューション事業」（https://www.yamaichi.co.jp/・1回目）
+  - 「コネクタソリューション事業」（https://www.yamaichi.co.jp/・1回目）
+  - 「山一電機グループはいつでも最新のソリューションを提供し、未来を拓きます」（https://www.yamaichi.co.jp/・1回目）
+  - 「半導体の検査市場において欠くことのできない接触機構技術や微細精密加工技術を通じて、お客様の半導体検査工程に優れたソリューションをグローバルに提供します」（https://www.yamaichi.co.jp/・1回目）
+  - 「これまで培った独自の技術を駆使し、機器の性能を左右するコネクタ製品およびYFLEX®製品で最先端エレクトロニクスの技術革新をサポートします」（https://www.yamaichi.co.jp/・1回目）
+  - 「光伸光学⼯業株式会社の薄膜設計技術や薄膜生産技術で光通信機器、バイオ関連分析機器および民生用光学機器等の光応用機器に活用される光学多層薄膜フィルタ製品やデバイス製品を提供します」（https://www.yamaichi.co.jp/・1回目）
+  - 「社会を支える山一電機の製品 ～AI/MLの飛躍を支える高速通信～」（https://www.yamaichi.co.jp/・1回目）
+  - 「社会を支える山一電機の製品 ～衛星インターネットで活躍するコネクタ～」（https://www.yamaichi.co.jp/・1回目）
+  - 「社会を支える山一グループの製品 ～医療・産業・映像機器の進化を支える高精度フィルタ～」（https://www.yamaichi.co.jp/・1回目）
+  - 「光関連事業における製品が、日常生活においてどのように活用されているかをご紹介します」（https://www.yamaichi.co.jp/・1回目）
+  - 「社会を支える山一電機の製品 ～コネクタやFPCはどこで使われている？～」（https://www.yamaichi.co.jp/・1回目）
+  - 「当社のコネクタソリューション事業における製品が、実生活のどこで、どのように使われているのかを解説します」（https://www.yamaichi.co.jp/・1回目）
+- どうやって売るか：
+  - 「コア技術の紹介」（https://www.yamaichi.co.jp/・1回目）
+  - 「特約店 / 代理店」（https://www.yamaichi.co.jp/・1回目）
+  - 「日々進化するエレクトロニクスの世界で、お客様の変わらぬベストパートナーであるために」（https://www.yamaichi.co.jp/・1回目）
+  - 「今回は、当社のコネクタがハイパースケールデータセンターで果たす役割についてご紹介します」（https://www.yamaichi.co.jp/・1回目）
+  - 「今回のコラムでは、衛星インターネットで活躍する当社のコネクタについてご紹介します」（https://www.yamaichi.co.jp/・1回目）
+  - 「今回のコラムでは、第2棟の内部や環境負荷軽減に向けた取り組みについてご紹介します」（https://www.yamaichi.co.jp/・1回目）
+  - 「光関連事業における製品が、日常生活においてどのように活用されているかをご紹介します」（https://www.yamaichi.co.jp/・1回目）
+  - 「今回のコラムでは、検査用ICソケットに使われている半導体パッケージと検査用基板を電気的につなぐ接触子が、どのような材料で作られているかをご紹介します」（https://www.yamaichi.co.jp/・1回目）
+  - 「山一電機の拠点をご紹介します」（https://www.yamaichi.co.jp/・1回目）
+  - 「コア技術の紹介一覧」（https://www.yamaichi.co.jp/・1回目）
+  - 「コア技術の紹介」（https://www.yamaichi.co.jp/aboutus/・1回目）
+  - 「特約店 / 代理店」（https://www.yamaichi.co.jp/aboutus/・1回目）
+- お金の形：
+  - 「ライセンス生産契約と販売権を獲得」（https://www.yamaichi.co.jp/aboutus/history/・1回目）
+- 売上構成：
+  - 「事業別売上構成比率（連結）」（https://www.yamaichi.co.jp/img/aboutus/company_information/company_information.pdf?ver=202606・2回目）
+  - 「事故防止や運転の負担軽減に貢献する「ADASセンシング」、さらに、EV車両に対応する「EV用パワートレイン」をキーセグメントに、製品開発を行っています」（https://www.yamaichi.co.jp/img/aboutus/company_information/company_information.pdf?ver=202606・2回目）
+  - 「報告セグメント」（https://www.yamaichi.co.jp/ir/meeting/pdf/20260603_1.pdf・2回目）
+- 利益の源泉：
+  - 「売上高営業利益率（％）」（https://www.yamaichi.co.jp/img/aboutus/company_information/company_information.pdf?ver=202606・2回目）
+  - 「(注1)サプライチェーンとは、原料調達、製造、在庫管理、物流、販売など消費者の手元へ届くまでの流れを鎖に見立てたこと」（https://sakulike.city.sakura.lg.jp/live/3024/・3回目）
+- 沿革：
+  - 「2027年3月期第１四半期決算説明会」（https://www.yamaichi.co.jp/・1回目）
+  - 「2027年３月期中間期及び通期連結業績予想並びに配当予想の修正に関するお知らせ」（https://www.yamaichi.co.jp/・1回目）
+  - 「2027年３月期 第１四半期決算短信〔日本基準〕（連結）」（https://www.yamaichi.co.jp/・1回目）
+  - 「1956年11月1日」（https://www.yamaichi.co.jp/aboutus/outline/・1回目）
+  - 「2025年度」（https://www.yamaichi.co.jp/aboutus/company_information/・1回目）
+  - 「沿革 | 会社情報 | 山一電機株式会社 | 半導体検査用ICソケット、コネクタ・フレキシブル配線基板YFLEX®」（https://www.yamaichi.co.jp/aboutus/history/・1回目）
+  - 「1950年代〜80年代」（https://www.yamaichi.co.jp/aboutus/history/・1回目）
+  - 「1990年代」（https://www.yamaichi.co.jp/aboutus/history/・1回目）
+  - 「2000年代」（https://www.yamaichi.co.jp/aboutus/history/・1回目）
+  - 「2010年代」（https://www.yamaichi.co.jp/aboutus/history/・1回目）
+  - 「2020年代」（https://www.yamaichi.co.jp/aboutus/history/・1回目）
+  - 「2027年3月期第１四半期決算説明会」（https://www.yamaichi.co.jp/ir/・1回目）
+- 検索結果の抜粋：
+  - 「山一電機 株式会社 | 半導体検査用ICソケット、コネクタ ... — 山一電機 株式会社 | 半導体検査用ICソケット、コネクタ ... 山一電機株式会社 https://www.yamaichi.co.jp」（https://www.yamaichi.co.jp/・3回目）
+  - 「山一電機 グループ「第5次中期経営計画」について - 山一電機 — 山一電機 グループ「第5次中期経営計画」について - 山一電機 山一電機株式会社 https://www.yamaichi.co.jp > news」（https://www.yamaichi.co.jp/news/20262028/・3回目）
+  - 「【バフェットの視点】 山一電機 は『買い』か？ — 増益・増配 ... — 【バフェットの視点】 山一電機 は『買い』か？ — 増益・増配 ... note https://note.com > 投資・マネー > 日本株」（https://note.com/open_azalea2045/n/nf8f3a83ff88b・3回目）
+  - 「中期経営計画 | IRライブラリ | 投資家情報 | 山一電機 株式会社 — 中期経営計画 | IRライブラリ | 投資家情報 | 山一電機 株式会社 山一電機株式会社 https://www.yamaichi.co.jp > library > mediumplan」（https://www.yamaichi.co.jp/ir/library/mediumplan/・3回目）
+  - 「経営理念・ブランドステートメント | 会社情報 - 山一電機 — 経営理念・ブランドステートメント | 会社情報 - 山一電機 山一電機株式会社 https://www.yamaichi.co.jp > aboutus > philosophy」（https://www.yamaichi.co.jp/aboutus/philosophy/・3回目）
+  - 「決算説明資料 | IRライブラリ | 投資家情報 | 山一電機 株式会社 — 決算説明資料 | IRライブラリ | 投資家情報 | 山一電機 株式会社 山一電機株式会社 https://www.yamaichi.co.jp > library > setumei」（https://www.yamaichi.co.jp/ir/library/setumei/・3回目）
+  - 「決算 開示・適時開示 | 投資家情報 | 山一電機 株式会社 — 決算 開示・適時開示 | 投資家情報 | 山一電機 株式会社 山一電機株式会社 https://www.yamaichi.co.jp > result」（https://www.yamaichi.co.jp/ir/result/・3回目）
+  - 「投資家情報 | 山一電機 株式会社 | 半導体検査用ICソケット — 投資家情報 | 山一電機 株式会社 | 半導体検査用ICソケット 山一電機株式会社 https://www.yamaichi.co.jp > ...」（https://www.yamaichi.co.jp/ir/・3回目）
+  - 「株主の皆様へ | IRライブラリ | 投資家情報 | 山一電機 株式会社 — 株主の皆様へ | IRライブラリ | 投資家情報 | 山一電機 株式会社 山一電機株式会社 https://www.yamaichi.co.jp > library > jigyo」（https://www.yamaichi.co.jp/ir/library/jigyo/・3回目）
+  - 「2026年3月期 第3四半期 決算説明 | 山一電機 株式会社 - 山一電機 — 2026年3月期 第3四半期 決算説明 | 山一電機 株式会社 - 山一電機 山一電機株式会社 https://www.yamaichi.co.jp > news」（https://www.yamaichi.co.jp/news/20263qsetsumei/・3回目）
+  - 「会社概要 | 会社情報 | 山一電機 株式会社 | 半導体検査用IC ... — 会社概要 | 会社情報 | 山一電機 株式会社 | 半導体検査用IC ... 山一電機株式会社 https://www.yamaichi.co.jp > aboutus > outline」（https://www.yamaichi.co.jp/aboutus/outline/・3回目）
+  - 「組織図 会社情報 山一電機 — 組織図 会社情報 山一電機 ssdh3.com http://www.ssdh3.com > default-16」（http://www.ssdh3.com/default-16.html・3回目）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部2頁・検索5回）
+- ビジネスモデル：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部2頁・検索5回）
 
 ## 岩井コスモホールディングス
 - 公式URL：https://www.iwaicosmo-hd.jp/（search:yahoo_jp:岩井コスモホールディングス）
@@ -16386,6 +24537,102 @@
   - 「再開発 事業 - 平和不動産 — 再開発 事業 - 平和不動産 平和不動産株式会社 https://www.heiwa-net.co.jp > business > redevelopment」（https://www.heiwa-net.co.jp/business/redevelopment/・3回目）
 - 売上高：記載なし（3回確認済み：公式25頁／PDF・画像16件／外部1頁・検索5回）
 - お金の形：記載なし（3回確認済み：公式25頁／PDF・画像16件／外部1頁・検索5回）
+
+## 恵和
+- 公式URL：https://www.keiwa.co.jp/（search:yahoo_jp:恵和）
+- 設立：1948（昭和23）年9月28日（https://www.keiwa.co.jp/company/?anc=h2Outline&PHPSESSID=puqefcmt67n2cegk9a6ohokf5p・1回目）
+- 設立：1948（昭和23）年9月28日（https://www.keiwa.co.jp/company/?anc=h2History&PHPSESSID=puqefcmt67n2cegk9a6ohokf5p・1回目）
+- 事業内容：■光学製品事業 ノートPCやタブレット端末、スマートフォン等の液晶ディスプレイに使用される光拡散シートをはじめとする、各種光学フィルムの製造・販売 ■機能製品事業 特定の機能を有する、工程紙・建築資材・包装資材・農業資材・クリーンエネルギー資材及び医療・衛生用特殊フィルム等の各種産業資材の製造・販売（https://www.keiwa.co.jp/company/?anc=h2Outline&PHPSESSID=puqefcmt67n2cegk9a6ohokf5p・1回目）
+- 事業内容：■光学製品事業 ノートPCやタブレット端末、スマートフォン等の液晶ディスプレイに使用される光拡散シートをはじめとする、各種光学フィルムの製造・販売 ■機能製品事業 特定の機能を有する、工程紙・建築資材・包装資材・農業資材・クリーンエネルギー資材及び医療・衛生用特殊フィルム等の各種産業資材の製造・販売（https://www.keiwa.co.jp/company/?anc=h2History&PHPSESSID=puqefcmt67n2cegk9a6ohokf5p・1回目）
+- ビジネスモデル：
+  - 「の提案により、お客様のコア業務への経営資源集中をサポートし経営力強化や新たなビジネスモデルを構築して頂くために」（https://www.keiwa-biz.co.jp/action-on-dx/・3回目）
+- 誰に：
+  - 「精緻なお客様対応」（https://www.keiwa.co.jp/・1回目）
+  - 「お客様のよりよい製品の開発を実現」（https://www.keiwa.co.jp/・1回目）
+  - 「お客様の安定した製品生産のために、高水準のクリーン管理と生産現場の徹底した改善活動を行っております」（https://www.keiwa.co.jp/・1回目）
+  - 「お客様のご要望をお客様の目線で理解し、」（https://www.keiwa.co.jp/・1回目）
+  - 「恵和ではお客様ごとのニーズやご要望に」（https://www.keiwa.co.jp/・1回目）
+  - 「精緻なお客様対応」（https://www.keiwa.co.jp/company/?anc=h2Outline&PHPSESSID=puqefcmt67n2cegk9a6ohokf5p・1回目）
+  - 「早いスピードで変化する顧客の要望に対し的確に、あるいは先取りして対応すべく、マーケティングを、技術を、システムを積極的に革新させて参りました」（https://www.keiwa.co.jp/company/?anc=h2Outline&PHPSESSID=puqefcmt67n2cegk9a6ohokf5p・1回目）
+  - 「令和の時代、顧客志向のマーケティングに始まり、中核技術であるSheeting(製膜)・Laminating(積層)・Coating(塗布) を更に磨き上げると共に、そこへUltra Precision(高精度）を付加し、先端機能フィルムとソリューションのメーカーを目指して参ります」（https://www.keiwa.co.jp/company/?anc=h2Outline&PHPSESSID=puqefcmt67n2cegk9a6ohokf5p・1回目）
+  - 「顧客からの信頼」（https://www.keiwa.co.jp/company/?anc=h2Outline&PHPSESSID=puqefcmt67n2cegk9a6ohokf5p・1回目）
+  - 「現在と将来の顧客への信頼を」（https://www.keiwa.co.jp/company/?anc=h2Outline&PHPSESSID=puqefcmt67n2cegk9a6ohokf5p・1回目）
+  - 「顧客に選ばれるために」（https://www.keiwa.co.jp/company/?anc=h2Outline&PHPSESSID=puqefcmt67n2cegk9a6ohokf5p・1回目）
+  - 「恵和ではお客様ごとのニーズやご要望に」（https://www.keiwa.co.jp/company/?anc=h2Outline&PHPSESSID=puqefcmt67n2cegk9a6ohokf5p・1回目）
+- 何を：
+  - 「様々な用途に用いられる製品を製造しております」（https://www.keiwa.co.jp/・1回目）
+  - 「製品一覧を見る」（https://www.keiwa.co.jp/・1回目）
+  - 「お客様のよりよい製品の開発を実現」（https://www.keiwa.co.jp/・1回目）
+  - 「お客様の安定した製品生産のために、高水準のクリーン管理と生産現場の徹底した改善活動を行っております」（https://www.keiwa.co.jp/・1回目）
+  - 「化学業界、鉄鋼業界の国際的な成長により生じた防湿包装材、工程材料、天然ガス、石油の輸送パイプ保護シート等様々な機能製品を供給することにより、大きく飛躍を遂げています」（https://www.keiwa.co.jp/company/?anc=h2Outline&PHPSESSID=puqefcmt67n2cegk9a6ohokf5p・1回目）
+  - 「この時点で、Sheeting(製膜)・Laminating(積層)・Coating(塗布) という３つの特徴ある技術体系を保有する、世界で数少ない機能製品のメーカーとなり、その地盤を固めました」（https://www.keiwa.co.jp/company/?anc=h2Outline&PHPSESSID=puqefcmt67n2cegk9a6ohokf5p・1回目）
+  - 「当社はこの光学領域のニーズに対し、イノベイティブなソリューションである拡散フィルム「オパルス®」を発明」（https://www.keiwa.co.jp/company/?anc=h2Outline&PHPSESSID=puqefcmt67n2cegk9a6ohokf5p・1回目）
+  - 「令和の時代、顧客志向のマーケティングに始まり、中核技術であるSheeting(製膜)・Laminating(積層)・Coating(塗布) を更に磨き上げると共に、そこへUltra Precision(高精度）を付加し、先端機能フィルムとソリューションのメーカーを目指して参ります」（https://www.keiwa.co.jp/company/?anc=h2Outline&PHPSESSID=puqefcmt67n2cegk9a6ohokf5p・1回目）
+  - 「■光学製品事業」（https://www.keiwa.co.jp/company/?anc=h2Outline&PHPSESSID=puqefcmt67n2cegk9a6ohokf5p・1回目）
+  - 「■機能製品事業」（https://www.keiwa.co.jp/company/?anc=h2Outline&PHPSESSID=puqefcmt67n2cegk9a6ohokf5p・1回目）
+  - 「化学業界、鉄鋼業界の国際的な成長により生じた防湿包装材、工程材料、天然ガス、石油の輸送パイプ保護シート等様々な機能製品を供給することにより、大きく飛躍を遂げています」（https://www.keiwa.co.jp/company/?anc=h2History&PHPSESSID=puqefcmt67n2cegk9a6ohokf5p・1回目）
+  - 「この時点で、Sheeting(製膜)・Laminating(積層)・Coating(塗布) という３つの特徴ある技術体系を保有する、世界で数少ない機能製品のメーカーとなり、その地盤を固めました」（https://www.keiwa.co.jp/company/?anc=h2History&PHPSESSID=puqefcmt67n2cegk9a6ohokf5p・1回目）
+- どうやって売るか：
+  - 「「価値創造パートナー」を目指します」（https://www.keiwa.co.jp/・1回目）
+  - 「パートナーシップ構築宣言」（https://www.keiwa-biz.co.jp/action-on-dx/・3回目）
+  - 「グローバルでの本格的な需要の高まりに備え、現在は 「メディテクト」 を国内医療業界へ紹介する」（https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/keiwa20251028.pdf・3回目）
+  - 「在パートナー企業として顧客と連携し開発・生産を進めるなど、採用車種の拡大は続いている」（https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/keiwa20251028.pdf・3回目）
+  - 「TIS株式会社 ビジネスパートナー推進部副部長 (現任)」（https://kitaishihon.com/company/4251/board-of-director・3回目）
+- 売上構成：
+  - 「ニッチなこのセグメントで随一の実績を保有しています」（https://www.keiwa.co.jp/company/?anc=h2Outline&PHPSESSID=puqefcmt67n2cegk9a6ohokf5p・1回目）
+  - 「ニッチなこのセグメントで随一の実績を保有しています」（https://www.keiwa.co.jp/company/?anc=h2History&PHPSESSID=puqefcmt67n2cegk9a6ohokf5p・1回目）
+  - 「2.-セグメント別の業績.................................................................................................................................. - 09」（https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/keiwa20251028.pdf・3回目）
+  - 「2.-セグメント別の業績見通し-..................................................................................................................... - 11」（https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/keiwa20251028.pdf・3回目）
+  - 「各セグメント」（https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/keiwa20251028.pdf・3回目）
+  - 「2. セグメント別の業績」（https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/keiwa20251028.pdf・3回目）
+  - 「売上高は8,074百万円 （前年同期比6.3%増） 、セグメント利益は3,634百万円 （同0.4%減） となった」（https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/keiwa20251028.pdf・3回目）
+  - 「たものの円高影響を受け、セグメント利益率は前年同期比3.0ポイント低下の45.0%となった」（https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/keiwa20251028.pdf・3回目）
+  - 「売上高は1,839百万円 （前年同期比4.2%減） 、セグメント利益は111百万円 （同22.4%減） と大きく減少した」（https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/keiwa20251028.pdf・3回目）
+  - 「2. セグメント別の業績見通し」（https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/keiwa20251028.pdf・3回目）
+  - 「売上高は16,971百万円 （前期比1.0%減） 、セグメント利益は6,960百万円 （同16.6%減増） を予想する」（https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/keiwa20251028.pdf・3回目）
+  - 「なお、 スマートフォンについては、 同社ターゲットの上位機種セグメントでは、」（https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/keiwa20251028.pdf・3回目）
+- 利益の源泉：
+  - 「Web在庫照会」（https://www.keiwa-biz.co.jp/action-on-dx/・3回目）
+  - 「■強み------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ 06」（https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/keiwa20251028.pdf・3回目）
+  - 「利益面は、利益率の高い光学製品事業の売上増加や自動化等による生産性効率向上により営業利益率は前年同期」（https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/keiwa20251028.pdf・3回目）
+  - 「営業利益率は前期比5.7ポイント低下するが、中間期時点の営業利益の計画進捗率」（https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/keiwa20251028.pdf・3回目）
+  - 「共通費用差引前の営業利益については、営業利益率の高い光学製品事業が11.9%、機能製品事業では41.3%と利」（https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/keiwa20251028.pdf・3回目）
+  - 「同社の強みは、主要製品となる光拡散フィルム 「オパルス」 はもとより、ニッチ分野で高付加価値製品を生み出」（https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/keiwa20251028.pdf・3回目）
+  - 「営業利益率は2025年12月期比5.7ポイント減の16.7%と低下するが、中間期」（https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/keiwa20251028.pdf・3回目）
+  - 「2023年8月に中期経営計画“DARWIN” （2023年12月期～2026年12月期） を策定し、競争優位なセグメントに集」（https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/keiwa20251028.pdf・3回目）
+  - 「製品事業が6.9%と光学製品事業の成長を大きく見通し、共通費用差引前の営業利益については、営業利益率」（https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/keiwa20251028.pdf・3回目）
+  - 「時に顧客では余剰在庫の縮小が期待される」（https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/keiwa20251028.pdf・3回目）
+  - 「市場の在庫調整による収益悪化、2024年のPC市場回復からの収益回復と、外部環境の影響を受けた収益の浮き」（https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/keiwa20251028.pdf・3回目）
+  - 「は、D/Eレシオの0.3水準の維持によりフレキシブルに資金需要に対応し、同社の強みである技術力とマネジメ」（https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/keiwa20251028.pdf・3回目）
+- 沿革：
+  - 「1948年（昭和23年）」（https://www.keiwa.co.jp/company/?anc=h2Outline&PHPSESSID=puqefcmt67n2cegk9a6ohokf5p・1回目）
+  - 「1966年（昭和41年）」（https://www.keiwa.co.jp/company/?anc=h2Outline&PHPSESSID=puqefcmt67n2cegk9a6ohokf5p・1回目）
+  - 「1967年（昭和42年）」（https://www.keiwa.co.jp/company/?anc=h2Outline&PHPSESSID=puqefcmt67n2cegk9a6ohokf5p・1回目）
+  - 「1968年（昭和43年）」（https://www.keiwa.co.jp/company/?anc=h2Outline&PHPSESSID=puqefcmt67n2cegk9a6ohokf5p・1回目）
+  - 「1970年（昭和45年）」（https://www.keiwa.co.jp/company/?anc=h2Outline&PHPSESSID=puqefcmt67n2cegk9a6ohokf5p・1回目）
+  - 「1973年（昭和48年）」（https://www.keiwa.co.jp/company/?anc=h2Outline&PHPSESSID=puqefcmt67n2cegk9a6ohokf5p・1回目）
+  - 「1990年（平成2年）」（https://www.keiwa.co.jp/company/?anc=h2Outline&PHPSESSID=puqefcmt67n2cegk9a6ohokf5p・1回目）
+  - 「1992年（平成4年）」（https://www.keiwa.co.jp/company/?anc=h2Outline&PHPSESSID=puqefcmt67n2cegk9a6ohokf5p・1回目）
+  - 「1993年（平成5年）」（https://www.keiwa.co.jp/company/?anc=h2Outline&PHPSESSID=puqefcmt67n2cegk9a6ohokf5p・1回目）
+  - 「1999年（平成11年）」（https://www.keiwa.co.jp/company/?anc=h2Outline&PHPSESSID=puqefcmt67n2cegk9a6ohokf5p・1回目）
+  - 「2001年（平成13年）」（https://www.keiwa.co.jp/company/?anc=h2Outline&PHPSESSID=puqefcmt67n2cegk9a6ohokf5p・1回目）
+  - 「2003年（平成15年）」（https://www.keiwa.co.jp/company/?anc=h2Outline&PHPSESSID=puqefcmt67n2cegk9a6ohokf5p・1回目）
+- 検索結果の抜粋：
+  - 「DXへの取り組みについて - 株式会社恵和ビジネス — DXへの取り組みについて - 株式会社恵和ビジネス 株式会社恵和ビジネス https://www.keiwa-biz.co.jp > action-on-dx」（https://www.keiwa-biz.co.jp/action-on-dx/・3回目）
+  - 「恵和 - 株式会社フィスコ — 恵和 - 株式会社フィスコ 株式会社フィスコ PDF https://www.fisco.co.jp > FISCO > keiwa20251028」（https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/keiwa20251028.pdf・3回目）
+  - 「株式会社 恵和ビジネス の会社概要 - マイナビ転職 — 株式会社 恵和ビジネス の会社概要 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > company」（https://tenshoku.mynavi.jp/company/454040/・3回目）
+  - 「世界で選ばれる 恵和 新ブランドの挑戦 - トレンドウオッチ — 世界で選ばれる 恵和 新ブランドの挑戦 - トレンドウオッチ ps.nikkei.com https://ps.nikkei.com > ...」（https://ps.nikkei.com/pr/DGXZQOMU1912Y0Z11C26A0000000・3回目）
+  - 「恵和ビジネス とワンダースタッフィングの比較 「社員 ... — 恵和ビジネス とワンダースタッフィングの比較 「社員 ... OpenWork https://www.openwork.jp > 人材サービス > 恵和ビジネス」（https://www.openwork.jp/a0C1000000s2cwG/compa/a0C2x00000WEBuV/・3回目）
+  - 「IR 資料 ｜IRライブラリー｜IR情報｜ 恵和 株式会社 — IR 資料 ｜IRライブラリー｜IR情報｜ 恵和 株式会社 恵和株式会社 https://www.keiwa.co.jp > material」（https://www.keiwa.co.jp/ir/material.php・3回目）
+  - 「IR情報｜ 恵和 株式会社 — IR情報｜ 恵和 株式会社 恵和株式会社 https://www.keiwa.co.jp > ...」（https://www.keiwa.co.jp/ir/・3回目）
+  - 「恵和 株式会社 決算説明資料 - EDINET DB — 恵和 株式会社 決算説明資料 - EDINET DB EDINET DB https://edinetdb.jp > 恵和株式会社 > IR資料」（https://edinetdb.jp/company/E35220/presentations/・3回目）
+  - 「【 恵和 】[4251]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 恵和 】[4251]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo」（https://www.nikkei.com/nkd/company/kigyo/?scode=4251・3回目）
+  - 「恵和 （4251）のIR情報・ 決算資料 - IRBANK — 恵和 （4251）のIR情報・ 決算資料 - IRBANK IRBANK https://irbank.net > 恵和」（https://irbank.net/4251/ir・3回目）
+  - 「会社案内｜ 恵和 株式会社 — 会社案内｜ 恵和 株式会社 恵和株式会社 https://www.keiwa.co.jp > company」（https://www.keiwa.co.jp/company/・3回目）
+  - 「恵和 【4251】の 事業 内容 - キタイシホン — 恵和 【4251】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/4251/business・3回目）
+- 従業員数：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部4頁・検索5回）
+- 売上高：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部4頁・検索5回）
+- お金の形：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部4頁・検索5回）
 
 ## 情報企画
 - 公式URL：https://www.jyohokikaku.co.jp/（search:yahoo_jp:情報企画）
@@ -17145,6 +25392,183 @@
 - ビジネスモデル：記載なし（3回確認済み：公式17頁／PDF・画像11件／外部3頁・検索5回）
 - 利益の源泉：記載なし（3回確認済み：公式17頁／PDF・画像11件／外部3頁・検索5回）
 
+## 日本スキー場開発
+- 公式URL：https://www.nippon-ski.jp/（search:ddgs:yahoo:日本スキー場開発）
+- 設立：2005年12月22日（https://www.nippon-ski.jp/about.php・1回目）
+- 設立：1961 年（昭和 36 年）11 月 15 日（https://www.nippon-ski.jp/uploads/2026-10-20_ryoo_sora_glamping_winter.pdf・2回目）
+- 設立：1986 年（昭和 61 年）5 月 10 日（https://www.nippon-ski.jp/uploads/2026-09-25_kawaba_26-27_early-bird-ticket.pdf・2回目）
+- 事業内容：スキー場一般（索道事業・飲食業）・ 温泉施設運営（https://www.nippon-ski.jp/uploads/2026-10-20_ryoo_sora_glamping_winter.pdf・2回目）
+- 事業内容：スキー場一般（索道事業・飲食業）、索道施設8 基（https://www.nippon-ski.jp/uploads/2026-10-16_tsugaike_season_open.pdf・2回目）
+- 事業内容：スキー場（索道事業・飲食業）（https://www.nippon-ski.jp/uploads/2026-09-25_kawaba_26-27_early-bird-ticket.pdf・2回目）
+- 売上高：4,546 5,569 6,898 8,245 10,461（https://www.nippon-ski.jp/ir-highlight.php・1回目）
+- 誰に：
+  - 「ご契約企業のお客様」（https://www.nippon-ski.jp/・1回目）
+  - 「自然・お客様・地域社会の"HAPPY"を創出します」（https://www.nippon-ski.jp/・1回目）
+  - 「ご契約企業のお客様」（https://www.nippon-ski.jp/about.php・1回目）
+  - 「近年、当社グループのスノーリゾートには、海外からのお客様が増えておりますが、国内においても、デジタル戦略を推し進めることで、NSDキッズプログラムをはじめとした取り組みを実現し、たくさんのファミリーの皆さまに楽しんで頂けるようになって参りました」（https://www.nippon-ski.jp/about.php・1回目）
+  - 「具体的には様々なお客様のニーズを満たせるよう、ウェブを活用したフレキシブルプライシング（*1）の仕組みを導入し、さらに多くのお客様に、当社グループやパートナーリゾートを楽しんで頂きたいと考えております」（https://www.nippon-ski.jp/about.php・1回目）
+  - 「自然・顧客・地域社会の3つのハッピートライアングルの実現が日本スキー場開発の経営理念です」（https://www.nippon-ski.jp/about.php・1回目）
+  - 「自然と共存し、自然が主役となるリゾートづくりを徹底し、多くのお客様に感動して頂けるよう日々努力し、大切な地域とともに成長する未来を目指します」（https://www.nippon-ski.jp/about.php・1回目）
+  - 「・お客様に対する責任」（https://www.nippon-ski.jp/about.php・1回目）
+  - 「お客様の喜びこそ私たちの喜びです」（https://www.nippon-ski.jp/about.php・1回目）
+  - 「私たちはお客様のために献身します」（https://www.nippon-ski.jp/about.php・1回目）
+  - 「ご契約企業のお客様」（https://www.nippon-ski.jp/ir-top.php・1回目）
+  - 「ご契約企業のお客様」（https://www.nippon-ski.jp/ir-library.php・1回目）
+- 何を：
+  - 「私たちのサービス」（https://www.nippon-ski.jp/・1回目）
+  - 「竜王スキーパーク 「ReFa」製品を完備した、女性専用「パウダールーム」がオープン！」（https://www.nippon-ski.jp/・1回目）
+  - 「運営・サービス」（https://www.nippon-ski.jp/・1回目）
+  - 「私たちのサービス」（https://www.nippon-ski.jp/about.php・1回目）
+  - 「・温かさ、親しみやすさ、正義感とプライドを持って最高のサービスを提供します」（https://www.nippon-ski.jp/about.php・1回目）
+  - 「私たちのサービス」（https://www.nippon-ski.jp/ir-top.php・1回目）
+  - 「私たちのサービス」（https://www.nippon-ski.jp/ir-library.php・1回目）
+  - 「私たちのサービス」（https://www.nippon-ski.jp/ir-highlight.php・1回目）
+  - 「私たちのサービス」（https://www.nippon-ski.jp/ir-stock-info.php・1回目）
+  - 「私たちのサービス」（https://www.nippon-ski.jp/ir-benefit.php・1回目）
+  - 「※他の割引サービスとの併用はできません」（https://www.nippon-ski.jp/ir-benefit.php・1回目）
+  - 「駐車場の無料・割引サービスはございません」（https://www.nippon-ski.jp/ir-benefit.php・1回目）
+- どうやって売るか：
+  - 「NSD 「丸沼高原スキー場」と日本スキー場開発株式会社がアライアンス・パートナーリゾート契約を締結」（https://www.nippon-ski.jp/・1回目）
+  - 「みやぎ蔵王えぼしリゾート（パートナーリゾート）」（https://www.nippon-ski.jp/・1回目）
+  - 「オグナほたかスキー場（パートナーリゾート）」（https://www.nippon-ski.jp/・1回目）
+  - 「丸沼高原スキー場（パートナーリゾート）」（https://www.nippon-ski.jp/・1回目）
+  - 「ほたか牧場（パートナーリゾート）」（https://www.nippon-ski.jp/・1回目）
+  - 「丸沼高原（パートナーリゾート）」（https://www.nippon-ski.jp/・1回目）
+  - 「具体的には様々なお客様のニーズを満たせるよう、ウェブを活用したフレキシブルプライシング（*1）の仕組みを導入し、さらに多くのお客様に、当社グループやパートナーリゾートを楽しんで頂きたいと考えております」（https://www.nippon-ski.jp/about.php・1回目）
+  - 「役員紹介 →」（https://www.nippon-ski.jp/about.php・1回目）
+  - 「みやぎ蔵王えぼしリゾート（パートナーリゾート）」（https://www.nippon-ski.jp/about.php・1回目）
+  - 「オグナほたかスキー場（パートナーリゾート）」（https://www.nippon-ski.jp/about.php・1回目）
+  - 「丸沼高原スキー場（パートナーリゾート）」（https://www.nippon-ski.jp/about.php・1回目）
+  - 「ほたか牧場（パートナーリゾート）」（https://www.nippon-ski.jp/about.php・1回目）
+- お金の形：
+  - 「※キャンセル方法、返金時期、返金手数料の有無等の詳細は公」（https://www.nippon-ski.jp/uploads/2026-10-16_tsugaike_season_open.pdf・2回目）
+  - 「※キャンセル方法、返金時期、返金手数料の有無等の詳細は公式」（https://www.nippon-ski.jp/uploads/2026-10-16_tsugaike_season_open.pdf・2回目）
+  - 「※キャンセル方法、返金時期、返金手数料の有無等の詳細は公」（https://www.nippon-ski.jp/uploads/2026-08-28_tsugaike_earlybird_seasonpass.pdf・2回目）
+  - 「※キャンセル方法、返金時期、返金手数料の有無等の詳細は公式」（https://www.nippon-ski.jp/uploads/2026-08-28_tsugaike_earlybird_seasonpass.pdf・2回目）
+  - 「タル利用料が 50％OFF となるクーポン（各 2 枚）をはじめ、山頂レストラン「スカイアーク」「Skyark Deck Café」でのラン」（https://www.nippon-ski.jp/uploads/2026-08-20_iwatake_2026_earlybird_seasonpass.pdf・2回目）
+  - 「その結果、単なる来場者数増加だけでなく、「客単価」が急上昇していく」（https://note.com/sato_shota/n/n95dc01777e7a・3回目）
+  - 「つまり日本スキー場開発は、「人数を大量に集めるモデル」から、「高単価リゾートモデル」への転換に成功したことになる」（https://note.com/sato_shota/n/n95dc01777e7a・3回目）
+  - 「クリエイティブ・コモンズ 表示-継承ライセンス」（https://ja.wikipedia.org/wiki/%E9%88%B4%E6%9C%A8%E5%91%A8%E5%B9%B3・3回目）
+- 利益の源泉：
+  - 「標高1,000メートルを超える場所に魅力的なゲレンデがある当社グループの強みを活かし、最先端のスノーマシーンの導入を、さらに進めるとともに、標高の高い山頂でのグリーンシーズン事業にも今まで以上に力をいれて参ります」（https://www.nippon-ski.jp/about.php・1回目）
+  - 「株主優待制度の連携をはじめ、双方の強みを活かした共同プロモーションで集客力を強化」（https://www.nippon-ski.jp/uploads/2026-08-28_nsd_alliance_marunuma.pdf・2回目）
+  - 「営業利益率も改善傾向となり、「地方スキー場は儲からない」というイメージを変え始めていた」（https://note.com/sato_shota/n/n95dc01777e7a・3回目）
+  - 「実際、2025年7月期には売上高104.6億円、営業利益22.4億円を記録し、営業利益率は21％を超えた」（https://note.com/sato_shota/n/n95dc01777e7a・3回目）
+  - 「特に、中国・東南アジア・オセアニアを中心としたスキー市場調査や、世界各地のスキー場経営・観光地理学・インバウンド分析を強みとしております」（https://note.com/sato_shota/n/n95dc01777e7a・3回目）
+  - 「こうして言語の壁を越えて、真心のこもったおもてなしができることが私たちの強みです」（https://www.regional.co.jp/change/202512_nippon-ski.html・3回目）
+- 沿革：
+  - 「2005年12月22日」（https://www.nippon-ski.jp/about.php・1回目）
+  - 「2015年4月22日」（https://www.nippon-ski.jp/ir-stock-info.php・1回目）
+  - 「2026年7月31日現在の」（https://www.nippon-ski.jp/ir-benefit.php・1回目）
+  - 「2026年1月31日現在の」（https://www.nippon-ski.jp/ir-benefit.php・1回目）
+  - 「2025年7月31日現在の」（https://www.nippon-ski.jp/ir-benefit.php・1回目）
+  - 「2026年7月31日現在」（https://www.nippon-ski.jp/ir-benefit.php・1回目）
+  - 「2026年1月31日現在」（https://www.nippon-ski.jp/ir-benefit.php・1回目）
+  - 「2025年7月31日現在」（https://www.nippon-ski.jp/ir-benefit.php・1回目）
+  - 「2005年12月22日です」（https://www.nippon-ski.jp/ir-faq.php・1回目）
+  - 「2015年4月22日です」（https://www.nippon-ski.jp/ir-faq.php・1回目）
+  - 「2026 年 10 月 20 日」（https://www.nippon-ski.jp/uploads/2026-10-20_ryoo_sora_glamping_winter.pdf・2回目）
+  - 「2026 年 12 月 19 日(土)~2027 年 4 月 4 日(日)」（https://www.nippon-ski.jp/uploads/2026-10-20_ryoo_sora_glamping_winter.pdf・2回目）
+- 検索結果の抜粋：
+  - 「日本スキー場開発はなぜ成長したのか①2015〜2026 有価証券報告書から... — May 29, 2026 · その中心にいる企業の一つが 日本スキー場開発株式会社である。 本記事では、2015年の上場時から2026年までの有価証券報告書・決算説明資料を基に、日本スキー場開発の成長ストーリーを数字と共に整理する。」（https://note.com/sato_shota/n/n95dc01777e7a・3回目）
+  - 「日本スキー場開発[6040]：事業計画及び成長可能性に関する事項 2026年... — 3 days ago · 2026年10月30日 日本スキー場開発 [6040]の開示資料「事業計画及び成長可能性に関する事項」 が閲覧できます。資料はPDFでダウンロードできます」（https://www.nikkei.com/nkd/disclosure/tdnr/20261030560696/・3回目）
+  - 「【日本スキー場開発】事業計画と成長戦略を公開｜2026年10月 | Japan ... — 3 days ago · 日本スキー場開発株式会社 グループは8リゾートを核にインバウンド強化とグリーンシーズン活用を推進。中期計画で売上161.5億円・営業利益40億円を目標化。索道リニューアル・グリーンシーズン拡大・DX推進・開発投資を通じた通年型リゾート化を進行。配当方針は中期安定、株主優待拡充を ...」（https://japanir.jp/company/company-6040/ir/6040-20261030-01_wp_business_update/・3回目）
+  - 「日本スキー場開発株式会社 — スキー場、地域社会に活力を 自然・お客様・地域社会の"HAPPY"を創出します 自然の素晴らしさ、ウィンタースポーツの楽しさを スキー場、地域社会に活力を ... お知らせ information 2026/10/20」（https://www.nippon-ski.jp/・3回目）
+  - 「日本スキー場開発株式会社のビジネスモデルと成長戦略を探る | チーム... — Apr 18, 2026 · 四季を通じた安定した集客に成功すれば、より一層の成長戦略が期待できるだけでなく、日本の観光産業を牽引する存在としての地位を固めていくと考えられます。 こうした動向や新しいサービス導入のニュースは、今後もますます注目されるでしょう。」（https://consovation.com/日本スキー場開発株式会社のビジネスモデルと成/・3回目）
+  - 「日本スキー場開発のIR資料 - 6040 / グロース / サービス業 — Sep 14, 2026 · 日本スキー場開発（6040 / グロース / サービス業）のIR資料の一覧を表示しています。 有価証券報告書や決算短信、そしてTDnetで開示された適時開示資料をPDFでご覧になれます。」（https://www.buffett-code.com/company/6040/library・3回目）
+  - 「日本スキー場開発株式会社 決算説明資料 — EDINET DB — EDINET DB > 企業一覧 > 日本スキー場開発株式会社 > IR資料 > 決算説明資料 日本スキー場開発株式会社 — 決算説明資料 四半期決算の説明資料。 経営者による業績解説と短期見通し。 AIによる構造化データ・参考情報。 重要な判断には 元PDFをご確認ください。」（https://edinetdb.jp/company/E31408/presentations/・3回目）
+  - 「日本スキー場開発株式会社 — IR資料 - EDINET DB — EDINET DB > 企業一覧 > 日本スキー場開発株式会社 > IR資料 日本スキー場開発株式会社 — IR資料 統合報告書・中期経営計画・決算説明資料などのIR資料を、AIがセクション単位で構造化したデータです。 本文の検索・テーマタグでの絞り込みが可能です。」（https://edinetdb.jp/company/E31408/ir-docs/・3回目）
+  - 「日本スキー場開発(株)【6040】：決算情報 - Yahoo!ファイナンス — Sep 11, 2026 · 日本スキー場開発 (株)【6040】の決算短信を生成AIで要約した内容をご覧いただけます。 Yahoo!ファイナンスでは株価速報、チャート、ランキング、ポートフォリオ、ニュース、掲示板など投資判断に役立つ情報を掲載しています。」（https://finance.yahoo.co.jp/quote/6040.T/financials・3回目）
+  - 「IR情報 : トップ - 日本スキー場開発 — IRニュース IR ライブラリー 最新の決算短信、有価証券報告書等のIR関係資料をご覧いただけます。 決算短信 有価証券報告書 IR資料 業績ハイライト 株式情報 招集通知 株価情報 株主様ご優待 コーポレートガバナンス 電子公告 よくあるご質問」（https://www.nippon-ski.jp/ir-top.php・3回目）
+  - 「鈴木周平 - Wikipedia — 2010年8月、株式会社鹿島槍監査役、同年10月、日本スキー場開発株式会社取締役、川場リゾート株式会社監査役。 2011年3月、川場リゾート株式会社代表取締役社長。 2012年8月、日本スキー場開発株式会社代表取締役社長 [1][2]。」（https://ja.wikipedia.org/wiki/鈴木周平・3回目）
+  - 「日本スキー場開発株式会社｜企業TOPインタビュー｜長野の企業を知る｜... — Dec 10, 2025 · 日本スキー場開発株式会社・代表取締役社長 鈴木 周平氏へのインタビュー。 監査法人、外資ファンドを経て地方再生へ転身。 多くのゴルフ場M&Aで学んだ企業再生の本質を、四季を通じて楽しめるリゾートづくりで実践中。」（https://www.regional.co.jp/change/202512_nippon-ski.html・3回目）
+- 従業員数：記載なし（3回確認済み：公式12頁／PDF・画像8件／外部6頁・検索5回）
+- ビジネスモデル：記載なし（3回確認済み：公式12頁／PDF・画像8件／外部6頁・検索5回）
+- 売上構成：記載なし（3回確認済み：公式12頁／PDF・画像8件／外部6頁・検索5回）
+
+## 日本セラミック
+- 公式URL：https://www.nicera.co.jp/（search:yahoo_jp:日本セラミック）
+- 設立：1975年(昭和50年)6月（https://www.nicera.co.jp/company/corporate-profile・1回目）
+- 従業員数：連結1,377(2,335)名/単体275(28)名(2025年12月末現在)（https://www.nicera.co.jp/company/corporate-profile・1回目）
+- 売上高：21,358 23,258 24,449 25,037 27,325（https://www.nicera.co.jp/ir/financial・1回目）
+- 誰に：
+  - 「真価はお客様の満足度と繁栄によって証されるものです」（https://www.nicera.co.jp/company/business-policy・1回目）
+  - 「「品質こそが第一」を信念に、顧客の信頼と満足を得る品質を」（https://www.nicera.co.jp/company/business-policy・1回目）
+  - 「照明関連、磁性製品の売上は、顧客の在庫調整や不採算アイテムの整理などにより減少しました」（https://www.nicera.co.jp/wordpress/wp-content/uploads/2018/07/ir-201706.pdf・1回目）
+  - 「また、当社グループでは、お客様のニー」（https://www.nicera.co.jp/wordpress/wp-content/uploads/2019/09/2016_2Q.pdf・1回目）
+  - 「顧客との契約から生じる収益 6,639 6,566」（https://www.nicera.co.jp/wordpress/wp-content/uploads/2026/05/2026_1Q_ja.pdf・2回目）
+  - 「外部顧客への売上高 6,639 6,566」（https://www.nicera.co.jp/wordpress/wp-content/uploads/2026/05/2026_1Q_ja.pdf・2回目）
+  - 「日本セラミックは、その豊富な経験と技術力を駆使し、顧客一人ひとりに適した多彩なセンサを開発している」（https://kigyoka.com/archives/20240909.html・3回目）
+  - 「顧客に応じて最適なセンサを開発」（https://kigyoka.com/archives/20240909.html・3回目）
+  - 「谷口 お客様の数だけあります」（https://kigyoka.com/archives/20240909.html・3回目）
+  - 「一人ひとりのお客様に個性を持たせる必要があるのです」（https://kigyoka.com/archives/20240909.html・3回目）
+  - 「お客様に対しても、一人のお客様に一つの商品とは限りません」（https://kigyoka.com/archives/20240909.html・3回目）
+  - 「お客様とお話しする時でも、私たちが適性を考えてはじき出したコストを提示させていただき、それで拒否されれば交渉決裂、承認していただければ商談成立です」（https://kigyoka.com/archives/20240909.html・3回目）
+- 何を：
+  - 「製品に関するお問合せ」（https://www.nicera.co.jp/inquiry・1回目）
+  - 「真価のある製品を社会に納め人類に貢献する」（https://www.nicera.co.jp/company/business-policy・1回目）
+  - 「日本セラミックは、変わりゆく時代のニーズに先駆けた真価のある知的製品を社会に納め、人類に貢献するべく邁進致します」（https://www.nicera.co.jp/company/business-policy・1回目）
+  - 「上場金融商品取引所」（https://www.nicera.co.jp/ir/irinformation・1回目）
+  - 「各種センサ製品や、モジュール製品などの電子部品並びにその他関連製品の研究開発及び製造販売」（https://www.nicera.co.jp/company/corporate-profile・1回目）
+  - 「カタログ製品」（https://www.nicera.co.jp/inquiry/infrared-sensor・1回目）
+  - 「製品・サポートに関するお問合せ」（https://www.nicera.co.jp/inquiry/infrared-sensor・1回目）
+  - 「お問合せ製品（品番・型番）」（https://www.nicera.co.jp/inquiry/infrared-sensor・1回目）
+  - 「カタログ製品」（https://www.nicera.co.jp/inquiry/ultrasonic-sensor・1回目）
+  - 「製品・サポートに関するお問合せ」（https://www.nicera.co.jp/inquiry/ultrasonic-sensor・1回目）
+  - 「お問合せ製品（品番・型番）」（https://www.nicera.co.jp/inquiry/ultrasonic-sensor・1回目）
+  - 「カタログ製品」（https://www.nicera.co.jp/inquiry/current-sensor・1回目）
+- どうやって売るか：
+  - 「以来、「共産圏にビジネスのパートナーを作る」と言って東奔西走し、１９８６年、ついに中国科学院とのパートナーシップも持って、上海に進出しました」（https://kigyoka.com/archives/20240909.html・3回目）
+- お金の形：
+  - 「ストックオプションの行使による収入 94 52」（https://www.nicera.co.jp/wordpress/wp-content/uploads/2018/07/ir-201706.pdf・1回目）
+  - 「その他、平成28年２月５日開催の取締役会決議に基づき、自己株式を138,000株取得し、ストックオプションの」（https://www.nicera.co.jp/wordpress/wp-content/uploads/2018/07/ir-201706.pdf・1回目）
+  - 「ストックオプションの行使による収入 11 94」（https://www.nicera.co.jp/wordpress/wp-content/uploads/2019/09/2016_2Q.pdf・1回目）
+  - 「その他、ストックオプションの権利行使に伴う減少等と併せて総額1,986百万円が減少した結果、当第２四半期」（https://www.nicera.co.jp/wordpress/wp-content/uploads/2019/09/2016_2Q.pdf・1回目）
+- 売上構成：
+  - 「（セグメント情報） …………………………………………………………………………………… 8」（https://www.nicera.co.jp/wordpress/wp-content/uploads/2018/07/ir-201706.pdf・1回目）
+  - 「（セグメント情報等）」（https://www.nicera.co.jp/wordpress/wp-content/uploads/2018/07/ir-201706.pdf・1回目）
+  - 「ため、セグメントの記載を省略しております」（https://www.nicera.co.jp/wordpress/wp-content/uploads/2018/07/ir-201706.pdf・1回目）
+  - 「（セグメント情報等） ………………………………………………………………………………… 9」（https://www.nicera.co.jp/wordpress/wp-content/uploads/2019/09/2016_2Q.pdf・1回目）
+  - 「（セグメント情報等）」（https://www.nicera.co.jp/wordpress/wp-content/uploads/2019/09/2016_2Q.pdf・1回目）
+  - 「ため、セグメントの記載を省略しております」（https://www.nicera.co.jp/wordpress/wp-content/uploads/2019/09/2016_2Q.pdf・1回目）
+  - 「（セグメント情報等の注記） ……………………………………………………………………………………… 8」（https://www.nicera.co.jp/wordpress/wp-content/uploads/2026/05/2026_1Q_ja.pdf・2回目）
+  - 「（セグメント情報等の注記）」（https://www.nicera.co.jp/wordpress/wp-content/uploads/2026/05/2026_1Q_ja.pdf・2回目）
+  - 「【セグメント情報】」（https://www.nicera.co.jp/wordpress/wp-content/uploads/2026/05/2026_1Q_ja.pdf・2回目）
+  - 「め、セグメントの記載を省略しております」（https://www.nicera.co.jp/wordpress/wp-content/uploads/2026/05/2026_1Q_ja.pdf・2回目）
+- 利益の源泉：
+  - 「このような経営環境の中、当社グループでは引き続き生産活動の改善と在庫の適正化による原価の圧縮に力を入」（https://www.nicera.co.jp/wordpress/wp-content/uploads/2018/07/ir-201706.pdf・1回目）
+  - 「照明関連、磁性製品の売上は、顧客の在庫調整や不採算アイテムの整理などにより減少しました」（https://www.nicera.co.jp/wordpress/wp-content/uploads/2018/07/ir-201706.pdf・1回目）
+  - 「在庫の適正化や株主還元、事業・案件の選択と集中を進め」（https://www.nicera.co.jp/wordpress/wp-content/uploads/2026/08/2026_2Q_kessansetumeishiryou.pdf・2回目）
+  - 「営業利益率 19.7% 21.7% 20.4% 22.8% 23.3% 23.1% 21.9% 24.3% 21.8%」（https://www.nicera.co.jp/wordpress/wp-content/uploads/2026/08/2026_2Q_kessansetumeishiryou.pdf・2回目）
+- 沿革：
+  - 「2026年12月期 株主通信（中間報告書）」（https://www.nicera.co.jp/・1回目）
+  - 「2027年新卒採用」（https://www.nicera.co.jp/・1回目）
+  - 「2027年新卒採用」（https://www.nicera.co.jp/inquiry・1回目）
+  - 「2026年12月期 株主通信（中間報告書）」（https://www.nicera.co.jp/ir・1回目）
+  - 「2026年12月期」（https://www.nicera.co.jp/ir・1回目）
+  - 「2026年12月期 株主通信（中間報告書） > PDF 1MB」（https://www.nicera.co.jp/ir・1回目）
+  - 「2025年12月期」（https://www.nicera.co.jp/ir・1回目）
+  - 「2025年12月期 株主通信（中間報告書） > PDF 1MB」（https://www.nicera.co.jp/ir・1回目）
+  - 「2024年12月期」（https://www.nicera.co.jp/ir・1回目）
+  - 「2024年12月期 株主通信（中間報告書） > PDF 1MB」（https://www.nicera.co.jp/ir・1回目）
+  - 「2023年12月期」（https://www.nicera.co.jp/ir・1回目）
+  - 「2023年12月期 株主通信（中間報告書） > PDF 1MB」（https://www.nicera.co.jp/ir・1回目）
+- 検索結果の抜粋：
+  - 「日本セラミック 株式会社 — 日本セラミック 株式会社 日本セラミック株式会社 https://www.nicera.co.jp」（https://www.nicera.co.jp/・3回目）
+  - 「日本セラミック (6929) の企業概要・業績・財務・IR資料 — 日本セラミック (6929) の企業概要・業績・財務・IR資料 crex-data.com https://www.crex-data.com > 企業」（https://www.crex-data.com/company/6929・3回目）
+  - 「日本セラミック (株)【東証プライム市場上場】 - マイナビ — 日本セラミック (株)【東証プライム市場上場】 - マイナビ マイナビ https://job.mynavi.jp > search > corp211649 > outline」（https://job.mynavi.jp/27/pc/search/corp211649/outline.html・3回目）
+  - 「日本セラミック の「企業分析［強み・弱み・展望］」 OpenWork — 日本セラミック の「企業分析［強み・弱み・展望］」 OpenWork OpenWork https://www.openwork.jp > ... > 日本セラミック」（https://www.openwork.jp/company_answer.php?m_id=a0910000000FrSl&q_no=9・3回目）
+  - 「【特集】 日本セラミック の強さの秘密 - 企業家倶楽部 — 【特集】 日本セラミック の強さの秘密 - 企業家倶楽部 企業家倶楽部 https://kigyoka.com > archives」（https://kigyoka.com/archives/20260527.html・3回目）
+  - 「IR 資料 室 | 日本セラミック 株式会社 — IR 資料 室 | 日本セラミック 株式会社 日本セラミック株式会社 https://www.nicera.co.jp > library」（https://www.nicera.co.jp/ir/library・3回目）
+  - 「株主・投資家情報 | 日本セラミック 株式会社 — 株主・投資家情報 | 日本セラミック 株式会社 日本セラミック株式会社 https://www.nicera.co.jp > ...」（https://www.nicera.co.jp/ir・3回目）
+  - 「日本セラミック 株式会社 IR 資料 - EDINET DB — 日本セラミック 株式会社 IR 資料 - EDINET DB EDINET DB https://edinetdb.jp > 日本セラミック株式会社」（https://edinetdb.jp/company/E01988/ir-docs/・3回目）
+  - 「日本セラミック [6929]：2026年12月期 第2四半期(中間期) 決算 ... — 日本セラミック [6929]：2026年12月期 第2四半期(中間期) 決算 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr」（https://www.nikkei.com/nkd/disclosure/tdnr/20260727500333/・3回目）
+  - 「日本セラミック 【6929】のIR 資料 - キタイシホン — 日本セラミック 【6929】のIR 資料 - キタイシホン キタイシホン https://kitaishihon.com > company > ir-library」（https://kitaishihon.com/company/6929/ir-library・3回目）
+  - 「会社概要 | 日本セラミック 株式会社 — 会社概要 | 日本セラミック 株式会社 日本セラミック株式会社 https://www.nicera.co.jp > company > corporate-profile」（https://www.nicera.co.jp/company/corporate-profile・3回目）
+  - 「日本セラミック (株)【東証プライム市場上場】の会社概要 — 日本セラミック (株)【東証プライム市場上場】の会社概要 マイナビ https://job.mynavi.jp > search > corp211649 > outline」（https://job.mynavi.jp/28/pc/search/corp211649/outline.html・3回目）
+- 事業内容：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部2頁・検索5回）
+- ビジネスモデル：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部2頁・検索5回）
+
 ## 日本ファルコム
 - 公式URL：https://www.falcom.co.jp/（search:yahoo_jp:日本ファルコム）
 - 設立：1981年 ( 昭和56年 ) 3月（https://www.falcom.co.jp/company/outline・1回目）
@@ -17239,6 +25663,157 @@
   - 「事業 内容 | 日本ファルコム 公式サイト — 事業 内容 | 日本ファルコム 公式サイト Falcom https://www.falcom.co.jp > business」（https://www.falcom.co.jp/ir/business・3回目）
 - 従業員数：記載なし（3回確認済み：公式25頁／PDF・画像9件／外部2頁・検索5回）
 - ビジネスモデル：記載なし（3回確認済み：公式25頁／PDF・画像9件／外部2頁・検索5回）
+
+## 日本マイクロニクス
+- 公式URL：https://www.mjc.co.jp/（search:yahoo_jp:日本マイクロニクス）
+- 設立：1970年11月2日（https://www.mjc.co.jp/corporate/about/・1回目）
+- 従業員数：単体：1,314人　連結：1,885人 （2026年6月30日現在）（https://www.mjc.co.jp/corporate/about/・1回目）
+- 従業員数：832人（青森工場/535人　青森松崎工場/74人）（https://aomori-ritti-guide.jp/12_interview/index22.html・3回目）
+- 事業内容：半導体計測器具、半導体・LCD検査機器等の開発・製造・販売 2015年3月現在（https://aomori-ritti-guide.jp/12_interview/index22.html・3回目）
+- 誰に：
+  - 「製品の品質と安全・顧客満足度調査」（https://www.mjc.co.jp/・1回目）
+  - 「製品の品質と安全・顧客満足度調査」（https://www.mjc.co.jp/corporate/about/・1回目）
+  - 「製品の品質と安全・顧客満足度調査」（https://www.mjc.co.jp/corporate/activities_field/・1回目）
+  - 「製品の品質と安全・顧客満足度調査」（https://www.mjc.co.jp/corporate/history/・1回目）
+  - 「製品の品質と安全・顧客満足度調査」（https://www.mjc.co.jp/sustainability/environmental/・1回目）
+  - 「製品の品質と安全・顧客満足度調査」（https://www.mjc.co.jp/ir/・1回目）
+  - 「製品の品質と安全・顧客満足度調査」（https://www.mjc.co.jp/ir/strategy/・1回目）
+  - 「製品の品質と安全・顧客満足度調査」（https://www.mjc.co.jp/ir/result/・1回目）
+  - 「製品の品質と安全・顧客満足度調査」（https://www.mjc.co.jp/ir/financial/・1回目）
+  - 「製品の品質と安全・顧客満足度調査」（https://www.mjc.co.jp/ir/stock_information/・1回目）
+  - 「製品の品質と安全・顧客満足度調査」（https://www.mjc.co.jp/ir/ir_calendar/・1回目）
+  - 「製品の品質と安全・顧客満足度調査」（https://www.mjc.co.jp/ir/notice/・1回目）
+- 何を：
+  - 「製品・サービス」（https://www.mjc.co.jp/・1回目）
+  - 「半導体関連製品」（https://www.mjc.co.jp/・1回目）
+  - 「FPD関連製品」（https://www.mjc.co.jp/・1回目）
+  - 「取扱終了・仕様変更製品」（https://www.mjc.co.jp/・1回目）
+  - 「製品の品質と安全・顧客満足度調査」（https://www.mjc.co.jp/・1回目）
+  - 「高精細化・多用途化が進むFPD分野において商品を展開しています」（https://www.mjc.co.jp/・1回目）
+  - 「製品・サービス」（https://www.mjc.co.jp/corporate/about/・1回目）
+  - 「半導体関連製品」（https://www.mjc.co.jp/corporate/about/・1回目）
+  - 「FPD関連製品」（https://www.mjc.co.jp/corporate/about/・1回目）
+  - 「取扱終了・仕様変更製品」（https://www.mjc.co.jp/corporate/about/・1回目）
+  - 「製品の品質と安全・顧客満足度調査」（https://www.mjc.co.jp/corporate/about/・1回目）
+  - 「製品・サービス」（https://www.mjc.co.jp/corporate/activities_field/・1回目）
+- どうやって売るか：
+  - 「会社概要・組織図・役員紹介」（https://www.mjc.co.jp/・1回目）
+  - 「会社概要・組織図・役員紹介｜企業情報｜株式会社日本マイクロニクス」（https://www.mjc.co.jp/corporate/about/・1回目）
+  - 「会社概要・組織図・役員紹介」（https://www.mjc.co.jp/corporate/about/・1回目）
+  - 「会社概要・組織図・役員紹介」（https://www.mjc.co.jp/corporate/activities_field/・1回目）
+  - 「会社概要・組織図・役員紹介」（https://www.mjc.co.jp/corporate/history/・1回目）
+  - 「創業から現在に至るまで、日本マイクロニクスの歩みをご紹介します」（https://www.mjc.co.jp/corporate/history/・1回目）
+  - 「会社概要・組織図・役員紹介」（https://www.mjc.co.jp/sustainability/environmental/・1回目）
+  - 「会社概要・組織図・役員紹介」（https://www.mjc.co.jp/ir/・1回目）
+  - 「会社概要・組織図・役員紹介」（https://www.mjc.co.jp/ir/strategy/・1回目）
+  - 「株主・投資家の皆さまへ、代表取締役社長 長谷川正義からのメッセージと、より豊かな社会の発展に貢献するため、当社の目指す姿や、持続的成長に向けた方針についてご紹介します」（https://www.mjc.co.jp/ir/strategy/・1回目）
+  - 「会社概要・組織図・役員紹介」（https://www.mjc.co.jp/ir/result/・1回目）
+  - 「会社概要・組織図・役員紹介」（https://www.mjc.co.jp/ir/financial/・1回目）
+- お金の形：
+  - 「わずか3名で電子機器の保守業務からスタートした日本マイクロニクスは、半導体検査や精密測定に着目し、電子計測技術と微細加工技術による製品開発を開始」（https://www.mjc.co.jp/corporate/history/・1回目）
+- 沿革：
+  - 「2026年12月期第3四半期の決算発表は11月12日(木)15：30を予定しております」（https://www.mjc.co.jp/・1回目）
+  - 「1970年11月2日」（https://www.mjc.co.jp/corporate/about/・1回目）
+  - 「沿革｜企業情報｜株式会社日本マイクロニクス」（https://www.mjc.co.jp/corporate/history/・1回目）
+  - 「1970年代より独創的なテクノロジーで経済と暮らしの発展を支えてきました」（https://www.mjc.co.jp/corporate/history/・1回目）
+  - 「1970年代」（https://www.mjc.co.jp/corporate/history/・1回目）
+  - 「1980年代」（https://www.mjc.co.jp/corporate/history/・1回目）
+  - 「1990年代」（https://www.mjc.co.jp/corporate/history/・1回目）
+  - 「2000年代」（https://www.mjc.co.jp/corporate/history/・1回目）
+  - 「2010年～」（https://www.mjc.co.jp/corporate/history/・1回目）
+  - 「1970年代：計測技術と微細加工技術への挑戦」（https://www.mjc.co.jp/corporate/history/・1回目）
+  - 「1980年代：プロービング技術の確立」（https://www.mjc.co.jp/corporate/history/・1回目）
+  - 「1990年代：プロービング技術でグローバル企業へ」（https://www.mjc.co.jp/corporate/history/・1回目）
+- 検索結果の抜粋：
+  - 「株式会社 日本マイクロニクス — 株式会社 日本マイクロニクス 株式会社日本マイクロニクス https://www.mjc.co.jp」（https://www.mjc.co.jp/・3回目）
+  - 「人材育成｜サステナビリティ - 株式会社日本マイクロニクス — 人材育成｜サステナビリティ - 株式会社日本マイクロニクス 株式会社日本マイクロニクス https://www.mjc.co.jp > sustainability > support」（https://www.mjc.co.jp/sustainability/support/・3回目）
+  - 「株式会社 日本マイクロニクス の半導体検査用プローブカードに ... — 株式会社 日本マイクロニクス の半導体検査用プローブカードに ... otsumu.co.jp https://otsumu.co.jp > ナレッジ > 企業事例」（https://otsumu.co.jp/knowledge/cases/micronics-japan.html・3回目）
+  - 「【 日本マイクロニクス （6871）銘柄分析】 AI半導体HBM検査 ... — 【 日本マイクロニクス （6871）銘柄分析】 AI半導体HBM検査 ... note https://note.com > 投資・マネー > 日本株」（https://note.com/stock1/n/ne4e3a42d7200・3回目）
+  - 「MJCのグローバルメンバー - 株式会社日本マイクロニクス — MJCのグローバルメンバー - 株式会社日本マイクロニクス 株式会社日本マイクロニクス https://www.mjc.co.jp > recruit > work > global」（https://www.mjc.co.jp/recruit/work/global/index.html・3回目）
+  - 「IRライブラリ - 決算説明 会 資料 - 株式会社日本マイクロニクス — IRライブラリ - 決算説明 会 資料 - 株式会社日本マイクロニクス 株式会社日本マイクロニクス https://www.mjc.co.jp > result > presentation」（https://www.mjc.co.jp/ir/result/presentation/・3回目）
+  - 「株主・投資家情報 - 株式会社日本マイクロニクス — 株主・投資家情報 - 株式会社日本マイクロニクス 株式会社日本マイクロニクス https://www.mjc.co.jp > ...」（https://www.mjc.co.jp/ir/・3回目）
+  - 「IRカレンダー｜株主・投資家情報 - 株式会社日本マイクロニクス — IRカレンダー｜株主・投資家情報 - 株式会社日本マイクロニクス 株式会社日本マイクロニクス https://www.mjc.co.jp > ir_calendar」（https://www.mjc.co.jp/ir/ir_calendar/・3回目）
+  - 「【 日本マイクロニクス 】[6871]IR情報 中期経営計画や 決算 短信 — 【 日本マイクロニクス 】[6871]IR情報 中期経営計画や 決算 短信 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo」（https://www.nikkei.com/nkd/company/kigyo/?scode=6871・3回目）
+  - 「株主通信｜IRライブラリ - 株式会社日本マイクロニクス — 株主通信｜IRライブラリ - 株式会社日本マイクロニクス 株式会社日本マイクロニクス https://www.mjc.co.jp > result > report」（https://www.mjc.co.jp/ir/result/report/・3回目）
+  - 「会社概要・組織図・役員紹介 - 株式会社日本マイクロニクス — 会社概要・組織図・役員紹介 - 株式会社日本マイクロニクス 株式会社日本マイクロニクス https://www.mjc.co.jp > corporate > about」（https://www.mjc.co.jp/corporate/about/・3回目）
+  - 「企業情報 - 株式会社日本マイクロニクス — 企業情報 - 株式会社日本マイクロニクス 株式会社日本マイクロニクス https://www.mjc.co.jp > corporate」（https://www.mjc.co.jp/corporate/・3回目）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像3件／外部1頁・検索5回）
+- ビジネスモデル：記載なし（3回確認済み：公式25頁／PDF・画像3件／外部1頁・検索5回）
+- 売上構成：記載なし（3回確認済み：公式25頁／PDF・画像3件／外部1頁・検索5回）
+- 利益の源泉：記載なし（3回確認済み：公式25頁／PDF・画像3件／外部1頁・検索5回）
+
+## 日本ライフライン
+- 公式URL：https://www.jll.co.jp/（search:yahoo_jp:日本ライフライン）
+- 設立：1981年2月6日（https://www.jll.co.jp/aboutus/overview.html・1回目）
+- 従業員数：連結1,304名　単体1,085名（2026年3月31日現在）（https://www.jll.co.jp/aboutus/overview.html・1回目）
+- 事業内容：医療用機器輸入・製造および販売（https://www.jll.co.jp/aboutus/overview.html・1回目）
+- ビジネスモデル：
+  - 「日本ライフラインの歩みや培ってきた技術、 商社とメーカーのハイブリッド型のビジネスモデルなどについてわかりやすくお伝えいたします」（https://www.jll.co.jp/investors/・1回目）
+  - 「ビジネスモデル」（https://recruit.jll.jp/company/・3回目）
+  - 「ハイブリット型ビジネスモデル」（https://recruit.jll.jp/company/・3回目）
+  - 「当社グループ最大の強みは、メーカー機能と商社機能を高い次元で融合させたハイブリッド型ビジネスモデルです」（https://recruit.jll.jp/company/・3回目）
+- 誰に：
+  - 「事業内容や取引先との関係についてご覧いただけます」（https://www.jll.co.jp/investors/individual/・1回目）
+  - 「同社ユーザーサービスプラットフォーム代表執行役員」（https://www.jll.co.jp/aboutus/officer.html・1回目）
+  - 「国内顧客カバー率」（https://recruit.jll.jp/company/・3回目）
+- 何を：
+  - 「日本では承認されていない製品または適用に関する情報が掲載されている場合があります」（https://www.jll.co.jp/・1回目）
+  - 「リズムデバイス製品」（https://www.jll.co.jp/the/business/・1回目）
+  - 「EP／アブレーション製品」（https://www.jll.co.jp/the/business/・1回目）
+  - 「心臓血管外科・血管外科製品」（https://www.jll.co.jp/the/business/・1回目）
+  - 「消化器領域製品」（https://www.jll.co.jp/the/business/・1回目）
+  - 「構造的心疾患インターベーション製品」（https://www.jll.co.jp/the/business/・1回目）
+  - 「脳血管治療製品」（https://www.jll.co.jp/the/business/・1回目）
+  - 「日本では承認されていない製品または適用に関する情報が掲載されている場合があります」（https://www.jll.co.jp/the/business/・1回目）
+  - 「製品の品質管理・安定供給」（https://www.jll.co.jp/sustainability/environment/・1回目）
+  - 「同社ユーザーサービスプラットフォーム代表執行役員」（https://www.jll.co.jp/aboutus/officer.html・1回目）
+  - 「商品センター（現 羽田ロジスティックスセンター）を開設」（https://www.jll.co.jp/aboutus/history.html・1回目）
+  - 「ソーリン・グループ（現 MicroPort CRM社）CRM（心調律管理）製品の独占販売契約を締結」（https://www.jll.co.jp/aboutus/history.html・1回目）
+- どうやって売るか：
+  - 「販売代理店の方へ」（https://www.jll.co.jp/・1回目）
+  - 「販売代理店の方へ」（https://www.jll.co.jp/aboutus/access.html・1回目）
+  - 「企業としての持続的な成長を目指し、日本ライフラインが事業活動を通じて取り組んでいるサステナビリティに関する活動をご紹介いたします」（https://www.jll.co.jp/investors/・1回目）
+  - 「会社紹介動画」（https://www.jll.co.jp/investors/・1回目）
+  - 「販売代理店の方へ」（https://www.jll.co.jp/investors/・1回目）
+  - 「当社の取締役、執行役員をご紹介します」（https://www.jll.co.jp/aboutus/・1回目）
+  - 「販売代理店の方へ」（https://www.jll.co.jp/aboutus/・1回目）
+  - 「医療機器商社としての取り組みを紹介します」（https://www.jll.co.jp/the/business/・1回目）
+  - 「医療機器メーカーとしての取り組みを紹介します」（https://www.jll.co.jp/the/business/・1回目）
+  - 「販売代理店の方へ」（https://www.jll.co.jp/the/business/・1回目）
+  - 「販売代理店の方へ」（https://www.jll.co.jp/investors/management/・1回目）
+  - 「販売代理店の方へ」（https://www.jll.co.jp/investors/event/・1回目）
+- 利益の源泉：
+  - 「当社グループ最大の強みは、メーカー機能と商社機能を高い次元で融合させたハイブリッド型ビジネスモデルです」（https://recruit.jll.jp/company/・3回目）
+  - 「この技術は他の自社製品にも応用され、当社の競争優位性を支えています」（https://recruit.jll.jp/company/・3回目）
+- 沿革：
+  - 「2027年3月期」（https://www.jll.co.jp/investors/・1回目）
+  - 「2026年10月30日発表」（https://www.jll.co.jp/investors/・1回目）
+  - 「2024年3月期〜」（https://www.jll.co.jp/investors/・1回目）
+  - 「2028年3月期」（https://www.jll.co.jp/investors/・1回目）
+  - 「2025年版」（https://www.jll.co.jp/investors/・1回目）
+  - 「2025年12月版」（https://www.jll.co.jp/investors/・1回目）
+  - 「当社の沿革をご覧いただけます」（https://www.jll.co.jp/aboutus/・1回目）
+  - 「1981年2月6日」（https://www.jll.co.jp/aboutus/overview.html・1回目）
+  - 「1981年2月」（https://www.jll.co.jp/aboutus/officer.html・1回目）
+  - 「1987年4月」（https://www.jll.co.jp/aboutus/officer.html・1回目）
+  - 「1992年11月」（https://www.jll.co.jp/aboutus/officer.html・1回目）
+  - 「1994年1月」（https://www.jll.co.jp/aboutus/officer.html・1回目）
+- 検索結果の抜粋：
+  - 「日本ライフライン 株式会社 — 日本ライフライン 株式会社 日本ライフライン株式会社 https://www.jll.co.jp」（https://www.jll.co.jp/・3回目）
+  - 「トップメッセージ | 日本ライフライン 株式会社 — トップメッセージ | 日本ライフライン 株式会社 日本ライフライン株式会社 https://www.jll.co.jp > the > message」（https://www.jll.co.jp/the/message.html・3回目）
+  - 「株主・投資家の方へ | 日本ライフライン 株式会社 — 株主・投資家の方へ | 日本ライフライン 株式会社 日本ライフライン株式会社 https://www.jll.co.jp > investors」（https://www.jll.co.jp/investors/・3回目）
+  - 「事業の内容は？ | 日本ライフライン 株式会社 — 事業の内容は？ | 日本ライフライン 株式会社 日本ライフライン株式会社 https://www.jll.co.jp > investors > individual > business」（https://www.jll.co.jp/investors/individual/business.html・3回目）
+  - 「決算説明資料 | 日本ライフライン 株式会社 — 決算説明資料 | 日本ライフライン 株式会社 日本ライフライン株式会社 https://www.jll.co.jp > library > earnings_presentations」（https://www.jll.co.jp/investors/library/earnings_presentations.html・3回目）
+  - 「決算説明 会 | 日本ライフライン 株式会社 — 決算説明 会 | 日本ライフライン 株式会社 日本ライフライン株式会社 https://www.jll.co.jp > event > financial_results_briefing」（https://www.jll.co.jp/investors/event/financial_results_briefing.html・3回目）
+  - 「IRライブラリー | 日本ライフライン 株式会社 — IRライブラリー | 日本ライフライン 株式会社 日本ライフライン株式会社 https://www.jll.co.jp > investors > library」（https://www.jll.co.jp/investors/library/・3回目）
+  - 「決算 短信 | 日本ライフライン 株式会社 — 決算 短信 | 日本ライフライン 株式会社 日本ライフライン株式会社 https://www.jll.co.jp > investors > library > earnings_reports」（https://www.jll.co.jp/investors/library/earnings_reports.html・3回目）
+  - 「会社情報 | 日本ライフライン 株式会社 — 会社情報 | 日本ライフライン 株式会社 日本ライフライン株式会社 https://www.jll.co.jp > aboutus」（https://www.jll.co.jp/aboutus/・3回目）
+  - 「経営方針・体制 | 日本ライフライン 株式会社 — 経営方針・体制 | 日本ライフライン 株式会社 日本ライフライン株式会社 https://www.jll.co.jp > investors > management」（https://www.jll.co.jp/investors/management/・3回目）
+  - 「会社概要 | 日本ライフライン 株式会社 — 会社概要 | 日本ライフライン 株式会社 日本ライフライン株式会社 https://www.jll.co.jp > aboutus > overview」（https://www.jll.co.jp/aboutus/overview.html・3回目）
+  - 「トップメッセージ | 日本ライフライン 株式会社 — トップメッセージ | 日本ライフライン 株式会社 日本ライフライン株式会社 https://www.jll.co.jp > management > message」（https://www.jll.co.jp/sustainability/management/message.html・3回目）
+- 売上高：記載なし（3回確認済み：公式16頁／PDF・画像0件／外部1頁・検索5回）
+- お金の形：記載なし（3回確認済み：公式16頁／PDF・画像0件／外部1頁・検索5回）
+- 売上構成：記載なし（3回確認済み：公式16頁／PDF・画像0件／外部1頁・検索5回）
 
 ## 日本取引所グループ
 - 公式URL：https://www.jpx.co.jp/（search:yahoo_jp:日本取引所グループ）
@@ -17350,6 +25925,83 @@
   - 「日本取引所グループ - Wikipedia — 日本取引所グループ - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 日本取引所グループ」（https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8F%96%E5%BC%95%E6%89%80%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97・3回目）
   - 「3分でわかるJPXの存在意義 | 株式会社 日本取引所グループ — 3分でわかるJPXの存在意義 | 株式会社 日本取引所グループ jpx-recruit.jp https://www.jpx-recruit.jp > atfirst > threemin」（https://www.jpx-recruit.jp/atfirst/threemin/・3回目）
 - 売上高：記載なし（3回確認済み：公式25頁／PDF・画像12件／外部2頁・検索5回）
+
+## 日本新薬
+- 公式URL：https://www.nippon-shinyaku.co.jp/（search:yahoo_jp:日本新薬）
+- 設立：1919年 10月1日（https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%96%B0%E8%96%AC・3回目）
+- 従業員数：連結：2,309人 （2026年3月末現在）（https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%96%B0%E8%96%AC・3回目）
+- 売上高：連結：1,707億71百万 （2026年3月期）（https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%96%B0%E8%96%AC・3回目）
+- 誰に：
+  - 「> 顧客責任」（https://www.nippon-shinyaku.co.jp/・1回目）
+  - 「> 顧客責任」（https://www.nippon-shinyaku.co.jp/inquiry/・1回目）
+  - 「> 顧客責任」（https://www.nippon-shinyaku.co.jp/link/redirect.php?q=http://pah-support.jp・1回目）
+  - 「> 顧客責任」（https://www.nippon-shinyaku.co.jp/link/redirect.php?q=http://alcoholic-navi.jp/・1回目）
+  - 「> 顧客責任」（https://www.nippon-shinyaku.co.jp/link/redirect.php?q=https://seiritsu.jp/・1回目）
+  - 「> 顧客責任」（https://www.nippon-shinyaku.co.jp/link/redirect.php?q=https://www.ed-care-support.jp/・1回目）
+  - 「> 顧客責任」（https://www.nippon-shinyaku.co.jp/ir/・1回目）
+  - 「> 顧客責任」（https://www.nippon-shinyaku.co.jp/ir/managementpolicy/top_interview.php・1回目）
+  - 「患者さんや顧客一人ひとりの“生きる“ということにこれまで以上に本気で向き合い、社会に貢献していくため、引き続き医薬品事業と機能食品事業の二つの事業に取り組みます」（https://www.nippon-shinyaku.co.jp/ir/managementpolicy/top_interview.php・1回目）
+  - 「患者さんを中心に据えた「ペイシェント・セントリシティ」の考え方や顧客視点を重視し、独自性のある製品・サービスの提供を通じて、新しい生きるを世界に届けていきます」（https://www.nippon-shinyaku.co.jp/ir/managementpolicy/top_interview.php・1回目）
+  - 「> 顧客責任」（https://www.nippon-shinyaku.co.jp/ir/ir_news/ns2026/・1回目）
+  - 「> 顧客責任」（https://www.nippon-shinyaku.co.jp/ir/managementpolicy/・1回目）
+- 何を：
+  - 「> 主要製品」（https://www.nippon-shinyaku.co.jp/・1回目）
+  - 「> 製品情報」（https://www.nippon-shinyaku.co.jp/・1回目）
+  - 「私たちは、経営理念である「人々の健康と豊かな生活創りに貢献する」のもと、研究開発におけるターゲットを明確化し、製品パイプラインの拡充に向けてライセンス活動や共同研究を積極的に展開しています」（https://www.nippon-shinyaku.co.jp/・1回目）
+  - 「> 主要製品」（https://www.nippon-shinyaku.co.jp/inquiry/・1回目）
+  - 「> 製品情報」（https://www.nippon-shinyaku.co.jp/inquiry/・1回目）
+  - 「> 主要製品」（https://www.nippon-shinyaku.co.jp/link/redirect.php?q=http://pah-support.jp・1回目）
+  - 「> 製品情報」（https://www.nippon-shinyaku.co.jp/link/redirect.php?q=http://pah-support.jp・1回目）
+  - 「> 主要製品」（https://www.nippon-shinyaku.co.jp/link/redirect.php?q=http://alcoholic-navi.jp/・1回目）
+  - 「> 製品情報」（https://www.nippon-shinyaku.co.jp/link/redirect.php?q=http://alcoholic-navi.jp/・1回目）
+  - 「> 主要製品」（https://www.nippon-shinyaku.co.jp/link/redirect.php?q=https://seiritsu.jp/・1回目）
+  - 「> 製品情報」（https://www.nippon-shinyaku.co.jp/link/redirect.php?q=https://seiritsu.jp/・1回目）
+  - 「> 主要製品」（https://www.nippon-shinyaku.co.jp/link/redirect.php?q=https://www.ed-care-support.jp/・1回目）
+- どうやって売るか：
+  - 「日本新薬の企業活動を紹介します」（https://www.nippon-shinyaku.co.jp/・1回目）
+  - 「SDGパートナーズ」（https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%96%B0%E8%96%AC・3回目）
+- お金の形：
+  - 「再発または難治性びまん性大細胞型B細胞リンパ腫治療薬ロンカスツキシマブテシリン（MT-2111）について田辺ファーマと日本における独占的販売に関するサブライセンス契約を締結」（https://www.nippon-shinyaku.co.jp/・1回目）
+  - 「私たちは、経営理念である「人々の健康と豊かな生活創りに貢献する」のもと、研究開発におけるターゲットを明確化し、製品パイプラインの拡充に向けてライセンス活動や共同研究を積極的に展開しています」（https://www.nippon-shinyaku.co.jp/・1回目）
+  - 「再発または難治性びまん性大細胞型B細胞リンパ腫治療薬ロンカスツキシマブテシリン（MT-2111）について田辺ファーマと日本における独占的販売に関するサブライセンス契約を締結」（https://www.nippon-shinyaku.co.jp/ir/・1回目）
+  - 「再発または難治性びまん性大細胞型B細胞リンパ腫治療薬ロンカスツキシマブテシリン（MT-2111）について田辺ファーマと日本における独占的販売に関するサブライセンス契約を締結」（https://www.nippon-shinyaku.co.jp/ir/ir_news/ns2026/・1回目）
+  - 「NS-025の全世界における開発・製造・販売に関する独占的ライセンス契約締結のお知らせ」（https://www.nippon-shinyaku.co.jp/ir/ir_news/ns2026/・1回目）
+  - 「経営理念は、「人々の健康と豊かな生活創りに貢献する」であり、ターゲットを明確化してライセンス活動や共同研究開発をつづける企業である」（https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%96%B0%E8%96%AC・3回目）
+  - 「クリエイティブ・コモンズ 表示-継承ライセンス」（https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%96%B0%E8%96%AC・3回目）
+  - 「クリエイティブ・コモンズ 表示-継承ライセンス」（https://ja.wikipedia.org/wiki/%E4%B8%AD%E4%BA%95%E4%BA%A8_(%E5%AE%9F%E6%A5%AD%E5%AE%B6)・3回目）
+  - 「クリエイティブ・コモンズ 表示-継承ライセンス」（https://ja.wikipedia.org/wiki/%E5%89%8D%E5%B7%9D%E9%87%8D%E4%BF%A1・3回目）
+- 利益の源泉：
+  - 「日本新薬の強み」（https://www.nippon-shinyaku.co.jp/ir/ir_library/shinyaku_report.php・1回目）
+  - 「系や血液腫瘍領域を強みとしており、近年は」（https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%96%B0%E8%96%AC・3回目）
+- 沿革：
+  - 「2026年10月29日」（https://www.nippon-shinyaku.co.jp/・1回目）
+  - 「2026年10月23日」（https://www.nippon-shinyaku.co.jp/・1回目）
+  - 「2026年10月09日」（https://www.nippon-shinyaku.co.jp/・1回目）
+  - 「2026年10月01日」（https://www.nippon-shinyaku.co.jp/・1回目）
+  - 「2026年09月14日」（https://www.nippon-shinyaku.co.jp/・1回目）
+  - 「2026年08月26日」（https://www.nippon-shinyaku.co.jp/・1回目）
+  - 「2026年08月17日」（https://www.nippon-shinyaku.co.jp/・1回目）
+  - 「2026年07月31日」（https://www.nippon-shinyaku.co.jp/・1回目）
+  - 「2026年10月29日」（https://www.nippon-shinyaku.co.jp/ir/・1回目）
+  - 「2026年10月01日」（https://www.nippon-shinyaku.co.jp/ir/・1回目）
+  - 「2026年08月26日」（https://www.nippon-shinyaku.co.jp/ir/・1回目）
+  - 「2026年08月25日」（https://www.nippon-shinyaku.co.jp/ir/・1回目）
+- 検索結果の抜粋：
+  - 「IR資料室 | 株主・投資家の皆さま | 日本新薬 — 日本新薬株式会社「株主・投資家の皆さま」の「IR資料室」ページです。決算関連資料、統合報告書をご覧いただけます。また、最新の資料を一括でダウンロードいただけます。」（https://www.nippon-shinyaku.co.jp/ir/ir_library/index.html・3回目）
+  - 「株主・投資家の皆さまへ | 日本新薬 — Aug 25, 2026 · 日本新薬株式会社の「株主・投資家の皆さま」ページです。経営方針・経営計画、業績・財務情報、IR資料、サステナビリティ経営、株式・株主情報についてご紹介します。」（https://www.nippon-shinyaku.co.jp/ir/・3回目）
+  - 「日本新薬株式会社 — 決算説明資料 - EDINET DB — Jun 29, 2026 · 日本新薬株式会社の決算説明資料を、AIで構造化されたセクション単位で表示。経営戦略・業績・ガバナンスなどテーマ ...」（https://edinetdb.jp/company/E00931/presentations/・3回目）
+  - 「日本新薬（4516）のIR情報・決算資料 - IRBANK — Feb 9, 2026 · 日本新薬（4516）のIR情報・適時開示一覧。決算発表、業績修正などの開示情報を掲載。」（https://irbank.net/4516/ir・3回目）
+  - 「日本新薬（4516）の決算発表資料一覧 | IRBANK — 日本新薬（4516）の決算発表資料一覧 β版IRBANKでは、 有報・決算資料の中身 がすぐ引ける新規登録の受付は残り 1 日 無料でβ版をはじめる 登録すると永久30%OFFと米株版の先行利用も付きます」（https://irbank.net/E00931/reports・3回目）
+  - 「日本新薬 - Wikipedia — 日本新薬株式会社 （にっぽんしんやく, 英: Nippon Shinyaku Co., Ltd.）は、癌治療薬など製造する 製薬会社 である。 本社を 京都市 南区 吉祥院西ノ庄門口町に置く日本で代表される企業である。」（https://ja.wikipedia.org/wiki/日本新薬・3回目）
+  - 「会社情報 | 日本新薬 — 日本新薬株式会社の「会社情報」ページです。企業情報、経営理念・経営方針、医薬品事業、機能食品事業についてご紹介 ...」（https://www.nippon-shinyaku.co.jp/company_profile/・3回目）
+  - 「日本新薬（4516）は、何で稼いでいる？｜事業・業績5年・同業比較 | ... — 日本新薬（4516）は、何で稼いでいる？ 日本新薬＝医薬品と機能食品の、二つの区分で稼ぐ会社。 2026年3月期の売上収益は1,708億円。 事業の中身・誰に売る・業績5年・営業利益率の推移・他の会社と比べるとを、決算の数字と図で読む。」（https://zukaikeizai.com/kaisha/4516/・3回目）
+  - 「日本新薬 (4516) のセグメント別業績｜事業別売上・利益構成 - Zaimir... — Oct 2, 2026 · 日本新薬（4516）の事業セグメント別売上・営業利益の構成と推移を表示。どの事業が売上・利益を稼いでいるかをグラフで把握でき、主力事業・成長事業の見極めや、事業ポートフォリオの集中度・多角化度合いの分析、セグメント別利益率の比較に、EDINETの有価証券報告書のセグメント情報 ...」（https://zaimiru.jp/company/4516/segment・3回目）
+  - 「事業構成 │ 会社情報 │ 日本新薬 — 機能食品事業 売上収益 222億円 （2026年3月末現在） 製薬企業としての高い技術力を生かし、健康食品素材、品質安定保存剤、プロテイン製剤のバルク事業に加え、サプリメント事業を中心として、市場ニーズに応える高付加価値製品を提供しています。」（https://www.nippon-shinyaku.co.jp/company_profile/activities/・3回目）
+  - 「中井亨 (実業家) - Wikipedia — “ 日本新薬 次期社長に中井取締役が内定 DMD薬ビルテプソの海外展開推進 ”. ミクスOnline. 株式会社ミクス (2021年3月17日). 2025年10月6日閲覧。 “日本新薬新社長に中井亨氏が昇格 14年ぶり交代、前川重信社長は会長に”. 京都新聞 ON BUSINESS.」（https://ja.wikipedia.org/wiki/中井亨_(実業家)・3回目）
+  - 「前川重信 - Wikipedia — 前川重信 2026年 前川 重信 （まえかわ しげのぶ、 1953年 1月18日 - ）は、 日本 の 経営者。 日本新薬 代表取締役会長を務めているほか、 一般社団法人京都経営者協会 の会長も務める [1]。 滋賀県 出身 [2]。」（https://ja.wikipedia.org/wiki/前川重信・3回目）
+- 事業内容：記載なし（3回確認済み：公式25頁／PDF・画像10件／外部3頁・検索5回）
+- ビジネスモデル：記載なし（3回確認済み：公式25頁／PDF・画像10件／外部3頁・検索5回）
+- 売上構成：記載なし（3回確認済み：公式25頁／PDF・画像10件／外部3頁・検索5回）
 
 ## 日本電子材料
 - 公式URL：http://www.jem-net.co.jp/（search:ddgs:google:日本電子材料）
@@ -17517,6 +26169,211 @@
   - 「会社概要 組織図 Corporate Data 2026 - 日本電技 — 会社概要 組織図 Corporate Data 2026 - 日本電技 日本電技株式会社 PDF https://www.nihondengi.co.jp > pdf > data-sheet」（https://www.nihondengi.co.jp/pdf/data-sheet.pdf・3回目）
   - 「企業情報|会社概要・組織・グループ会社 - 日本電技 — 企業情報|会社概要・組織・グループ会社 - 日本電技 日本電技株式会社 https://www.nihondengi.co.jp > company > outline」（https://www.nihondengi.co.jp/company/outline.html・3回目）
 
+## 日本駐車場開発
+- 公式URL：https://n-p-d.co.jp/（search:yahoo_jp:日本駐車場開発）
+- 設立：1991年（平成3年）12月（https://n-p-d.co.jp/company/・1回目）
+- 設立：2005年12月（https://n-p-d.co.jp/company/・1回目）
+- 設立：2011年12月（https://n-p-d.co.jp/company/・1回目）
+- 従業員数：連結1,269名　単体368名（2026年（令和8年）7月末現在）（https://n-p-d.co.jp/company/・1回目）
+- 従業員数：1,026 1,052 1,082 1,120 1,269（https://n-p-d.co.jp/ir/indexes/・1回目）
+- 従業員数：362 327 334 331 368（https://n-p-d.co.jp/ir/indexes/・1回目）
+- 事業内容：スキー場に関する総合コンサルティング（https://n-p-d.co.jp/company/・1回目）
+- 事業内容：カーシェアリングサービスの運営（https://n-p-d.co.jp/company/・1回目）
+- 事業内容：海外・帰国子女への教育サービスの提供（https://n-p-d.co.jp/company/・1回目）
+- 売上高：407億円（2026年 （令和8年） 7月期　連結）（https://n-p-d.co.jp/company/・1回目）
+- 売上高：26,271 31,855 32,693 36,832 40,707（https://n-p-d.co.jp/ir/indexes/・1回目）
+- 売上高：8,678 9,223 10,164 11,010 12,260（https://n-p-d.co.jp/ir/indexes/・1回目）
+- ビジネスモデル：
+  - 「具体的には、従来の自社物件の周りに集中して駐車場を開拓してゆく営業スタイルから、オンラインでのお客様からのお問合せが多いエリアに新しく駐車場を開拓するというデータドリブンな形にビジネスモデルを転換しました」（https://n-p-d.co.jp/service/new_business/・1回目）
+  - 「✓ 来場者増加を通じて、冬季偏重の収益構造を改善」（https://n-p-d.co.jp/wp-content/uploads/2026/09/OurCoreValue.pdf・2回目）
+  - 「［事業系統図］ (１) 駐車場事業駐車場事業は、日本駐車場開発及び連結子会社であるＮＰＤ ＧＬＯＢＡＬ ＣＯ.,ＬＴＤ.、ＮＩＰＰＯＮ ＰＡＲＫＩＮＧ ＤＥＶＥＬＯＰＭＥＮＴ(ＴＨＡＩＬＡＮＤ)ＣＯ.,ＬＴＤ.、日本自動車サービス開発株式会社が行っており、直営事業、リーシング事業、マネジメント事業、マンスリーレンタカー事業等を行っております」（https://www.kabutore.biz/genzaikabuka/jigyo.html?code=2353・3回目）
+- 誰に：
+  - 「オーナー、ユーザー、社会の3つが正三角形を描くように、関わるすべての人がハッピーになるビジネスを、という考え方です」（https://n-p-d.co.jp/service/new_business/・1回目）
+  - 「ユーザーの望むエリアに駐車場をつくる」（https://n-p-d.co.jp/service/new_business/・1回目）
+  - 「そこで3年前から、デジタルを活用してより多くのお客様の声を集めることに注力し、日本一の駐車場ニーズを集める会社に、また、集まったお客様情報を分析し、駐車場の課題解決を日本一できる会社にするという目標を設定しました」（https://n-p-d.co.jp/service/new_business/・1回目）
+  - 「具体的には、従来の自社物件の周りに集中して駐車場を開拓してゆく営業スタイルから、オンラインでのお客様からのお問合せが多いエリアに新しく駐車場を開拓するというデータドリブンな形にビジネスモデルを転換しました」（https://n-p-d.co.jp/service/new_business/・1回目）
+  - 「今後も継続して、駐車場の需給のギャップを分析し、本当に困っているお客様が多いエリアから優先的に駐車場を開拓していくことで、お客様の課題解決をしていきたいと考えています」（https://n-p-d.co.jp/service/new_business/・1回目）
+  - 「需給の分析のため、そしてより多くのお客様により多くの情報を届けるため、現在は自社の物件の掲載に限らず、他社が管理されている物件も積極的にサイトに掲載しています」（https://n-p-d.co.jp/service/new_business/・1回目）
+  - 「横濱：日本駐車場開発グループは、オーナー、ユーザー、社会の三者がそれぞれしあわせになる「ハッピートライアングル」で社会問題の解決を目指しています」（https://n-p-d.co.jp/service/new_business/・1回目）
+  - 「ユーザーのニーズに沿った駐車スペースの供給を増やすためには、平面もしくは、大きなサイズの駐車場の開拓をしたり、今ある駐車場をリニューアルするといった根本的な課題解決が必要です」（https://n-p-d.co.jp/service/new_business/・1回目）
+  - 「日本自動車サービス開発株式会社の役割は「駐車場」「車」に新しい価値をつくりだしてオーナー、ユーザー、社会に貢献することであり、その結果として会社に利益が還元されるものと考えています」（https://n-p-d.co.jp/service/new_business/・1回目）
+  - 「商用から休日のレジャーまで、ユーザーが車を使うシチュエーションはさまざまです」（https://n-p-d.co.jp/service/new_business/・1回目）
+  - 「りんどう湖を中心とした豊かな自然の中でのさまざまな体験をご提供することで、未就学児のご家族を中心に、幅広い年齢層のお客様に楽しんでいただいています」（https://n-p-d.co.jp/service/new_business/・1回目）
+  - 「オーナー、ユーザー、社会」（https://n-p-d.co.jp/wp-content/uploads/2026/09/OurCoreValue.pdf・2回目）
+- 何を：
+  - 「サービス一覧」（https://n-p-d.co.jp/・1回目）
+  - 「関わる人全てがハッピーになるサービスを」（https://n-p-d.co.jp/・1回目）
+  - 「幅広い分野でサービスを展開しています」（https://n-p-d.co.jp/・1回目）
+  - 「駐車場業界初のサブリース事業によって成長し、新サービスを次々と生み出し続けている日本駐車場開発グループの根幹事業」（https://n-p-d.co.jp/・1回目）
+  - 「教育事業を行うTCK Workshopは海外子女・帰国子女向けのオンライン家庭教師サービスです」（https://n-p-d.co.jp/・1回目）
+  - 「個人向け・法人向けサービス」（https://n-p-d.co.jp/・1回目）
+  - 「駐車場・自動車に関する各種ソリューション」（https://n-p-d.co.jp/・1回目）
+  - 「その他個人向けのサービス」（https://n-p-d.co.jp/・1回目）
+  - 「帰国子女向け家庭教師サービス」（https://n-p-d.co.jp/・1回目）
+  - 「ヘルスケアサービス」（https://n-p-d.co.jp/・1回目）
+  - 「駐車場・自動車ソリューションのご相談」（https://n-p-d.co.jp/・1回目）
+  - 「その他法人向けのサービス」（https://n-p-d.co.jp/・1回目）
+- どうやって売るか：
+  - 「その後トロント大学に進学し、2019年に知り合いの紹介で日本自動車サービス開発に入社」（https://n-p-d.co.jp/service/new_business/・1回目）
+  - 「駐車場紹介サービス」（https://n-p-d.co.jp/company/history/・1回目）
+  - 「その店舗が閉店することをきっかけに」（https://n-p-d.co.jp/wp-content/uploads/2026/09/OurCoreValue.pdf・2回目）
+  - 「ウェブマーケティング部門および外部パートナーシップ」（https://n-p-d.co.jp/wp-content/uploads/2026/09/OurCoreValue.pdf・2回目）
+  - 「2019年に知り合いの紹介で日本自動車サービス」（https://n-p-d.co.jp/wp-content/uploads/2026/09/OurCoreValue.pdf・2回目）
+  - 「✓ 代理店営業により営業エリア・顧客接点を拡大」（https://n-p-d.co.jp/wp-content/uploads/2026/09/OurCoreValue.pdf・2回目）
+  - 「地域特性を生かし、通年型スノーリゾートとしての営業体制を構築」（https://n-p-d.co.jp/wp-content/uploads/2026/09/2026%E5%B9%B47%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf・2回目）
+  - 「地域の飲食店3店舗を事業承継し、」（https://n-p-d.co.jp/wp-content/uploads/2026/09/2026%E5%B9%B47%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf・2回目）
+  - 「また、都市部を中心に駐車場利用に対するニーズが多様化する中、月極駐車場の紹介や」（https://n-p-d.co.jp/wp-content/uploads/2026/09/tanshin_2609.pdf・2回目）
+  - 「また、営業人員の」（https://n-p-d.co.jp/wp-content/uploads/2026/09/tanshin_2609.pdf・2回目）
+  - 「拡充に加え、案件の発掘から提案、契約に至るまでの営業プロセスの標準化を進め、再現性の高い営業体制の構築」（https://n-p-d.co.jp/wp-content/uploads/2026/09/tanshin_2609.pdf・2回目）
+  - 「しリゾート及びオグナほたかスキー場に加えて、新たに丸沼高原スキー場とアライアンス・パートナーリゾート契」（https://n-p-d.co.jp/wp-content/uploads/2026/09/tanshin_2609.pdf・2回目）
+- お金の形：
+  - 「ストック・オプションの発行に関するお知らせ」（https://n-p-d.co.jp/ir/・1回目）
+  - 「ストック・オプション（新株予約権）の発行に関するお知らせ」（https://n-p-d.co.jp/ir/・1回目）
+  - 「ストック・オプション(新規予約権)の発行内容確定に関するお知らせ」（https://n-p-d.co.jp/ir/・1回目）
+  - 「ストックオプション（新株予約権）の発行内容確定に関するお知らせ」（https://n-p-d.co.jp/ir/・1回目）
+  - 「ストック・オプション（新株予約権）の発行内容確定に関するお知らせ」（https://n-p-d.co.jp/ir/・1回目）
+  - 「ストック・オプション発行に関するお知らせ」（https://n-p-d.co.jp/ir/・1回目）
+  - 「駐車場利用料以外の収益機会の拡大」（https://n-p-d.co.jp/wp-content/uploads/2026/09/OurCoreValue.pdf・2回目）
+  - 「✓ 駐車場の利用価値を高め、駐車場利用料以外の収益機会を拡大」（https://n-p-d.co.jp/wp-content/uploads/2026/09/OurCoreValue.pdf・2回目）
+  - 「✓ 都市部の重点エリアや高単価の月極駐車場を」（https://n-p-d.co.jp/wp-content/uploads/2026/09/OurCoreValue.pdf・2回目）
+  - 「【仲介手数料売上】」（https://n-p-d.co.jp/wp-content/uploads/2026/09/2026%E5%B9%B47%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf・2回目）
+  - 「✓ 来場者数が前年並みの中、単価向上により売上高・営業利益は過去最高を更新」（https://n-p-d.co.jp/wp-content/uploads/2026/09/2026%E5%B9%B47%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf・2回目）
+  - 「✓ グリーン期は来場者数減少により減益、ウィンター期はインバウンド需要と単価向上により増益」（https://n-p-d.co.jp/wp-content/uploads/2026/09/2026%E5%B9%B47%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf・2回目）
+- 売上構成：
+  - 「2. セグメント別の概況」（https://n-p-d.co.jp/wp-content/uploads/2026/09/2026%E5%B9%B47%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf・2回目）
+  - 「2026年７月期 セグメント別連結業績の概要」（https://n-p-d.co.jp/wp-content/uploads/2026/09/2026%E5%B9%B47%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf・2回目）
+  - 「■セグメント売上高・営業利益 ■主な経営指標」（https://n-p-d.co.jp/wp-content/uploads/2026/09/2026%E5%B9%B47%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf・2回目）
+  - 「※決算短信記載のセグメント情報の駐車場事業セグメント利益から調整額（全社費用等）を控除しております」（https://n-p-d.co.jp/wp-content/uploads/2026/09/2026%E5%B9%B47%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf・2回目）
+  - 「■セグメント売上高・営業利益 ■主な経営指標 (来場者数)」（https://n-p-d.co.jp/wp-content/uploads/2026/09/2026%E5%B9%B47%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf・2回目）
+  - 「✓ 全セグメントで増収増益を計画し、営業利益率は21.9%へ向上」（https://n-p-d.co.jp/wp-content/uploads/2026/09/2026%E5%B9%B47%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf・2回目）
+  - 「セグメント別 営業利益推移」（https://n-p-d.co.jp/wp-content/uploads/2026/09/2026%E5%B9%B47%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf・2回目）
+  - 「※各セグメントの営業利益を単純合算したものであり、連結営業利益とは一致しません」（https://n-p-d.co.jp/wp-content/uploads/2026/09/2026%E5%B9%B47%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf・2回目）
+  - 「(セグメント情報等) ……………………………………………………………………………………………26」（https://n-p-d.co.jp/wp-content/uploads/2026/09/tanshin_2609.pdf・2回目）
+  - 「セグメントの業績は次のとおりです」（https://n-p-d.co.jp/wp-content/uploads/2026/09/tanshin_2609.pdf・2回目）
+  - 「各セグメントの業績数値にはセグメント間の内部取引高を含んでいます」（https://n-p-d.co.jp/wp-content/uploads/2026/09/tanshin_2609.pdf・2回目）
+  - 「(セグメント情報等)」（https://n-p-d.co.jp/wp-content/uploads/2026/09/tanshin_2609.pdf・2回目）
+- 利益の源泉：
+  - 「スキー場やテーマパークの運営において自然の活用、自然との共存、地域社会の活性化に向き合ってきた日本駐車場開発グループの強みを生かして日本のエネルギー問題の課題解決に貢献し、カーボンニュートラルな社会の実現を目指しています」（https://n-p-d.co.jp/service/environment/・1回目）
+  - 「営業利益率 20.9％ 20.8％ +0.1pt ー」（https://n-p-d.co.jp/wp-content/uploads/2026/09/2026%E5%B9%B47%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf・2回目）
+  - 「営業利益率20.9%を維持し、二桁増収増益を達成」（https://n-p-d.co.jp/wp-content/uploads/2026/09/2026%E5%B9%B47%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf・2回目）
+  - 「替駐車場の提供等、両社の強みを活かしたサービスを拡張」（https://n-p-d.co.jp/wp-content/uploads/2026/09/2026%E5%B9%B47%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf・2回目）
+  - 「✓ 新たな収益機会を創出し、売上高208億円、営業利益54億円、営業利益率26.0%を計画」（https://n-p-d.co.jp/wp-content/uploads/2026/09/2026%E5%B9%B47%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf・2回目）
+  - 「✓ インバウンド等の顧客基盤の拡大を進め、売上高133億円、営業利益30億、営業利益率22.5%を計画」（https://n-p-d.co.jp/wp-content/uploads/2026/09/2026%E5%B9%B47%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf・2回目）
+  - 「✓ 各エリアでの収益力向上により、売上高107億円、営業利益20.5億円、営業利益率19.2%を計画」（https://n-p-d.co.jp/wp-content/uploads/2026/09/2026%E5%B9%B47%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf・2回目）
+  - 「✓ 全セグメントで増収増益を計画し、営業利益率は21.9%へ向上」（https://n-p-d.co.jp/wp-content/uploads/2026/09/2026%E5%B9%B47%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf・2回目）
+  - 「（カッコ内：連結営業利益率）」（https://n-p-d.co.jp/wp-content/uploads/2026/09/2026%E5%B9%B47%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf・2回目）
+  - 「材教育体制を強みに、新規案件の獲得を進めました」（https://n-p-d.co.jp/wp-content/uploads/2026/09/tanshin_2609.pdf・2回目）
+  - 「ティ、フォトスポット及び散歩道等を整備することで、当事業が強みとする「ペットフレンドリーリゾート」とし」（https://n-p-d.co.jp/wp-content/uploads/2026/09/tanshin_2609.pdf・2回目）
+  - 「両社の強みを活かしたサービスの拡充を進めます」（https://n-p-d.co.jp/wp-content/uploads/2026/09/tanshin_2609.pdf・2回目）
+- 沿革：
+  - 「2010年、タイに初の海外現地法人を設立」（https://n-p-d.co.jp/・1回目）
+  - 「2026年(令和8年)7月期 会社説明資料を発表いたしました」（https://n-p-d.co.jp/ir/・1回目）
+  - 「2026年(令和8年)7月期 決算説明会資料を発表いたしました」（https://n-p-d.co.jp/ir/・1回目）
+  - 「2026年７月期決算短信〔日本基準〕（連結）」（https://n-p-d.co.jp/ir/・1回目）
+  - 「2026年(令和8年)7月期3Q 決算説明会資料を発表いたしました」（https://n-p-d.co.jp/ir/・1回目）
+  - 「2026年7月期第3四半期(中間期)決算短信〔日本基準〕(連結)」（https://n-p-d.co.jp/ir/・1回目）
+  - 「2026年7月期半期報告書を発表いたしました」（https://n-p-d.co.jp/ir/・1回目）
+  - 「2026年(令和8年)7月期 中間 アナリスト・機関投資家向け決算説明会資料を発表いたしました」（https://n-p-d.co.jp/ir/・1回目）
+  - 「2026年７月期第２四半期（中間期）決算短信〔日本基準〕(連結)」（https://n-p-d.co.jp/ir/・1回目）
+  - 「2026年７月期第１四半期決算短信〔日本基準〕(連結)」（https://n-p-d.co.jp/ir/・1回目）
+  - 「2025年(令和7年)7月期アナリスト・機関投資家向け決算説明会資料を発表いたしました」（https://n-p-d.co.jp/ir/・1回目）
+  - 「2025年(令和7年)7月期 会社説明資料を発表いたしました」（https://n-p-d.co.jp/ir/・1回目）
+- 検索結果の抜粋：
+  - 「駐車場 ・不動産事業 | サービス一覧 | 駐車場 の運営、管理 — 駐車場 ・不動産事業 | サービス一覧 | 駐車場 の運営、管理 日本駐車場開発株式会社 https://n-p-d.co.jp > service > parking」（https://n-p-d.co.jp/service/parking/・3回目）
+  - 「2024年7月期 決 算 説 明 会 - 日本駐車場開発 — 2024年7月期 決 算 説 明 会 - 日本駐車場開発 日本駐車場開発株式会社 PDF https://n-p-d.co.jp > wp-content > uploads > 2024/09」（https://n-p-d.co.jp/wp-content/uploads/2024/09/explain_202409_4Q.pdf・3回目）
+  - 「日本駐車場開発 、非効率性の改善で ビジネス チャンスを見いだす — 日本駐車場開発 、非効率性の改善で ビジネス チャンスを見いだす zakⅡ https://www.zakzak.co.jp > 経済・マネー > 株式・投資」（https://www.zakzak.co.jp/article/20200709-LX2I4LN2YVNOXJ2YUNGEV2GOFM/・3回目）
+  - 「日本駐車場開発 株式会社の事業とカルチャー - Wantedly — 日本駐車場開発 株式会社の事業とカルチャー - Wantedly Wantedly https://www.wantedly.com > ... > 日本駐車場開発株式会社」（https://www.wantedly.com/companies/n-p-d2/about・3回目）
+  - 「新規事業 | サービス一覧 | 駐車場 の運営、管理 — 新規事業 | サービス一覧 | 駐車場 の運営、管理 日本駐車場開発株式会社 https://n-p-d.co.jp > service > new_business」（https://n-p-d.co.jp/service/new_business/・3回目）
+  - 「事業報告書・ 説明 会 資料 | IRトピックス | IR情報 | 駐車場 の運営 — 事業報告書・ 説明 会 資料 | IRトピックス | IR情報 | 駐車場 の運営 日本駐車場開発株式会社 https://n-p-d.co.jp > report」（https://n-p-d.co.jp/ir/report/・3回目）
+  - 「IRトピックス | IR情報 | 駐車場 の運営、管理 — IRトピックス | IR情報 | 駐車場 の運営、管理 日本駐車場開発株式会社 https://n-p-d.co.jp > ...」（https://n-p-d.co.jp/ir/・3回目）
+  - 「【 日本駐車場開発 】[2353]IR情報 中期経営計画や 決算 短信 — 【 日本駐車場開発 】[2353]IR情報 中期経営計画や 決算 短信 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo」（https://www.nikkei.com/nkd/company/kigyo/?scode=2353・3回目）
+  - 「日本駐車場開発 【2353】の最新 決算 発表、業績修正 - 株探 — 日本駐車場開発 【2353】の最新 決算 発表、業績修正 - 株探 株探 https://kabutan.jp > 日本駐車場開発 (2353) > 決算」（https://kabutan.jp/stock/finance?code=2353・3回目）
+  - 「2025年(令和7年)7月期アナリスト・機関投資家向け 決算説明 会 ... — 2025年(令和7年)7月期アナリスト・機関投資家向け 決算説明 会 ... 日本駐車場開発株式会社 https://n-p-d.co.jp > press > press2026 > post_1923」（https://n-p-d.co.jp/release/press/press2026/post_1923/・3回目）
+  - 「日本駐車場開発（2353）の事業内容、事業の状況や経営戦略、事業等の... — 本ページでは、有価証券報告書記載の日本駐車場開発の事業内容、事業の状況や経営指針、事業のリスクなどについて紹介しています。 最新の経営戦略、ビジネスモデル、財務状況、および将来の展望を含む包括的な情報をご提供します。」（https://www.kabutore.biz/genzaikabuka/jigyo.html?code=2353・3回目）
+  - 「2353 日本駐車場開発 | 事業内容 - IR BANK — 煩わしい契約業務に関しても当社グループが代行しております。 また、インターネット上での駐車場紹介サービスも行っており、一般ユーザーが使用目的に応じた駐車場の検索ができるよう、情報整備を行っております。」（https://irbank.net/E05327/business・3回目）
+
+## 日産化学
+- 公式URL：https://www.nissanchem.co.jp/（search:yahoo_jp:日産化学）
+- 設立：1887年（明治20年）（https://www.nissanchem.co.jp/profile/corporate.html・1回目）
+- 従業員数：連結：3,411名 単体：2,107名 ※2026年3月現在（https://www.nissanchem.co.jp/profile/corporate.html・1回目）
+- 売上高：69,871 78,792 +8,921 69,100 +9,692（https://www.nissanchem.co.jp/ir_info/president.html・1回目）
+- 売上高：2,796 2,897（https://www.nissanchem.co.jp/ir_info/president.html・1回目）
+- ビジネスモデル：
+  - 「ビジネスモデルと競争優位性」（https://www.nissanchem.co.jp/ir_info/library/annual_report.html・1回目）
+- 誰に：
+  - 「誠実な企業風土が育む技術力で、お客様とともに未来を創ります」（https://www.nissanchem.co.jp/・1回目）
+  - 「ユーザーの高度な欲求に的を絞った製品の開発ーそれも、私たちの重要な使命と考えます」（https://www.nissanchem.co.jp/・1回目）
+  - 「日産化学取引先持株会」（https://www.nissanchem.co.jp/ir_info/stock/stockholder.html・1回目）
+- 何を：
+  - 「当サイトでは、サイトのサービス・利便性向上をご提供するため、クッキーを利用しています」（https://www.nissanchem.co.jp/・1回目）
+  - 「事業・製品トップ」（https://www.nissanchem.co.jp/・1回目）
+  - 「環境配慮型製品・サービスの提供」（https://www.nissanchem.co.jp/・1回目）
+  - 「製品の品質向上」（https://www.nissanchem.co.jp/・1回目）
+  - 「製品情報検索」（https://www.nissanchem.co.jp/・1回目）
+  - 「製品分野で探す」（https://www.nissanchem.co.jp/・1回目）
+  - 「アンモニア系製品」（https://www.nissanchem.co.jp/・1回目）
+  - 「プール、浄化槽、環境化学品関連製品」（https://www.nissanchem.co.jp/・1回目）
+  - 「環境化学品関連製品」（https://www.nissanchem.co.jp/・1回目）
+  - 「浄化槽、環境化学品関連製品」（https://www.nissanchem.co.jp/・1回目）
+  - 「ユーザーの高度な欲求に的を絞った製品の開発ーそれも、私たちの重要な使命と考えます」（https://www.nissanchem.co.jp/・1回目）
+  - 「当社には、どのような製品、特徴があるのか、」（https://www.nissanchem.co.jp/・1回目）
+- どうやって売るか：
+  - 「会社紹介冊子、動画 等」（https://www.nissanchem.co.jp/・1回目）
+  - 「会社紹介冊子」（https://www.nissanchem.co.jp/・1回目）
+  - 「推進体制、取り組みなどをご紹介します」（https://www.nissanchem.co.jp/・1回目）
+  - 「6つのポイントをご紹介いたします」（https://www.nissanchem.co.jp/・1回目）
+  - 「無機コロイド材料のご紹介」（https://www.nissanchem.co.jp/・1回目）
+  - 「会社紹介冊子、動画 等」（https://www.nissanchem.co.jp/profile/corporate.html・1回目）
+  - 「会社紹介冊子」（https://www.nissanchem.co.jp/profile/corporate.html・1回目）
+  - 「会社紹介冊子、動画 等」（https://www.nissanchem.co.jp/profile/history.html・1回目）
+  - 「会社紹介冊子」（https://www.nissanchem.co.jp/profile/history.html・1回目）
+  - 「会社紹介冊子、動画 等」（https://www.nissanchem.co.jp/ir_info/index.html・1回目）
+  - 「会社紹介冊子」（https://www.nissanchem.co.jp/ir_info/index.html・1回目）
+  - 「会社紹介映像（17:18）」（https://www.nissanchem.co.jp/ir_info/index.html・1回目）
+- お金の形：
+  - 「日産化学とAxcelead DDP、DNAコード化ライブラリー（DEL）に関するライセンス契約を締結」（https://www.nissanchem.co.jp/・1回目）
+  - 「住友化学、ライセンス・触媒を一体運営」（https://chemicaldaily.com/archives/867164・3回目）
+- 売上構成：
+  - 「当社グループの2026年度第1四半期実績につきまして、機能性材料セグメントは、半導体材料が好調に推移し、大幅な増収となりました」（https://www.nissanchem.co.jp/ir_info/president.html・1回目）
+  - 「農業化学品セグメントは、ほぼ前年並みの売上高となりました」（https://www.nissanchem.co.jp/ir_info/president.html・1回目）
+  - 「化学品セグメントは、基礎化学品、ファインケミカルともに増収となりました」（https://www.nissanchem.co.jp/ir_info/president.html・1回目）
+  - 「ヘルスケアセグメントは、増収となりました」（https://www.nissanchem.co.jp/ir_info/president.html・1回目）
+  - 「半導体をはじめ、成長が見込まれるセグメントへM&Aを含めて経営資源を集中投下する一方で、コストダウンおよび低収益製品を持つセグメントの構造改革に積極的に取り組む」（https://www.nissanchem.co.jp/ir_info/president.html・1回目）
+  - 「セグメント(売上・営業利益)」（https://www.nissanchem.co.jp/ir_info/business/highlight.html・1回目）
+  - 「セグメント(資産・ROA)」（https://www.nissanchem.co.jp/ir_info/business/highlight.html・1回目）
+  - 「事業セグメント」（https://www.nissanchem.co.jp/ir_info/library/annual_report.html・1回目）
+- 利益の源泉：
+  - 「ビジネスモデルと競争優位性」（https://www.nissanchem.co.jp/ir_info/library/annual_report.html・1回目）
+  - 「日産化学・木下会長（下）高収益もまだ一流に非ず : 化学工業日報 電子版」（https://chemicaldaily.com/archives/867164・3回目）
+  - 「日産化学・木下会長（下）高収益もまだ一流に非ず」（https://chemicaldaily.com/archives/867164・3回目）
+- 沿革：
+  - 「2026年10月09日」（https://www.nissanchem.co.jp/・1回目）
+  - 「2026年10月07日」（https://www.nissanchem.co.jp/・1回目）
+  - 「2026年10月01日」（https://www.nissanchem.co.jp/・1回目）
+  - 「2026年08月25日」（https://www.nissanchem.co.jp/・1回目）
+  - 「令和8年熊本地震の被災者のみなさまへの支援について」（https://www.nissanchem.co.jp/・1回目）
+  - 「2026年08月17日」（https://www.nissanchem.co.jp/・1回目）
+  - 「2026年08月05日」（https://www.nissanchem.co.jp/・1回目）
+  - 「2026年07月16日」（https://www.nissanchem.co.jp/・1回目）
+  - 「2026年06月01日」（https://www.nissanchem.co.jp/・1回目）
+  - 「2026年02月24日」（https://www.nissanchem.co.jp/・1回目）
+  - 「2025年12月02日」（https://www.nissanchem.co.jp/・1回目）
+  - 「2025年10月17日」（https://www.nissanchem.co.jp/・1回目）
+- 検索結果の抜粋：
+  - 「統合レポート 2025 - 日産化学 — 統合レポート 2025 - 日産化学 日産化学 PDF https://www.nissanchem.co.jp > ir_info > archive」（https://www.nissanchem.co.jp/ir_info/archive/ar/ar2025.pdf・3回目）
+  - 「日産化学 — 日産化学 日産化学 https://www.nissanchem.co.jp」（https://www.nissanchem.co.jp/・3回目）
+  - 「【超・深掘り企業分析】 日産化学 (4021)はなぜ"高収益"を維持 ... — 【超・深掘り企業分析】 日産化学 (4021)はなぜ"高収益"を維持 ... note https://note.com > ビジネス > ビジネス全般」（https://note.com/tatsuya_sabato/n/ne0a6f387976c・3回目）
+  - 「業績ハイライト - 日産化学/IR情報 — 業績ハイライト - 日産化学/IR情報 日産化学 https://www.nissanchem.co.jp > business > highlight」（https://www.nissanchem.co.jp/ir_info/business/highlight.html・3回目）
+  - 「CFOメッセージ - IR情報 - 日産化学 — CFOメッセージ - IR情報 - 日産化学 日産化学 https://www.nissanchem.co.jp > library > message_cfo」（https://www.nissanchem.co.jp/ir_info/library/message_cfo.html・3回目）
+  - 「決算短信・ 決算説明資料 - IR情報 - 日産化学/IR情報 — 決算短信・ 決算説明資料 - IR情報 - 日産化学/IR情報 日産化学 https://www.nissanchem.co.jp > library > financial_report」（https://www.nissanchem.co.jp/ir_info/library/financial_report.html・3回目）
+  - 「IR情報 - 日産化学 — IR情報 - 日産化学 日産化学 https://www.nissanchem.co.jp > ir_info」（https://www.nissanchem.co.jp/ir_info/・3回目）
+  - 「IRカレンダー - 日産化学 — IRカレンダー - 日産化学 日産化学 https://www.nissanchem.co.jp > calendar > calendar」（https://www.nissanchem.co.jp/ir_info/calendar/calendar.html・3回目）
+  - 「有価証券報告書等 - IR情報 - 日産化学 — 有価証券報告書等 - IR情報 - 日産化学 日産化学 https://www.nissanchem.co.jp > ir_info > library > securities」（https://www.nissanchem.co.jp/ir_info/library/securities.html・3回目）
+  - 「個人投資家向け 説明 会 資料 - 日産化学/IR情報 — 個人投資家向け 説明 会 資料 - 日産化学/IR情報 日産化学 https://www.nissanchem.co.jp > library > private_investors」（https://www.nissanchem.co.jp/ir_info/library/private_investors.html・3回目）
+  - 「組織 - 日産化学 — 組織 - 日産化学 日産化学 https://www.nissanchem.co.jp > profile > soshiki」（https://www.nissanchem.co.jp/profile/soshiki.html・3回目）
+  - 「会社情報 - 日産化学 — 会社情報 - 日産化学 日産化学 https://www.nissanchem.co.jp > profile」（https://www.nissanchem.co.jp/profile/・3回目）
+- 事業内容：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部1頁・検索5回）
+
 ## 日精エー・エス・ビー機械
 - 公式URL：https://www.nisseiasb.co.jp/（search:yahoo_jp:日精エー・エス・ビー機械）
 - 設立：1978年 11月8日（https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B2%BE%E3%82%A8%E3%83%BC%E3%83%BB%E3%82%A8%E3%82%B9%E3%83%BB%E3%83%93%E3%83%BC%E6%A9%9F%E6%A2%B0・3回目）
@@ -17589,6 +26446,226 @@
   - 「藤原誠氏の経歴｜日精エー・エス・ビー機械の歴代社長 — Oct 26, 2026 · 日精エー・エス・ビー機械（社長）藤原誠氏。就任直前の2023年9月期は売上高348億円・営業利益72億円で、2021年9月期の359億円・87億円を下回っていた。」（https://the-shashi.com/tse/6284/executives/ceo/fujiwara-makoto/・3回目）
 - ビジネスモデル：記載なし（3回確認済み：公式18頁／PDF・画像0件／外部6頁・検索5回）
 - 売上構成：記載なし（3回確認済み：公式18頁／PDF・画像0件／外部6頁・検索5回）
+
+## 日進工具
+- 公式URL：特定できず（not_found）
+- 従業員数：連結 364人・単体 238人（https://zukaikeizai.com/kaisha/6157/・3回目）
+- ビジネスモデル：
+  - 「日進工具のビジネスモデルと成長戦略を徹底解説 | チームマイクの企業分析」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「日進工具のビジネスモデルと成長戦略を徹底解説」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「ビジネスモデルやIR資料を活用しながら、どのように新技術を取り入れ、需要を取り込んでいくのかに注目が集まっています」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「株式会社やまびこのビジネスモデルを徹底解説と成長戦略の魅力」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「ワイエイシイホールディングスのビジネスモデルに迫る 成長戦略が明らかに」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「株式会社ホシザキの魅力と成長戦略を徹底解説 ビジネスモデルが生む強みとは」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「株式会社日本エアーテックの魅力に迫る ビジネスモデルから見る成長戦略」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「株式会社ＰＥＧＡＳＵＳのビジネスモデルと成長戦略の魅力」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「株式会社太陽工機が描く成長戦略と魅力的なビジネスモデル」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「高精度が生む信頼と成長 株式会社和井田製作所のビジネスモデルを徹底解説」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「日本ドライケミカル株式会社の『ビジネスモデル』と圧倒的競争力を解」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+- 誰に：
+  - 「日進工具の製品は耐摩耗性や切削性能に優れており、長い使用寿命と高い加工精度を実現することでユーザーのコスト削減にも貢献しています」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「同社の主要活動は製品開発、製造、販売、そして顧客企業への技術サポートです」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「高精度な製品を提供し続けるためには継続的な研究開発が必須であり、顧客からの意見を素早くフィードバックして形状設計や材料選定に反映する仕組みが必要だからです」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「代理店を通じて国内外のさまざまな企業に製品を届ける一方、オンラインサイトからの注文によって少数のユーザーにも対応できるのが特長です」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「多様化する顧客ニーズに合わせて販売経路を増やし、それぞれの顧客が求める購入方法を選べるようにした結果です」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「顧客との関係」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「単に製品を売るだけでなく、顧客の課題に応じて最適な製品や切削条件などのアドバイスも行い、長期的な関係を築いているのが特長です」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「精密加工分野の顧客は道具を使って初めて成果が出るため、工具の性能だけでなく使い方や応用技術も重要視します」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「日進工具が専門知識を惜しまず提供することで顧客の満足度が上がり、リピート購入や新製品の導入がスムーズに行われる好循環を生み出しています」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「顧客セグメント」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「顧客セグメントは、自動車や航空機、電子部品、医療機器などの精密加工を必要とする製造業者です」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「日進工具の自己強化ループは、高品質な製品を提供することで顧客の信頼を得て、そのフィードバックを次の製品開発に活かす仕組みが特徴です」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+- 何を：
+  - 「この業績結果は、主要市場である自動車関連における電子化・電動化に伴う精密金型需要の底堅い推移に加え、半導体製造装置や電子部品分野向けの高精度・長寿命な小径エンドミルの需要が回復基調を辿り、高付加価値製品の出荷が順調に進んだことによるものです」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「さらに、原材料費や光熱費などのコスト高騰に対して進めてきた製品価格への適切な反映や、新社屋工場をはじめとする最新設備の活用による生産工程の自動化・効率化に伴う原価率の抑制、ならびに全社的な費用コントロールが奏功し、大幅な利益率の改善と業績拡大に大きく寄与しました」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「特にミクロン単位の精度が求められる製造現場では、わずかな誤差でも生産効率や製品品質に大きな影響が出ます」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「日進工具の製品は耐摩耗性や切削性能に優れており、長い使用寿命と高い加工精度を実現することでユーザーのコスト削減にも貢献しています」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「素材の選定から仕上げ工程までを徹底し、より長く使えて精度を保てる製品づくりにこだわってきた結果、信頼度の高い価値提案が可能になりました」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「同社の主要活動は製品開発、製造、販売、そして顧客企業への技術サポートです」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「研究開発部門は新素材の調達方法やコーティング技術、刃先形状の改善などを絶えず行い、さらに製造部門は高精度マシンを活用して安定した品質の製品を生み出しています」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「販売では代理店やオンラインも活用し、幅広い業種へ製品を届けています」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「高精度な製品を提供し続けるためには継続的な研究開発が必須であり、顧客からの意見を素早くフィードバックして形状設計や材料選定に反映する仕組みが必要だからです」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「そうした仕組みを整えることで市場の変化にも柔軟に対応し、需要にマッチした製品を供給できるようになっています」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「さらに製品開発に携わる技術者たちは経験豊富で、厳密な品質管理のノウハウを蓄積しています」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「日進工具の製品特性が優れていても、素材の供給が不安定では生産計画を立てられません」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+- どうやって売るか：
+  - 「販売では代理店やオンラインも活用し、幅広い業種へ製品を届けています」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「主なパートナーとしては、原材料を安定供給する素材サプライヤーや世界各地の販売代理店などが挙げられます」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「高品質な原料確保や最新技術の情報交換などがパートナーシップのメリットです」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「また海外など広範囲に製品を届けるためには、現地の代理店のネットワークを活用することが必要ですです」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「日進工具は自社での直接販売だけでなく、販売代理店やオンラインの受注など多様なチャネルを活用しています」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「代理店を通じて国内外のさまざまな企業に製品を届ける一方、オンラインサイトからの注文によって少数のユーザーにも対応できるのが特長です」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「代理店との連携によって専門的な技術サポートを提供することで、より深い信頼を築くことにもつながっています」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「製品は代理店と子会社を通じて売る」（https://zukaikeizai.com/kaisha/6157/・3回目）
+  - 「客は工作機械で金属を削る工場と、その工具を扱う代理店だ」（https://zukaikeizai.com/kaisha/6157/・3回目）
+  - 「代理店を通じて売る形なので、代理店の販売が販路を左右する」（https://zukaikeizai.com/kaisha/6157/・3回目）
+  - 「代理店の販売」（https://zukaikeizai.com/kaisha/6157/・3回目）
+- お金の形：
+  - 「単価の高い高精度品も取り揃えているため、リピート率が高いと大きな収益が期待できます」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+- 売上構成：
+  - 「顧客セグメント」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「顧客セグメントは、自動車や航空機、電子部品、医療機器などの精密加工を必要とする製造業者です」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「精密加工のニーズは時代とともに多様化するため、それに対応できるようセグメントを拡大しているのです」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「分類は提供物で分け、会計セグメントの分割ではない」（https://zukaikeizai.com/kaisha/6157/・3回目）
+  - 「セグメント表なし（単一セグメント）」（https://zukaikeizai.com/kaisha/6157/・3回目）
+- 利益の源泉：
+  - 「特に刃径1mm以下の微細・超小径エンドミル分野において国内トップクラスの市場シェアと圧倒的な技術力を誇り、独自の超硬母材・コーティング技術と高度な刃先研磨技術を強みとして、世界中の先進的な精密モノづくり現場における超精密加工と生産性向上を足元から力強く支えています」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「技術革新が激しい分野では常に新しい切削技術やコーティング技術が求められるため、研究開発力が高い同社は大きな強みを持っています」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「株式会社ホシザキの魅力と成長戦略を徹底解説 ビジネスモデルが生む強みとは」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「営業利益率の推移」（https://zukaikeizai.com/kaisha/6157/・3回目）
+  - 「日進工具（6157）：営業利益率の推移」（https://zukaikeizai.com/kaisha/6157/・3回目）
+  - 「営業利益率21.1%は、図鑑にある「機械」の会社269社の中で上から11番目」（https://zukaikeizai.com/kaisha/6157/・3回目）
+- 沿革：
+  - 「2024年3月期の配当金は1株当たり20円を予定しており、2025年2月18日時点での株価は1株当たり753円となっています」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「2026年8月」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「2026年7月」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「2026年6月」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「2026年5月」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「2026年4月」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「2026年3月」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「2026年2月」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「2026年1月」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「2025年12月」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「2025年11月」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+  - 「2025年10月」（https://consovation.com/%E6%97%A5%E9%80%B2%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC/・3回目）
+- 検索結果の抜粋：
+  - 「日進工具のビジネスモデルと成長戦略を徹底解説 | チームマイクの企業... — Feb 18, 2025 · ビジネスモデルやIR資料を活用しながら、どのように新技術を取り入れ、需要を取り込んでいくのかに注目が集まっています。 優れた加工精度を武器にしつつ、市場変化を先読みして次の一手を打てるかが日進工具の未来を大きく左右するといえるでしょう。」（https://consovation.com/日進工具のビジネスモデルと成長戦略を徹底解説/・3回目）
+  - 「アナリストレポート | 日進工具株式会社 - NS TOOL — NS TOOL オリジナルコーティングの特長 NS TOOL エンドミルの特長 カタログ 事例・技術情報 加工事例 技術情報 会社情報 会社概要 沿革 アクセス 環境方針 企業行動憲章 一般事業主行動計画 日進工具の取り組み グループ企業 日進工具のサステナビリティ 当社 ...」（https://www.ns-tool.com/ja/ir/ir_library/analyst_report/・3回目）
+  - 「【企業研究】日進工具の業績推移から中長期の経営戦略まで就活生向け... — Jun 23, 2026 · 日進工具株式会社（6157）の企業研究。売上・利益・年収・人的資本・有価証券報告書から将来性・財務健康度・就職偏差値 ...」（https://kigyo-scope.jp/company/6157/・3回目）
+  - 「6157 日進工具 - belletk.com — これを継続的に削減していく。 中期的には、エネルギー効率の向上に向けて、さらに新しい仕組みを構築していくことになろう。 2024年のビジネスレポート(統合報告書)では、日進工具の価値創造プロセスを多面的に取り上げている。」（https://www.belletk.com/niltusinnkougu202411.pdf・3回目）
+  - 「日進工具 (6157) の企業概要・業績・財務・IR資料｜CREX経済データプ... — 日進工具（6157・機械）の最新決算サマリ・売上推移・財務指標・経営戦略をAIが構造化要約。投資家・就活生・業界研究向けの企業データプラットフォーム。」（https://www.crex-data.com/company/6157・3回目）
+  - 「決算説明資料 | 日進工具株式会社 - NS TOOL — NS TOOL オリジナルコーティングの特長 NS TOOL エンドミルの特長 カタログ 事例・技術情報 加工事例 技術情報 会社情報 会社概要 沿革 アクセス 環境方針 企業行動憲章 一般事業主行動計画 日進工具の取り組み グループ企業 日進工具のサステナビリティ 当社 ...」（https://www.ns-tool.com/ja/ir/ir_library/settlement_doc/・3回目）
+  - 「決算短信 | IR情報 | 日進工具株式会社 - NS TOOL — NS TOOL オリジナルコーティングの特長 NS TOOL エンドミルの特長 カタログ 事例・技術情報 加工事例 技術情報 会社情報 会社概要 沿革 アクセス 環境方針 企業行動憲章 一般事業主行動計画 日進工具の取り組み グループ企業 日進工具のサステナビリティ 当社 ...」（https://www.ns-tool.com/ja/ir/ir_library/settlement/・3回目）
+  - 「日進工具株式会社 — 決算説明資料 - EDINET DB — 日進工具株式会社の決算説明資料を、AIで構造化されたセクション単位で表示。経営戦略・業績・ガバナンスなどテーマ ...」（https://edinetdb.jp/company/E01729/presentations/・3回目）
+  - 「日進工具（6157）のIR情報・決算資料 - IRBANK — Jul 31, 2026 · 日進工具（6157）のIR情報・適時開示一覧。決算発表、業績修正などの開示情報を掲載。」（https://irbank.net/6157/ir・3回目）
+  - 「日進工具株式会社（6157）適時開示・決算短信 一覧｜毎日更新｜Treela... — Jul 31, 2026 · 日進工具株式会社（6157）の適時開示 4 件：決算短信・決算説明会資料・業績予想修正など、TDnet から毎日収集。PDF 原文へのリンク付き。」（https://treelazy.com/stock-jp/6157/conference・3回目）
+  - 「日進工具（6157）は、何で稼いでいる？｜事業・業績5年・同業比較 | ... — Sep 19, 2026 · 日進工具（6157）は、何で稼いでいる？ 日進工具＝金属を削る小さな刃物を作り、減るたびに買われる会社。 2026年3月期の売上高は95億円。 事業の中身・誰に売る・業績5年・営業利益率の推移・他の会社と比べるとを、決算の数字と図で読む。」（https://zukaikeizai.com/kaisha/6157/・3回目）
+  - 「6157 日進工具 - belletk.com — 日進工具(NS TOOL) の仙台工場は、仙台から北へ20km、宮城県黒川郡の仙台北部中核工業団地の中にある。 全く知らない土地であったが、新天地のほうが新しい挑戦が出来ると考え、首都圏から工場を移設した。 エンドミルの生産は量産型であり、多品種でも ...」（https://www.belletk.com/niltusinnkougu202411.pdf・3回目）
+- 設立：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）
+- 事業内容：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）
+- 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）
+
+## 明豊ファシリティワークス
+- 公式URL：https://www.meiho.co.jp/（search:yahoo_jp:明豊ファシリティワークス）
+- 設立：1980年9月12日（https://www.meiho.co.jp/corporate/outline/・1回目）
+- 従業員数：274名 （2026年10月31日現在）　※役員および契約（常勤）社員等を含む（https://www.meiho.co.jp/corporate/outline/・1回目）
+- 事業内容：オフィスビル、庁舎、校舎、駅舎、工場、研究所、医療施設、データセンター等、各種施設及び働き方改革・オフィス移転プロジェクトにおける 「コンストラクションマネジメント」および「プロジェクトマネジメント」サービスの提供。 基本構想策定、基本計画、設計マネジメント、調達支援、コスト検証、施工マネジメント、移転支援まで あらゆるステージの様々なニーズに応える総合的ソリューションの提供。（https://www.meiho.co.jp/corporate/outline/・1回目）
+- ビジネスモデル：
+  - 「同社は、オフィスの新設や移転に伴う戦略策定から内装管理までを一貫して手がけるオフィス事業、生産施設や公共インフラなどの大規模建設プロジェクトを支えるＣＭ事業、企業の不動産戦略を最適化するＣＲＥＭ事業を構築しているほか、建設プロセス全体のＤＸを支援する事業を展開するなど、物販や工事請負を行わない純粋なフィービジネスモデルを徹底することで、業界において確固たる地位を築いています」（https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%98%8E%E8%B1%8A%E3%83%95%E3%82%A1%E3%82%B7%E3%83%AA%E3%83%86%E3%82%A3%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92/・3回目）
+  - 「インティメート・マージャーの魅力に迫る ビジネスモデルの全貌」（https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%98%8E%E8%B1%8A%E3%83%95%E3%82%A1%E3%82%B7%E3%83%AA%E3%83%86%E3%82%A3%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92/・3回目）
+  - 「ビジネスモデルやIR資料から読み解く成長戦略 株式会社イーサポートリンクの今を探る」（https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%98%8E%E8%B1%8A%E3%83%95%E3%82%A1%E3%82%B7%E3%83%AA%E3%83%86%E3%82%A3%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92/・3回目）
+  - 「博報堂ＤＹホールディングスのビジネスモデル解説と成長戦略」（https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%98%8E%E8%B1%8A%E3%83%95%E3%82%A1%E3%82%B7%E3%83%AA%E3%83%86%E3%82%A3%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92/・3回目）
+  - 「株式会社ぴあのビジネスモデルと成長戦略に迫る」（https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%98%8E%E8%B1%8A%E3%83%95%E3%82%A1%E3%82%B7%E3%83%AA%E3%83%86%E3%82%A3%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92/・3回目）
+  - 「【Atlas Technologies】Fintechのビジネスモデルが注目される成長戦略」（https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%98%8E%E8%B1%8A%E3%83%95%E3%82%A1%E3%82%B7%E3%83%AA%E3%83%86%E3%82%A3%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92/・3回目）
+  - 「環境事業の未来を変えるビジネスモデルを読み解く 株式会社環境管理センターの成長戦略」（https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%98%8E%E8%B1%8A%E3%83%95%E3%82%A1%E3%82%B7%E3%83%AA%E3%83%86%E3%82%A3%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92/・3回目）
+  - 「株式会社ニッソウの魅力に迫る 成長戦略とビジネスモデル」（https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%98%8E%E8%B1%8A%E3%83%95%E3%82%A1%E3%82%B7%E3%83%AA%E3%83%86%E3%82%A3%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92/・3回目）
+  - 「北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル」（https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%98%8E%E8%B1%8A%E3%83%95%E3%82%A1%E3%82%B7%E3%83%AA%E3%83%86%E3%82%A3%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92/・3回目）
+  - 「日本ドライケミカル株式会社の『ビジネスモデル』と圧倒的競争力を解」（https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%98%8E%E8%B1%8A%E3%83%95%E3%82%A1%E3%82%B7%E3%83%AA%E3%83%86%E3%82%A3%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92/・3回目）
+  - 「株式会社動力のIR資料から紐解く次世代へのビジネスモデルと成長戦略」（https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%98%8E%E8%B1%8A%E3%83%95%E3%82%A1%E3%82%B7%E3%83%AA%E3%83%86%E3%82%A3%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92/・3回目）
+  - 「日本ガイシの驚異的なビジネスモデルと次世代へ向けた成長戦略を徹底解説」（https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%98%8E%E8%B1%8A%E3%83%95%E3%82%A1%E3%82%B7%E3%83%AA%E3%83%86%E3%82%A3%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92/・3回目）
+- 誰に：
+  - 「お客様側に立つ」（https://www.meiho.co.jp/・1回目）
+  - 「明豊ファシリティワークスは、発注者支援型（CM方式）により、お客様とゴールを共有し、建設プロジェクトの課題解決を支援します」（https://www.meiho.co.jp/・1回目）
+  - 「建設プロジェクトのプロにお客様の課題・お悩みをご相談ください」（https://www.meiho.co.jp/・1回目）
+  - 「徹底してお客様側に立ち、オフィス移転・統廃合プロジェクト、公共施設、生産施設、研究施設、教育施設、医療施設、商業施設、ホテル等の建設・改修プロジェクトや設備更新プロジェクトをご支援します」（https://www.meiho.co.jp/・1回目）
+  - 「プロジェクト経験豊富な弊社スタッフが建設プロジェクトのノウハウを補完し、専門家としてサポートすることで、お客様組織の合意形成や円滑なプロジェクト推進を支援します」（https://www.meiho.co.jp/about/・1回目）
+  - 「同時にお客様の業務負荷を低減し、プロジェクト担当者様が、新しい施設の運用や本来のコア業務など、社内の業務に注力頂けます」（https://www.meiho.co.jp/about/・1回目）
+  - 「お客様側に立つ」（https://www.meiho.co.jp/about/・1回目）
+  - 「会社概要・主要取引先」（https://www.meiho.co.jp/about/・1回目）
+  - 「明豊ファシリティワークスの会社概要や主要取引先などをご確認いただけます」（https://www.meiho.co.jp/about/・1回目）
+  - 「徹底してお客様側に立ち、オフィス移転・統廃合プロジェクト、公共施設、生産施設、研究施設、教育施設、医療施設、商業施設、ホテル等の建設・改修プロジェクトや設備更新プロジェクトをご支援します」（https://www.meiho.co.jp/about/・1回目）
+  - 「徹底してお客様側に立ち、オフィス移転・統廃合プロジェクト、公共施設、生産施設、研究施設、教育施設、医療施設、商業施設、ホテル等の建設・改修プロジェクトや設備更新プロジェクトをご支援します」（https://www.meiho.co.jp/ir/・1回目）
+  - 「徹底してお客様側に立ち、オフィス移転・統廃合プロジェクト、公共施設、生産施設、研究施設、教育施設、医療施設、商業施設、ホテル等の建設・改修プロジェクトや設備更新プロジェクトをご支援します」（https://www.meiho.co.jp/notices/2026080702/・1回目）
+- 何を：
+  - 「明豊FWがご提供する発注者支援サービスについてご紹介します」（https://www.meiho.co.jp/・1回目）
+  - 「明豊FWの発注者支援サービスの事例についてご紹介します」（https://www.meiho.co.jp/・1回目）
+  - 「実績・事例集に東京エレクトロン テクノロジーソリューションズ株式会社 様を追加いたしました」（https://www.meiho.co.jp/・1回目）
+  - 「明豊FWが提供するサービス」（https://www.meiho.co.jp/・1回目）
+  - 「フリーダイヤルは当社サービスに関するお問い合わせ専用となっております」（https://www.meiho.co.jp/・1回目）
+  - 「サービス・実績」（https://www.meiho.co.jp/about/・1回目）
+  - 「取材を通じて明豊ファシリティワークスのサービス内容や導入事例を、クライアントへのインタビューをもとに、わかりやすくまとめていただいています」（https://www.meiho.co.jp/about/・1回目）
+  - 「フリーダイヤルは当社サービスに関するお問い合わせ専用となっております」（https://www.meiho.co.jp/about/・1回目）
+  - 「フリーダイヤルは当社サービスに関するお問い合わせ専用となっております」（https://www.meiho.co.jp/ir/・1回目）
+  - 「フリーダイヤルは当社サービスに関するお問い合わせ専用となっております」（https://www.meiho.co.jp/notices/2026080702/・1回目）
+  - 「フリーダイヤルは当社サービスに関するお問い合わせ専用となっております」（https://www.meiho.co.jp/notices/2026080701/・1回目）
+  - 「フリーダイヤルは当社サービスに関するお問い合わせ専用となっております」（https://www.meiho.co.jp/notices/post_143/・1回目）
+- どうやって売るか：
+  - 「明豊FWがご提供する発注者支援サービスについてご紹介します」（https://www.meiho.co.jp/・1回目）
+  - 「明豊FWの発注者支援サービスの事例についてご紹介します」（https://www.meiho.co.jp/・1回目）
+  - 「明豊ファシリティワークスによるコンストラクション・マネジメント方式の採用メリットをご紹介いたします」（https://www.meiho.co.jp/about/・1回目）
+  - 「お客さまからご連絡をいただき、私たちが建設プロジェクトの支援をさせていただくまでの流れをご紹介いたします」（https://www.meiho.co.jp/about/・1回目）
+  - 「明豊FWの紹介動画を見る」（https://www.meiho.co.jp/about/・1回目）
+  - 「「明豊ファシリティワークスのコンストラクション・マネジメント」を紹介する資料を作成いたしました」（https://www.meiho.co.jp/about/・1回目）
+  - 「ESG/SDGsに対する当社の取組みについてご紹介します」（https://www.meiho.co.jp/ir/・1回目）
+  - 「主な事業方式の紹介」（https://www.meiho.co.jp/service/schoolairconditioning/・1回目）
+  - 「明豊ファシリティワークスが支援した学校空調の導入・更新事例を紹介しています」（https://www.meiho.co.jp/service/schoolairconditioning/・1回目）
+  - 「学校空調導入・更新事例のご紹介はこちら」（https://www.meiho.co.jp/service/schoolairconditioning/・1回目）
+  - 「明豊FWの具体的な役割や、明豊FW採用のメリットにつきご紹介いたします」（https://www.meiho.co.jp/service/schoolairconditioning/・1回目）
+  - 「お客様からご連絡をいただき、私たちが建設プロジェクトの支援をさせていただくまでの流れをご紹介いたします」（https://www.meiho.co.jp/service/schoolairconditioning/・1回目）
+- お金の形：
+  - 「株式報酬型ストック・オプションの発行内容の確定に関するお知らせ」（https://www.meiho.co.jp/・1回目）
+  - 「株式報酬型ストック・オプション（新株予約権）の発行について」（https://www.meiho.co.jp/・1回目）
+  - 「株式報酬型ストック・オプションの発行内容の確定に関するお知らせ│お知らせ│明豊ファシリティワークスのコンストラクション・マネジメント」（https://www.meiho.co.jp/notices/post_143/・1回目）
+  - 「株式報酬型ストック・オプションの発行内容の確定に関するお知らせ」（https://www.meiho.co.jp/notices/post_143/・1回目）
+  - 「株式報酬型ストック・オプションの発行内容の確定に関するお知らせ」（https://www.meiho.co.jp/notices/post_142/・1回目）
+  - 「株式報酬型ストック・オプション（新株予約権）の発行について」（https://www.meiho.co.jp/notices/46_2/・1回目）
+  - 「株式報酬型ストック・オプション（新株予約権）の発行について│お知らせ│明豊ファシリティワークスのコンストラクション・マネジメント」（https://www.meiho.co.jp/notices/post_141/・1回目）
+  - 「株式報酬型ストック・オプション（新株予約権）の発行について」（https://www.meiho.co.jp/notices/post_141/・1回目）
+  - 「株式報酬型ストック・オプション（新株予約権）の発行について」（https://www.meiho.co.jp/notices/post_140/・1回目）
+  - 「株式報酬型ストック・オプションの発行内容の確定に関するお知らせ」（https://www.meiho.co.jp/ir/news/・1回目）
+  - 「株式報酬型ストック・オプション（新株予約権）の発行について」（https://www.meiho.co.jp/ir/news/・1回目）
+  - 「役員退職慰労金制度の廃止及びストック・オプション制度の導入について」（https://www.meiho.co.jp/ir/news/・1回目）
+- 売上構成：
+  - 「セグメント別の業績予想について、売上高、営業利益等の個別数字を用いたセグメント全体の進捗状況の説明情報」（https://www.meiho.co.jp/ir/disclosure/・1回目）
+  - 「当社の発表済み情報に関する説明（発注者支援事業の市況状況、公共民間投資・建設物価の動向、新セグメント発表、事業組織変更、値上げ等）」（https://www.meiho.co.jp/ir/disclosure/・1回目）
+  - 「事業セグメントの新設に関するお知らせ」（https://www.meiho.co.jp/ir/news/・1回目）
+  - 「2027年３月期 第１四半期 各セグメント状況」（https://www.meiho.co.jp/images/2026080704.pdf・2回目）
+  - 「（セグメント情報等の注記） …………………………………………………………………………………９」（https://www.meiho.co.jp/images/2026080703.pdf・2回目）
+  - 「各事業セグメントの業績は次のとおりです」（https://www.meiho.co.jp/images/2026080703.pdf・2回目）
+  - 「当社では、次の４つのセグメントを設けておりますが、自社開発したプロジェクト管理システム等の活用によって、」（https://www.meiho.co.jp/images/2026080703.pdf・2回目）
+  - 「顧客の期待に応えられる人材が所属セグメントに縛られることなくマルチにプロジェクトに対応することで、顧客満」（https://www.meiho.co.jp/images/2026080703.pdf・2回目）
+  - 「足度の向上、サービス品質の向上を実現し、セグメント間の負荷を調整し全体としての業務効率を向上させておりま」（https://www.meiho.co.jp/images/2026080703.pdf・2回目）
+  - 「（セグメント情報等の注記）」（https://www.meiho.co.jp/images/2026080703.pdf・2回目）
+  - 「【セグメント情報】」（https://www.meiho.co.jp/images/2026080703.pdf・2回目）
+  - 「１．報告セグメントごとの売上高及び利益又は損失の金額に関する情報」（https://www.meiho.co.jp/images/2026080703.pdf・2回目）
+- 利益の源泉：
+  - 「営業利益率（%） 25.7 26.0 ー 0.3pp」（https://www.meiho.co.jp/images/2026080704.pdf・2回目）
+  - 「- 一方、営業利益は、大型移転等当社の強みへの集中と社内の生産性向上によって、76百万円（同11.7%増）となりました」（https://www.meiho.co.jp/images/2026080704.pdf・2回目）
+  - 「野や当社独自の強みを発揮できる領域に経営資源を集中し、事業の付加価値向上を図ることで、更なる成長と収益」（https://www.meiho.co.jp/images/2026080703.pdf・2回目）
+  - 「当期純利益 生産性推移（1時間あたりの売上粗利益） 既存顧客からの受注割合（指標）（百万円） （％）」（https://www.meiho.co.jp/images/2026062406.pdf・2回目）
+  - 「明豊ファシリティワークス株式会社は、建設プロジェクトにおいて発注者の立場に立ち、設計や施工のプロセスを専門的に管理・支援するコンストラクション・マネジメント（ＣＭ方式）のリーディングカンパニーであり、独立中立なポジションからコスト、品質、工程を最適化する高度なマネジメント力を最大の強みとしています」（https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%98%8E%E8%B1%8A%E3%83%95%E3%82%A1%E3%82%B7%E3%83%AA%E3%83%86%E3%82%A3%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92/・3回目）
+  - 「収益性の高さも際立っており、2025年3月期の売上高総利益率は48.5パーセント、営業利益率は28.3パーセントという高水準を記録しています」（https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%98%8E%E8%B1%8A%E3%83%95%E3%82%A1%E3%82%B7%E3%83%AA%E3%83%86%E3%82%A3%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92/・3回目）
+  - 「そして、高利益率なピュアＣＭ案件が集積することで、2025年3月期時点で営業利益率28.3パーセントという安定した高収益基盤が確立されます」（https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%98%8E%E8%B1%8A%E3%83%95%E3%82%A1%E3%82%B7%E3%83%AA%E3%83%86%E3%82%A3%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92/・3回目）
+  - 「この計画において、2028年3月期の想定目標として売上高70億円以上、営業利益20億円以上という意欲的な数値を設定し、同時に営業利益率28パーセント以上、自己資本利益率20パーセント以上の維持を目指しています」（https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%98%8E%E8%B1%8A%E3%83%95%E3%82%A1%E3%82%B7%E3%83%AA%E3%83%86%E3%82%A3%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%82%92/・3回目）
+- 沿革：
+  - 「2027年3月期第１四半期 決算説明資料」（https://www.meiho.co.jp/・1回目）
+  - 「2027年3月期第１四半期決算短信〔日本基準〕（非連結）」（https://www.meiho.co.jp/・1回目）
+  - 「2026年3月期 BUSINESS REPORT（株主通信）」（https://www.meiho.co.jp/・1回目）
+  - 「2027年3月期第１四半期 決算説明資料│お知らせ│明豊ファシリティワークスのコンストラクション・マネジメント」（https://www.meiho.co.jp/notices/2026080702/・1回目）
+  - 「2027年3月期第１四半期 決算説明資料」（https://www.meiho.co.jp/notices/2026080702/・1回目）
+  - 「2026年08月07日」（https://www.meiho.co.jp/notices/2026080702/・1回目）
+  - 「2027年3月期第１四半期決算短信〔日本基準〕（非連結）」（https://www.meiho.co.jp/notices/2026080702/・1回目）
+  - 「2026年度一覧へ戻る」（https://www.meiho.co.jp/notices/2026080702/・1回目）
+  - 「2027年3月期第１四半期決算短信〔日本基準〕（非連結）│お知らせ│明豊ファシリティワークスのコンストラクション・マネジメント」（https://www.meiho.co.jp/notices/2026080701/・1回目）
+  - 「2027年3月期第１四半期決算短信〔日本基準〕（非連結）」（https://www.meiho.co.jp/notices/2026080701/・1回目）
+  - 「2026年08月07日」（https://www.meiho.co.jp/notices/2026080701/・1回目）
+  - 「2027年3月期第１四半期 決算説明資料」（https://www.meiho.co.jp/notices/2026080701/・1回目）
+- 検索結果の抜粋：
+  - 「株式会社明豊ファシリティワークスの成長戦略を解説 | チームマイクの... — Mar 7, 2025 · 明豊ファシリティワークスが顧客に提供する最大の価値は、建設工事における徹底したコストの透明化と、発注者である施主側の利益を第一に考えた中立的なプロジェクト管理です。」（https://consovation.com/株式会社明豊ファシリティワークスの成長戦略を/・3回目）
+  - 「会社案内｜明豊ファシリティワークスのコンストラクションマネジメン... — 明豊ファシリティワークスの会社案内ページです。 社長メッセージや会社概要、主要取引先、有資格者一覧、受賞歴、沿革、CSRへの取組み、アクセスなどをご紹介しています。」（https://meiho.co.jp/corporate/・3回目）
+  - 「明豊ファシリティワークス｜業績・成長戦略・投資ポイントまとめ - TO... — Oct 20, 2025 · 明豊ファシリティワークスは、発注者支援型のコンストラクション・マネジメント（CM）事業で業界をリード。 2025年3月期は17期連続の営業増益を達成し、公共施設や庁舎改修案件の拡大が業績を支える。」（https://toitoi-blog.com/meiho-facilityworks-1717/・3回目）
+  - 「明豊ファシリティワークス株式会社｜コンストラクションマネジメント... — Oct 20, 2026 · 私たちは、建設プロジェクトにおけるお客様の側に立つプロとして、プロジェクト期間中一貫して、「高品質」「適切なスケジュール」「最適なコスト」でお客様を支援いたします。 明豊FWは、独立資本のコンストラクション・マネジメント会社です。」（http://meiho.co.jp/・3回目）
+  - 「明豊ファシリティワークス — たな入居需要も発生する。こうした背景から、2027年3月期においても同社を取り巻く良好なビジネス環境は� 当金として計上している。同社は、顧客企業と工事事業者の間に立って専門的な見地から適正なコ」（https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/meihofacilityworks20260615.pdf・3回目）
+  - 「IRライブラリ│明豊ファシリティワークスのコンストラクション・マネジ... — 明豊ファシリティワークスのIRライブラリページです。 我々は、「フェアネス」と「透明性」を企業理念とし、プロジェクト期間中一貫して、 「高品質」「適切なスケジュール」「最適なコスト」でお客様のプロジェクトをご支援いたします。」（https://meiho.co.jp/ir/library/・3回目）
+  - 「明豊ファシリティワークス（1717）のIR情報・決算資料 | IRBANK — Aug 7, 2026 · 明豊ファシリティワークス（1717）のIR情報・適時開示一覧。決算発表、業績修正などの開示情報を掲載。」（https://irbank.net/1717/ir・3回目）
+  - 「明豊ファシリティワークスのIR資料 - 1717 / ｽﾀﾝﾀﾞｰﾄﾞ / サー... — Aug 7, 2026 · 明豊ファシリティワークス（1717 / ｽﾀﾝﾀﾞｰﾄﾞ / サービス業）のIR資料の一覧を表示しています。 有価証券報告書や決算短信、そしてTDnetで開示された適時開示資料をPDFでご覧になれます。」（https://www.buffett-code.com/company/1717/library・3回目）
+  - 「明豊ファシリティワークス株式会社（1717）適時開示・決算短信 一覧｜... — Aug 7, 2026 · 明豊ファシリティワークス株式会社（1717）の適時開示 1 件：決算短信・決算説明会資料・業績予想修正など、TDnet から毎日収集。 PDF 原文へのリンク付き。」（https://treelazy.com/stock-jp/1717/conference・3回目）
+  - 「決算説明会│明豊ファシリティワークスのコンストラクション・マネジメ... — 決算説明会2026年3月期決算説明会音声動画はこちら公開日2026年6月2日登壇者代表取締役社長大貫美関連資料決算説明会資料 ...」（https://www.meiho.co.jp/ir/presentation/・3回目）
+  - 「明豊ファシリティワークス株式会社｜コンストラクションマネジメント... — Oct 20, 2026 · コンストラクションマネジメントの明豊ファシリティワークス。 私たちは、建設プロジェクトにおけるお客様の側に立つプロとして、プロジェクト期間中一貫して、「高品質」「適切なスケジュール」「最適なコスト」でお客様を支援いたします。」（http://meiho.co.jp/・3回目）
+  - 「会社概要｜明豊ファシリティワークスのコンストラクションマネジメン... — 明豊ファシリティワークスの会社概要ページです。年商、資本金、役員一覧、従業員数、事業内容、設立年月日、所属団体 ...」（https://www.meiho.co.jp/corporate/outline/・3回目）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像9件／外部7頁・検索5回）
 
 ## 昭和真空
 - 公式URL：https://www.showashinku.co.jp/（search:yahoo_jp:昭和真空）
@@ -17980,6 +27057,32 @@
 - 売上高：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部2頁・検索5回）
 - 売上構成：記載なし（3回確認済み：公式25頁／PDF・画像8件／外部2頁・検索5回）
 
+## 東京地下鉄
+- 公式URL：https://www.mintetsu.or.jp/（search:ddgs:google:株式会社東京地下鉄）
+- 何を：
+  - 「～誰もが安心してご利用いただけるサービスを目指して～ 歩行訓練士を招いて視覚に障がいのあるお客さまのご案内に関する 研修を開催します」（https://www.mintetsu.or.jp/・1回目）
+- どうやって売るか：
+  - 「ご紹介の鉄道会社：」（https://www.mintetsu.or.jp/・1回目）
+  - 「民鉄各社紹介」（https://www.mintetsu.or.jp/・1回目）
+- 沿革：
+  - 「2026年度 過去最多の12駅でホームドア運用開始」（https://www.mintetsu.or.jp/・1回目）
+- 検索結果の抜粋：
+  - 「【 東京地下鉄 】[9023]IR情報 中期経営計画や 決算 短信 | 日経 ... — 【 東京地下鉄 】[9023]IR情報 中期経営計画や 決算 短信 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo」（https://www.nikkei.com/nkd/company/kigyo/?scode=9023・3回目）
+  - 「東京地下鉄 ：2027年3月期第2四半期 決算説明 会 資料 - Moomoo — 東京地下鉄 ：2027年3月期第2四半期 決算説明 会 資料 - Moomoo Moomoo https://www.moomoo.com > news > notice > materials-for...」（https://www.moomoo.com/ja/news/notice/1002956703/materials-for-the-second-quarter-earnings-presentation-for-the-fiscal・3回目）
+  - 「東京地下鉄 (9023) 東証プライム 決算 | マーケット情報 | 松井証券 — 東京地下鉄 (9023) 東証プライム 決算 | マーケット情報 | 松井証券 松井証券 https://finance.matsui.co.jp > ... > 東京地下鉄(9023)」（https://finance.matsui.co.jp/stock/9023/settlement/index・3回目）
+  - 「東京 地下鉄 路線図 2026｜東京メトロ・都営地下鉄・山手線 — 東京 地下鉄 路線図 2026｜東京メトロ・都営地下鉄・山手線 tokyo.metro-map.net https://tokyo.metro-map.net」（https://tokyo.metro-map.net/・3回目）
+  - 「【 東京地下鉄社長インタビュー 】東京メトロが成し遂げたい5 ... — 【 東京地下鉄社長インタビュー 】東京メトロが成し遂げたい5 ... Fujisan.co.jp https://www.fujisan.co.jp > trends > business」（https://www.fujisan.co.jp/trends/business/57921/・3回目）
+  - 「東京地下鉄 ［9023］IPO - YouTube — 東京地下鉄 ［9023］IPO - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=Q7Ab2tPs2RU・3回目）
+- 設立：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索6回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索6回）
+- 事業内容：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索6回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索6回）
+- ビジネスモデル：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索6回）
+- 誰に：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索6回）
+- お金の形：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索6回）
+- 売上構成：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索6回）
+- 利益の源泉：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索6回）
+
 ## 東京都競馬
 - 公式URL：https://tokyotokeiba.co.jp/（search:yahoo_jp:東京都競馬）
 - 設立：1949年（昭和24年）12月20日（https://tokyotokeiba.co.jp/company/overview/・1回目）
@@ -18176,6 +27279,111 @@
 - 売上高：記載なし（3回確認済み：公式25頁／PDF・画像2件／外部7頁・検索5回）
 - ビジネスモデル：記載なし（3回確認済み：公式25頁／PDF・画像2件／外部7頁・検索5回）
 - 利益の源泉：記載なし（3回確認済み：公式25頁／PDF・画像2件／外部7頁・検索5回）
+
+## 東洋証券
+- 公式URL：https://www.toyo-sec.co.jp/（search:yahoo_jp:東洋証券）
+- 設立：1934年 （ 昭和 9年） 4月1日 （廣島証券商事株式会社）（https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B4%8B%E8%A8%BC%E5%88%B8・3回目）
+- 従業員数：連結：687人 単独：673人 （2023年3月31日現在）（https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B4%8B%E8%A8%BC%E5%88%B8・3回目）
+- 事業内容：金融商品取引法に規定する金融商品取引業 他（https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B4%8B%E8%A8%BC%E5%88%B8・3回目）
+- 売上高：連結：83億41百万円 単独：82億27百万円 （2023年3月期）（https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B4%8B%E8%A8%BC%E5%88%B8・3回目）
+- ビジネスモデル：
+  - 「ビジネスモデルとサービス」（https://www.toyo-sec.co.jp/・1回目）
+  - 「ビジネスモデルとサービス」（https://www.toyo-sec.co.jp/first-investment/・1回目）
+  - 「ビジネスモデルとサービス」（https://www.toyo-sec.co.jp/first-investment/asset-management/・1回目）
+  - 「ビジネスモデルとサービス」（https://www.toyo-sec.co.jp/first-investment/stock/・1回目）
+  - 「ビジネスモデルとサービス」（https://www.toyo-sec.co.jp/first-investment/trust/・1回目）
+  - 「ビジネスモデルとサービス」（https://www.toyo-sec.co.jp/first-investment/bond/・1回目）
+  - 「ビジネスモデルとサービス」（https://www.toyo-sec.co.jp/first-investment/tsumitate/・1回目）
+  - 「ビジネスモデルとサービス」（https://www.toyo-sec.co.jp/product/bond/domestic/business/・1回目）
+  - 「ビジネスモデルとサービス」（https://www.toyo-sec.co.jp/ir/management-strategy/・1回目）
+  - 「ビジネスモデルとサービス」（https://www.toyo-sec.co.jp/company/history/・1回目）
+  - 「1951年12月から1953年5月までと、1955年4月から1956年9月までの2回にわたり、理事長に就任し、その間収益構造の改善を図る等取引所の発展に貢献した」（https://www.toyo-sec.co.jp/company/history/・1回目）
+  - 「経営基盤の強化により、東京および関東圏での顧客サービスの充実が可能となり、収益構造が大幅に向上した」（https://www.toyo-sec.co.jp/company/history/・1回目）
+- 誰に：
+  - 「顧客資産の分別管理に関する保証業務」（https://www.toyo-sec.co.jp/・1回目）
+  - 「本ウェブサイトでは、お客様の利便性向上、当社ウェブサイト／サービスの改善、および適切な情報提供のために、クッキーを使用して一定の情報を収集しています」（https://www.toyo-sec.co.jp/・1回目）
+  - 「顧客資産の分別管理に関する保証業務」（https://www.toyo-sec.co.jp/first-investment/・1回目）
+  - 「顧客資産の分別管理に関する保証業務」（https://www.toyo-sec.co.jp/first-investment/asset-management/・1回目）
+  - 「顧客資産の分別管理に関する保証業務」（https://www.toyo-sec.co.jp/first-investment/stock/・1回目）
+  - 「顧客資産の分別管理に関する保証業務」（https://www.toyo-sec.co.jp/first-investment/trust/・1回目）
+  - 「顧客資産の分別管理に関する保証業務」（https://www.toyo-sec.co.jp/first-investment/bond/・1回目）
+  - 「顧客資産の分別管理に関する保証業務」（https://www.toyo-sec.co.jp/first-investment/tsumitate/・1回目）
+  - 「顧客資産の分別管理に関する保証業務」（https://www.toyo-sec.co.jp/product/bond/domestic/business/・1回目）
+  - 「顧客資産の分別管理に関する保証業務」（https://www.toyo-sec.co.jp/ir/management-strategy/・1回目）
+  - 「顧客資産の分別管理に関する保証業務」（https://www.toyo-sec.co.jp/company/history/・1回目）
+  - 「廣島証券商事の営業形態は、一つには、創業者自らが陣頭に立ち、地元の名士・資産家等の懐に飛び込み、誠実な人柄と人懐っこい性格で顧客を魅了し、それを社員がフォローし実績を積み上げていくスタイルであった」（https://www.toyo-sec.co.jp/company/history/・1回目）
+- 何を：
+  - 「サービス案内」（https://www.toyo-sec.co.jp/・1回目）
+  - 「マルチチャネルサービス」（https://www.toyo-sec.co.jp/・1回目）
+  - 「ホームトレードサービス」（https://www.toyo-sec.co.jp/・1回目）
+  - 「各種サービス」（https://www.toyo-sec.co.jp/・1回目）
+  - 「相続関連サービス」（https://www.toyo-sec.co.jp/・1回目）
+  - 「株価照会サービス」（https://www.toyo-sec.co.jp/・1回目）
+  - 「ビジネスモデルとサービス」（https://www.toyo-sec.co.jp/・1回目）
+  - 「その他の商品」（https://www.toyo-sec.co.jp/・1回目）
+  - 「キャンペーン・サービス情報」（https://www.toyo-sec.co.jp/・1回目）
+  - 「株式・投信入庫サービス」（https://www.toyo-sec.co.jp/・1回目）
+  - 「金融商品仲介業（IFA）に関する連絡先」（https://www.toyo-sec.co.jp/・1回目）
+  - 「その他商品について」（https://www.toyo-sec.co.jp/・1回目）
+- どうやって売るか：
+  - 「ファンド紹介動画」（https://www.toyo-sec.co.jp/・1回目）
+  - 「IFAビジネス紹介動画」（https://www.toyo-sec.co.jp/・1回目）
+  - 「ファンド紹介動画」（https://www.toyo-sec.co.jp/first-investment/・1回目）
+  - 「IFAビジネス紹介動画」（https://www.toyo-sec.co.jp/first-investment/・1回目）
+  - 「信頼される資産運用のパートナーとして」（https://www.toyo-sec.co.jp/first-investment/・1回目）
+  - 「ファンド紹介動画」（https://www.toyo-sec.co.jp/first-investment/asset-management/・1回目）
+  - 「IFAビジネス紹介動画」（https://www.toyo-sec.co.jp/first-investment/asset-management/・1回目）
+  - 「「資産運用とは」でご紹介した「お金の色分け」ができたら、具体的に投資について考えていきます」（https://www.toyo-sec.co.jp/first-investment/asset-management/・1回目）
+  - 「適切なアドバイスをくれるパートナーがいれば、投資をスムーズに始められ、その後のフォローも受けることができます」（https://www.toyo-sec.co.jp/first-investment/asset-management/・1回目）
+  - 「投資のパートナーとして東洋証券がサポートして参ります」（https://www.toyo-sec.co.jp/first-investment/asset-management/・1回目）
+  - 「店舗一覧トップ」（https://www.toyo-sec.co.jp/first-investment/asset-management/・1回目）
+  - 「ファンド紹介動画」（https://www.toyo-sec.co.jp/first-investment/stock/・1回目）
+- お金の形：
+  - 「リスク・手数料等」（https://www.toyo-sec.co.jp/・1回目）
+  - 「各種手数料について」（https://www.toyo-sec.co.jp/・1回目）
+  - 「その他手数料」（https://www.toyo-sec.co.jp/・1回目）
+  - 「その他外国手数料」（https://www.toyo-sec.co.jp/・1回目）
+  - 「口座管理料、その他手数料」（https://www.toyo-sec.co.jp/・1回目）
+  - 「リスク・手数料等説明ページ」（https://www.toyo-sec.co.jp/・1回目）
+  - 「リスク・手数料説明ページ」（https://www.toyo-sec.co.jp/・1回目）
+  - 「リスク・手数料等」（https://www.toyo-sec.co.jp/first-investment/・1回目）
+  - 「各種手数料について」（https://www.toyo-sec.co.jp/first-investment/・1回目）
+  - 「その他手数料」（https://www.toyo-sec.co.jp/first-investment/・1回目）
+  - 「その他外国手数料」（https://www.toyo-sec.co.jp/first-investment/・1回目）
+  - 「口座管理料、その他手数料」（https://www.toyo-sec.co.jp/first-investment/・1回目）
+- 売上構成：
+  - 「主な事業セグメント」（https://finance.yahoo.co.jp/quote/8614.T/financials・3回目）
+- 利益の源泉：
+  - 「当社グループの中核事業である金融商品取引業は、インターネット取引専業証券やリテール営業中心の同業他社に加えて異業種からの参入及び業界再編等により、今後も厳しい競合が予想され、当社グループの競争優位性が維持できない場合、当社グループの財政状態及び経営成績に影響を及ぼす可能性があります」（https://www.toyo-sec.co.jp/ir/management-strategy/business-risk/・1回目）
+  - 「東洋証券の強み」（https://www.toyo-sec.co.jp/ir/investor/ataglance/・1回目）
+  - 「第三者機関による分析の結果、当社の強みとして、議長による適切な議事運営や、内部体制・内部通報制度等の基本的な体制が整備されている」（https://www.toyo-sec.co.jp/Portals/0/images/sustainability/governance/policy/cg/governance.pdf・2回目）
+  - 「齢、性別、国籍、キャリア背景、働き方などの違いを強みとして活かすことにより、金融業務」（https://www.toyo-sec.co.jp/Portals/0/images/sustainability/governance/policy/cg/governance.pdf・2回目）
+- 沿革：
+  - 「2026年10月27日」（https://www.toyo-sec.co.jp/・1回目）
+  - 「2026年10月22日」（https://www.toyo-sec.co.jp/・1回目）
+  - 「2026年10月21日」（https://www.toyo-sec.co.jp/・1回目）
+  - 「2026年10月20日」（https://www.toyo-sec.co.jp/・1回目）
+  - 「2026年09月29日」（https://www.toyo-sec.co.jp/・1回目）
+  - 「2026年09月25日」（https://www.toyo-sec.co.jp/・1回目）
+  - 「令和8年台風第25号に伴う災害に係る災害救助法の適用について」（https://www.toyo-sec.co.jp/・1回目）
+  - 「2026年09月17日」（https://www.toyo-sec.co.jp/・1回目）
+  - 「2026年07月21日」（https://www.toyo-sec.co.jp/・1回目）
+  - 「2026年07月08日」（https://www.toyo-sec.co.jp/・1回目）
+  - 「2026年06月18日」（https://www.toyo-sec.co.jp/・1回目）
+  - 「1916年創業」（https://www.toyo-sec.co.jp/first-investment/・1回目）
+- 検索結果の抜粋：
+  - 「東洋証券 - Wikipedia — 東洋証券株式会社 （とうようしょうけん）は、 東京都 中央区 八丁堀4-7-1に本店を置く日本の 証券会社。 アイザワ證券 、 岩井コスモ証券 、 丸三証券 、 水戸証券 、 いちよし証券 、 極東証券 と並ぶ、中堅証券会社に位置づけられる。」（https://ja.wikipedia.org/wiki/東洋証券・3回目）
+  - 「ビジネスモデルとサービス | 個人投資家の皆さまへ | 東洋証券株式会... — 東洋証券の事業 東洋証券のサービス 東洋証券の事業 ビジネスモデル 金融商品等を通じて、お客さま本位の経営を深化させる各種の改革・改善を継続し、お客さま満足度を高めるとともに、社会に貢献することによって事業拡大を図ります。 リテール部門 当社は、支店のあるそれぞれの地域に ...」（https://www.toyo-sec.co.jp/ir/investor/business-model/・3回目）
+  - 「東洋証券のビジネスモデルと成長戦略を徹底解説 | チームマイクの企業... — Feb 28, 2025 · 東洋証券の企業概要と最近の業績 東洋証券株式会社 【全体の業績】 東洋証券は、国内外の株式・投資信託等の取扱いをはじめとするリテール営業を中心に、幅広いコンサルティングやアセットマネジメント機能を提供する歴史ある独立系の総合証券会社です。特に中国・香港株式市場への深い ...」（https://consovation.com/東洋証券のビジネスモデルと成長戦略を徹底解説/・3回目）
+  - 「東洋証券（8614）の事業内容、事業の状況や経営戦略、事業等のリスク... — 3 【事業の内容】 東洋証券グループは、東洋証券及び子会社1社から構成されており、その主たる事業は、有価証券の売買等及び売買等の受託、有価証券の引受け及び売出し、有価証券の募集及び売出しの取扱い、その他の金融商品取引業であります。」（https://www.kabutore.biz/genzaikabuka/jigyo.html?code=8614・3回目）
+  - 「東洋証券 (8614) の企業概要・業績・財務・IR資料｜CREX経済データプ... — 東洋証券（8614・証券、商品先物取引業）の最新決算サマリ・売上推移・財務指標・経営戦略をAIが構造化要約。投資家・就活生・業界研究向けの企業データプラットフォーム。」（https://www.crex-data.com/company/8614・3回目）
+  - 「決算説明資料 | IRライブラリー | 東洋証券株式会社 — 東洋証券株式会社の「決算説明資料」について掲載しています。」（https://www.toyo-sec.co.jp/ir/library/briefing/index.html・3回目）
+  - 「東洋証券 (株)【8614】：決算情報 - Yahoo!ファイナンス — 4 days ago · 東洋証券(株)【8614】の決算短信を生成AIで要約した内容をご覧いただけます。Yahoo!ファイナンスでは株価速報、チャート、ランキング、ポートフォリオ、ニュース、掲示板など投資判断に役立つ情報を掲載しています。」（https://finance.yahoo.co.jp/quote/8614.T/financials・3回目）
+  - 「東洋証券（8614）のIR情報・決算資料 - IRBANK — Jul 15, 2026 · 東洋証券（8614）のIR情報・適時開示一覧。決算発表、業績修正などの開示情報を掲載。」（https://irbank.net/8614/ir・3回目）
+  - 「IRライブラリー | 株主・投資家情報 | 東洋証券株式会社 — 動画で見るIR 当社の「決算説明動画」をご覧いただけます。 中間のご報告 当社の「中間のご報告」をご覧いただけます。 その他開示資料 当社のその他開示資料について掲載しています。 Corporateprofile 当社の「Corporate Profile (English)」をご覧いただけます。」（https://www.toyo-sec.co.jp/ir/library/index.html・3回目）
+  - 「組織図 | 東洋証券について | 東洋証券株式会社 — 東洋証券株式会社の「組織図」について掲載しています。」（https://www.toyo-sec.co.jp/company/organization/・3回目）
+  - 「会社情報 | 東洋証券について | 東洋証券株式会社東洋証券 - Wikipedia8614 東洋証券 | 有報資料 | IRBANK東洋証券【8614】の事業内容 - キタイシホン東洋証券株式会社 有価証券報告書 全文（最新）｜事業内容・リスク・M...東洋証券株式会社 - 事業の内容 (2026年3月期) 有価証券報告書 レポー... — PDFファイルをご覧いただくためには、Adobe Acrobat Readerが必要です。 Adobe Acrobat Readerはアドビシステムズ社より無償配布されています。 東洋証券株式会社 （とうようしょうけん）は、 東京都 中央区 八丁堀4-7-1に本店を置く日本の 証券会社。 アイザワ證券 、 岩井コスモ証券 、 丸三証券 、 水戸証券 、 いちよし証券 、 極東証券 と並ぶ、中堅証券会社に位置づけられる。 国内金融商品取引市場を中核とし」（https://www.toyo-sec.co.jp/company/information/・3回目）
+  - 「8614 東洋証券 | 有報資料 | IRBANK — 国内金融商品取引市場を中核として営業拠点を設け、投資・金融サービスを提供しております。 事業の系統図は次のとおりであります。 (注)株式会社ダブルチェックは2026年4月1日付で東洋リサーチアドバイス株式会社に商号変更しております。」（https://irbank.net/E03768/business・3回目）
 
 ## 東海旅客鉄道
 - 公式URL：特定できず（not_found）
@@ -18532,6 +27740,77 @@
 - 売上構成：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部4頁・検索5回）
 - 利益の源泉：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部4頁・検索5回）
 
+## 沖縄セルラー電話
+- 公式URL：https://okinawa-cellular.jp/（search:yahoo_jp:沖縄セルラー電話）
+- ビジネスモデル：
+  - 「顧客価値を深く理解し、他社と差別化されたサービスや収益モデルを創造する頭脳です」（https://corp.okinawa-cellular.jp/recruit/works/department/businessdesign/・3回目）
+- 誰に：
+  - 「主に従業員数100名以上のお客様を直接訪問し、提案活動を行っております」（https://corp.okinawa-cellular.jp/recruit/works/department/businessdesign/・3回目）
+  - 「「お客様の業務効率化と事業の発展を支援する」「モバイル提案だけにとどまらず、グループ会社やパートナーの力を結集しお客様の経営課題の解決に貢献する」提案を心掛けております」（https://corp.okinawa-cellular.jp/recruit/works/department/businessdesign/・3回目）
+  - 「沖縄県下法人企業（お客様）のビジネスを変革し、利益成長、企業価値向上と社会の発展に貢献する為、DXを中心としたソリューションサービスを提案提供することにより、課題解決とお客様ビジネスにつなげていくことが主なミッションになります」（https://corp.okinawa-cellular.jp/recruit/works/department/businessdesign/・3回目）
+  - 「ソリューションエンジニアとして営業部隊と連携してお客様の現状課題を察知し、プロジェクトの中心となって解決に導きます」（https://corp.okinawa-cellular.jp/recruit/works/department/businessdesign/・3回目）
+  - 「また、注目されているIoT技術やクラウドを用いて、お客様ビジネスに貢献できる「本業貢献」を活動目標にすることで、お客様の真のパートナーになることを目指しています」（https://corp.okinawa-cellular.jp/recruit/works/department/businessdesign/・3回目）
+  - 「一般的なモバイル端末販売だけでなく、お客様の持つ課題を解決（ソリューション）するため、様々な商材も取り扱い、販売のサポートを行っています」（https://corp.okinawa-cellular.jp/recruit/works/department/businessdesign/・3回目）
+  - 「顧客価値を深く理解し、他社と差別化されたサービスや収益モデルを創造する頭脳です」（https://corp.okinawa-cellular.jp/recruit/works/department/businessdesign/・3回目）
+  - 「お取引先さま向けの相談・申告窓口 (苦情処理メカニズム)」（https://corp.okinawa-cellular.jp/sitemap/・3回目）
+- 何を：
+  - 「料金・サービス・」（https://okinawa-cellular.jp/・1回目）
+  - 「10ギガサービス好評受付中！」（https://okinawa-cellular.jp/・1回目）
+  - 「【復旧】auおよびUQ mobileのメールサービスがご利用できない、またはご利用しづらい状況について（10月28日 午後2時10分時点）」（https://corp.okinawa-cellular.jp/inquiry/・1回目）
+  - 「法人向けサービス」（https://corp.okinawa-cellular.jp/inquiry/・1回目）
+  - 「auの金融・保険サービス」（https://corp.okinawa-cellular.jp/inquiry/・1回目）
+  - 「金融・保険サービスに関するお問い合わせ」（https://corp.okinawa-cellular.jp/inquiry/・1回目）
+  - 「法人向けサービスや契約に関するお問い合わせ」（https://corp.okinawa-cellular.jp/inquiry/・1回目）
+  - 「沖縄セルラー電話提供サービスをご利用のお客さまへおトクなご案内をお伝えするため、沖縄セルラー電話からご連絡を差し上げております」（https://corp.okinawa-cellular.jp/inquiry/・1回目）
+  - 「auひかりちゅら お客さまセンター（サービス内容全般・手続き）」（https://corp.okinawa-cellular.jp/inquiry/・1回目）
+  - 「【復旧】auおよびUQ mobileのメールサービスがご利用できない、またはご利用しづらい状況について（10月28日 午後2時10分時点）」（https://corp.okinawa-cellular.jp/about-us/allforfamily/・1回目）
+  - 「法人向けサービス」（https://corp.okinawa-cellular.jp/about-us/allforfamily/・1回目）
+  - 「法人向けサービス」（https://corp.okinawa-cellular.jp/recruit/works/department/businessdesign/・3回目）
+- どうやって売るか：
+  - 「UQ mobile販売店 検索」（https://okinawa-cellular.jp/・1回目）
+  - 「「お客様の業務効率化と事業の発展を支援する」「モバイル提案だけにとどまらず、グループ会社やパートナーの力を結集しお客様の経営課題の解決に貢献する」提案を心掛けております」（https://corp.okinawa-cellular.jp/recruit/works/department/businessdesign/・3回目）
+  - 「また、注目されているIoT技術やクラウドを用いて、お客様ビジネスに貢献できる「本業貢献」を活動目標にすることで、お客様の真のパートナーになることを目指しています」（https://corp.okinawa-cellular.jp/recruit/works/department/businessdesign/・3回目）
+  - 「ビジネス代理店営業G」（https://corp.okinawa-cellular.jp/recruit/works/department/businessdesign/・3回目）
+  - 「法人様向け営業活動を行う代理店様へ活動のフォロー・サポートを行っているグループです」（https://corp.okinawa-cellular.jp/recruit/works/department/businessdesign/・3回目）
+  - 「担当する代理店様と共に販売計画や戦略を組み立て、法人営業活動の収益向上を目指して活動しています」（https://corp.okinawa-cellular.jp/recruit/works/department/businessdesign/・3回目）
+  - 「親会社のKDDIを含むKDDIグループ会社や地元のパートナー会社と連携して本業である通信（IoTやLTE、5G等のICT技術）を活用し、自治体にある地域課題の解決に繋がる提案活動を行っています」（https://corp.okinawa-cellular.jp/recruit/works/department/businessdesign/・3回目）
+  - 「パートナーシップ構築宣言」（https://corp.okinawa-cellular.jp/sitemap/・3回目）
+  - 「沖縄セルラーは、単なる通信事業者ではなく、「沖縄の未来をともに創るパートナー」でありたいと考えています」（https://corp.okinawa-cellular.jp/corporate/president/・3回目）
+  - 「（できる限りSNSへの投稿ではなく、飲み会や、社内 Slack・Teams など、リアルな口コミでご紹介いただけますと大変嬉しく存じます」（https://the-shashi.com/tse/9436/ceo/・3回目）
+- 沿革：
+  - 「2021年入社」（https://corp.okinawa-cellular.jp/recruit/works/department/businessdesign/・3回目）
+  - 「2016年入社」（https://corp.okinawa-cellular.jp/recruit/works/department/businessdesign/・3回目）
+  - 「2017年入社」（https://corp.okinawa-cellular.jp/recruit/works/department/businessdesign/・3回目）
+  - 「2011年入社」（https://corp.okinawa-cellular.jp/recruit/works/department/businessdesign/・3回目）
+  - 「2010年入社」（https://corp.okinawa-cellular.jp/recruit/works/department/businessdesign/・3回目）
+  - 「2022年度「離島ケータイ奨学金」新高校生 57 名へ交付」（https://corp.okinawa-cellular.jp/sitemap/・3回目）
+  - 「2020年度「離島ケータイ奨学金」新高校生 41 名へ交付」（https://corp.okinawa-cellular.jp/sitemap/・3回目）
+  - 「2019年度「離島ケータイ奨学金」新高校生 45 名へ交付」（https://corp.okinawa-cellular.jp/sitemap/・3回目）
+  - 「2018年度「離島ケータイ奨学金」新高校生 36 名へ交付」（https://corp.okinawa-cellular.jp/sitemap/・3回目）
+  - 「2017年度「離島ケータイ奨学金」新高校生 32 名へ交付」（https://corp.okinawa-cellular.jp/sitemap/・3回目）
+  - 「2016年度「離島ケータイ奨学金」新高校生 33 名へ交付」（https://corp.okinawa-cellular.jp/sitemap/・3回目）
+  - 「2015年度「離島ケータイ奨学金」新高校生 32 名へ交付」（https://corp.okinawa-cellular.jp/sitemap/・3回目）
+- 検索結果の抜粋：
+  - 「沖縄セルラー電話 ：県内シェア50%超え、今後は地域特化型 ... — 沖縄セルラー電話 ：県内シェア50%超え、今後は地域特化型 ... 株探 https://kabutan.jp > 市場ニュース」（https://kabutan.jp/news/marketnews/?b=n202506300478・3回目）
+  - 「ビジネス デザイン本部 | 沖縄セルラー電話 株式会社 — ビジネス デザイン本部 | 沖縄セルラー電話 株式会社 沖縄セルラー電話株式会社 https://corp.okinawa-cellular.jp > ... > 部門紹介」（https://corp.okinawa-cellular.jp/recruit/works/department/businessdesign/・3回目）
+  - 「沖縄セルラーの事業 | 沖縄セルラー電話 株式会社 — 沖縄セルラーの事業 | 沖縄セルラー電話 株式会社 沖縄セルラー電話株式会社 https://corp.okinawa-cellular.jp > 採用情報 > 仕事を知る」（https://corp.okinawa-cellular.jp/recruit/works/business/・3回目）
+  - 「中期経営計画 - 沖縄セルラー — 中期経営計画 - 沖縄セルラー 沖縄セルラー電話株式会社 PDF https://okinawa-cellular.jp > common > uploads > 2...」（https://okinawa-cellular.jp/common/uploads/20250530_ir-library-chuki-shiryou.pdf・3回目）
+  - 「決算説明 会プレゼンテーション | 沖縄セルラー電話 株式会社 — 決算説明 会プレゼンテーション | 沖縄セルラー電話 株式会社 沖縄セルラー電話株式会社 https://corp.okinawa-cellular.jp > ... > IR ライブラリ」（https://corp.okinawa-cellular.jp/ir/library/ir_library_presentation/・3回目）
+  - 「投資家情報 | 沖縄セルラー電話 株式会社 — 投資家情報 | 沖縄セルラー電話 株式会社 沖縄セルラー電話株式会社 https://corp.okinawa-cellular.jp > ...」（https://corp.okinawa-cellular.jp/ir/・3回目）
+  - 「IR ライブラリ | 沖縄セルラー電話 株式会社 — IR ライブラリ | 沖縄セルラー電話 株式会社 沖縄セルラー電話株式会社 https://corp.okinawa-cellular.jp > 投資家情報」（https://corp.okinawa-cellular.jp/ir/library/・3回目）
+  - 「【 沖縄セルラー電話 】[9436] 決算 発表や業務・財務情報 | 日経 ... — 【 沖縄セルラー電話 】[9436] 決算 発表や業務・財務情報 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kessan」（https://www.nikkei.com/nkd/company/kessan/?scode=9436・3回目）
+  - 「IR イベント | 沖縄セルラー電話 株式会社 — IR イベント | 沖縄セルラー電話 株式会社 沖縄セルラー電話株式会社 https://corp.okinawa-cellular.jp > 投資家情報」（https://corp.okinawa-cellular.jp/ir/event/・3回目）
+  - 「組織図 | 沖縄セルラー電話 株式会社 — 組織図 | 沖縄セルラー電話 株式会社 沖縄セルラー電話株式会社 https://corp.okinawa-cellular.jp > 企業情報」（https://corp.okinawa-cellular.jp/corporate/organigram/・3回目）
+  - 「サイトマップ | 沖縄セルラー電話 株式会社 — サイトマップ | 沖縄セルラー電話 株式会社 沖縄セルラー電話株式会社 https://corp.okinawa-cellular.jp > sitemap」（https://corp.okinawa-cellular.jp/sitemap/・3回目）
+  - 「企業情報 | 沖縄セルラー電話 株式会社 — 企業情報 | 沖縄セルラー電話 株式会社 沖縄セルラー電話株式会社 https://corp.okinawa-cellular.jp > corporate」（https://corp.okinawa-cellular.jp/corporate/・3回目）
+- 設立：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部8頁・検索5回）
+- 従業員数：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部8頁・検索5回）
+- 事業内容：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部8頁・検索5回）
+- 売上高：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部8頁・検索5回）
+- お金の形：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部8頁・検索5回）
+- 売上構成：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部8頁・検索5回）
+- 利益の源泉：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部8頁・検索5回）
+
 ## 湖北工業
 - 公式URL：https://www.kohokukogyo.co.jp/（search:yahoo_jp:湖北工業）
 - 設立：1959 年（https://www.kohokukogyo.co.jp/about-us/・1回目）
@@ -18636,6 +27915,117 @@
   - 「湖北工業 【6524】の 事業 内容 - キタイシホン — 湖北工業 【6524】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/6524/business・3回目）
   - 「湖北工業 株式会社が、東証二部上場へ - 日本M&Aセンター — 湖北工業 株式会社が、東証二部上場へ - 日本M&Aセンター 日本M&Aセンター https://www.nihon-ma.co.jp > ... > IPOニュース」（https://www.nihon-ma.co.jp/tokyopromarket/news/x7dsiri5aa_o・3回目）
 - お金の形：記載なし（3回確認済み：公式25頁／PDF・画像11件／外部4頁・検索5回）
+
+## 理研計器
+- 公式URL：https://www.rikenkeiki.co.jp/（search:yahoo_jp:理研計器）
+- 設立：1939年3月15日（https://www.rikenkeiki.co.jp/company/overview・1回目）
+- 従業員数：連結　1,465名　単体　1,147名 (2026年3月末)（https://www.rikenkeiki.co.jp/company/overview・1回目）
+- 事業内容：産業用ガス検知警報機器・分析計等の研究、開発、製造、販売及びアフターメンテナンス（https://www.rikenkeiki.co.jp/company/overview・1回目）
+- 売上高：2017.3 233億5千万円 2018.3 280億8千万円 2019.3 306億5千万円 2020.3 321億8千万円 2021.3 322億円 2022.3 373億6千万円 2023.3 450億円 2024.3 455億8千万円 2025.3 490億3千万円 2026.3 552億1千万円（https://www.rikenkeiki.co.jp/company/overview・1回目）
+- ビジネスモデル：
+  - 「● IoT化された製品から取得されたデータを活用し、販売・メンテナンスモデルによる既存のビジネスモデルの強化」（https://www.rikenkeiki.co.jp/cms/rikenkeiki-origin/pdf/temporary/DX.pdf・2回目）
+  - 「→ 顧客目線でのビジネスモデル検討」（https://www.rikenkeiki.co.jp/cms/rikenkeiki-origin/pdf/temporary/DX.pdf・2回目）
+  - 「04 ビジネスモデル」（https://www.rikenkeiki.co.jp/cms/rikenkeiki-origin/pdf/ir/integratedreport/Integrated_report_2026_A3.pdf・2回目）
+  - 「ビジネスモデル」（https://www.rikenkeiki.co.jp/cms/rikenkeiki-origin/pdf/ir/integratedreport/Integrated_report_2026_A3.pdf・2回目）
+- 誰に：
+  - 「一貫体制でお客様へご提供します」（https://www.rikenkeiki.co.jp/company/service・1回目）
+  - 「一貫体制でお客様へ」（https://www.rikenkeiki.co.jp/company/service・1回目）
+  - 「一貫体制でお客様にお届けしています」（https://www.rikenkeiki.co.jp/company/service・1回目）
+  - 「お客様に安心して使用していただける品質を目指し、工程管理、評価試験、検査など厳正にチェックを行っています」（https://www.rikenkeiki.co.jp/company/service・1回目）
+  - 「幅広い製品の中からお客様のニーズにあった製品を経験豊富な専門スタッフが提案します」（https://www.rikenkeiki.co.jp/company/service・1回目）
+  - 「2024年３月期から2026年３月期までの中期経営計画期間においては、主要顧客である半導体業界で、生成AI・データセンター向け需要の拡大を背景に設備投資が活発化し、当社製品の販売が伸長しました」（https://www.rikenkeiki.co.jp/ir/message・1回目）
+  - 「当社グループは、お客様の「安全パートナー」として、世界の様々なフィールドで人々の安全安心を守り続けます」（https://www.rikenkeiki.co.jp/ir/message・1回目）
+  - 「メンテナンス段階で顧客からいただく要望を新製品の開発に生かすことで、」（https://www.rikenkeiki.co.jp/ir/reason・1回目）
+  - 「顧客ニーズにマッチしたセンシング技術を常に開発し続けることを可能にしています」（https://www.rikenkeiki.co.jp/ir/reason・1回目）
+  - 「当社グループは、これまで培ってきた技術力とお客様との信頼関係を基盤に、」（https://www.rikenkeiki.co.jp/ir/reason・1回目）
+  - 「国内外の市場環境の変化や高度化するお客様のニーズに対応しながら、」（https://www.rikenkeiki.co.jp/ir/reason・1回目）
+  - 「→ 顧客目線でのビジネスモデル検討」（https://www.rikenkeiki.co.jp/cms/rikenkeiki-origin/pdf/temporary/DX.pdf・2回目）
+- 何を：
+  - 「製品に関して」（https://www.rikenkeiki.co.jp/・1回目）
+  - 「理研計器グループの製品情報はこちらから」（https://www.rikenkeiki.co.jp/・1回目）
+  - 「理研計器では100種類にのぼるガス検知・環境測定製品を扱っています」（https://www.rikenkeiki.co.jp/・1回目）
+  - 「製品情報サイト」（https://www.rikenkeiki.co.jp/・1回目）
+  - 「製品に関して」（https://www.rikenkeiki.co.jp/ir・1回目）
+  - 「製品に関して」（https://www.rikenkeiki.co.jp/company/overview・1回目）
+  - 「製品に関して」（https://www.rikenkeiki.co.jp/company/service・1回目）
+  - 「研究からアフターサービスまで」（https://www.rikenkeiki.co.jp/company/service・1回目）
+  - 「すべてのサービスを」（https://www.rikenkeiki.co.jp/company/service・1回目）
+  - 「アフターサービス」（https://www.rikenkeiki.co.jp/company/service・1回目）
+  - 「そのセンサを搭載した製品についても電気回路設計・機械設計・ソフトウェア工程設計などの開発を行っています」（https://www.rikenkeiki.co.jp/company/service・1回目）
+  - 「センサ・製品の多品種少量生産にフレキシブルに対応できる生産体制を確立しています」（https://www.rikenkeiki.co.jp/company/service・1回目）
+- どうやって売るか：
+  - 「会社沿革のご紹介ページです」（https://www.rikenkeiki.co.jp/・1回目）
+  - 「当社ロゴをご紹介しています」（https://www.rikenkeiki.co.jp/・1回目）
+  - 「会社沿革のご紹介ページです」（https://www.rikenkeiki.co.jp/ir・1回目）
+  - 「当社ロゴをご紹介しています」（https://www.rikenkeiki.co.jp/ir・1回目）
+  - 「会社沿革のご紹介ページです」（https://www.rikenkeiki.co.jp/company/overview・1回目）
+  - 「当社ロゴをご紹介しています」（https://www.rikenkeiki.co.jp/company/overview・1回目）
+  - 「会社沿革のご紹介ページです」（https://www.rikenkeiki.co.jp/company/service・1回目）
+  - 「当社ロゴをご紹介しています」（https://www.rikenkeiki.co.jp/company/service・1回目）
+  - 「会社沿革のご紹介ページです」（https://www.rikenkeiki.co.jp/company/history・1回目）
+  - 「当社ロゴをご紹介しています」（https://www.rikenkeiki.co.jp/company/history・1回目）
+  - 「会社沿革のご紹介ページです」（https://www.rikenkeiki.co.jp/ir/message・1回目）
+  - 「当社ロゴをご紹介しています」（https://www.rikenkeiki.co.jp/ir/message・1回目）
+- お金の形：
+  - 「● メンテナンスで得た保守・点検データを利活用し、製品品質向上や客先要求対応など多用途に展開する」（https://www.rikenkeiki.co.jp/cms/rikenkeiki-origin/pdf/temporary/DX.pdf・2回目）
+  - 「● 保守管理業務のメンテナンス帳票電子化システム（SmartREAS）活用や、」（https://www.rikenkeiki.co.jp/cms/rikenkeiki-origin/pdf/temporary/DX.pdf・2回目）
+  - 「お客様ごとの課題に沿ったソリューションの構想から開発、徹底的に現場レベルに合わせた機動⼒の高い保守運用」（https://www.rikenkeiki.co.jp/cms/rikenkeiki-origin/pdf/ir/medium-term/medium-term2027-2029.pdf・2回目）
+  - 「➢ 保守管理業務のメンテナンス帳票電子化システム（SmartREAS）活用やERP、営業支援」（https://www.rikenkeiki.co.jp/cms/rikenkeiki-origin/pdf/ir/medium-term/medium-term2024-2026.pdf・2回目）
+  - 「グループは顧客の品質や納期要求、 必要な認証取得に的確に応えつつ、 開発 ・ 生産 ・ 販売 ・ 保守にわたる一貫 し た価値提供体」（https://www.rikenkeiki.co.jp/cms/rikenkeiki-origin/pdf/ir/integratedreport/Integrated_report_2026_A3.pdf・2回目）
+  - 「これによ り 、 設備の保守点検や異常発生時の迅速な対応を支」（https://www.rikenkeiki.co.jp/cms/rikenkeiki-origin/pdf/ir/integratedreport/Integrated_report_2026_A3.pdf・2回目）
+  - 「当社グループでは、 企画 ・ 開発から製造 ・ 販売 ・ 保守に至るすべての工程で確かな品質をつくり込むために、」（https://www.rikenkeiki.co.jp/cms/rikenkeiki-origin/pdf/ir/integratedreport/Integrated_report_2026_A3.pdf・2回目）
+  - 「当社では製品の保守 ・ メ ンテナ」（https://www.rikenkeiki.co.jp/cms/rikenkeiki-origin/pdf/ir/integratedreport/Integrated_report_2026_A3.pdf・2回目）
+  - 「や性能要件も変化 し てお り 、 顧客ニーズは単なるガス検知か ら 、 保守性向上や遠隔監視、 データ活用を含めたソ」（https://www.rikenkeiki.co.jp/cms/rikenkeiki-origin/pdf/ir/integratedreport/Integrated_report_2026_A3.pdf・2回目）
+  - 「る定期点検を組み合わせた保守体制を提供 し ていま す」（https://www.rikenkeiki.co.jp/cms/rikenkeiki-origin/pdf/ir/integratedreport/Integrated_report_2026_A3.pdf・2回目）
+  - 「画では、 国内外での納入実績を基盤に、 定期保守の拡大と サー」（https://www.rikenkeiki.co.jp/cms/rikenkeiki-origin/pdf/ir/integratedreport/Integrated_report_2026_A3.pdf・2回目）
+  - 「役 割・機 能 タブレ ッ ト によ る点検 ・ 保守情報の一元データ管理を基盤に、 履歴 ・ 傾向の」（https://www.rikenkeiki.co.jp/cms/rikenkeiki-origin/pdf/ir/integratedreport/Integrated_report_2026_A3.pdf・2回目）
+- 売上構成：
+  - 「※端数を四捨五入している構成比の合計は100％にならない場合があります」（https://www.rikenkeiki.co.jp/ir/reason・1回目）
+  - 「海外売上比率は、26年3月期には47.3%に到達しています」（https://www.rikenkeiki.co.jp/ir/reason・1回目）
+  - 「※端数を四捨五入しているため売上高合計に対する構成比の合計は100％にならない場合があります」（https://www.rikenkeiki.co.jp/cms/rikenkeiki-origin/pdf/ir/FQyN85FZLB/26%E5%B9%B43%E6%9C%88%E6%9C%9F_%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf・2回目）
+  - 「※端数を四捨五入している構成比の合計は100％にならない場合があります」（https://www.rikenkeiki.co.jp/cms/rikenkeiki-origin/pdf/ir/FQyN85FZLB/26%E5%B9%B43%E6%9C%88%E6%9C%9F_%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf・2回目）
+  - 「製品・メンテナンス売上比率推移（単体・通期）」（https://www.rikenkeiki.co.jp/cms/rikenkeiki-origin/pdf/ir/FQyN85FZLB/26%E5%B9%B43%E6%9C%88%E6%9C%9F_%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf・2回目）
+  - 「構成比が大きいこの」（https://www.rikenkeiki.co.jp/cms/rikenkeiki-origin/pdf/ir/medium-term/medium-term2024-2026.pdf・2回目）
+  - 「✓ 定置型ガス検知警報機器の売上高構成比が年々増加傾向にあり、定」（https://www.rikenkeiki.co.jp/cms/rikenkeiki-origin/pdf/ir/medium-term/medium-term2024-2026.pdf・2回目）
+- 利益の源泉：
+  - 「当社はガスセンシング技術のほとんどを自社開発していることが強み」（https://www.rikenkeiki.co.jp/ir/reason・1回目）
+  - 「また、新設ページとして、事業活動を支える各機能・強みの紹介を通して事業内容をより詳しくお伝えするほか、社外取締役鼎談（ていだん）を掲載し、社外取締役３名それぞれの視点から、当社への評価や期待に関して意見を交わしています」（https://www.rikenkeiki.co.jp/news/detail/453・1回目）
+  - 「営業利益率 21.7% 22.５％ - 23.1％ -」（https://www.rikenkeiki.co.jp/cms/rikenkeiki-origin/pdf/ir/FQyN85FZLB/26%E5%B9%B43%E6%9C%88%E6%9C%9F_%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf・2回目）
+  - 「◼ 営業利益率は、人件費や部材価格の高騰、原価率の高い工事案件の増加といった」（https://www.rikenkeiki.co.jp/cms/rikenkeiki-origin/pdf/ir/FQyN85FZLB/26%E5%B9%B43%E6%9C%88%E6%9C%9F_%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf・2回目）
+  - 「営業利益率 20.4% 22.5% 21.0％ 21.2％」（https://www.rikenkeiki.co.jp/cms/rikenkeiki-origin/pdf/ir/FQyN85FZLB/26%E5%B9%B43%E6%9C%88%E6%9C%9F_%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf・2回目）
+  - 「売上高(前中計目標) 売上高(実績) 営業利益 営業利益率」（https://www.rikenkeiki.co.jp/cms/rikenkeiki-origin/pdf/ir/medium-term/medium-term2027-2029.pdf・2回目）
+  - 「原材料高騰などにより営業利益率が低下傾向にあるが、売上高の増加に伴う利益押し上げ効果や2025年下期より実施して」（https://www.rikenkeiki.co.jp/cms/rikenkeiki-origin/pdf/ir/medium-term/medium-term2027-2029.pdf・2回目）
+  - 「特に安全意識の高まりに対して、当社の事業や強みを通して」（https://www.rikenkeiki.co.jp/cms/rikenkeiki-origin/pdf/ir/medium-term/medium-term2027-2029.pdf・2回目）
+  - 「材価格の高騰などにより、新中計期間中において営業利益率は低下する見込み」（https://www.rikenkeiki.co.jp/cms/rikenkeiki-origin/pdf/ir/medium-term/medium-term2027-2029.pdf・2回目）
+  - 「⚫ ビジョン︓国内市場においては、従来の一番の強みとしてきた半導体業界への売上水準は維」（https://www.rikenkeiki.co.jp/cms/rikenkeiki-origin/pdf/ir/medium-term/medium-term2024-2026.pdf・2回目）
+  - 「直近3ヵ年は営業利益率20%を越えるなど、高い生産性を実現してい」（https://www.rikenkeiki.co.jp/cms/rikenkeiki-origin/pdf/ir/medium-term/medium-term2024-2026.pdf・2回目）
+  - 「原材料高騰などによ り営業利益率が低下傾向にあ り ま すが、 売上高の増加に伴う利益押 し上げ効果や2025年下期よ り実」（https://www.rikenkeiki.co.jp/cms/rikenkeiki-origin/pdf/ir/integratedreport/Integrated_report_2026_A3.pdf・2回目）
+- 沿革：
+  - 「会社沿革のご紹介ページです」（https://www.rikenkeiki.co.jp/・1回目）
+  - 「2027年3月期 第1四半期決算説明資料」（https://www.rikenkeiki.co.jp/・1回目）
+  - 「2027年3月期 第1四半期決算短信〔日本基準〕(連結)」（https://www.rikenkeiki.co.jp/・1回目）
+  - 「令和8年熊本地震のお見舞い」（https://www.rikenkeiki.co.jp/・1回目）
+  - 「会社沿革のご紹介ページです」（https://www.rikenkeiki.co.jp/ir・1回目）
+  - 「会社沿革のご紹介ページです」（https://www.rikenkeiki.co.jp/company/overview・1回目）
+  - 「1939年3月15日」（https://www.rikenkeiki.co.jp/company/overview・1回目）
+  - 「会社沿革のご紹介ページです」（https://www.rikenkeiki.co.jp/company/service・1回目）
+  - 「会社沿革のご紹介ページです」（https://www.rikenkeiki.co.jp/company/history・1回目）
+  - 「1948 年当時の本社」（https://www.rikenkeiki.co.jp/company/history・1回目）
+  - 「会社沿革のご紹介ページです」（https://www.rikenkeiki.co.jp/ir/message・1回目）
+  - 「2024年３月期から2026年３月期までの中期経営計画期間においては、主要顧客である半導体業界で、生成AI・データセンター向け需要の拡大を背景に設備投資が活発化し、当社製品の販売が伸長しました」（https://www.rikenkeiki.co.jp/ir/message・1回目）
+- 検索結果の抜粋：
+  - 「理研計器 株式会社 ガス検知器 ガス警報器のパイオニア — 理研計器 株式会社 ガス検知器 ガス警報器のパイオニア 理研計器株式会社 https://www.rikenkeiki.co.jp」（https://www.rikenkeiki.co.jp/・3回目）
+  - 「理研計器 DXへの取り組み - PowerPoint プレゼンテーション — 理研計器 DXへの取り組み - PowerPoint プレゼンテーション 理研計器株式会社 PDF https://www.rikenkeiki.co.jp > cms > pdf > temporary」（https://www.rikenkeiki.co.jp/cms/rikenkeiki-origin/pdf/temporary/DX.pdf・3回目）
+  - 「成長の理由 | ガス検知器 ガス警報器のパイオニア ... - 理研計器 — 成長の理由 | ガス検知器 ガス警報器のパイオニア ... - 理研計器 理研計器株式会社 https://www.rikenkeiki.co.jp > reason」（https://www.rikenkeiki.co.jp/ir/reason・3回目）
+  - 「理研計器 の「企業分析［強み・弱み・展望］」 OpenWork — 理研計器 の「企業分析［強み・弱み・展望］」 OpenWork OpenWork https://www.openwork.jp > 機械関連 > 理研計器」（https://www.openwork.jp/company_answer.php?m_id=a0910000000Frc7&q_no=9・3回目）
+  - 「経営理念・経営方針 | ガス検知器 ガス警報器のパイオニア ... — 経営理念・経営方針 | ガス検知器 ガス警報器のパイオニア ... 理研計器株式会社 https://www.rikenkeiki.co.jp > company > vision」（https://www.rikenkeiki.co.jp/company/vision・3回目）
+  - 「決算説明 関連 | ガス検知器 ガス警報器のパイオニア 理研計器 ... — 決算説明 関連 | ガス検知器 ガス警報器のパイオニア 理研計器 ... 理研計器株式会社 https://www.rikenkeiki.co.jp > briefing」（https://www.rikenkeiki.co.jp/ir/briefing・3回目）
+  - 「2026年3月期 決算説明資料 - 理研計器 — 2026年3月期 決算説明資料 - 理研計器 理研計器株式会社 https://www.rikenkeiki.co.jp > news > detail」（https://www.rikenkeiki.co.jp/news/detail/431・3回目）
+  - 「2027年3月期 第1四半期 決算説明資料 - 理研計器 — 2027年3月期 第1四半期 決算説明資料 - 理研計器 理研計器株式会社 https://www.rikenkeiki.co.jp > news > detail」（https://www.rikenkeiki.co.jp/news/detail/451・3回目）
+  - 「2025年3月期 - 決算説明資料 - 理研計器 — 2025年3月期 - 決算説明資料 - 理研計器 理研計器株式会社 PDF https://www.rikenkeiki.co.jp > rikenkeiki-origin > pdf」（https://www.rikenkeiki.co.jp/cms/rikenkeiki-origin/pdf/ir/ribARFGv4n/2025%E5%B9%B43%E6%9C%88%E6%9C%9F_%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99.pdf・3回目）
+  - 「ガバナンス | ガス検知器 ガス警報器のパイオニア ... - 理研計器 — ガバナンス | ガス検知器 ガス警報器のパイオニア ... - 理研計器 理研計器株式会社 https://www.rikenkeiki.co.jp > sustainability > governance」（https://www.rikenkeiki.co.jp/sustainability/governance・3回目）
+  - 「事業 所一覧 | ガス検知器 ガス警報器のパイオニア 理研計器 ... — 事業 所一覧 | ガス検知器 ガス警報器のパイオニア 理研計器 ... 理研計器株式会社 https://www.rikenkeiki.co.jp > company > office_list」（https://www.rikenkeiki.co.jp/company/office_list・3回目）
+  - 「RIKEN KEIKI - CORPORATE PROFILE - 理研計器 — RIKEN KEIKI - CORPORATE PROFILE - 理研計器 理研計器株式会社 PDF https://www.rikenkeiki.co.jp > cms > pdf > company」（https://www.rikenkeiki.co.jp/cms/rikenkeiki-origin/pdf/company/CORPORATE_PROFILE_J_2025.pdf・3回目）
 
 ## 福井コンピュータホールディングス
 - 公式URL：https://hd.fukuicompu.co.jp/（search:yahoo_jp:福井コンピュータホールディングス）
@@ -19176,3 +28566,112 @@
 - 従業員数：記載なし（3回確認済み：公式17頁／PDF・画像10件／外部3頁・検索5回）
 - 売上高：記載なし（3回確認済み：公式17頁／PDF・画像10件／外部3頁・検索5回）
 - ビジネスモデル：記載なし（3回確認済み：公式17頁／PDF・画像10件／外部3頁・検索5回）
+
+## 電算
+- 公式URL：https://www.ndensan.co.jp/（search:yahoo_jp:電算）
+- 設立：独立系IT企業のパイオニアとしての歩み（https://note.com/tatsuya_sabato/n/n1499f913cb7c・3回目）
+- 事業内容：公共・医療・民間を支える多角的なITソリューション（https://note.com/tatsuya_sabato/n/n1499f913cb7c・3回目）
+- ビジネスモデル：
+  - 「ビジネスモデルの詳細分析：電算の強みと収益構造」（https://note.com/tatsuya_sabato/n/n1499f913cb7c・3回目）
+  - 「収益構造：ストック型収益による安定性とプロジェクト収益」（https://note.com/tatsuya_sabato/n/n1499f913cb7c・3回目）
+  - 「電算のビジネスモデルは、システム開発・導入といったプロジェクト型のフロー収益と、運用・保守、データセンターサービス、BPOといったストック型の収益をバランス良く組み合わせることで、業績の安定化と持続的な成長を目指していると考えられます」（https://note.com/tatsuya_sabato/n/n1499f913cb7c・3回目）
+  - 「ガバメントクラウドへの対応状況とビジネスモデルの変化」（https://note.com/tatsuya_sabato/n/n1499f913cb7c・3回目）
+  - 「: クラウドへのシフトが、収益構造にどのような影響を与えているか」（https://note.com/tatsuya_sabato/n/n1499f913cb7c・3回目）
+- 誰に：
+  - 「お客様と一緒に課題と向き合い、その解決策を探るコンサルティングから」（https://www.ndensan.co.jp/・1回目）
+  - 「実際のシステム開発・提供、運用支援まで、ワンストップでお客様に最適な」（https://www.ndensan.co.jp/・1回目）
+  - 「株式会社電算は、お客様に提供する製品やサービスを充実させ、企業として健全な成長を目指していきます」（https://www.ndensan.co.jp/ir/management/health-management.html・1回目）
+  - 「働き方改革として、社員が有効に能力を発揮できるようフレックスタイム制の更なる活用や、テレワーク制度利用者の拡大を推進します」（https://www.ndensan.co.jp/ir/management/health-management.html・1回目）
+  - 「また、以下の場合を除き、お客様が当ウェブサイト上で閲覧されたコンテンツなどの情報を、個人を特定したアクセス情報として利用することはありません」（https://www.ndensan.co.jp/about.html・1回目）
+  - 「お客様が当ウェブサイトを通じて、お問い合わせ、資料請求、お見積依頼、製品試用等をご希望された際に、お客さまからのご要望へスムーズに対応し、適切なご案内、ご提案をする目的において、当社および当社グループ企業、またはお客さま最寄りの販売代理店と情報を共有することに同意された場合」（https://www.ndensan.co.jp/about.html・1回目）
+  - 「お客様の要望に対し柔軟にカスタマイズできる対応力」（https://www.ndensan.co.jp/ir/management/vision.html・1回目）
+  - 「お客様の期待に応え、既存事業をさらに強化するとともに、環境変化に対応した新製品開発や新技術への対応に積極的にチャレンジし、飛躍的な成長を目指します」（https://www.ndensan.co.jp/ir/management/vision.html・1回目）
+  - 「総合行政情報システム「Reams」の新規顧客開拓」（https://www.ndensan.co.jp/ir/management/vision.html・1回目）
+  - 「顧客ニーズ（生成AI・ロボット・ローコード等）に対応可能な企業とのアライアンスやM&Aの推進」（https://www.ndensan.co.jp/ir/management/vision.html・1回目）
+  - 「社会や顧客からの信頼と期待に応える品質の追求と実現」（https://www.ndensan.co.jp/ir/management/vision.html・1回目）
+  - 「お取引先の特定個人情報」（https://www.ndensan.co.jp/inquiry/privacy.html・1回目）
+- 何を：
+  - 「製品･サービス」（https://www.ndensan.co.jp/・1回目）
+  - 「自治体窓口DX推進サービス」（https://www.ndensan.co.jp/・1回目）
+  - 「製品・サービス」（https://www.ndensan.co.jp/・1回目）
+  - 「行政サービス デジタル化支援」（https://www.ndensan.co.jp/・1回目）
+  - 「行政サービスの手続きを」（https://www.ndensan.co.jp/・1回目）
+  - 「観光ソリューションサービス」（https://www.ndensan.co.jp/・1回目）
+  - 「DX推進サービス」（https://www.ndensan.co.jp/・1回目）
+  - 「ソリューションをご提案します」（https://www.ndensan.co.jp/・1回目）
+  - 「製品・サービス一覧」（https://www.ndensan.co.jp/・1回目）
+  - 「AIチャットボットサービス」（https://www.ndensan.co.jp/・1回目）
+  - 「情報サービス事業者として、信頼と品質に優れた製品やサービスを提供し、安全・安心で豊かな社会創りを目指します」（https://www.ndensan.co.jp/・1回目）
+  - 「多様なニーズに対応できるソリューションを提供しています」（https://www.ndensan.co.jp/・1回目）
+- どうやって売るか：
+  - 「お客様が当ウェブサイトを通じて、お問い合わせ、資料請求、お見積依頼、製品試用等をご希望された際に、お客さまからのご要望へスムーズに対応し、適切なご案内、ご提案をする目的において、当社および当社グループ企業、またはお客さま最寄りの販売代理店と情報を共有することに同意された場合」（https://www.ndensan.co.jp/about.html・1回目）
+  - 「当社の事業内容をご紹介いたします」（https://www.ndensan.co.jp/ir/individual/index.html・1回目）
+  - 「情報サービス市場に関わる最近の動向と、当社の取り組みをご紹介します」（https://www.ndensan.co.jp/ir/individual/index.html・1回目）
+  - 「当社の特長と強みをご紹介いたします」（https://www.ndensan.co.jp/ir/individual/index.html・1回目）
+  - 「全国の提携パートナーと連携した営業力」（https://www.ndensan.co.jp/ir/management/vision.html・1回目）
+  - 「これにより、顧客との間に深い信頼関係が構築されており、継続的な取引や紹介に繋がっている」（https://note.com/tatsuya_sabato/n/n1499f913cb7c・3回目）
+  - 「大手ITベンダーの地域子会社・パートナー企業」（https://note.com/tatsuya_sabato/n/n1499f913cb7c・3回目）
+  - 「電算はこれらのクラウドを活用する立場であり、パートナーでもある」（https://note.com/tatsuya_sabato/n/n1499f913cb7c・3回目）
+  - 「地域企業のDXパートナーとして、経営課題の解決と競争力強化をITの側面からサポートしています」（https://note.com/tatsuya_sabato/n/n1499f913cb7c・3回目）
+  - 「（ここでも、具体的なDCFモデルの構築と試算は専門的な知識と詳細なデータが必要なため、考え方の紹介に留めます」（https://note.com/tatsuya_sabato/n/n1499f913cb7c・3回目）
+  - 「資本金や従業員数、組織図など電算システムの会社概要をご紹介します」（https://www.densan-s.co.jp/company/・3回目）
+  - 「電算システムが掲げる企業理念や経営モットー、ビジョンをご紹介します」（https://www.densan-s.co.jp/company/・3回目）
+- お金の形：
+  - 「なお、個人情報の「利用目的の通知」、「開示」および「第三者提供記録の開示」に関しましては、手数料（1件1,100円）を当社指定口座にお振り込みいただきます」（https://www.ndensan.co.jp/inquiry/disclosure.html・1回目）
+  - 「地方公共団体（都道府県、市区町村）向けに、住民記録システム、税務システム（固定資産税、住民税など）、福祉システム（国民健康保険、介護保険など）、内部情報システム（財務会計、人事給与など）、教育委員会向けシステムなど、行政運営に不可欠な基幹業務システムを開発・導入・運用保守」（https://note.com/tatsuya_sabato/n/n1499f913cb7c・3回目）
+  - 「導入支援、運用保守、医療情報技師によるサポート」（https://note.com/tatsuya_sabato/n/n1499f913cb7c・3回目）
+  - 「収益構造：ストック型収益による安定性とプロジェクト収益」（https://note.com/tatsuya_sabato/n/n1499f913cb7c・3回目）
+  - 「運用・保守サービス」（https://note.com/tatsuya_sabato/n/n1499f913cb7c・3回目）
+  - 「年間契約や月額契約に基づく継続的な収益（ストック型収益）」（https://note.com/tatsuya_sabato/n/n1499f913cb7c・3回目）
+  - 「パッケージソフトウェア販売・ライセンス料」（https://note.com/tatsuya_sabato/n/n1499f913cb7c・3回目）
+  - 「自社開発または他社製のパッケージソフトウェアの販売ライセンス料、年間保守料」（https://note.com/tatsuya_sabato/n/n1499f913cb7c・3回目）
+  - 「データセンターサービス利用料」（https://note.com/tatsuya_sabato/n/n1499f913cb7c・3回目）
+  - 「ハウジング、ホスティング、クラウドサービスなどの月額または年額の利用料（ストック型収益）」（https://note.com/tatsuya_sabato/n/n1499f913cb7c・3回目）
+  - 「継続的な業務委託契約の場合はストック型収益の性質を持つ」（https://note.com/tatsuya_sabato/n/n1499f913cb7c・3回目）
+  - 「電算のビジネスモデルは、システム開発・導入といったプロジェクト型のフロー収益と、運用・保守、データセンターサービス、BPOといったストック型の収益をバランス良く組み合わせることで、業績の安定化と持続的な成長を目指していると考えられます」（https://note.com/tatsuya_sabato/n/n1499f913cb7c・3回目）
+- 売上構成：
+  - 「電算は、主に以下の事業セグメントを通じて、顧客の多様なニーズに応えるITソリューションとサービスを提供しています」（https://note.com/tatsuya_sabato/n/n1499f913cb7c・3回目）
+  - 「: 数年後の売上高、営業利益、各事業セグメントの成長目標、ストック収益比率、新規顧客獲得数などのKPI」（https://note.com/tatsuya_sabato/n/n1499f913cb7c・3回目）
+  - 「クラウドサービスの売上構成比と利益率」（https://note.com/tatsuya_sabato/n/n1499f913cb7c・3回目）
+  - 「特に、セグメント別（公共、医療、民間、データセンター、BPOなど）の業績動向、ストック収益とフロー収益のバランス、受注高・受注残高の推移、利益率の変化、そして今後の業績見通しと、その前提となる市場環境認識、主要顧客の動向、制度改正への対応などが重要です」（https://note.com/tatsuya_sabato/n/n1499f913cb7c・3回目）
+- 利益の源泉：
+  - 「当社の特長と強みをご紹介いたします」（https://www.ndensan.co.jp/ir/individual/index.html・1回目）
+  - 「当社の強みと特性」（https://www.ndensan.co.jp/ir/management/vision.html・1回目）
+  - 「医薬品在庫管理システム Medicine Supervision」（https://www.ndensan.co.jp/inquiry/products/index.html・1回目）
+  - 「ビジネスモデルの詳細分析：電算の強みと収益構造」（https://note.com/tatsuya_sabato/n/n1499f913cb7c・3回目）
+  - 「この記事では、電算の創業から現在に至るまでの歩み、事業の柱である公共・医療・民間向けソリューションの具体的な内容と強み、財務状況、競争環境における独自のポジション、そしてデジタル化が加速する現代における成長戦略と潜在的なリスクに至るまで、あらゆる角度から光を当て、その実像を明らかにします」（https://note.com/tatsuya_sabato/n/n1499f913cb7c・3回目）
+  - 「これらの事業は、長年にわたり培ってきた業務ノウハウと技術力、そして地域に根差したサポート体制を強みとしており、顧客との長期的な信頼関係に基づいて展開されています」（https://note.com/tatsuya_sabato/n/n1499f913cb7c・3回目）
+  - 「特に、地域特有の条例や業務慣行、医療機関ごとの運用フローなどを熟知している点は大きな強み」（https://note.com/tatsuya_sabato/n/n1499f913cb7c・3回目）
+  - 「売上総利益（粗利）」（https://note.com/tatsuya_sabato/n/n1499f913cb7c・3回目）
+  - 「: ストック型収益（運用保守、データセンター、BPO）の比率が高いほど、また、高付加価値なコンサルティングやシステム開発の利益率が高いほど、全体の粗利率は安定・向上します」（https://note.com/tatsuya_sabato/n/n1499f913cb7c・3回目）
+  - 「売上高営業利益率」（https://note.com/tatsuya_sabato/n/n1499f913cb7c・3回目）
+  - 「安定した顧客基盤とストック収益に支えられた事業モデルの強みが、これらの指標にどう現れているかがポイントです」（https://note.com/tatsuya_sabato/n/n1499f913cb7c・3回目）
+  - 「このような市場環境において、電算は長年にわたり培ってきた各分野での業務ノハウと顧客基盤を強みに、地域社会のDX推進を支援する重要な役割を担っています」（https://note.com/tatsuya_sabato/n/n1499f913cb7c・3回目）
+- 沿革：
+  - 「2026年9月8日」（https://www.ndensan.co.jp/・1回目）
+  - 「2019年10月1日」（https://www.ndensan.co.jp/ir/management/health-management.html・1回目）
+  - 「2022年3月期より「収益認識に関する会計基準」（企業会計基準第29号）を適用しております」（https://www.ndensan.co.jp/ir/financial/finance1.html・1回目）
+  - 「2026年度」（https://www.ndensan.co.jp/ir/calendar/index.html・1回目）
+  - 「2027年5月(予定)」（https://www.ndensan.co.jp/ir/calendar/index.html・1回目）
+  - 「2027年3月期 期末決算発表」（https://www.ndensan.co.jp/ir/calendar/index.html・1回目）
+  - 「2027年1月29日」（https://www.ndensan.co.jp/ir/calendar/index.html・1回目）
+  - 「2027年3月期 第3四半期決算発表」（https://www.ndensan.co.jp/ir/calendar/index.html・1回目）
+  - 「2026年12月4日」（https://www.ndensan.co.jp/ir/calendar/index.html・1回目）
+  - 「2026年10月30日」（https://www.ndensan.co.jp/ir/calendar/index.html・1回目）
+  - 「2027年3月期 第2四半期決算発表」（https://www.ndensan.co.jp/ir/calendar/index.html・1回目）
+  - 「2026年7月31日」（https://www.ndensan.co.jp/ir/calendar/index.html・1回目）
+- 検索結果の抜粋：
+  - 「電算 (3640)を徹底解剖！～公共・医療ITを支える成長戦略の全貌 — 電算 (3640)を徹底解剖！～公共・医療ITを支える成長戦略の全貌 note https://note.com > コンピュータ・IT > インターネットビジネス」（https://note.com/tatsuya_sabato/n/n1499f913cb7c・3回目）
+  - 「経営戦略 - 株式会社 電算 — 経営戦略 - 株式会社 電算 株式会社 電算 https://www.ndensan.co.jp > IR情報 > 経営方針」（https://www.ndensan.co.jp/ir/management/vision.html・3回目）
+  - 「企業理念｜会社情報 - 電算システム — 企業理念｜会社情報 - 電算システム 株式会社電算システム https://www.densan-s.co.jp > company > philosophy」（https://www.densan-s.co.jp/company/philosophy.html・3回目）
+  - 「(株) 電算 システム(DSK)の先輩情報 | マイナビ2027 — (株) 電算 システム(DSK)の先輩情報 | マイナビ2027 マイナビ https://job.mynavi.jp > corp73675 > obog25008990 > obog」（https://job.mynavi.jp/27/pc/search/corp73675/obog25008990/obog.html・3回目）
+  - 「決算説明資料 - 株式会社 電算 — 決算説明資料 - 株式会社 電算 株式会社 電算 https://www.ndensan.co.jp > IR情報 > IR資料」（https://www.ndensan.co.jp/ir/library/library3.html・3回目）
+  - 「決算 短信 - 株式会社 電算 — 決算 短信 - 株式会社 電算 株式会社 電算 https://www.ndensan.co.jp > IR情報 > IR資料」（https://www.ndensan.co.jp/ir/library/library1.html・3回目）
+  - 「過去の 決算説明資料 - 株式会社 電算 — 過去の 決算説明資料 - 株式会社 電算 株式会社 電算 https://www.ndensan.co.jp > IR情報 > IR資料」（https://www.ndensan.co.jp/ir/library/old/ir-presentations.html・3回目）
+  - 「電算 [3640]：2026年3月期 第3四半期 決算 短信〔日本基準 ... — 電算 [3640]：2026年3月期 第3四半期 決算 短信〔日本基準 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr」（https://www.nikkei.com/nkd/disclosure/tdnr/20260129541684/・3回目）
+  - 「IR情報 - 電算システム — IR情報 - 電算システム 株式会社電算システム https://www.densan-s.co.jp > ...」（https://www.densan-s.co.jp/ir/・3回目）
+  - 「組織図 - 株式会社 電算 — 組織図 - 株式会社 電算 株式会社 電算 https://www.ndensan.co.jp > 会社情報」（https://www.ndensan.co.jp/company/about_organization.html・3回目）
+  - 「会社情報 - 電算システム — 会社情報 - 電算システム 株式会社電算システム https://www.densan-s.co.jp > company」（https://www.densan-s.co.jp/company/・3回目）
+  - 「電算 システムホールディングス【4072】の 事業 内容 — 電算 システムホールディングス【4072】の 事業 内容 キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/4072/business・3回目）
+- 従業員数：記載なし（3回確認済み：公式25頁／PDF・画像4件／外部3頁・検索5回）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像4件／外部3頁・検索5回）

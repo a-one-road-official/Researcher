@@ -1,0 +1,1948 @@
+{
+ "name": "リサイクル金属（再生アルミ・再生銅）",
+ "en": "recycled aluminum",
+ "aliases": [
+  "secondary aluminum",
+  "recycled copper",
+  "再生アルミ"
+ ],
+ "context": "循環",
+ "kind": "market",
+ "researched_at": "2026-11-02T17:35:57.311924+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "世界の金属リサイクル市場規模は、2025年には9,511億4,000万米ドルと評価され、2026年の9,882億3,000万米ドルから2034年には1兆3,421億米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は3.9%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年予測市場規模",
+    "url": "https://straitsresearch.com/jp/report/metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、金属リサイクル市場全体の63.8%を古いスクラップが占め、その市場規模は約6,068億3,000万ドルに達し、2026年から2034年にかけて年平均成長率（CAGR）5.2%で成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の市場は2025年に約534億2000万米ドルを生み出した",
+    "url": "https://straitsresearch.com/jp/report/metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国市場は2025年には約2,035億6,000万米ドル規模となり、北米最大の市場となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "カナダの市場規模は2025年には約304億2000万米ドルに達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金属リサイクル市場規模は、2025年に155億7,000万米ドルと評価されており、スクラップ需要と投資の増加を背景に、2026年から2034年にかけて年平均成長率（CAGR）3.79％で拡大し、2034年には220億3,000万米ドルに達すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模：",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "pass": 3
+   },
+   {
+    "quote": "IMARCグループの最新レポート「日本の金属リサイクル市場：業界動向、シェア、規模、成長、機会、予測2026-2034」によると、日本の金属リサイクル市場は2025年に155億7000万米ドルと評価されました",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "pass": 3
+   },
+   {
+    "quote": "今後、市場規模は2034年までに220億3000万米ドルに達すると予想されており、2026年から2034年にかけて年平均成長率（CAGR）は3.79%となる見込みです",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "pass": 3
+   },
+   {
+    "quote": "市場は鉄鋼が45.2%のシェアを占め、銅、アルミニウム、その他の金属で構成されている",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "pass": 3
+   },
+   {
+    "quote": "日本製鉄は、国内3拠点で8700億円の電気炉投資を発表した",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "pass": 3
+   },
+   {
+    "quote": "日本製鉄は、炭素排出量削減戦略の一環として、国内3工場に電気炉を導入するために約8700億円（60億5000万米ドル）を投資する計画を発表した",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "pass": 3
+   },
+   {
+    "quote": "日本政府は、2028/2029年度までの脱炭素化イニシアチブを支援するため、2510億円の補助金を拠出することを約束している",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金属リサイクル市場は、2025年には155億7000万米ドルと評価され、2034年までに220億3000万米ドルに達すると予測されており、2026年から2034年にかけて年平均成長率（CAGR）3.79%で拡大すると見込まれている",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "pass": 3
+   },
+   {
+    "quote": "主な成長要因としては、日本が一次金属を構造的に輸入に依存しているため、二次回収が国家安全保障上の優先事項となっていること、日本製鉄による8,700億円の投資に支えられた電気炉製鋼への移行の加速、GX政策による補助金、電気自動車用バッテリー金属の回収需要の増加、AIを活用した選別技術の導入、そして日本鉄鋼連合会が2030年までに国内スクラップ循環量を690万トン増加させるという正式目標を設定していることなどが挙げられる",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "pass": 3
+   },
+   {
+    "quote": "日本の商用テレマティクス市場規模は2034年までに72億7,550万米ドルに達し、2026年から2034年にかけて年平均成長率（CAGR）15.0%で推移する見通し",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "pass": 3
+   },
+   {
+    "quote": "日本におけるEMIシールド市場調査レポート：市場規模・シェア・需要・動向・成長促進要因・主要メーカーおよび予測（2026年～2034年）",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "pass": 3
+   },
+   {
+    "quote": "日本乳房インプラント市場：乳房増大術および美容整形施術への需要の高まりにより、新たなビジネス機会が創出され、2034年までに市場規模が米ドル259.4ミリオンに達し、7.13%のCAGRで成長すると予測 | IMARC Group",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "pass": 3
+   },
+   {
+    "quote": "【調査レポート】 リサイクル銅市場規模・シェア分析 – 成長トレンドと予測 (2025年～2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "リサイクル銅市場規模・シェア分析 – 成長トレンドと予測 (2025年～2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "リサイクル銅市場は、2025年には904万トンと推定され、2030年には1,388万トンに達すると予測されており、予測期間（2025年～2030年）において年平均成長率（CAGR）8.96%で力強く成長すると見込まれています",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 供給源別: ポストコンシューマースクラップは2024年にリサイクル銅市場規模の55.23%を占め、2030年までにCAGR 9.57%で成長すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 最終用途産業別: 電気・電子産業は2024年にリサイクル銅市場規模の39.22%を占め、輸送部門は2030年までに最高のCAGR 9.92%を達成すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の300億円を投じた10のE-wasteハブへの投資は、都市の回収と産業精製を連携させています",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "ポストコンシューマースクラップは2024年にリサイクル銅市場規模の55.23%を占め、2030年までにCAGR 9.57%で拡大すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "日本は10のE-wasteハブに300億円を投資し、重要鉱物の国内保持を確保し、JX Advanced Metalsが主導する100%リサイクルカソードプログラムを育成しています",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "# 1. エグゼクティブサマリーと市場規模・成長予測",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "5. 市場規模と成長予測（数量）",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ファスナー市場：市場規模・シェア分析、成長動向と予測 (2025-2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "金属リサイクルの日本市場（2026年～2034年）、市場規模（鉄鋼、銅、アルミニウム）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/news/8926979",
+    "pass": 3
+   },
+   {
+    "quote": "金属リサイクルの日本市場（2026年～2034年）、市場規模（鉄鋼、銅、アルミニウム）・分析レポートを発表",
+    "url": "https://newscast.jp/news/8926979",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートによると、日本の金属リサイクル市場規模は2025年に156億米ドルに達しました",
+    "url": "https://newscast.jp/news/8926979",
+    "pass": 3
+   },
+   {
+    "quote": "日本金属リサイクル市場規模、シェア、成長予測 2034",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金属リサイクル市場規模、シェア、動向、予測 金属別、セクター別、地域別、2026-2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金属リサイクル市場規模と予測（2026年～2034年）",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金属リサイクル市場規模は、2025年に",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月、新日鉄は、九州製鉄所の3つの国内施設を電気炉技術へ移行するために8,700億円（約60億米ドル）を投資する計画を発表しました",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の「GX推進法」は、高炉から電気炉への転換に対して2,514億円の補助金枠を設けており、リサイクル鉄スクラップの需要を直接的に刺激している",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金属リサイクル市場は、2034年まで着実な収益成長を維持すると予想される",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "炭素排出量削減の取り組みの一環として、日本国内の3つの施設に電気アーク炉を導入するために、約8,700億円（60億5,000万ドル）を投資する計画です",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "資金の一部は日本政府から提供され、政府は2028/2029年度までに、これら3つの施設における同社の脱炭素化取り組みに対し、2,510億円の助成を行う計画です",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の鉄スクラップリサイクル市場規模、シェア、動向、予測タイプ、用途、エンドユーザー、地域別、2026-2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のE-wasteリサイクル市場規模、シェア、動向、予測 素材、供給源、地域別、2026-2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の建設解体廃棄物リサイクルの市場規模、シェア、動向、予測 素材、供給源、サービス、地域別、2026-2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "金属リサイクルの日本市場（～2031年）、市場規模（鉄金属、非鉄金属、建築および建設）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/news/2232730",
+    "pass": 3
+   },
+   {
+    "quote": "金属リサイクルの日本市場（～2031年）、市場規模（鉄金属、非鉄金属、建築および建設）・分析レポートを発表",
+    "url": "https://newscast.jp/news/2232730",
+    "pass": 3
+   },
+   {
+    "quote": "当調査会社が発表した調査レポート「Japan Metal Recycling Market Overview, 2030」によると、日本の金属リサイクル市場は2025年から2030年までに81億3,000万米ドル以上に拡大すると予測されている",
+    "url": "https://newscast.jp/news/2232730",
+    "pass": 3
+   },
+   {
+    "quote": "6.1. 金額別市場規模",
+    "url": "https://newscast.jp/news/2232730",
+    "pass": 3
+   },
+   {
+    "quote": "6.2. 金属の種類別市場規模と予測",
+    "url": "https://newscast.jp/news/2232730",
+    "pass": 3
+   },
+   {
+    "quote": "6.3. 最終用途産業別市場規模と予測",
+    "url": "https://newscast.jp/news/2232730",
+    "pass": 3
+   },
+   {
+    "quote": "6.4. スクラップ源別市場規模と予測",
+    "url": "https://newscast.jp/news/2232730",
+    "pass": 3
+   },
+   {
+    "quote": "6.5. 地域別市場規模と予測",
+    "url": "https://newscast.jp/news/2232730",
+    "pass": 3
+   },
+   {
+    "quote": "7.1.1. 日本の金属リサイクル市場規模、鉄金属別、2019-2030年",
+    "url": "https://newscast.jp/news/2232730",
+    "pass": 3
+   },
+   {
+    "quote": "7.1.2. 日本の金属リサイクル市場規模、非鉄金属別、2019-2030年",
+    "url": "https://newscast.jp/news/2232730",
+    "pass": 3
+   },
+   {
+    "quote": "7.2.1. 日本の金属リサイクル市場規模、建設・建築別、2019-2030年",
+    "url": "https://newscast.jp/news/2232730",
+    "pass": 3
+   },
+   {
+    "quote": "7.2.2. 日本の金属リサイクル市場規模、自動車・輸送別、2019-2030年",
+    "url": "https://newscast.jp/news/2232730",
+    "pass": 3
+   },
+   {
+    "quote": "金属リサイクルの日本市場（2026年～2034年）、市場規模（鉄鋼、銅、アルミニウム）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/8926979",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "金属リサイクル市場の規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の金属リサイクル市場規模は、2025年には9,511億4,000万米ドルと評価され、2026年の9,882億3,000万米ドルから2034年には1兆3,421億米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は3.9%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場CAGR（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の年平均成長率（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "金属リサイクル市場において、古スクラップ分野は年平均成長率（CAGR）5.2%で最も速い成長を遂げると予測されている",
+    "url": "https://straitsresearch.com/jp/report/metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、金属リサイクル市場全体の63.8%を古いスクラップが占め、その市場規模は約6,068億3,000万ドルに達し、2026年から2034年にかけて年平均成長率（CAGR）5.2%で成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車分野は市場の22.4%を占め、年平均成長率（CAGR）5.7%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金属リサイクル市場、2034年までに220.3億米ドル規模へ拡大 | 年平均成長率（CAGR）3.79%を記録",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金属リサイクル市場規模は、2025年に155億7,000万米ドルと評価されており、スクラップ需要と投資の増加を背景に、2026年から2034年にかけて年平均成長率（CAGR）3.79％で拡大し、2034年には220億3,000万米ドルに達すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "pass": 3
+   },
+   {
+    "quote": "今後、市場規模は2034年までに220億3000万米ドルに達すると予想されており、2026年から2034年にかけて年平均成長率（CAGR）は3.79%となる見込みです",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金属リサイクル市場は、2025年には155億7000万米ドルと評価され、2034年までに220億3000万米ドルに達すると予測されており、2026年から2034年にかけて年平均成長率（CAGR）3.79%で拡大すると見込まれている",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "pass": 3
+   },
+   {
+    "quote": "自動車産業は、2025年には32.7%のシェアを占め、自動車リサイクル法によって車両のライフサイクル全体にわたる生産者責任の拡大が義務付けられるなど、業界を牽引する存在となる見込みです",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金属リサイクル市場、2034年までに220.3億米ドル規模へ拡大 | 年平均成長率（CAGR）3.79%を記録 | IMARC Group",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "pass": 3
+   },
+   {
+    "quote": "日本の商用テレマティクス市場規模は2034年までに72億7,550万米ドルに達し、2026年から2034年にかけて年平均成長率（CAGR）15.0%で推移する見通し",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "pass": 3
+   },
+   {
+    "quote": "日本粘着テープ市場の2034年予測 | 5.87%のCAGRで米ドル7.6ビリオンに達すると予想",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "pass": 3
+   },
+   {
+    "quote": "日本乳房インプラント市場：乳房増大術および美容整形施術への需要の高まりにより、新たなビジネス機会が創出され、2034年までに市場規模が米ドル259.4ミリオンに達し、7.13%のCAGRで成長すると予測 | IMARC Group",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "pass": 3
+   },
+   {
+    "quote": "日本配管設備市場、4.84%のCAGR成長により2034年までに米ドル8.8ビリオンに達すると予測",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "pass": 3
+   },
+   {
+    "quote": "リサイクル銅市場は、2025年には904万トンと推定され、2030年には1,388万トンに達すると予測されており、予測期間（2025年～2030年）において年平均成長率（CAGR）8.96%で力強く成長すると見込まれています",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 銅の種類別: 純銅は2024年にリサイクル銅市場シェアの61.18%を占め、銅合金は2030年までにCAGR 9.65%で成長すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 供給源別: ポストコンシューマースクラップは2024年にリサイクル銅市場規模の55.23%を占め、2030年までにCAGR 9.57%で成長すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* プロセス別: 乾式製錬は2024年に45.71%の量シェアを占めていましたが、湿式製錬は2025年から2030年にかけて最速のCAGR 9.72%を記録すると予想されています",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 最終用途産業別: 電気・電子産業は2024年にリサイクル銅市場規模の39.22%を占め、輸送部門は2030年までに最高のCAGR 9.92%を達成すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 地域別: アジア太平洋地域は2024年に44.64%のシェアで市場を支配し、2030年までにCAGR 9.81%で加速すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "インドの銅需要は2023会計年度に16%増加し、2028会計年度からは新規インフラプロジェクトにおけるリサイクル銅含有量を5%義務付け、2031会計年度までに20%に拡大する予定です",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "COMEX（商品取引所）の銅先物価格は2025年初頭に15.26%上昇し、ロンドン金属取引所（LME）価格とのスプレッドがトンあたり約950米ドル近くに拡大し、リサイクル業者のヘッジ戦略を混乱させました",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "銅合金は、自動車の熱交換器、精密コネクタ、抗菌表面にリサイクル真鍮や青銅が採用されることで、CAGR 9.65%を記録すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "ポストコンシューマースクラップは2024年にリサイクル銅市場規模の55.23%を占め、2030年までにCAGR 9.57%で拡大すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、エネルギーコストとCO2規制は、2030年までにCAGR 9.72%を記録する湿式製錬回路への関心を高めています",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "今後、本調査会社は、同市場が2034年までに220億米ドルに達し、2026年から2034年にかけて年平均成長率（CAGR）3.92%で成長すると予測しています",
+    "url": "https://newscast.jp/news/8926979",
+    "pass": 3
+   },
+   {
+    "quote": "と評価されており、スクラップ需要と投資の増加を背景に、2026年から2034年にかけて年平均成長率",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "（CAGR）3.79％で",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "拡大し、2034年には",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "当調査会社が発表した調査レポート「Japan Metal Recycling Market Overview, 2030」によると、日本の金属リサイクル市場は2025年から2030年までに81億3,000万米ドル以上に拡大すると予測されている",
+    "url": "https://newscast.jp/news/2232730",
+    "pass": 3
+   },
+   {
+    "quote": "今後、本調査会社は、同市場が2034年までに220億米ドルに達し、2026年から2034年にかけて年平均成長率（CAGR）3.92%で成長すると予測しています",
+    "url": "https://www.atpress.ne.jp/news/8926979",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025 - 2035)",
+    "url": "https://www.marketresearchfuture.com/reports/recycled-aluminum-market-29064",
+    "pass": 3
+   },
+   {
+    "quote": "As per Market Research Future analysis, the Recycled Aluminum Market Size was estimated at 95.99 USD Billion in 2024. The Recycled Aluminum industry is projected to grow from 100.24 USD Billion in 2025 to 154.67 USD Billion by 2035, exhibiting a compound annual growth rate (CAGR) of 4.43% during the forecast period 2025 - 2035",
+    "url": "https://www.marketresearchfuture.com/reports/recycled-aluminum-market-29064",
+    "pass": 3
+   },
+   {
+    "quote": "The Recycled Aluminum Market is projected to grow at a 4.43% CAGR from 2025 to 2035, driven by increasing sustainability initiatives and rising demand for lightweight materials.",
+    "url": "https://www.marketresearchfuture.com/reports/recycled-aluminum-market-29064",
+    "pass": 3
+   },
+   {
+    "quote": "What is the expected CAGR for the Recycled Aluminum Market during the forecast period 2025 - 2035?",
+    "url": "https://www.marketresearchfuture.com/reports/recycled-aluminum-market-29064",
+    "pass": 3
+   },
+   {
+    "quote": "The expected CAGR for the Recycled Aluminum Market during the forecast period 2025 - 2035 is 4.43%.",
+    "url": "https://www.marketresearchfuture.com/reports/recycled-aluminum-market-29064",
+    "pass": 3
+   },
+   {
+    "quote": "The global aluminum market size is valued at USD 190.98 billion in 2025 and is predicted to increase from USD 203.02 billion in 2026 to approximately USD 347.29 billion by 2035, expanding at a CAGR of 6.16% from 2026 to 2035. The market growth is driven by the increasing demand for lightweight and durable materials across industries such as automotive, aerospace, and construction.",
+    "url": "https://www.precedenceresearch.com/aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "By series, series 7 is anticipated is growing faster at a CAGR of 7.2% from 20265 to 2035. The series 1 segment occupied a market share of around 20.5% in 2025.",
+    "url": "https://www.precedenceresearch.com/aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "By processing method, the rod & bar segment is projected to reach a CAGR of 7.1% over the forecast period.",
+    "url": "https://www.precedenceresearch.com/aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 6.24%",
+    "url": "https://www.precedenceresearch.com/aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Asia Pacific aluminum market size is estimated at USD 133.99 billion in 2026 and is predicted to be worth around USD 231.41 billion by 2035, at a CAGR of 6.26% from 2026 to 2035.",
+    "url": "https://www.precedenceresearch.com/aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 2: What will be the CAGR of global aluminum market?",
+    "url": "https://www.precedenceresearch.com/aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global aluminum market is poised to grow at a CAGR of 6.16% from 2026 to 2035.",
+    "url": "https://www.precedenceresearch.com/aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2033)",
+    "url": "https://www.datamintelligence.com/research-report/recycled-aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Recycled Aluminum Market reached US$ 61.0 billion in 2025 and is expected to reach US$ 117.0 billion by 2033, growing with a CAGR of 7.7% during the forecast period 2026-2033.",
+    "url": "https://www.datamintelligence.com/research-report/recycled-aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "Recycled Aluminum Market reached US$ 61.0 billion in 2025 and is expected to reach US$ 117.0 billion by 2033, growing with a CAGR of 7.7% during the forecast period 2026-2033.",
+    "url": "https://www.datamintelligence.com/research-report/recycled-aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026 to 2036)",
+    "url": "https://www.futuremarketinsights.com/reports/aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "The aluminum market is estimated at USD 183.1 billion in 2025 and is projected to reach USD 194.3 billion in 2026. Sales of aluminum are expected to grow at a CAGR of 6.1% and reach USD 351.2 billion by 2036.",
+    "url": "https://www.futuremarketinsights.com/reports/aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "New smelter, rolling and foil lines coming on stream in Odisha and elsewhere give India the top projected CAGR, 8.4%.",
+    "url": "https://www.futuremarketinsights.com/reports/aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026 to 2036",
+    "url": "https://www.futuremarketinsights.com/reports/aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "Each electric car carries an aluminum battery enclosure, and with an 8.5% CAGR in prospect for the",
+    "url": "https://www.futuremarketinsights.com/reports/aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "Table 4: Series Leadership and Market Growth for the Aluminum Market (segment and CAGR percentage), 2026 to 2036",
+    "url": "https://www.futuremarketinsights.com/reports/aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global CAGR (2026 to 2036)",
+    "url": "https://www.futuremarketinsights.com/reports/aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": ", forecast to rise on a 4.7% CAGR. Hydro shipped 262 kt of extrusions to external markets in the second quarter of 2026.",
+    "url": "https://www.futuremarketinsights.com/reports/aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "expands at an expected 10% CAGR. Buildings use the most metal per project, and that tonnage keeps construction ahead of vehicles.",
+    "url": "https://www.futuremarketinsights.com/reports/aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "Steel still supplies many beams and car bodies on price, and a 4% CAGR outlook for the",
+    "url": "https://www.futuremarketinsights.com/reports/aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "Table 8: Country CAGR Comparison for the Aluminum Market (CAGR percentage), 2026 to 2036",
+    "url": "https://www.futuremarketinsights.com/reports/aluminum-market",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "金属リサイクル市場における主要企業はどこですか？",
+    "url": "https://straitsresearch.com/jp/report/metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、このレポートでは、すべての主要企業の詳細なプロファイルも掲載しています",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、徹底的な市場評価、実現可能性調査、会社設立支援、工場設立サポート、規制当局の承認およびライセンス取得支援、ブランディング、マーケティングおよび販売戦略、競合環境およびベンチマーク分析、価格およびコスト調査、調達調査など、市場参入および事業拡大に関する包括的なサービスを提供しています",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "pass": 3
+   },
+   {
+    "quote": "市場の競争環境は、市場集中度、主要企業の戦略的動向、市場シェア分析を通じて評価されています",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "4.5.1 新規参入の脅威",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "本市場調査レポートは、競争環境についても包括的な分析を提供しており、市場構造、主要企業のポジショニング、主要な勝利戦略、競争ダッシュボード、企業評価象限といった競争分析が含まれています",
+    "url": "https://newscast.jp/news/8926979",
+    "pass": 3
+   },
+   {
+    "quote": "また、全主要企業の詳細なプロフィールも提供されています",
+    "url": "https://newscast.jp/news/8926979",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートで回答される主な質問には、日本の金属リサイクル市場がこれまでどのように推移し、今後どのように推移するか、金属別、セクター別、地域別の市場の内訳、日本の金属リサイクル市場のバリューチェーンにおけるさまざまな段階、市場における主要な推進要因と課題、日本の金属リサイクル市場の構造と主要プレイヤー、そして市場の競争の度合いが含まれます",
+    "url": "https://newscast.jp/news/8926979",
+    "pass": 3
+   },
+   {
+    "quote": "第8章には日本の金属リサイクル市場の地域別内訳として、関東、関西/近畿、中部、九州・沖縄、東北、中国、北海道、四国の各地域における概要、過去および現在の市場トレンド（2020-2025年）、金属別内訳、セクター別内訳、主要プレイヤー、市場予測（2026-2034年）が記載されている",
+    "url": "https://newscast.jp/news/8926979",
+    "pass": 3
+   },
+   {
+    "quote": "第10章には主要プレイヤーのプロフィールとして、複数の企業（Company A～E）の事業概要、提供製品、事業戦略、SWOT分析、主要ニュースとイベントが記載されている",
+    "url": "https://newscast.jp/news/8926979",
+    "pass": 3
+   },
+   {
+    "quote": "第11章には日本の金属リサイクル市場の業界分析として、促進要因、抑制要因、機会（概要、促進要因、抑制要因、機会）、ポーターのファイブフォース分析（概要、買い手の交渉力、サプライヤーの交渉力、競争の度合い、新規参入の脅威、代替品の脅威）、およびバリューチェーン分析が記載されている",
+    "url": "https://newscast.jp/news/8926979",
+    "pass": 3
+   },
+   {
+    "quote": "中部地域は日本の自動車製造拠点と深く結びついており、主要企業や精密金属部品メーカーの密なネットワークが形成されています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金属リサイクル市場 - 主要プレイヤー",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "ポーターの5つの力分析は、新規参入、競合他社との競争、供給者の力、購入者の力、代替品の脅威といった要因の影響をステークホルダーが評価する上で役立ちます",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "• 主要企業プロファイル",
+    "url": "https://newscast.jp/news/2232730",
+    "pass": 3
+   },
+   {
+    "quote": "本市場調査レポートは、競争環境についても包括的な分析を提供しており、市場構造、主要企業のポジショニング、主要な勝利戦略、競争ダッシュボード、企業評価象限といった競争分析が含まれています",
+    "url": "https://www.atpress.ne.jp/news/8926979",
+    "pass": 3
+   },
+   {
+    "quote": "また、全主要企業の詳細なプロフィールも提供されています",
+    "url": "https://www.atpress.ne.jp/news/8926979",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートで回答される主な質問には、日本の金属リサイクル市場がこれまでどのように推移し、今後どのように推移するか、金属別、セクター別、地域別の市場の内訳、日本の金属リサイクル市場のバリューチェーンにおけるさまざまな段階、市場における主要な推進要因と課題、日本の金属リサイクル市場の構造と主要プレイヤー、そして市場の競争の度合いが含まれます",
+    "url": "https://www.atpress.ne.jp/news/8926979",
+    "pass": 3
+   },
+   {
+    "quote": "第8章には日本の金属リサイクル市場の地域別内訳として、関東、関西/近畿、中部、九州・沖縄、東北、中国、北海道、四国の各地域における概要、過去および現在の市場トレンド（2020-2025年）、金属別内訳、セクター別内訳、主要プレイヤー、市場予測（2026-2034年）が記載されている",
+    "url": "https://www.atpress.ne.jp/news/8926979",
+    "pass": 3
+   },
+   {
+    "quote": "第10章には主要プレイヤーのプロフィールとして、複数の企業（Company A～E）の事業概要、提供製品、事業戦略、SWOT分析、主要ニュースとイベントが記載されている",
+    "url": "https://www.atpress.ne.jp/news/8926979",
+    "pass": 3
+   },
+   {
+    "quote": "第11章には日本の金属リサイクル市場の業界分析として、促進要因、抑制要因、機会（概要、促進要因、抑制要因、機会）、ポーターのファイブフォース分析（概要、買い手の交渉力、サプライヤーの交渉力、競争の度合い、新規参入の脅威、代替品の脅威）、およびバリューチェーン分析が記載されている",
+    "url": "https://www.atpress.ne.jp/news/8926979",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/recycled-aluminum-market-29064",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.marketresearchfuture.com/reports/recycled-aluminum-market-29064",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players and Competitive Insights",
+    "url": "https://www.marketresearchfuture.com/reports/recycled-aluminum-market-29064",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies in the Recycled Aluminum Market include",
+    "url": "https://www.marketresearchfuture.com/reports/recycled-aluminum-market-29064",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, and Trends",
+    "url": "https://www.marketresearchfuture.com/reports/recycled-aluminum-market-29064",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/recycled-aluminum-market-29064",
+    "pass": 3
+   },
+   {
+    "quote": "Which key players are leading the Recycled Aluminum Market?",
+    "url": "https://www.marketresearchfuture.com/reports/recycled-aluminum-market-29064",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the market include Novelis Inc, Hindalco Industries Limited, and Alcoa Corporation.",
+    "url": "https://www.marketresearchfuture.com/reports/recycled-aluminum-market-29064",
+    "pass": 3
+   },
+   {
+    "quote": "Aluminum Market Size, Key Companies, Company Market Share, Production Capacity, Raw Material Pricing, Export & Import Analysis, Manufacturing Cost, Competitive Positioning, and Demand Forecast",
+    "url": "https://www.precedenceresearch.com/aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.precedenceresearch.com/aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "Other Major Key Players",
+    "url": "https://www.precedenceresearch.com/aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players:",
+    "url": "https://www.precedenceresearch.com/aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 3: Who are the prominent players operating in the aluminum market?",
+    "url": "https://www.precedenceresearch.com/aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape Analysis, Company Profile Analysis, Market Size, Share, Growth, Demand, Recent Developments, Mergers and Acquisitions, New Product Launches, Growth Strategies, Revenue Analysis, Porter’s Analysis, Pricing Analysis, Regulatory Analysis, Supply-Chain Analysis and Other key Insights.",
+    "url": "https://www.datamintelligence.com/research-report/recycled-aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.datamintelligence.com/research-report/recycled-aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "Product mapping available as excel consisting of key products of all the major players.",
+    "url": "https://www.datamintelligence.com/research-report/recycled-aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in Global Recycled Aluminum Market ?",
+    "url": "https://www.datamintelligence.com/research-report/recycled-aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players are Novelis Inc., Kuusakoski oy, Norsk Hydro ASA, GAL Aluminum Extrusions Pvt. Ltd., Constellium, STEINERT Global, COHEN, Stena Aluminum, Jain Resource Recycling Pvt. Ltd. and Real Alloy.",
+    "url": "https://www.datamintelligence.com/research-report/recycled-aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "A comprehensive report generally covers market size, forecasts, competitive landscape, company profiles, market segmentation, regional analysis, pricing trends, supply chain analysis, investment opportunities, and strategic recommendations.",
+    "url": "https://www.datamintelligence.com/research-report/recycled-aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "Businesses should assess scrap availability, regional demand, recycling technologies, regulatory policies, production costs, sustainability requirements, competitive landscape, and long-term market opportunities.",
+    "url": "https://www.datamintelligence.com/research-report/recycled-aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players in the Aluminum Market",
+    "url": "https://www.futuremarketinsights.com/reports/aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.futuremarketinsights.com/reports/aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies",
+    "url": "https://www.futuremarketinsights.com/reports/aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "Emerging Startups",
+    "url": "https://www.futuremarketinsights.com/reports/aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key companies in the aluminum market?",
+    "url": "https://www.futuremarketinsights.com/reports/aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "Startups and industrial players are integrating",
+    "url": "https://www.strategicmarketresearch.com/market-report/aluminum-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "This market may seem fragmented at first glance, but leadership is quickly consolidating among players that offer more than just melting capacity. What sets leaders apart? Scale, traceability, partnerships with OEMs — and the ability to deliver high-grade, low-carbon aluminum consistently. Let’s break down who’s shaping the competitive landscape.",
+    "url": "https://www.strategicmarketresearch.com/market-report/aluminum-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in the aluminum recycling market?",
+    "url": "https://www.strategicmarketresearch.com/market-report/aluminum-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players include",
+    "url": "https://www.strategicmarketresearch.com/market-report/aluminum-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players by Revenue and Market Share",
+    "url": "https://www.strategicmarketresearch.com/market-report/aluminum-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "Recycled Aluminum Market Size, Share & Competitive Landscape",
+    "url": "https://www.emergenresearch.com/industry-report/recycled-aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "Recycled Aluminum Market Competitive Landscape",
+    "url": "https://www.emergenresearch.com/industry-report/recycled-aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.emergenresearch.com/industry-report/recycled-aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "Major players include Norsk Hydro, Alcoa Corporation, Novelis Inc., and Rio Tinto Group, focusing on capacity expansion, advanced technologies, and closed-loop recycling systems.",
+    "url": "https://www.emergenresearch.com/industry-report/recycled-aluminum-market",
+    "pass": 3
+   }
+  ],
+  "日本企業": [
+   {
+    "quote": "日本の金属リサイクル市場に関する洞察",
+    "url": "https://straitsresearch.com/jp/report/metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の市場は2025年に約534億2000万米ドルを生み出した",
+    "url": "https://straitsresearch.com/jp/report/metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "Dowa Holdings Co., Ltd.",
+    "url": "https://straitsresearch.com/jp/report/metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "EMR（欧州金属リサイクル）は、三菱商事と戦略的パートナーシップを締結し、使用済みバッテリーや電子機器スクラップからの重要鉱物の回収とリサイクルを加速させ、エネルギー転換材料の循環型サプライチェーンを支援する",
+    "url": "https://straitsresearch.com/jp/report/metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金属リサイクル市場、2034年までに220.3億米ドル規模へ拡大 | 年平均成長率（CAGR）3.79%を記録",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金属リサイクル市場規模は、2025年に155億7,000万米ドルと評価されており、スクラップ需要と投資の増加を背景に、2026年から2034年にかけて年平均成長率（CAGR）3.79％で拡大し、2034年には220億3,000万米ドルに達すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "pass": 3
+   },
+   {
+    "quote": "日本金属リサイクル市場",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "pass": 3
+   },
+   {
+    "quote": "日本金属リサイクル市場レポート2026",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "pass": 3
+   },
+   {
+    "quote": "IMARCグループの最新レポート「日本の金属リサイクル市場：業界動向、シェア、規模、成長、機会、予測2026-2034」によると、日本の金属リサイクル市場は2025年に155億7000万米ドルと評価されました",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market/requestsample",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "pass": 3
+   },
+   {
+    "quote": "2026年における日本の金属リサイクル産業の動向と需要：",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "pass": 3
+   },
+   {
+    "quote": "【日本】日本の金属リサイクル市場は、資源安全保障戦略として二次金属回収に構造的に依存していること、鉄鋼業界における電気炉（EAF）技術への移行が加速していること、政府が推進するGX（グリーン・トランスフォーメーション）イニシアチブ、電気自動車（EV）メーカーや半導体製造工場からの高純度リサイクルアルミニウムと銅の需要増加、そしてAI搭載センサーベース選別システムの普及拡大などにより、持続的に成長している",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "pass": 3
+   },
+   {
+    "quote": "日本鉄鋼連合会（JISF）は、2030年までに国内スクラップの循環量を690万トン増加させるという具体的な目標を掲げた",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "pass": 3
+   },
+   {
+    "quote": "日本製鉄は、国内3拠点で8700億円の電気炉投資を発表した",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "pass": 3
+   },
+   {
+    "quote": "電子スクラップの都市採掘による高級貴金属の回収、いわゆる「金採掘」？市場は、輸入に依存していた一次金属生産から、二次金属の回収を中心とした高効率循環システムへの日本の戦略的転換を反映している",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "pass": 3
+   },
+   {
+    "quote": "世界第4位のスクラップ輸出国としての日本の地位は、グローバル市場との連携を支えている",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "pass": 3
+   },
+   {
+    "quote": "AIは日本の金属リサイクル市場の未来をどのように変革するのか：",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "pass": 3
+   },
+   {
+    "quote": "これらの機能は、プレミアムグリーン鋼認証を支え、日本のリサイクル業者が国内市場および輸出市場に高規格のスクラップを安定的に供給することを可能にします",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "pass": 3
+   },
+   {
+    "quote": "これらの技術により、日本のバッテリーリサイクル業界は、予測期間を通じて急速に増加する電気自動車（EV）の廃バッテリーから、成長を続ける価値の流れを獲得できる態勢を整えています",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "pass": 3
+   },
+   {
+    "quote": "※本ページの内容は、英文レポートの概要および目次を日本語に自動翻訳したものです",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の300億円を投じた10のE-wasteハブへの投資は、都市の回収と産業精製を連携させています",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "JX Advanced Metalsは、厳格なIEC導電性コードを満たす100%リサイクル電解銅カソードを精製しました",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "日本は10のE-wasteハブに300億円を投資し、重要鉱物の国内保持を確保し、JX Advanced Metalsが主導する100%リサイクルカソードプログラムを育成しています",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM（相手先ブランド製造業者）による回収義務化は、EU、インド、日本などで体系的なプログラムを通じて、予測可能で高品質なスクラップの流れを生み出し、リサイクル業者の原料調達リスクを低減する効果をもたらしています",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 地域別: アジア太平洋（中国、日本、インド、韓国、ASEAN諸国、その他）、北米（米国、カナダ、メキシコ）、ヨーロッパ（ドイツ、英国、フランス、イタリア、スペイン、ロシア、北欧諸国、その他）、南米（ブラジル、アルゼンチン、その他）、中東・アフリカ（サウジアラビア、南アフリカ、その他）",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "5.5.1.2 日本",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "金属リサイクルの日本市場（2026年～2034年）、市場規模（鉄鋼、銅、アルミニウム）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/news/8926979",
+    "pass": 3
+   },
+   {
+    "quote": "金属リサイクルの日本市場（2026年～2034年）、市場規模（鉄鋼、銅、アルミニウム）・分析レポートを発表",
+    "url": "https://newscast.jp/news/8926979",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社マーケットリサーチセンター（本社：東京都港区、世界の市場調査資料販売）では、「金属リサイクルの日本市場（2026年～2034年）、英文タイトル：Japan Metal Recycling Market 2026-2034」調査資料を発表しました",
+    "url": "https://newscast.jp/news/8926979",
+    "pass": 3
+   },
+   {
+    "quote": "資料には、金属リサイクルの日本市場規模、動向、予測、関連企業の情報などが盛り込まれています",
+    "url": "https://newscast.jp/news/8926979",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートによると、日本の金属リサイクル市場規模は2025年に156億米ドルに達しました",
+    "url": "https://newscast.jp/news/8926979",
+    "pass": 3
+   },
+   {
+    "quote": "特に自動車およびエレクトロニクス分野における日本の先進的な製造業は、生産コストと炭素排出量を削減するために、高品質のリサイクル金属に対する安定した需要を生み出しています",
+    "url": "https://newscast.jp/news/8926979",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、国内の限られた天然金属資源がスクラップ金属の回収と再利用をさらに奨励しており、政府主導のイニシアチブと技術革新が日本の金属リサイクル市場シェアを拡大させています",
+    "url": "https://newscast.jp/news/8926979",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金属リサイクル市場は、その高度に発達した製造業に大きく影響されており、これにより多様で継続的な産業金属スクラップが生成されます",
+    "url": "https://newscast.jp/news/8926979",
+    "pass": 3
+   },
+   {
+    "quote": "業界報告によると、2024年1月から9月までの日本の自動車生産台数はわずか601万台であり、パンデミック前の水準と比較して製造活動の低迷を反映しています",
+    "url": "https://newscast.jp/news/8926979",
+    "pass": 3
+   },
+   {
+    "quote": "日本の産業基盤の先進性は、技術的に統合されたリサイクルソリューションの強力な基盤を提供し、国内再利用のための高品質な二次原料の安定供給を確保しています",
+    "url": "https://newscast.jp/news/8926979",
+    "pass": 3
+   },
+   {
+    "quote": "政府の関与も、日本の金属リサイクル市場の成長に大きく貢献しています",
+    "url": "https://newscast.jp/news/8926979",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、2025年2月20日、日本の経済産業省（METI）は、低炭素排出鋼を使用して製造されたクリーンエネルギー車（CEV）に対して50,000円（約350.50米ドル）の補助金を導入し、自動車部門でのグリーン鋼の採用を促進することを目指しています",
+    "url": "https://newscast.jp/news/8926979",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートで回答される主な質問には、日本の金属リサイクル市場がこれまでどのように推移し、今後どのように推移するか、金属別、セクター別、地域別の市場の内訳、日本の金属リサイクル市場のバリューチェーンにおけるさまざまな段階、市場における主要な推進要因と課題、日本の金属リサイクル市場の構造と主要プレイヤー、そして市場の競争の度合いが含まれます",
+    "url": "https://newscast.jp/news/8926979",
+    "pass": 3
+   },
+   {
+    "quote": "第4章には日本の金属リサイクル市場の導入として、概要、市場動向、業界トレンド、競合インテリジェンスが記載されている",
+    "url": "https://newscast.jp/news/8926979",
+    "pass": 3
+   },
+   {
+    "quote": "第5章には日本の金属リサイクル市場の展望として、過去および現在の市場トレンド（2020-2025年）と市場予測（2026-2034年）が記載されている",
+    "url": "https://newscast.jp/news/8926979",
+    "pass": 3
+   },
+   {
+    "quote": "日本金属リサイクル市場規模、シェア、成長予測 2034",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金属リサイクル市場",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金属リサイクル市場規模、シェア、動向、予測 金属別、セクター別、地域別、2026-2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金属リサイクル市場規模と予測（2026年～2034年）",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金属リサイクル市場規模は、2025年に",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本鉄鋼連盟（JISF）は、金属スクラップ需要の急増が見込まれることを受け、2030年までに国内のスクラップ循環量を約690万トン増加させるという目標を掲げました",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金属リサイクル産業分析 - 主要な洞察",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "これは、日本国内に蓄積された14億トンという膨大な鉄鋼ストックと、スクラップを鉄筋や形鋼に転換する電気アーク炉ミニミルが主流であるという構造的な要因に支えられています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金属リサイクル市場の動向とダイナミクス 2026",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の鉄鋼業界は、石炭を大量に消費する高炉および基本酸素炉による生産から、スクラップを原料とする電気アーク炉（EAF）への根本的な構造転換を遂げつつあります",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本政府は、リサイクルから鉄鋼へのプロセスを加速させるため、多額の財政支援を展開している",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のリサイクル業者は、X線蛍光分析（XRF）やAIを活用した画像処理を用いた高度なセンサーベースの選別システムを導入し、不純物を含まない高品質なスクラップストリームの生産に取り組んでいる",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本は年間スクラップ輸出量で世界第4位であり、主な輸出先は韓国、ベトナム、台湾である",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本は国内生産に必要な鉄鉱石、銅精鉱、ボーキサイトのほぼすべてを輸入に依存しており、二次金属の回収は国家的な資源安全保障戦略となっている",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本鉄鋼連盟（JISF）は、回収インフラの整備と新たなインセンティブ制度を通じて、2030年までに国内のスクラップ循環量を690万トン増加させるという正式な目標を設定した",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "金属リサイクルの日本市場（～2031年）、市場規模（鉄金属、非鉄金属、建築および建設）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/news/2232730",
+    "pass": 3
+   },
+   {
+    "quote": "金属リサイクルの日本市場（～2031年）、市場規模（鉄金属、非鉄金属、建築および建設）・分析レポートを発表",
+    "url": "https://newscast.jp/news/2232730",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社マーケットリサーチセンター（本社：東京都港区、世界の市場調査資料販売）では、「金属リサイクルの日本市場（～2031年）、英文タイトル：Japan Metal Recycling Market Overview,2030」調査資料を発表しました",
+    "url": "https://newscast.jp/news/2232730",
+    "pass": 3
+   },
+   {
+    "quote": "資料には、金属リサイクルの日本市場規模、動向、セグメント別予測（鉄金属、非鉄金属、建築および建設）、関連企業の情報などが盛り込まれています",
+    "url": "https://newscast.jp/news/2232730",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "金属リサイクル市場の規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "金属リサイクル市場の規模、シェア、トレンド分析レポート：金属の種類別（鉄系、非鉄系）、スクラップの種類別（古スクラップ、新スクラップ）、エンドユーザー別（建築・建設、自動車、造船、耐久消費財、リサイクル、産業機械、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、2025年に43.2%の市場シェアを占め、金属リサイクル市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域市場シェア（2025年）",
+    "url": "https://straitsresearch.com/jp/report/metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場シェア",
+    "url": "https://straitsresearch.com/jp/report/metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "鉄系金属セグメントは、2025年に金属リサイクル市場で69.4%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "鉄系金属は、2025年には世界の金属リサイクル市場において69.4%のシェアを占め、約6,600億9,000万ドル規模で圧倒的なシェアを誇りました",
+    "url": "https://straitsresearch.com/jp/report/metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属は市場の30.6%を占め、その価値は約2,910億5,000万ドルに上る",
+    "url": "https://straitsresearch.com/jp/report/metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼は市場全体の38.6%を占め、最大の個別サブセグメントであり、次いで合金鋼、鋳鉄、錬鉄が続いた",
+    "url": "https://straitsresearch.com/jp/report/metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属では、アルミニウムが13.7%、銅が8.9%を占めた",
+    "url": "https://straitsresearch.com/jp/report/metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、金属リサイクル市場全体の63.8%を古いスクラップが占め、その市場規模は約6,068億3,000万ドルに達し、2026年から2034年にかけて年平均成長率（CAGR）5.2%で成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "建築・建設業界は、古スクラップの中で最大の供給源であり、市場全体の19.6%を占めている",
+    "url": "https://straitsresearch.com/jp/report/metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "新規スクラップは市場全体の36.2%を占め、その価値は約3,443億1,000万ドルに上る",
+    "url": "https://straitsresearch.com/jp/report/metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "建築・建設分野は、2025年に金属リサイクル市場で33.5%のシェアを占め、市場を牽引するだろう",
+    "url": "https://straitsresearch.com/jp/report/metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "IMARCグループの最新レポート「日本の金属リサイクル市場：業界動向、シェア、規模、成長、機会、予測2026-2034」によると、日本の金属リサイクル市場は2025年に155億7000万米ドルと評価されました",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "pass": 3
+   },
+   {
+    "quote": "市場は鉄鋼が45.2%のシェアを占め、銅、アルミニウム、その他の金属で構成されている",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "pass": 3
+   },
+   {
+    "quote": "関東地方は、強力な産業スクラップ基盤とEAFミニミルネットワークにより、38.4%の市場シェアを占めている",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼は2025年時点で45.2%と最大のシェアを占める見込みであり、これは日本の約14億トンという膨大な鉄鋼在庫と、スクラップを原料とする電気炉ミニミルがリサイクルスクラップを鉄筋や構造用鋼材に加工する構造的な優位性によって支えられている",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "pass": 3
+   },
+   {
+    "quote": "自動車産業は、2025年には32.7%のシェアを占め、自動車リサイクル法によって車両のライフサイクル全体にわたる生産者責任の拡大が義務付けられるなど、業界を牽引する存在となる見込みです",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "pass": 3
+   },
+   {
+    "quote": "日本におけるEMIシールド市場調査レポート：市場規模・シェア・需要・動向・成長促進要因・主要メーカーおよび予測（2026年～2034年）",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "pass": 3
+   },
+   {
+    "quote": "日本の食品用乳化剤市場：市場規模、シェア、業界需要、成長促進要因、主要メーカー、および予測（2026年～2034年）",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "pass": 3
+   },
+   {
+    "quote": "【調査レポート】 リサイクル銅市場規模・シェア分析 – 成長トレンドと予測 (2025年～2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "リサイクル銅市場規模・シェア分析 – 成長トレンドと予測 (2025年～2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 銅の種類別: 純銅は2024年にリサイクル銅市場シェアの61.18%を占め、銅合金は2030年までにCAGR 9.65%で成長すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 供給源別: ポストコンシューマースクラップは2024年にリサイクル銅市場規模の55.23%を占め、2030年までにCAGR 9.57%で成長すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* プロセス別: 乾式製錬は2024年に45.71%の量シェアを占めていましたが、湿式製錬は2025年から2030年にかけて最速のCAGR 9.72%を記録すると予想されています",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 最終用途産業別: 電気・電子産業は2024年にリサイクル銅市場規模の39.22%を占め、輸送部門は2030年までに最高のCAGR 9.92%を達成すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "* 地域別: アジア太平洋地域は2024年に44.64%のシェアで市場を支配し、2030年までにCAGR 9.81%で加速すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "インドの非組織的な回収業者は国内供給の38%を占めていますが、一貫性のない純度を提供するため、下流の精製コストを押し上げています",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "純銅は2024年のリサイクル銅市場シェアの61.18%を占め、電力網、EVハーネス、再生可能エネルギーケーブルにおける不可欠な導電性ニーズを反映しています",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "ポストコンシューマースクラップは2024年にリサイクル銅市場規模の55.23%を占め、2030年までにCAGR 9.57%で拡大すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "乾式製錬経路は、長年の炉ネットワークと混合原料への耐性により、2024年にリサイクル銅市場シェアの45.71%を維持しました",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は2024年に世界の量の44.64%を占め、2030年までにCAGR 9.81%で成長すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "地域別では、アジア太平洋地域が2024年の市場ボリュームの44.64%を占め、2030年まで9.81%のCAGRで成長を続け、引き続き市場を牽引すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "日本金属リサイクル市場規模、シェア、成長予測 2034",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金属リサイクル市場規模、シェア、動向、予測 金属別、セクター別、地域別、2026-2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の金属別シェアでは、鉄鋼が45.2%と最大のシェアを占めています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には関東地方が38.4%で地域別首位となる見込みである",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼 - 市場シェア45.2%（2025年） | 主要金属",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の主要なEAF鉄鋼メーカー上位5社（東京製鉄、共栄製鉄、合東製鉄、中山製鉄所、大和製鉄）は、国内の粗鋼生産量の約10％を占めている",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車 - 市場シェア32.7%（2025年） | 主要セクター",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "関東地方 - 市場シェア38.4%（2025年） | 主要地域",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場シェア",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の鉄スクラップリサイクル市場規模、シェア、動向、予測タイプ、用途、エンドユーザー、地域別、2026-2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のE-wasteリサイクル市場規模、シェア、動向、予測 素材、供給源、地域別、2026-2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の建設解体廃棄物リサイクルの市場規模、シェア、動向、予測 素材、供給源、サービス、地域別、2026-2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "Coverage of manufacturers representing 75-80% of global recycled aluminum market share in 2024",
+    "url": "https://www.marketresearchfuture.com/reports/recycled-aluminum-market-29064",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific led the global market with the highest market share of 66% in 2025.",
+    "url": "https://www.precedenceresearch.com/aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "By series, series 7 is anticipated is growing faster at a CAGR of 7.2% from 20265 to 2035. The series 1 segment occupied a market share of around 20.5% in 2025.",
+    "url": "https://www.precedenceresearch.com/aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "By end-use industry, the transport segment accounted for 33% of revenue share in 2025.",
+    "url": "https://www.precedenceresearch.com/aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "Why Does the Series 1 Segment Dominate the Aluminum Market?",
+    "url": "https://www.precedenceresearch.com/aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "Why Did the Flat Rolled Segment Dominated the Aluminum Market in 2025?",
+    "url": "https://www.precedenceresearch.com/aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Automotive and Transportation Segment Dominated the Market in 2025",
+    "url": "https://www.precedenceresearch.com/aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share Analysis, 2025",
+    "url": "https://www.futuremarketinsights.com/reports/aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "Which series holds a notable market share in 2026?",
+    "url": "https://www.futuremarketinsights.com/reports/aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "Which processing holds a notable market share in 2026?",
+    "url": "https://www.futuremarketinsights.com/reports/aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive and packaging dominate market share today, but electrical applications are quietly gaining ground thanks to electrification and 5G infrastructure builds.",
+    "url": "https://www.strategicmarketresearch.com/market-report/aluminum-recycling-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "リサイクル金属市場 規模、業界シェア、2034年までの 予測 — リサイクル金属市場 規模、業界シェア、2034年までの 予測 Fortune Business Insights https://www.fortunebusinessinsights.com > リサイクル金属...",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E9%87%91%E5%B1%9E%E5%B8%82%E5%A0%B4-105328",
+    "pass": 3
+   },
+   {
+    "quote": "Recycled Aluminum Market Size , Share | Industry Forecast 2035 — Recycled Aluminum Market Size , Share | Industry Forecast 2035 Market Research Future https://www.marketresearchfuture.com > ...",
+    "url": "https://www.marketresearchfuture.com/reports/recycled-aluminum-market-29064",
+    "pass": 3
+   },
+   {
+    "quote": "Recycled Aluminum Market Size and Outlook 2031 — Recycled Aluminum Market Size and Outlook 2031 TechSci Research https://www.techsciresearch.com > rec...",
+    "url": "https://www.techsciresearch.com/report/recycled-aluminum-market/19297.html",
+    "pass": 3
+   },
+   {
+    "quote": "Recycled Aluminum Market Size, Share | Industry Forecast 2035 — Recycled Aluminum Market Size, Share | Industry Forecast 2035 Market Research Future https://www.marketresearchfuture.com > ...",
+    "url": "https://www.marketresearchfuture.com/reports/recycled-aluminum-market-29064",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "The Aluminum Association reported that U.S. recovery from aluminum scrap exceeded 5 million metric tons in 2024, with over $10 billion invested in expanding recycling capabilities and secondary production capacity since 2016.",
+    "url": "https://www.marketresearchfuture.com/reports/recycled-aluminum-market-29064",
+    "pass": 3
+   },
+   {
+    "quote": "What is the projected valuation for the 6000 Series alloy type by 2035?",
+    "url": "https://www.marketresearchfuture.com/reports/recycled-aluminum-market-29064",
+    "pass": 3
+   },
+   {
+    "quote": "The 6000 Series alloy type is projected to reach a valuation of 44.67 USD Billion by 2035.",
+    "url": "https://www.marketresearchfuture.com/reports/recycled-aluminum-market-29064",
+    "pass": 3
+   },
+   {
+    "quote": "December 2025: Growing demand for eco-friendly packaging, electric vehicle components, and sustainable construction materials accelerated innovation in the recycled aluminum market worldwide. Companies invested in advanced scrap sorting systems, closed-loop recycling technologies, and low-emission",
+    "url": "https://www.datamintelligence.com/research-report/recycled-aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "November 2025: Expansion of green building projects, renewable energy infrastructure, and automotive lightweighting initiatives across Asia-Pacific and Europe supported rising demand for recycled aluminum products. Countries including China, Germany, India, and the United States increased investments in",
+    "url": "https://www.datamintelligence.com/research-report/recycled-aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "July 2025: Rising investments in recycling infrastructure,",
+    "url": "https://www.datamintelligence.com/research-report/recycled-aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "Constellium raised 2026 guidance and credited favorable metal costs at Muscle Shoals and Neuf-Brisach.",
+    "url": "https://www.futuremarketinsights.com/reports/aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "Rolled sheet buyers order Series 5 by the coil, which keeps the series ahead of extrusion alloys.",
+    "url": "https://www.futuremarketinsights.com/reports/aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "On 29 July 2026, Constellium raised 2026 adjusted EBITDA guidance to USD 980 million to USD 1.02 billion.",
+    "url": "https://www.futuremarketinsights.com/reports/aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "Novelis announced a $2.5 billion investment",
+    "url": "https://www.strategicmarketresearch.com/market-report/aluminum-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "Bauxite ore depletion concerns drive strategic recycling investments. The U.S. Geological Survey identifies aluminum as a critical mineral, with import dependence exceeding 75% for bauxite and alumina. China controls approximately 55% of global alumina refining capacity, creating supply chain vulnerability that recycling helps mitigate.",
+    "url": "https://www.emergenresearch.com/industry-report/recycled-aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "Primary aluminum price volatility creates uncertainty for recycled aluminum markets. When primary aluminum prices decline due to overcapacity or reduced demand, recycled aluminum price premiums compress, reducing recycling economics. The International Monetary Fund reports aluminum price volatility averaging 25-30% annually, complicating long-term recycling investment decisions.",
+    "url": "https://www.emergenresearch.com/industry-report/recycled-aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "According to the Gulf Cooperation Council statistics, regional aluminum consumption reaches 1.2 million metric tons annually, with recycling rates improving through infrastructure investments and policy development. The construction sector drives significant demand growth, utilizing recycled aluminum for building systems and architectural applications in major development projects.",
+    "url": "https://www.emergenresearch.com/industry-report/recycled-aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": "In September 2024, Norsk Hydro announced a $180 million investment to expand its recycling facility in Cassopolis, Michigan, increasing annual recycled aluminum production capacity by 120,000 metric tons. The expansion includes advanced sorting technology and closed-loop systems serving automotive customers in the Great Lakes region.",
+    "url": "https://www.emergenresearch.com/industry-report/recycled-aluminum-market",
+    "pass": 3
+   },
+   {
+    "quote": ", predominantly 5000 and 6000 series alloys, represents a large and growing market segment with relatively consistent pricing and quality requirements. The increasing aluminum content in modern vehicles, combined with predictable end-of-life cycles, creates stable supply streams that recycling operations can build long-term business strategies around.",
+    "url": "https://www.gme-recycling.com/aluminum-scrap-prices-2025-strategic-guide-for-industrial-recyclers/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "3.9",
+    "url": "https://straitsresearch.com/jp/report/metal-recycling-market",
+    "quote": "世界の金属リサイクル市場規模は、2025年には9,511億4,000万米ドルと評価され、2026年の9,882億3,000万米ドルから2034年には1兆3,421億米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は3.9%となる見込みです"
+   },
+   {
+    "value": "5.2",
+    "url": "https://straitsresearch.com/jp/report/metal-recycling-market",
+    "quote": "金属リサイクル市場において、古スクラップ分野は年平均成長率（CAGR）5.2%で最も速い成長を遂げると予測されている"
+   },
+   {
+    "value": "5.7",
+    "url": "https://straitsresearch.com/jp/report/metal-recycling-market",
+    "quote": "自動車分野は市場の22.4%を占め、年平均成長率（CAGR）5.7%で成長すると予測されている"
+   },
+   {
+    "value": "3.79",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "quote": "日本の金属リサイクル市場、2034年までに220.3億米ドル規模へ拡大 | 年平均成長率（CAGR）3.79%を記録"
+   },
+   {
+    "value": "15.0",
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "quote": "日本の商用テレマティクス市場規模は2034年までに72億7,550万米ドルに達し、2026年から2034年にかけて年平均成長率（CAGR）15.0%で推移する見通し"
+   },
+   {
+    "value": "8.96",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "quote": "リサイクル銅市場は、2025年には904万トンと推定され、2030年には1,388万トンに達すると予測されており、予測期間（2025年～2030年）において年平均成長率（CAGR）8.96%で力強く成長すると見込まれています"
+   },
+   {
+    "value": "9.65",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "quote": "* 銅の種類別: 純銅は2024年にリサイクル銅市場シェアの61.18%を占め、銅合金は2030年までにCAGR 9.65%で成長すると予測されています"
+   },
+   {
+    "value": "9.57",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "quote": "* 供給源別: ポストコンシューマースクラップは2024年にリサイクル銅市場規模の55.23%を占め、2030年までにCAGR 9.57%で成長すると予測されています"
+   },
+   {
+    "value": "9.72",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "quote": "* プロセス別: 乾式製錬は2024年に45.71%の量シェアを占めていましたが、湿式製錬は2025年から2030年にかけて最速のCAGR 9.72%を記録すると予想されています"
+   },
+   {
+    "value": "9.92",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "quote": "* 最終用途産業別: 電気・電子産業は2024年にリサイクル銅市場規模の39.22%を占め、輸送部門は2030年までに最高のCAGR 9.92%を達成すると予測されています"
+   },
+   {
+    "value": "9.81",
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "quote": "* 地域別: アジア太平洋地域は2024年に44.64%のシェアで市場を支配し、2030年までにCAGR 9.81%で加速すると予測されています"
+   },
+   {
+    "value": "3.92",
+    "url": "https://newscast.jp/news/8926979",
+    "quote": "今後、本調査会社は、同市場が2034年までに220億米ドルに達し、2026年から2034年にかけて年平均成長率（CAGR）3.92%で成長すると予測しています"
+   },
+   {
+    "value": "3.79",
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "quote": "（CAGR）3.79％で"
+   },
+   {
+    "value": "3.92",
+    "url": "https://www.atpress.ne.jp/news/8926979",
+    "quote": "今後、本調査会社は、同市場が2034年までに220億米ドルに達し、2026年から2034年にかけて年平均成長率（CAGR）3.92%で成長すると予測しています"
+   },
+   {
+    "value": "4.43",
+    "url": "https://www.marketresearchfuture.com/reports/recycled-aluminum-market-29064",
+    "quote": "As per Market Research Future analysis, the Recycled Aluminum Market Size was estimated at 95.99 USD Billion in 2024. The Recycled Aluminum industry is projected to grow from 100.24 USD Billion in 2025 to 154.67 USD Billion by 2035, exhibiting a compound annual growth rate (CAGR) of 4.43% during the"
+   },
+   {
+    "value": "6.16",
+    "url": "https://www.precedenceresearch.com/aluminum-market",
+    "quote": "The global aluminum market size is valued at USD 190.98 billion in 2025 and is predicted to increase from USD 203.02 billion in 2026 to approximately USD 347.29 billion by 2035, expanding at a CAGR of 6.16% from 2026 to 2035. The market growth is driven by the increasing demand for lightweight and d"
+   },
+   {
+    "value": "7.2",
+    "url": "https://www.precedenceresearch.com/aluminum-market",
+    "quote": "By series, series 7 is anticipated is growing faster at a CAGR of 7.2% from 20265 to 2035. The series 1 segment occupied a market share of around 20.5% in 2025."
+   },
+   {
+    "value": "7.1",
+    "url": "https://www.precedenceresearch.com/aluminum-market",
+    "quote": "By processing method, the rod & bar segment is projected to reach a CAGR of 7.1% over the forecast period."
+   },
+   {
+    "value": "6.24",
+    "url": "https://www.precedenceresearch.com/aluminum-market",
+    "quote": "CAGR of 6.24%"
+   },
+   {
+    "value": "6.26",
+    "url": "https://www.precedenceresearch.com/aluminum-market",
+    "quote": "The Asia Pacific aluminum market size is estimated at USD 133.99 billion in 2026 and is predicted to be worth around USD 231.41 billion by 2035, at a CAGR of 6.26% from 2026 to 2035."
+   },
+   {
+    "value": "7.7",
+    "url": "https://www.datamintelligence.com/research-report/recycled-aluminum-market",
+    "quote": "Global Recycled Aluminum Market reached US$ 61.0 billion in 2025 and is expected to reach US$ 117.0 billion by 2033, growing with a CAGR of 7.7% during the forecast period 2026-2033."
+   },
+   {
+    "value": "6.1",
+    "url": "https://www.futuremarketinsights.com/reports/aluminum-market",
+    "quote": "The aluminum market is estimated at USD 183.1 billion in 2025 and is projected to reach USD 194.3 billion in 2026. Sales of aluminum are expected to grow at a CAGR of 6.1% and reach USD 351.2 billion by 2036."
+   },
+   {
+    "value": "8.4",
+    "url": "https://www.futuremarketinsights.com/reports/aluminum-market",
+    "quote": "New smelter, rolling and foil lines coming on stream in Odisha and elsewhere give India the top projected CAGR, 8.4%."
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://straitsresearch.com/jp/report/metal-recycling-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/3506878",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/8926979",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E9%87%91%E5%B1%9E%E5%B8%82%E5%A0%B4-105328",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/2232730",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/copper-and-copper-alloy-scrap-and-recycling-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/8926979",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.alconix.com/media/owned/2025/06/06/afd979573e2f1571bad5c89467b5f473d90938e0.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E9%87%91%E5%B1%9E%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB/%E9%87%91%E5%B1%9E/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.material-expo.jp/hub/ja-jp/column/recycle/12.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui.com/solution/contents/solutions/13",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.weforum.org/stories/energy-transition/why-recycling-metal-is-an-opportunity-too-good-to-waste-jp",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/aluminum-recycling-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/recycled-aluminum-market-29064",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/aluminum-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.datamintelligence.com/research-report/recycled-aluminum-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futuremarketinsights.com/reports/aluminum-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/reports/aluminum-scrap-recycling-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/market-reports/aluminum-recycling-market-101978",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strategicmarketresearch.com/market-report/aluminum-recycling-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aluminum.org/Recycling",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.emergenresearch.com/industry-report/recycled-aluminum-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cnbc.com/2025/01/17/this-startup-plans-to-recycle-aluminum-from-cars-and-keep-it-all-in-the-us.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.greatlakesnow.org/2025/06/18/this-startup-turns-steel-and-aluminum-waste-into-usable-metals/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://recyclingpartnership.org/aluminum-can-capture-grants-for-mrfs/",
+    "status": "http_504",
+    "method": "http"
+   },
+   {
+    "url": "https://www.canarymedia.com/articles/clean-aluminum/aluminum-recycler-sortera-funding-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gme-recycling.com/aluminum-scrap-prices-2025-strategic-guide-for-industrial-recyclers/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "リサイクル金属（再生アルミ・再生銅） 市場規模 年平均成長率",
+   "results": [
+    "https://straitsresearch.com/jp/report/metal-recycling-market",
+    "https://www.atpress.ne.jp/news/3506878",
+    "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "https://newscast.jp/news/8926979",
+    "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "https://www.gminsights.com/ja/industry-analysis/copper-and-copper-alloy-scrap-and-recycling-market",
+    "https://www.researchnester.com/ja/reports/scrap-metal-recycling-market/3339",
+    "https://www.zionmarketresearch.com/ja/report/metal-recycling-market",
+    "https://www.fortunebusinessinsights.com/jp/%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E9%87%91%E5%B1%9E%E5%B8%82%E5%A0%B4-105328",
+    "https://www.gii.co.jp/report/tbrc1928062-recycled-metal-global-market-report.html"
+   ]
+  },
+  {
+   "query": "リサイクル金属（再生アルミ・再生銅） 市場 予測 富士経済 OR 矢野経済 OR シーエムシー",
+   "results": [
+    "https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf",
+    "https://www.marketresearch.co.jp/insights/recycled-copper-market-mordor/",
+    "https://www.fortunebusinessinsights.com/jp/%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E9%87%91%E5%B1%9E%E5%B8%82%E5%A0%B4-105328",
+    "https://www.imarcgroup.com/report/ja/japan-metal-recycling-market",
+    "https://newscast.jp/news/2232730",
+    "https://www.gminsights.com/ja/industry-analysis/copper-and-copper-alloy-scrap-and-recycling-market",
+    "https://straitsresearch.com/jp/report/metal-recycling-market",
+    "https://www.atpress.ne.jp/news/8926979",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/020_03_00.pdf"
+   ]
+  },
+  {
+   "query": "リサイクル金属（再生アルミ・再生銅） 参入 企業 国内",
+   "results": [
+    "https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf",
+    "https://www.alconix.com/media/owned/2025/06/06/afd979573e2f1571bad5c89467b5f473d90938e0.html",
+    "https://mono.ipros.com/cg2/%E9%87%91%E5%B1%9E%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB/%E9%87%91%E5%B1%9E/",
+    "https://www.material-expo.jp/hub/ja-jp/column/recycle/12.html",
+    "https://www.mitsui.com/solution/contents/solutions/13",
+    "https://jp.weforum.org/stories/energy-transition/why-recycling-metal-is-an-opportunity-too-good-to-waste-jp",
+    "https://www.jx-nmm.com/company/industry/metal-recycling/",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/020_03_00.pdf",
+    "https://www.fortunebusinessinsights.com/jp/%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E9%87%91%E5%B1%9E%E5%B8%82%E5%A0%B4-105328",
+    "https://www.ipros.com/cg2/金属リサイクル/"
+   ]
+  },
+  {
+   "query": "recycled aluminum market size CAGR 2025",
+   "results": [
+    "https://www.mordorintelligence.com/industry-reports/aluminum-recycling-market",
+    "https://www.marketresearchfuture.com/reports/recycled-aluminum-market-29064",
+    "https://www.precedenceresearch.com/aluminum-market",
+    "https://www.datamintelligence.com/research-report/recycled-aluminum-market",
+    "https://www.futuremarketinsights.com/reports/aluminum-market",
+    "https://www.techsciresearch.com/report/recycled-aluminum-market/19297.html",
+    "https://www.gminsights.com/industry-analysis/aluminum-market",
+    "https://www.linkedin.com/pulse/recent-analysis-recycled-aluminum-market-trends-share-szq8f",
+    "https://www.precisionbusinessinsights.com/market-reports/global-aluminum-market",
+    "https://dataintelo.com/report/global-recycled-aluminum-market"
+   ]
+  },
+  {
+   "query": "recycled aluminum market key players competitive landscape",
+   "results": [
+    "https://www.marketresearchfuture.com/reports/recycled-aluminum-market-29064",
+    "https://www.datamintelligence.com/research-report/recycled-aluminum-market",
+    "https://www.precedenceresearch.com/aluminum-market",
+    "https://www.sphericalinsights.com/reports/aluminum-scrap-recycling-market",
+    "https://www.linkedin.com/pulse/recycled-aluminum-market-expansion-opportunities-s27if",
+    "https://www.businessresearchinsights.com/market-reports/aluminum-recycling-market-101978",
+    "https://www.mordorintelligence.com/industry-reports/aluminum-recycling-market",
+    "https://www.strategicmarketresearch.com/market-report/aluminum-recycling-market",
+    "https://www.aluminum.org/Recycling",
+    "https://www.emergenresearch.com/industry-report/recycled-aluminum-market"
+   ]
+  },
+  {
+   "query": "recycled aluminum startup funding 2025",
+   "results": [
+    "https://www.cnbc.com/2025/01/17/this-startup-plans-to-recycle-aluminum-from-cars-and-keep-it-all-in-the-us.html",
+    "https://www.greatlakesnow.org/2025/06/18/this-startup-turns-steel-and-aluminum-waste-into-usable-metals/",
+    "https://recyclingpartnership.org/aluminum-can-capture-grants-for-mrfs/",
+    "https://www.canarymedia.com/articles/clean-aluminum/aluminum-recycler-sortera-funding-ai",
+    "https://www.gme-recycling.com/aluminum-scrap-prices-2025-strategic-guide-for-industrial-recyclers/",
+    "https://www.mordorintelligence.com/industry-reports/aluminum-recycling-market",
+    "https://www.reddit.com/r/cars/comments/1i3q56p/this_startup_plans_to_recycle_aluminum_from_cars/",
+    "https://www.youtube.com/watch?v=fNehvwKZyho",
+    "https://www.ventureradar.com/funding/scrap%20metals",
+    "https://www.start-midwest.com/news/indiana-based-sortera-technologies-raises-45-million-in-funding-for-mixed-aluminum"
+   ]
+  }
+ ],
+ "missing": {}
+}

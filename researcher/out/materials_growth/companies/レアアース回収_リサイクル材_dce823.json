@@ -1,0 +1,1560 @@
+{
+ "name": "レアアース回収・リサイクル材",
+ "en": "rare earth recycling",
+ "aliases": [
+  "rare earth recovery",
+  "urban mining",
+  "レアアースリサイクル"
+ ],
+ "context": "循環",
+ "kind": "market",
+ "researched_at": "2026-11-02T17:38:03.677964+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "世界の希土類リサイクル市場規模は、2025年には5億8802万米ドルと評価され、2026年の6億2918万米ドルから2034年には10億8105万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は7%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年予測市場規模",
+    "url": "https://straitsresearch.com/jp/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、この分野は世界の希土類リサイクル市場の32.7%を占め、市場規模は1億9,000万米ドルに達しました",
+    "url": "https://straitsresearch.com/jp/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "軽希土類リサイクルは、タイプ別セグメントにおいて67.3%のシェアと4億米ドルの市場規模を誇り、圧倒的なシェアを占めました",
+    "url": "https://straitsresearch.com/jp/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "触媒は市場の16.8%を占め、市場規模は1億米ドル、年平均成長率（CAGR）は8.16%でした",
+    "url": "https://straitsresearch.com/jp/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "ガラスは11.7%を占め、市場規模は7億7,000万米ドル、CAGRは7.38%でした",
+    "url": "https://straitsresearch.com/jp/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "セラミックスは8.9%を占め、市場規模は5億米ドル、CAGRは7.72%でした",
+    "url": "https://straitsresearch.com/jp/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "リンは市場の7.6%を占め、市場規模は0.04億米ドル、年平均成長率は6.94%でした",
+    "url": "https://straitsresearch.com/jp/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のレアアース元素市場は、2025年に8億3,230万米ドルと評価されました",
+    "url": "https://www.dreamnews.jp/press/0000366725",
+    "pass": 3
+   },
+   {
+    "quote": "同市場は2026年から2036年にかけて年平均成長率（CAGR）13.2%で拡大すると予測されており、2036年末までに26億3,460万米ドルを超える見込みです",
+    "url": "https://www.dreamnews.jp/press/0000366725",
+    "pass": 3
+   },
+   {
+    "quote": "日本アニメ市場：海外売上、新作アニメプロジェクト、クロスオーバーイベントを主な原動力とする数十億ドル規模のビジネス機会が、2026年後半から2027年にかけて市場を形成する",
+    "url": "https://www.dreamnews.jp/press/0000366725",
+    "pass": 3
+   },
+   {
+    "quote": "Rare Earth Recycling Market Size | Industry Report 2035",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market-10793",
+    "pass": 3
+   },
+   {
+    "quote": "2024 Market Size",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market-10793",
+    "pass": 3
+   },
+   {
+    "quote": "$ 117.02 Million",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market-10793",
+    "pass": 3
+   },
+   {
+    "quote": "2025 Market Size",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market-10793",
+    "pass": 3
+   },
+   {
+    "quote": "$ 125.21 Million",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market-10793",
+    "pass": 3
+   },
+   {
+    "quote": "2035 Market Size",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market-10793",
+    "pass": 3
+   },
+   {
+    "quote": "$ 230.2 Million",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market-10793",
+    "pass": 3
+   },
+   {
+    "quote": "As per MRFR analysis, the Rare Earth Recycling Market Size was estimated at 117.02 USD Million in 2024. The Rare Earth Recycling industry is projected to grow from 125.21 USD Million in 2025 to 230.2 USD Million by 2035, exhibiting a compound annual growth rate (CAGR) of 7.0% during the forecast period 2025 - 2035.",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market-10793",
+    "pass": 3
+   },
+   {
+    "quote": "117.02 (USD Million)",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market-10793",
+    "pass": 3
+   },
+   {
+    "quote": "230.2 (USD Million)",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market-10793",
+    "pass": 3
+   },
+   {
+    "quote": "Cyclic Materials announced plans to build a $25 million",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market-10793",
+    "pass": 3
+   },
+   {
+    "quote": "The Rare Earth Recycling Market is projected to grow at a 7.0% CAGR from 2025 to 2035, driven by increasing demand for sustainable materials and regulatory support.",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market-10793",
+    "pass": 3
+   },
+   {
+    "quote": "MARKET SIZE 2024",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market-10793",
+    "pass": 3
+   },
+   {
+    "quote": "Rare Earth Recycling Market Size, Share, Growth, Analysis, 2034",
+    "url": "https://straitsresearch.com/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "Rare Earth Recycling Market Size, Share & Trends Analysis Report By Type (Light Rare Earth Recycling, Medium and Heavy Rare Earth Recycling), By Applications (Permanent Magnets, Catalyst, Glass, Ceramics, Phosphor, Alloy Manufacturing, Others) and By Region (North America, Europe, APAC, Middle East and Africa, LATAM) Forecasts, 2026-2034",
+    "url": "https://straitsresearch.com/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global rare earth recycling market size was valued at USD 588.02 million in 2025 and is projected to grow from USD 629.18 million in 2026 to USD 1081.05 million by 2034, registering a CAGR of 7% during the forecast period from 2026 to 2034. Europe dominated the rare earth recycling market with a market share of 34.6% in 2025.",
+    "url": "https://straitsresearch.com/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025 Market Size",
+    "url": "https://straitsresearch.com/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 588.02 Million",
+    "url": "https://straitsresearch.com/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026 Market Size",
+    "url": "https://straitsresearch.com/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 629.18 Million",
+    "url": "https://straitsresearch.com/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034 Projected Market Size",
+    "url": "https://straitsresearch.com/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 1081.05 Million",
+    "url": "https://straitsresearch.com/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "Cyclic Materials secured USD 75 million in Series C funding to accelerate the deployment of rare earth recycling infrastructure and expand locally anchored recycled critical-material supply chains.",
+    "url": "https://straitsresearch.com/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "The rare earth recycling market size is valued at USD 629.18 Million in 2026 and is projected to reach USD 1081.05 Million by 2034, at a CAGR of 7% during the forecast period 2026-2034.",
+    "url": "https://straitsresearch.com/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "The rare earth recycling market is projected to grow at a CAGR of 7% during the forecast period of 2026 2034.",
+    "url": "https://straitsresearch.com/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "Rare Earth Recycling Market Size ($1.4 Billion) 2032",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "pass": 3
+   },
+   {
+    "quote": "USD 0.3 billion in 2025",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "pass": 3
+   },
+   {
+    "quote": "USD 1.4 billion by 2032",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "pass": 3
+   },
+   {
+    "quote": "2025 Value (USD Bn)",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "pass": 3
+   },
+   {
+    "quote": "2032 Forecast (USD Bn)",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "pass": 3
+   },
+   {
+    "quote": "Hybrid HPMS + electro flowsheets become standard; recycled REEs exceed 8–10 % of global supply; market value approaches USD 2 billion.",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "pass": 3
+   },
+   {
+    "quote": "USD 0.3 B → USD 1.4 B (2025–2032) @ ≈ 25 % CAGR — sustained by electrification and circular-policy mandates.",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "pass": 3
+   },
+   {
+    "quote": "USD 0.3 billion in 2025 to ~USD 1.4 billion by 2032",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "pass": 3
+   },
+   {
+    "quote": "Global rare earth recycling Market Size & Segmentation Analysis (2025 – 2035)",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "pass": 3
+   },
+   {
+    "quote": "Total addressable market (USD B, kt TREO) – 2025 baseline, 2030 mid-term, 2035 forecast",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "pass": 3
+   },
+   {
+    "quote": "2024 Market Size",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market/companies",
+    "pass": 3
+   },
+   {
+    "quote": "$ 117.02 Million",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market/companies",
+    "pass": 3
+   },
+   {
+    "quote": "2025 Market Size",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market/companies",
+    "pass": 3
+   },
+   {
+    "quote": "$ 125.21 Million",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market/companies",
+    "pass": 3
+   },
+   {
+    "quote": "2035 Market Size",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market/companies",
+    "pass": 3
+   },
+   {
+    "quote": "$ 230.2 Million",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market/companies",
+    "pass": 3
+   },
+   {
+    "quote": "Rare Earth Metals Recycling Market Size, Share, Growth and Scope Analysis to 2034",
+    "url": "https://www.insightaceanalytic.com/report/rare-earth-metals-recycling-market/1616",
+    "pass": 3
+   },
+   {
+    "quote": "/ Rare Earth Metals Recycling Market Size, Share, Growth And Scope Analysis To 2034",
+    "url": "https://www.insightaceanalytic.com/report/rare-earth-metals-recycling-market/1616",
+    "pass": 3
+   },
+   {
+    "quote": "Rare Earth Metals Recycling Market Size, Share & Trends Analysis Report By Application (Alloy, Catalyst, Permanent Magnets, Glass, Ceramics, Phosphor, Polishing Materials And Hydrogen Storage Alloy), Source (FCC, Fluorescent Lamps, Magnets, Batteries And Industrial Processes) And By Technology, By Region, And Segment Forecasts, 2025-2034",
+    "url": "https://www.insightaceanalytic.com/report/rare-earth-metals-recycling-market/1616",
+    "pass": 3
+   },
+   {
+    "quote": "Rare Earth Metals Recycling Market Size is valued at 339.5 million in 2024 and is predicted to reach 847.1 million by the year 2034 at a 9.7% CAGR during the forecast period for 2025-2034.",
+    "url": "https://www.insightaceanalytic.com/report/rare-earth-metals-recycling-market/1616",
+    "pass": 3
+   },
+   {
+    "quote": "Market size value in 2023",
+    "url": "https://www.insightaceanalytic.com/report/rare-earth-metals-recycling-market/1616",
+    "pass": 3
+   },
+   {
+    "quote": "USD 339.5 Mn",
+    "url": "https://www.insightaceanalytic.com/report/rare-earth-metals-recycling-market/1616",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "希土類リサイクル市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の希土類リサイクル市場規模は、2025年には5億8802万米ドルと評価され、2026年の6億2918万米ドルから2034年には10億8105万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は7%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場CAGR（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の年平均成長率（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年：リサイクル企業と技術開発企業は、使用済み永久磁石や電子廃棄物からネオジム、プラセオジム、ジスプロシウム、その他の希土類元素を回収するプロセスへの投資を拡大した",
+    "url": "https://straitsresearch.com/jp/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "中・重希土類リサイクル分野は、年平均成長率（CAGR）9.86%で最も速い成長を記録すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "同市場は2026年から2036年にかけて年平均成長率（CAGR）13.2%で拡大すると予測されており、2036年末までに26億3,460万米ドルを超える見込みです",
+    "url": "https://www.dreamnews.jp/press/0000366725",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月、双日とLynasは、レアアース鉱山の探査・開発について協議し、日本向けの中・重レアアースの供給を拡大する計画を発表した",
+    "url": "https://www.dreamnews.jp/press/0000366725",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025 - 2035)",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market-10793",
+    "pass": 3
+   },
+   {
+    "quote": "As per MRFR analysis, the Rare Earth Recycling Market Size was estimated at 117.02 USD Million in 2024. The Rare Earth Recycling industry is projected to grow from 125.21 USD Million in 2025 to 230.2 USD Million by 2035, exhibiting a compound annual growth rate (CAGR) of 7.0% during the forecast period 2025 - 2035.",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market-10793",
+    "pass": 3
+   },
+   {
+    "quote": "The Rare Earth Recycling Market is projected to grow at a 7.0% CAGR from 2025 to 2035, driven by increasing demand for sustainable materials and regulatory support.",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market-10793",
+    "pass": 3
+   },
+   {
+    "quote": "What is the expected CAGR for the Rare Earth Recycling Market during the forecast period 2025 - 2035?",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market-10793",
+    "pass": 3
+   },
+   {
+    "quote": "The expected CAGR for the Rare Earth Recycling Market during the forecast period is 7.0%.",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market-10793",
+    "pass": 3
+   },
+   {
+    "quote": "The global rare earth recycling market size was valued at USD 588.02 million in 2025 and is projected to grow from USD 629.18 million in 2026 to USD 1081.05 million by 2034, registering a CAGR of 7% during the forecast period from 2026 to 2034. Europe dominated the rare earth recycling market with a market share of 34.6% in 2025.",
+    "url": "https://straitsresearch.com/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market CAGR (2026–2034)",
+    "url": "https://straitsresearch.com/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America CAGR (2026–2034)",
+    "url": "https://straitsresearch.com/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "The rare earth recycling market size is valued at USD 629.18 Million in 2026 and is projected to reach USD 1081.05 Million by 2034, at a CAGR of 7% during the forecast period 2026-2034.",
+    "url": "https://straitsresearch.com/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "The rare earth recycling market is projected to grow at a CAGR of 7% during the forecast period of 2026 2034.",
+    "url": "https://straitsresearch.com/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of approximately 25%",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (%) 2025–2032",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "pass": 3
+   },
+   {
+    "quote": "USD 0.3 B → USD 1.4 B (2025–2032) @ ≈ 25 % CAGR — sustained by electrification and circular-policy mandates.",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific dominant (38 %), North America fastest-growing (≈ 27 % CAGR), Europe structured through CRM Act clusters.",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "pass": 3
+   },
+   {
+    "quote": "HPMS and hybrid electro routes > 25 % CAGR; bio-adsorption emerging for low-grade tailings.",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "pass": 3
+   },
+   {
+    "quote": "robust CAGR of around 25%",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "pass": 3
+   },
+   {
+    "quote": "Global CAGR (2025–2035) vs historical 2015–2025 trend lines",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025 - 2035)",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market/companies",
+    "pass": 3
+   },
+   {
+    "quote": "Rare Earth Metals Recycling Market Size is valued at 339.5 million in 2024 and is predicted to reach 847.1 million by the year 2034 at a 9.7% CAGR during the forecast period for 2025-2034.",
+    "url": "https://www.insightaceanalytic.com/report/rare-earth-metals-recycling-market/1616",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 9.7% from 2025 to 2034",
+    "url": "https://www.insightaceanalytic.com/report/rare-earth-metals-recycling-market/1616",
+    "pass": 3
+   },
+   {
+    "quote": "Representation of revenue in US$ Million, and CAGR from 2025 to 2034",
+    "url": "https://www.insightaceanalytic.com/report/rare-earth-metals-recycling-market/1616",
+    "pass": 3
+   },
+   {
+    "quote": "Rare Earth Metals Recycling Market expected to grow at a 9.7% CAGR during the forecast period for 2025-2034",
+    "url": "https://www.insightaceanalytic.com/report/rare-earth-metals-recycling-market/1616",
+    "pass": 3
+   },
+   {
+    "quote": "size was USD 410.16 Million in 2023 and is expected to reach USD 871.16 Million by 2032 and grow at a CAGR of 8.7% over the forecast period of 2024-2032.",
+    "url": "https://www.snsinsider.com/reports/rare-earth-recycling-market-2662",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 8.7% From 2024 to 2032",
+    "url": "https://www.snsinsider.com/reports/rare-earth-recycling-market-2662",
+    "pass": 3
+   },
+   {
+    "quote": "Ans: Rare Earth Recycling Market size was USD 410.16 Million in 2023 and is expected to reach USD 871.16 Million by 2032 and grow at a CAGR of 8.7% over the forecast period of 2024-2032.",
+    "url": "https://www.snsinsider.com/reports/rare-earth-recycling-market-2662",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "希土類リサイクル市場における主要企業はどこですか？",
+    "url": "https://straitsresearch.com/jp/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "主な企業およびエコシステム参加企業は以下のとおりである",
+    "url": "https://www.dreamnews.jp/press/0000366725",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market-10793",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market-10793",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players and Competitive Insights",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market-10793",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies in the Rare Earth Recycling Market include",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market-10793",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, and Trends",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market-10793",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market-10793",
+    "pass": 3
+   },
+   {
+    "quote": "Which companies are considered key players in the Rare Earth Recycling Market?",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market-10793",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the market include Lynas Corporation, MP Materials, Neo Performance Materials, and others.",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market-10793",
+    "pass": 3
+   },
+   {
+    "quote": "Rare Earth Recycling Market Competitive Landscape",
+    "url": "https://straitsresearch.com/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, Environment & Regulatory Landscape and Trends",
+    "url": "https://straitsresearch.com/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://straitsresearch.com/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "Emerging Start-ups:",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "pass": 3
+   },
+   {
+    "quote": "3: Who are the major players in the rare earth recycling market?",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies include",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape & Corporate Intelligence Dashboard",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "pass": 3
+   },
+   {
+    "quote": "Tier II Emerging Specialists (Pure-Play Recyclers & Circular Tech Startups)",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "pass": 3
+   },
+   {
+    "quote": "Private VC participation in REE recycling start-ups",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market/companies",
+    "pass": 3
+   },
+   {
+    "quote": "Strategies Employed by Key Players:",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market/companies",
+    "pass": 3
+   },
+   {
+    "quote": "Leading players like Solvay, Hitachi Metals, and Umicore are heavily investing in research and development to optimize their recycling processes and improve efficiency. This includes exploring novel technologies like hydrometallurgical and biohydrometallurgical methods that offer cleaner and more resource-efficient separation of rare earth metals.",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market/companies",
+    "pass": 3
+   },
+   {
+    "quote": "Several factors determine a company's success in the competitive landscape of the rare earth recycling market:",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market/companies",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape:",
+    "url": "https://www.insightaceanalytic.com/report/rare-earth-metals-recycling-market/1616",
+    "pass": 3
+   },
+   {
+    "quote": "Some major key players in the rare earth metals recycling market are",
+    "url": "https://www.insightaceanalytic.com/report/rare-earth-metals-recycling-market/1616",
+    "pass": 3
+   },
+   {
+    "quote": "Overall, APAC is anticipated to dominate the rare earth metals recycling market due to the high demand for rare earth metals, high generation of end-of-life products, government regulations and initiatives, and the presence of major players in the market.",
+    "url": "https://www.insightaceanalytic.com/report/rare-earth-metals-recycling-market/1616",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.insightaceanalytic.com/report/rare-earth-metals-recycling-market/1616",
+    "pass": 3
+   },
+   {
+    "quote": "Free customization report with the procurement of the report, Modifications to the regional and segment scope. Particular Geographic competitive landscape.",
+    "url": "https://www.insightaceanalytic.com/report/rare-earth-metals-recycling-market/1616",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in Rare Earth Metals Recycling Market?",
+    "url": "https://www.insightaceanalytic.com/report/rare-earth-metals-recycling-market/1616",
+    "pass": 3
+   },
+   {
+    "quote": "See the data, methodology, and competitive landscape preview & delivered to your inbox shortly.",
+    "url": "https://www.insightaceanalytic.com/report/rare-earth-metals-recycling-market/1616",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.snsinsider.com/reports/rare-earth-recycling-market-2662",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size, Segments Analysis, Competitive Landscape, Regional Analysis, DROC & SWOT Analysis, Forecast Outlook",
+    "url": "https://www.snsinsider.com/reports/rare-earth-recycling-market-2662",
+    "pass": 3
+   },
+   {
+    "quote": "What are the major key players of Rare Earth Recycling Market?",
+    "url": "https://www.snsinsider.com/reports/rare-earth-recycling-market-2662",
+    "pass": 3
+   },
+   {
+    "quote": "Ans: Energy Fuels, Inc. (US), Solvay SA (Belgium), Global Tungsten & Powders Corp.(US), REEcycle Inc.(US), Umicore (Belgium), Osram Licht AG (Germany) and Hitachi Metals, Ltd. (Japan) are the major key players of Rare Earth Recycling Market.",
+    "url": "https://www.snsinsider.com/reports/rare-earth-recycling-market-2662",
+    "pass": 3
+   },
+   {
+    "quote": "Profiles major players, value chains, and strategic developments.",
+    "url": "https://www.snsinsider.com/reports/rare-earth-recycling-market-2662",
+    "pass": 3
+   },
+   {
+    "quote": "Startups Supplying Scarce Materials And Rare Earth Elements See Abundant VC Funding",
+    "url": "https://news.crunchbase.com/venture/funding-startups-recycle-batteries-mining-scarce-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://news.crunchbase.com/venture/funding-startups-recycle-batteries-mining-scarce-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "Startups haven’t been sitting this one out either. In the past few quarters, a growing roster of venture-backed companies has secured funding for areas including battery and magnet recycling, rare earth-focused mining technology, and even extracting materials from space.",
+    "url": "https://news.crunchbase.com/venture/funding-startups-recycle-batteries-mining-scarce-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "In this arena, the two most heavily funded startups — Massachusetts-based",
+    "url": "https://news.crunchbase.com/venture/funding-startups-recycle-batteries-mining-scarce-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "More recently, we’ve seen a few startups nab venture and debt financing around mining efforts and technologies targeting scarce metals.",
+    "url": "https://news.crunchbase.com/venture/funding-startups-recycle-batteries-mining-scarce-materials/",
+    "pass": 3
+   }
+  ],
+  "日本企業": [
+   {
+    "quote": "日本の希土類リサイクル市場に関する洞察",
+    "url": "https://straitsresearch.com/jp/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の市場成長は、国内の鉱物資源の制約、レアアースに対する強い需要、資源効率への注目の高まり、そして高度なリサイクル・回収技術への投資増加によって牽引されている",
+    "url": "https://straitsresearch.com/jp/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場の主要プレーヤーには、ソルベイ、日立金属、REEcycle Inc.、江蘇華虹科技有限公司、Lynas、贛州千東希土類集団有限公司、三菱化学株式会社、日産自動車株式会社、ジオメガ・リソーシズ、盛和資源控股有限公司などがあります",
+    "url": "https://straitsresearch.com/jp/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "Hitachi Metals",
+    "url": "https://straitsresearch.com/jp/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "Mitsubishi Chemical Corporation",
+    "url": "https://straitsresearch.com/jp/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "Solvay · Hitachi Metals · REEcycle Inc · Jiangsu Huahong Technology Co. Ltd · Lynas",
+    "url": "https://straitsresearch.com/jp/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場をリードする企業は、ソルベイ、日立金属、REEcycle Inc、江蘇華虹科技有限公司、Lynasです",
+    "url": "https://straitsresearch.com/jp/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本レアアース市場：重要鉱物の安定確保、先端製造業の需要、サプライチェーンの多角化が新たなビジネス機会を創出 | Survey Reports合同会社のプレスリリース",
+    "url": "https://www.dreamnews.jp/press/0000366725",
+    "pass": 3
+   },
+   {
+    "quote": "日本レアアース市場：重要鉱物の安定確保、先端製造業の需要、サプライチェーンの多角化が新たなビジネス機会を創出",
+    "url": "https://www.dreamnews.jp/press/0000366725",
+    "pass": 3
+   },
+   {
+    "quote": "日本レアアース市場は、日本の先端製造業、自動車、電子機器、再生可能エネルギー、高性能材料産業において戦略的な役割を果たしている",
+    "url": "https://www.dreamnews.jp/press/0000366725",
+    "pass": 3
+   },
+   {
+    "quote": "日本におけるレアアース元素の需要は、同国の製造業の強みと密接に結び付いている",
+    "url": "https://www.dreamnews.jp/press/0000366725",
+    "pass": 3
+   },
+   {
+    "quote": "日本のレアアース元素市場は、2025年に8億3,230万米ドルと評価されました",
+    "url": "https://www.dreamnews.jp/press/0000366725",
+    "pass": 3
+   },
+   {
+    "quote": "日本のレアアース市場は、原材料および加工済み製品の供給を国際サプライチェーンに大きく依存していることから、戦略的にも重要である",
+    "url": "https://www.dreamnews.jp/press/0000366725",
+    "pass": 3
+   },
+   {
+    "quote": "日本には高性能磁石の製造や精密材料加工に関する確立された技術力があり、国内の原材料資源が限られている場合でも、高付加価値の事業活動を展開する基盤となっている",
+    "url": "https://www.dreamnews.jp/press/0000366725",
+    "pass": 3
+   },
+   {
+    "quote": "メーカーが電動化、自動化、先端電子機器の開発を進めるなか、日本のレアアース市場では、相互に関連する2つの優先課題がますます重要になっている",
+    "url": "https://www.dreamnews.jp/press/0000366725",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場の見通しは、以下の複数の要因に左右される",
+    "url": "https://www.dreamnews.jp/press/0000366725",
+    "pass": 3
+   },
+   {
+    "quote": "日本の自動車産業エコシステムには、自動車メーカー、モーター製造企業、電子機器サプライヤー、精密部品メーカーが含まれる",
+    "url": "https://www.dreamnews.jp/press/0000366725",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造業では、モーター、アクチュエーター、センサー、精密機器が幅広く使用されている",
+    "url": "https://www.dreamnews.jp/press/0000366725",
+    "pass": 3
+   },
+   {
+    "quote": "日本の電子機器産業および半導体関連産業では、安定した材料純度、粒子特性の精密な管理、信頼性の高い供給体制が求められる",
+    "url": "https://www.dreamnews.jp/press/0000366725",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場への潜在的な影響は、新規設備に採用される技術や部品の調達先によって異なる",
+    "url": "https://www.dreamnews.jp/press/0000366725",
+    "pass": 3
+   },
+   {
+    "quote": "日本はレアアースの輸入依存度が高いため、供給の強靱性が重要な戦略課題となっている",
+    "url": "https://www.dreamnews.jp/press/0000366725",
+    "pass": 3
+   },
+   {
+    "quote": "この状況は、日本の購入企業がサプライヤーの多角化や代替材料の利用経路を検討する動機となっている",
+    "url": "https://www.dreamnews.jp/press/0000366725",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Rare Earth Recycling Market Insights",
+    "url": "https://straitsresearch.com/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan's market growth is driven by limited domestic mineral resources, strong demand for rare earth materials, increasing focus on resource efficiency, and rising investments in advanced recycling and recovery technologies.",
+    "url": "https://straitsresearch.com/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "Hitachi Metals",
+    "url": "https://straitsresearch.com/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "Mitsubishi Chemical Corporation",
+    "url": "https://straitsresearch.com/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "Solvay · Hitachi Metals · REEcycle Inc · Jiangsu Huahong Technology Co. Ltd · Lynas",
+    "url": "https://straitsresearch.com/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "The leading companies in this market are Solvay, Hitachi Metals, REEcycle Inc, Jiangsu Huahong Technology Co. Ltd, Lynas.",
+    "url": "https://straitsresearch.com/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan / Korea tech leadership; China dominance",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "pass": 3
+   },
+   {
+    "quote": "China dominates mining and magnet production but regional diversification is evident. Japan and Korea pursue closed-loop HPMS technologies; Australia valorizes red-mud tailings.",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "pass": 3
+   },
+   {
+    "quote": ", driven by strong technology capabilities in Japan, Korea, and China, while",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "pass": 3
+   },
+   {
+    "quote": "Comparative advantage over incumbents (e.g., Solvay, Umicore, Hitachi Metals)",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "pass": 3
+   },
+   {
+    "quote": "Case example: how Hitachi Metals closes the magnet loop in Japan",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "pass": 3
+   },
+   {
+    "quote": "Pyrometallurgical and hybrid systems — thermal separation (e.g., Hitachi Metals)",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific (China, Japan, Korea, ASEAN, Oceania)",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "pass": 3
+   },
+   {
+    "quote": "Pyrometallurgical legacy (Japan, China)",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "pass": 3
+   },
+   {
+    "quote": "Regional leaders (USA and EU) vs cost leaders (China and Japan)",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "pass": 3
+   },
+   {
+    "quote": "Case: Hitachi Metals magnet alloy contract pricing (Japan vs U.S.)",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "pass": 3
+   },
+   {
+    "quote": "Company-wise (party-wise) capacity table: Solvay, Hitachi Metals, Heraeus Remloy, REEcycle, Geomega, Cyclic Materials, Others",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "pass": 3
+   },
+   {
+    "quote": "Mapping players to technology: Solvay (hydro), Hitachi Metals (pyro),",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "pass": 3
+   },
+   {
+    "quote": "Hitachi Metals closed-loop magnet pyro-recycling example",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "pass": 3
+   },
+   {
+    "quote": "Japan & Korea – JOGMEC and KIGAM recycling funding lines",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "pass": 3
+   },
+   {
+    "quote": "Hitachi Metals (Japan)",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "pass": 3
+   },
+   {
+    "quote": "Leading players like Solvay, Hitachi Metals, and Umicore are heavily investing in research and development to optimize their recycling processes and improve efficiency. This includes exploring novel technologies like hydrometallurgical and biohydrometallurgical methods that offer cleaner and more resource-efficient separation of rare earth metals.",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market/companies",
+    "pass": 3
+   },
+   {
+    "quote": "Hitachi Metals, Ltd.",
+    "url": "https://www.insightaceanalytic.com/report/rare-earth-metals-recycling-market/1616",
+    "pass": 3
+   },
+   {
+    "quote": "Mitsubishi Electric Corporation",
+    "url": "https://www.insightaceanalytic.com/report/rare-earth-metals-recycling-market/1616",
+    "pass": 3
+   },
+   {
+    "quote": "U.S.; Canada; U.K.; Germany; China; India; Japan; Brazil; Mexico; The UK; France; Italy; Spain; South Korea; Southeast Asia",
+    "url": "https://www.insightaceanalytic.com/report/rare-earth-metals-recycling-market/1616",
+    "pass": 3
+   },
+   {
+    "quote": "Solvay SA, Hitachi Metals, Ltd, Umicore, Osram Licht AG, Energy Fuels, Inc, Global Tungsten & Powders Corp and REEcycle Inc.",
+    "url": "https://www.insightaceanalytic.com/report/rare-earth-metals-recycling-market/1616",
+    "pass": 3
+   },
+   {
+    "quote": "Solvay SA, Hitachi Metals, Ltd, Umicore, Osram Licht AG, Energy Fuels, Inc, Global Tungsten & Powders Corp and REEcycle Inc",
+    "url": "https://www.insightaceanalytic.com/report/rare-earth-metals-recycling-market/1616",
+    "pass": 3
+   },
+   {
+    "quote": "Hitachi Metals, Ltd.",
+    "url": "https://www.snsinsider.com/reports/rare-earth-recycling-market-2662",
+    "pass": 3
+   },
+   {
+    "quote": "Energy Fuels, Inc. (US), Solvay SA (Belgium), Global Tungsten & Powders Corp. (US), REEcycle Inc.(US), Umicore (Belgium), Osram Licht AG (Germany) and Hitachi Metals, Ltd. (Japan)",
+    "url": "https://www.snsinsider.com/reports/rare-earth-recycling-market-2662",
+    "pass": 3
+   },
+   {
+    "quote": "Ans: Energy Fuels, Inc. (US), Solvay SA (Belgium), Global Tungsten & Powders Corp.(US), REEcycle Inc.(US), Umicore (Belgium), Osram Licht AG (Germany) and Hitachi Metals, Ltd. (Japan) are the major key players of Rare Earth Recycling Market.",
+    "url": "https://www.snsinsider.com/reports/rare-earth-recycling-market-2662",
+    "pass": 3
+   },
+   {
+    "quote": "The funding round was led by ArcTern Ventures and supported by new investors BDC Capital’s Climate Tech Fund, Hitachi Ventures, Zero Infinity Partners, Climate Investment, and Microsoft’s Climate Innovation Fund. Existing investors Fifth Wall, BMW i Ventures, Energy Impact Partners, and Planetary Technologies also participated in the round.",
+    "url": "https://cyclicmaterials.earth/resources/cyclic-materials-secures-usd-53m-series-b-funding-to-accelerate-global-expansion-of-rare-earth-recycling-infrastructure",
+    "pass": 3
+   },
+   {
+    "quote": "About Hitachi Ventures",
+    "url": "https://cyclicmaterials.earth/resources/cyclic-materials-secures-usd-53m-series-b-funding-to-accelerate-global-expansion-of-rare-earth-recycling-infrastructure",
+    "pass": 3
+   },
+   {
+    "quote": "www.hitachi-ventures.com",
+    "url": "https://cyclicmaterials.earth/resources/cyclic-materials-secures-usd-53m-series-b-funding-to-accelerate-global-expansion-of-rare-earth-recycling-infrastructure",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "希土類リサイクル市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "希土類リサイクル市場の規模、シェア、トレンド分析レポート：タイプ別（軽希土類リサイクル、中・重希土類リサイクル）、用途別（永久磁石、触媒、ガラス、セラミックス、リン、合金製造、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州は2025年に34.6%の市場シェアを占め、希土類リサイクル市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州市場シェア（2025年）",
+    "url": "https://straitsresearch.com/jp/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場シェア",
+    "url": "https://straitsresearch.com/jp/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、この分野は世界の希土類リサイクル市場の32.7%を占め、市場規模は1億9,000万米ドルに達しました",
+    "url": "https://straitsresearch.com/jp/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "軽希土類リサイクルは、タイプ別セグメントにおいて67.3%のシェアと4億米ドルの市場規模を誇り、圧倒的なシェアを占めました",
+    "url": "https://straitsresearch.com/jp/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、このセグメントは世界の希土類リサイクル市場の39.4%を占め、その規模は2億3,000万米ドルに達しました",
+    "url": "https://straitsresearch.com/jp/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "触媒は市場の16.8%を占め、市場規模は1億米ドル、年平均成長率（CAGR）は8.16%でした",
+    "url": "https://straitsresearch.com/jp/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "ガラスは11.7%を占め、市場規模は7億7,000万米ドル、CAGRは7.38%でした",
+    "url": "https://straitsresearch.com/jp/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "セラミックスは8.9%を占め、市場規模は5億米ドル、CAGRは7.72%でした",
+    "url": "https://straitsresearch.com/jp/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "リンは市場の7.6%を占め、市場規模は0.04億米ドル、年平均成長率は6.94%でした",
+    "url": "https://straitsresearch.com/jp/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "一方、合金製造は10.5%を占め、市場規模は0.06億米ドル、年平均成長率は9.13%でした",
+    "url": "https://straitsresearch.com/jp/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "その他は5.1%を占め、市場規模は0.03億米ドル、年平均成長率は6.47%でした",
+    "url": "https://straitsresearch.com/jp/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の希土類リサイクル市場は、世界市場の34.6%を占め、2025年には2億米ドルに達し、予測期間中の年平均成長率（CAGR）は8.92%と予測されています",
+    "url": "https://straitsresearch.com/jp/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global rare earth recycling market size was valued at USD 588.02 million in 2025 and is projected to grow from USD 629.18 million in 2026 to USD 1081.05 million by 2034, registering a CAGR of 7% during the forecast period from 2026 to 2034. Europe dominated the rare earth recycling market with a market share of 34.6% in 2025.",
+    "url": "https://straitsresearch.com/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "Europe Market Share (2025)",
+    "url": "https://straitsresearch.com/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share in 2025",
+    "url": "https://straitsresearch.com/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "Which region accounted for the largest share of the the rare earth recycling market in 2025?",
+    "url": "https://straitsresearch.com/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "Europe dominated the market with a share of 34.6% in 2025.",
+    "url": "https://straitsresearch.com/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "– Over 85 % of refined REE output is concentrated in one geography, creating systemic exposure to trade and geopolitical shocks. Recycling diversifies supply and localizes value creation.",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "pass": 3
+   },
+   {
+    "quote": "Modular plants multiply globally; recycled share of REE supply rises from ≈ 1 % to ≈ 5 %; policy incentives peak.",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "pass": 3
+   },
+   {
+    "quote": "4: Which region dominates the rare earth recycling market?",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "pass": 3
+   },
+   {
+    "quote": "Primary mining – ~240 kt REO (2023, USGS) dominated by China",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "pass": 3
+   },
+   {
+    "quote": "Mining → Concentrate → Oxide → Metal (typical $45–$90 / kg TREO)",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "pass": 3
+   },
+   {
+    "quote": "Permanent magnets held the largest market share around 28% in 2023These strong permanent magnets, consisting of rare earth elements (lanthanide metals), mainly neodymium, praseodymium, and dysprosium, are essential to providing small lightweight, durable magnets for advanced technologies. Powerful demand comes from the",
+    "url": "https://www.snsinsider.com/reports/rare-earth-recycling-market-2662",
+    "pass": 3
+   },
+   {
+    "quote": "Record venture funding in 2026 has been increasingly concentrated in massive AI rounds, while seed- and early-stage deal counts are on the decline...",
+    "url": "https://news.crunchbase.com/venture/funding-startups-recycle-batteries-mining-scarce-materials/",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "Cyclic Materials社は、希土類リサイクルインフラの展開を加速させ、地域に根ざしたリサイクル重要資源サプライチェーンを拡大するために、シリーズCラウンドで7500万米ドルの資金調達を確保した",
+    "url": "https://straitsresearch.com/jp/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025: Recycling companies and technology developers expanded investment in processes for recovering neodymium, praseodymium, dysprosium, and other rare earth elements from end-of-life permanent magnets and electronic waste.",
+    "url": "https://straitsresearch.com/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "Cyclic Materials secured USD 75 million in Series C funding to accelerate the deployment of rare earth recycling infrastructure and expand locally anchored recycled critical-material supply chains.",
+    "url": "https://straitsresearch.com/report/rare-earth-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "DOE funding calls (2023–2025 grants)",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "pass": 3
+   },
+   {
+    "quote": "— are both focused on batteries and have been around a while. Together, they’ve pulled in nearly $3 billion in equity funding and over $1 billion in debt financing to date.",
+    "url": "https://news.crunchbase.com/venture/funding-startups-recycle-batteries-mining-scarce-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "Notably, however, both companies secured most of their funding between 2021 and 2023. That coincided with a more bullish period overall for cleantech equity funding. Since then, sustainability-focused investment has",
+    "url": "https://news.crunchbase.com/venture/funding-startups-recycle-batteries-mining-scarce-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "in June that it raised $25 million to build a rare earth recycling facility in Kingston, Ontario. It will take magnet-rich scrap and retired industrial products to recycle rare earth elements used in EV motors, wind turbines and consumer devices. Per Cyclic, it’s an undertapped market, as today,",
+    "url": "https://news.crunchbase.com/venture/funding-startups-recycle-batteries-mining-scarce-materials/",
+    "pass": 3
+   },
+   {
+    "quote": ", which develops technology to draw critical raw materials from end-of-life batteries, picked up a $64 million Series A last spring. And at seed-stage, Munich-based",
+    "url": "https://news.crunchbase.com/venture/funding-startups-recycle-batteries-mining-scarce-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "Cyclic Materials Secures USD $53M Series B Funding to Accelerate Global Expansion of Rare Earth Recycling Infrastructure - Cyclic Materials",
+    "url": "https://cyclicmaterials.earth/resources/cyclic-materials-secures-usd-53m-series-b-funding-to-accelerate-global-expansion-of-rare-earth-recycling-infrastructure",
+    "pass": 3
+   },
+   {
+    "quote": "Cyclic Materials Secures USD $53M Series B Funding to Accelerate Global Expansion of Rare Earth Recycling Infrastructure",
+    "url": "https://cyclicmaterials.earth/resources/cyclic-materials-secures-usd-53m-series-b-funding-to-accelerate-global-expansion-of-rare-earth-recycling-infrastructure",
+    "pass": 3
+   },
+   {
+    "quote": "Cyclic Materials, the advanced recycling company creating a circular supply chain for rare earth elements (REEs) and other critical materials, today announced it has successfully closed an oversubscribed USD $53 million Series B equity round.",
+    "url": "https://cyclicmaterials.earth/resources/cyclic-materials-secures-usd-53m-series-b-funding-to-accelerate-global-expansion-of-rare-earth-recycling-infrastructure",
+    "pass": 3
+   },
+   {
+    "quote": "TORONTO - September 25, 2024 - Cyclic Materials, the advanced recycling company creating a circular supply chain for rare earth elements (REEs) and other critical materials, today announced it has successfully closed an oversubscribed USD $53 million Series B equity round.",
+    "url": "https://cyclicmaterials.earth/resources/cyclic-materials-secures-usd-53m-series-b-funding-to-accelerate-global-expansion-of-rare-earth-recycling-infrastructure",
+    "pass": 3
+   },
+   {
+    "quote": "This funding brings the company’s total equity raised to over USD $83 million and will enable Cyclic Materials to fast-track its international growth. Cyclic Materials will deploy this capital to build rare earth recycling infrastructure in the US and Europe, and grow its team to support its world-class operations.",
+    "url": "https://cyclicmaterials.earth/resources/cyclic-materials-secures-usd-53m-series-b-funding-to-accelerate-global-expansion-of-rare-earth-recycling-infrastructure",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "レアアースリサイクル市場 レポート[2026-2035] — レアアースリサイクル市場 レポート[2026-2035] Business Research Insights https://www.businessresearchinsights.com > market-reports",
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/rare-earth-recycling-market-113882",
+    "pass": 3
+   },
+   {
+    "quote": "レアアースリサイクル市場レポート [2026-2035] — レアアースリサイクル市場レポート [2026-2035] Business Research Insights https://www.businessresearchinsights.com > market-reports",
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/rare-earth-recycling-market-113882",
+    "pass": 3
+   },
+   {
+    "quote": "Rare Earth Recycling Market Size | Industry Report 2035 — Rare Earth Recycling Market Size | Industry Report 2035 Market Research Future https://www.marketresearchfuture.com > ...",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market-10793",
+    "pass": 3
+   },
+   {
+    "quote": "Rare Earth Recycling Market Report, [2026-2035] — Rare Earth Recycling Market Report, [2026-2035] Business Research Insights https://www.businessresearchinsights.com > ...",
+    "url": "https://www.businessresearchinsights.com/market-reports/rare-earth-recycling-market-113882",
+    "pass": 3
+   },
+   {
+    "quote": "Rare Earth Recycling Market Size ($1.4 Billion) 2032 — Rare Earth Recycling Market Size ($1.4 Billion) 2032 Strategic Market Research https://www.strategicmarketresearch.com > ...",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "7",
+    "url": "https://straitsresearch.com/jp/report/rare-earth-recycling-market",
+    "quote": "世界の希土類リサイクル市場規模は、2025年には5億8802万米ドルと評価され、2026年の6億2918万米ドルから2034年には10億8105万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は7%となる見込みです"
+   },
+   {
+    "value": "9.86",
+    "url": "https://straitsresearch.com/jp/report/rare-earth-recycling-market",
+    "quote": "中・重希土類リサイクル分野は、年平均成長率（CAGR）9.86%で最も速い成長を記録すると予測されている"
+   },
+   {
+    "value": "13.2",
+    "url": "https://www.dreamnews.jp/press/0000366725",
+    "quote": "同市場は2026年から2036年にかけて年平均成長率（CAGR）13.2%で拡大すると予測されており、2036年末までに26億3,460万米ドルを超える見込みです"
+   },
+   {
+    "value": "7.0",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market-10793",
+    "quote": "As per MRFR analysis, the Rare Earth Recycling Market Size was estimated at 117.02 USD Million in 2024. The Rare Earth Recycling industry is projected to grow from 125.21 USD Million in 2025 to 230.2 USD Million by 2035, exhibiting a compound annual growth rate (CAGR) of 7.0% during the forecast per"
+   },
+   {
+    "value": "7",
+    "url": "https://straitsresearch.com/report/rare-earth-recycling-market",
+    "quote": "The global rare earth recycling market size was valued at USD 588.02 million in 2025 and is projected to grow from USD 629.18 million in 2026 to USD 1081.05 million by 2034, registering a CAGR of 7% during the forecast period from 2026 to 2034. Europe dominated the rare earth recycling market with a"
+   },
+   {
+    "value": "25",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "quote": "CAGR of approximately 25%"
+   },
+   {
+    "value": "9.7",
+    "url": "https://www.insightaceanalytic.com/report/rare-earth-metals-recycling-market/1616",
+    "quote": "CAGR of 9.7% from 2025 to 2034"
+   },
+   {
+    "value": "8.7",
+    "url": "https://www.snsinsider.com/reports/rare-earth-recycling-market-2662",
+    "quote": "size was USD 410.16 Million in 2023 and is expected to reach USD 871.16 Million by 2032 and grow at a CAGR of 8.7% over the forecast period of 2024-2032."
+   }
+  ],
+  "市場規模USD": [
+   {
+    "value": "117.02",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market-10793",
+    "quote": "$ 117.02 Million"
+   },
+   {
+    "value": "125.21",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market-10793",
+    "quote": "$ 125.21 Million"
+   },
+   {
+    "value": "230.2",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market-10793",
+    "quote": "$ 230.2 Million"
+   },
+   {
+    "value": "25",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market-10793",
+    "quote": "Cyclic Materials announced plans to build a $25 million"
+   },
+   {
+    "value": "588.02",
+    "url": "https://straitsresearch.com/report/rare-earth-recycling-market",
+    "quote": "The global rare earth recycling market size was valued at USD 588.02 million in 2025 and is projected to grow from USD 629.18 million in 2026 to USD 1081.05 million by 2034, registering a CAGR of 7% during the forecast period from 2026 to 2034. Europe dominated the rare earth recycling market with a"
+   },
+   {
+    "value": "629.18",
+    "url": "https://straitsresearch.com/report/rare-earth-recycling-market",
+    "quote": "The global rare earth recycling market size was valued at USD 588.02 million in 2025 and is projected to grow from USD 629.18 million in 2026 to USD 1081.05 million by 2034, registering a CAGR of 7% during the forecast period from 2026 to 2034. Europe dominated the rare earth recycling market with a"
+   },
+   {
+    "value": "1081.05",
+    "url": "https://straitsresearch.com/report/rare-earth-recycling-market",
+    "quote": "The global rare earth recycling market size was valued at USD 588.02 million in 2025 and is projected to grow from USD 629.18 million in 2026 to USD 1081.05 million by 2034, registering a CAGR of 7% during the forecast period from 2026 to 2034. Europe dominated the rare earth recycling market with a"
+   },
+   {
+    "value": "75",
+    "url": "https://straitsresearch.com/report/rare-earth-recycling-market",
+    "quote": "Cyclic Materials secured USD 75 million in Series C funding to accelerate the deployment of rare earth recycling infrastructure and expand locally anchored recycled critical-material supply chains."
+   },
+   {
+    "value": "1.4",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "quote": "Rare Earth Recycling Market Size ($1.4 Billion) 2032"
+   },
+   {
+    "value": "0.3",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "quote": "USD 0.3 billion in 2025"
+   },
+   {
+    "value": "2",
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "quote": "Hybrid HPMS + electro flowsheets become standard; recycled REEs exceed 8–10 % of global supply; market value approaches USD 2 billion."
+   },
+   {
+    "value": "117.02",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market/companies",
+    "quote": "$ 117.02 Million"
+   },
+   {
+    "value": "125.21",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market/companies",
+    "quote": "$ 125.21 Million"
+   },
+   {
+    "value": "230.2",
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market/companies",
+    "quote": "$ 230.2 Million"
+   },
+   {
+    "value": "339.5",
+    "url": "https://www.insightaceanalytic.com/report/rare-earth-metals-recycling-market/1616",
+    "quote": "USD 339.5 Mn"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://straitsresearch.com/jp/report/rare-earth-recycling-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/rare-earth-recycling-market-113882",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/6297796",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/4043963",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dreamnews.jp/press/0000366725",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25117&la=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4178?srsltid=AYCX9vIo0hpcfJt3JFwUkrX-GzBymuRXYmA7LQNA4pHYDz9sR09-Zyif",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fkg-report.jp/research-fields/chemicals/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/019_02_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://strainer.jp/notes/8708",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cjc.or.jp/raremetal/company-list",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baseconnect.in/companies/keyword/ba488a4c-28bb-48dd-a0e9-c35103d2d181",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.alconix.com/media/owned/2026/01/13/AMJ.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsubishielectric.co.jp/ja/pr/2026/0602_co/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market-10793",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/report/rare-earth-recycling-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/market-reports/rare-earth-recycling-market-113882",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/rare-earth-metals-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market/companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/rare-earth-metals-recycling-market-257911285.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.insightaceanalytic.com/report/rare-earth-metals-recycling-market/1616",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.industryresearch.biz/market-reports/rare-earth-recycling-market-110269",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snsinsider.com/reports/rare-earth-recycling-market-2662",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.crunchbase.com/venture/funding-startups-recycle-batteries-mining-scarce-materials/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://globalventuring.com/corporate/europe/6-startups-cleaning-up-the-supply-chain-of-rare-earth-metals/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cyclicmaterials.earth/resources/cyclic-materials-secures-usd-53m-series-b-funding-to-accelerate-global-expansion-of-rare-earth-recycling-infrastructure",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bloomberg.com/news/articles/2026-01-15/trump-national-security-mandate-boosts-us-rare-earth-startups",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://link.springer.com/article/10.1186/s13731-025-00480-1",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "レアアース回収・リサイクル材 市場規模 年平均成長率",
+   "results": [
+    "https://straitsresearch.com/jp/report/rare-earth-recycling-market",
+    "https://www.businessresearchinsights.com/jp/market-reports/rare-earth-recycling-market-113882",
+    "https://newscast.jp/smart/news/6297796",
+    "https://www.atpress.ne.jp/news/4043963",
+    "https://jp.linkedin.com/pulse/%E4%B8%96%E7%95%8C%E3%81%AE%E3%83%AC%E3%82%A2%E3%82%A2%E3%83%BC%E3%82%B9%E5%B8%82%E5%A0%B4%E3%81%AE%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E7%94%A8%E9%80%94%E5%88%86%E6%9E%90%E6%88%90%E9%95%B7%E8%A6%8B%E9%80%9A%E3%81%97%E3%81%9D%E3%81%97%E3%81%A62026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E3%81%AE%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87c-7515739270414962688-qosre",
+    "https://www.dreamnews.jp/press/0000366725",
+    "https://www.sphericalinsights.com/jp/reports/rare-earth-elements-market",
+    "https://www.material-expo.jp/hub/ja-jp/column/recycle/08.html",
+    "https://pando.life/article/4743609",
+    "https://www.verifiedmarketreports.com/ja/product/recycling-of-rare-earth-waste-market/"
+   ]
+  },
+  {
+   "query": "レアアース回収・リサイクル材 市場 予測 富士経済 OR 矢野経済 OR シーエムシー",
+   "results": [
+    "https://www.fuji-keizai.co.jp/press/detail.html?cid=25117&la=ja",
+    "https://straitsresearch.com/jp/report/rare-earth-recycling-market",
+    "https://www.businessresearchinsights.com/jp/market-reports/rare-earth-recycling-market-113882",
+    "https://www.yano.co.jp/press-release/show/press_id/4178?srsltid=AYCX9vIo0hpcfJt3JFwUkrX-GzBymuRXYmA7LQNA4pHYDz9sR09-Zyif",
+    "https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf",
+    "https://www.fkg-report.jp/research-fields/chemicals/",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/019_02_00.pdf",
+    "https://www.cas.go.jp/jp/seisaku/economiccirculation/kanjikai_dai1/sanko3.pdf",
+    "https://www.scgr.co.jp/report/survey/2026070181867/"
+   ]
+  },
+  {
+   "query": "レアアース回収・リサイクル材 参入 企業 国内",
+   "results": [
+    "https://strainer.jp/notes/8708",
+    "https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf",
+    "https://www.cjc.or.jp/raremetal/company-list",
+    "https://baseconnect.in/companies/keyword/ba488a4c-28bb-48dd-a0e9-c35103d2d181",
+    "https://www.alconix.com/media/owned/2026/01/13/AMJ.html",
+    "https://www.mitsubishielectric.co.jp/ja/pr/2026/0602_co/",
+    "https://www.sanwayuka.co.jp/column/detail.html?itemid=128&dispmid=649",
+    "https://baike.baidu.com/ja/item/%E3%83%AC%E3%82%A2%E3%82%A2%E3%83%BC%E3%82%B9%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E7%94%A3%E6%A5%AD%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3/6901419",
+    "https://www.ricoh.co.jp/products/list/ricoh-handy-plastic-sensor-b150/knowledge/knowledge10",
+    "https://asiatopro.com/rare-earth/supply-chain-map/"
+   ]
+  },
+  {
+   "query": "rare earth recycling market size CAGR 2025",
+   "results": [
+    "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market-10793",
+    "https://straitsresearch.com/report/rare-earth-recycling-market",
+    "https://www.businessresearchinsights.com/market-reports/rare-earth-recycling-market-113882",
+    "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "https://www.gminsights.com/industry-analysis/rare-earth-metals-market",
+    "https://www.insightaceanalytic.com/report/rare-earth-metals-recycling-market/1616",
+    "https://www.linkedin.com/pulse/united-states-rare-earth-recycling-market-size-report-2026-2033-zheie",
+    "https://www.industryresearch.biz/market-reports/rare-earth-recycling-market-110269",
+    "https://www.stratviewresearch.com/market-reports/rare-earth-metals-market.html",
+    "https://www.verifiedmarketreports.com/product/rare-earth-recycling-market/"
+   ]
+  },
+  {
+   "query": "rare earth recycling market key players competitive landscape",
+   "results": [
+    "https://www.marketresearchfuture.com/reports/rare-earth-recycling-market/companies",
+    "https://www.businessresearchinsights.com/market-reports/rare-earth-recycling-market-113882",
+    "https://straitsresearch.com/report/rare-earth-recycling-market",
+    "https://www.marketsandmarkets.com/Market-Reports/rare-earth-metals-recycling-market-257911285.html",
+    "https://www.strategicmarketresearch.com/market-report/rare-earth-recycling-market-",
+    "https://www.linkedin.com/pulse/rare-earth-recycling-market-sizeshare-recent-development-crs3e",
+    "https://www.insightaceanalytic.com/report/rare-earth-metals-recycling-market/1616",
+    "https://www.industryresearch.biz/market-reports/rare-earth-recycling-market-110269",
+    "https://www.snsinsider.com/reports/rare-earth-recycling-market-2662",
+    "https://www.verifiedmarketreports.com/product/rare-earth-recycling-market/"
+   ]
+  },
+  {
+   "query": "rare earth recycling startup funding 2025",
+   "results": [
+    "https://news.crunchbase.com/venture/funding-startups-recycle-batteries-mining-scarce-materials/",
+    "https://globalventuring.com/corporate/europe/6-startups-cleaning-up-the-supply-chain-of-rare-earth-metals/",
+    "https://cyclicmaterials.earth/resources/cyclic-materials-secures-usd-53m-series-b-funding-to-accelerate-global-expansion-of-rare-earth-recycling-infrastructure",
+    "https://www.bloomberg.com/news/articles/2026-01-15/trump-national-security-mandate-boosts-us-rare-earth-startups",
+    "https://link.springer.com/article/10.1186/s13731-025-00480-1",
+    "https://startupfundraising.com/critical-minerals-fundraising",
+    "https://www.reddit.com/r/EconomyCharts/comments/1qgljo9/vc_investment_in_us_rare_earth_mineral_startups/",
+    "https://www.energy.gov/cmm/articles/energy-department-announces-134-million-funding-strengthen-rare-earth-element-supply",
+    "https://tracxn.com/d/trending-business-models/startups-in-rare-earth-elements-recycling/__GgQ9w4fn9I6pLyGw7rj8IPZmIoAa8gKK3DwDLyIdH04",
+    "https://cyclicmaterials.earth/resources/cyclic-materials-secures-usd-75m-series-c-funding-to-fast-track-local-and-resilient-rare-earths-supply-at-global-scale"
+   ]
+  }
+ ],
+ "missing": {}
+}

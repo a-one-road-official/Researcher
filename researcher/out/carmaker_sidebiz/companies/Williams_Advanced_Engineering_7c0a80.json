@@ -1,0 +1,1864 @@
+{
+ "name": "Williams Advanced Engineering",
+ "aliases": [
+  "WAE",
+  "Fortescue WAE",
+  "ウィリアムズ"
+ ],
+ "context": "F1技術を他産業へ（英）",
+ "researched_at": "2026-11-02T17:37:17.848474+00:00",
+ "official_url": "https://www.fortescue.com/en/zero/williams-advanced-engineering",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "他社向けサービス": [
+   {
+    "quote": "Williams Grand Prix Engineering Services LLP, a limited liability partnership registered in England and Wales with company registration number OC456938 and whose registered address is at Station Road, Grove, Wantage, Oxfordshire, OX12 0DQ.",
+    "url": "https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vJn67M4miDSZrv7VTSRc9Qvu6BktIqw4Dt7arXo8_L75pjSWKgv",
+    "pass": 3
+   },
+   {
+    "quote": "Williams Advanced Engineering Limited is a world-leading technology and engineering services business delivering pioneering innovation to improve performance, efficiency and sustainability to a global customer base.",
+    "url": "https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/",
+    "pass": 3
+   },
+   {
+    "quote": "Engineering services for electrification and light-weighting",
+    "url": "https://www.emkcapital.com/our-portfolio/williams",
+    "pass": 3
+   },
+   {
+    "quote": "WAE is a world leading engineering technology and consulting business providing innovative electrification and lightweight technology solutions to motorsport, high performance automotive, mining, aviation, defence and other sectors.",
+    "url": "https://www.emkcapital.com/our-portfolio/williams",
+    "pass": 3
+   },
+   {
+    "quote": "Read about how our clients succeed with PitchBook",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "Provider of battery and electrification engineering services to multiple industries based in Wantage, United Kingdom.",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "We find the best talent for our clients and match candidates to their ideal jobs.",
+    "url": "https://www.michaelpage.co.uk/clientprofile/williams-advanced-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "Williams Advanced Engineering exists to accelerate the advantage and impact of our clients. We do it through innovative engineering and technology that solves complex problems and brings a step-change in weight, speed and efficiency.",
+    "url": "https://www.michaelpage.co.uk/clientprofile/williams-advanced-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "Williams Grand Prix Engineering Services LLP, a limited liability partnership registered in England and Wales with company registration number OC456938 and whose registered address is at Station Road, Grove, Wantage, Oxfordshire, OX12 0DQ.",
+    "url": "https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vLMY3TKWJbIjmbFhIFRNgwd6JhDfT5sEkROsTXklPN1ffzPqhVj",
+    "pass": 3
+   },
+   {
+    "quote": "Williams Grand Prix Engineering Services LLP, a limited liability partnership registered in England and Wales with company registration number OC456938 and whose registered address is at Station Road, Grove, Wantage, Oxfordshire, OX12 0DQ.",
+    "url": "https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vJi3XDbwUwYg2KvHoR046GmsV-lBaGb96S2VsrgDiQidT1iSPFW",
+    "pass": 3
+   },
+   {
+    "quote": ". Williams began diversifying in 2010, leading to the establishment of a WAE division, before it became its own limited company. All non-F1 business went over, and WAE head of motorsport Doug Campling moved across with his team in 2013, when the firm won the contract to build the first generation of Formula E batteries.",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "WAE picked up this varied set of racing contracts thanks to its deep in-house capabilities in Grove, Oxfordshire. It can manufacture a few thousand top-end batteries each year, fine-tuning them in its testing facilities. It can build complete vehicles, using strong aerodynamics facilities for R&D. Its F1 heritage provides vehicle dynamics capabilities, as well as small-scale manufacturing.",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "The battery manufacturing, a unique capability for a motorsport consultancy, includes associated technology such as safety enclosures and battery management systems (BMS). The firm builds bespoke modules, delivering the perfect blend of weight and energy density for the task.",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "“We’ve found our niche,” says Wilson, “which is to provide energy efficient performance for our clients in all its forms, with speed and accuracy. It sounds easy when you just say it, but it’s not.”",
+    "url": "https://www.autocar.co.uk/car-news/new-cars/williams-advanced-engineering-boss-why-his-company-world-leader",
+    "pass": 3
+   }
+  ],
+  "部品・技術の供給": [
+   {
+    "quote": "Clients will be able to draw on the resources, assets, skillsets, technologies and talent available to the racing team to unlock new performance and potential in their businesses. Williams Grand Prix Technologies will also work closely with Williams Racing’s technology suppliers and partners to bring advanced solutions in simulation intelligence and data engineering to clients.",
+    "url": "https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vJn67M4miDSZrv7VTSRc9Qvu6BktIqw4Dt7arXo8_L75pjSWKgv",
+    "pass": 3
+   },
+   {
+    "quote": "Williams Advanced Engineering and Molicel, announce a strategic collaboration covering current and next generation battery cells - Molicel",
+    "url": "https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/",
+    "pass": 3
+   },
+   {
+    "quote": "Backup Battery Units",
+    "url": "https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/",
+    "pass": 3
+   },
+   {
+    "quote": "Williams Advanced Engineering and Molicel, announce a strategic collaboration covering current and next generation battery cells",
+    "url": "https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/",
+    "pass": 3
+   },
+   {
+    "quote": "Williams Advanced Engineering and Molicel have agreed a strategic collaboration to support the next generation of high performance, superior quality, lithium-ion power battery cells.",
+    "url": "https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/",
+    "pass": 3
+   },
+   {
+    "quote": "The collaboration will bring together power-optimized cell technology from Molicel, together with WAE’s advanced system design and control systems know how to deliver a shared vision of high performance battery systems, optimized for power, while also delivering energy density, across a number of industries.",
+    "url": "https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/",
+    "pass": 3
+   },
+   {
+    "quote": "The company provides ground-breaking innovation covering electrification, lightweighting, systems and whole product development, all aided by advanced simulation, rapid prototype manufacturing, testing, and in close collaboration with our customers, Williams Advanced Engineering is committed to meeting the continued sustainability challenges of the 21",
+    "url": "https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/",
+    "pass": 3
+   },
+   {
+    "quote": "Connect our data to your systems with the PitchBook API and Data feed",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "Provider of battery and electrification engineering services to multiple industries based in Wantage, United Kingdom.",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Manufacturing Technologies (AMT PostPro)",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "Procurement & Supply Chain",
+    "url": "https://www.michaelpage.co.uk/clientprofile/williams-advanced-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "Supply Chain",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Over the past four decades (and counting), Williams F1 has typified the drive for engineering excellence. From its in-house-developed eight-speed, seamless-shift, semi-automatic gearbox to the carbon-fibre chassis of this year’s car, performance and reliability permeate every component.",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Tasked with creating a vehicle that achieved the performance of a Bugatti Veyron, the emissions of a Toyota Prius and the pure electric range of a Chevrolet Volt, WAE delivered a rolling showcase for innovation in aerodynamics, carbon-composite manufacture and hybrid technologies. What’s even more impressive is the timescale involved.",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Babypod is a collaboration between WAE and Advanced Healthcare Technology to develop and manufacture a carbon fibre transport device for young babies requiring emergency transportation.",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Everything WAE produces is tailor-made and bespoke. The ideal volume for Andrew and his team is around the low hundreds; anything higher than that typically necessitates greater infrastructure or having to outsource to external manufacturing partners.",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Occasionally, however, a project proves so potentially lucrative and societally important that investing in dedicated infrastructure is exactly what’s required.",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Take batteries, for example. To describe WAE as a battery specialist, greatly undersells the expertise contained within its workforce.",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "The business was the sole supplier of the battery system for the entire Formula E grid since the racing series began in 2014 to the end of the fourth season in 2018. Initially having to step in at the eleventh hour, WAE designed, built and delivered the battery packs in just 15 months, and achieved more than 99.5% reliability.",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Hyperbat Limited is a joint venture between WAE and Unipart Manufacturing Group with a mission to manufacture innovative high-voltage battery solutions, optimised for high-performance and specialist applications.",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "That year also saw the announcement of Hyperbat Limited, a joint venture between WAE and Unipart Manufacturing Group with the goal of creating the UK’s largest independent vehicle battery manufacturer.",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "“It’s about creating a secure future supply chain for UK-based automotive OEMs as they transition to electrification, capable of providing clean, sustainable electric batteries that can be tailored to a particular manufacturer’s requirements, as well as the potential to provide similar solutions to developing marine and aircraft projects in the future.”",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "– the development of artificial intelligence-based Advanced Driver Assistance Systems (ADAS) to power the next generation of fully autonomous vehicles",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "– an award-winning designer, manufacturer and supplier of bespoke bionic limbs and assistive technologies",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Oxford Space Systems",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Suppliers",
+    "url": "https://www.raceenginetechnology.com/Suppliers/williams-advanced-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "Ignition Systems",
+    "url": "https://www.raceenginetechnology.com/Suppliers/williams-advanced-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "Engine Structure",
+    "url": "https://www.raceenginetechnology.com/Suppliers/williams-advanced-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "Fuels & Additives",
+    "url": "https://www.raceenginetechnology.com/Suppliers/williams-advanced-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "Composites",
+    "url": "https://www.raceenginetechnology.com/Suppliers/williams-advanced-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Manufacturing",
+    "url": "https://www.raceenginetechnology.com/Suppliers/williams-advanced-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "Casting & Forging",
+    "url": "https://www.raceenginetechnology.com/Suppliers/williams-advanced-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "Measurement & Test Systems",
+    "url": "https://www.raceenginetechnology.com/Suppliers/williams-advanced-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "Powertrain Testing",
+    "url": "https://www.raceenginetechnology.com/Suppliers/williams-advanced-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "All Suppliers",
+    "url": "https://www.raceenginetechnology.com/Suppliers/williams-advanced-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "Clients will be able to draw on the resources, assets, skillsets, technologies and talent available to the racing team to unlock new performance and potential in their businesses. Williams Grand Prix Technologies will also work closely with Williams Racing’s technology suppliers and partners to bring advanced solutions in simulation intelligence and data engineering to clients.",
+    "url": "https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vLMY3TKWJbIjmbFhIFRNgwd6JhDfT5sEkROsTXklPN1ffzPqhVj",
+    "pass": 3
+   },
+   {
+    "quote": "Clients will be able to draw on the resources, assets, skillsets, technologies and talent available to the racing team to unlock new performance and potential in their businesses. Williams Grand Prix Technologies will also work closely with Williams Racing’s technology suppliers and partners to bring advanced solutions in simulation intelligence and data engineering to clients.",
+    "url": "https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vJi3XDbwUwYg2KvHoR046GmsV-lBaGb96S2VsrgDiQidT1iSPFW",
+    "pass": 3
+   },
+   {
+    "quote": "Williams Advanced Engineering is supplying batteries for the electric Extreme-E racing series, which kicked off in Saudi Arabia at the weekend (Credit: Spacesuit Media/ Shivraj Gohil)",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "Now the firm will supply batteries for four upcoming electric racing series – the third generation of",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "WAE will supply the batteries for the third generation of Formula E",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "Each of those series put wildly different demands on their battery systems, pushing WAE to overcome major challenges with new ideas and techniques. The firm’s advanced engineering is not limited to motorsport, however – as sectors from aerospace to marine join the journey to ‘net zero’, its innovation is finding wider application.",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "The battery manufacturing, a unique capability for a motorsport consultancy, includes associated technology such as safety enclosures and battery management systems (BMS). The firm builds bespoke modules, delivering the perfect blend of weight and energy density for the task.",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "The different demands of the four series have an enormous effect on cell development and selection. In general, hybrid systems need very high power density, while batteries for pure-electric vehicles need to provide as much duration as possible out of the packaging volume.",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "Of the four series, ETCR and Extreme-E are the most similar. The ETCR battery provides peak power of 500kW and 300kW continuous power, with 62kWh capacity for a 21-minute race. It also allows four ‘push to pass’ overtakes. Extreme-E uses 54kWh packs, with maximum output of 470kW.",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "In the first generation of Formula E, there was a simple solution to the batteries’ inherent limits – during the 45-minute races, drivers would stop and change car. In the second generation, the battery lasted the whole race.",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "“We developed countermeasures within Formula E Gen One to allow a battery to be flooded externally, for gas pressure to be released before it damaged the enclosure, and hot gas to be released in a controlled way,” says Campling. “We have pressure relief valves, burst discs, douse-ports, snorkels – all sorts of interventions there to control a thermal event should it happen.”",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "Electrocution is the final big threat. In racing, it is tackled with three levels of isolation protection – an equipotential bonding strategy to stop it getting close to capacitive coupling, high-voltage interlocks and isolation protection in the BMS. The BMS itself has a back-up battery showing the isolation status of the car for 15 minutes after an incident, keeping marshals safe.",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "Fast charging, which could reduce ‘range anxiety’ felt by potential buyers, will be enabled by better cooling technology and control systems – both areas of focus at WAE. The optimisation of motorsport battery BMS code, including safety modelling, lifecycle analytics and control algorithms, is another commercially appealing advance.",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "The FW-EVX electric car platform includes crash-resistant folded carbon fibre (Credit: WAE)",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "The company’s focus on lightweighting includes materials and manufacturing techniques with great promise in mainstream automotive. Its FW-EVX electric car platform project, for example, included proprietary innovations. The carbon-fibre chassis and battery housing was built using WAE’s patented 223TM technology, which folds the material to create light, crash-resistant structures.",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "While automotive is an obvious route for WAE’s technology, electrification is increasingly transforming other sectors. The firm is working on projects in aerospace, mining and marine engineering, all areas where battery technology was impractical for many decades. It is also developing and supplying electric scooters for the new eSkootr race series.",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "The firm’s advanced techniques, including innovative control systems and decentralised batteries to manage weight distribution, could be applied throughout engineering. Working with BAE Systems, for example, WAE has explored the concept of separate batteries for different uses in future fighter jets.",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "In a pleasingly circular fashion, systems developed in the BAE project could flow from combat aircraft to commercial aerospace, and potentially back into motorsport. Despite blazing its own trail, the intrinsic link between motorsport and engineering is not going anywhere at Williams Advanced Engineering.",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": ", a car that was rolled out a year ago for the visit of the Chinese premier and must surely contain much info that will improve the battery-powered",
+    "url": "https://www.autocar.co.uk/car-news/new-cars/williams-advanced-engineering-boss-why-his-company-world-leader",
+    "pass": 3
+   },
+   {
+    "quote": "Other activities include involvement in a big-scale power storage project in Germany, using part-spent car batteries as the medium. They may have lost 20% capacity and ended their useful life in cars, says Wilson, but they can do useful work in a battery bank for another 20 years.",
+    "url": "https://www.autocar.co.uk/car-news/new-cars/williams-advanced-engineering-boss-why-his-company-world-leader",
+    "pass": 3
+   }
+  ],
+  "ライセンス・ブランド": [
+   {
+    "quote": "Racing in Formula 1 involves a lightning-fast development cycle, taking a car from concept to competition in less than 12 months. Williams Racing is one of the most successful teams in F1 history, with nine Constructors’ Championships, seven Drivers’ Championships and 114 race wins.",
+    "url": "https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vJn67M4miDSZrv7VTSRc9Qvu6BktIqw4Dt7arXo8_L75pjSWKgv",
+    "pass": 3
+   },
+   {
+    "quote": "Williams Grand Prix Technologies will offer this innovation-led approach and extraordinary pedigree to a wide range of new sectors including wider motorsport, premium automotive, aerospace, defence, marine, energy, sport and lifestyle.",
+    "url": "https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vJn67M4miDSZrv7VTSRc9Qvu6BktIqw4Dt7arXo8_L75pjSWKgv",
+    "pass": 3
+   },
+   {
+    "quote": "Hear from Team Principal James Vowles as he breaks down our performance at the Autódromo Hermanos Rodríguez",
+    "url": "https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vJn67M4miDSZrv7VTSRc9Qvu6BktIqw4Dt7arXo8_L75pjSWKgv",
+    "pass": 3
+   },
+   {
+    "quote": "Ship to:",
+    "url": "https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vJn67M4miDSZrv7VTSRc9Qvu6BktIqw4Dt7arXo8_L75pjSWKgv",
+    "pass": 3
+   },
+   {
+    "quote": "© 2026 The Williams Group, under licence to Williams IP Holdings LLC",
+    "url": "https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vJn67M4miDSZrv7VTSRc9Qvu6BktIqw4Dt7arXo8_L75pjSWKgv",
+    "pass": 3
+   },
+   {
+    "quote": "Williams Grand Prix Engineering Services LLP, a limited liability partnership registered in England and Wales with company registration number OC456938 and whose registered address is at Station Road, Grove, Wantage, Oxfordshire, OX12 0DQ.",
+    "url": "https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vJn67M4miDSZrv7VTSRc9Qvu6BktIqw4Dt7arXo8_L75pjSWKgv",
+    "pass": 3
+   },
+   {
+    "quote": "Williams Advanced Engineering and Molicel, announce a strategic collaboration covering current and next generation battery cells - Molicel",
+    "url": "https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/",
+    "pass": 3
+   },
+   {
+    "quote": "Williams Advanced Engineering and Molicel, announce a strategic collaboration covering current and next generation battery cells",
+    "url": "https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/",
+    "pass": 3
+   },
+   {
+    "quote": "Williams Advanced Engineering and Molicel have agreed a strategic collaboration to support the next generation of high performance, superior quality, lithium-ion power battery cells.",
+    "url": "https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/",
+    "pass": 3
+   },
+   {
+    "quote": "The collaboration will bring together power-optimized cell technology from Molicel, together with WAE’s advanced system design and control systems know how to deliver a shared vision of high performance battery systems, optimized for power, while also delivering energy density, across a number of industries.",
+    "url": "https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/",
+    "pass": 3
+   },
+   {
+    "quote": "Molicel has accumulated extensive expertise and know-how in chemical research and manufacturing engineering during the last 40 years in addition to database design and validation methodologies. The relationship will initially focus on collaboration to assess and develop technology to support demonstration activities aimed at growing market awareness of this exciting technological development.",
+    "url": "https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/",
+    "pass": 3
+   },
+   {
+    "quote": "Combining cutting-edge technological advances and the industry’s best engineers with precision and speed to market derived from the ultra-competitive environment of motorsport, Williams Advanced Engineering’s capabilities cover a wide range of disciplines.",
+    "url": "https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/",
+    "pass": 3
+   },
+   {
+    "quote": "The company provides ground-breaking innovation covering electrification, lightweighting, systems and whole product development, all aided by advanced simulation, rapid prototype manufacturing, testing, and in close collaboration with our customers, Williams Advanced Engineering is committed to meeting the continued sustainability challenges of the 21",
+    "url": "https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/",
+    "pass": 3
+   },
+   {
+    "quote": "Taipei 104",
+    "url": "https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/",
+    "pass": 3
+   },
+   {
+    "quote": "Act on timely transactions to manage pipelines efficiently",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "Evaluate deal histories and multiples",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "Partnerships",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "Meet our partners and contact us for future collaborations",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "PE-backed exits, IPOs, and GP-led secondaries",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "Exits & IPOs",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "Startup M&A, VC-backed IPOs, direct secondaries, and more",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "Provider of battery and electrification engineering services to multiple industries based in Wantage, United Kingdom.",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "Patents",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "Ownership Status",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "Description",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "Size Multiple",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "Participating Rounds",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "Advertising & Sponsorships",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "Skip to content",
+    "url": "https://www.michaelpage.co.uk/clientprofile/williams-advanced-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "Job interview tips",
+    "url": "https://www.michaelpage.co.uk/clientprofile/williams-advanced-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "Working in close collaboration with its customers, Williams Advanced Engineering helps meet the engineering challenges of the 21st century, mobility, sustainability and efficiency",
+    "url": "https://www.michaelpage.co.uk/clientprofile/williams-advanced-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "Leadership",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Shipbuilding",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Partnership Case Studies",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "With a global reputation the equal of Williams’ motorsport pursuits, WAE now receives enquiries from around the world regarding potential collaborations. I asked Andrew what the criteria for project selection was?",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Babypod is a collaboration between WAE and Advanced Healthcare Technology to develop and manufacture a carbon fibre transport device for young babies requiring emergency transportation.",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Hyperbat Limited is a joint venture between WAE and Unipart Manufacturing Group with a mission to manufacture innovative high-voltage battery solutions, optimised for high-performance and specialist applications.",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "In 2018, WAE received the Queen’s Award for Enterprise in Innovation for its ability to design, develop and deliver the batteries for all Formula E cars racing in the championship, while ensuring the successful transfer of that knowledge to road cars and other sustainable transport.",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "That year also saw the announcement of Hyperbat Limited, a joint venture between WAE and Unipart Manufacturing Group with the goal of creating the UK’s largest independent vehicle battery manufacturer.",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Collaboration",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Circlips",
+    "url": "https://www.raceenginetechnology.com/Suppliers/williams-advanced-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "Racing in Formula 1 involves a lightning-fast development cycle, taking a car from concept to competition in less than 12 months. Williams Racing is one of the most successful teams in F1 history, with nine Constructors’ Championships, seven Drivers’ Championships and 114 race wins.",
+    "url": "https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vLMY3TKWJbIjmbFhIFRNgwd6JhDfT5sEkROsTXklPN1ffzPqhVj",
+    "pass": 3
+   },
+   {
+    "quote": "Williams Grand Prix Technologies will offer this innovation-led approach and extraordinary pedigree to a wide range of new sectors including wider motorsport, premium automotive, aerospace, defence, marine, energy, sport and lifestyle.",
+    "url": "https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vLMY3TKWJbIjmbFhIFRNgwd6JhDfT5sEkROsTXklPN1ffzPqhVj",
+    "pass": 3
+   },
+   {
+    "quote": "Hear from Team Principal James Vowles as he breaks down our performance at the Autódromo Hermanos Rodríguez",
+    "url": "https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vLMY3TKWJbIjmbFhIFRNgwd6JhDfT5sEkROsTXklPN1ffzPqhVj",
+    "pass": 3
+   },
+   {
+    "quote": "Ship to:",
+    "url": "https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vLMY3TKWJbIjmbFhIFRNgwd6JhDfT5sEkROsTXklPN1ffzPqhVj",
+    "pass": 3
+   },
+   {
+    "quote": "© 2026 The Williams Group, under licence to Williams IP Holdings LLC",
+    "url": "https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vLMY3TKWJbIjmbFhIFRNgwd6JhDfT5sEkROsTXklPN1ffzPqhVj",
+    "pass": 3
+   },
+   {
+    "quote": "Williams Grand Prix Engineering Services LLP, a limited liability partnership registered in England and Wales with company registration number OC456938 and whose registered address is at Station Road, Grove, Wantage, Oxfordshire, OX12 0DQ.",
+    "url": "https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vLMY3TKWJbIjmbFhIFRNgwd6JhDfT5sEkROsTXklPN1ffzPqhVj",
+    "pass": 3
+   },
+   {
+    "quote": "Racing in Formula 1 involves a lightning-fast development cycle, taking a car from concept to competition in less than 12 months. Williams Racing is one of the most successful teams in F1 history, with nine Constructors’ Championships, seven Drivers’ Championships and 114 race wins.",
+    "url": "https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vJi3XDbwUwYg2KvHoR046GmsV-lBaGb96S2VsrgDiQidT1iSPFW",
+    "pass": 3
+   },
+   {
+    "quote": "Williams Grand Prix Technologies will offer this innovation-led approach and extraordinary pedigree to a wide range of new sectors including wider motorsport, premium automotive, aerospace, defence, marine, energy, sport and lifestyle.",
+    "url": "https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vJi3XDbwUwYg2KvHoR046GmsV-lBaGb96S2VsrgDiQidT1iSPFW",
+    "pass": 3
+   },
+   {
+    "quote": "Hear from Team Principal James Vowles as he breaks down our performance at the Autódromo Hermanos Rodríguez",
+    "url": "https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vJi3XDbwUwYg2KvHoR046GmsV-lBaGb96S2VsrgDiQidT1iSPFW",
+    "pass": 3
+   },
+   {
+    "quote": "Ship to:",
+    "url": "https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vJi3XDbwUwYg2KvHoR046GmsV-lBaGb96S2VsrgDiQidT1iSPFW",
+    "pass": 3
+   },
+   {
+    "quote": "© 2026 The Williams Group, under licence to Williams IP Holdings LLC",
+    "url": "https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vJi3XDbwUwYg2KvHoR046GmsV-lBaGb96S2VsrgDiQidT1iSPFW",
+    "pass": 3
+   },
+   {
+    "quote": "Williams Grand Prix Engineering Services LLP, a limited liability partnership registered in England and Wales with company registration number OC456938 and whose registered address is at Station Road, Grove, Wantage, Oxfordshire, OX12 0DQ.",
+    "url": "https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vJi3XDbwUwYg2KvHoR046GmsV-lBaGb96S2VsrgDiQidT1iSPFW",
+    "pass": 3
+   },
+   {
+    "quote": "Skip to main content",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "Membership and Registration",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "Benefits of membership",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "Upgrade your membership",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "Pay membership fees",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "Membership Partner",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "Scholarships and awards",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   }
+  ],
+  "車以外の顧客・産業": [
+   {
+    "quote": "Drawing on lessons learned over almost 50 years at the pinnacle of motorsport, Williams Grand Prix Technologies will bring a laser focus to solving clients’ problems using world-leading engineering capabilities.",
+    "url": "https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vJn67M4miDSZrv7VTSRc9Qvu6BktIqw4Dt7arXo8_L75pjSWKgv",
+    "pass": 3
+   },
+   {
+    "quote": "Williams Grand Prix Technologies will offer this innovation-led approach and extraordinary pedigree to a wide range of new sectors including wider motorsport, premium automotive, aerospace, defence, marine, energy, sport and lifestyle.",
+    "url": "https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vJn67M4miDSZrv7VTSRc9Qvu6BktIqw4Dt7arXo8_L75pjSWKgv",
+    "pass": 3
+   },
+   {
+    "quote": "Hyper EVs & Racing Sports Cars",
+    "url": "https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/",
+    "pass": 3
+   },
+   {
+    "quote": "The collaboration will bring together power-optimized cell technology from Molicel, together with WAE’s advanced system design and control systems know how to deliver a shared vision of high performance battery systems, optimized for power, while also delivering energy density, across a number of industries.",
+    "url": "https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/",
+    "pass": 3
+   },
+   {
+    "quote": "MOLICEL® belongs to the energy business of Taiwan Cement Corporation (TCC). TCC is the first listing company in Taiwan stock market. The group has business units in the field of power plant, renewable energy and BESS.",
+    "url": "https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/",
+    "pass": 3
+   },
+   {
+    "quote": "Combining cutting-edge technological advances and the industry’s best engineers with precision and speed to market derived from the ultra-competitive environment of motorsport, Williams Advanced Engineering’s capabilities cover a wide range of disciplines.",
+    "url": "https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/",
+    "pass": 3
+   },
+   {
+    "quote": "HQ - E-One Moli Energy Corp.",
+    "url": "https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/",
+    "pass": 3
+   },
+   {
+    "quote": "North America - E-One Moli Energy (Canada) Ltd",
+    "url": "https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/",
+    "pass": 3
+   },
+   {
+    "quote": "molicel@molienergy.com",
+    "url": "https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/",
+    "pass": 3
+   },
+   {
+    "quote": "WAE is a world leading engineering technology and consulting business providing innovative electrification and lightweight technology solutions to motorsport, high performance automotive, mining, aviation, defence and other sectors.",
+    "url": "https://www.emkcapital.com/our-portfolio/williams",
+    "pass": 3
+   },
+   {
+    "quote": "Emerging tech research on AI, healthcare, energy, and more",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "Industrials",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "Follow PE and VC trends across key industrial segments",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Defence",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Energy",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Marine",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Transportation",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Williams Advanced Engineering (WAE) was established to exploit and commercialise the unique knowledge, expertise and technology developed from its own motorsport activities, and apply it to the company’s own products – and for customers.",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "With a global reputation the equal of Williams’ motorsport pursuits, WAE now receives enquiries from around the world regarding potential collaborations. I asked Andrew what the criteria for project selection was?",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Babypod is a collaboration between WAE and Advanced Healthcare Technology to develop and manufacture a carbon fibre transport device for young babies requiring emergency transportation.",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "In the decade since, WAE has grown from an embryonic business of 60 to a 350-strong workforce with more than 40 live projects across automotive and motorsport, defence, aerospace energy, life science and healthcare.",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "As you would expect from its motorsport roots, WAE’s core competencies encompass aero and thermodynamics, lightweighting, electrification, vehicle integration, precision manufacturing and assembly, design and development, data capture and analysis, and testing and simulation.",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "In 2018, WAE received the Queen’s Award for Enterprise in Innovation for its ability to design, develop and deliver the batteries for all Formula E cars racing in the championship, while ensuring the successful transfer of that knowledge to road cars and other sustainable transport.",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "“It’s about creating a secure future supply chain for UK-based automotive OEMs as they transition to electrification, capable of providing clean, sustainable electric batteries that can be tailored to a particular manufacturer’s requirements, as well as the potential to provide similar solutions to developing marine and aircraft projects in the future.”",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "– industrial technologies that address the shortcoming of existing post-processing techniques to enable the deployment of 3D printing for mass production",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Oxford Space Systems",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "WAE collaborated with UK start up company to develop a new aerodynamic device to reduce the energy consumed by refrigerators in supermarkets",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "UK start-up Aerofoil Energy and Williams Advanced Engineering have jointly developed Aerofoil, an aerodynamic new device that attaches onto a supermarket refrigerator shelf, to keep more of the cool air inside the refrigerator cabinet.",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "This saves up to 30% of a supermarket’s energy costs and has the potential to save the equivalent of a month’s worth of the domestic CO2 emissions from a city the size of Manchester annually. Furthermore, all the aluminium used for Aerofoil blades and blanking plates is made from 100% recycled material.",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Rolls-Royce and UK Government unveil £2.5bn plan to boost UK aerospace manufacturing",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Energy Storage",
+    "url": "https://www.raceenginetechnology.com/Suppliers/williams-advanced-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "Drawing on lessons learned over almost 50 years at the pinnacle of motorsport, Williams Grand Prix Technologies will bring a laser focus to solving clients’ problems using world-leading engineering capabilities.",
+    "url": "https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vLMY3TKWJbIjmbFhIFRNgwd6JhDfT5sEkROsTXklPN1ffzPqhVj",
+    "pass": 3
+   },
+   {
+    "quote": "Williams Grand Prix Technologies will offer this innovation-led approach and extraordinary pedigree to a wide range of new sectors including wider motorsport, premium automotive, aerospace, defence, marine, energy, sport and lifestyle.",
+    "url": "https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vLMY3TKWJbIjmbFhIFRNgwd6JhDfT5sEkROsTXklPN1ffzPqhVj",
+    "pass": 3
+   },
+   {
+    "quote": "Drawing on lessons learned over almost 50 years at the pinnacle of motorsport, Williams Grand Prix Technologies will bring a laser focus to solving clients’ problems using world-leading engineering capabilities.",
+    "url": "https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vJi3XDbwUwYg2KvHoR046GmsV-lBaGb96S2VsrgDiQidT1iSPFW",
+    "pass": 3
+   },
+   {
+    "quote": "Williams Grand Prix Technologies will offer this innovation-led approach and extraordinary pedigree to a wide range of new sectors including wider motorsport, premium automotive, aerospace, defence, marine, energy, sport and lifestyle.",
+    "url": "https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vJi3XDbwUwYg2KvHoR046GmsV-lBaGb96S2VsrgDiQidT1iSPFW",
+    "pass": 3
+   },
+   {
+    "quote": "Williams Advanced Engineering is supplying batteries for the electric Extreme-E racing series, which kicked off in Saudi Arabia at the weekend (Credit: Spacesuit Media/ Shivraj Gohil)",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": ". Williams began diversifying in 2010, leading to the establishment of a WAE division, before it became its own limited company. All non-F1 business went over, and WAE head of motorsport Doug Campling moved across with his team in 2013, when the firm won the contract to build the first generation of Formula E batteries.",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "Four years earlier, Williams had done all its own work on a kinetic energy recovery system (Kers) for F1, including a flywheel-based design. WAE built on that, specialising in electrification and lightweighting, and was well-placed as the new electric series prepared to race.",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "Each of those series put wildly different demands on their battery systems, pushing WAE to overcome major challenges with new ideas and techniques. The firm’s advanced engineering is not limited to motorsport, however – as sectors from aerospace to marine join the journey to ‘net zero’, its innovation is finding wider application.",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "The battery manufacturing, a unique capability for a motorsport consultancy, includes associated technology such as safety enclosures and battery management systems (BMS). The firm builds bespoke modules, delivering the perfect blend of weight and energy density for the task.",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "Technology in each of the motorsport batteries can be traced back through WAE’s projects, including work with Porsche and F1 teams. “There’s a real thread of DNA, especially around the BMS,” says Campling.",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "The firm’s experience with Kers, which historically used space-efficient pouch cells – similar to those found in drones and other hobby electronics – is also valuable, as is its in-house capabilities. Modern racing series can support exotic cell chemistry, and WAE is keen to innovate.",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "Lightweighting is key – batteries are, after all, a heavier energy storage method than petrol or diesel. Customers and WAE also have to balance the elements of density when developing and selecting batteries. Power density and energy density both have a volumetric and gravimetric basis, and the balance between them is juggled depending on the application.",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "Neither is a truly efficiency-based series, says Campling, and there is no in-race energy management. The focus is instead on allowing teams to go full power throughout.",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "Motorsport.com",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "Of course, after its separation from Williams, WAE is not solely focused on motorsport. Technology transfer from motorsport to high-performance automotive has been “a well-trodden path over the last century,” says technical director Paul McNamara.",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "The firm’s most cutting-edge technology will have an even wider influence in the years to come, as motorsport technology is gradually adapted for consumer cars and other engineering sectors.",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "Fast charging, which could reduce ‘range anxiety’ felt by potential buyers, will be enabled by better cooling technology and control systems – both areas of focus at WAE. The optimisation of motorsport battery BMS code, including safety modelling, lifecycle analytics and control algorithms, is another commercially appealing advance.",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "While automotive is an obvious route for WAE’s technology, electrification is increasingly transforming other sectors. The firm is working on projects in aerospace, mining and marine engineering, all areas where battery technology was impractical for many decades. It is also developing and supplying electric scooters for the new eSkootr race series.",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "In a pleasingly circular fashion, systems developed in the BAE project could flow from combat aircraft to commercial aerospace, and potentially back into motorsport. Despite blazing its own trail, the intrinsic link between motorsport and engineering is not going anywhere at Williams Advanced Engineering.",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "Power and Energy",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "Flexible spaces at our head office in Westminster, London",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "Great British Sports Cars",
+    "url": "https://www.autocar.co.uk/car-news/new-cars/williams-advanced-engineering-boss-why-his-company-world-leader",
+    "pass": 3
+   },
+   {
+    "quote": "'We've found our niche' says the boss of Williams Advanced Engineering, which works with clients in the automotive, motorsport, defence, health care, marine and energy industries, to name a few",
+    "url": "https://www.autocar.co.uk/car-news/new-cars/williams-advanced-engineering-boss-why-his-company-world-leader",
+    "pass": 3
+   },
+   {
+    "quote": "“We’ve found our niche,” says Wilson, “which is to provide energy efficient performance for our clients in all its forms, with speed and accuracy. It sounds easy when you just say it, but it’s not.”",
+    "url": "https://www.autocar.co.uk/car-news/new-cars/williams-advanced-engineering-boss-why-his-company-world-leader",
+    "pass": 3
+   },
+   {
+    "quote": "The best sports cars",
+    "url": "https://www.autocar.co.uk/car-news/new-cars/williams-advanced-engineering-boss-why-his-company-world-leader",
+    "pass": 3
+   }
+  ],
+  "レース・ワンメイク": [
+   {
+    "quote": "Racing in Formula 1 involves a lightning-fast development cycle, taking a car from concept to competition in less than 12 months. Williams Racing is one of the most successful teams in F1 history, with nine Constructors’ Championships, seven Drivers’ Championships and 114 race wins.",
+    "url": "https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vJn67M4miDSZrv7VTSRc9Qvu6BktIqw4Dt7arXo8_L75pjSWKgv",
+    "pass": 3
+   },
+   {
+    "quote": "Discover the start times for each session as Formula 1 heads to Brazil for round 20",
+    "url": "https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vJn67M4miDSZrv7VTSRc9Qvu6BktIqw4Dt7arXo8_L75pjSWKgv",
+    "pass": 3
+   },
+   {
+    "quote": "The business was the sole supplier of the battery system for the entire Formula E grid since the racing series began in 2014 to the end of the fourth season in 2018. Initially having to step in at the eleventh hour, WAE designed, built and delivered the battery packs in just 15 months, and achieved more than 99.5% reliability.",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "In 2018, WAE received the Queen’s Award for Enterprise in Innovation for its ability to design, develop and deliver the batteries for all Formula E cars racing in the championship, while ensuring the successful transfer of that knowledge to road cars and other sustainable transport.",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Inspired and based on the design of a Formula One wing, the Aerofoil channels the cold air that falls from the top of an open fridge down the front of the fridge, preventing it from spilling out into the aisle in a supermarket.",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Williams is one of the world’s leading Formula 1 teams. It exists purely to race in the top echelon of motor racing, where it has been winning grands prix for more than three decades.",
+    "url": "https://www.raceenginetechnology.com/Suppliers/williams-advanced-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "Racing in Formula 1 involves a lightning-fast development cycle, taking a car from concept to competition in less than 12 months. Williams Racing is one of the most successful teams in F1 history, with nine Constructors’ Championships, seven Drivers’ Championships and 114 race wins.",
+    "url": "https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vLMY3TKWJbIjmbFhIFRNgwd6JhDfT5sEkROsTXklPN1ffzPqhVj",
+    "pass": 3
+   },
+   {
+    "quote": "Discover the start times for each session as Formula 1 heads to Brazil for round 20",
+    "url": "https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vLMY3TKWJbIjmbFhIFRNgwd6JhDfT5sEkROsTXklPN1ffzPqhVj",
+    "pass": 3
+   },
+   {
+    "quote": "Racing in Formula 1 involves a lightning-fast development cycle, taking a car from concept to competition in less than 12 months. Williams Racing is one of the most successful teams in F1 history, with nine Constructors’ Championships, seven Drivers’ Championships and 114 race wins.",
+    "url": "https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vJi3XDbwUwYg2KvHoR046GmsV-lBaGb96S2VsrgDiQidT1iSPFW",
+    "pass": 3
+   },
+   {
+    "quote": "Discover the start times for each session as Formula 1 heads to Brazil for round 20",
+    "url": "https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vJi3XDbwUwYg2KvHoR046GmsV-lBaGb96S2VsrgDiQidT1iSPFW",
+    "pass": 3
+   },
+   {
+    "quote": "Formula Student",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "IMechE Focus Webinar Series",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "Williams Advanced Engineering is supplying batteries for the electric Extreme-E racing series, which kicked off in Saudi Arabia at the weekend (Credit: Spacesuit Media/ Shivraj Gohil)",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "Williams is a Formula One giant. Its nine constructors’ championships are second only to Ferrari. Yet, despite that huge success, co-founder Sir Patrick Head described it as “an engineering company that just happened to go motor racing”.",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": ". Williams began diversifying in 2010, leading to the establishment of a WAE division, before it became its own limited company. All non-F1 business went over, and WAE head of motorsport Doug Campling moved across with his team in 2013, when the firm won the contract to build the first generation of Formula E batteries.",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "Four years earlier, Williams had done all its own work on a kinetic energy recovery system (Kers) for F1, including a flywheel-based design. WAE built on that, specialising in electrification and lightweighting, and was well-placed as the new electric series prepared to race.",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "Now the firm will supply batteries for four upcoming electric racing series – the third generation of",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "Formula E",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": ", globe-hopping off-road series",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": ", upcoming touring car series",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "and endurance championship LMDh.",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "WAE will supply the batteries for the third generation of Formula E",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "Each of those series put wildly different demands on their battery systems, pushing WAE to overcome major challenges with new ideas and techniques. The firm’s advanced engineering is not limited to motorsport, however – as sectors from aerospace to marine join the journey to ‘net zero’, its innovation is finding wider application.",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "The firm’s experience with Kers, which historically used space-efficient pouch cells – similar to those found in drones and other hobby electronics – is also valuable, as is its in-house capabilities. Modern racing series can support exotic cell chemistry, and WAE is keen to innovate.",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "The different demands of the four series have an enormous effect on cell development and selection. In general, hybrid systems need very high power density, while batteries for pure-electric vehicles need to provide as much duration as possible out of the packaging volume.",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "Of the four series, ETCR and Extreme-E are the most similar. The ETCR battery provides peak power of 500kW and 300kW continuous power, with 62kWh capacity for a 21-minute race. It also allows four ‘push to pass’ overtakes. Extreme-E uses 54kWh packs, with maximum output of 470kW.",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "Neither is a truly efficiency-based series, says Campling, and there is no in-race energy management. The focus is instead on allowing teams to go full power throughout.",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "In the first generation of Formula E, there was a simple solution to the batteries’ inherent limits – during the 45-minute races, drivers would stop and change car. In the second generation, the battery lasted the whole race.",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": ", and the series will reportedly feature pit-stop fast charging for the first time. According to",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "WAE is unable to comment on any details of the Gen Three Formula E batteries, but Campling adds: “Suffice to say it is a challenge we relish, that plays to our core skills.”",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "“We developed countermeasures within Formula E Gen One to allow a battery to be flooded externally, for gas pressure to be released before it damaged the enclosure, and hot gas to be released in a controlled way,” says Campling. “We have pressure relief valves, burst discs, douse-ports, snorkels – all sorts of interventions there to control a thermal event should it happen.”",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "While automotive is an obvious route for WAE’s technology, electrification is increasingly transforming other sectors. The firm is working on projects in aerospace, mining and marine engineering, all areas where battery technology was impractical for many decades. It is also developing and supplying electric scooters for the new eSkootr race series.",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "Formula 1",
+    "url": "https://www.autocar.co.uk/car-news/new-cars/williams-advanced-engineering-boss-why-his-company-world-leader",
+    "pass": 3
+   },
+   {
+    "quote": "BMW 3 Series",
+    "url": "https://www.autocar.co.uk/car-news/new-cars/williams-advanced-engineering-boss-why-his-company-world-leader",
+    "pass": 3
+   },
+   {
+    "quote": "Talking modern stuff, it’s only two months since Jaguar launched its new Formula E team, citing WAE as its “close collaborator”. Wilson, named as race director, adds little, but I have my own pretty clear view of what that means. Even more recently, Jaguar has launched its",
+    "url": "https://www.autocar.co.uk/car-news/new-cars/williams-advanced-engineering-boss-why-his-company-world-leader",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche 911 GT3 RS",
+    "url": "https://www.autocar.co.uk/car-news/new-cars/williams-advanced-engineering-boss-why-his-company-world-leader",
+    "pass": 3
+   }
+  ],
+  "顧客名": [
+   {
+    "quote": "Williams Grand Prix Engineering Services LLP, a limited liability partnership registered in England and Wales with company registration number OC456938 and whose registered address is at Station Road, Grove, Wantage, Oxfordshire, OX12 0DQ.",
+    "url": "https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vJn67M4miDSZrv7VTSRc9Qvu6BktIqw4Dt7arXo8_L75pjSWKgv",
+    "pass": 3
+   },
+   {
+    "quote": "Follow PE and VC trends across key industrial segments",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "Segments",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "Audit & Advisory",
+    "url": "https://www.michaelpage.co.uk/clientprofile/williams-advanced-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "Tasked with creating a vehicle that achieved the performance of a Bugatti Veyron, the emissions of a Toyota Prius and the pure electric range of a Chevrolet Volt, WAE delivered a rolling showcase for innovation in aerodynamics, carbon-composite manufacture and hybrid technologies. What’s even more impressive is the timescale involved.",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "– technology allowing virtual and augmented reality (VR/AR) to be more efficiently used by professionals working in immersive design, production, review and training",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Oxford Space Systems",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Grove , Wantage, Oxfordshire, OX12 0DQ, UK",
+    "url": "https://www.raceenginetechnology.com/Suppliers/williams-advanced-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "Williams Grand Prix Engineering Services LLP, a limited liability partnership registered in England and Wales with company registration number OC456938 and whose registered address is at Station Road, Grove, Wantage, Oxfordshire, OX12 0DQ.",
+    "url": "https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vLMY3TKWJbIjmbFhIFRNgwd6JhDfT5sEkROsTXklPN1ffzPqhVj",
+    "pass": 3
+   },
+   {
+    "quote": "Williams Grand Prix Engineering Services LLP, a limited liability partnership registered in England and Wales with company registration number OC456938 and whose registered address is at Station Road, Grove, Wantage, Oxfordshire, OX12 0DQ.",
+    "url": "https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vJi3XDbwUwYg2KvHoR046GmsV-lBaGb96S2VsrgDiQidT1iSPFW",
+    "pass": 3
+   },
+   {
+    "quote": "Williams Advanced Engineering is supplying batteries for the electric Extreme-E racing series, which kicked off in Saudi Arabia at the weekend (Credit: Spacesuit Media/ Shivraj Gohil)",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "Williams is a Formula One giant. Its nine constructors’ championships are second only to Ferrari. Yet, despite that huge success, co-founder Sir Patrick Head described it as “an engineering company that just happened to go motor racing”.",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "WAE picked up this varied set of racing contracts thanks to its deep in-house capabilities in Grove, Oxfordshire. It can manufacture a few thousand top-end batteries each year, fine-tuning them in its testing facilities. It can build complete vehicles, using strong aerodynamics facilities for R&D. Its F1 heritage provides vehicle dynamics capabilities, as well as small-scale manufacturing.",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "Technology in each of the motorsport batteries can be traced back through WAE’s projects, including work with Porsche and F1 teams. “There’s a real thread of DNA, especially around the BMS,” says Campling.",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "Aston Martin",
+    "url": "https://www.autocar.co.uk/car-news/new-cars/williams-advanced-engineering-boss-why-his-company-world-leader",
+    "pass": 3
+   },
+   {
+    "quote": "Bugatti",
+    "url": "https://www.autocar.co.uk/car-news/new-cars/williams-advanced-engineering-boss-why-his-company-world-leader",
+    "pass": 3
+   },
+   {
+    "quote": "Ferrari",
+    "url": "https://www.autocar.co.uk/car-news/new-cars/williams-advanced-engineering-boss-why-his-company-world-leader",
+    "pass": 3
+   },
+   {
+    "quote": "Hyundai",
+    "url": "https://www.autocar.co.uk/car-news/new-cars/williams-advanced-engineering-boss-why-his-company-world-leader",
+    "pass": 3
+   },
+   {
+    "quote": "Lamborghini",
+    "url": "https://www.autocar.co.uk/car-news/new-cars/williams-advanced-engineering-boss-why-his-company-world-leader",
+    "pass": 3
+   },
+   {
+    "quote": "McLaren",
+    "url": "https://www.autocar.co.uk/car-news/new-cars/williams-advanced-engineering-boss-why-his-company-world-leader",
+    "pass": 3
+   },
+   {
+    "quote": "Mercedes-AMG",
+    "url": "https://www.autocar.co.uk/car-news/new-cars/williams-advanced-engineering-boss-why-his-company-world-leader",
+    "pass": 3
+   },
+   {
+    "quote": "Mercedes-Benz",
+    "url": "https://www.autocar.co.uk/car-news/new-cars/williams-advanced-engineering-boss-why-his-company-world-leader",
+    "pass": 3
+   },
+   {
+    "quote": "Mercedes-Maybach",
+    "url": "https://www.autocar.co.uk/car-news/new-cars/williams-advanced-engineering-boss-why-his-company-world-leader",
+    "pass": 3
+   },
+   {
+    "quote": "Nissan",
+    "url": "https://www.autocar.co.uk/car-news/new-cars/williams-advanced-engineering-boss-why-his-company-world-leader",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche",
+    "url": "https://www.autocar.co.uk/car-news/new-cars/williams-advanced-engineering-boss-why-his-company-world-leader",
+    "pass": 3
+   },
+   {
+    "quote": "Toyota",
+    "url": "https://www.autocar.co.uk/car-news/new-cars/williams-advanced-engineering-boss-why-his-company-world-leader",
+    "pass": 3
+   },
+   {
+    "quote": "This and the fact that in 2011 Williams became a publicly listed company – which increased its priority to earn money for investors – is probably why the famous Grove estate 12 miles south-west of Oxford is nowadays home to a fast-expanding technology business called Williams Advanced Engineering.",
+    "url": "https://www.autocar.co.uk/car-news/new-cars/williams-advanced-engineering-boss-why-his-company-world-leader",
+    "pass": 3
+   },
+   {
+    "quote": "BMW i3",
+    "url": "https://www.autocar.co.uk/car-news/new-cars/williams-advanced-engineering-boss-why-his-company-world-leader",
+    "pass": 3
+   },
+   {
+    "quote": "BMW 3 Series",
+    "url": "https://www.autocar.co.uk/car-news/new-cars/williams-advanced-engineering-boss-why-his-company-world-leader",
+    "pass": 3
+   },
+   {
+    "quote": "Another early customer was Porsche. WAE did the by-wire braking system for the 919 racer, plus quite a lot of the car’s aerodynamic proving, because Grove’s wind tunnel was one of the few in Europe sufficiently advanced for the job, and new limits on F1 aero testing (previously conducted 24/7) meant the group suddenly had tunnel hours that could be sold.",
+    "url": "https://www.autocar.co.uk/car-news/new-cars/williams-advanced-engineering-boss-why-his-company-world-leader",
+    "pass": 3
+   },
+   {
+    "quote": "“It was a good earner, but that wasn’t the main thing,” says Wilson. “Porsche were very driven, very rigorous. They taught us stuff. We made improvements to our hardware and our procedures as a result of having them as a customer for two years. We finished up well ahead of where we’d have been just working for ourselves – and that benefited our F1 effort, too.”",
+    "url": "https://www.autocar.co.uk/car-news/new-cars/williams-advanced-engineering-boss-why-his-company-world-leader",
+    "pass": 3
+   },
+   {
+    "quote": "Aston Martin’s electric Rapide prototype",
+    "url": "https://www.autocar.co.uk/car-news/new-cars/williams-advanced-engineering-boss-why-his-company-world-leader",
+    "pass": 3
+   },
+   {
+    "quote": "planned for production in a couple of years’ time. Aston Martin really needs the DBX if it is to drive annual sales to the 10,000-plus needed to generate serious profits and perhaps fuel a potential public flotation.",
+    "url": "https://www.autocar.co.uk/car-news/new-cars/williams-advanced-engineering-boss-why-his-company-world-leader",
+    "pass": 3
+   },
+   {
+    "quote": "He has been surprised and delighted by the generous reception afforded the My Week In Cars podcast he makes with long suffering colleague Matt Prior, and calls it the most enjoyable part of his working week.",
+    "url": "https://www.autocar.co.uk/car-news/new-cars/williams-advanced-engineering-boss-why-his-company-world-leader",
+    "pass": 3
+   },
+   {
+    "quote": "BMW M5",
+    "url": "https://www.autocar.co.uk/car-news/new-cars/williams-advanced-engineering-boss-why-his-company-world-leader",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche 911 GT3 RS",
+    "url": "https://www.autocar.co.uk/car-news/new-cars/williams-advanced-engineering-boss-why-his-company-world-leader",
+    "pass": 3
+   },
+   {
+    "quote": "Kia EV9",
+    "url": "https://www.autocar.co.uk/car-news/new-cars/williams-advanced-engineering-boss-why-his-company-world-leader",
+    "pass": 3
+   },
+   {
+    "quote": "Mercedes",
+    "url": "https://www.autocar.co.uk/car-news/new-cars/williams-advanced-engineering-boss-why-his-company-world-leader",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "MOLICEL® belongs to the energy business of Taiwan Cement Corporation (TCC). TCC is the first listing company in Taiwan stock market. The group has business units in the field of power plant, renewable energy and BESS.",
+    "url": "https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/",
+    "pass": 3
+   },
+   {
+    "quote": "EMK acquired 75% of the business from Williams F1 which has a deep and renowned heritage in racing and engineering excellence, both in the UK and internationally. In its core areas of high-performance electrification and light-weighting it is a clear technology and market leader with a very strong reputation.",
+    "url": "https://www.emkcapital.com/our-portfolio/williams",
+    "pass": 3
+   },
+   {
+    "quote": "Follow PE and VC trends across key industrial segments",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "Secondary market analysis of GP-led transactions and LP stake sales",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "What is WAE Technologies’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for WAE Technologies is",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "Segments",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "The business was the sole supplier of the battery system for the entire Formula E grid since the racing series began in 2014 to the end of the fourth season in 2018. Initially having to step in at the eleventh hour, WAE designed, built and delivered the battery packs in just 15 months, and achieved more than 99.5% reliability.",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "This saves up to 30% of a supermarket’s energy costs and has the potential to save the equivalent of a month’s worth of the domestic CO2 emissions from a city the size of Manchester annually. Furthermore, all the aluminium used for Aerofoil blades and blanking plates is made from 100% recycled material.",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": ". Williams began diversifying in 2010, leading to the establishment of a WAE division, before it became its own limited company. All non-F1 business went over, and WAE head of motorsport Doug Campling moved across with his team in 2013, when the firm won the contract to build the first generation of Formula E batteries.",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "planned for production in a couple of years’ time. Aston Martin really needs the DBX if it is to drive annual sales to the 10,000-plus needed to generate serious profits and perhaps fuel a potential public flotation.",
+    "url": "https://www.autocar.co.uk/car-news/new-cars/williams-advanced-engineering-boss-why-his-company-world-leader",
+    "pass": 3
+   },
+   {
+    "quote": "Other activities include involvement in a big-scale power storage project in Germany, using part-spent car batteries as the medium. They may have lost 20% capacity and ended their useful life in cars, says Wilson, but they can do useful work in a battery bank for another 20 years.",
+    "url": "https://www.autocar.co.uk/car-news/new-cars/williams-advanced-engineering-boss-why-his-company-world-leader",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Williams Advanced Engineering and Molicel, announce a ... — Williams Advanced Engineering and Molicel, announce a ... Molicel https://www.molicel.com > newsroom",
+    "url": "https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/",
+    "pass": 3
+   },
+   {
+    "quote": "Williams Advanced Engineering | Investments - EMK Capital — Williams Advanced Engineering | Investments - EMK Capital EMK Capital https://www.emkcapital.com > williams",
+    "url": "https://www.emkcapital.com/our-portfolio/williams",
+    "pass": 3
+   },
+   {
+    "quote": "Italdesign partners with Williams Advanced Engineering to ... — Italdesign partners with Williams Advanced Engineering to ... Italdesign https://www.italdesign.it > italdesign-...",
+    "url": "https://www.italdesign.it/en/italdesign-partners-with-williams-advanced-engineering-to-create-complete-high-performance-ev-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "Williams Advanced Engineering - Manufacturing Today — Williams Advanced Engineering - Manufacturing Today Manufacturing Today https://manufacturing-today.com > wi...",
+    "url": "https://manufacturing-today.com/news/williams-advanced-engineering/",
+    "pass": 3
+   },
+   {
+    "quote": "WAE Technologies 2026 Company Profile - PitchBook — WAE Technologies 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "Williams Advanced Engineering - Michael Page — Williams Advanced Engineering - Michael Page Michael Page https://www.michaelpage.co.uk > will...",
+    "url": "https://www.michaelpage.co.uk/clientprofile/williams-advanced-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "Williams Advanced Engineering : Driving and disrupting ... — Williams Advanced Engineering : Driving and disrupting ... The Manufacturer https://www.themanufacturer.com > ...",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Williams Advanced Engineering - Race Engine Technology — Williams Advanced Engineering - Race Engine Technology Race Engine Technology https://www.raceenginetechnology.com > ...",
+    "url": "https://www.raceenginetechnology.com/Suppliers/williams-advanced-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "WILLIAMS ADVANCED ENGINEERING (WAE) APPOINTED ... — WILLIAMS ADVANCED ENGINEERING (WAE) APPOINTED ... Reddit https://www.reddit.com > wec > ivaeir",
+    "url": "https://www.reddit.com/r/wec/comments/ivaeir/williams_advanced_engineering_wae_appointed_as/",
+    "pass": 3
+   },
+   {
+    "quote": "Williams Advanced Engineering Renamed WAE Technologies — Williams Advanced Engineering Renamed WAE Technologies Engineering.com https://www.engineering.com > willia...",
+    "url": "https://www.engineering.com/williams-advanced-engineering-renamed-wae-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "Williams Advanced Engineering Receives Fresh Rebranding ... — Williams Advanced Engineering Receives Fresh Rebranding ... autoevolution https://www.autoevolution.com > news",
+    "url": "https://www.autoevolution.com/news/williams-advanced-engineering-receives-fresh-rebranding-becomes-wae-technologies-207646.html",
+    "pass": 3
+   },
+   {
+    "quote": "Williams Advanced Engineering and Molicell team up for high ... — Williams Advanced Engineering and Molicell team up for high ... E-Mobility Engineering https://www.emobility-engineering.com > ...",
+    "url": "https://www.emobility-engineering.com/williams-advanced-engineering-molicell-high-power-battery-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "Extreme electrification as Williams Advanced Engineering ... — Extreme electrification as Williams Advanced Engineering ... Institution of Mechanical Engineers - IMechE https://www.imeche.org > news-article",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "Williams Advanced Engineering boss on why his company is ... — Williams Advanced Engineering boss on why his company is ... Autocar https://www.autocar.co.uk > new-cars",
+    "url": "https://www.autocar.co.uk/car-news/new-cars/williams-advanced-engineering-boss-why-his-company-world-leader",
+    "pass": 3
+   },
+   {
+    "quote": "Williams Advanced Engineering Now Belongs To Australia's ... — Williams Advanced Engineering Now Belongs To Australia's ... Jalopnik https://www.jalopnik.com > williams-...",
+    "url": "https://www.jalopnik.com/williams-advanced-engineering-now-belongs-to-australias-1848421823/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "Connect our data to your systems with the PitchBook API and Data feed",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "Feedback",
+    "url": "https://www.michaelpage.co.uk/clientprofile/williams-advanced-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "This saves up to 30% of a supermarket’s energy costs and has the potential to save the equivalent of a month’s worth of the domestic CO2 emissions from a city the size of Manchester annually. Furthermore, all the aluminium used for Aerofoil blades and blanking plates is made from 100% recycled material.",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Pay membership fees",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "planned for production in a couple of years’ time. Aston Martin really needs the DBX if it is to drive annual sales to the 10,000-plus needed to generate serious profits and perhaps fuel a potential public flotation.",
+    "url": "https://www.autocar.co.uk/car-news/new-cars/williams-advanced-engineering-boss-why-his-company-world-leader",
+    "pass": 3
+   },
+   {
+    "quote": "RSS feed",
+    "url": "https://www.autocar.co.uk/car-news/new-cars/williams-advanced-engineering-boss-why-his-company-world-leader",
+    "pass": 3
+   }
+  ],
+  "創業期と参入のしやすさ": [
+   {
+    "quote": "WAE Technologies 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "Follow capital flows across investors, deals, and industry trends",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "Find investment opportunities and active investors faster",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "Investors",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "Comprehensive insights, from emerging startups to global deal activity",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "Insights into deal flow, valuations, and market drivers",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "Startup M&A, VC-backed IPOs, direct secondaries, and more",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "Valuations",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "Valuation trends and news for dealmakers",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "Stay ahead in the evolving world of VC, startups, and technology",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "Rankings of investors, managers, and lenders across asset classes",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "Year Founded",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "Employees",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "Valuation & Funding",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "WAE Technologies Valuation & Funding",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "Valuation/",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "WAE Technologies Former Investors",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "Seed Round",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "When was WAE Technologies founded?",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "WAE Technologies was founded in 2010.",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "WAE Technologies has 948 total employees.",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "What is the current valuation of WAE Technologies?",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "The current valuation of WAE Technologies is",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "Who are WAE Technologies’s investors?",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "Credit Investors",
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "pass": 3
+   },
+   {
+    "quote": "Our Employees",
+    "url": "https://www.michaelpage.co.uk/clientprofile/williams-advanced-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "Investors' Site",
+    "url": "https://www.michaelpage.co.uk/clientprofile/williams-advanced-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "The business was the sole supplier of the battery system for the entire Formula E grid since the racing series began in 2014 to the end of the fourth season in 2018. Initially having to step in at the eleventh hour, WAE designed, built and delivered the battery packs in just 15 months, and achieved more than 99.5% reliability.",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "UK start-up Aerofoil Energy and Williams Advanced Engineering have jointly developed Aerofoil, an aerodynamic new device that attaches onto a supermarket refrigerator shelf, to keep more of the cool air inside the refrigerator cabinet.",
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Williams is a Formula One giant. Its nine constructors’ championships are second only to Ferrari. Yet, despite that huge success, co-founder Sir Patrick Head described it as “an engineering company that just happened to go motor racing”.",
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "pass": 3
+   },
+   {
+    "quote": "The clue’s in the name. The founders of Williams Grand Prix Engineering, famous for their exploits in",
+    "url": "https://www.autocar.co.uk/car-news/new-cars/williams-advanced-engineering-boss-why-his-company-world-leader",
+    "pass": 3
+   },
+   {
+    "quote": "This and the fact that in 2011 Williams became a publicly listed company – which increased its priority to earn money for investors – is probably why the famous Grove estate 12 miles south-west of Oxford is nowadays home to a fast-expanding technology business called Williams Advanced Engineering.",
+    "url": "https://www.autocar.co.uk/car-news/new-cars/williams-advanced-engineering-boss-why-his-company-world-leader",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.fortescue.com/en/zero/williams-advanced-engineering",
+    "status": "http_404",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vJn67M4miDSZrv7VTSRc9Qvu6BktIqw4Dt7arXo8_L75pjSWKgv",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.emkcapital.com/our-portfolio/williams",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/398946-52",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.macrotrends.net/stocks/charts/WMB/williams/number-of-employees",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.michaelpage.co.uk/clientprofile/williams-advanced-engineering",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://manufacturing-today.com/news/williams-advanced-engineering/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.raceenginetechnology.com/Suppliers/williams-advanced-engineering",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.williams-int.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vLMY3TKWJbIjmbFhIFRNgwd6JhDfT5sEkROsTXklPN1ffzPqhVj",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.michaelpage.co.uk/clientprofile/williams-advanced-engineering",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vJi3XDbwUwYg2KvHoR046GmsV-lBaGb96S2VsrgDiQidT1iSPFW",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.williams.com/partnerships/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://manufacturing-today.com/news/williams-advanced-engineering/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autocar.co.uk/car-news/new-cars/williams-advanced-engineering-boss-why-his-company-world-leader",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Williams Advanced Engineering engineering services clients other industries",
+   "results": [
+    "https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vJn67M4miDSZrv7VTSRc9Qvu6BktIqw4Dt7arXo8_L75pjSWKgv",
+    "https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/",
+    "https://www.emkcapital.com/our-portfolio/williams",
+    "https://www.italdesign.it/en/italdesign-partners-with-williams-advanced-engineering-to-create-complete-high-performance-ev-solution/",
+    "https://manufacturing-today.com/news/williams-advanced-engineering/",
+    "https://www.michaelpage.co.uk/clientprofile/williams-advanced-engineering",
+    "https://formulae.fandom.com/wiki/Williams_Advanced_Engineering",
+    "https://www.baesystems.com/en/article/motorsport-inspired-technology-to-aid-future-combat-aircraft-development",
+    "https://pitchbook.com/profiles/company/398946-52",
+    "https://www.engineering.com/williams-advanced-engineering-renamed-wae-technologies/"
+   ]
+  },
+  {
+   "query": "Williams Advanced Engineering revenue turnover employees",
+   "results": [
+    "https://pitchbook.com/profiles/company/398946-52",
+    "https://www.macrotrends.net/stocks/charts/WMB/williams/number-of-employees",
+    "https://www.michaelpage.co.uk/clientprofile/williams-advanced-engineering",
+    "https://www.reveliolabs.com/companies/williams-international/employees",
+    "https://www.afr.com/companies/energy/losses-at-fortescue-s-uk-battery-maker-blow-out-to-151m-20250701-p5mbkw",
+    "https://www.zoominfo.com/c/williams-advanced-engineering-ltd/116015341",
+    "https://www.owler.com/company/williams-int",
+    "https://rocketreach.co/williams-engineering-canada-inc-profile_b5c215def42e0eb3",
+    "https://stockanalysis.com/stocks/wmb/employees/",
+    "https://compworth.com/company/williams-advanced-engineering"
+   ]
+  },
+  {
+   "query": "Williams Advanced Engineering supplies components to OEM",
+   "results": [
+    "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "https://manufacturing-today.com/news/williams-advanced-engineering/",
+    "https://www.raceenginetechnology.com/Suppliers/williams-advanced-engineering",
+    "https://www.automotivemanufacturingsolutions.com/electrification/adaptive-technology-multi-chem-battery/545639",
+    "https://www.reddit.com/r/wec/comments/ivaeir/williams_advanced_engineering_wae_appointed_as/",
+    "https://formulae.fandom.com/wiki/Williams_Advanced_Engineering",
+    "https://www.youtube.com/watch?v=CT8HUVyj1-U",
+    "https://goallclear.com/subsidiaries/williams-aerospace-manufacturing/",
+    "https://www.theengineer.co.uk/content/in-depth/williams-hypercar-builders-toolkit",
+    "https://www.epartrade.com/company/supplier/193daa59-williams-advanced-engineering"
+   ]
+  },
+  {
+   "query": "Williams Advanced Engineering aerospace defence non-automotive",
+   "results": [
+    "https://www.williams-int.com/",
+    "https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vLMY3TKWJbIjmbFhIFRNgwd6JhDfT5sEkROsTXklPN1ffzPqhVj",
+    "https://www.michaelpage.co.uk/clientprofile/williams-advanced-engineering",
+    "https://www.emkcapital.com/our-portfolio/williams",
+    "https://www.engineering.com/williams-advanced-engineering-renamed-wae-technologies/",
+    "https://www.azom.com/suppliers.aspx?SupplierID=14317",
+    "https://www.linkedin.com/company/williams-international",
+    "https://www.baesystems.com/en/article/motorsport-inspired-technology-to-aid-future-combat-aircraft-development",
+    "https://www.williamsgptech.com/sectors/defence",
+    "https://williamsrdm.com/"
+   ]
+  },
+  {
+   "query": "Williams Advanced Engineering licensing technology partnership",
+   "results": [
+    "https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vJi3XDbwUwYg2KvHoR046GmsV-lBaGb96S2VsrgDiQidT1iSPFW",
+    "https://www.molicel.com/newsroom/williams-advanced-engineering-molicel-strategic-collaboration/",
+    "https://www.williams.com/partnerships/",
+    "https://www.autoevolution.com/news/williams-advanced-engineering-receives-fresh-rebranding-becomes-wae-technologies-207646.html",
+    "https://www.emobility-engineering.com/williams-advanced-engineering-molicell-high-power-battery-applications/",
+    "https://www.motorauthority.com/news/1138312_williams-advanced-engineering-rebrands-as-wae",
+    "https://www.italdesign.it/en/italdesign-partners-with-williams-advanced-engineering-to-create-complete-high-performance-ev-solution/",
+    "https://www.michaelpage.co.uk/clientprofile/williams-advanced-engineering",
+    "https://www.powertraininternationalweb.com/news/wae-technologies-new-branding-for-williams-advanced-engineering/",
+    "https://www.baesystems.com/en/article/fast-jet-and-formula-one-technology-sharing-partnership-signed-between-bae-systems-and-williams"
+   ]
+  },
+  {
+   "query": "Williams Advanced Engineering founder early days first customer funding",
+   "results": [
+    "https://www.imeche.org/news/news-article/feature-extreme-electrification-as-williams-advanced-engineering-goes-off-road",
+    "https://manufacturing-today.com/news/williams-advanced-engineering/",
+    "https://www.autocar.co.uk/car-news/new-cars/williams-advanced-engineering-boss-why-his-company-world-leader",
+    "https://www.forbes.com/sites/nargessbanks/2020/05/13/williams-advanced-engineering-ceo-insight/",
+    "https://www.jalopnik.com/williams-advanced-engineering-now-belongs-to-australias-1848421823/",
+    "https://www.williamsf1.com/articles/1af5b419-94d2-400b-89b5-eb4cc52d72d4/williams-grand-prix-technologies?srsltid=AYCX9vJGfJR70ZJx-CNUBIMROA2TiljCq_P34mHMg9VFM1rDys9i3DEj",
+    "https://www.autoevolution.com/news/williams-advanced-engineering-receives-fresh-rebranding-becomes-wae-technologies-207646.html",
+    "https://www.themanufacturer.com/articles/williams-advanced-engineering-driving-disrupting-technology/",
+    "https://chargedevs.com/newswire/how-williams-advanced-engineering-built-the-worlds-most-extreme-battery/",
+    "https://en.wikipedia.org/wiki/Williams_Racing"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索6回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索6回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索6回）"
+ }
+}

@@ -1,0 +1,568 @@
+{
+ "name": "医療用チタン・コバルトクロム",
+ "en": "medical titanium implants",
+ "aliases": [
+  "CoCr alloy",
+  "titanium implant material",
+  "医療用金属"
+ ],
+ "context": "医療",
+ "kind": "market",
+ "researched_at": "2026-11-02T17:35:00.024793+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "医療用3Dプリンティング用金属粉末の世界市場（2026年～2032年）、市場規模（チタン金属粉末、ニッケル金属粉末、アルミニウム金属粉末、鉄系金属粉末、その他）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/3090835",
+    "pass": 3
+   },
+   {
+    "quote": "医療用3Dプリンティング用金属粉末の世界市場（2026年～2032年）、市場規模（チタン金属粉末、ニッケル金属粉末、アルミニウム金属粉末、鉄系金属粉末、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3090835",
+    "pass": 3
+   },
+   {
+    "quote": "本資料には、医療用3Dプリンティング用金属粉末の世界市場規模、市場動向、セグメント別予測（チタン金属粉末、ニッケル金属粉末、アルミニウム金属粉末、鉄系金属粉末、その他）、関連企業の情報などが盛り込まれています",
+    "url": "https://www.atpress.ne.jp/news/3090835",
+    "pass": 3
+   },
+   {
+    "quote": "世界の医療用3Dプリンティング用金属粉末市場規模は、2025年の5,042万米ドルから2032年には3億4,400万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）32.2％で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/3090835",
+    "pass": 3
+   },
+   {
+    "quote": "米国の医療用3Dプリンティング用金属粉末市場は、2025年のXX百万米ドルから2032年までにXX百万米ドルへと拡大し、2026年から2032年までの年間平均成長率（CAGR）はXX％になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/3090835",
+    "pass": 3
+   },
+   {
+    "quote": "中国の医療用3Dプリンティング用金属粉末市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年までのCAGRはXX％になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/3090835",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の医療用3Dプリンティング用金属粉末市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年までのCAGRはXX％になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/3090835",
+    "pass": 3
+   },
+   {
+    "quote": "本インサイトレポートは、医療用3Dプリンティング用金属粉末の世界的な見通しを形作る主要な市場動向、推進要因、および影響要因を評価し、タイプ別、用途別、地域別、市場規模別に予測を細分化することで、新たな機会の領域を浮き彫りにします",
+    "url": "https://www.atpress.ne.jp/news/3090835",
+    "pass": 3
+   },
+   {
+    "quote": "2021年から2026年までの地域別および国/地域別の市場規模が年間売上高と年間収益の両面から分析されます",
+    "url": "https://www.atpress.ne.jp/news/3090835",
+    "pass": 3
+   },
+   {
+    "quote": "2027年から2032年までの地域別および国/地域別の市場規模予測が、年間売上高と年間収益の両面から提供されます",
+    "url": "https://www.atpress.ne.jp/news/3090835",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3090835",
+    "pass": 3
+   },
+   {
+    "quote": "コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3090835",
+    "pass": 3
+   },
+   {
+    "quote": "セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3090835",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3090835",
+    "pass": 3
+   },
+   {
+    "quote": "食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3090835",
+    "pass": 3
+   },
+   {
+    "quote": "The Global Medical Titanium Implant Market Size Was Estimated at USD 6.9 Billion in 2024",
+    "url": "https://www.sphericalinsights.com/reports/medical-titanium-implant-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Market Size is Expected to Grow at a CAGR of around 6.98% from 2025 to 2035",
+    "url": "https://www.sphericalinsights.com/reports/medical-titanium-implant-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Worldwide Medical Titanium Implant Market Size is Expected to Reach USD 14.5 Billion by 2035",
+    "url": "https://www.sphericalinsights.com/reports/medical-titanium-implant-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global medical titanium implant market size was worth around USD 6.9 billion in 2024 and is predicted to grow to around USD 14.5 billion by 2035 with a compound annual growth rate (CAGR) of 6.98% from 2025 to 2035. The growing prevalence of chronic diseases, an ever-increasing aging population, and the integration of advanced technologies are driving the global medical titanium implant market.",
+    "url": "https://www.sphericalinsights.com/reports/medical-titanium-implant-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size in 2024:",
+    "url": "https://www.sphericalinsights.com/reports/medical-titanium-implant-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 6.9 Billion",
+    "url": "https://www.sphericalinsights.com/reports/medical-titanium-implant-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 14.5 Billion",
+    "url": "https://www.sphericalinsights.com/reports/medical-titanium-implant-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global medical titanium implant market is projected to expand at a CAGR of 6.98% during the forecast period.",
+    "url": "https://www.sphericalinsights.com/reports/medical-titanium-implant-market",
+    "pass": 3
+   },
+   {
+    "quote": "2. What is the market size of the medical titanium implant market?",
+    "url": "https://www.sphericalinsights.com/reports/medical-titanium-implant-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global medical titanium implant market size is expected to grow from USD 6.9 Billion in 2024 to USD 14.5 Billion by 2035, at a CAGR of 6.98% during the forecast period 2025-2035.",
+    "url": "https://www.sphericalinsights.com/reports/medical-titanium-implant-market",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "世界の医療用3Dプリンティング用金属粉末市場規模は、2025年の5,042万米ドルから2032年には3億4,400万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）32.2％で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/3090835",
+    "pass": 3
+   },
+   {
+    "quote": "米国の医療用3Dプリンティング用金属粉末市場は、2025年のXX百万米ドルから2032年までにXX百万米ドルへと拡大し、2026年から2032年までの年間平均成長率（CAGR）はXX％になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/3090835",
+    "pass": 3
+   },
+   {
+    "quote": "中国の医療用3Dプリンティング用金属粉末市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年までのCAGRはXX％になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/3090835",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の医療用3Dプリンティング用金属粉末市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年までのCAGRはXX％になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/3090835",
+    "pass": 3
+   },
+   {
+    "quote": "The Market Size is Expected to Grow at a CAGR of around 6.98% from 2025 to 2035",
+    "url": "https://www.sphericalinsights.com/reports/medical-titanium-implant-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global medical titanium implant market size was worth around USD 6.9 billion in 2024 and is predicted to grow to around USD 14.5 billion by 2035 with a compound annual growth rate (CAGR) of 6.98% from 2025 to 2035. The growing prevalence of chronic diseases, an ever-increasing aging population, and the integration of advanced technologies are driving the global medical titanium implant market.",
+    "url": "https://www.sphericalinsights.com/reports/medical-titanium-implant-market",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast Period CAGR 2025-2035 :",
+    "url": "https://www.sphericalinsights.com/reports/medical-titanium-implant-market",
+    "pass": 3
+   },
+   {
+    "quote": "dominated the market with the largest share in 2024 and is projected to grow at a substantial CAGR during the forecast period",
+    "url": "https://www.sphericalinsights.com/reports/medical-titanium-implant-market",
+    "pass": 3
+   },
+   {
+    "quote": "The bone & joint replacement segment accounted for the largest market share in 2024 and is anticipated to grow at a significant CAGR during the forecast period.",
+    "url": "https://www.sphericalinsights.com/reports/medical-titanium-implant-market",
+    "pass": 3
+   },
+   {
+    "quote": "1. What is the CAGR of the medical titanium implant market over the forecast period?",
+    "url": "https://www.sphericalinsights.com/reports/medical-titanium-implant-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global medical titanium implant market is projected to expand at a CAGR of 6.98% during the forecast period.",
+    "url": "https://www.sphericalinsights.com/reports/medical-titanium-implant-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global medical titanium implant market size is expected to grow from USD 6.9 Billion in 2024 to USD 14.5 Billion by 2035, at a CAGR of 6.98% during the forecast period 2025-2035.",
+    "url": "https://www.sphericalinsights.com/reports/medical-titanium-implant-market",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "また、本レポートでは、医療用3Dプリンティング用金属粉末のポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、世界的な医療用3Dプリンティング用金属粉末市場の加速する動向の中で、主要グローバル企業の独自の立場をより深く理解できるよう、各社の戦略を分析しています",
+    "url": "https://www.atpress.ne.jp/news/3090835",
+    "pass": 3
+   },
+   {
+    "quote": "市場集中度分析として、競争状況、CR3、CR5、CR10の集中度比率（2024年から2026年まで）、新製品情報、潜在的参入企業、そして市場のM&A活動と戦略についても深く掘り下げられています",
+    "url": "https://www.atpress.ne.jp/news/3090835",
+    "pass": 3
+   },
+   {
+    "quote": "第13章には、主要企業の詳細な分析が記載されています",
+    "url": "https://www.atpress.ne.jp/news/3090835",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/reports/medical-titanium-implant-market",
+    "pass": 3
+   },
+   {
+    "quote": "List of Key Companies",
+    "url": "https://www.sphericalinsights.com/reports/medical-titanium-implant-market",
+    "pass": 3
+   }
+  ],
+  "日本企業": [
+   {
+    "quote": "特に、中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾の各市場の医療用3Dプリンティング用金属粉末に焦点を当てた情報が提供されます",
+    "url": "https://www.atpress.ne.jp/news/3090835",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：医療用3Dプリンティング用金属粉末の世界市場2026年～2032年",
+    "url": "https://www.atpress.ne.jp/news/3090835",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific (China, Japan, India, Rest of APAC)",
+    "url": "https://www.sphericalinsights.com/reports/medical-titanium-implant-market",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "売上高ベースでは、2025年に世界の上位2社が市場シェアの約％を占めました",
+    "url": "https://www.atpress.ne.jp/news/3090835",
+    "pass": 3
+   },
+   {
+    "quote": "本インサイトレポートは、世界の医療用3Dプリンティング用金属粉末市場の全体像を包括的に分析し、製品セグメンテーション、企業動向、売上高、市場シェア、最新動向、M&A活動に関連する主要なトレンドを明らかにします",
+    "url": "https://www.atpress.ne.jp/news/3090835",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートでは、製品タイプ、用途、主要メーカー、主要地域および国別に、医療用3Dプリンティング用金属粉末市場の包括的な概要、市場シェア、成長機会を提示しています",
+    "url": "https://www.atpress.ne.jp/news/3090835",
+    "pass": 3
+   },
+   {
+    "quote": "また、チタン、ニッケル、アルミニウム、鉄系、その他の金属粉末といったタイプ別のセグメント分析が示されており、2021年から2026年までのタイプ別の売上高市場シェア、収益と市場シェア、および販売価格の詳細なデータが含まれます",
+    "url": "https://www.atpress.ne.jp/news/3090835",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、整形外科、歯科、その他の用途といったアプリケーション別のセグメント分析も提供され、同様に2021年から2026年までの用途別の売上高市場シェア、収益と市場シェア、および販売価格の詳細が示されています",
+    "url": "https://www.atpress.ne.jp/news/3090835",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2026年までの企業別の年間売上高と市場シェア、年間収益と市場シェア、および販売価格が提供されます",
+    "url": "https://www.atpress.ne.jp/news/3090835",
+    "pass": 3
+   },
+   {
+    "quote": "dominated the market with the largest share in 2024 and is projected to grow at a substantial CAGR during the forecast period",
+    "url": "https://www.sphericalinsights.com/reports/medical-titanium-implant-market",
+    "pass": 3
+   },
+   {
+    "quote": "The bone & joint replacement segment accounted for the largest market share in 2024 and is anticipated to grow at a significant CAGR during the forecast period.",
+    "url": "https://www.sphericalinsights.com/reports/medical-titanium-implant-market",
+    "pass": 3
+   },
+   {
+    "quote": "3. Which region holds the largest share of the medical titanium implant market?",
+    "url": "https://www.sphericalinsights.com/reports/medical-titanium-implant-market",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "32.2",
+    "url": "https://www.atpress.ne.jp/news/3090835",
+    "quote": "世界の医療用3Dプリンティング用金属粉末市場規模は、2025年の5,042万米ドルから2032年には3億4,400万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）32.2％で成長すると見込まれています"
+   },
+   {
+    "value": "6.98",
+    "url": "https://www.sphericalinsights.com/reports/medical-titanium-implant-market",
+    "quote": "The Market Size is Expected to Grow at a CAGR of around 6.98% from 2025 to 2035"
+   }
+  ],
+  "市場規模USD": [
+   {
+    "value": "6.9",
+    "url": "https://www.sphericalinsights.com/reports/medical-titanium-implant-market",
+    "quote": "The Global Medical Titanium Implant Market Size Was Estimated at USD 6.9 Billion in 2024"
+   },
+   {
+    "value": "14.5",
+    "url": "https://www.sphericalinsights.com/reports/medical-titanium-implant-market",
+    "quote": "The Worldwide Medical Titanium Implant Market Size is Expected to Reach USD 14.5 Billion by 2035"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.atpress.ne.jp/news/3090835",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/3590480",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/metal-implants-and-medical-alloys-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wiseguyreports.com/ja/reports/medical-titanium-alloy-rod-market",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.sdki.jp/reports/high-performance-alloys-market/61226",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wiseguyreports.com/ja/reports/titanium-medical-component-market",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.gii.co.jp/report/ires1972677-titanium-alloy-medical-market-by-type.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fcr.co.jp/report/262q05.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-titanium-alloys-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexbox.io/ja/store/japan-cobalt-chromium-alloy-powder-market-analysis-forecast-size-trends-and-insights/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jhmim.com/ja/cobalt-chromium-alloy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamashita-dental-office.jp/denture/titanium.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shikakin.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chalcotitanium.com/ja/industries/medical-titanium",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kawakami-ironworks.com/case/cocr/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/reports/medical-titanium-implant-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/dental-implants-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/medical-implants-market-115811",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/market-insight/dental-implants-market-89",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/osseointegration-implants-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/dental-implants-market-100443",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/medical-implants-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/3d-printing-medical-implants-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.datamintelligence.com/research-report/titanium-and-titanium-alloys-dental-implants-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketreportsworld.com/market-reports/medical-titanium-alloy-market-14718643",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crowleylawllc.com/medical-technology-startup-funding-decline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://medtechinnovator.org/pressreleases/medtech-innovator-unveils-64-breakthrough-medtech-startups-in-its-2025-cohort",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.massdevice.com/largest-medtech-funding-rounds-2025/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-medical-devices-futuristic-ai-gadgets-frontier-labs-mirus/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qualio.com/blog/medical-device-startups",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "医療用チタン・コバルトクロム 市場規模 年平均成長率",
+   "results": [
+    "https://jp.linkedin.com/pulse/%E3%82%B3%E3%83%90%E3%83%AB%E3%83%88%E3%82%AF%E3%83%AD%E3%83%A0%E5%90%88%E9%87%91%E7%AE%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E6%B4%9E%E5%AF%9F84%E3%81%AEcagr%E3%81%A72026%E3%81%8B%E3%82%892033%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E6%8B%A1%E5%A4%A7%E3%81%99%E3%82%8B%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1-truenorth-analyticsz-bcgge",
+    "https://www.atpress.ne.jp/news/3090835",
+    "https://newscast.jp/news/3590480",
+    "https://www.mordorintelligence.com/ja/industry-reports/metal-implants-and-medical-alloys-market",
+    "https://www.wiseguyreports.com/ja/reports/medical-titanium-alloy-rod-market",
+    "https://www.sdki.jp/reports/high-performance-alloys-market/61226",
+    "https://www.marketreportsworld.com/jp/market-reports/medical-titanium-alloy-market-14718643",
+    "https://www.zionmarketresearch.com/ja/report/metal-alloy-market",
+    "https://www.fortunebusinessinsights.com/jp/%E9%AB%98%E6%80%A7%E8%83%BD%E5%90%88%E9%87%91%E5%B8%82%E5%A0%B4-116396",
+    "https://qyresearch.hateblo.jp/entry/2026/06/17/124605"
+   ]
+  },
+  {
+   "query": "医療用チタン・コバルトクロム 市場 予測 富士経済 OR 矢野経済 OR シーエムシー",
+   "results": [
+    "https://newscast.jp/news/3590480",
+    "https://www.atpress.ne.jp/news/3090835",
+    "https://www.wiseguyreports.com/ja/reports/titanium-medical-component-market",
+    "https://jp.linkedin.com/pulse/%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E5%8C%BB%E7%99%82%E7%94%A8%E3%82%B3%E3%83%90%E3%83%AB%E3%83%88-%E3%82%AF%E3%83%AD%E3%83%A0%E5%90%88%E9%87%91%E3%83%81%E3%83%A5%E3%83%BC%E3%83%96%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%A8%E5%B8%82%E5%A0%B4%E5%8B%95%E5%90%91%E5%88%86%E6%9E%90%E5%9C%B0%E5%9F%9F%E5%88%A5%E5%B1%95%E6%9C%9B%E7%AB%B6%E4%BA%89%E6%88%A6%E7%95%A5%E5%88%A52026-wvcqe",
+    "https://www.gii.co.jp/report/ires1972677-titanium-alloy-medical-market-by-type.html",
+    "https://www.fcr.co.jp/report/262q05.htm",
+    "https://www.databridgemarketresearch.com/jp/reports/global-titanium-alloys-market",
+    "https://www.indexbox.io/ja/store/japan-cobalt-chromium-alloy-powder-market-analysis-forecast-size-trends-and-insights/",
+    "https://mono.ipros.com/company/detail/94037/category/23985/"
+   ]
+  },
+  {
+   "query": "医療用チタン・コバルトクロム 参入 企業 国内",
+   "results": [
+    "https://jhmim.com/ja/cobalt-chromium-alloy/",
+    "https://www.yamashita-dental-office.jp/denture/titanium.html",
+    "https://www.shikakin.com/",
+    "https://www.chalcotitanium.com/ja/industries/medical-titanium",
+    "https://kawakami-ironworks.com/case/cocr/",
+    "https://chinametalsupply.com/ja/applications/cobalt-chromium-medical/",
+    "https://endo-mfg.co.jp/business/medical_device/",
+    "https://invamed.com/ja/news/medical-grade-titanium-explained",
+    "https://www.samaterials.jp/blog/titanium-vs-stainless-steel-vs-cobalt-chrome-medical-metals-compared.html",
+    "https://www.takashima.co.jp/product/medical/oem/"
+   ]
+  },
+  {
+   "query": "medical titanium implants market size CAGR 2025",
+   "results": [
+    "https://www.sphericalinsights.com/reports/medical-titanium-implant-market",
+    "https://www.grandviewresearch.com/industry-analysis/dental-implants-market",
+    "https://www.fortunebusinessinsights.com/medical-implants-market-115811",
+    "https://www.coherentmarketinsights.com/market-insight/dental-implants-market-89",
+    "https://market.us/report/osseointegration-implants-market/",
+    "https://www.linkedin.com/pulse/titanium-implant-market-regional-forecast-growth-trends-ydllf",
+    "https://www.marketresearchfuture.com/reports/dental-implants-market-2753",
+    "https://dataintelo.com/report/global-medical-grade-titanium-materials-market",
+    "https://www.mordorintelligence.com/industry-reports/medical-implants-market",
+    "https://dataintelo.com/report/medical-titanium-implant-market"
+   ]
+  },
+  {
+   "query": "medical titanium implants market key players competitive landscape",
+   "results": [
+    "https://www.coherentmarketinsights.com/market-insight/dental-implants-market-89",
+    "https://www.sphericalinsights.com/reports/medical-titanium-implant-market",
+    "https://www.fortunebusinessinsights.com/industry-reports/dental-implants-market-100443",
+    "https://www.mordorintelligence.com/industry-reports/medical-implants-market",
+    "https://www.precedenceresearch.com/3d-printing-medical-implants-market",
+    "https://www.grandviewresearch.com/industry-analysis/dental-implants-market",
+    "https://www.datamintelligence.com/research-report/titanium-and-titanium-alloys-dental-implants-market",
+    "https://www.linkedin.com/pulse/titanium-dental-implants-market-analysis-global-opportunities-uim4f",
+    "https://www.marketreportsworld.com/market-reports/medical-titanium-alloy-market-14718643",
+    "https://www.verifiedmarketreports.com/product/titanium-implant-market/"
+   ]
+  },
+  {
+   "query": "medical titanium implants startup funding 2025",
+   "results": [
+    "https://www.crowleylawllc.com/medical-technology-startup-funding-decline/",
+    "https://www.facebook.com/kudunandpartners/posts/kudun-and-partners-represented-meticuly-co-ltd-with-respect-to-series-b-funding-/392331445882130/",
+    "https://medtechinnovator.org/pressreleases/medtech-innovator-unveils-64-breakthrough-medtech-startups-in-its-2025-cohort",
+    "https://www.massdevice.com/largest-medtech-funding-rounds-2025/",
+    "https://news.crunchbase.com/venture/biggest-funding-rounds-medical-devices-futuristic-ai-gadgets-frontier-labs-mirus/",
+    "https://www.sphericalinsights.com/reports/medical-titanium-implant-market",
+    "https://www.qualio.com/blog/medical-device-startups",
+    "https://www.medicaldesignandoutsourcing.com/medtech-innovator-announces-65-startups-for-its-2025-cohort/",
+    "https://www.ycombinator.com/companies/industry/medical-devices",
+    "https://dealroom.co/lists/medical-implants-startups/"
+   ]
+  }
+ ],
+ "missing": {
+  "投資": "記載なし（読んだ30頁・検索6回）"
+ }
+}

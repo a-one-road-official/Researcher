@@ -1,0 +1,1898 @@
+{
+ "name": "陸上養殖",
+ "en": "land-based aquaculture",
+ "aliases": [
+  "RAS",
+  "閉鎖循環式養殖"
+ ],
+ "context": "16 フードテック ②陸上養殖",
+ "kind": "market",
+ "researched_at": "2026-11-02T17:51:32.957287+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "循環式養殖システム市場規模レポート（2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "循環式養殖システム（RAS）市場は2025年に28.8億米ドルと評価され、2026年には31.1億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の市場規模予測",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "水産養殖技術に関する公開売上高の開示情報と、追跡対象施設の投資記録に基づく当社の評価では、循環式養殖システム市場は2022年から2025年にかけて年率8.3%で拡大した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "バイオろ過システムの2025年の市場規模は6億900万米ドルで、2026〜2035年に年平均成長率（CAGR）8.2%で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "閉鎖循環式養殖システム（RAS）市場規模：コンポーネント別、2025年・2035年（百万米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "水循環システムの2025年の市場規模は8億2,900万米ドルで、2035年までに15億7,000万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "消毒システムの市場規模は、2025年の2億7,600万米ドルから2035年には5億8,400万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "加熱・冷却システムの市場規模は2025年に3億3,200万米ドルとなり、2035年には7億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "その他の市場規模は2025年に1億1,500万米ドルとなり、2035年には2億4,300万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "魚類の市場規模は2025年に20億7,000万米ドルとなり、2035年には39億5,000万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024 Market Size",
+    "url": "https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125",
+    "pass": 3
+   },
+   {
+    "quote": "$ 5,829 Million",
+    "url": "https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125",
+    "pass": 3
+   },
+   {
+    "quote": "2035 Market Size",
+    "url": "https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125",
+    "pass": 3
+   },
+   {
+    "quote": "$ 9,671.3 Million",
+    "url": "https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125",
+    "pass": 3
+   },
+   {
+    "quote": "207.9億ドル",
+    "url": "https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125",
+    "pass": 3
+   },
+   {
+    "quote": "360.5億ドル",
+    "url": "https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、市場は今後5年間で約10%の年平均成長率で成長すると予測されており、これらの技術革新がその推進力となっています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125",
+    "pass": 3
+   },
+   {
+    "quote": "6.ゲノム編集育種 トウモロコシ、大豆、その他 ゲノム編集技術のうち、農作物育種に関する市場規模",
+    "url": "https://www.maff.go.jp/j/shokusan/sosyutu/attach/pdf/itaku-24.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "養殖市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "環境別（海水、淡水、汽水）、魚種別（コイ、軟体動物、甲殻類、サバ、タイ、その他）、種類別（魚類、甲殻類、水生植物）、エンドユーザー別（水産物産業、医薬品、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）の養殖市場規模、シェア、トレンド分析レポート、2026年～2034年予測",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の養殖市場規模は、2025年には3,196億9,000万米ドルと評価され、2026年の3,368億6,000万米ドルから2034年には5,119億米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は5.37%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年予測市場規模",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国農務省（USDA）の研究では、システム水の90%以上を再利用できる循環システムが実証されており、従来の水集約型養殖が現実的でない地域でも生産を支えています",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の養殖市場は、2025年には地域別シェア62.5%を占め、海産物の旺盛な消費、広範な養殖生産、確立された養殖ネットワークによって、この地域の主導的地位を維持しています",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の養殖市場は、2030年の生産目標として、ブリ24万トン、マダイ11万トン、サケ・マス3万～4万トンを掲げており、中国の養殖市場は、2030年までに淡水・海水養殖の高度化とAIを活用した生産拡大を目指しています",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "韓国の養殖市場は、高付加価値養殖と、より気候変動に強い沖合地域への養殖場の移転に焦点を当てた2030年計画によって支えられている一方、インドの養殖市場は、2021年から2030年までの国家漁業政策と、海洋養殖および持続可能な養殖インフラを支援する取り組みの恩恵を受けている",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の養殖市場は、予測期間中に年平均成長率（CAGR）4.85%で成長すると予想されており、持続可能な水産物生産と養殖技術の進歩が地域市場を形成する中で、最も急速に成長する地域市場となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国養殖市場は、NOAAが2025年までに13の養殖有望地域にわたって21,000エーカー以上を特定したことで支えられており、さらなる養殖開発の余地が生まれています",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "カナダの養殖市場は、2030年までの持続可能な養殖管理に関する連邦政府の目標と、革新的な生産技術への継続的な投資によって恩恵を受けており、これらは長期的なセクターの発展を支えている",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の養殖市場は、確立された水産物市場と持続可能な養殖方法の継続的な採用が養殖生産の発展を支えていることから、2025年には地域シェアの13.7%を占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度の次世代型養殖技術の国内市場規模（5分野計）は682億8,800万円",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3897",
+    "pass": 3
+   },
+   {
+    "quote": "次世代型養殖技術の市場規模（5分野計）推移・予測",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3897",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度の次世代型養殖技術の国内市場規模（5分野計）は、メーカー出荷金額ベースで682億8,800万円と推計した",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3897",
+    "pass": 3
+   },
+   {
+    "quote": "2029年度の次世代型養殖技術の国内市場規模（5分野計）は、メーカー出荷金額ベースで777億6,300万円まで拡大すると予測する",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3897",
+    "pass": 3
+   },
+   {
+    "quote": "陸上養殖システムは、現在大規模な陸上養殖施設が建設されつつあり、2026年度にかけて市場は拡大していく",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3897",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、2027年以降は大規模陸上養殖施設の建設は落ち着くことから、2029年度は2024年度とほぼ同程度の市場規模を予測する",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3897",
+    "pass": 3
+   },
+   {
+    "quote": "本調査における次世代型養殖技術の市場規模とは、①スマート水産（自動給餌機システム・飼育管理システム）、②陸上養殖システム（半閉鎖・閉鎖循環式）、③アクアポニックス、④低魚粉飼料、⑤昆虫飼料の5分野の次世代型養殖技術を対象とし、メーカー出荷金額ベースで算出している",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3897",
+    "pass": 3
+   },
+   {
+    "quote": "陸上養殖市場の市場規模、成長、シェア、トップメーカー - PDF調査レポートと予測分析 ( 2025 - 2035 )",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/land-based-aquaculture-market/239",
+    "pass": 3
+   },
+   {
+    "quote": "陸上養殖市場調査レポート-最新動向、成長機会、市場規模およびシェア世界予測分析-2025年～2035年",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/land-based-aquaculture-market/239",
+    "pass": 3
+   },
+   {
+    "quote": "世界の陸上養殖市場に関する 調査報告書によると、市場は2025年から2035年の間に15.8%のCAGRを予測し、さらに2035年末までに184億米ド ルの市場規模を生み出すと予測されています",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/land-based-aquaculture-market/239",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の市場規模は53億米ドル",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/land-based-aquaculture-market/239",
+    "pass": 3
+   },
+   {
+    "quote": "4.2. 市場規模と予測",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/land-based-aquaculture-market/239",
+    "pass": 3
+   },
+   {
+    "quote": "7.1.1.1. 市場規模と予測",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/land-based-aquaculture-market/239",
+    "pass": 3
+   },
+   {
+    "quote": "ＲＡＳ生産３０年に２．７万トン１７００億円",
+    "url": "https://marinemanager.njc.co.jp/magazine/minato-20251001/",
+    "pass": 3
+   },
+   {
+    "quote": "調査会社の富士経済（東京都中央区）によると、循環式水槽で陸上養殖した水産物の国内販売は２４年の実績で数量４７３０トン・金額２９３億円",
+    "url": "https://marinemanager.njc.co.jp/magazine/minato-20251001/",
+    "pass": 3
+   },
+   {
+    "quote": "２５年は２４年比５割増の７３００トン・４５５億円、３０年に２万６５００トン・１７００億円と年率３４％の拡大を予測する",
+    "url": "https://marinemanager.njc.co.jp/magazine/minato-20251001/",
+    "pass": 3
+   },
+   {
+    "quote": "第１フェーズの総事業費は約２２０億円で、セミドレスに加工し年産５３００トンを計画する",
+    "url": "https://marinemanager.njc.co.jp/magazine/minato-20251001/",
+    "pass": 3
+   },
+   {
+    "quote": "母体企業は７２７億円を調達した",
+    "url": "https://marinemanager.njc.co.jp/magazine/minato-20251001/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金は最大１１０億円",
+    "url": "https://marinemanager.njc.co.jp/magazine/minato-20251001/",
+    "pass": 3
+   },
+   {
+    "quote": "２３年７月に三井物産などから総額２１０億円を調達した",
+    "url": "https://marinemanager.njc.co.jp/magazine/minato-20251001/",
+    "pass": 3
+   },
+   {
+    "quote": "３０年までに累計売り上げで数百億円規模を目指す",
+    "url": "https://marinemanager.njc.co.jp/magazine/minato-20251001/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年は、植物工場の増設や新規参入が限定的であったことに加え、自然災害や火災事故等により植物工場の稼働停止が散見されたことから前年に続き供給量が減少しましたが、販売事業者による価格改定などが進み単価が上昇したことで市場は拡大しました",
+    "url": "https://www.fkg-report.jp/market-trends/2026/2429.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年と2023年市場は、イニシャルをはじめあらゆるコストの高騰、特に、ランニングコストの三分の一を占めるといわれる電気料金が上昇したことで、新規参入を検討していた企業が計画を見直すなど、大型の新規案件も数えるほどとなりプラント型が大きく縮小しましたが、2024年は、大型案件の受注もありわずかながら拡大となりました",
+    "url": "https://www.fkg-report.jp/market-trends/2026/2429.html",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、年間を通じて安定的な生産が可能な植物工場に対する期待は確実に高まっており、2026年以降市場は拡大に転じると予想されます",
+    "url": "https://www.fkg-report.jp/market-trends/2026/2429.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の市場は、大規模案件がやや落ち着いたため前年比縮小となりましたが、公的機関での研究向けや商業化を目指した実証向けの中小規模案件が増加しています",
+    "url": "https://www.fkg-report.jp/market-trends/2026/2429.html",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "2026〜2035年の年平均成長率（CAGR）は7.7%と見込まれ、2035年までに60.8億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR）（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "水産養殖技術に関する公開売上高の開示情報と、追跡対象施設の投資記録に基づく当社の評価では、循環式養殖システム市場は2022年から2025年にかけて年率8.3%で拡大した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "買い手や各国の食料プログラムが海面漁業から調達先を多様化するなか、2030年までRAS設備の調達が持続的に拡大",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界的な1人当たり水産物需要の増加により、養殖システムの生産負担が拡大",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "バイオろ過システムの2025年の市場規模は6億900万米ドルで、2026〜2035年に年平均成長率（CAGR）8.2%で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "酸素供給・曝気システムは、2035年までに9億3,400万米ドルに達し、2026〜2035年に年平均成長率（CAGR）8.4%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "監視・制御システムは、2035年までに7億300万米ドルに達し、2026〜2035年に年平均成長率（CAGR）8.7%で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025 - 2035)",
+    "url": "https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125",
+    "pass": 3
+   },
+   {
+    "quote": "陸上養殖システム業界は、2025年に218.5億米ドルから2035年には360.5億米ドルに成長すると予測されており、2025年から2035年の予測期間中に年平均成長率（CAGR）は5.13を示します",
+    "url": "https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、市場は今後5年間で約10%の年平均成長率で成長すると予測されており、これらの技術革新がその推進力となっています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125",
+    "pass": 3
+   },
+   {
+    "quote": "陸上養殖システム市場は、2024年から2035年までの間に5.13%のCAGRで成長すると予測されており、これは技術革新、持続可能性の取り組み、そして海産物需要の増加によって推進されます",
+    "url": "https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125",
+    "pass": 3
+   },
+   {
+    "quote": "2025年から2035年の予測期間中の陸上養殖システム市場の期待CAGRはどのくらいですか？",
+    "url": "https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125",
+    "pass": 3
+   },
+   {
+    "quote": "2025年から2035年の予測期間中の陸上養殖システム市場の期待CAGRは5.13%です",
+    "url": "https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125",
+    "pass": 3
+   },
+   {
+    "quote": "ハードウェア・ソフトウェア・サービス市場 CAGR 9.5％",
+    "url": "https://www.maff.go.jp/j/shokusan/sosyutu/attach/pdf/itaku-24.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "設備・技術・機器市場 CAGR 7.92％ 生産物市場（葉菜類等） CAGR 7.92％",
+    "url": "https://www.maff.go.jp/j/shokusan/sosyutu/attach/pdf/itaku-24.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "水産用サステナブル飼料 CAGR 8.7％ 畜産用サステナブル飼料 CAGR 22.1％",
+    "url": "https://www.maff.go.jp/j/shokusan/sosyutu/attach/pdf/itaku-24.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "システム市場 CAGR 8.3％ 水産物市場 CAGR 11.4％",
+    "url": "https://www.maff.go.jp/j/shokusan/sosyutu/attach/pdf/itaku-24.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "代替タンパク CAGR 14.3％",
+    "url": "https://www.maff.go.jp/j/shokusan/sosyutu/attach/pdf/itaku-24.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "精密発酵 CAGR 44.05％",
+    "url": "https://www.maff.go.jp/j/shokusan/sosyutu/attach/pdf/itaku-24.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "完全栄養食 CAGR 6.5％",
+    "url": "https://www.maff.go.jp/j/shokusan/sosyutu/attach/pdf/itaku-24.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ゲノム編集技術市場 CAGR 11.8％",
+    "url": "https://www.maff.go.jp/j/shokusan/sosyutu/attach/pdf/itaku-24.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "スマートパッケージング市場 CAGR 5.54％ コールドチェーン高度管理市場 CAGR 23.0％",
+    "url": "https://www.maff.go.jp/j/shokusan/sosyutu/attach/pdf/itaku-24.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造ロボ市場 CAGR 20.7％ 調理ロボ市場 CAGR 13.1％",
+    "url": "https://www.maff.go.jp/j/shokusan/sosyutu/attach/pdf/itaku-24.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "スマートキッチン市場 CAGR 19,7％",
+    "url": "https://www.maff.go.jp/j/shokusan/sosyutu/attach/pdf/itaku-24.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "養殖市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の養殖市場規模は、2025年には3,196億9,000万米ドルと評価され、2026年の3,368億6,000万米ドルから2034年には5,119億米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は5.37%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場CAGR（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "LAMEAの年平均成長率（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "汽水域は、エビ、カニ、その他混合塩分環境で生育する生物種に適していること、および沿岸養殖活動の拡大を背景に、2026年から2034年の予測期間中に年平均成長率（CAGR）6.35%で成長すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "甲殻類セグメントは、エビ、クルマエビ、カニなどの高付加価値シーフードに対する旺盛な需要に加え、養殖生産と消費の拡大を背景に、2026年から2034年の予測期間中に年平均成長率（CAGR）6.45%で成長すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "甲殻類セグメントは、エビ、クルマエビ、カニなどの高付加価値シーフードに対する旺盛な需要に加え、養殖生産と消費の拡大に牽引され、2026年から2034年の予測期間中に年平均成長率（CAGR）6.35%で成長すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品分野は、海洋由来化合物や水生生物資源の医薬品研究、医薬品開発、治療用途への利用拡大を背景に、2026年から2034年の予測期間において年平均成長率（CAGR）6.45%で成長すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "2029年度の次世代型養殖技術の国内市場規模（5分野計）は、メーカー出荷金額ベースで777億6,300万円まで拡大すると予測する",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3897",
+    "pass": 3
+   },
+   {
+    "quote": "陸上養殖システムは、現在大規模な陸上養殖施設が建設されつつあり、2026年度にかけて市場は拡大していく",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3897",
+    "pass": 3
+   },
+   {
+    "quote": "世界の陸上養殖市場に関する 調査報告書によると、市場は2025年から2035年の間に15.8%のCAGRを予測し、さらに2035年末までに184億米ド ルの市場規模を生み出すと予測されています",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/land-based-aquaculture-market/239",
+    "pass": 3
+   },
+   {
+    "quote": "2025年から2035年にかけて最も高いCAGRで成長",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/land-based-aquaculture-market/239",
+    "pass": 3
+   },
+   {
+    "quote": "水産庁は拡大する陸上養殖の実態把握を目的に、内水面漁業の振興に関する法律施行令を改正し２０２３年４月から陸上養殖の届け出制を施行した",
+    "url": "https://marinemanager.njc.co.jp/magazine/minato-20251001/",
+    "pass": 3
+   },
+   {
+    "quote": "２５年は２４年比５割増の７３００トン・４５５億円、３０年に２万６５００トン・１７００億円と年率３４％の拡大を予測する",
+    "url": "https://marinemanager.njc.co.jp/magazine/minato-20251001/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年は、植物工場の増設や新規参入が限定的であったことに加え、自然災害や火災事故等により植物工場の稼働停止が散見されたことから前年に続き供給量が減少しましたが、販売事業者による価格改定などが進み単価が上昇したことで市場は拡大しました",
+    "url": "https://www.fkg-report.jp/market-trends/2026/2429.html",
+    "pass": 3
+   },
+   {
+    "quote": "人工光型植物工場の引き合いが回復に向っており、2026年以降は植物工場の新設・増設が進むことから、2030年に向けて供給量・市場とも拡大すると予想されます",
+    "url": "https://www.fkg-report.jp/market-trends/2026/2429.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年と2023年市場は、イニシャルをはじめあらゆるコストの高騰、特に、ランニングコストの三分の一を占めるといわれる電気料金が上昇したことで、新規参入を検討していた企業が計画を見直すなど、大型の新規案件も数えるほどとなりプラント型が大きく縮小しましたが、2024年は、大型案件の受注もありわずかながら拡大となりました",
+    "url": "https://www.fkg-report.jp/market-trends/2026/2429.html",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、年間を通じて安定的な生産が可能な植物工場に対する期待は確実に高まっており、2026年以降市場は拡大に転じると予想されます",
+    "url": "https://www.fkg-report.jp/market-trends/2026/2429.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の市場は、大規模案件がやや落ち着いたため前年比縮小となりましたが、公的機関での研究向けや商業化を目指した実証向けの中小規模案件が増加しています",
+    "url": "https://www.fkg-report.jp/market-trends/2026/2429.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年以降は、大手企業の投資・実証が継続していること、中小規模案件が引き続き旺盛であること、システムを構成する設備機器の価格が上昇していることから、2030年頃まで拡大が続くとみられます",
+    "url": "https://www.fkg-report.jp/market-trends/2026/2429.html",
+    "pass": 3
+   },
+   {
+    "quote": "・世界的に養殖業生産が拡大している中、日本の漁業および養殖業の生産量は1984年をピークに減少している",
+    "url": "https://www.mof.go.jp/public_relations/finance/202610/202610j.html",
+    "pass": 3
+   },
+   {
+    "quote": "（図表7）日本近海における海域平均海面水温（年平均）の上昇率",
+    "url": "https://www.mof.go.jp/public_relations/finance/202610/202610j.html",
+    "pass": 3
+   },
+   {
+    "quote": "陸上養殖システム（生産物込）の世界市場は、2025年の0.35兆円から2040年に31兆円へ拡大すると予測されています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/rikujou-youshoku.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026–2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2033): 4.4%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 4.4% from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD million/billion and CAGR from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global aquaculture market is expected to grow at a CAGR of 4.4% from 2026 to 2033 to reach USD 447.1 billion by 2033.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025 - 2035)",
+    "url": "https://www.marketresearchfuture.com/reports/land-based-aquaculture-system-market-40125",
+    "pass": 3
+   },
+   {
+    "quote": "As per Market Research Future analysis, the Land Based Aquaculture System Market Species was valued at USD 5,829.0 million in 2024. The Land Based Aquaculture Industry is projected to grow from USD 6,137.94 million in 2025 to USD 9,671.3 million by 2035, exhibiting a compound annual growth rate (CAGR) of 5.3% during the forecast period (2025 - 2035).",
+    "url": "https://www.marketresearchfuture.com/reports/land-based-aquaculture-system-market-40125",
+    "pass": 3
+   },
+   {
+    "quote": "The Land Based Aquaculture System Market is projected to grow at a 5.3% CAGR from 2025 to 2035, driven by increasing demand for high-performance computing and enhanced security features.",
+    "url": "https://www.marketresearchfuture.com/reports/land-based-aquaculture-system-market-40125",
+    "pass": 3
+   },
+   {
+    "quote": "Aquaculture Market Size, Share | CAGR of 5.4%",
+    "url": "https://market.us/report/aquaculture-market/",
+    "pass": 3
+   },
+   {
+    "quote": "a CAGR of 5.4%",
+    "url": "https://market.us/report/aquaculture-market/",
+    "pass": 3
+   },
+   {
+    "quote": "a CAGR of 5.4%.",
+    "url": "https://market.us/report/aquaculture-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025-2034)",
+    "url": "https://market.us/report/aquaculture-market/",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "循環式養殖システム市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場の上位5社は、",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "閉鎖循環式陸上養殖システム（RAS）の魚種別市場シェア、2025年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "地域別循環式養殖システム（RAS）市場シェア、2025年・2035年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "カナダの2025年の世界市場シェアは6.9%であり、2026〜2035年の年平均成長率（CAGR）は7.4%と予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "イタリアは2025年に世界市場の3.4%を占め、市場規模は2035年に1億9,000万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "スペインは2035年までに世界市場の2.9%を占め、2026〜2035年の年平均成長率（CAGR）は6.8%と予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "韓国は2025年に世界市場の4.0%を占め、2026〜2035年の年平均成長率（CAGR）は7.4%と予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "その他のアジア太平洋地域は2025年に世界市場の3.5%のシェアを占め、2026〜2035年の年平均成長率（CAGR）は9.8%と予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "中南米は2035年までに世界市場の7.2%を占めると予測され、2026〜2035年の年平均成長率（CAGR）は9.3%と見込まれる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "アルゼンチンは2025年に世界市場の0.8%のシェアを占め、市場規模は2035年までに5,300万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "陸上養殖システム市場の規模、シェアおよび予測レポート2035",
+    "url": "https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125",
+    "pass": 3
+   },
+   {
+    "quote": "この地域は、世界市場シェアの約40%を占めており、最大の市場となっています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125",
+    "pass": 3
+   },
+   {
+    "quote": "この地域は、世界市場シェアの約30%を占めており、第二の市場となっています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125",
+    "pass": 3
+   },
+   {
+    "quote": "この地域は、世界市場シェアの約20%を占めており、中国や日本が先頭を切っています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125",
+    "pass": 3
+   },
+   {
+    "quote": "この地域は現在、世界市場シェアの約10%を占めており、重要な成長の可能性を秘めています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125",
+    "pass": 3
+   },
+   {
+    "quote": "場規模は10.5億米ドルであり、アジア太平洋地域全体の20億米ドルに対して約52.5％を占める",
+    "url": "https://www.maff.go.jp/j/shokusan/sosyutu/attach/pdf/itaku-24.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（出所）プロテイン代替品の市場規模、シェア、業界分析 2026～2035年（2026, Fortune",
+    "url": "https://www.maff.go.jp/j/shokusan/sosyutu/attach/pdf/itaku-24.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（出所）日本のアップサイクル食品市場（2024-2031）：規模、シェア、業界、予測、見通し",
+    "url": "https://www.maff.go.jp/j/shokusan/sosyutu/attach/pdf/itaku-24.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "養殖市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "環境別（海水、淡水、汽水）、魚種別（コイ、軟体動物、甲殻類、サバ、タイ、その他）、種類別（魚類、甲殻類、水生植物）、エンドユーザー別（水産物産業、医薬品、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）の養殖市場規模、シェア、トレンド分析レポート、2026年～2034年予測",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、2025年に市場シェア62.5%を占め、養殖市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域市場シェア（2025年）",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場シェア",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "海洋水域セグメントは、魚類、貝類、軟体動物などの海洋生物の広範な養殖に加え、適切な沿岸資源の利用可能性と確立された海洋養殖技術により、2025年には45.2%のシェアを占める見込みである",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "コイ類は、広く養殖されていること、多様な淡水養殖条件への適応性、比較的低い生産コスト、そして主食としての消費者の高い受容度により、2025年には31.8%のシェアを占める見込みである",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "魚介類分野は、主要なタンパク源としての魚の広範な消費、確立された養殖方法、多様な魚種の入手可能性、国内および商業シーフード市場における強い需要に支えられ、2025年には56.4%のシェアを占める見込みである",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "水産物産業は、魚介類やその他の水産物に対する消費者の強い需要、水産物の広範な消費、確立された流通ネットワーク、そして小売、外食、加工といった様々な用途における養殖製品の広範な利用により、2025年には86.7%のシェアを占めるようになった",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の養殖市場は、2025年には地域別シェア62.5%を占め、海産物の旺盛な消費、広範な養殖生産、確立された養殖ネットワークによって、この地域の主導的地位を維持しています",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の養殖市場は、確立された水産物市場と持続可能な養殖方法の継続的な採用が養殖生産の発展を支えていることから、2025年には地域シェアの13.7%を占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "英国の養殖市場は、2040年までに養殖生産がイングランドの水産物消費量の少なくとも15%を占めるという英国養殖戦略の目標によって支えられています",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "Cermaq Group AS、Cooke Aquaculture Inc.、Leroy Seafood Group、Mowi ASA（旧Marine Harvest ASA）、P/F Bakkafrostは、養殖市場における主要企業であり、これらの企業を合わせると、養殖市場全体の約20～25%のシェアを占めると推定されている",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年において、養殖市場で最大のシェアを占める地域はどこだったでしょうか？",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は2025年に62.5%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "陸上養殖市場の市場規模、成長、シェア、トップメーカー - PDF調査レポートと予測分析 ( 2025 - 2035 )",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/land-based-aquaculture-market/239",
+    "pass": 3
+   },
+   {
+    "quote": "陸上養殖市場調査レポート-最新動向、成長機会、市場規模およびシェア世界予測分析-2025年～2035年",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/land-based-aquaculture-market/239",
+    "pass": 3
+   },
+   {
+    "quote": "2035年に地域別市場シェアで最大を記録",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/land-based-aquaculture-market/239",
+    "pass": 3
+   },
+   {
+    "quote": "8.1. 市場シェア分析",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/land-based-aquaculture-market/239",
+    "pass": 3
+   },
+   {
+    "quote": "種類別の上位３種はクビレズタ（ウミブドウ）１４６件、ヒラメ１３２件、トラフグ９９件と続く",
+    "url": "https://marinemanager.njc.co.jp/magazine/minato-20251001/",
+    "pass": 3
+   },
+   {
+    "quote": "なお、本記事以外にも、より詳細な市場構造、市場シェア、参入企業動向などをお知りになりたい方は、「アグリ＆水産養殖ビジネスの現状と将来展望 2025」をご購入の上、ご覧いただければ幸いです",
+    "url": "https://www.fkg-report.jp/market-trends/2026/2429.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年と2023年市場は、イニシャルをはじめあらゆるコストの高騰、特に、ランニングコストの三分の一を占めるといわれる電気料金が上昇したことで、新規参入を検討していた企業が計画を見直すなど、大型の新規案件も数えるほどとなりプラント型が大きく縮小しましたが、2024年は、大型案件の受注もありわずかながら拡大となりました",
+    "url": "https://www.fkg-report.jp/market-trends/2026/2429.html",
+    "pass": 3
+   },
+   {
+    "quote": "水産庁によると、世界の漁業と養殖業を合わせた生産量における養殖業比率は1960～1970年の4～5％程度から上昇を続け、2013年には51％を占め、初めて漁業を上回った",
+    "url": "https://www.mof.go.jp/public_relations/finance/202610/202610j.html",
+    "pass": 3
+   },
+   {
+    "quote": "中国は7,828万tで世界全体の約6割を占めており、世界の養殖生産をけん引している",
+    "url": "https://www.mof.go.jp/public_relations/finance/202610/202610j.html",
+    "pass": 3
+   },
+   {
+    "quote": "陸上養殖とは｜モジュール化した養殖システムで2040年に世界市場シェア3割へ",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/rikujou-youshoku.html",
+    "pass": 3
+   },
+   {
+    "quote": "官民投資ロードマップは、日本の水処理技術や種苗・飼料の技術を組み合わせた「モジュール化した陸上養殖システム」を国内外に広げ、2040年にかけて世界市場のシェア3割を目指すとしています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/rikujou-youshoku.html",
+    "pass": 3
+   },
+   {
+    "quote": "2040年に世界市場シェア3割",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/rikujou-youshoku.html",
+    "pass": 3
+   },
+   {
+    "quote": "目標は、日本ならではの多様な魚種での陸上養殖を国内展開し、モジュール化したシステムを海外にも広げ、2040年にかけて世界市場のシェア3割を目指すことです",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/rikujou-youshoku.html",
+    "pass": 3
+   },
+   {
+    "quote": "目標 ― 陸上養殖で2040年に世界市場シェア3割",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/rikujou-youshoku.html",
+    "pass": 3
+   },
+   {
+    "quote": "海洋環境の変化に左右されずに水産物を安定供給できる陸上養殖システムを、日本の水処理技術や種苗・飼料の内製化を生かして順次確立し、国内展開で食料安全保障に貢献したうえで、海外にも展開して2040年にかけて世界市場のシェア3割を目指す計画です",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/rikujou-youshoku.html",
+    "pass": 3
+   },
+   {
+    "quote": "2040年にかけて世界市場のシェア３割を目指す",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/rikujou-youshoku.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界市場のシェア3割",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/rikujou-youshoku.html",
+    "pass": 3
+   },
+   {
+    "quote": "国内展開で食料安全保障に貢献し、海外展開で水産物市場の獲得と種苗・飼料・技術の販売・ライセンスを進め、2040年にかけて世界市場シェア3割を目指します",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/rikujou-youshoku.html",
+    "pass": 3
+   },
+   {
+    "quote": "・過去25年にわたり下がり続けてきた水産物のたんぱく質供給シェアの回復による水産業の復権",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/rikujou-youshoku.html",
+    "pass": 3
+   },
+   {
+    "quote": "2030年にかけて日本ならではの多様な魚種での用途に応じた陸上養殖を国内展開し、海外市場に対してもモジュール化したシステムを展開して新たな水産物市場を創出し、2040年にかけて世界市場のシェア3割を目指します",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/rikujou-youshoku.html",
+    "pass": 3
+   },
+   {
+    "quote": "こうした国内展開を進めつつ、海外市場に対しモジュール化したシステムを展開することで日本ならではの魚種での海外での新たな水産物市場を創出し、2040年にかけて世界市場のシェア３割を目指す",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/rikujou-youshoku.html",
+    "pass": 3
+   },
+   {
+    "quote": "海外市場にモジュール化したシステムを展開し、2040年にかけて世界市場（水産物＋陸上養殖システム）のシェア3割を目指します",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/rikujou-youshoku.html",
+    "pass": 3
+   },
+   {
+    "quote": "By fish type: Salmons, trouts, and smelt segment held the largest market share of 53.2% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "By environment: Marine water segment held the largest market share of 67.6% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "By country: China held the largest market share in 2025",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "The salmons, trouts, and smelt segment accounted for the largest share of the aquaculture market, representing 53.2% of total revenue in 2025. Strong consumer demand for premium seafood, high commercial value, established farming practices, and extensive global trade supported the segment's leading market position.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aquaculture-market",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "循環式養殖システム市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "循環式養殖システム市場の主要企業には、AKVA Group ASA、Pentair plc、Veolia Water Technologies、AquaMaof Aquaculture Technologies、Billund Aquaculture Servicesなどがある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカ合衆国とカナダは、この分野での主要国であり、Sustainable AquaticsやFisheries and Oceans Canadaなどの主要企業がイノベーションを推進しています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業と競争の洞察",
+    "url": "https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業のプロファイル",
+    "url": "https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125",
+    "pass": 3
+   },
+   {
+    "quote": "陸上養殖システム市場の主要企業はどこですか？",
+    "url": "https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125",
+    "pass": 3
+   },
+   {
+    "quote": "市場の主要企業には、AquaMaof、ECO Fish、Atlantic Sapphireなどがあります",
+    "url": "https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125",
+    "pass": 3
+   },
+   {
+    "quote": "Cermaq Group AS、Cooke Aquaculture Inc.、Leroy Seafood Group、Mowi ASA（旧Marine Harvest ASA）、P/F Bakkafrostは、養殖市場における主要企業であり、これらの企業を合わせると、養殖市場全体の約20～25%のシェアを占めると推定されている",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "養殖市場における主要企業はどこですか？",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社矢野経済研究所（代表取締役社長：水越孝）は、国内における次世代型養殖技術を調査し、市場規模、参入企業の動向、および将来展望を明らかにした",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3897",
+    "pass": 3
+   },
+   {
+    "quote": "2.調査対象： 次世代型養殖技術（スマート水産・陸上養殖システム・アクアポニックス・低魚粉飼料・昆虫飼料）を展開している事業者、養殖事業参入企業、関連官公庁・協会団体・研究機関など",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3897",
+    "pass": 3
+   },
+   {
+    "quote": "世界の陸上養殖市場シェアの上位を占める主要企業の一部をご紹介します：",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/land-based-aquaculture-market/239",
+    "pass": 3
+   },
+   {
+    "quote": "陸上養殖市場の主要企業には、Pure Salmon、Atlantic Sapphire、AquaBounty、Matorka、Kuterra Limited、Danish Salmonなどがあります",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/land-based-aquaculture-market/239",
+    "pass": 3
+   },
+   {
+    "quote": "なお、本記事以外にも、より詳細な市場構造、市場シェア、参入企業動向などをお知りになりたい方は、「アグリ＆水産養殖ビジネスの現状と将来展望 2025」をご購入の上、ご覧いただければ幸いです",
+    "url": "https://www.fkg-report.jp/market-trends/2026/2429.html",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key companies in the market include Blue Ridge Aquaculture, Cermaq ASA, Cooke Aquaculture Inc., and others. These companies adopt strategies, such as strategic collaborations, mergers and acquisitions, and new product launches, to gain a competitive edge. Collectively, these strategies position companies to capture greater market share and drive sustainable growth.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study on the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in aquaculture market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players of this market are Blue Ridge Aquaculture; Cermaq ASA; Cooke Aquaculture Inc.; Eastern Fish Co.; Huon Aquaculture Group Pty Ltd.; International Fish Farming Co. - Asmak; RoyMarine Harvest ASA; Nireus Aquaculture S.A; Promarisco; Selonda Aquaculture S.A.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/land-based-aquaculture-system-market-40125",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.marketresearchfuture.com/reports/land-based-aquaculture-system-market-40125",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players and Competitive Insights",
+    "url": "https://www.marketresearchfuture.com/reports/land-based-aquaculture-system-market-40125",
+    "pass": 3
+   },
+   {
+    "quote": "The major players in the market Include AKVA Group, Innovasea Systems Inc., Pure Salmon Ltd., AquaMaof Aquaculture Technologies Ltd., Veolia, HESY Aquaculture B.V., Xylem Inc., Aquacare Environment Inc., Niras A/S and PR Aqua strategic market developments and decisions to improve operational effectiveness.",
+    "url": "https://www.marketresearchfuture.com/reports/land-based-aquaculture-system-market-40125",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, and Trends",
+    "url": "https://www.marketresearchfuture.com/reports/land-based-aquaculture-system-market-40125",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/land-based-aquaculture-system-market-40125",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the Land Based Aquaculture System Market?",
+    "url": "https://www.marketresearchfuture.com/reports/land-based-aquaculture-system-market-40125",
+    "pass": 3
+   },
+   {
+    "quote": "AKVA Group, Innovasea Systems Inc., Pure Salmon Ltd., AquaMaof Aquaculture Technologies Ltd., Veolia, HESY Aquaculture B.V., Xylem Inc., Aquacare Environment Inc., Niras A/S and PR Aqua are the key players in the Land Based Aquaculture System Market",
+    "url": "https://www.marketresearchfuture.com/reports/land-based-aquaculture-system-market-40125",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Analysis",
+    "url": "https://market.us/report/aquaculture-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Size, Share, Statistics Analysis Report By Environment (Marine Water, Fresh Water, Brackish Water), By Species (Aquatic Plants ( Seaweed, Microalgae), Aquatic Animals (Fish, Crustaceans, Mollusks, Others)), By End-use (Food Industry, Agriculture, Animal Feed, Others), By Region and Key Companies - Industry Segment Outlook, Market Assessment, Competition Scenario, Trends and Forecast 2025–2034",
+    "url": "https://market.us/report/aquaculture-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The global aquaculture market is highly competitive, with several key players driving industry growth through innovation, strategic expansions, and sustainable practices. Leading companies such as",
+    "url": "https://market.us/report/aquaculture-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Market Key Players",
+    "url": "https://market.us/report/aquaculture-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Other Key Players",
+    "url": "https://market.us/report/aquaculture-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Market Dynamics, COVID-19 Impact, Competitive Landscape, Recent Developments",
+    "url": "https://market.us/report/aquaculture-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://market.us/report/aquaculture-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Mowi ASA, SalMar, Leroy Seafood Group, Bakkafrost Scotland, Cermaq Group AS, Grieg Seafood, Cooke Aquaculture Inc., Blue Ridge Aquaculture , Inc. , Eastern Fish Company, Huon Aquaculture Group Pty Ltd., asmak, Nireus Aquaculture S.A, Promarisco, Thai Union Group Plc, Leroy Seafood Group ASA, Other Key Players,",
+    "url": "https://market.us/report/aquaculture-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Atlantic Sapphire led the competitive landscape with expansive RAS salmon production",
+    "url": "https://dataintelo.com/report/land-based-aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "occupies a unique position in the land based aquaculture competitive landscape as the developer and producer of AquAdvantage Salmon, the world's first genetically engineered food animal approved for commercial sale in the United States and Canada. AquaBounty's AquAdvantage Salmon achieves market size approximately",
+    "url": "https://dataintelo.com/report/land-based-aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies",
+    "url": "https://dataintelo.com/report/land-based-aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "Map the competitive landscape and the strategies of leading players",
+    "url": "https://dataintelo.com/report/land-based-aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "This stage helps the team understand the market structure, the value chain, the major players, and the key factors that influence demand.",
+    "url": "https://dataintelo.com/report/land-based-aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "Which are the key players holding the major market share of the Europe land-based aquaculture systems market?",
+    "url": "https://www.theinsightpartners.com/reports/europe-land-based-aquaculture-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "The key players, holding majority shares, in Europe land-based aquaculture systems market includes Veolia Environnement SA, AKVA Group ASA, Xylem Inc, and AquaMaof Aquaculture Technologies Ltd.",
+    "url": "https://www.theinsightpartners.com/reports/europe-land-based-aquaculture-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape and Company Benchmarking",
+    "url": "https://www.theinsightpartners.com/reports/europe-land-based-aquaculture-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "Companies Profiled in the Land-Based Salmon Market Report",
+    "url": "https://www.congruencemarketinsights.com/report/land-based-salmon-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Analyzed",
+    "url": "https://www.congruencemarketinsights.com/report/land-based-salmon-market",
+    "pass": 3
+   },
+   {
+    "quote": "4. Who are the key players in the global Land-Based Salmon market space?",
+    "url": "https://www.congruencemarketinsights.com/report/land-based-salmon-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America accounted for the largest share in the global Land-Based Salmon market, driven by increasing investments in land-based aquaculture, strong consumer demand for sustainable seafood, and the presence of major players such as Atlantic Sapphire and Superior Fresh.",
+    "url": "https://www.congruencemarketinsights.com/report/land-based-salmon-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.persistencemarketresearch.com/market-research/aquaculture-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Key players include Mowi ASA, SalMar ASA, Thai Union Group, Cermaq Group, Charoen Pokphand Foods, and Leroy Seafood Group ASA.",
+    "url": "https://www.persistencemarketresearch.com/market-research/aquaculture-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Key players, including Mowi, Charoen Pokphand Group, Umios Corporation, SalMar ASA, and Austevoll Seafood ASA, compete through species specialization, geographic market breadth, farm technology investment, and sustainability certification programs that are increasingly demanded by European and North American seafood retail buyers.",
+    "url": "https://www.imarcgroup.com/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players / Examples",
+    "url": "https://www.imarcgroup.com/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.imarcgroup.com/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "Shrimp farming is more fragmented, with CPF, Thai Union, and Indian integrated processors collectively representing approximately 10–15% of global shrimp production. Technology consolidation is occurring as large companies acquire RAS technology startups and digital monitoring companies to build proprietary farm management competitive advantages.",
+    "url": "https://www.imarcgroup.com/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "The competitive landscape allows stakeholders to understand their competitive environment and provides insight into the current positions of key players in the market.",
+    "url": "https://www.imarcgroup.com/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the global aquaculture market?",
+    "url": "https://www.imarcgroup.com/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "The competitive landscape can be summarized as a three-tier structure:",
+    "url": "https://www.strategicmarketresearch.com/market-report/land-based-aquaculture-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Q3: Who are the major players in the land based aquaculture system market?",
+    "url": "https://www.strategicmarketresearch.com/market-report/land-based-aquaculture-system-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "陸上養殖市場規模 [2026-2035] |研究報告書 — 陸上養殖市場規模 [2026-2035] |研究報告書 Business Research Insights https://www.businessresearchinsights.com > Home > 農業",
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/land-based-aquaculture-market-107354",
+    "pass": 3
+   },
+   {
+    "quote": "陸上養殖市場 の 規模 、シェア、成長要因および予測（2025 ... — 陸上養殖市場 の 規模 、シェア、成長要因および予測（2025 ... ドリームニュース https://www.dreamnews.jp > press",
+    "url": "https://www.dreamnews.jp/press/0000343365",
+    "pass": 3
+   },
+   {
+    "quote": "陸上養殖市場 規模[2026-2035] |研究報告書 — 陸上養殖市場 規模[2026-2035] |研究報告書 Business Research Insights https://www.businessresearchinsights.com > Home > 農業",
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/land-based-aquaculture-market-107354",
+    "pass": 3
+   },
+   {
+    "quote": "陸上養殖市場 規模、シェア、2034年までの見通し — 陸上養殖市場 規模、シェア、2034年までの見通し Market Reports World https://www.marketreportsworld.com > ... > 自動車と輸送",
+    "url": "https://www.marketreportsworld.com/jp/market-reports/land-based-aquaculture-market-14722264",
+    "pass": 3
+   },
+   {
+    "quote": "Land - Based Aquaculture Market Size [2026-2035] — Land - Based Aquaculture Market Size [2026-2035] Business Research Insights https://www.businessresearchinsights.com > ...",
+    "url": "https://www.businessresearchinsights.com/market-reports/land-based-aquaculture-market-107354",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "陸上養殖とは｜官民投資ロードマップの目標・投資額2.9兆円・政策をやさしく解説｜官民投資ロードマップをやさしく読む",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/rikujou-youshoku.html",
+    "pass": 3
+   },
+   {
+    "quote": "官民投資額は2040年度までに2.9兆円、経済波及効果は2040年度までに47.1兆円と想定されています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/rikujou-youshoku.html",
+    "pass": 3
+   },
+   {
+    "quote": "陸上養殖の官民投資の具体像 ― 投資額2.9兆円・経済波及効果47.1兆円",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/rikujou-youshoku.html",
+    "pass": 3
+   },
+   {
+    "quote": "官民投資額は2040年度までで2.9兆円、投資による経済波及効果は2040年度までで47.1兆円と想定されています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/rikujou-youshoku.html",
+    "pass": 3
+   },
+   {
+    "quote": "陸上養殖の官民投資額は2040年度までで2.9兆円、経済波及効果は2040年度までで47.1兆円と想定されています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/rikujou-youshoku.html",
+    "pass": 3
+   },
+   {
+    "quote": "Beyond its role in food supply, aquaculture is a vital source of employment, supporting millions of livelihoods, particularly in developing economies. In 2022, aquaculture contributed to over 50% of the world’s seafood supply, a figure projected to increase steadily as investments in sustainable practices and innovative farming techniques continue to rise.",
+    "url": "https://market.us/report/aquaculture-market/",
+    "pass": 3
+   },
+   {
+    "quote": "in cumulative sector investment as of 2025.",
+    "url": "https://dataintelo.com/report/land-based-aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "9.5 Investment Scenario",
+    "url": "https://dataintelo.com/report/land-based-aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "Latin America is the fastest-growing region through 2032, with Ecuador and Brazil scaling shrimp and tilapia farming through improved biosecurity and export-oriented investment.",
+    "url": "https://www.persistencemarketresearch.com/market-research/aquaculture-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Crustaceans (~4.60% CAGR), RAS land-based salmon (~15%+ CAGR), marine water seaweed (~6%+ CAGR), and Africa tilapia farming (~8%+ CAGR from a low base) represent the highest-growth investment vectors through 2034. The combined incremental addressable volume from these high-growth sub-segments is estimated at approximately 20 Million Tons by 2034.",
+    "url": "https://www.imarcgroup.com/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "• Government Support and Investment: Nations recognize aquaculture's role in food security and rural employment. Subsidies, grants, and supportive policies accelerate infrastructure development. India's PKVY offers $671.2 per hectare for sustainable practices, while significant private investment flows into sector modernization globally.",
+    "url": "https://vocal.media/journal/fish-farming-market-emerging-trends-opportunities-and-outlook-to-2033",
+    "pass": 3
+   },
+   {
+    "quote": "January 2025: Union Minister Rajiv Ranjan Singh launched India's first organic fisheries cluster in Soreng, Sikkim, with a ₹50 crore investment under Pradhan Mantri Matsya Sampada Yojana, focusing on chemical-free sustainable practices.",
+    "url": "https://vocal.media/journal/fish-farming-market-emerging-trends-opportunities-and-outlook-to-2033",
+    "pass": 3
+   },
+   {
+    "quote": "Shrimp and salmon demand in North America, Europe, and East Asia is growing at 4 to 6% annually, driving investment in intensive aquaculture production systems that require specialised feed, health products, and water treatment solutions.",
+    "url": "https://www.factmr.com/report/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "Atlantic salmon retail prices in the USA and Europe increased 25 to 35% between 2020 and 2024, per USDA and Eurostat data, driven by supply constraints relative to growing consumer demand. These price signals are attracting capital investment into salmon aquaculture expansion, including RAS-based land production facilities in Norway, Canada, USA, and the Middle East.",
+    "url": "https://www.factmr.com/report/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "Land-based RAS salmon production is attracting over USD 5 billion in announced investment globally, with facilities planned or under construction in the USA (AquaBounty, Atlantic Sapphire), Norway (Salmon Evolution), Japan, and the Middle East. RAS eliminates sea lice and environmental discharge challenges while enabling production near major consumer markets.",
+    "url": "https://www.factmr.com/report/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial aquaculture farms account for 44.7% of end-use demand. Farm-level input consumption drives the majority of aquaculture market revenue through feed purchases, equipment investment, health product usage, and service procurement. The commercial segment spans small-scale pond operations in Asia to large integrated salmon companies in Norway and Chile.",
+    "url": "https://www.factmr.com/report/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "Germany's RAS aquaculture sector attracted over EUR 200 million in investment between 2022 and 2024, per BLE (Federal Office for Agriculture and Food) data.",
+    "url": "https://www.factmr.com/report/aquaculture-market",
+    "pass": 3
+   },
+   {
+    "quote": "UK growth is centred on the Scottish salmon farming industry, which produces over 200,000 tonnes annually and is the UK's largest food export by value. Innovation investment focuses on closed-containment systems, biological sea lice control, and feed ingredient diversification.",
+    "url": "https://www.factmr.com/report/aquaculture-market",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "7.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "quote": "2026〜2035年の年平均成長率（CAGR）は7.7%と見込まれ、2035年までに60.8億米ドルに達すると予測される"
+   },
+   {
+    "value": "8.2",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "quote": "バイオろ過システムの2025年の市場規模は6億900万米ドルで、2026〜2035年に年平均成長率（CAGR）8.2%で拡大すると予測される"
+   },
+   {
+    "value": "8.4",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "quote": "酸素供給・曝気システムは、2035年までに9億3,400万米ドルに達し、2026〜2035年に年平均成長率（CAGR）8.4%で成長すると予測される"
+   },
+   {
+    "value": "8.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "quote": "監視・制御システムは、2035年までに7億300万米ドルに達し、2026〜2035年に年平均成長率（CAGR）8.7%で拡大すると予測される"
+   },
+   {
+    "value": "5.13",
+    "url": "https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125",
+    "quote": "2025年から2035年の予測期間中の陸上養殖システム市場の期待CAGRは5.13%です"
+   },
+   {
+    "value": "9.5",
+    "url": "https://www.maff.go.jp/j/shokusan/sosyutu/attach/pdf/itaku-24.pdf",
+    "quote": "ハードウェア・ソフトウェア・サービス市場 CAGR 9.5％"
+   },
+   {
+    "value": "7.92",
+    "url": "https://www.maff.go.jp/j/shokusan/sosyutu/attach/pdf/itaku-24.pdf",
+    "quote": "設備・技術・機器市場 CAGR 7.92％ 生産物市場（葉菜類等） CAGR 7.92％"
+   },
+   {
+    "value": "8.7",
+    "url": "https://www.maff.go.jp/j/shokusan/sosyutu/attach/pdf/itaku-24.pdf",
+    "quote": "水産用サステナブル飼料 CAGR 8.7％ 畜産用サステナブル飼料 CAGR 22.1％"
+   },
+   {
+    "value": "22.1",
+    "url": "https://www.maff.go.jp/j/shokusan/sosyutu/attach/pdf/itaku-24.pdf",
+    "quote": "水産用サステナブル飼料 CAGR 8.7％ 畜産用サステナブル飼料 CAGR 22.1％"
+   },
+   {
+    "value": "8.3",
+    "url": "https://www.maff.go.jp/j/shokusan/sosyutu/attach/pdf/itaku-24.pdf",
+    "quote": "システム市場 CAGR 8.3％ 水産物市場 CAGR 11.4％"
+   },
+   {
+    "value": "11.4",
+    "url": "https://www.maff.go.jp/j/shokusan/sosyutu/attach/pdf/itaku-24.pdf",
+    "quote": "システム市場 CAGR 8.3％ 水産物市場 CAGR 11.4％"
+   },
+   {
+    "value": "14.3",
+    "url": "https://www.maff.go.jp/j/shokusan/sosyutu/attach/pdf/itaku-24.pdf",
+    "quote": "代替タンパク CAGR 14.3％"
+   },
+   {
+    "value": "44.05",
+    "url": "https://www.maff.go.jp/j/shokusan/sosyutu/attach/pdf/itaku-24.pdf",
+    "quote": "精密発酵 CAGR 44.05％"
+   },
+   {
+    "value": "6.5",
+    "url": "https://www.maff.go.jp/j/shokusan/sosyutu/attach/pdf/itaku-24.pdf",
+    "quote": "完全栄養食 CAGR 6.5％"
+   },
+   {
+    "value": "11.8",
+    "url": "https://www.maff.go.jp/j/shokusan/sosyutu/attach/pdf/itaku-24.pdf",
+    "quote": "ゲノム編集技術市場 CAGR 11.8％"
+   },
+   {
+    "value": "5.54",
+    "url": "https://www.maff.go.jp/j/shokusan/sosyutu/attach/pdf/itaku-24.pdf",
+    "quote": "スマートパッケージング市場 CAGR 5.54％ コールドチェーン高度管理市場 CAGR 23.0％"
+   },
+   {
+    "value": "23.0",
+    "url": "https://www.maff.go.jp/j/shokusan/sosyutu/attach/pdf/itaku-24.pdf",
+    "quote": "スマートパッケージング市場 CAGR 5.54％ コールドチェーン高度管理市場 CAGR 23.0％"
+   },
+   {
+    "value": "20.7",
+    "url": "https://www.maff.go.jp/j/shokusan/sosyutu/attach/pdf/itaku-24.pdf",
+    "quote": "製造ロボ市場 CAGR 20.7％ 調理ロボ市場 CAGR 13.1％"
+   },
+   {
+    "value": "13.1",
+    "url": "https://www.maff.go.jp/j/shokusan/sosyutu/attach/pdf/itaku-24.pdf",
+    "quote": "製造ロボ市場 CAGR 20.7％ 調理ロボ市場 CAGR 13.1％"
+   },
+   {
+    "value": "5.37",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "quote": "世界の養殖市場規模は、2025年には3,196億9,000万米ドルと評価され、2026年の3,368億6,000万米ドルから2034年には5,119億米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は5.37%となる見込みです"
+   },
+   {
+    "value": "6.35",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "quote": "汽水域は、エビ、カニ、その他混合塩分環境で生育する生物種に適していること、および沿岸養殖活動の拡大を背景に、2026年から2034年の予測期間中に年平均成長率（CAGR）6.35%で成長すると予想されています"
+   },
+   {
+    "value": "6.45",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "quote": "甲殻類セグメントは、エビ、クルマエビ、カニなどの高付加価値シーフードに対する旺盛な需要に加え、養殖生産と消費の拡大を背景に、2026年から2034年の予測期間中に年平均成長率（CAGR）6.45%で成長すると予想されています"
+   },
+   {
+    "value": "4.4",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aquaculture-market",
+    "quote": "CAGR of 4.4% from 2026 to 2033"
+   },
+   {
+    "value": "5.3",
+    "url": "https://www.marketresearchfuture.com/reports/land-based-aquaculture-system-market-40125",
+    "quote": "As per Market Research Future analysis, the Land Based Aquaculture System Market Species was valued at USD 5,829.0 million in 2024. The Land Based Aquaculture Industry is projected to grow from USD 6,137.94 million in 2025 to USD 9,671.3 million by 2035, exhibiting a compound annual growth rate (CAG"
+   },
+   {
+    "value": "5.4",
+    "url": "https://market.us/report/aquaculture-market/",
+    "quote": "Aquaculture Market Size, Share | CAGR of 5.4%"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "6.9",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "quote": "カナダの2025年の世界市場シェアは6.9%であり、2026〜2035年の年平均成長率（CAGR）は7.4%と予測される"
+   },
+   {
+    "value": "7.4",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "quote": "カナダの2025年の世界市場シェアは6.9%であり、2026〜2035年の年平均成長率（CAGR）は7.4%と予測される"
+   },
+   {
+    "value": "3.4",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "quote": "イタリアは2025年に世界市場の3.4%を占め、市場規模は2035年に1億9,000万米ドルに達すると予測される"
+   },
+   {
+    "value": "2.9",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "quote": "スペインは2035年までに世界市場の2.9%を占め、2026〜2035年の年平均成長率（CAGR）は6.8%と予測される"
+   },
+   {
+    "value": "6.8",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "quote": "スペインは2035年までに世界市場の2.9%を占め、2026〜2035年の年平均成長率（CAGR）は6.8%と予測される"
+   },
+   {
+    "value": "4.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "quote": "韓国は2025年に世界市場の4.0%を占め、2026〜2035年の年平均成長率（CAGR）は7.4%と予測される"
+   },
+   {
+    "value": "3.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "quote": "その他のアジア太平洋地域は2025年に世界市場の3.5%のシェアを占め、2026〜2035年の年平均成長率（CAGR）は9.8%と予測される"
+   },
+   {
+    "value": "9.8",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "quote": "その他のアジア太平洋地域は2025年に世界市場の3.5%のシェアを占め、2026〜2035年の年平均成長率（CAGR）は9.8%と予測される"
+   },
+   {
+    "value": "7.2",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "quote": "中南米は2035年までに世界市場の7.2%を占めると予測され、2026〜2035年の年平均成長率（CAGR）は9.3%と見込まれる"
+   },
+   {
+    "value": "9.3",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "quote": "中南米は2035年までに世界市場の7.2%を占めると予測され、2026〜2035年の年平均成長率（CAGR）は9.3%と見込まれる"
+   },
+   {
+    "value": "0.8",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "quote": "アルゼンチンは2025年に世界市場の0.8%のシェアを占め、市場規模は2035年までに5,300万米ドルに達すると予測される"
+   },
+   {
+    "value": "40",
+    "url": "https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125",
+    "quote": "この地域は、世界市場シェアの約40%を占めており、最大の市場となっています"
+   },
+   {
+    "value": "30",
+    "url": "https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125",
+    "quote": "この地域は、世界市場シェアの約30%を占めており、第二の市場となっています"
+   },
+   {
+    "value": "20",
+    "url": "https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125",
+    "quote": "この地域は、世界市場シェアの約20%を占めており、中国や日本が先頭を切っています"
+   },
+   {
+    "value": "10",
+    "url": "https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125",
+    "quote": "この地域は現在、世界市場シェアの約10%を占めており、重要な成長の可能性を秘めています"
+   },
+   {
+    "value": "52.5",
+    "url": "https://www.maff.go.jp/j/shokusan/sosyutu/attach/pdf/itaku-24.pdf",
+    "quote": "場規模は10.5億米ドルであり、アジア太平洋地域全体の20億米ドルに対して約52.5％を占める"
+   },
+   {
+    "value": "62.5",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "quote": "アジア太平洋地域は、2025年に市場シェア62.5%を占め、養殖市場を牽引しました"
+   },
+   {
+    "value": "45.2",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "quote": "海洋水域セグメントは、魚類、貝類、軟体動物などの海洋生物の広範な養殖に加え、適切な沿岸資源の利用可能性と確立された海洋養殖技術により、2025年には45.2%のシェアを占める見込みである"
+   },
+   {
+    "value": "31.8",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "quote": "コイ類は、広く養殖されていること、多様な淡水養殖条件への適応性、比較的低い生産コスト、そして主食としての消費者の高い受容度により、2025年には31.8%のシェアを占める見込みである"
+   },
+   {
+    "value": "56.4",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "quote": "魚介類分野は、主要なタンパク源としての魚の広範な消費、確立された養殖方法、多様な魚種の入手可能性、国内および商業シーフード市場における強い需要に支えられ、2025年には56.4%のシェアを占める見込みである"
+   },
+   {
+    "value": "86.7",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "quote": "水産物産業は、魚介類やその他の水産物に対する消費者の強い需要、水産物の広範な消費、確立された流通ネットワーク、そして小売、外食、加工といった様々な用途における養殖製品の広範な利用により、2025年には86.7%のシェアを占めるようになった"
+   },
+   {
+    "value": "13.7",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "quote": "欧州の養殖市場は、確立された水産物市場と持続可能な養殖方法の継続的な採用が養殖生産の発展を支えていることから、2025年には地域シェアの13.7%を占める見込みです"
+   },
+   {
+    "value": "15",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "quote": "英国の養殖市場は、2040年までに養殖生産がイングランドの水産物消費量の少なくとも15%を占めるという英国養殖戦略の目標によって支えられています"
+   },
+   {
+    "value": "25",
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "quote": "Cermaq Group AS、Cooke Aquaculture Inc.、Leroy Seafood Group、Mowi ASA（旧Marine Harvest ASA）、P/F Bakkafrostは、養殖市場における主要企業であり、これらの企業を合わせると、養殖市場全体の約20～25%のシェアを占めると推定されている"
+   },
+   {
+    "value": "5",
+    "url": "https://www.mof.go.jp/public_relations/finance/202610/202610j.html",
+    "quote": "水産庁によると、世界の漁業と養殖業を合わせた生産量における養殖業比率は1960～1970年の4～5％程度から上昇を続け、2013年には51％を占め、初めて漁業を上回った"
+   },
+   {
+    "value": "51",
+    "url": "https://www.mof.go.jp/public_relations/finance/202610/202610j.html",
+    "quote": "水産庁によると、世界の漁業と養殖業を合わせた生産量における養殖業比率は1960～1970年の4～5％程度から上昇を続け、2013年には51％を占め、初めて漁業を上回った"
+   },
+   {
+    "value": "53.2",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aquaculture-market",
+    "quote": "By fish type: Salmons, trouts, and smelt segment held the largest market share of 53.2% in 2025."
+   },
+   {
+    "value": "67.6",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aquaculture-market",
+    "quote": "By environment: Marine water segment held the largest market share of 67.6% in 2025."
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/land-based-aquaculture-market-107354",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maff.go.jp/j/shokusan/sosyutu/attach/pdf/itaku-24.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/aquaculture-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3897",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kdmarketinsights.jp/report-analysis/land-based-aquaculture-market/239",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E7%B2%BE%E5%AF%86%E9%A4%8A%E6%AE%96%E5%B8%82%E5%A0%B4-113617",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/8775/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://marinemanager.njc.co.jp/magazine/minato-20251001/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3897",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fkg-report.jp/market-trends/2026/2429.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/public_relations/finance/202610/202610j.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketreportsworld.com/jp/market-reports/land-based-aquaculture-market-14722264",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://digital-supporter.net/mirai-ai/17invest/rikujou-youshoku.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/market-reports/land-based-aquaculture-market-107354",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/aquaculture-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/land-based-aquaculture-system-market-40125",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/aquaculture-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataintelo.com/report/land-based-aquaculture-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.theinsightpartners.com/reports/europe-land-based-aquaculture-systems-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.congruencemarketinsights.com/report/land-based-salmon-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ers.usda.gov/topics/animal-products/aquaculture",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.persistencemarketresearch.com/market-research/aquaculture-market.asp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trade.gov/aquaculture-industry-summary",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/aquaculture-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strategicmarketresearch.com/market-report/land-based-aquaculture-system-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchreports.com/reports/global-land-based-salmon-market-strategic-research-report?srsltid=AYCX9vJ-wRR5iHyQPpGvdAv-8KSRmfeSgwHx4B_NIGWwzUP8GXohaz2M",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aquamaof.com/ras-blog-post/land-based-aquaculture/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://vocal.media/journal/fish-farming-market-emerging-trends-opportunities-and-outlook-to-2033",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.factmr.com/report/aquaculture-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.verifiedmarketreports.com/product/land-based-aquaculture-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://industryresearchmarket.com/analysis-report/land-based-aquaculture-market/",
+    "status": "network_error:SSLError",
+    "method": "http"
+   },
+   {
+    "url": "https://reports.undercurrentnews.com/report/land-based-aquaculture-report-2025",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketreportsworld.com/market-reports/land-based-aquaculture-market-14722264",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "陸上養殖 市場規模 CAGR",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/recirculating-aquaculture-system-market",
+    "https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125",
+    "https://www.businessresearchinsights.com/jp/market-reports/land-based-aquaculture-market-107354",
+    "https://www.maff.go.jp/j/shokusan/sosyutu/attach/pdf/itaku-24.pdf",
+    "https://straitsresearch.com/jp/report/aquaculture-market",
+    "https://www.dreamnews.jp/press/0000343365",
+    "https://jp.linkedin.com/pulse/2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E5%B8%82%E5%A0%B4%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E3%81%A7%E3%81%AF141%E3%81%AEcagr%E3%82%92%E7%A4%BA%E3%81%97%E9%99%B8%E4%B8%8A%E9%A4%8A%E6%AE%96%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0-market%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6%E9%A1%95%E8%91%97%E3%81%AA%E6%88%90%E9%95%B7%E3%81%8C%E8%A6%8B%E8%BE%BC%E3%81%BE%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99-9cyqe",
+    "https://www.reportocean.co.jp/industry-reports/japan-fish-farming-market",
+    "https://www.wiseguyreports.com/ja/reports/land-based-aquaculture-system-market",
+    "https://www.globalgrowthinsights.com/jp/market-reports/land-based-aquaculture-market-122540"
+   ]
+  },
+  {
+   "query": "陸上養殖 市場 シェア 上位 企業",
+   "results": [
+    "https://www.businessresearchinsights.com/jp/market-reports/land-based-aquaculture-market-107354",
+    "https://straitsresearch.com/jp/report/aquaculture-market",
+    "https://www.yano.co.jp/press/press.php/003897?srsltid=AYCX9vKdwaPH_jkKtx3VZCC3yHoizLSsuw1xznBnjaZ9RHCH7p12FGTC",
+    "https://www.kdmarketinsights.jp/report-analysis/land-based-aquaculture-market/239",
+    "https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125",
+    "https://www.fortunebusinessinsights.com/jp/%E7%B2%BE%E5%AF%86%E9%A4%8A%E6%AE%96%E5%B8%82%E5%A0%B4-113617",
+    "https://metoree.com/categories/8775/",
+    "https://marinemanager.njc.co.jp/magazine/minato-20251001/",
+    "https://www.reportprime.com/ja/%E6%B0%B4%E7%94%A3%E9%A4%8A%E6%AE%96-r16358/company",
+    "https://www.yhresearch.co.jp/reports/1252483/land-based-aquaculture"
+   ]
+  },
+  {
+   "query": "陸上養殖 市場 前年比 2025",
+   "results": [
+    "https://www.businessresearchinsights.com/jp/market-reports/land-based-aquaculture-market-107354",
+    "https://www.yano.co.jp/press/press.php/003897?srsltid=AYCX9vKWU5uBdJ0D-Y8q_cTpdhoI5QdHB6QYhbhdayZRpoz1xnTVj_6C",
+    "https://www.fkg-report.jp/market-trends/2026/2429.html",
+    "https://www.mof.go.jp/public_relations/finance/202610/202610j.html",
+    "https://www.marketreportsworld.com/jp/market-reports/land-based-aquaculture-market-14722264",
+    "https://digital-supporter.net/mirai-ai/17invest/rikujou-youshoku.html",
+    "https://www.jfa.maff.go.jp/j/kikaku/wpaper/r07_h/trend/1/t1_f_3_1.html",
+    "https://www.marketresearchfuture.com/ja/reports/land-based-aquaculture-system-market-40125",
+    "https://www.facebook.com/aquaculture.business/posts/-%E9%A4%8A%E6%AE%96%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B92025%E5%B9%B4%E5%A2%97%E5%88%8A%E5%8F%B7-%E5%9B%BD%E5%88%A5%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8B%E4%B8%96%E7%95%8C%E3%81%AE%E9%A4%8A%E6%AE%96%E6%A5%AD%E6%BC%81%E6%A5%AD%E3%81%AB%E3%82%88%E3%82%8B%E6%B0%B4%E7%94%A3%E7%89%A9%E3%81%AE%E6%BC%81%E7%8D%B2%E9%87%8F%E3%81%8C%E9%A0%AD%E6%89%93%E3%81%A1%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%AA%E3%81%8B%E4%B8%96%E7%95%8C%E7%9A%84%E3%81%AB%E9%A4%8A%E6%AE%96%E6%A5%AD%E3%81%B8%E3%81%AE%E6%B3%A8%E7%9B%AE%E5%BA%A6%E3%81%8C%E9%AB%98%E3%81%BE%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E7%94%9F%E7%94%A3%E9%87%8F%E3%81%AE%E5%A2%97%E5%8A%A0%E5%82%BE%E5%90%91%E3%81%AF%E9%A1%95%E8%91%97/1053471293464012/",
+    "https://land-aquaculture.businesshub.trueone.co.jp/page-01-market-overview.html"
+   ]
+  },
+  {
+   "query": "land-based aquaculture market size CAGR 2025",
+   "results": [
+    "https://www.businessresearchinsights.com/market-reports/land-based-aquaculture-market-107354",
+    "https://www.grandviewresearch.com/industry-analysis/aquaculture-market",
+    "https://www.marketresearchfuture.com/reports/land-based-aquaculture-system-market-40125",
+    "https://market.us/report/aquaculture-market/",
+    "https://www.linkedin.com/pulse/land-based-aquaculture-market-size-report-projected-cagr-cxhqf",
+    "https://dataintelo.com/report/land-based-aquaculture-market",
+    "https://www.strategicmarketresearch.com/market-report/land-based-aquaculture-system-market",
+    "https://www.imarcgroup.com/aquaculture-market",
+    "https://www.factmr.com/report/aquaculture-market",
+    "https://www.verifiedmarketreports.com/product/land-based-aquaculture-market/"
+   ]
+  },
+  {
+   "query": "land-based aquaculture market share top players percent",
+   "results": [
+    "https://www.marketresearchfuture.com/reports/land-based-aquaculture-system-market-40125",
+    "https://www.theinsightpartners.com/reports/europe-land-based-aquaculture-systems-market",
+    "https://www.congruencemarketinsights.com/report/land-based-salmon-market",
+    "http://www.ers.usda.gov/topics/animal-products/aquaculture",
+    "https://www.persistencemarketresearch.com/market-research/aquaculture-market.asp",
+    "https://www.trade.gov/aquaculture-industry-summary",
+    "https://www.maximizemarketresearch.com/market-report/global-aquaculture-market/65165/",
+    "https://vocal.media/journal/aquaculture-market-size-share-trends-and-future-growth-opportunities",
+    "https://www.strategicmarketresearch.com/market-report/recirculating-aquaculture-system-market",
+    "https://www.verifiedmarketreports.com/product/land-based-aquaculture-market/"
+   ]
+  },
+  {
+   "query": "land-based aquaculture market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.businessresearchinsights.com/market-reports/land-based-aquaculture-market-107354",
+    "https://www.imarcgroup.com/aquaculture-market",
+    "https://www.strategicmarketresearch.com/market-report/land-based-aquaculture-system-market",
+    "https://www.linkedin.com/pulse/land-based-aquaculture-system-market-industry-landscape-growth-uqtoe",
+    "https://www.marketresearchfuture.com/reports/land-based-aquaculture-system-market-40125",
+    "https://www.persistencemarketresearch.com/market-research/aquaculture-market.asp",
+    "https://www.marketresearchreports.com/reports/global-land-based-salmon-market-strategic-research-report?srsltid=AYCX9vJ-wRR5iHyQPpGvdAv-8KSRmfeSgwHx4B_NIGWwzUP8GXohaz2M",
+    "https://www.aquamaof.com/ras-blog-post/land-based-aquaculture/",
+    "https://vocal.media/journal/fish-farming-market-emerging-trends-opportunities-and-outlook-to-2033",
+    "https://agriculturedictionary.com/land-consolidation/"
+   ]
+  },
+  {
+   "query": "land-based aquaculture market key companies share 2025",
+   "results": [
+    "https://www.businessresearchinsights.com/market-reports/land-based-aquaculture-market-107354",
+    "https://www.grandviewresearch.com/industry-analysis/aquaculture-market",
+    "https://dataintelo.com/report/land-based-aquaculture-market",
+    "https://www.marketresearchfuture.com/reports/land-based-aquaculture-system-market-40125",
+    "https://market.us/report/aquaculture-market/",
+    "https://www.factmr.com/report/aquaculture-market",
+    "https://www.linkedin.com/pulse/land-based-aquaculture-market-global-outlook-us-japan-qmabf",
+    "https://www.imarcgroup.com/aquaculture-market",
+    "https://www.congruencemarketinsights.com/report/land-based-salmon-market",
+    "https://www.verifiedmarketreports.com/product/land-based-aquaculture-market/"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -1,0 +1,1752 @@
+{
+ "name": "マテリアルズインフォマティクス",
+ "en": "materials informatics",
+ "aliases": [
+  "MI",
+  "AI材料開発"
+ ],
+ "context": "9 マテリアル ⑥AI活用材料",
+ "kind": "market",
+ "researched_at": "2026-11-02T17:35:24.456174+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "マテリアル・インフォマティクス市場は、2025年に7億1,995万米ドルと評価され、2026年には8億4,846万米ドルに成長し、CAGR18.34％で推移し、2032年までに23億4,119万米ドルに達すると予測されています",
+    "url": "https://newscast.jp/smart/news/8350130",
+    "pass": 3
+   },
+   {
+    "quote": "マテリアル・インフォマティクス市場 | 市場規模 分析 予測 2026-2032年 【市場調査レポート】",
+    "url": "https://www.gii.co.jp/report/ires2102877-material-informatics-market-global-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "マテリアル・インフォマティクス市場は、2032年までにCAGR18.34％で5億8,382万米ドル規模に拡大すると予測されています",
+    "url": "https://www.gii.co.jp/report/ires2102877-material-informatics-market-global-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 3,939 換算",
+    "url": "https://www.gii.co.jp/report/ires2102877-material-informatics-market-global-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 5,959 換算",
+    "url": "https://www.gii.co.jp/report/ires2102877-material-informatics-market-global-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "2030年のマテリアルDX世界市場規模は2025年比305％増の3兆1,653億5,000万円の見込み",
+    "url": "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIGp2sFx1LkiET3WZSYbVaBEz1DAVl4PK1mfhPIzFsZmci3l3KT",
+    "pass": 3
+   },
+   {
+    "quote": "2030年のマテリアルDX世界市場規模は3兆円超を予測",
+    "url": "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIGp2sFx1LkiET3WZSYbVaBEz1DAVl4PK1mfhPIzFsZmci3l3KT",
+    "pass": 3
+   },
+   {
+    "quote": "「計算科学とシミュレーション技術」、「AI・機械学習による材料設計」の2つのテーマを追加し、利用分野、市場規模動向を掲載",
+    "url": "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIGp2sFx1LkiET3WZSYbVaBEz1DAVl4PK1mfhPIzFsZmci3l3KT",
+    "pass": 3
+   },
+   {
+    "quote": "Ａ：2025年の実績と2030～2050年までの市場規模予測を掲載しています",
+    "url": "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIGp2sFx1LkiET3WZSYbVaBEz1DAVl4PK1mfhPIzFsZmci3l3KT",
+    "pass": 3
+   },
+   {
+    "quote": "「第1章：プロセス・インフォマティクス」では、マテリアルDXにおけるPIの概要とトピックス、市場規模、関連する企業や大学などの動向が掲載され必要な情報が得られます",
+    "url": "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIGp2sFx1LkiET3WZSYbVaBEz1DAVl4PK1mfhPIzFsZmci3l3KT",
+    "pass": 3
+   },
+   {
+    "quote": "「第2章：計算科学とシミュレーション技術」では、マテリアルDXにおける計算科学とシミュレーション技術の概要とトピックス、市場規模、関連する企業や大学などの動向が掲載され必要な情報が得られます",
+    "url": "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIGp2sFx1LkiET3WZSYbVaBEz1DAVl4PK1mfhPIzFsZmci3l3KT",
+    "pass": 3
+   },
+   {
+    "quote": "「第3章：AI・機械学習による材料設計」では、マテリアルDXにおけるAI・機械学習による材料設計のトピックス、市場規模、関連する企業や大学などの動向が掲載され必要な情報が得られます",
+    "url": "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIGp2sFx1LkiET3WZSYbVaBEz1DAVl4PK1mfhPIzFsZmci3l3KT",
+    "pass": 3
+   },
+   {
+    "quote": "「第4章：有機材料インフォマティクス」では、マテリアルDXにおける有機材料インフォマティクスの概要とトピックス、市場規模、関連する企業や大学などの動向が掲載され必要な情報が得られます",
+    "url": "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIGp2sFx1LkiET3WZSYbVaBEz1DAVl4PK1mfhPIzFsZmci3l3KT",
+    "pass": 3
+   },
+   {
+    "quote": "「第5章：無機材料インフォマティクス」では、マテリアルDXにおける無機材料インフォマティクスの概要とトピックス、市場規模、関連する企業や大学などの動向が掲載され必要な情報が得られます",
+    "url": "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIGp2sFx1LkiET3WZSYbVaBEz1DAVl4PK1mfhPIzFsZmci3l3KT",
+    "pass": 3
+   },
+   {
+    "quote": "4．マテリアルDXにおけるプロセス・インフォマティクス（PI）の市場規模予測",
+    "url": "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIGp2sFx1LkiET3WZSYbVaBEz1DAVl4PK1mfhPIzFsZmci3l3KT",
+    "pass": 3
+   },
+   {
+    "quote": "WW市場規模予測（金額：2025-2050年予測）】",
+    "url": "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIGp2sFx1LkiET3WZSYbVaBEz1DAVl4PK1mfhPIzFsZmci3l3KT",
+    "pass": 3
+   },
+   {
+    "quote": "【図・表2．マテリアルDXプロセス・インフォマティクスの分類別国内市場規模予測",
+    "url": "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIGp2sFx1LkiET3WZSYbVaBEz1DAVl4PK1mfhPIzFsZmci3l3KT",
+    "pass": 3
+   },
+   {
+    "quote": "【図・表3．マテリアルDXプロセス・インフォマティクスの分類別WW市場規模予測",
+    "url": "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIGp2sFx1LkiET3WZSYbVaBEz1DAVl4PK1mfhPIzFsZmci3l3KT",
+    "pass": 3
+   },
+   {
+    "quote": "3．マテリアルDXにおける計算科学とシミュレーション技術の市場規模予測",
+    "url": "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIGp2sFx1LkiET3WZSYbVaBEz1DAVl4PK1mfhPIzFsZmci3l3KT",
+    "pass": 3
+   },
+   {
+    "quote": "マテリアル・インフォマティクス市場は、2025年に7億1,995万米ドルと評価され、2026年には8億4,846万米ドルに成長し、CAGR18.34％で推移し、2032年までに23億4,119万米ドルに達すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/8350130",
+    "pass": 3
+   },
+   {
+    "quote": "食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8350130",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8350130",
+    "pass": 3
+   },
+   {
+    "quote": "セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8350130",
+    "pass": 3
+   },
+   {
+    "quote": "コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8350130",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8350130",
+    "pass": 3
+   },
+   {
+    "quote": "SMDサーモパイルセンサーの世界市場（2026年～2032年）、市場規模（シングルチャンネルセンサー、デュアルチャンネルセンサー）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8350130",
+    "pass": 3
+   },
+   {
+    "quote": "マテリアルズインフォマティクス市場規模、シェア、トレンド、成長2024-2033年 | 記事 | ブログ",
+    "url": "https://cervicornconsultingmarketnews.inkrich.com/posts/6/",
+    "pass": 3
+   },
+   {
+    "quote": "マテリアルズインフォマティクス市場規模、シェア、トレンド、成長2024-2033年",
+    "url": "https://cervicornconsultingmarketnews.inkrich.com/posts/6/",
+    "pass": 3
+   },
+   {
+    "quote": "持続可能な航空燃料市場規模、シェア 2024-2033",
+    "url": "https://cervicornconsultingmarketnews.inkrich.com/posts/6/",
+    "pass": 3
+   },
+   {
+    "quote": "レポートによれば、世界のマテリアルインフォマティクス市場は、2024年の1億7,302万米ドルと比較して、2035年までに13億7,640万米ドルに達し、年平均成長率 20.81% という顕著な拡大を遂げると予測されている",
+    "url": "https://www.dreamnews.jp/press/0000327907",
+    "pass": 3
+   },
+   {
+    "quote": "KDMIのアナリストは、今後10年間において、AIの統合、持続可能性への取り組み、産業横断的な応用が主要因となり、世界のマテリアル・インフォマティクス市場は変革的な成長を続けると予測しています",
+    "url": "https://www.dreamnews.jp/press/0000327907",
+    "pass": 3
+   },
+   {
+    "quote": "2030年のマテリアルDX世界市場規模は2025年比305％増の3兆1,653億5,000万円の見込み",
+    "url": "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vLrTg_zINF8-GsgkZjoepq5hp_hyjBMSo5mDlxWoLbHQfyTW7Vf",
+    "pass": 3
+   },
+   {
+    "quote": "2030年のマテリアルDX世界市場規模は3兆円超を予測",
+    "url": "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vLrTg_zINF8-GsgkZjoepq5hp_hyjBMSo5mDlxWoLbHQfyTW7Vf",
+    "pass": 3
+   },
+   {
+    "quote": "「計算科学とシミュレーション技術」、「AI・機械学習による材料設計」の2つのテーマを追加し、利用分野、市場規模動向を掲載",
+    "url": "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vLrTg_zINF8-GsgkZjoepq5hp_hyjBMSo5mDlxWoLbHQfyTW7Vf",
+    "pass": 3
+   },
+   {
+    "quote": "Ａ：2025年の実績と2030～2050年までの市場規模予測を掲載しています",
+    "url": "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vLrTg_zINF8-GsgkZjoepq5hp_hyjBMSo5mDlxWoLbHQfyTW7Vf",
+    "pass": 3
+   },
+   {
+    "quote": "「第1章：プロセス・インフォマティクス」では、マテリアルDXにおけるPIの概要とトピックス、市場規模、関連する企業や大学などの動向が掲載され必要な情報が得られます",
+    "url": "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vLrTg_zINF8-GsgkZjoepq5hp_hyjBMSo5mDlxWoLbHQfyTW7Vf",
+    "pass": 3
+   },
+   {
+    "quote": "「第2章：計算科学とシミュレーション技術」では、マテリアルDXにおける計算科学とシミュレーション技術の概要とトピックス、市場規模、関連する企業や大学などの動向が掲載され必要な情報が得られます",
+    "url": "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vLrTg_zINF8-GsgkZjoepq5hp_hyjBMSo5mDlxWoLbHQfyTW7Vf",
+    "pass": 3
+   },
+   {
+    "quote": "「第3章：AI・機械学習による材料設計」では、マテリアルDXにおけるAI・機械学習による材料設計のトピックス、市場規模、関連する企業や大学などの動向が掲載され必要な情報が得られます",
+    "url": "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vLrTg_zINF8-GsgkZjoepq5hp_hyjBMSo5mDlxWoLbHQfyTW7Vf",
+    "pass": 3
+   },
+   {
+    "quote": "「第4章：有機材料インフォマティクス」では、マテリアルDXにおける有機材料インフォマティクスの概要とトピックス、市場規模、関連する企業や大学などの動向が掲載され必要な情報が得られます",
+    "url": "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vLrTg_zINF8-GsgkZjoepq5hp_hyjBMSo5mDlxWoLbHQfyTW7Vf",
+    "pass": 3
+   },
+   {
+    "quote": "「第5章：無機材料インフォマティクス」では、マテリアルDXにおける無機材料インフォマティクスの概要とトピックス、市場規模、関連する企業や大学などの動向が掲載され必要な情報が得られます",
+    "url": "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vLrTg_zINF8-GsgkZjoepq5hp_hyjBMSo5mDlxWoLbHQfyTW7Vf",
+    "pass": 3
+   },
+   {
+    "quote": "4．マテリアルDXにおけるプロセス・インフォマティクス（PI）の市場規模予測",
+    "url": "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vLrTg_zINF8-GsgkZjoepq5hp_hyjBMSo5mDlxWoLbHQfyTW7Vf",
+    "pass": 3
+   },
+   {
+    "quote": "WW市場規模予測（金額：2025-2050年予測）】",
+    "url": "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vLrTg_zINF8-GsgkZjoepq5hp_hyjBMSo5mDlxWoLbHQfyTW7Vf",
+    "pass": 3
+   },
+   {
+    "quote": "【図・表2．マテリアルDXプロセス・インフォマティクスの分類別国内市場規模予測",
+    "url": "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vLrTg_zINF8-GsgkZjoepq5hp_hyjBMSo5mDlxWoLbHQfyTW7Vf",
+    "pass": 3
+   },
+   {
+    "quote": "【図・表3．マテリアルDXプロセス・インフォマティクスの分類別WW市場規模予測",
+    "url": "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vLrTg_zINF8-GsgkZjoepq5hp_hyjBMSo5mDlxWoLbHQfyTW7Vf",
+    "pass": 3
+   },
+   {
+    "quote": "3．マテリアルDXにおける計算科学とシミュレーション技術の市場規模予測",
+    "url": "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vLrTg_zINF8-GsgkZjoepq5hp_hyjBMSo5mDlxWoLbHQfyTW7Vf",
+    "pass": 3
+   },
+   {
+    "quote": "The global market for external provision of materials informatics will reach US$725 million by 2034, representing 9.0% CAGR vs. 2025.",
+    "url": "https://www.idtechex.com/ja/research-report/materials-informatics-2025/1096",
+    "pass": 3
+   },
+   {
+    "quote": "マテリアルズ・インフォマティクスのサービスプロバイダーの収益は2028年までに5億ドルを超え、研究開発は一変することに",
+    "url": "https://www.idtechex.com/ja/research-report/materials-informatics-2025/1096",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル市場も2025年までに数千億円規模に拡大すると見込まれており、材料開発の標準的な手法として定着しつつあります",
+    "url": "https://www.mi-seek.com/knowledge/future-prospects.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年までに数千億円規模に達する",
+    "url": "https://www.mi-seek.com/knowledge/future-prospects.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 251.17 Mn",
+    "url": "https://www.precedenceresearch.com/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 1,314.25 Mn",
+    "url": "https://www.precedenceresearch.com/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size in 2025",
+    "url": "https://www.precedenceresearch.com/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 208.41 Million",
+    "url": "https://www.precedenceresearch.com/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size in 2026",
+    "url": "https://www.precedenceresearch.com/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 251.17 Million",
+    "url": "https://www.precedenceresearch.com/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size by 2035",
+    "url": "https://www.precedenceresearch.com/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 1,314.25 Million",
+    "url": "https://www.precedenceresearch.com/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Materials Informatics Market Revenue, By Material, 2023 to 2025 (USD Million)",
+    "url": "https://www.precedenceresearch.com/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Materials Informatics Market Revenue, By Application, 2023 to 2025 (USD Million)",
+    "url": "https://www.precedenceresearch.com/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Materials Informatics Market Revenue, By Technique, 2023 to 2025 (USD Million)",
+    "url": "https://www.precedenceresearch.com/material-informatics-market",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "マテリアル・インフォマティクス市場は、2025年に7億1,995万米ドルと評価され、2026年には8億4,846万米ドルに成長し、CAGR18.34％で推移し、2032年までに23億4,119万米ドルに達すると予測されています",
+    "url": "https://newscast.jp/smart/news/8350130",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR（%） 18.34%",
+    "url": "https://newscast.jp/smart/news/8350130",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRは18.34%です",
+    "url": "https://newscast.jp/smart/news/8350130",
+    "pass": 3
+   },
+   {
+    "quote": "マテリアル・インフォマティクス市場は、2032年までにCAGR18.34％で5億8,382万米ドル規模に拡大すると予測されています",
+    "url": "https://www.gii.co.jp/report/ires2102877-material-informatics-market-global-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRは18.34%です",
+    "url": "https://www.gii.co.jp/report/ires2102877-material-informatics-market-global-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "(3)産業利用拡大の取組",
+    "url": "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIGp2sFx1LkiET3WZSYbVaBEz1DAVl4PK1mfhPIzFsZmci3l3KT",
+    "pass": 3
+   },
+   {
+    "quote": "(3)計算科学の産業応用の拡大",
+    "url": "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIGp2sFx1LkiET3WZSYbVaBEz1DAVl4PK1mfhPIzFsZmci3l3KT",
+    "pass": 3
+   },
+   {
+    "quote": "マテリアル・インフォマティクス市場は、2025年に7億1,995万米ドルと評価され、2026年には8億4,846万米ドルに成長し、CAGR18.34％で推移し、2032年までに23億4,119万米ドルに達すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/8350130",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR（%） 18.34%",
+    "url": "https://www.atpress.ne.jp/news/8350130",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRは18.34%です",
+    "url": "https://www.atpress.ne.jp/news/8350130",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間中に年平均成長率 (CAGR) 23.24% で成長すると予測されています",
+    "url": "https://cervicornconsultingmarketnews.inkrich.com/posts/6/",
+    "pass": 3
+   },
+   {
+    "quote": "レポートによれば、世界のマテリアルインフォマティクス市場は、2024年の1億7,302万米ドルと比較して、2035年までに13億7,640万米ドルに達し、年平均成長率 20.81% という顕著な拡大を遂げると予測されている",
+    "url": "https://www.dreamnews.jp/press/0000327907",
+    "pass": 3
+   },
+   {
+    "quote": "(3)産業利用拡大の取組",
+    "url": "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vLrTg_zINF8-GsgkZjoepq5hp_hyjBMSo5mDlxWoLbHQfyTW7Vf",
+    "pass": 3
+   },
+   {
+    "quote": "(3)計算科学の産業応用の拡大",
+    "url": "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vLrTg_zINF8-GsgkZjoepq5hp_hyjBMSo5mDlxWoLbHQfyTW7Vf",
+    "pass": 3
+   },
+   {
+    "quote": "The global market for external provision of materials informatics will reach US$725 million by 2034, representing 9.0% CAGR vs. 2025.",
+    "url": "https://www.idtechex.com/ja/research-report/materials-informatics-2025/1096",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル市場も2025年までに数千億円規模に拡大すると見込まれており、材料開発の標準的な手法として定着しつつあります",
+    "url": "https://www.mi-seek.com/knowledge/future-prospects.html",
+    "pass": 3
+   },
+   {
+    "quote": "By technique, the digital annealer segment captured 24.22% share in 2025, but the deep tensor segment is projected to expand at the highest CAGR .",
+    "url": "https://www.precedenceresearch.com/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 20.22%",
+    "url": "https://www.precedenceresearch.com/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "According to Precedence Research, the U.S. materials informatics market size is valued at USD 69.65 million in 2025 and is expected to grow from USD 83.73 million in 2026 to nearly USD 428.11 million by 2035, accelerating at a notable CAGR of 19.91% from 2026 to 2035.",
+    "url": "https://www.precedenceresearch.com/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America materials informatics market size was valued at USD 67.82 million in 2024 and it is expanding around USD 423.88 million by 2034 with a CAGR of 20.10% from 2025 to 2034.",
+    "url": "https://www.precedenceresearch.com/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Europe materials informatics market size was estimated at USD 46.50 million in 2024 and it is projected to hit around USD 309.13 million by 2034 and growing at a CAGR of 20.9% from 2025 to 2034.",
+    "url": "https://www.precedenceresearch.com/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "China materials informatics market size was accounted for USD 11.99 million in 2024 and it is projected to reach around USD 88.19 million by 2034 registering at a CAGR of 22.1% from 2025 to 2034.",
+    "url": "https://www.precedenceresearch.com/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan materials informatics market size was exhibited at USD 3.67 million in 2024 and it is anticipated to surpass around USD 31.38 million by 2034 with a CAGR of 23.9% from 2025 to 2034.",
+    "url": "https://www.precedenceresearch.com/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 2: What is the CAGR of global materials informatics market?",
+    "url": "https://www.precedenceresearch.com/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global materials informatics market is expected to drive growth at a CAGR of 20.22% between 2026 and 2035.",
+    "url": "https://www.precedenceresearch.com/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global market for external provision of materials informatics will reach US$725 million by 2034, representing 9.0% CAGR vs. 2025.",
+    "url": "https://www.idtechex.com/en/research-report/materials-informatics-2025/1096",
+    "pass": 3
+   },
+   {
+    "quote": "18.6 % CAGR",
+    "url": "https://www.insightaceanalytic.com/report/material-informatics-market/2305",
+    "pass": 3
+   },
+   {
+    "quote": "Material Informatics Market is expected to grow at a 18.6% CAGR during the forecast period for 2026- 2035.",
+    "url": "https://www.insightaceanalytic.com/report/material-informatics-market/2305",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 18.6% from 2026 to 2035",
+    "url": "https://www.insightaceanalytic.com/report/material-informatics-market/2305",
+    "pass": 3
+   },
+   {
+    "quote": "Representation of revenue in US$ Mn and CAGR from 2026 to 2035",
+    "url": "https://www.insightaceanalytic.com/report/material-informatics-market/2305",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 20.5%",
+    "url": "https://www.meticulousresearch.com/product/materials-informatics-market-6787",
+    "pass": 3
+   },
+   {
+    "quote": "20.5% CAGR",
+    "url": "https://www.meticulousresearch.com/product/materials-informatics-market-6787",
+    "pass": 3
+   },
+   {
+    "quote": "at 20.5% CAGR",
+    "url": "https://www.meticulousresearch.com/product/materials-informatics-market-6787",
+    "pass": 3
+   },
+   {
+    "quote": "growing at a CAGR of 20.5% during 2026 to 2036.",
+    "url": "https://www.meticulousresearch.com/product/materials-informatics-market-6787",
+    "pass": 3
+   },
+   {
+    "quote": "~6.4× expansion 2026–2036 at 20.5% CAGR",
+    "url": "https://www.meticulousresearch.com/product/materials-informatics-market-6787",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2024–2030",
+    "url": "https://www.grandviewresearch.com/industry-analysis/material-informatics-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2024-2030): 16.5%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/material-informatics-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 16.5% from 2024 to 2030",
+    "url": "https://www.grandviewresearch.com/industry-analysis/material-informatics-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD million/billion and CAGR from 2024 to 2030",
+    "url": "https://www.grandviewresearch.com/industry-analysis/material-informatics-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The global material informatics market is expected to grow at a CAGR of 16.5% from 2024 to 2030, reaching USD 390.8 million by 2030.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/material-informatics-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The global market for external provision of materials informatics will reach US$605 million by 2037, representing 5.3% CAGR vs. 2027.",
+    "url": "https://www.idtechex.com/en/research-report/materials-informatics/1183",
+    "pass": 3
+   },
+   {
+    "quote": "The global material informatics market size was valued at USD 170.08 million in 2025. The market is projected to account for an 19.7% CAGR from 2026 to 2034. The rising use of artificial intelligence (AI) and machine learning (ML) for material discovery and development is shaping the market landscape. The rising emphasis on standardizing materials data is also shaping the market landscape.",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026 - 2034)",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific is projected to witness the fastest growth. The material informatics market CAGR for the regional market is expected to be 23.11%. The region is witnessing rising investments in material science across emerging economies. Asia Pacific also benefits from a strong electronics base.",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "By application, the synthesis route prediction segment is projected to grow at an 24.69% CAGR. Synthesis method prediction enables researchers to find methods suitable for obtaining the desired material.",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD million and CAGR from 2026 to 2034",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "The material informatics market is expected to grow at an 19.7% CAGR from 2026 to 2034.",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific is projected to witness the fastest growth at an 23.11% CAGR. There is increasing research into materials in the region within the emerging countries. In addition, there is growing investment in state-of-the-art manufacturing and research facilities.",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026 - 2036):",
+    "url": "https://www.factmr.com/report/materials-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026 to 2036)",
+    "url": "https://www.factmr.com/report/materials-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "All major regional markets reflect differentiated growth parameters. China sets the pace at 24.8% CAGR. India registers at 23.7% CAGR. South Korea registers at 22.4% CAGR. Japan registers at 21.3% CAGR. Germany registers at 20.1% CAGR. USA registers at 19.8% CAGR. UK registers at 18.9% CAGR.",
+    "url": "https://www.factmr.com/report/materials-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top Country Growth Comparison Materials Informatics Market Cagr (2026 2036) | Source: Fact.MR",
+    "url": "https://www.factmr.com/report/materials-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2036)",
+    "url": "https://www.factmr.com/report/materials-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 246.95 million to USD 1348.34 million, at a CAGR of 18.5%",
+    "url": "https://www.factmr.com/report/materials-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Demand for Materials Informatics is expected to grow at a CAGR of 18.5% between 2026 and 2036.",
+    "url": "https://www.factmr.com/report/materials-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "China is projected to grow at a CAGR of 24.8% during 2026 to 2036.",
+    "url": "https://www.factmr.com/report/materials-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global market for Material Informatics was estimated at US$134.0 Million in 2025 and is projected to reach US$398.3 Million by 2032, growing at a CAGR of 16.8% from 2025 to 2032. This comprehensive report provides an in-depth analysis of market trends, drivers, and forecasts, helping you make informed business decisions.",
+    "url": "https://finance.yahoo.com/technology/articles/material-informatics-market-forecasts-growth-091300751.html",
+    "pass": 3
+   },
+   {
+    "quote": "Market Growth: Understand the significant growth trajectory of the Elements Material segment, which is expected to reach US$257.0 Million by 2032 with a CAGR of 18.5%. The Chemicals Material segment is also set to grow at 13.8% CAGR over the analysis period.",
+    "url": "https://finance.yahoo.com/technology/articles/material-informatics-market-forecasts-growth-091300751.html",
+    "pass": 3
+   },
+   {
+    "quote": "Regional Analysis: Gain insights into the U.S. market, valued at $41.4 Million in 2025, and China, forecasted to grow at an impressive 22.8% CAGR to reach $107.3 Million by 2032. Discover growth trends in other key regions, including Japan, Canada, Germany, and the Asia-Pacific.",
+    "url": "https://finance.yahoo.com/technology/articles/material-informatics-market-forecasts-growth-091300751.html",
+    "pass": 3
+   },
+   {
+    "quote": "The compound annual growth rate (CAGR) from 2025 to 2033 is projected at 20.2%, underscoring the rapid evolution of this market.",
+    "url": "https://metastatinsight.com/blogdetails/top-20-material-informatics-companies",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "マテリアル・インフォマティクスの主要企業はどこですか？",
+    "url": "https://newscast.jp/smart/news/8350130",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業はどこですか？",
+    "url": "https://www.gii.co.jp/report/ires2102877-material-informatics-market-global-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要プレイヤー動向、2025年～2050年までの予測、といったマーケティングに必要な情報を収録",
+    "url": "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIGp2sFx1LkiET3WZSYbVaBEz1DAVl4PK1mfhPIzFsZmci3l3KT",
+    "pass": 3
+   },
+   {
+    "quote": "マテリアル・インフォマティクスの主要企業はどこですか？",
+    "url": "https://www.atpress.ne.jp/news/8350130",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の製品ポートフォリオに関する詳細な情報",
+    "url": "https://cervicornconsultingmarketnews.inkrich.com/posts/6/",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の市場戦略、地理、事業セグメントの詳細な評価",
+    "url": "https://cervicornconsultingmarketnews.inkrich.com/posts/6/",
+    "pass": 3
+   },
+   {
+    "quote": "主要プレイヤー動向、2025年～2050年までの予測、といったマーケティングに必要な情報を収録",
+    "url": "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vLrTg_zINF8-GsgkZjoepq5hp_hyjBMSo5mDlxWoLbHQfyTW7Vf",
+    "pass": 3
+   },
+   {
+    "quote": "参入企業概要、技術進歩、市場展望、戦略的アプローチ",
+    "url": "https://www.idtechex.com/ja/research-report/materials-informatics-2025/1096",
+    "pass": 3
+   },
+   {
+    "quote": "参入企業分析",
+    "url": "https://www.idtechex.com/ja/research-report/materials-informatics-2025/1096",
+    "pass": 3
+   },
+   {
+    "quote": "業界参入企業データ",
+    "url": "https://www.idtechex.com/ja/research-report/materials-informatics-2025/1096",
+    "pass": 3
+   },
+   {
+    "quote": "Interview based profiles of many key companies are included within this IDTechEx report.",
+    "url": "https://www.idtechex.com/ja/research-report/materials-informatics-2025/1096",
+    "pass": 3
+   },
+   {
+    "quote": "Materials Informatics Market Size, Key Companies, Company Product Portfolio, Digital Transformation, Technology Investment, Adoption Rates, Customer Acquisition, and Competitive Landscape",
+    "url": "https://www.precedenceresearch.com/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.precedenceresearch.com/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the Key Companies in the Material Informatics Market?",
+    "url": "https://www.precedenceresearch.com/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Major players include Schrödinger, Kebotix, Citrine Informatics, Domo Chemicals, DeepMatter Group, and Exabyte.io, focusing on AI integration and partnerships .",
+    "url": "https://www.precedenceresearch.com/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players:",
+    "url": "https://www.precedenceresearch.com/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players:",
+    "url": "https://www.precedenceresearch.com/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 3: Who are the leading players and their market statistics in the global materials informatics market?",
+    "url": "https://www.precedenceresearch.com/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "The leading players in the global materials informatics market are Exabyte.io, Alpine Electronics Inc., Phaseshift Technologies, Nutonian Inc., Schrodinger, Citrine Informatics, Materials Zone Ltd., BASF, Kebotix, AI Materia.",
+    "url": "https://www.precedenceresearch.com/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Interview based profiles of many key companies are included within this IDTechEx report.",
+    "url": "https://www.idtechex.com/en/research-report/materials-informatics-2025/1096",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.insightaceanalytic.com/report/material-informatics-market/2305",
+    "pass": 3
+   },
+   {
+    "quote": "Some Major Key Players In The Material Informatics Market:",
+    "url": "https://www.insightaceanalytic.com/report/material-informatics-market/2305",
+    "pass": 3
+   },
+   {
+    "quote": "Other prominent players",
+    "url": "https://www.insightaceanalytic.com/report/material-informatics-market/2305",
+    "pass": 3
+   },
+   {
+    "quote": "Free customization report with the procurement of the report and modifications to the regional and segment scope. Particular Geographic competitive landscape.",
+    "url": "https://www.insightaceanalytic.com/report/material-informatics-market/2305",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players of the Material Informatics Market ?",
+    "url": "https://www.insightaceanalytic.com/report/material-informatics-market/2305",
+    "pass": 3
+   },
+   {
+    "quote": "See the data, methodology, and competitive landscape preview & delivered to your inbox shortly.",
+    "url": "https://www.insightaceanalytic.com/report/material-informatics-market/2305",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies",
+    "url": "https://www.meticulousresearch.com/product/materials-informatics-market-6787",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.meticulousresearch.com/product/materials-informatics-market-6787",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape",
+    "url": "https://www.meticulousresearch.com/product/materials-informatics-market-6787",
+    "pass": 3
+   },
+   {
+    "quote": "Companies profiled (",
+    "url": "https://www.meticulousresearch.com/product/materials-informatics-market-6787",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the leading players in the materials informatics market?",
+    "url": "https://www.meticulousresearch.com/product/materials-informatics-market-6787",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/material-informatics-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/material-informatics-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in material informatics market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/material-informatics-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Some key players operating in the material informatics market include ABB, Citrine Informatics, Dassault Systemes, Elsevier, Hitachi High-Tech Corporation, International Business Machines Corporation, Lattice Technology, Inc., Microsoft, Phaseshift Technologies Inc., and Schrodinger, Inc.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/material-informatics-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://finance.yahoo.com/news/material-informatics-market-forecast-report-104800147.html",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Assessment: In-depth assessment of market shares, growth strategies, and service offerings of leading players Schrodinger, Inc. (US), Dassault Systemes (France), Exabyte Inc. (US), Citrine Informatics (US), Phaseshift Technologies (Canada), and AI Materia (Canada) among others in the material informatics market.",
+    "url": "https://finance.yahoo.com/news/material-informatics-market-forecast-report-104800147.html",
+    "pass": 3
+   },
+   {
+    "quote": "Companies Profiled",
+    "url": "https://finance.yahoo.com/news/material-informatics-market-forecast-report-104800147.html",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies operating in the global material informatics market. Based on the availability of data, information related to new products, and relevant news is also available in the report.",
+    "url": "https://www.omrglobal.com/industry-reports/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "4. Competitive Landscape",
+    "url": "https://www.omrglobal.com/industry-reports/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape & Key Players",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "List of Key Companies",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Market Competitive Landscape, Growth Factors, and Industry Trends",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players include Citrine Informatics; Dassault Systèmes BIOVIA; Schrödinger, Inc.; MaterialsZone; Mat3ra; Kebotix; Intellegens; Phaseshift Technologies; Noble.AI; Synopsys (Granta MI); Aionics, Inc.; Materials Design, Inc.; DeepMaterials; Hitachi High-Tech; and SandboxAQ.",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "11. Competitive Landscape",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape of Materials Informatics Market",
+    "url": "https://www.factmr.com/report/materials-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players in the Materials Informatics Market",
+    "url": "https://www.factmr.com/report/materials-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.factmr.com/report/materials-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Material Informatics Market Forecasts Growth from $134M (2025) to $398.3M by 2032, Profiling Schrödinger, Citrine Informatics, Dassault Systèmes, BASF & 16 Other Key Players",
+    "url": "https://finance.yahoo.com/technology/articles/material-informatics-market-forecasts-growth-091300751.html",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Insights: Get an overview of the competitive landscape, including the market presence of major players across different geographies.",
+    "url": "https://finance.yahoo.com/technology/articles/material-informatics-market-forecasts-growth-091300751.html",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the leading players in the market, and what are their prospects?",
+    "url": "https://finance.yahoo.com/technology/articles/material-informatics-market-forecasts-growth-091300751.html",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "市場シェア分析、2025年",
+    "url": "https://www.gii.co.jp/report/ires2102877-material-informatics-market-global-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "マテリアルインフォマティクス市場- 世界の産業規模、シェア、動向、機会、および予測（用途別、材料タイプ別、技術別、地域別、競合別）、2020-2030年予測",
+    "url": "https://www.gii.co.jp/report/ires2102877-material-informatics-market-global-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "マテリアルズインフォマティクス市場規模、シェア、トレンド、成長2024-2033年 | 記事 | ブログ",
+    "url": "https://cervicornconsultingmarketnews.inkrich.com/posts/6/",
+    "pass": 3
+   },
+   {
+    "quote": "マテリアルズインフォマティクス市場規模、シェア、トレンド、成長2024-2033年",
+    "url": "https://cervicornconsultingmarketnews.inkrich.com/posts/6/",
+    "pass": 3
+   },
+   {
+    "quote": "電解装置市場の規模、シェア、傾向、成長 2024-2033",
+    "url": "https://cervicornconsultingmarketnews.inkrich.com/posts/6/",
+    "pass": 3
+   },
+   {
+    "quote": "冷蔵倉庫市場の規模、シェア、動向 2024-2033",
+    "url": "https://cervicornconsultingmarketnews.inkrich.com/posts/6/",
+    "pass": 3
+   },
+   {
+    "quote": "持続可能な航空燃料市場規模、シェア 2024-2033",
+    "url": "https://cervicornconsultingmarketnews.inkrich.com/posts/6/",
+    "pass": 3
+   },
+   {
+    "quote": "マテリアルズ・インフォマティクス市場の需要、シェア、動向、成長、機会および洞察分析（2025年～2035年） | ＫＤマーケットインサイツ株式会社のプレスリリース",
+    "url": "https://www.dreamnews.jp/press/0000327907",
+    "pass": 3
+   },
+   {
+    "quote": "マテリアルズ・インフォマティクス市場の需要、シェア、動向、成長、機会および洞察分析（2025年～2035年）",
+    "url": "https://www.dreamnews.jp/press/0000327907",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造業はGDPの20%以上を占め、ソフトウェアソリューションへの投資額は約129億米ドルに上ります",
+    "url": "https://www.dreamnews.jp/press/0000327907",
+    "pass": 3
+   },
+   {
+    "quote": "工業素材は日本の輸出産業の約20％を占めており、世界市場で過半数のシェアを占めるマテリアル製品も多数存在しています",
+    "url": "https://www.mitsubishielectric.co.jp/medigital/column/biz/012/",
+    "pass": 3
+   },
+   {
+    "quote": "日本でマテリアルズ・インフォマティクスの需要が高まる理由として、工業素材が輸出産業の約20％を占めていることが挙げられます",
+    "url": "https://www.libcon.co.jp/column/materials-informatics/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年のMatterSimやEquformerV2の登場以降も、あらゆる元素に対応した汎用モデルの報告は2025年も相次ぎ、前半はリーダーボードの上位が1ヶ月おきに入れ替わるような状態でした",
+    "url": "https://yokoyamatomoyasu.github.io/mi-paper-2025",
+    "pass": 3
+   },
+   {
+    "quote": "2024年までは、エネルギーの予測精度は良いが原子間力はあまり良くない、などモデルごとに一長一短がありましたが、多面的なベンチマーク指標も構築され、上位モデルはどれでも一通りのことはできるという印象です",
+    "url": "https://yokoyamatomoyasu.github.io/mi-paper-2025",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominated with a 39.00% share in 2025, driven by strong adoption in pharmaceuticals, electronics, and chemicals",
+    "url": "https://www.precedenceresearch.com/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "By end user, chemical & petrochemical industries accounted for a 23.95% share in 2025, remaining the largest contributor.",
+    "url": "https://www.precedenceresearch.com/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is dominated by North America, which held the largest market share in 2024, but the Asia-Pacific region is projected to be the fastest-growing regional market over the forecast period.",
+    "url": "https://www.precedenceresearch.com/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "China materials informatics market size was accounted for USD 11.99 million in 2024 and it is projected to reach around USD 88.19 million by 2034 registering at a CAGR of 22.1% from 2025 to 2034.",
+    "url": "https://www.precedenceresearch.com/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominated the global materials informatics market with the highest revenue share in the year 2026 owing to high technology penetration rate in the region.",
+    "url": "https://www.precedenceresearch.com/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Chemicals category is expected to hold a major share of the global Material Informatics Market in 2022. The expansion can be attributed to various sources, such as the",
+    "url": "https://www.insightaceanalytic.com/report/material-informatics-market/2305",
+    "pass": 3
+   },
+   {
+    "quote": "The software & platforms segment holds the largest market share in 2026,",
+    "url": "https://www.meticulousresearch.com/product/materials-informatics-market-6787",
+    "pass": 3
+   },
+   {
+    "quote": "accounts for the largest share of the global market in 2026, supported by strong R&D spending and a deep base of technology providers.",
+    "url": "https://www.meticulousresearch.com/product/materials-informatics-market-6787",
+    "pass": 3
+   },
+   {
+    "quote": "Which segments hold large market shares in the materials informatics market during 2026 to 2036?",
+    "url": "https://www.meticulousresearch.com/product/materials-informatics-market-6787",
+    "pass": 3
+   },
+   {
+    "quote": "The North America material informatics market dominated globally and held a 39.6% share in 2023.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/material-informatics-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By Material Type, the elements segment led the market and accounted for 38.0% of the global revenue share in 2023.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/material-informatics-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By Technology, the machine learning segment accounted for the largest market revenue share in 2023.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/material-informatics-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The machine learning segment accounted for the largest market revenue share in 2023. The",
+    "url": "https://www.grandviewresearch.com/industry-analysis/material-informatics-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominated the material informatics market with a share of 39.6% in 2023. This is attributable to the region's early adoption of advanced AI and machine learning technologies in material science and the strong presence of leading technology companies and academic institutions.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/material-informatics-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Global Material Informatics Market Share By Material Type, 2024 Vs 2035 (%)",
+    "url": "https://www.omrglobal.com/industry-reports/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Elements Material Informatics Market Share By Region, 2024 Vs 2035 (%)",
+    "url": "https://www.omrglobal.com/industry-reports/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Chemical Material Informatics Market Share By Region, 2024 Vs 2035 (%)",
+    "url": "https://www.omrglobal.com/industry-reports/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Other Material Type Informatics Market Share By Region, 2024 Vs 2035 (%)",
+    "url": "https://www.omrglobal.com/industry-reports/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Material Informatics Market Share By End-Use, 2024 Vs 2035 (%)",
+    "url": "https://www.omrglobal.com/industry-reports/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Material Informatics For Chemical & Pharmaceutical Market Share By Region, 2024 Vs 2035 (%)",
+    "url": "https://www.omrglobal.com/industry-reports/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Material Informatics For Materials Science Market Share By Region, 2024 Vs 2035 (%)",
+    "url": "https://www.omrglobal.com/industry-reports/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Material Informatics For Manufacturing Market Share By Region, 2024 Vs 2035 (%)",
+    "url": "https://www.omrglobal.com/industry-reports/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Material Informatics For Food Science Market Share By Region, 2024 Vs 2035 (%)",
+    "url": "https://www.omrglobal.com/industry-reports/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Material Informatics For Energy Market Share By Region, 2024 Vs 2035 (%)",
+    "url": "https://www.omrglobal.com/industry-reports/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Material Informatics For Other End-Use Market Share By Region, 2024 Vs 2035 (%)",
+    "url": "https://www.omrglobal.com/industry-reports/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Material Informatics Market Share By Region, 2024 Vs 2035 (%)",
+    "url": "https://www.omrglobal.com/industry-reports/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Material Informatics Market Share and Forecast,2026-2034",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global material informatics market size was valued at USD 170.08 million in 2025. The market is projected to account for an 19.7% CAGR from 2026 to 2034. The rising use of artificial intelligence (AI) and machine learning (ML) for material discovery and development is shaping the market landscape. The rising emphasis on standardizing materials data is also shaping the market landscape.",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "By deployment, the cloud-based segment accounted for an 64.72% share in 2025. This is owing to the flexibility and scalability offered by cloud-based material informatics platforms.",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Which technology segment accounted for the largest market share in 2025?",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "The machine learning segment dominated with an 34.72% share in 2025. Machine learning can identify patterns from large-scale data. Machine learning algorithms can also help predict the properties of batteries, polymers, and alloys.",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "By Technique, Digital Annealer Segment Accounts for Significant 37.6% Market Share",
+    "url": "https://www.factmr.com/report/materials-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Digital annealer materials informatics systems are projected to account for a substantial portion of 37.6% of the materials informatics market in 2025. This share is supported by enhanced computational efficiency capabilities and superior optimization characteristics.",
+    "url": "https://www.factmr.com/report/materials-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "By Material, Chemicals Segment Accounts for 34.7% Dominant Market Share",
+    "url": "https://www.factmr.com/report/materials-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial applications, including polymer development and specialty chemicals, represent additional growth opportunities where the superior predictive performance of materials informatics provides competitive advantages in research productivity and development optimization. Within the chemicals segment, polymers command a leading share of 18.9%, followed by organic compounds at 15.8%.",
+    "url": "https://www.factmr.com/report/materials-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "By Application, Chemical Industries Segment Accounts for 29.8% Dominant Market Share",
+    "url": "https://www.factmr.com/report/materials-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "By Deployment, Cloud-based Segment Accounts for 51.2% Market Share",
+    "url": "https://www.factmr.com/report/materials-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "How will market shares for different regions and segments change by 2032?",
+    "url": "https://finance.yahoo.com/technology/articles/material-informatics-market-forecasts-growth-091300751.html",
+    "pass": 3
+   },
+   {
+    "quote": "Top 30 Companies Global Stainless Steel Sheet and Plate Industry",
+    "url": "https://metastatinsight.com/blogdetails/top-20-material-informatics-companies",
+    "pass": 3
+   },
+   {
+    "quote": "Top 30 Companies Global Utility Poles Industry",
+    "url": "https://metastatinsight.com/blogdetails/top-20-material-informatics-companies",
+    "pass": 3
+   },
+   {
+    "quote": "Top 30 Companies Global Specialty Fats and Oils Industry",
+    "url": "https://metastatinsight.com/blogdetails/top-20-material-informatics-companies",
+    "pass": 3
+   },
+   {
+    "quote": "Top 30 Companies Global Supply Chain Strategy and Operations Consulting Industry",
+    "url": "https://metastatinsight.com/blogdetails/top-20-material-informatics-companies",
+    "pass": 3
+   },
+   {
+    "quote": "Top 30 Companies Global Dry Bulk Shipping Industry",
+    "url": "https://metastatinsight.com/blogdetails/top-20-material-informatics-companies",
+    "pass": 3
+   },
+   {
+    "quote": "Top 30 Companies Global ATV & UTV Industry",
+    "url": "https://metastatinsight.com/blogdetails/top-20-material-informatics-companies",
+    "pass": 3
+   },
+   {
+    "quote": "Top 30 Companies Global MLCC Capacitors Industry",
+    "url": "https://metastatinsight.com/blogdetails/top-20-material-informatics-companies",
+    "pass": 3
+   },
+   {
+    "quote": "Top 30 Companies Global Supply Side Platform (SSP) Industry",
+    "url": "https://metastatinsight.com/blogdetails/top-20-material-informatics-companies",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8350130",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造業はGDPの20%以上を占め、ソフトウェアソリューションへの投資額は約129億米ドルに上ります",
+    "url": "https://www.dreamnews.jp/press/0000327907",
+    "pass": 3
+   },
+   {
+    "quote": "https://t.co/VC15NCHWOk",
+    "url": "https://yokoyamatomoyasu.github.io/mi-paper-2025",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific is projected to witness the fastest growth. The material informatics market CAGR for the regional market is expected to be 23.11%. The region is witnessing rising investments in material science across emerging economies. Asia Pacific also benefits from a strong electronics base.",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America led with an 37.82% share in 2025. The region has a well-established foundation of materials research. North America also benefits from rising investments in artificial intelligence and digital platforms.",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific is projected to witness the fastest growth at an 23.11% CAGR. There is increasing research into materials in the region within the emerging countries. In addition, there is growing investment in state-of-the-art manufacturing and research facilities.",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "1. U.S. Department of Energy. (2024). Materials Genome Initiative: Strategic plan update and funding report. DOE.",
+    "url": "https://www.factmr.com/report/materials-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "By 2022, the market grew to USD 120.5 Million, reflecting heightened interest and investment in material informatics technologies.",
+    "url": "https://metastatinsight.com/blogdetails/top-20-material-informatics-companies",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "マテリアルズインフォマティクス 開発 会社10社 - Metoree — マテリアルズインフォマティクス 開発 会社10社 - Metoree Metoree https://metoree.com > サービス",
+    "url": "https://metoree.com/categories/8864/",
+    "pass": 3
+   },
+   {
+    "quote": "Materials Informatics Market Companies, Size & Trends 2026 ... — Materials Informatics Market Companies, Size & Trends 2026 ... Precedence Research https://www.precedenceresearch.com > ...",
+    "url": "https://www.precedenceresearch.com/material-informatics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Materials Informatics 2025 -2035: Markets, Strategies, Players — Materials Informatics 2025 -2035: Markets, Strategies, Players IDTechEx https://www.idtechex.com > materials...",
+    "url": "https://www.idtechex.com/en/research-report/materials-informatics-2025/1096",
+    "pass": 3
+   },
+   {
+    "quote": "Materials Informatics Market (2026-2036) - Meticulous Research — Materials Informatics Market (2026-2036) - Meticulous Research Meticulous Research https://www.meticulousresearch.com > ...",
+    "url": "https://www.meticulousresearch.com/product/materials-informatics-market-6787",
+    "pass": 3
+   },
+   {
+    "quote": "Materials Informatics 2027-2037: Markets, Strategies, Players — Materials Informatics 2027-2037: Markets, Strategies, Players IDTechEx https://www.idtechex.com > materials...",
+    "url": "https://www.idtechex.com/en/research-report/materials-informatics/1183",
+    "pass": 3
+   },
+   {
+    "quote": "Materials Informatics Market Companies , Size & Trends 2026 ... — Materials Informatics Market Companies , Size & Trends 2026 ... Precedence Research https://www.precedenceresearch.com > ...",
+    "url": "https://www.precedenceresearch.com/material-informatics-market",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "18.34",
+    "url": "https://newscast.jp/smart/news/8350130",
+    "quote": "マテリアル・インフォマティクス市場は、2025年に7億1,995万米ドルと評価され、2026年には8億4,846万米ドルに成長し、CAGR18.34％で推移し、2032年までに23億4,119万米ドルに達すると予測されています"
+   },
+   {
+    "value": "18.34",
+    "url": "https://www.gii.co.jp/report/ires2102877-material-informatics-market-global-forecast.html",
+    "quote": "マテリアル・インフォマティクス市場は、2032年までにCAGR18.34％で5億8,382万米ドル規模に拡大すると予測されています"
+   },
+   {
+    "value": "18.34",
+    "url": "https://www.atpress.ne.jp/news/8350130",
+    "quote": "マテリアル・インフォマティクス市場は、2025年に7億1,995万米ドルと評価され、2026年には8億4,846万米ドルに成長し、CAGR18.34％で推移し、2032年までに23億4,119万米ドルに達すると予測されています"
+   },
+   {
+    "value": "23.24",
+    "url": "https://cervicornconsultingmarketnews.inkrich.com/posts/6/",
+    "quote": "予測期間中に年平均成長率 (CAGR) 23.24% で成長すると予測されています"
+   },
+   {
+    "value": "20.81",
+    "url": "https://www.dreamnews.jp/press/0000327907",
+    "quote": "レポートによれば、世界のマテリアルインフォマティクス市場は、2024年の1億7,302万米ドルと比較して、2035年までに13億7,640万米ドルに達し、年平均成長率 20.81% という顕著な拡大を遂げると予測されている"
+   },
+   {
+    "value": "20.22",
+    "url": "https://www.precedenceresearch.com/material-informatics-market",
+    "quote": "CAGR of 20.22%"
+   },
+   {
+    "value": "19.91",
+    "url": "https://www.precedenceresearch.com/material-informatics-market",
+    "quote": "According to Precedence Research, the U.S. materials informatics market size is valued at USD 69.65 million in 2025 and is expected to grow from USD 83.73 million in 2026 to nearly USD 428.11 million by 2035, accelerating at a notable CAGR of 19.91% from 2026 to 2035."
+   },
+   {
+    "value": "20.10",
+    "url": "https://www.precedenceresearch.com/material-informatics-market",
+    "quote": "North America materials informatics market size was valued at USD 67.82 million in 2024 and it is expanding around USD 423.88 million by 2034 with a CAGR of 20.10% from 2025 to 2034."
+   },
+   {
+    "value": "20.9",
+    "url": "https://www.precedenceresearch.com/material-informatics-market",
+    "quote": "Europe materials informatics market size was estimated at USD 46.50 million in 2024 and it is projected to hit around USD 309.13 million by 2034 and growing at a CAGR of 20.9% from 2025 to 2034."
+   },
+   {
+    "value": "22.1",
+    "url": "https://www.precedenceresearch.com/material-informatics-market",
+    "quote": "China materials informatics market size was accounted for USD 11.99 million in 2024 and it is projected to reach around USD 88.19 million by 2034 registering at a CAGR of 22.1% from 2025 to 2034."
+   },
+   {
+    "value": "23.9",
+    "url": "https://www.precedenceresearch.com/material-informatics-market",
+    "quote": "Japan materials informatics market size was exhibited at USD 3.67 million in 2024 and it is anticipated to surpass around USD 31.38 million by 2034 with a CAGR of 23.9% from 2025 to 2034."
+   },
+   {
+    "value": "18.6",
+    "url": "https://www.insightaceanalytic.com/report/material-informatics-market/2305",
+    "quote": "CAGR of 18.6% from 2026 to 2035"
+   },
+   {
+    "value": "20.5",
+    "url": "https://www.meticulousresearch.com/product/materials-informatics-market-6787",
+    "quote": "CAGR of 20.5%"
+   },
+   {
+    "value": "16.5",
+    "url": "https://www.grandviewresearch.com/industry-analysis/material-informatics-market-report",
+    "quote": "CAGR of 16.5% from 2024 to 2030"
+   },
+   {
+    "value": "23.7",
+    "url": "https://www.factmr.com/report/materials-informatics-market",
+    "quote": "All major regional markets reflect differentiated growth parameters. China sets the pace at 24.8% CAGR. India registers at 23.7% CAGR. South Korea registers at 22.4% CAGR. Japan registers at 21.3% CAGR. Germany registers at 20.1% CAGR. USA registers at 19.8% CAGR. UK registers at 18.9% CAGR."
+   },
+   {
+    "value": "22.4",
+    "url": "https://www.factmr.com/report/materials-informatics-market",
+    "quote": "All major regional markets reflect differentiated growth parameters. China sets the pace at 24.8% CAGR. India registers at 23.7% CAGR. South Korea registers at 22.4% CAGR. Japan registers at 21.3% CAGR. Germany registers at 20.1% CAGR. USA registers at 19.8% CAGR. UK registers at 18.9% CAGR."
+   },
+   {
+    "value": "21.3",
+    "url": "https://www.factmr.com/report/materials-informatics-market",
+    "quote": "All major regional markets reflect differentiated growth parameters. China sets the pace at 24.8% CAGR. India registers at 23.7% CAGR. South Korea registers at 22.4% CAGR. Japan registers at 21.3% CAGR. Germany registers at 20.1% CAGR. USA registers at 19.8% CAGR. UK registers at 18.9% CAGR."
+   },
+   {
+    "value": "20.1",
+    "url": "https://www.factmr.com/report/materials-informatics-market",
+    "quote": "All major regional markets reflect differentiated growth parameters. China sets the pace at 24.8% CAGR. India registers at 23.7% CAGR. South Korea registers at 22.4% CAGR. Japan registers at 21.3% CAGR. Germany registers at 20.1% CAGR. USA registers at 19.8% CAGR. UK registers at 18.9% CAGR."
+   },
+   {
+    "value": "19.8",
+    "url": "https://www.factmr.com/report/materials-informatics-market",
+    "quote": "All major regional markets reflect differentiated growth parameters. China sets the pace at 24.8% CAGR. India registers at 23.7% CAGR. South Korea registers at 22.4% CAGR. Japan registers at 21.3% CAGR. Germany registers at 20.1% CAGR. USA registers at 19.8% CAGR. UK registers at 18.9% CAGR."
+   },
+   {
+    "value": "18.9",
+    "url": "https://www.factmr.com/report/materials-informatics-market",
+    "quote": "All major regional markets reflect differentiated growth parameters. China sets the pace at 24.8% CAGR. India registers at 23.7% CAGR. South Korea registers at 22.4% CAGR. Japan registers at 21.3% CAGR. Germany registers at 20.1% CAGR. USA registers at 19.8% CAGR. UK registers at 18.9% CAGR."
+   },
+   {
+    "value": "18.5",
+    "url": "https://www.factmr.com/report/materials-informatics-market",
+    "quote": "USD 246.95 million to USD 1348.34 million, at a CAGR of 18.5%"
+   },
+   {
+    "value": "24.8",
+    "url": "https://www.factmr.com/report/materials-informatics-market",
+    "quote": "China is projected to grow at a CAGR of 24.8% during 2026 to 2036."
+   },
+   {
+    "value": "16.8",
+    "url": "https://finance.yahoo.com/technology/articles/material-informatics-market-forecasts-growth-091300751.html",
+    "quote": "The global market for Material Informatics was estimated at US$134.0 Million in 2025 and is projected to reach US$398.3 Million by 2032, growing at a CAGR of 16.8% from 2025 to 2032. This comprehensive report provides an in-depth analysis of market trends, drivers, and forecasts, helping you make in"
+   },
+   {
+    "value": "18.5",
+    "url": "https://finance.yahoo.com/technology/articles/material-informatics-market-forecasts-growth-091300751.html",
+    "quote": "Market Growth: Understand the significant growth trajectory of the Elements Material segment, which is expected to reach US$257.0 Million by 2032 with a CAGR of 18.5%. The Chemicals Material segment is also set to grow at 13.8% CAGR over the analysis period."
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "20",
+    "url": "https://www.dreamnews.jp/press/0000327907",
+    "quote": "日本の製造業はGDPの20%以上を占め、ソフトウェアソリューションへの投資額は約129億米ドルに上ります"
+   },
+   {
+    "value": "20",
+    "url": "https://www.mitsubishielectric.co.jp/medigital/column/biz/012/",
+    "quote": "工業素材は日本の輸出産業の約20％を占めており、世界市場で過半数のシェアを占めるマテリアル製品も多数存在しています"
+   },
+   {
+    "value": "20",
+    "url": "https://www.libcon.co.jp/column/materials-informatics/",
+    "quote": "日本でマテリアルズ・インフォマティクスの需要が高まる理由として、工業素材が輸出産業の約20％を占めていることが挙げられます"
+   },
+   {
+    "value": "39.00",
+    "url": "https://www.precedenceresearch.com/material-informatics-market",
+    "quote": "North America dominated with a 39.00% share in 2025, driven by strong adoption in pharmaceuticals, electronics, and chemicals"
+   },
+   {
+    "value": "23.95",
+    "url": "https://www.precedenceresearch.com/material-informatics-market",
+    "quote": "By end user, chemical & petrochemical industries accounted for a 23.95% share in 2025, remaining the largest contributor."
+   },
+   {
+    "value": "22.1",
+    "url": "https://www.precedenceresearch.com/material-informatics-market",
+    "quote": "China materials informatics market size was accounted for USD 11.99 million in 2024 and it is projected to reach around USD 88.19 million by 2034 registering at a CAGR of 22.1% from 2025 to 2034."
+   },
+   {
+    "value": "39.6",
+    "url": "https://www.grandviewresearch.com/industry-analysis/material-informatics-market-report",
+    "quote": "The North America material informatics market dominated globally and held a 39.6% share in 2023."
+   },
+   {
+    "value": "38.0",
+    "url": "https://www.grandviewresearch.com/industry-analysis/material-informatics-market-report",
+    "quote": "By Material Type, the elements segment led the market and accounted for 38.0% of the global revenue share in 2023."
+   },
+   {
+    "value": "19.7",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/material-informatics-market",
+    "quote": "The global material informatics market size was valued at USD 170.08 million in 2025. The market is projected to account for an 19.7% CAGR from 2026 to 2034. The rising use of artificial intelligence (AI) and machine learning (ML) for material discovery and development is shaping the market landscap"
+   },
+   {
+    "value": "64.72",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/material-informatics-market",
+    "quote": "By deployment, the cloud-based segment accounted for an 64.72% share in 2025. This is owing to the flexibility and scalability offered by cloud-based material informatics platforms."
+   },
+   {
+    "value": "34.72",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/material-informatics-market",
+    "quote": "The machine learning segment dominated with an 34.72% share in 2025. Machine learning can identify patterns from large-scale data. Machine learning algorithms can also help predict the properties of batteries, polymers, and alloys."
+   },
+   {
+    "value": "37.6",
+    "url": "https://www.factmr.com/report/materials-informatics-market",
+    "quote": "By Technique, Digital Annealer Segment Accounts for Significant 37.6% Market Share"
+   },
+   {
+    "value": "34.7",
+    "url": "https://www.factmr.com/report/materials-informatics-market",
+    "quote": "By Material, Chemicals Segment Accounts for 34.7% Dominant Market Share"
+   },
+   {
+    "value": "18.9",
+    "url": "https://www.factmr.com/report/materials-informatics-market",
+    "quote": "Industrial applications, including polymer development and specialty chemicals, represent additional growth opportunities where the superior predictive performance of materials informatics provides competitive advantages in research productivity and development optimization. Within the chemicals seg"
+   },
+   {
+    "value": "15.8",
+    "url": "https://www.factmr.com/report/materials-informatics-market",
+    "quote": "Industrial applications, including polymer development and specialty chemicals, represent additional growth opportunities where the superior predictive performance of materials informatics provides competitive advantages in research productivity and development optimization. Within the chemicals seg"
+   },
+   {
+    "value": "29.8",
+    "url": "https://www.factmr.com/report/materials-informatics-market",
+    "quote": "By Application, Chemical Industries Segment Accounts for 29.8% Dominant Market Share"
+   },
+   {
+    "value": "51.2",
+    "url": "https://www.factmr.com/report/materials-informatics-market",
+    "quote": "By Deployment, Cloud-based Segment Accounts for 51.2% Market Share"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://newscast.jp/smart/news/8350130",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/ires2102877-material-informatics-market-global-forecast.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIGp2sFx1LkiET3WZSYbVaBEz1DAVl4PK1mfhPIzFsZmci3l3KT",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/8350130",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cervicornconsultingmarketnews.inkrich.com/posts/6/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/8864/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mi-seek.com/company-list/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dreamnews.jp/press/0000327907",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsubishielectric.co.jp/medigital/column/biz/012/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.libcon.co.jp/column/materials-informatics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vLrTg_zINF8-GsgkZjoepq5hp_hyjBMSo5mDlxWoLbHQfyTW7Vf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idtechex.com/ja/research-report/materials-informatics-2025/1096",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bizdev.reinforz.co.jp/4649",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mi-seek.com/knowledge/future-prospects.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yokoyamatomoyasu.github.io/mi-paper-2025",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/material-informatics-market-237816259.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/material-informatics-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idtechex.com/en/research-report/materials-informatics-2025/1096",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.insightaceanalytic.com/report/material-informatics-market/2305",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meticulousresearch.com/product/materials-informatics-market-6787",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/material-informatics-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/news/material-informatics-market-forecast-report-104800147.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.omrglobal.com/industry-reports/material-informatics-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idtechex.com/en/research-report/materials-informatics/1183",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/ResearchInsight/material-informatics-market.asp",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.uncountable.com/informatics-the-evolution-of-materials-science-in-the-commercial-sector",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.consolidated.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://consolidatednd.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.catnmsplan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sanctionslist.ofac.treas.gov/Home/ConsolidatedList",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.polarismarketresearch.com/industry-analysis/material-informatics-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.factmr.com/report/materials-informatics-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/technology/articles/material-informatics-market-forecasts-growth-091300751.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/material-informatics-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://metastatinsight.com/blogdetails/top-20-material-informatics-companies",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "マテリアルズインフォマティクス 市場規模 CAGR",
+   "results": [
+    "https://newscast.jp/smart/news/8350130",
+    "https://www.gii.co.jp/report/ires2102877-material-informatics-market-global-forecast.html",
+    "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vIGp2sFx1LkiET3WZSYbVaBEz1DAVl4PK1mfhPIzFsZmci3l3KT",
+    "https://www.atpress.ne.jp/news/8350130",
+    "https://cervicornconsultingmarketnews.inkrich.com/posts/6/",
+    "https://bizdev.reinforz.co.jp/4649",
+    "https://www.cmcbooks.co.jp/products/detail.php?product_id=7921",
+    "https://www.sphericalinsights.com/jp/reports/material-informatics-market",
+    "https://note.com/svp_japan/n/nd666fed34554",
+    "https://www.mordorintelligence.com/ja/industry-reports/material-informatics-market"
+   ]
+  },
+  {
+   "query": "マテリアルズインフォマティクス 市場 シェア 上位 企業",
+   "results": [
+    "https://metoree.com/categories/8864/",
+    "https://newscast.jp/smart/news/8350130",
+    "https://www.mi-seek.com/company-list/",
+    "https://www.dreamnews.jp/press/0000327907",
+    "https://www.mitsubishielectric.co.jp/medigital/column/biz/012/",
+    "https://www.libcon.co.jp/column/materials-informatics/",
+    "https://bizdev.reinforz.co.jp/4649",
+    "https://note.com/svp_japan/n/nd666fed34554",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/03088/102700026/",
+    "https://www.mordorintelligence.com/ja/industry-reports/material-informatics-market"
+   ]
+  },
+  {
+   "query": "マテリアルズインフォマティクス 市場 前年比 2025",
+   "results": [
+    "https://www.yano.co.jp/market_reports/C67121000?srsltid=AYCX9vLrTg_zINF8-GsgkZjoepq5hp_hyjBMSo5mDlxWoLbHQfyTW7Vf",
+    "https://www.idtechex.com/ja/research-report/materials-informatics-2025/1096",
+    "https://newscast.jp/smart/news/8350130",
+    "https://www.dreamnews.jp/press/0000327907",
+    "https://bizdev.reinforz.co.jp/4649",
+    "https://www.mi-seek.com/knowledge/future-prospects.html",
+    "https://yokoyamatomoyasu.github.io/mi-paper-2025",
+    "https://note.com/sukechannel/n/n5b274cc60d59",
+    "https://www.nikkei.com/article/DGXZRSP628855_S2A320C2000000/",
+    "https://www.mordorintelligence.com/ja/industry-reports/material-informatics-market"
+   ]
+  },
+  {
+   "query": "materials informatics market size CAGR 2025",
+   "results": [
+    "https://www.marketsandmarkets.com/Market-Reports/material-informatics-market-237816259.html",
+    "https://www.precedenceresearch.com/material-informatics-market",
+    "https://www.idtechex.com/en/research-report/materials-informatics-2025/1096",
+    "https://www.linkedin.com/pulse/materials-informatics-market-size-reach-usd-157293-million-raj-patil-lne2f",
+    "https://www.insightaceanalytic.com/report/material-informatics-market/2305",
+    "https://www.meticulousresearch.com/product/materials-informatics-market-6787",
+    "https://finance.yahoo.com/news/material-informatics-market-grow-20-113400363.html",
+    "https://www.polarismarketresearch.com/industry-analysis/material-informatics-market",
+    "https://www.factmr.com/report/materials-informatics-market",
+    "https://www.mordorintelligence.com/industry-reports/material-informatics-market"
+   ]
+  },
+  {
+   "query": "materials informatics market share top players percent",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/material-informatics-market-report",
+    "https://www.precedenceresearch.com/material-informatics-market",
+    "https://finance.yahoo.com/news/material-informatics-market-forecast-report-104800147.html",
+    "https://www.omrglobal.com/industry-reports/material-informatics-market",
+    "https://www.idtechex.com/en/research-report/materials-informatics/1183",
+    "https://www.marketsandmarkets.com/ResearchInsight/material-informatics-market.asp",
+    "https://luxresearchinc.com/blog/materials-informatics-key-players/",
+    "https://www.meticulousresearch.com/product/materials-informatics-market-6787",
+    "https://www.insightaceanalytic.com/report/material-informatics-market/2305",
+    "https://www.mordorintelligence.com/industry-reports/material-informatics-market"
+   ]
+  },
+  {
+   "query": "materials informatics market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.precedenceresearch.com/material-informatics-market",
+    "https://www.grandviewresearch.com/industry-analysis/material-informatics-market-report",
+    "https://finance.yahoo.com/news/material-informatics-market-forecast-report-104800147.html",
+    "https://www.insightaceanalytic.com/report/material-informatics-market/2305",
+    "https://www.idtechex.com/en/research-report/materials-informatics/1183",
+    "https://www.meticulousresearch.com/product/materials-informatics-market-6787",
+    "https://www.omrglobal.com/industry-reports/material-informatics-market",
+    "https://www.uncountable.com/informatics-what-is-materials-informatics",
+    "https://www.linkedin.com/pulse/us-material-informatics-market-20262035-driving-fnjgf",
+    "https://www.consolidated.com/"
+   ]
+  },
+  {
+   "query": "materials informatics market key companies share 2025",
+   "results": [
+    "https://www.precedenceresearch.com/material-informatics-market",
+    "https://www.idtechex.com/en/research-report/materials-informatics-2025/1096",
+    "https://www.polarismarketresearch.com/industry-analysis/material-informatics-market",
+    "https://www.linkedin.com/pulse/materials-informatics-market-size-reach-usd-157293-million-raj-patil-lne2f",
+    "https://www.factmr.com/report/materials-informatics-market",
+    "https://finance.yahoo.com/technology/articles/material-informatics-market-forecasts-growth-091300751.html",
+    "https://www.mordorintelligence.com/industry-reports/material-informatics-market",
+    "https://metastatinsight.com/blogdetails/top-20-material-informatics-companies",
+    "https://www.meticulousresearch.com/product/materials-informatics-market-6787"
+   ]
+  }
+ ],
+ "missing": {}
+}

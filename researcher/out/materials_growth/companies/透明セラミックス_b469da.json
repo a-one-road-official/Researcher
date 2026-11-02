@@ -1,0 +1,2006 @@
+{
+ "name": "透明セラミックス",
+ "en": "transparent ceramics",
+ "aliases": [
+  "transparent armor",
+  "spinel ceramic",
+  "ALON",
+  "透明セラミックス"
+ ],
+ "context": "光学・防衛",
+ "kind": "market",
+ "researched_at": "2026-11-02T17:34:56.273046+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "【調査レポート】 透明セラミックス市場規模・シェア分析 ー 成長動向と予測 (2025年～2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "透明セラミックス市場規模・シェア分析 ー 成長動向と予測 (2025年～2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "透明セラミックス市場は、2025年には0.89億米ドルと推定され、2030年までに1.59億米ドルに達すると予測されており、予測期間（2025年～2030年）において12.22%の年間平均成長率（CAGR）で成長すると見込まれております",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の透明セラミックス市場は、2025年には0.89億米ドル規模に達し、2030年までには1.59億米ドルに成長すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "5. 市場規模と成長予測",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "耐傷性ガラス市場：市場規模・シェア分析、成長動向と予測 (2025-2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "プラスチック屋根材市場：市場規模・シェア分析、成長動向と予測 (2025-2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年から2034年の医療におけるRTLS市場規模と展望",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "一般工業油市場規模・シェア分析 – 成長トレンド・予測 (2025年～2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "UVDロボット市場規模、シェアおよびトレンド分析レポート：タイプ別（過酸化水素蒸気、紫外線）、用途別（商業および産業、ヘルスケア）、地域別（北米、ヨーロッパ、APAC、中東およびアフリカ、LATAM）予測2026-2034",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "AIショッピングアシスタント市場規模、シェアおよびトレンド分析レポート：タイプ別（音声ベースAIショッピングアシスタント、テキストベースAIショッピングアシスタント、ビジュアルベースAIショッピングアシスタント、マルチモーダルAIショッピングアシスタント）、技術別（自然言語処理（NLP）、機械学習、コンピュータービジョン、統合技術）、アプリケーション別（小売、ヘルスケア、旅行、メディア、その他のアプリケーション）、地域別（北米、ヨーロッパ、APAC、中東およびアフリカ、LATAM）の予測、2026-2034",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "光学透明セラミックス 市場規模、成長、予測 2032",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E5%AD%A6%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-r555",
+    "pass": 3
+   },
+   {
+    "quote": "世界の光学透明セラミック市場規模は2025年に8億5,431万ドルで、このレポートは2026年から2032年までの市場の成長、傾向、機会、予測をカバーしています",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E5%AD%A6%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-r555",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年の市場規模",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E5%AD%A6%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-r555",
+    "pass": 3
+   },
+   {
+    "quote": "2026 年の市場規模予測",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E5%AD%A6%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-r555",
+    "pass": 3
+   },
+   {
+    "quote": "2032 年の市場規模予測",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E5%AD%A6%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-r555",
+    "pass": 3
+   },
+   {
+    "quote": "光学透明セラミック市場は適度に統合された構造を維持しており、最大のサプライヤー10社が合わせて世界売上高の推定62％を占めています",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E5%AD%A6%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-r555",
+    "pass": 3
+   },
+   {
+    "quote": "Reportprime によると、市場は 2024 年の 7 億 9,000 万から 2031 年までに 13 億 6,625 万に増加し、8.14% の CAGR でサプライヤーへの投資が活性化すると予想されています",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E5%AD%A6%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-r555",
+    "pass": 3
+   },
+   {
+    "quote": "透明セラミックス市場規模は2030年に30億米ドルに達する見込み-最新予測 | NEWSCAST",
+    "url": "https://newscast.jp/news/3665424",
+    "pass": 3
+   },
+   {
+    "quote": "透明セラミックス市場規模は2030年に30億米ドルに達する見込み-最新予測",
+    "url": "https://newscast.jp/news/3665424",
+    "pass": 3
+   },
+   {
+    "quote": "Spherical Insights & Consulting が公表した研究報告によると、GlobalTransparent Ceramics 市場規模は、予測期間2025～2035 年までに 2024 米ドル 769.12 億米ドル 2992.62 億米ドル 2992.62 億米ドル 2992.62 億米ドル 2992.62 億米ドル から成長する予定です",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-transparent-ceramics-market-expert-view-by-spherical-insights-",
+    "pass": 3
+   },
+   {
+    "quote": "Spherical Insights & Consulting が公表した研究報告によると、GlobalTransparent Ceramics Market size は、予測期間2025〜2035年の間に13.15%のCAGRで2024 USD 2992.62 Billion から成長する予定です",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-transparent-ceramics-market-expert-view-by-spherical-insights-",
+    "pass": 3
+   },
+   {
+    "quote": "透明な陶磁器のための市場規模は2024年に米ドル769.12億の価値があると推定されました",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-transparent-ceramics-market-expert-view-by-spherical-insights-",
+    "pass": 3
+   },
+   {
+    "quote": "市場は、2025と2035の間の13.15%のCAGRで拡大する予定です",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-transparent-ceramics-market-expert-view-by-spherical-insights-",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル透明セラミックス市場規模は、2035年までにUSD 2992.62億に達すると予想されます",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-transparent-ceramics-market-expert-view-by-spherical-insights-",
+    "pass": 3
+   },
+   {
+    "quote": "世界の透明セラミックス市場は、予測期間、すなわち2020-2028を通じて大幅なCAGRを記録すると予想されています.この成長は、透明セラミックスの優れた機械的特性と、防衛光学航空および機械化学産業などのさまざまな業界での使用の増加に起因しています",
+    "url": "https://www.researchnester.jp/industry-analysis/transparent-ceramics-market/4223",
+    "pass": 3
+   },
+   {
+    "quote": "この地域に基づいて、世界の透明セラミック市場は、北米ヨーロッパ、アジア太平洋ラテンアメリカ、中東&アフリカ地域を含む5つの主要地域に分かれており、アジア太平洋地域は、これらの地域での低コストの労働力と安価な原材料の入手可能性により、予測期間中に世界の透明セラミックス市場で最大の市場シェアを保持すると予想されています",
+    "url": "https://www.researchnester.jp/industry-analysis/transparent-ceramics-market/4223",
+    "pass": 3
+   },
+   {
+    "quote": "光学セラミックス市場 | 市場規模 業界分析 予測 2034年 【市場調査レポート】",
+    "url": "https://www.gii.co.jp/report/smrc2059014-optical-ceramics-market-forecasts-global-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "Stratistics MRCによると、世界の光学セラミックス市場は2026年に18億米ドル規模となり、2034年までに42億米ドルに達すると予測されており、予測期間中はCAGR11.2％で成長すると見込まれています",
+    "url": "https://www.gii.co.jp/report/smrc2059014-optical-ceramics-market-forecasts-global-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 4,150 換算",
+    "url": "https://www.gii.co.jp/report/smrc2059014-optical-ceramics-market-forecasts-global-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 5,250 換算",
+    "url": "https://www.gii.co.jp/report/smrc2059014-optical-ceramics-market-forecasts-global-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 6,350 換算",
+    "url": "https://www.gii.co.jp/report/smrc2059014-optical-ceramics-market-forecasts-global-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 7,500 換算",
+    "url": "https://www.gii.co.jp/report/smrc2059014-optical-ceramics-market-forecasts-global-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "光学セラミックス市場規模、シェア、成長分析：材料別、最終用途別、地域別－業界予測（2026～2033年）",
+    "url": "https://www.gii.co.jp/report/smrc2059014-optical-ceramics-market-forecasts-global-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "透明セラミックスの世界市場（2026年～2032年）、市場規模（YAG透明セラミックス、Al系透明セラミックス、イットリア系透明セラミックス、スピネル系透明セラミックス、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8617672",
+    "pass": 3
+   },
+   {
+    "quote": "世界の透明セラミックス市場規模は、2025年の1億600万米ドルから2032年には2億200万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）10.1％で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/8617672",
+    "pass": 3
+   },
+   {
+    "quote": "一方、用途別の売上シェアでは、透明装甲が約36.36%を占め、市場規模は5,658万米ドル、今後数年間のCAGRは約7.1%と見込まれています",
+    "url": "https://www.atpress.ne.jp/news/8617672",
+    "pass": 3
+   },
+   {
+    "quote": "これには、地域別および国別（アメリカ、APAC、ヨーロッパ、中東・アフリカ）の市場規模予測（2027年から2032年）、タイプ別の世界予測、および用途別の世界予測が含まれています",
+    "url": "https://www.atpress.ne.jp/news/8617672",
+    "pass": 3
+   },
+   {
+    "quote": "透明セラミックスの世界市場（2026年～2032年）、市場規模（YAG透明セラミックス、Al系透明セラミックス、イットリア系透明セラミックス、スピネル系透明セラミックス、その他）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/8617672",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8617672",
+    "pass": 3
+   },
+   {
+    "quote": "コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8617672",
+    "pass": 3
+   },
+   {
+    "quote": "セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8617672",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8617672",
+    "pass": 3
+   },
+   {
+    "quote": "食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8617672",
+    "pass": 3
+   },
+   {
+    "quote": "水性ポリウレタン離型剤の世界市場（2026年～2032年）、市場規模（シリコーン油系、ワックス系、脂肪酸系、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8617672",
+    "pass": 3
+   },
+   {
+    "quote": "SMDサーモパイルセンサーの世界市場（2026年～2032年）、市場規模（シングルチャンネルセンサー、デュアルチャンネルセンサー）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8617672",
+    "pass": 3
+   },
+   {
+    "quote": "透明セラミック市場規模、シェア、成長分析、セグメント、成長ドライバーと課題、および市場における主要企業、予測2037年",
+    "url": "https://www.sdki.jp/reports/transparent-ceramics-market/108698",
+    "pass": 3
+   },
+   {
+    "quote": "透明セラミック市場は、2024年に約855百万米ドルの市場価値から、2037年までに約6125百万米ドルに達すると推定され、2025－2037年の予測期間中に22％のCAGRで成長すると予想されています",
+    "url": "https://www.sdki.jp/reports/transparent-ceramics-market/108698",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】透明セラミック市場規模マップ＋業界分析フレームワーク：主要プレイヤー別売上規模・シェア動向を徹底調査、CAGR 9.7%の高成長 | LP Information Co.,Ltdのプレスリリース",
+    "url": "https://www.dreamnews.jp/press/0000361131",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】透明セラミック市場規模マップ＋業界分析フレームワーク：主要プレイヤー別売上規模・シェア動向を徹底調査、CAGR 9.7%の高成長",
+    "url": "https://www.dreamnews.jp/press/0000361131",
+    "pass": 3
+   },
+   {
+    "quote": ")によれば、世界の透明セラミック市場規模は2025年に約1億880万米ドル、2026年に約1億1630万米ドルとなり、2032年には約2億270万米ドルへ拡大する見通しです",
+    "url": "https://www.dreamnews.jp/press/0000361131",
+    "pass": 3
+   },
+   {
+    "quote": "LP Informationの調査統計によると、2025年の世界透明セラミック市場は高い集中度を示し、CoorsTek、Surmet Corporation、Coherent、Konoshima Chemicals、CeraNovaの上位5社で85%超を占めます",
+    "url": "https://www.dreamnews.jp/press/0000361131",
+    "pass": 3
+   },
+   {
+    "quote": "第2章では、透明セラミックの世界市場規模を詳細に調査し、製品の分類と用途の規模、販売量、収益、価格、市場シェア、その他の主要指標を含まれています",
+    "url": "https://www.dreamnews.jp/press/0000361131",
+    "pass": 3
+   },
+   {
+    "quote": "第4章では、透明セラミックの世界市場規模を、主要地域における数量、収益、成長率の観点から分析します",
+    "url": "https://www.dreamnews.jp/press/0000361131",
+    "pass": 3
+   },
+   {
+    "quote": "第6章では、アジア太平洋地域における透明セラミック市場規模と各種用途を、販売量と収益を中心に分析します",
+    "url": "https://www.dreamnews.jp/press/0000361131",
+    "pass": 3
+   },
+   {
+    "quote": "第12章では、透明セラミックの世界市場規模を地域と製品タイプ別の売上高、収益、その他の関連指標で予測します",
+    "url": "https://www.dreamnews.jp/press/0000361131",
+    "pass": 3
+   },
+   {
+    "quote": "2026電子制御スロットルボディ市場規模マップ：シェア・動向・フレームワーク、CAGR 0.19%の成熟市場",
+    "url": "https://www.dreamnews.jp/press/0000361131",
+    "pass": 3
+   },
+   {
+    "quote": "2018年のUSD 300百万を想定し、業界は2025年までの20%以上のCAGRによって成長します",
+    "url": "https://www.gminsights.com/ja/industry-analysis/transparent-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模で 2018",
+    "url": "https://www.gminsights.com/ja/industry-analysis/transparent-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "300 Million (USD)",
+    "url": "https://www.gminsights.com/ja/industry-analysis/transparent-ceramics-market",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "透明セラミックス市場は、2025年には0.89億米ドルと推定され、2030年までに1.59億米ドルに達すると予測されており、予測期間（2025年～2030年）において12.22%の年間平均成長率（CAGR）で成長すると見込まれております",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の市場シェアを見ると、構造別では結晶性セラミックスが64.67%を占め、非結晶性フォーマットは2030年までに12.78%のCAGRで拡大すると予測されております",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "材料別では、サファイアが43.25%のシェアを占め、窒化アルミニウムオキシナイトライドは2030年までに12.89%のCAGRで成長すると見込まれております",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "用途別では、航空宇宙・防衛が40.12%の市場シェアを占めましたが、ヘルスケア・歯科分野は2030年までに13.56%のCAGRで急速に成長すると予測されております",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "地域別では、アジア太平洋地域が2024年に56.67%の収益シェアで市場をリードし、2030年までに14.23%のCAGRでさらに加速すると予測されております",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "この要因はCAGRに+3.20%の影響を与え、アジア太平洋と北米に集中し、中期的な影響が見込まれます",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "この要因はCAGRに+2.80%の影響を与え、北米、ヨーロッパ、アジア太平洋に影響を及ぼし、長期的な影響が見込まれます",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "この要因はCAGRに+2.10%の影響を与え、グローバルに影響を及ぼし、中期的な影響が見込まれます",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "この要因はCAGRに+1.90%の影響を与え、北米とヨーロッパに影響を及ぼし、長期的な影響が見込まれます",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "この要因はCAGRに+1.60%の影響を与え、北米とアジア太平洋に影響を及ぼし、長期的な影響が見込まれます",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "この要因はCAGRに-2.40%の影響を与え、グローバルに影響を及ぼし、短期的な影響が見込まれます",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "この要因はCAGRに-1.80%の影響を与え、アジア太平洋と北米に影響を及ぼし、中期的な影響が見込まれます",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "この要因はCAGRに-1.20%の影響を与え、グローバル、特に中国とアフリカに影響を及ぼし、長期的な影響が見込まれます",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "その12.78%というCAGRは、価格に敏感な消費者チャネルにおける需要の弾力性を強調しております",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "8.14% CAGR",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E5%AD%A6%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-r555",
+    "pass": 3
+   },
+   {
+    "quote": "Reportprime は、2024 年の世界市場を 7 億 9,000 万米ドルと評価し、軽量、高強度、透明なコンポーネントに対する根強い需要によって 8.14% という驚異的な CAGR を反映して、2031 年までに 13 億 6,625 万米ドルに達すると予測しています",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E5%AD%A6%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-r555",
+    "pass": 3
+   },
+   {
+    "quote": "(カナダとメキシコ) の収益は、2025 年の 5,126 万ドルから 2031 年には 6,831 万ドルに増加し、CAGR は 4.90% となります",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E5%AD%A6%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-r555",
+    "pass": 3
+   },
+   {
+    "quote": "2031 年までに 1 億 7,086 万米ドルから 2 億 5,959 万米ドルに増加し、CAGR は 7.20% になります",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E5%AD%A6%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-r555",
+    "pass": 3
+   },
+   {
+    "quote": "(インド、ASEAN、オーストラリアなど) は、1 億 252 万米ドルから 1 億 9,128 万米ドルまで 11.00% の CAGR で拡大し、相対的に最も急激な上昇が見込まれています",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E5%AD%A6%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-r555",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年の 6,834 万米ドルから 2031 年までに 9,564 万米ドルに成長し、5.80% の CAGR を記録しています",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E5%AD%A6%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-r555",
+    "pass": 3
+   },
+   {
+    "quote": "規模は 5,980 万米ドルから 9,564 万米ドルで、世界的な CAGR 8.14% を反映しています",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E5%AD%A6%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-r555",
+    "pass": 3
+   },
+   {
+    "quote": "最大の絶対利益をもたらし、2025 年の 1 億 8,895 万米ドルから 2031 年までに 3 億 2,790 万米ドルにまで急増し、9.60% の CAGR に相当します",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E5%AD%A6%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-r555",
+    "pass": 3
+   },
+   {
+    "quote": "世界の透明セラミックス市場の売上は、2021年から2030年までの予測期間中に19%の複合年間成長率で成長し、2030年には30億米ドルに達すると推定されます",
+    "url": "https://newscast.jp/news/3665424",
+    "pass": 3
+   },
+   {
+    "quote": "Spherical Insights & Consulting が公表した研究報告によると、GlobalTransparent Ceramics Market size は、予測期間2025〜2035年の間に13.15%のCAGRで2024 USD 2992.62 Billion から成長する予定です",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-transparent-ceramics-market-expert-view-by-spherical-insights-",
+    "pass": 3
+   },
+   {
+    "quote": "市場は、2025と2035の間の13.15%のCAGRで拡大する予定です",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-transparent-ceramics-market-expert-view-by-spherical-insights-",
+    "pass": 3
+   },
+   {
+    "quote": "世界の透明セラミックス市場は、予測期間、すなわち2020-2028を通じて大幅なCAGRを記録すると予想されています.この成長は、透明セラミックスの優れた機械的特性と、防衛光学航空および機械化学産業などのさまざまな業界での使用の増加に起因しています",
+    "url": "https://www.researchnester.jp/industry-analysis/transparent-ceramics-market/4223",
+    "pass": 3
+   },
+   {
+    "quote": "Stratistics MRCによると、世界の光学セラミックス市場は2026年に18億米ドル規模となり、2034年までに42億米ドルに達すると予測されており、予測期間中はCAGR11.2％で成長すると見込まれています",
+    "url": "https://www.gii.co.jp/report/smrc2059014-optical-ceramics-market-forecasts-global-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界の透明セラミックス市場規模は、2025年の1億600万米ドルから2032年には2億200万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）10.1％で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/8617672",
+    "pass": 3
+   },
+   {
+    "quote": "一方、用途別の売上シェアでは、透明装甲が約36.36%を占め、市場規模は5,658万米ドル、今後数年間のCAGRは約7.1%と見込まれています",
+    "url": "https://www.atpress.ne.jp/news/8617672",
+    "pass": 3
+   },
+   {
+    "quote": "透明セラミック市場は、2024年に約855百万米ドルの市場価値から、2037年までに約6125百万米ドルに達すると推定され、2025－2037年の予測期間中に22％のCAGRで成長すると予想されています",
+    "url": "https://www.sdki.jp/reports/transparent-ceramics-market/108698",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】透明セラミック市場規模マップ＋業界分析フレームワーク：主要プレイヤー別売上規模・シェア動向を徹底調査、CAGR 9.7%の高成長 | LP Information Co.,Ltdのプレスリリース",
+    "url": "https://www.dreamnews.jp/press/0000361131",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】透明セラミック市場規模マップ＋業界分析フレームワーク：主要プレイヤー別売上規模・シェア動向を徹底調査、CAGR 9.7%の高成長",
+    "url": "https://www.dreamnews.jp/press/0000361131",
+    "pass": 3
+   },
+   {
+    "quote": ")によれば、世界の透明セラミック市場規模は2025年に約1億880万米ドル、2026年に約1億1630万米ドルとなり、2032年には約2億270万米ドルへ拡大する見通しです",
+    "url": "https://www.dreamnews.jp/press/0000361131",
+    "pass": 3
+   },
+   {
+    "quote": "2026～2032年のCAGRは約9.7%です",
+    "url": "https://www.dreamnews.jp/press/0000361131",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、透明セラミックの世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します",
+    "url": "https://www.dreamnews.jp/press/0000361131",
+    "pass": 3
+   },
+   {
+    "quote": "第4章では、透明セラミックの世界市場規模を、主要地域における数量、収益、成長率の観点から分析します",
+    "url": "https://www.dreamnews.jp/press/0000361131",
+    "pass": 3
+   },
+   {
+    "quote": "電気デサルター＆脱水機マーケットリサーチ：調査方法＋業界分析＋売上規模、CAGR 10.1%の高成長",
+    "url": "https://www.dreamnews.jp/press/0000361131",
+    "pass": 3
+   },
+   {
+    "quote": "レーザーガス供給サービス市場調査：規模・状況・調べ方・算出方法、年平均成長率（CAGR）4.9%の安定成長",
+    "url": "https://www.dreamnews.jp/press/0000361131",
+    "pass": 3
+   },
+   {
+    "quote": "無人運転配車サービスマーケットリサーチ：調査方法＋業界分析＋売上規模、CAGR 57.2%の超高成長",
+    "url": "https://www.dreamnews.jp/press/0000361131",
+    "pass": 3
+   },
+   {
+    "quote": "2026電子制御スロットルボディ市場規模マップ：シェア・動向・フレームワーク、CAGR 0.19%の成熟市場",
+    "url": "https://www.dreamnews.jp/press/0000361131",
+    "pass": 3
+   },
+   {
+    "quote": "衛星リモートセンシングサービスマーケットリサーチ：調査方法＋業界分析＋売上規模、年平均成長率（CAGR）10.7%の高成長",
+    "url": "https://www.dreamnews.jp/press/0000361131",
+    "pass": 3
+   },
+   {
+    "quote": "2018年のUSD 300百万を想定し、業界は2025年までの20%以上のCAGRによって成長します",
+    "url": "https://www.gminsights.com/ja/industry-analysis/transparent-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間 2019 - 2025 CAGR",
+    "url": "https://www.gminsights.com/ja/industry-analysis/transparent-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "アルミオキシニドは、透明なセラミックス市場シェアのもう一つの重要な製品で、2019年から2025年にかけて、CAGRで最速成長率を25%以上表示する可能性があります",
+    "url": "https://www.gminsights.com/ja/industry-analysis/transparent-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025 - 2035)",
+    "url": "https://www.marketresearchfuture.com/reports/transparent-ceramic-market-33548",
+    "pass": 3
+   },
+   {
+    "quote": "As per Market Research Future analysis, the Transparent Ceramic Market Size was estimated at 6.599 USD Billion in 2024. The Transparent Ceramic industry is projected to grow from 7.033 USD Billion in 2025 to 13.3 USD Billion by 2035, exhibiting a compound annual growth rate (CAGR) of 6.58% during the forecast period 2025 - 2035",
+    "url": "https://www.marketresearchfuture.com/reports/transparent-ceramic-market-33548",
+    "pass": 3
+   },
+   {
+    "quote": "The Transparent Ceramic Market is projected to grow at a 6.58% CAGR from 2025 to 2035, driven by advancements in technology, increasing demand in electronics, and automotive applications.",
+    "url": "https://www.marketresearchfuture.com/reports/transparent-ceramic-market-33548",
+    "pass": 3
+   },
+   {
+    "quote": "What is the expected CAGR for the Transparent Ceramic Market during the forecast period 2025 - 2035?",
+    "url": "https://www.marketresearchfuture.com/reports/transparent-ceramic-market-33548",
+    "pass": 3
+   },
+   {
+    "quote": "The expected CAGR for the Transparent Ceramic Market during the forecast period 2025 - 2035 is 6.58%.",
+    "url": "https://www.marketresearchfuture.com/reports/transparent-ceramic-market-33548",
+    "pass": 3
+   },
+   {
+    "quote": "was estimated over USD 300 million in 2018 and the industry will grow by a CAGR of more than 20% up to 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/transparent-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast Period 2019 - 2025 CAGR",
+    "url": "https://www.gminsights.com/industry-analysis/transparent-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "According to a research report published by Spherical Insights & Consulting, The Global Transparent Ceramics Market Size is projected to Grow from USD 769.12 Billion in 2024 to USD 2992.62 Billion by 2035, at a CAGR of 13.15% during the forecast period 2025–2035",
+    "url": "https://www.sphericalinsights.com/blogs/top-50-companies-in-transparent-ceramics-market-expert-view-by-spherical-insights-",
+    "pass": 3
+   },
+   {
+    "quote": "The Market is Going to Expand at a CAGR of 13.15% between 2025 and 2035.",
+    "url": "https://www.sphericalinsights.com/blogs/top-50-companies-in-transparent-ceramics-market-expert-view-by-spherical-insights-",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025 to 2035)",
+    "url": "https://www.futuremarketinsights.com/reports/transparent-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Transparent Ceramics Market is estimated to be valued at USD 1.1 billion in 2025 and is projected to reach USD 6.7 billion by 2035, registering a compound annual growth rate (CAGR) of 20.0% over the forecast period.",
+    "url": "https://www.futuremarketinsights.com/reports/transparent-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Transparent Ceramics Market Forecast CAGR: 20.0%",
+    "url": "https://www.futuremarketinsights.com/reports/transparent-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast CAGR (2025 to 2035)",
+    "url": "https://www.futuremarketinsights.com/reports/transparent-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "The transparent ceramics market is expected to grow at a 20.0% CAGR between 2025 and 2035.",
+    "url": "https://www.futuremarketinsights.com/reports/transparent-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "size was valued at USD 920.36 Mn in 2025 and total Global Transparent Ceramics Market revenue is expected to reach USD 2862.92 Mn by 2032, at a CAGR of 17.6% over the forecast period.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-transparent-ceramics-market/3580/",
+    "pass": 3
+   },
+   {
+    "quote": "Hypersonic missile programs (U.S., China, Russia) are fueling 40% growth in IR-transparent ceramics (ALON, spinel) for radomes and sensor windows.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-transparent-ceramics-market/3580/",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "レポートでは、市場集中度、戦略的動向、市場シェア分析、および主要企業のプロファイルも提供されています",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "4.5.3 新規参入の脅威",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "6.4 企業プロファイル（グローバルレベルの概要、市場レベルの概要、主要セグメント、利用可能な財務情報、戦略情報、主要企業の市場ランク/シェア、製品とサービス、および最近の動向を含む）",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの規制は参入障壁を高めますが、同時にミッションクリティカルな導入において信頼できる光学的および機械的性能を保証します",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E5%AD%A6%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-r555",
+    "pass": 3
+   },
+   {
+    "quote": "戦略的活動は、レーザーメーカー、航空宇宙業界の主要企業、半導体リソグラフィー企業との下流でのコラボレーションを中心としており、汎用アルミナウィンドウから多機能イットリア、スピネル、ガーネットソリューションへの転換を強調しています",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E5%AD%A6%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-r555",
+    "pass": 3
+   },
+   {
+    "quote": "完全装備の透明セラミックラインには窯、HIP容器、精密研磨セルが必要で、3,000万米ドルを超える場合もあり、新規参入者は高い資本集中に直面しています",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E5%AD%A6%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-r555",
+    "pass": 3
+   },
+   {
+    "quote": "この知識は、投資選択、商品開発、市場参入戦略などの戦略的意思決定の指針となります",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E5%AD%A6%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-r555",
+    "pass": 3
+   },
+   {
+    "quote": "市場動向、技術の進歩、競争環境に関する情報を常に把握することで、企業は成長機会を特定し、市場参入戦略を最適化し、競争上の優位性を得ることができます",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E5%AD%A6%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-r555",
+    "pass": 3
+   },
+   {
+    "quote": "光学透明セラミック市場の主要企業が市場での地位を維持するために採用している競争戦略にはどのようなものがありますか",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E5%AD%A6%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-r555",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-transparent-ceramics-market-expert-view-by-spherical-insights-",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、CoorsTek Inc.は、ベントン、アルカンソース、施設に投資し、レキシントン、ケンタッキー州のエイボン保護からセラミック板工場を購入したとき、2023年7月に体装甲市場に参入しました",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-transparent-ceramics-market-expert-view-by-spherical-insights-",
+    "pass": 3
+   },
+   {
+    "quote": "持続可能な建物の実践をサポートしながら、構造的整合性と審美的な魅力を改善し、インフラと都市開発における市場参入拡大に貢献します",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-transparent-ceramics-market-expert-view-by-spherical-insights-",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業（最大3社）のSWOT分析",
+    "url": "https://www.gii.co.jp/report/smrc2059014-optical-ceramics-market-forecasts-global-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品ポートフォリオ、地理的展開、戦略的提携に基づく主要企業のベンチマーク",
+    "url": "https://www.gii.co.jp/report/smrc2059014-optical-ceramics-market-forecasts-global-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "新規参入業者の脅威",
+    "url": "https://www.gii.co.jp/report/smrc2059014-optical-ceramics-market-forecasts-global-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の市場シェア分析",
+    "url": "https://www.gii.co.jp/report/smrc2059014-optical-ceramics-market-forecasts-global-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "チャネル、流通業者、および市場参入戦略の評価",
+    "url": "https://www.gii.co.jp/report/smrc2059014-optical-ceramics-market-forecasts-global-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、加速する世界の透明セラミックス市場における各企業の独自の立場をより深く理解するため、透明セラミックスのポートフォリオと能力、市場参入戦略、市場での位置づけ、地理的展開に焦点を当て、主要グローバル企業の戦略を分析しています",
+    "url": "https://www.atpress.ne.jp/news/8617672",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、主要メーカーの透明セラミックス生産地域の分布、販売地域、提供される製品タイプ、市場集中度分析（競争状況、CR3、CR5、CR10の集中度比率（2024年から2026年））、新製品と潜在的な新規参入者、ならびに市場におけるM&A活動と戦略についての情報が詳述されています",
+    "url": "https://www.atpress.ne.jp/news/8617672",
+    "pass": 3
+   },
+   {
+    "quote": "第13章には、主要企業に関する詳細な分析が収録されています",
+    "url": "https://www.atpress.ne.jp/news/8617672",
+    "pass": 3
+   },
+   {
+    "quote": "透明セラミック市場規模、シェア、成長分析、セグメント、成長ドライバーと課題、および市場における主要企業、予測2037年",
+    "url": "https://www.sdki.jp/reports/transparent-ceramics-market/108698",
+    "pass": 3
+   },
+   {
+    "quote": "この調査には、透明セラミック市場におけるこれらの主要企業の詳細な競合分析、企業プロファイル、最近の動向、および主要な市場戦略が含まれています",
+    "url": "https://www.sdki.jp/reports/transparent-ceramics-market/108698",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】透明セラミック市場規模マップ＋業界分析フレームワーク：主要プレイヤー別売上規模・シェア動向を徹底調査、CAGR 9.7%の高成長 | LP Information Co.,Ltdのプレスリリース",
+    "url": "https://www.dreamnews.jp/press/0000361131",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】透明セラミック市場規模マップ＋業界分析フレームワーク：主要プレイヤー別売上規模・シェア動向を徹底調査、CAGR 9.7%の高成長",
+    "url": "https://www.dreamnews.jp/press/0000361131",
+    "pass": 3
+   },
+   {
+    "quote": "供給面では、主要企業が高純度粉体、低欠陥緻密化、大型成形、HIP、精密研磨、光学コーティングへの投資を進め、垂直統合によって歩留まりと供給安定性を高めています",
+    "url": "https://www.dreamnews.jp/press/0000361131",
+    "pass": 3
+   },
+   {
+    "quote": "米国にはSurmet、CoorsTek、Coherent、CeraNovaなどの主要企業が集まり、航空宇宙、防衛光電、高エネルギーレーザー、航空センサー、研究装置など高付加価値用途も厚いため、先端粉体、透明セラミック緻密化、精密光学加工、システム統合までの産業集積が形成されています",
+    "url": "https://www.dreamnews.jp/press/0000361131",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、透明セラミックの世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します",
+    "url": "https://www.dreamnews.jp/press/0000361131",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/transparent-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 競争環境と市場への参入・撤退の見通し",
+    "url": "https://www.gminsights.com/ja/industry-analysis/transparent-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/transparent-ceramic-market-33548",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.marketresearchfuture.com/reports/transparent-ceramic-market-33548",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players and Competitive Insights",
+    "url": "https://www.marketresearchfuture.com/reports/transparent-ceramic-market-33548",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies in the Transparent Ceramic Market include",
+    "url": "https://www.marketresearchfuture.com/reports/transparent-ceramic-market-33548",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, and Trends",
+    "url": "https://www.marketresearchfuture.com/reports/transparent-ceramic-market-33548",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/transparent-ceramic-market-33548",
+    "pass": 3
+   },
+   {
+    "quote": "Which companies are considered key players in the Transparent Ceramic Market?",
+    "url": "https://www.marketresearchfuture.com/reports/transparent-ceramic-market-33548",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the Transparent Ceramic Market include Corning Inc, Schott AG, Kyocera Corporation, and Saint-Gobain.",
+    "url": "https://www.marketresearchfuture.com/reports/transparent-ceramic-market-33548",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/blogs/top-50-companies-in-transparent-ceramics-market-expert-view-by-spherical-insights-",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players in Transparent Ceramics Market: Saint-Gobain, Surmet Corporation, Kyocera, Coorstek Corporation, CeramTech GmbH, Konoshima Chemicals Co. Ltd, CeraNova Corporation, Rubicon Technology, Inc., Crystalwise Technology Inc., Hansol Technics Co. Ltd., Almatis GmbH, Schott AG, II-VI Optical Systems, Superior Technical Ceramics Corporation",
+    "url": "https://www.futuremarketinsights.com/reports/transparent-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape of Transparent Ceramics Market",
+    "url": "https://www.futuremarketinsights.com/reports/transparent-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players such as Surmet Corporation, Kyocera, and Coorstek Corporation maintain significant market shares by offering specialized transparent ceramics for demanding applications like laser technology, armor protection, and aerospace components. These companies focus on providing high-quality, durable, and cost-effective solutions for diverse industrial and commercial sectors.",
+    "url": "https://www.futuremarketinsights.com/reports/transparent-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.futuremarketinsights.com/reports/transparent-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Potential by Region, Pricing, Competitive Landscape and Market Share of Key Players 2025 to 2032",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-transparent-ceramics-market/3580/",
+    "pass": 3
+   },
+   {
+    "quote": "Transparent Ceramics Market Competitive Landscape:",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-transparent-ceramics-market/3580/",
+    "pass": 3
+   },
+   {
+    "quote": "Transparent Ceramics Market Key Players:",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-transparent-ceramics-market/3580/",
+    "pass": 3
+   },
+   {
+    "quote": "1] What Major Key players in the Global Market report?",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-transparent-ceramics-market/3580/",
+    "pass": 3
+   },
+   {
+    "quote": "The Major Key players covered in the Market report are Surmet Corporation, II-VI Incorporated, CeramTec, Morgan Advanced Materials plc, Schott AG, Crystal GmbH",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-transparent-ceramics-market/3580/",
+    "pass": 3
+   },
+   {
+    "quote": "2. Global Transparent Ceramics Market: Competitive Landscape",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-transparent-ceramics-market/3580/",
+    "pass": 3
+   },
+   {
+    "quote": "2.2. Competitive Landscape",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-transparent-ceramics-market/3580/",
+    "pass": 3
+   },
+   {
+    "quote": "2.3. Key Players Benchmarking",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-transparent-ceramics-market/3580/",
+    "pass": 3
+   },
+   {
+    "quote": "10. Company Profile: Key Players",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-transparent-ceramics-market/3580/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape / Company Profiles",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-transparent-ceramics-market/3580/",
+    "pass": 3
+   },
+   {
+    "quote": "Biodegradable Bags Market by Type, Application and Region - Global Market Size Estimation, Industry-Wide Analysis, Competitive Landscape Assessment & Long-Term Forecast to 2034",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-transparent-ceramics-market/3580/",
+    "pass": 3
+   },
+   {
+    "quote": "Polylactic Acid Market by Application and Region – Global Market Size Estimation, Industry-Wide Analysis, Competitive Landscape Assessment & Long-Term Forecast to 2034",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-transparent-ceramics-market/3580/",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.stratviewresearch.com/market-reports/transparent-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape and dynamics: Market share, Service portfolio, New Product Launches, etc.",
+    "url": "https://www.stratviewresearch.com/market-reports/transparent-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "SWOT analysis of key players (up to three players).",
+    "url": "https://www.stratviewresearch.com/market-reports/transparent-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Benchmarking of key players on the following parameters: product portfolio, geographical reach, regional presence, and strategic alliances.",
+    "url": "https://www.stratviewresearch.com/market-reports/transparent-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the market?",
+    "url": "https://www.stratviewresearch.com/market-reports/transparent-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Ceramic Manufacturing, LLC, Blasch Precision Ceramics Inc., Ceradyne Inc., Koito Manufacturing Co., Ltd., Kyocera Corporation, Mcdanel Advanced Ceramic Technologies LLC, Morgan Advanced Materials, Rauschert Steinbach GmbH, Saint-Gobain Ceramics & Plastics, Inc., and Shanghai Siccas High Technology Corporation are among the key players in the market.",
+    "url": "https://www.stratviewresearch.com/market-reports/transparent-ceramics-market",
+    "pass": 3
+   }
+  ],
+  "日本企業": [
+   {
+    "quote": "※本ページの内容は、英文レポートの概要および目次を日本語に自動翻訳したものです",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "中国や日本における半導体および航空宇宙産業の発展に支えられ、アジア太平洋地域は最大の収益ブロックを占めるとともに、規模の経済と協調的な産業政策を反映して最速の地域成長を記録しております",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "5.4.1.2 日本",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "6.4.10 京セラ株式会社",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "6.4.12 村田製作所",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "日本では、NanoCerPlus が集積フォトニック回路用にナノ多孔質アルミナを調整し、通信波長での導波路損失を低減しています",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E5%AD%A6%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-r555",
+    "pass": 3
+   },
+   {
+    "quote": "– 日本電気硝子のサファイア部門（2024年4月、百万140.00）：カバーガラス代替品とLED基板の生産能力を強化",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E5%AD%A6%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-r555",
+    "pass": 3
+   },
+   {
+    "quote": "同時に、サンゴバンや京セラなどの複合企業は、原材料を確保し、粉末から完成した光学アセンブリまで価値のはしごを登るために低コストの資本を投入しています",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E5%AD%A6%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-r555",
+    "pass": 3
+   },
+   {
+    "quote": "この地域の収益に最も貢献しているのは、日本、中国、韓国、オーストラリア、インドです",
+    "url": "https://newscast.jp/news/3665424",
+    "pass": 3
+   },
+   {
+    "quote": "京セラ株式会社",
+    "url": "https://newscast.jp/news/3665424",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域（中国、インド、日本、韓国、オーストラリア、ニュージーランド、ASEAN諸国、その他アジア太平洋地域）",
+    "url": "https://newscast.jp/news/3665424",
+    "pass": 3
+   },
+   {
+    "quote": "先進的な防衛と航空宇宙分野は、韓国、日本、中国などの国に非常に有益です",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-transparent-ceramics-market-expert-view-by-spherical-insights-",
+    "pass": 3
+   },
+   {
+    "quote": "三菱ケミカルホールディングス株式会社",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-transparent-ceramics-market-expert-view-by-spherical-insights-",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋(中国 インド 日本 韓国 インドネシア マレーシア オーストラリア ニュージーランド その他のアジア太平洋地域)市場規模 前年比成長と機会分析",
+    "url": "https://www.researchnester.jp/industry-analysis/transparent-ceramics-market/4223",
+    "pass": 3
+   },
+   {
+    "quote": "Murata Manufacturing",
+    "url": "https://www.researchnester.jp/industry-analysis/transparent-ceramics-market/4223",
+    "pass": 3
+   },
+   {
+    "quote": "Subsidiary of Murata Manufacturing Co., Ltd.",
+    "url": "https://www.researchnester.jp/industry-analysis/transparent-ceramics-market/4223",
+    "pass": 3
+   },
+   {
+    "quote": "岡山村田製作",
+    "url": "https://www.researchnester.jp/industry-analysis/transparent-ceramics-market/4223",
+    "pass": 3
+   },
+   {
+    "quote": "日本のデキストリン市場",
+    "url": "https://www.researchnester.jp/industry-analysis/transparent-ceramics-market/4223",
+    "pass": 3
+   },
+   {
+    "quote": "Research Nester Japanは、データに基づいた洞察を複数の業界に提供する、世界な市場調査及び戦略コンサルティング会社です",
+    "url": "https://www.researchnester.jp/industry-analysis/transparent-ceramics-market/4223",
+    "pass": 3
+   },
+   {
+    "quote": "著作権 © 2026 Research Nester Japan無断転載禁止",
+    "url": "https://www.researchnester.jp/industry-analysis/transparent-ceramics-market/4223",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間中、アジア太平洋地域は、中国、日本、韓国、インドにおける防衛用電子機器、半導体製造、およびフォトニクス産業の急速な成長により、最も高いCAGRを示すと予想されます",
+    "url": "https://www.gii.co.jp/report/smrc2059014-optical-ceramics-market-forecasts-global-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "Kyocera Corporation",
+    "url": "https://www.gii.co.jp/report/smrc2059014-optical-ceramics-market-forecasts-global-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "Murata Manufacturing Co., Ltd.",
+    "url": "https://www.gii.co.jp/report/smrc2059014-optical-ceramics-market-forecasts-global-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "これには、地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾）の売上高と収益、タイプ別の売上高、および用途別の売上高（すべて2021年から2026年）が含まれます",
+    "url": "https://www.atpress.ne.jp/news/8617672",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：透明セラミックスの世界市場2026年～2032年",
+    "url": "https://www.atpress.ne.jp/news/8617672",
+    "pass": 3
+   },
+   {
+    "quote": "必要に応じて日本語レポートが入手可能",
+    "url": "https://www.sdki.jp/reports/transparent-ceramics-market/108698",
+    "pass": 3
+   },
+   {
+    "quote": "これらには、北米（米国、カナダ、およびその他の北米）、ヨーロッパ（ドイツ、フランス、イタリア、スペイン、英国、およびその他のヨーロッパ）、アジア太平洋（中国、日本、インド、オーストラリア、シンガポール、およびその他のアジア太平洋）およびその他の地域が含まれます",
+    "url": "https://www.sdki.jp/reports/transparent-ceramics-market/108698",
+    "pass": 3
+   },
+   {
+    "quote": "、デンマーク）、アイルランド、スイス、オーストリア、ポーランド、トルコ、ロシア、その他のヨーロッパ）、ポーランド、トルコ、ロシア、その他のヨーロッパ）、アジア太平洋（中国、インド、日本、韓国、シンガポール、インドネシア、マレーシア）",
+    "url": "https://www.sdki.jp/reports/transparent-ceramics-market/108698",
+    "pass": 3
+   },
+   {
+    "quote": "Analyticsは、日本を代表するリサーチと戦略コンサルティング会社です",
+    "url": "https://www.sdki.jp/reports/transparent-ceramics-market/108698",
+    "pass": 3
+   },
+   {
+    "quote": "日本のニュース",
+    "url": "https://www.sdki.jp/reports/transparent-ceramics-market/108698",
+    "pass": 3
+   },
+   {
+    "quote": "日本事務所 ：",
+    "url": "https://www.sdki.jp/reports/transparent-ceramics-market/108698",
+    "pass": 3
+   },
+   {
+    "quote": "15/F セルリアンタワー, 桜丘町26-1、150-8512, 東京、渋谷区、日本",
+    "url": "https://www.sdki.jp/reports/transparent-ceramics-market/108698",
+    "pass": 3
+   },
+   {
+    "quote": "日本は透明YAG、Y₂O₃などレーザー・精密光学セラミックで強い技術基盤を持ち、Konoshima Chemicalsが大型化と安定量産を進めています",
+    "url": "https://www.dreamnews.jp/press/0000361131",
+    "pass": 3
+   },
+   {
+    "quote": "日本語サイト：",
+    "url": "https://www.dreamnews.jp/press/0000361131",
+    "pass": 3
+   },
+   {
+    "quote": "日本半導体フォトレジスト市場：EUVリソグラフィ、先端材料、次世代半導...",
+    "url": "https://www.dreamnews.jp/press/0000361131",
+    "pass": 3
+   },
+   {
+    "quote": "オプトエレクトロニクス分野における中国、韓国、日本、インドなどのアジア太平洋諸国の急成長傾向は、今後数年にわたって製品市場をお知らせします",
+    "url": "https://www.gminsights.com/ja/industry-analysis/transparent-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Kyocera Corporation",
+    "url": "https://www.marketresearchfuture.com/reports/transparent-ceramic-market-33548",
+    "pass": 3
+   },
+   {
+    "quote": "Mitsubishi Chemical Corporation",
+    "url": "https://www.marketresearchfuture.com/reports/transparent-ceramic-market-33548",
+    "pass": 3
+   },
+   {
+    "quote": "Corning Inc (US), Schott AG (DE), Kyocera Corporation (JP), Saint-Gobain (FR), Mitsubishi Chemical Corporation (JP), Nippon Electric Glass Co Ltd (JP), Asahi Glass Co Ltd (JP), CeramTec GmbH (DE)",
+    "url": "https://www.marketresearchfuture.com/reports/transparent-ceramic-market-33548",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the Transparent Ceramic Market include Corning Inc, Schott AG, Kyocera Corporation, and Saint-Gobain.",
+    "url": "https://www.marketresearchfuture.com/reports/transparent-ceramic-market-33548",
+    "pass": 3
+   },
+   {
+    "quote": "Kyocera",
+    "url": "https://www.gminsights.com/industry-analysis/transparent-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced defense and aerospace sectors are very beneficial to countries like South Korea, Japan, and China. As previously noted, the area is also employing transparent ceramics more frequently for these kinds of healthcare applications, particularly in relation to laser and medical imaging devices.",
+    "url": "https://www.sphericalinsights.com/blogs/top-50-companies-in-transparent-ceramics-market-expert-view-by-spherical-insights-",
+    "pass": 3
+   },
+   {
+    "quote": "Mitsubishi Chemical Holdings Corporation",
+    "url": "https://www.sphericalinsights.com/blogs/top-50-companies-in-transparent-ceramics-market-expert-view-by-spherical-insights-",
+    "pass": 3
+   },
+   {
+    "quote": "5. AGC Inc. – Tokyo, Japan",
+    "url": "https://www.sphericalinsights.com/blogs/top-50-companies-in-transparent-ceramics-market-expert-view-by-spherical-insights-",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players in Transparent Ceramics Market: Saint-Gobain, Surmet Corporation, Kyocera, Coorstek Corporation, CeramTech GmbH, Konoshima Chemicals Co. Ltd, CeraNova Corporation, Rubicon Technology, Inc., Crystalwise Technology Inc., Hansol Technics Co. Ltd., Almatis GmbH, Schott AG, II-VI Optical Systems, Superior Technical Ceramics Corporation",
+    "url": "https://www.futuremarketinsights.com/reports/transparent-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players such as Surmet Corporation, Kyocera, and Coorstek Corporation maintain significant market shares by offering specialized transparent ceramics for demanding applications like laser technology, armor protection, and aerospace components. These companies focus on providing high-quality, durable, and cost-effective solutions for diverse industrial and commercial sectors.",
+    "url": "https://www.futuremarketinsights.com/reports/transparent-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "United States, Canada, Germany, France, United Kingdom, China, Japan, India, Brazil, South Africa",
+    "url": "https://www.futuremarketinsights.com/reports/transparent-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Saint-Gobain, Surmet Corporation, Kyocera, Coorstek Corporation, CeramTech GmbH, Konoshima Chemicals Co. Ltd, CeraNova Corporation, Rubicon Technology, Inc., Crystalwise Technology Inc., Hansol Technics Co. Ltd., Almatis GmbH, Schott AG, II-VI Optical Systems, and Superior Technical Ceramics Corporation",
+    "url": "https://www.futuremarketinsights.com/reports/transparent-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Kyocera",
+    "url": "https://www.futuremarketinsights.com/reports/transparent-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Kyocera Corporation",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-transparent-ceramics-market/3580/",
+    "pass": 3
+   },
+   {
+    "quote": "(China, Japan, South Korea, India, Australia, Malaysia, Thailand, Vietnam, Indonesia, Philippines, Rest of APAC)",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-transparent-ceramics-market/3580/",
+    "pass": 3
+   },
+   {
+    "quote": "18. Konoshima Chemical Co., Ltd. (Japan)",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-transparent-ceramics-market/3580/",
+    "pass": 3
+   },
+   {
+    "quote": "19. Tosoh Corporation (Japan)",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-transparent-ceramics-market/3580/",
+    "pass": 3
+   },
+   {
+    "quote": "20. Murata Manufacturing Co., Ltd. (Japan)",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-transparent-ceramics-market/3580/",
+    "pass": 3
+   },
+   {
+    "quote": "7.4.3. Japan",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-transparent-ceramics-market/3580/",
+    "pass": 3
+   },
+   {
+    "quote": "7.4.3.1. Japan Transparent Ceramics Market Size and Forecast, by Type (2025-2032)",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-transparent-ceramics-market/3580/",
+    "pass": 3
+   },
+   {
+    "quote": "7.4.3.2. Japan Transparent Ceramics Market Size and Forecast, by Material (2025-2032)",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-transparent-ceramics-market/3580/",
+    "pass": 3
+   },
+   {
+    "quote": "7.4.3.3. Japan Transparent Ceramics Market Size and Forecast, by End-use Industry (2025-2032)",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-transparent-ceramics-market/3580/",
+    "pass": 3
+   },
+   {
+    "quote": "10.19. Ltd. (Japan)",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-transparent-ceramics-market/3580/",
+    "pass": 3
+   },
+   {
+    "quote": "10.20. Tosoh Corporation (Japan)",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-transparent-ceramics-market/3580/",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "【調査レポート】 透明セラミックス市場規模・シェア分析 ー 成長動向と予測 (2025年～2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "透明セラミックス市場規模・シェア分析 ー 成長動向と予測 (2025年～2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の市場シェアを見ると、構造別では結晶性セラミックスが64.67%を占め、非結晶性フォーマットは2030年までに12.78%のCAGRで拡大すると予測されております",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "材料別では、サファイアが43.25%のシェアを占め、窒化アルミニウムオキシナイトライドは2030年までに12.89%のCAGRで成長すると見込まれております",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "用途別では、航空宇宙・防衛が40.12%の市場シェアを占めましたが、ヘルスケア・歯科分野は2030年までに13.56%のCAGRで急速に成長すると予測されております",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "地域別では、アジア太平洋地域が2024年に56.67%の収益シェアで市場をリードし、2030年までに14.23%のCAGRでさらに加速すると予測されております",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "結晶性透明セラミックスは、2024年に64.67%の市場シェアを確保しており、0.3～5 μm帯での一貫して高い透過率と2 GPaを超える圧縮強度によってその優位性が確立されております",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "サファイアが収益の43.25%を占めるのは、Kyropoulos法やEFG（Edge-defined Film-fed Growth）法といった成熟した製造炉が最大300 kgのブールを生産できるためであり、LEDウェハーやスマートフォン光学部品の基板あたりのコストを削減しております",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙・防衛分野は、2024年にセクター売上高の40.12%（3億6,000万米ドル以上）を占め、シーカー窓、装甲グレードの視窓、レーザー兵器光学系がその中心となっております",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "地域別では、アジア太平洋地域が2024年に56.67%の収益シェアを占め、市場をリードしています",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "競争環境については、SCHOTT AG、CoorsTek Inc.、Surmet Corporation、CeramTec GmbH、およびAGC Inc.が主要なリーダー企業であり、これら5社で世界の収益の約53%を占めています",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "6.3 市場シェア分析",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "6.4 企業プロファイル（グローバルレベルの概要、市場レベルの概要、主要セグメント、利用可能な財務情報、戦略情報、主要企業の市場ランク/シェア、製品とサービス、および最近の動向を含む）",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年のシェア",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E5%AD%A6%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-r555",
+    "pass": 3
+   },
+   {
+    "quote": "2031年のシェア",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E5%AD%A6%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-r555",
+    "pass": 3
+   },
+   {
+    "quote": "2024 年の世界収益は 7 億 9,000 万ドルで、3 つの地域が光学透明セラミック需要の大部分を占めています",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E5%AD%A6%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-r555",
+    "pass": 3
+   },
+   {
+    "quote": "2024 年には米国が最大のシェアを獲得し、中国、欧州がそれに続きます",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E5%AD%A6%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-r555",
+    "pass": 3
+   },
+   {
+    "quote": "2031 年までに、パワートライアドは引き続き収益の 3 分の 2 以上を占めるはずですが、株価は変動するでしょう",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E5%AD%A6%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-r555",
+    "pass": 3
+   },
+   {
+    "quote": "光学透明セラミック市場は適度に統合された構造を維持しており、最大のサプライヤー10社が合わせて世界売上高の推定62％を占めています",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E5%AD%A6%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-r555",
+    "pass": 3
+   },
+   {
+    "quote": "これらのハードルを総合すると、この分野の年間成長率は 8.14% と堅調であるにもかかわらず、市場シェアの推移は緩やかです",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E5%AD%A6%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-r555",
+    "pass": 3
+   },
+   {
+    "quote": "2.3.1 タイプ別のグローバル光学透明セラミックス販売市場シェア (2017-2025)",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E5%AD%A6%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-r555",
+    "pass": 3
+   },
+   {
+    "quote": "2.3.2 タイプ別のグローバル光学透明セラミックス収益および市場シェア (2017-2025)",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E5%AD%A6%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-r555",
+    "pass": 3
+   },
+   {
+    "quote": "2.5.1 用途別のグローバル光学透明セラミックス販売市場シェア (2020-2025)",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E5%AD%A6%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-r555",
+    "pass": 3
+   },
+   {
+    "quote": "透明セラミックス市場調査、規模、シェアと予測 2020-2028年",
+    "url": "https://www.researchnester.jp/industry-analysis/transparent-ceramics-market/4223",
+    "pass": 3
+   },
+   {
+    "quote": "この地域に基づいて、世界の透明セラミック市場は、北米ヨーロッパ、アジア太平洋ラテンアメリカ、中東&アフリカ地域を含む5つの主要地域に分かれており、アジア太平洋地域は、これらの地域での低コストの労働力と安価な原材料の入手可能性により、予測期間中に世界の透明セラミックス市場で最大の市場シェアを保持すると予想されています",
+    "url": "https://www.researchnester.jp/industry-analysis/transparent-ceramics-market/4223",
+    "pass": 3
+   },
+   {
+    "quote": "光学セラミックス：市場シェア分析、業界動向と統計、成長予測（2026年～2031年）",
+    "url": "https://www.gii.co.jp/report/smrc2059014-optical-ceramics-market-forecasts-global-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "透明セラミックス：市場シェア分析、業界動向と統計、成長予測（2026～2031年）",
+    "url": "https://www.gii.co.jp/report/smrc2059014-optical-ceramics-market-forecasts-global-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "光学セラミックス市場規模、シェア、成長分析：材料別、最終用途別、地域別－業界予測（2026～2033年）",
+    "url": "https://www.gii.co.jp/report/smrc2059014-optical-ceramics-market-forecasts-global-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "透明セラミックス市場の規模、シェア、動向および予測：種類、素材、用途、地域別、2026年～2034年",
+    "url": "https://www.gii.co.jp/report/smrc2059014-optical-ceramics-market-forecasts-global-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品タイプ別の売上シェアを見ると、YAG透明セラミックスが現在世界で最も広く使用されており、45.88%を占めています",
+    "url": "https://www.atpress.ne.jp/news/8617672",
+    "pass": 3
+   },
+   {
+    "quote": "一方、用途別の売上シェアでは、透明装甲が約36.36%を占め、市場規模は5,658万米ドル、今後数年間のCAGRは約7.1%と見込まれています",
+    "url": "https://www.atpress.ne.jp/news/8617672",
+    "pass": 3
+   },
+   {
+    "quote": "世界トップ5社の売上高シェアは約88.3%を占めている",
+    "url": "https://www.atpress.ne.jp/news/8617672",
+    "pass": 3
+   },
+   {
+    "quote": "各セグメントについて、売上高、収益、市場シェア、および販売価格（2021年から2026年）が含まれています",
+    "url": "https://www.atpress.ne.jp/news/8617672",
+    "pass": 3
+   },
+   {
+    "quote": "これには、企業別の年間売上高、売上市場シェア、年間収益、収益市場シェア、および販売価格（2021年から2026年）が含まれます",
+    "url": "https://www.atpress.ne.jp/news/8617672",
+    "pass": 3
+   },
+   {
+    "quote": "透明セラミック市場規模、シェア、成長分析、セグメント、成長ドライバーと課題、および市場における主要企業、予測2037年",
+    "url": "https://www.sdki.jp/reports/transparent-ceramics-market/108698",
+    "pass": 3
+   },
+   {
+    "quote": "この地域は、2016年に透明セラミック市場の33.5％のシェアを占めました",
+    "url": "https://www.sdki.jp/reports/transparent-ceramics-market/108698",
+    "pass": 3
+   },
+   {
+    "quote": "シリンガアルデヒド市場調査レポート、規模とシェア、成長機会、主要メーカー及び傾向洞察分析― アプリケーション別、製造プロセス別、純度・グレード別、最終用途産業別及び地域別―世界市場の見通しと予測 2026－2035年",
+    "url": "https://www.sdki.jp/reports/transparent-ceramics-market/108698",
+    "pass": 3
+   },
+   {
+    "quote": "プロピオンアルデヒド市場調査レポート、規模とシェア、成長機会、主要メーカー及び傾向洞察分析― アプリケーション別、製造プロセス別、純度・グレード別、最終用途産業別、流通チャネル別及び地域別―世界市場の見通しと予測 2026－2035年",
+    "url": "https://www.sdki.jp/reports/transparent-ceramics-market/108698",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】透明セラミック市場規模マップ＋業界分析フレームワーク：主要プレイヤー別売上規模・シェア動向を徹底調査、CAGR 9.7%の高成長 | LP Information Co.,Ltdのプレスリリース",
+    "url": "https://www.dreamnews.jp/press/0000361131",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】透明セラミック市場規模マップ＋業界分析フレームワーク：主要プレイヤー別売上規模・シェア動向を徹底調査、CAGR 9.7%の高成長",
+    "url": "https://www.dreamnews.jp/press/0000361131",
+    "pass": 3
+   },
+   {
+    "quote": "LP Informationの調査統計によると、2025年の世界透明セラミック市場は高い集中度を示し、CoorsTek、Surmet Corporation、Coherent、Konoshima Chemicals、CeraNovaの上位5社で85%超を占めます",
+    "url": "https://www.dreamnews.jp/press/0000361131",
+    "pass": 3
+   },
+   {
+    "quote": "YAG透明セラミックは2025年に世界市場の約35.9%を占め、最大の単一材料カテゴリーとなっています",
+    "url": "https://www.dreamnews.jp/press/0000361131",
+    "pass": 3
+   },
+   {
+    "quote": "で、世界需要の約48%を占めました",
+    "url": "https://www.dreamnews.jp/press/0000361131",
+    "pass": 3
+   },
+   {
+    "quote": "第2章では、透明セラミックの世界市場規模を詳細に調査し、製品の分類と用途の規模、販売量、収益、価格、市場シェア、その他の主要指標を含まれています",
+    "url": "https://www.dreamnews.jp/press/0000361131",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、透明セラミックの世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します",
+    "url": "https://www.dreamnews.jp/press/0000361131",
+    "pass": 3
+   },
+   {
+    "quote": "2026電子制御スロットルボディ市場規模マップ：シェア・動向・フレームワーク、CAGR 0.19%の成熟市場",
+    "url": "https://www.dreamnews.jp/press/0000361131",
+    "pass": 3
+   },
+   {
+    "quote": "透明セラミックス市場シェア2019-2025 | 業界規模分析",
+    "url": "https://www.gminsights.com/ja/industry-analysis/transparent-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "透明セラミックス市場 サイズとシェア 2019 - 2025",
+    "url": "https://www.gminsights.com/ja/industry-analysis/transparent-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国の費用の半分以下を占める2位の中国では、世界最大の軍事支出者です",
+    "url": "https://www.gminsights.com/ja/industry-analysis/transparent-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "サファイアガラス、または単にサファイア、市場での最大のシェアを占め、市場で関与するいくつかの主要なプレーヤーと2018百万米ドル以上を生成することにより、",
+    "url": "https://www.gminsights.com/ja/industry-analysis/transparent-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "アルミオキシニドは、透明なセラミックス市場シェアのもう一つの重要な製品で、2019年から2025年にかけて、CAGRで最速成長率を25%以上表示する可能性があります",
+    "url": "https://www.gminsights.com/ja/industry-analysis/transparent-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "防衛&セキュリティは、2018年の市場の30%以上を占める最大のアプリケーションセクションです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/transparent-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国は、成熟した光電子工学および防衛セクターによって運転された2018年に北アメリカの透明な陶磁器の市場で最大のシェアのために考慮しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/transparent-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "一次調査は当社の調査手法の中核であり、分析上の知見全体の約80％を占めます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/transparent-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "データ収集・分析は当社の調査プロセスの重要な一部であり、調査手法全体の約20％を占めます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/transparent-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Transparent Ceramics Market Share 2019-2025 | Industry Size Analysis",
+    "url": "https://www.gminsights.com/industry-analysis/transparent-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Transparent Ceramics Market Europe Country Market Share Analysis, 2025 & 2035",
+    "url": "https://www.futuremarketinsights.com/reports/transparent-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share Analysis, 2024",
+    "url": "https://www.futuremarketinsights.com/reports/transparent-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Potential by Region, Pricing, Competitive Landscape and Market Share of Key Players 2025 to 2032",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-transparent-ceramics-market/3580/",
+    "pass": 3
+   },
+   {
+    "quote": "The monocrystalline segment dominated the market and accounted for a share of 53.9% in 2023 as the substance is primarily utilized in solar panels due to its elevated melting point and minimal susceptibility to corrosion. It is utilized as insulation in Solar Photovoltaic (PV) panels due to the increasing popularity of",
+    "url": "https://www.grandviewresearch.com/industry-analysis/transparent-ceramics-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "透明セラミックス の 市場規模 、シェア | 成長 レポート [2034] — 透明セラミックス の 市場規模 、シェア | 成長 レポート [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 透明セラミック...",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E5%B8%82%E5%A0%B4-106761",
+    "pass": 3
+   },
+   {
+    "quote": "透明セラミックス市場規模 、予測、シェア - 調査レポート2031年 — 透明セラミックス市場規模 、予測、シェア - 調査レポート2031年 Mordor Intelligence https://www.mordorintelligence.com > industry-reports > t...",
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/transparent-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "光学 透明セラミックス 市場規模 、 成長 、予測 2032 — 光学 透明セラミックス 市場規模 、 成長 、予測 2032 Report Prime https://www.reportprime.com > ... > レーザーと光学",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E5%AD%A6%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-r555",
+    "pass": 3
+   },
+   {
+    "quote": "透明セラミックス市場規模 は2030年に30億米ドルに達する ... — 透明セラミックス市場規模 は2030年に30億米ドルに達する ... Newscast.jp https://newscast.jp > news",
+    "url": "https://newscast.jp/news/3665424",
+    "pass": 3
+   },
+   {
+    "quote": "透明セラミックス市場 規模、 予測 、シェア - 調査レポート2031年 — 透明セラミックス市場 規模、 予測 、シェア - 調査レポート2031年 Mordor Intelligence https://www.mordorintelligence.com > industry-reports > t...",
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/transparent-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "透明セラミックス市場 レポート2035のトップ50企業 — 透明セラミックス市場 レポート2035のトップ50企業 Spherical Insights https://www.sphericalinsights.com > blogs > top-50-comp...",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-transparent-ceramics-market-expert-view-by-spherical-insights-",
+    "pass": 3
+   },
+   {
+    "quote": "透明セラミックス市場 調査、規模、シェアと 予測 2020-2028年 — 透明セラミックス市場 調査、規模、シェアと 予測 2020-2028年 Research Nester Japan https://www.researchnester.jp > 業界分析",
+    "url": "https://www.researchnester.jp/industry-analysis/transparent-ceramics-market/4223",
+    "pass": 3
+   },
+   {
+    "quote": "透明セラミックス 市場レポート2035のトップ50 企業 — 透明セラミックス 市場レポート2035のトップ50 企業 Spherical Insights https://www.sphericalinsights.com > blogs > top-50-comp...",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-transparent-ceramics-market-expert-view-by-spherical-insights-",
+    "pass": 3
+   },
+   {
+    "quote": "多結晶 透明セラミックス メーカー一覧2026年版 - LinkedIn — 多結晶 透明セラミックス メーカー一覧2026年版 - LinkedIn LinkedIn https://jp.linkedin.com > pulse > 多結晶透明セラミックスメ...",
+    "url": "https://jp.linkedin.com/pulse/%E5%A4%9A%E7%B5%90%E6%99%B6%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E4%B8%80%E8%A6%A72026%E5%B9%B4%E7%89%88-mason-metrics-4wmke",
+    "pass": 3
+   },
+   {
+    "quote": "透明セラミックス の市場規模、シェア |成長レポート [2034] — 透明セラミックス の市場規模、シェア |成長レポート [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 透明セラミック...",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E5%B8%82%E5%A0%B4-106761",
+    "pass": 3
+   },
+   {
+    "quote": "透明セラミックス の世界市場（2026年～2032年） — 透明セラミックス の世界市場（2026年～2032年） アットプレス https://www.atpress.ne.jp > news",
+    "url": "https://www.atpress.ne.jp/news/8617672",
+    "pass": 3
+   },
+   {
+    "quote": "光学 透明セラミックス 市場規模、成長、予測 2032 — 光学 透明セラミックス 市場規模、成長、予測 2032 Report Prime https://www.reportprime.com > ... > レーザーと光学",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E5%AD%A6%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-r555",
+    "pass": 3
+   },
+   {
+    "quote": "Transparent Ceramics Market Size & Share 2019 - 2025 — Transparent Ceramics Market Size & Share 2019 - 2025 Global Market Insights Inc. https://www.gminsights.com > transpa...",
+    "url": "https://www.gminsights.com/industry-analysis/transparent-ceramics-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top 50 Companies in Transparent Ceramics Market — Top 50 Companies in Transparent Ceramics Market Spherical Insights https://www.sphericalinsights.com > t...",
+    "url": "https://www.sphericalinsights.com/blogs/top-50-companies-in-transparent-ceramics-market-expert-view-by-spherical-insights-",
+    "pass": 3
+   },
+   {
+    "quote": "2026 Transparent Ceramics Market Outlook: Size , Share ... — 2026 Transparent Ceramics Market Outlook: Size , Share ... Research and Markets https://www.researchandmarkets.com > ...",
+    "url": "https://www.researchandmarkets.com/reports/5687665/2026-transparent-ceramics-market-outlook-size?srsltid=AYCX9vJocZBPb9IzIIvVCMoXj0n8aTejKAY9uFmomw_sOPiYvkCTJLbw",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Transparent Ceramics innovation - Baikowski® — 3D Printing Transparent Ceramics innovation - Baikowski® Baikowski https://www.baikowski.com > transpa...",
+    "url": "https://www.baikowski.com/en/transparent-ceramics-innovation-3d-printing-with-baikalox-alumina-mgo-doping/",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "Transparent Ceramic Market Strategy Report 2026: Competitive Landscape, Growth Factors, and Investment Risks｜QYResearch",
+    "url": "https://note.com/qy_research/n/nb6cc8976e1b0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Transparent Ceramic Market Strategy Report 2026: Competitive Landscape, Growth Factors, and Investment Risks",
+    "url": "https://note.com/qy_research/n/nb6cc8976e1b0?hl=en",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "3.20",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "quote": "この要因はCAGRに+3.20%の影響を与え、アジア太平洋と北米に集中し、中期的な影響が見込まれます"
+   },
+   {
+    "value": "2.80",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "quote": "この要因はCAGRに+2.80%の影響を与え、北米、ヨーロッパ、アジア太平洋に影響を及ぼし、長期的な影響が見込まれます"
+   },
+   {
+    "value": "2.10",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "quote": "この要因はCAGRに+2.10%の影響を与え、グローバルに影響を及ぼし、中期的な影響が見込まれます"
+   },
+   {
+    "value": "1.90",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "quote": "この要因はCAGRに+1.90%の影響を与え、北米とヨーロッパに影響を及ぼし、長期的な影響が見込まれます"
+   },
+   {
+    "value": "1.60",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "quote": "この要因はCAGRに+1.60%の影響を与え、北米とアジア太平洋に影響を及ぼし、長期的な影響が見込まれます"
+   },
+   {
+    "value": "2.40",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "quote": "この要因はCAGRに-2.40%の影響を与え、グローバルに影響を及ぼし、短期的な影響が見込まれます"
+   },
+   {
+    "value": "1.80",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "quote": "この要因はCAGRに-1.80%の影響を与え、アジア太平洋と北米に影響を及ぼし、中期的な影響が見込まれます"
+   },
+   {
+    "value": "1.20",
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "quote": "この要因はCAGRに-1.20%の影響を与え、グローバル、特に中国とアフリカに影響を及ぼし、長期的な影響が見込まれます"
+   },
+   {
+    "value": "4.90",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E5%AD%A6%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-r555",
+    "quote": "(カナダとメキシコ) の収益は、2025 年の 5,126 万ドルから 2031 年には 6,831 万ドルに増加し、CAGR は 4.90% となります"
+   },
+   {
+    "value": "7.20",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E5%AD%A6%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-r555",
+    "quote": "2031 年までに 1 億 7,086 万米ドルから 2 億 5,959 万米ドルに増加し、CAGR は 7.20% になります"
+   },
+   {
+    "value": "8.14",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E5%AD%A6%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-r555",
+    "quote": "規模は 5,980 万米ドルから 9,564 万米ドルで、世界的な CAGR 8.14% を反映しています"
+   },
+   {
+    "value": "11.2",
+    "url": "https://www.gii.co.jp/report/smrc2059014-optical-ceramics-market-forecasts-global-analysis.html",
+    "quote": "Stratistics MRCによると、世界の光学セラミックス市場は2026年に18億米ドル規模となり、2034年までに42億米ドルに達すると予測されており、予測期間中はCAGR11.2％で成長すると見込まれています"
+   },
+   {
+    "value": "10.1",
+    "url": "https://www.atpress.ne.jp/news/8617672",
+    "quote": "世界の透明セラミックス市場規模は、2025年の1億600万米ドルから2032年には2億200万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）10.1％で成長すると見込まれています"
+   },
+   {
+    "value": "7.1",
+    "url": "https://www.atpress.ne.jp/news/8617672",
+    "quote": "一方、用途別の売上シェアでは、透明装甲が約36.36%を占め、市場規模は5,658万米ドル、今後数年間のCAGRは約7.1%と見込まれています"
+   },
+   {
+    "value": "9.7",
+    "url": "https://www.dreamnews.jp/press/0000361131",
+    "quote": "【2026年版】透明セラミック市場規模マップ＋業界分析フレームワーク：主要プレイヤー別売上規模・シェア動向を徹底調査、CAGR 9.7%の高成長 | LP Information Co.,Ltdのプレスリリース"
+   },
+   {
+    "value": "10.1",
+    "url": "https://www.dreamnews.jp/press/0000361131",
+    "quote": "電気デサルター＆脱水機マーケットリサーチ：調査方法＋業界分析＋売上規模、CAGR 10.1%の高成長"
+   },
+   {
+    "value": "4.9",
+    "url": "https://www.dreamnews.jp/press/0000361131",
+    "quote": "レーザーガス供給サービス市場調査：規模・状況・調べ方・算出方法、年平均成長率（CAGR）4.9%の安定成長"
+   },
+   {
+    "value": "57.2",
+    "url": "https://www.dreamnews.jp/press/0000361131",
+    "quote": "無人運転配車サービスマーケットリサーチ：調査方法＋業界分析＋売上規模、CAGR 57.2%の超高成長"
+   },
+   {
+    "value": "0.19",
+    "url": "https://www.dreamnews.jp/press/0000361131",
+    "quote": "2026電子制御スロットルボディ市場規模マップ：シェア・動向・フレームワーク、CAGR 0.19%の成熟市場"
+   },
+   {
+    "value": "10.7",
+    "url": "https://www.dreamnews.jp/press/0000361131",
+    "quote": "衛星リモートセンシングサービスマーケットリサーチ：調査方法＋業界分析＋売上規模、年平均成長率（CAGR）10.7%の高成長"
+   },
+   {
+    "value": "25",
+    "url": "https://www.gminsights.com/ja/industry-analysis/transparent-ceramics-market",
+    "quote": "アルミオキシニドは、透明なセラミックス市場シェアのもう一つの重要な製品で、2019年から2025年にかけて、CAGRで最速成長率を25%以上表示する可能性があります"
+   },
+   {
+    "value": "6.58",
+    "url": "https://www.marketresearchfuture.com/reports/transparent-ceramic-market-33548",
+    "quote": "As per Market Research Future analysis, the Transparent Ceramic Market Size was estimated at 6.599 USD Billion in 2024. The Transparent Ceramic industry is projected to grow from 7.033 USD Billion in 2025 to 13.3 USD Billion by 2035, exhibiting a compound annual growth rate (CAGR) of 6.58% during th"
+   },
+   {
+    "value": "20",
+    "url": "https://www.gminsights.com/industry-analysis/transparent-ceramics-market",
+    "quote": "was estimated over USD 300 million in 2018 and the industry will grow by a CAGR of more than 20% up to 2025."
+   },
+   {
+    "value": "13.15",
+    "url": "https://www.sphericalinsights.com/blogs/top-50-companies-in-transparent-ceramics-market-expert-view-by-spherical-insights-",
+    "quote": "According to a research report published by Spherical Insights & Consulting, The Global Transparent Ceramics Market Size is projected to Grow from USD 769.12 Billion in 2024 to USD 2992.62 Billion by 2035, at a CAGR of 13.15% during the forecast period 2025–2035"
+   },
+   {
+    "value": "20.0",
+    "url": "https://www.futuremarketinsights.com/reports/transparent-ceramics-market",
+    "quote": "The Transparent Ceramics Market is estimated to be valued at USD 1.1 billion in 2025 and is projected to reach USD 6.7 billion by 2035, registering a compound annual growth rate (CAGR) of 20.0% over the forecast period."
+   },
+   {
+    "value": "17.6",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-transparent-ceramics-market/3580/",
+    "quote": "size was valued at USD 920.36 Mn in 2025 and total Global Transparent Ceramics Market revenue is expected to reach USD 2862.92 Mn by 2032, at a CAGR of 17.6% over the forecast period."
+   }
+  ],
+  "市場規模USD": [
+   {
+    "value": "2992.62",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-transparent-ceramics-market-expert-view-by-spherical-insights-",
+    "quote": "Spherical Insights & Consulting が公表した研究報告によると、GlobalTransparent Ceramics Market size は、予測期間2025〜2035年の間に13.15%のCAGRで2024 USD 2992.62 Billion から成長する予定です"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E5%B8%82%E5%A0%B4-106761",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/transparent-ceramics-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E5%AD%A6%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-r555",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/3665424",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-transparent-ceramics-market-expert-view-by-spherical-insights-",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.jp/industry-analysis/transparent-ceramics-market/4223",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=21101&la=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/smrc2059014-optical-ceramics-market-forecasts-global-analysis.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/8617672",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.konoshima.co.jp/ceramics/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sdki.jp/reports/transparent-ceramics-market/108698",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dreamnews.jp/press/0000361131",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/transparent-ceramics-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/transparent-ceramic-market-33548",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/transparent-ceramics-market-106761",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/transparent-ceramics-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/blogs/top-50-companies-in-transparent-ceramics-market-expert-view-by-spherical-insights-",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/transparent-ceramics-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futuremarketinsights.com/reports/transparent-ceramics-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maximizemarketresearch.com/market-report/global-transparent-ceramics-market/3580/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stratviewresearch.com/market-reports/transparent-ceramics-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/transparent-ceramics-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/qy_research/n/nb6cc8976e1b0?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mdpi.com/2571-6131/8/3/98",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/ceramic",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.baikowski.com/en/transparent-ceramics-innovation-3d-printing-with-baikalox-alumina-mgo-doping/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nsf.gov/funding/opportunities/cer-ceramics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://carta.com/data/state-of-pre-seed-2025/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "透明セラミックス 市場規模 年平均成長率",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E5%B8%82%E5%A0%B4-106761",
+    "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "https://jp.linkedin.com/pulse/forecast-report-%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-industry-expected-growth-94-cagr-from-bxsde",
+    "https://www.mordorintelligence.com/ja/industry-reports/transparent-ceramics-market",
+    "https://www.reportprime.com/ja/%E5%85%89%E5%AD%A6%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-r555",
+    "https://newscast.jp/news/3665424",
+    "https://japan.cnet.com/release/31203509/",
+    "https://www.databridgemarketresearch.com/jp/reports/global-transparent-ceramics-market",
+    "https://straitsresearch.com/jp/report/ceramics-market",
+    "https://www.fortunebusinessinsights.com/jp/透明セラミックス市場-106761"
+   ]
+  },
+  {
+   "query": "透明セラミックス 市場 予測 富士経済 OR 矢野経済 OR シーエムシー",
+   "results": [
+    "https://www.mordorintelligence.com/ja/industry-reports/transparent-ceramics-market",
+    "https://www.marketresearch.co.jp/insights/transparent-ceramics-market-mordor/",
+    "https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-transparent-ceramics-market-expert-view-by-spherical-insights-",
+    "https://www.researchnester.jp/industry-analysis/transparent-ceramics-market/4223",
+    "https://www.fuji-keizai.co.jp/press/detail.html?cid=21101&la=en",
+    "https://www.gii.co.jp/report/smrc2059014-optical-ceramics-market-forecasts-global-analysis.html",
+    "https://www.gminsights.com/ja/industry-analysis/ceramic-matrix-composites-market",
+    "https://www.datainsightsreports.com/ja/reports/noyagseramikkusu-26628",
+    "https://jp.linkedin.com/pulse/%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E3%81%AA%E8%A6%96%E7%82%B9%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E9%80%8F%E6%98%8E%E5%85%89%E5%AD%A6%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E5%B8%82%E5%A0%B4%E5%8B%95%E5%90%91%E8%AA%B2%E9%A1%8C%E3%81%9D%E3%81%97%E3%81%A6%E4%BA%88%E6%B8%AC2026%E5%B9%B42033%E5%B9%B4-shelter-scale-snnie"
+   ]
+  },
+  {
+   "query": "透明セラミックス 参入 企業 国内",
+   "results": [
+    "https://www.sphericalinsights.com/jp/blogs/top-50-companies-in-transparent-ceramics-market-expert-view-by-spherical-insights-",
+    "https://jp.linkedin.com/pulse/%E5%A4%9A%E7%B5%90%E6%99%B6%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E4%B8%80%E8%A6%A72026%E5%B9%B4%E7%89%88-mason-metrics-4wmke",
+    "https://www.fortunebusinessinsights.com/jp/%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E5%B8%82%E5%A0%B4-106761",
+    "https://www.atpress.ne.jp/news/8617672",
+    "https://www.konoshima.co.jp/ceramics/about.html",
+    "https://www.reportprime.com/ja/%E5%85%89%E5%AD%A6%E9%80%8F%E6%98%8E%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-r555",
+    "https://www.sdki.jp/reports/transparent-ceramics-market/108698",
+    "https://www.dreamnews.jp/press/0000361131",
+    "https://www.gminsights.com/ja/industry-analysis/transparent-ceramics-market",
+    "https://www.mordorintelligence.com/ja/industry-reports/transparent-ceramics-market/companies"
+   ]
+  },
+  {
+   "query": "transparent ceramics market size CAGR 2025",
+   "results": [
+    "https://www.marketresearchfuture.com/reports/transparent-ceramic-market-33548",
+    "https://www.fortunebusinessinsights.com/transparent-ceramics-market-106761",
+    "https://www.gminsights.com/industry-analysis/transparent-ceramics-market",
+    "https://www.sphericalinsights.com/blogs/top-50-companies-in-transparent-ceramics-market-expert-view-by-spherical-insights-",
+    "https://www.mordorintelligence.com/industry-reports/transparent-ceramics-market",
+    "https://www.researchandmarkets.com/reports/5687665/2026-transparent-ceramics-market-outlook-size?srsltid=AYCX9vJocZBPb9IzIIvVCMoXj0n8aTejKAY9uFmomw_sOPiYvkCTJLbw",
+    "https://www.linkedin.com/pulse/value-segmentation-share-analysis-optical-transparent-ceramics-dbzqe",
+    "https://market.us/report/global-transparent-ceramics-market/",
+    "https://www.grandviewresearch.com/industry-analysis/transparent-ceramics-market",
+    "https://www.imarcgroup.com/transparent-ceramics-market"
+   ]
+  },
+  {
+   "query": "transparent ceramics market key players competitive landscape",
+   "results": [
+    "https://www.futuremarketinsights.com/reports/transparent-ceramics-market",
+    "https://www.maximizemarketresearch.com/market-report/global-transparent-ceramics-market/3580/",
+    "https://www.fortunebusinessinsights.com/transparent-ceramics-market-106761",
+    "https://www.linkedin.com/pulse/value-segmentation-share-analysis-optical-transparent-ceramics-dbzqe",
+    "https://www.stratviewresearch.com/market-reports/transparent-ceramics-market.html",
+    "https://www.mordorintelligence.com/industry-reports/transparent-ceramics-market",
+    "https://www.grandviewresearch.com/industry-analysis/transparent-ceramics-market",
+    "https://www.marketresearchfuture.com/reports/transparent-ceramic-market-33548",
+    "https://note.com/qy_research/n/nb6cc8976e1b0?hl=en",
+    "https://www.researchandmarkets.com/reports/6233155/transparent-ceramics-market-insights"
+   ]
+  },
+  {
+   "query": "transparent ceramics startup funding 2025",
+   "results": [
+    "https://www.sphericalinsights.com/blogs/top-50-companies-in-transparent-ceramics-market-expert-view-by-spherical-insights-",
+    "https://www.fortunebusinessinsights.com/transparent-ceramics-market-106761",
+    "https://www.mdpi.com/2571-6131/8/3/98",
+    "https://startupintros.com/orgs/ceramic",
+    "https://www.linkedin.com/pulse/global-transparent-ceramics-market-iu6yf",
+    "https://www.baikowski.com/en/transparent-ceramics-innovation-3d-printing-with-baikalox-alumina-mgo-doping/",
+    "https://www.nsf.gov/funding/opportunities/cer-ceramics",
+    "https://carta.com/data/state-of-pre-seed-2025/",
+    "https://news.crunchbase.com/venture/interesting-startup-deals-ai-robotics-energy-generation/",
+    "https://www.mordorintelligence.com/industry-reports/transparent-ceramics-market"
+   ]
+  }
+ ],
+ "missing": {}
+}

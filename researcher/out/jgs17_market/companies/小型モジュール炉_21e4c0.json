@@ -1,0 +1,1958 @@
+{
+ "name": "小型モジュール炉",
+ "en": "small modular reactor",
+ "aliases": [
+  "SMR",
+  "次世代革新炉"
+ ],
+ "context": "12 GX ⑥次世代革新炉",
+ "kind": "market",
+ "researched_at": "2026-11-02T17:42:32.171047+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "小型モジュール炉市場規模・成長レポート、2026〜2035年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の小型モジュール炉（SMR）市場は、2025年に36億米ドルと評価され、2026年から2035年にかけて年平均成長率（CAGR）12.7%で拡大し、2035年までに156億米ドルに達すると予測されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Market Insights Inc.が発表した最新レポートによると、市場規模は2026年に53億米ドルに達する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の予測市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "小型モジュール炉市場規模、炉型別、2023〜2035年（10億米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "U.S. Small Modular Reactor Market Size, 2023 – 2035, (USD Billion)",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場は中程度の集中度を示している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の小型モジュール炉市場はどのようになると予測されていますか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は、2026年から2035年にかけて年平均成長率（CAGR）12.7%で成長し、2035年までに156億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の小型モジュール炉市場規模、シェア、分析、成長、予測（2032年まで）",
+    "url": "https://www.zionmarketresearch.com/ja/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "2023年の市場規模",
+    "url": "https://www.zionmarketresearch.com/ja/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の小型モジュール式原子炉市場規模は、2023年には約",
+    "url": "https://www.zionmarketresearch.com/ja/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "当社のリサーチアナリストによる分析によると、世界の小型モジュール式原子炉市場は、予測期間（2024年～2032年）において、年平均成長率（CAGR）約27.50%で成長すると推定されています",
+    "url": "https://www.zionmarketresearch.com/ja/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "収益面では、世界の小型モジュール式原子炉市場規模は2023年に約58億4000万米ドルと評価され、2032年までに520億2000万米ドルに達すると予測されている",
+    "url": "https://www.zionmarketresearch.com/ja/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間中、世界のクリーンエネルギー市場は年平均成長率（CAGR）約10%で成長すると予想されています",
+    "url": "https://www.zionmarketresearch.com/ja/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "データセンター向け小型モジュール炉（SMR）の世界市場（2026年～2032年）、市場規模（軽水SMR、高温ガス炉（HTGR）SMR、ナトリウム冷却SMR、溶融塩SMR）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/5679901",
+    "pass": 3
+   },
+   {
+    "quote": "データセンター向け小型モジュール炉（SMR）の世界市場（2026年～2032年）、市場規模（軽水SMR、高温ガス炉（HTGR）SMR、ナトリウム冷却SMR、溶融塩SMR）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/5679901",
+    "pass": 3
+   },
+   {
+    "quote": "世界のデータセンター向け小型モジュール炉（SMR）市場規模は、2025年の10億3700万米ドルから2032年には30億500万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）16.3％で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/5679901",
+    "pass": 3
+   },
+   {
+    "quote": "米国のデータセンター向け小型モジュール炉（SMR）市場は、2025年のUS$百万から2032年までにUS$百万へと拡大し、2026年から2032年までの年間平均成長率（CAGR）は%になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/5679901",
+    "pass": 3
+   },
+   {
+    "quote": "中国のデータセンター向け小型モジュール炉（SMR）市場は、2025年のUS$百万から2032年にはUS$百万に拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/5679901",
+    "pass": 3
+   },
+   {
+    "quote": "欧州のデータセンター向け小型モジュール炉（SMR）市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年までのCAGRはXX％になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/5679901",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/5679901",
+    "pass": 3
+   },
+   {
+    "quote": "コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/5679901",
+    "pass": 3
+   },
+   {
+    "quote": "セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/5679901",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/5679901",
+    "pass": 3
+   },
+   {
+    "quote": "食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/5679901",
+    "pass": 3
+   },
+   {
+    "quote": "水性ポリウレタン離型剤の世界市場（2026年～2032年）、市場規模（シリコーン油系、ワックス系、脂肪酸系、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/5679901",
+    "pass": 3
+   },
+   {
+    "quote": "小型モジュール炉市場規模、シェア、競争環境およびトレンド分析レポート、設備別、炉型別、エンドユーザー別、地域別 ：2026年から2035年までの機会分析および業界予測",
+    "url": "https://www.reportocean.co.jp/industry-reports/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "小型モジュール炉市場は、2025年に63億8,000万米ドルと評価され、2035年までに158億7,000万米ドルに達すると予測されており、2026年から2035年までの予測期間において年平均成長率（CAGR）10.66％で拡大すると見込まれています",
+    "url": "https://www.reportocean.co.jp/industry-reports/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年までの小型モジュール炉市場の予測市場規模はどのくらいですか？",
+    "url": "https://www.reportocean.co.jp/industry-reports/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "小型モジュール炉市場は、2025年に63億8,000万米ドルと評価され、2026年から2035年までの予測期間中に年平均成長率（CAGR）10.66％で成長し、2035年には158億7,000万米ドルに達すると予測されています",
+    "url": "https://www.reportocean.co.jp/industry-reports/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "小型モジュール炉市場規模、シェア｜成長予測[2035年]",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "原子炉タイプ別（軽水炉（PWR/BWR）、重水炉、高速中性子炉、高温ガス炉、溶融塩炉、マイクロリアクター）、冷却材別（水、ガス、液体金属、溶融塩）、出力別（100 MWe以下、101～200 MWe、201～300 MWe）、設置形態別（シングルモジュール、マルチモジュール）、設置場所別（陸上、海洋/浮体）、用途別（発電、海水淡水化、プロセス熱、水素製造、産業、データセンター）— 市場規模、業界動向、機会分析および2026～2035年の予測",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の小型モジュール式原子炉市場は、2025年には62億1000万米ドルに達し、積極的な産業脱炭素化に牽引され、2035年までに87億6000万米ドルを超える規模に成長し、年平均成長率（CAGR）は3.50%になると予測されている",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "国家予算と政府の公約により、小型モジュール炉（SMR）開発に40億ドル以上が割り当てられる",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国エネルギー省（DOE）は、テラパワー社のナトリウム原子炉実証プロジェクトに20億ドルを拠出し、国内SMR発電設備導入のための9億ドルの入札を再開しました",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "NEAは、2025年末までに世界のSMRへの資金調達額が154億ドルに達したことを追跡調査し、国際的な巨額の資本投入を示しました",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "新規株式公開、企業投資、データセンターへの支出により、250億ドルを超える民間資本が流入",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "小型モジュール炉（SMR）市場の大手企業の一つであるX-energyは、2026年4月のNASDAQ上場により10億ドル以上の資金調達に成功した",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Amazonは、新たなSMR技術の発展を直接加速させるために5億ドルの専用投資を行い、AWSはペンシルベニア州のエネルギー施設にSMRを導入するために200億ドルの投資を発表した",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "コンステレーション・エナジー社は、スリーマイル島原子力発電所1号機の再稼働を成功させるために16億ドルを投じた",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "に4430億ドルを費やし、SMR（小型モジュール型データセンター）へのシフトが著しく進み、2026年には世界中で7000億ドル以上を専門データセンターに費やす見込みだ",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "出力指標を分析すると、小型モジュール炉（SMR）市場は201～300MWe構成が支配しており、47.60%のシェアを占めていることが明らかになった",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "201～300MWeの発電設備を導入することで、送電コストを最大2億ドル削減できる",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "小型モジュラーリアクターの市場規模は、2035年末までに129億5,000万米ドルを超える見込みで、予測期間中、つまり2026年から2035年の間に5.7%のCAGRで成長します",
+    "url": "https://www.researchnester.jp/industry-analysis/small-modular-reactor-market/2574",
+    "pass": 3
+   },
+   {
+    "quote": "基準年の市場規模（2025年）",
+    "url": "https://www.researchnester.jp/industry-analysis/small-modular-reactor-market/2574",
+    "pass": 3
+   },
+   {
+    "quote": "予測年市場規模（2035年）",
+    "url": "https://www.researchnester.jp/industry-analysis/small-modular-reactor-market/2574",
+    "pass": 3
+   },
+   {
+    "quote": "北米の小型モジュール型原子炉市場は、2035 年末までに約 33% のシェアを誇る最大の市場になると予測されています",
+    "url": "https://www.researchnester.jp/industry-analysis/small-modular-reactor-market/2574",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の小型モジュール型原子炉市場は、2 番目に大きい市場となり、2035 年末までに約 30% のシェアを記録すると予測されています",
+    "url": "https://www.researchnester.jp/industry-analysis/small-modular-reactor-market/2574",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、アジア太平洋地域の小型モジュール型原子炉市場は、他のすべての地域の市場の中で、2035年末までにシェアの過半数を占めると予測されています",
+    "url": "https://www.researchnester.jp/industry-analysis/small-modular-reactor-market/2574",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模を容量ベースでみると、米国の商用原子力は2024年時点で約97GWの設備容量を持ち、米国の発電電力量の約19%を担っています",
+    "url": "https://note.com/better_equation/n/nee581878d4c5",
+    "pass": 3
+   },
+   {
+    "quote": "米国政府監査院は、米国エネルギー省がSMRおよび先進炉の実証として、特定プロジェクトに合計46億ドル規模のアワードを行ったと整理しています",
+    "url": "https://note.com/better_equation/n/nee581878d4c5",
+    "pass": 3
+   },
+   {
+    "quote": "内訳として、CFPP（NuScaleを用いる計画）に約13.55億ドル、Natriumに約19.79億ドル、Xe-100に約12.32億ドルという枠組みが示されています",
+    "url": "https://note.com/better_equation/n/nee581878d4c5",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、米国エネルギー省は2025年12月に、Tennessee Valley AuthorityとHoltec Internationalを、米国内の軽水炉SMR初期配備を進める支援対象として選定し、それぞれ4億ドルのコストシェア支援を行う方針を示しています",
+    "url": "https://note.com/better_equation/n/nee581878d4c5",
+    "pass": 3
+   },
+   {
+    "quote": "世界の小型モジュール炉市場規模は、2025年には75億米ドルと評価され、2026年の81億8000万米ドルから2034年には164億2000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は9.1%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の小型モジュール炉（SMR）市場は、2025年時点で地域別シェア41.30%と最大規模を誇ります",
+    "url": "https://straitsresearch.com/jp/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国の小型モジュール炉（SMR）市場は、先進原子力技術への強力な連邦政府投資と国内エネルギー安全保障強化に向けた取り組みの強化に支えられ、2025年には24億6000万米ドル規模に達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "カナダの小型モジュール炉（SMR）市場規模は、同国の国家SMR行動計画とクリーン電力発電への投資拡大に牽引され、2025年には4億8000万米ドルと評価されている",
+    "url": "https://straitsresearch.com/jp/report/small-modular-reactor-market",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "世界の小型モジュール炉（SMR）市場は、2025年に36億米ドルと評価され、2026年から2035年にかけて年平均成長率（CAGR）12.7%で拡大し、2035年までに156億米ドルに達すると予測されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "PWR設計は2025年に31%のシェアを占め、年平均成長率（CAGR）16.3%で成長すると予測されます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "BWR設計は28%のシェアを占め、年平均成長率（CAGR）18.6%での成長が予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "高速中性子炉は30%のシェアを占めましたが、主要炉型のなかでは年平均成長率（CAGR）が最も低く、9.7%にとどまります",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "HTGR設計は9.6%のシェアを占め、商用化された中国のHTR-PMと、X-energyによる産業展開への道筋に支えられ、年平均成長率（CAGR）29%で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "溶融塩／FHRシステムは1%のシェアを占め、年平均成長率（CAGR）30.3%で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "OkloのAuroraやGeneral AtomicsのEM²を含むその他の設計は、0.4%のシェアから始まるものの、小規模な基盤から年平均成長率（CAGR）36.3%を記録しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "発電は2025年に市場の80%を占め、年平均成長率（CAGR）16.7%で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "産業用・プロセス熱は8%のシェアを占め、年平均成長率（CAGR）23.1%で拡大すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "水素製造は5%のシェアを占め、年平均成長率（CAGR）17.7%で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "でしたが、2024年から2032年までの年平均成長率",
+    "url": "https://www.zionmarketresearch.com/ja/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "当社のリサーチアナリストによる分析によると、世界の小型モジュール式原子炉市場は、予測期間（2024年～2032年）において、年平均成長率（CAGR）約27.50%で成長すると推定されています",
+    "url": "https://www.zionmarketresearch.com/ja/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "27.50％のCAGR",
+    "url": "https://www.zionmarketresearch.com/ja/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間中、世界のクリーンエネルギー市場は年平均成長率（CAGR）約10%で成長すると予想されています",
+    "url": "https://www.zionmarketresearch.com/ja/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年から2032年までの期間における小型モジュール炉市場の年平均成長率（CAGR）はどのくらいになるでしょうか？",
+    "url": "https://www.zionmarketresearch.com/ja/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "小型モジュール式原子炉市場の年平均成長率（CAGR）は、2024年から2032年の期間で約27.50%になると予測されている",
+    "url": "https://www.zionmarketresearch.com/ja/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のデータセンター向け小型モジュール炉（SMR）市場規模は、2025年の10億3700万米ドルから2032年には30億500万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）16.3％で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/5679901",
+    "pass": 3
+   },
+   {
+    "quote": "米国のデータセンター向け小型モジュール炉（SMR）市場は、2025年のUS$百万から2032年までにUS$百万へと拡大し、2026年から2032年までの年間平均成長率（CAGR）は%になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/5679901",
+    "pass": 3
+   },
+   {
+    "quote": "中国のデータセンター向け小型モジュール炉（SMR）市場は、2025年のUS$百万から2032年にはUS$百万に拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/5679901",
+    "pass": 3
+   },
+   {
+    "quote": "欧州のデータセンター向け小型モジュール炉（SMR）市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年までのCAGRはXX％になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/5679901",
+    "pass": 3
+   },
+   {
+    "quote": "小型モジュール炉市場 2035年には158億7000万米ドルへ拡大、CAGR約10.66%",
+    "url": "https://www.reportocean.co.jp/industry-reports/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "均成長率（CAGR）10.66％で成長す",
+    "url": "https://www.reportocean.co.jp/industry-reports/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "小型モジュール炉市場は、2025年に63億8,000万米ドルと評価され、2035年までに158億7,000万米ドルに達すると予測されており、2026年から2035年までの予測期間において年平均成長率（CAGR）10.66％で拡大すると見込まれています",
+    "url": "https://www.reportocean.co.jp/industry-reports/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、送電網の近代化とクリーンエネルギーインフラへの投資拡大により、電力会社セグメントが最大の市場シェアを占めました",
+    "url": "https://www.reportocean.co.jp/industry-reports/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "小型モジュール炉市場は、2025年に63億8,000万米ドルと評価され、2026年から2035年までの予測期間中に年平均成長率（CAGR）10.66％で成長し、2035年には158億7,000万米ドルに達すると予測されています",
+    "url": "https://www.reportocean.co.jp/industry-reports/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、低炭素発電への投資拡大、老朽化した化石燃料発電所の置き換え、送電網の近代化、再生可能エネルギーの統合、および信頼性の高いベースロード電力への需要増加に牽引され、電力会社セグメントが市場を主導しました",
+    "url": "https://www.reportocean.co.jp/industry-reports/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の小型モジュール式原子炉市場は、2025年には62億1000万米ドルに達し、積極的な産業脱炭素化に牽引され、2035年までに87億6000万米ドルを超える規模に成長し、年平均成長率（CAGR）は3.50%になると予測されている",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国の条件付き電力購入契約は、2026年半ばまでに全体で45ギガワットにまで大幅に拡大しました",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "AIデータセンターは2030年までに年間945テラワット時を消費すると見込まれており、この基準負荷は世界的に拡大している小型モジュール炉（SMR）市場のエコシステムに最適です",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年にエネルギー需要が拡大するにつれ、電力会社は投機的なベースロードに縛られることなく、出力を柔軟に調整します",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の小型モジュール炉（SMR）市場は、2025年には62億1000万米ドルに達し、積極的な産業脱炭素化に牽引され、2035年までに87億6000万米ドルを超える見込みで、年平均成長率は3.50%と緩やかな成長が見込まれている",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "小型モジュラーリアクターの市場規模は、2035年末までに129億5,000万米ドルを超える見込みで、予測期間中、つまり2026年から2035年の間に5.7%のCAGRで成長します",
+    "url": "https://www.researchnester.jp/industry-analysis/small-modular-reactor-market/2574",
+    "pass": 3
+   },
+   {
+    "quote": "原子力省によると、世界人口の 17% を占めるインドの一次エネルギー消費量は過去 10 年間で 4% のペースで増加しており、これは世界全体の成長率 1.3% のほぼ 2 倍に相当します",
+    "url": "https://www.researchnester.jp/industry-analysis/small-modular-reactor-market/2574",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、2030年には能力が倍増すると予想されています",
+    "url": "https://www.researchnester.jp/industry-analysis/small-modular-reactor-market/2574",
+    "pass": 3
+   },
+   {
+    "quote": "国際エネルギー機関の統計によると、世界の再生可能エネルギーは毎年平均8％ずつ増加し、この期間中の純需要増加の90％以上を占めると予想されています",
+    "url": "https://www.researchnester.jp/industry-analysis/small-modular-reactor-market/2574",
+    "pass": 3
+   },
+   {
+    "quote": "この前提に沿えば、米国の原子力設備容量は概ね3倍規模への成長シナリオとなり、容量ベースの年成長率は概算で年4%台となります（算定根拠は本文）",
+    "url": "https://note.com/better_equation/n/nee581878d4c5",
+    "pass": 3
+   },
+   {
+    "quote": "このとき、設備容量ベースの年平均成長率は概算で年4.3%程度となります（97GWから297GWへ、2024年から2050年まで26年として算定）",
+    "url": "https://note.com/better_equation/n/nee581878d4c5",
+    "pass": 3
+   },
+   {
+    "quote": "小型モジュール式原子炉市場の規模、シェア、成長率（2034年）",
+    "url": "https://straitsresearch.com/jp/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の小型モジュール炉市場規模は、2025年には75億米ドルと評価され、2026年の81億8000万米ドルから2034年には164億2000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は9.1%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年2月、X-energy社は、Xe-100原子炉の導入支援、TRISO燃料製造の拡大、および商業プロジェクトの推進を目的とした戦略的資金の提供を受けた",
+    "url": "https://straitsresearch.com/jp/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年7月、ニュークレオ社は鉛冷却高速炉の開発を加速させ、ヨーロッパ全域でエンジニアリング活動を拡大するために、株式による資金調達を行った",
+    "url": "https://straitsresearch.com/jp/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "高速中性子炉（FNR）分野は、優れた燃料利用効率、使用済み核燃料のリサイクル能力、長期的な放射性廃棄物発生量の低減といった利点を背景に、予測期間中に年平均成長率（CAGR）15.84%で成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "展開状況から見ると、系統連系型セグメントは予測期間中に年平均成長率（CAGR）9.8%で成長すると予想されている",
+    "url": "https://straitsresearch.com/jp/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "2050年までに原発による発電量を現在の4倍に拡大する方針！",
+    "url": "https://diamond.jp/zai/articles/-/1068973",
+    "pass": 3
+   },
+   {
+    "quote": "2050年までに米国の原子力発電容量を現在の4倍にあたる400ギガワットに拡大する目標",
+    "url": "https://diamond.jp/zai/articles/-/1068973",
+    "pass": 3
+   },
+   {
+    "quote": "●ザイクラブ拡大版！1カ月で1番上がる株を当てろ！",
+    "url": "https://diamond.jp/zai/articles/-/1068973",
+    "pass": 3
+   },
+   {
+    "quote": "小型モジュール炉市場、2035年に158億7000万米ドル、CAGR 10.66％で成長する次世代原子力技術とエネルギー安全保障の展望 | 株式会社レポートオーシャン",
+    "url": "https://www.atpress.ne.jp/news/9798881",
+    "pass": 3
+   },
+   {
+    "quote": "小型モジュール炉市場、2035年に158億7000万米ドル、CAGR 10.66％で成長する次世代原子力技術とエネルギー安全保障の展望",
+    "url": "https://www.atpress.ne.jp/news/9798881",
+    "pass": 3
+   },
+   {
+    "quote": "Report Oceanの分析では、市場規模は2025年の63億8,000万米ドルから2035年には158億7,000万米ドルに達すると予測され、2026年から2035年の予測期間における年平均成長率（CAGR）は10.66％で推移すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/9798881",
+    "pass": 3
+   },
+   {
+    "quote": "• 小型モジュール炉市場は、2025年に63億8,000万米ドルと評価され、2035年までに158億7,000万米ドルに達すると予測されており、2026年から2035年までの予測期間において年平均成長率（CAGR）10.66％で拡大すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/9798881",
+    "pass": 3
+   },
+   {
+    "quote": "• 2025年には、送電網の近代化とクリーンエネルギーインフラへの投資拡大により、電力会社セグメントが最大の市場シェアを占めました",
+    "url": "https://www.atpress.ne.jp/news/9798881",
+    "pass": 3
+   },
+   {
+    "quote": "• 【2026年】市場拡大に向けては、実証プロジェクトの進展、安全規制対応、サプライチェーン形成の動向を確認する必要があります",
+    "url": "https://www.atpress.ne.jp/news/9798881",
+    "pass": 3
+   },
+   {
+    "quote": "小型モジュール炉市場：2035年に向けた次世代エネルギー戦略と市場拡大の可能性を読み解く",
+    "url": "https://www.atpress.ne.jp/news/9798881",
+    "pass": 3
+   },
+   {
+    "quote": "小型モジュール炉市場は、2025年の63億8000万米ドルから2035年には158億7000万米ドルに達すると予測されており、2026年から2035年の予測期間にかけて年平均成長率（CAGR）10.66％で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/9798881",
+    "pass": 3
+   },
+   {
+    "quote": "この改善カーブを実現できれば、2030年代半ばから新規導入容量が拡大し、2040年に向けた18.65ギガワットという累積導入目標の実現性が高まります",
+    "url": "https://blogs.itmedia.co.jp/business20/2026/10/smrai.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年も引き続き、地政学的リスクの長期化、世界的な脱炭素化への要請、生成AI・データセンターの急拡大による電力需要増を背景に、原子力発電への期待が一段と高まった",
+    "url": "https://jaif.or.jp/inf/wnpp/",
+    "pass": 3
+   },
+   {
+    "quote": "国際原子力機関（IAEA）は、2025年9月発行の報告書「2050年までの世界のエネルギー・電力・原子力発電予測」における高予測ケースで、世界の原子力発電設備容量が2024年末の3億7,700万kWから2050年には9億9,200万kWへと2.6倍に拡大するとの見通しを示し、5年連続で将来予測を上方修正した",
+    "url": "https://jaif.or.jp/inf/wnpp/",
+    "pass": 3
+   },
+   {
+    "quote": "同様に、国際エネルギー機関（IEA）は、2025年11月発行の報告書「世界エネルギー見通し（WEO2025）」において、世界の原子力発電設備容量は2035年までに5億6,300万kW～7億1,400万kWに増加する可能性があり、2050年までには世界の原子力発電設備容量が現在の約4億kWから約10億kW規模へ拡大するとの見通しを示した",
+    "url": "https://jaif.or.jp/inf/wnpp/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした見通しが示すとおり、従来の大型炉に加え、小型モジュール炉（SMR）など新技術への投資が拡大し、40カ国以上が原子力を自国のエネルギー戦略に盛り込み、開発を加速している",
+    "url": "https://jaif.or.jp/inf/wnpp/",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "小型モジュール炉市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "IEAは、データセンターが世界の電力消費に占める割合は、2022年の約1.5%から2030年には4〜6%になると予測している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "PWR設計は2025年に31%のシェアを占め、年平均成長率（CAGR）16.3%で成長すると予測されます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "BWR設計は28%のシェアを占め、年平均成長率（CAGR）18.6%での成長が予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "高速中性子炉は30%のシェアを占めましたが、主要炉型のなかでは年平均成長率（CAGR）が最も低く、9.7%にとどまります",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "HTGR設計は9.6%のシェアを占め、商用化された中国のHTR-PMと、X-energyによる産業展開への道筋に支えられ、年平均成長率（CAGR）29%で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "溶融塩／FHRシステムは1%のシェアを占め、年平均成長率（CAGR）30.3%で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "OkloのAuroraやGeneral AtomicsのEM²を含むその他の設計は、0.4%のシェアから始まるものの、小規模な基盤から年平均成長率（CAGR）36.3%を記録しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "発電は2025年に市場の80%を占め、年平均成長率（CAGR）16.7%で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "産業用・プロセス熱は8%のシェアを占め、年平均成長率（CAGR）23.1%で拡大すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "小型モジュール炉市場の収益シェア、用途別（2025年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "小型モジュール式原子炉市場の規模、シェア、展望、予測（2032年まで）",
+    "url": "https://www.zionmarketresearch.com/ja/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の小型モジュール炉市場規模、シェア、分析、成長、予測（2032年まで）",
+    "url": "https://www.zionmarketresearch.com/ja/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "売上高ベースでは、2025年に世界の上位2社が市場シェアの約％を占めました",
+    "url": "https://www.atpress.ne.jp/news/5679901",
+    "pass": 3
+   },
+   {
+    "quote": "また、軽水炉SMR、高温ガス炉SMR、ナトリウム冷却炉SMR、溶融塩炉SMRなどのタイプ別セグメント、およびAIトレーニングSMR、クラウドSMR、HPC SMRなどの用途別セグメント、さらにクラウドデータセンター、AIデータセンター/AIサーバー、ハイパフォーマンスコンピューティング（HPC）などのアプリケーション別セグメントについて、それぞれ販売量、収益、市場シェア、販売価格の過去（2021年～2026年）のデータと分析が詳細にまとめられています",
+    "url": "https://www.atpress.ne.jp/news/5679901",
+    "pass": 3
+   },
+   {
+    "quote": "第3章には、企業別の詳細な分析が示されており、2021年から2026年までのデータセンター向け小型モジュール炉（SMR）の年間販売量、販売市場シェア、年間収益、収益市場シェア、販売価格が企業ごとに分解されています",
+    "url": "https://www.atpress.ne.jp/news/5679901",
+    "pass": 3
+   },
+   {
+    "quote": "小型モジュール炉市場規模、シェア、競争環境およびトレンド分析レポート、設備別、炉型別、エンドユーザー別、地域別 ：2026年から2035年までの機会分析および業界予測",
+    "url": "https://www.reportocean.co.jp/industry-reports/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、送電網の近代化とクリーンエネルギーインフラへの投資拡大により、電力会社セグメントが最大の市場シェアを占めました",
+    "url": "https://www.reportocean.co.jp/industry-reports/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、電力事業セグメントは収益面における小型モジュール炉市場を独占しました",
+    "url": "https://www.reportocean.co.jp/industry-reports/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年に小型モジュール炉市場を独占していたエンドユーザーセグメントはどれですか？",
+    "url": "https://www.reportocean.co.jp/industry-reports/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "小型モジュール炉市場規模、シェア｜成長予測[2035年]",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "、小型モジュール炉（SMR）市場では軽水炉（PWR/BWR）が54%の市場シェアを占め、圧倒的なシェアを誇っている",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "、水が最も普及しており、市場シェアは58.30%です",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "：201～300Mweが市場シェア47.60%を占める",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "、マルチモジュール導入が最大の市場シェア（62%）を占めている",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "：陸上型小型モジュール式原子炉は、2025年には市場シェアの約83.70%を占める見込みです",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年に49.16%という最大の市場シェアを獲得し、市場を席巻した",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "軽水炉（PWR/BWR）セグメントは小型モジュール炉（SMR）市場を牽引し、2026年には54%のシェアを獲得すると予測されています",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "冷却剤別：水が市場シェア58.30%で首位",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "水冷却材は小型モジュール炉（SMR）市場において圧倒的な優位性を確立し、世界全体の導入台数の58.30%を占めている",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "出力定格別：201～300MWeシステムが小型モジュール炉（SMR）市場を牽引し、47.60%のシェアを獲得",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "出力指標を分析すると、小型モジュール炉（SMR）市場は201～300MWe構成が支配しており、47.60%のシェアを占めていることが明らかになった",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "マルチモジュール構成は、小型モジュール炉（SMR）市場において62%のシェアを占め、導入形態を決定づけている",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米が49.16%のシェアで市場を席巻",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年、北米は世界の小型モジュール炉（SMR）市場において49.16%という圧倒的なシェアを占める見込みです",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "小型モジュラーリアクター市場調査、規模、シェアと、予測2035年",
+    "url": "https://www.researchnester.jp/industry-analysis/small-modular-reactor-market/2574",
+    "pass": 3
+   },
+   {
+    "quote": "北米の小型モジュール型原子炉市場は、2035 年末までに約 33% のシェアを誇る最大の市場になると予測されています",
+    "url": "https://www.researchnester.jp/industry-analysis/small-modular-reactor-market/2574",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の小型モジュール型原子炉市場は、2 番目に大きい市場となり、2035 年末までに約 30% のシェアを記録すると予測されています",
+    "url": "https://www.researchnester.jp/industry-analysis/small-modular-reactor-market/2574",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、アジア太平洋地域の小型モジュール型原子炉市場は、他のすべての地域の市場の中で、2035年末までにシェアの過半数を占めると予測されています",
+    "url": "https://www.researchnester.jp/industry-analysis/small-modular-reactor-market/2574",
+    "pass": 3
+   },
+   {
+    "quote": "原子力省によると、世界人口の 17% を占めるインドの一次エネルギー消費量は過去 10 年間で 4% のペースで増加しており、これは世界全体の成長率 1.3% のほぼ 2 倍に相当します",
+    "url": "https://www.researchnester.jp/industry-analysis/small-modular-reactor-market/2574",
+    "pass": 3
+   },
+   {
+    "quote": "国際エネルギー機関の統計によると、世界の再生可能エネルギーは毎年平均8％ずつ増加し、この期間中の純需要増加の90％以上を占めると予想されています",
+    "url": "https://www.researchnester.jp/industry-analysis/small-modular-reactor-market/2574",
+    "pass": 3
+   },
+   {
+    "quote": "小型モジュラーリアクターの 7 つの用途のうち、電力部門は 2035 年に最大の市場シェアを獲得すると推定されています",
+    "url": "https://www.researchnester.jp/industry-analysis/small-modular-reactor-market/2574",
+    "pass": 3
+   },
+   {
+    "quote": "これら 5 つのセグメントのうち、HWR (重水炉) セグメントは 2035 年に大きなシェアを獲得すると予想されています",
+    "url": "https://www.researchnester.jp/industry-analysis/small-modular-reactor-market/2574",
+    "pass": 3
+   },
+   {
+    "quote": "現状の基盤として、米国エネルギー情報局は、2024年に米国の電力会社が94基、設備容量は約97GWであり、米国の発電電力量の約19%を原子力が占めるとしています",
+    "url": "https://note.com/better_equation/n/nee581878d4c5",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、米国エネルギー省は2025年12月に、Tennessee Valley AuthorityとHoltec Internationalを、米国内の軽水炉SMR初期配備を進める支援対象として選定し、それぞれ4億ドルのコストシェア支援を行う方針を示しています",
+    "url": "https://note.com/better_equation/n/nee581878d4c5",
+    "pass": 3
+   },
+   {
+    "quote": "小型モジュール式原子炉市場の規模、シェア、成長率（2034年）",
+    "url": "https://straitsresearch.com/jp/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "小型モジュール炉市場の規模、シェア、トレンド分析レポート：原子炉タイプ別（軽水炉（LWR）、高温ガス炉（HTGR）、高速中性子炉（FNR）、溶融塩炉（MSR））、設置形態別（系統連系型、系統外型）、用途別（発電、工業プロセス熱、水素製造、海水淡水化、地域暖房）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、2025年の市場シェア36.8%で小型モジュール炉市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "原子炉の種類別に見ると、軽水炉（LWR）セグメントは、技術的な成熟度、確立された規制枠組み、既存の原子力インフラとの互換性といった利点から、2025年には58.4%のシェアを占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "用途別に見ると、発電分野は、信頼性の高いベースロード電力供給と電力系統の安定化を目的とした小型モジュール炉（SMR）の導入拡大により、2025年には全体の68.2%を占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の小型モジュール炉（SMR）市場は、2025年時点で地域別シェア41.30%と最大規模を誇ります",
+    "url": "https://straitsresearch.com/jp/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の小型モジュール式原子炉市場において、最大のシェアを占めた地域はどれか？",
+    "url": "https://straitsresearch.com/jp/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年時点で36.8%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "サーマルプロテクター市場規模、シェア、成長率、予測（2034年）",
+    "url": "https://straitsresearch.com/jp/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "電気ブッシング市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "真空遮断器市場規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "分路リアクトル市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "真空絶縁開閉装置市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "家庭用非常用発電機市場の規模、シェア、成長率、分析、2034年",
+    "url": "https://straitsresearch.com/jp/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "国内店頭CFDについては、2025年度まで12年連続で取引高シェア1位を継続",
+    "url": "https://diamond.jp/zai/articles/-/1068973",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "小型モジュール炉市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "小型モジュール炉市場の主要企業には、GE Hitachi Nuclear Energy、CNNC (China National Nuclear Corp)、TerraPower、Rolls-Royce SMR Ltd、Rosatomなどが含まれ、これらの企業は2025年に合計で64%の市場シェアを占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "対象となる主要企業",
+    "url": "https://www.zionmarketresearch.com/ja/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "小型モジュール式原子炉市場の成長を活用している主要企業はどれですか？",
+    "url": "https://www.zionmarketresearch.com/ja/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、主要メーカーの製造拠点分布、販売地域、提供製品タイプ、市場集中度（CR3、CR5、CR10）を含む競争環境分析、新製品開発、潜在的参入企業、および市場におけるM&A活動と戦略に関する情報が提供されています",
+    "url": "https://www.atpress.ne.jp/news/5679901",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業のリスト：",
+    "url": "https://www.reportocean.co.jp/industry-reports/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "競合分析：小型モジュール炉（SMR）市場を支配しているのはどの主要企業か？",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "小型モジュール式原子炉市場の主要企業",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "データセンター向け電力ソリューションの拡大と船舶用原子力推進システムの普及拡大は、市場参入企業にとって新たな可能性を切り開く",
+    "url": "https://straitsresearch.com/jp/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業は、原子炉設計における技術革新、強化された受動安全システム、モジュール製造能力、規制に関する専門知識、電力会社や政府機関との戦略的パートナーシップを通じて競争しています",
+    "url": "https://straitsresearch.com/jp/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場における主要企業は、NuScale Power Corporation、GE Hitachi Nuclear Energy、TerraPower, LLC、X-energy Reactor Companyである",
+    "url": "https://straitsresearch.com/jp/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業のリスト：",
+    "url": "https://www.atpress.ne.jp/news/9798881",
+    "pass": 3
+   },
+   {
+    "quote": "市場参入企業にとっては、単純な原子力発電設備市場ではなく、エネルギー・製造業・インフラ・クリーンテクノロジーを横断する新しい産業エコシステムとして理解することが重要になっています",
+    "url": "https://www.atpress.ne.jp/news/9798881",
+    "pass": 3
+   },
+   {
+    "quote": "ゼネラル・エレクトリック社は、最新の原子力技術を統合した先進的なモジュール式原子炉ソリューションを提供する主要企業の一つです",
+    "url": "https://www.gii.co.jp/report/fbs1933185-small-modular-reactor-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "Small Modular Reactor Market Size, Key Companies, Company Market Share, User Adoption, Technology Deployment, Revenue Growth, Competitive Positioning, and Demand Forecast",
+    "url": "https://www.precedenceresearch.com/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies in the region are beginning to emerge, and there is a growing interest in SMR technology as a viable solution for energy challenges. As the region continues to explore nuclear options, the potential for growth in the SMR market seems to be promising, opening up several opportunities for market development.",
+    "url": "https://www.precedenceresearch.com/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 3: Who are the prominent players operating in the small modular reactor market?",
+    "url": "https://www.precedenceresearch.com/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "The major players operating in the small modular reactor market are ARC Energy LLC, China National Nuclear Corporation, Fluor Corporation, GE Hitachi Nuclear Energy, Holtec International, IHI Corporation, Leadcold Reactors AB, Mitsubishi Power Ltd., Moltex Energy Ltd., NuScale Power, LLC., OKBM Afrikantov, Rolls-Royce plc, SNC-Lavalin Group, and Others.",
+    "url": "https://www.precedenceresearch.com/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Analysis",
+    "url": "https://market.us/report/small-modular-reactor-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players",
+    "url": "https://market.us/report/small-modular-reactor-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Market Dynamics, Competitive Landscape, Recent Developments",
+    "url": "https://market.us/report/small-modular-reactor-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://market.us/report/small-modular-reactor-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Startups & Academia",
+    "url": "https://www.rootsanalysis.com/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape of Small Modular Reactors",
+    "url": "https://www.rootsanalysis.com/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.rootsanalysis.com/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.rootsanalysis.com/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Based on the research, we have segmented the small modular reactor market into type of coolant, connectivity, deployment, location, area of application, reactor, company size, geographical regions, and leading players.",
+    "url": "https://www.rootsanalysis.com/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Profiles of seven key companies representing utilities, industrial groups, and pure-play SMR developers.",
+    "url": "https://finance.yahoo.com/energy/articles/global-nuclear-energy-renaissance-small-094200687.html",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://finance.yahoo.com/energy/articles/global-nuclear-energy-renaissance-small-094200687.html",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players in the Small Modular Reactor Market",
+    "url": "https://www.futuremarketinsights.com/reports/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies",
+    "url": "https://www.futuremarketinsights.com/reports/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Emerging Startups",
+    "url": "https://www.futuremarketinsights.com/reports/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players:",
+    "url": "https://www.gminsights.com/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Small Modular Reactor Market Share & Competitive Landscape",
+    "url": "https://www.gminsights.com/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in small modular reactor market?",
+    "url": "https://www.gminsights.com/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in small modular reactor market include GE Hitachi Nuclear Energy, CNNC (China National Nuclear Corp), TerraPower, Rolls-Royce SMR Ltd, Rosatom, which collectively held 64% market share in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "take a look into the latest industry developments, which suggest that the SMR sector is transitioning from a narrative-driven market into a capital-intensive industrial race. That transition is reshaping the competitive landscape across technology platforms, regulatory systems, and funding ecosystems.",
+    "url": "https://home.cib.natixis.com/articles/small-modular-nuclear-reactors-is-the-dream-still-alive",
+    "pass": 3
+   },
+   {
+    "quote": "France, in particular, has played a catalytic role in incubating a large number of advanced nuclear startups.",
+    "url": "https://home.cib.natixis.com/articles/small-modular-nuclear-reactors-is-the-dream-still-alive",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study on the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/small-modular-reactor-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/small-modular-reactor-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/small-modular-reactor-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the small modular reactor market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/small-modular-reactor-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key players include Brookfield Asset Management; Moltex Energy; General Electric Company; ULTRA SAFE NUCLEAR; X Energy LLC; Fluor Corporation; Rolls-Royce plc; Westinghouse Electric Company LLC; Terrestrial Energy Inc.; General Atomics.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/small-modular-reactor-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.kenresearch.com/industry-reports/north-america-small-modular-reactors-market",
+    "pass": 3
+   },
+   {
+    "quote": "CHAPTER 9 - Competitive Landscape",
+    "url": "https://www.kenresearch.com/industry-reports/north-america-small-modular-reactors-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape Overview",
+    "url": "https://www.kenresearch.com/industry-reports/north-america-small-modular-reactors-market",
+    "pass": 3
+   },
+   {
+    "quote": "The report provides detailed cross-comparison of key players across 10 performance parameters to identify competitive strengths and weaknesses.",
+    "url": "https://www.kenresearch.com/industry-reports/north-america-small-modular-reactors-market",
+    "pass": 3
+   },
+   {
+    "quote": "Companies Profiled",
+    "url": "https://www.kenresearch.com/industry-reports/north-america-small-modular-reactors-market",
+    "pass": 3
+   },
+   {
+    "quote": "Small Modular Reactor Market Competitive Landscape",
+    "url": "https://www.skyquestt.com/report/small-modular-reactor-market/companies",
+    "pass": 3
+   },
+   {
+    "quote": "Small Modular Reactor Market Competitive Landscape",
+    "url": "https://www.emergenresearch.com/industry-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global small modular reactor market is moderately fragmented, with many large and medium-sized players accounting for majority of market revenue. Major players are deploying various strategies, entering into mergers & acquisitions, strategic agreements & contracts, developing, testing, and introducing more effective small modular reactor designs and systems.",
+    "url": "https://www.emergenresearch.com/industry-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some major players included in the global small modular reactor market report are:",
+    "url": "https://www.emergenresearch.com/industry-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.emergenresearch.com/industry-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.emergenresearch.com/industry-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Chapter 9. Competitive Landscape",
+    "url": "https://www.emergenresearch.com/industry-report/small-modular-reactor-market",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "2030年まで、実際の立地・建設段階に到達するプロジェクトにとって、原子炉設計の差別化よりも資金調達規律が引き続き決定的な要素となる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/5679901",
+    "pass": 3
+   },
+   {
+    "quote": "NEAは、2025年末までに世界のSMRへの資金調達額が154億ドルに達したことを追跡調査し、国際的な巨額の資本投入を示しました",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "小型モジュール炉（SMR）市場の大手企業の一つであるX-energyは、2026年4月のNASDAQ上場により10億ドル以上の資金調達に成功した",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "小型モジュール炉市場における主要な投資および資金調達活動、2025年～2026年",
+    "url": "https://straitsresearch.com/jp/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月、ラストエナジー社は、ヨーロッパ全域の産業顧客および商業顧客向けに標準化されたマイクロリアクターの導入を加速させるため、シリーズB資金調達を実施した",
+    "url": "https://straitsresearch.com/jp/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年7月、ニュークレオ社は鉛冷却高速炉の開発を加速させ、ヨーロッパ全域でエンジニアリング活動を拡大するために、株式による資金調達を行った",
+    "url": "https://straitsresearch.com/jp/report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "は2024年10月、米国のX-エナジーに出資し、2039年までに合計5ギガワット以上のSMRを米国内で稼働させる計画を発表しました",
+    "url": "https://diamond.jp/zai/articles/-/1068973",
+    "pass": 3
+   },
+   {
+    "quote": "【株主優待】必要投資額30万円台の“実力派”優待株の2銘柄！ 人気のお菓子などがもらえる｢明治HD｣と普段の食卓で使いやすい食品優待の｢理研ビタミン｣に注目",
+    "url": "https://diamond.jp/zai/articles/-/1068973",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9798881",
+    "pass": 3
+   },
+   {
+    "quote": "同リポートは、人工知能の急速な普及に伴うデータセンターの電力消費急増とエネルギー安全保障の強化を背景に、小型モジュール炉SMRへの累積投資額が2040年までに1,514億5,000万ドルに達し、同年に18.65ギガワットが稼働すると予測しています",
+    "url": "https://blogs.itmedia.co.jp/business20/2026/10/smrai.html",
+    "pass": 3
+   },
+   {
+    "quote": "24時間途切れないカーボンフリー電力を得るため、小型モジュール炉SMRの開発企業への出資や長期電力購入契約の締結が相次いでいます",
+    "url": "https://blogs.itmedia.co.jp/business20/2026/10/smrai.html",
+    "pass": 3
+   },
+   {
+    "quote": "米テラパワーはエヌビディアなどの出資を受け、ワイオミング州で345メガワット級のナトリウム冷却炉の建設を進めています",
+    "url": "https://blogs.itmedia.co.jp/business20/2026/10/smrai.html",
+    "pass": 3
+   },
+   {
+    "quote": "With AI infrastructure accelerating electricity consumption and governments prioritizing energy security, nuclear power and SMR technologies are positioned for significant investment through 2031. The report provides the market intelligence required to assess regional opportunities, competitive positioning, financing challenges, and emerging nuclear procurement models.",
+    "url": "https://finance.yahoo.com/energy/articles/global-nuclear-energy-renaissance-small-094200687.html",
+    "pass": 3
+   },
+   {
+    "quote": "share in 2026 because two-module systems and multi-unit plants can align investment with demand growth.",
+    "url": "https://www.futuremarketinsights.com/reports/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "The United States reaches 8.2%, 0.3 percentage point above South Korea, as federal funding supports several light-water SMR projects and advanced-reactor licensing continues.",
+    "url": "https://www.futuremarketinsights.com/reports/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "through 2036. Progress now depends on milestone delivery before a final investment decision.",
+    "url": "https://www.futuremarketinsights.com/reports/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Licensing creates a long lead between investment and revenue. The U.S. NRC’s process includes construction-permit and operating-license reviews, while information gaps can lengthen each stage. The 2026 Part 53 framework is intended to accommodate non-light-water and advanced configurations.",
+    "url": "https://www.gminsights.com/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Apr 2026: UAE Ministry of Investment and China’s Jereh Group formalized a clean-energy and industrial-development partnership that includes SMR deployment. The development links reactor interest to industrial policy.",
+    "url": "https://www.gminsights.com/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "US SMR companies raised approximately USD1.5 billion in disclosed private equity funding during 2025 and early 2026, compared with roughly USD295 million raised by European companies over the same period.",
+    "url": "https://home.cib.natixis.com/articles/small-modular-nuclear-reactors-is-the-dream-still-alive",
+    "pass": 3
+   },
+   {
+    "quote": "In 2024, Google signed a power purchase agreement with Kairos Power for up to 500 megawatts of small modular reactor capacity, and Amazon invested in X-energy's Xe-100 pebble-bed reactor. These were among the first binding agreements between hyperscale technology operators and reactor developers. They converted broad clean-energy pledges into firm demand for reactor capacity.",
+    "url": "https://www.emergenresearch.com/industry-report/small-modular-reactor-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "小型モジュール炉市場規模 ・成長レポート、2026〜2035年 — 小型モジュール炉市場規模 ・成長レポート、2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > small-m...",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "小型モジュール炉市場 2035年には158億7000万米ドルへ拡大 — 小型モジュール炉市場 2035年には158億7000万米ドルへ拡大 Ｒｅｐｏｒｔ Ｏｃｅａｎ株式会社 https://www.reportocean.co.jp > industry-reports > small-...",
+    "url": "https://www.reportocean.co.jp/industry-reports/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "小型モジュール炉市場 規模・成長レポート、2026〜2035年 — 小型モジュール炉市場 規模・成長レポート、2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > small-m...",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "小型モジュール炉市場 規模、 シェア ｜成長予測[2035年] — 小型モジュール炉市場 規模、 シェア ｜成長予測[2035年] Astute Analytica https://www.astuteanalytica.com > industry-report > small-...",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "小型モジュール炉SMR はデータセンターの深刻な電力不足を ... — 小型モジュール炉SMR はデータセンターの深刻な電力不足を ... オルタナティブ・ブログ https://blogs.itmedia.co.jp > business20 > 2026/10 > smrai",
+    "url": "https://blogs.itmedia.co.jp/business20/2026/10/smrai.html",
+    "pass": 3
+   },
+   {
+    "quote": "Small Modular Reactor Market Size , Share | CAGR of 5.5% — Small Modular Reactor Market Size , Share | CAGR of 5.5% Market.us https://market.us > report > small-mo...",
+    "url": "https://market.us/report/small-modular-reactor-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Small Modular Reactor Market Size , Report, Industry, 2035 — Small Modular Reactor Market Size , Report, Industry, 2035 Roots Analysis https://www.rootsanalysis.com > small...",
+    "url": "https://www.rootsanalysis.com/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Small Modular Reactor Market Size | Industry Report, 2033 — Small Modular Reactor Market Size | Industry Report, 2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/small-modular-reactor-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Small Modular Reactor Market Size & Share Analysis 2030 — Small Modular Reactor Market Size & Share Analysis 2030 Mordor Intelligence https://www.mordorintelligence.com > ...",
+    "url": "https://www.mordorintelligence.com/industry-reports/small-modular-reactor-smr-market",
+    "pass": 3
+   },
+   {
+    "quote": "Small Modular Reactor Market Size, Growth Report 2026-2035 — Small Modular Reactor Market Size, Growth Report 2026-2035 Global Market Insights Inc. https://www.gminsights.com > small-...",
+    "url": "https://www.gminsights.com/industry-analysis/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "US Small Modular Reactor Market (2024-2029) — US Small Modular Reactor Market (2024-2029) MarketsandMarkets https://www.marketsandmarkets.com > ...",
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/small-modular-reactor-market/US",
+    "pass": 3
+   },
+   {
+    "quote": "Small Modular Reactor Market Size, Report, Industry, 2035 — Small Modular Reactor Market Size, Report, Industry, 2035 Roots Analysis https://www.rootsanalysis.com > small...",
+    "url": "https://www.rootsanalysis.com/small-modular-reactor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Small Modular Reactor Market Size, Share | CAGR of 5.5% — Small Modular Reactor Market Size, Share | CAGR of 5.5% Market.us https://market.us > report > small-mo...",
+    "url": "https://market.us/report/small-modular-reactor-market/",
+    "pass": 3
+   },
+   {
+    "quote": "5 Nuclear Stocks to Watch as SMRs and Microreactors Advance — 5 Nuclear Stocks to Watch as SMRs and Microreactors Advance Themes ETFs https://themesetfs.com > insights > 5-...",
+    "url": "https://themesetfs.com/insights/5-nuclear-stocks-to-watch-as-smrs-and-microreactors-advance",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "12.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "quote": "世界の小型モジュール炉（SMR）市場は、2025年に36億米ドルと評価され、2026年から2035年にかけて年平均成長率（CAGR）12.7%で拡大し、2035年までに156億米ドルに達すると予測されている"
+   },
+   {
+    "value": "16.3",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "quote": "PWR設計は2025年に31%のシェアを占め、年平均成長率（CAGR）16.3%で成長すると予測されます"
+   },
+   {
+    "value": "18.6",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "quote": "BWR設計は28%のシェアを占め、年平均成長率（CAGR）18.6%での成長が予測されています"
+   },
+   {
+    "value": "9.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "quote": "高速中性子炉は30%のシェアを占めましたが、主要炉型のなかでは年平均成長率（CAGR）が最も低く、9.7%にとどまります"
+   },
+   {
+    "value": "29",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "quote": "HTGR設計は9.6%のシェアを占め、商用化された中国のHTR-PMと、X-energyによる産業展開への道筋に支えられ、年平均成長率（CAGR）29%で成長すると予測されています"
+   },
+   {
+    "value": "30.3",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "quote": "溶融塩／FHRシステムは1%のシェアを占め、年平均成長率（CAGR）30.3%で成長すると予測されています"
+   },
+   {
+    "value": "36.3",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "quote": "OkloのAuroraやGeneral AtomicsのEM²を含むその他の設計は、0.4%のシェアから始まるものの、小規模な基盤から年平均成長率（CAGR）36.3%を記録しています"
+   },
+   {
+    "value": "16.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "quote": "発電は2025年に市場の80%を占め、年平均成長率（CAGR）16.7%で成長すると予測されています"
+   },
+   {
+    "value": "23.1",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "quote": "産業用・プロセス熱は8%のシェアを占め、年平均成長率（CAGR）23.1%で拡大すると予測されています"
+   },
+   {
+    "value": "17.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "quote": "水素製造は5%のシェアを占め、年平均成長率（CAGR）17.7%で成長すると予測されています"
+   },
+   {
+    "value": "27.50",
+    "url": "https://www.zionmarketresearch.com/ja/report/small-modular-reactor-market",
+    "quote": "当社のリサーチアナリストによる分析によると、世界の小型モジュール式原子炉市場は、予測期間（2024年～2032年）において、年平均成長率（CAGR）約27.50%で成長すると推定されています"
+   },
+   {
+    "value": "10",
+    "url": "https://www.zionmarketresearch.com/ja/report/small-modular-reactor-market",
+    "quote": "予測期間中、世界のクリーンエネルギー市場は年平均成長率（CAGR）約10%で成長すると予想されています"
+   },
+   {
+    "value": "16.3",
+    "url": "https://www.atpress.ne.jp/news/5679901",
+    "quote": "世界のデータセンター向け小型モジュール炉（SMR）市場規模は、2025年の10億3700万米ドルから2032年には30億500万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）16.3％で成長すると見込まれています"
+   },
+   {
+    "value": "10.66",
+    "url": "https://www.reportocean.co.jp/industry-reports/small-modular-reactor-market",
+    "quote": "小型モジュール炉市場 2035年には158億7000万米ドルへ拡大、CAGR約10.66%"
+   },
+   {
+    "value": "3.50",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "quote": "世界の小型モジュール式原子炉市場は、2025年には62億1000万米ドルに達し、積極的な産業脱炭素化に牽引され、2035年までに87億6000万米ドルを超える規模に成長し、年平均成長率（CAGR）は3.50%になると予測されている"
+   },
+   {
+    "value": "4.3",
+    "url": "https://note.com/better_equation/n/nee581878d4c5",
+    "quote": "このとき、設備容量ベースの年平均成長率は概算で年4.3%程度となります（97GWから297GWへ、2024年から2050年まで26年として算定）"
+   },
+   {
+    "value": "9.1",
+    "url": "https://straitsresearch.com/jp/report/small-modular-reactor-market",
+    "quote": "世界の小型モジュール炉市場規模は、2025年には75億米ドルと評価され、2026年の81億8000万米ドルから2034年には164億2000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は9.1%となる見込みです"
+   },
+   {
+    "value": "15.84",
+    "url": "https://straitsresearch.com/jp/report/small-modular-reactor-market",
+    "quote": "高速中性子炉（FNR）分野は、優れた燃料利用効率、使用済み核燃料のリサイクル能力、長期的な放射性廃棄物発生量の低減といった利点を背景に、予測期間中に年平均成長率（CAGR）15.84%で成長すると予測されています"
+   },
+   {
+    "value": "9.8",
+    "url": "https://straitsresearch.com/jp/report/small-modular-reactor-market",
+    "quote": "展開状況から見ると、系統連系型セグメントは予測期間中に年平均成長率（CAGR）9.8%で成長すると予想されている"
+   },
+   {
+    "value": "10.66",
+    "url": "https://www.atpress.ne.jp/news/9798881",
+    "quote": "小型モジュール炉市場、2035年に158億7000万米ドル、CAGR 10.66％で成長する次世代原子力技術とエネルギー安全保障の展望 | 株式会社レポートオーシャン"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "1.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "quote": "IEAは、データセンターが世界の電力消費に占める割合は、2022年の約1.5%から2030年には4〜6%になると予測している"
+   },
+   {
+    "value": "6",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "quote": "IEAは、データセンターが世界の電力消費に占める割合は、2022年の約1.5%から2030年には4〜6%になると予測している"
+   },
+   {
+    "value": "31",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "quote": "PWR設計は2025年に31%のシェアを占め、年平均成長率（CAGR）16.3%で成長すると予測されます"
+   },
+   {
+    "value": "16.3",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "quote": "PWR設計は2025年に31%のシェアを占め、年平均成長率（CAGR）16.3%で成長すると予測されます"
+   },
+   {
+    "value": "28",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "quote": "BWR設計は28%のシェアを占め、年平均成長率（CAGR）18.6%での成長が予測されています"
+   },
+   {
+    "value": "18.6",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "quote": "BWR設計は28%のシェアを占め、年平均成長率（CAGR）18.6%での成長が予測されています"
+   },
+   {
+    "value": "30",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "quote": "高速中性子炉は30%のシェアを占めましたが、主要炉型のなかでは年平均成長率（CAGR）が最も低く、9.7%にとどまります"
+   },
+   {
+    "value": "9.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "quote": "高速中性子炉は30%のシェアを占めましたが、主要炉型のなかでは年平均成長率（CAGR）が最も低く、9.7%にとどまります"
+   },
+   {
+    "value": "9.6",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "quote": "HTGR設計は9.6%のシェアを占め、商用化された中国のHTR-PMと、X-energyによる産業展開への道筋に支えられ、年平均成長率（CAGR）29%で成長すると予測されています"
+   },
+   {
+    "value": "29",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "quote": "HTGR設計は9.6%のシェアを占め、商用化された中国のHTR-PMと、X-energyによる産業展開への道筋に支えられ、年平均成長率（CAGR）29%で成長すると予測されています"
+   },
+   {
+    "value": "1",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "quote": "溶融塩／FHRシステムは1%のシェアを占め、年平均成長率（CAGR）30.3%で成長すると予測されています"
+   },
+   {
+    "value": "30.3",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "quote": "溶融塩／FHRシステムは1%のシェアを占め、年平均成長率（CAGR）30.3%で成長すると予測されています"
+   },
+   {
+    "value": "0.4",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "quote": "OkloのAuroraやGeneral AtomicsのEM²を含むその他の設計は、0.4%のシェアから始まるものの、小規模な基盤から年平均成長率（CAGR）36.3%を記録しています"
+   },
+   {
+    "value": "36.3",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "quote": "OkloのAuroraやGeneral AtomicsのEM²を含むその他の設計は、0.4%のシェアから始まるものの、小規模な基盤から年平均成長率（CAGR）36.3%を記録しています"
+   },
+   {
+    "value": "80",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "quote": "発電は2025年に市場の80%を占め、年平均成長率（CAGR）16.7%で成長すると予測されています"
+   },
+   {
+    "value": "16.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "quote": "発電は2025年に市場の80%を占め、年平均成長率（CAGR）16.7%で成長すると予測されています"
+   },
+   {
+    "value": "8",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "quote": "産業用・プロセス熱は8%のシェアを占め、年平均成長率（CAGR）23.1%で拡大すると予測されています"
+   },
+   {
+    "value": "23.1",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "quote": "産業用・プロセス熱は8%のシェアを占め、年平均成長率（CAGR）23.1%で拡大すると予測されています"
+   },
+   {
+    "value": "54",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "quote": "、小型モジュール炉（SMR）市場では軽水炉（PWR/BWR）が54%の市場シェアを占め、圧倒的なシェアを誇っている"
+   },
+   {
+    "value": "58.30",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "quote": "、水が最も普及しており、市場シェアは58.30%です"
+   },
+   {
+    "value": "47.60",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "quote": "：201～300Mweが市場シェア47.60%を占める"
+   },
+   {
+    "value": "62",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "quote": "、マルチモジュール導入が最大の市場シェア（62%）を占めている"
+   },
+   {
+    "value": "83.70",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "quote": "：陸上型小型モジュール式原子炉は、2025年には市場シェアの約83.70%を占める見込みです"
+   },
+   {
+    "value": "49.16",
+    "url": "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "quote": "2025年に49.16%という最大の市場シェアを獲得し、市場を席巻した"
+   },
+   {
+    "value": "33",
+    "url": "https://www.researchnester.jp/industry-analysis/small-modular-reactor-market/2574",
+    "quote": "北米の小型モジュール型原子炉市場は、2035 年末までに約 33% のシェアを誇る最大の市場になると予測されています"
+   },
+   {
+    "value": "30",
+    "url": "https://www.researchnester.jp/industry-analysis/small-modular-reactor-market/2574",
+    "quote": "欧州の小型モジュール型原子炉市場は、2 番目に大きい市場となり、2035 年末までに約 30% のシェアを記録すると予測されています"
+   },
+   {
+    "value": "17",
+    "url": "https://www.researchnester.jp/industry-analysis/small-modular-reactor-market/2574",
+    "quote": "原子力省によると、世界人口の 17% を占めるインドの一次エネルギー消費量は過去 10 年間で 4% のペースで増加しており、これは世界全体の成長率 1.3% のほぼ 2 倍に相当します"
+   },
+   {
+    "value": "4",
+    "url": "https://www.researchnester.jp/industry-analysis/small-modular-reactor-market/2574",
+    "quote": "原子力省によると、世界人口の 17% を占めるインドの一次エネルギー消費量は過去 10 年間で 4% のペースで増加しており、これは世界全体の成長率 1.3% のほぼ 2 倍に相当します"
+   },
+   {
+    "value": "1.3",
+    "url": "https://www.researchnester.jp/industry-analysis/small-modular-reactor-market/2574",
+    "quote": "原子力省によると、世界人口の 17% を占めるインドの一次エネルギー消費量は過去 10 年間で 4% のペースで増加しており、これは世界全体の成長率 1.3% のほぼ 2 倍に相当します"
+   },
+   {
+    "value": "8",
+    "url": "https://www.researchnester.jp/industry-analysis/small-modular-reactor-market/2574",
+    "quote": "国際エネルギー機関の統計によると、世界の再生可能エネルギーは毎年平均8％ずつ増加し、この期間中の純需要増加の90％以上を占めると予想されています"
+   },
+   {
+    "value": "90",
+    "url": "https://www.researchnester.jp/industry-analysis/small-modular-reactor-market/2574",
+    "quote": "国際エネルギー機関の統計によると、世界の再生可能エネルギーは毎年平均8％ずつ増加し、この期間中の純需要増加の90％以上を占めると予想されています"
+   },
+   {
+    "value": "19",
+    "url": "https://note.com/better_equation/n/nee581878d4c5",
+    "quote": "現状の基盤として、米国エネルギー情報局は、2024年に米国の電力会社が94基、設備容量は約97GWであり、米国の発電電力量の約19%を原子力が占めるとしています"
+   },
+   {
+    "value": "36.8",
+    "url": "https://straitsresearch.com/jp/report/small-modular-reactor-market",
+    "quote": "北米は、2025年の市場シェア36.8%で小型モジュール炉市場を牽引しました"
+   },
+   {
+    "value": "58.4",
+    "url": "https://straitsresearch.com/jp/report/small-modular-reactor-market",
+    "quote": "原子炉の種類別に見ると、軽水炉（LWR）セグメントは、技術的な成熟度、確立された規制枠組み、既存の原子力インフラとの互換性といった利点から、2025年には58.4%のシェアを占める見込みです"
+   },
+   {
+    "value": "68.2",
+    "url": "https://straitsresearch.com/jp/report/small-modular-reactor-market",
+    "quote": "用途別に見ると、発電分野は、信頼性の高いベースロード電力供給と電力系統の安定化を目的とした小型モジュール炉（SMR）の導入拡大により、2025年には全体の68.2%を占める見込みです"
+   },
+   {
+    "value": "41.30",
+    "url": "https://straitsresearch.com/jp/report/small-modular-reactor-market",
+    "quote": "北米の小型モジュール炉（SMR）市場は、2025年時点で地域別シェア41.30%と最大規模を誇ります"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E5%B0%8F%E5%9E%8B%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E5%9E%8B%E5%8E%9F%E5%AD%90%E7%82%89%E5%B8%82%E5%A0%B4-101578",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zionmarketresearch.com/ja/report/small-modular-reactor-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/5679901",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reportocean.co.jp/industry-reports/small-modular-reactor-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.jp/industry-analysis/small-modular-reactor-market/2574",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/better_equation/n/nee581878d4c5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/small-modular-reactor-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://diamond.jp/zai/articles/-/1068973",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/9798881",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blogs.itmedia.co.jp/business20/2026/10/smrai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jaif.or.jp/inf/wnpp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/fbs1933185-small-modular-reactor-market-size-share-growth.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/small-modular-reactor-smr-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/small-modular-reactor-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/small-modular-nuclear-reactor-market-101578",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/small-modular-reactor-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rootsanalysis.com/small-modular-reactor-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/energy/articles/global-nuclear-energy-renaissance-small-094200687.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/small-modular-reactor-market-5001546.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/small-modular-reactor-smr-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/UraniumSqueeze/comments/1gygbeh/which_smr_company_do_you_think_is_most_likely_to/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.futuremarketinsights.com/reports/small-modular-reactor-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://world-nuclear.org/information-library/nuclear-power-reactors/small-modular-reactors/small-modular-reactors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/small-modular-reactor-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/small-modular-reactor-market/US",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://home.cib.natixis.com/articles/small-modular-nuclear-reactors-is-the-dream-still-alive",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iea.org/reports/the-path-to-a-new-era-for-nuclear-energy/executive-summary",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://nucleus.iaea.org/sites/smr/Shared%20Documents/Small%20Modular%20Reactors%20a%20new%20nuclear%20energy%20paradigm.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/small-modular-reactor-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://themesetfs.com/insights/5-nuclear-stocks-to-watch-as-smrs-and-microreactors-advance",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kenresearch.com/industry-reports/north-america-small-modular-reactors-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skyquestt.com/report/small-modular-reactor-market/companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.emergenresearch.com/industry-report/small-modular-reactor-market",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "小型モジュール炉 市場規模 CAGR",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E5%B0%8F%E5%9E%8B%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E5%9E%8B%E5%8E%9F%E5%AD%90%E7%82%89%E5%B8%82%E5%A0%B4-101578",
+    "https://www.zionmarketresearch.com/ja/report/small-modular-reactor-market",
+    "https://www.atpress.ne.jp/news/5679901",
+    "https://www.reportocean.co.jp/industry-reports/small-modular-reactor-market",
+    "https://www.researchnester.jp/industry-analysis/small-modular-reactor-market/2574",
+    "https://straitsresearch.com/jp/report/small-modular-reactor-market",
+    "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "https://note.com/better_equation/n/nee581878d4c5",
+    "https://www.mordorintelligence.com/ja/industry-reports/small-modular-reactor-smr-market"
+   ]
+  },
+  {
+   "query": "小型モジュール炉 市場 シェア 上位 企業",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E5%B0%8F%E5%9E%8B%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E5%9E%8B%E5%8E%9F%E5%AD%90%E7%82%89%E5%B8%82%E5%A0%B4-101578",
+    "https://www.zionmarketresearch.com/ja/report/small-modular-reactor-market",
+    "https://www.reportocean.co.jp/industry-reports/small-modular-reactor-market",
+    "https://www.astuteanalytica.com/ja/industry-report/small-modular-reactor-market",
+    "https://www.researchnester.jp/industry-analysis/small-modular-reactor-market/2574",
+    "https://note.com/better_equation/n/nee581878d4c5",
+    "https://straitsresearch.com/jp/report/small-modular-reactor-market",
+    "https://diamond.jp/zai/articles/-/1068973",
+    "https://www.fortunebusinessinsights.com/jp/業界-レポート/小型モジュール型原子炉市場-101578"
+   ]
+  },
+  {
+   "query": "小型モジュール炉 市場 前年比 2025",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E5%B0%8F%E5%9E%8B%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E5%9E%8B%E5%8E%9F%E5%AD%90%E7%82%89%E5%B8%82%E5%A0%B4-101578",
+    "https://www.atpress.ne.jp/news/9798881",
+    "https://www.zionmarketresearch.com/ja/report/small-modular-reactor-market",
+    "https://www.reportocean.co.jp/industry-reports/small-modular-reactor-market",
+    "https://blogs.itmedia.co.jp/business20/2026/10/smrai.html",
+    "https://jaif.or.jp/inf/wnpp/",
+    "https://www.researchnester.jp/industry-analysis/small-modular-reactor-market/2574",
+    "https://note.com/better_equation/n/nee581878d4c5",
+    "https://www.gii.co.jp/report/fbs1933185-small-modular-reactor-market-size-share-growth.html"
+   ]
+  },
+  {
+   "query": "small modular reactor market size CAGR 2025",
+   "results": [
+    "https://www.precedenceresearch.com/small-modular-reactor-market",
+    "https://www.fortunebusinessinsights.com/industry-reports/small-modular-nuclear-reactor-market-101578",
+    "https://market.us/report/small-modular-reactor-market/",
+    "https://www.rootsanalysis.com/small-modular-reactor-market",
+    "https://finance.yahoo.com/energy/articles/global-nuclear-energy-renaissance-small-094200687.html",
+    "https://www.grandviewresearch.com/industry-analysis/small-modular-reactor-market-report",
+    "https://tocco.earth/article/small-nuclear-reactor-market-size",
+    "https://www.marketresearchfuture.com/reports/small-modular-reactor-market-23561",
+    "https://www.kenresearch.com/industry-reports/north-america-small-modular-reactors-market",
+    "https://www.mordorintelligence.com/industry-reports/small-modular-reactor-smr-market"
+   ]
+  },
+  {
+   "query": "small modular reactor market share top players percent",
+   "results": [
+    "https://market.us/report/small-modular-reactor-market/",
+    "https://www.marketsandmarkets.com/Market-Reports/small-modular-reactor-market-5001546.html",
+    "https://www.fortunebusinessinsights.com/industry-reports/small-modular-nuclear-reactor-market-101578",
+    "https://www.mordorintelligence.com/industry-reports/small-modular-reactor-smr-market",
+    "https://www.reddit.com/r/UraniumSqueeze/comments/1gygbeh/which_smr_company_do_you_think_is_most_likely_to/",
+    "https://www.futuremarketinsights.com/reports/small-modular-reactor-market",
+    "https://world-nuclear.org/information-library/nuclear-power-reactors/small-modular-reactors/small-modular-reactors",
+    "https://www.skyquestt.com/report/small-modular-reactor-market/companies",
+    "https://www.grandviewresearch.com/industry-analysis/small-modular-reactor-market-report",
+    "https://www.precedenceresearch.com/small-modular-reactor-market"
+   ]
+  },
+  {
+   "query": "small modular reactor market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/small-modular-reactor-market",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/small-modular-reactor-market/US",
+    "https://home.cib.natixis.com/articles/small-modular-nuclear-reactors-is-the-dream-still-alive",
+    "https://www.rootsanalysis.com/small-modular-reactor-market",
+    "https://www.fortunebusinessinsights.com/industry-reports/small-modular-nuclear-reactor-market-101578",
+    "https://market.us/report/small-modular-reactor-market/",
+    "https://www.iea.org/reports/the-path-to-a-new-era-for-nuclear-energy/executive-summary",
+    "https://nucleus.iaea.org/sites/smr/Shared%20Documents/Small%20Modular%20Reactors%20a%20new%20nuclear%20energy%20paradigm.pdf",
+    "https://www.abiresearch.com/blog/small-modular-reactors-pros-and-cons",
+    "https://en.wikipedia.org/wiki/Consolidated_Aircraft"
+   ]
+  },
+  {
+   "query": "small modular reactor market key companies share 2025",
+   "results": [
+    "https://www.precedenceresearch.com/small-modular-reactor-market",
+    "https://www.grandviewresearch.com/industry-analysis/small-modular-reactor-market-report",
+    "https://www.fortunebusinessinsights.com/industry-reports/small-modular-nuclear-reactor-market-101578",
+    "https://market.us/report/small-modular-reactor-market/",
+    "https://www.rootsanalysis.com/small-modular-reactor-market",
+    "https://themesetfs.com/insights/5-nuclear-stocks-to-watch-as-smrs-and-microreactors-advance",
+    "https://www.kenresearch.com/industry-reports/north-america-small-modular-reactors-market",
+    "https://www.skyquestt.com/report/small-modular-reactor-market/companies",
+    "https://www.reddit.com/r/UraniumSqueeze/comments/1gygbeh/which_smr_company_do_you_think_is_most_likely_to/",
+    "https://www.mordorintelligence.com/industry-reports/small-modular-reactor-smr-market"
+   ]
+  }
+ ],
+ "missing": {}
+}

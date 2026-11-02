@@ -1,0 +1,764 @@
+{
+ "name": "ショーボンドホールディングス",
+ "aliases": [],
+ "context": "証券コード1414／建設業／プライム（内国株式）／2026.06期 売上高89,204百万円 営業利益率23.4%",
+ "researched_at": "2026-11-02T17:45:54.430220+00:00",
+ "official_url": "https://www.sho-bondhd.jp/",
+ "identified_by": "search:yahoo_jp:ショーボンドホールディングス",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2008年1月4日",
+    "url": "https://www.sho-bondhd.jp/company/profile/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "1,068名（2026年6月末現在：連結）",
+    "url": "https://www.sho-bondhd.jp/company/profile/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "沿革": [
+   {
+    "quote": "1964年新潟県昭和大橋の落橋",
+    "url": "https://www.sho-bondhd.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2008年1月4日",
+    "url": "https://www.sho-bondhd.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | ショーボンドホールディングス株式会社",
+    "url": "https://www.sho-bondhd.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和33年6月4日、東京都世田谷区において、「昭和工業株式会社」として設立され、",
+    "url": "https://www.sho-bondhd.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "各社の沿革のより詳しい内容については、各社のホームページをご参照下さい",
+    "url": "https://www.sho-bondhd.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月期",
+    "url": "https://www.sho-bondhd.jp/ir/library/integrated-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年6月期",
+    "url": "https://www.sho-bondhd.jp/ir/library/integrated-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年6月期",
+    "url": "https://www.sho-bondhd.jp/ir/library/integrated-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年6月期",
+    "url": "https://www.sho-bondhd.jp/ir/library/integrated-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期第2四半期末以前の配当金は、株式分割を考慮した金額を記載しております",
+    "url": "https://www.sho-bondhd.jp/ir/stock/dividend/",
+    "pass": 1
+   },
+   {
+    "quote": "1958年6月4日、当社は「昭和工業株式会社」として、東京都世田谷区に設立登記されました",
+    "url": "https://www.sho-bondhd.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1960年には、本社を東京都千代田区に移し、≪ショーボンド≫の販売・施工を開始",
+    "url": "https://www.sho-bondhd.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1963年6月、社名を「株式会社ショーボンド」に改称",
+    "url": "https://www.sho-bondhd.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1965年3月には、日本道路公団と共同で開発し特許出願した道路橋伸縮装置「カットオフジョイント」の試験施工を名神高速道路の一宮・小牧間で実施、その後高速道路建設の波に乗り、全国各地で施工されました",
+    "url": "https://www.sho-bondhd.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1969年2月、建設業の登録を東京都知事から建設大臣許可に変更、補修に特化した特殊工事会社として、徐々に全国に営業拠点を展開していきます",
+    "url": "https://www.sho-bondhd.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1975年、株式会社ショーボンドを「ショーボンド建設株式会社」と「ショーボンド化学株式会社」に分離し、特殊工事会社として成長を目指す路線が明確となりました",
+    "url": "https://www.sho-bondhd.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1977年7月に、技術研究所を大宮市（現さいたま市）に新設移転し、中央技術研究所と改称",
+    "url": "https://www.sho-bondhd.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1981年6月期には、初めて売上高が150億円を上回り、1982年6月期も150億円超の売上を記録しました",
+    "url": "https://www.sho-bondhd.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和50年代末から昭和60年代初めにかけて、社会資本のストックが急激に増大した影響などから橋梁の床版等の損傷が進行し、土木建設業界では「補修の時代」の到来が少しずつ顕在化してきました",
+    "url": "https://www.sho-bondhd.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1986年、日本政府は内需拡大政策をとりはじめ、建設業に対しても早期発注や補正予算を付けるなど種々の対策が講じられ、当社は「コンクリート構造物の総合メンテナンス企業」として従前に増して補修市場に積極的に取り組んでいくこととなります",
+    "url": "https://www.sho-bondhd.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和62年-平成04年",
+    "url": "https://www.sho-bondhd.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1987年5月、東京証券取引所第二部への株式上場を果たし、1987年6月期の売上高は253億円を記録しました",
+    "url": "https://www.sho-bondhd.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1989年12月、東京証券取引所第一部へ昇格",
+    "url": "https://www.sho-bondhd.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1993年、創立35周年を迎えた年には、売上高447億円、営業利益は創業以来最高の34億円を確保し、高収益体質を定着させました",
+    "url": "https://www.sho-bondhd.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1996年には資本金が101億円となり、業績好調による増配を継続し株式市場の活性化に貢献したことをもって東京証券取引所より表彰を受けています",
+    "url": "https://www.sho-bondhd.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1998年4月、会社の管理体制の構築に尽力した桧垣社長が退任、副社長の上谷章夫が三代目の社長に就任し、下水道や建築、農水などの周辺分野の開拓を目指す方針が示されました",
+    "url": "https://www.sho-bondhd.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2004年秋に発生した新潟県中越地震では、全社を挙げて橋梁等の緊急被災調査に対応しました",
+    "url": "https://www.sho-bondhd.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2005年夏には副社長の石原一裕が四代目の代表取締役社長に就任",
+    "url": "https://www.sho-bondhd.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2008年、持株会社としてショーボンドホールディングス株式会社を設立",
+    "url": "https://www.sho-bondhd.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2009年12月、創業以来初となる自社保有の本社ビル（日本橋箱崎町）に移転",
+    "url": "https://www.sho-bondhd.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年1月には、副社長の藤井宗司が五代目のショーボンド建設㈱代表取締役社長に就任、持株会社のショーボンドホールディングス㈱は石原社長、中核事業会社は藤井社長がそれぞれ社長を務める分業体制となりました",
+    "url": "https://www.sho-bondhd.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2011年3月には東日本大震災が発生、想像を絶する人的・物的被害が津波によってもたらされましたが、津波被害以外の土木構造物の被害は比較的少なく、阪神淡路大震災以降実施された耐震補強の効果が立証されました",
+    "url": "https://www.sho-bondhd.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年代以降、複数の大規模災害や事故を経験した日本では、構造物の耐震補強や老朽化対策の重要性が一層高まりました",
+    "url": "https://www.sho-bondhd.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "令和01年-",
+    "url": "https://www.sho-bondhd.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年1月に開始した安全文化創生プロジェクトによって安全文化の醸成を目指し、2021年10月に開設したつくば研修センターで実践的な教育を行いながら、協力会社も含めた強靭な施工体制を構築しています",
+    "url": "https://www.sho-bondhd.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月期 決算説明会 動画",
+    "url": "https://www.youtube.com/watch?v=JpENLqMZlDM",
+    "pass": 3
+   },
+   {
+    "quote": "令和6年度 第１回ICT施工Webセミナー ～ＩＣＴ切削オーバーレイと施工履歴出来形管理について_日本道路株式会社～",
+    "url": "https://www.youtube.com/watch?v=JpENLqMZlDM",
+    "pass": 3
+   },
+   {
+    "quote": "令和７年度 第３回ICT施工Webセミナー ～金杉建設のICT・BIM/CIM_金杉建設株式会社～",
+    "url": "https://www.youtube.com/watch?v=JpENLqMZlDM",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "土木建築用機械器具および製品・材料の製造、販売、施工",
+    "url": "https://www.sho-bondhd.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "土木建築用機械器具および製品・材料の輸出入",
+    "url": "https://www.sho-bondhd.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "東京大学生産技術研究所などから「ショーボンド」製品の性能試験結果が良好と評価される",
+    "url": "https://www.sho-bondhd.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、金融商品取引法および東京証券取引所の定める適時開示規則に基づき情報を開示いたします",
+    "url": "https://www.sho-bondhd.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "バイオマス製品の開発",
+    "url": "https://www.sho-bondhd.jp/csr/environment-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは環境負荷低減に向け、バイオマス由来の原料を配合した樹脂系の製品を開発しています",
+    "url": "https://www.sho-bondhd.jp/csr/environment-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "開発した製品は一般社団法人日本有機資源協会（JORA）よりバイオマスマーク認定商品としての認定を受けました",
+    "url": "https://www.sho-bondhd.jp/csr/environment-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "土木建設業界に受け入れられ易くするために、全製品とも主剤と硬化剤の配合比率を整数比とし、建設現場で広く合成樹脂接着剤が導入されるようになりました",
+    "url": "https://www.sho-bondhd.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "新製品・新工法の開発に活用されたダイレクトメールと返信用ハガキ",
+    "url": "https://www.sho-bondhd.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "東大生研におけるショーボンド製品の接着試験",
+    "url": "https://www.sho-bondhd.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "吹雪の中、湯田ダム現場に製品を運ぶ創業者 上田昭",
+    "url": "https://www.sho-bondhd.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "これを契機に数多くの高分子材料を土木・建築分野へ応用すべく、新製品・新工法を開発し、また、建設業の東京都知事登録を行い、工事請負体制も確立しました",
+    "url": "https://www.sho-bondhd.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "土木技術と化学技術が融合した新製品・新工法を開発する「技術のショーボンド」の充実をはかりました",
+    "url": "https://www.sho-bondhd.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "同年夏には補修工学研究所が完成し、技術開発や耐久性能などの評価設備が整えられ、ショーボンドの工法・製品の信頼性が大きく向上しました",
+    "url": "https://www.sho-bondhd.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "５．土木建築用機械器具および製品・材料の製造、販売、施工",
+    "url": "https://www.sho-bondhd.jp/pdf/articles_20260101.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "６．土木建築用機械器具および製品・材料の輸出入",
+    "url": "https://www.sho-bondhd.jp/pdf/articles_20260101.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【鉄筋防錆】SBLNジェル / 工法・製品紹介 /ショーボンド",
+    "url": "https://www.youtube.com/watch?v=JpENLqMZlDM",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "これがショーボンドグループの特色であり、強みです",
+    "url": "https://www.sho-bondhd.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "1993年、創立35周年を迎えた年には、売上高447億円、営業利益は創業以来最高の34億円を確保し、高収益体質を定着させました",
+    "url": "https://www.sho-bondhd.jp/history/",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "本サイトのご利用によって、利用者および第三者に損害およびトラブル（併せて以下、損害等）が発生したとしても、当社は一切その責任を負いません",
+    "url": "https://www.sho-bondhd.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトは、予告なく、内容が変更されたり、中止されたりすることがありますが、それに伴って利用者および第三者に損害等が発生したとしても、当社は一切その責任を負いません",
+    "url": "https://www.sho-bondhd.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトからダウンロードしたファイル等の電子情報が、利用者および第三者の情報端末、周辺機器およびアプリケーション等に何らかの影響を及ぼし、それにより利用者および第三者に損害等が発生したとしても、原因のいかんを問わず、当社は一切その責任を負いません",
+    "url": "https://www.sho-bondhd.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトに、ウィルスその他のマルウェアによる不正な画面が表示され、それにより利用者および第三者に損害等が発生したとしても、当社は一切その責任を負いません",
+    "url": "https://www.sho-bondhd.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトにおいて、第三者のウェブサイト等を紹介していたとしても、当社は、そのウェブサイト等について何ら推薦および保証をするものではなく、そのウェブサイト等のご利用によって、利用者および第三者に損害等が発生したとしても、一切その責任を負いません",
+    "url": "https://www.sho-bondhd.jp/ir/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "本サイトにおいて、第三者のウェブサイト等を紹介していたとしても、当社は、そのウェブサイト等について何ら推薦および保証をするものではなく、そのウェブサイト等のご利用によって、利用者および第三者に損害等が発生したとしても、一切その責任を負いません",
+    "url": "https://www.sho-bondhd.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "協力会社とのパートナーシップ",
+    "url": "https://www.sho-bondhd.jp/ir/library/integrated-report/",
+    "pass": 1
+   },
+   {
+    "quote": "※一部店舗につきましては、株式に関するお手続きの",
+    "url": "https://www.sho-bondhd.jp/ir/stock/procedure/",
+    "pass": 1
+   },
+   {
+    "quote": "【鉄筋防錆】SBLNジェル / 工法・製品紹介 /ショーボンド",
+    "url": "https://www.youtube.com/watch?v=JpENLqMZlDM",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "昭和50年代末から昭和60年代初めにかけて、社会資本のストックが急激に増大した影響などから橋梁の床版等の損傷が進行し、土木建設業界では「補修の時代」の到来が少しずつ顕在化してきました",
+    "url": "https://www.sho-bondhd.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "式または新株予約権に関する取扱いおよび手数料は、法令または定款に定めるもののほ",
+    "url": "https://www.sho-bondhd.jp/pdf/articles_20260101.pdf",
+    "pass": 2
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "あの企業の現在地を分析【ビジネスモデル・決算・株価】",
+    "url": "https://www.youtube.com/watch?v=JpENLqMZlDM",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "SHO-BOND 統合報告書 2025 - ショーボンドホールディングス — SHO-BOND 統合報告書 2025 - ショーボンドホールディングス ショーボンドホールディングス株式会社 PDF https://www.sho-bondhd.jp > pdf > ir-integratedrepo...",
+    "url": "https://www.sho-bondhd.jp/pdf/ir-integratedreport-2025-A3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ショーボンドホールディングス が「中期経営計画2027」を発表 — ショーボンドホールディングス が「中期経営計画2027」を発表 altvega.com https://altvega.com > M&A Insight > 中期経営計画",
+    "url": "https://altvega.com/shobondhd-bp-20240809/",
+    "pass": 3
+   },
+   {
+    "quote": "ショーボンドホールディングス 株式会社 — ショーボンドホールディングス 株式会社 crex-data.com https://www.crex-data.com > 企業",
+    "url": "https://www.crex-data.com/company/1414",
+    "pass": 3
+   },
+   {
+    "quote": "決算短信・ 決算説明 会 資料 - ショーボンドホールディングス — 決算短信・ 決算説明 会 資料 - ショーボンドホールディングス ショーボンドホールディングス株式会社 https://www.sho-bondhd.jp > library > earning",
+    "url": "https://www.sho-bondhd.jp/ir/library/earning/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 | ショーボンドホールディングス 株式会社 — IR情報 | ショーボンドホールディングス 株式会社 ショーボンドホールディングス株式会社 https://www.sho-bondhd.jp > ...",
+    "url": "https://www.sho-bondhd.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "ショーボンドホールディングス (1414) 東証プライム 決算 — ショーボンドホールディングス (1414) 東証プライム 決算 松井証券 https://finance.matsui.co.jp > stock > settlement",
+    "url": "https://finance.matsui.co.jp/stock/1414/settlement/index",
+    "pass": 3
+   },
+   {
+    "quote": "【 ショーボンドホールディングス 】[1414]IR ... - 日本経済新聞 — 【 ショーボンドホールディングス 】[1414]IR ... - 日本経済新聞 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=1414",
+    "pass": 3
+   },
+   {
+    "quote": "ショーボンドホールディングス 株式会社 決算説明資料 — ショーボンドホールディングス 株式会社 決算説明資料 EDINET DB https://edinetdb.jp > ... > IR資料",
+    "url": "https://edinetdb.jp/company/E00329/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "統合報告書 - ショーボンドホールディングス — 統合報告書 - ショーボンドホールディングス ショーボンドホールディングス株式会社 PDF https://www.sho-bondhd.jp > pdf > ir-integratedrepo...",
+    "url": "https://www.sho-bondhd.jp/pdf/ir-integratedreport-2022-A4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ショーボンドホールディングス 【1414】の 事業 内容 — ショーボンドホールディングス 【1414】の 事業 内容 キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/1414/business",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | ショーボンドホールディングス 株式会社 — 会社概要 | ショーボンドホールディングス 株式会社 ショーボンドホールディングス株式会社 https://www.sho-bondhd.jp > company > profile",
+    "url": "https://www.sho-bondhd.jp/company/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "トップメッセージ | ショーボンドホールディングス 株式会社 — トップメッセージ | ショーボンドホールディングス 株式会社 ショーボンドホールディングス株式会社 https://www.sho-bondhd.jp > company > message",
+    "url": "https://www.sho-bondhd.jp/company/message/",
+    "pass": 3
+   },
+   {
+    "quote": "ショーボンドホールディングス 、 社長 に岸本達也氏 | 人物 ... — ショーボンドホールディングス 、 社長 に岸本達也氏 | 人物 ... 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/439016",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sho-bondhd.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sho-bondhd.jp/company/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sho-bondhd.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sho-bondhd.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sho-bondhd.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sho-bondhd.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sho-bondhd.jp/ir/financial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sho-bondhd.jp/ir/policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sho-bondhd.jp/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sho-bondhd.jp/ir/notice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sho-bondhd.jp/ir/library/earning/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sho-bondhd.jp/ir/library/plan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sho-bondhd.jp/ir/library/security/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sho-bondhd.jp/ir/library/report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sho-bondhd.jp/ir/library/integrated-report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sho-bondhd.jp/ir/stock/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sho-bondhd.jp/ir/stock/meeting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sho-bondhd.jp/ir/stock/dividend/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sho-bondhd.jp/ir/stock/procedure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sho-bondhd.jp/csr/environment-policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sho-bondhd.jp/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sho-bondhd.jp/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sho-bondhd.jp/english/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sho-bondhd.jp/business/road/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sho-bondhd.jp/business/railway/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.sho-bondhd.jp/pdf/articles_20260101.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sho-bondhd.jp/pdf/ir-integratedreport-2025-A3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sho-bondhd.jp/pdf/ir-integratedreport-2025-A4.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sho-bondhd.jp/pdf/ir-integratedreport-2025-01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sho-bondhd.jp/pdf/ir-integratedreport-2025-02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sho-bondhd.jp/pdf/ir-integratedreport-2025-03.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sho-bondhd.jp/pdf/ir-integratedreport-2025-04.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sho-bondhd.jp/pdf/ir-integratedreport-2025-05.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sho-bondhd.jp/img/p-business-idx-02-00.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sho-bondhd.jp/img/p-business-idx-02-01_pc.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sho-bondhd.jp/img/p-business-idx-02-03_pc.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sho-bondhd.jp/img/p-business-idx-02-02_pc.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sho-bondhd.jp/img/p-business-idx-02-04_pc.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sho-bondhd.jp/img/p-business-idx-02-05_pc.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sho-bondhd.jp/img/p-business-idx-02-06_pc.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sho-bondhd.jp/img/p-business-idx-04-01_pc.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.youtube.com/watch?v=JpENLqMZlDM",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "http://www.sbmit.co.jp/branch.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.elite-network.co.jp/interview_kigyo/79.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ショーボンドホールディングス",
+   "results": [
+    "https://www.sho-bondhd.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%9C%E3%83%B3%E3%83%89%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "https://www.nikkei.com/nkd/company/?scode=1414",
+    "https://www.youtube.com/@sho-bondofficialchannel2214",
+    "https://ja.wikipedia.org/wiki/ショーボンドホールディングス",
+    "https://www.sho-bondhd.jp/ir/",
+    "https://kabutan.jp/stock/?code=1414",
+    "https://www.sbisec.co.jp/ETGate/?_ControlID=WPLETsiR001Control&_DataStoreID=DSWPLETsiR001Control&_PageID=WPLETsiR001Idtl10&_ActionID=getInfoOfCurrentMarket&i_stock_sec=1414&i_dom_flg=1&stock_sec_code_mul=1414&exchange_code=PTS&ref_from=1&ref_to=20",
+    "https://www.traders.co.jp/stocks/61_1414/finance",
+    "https://shikiho.toyokeizai.net/stocks/1414/corporate"
+   ]
+  },
+  {
+   "query": "ショーボンドホールディングス ビジネスモデル",
+   "results": [
+    "https://www.sho-bondhd.jp/pdf/ir-integratedreport-2025-A3.pdf",
+    "https://www.youtube.com/watch?v=JpENLqMZlDM",
+    "https://note.com/joyous_sayyou/n/nd116913cc475",
+    "https://altvega.com/shobondhd-bp-20240809/",
+    "https://www.crex-data.com/company/1414",
+    "https://www.sub.sho-bond.co.jp/work-life-data/",
+    "https://vuv-kigyobunseki.hatenadiary.jp/entry/2026/02/28/201413",
+    "http://www.sbmit.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%9C%E3%83%B3%E3%83%89%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "https://consovation.com/成長戦略の鍵を握るショーボンドホールディング/"
+   ]
+  },
+  {
+   "query": "ショーボンドホールディングス 決算説明資料",
+   "results": [
+    "https://www.sho-bondhd.jp/ir/library/earning/",
+    "https://www.sho-bondhd.jp/ir/",
+    "https://finance.matsui.co.jp/stock/1414/settlement/index",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=1414",
+    "https://edinetdb.jp/company/E00329/presentations/",
+    "https://www.sho-bondhd.jp/ir/calendar/",
+    "https://zaimani.com/financial-analysis-catalog/1414/",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260511521944",
+    "https://treelazy.com/stock-jp/1414/conference",
+    "https://edinetdb.jp/company/E00329/ir-docs/"
+   ]
+  },
+  {
+   "query": "ショーボンドホールディングス 事業系統図",
+   "results": [
+    "http://www.sbmit.co.jp/branch.html",
+    "https://www.sho-bondhd.jp/pdf/ir-integratedreport-2022-A4.pdf",
+    "https://kitaishihon.com/company/1414/business",
+    "https://www.sho-bondhd.jp/company/profile/",
+    "https://www.sho-bond.co.jp/company/overview/",
+    "https://www.crex-data.com/company/1414",
+    "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%9C%E3%83%B3%E3%83%89%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "https://vuv-kigyobunseki.hatenadiary.jp/entry/2026/02/28/201413",
+    "http://www.sbmit.co.jp/",
+    "https://ja.wikipedia.org/wiki/ショーボンドホールディングス"
+   ]
+  },
+  {
+   "query": "ショーボンドホールディングス 社長 インタビュー",
+   "results": [
+    "https://www.elite-network.co.jp/interview_kigyo/79.html",
+    "https://www.sho-bondhd.jp/company/message/",
+    "https://www.sub.sho-bond.co.jp/employee-interviews/",
+    "https://www.youtube.com/watch?v=JpENLqMZlDM",
+    "https://www.nikkan.co.jp/articles/view/439016",
+    "https://kitaishihon.com/company/1414/board-of-director",
+    "https://the-shashi.com/tse/1414/",
+    "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%9C%E3%83%B3%E3%83%89%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "https://www.youtube.com/@sho-bondofficialchannel2214",
+    "https://www.kabutore.biz/genzaikabuka/yakuin.html?code=1414"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式25頁／PDF・画像16件／外部3頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像16件／外部3頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式25頁／PDF・画像16件／外部3頁・検索5回）"
+ }
+}

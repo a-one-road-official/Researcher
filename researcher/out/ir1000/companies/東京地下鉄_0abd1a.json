@@ -1,0 +1,219 @@
+{
+ "name": "東京地下鉄",
+ "aliases": [],
+ "context": "証券コード9023／陸運業／プライム（内国株式）／2026.03期 売上高422,414百万円 営業利益率21.2%",
+ "researched_at": "2026-11-02T17:47:13.516634+00:00",
+ "official_url": "https://www.mintetsu.or.jp/",
+ "identified_by": "search:ddgs:google:株式会社東京地下鉄",
+ "profile": {},
+ "evidence": {
+  "何を": [
+   {
+    "quote": "～誰もが安心してご利用いただけるサービスを目指して～ 歩行訓練士を招いて視覚に障がいのあるお客さまのご案内に関する 研修を開催します",
+    "url": "https://www.mintetsu.or.jp/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "ご紹介の鉄道会社：",
+    "url": "https://www.mintetsu.or.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "民鉄各社紹介",
+    "url": "https://www.mintetsu.or.jp/",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年度 過去最多の12駅でホームドア運用開始",
+    "url": "https://www.mintetsu.or.jp/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "【 東京地下鉄 】[9023]IR情報 中期経営計画や 決算 短信 | 日経 ... — 【 東京地下鉄 】[9023]IR情報 中期経営計画や 決算 短信 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=9023",
+    "pass": 3
+   },
+   {
+    "quote": "東京地下鉄 ：2027年3月期第2四半期 決算説明 会 資料 - Moomoo — 東京地下鉄 ：2027年3月期第2四半期 決算説明 会 資料 - Moomoo Moomoo https://www.moomoo.com > news > notice > materials-for...",
+    "url": "https://www.moomoo.com/ja/news/notice/1002956703/materials-for-the-second-quarter-earnings-presentation-for-the-fiscal",
+    "pass": 3
+   },
+   {
+    "quote": "東京地下鉄 (9023) 東証プライム 決算 | マーケット情報 | 松井証券 — 東京地下鉄 (9023) 東証プライム 決算 | マーケット情報 | 松井証券 松井証券 https://finance.matsui.co.jp > ... > 東京地下鉄(9023)",
+    "url": "https://finance.matsui.co.jp/stock/9023/settlement/index",
+    "pass": 3
+   },
+   {
+    "quote": "東京 地下鉄 路線図 2026｜東京メトロ・都営地下鉄・山手線 — 東京 地下鉄 路線図 2026｜東京メトロ・都営地下鉄・山手線 tokyo.metro-map.net https://tokyo.metro-map.net",
+    "url": "https://tokyo.metro-map.net/",
+    "pass": 3
+   },
+   {
+    "quote": "【 東京地下鉄社長インタビュー 】東京メトロが成し遂げたい5 ... — 【 東京地下鉄社長インタビュー 】東京メトロが成し遂げたい5 ... Fujisan.co.jp https://www.fujisan.co.jp > trends > business",
+    "url": "https://www.fujisan.co.jp/trends/business/57921/",
+    "pass": 3
+   },
+   {
+    "quote": "東京地下鉄 ［9023］IPO - YouTube — 東京地下鉄 ［9023］IPO - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=Q7Ab2tPs2RU",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.mintetsu.or.jp/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.sbbit.jp/article/st/148616",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.tokyometro.jp/corporate/ir/management/plan/index.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyometro.jp/corporate/ir/library/earnings/index.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyometro.jp/corporate/ir/index.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyometro.jp/corporate/profile/organization/index.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyometro.jp/corporate/profile/index.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujisan.co.jp/trends/business/57921/",
+    "status": "http_404",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "東京地下鉄",
+   "results": [
+    "https://www.tokyometro.jp/index.html",
+    "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E5%9C%B0%E4%B8%8B%E9%89%84",
+    "https://www.kotsu.metro.tokyo.jp/subway/",
+    "https://x.com/tokyometro_info/all",
+    "https://www.kotsu.metro.tokyo.jp/subway/line.pdf",
+    "https://ja.wikipedia.org/wiki/東京地下鉄",
+    "https://en.wikipedia.org/wiki/Tokyo_Metro",
+    "https://jp.trip.com/guide/transport/tokyo-subway-route-map.html",
+    "https://www.tokyometro.jp/index.html?app",
+    "https://www.tokyometro.jp/en/index.html"
+   ]
+  },
+  {
+   "query": "株式会社東京地下鉄",
+   "results": [
+    "https://www.tokyometro.jp/corporate/profile/outline/index.html",
+    "https://www.tokyometro.jp/index.html",
+    "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E5%9C%B0%E4%B8%8B%E9%89%84",
+    "https://job.mynavi.jp/28/pc/search/corp50865/outline.html",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=9023",
+    "https://www.urca.or.jp/urca/pdf/hozin_kaisya/developer_022.pdf?ver=1791936000064",
+    "https://play.google.com/store/apps/developer?id=%E6%9D%B1%E4%BA%AC%E5%9C%B0%E4%B8%8B%E9%89%84%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE&hl=ja",
+    "https://www.soumu.go.jp/kanku/kanto/tokyo/info/guide_pdf/b16.pdf",
+    "https://en.wikipedia.org/wiki/Tokyo_Metro_(company)",
+    "https://ja.wikipedia.org/wiki/東京地下鉄"
+   ]
+  },
+  {
+   "query": "東京地下鉄 ビジネスモデル",
+   "results": [
+    "https://www.sbbit.jp/article/st/148616",
+    "https://www.tokyometro.jp/corporate/ir/management/plan/index.html",
+    "https://shikiho.toyokeizai.net/news/0/842022",
+    "https://business.nikkei.com/atcl/gen/19/00148/102200143/",
+    "https://tokyometro-recruit.jp/about/group/",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000002ns1V&q_no=9",
+    "https://kitaishihon.com/company/9023/story",
+    "https://job.mynavi.jp/28/pc/search/corp50865/outline.html",
+    "https://www.mlit.go.jp/policy/shingikai/content/001384561.pdf",
+    "https://ja.wikipedia.org/wiki/東京地下鉄"
+   ]
+  },
+  {
+   "query": "東京地下鉄 決算説明資料",
+   "results": [
+    "https://www.tokyometro.jp/corporate/ir/library/earnings/index.html",
+    "https://www.tokyometro.jp/corporate/ir/index.html",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=9023",
+    "https://www.moomoo.com/ja/news/notice/1002956703/materials-for-the-second-quarter-earnings-presentation-for-the-fiscal",
+    "https://finance.matsui.co.jp/stock/9023/settlement/index",
+    "http://ke.kabupro.jp/code/9023.htm",
+    "https://kabutan.jp/stock/finance?code=9023",
+    "https://irbank.net/9023/ir",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260428513421/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20251031584822/"
+   ]
+  },
+  {
+   "query": "東京地下鉄 事業系統図",
+   "results": [
+    "https://www.tokyometro.jp/corporate/profile/organization/index.html",
+    "https://www.tokyometro.jp/corporate/profile/index.html",
+    "https://www.kotsu.metro.tokyo.jp/subway/line.pdf",
+    "https://tokyo.metro-map.net/",
+    "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E3%81%AE%E5%9C%B0%E4%B8%8B%E9%89%84",
+    "https://kitaishihon.com/company/9023/story",
+    "https://www.mlit.go.jp/policy/shingikai/content/001384561.pdf",
+    "https://www.firstcvc.jp/cvc/tokyometro.jp",
+    "https://www.youtube.com/watch?v=uClb3OACpig",
+    "https://ja.wikipedia.org/wiki/東京の地下鉄"
+   ]
+  },
+  {
+   "query": "東京地下鉄 社長 インタビュー",
+   "results": [
+    "https://www.mintetsu.or.jp/association/mintetsu/84_p08_11.pdf",
+    "https://www.fujisan.co.jp/trends/business/57921/",
+    "https://www.youtube.com/watch?v=IK3_oGZf7Ts",
+    "https://www.youtube.com/watch?v=Q7Ab2tPs2RU",
+    "https://jbpress.ismedia.jp/articles/-/89766",
+    "https://toyokeizai.net/articles/-/569986?display=b",
+    "https://the-shashi.com/tse/9023/ceo/",
+    "https://kitaishihon.com/company/9023/board-of-director",
+    "https://www.tokyometro.jp/corporate/profile/officer/index.html",
+    "https://www.zaikai.jp/articles/detail/6012"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索6回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索6回）",
+  "事業内容": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索6回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索6回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索6回）",
+  "誰に": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索6回）",
+  "お金の形": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索6回）",
+  "売上構成": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索6回）",
+  "利益の源泉": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索6回）"
+ }
+}

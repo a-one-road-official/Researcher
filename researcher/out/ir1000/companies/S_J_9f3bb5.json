@@ -1,0 +1,1407 @@
+{
+ "name": "Ｓ＆Ｊ",
+ "aliases": [],
+ "context": "証券コード5599／情報・通信業／グロース（内国株式）／2026.03期 売上高2,334百万円 営業利益率23.8%",
+ "researched_at": "2026-11-02T17:36:24.404430+00:00",
+ "official_url": "https://s-jsupply.com/",
+ "identified_by": "search:yahoo_jp:S&J",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2008年11月7日",
+    "url": "https://www.sandj.co.jp/company/information/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "117名（役員・派遣社員などを含む）2026年10月現在",
+    "url": "https://www.sandj.co.jp/company/information/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "サイバーセキュリティ事業 セキュリティ監視・運用 コンサルティングサービス セキュリティ事故対応",
+    "url": "https://www.sandj.co.jp/company/information/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "ビジネスモデル": [
+   {
+    "quote": "ビジネスモデル（収益構造）",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティ監視サービスの収益構造",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "お客様の期待を常に考え「ありがとう」と言われる",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティ監視、対処、アドバイスを通じて、お客様に安全と安心を提供する",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "自動化・AI活用を推進して効率化を図り、お客様とのコミュニケーションの機会を最大化する",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の期待を超えるアドバイスが実現できています",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "攻撃者 顧客企業",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客 企業 ・ 団体",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "お客様環境を考慮した脅威分析＆トリアージを行うことにより、適切な対処方法まで助言が可能",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客は不安になる",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＜夜間などの顧客不在時の対応フロー＞",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "未契約の顧客",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客ニーズの変化",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "● お客様とのコミュニケーションをとりつつ、対処方法等",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "対処方法はお客様にて検討必要",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社の顧客層",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティ感度が高い層が当社のメイン顧客層",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ここが当社のお客様",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客は当社のサービスによりセキュリティ対策を一本化できる",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "その経験を活かしてお客様に適切な対処や再発防止を助言する",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Microsoft 365 E3/E5を用いた統合的な運用監視と、お客様で利用している既存機器やサービスを柔軟に組み合わせて",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客はリスクや煩雑さ 、コスト",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社は販売代理店契約を締結し、当社サービスにおける顧客拡大・収益基盤",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "新規サービスを拡充し、お客様からの様々なニーズに対応できるようにすることにより、当社事業基盤の強化 を 図 っ て ま い り ま す",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "お客様に継続して利用いただくために顧客満足度を高め、解約率を低く",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "お客様 CRIST",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 数多くのセキュリティ事故対応の経験と知見をもとに、お客様の環",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは、お客様のセキュリティインシデント０を",
+    "url": "https://www.sandj.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様が築き上げてきた社会的信用、そしてその先にいるエンドユーザー様の安心を預かる責任の重さを、私たちは片時も忘れません",
+    "url": "https://www.sandj.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "それは、安心して事業に挑戦できる環境こそが、お客様の成功につながると信じているからです",
+    "url": "https://www.sandj.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは、お客様のパートナーでありたいと考えています",
+    "url": "https://www.sandj.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "SOC Engine®（当社アナリストのアドバイスによりお客様のインシデントレスポンスを支援するSOC運用サービス付SIEMサービス）の提供開始",
+    "url": "https://www.sandj.co.jp/company/information/",
+    "pass": 3
+   },
+   {
+    "quote": "KeepEye®（クライアントPCにインストールしたエージェントから個々のPCの情報を取得し、お客様の環境のエンドポイントまで統合的に監視するサービス）の提供開始",
+    "url": "https://www.sandj.co.jp/company/information/",
+    "pass": 3
+   },
+   {
+    "quote": "前職で上場企業の社長も一時やっていたが、これからやるべきもの、あるいは顧客が求めていくであろうものが、前職中でも僕のなかで意識は既にあった",
+    "url": "https://c-eye.co.jp/ipo-eq/71052",
+    "pass": 3
+   },
+   {
+    "quote": "様々な深刻なサイバー攻撃が起きていて、より高い技術や、より踏み込んだサービスが顧客から求められおり、時代がついてきた部分もあった",
+    "url": "https://c-eye.co.jp/ipo-eq/71052",
+    "pass": 3
+   },
+   {
+    "quote": "売上高は少ないが営業利益率も高い、利益率も高く継続率も高い良いサービスがやっとできたので、IPOを契機に我々の考え方を広く知ってもらい、よりたくさんの顧客に高いレベルのサービスを提供したかった",
+    "url": "https://c-eye.co.jp/ipo-eq/71052",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティの監視をやっていると、顧客のネットワークの非常に機微な情報が我々からは見えている",
+    "url": "https://c-eye.co.jp/ipo-eq/71052",
+    "pass": 3
+   },
+   {
+    "quote": "顧客からすると大事なものをしっかりした会社に頼みたいと考えるのは全く普通のことで、その時にホームページを確認しても、よく分からない会社よりも、上場して財務内容も分かっていて、経営も安定していて急に潰れたり逃げたりしないしっかりした会社だということが、今回分かってもらえる良い機会になった",
+    "url": "https://c-eye.co.jp/ipo-eq/71052",
+    "pass": 3
+   },
+   {
+    "quote": "「早く見つける」というのは、顧客のネットワークやパソコン、サーバー、クラウドを直接監視しているからできることだ",
+    "url": "https://c-eye.co.jp/ipo-eq/71052",
+    "pass": 3
+   },
+   {
+    "quote": "そういった攻撃を受けて気づく顧客も増えている",
+    "url": "https://c-eye.co.jp/ipo-eq/71052",
+    "pass": 3
+   },
+   {
+    "quote": "―監視に使うシステムの内製化で、顧客とのコミュニケーションの機会を増やしていること、セキュリティに対する意識の高い顧客が増えている傾向があるそうだが、自社を取り巻く業界の状況や、顧客の競合からの切り替え状況は",
+    "url": "https://c-eye.co.jp/ipo-eq/71052",
+    "pass": 3
+   },
+   {
+    "quote": "我々の顧客は、非常にセキュリティの要望が高く、セキュリティの感度が高い",
+    "url": "https://c-eye.co.jp/ipo-eq/71052",
+    "pass": 3
+   },
+   {
+    "quote": "そうならないようにどこがウィークポイントなのかコンサルティングしてほしいという具体的な要望を挙げる顧客が非常に増えている",
+    "url": "https://c-eye.co.jp/ipo-eq/71052",
+    "pass": 3
+   },
+   {
+    "quote": "そのような会社がやっている監視と、今、顧客が要求している監視にはギャップがある",
+    "url": "https://c-eye.co.jp/ipo-eq/71052",
+    "pass": 3
+   },
+   {
+    "quote": "旧来型の、お知らせするだけの監視で満足できなかった、できなくなった顧客が我々に乗り換えてくる傾向は、この2～3年で増えている",
+    "url": "https://c-eye.co.jp/ipo-eq/71052",
+    "pass": 3
+   },
+   {
+    "quote": "我々の顧客は基本的に意識が高い、イコール上場企業がとても多いので、そういう立派な会社が実際に当社を訪問し、きちんとした会社であることを知ってもらうためのオフィスであることも考えている",
+    "url": "https://c-eye.co.jp/ipo-eq/71052",
+    "pass": 3
+   },
+   {
+    "quote": "「今攻撃を受けているので気をつけて下さい」と言われても顧客は分からないし、「分かっているのであれば止めてくれよ」となる",
+    "url": "https://c-eye.co.jp/ipo-eq/71052",
+    "pass": 3
+   },
+   {
+    "quote": "投資にあたっての最終決定は利用者ご自身の判断でなさるようにお願いいたします",
+    "url": "https://c-eye.co.jp/ipo-eq/71052",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の期待を常に考え",
+    "url": "https://www.sandj.co.jp/company/management/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様とのコミュニケーションの機会を最大化する",
+    "url": "https://www.sandj.co.jp/company/management/",
+    "pass": 3
+   },
+   {
+    "quote": "より多くのお客様へ提供し、事業の成⻑を⽀える",
+    "url": "https://www.sandj.co.jp/company/management/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちがお客様へ提供するすべてのサービス（監視サービスや⾃社開発プロダクト、コンサルティングサービス）は、その時々の脅威トレンドを反映し、また日本のお客様のニーズに応えることができる”最適なセキュリティサービス”です",
+    "url": "https://www.sandj.co.jp/company/management/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様にとっての最適なセキュリティサービスを提供し続けることで、私たちは事業を拡大し続けていきます",
+    "url": "https://www.sandj.co.jp/company/management/",
+    "pass": 3
+   },
+   {
+    "quote": "より多くのお客様へ提供",
+    "url": "https://www.sandj.co.jp/company/management/",
+    "pass": 3
+   },
+   {
+    "quote": "これまで、私たちは大手のお客様へフルカスタマイズのサービスを提供することで事業を拡大してきました",
+    "url": "https://www.sandj.co.jp/company/management/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、昨今のセキュリティ被害を見ても、セキュリティ課題は大手のお客様のみが抱えているものではなく、多くの企業/団体が共通して持つ課題と⾔えます",
+    "url": "https://www.sandj.co.jp/company/management/",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、私たちはより1社でも多くのお客様へセキュリティサービスを普及することで、社会貢献と、事業の拡大を目指していきます",
+    "url": "https://www.sandj.co.jp/company/management/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは、セキュリティサービスを提供させて頂く⽬的を、お客様の事業を⽀える環境づくり、と定義しております",
+    "url": "https://www.sandj.co.jp/company/management/",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティはお客様が事業に集中できる環境づくりの⼀⼿段にすぎません",
+    "url": "https://www.sandj.co.jp/company/management/",
+    "pass": 3
+   },
+   {
+    "quote": "しかしながら、IT やセキュリティの視点のみならず、お客様の事業視点、経営視点で、セキュリティサービスを提供することで、お客様の事業の成長を支える重要な要素となりえます",
+    "url": "https://www.sandj.co.jp/company/management/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の成長とともに、",
+    "url": "https://www.sandj.co.jp/company/management/",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティサービスをより多くのお客様に",
+    "url": "https://www.sandj.co.jp/company/management/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "セキュリティサービスを提供する",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "高いサービス継続率と高いストック収益の比率により安定的な年間利益確保を実現",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サービス継続率(3) / 解約率(4)",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "各サービスにおける月額固定の継続的契約（主に年間契約）をストック売上と定義し、事業年度末のストック売上を 12 倍することにより算出",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 各サービスにおける月額固定の継続的契約（主に",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容 SOC(1)サービスコンサルティングサービス",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "取締役 セキュリティプロフェッショナルサービス部長",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "多くのセキュリティ事故対応に立ち会い、事故対応の経験に基づいたコンサルティングのアプローチがすべてのサービスに反映されているため、",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（対処）、被害を最小限に抑えるサービス提供への熱意が込められ",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティサービスを提供しています",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティ監視サービス",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（SOCサービス）",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルティングサービス",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルティングサービス SOCサービス",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 他社製品運用",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ AD監視サービス",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "● EDR監視サービス",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 他社 EDR製品運用",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティ製品",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サービス市場",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティサービス",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティサービスのアウトソーシングを行う当社へのニーズが高まっている",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティ運用のワークフローをアウトソーシングできる当社のセキュリティ監視サービス",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "監視サービス(1)の提案で",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注：(1)SOC監視、EDR監視、自社製品監視、Microsoft 製品監視など",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Active Directory監視サービス",
+    "url": "https://www.sandj.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Microsoft 365 E5向け監視サービス",
+    "url": "https://www.sandj.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Microsoft 365 E5向けプロフェッショナルサービス",
+    "url": "https://www.sandj.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "My SOC 365サービス",
+    "url": "https://www.sandj.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Darktraceアラート分析・監視サービス",
+    "url": "https://www.sandj.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "インシデント対応訓練サービス",
+    "url": "https://www.sandj.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "CSIRT構築・運用支援サービス",
+    "url": "https://www.sandj.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省SCS評価制度向け支援サービス",
+    "url": "https://www.sandj.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "インシデント対応ドキュメント作成支援サービス",
+    "url": "https://www.sandj.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "情報セキュリティサービス基準",
+    "url": "https://www.sandj.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "最新サービスはこちら",
+    "url": "https://www.sandj.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年9月リリースの新サービス",
+    "url": "https://www.sandj.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Active Directory監視サービス",
+    "url": "https://www.sandj.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "Microsoft 365 E5向け監視サービス",
+    "url": "https://www.sandj.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "Microsoft 365 E5向けプロフェッショナルサービス",
+    "url": "https://www.sandj.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "My SOC 365サービス",
+    "url": "https://www.sandj.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "Darktraceアラート分析・監視サービス",
+    "url": "https://www.sandj.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "インシデント対応訓練サービス",
+    "url": "https://www.sandj.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "CSIRT構築・運用支援サービス",
+    "url": "https://www.sandj.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省SCS評価制度向け支援サービス",
+    "url": "https://www.sandj.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "インシデント対応ドキュメント作成支援サービス",
+    "url": "https://www.sandj.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "情報セキュリティサービス基準",
+    "url": "https://www.sandj.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "Active Directory監視サービス",
+    "url": "https://www.sandj.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "Microsoft 365 E5向け監視サービス",
+    "url": "https://www.sandj.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "Microsoft 365 E5向けプロフェッショナルサービス",
+    "url": "https://www.sandj.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "My SOC 365サービス",
+    "url": "https://www.sandj.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "Darktraceアラート分析・監視サービス",
+    "url": "https://www.sandj.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "インシデント対応訓練サービス",
+    "url": "https://www.sandj.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "CSIRT構築・運用支援サービス",
+    "url": "https://www.sandj.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省SCS評価制度向け支援サービス",
+    "url": "https://www.sandj.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "インシデント対応ドキュメント作成支援サービス",
+    "url": "https://www.sandj.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "情報セキュリティサービス基準",
+    "url": "https://www.sandj.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "それは、どれほど優れたサービスや製品を提供していても、たった一度の重大なインシデントですべてが崩れ去ってしまうという現実です",
+    "url": "https://www.sandj.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "Active Directory監視サービス",
+    "url": "https://www.sandj.co.jp/company/information/",
+    "pass": 3
+   },
+   {
+    "quote": "Microsoft 365 E5向け監視サービス",
+    "url": "https://www.sandj.co.jp/company/information/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "代理店との関係 低 / 中期 中",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社は販売代理店契約を締結し、当社サービスにおける顧客拡大・収益基盤",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "代理店との良好で安定的な取引関係の構築に努めるとともに、販売支",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "援やマーケティングの強化や新たな代理店の拡充などに注力しております",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは、あなたのパートナーでありたいと考えています",
+    "url": "https://www.sandj.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "【エミン・ユルマズ氏直伝】四季報はココを見ろ！四季報最新号からエミン氏注目の3銘柄を紹介/四季報を使った優良株の選び方/エミン流投資手法を解説",
+    "url": "https://www.youtube.com/watch?v=pESEXXJJUfk",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは、お客様のパートナーでありたいと考えています",
+    "url": "https://www.sandj.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店の支援を受けながらサービスの拡販に力を入れていく",
+    "url": "https://c-eye.co.jp/ipo-eq/71052",
+    "pass": 3
+   },
+   {
+    "quote": "これからも代理店の協力があって売り上げが増えていく見込みなので、その分は上積みで計画しており、それに合わせた人員を前の年に雇っていかなければならない",
+    "url": "https://c-eye.co.jp/ipo-eq/71052",
+    "pass": 3
+   },
+   {
+    "quote": "現在でも売り上げの約3割を占める代理店であり、IPOを契機に持ち株比率も若干下げて流動株も増やす",
+    "url": "https://c-eye.co.jp/ipo-eq/71052",
+    "pass": 3
+   },
+   {
+    "quote": "今後も、我々にとっては代理店という重要な役割・ポジションにある",
+    "url": "https://c-eye.co.jp/ipo-eq/71052",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "高いサービス継続率と高いストック収益の比率により安定的な年間利益確保を実現",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サービス継続率(3) / 解約率(4)",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ストック売上比率(2)",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "各サービスにおける月額固定の継続的契約（主に年間契約）をストック売上と定義し、事業年度末のストック売上を 12 倍することにより算出",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 各サービスにおける月額固定の継続的契約（主に",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年間契約）をストック売上と定義し、事業年度における全体の売上に占めるストック売上の割合 (3)100％－解約率 (4) 前月のストック売上高に対して、当月の解約・減額等の売上高の比率を算出し、事業年度を通じた平均値（各月の解約率の12 か月分÷12）",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ライセンス ライセンス料",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "委託料 委託料 委託料監視 ・ 運用ライセンス委託料",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ストック売上の監視サービスの増加に加え、スポット売上であるインシデント対応支援等が発生",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経営指標（ARR推移、ストック売上比率）",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ストック(3)売上比率",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ストック売上比率は85.7％と高水準",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "スにおける月額固定の継続的契約（主に年間契約）をストック売上と定義し、事業年度における全体の売上に占めるストック売上の割合",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ストック売上で構成された強固な収益基盤（ストック売上比率85.7％） FY2024 / 通期実績",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "● 教育支援ビジネス・ライセンス販売を含めたSI支援ビジネスの立ち上げ",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "● Microsoftを中心にしたライセンス販売を含めたSI支援の拡販",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中期経営計画 ARR推移、ストック売上比率",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ストック売上比率は85％超と高水準で推移",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "各サービスにおける月額固定の継続的契約（主に年間契約）をストック売上と定義し、事業年度末のストック売上を12倍することにより算出",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "における月額固定の継続的契約（主に年間契約）をストック売上と定義し、事業年度における全体の売上に占めるストック売上の割合",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "お客様に継続して利用いただくために顧客満足度を高め、解約率を低く",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "インフラストック効果の最大化って何？",
+    "url": "https://www.youtube.com/watch?v=pESEXXJJUfk",
+    "pass": 3
+   },
+   {
+    "quote": "ストック比率は80％を超え、年間契約サービスの継続率は99.2％となっている",
+    "url": "https://c-eye.co.jp/ipo-eq/71052",
+    "pass": 3
+   },
+   {
+    "quote": "8割を超えるストック率は今期末に84％まで上昇する見通しだと話す三輪社長",
+    "url": "https://c-eye.co.jp/ipo-eq/71052",
+    "pass": 3
+   },
+   {
+    "quote": "トップラインが予測しやすく、継続率とストック率が高いので、来期の上乗せを見通して売り上げをおおむね予想できる",
+    "url": "https://c-eye.co.jp/ipo-eq/71052",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "ストック売上比率(2)",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経営指標（ARR推移、ストック売上比率）",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ストック(3)売上比率",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ストック売上比率は85.7％と高水準",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ストック売上で構成された強固な収益基盤（ストック売上比率85.7％） FY2024 / 通期実績",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中期経営計画 ARR推移、ストック売上比率",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ストック売上比率は85％超と高水準で推移",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "営業利益 / 営業利益率",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業績ハイライト 売上高・営業利益・営業利益率（FY2024/4Q）",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業績ハイライト 売上高・営業利益・営業利益率の推移",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益・営業利益率の推移",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率20％超と高い収益性を継続",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2)FY2023において営業利益率が低下するのは、上場に関連する一時的な費用を加味しているため",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（営業利益率）",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "S＆Jの強みの根源は、",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "成長戦略の根幹となるS＆Jの強み",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ S&Jの強みは、圧倒的なサイバー攻撃被害対応能力と実績",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "監視サービスを提供できる当社の強みを活かして注力する",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中期経営計画 売上高・営業利益・営業利益率の推移",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率20％以上を維持しつつ逓増",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高は少ないが営業利益率も高い、利益率も高く継続率も高い良いサービスがやっとできたので、IPOを契機に我々の考え方を広く知ってもらい、よりたくさんの顧客に高いレベルのサービスを提供したかった",
+    "url": "https://c-eye.co.jp/ipo-eq/71052",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2025年5月14日",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年5月1日現在",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年第2四半期のサイバーセキュリティ市場は前年同期比",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年第2四半期",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年第2四半期",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024 年第2四半期",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月11日（水） 14:00-15:00",
+    "url": "https://www.sandj.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月29日（木） 11:00-12:00",
+    "url": "https://www.sandj.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月27日（火） 11:00-12:00",
+    "url": "https://www.sandj.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年9月リリースの新サービス",
+    "url": "https://www.sandj.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月14日に開催した2026年3月期 決算にかかる機関投資家向け決算説明会のプレゼンテーション動画です",
+    "url": "https://www.youtube.com/watch?v=pESEXXJJUfk",
+    "pass": 3
+   },
+   {
+    "quote": "令和8年度第1回JCM方法論ウェビナー（2026/10/20）",
+    "url": "https://www.youtube.com/watch?v=pESEXXJJUfk",
+    "pass": 3
+   },
+   {
+    "quote": "2008年11月7日",
+    "url": "https://www.sandj.co.jp/company/information/",
+    "pass": 3
+   },
+   {
+    "quote": "1985年4月",
+    "url": "https://www.sandj.co.jp/company/information/",
+    "pass": 3
+   },
+   {
+    "quote": "1990年3月",
+    "url": "https://www.sandj.co.jp/company/information/",
+    "pass": 3
+   },
+   {
+    "quote": "2003年9月",
+    "url": "https://www.sandj.co.jp/company/information/",
+    "pass": 3
+   },
+   {
+    "quote": "2008年11月",
+    "url": "https://www.sandj.co.jp/company/information/",
+    "pass": 3
+   },
+   {
+    "quote": "2017年4月",
+    "url": "https://www.sandj.co.jp/company/information/",
+    "pass": 3
+   },
+   {
+    "quote": "2004年4月",
+    "url": "https://www.sandj.co.jp/company/information/",
+    "pass": 3
+   },
+   {
+    "quote": "2008年1月",
+    "url": "https://www.sandj.co.jp/company/information/",
+    "pass": 3
+   },
+   {
+    "quote": "2012年11月",
+    "url": "https://www.sandj.co.jp/company/information/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月",
+    "url": "https://www.sandj.co.jp/company/information/",
+    "pass": 3
+   },
+   {
+    "quote": "1987年4月",
+    "url": "https://www.sandj.co.jp/company/information/",
+    "pass": 3
+   },
+   {
+    "quote": "1994年2月",
+    "url": "https://www.sandj.co.jp/company/information/",
+    "pass": 3
+   },
+   {
+    "quote": "2015年6月",
+    "url": "https://www.sandj.co.jp/company/information/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年4月",
+    "url": "https://www.sandj.co.jp/company/information/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年4月",
+    "url": "https://www.sandj.co.jp/company/information/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年10月",
+    "url": "https://www.sandj.co.jp/company/information/",
+    "pass": 3
+   },
+   {
+    "quote": "2001年4月",
+    "url": "https://www.sandj.co.jp/company/information/",
+    "pass": 3
+   },
+   {
+    "quote": "2004年10月",
+    "url": "https://www.sandj.co.jp/company/information/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年7月",
+    "url": "https://www.sandj.co.jp/company/information/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年6月",
+    "url": "https://www.sandj.co.jp/company/information/",
+    "pass": 3
+   },
+   {
+    "quote": "2006年4月",
+    "url": "https://www.sandj.co.jp/company/information/",
+    "pass": 3
+   },
+   {
+    "quote": "2014年1月",
+    "url": "https://www.sandj.co.jp/company/information/",
+    "pass": 3
+   },
+   {
+    "quote": "2014年12月",
+    "url": "https://www.sandj.co.jp/company/information/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年4月",
+    "url": "https://www.sandj.co.jp/company/information/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年6月",
+    "url": "https://www.sandj.co.jp/company/information/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年12月15日",
+    "url": "https://c-eye.co.jp/ipo-eq/71052",
+    "pass": 3
+   },
+   {
+    "quote": "2024年2月26日",
+    "url": "https://c-eye.co.jp/ipo-eq/71052",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月4日",
+    "url": "https://c-eye.co.jp/ipo-eq/71052",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月6日",
+    "url": "https://c-eye.co.jp/ipo-eq/71052",
+    "pass": 3
+   },
+   {
+    "quote": "2021年7月28日",
+    "url": "https://c-eye.co.jp/ipo-eq/71052",
+    "pass": 3
+   },
+   {
+    "quote": "2021年9月29日",
+    "url": "https://c-eye.co.jp/ipo-eq/71052",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月2日",
+    "url": "https://c-eye.co.jp/ipo-eq/71052",
+    "pass": 3
+   },
+   {
+    "quote": "2008年の創業から、私たちは「監視」と「対処」の重要性を見抜いてきました",
+    "url": "https://www.sandj.co.jp/company/management/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "S＆J 株式会社｜インシデント0に、本気。 — S＆J 株式会社｜インシデント0に、本気。 Ｓ＆Ｊ株式会社 https://www.sandj.co.jp",
+    "url": "https://www.sandj.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Swimlane - ユーザー事例 - S＆J 株式会社様 - セキュリティ事業 — Swimlane - ユーザー事例 - S＆J 株式会社様 - セキュリティ事業 株式会社マクニカ https://www.macnica.co.jp > ... > Swimlane > ユーザー事例",
+    "url": "https://www.macnica.co.jp/business/security/manufacturers/swimlane/case_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "JBS× S&J 、「ランサムウェア対応支援サービス」をリリース — JBS× S&J 、「ランサムウェア対応支援サービス」をリリース JBS 日本ビジネスシステムズ株式会社 https://www.jbs.co.jp > news",
+    "url": "https://www.jbs.co.jp/news/2024/1031",
+    "pass": 3
+   },
+   {
+    "quote": "S＆J - レポート - 証券リサーチセンター — S＆J - レポート - 証券リサーチセンター 証券リサーチセンター https://holistic-r.org > レポート",
+    "url": "https://holistic-r.org/report/5599-4/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 - S＆J株式会社 — 決算説明資料 - S＆J株式会社 Ｓ＆Ｊ株式会社 https://www.sandj.co.jp > IR情報 > 決算短信",
+    "url": "https://www.sandj.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "S＆J （株） 2026年3月期 決算説明 動画 - YouTube — S＆J （株） 2026年3月期 決算説明 動画 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=pESEXXJJUfk",
+    "pass": 3
+   },
+   {
+    "quote": "よくあるご質問 - S＆J株式会社 — よくあるご質問 - S＆J株式会社 Ｓ＆Ｊ株式会社 https://www.sandj.co.jp > IR情報",
+    "url": "https://www.sandj.co.jp/ir/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "【 S&J 】[5599]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 S&J 】[5599]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=5599",
+    "pass": 3
+   },
+   {
+    "quote": "S&J のIR 資料 - 5599 / グロース / 情報・通信業 — S&J のIR 資料 - 5599 / グロース / 情報・通信業 バフェット・コード https://www.buffett-code.com > company > library",
+    "url": "https://www.buffett-code.com/company/5599/library",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 - S＆J株式会社 — 企業情報 - S＆J株式会社 Ｓ＆Ｊ株式会社 https://www.sandj.co.jp > company",
+    "url": "https://www.sandj.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内 | S＆J 株式会社 — 会社案内 | S＆J 株式会社 Ｓ＆Ｊ株式会社 https://www.sandj.co.jp > 企業情報",
+    "url": "https://www.sandj.co.jp/company/information/",
+    "pass": 3
+   },
+   {
+    "quote": "Swimlane - ユーザー事例 - S＆J 株式会社様 - セキュリティ 事業 — Swimlane - ユーザー事例 - S＆J 株式会社様 - セキュリティ 事業 株式会社マクニカ https://www.macnica.co.jp > ... > Swimlane > ユーザー事例",
+    "url": "https://www.macnica.co.jp/business/security/manufacturers/swimlane/case_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "S＆J - 証券リサーチセンター — S＆J - 証券リサーチセンター 証券リサーチセンター https://holistic-r.org > セキュリティ",
+    "url": "https://holistic-r.org/c_info/5599/",
+    "pass": 3
+   },
+   {
+    "quote": "上場会見： S&J の三輪 社長 、監視から対処まで - CAPITAL EYE — 上場会見： S&J の三輪 社長 、監視から対処まで - CAPITAL EYE c-eye.co.jp https://c-eye.co.jp > ipo-eq",
+    "url": "https://c-eye.co.jp/ipo-eq/71052",
+    "pass": 3
+   },
+   {
+    "quote": "経営指針 | S＆J 株式会社 — 経営指針 | S＆J 株式会社 Ｓ＆Ｊ株式会社 https://www.sandj.co.jp > 企業情報",
+    "url": "https://www.sandj.co.jp/company/management/",
+    "pass": 3
+   },
+   {
+    "quote": "AIで高速化 日本企業「狙われ続ける」― S＆J社長 - 時事通信 — AIで高速化 日本企業「狙われ続ける」― S＆J社長 - 時事通信 時事ドットコム https://www.jiji.com > 経済",
+    "url": "https://www.jiji.com/jc/article?k=2026072300817&g=eco",
+    "pass": 3
+   },
+   {
+    "quote": "S&J 【5599】の 社長 ・役員 - キタイシホン — S&J 【5599】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/5599/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "S&J の三輪 社長 「セキュリティー助言が価値に」 - 日本経済新聞 — S&J の三輪 社長 「セキュリティー助言が価値に」 - 日本経済新聞 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXZQOUC30CJL0Q3A131C2000000/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://s-jsupply.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://s-jsupply.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://s-jsupply.com/wp-content/uploads/2024/04/Terms-Conditions-SJ-Supply.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sandj.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sandj.co.jp/ir/library/presentation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=pESEXXJJUfk",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.sandj.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sandj.co.jp/company/information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://c-eye.co.jp/ipo-eq/71052",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sandj.co.jp/company/management/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "S&J",
+   "results": [
+    "https://www.sandjrealestate.com/",
+    "https://www.yelp.com/biz/sj-jewelry-supply-phoenix-2",
+    "https://www.instagram.com/s_j_produce/",
+    "https://s-jsupply.com/",
+    "https://mesaproducestore.com/party_supplies",
+    "https://www.linkedin.com/company/sj-private-equity",
+    "https://www.bbb.org/us/az/queen-creek/profile/excavating-contractors/s-j-grading-inc-1126-97012121",
+    "https://sjbakery.net/",
+    "https://www.bizapedia.com/az/sj-installations-llc.html",
+    "https://ja.wikipedia.org/wiki/S・J・スーリヤー"
+   ]
+  },
+  {
+   "query": "S&J ビジネスモデル",
+   "results": [
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "https://www.sandj.co.jp/",
+    "https://www.macnica.co.jp/business/security/manufacturers/swimlane/case_01.html",
+    "https://www.jbs.co.jp/news/2024/1031",
+    "https://holistic-r.org/report/5599-4/",
+    "https://prtimes.jp/main/html/rd/p/000000045.000062785.html",
+    "https://compalyze.co.jp/company/9010401079013",
+    "https://www.openwork.jp/company.php?m_id=a0C1000001GrKFT",
+    "https://www.sandj.co.jp/company/information/",
+    "https://consovation.com/s＆j株式会社のビジネスモデルと最新ir資料に見る/"
+   ]
+  },
+  {
+   "query": "S&J 決算説明資料",
+   "results": [
+    "https://www.sandj.co.jp/ir/library/presentation/",
+    "https://www.youtube.com/watch?v=pESEXXJJUfk",
+    "https://www.sandj.co.jp/ir/faq/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=5599",
+    "https://www.buffett-code.com/company/5599/library",
+    "https://kabutan.jp/stock/finance?code=5599",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260812/20260810517384.pdf",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260210554827/",
+    "https://www.sandj.co.jp/ir/",
+    "https://finance.yahoo.co.jp/quote/5599.T/financials"
+   ]
+  },
+  {
+   "query": "S&J 事業系統図",
+   "results": [
+    "https://www.sandj.co.jp/company/",
+    "https://www.sandj.co.jp/company/information/",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250514549520.pdf",
+    "https://www.macnica.co.jp/business/security/manufacturers/swimlane/case_01.html",
+    "https://holistic-r.org/c_info/5599/",
+    "https://www.buffett-code.com/company/5599/",
+    "https://shikiho.toyokeizai.net/stocks/5599/corporate",
+    "https://compalyze.co.jp/company/9010401079013",
+    "https://mono.ipros.com/company/detail/2092048/",
+    "https://www.sandj.co.jp/ir/"
+   ]
+  },
+  {
+   "query": "S&J 社長 インタビュー",
+   "results": [
+    "https://c-eye.co.jp/ipo-eq/71052",
+    "https://www.sandj.co.jp/company/management/",
+    "https://www.jiji.com/jc/article?k=2026072300817&g=eco",
+    "https://kitaishihon.com/company/5599/board-of-director",
+    "https://www.nikkei.com/article/DGXZQOUC30CJL0Q3A131C2000000/",
+    "https://www.risktaisaku.com/articles/-/113661",
+    "https://www.seminar-info.jp/entry/seminars/view/3/3402",
+    "https://www.sbbit.jp/article/cont1/23983",
+    "https://x.com/NobMiwa",
+    "https://www.youtube.com/watch?v=UTIt9-qAh-I"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像1件／外部8頁・検索5回）"
+ }
+}
