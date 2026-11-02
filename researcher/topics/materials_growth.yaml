@@ -1,0 +1,31 @@
+# 素材ごとの市場の伸び（CAGR）・市場規模・主要企業（大手が入っているか）を漏れなく並べる。
+# 本人の物差し：①伸びがエグい（年10〜20%以上）②ニッチ（大手が本気で来ない大きさ）③樹脂以外（樹脂そのものは入れていない）
+# 数字は引用行のまま。解釈は本人がする。
+kind: market
+title: 素材ごとの市場の伸び・規模・大手の参入（ニッチで伸びがエグい素材を探す）
+input: researcher/inputs/materials_growth.csv
+columns: {name: 品目, en: 英語名, aliases: 別名, context: 文脈}
+
+evidence:
+  市場規模: [市場規模, 市場は, 億円, 兆円, 億ドル, market size, market was valued, valued at, market is expected to reach, market is projected, "USD", billion, million]
+  成長率: [CAGR, 年平均成長率, 年平均, 年率, 成長率, 前年比, compound annual, growing at, grow at, year-over-year, YoY, "% growth", 倍増, 倍に, 拡大]
+  主要企業: [主要企業, 主要プレイヤー, 主な企業, 参入企業, 参入, key players, major players, leading players, prominent players, key companies, competitive landscape, companies profiled, startups, start-up]
+  日本企業: [京セラ, 住友, 三菱, 日立, 東レ, 信越, 昭和電工, レゾナック, 村田, TDK, 日本製鉄, JX, 古河, 大同特殊鋼, 東邦チタニウム, 大阪チタニウム, DOWA, 日亜, Kyocera, Sumitomo, Mitsubishi, Hitachi, Toray, Shin-Etsu, Resonac, Murata, Japan, Japanese, 日本]
+  上位シェア: [シェア, 占め, 寡占, 独占, 首位, market share, share of, accounted for, top five, top 3, dominat, concentrat, fragmented, consolidated]
+  投資: [資金調達, 調達額, 出資, funding, raised, investment, invested, venture capital, Series A, Series B]
+
+numeric: [市場規模, 成長率, 上位シェア, 投資]
+
+figure_patterns:
+  CAGR: '成長率|(?:CAGR|年平均成長率|compound annual growth rate)[^0-9]{0,40}?(\d{1,3}(?:\.\d{1,2})?)\s*[%％]'
+  市場規模USD: '市場規模|(?:USD|US\$|\$)\s*(\d{1,4}(?:[.,]\d{1,3})?)\s*(?:billion|million|bn|mn)'
+
+external_queries:
+  - "{name} 市場規模 年平均成長率"
+  - "{name} 市場 予測 富士経済 OR 矢野経済 OR シーエムシー"
+  - "{name} 参入 企業 国内"
+  - "{en} market size CAGR 2025"
+  - "{en} market key players competitive landscape"
+  - "{en} startup funding 2025"
+
+limits: {pages: 40, external_per_query: 5, per_cat: 15}

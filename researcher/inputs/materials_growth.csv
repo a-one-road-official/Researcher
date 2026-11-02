@@ -1,0 +1,72 @@
+品目,英語名,別名,文脈
+チタン金属粉末,titanium metal powder,titanium powder;Ti-6Al-4V powder;チタン粉末,金属粉末
+ニッケル基超合金粉末,nickel superalloy powder,Inconel powder;superalloy powder;インコネル粉末,金属粉末
+銅合金粉末（AM用）,copper powder additive manufacturing,copper alloy powder;GRCop;純銅粉末,金属粉末
+アルミ合金粉末（AM用）,aluminum powder additive manufacturing,aluminium alloy powder;AlSi10Mg powder;Scalmalloy,金属粉末
+高エントロピー合金,high entropy alloy,HEA;high-entropy alloys;ハイエントロピー合金,新合金
+金属ガラス（アモルファス合金）,amorphous metal,metallic glass;bulk metallic glass;amorphous alloy;アモルファス金属,新合金
+形状記憶合金,shape memory alloy,nitinol;NiTi;ニチノール,機能合金
+マグネシウム合金,magnesium alloy,Mg alloy;マグネシウム合金,軽量金属
+生分解性マグネシウム（医療用）,biodegradable magnesium implant,bioresorbable magnesium;生体吸収性マグネシウム,医療金属
+スカンジウム,scandium,aluminum scandium alloy;Al-Sc;スカンジウム合金,レアメタル
+タングステン重合金,tungsten heavy alloy,tungsten alloy;タングステン合金,防衛・放射線遮蔽
+ベリリウム銅,beryllium copper,BeCu;ベリリウム銅合金,電子・防衛
+ガリウム,gallium,gallium metal;ガリウム,レアメタル
+ゲルマニウム,germanium,germanium metal;ゲルマニウム,レアメタル・防衛赤外線
+ハフニウム,hafnium,hafnium metal;ハフニウム,半導体・原子力
+ニオブ,niobium,niobium metal;ニオブ,超伝導・合金
+レニウム,rhenium,rhenium alloy;レニウム,航空エンジン
+リチウム金属負極,lithium metal anode,lithium metal foil;リチウム金属負極,電池材料
+全固体電池用固体電解質,solid electrolyte,sulfide solid electrolyte;oxide solid electrolyte;固体電解質,電池材料
+シリコン負極材,silicon anode material,silicon-carbon anode;Si anode;シリコン負極,電池材料
+ナトリウムイオン電池材料,sodium-ion battery materials,sodium ion cathode;hard carbon;ナトリウムイオン電池,電池材料
+炭化ケイ素（SiC）基板,silicon carbide wafer,SiC substrate;SiC wafer;SiCウエハ,パワー半導体
+窒化ガリウム（GaN）基板,gallium nitride substrate,GaN wafer;GaN-on-GaN;GaN基板,パワー・高周波
+酸化ガリウム,gallium oxide,Ga2O3;beta gallium oxide;酸化ガリウム,次世代パワー半導体
+ダイヤモンド半導体,diamond semiconductor,synthetic diamond wafer;CVD diamond;ダイヤモンド基板,次世代半導体
+窒化アルミニウム（AlN）,aluminum nitride,AlN substrate;AlN ceramic;窒化アルミ,放熱・基板
+窒化ケイ素（Si3N4）セラミックス,silicon nitride ceramic,Si3N4 substrate;silicon nitride;窒化ケイ素,放熱・ベアリング
+ガラス基板（半導体パッケージ）,glass substrate semiconductor packaging,glass core substrate;TGV;ガラスコア基板,半導体後工程
+石英ガラス,quartz glass semiconductor,fused silica;synthetic quartz;合成石英,半導体
+セラミックマトリックス複合材（CMC）,ceramic matrix composites,CMC;SiC/SiC composite;セラミックス複合材,航空エンジン
+炭素繊維（素材そのもの）,carbon fiber,carbon fibre;PAN carbon fiber;炭素繊維,複合材（樹脂と組む前の繊維）
+炭素/炭素複合材（C/C）,carbon carbon composite,C/C composite;CFC;炭素炭素複合材,ブレーキ・宇宙
+グラフェン,graphene,graphene nanoplatelets;graphene oxide;グラフェン,ナノ炭素
+カーボンナノチューブ,carbon nanotubes,CNT;single-walled carbon nanotube;カーボンナノチューブ,ナノ炭素
+エアロゲル,aerogel,silica aerogel;エアロゲル,断熱
+セルロースナノファイバー,cellulose nanofiber,CNF;nanocellulose;セルロースナノファイバー,天然素材
+バサルト繊維,basalt fiber,basalt fibre;バサルト繊維;玄武岩繊維,繊維
+MXene,MXene,MXenes;Ti3C2;マキシン,2次元材料
+ペロブスカイト（太陽電池材料）,perovskite solar cell materials,perovskite;ペロブスカイト,太陽電池
+メタマテリアル,metamaterials,metamaterial;メタマテリアル,電波・光学
+熱電変換材料,thermoelectric materials,thermoelectric;Bi2Te3;熱電材料,エネルギー
+磁性材料（ネオジム磁石・重希土フリー）,rare earth free magnet,neodymium magnet;NdFeB;heavy rare earth free magnet;ネオジム磁石,モーター
+軟磁性材料（アモルファス・ナノ結晶）,nanocrystalline soft magnetic,amorphous core;soft magnetic composite;ナノ結晶軟磁性,モーター・電源
+超伝導線材,superconducting wire,HTS tape;REBCO;high temperature superconductor;超電導線材,核融合・送電
+核融合炉材料,fusion reactor materials,tungsten divertor;reduced activation ferritic martensitic;核融合材料,核融合
+宇宙用耐熱材料,thermal protection system materials,TPS;ablative;耐熱材,宇宙
+放射線遮蔽材料,radiation shielding materials,radiation shielding;遮蔽材,宇宙・医療・原子力
+装甲材料（セラミック装甲）,ceramic armor,armor ceramics;boron carbide armor;防弾セラミックス,防衛
+炭化ホウ素,boron carbide,B4C;炭化ホウ素,防衛・原子力
+自己修復材料,self-healing materials,self healing concrete;self-healing metal;自己修復材料,建築・構造
+ジオポリマー・低炭素セメント,geopolymer cement,low carbon cement;green cement;ジオポリマー,建築
+CLT（直交集成板）,cross laminated timber,CLT;mass timber;直交集成板,建築
+透明セラミックス,transparent ceramics,transparent armor;spinel ceramic;ALON;透明セラミックス,光学・防衛
+圧電材料（非鉛）,lead-free piezoelectric,piezoelectric ceramics;KNN;圧電セラミックス,センサー
+医療用チタン・コバルトクロム,medical titanium implants,CoCr alloy;titanium implant material;医療用金属,医療
+リサイクル金属（再生アルミ・再生銅）,recycled aluminum,secondary aluminum;recycled copper;再生アルミ,循環
+レアアース回収・リサイクル材,rare earth recycling,rare earth recovery;urban mining;レアアースリサイクル,循環
+水素吸蔵合金,hydrogen storage alloy,metal hydride;水素吸蔵合金,水素
+水素脆化対策鋼・高圧水素材料,hydrogen embrittlement resistant steel,hydrogen pipeline steel;耐水素鋼,水素
+グリーンスチール,green steel,hydrogen DRI;low carbon steel;グリーンスチール,鉄鋼
+超高張力鋼（ギガパスカル級）,advanced high strength steel,AHSS;giga steel;3rd generation AHSS;超ハイテン,自動車
+ワイヤーアーク積層用ワイヤ,WAAM wire,wire arc additive manufacturing wire;WAAMワイヤ,金属AM
+金属バインダージェット用粉末,binder jetting metal powder,metal binder jet;バインダージェット,金属AM
+人工ダイヤモンド（工業用）,lab grown diamond industrial,synthetic diamond;CVD diamond tools;人工ダイヤモンド,工具
+立方晶窒化ホウ素（cBN）,cubic boron nitride,cBN;CBN;立方晶窒化ホウ素,工具
+六方晶窒化ホウ素（hBN）,hexagonal boron nitride,hBN;boron nitride;窒化ホウ素,放熱・2次元
+蓄熱材料（相変化材料・無機）,phase change materials,PCM;inorganic PCM;蓄熱材,建築・電池
+放熱材料（TIM・金属系）,thermal interface materials,liquid metal TIM;thermal interface;放熱材料,AIデータセンター
+液体金属,liquid metal,gallium liquid metal;液体金属,放熱・ソフトロボット
+多孔質金属・金属発泡体,metal foam,aluminum foam;porous metal;発泡金属,軽量・衝撃吸収
+ラティス構造材（AM）,lattice structures additive manufacturing,lattice;ラティス構造,金属AM
