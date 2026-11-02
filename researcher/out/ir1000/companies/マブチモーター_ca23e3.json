@@ -1,0 +1,1573 @@
+{
+ "name": "マブチモーター",
+ "aliases": [],
+ "context": "証券コード6592／電気機器／プライム（内国株式）／2025.12期 売上高200,417百万円 営業利益率12.7%",
+ "researched_at": "2026-11-02T19:46:45.367575+00:00",
+ "official_url": "https://www.mabuchi-motor.co.jp/",
+ "identified_by": "search:yahoo_jp:マブチモーター",
+ "profile": {
+  "設立": [
+   {
+    "label": "創立年月日",
+    "value": "昭和29年1月18日",
+    "url": "https://www.mabuchi-motor.co.jp/company/profile.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "小型モーターの製造販売",
+    "url": "https://www.mabuchi-motor.co.jp/company/profile.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "768名（2026年6月末現在）",
+    "url": "https://www.mabuchi-motor.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "label": "グループ従業員数",
+    "value": "17,652名（2026年6月末現在）",
+    "url": "https://www.mabuchi-motor.co.jp/company/profile.html",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "200,417百万円（連結/2025年実績）",
+    "url": "https://www.mabuchi-motor.co.jp/company/profile.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "お客様の求める「真の価値」のご提供を目指し、挑戦を続けています",
+    "url": "https://www.mabuchi-motor.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "欧州市場での業容拡大に対応し、顧客サービスの充実を図るため、ドイツ フランクフルト市にマブチモーターヨーロッパゲーエムベーハー（ヨーロッパマブチ）を設立する",
+    "url": "https://www.mabuchi-motor.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "中国市場の顧客サービスおよびマーケティング活動のさらなる向上のため、上海市に上海駐在事務所を開設する",
+    "url": "https://www.mabuchi-motor.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客対応力の更なる強化を目指し、MVU（マブチ・バーチャル・ユニット）体制を導入する",
+    "url": "https://www.mabuchi-motor.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "中国華南地域の顧客サービス及び販売体制の強化を図るため、万宝至馬達貿易（深圳）有限公司（深圳マブチ）を設立する",
+    "url": "https://www.mabuchi-motor.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ユニット対応を含めお客様に価値あるソリューションをご提案すべく、小型ポンプメーカーである応研精工株式会社の株式を取得し、グループ会社化する",
+    "url": "https://www.mabuchi-motor.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "インド地域での顧客サービスの向上と販売体制を強化し、更なる販売拡大につなげるため、インド共和国ハリヤナ州にマブチモーター インディア プライベートリミテッド（インドマブチ）を設立する",
+    "url": "https://www.mabuchi-motor.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の求める「真の価値」をご提供すべく、挑戦を続ける当社の目指す方向性をお伝えします",
+    "url": "https://www.mabuchi-motor.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "同社の創業初期の主力用途であった玩具をはじめ民生・業務機器に使われるモーターは、顧客メーカーの要望どおりに設計がカスタマイズされるのが業界の常識でした",
+    "url": "https://www.porterprize.org/news/2021/03/22133732.html",
+    "pass": 3
+   },
+   {
+    "quote": "「マブチの品質は良い」とお客様に評価いただいています",
+    "url": "https://www.porterprize.org/news/2021/03/22133732.html",
+    "pass": 3
+   },
+   {
+    "quote": "もちろん、お客様やその先の最終ユーザーの皆様に、高い利便性を備えた、",
+    "url": "https://www.porterprize.org/news/2021/03/22133732.html",
+    "pass": 3
+   },
+   {
+    "quote": "もう一つは、お客様の側で大きな技術革新が見込まれる用途です",
+    "url": "https://www.porterprize.org/news/2021/03/22133732.html",
+    "pass": 3
+   },
+   {
+    "quote": "パワーウインドウ以外の用途についても、今まではお客様がモーターに取り付けていたモーター周辺の範囲を取り組むことによって、モーター以外の付加価値を当社に取り込み、代わりにユニット全体としてのコストを下げることで、お客様にもご満足いただける価格を実現しました",
+    "url": "https://www.porterprize.org/news/2021/03/22133732.html",
+    "pass": 3
+   },
+   {
+    "quote": "良いものをリーズナブルな価格で生産し、お客様に喜んでいただき、当社の収益も担保することを目指しています",
+    "url": "https://www.porterprize.org/news/2021/03/22133732.html",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界は顧客企業が強くて、部品メーカーは顧客の要望に合わせてカスタマイズすることが多いという印象でしたが",
+    "url": "https://www.porterprize.org/news/2021/03/22133732.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様が初めてミラーやドアロックを電動化するタイミングで採用いただいたこともあり、ビジネスの初期から他社をリードすることができました",
+    "url": "https://www.porterprize.org/news/2021/03/22133732.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様側の部品と接する部分については多少のマイナーチェンジはしていますが、モーターは同じです",
+    "url": "https://www.porterprize.org/news/2021/03/22133732.html",
+    "pass": 3
+   },
+   {
+    "quote": "もちろん、第1世代、第2世代という具合に、お客様や世の中の状況、当社の投資回収の状況を見ながら、小型・軽量化、高効率化を進化させた新しい世代のモーターに入れ替えてきています",
+    "url": "https://www.porterprize.org/news/2021/03/22133732.html",
+    "pass": 3
+   },
+   {
+    "quote": "顧客に標準品を提案",
+    "url": "https://www.porterprize.org/news/2021/03/22133732.html",
+    "pass": 3
+   },
+   {
+    "quote": "標準品の作り方には、まず個別顧客最適で入って標準化する場合と、最初から標準品を提案する場合があると思いますが、どのようにアプローチされたのでしょうか？また、標準化戦略の妙味は、標準品が広がって初めて実現するものだと思いますが、お客様は最初から受け入れてくださったのでしょうか",
+    "url": "https://www.porterprize.org/news/2021/03/22133732.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、個別のお客様向けのカスタマイズ品でビジネスをいただいた後に標準化を進めたのではなく、",
+    "url": "https://www.porterprize.org/news/2021/03/22133732.html",
+    "pass": 3
+   },
+   {
+    "quote": "その標準品を持って、お客様に「現在ご使用中のカスタマイズ品と比べて、当社の標準品は小型・軽量ですが同等のトルクを実現しています」と提案し、ご検討いただきました",
+    "url": "https://www.porterprize.org/news/2021/03/22133732.html",
+    "pass": 3
+   },
+   {
+    "quote": "実際に当社の標準品を確認していただくため、何度もお客様のもとに通いご納得いただいたのです",
+    "url": "https://www.porterprize.org/news/2021/03/22133732.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様にとって下がったのですか",
+    "url": "https://www.porterprize.org/news/2021/03/22133732.html",
+    "pass": 3
+   },
+   {
+    "quote": "マブチのパワーウインドウ用モーターを、まず、お客様のうちの一社に使っていただき、品質が良いということを自動車メーカーや一次サプライヤーといったお客様に認知していただく必要がありました",
+    "url": "https://www.porterprize.org/news/2021/03/22133732.html",
+    "pass": 3
+   },
+   {
+    "quote": "そのためには、当社のモーターを採用していただき、良い評価を得ていかなければなりませんが、お客様に当社の製品を採用いただけるチャンスは、自動車メーカーがモデルチェンジをするタイミングに限られるため一定の時間を要しました",
+    "url": "https://www.porterprize.org/news/2021/03/22133732.html",
+    "pass": 3
+   },
+   {
+    "quote": "社長自らがお客様のもとに伺いました",
+    "url": "https://www.porterprize.org/news/2021/03/22133732.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社の知名度が既に高い用途市場では、標準化を追求した優れた製品を作れば、お客様の方から買いに来てくださったのです",
+    "url": "https://www.porterprize.org/news/2021/03/22133732.html",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界のお客様から「実績が不足している」と言われれば、当社は「大丈夫です、やってみせます」と約束するしかないのですが、それを営業のフロントだけで説明しても効果は限定的なのです",
+    "url": "https://www.porterprize.org/news/2021/03/22133732.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様を訪問した1年目は「そうだなあ、考えておくよ」、2年目も「まあ、わかるけど...」といったご反応でしたが、3年目には「わかった、そこまで言うのであれば使ってみようか」ということで何とかビジネスをいただくことができ、その結果として「マブチの品質は良いね」と高評価をいただくことができました",
+    "url": "https://www.porterprize.org/news/2021/03/22133732.html",
+    "pass": 3
+   },
+   {
+    "quote": "そこからは、そのお客様内における当社シェアアップに向けた働きかけを強化しました",
+    "url": "https://www.porterprize.org/news/2021/03/22133732.html",
+    "pass": 3
+   },
+   {
+    "quote": "私は、お客様のもとに伺う際にFace-to-Faceにこだわりました",
+    "url": "https://www.porterprize.org/news/2021/03/22133732.html",
+    "pass": 3
+   },
+   {
+    "quote": "他の役員も同様に直接お客様に伺い、開発担当役員も営業担当役員も活動量を増やしました",
+    "url": "https://www.porterprize.org/news/2021/03/22133732.html",
+    "pass": 3
+   },
+   {
+    "quote": "なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を「バランス（推奨）」にしてご利用をお願いいたします",
+    "url": "https://toyokeizai.net/articles/-/937582?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザーガイド",
+    "url": "https://toyokeizai.net/articles/-/937582?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "新たな顧客を開拓するための武器",
+    "url": "https://toyokeizai.net/articles/-/937582?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "また、「3つのM」（モビリティ、マシーナリー、メディカル）を中心に新たな顧客を開拓している",
+    "url": "https://toyokeizai.net/articles/-/937582?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "規格値を満たした製品だとしても、ばらつきがあると顧客は使いにくく、最終製品にもむらが出てしまう",
+    "url": "https://toyokeizai.net/articles/-/937582?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "安易な価格競争には関与せず、われわれの価値を認めてもらえる顧客や分野に集中する",
+    "url": "https://toyokeizai.net/articles/-/937582?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "全体で約1000社ある顧客の多さも強みだ",
+    "url": "https://toyokeizai.net/articles/-/937582?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "当社は大手メーカーの系列企業ではないためだが、特定の顧客の動向に左右されないことも安定感につながっている",
+    "url": "https://toyokeizai.net/articles/-/937582?display=b",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "製品・ソリューション",
+    "url": "https://www.mabuchi-motor.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報メニューを開く",
+    "url": "https://www.mabuchi-motor.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.mabuchi-motor.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ブラシレスモータの製品ラインナップはこちら",
+    "url": "https://www.mabuchi-motor.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ブラシ付モータ製品検索",
+    "url": "https://www.mabuchi-motor.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "マブチグループ製品のご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するよくあるご質問",
+    "url": "https://www.mabuchi-motor.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の概要や製品について、動画でご紹介しています",
+    "url": "https://www.mabuchi-motor.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログをはじめ、モーターの動作原理や性能表の見方等、製品の選定に役立つ情報をご用意しています",
+    "url": "https://www.mabuchi-motor.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ブラシレスモーターの製品ラインナップをご覧いただけます",
+    "url": "https://www.mabuchi-motor.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ブラシ付モーターの製品情報はこちらをご覧ください",
+    "url": "https://www.mabuchi-motor.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車、健康・医療、産業機器など、幅広い用途で活躍する当社製品をご覧いただけます",
+    "url": "https://www.mabuchi-motor.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ブラシ付モータ/製品検索",
+    "url": "https://www.mabuchi-motor.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・ソリューション",
+    "url": "https://www.mabuchi-motor.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.mabuchi-motor.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "ブラシ付モータ/製品検索",
+    "url": "https://www.mabuchi-motor.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "ブラシ付モータの製品情報はこちら",
+    "url": "https://www.mabuchi-motor.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "ブラシレスモータの製品ラインナップはこちら",
+    "url": "https://www.mabuchi-motor.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "マブチグループ製品のご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するよくあるご質問",
+    "url": "https://www.mabuchi-motor.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・ソリューション",
+    "url": "https://www.mabuchi-motor.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.mabuchi-motor.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ブラシ付モータ/製品検索",
+    "url": "https://www.mabuchi-motor.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ブラシ付モータの製品情報はこちら",
+    "url": "https://www.mabuchi-motor.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ブラシレスモータの製品ラインナップはこちら",
+    "url": "https://www.mabuchi-motor.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "マブチグループ製品のご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するよくあるご質問",
+    "url": "https://www.mabuchi-motor.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "その後、製品の開発・改良を重ねる一方、量産化技術にも成功する",
+    "url": "https://www.mabuchi-motor.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "モーター応用製品の製造・販売を目的に日本科工株式会社を設立する",
+    "url": "https://www.mabuchi-motor.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "米国自動車産業界に対する、きめ細かな営業サービス活動と市場開拓活動を行うため、アメリカマブチデトロイト営業所を開設する",
+    "url": "https://www.mabuchi-motor.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "欧州市場での業容拡大に対応し、顧客サービスの充実を図るため、ドイツ フランクフルト市にマブチモーターヨーロッパゲーエムベーハー（ヨーロッパマブチ）を設立する",
+    "url": "https://www.mabuchi-motor.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "中国市場の顧客サービスおよびマーケティング活動のさらなる向上のため、上海市に上海駐在事務所を開設する",
+    "url": "https://www.mabuchi-motor.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "本社と連携し、中国内での製品設計及び生産技術開発業務を行うために、東莞マブチにモーター研究開発センターを開設する",
+    "url": "https://www.mabuchi-motor.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "中国華南地域の顧客サービス及び販売体制の強化を図るため、万宝至馬達貿易（深圳）有限公司（深圳マブチ）を設立する",
+    "url": "https://www.mabuchi-motor.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "従来製品と同等の体積・質量を維持しながら、約2倍のトルクを実現した自動車電装機器用モーターを発売する",
+    "url": "https://www.mabuchi-motor.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "パワーシートのチルトアジャスタ―用として当社製品で最軽量となるパワーシート用モーターを発売する",
+    "url": "https://www.mabuchi-motor.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ユニット対応を含めお客様に価値あるソリューションをご提案すべく、小型ポンプメーカーである応研精工株式会社の株式を取得し、グループ会社化する",
+    "url": "https://www.mabuchi-motor.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "インド地域での顧客サービスの向上と販売体制を強化し、更なる販売拡大につなげるため、インド共和国ハリヤナ州にマブチモーター インディア プライベートリミテッド（インドマブチ）を設立する",
+    "url": "https://www.mabuchi-motor.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "モーターラインナップの拡充とソリューション対応力の強化に向け、沖マイクロ技研株式会社の小型モーター事業を取得し、グループ会社化する",
+    "url": "https://www.mabuchi-motor.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品の多様化とグループ連携を支える設備・金型の設計製造機能を強化するため、マブチモーターエンジニアリング株式会社を設立し、グループ会社化する",
+    "url": "https://www.mabuchi-motor.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・ソリューション",
+    "url": "https://www.mabuchi-motor.co.jp/investor/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報メニューを開く",
+    "url": "https://www.mabuchi-motor.co.jp/investor/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.mabuchi-motor.co.jp/investor/",
+    "pass": 1
+   },
+   {
+    "quote": "ブラシレスモータの製品ラインナップはこちら",
+    "url": "https://www.mabuchi-motor.co.jp/investor/",
+    "pass": 1
+   },
+   {
+    "quote": "ブラシ付モータ製品検索",
+    "url": "https://www.mabuchi-motor.co.jp/investor/",
+    "pass": 1
+   },
+   {
+    "quote": "マブチグループ製品のご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/investor/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するよくあるご質問",
+    "url": "https://www.mabuchi-motor.co.jp/investor/",
+    "pass": 1
+   },
+   {
+    "quote": "ブラシ付モータ/製品検索",
+    "url": "https://www.mabuchi-motor.co.jp/investor/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・ソリューション",
+    "url": "https://www.mabuchi-motor.co.jp/investor/management/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報メニューを開く",
+    "url": "https://www.mabuchi-motor.co.jp/investor/management/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.mabuchi-motor.co.jp/investor/management/",
+    "pass": 1
+   },
+   {
+    "quote": "ブラシレスモータの製品ラインナップはこちら",
+    "url": "https://www.mabuchi-motor.co.jp/investor/management/",
+    "pass": 1
+   },
+   {
+    "quote": "ブラシ付モータ製品検索",
+    "url": "https://www.mabuchi-motor.co.jp/investor/management/",
+    "pass": 1
+   },
+   {
+    "quote": "マブチグループ製品のご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/investor/management/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するよくあるご質問",
+    "url": "https://www.mabuchi-motor.co.jp/investor/management/",
+    "pass": 1
+   },
+   {
+    "quote": "ブラシ付モータ/製品検索",
+    "url": "https://www.mabuchi-motor.co.jp/investor/management/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・ソリューション",
+    "url": "https://www.mabuchi-motor.co.jp/investor/corporate-governance/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報メニューを開く",
+    "url": "https://www.mabuchi-motor.co.jp/investor/corporate-governance/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.mabuchi-motor.co.jp/investor/corporate-governance/",
+    "pass": 1
+   },
+   {
+    "quote": "ブラシレスモータの製品ラインナップはこちら",
+    "url": "https://www.mabuchi-motor.co.jp/investor/corporate-governance/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "マブチグループ製品のご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "MABUCHI PRO SERIESのご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の大切にしている経営理念をご紹介します",
+    "url": "https://www.mabuchi-motor.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の概要や製品について、動画でご紹介しています",
+    "url": "https://www.mabuchi-motor.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ブラシレスモータのご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ブラシレスモータのご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "マブチグループ製品のご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "MABUCHI PRO SERIESのご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "詳細は役員紹介ページをご覧ください",
+    "url": "https://www.mabuchi-motor.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "ブラシレスモータのご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "マブチグループ製品のご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "MABUCHI PRO SERIESのご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "マブチグループ製品のご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/investor/",
+    "pass": 1
+   },
+   {
+    "quote": "MABUCHI PRO SERIESのご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/investor/",
+    "pass": 1
+   },
+   {
+    "quote": "ブラシレスモータのご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/investor/",
+    "pass": 1
+   },
+   {
+    "quote": "マブチグループ製品のご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/investor/management/",
+    "pass": 1
+   },
+   {
+    "quote": "MABUCHI PRO SERIESのご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/investor/management/",
+    "pass": 1
+   },
+   {
+    "quote": "ブラシレスモータのご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/investor/management/",
+    "pass": 1
+   },
+   {
+    "quote": "マブチグループ製品のご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/investor/corporate-governance/",
+    "pass": 1
+   },
+   {
+    "quote": "MABUCHI PRO SERIESのご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/investor/corporate-governance/",
+    "pass": 1
+   },
+   {
+    "quote": "ブラシレスモータのご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/investor/corporate-governance/",
+    "pass": 1
+   },
+   {
+    "quote": "マブチグループ製品のご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/investor/conversation/",
+    "pass": 1
+   },
+   {
+    "quote": "MABUCHI PRO SERIESのご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/investor/conversation/",
+    "pass": 1
+   },
+   {
+    "quote": "ブラシレスモータのご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/investor/conversation/",
+    "pass": 1
+   },
+   {
+    "quote": "マブチグループ製品のご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/investor/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "MABUCHI PRO SERIESのご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/investor/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "ブラシレスモータのご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/investor/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "マブチグループ製品のご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/investor/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "MABUCHI PRO SERIESのご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/investor/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "ブラシレスモータのご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/investor/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "マブチグループ製品のご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/investor/library/",
+    "pass": 1
+   },
+   {
+    "quote": "MABUCHI PRO SERIESのご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/investor/library/",
+    "pass": 1
+   },
+   {
+    "quote": "ブラシレスモータのご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/investor/library/",
+    "pass": 1
+   },
+   {
+    "quote": "マブチグループ製品のご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/investor/event/",
+    "pass": 1
+   },
+   {
+    "quote": "MABUCHI PRO SERIESのご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/investor/event/",
+    "pass": 1
+   },
+   {
+    "quote": "ブラシレスモータのご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/investor/event/",
+    "pass": 1
+   },
+   {
+    "quote": "マブチグループ製品のご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/investor/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "MABUCHI PRO SERIESのご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/investor/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "マブチモーターの歩んで来た道と、これから進む道をわかりやすくご紹介いたします",
+    "url": "https://www.mabuchi-motor.co.jp/investor/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "マブチモーターの経営理念と経営ビジョン体系をご紹介します",
+    "url": "https://www.mabuchi-motor.co.jp/investor/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "マブチモーターの成り立ちや変遷を図年表とグラフでご紹介します",
+    "url": "https://www.mabuchi-motor.co.jp/investor/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "小型直流モーターの発明と市場拡大の変遷を図年表とグラフでご紹介します",
+    "url": "https://www.mabuchi-motor.co.jp/investor/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "ブラシレスモータのご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/investor/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "ブラシレスモータのご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/investor/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "マブチグループ製品のご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/investor/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "MABUCHI PRO SERIESのご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/investor/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "ブラシレスモータのご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/investor/contact/",
+    "pass": 1
+   },
+   {
+    "quote": "マブチグループ製品のご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/investor/contact/",
+    "pass": 1
+   },
+   {
+    "quote": "MABUCHI PRO SERIESのご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/investor/contact/",
+    "pass": 1
+   },
+   {
+    "quote": "ブラシレスモータのご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/investor/news/",
+    "pass": 1
+   },
+   {
+    "quote": "マブチグループ製品のご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/investor/news/",
+    "pass": 1
+   },
+   {
+    "quote": "MABUCHI PRO SERIESのご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/investor/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ブラシレスモータのご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/investor/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "マブチグループ製品のご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/investor/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "MABUCHI PRO SERIESのご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/investor/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "ブラシレスモータのご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/investor/disclaimer/",
+    "pass": 1
+   },
+   {
+    "quote": "マブチグループ製品のご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/investor/disclaimer/",
+    "pass": 1
+   },
+   {
+    "quote": "MABUCHI PRO SERIESのご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/investor/disclaimer/",
+    "pass": 1
+   },
+   {
+    "quote": "ブラシレスモータのご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/investor/koukoku/",
+    "pass": 1
+   },
+   {
+    "quote": "マブチグループ製品のご紹介",
+    "url": "https://www.mabuchi-motor.co.jp/investor/koukoku/",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "昭和29年1月18日",
+    "url": "https://www.mabuchi-motor.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革｜企業情報｜マブチモーター株式会社",
+    "url": "https://www.mabuchi-motor.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1946年～",
+    "url": "https://www.mabuchi-motor.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "昭和21年、当社名誉会長馬渕健一が香川県高松市で関西理科研究所を開所し創業",
+    "url": "https://www.mabuchi-motor.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革に関するご質問",
+    "url": "https://www.mabuchi-motor.co.jp/investor/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "企業情報 > 沿革",
+    "url": "https://www.mabuchi-motor.co.jp/investor/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月9日",
+    "url": "https://www.mabuchi-motor.co.jp/investor/koukoku/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月15日",
+    "url": "https://www.mabuchi-motor.co.jp/investor/koukoku/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年4月10日",
+    "url": "https://www.mabuchi-motor.co.jp/investor/koukoku/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年4月10日",
+    "url": "https://www.mabuchi-motor.co.jp/investor/koukoku/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年12月15日",
+    "url": "https://www.mabuchi-motor.co.jp/investor/koukoku/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年4月11日",
+    "url": "https://www.mabuchi-motor.co.jp/investor/koukoku/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年4月12日",
+    "url": "https://www.mabuchi-motor.co.jp/investor/koukoku/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年6月10日",
+    "url": "https://www.mabuchi-motor.co.jp/investor/koukoku/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年3月29日",
+    "url": "https://www.mabuchi-motor.co.jp/investor/koukoku/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年12月15日",
+    "url": "https://www.mabuchi-motor.co.jp/investor/koukoku/",
+    "pass": 1
+   },
+   {
+    "quote": "2008年11月25日",
+    "url": "https://www.mabuchi-motor.co.jp/investor/koukoku/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年までは事業年度を統合報告書のタイトルに入れていましたが、2023年12月期分からは、発行年をタイトルに入れることとし、2023年12月期を対象とする統合報告書は「統合報告書2024」と表記しています",
+    "url": "https://www.mabuchi-motor.co.jp/investor/library/integrated.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年 アニュアルレポート（英語版）［全ページ／カバーつき］（PDF：5,996KB）",
+    "url": "https://www.mabuchi-motor.co.jp/investor/library/integrated.html",
+    "pass": 1
+   },
+   {
+    "quote": "2018年 アニュアルレポート（英語版）［全ページ／カバーつき］（PDF：2,083KB）",
+    "url": "https://www.mabuchi-motor.co.jp/investor/library/integrated.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年 アニュアルレポート（英語版）［全ページ／カバーつき］（PDF：1,731KB）",
+    "url": "https://www.mabuchi-motor.co.jp/investor/library/integrated.html",
+    "pass": 1
+   },
+   {
+    "quote": "2016年 アニュアルレポート（英語版）［全ページ／カバーつき］（PDF：1,672KB）",
+    "url": "https://www.mabuchi-motor.co.jp/investor/library/integrated.html",
+    "pass": 1
+   },
+   {
+    "quote": "2015年 アニュアルレポート（英語版）［全ページ／カバーつき］（PDF：2,805KB）",
+    "url": "https://www.mabuchi-motor.co.jp/investor/library/integrated.html",
+    "pass": 1
+   },
+   {
+    "quote": "2014年 アニュアルレポート（英語版）［全ページ／カバーつき］（PDF：9,928KB）",
+    "url": "https://www.mabuchi-motor.co.jp/investor/library/integrated.html",
+    "pass": 1
+   },
+   {
+    "quote": "2013年 アニュアルレポート（英語版）［全ページ／カバーつき］（PDF：3,270KB）",
+    "url": "https://www.mabuchi-motor.co.jp/investor/library/integrated.html",
+    "pass": 1
+   },
+   {
+    "quote": "2012年 アニュアルレポート（英語版）［全ページ／カバーつき］（PDF：3,485KB）",
+    "url": "https://www.mabuchi-motor.co.jp/investor/library/integrated.html",
+    "pass": 1
+   },
+   {
+    "quote": "2011年 アニュアルレポート（英語版）［全ページ／カバーつき］（PDF：2,090KB）",
+    "url": "https://www.mabuchi-motor.co.jp/investor/library/integrated.html",
+    "pass": 1
+   },
+   {
+    "quote": "2010年 アニュアルレポート（英語版）［全ページ／カバーつき］（PDF：2,974KB）",
+    "url": "https://www.mabuchi-motor.co.jp/investor/library/integrated.html",
+    "pass": 1
+   },
+   {
+    "quote": "2009年 アニュアルレポート（英語版）［全ページ／カバーつき］（PDF：1,782KB）",
+    "url": "https://www.mabuchi-motor.co.jp/investor/library/integrated.html",
+    "pass": 1
+   },
+   {
+    "quote": "2008年 アニュアルレポート（英語版）［全ページ／カバーつき］（PDF：952KB）",
+    "url": "https://www.mabuchi-motor.co.jp/investor/library/integrated.html",
+    "pass": 1
+   },
+   {
+    "quote": "2007年 アニュアルレポート（英語版）［全ページ／カバーつき］（PDF：2,290KB）",
+    "url": "https://www.mabuchi-motor.co.jp/investor/library/integrated.html",
+    "pass": 1
+   },
+   {
+    "quote": "2006年 アニュアルレポート（英語版）［全ページ／カバーつき］（PDF：297KB）",
+    "url": "https://www.mabuchi-motor.co.jp/investor/library/integrated.html",
+    "pass": 1
+   },
+   {
+    "quote": "2005年 アニュアルレポート（英語版）［全ページ／カバーつき］（PDF：229KB）",
+    "url": "https://www.mabuchi-motor.co.jp/investor/library/integrated.html",
+    "pass": 1
+   },
+   {
+    "quote": "2004年 アニュアルレポート（英語版）［全ページ／カバーつき］（PDF：648KB）",
+    "url": "https://www.mabuchi-motor.co.jp/investor/library/integrated.html",
+    "pass": 1
+   },
+   {
+    "quote": "2003年 アニュアルレポート（英語版）［全ページ／カバーつき］（PDF：908KB）",
+    "url": "https://www.mabuchi-motor.co.jp/investor/library/integrated.html",
+    "pass": 1
+   },
+   {
+    "quote": "2002年 アニュアルレポート（英語版）［全ページ／カバーつき］（PDF：1,230KB）",
+    "url": "https://www.mabuchi-motor.co.jp/investor/library/integrated.html",
+    "pass": 1
+   },
+   {
+    "quote": "2001年 アニュアルレポート（英語版）［全ページ／カバーつき］（PDF：1,805KB）",
+    "url": "https://www.mabuchi-motor.co.jp/investor/library/integrated.html",
+    "pass": 1
+   },
+   {
+    "quote": "2000年 アニュアルレポート（英語版）［全ページ／カバーつき］（PDF：1,139KB）",
+    "url": "https://www.mabuchi-motor.co.jp/investor/library/integrated.html",
+    "pass": 1
+   },
+   {
+    "quote": "1999年 アニュアルレポート（英語版）［全ページ／カバーつき］（PDF：742KB）",
+    "url": "https://www.mabuchi-motor.co.jp/investor/library/integrated.html",
+    "pass": 1
+   },
+   {
+    "quote": "1998年 アニュアルレポート（英語版）［全ページ／カバーつき］（PDF：698KB）",
+    "url": "https://www.mabuchi-motor.co.jp/investor/library/integrated.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年 社会・環境報告書（PDF：4.97MB）",
+    "url": "https://www.mabuchi-motor.co.jp/investor/library/integrated.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年 社会・環境報告書（PDF：4.44MB）",
+    "url": "https://www.mabuchi-motor.co.jp/investor/library/integrated.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年 4 月 9 日",
+    "url": "https://www.mabuchi-motor.co.jp/investor/pdf/pa2026_0409.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025 年 4 月 10 日",
+    "url": "https://www.mabuchi-motor.co.jp/investor/pdf/pa2025_0410.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022 年 4 月 12 日",
+    "url": "https://www.mabuchi-motor.co.jp/investor/pdf/pa2022_0412.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2020 年 6 月 10 日",
+    "url": "https://www.mabuchi-motor.co.jp/investor/pdf/pa2020_0610.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2001年は音響・映像機器向けが売上の約40％を占めていましたが、2019年は71％が自動車電装機器向けです",
+    "url": "https://www.porterprize.org/news/2021/03/22133732.html",
+    "pass": 3
+   },
+   {
+    "quote": "2001年にポーター賞を受賞した際には、小型直流モーターの世界シェア約６割を持っていました",
+    "url": "https://www.porterprize.org/news/2021/03/22133732.html",
+    "pass": 3
+   },
+   {
+    "quote": "2001年のポーター賞受賞から20年が経ちましたが、まずは業界全体の変化について、お聞かせください",
+    "url": "https://www.porterprize.org/news/2021/03/22133732.html",
+    "pass": 3
+   },
+   {
+    "quote": "2001年の受賞から、御社で変わったもの、変わらないものがあると思いますが、変わらないものは何でしょうか",
+    "url": "https://www.porterprize.org/news/2021/03/22133732.html",
+    "pass": 3
+   },
+   {
+    "quote": "2001年のポーター賞受賞時点で既に手掛けていたのは、ドアロックやミラーなどの小型電装用モーターです",
+    "url": "https://www.porterprize.org/news/2021/03/22133732.html",
+    "pass": 3
+   },
+   {
+    "quote": "2001年にポーター賞に応募した際に、活動システムマップを描いて分析しましたが、自動車電装機器向けの標準化戦略に取り組むことになり、社内で作り直しました",
+    "url": "https://www.porterprize.org/news/2021/03/22133732.html",
+    "pass": 3
+   },
+   {
+    "quote": "2001年受賞企業・事業レポート マブチモーター株式会社",
+    "url": "https://www.porterprize.org/news/2021/03/22133732.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月 7日（木）〜 6月 3日（水）",
+    "url": "https://www.porterprize.org/news/2021/03/22133732.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度 ポーター賞受賞企業・事業の発表",
+    "url": "https://www.porterprize.org/news/2021/03/22133732.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度の募集について",
+    "url": "https://www.porterprize.org/news/2021/03/22133732.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月6日",
+    "url": "https://www.mabuchi-motor-recruit.com/post/web%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%80%8C%E7%A4%BE%E9%95%B7%E5%90%8D%E9%91%91%E3%80%8D%E3%81%AB%E5%BD%93%E7%A4%BE%E7%A4%BE%E9%95%B7%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E8%A8%98%E4%BA%8B%E3%81%8C%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度は自社でコントロールできない環境下でも、QCD（品質、コスト、納期）を崩さずに製品を安定供給でき、部品メーカーとしての責任を果たせた",
+    "url": "https://toyokeizai.net/articles/-/937582?display=b",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "経済財政諮問会議の「世界に通用するビジネスモデルを構築した日本のエクセレント企業10社」に当社が選定される",
+    "url": "https://www.mabuchi-motor.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "標準化したモーターを大量に納めるビジネスモデルには自動車がマッチしているし、EV（電気自動車）、ガソリン、ハイブリッド車にかかわらず、当社の製品の取り込まれ方は大きく変動しない",
+    "url": "https://toyokeizai.net/articles/-/937582?display=b",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "マブチモーターの強み（PDF：1MB）",
+    "url": "https://www.mabuchi-motor.co.jp/investor/library/integrated.html",
+    "pass": 1
+   },
+   {
+    "quote": "数字とイラストを中心に、当社の理念・強み・取り組み・あゆみを直観的にご覧いただけます",
+    "url": "https://www.mabuchi-motor.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "受賞後、「どのように強みを維持強化したのか、環境変化にどのように対応したか、どんな変化を起こしたのか」、代表取締役社長CEO 大越博雄氏に、ポーター賞運営委員の大薗恵美、一橋大学教授がインタビューしました",
+    "url": "https://www.porterprize.org/news/2021/03/22133732.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社の強みは、製品の競争力や強固な経営基盤もありますが、やはり品質です",
+    "url": "https://www.porterprize.org/news/2021/03/22133732.html",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、高橋のこれまでのキャリアをはじめ、当社の強みである「標準化戦略」や、モーターをコアとしつつ事業領域を拡大し、多様な「動き」のソリューションを提供することにより事業ポートフォリオの変革を掲げる「経営計画2030」等について語っています",
+    "url": "https://www.mabuchi-motor-recruit.com/post/web%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%80%8C%E7%A4%BE%E9%95%B7%E5%90%8D%E9%91%91%E3%80%8D%E3%81%AB%E5%BD%93%E7%A4%BE%E7%A4%BE%E9%95%B7%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E8%A8%98%E4%BA%8B%E3%81%8C%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F",
+    "pass": 3
+   },
+   {
+    "quote": "当社の強みや特長、今後のビジョンをご理解いただける内容となっていますので、ぜひご覧ください",
+    "url": "https://www.mabuchi-motor-recruit.com/post/web%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%80%8C%E7%A4%BE%E9%95%B7%E5%90%8D%E9%91%91%E3%80%8D%E3%81%AB%E5%BD%93%E7%A4%BE%E7%A4%BE%E9%95%B7%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E8%A8%98%E4%BA%8B%E3%81%8C%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F",
+    "pass": 3
+   },
+   {
+    "quote": "商品数を絞ることによる高品質・低コストが強みだ",
+    "url": "https://toyokeizai.net/articles/-/937582?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "不良品率の低さ、さらには製品の質のばらつきの少なさにも強みがある",
+    "url": "https://toyokeizai.net/articles/-/937582?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "全体で約1000社ある顧客の多さも強みだ",
+    "url": "https://toyokeizai.net/articles/-/937582?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "〈躍進銘柄のトップに直撃②〉ジャパンエレベーターサービスHD石田克史CEOが語るシェア拡大の道筋｢営業利益率は26年度に20％達成が見える｣",
+    "url": "https://toyokeizai.net/articles/-/937582?display=b",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "顧客や用途など、複数の市場セグメントに対して優れた標準品を供給することで、圧倒的な品質、コスト、納期を実現し、カスタマイズ品から置き換えていく",
+    "url": "https://www.porterprize.org/news/2021/03/22133732.html",
+    "pass": 3
+   },
+   {
+    "quote": "ここ数年の取り組みが功を奏し、今期（26年12月期）は従来8割近くあった自動車電装モーター売上比率が約75%まで下がる予定だ",
+    "url": "https://toyokeizai.net/articles/-/937582?display=b",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "競争戦略のダイナミズム 『 マブチモーター 株式会社』 | ニュース — 競争戦略のダイナミズム 『 マブチモーター 株式会社』 | ニュース ポーター賞 https://www.porterprize.org > news > 2021/03",
+    "url": "https://www.porterprize.org/news/2021/03/22133732.html",
+    "pass": 3
+   },
+   {
+    "quote": "基本方針｜株主・投資家情報 - マブチモーター — 基本方針｜株主・投資家情報 - マブチモーター マブチモーター株式会社 https://www.mabuchi-motor.co.jp > ... > 経営方針",
+    "url": "https://www.mabuchi-motor.co.jp/investor/management/strategy.html",
+    "pass": 3
+   },
+   {
+    "quote": "第516話【 マブチモーター の ビジネスモデル 】 - note — 第516話【 マブチモーター の ビジネスモデル 】 - note note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/hitoshi_888/n/n32eda2e9194c",
+    "pass": 3
+   },
+   {
+    "quote": "事業活動｜企業情報 - マブチモーター — 事業活動｜企業情報 - マブチモーター マブチモーター株式会社 https://www.mabuchi-motor.co.jp > 企業情報",
+    "url": "https://www.mabuchi-motor.co.jp/company/activities.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 資料 ｜株主・投資家情報 - マブチモーター — 決算説明 会 資料 ｜株主・投資家情報 - マブチモーター マブチモーター株式会社 https://www.mabuchi-motor.co.jp > ... > IR資料室",
+    "url": "https://www.mabuchi-motor.co.jp/investor/library/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR 資料 室｜株主・投資家情報 - マブチモーター — IR 資料 室｜株主・投資家情報 - マブチモーター マブチモーター株式会社 https://www.mabuchi-motor.co.jp > investor > library",
+    "url": "https://www.mabuchi-motor.co.jp/investor/library/",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家との対話状況 - マブチモーター — 株主・投資家との対話状況 - マブチモーター マブチモーター株式会社 https://www.mabuchi-motor.co.jp > conversation > situation",
+    "url": "https://www.mabuchi-motor.co.jp/investor/conversation/situation.html",
+    "pass": 3
+   },
+   {
+    "quote": "IRサイトマップ｜株主・投資家情報 - マブチモーター — IRサイトマップ｜株主・投資家情報 - マブチモーター マブチモーター株式会社 https://www.mabuchi-motor.co.jp > 株主・投資家情報",
+    "url": "https://www.mabuchi-motor.co.jp/investor/sitemap/",
+    "pass": 3
+   },
+   {
+    "quote": "内部統制報告書 - マブチモーター — 内部統制報告書 - マブチモーター マブチモーター株式会社 https://www.mabuchi-motor.co.jp > ... > IR資料室",
+    "url": "https://www.mabuchi-motor.co.jp/investor/library/internal.html",
+    "pass": 3
+   },
+   {
+    "quote": "組織図｜企業情報 - マブチモーター — 組織図｜企業情報 - マブチモーター マブチモーター株式会社 https://www.mabuchi-motor.co.jp > 企業情報",
+    "url": "https://www.mabuchi-motor.co.jp/company/organization.html",
+    "pass": 3
+   },
+   {
+    "quote": "統合報告書 - 2025 - マブチモーター — 統合報告書 - 2025 - マブチモーター マブチモーター株式会社 PDF https://www.mabuchi-motor.co.jp > library > pdf",
+    "url": "https://www.mabuchi-motor.co.jp/investor/library/pdf/int2025a4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜企業情報 - マブチモーター — 会社概要｜企業情報 - マブチモーター マブチモーター株式会社 https://www.mabuchi-motor.co.jp > 企業情報",
+    "url": "https://www.mabuchi-motor.co.jp/company/profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業 活動｜企業情報 - マブチモーター — 事業 活動｜企業情報 - マブチモーター マブチモーター株式会社 https://www.mabuchi-motor.co.jp > 企業情報",
+    "url": "https://www.mabuchi-motor.co.jp/company/activities.html",
+    "pass": 3
+   },
+   {
+    "quote": "経営計画 2030 - 株主・投資家情報 - マブチモーター — 経営計画 2030 - 株主・投資家情報 - マブチモーター マブチモーター株式会社 https://www.mabuchi-motor.co.jp > ... > 経営方針",
+    "url": "https://www.mabuchi-motor.co.jp/investor/management/plan.html",
+    "pass": 3
+   },
+   {
+    "quote": "マブチモーター 高橋徹 社長 が明かす｢3つのM｣による再成長 ... — マブチモーター 高橋徹 社長 が明かす｢3つのM｣による再成長 ... 東洋経済オンライン https://toyokeizai.net > articles",
+    "url": "https://toyokeizai.net/articles/-/937582?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "マブチモーター 株式会社 代表取締役 社長 高橋 徹 — マブチモーター 株式会社 代表取締役 社長 高橋 徹 社長名鑑 https://shachomeikan.jp > industry_article",
+    "url": "https://shachomeikan.jp/industry_article/5120",
+    "pass": 3
+   },
+   {
+    "quote": "向き合うものづくり」 | マブチモーター 株式会社 - YouTube — 向き合うものづくり」 | マブチモーター 株式会社 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=OliV2lCDEGM",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.mabuchi-motor.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mabuchi-motor.co.jp/company/profile.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mabuchi-motor.co.jp/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mabuchi-motor.co.jp/investor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mabuchi-motor.co.jp/investor/management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mabuchi-motor.co.jp/investor/corporate-governance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mabuchi-motor.co.jp/investor/conversation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mabuchi-motor.co.jp/investor/financial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mabuchi-motor.co.jp/investor/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mabuchi-motor.co.jp/investor/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mabuchi-motor.co.jp/investor/event/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mabuchi-motor.co.jp/investor/individual/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mabuchi-motor.co.jp/investor/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mabuchi-motor.co.jp/investor/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mabuchi-motor.co.jp/investor/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mabuchi-motor.co.jp/investor/disclosure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mabuchi-motor.co.jp/investor/disclaimer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mabuchi-motor.co.jp/investor/koukoku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mabuchi-motor.co.jp/investor/use/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mabuchi-motor.co.jp/investor/sitemap/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mabuchi-motor.co.jp/csr/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mabuchi-motor.co.jp/investor/library/integrated.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mabuchi-motor.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.mabuchi-motor.co.jp/investor/pdf/pa2026_0409.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mabuchi-motor.co.jp/investor/pdf/pa2025_1215.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mabuchi-motor.co.jp/investor/pdf/pa2025_0410.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mabuchi-motor.co.jp/investor/pdf/pa2024_0410.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mabuchi-motor.co.jp/investor/pdf/pa2023_1215.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mabuchi-motor.co.jp/investor/pdf/pa2023_0411.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mabuchi-motor.co.jp/investor/pdf/pa2022_0412.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mabuchi-motor.co.jp/investor/pdf/pa2020_0610.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.porterprize.org/news/2021/03/22133732.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mabuchi-motor-recruit.com/post/web%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%80%8C%E7%A4%BE%E9%95%B7%E5%90%8D%E9%91%91%E3%80%8D%E3%81%AB%E5%BD%93%E7%A4%BE%E7%A4%BE%E9%95%B7%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E8%A8%98%E4%BA%8B%E3%81%8C%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toyokeizai.net/articles/-/937582?display=b",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "マブチモーター",
+   "results": [
+    "https://www.mabuchi-motor.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%96%E3%83%81%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC",
+    "https://features.mabuchi-motor.com/overview",
+    "https://mabuchi-motor.shop/",
+    "https://ja.wikipedia.org/wiki/マブチモーター",
+    "https://en.wikipedia.org/wiki/Mabuchi_Motor",
+    "https://www.mabuchi-motor.co.jp/product/",
+    "https://www.mabuchi-motor.com/",
+    "https://www.mabuchi-motor.com/product/"
+   ]
+  },
+  {
+   "query": "マブチモーター ビジネスモデル",
+   "results": [
+    "https://www.porterprize.org/news/2021/03/22133732.html",
+    "https://www.mabuchi-motor.co.jp/investor/management/strategy.html",
+    "https://note.com/hitoshi_888/n/n32eda2e9194c",
+    "https://riim.ws.hosei.ac.jp/wp-content/uploads/2022/04/WPNo.246_Katayama.pdf",
+    "https://www.mabuchi-motor.co.jp/company/activities.html",
+    "https://features.mabuchi-motor.com/overview",
+    "https://www.mabuchi-motor.co.jp/investor/management/plan.html",
+    "https://www.mabuchi-motor-recruit.com/introduction",
+    "https://www.mabuchi-motor.co.jp/investor/library/pdf/int2021a3.pdf",
+    "https://consovation.com/マブチモーターのビジネスモデルはここが凄い-魅/"
+   ]
+  },
+  {
+   "query": "マブチモーター 決算説明資料",
+   "results": [
+    "https://www.mabuchi-motor.co.jp/investor/library/presentation.html",
+    "https://www.mabuchi-motor.co.jp/investor/library/",
+    "https://www.mabuchi-motor.co.jp/investor/conversation/situation.html",
+    "https://www.mabuchi-motor.co.jp/investor/sitemap/",
+    "https://www.mabuchi-motor.co.jp/investor/library/internal.html",
+    "https://www.mabuchi-motor.co.jp/investor/library/securities-report.html",
+    "https://kabutan.jp/stock/finance?code=6592",
+    "https://finance.logmi.jp/articles/382437",
+    "https://edinetdb.jp/company/E01944/ir-docs/",
+    "https://www.mabuchi-motor.co.jp/investor/"
+   ]
+  },
+  {
+   "query": "マブチモーター 事業系統図",
+   "results": [
+    "https://www.mabuchi-motor.co.jp/company/organization.html",
+    "https://www.mabuchi-motor.co.jp/investor/library/pdf/int2025a4.pdf",
+    "https://www.mabuchi-motor.co.jp/company/profile.html",
+    "https://www.mabuchi-motor.co.jp/company/activities.html",
+    "https://www.mabuchi-motor.co.jp/investor/management/plan.html",
+    "https://www.mabuchi-motor-recruit.com/introduction",
+    "https://www.mabuchi-motor.co.jp/investor/management/strategy.html",
+    "https://kitaishihon.com/company/6592/business",
+    "https://features.mabuchi-motor.com/overview",
+    "https://202.218.11.20/company/"
+   ]
+  },
+  {
+   "query": "マブチモーター 社長 インタビュー",
+   "results": [
+    "https://www.mabuchi-motor-recruit.com/post/web%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%80%8C%E7%A4%BE%E9%95%B7%E5%90%8D%E9%91%91%E3%80%8D%E3%81%AB%E5%BD%93%E7%A4%BE%E7%A4%BE%E9%95%B7%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E8%A8%98%E4%BA%8B%E3%81%8C%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F",
+    "https://toyokeizai.net/articles/-/937582?display=b",
+    "https://shachomeikan.jp/industry_article/5120",
+    "https://x.com/MabuchiMotor_JP/status/2032370485535916545",
+    "https://www.youtube.com/watch?v=OliV2lCDEGM",
+    "https://the-shashi.com/tse/6592/ceo/",
+    "https://www.mabuchi-motor.co.jp/news/2024_0807.html",
+    "https://www.elite-network.co.jp/interview_kigyo/89.html",
+    "https://www.netdenjd.com/archives/551010",
+    "https://www.mabuchi-motor.co.jp/news/2025_1105.html"
+   ]
+  }
+ ],
+ "missing": {
+  "お金の形": "記載なし（3回確認済み：公式23頁／PDF・画像8件／外部3頁・検索5回）"
+ }
+}

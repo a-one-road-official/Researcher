@@ -1,0 +1,2073 @@
+{
+ "name": "アマノ",
+ "aliases": [],
+ "context": "証券コード6436／機械／プライム（内国株式）／2026.03期 売上高176,467百万円 営業利益率12.8%",
+ "researched_at": "2026-11-02T19:47:24.587653+00:00",
+ "official_url": "https://www.amano.co.jp/",
+ "identified_by": "search:yahoo_jp:アマノ",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1931年 （昭和6年） 11月3日",
+    "url": "https://www.amano.co.jp/corp/outline/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1945年 （昭和20年） 11月22日",
+    "url": "https://www.amano.co.jp/corp/outline/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2000年4月13日",
+    "url": "https://www.i-abs.co.jp/company/",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "連結 176,467百万円／単独 76,689百万円 （2026年3月期末）",
+    "url": "https://www.amano.co.jp/corp/outline/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "184,000 184,000 4.3% 192,000 4.3% 200,000 4.2%",
+    "url": "https://www.amano.co.jp/ir/managementpolicy/plan/",
+    "pass": 1
+   },
+   {
+    "label": "売上高 （単位：百万円）",
+    "value": "1Q 27,622 31,840 39,032 39,056 39,018",
+    "url": "https://www.amano.co.jp/ir/financial/highlight/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "124,405 131,713 133,084 113,598 118,429 132,810 152,864 175,423 176,467 184,000",
+    "url": "https://www.amano.co.jp/ir/financial/forecast/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "連結 5,532名／単独 1,945名 （2026年3月末現在）",
+    "url": "https://www.amano.co.jp/corp/outline/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "企画・設計・製造・販売・施工・メンテナンス 時間情報事業 時間管理機器事業 パーキングシステム事業 環境システム事業 クリーン・ロボットソリューション事業 アウトソーシング事業（ 情報システム 、 駐車場運営受諾 、 清掃受諾 ） 時刻配信・認証サービス事業",
+    "url": "https://www.amano.co.jp/corp/outline/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "労務管理クラウドサービス、給与計算アウトソーシングサービスの提供 就業管理／給与計算／人事管理クラウドサービス、給与アウトソーシングサービス 「CYBER XEED」 ユーザー設定型　勤怠管理クラウドサービス 「 CLOUZA 」 就業管理クラウドサービス 「 TimePro-VG Cloud 」 労務管理クラウドサービスのホスティング管理",
+    "url": "https://www.i-abs.co.jp/company/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "品質・顧客満足",
+    "url": "https://www.amano.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様のニーズに合ったより良いサービスを提供するために、クッキーを使用しています",
+    "url": "https://www.amano.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "品質・顧客満足",
+    "url": "https://www.amano.co.jp/corp/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様のニーズに合ったより良いサービスを提供するために、クッキーを使用しています",
+    "url": "https://www.amano.co.jp/corp/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "品質・顧客満足",
+    "url": "https://www.amano.co.jp/corp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様のニーズに合ったより良いサービスを提供するために、クッキーを使用しています",
+    "url": "https://www.amano.co.jp/corp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "品質・顧客満足",
+    "url": "https://www.amano.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様のニーズに合ったより良いサービスを提供するために、クッキーを使用しています",
+    "url": "https://www.amano.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "品質・顧客満足",
+    "url": "https://www.amano.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様のニーズに合ったより良いサービスを提供するために、クッキーを使用しています",
+    "url": "https://www.amano.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "品質・顧客満足",
+    "url": "https://www.amano.co.jp/information/?cat=ir",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様のニーズに合ったより良いサービスを提供するために、クッキーを使用しています",
+    "url": "https://www.amano.co.jp/information/?cat=ir",
+    "pass": 1
+   },
+   {
+    "quote": "品質・顧客満足",
+    "url": "https://www.amano.co.jp/ir/managementpolicy/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様のニーズに合ったより良いサービスを提供するために、クッキーを使用しています",
+    "url": "https://www.amano.co.jp/ir/managementpolicy/",
+    "pass": 1
+   },
+   {
+    "quote": "品質・顧客満足",
+    "url": "https://www.amano.co.jp/ir/managementpolicy/message/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、創業以来「人と時間」「人と空気」を企業テーマに掲げ、全事業活動の座標軸を顧客満足におき、全ての従業員がお客様の声を聞く「顧客第一主義」を基本方針としております",
+    "url": "https://www.amano.co.jp/ir/managementpolicy/message/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様のニーズに合ったより良いサービスを提供するために、クッキーを使用しています",
+    "url": "https://www.amano.co.jp/ir/managementpolicy/message/",
+    "pass": 1
+   },
+   {
+    "quote": "品質・顧客満足",
+    "url": "https://www.amano.co.jp/ir/managementpolicy/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様のニーズに合ったより良いサービスを提供するために、クッキーを使用しています",
+    "url": "https://www.amano.co.jp/ir/managementpolicy/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "品質・顧客満足",
+    "url": "https://www.amano.co.jp/ir/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様のニーズに合ったより良いサービスを提供するために、クッキーを使用しています",
+    "url": "https://www.amano.co.jp/ir/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "品質・顧客満足",
+    "url": "https://www.amano.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様のニーズに合ったより良いサービスを提供するために、クッキーを使用しています",
+    "url": "https://www.amano.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "品質・顧客満足",
+    "url": "https://www.amano.co.jp/ir/financial/report/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様のニーズに合ったより良いサービスを提供するために、クッキーを使用しています",
+    "url": "https://www.amano.co.jp/ir/financial/report/",
+    "pass": 1
+   },
+   {
+    "quote": "品質・顧客満足",
+    "url": "https://www.amano.co.jp/ir/financial/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様のニーズに合ったより良いサービスを提供するために、クッキーを使用しています",
+    "url": "https://www.amano.co.jp/ir/financial/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "品質・顧客満足",
+    "url": "https://www.amano.co.jp/ir/financial/business_segment/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様のニーズに合ったより良いサービスを提供するために、クッキーを使用しています",
+    "url": "https://www.amano.co.jp/ir/financial/business_segment/",
+    "pass": 1
+   },
+   {
+    "quote": "品質・顧客満足",
+    "url": "https://www.amano.co.jp/ir/financial/forecast/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様のニーズに合ったより良いサービスを提供するために、クッキーを使用しています",
+    "url": "https://www.amano.co.jp/ir/financial/forecast/",
+    "pass": 1
+   },
+   {
+    "quote": "品質・顧客満足",
+    "url": "https://www.amano.co.jp/ir/financial/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループはこれらのリスクに備え、競争力のある商品の継続的な開発やサポート体制の更なる強化を図っており、既存顧客との関係強化や新規顧客への取引拡大により、各事業における競争優位性を維持、向上させる事業活動を行っております",
+    "url": "https://www.amano.co.jp/ir/financial/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループでは、システム・ソリューションの提案やASP・SaaSサービス、ホスティングサービス等のクラウドビジネスを展開する中で、顧客及び顧客からお預かりした個人情報等の機密情報を取扱っておりますが、サイバー攻撃等の予期せぬ事態によりそれら機密情報や個人情報の紛失、漏洩が起きた場合には、信用の低下等により、当社グループの業績に影響を及ぼす可能性があります",
+    "url": "https://www.amano.co.jp/ir/financial/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様のニーズに合ったより良いサービスを提供するために、クッキーを使用しています",
+    "url": "https://www.amano.co.jp/ir/financial/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "品質・顧客満足",
+    "url": "https://www.amano.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様のニーズに合ったより良いサービスを提供するために、クッキーを使用しています",
+    "url": "https://www.amano.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "品質・顧客満足",
+    "url": "https://www.amano.co.jp/ir/library/announce/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様のニーズに合ったより良いサービスを提供するために、クッキーを使用しています",
+    "url": "https://www.amano.co.jp/ir/library/announce/",
+    "pass": 1
+   },
+   {
+    "quote": "品質・顧客満足",
+    "url": "https://www.amano.co.jp/ir/library/securities_report/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様のニーズに合ったより良いサービスを提供するために、クッキーを使用しています",
+    "url": "https://www.amano.co.jp/ir/library/securities_report/",
+    "pass": 1
+   },
+   {
+    "quote": "品質・顧客満足",
+    "url": "https://www.amano.co.jp/ir/library/document/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様のニーズに合ったより良いサービスを提供するために、クッキーを使用しています",
+    "url": "https://www.amano.co.jp/ir/library/document/",
+    "pass": 1
+   },
+   {
+    "quote": "品質・顧客満足",
+    "url": "https://www.amano.co.jp/ir/library/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様のニーズに合ったより良いサービスを提供するために、クッキーを使用しています",
+    "url": "https://www.amano.co.jp/ir/library/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "品質・顧客満足",
+    "url": "https://www.amano.co.jp/ir/library/business_report/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様のニーズに合ったより良いサービスを提供するために、クッキーを使用しています",
+    "url": "https://www.amano.co.jp/ir/library/business_report/",
+    "pass": 1
+   },
+   {
+    "quote": "品質・顧客満足",
+    "url": "https://www.amano.co.jp/ir/library/financial_report/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様のニーズに合ったより良いサービスを提供するために、クッキーを使用しています",
+    "url": "https://www.amano.co.jp/ir/library/financial_report/",
+    "pass": 1
+   },
+   {
+    "quote": "品質・顧客満足",
+    "url": "https://www.amano.co.jp/ir/library/integrated_report/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様のニーズに合ったより良いサービスを提供するために、クッキーを使用しています",
+    "url": "https://www.amano.co.jp/ir/library/integrated_report/",
+    "pass": 1
+   },
+   {
+    "quote": "新規顧客開拓、販売体制再整備",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261030_2Qreport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "提供価値向上 顧客基盤強化 資本効率向上",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261030_2Qreport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 64,655 19,273 83,928 ― 83,928",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261029_tanshin42.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 66,212 18,720 84,933 ― 84,933",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261029_tanshin42.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 30,528 8,527 39,056 ― 39,056",
+    "url": "https://www.amano.co.jp/ir/library/dl/20260728_tanshin41.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 31,045 7,973 39,018 ― 39,018",
+    "url": "https://www.amano.co.jp/ir/library/dl/20260728_tanshin41.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "提供価値向上 顧客基盤強化 資本効率向上",
+    "url": "https://www.amano.co.jp/ir/library/dl/20260728_1Qreport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "極的に取り組むとともに、「お客さま、取引先、株主、従業員、地域社会」の全てのステークホル",
+    "url": "https://www.amano.co.jp/ir/stock/dl/110_syousyu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ステップ１：顧客との契約を識別する",
+    "url": "https://www.amano.co.jp/ir/stock/dl/110_syousyu.pdf",
+    "pass": 2
+   }
+  ],
+  "何を": [
+   {
+    "quote": "⼈事届出サービス",
+    "url": "https://www.amano.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "クリーン・ロボットソリューション事業",
+    "url": "https://www.amano.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品サポート一覧",
+    "url": "https://www.amano.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "環境配慮型製品",
+    "url": "https://www.amano.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "LINEを活用した駐車場サービスに関する実証実験",
+    "url": "https://www.amano.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「RICOH 証憑電子保存サービス」にタイムスタンプ機能が標準実装",
+    "url": "https://www.amano.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "アマノ、韓国子会社が駐車管制ソリューションを提供する企業を買収",
+    "url": "https://www.amano.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社TKC様の「FXクラウドシリーズ」に、アマノタイムスタンプサービス3161 が採用！",
+    "url": "https://www.amano.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "東京都が推進する行政手続のデジタル化にアマノ株式会社が提供する「アマノタイムスタンプサービス 3161」の利用開始！！",
+    "url": "https://www.amano.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "就業管理クラウドサービス「CYBER XEED就業」をリニューアル",
+    "url": "https://www.amano.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ロボットソリューション事業",
+    "url": "https://www.amano.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "多様な働き方に対応できる勤怠管理・人事給与管理システムなど様々な人事労務ソリューション・クラウドサービスを提供しています",
+    "url": "https://www.amano.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "駐車場・駐輪場機器やクラウドサービスの提供から駐車場の管理運営まで請け負い、車と人の快適な街づくりを目指しています",
+    "url": "https://www.amano.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "# 人事届出サービス",
+    "url": "https://www.amano.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様のニーズに合ったより良いサービスを提供するために、クッキーを使用しています",
+    "url": "https://www.amano.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "⼈事届出サービス",
+    "url": "https://www.amano.co.jp/corp/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "クリーン・ロボットソリューション事業",
+    "url": "https://www.amano.co.jp/corp/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "製品サポート一覧",
+    "url": "https://www.amano.co.jp/corp/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "環境配慮型製品",
+    "url": "https://www.amano.co.jp/corp/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "時刻配信・認証サービス事業",
+    "url": "https://www.amano.co.jp/corp/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様のニーズに合ったより良いサービスを提供するために、クッキーを使用しています",
+    "url": "https://www.amano.co.jp/corp/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "⼈事届出サービス",
+    "url": "https://www.amano.co.jp/corp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "クリーン・ロボットソリューション事業",
+    "url": "https://www.amano.co.jp/corp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品サポート一覧",
+    "url": "https://www.amano.co.jp/corp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "環境配慮型製品",
+    "url": "https://www.amano.co.jp/corp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "アマノ製品の変遷",
+    "url": "https://www.amano.co.jp/corp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "マネジメントサービス事業を行う「株式会社エー・エム・エス」設立",
+    "url": "https://www.amano.co.jp/corp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「e-timing」時刻配信・認証サービス事業開始",
+    "url": "https://www.amano.co.jp/corp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「シー・エス・ジェー株式会社」を「アマノビジネスソリューションズ株式会社（ABS）」に改称",
+    "url": "https://www.amano.co.jp/corp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「エー・エム・エス株式会社」を「アマノマネジメントサービス株式会社（AMS）」に改称",
+    "url": "https://www.amano.co.jp/corp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド型就業管理サービス「TimePro-CX プレミアムサービス」発売",
+    "url": "https://www.amano.co.jp/corp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "駐車場データセンターサービス「ParkingWeb」運用開始",
+    "url": "https://www.amano.co.jp/corp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "人事労務クラウドサービス「e-AMANO 人事届出サービス」提供開始",
+    "url": "https://www.amano.co.jp/corp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「微粒子可視化検証サービス」提供開始",
+    "url": "https://www.amano.co.jp/corp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「e-AMANO シフト作成支援サービス」提供開始",
+    "url": "https://www.amano.co.jp/corp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様のニーズに合ったより良いサービスを提供するために、クッキーを使用しています",
+    "url": "https://www.amano.co.jp/corp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "⼈事届出サービス",
+    "url": "https://www.amano.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "クリーン・ロボットソリューション事業",
+    "url": "https://www.amano.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "製品サポート一覧",
+    "url": "https://www.amano.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "環境配慮型製品",
+    "url": "https://www.amano.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "時間を効率的に使うためのソリューションと",
+    "url": "https://www.amano.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "環境に配慮した製品・サービスを提供し、",
+    "url": "https://www.amano.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "タイムレコーダーや勤怠管理システムを始めとする様々なHRソリューションやクラウドサービスを提供しています",
+    "url": "https://www.amano.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "駐車場・駐輪場の機器やクウドサービスの提供から、駐車場の管理運営業務の請け負いも実施しています",
+    "url": "https://www.amano.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様のニーズに合ったより良いサービスを提供するために、クッキーを使用しています",
+    "url": "https://www.amano.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "⼈事届出サービス",
+    "url": "https://www.amano.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "クリーン・ロボットソリューション事業",
+    "url": "https://www.amano.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品サポート一覧",
+    "url": "https://www.amano.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "環境配慮型製品",
+    "url": "https://www.amano.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様のニーズに合ったより良いサービスを提供するために、クッキーを使用しています",
+    "url": "https://www.amano.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "⼈事届出サービス",
+    "url": "https://www.amano.co.jp/information/?cat=ir",
+    "pass": 1
+   },
+   {
+    "quote": "クリーン・ロボットソリューション事業",
+    "url": "https://www.amano.co.jp/information/?cat=ir",
+    "pass": 1
+   },
+   {
+    "quote": "製品サポート一覧",
+    "url": "https://www.amano.co.jp/information/?cat=ir",
+    "pass": 1
+   },
+   {
+    "quote": "環境配慮型製品",
+    "url": "https://www.amano.co.jp/information/?cat=ir",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様のニーズに合ったより良いサービスを提供するために、クッキーを使用しています",
+    "url": "https://www.amano.co.jp/information/?cat=ir",
+    "pass": 1
+   },
+   {
+    "quote": "⼈事届出サービス",
+    "url": "https://www.amano.co.jp/ir/managementpolicy/",
+    "pass": 1
+   },
+   {
+    "quote": "クリーン・ロボットソリューション事業",
+    "url": "https://www.amano.co.jp/ir/managementpolicy/",
+    "pass": 1
+   },
+   {
+    "quote": "製品サポート一覧",
+    "url": "https://www.amano.co.jp/ir/managementpolicy/",
+    "pass": 1
+   },
+   {
+    "quote": "環境配慮型製品",
+    "url": "https://www.amano.co.jp/ir/managementpolicy/",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトでは、お客様のニーズに合ったより良いサービスを提供するために、クッキーを使用しています",
+    "url": "https://www.amano.co.jp/ir/managementpolicy/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "「AI×勤怠管理」新勤怠管理システム紹介 ×「特別講演」労働問題の裁判では何が行われるのか",
+    "url": "https://www.amano.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「パートナーシップ構築宣言」の公表について",
+    "url": "https://www.amano.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "米国IVC社と工業用クリーナーの代理店契約締結（環境事業のはじまり）",
+    "url": "https://www.amano.co.jp/corp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介 | アマノ株式会社",
+    "url": "https://www.amano.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "「AI×勤怠管理」新勤怠管理システム紹介 ×「特別講演」労働問題の裁判では何が行われるのか",
+    "url": "https://www.amano.co.jp/information/?cat=ir",
+    "pass": 1
+   },
+   {
+    "quote": "中期経営計画をご紹介します",
+    "url": "https://www.amano.co.jp/ir/managementpolicy/",
+    "pass": 1
+   },
+   {
+    "quote": "・パートナー戦略強化",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261030_2Qreport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "所ならびに代理店を通じて国内販売を行うとともに、子会社 アマノ シンシナティ Inc.（アメリカ）、アマ",
+    "url": "https://www.amano.co.jp/ir/stock/dl/110_syousyu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "人事部門を担当する管理総括から提案された報酬案について、指名・報酬委員会において審議を行い、その",
+    "url": "https://www.amano.co.jp/ir/stock/dl/110_syousyu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、業績指標（ＫＰＩ）は、連結営業利益を採用し、適宜、環境の変化に応じて指名・報酬委員会の",
+    "url": "https://www.amano.co.jp/ir/stock/dl/110_syousyu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "変化に応じて指名・報酬委員会の答申を踏まえ見直しを行うものとする",
+    "url": "https://www.amano.co.jp/ir/stock/dl/110_syousyu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、代表取締役は過半数が社外役員で構成された指名・報酬委員会の答申を最大限尊重したうえで決",
+    "url": "https://www.amano.co.jp/ir/stock/dl/110_syousyu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "たうえで他社の状況も勘案し、指名・報酬委員会の答申を踏まえ代表取締役が決定する",
+    "url": "https://www.amano.co.jp/ir/stock/dl/110_syousyu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、四半期単位で行われる指名・ 報酬委員会に出席し、当社代表取締役と経営全般について意",
+    "url": "https://www.amano.co.jp/ir/stock/dl/110_syousyu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、四半期単位で行われる指名・報酬委員会にオブザーバーとして出席しております",
+    "url": "https://www.amano.co.jp/ir/stock/dl/110_syousyu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "社外取締役及び代表取締役で構成される指名・報酬委員会では、役員等の指名、報酬、その他重要な事",
+    "url": "https://www.amano.co.jp/ir/stock/dl/110_syousyu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・パートナー戦略強化",
+    "url": "https://www.amano.co.jp/ir/library/dl/20260428_202603report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "対象部門：ビジネスパートナー課クラウドサポート係、SaaS管理課、",
+    "url": "https://www.i-abs.co.jp/company/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "事業別セグメント情報",
+    "url": "https://www.amano.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "事業別セグメント情報",
+    "url": "https://www.amano.co.jp/corp/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "事業別セグメント情報",
+    "url": "https://www.amano.co.jp/corp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "事業別セグメント情報",
+    "url": "https://www.amano.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "事業別セグメント情報",
+    "url": "https://www.amano.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "事業別セグメント情報",
+    "url": "https://www.amano.co.jp/information/?cat=ir",
+    "pass": 1
+   },
+   {
+    "quote": "事業別セグメント情報",
+    "url": "https://www.amano.co.jp/ir/managementpolicy/",
+    "pass": 1
+   },
+   {
+    "quote": "事業別セグメント情報",
+    "url": "https://www.amano.co.jp/ir/managementpolicy/message/",
+    "pass": 1
+   },
+   {
+    "quote": "事業別セグメント情報",
+    "url": "https://www.amano.co.jp/ir/managementpolicy/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "事業別セグメント情報",
+    "url": "https://www.amano.co.jp/ir/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "事業別セグメント情報",
+    "url": "https://www.amano.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "5年間のセグメント業績推移をご覧いただけます",
+    "url": "https://www.amano.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "事業別セグメント情報",
+    "url": "https://www.amano.co.jp/ir/financial/report/",
+    "pass": 1
+   },
+   {
+    "quote": "事業別セグメント情報",
+    "url": "https://www.amano.co.jp/ir/financial/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "事業別セグメント情報 | 株主・投資家の皆様へ | アマノ株式会社",
+    "url": "https://www.amano.co.jp/ir/financial/business_segment/",
+    "pass": 1
+   },
+   {
+    "quote": "事業別セグメント情報",
+    "url": "https://www.amano.co.jp/ir/financial/business_segment/",
+    "pass": 1
+   },
+   {
+    "quote": "事業別セグメント情報",
+    "url": "https://www.amano.co.jp/ir/financial/forecast/",
+    "pass": 1
+   },
+   {
+    "quote": "事業別セグメント情報",
+    "url": "https://www.amano.co.jp/ir/financial/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループの2026年３月期における事業部門別売上高の構成比は、時間情報システム事業が77.6％、環境関連システム事業が22.4％の割合となっております",
+    "url": "https://www.amano.co.jp/ir/financial/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "事業別セグメント情報",
+    "url": "https://www.amano.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "事業別セグメント情報",
+    "url": "https://www.amano.co.jp/ir/library/announce/",
+    "pass": 1
+   },
+   {
+    "quote": "事業別セグメント情報",
+    "url": "https://www.amano.co.jp/ir/library/securities_report/",
+    "pass": 1
+   },
+   {
+    "quote": "事業別セグメント情報",
+    "url": "https://www.amano.co.jp/ir/library/document/",
+    "pass": 1
+   },
+   {
+    "quote": "事業別セグメント情報",
+    "url": "https://www.amano.co.jp/ir/library/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "事業別セグメント情報",
+    "url": "https://www.amano.co.jp/ir/library/business_report/",
+    "pass": 1
+   },
+   {
+    "quote": "事業別セグメント情報",
+    "url": "https://www.amano.co.jp/ir/library/financial_report/",
+    "pass": 1
+   },
+   {
+    "quote": "事業別セグメント情報",
+    "url": "https://www.amano.co.jp/ir/library/integrated_report/",
+    "pass": 1
+   },
+   {
+    "quote": "2.事業部門別業績・所在地別売上構成比",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261030_2Qreport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "構成比 前年同期比上期計画 上期実績27.3期 27.3期 構成比 26.3期上期実績",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261030_2Qreport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "前年同期比上期計画 上期実績 上期実績構成比 構成比",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261030_2Qreport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金額 構成比 金額 構成比 金額",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261030_2Qreport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "構成比実績 1Q 2Q 27.3期 上期実績金額 構成比 金額 構成比 金額",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261030_2Qreport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別 売上高・営業利益（連結）",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261030_2Qreport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業部門別業績・所在地別売上構成比",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261030_2Qreport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "所在地別 売上構成比",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261030_2Qreport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金 額 構成比 金 額 構成比 前期比 前期比 前期比",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261030_2Qreport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "構成比構成比 構成比前期比",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261030_2Qreport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "構成比構成比 前期比 構成比 構成比",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261030_2Qreport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "構成比前期比",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261030_2Qreport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "構成比 構成比 構成比",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261030_2Qreport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "構成比 構成比構成比 前期比 構成比",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261030_2Qreport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別 売上高・営業利益 通期予想 （連結）",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261030_2Qreport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記） …………………………………………………………………………14",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261029_tanshin42.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金 額 構成比 金 額 構成比 金 額 率",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261029_tanshin42.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261029_tanshin42.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261029_tanshin42.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．報告セグメントごとの売上高及び利益又は損失の金額に関する情報",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261029_tanshin42.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント 調整額",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261029_tanshin42.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261029_tanshin42.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 9,631 2,239 11,870 △2,183 9,686",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261029_tanshin42.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注) １ セグメント利益の調整額△2,183百万円は、各報告セグメントに配分していない全社費用であります",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261029_tanshin42.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "費用は、主に報告セグメントに帰属しない一般管理費であります",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261029_tanshin42.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２ セグメント利益は、中間連結損益計算書の営業利益と調整を行っております",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261029_tanshin42.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．報告セグメントごとの固定資産の減損損失又はのれん等に関する情報",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261029_tanshin42.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 7,969 1,903 9,873 △2,353 7,519",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261029_tanshin42.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注) １ セグメント利益の調整額△2,353百万円は、各報告セグメントに配分していない全社費用であります",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261029_tanshin42.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記） …………………………………………………………………………13",
+    "url": "https://www.amano.co.jp/ir/library/dl/20260728_tanshin41.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金 額 構成比 金 額 構成比 金 額 率",
+    "url": "https://www.amano.co.jp/ir/library/dl/20260728_tanshin41.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.amano.co.jp/ir/library/dl/20260728_tanshin41.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.amano.co.jp/ir/library/dl/20260728_tanshin41.pdf",
+    "pass": 2
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "沿革と主な環境活動",
+    "url": "https://www.amano.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 最新決算情報開示",
+    "url": "https://www.amano.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期（中間期）決算説明会資料",
+    "url": "https://www.amano.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期（中間期）決算短信",
+    "url": "https://www.amano.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期（中間期）決算短信補足説明資料",
+    "url": "https://www.amano.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期（中間期）および通期業績予想の修正に関するお知らせ",
+    "url": "https://www.amano.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期 決算短信",
+    "url": "https://www.amano.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期 決算概要",
+    "url": "https://www.amano.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算説明会資料",
+    "url": "https://www.amano.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算短信",
+    "url": "https://www.amano.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算短信補足説明資料",
+    "url": "https://www.amano.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期 決算短信",
+    "url": "https://www.amano.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期 決算概要",
+    "url": "https://www.amano.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第2四半期（中間期）決算説明会資料",
+    "url": "https://www.amano.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第2四半期（中間期）決算短信",
+    "url": "https://www.amano.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第2四半期（中間期）決算短信補足説明資料",
+    "url": "https://www.amano.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第1四半期 決算短信",
+    "url": "https://www.amano.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第1四半期 決算概要",
+    "url": "https://www.amano.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 決算説明会資料",
+    "url": "https://www.amano.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 決算短信",
+    "url": "https://www.amano.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 決算短信 補足説明資料",
+    "url": "https://www.amano.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第3四半期 決算短信",
+    "url": "https://www.amano.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第3四半期 決算概要",
+    "url": "https://www.amano.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期第2四半期（中間期） 決算説明会資料",
+    "url": "https://www.amano.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期第2四半期（中間期）決算短信",
+    "url": "https://www.amano.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革と主な環境活動",
+    "url": "https://www.amano.co.jp/corp/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | アマノについて | アマノ株式会社",
+    "url": "https://www.amano.co.jp/corp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革と主な環境活動",
+    "url": "https://www.amano.co.jp/corp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1930年～",
+    "url": "https://www.amano.co.jp/corp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1950年～",
+    "url": "https://www.amano.co.jp/corp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1970年～",
+    "url": "https://www.amano.co.jp/corp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1990年～",
+    "url": "https://www.amano.co.jp/corp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年～",
+    "url": "https://www.amano.co.jp/corp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革と主な環境活動",
+    "url": "https://www.amano.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革と主な環境活動",
+    "url": "https://www.amano.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期（中間期）決算説明会資料",
+    "url": "https://www.amano.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期（中間期）決算短信",
+    "url": "https://www.amano.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期（中間期）決算短信補足説明資料",
+    "url": "https://www.amano.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期（中間期）および通期業績予想の修正に関するお知らせ",
+    "url": "https://www.amano.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革と主な環境活動",
+    "url": "https://www.amano.co.jp/information/?cat=ir",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期（中間期）決算説明会資料",
+    "url": "https://www.amano.co.jp/information/?cat=ir",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期（中間期）決算短信",
+    "url": "https://www.amano.co.jp/information/?cat=ir",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期（中間期）決算短信補足説明資料",
+    "url": "https://www.amano.co.jp/information/?cat=ir",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期（中間期）および通期業績予想の修正に関するお知らせ",
+    "url": "https://www.amano.co.jp/information/?cat=ir",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期 決算短信",
+    "url": "https://www.amano.co.jp/information/?cat=ir",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期 決算概要",
+    "url": "https://www.amano.co.jp/information/?cat=ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算説明会資料",
+    "url": "https://www.amano.co.jp/information/?cat=ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算短信",
+    "url": "https://www.amano.co.jp/information/?cat=ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算短信補足説明資料",
+    "url": "https://www.amano.co.jp/information/?cat=ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期 決算短信",
+    "url": "https://www.amano.co.jp/information/?cat=ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期 決算概要",
+    "url": "https://www.amano.co.jp/information/?cat=ir",
+    "pass": 1
+   },
+   {
+    "quote": "沿革と主な環境活動",
+    "url": "https://www.amano.co.jp/ir/managementpolicy/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革と主な環境活動",
+    "url": "https://www.amano.co.jp/ir/managementpolicy/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月29日",
+    "url": "https://www.amano.co.jp/ir/managementpolicy/message/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革と主な環境活動",
+    "url": "https://www.amano.co.jp/ir/managementpolicy/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革と主な環境活動",
+    "url": "https://www.amano.co.jp/ir/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革と主な環境活動",
+    "url": "https://www.amano.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革と主な環境活動",
+    "url": "https://www.amano.co.jp/ir/financial/report/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期（中間期）連結経営成績",
+    "url": "https://www.amano.co.jp/ir/financial/report/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革と主な環境活動",
+    "url": "https://www.amano.co.jp/ir/financial/highlight/",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "「株式会社キングジム」の勤怠管理システムの保守・サポート業務及び付属品販売を業務移管",
+    "url": "https://www.amano.co.jp/corp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "・クラウドサービス拡充（ストックビジネス拡大）",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261030_2Qreport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・北米 サブスクリプションモデル販売拡大",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261030_2Qreport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（ストックビジネス拡大）",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261030_2Qreport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・保守契約率100％推進（サポートメニュー拡充）",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261030_2Qreport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サブスクリプションモデル販売拡大",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261030_2Qreport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（ストックビジネス拡大、リカーリングへの戦略転換）",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261030_2Qreport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "額（年額４億５千万円以内",
+    "url": "https://www.amano.co.jp/ir/stock/dl/110_syousyu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "アマノ コーリア Corp. 3,100,000万ウォン 100.0 駐車場の管理運営・保守請負及び環境関連",
+    "url": "https://www.amano.co.jp/ir/stock/dl/110_syousyu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "アマノマネジメントサービス（株） 205百万円 100.0 駐車場の管理運営・保守請負、清掃業務請",
+    "url": "https://www.amano.co.jp/ir/stock/dl/110_syousyu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ム機器の据付工事請負・保守・エンジニア",
+    "url": "https://www.amano.co.jp/ir/stock/dl/110_syousyu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の取締役の固定報酬として、月額の「基本報酬」を支給する",
+    "url": "https://www.amano.co.jp/ir/stock/dl/110_syousyu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取締役の金銭報酬の額は、2008年６月27日開催の第92回定時株主総会において年額４億５千万円以内と",
+    "url": "https://www.amano.co.jp/ir/stock/dl/110_syousyu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "監査役の金銭報酬の額は、2008年６月27日開催の第92回定時株主総会において年額８千万円以内と決議",
+    "url": "https://www.amano.co.jp/ir/stock/dl/110_syousyu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これらの製品に関連する保守などの役務を顧客に対して提供する場合 がありますが、役務に関する",
+    "url": "https://www.amano.co.jp/ir/stock/dl/110_syousyu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これらの製品に関連する保守などの役務を顧客に対して提供する場合 がありますが、役務に関する履行",
+    "url": "https://www.amano.co.jp/ir/stock/dl/110_syousyu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・クラウドサービス拡充（ストックビジネス拡大）",
+    "url": "https://www.amano.co.jp/ir/library/dl/20260428_202603report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・北米 サブスクリプションモデル販売拡大",
+    "url": "https://www.amano.co.jp/ir/library/dl/20260428_202603report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（ストックビジネス拡大）",
+    "url": "https://www.amano.co.jp/ir/library/dl/20260428_202603report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・保守契約率100％推進（サポートメニュー拡充）",
+    "url": "https://www.amano.co.jp/ir/library/dl/20260428_202603report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サブスクリプションモデル販売拡大",
+    "url": "https://www.amano.co.jp/ir/library/dl/20260428_202603report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（ストックビジネス拡大、リカーリングへの戦略転換）",
+    "url": "https://www.amano.co.jp/ir/library/dl/20260428_202603report.pdf",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "この方針の下、成長ドライバー３本柱＋Oneによる業績拡大を図り、本計画の最終年度である2029年３月期に売上 高2,000億円、営業利益280億円、営業利益率(OPR)14%、ROE14%超の達成を目指してまいります",
+    "url": "https://www.amano.co.jp/ir/managementpolicy/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "営業利益／営業利益率",
+    "url": "https://www.amano.co.jp/ir/financial/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "通期営業利益率",
+    "url": "https://www.amano.co.jp/ir/financial/business_segment/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、2026年４月から2029年３月までの３ヵ年の「第10次中期経営計画」を策定しており、本計画の最終年度である2029年3月期に売上高2,000億円、営業利益280億円、営業利益率(OPR)14%、ROE14%超の達成を目指してまいります",
+    "url": "https://www.amano.co.jp/ir/financial/forecast/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループはこれらのリスクに備え、競争力のある商品の継続的な開発やサポート体制の更なる強化を図っており、既存顧客との関係強化や新規顧客への取引拡大により、各事業における競争優位性を維持、向上させる事業活動を行っております",
+    "url": "https://www.amano.co.jp/ir/financial/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "（価値創造プロセス、アマノの強み、中期経営計画、財務資本戦略）",
+    "url": "https://www.amano.co.jp/ir/library/integrated_report/",
+    "pass": 1
+   },
+   {
+    "quote": "営業利益 営業利益率 （金額：百万円）（金額：百万円）",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261030_2Qreport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【ご参考】 売上総利益率増減■ 売上高 ■営業利益",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261030_2Qreport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率は修正計画未達も、 ROEとともに当初計画目標を達成し、強固な財務基盤を構築",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261030_2Qreport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "連結売上高 連結営業利益 営業利益率(ＯＰＲ) ＲＯＥ",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261030_2Qreport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業・地域別 売上増減 | 売上総利益率増減",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261030_2Qreport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※金額は売上高の増減額、矢印は粗利益率の増減",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261030_2Qreport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※金額は売上高の増減額、矢印は売上総利益率の増減",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261030_2Qreport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率（金額：百万円）",
+    "url": "https://www.amano.co.jp/ir/library/dl/20260728_1Qreport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益 営業利益率 （金額：百万円）（金額：百万円）",
+    "url": "https://www.amano.co.jp/ir/library/dl/20260728_1Qreport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■ 売上高 【ご参考】売上総利益率 増減",
+    "url": "https://www.amano.co.jp/ir/library/dl/20260728_1Qreport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率は修正計画未達も、 ROEとともに当初計画目標を達成し、強固な財務基盤を構築",
+    "url": "https://www.amano.co.jp/ir/library/dl/20260728_1Qreport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "連結売上高 連結営業利益 営業利益率(ＯＰＲ) ＲＯＥ",
+    "url": "https://www.amano.co.jp/ir/library/dl/20260728_1Qreport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※金額は売上高の増減額、矢印は粗利益率の増減",
+    "url": "https://www.amano.co.jp/ir/library/dl/20260728_1Qreport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業・地域別 売上増減 | 売上総利益率増減",
+    "url": "https://www.amano.co.jp/ir/library/dl/20260728_1Qreport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※金額は売上高の増減額、矢印は売上総利益率の増減",
+    "url": "https://www.amano.co.jp/ir/library/dl/20260728_1Qreport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "るとともに、収益面においても競争優位性を更に高め、社会的な課題解決にも積極的に取り組 んでまいりま",
+    "url": "https://www.amano.co.jp/ir/stock/dl/110_syousyu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "月期に売上高2,000億円、営業利益280億円、営業利益率(OPR)14％、ROE14％超の達成を目指 してまい",
+    "url": "https://www.amano.co.jp/ir/stock/dl/110_syousyu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 13.0％ ― 13.5％ ― 14.0％ ―",
+    "url": "https://www.amano.co.jp/ir/stock/dl/110_syousyu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "価値の増大への意識を高める目的から、中期経営計画に連動した業績指標である連結営業利益計画達成率、連結営業利益率",
+    "url": "https://www.amano.co.jp/ir/stock/dl/110_syousyu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【ご参考】 売上総利益率 増減■ 売上高 ■ 営業利益",
+    "url": "https://www.amano.co.jp/ir/library/dl/20260428_202603report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率は修正計画未達も、 ROEとともに当初計画目標を達成し、強固な財務基盤を構築",
+    "url": "https://www.amano.co.jp/ir/library/dl/20260428_202603report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "連結売上高 連結営業利益 営業利益率(ＯＰＲ) ＲＯＥ",
+    "url": "https://www.amano.co.jp/ir/library/dl/20260428_202603report.pdf",
+    "pass": 2
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "事業収益構造の転換加速",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261030_2Qreport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "〈事業収益構造の転換〉を、グループ",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261030_2Qreport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業収益構造転換",
+    "url": "https://www.amano.co.jp/ir/library/dl/20261030_2Qreport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業収益構造の転換加速",
+    "url": "https://www.amano.co.jp/ir/library/dl/20260728_1Qreport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "〈事業収益構造の転換〉を、グループ",
+    "url": "https://www.amano.co.jp/ir/library/dl/20260728_1Qreport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業収益構造転換",
+    "url": "https://www.amano.co.jp/ir/library/dl/20260728_1Qreport.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業収益構造の転換加速",
+    "url": "https://www.amano.co.jp/ir/library/dl/20260428_202603report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "〈事業収益構造の転換〉を、グループ",
+    "url": "https://www.amano.co.jp/ir/library/dl/20260428_202603report.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業収益構造転換",
+    "url": "https://www.amano.co.jp/ir/library/dl/20260428_202603report.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Plan 中期経営計画 - 株主・投資家の皆様へ | アマノ 株式会社 — Plan 中期経営計画 - 株主・投資家の皆様へ | アマノ 株式会社 アマノ株式会社 https://www.amano.co.jp > managementpolicy > plan",
+    "url": "https://www.amano.co.jp/ir/managementpolicy/plan/",
+    "pass": 3
+   },
+   {
+    "quote": "COMPANY 企業情報 - アマノビジネスソリューションズ — COMPANY 企業情報 - アマノビジネスソリューションズ i-abs.co.jp https://www.i-abs.co.jp > company",
+    "url": "https://www.i-abs.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "あの アマノ ってどの アマノ ？？時間と空気で叩き出す高収益 ... — あの アマノ ってどの アマノ ？？時間と空気で叩き出す高収益 ... note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/yusai_03/n/n306048efac65",
+    "pass": 3
+   },
+   {
+    "quote": "アマノ 株式会社 — アマノ 株式会社 アマノ株式会社 https://www.amano.co.jp",
+    "url": "https://www.amano.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "【注目銘柄】 アマノ ：強いキャッシュ創出力と盤石財務備える ... — 【注目銘柄】 アマノ ：強いキャッシュ創出力と盤石財務備える ... マネーポストWEB https://www.moneypost.jp > ...",
+    "url": "https://www.moneypost.jp/1162065",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 資料 決算概要 | 株主・投資家の皆様へ - アマノ — 決算説明 会 資料 決算概要 | 株主・投資家の皆様へ - アマノ アマノ株式会社 https://www.amano.co.jp > library > document",
+    "url": "https://www.amano.co.jp/ir/library/document/",
+    "pass": 3
+   },
+   {
+    "quote": "IRカレンダー | 株主・投資家の皆様へ | アマノ 株式会社 — IRカレンダー | 株主・投資家の皆様へ | アマノ 株式会社 アマノ株式会社 https://www.amano.co.jp > calendar",
+    "url": "https://www.amano.co.jp/ir/calendar/",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信｜ アマノ 株式会社｜公式ホームページ — 決算 短信｜ アマノ 株式会社｜公式ホームページ アマノ株式会社 https://www.amano.co.jp > library > announce",
+    "url": "https://www.amano.co.jp/ir/library/announce/",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家の皆様へ | アマノ 株式会社 — 株主・投資家の皆様へ | アマノ 株式会社 アマノ株式会社 https://www.amano.co.jp > ...",
+    "url": "https://www.amano.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "最新 決算 情報 | 株主・投資家の皆様へ | アマノ 株式会社 — 最新 決算 情報 | 株主・投資家の皆様へ | アマノ 株式会社 アマノ株式会社 https://www.amano.co.jp > financial > report",
+    "url": "https://www.amano.co.jp/ir/financial/report/",
+    "pass": 3
+   },
+   {
+    "quote": "サイトマップ | アマノ 株式会社 — サイトマップ | アマノ 株式会社 アマノ株式会社 https://www.amano.co.jp > sitemap",
+    "url": "https://www.amano.co.jp/sitemap/",
+    "pass": 3
+   },
+   {
+    "quote": "アマノ について | アマノ 株式会社 — アマノ について | アマノ 株式会社 アマノ株式会社 https://www.amano.co.jp > corp",
+    "url": "https://www.amano.co.jp/corp/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | アマノ について | アマノ 株式会社 — 会社概要 | アマノ について | アマノ 株式会社 アマノ株式会社 https://www.amano.co.jp > アマノについて",
+    "url": "https://www.amano.co.jp/corp/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "役員一覧 | アマノ について | アマノ 株式会社 — 役員一覧 | アマノ について | アマノ 株式会社 アマノ株式会社 https://www.amano.co.jp > corp > executives",
+    "url": "https://www.amano.co.jp/corp/executives/",
+    "pass": 3
+   },
+   {
+    "quote": "2代目 社長 へ インタビュー をしました！ 私たち アマノ 機工株式 ... — 2代目 社長 へ インタビュー をしました！ 私たち アマノ 機工株式 ... Instagram https://www.instagram.com > reel",
+    "url": "https://www.instagram.com/reel/DbIPZn_vz1L/",
+    "pass": 3
+   },
+   {
+    "quote": "企業案内 Company Profile - 株式会社アマノ — 企業案内 Company Profile - 株式会社アマノ amano-ltd.co.jp https://www.amano-ltd.co.jp > 企業情報",
+    "url": "https://www.amano-ltd.co.jp/about/company/",
+    "pass": 3
+   },
+   {
+    "quote": "アマノ 役員一覧 | 取締役8名の経歴と選任賛成比率 — アマノ 役員一覧 | 取締役8名の経歴と選任賛成比率 The社史 https://the-shashi.com > アマノの歴史",
+    "url": "https://the-shashi.com/tse/6436/executives/",
+    "pass": 3
+   },
+   {
+    "quote": "アマノ 【6436】の 社長 ・役員 - キタイシホン — アマノ 【6436】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/6436/board-of-director",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.amano.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amano.co.jp/corp/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amano.co.jp/corp/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amano.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amano.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amano.co.jp/information/?cat=ir",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amano.co.jp/ir/managementpolicy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amano.co.jp/ir/managementpolicy/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amano.co.jp/ir/managementpolicy/plan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amano.co.jp/ir/disclosure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amano.co.jp/ir/financial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amano.co.jp/ir/financial/report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amano.co.jp/ir/financial/highlight/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amano.co.jp/ir/financial/business_segment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amano.co.jp/ir/financial/forecast/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amano.co.jp/ir/financial/risk/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amano.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amano.co.jp/ir/latest/latest_20261030.zip",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amano.co.jp/ir/library/announce/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amano.co.jp/ir/library/securities_report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amano.co.jp/ir/library/document/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amano.co.jp/ir/library/meeting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amano.co.jp/ir/library/business_report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amano.co.jp/ir/library/financial_report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amano.co.jp/ir/library/integrated_report/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.amano.co.jp/ir/library/dl/20261030_2Qreport.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.amano.co.jp/ir/library/dl/20261029_tanshin42.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.amano.co.jp/ir/library/dl/20261029_tanshin42_hosoku.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.amano.co.jp/ir/news/dl/2026/20261027_shusei.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.amano.co.jp/ir/library/dl/20260728_tanshin41.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.amano.co.jp/ir/library/dl/20260728_1Qreport.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.amano.co.jp/ir/stock/dl/110_syousyu.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.amano.co.jp/ir/library/dl/20260428_202603report.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.amano.co.jp/assets/img/business/mv_title_pc.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.amano.co.jp/assets/img/business/time_title.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.amano.co.jp/assets/img/business/time01_pc.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.amano.co.jp/assets/img/business/time02_pc.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.amano.co.jp/assets/img/business/air_title.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.amano.co.jp/assets/img/business/air01_pc.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.amano.co.jp/assets/img/business/air02_pc.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.amano.co.jp/assets/img/ir/library/business_report/img_110jiho_pc.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.i-abs.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/reel/DbIPZn_vz1L/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "アマノ",
+   "results": [
+    "https://www.amano.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9E%E3%83%8E",
+    "https://www.facebook.com/amano.co.jp/?locale=ja_JP",
+    "https://www.youtube.com/user/amano1931",
+    "https://www.instagram.com/amano_corp_official/",
+    "https://ja.wikipedia.org/wiki/アマノ",
+    "https://shop.amano.co.jp/shop/Default.aspx",
+    "https://shop.amano.co.jp/shop/c/c1/",
+    "https://www.youtube.com/amano1931",
+    "https://www.amano-ltd.co.jp/"
+   ]
+  },
+  {
+   "query": "アマノ ビジネスモデル",
+   "results": [
+    "https://www.amano.co.jp/ir/managementpolicy/plan/",
+    "https://www.i-abs.co.jp/company/",
+    "https://note.com/yusai_03/n/n306048efac65",
+    "https://www.amano.co.jp/",
+    "https://www.moneypost.jp/1162065",
+    "https://www.amano.co.jp/recruit/business/",
+    "https://www.facebook.com/clouza.abs/",
+    "https://www.amano.co.jp/tis/line-up/kintai/",
+    "https://batalla.camaracartago.org/tokyotrend079/1951857/",
+    "https://consovation.com/株式会社アマノのビジネスモデルが生み出す成長/"
+   ]
+  },
+  {
+   "query": "アマノ 決算説明資料",
+   "results": [
+    "https://www.amano.co.jp/ir/library/document/",
+    "https://www.amano.co.jp/ir/calendar/",
+    "https://www.amano.co.jp/ir/library/announce/",
+    "https://www.amano.co.jp/ir/",
+    "https://www.amano.co.jp/ir/financial/report/",
+    "https://www.amano.co.jp/ir/library/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20251015574311/",
+    "https://www.buffett-code.com/company/6436/library",
+    "https://www.amano.co.jp/ir/library/dl/20260428_202603report.pdf"
+   ]
+  },
+  {
+   "query": "アマノ 事業系統図",
+   "results": [
+    "https://www.amano.co.jp/sitemap/",
+    "https://www.amano.co.jp/corp/",
+    "https://www.amano.co.jp/corp/outline/",
+    "https://www.amano.co.jp/",
+    "https://www.amano.co.jp/ir/managementpolicy/plan/",
+    "https://www.amano.co.jp/ir/",
+    "https://www.amano.co.jp/ir/library/",
+    "https://www.amano.co.jp/corp/executives/",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100LT4T.pdf",
+    "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6436"
+   ]
+  },
+  {
+   "query": "アマノ 社長 インタビュー",
+   "results": [
+    "https://www.amano.co.jp/corp/executives/",
+    "https://www.instagram.com/reel/DbIPZn_vz1L/",
+    "https://www.amano-ltd.co.jp/about/company/",
+    "https://the-shashi.com/tse/6436/executives/",
+    "https://kitaishihon.com/company/6436/board-of-director",
+    "https://www.facebook.com/amano.co.jp/photos/1%E6%9C%8829%E6%97%A5-%E3%83%95%E3%82%B8%E3%83%86%E3%83%AC%E3%83%93%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9style%E3%81%A7%E3%82%A2%E3%83%9E%E3%83%8E%E3%81%8C%E7%B4%B9%E4%BB%8B%E3%81%95%E3%82%8C%E3%81%BE%E3%81%99%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9style%E3%81%AF%E6%99%82%E4%BB%A3%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F%E4%BC%81%E6%A5%AD%E3%81%AE%E3%83%88%E3%83%83%E3%83%97%E3%81%B8%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%82%92%E5%A7%8B%E3%82%81%E5%95%86%E5%93%81%E3%82%84%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AA%E3%81%A9%E3%82%92%E5%A4%9A%E9%9D%A2%E7%9A%84%E3%81%AB%E7%B4%B9/1119709514818931/",
+    "https://www.nikkan.co.jp/articles/view/423020",
+    "https://amano-web.co.jp/company/about/",
+    "https://business.nikkei.com/atcl/interview/15/269473/092100108/",
+    "https://askai.glarity.app/ja/search/アマノの社長インタビューについての情報は何ですか"
+   ]
+  }
+ ],
+ "missing": {}
+}

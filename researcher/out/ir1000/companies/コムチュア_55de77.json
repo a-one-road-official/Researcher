@@ -1,0 +1,1535 @@
+{
+ "name": "コムチュア",
+ "aliases": [],
+ "context": "証券コード3844／情報・通信業／プライム（内国株式）／2026.03期 売上高38,109百万円 営業利益率12.2%",
+ "researched_at": "2026-11-02T19:55:41.201299+00:00",
+ "official_url": "https://www.comture.com/",
+ "identified_by": "search:yahoo_jp:コムチュア",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1985（昭和60）年1月18日",
+    "url": "https://www.comture.com/company/brief.html",
+    "pass": 1
+   },
+   {
+    "label": "会社が設立されたのはいつですか？",
+    "value": "1985（昭和60）年1月18日です。",
+    "url": "https://www.comture.com/ir/irfaq.html",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高（連結）",
+    "value": "38,109百万円（2026年3月期）",
+    "url": "https://www.comture.com/company/brief.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数（連結）",
+    "value": "2,129名（2026年4月1日時点、役員および派遣社員含む）",
+    "url": "https://www.comture.com/company/brief.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員は何人ですか？",
+    "value": "会社情報－会社概要 をご覧ください。",
+    "url": "https://www.comture.com/ir/irfaq.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "テクノロジー領域 Data&AIを軸に、マルチSaaS連携やデータ基盤の構築などを通じて顧客の価値創出を支援する領域 業務変革支援領域 金融・製造などの業界・業務に精通したコンサルティングやERP導入を通じて、顧客課題の解決から業務変革の実現・定着まで一貫して伴走支援する領域 マネージドサービス・教育領域 運用保守業務の可視化・自動化・AI活用による高度化に加え、教育・人材育成サービスを通じて、顧客の自律的な運用体制の構築と継続的な成長を支援する領域",
+    "url": "https://www.comture.com/company/brief.html",
+    "pass": 1
+   },
+   {
+    "label": "事業内容について教えてください。",
+    "value": "当社は、各種コンピュータシステムの提案、構築、保守及び運用に係る4つのソリューション及びサービスを提供しています。また、企業のデジタル人材育成推進のための研修サービスも行っており、以下の5つの事業がございます。 クラウドソリューション事業 デジタルソリューション事業 ビジネスソリューション事業 プラットフォーム・運用サービス事業 デジタルラーニング事業",
+    "url": "https://www.comture.com/ir/irfaq.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "顧客接点強化と満足度向上によりビジネス成長に貢献",
+    "url": "https://www.comture.com/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の業務プロセスを最適化し、業務効率化を支援",
+    "url": "https://www.comture.com/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客接点の強化と業務効率化の両立を目指してSalesforceのPoCを開始、デジタル化の可能性を検証！",
+    "url": "https://www.comture.com/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様にはご不便をお掛けいたしますが、何卒ご理解を賜りますよう、お願い申し上げます",
+    "url": "https://www.comture.com/inquiry/?f=inquiry",
+    "pass": 1
+   },
+   {
+    "quote": "本ページにおいて収集するお客様の個人情報は、メール及び電話等によるお問い合わせへの対応・連絡、及び当社からの情報提供のために利用します",
+    "url": "https://www.comture.com/inquiry/?f=inquiry",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・主要取引先",
+    "url": "https://www.comture.com/businesspartner/",
+    "pass": 1
+   },
+   {
+    "quote": "コムチュアグループは、AI時代の変革に対応し、お客様の重要課題の解決に伴走する",
+    "url": "https://www.comture.com/company/?f=company",
+    "pass": 1
+   },
+   {
+    "quote": "コムチュアは1985年に創業して以来、「お客様には“感動”を、社員には“夢”を」を会社の標語（※）として掲げ、お客様やお取引先様から真に信頼される企業であり続け、社会とともに発展することを目指してまいりました",
+    "url": "https://www.comture.com/company/?f=company",
+    "pass": 1
+   },
+   {
+    "quote": "そして、「ＡＩとデジタルで未来を創造する」をテーマに、お客様とともに更なる成長を続け、中長期的な企業価値の向上を実現していく所存です",
+    "url": "https://www.comture.com/company/?f=company",
+    "pass": 1
+   },
+   {
+    "quote": "ＡＩ技術の急速な発展など、事業環境が大きな転換期を迎えるなかでも、時代の潮流をいち早く捉え、新しい技術を取り入れ蓄積することによって、お客様の｢ささやき｣（ご要望）を｢カタチ｣（実現）にし、付加価値の高いサービスを提供し続けてまいります",
+    "url": "https://www.comture.com/company/?f=company",
+    "pass": 1
+   },
+   {
+    "quote": "今後も、お客様から信頼されるパートナーであり続けるために、グループ一丸となってお客様の経営課題の解決と価値創出に貢献してまいります",
+    "url": "https://www.comture.com/company/?f=company",
+    "pass": 1
+   },
+   {
+    "quote": "「お客様には\"感動\"を、社員には\"夢\"を」は「会社の標語」であり「会社の理念」として取り組んでいるものです",
+    "url": "https://www.comture.com/company/?f=company",
+    "pass": 1
+   },
+   {
+    "quote": "Data&AIを軸に、マルチSaaS連携やデータ基盤の構築などを通じて顧客の価値創出を支援する領域",
+    "url": "https://www.comture.com/company/brief.html",
+    "pass": 1
+   },
+   {
+    "quote": "金融・製造などの業界・業務に精通したコンサルティングやERP導入を通じて、顧客課題の解決から業務変革の実現・定着まで一貫して伴走支援する領域",
+    "url": "https://www.comture.com/company/brief.html",
+    "pass": 1
+   },
+   {
+    "quote": "運用保守業務の可視化・自動化・AI活用による高度化に加え、教育・人材育成サービスを通じて、顧客の自律的な運用体制の構築と継続的な成長を支援する領域",
+    "url": "https://www.comture.com/company/brief.html",
+    "pass": 1
+   },
+   {
+    "quote": "コムチュアグループは、お客様の重要課題の解決に伴走する「デジタルソリューションパートナー」として、デジタル変革を支える幅広い領域でサービスを提供しています",
+    "url": "https://www.comture.com/ir/topmessage.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループはこれらの変化を「さらなる成長の機会」と捉え、提供サービス・収益構造・お客様との関係性を進化させながら、事業活動を拡大してまいります",
+    "url": "https://www.comture.com/ir/topmessage.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様、社会から必要とされる企業であり続けるために、次の項目を経営の基本理念とし活動を続けています",
+    "url": "https://www.comture.com/ir/irfaq.html",
+    "pass": 1
+   },
+   {
+    "quote": "2.ユーザーから真に信頼されるサービスを提供する会社になること",
+    "url": "https://www.comture.com/ir/irfaq.html",
+    "pass": 1
+   },
+   {
+    "quote": "5つの事業がそれぞれ独立してお客様にサービスを提供するだけでなく、その総合力を活かしたソリューションサービスを提供しています",
+    "url": "https://www.comture.com/ir/irfaq.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、自社プロダクトを活用したソリューションの提供から、プロダクトやアプリケーションの保守等のメンテナンスと、トータルソリューションサービスをお客様にご提供する「プロダクト＆ソリューション」で、お客様のシステムライフサイクルの全てにおいて高品質のサービスを提供しています",
+    "url": "https://www.comture.com/ir/irfaq.html",
+    "pass": 1
+   },
+   {
+    "quote": "これらサービスを提供することで築いたお客様との信頼関係、これがコムチュアの強みです",
+    "url": "https://www.comture.com/ir/irfaq.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様にはご不便をお掛けいたしますが、何卒ご理解を賜りますよう、お願い申し上げます",
+    "url": "https://www.comture.com/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "本ページにおいて収集するお客様の個人情報は、メール及び電話等によるお問い合わせへの対応・連絡、及び当社からの情報提供のために利用します",
+    "url": "https://www.comture.com/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "コムチュア株式会社では、｢顧客満足｣｢社員満足｣｢株主満足｣の理念の下、当社の全てのステークホルダーに対し、当社への理解の促進と適正な評価のために、あらゆるコミュニケーション活動を通し、当社の事業活動、財務状況等の重要な情報を適時･適切な情報開示に努めます",
+    "url": "https://www.comture.com/ir/disclosurepolicy.html",
+    "pass": 1
+   },
+   {
+    "quote": "コムチュアグループは、AI時代の変革に対応し、お客様の重要課題の解決に伴走する",
+    "url": "https://www.comture.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "コムチュアは1985年に創業して以来、「お客様には“感動”を、社員には“夢”を」を会社の標語（※）として掲げ、お客様やお取引先様から真に信頼される企業であり続け、社会とともに発展することを目指してまいりました",
+    "url": "https://www.comture.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "そして、「ＡＩとデジタルで未来を創造する」をテーマに、お客様とともに更なる成長を続け、中長期的な企業価値の向上を実現していく所存です",
+    "url": "https://www.comture.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ＡＩ技術の急速な発展など、事業環境が大きな転換期を迎えるなかでも、時代の潮流をいち早く捉え、新しい技術を取り入れ蓄積することによって、お客様の｢ささやき｣（ご要望）を｢カタチ｣（実現）にし、付加価値の高いサービスを提供し続けてまいります",
+    "url": "https://www.comture.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "今後も、お客様から信頼されるパートナーであり続けるために、グループ一丸となってお客様の経営課題の解決と価値創出に貢献してまいります",
+    "url": "https://www.comture.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "「お客様には\"感動\"を、社員には\"夢\"を」は「会社の標語」であり「会社の理念」として取り組んでいるものです",
+    "url": "https://www.comture.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "本ページにおいて収集するお客様の個人情報は、メール及び電話等によるお問い合わせへの対応・連絡、及び当社からの情報提供のために利用します",
+    "url": "https://www.comture.com/inquiry/inquiry_business.html",
+    "pass": 1
+   }
+  ],
+  "何を": [
+   {
+    "quote": "ソリューション・サービス",
+    "url": "https://www.comture.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fintech・金融ソリューション",
+    "url": "https://www.comture.com/",
+    "pass": 1
+   },
+   {
+    "quote": "インフラ構築・運用サービス・セキュリティ",
+    "url": "https://www.comture.com/",
+    "pass": 1
+   },
+   {
+    "quote": "オープンソースソリューション",
+    "url": "https://www.comture.com/",
+    "pass": 1
+   },
+   {
+    "quote": "フィナンシャルソリューション",
+    "url": "https://www.comture.com/",
+    "pass": 1
+   },
+   {
+    "quote": "セキュリティ・運用サービス",
+    "url": "https://www.comture.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション・サービス一覧",
+    "url": "https://www.comture.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション・サービス",
+    "url": "https://www.comture.com/inquiry/?f=inquiry",
+    "pass": 1
+   },
+   {
+    "quote": "また、当社の各種事業やサービスについてのお問い合わせについては下記1～6に記載の目的で利用させて頂きます",
+    "url": "https://www.comture.com/inquiry/?f=inquiry",
+    "pass": 1
+   },
+   {
+    "quote": "1. 当社取り扱い商品及び関連商品等のご案内",
+    "url": "https://www.comture.com/inquiry/?f=inquiry",
+    "pass": 1
+   },
+   {
+    "quote": "2. 当社取り扱い商品のアフターサービスのご提供およびご案内",
+    "url": "https://www.comture.com/inquiry/?f=inquiry",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション・サービスに関するお問い合わせ",
+    "url": "https://www.comture.com/inquiry/?f=inquiry",
+    "pass": 1
+   },
+   {
+    "quote": "コムチュアのソリューション・サービスについて",
+    "url": "https://www.comture.com/inquiry/?f=inquiry",
+    "pass": 1
+   },
+   {
+    "quote": "オープンソースソリューションに関する",
+    "url": "https://www.comture.com/inquiry/?f=inquiry",
+    "pass": 1
+   },
+   {
+    "quote": "オープンソースソリューション（OpenStandia）について",
+    "url": "https://www.comture.com/inquiry/?f=inquiry",
+    "pass": 1
+   },
+   {
+    "quote": "Fintech・金融ソリューション",
+    "url": "https://www.comture.com/inquiry/?f=inquiry",
+    "pass": 1
+   },
+   {
+    "quote": "インフラ構築・運用サービス・セキュリティ",
+    "url": "https://www.comture.com/inquiry/?f=inquiry",
+    "pass": 1
+   },
+   {
+    "quote": "オープンソースソリューション",
+    "url": "https://www.comture.com/inquiry/?f=inquiry",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション・サービス",
+    "url": "https://www.comture.com/businesspartner/",
+    "pass": 1
+   },
+   {
+    "quote": "、IT（IT戦略策定、グランドデザイン策定等）、自治体（BPRやソリューション等）",
+    "url": "https://www.comture.com/businesspartner/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドサービス",
+    "url": "https://www.comture.com/businesspartner/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション・",
+    "url": "https://www.comture.com/businesspartner/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://www.comture.com/businesspartner/",
+    "pass": 1
+   },
+   {
+    "quote": "Fintech・金融ソリューション",
+    "url": "https://www.comture.com/businesspartner/",
+    "pass": 1
+   },
+   {
+    "quote": "インフラ構築・運用サービス・セキュリティ",
+    "url": "https://www.comture.com/businesspartner/",
+    "pass": 1
+   },
+   {
+    "quote": "オープンソースソリューション",
+    "url": "https://www.comture.com/businesspartner/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション・サービス",
+    "url": "https://www.comture.com/company/?f=company",
+    "pass": 1
+   },
+   {
+    "quote": "「デジタルソリューションパートナー」として、高付加価値経営を実現し、",
+    "url": "https://www.comture.com/company/?f=company",
+    "pass": 1
+   },
+   {
+    "quote": "ＡＩ技術の急速な発展など、事業環境が大きな転換期を迎えるなかでも、時代の潮流をいち早く捉え、新しい技術を取り入れ蓄積することによって、お客様の｢ささやき｣（ご要望）を｢カタチ｣（実現）にし、付加価値の高いサービスを提供し続けてまいります",
+    "url": "https://www.comture.com/company/?f=company",
+    "pass": 1
+   },
+   {
+    "quote": "Fintech・金融ソリューション",
+    "url": "https://www.comture.com/company/?f=company",
+    "pass": 1
+   },
+   {
+    "quote": "インフラ構築・運用サービス・セキュリティ",
+    "url": "https://www.comture.com/company/?f=company",
+    "pass": 1
+   },
+   {
+    "quote": "オープンソースソリューション",
+    "url": "https://www.comture.com/company/?f=company",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション・サービス",
+    "url": "https://www.comture.com/ir/?f=ir",
+    "pass": 1
+   },
+   {
+    "quote": "Fintech・金融ソリューション",
+    "url": "https://www.comture.com/ir/?f=ir",
+    "pass": 1
+   },
+   {
+    "quote": "インフラ構築・運用サービス・セキュリティ",
+    "url": "https://www.comture.com/ir/?f=ir",
+    "pass": 1
+   },
+   {
+    "quote": "オープンソースソリューション",
+    "url": "https://www.comture.com/ir/?f=ir",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション・サービス",
+    "url": "https://www.comture.com/ir/irnews.html",
+    "pass": 1
+   },
+   {
+    "quote": "Fintech・金融ソリューション",
+    "url": "https://www.comture.com/ir/irnews.html",
+    "pass": 1
+   },
+   {
+    "quote": "インフラ構築・運用サービス・セキュリティ",
+    "url": "https://www.comture.com/ir/irnews.html",
+    "pass": 1
+   },
+   {
+    "quote": "オープンソースソリューション",
+    "url": "https://www.comture.com/ir/irnews.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション・サービス",
+    "url": "https://www.comture.com/company/brief.html",
+    "pass": 1
+   },
+   {
+    "quote": "マネージドサービス・教育領域",
+    "url": "https://www.comture.com/company/brief.html",
+    "pass": 1
+   },
+   {
+    "quote": "運用保守業務の可視化・自動化・AI活用による高度化に加え、教育・人材育成サービスを通じて、顧客の自律的な運用体制の構築と継続的な成長を支援する領域",
+    "url": "https://www.comture.com/company/brief.html",
+    "pass": 1
+   },
+   {
+    "quote": "[流通・通信・サービス]",
+    "url": "https://www.comture.com/company/brief.html",
+    "pass": 1
+   },
+   {
+    "quote": "（一社）情報サービス産業協会【JISA】",
+    "url": "https://www.comture.com/company/brief.html",
+    "pass": 1
+   },
+   {
+    "quote": "Fintech・金融ソリューション",
+    "url": "https://www.comture.com/company/brief.html",
+    "pass": 1
+   },
+   {
+    "quote": "インフラ構築・運用サービス・セキュリティ",
+    "url": "https://www.comture.com/company/brief.html",
+    "pass": 1
+   },
+   {
+    "quote": "オープンソースソリューション",
+    "url": "https://www.comture.com/company/brief.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション・サービス",
+    "url": "https://www.comture.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "Fintech・金融ソリューション",
+    "url": "https://www.comture.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "インフラ構築・運用サービス・セキュリティ",
+    "url": "https://www.comture.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "オープンソースソリューション",
+    "url": "https://www.comture.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション・サービス",
+    "url": "https://www.comture.com/company/directorslist.html",
+    "pass": 1
+   },
+   {
+    "quote": "Fintech・金融ソリューション",
+    "url": "https://www.comture.com/company/directorslist.html",
+    "pass": 1
+   },
+   {
+    "quote": "インフラ構築・運用サービス・セキュリティ",
+    "url": "https://www.comture.com/company/directorslist.html",
+    "pass": 1
+   },
+   {
+    "quote": "オープンソースソリューション",
+    "url": "https://www.comture.com/company/directorslist.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション・サービス",
+    "url": "https://www.comture.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "Fintech・金融ソリューション",
+    "url": "https://www.comture.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "インフラ構築・運用サービス・セキュリティ",
+    "url": "https://www.comture.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "オープンソースソリューション",
+    "url": "https://www.comture.com/ir/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "SESパートナー募集",
+    "url": "https://www.comture.com/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー募集",
+    "url": "https://www.comture.com/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー 情報",
+    "url": "https://www.comture.com/",
+    "pass": 1
+   },
+   {
+    "quote": "主要パートナー契約締結会社一覧",
+    "url": "https://www.comture.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SESパートナー募集",
+    "url": "https://www.comture.com/inquiry/?f=inquiry",
+    "pass": 1
+   },
+   {
+    "quote": "SESパートナーに関するお問い合わせ",
+    "url": "https://www.comture.com/inquiry/?f=inquiry",
+    "pass": 1
+   },
+   {
+    "quote": "SESパートナーについて",
+    "url": "https://www.comture.com/inquiry/?f=inquiry",
+    "pass": 1
+   },
+   {
+    "quote": "主要パートナー契約締結会社一覧",
+    "url": "https://www.comture.com/inquiry/?f=inquiry",
+    "pass": 1
+   },
+   {
+    "quote": "SESパートナー募集｜東京・大阪・名古屋のIT企業｜コムチュア株式会社",
+    "url": "https://www.comture.com/businesspartner/",
+    "pass": 1
+   },
+   {
+    "quote": "ITシステム開発のSESパートナー募集",
+    "url": "https://www.comture.com/businesspartner/",
+    "pass": 1
+   },
+   {
+    "quote": "SESパートナー募集",
+    "url": "https://www.comture.com/businesspartner/",
+    "pass": 1
+   },
+   {
+    "quote": "SESパートナー情報",
+    "url": "https://www.comture.com/businesspartner/",
+    "pass": 1
+   },
+   {
+    "quote": "コムチュアグループでは当社事業に協業いただけるパートナー様、個人事業主の方を求めております",
+    "url": "https://www.comture.com/businesspartner/",
+    "pass": 1
+   },
+   {
+    "quote": "※チーム（ベテラン＋若手）でのご紹介及び「技術者育成」につきましてもご相談に応じます",
+    "url": "https://www.comture.com/businesspartner/",
+    "pass": 1
+   },
+   {
+    "quote": "コムチュアの紹介",
+    "url": "https://www.comture.com/businesspartner/",
+    "pass": 1
+   },
+   {
+    "quote": "主要パートナー契約締結会社一覧",
+    "url": "https://www.comture.com/businesspartner/",
+    "pass": 1
+   },
+   {
+    "quote": "SESパートナー募集",
+    "url": "https://www.comture.com/company/?f=company",
+    "pass": 1
+   },
+   {
+    "quote": "「デジタルソリューションパートナー」として、高付加価値経営を実現し、",
+    "url": "https://www.comture.com/company/?f=company",
+    "pass": 1
+   },
+   {
+    "quote": "今後も、お客様から信頼されるパートナーであり続けるために、グループ一丸となってお客様の経営課題の解決と価値創出に貢献してまいります",
+    "url": "https://www.comture.com/company/?f=company",
+    "pass": 1
+   },
+   {
+    "quote": "主要パートナー契約締結会社一覧",
+    "url": "https://www.comture.com/company/?f=company",
+    "pass": 1
+   },
+   {
+    "quote": "SESパートナー募集",
+    "url": "https://www.comture.com/ir/?f=ir",
+    "pass": 1
+   },
+   {
+    "quote": "主要パートナー契約締結会社一覧",
+    "url": "https://www.comture.com/ir/?f=ir",
+    "pass": 1
+   },
+   {
+    "quote": "SESパートナー募集",
+    "url": "https://www.comture.com/ir/irnews.html",
+    "pass": 1
+   },
+   {
+    "quote": "主要パートナー契約締結会社一覧",
+    "url": "https://www.comture.com/ir/irnews.html",
+    "pass": 1
+   },
+   {
+    "quote": "SESパートナー募集",
+    "url": "https://www.comture.com/company/brief.html",
+    "pass": 1
+   },
+   {
+    "quote": "主要パートナー契約締結会社一覧",
+    "url": "https://www.comture.com/company/brief.html",
+    "pass": 1
+   },
+   {
+    "quote": "SESパートナー募集",
+    "url": "https://www.comture.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "主要パートナー契約締結会社一覧",
+    "url": "https://www.comture.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "SESパートナー募集",
+    "url": "https://www.comture.com/company/directorslist.html",
+    "pass": 1
+   },
+   {
+    "quote": "主要パートナー契約締結会社一覧",
+    "url": "https://www.comture.com/company/directorslist.html",
+    "pass": 1
+   },
+   {
+    "quote": "SESパートナー募集",
+    "url": "https://www.comture.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "主要パートナー契約締結会社一覧",
+    "url": "https://www.comture.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "SESパートナー募集",
+    "url": "https://www.comture.com/ir/topmessage.html",
+    "pass": 1
+   },
+   {
+    "quote": "コムチュアグループは、お客様の重要課題の解決に伴走する「デジタルソリューションパートナー」として、デジタル変革を支える幅広い領域でサービスを提供しています",
+    "url": "https://www.comture.com/ir/topmessage.html",
+    "pass": 1
+   },
+   {
+    "quote": "主要パートナー契約締結会社一覧",
+    "url": "https://www.comture.com/ir/topmessage.html",
+    "pass": 1
+   },
+   {
+    "quote": "SESパートナー募集",
+    "url": "https://www.comture.com/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、この変化を新たな成長機会と捉え、従来のアプリケーション開発やシステム運用中心の事業モデルから、AI活用を前提としたデータ活用・業務変革支援を担う「Data & AIビジネス変革パートナー」への進化を加速してまいります",
+    "url": "https://www.comture.com/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "主要パートナー契約締結会社一覧",
+    "url": "https://www.comture.com/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "SESパートナー募集",
+    "url": "https://www.comture.com/ir/irdata/",
+    "pass": 1
+   },
+   {
+    "quote": "主要パートナー契約締結会社一覧",
+    "url": "https://www.comture.com/ir/irdata/",
+    "pass": 1
+   },
+   {
+    "quote": "SESパートナー募集",
+    "url": "https://www.comture.com/ir/irlibrary/",
+    "pass": 1
+   },
+   {
+    "quote": "主要パートナー契約締結会社一覧",
+    "url": "https://www.comture.com/ir/irlibrary/",
+    "pass": 1
+   },
+   {
+    "quote": "SESパートナー募集",
+    "url": "https://www.comture.com/ir/stockinfo/",
+    "pass": 1
+   },
+   {
+    "quote": "主要パートナー契約締結会社一覧",
+    "url": "https://www.comture.com/ir/stockinfo/",
+    "pass": 1
+   },
+   {
+    "quote": "SESパートナー募集",
+    "url": "https://www.comture.com/ir/publicnotice/",
+    "pass": 1
+   },
+   {
+    "quote": "主要パートナー契約締結会社一覧",
+    "url": "https://www.comture.com/ir/publicnotice/",
+    "pass": 1
+   },
+   {
+    "quote": "SESパートナー募集",
+    "url": "https://www.comture.com/ir/ircalendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "主要パートナー契約締結会社一覧",
+    "url": "https://www.comture.com/ir/ircalendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "SESパートナー募集",
+    "url": "https://www.comture.com/ir/irfaq.html",
+    "pass": 1
+   },
+   {
+    "quote": "主要パートナー契約締結会社一覧",
+    "url": "https://www.comture.com/ir/irfaq.html",
+    "pass": 1
+   },
+   {
+    "quote": "SESパートナー募集",
+    "url": "https://www.comture.com/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "SESパートナーに関するお問い合わせ",
+    "url": "https://www.comture.com/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "SESパートナーについて",
+    "url": "https://www.comture.com/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "主要パートナー契約締結会社一覧",
+    "url": "https://www.comture.com/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "SESパートナー募集",
+    "url": "https://www.comture.com/ir/disclosurepolicy.html",
+    "pass": 1
+   },
+   {
+    "quote": "主要パートナー契約締結会社一覧",
+    "url": "https://www.comture.com/ir/disclosurepolicy.html",
+    "pass": 1
+   },
+   {
+    "quote": "SESパートナー募集",
+    "url": "https://www.comture.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "「デジタルソリューションパートナー」として、高付加価値経営を実現し、",
+    "url": "https://www.comture.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "今後も、お客様から信頼されるパートナーであり続けるために、グループ一丸となってお客様の経営課題の解決と価値創出に貢献してまいります",
+    "url": "https://www.comture.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "主要パートナー契約締結会社一覧",
+    "url": "https://www.comture.com/company/",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "金融系（銀行・保険等）のフロントシステム開発・保守",
+    "url": "https://www.comture.com/",
+    "pass": 1
+   },
+   {
+    "quote": "本番稼動後の運用保守・監視・ヘルプデスク",
+    "url": "https://www.comture.com/businesspartner/",
+    "pass": 1
+   },
+   {
+    "quote": "運用保守業務の可視化・自動化・AI活用による高度化に加え、教育・人材育成サービスを通じて、顧客の自律的な運用体制の構築と継続的な成長を支援する領域",
+    "url": "https://www.comture.com/company/brief.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、各種コンピュータシステムの提案、構築、保守及び運用に係る4つのソリューション及びサービスを提供しています",
+    "url": "https://www.comture.com/ir/irfaq.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、自社プロダクトを活用したソリューションの提供から、プロダクトやアプリケーションの保守等のメンテナンスと、トータルソリューションサービスをお客様にご提供する「プロダクト＆ソリューション」で、お客様のシステムライフサイクルの全てにおいて高品質のサービスを提供しています",
+    "url": "https://www.comture.com/ir/irfaq.html",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年11月27日（金） 9:30～19:30",
+    "url": "https://www.comture.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月18日（水）・19日（木）",
+    "url": "https://www.comture.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月5日（木）・6日（金） 各10:00～18:00",
+    "url": "https://www.comture.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 決算説明会",
+    "url": "https://www.comture.com/ir/?f=ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月29日",
+    "url": "https://www.comture.com/ir/?f=ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月19日",
+    "url": "https://www.comture.com/ir/?f=ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月16日",
+    "url": "https://www.comture.com/ir/?f=ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月14日",
+    "url": "https://www.comture.com/ir/?f=ir",
+    "pass": 1
+   },
+   {
+    "quote": "沿革｜コムチュア株式会社",
+    "url": "https://www.comture.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1985年 1月",
+    "url": "https://www.comture.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2002年 1月",
+    "url": "https://www.comture.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2004年 2月",
+    "url": "https://www.comture.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2007年 3月",
+    "url": "https://www.comture.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2011年 2月",
+    "url": "https://www.comture.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2011年 4月",
+    "url": "https://www.comture.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2012年 1月",
+    "url": "https://www.comture.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2012年 11月",
+    "url": "https://www.comture.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2013年 11月",
+    "url": "https://www.comture.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2014年 4月",
+    "url": "https://www.comture.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2015年 1月",
+    "url": "https://www.comture.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2016年 4月",
+    "url": "https://www.comture.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2016年 10月",
+    "url": "https://www.comture.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2016年 12月",
+    "url": "https://www.comture.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年 4月",
+    "url": "https://www.comture.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年 3月",
+    "url": "https://www.comture.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年 4月",
+    "url": "https://www.comture.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年 1月",
+    "url": "https://www.comture.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年 6月",
+    "url": "https://www.comture.com/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 決算説明会",
+    "url": "https://www.comture.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月29日",
+    "url": "https://www.comture.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月19日",
+    "url": "https://www.comture.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月16日",
+    "url": "https://www.comture.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月14日",
+    "url": "https://www.comture.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期は、クラウドやデータ活用、業務デジタル化といった領域での需要拡大を背景に、16期連続の増収・過去最高益を達成しました",
+    "url": "https://www.comture.com/ir/topmessage.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.comture.com/ir/publicnotice/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.comture.com/ir/publicnotice/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.comture.com/ir/publicnotice/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://www.comture.com/ir/publicnotice/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://www.comture.com/ir/publicnotice/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第２四半期決算説明会（予定）",
+    "url": "https://www.comture.com/ir/ircalendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第２四半期決算発表（予定）",
+    "url": "https://www.comture.com/ir/ircalendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第１四半期決算説明会",
+    "url": "https://www.comture.com/ir/ircalendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第１四半期決算発表",
+    "url": "https://www.comture.com/ir/ircalendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算説明会",
+    "url": "https://www.comture.com/ir/ircalendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算発表",
+    "url": "https://www.comture.com/ir/ircalendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第３四半期決算説明会",
+    "url": "https://www.comture.com/ir/ircalendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第３四半期決算発表",
+    "url": "https://www.comture.com/ir/ircalendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第２四半期決算説明会",
+    "url": "https://www.comture.com/ir/ircalendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第２四半期決算発表",
+    "url": "https://www.comture.com/ir/ircalendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第１四半期決算説明会",
+    "url": "https://www.comture.com/ir/ircalendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第１四半期決算発表",
+    "url": "https://www.comture.com/ir/ircalendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 決算説明会",
+    "url": "https://www.comture.com/ir/ircalendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 決算発表",
+    "url": "https://www.comture.com/ir/ircalendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第３四半期決算説明会",
+    "url": "https://www.comture.com/ir/ircalendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第３四半期決算発表",
+    "url": "https://www.comture.com/ir/ircalendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第２四半期決算説明会",
+    "url": "https://www.comture.com/ir/ircalendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第２四半期決算発表",
+    "url": "https://www.comture.com/ir/ircalendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第１四半期決算説明会",
+    "url": "https://www.comture.com/ir/ircalendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第１四半期決算発表",
+    "url": "https://www.comture.com/ir/ircalendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 決算説明会",
+    "url": "https://www.comture.com/ir/ircalendar.html",
+    "pass": 1
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "当社グループはこれらの変化を「さらなる成長の機会」と捉え、提供サービス・収益構造・お客様との関係性を進化させながら、事業活動を拡大してまいります",
+    "url": "https://www.comture.com/ir/topmessage.html",
+    "pass": 1
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "持続的成長に向けた成長投資と高収益体質の両立",
+    "url": "https://www.comture.com/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "強みは何ですか？",
+    "url": "https://www.comture.com/ir/irfaq.html",
+    "pass": 1
+   },
+   {
+    "quote": "これらサービスを提供することで築いたお客様との信頼関係、これがコムチュアの強みです",
+    "url": "https://www.comture.com/ir/irfaq.html",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "コムチュア のDX｜ コムチュア の技術とは｜ コムチュア 株式会社 — コムチュア のDX｜ コムチュア の技術とは｜ コムチュア 株式会社 COMTURE https://www.comture.com > recruitment > technology",
+    "url": "https://www.comture.com/recruitment/technology/dx/",
+    "pass": 3
+   },
+   {
+    "quote": "事業紹介｜ コムチュア 株式会社 — 事業紹介｜ コムチュア 株式会社 コムチュア https://www.comture.com > aboutus > solution",
+    "url": "https://www.comture.com/recruitment/aboutus/solution/",
+    "pass": 3
+   },
+   {
+    "quote": "会社説明 - コムチュア — 会社説明 - コムチュア COMTURE PDF https://www.comture.com > briefingmaterial > pdf",
+    "url": "https://www.comture.com/ir/irlibrary/briefingmaterial/pdf/20210129kikan.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "数字でみる コムチュア ｜ コムチュア 株式会社 — 数字でみる コムチュア ｜ コムチュア 株式会社 コムチュア https://www.comture.com > recruitment > aboutus > data",
+    "url": "https://www.comture.com/recruitment/aboutus/data/",
+    "pass": 3
+   },
+   {
+    "quote": "中期経営計画 （2026年3月期～2028年3月期） - コムチュア — 中期経営計画 （2026年3月期～2028年3月期） - コムチュア COMTURE PDF https://www.comture.com > management > pdf",
+    "url": "https://www.comture.com/ir/management/pdf/202505.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "IR 説明 会 資料 （2026年）｜ コムチュア 株式会社 — IR 説明 会 資料 （2026年）｜ コムチュア 株式会社 コムチュア https://www.comture.com > irlibrary > briefingmaterial",
+    "url": "https://www.comture.com/ir/irlibrary/briefingmaterial/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報｜ コムチュア 株式会社 — IR情報｜ コムチュア 株式会社 コムチュア https://www.comture.com > ...",
+    "url": "https://www.comture.com/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリ｜ コムチュア 株式会社 — IRライブラリ｜ コムチュア 株式会社 コムチュア https://www.comture.com > irlibrary",
+    "url": "https://www.comture.com/ir/irlibrary/",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信｜ コムチュア 株式会社 - IR情報 — 決算 短信｜ コムチュア 株式会社 - IR情報 COMTURE https://www.comture.com > irlibrary > accounts",
+    "url": "https://www.comture.com/ir/irlibrary/accounts.html",
+    "pass": 3
+   },
+   {
+    "quote": "IRカレンダー｜ コムチュア 株式会社 — IRカレンダー｜ コムチュア 株式会社 コムチュア https://www.comture.com > ircalendar",
+    "url": "https://www.comture.com/ir/ircalendar.html",
+    "pass": 3
+   },
+   {
+    "quote": "組織図｜ コムチュア 株式会社 — 組織図｜ コムチュア 株式会社 コムチュア https://www.comture.com > company > organization",
+    "url": "https://www.comture.com/company/organization.html",
+    "pass": 3
+   },
+   {
+    "quote": "グループ会社一覧｜ コムチュア 株式会社 — グループ会社一覧｜ コムチュア 株式会社 コムチュア https://www.comture.com > company > group",
+    "url": "https://www.comture.com/company/group.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜ コムチュア 株式会社 — 会社概要｜ コムチュア 株式会社 コムチュア https://www.comture.com > company > brief",
+    "url": "https://www.comture.com/company/brief.html",
+    "pass": 3
+   },
+   {
+    "quote": "10月1日付け組織変更に伴う組織図更新のお知らせ - コムチュア — 10月1日付け組織変更に伴う組織図更新のお知らせ - コムチュア COMTURE https://www.comture.com > information > details264",
+    "url": "https://www.comture.com/information/details264.html",
+    "pass": 3
+   },
+   {
+    "quote": "【掲載記事】当社 社長 の インタビュー 記事が「新 社長 」「経営 ... — 【掲載記事】当社 社長 の インタビュー 記事が「新 社長 」「経営 ... コムチュア https://www.comture.com > information > details892",
+    "url": "https://www.comture.com/information/details892.html",
+    "pass": 3
+   },
+   {
+    "quote": "創業者 インタビュー ｜トップメッセージ｜ コムチュア 株式会社 — 創業者 インタビュー ｜トップメッセージ｜ コムチュア 株式会社 COMTURE https://www.comture.com > message > chairman",
+    "url": "https://www.comture.com/recruitment/message/chairman/",
+    "pass": 3
+   },
+   {
+    "quote": "トップメッセージ｜ コムチュア 株式会社 — トップメッセージ｜ コムチュア 株式会社 コムチュア株式会社 https://www.comture.com > recruitment > message",
+    "url": "https://www.comture.com/recruitment/message/",
+    "pass": 3
+   },
+   {
+    "quote": "経営ひと言／ コムチュア ・亀井貴裕 社長 「営業力底上げ」 — 経営ひと言／ コムチュア ・亀井貴裕 社長 「営業力底上げ」 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/789514",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.comture.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.comture.com/inquiry/?f=inquiry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.comture.com/businesspartner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.comture.com/company/?f=company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.comture.com/ir/?f=ir",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.comture.com/ir/irnews.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.comture.com/company/brief.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.comture.com/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.comture.com/company/directorslist.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.comture.com/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.comture.com/ir/topmessage.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.comture.com/ir/management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.comture.com/ir/irdata/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.comture.com/ir/irlibrary/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.comture.com/ir/stockinfo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.comture.com/ir/publicnotice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.comture.com/ir/ircalendar.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.comture.com/ir/irfaq.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.comture.com/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.comture.com/ir/disclosurepolicy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.comture.com/inquiry/?f=inquiry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.comture.com/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.comture.com/businesspartner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.comture.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.comture.com/inquiry/inquiry_business.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.comture.com/company/pdf/comturemap_osaki.pdf?2019",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.comture.com/ir/publicnotice/pdf/CNW_2026publicnotice.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.comture.com/ir/publicnotice/pdf/CNW_2025publicnotice.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.comture.com/ir/publicnotice/pdf/CNW_2024publicnotice.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.comture.com/ir/publicnotice/pdf/CNW_2023publicnotice.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.comture.com/ir/publicnotice/pdf/CNW_2022publicnotice.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.comture.com/ir/publicnotice/pdf/ELI_2026publicnotice.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.comture.com/ir/publicnotice/pdf/ELI_2025publicnotice.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.comture.com/img/other/businesspartner_title01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.comture.com/img/businesspartner/inquiry_businesspartner.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": []
+ },
+ "search_log": [
+  {
+   "query": "コムチュア",
+   "results": [
+    "https://www.comture.com/",
+    "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%A0%E3%83%81%E3%83%A5%E3%82%A2",
+    "https://www.nikkei.com/nkd/company/?scode=3844",
+    "https://job.mynavi.jp/27/pc/search/corp212087/outline.html",
+    "https://minkabu.jp/stock/3844",
+    "https://ja.wikipedia.org/wiki/コムチュア",
+    "https://www.comture.com/company/brief.html",
+    "https://www.comture-net.com/",
+    "https://prtimes.jp/main/html/rd/p/000000040.000145778.html",
+    "https://consovation.com/ビジネスモデルで読む急成長企業-コムチュアの実/"
+   ]
+  },
+  {
+   "query": "コムチュア ビジネスモデル",
+   "results": [
+    "https://www.comture.com/recruitment/technology/dx/",
+    "https://www.comture.com/recruitment/aboutus/solution/",
+    "https://www.comture.com/ir/irlibrary/briefingmaterial/pdf/20210129kikan.pdf",
+    "https://www.comture.com/recruitment/aboutus/data/",
+    "https://www.comture.com/ir/management/pdf/202505.pdf",
+    "https://syukatsu-kaigi.jp/companies/112949/company_studies/6711",
+    "https://www.comture.com/",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fqxz&q_no=9",
+    "https://www.comture.com/recruitment/technology/bigdata/",
+    "https://consovation.com/ビジネスモデルで読む急成長企業-コムチュアの実/"
+   ]
+  },
+  {
+   "query": "コムチュア 決算説明資料",
+   "results": [
+    "https://www.comture.com/ir/irlibrary/briefingmaterial/",
+    "https://www.comture.com/ir/",
+    "https://www.comture.com/ir/irlibrary/",
+    "https://www.comture.com/ir/irlibrary/accounts.html",
+    "https://www.comture.com/ir/ircalendar.html",
+    "https://irbank.net/3844/ir",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20250515554727/",
+    "https://edinetdb.jp/company/E05678/presentations/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20250808536933/",
+    "https://treelazy.com/stock-jp/3844/conference"
+   ]
+  },
+  {
+   "query": "コムチュア 事業系統図",
+   "results": [
+    "https://www.comture.com/company/organization.html",
+    "https://www.comture.com/ir/",
+    "https://www.comture.com/company/group.html",
+    "https://www.comture.com/company/brief.html",
+    "https://www.comture.com/information/details264.html",
+    "https://kitaishihon.com/company/3844/business",
+    "https://www.comture.com/ir/irlibrary/briefingmaterial/",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250319/20250318596107.pdf",
+    "https://www.comture.com/seminar/kikansystem_2401.html",
+    "https://ja.wikipedia.org/wiki/コムチュア"
+   ]
+  },
+  {
+   "query": "コムチュア 社長 インタビュー",
+   "results": [
+    "https://www.comture.com/information/details892.html",
+    "https://www.comture.com/recruitment/message/chairman/",
+    "https://www.comture.com/information/details800.html",
+    "https://www.comture.com/recruitment/message/",
+    "https://www.nikkan.co.jp/articles/view/789514",
+    "https://www.comture.com/information/details742.html",
+    "https://www.instagram.com/p/DUDAAyhCaLv/",
+    "https://executive-manager.jp/comture/interview01.html",
+    "https://www.odyssey-com.co.jp/topics/report/250318.html",
+    "https://www.comture-ds.com/recruitment/message/president/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上構成": "記載なし（3回確認済み：公式25頁／PDF・画像10件／外部0頁・検索5回）"
+ }
+}

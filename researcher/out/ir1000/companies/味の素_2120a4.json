@@ -1,0 +1,2581 @@
+{
+ "name": "味の素",
+ "aliases": [],
+ "context": "証券コード2802／食料品／プライム（内国株式）／2026.03期 売上高1,583,719百万円 営業利益率12.1%",
+ "researched_at": "2026-11-02T19:59:00.104926+00:00",
+ "official_url": "https://www.ajinomoto.co.jp/",
+ "identified_by": "search:yahoo_jp:味の素",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業年月日",
+    "value": "1909年5月20日",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/data/",
+    "pass": 1
+   },
+   {
+    "label": "設立年月日",
+    "value": "1925年12月17日",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/data/",
+    "pass": 1
+   },
+   {
+    "label": "(3)設立時期",
+    "value": "2017年3月21日",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news/news-20261016/main/0/link/20261016_J.pdf",
+    "pass": 2
+   },
+   {
+    "label": "設立",
+    "value": "1925年12月17日(創業は1909年5月20日)",
+    "url": "https://bizi-mo.com/c/ajinomoto",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "単体3,705名　連結34,787名 （2026年3月31日現在）",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/data/",
+    "pass": 1
+   },
+   {
+    "label": "(5)従業員数",
+    "value": "51名(2026年3月31日現在)",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news/news-20261016/main/0/link/20261016_J.pdf",
+    "pass": 2
+   },
+   {
+    "label": "従業員数",
+    "value": "約3.48万人(連結・2026年3月末。単体は3,705人)",
+    "url": "https://bizi-mo.com/c/ajinomoto",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "(6)事業内容",
+    "value": "ヒトiPS細胞由来心筋細胞シートの開発・事業化",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news/news-20261016/main/0/link/20261016_J.pdf",
+    "pass": 2
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "約1.58兆円(2026年3月期・IFRS)",
+    "url": "https://bizi-mo.com/c/ajinomoto",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "商品情報・ブランドサイト",
+    "url": "https://www.ajinomoto.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "」を製品化し、味の素グループの歴史は始まりました",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "グローバルで事業を展開、製品も食品から電子材料まで多岐にわたり、世界各地で人・社会・地球のWell-beingに貢献しています",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "を活かして様々な製品・サービスを展開し、",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "にもとづく研究開発力を強みに、各国・各地域の生活者のニーズに応え、様々な製品を提供しています",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "グローバルな製品開発・生産・販売体制、マーケティング力、ブランド力を強みに、生活者の嗜好に合うおいしさと栄養改善に貢献する製品・サービスを提供しています",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "を軸とした技術優位性・競争優位性・資本効率の高い、電子素材事業（半導体向け絶縁材料等）や医薬品開発製造受託サービス（CDMO）などを提供し、グローバルでも独自のポジションを築いています",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "商品詳細ページ",
+    "url": "https://www.ajinomoto.co.jp/dashiyanomisoshiru/",
+    "pass": 1
+   },
+   {
+    "quote": "本パッケージを使用した製品は、味の素社の従来のチューブ容器製品と比較して、プラスチック使用量の約50％削減を実現しました",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/plazero/",
+    "pass": 1
+   },
+   {
+    "quote": "パッケージは食品を守り、製品の品質と安全性を保つために重要な役割を果たしています",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/plazero/",
+    "pass": 1
+   },
+   {
+    "quote": "そしてプラスチックは「安価」、「軽い」、「形を変えやすい」、「製品の保存性を高め、品質や安全性を守るための機能を加えやすい」など、いくつもの特長をあわせ持つ、理想的なパッケージ資材です",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/plazero/",
+    "pass": 1
+   },
+   {
+    "quote": "味の素グループでは、こうしたプラスチックの特長をパッケージに生かし、製品の品質と安全性を確保するために必要最小限のプラスチックを使用しています",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/plazero/",
+    "pass": 1
+   },
+   {
+    "quote": "また、2019年3月に欧州議会は、食器等のワンウェイプラスチック製品を2021年までに禁止する規制案を可決しました",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/plazero/",
+    "pass": 1
+   },
+   {
+    "quote": "「使い捨てプラスチック製品を使う機会を減らす」「リサイクル可能な製品を選ぶ」「再利用可能なアイテムを使用する」といったことが重要です",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/plazero/",
+    "pass": 1
+   },
+   {
+    "quote": "また、包材の改良だけで品質を保つのが難しい製品は、中身の配合も含めて改良を検討することで品質を保ち、リサイクルしやすい包材への転換を目指しています",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/plazero/",
+    "pass": 1
+   },
+   {
+    "quote": "包材メーカーなどと協力して製品の品質や安全性を守ることができる「リサイクルしやすい」プラスチック包材の開発を進めています",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/plazero/",
+    "pass": 1
+   },
+   {
+    "quote": "またプラスチック以外の包材の使用や品質が保持されやすい製品の配合も検討しています",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/plazero/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは製品ライフサイクル全体での環境への影響を考慮して、包材の置き換えを検討していきます",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/plazero/",
+    "pass": 1
+   },
+   {
+    "quote": "どちらを選択するかは、商品の特徴や素材などの性質によって決められています",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/plazero/",
+    "pass": 1
+   },
+   {
+    "quote": "プラスチックを使うモノマテリアルの包材を開発する際は、まずは包材が持つ商品の保護機能を損なわないよう、包材の強度や、酸素・水蒸気などの通しにくさ（ガスバリア性）を十分確保できる素材を探していきます",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/plazero/",
+    "pass": 1
+   },
+   {
+    "quote": "しかし、味の素グループにとってプラスチックは、製品の安全性や品質保持、ひいてはフードロス削減に必要な素材でもあります",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/plazero/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ライフサイクルでの廃棄物削減（サスティナビリティレポート2023より）",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/plazero/",
+    "pass": 1
+   },
+   {
+    "quote": "IRメール配信サービス",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "ＩＲメール配信サービス",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "この無形資産を強化し、一層変化が激しくなる事業環境をリードできるよう、お客様・市場のニーズを先読みし、要望されるであろう改善も予測し、トータルソリューションを提供する「高速開発システム」を型化・展開していきます",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/top-message/",
+    "pass": 1
+   },
+   {
+    "quote": "現在では世界32の国・地域に工場を展開し、世界中のお客様へ安全・安心な製品をお届けしています",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/numbers/",
+    "pass": 1
+   },
+   {
+    "quote": "」を製品化し、味の素グループの歴史は始まりました",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/our-origin/",
+    "pass": 1
+   },
+   {
+    "quote": "うま味発見から商品化への軌跡ー池田菊苗物語",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/our-origin/",
+    "pass": 1
+   },
+   {
+    "quote": "味の素アグロソリューションズ バイオロジクス社",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/data/global.html",
+    "pass": 1
+   },
+   {
+    "quote": "味の素（上海）化学製品社",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/data/global.html",
+    "pass": 1
+   },
+   {
+    "quote": "味の素バイオファーマサービスインディア社",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/data/global.html",
+    "pass": 1
+   },
+   {
+    "quote": "味の素構内サービス（株）",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/data/relation.html",
+    "pass": 1
+   },
+   {
+    "quote": "味の素フィナンシャル・ソリューションズ（株）",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/data/relation.html",
+    "pass": 1
+   },
+   {
+    "quote": "IRメール配信サービス",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/library/annual.html",
+    "pass": 1
+   },
+   {
+    "quote": "だし屋のみそ汁 かつおだし｜商品｜味の素株式会社",
+    "url": "https://www.ajinomoto.co.jp/products/detail/?ProductName=dashiyanomisoshiru_2",
+    "pass": 1
+   },
+   {
+    "quote": "商品を購入する",
+    "url": "https://www.ajinomoto.co.jp/products/detail/?ProductName=dashiyanomisoshiru_2",
+    "pass": 1
+   },
+   {
+    "quote": "一部取り扱いのない商品や品切れの場合もございます",
+    "url": "https://www.ajinomoto.co.jp/products/detail/?ProductName=dashiyanomisoshiru_2",
+    "pass": 1
+   },
+   {
+    "quote": "商品の改訂等により、商品パッケージの記載内容が異なる場合があります",
+    "url": "https://www.ajinomoto.co.jp/products/detail/?ProductName=dashiyanomisoshiru_2",
+    "pass": 1
+   },
+   {
+    "quote": "ご購入、お召し上がりの際は、必ずお持ちの商品の表示をご確認ください",
+    "url": "https://www.ajinomoto.co.jp/products/detail/?ProductName=dashiyanomisoshiru_2",
+    "pass": 1
+   },
+   {
+    "quote": "原料の産地については、生鮮原料（肉、野菜など）、商品名に原材料名が入っているもの、お客様からのお問い合わせの多い原料を中心に、産地（国名）を順不同でお知らせしております",
+    "url": "https://www.ajinomoto.co.jp/products/detail/?ProductName=dashiyanomisoshiru_2",
+    "pass": 1
+   },
+   {
+    "quote": "原料産地の範囲は上記国名のとおり特定しておりますが、原料の収穫できる季節の違いや、天候、作柄などの影響により個々の商品で使用した産地が上記国名のいずれかに片寄ることがあります",
+    "url": "https://www.ajinomoto.co.jp/products/detail/?ProductName=dashiyanomisoshiru_2",
+    "pass": 1
+   },
+   {
+    "quote": "だし屋のみそ汁 かつおとこんぶのあわせだし｜商品｜味の素株式会社",
+    "url": "https://www.ajinomoto.co.jp/products/detail/?ProductName=dashiyanomisoshiru_3",
+    "pass": 1
+   },
+   {
+    "quote": "商品を購入する",
+    "url": "https://www.ajinomoto.co.jp/products/detail/?ProductName=dashiyanomisoshiru_3",
+    "pass": 1
+   },
+   {
+    "quote": "一部取り扱いのない商品や品切れの場合もございます",
+    "url": "https://www.ajinomoto.co.jp/products/detail/?ProductName=dashiyanomisoshiru_3",
+    "pass": 1
+   },
+   {
+    "quote": "商品の改訂等により、商品パッケージの記載内容が異なる場合があります",
+    "url": "https://www.ajinomoto.co.jp/products/detail/?ProductName=dashiyanomisoshiru_3",
+    "pass": 1
+   },
+   {
+    "quote": "ご購入、お召し上がりの際は、必ずお持ちの商品の表示をご確認ください",
+    "url": "https://www.ajinomoto.co.jp/products/detail/?ProductName=dashiyanomisoshiru_3",
+    "pass": 1
+   },
+   {
+    "quote": "原料の産地については、生鮮原料（肉、野菜など）、商品名に原材料名が入っているもの、お客様からのお問い合わせの多い原料を中心に、産地（国名）を順不同でお知らせしております",
+    "url": "https://www.ajinomoto.co.jp/products/detail/?ProductName=dashiyanomisoshiru_3",
+    "pass": 1
+   },
+   {
+    "quote": "原料産地の範囲は上記国名のとおり特定しておりますが、原料の収穫できる季節の違いや、天候、作柄などの影響により個々の商品で使用した産地が上記国名のいずれかに片寄ることがあります",
+    "url": "https://www.ajinomoto.co.jp/products/detail/?ProductName=dashiyanomisoshiru_3",
+    "pass": 1
+   },
+   {
+    "quote": "だし屋のみそ汁 いりこだし｜商品｜味の素株式会社",
+    "url": "https://www.ajinomoto.co.jp/products/detail/?ProductName=dashiyanomisoshiru_4",
+    "pass": 1
+   },
+   {
+    "quote": "商品を購入する",
+    "url": "https://www.ajinomoto.co.jp/products/detail/?ProductName=dashiyanomisoshiru_4",
+    "pass": 1
+   },
+   {
+    "quote": "一部取り扱いのない商品や品切れの場合もございます",
+    "url": "https://www.ajinomoto.co.jp/products/detail/?ProductName=dashiyanomisoshiru_4",
+    "pass": 1
+   },
+   {
+    "quote": "商品の改訂等により、商品パッケージの記載内容が異なる場合があります",
+    "url": "https://www.ajinomoto.co.jp/products/detail/?ProductName=dashiyanomisoshiru_4",
+    "pass": 1
+   },
+   {
+    "quote": "ご購入、お召し上がりの際は、必ずお持ちの商品の表示をご確認ください",
+    "url": "https://www.ajinomoto.co.jp/products/detail/?ProductName=dashiyanomisoshiru_4",
+    "pass": 1
+   },
+   {
+    "quote": "原料の産地については、生鮮原料（肉、野菜など）、商品名に原材料名が入っているもの、お客様からのお問い合わせの多い原料を中心に、産地（国名）を順不同でお知らせしております",
+    "url": "https://www.ajinomoto.co.jp/products/detail/?ProductName=dashiyanomisoshiru_4",
+    "pass": 1
+   },
+   {
+    "quote": "原料産地の範囲は上記国名のとおり特定しておりますが、原料の収穫できる季節の違いや、天候、作柄などの影響により個々の商品で使用した産地が上記国名のいずれかに片寄ることがあります",
+    "url": "https://www.ajinomoto.co.jp/products/detail/?ProductName=dashiyanomisoshiru_4",
+    "pass": 1
+   },
+   {
+    "quote": "だし屋のみそ汁 赤だし｜商品｜味の素株式会社",
+    "url": "https://www.ajinomoto.co.jp/products/detail/?ProductName=dashiyanomisoshiru_5",
+    "pass": 1
+   },
+   {
+    "quote": "商品を購入する",
+    "url": "https://www.ajinomoto.co.jp/products/detail/?ProductName=dashiyanomisoshiru_5",
+    "pass": 1
+   },
+   {
+    "quote": "一部取り扱いのない商品や品切れの場合もございます",
+    "url": "https://www.ajinomoto.co.jp/products/detail/?ProductName=dashiyanomisoshiru_5",
+    "pass": 1
+   },
+   {
+    "quote": "商品の改訂等により、商品パッケージの記載内容が異なる場合があります",
+    "url": "https://www.ajinomoto.co.jp/products/detail/?ProductName=dashiyanomisoshiru_5",
+    "pass": 1
+   },
+   {
+    "quote": "ご購入、お召し上がりの際は、必ずお持ちの商品の表示をご確認ください",
+    "url": "https://www.ajinomoto.co.jp/products/detail/?ProductName=dashiyanomisoshiru_5",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "ASV指標の達成には、技術・人財・顧客・組織という",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "特に、技術資産と顧客資産をつなぎ、イノベーションを生み出す",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "挑戦的なASV指標の達成には、技術・人財・顧客・組織という",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/asv/",
+    "pass": 1
+   },
+   {
+    "quote": "特に、技術資産と顧客資産をつなぎ、イノベーションを生み出す",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/asv/",
+    "pass": 1
+   },
+   {
+    "quote": "・技術資産と顧客資産をつないでイノベーションを生み出す人財",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/asv/",
+    "pass": 1
+   },
+   {
+    "quote": "グローバルの生活者と直接対話、顧客との共創へ",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/asv/",
+    "pass": 1
+   },
+   {
+    "quote": "・多様でグローバルな顧客とそのロイヤルティ",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/asv/",
+    "pass": 1
+   },
+   {
+    "quote": "味の素グループの強みは、創業以来長年の取り組みを通じて培ってきた、「人財」「技術」「顧客」「組織」といった無形資産にあります",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/top-message/",
+    "pass": 1
+   },
+   {
+    "quote": "この無形資産を強化し、一層変化が激しくなる事業環境をリードできるよう、お客様・市場のニーズを先読みし、要望されるであろう改善も予測し、トータルソリューションを提供する「高速開発システム」を型化・展開していきます",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/top-message/",
+    "pass": 1
+   },
+   {
+    "quote": "「高速開発システム」を通じた継続的な改善により、技術、品質、生産性の強化と同時にお客様との強固な信頼関係を構築し「ヘルスケア」「フード＆ウェルネス」「ICT」「グリーン」の成長４領域を中心に継続的成長を目指します",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/top-message/",
+    "pass": 1
+   },
+   {
+    "quote": "現在では世界32の国・地域に工場を展開し、世界中のお客様へ安全・安心な製品をお届けしています",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/numbers/",
+    "pass": 1
+   },
+   {
+    "quote": "原料の産地については、生鮮原料（肉、野菜など）、商品名に原材料名が入っているもの、お客様からのお問い合わせの多い原料を中心に、産地（国名）を順不同でお知らせしております",
+    "url": "https://www.ajinomoto.co.jp/products/detail/?ProductName=dashiyanomisoshiru_2",
+    "pass": 1
+   },
+   {
+    "quote": "原料の産地については、生鮮原料（肉、野菜など）、商品名に原材料名が入っているもの、お客様からのお問い合わせの多い原料を中心に、産地（国名）を順不同でお知らせしております",
+    "url": "https://www.ajinomoto.co.jp/products/detail/?ProductName=dashiyanomisoshiru_3",
+    "pass": 1
+   },
+   {
+    "quote": "原料の産地については、生鮮原料（肉、野菜など）、商品名に原材料名が入っているもの、お客様からのお問い合わせの多い原料を中心に、産地（国名）を順不同でお知らせしております",
+    "url": "https://www.ajinomoto.co.jp/products/detail/?ProductName=dashiyanomisoshiru_4",
+    "pass": 1
+   },
+   {
+    "quote": "原料の産地については、生鮮原料（肉、野菜など）、商品名に原材料名が入っているもの、お客様からのお問い合わせの多い原料を中心に、産地（国名）を順不同でお知らせしております",
+    "url": "https://www.ajinomoto.co.jp/products/detail/?ProductName=dashiyanomisoshiru_5",
+    "pass": 1
+   },
+   {
+    "quote": "原料の産地については、生鮮原料（肉、野菜など）、商品名に原材料名が入っているもの、お客様からのお問い合わせの多い原料を中心に、産地（国名）を順不同でお知らせしております",
+    "url": "https://www.ajinomoto.co.jp/products/detail/?ProductName=dashiyanomisoshiru_1",
+    "pass": 1
+   },
+   {
+    "quote": "～お客様との新たなコミュニケーション手法への挑戦～",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "味の素㈱、多様化する生活者ニーズに基づく顧客課題の解決に向けてスタートアップ企業との協業開始",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "当サイトでは、お客様により良いサービスを提供するため、クッキーを利用しています",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/ataglance.html",
+    "pass": 1
+   },
+   {
+    "quote": "・中大容量品へ顧客嗜好をシフトする推進策",
+    "url": "https://www.ajinomoto.co.jp/company/jp/sustainability/pdf/2023/SR2023jp_environment.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ひと目でわかるようにしてほしい」というお客様のニーズ",
+    "url": "https://www.ajinomoto.co.jp/company/jp/sustainability/pdf/2023/SR2023jp_environment.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様のご使用時やバ",
+    "url": "https://www.ajinomoto.co.jp/company/jp/sustainability/pdf/2023/SR2023jp_environment.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "入れからお客様納品までで発生するフードロスを、2018",
+    "url": "https://www.ajinomoto.co.jp/company/jp/sustainability/pdf/2023/SR2023jp_environment.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "原料受け入れからお客様納品までのフード",
+    "url": "https://www.ajinomoto.co.jp/company/jp/sustainability/pdf/2023/SR2023jp_environment.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "味の素グループは、原料調達からお客様の消費までのサ",
+    "url": "https://www.ajinomoto.co.jp/company/jp/sustainability/pdf/2023/SR2023jp_environment.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様における廃棄については、独自技術",
+    "url": "https://www.ajinomoto.co.jp/company/jp/sustainability/pdf/2023/SR2023jp_environment.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ェクト「TRY&A-CROSS」を通じて議論を重ねながら創り上げたオフィスや、お客様・パートナー・投資",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news/news-20261029/main/0/link/202610_IRTopics_headquarters_J.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「ReTabell」 を用いて、利用者の体調",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news/news-20261013/main/0/link/20261013_J.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "そのため、利用者は、自身や家",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news/news-20261013/main/0/link/20261013_J.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年7月の提供開始以降、 利用者から好評を得ており、来店頻度の向上、会員化・ファン化の",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news/news-20261013/main/0/link/20261013_J.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "促進、顧客理解の深化という3つの価値創出につながっています",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news/news-20261013/main/0/link/20261013_J.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、世界各地でブランドロイヤルティを築いてきたため、新たな市場や業態に参入する際にも消費者や取引先から受け入れられやすい環境が整っているのです",
+    "url": "https://consovation.com/%E5%91%B3%E3%81%AE%E7%B4%A0%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との関係",
+    "url": "https://consovation.com/%E5%91%B3%E3%81%AE%E7%B4%A0%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "味の素はテレビCMやSNS、実店舗での試食会などを通じて顧客接点を増やし、ファンコミュニティを形成してきました",
+    "url": "https://consovation.com/%E5%91%B3%E3%81%AE%E7%B4%A0%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客セグメント",
+    "url": "https://consovation.com/%E5%91%B3%E3%81%AE%E7%B4%A0%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "一般消費者だけでなく、外食産業や食品加工メーカーなどのB2B市場、さらには医薬・サプリメントメーカー、電子機器メーカーなど、多様な顧客層を対象としています",
+    "url": "https://consovation.com/%E5%91%B3%E3%81%AE%E7%B4%A0%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "食品業界で培った研究ノウハウをほかの先端領域にも転用することで、新たな顧客ニーズを満たし、企業規模のさらなる拡大を実現しています",
+    "url": "https://consovation.com/%E5%91%B3%E3%81%AE%E7%B4%A0%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルを細分化すると、食品・医薬・電子材料など多岐にわたるセグメントを、研究開発から製造、販売チャネル、顧客リレーションまですべて統合的にマネジメントし、自らの強みを最大化している点が際立ちます",
+    "url": "https://consovation.com/%E5%91%B3%E3%81%AE%E7%B4%A0%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "主要取引先である大手コンビニエン...",
+    "url": "https://consovation.com/%E5%91%B3%E3%81%AE%E7%B4%A0%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "家庭の食卓が最終顧客で、調味料や冷凍食品はスーパーなどの小売を通じて世界の消費者に届きます",
+    "url": "https://bizi-mo.com/c/ajinomoto",
+    "pass": 3
+   },
+   {
+    "quote": "ABF®はロジックIC向けパッケージ基板の層間絶縁材料で、お客様ごとにカスタマイズし協働開発",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "高速開発システムにより顧客ニーズを先読みし、研究・技術・生産・営業が一体となって価値提供",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の製造・評価プロセスを社内再現する体制が基盤",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "ありたい姿「見えない“素”材で、暮らしの快適をつくる」を実現するため、コアコンピタンスとして「先を見る力」「お客様にトコトン向き合う力」「技術力」を磨く",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "高速開発システムを支える人財として、研究・技術開発は入社初期から個別テーマを担い、顧客訪問を重視",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "開発・量産・お客様サポートまでを一体で高速化し、お客様との価値共創スピードを競争優位へ転換",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "高速開発システムは、お客様のニーズ先読み、複数のトータルソリューション準備、改良要求への迅速対応、採用獲得までの継続的提案を特徴とする",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "技術・人財・顧客・組織の無形資産を有機的に結びつけ、競争優位と持続的成長を実現",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "技術資産（アミノサイエンス®、戦略的知財）、顧客資産（グローバルな顧客ロイヤルティ、B2CとB2Bの両輪）、人財資産（働きがいNo.1）、組織資産（ASV経営、味の素グループWay）を融合",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、高速開発システムの展開やステークホルダーとの共創、サステナビリティと事業一体の取り組みによる売上高向上、安定調達による原料コスト削減、ROICを重視した経営の推進、ポートフォリオの進化、顧客ロイヤルティ獲得、リスク低減、サステナビリティ・ファイナンス活用による借入コスト低減など",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "ABF事業は25年以上にわたり顧客と協働し「高速開発システム」を構築",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "Forge社は生産性向上や対応領域拡大、CRO/CMOとの協業で顧客拡大",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "既存事業のオーガニック成長加速（ローカルニーズに応じた新製品開発/カテゴリー拡充、既存顧客との関係強化）と、アミノサイエンスを軸とした食品とバイオ＆ファインケミカルのシナジー創出等による新事業開拓・拡大を推進",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "中長期: 家庭用全体で顧客起点のマネジメント強化、新製品ラインナップ拡充",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "Forge社は独自技術への引き合い強く、売上・顧客数・IND承認プロジェクト数が大幅増加",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "FY25売上はFY23比約4倍、顧客数約1.5倍、IND数ほぼ10倍",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "志への共感94、顧客志向91、ASV自分ごと化77、チャレンジの奨励85、インクルージョンによる共創80、生産性向上（承認プロセスの課題）28、イノベーション創出87、社会・経済価値の創出80",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "北米Forge社は顧客数が拡大し売上は前年比約1.5倍、赤字幅は改善",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "高速開発システムは、顧客ニーズを先読みし、複数のソリューションを迅速に開発し、フィードバックに基づき継続的に改良する3つのKSFで成立",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "「高速開発システム」は、顧客ニーズを先読みし、複数のソリューションを迅速に開発し、フィードバックに基づき継続的に改良する3つのKSFの上に成立",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "Well-beingとのつながりをご紹介します",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "味の素グループの事業や提供価値をわかりやすくご紹介します",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "「ストーリー」では、事業活動を通じた社会価値と経済価値の共創を目指すASVの事例をご紹介しています",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/asv/",
+    "pass": 1
+   },
+   {
+    "quote": "取り組みについてご紹介しています",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/asv/",
+    "pass": 1
+   },
+   {
+    "quote": "味の素グループの姿や強みをご紹介します",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "コーポレートガバナンス・役員紹介",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "数字で見る味の素グループ（従業員数、売上高、生産工場など）をご紹介します",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/data/",
+    "pass": 1
+   },
+   {
+    "quote": "味の素デジタルビジネスパートナー（株）",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/data/relation.html",
+    "pass": 1
+   },
+   {
+    "quote": "Well-beingとのつながりをご紹介します",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "「ストーリー」では、事業活動を通じた社会価値と経済価値の共創を目指すASVの事例をご紹介しています",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度は、タイ味の素社と味の素FDグリーン社による「タイファーマー・ベターライフ・パートナー・プロジェクト」が金賞を受賞",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/asv/asv-awards/",
+    "pass": 1
+   },
+   {
+    "quote": "」の主原料、タピオカスターチ生産の大切なパートナーであるキャッサバ農家が直面する高齢化や",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/asv/asv-awards/",
+    "pass": 1
+   },
+   {
+    "quote": "味の素㈱、経済産業省・NEDO主催「GENIAC」採択事業に生成AIスタートアップのストックマーク㈱のAI-Ready化プロジェクトパートナー企業として参画",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "～アグリフードシステム領域におけるソリューション発信とパートナーシップ強化～",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "「CEOの日常」のご紹介",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "本社食堂で育む健康と広がるイノベーション～ 味の素株式会社 本社食堂のご紹介",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "「シンガポール味の素社」のご紹介",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "味の素グループ最大の海外拠点「タイ味の素社」のご紹介",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "「アミノバイタル®」のご紹介",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "味の素AGF社のご紹介",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "「クノール®カップスープ」コーンクリームのご紹介",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "ブラジル味の素社より、バイオサイクルのご紹介",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "～牛の栄養をアミノ酸で改善、温室効果ガスと生産コストの削減にも貢献～ 牛用アミノ酸リジン製剤「AjiPro®-L」のご紹介",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "ブラジル味の素社より、「Sazon®」のご紹介",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "フィリピン味の素社より、「BawAsin®」のご紹介",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "味の素㈱、JOC・JPCと「TEAM JAPANゴールドパートナー」契約を締結",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "化粧品（パーソナルケア）素材事業のご紹介",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "「ベトナム味の素社」から「学校給食プロジェクト」のご紹介",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "「CEOの一日」のご紹介",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "フィリピン味の素社より、「AJI TV」のご紹介",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "ペルー味の素社のご紹介",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "～世界中の人々の豊かな食生活を支え、持続可能な農業の実現に向けて～ スペインより、アグロ２アグリ社のご紹介",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "「ベトナム味の素社」から「Aji-mayo®」・「Aji-Xot」のご紹介",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "味の素オムニケム社 ベルギー・ウェッテレン工場のご紹介",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "食品研究所、バイオ・ファイン研究所のご紹介",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "マレーシア味の素社新工場ご紹介",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "インドネシア味の素社「Health Provider」の活動ご紹介",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "栄養パートナーシップ",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/ataglance.html",
+    "pass": 1
+   },
+   {
+    "quote": "スコープ3 カテゴリー14（フランチャイズ） 0 0 0 0",
+    "url": "https://www.ajinomoto.co.jp/company/jp/sustainability/pdf/2023/SR2023jp_environment.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "構築の取り組みについて紹介しました",
+    "url": "https://www.ajinomoto.co.jp/company/jp/sustainability/pdf/2023/SR2023jp_environment.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Invisível社とパートナーシップを結び、食料供給の超過",
+    "url": "https://www.ajinomoto.co.jp/company/jp/sustainability/pdf/2023/SR2023jp_environment.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "今回の動画では、新本社の空間や仕組みに込めた考えや想いをご紹介します",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news/news-20261029/main/0/link/202610_IRTopics_headquarters_J.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ェクト「TRY&A-CROSS」を通じて議論を重ねながら創り上げたオフィスや、お客様・パートナー・投資",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news/news-20261029/main/0/link/202610_IRTopics_headquarters_J.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■味の素㈱再生医療事業のご紹介",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news/news-20261016/main/0/link/20261016_J.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "イオンリテールは生活者との豊富な接点を生かし、同社店舗でシニアケア事業「MySCUE」を展開して",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news/news-20261013/main/0/link/20261013_J.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「MySCUE」 では、 店舗スタッフが",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news/news-20261013/main/0/link/20261013_J.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は 「MySCUE」 の店舗スタッフが聞き取った食事に関する相談内容およびそれに対する当社の提案内容を",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news/news-20261013/main/0/link/20261013_J.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(図2)を構築し、店舗での“気づき”を家庭での“実践”へとつなげ、食生活の改善と健康づくりを継続的に支援",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news/news-20261013/main/0/link/20261013_J.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "～食の悩みに応える「ReT abell(リタベル)」の店舗での提供を開始～",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news/news-20261013/main/0/link/20261013_J.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "図1 店舗における食事相談・ヒアリングの様子と店頭ディスプレイ",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news/news-20261013/main/0/link/20261013_J.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "原材料の安定供給や物流を担う企業、大学や研究機関との共同研究、食品メーカーや外食チェーンとのコラボレーションなど、多面的なパートナーシップを築いています",
+    "url": "https://consovation.com/%E5%91%B3%E3%81%AE%E7%B4%A0%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、信頼できる原材料サプライヤーや物流企業をはじめ、アミノ酸研究の最先端を走る大学や研究所など多様なパートナーと協力し、製品品質や研究開発効率を高めているのです",
+    "url": "https://consovation.com/%E5%91%B3%E3%81%AE%E7%B4%A0%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "味の素はテレビCMやSNS、実店舗での試食会などを通じて顧客接点を増やし、ファンコミュニティを形成してきました",
+    "url": "https://consovation.com/%E5%91%B3%E3%81%AE%E7%B4%A0%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル",
+    "url": "https://consovation.com/%E5%91%B3%E3%81%AE%E7%B4%A0%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "食品では40の国・地域に現地法人、32の国・地域に工場を持ち(2026年3月期)、現地の味に合わせた商品開発と販売網を築いてきたことが、輸入品では埋められない差になっています",
+    "url": "https://bizi-mo.com/c/ajinomoto",
+    "pass": 3
+   },
+   {
+    "quote": "販売・店舗スタッフ",
+    "url": "https://bizi-mo.com/c/ajinomoto",
+    "pass": 3
+   },
+   {
+    "quote": "群馬新工場の製造現場をバーチャルツアーでご紹介します",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "群馬新工場の製造現場をバーチャルツアーで紹介する旨の案内",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "アグリフードシステムにおける取り組みに焦点を当て、COP30で農業分野への資金拡大とパートナーシップの必要性を発信した",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "独自技術であるアミノサイエンス®を活かしたソリューションを軸に、幅広いパートナーシップ・エコシステムを通じて取り組みを進める",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "味の素グループは、独自の強み・競争力の源泉であるアミノサイエンス",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "の強みを生かし、市場の成長性が高く、社会価値の高い領域に絞ることを基本方針とし、",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "食品事業：バイオ＆ファインケミカル事業の事業利益＝1：1の高収益かつユニークな企業を目指します",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "にもとづく研究開発力を強みに、各国・各地域の生活者のニーズに応え、様々な製品を提供しています",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "グローバルな製品開発・生産・販売体制、マーケティング力、ブランド力を強みに、生活者の嗜好に合うおいしさと栄養改善に貢献する製品・サービスを提供しています",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "を軸とした技術優位性・競争優位性・資本効率の高い、電子素材事業（半導体向け絶縁材料等）や医薬品開発製造受託サービス（CDMO）などを提供し、グローバルでも独自のポジションを築いています",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "を強みとし、食と健康、地球環境などの社会課題に向き合いながら、",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/asv/",
+    "pass": 1
+   },
+   {
+    "quote": "味の素グループは、社会課題に向き合い、グループならではの強みを活かした価値創造に取り組んできました",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/asv/",
+    "pass": 1
+   },
+   {
+    "quote": "味の素グループの姿や強みをご紹介します",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "味の素グループの強みは、創業以来長年の取り組みを通じて培ってきた、「人財」「技術」「顧客」「組織」といった無形資産にあります",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/top-message/",
+    "pass": 1
+   },
+   {
+    "quote": "創業以来長年にわたり磨き続けてきた味の素グループならではの強みであるアミノサイエンス",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "味の素グループは、社会課題に向き合い、グループならではの強みを活かした価値創造に取り組んできました",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "味の素(株)、バングラデシュで包装工場を稼働 南アジア地域の競争優位性を加速 ～２０１３年１月より本格稼働開始～",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "味の素グループならではの強みであるアミノ",
+    "url": "https://www.ajinomoto.co.jp/company/jp/sustainability/pdf/2023/SR2023jp_environment.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "高い製品開発力を強みに世界50カ国以上で事業を展開し",
+    "url": "https://www.ajinomoto.co.jp/company/jp/sustainability/pdf/2023/SR2023jp_environment.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "で発生する在庫、誤出荷等による返品、倉庫や配送時",
+    "url": "https://www.ajinomoto.co.jp/company/jp/sustainability/pdf/2023/SR2023jp_environment.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "長年のアミノ酸研究を起点とした独自の技術力であるアミノサイエンスを最大の強みとしており、世界中の現地家庭の食文化に深く根差した製品開発を行うことで、日本国内のみならず世界の幅広い地域で圧倒的なシェアとブランド認知を確立しています",
+    "url": "https://consovation.com/%E5%91%B3%E3%81%AE%E7%B4%A0%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "長年にわたるうま味の研究実績やアミノ酸発酵技術をはじめとする知的資産、そしてグローバル規模で活躍する研究者や専門人材が大きな強みです",
+    "url": "https://consovation.com/%E5%91%B3%E3%81%AE%E7%B4%A0%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした技術的強みを活かして事業を多角化し、複数の市場に同時参入することでリスク分散を図ると同時に、売上機会を最大化してきました",
+    "url": "https://consovation.com/%E5%91%B3%E3%81%AE%E7%B4%A0%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "アミノサイエンスを強みとする味の素は、継続的な研究開発こそが差別化と競争優位を生む原動力であると認識しています",
+    "url": "https://consovation.com/%E5%91%B3%E3%81%AE%E7%B4%A0%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば高齢化社会が進む中で、低塩・高栄養価の食品需要は一段と伸びる可能性があり、その領域に強みを持つ同社の製品はさらなる売上拡大が見込まれます",
+    "url": "https://consovation.com/%E5%91%B3%E3%81%AE%E7%B4%A0%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルを細分化すると、食品・医薬・電子材料など多岐にわたるセグメントを、研究開発から製造、販売チャネル、顧客リレーションまですべて統合的にマネジメントし、自らの強みを最大化している点が際立ちます",
+    "url": "https://consovation.com/%E5%91%B3%E3%81%AE%E7%B4%A0%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルから読み解く成長戦略 わらべや日洋ホールディングスの強みと最新IR情報",
+    "url": "https://consovation.com/%E5%91%B3%E3%81%AE%E7%B4%A0%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "味の素の強み・弱み・ビジネスモデルをわかりやすく図解【就活・企業研究】|ビジモ図鑑",
+    "url": "https://bizi-mo.com/c/ajinomoto",
+    "pass": 3
+   },
+   {
+    "quote": "味の素の強み・弱みとビジネスモデル",
+    "url": "https://bizi-mo.com/c/ajinomoto",
+    "pass": 3
+   },
+   {
+    "quote": "味の素は、うま味調味料「味の素」の発売から始まった食品メーカーで、アミノ酸の研究を核にした「アミノサイエンス」を強みとしています",
+    "url": "https://bizi-mo.com/c/ajinomoto",
+    "pass": 3
+   },
+   {
+    "quote": "味の素の強み — 就活生が押さえたい2つのポイント",
+    "url": "https://bizi-mo.com/c/ajinomoto",
+    "pass": 3
+   },
+   {
+    "quote": "味の素の強みは、「アミノサイエンス」「現地の味に合わせる」の2つです",
+    "url": "https://bizi-mo.com/c/ajinomoto",
+    "pass": 3
+   },
+   {
+    "quote": "強み1:アミノサイエンス",
+    "url": "https://bizi-mo.com/c/ajinomoto",
+    "pass": 3
+   },
+   {
+    "quote": "ひとつの強みを何通りにも収益化してる",
+    "url": "https://bizi-mo.com/c/ajinomoto",
+    "pass": 3
+   },
+   {
+    "quote": "強み2:現地の味に合わせる",
+    "url": "https://bizi-mo.com/c/ajinomoto",
+    "pass": 3
+   },
+   {
+    "quote": "味の素の強みが続く理由(競争優位)",
+    "url": "https://bizi-mo.com/c/ajinomoto",
+    "pass": 3
+   },
+   {
+    "quote": "創業以来積み上げたアミノ酸の発酵・精製技術と、それを食品・医薬・電子材料に横展開できる技術基盤が大きな強みです",
+    "url": "https://bizi-mo.com/c/ajinomoto",
+    "pass": 3
+   },
+   {
+    "quote": "成長ドライバーは上で見た強み(アミノサイエンス、現地の味に合わせる)",
+    "url": "https://bizi-mo.com/c/ajinomoto",
+    "pass": 3
+   },
+   {
+    "quote": "強みと弱みの両面",
+    "url": "https://bizi-mo.com/c/ajinomoto",
+    "pass": 3
+   },
+   {
+    "quote": "「うま味からABFへ」の技術転用ストーリーは、研究開発型企業の強みを語る面接ネタとして最強クラス",
+    "url": "https://bizi-mo.com/c/ajinomoto",
+    "pass": 3
+   },
+   {
+    "quote": "入社理由(志望動機)は、上の強み(例:アミノサイエンス)への共感を起点に組み立て、弱み・課題を理解した上で「それでも味の素を選ぶ理由」まで添えると説得力が出ます",
+    "url": "https://bizi-mo.com/c/ajinomoto",
+    "pass": 3
+   },
+   {
+    "quote": "私が味の素を志望する理由は、「アミノサイエンス」という強みに惹かれたからです",
+    "url": "https://bizi-mo.com/c/ajinomoto",
+    "pass": 3
+   },
+   {
+    "quote": "(自分の強み)を、味の素で活かしたいと考えています",
+    "url": "https://bizi-mo.com/c/ajinomoto",
+    "pass": 3
+   },
+   {
+    "quote": "味の素の強みは?",
+    "url": "https://bizi-mo.com/c/ajinomoto",
+    "pass": 3
+   },
+   {
+    "quote": "味の素ならではの強み(アミノサイエンス、現地の味に合わせるなど)への共感を起点に、弱み・課題を理解した上で「それでも選ぶ理由」まで語ると説得力が出ます",
+    "url": "https://bizi-mo.com/c/ajinomoto",
+    "pass": 3
+   },
+   {
+    "quote": "強み・弱み・面接対策は当サイトの編集部による解説です",
+    "url": "https://bizi-mo.com/c/ajinomoto",
+    "pass": 3
+   },
+   {
+    "quote": "ABF®は発売以来95%超のシェアを維持し、高速開発システムとバリューチェーン連携で競争優位を構築",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "開発・量産・お客様サポートまでを一体で高速化し、お客様との価値共創スピードを競争優位へ転換",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "無形資産の融合による競争優位と持続的成長の実現",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "技術・人財・顧客・組織の無形資産を有機的に結びつけ、競争優位と持続的成長を実現",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "4つの課題（強みを活かす、弱みを克服、脅威へ備える、経営基盤強化）に対し、テーマとして①中長期事業戦略、②コーポレートブランド強化、③グローバル経営のガバナンス強化、④データドリブン経営とナレッジマネジメントを設定",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "食品事業を持続的に成長させながら、バイオ＆ファインケミカル事業を飛躍的に伸ばし、高収益かつユニークで強固な構造へシフト",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "アミノサイエンスの強みを活かした高付加価値ソリューションで事業拡大",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "食品とバイオ＆ファインケミカル領域の融合によりアミノサイエンスの強みを活かし、栄養補助を必要とする人々のWell-beingに貢献する",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "メディカルフードは食品とバイオ＆ファインケミカルの融合領域であり、両事業の強みを活かして事業拡大を目指す",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "ヘルスケアやICT等の成長を加速、競争優位性構築が見込めない事業から撤退",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "ヘルスケアやICT等の成長を加速させると共に、競争優位性構築が見込めない事業からは撤退を進める",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "課題1:強みを活かし伸ばす（主力既存事業の維持拡大、持続的イノベーション）、課題2:弱みを克服（経営資源の効率化、人財多様化、OE/DX進化）、課題3:強みを活かし脅威へ備える（新製品・新市場への挑戦）、課題4:経営基盤強化（ポートフォリオマネジメント、SCM強靭化、ガバナンス強化）",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "課題1:強みを活かし伸ばす、課題2:弱みを克服、課題3:強みを活かし脅威へ備える、課題4:経営基盤の強化",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "アミノサイエンスの強みを活かした4つの成長領域（ヘルスケア、フード＆ウェルネス、ICT、グリーン）の1つ、ヘルスケア領域への積極的投資でユニークな事業ポートフォリオを実現",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値の高い事業モデルへの転換を進め、ヘルスケア事業の成長加速と高収益化に貢献",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "DIO目標として2025年チャレンジ目標70日を掲げ、タイムリーな在庫可視化と適切な在庫レベル設定により削減を企図",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "倉出データ、市場データをADAMSに統合し、実需と市場在庫を適正に把握して生産調整を最適化",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅳ-4．棚卸資産削減の取り組み 取り組み事例 グローバル在庫の可視化による在庫量の削減",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "1908年、コンブだしのうま味成分がグルタミン酸であることを発見した池田菊苗博士",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年を例に挙げると、日本の廃プラスチック総排出量は824万tでした",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/plazero/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年以降、プラスチック廃棄物の排出量は減少傾向にあります",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/plazero/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年までに全てのプラスチック容器包装をコスト効果的にリユース・リサイクル可能とすることや、企業による再生材利用、シングルユースプラスチックの削減の方向性などを盛り込んでいます",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/plazero/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年末までに国内資源で代替可能な固体廃棄物の輸入を段階的に停止するため、2017年末までに生活由来の廃プラスチックなどの輸入を禁止することが示されました",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/plazero/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年2月から3月にかけて開催された国連環境総会においては、海洋環境等におけるプラスチック汚染に関する法的拘束力のある国際文書（条約）の策定に向けた政府間交渉委員会を立ち上げる決議が採択されました",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/plazero/",
+    "pass": 1
+   },
+   {
+    "quote": "社史・沿革を見る",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/numbers/",
+    "pass": 1
+   },
+   {
+    "quote": "1956年、100人でスタートした味の素グループの研究開発要員数は事業の成長とともに増加し、今では世界中の研究拠点を合わせておよそ1,700人",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/numbers/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月現在",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/numbers/",
+    "pass": 1
+   },
+   {
+    "quote": "1908年、昆布だしのうま味成分がグルタミン酸であることを発見した池田菊苗博士",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/our-origin/",
+    "pass": 1
+   },
+   {
+    "quote": "1909年〜",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/our-origin/",
+    "pass": 1
+   },
+   {
+    "quote": "1970年代～",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/our-origin/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年代～",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/our-origin/",
+    "pass": 1
+   },
+   {
+    "quote": "1909年5月20日",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/data/",
+    "pass": 1
+   },
+   {
+    "quote": "1925年12月17日",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/data/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度は、タイ味の素社と味の素FDグリーン社による「タイファーマー・ベターライフ・パートナー・プロジェクト」が金賞を受賞",
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/asv/asv-awards/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期決算関連資料を掲載",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月19日 第148回定時株主総会",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算関連資料を掲載",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第3四半期決算関連資料を掲載",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第2四半期決算関連資料を掲載",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第1四半期決算関連資料を掲載",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月20日 第147回定時株主総会",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 決算関連資料を掲載",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第3四半期決算関連資料を掲載",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期（第147期）中間株主通信を掲載",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第2四半期決算関連資料を掲載",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期第1四半期決算関連資料を掲載",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年6月25日 第146回定時株主総会",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 決算関連資料を掲載",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第3四半期決算関連資料を掲載",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和6年能登半島地震被災地に対する味の素グループの支援について",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期（第146期）中間株主通信を掲載",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第2四半期決算関連資料を掲載",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第1四半期決算関連資料を掲載",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和4年度｢海運モーダルシフト大賞｣を受賞",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年6月27日 第145回定時株主総会",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 決算関連資料を掲載",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 第3四半期決算関連資料を掲載",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期（第145期）中間株主通信を掲載",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 第2四半期決算関連資料を掲載",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月現在、味の素グループは対象100工場のうち、",
+    "url": "https://www.ajinomoto.co.jp/company/jp/sustainability/pdf/2023/SR2023jp_environment.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年度は、法令違反が3件発",
+    "url": "https://www.ajinomoto.co.jp/company/jp/sustainability/pdf/2023/SR2023jp_environment.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年度のスコープ１・２のGHG排出量は前年度とほ",
+    "url": "https://www.ajinomoto.co.jp/company/jp/sustainability/pdf/2023/SR2023jp_environment.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2019年度 2020年度 2021年度 2022年度",
+    "url": "https://www.ajinomoto.co.jp/company/jp/sustainability/pdf/2023/SR2023jp_environment.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年度は、2100年に地球の平均気温が産業革命後よ",
+    "url": "https://www.ajinomoto.co.jp/company/jp/sustainability/pdf/2023/SR2023jp_environment.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2020年度 2021年度 2022年度 2023年度（予定）",
+    "url": "https://www.ajinomoto.co.jp/company/jp/sustainability/pdf/2023/SR2023jp_environment.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2050年：300億円／年",
+    "url": "https://www.ajinomoto.co.jp/company/jp/sustainability/pdf/2023/SR2023jp_environment.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年6月にサステナビリティ・リンク・ボンドを発行",
+    "url": "https://www.ajinomoto.co.jp/company/jp/sustainability/pdf/2023/SR2023jp_environment.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2030年度のGHG排出量目標（2018年比△50％）",
+    "url": "https://www.ajinomoto.co.jp/company/jp/sustainability/pdf/2023/SR2023jp_environment.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年度は、ス",
+    "url": "https://www.ajinomoto.co.jp/company/jp/sustainability/pdf/2023/SR2023jp_environment.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2018年度 2019年度 2020年度 2021年度 2022年度",
+    "url": "https://www.ajinomoto.co.jp/company/jp/sustainability/pdf/2023/SR2023jp_environment.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年度 2025年度 2030年度",
+    "url": "https://www.ajinomoto.co.jp/company/jp/sustainability/pdf/2023/SR2023jp_environment.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2017年に東京工業大学の細野秀雄教授らと",
+    "url": "https://www.ajinomoto.co.jp/company/jp/sustainability/pdf/2023/SR2023jp_environment.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2050年までに自らの事業の使用電力を100％太陽光、風",
+    "url": "https://www.ajinomoto.co.jp/company/jp/sustainability/pdf/2023/SR2023jp_environment.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年度には、ペルー工場が再エネ発電所と直接契",
+    "url": "https://www.ajinomoto.co.jp/company/jp/sustainability/pdf/2023/SR2023jp_environment.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2021年3月末に全廃を完了しました",
+    "url": "https://www.ajinomoto.co.jp/company/jp/sustainability/pdf/2023/SR2023jp_environment.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2015年に始動した食品メーカー6社",
+    "url": "https://www.ajinomoto.co.jp/company/jp/sustainability/pdf/2023/SR2023jp_environment.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1995年より開始した輸送手段をトラックから鉄道や船舶",
+    "url": "https://www.ajinomoto.co.jp/company/jp/sustainability/pdf/2023/SR2023jp_environment.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年度の味",
+    "url": "https://www.ajinomoto.co.jp/company/jp/sustainability/pdf/2023/SR2023jp_environment.pdf",
+    "pass": 2
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント情報［IFRS］",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "環境データ エネルギー構成比",
+    "url": "https://www.ajinomoto.co.jp/company/jp/sustainability/pdf/2023/SR2023jp_environment.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "15,167トンで、地域別の構成比は右図の通りです",
+    "url": "https://www.ajinomoto.co.jp/company/jp/sustainability/pdf/2023/SR2023jp_environment.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "味の素株式会社は、調味料や加工食品の製造・販売を中心に、医薬用・食品用アミノ酸、電子材料などを手がけるヘルスケア等セグメントにいたるまで、多角的な事業を展開するグローバルな総合食品・バイオ企業です",
+    "url": "https://consovation.com/%E5%91%B3%E3%81%AE%E7%B4%A0%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "この業績結果をもたらした理由としては、主力の調味料・食品セグメントや、半導体パッケージ基材等を含む電子材料などの販売が好調であったヘルスケア等セグメントが全体の増収増益を力強く牽引したことが挙げられます",
+    "url": "https://consovation.com/%E5%91%B3%E3%81%AE%E7%B4%A0%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "また、冷凍食品セグメントにおいて主に北米市場での原材料コスト増加による減益影響があったものの、その他の事業セグメントにおける販売拡大や高付加価値化への取り組みがそれらを十分に補いました",
+    "url": "https://consovation.com/%E5%91%B3%E3%81%AE%E7%B4%A0%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客セグメント",
+    "url": "https://consovation.com/%E5%91%B3%E3%81%AE%E7%B4%A0%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルを細分化すると、食品・医薬・電子材料など多岐にわたるセグメントを、研究開発から製造、販売チャネル、顧客リレーションまですべて統合的にマネジメントし、自らの強みを最大化している点が際立ちます",
+    "url": "https://consovation.com/%E5%91%B3%E3%81%AE%E7%B4%A0%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "各国の食文化に合わせた製品開発で、海外売上比率は",
+    "url": "https://bizi-mo.com/c/ajinomoto",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別の事業利益は調味料・食品が",
+    "url": "https://bizi-mo.com/c/ajinomoto",
+    "pass": 3
+   },
+   {
+    "quote": ")の3セグメントで、ヘルスケア等には医薬用・食品用アミノ酸のほか、半導体パッケージ用の絶縁材料などの電子材料が含まれ、食品会社でありながら半導体産業を支えているのが特徴です",
+    "url": "https://bizi-mo.com/c/ajinomoto",
+    "pass": 3
+   },
+   {
+    "quote": "各国の食文化に合わせた製品開発で、海外売上比率は6割超",
+    "url": "https://bizi-mo.com/c/ajinomoto",
+    "pass": 3
+   },
+   {
+    "quote": "事業セグメント",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "ABF®は進化を続け、新開発品・高付加価値品の構成比向上が利益率向上に貢献",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "資料構成: 参考資料（2026年3月期決算概要、2027年3月期セグメント別業績予想）、Ⅰ 2026年3月期決算概要と2027年3月期業績予想、Ⅱ 企業価値向上に向けた取組み",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅰ-2．事業利益増減要因（開示セグメント別2026年3月期実績）",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別増減: 調味料・食品+89億円（国内外調味料、国内コーヒー増収）、冷凍食品▲45億円（関税、SNAP停止、寒波、リコール影響）、ヘルスケア等+205億円（ファンクショナルマテリアルズ、CDMO、医薬用・食品用アミノ酸増益）、その他▲3億円、全社共通費▲27億円",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅰ-4．参考| セグメント別成長の道筋",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別のROIC、オーガニック成長率、EBITDAマージン、事業利益（BP）の推移",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "全セグメント増収増益",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅰ-6．事業利益増減要因（開示セグメント別2027年3月期業績予想）",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別増減予想: 調味料・食品+28億円（海外調味料、国内コーヒー増収、戦略的費用吸収）、冷凍食品+37億円（北米アジアンカテゴリー増収）、ヘルスケア等+137億円（ファンクショナルマテリアルズ好調、バイオファーマ大幅増益）、その他▲9億円、全社共通費▲36億円",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "性能と価格を同時にすり合わせる開発により、高単価製品の構成比が高まり収益性が向上（10年前の30%程度から現在50%超）",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "FY30に向けてモダリティ別売上構成を変化させる計画",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅰ-12．参考| セグメント別成⾧の道筋",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別のFY26業績予想（ROIC、オーガニック成長率、事業利益、EBITDAマージン）を記載",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "FY25累計 セグメント別概況:食品事業",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "FY25累計 セグメント別概況:バイオ＆ファインケミカル事業",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "参考資料として決算概要とセグメント別業績予想を添付",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅰ-2 事業利益増減要因（セグメント別）",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "FY25の事業利益増減をセグメント別に分析",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅰ-4 参考 セグメント別成長の道筋",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別のROIC、オーガニック成長率、事業利益（BP）の推移とFY30計画",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "調味料・食品、冷凍食品、ヘルスケア等の各セグメントでROIC改善を目指す",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "全セグメントで増収増益を見込む",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅰ-6 事業利益増減要因（セグメント別 業績予想）",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "FY26業績予想の事業利益増減をセグメント別に分析",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "味の素㈱、経済産業省・NEDO主催「GENIAC」採択事業に生成AIスタートアップのストックマーク㈱のAI-Ready化プロジェクトパートナー企業として参画",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "味の素㈱、バイオ医薬品に関する開発・製造技術でアステラス製薬とライセンス契約を締結",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "味の素㈱とExelixis社、がん治療向けの革新的な抗体薬物複合体（ADC）の開発におけるライセンス契約を締結",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "味の素(株)、味の素ゼネラルフーヅ(株)がライセンスを受けている「Blendy」「MAXIM」等の全商標を取得 ～取得価額約２５９億円～",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "強化およびエネルギー単価の上昇、消費者嗜好の変化等",
+    "url": "https://www.ajinomoto.co.jp/company/jp/sustainability/pdf/2023/SR2023jp_environment.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "再商品化実施委託料金の単価が上昇したため、2023年度",
+    "url": "https://www.ajinomoto.co.jp/company/jp/sustainability/pdf/2023/SR2023jp_environment.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主な収益源は調味料や冷凍食品などの製品販売ですが、アミノ酸や電子材料など高付加価値領域への供給、ライセンス契約や共同開発からの収益も含まれます",
+    "url": "https://consovation.com/%E5%91%B3%E3%81%AE%E7%B4%A0%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "調味料事業だけに依存していると市場の伸び率や価格競争に左右されやすいため、味の素はアミノ酸の特許技術をベースにしたライセンス収益や、電子部材など先端領域から得られる売上を多層的に組み合わせる戦略を取っています",
+    "url": "https://consovation.com/%E5%91%B3%E3%81%AE%E7%B4%A0%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "国内売上は前期比111%（数量96%、単価115%）",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "コーヒー除くと105%（数量104%、単価101%）",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "コーヒーは値上げで数量減も単価増で売上約120%",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "海外売上は104%（数量102%、単価102%）",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "海外コンシューマー単価上昇+約190億円",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "FY26予想: 国内売上前期比106%（数量103%、単価103%）、海外売上107%（数量105%、単価102%）",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "性能と価格を同時にすり合わせる開発により、高単価製品の構成比が高まり収益性が向上（10年前の30%程度から現在50%超）",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "海外調味料は調味料が数量・単価とも伸び、S&Iの減収をカバーして全体で増収",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "海外コンシューマー単価上昇が+115億円寄与",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "国内は数量96%、単価115%で増収、海外は現地通貨ベースで数量102%、単価102%",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "海外コンシューマー単価上昇が+190億円寄与",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "国内は数量103%、単価103%で増収、海外は現地通貨ベースで数量105%、単価102%",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "海外調味料は数量・単価とも伸び増収",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "収益構造改善によるGP増（海外コンシューマー単価上昇+24億円）など",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "国内売上105%（数量95%、単価110%）、海外売上103%（数量102%、単価101%）",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "国内売上は前年比107%（数量94%、単価113%）、海外売上は現地通貨ベース103%（数量100%、単価103%）",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月に海外企業1社とアステラス製薬とライセンス契約締結",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "売上増・収益構造改善によるGP増の内訳は、海外コンシューマー単価上昇+約180億円",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "国内は売上107%（数量98%、単価109%）、事業利益増減は販売増減によるGP増減+285億円、原材料・製造コスト増減▲140億円、販管費等増減▲115億円で前年度+30億円",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "海外（現地通貨ベース）は売上109%（数量106%、単価103%）、事業利益増減は販売増減によるGP増減+160億円、原材料・製造コスト増減▲95億円、販管費等増減▲55億円で前年度+10億円",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "調味料・食品（国内）：コーヒーを除く調味料、栄養・加工食品は主に単価効果により増収、コーヒーは値上げによる単価成長により大幅増収",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "調味料・食品（海外）：調味料を中心としたBtoC事業は主に単価効果により増収、加工用うま味調味料は数量減により減収も全体で増収",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "海外コンシューマー単価上昇が寄与",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "国内売上は数量95%、単価115%",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "海外は現地通貨ベースで数量102%、単価102%",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%9D%91%E8%8C%82%E9%9B%84_(%E5%AE%9F%E6%A5%AD%E5%AE%B6)",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "を活用したビジネスモデルの構",
+    "url": "https://www.ajinomoto.co.jp/company/jp/sustainability/pdf/2023/SR2023jp_environment.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本ビジネスモデルでは、当社の乳牛用アミノ酸リジン製",
+    "url": "https://www.ajinomoto.co.jp/company/jp/sustainability/pdf/2023/SR2023jp_environment.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "味の素が描く成長戦略のすべてを徹底解説 ビジネスモデルとIR資料から読み解く未来 | チームマイクの企業分析",
+    "url": "https://consovation.com/%E5%91%B3%E3%81%AE%E7%B4%A0%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "味の素が描く成長戦略のすべてを徹底解説 ビジネスモデルとIR資料から読み解く未来",
+    "url": "https://consovation.com/%E5%91%B3%E3%81%AE%E7%B4%A0%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "また、共同開発契約による収益は知的財産権を活用したビジネスモデルの一環として、企業価値向上に貢献しています",
+    "url": "https://consovation.com/%E5%91%B3%E3%81%AE%E7%B4%A0%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの取り組みによって、味の素のビジネスモデルは今後も柔軟に変化しながら成長を続けるでしょう",
+    "url": "https://consovation.com/%E5%91%B3%E3%81%AE%E7%B4%A0%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルを細分化すると、食品・医薬・電子材料など多岐にわたるセグメントを、研究開発から製造、販売チャネル、顧客リレーションまですべて統合的にマネジメントし、自らの強みを最大化している点が際立ちます",
+    "url": "https://consovation.com/%E5%91%B3%E3%81%AE%E7%B4%A0%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "徹底解剖 株式会社はごろもフーズのビジネスモデルと今後の成長戦略を探る",
+    "url": "https://consovation.com/%E5%91%B3%E3%81%AE%E7%B4%A0%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルに基づく成長戦略とは 日本食品化工の未来を読み解く徹底ブログレポート",
+    "url": "https://consovation.com/%E5%91%B3%E3%81%AE%E7%B4%A0%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "第一屋製パンの魅力とビジネスモデルを紐解く",
+    "url": "https://consovation.com/%E5%91%B3%E3%81%AE%E7%B4%A0%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ミヨシ油脂のビジネスモデルと成長戦略が魅力的な理由",
+    "url": "https://consovation.com/%E5%91%B3%E3%81%AE%E7%B4%A0%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社寿スピリッツのビジネスモデルと成長戦略が魅力的",
+    "url": "https://consovation.com/%E5%91%B3%E3%81%AE%E7%B4%A0%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "企業概要と最近の業績寿スピリッツ株式会社【全体の業績】寿スピリッツ株式会社は、「お菓子の総合プロデューサー」として、全国各地の文化や伝統を活かした地域限定の高級ギフト菓子を展開する、独自のビジネスモデルを持つ企業です",
+    "url": "https://consovation.com/%E5%91%B3%E3%81%AE%E7%B4%A0%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルから読み解く成長戦略 わらべや日洋ホールディングスの強みと最新IR情報",
+    "url": "https://consovation.com/%E5%91%B3%E3%81%AE%E7%B4%A0%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "ワイズテーブルコーポレーションのビジネスモデルを徹底解説 高級レストラン経営が生む成長戦略のカギとは",
+    "url": "https://consovation.com/%E5%91%B3%E3%81%AE%E7%B4%A0%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルやIR資料から読み解く キッコーマンの成長戦略の全貌",
+    "url": "https://consovation.com/%E5%91%B3%E3%81%AE%E7%B4%A0%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル",
+    "url": "https://consovation.com/%E5%91%B3%E3%81%AE%E7%B4%A0%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ドライケミカル株式会社の『ビジネスモデル』と圧倒的競争力を解",
+    "url": "https://consovation.com/%E5%91%B3%E3%81%AE%E7%B4%A0%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社動力のIR資料から紐解く次世代へのビジネスモデルと成長戦略",
+    "url": "https://consovation.com/%E5%91%B3%E3%81%AE%E7%B4%A0%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ガイシの驚異的なビジネスモデルと次世代へ向けた成長戦略を徹底解説",
+    "url": "https://consovation.com/%E5%91%B3%E3%81%AE%E7%B4%A0%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "マーチャント・バンカーズの隠された成長戦略と驚異のビジネスモデル",
+    "url": "https://consovation.com/%E5%91%B3%E3%81%AE%E7%B4%A0%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "味の素の強み・弱み・ビジネスモデルをわかりやすく図解【就活・企業研究】|ビジモ図鑑",
+    "url": "https://bizi-mo.com/c/ajinomoto",
+    "pass": 3
+   },
+   {
+    "quote": "味の素の強み・弱みとビジネスモデル",
+    "url": "https://bizi-mo.com/c/ajinomoto",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル:技術転用×食品 / 業界:食品・飲料",
+    "url": "https://bizi-mo.com/c/ajinomoto",
+    "pass": 3
+   },
+   {
+    "quote": "味の素のビジネスモデル図解 — お金とモノの流れ",
+    "url": "https://bizi-mo.com/c/ajinomoto",
+    "pass": 3
+   },
+   {
+    "quote": "味の素のビジネスモデル解説 — 誰に・何を・どう儲けるか",
+    "url": "https://bizi-mo.com/c/ajinomoto",
+    "pass": 3
+   },
+   {
+    "quote": "味の素の収益構造(ざっくり構成)",
+    "url": "https://bizi-mo.com/c/ajinomoto",
+    "pass": 3
+   },
+   {
+    "quote": "「なぜ競合ではなく味の素なのか」をビジネスモデルの違いから言語化しておくと、志望動機に説得力が出ます",
+    "url": "https://bizi-mo.com/c/ajinomoto",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル解説の数字の基準: 2026年3月期 決算短信・決算概要(公式IR)",
+    "url": "https://bizi-mo.com/c/ajinomoto",
+    "pass": 3
+   },
+   {
+    "quote": "収益構造改善によるGP増（海外コンシューマー単価上昇+24億円）など",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "新疾患領域参入（乳幼児市場やがん市場）、味の素グループ各社との協業、優位性のある製品・新ビジネスモデル構築",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "構造改革とTDCマージン拡大で安定した収益構造を継続",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "売上増・収益構造改善によるGP増の内訳は、海外コンシューマー単価上昇+約180億円",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "売上増・収益構造改善によるGP増、人件費・マーケ投資・R&D投資増、為替影響",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "構造改革とTDCマージン拡大で安定収益構造継続",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "方向性として、既存ブランドと既存チャネル以外のビジネスモデル確立、新たな価値創出とチャレンジ文化の醸成、デジタル・オンライン中心の1to1コミュニケーション確立を掲げる",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "入社2年目の社員が、インフルエンサー事務所と直接交渉し商流をフロー化することで、TikTokで1,000万回再生を創出",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅲ-5．D2C事業拡大に向け、ビジネスモデル改革にチャレンジ",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "D2Cビジネスモデルを単品リピート通販から「ブランドへの愛着をベースにしたファン作りD2C」へ変革",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "売上増・収益構造改善によるGP増（+277億円）、GP率改善（+133億円）、販管費増（▲291億円、うちマーケティング投資▲約90億円、R&D投資▲約30億円）、持分法損益（+4億円）",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "インフレ環境継続、人件費・原燃料高騰、原油価格上昇、SCMの綻び、調達先一国リスクなどに対し、原燃料価格・TDCマージンのモニタリング、必要に応じた値上げ、輸送ルートの柔軟修正、調達先の複数国化、為替に左右されないビジネスモデル構築などの打ち手を列挙",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "筋肉質な収益構造への取組み①冷凍食品",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "筋肉質な収益構造への取組み②SCM変革",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "インフレ、為替変動、地政学リスク、気候変動などの環境変化に対し、原燃料価格・TDCマージンのモニタリング、必要に応じた値上げ、調達先の複数国化、為替に左右されないビジネスモデル構築などの対応を進める",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "筋肉質な収益構造への取組み②",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "味の素が描く成長戦略のすべてを徹底解説 ビジネスモデルとIR資料から... — Jan 29, 2025 · 味の素はアミノ酸研究を軸にした製品開発と、その市場から得た売上を再び研究開発投資に回す好循環を確立しています。 例えば、調味料事業や冷凍食品で培ったうま味技術は、スポーツ栄養や医薬分野でも評価を受け、新たな収益源となっています。",
+    "url": "https://consovation.com/味の素が描く成長戦略のすべてを徹底解説-ビジネ/",
+    "pass": 3
+   },
+   {
+    "quote": "味の素の強み・弱み・ビジネスモデルをわかりやすく図解【就活・企業... — 味の素とは何の会社か——強み・弱み・ビジネスモデルを就活生向けにわかりやすく図解。 うま味の会社が、実は半導体を支えている。 アミノ酸の魔法。 面接での語り方やライバル企業 (キリンHD・アサヒグループHD・明治HD)も紹介。",
+    "url": "https://bizi-mo.com/c/ajinomoto",
+    "pass": 3
+   },
+   {
+    "quote": "味の素は何の会社？食卓との接点・ABF・3事業のビジネスモデル | yomi... — Aug 9, 2026 · 味の素 は発酵・合成の技術を使い、核酸医薬や抗体薬物複合体に関連する製造技術なども展開しています。 患者が薬局で買う薬の販売額をそのまま味の素の収入にする関係ではなく、顧客である製薬企業に何を提供するかが収益の入口です。",
+    "url": "https://yomitoka.com/blog/ajinomoto-business-model-food-amino-science",
+    "pass": 3
+   },
+   {
+    "quote": "味の素：徹底分析 - druckfin.com — Apr 29, 2026 · ビジネスモデル：二極化する収益エンジン 味の素は、事業を「調味料・食品」「冷凍食品」「ヘルスケア等」の3つの主要セグメントに分類している。 その全体的なビジネスモデルは根本的に二極化しており、2つの異なる価値創造エンジンに依存している。",
+    "url": "https://www.druckfin.com/ja/articles/味の素徹底分析-20260429",
+    "pass": 3
+   },
+   {
+    "quote": "【ビジネスモデル図解2026】味の素の事業戦略を構造化する（公開マッ... — May 30, 2026 · 多くのビジネス解説は、表面的な事象をなぞるにとどまりがちです。 しかし、経営層が本当に知るべきは、成功モデルの裏側にある「事業の因果関係」や「収益化の仕組み」です。",
+    "url": "https://mindmeister.jp/posts/bm-ajinomoto",
+    "pass": 3
+   },
+   {
+    "quote": "味の素株式会社 — 決算説明資料 - EDINET DB — 資料タイトル「電子材料事業の成長戦略―味の素ファインテクノ社工場バーチャル見学会―」、発行者（味の素ファインテクノ株式会社）、発行日（2026年6月30日）を記載。",
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "ライブラリ | IR情報 | 味の素グループ — 味の素グループのライブラリをご覧いただけます。",
+    "url": "https://ajinomoto-ir.swcms.net/company/jp/ir/library.html",
+    "pass": 3
+   },
+   {
+    "quote": "【味の素】 [2802]決算発表や業務・財務情報 | 日経電子版 — 20 hours ago · 【日本経済新聞】味の素 [2802]の配当・売上高・営業利益など決算情報を収録。中間業績や貸借対照表、キャッシュフローの状況やセグメント情報 ...",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=2802",
+    "pass": 3
+   },
+   {
+    "quote": "【味の素 FY2026 Q1 決算説明会】ABF好調で営業益27%増・過去最高、通... — Aug 7, 2026 · 味の素が13日に開いた2027年3月期第1四半期決算説明会で、全社の売上高、事業利益、親会社株主に帰属する当期利益がいずれも第1四半期として過去最高を更新したと発表した。IR室長の梶昌隆氏は「売上高、事業利益、当期利益、いずれも第一四半期としての新記録」と強調。主力の調味料 ...",
+    "url": "https://finance.biggo.jp/news/JP_2802.T_2026-08-07",
+    "pass": 3
+   },
+   {
+    "quote": "味の素 (株)【2802】：決算情報 - Yahoo!ファイナンス — Aug 6, 2026 · 味の素 (株)【2802】の決算短信を生成AIで要約した内容をご覧いただけます。 Yahoo!ファイナンスでは株価速報、チャート、ランキング、ポートフォリオ、ニュース、掲示板など投資判断に役立つ情報を掲載しています。",
+    "url": "https://finance.yahoo.co.jp/quote/2802.T/financials",
+    "pass": 3
+   },
+   {
+    "quote": "味の素グループの事業戦略 | ライブラリ | IR情報 | 味の素グループ — 味の素グループの味の素グループ概要資料をご覧いただけます。",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/library/first_presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業紹介 | IR情報 | 味の素グループ — 味の素グループの事業紹介をご覧いただけます。",
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "組織図｜企業情報｜AHS 味の素ヘルシーサプライ株式会社 — ご挨拶 経営理念 事業内容 企業データ 所在地 組織図 沿革 会社案内 日本語版（PDF） 会社案内 英語語版（PDF） 品質・環境・労働安全衛生方針 採用情報 お問い合わせ ニュース&リリース 個人情報保護方針 免責事項 サイトマップ 個人情報保護方針 免責事項 ...",
+    "url": "https://www.ahs.ajinomoto.com/corporate/organization.html",
+    "pass": 3
+   },
+   {
+    "quote": "【ビジネスモデル図解2026】味の素の事業戦略を構造化する（公開マッ... — May 30, 2026 · しかし、経営層が本当に知るべきは、成功モデルの裏側にある「事業の因果関係」や「収益化の仕組み」です。 本記事では、成功企業の強みを直感的に理解し、自社の事業計画に転用できるよう、同社の戦略を1枚のマップに「構造化」して公開します。",
+    "url": "https://mindmeister.jp/posts/bm-ajinomoto",
+    "pass": 3
+   },
+   {
+    "quote": "味の素社 - syokuryo-jokai.jp — (3)ダイレクトマーケティング部のD2C販売マーケティング機能・食品領域とマーケティング開発部のEC機能を統合し、マーケティングデザインセンター内にD2C事業部を新設する。",
+    "url": "https://www.syokuryo-jokai.jp/gyoukaijinji/01/img01/ajinomoto240401.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中村茂雄 (実業家) - Wikipedia — 2019年 6月に執行役員に就任し、 2022年 4月に常務及びブラジル味の素社社長を経て、 2025年 2月には体調不良で 藤江太郎 社長に代わり、社長に就任する [1][3]。 技術分野出身初の社長 [1]。",
+    "url": "https://ja.wikipedia.org/wiki/中村茂雄_(実業家)",
+    "pass": 3
+   },
+   {
+    "quote": "中村茂雄新社長に聞く！味の素グループをさらに成長させるポイントと... — 2025年（令和7年）2月、味の素株式会社の社長に就任した中村茂雄（なかむら しげお）さんに、今後の取り組みや自身の強み、休日の過ごし方に至るまでインタビューした内容をお届けします。",
+    "url": "https://story.ajinomoto.co.jp/report/176.html",
+    "pass": 3
+   },
+   {
+    "quote": "編集長インタビュー 中村茂雄 味の素社長 — Sep 1, 2025 · ── 今年2月に社長に就任してから約半年がたちました。 中村 藤江太郎前社長（現会長）の体調不良に伴って急きょ就任しました。 役員や事業担当者と1対1で意見を交わし、ブラジル味の素社長を務めた経験も踏まえて課題を整理しました。",
+    "url": "https://www.weekly-economist.com/interview/nakamura_shigeo/",
+    "pass": 3
+   },
+   {
+    "quote": "味の素初の技術系社長「半導体流」で挑む高速経営 | 経済界ウェブ — Mar 8, 2026 · 私は2022年から25年まで、ブラジル味の素の社長を務めました。 社内には当初、「電子材料しか知らない人間に、食品の巨大市場であるブラジルの社長が務まるのか」という懐疑的な見方もあったと思います。 しかし、私は確信していました。",
+    "url": "https://net.keizaikai.co.jp/archives/3308",
+    "pass": 3
+   },
+   {
+    "quote": "世界シェア100％！？AI需要で半導体材料が業績をけん引！“過去最高”決...味の素グループの「戦闘力」を高める「高速開発システム」って何です...味の素 中村茂雄社長が語る「健全な危機感」経営 | Forbes JAPAN 公式... — May 18, 2026 · “過去最高”決算の原動力と展望／味の素 中村茂雄社長インタビュー完全版【トップを直撃（WBS）】 テレ東BIZ ダイジェスト 2.67M subscribers 169 「Knock Knock 社長室～教えて！ 中村さん」は味の素社代表執行役社長に就任した中村茂雄さんにお話を伺うシリーズです。 第1回目の「高速開発システム」は、2030年のありたい姿を実現するために鍵となるということで中村さんにお話をお聞きしました。 Dec 9, 2025 · 同号では2つのランキング、IPOランキング上位の11企業の経営者インタビュー",
+    "url": "https://www.youtube.com/watch?v=czCq-9ejbao",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.ajinomoto.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/asv/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ajinomoto.co.jp/dashiyanomisoshiru/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/plazero/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/top-message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/numbers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/our-origin/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/data/officers.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/data/global.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/data/office.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/data/relation.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/philosophy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/library/annual.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/asv/asv-awards/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ajinomoto.co.jp/products/detail/?ProductName=dashiyanomisoshiru_2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ajinomoto.co.jp/products/detail/?ProductName=dashiyanomisoshiru_3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ajinomoto.co.jp/products/detail/?ProductName=dashiyanomisoshiru_4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ajinomoto.co.jp/products/detail/?ProductName=dashiyanomisoshiru_5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ajinomoto.co.jp/products/detail/?ProductName=dashiyanomisoshiru_1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ajinomoto.co.jp/company/en/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/ataglance.html",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/library/annual/main/01/teaserItems1/0/linkList/0/link/ASV_Report_2025_A4_jp.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/library/annual/main/02/teaserItems1/0/linkList/0/link/ASV_Report_2026_A4_jp.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ajinomoto.co.jp/company/jp/sustainability/pdf/2023/SR2023jp_environment.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news/news-20261029/main/0/link/202610_IRTopics_headquarters_J.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news/news-20261016/main/0/link/20261016_J.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news/news-20261013/main/0/link/20261013_J.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news/news-20261002/main/0/link/20261002_J.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/news/news-20260929/main/0/link/20260929_J.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/img/thumb_business_01.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/img/title_business_01.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/img/thumb_business_02.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/img/thumb_business_03.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.ajinomoto.co.jp/company/jp/aboutus/img/thumb_business_04.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.ajinomoto.co.jp/company/jp/ir/main/05/teaserItems2/0/binaryNodeName/business_briefing.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://data.swcms.net/file/ajinomoto-ir/dam/jcr:d6a36e8d-a2f2-4412-8965-1ff380234400/business.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.ajinomoto.co.jp/company/en/ir/main/04/teaserItems2/0/binaryNodeName/business_briefing.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://consovation.com/%E5%91%B3%E3%81%AE%E7%B4%A0%E3%81%8C%E6%8F%8F%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-%E3%83%93%E3%82%B8%E3%83%8D/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bizi-mo.com/c/ajinomoto",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://edinetdb.jp/company/E00436/presentations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ajinomoto-ir.swcms.net/company/jp/ir/library.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%9D%91%E8%8C%82%E9%9B%84_(%E5%AE%9F%E6%A5%AD%E5%AE%B6)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://story.ajinomoto.co.jp/report/176.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "味の素",
+   "results": [
+    "https://www.ajinomoto.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E5%91%B3%E3%81%AE%E7%B4%A0",
+    "https://x.com/ajinomoto",
+    "https://www.rakuten.co.jp/ajinomoto/",
+    "https://ja.wikipedia.org/wiki/味の素",
+    "https://en.wikipedia.org/wiki/Ajinomoto",
+    "https://www.ajinomoto.co.jp/products/",
+    "https://www.ajinomoto-shokuhin.co.jp/index.html",
+    "https://www.ffa.ajinomoto.com/",
+    "https://www.ajinomoto.com/"
+   ]
+  },
+  {
+   "query": "味の素 ビジネスモデル",
+   "results": [
+    "https://consovation.com/味の素が描く成長戦略のすべてを徹底解説-ビジネ/",
+    "https://bizi-mo.com/c/ajinomoto",
+    "https://yomitoka.com/blog/ajinomoto-business-model-food-amino-science",
+    "https://www.druckfin.com/ja/articles/味の素徹底分析-20260429",
+    "https://mindmeister.jp/posts/bm-ajinomoto",
+    "https://www.ajinomoto.co.jp/company/jp/ir/event/medium_term.html",
+    "https://www.ajinomoto.co.jp/company/jp/ir/event/medium_term/main/012/teaserItems1/0/linkList/00/link/2030+Roadmap+Presentation_J.pdf"
+   ]
+  },
+  {
+   "query": "味の素 決算説明資料",
+   "results": [
+    "https://edinetdb.jp/company/E00436/presentations/",
+    "https://ajinomoto-ir.swcms.net/company/jp/ir/library.html",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=2802",
+    "https://finance.biggo.jp/news/JP_2802.T_2026-08-07",
+    "https://finance.yahoo.co.jp/quote/2802.T/financials",
+    "https://www.ajinomoto.co.jp/company/jp/ir/event/presentation.html",
+    "https://www.ajinomoto.co.jp/company/jp/ir/library/result.html"
+   ]
+  },
+  {
+   "query": "味の素 事業系統図",
+   "results": [
+    "https://www.ajinomoto.co.jp/company/jp/ir/library/first_presentation.html",
+    "https://www.ajinomoto.co.jp/company/jp/ir/business.html",
+    "https://www.ahs.ajinomoto.com/corporate/organization.html",
+    "https://mindmeister.jp/posts/bm-ajinomoto",
+    "https://www.syokuryo-jokai.jp/gyoukaijinji/01/img01/ajinomoto240401.pdf",
+    "https://irbank.net/E00436/business",
+    "https://www.theofficialboard.jp/組織図/ajinomoto"
+   ]
+  },
+  {
+   "query": "味の素 社長 インタビュー",
+   "results": [
+    "https://ja.wikipedia.org/wiki/中村茂雄_(実業家)",
+    "https://story.ajinomoto.co.jp/report/176.html",
+    "https://www.weekly-economist.com/interview/nakamura_shigeo/",
+    "https://net.keizaikai.co.jp/archives/3308",
+    "https://www.youtube.com/watch?v=czCq-9ejbao",
+    "https://story.ajinomoto.co.jp/report/180.html",
+    "https://forbesjapan.com/articles/detail/86089"
+   ]
+  }
+ ],
+ "missing": {}
+}

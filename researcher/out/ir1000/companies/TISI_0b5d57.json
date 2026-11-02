@@ -1,0 +1,1621 @@
+{
+ "name": "ＴＩＳＩ",
+ "aliases": [],
+ "context": "証券コード3626／情報・通信業／プライム（内国株式）／2026.03期 売上高596,479百万円 営業利益率12.8%",
+ "researched_at": "2026-11-02T19:45:05.555056+00:00",
+ "official_url": "https://www.tisi.jp/",
+ "identified_by": "search:yahoo_jp:TISI",
+ "profile": {
+  "従業員数": [
+   {
+    "label": "TISインテックグループ従業員持株会",
+    "value": "6,625 2.99",
+    "url": "https://www.tisi.jp/ir/stock/information/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "連結：21,598名 単体：6,066名 （2026年3月31日時点）",
+    "url": "https://ja.wikipedia.org/wiki/TISI",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "6,200億円 5,490億円",
+    "url": "https://www.tisi.jp/ir/policy/midtermpolicy/",
+    "pass": 1
+   },
+   {
+    "label": "売上高総利益率",
+    "value": "30.0% 27.6%",
+    "url": "https://www.tisi.jp/ir/policy/midtermpolicy/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "連結：5964億7900万円 単体：2731億7300万円 （2026年3月期）",
+    "url": "https://ja.wikipedia.org/wiki/TISI",
+    "pass": 3
+   }
+  ],
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2008年 4月1日 （ ITホールディングス 株式会社） 創業： 1971年 4月28日 （旧TIS設立）",
+    "url": "https://ja.wikipedia.org/wiki/TISI",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "1971年 4月28日",
+    "url": "https://ja.wikipedia.org/wiki/TISI",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "コンサルティング、ソフトウエア開発、アウトソーシング等のシステムインテグレーション事業",
+    "url": "https://ja.wikipedia.org/wiki/TISI",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "お客様と社会のため",
+    "url": "https://www.tisi.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "マーケティング戦略、CRM、行動分析、FAQ、SMS／CTI連携など、顧客との最適なコミュニケーションを促進",
+    "url": "https://www.tisi.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "中期経営計画（2024-2026）の2年目となった2026年3月期は、顧客のデジタル変革をはじめとするＩＴ投資需要を的確に捉えたことに加え、サービス提供の推進や生産性向上の取り組みが奏功し、増収・営業増益を実現しました",
+    "url": "https://www.tisi.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の証券会社にお問い合わせください",
+    "url": "https://www.tisi.jp/ir/stock/memo/",
+    "pass": 1
+   },
+   {
+    "quote": "トップ企業との共創や市場を席捲するサービスの提供を通じて市場との対話を深め、顧客の真の課題に対する洞察力の獲得を目指します",
+    "url": "https://www.tisi.jp/ir/policy/vision/",
+    "pass": 1
+   },
+   {
+    "quote": "業界トップクラスの顧客に対して業界に関する先見性と他社が追随できない知見を武器として、事業戦略を共に検討・推進し、ビジネスの根幹を担う事業",
+    "url": "https://www.tisi.jp/ir/policy/vision/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年4月からの3か年計画として策定した中期経営計画(2024-2026)では、前中期経営計画で実行した各種投資や顧客と関係構築を成果に結びつけるとともに、グループビジョン2032実現に向けたファーストステージとしてこれまで実行してきた投資成果を土台に明確な優位性確立に向けた差別化・集中化によりこれからの市場と顧客に選ばれ続ける理由づくりを進めてまいります",
+    "url": "https://www.tisi.jp/ir/policy/midtermpolicy/",
+    "pass": 1
+   },
+   {
+    "quote": "社会と顧客の変革",
+    "url": "https://www.tisi.jp/ir/policy/midtermpolicy/",
+    "pass": 1
+   },
+   {
+    "quote": "※3 基本的に全ての顧客に画一的な仕様を提供するサービスの形態",
+    "url": "https://www.tisi.jp/ir/policy/midtermpolicy/",
+    "pass": 1
+   },
+   {
+    "quote": "バリューチェーン全般の質的向上により社会と顧客の変革の実現をめざし、事業活動を通じた社会への影響をより広い視野で計測するため、財務指標に加え非財務指標を設定しています",
+    "url": "https://www.tisi.jp/ir/policy/midtermpolicy/",
+    "pass": 1
+   },
+   {
+    "quote": "• 根幹顧客に対する経営",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 根幹顧客との関係性強",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 大型案件のデリバリーを通じた顧客基盤強化、上流機能補完による課題解決機能の強化",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 顧客へのサービスの高付加価値化を起点としたステークホルダーとの価値循環の良質化は継続課題",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客･サービス満足度※3 60% 56%",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "加え、顧客・サービス満足度、ビジネスパートナー満足度",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "✓ トップ企業との共創や市場を席捲するサービスの提供を通じて市場との対話を深め、顧客の真の課題に対する洞察力を獲得",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "して提供し、顧客の事業成長や企業変",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 中期経営計画(2021-2023)で実行した各種投資や顧客と関係構築を成果に結びつけるとともに、",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "社会/顧客に対する価値創造型の",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これからの市場と顧客に選ばれ続ける理由づくり",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※3 基本的に全ての顧客に画一的な仕様を提供するサービスの形態",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "バリューチェーン全般の質的向上により、社会と顧客の変革を実現",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 顧客接点情報のフィー",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 顧客の変革ニーズに対して多",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "リューションによる新規顧客獲",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 顧客のビジネス変革や経営高",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との共創事業創出や",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "展開により新規顧客を獲",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "得、顧客基盤の分散を図",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "インフラを中心に顧客深耕",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "既存顧客の発展と新規顧",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "において顧客密着で培った",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 知見を横展開し業界軸で顧客開拓、顧客の基幹",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 共創ビジネスの立上げ等、顧客の戦略パートナーとし",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "三和系の出自により設立当初から銀行・カード・信販といった金融系の顧客基盤を有しており、同系列のJCBとの取引が後の強みの源流となった",
+    "url": "https://ja.wikipedia.org/wiki/TISI",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、新生TISIのありたい姿として、『お客様からさらに頼られるベストパートナーに』『持続可能な未来と人々の幸せをより広範囲に実現』『社会の変革により一層不可欠な存在へ』という3つを掲げました",
+    "url": "https://ps.nikkei.com/tisi2607/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "こうした両社の顧客基盤の厚みと現場力をかけ合わせ、より多面的かつ強力なソリューション提供力を強化することで、ともに未来を創り出すパートナーとしてお客様に寄り添っていきたいと考えています",
+    "url": "https://ps.nikkei.com/tisi2607/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "『仲間力』という言葉はグループ内にとどまらず、お客様との関係にも通じるものです",
+    "url": "https://ps.nikkei.com/tisi2607/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "スムーズな社会を実現するために、ともに課題を乗り越えるお客様の存在は不可欠であり、お客様の成長なくしてTISIの成長はありません",
+    "url": "https://ps.nikkei.com/tisi2607/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "TISIとしての新たなスタートは、お客様との新たなスタートでもあります",
+    "url": "https://ps.nikkei.com/tisi2607/index.html",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "グループのサービス",
+    "url": "https://www.tisi.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "国産ASRMサービス：Mitokude.pub",
+    "url": "https://www.tisi.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "TISIと北海道中央バス、持続可能な観光サービスの実現に向け、AIを活用したモビリティ型音声ガイドを共同開発",
+    "url": "https://www.tisi.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "TISI、WelbyおよびWelbyヘルスケアソリューションズ、地域医療連携事業の拡大に向け業務提携",
+    "url": "https://www.tisi.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "300を超えるサービス・ソリューションメニュー",
+    "url": "https://www.tisi.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "TISIは、サービスの自社開発に積極的に取り組んでおり、現在300以上のサービス・ソリューションをご提供しています",
+    "url": "https://www.tisi.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルティングなどの上流工程から、システム基盤の提供、構築、運用保守をはじめ、業界・業種特化サービス・ソリューションは、全国の拠点で広範に提供しており、大都市も地方も偏りのないデジタル社会の実現に貢献しています",
+    "url": "https://www.tisi.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "医療現場や製薬企業向けにデータ解析・治験支援・PHRサービスなどを提供",
+    "url": "https://www.tisi.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "データセンターからネットワーク、クラウド環境まで、インフラサービスをトータルに提供",
+    "url": "https://www.tisi.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "物流・エネルギー・地域サービス・公共などに特化したDX・基盤サービスを展開",
+    "url": "https://www.tisi.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "グループのサービス",
+    "url": "https://www.tisi.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関するお問い合わせ",
+    "url": "https://www.tisi.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "グループのサービス",
+    "url": "https://www.tisi.jp/ir/finance/annual_report/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関するお問い合わせ",
+    "url": "https://www.tisi.jp/ir/finance/annual_report/",
+    "pass": 1
+   },
+   {
+    "quote": "グループのサービス",
+    "url": "https://www.tisi.jp/ir/stock/quotes/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関するお問い合わせ",
+    "url": "https://www.tisi.jp/ir/stock/quotes/",
+    "pass": 1
+   },
+   {
+    "quote": "グループのサービス",
+    "url": "https://www.tisi.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "中期経営計画（2024-2026）の2年目となった2026年3月期は、顧客のデジタル変革をはじめとするＩＴ投資需要を的確に捉えたことに加え、サービス提供の推進や生産性向上の取り組みが奏功し、増収・営業増益を実現しました",
+    "url": "https://www.tisi.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループの強みである基幹系領域と業務知見を起点に、「AI駆動開発による収益の質的転換」、「Vertical AIサービスによるストック収益拡大」、「重点領域への戦略投資による収益モデルの多様化」という3つの重点戦略を推進してまいります",
+    "url": "https://www.tisi.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関するお問い合わせ",
+    "url": "https://www.tisi.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "グループのサービス",
+    "url": "https://www.tisi.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関するお問い合わせ",
+    "url": "https://www.tisi.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "グループのサービス",
+    "url": "https://www.tisi.jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関するお問い合わせ",
+    "url": "https://www.tisi.jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "グループのサービス",
+    "url": "https://www.tisi.jp/ir/finance/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関するお問い合わせ",
+    "url": "https://www.tisi.jp/ir/finance/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "グループのサービス",
+    "url": "https://www.tisi.jp/ir/other/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関するお問い合わせ",
+    "url": "https://www.tisi.jp/ir/other/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "グループのサービス",
+    "url": "https://www.tisi.jp/ir/other/mail/",
+    "pass": 1
+   },
+   {
+    "quote": "IRメールは、株式会社マジカルポケットが提供するメール配信サービスを通じて配信しています",
+    "url": "https://www.tisi.jp/ir/other/mail/",
+    "pass": 1
+   },
+   {
+    "quote": "ここから先は、IRメール配信サービスの登録・配信停止受付ページ（外部サイト）へ移動します",
+    "url": "https://www.tisi.jp/ir/other/mail/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関するお問い合わせ",
+    "url": "https://www.tisi.jp/ir/other/mail/",
+    "pass": 1
+   },
+   {
+    "quote": "グループのサービス",
+    "url": "https://www.tisi.jp/ir/finance/annual_report/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関するお問い合わせ",
+    "url": "https://www.tisi.jp/ir/finance/annual_report/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "グループのサービス",
+    "url": "https://www.tisi.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "日々の暮らしを身近なところで支えるTISインテックグループのサービスをイラストを交えて紹介しています",
+    "url": "https://www.tisi.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関するお問い合わせ",
+    "url": "https://www.tisi.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "グループのサービス",
+    "url": "https://www.tisi.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関するお問い合わせ",
+    "url": "https://www.tisi.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "グループのサービス",
+    "url": "https://www.tisi.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関するお問い合わせ",
+    "url": "https://www.tisi.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "グループのサービス",
+    "url": "https://www.tisi.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関するお問い合わせ",
+    "url": "https://www.tisi.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "グループのサービス",
+    "url": "https://www.tisi.jp/ir/highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関するお問い合わせ",
+    "url": "https://www.tisi.jp/ir/highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "グループのサービス",
+    "url": "https://www.tisi.jp/ir/finance/briefnote/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関するお問い合わせ",
+    "url": "https://www.tisi.jp/ir/finance/briefnote/",
+    "pass": 1
+   },
+   {
+    "quote": "グループのサービス",
+    "url": "https://www.tisi.jp/ir/stock/information/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関するお問い合わせ",
+    "url": "https://www.tisi.jp/ir/stock/information/",
+    "pass": 1
+   },
+   {
+    "quote": "グループのサービス",
+    "url": "https://www.tisi.jp/ir/stock/memo/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関するお問い合わせ",
+    "url": "https://www.tisi.jp/ir/stock/memo/",
+    "pass": 1
+   },
+   {
+    "quote": "グループのサービス",
+    "url": "https://www.tisi.jp/ir/stock/general_meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関するお問い合わせ",
+    "url": "https://www.tisi.jp/ir/stock/general_meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "グループのサービス",
+    "url": "https://www.tisi.jp/ir/policy/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関するお問い合わせ",
+    "url": "https://www.tisi.jp/ir/policy/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "グループのサービス",
+    "url": "https://www.tisi.jp/ir/policy/vision/",
+    "pass": 1
+   },
+   {
+    "quote": "社会課題解決が企業の至上命題化される中、これらテクノロジーを用いた多様なサービスが求められる",
+    "url": "https://www.tisi.jp/ir/policy/vision/",
+    "pass": 1
+   },
+   {
+    "quote": "トップ企業との共創や市場を席捲するサービスの提供を通じて市場との対話を深め、顧客の真の課題に対する洞察力の獲得を目指します",
+    "url": "https://www.tisi.jp/ir/policy/vision/",
+    "pass": 1
+   },
+   {
+    "quote": "【ソーシャルイノベーションサービス】",
+    "url": "https://www.tisi.jp/ir/policy/vision/",
+    "pass": 1
+   },
+   {
+    "quote": "【ＩＴ＆ビジネスオファリングサービス】",
+    "url": "https://www.tisi.jp/ir/policy/vision/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "TISインテックグループの持続的な企業価値向上に向けた考え方や取り組みをご紹介しています",
+    "url": "https://www.tisi.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "TISインテックグループのご紹介",
+    "url": "https://www.tisi.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "TISインテックグループの概要や業界環境等をご紹介しています",
+    "url": "https://www.tisi.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "TISインテックグループの事業領域と主な事業内容をご紹介しています",
+    "url": "https://www.tisi.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "日々の暮らしを身近なところで支えるTISインテックグループのサービスをイラストを交えて紹介しています",
+    "url": "https://www.tisi.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "TISインテックグループの中期経営方針をご紹介しています",
+    "url": "https://www.tisi.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "株主還元政策や配当金の推移等をご紹介しています",
+    "url": "https://www.tisi.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の株主になるメリットをご紹介しています",
+    "url": "https://www.tisi.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "OUR PHILOSOPHY(ＴＩＳインテックグループ基本理念）をご紹介しています",
+    "url": "https://www.tisi.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "TISインテックグループの目指すビジョンをご紹介しています",
+    "url": "https://www.tisi.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "TISインテックグループの中期経営方針をご紹介しています",
+    "url": "https://www.tisi.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "TISインテックグループの資本コストや株価を意識した経営の実現に向けた取り組みをご紹介しています",
+    "url": "https://www.tisi.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "コーポレートガバナンスの考え方や体制をご紹介しています",
+    "url": "https://www.tisi.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "株主還元政策や配当金の推移等をご紹介しています",
+    "url": "https://www.tisi.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "OUR PHILOSOPHYを以下にご紹介します",
+    "url": "https://www.tisi.jp/ir/policy/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループ単独ではなしえない領域において、当社グループと共創パートナーそれぞれが有する強みをかけ合わせ、新たな市場を創造する事業",
+    "url": "https://www.tisi.jp/ir/policy/vision/",
+    "pass": 1
+   },
+   {
+    "quote": "【ストラテジックパートナーシップビジネス】",
+    "url": "https://www.tisi.jp/ir/policy/vision/",
+    "pass": 1
+   },
+   {
+    "quote": "ストラテジックパートナーシップビジネス、ＩＴ＆ビジネスオファリングサービスが大きく伸長、新設のコ・クリエーションビジネスとソーシャルイノベーションサービスも一定規模に育ち、多様なビジネスがバランスよく取り込まれた事業ポートフォリオを確立",
+    "url": "https://www.tisi.jp/ir/policy/vision/",
+    "pass": 1
+   },
+   {
+    "quote": "⚫ ASEAN中心にグローバルパートナーシップを拡大、新事業創出に向けた取り組み加速",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ビジネスパートナー満足度※3 81％ 77%",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "加え、顧客・サービス満足度、ビジネスパートナー満足度",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取締役会の透明性、独立性のさらなる追求 取締役のスキルマトリクスを開示し、社外取締役が指名・報酬委員会の委員長として委員会を運営",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "わせた様々なリソースを戦略パートナーと",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "て、グループと共創パートナーそれぞれが",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "共創パートナーとして",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "様々なパートナーとの共創深化により",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ グローバルパートナーシップ拡",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "グローバルパートナーシップ 重点施策",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "パートナーとして関係性を深化",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 共創ビジネスの立上げ等、顧客の戦略パートナーとし",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ビジネスパートナー満足度",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "- 2022オフィシャルクラブパートナー",
+    "url": "https://ja.wikipedia.org/wiki/TISI",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、新生TISIのありたい姿として、『お客様からさらに頼られるベストパートナーに』『持続可能な未来と人々の幸せをより広範囲に実現』『社会の変革により一層不可欠な存在へ』という3つを掲げました",
+    "url": "https://ps.nikkei.com/tisi2607/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "TISとインテックのパートナーシップは2008年に遡り、2016年からは両社の組織を映し鏡のように再編し、ビジネス連携や人的交流を積極的に進めてきました",
+    "url": "https://ps.nikkei.com/tisi2607/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーを目指す",
+    "url": "https://ps.nikkei.com/tisi2607/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "こうした両社の顧客基盤の厚みと現場力をかけ合わせ、より多面的かつ強力なソリューション提供力を強化することで、ともに未来を創り出すパートナーとしてお客様に寄り添っていきたいと考えています",
+    "url": "https://ps.nikkei.com/tisi2607/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "TISI株式会社発足／TVCMご紹介特設ページ",
+    "url": "https://ps.nikkei.com/tisi2607/index.html",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "コンサルティングなどの上流工程から、システム基盤の提供、構築、運用保守をはじめ、業界・業種特化サービス・ソリューションは、全国の拠点で広範に提供しており、大都市も地方も偏りのないデジタル社会の実現に貢献しています",
+    "url": "https://www.tisi.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループの強みである基幹系領域と業務知見を起点に、「AI駆動開発による収益の質的転換」、「Vertical AIサービスによるストック収益拡大」、「重点領域への戦略投資による収益モデルの多様化」という3つの重点戦略を推進してまいります",
+    "url": "https://www.tisi.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "事業規模 収益性・リカーリング売上 EBITDAマージン",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/TISI",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年7月1日付でTIS株式会社と株式会社インテックの合併を完了し、商号をTISI株式会社に変更しました",
+    "url": "https://www.tisi.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月2日",
+    "url": "https://www.tisi.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月30日",
+    "url": "https://www.tisi.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月29日",
+    "url": "https://www.tisi.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月28日",
+    "url": "https://www.tisi.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期",
+    "url": "https://www.tisi.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月4日",
+    "url": "https://www.tisi.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期決算発表（15:30予定）",
+    "url": "https://www.tisi.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月30日",
+    "url": "https://www.tisi.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年から、当社はTISインテックグループの持続的な企業価値向上に向けた取組みについて、株主・投資家をはじめとするステークホルダーの皆様に、より分かりやすくご理解いただくために、重要な財務・非財務情報を関連付けながらご説明する統合報告書を発行しています",
+    "url": "https://www.tisi.jp/ir/finance/annual_report/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月、TISとインテックの合併により「TISI株式会社」が発足し、グループの中核会社として新たなスタートを切りました",
+    "url": "https://www.tisi.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月",
+    "url": "https://www.tisi.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度",
+    "url": "https://www.tisi.jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.tisi.jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.tisi.jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://www.tisi.jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度",
+    "url": "https://www.tisi.jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年度",
+    "url": "https://www.tisi.jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年度",
+    "url": "https://www.tisi.jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年度",
+    "url": "https://www.tisi.jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2018年度",
+    "url": "https://www.tisi.jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年度",
+    "url": "https://www.tisi.jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2016年度",
+    "url": "https://www.tisi.jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2015年度",
+    "url": "https://www.tisi.jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2014年度",
+    "url": "https://www.tisi.jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2013年度",
+    "url": "https://www.tisi.jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2012年度",
+    "url": "https://www.tisi.jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2011年度",
+    "url": "https://www.tisi.jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2010年度",
+    "url": "https://www.tisi.jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2009年度",
+    "url": "https://www.tisi.jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2008年度",
+    "url": "https://www.tisi.jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2016年7月1日には、完全子会社であったTIS株式会社を吸収合併し、商号を「TIS株式会社」に変更しました",
+    "url": "https://www.tisi.jp/ir/other/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "2008年（平成20年）4月1日です",
+    "url": "https://www.tisi.jp/ir/other/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年4月1日を効力発生日として、普通株式1株につき3株の割合をもって株式分割いたしました",
+    "url": "https://www.tisi.jp/ir/other/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年から、当社はTISインテックグループの持続的な企業価値向上に向けた取組みについて、株主・投資家をはじめとするステークホルダーの皆様に、より分かりやすくご理解いただくために、重要な財務・非財務情報を関連付けながらご説明する統合報告書を発行しています",
+    "url": "https://www.tisi.jp/ir/finance/annual_report/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度",
+    "url": "https://www.tisi.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.tisi.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.tisi.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://www.tisi.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度",
+    "url": "https://www.tisi.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年度",
+    "url": "https://www.tisi.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年度",
+    "url": "https://www.tisi.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年度",
+    "url": "https://www.tisi.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年度",
+    "url": "https://www.tisi.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年度",
+    "url": "https://www.tisi.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年度",
+    "url": "https://www.tisi.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年度",
+    "url": "https://www.tisi.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年度",
+    "url": "https://www.tisi.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2013年度",
+    "url": "https://www.tisi.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2012年度",
+    "url": "https://www.tisi.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2011年度",
+    "url": "https://www.tisi.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年度",
+    "url": "https://www.tisi.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2009年度",
+    "url": "https://www.tisi.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2008年度",
+    "url": "https://www.tisi.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月31日現在",
+    "url": "https://www.tisi.jp/ir/stock/information/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年4月1日を効力発生日として、普通株式1株につき3株の割合をもって株式分割いたしました",
+    "url": "https://www.tisi.jp/ir/stock/information/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年4月からの3か年計画として策定した中期経営計画(2024-2026)では、前中期経営計画で実行した各種投資や顧客と関係構築を成果に結びつけるとともに、グループビジョン2032実現に向けたファーストステージとしてこれまで実行してきた投資成果を土台に明確な優位性確立に向けた差別化・集中化によりこれからの市場と顧客に選ばれ続ける理由づくりを進めてまいります",
+    "url": "https://www.tisi.jp/ir/policy/midtermpolicy/",
+    "pass": 1
+   },
+   {
+    "quote": "2050年の世界からのバックキャストを行い、当社グループとして解決に貢献すべき社会課題として選定",
+    "url": "https://www.tisi.jp/ir/policy/midtermpolicy/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期計画",
+    "url": "https://www.tisi.jp/ir/policy/midtermpolicy/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年2月6日",
+    "url": "https://www.tisi.jp/documents/jp/ir/other/materials/200206_1.pdf",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "「Frontiers 2026」のスローガンのもと、未来志向で市場開拓と事業領域の拡大を起点としたバリューチェーン全般の質的向上に向けて、次の成長と強みを生むポジション・能力獲得の実現を目指します",
+    "url": "https://www.tisi.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループの強みである基幹系領域と業務知見を起点に、「AI駆動開発による収益の質的転換」、「Vertical AIサービスによるストック収益拡大」、「重点領域への戦略投資による収益モデルの多様化」という3つの重点戦略を推進してまいります",
+    "url": "https://www.tisi.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループ単独ではなしえない領域において、当社グループと共創パートナーそれぞれが有する強みをかけ合わせ、新たな市場を創造する事業",
+    "url": "https://www.tisi.jp/ir/policy/vision/",
+    "pass": 1
+   },
+   {
+    "quote": "フロンティア開拓を基本方針に、未来志向で市場開拓と事業領域の拡大を起点としたバリューチェーン全般の質的向上に向けて、次の成長と強みを生むポジション・能力獲得の実現を目指します",
+    "url": "https://www.tisi.jp/ir/policy/midtermpolicy/",
+    "pass": 1
+   },
+   {
+    "quote": "※1 調整後営業利益率：営業利益にのれんの償却費を足し戻した値をもとに算出",
+    "url": "https://www.tisi.jp/ir/policy/midtermpolicy/",
+    "pass": 1
+   },
+   {
+    "quote": "営業利益率 10.2% ➡ 11.6% 11.8% ＋1.6pt",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益(億円)・営業利益率",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "次なる強みへ",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "有する強みをかけ合わせ、新たな市場を",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※1 調整後営業利益率：営業利益にのれんの償却費を足し戻した値をもとに算出",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 社会課題と自社の強みを踏まえて定義した成長領域に対して経営資源を集中投下",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "調整後営業利益率13.4%※1",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上総利益率 27.6%",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 11.8%",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上総利益率 30.0%",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 13.1%",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "済の強みを持つ社会課題",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ど多様なサービスを強みに",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "強みを持つ事業主体としてサービスを発展",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益(億円)/営業利益率売上高(億円)/売上高総利益率",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益 営業利益率",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "三和系の出自により設立当初から銀行・カード・信販といった金融系の顧客基盤を有しており、同系列のJCBとの取引が後の強みの源流となった",
+    "url": "https://ja.wikipedia.org/wiki/TISI",
+    "pass": 3
+   },
+   {
+    "quote": "現在では、JCBを中心としたクレジットカード会社の基幹システム開発で国内市場シェア約50%の首位を誇るほか、ブランドデビットカードのシステム開発でも国内市場シェア約80%という圧倒的な強みを発揮している",
+    "url": "https://ja.wikipedia.org/wiki/TISI",
+    "pass": 3
+   },
+   {
+    "quote": "この合併により、旧TISが強みとしていた金融・決済分野のノウハウと、旧インテックが強みとしていた公共・産業・地方自治体分野のネットワークおよびITソリューションが融合され、国内最大級のITサービスベンダーとしての体制が強化された",
+    "url": "https://ja.wikipedia.org/wiki/TISI",
+    "pass": 3
+   },
+   {
+    "quote": "両社の強みをかけ合わせることで、より大きなシナジーが生まれると確信していますし、私自身、TISIとして新たな成長ステージに進めることにわくわくしています",
+    "url": "https://ps.nikkei.com/tisi2607/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "異なる強みを持つ仲間がつながることで、一社では解決できなかった大きな社会課題にも挑戦することができる",
+    "url": "https://ps.nikkei.com/tisi2607/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、全国に広く拠点を持ち、その土地に根差した地域課題の解決にあたってきた強みも引き続き活かしていきます",
+    "url": "https://ps.nikkei.com/tisi2607/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "今回の合併によって、両社の強みがどのように活かされていくことを期待しますか？",
+    "url": "https://ps.nikkei.com/tisi2607/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "両社には、これまで築き上げてきた独自の強みがあります",
+    "url": "https://ps.nikkei.com/tisi2607/index.html",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "当社グループの強みである基幹系領域と業務知見を起点に、「AI駆動開発による収益の質的転換」、「Vertical AIサービスによるストック収益拡大」、「重点領域への戦略投資による収益モデルの多様化」という3つの重点戦略を推進してまいります",
+    "url": "https://www.tisi.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "今後10年でビジネスモデルや産業構造、社会の在り方を変えうるポテンシャルを持つテクノロジーが、次々と実用段階に入る",
+    "url": "https://www.tisi.jp/ir/policy/vision/",
+    "pass": 1
+   },
+   {
+    "quote": "✓ 今後10年でビジネスモデルや産業構造、社会の在り方を変え",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• デジタルソリューションのビジネスモデルの頂点を目指した",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "当社グループが持続的な成長を実現するための独自の事業活動領域を戦略ドメイン として定義し、各セグメントは市場特性を踏まえた戦略ドメインのベストミックスで市場の開拓と創造を図ります",
+    "url": "https://www.tisi.jp/ir/policy/vision/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別業績の状況",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※セグメント変更に伴い、同セグメントでの比較が可能な2022年3月期を基点に作成",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、各セグメントの売上高にはセグメント間の売上高を含む",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "関連セグメント",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ セグメント毎の市場特性踏まえた多様なサービスの展開を通じて、事業領域を拡大、規模と高付加",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "市場戦略 ～セグメント別戦略～",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※各セグメントの売上高にはセグメント間の売上高を含む",
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "TISI 株式会社 — TISI 株式会社 TISI株式会社 https://www.tisi.jp",
+    "url": "https://www.tisi.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "TIS株式会社）の「企業分析［強み・弱み・展望］」 OpenWork — TIS株式会社）の「企業分析［強み・弱み・展望］」 OpenWork OpenWork https://www.openwork.jp > ... > TISI（旧：TIS株式会社）",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fs09&q_no=9",
+    "pass": 3
+   },
+   {
+    "quote": "TIS Business Innovation コラム — TIS Business Innovation コラム TISI株式会社 https://column.tis.jp",
+    "url": "https://column.tis.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "TISI - Wikipedia — TISI - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > TISI",
+    "url": "https://ja.wikipedia.org/wiki/TISI",
+    "pass": 3
+   },
+   {
+    "quote": "プレゼンテーション 資料 | IRライブラリ | IR情報 | TISI 株式会社 — プレゼンテーション 資料 | IRライブラリ | IR情報 | TISI 株式会社 TISI株式会社 https://www.tisi.jp > IR情報 > IRライブラリ",
+    "url": "https://www.tisi.jp/ir/finance/meeting/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 | TISI 株式会社 — IR情報 | TISI 株式会社 TISI株式会社 https://www.tisi.jp > ...",
+    "url": "https://www.tisi.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "TISI のIR 資料 - 3626 / プライム / 情報・通信業 — TISI のIR 資料 - 3626 / プライム / 情報・通信業 バフェット・コード https://www.buffett-code.com > company > library",
+    "url": "https://www.buffett-code.com/company/3626/library",
+    "pass": 3
+   },
+   {
+    "quote": "TISI [3626]：2026年3月期 決算説明資料 ... - 日本経済新聞 — TISI [3626]：2026年3月期 決算説明資料 ... - 日本経済新聞 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260508519082/",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリ | IR情報 | TISI 株式会社 — IRライブラリ | IR情報 | TISI 株式会社 TISI株式会社 https://www.tisi.jp > IR情報",
+    "url": "https://www.tisi.jp/ir/finance/",
+    "pass": 3
+   },
+   {
+    "quote": "「 TISI 株式会社」のホワイトペーパー一覧（1ページ目） — 「 TISI 株式会社」のホワイトペーパー一覧（1ページ目） ホワイトペーパー ダウンロードセンター https://wp.techtarget.itmedia.co.jp > contents",
+    "url": "https://wp.techtarget.itmedia.co.jp/contents?client_id=473",
+    "pass": 3
+   },
+   {
+    "quote": "TISI （3626）の親会社・連結子会社等 - IRBANK — TISI （3626）の親会社・連結子会社等 - IRBANK IRBANK https://irbank.net > 情報・通信業 > TISI",
+    "url": "https://irbank.net/E05739/ac",
+    "pass": 3
+   },
+   {
+    "quote": "未来の景色に鮮やかな彩りをつけます（対談：草彅剛 × 岡本 ... — 未来の景色に鮮やかな彩りをつけます（対談：草彅剛 × 岡本 ... ps.nikkei.com https://ps.nikkei.com > tisi2607",
+    "url": "https://ps.nikkei.com/tisi2607/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "社長 メッセージ | 企業情報 | TISI 株式会社 — 社長 メッセージ | 企業情報 | TISI 株式会社 TISI株式会社 https://www.tisi.jp > 企業情報",
+    "url": "https://www.tisi.jp/company/about/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年 新春 インタビュー 】TIS 新体制 TISI としての「新た ... — 【2026年 新春 インタビュー 】TIS 新体制 TISI としての「新た ... 週刊BCN＋ https://www.weeklybcn.com > journal > feature > detail",
+    "url": "https://www.weeklybcn.com/journal/feature/detail/20260126_213623.html",
+    "pass": 3
+   },
+   {
+    "quote": "TISI 【3626】の 社長 ・役員 - キタイシホン — TISI 【3626】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/3626/board-of-director",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.tisi.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tisi.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tisi.jp/ir/finance/annual_report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tisi.jp/ir/stock/quotes/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tisi.jp/ir/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tisi.jp/ir/finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tisi.jp/ir/news/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tisi.jp/ir/finance/meeting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tisi.jp/ir/other/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tisi.jp/ir/other/mail/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tisi.jp/ir/finance/annual_report/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tisi.jp/ir/individual/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tisi.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tisi.jp/ir/policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tisi.jp/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tisi.jp/ir/highlights/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tisi.jp/ir/finance/briefnote/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tisi.jp/ir/stock/information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tisi.jp/ir/stock/memo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tisi.jp/ir/stock/general_meeting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tisi.jp/ir/policy/philosophy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tisi.jp/ir/policy/vision/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tisi.jp/ir/policy/midtermpolicy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tisi.jp/ir/finance/briefnote/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tisi.jp/ir/finance/meeting/index.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.tisi.jp/documents/jp/news/2026/tisi_info/20261029_1.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.tisi.jp/documents/jp/news/2026/tisi_news/20261102_1.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.tisi.jp/documents/jp/ir/other/materials/200206_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tisi.jp/documents/jp/ir/finance/meeting/240508_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fs09&q_no=9",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/TISI",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ps.nikkei.com/tisi2607/index.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "TISI",
+   "results": [
+    "https://finance.yahoo.com/quote/TISI/",
+    "https://www.cnn.com/markets/stocks/TISI",
+    "https://www.nasdaq.com/market-activity/stocks/tisi",
+    "https://robinhood.com/us/en/stocks/TISI/",
+    "https://www.tisi.jp/",
+    "https://stocktwits.com/symbol/TISI",
+    "https://www.teaminc.com/investor-relations/",
+    "https://aws.amazon.com/marketplace/seller-profile?id=seller-7kewq2qxgpd6k",
+    "https://ja.wikipedia.org/wiki/TISI",
+    "https://grokipedia.com/page/benvenuto_tisi"
+   ]
+  },
+  {
+   "query": "TISI ビジネスモデル",
+   "results": [
+    "https://www.tisi.jp/",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fs09&q_no=9",
+    "https://prtimes.jp/main/html/rd/p/000001296.000011650.html",
+    "https://column.tis.jp/",
+    "https://ja.wikipedia.org/wiki/TISI",
+    "https://www.youtube.com/watch?v=JDtNsTRA7Yo",
+    "https://newspicks.com/news/17181643/",
+    "https://it.impress.co.jp/articles/-/28193",
+    "https://note.com/tanakaminoru_/n/n9e8278bcd269"
+   ]
+  },
+  {
+   "query": "TISI 決算説明資料",
+   "results": [
+    "https://www.tisi.jp/ir/finance/meeting/",
+    "https://www.tisi.jp/ir/",
+    "https://www.buffett-code.com/company/3626/library",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260508519082/",
+    "https://www.tisi.jp/ir/finance/",
+    "https://irbank.net/E05739/tdnet",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=3626",
+    "https://www.t-s-i.jp/ir/presentation/",
+    "https://finance.biggo.com/news/jpx_tdnet_140120260730503024",
+    "https://minkabu.jp/stock/3626/news/4579915"
+   ]
+  },
+  {
+   "query": "TISI 事業系統図",
+   "results": [
+    "https://www.tisi.jp/",
+    "https://ja.wikipedia.org/wiki/TISI",
+    "https://wp.techtarget.itmedia.co.jp/contents?client_id=473",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fs09&q_no=9",
+    "https://irbank.net/E05739/ac",
+    "https://japan.zdnet.com/article/35213464/",
+    "https://www.tisi.jp/company/services/",
+    "https://it.impress.co.jp/articles/-/28193",
+    "https://www2.tisi.jp/shared/images/company_organization.pdf",
+    "https://www.tss-j.co.jp/corporate/business/"
+   ]
+  },
+  {
+   "query": "TISI 社長 インタビュー",
+   "results": [
+    "https://ps.nikkei.com/tisi2607/index.html",
+    "https://www.tisi.jp/company/about/",
+    "https://www.weeklybcn.com/journal/feature/detail/20260126_213623.html",
+    "https://the-shashi.com/tse/3626/executives/ceo/okamoto-yasushi/",
+    "https://kitaishihon.com/company/3626/board-of-director",
+    "https://japan.zdnet.com/article/35236127/",
+    "https://newsdig.tbs.co.jp/articles/tut/2078416?display=1",
+    "https://www.youtube.com/@TISI_TISINTECGroup",
+    "https://www.youtube.com/watch?v=_OO8eEdyZi0",
+    "https://www.tisi.jp/onecompany/"
+   ]
+  }
+ ],
+ "missing": {}
+}

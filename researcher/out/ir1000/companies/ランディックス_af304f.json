@@ -1,0 +1,1012 @@
+{
+ "name": "ランディックス",
+ "aliases": [],
+ "context": "証券コード2981／不動産業／グロース（内国株式）／2026.03期 売上高23,528百万円 営業利益率12.8%",
+ "researched_at": "2026-11-02T19:48:20.676454+00:00",
+ "official_url": "https://landix.jp/",
+ "identified_by": "search:yahoo_jp:ランディックス",
+ "profile": {
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "不動産マッチング・コンサルティング 注文住宅マッチング・コンサルティング 不動産デベロップメント 不動産テックプラットフォーム開発・運営",
+    "url": "https://recruit.landix.jp/about/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "ビジネスモデル": [
+   {
+    "quote": "人とITの力で新たなビジネスモデルをつくる",
+    "url": "https://landix.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "人とITの力で新たなビジネスモデルを作る",
+    "url": "https://recruit.landix.jp/about/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "お客様ひとりひとりのニーズに寄り添った提案と透明性の高い情報提供により、お客様満足の最大化を実現します",
+    "url": "https://landix.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "世田谷区・目黒区・大田区・品川区・渋谷区・港区の城南エリアを中心に当社のみの取り扱い物件や価値ある不動産をセレクトした上で情報掲載すると共に、お客様のご希望条件に沿った不動産をマッチング・コンサルティングします",
+    "url": "https://landix.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ランディックスでは、不動産にイノベーションを起こし、お客様に喜ばれ豊かな未来づくりと地域社会に貢献していく仲間を募集しています",
+    "url": "https://landix.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "人生の中で一番高い買い物と言われる不動産だからこそ味わえる人生最大の喜びと感動をお客様と共に体験しませんか",
+    "url": "https://landix.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様ひとりひとりのニーズに寄り添った提案と透明性の高い情報提供により、お客様満足の最大化を実現します",
+    "url": "https://landix.jp/our-business",
+    "pass": 1
+   },
+   {
+    "quote": "世田谷区・目黒区・大田区・品川区・渋谷区・港区の城南エリアを中心に当社のみの取り扱い物件や価値ある不動産をセレクトした上で情報掲載すると共に、お客様のご希望条件に沿った不動産をマッチング・コンサルティングします",
+    "url": "https://landix.jp/our-business",
+    "pass": 1
+   },
+   {
+    "quote": "注文建築プランニングにおける複数事業者の見積比較や第三者的アドバイスなど、最適なサポート・提案を行うことでお客様ひとりひとりに豊かな住まいづくりの実現に貢献します",
+    "url": "https://landix.jp/our-business",
+    "pass": 1
+   },
+   {
+    "quote": "住む場所・働く場所に次ぐ、第3の居場所「サードプレイス」を富裕層のお客様にご提供します",
+    "url": "https://landix.jp/our-business",
+    "pass": 1
+   },
+   {
+    "quote": "当社の主たる顧客層には株式投資をされている方が多く、市場が大きく下落して資産が減少した場合には、購入を控える動きが生じます",
+    "url": "https://landix.jp/news/801",
+    "pass": 1
+   },
+   {
+    "quote": "一方で、当社の住宅用不動産は紹介・リピート顧客に支えられており、富裕層のお客様は市場の上下局面を問わず一定数が購入されるため、相対的な抵抗力はあると認識しています",
+    "url": "https://landix.jp/news/801",
+    "pass": 1
+   },
+   {
+    "quote": "Ｑ４：紹介・リピート率32.9%の分母は当該期間の成約顧客数という理解でよいでしょうか",
+    "url": "https://landix.jp/news/801",
+    "pass": 1
+   },
+   {
+    "quote": "Ａ：分母は成約顧客数で相違ありませんが実数および内訳につきましては、非開示とさせていただきます",
+    "url": "https://landix.jp/news/801",
+    "pass": 1
+   },
+   {
+    "quote": "Ｑ６：富裕層のお客様が周囲の方に貴社を紹介されるのは、どのような背景によるものでしょうか",
+    "url": "https://landix.jp/news/801",
+    "pass": 1
+   },
+   {
+    "quote": "実際に多いのは、「ランディックスで良い物件を購入できた」という顧客体験に基づくご紹介です",
+    "url": "https://landix.jp/news/801",
+    "pass": 1
+   },
+   {
+    "quote": "当社で戸建てを購入されるお客様の中には、既にマンションを所有されており、買い替えのために売却をご希望される方が多くいらっしゃいます",
+    "url": "https://landix.jp/news/801",
+    "pass": 1
+   },
+   {
+    "quote": "ただし現時点におきましては、１品ずつエンドユーザーであるお客様に販売するほうが高い利益率を確保できるため、個別販売を継続する方針です",
+    "url": "https://landix.jp/news/801",
+    "pass": 1
+   },
+   {
+    "quote": "当社代表の岡田からも、富裕層のお客様との対話において別荘が話題にのぼる機会が増加していると聞いています",
+    "url": "https://landix.jp/news/801",
+    "pass": 1
+   },
+   {
+    "quote": "現在ターゲットとしているエリアは文京区・杉並区・中野区・豊島区であり、既存店舗からアプローチが可能かつ富裕層のお客様が多く居住されている地域です",
+    "url": "https://landix.jp/news/801",
+    "pass": 1
+   },
+   {
+    "quote": "Ａ：会社側（調達金利）と顧客側（住宅ローン）の２つの側面から捉えています",
+    "url": "https://landix.jp/news/801",
+    "pass": 1
+   },
+   {
+    "quote": "顧客側（住宅ローン金利）におきましては、懸念されるほどのマイナス影響は生じていません",
+    "url": "https://landix.jp/news/801",
+    "pass": 1
+   },
+   {
+    "quote": "「金利上昇を理由に購入を見送る」というお客様のお声は、現時点で当社には届いていません",
+    "url": "https://landix.jp/news/801",
+    "pass": 1
+   },
+   {
+    "quote": "むしろ、インフレ進行や建築費高騰の見通しから、「価格や金利がさらに上昇する前に購入すべき」と判断されるお客様が多い印象を受けています",
+    "url": "https://landix.jp/news/801",
+    "pass": 1
+   },
+   {
+    "quote": "Ｑ18：一般的な不動産業者と比較して、現金（キャッシュ）で購入されるお客様が多いため金利上昇の影響が小さい、という理解でよろしいでしょうか",
+    "url": "https://landix.jp/news/801",
+    "pass": 1
+   },
+   {
+    "quote": "Ａ：当社のお客様が特別にキャッシュ購入へ偏っているという事実はございません",
+    "url": "https://landix.jp/news/801",
+    "pass": 1
+   },
+   {
+    "quote": "自己資金に余裕のあるお客様は多くいらっしゃいますが、属性や所得面で金融機関から優遇条件での融資を受けられる方が多いため、１%程度の金利水準であればフルローンを活用したいとお考えになるお客様が主流です",
+    "url": "https://landix.jp/news/801",
+    "pass": 1
+   },
+   {
+    "quote": "選択肢としてキャッシュ購入が可能な顧客層ではございますが、実態としてはローン利用が多くを占めています",
+    "url": "https://landix.jp/news/801",
+    "pass": 1
+   },
+   {
+    "quote": "Ｑ19：インフレの進行が顧客の購入意欲を刺激している側面はありますか",
+    "url": "https://landix.jp/news/801",
+    "pass": 1
+   },
+   {
+    "quote": "今後の不動産価格が上昇基調を辿ると予想されるお客様が多く、各種メディアにおきましても建築費高騰に伴う駆け込み需要が報じられています",
+    "url": "https://landix.jp/news/801",
+    "pass": 1
+   },
+   {
+    "quote": "価格上昇によって見送る層が存在する一方で、「上昇する前の早期購入」を決断されるお客様も多く見受けられます",
+    "url": "https://landix.jp/news/801",
+    "pass": 1
+   },
+   {
+    "quote": "戸建て物件におきましてはマンションほどの急激な価格高騰が生じていないため、お客様から見て相対的な割安感を感じていただきやすい環境にあります",
+    "url": "https://landix.jp/news/801",
+    "pass": 1
+   },
+   {
+    "quote": "実物資産としての土地所有を重視し、戸建てを選択されるお客様は着実に増加していると実感しています",
+    "url": "https://landix.jp/news/801",
+    "pass": 1
+   },
+   {
+    "quote": "なお、個人情報、顧客情報、および関係者の権利を侵害することになる情報につきましては開示しません",
+    "url": "https://landix.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "投資に関する決定は利用者ご自身の判断でなさるようお願いいたします",
+    "url": "https://landix.jp/ir/disclaimer/",
+    "pass": 1
+   },
+   {
+    "quote": "また、通信環境やお客様のコンピュータの状況、その他の理由により当ウェブサイトを正常に利用できない場合があります",
+    "url": "https://landix.jp/ir/disclaimer/",
+    "pass": 1
+   },
+   {
+    "quote": "建築希望顧客と建築家・施工業者との簡易マッチングスタート",
+    "url": "https://landix.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "より多くのお客様に不動産、住宅を通じて喜び感動を提供して参りたいと",
+    "url": "https://recruit.landix.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "ITの力を駆使しながら、私たちと共に多くのお客様に",
+    "url": "https://recruit.landix.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "ガラス張りの個室にはカーテン等を備えており、必要に応じてプライベートな空間を確保できるよう配慮しておいるほか、全室にモニターを完備し、視覚的で分かりやすいプレゼンテーションを行うことで、お客様一人ひとりに寄り添った満足度の高いコンサルティングを提供しています",
+    "url": "https://recruit.landix.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "仕入れ時点で「社内の販売部門がどれだけの該当顧客をストックしているか」を瞬時に判別し、仕入・販売両面でスピーディー＆的確な販売価格や顧客ニーズを判定できるシステムです",
+    "url": "https://note.com/landix/n/n61895f18e5ee",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の多くは富裕層の方々で、全成約の3-4割程度がご紹介やリピートによって成り立っており、2019年の上場以来、データ活用、収益用不動産開発を強化",
+    "url": "https://note.com/landix/n/n61895f18e5ee",
+    "pass": 3
+   },
+   {
+    "quote": "高い顧客リピート率！ 不動産に新たな選択肢を見出したランディックスの挑戦と革新｜株式会社ランディックス 岡田 和也｜賢者の選択",
+    "url": "https://kenja.jp/12006_20220315/",
+    "pass": 3
+   },
+   {
+    "quote": "高い顧客リピート率！ 不動産に新たな選択肢を見出したランディックスの挑戦と革新",
+    "url": "https://kenja.jp/12006_20220315/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "主力の注文住宅用地の他に、1棟収益用レジデンスや自己利用と収益（シェアリングサービス）の両面の成立を持つ個人富裕層向け別荘、居住用の区分マンションを取り扱っております",
+    "url": "https://landix.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスサイトへ",
+    "url": "https://landix.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "主力の注文住宅用地の他に、1棟収益用レジデンスや自己利用と収益（シェアリングサービス）の両面の成立を持つ個人富裕層向け別荘、居住用の区分マンションを取り扱っております",
+    "url": "https://landix.jp/our-business",
+    "pass": 1
+   },
+   {
+    "quote": "画一化された住宅の大量生産という旧来型のモデルではなく、パーソナライズ化された商品こそがこれからの時代には必要です",
+    "url": "https://landix.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "Ｑ５：AI活用による仕入精度向上とありますが、自社サービスでしょうか、他社サービスでしょうか",
+    "url": "https://landix.jp/news/801",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、金融商品取引法等の諸法令および東京証券取引所の定める有価証券上場規程の「会社情報の適時開示等」(以下、「適時開示規則」といいます)に従って、透明性、公平性、継続性を基本とした迅速な情報開示を行います",
+    "url": "https://landix.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "土地相場が簡単に分かる「相場ウォッチャー」サービススタート",
+    "url": "https://landix.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "土地からプランを簡単入手可能な「建築プラン提案サービス」開始",
+    "url": "https://landix.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "無料・匿名でオーダーメイド住宅の相見積ができるサービス「sumuzu Matching」スタート",
+    "url": "https://landix.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "WILLsCoinで様々な商品に交換できるサイト「プレミアム優待倶楽部PORTAL」にて",
+    "url": "https://landix.jp/ir/sbp/",
+    "pass": 1
+   },
+   {
+    "quote": "最高のサービスを提供していきましょう",
+    "url": "https://recruit.landix.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "オーダーメイド住宅マッチングサービス「sumuzu Matching」スタート",
+    "url": "https://recruit.landix.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "「オーダーメイド住宅を世の中の当たり前にしたい」という想いから、注文建築事業者と消費者のマッチングプラットフォーム「sumuzu」の運営、不動産売買・仲介、収益用不動産の販売を含めた一気通貫サービスを展開する",
+    "url": "https://kenja.jp/12006_20220315/",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルティング業務を行う設計事務所の期待値を超える革新的ソリューションとは？",
+    "url": "https://kenja.jp/12006_20220315/",
+    "pass": 3
+   },
+   {
+    "quote": "時代に即した企業のDX化と新しい働き方改革をソリューション展...",
+    "url": "https://kenja.jp/12006_20220315/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2027年３月期第１四半期決算説明ウェビナーにおけるＱ＆Ａ",
+    "url": "https://landix.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期第１四半期決算発表のお知らせ",
+    "url": "https://landix.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期第１四半期決算説明ウェビナーにおけるＱ＆Ａ | コーポレートサイト ランディックスグループ",
+    "url": "https://landix.jp/news/801",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期第１四半期決算説明ウェビナーにおけるＱ＆Ａ",
+    "url": "https://landix.jp/news/801",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期第１四半期 決算説明資料",
+    "url": "https://landix.jp/news/801",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月12日(火)",
+    "url": "https://landix.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期決算発表",
+    "url": "https://landix.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月25日(木)",
+    "url": "https://landix.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月12日(水)",
+    "url": "https://landix.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期決算発表",
+    "url": "https://landix.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月12日(木)",
+    "url": "https://landix.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期決算発表",
+    "url": "https://landix.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月10日(水)",
+    "url": "https://landix.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第3四半期決算発表",
+    "url": "https://landix.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年5月13日(木)",
+    "url": "https://landix.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期決算発表",
+    "url": "https://landix.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | コーポレートサイト ランディックスグループ",
+    "url": "https://landix.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2025年６月以降、毎年６月末日および12月末日の株主名簿に記載または記録された当社株式を保有されている株主様を対象とし、保有する株数に応じて株主優待ポイント（下表）を進呈いたします",
+    "url": "https://landix.jp/ir/sbp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年６月末日：1,500ポイント進呈（保有株式数200株）",
+    "url": "https://landix.jp/ir/sbp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025 年６月 13 日",
+    "url": "https://landix.jp/ir/wp-content/uploads/2025/06/20250613-kokoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2001年2月",
+    "url": "https://recruit.landix.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "2003年8月",
+    "url": "https://recruit.landix.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "2016年7月",
+    "url": "https://recruit.landix.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年10月",
+    "url": "https://recruit.landix.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年12月",
+    "url": "https://recruit.landix.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年1月",
+    "url": "https://recruit.landix.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年3月",
+    "url": "https://recruit.landix.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年7月",
+    "url": "https://recruit.landix.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年1月",
+    "url": "https://recruit.landix.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年4月",
+    "url": "https://recruit.landix.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年11月",
+    "url": "https://recruit.landix.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年7月",
+    "url": "https://recruit.landix.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年度",
+    "url": "https://recruit.landix.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年度",
+    "url": "https://recruit.landix.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年度",
+    "url": "https://recruit.landix.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年度",
+    "url": "https://recruit.landix.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://recruit.landix.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://recruit.landix.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://recruit.landix.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月11日 16:03",
+    "url": "https://note.com/landix/n/n61895f18e5ee",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "不動産×テクノロジーを用いた4つの強み",
+    "url": "https://landix.jp/our-business",
+    "pass": 1
+   },
+   {
+    "quote": "Ｑ３：１Ｑの進捗が好調で確定在庫も多いなか、年度後半にかけて最も注力する事項は土地仕入の加速でしょうか",
+    "url": "https://landix.jp/news/801",
+    "pass": 1
+   },
+   {
+    "quote": "なお、今期販売分につきましては仕入・販売ともに順調に進んでおり、売上達成に必要な在庫は既に確保できています",
+    "url": "https://landix.jp/news/801",
+    "pass": 1
+   },
+   {
+    "quote": "自社で在庫を保有するよりリスクが小さく、組織体制の構築とノウハウの蓄積を優先すべきと判断しているためです",
+    "url": "https://landix.jp/news/801",
+    "pass": 1
+   },
+   {
+    "quote": "Ａ：都内新築マンションの坪単価が高止まりし、在庫が増加している旨の報道は把握していますが、これは、過熱していた価格帯に一部調整が入ったものであり、戸建て市場へ直接的な悪影響を与えるものではないと分析しています",
+    "url": "https://landix.jp/news/801",
+    "pass": 1
+   },
+   {
+    "quote": "売上高営業利益率",
+    "url": "https://landix.jp/ir/performance/",
+    "pass": 1
+   },
+   {
+    "quote": "在庫回転は引き続き良好な水準です",
+    "url": "https://note.com/landix/n/n61895f18e5ee",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "一方で、当社の住宅用不動産は紹介・リピート顧客に支えられており、富裕層のお客様は市場の上下局面を問わず一定数が購入されるため、相対的な抵抗力はあると認識しています",
+    "url": "https://landix.jp/news/801",
+    "pass": 1
+   },
+   {
+    "quote": "Ｑ４：紹介・リピート率32.9%の分母は当該期間の成約顧客数という理解でよいでしょうか",
+    "url": "https://landix.jp/news/801",
+    "pass": 1
+   },
+   {
+    "quote": "実数および紹介とリピートの内訳を教えてください",
+    "url": "https://landix.jp/news/801",
+    "pass": 1
+   },
+   {
+    "quote": "Ｑ６：富裕層のお客様が周囲の方に貴社を紹介されるのは、どのような背景によるものでしょうか",
+    "url": "https://landix.jp/news/801",
+    "pass": 1
+   },
+   {
+    "quote": "Ａ：株式等の場合、紹介の背景は金銭的な利益が中心となりやすい側面があります",
+    "url": "https://landix.jp/news/801",
+    "pass": 1
+   },
+   {
+    "quote": "また、不動産は実物資産であり、購入の判断軸がご本人にあるため、他人に紹介する際の心理的負担が株式等と比較して小さいという面も影響していると考えられます",
+    "url": "https://landix.jp/news/801",
+    "pass": 1
+   },
+   {
+    "quote": "実際に多いのは、「ランディックスで良い物件を購入できた」という顧客体験に基づくご紹介です",
+    "url": "https://landix.jp/news/801",
+    "pass": 1
+   },
+   {
+    "quote": "加えて、協力業者様から「ランディックスに良い土地があるので、建築は当社で」という形でご紹介いただくケースもございます",
+    "url": "https://landix.jp/news/801",
+    "pass": 1
+   },
+   {
+    "quote": "現在ターゲットとしているエリアは文京区・杉並区・中野区・豊島区であり、既存店舗からアプローチが可能かつ富裕層のお客様が多く居住されている地域です",
+    "url": "https://landix.jp/news/801",
+    "pass": 1
+   },
+   {
+    "quote": "オフィス紹介",
+    "url": "https://recruit.landix.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "冒頭写真でも少し紹介しましたが、いよいよ当社のシェアリング別荘PJの仕入１号案件が竣工となりました",
+    "url": "https://note.com/landix/n/n61895f18e5ee",
+    "pass": 3
+   },
+   {
+    "quote": "当社事業のご紹介",
+    "url": "https://note.com/landix/n/n61895f18e5ee",
+    "pass": 3
+   },
+   {
+    "quote": "紹介・リピート",
+    "url": "https://note.com/landix/n/n61895f18e5ee",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の多くは富裕層の方々で、全成約の3-4割程度がご紹介やリピートによって成り立っており、2019年の上場以来、データ活用、収益用不動産開発を強化",
+    "url": "https://note.com/landix/n/n61895f18e5ee",
+    "pass": 3
+   },
+   {
+    "quote": "noteではIR・事業活動をご紹介致します！",
+    "url": "https://note.com/landix/n/n61895f18e5ee",
+    "pass": 3
+   },
+   {
+    "quote": "日本オフィス代表 シニアパートナー",
+    "url": "https://kenja.jp/12006_20220315/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "販売平均額は１物件あたり1.7億円（主に住宅用）であり、収益用不動産（STRIPES）は全体の20〜30%程度、仲介手数料等は売上全体の５〜７%程度と開示しています",
+    "url": "https://landix.jp/news/801",
+    "pass": 1
+   },
+   {
+    "quote": "Ｑ21：マンションの坪単価に調整の兆しが見えるなか、戸建てからマンションへ需要が回帰するリスクをどのように分析していますか",
+    "url": "https://landix.jp/news/801",
+    "pass": 1
+   },
+   {
+    "quote": "Ａ：都内新築マンションの坪単価が高止まりし、在庫が増加している旨の報道は把握していますが、これは、過熱していた価格帯に一部調整が入ったものであり、戸建て市場へ直接的な悪影響を与えるものではないと分析しています",
+    "url": "https://landix.jp/news/801",
+    "pass": 1
+   },
+   {
+    "quote": "（３）当社不動産購入時の仲介手数料割引",
+    "url": "https://landix.jp/ir/sbp/",
+    "pass": 1
+   },
+   {
+    "quote": "「ランディックスの不動産物件購入時の手数料割引チケット」をご購入頂けます",
+    "url": "https://landix.jp/ir/sbp/",
+    "pass": 1
+   },
+   {
+    "quote": "仕入れ時点で「社内の販売部門がどれだけの該当顧客をストックしているか」を瞬時に判別し、仕入・販売両面でスピーディー＆的確な販売価格や顧客ニーズを判定できるシステムです",
+    "url": "https://note.com/landix/n/n61895f18e5ee",
+    "pass": 3
+   },
+   {
+    "quote": "「ストック転換」×「富裕層データDX」の2軸によって、ランディックスは今後も高い成長を継続していきます",
+    "url": "https://note.com/landix/n/n61895f18e5ee",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ABOUT US ランディックス を知る — ABOUT US ランディックス を知る recruit.landix.jp https://recruit.landix.jp > about",
+    "url": "https://recruit.landix.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "[G－ ランディックス 2981.T] 事業計画及び成長可能性に関する ... — [G－ ランディックス 2981.T] 事業計画及び成長可能性に関する ... BigGo ファイナンス https://finance.biggo.jp > jpx_tdnet_140120260626581178",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260626581178",
+    "pass": 3
+   },
+   {
+    "quote": "ランディックス のIR責任者に突撃取材！富裕層に特化した理由 ... — ランディックス のIR責任者に突撃取材！富裕層に特化した理由 ... やさしい株のはじめ方 https://kabukiso.com > syuzai > kaisya > landix",
+    "url": "https://kabukiso.com/syuzai/kaisya/landix.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 | ランディックス コーポレートサイト — 決算説明資料 | ランディックス コーポレートサイト landix.jp https://landix.jp > presentations",
+    "url": "https://landix.jp/ir/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 | ランディックス コーポレートサイト — IR情報 | ランディックス コーポレートサイト landix.jp https://landix.jp > ...",
+    "url": "https://landix.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "ランディックス 、26/3期2Q 決算説明 note（+Disclosure ... — ランディックス 、26/3期2Q 決算説明 note（+Disclosure ... note https://note.com > ビジネス > 会計・財務・経理",
+    "url": "https://note.com/landix/n/n61895f18e5ee",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ランディックス IR 資料 - EDINET DB — 株式会社 ランディックス IR 資料 - EDINET DB EDINET DB https://edinetdb.jp > 株式会社ランディックス",
+    "url": "https://edinetdb.jp/company/E35303/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "ランディックス 、26/3期2Q決算説明note（+Disclosure ... — ランディックス 、26/3期2Q決算説明note（+Disclosure ... note https://note.com > ビジネス > 会計・財務・経理",
+    "url": "https://note.com/landix/n/n61895f18e5ee",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | コーポレートサイト ランディックス グループ — 会社概要 | コーポレートサイト ランディックス グループ landix.jp https://landix.jp > company",
+    "url": "https://landix.jp/company",
+    "pass": 3
+   },
+   {
+    "quote": "ランディックス 【2981】の 社長 ・役員 - キタイシホン — ランディックス 【2981】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/2981/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "ランディックス社長 岡田和也ってどんな人？ - note — ランディックス社長 岡田和也ってどんな人？ - note note https://note.com > キャリア > 起業・独立",
+    "url": "https://note.com/landix/n/n03eec28ea778",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ランディックス 代表取締役 岡田 和也 | NEW FACE — 株式会社 ランディックス 代表取締役 岡田 和也 | NEW FACE ジャパニーズ インベスター オンライン https://japaneseinvestor.jp > jilist > company",
+    "url": "https://japaneseinvestor.jp/jilist/company/215/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://landix.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://landix.jp/our-business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://landix.jp/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://landix.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://landix.jp/news/801",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://landix.jp/ir/irnews/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://landix.jp/ir/governance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://landix.jp/ir/highlight/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://landix.jp/ir/performance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://landix.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://landix.jp/ir/results/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://landix.jp/ir/presentations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://landix.jp/ir/securities/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://landix.jp/ir/meeting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://landix.jp/ir/others/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://landix.jp/ir/disclosure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://landix.jp/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://landix.jp/ir/quote/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://landix.jp/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://landix.jp/ir/policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://landix.jp/ir/disclaimer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://landix.jp/ir/notice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://landix.jp/company/history",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://landix.jp/ir/sbp/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://landix.jp/ir/wp-content/uploads/2025/06/20250613-kokoku.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://landix.jp/resource/img/our-business/mv1@sp.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://landix.jp/resource/img/our-business/mv2@sp.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://landix.jp/resource/img/our-business/mv3@sp.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://landix.jp/resource/img/our-business/s3_img2@sp.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://landix.jp/resource/img/our-business/s3_img1@sp.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://landix.jp/resource/img/our-business/s3_img3@sp.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://landix.jp/resource/img/our-business/s3_img4@sp.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://recruit.landix.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260626581178",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/landix/n/n61895f18e5ee",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kenja.jp/12006_20220315/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ランディックス",
+   "results": [
+    "https://landix.jp/",
+    "https://portal-landix.jp/",
+    "https://landix.jp/ir/",
+    "https://www.nikkei.com/nkd/company/?scode=2981",
+    "https://job.mynavi.jp/27/pc/search/corp246022/outline.html",
+    "https://www.openwork.jp/company.php?m_id=a0C10000011keJP",
+    "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B9",
+    "https://kabutan.jp/stock/chart?code=2981",
+    "https://ja.wikipedia.org/wiki/ランディックス",
+    "https://landix.jp/company"
+   ]
+  },
+  {
+   "query": "ランディックス ビジネスモデル",
+   "results": [
+    "https://recruit.landix.jp/about/",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260626581178",
+    "https://prtimes.jp/main/html/rd/p/000000095.000050149.html",
+    "https://kabukiso.com/syuzai/kaisya/landix.html",
+    "https://www.youtube.com/watch?v=zX74oE9m6BM",
+    "https://note.com/landix/n/n068ef576ace2",
+    "https://job.mynavi.jp/27/pc/search/corp246022/outline.html",
+    "https://ir-compass.com/company/%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B9/",
+    "https://app.en-courage.com/companies/01K03753QA94VQ3Z0KWNCCJN3Q?locale=ja",
+    "https://edinetdb.jp/company/E35303/midterm-plans/"
+   ]
+  },
+  {
+   "query": "ランディックス 決算説明資料",
+   "results": [
+    "https://landix.jp/ir/presentations/",
+    "https://landix.jp/ir/",
+    "https://note.com/landix/n/n61895f18e5ee",
+    "https://edinetdb.jp/company/E35303/ir-docs/",
+    "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20221104556458/140120221104556458.pdf",
+    "https://strainer.jp/companies/JP-2981/filings?page=2",
+    "https://ir-compass.com/company/%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B9/",
+    "https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/landix20260812.pdf",
+    "https://kabukiso.com/syuzai/kaisya/landix.html",
+    "https://www2.jpx.co.jp/disc/29810/140120250509539098.pdf"
+   ]
+  },
+  {
+   "query": "ランディックス 事業系統図",
+   "results": [
+    "https://landix.jp/ir/",
+    "https://note.com/landix/n/n61895f18e5ee",
+    "https://prtimes.jp/main/html/rd/p/000000084.000050149.html",
+    "https://production-mkdd-news.s3.ap-northeast-1.amazonaws.com/urn%3Anewsml%3Atdnet.info%3A20250509539098/140120250509539098.pdf",
+    "https://kabukiso.com/syuzai/kaisya/landix.html",
+    "https://job.mynavi.jp/27/pc/search/corp246022/outline.html",
+    "https://www.youtube.com/watch?v=zX74oE9m6BM",
+    "https://www.buffett-code.com/company/2981/",
+    "https://landix.jp/company/profile",
+    "https://vizora.meequs.com/ja/company/landix"
+   ]
+  },
+  {
+   "query": "ランディックス 社長 インタビュー",
+   "results": [
+    "https://landix.jp/company",
+    "https://kenja.jp/12006_20220315/",
+    "https://kitaishihon.com/company/2981/board-of-director",
+    "https://note.com/landix/n/n03eec28ea778",
+    "https://japaneseinvestor.jp/jilist/company/215/",
+    "https://shachomeikan.jp/corporations/22256",
+    "https://www.zenchin.com/news/-150.php",
+    "https://shachomeikan.jp/presidents/detail/10062978",
+    "https://note.com/okada_landix/n/nb54ab45edb2e",
+    "https://www.youtube.com/watch?v=-J75H0v8Xy4"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式24頁／PDF・画像8件／外部4頁・検索5回）",
+  "従業員数": "記載なし（3回確認済み：公式24頁／PDF・画像8件／外部4頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式24頁／PDF・画像8件／外部4頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式24頁／PDF・画像8件／外部4頁・検索5回）"
+ }
+}

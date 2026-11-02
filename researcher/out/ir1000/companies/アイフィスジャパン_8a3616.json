@@ -1,0 +1,1479 @@
+{
+ "name": "アイフィスジャパン",
+ "aliases": [],
+ "context": "証券コード7833／その他製品／スタンダード（内国株式）／2025.12期 売上高6,956百万円 営業利益率12.2%",
+ "researched_at": "2026-11-02T19:55:15.405327+00:00",
+ "official_url": "https://www.ifis.co.jp/",
+ "identified_by": "search:ddgs:google:アイフィスジャパン",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1995年5月26日",
+    "url": "https://www.ifis.co.jp/company/about.php",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1995",
+    "url": "https://shachomeikan.jp/corporations/20943",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "・証券調査レポートの電子配信サービス ・企業業績予想およびコンセンサスデータの提供サービス ・金融・財務関連ドキュメントの制作およびプリンティングサービス ・金融機関向けシステムインテグレーションサービス",
+    "url": "https://www.ifis.co.jp/company/about.php",
+    "pass": 1
+   },
+   {
+    "label": "事業概要",
+    "value": "証券調査レポートの電子配信サービス、企業業績予想およびコンセンサスデータの提供サービス、金融・財務関連ドキュメントの制作およびプリンティングサービス、金融機関向けシステムインテグレーションサービス",
+    "url": "https://shachomeikan.jp/corporations/20943",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "286名 ［連結］ （2025年12月31日 現在）",
+    "url": "https://www.ifis.co.jp/company/about.php",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "211名（2023年12月31日 現在）",
+    "url": "https://shachomeikan.jp/corporations/20943",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "事業領域でお客様に多彩なソリューションサービスをご提供しています",
+    "url": "https://www.ifis.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社はこれからも、お客様の声に耳を傾け、お客様の求めるサービス機能や品質の向上に努めるとともに、新市場の開拓およびIFISブランドの確立に全社一丸となって取り組み、ビジネス環境に即応した自社コンテンツの拡充を図る一方、過去の実績に固執することなく、金融業界以外の業種や個人をも対象とした幅広い、革新的なソリューションサービスの提供を目指してまいります",
+    "url": "https://www.ifis.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "投資にあたっての最終決定は、利用者ご自身の判断でなさるようにお願いいたします",
+    "url": "https://www.ifis.co.jp/about_site/",
+    "pass": 1
+   },
+   {
+    "quote": "・証券調査レポート作成システム 既存顧客、機能改修案件数が想定より少なかった",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/08/2026_2Q_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "生命保険関連の印刷・配送サービスは、大口顧客における帳票改訂が当中間連結会計期間に行われたことにより、売上",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/08/2026_2Q_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、マーケティング支援として顧客のWebサイト構築案件を受注",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/08/2026_2Q_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "グローバル企業等向けの翻訳・通訳サービスは、顧客のAI活用による翻訳業務の内製化進展に伴う受注の減少に",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/08/2026_2Q_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "生命保険関連 の印刷・配送サービスは 、大口顧客における帳票改訂 が当中間連結会計期間 に行われたことによ",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/08/B20260812-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、マーケティング 支援として顧客のWebサイト構築案件を受注",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/08/B20260812-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "グローバル企業等向けの翻訳・通訳サービスは、顧客のAI活用による翻訳業務の内製化進展に伴う受注の減少に",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/08/B20260812-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 752,239 842,173 648,196 431,721 711,139 3,385,470 - 3,385,470",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/08/B20260812-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 785,321 909,979 747,506 431,842 647,711 3,522,361 － 3,522,361",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/08/B20260812-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "生命保険関連の印刷・配送サービスは、大口顧客の発注額減少の影響を受け、売上は伸び悩みました",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/05/B20260513-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、マーケティング 支援として顧客のWebサイト構築を受注したこと",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/05/B20260513-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "グローバル企業等向けの翻訳・通訳サービスは、顧客のAI活用による翻訳業務の内製化進展に伴う受注の減少に",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/05/B20260513-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 369,714 485,480 362,451 208,507 346,884 1,773,038 － 1,773,038",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/05/B20260513-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 401,765 457,939 392,067 212,508 313,467 1,777,749 － 1,777,749",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/05/B20260513-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "生命保険関連の印刷サービスは、大口顧客からの発注額が増加し、企業年金関連サービス",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/03/B20260305-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「FDOS」）の導入社数が増加し、業績に寄与しました",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/03/B20260305-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客関連資産 10年",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/03/B20260305-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益に関する主要な事業における主な履行義務の内容及び当該履行",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/03/B20260305-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "印刷物等に関 する財又はサービスを顧客に提供した時点で収益を認識しておりま",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/03/B20260305-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "点において当該財又はサービスの支配が顧客に移転 されると判断し、出荷時点で収益",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/03/B20260305-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "契約に基づき、顧客 にサービスが提供される時間の経過に応じて 履行義務が充足さ",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/03/B20260305-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サービスに対する支配が顧客に 一定期間にわたり移転する場合には、顧客に移転す",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/03/B20260305-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客からの依頼に基づき、翻訳物等の 成果物を顧客に提供 しており、提供した時点",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/03/B20260305-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "で顧客が支配を獲得し、顧客から 取引対価の支払を受ける権利を得 ていると判断でき",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/03/B20260305-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客からの依頼に基づき、 通訳者を手配しサービスを提供しており、通訳者の役務",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/03/B20260305-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客関連資産 409,500千円",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/03/B20260305-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "契約に基づき、顧客 へのサービスの提供に応じて 履行義務が充足されると考えられ",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/03/B20260305-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(株式会社テンナイン・コミュニケーションの株式取得におけるのれん及び顧客関連資産の評価)",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/03/B20260305-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "式取得に伴い計上したのれん及び顧客関連資産の金額は、以下のとおりです",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/03/B20260305-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、顧客関連資産は、超過収益法に基づくインカム・アプローチを評価 モデルとしており",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/03/B20260305-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客関連資産の測定にあたっては売上高成長率、売上高に占める既存顧客の割合及び割引率",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/03/B20260305-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業環境等の変化により、主要な仮定に重要な変更が生じた場合には、のれん及び顧客関連",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/03/B20260305-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⑴ 受取手形、売掛金及び契約資産のうち、顧客との契約から生じた債権及び契約資産の金額は、",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/03/B20260305-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業債権である受取手形、売掛金及び契約資産は、顧客の信用リスクに晒されており、当該",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/03/B20260305-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "リスクに関しては、与信管理規程に沿って取引先ごとの期日管理及び残高管理を行いリスク低",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/03/B20260305-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約か",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/03/B20260305-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/03/B20260305-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "価の当初配分額に重要な見直しが反映されており、顧客関連資産に468,000千円、繰延税金負債に",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/03/B20260305-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、のれん及び顧客関連資産の償却期間は10年であります",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/03/B20260305-1.pdf",
+    "pass": 2
+   }
+  ],
+  "何を": [
+   {
+    "quote": "ソリューション",
+    "url": "https://www.ifis.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "証券調査レポート閲覧サービス",
+    "url": "https://www.ifis.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "コンセンサス閲覧サービス",
+    "url": "https://www.ifis.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "開示情報閲覧サービス",
+    "url": "https://www.ifis.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "コンセンサス・データ・サービス",
+    "url": "https://www.ifis.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "事業法人向けソリューション",
+    "url": "https://www.ifis.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションの",
+    "url": "https://www.ifis.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションのプロフェッショナルとして、",
+    "url": "https://www.ifis.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "システム導入の提案から設計開発、サービス開始後の運用保守まで",
+    "url": "https://www.ifis.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "人と企業をつなぐ多彩なソリューションを提供いたします",
+    "url": "https://www.ifis.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "アイフィスジャパンでは、投資情報・ドキュメントソリューション・クリエイティブの３つの",
+    "url": "https://www.ifis.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "事業領域でお客様に多彩なソリューションサービスをご提供しています",
+    "url": "https://www.ifis.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ドキュメントソリューション",
+    "url": "https://www.ifis.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金融ドキュメントのDXソリューションを中心に、システム導入提案から設計開発、サービス開始後の運用保守までワンストップでご提供します",
+    "url": "https://www.ifis.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金融情報サービスベンダーとして",
+    "url": "https://www.ifis.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金融情報サービス業界を革新するソリューションを提供いたします",
+    "url": "https://www.ifis.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ドキュメント処理と情報伝達の各ソリューション事業を展開してまいりました",
+    "url": "https://www.ifis.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "投資情報、ドキュメントソリューション、クリエイティブ",
+    "url": "https://www.ifis.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "これら３つの事業領域を柱に、当社ならではの独創性に富んだ商品ラインアップで、",
+    "url": "https://www.ifis.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "業界を革新するソリューションを提供しています",
+    "url": "https://www.ifis.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金融情報サービスを提供する株式会社アイフィスジャパン（本社：東京都港区代表取 ...",
+    "url": "https://www.ifis.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "松井証券口座会員向けサービス 『マーケットラボ米国株』開始のお知らせ",
+    "url": "https://www.ifis.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "マネックス証券新サービス 『マネックス銘柄スカウターライト』提供開始のお知らせ ～大人気の分析ツールがどなたでも利用可能に～",
+    "url": "https://www.ifis.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社のサービスを無料で体験できます",
+    "url": "https://www.ifis.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "会社やサービスへのお問い合わせ",
+    "url": "https://www.ifis.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.ifis.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "証券調査レポート閲覧サービス",
+    "url": "https://www.ifis.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "コンセンサス閲覧サービス",
+    "url": "https://www.ifis.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "開示情報閲覧サービス",
+    "url": "https://www.ifis.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "コンセンサス・データ・サービス",
+    "url": "https://www.ifis.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "事業法人向けソリューション",
+    "url": "https://www.ifis.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "当社はドキュメンテーション×情報×金融をキーワードとして、WEBと紙のビジネスを両輪とした独創的なサービスの提供を行い、業容を拡大してまいりました",
+    "url": "https://www.ifis.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "・ソリューションのプロフェッショナルとして、システム導入の提案から設計開発、サービス開始後の運用保守までワンストップで提供",
+    "url": "https://www.ifis.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "当社はこれからも、お客様の声に耳を傾け、お客様の求めるサービス機能や品質の向上に努めるとともに、新市場の開拓およびIFISブランドの確立に全社一丸となって取り組み、ビジネス環境に即応した自社コンテンツの拡充を図る一方、過去の実績に固執することなく、金融業界以外の業種や個人をも対象とした幅広い、革新的なソリューションサービスの提供を目指してまいります",
+    "url": "https://www.ifis.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.ifis.co.jp/company/about.php",
+    "pass": 1
+   },
+   {
+    "quote": "証券調査レポート閲覧サービス",
+    "url": "https://www.ifis.co.jp/company/about.php",
+    "pass": 1
+   },
+   {
+    "quote": "コンセンサス閲覧サービス",
+    "url": "https://www.ifis.co.jp/company/about.php",
+    "pass": 1
+   },
+   {
+    "quote": "開示情報閲覧サービス",
+    "url": "https://www.ifis.co.jp/company/about.php",
+    "pass": 1
+   },
+   {
+    "quote": "コンセンサス・データ・サービス",
+    "url": "https://www.ifis.co.jp/company/about.php",
+    "pass": 1
+   },
+   {
+    "quote": "事業法人向けソリューション",
+    "url": "https://www.ifis.co.jp/company/about.php",
+    "pass": 1
+   },
+   {
+    "quote": "・証券調査レポートの電子配信サービス",
+    "url": "https://www.ifis.co.jp/company/about.php",
+    "pass": 1
+   },
+   {
+    "quote": "・企業業績予想およびコンセンサスデータの提供サービス",
+    "url": "https://www.ifis.co.jp/company/about.php",
+    "pass": 1
+   },
+   {
+    "quote": "・金融・財務関連ドキュメントの制作およびプリンティングサービス",
+    "url": "https://www.ifis.co.jp/company/about.php",
+    "pass": 1
+   },
+   {
+    "quote": "・金融機関向けシステムインテグレーションサービス",
+    "url": "https://www.ifis.co.jp/company/about.php",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.ifis.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "証券調査レポート閲覧サービス",
+    "url": "https://www.ifis.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "コンセンサス閲覧サービス",
+    "url": "https://www.ifis.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "開示情報閲覧サービス",
+    "url": "https://www.ifis.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "コンセンサス・データ・サービス",
+    "url": "https://www.ifis.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "事業法人向けソリューション",
+    "url": "https://www.ifis.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社金融データソリューションズを子会社化",
+    "url": "https://www.ifis.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "「IFIS Consensus Report」サービスを開始",
+    "url": "https://www.ifis.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "音声配信サービスを開始",
+    "url": "https://www.ifis.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "投資信託におけるEDINET関連サービスを開始",
+    "url": "https://www.ifis.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "「IFIS IR Manager」サービスを開始",
+    "url": "https://www.ifis.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "「IFIS Consensus Manager」サービスを開始",
+    "url": "https://www.ifis.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "「IFIS Consensus Data」サービスを開始",
+    "url": "https://www.ifis.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "E-mail・Fax同報配信サービスを開始",
+    "url": "https://www.ifis.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "「IFIS Research Manager」サービスを開始",
+    "url": "https://www.ifis.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.ifis.co.jp/ir/finance/",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "システム導入の提案から設計開発、サービス開始後の運用保守まで",
+    "url": "https://www.ifis.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金融ドキュメントのDXソリューションを中心に、システム導入提案から設計開発、サービス開始後の運用保守までワンストップでご提供します",
+    "url": "https://www.ifis.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "・ソリューションのプロフェッショナルとして、システム導入の提案から設計開発、サービス開始後の運用保守までワンストップで提供",
+    "url": "https://www.ifis.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "安定運用を目的とした体制強化に伴い保守費用が増加したため、前年同期比で増収減益となりました",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/08/2026_2Q_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "スの品質向上及び安定運用を目的とした体制強化に伴い保守費用が増加したため、前年同期比で増収減益となりま",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/08/B20260812-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "い保守費用が増加したため、前年同期比で減収減益となりました",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/05/B20260513-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "月額報酬は原則 として、年額の12分の１を 従業員給与の 支給日に合わせて当月分を",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/03/B20260305-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "各取締役に対する具体的な月額報酬の決定は、当社全体の業績等を勘案しつつ各取締",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/03/B20260305-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "年額72,000千円以内（ただし、使用人分給与は含 まない",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/03/B20260305-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⒊ 取締役(監査等委員 )の報酬限度額は、2021 年３月 26日開催の第26 回定時株主総会において年額",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/03/B20260305-1.pdf",
+    "pass": 2
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年12月期第2四半期決算説明会（動画配信）",
+    "url": "https://www.ifis.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月18日に2026年12月期第2四半期決算説明会を開催いたしました",
+    "url": "https://www.ifis.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第2四半期（中間期）決算短信",
+    "url": "https://www.ifis.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第1四半期決算短信",
+    "url": "https://www.ifis.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月18日",
+    "url": "https://www.ifis.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第2四半期決算説明会（動画配信）",
+    "url": "https://www.ifis.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月18日に2026年12月期第2四半期決算説明会を開催いたしました",
+    "url": "https://www.ifis.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月12日",
+    "url": "https://www.ifis.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第2四半期（中間期）決算短信",
+    "url": "https://www.ifis.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月13日",
+    "url": "https://www.ifis.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第1四半期決算短信",
+    "url": "https://www.ifis.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年03月27日",
+    "url": "https://www.ifis.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年03月05日",
+    "url": "https://www.ifis.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年02月27日",
+    "url": "https://www.ifis.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月31日時点における、当社の支配株主等に関する事項についてお知らせいたします",
+    "url": "https://www.ifis.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "1995年5月26日",
+    "url": "https://www.ifis.co.jp/company/about.php",
+    "pass": 1
+   },
+   {
+    "quote": "沿革｜会社情報｜株式会社アイフィスジャパン",
+    "url": "https://www.ifis.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "2026年04月",
+    "url": "https://www.ifis.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "2026年01月",
+    "url": "https://www.ifis.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "2024年10月",
+    "url": "https://www.ifis.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "2024年6月",
+    "url": "https://www.ifis.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "2023年09月",
+    "url": "https://www.ifis.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "2023年07月",
+    "url": "https://www.ifis.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "2022年04月",
+    "url": "https://www.ifis.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "2016年08月",
+    "url": "https://www.ifis.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "2016年02月",
+    "url": "https://www.ifis.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "2015年08月",
+    "url": "https://www.ifis.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "2015年02月",
+    "url": "https://www.ifis.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "2014年09月",
+    "url": "https://www.ifis.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "2012年02月",
+    "url": "https://www.ifis.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "2010年11月",
+    "url": "https://www.ifis.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "2008年09月",
+    "url": "https://www.ifis.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "2007年07月",
+    "url": "https://www.ifis.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "2006年09月",
+    "url": "https://www.ifis.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "2006年03月",
+    "url": "https://www.ifis.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "2006年02月",
+    "url": "https://www.ifis.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "2005年09月",
+    "url": "https://www.ifis.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "2004年06月",
+    "url": "https://www.ifis.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "2004年04月",
+    "url": "https://www.ifis.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "2004年01月",
+    "url": "https://www.ifis.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "2003年01月",
+    "url": "https://www.ifis.co.jp/company/history.php",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期（連結）",
+    "url": "https://www.ifis.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期",
+    "url": "https://www.ifis.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年12月期",
+    "url": "https://www.ifis.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年12月期",
+    "url": "https://www.ifis.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年12月期",
+    "url": "https://www.ifis.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年12月期",
+    "url": "https://www.ifis.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年03月27日",
+    "url": "https://www.ifis.co.jp/ir/stockholders_meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年03月05日",
+    "url": "https://www.ifis.co.jp/ir/stockholders_meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年03月31日",
+    "url": "https://www.ifis.co.jp/ir/stockholders_meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年03月28日",
+    "url": "https://www.ifis.co.jp/ir/stockholders_meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年03月06日",
+    "url": "https://www.ifis.co.jp/ir/stockholders_meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年03月25日",
+    "url": "https://www.ifis.co.jp/ir/stockholders_meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年03月22日",
+    "url": "https://www.ifis.co.jp/ir/stockholders_meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年02月29日",
+    "url": "https://www.ifis.co.jp/ir/stockholders_meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年08月29日",
+    "url": "https://www.ifis.co.jp/ir/stockholders_meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年08月28日",
+    "url": "https://www.ifis.co.jp/ir/stockholders_meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年08月04日",
+    "url": "https://www.ifis.co.jp/ir/stockholders_meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年03月27日",
+    "url": "https://www.ifis.co.jp/ir/stockholders_meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年03月24日",
+    "url": "https://www.ifis.co.jp/ir/stockholders_meeting/",
+    "pass": 1
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "事業の構成比",
+    "url": "https://www.ifis.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別業績",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/08/2026_2Q_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "前年同期差前年同期比（％）2026年2Q実績前年同期セグメント",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/08/2026_2Q_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント売上構成比/2025年2Q",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/08/2026_2Q_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント構成比/2026年2Q",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/08/2026_2Q_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別業績 投資情報事業",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/08/2026_2Q_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "前年同期差前年同期比（％）2026年2Q実績前年同期 構成比％金額構成比％金額",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/08/2026_2Q_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "＜セグメント内主要サービス状況＞",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/08/2026_2Q_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別業績 ドキュメントソリューション事業",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/08/2026_2Q_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別業績 ファンドディスクロージャー事業",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/08/2026_2Q_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "前年同期差前年同期比（％）2026年2Q実績前年同期セグメント 構成比％金額構成比％金額",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/08/2026_2Q_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別業績 ITソリューション事業",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/08/2026_2Q_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別業績 ランゲージサービス事業",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/08/2026_2Q_kessan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記） ……………………………………………………………………………………… 8",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/08/B20260812-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントごとの経営成績は以下のとおりであります",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/08/B20260812-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/08/B20260812-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/08/B20260812-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 297,601 108,246 113,550 59,531 48,501 627,432 △208,666 418,766",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/08/B20260812-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/08/B20260812-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/08/B20260812-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．報告セグメントごとの売上高及び利益又は損失の金額に関する情報並びに収益の分解情報",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/08/B20260812-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．セグメント利益の調整額△208,666千円には、セグメント間取引消去△2,122千円及び各報告セグメントに配",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/08/B20260812-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "全社費用は、主に報告セグメントに 帰属しない一",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/08/B20260812-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益は、中間連結損益計算書の営業利益と調整を行っております",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/08/B20260812-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．報告セグメントごとの固定資産の減損損失又はのれん等に関する情報",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/08/B20260812-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 330,163 65,530 183,293 51,687 35,409 666,083 △223,593 442,489",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/08/B20260812-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．セグメント利益の調整額△223,593千円には、セグメント間取引消去 △62千円及び各報告セグメントに 配分",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/08/B20260812-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "全社費用は、主に報告セグメントに 帰属しない一般",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/08/B20260812-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記） ……………………………………………………………………………………… 8",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/05/B20260513-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントごとの経営成績は以下のとおりであります",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/05/B20260513-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/05/B20260513-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/05/B20260513-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 142,973 98,362 73,412 27,859 14,906 357,514 △109,741 247,772",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/05/B20260513-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 174,421 52,191 97,346 24,649 6,313 354,922 △122,557 232,364",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/05/B20260513-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/05/B20260513-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/05/B20260513-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．報告セグメントごとの売上高及び利益又は損失の金額に関する情報並びに収益の分解情報",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/05/B20260513-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．セグメント利益の調整額△109,741千円には、セグメント間取引消去△227千円及び各報告セグメントに配分",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/05/B20260513-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "全社費用は、主に報告セグメントに 帰属しない一般",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/05/B20260513-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益は、四半期連結損益計算書の営業利益と調整を行っております",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/05/B20260513-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．前中間連結会計期間において企業結合に係る暫定的な会計処理の確定を行っており、セグメント情報につい",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/05/B20260513-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．報告セグメントごとの固定資産の減損損失又はのれん等に関する情報",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/05/B20260513-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．セグメント利益の調整額△122,557千円には、セグメント間取引消去1,468千円及び各報告セグメントに配分",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/05/B20260513-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの業績は、次のとおりであります",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/03/B20260305-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⒉ 全社（共通）として記載されている従業員数は、特定セグメントに区分できない管理部門に所属して",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/03/B20260305-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/03/B20260305-1.pdf",
+    "pass": 2
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "これまでも即戦力となる人材の採用や、パートナー企業との協業により、必要な専門知識・",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/03/B20260305-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "理体制、クオリティーの高いサービスを提供できる営業体制を維持する必要があります",
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/03/B20260305-1.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社アイフィスジャパン — アイフィスジャパンは、金融情報サービスベンダーとして、4つの事業を柱に、当社ならではの独創性に富んだ商品ラインアップで、金融情報サービス業界を革新するソリューションを提供しています。",
+    "url": "https://www.ifis.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜会社情報｜株式会社アイフィスジャパン株式会社アイフィスジャパンの魅力解説 ビジネスモデルと成長戦略に迫...株式会社アイフィスジャパン（東京都） (7833 東証スタンダード)の会...【企業研究】アイフィスジャパンの業績推移から中長期の経営戦略まで...株式会社アイフィスジャパン（東京都）の企業情報・会社概要 | 営業GO...アイフィスジャパン（7833）｜上場企業 事業内容の全文 — May 26, 1995 · IFIS Japan Limited. 株式会社アイフィスジャパン IFIS JAPAN SEEKING FOR BEST FINANCIAL COMMUNICATION ADDRESS 〒106-0032 東京都港区六本木1-8-7 MFPR六本木麻布台ビル ACCESS SITE MENU サービス 投資情報 ソリューション クリエイティブ 事業法人向け ソリ",
+    "url": "https://www.ifis.co.jp/company/about.php",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アイフィスジャパンの魅力解説 ビジネスモデルと成長戦略に迫... — Feb 25, 2025 · 採用情報 アイフィスジャパンの初任給は公表されていませんが、金融やITの知識が求められる職種が多いと考えられます。 年間の休日は125日程度とされており、オンとオフの切り替えをしやすい環境を整えているようです。",
+    "url": "https://consovation.com/株式会社アイフィスジャパンの魅力解説-ビジネス/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アイフィスジャパン（東京都） (7833 東証スタンダード)の会... — 事業概要 株式会社アイフィスジャパンは、「IDEA FOR ALL FINANCIAL COMMUNICATION」を掲げ、投資情報、ドキュメントソリューション、クリエイティブの3つの事業領域を柱に、高付加価値の情報・データ・コンテンツを提供しています。",
+    "url": "https://compalyze.co.jp/company/9010001009543",
+    "pass": 3
+   },
+   {
+    "quote": "【企業研究】アイフィスジャパンの業績推移から中長期の経営戦略まで... — Mar 26, 2026 · 株式会社アイフィスジャパン（7833）の企業研究。売上・利益・年収・人的資本・有価証券報告書から将来性・財務健康度・就職偏差値をまとめて掲載。",
+    "url": "https://kigyo-scope.jp/company/7833/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明会｜開示情報｜IR情報｜株式会社アイフィスジャパン — 株式会社アイフィスジャパンの決算説明会をお知らせします。",
+    "url": "https://www.ifis.co.jp/ir/results_briefing/",
+    "pass": 3
+   },
+   {
+    "quote": "決算短信｜開示情報｜IR情報｜株式会社アイフィスジャパン — 株式会社アイフィスジャパンの決算短信をお知らせします。",
+    "url": "https://www.ifis.co.jp/ir/financial_results/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アイフィスジャパン IR資料 — EDINET DB — Apr 19, 2026 · EDINET DB > 企業一覧 > 株式会社アイフィスジャパン > IR資料 株式会社アイフィスジャパン — IR資料 統合報告書・中期経営計画・決算説明資料などのIR資料を、AIがセクション単位で構造化したデータです。 本文の検索・テーマタグでの絞り込みが可能です。",
+    "url": "https://edinetdb.jp/company/E05512/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "アイフィスジャパンのIR資料 - 7833 / ｽﾀﾝﾀﾞｰﾄﾞ / その他製品 — May 13, 2026 · アイフィスジャパン（7833 / ｽﾀﾝﾀﾞｰﾄﾞ / その他製品）のIR資料の一覧を表示しています。有価証券報告書や決算短信、そしてTDnetで開示された適時開示資料をPDFでご覧になれます。",
+    "url": "https://www.buffett-code.com/company/7833/library",
+    "pass": 3
+   },
+   {
+    "quote": "アイフィスジャパン（7833）のIR情報・決算資料 | IRBANK — Jan 26, 2026 · アイフィスジャパン（7833）のIR情報・適時開示一覧。決算発表、業績修正などの開示情報を掲載。",
+    "url": "https://irbank.net/7833/ir",
+    "pass": 3
+   },
+   {
+    "quote": "7833 アイフィスジャパン | 事業内容 - 有価証券報告書-第29期 (2023/... — 4つの事業を柱に、当社グループならではの独創性に富んだ商品ラインアップで、金融情報サービス業界を革新するソリューションを提供しております。 [事業系統図] 当社の事業系統図は、次のとおりです。 (注)無印 連結子会社 ※1 持分法適用関連会社",
+    "url": "https://irbank.net/E05512/business?f=S100T3XH",
+    "pass": 3
+   },
+   {
+    "quote": "7833 アイフィスジャパン | 事業内容 - 有価証券報告書-第28期 (2022/... — Jan 1, 2022 · 4つの事業を柱に、当社グループならではの独創性に富んだ商品ラインアップで、金融情報サービス業界を革新するソリューションを提供しております。 [事業系統図] 当社の事業系統図は、次のとおりです。 (注)無印 連結子会社 ※1 持分法適用関連会社",
+    "url": "https://irbank.net/E05512/business?f=S100QG6G",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アイフィスジャパン - 事業の内容 (2025年12月期) 有価証券報... — 5つの事業を柱に、当社グループならではの独創性に富んだ商品ラインアップで、金融情報サービス業界を革新するソリューションを提供しております。 〔事業系統図〕 当社の事業系統図は、次のとおりです。 (注)無印 連結子会社 ※1 持分法適用関連会社",
+    "url": "https://donburi.accountant/report/?t=3&es=3903",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜会社情報｜株式会社アイフィスジャパン — May 26, 1995 · IFIS Japan Limited. 株式会社アイフィスジャパン IFIS JAPAN SEEKING FOR BEST FINANCIAL COMMUNICATION ADDRESS 〒106-0032 東京都港区六本木1-8-7 MFPR六本木麻布台ビル ACCESS SITE MENU サービス 投資情報 ソリューション クリエイティブ 事業法人向け ソリューション TOP 会社情報 企業 ...",
+    "url": "https://www.ifis.co.jp/company/about.php",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アイフィスジャパン の企業情報｜社長\"直結\"メディア『社長名...株式会社アイフィスジャパン・大沢和春社長のインタビュー動画｜転機経営者インタビュー動画－株式会社アイフィスジャパン 取締役会長 大...経営者インタビュー動画－株式会社アイフィスジャパン 取締役会長 大...会社概要｜会社情報｜株式会社アイフィスジャパン大澤 弘毅（アイフィスジャパン 社長）の経歴・出身・人となり｜社長J...メッセージ｜会社情報｜株式会社アイフィスジャパン — 「株式会社アイフィスジャパン」の企業情報ページです。「株式会社アイフィスジャパン」の会社概要、社長のインタビューを掲載しています。社長名鑑に掲載しているインタビュー動画や記事を見て、社長に直接メッセージを送ったり、右腕に立候補したりすることが可能です。 株式会社アイフィスジャパン 1995年 東京都港区六本木1-8-7 MFPR六本木麻布台ビ",
+    "url": "https://shachomeikan.jp/corporations/20943",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アイフィスジャパン・大沢和春社長のインタビュー動画｜転機 — 株式会社アイフィスジャパン 1995年 東京都港区六本木1-8-7 MFPR六本木麻布台ビル 大沢 和春 211名（2023年12月31日 現在） 証券調査レポートの電子配信サービス、企業業績予想およびコンセンサスデータの提供サービス、金融・財務関連ドキュメントの制作およびプリンティングサービス、金融機関 ...",
+    "url": "https://ten-ki.jp/presidents/detail/10061185",
+    "pass": 3
+   },
+   {
+    "quote": "経営者インタビュー動画－株式会社アイフィスジャパン 取締役会長 大... — 【金融情報サービスベンダー。証券会社等に情報を提供するデータサービス事業を展開】「株式会社アイフィスジャパン」の取締役会長、「大沢和春」氏の動画を配信。社長直結メディア『社長名鑑』は気になる経営者に直接提案が可能なメディアです。",
+    "url": "https://newsakura.shachomeikan.jp/presidents/detail/10061185/1214",
+    "pass": 3
+   },
+   {
+    "quote": "経営者インタビュー動画－株式会社アイフィスジャパン 取締役会長 大...会社概要｜会社情報｜株式会社アイフィスジャパン大澤 弘毅（アイフィスジャパン 社長）の経歴・出身・人となり｜社長J...メッセージ｜会社情報｜株式会社アイフィスジャパン — 株式会社アイフィスジャパン 金融情報サービスベンダー。 証券会社等に情報を提供するデータサービス事業を展開 株式会社アイフィスジャパン 取締役会長 大沢 和春 Vol.4 キャリア シェア Tweet May 26, 1995 · IFIS Japan Limited. 株式会社アイフィスジャパン IFIS JAPAN SEEKING FOR BEST FINANCIAL COMMUNICATION ADDRESS 〒106-0032 東京都港区六本木1-8-7 MFPR六本木麻布台ビル ACCESS SITE MENU サービス 投資情報 ソリュ",
+    "url": "https://shachomeikan.jp/presidents/detail/10061185/1213",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜会社情報｜株式会社アイフィスジャパン大澤 弘毅（アイフィスジャパン 社長）の経歴・出身・人となり｜社長J...メッセージ｜会社情報｜株式会社アイフィスジャパン — May 26, 1995 · IFIS Japan Limited. 株式会社アイフィスジャパン IFIS JAPAN SEEKING FOR BEST FINANCIAL COMMUNICATION ADDRESS 〒106-0032 東京都港区六本木1-8-7 MFPR六本木麻布台ビル ACCESS SITE MENU サービス 投資情報 ソリューション クリエイティブ 事業法人向け ソリューション TOP 会社情報 企業 ... アイフィスジャパンの社長は大澤 弘毅さん。2021年に42歳で就任、1979年生まれ。最初の会社はエヌケーケートレーディングで、ほかの会社を経て入社した社長です。就任してから売上は1.3",
+    "url": "https://www.ifis.co.jp/company/about.php",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.ifis.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ifis.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ifis.co.jp/company/about.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ifis.co.jp/company/history.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ifis.co.jp/ir/finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ifis.co.jp/ir/stockholders_meeting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ifis.co.jp/ir/ir_open/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ifis.co.jp/ir/financial_results/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ifis.co.jp/ir/annual_report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ifis.co.jp/ir/results_briefing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ifis.co.jp/ir/other_open/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ifis.co.jp/ir/electronic_advertisement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ifis.co.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ifis.co.jp/ir/stock_information.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ifis.co.jp/ir/stock_price_information.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ifis.co.jp/about_site/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ifis.co.jp/ir/news/?y=2026",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/08/2026_2Q_kessan.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/08/B20260812-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/05/B20260513-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/03/B20260327-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/03/B20260305-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2026/02/B20260227-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2025/03/B20250331-3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ifis.co.jp/wp/wp-content/uploads/2025/03/B20250331-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://irbank.net/E05512/business?f=S100T3XH",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://shachomeikan.jp/corporations/20943",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ten-ki.jp/presidents/detail/10061185",
+    "status": "http_404",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "アイフィスジャパン",
+   "results": [
+    "https://www.ifis.co.jp/",
+    "https://www.ifis.co.jp/company/about.php",
+    "https://finance.yahoo.co.jp/quote/7833.T",
+    "https://kabutan.jp/stock/?code=7833",
+    "https://www.traders.co.jp/stocks/62_7833/",
+    "https://finance.yahoo.co.jp/quote/7833.T/profile",
+    "https://kabuyoho.jp/reportTop?bcode=7833",
+    "https://ja.wikipedia.org/wiki/アイエスジャパン"
+   ]
+  },
+  {
+   "query": "アイフィスジャパン ビジネスモデル",
+   "results": [
+    "https://www.ifis.co.jp/",
+    "https://www.ifis.co.jp/company/about.php",
+    "https://consovation.com/株式会社アイフィスジャパンの魅力解説-ビジネス/",
+    "https://compalyze.co.jp/company/9010001009543",
+    "https://kigyo-scope.jp/company/7833/",
+    "https://eigyo-go.com/company/2732455",
+    "https://jigyou.kabu-trendpro.com/company.php?ticker=7833"
+   ]
+  },
+  {
+   "query": "アイフィスジャパン 決算説明資料",
+   "results": [
+    "https://www.ifis.co.jp/ir/results_briefing/",
+    "https://www.ifis.co.jp/ir/financial_results/",
+    "https://edinetdb.jp/company/E05512/ir-docs/",
+    "https://www.buffett-code.com/company/7833/library",
+    "https://irbank.net/7833/ir",
+    "https://treelazy.com/stock-jp/7833/conference",
+    "https://irbank.net/E05512/reports"
+   ]
+  },
+  {
+   "query": "アイフィスジャパン 事業系統図",
+   "results": [
+    "https://www.ifis.co.jp/",
+    "https://irbank.net/E05512/business?f=S100T3XH",
+    "https://irbank.net/E05512/business?f=S100QG6G",
+    "https://donburi.accountant/report/?t=3&es=3903",
+    "https://www.ifis.co.jp/company/about.php",
+    "https://jigyou.kabu-trendpro.com/company.php?ticker=7833",
+    "https://kitaishihon.com/company/7833/business"
+   ]
+  },
+  {
+   "query": "アイフィスジャパン 社長 インタビュー",
+   "results": [
+    "https://shachomeikan.jp/corporations/20943",
+    "https://ten-ki.jp/presidents/detail/10061185",
+    "https://newsakura.shachomeikan.jp/presidents/detail/10061185/1214",
+    "https://shachomeikan.jp/presidents/detail/10061185/1213",
+    "https://www.ifis.co.jp/company/about.php",
+    "https://shachojp.com/p/ifis-japan",
+    "https://www.ifis.co.jp/company/message.php"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式17頁／PDF・画像8件／外部3頁・検索5回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式17頁／PDF・画像8件／外部3頁・検索5回）",
+  "利益の源泉": "記載なし（3回確認済み：公式17頁／PDF・画像8件／外部3頁・検索5回）"
+ }
+}

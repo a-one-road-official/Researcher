@@ -1,0 +1,774 @@
+{
+ "name": "ＤＴＳ",
+ "aliases": [],
+ "context": "証券コード9682／情報・通信業／プライム（内国株式）／2026.03期 売上高135,213百万円 営業利益率12.2%",
+ "researched_at": "2026-11-02T19:54:25.595967+00:00",
+ "official_url": "https://dts.com/",
+ "identified_by": "search:yahoo_jp:DTS",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1972年 （昭和47年） 8月25日",
+    "url": "https://ja.wikipedia.org/wiki/DTS_(%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0)",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "情報サービス事業",
+    "url": "https://ja.wikipedia.org/wiki/DTS_(%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0)",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "連結: 1259.08億円 単独: 862.63億円 (2025/3月期)",
+    "url": "https://ja.wikipedia.org/wiki/DTS_(%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0)",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "連結：5,792人 単体：2,971人 （2021年3月末現在）",
+    "url": "https://ja.wikipedia.org/wiki/DTS_(%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0)",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "ビジネスモデル": [
+   {
+    "quote": "また、デジタル技術（BI・AI・クラウド・IoT）を活用した新しいビジネスモデルを、それぞれの業界・業種に応じて、開発力・技術力・ソリューション力を総合的に組み合わせ、ワンストップサービスにて提供しています",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、デジタル技術（BI・AI・クラウド・IoT）を活用した新しいビジネスモデルを、それぞれの業界・業種に応じて、開発力・技術力・ソリューション力を総合的に組み合わせ、ワンストップサービスにて提供しています",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.php",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "社会やお客様の課題に応じたトータルソリューションを提供して参ります",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "豊富な実績に基づくソリューション開発はもとより、メガバンク統合のような大規模案件や、お客様の海外事業展開におけるIT導入支援にもお応えしています",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "これらのリソースを最大限活用し、お客様に最適なソリューションを提供しています",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "そうした開発実績・ノウハウはもとより、自社および他社のパッケージやサービスを活用し、お客様の目的・課題解決策に最適な技術や製品を選択し提案しています",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の運用に関する課題をスペシャリストが解決し、システム運用の最適化を提案しています",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらにマルチベンダーに対応したサーバー構築やクラウドの導入、また、BPOサービスとしてお客様の業務支援や、業務改善のスペシャリストがRPAを活用した業務の自動化と業務プロセス改善を提案しています",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "様々な業種・業態のお客様が利用されている基幹系システムや、業務・情報系システムの基盤となるITインフラを、最適な構成で提供しています",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様のIT戦略実現と課題の解決、デジタル・トランスフォーメーションの推進を支援するために、各メーカーの製品やソリューションおよび通信・IDC事業社のクラウドなど、最新技術（仮想化技術などの基盤技術）と業務ノウハウを駆使して提案しています",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "金融業、通信業、小売・卸売業、製造業等の幅広い分野のお客様を支援しています",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "顧客を深く理解し、CXを向上させたい",
+    "url": "https://www.dts.co.jp/ir/library/explanatory/",
+    "pass": 3
+   },
+   {
+    "quote": "ＤＴＳグループの主要取引先",
+    "url": "https://www.dts.co.jp/ir/library/explanatory/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客を深く理解し、CXを向上させたい",
+    "url": "https://www.dts.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "ＤＴＳグループの主要取引先",
+    "url": "https://www.dts.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "社会やお客様の課題に応じたトータルソリューションを提供して参ります",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.php",
+    "pass": 3
+   },
+   {
+    "quote": "豊富な実績に基づくソリューション開発はもとより、メガバンク統合のような大規模案件や、お客様の海外事業展開におけるIT導入支援にもお応えしています",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.php",
+    "pass": 3
+   },
+   {
+    "quote": "これらのリソースを最大限活用し、お客様に最適なソリューションを提供しています",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.php",
+    "pass": 3
+   },
+   {
+    "quote": "そうした開発実績・ノウハウはもとより、自社および他社のパッケージやサービスを活用し、お客様の目的・課題解決策に最適な技術や製品を選択し提案しています",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.php",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の運用に関する課題をスペシャリストが解決し、システム運用の最適化を提案しています",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.php",
+    "pass": 3
+   },
+   {
+    "quote": "さらにマルチベンダーに対応したサーバー構築やクラウドの導入、また、BPOサービスとしてお客様の業務支援や、業務改善のスペシャリストがRPAを活用した業務の自動化と業務プロセス改善を提案しています",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.php",
+    "pass": 3
+   },
+   {
+    "quote": "様々な業種・業態のお客様が利用されている基幹系システムや、業務・情報系システムの基盤となるITインフラを、最適な構成で提供しています",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.php",
+    "pass": 3
+   },
+   {
+    "quote": "お客様のIT戦略実現と課題の解決、デジタル・トランスフォーメーションの推進を支援するために、各メーカーの製品やソリューションおよび通信・IDC事業社のクラウドなど、最新技術（仮想化技術などの基盤技術）と業務ノウハウを駆使して提案しています",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.php",
+    "pass": 3
+   },
+   {
+    "quote": "金融業、通信業、小売・卸売業、製造業等の幅広い分野のお客様を支援しています",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.php",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "ITプラットフォームサービス事業本部",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルソリューション事業本部_1",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルソリューション事業本部_2",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルソリューション",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "法人ソリューション",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "ITサービスプラットフォーム事業本部",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "社会やお客様の課題に応じたトータルソリューションを提供して参ります",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "豊富な実績に基づくソリューション開発はもとより、メガバンク統合のような大規模案件や、お客様の海外事業展開におけるIT導入支援にもお応えしています",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "これらのリソースを最大限活用し、お客様に最適なソリューションを提供しています",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、デジタル・トランスフォーメーションに対応した最適なサービスを提供しています",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "これまで小売・流通業や、航空運輸業を中心に、多くの業界・幅広いニーズに対してトータルサービスを提供してきました",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "そうした開発実績・ノウハウはもとより、自社および他社のパッケージやサービスを活用し、お客様の目的・課題解決策に最適な技術や製品を選択し提案しています",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、デジタル技術（BI・AI・クラウド・IoT）を活用した新しいビジネスモデルを、それぞれの業界・業種に応じて、開発力・技術力・ソリューション力を総合的に組み合わせ、ワンストップサービスにて提供しています",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらにマルチベンダーに対応したサーバー構築やクラウドの導入、また、BPOサービスとしてお客様の業務支援や、業務改善のスペシャリストがRPAを活用した業務の自動化と業務プロセス改善を提案しています",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様のIT戦略実現と課題の解決、デジタル・トランスフォーメーションの推進を支援するために、各メーカーの製品やソリューションおよび通信・IDC事業社のクラウドなど、最新技術（仮想化技術などの基盤技術）と業務ノウハウを駆使して提案しています",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル展開する日系法人企業へSIサービスの提供を2007年から本格的に開始",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.dts.co.jp/ir/library/explanatory/",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューショントップ",
+    "url": "https://www.dts.co.jp/ir/library/explanatory/",
+    "pass": 3
+   },
+   {
+    "quote": "業界別ソリューション",
+    "url": "https://www.dts.co.jp/ir/library/explanatory/",
+    "pass": 3
+   },
+   {
+    "quote": "領域別ソリューション",
+    "url": "https://www.dts.co.jp/ir/library/explanatory/",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューション・パッケージ一覧",
+    "url": "https://www.dts.co.jp/ir/library/explanatory/",
+    "pass": 3
+   },
+   {
+    "quote": "ITサービスマネジメントシステム",
+    "url": "https://www.dts.co.jp/ir/library/explanatory/",
+    "pass": 3
+   },
+   {
+    "quote": "IRメール配信サービス",
+    "url": "https://www.dts.co.jp/ir/library/explanatory/",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.dts.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューショントップ",
+    "url": "https://www.dts.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "業界別ソリューション",
+    "url": "https://www.dts.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "領域別ソリューション",
+    "url": "https://www.dts.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューション・パッケージ一覧",
+    "url": "https://www.dts.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "ITサービスマネジメントシステム",
+    "url": "https://www.dts.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "IRメール配信サービス",
+    "url": "https://www.dts.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "情報サービス事業",
+    "url": "https://ja.wikipedia.org/wiki/DTS_(%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0)",
+    "pass": 3
+   },
+   {
+    "quote": "日本トラスティ・サービス信託銀行（株）",
+    "url": "https://ja.wikipedia.org/wiki/DTS_(%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0)",
+    "pass": 3
+   },
+   {
+    "quote": "ITプラットフォームサービス事業本部",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.php",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルソリューション事業本部_1",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.php",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルソリューション事業本部_2",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.php",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルソリューション",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.php",
+    "pass": 3
+   },
+   {
+    "quote": "法人ソリューション",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.php",
+    "pass": 3
+   },
+   {
+    "quote": "ITサービスプラットフォーム事業本部",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.php",
+    "pass": 3
+   },
+   {
+    "quote": "社会やお客様の課題に応じたトータルソリューションを提供して参ります",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.php",
+    "pass": 3
+   },
+   {
+    "quote": "豊富な実績に基づくソリューション開発はもとより、メガバンク統合のような大規模案件や、お客様の海外事業展開におけるIT導入支援にもお応えしています",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.php",
+    "pass": 3
+   },
+   {
+    "quote": "これらのリソースを最大限活用し、お客様に最適なソリューションを提供しています",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.php",
+    "pass": 3
+   },
+   {
+    "quote": "また、デジタル・トランスフォーメーションに対応した最適なサービスを提供しています",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.php",
+    "pass": 3
+   },
+   {
+    "quote": "これまで小売・流通業や、航空運輸業を中心に、多くの業界・幅広いニーズに対してトータルサービスを提供してきました",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.php",
+    "pass": 3
+   },
+   {
+    "quote": "そうした開発実績・ノウハウはもとより、自社および他社のパッケージやサービスを活用し、お客様の目的・課題解決策に最適な技術や製品を選択し提案しています",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.php",
+    "pass": 3
+   },
+   {
+    "quote": "また、デジタル技術（BI・AI・クラウド・IoT）を活用した新しいビジネスモデルを、それぞれの業界・業種に応じて、開発力・技術力・ソリューション力を総合的に組み合わせ、ワンストップサービスにて提供しています",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.php",
+    "pass": 3
+   },
+   {
+    "quote": "さらにマルチベンダーに対応したサーバー構築やクラウドの導入、また、BPOサービスとしてお客様の業務支援や、業務改善のスペシャリストがRPAを活用した業務の自動化と業務プロセス改善を提案しています",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.php",
+    "pass": 3
+   },
+   {
+    "quote": "お客様のIT戦略実現と課題の解決、デジタル・トランスフォーメーションの推進を支援するために、各メーカーの製品やソリューションおよび通信・IDC事業社のクラウドなど、最新技術（仮想化技術などの基盤技術）と業務ノウハウを駆使して提案しています",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.php",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル展開する日系法人企業へSIサービスの提供を2007年から本格的に開始",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.php",
+    "pass": 3
+   },
+   {
+    "quote": "4月 - 同社 ビジネスソリューション事業本部 企画部長",
+    "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E6%9D%91%E5%8F%8B%E6%9C%97",
+    "pass": 3
+   },
+   {
+    "quote": "7月 - 同社 ビジネスソリューション事業本部 データセンタビジネスユニット長",
+    "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E6%9D%91%E5%8F%8B%E6%9C%97",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社NTTデータ 執行役員 ビジネスソリューション事業本部長",
+    "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E6%9D%91%E5%8F%8B%E6%9C%97",
+    "pass": 3
+   },
+   {
+    "quote": "ITプラットフォームサービス事業本部",
+    "url": "https://www.dts.co.jp/recruit/career/index/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルソリューション事業本部_1",
+    "url": "https://www.dts.co.jp/recruit/career/index/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルソリューション事業本部_2",
+    "url": "https://www.dts.co.jp/recruit/career/index/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルソリューション",
+    "url": "https://www.dts.co.jp/recruit/career/index/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "法人ソリューション事業本部",
+    "url": "https://www.dts.co.jp/recruit/career/index/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "ITプラットフォームサービス",
+    "url": "https://www.dts.co.jp/recruit/career/index/interview/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "創業以来、銀行、信託銀行、証券など金融ビジネス全般のシステム開発・保守に半世紀弱の実績を有するとともに、大規模システム統合やシステム再構築などに対応する専門技術者が多数在籍し、業界随一の業務ノウハウを蓄積",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/DTS_(%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0)",
+    "pass": 3
+   },
+   {
+    "quote": "創業以来、銀行、信託銀行、証券など金融ビジネス全般のシステム開発・保守に半世紀弱の実績を有するとともに、大規模システム統合やシステム再構築などに対応する専門技術者が多数在籍し、業界随一の業務ノウハウを蓄積",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.php",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E6%9D%91%E5%8F%8B%E6%9C%97",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "事業領域・特徴｜ DTS を知る｜キャリア採用｜株式会社 DTS — 事業領域・特徴｜ DTS を知る｜キャリア採用｜株式会社 DTS 株式会社ＤＴＳ https://www.dts.co.jp > index > company > business",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "DTS の「企業分析［強み・弱み・展望］」 OpenWork — DTS の「企業分析［強み・弱み・展望］」 OpenWork OpenWork https://www.openwork.jp > ... > DTS",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrzK&q_no=9",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 DTS 「システム開発とフォーカス ビジネス 」に学ぶ ... — 株式会社 DTS 「システム開発とフォーカス ビジネス 」に学ぶ ... otsumu.co.jp https://otsumu.co.jp > ナレッジ > 企業事例",
+    "url": "https://otsumu.co.jp/knowledge/cases/dts-system-integration-focus-business.html",
+    "pass": 3
+   },
+   {
+    "quote": "トップページ | DXの推進で、業務効率化と新たな価値を創出する — トップページ | DXの推進で、業務効率化と新たな価値を創出する 株式会社ＤＴＳ https://dts-digital.jp > トップページ",
+    "url": "https://dts-digital.jp/%E3%83%88%E3%83%83%E3%83%97%E3%83%9A%E3%83%BC%E3%82%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "DTS Group Report 2025 — DTS Group Report 2025 finance-frontend-pc-dist.west.edge.storage-yahoo.jp PDF https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp > ...",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251011/20251009571043.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 資料 | 株式会社 DTS — 決算説明 会 資料 | 株式会社 DTS 株式会社ＤＴＳ https://www.dts.co.jp > ホーム > IR情報トップ > IR資料",
+    "url": "https://www.dts.co.jp/ir/library/explanatory/",
+    "pass": 3
+   },
+   {
+    "quote": "IR 資料 ｜株式会社 DTS — IR 資料 ｜株式会社 DTS 株式会社ＤＴＳ https://www.dts.co.jp > ホーム > IR情報トップ",
+    "url": "https://www.dts.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "【 DTS 】[9682]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 DTS 】[9682]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=9682",
+    "pass": 3
+   },
+   {
+    "quote": "DTS 、4-6月期(1Q)経常は12％減益で着地 - 株探 — DTS 、4-6月期(1Q)経常は12％減益で着地 - 株探 株探 https://kabutan.jp > 決算速報",
+    "url": "https://kabutan.jp/news/?b=k202607310226",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報トップ｜株式会社 DTS — IR情報トップ｜株式会社 DTS 株式会社ＤＴＳ https://www.dts.co.jp > ...",
+    "url": "https://www.dts.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "DTS (情報システム) - Wikipedia — DTS (情報システム) ... 株式会社DTS （ディーティーエス、 英: DTS Corporation）は、 東京都 中央区 に本社を置く、独立系のシステムインテグレーターである。 金融・通信向けの開発実績や強みを持つ。 東京証券取引所 プライム市場上場。",
+    "url": "https://ja.wikipedia.org/wiki/DTS_(情報システム)",
+    "pass": 3
+   },
+   {
+    "quote": "事業領域・特徴｜DTSを知る｜キャリア採用｜株式会社DTS — 株式会社DTSはコンサルティングから設計、開発、ハードウェア・ソフトウェアの選定・導入、運用、保守にいたるまでシステムに関するすべてをサポートする総合情報サービス企業です。",
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.php",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報トップ｜株式会社DTS — 企業情報トップ｜株式会社DTSはコンサルティングから設計、開発、ハードウェア・ソフトウェアの選定・導入、運用、保守にいたるまでシステムに関するすべてをサポートする総合情報サービス企業です。",
+    "url": "https://www.dts.co.jp/corp/",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報 | DTSインサイト — 私たちDTSインサイトは、組込みシステム開発で培ったデバッグ・計測・解析技術を強みに、車載ECU、医療機器、社会インフラ、FA、放送監視、建設DXなど幅広い分野を支援するエンジニアリング企業です。 当社ではRAM計測、静的解析／動的解析、トレーサビリティ管理、 Arm開発環境、ICEなどの ...",
+    "url": "https://www.dts-insight.co.jp/corporate/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社DTS | 事業概要・投資方針・投資実績 | FIRST CVC — 株式会社DTSの事業概要、投資方針、投資実績をまとめた企業プロフィール。 1972年設立の独立系総合システムインテグレーター（東証プライム市場、証券コード：9682）。",
+    "url": "https://www.firstcvc.jp/company/dts.co.jp",
+    "pass": 3
+   },
+   {
+    "quote": "北村友朗 - Wikipedia — 2021年 4月より 株式会社DTS 代表取締役社長 [1][2]。 座右の銘は「おもしろきこともなき世をおもしろく すみなすものは心なりけり」（高杉晋作 の句）。 ITで世の中をより便利に豊かにしたい、という思いがある [3]。",
+    "url": "https://ja.wikipedia.org/wiki/北村友朗",
+    "pass": 3
+   },
+   {
+    "quote": "インタビュー一覧｜キャリア採用｜株式会社DTS — 株式会社DTSはコンサルティングから設計、開発、ハードウェア・ソフトウェアの選定・導入、運用、保守にいたるまでシステムに関するすべてをサポートする総合情報サービス企業です。",
+    "url": "https://www.dts.co.jp/recruit/career/index/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "ITプラットフォームサービス事業本部｜インタビュー一覧｜キャリア採... — 株式会社DTSはコンサルティングから設計、開発、ハードウェア・ソフトウェアの選定・導入、運用、保守にいたるまでシステムに関するすべてをサポートする総合情報サービス企業です。",
+    "url": "https://www.dts.co.jp/recruit/career/index/interview/detail04.html",
+    "pass": 3
+   },
+   {
+    "quote": "【DTS執行役員・阿部氏インタビュー】銀行でのキャリアからCISO、そし... — Feb 12, 2026 · 金融・公共領域で実績を持つ DTS。 その執行役員を務める阿部氏は、銀行でフィンテックの最前線を経験し、CISOとしてガバナンスやサイバーセキュリティといった組織の守りを担ってきた経歴を持ちます。 本記事では、阿部氏の銀行員時代の原体験から、DTSが推進する中期計画、そして生成AI ...",
+    "url": "https://goodway.co.jp/original_news/25813",
+    "pass": 3
+   },
+   {
+    "quote": "DTS インサイト_社員インタビュー — 社員インタビュー 様々な個性が重なり合って成長していく そんな「職場の声」を紹介します 自分の仕事に常にベストをつくしながらもプロジェクト全体の状況に心を配る 開発マネージャー 2007年入社 出身学部や学科にとらわれず",
+    "url": "https://www.dts-insight.co.jp/corporate/recruit/interview.html",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "会社概要／沿革",
+    "url": "https://www.dts.co.jp/ir/library/explanatory/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要／沿革",
+    "url": "https://www.dts.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年2月",
+    "url": "https://ja.wikipedia.org/wiki/DTS_(%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0)",
+    "pass": 3
+   },
+   {
+    "quote": "1997年9月11日上場",
+    "url": "https://ja.wikipedia.org/wiki/DTS_(%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0)",
+    "pass": 3
+   },
+   {
+    "quote": "1972年設立の日本企業",
+    "url": "https://ja.wikipedia.org/wiki/DTS_(%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0)",
+    "pass": 3
+   },
+   {
+    "quote": "1997年上場の企業",
+    "url": "https://ja.wikipedia.org/wiki/DTS_(%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0)",
+    "pass": 3
+   },
+   {
+    "quote": "2021年9月23日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E6%9D%91%E5%8F%8B%E6%9C%97",
+    "pass": 3
+   },
+   {
+    "quote": "1964年生",
+    "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E6%9D%91%E5%8F%8B%E6%9C%97",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "金融・通信向けの開発実績や強みを持つ",
+    "url": "https://ja.wikipedia.org/wiki/DTS_(%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0)",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://dts.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dts.com/virtualx/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dts.com/virtualx-pc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dts.com/virtualx-accessibility-features/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dts.com/virtualx-for-pc-accessibility-statement/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrzK&q_no=9",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dts.co.jp/ir/library/explanatory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dts.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/DTS_(%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dts.co.jp/recruit/career/index/company/business.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E6%9D%91%E5%8F%8B%E6%9C%97",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dts.co.jp/recruit/career/index/interview/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "DTS",
+   "results": [
+    "https://www.defensetravel.osd.mil/",
+    "https://dts.com/",
+    "https://en.wikipedia.org/wiki/DTS,_Inc.",
+    "https://www.travel.dod.mil/Programs/DoD-Travel-Systems/Defense-Travel-System/",
+    "https://www.dhra.mil/Headquarters/Defense-Travel-System-DTS/",
+    "https://dtsweb.com/",
+    "https://ja.wikipedia.org/wiki/DTS",
+    "https://www.travel.dod.mil/Programs/Defense-Travel-System/",
+    "https://www.transactiontracking.com/",
+    "https://grokipedia.com/page/dual_therapy_stent"
+   ]
+  },
+  {
+   "query": "DTS ビジネスモデル",
+   "results": [
+    "https://www.dts.co.jp/recruit/career/index/company/business.html",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrzK&q_no=9",
+    "https://otsumu.co.jp/knowledge/cases/dts-system-integration-focus-business.html",
+    "https://dts-digital.jp/%E3%83%88%E3%83%83%E3%83%97%E3%83%9A%E3%83%BC%E3%82%B8/",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251011/20251009571043.pdf",
+    "https://www.mcframe.com/partner/dts.html",
+    "https://www.biz-integral.com/showcase/dts/",
+    "https://prtimes.jp/main/html/rd/p/000000028.000081622.html",
+    "https://edinetdb.jp/company/E04861/midterm-plans/"
+   ]
+  },
+  {
+   "query": "DTS 決算説明資料",
+   "results": [
+    "https://www.dts.co.jp/ir/library/explanatory/",
+    "https://www.dts.co.jp/ir/library/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=9682",
+    "https://kabutan.jp/news/?b=k202607310226",
+    "https://www.dts.co.jp/ir/",
+    "https://edinetdb.jp/company/E04861/ir-docs/",
+    "https://investalk.jp/9682/dts-2026-03-earnings/",
+    "https://dtsweb-dev-f6rk.movabletype.biz/ir/library/short/",
+    "https://edinetdb.jp/company/E04861/presentations/",
+    "https://treelazy.com/stock-jp/9682/conference"
+   ]
+  },
+  {
+   "query": "DTS 事業系統図",
+   "results": [
+    "https://ja.wikipedia.org/wiki/DTS_(情報システム)",
+    "https://www.dts.co.jp/recruit/career/index/company/business.php",
+    "https://www.dts.co.jp/corp/",
+    "https://www.dts-insight.co.jp/corporate/",
+    "https://www.firstcvc.jp/company/dts.co.jp",
+    "https://irbank.net/E04861/business",
+    "https://irbank.net/E04861/business?f=S100R1K4"
+   ]
+  },
+  {
+   "query": "DTS 社長 インタビュー",
+   "results": [
+    "https://ja.wikipedia.org/wiki/北村友朗",
+    "https://www.dts.co.jp/recruit/career/index/interview/",
+    "https://www.dts.co.jp/recruit/career/index/interview/detail04.html",
+    "https://goodway.co.jp/original_news/25813",
+    "https://www.dts-insight.co.jp/corporate/recruit/interview.html",
+    "https://open-keieisha-db.com/executives/kitamura-tomoaki",
+    "https://www.dts-insight.co.jp/corporate/recruit/interview08.html"
+   ]
+  }
+ ],
+ "missing": {
+  "どうやって売るか": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部8頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部8頁・検索5回）"
+ }
+}

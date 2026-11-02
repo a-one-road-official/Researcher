@@ -1,0 +1,1998 @@
+{
+ "name": "ラサ工業",
+ "aliases": [],
+ "context": "証券コード4022／化学／プライム（内国株式）／2026.03期 売上高47,727百万円 営業利益率12.6%",
+ "researched_at": "2026-11-02T19:48:05.637064+00:00",
+ "official_url": "https://www.rasa.co.jp/",
+ "identified_by": "search:yahoo_jp:ラサ工業",
+ "profile": {
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "35,411 49,600 42,788 45,421 47,727",
+    "url": "https://www.rasa.co.jp/ir/finance/highlight.html",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "",
+    "url": "https://kitaishihon.com/company/4022/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "38,168 4,491 1,574 44,235 1,186 45,421 － 45,421",
+    "url": "https://kitaishihon.com/company/4022/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部 売上高又は振替高",
+    "value": "10 － － 10 33 44 △44 －",
+    "url": "https://kitaishihon.com/company/4022/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "39,956 4,197 2,395 46,550 1,176 47,727 － 47,727",
+    "url": "https://kitaishihon.com/company/4022/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部 売上高又は振替高",
+    "value": "19 － － 19 34 54 △54 －",
+    "url": "https://kitaishihon.com/company/4022/business",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "硫酸、肥料、研磨材など新製品を次々事業化しました",
+    "url": "https://www.rasa.co.jp/about-rasa/rasa-history/rasa-history.html",
+    "pass": 1
+   },
+   {
+    "quote": "東日本における化学製品の生産拠点とします",
+    "url": "https://www.rasa.co.jp/about-rasa/rasa-history/rasa-history.html",
+    "pass": 1
+   },
+   {
+    "quote": "直接目に触れる機会が少ないラサ工業の製品",
+    "url": "https://www.rasa.co.jp/about-rasa/rasa-living/rasa-living.html",
+    "pass": 1
+   },
+   {
+    "quote": "ラサ工業の製品は、幅広く、身近なところで活躍しています",
+    "url": "https://www.rasa.co.jp/about-rasa/rasa-living/rasa-living.html",
+    "pass": 1
+   },
+   {
+    "quote": "● 製品用途は事業部別に色分けをしています",
+    "url": "https://www.rasa.co.jp/about-rasa/rasa-living/rasa-living.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品ページはこちら ＞",
+    "url": "https://www.rasa.co.jp/about-rasa/rasa-living/rasa-living.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品ページ（破砕機）はこちら ＞",
+    "url": "https://www.rasa.co.jp/about-rasa/rasa-living/rasa-living.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品ページ（選別機）はこちら ＞",
+    "url": "https://www.rasa.co.jp/about-rasa/rasa-living/rasa-living.html",
+    "pass": 1
+   },
+   {
+    "quote": "プラスチックをはじめとする化学製品を生産する石油コンビナートで活用されています",
+    "url": "https://www.rasa.co.jp/about-rasa/rasa-living/rasa-living.html",
+    "pass": 1
+   },
+   {
+    "quote": "環境に優しいラサ工業の製品",
+    "url": "https://www.rasa.co.jp/about-rasa/rasa-living/rasa-living.html",
+    "pass": 1
+   },
+   {
+    "quote": "直接目に触れる機会が少ないラサ工業の製品",
+    "url": "https://www.rasa.co.jp/about-rasa/rasa-semiconductor/rasa-semiconductor.html",
+    "pass": 1
+   },
+   {
+    "quote": "ラサ工業の製品は半導体製造工程において活躍しています",
+    "url": "https://www.rasa.co.jp/about-rasa/rasa-semiconductor/rasa-semiconductor.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品を見る前に、そもそも半導体とはどのようなものなのかをわかりやすくご説明します",
+    "url": "https://www.rasa.co.jp/about-rasa/rasa-semiconductor/rasa-semiconductor.html",
+    "pass": 1
+   },
+   {
+    "quote": "半導体を使った製品例",
+    "url": "https://www.rasa.co.jp/about-rasa/rasa-semiconductor/rasa-semiconductor.html",
+    "pass": 1
+   },
+   {
+    "quote": "そのうち、ラサ工業の製品は「前工程」で活用されています",
+    "url": "https://www.rasa.co.jp/about-rasa/rasa-semiconductor/rasa-semiconductor.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業・製品情報",
+    "url": "https://www.rasa.co.jp/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業・製品情報トップ",
+    "url": "https://www.rasa.co.jp/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "現在の主力である化成品事業では、100年続くリン酸技術を進化させ、半導体向けの高純度リン酸において豊富な実績を誇っています",
+    "url": "https://www.rasa.co.jp/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業・製品情報",
+    "url": "https://www.rasa.co.jp/ir/backno.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業・製品情報トップ",
+    "url": "https://www.rasa.co.jp/ir/backno.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、化成品事業、機械事業、電子材料事業他の各分野にわたって事業を展開しており、当社グループの製品は直接的、間接的に各分野の需要変動や世界各地の市場における経済情勢の影響を受ける可能性があります",
+    "url": "https://www.rasa.co.jp/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、化成品事業の半導体製造工程向けの高純度リン酸、電子材料事業の化合物半導体向け高純度無機素材など、電子部品・デバイス市場向け製品を販売しておりますが、電子部品・デバイス市場は環境の変化により、しばしば需要の急激な増減が起こる場合があります",
+    "url": "https://www.rasa.co.jp/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、製品の高付加価値化や新製品の開発に努め新しい需要を取り込み、事業基盤の更なる安定と強化をはかっております",
+    "url": "https://www.rasa.co.jp/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "化成品事業では燐系製品の主原料である黄燐を海外からの輸入により調達しておりますが、各国の各種制度の変更、電力事情、並びに世界的な需給などの価格の暴騰暴落要因が内在しております",
+    "url": "https://www.rasa.co.jp/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "このため、主要原料の調達ルートを分散し逼迫局面における安定確保をはかり、価格上昇が起こった場合の製品価格への転嫁をはかっております",
+    "url": "https://www.rasa.co.jp/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、製品輸出及び原材料の輸入等で外貨建て取引を行っており、業績に為替相場の変動による影響を受ける可能性があります",
+    "url": "https://www.rasa.co.jp/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "(6) 製品品質",
+    "url": "https://www.rasa.co.jp/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、原材料・製品などの検査徹底に加え生産工程の管理により、製品の品質の確保に努めておりますが、原材料などの予期せぬ品質不良などにより当社グループが生産した製品に起因する損害が発生する可能性があります",
+    "url": "https://www.rasa.co.jp/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、当社グループは、第三者の知的財産を侵害しないよう十分な配慮のもとに製品開発を行なっておりますが、他社等より知的財産を侵害したとして紛争が生じる可能性は避けられません",
+    "url": "https://www.rasa.co.jp/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、地震、台風等による大規模災害が発生した場合、生産拠点の被災による製品供給への影響、賃貸物件の被災による賃貸事業への影響、営業拠点の被災による営業活動への影響及び顧客の被災による販売への影響並びに設備等の修復に伴う一時的な費用の発生が、当社グループの業績及び財政状況に影響を与える可能性があります",
+    "url": "https://www.rasa.co.jp/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "その他、国内外において戦争等の紛争が発生した場合、当社グループのサプライチェーンが影響を受け、事業や商品供給の停滞、原価上昇につながる可能性があります",
+    "url": "https://www.rasa.co.jp/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループでは、事業活動の多くを情報システムに依存しており、通信ネットワークの障害やハードウェア・ソフトウェアの不具合、及びランサムウェア等によるサイバー攻撃が発生した場合、生産・出荷の停止やサービス提供の中断など、事業活動に影響を及ぼす可能性があります",
+    "url": "https://www.rasa.co.jp/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "東京証券取引所の「適時開示情報閲覧サービス ＴＤｎｅｔ」において、公開いたします",
+    "url": "https://www.rasa.co.jp/ir/management/dpolicy.html",
+    "pass": 1
+   },
+   {
+    "quote": "このため、将来の予想に関する記述と当社が実際に行なう事業や業績とは、経済情勢や製品需要動向、競合他社の販売戦略、技術革新、自然要因などの様々な前提条件が変動することにより、実際とは異なる結果が生じる場合がありリスクや不確定要因を含んでおります",
+    "url": "https://www.rasa.co.jp/ir/management/dpolicy.html",
+    "pass": 1
+   },
+   {
+    "quote": "が１億円未満であるため、金融商品取引法による有価証券",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260814520434_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◼ リン系製品",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◼ その他製品（コンデンサー向け原料、消臭剤など）",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◼ リン系製品は、一般品が減収となったものの、半導体向け高純度リン酸は国内向けおよび海外向けが堅調に",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◼ 凝集剤は、上水道向け製品が堅調に推移し、増収",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◼ その他製品は、コンデンサー向け原料が堅調に推移し、増収",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◼ セグメント利益は、リン系製品・凝集剤・その他製品ともに堅調に推移し、 303 百万円（ +22.3 ％）の増益",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品別売上高の推移",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（リン系製品の一部と連結子会社他の一部の合計）",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■リン系製品（含む高純度リン酸大阪製造分）",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■その他製品",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※ 棚卸資産＝商品及び製品＋仕掛品＋原材料及び貯蔵品",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「 26 年3月期決算説明会資料」 40頁記載の地域別製品順序が",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上イメージ： 高純度無機素材 4製品（ガリウム、インジウム、赤リン、酸化ホウ素）で事業売上の約 8割を占め、",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「酸化ホウ素」の 3製品が該当",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "が、各製品とも相応のシェアを獲得している",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "リン酸などのリン系製品につきましては、一般品が減収となったものの半導体向け高純度品は国内向け及び",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260805509786_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "凝集剤関連製品につきましては、上水道向け製品が堅調に推移し、増収となりました",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260805509786_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その他製品につきましては、コンデンサー向け原料が堅調に推移し、増収となりました",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260805509786_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品及び製品 3,666 3,741",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260805509786_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "未満であるため、金融商品取引法による有価証券通知書及び",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260722597340_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、法令及び金融商品取引所が定める独立性基準の遵守に加え、本人の経歴その他を総合的に判断し、客観的且つ大所高所から会社経",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260609566399_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は会計監査人としてEY新日本有限責任監査法人との間で、会社法監査・金融商品取引法監査につき監査契約を締結し会計監査業務を委嘱",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260609566399_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【根拠条文】 金融商品取引法第24条第１項",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "子会社ラサ晃栄株式会社は当社製品を一部販売するとともに、当社製品を",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "原料として二次製品の製造・販売を行っております",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "100年以上続くラサ工業の歴史について詳しくご紹介します",
+    "url": "https://www.rasa.co.jp/about-rasa/rasa-history/rasa-history.html",
+    "pass": 1
+   },
+   {
+    "quote": "米国のアライドシグナル社（現在：ソルスティス社）のスピン・オン・ガラス(SOG)の販売を開始し、1994年に代理店契約を締結しました",
+    "url": "https://www.rasa.co.jp/about-rasa/rasa-history/rasa-history.html",
+    "pass": 1
+   },
+   {
+    "quote": "「みんなのロケットパートナーズ」へ参画",
+    "url": "https://www.rasa.co.jp/about-rasa/rasa-history/rasa-history.html",
+    "pass": 1
+   },
+   {
+    "quote": "インターステラテクノロジズ株式会社が運営するパートナーシッププログラム「みんなのロケットパートナーズ」に参画しました",
+    "url": "https://www.rasa.co.jp/about-rasa/rasa-history/rasa-history.html",
+    "pass": 1
+   },
+   {
+    "quote": "候補者の選定に際しては、社長が選定を行い、取締役会に諮ったうえで、社外取締役が委員長を務める指名・報酬委員会に諮問を行い、指名・報",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260609566399_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "役会は指名・報酬委員会の答申を踏まえ、決定致します",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260609566399_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、後継者計画の策定・運用については、今後、取締役会が後継者候補の育成を監督できるよう指名・報酬委員会の活用を含め、検討を進め",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260609566399_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "）の候補者について、諮問機関である指名・報酬委員会の答申を経た上で、取締役会において",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260609566399_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "を総合的に判断しており、その選定プロセスは、候補者を取締役会で選定し指名報酬委員会への諮問・答申を経た上で、決定することとしており",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260609566399_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、取締役の解任については、解任相当事由に該当する事象が生じた場合に指名・報酬委員会の答申を経た上で取締役会において決定",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260609566399_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "独立取締役が過半数を占め社外取締役が委員長を務める任意の指名・報酬委員会は、取締役会から独立した立場において、取締役（監査等委",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260609566399_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これにより、任意の指名・報酬委員会は、",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260609566399_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、指名・報酬委員会は、独自の立場で経営陣幹部候補者の面談を実施しており、客観的な立",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260609566399_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "今後は、指名・報酬委員会側から取締役会に対しての提言が出",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260609566399_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "来るようにするなど、指名・報酬委員会の権限、役割を含め検討してまいります",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260609566399_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名委員会又は報酬委員会に相当する",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260609566399_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名委員会に相当",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260609566399_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "する任意の委員会 指名・報酬委員会 3 0 1 2 0 0 社外取締役",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260609566399_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取締役及び執行役員の指名・報酬等に関する手続きの透明性および客観性を確保し、当社のコーポレート・ガバナンス体制の強化を図るため、取",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260609566399_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "締役会の任意の諮問機関として、指名・報酬委員会を設置しております",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260609566399_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名・報酬委員会は、取締役(監査等委員である取締役を除く",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260609566399_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名・報酬委員会は、3名(うち2名が社外取締役)で構成され、委員長は、社外取締役が務めております",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260609566399_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取締役の報酬は、取締役会から任意の指名・報酬委員会に対し、株主総会決議で定められた範囲内で、報酬総額を明示した上で諮問し、指名・",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260609566399_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．業務執行、監査・監督、指名、報酬決定等の機能に係る事項（現状のコーポレート・ガバナンス体制の概要）",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260609566399_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名・報酬委員会",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260609566399_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は任意の指名・報酬委員会を設置しております",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260609566399_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名・報酬委員会は、３名（うち２名が社外取締役）で構成されており、委員長は社外取締役",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260609566399_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取締役の指名・報酬等に関する取締役会からの諮問に対し、審議、答申することで手続の妥当性・客観性を確保し、当社の",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260609566399_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その他 賃貸用店舗 275 － 526(15,085) 0 801 0",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、執行役員の選任に関しても、指名・報酬委員会への諮問・答申を経て行うものとしており",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ホ．指名・報酬委員会",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名・報酬委員会は、現在、代表取締役社長執行役員坂尾耕作、社外取締役齊藤隆、社外取締役藤田美穂の",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": ")及び執行役員の指名・報酬等に関する手続の透明",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "員の過半数を社外取締役とする取締役会の任意の諮問機関であり、齊藤隆が指名・報酬委員会の委員長となっ",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "任意の指名・報酬委員会は、取締役会からの諮問に応じて取締役(監査等委員である取締役を除",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ロ．指名・報酬委員会",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名・報酬委員会は、代表取締役社長執行役員と社外取締役２名により構成されており、指名・報酬に関す",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、社外取締役を過半数とする任意の指名・報酬委員会を設置しております",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "会から指名・報酬委員会に対し、株主総会決議で定められた範囲内で、報酬総額を明示した上で諮問し、指",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": ")の報酬額は、任意の指名・報酬委",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": ": 直接投資ではなくJV形式をとることで、韓国特有の商慣習や労務リスクをパートナーに委ねつつ、技術供与によるリターンを得る賢明な戦略です",
+    "url": "https://note.com/stock1/n/n36a9431477e6",
+    "pass": 3
+   },
+   {
+    "quote": ": 当社はSoulbrainとのパートナーシップを通じ、この米国拠点における高純度リン酸供給に関与しています",
+    "url": "https://note.com/stock1/n/n36a9431477e6",
+    "pass": 3
+   },
+   {
+    "quote": "これが、メモリメーカーからの指名買いにつながっています",
+    "url": "https://note.com/stock1/n/n36a9431477e6",
+    "pass": 3
+   },
+   {
+    "quote": ": 宇宙ベンチャー「インターステラテクノロジズ」のパートナーシッププログラム「みんなのロケットパートナーズ」に参画しています",
+    "url": "https://note.com/stock1/n/n36a9431477e6",
+    "pass": 3
+   },
+   {
+    "quote": ": 半導体材料における「4カ国生産体制」を確立している日系中堅化学メーカーは極めて少なく、大手半導体メーカーからの戦略的パートナーとしての地位は盤守です",
+    "url": "https://note.com/stock1/n/n36a9431477e6",
+    "pass": 3
+   },
+   {
+    "quote": "サービス紹介へ",
+    "url": "https://www.nikkei.com/article/DGXZQODZ00018_U6A510C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/article/DGXZQODZ00018_U6A510C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "講演会向け講師紹介",
+    "url": "https://www.nikkei.com/article/DGXZQODZ00018_U6A510C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/article/DGXZQODZ00018_U6A510C2000000/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "昭和40年代後半より環境装置分野へ進出しました",
+    "url": "https://www.rasa.co.jp/about-rasa/rasa-history/rasa-history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1973年第1次石油ショック後の公共投資圧縮により、機械部門の合理化を実施しました",
+    "url": "https://www.rasa.co.jp/about-rasa/rasa-history/rasa-history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1996年から2008年にかけてシリコンウェハー再生工場を増設し、事業拡大をはかりました",
+    "url": "https://www.rasa.co.jp/about-rasa/rasa-history/rasa-history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1913年の創業以来、社会環境の変化に応じて果敢に業態変革に挑み、現在は化成品事業、機械事業、電子材料事業の3領域からなる総合メーカーとして、産業の基盤から人びとの暮らしまで支えています",
+    "url": "https://www.rasa.co.jp/ir/management/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月30日",
+    "url": "https://www.rasa.co.jp/ir/backno.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月19日",
+    "url": "https://www.rasa.co.jp/ir/backno.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月12日",
+    "url": "https://www.rasa.co.jp/ir/backno.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期 決算説明資料",
+    "url": "https://www.rasa.co.jp/ir/backno.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第１四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.rasa.co.jp/ir/backno.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月22日",
+    "url": "https://www.rasa.co.jp/ir/backno.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月26日",
+    "url": "https://www.rasa.co.jp/ir/backno.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月22日",
+    "url": "https://www.rasa.co.jp/ir/backno.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月03日",
+    "url": "https://www.rasa.co.jp/ir/backno.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算説明会資料を開示しました",
+    "url": "https://www.rasa.co.jp/ir/backno.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月29日",
+    "url": "https://www.rasa.co.jp/ir/backno.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年定時株主総会招集通知及び株主総会資料",
+    "url": "https://www.rasa.co.jp/ir/backno.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月28日",
+    "url": "https://www.rasa.co.jp/ir/backno.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月14日",
+    "url": "https://www.rasa.co.jp/ir/backno.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算説明資料",
+    "url": "https://www.rasa.co.jp/ir/backno.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 決算短信〔日本基準〕(連結)",
+    "url": "https://www.rasa.co.jp/ir/backno.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年04月01日",
+    "url": "https://www.rasa.co.jp/ir/backno.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年02月12日",
+    "url": "https://www.rasa.co.jp/ir/backno.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期第３四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.rasa.co.jp/ir/backno.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年 9 月 30 日",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260930542587_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年８月19日",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260814520434_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年７月22日付「譲渡制限付株式としての自己株式の処分に関するお知らせ」でお知らせいたしま",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260814520434_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年8月12日",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年3月期 第１四半期 決算説明資料",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年3月期 第1四半期 決算概要",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年3月期 第1四半期 セグメント別概要（売上高）",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年3月期 第1四半期 セグメント別概要（利益）",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年3月末 2026年6月末 増減",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年3月期の業績予想",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年3月期の1株当たり配当金は当該株式分割の影響を遡及的に反映して表示",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年3月期は化成品事業・電子材料事業を中心に更新・増強投資を実施予定",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年3月期決算説明会（6/3開催）での主な質疑応答 ①",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年3月期決算説明会（6/3開催）での主な質疑応答 ②",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期 第１四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260805509786_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年８月12日",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260805509786_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期第１四半期 13,709 30.9 1,805 37.0 1,863 28.1 1,312 20.5",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260805509786_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年３月期第１四半期 10,472 △1.5 1,317 16.7 1,454 28.7 1,089 38.9",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260805509786_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期第１四半期 33.60 －",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260805509786_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年３月期第１四半期 27.91 －",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260805509786_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期第１四半期 51,467 32,185 62.5",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260805509786_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年３月期 49,973 31,840 63.7",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260805509786_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年３月期 － 64.00 － 116.00 180.00",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260805509786_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期 －",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260805509786_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期(予想) 18.00 － 18.00 36.00",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260805509786_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年３月期については当",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260805509786_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期の連結業績予想につきましては、2026年５月14日公表の業績予想数値から変更はありません",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260805509786_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年７月 22 日",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260722597340_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2021年６月の改訂後のコードに基づき記載しております",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260609566399_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年6月26日",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260609566399_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年８月６日付で公衆の縦覧に供されている変更報告書において、三井住友信託銀行株式会社及びその共同保有者である三井住友トラスト・",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260609566399_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年９月19日付で公衆の縦覧に供されている変更報告書において、三井住友ＤＳアセットマネジメント株式会社が2025年９月15日現在で以下の",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260609566399_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２ 【沿革】",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1911年２月 「ラサ島燐砿合資会社」設立",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1913年５月 「ラサ島燐砿株式会社」設立",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1919年８月 東京証券取引所に上場",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1920年５月 「大阪晒粉株式会社」を合併、大阪工場で過リン酸石灰製造開始",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "塩化第二鉄液（顧客の使用済み廃液を回収後加工して、再び塩化第二鉄液として販売しています",
+    "url": "https://www.rasa.co.jp/about-rasa/rasa-living/rasa-living.html",
+    "pass": 1
+   },
+   {
+    "quote": "ガリウム、インジウム（顧客の製造工程で発生するスクラップを回収し、純度の高い4N〜7N（99.99％〜99.99999％）に精製しています",
+    "url": "https://www.rasa.co.jp/about-rasa/rasa-living/rasa-living.html",
+    "pass": 1
+   },
+   {
+    "quote": "このため、市場動向を見極めて取引先との情報交換を行いながら、慎重に投資のタイミングをはかり、過剰在庫を避けるなど事業判断を行っております",
+    "url": "https://www.rasa.co.jp/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、地震、台風等による大規模災害が発生した場合、生産拠点の被災による製品供給への影響、賃貸物件の被災による賃貸事業への影響、営業拠点の被災による営業活動への影響及び顧客の被災による販売への影響並びに設備等の修復に伴う一時的な費用の発生が、当社グループの業績及び財政状況に影響を与える可能性があります",
+    "url": "https://www.rasa.co.jp/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "(14) 取引先の信用悪化",
+    "url": "https://www.rasa.co.jp/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、取引先の信用リスクについて与信管理枠の設定など細心の注意を払っておりますが、信用リスクの顕在化を完全に回避できるものではなく、取引先の信用状況が急速に悪化した場合、貸倒損失などの発生により、当社グループの業績及び財政状況に影響を与える可能性があります",
+    "url": "https://www.rasa.co.jp/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "また当社は、取引先等との取引に関する情報など守秘義務のあるものや、公表することにより株主利益を害するおそれのある情報に関する質問には回答を差し控えさせていただきます",
+    "url": "https://www.rasa.co.jp/ir/management/dpolicy.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、顧客の製造工程で出るスクラップを",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "原料の供給メーカーはグローバルでも限定的であり、顧客の成長に合わせて要求される数量・品質を確実に供給していく",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客の増産計画を、当社のビジネスチャンスと捉えており、顧客と情報交",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客ニーズや需要増加のスピードが加速しているため、前もっ",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260805509786_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 8,908 758 466 10,132 339 10,472 － 10,472",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260805509786_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "４．顧客との契約から生じる収益以外の収益の額については重要性がないことから、顧客との契約から生じる収",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260805509786_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 11,700 909 850 13,461 248 13,709 － 13,709",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260805509786_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ラサ工業取引先持株会 442,005 5.65",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260609566399_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "d 上場会社を主要な取引先とする者又はその業務執行者",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260609566399_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "e 上場会社の主要な取引先又はその業務執行者",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260609566399_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "h 上場会社の取引先（d、e及びｆのいずれにも該当しないもの）の業務執行者（本人のみ）",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260609566399_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ら主要な取引先でないものと判断しており",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260609566399_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "要な取引先でないものと判断しておりま",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260609566399_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "菊池達也氏は、当社グループの取引先で",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260609566399_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "占める割合から主要な取引先でないもの",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260609566399_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ぞれの取引先の業態・業績などを勘案の上、個々の取引の決裁をしている",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260609566399_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "え、社会の発展に不可欠な役割を、お客様をはじめとする全てのステークホルダーと共に果たし、明るく豊かな未",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このため、市場動向を見極めて取引先との情報交換を行",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "災による賃貸事業への影響、営業拠点の被災による営業活動への影響及び顧客の被災による販売への影響並びに設",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(14) 取引先の信用悪化",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、取引先の信用リスクについて与信管理枠の設定など細心の注意を払っておりますが、信用リス",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "クの顕在化を完全に回避できるものではなく、取引先の信用状況が急速に悪化した場合、貸倒損失などの発生によ",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ラサ工業取引先持株会 東京都千代田区外神田一丁目18番13号 442 5.65",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "用している事業部門毎に、それぞれの取引先の業態・業績などを勘案の上、個々の取引の決裁をしている",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の取引関係がありますが、いずれも借入総額に占める割合から主要な取引先でないものと判断しております",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高に占める割合から主要な取引先でないものと判断しております",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "275,400 275,400 化学薬品等の主要な取引先、調達先であ",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ラサ商事㈱ 100,000 100,000 機械製品等の主要な取引先、調達先であり、取引関係の維持・強化のため",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "日本ケミコン㈱ 500 500 化学薬品等の取引先、調達先であり、取引関係の維持・強化のため",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 顧客ニーズに基づく付加価値の高い新製品開発",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026060509045505_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "✓ 日本・東アジア・北米の新規販売先の獲得（半導体向け高純度リン酸）",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026060509045505_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "現在、当社は日本、台湾、韓国、米国（テキサス）の4拠点を軸としたグローバル供給体制の完成（2027年目処）に向けた最終段階にあり、地政学リスクの低減と主要顧客（Samsung Electronics、TSMC等）への密着供給体制を確立しつつあります",
+    "url": "https://note.com/stock1/n/n36a9431477e6",
+    "pass": 3
+   },
+   {
+    "quote": "これは単なる能力増強ではなく、顧客の工場の隣で生産する「オンサイト供給」に近い体制を築くことで、他社の参入を許さない深い堀（Moat）を形成する戦略です",
+    "url": "https://note.com/stock1/n/n36a9431477e6",
+    "pass": 3
+   },
+   {
+    "quote": ": 世界最大のファウンドリ市場である台湾において、地産地消体制を強化することは、輸送コストの削減だけでなく、顧客（TSMC等）が求めるBCP（事業継続計画）対応の要件を満たす必須条件です",
+    "url": "https://note.com/stock1/n/n36a9431477e6",
+    "pass": 3
+   },
+   {
+    "quote": "ラサ工業の強みは、単なる「純度」だけでなく、顧客ごとのプロセス条件に合わせた「添加剤調整（シリコン酸化膜へのダメージを抑えつつ窒化膜のみを溶かす選択比の制御）」のノウハウにあります",
+    "url": "https://note.com/stock1/n/n36a9431477e6",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との契約から生じる収益",
+    "url": "https://kitaishihon.com/company/4022/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高",
+    "url": "https://kitaishihon.com/company/4022/business",
+    "pass": 3
+   },
+   {
+    "quote": "４．顧客との契約から生じる収益以外の収益の額については重要性がないことから、顧客との契約から生じる収益と区分して表示しておりません",
+    "url": "https://kitaishihon.com/company/4022/business",
+    "pass": 3
+   },
+   {
+    "quote": "（注）売上高は顧客の所在地を基礎とし、国又は地域に分類しております",
+    "url": "https://kitaishihon.com/company/4022/business",
+    "pass": 3
+   },
+   {
+    "quote": "３．主要な顧客ごとの情報",
+    "url": "https://kitaishihon.com/company/4022/business",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の名称又は氏名",
+    "url": "https://kitaishihon.com/company/4022/business",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/4022/business",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント別情報",
+    "url": "https://www.rasa.co.jp/ir/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別情報",
+    "url": "https://www.rasa.co.jp/ir/finance/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "営業利益（右軸）売 上 高（左軸） うち、化成品事業のセグメント利益（右軸）",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年3月期 第1四半期 セグメント別概要（売上高）",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年3月期 第1四半期 セグメント別概要（利益）",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益の推移",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※各セグメントのセグメント利益には、全社費用などを配賦しておりません",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◼ セグメント利益は、リン系製品・凝集剤・その他製品ともに堅調に推移し、 303 百万円（ +22.3 ％）の増益",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◼ 売上高、セグメント利益ともに、四半期ベースで過去最高",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高とセグメント利益の推移",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 セグメント利益",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高とセグメント利益の四半期推移",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◼ セグメント利益は、建設機械、土木機械ともに増収したことにより、 27百万円の増益",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "建設機械 土木機械売上高（百万円）売上高 セグメント利益",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（百万円） 売上高 セグメント利益",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◼ セグメント利益は、増収に伴い、 191 百万円（ +186.2 ％）の大幅増益",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "高純度無機素材 機能性材料売上高（百万円）売上高 セグメント利益",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Q 地域別、および用途別（ロジック・ NAND ・DRAM 別）の売上構成について",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記） ……………………………………………………………………… 8",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260805509786_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループのセグメント別の概況は、次のとおりであります",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260805509786_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、当セグメントの売上高は、117億円（前年同期比31.3％増）、セグメント利益は、16億65百万円",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260805509786_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、当セグメントの売上高は、９億９百万円（前年同期比20.0％増）、セグメント利益は、29百万円",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260805509786_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（前年同期はセグメント利益１百万円）となりました",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260805509786_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、当セグメントの売上高は、８億50百万円（前年同期比82.2％増）、セグメント利益は、２億95百",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260805509786_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、当セグメントの売上高は、２億48百万円（前年同期比26.8％減）、セグメント利益は、１億75百",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260805509786_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260805509786_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．報告セグメントごとの売上高及び利益又は損失の金額に関する情報並びに収益の分解情報",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260805509786_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260805509786_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260805509786_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 1,362 1 103 1,467 214 1,682 △364 1,317",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260805509786_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注) １．「その他」の区分は、報告セグメントに含まれない事業セグメントであり、石油精製用触媒再生及び不動産",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260805509786_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益の調整額△364百万円には、各報告セグメントに配賦していない全社費用△364百万円などが",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260805509786_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "全社費用は、主に報告セグメントに帰属しない一般管理費及び研究開発費であります",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260805509786_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．セグメント利益は、四半期連結損益計算書の営業利益と調整を行っております",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260805509786_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．報告セグメントごとの固定資産の減損損失又はのれん等に関する情報",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260805509786_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 1,665 29 295 1,990 175 2,166 △361 1,805",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260805509786_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益の調整額△361百万円には、各報告セグメントに配賦していない全社費用△360百万円などが",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260805509786_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注) １．「主要な事業の内容」欄には、セグメントの名称を記載しております",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注) 「主要な事業の内容」欄には、セグメントの名称を記載しております",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループのセグメント別の概況は、次のとおりであります",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、当セグメントの売上高は、399億56百万円（前年同期比4.7％増）、セグメント利益は、55億31百",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、当セグメントの売上高は、41億97百万円（前年同期比6.5％減）、セグメント利益は、４億５百万",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、当セグメントの売上高は、23億95百万円（前年同期比52.1％増）、セグメント利益は、６億96百",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、当セグメントの売上高は、11億76百万円（前年同期比0.8％減）、セグメント利益は、７億46百万",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当連結会計年度の生産実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当連結会計年度の製品仕入実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当連結会計年度の販売実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注) １．セグメント間の取引については相殺消去しております",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの名称 金額（百万円）",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注)全社（共通）として記載されている研究開発費は、特定のセグメントに区分できない研究開発費であります",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、当連結会計年度における各セグメント別の研究開発活動の概要は、次のとおりであります",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なセグメントは化成品事業で、半導体向け高純度リン酸の増産投資の一部や、既存設備の維持更新など、3,529百万円",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "会社名 事業所名(所在地) セグメントの名称 設備の内容",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "会社名 事業所名（所在地） セグメントの名称 設備の内容 投資予定額（億円） 資金調達方法 着手年月 完了予定年月総額 既支払額",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの名称 従業員数(人)",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．全社(共通)として記載されている従業員数は、特定のセグメントに区分できない管理部門に所属している",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "４．全社(共通)として記載されている従業員数は、特定のセグメントに区分できない管理部門に所属している",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "このため、当社グループでは為替予約等による一定のリスクヘッジを行っておりますが、為替相場が大幅に変動する場合には、売上単価の下落、原価の上昇などによって、当社グループの業績及び財政状況に影響を与える可能性があります",
+    "url": "https://www.rasa.co.jp/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "制限付株式の交付のために対象取締役に対して年額 23 百万円以内の金銭報酬債権を支給すること、",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260722597340_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ストックオプションの付与対象者",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260609566399_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "が、為替相場が大幅に変動する場合には、売上単価の下落、原価の上昇などによって、当社グループの業績及び財",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① 【ストックオプション制度の内容】",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "年額160百万円(うち社外取締役10百万円以内",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": ")に対する譲渡制限付株式の付与のために支給する金銭報酬の総額は年額23百万円以内、発",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．監査等委員である取締役の報酬額は、2019年６月27日開催の定時株主総会において、年額50百万円以内と決",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "月額給与と賞与により構成しております",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "②月額給与に関する方針",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "月額給与については、職能資格制度に基づく基本給と各種属性に応じた手当を支給しております",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "住友化学、ライセンス・触媒を一体運営",
+    "url": "https://chemicaldaily.com/archives/838287",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "このため、市場動向を見極めて取引先との情報交換を行いながら、慎重に投資のタイミングをはかり、過剰在庫を避けるなど事業判断を行っております",
+    "url": "https://www.rasa.co.jp/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、緩和局面においては原材料等の在庫評価に影響を与える可能性があり、過剰在庫を避けるよう努めております",
+    "url": "https://www.rasa.co.jp/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "しかしながら、いずれも完全なリスク回避となるものではなく、リスクが顕在化した場合、売上の減少や原価の上昇、また在庫評価減の発生などによって、当社グループの業績及び財政状況に悪影響を与える可能性があります",
+    "url": "https://www.rasa.co.jp/ir/management/risk.html",
+    "pass": 1
+   },
+   {
+    "quote": "A 当社の強み： 高純度インジウムを供給できるメーカーはグローバルに数社",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "いながら、慎重に投資のタイミングをはかり、過剰在庫を避けるなど事業判断を行っております",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、緩和局面においては原材料等の在庫評価に影響を与える可能性があり、過剰在庫を避けるよう努めており",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "価の上昇、また在庫評価減の発生などによって、当社グループの業績及び財政状況に悪影響を与える可能性があり",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "う、当社グループの強みを活かし、特色ある研究開発を展開しております",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "インジウムのリサイクルに強みを有しており 、サプライチェーン上流から循環型供給までを担う",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026060509045505_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "－品質面での強みに加えて、日本と台湾と韓国で現地生産・現地販売していることが強み－",
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026060509045505_P01_.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "機械事業の隠れた高収益性と補完性",
+    "url": "https://note.com/stock1/n/n36a9431477e6",
+    "pass": 3
+   },
+   {
+    "quote": "現在の事業ポートフォリオは、高成長・高収益の「化成品事業」、ニッチトップの「機械事業」、そして次世代の種まきを行う「電子材料事業」の三本柱で構成されています",
+    "url": "https://note.com/stock1/n/n36a9431477e6",
+    "pass": 3
+   },
+   {
+    "quote": "特に半導体向け高純度リン酸は、メモリメーカーの在庫調整一巡後の稼働率向上に伴い出荷量が回復しました",
+    "url": "https://note.com/stock1/n/n36a9431477e6",
+    "pass": 3
+   },
+   {
+    "quote": ": 第2四半期に一部在庫評価損の影響で利益が一時的に落ち込んだものの、通期ではインフラ向け需要が下支えしました",
+    "url": "https://note.com/stock1/n/n36a9431477e6",
+    "pass": 3
+   },
+   {
+    "quote": "特にヒ素（As）やアンチモン（Sb）などの微量不純物の除去は困難であり、参入障壁となっています",
+    "url": "https://note.com/stock1/n/n36a9431477e6",
+    "pass": 3
+   },
+   {
+    "quote": "ラサ工業の強みは、単なる「純度」だけでなく、顧客ごとのプロセス条件に合わせた「添加剤調整（シリコン酸化膜へのダメージを抑えつつ窒化膜のみを溶かす選択比の制御）」のノウハウにあります",
+    "url": "https://note.com/stock1/n/n36a9431477e6",
+    "pass": 3
+   },
+   {
+    "quote": "当社の「隠れた価値」として、極めて参入障壁の高いニッチ分野への進出が挙げられます",
+    "url": "https://note.com/stock1/n/n36a9431477e6",
+    "pass": 3
+   },
+   {
+    "quote": "また営業利益率は12.6％となり、前期と比較して2.2ポイント改善しました",
+    "url": "https://kitaishihon.com/company/4022/business",
+    "pass": 3
+   },
+   {
+    "quote": "日産化学・木下会長（下）高収益もまだ一流に非ず",
+    "url": "https://chemicaldaily.com/archives/838287",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "🟧2. ビジネスモデルと事業構造の変遷",
+    "url": "https://note.com/stock1/n/n36a9431477e6",
+    "pass": 3
+   },
+   {
+    "quote": "ラサ工業のビジネスモデルは、創業以来の「鉱山開発」から「肥料」、そして現在の「",
+    "url": "https://note.com/stock1/n/n36a9431477e6",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ラサ工業 株式会社 — ラサ工業 株式会社 ラサ工業株式会社 https://www.rasa.co.jp",
+    "url": "https://www.rasa.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "《音声解説あり》【 ラサ工業 （4022）】銘柄分析 20分聴く ... — 《音声解説あり》【 ラサ工業 （4022）】銘柄分析 20分聴く ... note https://note.com > 政治・経済 > ビジネス・経済",
+    "url": "https://note.com/stock1/n/n36a9431477e6",
+    "pass": 3
+   },
+   {
+    "quote": "ラサ工業 が壮絶踏み上げストップ高！AI半導体銘柄 ... - YouTube — ラサ工業 が壮絶踏み上げストップ高！AI半導体銘柄 ... - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=OsPSOQzTXMc",
+    "pass": 3
+   },
+   {
+    "quote": "ラサ工業 (株)【東証プライム市場上場】の新卒採用・会社概要 — ラサ工業 (株)【東証プライム市場上場】の新卒採用・会社概要 マイナビ https://job.mynavi.jp > search > corp57519 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp57519/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 ラサ工業 】[4022]企業概要 社員数や役員報酬・資本金 | 日経 ... — 【 ラサ工業 】[4022]企業概要 社員数や役員報酬・資本金 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=4022",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家の皆様へ | ラサ工業 株式会社 — 株主・投資家の皆様へ | ラサ工業 株式会社 ラサ工業株式会社 https://www.rasa.co.jp > ...",
+    "url": "https://www.rasa.co.jp/ir/ir.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 | IRイベント | 株主・投資家の皆様へ - ラサ工業 — 決算説明 会 | IRイベント | 株主・投資家の皆様へ - ラサ工業 ラサ工業株式会社 https://www.rasa.co.jp > 株主・投資家の皆様へ > IRイベント",
+    "url": "https://www.rasa.co.jp/ir/event/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 ラサ工業 】[4022]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 ラサ工業 】[4022]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=4022",
+    "pass": 3
+   },
+   {
+    "quote": "ラサ工業 【4022】の最新 決算 発表、業績修正 - 株探 — ラサ工業 【4022】の最新 決算 発表、業績修正 - 株探 株探 https://kabutan.jp > ラサ工業 (4022)",
+    "url": "https://kabutan.jp/stock/finance?code=4022",
+    "pass": 3
+   },
+   {
+    "quote": "ラサ工業 【4022】の 事業 内容 - キタイシホン — ラサ工業 【4022】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/4022/business",
+    "pass": 3
+   },
+   {
+    "quote": "企業概要・グループ拠点 | ラサ工業 株式会社 — 企業概要・グループ拠点 | ラサ工業 株式会社 ラサ工業株式会社 https://www.rasa.co.jp > 企業情報",
+    "url": "https://www.rasa.co.jp/company/overview/overview.html",
+    "pass": 3
+   },
+   {
+    "quote": "ラサ工業 ・北田勝誠 社長 収益基盤さらに多角化 — ラサ工業 ・北田勝誠 社長 収益基盤さらに多角化 化学工業日報 電子版 https://chemicaldaily.com > archives",
+    "url": "https://chemicaldaily.com/archives/838287",
+    "pass": 3
+   },
+   {
+    "quote": "ラサ工業社長 に北田勝誠氏 - 日本経済新聞 — ラサ工業社長 に北田勝誠氏 - 日本経済新聞 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXZQODZ00018_U6A510C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "社長 メッセージ | ラサ工業 株式会社 — 社長 メッセージ | ラサ工業 株式会社 ラサ工業株式会社 https://www.rasa.co.jp > 企業情報",
+    "url": "https://www.rasa.co.jp/company/top-message/top-message.html",
+    "pass": 3
+   },
+   {
+    "quote": "10月13日、 ラサ工業 株式会社の北田勝誠代表取締役 社長 に ... — 10月13日、 ラサ工業 株式会社の北田勝誠代表取締役 社長 に ... Instagram https://www.instagram.com > ...",
+    "url": "https://www.instagram.com/p/Dec3fZwBo3E/",
+    "pass": 3
+   },
+   {
+    "quote": "ラサ工業 、 社長 に北田勝誠氏 — ラサ工業 、 社長 に北田勝誠氏 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/781599",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.rasa.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rasa.co.jp/about-rasa/about-rasa.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rasa.co.jp/about-rasa/rasa-history/rasa-history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rasa.co.jp/about-rasa/rasa-living/rasa-living.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rasa.co.jp/ir/ir.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rasa.co.jp/about-rasa/rasa-semiconductor/rasa-semiconductor.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rasa.co.jp/about-rasa/rasa-history/img/first-president.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.rasa.co.jp/about-rasa/rasa-history/img/rasa-island-mining-office.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.rasa.co.jp/about-rasa/rasa-history/img/rasa-island.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.rasa.co.jp/about-rasa/rasa-history/img/rasa-island-school.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.rasa.co.jp/about-rasa/rasa-history/img/flyer.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.rasa.co.jp/about-rasa/rasa-history/img/machinery-division.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.rasa.co.jp/about-rasa/rasa-history/img/origins-machinery-div.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.rasa.co.jp/about-rasa/rasa-history/img/chemicals-division.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.rasa.co.jp/about-rasa/rasa-history/img/origins-chemicals-div.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.rasa.co.jp/ir/management/message.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.rasa.co.jp/ir/finance/highlight.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rasa.co.jp/ir/investor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rasa.co.jp/ir/backno.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.rasa.co.jp/ir/management/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rasa.co.jp/ir/management/strategy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rasa.co.jp/ir/management/director.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rasa.co.jp/ir/management/risk.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rasa.co.jp/ir/management/dpolicy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rasa.co.jp/ir/cg/index.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260930542587_P01_.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260814520434_P01_.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026081215351803_P01_.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260805509786_P01_.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260722597340_P01_.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_20260609566399_P01_.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_202606221112361_P01_.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rasa.co.jp/ir/upload_file/tdnrelease/4022_2026060509045505_P01_.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rasa.co.jp/about-rasa/img/rasa-business.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.rasa.co.jp/about-rasa/img/kv-rasa-business.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.rasa.co.jp/about-rasa/img/kv-rasa-business-sp.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.com/stock1/n/n36a9431477e6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/4022/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chemicaldaily.com/archives/838287",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQODZ00018_U6A510C2000000/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ラサ工業",
+   "results": [
+    "https://www.rasa.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%B5%E5%B7%A5%E6%A5%AD",
+    "https://www.nikkei.com/nkd/company/?scode=4022",
+    "https://job.mynavi.jp/27/pc/search/corp57519/outline.html",
+    "https://ja.wikipedia.org/wiki/ラサ工業",
+    "https://finance.yahoo.co.jp/quote/4022.T",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=4022",
+    "https://finance.yahoo.co.jp/quote/4022.T/profile",
+    "https://www.rasa.co.jp/english/index_e.html",
+    "https://www.rasaco.co.jp/english/index.html"
+   ]
+  },
+  {
+   "query": "ラサ工業 ビジネスモデル",
+   "results": [
+    "https://www.rasa.co.jp/",
+    "https://note.com/stock1/n/n36a9431477e6",
+    "https://www.youtube.com/watch?v=OsPSOQzTXMc",
+    "https://job.mynavi.jp/27/pc/search/corp57519/outline.html",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=4022",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fqyf&q_no=9",
+    "https://omega-inv.com/ja/2025/07/07/4022pd/",
+    "https://kitaishihon.com/company/4022/business",
+    "https://ja.wikipedia.org/wiki/ラサ工業",
+    "https://consovation.com/ラサ工業のビジネスモデルと成長戦略を徹底解剖/"
+   ]
+  },
+  {
+   "query": "ラサ工業 決算説明資料",
+   "results": [
+    "https://www.rasa.co.jp/ir/ir.html",
+    "https://www.rasa.co.jp/ir/event/presentation.html",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=4022",
+    "https://kabutan.jp/stock/finance?code=4022",
+    "https://www.rasaco.co.jp/ir/library01.html",
+    "https://finance.matsui.co.jp/stock/4022/settlement/index",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260514/20260427512361.pdf",
+    "https://edinetdb.jp/company/E00760/ir-docs/",
+    "https://kitaishihon.com/company/4022/ir-library",
+    "https://www.rasa.co.jp/ir/library/presentation.html"
+   ]
+  },
+  {
+   "query": "ラサ工業 事業系統図",
+   "results": [
+    "https://www.rasa.co.jp/",
+    "https://kitaishihon.com/company/4022/business",
+    "https://www.rasaco.co.jp/ir/individual01_1.html",
+    "https://www.rasa.co.jp/company/overview/overview.html",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=4022",
+    "https://note.com/stock1/n/n36a9431477e6",
+    "https://www.rasa-tt.com/article_d.php?lang=jp&tb=2&id=249",
+    "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%B5%E5%B7%A5%E6%A5%AD",
+    "https://www.pref.miyagi.jp/soshiki/nh-sgsin-e/joblook-rasakougyou.html",
+    "https://ja.wikipedia.org/wiki/ラサ工業"
+   ]
+  },
+  {
+   "query": "ラサ工業 社長 インタビュー",
+   "results": [
+    "https://chemicaldaily.com/archives/838287",
+    "https://www.nikkei.com/article/DGXZQODZ00018_U6A510C2000000/",
+    "https://www.rasa.co.jp/company/top-message/top-message.html",
+    "https://www.instagram.com/p/Dec3fZwBo3E/",
+    "https://www.nikkan.co.jp/articles/view/781599",
+    "https://the-shashi.com/tse/4022/ceo/",
+    "https://chemicaldaily.com/archives/771535",
+    "https://www.bloomberg.co.jp/news/articles/2008-06-17/K2LPIO0D9L3401",
+    "https://bridge-group.co.jp/ipo_media/6978/",
+    "https://ja.wikipedia.org/wiki/庄司宇秀"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式25頁／PDF・画像11件／外部4頁・検索5回）",
+  "従業員数": "記載なし（3回確認済み：公式25頁／PDF・画像11件／外部4頁・検索5回）",
+  "事業内容": "記載なし（3回確認済み：公式25頁／PDF・画像11件／外部4頁・検索5回）"
+ }
+}

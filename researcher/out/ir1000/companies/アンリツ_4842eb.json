@@ -1,0 +1,1313 @@
+{
+ "name": "アンリツ",
+ "aliases": [],
+ "context": "証券コード6754／電気機器／プライム（内国株式）／2026.03期 売上高117,462百万円 営業利益率12.6%",
+ "researched_at": "2026-11-02T19:47:45.285054+00:00",
+ "official_url": "https://anritu.jp/",
+ "identified_by": "search:ddgs:google:株式会社アンリツ",
+ "profile": {
+  "設立": [
+   {
+    "label": "個人創業",
+    "value": "：1989 年3月",
+    "url": "https://anritu.jp/company.html",
+    "pass": 1
+   },
+   {
+    "label": "会社設立",
+    "value": "：1991 年3月27日",
+    "url": "https://anritu.jp/company.html",
+    "pass": 1
+   },
+   {
+    "label": "創業",
+    "value": "1895年（明治28年）",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/corporate-information/profile",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "年間売上高",
+    "value": "：14000万円",
+    "url": "https://anritu.jp/company.html",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "117,462百万円（2026年3月期：連結）",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/corporate-information/profile",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "：40 名",
+    "url": "https://anritu.jp/company.html",
+    "pass": 1
+   },
+   {
+    "label": "連結従業員数",
+    "value": "4,144人",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "4,114名（連結） （2026年3月31日現在） 1,734名（単独） （2026年3月31日現在）",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/corporate-information/profile",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "：\n衣料品の検品、補修、仕上げ、プレス、 値付け、ＳＥＴ組　他",
+    "url": "https://anritu.jp/company.html",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "電子計測器、食品・医薬品の品質保証システム、環境計測機器、デバイスなどの開発・製造・販売",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/corporate-information/profile",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "株式会社 アンリツ 品質管理・製品管理・物流・加工",
+    "url": "https://anritu.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社 アンリツ 品質管理・製品管理・物流・加工",
+    "url": "https://anritu.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "ＱＴＥＣ様の指導の下、現在検品技術指導工場承認（第ＱＫ−ＳＮ 0504-50 号）検品、商品管理、備品の管理等の全てのデータ管理の指導を受けています",
+    "url": "https://anritu.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品入荷から仕上げ、直し、全ての作業を社内（工場内）ででき外注を使う事なく検品員、補修員、検針員、デリバリー員と別ライン作業をしていますので納期、単価の面でも他社より圧縮することができ、全てにおいて管理報告することができます",
+    "url": "https://anritu.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "RF/マイクロ波コンポーネント製品を探す",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/corporate-info/our-business",
+    "pass": 3
+   },
+   {
+    "quote": "センシング＆デバイス製品を探す",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/corporate-info/our-business",
+    "pass": 3
+   },
+   {
+    "quote": "ネットワークモニタリングソリューションを探す",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/corporate-info/our-business",
+    "pass": 3
+   },
+   {
+    "quote": "ネットワーク関連ソリューションを探す",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/corporate-info/our-business",
+    "pass": 3
+   },
+   {
+    "quote": "パワーエレクトロニクス関連ソリューションを探す",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/corporate-info/our-business",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/corporate-info/our-business",
+    "pass": 3
+   },
+   {
+    "quote": "食品向けソリューション",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/corporate-info/our-business",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品向けソリューション",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/corporate-info/our-business",
+    "pass": 3
+   },
+   {
+    "quote": "インフラソリューション",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/corporate-info/our-business",
+    "pass": 3
+   },
+   {
+    "quote": "電子計測器製品",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/corporate-info/our-business",
+    "pass": 3
+   },
+   {
+    "quote": "異物・質量検査、計量機器製品",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/corporate-info/our-business",
+    "pass": 3
+   },
+   {
+    "quote": "サービスネットワーク",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/corporate-info/our-business",
+    "pass": 3
+   },
+   {
+    "quote": "ネットワークモニタリングソリューション製品",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/corporate-info/our-business",
+    "pass": 3
+   },
+   {
+    "quote": "RF/マイクロ波コンポーネント製品",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/corporate-info/our-business",
+    "pass": 3
+   },
+   {
+    "quote": "センシング＆デバイス製品",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/corporate-info/our-business",
+    "pass": 3
+   },
+   {
+    "quote": "ネットワーク事業製品",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/corporate-info/our-business",
+    "pass": 3
+   },
+   {
+    "quote": "修理・アフターサービス",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/corporate-info/our-business",
+    "pass": 3
+   },
+   {
+    "quote": "プロフェッショナルサービス",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/corporate-info/our-business",
+    "pass": 3
+   },
+   {
+    "quote": "製品に関するお知らせ",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/corporate-info/our-business",
+    "pass": 3
+   },
+   {
+    "quote": "製品に関する重要なお知らせ",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/corporate-info/our-business",
+    "pass": 3
+   },
+   {
+    "quote": "品質と製品安全",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/corporate-info/our-business",
+    "pass": 3
+   },
+   {
+    "quote": "アンリツは、最先端の技術を獲得し続けることで、市場や顧客が要求するソリューションをいち早く提供することを目指しています",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/corporate-info/our-business",
+    "pass": 3
+   },
+   {
+    "quote": "製品 / ソリューション",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/corporate-info/our-business",
+    "pass": 3
+   },
+   {
+    "quote": "サービス アシュアランス",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/corporate-info/our-business",
+    "pass": 3
+   },
+   {
+    "quote": "ネットワーク関連ソリューション",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/corporate-info/our-business",
+    "pass": 3
+   },
+   {
+    "quote": "たな規格に追随し てい く 能力があり 、 自社で製品を企画 ・",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "新しい技術や製品を実現化する",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "現在主力と し ている食品に加え、",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "切なタ イ ミ ングに新製品を投入する ことは簡単ではな く 、 技",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ろ う新製品をいかに う ま く 開発するかが成功の鍵と なり ま す",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "さ らに、 当社のさまざまな事業の製品知識を学び、 クロ",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "自社製品のプラ スチ ッ ク使用削減や再利用の促進など 、 循",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製品の再生可能性を高める ためには、 廃棄物の回収シ ス",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製品回収も含まれ新しい挑戦と なり ます",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "で、 質の高いサービスを提供できるようにすることを目指し",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製作所の製品",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 新たな技術 ・ 商品 ・ サービ スの出現、 新規参入を含む競争激化などの急激",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 新技術 ・ 新製品によ る需要創出 ・ 成長機会獲得",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 商品の安全性に関する問題が起き た場合の賠償費用発生",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 商品の安全性に関する問題が起き た場合のブ ラ ン ド イ メージの低下",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 顧客サイ ド のHACCP 等食品品質関連法令に対応し た製品 ・ サービ スの提供",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 新製品開発数",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 新製品開発数 ： 5機種",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 新製品開発数 ： 3機種",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 新製品開発数 ： 15機種",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 新製品開発数 ： 2機種",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• EV / 電池開発に向けた製品の強化と評価技術の拡充",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 環境配慮型製品の開発",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 環境配慮型製品数",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 環境配慮型製品のリ リ ー ス ： 56機種 （累計）",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "RF/マイクロ波コンポーネント製品を探す",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/ir-library/financial-materials",
+    "pass": 3
+   },
+   {
+    "quote": "センシング＆デバイス製品を探す",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/ir-library/financial-materials",
+    "pass": 3
+   },
+   {
+    "quote": "ネットワークモニタリングソリューションを探す",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/ir-library/financial-materials",
+    "pass": 3
+   },
+   {
+    "quote": "ネットワーク関連ソリューションを探す",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/ir-library/financial-materials",
+    "pass": 3
+   },
+   {
+    "quote": "パワーエレクトロニクス関連ソリューションを探す",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/ir-library/financial-materials",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/ir-library/financial-materials",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "商品入荷から仕上げ、直し、全ての作業を社内（工場内）ででき外注を使う事なく検品員、補修員、検針員、デリバリー員と別ライン作業をしていますので納期、単価の面でも他社より圧縮することができ、全てにおいて管理報告することができます",
+    "url": "https://anritu.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "地局建設保守、 電子部品、",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "在庫管理においては自社独自のソフトでＣ／Ｓ管理し、ＰＤＦファイルにてメールで在庫表を送ることもできます",
+    "url": "https://anritu.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "アンリツの技術的な強み",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/corporate-info/our-business",
+    "pass": 3
+   },
+   {
+    "quote": "ア ン リ ツの強みは、 技術者集団と し ての能力にあり ます",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "な参入障壁があるため、 そ こを超え て参入を加速するため",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率20％",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率14％",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率8％",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率20%",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率 （%）",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 営業利益率",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 営業利益率 ： 11%",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• ソ フ ト ウ ェ アビジネスを拡大し営業利益率を改善",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 営業利益率 ： 5%",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 営業利益率 ： 7%",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ステークホルダー 関連資本 資本の強みと 課題 深化のための取 り 組み 共創価値 （目指すアウ トカム）",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高／営業利益／営業利益率 1株当た り 当期利益／1株当た り 配当金／配当性向",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "連結営業利益率は、 収益性の高いモバイ ル製品の売上減",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "同期比23.5%減の8,983百万円 （営業利益率は8.2%） の減益と なり ま した",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■■売上高 （左軸） ■■営業利益 （左軸） 営業利益率 （右軸）",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "アンリツの技術的な強み",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/ir-library/financial-materials",
+    "pass": 3
+   },
+   {
+    "quote": "アンリツの技術的な強み",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations",
+    "pass": 3
+   },
+   {
+    "quote": "アンリツの技術的な強み",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/corporate-information",
+    "pass": 3
+   },
+   {
+    "quote": "アンリツの技術的な強み",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/corporate-information/profile",
+    "pass": 3
+   },
+   {
+    "quote": "アンリツの技術的な強み",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/corporate-info/message-2024",
+    "pass": 3
+   },
+   {
+    "quote": "アンリツの強みは、技術者集団としての能力にあります",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/corporate-info/message-2024",
+    "pass": 3
+   },
+   {
+    "quote": "現在主力としている食品に加え、医薬品にも領域を広げていきますが、医薬品にはさまざまな参入障壁があるため、そこを超えて参入を加速するためのM&Aも検討しています",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/corporate-info/message-2024",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "これにより市場の成長に貢献するとともに、市場における当社のポジションを確立するというビジネスモデルで事業を展開しています",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/corporate-info/our-business",
+    "pass": 3
+   },
+   {
+    "quote": "技術を活用し たビジネスモデルの構築",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "用したビジネスモデルの",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル ア ウトプット",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルで事業を展開し ていま す",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "アンリツは、最先端の技術を獲得し続けることで、市場や顧客が要求するソリューションをいち早く提供することを目指しています",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/corporate-info/our-business",
+    "pass": 3
+   },
+   {
+    "quote": "・ 顧客の投資抑制や投資戦略の変更によ る市場環境悪化によ る利益の減少",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客 ・ ビジネス環境 デ ジタル 革 新 による",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 顧客の投資抑制や投資戦略の変更によ る市場環境悪化",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 高品質のソ リ ューシ ョ ンの提供によ る顧客満足度の実現と ロイ ヤ リ テ ィ の醸成",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 顧客サイ ド のHACCP 等食品品質関連法令に対応し た製品 ・ サービ スの提供",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■ 顧客ニーズの高度化 ・ 多様化",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 顧客のニーズに応え る ソ リ ューシ ョ ンの開発",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 顧客サポー ト体制の構築および強化",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 最先端の技術を牽引す る顧客と の信頼関係",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 顧客のニーズを先取り するソ リ ューシ ョ ンの",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• AI などの先端技術を獲得し 、 顧客価値の高い ソ リ ュ ー",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 顧客やパー トナーと の協力によ る新しい価",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• グローバルな取引先 （サプラ イ ヤ）",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■ 顧客ニーズの高度化 ・",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客が必要と するソ リ ューシ ョ ンの提供",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア ン リ ツは、 最先端の技術を獲得し続ける こと で 、 市場や顧客が要求する ソ リ ューシ ョ ンをいち早 く 提供する こと",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 業界を リ ー ド する顧客と のパー トナーシ ッ プ強化",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 顧客が必要と する ソ リ ューシ ョ ンの提供",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルな取引先 （協力会社 ・ サプラ イ ヤ）",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 事業方針や資材調達方針の説明、 表彰などを行う取引先と の懇親会、 情報交換会の実施",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 取引先製品展示会、 セ ミ ナー、 技術交流会 （オ ン ラ イ ン開催含む） などを通じたビジネス",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 取引先からの改善 ・ 要望などの提案 ： 「パー ト ナー QU 活動」 の推進",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 適切な取引先と の関係の継続",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "億円増、 11億円増と堅調に推移し たものの、 主力の通信計測事業は、 顧客の5G",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年度につい ては、 顧客の5G開発投資抑",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、測定の原理や競合に対する当社の優位性など、売るための知識を身に付け、顧客の質問に的確に答えるためのロールプレイングも行います",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/corporate-info/message-2024",
+    "pass": 3
+   },
+   {
+    "quote": "この取り組みには顧客からの製品回収も含まれ新しい挑戦となります",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/corporate-info/message-2024",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "アンリツの事業紹介 | アンリツグループ",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/corporate-info/our-business",
+    "pass": 3
+   },
+   {
+    "quote": "アンリツの事業紹介",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/corporate-info/our-business",
+    "pass": 3
+   },
+   {
+    "quote": "アンリツは蓄積した先進技術と積極的な自社開発に加え、お客さまやパートナー企業などとのコラボレーションを通じて、さまざまな社会価値をグローバルに提供しています",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/corporate-info/our-business",
+    "pass": 3
+   },
+   {
+    "quote": "これら価値創造の歩みをご紹介し ま す",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 業 界 をリードする企 業とのパートナーシップ",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（⇒P .34 研究開発 ・ CTOメ ッ セージで代表例を紹介）",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会社紹介ビデオ",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations",
+    "pass": 3
+   },
+   {
+    "quote": "会社紹介 | アンリツグループ",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/corporate-information",
+    "pass": 3
+   },
+   {
+    "quote": "アンリツ株式会社の会社情報、役員一覧、本社へのアクセス情報を紹介しています",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/corporate-information",
+    "pass": 3
+   },
+   {
+    "quote": "代表取締役 社長 グループCEO 濱田 宏一からのメッセージを紹介しています",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/corporate-information",
+    "pass": 3
+   },
+   {
+    "quote": "アンリツの経営理念、経営ビジョンおよび経営方針を紹介しています",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/corporate-information",
+    "pass": 3
+   },
+   {
+    "quote": "会社紹介ビデオ",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/corporate-information",
+    "pass": 3
+   },
+   {
+    "quote": "会社紹介ビデオ",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/corporate-information/profile",
+    "pass": 3
+   },
+   {
+    "quote": "北浜法律事務所・河浪潤パートナー 弁護士「多様な法務の専門家がチームで支援」",
+    "url": "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/020300620/",
+    "pass": 3
+   },
+   {
+    "quote": "また、サプライチェーンにおいても、同様の意識を持つパートナーと連携することで、質の高いサービスを提供できるようにすることを目指しています",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/corporate-info/message-2024",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2024年3月末時点）",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年度売上高実績",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2030年度に2,000億円企業と なるため、 ア ン リ ツは進化し続ける",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2030年度の目標と し て掲げる1,100億円を達成するための",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2030年までにこの比率を30％程度まで上",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2030年度に2,000億円規模の企業になるためには、 社会か",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2030年には、",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度は、 GLP2026のス ター ト の年で す",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2030年度の目指す姿",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2030年度",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1900年 （明治33年）",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1908年 （明治41年）",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1931年 （昭和6年）",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度計画",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2019年度から5年間の売上高は、 主力の通信計測事業におい てモバイ ル製品の",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年度の売上高は、 PQA 事業および環境計測事業が前年同期比でそれぞれ5",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年度の営業利益は、 通信計測事業におけるモバイ ル市場の成長鈍化によ り",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2019年度から5年間の研究開発費は、 2019年度の13,321百万円から、 減少傾向",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020年度は、 コロナ禍の影響もあり 研究開発費が抑制されたこと",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年度以降は、 売上高見合いでコン トロールし ています",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年度の研究開発費は、 9,943百万円 （前年同期比1,477百万円減） で した",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年度につい ては、 顧客の5G開発投資抑",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2019年度から5年間のキ ャ ッ シ ュ ・ フ ローの推移は、 棚卸資産の増加によ る資金",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年度の営業キ ャ ッ シ ュ ・ フ ローは、 主に税引前利益の計上および棚卸資産",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年度は、 リ ー ス負債が増加し たことによ り 、 有利子負債残高は7,193百万円",
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度 決算資料",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/ir-library/financial-materials",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期第2四半期 (中間期) （2026年10月29日）",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/ir-library/financial-materials",
+    "pass": 3
+   },
+   {
+    "quote": "2027年３月期 通期業績予想の修正及び配当予想の修正に関するお知らせ (PDF)",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/ir-library/financial-materials",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期第1四半期 （2026年7月30日）",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/ir-library/financial-materials",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度 決算資料",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/ir-library/financial-materials",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度 決算資料",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/ir-library/financial-materials",
+    "pass": 3
+   },
+   {
+    "quote": "2023年度 決算資料",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/ir-library/financial-materials",
+    "pass": 3
+   },
+   {
+    "quote": "2022年度 決算資料",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/ir-library/financial-materials",
+    "pass": 3
+   },
+   {
+    "quote": "2021年度 決算資料",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/ir-library/financial-materials",
+    "pass": 3
+   },
+   {
+    "quote": "2020年度 決算資料",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/ir-library/financial-materials",
+    "pass": 3
+   },
+   {
+    "quote": "2019年度 決算資料",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/ir-library/financial-materials",
+    "pass": 3
+   },
+   {
+    "quote": "2018年度 決算資料",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/ir-library/financial-materials",
+    "pass": 3
+   },
+   {
+    "quote": "2017年度 決算資料",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/ir-library/financial-materials",
+    "pass": 3
+   },
+   {
+    "quote": "2016年度 決算資料",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/ir-library/financial-materials",
+    "pass": 3
+   },
+   {
+    "quote": "2015年度 決算資料",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/ir-library/financial-materials",
+    "pass": 3
+   },
+   {
+    "quote": "2014年度 決算資料",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/ir-library/financial-materials",
+    "pass": 3
+   },
+   {
+    "quote": "2013年度 決算資料",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/ir-library/financial-materials",
+    "pass": 3
+   },
+   {
+    "quote": "2012年度 決算資料",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/ir-library/financial-materials",
+    "pass": 3
+   },
+   {
+    "quote": "2011年度 決算資料",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/ir-library/financial-materials",
+    "pass": 3
+   },
+   {
+    "quote": "2010年度 決算資料",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/ir-library/financial-materials",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期第2四半期（中間期）決算説明会Q&A 概要",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期第2四半期（中間期）決算短信〔IFRS〕（連結）",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期 第2四半期（中間期）決算説明会資料",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations",
+    "pass": 3
+   },
+   {
+    "quote": "2027年３月期 通期業績予想の修正及び配当予想の修正に関するお知らせ",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期第2四半期（中間期） （2026年10月29日）",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations",
+    "pass": 3
+   },
+   {
+    "quote": "2027年３月期 通期業績予想の修正及び配当予想の修正に関するお知らせ (PDF)",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月25日現在",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/corporate-information/profile",
+    "pass": 3
+   },
+   {
+    "quote": "2015年執行役員、計測事業研究開発総括R&D本部長、16年常務執行役員、17年専務執行役員、計測事業グループプレジデント、18年より現職（写真＝高田 浩行）",
+    "url": "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/020300620/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月号",
+    "url": "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/020300620/",
+    "pass": 3
+   },
+   {
+    "quote": "2030年までにこの比率を30％程度まで上げることを目標としています",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/corporate-info/message-2024",
+    "pass": 3
+   },
+   {
+    "quote": "2030年度に2,000億円規模の企業になるためには、社会からの認知度と信頼を高めることが必要です",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/corporate-info/message-2024",
+    "pass": 3
+   },
+   {
+    "quote": "2030年には、アンリツがいなければ困るという認識を社会全体に広め、存在意義を明確にすることが目標です",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/corporate-info/message-2024",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度は、GLP2026のスタートの年です",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/corporate-info/message-2024",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "アンリツ の事業紹介 - Anritsu — アンリツ の事業紹介 - Anritsu Anritsu https://www.anritsu.com > corporate-info > our-business",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/corporate-info/our-business",
+    "pass": 3
+   },
+   {
+    "quote": "アンリツ グループ - 中期経営計画 GLP2026 - Anritsu — アンリツ グループ - 中期経営計画 GLP2026 - Anritsu Anritsu https://www.anritsu.com > ja-jp > mid-term-business-plan",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/ir-library/mid-term-business-plan",
+    "pass": 3
+   },
+   {
+    "quote": "130 年を超えて挑む未来 | アンリツ グループ - Anritsu — 130 年を超えて挑む未来 | アンリツ グループ - Anritsu Anritsu https://www.anritsu.com > ja-jp > corporate-information",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/corporate-information/130anniversary",
+    "pass": 3
+   },
+   {
+    "quote": "暮らしを支える「はかる」事業 | アンリツ グループ - Anritsu — 暮らしを支える「はかる」事業 | アンリツ グループ - Anritsu Anritsu https://www.anritsu.com > ja-jp > join-us > contribution",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/employment/join-us/contribution",
+    "pass": 3
+   },
+   {
+    "quote": "決算 関連 資料 | アンリツ グループ - Anritsu — 決算 関連 資料 | アンリツ グループ - Anritsu Anritsu https://www.anritsu.com > ir-library > financial-materials",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/ir-library/financial-materials",
+    "pass": 3
+   },
+   {
+    "quote": "投資家のみなさまへ | アンリツ グループ - Anritsu — 投資家のみなさまへ | アンリツ グループ - Anritsu Anritsu https://www.anritsu.com > about-anritsu > investor-relations",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations",
+    "pass": 3
+   },
+   {
+    "quote": "IR ニュース | アンリツ グループ - Anritsu — IR ニュース | アンリツ グループ - Anritsu Anritsu https://www.anritsu.com > investor-relations > ir-news",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/ir-news",
+    "pass": 3
+   },
+   {
+    "quote": "IR 資料 室 | アンリツ グループ - Anritsu — IR 資料 室 | アンリツ グループ - Anritsu Anritsu https://www.anritsu.com > investor-relations > ir-library",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/ir-library",
+    "pass": 3
+   },
+   {
+    "quote": "【 アンリツ 】[6754]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 アンリツ 】[6754]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=6754",
+    "pass": 3
+   },
+   {
+    "quote": "会社紹介 | アンリツ グループ - Anritsu — 会社紹介 | アンリツ グループ - Anritsu Anritsu https://www.anritsu.com > ja-jp > corporate-information",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/corporate-information",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | アンリツ グループ - Anritsu — 会社概要 | アンリツ グループ - Anritsu Anritsu https://www.anritsu.com > corporate-information > profile",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/corporate-information/profile",
+    "pass": 3
+   },
+   {
+    "quote": "アンリツ 統合レポート — アンリツ 統合レポート finance-frontend-pc-dist.west.edge.storage-yahoo.jp PDF https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp > ...",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251111/20251110593529.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業 セグメントの紹介 | アンリツ グループ - Anritsu — 事業 セグメントの紹介 | アンリツ グループ - Anritsu Anritsu https://www.anritsu.com > individual > business-segment",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/individual/business-segment",
+    "pass": 3
+   },
+   {
+    "quote": "アンリツ ・濱田宏一 社長 「市場の変化に適応し社会課題に挑む」 — アンリツ ・濱田宏一 社長 「市場の変化に適応し社会課題に挑む」 日経BP https://project.nikkeibp.co.jp > ESG > atcl > column",
+    "url": "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/020300620/",
+    "pass": 3
+   },
+   {
+    "quote": "グループCEOメッセージアーカイブ-2024 | アンリツ ... - Anritsu — グループCEOメッセージアーカイブ-2024 | アンリツ ... - Anritsu Anritsu https://www.anritsu.com > corporate-info > message-2024",
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/corporate-info/message-2024",
+    "pass": 3
+   },
+   {
+    "quote": "アンリツ 株式会社 代表取締役 社長 グループCEO 濱田宏一が ... — アンリツ 株式会社 代表取締役 社長 グループCEO 濱田宏一が ... Facebook https://www.facebook.com > AnritsuTandM > posts > ア...",
+    "url": "https://www.facebook.com/AnritsuTandM/posts/%E3%82%A2%E3%83%B3%E3%83%AA%E3%83%84%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9-%E7%A4%BE%E9%95%B7-%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97ceo-%E6%BF%B1%E7%94%B0%E5%AE%8F%E4%B8%80%E3%81%8Cmwc-2026%E4%BC%9A%E5%A0%B4%E3%82%88%E3%82%8A%E3%81%94%E6%8C%A8%E6%8B%B6%E7%94%B3%E3%81%97%E4%B8%8A%E3%81%92%E3%81%BE%E3%81%99from-japan-to-barcelonaat-mo/964641699394488/",
+    "pass": 3
+   },
+   {
+    "quote": "アンリツ 【6754】の 社長 ・役員 - キタイシホン — アンリツ 【6754】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/6754/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "インタビュー ／ アンリツ社長 ・浜田宏一氏 汎用計測器巻き返し — インタビュー ／ アンリツ社長 ・浜田宏一氏 汎用計測器巻き返し 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/715734",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://anritu.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://anritu.jp/company.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/corporate-info/our-business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/ir-library/financial-materials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/corporate-information",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/corporate-information/profile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/020300620/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/corporate-info/message-2024",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "アンリツ",
+   "results": [
+    "https://www.anritsu.com/ja-jp",
+    "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%AA%E3%83%84",
+    "https://www.anritsu.com/",
+    "https://www.facebook.com/AnritsuTandM/",
+    "https://www.nikkei.com/nkd/company/?scode=6754",
+    "https://ja.wikipedia.org/wiki/アンリツ",
+    "https://en.wikipedia.org/wiki/Anritsu",
+    "https://finance.yahoo.co.jp/quote/6754.T",
+    "https://shop-jp.anritsu.com/anritsu/ja/JPY/",
+    "https://www.anritsu.com/en-us/"
+   ]
+  },
+  {
+   "query": "株式会社アンリツ",
+   "results": [
+    "https://www.anritsu.com/ja-jp/about-anritsu/corporate-information/profile",
+    "https://www.anritsu.com/ja-jp",
+    "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%AA%E3%83%84",
+    "https://www.facebook.com/AnritsuTandM/",
+    "https://www.anritsu.com/ja-jp/anritsu-customersupport/about-us/corporate-info",
+    "https://job.mynavi.jp/28/pc/search/corp569/outline.html",
+    "https://www.anritsu.com/ja-jp/products",
+    "https://jp.linkedin.com/company/anritsu/life",
+    "https://ja.wikipedia.org/wiki/株式会社サンリオ",
+    "https://ja.wikipedia.org/wiki/アンリツ"
+   ]
+  },
+  {
+   "query": "アンリツ ビジネスモデル",
+   "results": [
+    "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/corporate-info/our-business",
+    "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/ir-library/mid-term-business-plan",
+    "https://www.anritsu.com/ja-jp/about-anritsu/corporate-information/130anniversary",
+    "https://www.anritsu.com/ja-jp/about-anritsu/employment/join-us/contribution",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251111/20251110593529.pdf",
+    "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/individual/business-segment",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrQP&q_no=9",
+    "https://www.anritsu.com/ja-jp/about-anritsu/employment/recruit-info/new-graduates",
+    "https://consovation.com/株式会社アンリツのビジネスモデルに迫る魅力/"
+   ]
+  },
+  {
+   "query": "アンリツ 決算説明資料",
+   "results": [
+    "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/ir-library/financial-materials",
+    "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations",
+    "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/ir-news",
+    "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/ir-library",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=6754",
+    "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/ir-library/other-materials",
+    "https://edinetdb.jp/company/E01774/presentations/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20261029559437/",
+    "https://irbank.net/6754/ir",
+    "https://ufocatch.com/document/TD2026102900255"
+   ]
+  },
+  {
+   "query": "アンリツ 事業系統図",
+   "results": [
+    "https://www.anritsu.com/ja-jp/about-anritsu/corporate-information",
+    "https://www.anritsu.com/ja-jp/about-anritsu/corporate-information/profile",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251111/20251110593529.pdf",
+    "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/individual/business-segment",
+    "https://dl.cdn-anritsu.com/ja-jp/about-anritsu/ir/annual-report/2024/ar2024-02-25.pdf",
+    "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/ir-library/business-report",
+    "https://kitaishihon.com/company/6754/business",
+    "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/ir-library/mid-term-business-plan",
+    "https://www.anritsu.com/ja-jp/anritsu-infivis/about-us/corporate-info",
+    "https://www.anritsu.com/ja-JP/about-anritsu/investor-relations/individual/business-segment"
+   ]
+  },
+  {
+   "query": "アンリツ 社長 インタビュー",
+   "results": [
+    "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/020300620/",
+    "https://www.anritsu.com/ja-jp/about-anritsu/investor-relations/corporate-info/message-2024",
+    "https://www.facebook.com/AnritsuTandM/posts/%E3%82%A2%E3%83%B3%E3%83%AA%E3%83%84%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9-%E7%A4%BE%E9%95%B7-%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97ceo-%E6%BF%B1%E7%94%B0%E5%AE%8F%E4%B8%80%E3%81%8Cmwc-2026%E4%BC%9A%E5%A0%B4%E3%82%88%E3%82%8A%E3%81%94%E6%8C%A8%E6%8B%B6%E7%94%B3%E3%81%97%E4%B8%8A%E3%81%92%E3%81%BE%E3%81%99from-japan-to-barcelonaat-mo/964641699394488/",
+    "https://kitaishihon.com/company/6754/board-of-director",
+    "https://www.nikkan.co.jp/articles/view/715734",
+    "https://www.nikkei.com/article/DGXZQOUC089S20Y5A001C2000000/",
+    "https://the-shashi.com/tse/6754/decisions/",
+    "https://www.anritsu.com/ja-jp/about-anritsu/employment/join-us/senior",
+    "https://video-jp.anritsu.com/ja-jp/detail/video/6324380012112",
+    "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/021000508/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上構成": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部8頁・検索6回）"
+ }
+}

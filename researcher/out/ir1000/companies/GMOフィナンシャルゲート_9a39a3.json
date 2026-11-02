@@ -1,0 +1,2592 @@
+{
+ "name": "ＧＭＯフィナンシャルゲート",
+ "aliases": [],
+ "context": "証券コード4051／情報・通信業／プライム（内国株式）／2025.09期 売上高17,928百万円 営業利益率12.4%",
+ "researched_at": "2026-11-02T19:49:11.786523+00:00",
+ "official_url": "https://gmo-fg.com/",
+ "identified_by": "search:yahoo_jp:GMOフィナンシャルゲート",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立日",
+    "value": "1999年9月7日",
+    "url": "https://gmo-fg.com/company/outline/index.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "クレジットカード、デビットカード、電子マネー等のキャッシュレス決済インフラ提供事業",
+    "url": "https://gmo-fg.com/company/outline/index.html",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "クレジットカード、デビットカード 銀聯カード等の対面決済処理サービス事業",
+    "url": "https://group.gmo/news/article/9189/",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上収益 （百万円）",
+    "value": "7,089 10,295 15,909 18,705 17,927",
+    "url": "https://gmo-fg.com/ir/highlights/index.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "保険対象の決済端末を「物を落として画面が破損した」「水に濡らしてしまった」「お客様、スタッフが落としてしまった」といったトラブルが生じ、修理費用などが発生した時、または修理不能となった場合、月500円*の保険料で年間最大10万円(通算)まで補償する保険です",
+    "url": "https://gmo-fg.com/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に「安全・安心」な決済インフラを提供しております",
+    "url": "https://gmo-fg.com/",
+    "pass": 1
+   },
+   {
+    "quote": "投資を行われる際には、利用者ご自身のご判断で行われるようお願いいたします",
+    "url": "https://gmo-fg.com/ir/corporate/release-policy/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "競争の激化に伴い、当社の施策が想定どおりに奏功しない場合、収益を確保できず、優良取引先との取引状況に変化を招き、当社グループの業績に影響を及ぼす可能性があります",
+    "url": "https://gmo-fg.com/ir/corporate/risk-information/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、このような状況の中、お客様のニーズに合致した端末やサービスの開発・提供等を通じ、競合会社との差別化を実現し、成長性と収益性を確保する方針です",
+    "url": "https://gmo-fg.com/ir/corporate/risk-information/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "これらの法律の適用を受ける当社グループの取引先が法令に違反した場合や行政の指示・指導により事業に制約を受けた場合、当社グループが取扱う決済処理件数や決済処理金額の変動等を通じて、当社グループの業績に影響を及ぼす可能性があります",
+    "url": "https://gmo-fg.com/ir/corporate/risk-information/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "今後クレジットカード業界に関する規制、及び当社グループのお客様である加盟店の事業に関連する規制等の制定により、当社グループの業績に影響を及ぼす可能性があります",
+    "url": "https://gmo-fg.com/ir/corporate/risk-information/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "特定の取引先への依存について(影響レベル：中、顕在化可能性：低)",
+    "url": "https://gmo-fg.com/ir/corporate/risk-information/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループでは、災害やテロ活動等の発生を想定し、顧客及び社会に対する責務を最大限円滑に遂行するため、業務継続体制に関連する規程及び業務継続計画(BCP)を制定し、教育・訓練を実施しております",
+    "url": "https://gmo-fg.com/ir/corporate/risk-information/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループの事業の急速な拡大に伴う事務量の増加により、事務手続きのミスが起こる可能性があり、当該手続きのミスに起因し取引先から訴訟等が提起された場合、当社グループの業績に影響を及ぼす可能性があります",
+    "url": "https://gmo-fg.com/ir/corporate/risk-information/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "のれん及び顧客関連資産について(影響レベル:低、顕在化可能性：低)",
+    "url": "https://gmo-fg.com/ir/corporate/risk-information/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、2016年９月にグローバルカードシステム株式会社（現GMOカードシステム株式会社）のすべての株式を取得しており、のれん及び顧客関連資産を計上しております",
+    "url": "https://gmo-fg.com/ir/corporate/risk-information/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "なお、顧客関連資産については当連結会計年度で償却が終了しております",
+    "url": "https://gmo-fg.com/ir/corporate/risk-information/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "に加え、すでに導⼊済みの⼤⼝顧客向けへのアップセルや、タブレット決済を追加する提案を進めています",
+    "url": "https://gmo-fg.com/ir/library/20260813_GMOFG_logmi_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "あらゆる業種業態のお客様の「決済という行為」を、もっと便利で簡単に、さらには事業に融合させることでより良い社会を創り出す",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "QR･ポイント等とのアライアンス拡充による大口顧客の獲得3",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "エンドユーザー 加盟店 決済事業者",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "つなげる顧客深耕力",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ CO₂排出量精緻化のため、取引先とのエンゲージメントを強化",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "アライアンスによる大口顧客獲得",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "QR・ポイント等とのアライアンス拡充による大口顧客の獲得",
+    "url": "https://gmo-fg.com/ir/library/20260813_setsumeikai_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．無形資産には、ソフトウェア29,977千円と顧客関連資産9,157千円が含まれております",
+    "url": "https://gmo-fg.com/ir/library/20260813_tanshin_FY2026_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客関連資産は企業結合により識別した無形資産であり、見積耐用年数はそれぞれ５年及び15年です",
+    "url": "https://gmo-fg.com/ir/library/20260813_tanshin_FY2026_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "た、ソフトウェアは再調達原価、陳腐化率等の仮定に基づいて測定し、顧客関連資産は見積将来キャッシ",
+    "url": "https://gmo-fg.com/ir/library/20260813_tanshin_FY2026_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ュ・フロー、割引率、既存顧客の逓減率から生み出される将来売上収益等の仮定に基づいて測定していま",
+    "url": "https://gmo-fg.com/ir/library/20260813_tanshin_FY2026_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "引き続き、このような大口顧客や生",
+    "url": "https://gmo-fg.com/ir/library/20260518_GMOFG_logmi_2Q_Final.pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "最大ポテンシャルとして約 2 万 ID を積み上げることを想定しており、既存顧客での安定稼働",
+    "url": "https://gmo-fg.com/ir/library/20260518_GMOFG_logmi_2Q_Final.pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "のある無人 IoT 分野と大口顧客向け分野で、それぞれ展開を計画しています",
+    "url": "https://gmo-fg.com/ir/library/20260518_GMOFG_logmi_2Q_Final.pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "有人の大口顧客向け案件としては、家",
+    "url": "https://gmo-fg.com/ir/library/20260518_GMOFG_logmi_2Q_Final.pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客と記載されています",
+    "url": "https://gmo-fg.com/ir/library/20260518_GMOFG_logmi_2Q_Final.pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ただし、今回のスライド 25 ページにも記載したように、徐々に既存顧客内での ID の拡大が進",
+    "url": "https://gmo-fg.com/ir/library/20260518_GMOFG_logmi_2Q_Final.pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "QR･ポイント等とのアライアンス拡充による大口顧客の獲得",
+    "url": "https://gmo-fg.com/ir/library/20260518_setsumeikai_2Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• タブレット決済導入による加盟店顧客の利便性向上",
+    "url": "https://gmo-fg.com/ir/library/20260518_setsumeikai_2Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "財又はサービスの種類別に分解した顧客との契約及びその他の源泉から認識した収益の区分は以下のとおりです",
+    "url": "https://gmo-fg.com/ir/library/20260515_hankihoukoku_2Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "収益認識の時期 顧客との契約",
+    "url": "https://gmo-fg.com/ir/library/20260515_hankihoukoku_2Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．無形資産には、ソフトウェア29,977千円と顧客関連資産9,157千円が含まれております",
+    "url": "https://gmo-fg.com/ir/library/20260515_hankihoukoku_2Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客関連資産は企業結合により識別した無形資産であり、見積耐用年数はそれぞれ５年及び15年です",
+    "url": "https://gmo-fg.com/ir/library/20260515_hankihoukoku_2Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "た、ソフトウェアは再調達原価、陳腐化率等の仮定に基づいて測定し、顧客関連資産は見積将来キャッシ",
+    "url": "https://gmo-fg.com/ir/library/20260515_hankihoukoku_2Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ュ・フロー、割引率、既存顧客の逓減率から生み出される将来売上収益等の仮定に基づいて測定していま",
+    "url": "https://gmo-fg.com/ir/library/20260515_hankihoukoku_2Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "幅広い業界の決済を支える顧客基盤に加え、付加価値サービスによってお客様の利便性向上や業務効率化などを支援し、その成果を決済取扱高や利用サービス数の拡大として主力事業につなげる「還流モデル」を構築しています",
+    "url": "https://www.gmo-pg.com/blog/articles/article-0182/",
+    "pass": 3
+   },
+   {
+    "quote": "ECサイトでの商品購入、サブスクリプションの支払い、公共料金や税金のオンライン納付など、エンドユーザーには見えにくいものの、社会のさまざまな場面で利用されている決済の裏側を担っています",
+    "url": "https://www.gmo-pg.com/blog/articles/article-0182/",
+    "pass": 3
+   },
+   {
+    "quote": "金融関連事業では、決済代行事業で構築した顧客基盤や決済データを活用し、お客様の売上拡大や資金繰り、業務効率化を支援するサービスを提供しています",
+    "url": "https://www.gmo-pg.com/blog/articles/article-0182/",
+    "pass": 3
+   },
+   {
+    "quote": "これらのサービスは、お客様の事業成長を直接支援すると同時に、決済取引の活性化を通じて主力事業へと還流します",
+    "url": "https://www.gmo-pg.com/blog/articles/article-0182/",
+    "pass": 3
+   },
+   {
+    "quote": "といった幅広い分野を顧客基盤としています",
+    "url": "https://www.gmo-pg.com/blog/articles/article-0182/",
+    "pass": 3
+   },
+   {
+    "quote": "そしてもう一つ重要なのが、こうした構造を「お客様の成長を起点」として捉えている点です",
+    "url": "https://www.gmo-pg.com/blog/articles/article-0182/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様と共に成長するという考え方",
+    "url": "https://www.gmo-pg.com/blog/articles/article-0182/",
+    "pass": 3
+   },
+   {
+    "quote": "当社が成長を継続してきた背景には、こうした事業特性や構造的な強みだけでなく、お客様の成長を支援することで、当社自身も成長するという考え方があります",
+    "url": "https://www.gmo-pg.com/blog/articles/article-0182/",
+    "pass": 3
+   },
+   {
+    "quote": "決済代行事業を起点に、金融関連サービスや業務DXを重ねることで、お客様の売上拡大や業務効率化を支援する",
+    "url": "https://www.gmo-pg.com/blog/articles/article-0182/",
+    "pass": 3
+   },
+   {
+    "quote": "その一方で、利用者にとっては分散した機能を再び使いやすく組み合わせる「リバンドリング」の重要性も高まっています",
+    "url": "https://www.gmo-pg.com/blog/articles/article-0182/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、決済データを起点に、利用者視点で必要な機能を統合的に提供するリバンドリングの考え方を重視してきました",
+    "url": "https://www.gmo-pg.com/blog/articles/article-0182/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の成長を支援する営業力・開発力・サポート力・投資力を一体として備えた総合力",
+    "url": "https://www.gmo-pg.com/blog/articles/article-0182/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の課題を深く理解し、ニーズを掘り起こす",
+    "url": "https://www.gmo-pg.com/blog/articles/article-0182/",
+    "pass": 3
+   },
+   {
+    "quote": "導入後も継続的に改善を重ね、お客様の成長を支援する",
+    "url": "https://www.gmo-pg.com/blog/articles/article-0182/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、不正利用を抑止しながらエンドユーザーの決済承認率を適切に高めることで、加盟店様の売上拡大を支援しています",
+    "url": "https://www.gmo-pg.com/blog/articles/article-0182/",
+    "pass": 3
+   },
+   {
+    "quote": "決済を起点に、お客様の資金繰りや業務効率を支援する金融関連サービスも提供しています",
+    "url": "https://www.gmo-pg.com/blog/articles/article-0182/",
+    "pass": 3
+   },
+   {
+    "quote": "これらのサービスは、お客様の成長を直接支援すると同時に、決済取引の活性化を通じて主力事業へと還流します",
+    "url": "https://www.gmo-pg.com/blog/articles/article-0182/",
+    "pass": 3
+   },
+   {
+    "quote": "を提供し、クレジットカードを持たないユーザーにも柔軟な支払い手段を提供しています",
+    "url": "https://www.gmo-pg.com/blog/articles/article-0182/",
+    "pass": 3
+   },
+   {
+    "quote": "A. 決済代行事業を中核に、付加価値サービスによってお客様を支援し、その成果を決済取扱高や利用サービス数の増加として主力事業へ還流させる「還流モデル」が特徴の一つです",
+    "url": "https://www.gmo-pg.com/blog/articles/article-0182/",
+    "pass": 3
+   },
+   {
+    "quote": "A. お客様の課題やニーズを捉える営業力、サービスを具現化する開発力、導入後を支えるサポート力、海外投資などから得た知見を活用する投資力を一体として備えている点です",
+    "url": "https://www.gmo-pg.com/blog/articles/article-0182/",
+    "pass": 3
+   },
+   {
+    "quote": "① お客様の業種・業態に応じた多様な決済サービスのご提供",
+    "url": "https://kitaishihon.com/company/4051/business",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "サービスのご案内",
+    "url": "https://gmo-fg.com/",
+    "pass": 1
+   },
+   {
+    "quote": "マルチ決済端末ソリューション",
+    "url": "https://gmo-fg.com/",
+    "pass": 1
+   },
+   {
+    "quote": "組込型決済ソリューション",
+    "url": "https://gmo-fg.com/",
+    "pass": 1
+   },
+   {
+    "quote": "決済センターソリューション",
+    "url": "https://gmo-fg.com/",
+    "pass": 1
+   },
+   {
+    "quote": "デリバリーまでの店舗オペレーションを設計できる飲食店向けDXサービスです",
+    "url": "https://gmo-fg.com/",
+    "pass": 1
+   },
+   {
+    "quote": "クレジット決済に加えて、各種電子マネーやポイントサービス機能を搭載",
+    "url": "https://gmo-fg.com/",
+    "pass": 1
+   },
+   {
+    "quote": "【復旧】決済端末でのサービスに関する重要なお知らせ",
+    "url": "https://gmo-fg.com/",
+    "pass": 1
+   },
+   {
+    "quote": "GMOフィナンシャルゲートのサービスはPCI DSSに完全準拠しています",
+    "url": "https://gmo-fg.com/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスのご案内",
+    "url": "https://gmo-fg.com/strength/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "マルチ決済端末ソリューション",
+    "url": "https://gmo-fg.com/strength/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "組込型決済ソリューション",
+    "url": "https://gmo-fg.com/strength/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "決済センターソリューション",
+    "url": "https://gmo-fg.com/strength/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "あらゆる業種・業態のキャッシュレス化をご支援するキャッシュレスプラットフォーマーとして、消費者と事業者にとって安心・安全で経済合理性が高い決済サービスを提供いたします",
+    "url": "https://gmo-fg.com/strength/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業者のサービスに「決済という行為」を融合させていくことで消費者にとっては便利で簡単な決済を提供し、事業者にとってはサービスの利便性向上、ひいては売上向上に寄与いたします",
+    "url": "https://gmo-fg.com/strength/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "決済デバイス、決済センター、入金業務までをワンストップでご提供可能なため、事業者の環境に合わせて最適な決済ソリューションをご提供いたします",
+    "url": "https://gmo-fg.com/strength/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "今後も決済デバイスの多様化、決済センターの多様化、入金業務の多様化が見込まれますが、事業環境の変化や消費者のニーズに合わせて順次サービスを拡張いたします",
+    "url": "https://gmo-fg.com/strength/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "GMOフィナンシャルゲートのサービスはPCI DSSに完全準拠しています",
+    "url": "https://gmo-fg.com/strength/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービスのご案内",
+    "url": "https://gmo-fg.com/company/outline/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "マルチ決済端末ソリューション",
+    "url": "https://gmo-fg.com/company/outline/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "組込型決済ソリューション",
+    "url": "https://gmo-fg.com/company/outline/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "決済センターソリューション",
+    "url": "https://gmo-fg.com/company/outline/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションパートナー",
+    "url": "https://gmo-fg.com/company/outline/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本クレジットカード協会から情報処理センター認定取得、クレジット決済サービス開始",
+    "url": "https://gmo-fg.com/company/outline/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ユーシーカード株式会社から包括代理加盟店契約権を許諾され、クレジットカード決済代行サービス開始",
+    "url": "https://gmo-fg.com/company/outline/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業領域拡大戦略として、組込端末による決済サービス立上げ、飲料メーカー・自販機メーカー等への営業活動を開始",
+    "url": "https://gmo-fg.com/company/outline/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "GMOフィナンシャルゲートのサービスはPCI DSSに完全準拠しています",
+    "url": "https://gmo-fg.com/company/outline/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービスのご案内",
+    "url": "https://gmo-fg.com/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "マルチ決済端末ソリューション",
+    "url": "https://gmo-fg.com/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "組込型決済ソリューション",
+    "url": "https://gmo-fg.com/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "決済センターソリューション",
+    "url": "https://gmo-fg.com/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "GMOフィナンシャルゲートのサービスはPCI DSSに完全準拠しています",
+    "url": "https://gmo-fg.com/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービスのご案内",
+    "url": "https://gmo-fg.com/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "マルチ決済端末ソリューション",
+    "url": "https://gmo-fg.com/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "組込型決済ソリューション",
+    "url": "https://gmo-fg.com/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "決済センターソリューション",
+    "url": "https://gmo-fg.com/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "GMOフィナンシャルゲートのサービスはPCI DSSに完全準拠しています",
+    "url": "https://gmo-fg.com/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービスのご案内",
+    "url": "https://gmo-fg.com/ir/calendar/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "マルチ決済端末ソリューション",
+    "url": "https://gmo-fg.com/ir/calendar/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "組込型決済ソリューション",
+    "url": "https://gmo-fg.com/ir/calendar/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "決済センターソリューション",
+    "url": "https://gmo-fg.com/ir/calendar/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "GMOフィナンシャルゲートのサービスはPCI DSSに完全準拠しています",
+    "url": "https://gmo-fg.com/ir/calendar/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービスのご案内",
+    "url": "https://gmo-fg.com/ir/corporate/message/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "マルチ決済端末ソリューション",
+    "url": "https://gmo-fg.com/ir/corporate/message/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "組込型決済ソリューション",
+    "url": "https://gmo-fg.com/ir/corporate/message/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "決済センターソリューション",
+    "url": "https://gmo-fg.com/ir/corporate/message/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "GMOフィナンシャルゲートのサービスはPCI DSSに完全準拠しています",
+    "url": "https://gmo-fg.com/ir/corporate/message/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービスのご案内",
+    "url": "https://gmo-fg.com/ir/individual/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "マルチ決済端末ソリューション",
+    "url": "https://gmo-fg.com/ir/individual/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "組込型決済ソリューション",
+    "url": "https://gmo-fg.com/ir/individual/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "決済センターソリューション",
+    "url": "https://gmo-fg.com/ir/individual/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "GMOフィナンシャルゲートのサービスはPCI DSSに完全準拠しています",
+    "url": "https://gmo-fg.com/ir/individual/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービスのご案内",
+    "url": "https://gmo-fg.com/ir/library/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "マルチ決済端末ソリューション",
+    "url": "https://gmo-fg.com/ir/library/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "組込型決済ソリューション",
+    "url": "https://gmo-fg.com/ir/library/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "決済センターソリューション",
+    "url": "https://gmo-fg.com/ir/library/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "GMOフィナンシャルゲートのサービスはPCI DSSに完全準拠しています",
+    "url": "https://gmo-fg.com/ir/library/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービスのご案内",
+    "url": "https://gmo-fg.com/ir/library/financial-statements/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "マルチ決済端末ソリューション",
+    "url": "https://gmo-fg.com/ir/library/financial-statements/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "組込型決済ソリューション",
+    "url": "https://gmo-fg.com/ir/library/financial-statements/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "決済センターソリューション",
+    "url": "https://gmo-fg.com/ir/library/financial-statements/index.html",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "パートナーを知る",
+    "url": "https://gmo-fg.com/",
+    "pass": 1
+   },
+   {
+    "quote": "デリバリーまでの店舗オペレーションを設計できる飲食店向けDXサービスです",
+    "url": "https://gmo-fg.com/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーを知る",
+    "url": "https://gmo-fg.com/strength/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーを知る",
+    "url": "https://gmo-fg.com/company/outline/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションパートナー",
+    "url": "https://gmo-fg.com/company/outline/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーを知る",
+    "url": "https://gmo-fg.com/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社の成長性やビジネスモデル、収益モデルを分かりやすく紹介しております",
+    "url": "https://gmo-fg.com/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社の経営方針について紹介しております",
+    "url": "https://gmo-fg.com/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーを知る",
+    "url": "https://gmo-fg.com/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーを知る",
+    "url": "https://gmo-fg.com/ir/calendar/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーを知る",
+    "url": "https://gmo-fg.com/ir/corporate/message/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーを知る",
+    "url": "https://gmo-fg.com/ir/individual/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーを知る",
+    "url": "https://gmo-fg.com/ir/library/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーを知る",
+    "url": "https://gmo-fg.com/ir/library/financial-statements/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーを知る",
+    "url": "https://gmo-fg.com/ir/library/presentation/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーを知る",
+    "url": "https://gmo-fg.com/ir/library/securities-report/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーを知る",
+    "url": "https://gmo-fg.com/ir/library/disclosure/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーを知る",
+    "url": "https://gmo-fg.com/ir/library/movie/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーを知る",
+    "url": "https://gmo-fg.com/ir/library/data-book/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーを知る",
+    "url": "https://gmo-fg.com/ir/library/other/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーを知る",
+    "url": "https://gmo-fg.com/ir/corporate/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーを知る",
+    "url": "https://gmo-fg.com/ir/corporate/governance/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーを知る",
+    "url": "https://gmo-fg.com/ir/corporate/release-policy/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーを知る",
+    "url": "https://gmo-fg.com/ir/corporate/risk-information/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループの事業は、対面決済、すなわち消費者が商品やサービスの提供を受ける現場において、対価をキャッシュレスで支払う行為を対象としているため、各種店舗や施設、イベント会場等に向けた決済端末の販売を行っております",
+    "url": "https://gmo-fg.com/ir/corporate/risk-information/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "決済端末を設置する加盟店は多種多様に及び、リスクの分散が図られていると考えておりますが、景気悪化のほか紛争、事件、事故、災害、異常気象、感染症のまん延等の要因により、大規模な店舗や施設の開発計画が変更になり、また大規模イベントが中止になるなど、大口の販売計画を見直す必要が生じた場合には、当社グループの業績に影響を及ぼす可能性があります",
+    "url": "https://gmo-fg.com/ir/corporate/risk-information/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "こうした状況は前述「①経済環境の変化等について」、後述「（2）①決済端末の調達、販売について」に記載のとおり、端末販売においてはメーカーにおける生産体制の変化や加盟店における店舗開発計画の変更を通じて、また手数料収入においては決済処理件数やGMV（決済処理金額）の減少を通じて、当社グループの業績に影響を及ぼす可能性があります",
+    "url": "https://gmo-fg.com/ir/corporate/risk-information/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループでは、「第２ 事業の状況 ２ サステナビリティに関する考え方及び取組み」に記載のとおり、パートナー一人ひとりが能力を最大限発揮できる環境を作ることにより人材の流出を防ぐとともに、専門的な知識を有する人材の獲得を継続してまいります",
+    "url": "https://gmo-fg.com/ir/corporate/risk-information/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーを知る",
+    "url": "https://gmo-fg.com/ir/highlights/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーを知る",
+    "url": "https://gmo-fg.com/ir/faq/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーを知る",
+    "url": "https://gmo-fg.com/ir/stock/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーを知る",
+    "url": "https://gmo-fg.com/ir/dividend/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーを知る",
+    "url": "https://gmo-fg.com/ir/analyst-coverage/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "スでも表現しているように、パートナーとしてしっかりと提案を継続できれば問題はないと考えています",
+    "url": "https://gmo-fg.com/ir/library/20260813_GMOFG_logmi_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "のエクスクルーシブのパートナー企業がいたり、新しい提携を始めたり、難易度が⾼めの業界と認識していま",
+    "url": "https://gmo-fg.com/ir/library/20260813_GMOFG_logmi_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "➢ 小規模・スタートアップ企業の起業・店舗展開支援",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "店舗運営の高度化ニーズ",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "- 人が本来の価値を発揮できる店舗環境をデジタルでつくる -",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "飲食店オペレーション支援サービス導入済店舗(ファストフード、寿司店舗等)",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "最適な店舗オペレーションに対応したシステムのカスタマイズ提案",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "全パートナー*1の能力向上に資する各種制度の充実により持続的な成長を目指す",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "パートナー数 102人 124人 148人 161人 148人",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（内訳）従業員パートナー数 81人 96人 108人 123人 123人",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（内訳）臨時雇用パートナー数 21人 28人 40人 38人 25人",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "従業員パートナーにおける女性比率 29.8% 22.8% 32.4% 29.8% 30.8%",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "管理職パートナーにおける女性比率 10.5% 14.3% 13.6% 11.5% 4.7%",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "*「パートナー数」の対象は連結企業集団であるGMOフィナンシャルゲート、GMOカードシステム、GMOデータ",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "*「従業員パートナー数」は期末時点における正社員、再雇用社員、契約社員、出向社員(当社 グループからグループ外への",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "*「臨時雇用パートナー数」はパートタイマー、派遣社員の最近1年間における平均合計人数",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "*「従業員パートナーにおける女性比率」及び「管理職パートナーにおける女性比率」は、「従業員パートナー」を対象とした数値",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "*「離職率」は2023年9月期より、契約・派遣パートナーを集計対象より除く",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 360度多面評価制度：パートナーが上司を無記名で評価できる制度",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（*1）当社では、従業員をはじめとした役職員のことを「パートナー」と呼称",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名報酬委員会(2025/9期)",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "FG入社、2018年12月より取締役に就任、ソリューションパートナー本部を管",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "青山 明生／取締役 ソリューションパートナー本部本部長",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ソリューションパートナー本部",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取締役 青山 明生 （ソリューションパートナー本部本部長）",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "リアル店舗決済 + IoT決済 EC決済",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "：当社アライアンスパートナー",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "私たちの強み",
+    "url": "https://gmo-fg.com/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの強み｜GMOフィナンシャルゲート株式会社",
+    "url": "https://gmo-fg.com/strength/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの強み",
+    "url": "https://gmo-fg.com/strength/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの強み",
+    "url": "https://gmo-fg.com/company/outline/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの強み",
+    "url": "https://gmo-fg.com/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの強み",
+    "url": "https://gmo-fg.com/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの強み",
+    "url": "https://gmo-fg.com/ir/calendar/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの強み",
+    "url": "https://gmo-fg.com/ir/corporate/message/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの強み",
+    "url": "https://gmo-fg.com/ir/individual/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの強み",
+    "url": "https://gmo-fg.com/ir/library/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの強み",
+    "url": "https://gmo-fg.com/ir/library/financial-statements/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの強み",
+    "url": "https://gmo-fg.com/ir/library/presentation/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの強み",
+    "url": "https://gmo-fg.com/ir/library/securities-report/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの強み",
+    "url": "https://gmo-fg.com/ir/library/disclosure/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの強み",
+    "url": "https://gmo-fg.com/ir/library/movie/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの強み",
+    "url": "https://gmo-fg.com/ir/library/data-book/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの強み",
+    "url": "https://gmo-fg.com/ir/library/other/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの強み",
+    "url": "https://gmo-fg.com/ir/corporate/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの強み",
+    "url": "https://gmo-fg.com/ir/corporate/governance/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの強み",
+    "url": "https://gmo-fg.com/ir/corporate/release-policy/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの強み",
+    "url": "https://gmo-fg.com/ir/corporate/risk-information/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "こうした状況に対し、当社グループでは先々の端末需要を勘案して安全在庫の確保を行い、端末販売の新規案件獲得に努め、多業種加盟店の確保により特定業種の加盟店に依存しない形で決済サービスの提供を行っていること等により、当社グループ業績への影響を最小化すべく対応しております",
+    "url": "https://gmo-fg.com/ir/corporate/risk-information/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お互いが強みを発揮し事業成長を目指すことに加えグループシナジーの実現に最大限の努力をすることが親会社を含むグループ全体の成長、そして当社グループの成長率及び成功確度を高めることができるものと考えております",
+    "url": "https://gmo-fg.com/ir/corporate/risk-information/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの強み",
+    "url": "https://gmo-fg.com/ir/highlights/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの強み",
+    "url": "https://gmo-fg.com/ir/faq/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "売上区分ごとの粗利率はどうなっていますか？",
+    "url": "https://gmo-fg.com/ir/faq/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "イニシャルの粗利率は現状10％程度であり、売上を牽引しているstera terminalの売上構成比が上がってきていることから、全体粗利率は過去数年間において低下傾向にあります",
+    "url": "https://gmo-fg.com/ir/faq/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストック、フィー、スプレッドについては費用配分が困難であるため、それぞれの粗利率は開示しておりません",
+    "url": "https://gmo-fg.com/ir/faq/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "リカーリング型全体でみると粗利率は60％程度となります",
+    "url": "https://gmo-fg.com/ir/faq/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの強み",
+    "url": "https://gmo-fg.com/ir/stock/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの強み",
+    "url": "https://gmo-fg.com/ir/dividend/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの強み",
+    "url": "https://gmo-fg.com/ir/analyst-coverage/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "⼤⼿加盟店が本格稼働を開始し、リカーリング型粗利の伸⻑が増益を牽引して",
+    "url": "https://gmo-fg.com/ir/library/20260813_GMOFG_logmi_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1.6 リカーリング粗利が⽀える利益成⻑",
+    "url": "https://gmo-fg.com/ir/library/20260813_GMOFG_logmi_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その粗利についてお話しします",
+    "url": "https://gmo-fg.com/ir/library/20260813_GMOFG_logmi_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "スライド左側に、リカーリング粗利を販管費と⽐較しながら LTM で表現しています",
+    "url": "https://gmo-fg.com/ir/library/20260813_GMOFG_logmi_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "粗利を⽰し、折れ線グラフは販管費を⽰しています",
+    "url": "https://gmo-fg.com/ir/library/20260813_GMOFG_logmi_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025 年 9 ⽉期第 4 四半期以降、リカーリング粗利が販管費を上回る結果を計上できています",
+    "url": "https://gmo-fg.com/ir/library/20260813_GMOFG_logmi_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、リカーリングの粗利率についてもこだわりを持って向上させ、 60 パーセントから 70 パーセントを⽬標と",
+    "url": "https://gmo-fg.com/ir/library/20260813_GMOFG_logmi_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "質疑応答：リカーリング粗利とカバー率の関係について",
+    "url": "https://gmo-fg.com/ir/library/20260813_GMOFG_logmi_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "質問者：これまでリカーリング粗利が四半期ベースで公表されたことはなかったと思います",
+    "url": "https://gmo-fg.com/ir/library/20260813_GMOFG_logmi_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ついてはどのように考えればよいでしょうか？ 4 で割ると実績のリカーリング粗利であると考えてよいので",
+    "url": "https://gmo-fg.com/ir/library/20260813_GMOFG_logmi_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "したがって、単純に直近四半期のリカーリング粗利を",
+    "url": "https://gmo-fg.com/ir/library/20260813_GMOFG_logmi_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "リカーリング粗利がしっかりと伸⻑し、",
+    "url": "https://gmo-fg.com/ir/library/20260813_GMOFG_logmi_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "リカーリング型粗利率3",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 業種・業態別に強みを持つアライアンスの拡充",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1. アクティブID数 2. リカーリングARPU 3. リカーリング粗利率1 2 3",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "参入障壁（準拠すべきレギュレーション）",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "価値を支えるGMO-FGの強み",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その他決済手段においても複数のマネタイズポイントを有する事が強み",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": ": 大手加盟店の本格稼働、リカーリング型粗利の伸長が増益を牽引",
+    "url": "https://gmo-fg.com/ir/library/20260813_setsumeikai_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(+)リカーリング粗利の成長が",
+    "url": "https://gmo-fg.com/ir/library/20260813_setsumeikai_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "リカーリング粗利・販管費推移(LTM*1)",
+    "url": "https://gmo-fg.com/ir/library/20260813_setsumeikai_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1.6 リカーリング粗利が支える利益成長",
+    "url": "https://gmo-fg.com/ir/library/20260813_setsumeikai_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "リカーリング粗利の販管費カバー率は122.7%に上昇",
+    "url": "https://gmo-fg.com/ir/library/20260813_setsumeikai_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "リカーリング粗利",
+    "url": "https://gmo-fg.com/ir/library/20260813_setsumeikai_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "*2) 販管費カバー率＝リカーリング粗利(LTM)÷販管費(LTM)",
+    "url": "https://gmo-fg.com/ir/library/20260813_setsumeikai_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "リカーリング粗利率3",
+    "url": "https://gmo-fg.com/ir/library/20260813_setsumeikai_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 業種・業態別に強みを持つアライアンスの拡充",
+    "url": "https://gmo-fg.com/ir/library/20260813_setsumeikai_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1. アクティブID数 2. リカーリングARPU 3. リカーリング粗利率1 2 3",
+    "url": "https://gmo-fg.com/ir/library/20260813_setsumeikai_3Q_Final.pdf",
+    "pass": 2
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年9月期 第3四半期決算説明会",
+    "url": "https://gmo-fg.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期 第2四半期決算説明会",
+    "url": "https://gmo-fg.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期 第1四半期決算説明会",
+    "url": "https://gmo-fg.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月期 通期決算説明会",
+    "url": "https://gmo-fg.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月期 第3四半期決算説明会",
+    "url": "https://gmo-fg.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月期 第2四半期決算説明会",
+    "url": "https://gmo-fg.com/",
+    "pass": 1
+   },
+   {
+    "quote": "1999年9月7日",
+    "url": "https://gmo-fg.com/company/outline/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月現在",
+    "url": "https://gmo-fg.com/company/outline/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "1999年9月",
+    "url": "https://gmo-fg.com/company/outline/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2001年8月",
+    "url": "https://gmo-fg.com/company/outline/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2009年11月",
+    "url": "https://gmo-fg.com/company/outline/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2010年1月",
+    "url": "https://gmo-fg.com/company/outline/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2010年3月",
+    "url": "https://gmo-fg.com/company/outline/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2012年7月",
+    "url": "https://gmo-fg.com/company/outline/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2015年4月",
+    "url": "https://gmo-fg.com/company/outline/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2016年1月",
+    "url": "https://gmo-fg.com/company/outline/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2016年9月",
+    "url": "https://gmo-fg.com/company/outline/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年10月",
+    "url": "https://gmo-fg.com/company/outline/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年2月",
+    "url": "https://gmo-fg.com/company/outline/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年8月",
+    "url": "https://gmo-fg.com/company/outline/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年7月",
+    "url": "https://gmo-fg.com/company/outline/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年7月",
+    "url": "https://gmo-fg.com/company/outline/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年4月",
+    "url": "https://gmo-fg.com/company/outline/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年12月",
+    "url": "https://gmo-fg.com/company/outline/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月",
+    "url": "https://gmo-fg.com/company/outline/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月期通期連結業績予想の修正及び配当予想の修正（増配）に関するお知らせ",
+    "url": "https://gmo-fg.com/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月期 第３四半期 決算説明会書き起こし（ログミーファイナンス）",
+    "url": "https://gmo-fg.com/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月期 第３四半期 決算説明会",
+    "url": "https://gmo-fg.com/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期 通期決算発表",
+    "url": "https://gmo-fg.com/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 IRニュース",
+    "url": "https://gmo-fg.com/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月期通期連結業績予想の修正及び配当予想の修正（増配）に関するお知らせ",
+    "url": "https://gmo-fg.com/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月期 第３四半期 決算説明会書き起こし（ログミーファイナンス）",
+    "url": "https://gmo-fg.com/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月期 第３四半期 決算説明会",
+    "url": "https://gmo-fg.com/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月期 第３四半期 決算短信",
+    "url": "https://gmo-fg.com/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月期 第2四半期 決算説明会書き起こし（ログミーファイナンス）",
+    "url": "https://gmo-fg.com/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月期 第２四半期 決算説明会",
+    "url": "https://gmo-fg.com/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月期 半期報告書",
+    "url": "https://gmo-fg.com/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月期中間連結会計期間の連結業績予想と実績値との差異に関するお知らせ",
+    "url": "https://gmo-fg.com/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月期 第２四半期 決算短信",
+    "url": "https://gmo-fg.com/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月期 第1四半期 決算説明会書き起こし（ログミーファイナンス）",
+    "url": "https://gmo-fg.com/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月期 第１四半期 決算説明会",
+    "url": "https://gmo-fg.com/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月期 第１四半期 決算短信",
+    "url": "https://gmo-fg.com/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期 通期決算発表",
+    "url": "https://gmo-fg.com/ir/calendar/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月期 第３四半期 決算説明会",
+    "url": "https://gmo-fg.com/ir/library/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月期 第３四半期 決算短信",
+    "url": "https://gmo-fg.com/ir/library/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期",
+    "url": "https://gmo-fg.com/ir/library/financial-statements/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月期 第３四半期 決算短信",
+    "url": "https://gmo-fg.com/ir/library/financial-statements/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月期 第２四半期 決算短信",
+    "url": "https://gmo-fg.com/ir/library/financial-statements/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月期 第１四半期 決算短信",
+    "url": "https://gmo-fg.com/ir/library/financial-statements/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月期",
+    "url": "https://gmo-fg.com/ir/library/financial-statements/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年９月期 通期決算短信",
+    "url": "https://gmo-fg.com/ir/library/financial-statements/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年９月期 第３四半期 決算短信",
+    "url": "https://gmo-fg.com/ir/library/financial-statements/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年９月期 第２四半期 決算短信",
+    "url": "https://gmo-fg.com/ir/library/financial-statements/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年９月期 第１四半期 決算短信",
+    "url": "https://gmo-fg.com/ir/library/financial-statements/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年9月期",
+    "url": "https://gmo-fg.com/ir/library/financial-statements/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年９月期 通期決算短信(IFRS)",
+    "url": "https://gmo-fg.com/ir/library/financial-statements/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年９月期 通期決算短信",
+    "url": "https://gmo-fg.com/ir/library/financial-statements/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年９月期 第3四半期 決算短信",
+    "url": "https://gmo-fg.com/ir/library/financial-statements/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年９月期 第2四半期 決算短信",
+    "url": "https://gmo-fg.com/ir/library/financial-statements/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年９月期 第１四半期 決算短信",
+    "url": "https://gmo-fg.com/ir/library/financial-statements/index.html",
+    "pass": 1
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "当社の成長性やビジネスモデル、収益モデルを分かりやすく紹介しております",
+    "url": "https://gmo-fg.com/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://gmo-fg.com/ir/individual/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "そのような部分においては、端末レス、または当社の商流を通らない端末のローンチも控えています",
+    "url": "https://gmo-fg.com/ir/library/20260813_GMOFG_logmi_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "イニシャル 内容 収益モデル",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "フィー 内容 収益モデル",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "スプレッド 内容 収益モデル",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "大口案件に伴う収益構造の変化・キャッシュ創出力向上",
+    "url": "https://gmo-fg.com/ir/library/20260813_setsumeikai_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "大口案件に伴う収益構造の変化・キャッシュ創出力向上",
+    "url": "https://gmo-fg.com/ir/library/20260518_setsumeikai_2Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "\"20期連続\"増収増益を支えるGMOペイメントゲートウェイのビジネスモデル | あなたのとなりに、決済を",
+    "url": "https://www.gmo-pg.com/blog/articles/article-0182/",
+    "pass": 3
+   },
+   {
+    "quote": "\"20期連続\"増収増益を支えるGMOペイメントゲートウェイのビジネスモデル",
+    "url": "https://www.gmo-pg.com/blog/articles/article-0182/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://www.gmo-pg.com/blog/articles/article-0182/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、決算説明資料・IRイントロダクションをもとに、当社がどのような事業構造・収益モデルによって成長を続けてきたのかを、できるだけかみ砕いて解説します",
+    "url": "https://www.gmo-pg.com/blog/articles/article-0182/",
+    "pass": 3
+   },
+   {
+    "quote": "連続増収増益を支えるGMO-PGのビジネスモデル（シリーズ4本）",
+    "url": "https://www.gmo-pg.com/blog/articles/article-0182/",
+    "pass": 3
+   },
+   {
+    "quote": "20期連続の成長を支える「還流モデル」と収益モデル",
+    "url": "https://www.gmo-pg.com/blog/articles/article-0182/",
+    "pass": 3
+   },
+   {
+    "quote": "当社の収益モデル（クレジットカードの例）",
+    "url": "https://www.gmo-pg.com/blog/articles/article-0182/",
+    "pass": 3
+   },
+   {
+    "quote": "当社の収益モデルとしてクレジットカードの場合、",
+    "url": "https://www.gmo-pg.com/blog/articles/article-0182/",
+    "pass": 3
+   },
+   {
+    "quote": "構造的なビジネスモデルによって上場来20期連続の増収増益を実現してきました",
+    "url": "https://www.gmo-pg.com/blog/articles/article-0182/",
+    "pass": 3
+   },
+   {
+    "quote": "GMOペイメントゲートウェイのビジネスモデルに関するFAQ",
+    "url": "https://www.gmo-pg.com/blog/articles/article-0182/",
+    "pass": 3
+   },
+   {
+    "quote": "Q. GMOペイメントゲートウェイ連結企業集団のビジネスモデルの特徴は何ですか？",
+    "url": "https://www.gmo-pg.com/blog/articles/article-0182/",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループ事業系統図は次のとおりです",
+    "url": "https://kitaishihon.com/company/4051/business",
+    "pass": 3
+   },
+   {
+    "quote": "② 決済処理サービスに係るビジネスモデルについて",
+    "url": "https://kitaishihon.com/company/4051/business",
+    "pass": 3
+   },
+   {
+    "quote": "① 決済代行サービスに係るビジネスモデル",
+    "url": "https://kitaishihon.com/company/4051/business",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "当社グループはリカーリング型収益の拡大を追求し、フロー型収益をフックとした加盟店獲得に注力しております",
+    "url": "https://gmo-fg.com/ir/individual/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "そのため、現在は決済端末事業から成るイニシャル売上が約５割と高い水準にありますが、これは市場シェアを拡大させる戦略遂行によるものであり、将来的なリカーリング型収益の拡大と収益性向上の源泉となります",
+    "url": "https://gmo-fg.com/ir/individual/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "こうした状況は前述「①経済環境の変化等について」、後述「（2）①決済端末の調達、販売について」に記載のとおり、端末販売においてはメーカーにおける生産体制の変化や加盟店における店舗開発計画の変更を通じて、また手数料収入においては決済処理件数やGMV（決済処理金額）の減少を通じて、当社グループの業績に影響を及ぼす可能性があります",
+    "url": "https://gmo-fg.com/ir/corporate/risk-information/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "提供する対面キャッシュレス決済サービスについて、サービスの内容に従って「イニシャル」「ストック」「フィー」「スプレッド」の４つに売上を区分しております",
+    "url": "https://gmo-fg.com/ir/faq/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、ストック、フィー、スプレッドの3区分をまとめて「リカーリング型」と定義しております",
+    "url": "https://gmo-fg.com/ir/faq/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "決済処理サービスにおいては、決済端末販売によりイニシャルが計上され、アクティブID数の増加によりストック及びフィーが増加します",
+    "url": "https://gmo-fg.com/ir/faq/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "決済代行サービスにおいても、決済端末販売によりイニシャルが計上され、加盟店獲得がストック及びフィーの増加とともに、スプレッドの増加につながっております",
+    "url": "https://gmo-fg.com/ir/faq/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "イニシャルは端末販売、付属品販売、開発収入など一過性収益が中心となりますが、アクティブID数の積み上げがリカーリング型の増加につながる構造にあります",
+    "url": "https://gmo-fg.com/ir/faq/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストックはカード会社や加盟店単位の月額固定売上、台数単位通信料売上など、決済件数ではなく、契約台数に紐づいた固定的な売上となります",
+    "url": "https://gmo-fg.com/ir/faq/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストック、フィー、スプレッドについては費用配分が困難であるため、それぞれの粗利率は開示しておりません",
+    "url": "https://gmo-fg.com/ir/faq/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "リカーリング型全体でみると粗利率は60％程度となります",
+    "url": "https://gmo-fg.com/ir/faq/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社の中期成長は、高稼働が見込めるID数の積み上げとリカーリング収益の拡大が中心です",
+    "url": "https://gmo-fg.com/ir/faq/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社が重要視する経営指標は主要KPI（アクティブID数、決済処理件数、ARPU（ID当たり年間リカーリング売上）、決済処理金額（GMV））と 営業利益成長率 です",
+    "url": "https://gmo-fg.com/ir/faq/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "イニシャルはフロービジネスであり、納入タイミングによって四半期の変動が大きくなりますが、質の高いアクティブIDを増やすことで 利益率の高いリカーリング型売上が拡大し、ARPUの向上にもつながります",
+    "url": "https://gmo-fg.com/ir/faq/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "この積み上げが決済処理件数の増加を通じ、当社リカーリング型収益の拡大に寄与していく構造です",
+    "url": "https://gmo-fg.com/ir/faq/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "steraを中心とした決済端末販売によるイニシャルが売上成長を牽引していますが、アクティブID数の増加に伴いリカーリング型も順調に拡大しています",
+    "url": "https://gmo-fg.com/ir/faq/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "足元ではソリューションアセットの開発・提供に注力しており、この取り組みは、更なる加盟店の開拓とリカーリング型売上の拡大に貢献していきます",
+    "url": "https://gmo-fg.com/ir/faq/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "一方、リカーリング型には季節性があり、10月～12月（当社第1四半期）はGMVが伸びる傾向にあり、相対的に経済活動が鈍化する１月～３月（当社第２四半期）は落ち着く傾向が見られます",
+    "url": "https://gmo-fg.com/ir/faq/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "リカーリング型売上についても、好調なイニシャル売上を背景としたアクティブID 数の増加に加",
+    "url": "https://gmo-fg.com/ir/library/20260910_yosounoshusei.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "え、決済処理件数・金額が想定以上に拡大したことでリカーリング型売上（ストック、フィー及びスプレッド",
+    "url": "https://gmo-fg.com/ir/library/20260910_yosounoshusei.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第 3 四半期累計のリカーリング型売上は 81 億 4,000 万円で、前年同期⽐プラス 26.7 パーセント",
+    "url": "https://gmo-fg.com/ir/library/20260813_GMOFG_logmi_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "半期累計の ARPU は 1 万 7,500 円で、前年同期⽐ 12.8 パーセントの増加です",
+    "url": "https://gmo-fg.com/ir/library/20260813_GMOFG_logmi_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⼤⼿加盟店が本格稼働を開始し、リカーリング型粗利の伸⻑が増益を牽引して",
+    "url": "https://gmo-fg.com/ir/library/20260813_GMOFG_logmi_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "リカーリング型については、⼤⼿ド",
+    "url": "https://gmo-fg.com/ir/library/20260813_GMOFG_logmi_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "リカーリング型では⾼稼働の",
+    "url": "https://gmo-fg.com/ir/library/20260813_GMOFG_logmi_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "リカーリング型とイニシャルを含め、特にリカーリング粗",
+    "url": "https://gmo-fg.com/ir/library/20260813_GMOFG_logmi_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "リカーリング型売上を分解すると、まずストック売上は第 3 四半期累計で",
+    "url": "https://gmo-fg.com/ir/library/20260813_GMOFG_logmi_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "リカーリング型売上とイニシャル売上をグラフで⽰しています",
+    "url": "https://gmo-fg.com/ir/library/20260813_GMOFG_logmi_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "リカーリング型について",
+    "url": "https://gmo-fg.com/ir/library/20260813_GMOFG_logmi_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1.6 リカーリング粗利が⽀える利益成⻑",
+    "url": "https://gmo-fg.com/ir/library/20260813_GMOFG_logmi_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の収益の源泉はリカーリング型の売上です",
+    "url": "https://gmo-fg.com/ir/library/20260813_GMOFG_logmi_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "スライド左側に、リカーリング粗利を販管費と⽐較しながら LTM で表現しています",
+    "url": "https://gmo-fg.com/ir/library/20260813_GMOFG_logmi_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "棒グラフはリカーリング",
+    "url": "https://gmo-fg.com/ir/library/20260813_GMOFG_logmi_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025 年 9 ⽉期第 4 四半期以降、リカーリング粗利が販管費を上回る結果を計上できています",
+    "url": "https://gmo-fg.com/ir/library/20260813_GMOFG_logmi_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2.2 連結 KPI 推移（決済処理件数‧ ARPU ‧ GMV/ 四半期毎）",
+    "url": "https://gmo-fg.com/ir/library/20260813_GMOFG_logmi_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "決済処理件数‧ ARPU ‧ GMV の第 3 四半期の推移です",
+    "url": "https://gmo-fg.com/ir/library/20260813_GMOFG_logmi_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ID が増えると ARPU が下がる傾向がありますが、 ARPU についても問題なく推移し、⽣活領域などの⾼稼働 ID を",
+    "url": "https://gmo-fg.com/ir/library/20260813_GMOFG_logmi_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第 3 四半期では ARPU が 5,832 円となりました",
+    "url": "https://gmo-fg.com/ir/library/20260813_GMOFG_logmi_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "達成のためには、リカーリング売上をいかに増",
+    "url": "https://gmo-fg.com/ir/library/20260813_GMOFG_logmi_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "以前からご共有しているように、アクティブ ID 数を 100 万 ID 、 ARPU を 2 万 5,000 円とすることで、リカーリング",
+    "url": "https://gmo-fg.com/ir/library/20260813_GMOFG_logmi_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、リカーリングの粗利率についてもこだわりを持って向上させ、 60 パーセントから 70 パーセントを⽬標と",
+    "url": "https://gmo-fg.com/ir/library/20260813_GMOFG_logmi_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "こちらは ARPU の最⼤化、いわゆるエコシステムの構築を進めるための重要な要素ですので、引き続き提案活",
+    "url": "https://gmo-fg.com/ir/library/20260813_GMOFG_logmi_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ID 数では 6 万 ID 以上を⽬指し、リカーリングの売上をさらにレベルアップさせることを狙っていきます",
+    "url": "https://gmo-fg.com/ir/library/20260813_GMOFG_logmi_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "リカーリング売上では、 JR 東⽇本の案件が⼀定程度貢",
+    "url": "https://gmo-fg.com/ir/library/20260813_GMOFG_logmi_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "イニシャルとリカーリングの成⻑イメージはどのように⾒ておけ",
+    "url": "https://gmo-fg.com/ir/library/20260813_GMOFG_logmi_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "リカーリング型粗利率3",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "アクティブID数1 2 リカーリングARPU",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1. アクティブID数 2. リカーリングARPU 3. リカーリング粗利率1 2 3",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "リカーリング型",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "リカーリング",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "エコシステム形成によるARPU向上",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(ARPU向上)",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "リカーリング型収益",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "加盟店売上高 FG ARPU",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "大手加盟店：高ARPUが見込める生活領域の開拓継続",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "リカーリングARPU拡大施策",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "アクティブID数 ARPUリカーリング売上 = ×",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "リカーリングARPU/年 推移* ARPU向上施策",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "リカーリングARPU（万円）",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "*リカーリングARPU/年：",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "イニシャルの粗利率は現状10％程度であり、売上を牽引しているstera terminalの売上構成比が上がってきていることから、全体粗利率は過去数年間において低下傾向にあります",
+    "url": "https://gmo-fg.com/ir/faq/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "GMV上位加盟店の構成比は低下し、加盟店の裾野が広がっています",
+    "url": "https://gmo-fg.com/ir/faq/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社センターにおけるクレジット・デビット決済 / 決済手段構成比",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "GMVに対するスプレッド売上比率の考え方",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "構成比率 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019年 2020年 2021年 2022年 2023年 2024年 2025年",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "QRコードの構成比が伸長しているものの、クレジットの決済取扱高の実数成長が続く",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "国内キャッシュレス決済手段別の構成比率",
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(構成比%)",
+    "url": "https://gmo-fg.com/ir/library/20260813_setsumeikai_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Top30構成比 : 18.0%",
+    "url": "https://gmo-fg.com/ir/library/20260813_setsumeikai_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Top30構成比 : 20.1%",
+    "url": "https://gmo-fg.com/ir/library/20260813_setsumeikai_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "高ARPUの生活領域加盟店の継続的な獲得を通じて、GMV・加盟店数の構成比が拡大",
+    "url": "https://gmo-fg.com/ir/library/20260813_setsumeikai_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上構成変化と粗利率推移",
+    "url": "https://gmo-fg.com/ir/library/20260813_setsumeikai_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "イニシャル及びイニシャル内のstera構成比上昇に伴う粗利率低下",
+    "url": "https://gmo-fg.com/ir/library/20260813_setsumeikai_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上総利益 構成比率",
+    "url": "https://gmo-fg.com/ir/library/20260813_setsumeikai_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "品目別構成比率（売上・売上総利益）",
+    "url": "https://gmo-fg.com/ir/library/20260813_setsumeikai_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等） …………………………………………………………………………………………11",
+    "url": "https://gmo-fg.com/ir/library/20260813_tanshin_FY2026_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等）",
+    "url": "https://gmo-fg.com/ir/library/20260813_tanshin_FY2026_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://gmo-fg.com/ir/library/20260813_tanshin_FY2026_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの事業セグメントは、対面決済サービス事業のみの単一セグメントであるため、セグメント情報の",
+    "url": "https://gmo-fg.com/ir/library/20260813_tanshin_FY2026_3Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "得と GMV・加盟店数の構成比拡大に向けた取り組みが反映された結果だと思います",
+    "url": "https://gmo-fg.com/ir/library/20260518_GMOFG_logmi_2Q_Final.pdf.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "フィーがリカーリング型売上の成長を牽引し、同売上比率が上昇、",
+    "url": "https://gmo-fg.com/ir/library/20260518_setsumeikai_2Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(構成比%)",
+    "url": "https://gmo-fg.com/ir/library/20260518_setsumeikai_2Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Top30構成比 : 16.8%",
+    "url": "https://gmo-fg.com/ir/library/20260518_setsumeikai_2Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Top30構成比 : 19.9%",
+    "url": "https://gmo-fg.com/ir/library/20260518_setsumeikai_2Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "継続的な獲得を通じて、GMV・加盟店数の構成比が拡大",
+    "url": "https://gmo-fg.com/ir/library/20260518_setsumeikai_2Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上構成変化と粗利率推移",
+    "url": "https://gmo-fg.com/ir/library/20260518_setsumeikai_2Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "イニシャル及び、イニシャル内のstera構成比上昇に伴う粗利率低下",
+    "url": "https://gmo-fg.com/ir/library/20260518_setsumeikai_2Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上総利益 構成比率",
+    "url": "https://gmo-fg.com/ir/library/20260518_setsumeikai_2Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "品目別構成比率（売上・売上総利益）",
+    "url": "https://gmo-fg.com/ir/library/20260518_setsumeikai_2Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、当社グループは対面決済サービス事業の単一セグメントであるため、セグメント別の記載は省略してお",
+    "url": "https://gmo-fg.com/ir/library/20260515_hankihoukoku_2Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "５．事業セグメント",
+    "url": "https://gmo-fg.com/ir/library/20260515_hankihoukoku_2Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは対面決済サービス事業の単一セグメントです",
+    "url": "https://gmo-fg.com/ir/library/20260515_hankihoukoku_2Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメントの製品及びサービスについては注記",
+    "url": "https://gmo-fg.com/ir/library/20260515_hankihoukoku_2Q_Final.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3つの事業セグメント",
+    "url": "https://www.gmo-pg.com/blog/articles/article-0182/",
+    "pass": 3
+   },
+   {
+    "quote": "の3つの事業セグメントで構成されています",
+    "url": "https://www.gmo-pg.com/blog/articles/article-0182/",
+    "pass": 3
+   },
+   {
+    "quote": "それぞれの事業セグメントにおいて、以下のようなサービスを提供しています",
+    "url": "https://www.gmo-pg.com/blog/articles/article-0182/",
+    "pass": 3
+   },
+   {
+    "quote": "ECサイトやサブスクリプション、公共料金、実店舗や無人決済など、さまざまな商取引における決済を支える基盤となる事業であり、営業利益に占める構成比は84％と、当社の収益の中核を担っています",
+    "url": "https://www.gmo-pg.com/blog/articles/article-0182/",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益構成比は15％となっています",
+    "url": "https://www.gmo-pg.com/blog/articles/article-0182/",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益構成比は1％となっています",
+    "url": "https://www.gmo-pg.com/blog/articles/article-0182/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別売上推移",
+    "url": "https://www.gmo-pg.com/blog/articles/article-0182/",
+    "pass": 3
+   },
+   {
+    "quote": "以下のグラフは、3つの事業セグメントがバランスよく成長していることを示しています",
+    "url": "https://www.gmo-pg.com/blog/articles/article-0182/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/4051/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/4051/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/4051/business",
+    "pass": 3
+   },
+   {
+    "quote": "（単一セグメント）",
+    "url": "https://kitaishihon.com/company/4051/business",
+    "pass": 3
+   },
+   {
+    "quote": "単一セグメントの企業の場合は、連結（あるいは単体）の売上と営業利益を反映しています",
+    "url": "https://kitaishihon.com/company/4051/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/4051/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/4051/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/4051/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、当連結会計年度において当社グループは、対面決済サービス事業を単一の報告セグメントとしているため、セグメントごとの記載を省略しておりますが、以下、当社グループの事業について、決済処理サービス、決済代行サービスに分けてその内容を記載します",
+    "url": "https://kitaishihon.com/company/4051/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、当連結会計年度において当社グループは、対面決済サービス事業を単一の報告セグメントとしているため、セグメントごとの記載を省略しておりますが、「決済処理サービス」及び「決済代行サービス」が当社グループを構成する事業となるため、以下その内容を記載します",
+    "url": "https://kitaishihon.com/company/4051/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、当社グループは対面決済サービス事業の単一セグメントであるため、セグメント別の記載は省略しております",
+    "url": "https://kitaishihon.com/company/4051/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、当社グループは対面決済サービス事業の単一セグメントのため、セグメントごとの記載はしておりません",
+    "url": "https://kitaishihon.com/company/4051/business",
+    "pass": 3
+   },
+   {
+    "quote": "主な要因は、決済処理件数及びGMV（決済処理金額）の拡大に伴い利益貢献度の高いリカーリング型売上が伸長したこと、今後導入を控える大口案件対応の進捗に伴い、利益率の高い開発売上が増加したこと、イニシャル売上の大部分を占める決済端末販売において利益率の高い端末の売上構成割合が上昇した等です",
+    "url": "https://kitaishihon.com/company/4051/business",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、アクティブID数の着実な積み上げが日常的に利用する業種・業態の加盟店において進み、キャッシュレス決済も利用が進んだことを背景に決済処理件数及びGMV（決済処理金額）が大きく拡大したことから、ストック・フィー・スプレッドで構成されるリカーリング型売上は前年を大きく上回り、売上構成比は前連結会計年度の36.3％から49.9％へと上昇いたしました",
+    "url": "https://kitaishihon.com/company/4051/business",
+    "pass": 3
+   },
+   {
+    "quote": "６．事業セグメント",
+    "url": "https://kitaishihon.com/company/4051/business",
+    "pass": 3
+   },
+   {
+    "quote": "(１)報告セグメント",
+    "url": "https://kitaishihon.com/company/4051/business",
+    "pass": 3
+   },
+   {
+    "quote": "前連結会計年度及び当連結会計年度において、当社グループは対面決済サービス事業の単一セグメントであるため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/4051/business",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "個人投資家の皆さまへ｜IR情報 - GMOフィナンシャルゲート — 個人投資家の皆さまへ｜IR情報 - GMOフィナンシャルゲート GMOフィナンシャルゲート株式会社 https://gmo-fg.com > individual",
+    "url": "https://gmo-fg.com/ir/individual/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "GMOフィナンシャルゲート （4051）の真価と成長戦略の全貌 — GMOフィナンシャルゲート （4051）の真価と成長戦略の全貌 note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/tatsuya_sabato/n/n58ec0e61dffd",
+    "pass": 3
+   },
+   {
+    "quote": "GMOフィナンシャルゲート 株式会社 | ロール モデル 就活・転職 ... — GMOフィナンシャルゲート 株式会社 | ロール モデル 就活・転職 ... タレントブック・ストーリー https://www.talent-book.jp > gmo-fg",
+    "url": "https://www.talent-book.jp/gmo-fg",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 資料 - IR情報 - GMOフィナンシャルゲート — 決算説明 会 資料 - IR情報 - GMOフィナンシャルゲート GMOフィナンシャルゲート株式会社 https://gmo-fg.com > library > presentation",
+    "url": "https://gmo-fg.com/ir/library/presentation/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報｜ GMOフィナンシャルゲート 株式会社 — IR情報｜ GMOフィナンシャルゲート 株式会社 GMOフィナンシャルゲート株式会社 https://gmo-fg.com > ...",
+    "url": "https://gmo-fg.com/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜企業情報 - GMOフィナンシャルゲート — 会社概要｜企業情報 - GMOフィナンシャルゲート GMOフィナンシャルゲート株式会社 https://gmo-fg.com > company > outline",
+    "url": "https://gmo-fg.com/company/outline/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "GMOフィナンシャルゲート 【4051】の 事業 内容 - キタイシホン — GMOフィナンシャルゲート 【4051】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/4051/business",
+    "pass": 3
+   },
+   {
+    "quote": "GMOフィナンシャルゲート の決済プラットフォームが JR ... — GMOフィナンシャルゲート の決済プラットフォームが JR ... GMOインターネットグループ株式会社 https://group.gmo > news > article",
+    "url": "https://group.gmo/news/article/9917/",
+    "pass": 3
+   },
+   {
+    "quote": "社長 メッセージ｜企業情報 - GMOフィナンシャルゲート — 社長 メッセージ｜企業情報 - GMOフィナンシャルゲート GMOフィナンシャルゲート株式会社 https://gmo-fg.com > company > message",
+    "url": "https://gmo-fg.com/company/message/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "GMOフィナンシャルゲート 株式会社 — GMOフィナンシャルゲート 株式会社 GMOインターネットグループ株式会社 https://group.gmo > news > article",
+    "url": "https://group.gmo/news/article/9189/",
+    "pass": 3
+   },
+   {
+    "quote": "GMOフィナンシャルゲート 株式会社 | IR活動に関する ... - JPX — GMOフィナンシャルゲート 株式会社 | IR活動に関する ... - JPX 日本取引所グループ https://www.jpx.co.jp > equities > listed-co > ir-interview",
+    "url": "https://www.jpx.co.jp/equities/listed-co/ir-interview/02.html",
+    "pass": 3
+   },
+   {
+    "quote": "GMOフィナンシャルゲート 、「健康経営優良法人2026（大 ... — GMOフィナンシャルゲート 、「健康経営優良法人2026（大 ... GMOペイメントゲートウェイ https://www.gmo-pg.com > press > gmo-financialgate",
+    "url": "https://www.gmo-pg.com/news/press/gmo-financialgate/2026/0316.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://gmo-fg.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gmo-fg.com/strength/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gmo-fg.com/company/outline/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gmo-fg.com/ir/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gmo-fg.com/ir/news/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gmo-fg.com/ir/calendar/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gmo-fg.com/ir/corporate/message/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gmo-fg.com/ir/individual/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gmo-fg.com/ir/library/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gmo-fg.com/ir/library/financial-statements/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gmo-fg.com/ir/library/presentation/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gmo-fg.com/ir/library/securities-report/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gmo-fg.com/ir/library/disclosure/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gmo-fg.com/ir/library/movie/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gmo-fg.com/ir/library/data-book/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gmo-fg.com/ir/library/other/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gmo-fg.com/ir/corporate/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gmo-fg.com/ir/corporate/governance/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gmo-fg.com/ir/corporate/release-policy/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gmo-fg.com/ir/corporate/risk-information/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gmo-fg.com/ir/highlights/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gmo-fg.com/ir/faq/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gmo-fg.com/ir/stock/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gmo-fg.com/ir/dividend/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gmo-fg.com/ir/analyst-coverage/index.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://gmo-fg.com/ir/library/20260910_yosounoshusei.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://gmo-fg.com/ir/library/20260813_GMOFG_logmi_3Q_Final.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://gmo-fg.com/ir/library/20260813_ir_introduction_3Q_Final.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://gmo-fg.com/ir/library/20260813_setsumeikai_3Q_Final.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://gmo-fg.com/ir/library/20260813_tanshin_FY2026_3Q_Final.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://gmo-fg.com/ir/library/20260518_GMOFG_logmi_2Q_Final.pdf.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://gmo-fg.com/ir/library/20260518_setsumeikai_2Q_Final.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://gmo-fg.com/ir/library/20260515_hankihoukoku_2Q_Final.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.gmo-pg.com/blog/articles/article-0182/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gmofh.com/ir/library/presentation.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/4051/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://group.gmo/news/article/9189/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "GMOフィナンシャルゲート",
+   "results": [
+    "https://gmo-fg.com/",
+    "https://www.nikkei.com/nkd/company/?scode=4051",
+    "https://minkabu.jp/stock/4051",
+    "https://tranbrowser21.gmo-fg.net/SC0001/3/MC000011028",
+    "https://group.gmo/news/article/9189/",
+    "https://ja.wikipedia.org/wiki/GMOフィナンシャルホールディングス",
+    "https://gmo-fg.com/company/outline/index.html",
+    "https://finance.yahoo.co.jp/quote/4051.T/profile",
+    "https://portal.gmo-fg.com/login",
+    "https://finance.yahoo.co.jp/quote/4051.T"
+   ]
+  },
+  {
+   "query": "GMOフィナンシャルゲート ビジネスモデル",
+   "results": [
+    "https://gmo-fg.com/ir/individual/index.html",
+    "https://www.gmo-pg.com/blog/articles/article-0182/",
+    "https://note.com/tatsuya_sabato/n/n58ec0e61dffd",
+    "https://www.talent-book.jp/gmo-fg",
+    "https://www.youtube.com/watch?v=xdq4__8iwEw",
+    "https://gmo-fg.com/ir/",
+    "https://kitaishihon.com/company/4051/business",
+    "https://hrmos.co/pages/gmo-fg",
+    "https://group.gmo/news/article/9189/",
+    "https://gmo-fg.com/"
+   ]
+  },
+  {
+   "query": "GMOフィナンシャルゲート 決算説明資料",
+   "results": [
+    "https://gmo-fg.com/ir/library/presentation/index.html",
+    "https://www.gmofh.com/ir/library/presentation.html",
+    "https://internet.gmo/ir/library/presentation/",
+    "https://gmo-fg.com/ir/",
+    "https://ir.group.gmo/library/presen/",
+    "https://www.gmo-pg.com/ir/library/presentation/",
+    "https://ir.gmoc.jp/presentations/",
+    "https://product.gmo/ir/",
+    "https://www.gmo.media/ir/library/financial-result/"
+   ]
+  },
+  {
+   "query": "GMOフィナンシャルゲート 事業系統図",
+   "results": [
+    "https://gmo-fg.com/company/outline/index.html",
+    "https://kitaishihon.com/company/4051/business",
+    "https://group.gmo/news/article/9917/",
+    "https://www.gmo-pg.com/corp/company/",
+    "https://group.gmo/company-profile/groupinfo/",
+    "https://note.com/tatsuya_sabato/n/n58ec0e61dffd",
+    "https://gmo-fg.com/",
+    "https://ir.group.gmo/assets/pdf/integrated-report_2025.pdf",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100KEVK.pdf",
+    "https://gmo-fg.com/service/index.html"
+   ]
+  },
+  {
+   "query": "GMOフィナンシャルゲート 社長 インタビュー",
+   "results": [
+    "https://gmo-fg.com/company/message/index.html",
+    "https://group.gmo/news/article/9189/",
+    "https://www.jpx.co.jp/equities/listed-co/ir-interview/02.html",
+    "https://www.mucap.co.jp/realvoice/realvoice007/",
+    "https://www.gmo-pg.com/news/press/gmo-financialgate/2026/0316.html",
+    "https://gmo-fg.com/company/outline/index.html",
+    "https://group.gmo/news/article/9945/",
+    "https://kitaishihon.com/company/4051/board-of-director",
+    "https://www.youtube.com/watch?v=H4QVQG7exLY",
+    "https://gmo-fg.com/company/"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部4頁・検索5回）"
+ }
+}

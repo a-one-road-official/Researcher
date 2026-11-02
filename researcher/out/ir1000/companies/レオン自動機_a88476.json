@@ -1,0 +1,1389 @@
+{
+ "name": "レオン自動機",
+ "aliases": [],
+ "context": "証券コード6272／機械／プライム（内国株式）／2026.03期 売上高42,014百万円 営業利益率12.3%",
+ "researched_at": "2026-11-02T19:51:00.705357+00:00",
+ "official_url": "https://www.rheon.com/",
+ "identified_by": "search:yahoo_jp:レオン自動機",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1963年",
+    "url": "https://shachomeikan.jp/industry_article/5095",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業概要",
+    "value": "食品機械の開発・製造・販売。 食品の成形工程を自動化した装置および各種プラントの設計・製作・納入設置。 これらの機械・装置の操作指導・生産する食品の技術指導・メンテナンス等。",
+    "url": "https://shachomeikan.jp/industry_article/5095",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "弊社「中古製品」の保証・サポート適用範囲外に関するご案内",
+    "url": "https://www.rheon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの紹介",
+    "url": "https://www.rheon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "レオン・ソリューションセンターの紹介",
+    "url": "https://www.rheon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ターンキーソリューションの紹介",
+    "url": "https://www.rheon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの紹介",
+    "url": "https://www.rheon.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "レオン・ソリューションセンターの紹介",
+    "url": "https://www.rheon.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ターンキーソリューションの紹介",
+    "url": "https://www.rheon.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "先に販売が始まっていた北米地域へのサービス拠点としての役割を担いつつ、さらなる包あん機普及への原動力となった",
+    "url": "https://www.rheon.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、北米、南米、ヨーロッパ全域へと本格的な販売・サービス体制を確立した",
+    "url": "https://www.rheon.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "新開発の｢非粘着インクラスター｣の取り付けが可能になり、これまで不得手だった手粉を使わずに生産する「おはぎ」や「ハンバーグ」などにも用途を広げ、市場でも大反響を呼ぶヒット商品になった",
+    "url": "https://www.rheon.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "創業者が、その見た目から「火星人」と愛称をつけたシリーズの1号機「CN100」は、包あん機能を｢非粘着インクラスター｣に限定し、製品記憶装置（P.M.U.）を搭載した、まったく新しいコンセプトモデルとなった",
+    "url": "https://www.rheon.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "食品機械の品質向上と納期短縮を担う主力生産工場として、上河内工場が稼働を開始した",
+    "url": "https://www.rheon.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "新社屋「レオン・ソリューションセンター」オープン",
+    "url": "https://www.rheon.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "食品生産におけるさまざまな課題解決に向けたサービスをご提供するため、世界中の「食」の情報、最新の設備、技術を集約した「レオン・ソリューションセンター」を本社敷地内にオープンさせた",
+    "url": "https://www.rheon.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "パイやデニッシュ、クロワッサンなど、さまざまな製品を１つのラインで生産できるHMラインの後継として、品質の向上、安全・衛生面の強化、IoTの採用など、新技術を搭載してリニューアルされた",
+    "url": "https://www.rheon.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの紹介",
+    "url": "https://www.rheon.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "レオン・ソリューションセンターの紹介",
+    "url": "https://www.rheon.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ターンキーソリューションの紹介",
+    "url": "https://www.rheon.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "成形した製品を自動配列する機器",
+    "url": "https://www.rheon.com/models/machines/",
+    "pass": 1
+   },
+   {
+    "quote": "包あんした製品を２次成形するためのコンベヤー",
+    "url": "https://www.rheon.com/models/machines/",
+    "pass": 1
+   },
+   {
+    "quote": "包あんした製品の頭部にヒダを付ける機器",
+    "url": "https://www.rheon.com/models/machines/",
+    "pass": 1
+   },
+   {
+    "quote": "包あんした製品を半月型に型押しする機器",
+    "url": "https://www.rheon.com/models/machines/",
+    "pass": 1
+   },
+   {
+    "quote": "成形した製品に効果的に粉を付ける機器",
+    "url": "https://www.rheon.com/models/machines/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に付いた粉を効果的に払う機器",
+    "url": "https://www.rheon.com/models/machines/",
+    "pass": 1
+   },
+   {
+    "quote": "搬出される製品の列間隔を狭める機器",
+    "url": "https://www.rheon.com/models/machines/",
+    "pass": 1
+   },
+   {
+    "quote": "成形した製品に効果的に粉を付ける機器（２列タイプ）",
+    "url": "https://www.rheon.com/models/machines/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの紹介",
+    "url": "https://www.rheon.com/models/machines/",
+    "pass": 1
+   },
+   {
+    "quote": "ターンキーソリューションの紹介",
+    "url": "https://www.rheon.com/models/machines/",
+    "pass": 1
+   },
+   {
+    "quote": "レオン・ソリューションセンターの紹介",
+    "url": "https://www.rheon.com/models/machines/",
+    "pass": 1
+   },
+   {
+    "quote": "成形した製品を自動配列する機器",
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/single-row-model/",
+    "pass": 1
+   },
+   {
+    "quote": "包あんした製品を２次成形するためのコンベヤー",
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/single-row-model/",
+    "pass": 1
+   },
+   {
+    "quote": "包あんした製品の頭部にヒダを付ける機器",
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/single-row-model/",
+    "pass": 1
+   },
+   {
+    "quote": "包あんした製品を半月型に型押しする機器",
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/single-row-model/",
+    "pass": 1
+   },
+   {
+    "quote": "成形した製品に効果的に粉を付ける機器",
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/single-row-model/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に付いた粉を効果的に払う機器",
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/single-row-model/",
+    "pass": 1
+   },
+   {
+    "quote": "搬出される製品の列間隔を狭める機器",
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/single-row-model/",
+    "pass": 1
+   },
+   {
+    "quote": "成形した製品に効果的に粉を付ける機器（２列タイプ）",
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/single-row-model/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの紹介",
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/single-row-model/",
+    "pass": 1
+   },
+   {
+    "quote": "ターンキーソリューションの紹介",
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/single-row-model/",
+    "pass": 1
+   },
+   {
+    "quote": "レオン・ソリューションセンターの紹介",
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/single-row-model/",
+    "pass": 1
+   },
+   {
+    "quote": "成形した製品を自動配列する機器",
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/multi-row-model/",
+    "pass": 1
+   },
+   {
+    "quote": "包あんした製品を２次成形するためのコンベヤー",
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/multi-row-model/",
+    "pass": 1
+   },
+   {
+    "quote": "包あんした製品の頭部にヒダを付ける機器",
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/multi-row-model/",
+    "pass": 1
+   },
+   {
+    "quote": "包あんした製品を半月型に型押しする機器",
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/multi-row-model/",
+    "pass": 1
+   },
+   {
+    "quote": "成形した製品に効果的に粉を付ける機器",
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/multi-row-model/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に付いた粉を効果的に払う機器",
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/multi-row-model/",
+    "pass": 1
+   },
+   {
+    "quote": "搬出される製品の列間隔を狭める機器",
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/multi-row-model/",
+    "pass": 1
+   },
+   {
+    "quote": "成形した製品に効果的に粉を付ける機器（２列タイプ）",
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/multi-row-model/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの紹介",
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/multi-row-model/",
+    "pass": 1
+   },
+   {
+    "quote": "ターンキーソリューションの紹介",
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/multi-row-model/",
+    "pass": 1
+   },
+   {
+    "quote": "レオン・ソリューションセンターの紹介",
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/multi-row-model/",
+    "pass": 1
+   },
+   {
+    "quote": "成形した製品を自動配列する機器",
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/options-encrusting/",
+    "pass": 1
+   },
+   {
+    "quote": "包あんした製品を２次成形するためのコンベヤー",
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/options-encrusting/",
+    "pass": 1
+   },
+   {
+    "quote": "包あんした製品の頭部にヒダを付ける機器",
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/options-encrusting/",
+    "pass": 1
+   },
+   {
+    "quote": "包あんした製品を半月型に型押しする機器",
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/options-encrusting/",
+    "pass": 1
+   },
+   {
+    "quote": "成形した製品に効果的に粉を付ける機器",
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/options-encrusting/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に付いた粉を効果的に払う機器",
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/options-encrusting/",
+    "pass": 1
+   },
+   {
+    "quote": "搬出される製品の列間隔を狭める機器",
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/options-encrusting/",
+    "pass": 1
+   },
+   {
+    "quote": "成形した製品に効果的に粉を付ける機器（２列タイプ）",
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/options-encrusting/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの紹介",
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/options-encrusting/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "生産工場の紹介",
+    "url": "https://www.rheon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "栃木県による企業紹介で弊社社員が登場",
+    "url": "https://www.rheon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの紹介",
+    "url": "https://www.rheon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "レオン・ソリューションセンターの紹介",
+    "url": "https://www.rheon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ターンキーソリューションの紹介",
+    "url": "https://www.rheon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "生産工場の紹介",
+    "url": "https://www.rheon.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの紹介",
+    "url": "https://www.rheon.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "レオン・ソリューションセンターの紹介",
+    "url": "https://www.rheon.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ターンキーソリューションの紹介",
+    "url": "https://www.rheon.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "生産工場の紹介",
+    "url": "https://www.rheon.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "林虎彦が開発した「自動包あん機」の初回販売モデルとして市場に紹介された",
+    "url": "https://www.rheon.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの紹介",
+    "url": "https://www.rheon.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "レオン・ソリューションセンターの紹介",
+    "url": "https://www.rheon.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ターンキーソリューションの紹介",
+    "url": "https://www.rheon.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "生産工場の紹介",
+    "url": "https://www.rheon.com/models/machines/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの紹介",
+    "url": "https://www.rheon.com/models/machines/",
+    "pass": 1
+   },
+   {
+    "quote": "ターンキーソリューションの紹介",
+    "url": "https://www.rheon.com/models/machines/",
+    "pass": 1
+   },
+   {
+    "quote": "レオン・ソリューションセンターの紹介",
+    "url": "https://www.rheon.com/models/machines/",
+    "pass": 1
+   },
+   {
+    "quote": "生産工場の紹介",
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/single-row-model/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの紹介",
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/single-row-model/",
+    "pass": 1
+   },
+   {
+    "quote": "ターンキーソリューションの紹介",
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/single-row-model/",
+    "pass": 1
+   },
+   {
+    "quote": "レオン・ソリューションセンターの紹介",
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/single-row-model/",
+    "pass": 1
+   },
+   {
+    "quote": "生産工場の紹介",
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/multi-row-model/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの紹介",
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/multi-row-model/",
+    "pass": 1
+   },
+   {
+    "quote": "ターンキーソリューションの紹介",
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/multi-row-model/",
+    "pass": 1
+   },
+   {
+    "quote": "レオン・ソリューションセンターの紹介",
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/multi-row-model/",
+    "pass": 1
+   },
+   {
+    "quote": "生産工場の紹介",
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/options-encrusting/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの紹介",
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/options-encrusting/",
+    "pass": 1
+   },
+   {
+    "quote": "ターンキーソリューションの紹介",
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/options-encrusting/",
+    "pass": 1
+   },
+   {
+    "quote": "レオン・ソリューションセンターの紹介",
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/options-encrusting/",
+    "pass": 1
+   },
+   {
+    "quote": "生産工場の紹介",
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/peripheral-equipment-encrusting/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの紹介",
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/peripheral-equipment-encrusting/",
+    "pass": 1
+   },
+   {
+    "quote": "ターンキーソリューションの紹介",
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/peripheral-equipment-encrusting/",
+    "pass": 1
+   },
+   {
+    "quote": "レオン・ソリューションセンターの紹介",
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/peripheral-equipment-encrusting/",
+    "pass": 1
+   },
+   {
+    "quote": "生産工場の紹介",
+    "url": "https://www.rheon.com/models/machines/bread-making-machine/line/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの紹介",
+    "url": "https://www.rheon.com/models/machines/bread-making-machine/line/",
+    "pass": 1
+   },
+   {
+    "quote": "ターンキーソリューションの紹介",
+    "url": "https://www.rheon.com/models/machines/bread-making-machine/line/",
+    "pass": 1
+   },
+   {
+    "quote": "レオン・ソリューションセンターの紹介",
+    "url": "https://www.rheon.com/models/machines/bread-making-machine/line/",
+    "pass": 1
+   },
+   {
+    "quote": "生産工場の紹介",
+    "url": "https://www.rheon.com/models/machines/bread-making-machine/stand-alone-machine/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの紹介",
+    "url": "https://www.rheon.com/models/machines/bread-making-machine/stand-alone-machine/",
+    "pass": 1
+   },
+   {
+    "quote": "ターンキーソリューションの紹介",
+    "url": "https://www.rheon.com/models/machines/bread-making-machine/stand-alone-machine/",
+    "pass": 1
+   },
+   {
+    "quote": "レオン・ソリューションセンターの紹介",
+    "url": "https://www.rheon.com/models/machines/bread-making-machine/stand-alone-machine/",
+    "pass": 1
+   },
+   {
+    "quote": "生産工場の紹介",
+    "url": "https://www.rheon.com/models/machines/bread-making-machine/options-bread/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの紹介",
+    "url": "https://www.rheon.com/models/machines/bread-making-machine/options-bread/",
+    "pass": 1
+   },
+   {
+    "quote": "ターンキーソリューションの紹介",
+    "url": "https://www.rheon.com/models/machines/bread-making-machine/options-bread/",
+    "pass": 1
+   },
+   {
+    "quote": "レオン・ソリューションセンターの紹介",
+    "url": "https://www.rheon.com/models/machines/bread-making-machine/options-bread/",
+    "pass": 1
+   },
+   {
+    "quote": "生産工場の紹介",
+    "url": "https://www.rheon.com/models/machines/bread-making-machine/peripheral-equipment-encrusting-bread/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの紹介",
+    "url": "https://www.rheon.com/models/machines/bread-making-machine/peripheral-equipment-encrusting-bread/",
+    "pass": 1
+   },
+   {
+    "quote": "ターンキーソリューションの紹介",
+    "url": "https://www.rheon.com/models/machines/bread-making-machine/peripheral-equipment-encrusting-bread/",
+    "pass": 1
+   },
+   {
+    "quote": "レオン・ソリューションセンターの紹介",
+    "url": "https://www.rheon.com/models/machines/bread-making-machine/peripheral-equipment-encrusting-bread/",
+    "pass": 1
+   },
+   {
+    "quote": "生産工場の紹介",
+    "url": "https://www.rheon.com/models/machines/other-machines/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの紹介",
+    "url": "https://www.rheon.com/models/machines/other-machines/",
+    "pass": 1
+   },
+   {
+    "quote": "ターンキーソリューションの紹介",
+    "url": "https://www.rheon.com/models/machines/other-machines/",
+    "pass": 1
+   },
+   {
+    "quote": "レオン・ソリューションセンターの紹介",
+    "url": "https://www.rheon.com/models/machines/other-machines/",
+    "pass": 1
+   },
+   {
+    "quote": "生産工場の紹介",
+    "url": "https://www.rheon.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの紹介",
+    "url": "https://www.rheon.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "レオン・ソリューションセンターの紹介",
+    "url": "https://www.rheon.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "ターンキーソリューションの紹介",
+    "url": "https://www.rheon.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "生産工場の紹介",
+    "url": "https://www.rheon.com/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの紹介",
+    "url": "https://www.rheon.com/ir/finance/",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年10月14日 – 16日 【インテックス大阪】 FABEX関西 2026",
+    "url": "https://www.rheon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年12月6日 – ８日 【東京ビッグサイト】 フードテックジャパン東京 ＜終了＞",
+    "url": "https://www.rheon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年10月11日 – 13日 【インテックス大阪】 FABEX関西2023 ＜終了＞",
+    "url": "https://www.rheon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年10月11日 – 13日 【幕張メッセ】 国際６次化産業EXPO ＜終了＞",
+    "url": "https://www.rheon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年9月20日 – 22日 【東京ビッグサイト】惣菜・デリカ JAPAN 惣菜製造自動化・設備機器展＜終了しました＞",
+    "url": "https://www.rheon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年6月28日 – 30日 【アクセスサッポロ】 2023札幌パック（SAPPORO PACK 2023）",
+    "url": "https://www.rheon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月2日 – 5日 【東京ビッグサイト】 FOOMA JAPAN 2026",
+    "url": "https://www.rheon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月20日 – 22日 【マリンメッセ福岡】 西日本食品産業創造展 ’26",
+    "url": "https://www.rheon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月22日 – 25日 【ポートメッセなごや】 2026中部パック",
+    "url": "https://www.rheon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月15日 – 17日 【東京ビッグサイト】 ＦＡＢＥＸ東京 2026",
+    "url": "https://www.rheon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | レオン自動機株式会社",
+    "url": "https://www.rheon.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1968年5月に展示会視察で米国を訪れていた林虎彦は、「アメリカン・ベーカーズ・コーポ（ABC）社」との間で、年間500台を輸出する長期契約を締結した",
+    "url": "https://www.rheon.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1980年代にオレンジベーカリーは、米国にクロワッサンブームをもたらした仕掛人として、マスコミなどにも取り上げられて、その名前は世界中で広く知られるようになった",
+    "url": "https://www.rheon.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年代に入ると、中東やアフリカの食品工場でも広く活躍することになるモデルである",
+    "url": "https://www.rheon.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1987年に東証2部に上場、1989年には1部上場",
+    "url": "https://www.rheon.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年からはプライム市場へとステップアップをはかることになる",
+    "url": "https://www.rheon.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2013年3月15日、レオン自動機は創立50周年を迎えた",
+    "url": "https://www.rheon.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "令和５年１１月２０日、当社上河内工場南側の土地に「自家消費型太陽光発電所」を開所",
+    "url": "https://www.rheon.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "令和６年９月２０日には第２・第３工場向けの自家消費型太陽光発電設備を竣工",
+    "url": "https://www.rheon.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "令和６年１１月１５日には本社分の自家消費型太陽光発電設備が完成",
+    "url": "https://www.rheon.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年2月に本社ソリューションセンターおよび上河内工場の使用電力を非化石証書付き再生エネルギーの電力に切り替えました",
+    "url": "https://www.rheon.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期決算発表",
+    "url": "https://www.rheon.com/ir/individual/individual_ircalendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月10日",
+    "url": "https://www.rheon.com/ir/individual/individual_ircalendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算発表",
+    "url": "https://www.rheon.com/ir/individual/individual_ircalendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月15日",
+    "url": "https://www.rheon.com/ir/individual/individual_ircalendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 アナリスト向け決算説明会",
+    "url": "https://www.rheon.com/ir/individual/individual_ircalendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月27日",
+    "url": "https://www.rheon.com/ir/individual/individual_ircalendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月23日",
+    "url": "https://www.rheon.com/ir/individual/individual_ircalendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月24日",
+    "url": "https://www.rheon.com/ir/individual/individual_ircalendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算発表",
+    "url": "https://www.rheon.com/ir/individual/individual_ircalendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月6日",
+    "url": "https://www.rheon.com/ir/individual/individual_ircalendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期決算発表",
+    "url": "https://www.rheon.com/ir/individual/individual_ircalendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月11日",
+    "url": "https://www.rheon.com/ir/individual/individual_ircalendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 半期報告書提出",
+    "url": "https://www.rheon.com/ir/individual/individual_ircalendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月12日",
+    "url": "https://www.rheon.com/ir/individual/individual_ircalendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 アナリスト向け中間決算説明会",
+    "url": "https://www.rheon.com/ir/individual/individual_ircalendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月24日",
+    "url": "https://www.rheon.com/ir/individual/individual_ircalendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第3四半期決算発表",
+    "url": "https://www.rheon.com/ir/individual/individual_ircalendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年2月13日",
+    "url": "https://www.rheon.com/ir/individual/individual_ircalendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 決算発表",
+    "url": "https://www.rheon.com/ir/individual/individual_ircalendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年5月14日",
+    "url": "https://www.rheon.com/ir/individual/individual_ircalendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 アナリスト向け決算説明会",
+    "url": "https://www.rheon.com/ir/individual/individual_ircalendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年5月27日",
+    "url": "https://www.rheon.com/ir/individual/individual_ircalendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月25日",
+    "url": "https://www.rheon.com/ir/individual/individual_ircalendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第1四半期決算発表",
+    "url": "https://www.rheon.com/ir/individual/individual_ircalendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年8月7日",
+    "url": "https://www.rheon.com/ir/individual/individual_ircalendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年 11 月 2 日",
+    "url": "https://www.rheon.com/wp/wp-content/uploads/2026/11/1819e171f7e5844a64c5bfdad0d2fa6a.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年 10 月 2 日",
+    "url": "https://www.rheon.com/wp/wp-content/uploads/2026/09/815eed7a4290d875f8738e45065c8708.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年6月30日",
+    "url": "https://www.rheon.com/wp/wp-content/uploads/2026/06/08ffae10a146447f9835d6eb947b6e02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2030年を想定した影響",
+    "url": "https://www.rheon.com/wp/wp-content/uploads/2026/06/08ffae10a146447f9835d6eb947b6e02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2014年 2030年 80%削減690t",
+    "url": "https://www.rheon.com/wp/wp-content/uploads/2026/06/08ffae10a146447f9835d6eb947b6e02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.rheon.com/wp/wp-content/uploads/2026/06/08ffae10a146447f9835d6eb947b6e02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2014年度 2015年度 2016年度 2017年度 2018年度 2019年度 2020年度 2021年度 2022年度 2023年度 2024年度 2025年度",
+    "url": "https://www.rheon.com/wp/wp-content/uploads/2026/06/08ffae10a146447f9835d6eb947b6e02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2014年度比 （％） ▲ 1.1 1.4 ▲ 1.3 ▲ 7.0 ▲ 13.7 ▲ 21.4 ▲ 30.2 ▲ 75.7 ▲ 78.9 ▲ 82.0 ▲ 82.1",
+    "url": "https://www.rheon.com/wp/wp-content/uploads/2026/06/08ffae10a146447f9835d6eb947b6e02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2014年度 2015年度 2016年度 2017年度 2018年度 2019年度 2020年度 2021年度 2022年度 2023年度 2024年度 2025年度 2030年度 2050年度",
+    "url": "https://www.rheon.com/wp/wp-content/uploads/2026/06/08ffae10a146447f9835d6eb947b6e02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年7 月 17 日",
+    "url": "https://www.rheon.com/wp/wp-content/uploads/2026/07/82f0cc41bf41eae3e708ca7cc551f24b.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1977年、私が新卒で弊社に入社した決め手の一つは、「作業着で仕事をするのが気楽でいいな」と感じたことでした",
+    "url": "https://shachomeikan.jp/industry_article/5095",
+    "pass": 3
+   },
+   {
+    "quote": "2002年技術サービス部部長、2007年執行役員技術サービス部長に就任",
+    "url": "https://shachomeikan.jp/industry_article/5095",
+    "pass": 3
+   },
+   {
+    "quote": "2011年米国の子会社であるオレンジベーカリー社の代表取締役社長、2014年ホシノ天然酵母パン種代表取締役社長などを歴任し、2015年6月にレオン自動機株式会社の取締役兼執行役員に就任",
+    "url": "https://shachomeikan.jp/industry_article/5095",
+    "pass": 3
+   },
+   {
+    "quote": "2019年取締役常務執行役員、2020年取締役専務執行役員に就任を経て、2021年に代表取締役社長に就任",
+    "url": "https://shachomeikan.jp/industry_article/5095",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント概況",
+    "url": "https://www.rheon.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント概況",
+    "url": "https://www.rheon.com/ir/finance/",
+    "pass": 1
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "投資家の皆さまに弊社へのご理解を深めていただけるよう、事業内容や強み・課題、直近の業績動向など幅広く解説されたレポートとなります",
+    "url": "https://www.rheon.com/ir-topics/13485/",
+    "pass": 1
+   },
+   {
+    "quote": "・部品及び機械製品在庫積み増し検討",
+    "url": "https://www.rheon.com/wp/wp-content/uploads/2026/06/08ffae10a146447f9835d6eb947b6e02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "会社の外部からの評価としては営業利益率も大切ですが、私たちにとってそれ以上に重要なのは、世界の競合他社には決して真似のできない、圧倒的な技術力に裏打ちされた機械を開発する力です",
+    "url": "https://shachomeikan.jp/industry_article/5095",
+    "pass": 3
+   },
+   {
+    "quote": "ーー貴社事業の強みについて、お聞かせいただけますか",
+    "url": "https://shachomeikan.jp/industry_article/5095",
+    "pass": 3
+   },
+   {
+    "quote": "生地へのダメージを最小限に抑えられるこの技術も、弊社の大きな強みといえます",
+    "url": "https://shachomeikan.jp/industry_article/5095",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": " 自社製品を通じてお客様に満足を提供する",
+    "url": "https://www.rheon.com/wp/wp-content/uploads/2026/06/08ffae10a146447f9835d6eb947b6e02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客行動の変化",
+    "url": "https://www.rheon.com/wp/wp-content/uploads/2026/06/08ffae10a146447f9835d6eb947b6e02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Ⓕ顧客の低炭素社会の意識向上に伴い、機械も食品残量",
+    "url": "https://www.rheon.com/wp/wp-content/uploads/2026/06/08ffae10a146447f9835d6eb947b6e02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品ゾーン部品のステンレス化や新素材採用を進めることによりサニタリー性や部品寿命が向上し、顧客の衛生志向に沿った商品提供が可能となり、販売増加が期待できる",
+    "url": "https://www.rheon.com/wp/wp-content/uploads/2026/06/08ffae10a146447f9835d6eb947b6e02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ロス率が下がり、顧客の製品歩留まり率が改善されるので、",
+    "url": "https://www.rheon.com/wp/wp-content/uploads/2026/06/08ffae10a146447f9835d6eb947b6e02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ＩｏＴ機能付の機械を普及させユーザー管理をする事により、",
+    "url": "https://www.rheon.com/wp/wp-content/uploads/2026/06/08ffae10a146447f9835d6eb947b6e02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ユーザー側の備えに対する意識が高まり、補修用スペアパ",
+    "url": "https://www.rheon.com/wp/wp-content/uploads/2026/06/08ffae10a146447f9835d6eb947b6e02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "感染症増加により、顧客の生産現場における省人化システ",
+    "url": "https://www.rheon.com/wp/wp-content/uploads/2026/06/08ffae10a146447f9835d6eb947b6e02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ユーザーの備えに対する",
+    "url": "https://www.rheon.com/wp/wp-content/uploads/2026/06/08ffae10a146447f9835d6eb947b6e02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様から「こんなお菓子をつくりたい」という要望があれば、徹夜をしてでも2～3日で形にする",
+    "url": "https://shachomeikan.jp/industry_article/5095",
+    "pass": 3
+   },
+   {
+    "quote": "同時に、機械の「作り手」からパンを製造・販売する「使い手」になったことで、これまでとは違う次元でお客様の想いを肌で感じられるようになったのです",
+    "url": "https://shachomeikan.jp/industry_article/5095",
+    "pass": 3
+   },
+   {
+    "quote": "「一番歴史が長いから」という理由は、もはやお客様の選択を保証するものではなく、常に厳しい競争の中にいるという現実を直視しなければなりません",
+    "url": "https://shachomeikan.jp/industry_article/5095",
+    "pass": 3
+   },
+   {
+    "quote": "これからは、お客様の要望に応えるだけの「御用聞き」になるのではなく、弊社オリジナルの標準機を増やし、世界を驚かせるような製品を展開していきたいと考えています",
+    "url": "https://shachomeikan.jp/industry_article/5095",
+    "pass": 3
+   },
+   {
+    "quote": "現場の技術者から子会社の経営、そして再び本社のトップへと至るその道のりは、顧客視点と「開発力」への強い信念を育んだ",
+    "url": "https://shachomeikan.jp/industry_article/5095",
+    "pass": 3
+   },
+   {
+    "quote": "「ユーザーイン発想」で年間1,000点以上を開発",
+    "url": "https://shachomeikan.jp/industry_article/5095",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "部品、保守点検収益",
+    "url": "https://www.rheon.com/wp/wp-content/uploads/2026/06/08ffae10a146447f9835d6eb947b6e02.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "数字でみるレオン | レオン自動機 株式会社 — 数字でみるレオン | レオン自動機 株式会社 レオン自動機株式会社 https://www.rheon.com > ... > 個人株主・投資家の皆様",
+    "url": "https://www.rheon.com/ir/individual/individual_data/",
+    "pass": 3
+   },
+   {
+    "quote": "財務ハイライト | レオン自動機 株式会社 — 財務ハイライト | レオン自動機 株式会社 レオン自動機株式会社 https://www.rheon.com > IR情報 > 財務情報",
+    "url": "https://www.rheon.com/ir/finance/finance_highlight/",
+    "pass": 3
+   },
+   {
+    "quote": "社会 | レオン自動機 株式会社 — 社会 | レオン自動機 株式会社 レオン自動機株式会社 https://www.rheon.com > サステナビリティ",
+    "url": "https://www.rheon.com/sustainability/society/",
+    "pass": 3
+   },
+   {
+    "quote": "【頑張れ製造業シリーズVol.2】 レオン自動機 株式会社\"包む\"に ... — 【頑張れ製造業シリーズVol.2】 レオン自動機 株式会社\"包む\"に ... note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/kiririn0324/n/n51ef793c6ec5",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会・中期経営計画 | レオン自動機 株式会社 — 決算説明 会・中期経営計画 | レオン自動機 株式会社 レオン自動機株式会社 https://www.rheon.com > IR情報 > IRライブラリー",
+    "url": "https://www.rheon.com/ir/library/financial_results_briefing/",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信 | レオン自動機 株式会社 — 決算 短信 | レオン自動機 株式会社 レオン自動機株式会社 https://www.rheon.com > IR情報 > IRライブラリー",
+    "url": "https://www.rheon.com/ir/library/financial_statements/",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリー | レオン自動機 株式会社 — IRライブラリー | レオン自動機 株式会社 レオン自動機株式会社 https://www.rheon.com > IR情報",
+    "url": "https://www.rheon.com/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "一般 | レオン自動機 株式会社 — 一般 | レオン自動機 株式会社 レオン自動機株式会社 https://www.rheon.com > general-topics",
+    "url": "https://www.rheon.com/general-topics/",
+    "pass": 3
+   },
+   {
+    "quote": "IRニュース | 3ページ目 (16ページ中) | レオン自動機 株式会社 — IRニュース | 3ページ目 (16ページ中) | レオン自動機 株式会社 レオン自動機株式会社 https://www.rheon.com > ir-topics > page",
+    "url": "https://www.rheon.com/ir-topics/page/3/",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報／役員一覧／組織図 | レオン自動機 株式会社 — 企業情報／役員一覧／組織図 | レオン自動機 株式会社 レオン自動機株式会社 https://www.rheon.com > 会社概要",
+    "url": "https://www.rheon.com/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | レオン自動機 株式会社 — 会社概要 | レオン自動機 株式会社 レオン自動機株式会社 https://www.rheon.com > company",
+    "url": "https://www.rheon.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "拠点情報 | レオン自動機 株式会社 — 拠点情報 | レオン自動機 株式会社 レオン自動機株式会社 https://www.rheon.com > 会社概要",
+    "url": "https://www.rheon.com/company/office/",
+    "pass": 3
+   },
+   {
+    "quote": "生産工場の紹介 | レオン自動機 株式会社 — 生産工場の紹介 | レオン自動機 株式会社 レオン自動機株式会社 https://www.rheon.com > 会社概要",
+    "url": "https://www.rheon.com/company/iso/",
+    "pass": 3
+   },
+   {
+    "quote": "レオン自動機 株式会社 代表取締役 社長 小林 幹央 - 社長名鑑 — レオン自動機 株式会社 代表取締役 社長 小林 幹央 - 社長名鑑 社長名鑑 https://shachomeikan.jp > industry_article",
+    "url": "https://shachomeikan.jp/industry_article/5095",
+    "pass": 3
+   },
+   {
+    "quote": "第67回 レオン自動機 創業者の熱き想い - note — 第67回 レオン自動機 創業者の熱き想い - note note https://note.com > ... > クリエイターインタビュー",
+    "url": "https://note.com/finding_the_good/n/n8f4eae2686d5",
+    "pass": 3
+   },
+   {
+    "quote": "【 レオン自動機 株式会社 代表取締役 社長 小林幹央 ... - Spotify — 【 レオン自動機 株式会社 代表取締役 社長 小林幹央 ... - Spotify Spotify https://open.spotify.com > episode",
+    "url": "https://open.spotify.com/episode/7vjcSBImwNEoC4PLAD5BaG",
+    "pass": 3
+   },
+   {
+    "quote": "「 社長 名鑑」に掲載されました | 一般 | レオン自動機 株式会社 — 「 社長 名鑑」に掲載されました | 一般 | レオン自動機 株式会社 レオン自動機株式会社 https://www.rheon.com > general-topics",
+    "url": "https://www.rheon.com/general-topics/13494/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.rheon.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rheon.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rheon.com/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rheon.com/models/machines/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/single-row-model/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/multi-row-model/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/options-encrusting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rheon.com/models/machines/encrusting-machine/peripheral-equipment-encrusting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rheon.com/models/machines/bread-making-machine/line/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rheon.com/models/machines/bread-making-machine/stand-alone-machine/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rheon.com/models/machines/bread-making-machine/options-bread/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rheon.com/models/machines/bread-making-machine/peripheral-equipment-encrusting-bread/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rheon.com/models/machines/other-machines/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rheon.com/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rheon.com/ir/finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rheon.com/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rheon.com/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rheon.com/ir/individual/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rheon.com/sustainability/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rheon.com/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rheon.com/ir/individual/individual_ircalendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rheon.com/ir-topics/13723/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rheon.com/ir-topics/13485/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rheon.com/ir/stock/stock_electronic-public-notice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rheon.com/company/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.rheon.com/wp/wp-content/uploads/2026/11/1819e171f7e5844a64c5bfdad0d2fa6a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rheon.com/wp/wp-content/uploads/2026/09/815eed7a4290d875f8738e45065c8708.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rheon.com/wp/wp-content/uploads/2026/06/08ffae10a146447f9835d6eb947b6e02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rheon.com/wp/wp-content/uploads/2026/07/82f0cc41bf41eae3e708ca7cc551f24b.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://shachomeikan.jp/industry_article/5095",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/finding_the_good/n/n8f4eae2686d5",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "レオン自動機",
+   "results": [
+    "https://www.rheon.com/",
+    "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%AA%E3%83%B3%E8%87%AA%E5%8B%95%E6%A9%9F",
+    "https://www.youtube.com/channel/UCR-DP_vdK6AFNLpT_NoqlUg",
+    "https://shikiho.toyokeizai.net/stocks/6272/corporate",
+    "https://en-hyouban.com/company/00006307529/",
+    "https://ja.wikipedia.org/wiki/レオン自動機",
+    "https://www.rheon.com/company/",
+    "https://finance.yahoo.co.jp/quote/6272.T",
+    "https://kabutan.jp/stock/?code=6272",
+    "https://note.com/shotar/n/n9843fddb78ee"
+   ]
+  },
+  {
+   "query": "レオン自動機 ビジネスモデル",
+   "results": [
+    "https://www.rheon.com/ir/individual/individual_data/",
+    "https://www.rheon.com/ir/finance/finance_highlight/",
+    "https://www.jetro.go.jp/biz/areareports/special/2025/1203/ab4e063e88649a7a.html",
+    "https://www.rheon.com/sustainability/society/",
+    "https://note.com/kiririn0324/n/n51ef793c6ec5",
+    "https://www.rheon.com/company/outline/",
+    "https://www.rheon.com/company/office/",
+    "http://www.i-i-b.jp/blog/4014/rheon/",
+    "https://www.youtube.com/watch?v=OzAwaPLw-SI",
+    "https://www.rheon.com/"
+   ]
+  },
+  {
+   "query": "レオン自動機 決算説明資料",
+   "results": [
+    "https://www.rheon.com/ir/library/financial_results_briefing/",
+    "https://www.rheon.com/ir/library/financial_statements/",
+    "https://www.rheon.com/ir/library/",
+    "https://www.rheon.com/general-topics/",
+    "https://www.rheon.com/ir-topics/page/3/",
+    "https://www.rheon.com/wp/wp-content/uploads/2026/08/6477e045ba2ac7d70c88a9376ac4123d.pdf",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=6272",
+    "https://s.kabutan.jp/news/k202608060032/",
+    "https://www.buffett-code.com/company/6272/library",
+    "https://edinetdb.jp/company/E01670/ir-docs/"
+   ]
+  },
+  {
+   "query": "レオン自動機 事業系統図",
+   "results": [
+    "https://www.rheon.com/company/outline/",
+    "https://www.rheon.com/company/",
+    "https://www.rheon.com/company/office/",
+    "https://www.rheon.com/company/iso/",
+    "https://www.rheon.com/general-topics/",
+    "https://job.mynavi.jp/28/pc/search/corp3426/outline.html",
+    "https://www.rheon.com/",
+    "https://shikiho.toyokeizai.net/stocks/6272/corporate",
+    "https://ja.wikipedia.org/wiki/レオン自動機",
+    "https://irbank.net/E01670/business"
+   ]
+  },
+  {
+   "query": "レオン自動機 社長 インタビュー",
+   "results": [
+    "https://shachomeikan.jp/industry_article/5095",
+    "https://note.com/finding_the_good/n/n8f4eae2686d5",
+    "https://open.spotify.com/episode/7vjcSBImwNEoC4PLAD5BaG",
+    "https://www.rheon.com/general-topics/13494/",
+    "https://www.aozorabank.co.jp/sustainability/withblue/vol2/",
+    "https://www.otemae.ac.jp/news/2026/68108/",
+    "https://note.com/finding_the_good/n/n7b5fb493947c",
+    "https://www.youtube.com/watch?v=OzAwaPLw-SI",
+    "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%AA%E3%83%B3%E8%87%AA%E5%8B%95%E6%A9%9F",
+    "https://shachomeikan.jp/corporations/25263"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式25頁／PDF・画像4件／外部2頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像4件／外部2頁・検索5回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式25頁／PDF・画像4件／外部2頁・検索5回）"
+ }
+}

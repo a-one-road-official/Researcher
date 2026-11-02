@@ -1,0 +1,1048 @@
+{
+ "name": "イワキポンプ",
+ "aliases": [],
+ "context": "証券コード6237／機械／プライム（内国株式）／2026.03期 売上高47,692百万円 営業利益率12.4%",
+ "researched_at": "2026-11-02T19:51:07.458670+00:00",
+ "official_url": "https://www.iwakipumps.co.jp/",
+ "identified_by": "search:ddgs:google:イワキポンプ",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1956年（昭和31年）4月10日",
+    "url": "https://www.iwakipumps.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "label": "Q 会社の設立はいつですか？",
+    "value": "A 1956年（昭和31年）4月10日です。",
+    "url": "https://www.iwakipumps.co.jp/ir/faq.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "1,146名（連結）790名（単体）（2026年3月31日現在）",
+    "url": "https://www.iwakipumps.co.jp/company/profile.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "ケミカルポンプをはじめとする各種流体制御機器の開発・製造・販売",
+    "url": "https://www.iwakipumps.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "label": "Q 事業内容を教えて下さい。",
+    "value": "A 「事業内容」ページ をご覧下さい。",
+    "url": "https://www.iwakipumps.co.jp/ir/faq.html",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "・売上高",
+    "value": "29,907百万円（前年比＋ 6.6%）",
+    "url": "https://www.nikkoir.co.jp/individual/event/livereport/pdf_2018winter/iwaki.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.iwakipumps.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「ポンプのデパート」イワキは、ケミカルポンプの総合メーカーとして、取り扱い製品・経験・実績の豊富さ、最先端の技術、品質管理の徹底であらゆる産業・インフラを支えています",
+    "url": "https://www.iwakipumps.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.iwakipumps.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.iwakipumps.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "一般の人々の目に触れる機会の少ない製品ではありますが、自動車や家電製品などの生産設備、装置に使用され、人々の生活を間接的に支えています",
+    "url": "https://www.iwakipumps.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.iwakipumps.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.iwakipumps.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "イワキの最大の特徴は、「ポンプのデパート」と呼ばれるほどの、製品バリエーションの豊富さにあります",
+    "url": "https://www.iwakipumps.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の多種多様な要望に応える製品を開発する中で、多品種少量生産体制を構築してきました",
+    "url": "https://www.iwakipumps.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "豊富な経験と実績に基づく確かな品質管理と生産力で、これからも常にお客様が納得する高品質な製品をご提供してまいります",
+    "url": "https://www.iwakipumps.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "全国各地の代理店と連携を取りながら、迅速なサービスを提供しています",
+    "url": "https://www.iwakipumps.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "一方海外は、15カ国19社のグループ会社が、ワールドワイドな販売・サービス網を構築し、「世界のイワキ」として、あらゆる業界に流体制御機器をご提供しています",
+    "url": "https://www.iwakipumps.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "イワキがご提供する製品は1品1様",
+    "url": "https://www.iwakipumps.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のあらゆるニーズに応える製品をそろえながら、高い生産能力を持っていることが、イワキが世界のトップメーカーと言われる理由です",
+    "url": "https://www.iwakipumps.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "イワキは製品の安全性、高品質、耐久性を常に追求し続けています",
+    "url": "https://www.iwakipumps.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "独自の安全機構の開発や、最先端のエレクトロニクス技術を導入した高品位な製品を多数開発",
+    "url": "https://www.iwakipumps.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "15カ国19社のグループ会社が、ワールドワイドな販売・サービス網を構築しています",
+    "url": "https://www.iwakipumps.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "全国各地の代理店と連携を取りながら、迅速なサービスをご提供しています",
+    "url": "https://www.iwakipumps.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発に注力し、最新の技術で業界最先端の製品をご提供",
+    "url": "https://www.iwakipumps.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "イワキはお客様のご要望を叶える製品の開発を実施するために、研究開発に力を入れています",
+    "url": "https://www.iwakipumps.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "厳しい社内基準をクリアし、最高品質の製品を提供できるよう、技術力の向上に努めています",
+    "url": "https://www.iwakipumps.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "営業部門と連携、お客様の生の声を製品開発に反映",
+    "url": "https://www.iwakipumps.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "「より良い製品を、より安く、より早く」、技術部門は営業部門と連携しお客様の生の声を反映させた製品づくりに全力で取組んでいます",
+    "url": "https://www.iwakipumps.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "流量、圧力、精度、温度、無脈動・・・、流体制御に要求される性能をさまざまな条件下でフルに発揮できるよう、ご要求仕様に対する試験を長時間繰り返し行い製品化しています",
+    "url": "https://www.iwakipumps.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "イワキでは全従業員の20％強が技術部門に所属し、新技術・新製品の開発に携わっています",
+    "url": "https://www.iwakipumps.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "常に最高品質の製品をお客様に届けられると自負するこの品質保証体制が、イワキの自信の一つです",
+    "url": "https://www.iwakipumps.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "ISO9001やISO14001、自社独自の厳しい管理体制のもと、イワキ製品を世界に出荷するのが埼玉工場と三春工場です",
+    "url": "https://www.iwakipumps.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "三春工場はベストセラー製品であるマグネットポンプMDシリーズをはじめとした小型製品を量産しています",
+    "url": "https://www.iwakipumps.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "高品質な製品を出荷するために、さまざまな生産システム、業務フローの改善を実施しています",
+    "url": "https://www.iwakipumps.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.iwakipumps.co.jp/ir/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちが提供する製品・サービスは、人々の暮らしの流れをあらゆる場面で支えていると自負しております",
+    "url": "https://www.iwakipumps.co.jp/ir/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "今、世界はかつてないほどのスピードで激しく変化していますが、当社グループはこれまで培ってきた確かな技術力と生産力によって、製品を通じて社会に価値を提供し続け、信頼される企業グループを目指して邁進してまいります",
+    "url": "https://www.iwakipumps.co.jp/ir/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.iwakipumps.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、お客様の様々なニーズにお応えするべく、ケミカルポンプを中心とした流体制御製品を幅広い産業分野に提供してまいりました",
+    "url": "https://www.iwakipumps.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.iwakipumps.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.iwakipumps.co.jp/ir/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.iwakipumps.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.iwakipumps.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.iwakipumps.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、お客様の様々なニーズにお応えするべく、ケミカルポンプを中心とした流体制御製品を幅広い産業分野に提供してまいりました",
+    "url": "https://www.iwakipumps.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.iwakipumps.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.iwakipumps.co.jp/ir/disclosure.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、株主をはじめとするステークホルダーの皆様に対し、金融商品取引法等の諸法令および東京証券取引所の定める適時開示規則に従って透明性、公平性、継続性を基本とした迅速な情報開示を行います",
+    "url": "https://www.iwakipumps.co.jp/ir/disclosure.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.iwakipumps.co.jp/ir/notice.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.iwakipumps.co.jp/ir/disclaimer.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.iwakipumps.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "https://www.iwakipumps.co.jp/ir/management/strategy.html",
+    "pass": 1
+   },
+   {
+    "quote": "・世界NO.1の製品、品質、価値、サービスを提供",
+    "url": "https://www.nikkoir.co.jp/individual/event/livereport/pdf_2018winter/iwaki.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " ①豊富な製品ラインナップ",
+    "url": "https://www.nikkoir.co.jp/individual/event/livereport/pdf_2018winter/iwaki.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・主力のマグネットポンプでは、超小型から超大型",
+    "url": "https://www.nikkoir.co.jp/individual/event/livereport/pdf_2018winter/iwaki.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "戦略（ワンストップソリューション）が強み",
+    "url": "https://www.nikkoir.co.jp/individual/event/livereport/pdf_2018winter/iwaki.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・「メンテナンスサービスも一つの商品」として位置",
+    "url": "https://www.nikkoir.co.jp/individual/event/livereport/pdf_2018winter/iwaki.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "づけ、顧客目線に立った幅広いサービスを提供",
+    "url": "https://www.nikkoir.co.jp/individual/event/livereport/pdf_2018winter/iwaki.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " ③「流体を制御する」機能で、ソリューションも",
+    "url": "https://www.nikkoir.co.jp/individual/event/livereport/pdf_2018winter/iwaki.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "細かいサービスの提供が可能",
+    "url": "https://www.nikkoir.co.jp/individual/event/livereport/pdf_2018winter/iwaki.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "伸びや製品ミックスも順調で増収・増益を予想",
+    "url": "https://www.nikkoir.co.jp/individual/event/livereport/pdf_2018winter/iwaki.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ケミカルポンプと流体制御機器のイワキ [製品サイト]",
+    "url": "http://www.iwakipumps.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "製品情報トップ",
+    "url": "http://www.iwakipumps.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "システム製品",
+    "url": "http://www.iwakipumps.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "その他のシステム製品",
+    "url": "http://www.iwakipumps.jp/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "先輩社員紹介",
+    "url": "https://www.iwakipumps.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社イワキ 会社紹介・社員インタビュー動画【メンテナンス本部】",
+    "url": "https://www.iwakipumps.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社イワキ 会社紹介ムービー",
+    "url": "https://www.iwakipumps.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員紹介",
+    "url": "https://www.iwakipumps.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員紹介",
+    "url": "https://www.iwakipumps.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員紹介",
+    "url": "https://www.iwakipumps.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員紹介",
+    "url": "https://www.iwakipumps.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "全国各地の代理店と連携を取りながら、迅速なサービスを提供しています",
+    "url": "https://www.iwakipumps.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "地域密着型の国内販売網",
+    "url": "https://www.iwakipumps.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "国内販売網は主要13都市に支店・営業所を展開",
+    "url": "https://www.iwakipumps.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "全国各地の代理店と連携を取りながら、迅速なサービスをご提供しています",
+    "url": "https://www.iwakipumps.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員紹介",
+    "url": "https://www.iwakipumps.co.jp/ir/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員紹介",
+    "url": "https://www.iwakipumps.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の役員を紹介いたします",
+    "url": "https://www.iwakipumps.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員紹介",
+    "url": "https://www.iwakipumps.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員紹介",
+    "url": "https://www.iwakipumps.co.jp/ir/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員紹介",
+    "url": "https://www.iwakipumps.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員紹介",
+    "url": "https://www.iwakipumps.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員紹介",
+    "url": "https://www.iwakipumps.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員紹介",
+    "url": "https://www.iwakipumps.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員紹介",
+    "url": "https://www.iwakipumps.co.jp/ir/disclosure.html",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員紹介",
+    "url": "https://www.iwakipumps.co.jp/ir/notice.html",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員紹介",
+    "url": "https://www.iwakipumps.co.jp/ir/disclaimer.html",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員紹介",
+    "url": "https://www.iwakipumps.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員紹介",
+    "url": "https://www.iwakipumps.co.jp/ir/management/strategy.html",
+    "pass": 1
+   },
+   {
+    "quote": "事例紹介トップ",
+    "url": "http://www.iwakipumps.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "事例紹介 一覧",
+    "url": "http://www.iwakipumps.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "よくあるご質問、各種お問い合わせ、製品メンテンナンス動画など、イワキ製品のサポートについてご紹介します",
+    "url": "http://www.iwakipumps.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "テレビ番組『THE LEADERS ～未来を創るモノづくり企業～』で当社が紹介されました",
+    "url": "http://www.iwakipumps.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "イワキの液体制御機器をご活用いただいているお客様の導入事例やシステム構築例をご紹介します",
+    "url": "http://www.iwakipumps.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ポンプの基礎知識から製品の活用事例、動画の紹介、イワキの歴史など、多彩なコーナーでお届けします",
+    "url": "http://www.iwakipumps.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "イワキポンプの技術力が支える様々なジャンルを紹介していくコーナーです",
+    "url": "http://www.iwakipumps.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "「見る前に読む！」をコンセプトにした動画紹介のコーナーです",
+    "url": "http://www.iwakipumps.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルに活躍するイワキの海外拠点を紹介します",
+    "url": "http://www.iwakipumps.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "展示会・セミナー情報のお知らせ、製品紹介、キャンペーン情報など最新情報を紹介します",
+    "url": "http://www.iwakipumps.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ケミカルポンプの歴史を築いてきたイワキについてご紹介します",
+    "url": "http://www.iwakipumps.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "(株)イワキ（イワキポンプ）事業紹介 - YouTube",
+    "url": "https://www.youtube.com/watch?v=WOjTFEU-WDU",
+    "pass": 3
+   },
+   {
+    "quote": "(株)イワキ（イワキポンプ）事業紹介",
+    "url": "https://www.youtube.com/watch?v=WOjTFEU-WDU",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社イワキ 会社紹介・社員インタビュー動画【メンテナンス本部】",
+    "url": "https://www.youtube.com/watch?v=WOjTFEU-WDU",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社オーバル 他社製流量計校正サービスのご紹介",
+    "url": "https://www.youtube.com/watch?v=WOjTFEU-WDU",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社イワキ 会社紹介ムービー",
+    "url": "https://www.youtube.com/watch?v=WOjTFEU-WDU",
+    "pass": 3
+   },
+   {
+    "quote": "事例紹介トップ",
+    "url": "https://www.iwakipumps.jp/news/2020/1215/",
+    "pass": 3
+   },
+   {
+    "quote": "事例紹介 一覧",
+    "url": "https://www.iwakipumps.jp/news/2020/1215/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "1956年（昭和31年）4月10日",
+    "url": "https://www.iwakipumps.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | ケミカルポンプと流体制御機器のイワキ",
+    "url": "https://www.iwakipumps.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1956年（昭和31年）の創業以来、イワキはケミカルポンプをはじめとする流体制御機器の開発・生産を続けてきました",
+    "url": "https://www.iwakipumps.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "1996年にISO9001を取得",
+    "url": "https://www.iwakipumps.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 統合報告書",
+    "url": "https://www.iwakipumps.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "1956年（昭和31年）4月10日です",
+    "url": "https://www.iwakipumps.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "2016年3月18日に東京証券取引所市場第二部に上場、2019年3月15日に同市場第一部に指定となりました",
+    "url": "https://www.iwakipumps.co.jp/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "2035年3月期",
+    "url": "https://www.iwakipumps.co.jp/ir/management/strategy.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 有価証券報告書",
+    "url": "https://www.iwakipumps.co.jp/ir/management/strategy.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年12月15日",
+    "url": "https://www.iwakipumps.jp/news/2020/1215/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年の記事一覧",
+    "url": "https://www.iwakipumps.jp/news/2020/1215/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "お客様の多種多様な要望に応える製品を開発する中で、多品種少量生産体制を構築してきました",
+    "url": "https://www.iwakipumps.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "今では多くのお客様から「ポンプのことなら、まずイワキに聞く」というお言葉をいただいています",
+    "url": "https://www.iwakipumps.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "豊富な経験と実績に基づく確かな品質管理と生産力で、これからも常にお客様が納得する高品質な製品をご提供してまいります",
+    "url": "https://www.iwakipumps.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "独自安全機構の開発、徹底した耐久性の追求でお客様のニーズにお応えしています",
+    "url": "https://www.iwakipumps.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "長年の経験実績による豊富なノウハウで、お客様のあらゆる要望にお応えいたします",
+    "url": "https://www.iwakipumps.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のあらゆるニーズに応える製品をそろえながら、高い生産能力を持っていることが、イワキが世界のトップメーカーと言われる理由です",
+    "url": "https://www.iwakipumps.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "漏れない、壊れないは当然であり、お客様が安心してご使用できるように、その用途に合わせた高い精度を実現しなければなりません",
+    "url": "https://www.iwakipumps.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "イワキはお客様のご要望を叶える製品の開発を実施するために、研究開発に力を入れています",
+    "url": "https://www.iwakipumps.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "営業部門と連携、お客様の生の声を製品開発に反映",
+    "url": "https://www.iwakipumps.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "「より良い製品を、より安く、より早く」、技術部門は営業部門と連携しお客様の生の声を反映させた製品づくりに全力で取組んでいます",
+    "url": "https://www.iwakipumps.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様から求められる難度の高い流体制御仕様を実現するため、最新技術をいち早く導入した次世代ポンプ＆システムの研究開発に取り組んでいます",
+    "url": "https://www.iwakipumps.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "常に最高品質の製品をお客様に届けられると自負するこの品質保証体制が、イワキの自信の一つです",
+    "url": "https://www.iwakipumps.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "全ての生産ラインでは工程ごとに厳しいチェックを実施、品質・環境の両面から、お客様と社会に貢献いたします",
+    "url": "https://www.iwakipumps.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、お客様の様々なニーズにお応えするべく、ケミカルポンプを中心とした流体制御製品を幅広い産業分野に提供してまいりました",
+    "url": "https://www.iwakipumps.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、お客様の様々なニーズにお応えするべく、ケミカルポンプを中心とした流体制御製品を幅広い産業分野に提供してまいりました",
+    "url": "https://www.iwakipumps.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "また、通信環境やお客様のコンピュータの状況、その他の理由により当ウェブサイトを正常に利用できない場合があります",
+    "url": "https://www.iwakipumps.co.jp/ir/disclaimer.html",
+    "pass": 1
+   },
+   {
+    "quote": "まで、顧客用途別の幅広いシリーズを展開",
+    "url": "https://www.nikkoir.co.jp/individual/event/livereport/pdf_2018winter/iwaki.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "能力、多種多様な顧客要求に応える販売体制",
+    "url": "https://www.nikkoir.co.jp/individual/event/livereport/pdf_2018winter/iwaki.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "づけ、顧客目線に立った幅広いサービスを提供",
+    "url": "https://www.nikkoir.co.jp/individual/event/livereport/pdf_2018winter/iwaki.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・顧客の生産性向上や問題解決等のニーズを",
+    "url": "https://www.nikkoir.co.jp/individual/event/livereport/pdf_2018winter/iwaki.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "豊富な製品ラインアップで、世界中のお客様のご要望にお応えします",
+    "url": "http://www.iwakipumps.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "イワキの液体制御機器をご活用いただいているお客様の導入事例やシステム構築例をご紹介します",
+    "url": "http://www.iwakipumps.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "【お客様事例】株式会社ライフクリーニング様 - クリーニング工場で洗剤を自動投入...>",
+    "url": "http://www.iwakipumps.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "（第66話）レイシー編 最終話 イワキアクアティックへとつながったお客様第一主義",
+    "url": "http://www.iwakipumps.jp/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "最古参の世界的ケミカルポンプメーカーとしてあらゆる業界に流体制御機器を提供してきた実績と豊富なノウハウが強み",
+    "url": "https://www.iwakipumps.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "多品種少量生産を強みとする一方で、年間60万台以上の生産能力があり、これは業界でも最大規模です",
+    "url": "https://www.iwakipumps.co.jp/company/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "加えて、定量目標として、2035年3月期において連結売上高1,000億円、連結営業利益率15％以上の維持継続を設定し、その達成に向けて重要テーマを設定し注力してまいります",
+    "url": "https://www.iwakipumps.co.jp/ir/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "特長・強み 業績予想、株主還元ほか",
+    "url": "https://www.nikkoir.co.jp/individual/event/livereport/pdf_2018winter/iwaki.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "戦略（ワンストップソリューション）が強み",
+    "url": "https://www.nikkoir.co.jp/individual/event/livereport/pdf_2018winter/iwaki.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・多品種少量生産を強みに年間約80万台の生産",
+    "url": "https://www.nikkoir.co.jp/individual/event/livereport/pdf_2018winter/iwaki.pdf",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "3.新規事業のビジネスモデル構築",
+    "url": "https://www.nikkoir.co.jp/individual/event/livereport/pdf_2018winter/iwaki.pdf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "イワキポンプ の経済的な堀と競争優位性分析｜ようじ - note — イワキポンプ の経済的な堀と競争優位性分析｜ようじ - note note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/kakuka0904/n/nf41804a6bf94",
+    "pass": 3
+   },
+   {
+    "quote": "イワキポンプ は自律調整一巡して上値試す、医療機器分野など ... — イワキポンプ は自律調整一巡して上値試す、医療機器分野など ... 財経新聞 https://www.zaikei.co.jp > article",
+    "url": "https://www.zaikei.co.jp/article/20170308/356539.html",
+    "pass": 3
+   },
+   {
+    "quote": "(株)イワキ（ イワキポンプ ）事業紹介 - YouTube — (株)イワキ（ イワキポンプ ）事業紹介 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=WOjTFEU-WDU",
+    "pass": 3
+   },
+   {
+    "quote": "イワキポンプ [6237]：2026年3月期 決算説明 ... - 日本経済新聞 — イワキポンプ [6237]：2026年3月期 決算説明 ... - 日本経済新聞 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260430515558/",
+    "pass": 3
+   },
+   {
+    "quote": "(株)イワキ（ イワキポンプ ） 事業 紹介 - YouTube — (株)イワキ（ イワキポンプ ） 事業 紹介 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=WOjTFEU-WDU",
+    "pass": 3
+   },
+   {
+    "quote": "イワキポンプ 【6237】のストーリー・沿革 - キタイシホン — イワキポンプ 【6237】のストーリー・沿革 - キタイシホン キタイシホン https://kitaishihon.com > company > story",
+    "url": "https://kitaishihon.com/company/6237/story",
+    "pass": 3
+   },
+   {
+    "quote": "イワキポンプ （6237）の関連テーマ・ 事業 内容 — イワキポンプ （6237）の関連テーマ・ 事業 内容 株トレンドpro https://jigyou-v2.kabu-trendpro.com > 機械",
+    "url": "https://jigyou-v2.kabu-trendpro.com/company/6237/",
+    "pass": 3
+   },
+   {
+    "quote": "イワキポンプ 【6237】の 社長 ・役員 - キタイシホン — イワキポンプ 【6237】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/6237/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "イワキポンプ の藤中 社長 「化学用ポンプ、アジア需要を ... — イワキポンプ の藤中 社長 「化学用ポンプ、アジア需要を ... 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXMZO98310550R10C16A3000000/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.iwakipumps.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwakipumps.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwakipumps.co.jp/company/profile.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwakipumps.co.jp/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwakipumps.co.jp/company/aboutus.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwakipumps.co.jp/ir/message.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwakipumps.co.jp/ir/management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwakipumps.co.jp/ir/news.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwakipumps.co.jp/ir/highlight.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwakipumps.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwakipumps.co.jp/ir/calendar.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwakipumps.co.jp/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwakipumps.co.jp/ir/faq.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwakipumps.co.jp/ir/disclosure.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwakipumps.co.jp/ir/notice.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwakipumps.co.jp/ir/disclaimer.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwakipumps.co.jp/sustainability/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwakipumps.co.jp/ir/management/strategy.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.iwakipumps.co.jp/ir/library/pdf/IWAKI_IntegratedReport2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.nikkoir.co.jp/individual/event/livereport/pdf_2018winter/iwaki.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.iwakipumps.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=WOjTFEU-WDU",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.iwakipumps.jp/news/2020/1215/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwakipumps-recruit.jp/interview/400/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "イワキポンプ",
+   "results": [
+    "http://www.iwakipumps.jp/",
+    "https://www.youtube.com/channel/UCetzGtbuRNe9WJ9aheYhHJA",
+    "https://x.com/iwakipumps",
+    "https://www.nikkei.com/nkd/company/?scode=6237",
+    "https://www.iwakipumps-recruit.jp/",
+    "https://ja.wikipedia.org/wiki/イワキンバイ",
+    "https://www.iwakipumps.co.jp/company/profile.html",
+    "https://www.iwakipumps.jp/",
+    "https://www.iwakipumps.co.jp/",
+    "https://www.iwakipumps.jp/products/magnetic/135/md/"
+   ]
+  },
+  {
+   "query": "イワキポンプ ビジネスモデル",
+   "results": [
+    "https://www.iwakipumps.co.jp/ir/library/pdf/IWAKI_IntegratedReport2024.pdf",
+    "https://www.nikkoir.co.jp/individual/event/livereport/pdf_2018winter/iwaki.pdf",
+    "https://note.com/kakuka0904/n/nf41804a6bf94",
+    "https://www.zaikei.co.jp/article/20170308/356539.html",
+    "https://www.youtube.com/watch?v=WOjTFEU-WDU",
+    "https://www.nikkei.com/article/DGXZRST0534463X00C25A8000000/",
+    "https://kitaishihon.com/company/6237/management-strategy",
+    "https://www.youtube.com/channel/UCetzGtbuRNe9WJ9aheYhHJA",
+    "https://strainer.jp/companies/JP-6237/history"
+   ]
+  },
+  {
+   "query": "イワキポンプ 決算説明資料",
+   "results": [
+    "https://www.iwakipumps.co.jp/ir/library/presentation.html",
+    "https://www.iwakipumps.co.jp/ir/library/result.html",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260430515558/",
+    "https://daiwair.webcdn.stream.ne.jp/www11/daiwair/qlviewer/pdf/2505216237rra6wvSc.pdf",
+    "https://www.iwakipumps.co.jp/ir/",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260804508811",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250514/20250513544976.pdf",
+    "https://www.hoshizaki.com/ir/library",
+    "https://edinetdb.jp/company/E32189/presentations/",
+    "https://www2.jpx.co.jp/disc/62370/140120260430515558.pdf"
+   ]
+  },
+  {
+   "query": "イワキポンプ 事業系統図",
+   "results": [
+    "http://www.iwakipumps.jp/",
+    "https://www.youtube.com/watch?v=WOjTFEU-WDU",
+    "https://kitaishihon.com/company/6237/story",
+    "https://jigyou-v2.kabu-trendpro.com/company/6237/",
+    "https://www.iwakipumps.co.jp/company/profile.html",
+    "https://strainer.jp/companies/JP-6237/history",
+    "https://www.iwaki.be/wp-content/uploads/2020/10/MX-402H-2PC-3022.pdf",
+    "https://iwakipumps-exhibition.com/",
+    "https://www.youtube.com/watch?v=FBqrCcIOMNk",
+    "https://www.iwakipumps.jp/corporate/profile/"
+   ]
+  },
+  {
+   "query": "イワキポンプ 社長 インタビュー",
+   "results": [
+    "https://www.iwakipumps.jp/news/2020/1215/",
+    "https://www.iwakipumps-recruit.jp/interview/400/",
+    "https://kitaishihon.com/company/6237/board-of-director",
+    "https://www.youtube.com/watch?v=V-k9JE9xcyU",
+    "https://www.nikkei.com/article/DGXMZO98310550R10C16A3000000/",
+    "https://www.iwakipumps.jp/blog/channel/108",
+    "https://www.youtube.com/watch?v=WOjTFEU-WDU",
+    "https://x.com/iwakipumps",
+    "https://www.iwakipumps-recruit.jp/about/",
+    "https://shachomeikan.jp/presidents/detail/10062910"
+   ]
+  }
+ ],
+ "missing": {
+  "お金の形": "記載なし（3回確認済み：公式18頁／PDF・画像1件／外部5頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式18頁／PDF・画像1件／外部5頁・検索5回）"
+ }
+}

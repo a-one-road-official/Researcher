@@ -1,0 +1,1483 @@
+{
+ "name": "オーエスジー",
+ "aliases": [],
+ "context": "証券コード6136／機械／プライム（内国株式）／2025.11期 売上高160,619百万円 営業利益率12.7%",
+ "researched_at": "2026-11-02T19:48:12.893426+00:00",
+ "official_url": "https://www.osg.co.jp/",
+ "identified_by": "search:yahoo_jp:オーエスジー",
+ "profile": {
+  "従業員数": [
+   {
+    "label": "従業員の労働環境悪化",
+    "value": "中 工場における省人化・自動化推進（自動測定・自動包装）安全健康経営推進、工場内温熱環境の改善",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.osg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.osg.co.jp/about_us/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.osg.co.jp/about_us/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.osg.co.jp/about_us/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.osg.co.jp/about_us/offices/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "世界35ヶ国に製造・販売拠点を配置し、様々な地域のお客様のニーズにお応えするグローバルな体制を構築しています",
+    "url": "https://www.osg.co.jp/about_us/offices/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.osg.co.jp/about_us/procurement/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "であるサプライチェーン全体のグリーン化を念頭に、お客様に「環境に配慮した製品」を提供することを目的しています",
+    "url": "https://www.osg.co.jp/about_us/procurement/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "必要な資源の調達において、人や環境に与える影響の少ない部材や製品を優先して調達・購入すべく、お取引先に適正な製品含有化学物質の管理およびグリーン調達自己評価の実施等にご協力いただきながら、当社とサプライヤーが一体となったグリーン調達の推進に取り組んでいます",
+    "url": "https://www.osg.co.jp/about_us/procurement/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、サプライチェーンの取引先の皆様や価値創造を図る事業者の皆様との連携・共存共栄を進めることで、新たなパートナーシップを構築するため、「パートナーシップ構築宣言」へ参加・公開しています",
+    "url": "https://www.osg.co.jp/about_us/procurement/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客、投資家の変化",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "オーエスジーは、無駄なエネルギーを使わない環境に優しい加工や、お客様の加工効率向上・加工コスト削減を実現するために製品や新技術の開発を行っています",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "物流部門ではお客様へ製品をお届けする際に使用する緩衝材を、環境に配慮した素材に変更しました",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "以前お客様から緩衝材がかさばるため廃棄が大変というお声もいただきましたが、エアー緩衝材は空気を抜くことにより廃棄物の量を減らすことができます",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "オーエスジーでは、環境に優しい製品づくりやお客様への環境に優しい製品の提供に努めています",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "使用済み工具をお客様から回収し、希少金属をリサイクルすることで素材として再生して資源を有効活用し、お客様のCSR活動やゼロエミッション推進に役立てるよう取り組んでいます",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "オーエスジーグループでは再研磨・再コーティングをグループ会社で行っており、お客様のご要望にお応えしております",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "オーエスジーはサステナブルな社会に向けて、切削工具によるお客様の課題解決を目指しています",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "高品質で高能率、さらに耐久性の高い切削工具は、お客様の生産性の向上や消費電力量の削減に貢献します",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "業界に先駆けて提案することは、新しい価値を生み出し、お客様と共により良い未来を築くための大切な一歩だと考えました",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "環境負荷低減と生産性向上を両立することで、お客様の事業と社会に貢献していきたいと考えています",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.osg.co.jp/sustainability/library/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.osg.co.jp/about_us/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.osg.co.jp/about_us/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.osg.co.jp/about_us/offices/japan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.osg.co.jp/about_us/offices/america/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.osg.co.jp/about_us/offices/euro/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.osg.co.jp/about_us/offices/asia/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.osg.co.jp/about_us/ir/.searchUp",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.osg.co.jp/about_us/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.osg.co.jp/about_us/ir/financial/ir-library.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.osg.co.jp/about_us/.searchUp",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.osg.co.jp/about_us/company/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.osg.co.jp/about_us/offices/",
+    "pass": 1
+   },
+   {
+    "quote": "世界35ヶ国に製造・販売拠点を配置し、様々な地域のお客様のニーズにお応えするグローバルな体制を構築しています",
+    "url": "https://www.osg.co.jp/about_us/offices/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.osg.co.jp/about_us/company/.searchUp",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.osg.co.jp/about_us/company/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "オーエスジーは1968年に最初の現地法人をアメリカに設立して以来、企業理念「地球会社」のもと、世界35ヶ国に製造・販売・技術サポート体制を築き、世界中のお客様に高品質・高性能な製品および充実したお客様サポートを提供してまいりました",
+    "url": "https://www.osg.co.jp/about_us/company/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "shaping your dreams －お客様の夢をカタチに－",
+    "url": "https://www.osg.co.jp/about_us/company/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの製品はお客様とのコミュニケーションから生まれます",
+    "url": "https://www.osg.co.jp/about_us/company/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "信頼され、心から満足していただける製品とサービスを提供するために、オーエスジーでは、工具を通したお客様との対話を「ツールコミュニケーション」として最も大切にしています",
+    "url": "https://www.osg.co.jp/about_us/company/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様一人ひとりの夢をカタチにしたい",
+    "url": "https://www.osg.co.jp/about_us/company/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の課題を多角的に見つめ、真摯に向き合い、個々の状況に合わせて設計開発し、徹底的に課題解決に取り組むことがオーエスジーの企業DNAであり、これを一層進化してまいります",
+    "url": "https://www.osg.co.jp/about_us/company/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.osg.co.jp/about_us/company/philosophy.html",
+    "pass": 1
+   },
+   {
+    "quote": "企業は社会の公器であることを常に自覚し、顧客に喜ばれる製品を提供します",
+    "url": "https://www.osg.co.jp/about_us/company/philosophy.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.osg.co.jp/about_us/offices/.searchUp",
+    "pass": 1
+   },
+   {
+    "quote": "お客様サポート",
+    "url": "https://www.osg.co.jp/about_us/offices/japan/sales_office/tobu/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "・企業は社会の公器であることを常に自覚し、顧客に喜ばれる製品を提供します",
+    "url": "https://www.osg.co.jp/about_us/company/file/statement.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．社会的に有用な製品・サービスを安全性や個人情報・顧客情報の保護に十分配慮して開発、提供",
+    "url": "https://www.osg.co.jp/about_us/company/file/statement.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "し、消費者・顧客の満足と信頼を獲得する",
+    "url": "https://www.osg.co.jp/about_us/company/file/statement.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "底すると共に、グループ企業や取引先に周知させる",
+    "url": "https://www.osg.co.jp/about_us/company/file/statement.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１． 社会的に有用な製品・サービスを安全性や個人情報・顧客情報の保護に十分配慮して開発、 提供し、",
+    "url": "https://www.osg.co.jp/about_us/company/file/statement.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "消費者・顧客の満足と信頼を獲得する",
+    "url": "https://www.osg.co.jp/about_us/company/file/statement.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1.1.1 顧客ニーズの的確な把握",
+    "url": "https://www.osg.co.jp/about_us/company/file/statement.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "社員一人一人が常に市場動向に注意し、 顧客のニーズに敏感に反応するという心構えを持つこと",
+    "url": "https://www.osg.co.jp/about_us/company/file/statement.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "社員全員で顧客ニーズの的確で迅速な取り込みに積極的に行動することが必要です",
+    "url": "https://www.osg.co.jp/about_us/company/file/statement.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品の欠陥により利用者の生命、 身体や財産に被害を生じさせるようなことがあってはなりませ",
+    "url": "https://www.osg.co.jp/about_us/company/file/statement.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "調達部門においては、優越的地位を利用して取引先に不公正な取引を要求する行為等は「下請",
+    "url": "https://www.osg.co.jp/about_us/company/file/statement.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2.2 取引先・関係先との健全で良好な関係",
+    "url": "https://www.osg.co.jp/about_us/company/file/statement.pdf",
+    "pass": 2
+   }
+  ],
+  "何を": [
+   {
+    "quote": "製品をさがす",
+    "url": "https://www.osg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "産業別ソリューション",
+    "url": "https://www.osg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ",
+    "url": "https://www.osg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品価格検索ONEST",
+    "url": "https://www.osg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "どんな製品をお探しですか？",
+    "url": "https://www.osg.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品をさがす",
+    "url": "https://www.osg.co.jp/about_us/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業別ソリューション",
+    "url": "https://www.osg.co.jp/about_us/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ",
+    "url": "https://www.osg.co.jp/about_us/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "高付加価値な製品群",
+    "url": "https://www.osg.co.jp/about_us/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "どんな製品をお探しですか？",
+    "url": "https://www.osg.co.jp/about_us/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品をさがす",
+    "url": "https://www.osg.co.jp/about_us/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業別ソリューション",
+    "url": "https://www.osg.co.jp/about_us/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ",
+    "url": "https://www.osg.co.jp/about_us/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "どんな製品をお探しですか？",
+    "url": "https://www.osg.co.jp/about_us/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品をさがす",
+    "url": "https://www.osg.co.jp/about_us/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業別ソリューション",
+    "url": "https://www.osg.co.jp/about_us/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ",
+    "url": "https://www.osg.co.jp/about_us/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "どんな製品をお探しですか？",
+    "url": "https://www.osg.co.jp/about_us/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品をさがす",
+    "url": "https://www.osg.co.jp/about_us/offices/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業別ソリューション",
+    "url": "https://www.osg.co.jp/about_us/offices/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ",
+    "url": "https://www.osg.co.jp/about_us/offices/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "どんな製品をお探しですか？",
+    "url": "https://www.osg.co.jp/about_us/offices/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品をさがす",
+    "url": "https://www.osg.co.jp/about_us/procurement/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業別ソリューション",
+    "url": "https://www.osg.co.jp/about_us/procurement/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ",
+    "url": "https://www.osg.co.jp/about_us/procurement/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "であるサプライチェーン全体のグリーン化を念頭に、お客様に「環境に配慮した製品」を提供することを目的しています",
+    "url": "https://www.osg.co.jp/about_us/procurement/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "「環境に優しい製品」を提供できる企業活動を開発・設計、生産、流通の各領域で行うため、サプライヤーには、 「環境保証体制の確立」、「調達品の環境保証」へのご協力をお願いしています",
+    "url": "https://www.osg.co.jp/about_us/procurement/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "「グリーン調達ガイドライン」は、生産販売する製品のライフサイクル全般における配慮のうち、サプライチェーン製品化学物質管理、情報伝達にまつわる重要な指針です",
+    "url": "https://www.osg.co.jp/about_us/procurement/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "必要な資源の調達において、人や環境に与える影響の少ない部材や製品を優先して調達・購入すべく、お取引先に適正な製品含有化学物質の管理およびグリーン調達自己評価の実施等にご協力いただきながら、当社とサプライヤーが一体となったグリーン調達の推進に取り組んでいます",
+    "url": "https://www.osg.co.jp/about_us/procurement/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "どんな製品をお探しですか？",
+    "url": "https://www.osg.co.jp/about_us/procurement/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品をさがす",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業別ソリューション",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "環境に優しい製品づくり",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "環境配慮型の製品・サービス",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "社会に貢献する商品・サービスの提供を図るとともに環境への配慮を重要課題とする",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "持続可能な社会に貢献するため、世界の産業に寄与するツールの開発・設計から廃棄までの各領域において、資源や廃棄物の有効活用による循環型社会の実現や省エネルギー・再生可能エネルギーの推進を通して、環境の保全・向上に努めるとともに、環境に配慮した製品の提供に努めます",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "①エコファクトリー（環境にやさしい製品づくり）、②エコプロダクツ（環境にやさしい製品開発）、③エネルギー改善削減量の3つの管理指標を掲げ、目標達成に向け取り組み、結果として、3つの管理指標すべてを達成することが出来ました",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "環境に優しい製品開発",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "切削工具、転造工具、測定工具、塗工用工具、ドライバービット及び専用工作機械の設計・開発、製造及び付帯サービス（技術資料の提供、技術指導、校正）",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "環境負荷の少ない製品へ",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "環境に配慮できていないの移行 製品・サービスの売上減少",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "環境負荷の少ない製品への移行",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "長寿命製品の需要拡大",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "長寿命製品の更なる品質強化、開発、販売拡大",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "自然災害発生時の防災関連製品やサービス等の需要増加",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年、アグリガスコム株式会社及び中部電力ミライズとともに営農型オフサイトPPAサービスの実施に向けた協定を締結し、当社専用の太陽光発電所から20年にわたりCO",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "これらの取り組みにより、空調の省エネ運転と、製品の品質に大きな影響を与える室温管理の両立を実現しました",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "（※2）（一社）省エネルギーセンター主催、製品・ビジネスモデル部門",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "オーエスジーコーティングサービス（株） ISO14001を取得",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品に「エコロジー宣言」",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "オーエスジーは、無駄なエネルギーを使わない環境に優しい加工や、お客様の加工効率向上・加工コスト削減を実現するために製品や新技術の開発を行っています",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "環境に配慮した製品輸送",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "物流部門ではお客様へ製品をお届けする際に使用する緩衝材を、環境に配慮した素材に変更しました",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、新城工場からロジス東京へ製品を毎日運搬する際、パレットへ積んだ荷物の荷崩れ防止に毎回フィルムを何重にも巻いていましたが、5枚のパネルを箱型に組み立てパレット全体を覆うことができるツールに変更しました",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品をさがす",
+    "url": "https://www.osg.co.jp/sustainability/library/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業別ソリューション",
+    "url": "https://www.osg.co.jp/sustainability/library/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ",
+    "url": "https://www.osg.co.jp/sustainability/library/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "どんな製品をお探しですか？",
+    "url": "https://www.osg.co.jp/sustainability/library/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品をさがす",
+    "url": "https://www.osg.co.jp/about_us/ir/news/",
+    "pass": 1
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "OSGの強み",
+    "url": "https://www.osg.co.jp/about_us/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "在庫センター",
+    "url": "https://www.osg.co.jp/about_us/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "在庫センター",
+    "url": "https://www.osg.co.jp/about_us/offices/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "在庫センター",
+    "url": "https://www.osg.co.jp/about_us/procurement/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "OSGの強み",
+    "url": "https://www.osg.co.jp/about_us/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "OSGの強み",
+    "url": "https://www.osg.co.jp/about_us/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "在庫センター",
+    "url": "https://www.osg.co.jp/about_us/offices/japan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "在庫センター",
+    "url": "https://www.osg.co.jp/about_us/offices/america/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "在庫センター",
+    "url": "https://www.osg.co.jp/about_us/offices/euro/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "在庫センター",
+    "url": "https://www.osg.co.jp/about_us/offices/asia/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "OSGの強み",
+    "url": "https://www.osg.co.jp/about_us/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "OSGの強み",
+    "url": "https://www.osg.co.jp/about_us/ir/financial/ir-library.html",
+    "pass": 1
+   },
+   {
+    "quote": "在庫センター",
+    "url": "https://www.osg.co.jp/about_us/company/",
+    "pass": 1
+   },
+   {
+    "quote": "在庫センター",
+    "url": "https://www.osg.co.jp/about_us/offices/",
+    "pass": 1
+   },
+   {
+    "quote": "在庫センター",
+    "url": "https://www.osg.co.jp/about_us/company/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "在庫センター",
+    "url": "https://www.osg.co.jp/about_us/company/philosophy.html",
+    "pass": 1
+   },
+   {
+    "quote": "在庫センター",
+    "url": "https://www.osg.co.jp/about_us/offices/japan/sales_office/tobu/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "しかし生産が上がらなかった時期に部品メーカーさんが増産に備えて在庫を積み増したという側面があり、在庫調整がまだ進んでいない",
+    "url": "https://monoque.jp/contents/82f48f005d703143f8bc5b84dfe71bc7db19d401/",
+    "pass": 3
+   },
+   {
+    "quote": "競争力のある世界的グローバル部品メーカーというのは、世界の様々な自動車メーカーと取り引きを行う強みを持っていたけれど、対中国自動車メーカーだとこれがなかなか通用しなくなっています",
+    "url": "https://monoque.jp/contents/82f48f005d703143f8bc5b84dfe71bc7db19d401/",
+    "pass": 3
+   },
+   {
+    "quote": "ですから結果生産量を増やしても行先が無く在庫がダブつくような状況に追い込まれていると、外野から見ているとそういう風にみえます",
+    "url": "https://monoque.jp/contents/82f48f005d703143f8bc5b84dfe71bc7db19d401/",
+    "pass": 3
+   },
+   {
+    "quote": "今日は、海外に足場がある相互の強みを活かしあって、もっといろいろやれることがあるのではないかという話をしたかったんです（笑）",
+    "url": "https://monoque.jp/contents/82f48f005d703143f8bc5b84dfe71bc7db19d401/",
+    "pass": 3
+   },
+   {
+    "quote": "当社の強みを言わせていただければ、グローバルで生産にかかる商材を供給し、技術サポートもできることです",
+    "url": "https://monoque.jp/contents/82f48f005d703143f8bc5b84dfe71bc7db19d401/",
+    "pass": 3
+   },
+   {
+    "quote": "海外の拠点毎にお客様へのサポートレベルに相違があるのは確かですが、要はこの強みを活かしたい",
+    "url": "https://monoque.jp/contents/82f48f005d703143f8bc5b84dfe71bc7db19d401/",
+    "pass": 3
+   },
+   {
+    "quote": "強みの一例として、こういうケースが増えています",
+    "url": "https://monoque.jp/contents/82f48f005d703143f8bc5b84dfe71bc7db19d401/",
+    "pass": 3
+   },
+   {
+    "quote": "ここで互いの強みを活かしあえると思うんです",
+    "url": "https://monoque.jp/contents/82f48f005d703143f8bc5b84dfe71bc7db19d401/",
+    "pass": 3
+   },
+   {
+    "quote": "サービスの質が高いという日本の強みは将来に活きるんじゃないでしょうか",
+    "url": "https://monoque.jp/contents/82f48f005d703143f8bc5b84dfe71bc7db19d401/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "パートナーシップ構築宣言",
+    "url": "https://www.osg.co.jp/about_us/procurement/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、サプライチェーンの取引先の皆様や価値創造を図る事業者の皆様との連携・共存共栄を進めることで、新たなパートナーシップを構築するため、「パートナーシップ構築宣言」へ参加・公開しています",
+    "url": "https://www.osg.co.jp/about_us/procurement/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "OSGパートナーシップ構築宣言",
+    "url": "https://www.osg.co.jp/about_us/procurement/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "環境配慮型製品の紹介",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "今の時代、それこそゲームチェンジが求められる中で、もう一度、大切なパートナーと一緒に肩を組みなおして徹底的に海外市場を開拓していくべきじゃないかと思います",
+    "url": "https://monoque.jp/contents/82f48f005d703143f8bc5b84dfe71bc7db19d401/",
+    "pass": 3
+   },
+   {
+    "quote": "そういう点でもいろんな関係性を持ちながら広く情報をお持ちの商社から我々が行動する際に正しい情報をいかに得るか、そして強い協力体制ができているパートナーの場合は相互に有効な情報をシェアしていく、こういうことを連携して取り組みたいと思っています",
+    "url": "https://monoque.jp/contents/82f48f005d703143f8bc5b84dfe71bc7db19d401/",
+    "pass": 3
+   },
+   {
+    "quote": "我々がメーカーさんとパートナーシップを組んで海外でビジネス展開するにあたって、商社にもやっぱり技術力が必要だと思っています",
+    "url": "https://monoque.jp/contents/82f48f005d703143f8bc5b84dfe71bc7db19d401/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "（※2）（一社）省エネルギーセンター主催、製品・ビジネスモデル部門",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "なかでも中国の自動車メーカーは自前の国内サプライチェーンを持って、自国内での調達ルート、商流をこの一年ほどで構築しました",
+    "url": "https://monoque.jp/contents/82f48f005d703143f8bc5b84dfe71bc7db19d401/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "環境活動の沿革",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年度",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度PRTR対象化学物質",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度のコストと効果の詳細",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2030年に2024年度比20％削減を目指し、計画に基づく取り組みを着実に推進してまいります",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度計画",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年、アグリガスコム株式会社及び中部電力ミライズとともに営農型オフサイトPPAサービスの実施に向けた協定を締結し、当社専用の太陽光発電所から20年にわたりCO",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2010年 - 現在",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "1996年 - 2009年",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "平成27年度「環境活動賞」受賞",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "平成28年度「環境活動賞」受賞",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "平成29年度「環境活動賞」受賞",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和元年度「環境活動賞」受賞",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和2年度「環境特別賞・環境活動賞」受賞",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和3年度「環境活動賞」受賞",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和4年度「環境活動賞」受賞",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和5年度「環境活動賞」受賞",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和6年度「環境活動賞」受賞",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和7年度省エネ大賞",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和7年度「環境活動賞」受賞",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年度",
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月期 第3四半期 決算説明資料を掲載しました（3.8 MB）",
+    "url": "https://www.osg.co.jp/about_us/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月期 第3四半期 決算発表をしました（410.9 KB）",
+    "url": "https://www.osg.co.jp/about_us/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月期 株主通信(上半期)を掲載しました",
+    "url": "https://www.osg.co.jp/about_us/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月期 半期報告書を掲載しました（130.6 KB）",
+    "url": "https://www.osg.co.jp/about_us/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月期 第2四半期 決算説明資料を掲載しました（4.8 MB）",
+    "url": "https://www.osg.co.jp/about_us/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月期 第3四半期 決算説明資料を掲載しました（3.8 MB）",
+    "url": "https://www.osg.co.jp/about_us/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月期 第3四半期 決算発表をしました（410.9 KB）",
+    "url": "https://www.osg.co.jp/about_us/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月期 株主通信(上半期)を掲載しました",
+    "url": "https://www.osg.co.jp/about_us/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月期 半期報告書を掲載しました（130.6 KB）",
+    "url": "https://www.osg.co.jp/about_us/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月期 第2四半期 決算説明資料を掲載しました（4.8 MB）",
+    "url": "https://www.osg.co.jp/about_us/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月期（第114期）第3四半期決算短信（410.9 KB）",
+    "url": "https://www.osg.co.jp/about_us/ir/financial/ir-library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月期（第114期）第3四半期決算説明資料（3.8 MB）",
+    "url": "https://www.osg.co.jp/about_us/ir/financial/ir-library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月期（第114期）上半期（2.0 MB）",
+    "url": "https://www.osg.co.jp/about_us/ir/financial/ir-library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年版統合報告書（17.1 MB）",
+    "url": "https://www.osg.co.jp/about_us/ir/financial/ir-library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年版一目でわかるOSG（553.5 KB）",
+    "url": "https://www.osg.co.jp/about_us/ir/financial/ir-library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月2日（月）",
+    "url": "https://nihonsanki-shimbun.com/osg_20260820/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月26日",
+    "url": "https://nihonsanki-shimbun.com/osg_20260820/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月2日",
+    "url": "https://nihonsanki-shimbun.com/osg_20260820/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月23日",
+    "url": "https://nihonsanki-shimbun.com/osg_20260820/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月19日",
+    "url": "https://nihonsanki-shimbun.com/osg_20260820/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年3月25日、発売開始",
+    "url": "https://nihonsanki-shimbun.com/osg_20260820/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月 (2)",
+    "url": "https://nihonsanki-shimbun.com/osg_20260820/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月 (26)",
+    "url": "https://nihonsanki-shimbun.com/osg_20260820/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年9月 (29)",
+    "url": "https://nihonsanki-shimbun.com/osg_20260820/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月 (33)",
+    "url": "https://nihonsanki-shimbun.com/osg_20260820/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月 (37)",
+    "url": "https://nihonsanki-shimbun.com/osg_20260820/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月 (21)",
+    "url": "https://nihonsanki-shimbun.com/osg_20260820/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月 (28)",
+    "url": "https://nihonsanki-shimbun.com/osg_20260820/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月 (12)",
+    "url": "https://nihonsanki-shimbun.com/osg_20260820/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月 (23)",
+    "url": "https://nihonsanki-shimbun.com/osg_20260820/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年2月 (23)",
+    "url": "https://nihonsanki-shimbun.com/osg_20260820/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1月 (14)",
+    "url": "https://nihonsanki-shimbun.com/osg_20260820/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月 (28)",
+    "url": "https://nihonsanki-shimbun.com/osg_20260820/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月 (21)",
+    "url": "https://nihonsanki-shimbun.com/osg_20260820/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月 (21)",
+    "url": "https://nihonsanki-shimbun.com/osg_20260820/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "代表メッセージ｜採用情報｜ オーエスジー — 代表メッセージ｜採用情報｜ オーエスジー オーエスジー https://www.osg.co.jp > recruit > interview > message",
+    "url": "https://www.osg.co.jp/recruit/interview/message.html",
+    "pass": 3
+   },
+   {
+    "quote": "高付加価値な製品群 | OSG の強み | 投資家情報｜ オーエスジー — 高付加価値な製品群 | OSG の強み | 投資家情報｜ オーエスジー オーエスジー https://www.osg.co.jp > about_us > about_osg",
+    "url": "https://www.osg.co.jp/about_us/ir/about_osg/",
+    "pass": 3
+   },
+   {
+    "quote": "OSG レポート — OSG レポート オーエスジー PDF https://www.osg.co.jp > annual_report_2024_A4",
+    "url": "https://www.osg.co.jp/sustainability/library/file/annual_report_2024_A4.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内 - OSG — 会社案内 - OSG オーエスジー PDF https://www.osg.co.jp > file > companyprofile",
+    "url": "https://www.osg.co.jp/about_us/company/file/companyprofile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "決算短信・ 決算説明資料 | 財務・業績 | 投資家情報 - OSG — 決算短信・ 決算説明資料 | 財務・業績 | 投資家情報 - OSG オーエスジー https://www.osg.co.jp > financial > ir-library > result",
+    "url": "https://www.osg.co.jp/about_us/ir/financial/ir-library/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリー | 財務・業績 | 投資家情報 - OSG — IRライブラリー | 財務・業績 | 投資家情報 - OSG オーエスジー https://www.osg.co.jp > about_us > financial > ir-library",
+    "url": "https://www.osg.co.jp/about_us/ir/financial/ir-library.html",
+    "pass": 3
+   },
+   {
+    "quote": "IRニュース | 投資家情報｜企業情報｜ オーエスジー — IRニュース | 投資家情報｜企業情報｜ オーエスジー オーエスジー https://www.osg.co.jp > about_us > news > cat01",
+    "url": "https://www.osg.co.jp/about_us/ir/news/cat01/",
+    "pass": 3
+   },
+   {
+    "quote": "投資家情報 - OSG — 投資家情報 - OSG オーエスジー https://www.osg.co.jp > about_us",
+    "url": "https://www.osg.co.jp/about_us/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜企業情報｜ オーエスジー — 会社概要｜企業情報｜ オーエスジー オーエスジー https://www.osg.co.jp > about_us > company",
+    "url": "https://www.osg.co.jp/about_us/company/",
+    "pass": 3
+   },
+   {
+    "quote": "事業 分野 | 会社概要 | 企業情報｜ オーエスジー — 事業 分野 | 会社概要 | 企業情報｜ オーエスジー オーエスジー https://www.osg.co.jp > about_us > company > business",
+    "url": "https://www.osg.co.jp/about_us/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月期 - OSG — 2025年11月期 - OSG オーエスジー PDF https://www.osg.co.jp > about_us > news > file",
+    "url": "https://www.osg.co.jp/about_us/ir/news/file/OSG_fy2025_4q_financialresultsreport_jp.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "トップメッセージ | 経営情報 | 投資家情報｜ オーエスジー — トップメッセージ | 経営情報 | 投資家情報｜ オーエスジー オーエスジー https://www.osg.co.jp > about_us > policy",
+    "url": "https://www.osg.co.jp/about_us/ir/policy/",
+    "pass": 3
+   },
+   {
+    "quote": "【トップ対談】 オーエスジー ×山善｜特集｜Mono Que ... — 【トップ対談】 オーエスジー ×山善｜特集｜Mono Que ... Mono Que https://monoque.jp > contents",
+    "url": "https://monoque.jp/contents/82f48f005d703143f8bc5b84dfe71bc7db19d401/",
+    "pass": 3
+   },
+   {
+    "quote": "オーエスジー ・大沢 伸朗 社長 「中計2年目、勝負の年」【特集 — オーエスジー ・大沢 伸朗 社長 「中計2年目、勝負の年」【特集 日本産機新聞 https://nihonsanki-shimbun.com > osg_20260820",
+    "url": "https://nihonsanki-shimbun.com/osg_20260820/",
+    "pass": 3
+   },
+   {
+    "quote": "オーエスジー 株式会社 - ものづくりレビュー — オーエスジー 株式会社 - ものづくりレビュー ものづくりレビュー https://monodukuri-review.com > categories > a-la-carte",
+    "url": "https://monodukuri-review.com/categories/a-la-carte/%E3%82%AA%E3%83%BC%E3%82%A8%E3%82%B9%E3%82%B8%E3%83%BC%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-34/",
+    "pass": 3
+   },
+   {
+    "quote": "プロフィール | 会社概要 | 企業情報｜ オーエスジー — プロフィール | 会社概要 | 企業情報｜ オーエスジー オーエスジー https://www.osg.co.jp > about_us > company > profile",
+    "url": "https://www.osg.co.jp/about_us/company/profile.html",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "国地域では、欧米を保守的に見ていますがプラスに行くでしょう",
+    "url": "https://monoque.jp/contents/82f48f005d703143f8bc5b84dfe71bc7db19d401/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "当時の海外売上比率は",
+    "url": "https://monoque.jp/contents/82f48f005d703143f8bc5b84dfe71bc7db19d401/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.osg.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osg.co.jp/about_us/ir/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osg.co.jp/about_us/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osg.co.jp/about_us/company/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osg.co.jp/about_us/offices/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osg.co.jp/about_us/procurement/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osg.co.jp/sustainability/environment/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osg.co.jp/sustainability/library/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osg.co.jp/about_us/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osg.co.jp/about_us/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osg.co.jp/about_us/offices/japan/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osg.co.jp/about_us/offices/america/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osg.co.jp/about_us/offices/euro/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osg.co.jp/about_us/offices/asia/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osg.co.jp/about_us/ir/.searchUp",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osg.co.jp/about_us/ir/news/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osg.co.jp/about_us/ir/financial/ir-library.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osg.co.jp/about_us/.searchUp",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osg.co.jp/about_us/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osg.co.jp/about_us/offices/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osg.co.jp/about_us/company/.searchUp",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osg.co.jp/about_us/company/message.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osg.co.jp/about_us/company/philosophy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osg.co.jp/about_us/offices/.searchUp",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osg.co.jp/about_us/offices/japan/sales_office/tobu/index.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.osg.co.jp/about_us/ir/financial/file/factsheet_jp.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.osg.co.jp/about_us/ir/financial/file/corporate_governance_jp.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.osg.co.jp/about_us/ir/stock_info/file/articles_of_incorporation_jp.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.osg.co.jp/about_us/ir/stock_info/file/share_handling_regulations.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.osg.co.jp/about_us/company/file/statement.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.osg.co.jp/sustainability/library/file/osg_csr_procurement_guidelines.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.osg.co.jp/sustainability/social/file/partnership.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.osg.co.jp/about_us/company/file/iso14001_jp.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.osg.co.jp/about_us/company/images/com_index_business.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.osg.co.jp/sustainability/environment/images/env_structure01.svg?v=2026",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.osg.co.jp/sustainability/environment/images/env_structure02.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://monoque.jp/contents/82f48f005d703143f8bc5b84dfe71bc7db19d401/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nihonsanki-shimbun.com/osg_20260820/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "オーエスジー",
+   "results": [
+    "https://www.osg.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%A8%E3%82%B9%E3%82%B8%E3%83%BC",
+    "https://www.youtube.com/user/OSGJAPAN",
+    "https://www.youtube.com/watch?v=9YE0v8OJdCY",
+    "https://ja.wikipedia.org/wiki/オーエスジー",
+    "https://www.osg.co.jp/about_us/company/",
+    "https://jp.misumi-ec.com/vona2/maker/osg/",
+    "https://osg-diamond.co.jp/",
+    "https://www.youtube.com/OSGJAPAN",
+    "https://osgtool.com/"
+   ]
+  },
+  {
+   "query": "オーエスジー ビジネスモデル",
+   "results": [
+    "https://www.osg.co.jp/recruit/interview/message.html",
+    "https://www.osg.co.jp/about_us/ir/about_osg/",
+    "https://www.osg.co.jp/sustainability/library/file/annual_report_2024_A4.pdf",
+    "https://www.youtube.com/watch?v=9YE0v8OJdCY",
+    "https://www.osg.co.jp/about_us/company/file/companyprofile.pdf",
+    "https://www.osg.co.jp/about_us/ir/news/file/OSG_fy2025_4q_financialresultsreport_jp.pdf",
+    "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%A8%E3%82%B9%E3%82%B8%E3%83%BC",
+    "https://www.osg.co.jp/about_us/ir/policy/",
+    "https://osgblogjp.com/2018/01/04/special-interview/",
+    "https://consovation.com/osg-corporationの魅力を徹底解説-ビジネスモデルを読み解く/"
+   ]
+  },
+  {
+   "query": "オーエスジー 決算説明資料",
+   "results": [
+    "https://www.osg.co.jp/about_us/ir/financial/ir-library/result.html",
+    "https://www.osg.co.jp/about_us/ir/financial/ir-library.html",
+    "https://www.osg.co.jp/about_us/ir/news/cat01/",
+    "https://www.osg-nandemonet.co.jp/ir/ir_briefing.html",
+    "https://www.osg.co.jp/about_us/ir/",
+    "https://www.osg.co.jp/about_us/ir/calendar/",
+    "https://finance.biggo.jp/news/ir_6136.T_20261009_92ab9cdfeb8e",
+    "https://www.osg.co.jp/about_us/ir/news/2025/index.html",
+    "https://edinetdb.jp/company/E01377/presentations/",
+    "https://irbank.net/6136/ir"
+   ]
+  },
+  {
+   "query": "オーエスジー 事業系統図",
+   "results": [
+    "https://www.osg.co.jp/about_us/company/",
+    "https://www.osg.co.jp/about_us/company/business.html",
+    "https://www.osg.co.jp/about_us/ir/news/file/OSG_fy2025_4q_financialresultsreport_jp.pdf",
+    "https://www.osg.co.jp/about_us/ir/policy/",
+    "https://www.youtube.com/watch?v=p2IIcrgzm7A",
+    "https://www.osg.co.jp/about_us/ir/news/file/Beyond_the_Limit_2027_20250714_jp.pdf",
+    "https://kitaishihon.com/company/6136/business",
+    "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%A8%E3%82%B9%E3%82%B8%E3%83%BC",
+    "https://www.osg.co.jp/sustainability/library/file/annual_report_2024_A4.pdf",
+    "https://edinetdb.jp/company/E01377/text"
+   ]
+  },
+  {
+   "query": "オーエスジー 社長 インタビュー",
+   "results": [
+    "https://monoque.jp/contents/82f48f005d703143f8bc5b84dfe71bc7db19d401/",
+    "https://nihonsanki-shimbun.com/osg_20260820/",
+    "https://monodukuri-review.com/categories/a-la-carte/%E3%82%AA%E3%83%BC%E3%82%A8%E3%82%B9%E3%82%B8%E3%83%BC%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-34/",
+    "https://www.osg.co.jp/about_us/company/profile.html",
+    "https://osgblogjp.com/2018/01/04/special-interview/",
+    "https://the-shashi.com/tse/6136/executives/ceo/osawa-teruhide/",
+    "https://kitaishihon.com/company/6136/board-of-director",
+    "https://www.youtube.com/watch?v=p2IIcrgzm7A",
+    "https://www.nikkan.co.jp/articles/view/628155",
+    "https://www.osg.co.jp/recruit/interview/index.html"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式25頁／PDF・画像11件／外部2頁・検索5回）",
+  "事業内容": "記載なし（3回確認済み：公式25頁／PDF・画像11件／外部2頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像11件／外部2頁・検索5回）"
+ }
+}

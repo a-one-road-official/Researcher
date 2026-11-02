@@ -1,0 +1,1914 @@
+{
+ "name": "ジーダット",
+ "aliases": [],
+ "context": "証券コード3841／情報・通信業／スタンダード（内国株式）／2026.03期 売上高2,042百万円 営業利益率12.8%",
+ "researched_at": "2026-11-02T19:46:32.994039+00:00",
+ "official_url": "https://www.jedat.co.jp/",
+ "identified_by": "search:yahoo_jp:ジーダット",
+ "profile": {
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "1,973,334 2,017,954 2,060,890 2,062,768 2,041,604",
+    "url": "https://www.jedat.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "20億4,160万円（2025年度実績）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp93949/outline.html",
+    "pass": 3
+   }
+  ],
+  "設立": [
+   {
+    "label": "会社が設立されたのはいつですか？",
+    "value": "2003年（平成15年）11月21日に設立され、2004年（平成16年）2月1日にセイコーインスツル株式会社のEDAシステム事業を承継し、同2月2日より営業を開始いたしております。",
+    "url": "https://www.jedat.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2004年",
+    "url": "https://shachomeikan.jp/industry_article/4856",
+    "pass": 3
+   },
+   {
+    "label": "設立と沿革",
+    "value": "技術者が集い、独立した道へ",
+    "url": "https://note.com/tatsuya_sabato/n/nffaf50a0080a",
+    "pass": 3
+   },
+   {
+    "label": "創業",
+    "value": "2002年2月",
+    "url": "https://job.mynavi.jp/28/pc/search/corp93949/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "2003年11月",
+    "url": "https://job.mynavi.jp/28/pc/search/corp93949/outline.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "131名（2025年3月末現在)",
+    "url": "https://shachomeikan.jp/industry_article/4856",
+    "pass": 3
+   },
+   {
+    "label": "従業員",
+    "value": "130名（2026年3月31日現在）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp93949/outline.html",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業概要",
+    "value": "電子回路・半導体集積回路・液晶モジュール等設計支援のためのソフトウェア開発・販売およびコンサルテーション",
+    "url": "https://shachomeikan.jp/industry_article/4856",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "ディスプレイの「設計図」を描くソフトウェア",
+    "url": "https://note.com/tatsuya_sabato/n/nffaf50a0080a",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "電子回路・半導体集積回路・液晶モジュール等設計支援のためのソフトウェア開発・販売およびコンサルテーション 【主要取引先】 IVO、アルプスアルパイン、Innolux、エイブリック、AUO、SAE Magnetics、SMIC、エスケーエレクトロニクス、NEC、NTT、LG Innotek、LG Display、キオクシア、キヤノン、QYMask、京セラ、Samsung、CEC-Panda、CSOT、シャープ、ジャパンディスプレイ、住友化学、セイコーインスツル、セイコーエプソン、Zentel、ソシオネクスト、大日本印刷、Taiwan Mask、TCE、TDK、TPCS、TIANMA、東芝デバイス＆ストレージ、東芝デバイスソリューション、Truly、凸版印刷、トレックス・セミコンダクター、Dongbu HiTek、DONGWOO FINE-CHEM、日産自動車、パナソニック、HannStar、HannsTouch、半導体エネルギー研究所、BOE、PDMC、ミネベアパワーデバイス、FINEX、ブイ・テクノロジー、FormFactor、HeJian Technology、HOYA、MultiD",
+    "url": "https://job.mynavi.jp/28/pc/search/corp93949/outline.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "他社製品インターフェース",
+    "url": "https://www.jedat.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "RC抽出・解析サービス",
+    "url": "https://www.jedat.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "LSIデザインサービス",
+    "url": "https://www.jedat.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サポート＆サービス",
+    "url": "https://www.jedat.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "MATLAB®関連製品",
+    "url": "https://www.jedat.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.jedat.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション概観",
+    "url": "https://www.jedat.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ",
+    "url": "https://www.jedat.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「JEDATLINK」サービス一時停止のお知らせ",
+    "url": "https://www.jedat.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "デザイン・サービス",
+    "url": "https://www.jedat.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "他社製品インターフェース",
+    "url": "https://www.jedat.co.jp/products/semi_design/semi_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "RC抽出・解析サービス",
+    "url": "https://www.jedat.co.jp/products/semi_design/semi_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "LSIデザインサービス",
+    "url": "https://www.jedat.co.jp/products/semi_design/semi_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "サポート＆サービス",
+    "url": "https://www.jedat.co.jp/products/semi_design/semi_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "MATLAB®関連製品",
+    "url": "https://www.jedat.co.jp/products/semi_design/semi_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.jedat.co.jp/products/semi_design/semi_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション概観",
+    "url": "https://www.jedat.co.jp/products/semi_design/semi_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ",
+    "url": "https://www.jedat.co.jp/products/semi_design/semi_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "他社製品インターフェース",
+    "url": "https://www.jedat.co.jp/products/fpd_design/fpd_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "RC抽出・解析サービス",
+    "url": "https://www.jedat.co.jp/products/fpd_design/fpd_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "LSIデザインサービス",
+    "url": "https://www.jedat.co.jp/products/fpd_design/fpd_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "サポート＆サービス",
+    "url": "https://www.jedat.co.jp/products/fpd_design/fpd_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "MATLAB®関連製品",
+    "url": "https://www.jedat.co.jp/products/fpd_design/fpd_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.jedat.co.jp/products/fpd_design/fpd_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション概観",
+    "url": "https://www.jedat.co.jp/products/fpd_design/fpd_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ",
+    "url": "https://www.jedat.co.jp/products/fpd_design/fpd_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "他社製品インターフェース",
+    "url": "https://www.jedat.co.jp/solution/analog/analog_-semi_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "RC抽出・解析サービス",
+    "url": "https://www.jedat.co.jp/solution/analog/analog_-semi_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "LSIデザインサービス",
+    "url": "https://www.jedat.co.jp/solution/analog/analog_-semi_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "サポート＆サービス",
+    "url": "https://www.jedat.co.jp/solution/analog/analog_-semi_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "MATLAB®関連製品",
+    "url": "https://www.jedat.co.jp/solution/analog/analog_-semi_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.jedat.co.jp/solution/analog/analog_-semi_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション概観",
+    "url": "https://www.jedat.co.jp/solution/analog/analog_-semi_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ",
+    "url": "https://www.jedat.co.jp/solution/analog/analog_-semi_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "他社製品インターフェース",
+    "url": "https://www.jedat.co.jp/solution/analog/analog_-semi_circuit_verification/",
+    "pass": 1
+   },
+   {
+    "quote": "RC抽出・解析サービス",
+    "url": "https://www.jedat.co.jp/solution/analog/analog_-semi_circuit_verification/",
+    "pass": 1
+   },
+   {
+    "quote": "LSIデザインサービス",
+    "url": "https://www.jedat.co.jp/solution/analog/analog_-semi_circuit_verification/",
+    "pass": 1
+   },
+   {
+    "quote": "サポート＆サービス",
+    "url": "https://www.jedat.co.jp/solution/analog/analog_-semi_circuit_verification/",
+    "pass": 1
+   },
+   {
+    "quote": "MATLAB®関連製品",
+    "url": "https://www.jedat.co.jp/solution/analog/analog_-semi_circuit_verification/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.jedat.co.jp/solution/analog/analog_-semi_circuit_verification/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション概観",
+    "url": "https://www.jedat.co.jp/solution/analog/analog_-semi_circuit_verification/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ",
+    "url": "https://www.jedat.co.jp/solution/analog/analog_-semi_circuit_verification/",
+    "pass": 1
+   },
+   {
+    "quote": "他社製品インターフェース",
+    "url": "https://www.jedat.co.jp/solution/display/display_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "RC抽出・解析サービス",
+    "url": "https://www.jedat.co.jp/solution/display/display_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "LSIデザインサービス",
+    "url": "https://www.jedat.co.jp/solution/display/display_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "サポート＆サービス",
+    "url": "https://www.jedat.co.jp/solution/display/display_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "MATLAB®関連製品",
+    "url": "https://www.jedat.co.jp/solution/display/display_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.jedat.co.jp/solution/display/display_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション概観",
+    "url": "https://www.jedat.co.jp/solution/display/display_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ",
+    "url": "https://www.jedat.co.jp/solution/display/display_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "他社製品インターフェース",
+    "url": "https://www.jedat.co.jp/resource/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "RC抽出・解析サービス",
+    "url": "https://www.jedat.co.jp/resource/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "LSIデザインサービス",
+    "url": "https://www.jedat.co.jp/resource/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "サポート＆サービス",
+    "url": "https://www.jedat.co.jp/resource/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "MATLAB®関連製品",
+    "url": "https://www.jedat.co.jp/resource/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.jedat.co.jp/resource/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション概観",
+    "url": "https://www.jedat.co.jp/resource/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ",
+    "url": "https://www.jedat.co.jp/resource/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "他社製品インターフェース",
+    "url": "https://www.jedat.co.jp/profile/gaiyou/",
+    "pass": 1
+   },
+   {
+    "quote": "RC抽出・解析サービス",
+    "url": "https://www.jedat.co.jp/profile/gaiyou/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "パートナー企業EDAツール",
+    "url": "https://www.jedat.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナープログラム",
+    "url": "https://www.jedat.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "OEMパートナー",
+    "url": "https://www.jedat.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネス・パートナー",
+    "url": "https://www.jedat.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ファウンドリーパートナー",
+    "url": "https://www.jedat.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー企業EDAツール",
+    "url": "https://www.jedat.co.jp/products/semi_design/semi_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナープログラム",
+    "url": "https://www.jedat.co.jp/products/semi_design/semi_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "OEMパートナー",
+    "url": "https://www.jedat.co.jp/products/semi_design/semi_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネス・パートナー",
+    "url": "https://www.jedat.co.jp/products/semi_design/semi_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "ファウンドリーパートナー",
+    "url": "https://www.jedat.co.jp/products/semi_design/semi_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー企業EDAツール",
+    "url": "https://www.jedat.co.jp/products/fpd_design/fpd_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナープログラム",
+    "url": "https://www.jedat.co.jp/products/fpd_design/fpd_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "OEMパートナー",
+    "url": "https://www.jedat.co.jp/products/fpd_design/fpd_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネス・パートナー",
+    "url": "https://www.jedat.co.jp/products/fpd_design/fpd_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "ファウンドリーパートナー",
+    "url": "https://www.jedat.co.jp/products/fpd_design/fpd_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー企業EDAツール",
+    "url": "https://www.jedat.co.jp/solution/analog/analog_-semi_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナープログラム",
+    "url": "https://www.jedat.co.jp/solution/analog/analog_-semi_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "OEMパートナー",
+    "url": "https://www.jedat.co.jp/solution/analog/analog_-semi_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネス・パートナー",
+    "url": "https://www.jedat.co.jp/solution/analog/analog_-semi_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "ファウンドリーパートナー",
+    "url": "https://www.jedat.co.jp/solution/analog/analog_-semi_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー企業EDAツール",
+    "url": "https://www.jedat.co.jp/solution/analog/analog_-semi_circuit_verification/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナープログラム",
+    "url": "https://www.jedat.co.jp/solution/analog/analog_-semi_circuit_verification/",
+    "pass": 1
+   },
+   {
+    "quote": "OEMパートナー",
+    "url": "https://www.jedat.co.jp/solution/analog/analog_-semi_circuit_verification/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネス・パートナー",
+    "url": "https://www.jedat.co.jp/solution/analog/analog_-semi_circuit_verification/",
+    "pass": 1
+   },
+   {
+    "quote": "ファウンドリーパートナー",
+    "url": "https://www.jedat.co.jp/solution/analog/analog_-semi_circuit_verification/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー企業EDAツール",
+    "url": "https://www.jedat.co.jp/solution/display/display_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナープログラム",
+    "url": "https://www.jedat.co.jp/solution/display/display_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "OEMパートナー",
+    "url": "https://www.jedat.co.jp/solution/display/display_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネス・パートナー",
+    "url": "https://www.jedat.co.jp/solution/display/display_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "ファウンドリーパートナー",
+    "url": "https://www.jedat.co.jp/solution/display/display_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー企業EDAツール",
+    "url": "https://www.jedat.co.jp/resource/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナープログラム",
+    "url": "https://www.jedat.co.jp/resource/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "OEMパートナー",
+    "url": "https://www.jedat.co.jp/resource/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネス・パートナー",
+    "url": "https://www.jedat.co.jp/resource/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "ファウンドリーパートナー",
+    "url": "https://www.jedat.co.jp/resource/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "統合回路設計環境のご紹介",
+    "url": "https://www.jedat.co.jp/resource/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "制約ドリブン自動配置配線システムのご紹介",
+    "url": "https://www.jedat.co.jp/resource/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "制約検証環境のご紹介",
+    "url": "https://www.jedat.co.jp/resource/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "パワーデバイス設計環境のご紹介",
+    "url": "https://www.jedat.co.jp/resource/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "電源解析検証環境のご紹介",
+    "url": "https://www.jedat.co.jp/resource/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "異形パネル設計環境のご紹介",
+    "url": "https://www.jedat.co.jp/resource/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "レイアウトビューワのご紹介",
+    "url": "https://www.jedat.co.jp/resource/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー企業EDAツール",
+    "url": "https://www.jedat.co.jp/profile/gaiyou/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナープログラム",
+    "url": "https://www.jedat.co.jp/profile/gaiyou/",
+    "pass": 1
+   },
+   {
+    "quote": "OEMパートナー",
+    "url": "https://www.jedat.co.jp/profile/gaiyou/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネス・パートナー",
+    "url": "https://www.jedat.co.jp/profile/gaiyou/",
+    "pass": 1
+   },
+   {
+    "quote": "ファウンドリーパートナー",
+    "url": "https://www.jedat.co.jp/profile/gaiyou/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー企業EDAツール",
+    "url": "https://www.jedat.co.jp/profile/enkaku/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナープログラム",
+    "url": "https://www.jedat.co.jp/profile/enkaku/",
+    "pass": 1
+   },
+   {
+    "quote": "OEMパートナー",
+    "url": "https://www.jedat.co.jp/profile/enkaku/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネス・パートナー",
+    "url": "https://www.jedat.co.jp/profile/enkaku/",
+    "pass": 1
+   },
+   {
+    "quote": "ファウンドリーパートナー",
+    "url": "https://www.jedat.co.jp/profile/enkaku/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネス・パートナー – 株式会社ジーダット",
+    "url": "https://www.jedat.co.jp/partner/business_partner/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー企業EDAツール",
+    "url": "https://www.jedat.co.jp/partner/business_partner/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナープログラム",
+    "url": "https://www.jedat.co.jp/partner/business_partner/",
+    "pass": 1
+   },
+   {
+    "quote": "OEMパートナー",
+    "url": "https://www.jedat.co.jp/partner/business_partner/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネス・パートナー",
+    "url": "https://www.jedat.co.jp/partner/business_partner/",
+    "pass": 1
+   },
+   {
+    "quote": "ファウンドリーパートナー",
+    "url": "https://www.jedat.co.jp/partner/business_partner/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー企業EDAツール",
+    "url": "https://www.jedat.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナープログラム",
+    "url": "https://www.jedat.co.jp/ir/",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "SX-Meisterのライセンス設定に関するFAQ",
+    "url": "https://www.jedat.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "SX-Meisterのライセンス設定に関するFAQ",
+    "url": "https://www.jedat.co.jp/products/semi_design/semi_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "SX-Meisterのライセンス設定に関するFAQ",
+    "url": "https://www.jedat.co.jp/products/fpd_design/fpd_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "SX-Meisterのライセンス設定に関するFAQ",
+    "url": "https://www.jedat.co.jp/solution/analog/analog_-semi_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "SX-Meisterのライセンス設定に関するFAQ",
+    "url": "https://www.jedat.co.jp/solution/analog/analog_-semi_circuit_verification/",
+    "pass": 1
+   },
+   {
+    "quote": "SX-Meisterのライセンス設定に関するFAQ",
+    "url": "https://www.jedat.co.jp/solution/display/display_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "SX-Meisterのライセンス設定に関するFAQ",
+    "url": "https://www.jedat.co.jp/resource/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "SX-Meisterのライセンス設定に関するFAQ",
+    "url": "https://www.jedat.co.jp/profile/gaiyou/",
+    "pass": 1
+   },
+   {
+    "quote": "SX-Meisterのライセンス設定に関するFAQ",
+    "url": "https://www.jedat.co.jp/profile/enkaku/",
+    "pass": 1
+   },
+   {
+    "quote": "SX-Meisterのライセンス設定に関するFAQ",
+    "url": "https://www.jedat.co.jp/partner/business_partner/",
+    "pass": 1
+   },
+   {
+    "quote": "SX-Meisterのライセンス設定に関するFAQ",
+    "url": "https://www.jedat.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "SX-Meisterのライセンス設定に関するFAQ",
+    "url": "https://www.jedat.co.jp/ir/news-3/irnews-index-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "SX-Meisterのライセンス設定に関するFAQ",
+    "url": "https://www.jedat.co.jp/ir/document/",
+    "pass": 1
+   },
+   {
+    "quote": "SX-Meisterのライセンス設定に関するFAQ",
+    "url": "https://www.jedat.co.jp/ir/ircalendar/",
+    "pass": 1
+   },
+   {
+    "quote": "SX-Meisterのライセンス設定に関するFAQ",
+    "url": "https://www.jedat.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "SX-Meisterのライセンス設定に関するFAQ",
+    "url": "https://www.jedat.co.jp/ir/info/",
+    "pass": 1
+   },
+   {
+    "quote": "SX-Meisterのライセンス設定に関するFAQ",
+    "url": "https://www.jedat.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "SX-Meisterのライセンス設定に関するFAQ",
+    "url": "https://www.jedat.co.jp/ir/contact/",
+    "pass": 1
+   },
+   {
+    "quote": "SX-Meisterのライセンス設定に関するFAQ",
+    "url": "https://www.jedat.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "SX-Meisterのライセンス設定に関するFAQ",
+    "url": "https://www.jedat.co.jp/ir/news-3/",
+    "pass": 1
+   },
+   {
+    "quote": "SX-Meisterのライセンス設定に関するFAQ",
+    "url": "https://www.jedat.co.jp/ir/news-2/",
+    "pass": 1
+   },
+   {
+    "quote": "SX-Meisterのライセンス設定に関するFAQ",
+    "url": "https://www.jedat.co.jp/solution/analog/analog_-semi_circuit_document/",
+    "pass": 1
+   },
+   {
+    "quote": "保守サービス売上高が増加した主な理由は 、積極的な新機能提案活動とあわ",
+    "url": "https://www.jedat.co.jp/wp-content/uploads/2026/05/syousyuugotuuti24th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "せて保守契約の締結の促進が功を奏したことによりますが 、引き続き顧客ニー",
+    "url": "https://www.jedat.co.jp/wp-content/uploads/2026/05/syousyuugotuuti24th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "保守サービス 417,940 99.4 439,043 105.0",
+    "url": "https://www.jedat.co.jp/wp-content/uploads/2026/05/syousyuugotuuti24th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "て、年額１億4 0百万円以内と決議されております（ 使用人兼務取締役の使用人",
+    "url": "https://www.jedat.co.jp/wp-content/uploads/2026/05/syousyuugotuuti24th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の業務執行取締役に対して年額2 0百万円以内 、株式数の上限を年１万株以内と",
+    "url": "https://www.jedat.co.jp/wp-content/uploads/2026/05/syousyuugotuuti24th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "て、年額20百万円以内と決議されております",
+    "url": "https://www.jedat.co.jp/wp-content/uploads/2026/05/syousyuugotuuti24th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "①製品の販売に係る収益は主にソフトウェアライセンスによる販売であり 、顧",
+    "url": "https://www.jedat.co.jp/wp-content/uploads/2026/05/syousyuugotuuti24th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "②保守サービスに係る収益は 、主に製品の保守であり 、顧客との保守契約に基",
+    "url": "https://www.jedat.co.jp/wp-content/uploads/2026/05/syousyuugotuuti24th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "づいて保守サービスを提供する履行義務を負っております",
+    "url": "https://www.jedat.co.jp/wp-content/uploads/2026/05/syousyuugotuuti24th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当該保守契約は 、",
+    "url": "https://www.jedat.co.jp/wp-content/uploads/2026/05/syousyuugotuuti24th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "業の主な財又はサービスの種類は製品 、保守サービス及びソリューションでありま",
+    "url": "https://www.jedat.co.jp/wp-content/uploads/2026/05/syousyuugotuuti24th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【ビジネスモデルの詳細分析】高収益・高安定性を生む「ストック型」収益",
+    "url": "https://note.com/tatsuya_sabato/n/nffaf50a0080a",
+    "pass": 3
+   },
+   {
+    "quote": "収益構造：「ライセンス」と「メンテナンス」の両輪",
+    "url": "https://note.com/tatsuya_sabato/n/nffaf50a0080a",
+    "pass": 3
+   },
+   {
+    "quote": "プロダクトサービス（ライセンス収入）:",
+    "url": "https://note.com/tatsuya_sabato/n/nffaf50a0080a",
+    "pass": 3
+   },
+   {
+    "quote": "導入済みのソフトウェアに対する、年間保守契約による売上です",
+    "url": "https://note.com/tatsuya_sabato/n/nffaf50a0080a",
+    "pass": 3
+   },
+   {
+    "quote": "顧客は一度導入した設計ツールを使い続けるため、この保守契約は毎年継続されるケースがほとんどです",
+    "url": "https://note.com/tatsuya_sabato/n/nffaf50a0080a",
+    "pass": 3
+   },
+   {
+    "quote": "売上全体の約半分を占めるこの収入は、景気変動の影響を受けにくく、毎年安定的に計上される**「ストック型収益」**です",
+    "url": "https://note.com/tatsuya_sabato/n/nffaf50a0080a",
+    "pass": 3
+   },
+   {
+    "quote": "安定したストック型収益:",
+    "url": "https://note.com/tatsuya_sabato/n/nffaf50a0080a",
+    "pass": 3
+   },
+   {
+    "quote": "主力製品であるSXシリーズは、国内外で7,000を超えるライセンスが稼働しています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp93949/outline.html",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年10月27日",
+    "url": "https://www.jedat.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月24日",
+    "url": "https://www.jedat.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月9日",
+    "url": "https://www.jedat.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月1日",
+    "url": "https://www.jedat.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月31日",
+    "url": "https://www.jedat.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月26日",
+    "url": "https://www.jedat.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月30日",
+    "url": "https://www.jedat.co.jp/products/semi_design/semi_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月24日",
+    "url": "https://www.jedat.co.jp/products/semi_design/semi_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年7月23日",
+    "url": "https://www.jedat.co.jp/products/semi_design/semi_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年12月5日",
+    "url": "https://www.jedat.co.jp/products/semi_design/semi_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月30日",
+    "url": "https://www.jedat.co.jp/products/fpd_design/fpd_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月24日",
+    "url": "https://www.jedat.co.jp/products/fpd_design/fpd_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "2004年2月2日",
+    "url": "https://www.jedat.co.jp/profile/gaiyou/",
+    "pass": 1
+   },
+   {
+    "quote": "会社沿革 – 株式会社ジーダット",
+    "url": "https://www.jedat.co.jp/profile/enkaku/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月21日",
+    "url": "https://www.jedat.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月31日",
+    "url": "https://www.jedat.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月29日",
+    "url": "https://www.jedat.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "令和８年熊本地震に関するお知らせ",
+    "url": "https://www.jedat.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月19日",
+    "url": "https://www.jedat.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月18日",
+    "url": "https://www.jedat.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月",
+    "url": "https://www.jedat.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月21日",
+    "url": "https://www.jedat.co.jp/ir/news-3/irnews-index-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月31日",
+    "url": "https://www.jedat.co.jp/ir/news-3/irnews-index-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月29日",
+    "url": "https://www.jedat.co.jp/ir/news-3/irnews-index-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "令和８年熊本地震に関するお知らせ",
+    "url": "https://www.jedat.co.jp/ir/news-3/irnews-index-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月19日",
+    "url": "https://www.jedat.co.jp/ir/news-3/irnews-index-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月18日",
+    "url": "https://www.jedat.co.jp/ir/news-3/irnews-index-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月17日",
+    "url": "https://www.jedat.co.jp/ir/news-3/irnews-index-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月12日",
+    "url": "https://www.jedat.co.jp/ir/news-3/irnews-index-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月26日",
+    "url": "https://www.jedat.co.jp/ir/news-3/irnews-index-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月22日",
+    "url": "https://www.jedat.co.jp/ir/news-3/irnews-index-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月20日",
+    "url": "https://www.jedat.co.jp/ir/news-3/irnews-index-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月15日",
+    "url": "https://www.jedat.co.jp/ir/news-3/irnews-index-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年04月01日",
+    "url": "https://www.jedat.co.jp/ir/news-3/irnews-index-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年03月18日",
+    "url": "https://www.jedat.co.jp/ir/news-3/irnews-index-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年03月02日",
+    "url": "https://www.jedat.co.jp/ir/news-3/irnews-index-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年01月30日",
+    "url": "https://www.jedat.co.jp/ir/news-3/irnews-index-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期（第25期）",
+    "url": "https://www.jedat.co.jp/ir/document/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期（第24期）",
+    "url": "https://www.jedat.co.jp/ir/document/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期（第23期）",
+    "url": "https://www.jedat.co.jp/ir/document/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期（第22期）",
+    "url": "https://www.jedat.co.jp/ir/document/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期（第21期）",
+    "url": "https://www.jedat.co.jp/ir/document/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期（第20期）",
+    "url": "https://www.jedat.co.jp/ir/document/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期（第19期）",
+    "url": "https://www.jedat.co.jp/ir/document/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月期（第18期）",
+    "url": "https://www.jedat.co.jp/ir/document/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年3月期（第17期）",
+    "url": "https://www.jedat.co.jp/ir/document/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年3月期（第16期）",
+    "url": "https://www.jedat.co.jp/ir/document/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年3月期（第15期）",
+    "url": "https://www.jedat.co.jp/ir/document/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年3月期（平成28年3月期）（第14期）",
+    "url": "https://www.jedat.co.jp/ir/document/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年3月期",
+    "url": "https://www.jedat.co.jp/ir/document/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年3月期（平成26年3月期）（第12期）",
+    "url": "https://www.jedat.co.jp/ir/document/",
+    "pass": 1
+   },
+   {
+    "quote": "2013年3月期",
+    "url": "https://www.jedat.co.jp/ir/document/",
+    "pass": 1
+   },
+   {
+    "quote": "2012年3月期",
+    "url": "https://www.jedat.co.jp/ir/document/",
+    "pass": 1
+   },
+   {
+    "quote": "2011年3月期",
+    "url": "https://www.jedat.co.jp/ir/document/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年3月期",
+    "url": "https://www.jedat.co.jp/ir/document/",
+    "pass": 1
+   },
+   {
+    "quote": "2009年3月期",
+    "url": "https://www.jedat.co.jp/ir/document/",
+    "pass": 1
+   },
+   {
+    "quote": "2008年3月期",
+    "url": "https://www.jedat.co.jp/ir/document/",
+    "pass": 1
+   },
+   {
+    "quote": "2007年3月期",
+    "url": "https://www.jedat.co.jp/ir/document/",
+    "pass": 1
+   },
+   {
+    "quote": "平成19年03月期 決算説明会資料",
+    "url": "https://www.jedat.co.jp/ir/document/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期",
+    "url": "https://www.jedat.co.jp/ir/ircalendar/",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "お使いの液晶モデルPSITFT(RPI Poli-Si TFT)、ATFT((RPI a-Si TFT)を含むすべてのパブリックドメインモデル、および、ユーザー定義モデル、Verilog-Aをサポートし、ピュアSPICEエンジンにより高精度を実現しています",
+    "url": "https://www.jedat.co.jp/solution/display/display_circuit_design/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の主要顧客である電子デバイス業界の状況ですが、半導体関連業界においては、AI関連デバイスへ期待が高まっている一方で市場は二極化しており、国内半導体メーカーの再編が加速しております",
+    "url": "https://www.jedat.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "また、受託可能な設計体制・対応規模の拡張と、国内外における新規顧客開拓の促進、さらにSX-Meisterを駆使した設計・コンサル型提案を強化することで、デバイス設計受託サービスを増強してまいります",
+    "url": "https://www.jedat.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の主要顧客である電子部品業界は、半導体部品等の世界的な供給不足が継続中であり、特に製造分野への設備投資が盛んに実施されております",
+    "url": "https://www.jedat.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "一方、当社の顧客が多数存在する設計分野においては、設計品種は拡大傾向に入りつつあるものの、設備投資に関しては未だ立ち上がりが遅れており、好況の波が押し寄せるまでには一定の時間を要するものと見ており、引き続き厳しい状況が続いております",
+    "url": "https://www.jedat.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "デバイス設計受託分野では、顧客層の拡大活動を継続しました",
+    "url": "https://www.jedat.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "当事業年度における 、当社の主要顧客である半導体を含む電子部品業界では 、",
+    "url": "https://www.jedat.co.jp/wp-content/uploads/2026/05/syousyuugotuuti24th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "業の代理販売製品を出展し 、多くの来場顧客に製品紹介を行うことができ 、商談",
+    "url": "https://www.jedat.co.jp/wp-content/uploads/2026/05/syousyuugotuuti24th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このセミナーには多くのお客様に参加を賜り 、新",
+    "url": "https://www.jedat.co.jp/wp-content/uploads/2026/05/syousyuugotuuti24th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "せて保守契約の締結の促進が功を奏したことによりますが 、引き続き顧客ニー",
+    "url": "https://www.jedat.co.jp/wp-content/uploads/2026/05/syousyuugotuuti24th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "好調となっておりますので 、引き続き、半導体関連の既存顧客の売上拡大に加",
+    "url": "https://www.jedat.co.jp/wp-content/uploads/2026/05/syousyuugotuuti24th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "えて、新規顧客の開拓を積極的に進めてまいります",
+    "url": "https://www.jedat.co.jp/wp-content/uploads/2026/05/syousyuugotuuti24th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の主要顧客である半導体を含む電子部品業界では 、引き",
+    "url": "https://www.jedat.co.jp/wp-content/uploads/2026/05/syousyuugotuuti24th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "や設計サービスの提供という側面からサポートしている当社は 、顧客の技術力の",
+    "url": "https://www.jedat.co.jp/wp-content/uploads/2026/05/syousyuugotuuti24th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "進化に同期したEDA製品や設計サービスの絶え間ない技術革新に加えて 、顧客の多",
+    "url": "https://www.jedat.co.jp/wp-content/uploads/2026/05/syousyuugotuuti24th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、当社の業容を速やかに拡大していくためには 、販売市場や顧客",
+    "url": "https://www.jedat.co.jp/wp-content/uploads/2026/05/syousyuugotuuti24th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "デバイスソリューション分野においては、従来の国内の顧客に加え、海外販",
+    "url": "https://www.jedat.co.jp/wp-content/uploads/2026/05/syousyuugotuuti24th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(4)販売チャネルの拡張：幅広いお客様層を求めて",
+    "url": "https://www.jedat.co.jp/wp-content/uploads/2026/05/syousyuugotuuti24th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "置、さらには素材分野へと展開を広げ、新たな顧客層の開拓を進めてまいりま",
+    "url": "https://www.jedat.co.jp/wp-content/uploads/2026/05/syousyuugotuuti24th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(2) 主 要取引先等特定関係事業者との関係",
+    "url": "https://www.jedat.co.jp/wp-content/uploads/2026/05/syousyuugotuuti24th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "③ 取引先等との契約書に 、反社会的勢力を排除する条項の導入を進め 、反社",
+    "url": "https://www.jedat.co.jp/wp-content/uploads/2026/05/syousyuugotuuti24th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当該履行義務は製品を引き渡す一時点において顧客が製品に対する支配を",
+    "url": "https://www.jedat.co.jp/wp-content/uploads/2026/05/syousyuugotuuti24th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "②保守サービスに係る収益は 、主に製品の保守であり 、顧客との保守契約に基",
+    "url": "https://www.jedat.co.jp/wp-content/uploads/2026/05/syousyuugotuuti24th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "③ソリューション売上のうち受託開発に係る収益は 、特定の顧客向けのカスタ",
+    "url": "https://www.jedat.co.jp/wp-content/uploads/2026/05/syousyuugotuuti24th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ムソフトウェアの受託開発 、半導体の設計受託であり 、当該成果物を顧客へ納",
+    "url": "https://www.jedat.co.jp/wp-content/uploads/2026/05/syousyuugotuuti24th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当該履行義務は顧客との契約に基づいて一",
+    "url": "https://www.jedat.co.jp/wp-content/uploads/2026/05/syousyuugotuuti24th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(2) 顧客との契約から生じた債権 、契約資産及び契約負債の残高",
+    "url": "https://www.jedat.co.jp/wp-content/uploads/2026/05/syousyuugotuuti24th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じた債権 ･･････････ 388,503千円",
+    "url": "https://www.jedat.co.jp/wp-content/uploads/2026/05/syousyuugotuuti24th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、顧客との契約から生じた債権及び契約資産は、貸借対照表のうち「売掛",
+    "url": "https://www.jedat.co.jp/wp-content/uploads/2026/05/syousyuugotuuti24th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業債権である売掛金 、電子記録債権は 、顧客の信用リスクに晒されていま",
+    "url": "https://www.jedat.co.jp/wp-content/uploads/2026/05/syousyuugotuuti24th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当該リスクに関しては 、当社の与信管理規程に従い 、取引先ごとの期日管",
+    "url": "https://www.jedat.co.jp/wp-content/uploads/2026/05/syousyuugotuuti24th.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "国内唯一のEDAベンダーとして、顧客の細かなニーズに応えるカスタマイズ力で高い信頼を得ている",
+    "url": "https://shachomeikan.jp/industry_article/4856",
+    "pass": 3
+   },
+   {
+    "quote": "建築、医療、半導体など多様な業界のお客様と接点を持ち、営業として幅広いネットワークや経験を積めたことは現在の経営にも活きています",
+    "url": "https://shachomeikan.jp/industry_article/4856",
+    "pass": 3
+   },
+   {
+    "quote": "これまで多くの時間を営業としてお客様と向き合い、実績を重ねてきました",
+    "url": "https://shachomeikan.jp/industry_article/4856",
+    "pass": 3
+   },
+   {
+    "quote": "そして、日本のお客様の細かな要求に合わせ、設計環境を柔軟にカスタマイズできること",
+    "url": "https://shachomeikan.jp/industry_article/4856",
+    "pass": 3
+   },
+   {
+    "quote": "海外製CADでは改善要望が通りにくいこともありますが、私たちは顧客に寄り添った対応を重視しています",
+    "url": "https://shachomeikan.jp/industry_article/4856",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の声に寄り添い、AIで技術の未来を紡ぐ",
+    "url": "https://shachomeikan.jp/industry_article/4856",
+    "pass": 3
+   },
+   {
+    "quote": "日本のディスプレイ産業の発展と共に、その技術を磨き、韓国、台湾、そして中国へと、世界の主要なディスプレイメーカーを顧客として事業を拡大してきました",
+    "url": "https://note.com/tatsuya_sabato/n/nffaf50a0080a",
+    "pass": 3
+   },
+   {
+    "quote": "顧客がソフトウェアを新規に導入したり、追加で購入したりする際の売上です",
+    "url": "https://note.com/tatsuya_sabato/n/nffaf50a0080a",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の設備投資や研究開発のタイミングに左右されるため、年度によって変動する可能性があります",
+    "url": "https://note.com/tatsuya_sabato/n/nffaf50a0080a",
+    "pass": 3
+   },
+   {
+    "quote": "顧客は一度導入した設計ツールを使い続けるため、この保守契約は毎年継続されるケースがほとんどです",
+    "url": "https://note.com/tatsuya_sabato/n/nffaf50a0080a",
+    "pass": 3
+   },
+   {
+    "quote": "顧客による「ロックイン」:",
+    "url": "https://note.com/tatsuya_sabato/n/nffaf50a0080a",
+    "pass": 3
+   },
+   {
+    "quote": "過去の設計資産の互換性や、学習コストを考えると、顧客は継続的にジーダットの製品を使い続けるインセンティブが働きます",
+    "url": "https://note.com/tatsuya_sabato/n/nffaf50a0080a",
+    "pass": 3
+   },
+   {
+    "quote": "世界中のほぼ全ての主要ディスプレイメーカーを顧客に持ち、特にレイアウト設計の分野では圧倒的なシェアを握っているとみられます",
+    "url": "https://note.com/tatsuya_sabato/n/nffaf50a0080a",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との対話を密にし、新たな設計課題を先取りしてツールに反映させていくことが重要です",
+    "url": "https://note.com/tatsuya_sabato/n/nffaf50a0080a",
+    "pass": 3
+   },
+   {
+    "quote": "顧客集中リスク:",
+    "url": "https://note.com/tatsuya_sabato/n/nffaf50a0080a",
+    "pass": 3
+   },
+   {
+    "quote": "主要な顧客は、世界でも数社に限られる大手ディスプレイメーカーです",
+    "url": "https://note.com/tatsuya_sabato/n/nffaf50a0080a",
+    "pass": 3
+   },
+   {
+    "quote": "万が一、最大手の顧客との取引が停止するような事態になれば、業績に与える打撃は計り知れません",
+    "url": "https://note.com/tatsuya_sabato/n/nffaf50a0080a",
+    "pass": 3
+   },
+   {
+    "quote": "特定業界・顧客への高い依存度:",
+    "url": "https://note.com/tatsuya_sabato/n/nffaf50a0080a",
+    "pass": 3
+   },
+   {
+    "quote": "ディスプレイ業界の動向と、数社の主要顧客の方針に業績が大きく左右される構造的リスクを抱えています",
+    "url": "https://note.com/tatsuya_sabato/n/nffaf50a0080a",
+    "pass": 3
+   },
+   {
+    "quote": "【主要取引先】",
+    "url": "https://job.mynavi.jp/28/pc/search/corp93949/outline.html",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "従来型のビジネスモデルでは情報関連事業の収益性が悪化しました",
+    "url": "https://shachomeikan.jp/industry_article/4856",
+    "pass": 3
+   },
+   {
+    "quote": "【ビジネスモデルの詳細分析】高収益・高安定性を生む「ストック型」収益",
+    "url": "https://note.com/tatsuya_sabato/n/nffaf50a0080a",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、同社のビジネスモデルの核心である「EDA」とは何か、なぜ高い利益率と安定した経営が可能なのか、そして今後の成長戦略について、深く、かつ分かりやすく解き明かしていきます",
+    "url": "https://note.com/tatsuya_sabato/n/nffaf50a0080a",
+    "pass": 3
+   },
+   {
+    "quote": "ジーダットのビジネスモデルは、ソフトウェア企業ならではの強みを最大限に活かした、非常に優れた構造になっています",
+    "url": "https://note.com/tatsuya_sabato/n/nffaf50a0080a",
+    "pass": 3
+   },
+   {
+    "quote": "収益構造：「ライセンス」と「メンテナンス」の両輪",
+    "url": "https://note.com/tatsuya_sabato/n/nffaf50a0080a",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、多くの個人投資家が見過ごしがちな、しかし機関投資家が好むような「質の高い」ビジネスモデルを持っています",
+    "url": "https://note.com/tatsuya_sabato/n/nffaf50a0080a",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "その中で、弊社の製品はアナログ半導体やパワーデバイスといった特定分野に特化して開発している点が強みです",
+    "url": "https://shachomeikan.jp/industry_article/4856",
+    "pass": 3
+   },
+   {
+    "quote": "【ビジネスモデルの詳細分析】高収益・高安定性を生む「ストック型」収益",
+    "url": "https://note.com/tatsuya_sabato/n/nffaf50a0080a",
+    "pass": 3
+   },
+   {
+    "quote": "ジーダットのビジネスモデルは、ソフトウェア企業ならではの強みを最大限に活かした、非常に優れた構造になっています",
+    "url": "https://note.com/tatsuya_sabato/n/nffaf50a0080a",
+    "pass": 3
+   },
+   {
+    "quote": "最大の強みは、この「サポートサービス」にあります",
+    "url": "https://note.com/tatsuya_sabato/n/nffaf50a0080a",
+    "pass": 3
+   },
+   {
+    "quote": "ジーダットの強みは、",
+    "url": "https://note.com/tatsuya_sabato/n/nffaf50a0080a",
+    "pass": 3
+   },
+   {
+    "quote": "高い参入障壁:",
+    "url": "https://note.com/tatsuya_sabato/n/nffaf50a0080a",
+    "pass": 3
+   },
+   {
+    "quote": "この専門性は、他社にとって高い参入障壁となります",
+    "url": "https://note.com/tatsuya_sabato/n/nffaf50a0080a",
+    "pass": 3
+   },
+   {
+    "quote": "30%を超える営業利益率と高いROEを誇るソフトウェア企業としては、割安な水準と評価できます",
+    "url": "https://note.com/tatsuya_sabato/n/nffaf50a0080a",
+    "pass": 3
+   },
+   {
+    "quote": "ポジティブ要素（強み・機会）",
+    "url": "https://note.com/tatsuya_sabato/n/nffaf50a0080a",
+    "pass": 3
+   },
+   {
+    "quote": "FPD設計用EDAという専門領域でデファクトスタンダードの地位を確立しており、極めて強力な競争優位性を持っています",
+    "url": "https://note.com/tatsuya_sabato/n/nffaf50a0080a",
+    "pass": 3
+   },
+   {
+    "quote": "決算短信・有報・適時開示から日本企業の強み・成長余地・リスクを整理",
+    "url": "https://note.com/tatsuya_sabato/n/nffaf50a0080a",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "業界毎特集記事－株式会社 ジーダット 代表取締役社長 松尾 和利 — 業界毎特集記事－株式会社 ジーダット 代表取締役社長 松尾 和利 社長名鑑 https://shachomeikan.jp > industry_article",
+    "url": "https://shachomeikan.jp/industry_article/4856",
+    "pass": 3
+   },
+   {
+    "quote": "【銘柄分析】 ジーダット (3841) - ディスプレイ設計を ... - note — 【銘柄分析】 ジーダット (3841) - ディスプレイ設計を ... - note note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/tatsuya_sabato/n/nffaf50a0080a",
+    "pass": 3
+   },
+   {
+    "quote": "加盟団体 - 株式会社ジーダット — 加盟団体 - 株式会社ジーダット 株式会社ジーダット https://www.jedat.co.jp > パートナー",
+    "url": "https://www.jedat.co.jp/partner/kamei_dantai/",
+    "pass": 3
+   },
+   {
+    "quote": "事業化事例39 株式会社 ジーダット - NEDO — 事業化事例39 株式会社 ジーダット - NEDO NEDO PDF https://www.nedo.go.jp > content",
+    "url": "https://www.nedo.go.jp/content/100186172.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ジーダット 、半導体設計をAIで自動化 27年から新型ソフト提供 — ジーダット 、半導体設計をAIで自動化 27年から新型ソフト提供 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXZQOUC233L70T20C26A7000000/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 資料 - 株式会社ジーダット — 決算説明 会 資料 - 株式会社ジーダット 株式会社ジーダット https://www.jedat.co.jp > IR情報 > IRライブラリー",
+    "url": "https://www.jedat.co.jp/ir/document/data3/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 - 株式会社ジーダット — IR情報 - 株式会社ジーダット 株式会社ジーダット https://www.jedat.co.jp > ...",
+    "url": "https://www.jedat.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "ジーダット 【3841】の最新 決算 発表、業績修正 - 株探 — ジーダット 【3841】の最新 決算 発表、業績修正 - 株探 株探 https://kabutan.jp > ジーダット (3841) > 決算",
+    "url": "https://kabutan.jp/stock/finance?code=3841",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 株式会社ジーダット — 会社概要 - 株式会社ジーダット 株式会社ジーダット https://www.jedat.co.jp > 会社情報",
+    "url": "https://www.jedat.co.jp/profile/gaiyou/",
+    "pass": 3
+   },
+   {
+    "quote": "(株) ジーダット 【東証スタンダード上場】の会社概要 - マイナビ — (株) ジーダット 【東証スタンダード上場】の会社概要 - マイナビ マイナビ https://job.mynavi.jp > search > corp93949 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp93949/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 ジーダット （2）】トップ営業から経営者へ ... - YouTube — 【 ジーダット （2）】トップ営業から経営者へ ... - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=xItqoZKb8C0",
+    "pass": 3
+   },
+   {
+    "quote": "ジーダット （3841）のプロフィール | 会社四季報オンライン — ジーダット （3841）のプロフィール | 会社四季報オンライン 四季報オンライン https://shikiho.toyokeizai.net > 銘柄研究 > ジーダット",
+    "url": "https://shikiho.toyokeizai.net/stocks/3841/corporate",
+    "pass": 3
+   },
+   {
+    "quote": "業界毎特集記事－株式会社 ジーダット 代表取締役 社長 松尾 和利 — 業界毎特集記事－株式会社 ジーダット 代表取締役 社長 松尾 和利 社長名鑑 https://shachomeikan.jp > industry_article",
+    "url": "https://shachomeikan.jp/industry_article/4856",
+    "pass": 3
+   },
+   {
+    "quote": "社長 室101 株式会社 ジーダット - カウテレビジョン — 社長 室101 株式会社 ジーダット - カウテレビジョン cowtv.jp https://cowtv.jp > channel > boss",
+    "url": "https://cowtv.jp/channel/boss/814matsuo/",
+    "pass": 3
+   },
+   {
+    "quote": "ジーダット社長 ・松尾和利氏 パワー半導体ソフト拡販 — ジーダット社長 ・松尾和利氏 パワー半導体ソフト拡販 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/716038",
+    "pass": 3
+   },
+   {
+    "quote": "（株） ジーダット 代表取締役 社長 松尾和利氏 - 産業タイムズ社 — （株） ジーダット 代表取締役 社長 松尾和利氏 - 産業タイムズ社 産業タイムズ社 https://www.sangyo-times.jp > article",
+    "url": "https://www.sangyo-times.jp/article.aspx?ID=3239",
+    "pass": 3
+   },
+   {
+    "quote": "ジーダット 【3841】の 社長 ・役員 - キタイシホン — ジーダット 【3841】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/3841/board-of-director",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.jedat.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jedat.co.jp/products/semi_design/semi_circuit_design/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jedat.co.jp/products/fpd_design/fpd_circuit_design/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jedat.co.jp/solution/analog/analog_-semi_circuit_design/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jedat.co.jp/solution/analog/analog_-semi_circuit_verification/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jedat.co.jp/solution/display/display_circuit_design/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jedat.co.jp/resource/presentation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jedat.co.jp/profile/gaiyou/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jedat.co.jp/profile/enkaku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jedat.co.jp/partner/business_partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jedat.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jedat.co.jp/ir/news-3/irnews-index-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jedat.co.jp/ir/document/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jedat.co.jp/ir/ircalendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jedat.co.jp/ir/financial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jedat.co.jp/ir/info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jedat.co.jp/ir/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jedat.co.jp/ir/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jedat.co.jp/ir/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jedat.co.jp/ir/news-3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jedat.co.jp/ir/news-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jedat.co.jp/solution/analog/analog_-semi_circuit_document/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.jedat.co.jp/wp-content/uploads/2026/05/syousyuugotuuti24th.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jedat.co.jp/wp-content/uploads/2026/06/ketsugigotsuuti24th.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jedat.co.jp/wp-content/uploads/2026/07/Jedat_NewsRelease260731_1JE11-EP-26005.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jedat.co.jp/wp-content/uploads/2026/05/Jedat_NewsRelease260515_1JE11-EP-26002.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jedat.co.jp/wp-content/uploads/2026/01/Jedat_NewsRelease260130_1JE11-EP-25010.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jedat.co.jp/wp-content/uploads/2025/10/Jedat_NewsRelease251031_1JE11-EP-25009.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jedat.co.jp/wp-content/uploads/2025/08/Jedat_NewsRelease250801_1JE11-EP-25007.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jedat.co.jp/wp-content/uploads/2026/05/Kessansetumeikai_May202624th.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jedat.co.jp/wp-content/uploads/2024/01/semicon_kairo_xmodel_img11.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.jedat.co.jp/wp-content/uploads/2024/01/semicon_kairo_xmodel_img21.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.jedat.co.jp/wp-content/uploads/2024/01/semicon_kairo_xmodel_img31.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://shachomeikan.jp/industry_article/4856",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tatsuya_sabato/n/nffaf50a0080a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp93949/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shachomeikan.jp/industry_article/4856",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cowtv.jp/channel/boss/814matsuo/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ジーダット",
+   "results": [
+    "https://www.jedat.co.jp/",
+    "https://job.mynavi.jp/27/pc/search/corp93949/outline.html",
+    "https://kabutan.jp/stock/?code=3841",
+    "https://www.nikkei.com/nkd/company/?scode=3841",
+    "https://shikiho.toyokeizai.net/stocks/3841/corporate",
+    "https://ja.wikipedia.org/wiki/ジーフット",
+    "https://www.newjedat.arum-net.com/",
+    "https://www.newjedat.arum-net.com/en/",
+    "https://www.youtube.com/watch?v=xbG6JN9hVfI",
+    "https://finance.yahoo.co.jp/quote/3841.T/profile"
+   ]
+  },
+  {
+   "query": "ジーダット ビジネスモデル",
+   "results": [
+    "https://shachomeikan.jp/industry_article/4856",
+    "https://note.com/tatsuya_sabato/n/nffaf50a0080a",
+    "https://www.jedat.co.jp/partner/kamei_dantai/",
+    "https://www.nedo.go.jp/content/100186172.pdf",
+    "https://www.nikkei.com/article/DGXZQOUC233L70T20C26A7000000/",
+    "https://job.mynavi.jp/28/pc/search/corp93949/outline.html",
+    "https://www.youtube.com/watch?v=Wk88pPD3cAc",
+    "https://shikiho.toyokeizai.net/stocks/3841/corporate",
+    "https://www.kyutech.ac.jp/whats-new/press/entry-5905.html",
+    "https://www.jedat.co.jp/"
+   ]
+  },
+  {
+   "query": "ジーダット 決算説明資料",
+   "results": [
+    "https://www.jedat.co.jp/ir/document/data3/",
+    "https://www.jedat.co.jp/ir/",
+    "https://kabutan.jp/stock/finance?code=3841",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260717596131/",
+    "https://www.gnext.co.jp/ir/ir-contents/library/presentations/",
+    "https://www.jedat.co.jp/ir/ircalendar/",
+    "https://www.youtube.com/@JEDAT_Official",
+    "https://genda.jp/ir/presentations/",
+    "https://www.buffett-code.com/company/3841/library",
+    "https://edinetdb.jp/company/E05669/ir-docs/"
+   ]
+  },
+  {
+   "query": "ジーダット 事業系統図",
+   "results": [
+    "https://www.jedat.co.jp/profile/gaiyou/",
+    "https://job.mynavi.jp/28/pc/search/corp93949/outline.html",
+    "https://www.youtube.com/watch?v=xItqoZKb8C0",
+    "https://shikiho.toyokeizai.net/stocks/3841/corporate",
+    "https://note.com/tatsuya_sabato/n/nffaf50a0080a",
+    "https://mono.ipros.com/company/detail/2043318/",
+    "https://kitaishihon.com/company/3841/board-of-director",
+    "https://www.newjedat.arum-net.com/profile/gaiyou/"
+   ]
+  },
+  {
+   "query": "ジーダット 社長 インタビュー",
+   "results": [
+    "https://shachomeikan.jp/industry_article/4856",
+    "https://cowtv.jp/channel/boss/814matsuo/",
+    "https://www.nikkan.co.jp/articles/view/716038",
+    "https://www.sangyo-times.jp/article.aspx?ID=3239",
+    "https://kitaishihon.com/company/3841/board-of-director",
+    "https://www.jedat.co.jp/profile/gaiyou/",
+    "https://www.nikkei.com/article/DGXZQOUC222I70S3A021C2000000/",
+    "https://shachomeikan.jp/corporations/25027",
+    "https://www.cowtv.jp/channel/boss/814matsuo/",
+    "https://www.nikkan.co.jp/articles/view/00716038"
+   ]
+  }
+ ],
+ "missing": {
+  "売上構成": "記載なし（3回確認済み：公式22頁／PDF・画像11件／外部5頁・検索5回）"
+ }
+}

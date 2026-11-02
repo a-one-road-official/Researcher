@@ -1,0 +1,741 @@
+{
+ "name": "サカタのタネ",
+ "aliases": [],
+ "context": "証券コード1377／水産・農林業／プライム（内国株式）／2026.05期 売上高104,280百万円 営業利益率12.6%",
+ "researched_at": "2026-11-02T19:47:40.428394+00:00",
+ "official_url": "https://www.sakataseed.co.jp/",
+ "identified_by": "search:yahoo_jp:サカタのタネ",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1913年7月（坂田農園）",
+    "url": "https://corporate.sakataseed.co.jp/company/profile.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "1942年12月",
+    "url": "https://corporate.sakataseed.co.jp/company/profile.html",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "種子・苗木・球根・農園芸用品の生産および販売、書籍の出版および販売 育種・研究・委託採種技術指導 造園緑化工事、温室工事、農業施設工事の設計、監理、請負",
+    "url": "https://corporate.sakataseed.co.jp/company/profile.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "694名・連結3,108名（2026年5月31日現在）",
+    "url": "https://corporate.sakataseed.co.jp/company/profile.html",
+    "pass": 3
+   },
+   {
+    "label": "従業員平均年齢",
+    "value": "39.3歳（2026年5月31日現在：単体）",
+    "url": "https://corporate.sakataseed.co.jp/company/profile.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "種苗メーカー「サカタのタネ」商品総合案内サイト",
+    "url": "https://www.sakataseed.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当サイトでは、各商品（花・野菜・ハーブ・農園芸資材）の豊富な情報やオリジナル品種の特性・育て方・栽培方法を調べることができます",
+    "url": "https://www.sakataseed.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報検索",
+    "url": "https://www.sakataseed.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "商品名から探す",
+    "url": "https://www.sakataseed.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "プロ向け商品",
+    "url": "https://www.sakataseed.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "愛好家向け商品",
+    "url": "https://www.sakataseed.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "商品名 またはＱＲコード下の6ケタの数字を入力",
+    "url": "https://www.sakataseed.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "オリジナル商品",
+    "url": "https://www.sakataseed.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "商品を購入したい",
+    "url": "https://www.sakataseed.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "種苗メーカー「サカタのタネ」商品総合案内サイト",
+    "url": "https://www.sakataseed.co.jp/feature/eiri_negi/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "当サイトでは、各商品（花・野菜・ハーブ・農園芸資材）の豊富な情報やオリジナル品種の特性・育て方・栽培方法を調べることができます",
+    "url": "https://www.sakataseed.co.jp/feature/eiri_negi/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報検索",
+    "url": "https://www.sakataseed.co.jp/feature/eiri_negi/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "種苗メーカー「サカタのタネ」商品総合案内サイト",
+    "url": "https://www.sakataseed.co.jp/feature/eiri_korotan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "当サイトでは、各商品（花・野菜・ハーブ・農園芸資材）の豊富な情報やオリジナル品種の特性・育て方・栽培方法を調べることができます",
+    "url": "https://www.sakataseed.co.jp/feature/eiri_korotan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報検索",
+    "url": "https://www.sakataseed.co.jp/feature/eiri_korotan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "「農業にイノベーションの新しい風をおこそう」という信念の下、ピーマンやオリジナル商品ミニパプリカ「スイートカクテルペッパー」などを栽培しています",
+    "url": "https://www.sakataseed.co.jp/feature/eiri_korotan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "農産物直売所であるFARMER’S PALLET WINDS BASEではスイートカクテルペッパー関連商品をはじめとして、神栖市の特産品や季節野菜、農畜水産物などを販売しています",
+    "url": "https://www.sakataseed.co.jp/feature/eiri_korotan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "総合カタログの掲載商品など、約5000点の商品の中からご予約・ご購入頂けます",
+    "url": "https://www.sakataseed.co.jp/feature/eiri_korotan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "カタログ無料進呈中！お好きな時にカタログでゆっくり商品をお選びいただけます",
+    "url": "https://www.sakataseed.co.jp/feature/eiri_korotan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、成熟市場においては、戦略品目でのシェアの拡大、新興市場においては、野菜や花の消費需要喚起と地域栽培環境に応じた商品の開発等、具体的な重点戦略を立案、実行します",
+    "url": "https://corporate.sakataseed.co.jp/ir/management-policy/strategy.html",
+    "pass": 3
+   },
+   {
+    "quote": "生活と文化の向上に貢献する商品・サービスを提供してまいります",
+    "url": "https://corporate.sakataseed.co.jp/company/business-structure.html",
+    "pass": 3
+   },
+   {
+    "quote": "サカタグループは「良質な商品とサービスの提供により、世界の人々の生活向上に貢献する」という創業者の志を現在まで受け継ぎ、グローバルで事業を展開しています",
+    "url": "https://corporate.sakataseed.co.jp/company/business-structure.html",
+    "pass": 3
+   },
+   {
+    "quote": "一般園芸愛好家を対象とした商品を仕入れ、国内のホームセンター向けに販売しているほか、通信販売での販売を行っています",
+    "url": "https://corporate.sakataseed.co.jp/company/business-structure.html",
+    "pass": 3
+   },
+   {
+    "quote": "すべてのサービスを見る",
+    "url": "https://business.ntt-east.co.jp/column/bizdrive/hiroshi-sakata-seeds.html",
+    "pass": 3
+   },
+   {
+    "quote": "Wi-Fi HaLowを活用した無線IoTソリューション",
+    "url": "https://business.ntt-east.co.jp/column/bizdrive/hiroshi-sakata-seeds.html",
+    "pass": 3
+   },
+   {
+    "quote": "公共施設のフリーWi-Fi ｢街Wi-Fiソリューション｣",
+    "url": "https://business.ntt-east.co.jp/column/bizdrive/hiroshi-sakata-seeds.html",
+    "pass": 3
+   },
+   {
+    "quote": "サービスロボットソリューション",
+    "url": "https://business.ntt-east.co.jp/column/bizdrive/hiroshi-sakata-seeds.html",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドサービス",
+    "url": "https://business.ntt-east.co.jp/column/bizdrive/hiroshi-sakata-seeds.html",
+    "pass": 3
+   },
+   {
+    "quote": "ご利用中のサービスの活用、お困り事解決に役に立つ！法人のお客さまマイページ",
+    "url": "https://business.ntt-east.co.jp/column/bizdrive/hiroshi-sakata-seeds.html",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://business.ntt-east.co.jp/column/bizdrive/hiroshi-sakata-seeds.html",
+    "pass": 3
+   },
+   {
+    "quote": "すべてのソリューションを見る",
+    "url": "https://business.ntt-east.co.jp/column/bizdrive/hiroshi-sakata-seeds.html",
+    "pass": 3
+   },
+   {
+    "quote": "サービスからサポートを探す",
+    "url": "https://business.ntt-east.co.jp/column/bizdrive/hiroshi-sakata-seeds.html",
+    "pass": 3
+   },
+   {
+    "quote": "サービス別サポート情報",
+    "url": "https://business.ntt-east.co.jp/column/bizdrive/hiroshi-sakata-seeds.html",
+    "pass": 3
+   },
+   {
+    "quote": "ヒット商品の開発の裏側とグローバル戦略、話題の「スマートアグリ」に対する考えについて、坂田社長に話を伺った",
+    "url": "https://business.ntt-east.co.jp/column/bizdrive/hiroshi-sakata-seeds.html",
+    "pass": 3
+   },
+   {
+    "quote": "1930年代の大ヒット商品に「ビクトリアス・ミックス」という、世界初の100％八重咲きF1ペチュニアがあります",
+    "url": "https://business.ntt-east.co.jp/column/bizdrive/hiroshi-sakata-seeds.html",
+    "pass": 3
+   },
+   {
+    "quote": "工業製品だと現物を見ることができますが、タネはいくら見てもただのタネです",
+    "url": "https://business.ntt-east.co.jp/column/bizdrive/hiroshi-sakata-seeds.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、日本製品はやっぱり優秀です",
+    "url": "https://business.ntt-east.co.jp/column/bizdrive/hiroshi-sakata-seeds.html",
+    "pass": 3
+   },
+   {
+    "quote": "なぜいいものができたのか、製品だけでなく日本人の気質や日本のモノづくりの伝統も海外に伝えていきたいですね",
+    "url": "https://business.ntt-east.co.jp/column/bizdrive/hiroshi-sakata-seeds.html",
+    "pass": 3
+   },
+   {
+    "quote": "さまざまな業種・業態・規模のお客さまのビジネスに役立つ資料や、NTT東日本の各種サービスのパンフレット、ご利用ユーザーさま向けのマニュアルをダウンロードいただけます",
+    "url": "https://business.ntt-east.co.jp/column/bizdrive/hiroshi-sakata-seeds.html",
+    "pass": 3
+   },
+   {
+    "quote": "サービス・ソリューション",
+    "url": "https://business.ntt-east.co.jp/column/bizdrive/hiroshi-sakata-seeds.html",
+    "pass": 3
+   },
+   {
+    "quote": "サービス名から探す",
+    "url": "https://business.ntt-east.co.jp/column/bizdrive/hiroshi-sakata-seeds.html",
+    "pass": 3
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://business.ntt-east.co.jp/column/bizdrive/hiroshi-sakata-seeds.html",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "お近くの販売店を探す",
+    "url": "https://www.sakataseed.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "取り扱い販売店を探す",
+    "url": "https://www.sakataseed.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サカタのタネの絵袋種子「実咲®」シリーズを使った「多粒まき」栽培をご紹介！",
+    "url": "https://www.sakataseed.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【エダマメ】 「たっぷり」 品種紹介",
+    "url": "https://www.sakataseed.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "収量、味、収穫作業性がそろったエダマメ「たっぷり」の品種紹介動画です",
+    "url": "https://www.sakataseed.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "この動画では、LEDの光でコナジラミを誘引し、吸引して捕獲する画期的な装置「ピカとる」の使い方・設置方法・裏ワザまで詳しくご紹介します",
+    "url": "https://www.sakataseed.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サカタのタネの絵袋種子「実咲®」シリーズの「花絵の具® たねダンゴ ミックス（春まき/秋まき）」を使った、誰でも簡単に楽しくタネまきができる「たねダンゴ」の作り方をご紹介します",
+    "url": "https://www.sakataseed.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "事例・農園紹介",
+    "url": "https://www.sakataseed.co.jp/feature/eiri_korotan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お取り扱い時期、販売状況については各販売店へお問い合わせください",
+    "url": "https://www.sakataseed.co.jp/feature/eiri_korotan/index.html",
+    "pass": 1
+   },
+   {
+    "quote": ": 国内外の販売網を通じて、生産者へ種子・苗を供給",
+    "url": "https://note.com/motonoudai/n/n98aa19321bc1",
+    "pass": 3
+   },
+   {
+    "quote": "各種セミナー情報や、イベント開催のご案内、出展レポートなどをご紹介します",
+    "url": "https://business.ntt-east.co.jp/column/bizdrive/hiroshi-sakata-seeds.html",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "【ビジネスモデル解説： どのような仕組みで価値を生み出し、収益を上げているか",
+    "url": "https://note.com/motonoudai/n/n98aa19321bc1",
+    "pass": 3
+   },
+   {
+    "quote": "サカタのタネのビジネスモデルの核心は、長年の研究開発によって生み出される",
+    "url": "https://note.com/motonoudai/n/n98aa19321bc1",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルな収益構造であり、世界中の食料生産に貢献していることが数字からもわかります",
+    "url": "https://note.com/motonoudai/n/n98aa19321bc1",
+    "pass": 3
+   },
+   {
+    "quote": "高収益ビジネスモデルの確立",
+    "url": "https://corporate.sakataseed.co.jp/ir/management-policy/strategy.html",
+    "pass": 3
+   },
+   {
+    "quote": "各地域における健全な収益構造の構築と重点戦略の推進",
+    "url": "https://corporate.sakataseed.co.jp/ir/management-policy/strategy.html",
+    "pass": 3
+   },
+   {
+    "quote": "成長市場における市場拡大、成熟市場における高収益モデルの確立を行うことによって、アジア・北米・南米・欧州アフリカの各地域における健全な収益構造を確立します",
+    "url": "https://corporate.sakataseed.co.jp/ir/management-policy/strategy.html",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "ここがスゴイ！：企業の強みと特徴",
+    "url": "https://note.com/motonoudai/n/n98aa19321bc1",
+    "pass": 3
+   },
+   {
+    "quote": "サカタのタネの競争優位性は、以下の点に集約されます",
+    "url": "https://note.com/motonoudai/n/n98aa19321bc1",
+    "pass": 3
+   },
+   {
+    "quote": "これらの強みが、農業・食品・環境分野などにどう活かされているか、または将来活かせる可能性について",
+    "url": "https://note.com/motonoudai/n/n98aa19321bc1",
+    "pass": 3
+   },
+   {
+    "quote": "サカタのタネの強みである育種技術は、農学が直面する社会課題の解決に直結します",
+    "url": "https://note.com/motonoudai/n/n98aa19321bc1",
+    "pass": 3
+   },
+   {
+    "quote": "高収益ビジネスモデルの確立",
+    "url": "https://corporate.sakataseed.co.jp/ir/management-policy/strategy.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、新たにトップシェアを狙う戦略品目の開発・拡販に努め、経営資源の重点戦略品目への集中とアジアを中心とした新興国市場における成長機会の取り込みによる高収益体制を確立します",
+    "url": "https://corporate.sakataseed.co.jp/ir/management-policy/strategy.html",
+    "pass": 3
+   },
+   {
+    "quote": "成長市場における市場拡大、成熟市場における高収益モデルの確立を行うことによって、アジア・北米・南米・欧州アフリカの各地域における健全な収益構造を確立します",
+    "url": "https://corporate.sakataseed.co.jp/ir/management-policy/strategy.html",
+    "pass": 3
+   },
+   {
+    "quote": "種子の安定供給を実現する生産体制・技術・機能を強化し、効率的なグローバルサプライチェーンマネジメント体制の実現に向けた仕組みづくりを行い、コストと在庫の削減を目指します",
+    "url": "https://corporate.sakataseed.co.jp/ir/management-policy/strategy.html",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2025年6月13日 16:01",
+    "url": "https://note.com/motonoudai/n/n98aa19321bc1",
+    "pass": 3
+   },
+   {
+    "quote": "1913年7月（坂田農園）",
+    "url": "https://corporate.sakataseed.co.jp/company/profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "1942年12月",
+    "url": "https://corporate.sakataseed.co.jp/company/profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年07月14日",
+    "url": "https://corporate.sakataseed.co.jp/news/2025/20250714_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "1987年 4月 当社入社",
+    "url": "https://corporate.sakataseed.co.jp/news/2025/20250714_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "2002年 8月 当社研究本部部長",
+    "url": "https://corporate.sakataseed.co.jp/news/2025/20250714_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "2007年 6月 当社執行役員、当社研究本部長",
+    "url": "https://corporate.sakataseed.co.jp/news/2025/20250714_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "2008年 5月 当社研究本部長兼遺伝資源室長",
+    "url": "https://corporate.sakataseed.co.jp/news/2025/20250714_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "2011年 8月 当社取締役 執行役員",
+    "url": "https://corporate.sakataseed.co.jp/news/2025/20250714_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "2013年 8月 当社常務取締役 常務執行役員",
+    "url": "https://corporate.sakataseed.co.jp/news/2025/20250714_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "2015年 8月 当社内部統制評価責任者",
+    "url": "https://corporate.sakataseed.co.jp/news/2025/20250714_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "2016年 8月 当社海外営業本部管掌（現任）",
+    "url": "https://corporate.sakataseed.co.jp/news/2025/20250714_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年 6月 当社取締役常務執行役員（現任）",
+    "url": "https://corporate.sakataseed.co.jp/news/2025/20250714_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "1952年神奈川県生まれ",
+    "url": "https://business.ntt-east.co.jp/column/bizdrive/hiroshi-sakata-seeds.html",
+    "pass": 3
+   },
+   {
+    "quote": "2007年6月より現職",
+    "url": "https://business.ntt-east.co.jp/column/bizdrive/hiroshi-sakata-seeds.html",
+    "pass": 3
+   },
+   {
+    "quote": "1930年代の大ヒット商品に「ビクトリアス・ミックス」という、世界初の100％八重咲きF1ペチュニアがあります",
+    "url": "https://business.ntt-east.co.jp/column/bizdrive/hiroshi-sakata-seeds.html",
+    "pass": 3
+   },
+   {
+    "quote": "2014年8月現在で、19カ国に28拠点を持ち、連結ベースでみると売上高の半分は海外の売上げが占めています",
+    "url": "https://business.ntt-east.co.jp/column/bizdrive/hiroshi-sakata-seeds.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "企業研究】#008 10分でわかる サカタのタネ 株式会社｜元農大生 — 企業研究】#008 10分でわかる サカタのタネ 株式会社｜元農大生 note https://note.com > キャリア > 企業分析",
+    "url": "https://note.com/motonoudai/n/n98aa19321bc1",
+    "pass": 3
+   },
+   {
+    "quote": "事業戦略 | 経営方針 | サカタのタネ コーポレート ウェブサイト — 事業戦略 | 経営方針 | サカタのタネ コーポレート ウェブサイト サカタのタネ コーポレート ウェブサイト https://corporate.sakataseed.co.jp > strategy",
+    "url": "https://corporate.sakataseed.co.jp/ir/management-policy/strategy.html",
+    "pass": 3
+   },
+   {
+    "quote": "種から世界へ： サカタのタネ の ビジネスモデル 分析 - GFS — 種から世界へ： サカタのタネ の ビジネスモデル 分析 - GFS official.gfs.tokyo https://official.gfs.tokyo > HOME > 株式投資",
+    "url": "https://official.gfs.tokyo/blog/hayashi-from-seed-to-the-world-an-analysis-of-sakata-seeds-business-model",
+    "pass": 3
+   },
+   {
+    "quote": "事業報告｜株式会社 サカタのタネ スマート招集 — 事業報告｜株式会社 サカタのタネ スマート招集 p.sokai.jp https://p.sokai.jp > archive > report",
+    "url": "https://p.sokai.jp/archive/1377/2021/report/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 | IR資料室 | サカタのタネ コーポレート ウェブ ... — 決算説明資料 | IR資料室 | サカタのタネ コーポレート ウェブ ... サカタのタネ コーポレート ウェブサイト https://corporate.sakataseed.co.jp > library > briefing",
+    "url": "https://corporate.sakataseed.co.jp/ir/library/briefing.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR 資料 室 | 投資家情報 | サカタのタネ コーポレート ウェブサイト — IR 資料 室 | 投資家情報 | サカタのタネ コーポレート ウェブサイト サカタのタネ コーポレート ウェブサイト https://corporate.sakataseed.co.jp > library",
+    "url": "https://corporate.sakataseed.co.jp/ir/library/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信 | IR 資料 室 | サカタのタネ コーポレート ウェブサイト — 決算 短信 | IR 資料 室 | サカタのタネ コーポレート ウェブサイト サカタのタネ コーポレート ウェブサイト https://corporate.sakataseed.co.jp > library > statement",
+    "url": "https://corporate.sakataseed.co.jp/ir/library/statement.html",
+    "pass": 3
+   },
+   {
+    "quote": "サカタのタネ [1377]：2026年5月期 中間 決算説明資料 2026年 ... — サカタのタネ [1377]：2026年5月期 中間 決算説明資料 2026年 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260119535600/",
+    "pass": 3
+   },
+   {
+    "quote": "サカタのタネ （1377）の 決算 発表 資料 一覧 - IRBANK — サカタのタネ （1377）の 決算 発表 資料 一覧 - IRBANK IRBANK https://irbank.net > 水産・農林業 > サカタのタネ",
+    "url": "https://irbank.net/E00006/reports",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 企業情報 | サカタのタネ コーポレート ウェブサイト — 会社概要 | 企業情報 | サカタのタネ コーポレート ウェブサイト サカタのタネ コーポレート ウェブサイト https://corporate.sakataseed.co.jp > company > profile",
+    "url": "https://corporate.sakataseed.co.jp/company/profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業 運営体制 | 企業情報 | サカタのタネ コーポレート ウェブ ... — 事業 運営体制 | 企業情報 | サカタのタネ コーポレート ウェブ ... サカタのタネ コーポレート ウェブサイト https://corporate.sakataseed.co.jp > business-structure",
+    "url": "https://corporate.sakataseed.co.jp/company/business-structure.html",
+    "pass": 3
+   },
+   {
+    "quote": "業務の詳細｜ サカタのタネ — 業務の詳細｜ サカタのタネ サカタのタネ 採用サイト https://www.sakataseed-recruit.jp > detail",
+    "url": "https://www.sakataseed-recruit.jp/detail/",
+    "pass": 3
+   },
+   {
+    "quote": "サカタのタネ グリーンサービス株式会社 — サカタのタネ グリーンサービス株式会社 サカタのタネ グリーンサービス株式会社 https://www.sakata-greenservice.co.jp",
+    "url": "https://www.sakata-greenservice.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "代表取締役の異動に関するお知らせ | ニュース - サカタのタネ — 代表取締役の異動に関するお知らせ | ニュース - サカタのタネ サカタのタネ コーポレート ウェブサイト https://corporate.sakataseed.co.jp > news",
+    "url": "https://corporate.sakataseed.co.jp/news/2025/20250714_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 サカタのタネ 代表取締役 社長 坂田 宏 氏 - NTT東日本 — 株式会社 サカタのタネ 代表取締役 社長 坂田 宏 氏 - NTT東日本 NTT東日本 https://business.ntt-east.co.jp > コラム > BizDrive",
+    "url": "https://business.ntt-east.co.jp/column/bizdrive/hiroshi-sakata-seeds.html",
+    "pass": 3
+   },
+   {
+    "quote": "坂田宏 - サカタのタネ の歴代 社長 （2007〜2025年） - The社史 — 坂田宏 - サカタのタネ の歴代 社長 （2007〜2025年） - The社史 The社史 https://the-shashi.com > サカタのタネの歴史 > 歴代社長",
+    "url": "https://the-shashi.com/tse/1377/executives/ceo/sakata-hiroshi/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 サカタのタネ の導入事例 | 人材育成・社員研修など ... — 株式会社 サカタのタネ の導入事例 | 人材育成・社員研修など ... 株式会社ワークハピネス https://workhappiness.co.jp > 導入事例 > 人材育成",
+    "url": "https://workhappiness.co.jp/case/human/sakataseed/",
+    "pass": 3
+   },
+   {
+    "quote": "社員紹介｜ サカタのタネ — 社員紹介｜ サカタのタネ サカタのタネ 採用サイト https://www.sakataseed-recruit.jp > staff",
+    "url": "https://www.sakataseed-recruit.jp/staff/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "研究開発や種子の生産は、全世界の畑という現場で行われるものですし、営業はお客様とのコミュニケーションにより成立するもの",
+    "url": "https://business.ntt-east.co.jp/column/bizdrive/hiroshi-sakata-seeds.html",
+    "pass": 3
+   },
+   {
+    "quote": "さまざまな業種・業態・規模のお客さまのビジネスに役立つ資料や、NTT東日本の各種サービスのパンフレット、ご利用ユーザーさま向けのマニュアルをダウンロードいただけます",
+    "url": "https://business.ntt-east.co.jp/column/bizdrive/hiroshi-sakata-seeds.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sakataseed.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sakataseed.co.jp/feature/eiri_negi/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sakataseed.co.jp/feature/eiri_korotan/index.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.sakataseed.co.jp/_assets-mt/eiri_negi/81d2aee01e8563b0863007a5caeda6bbe5a45beb.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sakataseed.co.jp/_assets-mt/RN_banner_flower_vincents.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sakataseed.co.jp/_assets-mt/RN_banner_flower_pansy_viola.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.com/motonoudai/n/n98aa19321bc1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.sakataseed.co.jp/ir/management-policy/strategy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.sakataseed.co.jp/ir/library/briefing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.sakataseed.co.jp/ir/library/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.sakataseed.co.jp/company/profile.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.sakataseed.co.jp/company/business-structure.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.sakataseed.co.jp/news/2025/20250714_02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://business.ntt-east.co.jp/column/bizdrive/hiroshi-sakata-seeds.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "サカタのタネ",
+   "results": [
+    "https://www.sakataseed.co.jp/",
+    "https://sakata-netshop.com/shop/default.aspx",
+    "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%AB%E3%82%BF%E3%81%AE%E3%82%BF%E3%83%8D",
+    "https://www.sakataseed-recruit.jp/about/",
+    "https://www.instagram.com/sakataseedcorp/",
+    "https://ja.wikipedia.org/wiki/サカタのタネ",
+    "https://corporate.sakataseed.co.jp/",
+    "https://www.sakataseed.co.jp/product/",
+    "https://sakata-tsushin.com/",
+    "https://corporate.sakataseed.co.jp/company/profile.html"
+   ]
+  },
+  {
+   "query": "サカタのタネ ビジネスモデル",
+   "results": [
+    "https://note.com/motonoudai/n/n98aa19321bc1",
+    "https://corporate.sakataseed.co.jp/ir/management-policy/strategy.html",
+    "https://official.gfs.tokyo/blog/hayashi-from-seed-to-the-world-an-analysis-of-sakata-seeds-business-model",
+    "https://p.sokai.jp/archive/1377/2021/report/",
+    "https://wedge.ismedia.jp/articles/-/24120?layout=b",
+    "https://www.instagram.com/reel/DIOMEeOBUQs/",
+    "https://www.sakataseed-recruit.jp/about/facts/",
+    "https://note.com/quiet_tulip886/n/n7701dabc7999",
+    "https://www.nikkei.com/article/DGXNASM210009_Q0A820C1000001/",
+    "https://worklife-carrer.hatenablog.com/entry/2026/07/18/163711"
+   ]
+  },
+  {
+   "query": "サカタのタネ 決算説明資料",
+   "results": [
+    "https://corporate.sakataseed.co.jp/ir/library/briefing.html",
+    "https://corporate.sakataseed.co.jp/ir/library/index.html",
+    "https://corporate.sakataseed.co.jp/ir/library/statement.html",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260119535600/",
+    "https://irbank.net/E00006/reports",
+    "https://corporate.sakataseed.co.jp/ir/index.html",
+    "http://ke.kabupro.jp/code/1377.htm",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260609566520",
+    "https://www.buffett-code.com/company/1377/library"
+   ]
+  },
+  {
+   "query": "サカタのタネ 事業系統図",
+   "results": [
+    "https://corporate.sakataseed.co.jp/company/profile.html",
+    "https://corporate.sakataseed.co.jp/company/business-structure.html",
+    "https://www.sakataseed-recruit.jp/detail/",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100RR8S.pdf",
+    "https://www.sakata-greenservice.co.jp/",
+    "https://kitaishihon.com/company/1377/business",
+    "https://p.sokai.jp/archive/1377/2021/report/",
+    "https://note.com/joyous_sayyou/n/nf12ce5924267",
+    "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%AB%E3%82%BF%E3%81%AE%E3%82%BF%E3%83%8D",
+    "https://ja.wikipedia.org/wiki/サカタのタネ"
+   ]
+  },
+  {
+   "query": "サカタのタネ 社長 インタビュー",
+   "results": [
+    "https://corporate.sakataseed.co.jp/news/2025/20250714_02.html",
+    "https://business.ntt-east.co.jp/column/bizdrive/hiroshi-sakata-seeds.html",
+    "https://the-shashi.com/tse/1377/executives/ceo/sakata-hiroshi/",
+    "https://workhappiness.co.jp/case/human/sakataseed/",
+    "https://www.sakataseed-recruit.jp/staff/",
+    "https://shachomeikan.jp/presidents/detail/10061976?page=2",
+    "https://www.tv-tokyo.co.jp/senshi/sp/118.html",
+    "https://ja.wikipedia.org/wiki/坂田宏",
+    "https://shachomeikan.jp/presidents/detail/10061976",
+    "https://www.youtube.com/watch?v=89tzGuZT7WY"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像3件／外部8頁・検索5回）",
+  "お金の形": "記載なし（3回確認済み：公式3頁／PDF・画像3件／外部8頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式3頁／PDF・画像3件／外部8頁・検索5回）"
+ }
+}

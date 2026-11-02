@@ -1,0 +1,1607 @@
+{
+ "name": "ヨータイ",
+ "aliases": [],
+ "context": "証券コード5357／ガラス・土石製品／プライム（内国株式）／2026.03期 売上高29,585百万円 営業利益率12.2%",
+ "researched_at": "2026-11-02T19:56:21.533415+00:00",
+ "official_url": "https://www.yotai.co.jp/",
+ "identified_by": "search:yahoo_jp:ヨータイ",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1936年（昭和11年）8月",
+    "url": "https://www.yotai.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "label": "設立年月",
+    "value": "1936年8月",
+    "url": "https://jobtalk.jp/companies/1733/answers/8809296",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "29,585百万円（2026年3月期）",
+    "url": "https://www.yotai.co.jp/company.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "537名（2026年3月期）",
+    "url": "https://www.yotai.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "537人",
+    "url": "https://jobtalk.jp/companies/1733/answers/8809296",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "耐火物・ニューセラミックスの製造販売および関連エンジニアリング事業",
+    "url": "https://www.yotai.co.jp/company.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "沿革": [
+   {
+    "quote": "1936年（昭和11年）8月",
+    "url": "https://www.yotai.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革｜株式会社ヨータイ",
+    "url": "https://www.yotai.co.jp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "昭和11年高級耐火煉瓦製造を目的として、大阪セメント株式会社（現 住友大阪セメント株式会社）他の出資により設立され、以来今日まで鉄鋼、非鉄、セメント、ガラス、焼却炉他向耐火物の製造販売を行い、国内外の基礎産業と共に発展し、現在も",
+    "url": "https://www.yotai.co.jp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期",
+    "url": "https://www.yotai.co.jp/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.yotai.co.jp/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.yotai.co.jp/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.yotai.co.jp/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://www.yotai.co.jp/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://www.yotai.co.jp/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期",
+    "url": "https://www.yotai.co.jp/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月期",
+    "url": "https://www.yotai.co.jp/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年3月期",
+    "url": "https://www.yotai.co.jp/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2018年3月期",
+    "url": "https://www.yotai.co.jp/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年3月期",
+    "url": "https://www.yotai.co.jp/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2016年3月期",
+    "url": "https://www.yotai.co.jp/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度",
+    "url": "https://www.yotai.co.jp/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.yotai.co.jp/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.yotai.co.jp/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://www.yotai.co.jp/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度",
+    "url": "https://www.yotai.co.jp/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年度",
+    "url": "https://www.yotai.co.jp/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年度",
+    "url": "https://www.yotai.co.jp/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年度",
+    "url": "https://www.yotai.co.jp/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2018年度",
+    "url": "https://www.yotai.co.jp/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年度",
+    "url": "https://www.yotai.co.jp/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2016年度",
+    "url": "https://www.yotai.co.jp/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2015年度",
+    "url": "https://www.yotai.co.jp/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第2四半期（中間期）連結業績予想値と実績値との差異及び通期連結業績予想の修正に関するお知らせ",
+    "url": "https://www.yotai.co.jp/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年12月",
+    "url": "https://www.yotai.co.jp/shareholder.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年5月10日",
+    "url": "https://www.yotai.co.jp/pdf/plan_2024-2026_pp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2030年ビジョン",
+    "url": "https://www.yotai.co.jp/pdf/plan_2024-2026_pp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年3月期売上高",
+    "url": "https://www.yotai.co.jp/pdf/plan_2024-2026_pp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年3月期売上高目標",
+    "url": "https://www.yotai.co.jp/pdf/plan_2024-2026_pp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2030年3月期売上高目標",
+    "url": "https://www.yotai.co.jp/pdf/plan_2024-2026_pp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2030年ビジョンまでの事業ポートフォリオの考え方",
+    "url": "https://www.yotai.co.jp/pdf/plan_2024-2026_pp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2030年の",
+    "url": "https://www.yotai.co.jp/pdf/plan_2024-2026_pp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年3月期 2026年3月期 2027年3月期",
+    "url": "https://www.yotai.co.jp/pdf/plan_2024-2026_pp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2021年3月期",
+    "url": "https://www.yotai.co.jp/pdf/plan_2024-2026_pp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.yotai.co.jp/pdf/plan_2024-2026_pp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年3月期",
+    "url": "https://www.yotai.co.jp/pdf/plan_2024-2026_pp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年3月期の配当金予想は1株あたり90円となっており、投資家にとっての配当利回りは株価次第で変動します",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年2月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年8月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年7月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年5月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年4月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年2月",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "独立社外取締役からの指名・報酬諮問委員会委員長選定に関するお知らせ",
+    "url": "https://www.yotai.co.jp/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "指名・報酬諮問委員会の設置に関するお知らせ",
+    "url": "https://www.yotai.co.jp/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーを発掘し海外展開の足掛か",
+    "url": "https://www.yotai.co.jp/pdf/plan_2024-2026_pp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取り込み・戦略的な営業体制の構築",
+    "url": "https://www.yotai.co.jp/pdf/plan_2024-2026_pp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "パートナーとの連携と海外OEM品の活用で早期収益化を図る",
+    "url": "https://www.yotai.co.jp/pdf/plan_2024-2026_pp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 展開エリアの検討とパートナー企業の発掘、",
+    "url": "https://www.yotai.co.jp/pdf/plan_2024-2026_pp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これらの企業との強力なパートナーシップにより、安定的に需要を確保できる仕組みがあります",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "ヨータイはこうしたニーズに応えることで、戦略的なパートナーとしての地位を築いています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "大きな設備投資を行う企業にとって、信頼できるパートナーとの長期契約はメリットが大きいからです",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "一度施工した工業炉や導入した耐火物がしっかり機能し続けると、次の更新や追加導入の際も同じパートナーに依頼する傾向が強まります",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "会社の対処すべき課題当社には、①当社が強みを持つ分野での国内・海外需要の取り込み・戦略的な営業体制の構築②不確実性の高まりに対応する経営体制の整備③原料の備蓄体制の強化と中国以外の調達先の拡大④建設業・物流業2024年問題を考慮したサプライチェーンマネジメント⑤ＤＸ推進と人的資本への投資⑥さらなる低コスト・省人化を視野に入れた設備投資⑦カーボンニュートラル実現に向けた設備投資という課題があります",
+    "url": "https://kabuyomi.jp/stock/5357",
+    "pass": 3
+   },
+   {
+    "quote": "法人営業,個人営業,内勤営業,ルートセールス・代理店営業,MR・MS,海外営業,営業マネージャー・管理職,テレマーケティング,コールセンター運営・管理,その他営業関連職、キャリアカウンセラー,派遣コーディネーター,その他人材関連職",
+    "url": "https://jobtalk.jp/companies/1733/answers/8809296",
+    "pass": 3
+   },
+   {
+    "quote": "販売・接客・ホールサービス,店長・店長候補,調理・料理長,スーパーバイザー・エリアマネージャ,店舗開発,その他飲食・フード系関連職、販売スタッフ,店長・店長候補,スーパーバイザー・エリアマネージャ,店舗開発,生産管理・品質管理,マーチャンダイザー・バイヤー,ファッションデザイナー,その他の小売・ファッション関連職、美容師・理容師,スタイリスト・ヘアメイク,エステティシャン,ネイリスト,マッサージ関連職,その他ビューティー系関連職、運輸関連,ドライバー・配送関連,倉庫関連,その他運輸・配送・倉庫関連職、警備・守衛,清掃スタッフ,ビル施設管理,その他警備・清掃・設備管理関連職、アミューズメント関連職,旅行サービス関連職,ホテル・宿泊施設サービス関連職,ブライダルサービス関連職,その他のサービス関連職",
+    "url": "https://jobtalk.jp/companies/1733/answers/8809296",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "今後も急速に変化する耐火物市況に対応していくために、新製品開発の促進、不定形比率の向上、生産の構造改革に伴う積極的な投資、工事部門の人材の確保などを進め、景気、自然災害に左右されない強靭でかつ持続可能な会社体質を構築し、信用第一に努めてまいります",
+    "url": "https://www.yotai.co.jp/shareholder.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、それぞれの産業ごとに求められる品質を取り揃えており、お客様と技術交流を深めることで、最も適した製品を提供致します",
+    "url": "https://www.yotai.co.jp/refractories.html",
+    "pass": 1
+   },
+   {
+    "quote": "粉体状製品は現場で水と混ぜ合わせて流し込んだり、吹き付けたりして使用します",
+    "url": "https://www.yotai.co.jp/refractories.html",
+    "pass": 1
+   },
+   {
+    "quote": "練り土状製品は押し付けたり、叩き込んだりして使用します",
+    "url": "https://www.yotai.co.jp/refractories.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスの",
+    "url": "https://www.yotai.co.jp/pdf/plan_2024-2026_pp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 製品の安定供給体制を強化",
+    "url": "https://www.yotai.co.jp/pdf/plan_2024-2026_pp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 環境配慮型耐火物などの新製品を開発",
+    "url": "https://www.yotai.co.jp/pdf/plan_2024-2026_pp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 技術サービス員の採用・育成が進み、",
+    "url": "https://www.yotai.co.jp/pdf/plan_2024-2026_pp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "と高性能解析装置を導入し新製品開発",
+    "url": "https://www.yotai.co.jp/pdf/plan_2024-2026_pp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品・サービスの質の",
+    "url": "https://www.yotai.co.jp/pdf/plan_2024-2026_pp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◼ 新製品の販売拡大、成長",
+    "url": "https://www.yotai.co.jp/pdf/plan_2024-2026_pp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の強化と新製品開発の",
+    "url": "https://www.yotai.co.jp/pdf/plan_2024-2026_pp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "重点施策（1）製品・サービスの質の向上による売上拡大",
+    "url": "https://www.yotai.co.jp/pdf/plan_2024-2026_pp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◼ 高付加価値な新製品の販売拡大、",
+    "url": "https://www.yotai.co.jp/pdf/plan_2024-2026_pp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 開発した新製品を販売数量増につなげるため",
+    "url": "https://www.yotai.co.jp/pdf/plan_2024-2026_pp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 環境配慮型耐火物の使用促進に向けた製品",
+    "url": "https://www.yotai.co.jp/pdf/plan_2024-2026_pp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "新製品開発の推進",
+    "url": "https://www.yotai.co.jp/pdf/plan_2024-2026_pp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 将来の成長を牽引する製品の開発を推進",
+    "url": "https://www.yotai.co.jp/pdf/plan_2024-2026_pp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "新製品開発設備 非酸化物生産設備の導入、特殊プレスの新規導入",
+    "url": "https://www.yotai.co.jp/pdf/plan_2024-2026_pp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "粉体状製品は現場で水と",
+    "url": "https://www.yotai.co.jp/pdf/plan_2024-2026_pp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "練り土状製品は押し付けたり、叩き込んだりし",
+    "url": "https://www.yotai.co.jp/pdf/plan_2024-2026_pp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ガラス・土石製品",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ヨータイは、鉄鋼やガラス、セメント、非鉄金属といった基幹産業の熱設備に不可欠な各種耐火れんがや不定形耐火物の開発・製造・販売を主力とし、各種工業用窯炉や環境設備の設計・施工を手掛けるエンジニアリング事業まで一貫して展開する総合耐火物メーカーです",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "この業績結果は、耐火物等事業においてガラスやセメント、非鉄金属向け製品の受注が堅調に推移したことに加え、エンジニアリング事業における各種プラント・環境装置向け大型案件の進捗が寄与して売上高が過去最高を更新し営業・経常増益を果たしたものの、原材料・エネルギーコストの高止まりや税金費用の影響などにより純利益が前年を下回ったことによるものです",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ヨータイは、高品質な耐火物と工業炉向けのエンジニアリングサービスをまとめて提供できる点が大きな強みです",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼やセメントなどの基幹産業は一度生産を止めると大きな損失が発生するため、製品とサービスを一体で提供できる企業が求められてきた背景があります",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの人材と設備がそろうことで、新製品開発や顧客ニーズへの柔軟な対応が可能になり、市場での優位性を維持しています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "製品やサービスの提供チャネルとしては、営業拠点からの直接販売が中心です",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客企業へ足を運び、課題をヒアリングしながら最適な製品や施工プランを提案するため、フェイス・トゥ・フェイスのコミュニケーションが重視されています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、製品供給だけでなく工業炉の施工とメンテナンスを一括で手がけることで、長期的に顧客と関係を築いています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "共通して高温での生産工程があるため、耐火物の性能が製造効率と製品品質に大きく影響します",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "収益の柱は、耐火物の販売収益とエンジニアリングサービスからの収益です",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "品質向上や新製品開発に向けた研究開発費も重要で、業界での技術競争をリードするために一定の投資を継続しています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の求める製品性能が年々高度化しており、より長持ちする耐火物や環境負荷を減らす技術への期待が高まっているからです",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "同社の自己強化ループは、大きく分けて製品技術と顧客満足度の二つがかみ合う形で機能しています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "エンジニアリングサービスの高度化やデジタル技術の導入によって、メンテナンスや保守の効率化が進めば、長期的な顧客満足度の向上とコスト削減につながる点も見逃せません",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "企業概要と最近の業績日本コンクリート工業株式会社【全体の業績】日本コンクリート工業株式会社は、各種コンクリートポールの製造・販売をはじめ、建物や構造物の基礎を支えるコンクリート杭、さらにはプレキャストコンクリート製品の製造・施工を手掛ける老...",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "企業概要と最近の業績株式会社Ｍｉｐｏｘ当社は、様々な製品の表面をナノレベルで精密に磨き上げる「研磨（けんま）」に関する製品やサービスを総合的に提供する会社です",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "主力製品は、ハードディスクや光ファイバー、半導体などの製造に欠かせない超精密な研...",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "石油・石炭製品",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "証券・商品先物取引業",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "主力事業は、高温環境下で使用される耐火物の製造・販売と、それに付随するエンジニアリング事業の二本柱",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "岡山県に2工場、大阪府・岐阜県にそれぞれ1工場、さらに中国に1工場と計5つの製造拠点を持ち、国内外の顧客に製品と技術を供給し続けている",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "主な原料はマグネシア（酸化マグネシウム）、アルミナ（酸化アルミニウム）、シリカ（二酸化ケイ素）、ジルコニアなどで、これらを配合・成形・焼成して製品が作られる",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "製品形態は大きく分けて、煉瓦（定形耐火物）、モルタルやキャスタブルなどの不定形耐火物、そして断熱材の3種類がある",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "この中でヨータイは年間売上高300億円弱の中堅規模に位置するが、特定の製品分野においては高いシェアを持ち、業界内での存在感は決して小さくない",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼向けはもちろんのこと、セメント・ガラス・環境装置向けにも幅広い製品ラインナップを持っており、エンジニアリング事業を通じて設備の設計・施工まで一貫して手がけることができる",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "この「製品＋サービス」の一体提供モデルは、単なる材料メーカーとは一線を画す競争優位性となっている",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "耐火物の製造には長年の技術蓄積が不可欠で、原料の調合技術、焼成プロセスの管理ノウハウ、そして顧客ごとにカスタマイズされた製品仕様の知見が必要になる",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、耐火物は「仕様品」の色彩が強い製品でもある",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "耐火物製品の技術的特性──何がヨータイの強みを支えているのか",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "ヨータイの事業をより深く理解するために、耐火物製品の技術的な側面にも踏み込んでみよう",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "ヨータイが5つの製造拠点を持ち、それぞれが異なる製品ラインを担当していることは、この多様な顧客ニーズに対応するための生産体制と考えられる",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "岡山の2工場がメインの生産拠点であり、大阪と岐阜の工場はそれぞれ特定の製品群や地域市場に対応していると推測される",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "中国工場は現地市場向けおよびコスト競争力のある製品の生産を担っているだろう",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "製品の品質保証体制も重要だ",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "耐火物は納入先の設備の安全性に直結する製品であるため、品質管理は極めて厳格に行われる",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "高い技術力が高品質製品を生み、高品質製品が顧客からの信頼を勝ち取り、信頼が安定受注につながり、安定受注が利益率を支える──このバリューチェーン全体がヨータイの競争優位性の本質だ",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "独立系で特定の鉄鋼メーカーに依存しない経営を展開しており、多様な産業分野に製品を供給している点でヨータイと類似した事業構造を持つ",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "第二に、エンジニアリング事業の比率が比較的高く、製品販売だけに依存しない収益構造を持つ点だ",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "当社は、それぞれの産業ごとに求められる品質を取り揃えており、お客様と技術交流を深めることで、最も適した製品を提供致します",
+    "url": "https://www.yotai.co.jp/refractories.html",
+    "pass": 1
+   },
+   {
+    "quote": "ヨータイの主要販売先業界",
+    "url": "https://www.yotai.co.jp/refractories.html",
+    "pass": 1
+   },
+   {
+    "quote": "常にお客様のニーズに柔軟かつ迅速に応えることで、定形耐火物の分野で圧倒的なシェアを誇っています",
+    "url": "https://www.yotai.co.jp/refractories.html",
+    "pass": 1
+   },
+   {
+    "quote": "◼ 主要取引先である鉄鋼業界の国内粗鋼生産量は2021年度（2022.3期）から減少しているものの、",
+    "url": "https://www.yotai.co.jp/pdf/plan_2024-2026_pp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "し、顧客側の実績評価を実施中",
+    "url": "https://www.yotai.co.jp/pdf/plan_2024-2026_pp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 顧客管理・顧客情報のデジタル化による営業",
+    "url": "https://www.yotai.co.jp/pdf/plan_2024-2026_pp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 営業部門と技術部門との連携による顧客",
+    "url": "https://www.yotai.co.jp/pdf/plan_2024-2026_pp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客情報、営業活動情報のデジタル化による新規顧客開拓",
+    "url": "https://www.yotai.co.jp/pdf/plan_2024-2026_pp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◼ 業績面では、主要取引先である鉄鋼業界の国内粗鋼生産量、中国原料の価格動向、円安等の影響を受ける",
+    "url": "https://www.yotai.co.jp/pdf/plan_2024-2026_pp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◼ 一方で、強固な顧客基盤と財務体質により、安定的に利益を確保できる体制がある",
+    "url": "https://www.yotai.co.jp/pdf/plan_2024-2026_pp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "同社は耐火物の研究開発から製造、さらには施工管理まで一貫して手がけることで、顧客のトラブルを減らし生産ラインの稼働率を高めています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "ヨータイはこの需要を正確につかみ、顧客にとっての総合的な価値を提供することで、信頼を築きやすくなっています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、工業炉の現地調査から施工、稼働後のメンテナンスまでを一括で行うため、顧客企業は複数の業者と契約する手間を省けるのも特長です",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "このしくみにより、顧客からの信頼度やリピート率も高まり、安定した受注につながっています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの人材と設備がそろうことで、新製品開発や顧客ニーズへの柔軟な対応が可能になり、市場での優位性を維持しています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客企業へ足を運び、課題をヒアリングしながら最適な製品や施工プランを提案するため、フェイス・トゥ・フェイスのコミュニケーションが重視されています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、直接接触を通じて顧客の細かい要望や実際の現場状況を把握し、提案の精度を高める方法が選ばれています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との関係",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、製品供給だけでなく工業炉の施工とメンテナンスを一括で手がけることで、長期的に顧客と関係を築いています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "定期的なメンテナンス契約を結ぶことにより、継続的にサポートを行い、顧客企業の設備稼働率を上げる仕組みです",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客セグメント",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "主な顧客セグメントは、鉄鋼やセメントなどの基幹産業と非鉄金属やガラス、電子部品メーカーなど幅広い製造業です",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の求める製品性能が年々高度化しており、より長持ちする耐火物や環境負荷を減らす技術への期待が高まっているからです",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "同社の自己強化ループは、大きく分けて製品技術と顧客満足度の二つがかみ合う形で機能しています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "まず、研究開発や施工の現場で培われたノウハウが新たな耐火物の品質向上につながり、それによって顧客の評価や信頼度がさらに高まります",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした流れにより、耐火物の性能が進化していくだけでなく、施工やメンテナンス技術のレベルも上がるため、新規顧客の開拓や既存顧客の長期契約につながりやすくなります",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "エンジニアリングサービスの高度化やデジタル技術の導入によって、メンテナンスや保守の効率化が進めば、長期的な顧客満足度の向上とコスト削減につながる点も見逃せません",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "岡山県に2工場、大阪府・岐阜県にそれぞれ1工場、さらに中国に1工場と計5つの製造拠点を持ち、国内外の顧客に製品と技術を供給し続けている",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "品川リフラクトリーズ（旧品川白煉瓦）、黒崎播磨、TYK（東京窯業）、美濃窯業などが主要な競合企業であり、各社が得意とする分野や顧客基盤を持っている",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "耐火物の製造には長年の技術蓄積が不可欠で、原料の調合技術、焼成プロセスの管理ノウハウ、そして顧客ごとにカスタマイズされた製品仕様の知見が必要になる",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "一度採用されると、メーカーを切り替えるにはリスクとコストが伴うため、スイッチングコストが高く、顧客との長期的な関係が構築されやすい",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "ヨータイが5つの製造拠点を持ち、それぞれが異なる製品ラインを担当していることは、この多様な顧客ニーズに対応するための生産体制と考えられる",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "JIS規格への適合はもちろん、顧客ごとに定められた独自の品質基準をクリアすることが求められる",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "高い技術力が高品質製品を生み、高品質製品が顧客からの信頼を勝ち取り、信頼が安定受注につながり、安定受注が利益率を支える──このバリューチェーン全体がヨータイの競争優位性の本質だ",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "これは参入障壁の高い業界構造、多様な顧客基盤、そして堅実な経営スタイルの賜物と言える",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": ". 報告セグメントごとの売上高、利益又は損失、資産、その他の項目の金額に関する情報 前連結会計年度（自 平成27年４月１日 至 平成28年３月31日） (単位：千円) 報告セグメントその他合計耐火物等エンジニアリング計売上高 外部顧客への売上高18,105,4123,360,36821,465,781―21,465,781 セグメント間の内部売上高 又は振替高―――――計18,105,4123,360,36821,465,781―21,465,781セグメント利益2,115",
+    "url": "https://kabuyomi.jp/stock/5357",
+    "pass": 3
+   },
+   {
+    "quote": "※この情報は、転職会議ユーザーによる投稿データから算出しています",
+    "url": "https://jobtalk.jp/companies/1733/answers/8809296",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "(売上高営業利益率)",
+    "url": "https://www.yotai.co.jp/pdf/plan_2024-2026_pp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◼ 当社が強みを持つ分野での国内・海外需要の",
+    "url": "https://www.yotai.co.jp/pdf/plan_2024-2026_pp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "多様な業種と取引する強みを活かし、売上拡大と収益性の改",
+    "url": "https://www.yotai.co.jp/pdf/plan_2024-2026_pp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "に、当社が強みを持つ分野での地域のニーズ",
+    "url": "https://www.yotai.co.jp/pdf/plan_2024-2026_pp.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株式会社ヨータイは、高品質な耐火物と工業炉向けのエンジニアリングサービスをまとめて提供できる点が大きな強みです",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "ヨータイの強みは、この業界構造の変化に対応できるポジションにあることだ",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "この「製品＋サービス」の一体提供モデルは、単なる材料メーカーとは一線を画す競争優位性となっている",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "もうひとつ、耐火物業界を理解する上で重要なのが「参入障壁の高さ」だ",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "このような参入障壁の高さは、既存プレーヤーにとっては安定した市場環境を意味し、ヨータイのような老舗企業にとっては特に有利に働く要因だ",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "耐火物製品の技術的特性──何がヨータイの強みを支えているのか",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "こうした技術的な強みは、財務諸表の数字には直接表れにくいが、営業利益率11%超という高収益を支える「見えない資産」として非常に重要だ",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "高い技術力が高品質製品を生み、高品質製品が顧客からの信頼を勝ち取り、信頼が安定受注につながり、安定受注が利益率を支える──このバリューチェーン全体がヨータイの競争優位性の本質だ",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "耐火物業界の主要プレーヤーを概観し、ヨータイの相対的な強み・弱みを明らかにしておこう",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "日本製鉄との資本関係が深く、鉄鋼向けに強みを持つ",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "美濃窯業（証券コード：5356）は、売上高約200億円規模の中堅企業で、不定形耐火物に強みを持つ",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "売上規模では大手2社に大きく劣後するが、収益性（営業利益率11%超）と財務健全性（自己資本比率80%超）では業界トップクラスの水準にある",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "これは参入障壁の高い業界構造、多様な顧客基盤、そして堅実な経営スタイルの賜物と言える",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率を見てみると、当期の9ヶ月間の営業利益率は25億89百万円 ÷ 220億69百万円 ＝ 11.7%だ",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "製造業全体の営業利益率の平均が概ね5〜7%程度であることを考えると、ヨータイの11%台後半という営業利益率は、この業界における収益性の高さを如実に示している",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "決算資料をもとに、事業内容・収益構造・強み・成長戦略を整理し、「この会社は何で稼ぎ、どこへ向かっているのか」がわかる企業分析レポートを発信しています",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率（％）",
+    "url": "https://kabuyomi.jp/stock/5357",
+    "pass": 3
+   },
+   {
+    "quote": "売上総利益率（％）",
+    "url": "https://kabuyomi.jp/stock/5357",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率の数字から、会社の説明へ",
+    "url": "https://kabuyomi.jp/stock/5357",
+    "pass": 3
+   },
+   {
+    "quote": "売上総利益率の数字から、会社の説明へ",
+    "url": "https://kabuyomi.jp/stock/5357",
+    "pass": 3
+   },
+   {
+    "quote": "会社の対処すべき課題当社には、①当社が強みを持つ分野での国内・海外需要の取り込み・戦略的な営業体制の構築②不確実性の高まりに対応する経営体制の整備③原料の備蓄体制の強化と中国以外の調達先の拡大④建設業・物流業2024年問題を考慮したサプライチェーンマネジメント⑤ＤＸ推進と人的資本への投資⑥さらなる低コスト・省人化を視野に入れた設備投資⑦カーボンニュートラル実現に向けた設備投資という課題があります",
+    "url": "https://kabuyomi.jp/stock/5357",
+    "pass": 3
+   },
+   {
+    "quote": "会社の対処すべき課題当社には、①当社の強みを生かした製品・サービスの提供による他社との差別化②質の高い製品・サービス提供を支えるスタッフの増員と育成、従業員満足度向上③持続的なコスト・安定供給体制の構築④ＡＩ・ＩｏＴ・ＩＣＴ技術の活用による合理化・効率化の加速⑤カーボンニュートラルへの対応、ＥＳＧ経営の推進による経営基盤強化・リスク対応強化という課題があります",
+    "url": "https://kabuyomi.jp/stock/5357",
+    "pass": 3
+   },
+   {
+    "quote": "【高配当株】ヨータイ（5357） ★3.3 高収益な耐火物メーカー、5％配当と上場維持リスクをどう見るか",
+    "url": "https://kabuyomi.jp/stock/5357",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率は約12%",
+    "url": "https://kabuyomi.jp/stock/5357",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "株式会社ヨータイのビジネスモデルと成長戦略はここが魅力 | チームマイクの企業分析",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ヨータイのビジネスモデルと成長戦略はここが魅力",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルと成長戦略に注目しながら、その動向を見守る価値が高い企業といえるでしょう",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "石塚硝子株式会社の成長戦略 最新IR資料からビジネスモデルを紐解く",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "日本コンクリート工業の魅力的なビジネスモデルとは",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "美濃窯業のビジネスモデルを探る 100年超の技術が生む成長戦略",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "Mipoxのビジネスモデルを深堀りしよう IR資料にも注目した成長戦略",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "日本山村硝子株式会社のビジネスモデルと成長戦略を徹底解説",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社黒崎播磨のビジネスモデルと成長戦略を徹底解説",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社日本興業が切り開くビジネスモデルと成長戦略",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社SECカーボンのビジネスモデルで読み解く成長戦略",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ドライケミカル株式会社の『ビジネスモデル』と圧倒的競争力を解",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社動力のIR資料から紐解く次世代へのビジネスモデルと成長戦略",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ガイシの驚異的なビジネスモデルと次世代へ向けた成長戦略を徹底解説",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "マーチャント・バンカーズの隠された成長戦略と驚異のビジネスモデル",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "これは耐火物メーカーにとってリカーリング（継続的）収入を生み出す構造であり、ビジネスモデルとしての底堅さの源泉となっている",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "第二に、エンジニアリング事業の比率が比較的高く、製品販売だけに依存しない収益構造を持つ点だ",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "多くの企業が赤字に転落する中での黒字確保は、ヨータイの収益構造の底堅さを象徴するエピソードだ",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "決算資料をもとに、事業内容・収益構造・強み・成長戦略を整理し、「この会社は何で稼ぎ、どこへ向かっているのか」がわかる企業分析レポートを発信しています",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "同社の主要活動には、耐火物の製造・販売と工業炉の設計・施工・保守が含まれます",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "エンジニアリングサービスの高度化やデジタル技術の導入によって、メンテナンスや保守の効率化が進めば、長期的な顧客満足度の向上とコスト削減につながる点も見逃せません",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "これは耐火物メーカーにとってリカーリング（継続的）収入を生み出す構造であり、ビジネスモデルとしての底堅さの源泉となっている",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "月額500円で190記事以上の記事が読み放題",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "月額30日無料体験・カード登録あり",
+    "url": "https://kabuyomi.jp/stock/5357",
+    "pass": 3
+   },
+   {
+    "quote": "月額980円（税込）",
+    "url": "https://kabuyomi.jp/stock/5357",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%9B%E5%AE%AE%E5%92%8C%E7%94%9F",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "顧客セグメント",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "主な顧客セグメントは、鉄鋼やセメントなどの基幹産業と非鉄金属やガラス、電子部品メーカーなど幅広い製造業です",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "キャッシュフロー計算書が省略されることが多く、セグメント情報も簡略化される",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別分析──二つの顔と、明暗の分かれ方",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "新日鉄住金（現・日本製鉄）グループとの関係が深く、鉄鋼向け売上比率が非常に高い",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "箱を選ぶと金額と構成比を表示",
+    "url": "https://kabuyomi.jp/stock/5357",
+    "pass": 3
+   },
+   {
+    "quote": ". 報告セグメントごとの売上高、利益又は損失、資産、その他の項目の金額に関する情報 前連結会計年度（自 平成27年４月１日 至 平成28年３月31日） (単位：千円) 報告セグメントその他合計耐火物等エンジニアリング計売上高 外部顧客への売上高18,105,4123,360,36821,465,781―21,465,781 セグメント間の内部売上高 又は振替高―――――計18,105,4123,360,36821,465,781―21,465,781セグメント利益2,115",
+    "url": "https://kabuyomi.jp/stock/5357",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社ヨータイのビジネスモデルと成長戦略はここが魅力 | チームマ... — Feb 10, 2025 · こうした背景を踏まえると、株式会社ヨータイは安定した耐火物市場にとどまらず、新分野への展開やグローバル需要の取り込みなど、多面的な成長戦略を打ち出す余地があると期待されています。",
+    "url": "https://consovation.com/株式会社ヨータイのビジネスモデルと成長戦略は/",
+    "pass": 3
+   },
+   {
+    "quote": "静かなる要塞──ヨータイ（5357）決算徹底解剖、自己資本比率80%・配当... — Apr 1, 2026 · 定形品に比べて施工の自由度が高く、複雑な形状の設備にも対応できるため、近年需要が拡大している。 ヨータイは両方のタイプの耐火物を製造しているが、特に不定形耐火物における技術力に定評があるとされる。",
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ヨータイ（大阪府） (5357 東証プライム)の会社概要・売上・... — Jun 24, 2026 · 直近の動き ヨータイ、2026年3月期決算で売上高295億円、上場維持基準適合計画を公表 株式会社ヨータイの直近の動向として、2025年8月8日に2026年3月期第1四半期決算短信を公表し、譲渡制限付株式報酬としての自己株式の処分の払込完了も告知しました。",
+    "url": "https://compalyze.co.jp/company/8120101038845",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ヨータイの事業適応計画のポイント — 株式会社ヨータイの事業適応計画のポイント • 当社では、生産工程効率化等設備として、3000tクラスの大型高压プレス機、1500tクラスの大型高压プレス機、太陽光発電設備をそれぞれ導入します。",
+    "url": "https://www.meti.go.jp/policy/economy/kyosoryoku_kyoka/point24cn.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中期経営計画｜株式会社ヨータイ - yotai.co.jp — 第二次中期経営計画 (2024-2026年度) Management Plan",
+    "url": "https://www.yotai.co.jp/plan.html",
+    "pass": 3
+   },
+   {
+    "quote": "ヨータイのIR資料 - 5357 / プライム / ガラス・土石製品 | バフェッ... — Aug 7, 2026 · ヨータイ（5357 / プライム / ガラス・土石製品）のIR資料の一覧を表示しています。 有価証券報告書や決算短信、そしてTDnetで開示された適時開示資料をPDFでご覧になれます。",
+    "url": "https://www.buffett-code.com/company/5357/library",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ヨータイ（5357）適時開示・決算短信 一覧｜毎日更新｜Treel... — 株式会社 ヨータイ（5357）の適時開示 2 件：決算短信・決算説明会資料・業績予想修正など、TDnet から毎日収集。PDF 原文へのリンク付き。",
+    "url": "https://treelazy.com/stock-jp/5357/conference",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ヨータイ（5357）有価証券報告書・半期報告書 ダウンロード... — 株式会社 ヨータイ（証券コード 5357）の決算資料をまとめて掲載。 有価証券報告書・半期報告書 12 件。 PDF は EDINET の原本へ直接リンクしています。",
+    "url": "https://treelazy.com/stock-jp/5357",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ヨータイ — IR資料 - EDINET DB — EDINET DB > 企業一覧 > 株式会社 ヨータイ > IR資料 株式会社 ヨータイ — IR資料 統合報告書・中期経営計画・決算説明資料などのIR資料を、AIがセクション単位で構造化したデータです。 本文の検索・テーマタグでの絞り込みが可能です。",
+    "url": "https://edinetdb.jp/company/E01147/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリ｜株式会社ヨータイ — 2021.5.13 役員の異動に関するお知らせ 2021.5.13 自己株式取得に係る事項の決定に関するお知らせ 2021.5.13 剰余金の配当（増配）に関するお知らせ 2021.5.13 2021-2023年度 中期経営計画策定に関するお知らせ（資料含む）",
+    "url": "https://www.yotai.co.jp/library.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜株式会社ヨータイ - yotai.co.jp有価証券報告書 2026年3月期ヨータイ【5357】の事業内容 - キタイシホンヨータイ（5357）｜上場企業 事業内容の全文株式会社 ヨータイ【5357】事業リスク・経営方針・配当方針はいずれも...株式会社 ヨータイ 有価証券報告書 全文（最新）｜事業内容・リスク・... — 事業内容 耐火物事業 エンジニアリング事業 ニューセラミックス事業 統合報告書 統合報告書 製品情報 非鉄金属 セメント ガラス カーボンブラック 電子部品 不定形品 IR情報 IRトップ 株主・投資家の皆さまへ IRライブラリ 株式情報 IRカレンダー 業績 ... 有価証券報告書 1 本書は金融商品取引法第24 条第1 項に基づく有価証券報告書を、同法第27 条の30 の2 に規定する開示用電子情報処理組織(EDINET)を使用して、2026 年6 月10",
+    "url": "https://www.yotai.co.jp/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ヨータイ【5357】事業リスク・経営方針・配当方針はいずれも... — Jun 24, 2026 · 株式会社 ヨータイ（5357）の有報を経年比較。財務諸表を図解し、事業リスク・経営方針・配当方針はいずれも前期から実質的に不変。今期の3行要約、前年から変わった記載、最大14期の業績と配当、事業リスク、次に追う論点をEDINETの一次情報から整理。",
+    "url": "https://kabuyomi.jp/stock/5357",
+    "pass": 3
+   },
+   {
+    "quote": "中期経営計画｜株式会社ヨータイ — 事業内容 耐火物事業 エンジニアリング事業 ニューセラミックス事業 統合報告書 統合報告書 製品情報 非鉄金属 セメント ガラス カーボンブラック 電子部品 不定形品 IR情報 IRトップ 株主・投資家の皆さまへ IRライブラリ 株式情報 IRカレンダー 業績 ...",
+    "url": "https://www.yotai.co.jp/plan.html",
+    "pass": 3
+   },
+   {
+    "quote": "ヨータイ【5357】の事業内容 - キタイシホン — 「エンジニアリング」 耐火物を使用する各種工業用窯炉、環境設備等の設計・施工を行っており、必要に応じてメンテナンス工事等を請け負っております。 事業の系統図は次のとおりであります。",
+    "url": "https://kitaishihon.com/company/5357/business",
+    "pass": 3
+   },
+   {
+    "quote": "ヨータイ（5357）｜上場企業 事業内容の全文 — エンジニアリング メンテナンス セグメント アルミナ セメント メーカー れんが ガラス 不可欠 子会社 以来 使用 公司 出口 創立 化学 区分 各種 営口 営業 基礎 塩基 定形 専門 工事 工業 必要 施工 有限 構成 珪石 環境 窯業 粘土 系統 納入 耐火 耐進 装置 ...",
+    "url": "https://jigyou.kabu-trendpro.com/company.php?ticker=5357",
+    "pass": 3
+   },
+   {
+    "quote": "四宮和生 - Wikipedia — ↑ 四宮和生 役員の略歴株式会社 ヨータイ 役員の略歴 (2014年3月期) どんぶり会計β版 ↑ 人事 ヨータイ 日本経済新聞 2015年4月9日 ↑ CiNii収録論文 編集 カテゴリ 日本の実業家 山口大学出身の人物 徳島県出身の人物 1946年生 存命人物 プロジェクト人物伝項目",
+    "url": "https://ja.wikipedia.org/wiki/四宮和生",
+    "pass": 3
+   },
+   {
+    "quote": "ヨータイの社長と経営方針【代表 : 田口 三男】(全1件)「【良い点】私... — May 21, 2026 · 【社長】田口 三男 【気になること・改善したほうがいい点】 ヨータイで働く中で感じた課題としては、まず製造業ということもあり、現場によっては業務量や忙しさに波がある点です... 続きを読む (全676文字)",
+    "url": "https://jobtalk.jp/companies/1733/answers/8809296",
+    "pass": 3
+   },
+   {
+    "quote": "ヨータイの社長は誰？田口三男氏の経歴・就任年【5357】 | 企業スコー... — 株式会社 ヨータイの社長は田口三男氏（取締役社長（代表取締役）・65歳）。 2019年6月に社長に就任。 有価証券報告書（2026年3月期）の「役員の状況」から、経歴と取締役の一覧をまとめました。",
+    "url": "https://kigyo-scope.jp/company/5357/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "耐火物で未来を創造 株式会社ヨータイ — 株式会社ヨータイのIR情報です。 会社概要 社長挨拶 会社概要 沿革 企業理念 中期経営計画 拠点一覧 CSR活動 健康経営 事業内容 耐火物事業 エンジニアリング事業 ニューセラミックス事業 統合報告書 統合報告書 製品情報 非鉄金属 セメント ガラス カーボンブラック 電子部品 不定形品 IR情報 IR ...",
+    "url": "https://www.yotai.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "社長挨拶｜株式会社 ヨータイ — 社長挨拶 「任せてよかった」と 信頼される企業であり続けるために 当社は「旧大阪窯業耐火煉瓦」創業より83年、「旧大阪窯業」創業より137年の、長い歴史のある会社であり、重工業の発展の一端を担ってまいりました。",
+    "url": "https://www.yotai.co.jp/greeting.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.yotai.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yotai.co.jp/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yotai.co.jp/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yotai.co.jp/plan.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yotai.co.jp/library.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yotai.co.jp/ir.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yotai.co.jp/shareholder.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yotai.co.jp/calendar.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yotai.co.jp/ir/j_annual.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yotai.co.jp/refractories.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yotai.co.jp/ir/notice.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.yotai.co.jp/en/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yotai.co.jp/en/library.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yotai.co.jp/ir/form.php?pid=1",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.yotai.co.jp/en/officelist.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yotai.co.jp/en/newceramics.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.yotai.co.jp/pdf/plan_2024-2026_pp.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.yotai.co.jp/pdf/report_2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.yotai.co.jp/pdf/integrated_report_2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.yotai.co.jp/pdf/report_2024_v2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.yotai.co.jp/pdf/integrated_report_2024.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.yotai.co.jp/pdf/report_2023.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.yotai.co.jp/pdf/integrated_report_2023.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.yotai.co.jp/pdf/report_2022_re.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.yotai.co.jp/img/img-common/gnav_business01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.yotai.co.jp/img/img-common/gnav_business02.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.yotai.co.jp/img/img-common/gnav_business03.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.yotai.co.jp/en/img/img-common/gnav_company05.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.yotai.co.jp/en/img/img-common/gnav_business01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.yotai.co.jp/en/img/img-common/gnav_business02.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.yotai.co.jp/en/img/img-common/gnav_business03.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.yotai.co.jp/en/img/img-common/gnav_business03.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/asahikigyou/n/na7db40052689",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.buffett-code.com/company/5357/library",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://treelazy.com/stock-jp/5357/conference",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://kabuyomi.jp/stock/5357",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%9B%E5%AE%AE%E5%92%8C%E7%94%9F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jobtalk.jp/companies/1733/answers/8809296",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ヨータイ",
+   "results": [
+    "https://www.yotai.co.jp/company.html",
+    "https://www.yotai.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%BC%E3%82%BF%E3%82%A4",
+    "https://www.sbisec.co.jp/ETGate/WPLETsiR001Control/WPLETsiR001Ilst10/getDetailOfStockPriceJP?OutSide=on&getFlg=on&stock_sec_code_mul=5357&exchange_code=JPN",
+    "https://kabutan.jp/stock/?code=5357",
+    "https://www.yotai.co.jp/recruit.html",
+    "https://www.nikkei.com/nkd/company/?scode=5357",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__00004912167/",
+    "https://ja.wikipedia.org/wiki/ヨータイ"
+   ]
+  },
+  {
+   "query": "ヨータイ ビジネスモデル",
+   "results": [
+    "https://consovation.com/株式会社ヨータイのビジネスモデルと成長戦略は/",
+    "https://note.com/asahikigyou/n/na7db40052689",
+    "https://compalyze.co.jp/company/8120101038845",
+    "https://www.meti.go.jp/policy/economy/kyosoryoku_kyoka/point24cn.pdf",
+    "https://www.yotai.co.jp/plan.html",
+    "https://note.com/asahikigyou/n/nd61135f3b0bf",
+    "https://www.yotai.co.jp/en/"
+   ]
+  },
+  {
+   "query": "ヨータイ 決算説明資料",
+   "results": [
+    "https://www.buffett-code.com/company/5357/library",
+    "https://treelazy.com/stock-jp/5357/conference",
+    "https://treelazy.com/stock-jp/5357",
+    "https://edinetdb.jp/company/E01147/ir-docs/",
+    "https://www.yotai.co.jp/library.html",
+    "https://www.yotai.co.jp/ir.html",
+    "https://irbank.net/5357/ir"
+   ]
+  },
+  {
+   "query": "ヨータイ 事業系統図",
+   "results": [
+    "https://www.yotai.co.jp/company.html",
+    "https://kabuyomi.jp/stock/5357",
+    "https://www.yotai.co.jp/plan.html",
+    "https://kitaishihon.com/company/5357/business",
+    "https://jigyou.kabu-trendpro.com/company.php?ticker=5357",
+    "https://edinetdb.jp/company/E01147/text",
+    "https://global.toyota/pages/global_toyota/ir/library/securities-report/archives/archives_2026_03.pdf"
+   ]
+  },
+  {
+   "query": "ヨータイ 社長 インタビュー",
+   "results": [
+    "https://ja.wikipedia.org/wiki/四宮和生",
+    "https://jobtalk.jp/companies/1733/answers/8809296",
+    "https://kigyo-scope.jp/company/5357/ceo/",
+    "https://www.yotai.co.jp/",
+    "https://www.yotai.co.jp/greeting.html",
+    "https://kitaishihon.com/company/5357/board-of-director",
+    "https://donburi.accountant/history/?ds=116074&do=0"
+   ]
+  }
+ ],
+ "missing": {}
+}

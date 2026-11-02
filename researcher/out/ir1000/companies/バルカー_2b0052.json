@@ -1,0 +1,1904 @@
+{
+ "name": "バルカー",
+ "aliases": [],
+ "context": "証券コード7995／化学／プライム（内国株式）／2026.03期 売上高58,556百万円 営業利益率12.1%",
+ "researched_at": "2026-11-02T19:54:37.752477+00:00",
+ "official_url": "https://www.valqua.co.jp/",
+ "identified_by": "search:ddgs:google:バルカー",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "昭和2年1月21日",
+    "url": "https://www.valqua.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "昭和7年4月8日",
+    "url": "https://www.valqua.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1932年 （ 昭和 7年） 4月8日",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%AB%E3%82%AB%E3%83%BC_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "424名（グループでは1,582名、2026年3月31日現在）",
+    "url": "https://www.valqua.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "連結：1,682人　単独：417人 （2023年3月31日現在）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%AB%E3%82%AB%E3%83%BC_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "産業機器、化学、機械、エネルギー、通信機器、半導体、自動車、宇宙・航空産業等、あらゆる産業向けにファイバー、ふっ素樹脂、高機能ゴム等各種素材製品を設計、製造、加工および販売 ソフトウエア・情報機器の開発および販売、関連する電子商取引などインターネットを利用した各種サービスの提供、コンサルティング、エンジニアリング、その他技術・ノウハウに関する事業",
+    "url": "https://www.valqua.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "プラント・機器関連製品および工業用部品の製造・販売",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%AB%E3%82%AB%E3%83%BC_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "連結：621億78百万円 単独：376億13百万円 （2023年3月期）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%AB%E3%82%AB%E3%83%BC_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "顧客満足への取り組み",
+    "url": "https://www.valqua.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先等通報制度",
+    "url": "https://www.valqua.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客満足への取り組み",
+    "url": "https://www.valqua.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先等通報制度",
+    "url": "https://www.valqua.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客満足への取り組み",
+    "url": "https://www.valqua.co.jp/ir_info/strategy/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先等通報制度",
+    "url": "https://www.valqua.co.jp/ir_info/strategy/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客満足への取り組み",
+    "url": "https://www.valqua.co.jp/ir_info/stockinfo/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先等通報制度",
+    "url": "https://www.valqua.co.jp/ir_info/stockinfo/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客満足への取り組み",
+    "url": "https://www.valqua.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先等通報制度",
+    "url": "https://www.valqua.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客満足への取り組み",
+    "url": "https://www.valqua.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先等通報制度",
+    "url": "https://www.valqua.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客満足への取り組み",
+    "url": "https://www.valqua.co.jp/ir_info/immunity/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先等通報制度",
+    "url": "https://www.valqua.co.jp/ir_info/immunity/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客満足への取り組み",
+    "url": "https://www.valqua.co.jp/ir_info/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先等通報制度",
+    "url": "https://www.valqua.co.jp/ir_info/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客満足への取り組み",
+    "url": "https://www.valqua.co.jp/ir/individual_investor/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先等通報制度",
+    "url": "https://www.valqua.co.jp/ir/individual_investor/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客満足への取り組み",
+    "url": "https://www.valqua.co.jp/ir/meeting_report/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先等通報制度",
+    "url": "https://www.valqua.co.jp/ir/meeting_report/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客満足への取り組み",
+    "url": "https://www.valqua.co.jp/ir_info/ir-faq/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先等通報制度",
+    "url": "https://www.valqua.co.jp/ir_info/ir-faq/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客満足への取り組み",
+    "url": "https://www.valqua.co.jp/social/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先等通報制度",
+    "url": "https://www.valqua.co.jp/social/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客満足への取り組み",
+    "url": "https://www.valqua.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先等通報制度",
+    "url": "https://www.valqua.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客満足への取り組み",
+    "url": "https://www.valqua.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先等通報制度",
+    "url": "https://www.valqua.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客満足への取り組み",
+    "url": "https://www.valqua.co.jp/ir/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先等通報制度",
+    "url": "https://www.valqua.co.jp/ir/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客満足への取り組み",
+    "url": "https://www.valqua.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先等通報制度",
+    "url": "https://www.valqua.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用いただけるよう、個別のお客様のセキュリティポリシーや取引契約に柔軟に対応する 企業別 カスタム プラン",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/press/pr20260910%20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "樹脂加工品の調達プラットフォームとして、現在多くのお客様にご活用いただいております",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/press/pr20260910%20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その中で、試作段階から量産段階への移行を検討されるお客様からは、「社内セキュリティポリシーに準拠した認証への",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/press/pr20260910%20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "バルカーは、これらの声に応え、お客様が「量産のパートナー」として Quick Value をより本格的にご利用いただけるよう、",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/press/pr20260910%20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "企業別カスタムプランでは、主に以下 3 つの観点から機能・体制を強化し、お客様企業の量産フェーズを支援します",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/press/pr20260910%20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様ごとに専任担当者を配置し、仕入先登録（口座開設）に必要な情報提供や書面対応、契約関係の締結",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/press/pr20260910%20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "応じて開示し、お客様の品質監査や評価基準 、必要な書面（ 材質証明書、RoHS 対応、検査成績書など）に",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/press/pr20260910%20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2. お客様独自の「指定材質・個別グレード」への対応",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/press/pr20260910%20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "樹脂材質の特定メーカー、特定グレード指定 、仕様など、お客様の量産設計に合わせた個別グレードの追加に も対",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/press/pr20260910%20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様で使用頻度の高い材質・グレードについて優先的に自動見積化を進めてまいります",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/press/pr20260910%20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様ごとに専用のログイン URL をご用意し、データを論理的に分離して安全に保護します",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/press/pr20260910%20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "社内セキュリティポリシーへの適合 に必要な、該当テナント内の ログイン履歴、 ユーザー管理履歴 、システム操作ログ",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/press/pr20260910%20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様の社内セキュリティ要件、品質基準、個別契約などに応じた柔軟なプラン提案や ご相談を承っております",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/press/pr20260910%20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社を取り巻くステークホルダー（取引先、従業員、地域社会等）との信頼関係の維持・向上に努めます",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/ir/valqua_cgcr_20260618.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "権、顧客満足、コミュニティの8つを重点領域とした、17の重要課題を設定し、その重要課題に沿った具体的かつ積極的な取組みを推進しておりま",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/ir/valqua_cgcr_20260618.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "d 上場会社を主要な取引先とする者又はその業務執行者",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/ir/valqua_cgcr_20260618.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "e 上場会社の主要な取引先又はその業務執行者",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/ir/valqua_cgcr_20260618.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "h 上場会社の取引先（d、e及びｆのいずれにも該当しないもの）の業務執行者（本人のみ）",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/ir/valqua_cgcr_20260618.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "f 上場会社を主要な取引先とする者又はその業務執行者",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/ir/valqua_cgcr_20260618.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "g 上場会社の主要な取引先又はその業務執行者",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/ir/valqua_cgcr_20260618.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "j 上場会社の取引先（f、g及びhのいずれにも該当しないもの）の業務執行者（本人のみ）",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/ir/valqua_cgcr_20260618.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "①直前連結会計年度における当社と取引先との間の取引金額（製品・役務の提供、調達にかかる金額）が、支払いを受けた者の直前連結会計年",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/ir/valqua_cgcr_20260618.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "た、ホームページやコーポレートレポートでの報告に加え、外部機関・顧客等の調査に対",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/ir/valqua_cgcr_20260618.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株式会社バルカーは、高品質なシーリング製品を提供することで、顧客の装置や設備を長持ちさせ、結果としてコスト削減や安全性向上に貢献しています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%90%E3%83%AB%E3%82%AB%E3%83%BC%E3%81%AE%E9%AD%85%E5%8A%9B%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E8%AA%AC-2/",
+    "pass": 3
+   },
+   {
+    "quote": "また、環境に優しい素材の導入にも積極的で、持続可能な社会に貢献する姿勢が国内外の企業から評価され、顧客の幅を広げています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%90%E3%83%AB%E3%82%AB%E3%83%BC%E3%81%AE%E9%AD%85%E5%8A%9B%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E8%AA%AC-2/",
+    "pass": 3
+   },
+   {
+    "quote": "同社の主要活動は、新素材や製造技術の研究開発、製造ラインでの徹底した品質管理、そして顧客のニーズに合わせたカスタマイズ対応です",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%90%E3%83%AB%E3%82%AB%E3%83%BC%E3%81%AE%E9%AD%85%E5%8A%9B%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E8%AA%AC-2/",
+    "pass": 3
+   },
+   {
+    "quote": "画一的な製品だけでは顧客の要求を満たせないため、研究開発部門と生産部門が連携して、細かな調整を可能にする体制を整えています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%90%E3%83%AB%E3%82%AB%E3%83%BC%E3%81%AE%E9%AD%85%E5%8A%9B%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E8%AA%AC-2/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、顧客との長期的な信頼関係も重要なリソースであり、定期的なメンテナンスやアフターサポートを通じて得られるフィードバックが、次の製品開発につながるのです",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%90%E3%83%AB%E3%82%AB%E3%83%BC%E3%81%AE%E9%AD%85%E5%8A%9B%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E8%AA%AC-2/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "製品分野から探す",
+    "url": "https://www.valqua.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品番号から探す",
+    "url": "https://www.valqua.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "デジタルソリューション",
+    "url": "https://www.valqua.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "バルカーのモノとサービス",
+    "url": "https://www.valqua.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ここで活躍！バルカー製品",
+    "url": "https://www.valqua.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "設備点検プラットフォーム「MONiPLATⓇ」 特定メール自動電話通知サービス「急コール」と連携開始",
+    "url": "https://www.valqua.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂加工品の即時見積サービス『Quick ValueⓇ』が企業別カスタムプランを開始",
+    "url": "https://www.valqua.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ラインアップをご紹介します",
+    "url": "https://www.valqua.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当サイトでは、利用状況を把握し、サービス向上につなげるため、Cookieを使用します",
+    "url": "https://www.valqua.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品分野から探す",
+    "url": "https://www.valqua.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品番号から探す",
+    "url": "https://www.valqua.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "デジタルソリューション",
+    "url": "https://www.valqua.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "バルカーのモノとサービス",
+    "url": "https://www.valqua.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "当サイトでは、利用状況を把握し、サービス向上につなげるため、Cookieを使用します",
+    "url": "https://www.valqua.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品分野から探す",
+    "url": "https://www.valqua.co.jp/ir_info/strategy/",
+    "pass": 1
+   },
+   {
+    "quote": "製品番号から探す",
+    "url": "https://www.valqua.co.jp/ir_info/strategy/",
+    "pass": 1
+   },
+   {
+    "quote": "デジタルソリューション",
+    "url": "https://www.valqua.co.jp/ir_info/strategy/",
+    "pass": 1
+   },
+   {
+    "quote": "バルカーのモノとサービス",
+    "url": "https://www.valqua.co.jp/ir_info/strategy/",
+    "pass": 1
+   },
+   {
+    "quote": "当サイトでは、利用状況を把握し、サービス向上につなげるため、Cookieを使用します",
+    "url": "https://www.valqua.co.jp/ir_info/strategy/",
+    "pass": 1
+   },
+   {
+    "quote": "製品分野から探す",
+    "url": "https://www.valqua.co.jp/ir_info/stockinfo/",
+    "pass": 1
+   },
+   {
+    "quote": "製品番号から探す",
+    "url": "https://www.valqua.co.jp/ir_info/stockinfo/",
+    "pass": 1
+   },
+   {
+    "quote": "デジタルソリューション",
+    "url": "https://www.valqua.co.jp/ir_info/stockinfo/",
+    "pass": 1
+   },
+   {
+    "quote": "バルカーのモノとサービス",
+    "url": "https://www.valqua.co.jp/ir_info/stockinfo/",
+    "pass": 1
+   },
+   {
+    "quote": "当サイトでは、利用状況を把握し、サービス向上につなげるため、Cookieを使用します",
+    "url": "https://www.valqua.co.jp/ir_info/stockinfo/",
+    "pass": 1
+   },
+   {
+    "quote": "製品分野から探す",
+    "url": "https://www.valqua.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "製品番号から探す",
+    "url": "https://www.valqua.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "デジタルソリューション",
+    "url": "https://www.valqua.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "バルカーのモノとサービス",
+    "url": "https://www.valqua.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "当サイトでは、利用状況を把握し、サービス向上につなげるため、Cookieを使用します",
+    "url": "https://www.valqua.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "製品分野から探す",
+    "url": "https://www.valqua.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "製品番号から探す",
+    "url": "https://www.valqua.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "デジタルソリューション",
+    "url": "https://www.valqua.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "バルカーのモノとサービス",
+    "url": "https://www.valqua.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "当サイトでは、利用状況を把握し、サービス向上につなげるため、Cookieを使用します",
+    "url": "https://www.valqua.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "製品分野から探す",
+    "url": "https://www.valqua.co.jp/ir_info/immunity/",
+    "pass": 1
+   },
+   {
+    "quote": "製品番号から探す",
+    "url": "https://www.valqua.co.jp/ir_info/immunity/",
+    "pass": 1
+   },
+   {
+    "quote": "デジタルソリューション",
+    "url": "https://www.valqua.co.jp/ir_info/immunity/",
+    "pass": 1
+   },
+   {
+    "quote": "バルカーのモノとサービス",
+    "url": "https://www.valqua.co.jp/ir_info/immunity/",
+    "pass": 1
+   },
+   {
+    "quote": "当社およびバルカーグループ各社は、当ホームページとリンク関係にあるウェブサイト（以下、「第三者サイト」）の掲載内容（製品・サービス等）を推薦・奨励するものではありません",
+    "url": "https://www.valqua.co.jp/ir_info/immunity/",
+    "pass": 1
+   },
+   {
+    "quote": "当サイトでは、利用状況を把握し、サービス向上につなげるため、Cookieを使用します",
+    "url": "https://www.valqua.co.jp/ir_info/immunity/",
+    "pass": 1
+   },
+   {
+    "quote": "製品分野から探す",
+    "url": "https://www.valqua.co.jp/ir_info/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "製品番号から探す",
+    "url": "https://www.valqua.co.jp/ir_info/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "デジタルソリューション",
+    "url": "https://www.valqua.co.jp/ir_info/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "バルカーのモノとサービス",
+    "url": "https://www.valqua.co.jp/ir_info/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "当サイトでは、利用状況を把握し、サービス向上につなげるため、Cookieを使用します",
+    "url": "https://www.valqua.co.jp/ir_info/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "製品分野から探す",
+    "url": "https://www.valqua.co.jp/ir/individual_investor/",
+    "pass": 1
+   },
+   {
+    "quote": "製品番号から探す",
+    "url": "https://www.valqua.co.jp/ir/individual_investor/",
+    "pass": 1
+   },
+   {
+    "quote": "デジタルソリューション",
+    "url": "https://www.valqua.co.jp/ir/individual_investor/",
+    "pass": 1
+   },
+   {
+    "quote": "バルカーのモノとサービス",
+    "url": "https://www.valqua.co.jp/ir/individual_investor/",
+    "pass": 1
+   },
+   {
+    "quote": "当サイトでは、利用状況を把握し、サービス向上につなげるため、Cookieを使用します",
+    "url": "https://www.valqua.co.jp/ir/individual_investor/",
+    "pass": 1
+   },
+   {
+    "quote": "製品分野から探す",
+    "url": "https://www.valqua.co.jp/ir/meeting_report/",
+    "pass": 1
+   },
+   {
+    "quote": "製品番号から探す",
+    "url": "https://www.valqua.co.jp/ir/meeting_report/",
+    "pass": 1
+   },
+   {
+    "quote": "デジタルソリューション",
+    "url": "https://www.valqua.co.jp/ir/meeting_report/",
+    "pass": 1
+   },
+   {
+    "quote": "バルカーのモノとサービス",
+    "url": "https://www.valqua.co.jp/ir/meeting_report/",
+    "pass": 1
+   },
+   {
+    "quote": "当サイトでは、利用状況を把握し、サービス向上につなげるため、Cookieを使用します",
+    "url": "https://www.valqua.co.jp/ir/meeting_report/",
+    "pass": 1
+   },
+   {
+    "quote": "製品分野から探す",
+    "url": "https://www.valqua.co.jp/ir_info/ir-faq/",
+    "pass": 1
+   },
+   {
+    "quote": "製品番号から探す",
+    "url": "https://www.valqua.co.jp/ir_info/ir-faq/",
+    "pass": 1
+   },
+   {
+    "quote": "デジタルソリューション",
+    "url": "https://www.valqua.co.jp/ir_info/ir-faq/",
+    "pass": 1
+   },
+   {
+    "quote": "バルカーのモノとサービス",
+    "url": "https://www.valqua.co.jp/ir_info/ir-faq/",
+    "pass": 1
+   },
+   {
+    "quote": "当サイトでは、利用状況を把握し、サービス向上につなげるため、Cookieを使用します",
+    "url": "https://www.valqua.co.jp/ir_info/ir-faq/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "会社・拠点紹介",
+    "url": "https://www.valqua.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "技術広報誌をご紹介",
+    "url": "https://www.valqua.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ラインアップをご紹介します",
+    "url": "https://www.valqua.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "バルカーの技術情報誌を紹介しています",
+    "url": "https://www.valqua.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "社会貢献について紹介しています",
+    "url": "https://www.valqua.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "会社・拠点紹介",
+    "url": "https://www.valqua.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "会社・拠点紹介",
+    "url": "https://www.valqua.co.jp/ir_info/strategy/",
+    "pass": 1
+   },
+   {
+    "quote": "当社代表取締役会長CEOの瀧澤利一より皆さまへのメッセージをご紹介いたします",
+    "url": "https://www.valqua.co.jp/ir_info/strategy/",
+    "pass": 1
+   },
+   {
+    "quote": "会社・拠点紹介",
+    "url": "https://www.valqua.co.jp/ir_info/stockinfo/",
+    "pass": 1
+   },
+   {
+    "quote": "会社・拠点紹介",
+    "url": "https://www.valqua.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "会社・拠点紹介",
+    "url": "https://www.valqua.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "会社・拠点紹介",
+    "url": "https://www.valqua.co.jp/ir_info/immunity/",
+    "pass": 1
+   },
+   {
+    "quote": "会社・拠点紹介",
+    "url": "https://www.valqua.co.jp/ir_info/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "会社・拠点紹介",
+    "url": "https://www.valqua.co.jp/ir/individual_investor/",
+    "pass": 1
+   },
+   {
+    "quote": "会社・拠点紹介",
+    "url": "https://www.valqua.co.jp/ir/meeting_report/",
+    "pass": 1
+   },
+   {
+    "quote": "会社・拠点紹介",
+    "url": "https://www.valqua.co.jp/ir_info/ir-faq/",
+    "pass": 1
+   },
+   {
+    "quote": "会社・拠点紹介",
+    "url": "https://www.valqua.co.jp/social/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "誠実で開かれた対話を通じ、共に価値を生み出すパートナーシップを築きます",
+    "url": "https://www.valqua.co.jp/social/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "会社・拠点紹介",
+    "url": "https://www.valqua.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "会社・拠点紹介",
+    "url": "https://www.valqua.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "会社・拠点紹介",
+    "url": "https://www.valqua.co.jp/recruit/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社・拠点紹介",
+    "url": "https://www.valqua.co.jp/ir/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "会社・拠点紹介",
+    "url": "https://www.valqua.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "国内外のバルカーグループ各社をご紹介いたします",
+    "url": "https://www.valqua.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "「THE VALQUA WAY」をご紹介いたします",
+    "url": "https://www.valqua.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の社名［VALQUA］の由来と基本理念をご紹介します",
+    "url": "https://www.valqua.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "創業から現在に至るまでの変遷をご紹介いたします",
+    "url": "https://www.valqua.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "国内の販売拠点・製造拠点をご紹介いたします",
+    "url": "https://www.valqua.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "海外の販売拠点・製造拠点をご紹介いたします",
+    "url": "https://www.valqua.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "▼ 「急コール」連携の詳細はこちら（MONiPLAT 連携ソリューション紹介ページ）",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/press/pr20260917.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "バルカーは、これらの声に応え、お客様が「量産のパートナー」として Quick Value をより本格的にご利用いただけるよう、",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/press/pr20260910%20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(4)取締役会が、経営陣幹部の選解任と取締役・監査役候補者の指名を行う際の方針と手続",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/ir/valqua_cgcr_20260618.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "行役員）、取締役または監査役として職責を全うできる適任者であるかどうかを、選解任および指名の方針としており、社外取締役が3名含まれる",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/ir/valqua_cgcr_20260618.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取締役会において、経営陣幹部（執行役員）については選解任を行い、取締役または監査役候補者については指名しております",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/ir/valqua_cgcr_20260618.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "補者については、指名報酬諮問委員会が審議し決定のうえ取締役会に対して答申を行い、取締役会がその答申を十分に尊重し指名することとし",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/ir/valqua_cgcr_20260618.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(5)経営陣幹部の選解任、取締役・監査役候補者の指名についての、個々の説明",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/ir/valqua_cgcr_20260618.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "経営陣幹部（執行役員）の個々の選解任については、当社ウェブサイト等において、取締役候補者および監査役候補者の個々の指名について",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/ir/valqua_cgcr_20260618.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、取締役の指名・報酬等に係る手続きの公平性・透明性・客観性を強化し、コーポレート・ガバナンスの充実を図ることを目的として、指名報",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/ir/valqua_cgcr_20260618.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、委員長は指名報酬諮問委員会で委員のなかから選定しております",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/ir/valqua_cgcr_20260618.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⑤ その他指名・報酬に関わる経営上の重要事項で、委員全員が審議の必要性を認めた事項",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/ir/valqua_cgcr_20260618.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "行役員）、取締役または監査役として職責を全うできる適任者であるかどうかを、選解任および指名の方針としております",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/ir/valqua_cgcr_20260618.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名委員会又は報酬委員会に相当する",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/ir/valqua_cgcr_20260618.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名委員会に相当",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/ir/valqua_cgcr_20260618.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名報酬諮問委員",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/ir/valqua_cgcr_20260618.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名報酬諮問委員会設置の状況、同委員会での審議事項等につきましては、本報告書「Ⅰ-1【コーポレートガ",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/ir/valqua_cgcr_20260618.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "図るため、2023年12月26日に取締役会の任意の諮問機関として、取締役会の決議によって選定された取締役を委員として構成する「指名報酬諮",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/ir/valqua_cgcr_20260618.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．業務執行、監査・監督、指名、報酬決定等の機能に係る事項（現状のコーポレート・ガバナンス体制の概要）",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/ir/valqua_cgcr_20260618.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "同社は原材料サプライヤーや販売代理店、さらに大学や専門機関と連携しています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%90%E3%83%AB%E3%82%AB%E3%83%BC%E3%81%AE%E9%AD%85%E5%8A%9B%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E8%AA%AC-2/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜそうなったのかというと、シーリング材事業は一社単独で全てをまかなうには非常に難しく、多様なパートナーとの協力が欠かせないからです",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%90%E3%83%AB%E3%82%AB%E3%83%BC%E3%81%AE%E9%AD%85%E5%8A%9B%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E8%AA%AC-2/",
+    "pass": 3
+   },
+   {
+    "quote": "新素材開発には大学との共同研究が必要な場合があり、生産能力の拡大や海外展開には信頼できる代理店や流通企業との協力が不可欠です",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%90%E3%83%AB%E3%82%AB%E3%83%BC%E3%81%AE%E9%AD%85%E5%8A%9B%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E8%AA%AC-2/",
+    "pass": 3
+   },
+   {
+    "quote": "リスクを分散し、スピーディーな事業拡大を実現するために、各分野の専門家や企業と強固なパートナーシップを築いています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%90%E3%83%AB%E3%82%AB%E3%83%BC%E3%81%AE%E9%AD%85%E5%8A%9B%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E8%AA%AC-2/",
+    "pass": 3
+   },
+   {
+    "quote": "販売チャンネルは、直販と代理店経由の2つに大別されます",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%90%E3%83%AB%E3%82%AB%E3%83%BC%E3%81%AE%E9%AD%85%E5%8A%9B%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E8%AA%AC-2/",
+    "pass": 3
+   },
+   {
+    "quote": "直販では営業担当者が顧客と直接コミュニケーションを取り、細かな要望に応える一方、代理店経由では、地域や業界に精通したパートナーが幅広い顧客層に製品を届けています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%90%E3%83%AB%E3%82%AB%E3%83%BC%E3%81%AE%E9%AD%85%E5%8A%9B%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E8%AA%AC-2/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜそうなったのかというと、シーリング材にはニッチな用途から大規模なものまで多様な需要があるため、直販と代理店を使い分けることで、コストを抑えながら効率的に新規顧客へアプローチできるからです",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%90%E3%83%AB%E3%82%AB%E3%83%BC%E3%81%AE%E9%AD%85%E5%8A%9B%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E8%AA%AC-2/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜそうなったのかというと、現場でのトラブルは生産ラインの停止や大きな損害につながるため、顧客企業は安心して任せられるパートナーを求めているからです",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%90%E3%83%AB%E3%82%AB%E3%83%BC%E3%81%AE%E9%AD%85%E5%8A%9B%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E8%AA%AC-2/",
+    "pass": 3
+   },
+   {
+    "quote": "同社は製品販売だけでなく、迅速なアフターサポートや技術提案を通じて、信頼関係を深め、長期的なパートナーシップへとつなげています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%90%E3%83%AB%E3%82%AB%E3%83%BC%E3%81%AE%E9%AD%85%E5%8A%9B%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E8%AA%AC-2/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%90%E3%83%AB%E3%82%AB%E3%83%BC%E3%81%AE%E9%AD%85%E5%8A%9B%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E8%AA%AC-2/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年10月1日付人事異動",
+    "url": "https://www.valqua.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算短信",
+    "url": "https://www.valqua.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算補足資料",
+    "url": "https://www.valqua.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算説明会",
+    "url": "https://www.valqua.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 有価証券報告書",
+    "url": "https://www.valqua.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期(第126期) バルカーレポート",
+    "url": "https://www.valqua.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月18日更新",
+    "url": "https://www.valqua.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期決算発表",
+    "url": "https://www.valqua.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月29日",
+    "url": "https://www.valqua.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月4日15:30開示予定",
+    "url": "https://www.valqua.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月上旬予定",
+    "url": "https://www.valqua.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年5月中旬予定",
+    "url": "https://www.valqua.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年6月開催予定",
+    "url": "https://www.valqua.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "1927年1月に自動車及び各種高速用機械用ブレーキライニングの製造を目的として、大阪府中河内郡龍華町字植松（現八尾市）に日本ブレーキライニング製作所を設立",
+    "url": "https://www.valqua.co.jp/ir_info/ir-faq/",
+    "pass": 1
+   },
+   {
+    "quote": "1932年4月に社名を日本バルカー工業株式会社とし、工業用パッキンの生産を開始しました",
+    "url": "https://www.valqua.co.jp/ir_info/ir-faq/",
+    "pass": 1
+   },
+   {
+    "quote": "1961年5月1日 大阪証券取引所店頭市場に株式を公開",
+    "url": "https://www.valqua.co.jp/ir_info/ir-faq/",
+    "pass": 1
+   },
+   {
+    "quote": "1962年10月2日 大阪証券取引所、市場第2部への株式上場を承認",
+    "url": "https://www.valqua.co.jp/ir_info/ir-faq/",
+    "pass": 1
+   },
+   {
+    "quote": "1962年9月3日 東京証券取引所、市場第2部への株式上場を承認",
+    "url": "https://www.valqua.co.jp/ir_info/ir-faq/",
+    "pass": 1
+   },
+   {
+    "quote": "1975年9月1日 当社株式の上場市場を東京・大阪証券取引所第1部に指定替え",
+    "url": "https://www.valqua.co.jp/ir_info/ir-faq/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年4月4日 当社株式の上場市場を東京証券取引所プライム市場に指定替え",
+    "url": "https://www.valqua.co.jp/ir_info/ir-faq/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年6月に気候関連の財務情報開示に関する提言（TCFD提言）を公表し、世界中の多くの金融機関や企業、政府などが賛同しました",
+    "url": "https://www.valqua.co.jp/social/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度は2024年度に比べて絶対量で624t削減し、売上高原単位では1％減を達成しました",
+    "url": "https://www.valqua.co.jp/social/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年度よりサプライチェーン全体の温室効果ガス排出量を継続的に算定・開示しています",
+    "url": "https://www.valqua.co.jp/social/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度は、2024年度に比べて廃棄物排出量の絶対量で4tの減少となった一方、売上高原単位では約2％の増加となりました",
+    "url": "https://www.valqua.co.jp/social/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "1927年1月",
+    "url": "https://www.valqua.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1932年4月",
+    "url": "https://www.valqua.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1941年6月",
+    "url": "https://www.valqua.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1943年10月",
+    "url": "https://www.valqua.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1952年2月",
+    "url": "https://www.valqua.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1962年9月",
+    "url": "https://www.valqua.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1975年9月",
+    "url": "https://www.valqua.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1985年8月",
+    "url": "https://www.valqua.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1988年7月",
+    "url": "https://www.valqua.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1989年4月",
+    "url": "https://www.valqua.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1993年11月",
+    "url": "https://www.valqua.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1995年8月",
+    "url": "https://www.valqua.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1996年3月",
+    "url": "https://www.valqua.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1998年6月",
+    "url": "https://www.valqua.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年3月",
+    "url": "https://www.valqua.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年12月",
+    "url": "https://www.valqua.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2001年7月",
+    "url": "https://www.valqua.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2002年9月",
+    "url": "https://www.valqua.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2002年10月",
+    "url": "https://www.valqua.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2004年3月",
+    "url": "https://www.valqua.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2006年1月",
+    "url": "https://www.valqua.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2007年12月",
+    "url": "https://www.valqua.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2008年4月",
+    "url": "https://www.valqua.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年4月",
+    "url": "https://www.valqua.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2011年12月",
+    "url": "https://www.valqua.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和2年1月21日",
+    "url": "https://www.valqua.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和7年4月8日",
+    "url": "https://www.valqua.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.valqua.co.jp/recruit/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年 10 月 30 日",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/press/pr20261030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022 年に発売し、今回、定期修繕に加えて日常工事も管理できるようにリニューアルします",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/press/pr20261030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年10 月 1 日",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/press/pr20261001.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年９月17日",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/press/pr20260917.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年9 月16 日",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/personnel_structure/2026.10.01(20260916)JS.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年9月10日",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/press/pr20260910%20.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2008年より毎年、日本および海外拠点の代表者による「THEVALQUA WAY 理解と実践活動」の全社大",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/ir/valqua_cgcr_20260618.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2021年5月にはTCFD提言にも賛同し、2023年3月期よりTCFDフレームワークに従い、気候変動が当社グループに及ぼすリスクと機会をシナリオ",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/ir/valqua_cgcr_20260618.pdf",
+    "pass": 2
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "また、現在推進しております、中期経営計画「NF2026」では、世界の分断が急激に進みデジタル化によるビジネスモデルが激変する環境下におい",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/ir/valqua_cgcr_20260618.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株式会社バルカーの魅力とビジネスモデル解説 | チームマイクの企業分析",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%90%E3%83%AB%E3%82%AB%E3%83%BC%E3%81%AE%E9%AD%85%E5%8A%9B%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E8%AA%AC-2/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社バルカーの魅力とビジネスモデル解説",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%90%E3%83%AB%E3%82%AB%E3%83%BC%E3%81%AE%E9%AD%85%E5%8A%9B%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E8%AA%AC-2/",
+    "pass": 3
+   },
+   {
+    "quote": "今後も安定したビジネスモデルと技術力を武器に、さらに大きく成長していく可能性が高いと考えられます",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%90%E3%83%AB%E3%82%AB%E3%83%BC%E3%81%AE%E9%AD%85%E5%8A%9B%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E8%AA%AC-2/",
+    "pass": 3
+   },
+   {
+    "quote": "IR資料を活用して解説 株式会社ニイタカのビジネスモデルと成長戦略がもたらす新時代の洗剤革命と固形燃料の未来",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%90%E3%83%AB%E3%82%AB%E3%83%BC%E3%81%AE%E9%AD%85%E5%8A%9B%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E8%AA%AC-2/",
+    "pass": 3
+   },
+   {
+    "quote": "躍進を続ける大日精化工業のビジネスモデルを徹底解説 最新IR資料から見る成長戦略",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%90%E3%83%AB%E3%82%AB%E3%83%BC%E3%81%AE%E9%AD%85%E5%8A%9B%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E8%AA%AC-2/",
+    "pass": 3
+   },
+   {
+    "quote": "ヤスハラケミカルとビジネスモデルを読み解く成長戦略",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%90%E3%83%AB%E3%82%AB%E3%83%BC%E3%81%AE%E9%AD%85%E5%8A%9B%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E8%AA%AC-2/",
+    "pass": 3
+   },
+   {
+    "quote": "ウルトラファブリックスの成長戦略を徹底解説 円安メリットで加速するビジネスモデルの今",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%90%E3%83%AB%E3%82%AB%E3%83%BC%E3%81%AE%E9%AD%85%E5%8A%9B%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E8%AA%AC-2/",
+    "pass": 3
+   },
+   {
+    "quote": "フマキラーの成長戦略を徹底解説 魅力あふれるビジネスモデルの秘密",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%90%E3%83%AB%E3%82%AB%E3%83%BC%E3%81%AE%E9%AD%85%E5%8A%9B%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E8%AA%AC-2/",
+    "pass": 3
+   },
+   {
+    "quote": "世界を彩るDICのビジネスモデルと成長戦略をIR資料から紐解く魅力",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%90%E3%83%AB%E3%82%AB%E3%83%BC%E3%81%AE%E9%AD%85%E5%8A%9B%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E8%AA%AC-2/",
+    "pass": 3
+   },
+   {
+    "quote": "室町ケミカル株式会社の成長戦略とビジネスモデルの魅力を徹底解説",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%90%E3%83%AB%E3%82%AB%E3%83%BC%E3%81%AE%E9%AD%85%E5%8A%9B%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E8%AA%AC-2/",
+    "pass": 3
+   },
+   {
+    "quote": "フィンテック グローバルのビジネスモデルに迫る 魅力と今後の成長戦略",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%90%E3%83%AB%E3%82%AB%E3%83%BC%E3%81%AE%E9%AD%85%E5%8A%9B%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E8%AA%AC-2/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%90%E3%83%AB%E3%82%AB%E3%83%BC%E3%81%AE%E9%AD%85%E5%8A%9B%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E8%AA%AC-2/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ドライケミカル株式会社の『ビジネスモデル』と圧倒的競争力を解",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%90%E3%83%AB%E3%82%AB%E3%83%BC%E3%81%AE%E9%AD%85%E5%8A%9B%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E8%AA%AC-2/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社動力のIR資料から紐解く次世代へのビジネスモデルと成長戦略",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%90%E3%83%AB%E3%82%AB%E3%83%BC%E3%81%AE%E9%AD%85%E5%8A%9B%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E8%AA%AC-2/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ガイシの驚異的なビジネスモデルと次世代へ向けた成長戦略を徹底解説",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%90%E3%83%AB%E3%82%AB%E3%83%BC%E3%81%AE%E9%AD%85%E5%8A%9B%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E8%AA%AC-2/",
+    "pass": 3
+   },
+   {
+    "quote": "マーチャント・バンカーズの隠された成長戦略と驚異のビジネスモデル",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%90%E3%83%AB%E3%82%AB%E3%83%BC%E3%81%AE%E9%AD%85%E5%8A%9B%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E8%AA%AC-2/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "ストックオプションの付与対象者",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/ir/valqua_cgcr_20260618.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取締役の固定報酬（確定額報酬）は月例報酬とし、基本報酬月額と代表権の有無、役位（会長、社長）と常勤・非常勤の別に応じた定額報酬から",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/ir/valqua_cgcr_20260618.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の役員の報酬等に関する株主総会の決議年月日は、2018年6月20日であり、決議の内容は、取締役の報酬限度額については年額500百万",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/ir/valqua_cgcr_20260618.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "円以内（うち社外取締役分は年額60百万円以内）、また監査役の報酬限度額については年額100百万円以内となります",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/ir/valqua_cgcr_20260618.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、高機能・高付加価値な製品は単価が高くなる傾向があるため、研究開発による製品開発が収益に大きく貢献しています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%90%E3%83%AB%E3%82%AB%E3%83%BC%E3%81%AE%E9%AD%85%E5%8A%9B%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E8%AA%AC-2/",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%AB%E3%82%AB%E3%83%BC_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E7%80%A7%E6%BE%A4%E5%88%A9%E4%B8%80",
+    "pass": 3
+   },
+   {
+    "quote": "この記事の全文は、有料プラン（月額8,250円/税込）でお読みいただけます",
+    "url": "https://www.jmd.co.jp/article.php?no=319649",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "「NF2026」におきましては、連結売上高・利益およびROEの目標値を定め、事業セグメント別の計画値等を設定しております",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/ir/valqua_cgcr_20260618.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客セグメント",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%90%E3%83%AB%E3%82%AB%E3%83%BC%E3%81%AE%E9%AD%85%E5%8A%9B%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E8%AA%AC-2/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社バルカーの顧客セグメントは幅広く、自動車、化学プラント、建設機械、食品製造設備など、多種多様な業界をカバーしています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%90%E3%83%AB%E3%82%AB%E3%83%BC%E3%81%AE%E9%AD%85%E5%8A%9B%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E8%AA%AC-2/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別業績 シール製品事業",
+    "url": "https://edinetdb.jp/company/E01164/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "事業セグメント",
+    "url": "https://edinetdb.jp/company/E01164/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "シール製品事業は、売上高、セグメント利益ともに前年同期比で増加し、利益率も改善した",
+    "url": "https://edinetdb.jp/company/E01164/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期からの新セグメント基準による遡及値が適用されている",
+    "url": "https://edinetdb.jp/company/E01164/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別業績 機能樹脂製品事業",
+    "url": "https://edinetdb.jp/company/E01164/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "機能樹脂製品事業は、売上高、セグメント利益ともに前年同期比で大きく減少した",
+    "url": "https://edinetdb.jp/company/E01164/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "また、シリコンウエハーリサイクル事業の売却に伴う事業セグメント変更と、それに伴う過去の数値の遡及修正について説明されている",
+    "url": "https://edinetdb.jp/company/E01164/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "四半期推移 セグメント別業績",
+    "url": "https://edinetdb.jp/company/E01164/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "シール製品事業と機能樹脂製品事業の売上高、セグメント利益、受注高、受注残高の四半期推移が示されている",
+    "url": "https://edinetdb.jp/company/E01164/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "シール製品事業は新しい事業セグメント基準に沿った遡及値が適用されている",
+    "url": "https://edinetdb.jp/company/E01164/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "機能樹脂製品事業はセグメント利益がマイナスとなる四半期も発生している",
+    "url": "https://edinetdb.jp/company/E01164/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "予想内訳 セグメント業績(修正計画)",
+    "url": "https://edinetdb.jp/company/E01164/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "シール製品事業は売上高、セグメント利益ともに修正予想で増加を見込み、利益率も改善する計画である",
+    "url": "https://edinetdb.jp/company/E01164/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "機能樹脂製品事業は売上高、セグメント利益ともに下方修正され、利益率も低下する計画である",
+    "url": "https://edinetdb.jp/company/E01164/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "シリコンウエハーリサイクル事業の売却に伴うセグメント変更についても再度言及されている",
+    "url": "https://edinetdb.jp/company/E01164/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別では、シール製品事業は売上高452億円、セグメント利益65億円、機能樹脂製品事業は売上高168億円、セグメント利益5億円と予想されている",
+    "url": "https://edinetdb.jp/company/E01164/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "シール製品事業の上期売上高は202.6億円、セグメント利益は31.5億円となった",
+    "url": "https://edinetdb.jp/company/E01164/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "機能樹脂製品事業の上期売上高は68.2億円、セグメント利益は0.4億円となった",
+    "url": "https://edinetdb.jp/company/E01164/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "シリコンウエハーリサイクル事業の売却に伴い、2026年3月期から事業セグメント変更を実施し、過去の数値は新基準による遡及値となっている",
+    "url": "https://edinetdb.jp/company/E01164/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "四半期推移（セグメント別業績）",
+    "url": "https://edinetdb.jp/company/E01164/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "シール製品事業と機能樹脂製品事業の売上高、セグメント利益、受注高、期末受注残高の四半期ごとの推移が示されている",
+    "url": "https://edinetdb.jp/company/E01164/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "過年度は新しい事業セグメント基準に沿った遡及値である",
+    "url": "https://edinetdb.jp/company/E01164/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、2026年3月期第1四半期のシール製品事業の売上高は9,941百万円、セグメント利益は1,469百万円であった",
+    "url": "https://edinetdb.jp/company/E01164/presentations/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "また、取締役については、当社の経営・事業の状況および強み・課題等を熟知し、専門能力・知見を有する社内取締役と、多様なステークホル",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/ir/valqua_cgcr_20260618.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "チームの強みを認識・尊重しながら価値創造につなげる活動として、各部門の理念実践にブレイクダウンした「OURVALQUA WAY」の推進にも取",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/ir/valqua_cgcr_20260618.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "さらに、取締役については、当社の経営・事業の状況および強み・課題等を熟知し、専門能力・知見を有する社内取締役と、多様なステークホル",
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/ir/valqua_cgcr_20260618.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1927年の創業以来培ってきた高度な材料技術と密着・密封テクノロジーを強みに、化学、電力、製鉄などのインフラプラントから最先端の半導体製造装置に至るまで、産業社会の安全と環境保全を支える高機能なシールソリューションを提供し、国内外の産業界で確固たる地位を確立しています",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%90%E3%83%AB%E3%82%AB%E3%83%BC%E3%81%AE%E9%AD%85%E5%8A%9B%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E8%AA%AC-2/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜそうなったのかというと、一度取引先を獲得すれば、長期的なリピート需要が見込める点が大きな強みだからです",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%90%E3%83%AB%E3%82%AB%E3%83%BC%E3%81%AE%E9%AD%85%E5%8A%9B%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E8%AA%AC-2/",
+    "pass": 3
+   },
+   {
+    "quote": "海外展開に強みを持っており、東南...",
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%90%E3%83%AB%E3%82%AB%E3%83%BC%E3%81%AE%E9%AD%85%E5%8A%9B%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E8%AA%AC-2/",
+    "pass": 3
+   },
+   {
+    "quote": "売上総利益率と営業利益率は改善傾向にある",
+    "url": "https://edinetdb.jp/company/E01164/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "売上総利益率と営業利益率は改善予想であり、ROEは据え置きである",
+    "url": "https://edinetdb.jp/company/E01164/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "バランスシートでは、需要回復を見据えた原材料の戦略的確保により在庫が増加した",
+    "url": "https://edinetdb.jp/company/E01164/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "また、売上総利益率、営業利益率、ROE、EPSといった経営指標の推移も記載されている",
+    "url": "https://edinetdb.jp/company/E01164/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、2025年3月期の売上高は60,113百万円、営業利益率は9.4%、ROEは9.5%であった",
+    "url": "https://edinetdb.jp/company/E01164/presentations/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社バルカーの魅力とビジネスモデル解説 | チームマイクの企業分... — Jun 9, 2025 · 採用情報 株式会社バルカーは2023年5月1日に採用サイトをリニューアルしており、求める人材像や働き方などの情報を積極的に発信しています。 初任給は大卒・院卒ともに比較的競争力のある水準とされており、年間休日はおおむね120日前後と考えられます。",
+    "url": "https://consovation.com/株式会社バルカーの魅力とビジネスモデル解説-2/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社バルカー — 経営計画 バルカーは、2025年3月期から3か年中期経営計画“New Frontier 2026”（NF2026）を推進しております。 NF2026は、創業100周年期に向けた長期経営目標の設定以来取り組んできた戦略効果の最大化を図ることに加え、その先の持続的成長を意識した戦略を推進して参ります。 NF2026の詳細につき ...",
+    "url": "https://www.valqua.co.jp/ir/plan/",
+    "pass": 3
+   },
+   {
+    "quote": "【バルカー（7995）】売上減でも利益は改善！“堅実さが光る”シール大... — Dec 2, 2025 · 」 二本柱の“シール × 樹脂”がビジネスモデルを安定させる！ バルカーは2つの事業で構成されているよ： シール製品（メイン） … 高収益＆景気に左右されにくい 機能樹脂製品（サブ） … 半導体やプラント向けで成長期待",
+    "url": "https://pandapoint.hatenablog.com/entry/valqua20251202",
+    "pass": 3
+   },
+   {
+    "quote": "【株初心者向け】7995バルカーとは？半導体を支える“シール材のニッチ... — May 27, 2026 · 消耗品モデルによる継続需要 高付加価値製品による利益率の高さ 財務健全性の高さ など、“地味だけど強いBtoB企業”らしい魅力も持っています。 この記事では、株初心者向けに バルカーはどんな会社なのか？ なぜ半導体関連として注目されているのか？",
+    "url": "https://note.com/holy_viper7334/n/n75a30bca94bf",
+    "pass": 3
+   },
+   {
+    "quote": "バルカー(7995)の事業内容と経済的モート：競争優位性・成長戦略・業... — May 28, 2025 · 企業概要と事業領域 株式会社バルカー（VALQUA）は、1927年創業・1932年設立の老舗メーカーで、工業用のシール材（パッキン・ガスケット等）で国内トップクラスの地位を築いています 。本社は東京都品川区で、東証プライム市場に上場（証券コード7995）しています。主な事業内容は ...",
+    "url": "https://note.com/kakuka0904/n/n12cd59f47974",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社バルカー — ポリシー 免責事項 人事情報 採用情報 採用メッセージ 1分で知るバルカー バルカーワークスタイル バルカーのヒト バルカーのモノとサービス 会社・拠点紹介 バルカーの企業文化 研修・福利厚生 お知らせ お問い合わせ プライバシーポリシー サイトマップ ...",
+    "url": "https://www.valqua.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社バルカー 決算説明資料 — EDINET DB — 株式会社バルカーの決算説明資料は、現時点で構造化データが取得できておりません。 (15件のPDFを認識中・順次処理予定)",
+    "url": "https://edinetdb.jp/company/E01164/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "バルカー（7995）のIR情報・決算資料 - IRBANK — May 15, 2026 · バルカー（7995）のIR情報・適時開示一覧。決算発表、業績修正などの開示情報を掲載。",
+    "url": "https://irbank.net/7995/ir",
+    "pass": 3
+   },
+   {
+    "quote": "バルカーのIR資料 - 7995 / プライム / 化学 | バフェット・コード — バルカー（7995 / プライム / 化学）のIR資料の一覧を表示しています。有価証券報告書や決算短信、そしてTDnetで開示された適時開示資料をPDFでご覧になれます。",
+    "url": "https://www.buffett-code.com/company/7995/library",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社バルカー — IR資料 - EDINET DB — Apr 16, 2026 · EDINET DB > 企業一覧 > 株式会社バルカー > IR資料 株式会社バルカー — IR資料 統合報告書・中期経営計画・決算説明資料などのIR資料を、AIがセクション単位で構造化したデータです。 本文の検索・テーマタグでの絞り込みが可能です。",
+    "url": "https://edinetdb.jp/company/E01164/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "バルカー (企業) - Wikipedia — 株式会社バルカー （英: VALQUA, LTD.）は、 東京都 品川区 に本社を置く 産業 用の ふっ素樹脂 や高機能ゴムなど素材製品のメーカーである。工業用パッキン、ガスケット等のシール材大手。 バルカー（VALQUA）とは、「Value」 (価値)と「Quality」 (品質)の二つの単語を組み合わせた造語である。",
+    "url": "https://ja.wikipedia.org/wiki/バルカー_(企業)",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社バルカーバルカー（7995）の事業内容、事業の状況や経営戦略、事業等のリスク...バルカー（7995）｜上場企業 事業内容の全文バルカー【7995】の事業内容 - キタイシホン株式会社バルカー 中期経営計画 — EDINET DBバルカー (企業) - Wikipedia — 株式会社バルカーのシール製品情報と、さまざまな用途に合った製品を素早く探せるサービスをご提供 6 VALQUA VIETNAM CO.,LTD.の新工場における事業を2026年3月24日付で新設分割により継承したVALQUA ADVANCED VIETNAM CO.,LTD.を連結の範囲に含めております。 以上に述べた企業集団の状況についての概要図は次のとおりであります。 九州バルカー㈱ （注）1 「シリコンウエハーリサイクル事業他」を構成している㈱バルカー・エフエフティは、当社の保有する全株式を2025年3",
+    "url": "https://www.valqua.co.jp/company/about/",
+    "pass": 3
+   },
+   {
+    "quote": "バルカー（7995）｜上場企業 事業内容の全文 — 九州バルカー㈱ （注）1 「シリコンウエハーリサイクル事業他」を構成している㈱バルカー・エフエフティは、当社の保有する全株式を2025年3月21日に譲渡しましたが、当連結会計年度の同社の実績は、連結会計年度の末日までを計上しております。",
+    "url": "https://jigyou.kabu-trendpro.com/company.php?ticker=7995",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社バルカー 中期経営計画 — EDINET DB — Apr 16, 2026 · 株式会社バルカーの中期経営計画を、AIで構造化されたセクション単位で表示。経営戦略・業績・ガバナンスなどテーマ ...",
+    "url": "https://edinetdb.jp/company/E01164/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "瀧澤利一 - Wikipedia — 『読売年鑑 2016年版』（読売新聞東京本社、2016年）p.225 “ 2018年の経営者：社名一新し、製品とサービス融合 滝沢利一 バルカー社長 編集長インタビュー／927 ”. 週刊エコノミスト Online. 2024年7月16日閲覧。 日本バルカー工業株式会社の企業情報 日本バルカー工業株式会社 代表取締役社長",
+    "url": "https://ja.wikipedia.org/wiki/瀧澤利一",
+    "pass": 3
+   },
+   {
+    "quote": "【インタビュー 不定期船社の成長戦略】商船三井ドライバルク社長・福... — Oct 26, 2026 · 2026年10月27日 デイリー版1面 不定期 【インタビュー 不定期船社の成長戦略】 商船三井ドライバルク社長・福井利明氏、規律あるリスクテイク 商船三井グループのドライバルク事業会社、商船三井ドライバルクは中小型バルカー、多目的船、木材チップ船など運航規模200隻を誇る。船価の ...",
+    "url": "https://www.jmd.co.jp/article.php?no=319649",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社バルカー — バルカーは、1927年に創業し、社名の由来でもあるValue（価値の創造）&Quality（品質の向上）の基本理念のもと、シール製品の販売とシールエンジニアリング、そして高機能樹脂製品の提供を通じてお客さまに感動を提供し、あらゆるステークホルダーから信頼いただける企業であり続けることを ...",
+    "url": "https://www.valqua.co.jp/company/greeting/",
+    "pass": 3
+   },
+   {
+    "quote": "経営のこころ（19）バルカー会長CEO・瀧澤利一氏 「頑張れ」でなく「... — Aug 19, 2025 · バルカーは2027年に創業100周年を迎える。24年には社長最高執行責任者（COO）の交代など、経営体制の世代交代を行ったほか、最高ウェル ...",
+    "url": "https://www.nikkan.co.jp/articles/view/00757761",
+    "pass": 3
+   },
+   {
+    "quote": "2018年の経営者：社名一新し、製品とサービス融合 滝沢利一 バルカー... — Oct 22, 2018 · 滝沢利一 バルカー社長 社名一新し、製品とサービス融合 Interviewer 藤枝克治（本誌編集長） ── 何を作る会社ですか。 滝沢 配管のつなぎ目などから液体や気体の漏れを防ぐシール製品を製造しています。パッキンやガスケットと呼ばれるもので、あらゆる産業で使われています。当社は ...",
+    "url": "https://weekly-economist.mainichi.jp/articles/20181030/se1/00m/020/002000c",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.valqua.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.valqua.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.valqua.co.jp/ir_info/strategy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.valqua.co.jp/ir_info/stockinfo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.valqua.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.valqua.co.jp/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.valqua.co.jp/ir_info/immunity/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.valqua.co.jp/ir_info/finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.valqua.co.jp/ir/individual_investor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.valqua.co.jp/ir/meeting_report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.valqua.co.jp/ir_info/ir-faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.valqua.co.jp/social/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.valqua.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.valqua.co.jp/company/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.valqua.co.jp/recruit/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.valqua.co.jp/ir/irnews/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.valqua.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/press/pr20261030.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/press/pr20261001.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/press/pr20260917.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/personnel_structure/2026.10.01(20260916)JS.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/press/pr20260910%20.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/ir/valqua_cgcr_20260618.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/ir/nr_202606.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.valqua.co.jp/wp-content/uploads/pdf/ir/il_1_202606.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.valqua.co.jp/wp-content/uploads/2015/05/cashflow.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://consovation.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%90%E3%83%AB%E3%82%AB%E3%83%BC%E3%81%AE%E9%AD%85%E5%8A%9B%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E8%A7%A3%E8%AA%AC-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://edinetdb.jp/company/E01164/presentations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%AB%E3%82%AB%E3%83%BC_(%E4%BC%81%E6%A5%AD)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%80%A7%E6%BE%A4%E5%88%A9%E4%B8%80",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmd.co.jp/article.php?no=319649",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "バルカー",
+   "results": [
+    "https://ja.wikipedia.org/wiki/バルカー",
+    "https://ja.wikipedia.org/wiki/バルカー_(企業)",
+    "https://www.valqua.co.jp/company/",
+    "https://www.valqua-vmf.co.jp/",
+    "https://www.valqua.co.jp/",
+    "https://grokipedia.com/page/Valqua_Techno_Ltd",
+    "https://www.valqua.com/",
+    "https://valqua-america.com/",
+    "https://www.valqua.com/company/greeting/"
+   ]
+  },
+  {
+   "query": "バルカー ビジネスモデル",
+   "results": [
+    "https://consovation.com/株式会社バルカーの魅力とビジネスモデル解説-2/",
+    "https://www.valqua.co.jp/ir/plan/",
+    "https://pandapoint.hatenablog.com/entry/valqua20251202",
+    "https://note.com/holy_viper7334/n/n75a30bca94bf",
+    "https://note.com/kakuka0904/n/n12cd59f47974",
+    "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=7995",
+    "https://www.valqua.co.jp/wp-content/uploads/2025/07/VALQUA-Corporate-Report-2024-2025.pdf"
+   ]
+  },
+  {
+   "query": "バルカー 決算説明資料",
+   "results": [
+    "https://www.valqua.co.jp/ir/library/",
+    "https://edinetdb.jp/company/E01164/presentations/",
+    "https://irbank.net/7995/ir",
+    "https://www.buffett-code.com/company/7995/library",
+    "https://edinetdb.jp/company/E01164/ir-docs/",
+    "https://treelazy.com/stock-jp/7995/conference",
+    "https://www.valqua.co.jp/ir/meeting/"
+   ]
+  },
+  {
+   "query": "バルカー 事業系統図",
+   "results": [
+    "https://ja.wikipedia.org/wiki/バルカー_(企業)",
+    "https://www.valqua.co.jp/ir/plan/",
+    "https://www.valqua.co.jp/company/about/",
+    "https://jigyou.kabu-trendpro.com/company.php?ticker=7995",
+    "https://edinetdb.jp/company/E01164/midterm-plans/",
+    "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=7995",
+    "https://kitaishihon.com/company/7995/business"
+   ]
+  },
+  {
+   "query": "バルカー 社長 インタビュー",
+   "results": [
+    "https://ja.wikipedia.org/wiki/瀧澤利一",
+    "https://www.jmd.co.jp/article.php?no=319649",
+    "https://www.valqua.co.jp/company/greeting/",
+    "https://www.nikkan.co.jp/articles/view/00757761",
+    "https://weekly-economist.mainichi.jp/articles/20181030/se1/00m/020/002000c",
+    "https://www.zaikai.jp/articles/detail/3007",
+    "https://www.valqua.co.jp/wp-content/uploads/pdf/press/pr23102301.pdf"
+   ]
+  }
+ ],
+ "missing": {}
+}

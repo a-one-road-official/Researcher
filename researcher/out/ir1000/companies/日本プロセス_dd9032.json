@@ -1,0 +1,1775 @@
+{
+ "name": "日本プロセス",
+ "aliases": [],
+ "context": "証券コード9651／情報・通信業／スタンダード（内国株式）／2026.05期 売上高12,119百万円 営業利益率12.4%",
+ "researched_at": "2026-11-02T19:53:09.086715+00:00",
+ "official_url": "https://www.jpd.co.jp/",
+ "identified_by": "search:yahoo_jp:日本プロセス",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1967年6月",
+    "url": "https://www.jpd.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1967",
+    "url": "https://shachomeikan.jp/presidents/detail/10061395/790",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "715人（2026年5月31日現在）",
+    "url": "https://www.jpd.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "621人（2024年5月31日現在）",
+    "url": "https://shachomeikan.jp/presidents/detail/10061395/790",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "システム・インテグレーション及びソフトウェア開発 労働者派遣許可番号：派13-307228 ［労働者派遣法に基づく情報提供のお知らせ］",
+    "url": "https://www.jpd.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "label": "事業概要",
+    "value": "システムインテグレーション事業を主軸として、ＩＴインフラ提供事業及びインターネット通信販売事業など幅広く行う。",
+    "url": "https://shachomeikan.jp/presidents/detail/10061395/790",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "産業・ICTソリューション事業",
+    "url": "https://www.jpd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "産業・ICTソリューション事業",
+    "url": "https://www.jpd.co.jp/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、電力、鉄道、自動車、航空宇宙、半導体、産業ICTなどの多様な事業分野において、お客様のメリットを最大化する「トータル・ソフトウェア・エンジニアリング・サービス（T-SES）」を提供しています",
+    "url": "https://www.jpd.co.jp/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業・ICTソリューション事業",
+    "url": "https://www.jpd.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業・ICTソリューション事業",
+    "url": "https://www.jpd.co.jp/business/control.html",
+    "pass": 1
+   },
+   {
+    "quote": "一方、安全や安心への注目度、環境問題への意識向上、ライフスタイルの変化などにより、社会インフラに対するサービス水準への要求が高まるとともにより複雑化しています",
+    "url": "https://www.jpd.co.jp/business/control.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社の特徴・サービス内容",
+    "url": "https://www.jpd.co.jp/business/control.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業・ICTソリューション事業",
+    "url": "https://www.jpd.co.jp/business/traffic.html",
+    "pass": 1
+   },
+   {
+    "quote": "Connected：コネクティッド、Autonomous：自動運転、Shared/Service：シェア／サービス、Electric：電動化、それぞれの頭文字を採った「CASE（ケース）」というキーワードが、全世界の自動車産業に大変革をもたらしています",
+    "url": "https://www.jpd.co.jp/business/traffic.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社の特徴・サービス内容",
+    "url": "https://www.jpd.co.jp/business/traffic.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業・ICTソリューション事業",
+    "url": "https://www.jpd.co.jp/business/specific.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社の特徴・サービス内容",
+    "url": "https://www.jpd.co.jp/business/specific.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業・ICTソリューション事業",
+    "url": "https://www.jpd.co.jp/business/embedded.html",
+    "pass": 1
+   },
+   {
+    "quote": "組込システムには、半導体など電子部品そのものの特性や性能をしっかりと把握し、製品が求める仕様を実現させる技術が求められています",
+    "url": "https://www.jpd.co.jp/business/embedded.html",
+    "pass": 1
+   },
+   {
+    "quote": "黎明時のコンピューターのオペレーティングシステム開発からスタートし、現在までに蓄積した豊富なハードウェアの知識と効率的かつ精度の高い組込技術を駆使することで、急加速で高機能化が進む電子製品の組込システムを開発しています",
+    "url": "https://www.jpd.co.jp/business/embedded.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社の特徴・サービス内容",
+    "url": "https://www.jpd.co.jp/business/embedded.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品競争が激化している半導体記憶装置（Solid State Drive）、世界規模で販売されているIoT建設機械、自動運転に関わるファームウェアや医療機器などの開発に携わっています",
+    "url": "https://www.jpd.co.jp/business/embedded.html",
+    "pass": 1
+   },
+   {
+    "quote": "時代の変化や社会のニーズに柔軟に対応し、先を見据えた技術を取得しながら、より高機能で付加価値の高い製品づくりに取り組んでまいります",
+    "url": "https://www.jpd.co.jp/business/embedded.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業・ICTソリューション事業 | 日本プロセス",
+    "url": "https://www.jpd.co.jp/business/ict.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業・ICTソリューション事業",
+    "url": "https://www.jpd.co.jp/business/ict.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社の特徴・サービス内容",
+    "url": "https://www.jpd.co.jp/business/ict.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本プロセス株式会社 産業インフラシステム事業部／ＩＣＴソリューション事業部",
+    "url": "https://www.jpd.co.jp/business/ict.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業・ICTソリューション事業",
+    "url": "https://www.jpd.co.jp/business/customer.html",
+    "pass": 1
+   },
+   {
+    "quote": "NECソリューションイノベータ株式会社",
+    "url": "https://www.jpd.co.jp/business/customer.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業・ICTソリューション事業",
+    "url": "https://www.jpd.co.jp/business/partner.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業・ICTソリューション事業",
+    "url": "https://www.jpd.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業・ICTソリューション事業",
+    "url": "https://www.jpd.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "iPhoneなどのスマートフォンが誕生し、SNSやYoutubeが企業サービスで活用される",
+    "url": "https://www.jpd.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "システムの開発環境・運用環境構築サービス開始",
+    "url": "https://www.jpd.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業・ICTソリューション事業",
+    "url": "https://www.jpd.co.jp/ir/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業・ICTソリューション",
+    "url": "https://www.jpd.co.jp/ir/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業・ICTソリューション事業",
+    "url": "https://www.jpd.co.jp/ir/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業・ICTソリューション事業",
+    "url": "https://www.jpd.co.jp/ir/securities.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業・ICTソリューション事業",
+    "url": "https://www.jpd.co.jp/ir/report.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業・ICTソリューション事業",
+    "url": "https://www.jpd.co.jp/ir/material.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業・ICTソリューション事業",
+    "url": "https://www.jpd.co.jp/ir/shareholder.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業・ICTソリューション事業",
+    "url": "https://www.jpd.co.jp/ir/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "T-SES（トータル・ソフトウェア・エンジニアリング・サービス）",
+    "url": "https://www.jpd.co.jp/ir/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "T-SES（トータル・ソフトウェア・エンジニアリング・サービス）とは、当社が保有する知見に基づいて、顧客（またはエンドユーザ）を正しい仕様決定に導き、以降一貫して完成まで請け負うことです",
+    "url": "https://www.jpd.co.jp/ir/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業・ICTソリューション事業",
+    "url": "https://www.jpd.co.jp/ir/stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業・ICTソリューション事業",
+    "url": "https://www.jpd.co.jp/ir/ircalendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業・ICTソリューション事業",
+    "url": "https://www.jpd.co.jp/ir/disclosure.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、株主・投資家及びすべてのステークホルダーの皆様に、重要な会社情報の適時適切な開示を行うため、金融商品取引法等の関連法令や株式会社東京証券取引所の定める適時開示に関する規則に準拠し、迅速・正確かつ公平な会社情報の開示を徹底するべく、誠実に対応いたします",
+    "url": "https://www.jpd.co.jp/ir/disclosure.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業・ICTソリューション事業",
+    "url": "https://www.jpd.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "トを最大化する「トータル・ソフトウェア・エンジニアリング・サービス（ T-SES）」を提供して",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_10_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "情報サービス産業においては、社会全体で進展するデジタルトランスフォーメーション（DX）、業務効率化や生",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_9_30.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "産性向上への取組みを背景に、AI、クラウドサービス、IoTなどの先端技術の導入に向けたIT投資ニーズは引き続",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_9_30.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業活動については、「トータル・ソフトウェア・エンジニアリング・サービス（T-SES",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_9_30.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ソリューション 840 849 8 1.0％ 161 155 △6 △3.7％",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_9_30.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（産業・ICTソリューション）",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_9_30.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "産業・ICTソリューションでは、クラウドシステムは開発案件の終了に伴い減少し、システム構築は新たな案件",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_9_30.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_9_30.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ている金融商品取引所等 直接保有分 合算対象分 計",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_9_25.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "義・開発からシステム構築、運用・保守まで一括してサービスを提供し、お客様へのサー",
+    "url": "https://www.jpd.co.jp/upload/docs/CorporateProfile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ビス価値の最大化を志向する 「トータル・ソフトウェア・エンジニアリング・サービス",
+    "url": "https://www.jpd.co.jp/upload/docs/CorporateProfile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ニアリングサービスをご提供することで、変革期を迎えた社会の要請に応えることができ",
+    "url": "https://www.jpd.co.jp/upload/docs/CorporateProfile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "社会インフラを担うお客様にサービスを提供する企業として、技術と品質をさらに高め、",
+    "url": "https://www.jpd.co.jp/upload/docs/CorporateProfile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ソリューション 事 業",
+    "url": "https://www.jpd.co.jp/upload/docs/CorporateProfile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "する電子部品などには、製品が求める機能や仕様",
+    "url": "https://www.jpd.co.jp/upload/docs/CorporateProfile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.jpd.co.jp/upload/docs/CorporateProfile.pdf",
+    "pass": 2
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "先輩社員紹介",
+    "url": "https://www.jpd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員紹介",
+    "url": "https://www.jpd.co.jp/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員紹介",
+    "url": "https://www.jpd.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員紹介",
+    "url": "https://www.jpd.co.jp/business/control.html",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員紹介",
+    "url": "https://www.jpd.co.jp/business/traffic.html",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員紹介",
+    "url": "https://www.jpd.co.jp/business/specific.html",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員紹介",
+    "url": "https://www.jpd.co.jp/business/embedded.html",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員紹介",
+    "url": "https://www.jpd.co.jp/business/ict.html",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員紹介",
+    "url": "https://www.jpd.co.jp/business/customer.html",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員紹介",
+    "url": "https://www.jpd.co.jp/business/partner.html",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員紹介",
+    "url": "https://www.jpd.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員紹介",
+    "url": "https://www.jpd.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員紹介",
+    "url": "https://www.jpd.co.jp/ir/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員紹介",
+    "url": "https://www.jpd.co.jp/ir/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員紹介",
+    "url": "https://www.jpd.co.jp/ir/securities.html",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員紹介",
+    "url": "https://www.jpd.co.jp/ir/report.html",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員紹介",
+    "url": "https://www.jpd.co.jp/ir/material.html",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員紹介",
+    "url": "https://www.jpd.co.jp/ir/shareholder.html",
+    "pass": 1
+   },
+   {
+    "quote": "２．採用の強化やビジネスパートナーの拡大により技術者を増やします",
+    "url": "https://www.jpd.co.jp/ir/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員紹介",
+    "url": "https://www.jpd.co.jp/ir/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員紹介",
+    "url": "https://www.jpd.co.jp/ir/stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員紹介",
+    "url": "https://www.jpd.co.jp/ir/ircalendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員紹介",
+    "url": "https://www.jpd.co.jp/ir/disclosure.html",
+    "pass": 1
+   },
+   {
+    "quote": "先輩社員紹介",
+    "url": "https://www.jpd.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "質疑応答：JR東日本情報システムのコアパートナー認定について",
+    "url": "https://finance.logmi.jp/articles/385334",
+    "pass": 3
+   },
+   {
+    "quote": "また、株式会社JR東日本情報システムのコアパートナーに認定されました",
+    "url": "https://finance.logmi.jp/articles/385334",
+    "pass": 3
+   },
+   {
+    "quote": "組込システムは、低収益案件からの撤退やパートナー技術者の増加が寄与し、大幅に利益が増えました",
+    "url": "https://finance.logmi.jp/articles/385334",
+    "pass": 3
+   },
+   {
+    "quote": "技術者の確保については、採用の強化やビジネスパートナーの拡大を進めます",
+    "url": "https://finance.logmi.jp/articles/385334",
+    "pass": 3
+   },
+   {
+    "quote": "店舗向けBGMの配信サービスで国内トップシェア",
+    "url": "https://shachomeikan.jp/presidents/detail/10061395/790",
+    "pass": 3
+   },
+   {
+    "quote": "店舗のDX推進にも注力",
+    "url": "https://shachomeikan.jp/presidents/detail/10061395/790",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "令和８年熊本地震により被災された皆様、関係の皆様に、心よりお見舞い申し上げます",
+    "url": "https://www.jpd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年度新卒内定式を開催いたしました",
+    "url": "https://www.jpd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年5月期第1四半期決算短信を発表いたしました",
+    "url": "https://www.jpd.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 6月 1日現在",
+    "url": "https://www.jpd.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "1967年6月",
+    "url": "https://www.jpd.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 日本プロセス",
+    "url": "https://www.jpd.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年12月1日現在",
+    "url": "https://www.jpd.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1960年代",
+    "url": "https://www.jpd.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1967年（昭和42年）",
+    "url": "https://www.jpd.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1970年代",
+    "url": "https://www.jpd.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1970年（昭和45年）",
+    "url": "https://www.jpd.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1971年（昭和46年）",
+    "url": "https://www.jpd.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1975年（昭和50年）",
+    "url": "https://www.jpd.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1977年（昭和52年）",
+    "url": "https://www.jpd.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1978年（昭和53年）",
+    "url": "https://www.jpd.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1980年代",
+    "url": "https://www.jpd.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1981年（昭和56年）",
+    "url": "https://www.jpd.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1982年（昭和57年）",
+    "url": "https://www.jpd.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1983年（昭和58年）",
+    "url": "https://www.jpd.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1985年（昭和60年）",
+    "url": "https://www.jpd.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1986年（昭和61年）",
+    "url": "https://www.jpd.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1987年（昭和62年）",
+    "url": "https://www.jpd.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1988年（昭和63年）",
+    "url": "https://www.jpd.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1990年代",
+    "url": "https://www.jpd.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1992年（平成4年）",
+    "url": "https://www.jpd.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1993年（平成5年）",
+    "url": "https://www.jpd.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1995年（平成7年）",
+    "url": "https://www.jpd.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1997年（平成9年）",
+    "url": "https://www.jpd.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1998年（平成10年）",
+    "url": "https://www.jpd.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1999年（平成11年）",
+    "url": "https://www.jpd.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年5月期（第60期）",
+    "url": "https://www.jpd.co.jp/ir/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年5月期第1四半期決算短信",
+    "url": "https://www.jpd.co.jp/ir/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月期（第59期）",
+    "url": "https://www.jpd.co.jp/ir/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月期決算短信",
+    "url": "https://www.jpd.co.jp/ir/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月期第3四半期決算短信",
+    "url": "https://www.jpd.co.jp/ir/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月期第2四半期（中間期）決算短信",
+    "url": "https://www.jpd.co.jp/ir/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月期第1四半期決算短信",
+    "url": "https://www.jpd.co.jp/ir/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年5月期（第58期）",
+    "url": "https://www.jpd.co.jp/ir/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年5月期決算短信",
+    "url": "https://www.jpd.co.jp/ir/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年5月期第3四半期決算短信",
+    "url": "https://www.jpd.co.jp/ir/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年5月期第2四半期（中間期）決算短信",
+    "url": "https://www.jpd.co.jp/ir/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年5月期第1四半期決算短信",
+    "url": "https://www.jpd.co.jp/ir/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年5月期（第57期）",
+    "url": "https://www.jpd.co.jp/ir/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年5月期決算短信",
+    "url": "https://www.jpd.co.jp/ir/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年5月期第3四半期決算短信",
+    "url": "https://www.jpd.co.jp/ir/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年5月期第2四半期決算短信",
+    "url": "https://www.jpd.co.jp/ir/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年5月期第1四半期決算短信",
+    "url": "https://www.jpd.co.jp/ir/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年5月期（第56期）",
+    "url": "https://www.jpd.co.jp/ir/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年5月期決算短信",
+    "url": "https://www.jpd.co.jp/ir/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年5月期第3四半期決算短信",
+    "url": "https://www.jpd.co.jp/ir/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年5月期第2四半期決算短信",
+    "url": "https://www.jpd.co.jp/ir/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年5月期第1四半期決算短信",
+    "url": "https://www.jpd.co.jp/ir/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年5月期（第55期）",
+    "url": "https://www.jpd.co.jp/ir/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年5月期決算短信",
+    "url": "https://www.jpd.co.jp/ir/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年5月期第3四半期決算短信",
+    "url": "https://www.jpd.co.jp/ir/result.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月期（第59期）",
+    "url": "https://www.jpd.co.jp/ir/securities.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月期有価証券報告書",
+    "url": "https://www.jpd.co.jp/ir/securities.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月期半期報告書",
+    "url": "https://www.jpd.co.jp/ir/securities.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年5月期（第58期）",
+    "url": "https://www.jpd.co.jp/ir/securities.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年5月期有価証券報告書",
+    "url": "https://www.jpd.co.jp/ir/securities.html",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "当社は、電力、鉄道、自動車、航空宇宙、半導体、産業ICTなどの多様な事業分野において、お客様のメリットを最大化する「トータル・ソフトウェア・エンジニアリング・サービス（T-SES）」を提供しています",
+    "url": "https://www.jpd.co.jp/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "主要取引先 | 日本プロセス",
+    "url": "https://www.jpd.co.jp/business/customer.html",
+    "pass": 1
+   },
+   {
+    "quote": "T-SES（トータル・ソフトウェア・エンジニアリング・サービス）とは、当社が保有する知見に基づいて、顧客（またはエンドユーザ）を正しい仕様決定に導き、以降一貫して完成まで請け負うことです",
+    "url": "https://www.jpd.co.jp/ir/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業活動においても、「ソフトウェアによる社会の安心・安全、快適・便利なくらしの実現」を目指し、顧客と共に社会課題の解決に貢献してまいります",
+    "url": "https://www.jpd.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "力、鉄道、自動車、航空宇宙、半導体、産業 ICT などの多様な事業分野において、お客様のメリッ",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_10_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "術交流会や研修などを通じてノウハウを共有するとともに、顧客特性等を考慮した上で、AI駆動開発を推進してま",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_9_30.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※ T-SES：当社が保有する知見に基づいて、顧客（またはエンドユーザ）を正しい仕様決定に導き、以降一貫",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_9_30.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_9_30.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 397,824 651,581 429,868 432,614 840,624 2,752,512",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_9_30.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 － 2,752,512",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_9_30.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 525,698 574,280 522,479 517,619 849,199 2,989,277",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_9_30.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 － 2,989,277",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_9_30.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ム開発にチャレンジし、常にお客様にご満足いただく成果をご提供し、高い信頼をいただ",
+    "url": "https://www.jpd.co.jp/upload/docs/CorporateProfile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "義・開発からシステム構築、運用・保守まで一括してサービスを提供し、お客様へのサー",
+    "url": "https://www.jpd.co.jp/upload/docs/CorporateProfile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "社会インフラを担うお客様にサービスを提供する企業として、技術と品質をさらに高め、",
+    "url": "https://www.jpd.co.jp/upload/docs/CorporateProfile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様とともに社会の安全・安心、快適・便利に貢献してまいります",
+    "url": "https://www.jpd.co.jp/upload/docs/CorporateProfile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様の満足と 、 新た な価値を創造す る",
+    "url": "https://www.jpd.co.jp/upload/docs/CorporateProfile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※ T-SES：当社が保有する知見に基づいて、顧客（またはエンドユーザ）を正しい仕様決定に導き、以降一貫",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_7_7-4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、ソフトウェア開発案件の中止、延期、顧客からのコスト削減要求など、当社グループへの影響につきまし",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_7_7-4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの利害関係者は、国内の株主、債権者、取引先等が多く、また、海外からの資金調達の必要性も低いこ",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_7_7-4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_7_7-4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 1,705,732 2,407,954 1,793,329 1,476,361 3,089,772 10,473,149",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_7_7-4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 － 10,473,149",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_7_7-4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 1,945,212 2,632,044 2,013,953 1,838,829 3,689,399 12,119,440",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_7_7-4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 － 12,119,440",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_7_7-4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客の名称又は氏名 売上高 関連するセグメント名",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_7_7-4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本邦の外部顧客への売上高が連結損益計算書の売上高の90％を超えるため、記載を省略しておりま",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_7_7-4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．主要な顧客ごとの情報",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_7_7-4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※ T-SES：当社が保有する知見に基づいて、顧客（またはエンドユーザ）を正しい仕様決定に導き、以降一貫",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_3_31-3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_3_31-3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 1,192,028 1,775,614 1,345,121 1,056,380 2,253,206 7,622,352",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_3_31-3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 － 7,622,352",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_3_31-3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 1,379,663 1,996,727 1,495,880 1,342,593 2,705,913 8,920,778",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_3_31-3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 － 8,920,778",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_3_31-3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※ T-SES：当社が保有する知見に基づいて、顧客（またはエンドユーザ）を正しい仕様決定に導き、以降一貫",
+    "url": "https://www.jpd.co.jp/upload/docs/2025_12_26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から",
+    "url": "https://www.jpd.co.jp/upload/docs/2025_12_26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 766,387 1,193,069 858,917 671,237 1,473,147 4,962,760",
+    "url": "https://www.jpd.co.jp/upload/docs/2025_12_26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 － 4,962,760",
+    "url": "https://www.jpd.co.jp/upload/docs/2025_12_26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 901,065 1,340,371 947,365 880,210 1,766,102 5,835,114",
+    "url": "https://www.jpd.co.jp/upload/docs/2025_12_26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 － 5,835,114",
+    "url": "https://www.jpd.co.jp/upload/docs/2025_12_26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "クラウドシステムについては、ガバメントクラウドやユーザー企業の開発案件の受注に取り組み、成果が出ています",
+    "url": "https://finance.logmi.jp/articles/385334",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "半導体や電子部品などのハードウェアにより近いドライバーやミドルウェアなどの組込ソフト開発を強みとしています",
+    "url": "https://www.jpd.co.jp/business/embedded.html",
+    "pass": 1
+   },
+   {
+    "quote": "（T-SES） 」 は当社ならではの強みです",
+    "url": "https://www.jpd.co.jp/upload/docs/CorporateProfile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "な対応や、コストメリットをご提供できることも当社の強みのひとつです",
+    "url": "https://www.jpd.co.jp/upload/docs/CorporateProfile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "長年にわたり培った独自の 「ソフトウェアエンジニアリング技術」 を強みに掲げ、現在では5つの事",
+    "url": "https://www.jpd.co.jp/upload/docs/CorporateProfile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "両社の強みを融合・連携させ",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_7_7-4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "両社の強みを融合・連携させ",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_3_31-3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "両社の強みを融合・連携させ",
+    "url": "https://www.jpd.co.jp/upload/docs/2025_12_26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "質疑応答：営業利益率改善に向けた投資について",
+    "url": "https://finance.logmi.jp/articles/385334",
+    "pass": 3
+   },
+   {
+    "quote": "質疑応答：営業利益率向上の要因について",
+    "url": "https://finance.logmi.jp/articles/385334",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "エネルギー、鉄道、自動車、航空/宇宙、医療、防災などあらゆる分野で、新たな需要の創出とビジネスモデルの変革、生産革命が進展しています",
+    "url": "https://www.jpd.co.jp/business/ict.html",
+    "pass": 1
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント別売上、利益",
+    "url": "https://www.jpd.co.jp/ir/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "※セグメント利益には、各セグメントに配分していない全社費用は含まれていません",
+    "url": "https://www.jpd.co.jp/ir/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "（セグメント情報等の注記） ……………………………………………………………………………………… ８",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_9_30.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、人材育成については、各セグメントで事業特性を考慮した目標を設定し、新規設計ができる高度技",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_9_30.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 セグメント利益",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_9_30.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントごとの経営成績は次のとおりであります",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_9_30.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、売上高は525百万円（前年同期比32.1％増）、セグメント利益は148百万円（前年同期比56.4％増）と",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_9_30.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、売上高は574百万円（前年同期比11.9％減）、セグメント利益は91百万円（前年同期比46.0％減）と",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_9_30.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、売上高は522百万円（前年同期比21.5％増）、セグメント利益は150百万円（前年同期比40.5％増）と",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_9_30.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、売上高は517百万円（前年同期比19.6％増）、セグメント利益は124百万円（前年同期比40.1％増）と",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_9_30.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、売上高は849百万円（前年同期比1.0％増）、セグメント利益は155百万円（前年同期比3.7％減）とな",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_9_30.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_9_30.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_9_30.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 94,634 168,806 107,416 89,138 161,643 621,639",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_9_30.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 △279,820 341,818",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_9_30.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_9_30.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_9_30.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．報告セグメントごとの売上高及び利益又は損失の金額に関する情報並びに収益の分解情報",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_9_30.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．セグメント利益の調整額△279,820千円には、各報告セグメントに配分していない全社費用△275,319千円及",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_9_30.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "全社費用は、主に報告セグメントに帰属しない一般管理費であ",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_9_30.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益は、四半期連結損益計算書の営業利益と調整を行っております",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_9_30.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 148,007 91,187 150,935 124,869 155,642 670,642",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_9_30.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 △288,058 382,584",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_9_30.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．セグメント利益の調整額△288,058千円には、各報告セグメントに配分していない全社費用△296,609千円及",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_9_30.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "全社費用は、主に報告セグメントに帰属しない一般管理費であり",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_9_30.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "加えて、5つのセグメント、11のビジネスユニットからなる多様な事業領域から、必要な",
+    "url": "https://www.jpd.co.jp/upload/docs/CorporateProfile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記） ……………………………………………………………………………………… 13",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_7_7-4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、人材育成については、各セグメントで事業特性を考慮した目標を設定し、新規設計ができる高度技",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_7_7-4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 セグメント利益",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_7_7-4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントごとの経営成績は次のとおりであります",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_7_7-4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、売上高は1,945百万円（前年同期比14.0％増）、セグメント利益は487百万円（前年同期比20.9％増）",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_7_7-4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、売上高は2,632百万円（前年同期比9.3％増）、セグメント利益は649百万円（前年同期比7.8％増）と",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_7_7-4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、売上高は2,013百万円（前年同期比12.3％増）、セグメント利益は523百万円（前年同期比5.6％増）",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_7_7-4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、売上高は1,838百万円（前年同期比24.6％増）、セグメント利益は371百万円（前年同期比38.9％増）",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_7_7-4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、売上高は3,689百万円（前年同期比19.4％増）、セグメント利益は764百万円（前年同期比28.2％増）",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_7_7-4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_7_7-4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_7_7-4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．報告セグメントの概要",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_7_7-4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(1）報告セグメントの決定方法",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_7_7-4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの報告セグメントは、当社グループの構成単位のうち分離された財務情報が入手可能で",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_7_7-4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、サービス分野及び市場分野を基礎としたセグメントから構成されており、「制御シ",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_7_7-4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ョン」の５つを報告セグメントとしております",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_7_7-4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(2）各報告セグメントに属する製品及びサービスの種類",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_7_7-4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．報告セグメントごとの売上高、利益又は損失、資産、負債その他の項目の金額の算定方法",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_7_7-4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告されている事業セグメントの会計処理の方法は、連結財務諸表作成のために採用している会計処理",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_7_7-4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメントの利益は、売上総利益ベースの数値であります",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_7_7-4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_7_7-4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_7_7-4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 403,242 602,146 495,286 267,228 596,541 2,364,446",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_7_7-4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 △1,219,842 1,144,603",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_7_7-4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．報告セグメントごとの売上高、利益又は損失、資産、負債その他の項目の金額に関する情報及び収益の",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_7_7-4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記） ……………………………………………………………………………………… ８",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_3_31-3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、人材育成については、各セグメントで事業特性を考慮した目標を設定し、新規設計ができる高度技",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_3_31-3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高 セグメント利益",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_3_31-3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントごとの経営成績は次のとおりであります",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_3_31-3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、売上高は1,379百万円（前年同期比15.7％増）、セグメント利益は321百万円（前年同期比15.9％増）",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_3_31-3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、売上高は1,996百万円（前年同期比12.5％増）、セグメント利益は499百万円（前年同期比16.4％増）",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_3_31-3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、売上高は1,495百万円（前年同期比11.2％増）、セグメント利益は385百万円（前年同期比5.5％増）",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_3_31-3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、売上高は1,342百万円（前年同期比27.1％増）、セグメント利益は254百万円（前年同期比45.7％増）",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_3_31-3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、売上高は2,705百万円（前年同期比20.1％増）、セグメント利益は533百万円（前年同期比30.2％増）",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_3_31-3.pdf",
+    "pass": 2
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "当社が考える社会インフラのDXは、保守性、拡張性が高く、サイバーセキュリティが備わった先進的なシステムへ転換することです",
+    "url": "https://www.jpd.co.jp/ir/plan.html",
+    "pass": 1
+   },
+   {
+    "quote": "支払手数料 － 2,384",
+    "url": "https://www.jpd.co.jp/upload/docs/2026_9_30.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "義・開発からシステム構築、運用・保守まで一括してサービスを提供し、お客様へのサー",
+    "url": "https://www.jpd.co.jp/upload/docs/CorporateProfile.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "産業・ICTソリューション事業 - 日本プロセス — 産業・ICTソリューション事業 - 日本プロセス 日本プロセス https://www.jpd.co.jp > business > ict",
+    "url": "https://www.jpd.co.jp/business/ict.html",
+    "pass": 3
+   },
+   {
+    "quote": "人を、暮らしを、支えるICT。 - 日本プロセス — 人を、暮らしを、支えるICT。 - 日本プロセス 日本プロセス PDF https://www.jpd.co.jp > docs > CorporateProfile",
+    "url": "https://www.jpd.co.jp/upload/docs/CorporateProfile.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本プロセス の 新卒採用・就職・企業情報 - 就活会議 — 日本プロセス の 新卒採用・就職・企業情報 - 就活会議 就活会議 https://syukatsu-kaigi.jp > ... > ソフトウェア業界の企業一覧",
+    "url": "https://syukatsu-kaigi.jp/companies/122136",
+    "pass": 3
+   },
+   {
+    "quote": "日本プロセス 、5期連続で過去最高業績を更新 中計営業利益 ... — 日本プロセス 、5期連続で過去最高業績を更新 中計営業利益 ... ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/385334",
+    "pass": 3
+   },
+   {
+    "quote": "説明 会 資料 | 日本プロセス — 説明 会 資料 | 日本プロセス 日本プロセス https://www.jpd.co.jp > material",
+    "url": "https://www.jpd.co.jp/ir/material.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信 - 日本プロセス — 決算 短信 - 日本プロセス 日本プロセス https://www.jpd.co.jp > result",
+    "url": "https://www.jpd.co.jp/ir/result.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本プロセス [9651]： 決算説明 会 資料 2026年1月16日(適時開示) — 日本プロセス [9651]： 決算説明 会 資料 2026年1月16日(適時開示) 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260116535212/",
+    "pass": 3
+   },
+   {
+    "quote": "日本プロセス 【9651】の最新 決算 発表、業績修正 - 株探 — 日本プロセス 【9651】の最新 決算 発表、業績修正 - 株探 株探 https://kabutan.jp > 日本プロセス (9651)",
+    "url": "https://kabutan.jp/stock/finance?code=9651",
+    "pass": 3
+   },
+   {
+    "quote": "組織図 - 日本プロセス — 組織図 - 日本プロセス 日本プロセス https://www.jpd.co.jp > company > organigram",
+    "url": "https://www.jpd.co.jp/company/organigram.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本プロセス — 日本プロセス 日本プロセス https://www.jpd.co.jp",
+    "url": "https://www.jpd.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "日本プロセス 開発株式会社 | 現場・現物・現実から、仕組みを ... — 日本プロセス 開発株式会社 | 現場・現物・現実から、仕組みを ... 日本プロセス開発株式会社 https://www.j-p-d.co.jp",
+    "url": "https://www.j-p-d.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "日本プロセス 株式会社：JP1テクニカルパートナー：日立 — 日本プロセス 株式会社：JP1テクニカルパートナー：日立 Hitachi Global https://www.hitachi.co.jp > partner > details > tec_jp1_jpd",
+    "url": "https://www.hitachi.co.jp/Prod/comp/soft1/jp1/introduction/partner/details/tec_jp1_jpd.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本プロセス 【9651】の企業情報 - キタイシホン — 日本プロセス 【9651】の企業情報 - キタイシホン キタイシホン https://kitaishihon.com > company > top",
+    "url": "https://kitaishihon.com/company/9651/top",
+    "pass": 3
+   },
+   {
+    "quote": "社長 挨拶 - 日本プロセス — 社長 挨拶 - 日本プロセス 日本プロセス https://www.jpd.co.jp > company > message",
+    "url": "https://www.jpd.co.jp/company/message.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本プロセス 株式会社 代表取締役会長 大部仁 - 社長名鑑 — 日本プロセス 株式会社 代表取締役会長 大部仁 - 社長名鑑 社長名鑑 https://shachomeikan.jp > presidents > detail",
+    "url": "https://shachomeikan.jp/presidents/detail/10061395/790",
+    "pass": 3
+   },
+   {
+    "quote": "日本プロセス社長 に東智氏 - 日本経済新聞 — 日本プロセス社長 に東智氏 - 日本経済新聞 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXZQODZ00008_T20C24A4000000/",
+    "pass": 3
+   },
+   {
+    "quote": "経営理念 - 日本プロセス — 経営理念 - 日本プロセス 日本プロセス https://www.jpd.co.jp > company > philosophy",
+    "url": "https://www.jpd.co.jp/company/philosophy.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本プロセス 、 社長 に東智氏 | 日刊工業新聞 電子版 — 日本プロセス 、 社長 に東智氏 | 日刊工業新聞 電子版 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/709936",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.jpd.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpd.co.jp/business/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpd.co.jp/ir/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpd.co.jp/business/control.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpd.co.jp/business/traffic.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpd.co.jp/business/specific.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpd.co.jp/business/embedded.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpd.co.jp/business/ict.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpd.co.jp/business/customer.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpd.co.jp/business/partner.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpd.co.jp/company/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpd.co.jp/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpd.co.jp/ir/highlight.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpd.co.jp/ir/result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpd.co.jp/ir/securities.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpd.co.jp/ir/report.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpd.co.jp/ir/material.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpd.co.jp/ir/shareholder.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpd.co.jp/ir/plan.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpd.co.jp/ir/stock.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpd.co.jp/ir/ircalendar.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpd.co.jp/ir/disclosure.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpd.co.jp/sustainability/environment.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.jpd.co.jp/upload/docs/2026_10_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpd.co.jp/upload/docs/2026_9_30.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpd.co.jp/upload/docs/2026_9_25.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpd.co.jp/upload/docs/2026_9_8.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpd.co.jp/upload/docs/CorporateProfile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpd.co.jp/upload/docs/2026_7_7-4.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpd.co.jp/upload/docs/2026_3_31-3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpd.co.jp/upload/docs/2025_12_26.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpd.co.jp/upload/images/menu_business01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.jpd.co.jp/upload/images/menu_business02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.jpd.co.jp/upload/images/menu_business03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.jpd.co.jp/upload/images/menu_business04.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.jpd.co.jp/upload/images/menu_business05.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.jpd.co.jp/upload/images/bg_business.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.jpd.co.jp/upload/images/business01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.jpd.co.jp/upload/images/business02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://finance.logmi.jp/articles/385334",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shachomeikan.jp/presidents/detail/10061395/790",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日本プロセス",
+   "results": [
+    "https://www.jpd.co.jp/company/about.html",
+    "https://www.jpd.co.jp/",
+    "https://www.openwork.jp/company.php?m_id=a0910000000FrxN",
+    "https://job.mynavi.jp/28/pc/search/corp213869/outline.html",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=9651",
+    "https://ibaraki-worklife.jp/company/hn004/",
+    "https://doda.jp/DodaFront/View/Company/j_id__10009518290/",
+    "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9",
+    "https://ja.wikipedia.org/wiki/日本プロセス",
+    "https://www.jpd.co.jp/company/index.html"
+   ]
+  },
+  {
+   "query": "日本プロセス ビジネスモデル",
+   "results": [
+    "https://www.jpd.co.jp/business/ict.html",
+    "https://www.jpd.co.jp/upload/docs/CorporateProfile.pdf",
+    "https://syukatsu-kaigi.jp/companies/122136",
+    "https://finance.logmi.jp/articles/385334",
+    "https://clover.lt-s.jp/2264/",
+    "https://www.j-p-d.co.jp/",
+    "https://www.hitachi.co.jp/Prod/comp/soft1/jp1/introduction/partner/details/tec_jp1_jpd.html",
+    "https://www.bbreak.co.jp/maeyes/case/interview3.html",
+    "https://job.mynavi.jp/27/pc/search/corp213869/outline.html",
+    "https://ja.wikipedia.org/wiki/日本プロセス"
+   ]
+  },
+  {
+   "query": "日本プロセス 決算説明資料",
+   "results": [
+    "https://www.jpd.co.jp/ir/material.html",
+    "https://finance.logmi.jp/articles/385334",
+    "https://www.jpd.co.jp/ir/result.html",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260116535212/",
+    "https://kabutan.jp/stock/finance?code=9651",
+    "https://www.n-plast.co.jp/ir/library/presentation/",
+    "https://www.dnp.co.jp/ir/library/presentation/index.html",
+    "https://jp.nipponsanso.com/ir/financial/presentation.html",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20250718517123/",
+    "https://www.buffett-code.com/company/9651/library"
+   ]
+  },
+  {
+   "query": "日本プロセス 事業系統図",
+   "results": [
+    "https://www.jpd.co.jp/company/organigram.html",
+    "https://www.jpd.co.jp/",
+    "https://www.j-p-d.co.jp/",
+    "https://www.hitachi.co.jp/Prod/comp/soft1/jp1/introduction/partner/details/tec_jp1_jpd.html",
+    "https://kitaishihon.com/company/9651/top",
+    "https://ibaraki-worklife.jp/company/hn004/",
+    "https://www.jpd.co.jp/business/",
+    "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9",
+    "https://shachomeikan.jp/corporations/21115",
+    "https://ja.wikipedia.org/wiki/日本プロセス"
+   ]
+  },
+  {
+   "query": "日本プロセス 社長 インタビュー",
+   "results": [
+    "https://www.jpd.co.jp/company/message.html",
+    "https://shachomeikan.jp/presidents/detail/10061395/790",
+    "https://www.nikkei.com/article/DGXZQODZ00008_T20C24A4000000/",
+    "https://www.jpd.co.jp/company/philosophy.html",
+    "https://www.nikkan.co.jp/articles/view/709936",
+    "https://kitaishihon.com/company/9651/board-of-director",
+    "https://www.nikkei.com/article/DGXZQODZ00024_X20C21A4000000/",
+    "https://shachomeikan.jp/corporations/21115",
+    "https://en-hyouban.com/company/10009518290/",
+    "https://shachomeikan.jp/presidents/detail/10061395"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式23頁／PDF・画像16件／外部2頁・検索5回）"
+ }
+}

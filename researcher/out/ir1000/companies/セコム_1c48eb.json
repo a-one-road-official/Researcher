@@ -1,0 +1,1521 @@
+{
+ "name": "セコム",
+ "aliases": [],
+ "context": "証券コード9735／サービス業／プライム（内国株式）／2026.03期 売上高1,256,896百万円 営業利益率12.8%",
+ "researched_at": "2026-11-02T19:46:06.153209+00:00",
+ "official_url": "https://www.secom.co.jp/",
+ "identified_by": "search:yahoo_jp:セコム",
+ "profile": {},
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "顧客・機密情報の管理",
+    "url": "https://www.secom.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "障害発生のお知らせ ～SECOM Home Security App.(Android版)ご利用者様の一部～",
+    "url": "https://www.secom.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客・機密情報の管理",
+    "url": "https://www.secom.co.jp/inquiry/contact.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "ご契約内容の確認・変更、解約・中止、ご利用者の変更はこちら",
+    "url": "https://www.secom.co.jp/inquiry/contact.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "顧客・機密情報の管理",
+    "url": "https://www.secom.co.jp/business/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "顧客・機密情報の管理",
+    "url": "https://www.secom.co.jp/business/solution/office/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "顧客情報の管理や漏洩防止",
+    "url": "https://www.secom.co.jp/business/solution/office/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "パソコンやネットワークへの不正アクセスを防ぎ、顧客情報や機密情報の漏えいリスクを軽減します",
+    "url": "https://www.secom.co.jp/business/solution/office/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "顧客・機密情報の管理",
+    "url": "https://www.secom.co.jp/business/solution/large/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "最大2,000扉、12万ユーザーを管理",
+    "url": "https://www.secom.co.jp/business/solution/large/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "顧客・機密情報の管理",
+    "url": "https://www.secom.co.jp/business/solution/store/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "顧客・機密情報の管理",
+    "url": "https://www.secom.co.jp/business/solution/warehouse/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "顧客・機密情報の管理",
+    "url": "https://www.secom.co.jp/business/security/online/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "ＡからＺまで、お客様のありとあらゆるニーズに応える",
+    "url": "https://www.secom.co.jp/business/security/online/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "顧客・機密情報の管理",
+    "url": "https://www.secom.co.jp/business/security/goods/kanshicamera.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "顧客・機密情報の管理",
+    "url": "https://www.secom.co.jp/business/security/goods/room.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドを活用するため施設内にパソコン設置が不要で、管理者はウェブブラウザや専用のスマートフォンアプリを使い、どこからでも利用者の入退室権限管理、入退室履歴の確認、扉の施解錠が可能です",
+    "url": "https://www.secom.co.jp/business/security/goods/room.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "顧客・機密情報の管理",
+    "url": "https://www.secom.co.jp/business/medical/aed/guide/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "来店者・従業員など利用者が不特定",
+    "url": "https://www.secom.co.jp/business/medical/aed/guide/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "顧客・機密情報の管理",
+    "url": "https://www.secom.co.jp/business/saigai/anpi/anpi.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "「セコム安否確認サービス」のご利用実績は契約社約10,100社、ご利用者約869万人",
+    "url": "https://www.secom.co.jp/business/saigai/anpi/anpi.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の初動を強力にサポートします",
+    "url": "https://www.secom.co.jp/business/saigai/anpi/anpi.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "お客様とともに進化を続ける柔軟なサービス",
+    "url": "https://www.secom.co.jp/business/saigai/anpi/anpi.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "セコムのサービスは、お客様の声をもとに改良を重ね、時代や状況にあった新しい機能を積極的に追加し提供しています",
+    "url": "https://www.secom.co.jp/business/saigai/anpi/anpi.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "顧客・機密情報の管理",
+    "url": "https://www.secom.co.jp/business/kintai.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "利用者数に応じた分かりやすい料金設定で安心してご利用いただけます",
+    "url": "https://www.secom.co.jp/business/kintai.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "顧客・機密情報の管理",
+    "url": "https://www.secom.co.jp/business/solution/factory/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "顧客・機密情報の管理",
+    "url": "https://www.secom.co.jp/business/solution/restaurant/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "顧客・機密情報の管理",
+    "url": "https://www.secom.co.jp/business/solution/unmanned/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "顧客・機密情報の管理",
+    "url": "https://www.secom.co.jp/business/solution/home/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "顧客情報の管理や漏洩防止",
+    "url": "https://www.secom.co.jp/business/solution/home/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "貴重品や顧客情報の管理",
+    "url": "https://www.secom.co.jp/business/solution/home/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "顧客・機密情報の管理",
+    "url": "https://www.secom.co.jp/business/solution/owner/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "顧客・機密情報の管理",
+    "url": "https://www.secom.co.jp/business/solution/hotel/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "顧客情報の管理や漏洩防止",
+    "url": "https://www.secom.co.jp/business/solution/hotel/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用者や従業員の安全確保・トラブル抑止のために、",
+    "url": "https://www.secom.co.jp/business/solution/hotel/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "顧客・機密情報の管理",
+    "url": "https://www.secom.co.jp/business/solution/nursing/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "外部犯罪の抑止・記録や従業員の不正、施設利用者とのトラブルの抑止に加え、虐待や盗難などの不要な疑いをもたれないための記録として、",
+    "url": "https://www.secom.co.jp/business/solution/nursing/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "顧客・機密情報の管理",
+    "url": "https://www.secom.co.jp/business/solution/hospital/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "顧客情報の管理や漏洩防止",
+    "url": "https://www.secom.co.jp/business/solution/hospital/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "貴重品や利用者情報の管理",
+    "url": "https://www.secom.co.jp/business/solution/hospital/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "顧客・機密情報の管理",
+    "url": "https://www.secom.co.jp/business/solution/school/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "顧客情報の管理や漏洩防止",
+    "url": "https://www.secom.co.jp/business/solution/school/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "貴重品や利用者情報の管理",
+    "url": "https://www.secom.co.jp/business/solution/school/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "顧客・機密情報の管理",
+    "url": "https://www.secom.co.jp/business/solution/amusement/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "外部犯罪の抑止・記録や従業員の不正、施設利用者とのトラブル抑止のために、",
+    "url": "https://www.secom.co.jp/business/solution/amusement/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "顧客・機密情報の管理",
+    "url": "https://www.secom.co.jp/business/solution/financial/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "顧客情報の管理や漏洩防止",
+    "url": "https://www.secom.co.jp/business/solution/financial/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "貴重品や利用者情報の管理",
+    "url": "https://www.secom.co.jp/business/solution/financial/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "利用者の個人情報や金融資産を、物理的セキュリティ・情報セキュリティの両面での紛失・漏えいを防ぐため、",
+    "url": "https://www.secom.co.jp/business/solution/financial/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "顧客・機密情報の管理",
+    "url": "https://www.secom.co.jp/business/search/s18.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客・機密情報を管理するために、優れた防盗性、耐久性、耐火性を持つセコムオリジナルの金庫を",
+    "url": "https://www.secom.co.jp/business/search/s18.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様ご自身を守る身辺警備",
+    "url": "https://www.secom.co.jp/business/search/s18.html",
+    "pass": 1
+   },
+   {
+    "quote": "一方で、お客様へサービスを提供する場面においては、当社グループの従業員に対する、",
+    "url": "https://www.secom.co.jp/corporate/pdf/customer-harassment-policy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、今後も多くのお客様のご期待にお応えし、当社グループ従業員が心身と",
+    "url": "https://www.secom.co.jp/corporate/pdf/customer-harassment-policy.pdf",
+    "pass": 2
+   }
+  ],
+  "何を": [
+   {
+    "quote": "サービス内容",
+    "url": "https://www.secom.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "個人向けサービス・商品",
+    "url": "https://www.secom.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "個人向けサービス・",
+    "url": "https://www.secom.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "商品 トップ",
+    "url": "https://www.secom.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "見守りサービス一覧",
+    "url": "https://www.secom.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "法人向けサービス・商品",
+    "url": "https://www.secom.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "セコムの法人向けサービス・商品トップ",
+    "url": "https://www.secom.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス・商品から探す",
+    "url": "https://www.secom.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "防犯商品・サービス",
+    "url": "https://www.secom.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "カスハラ対策支援サービス",
+    "url": "https://www.secom.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "情報セキュリティ・クラウドサービス",
+    "url": "https://www.secom.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "安否確認サービス",
+    "url": "https://www.secom.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "勤怠管理サービス",
+    "url": "https://www.secom.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "業務支援・ソリューション",
+    "url": "https://www.secom.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "個人向けサービス",
+    "url": "https://www.secom.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ご家庭向け防犯・防災商品",
+    "url": "https://www.secom.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "法人向けサービス",
+    "url": "https://www.secom.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "セコムの法人向けサービスを見る",
+    "url": "https://www.secom.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "PHP脆弱性に関する弊社販売製品（監視カメラ）への影響について",
+    "url": "https://www.secom.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "個人向けサービス・商品トップ",
+    "url": "https://www.secom.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "見守り・防災商品",
+    "url": "https://www.secom.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "高齢者見守りサービス一覧",
+    "url": "https://www.secom.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "セコムの法人向けソリューション",
+    "url": "https://www.secom.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "セコムの法人向けソリューショントップ",
+    "url": "https://www.secom.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "建物別ソリューション",
+    "url": "https://www.secom.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス内容",
+    "url": "https://www.secom.co.jp/inquiry/contact.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "個人向けサービス・商品",
+    "url": "https://www.secom.co.jp/inquiry/contact.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "個人向けサービス・",
+    "url": "https://www.secom.co.jp/inquiry/contact.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "商品 トップ",
+    "url": "https://www.secom.co.jp/inquiry/contact.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "見守りサービス一覧",
+    "url": "https://www.secom.co.jp/inquiry/contact.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "法人向けサービス・商品",
+    "url": "https://www.secom.co.jp/inquiry/contact.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "セコムの法人向けサービス・商品トップ",
+    "url": "https://www.secom.co.jp/inquiry/contact.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "サービス・商品から探す",
+    "url": "https://www.secom.co.jp/inquiry/contact.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "防犯商品・サービス",
+    "url": "https://www.secom.co.jp/inquiry/contact.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "カスハラ対策支援サービス",
+    "url": "https://www.secom.co.jp/inquiry/contact.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "情報セキュリティ・クラウドサービス",
+    "url": "https://www.secom.co.jp/inquiry/contact.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "安否確認サービス",
+    "url": "https://www.secom.co.jp/inquiry/contact.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "勤怠管理サービス",
+    "url": "https://www.secom.co.jp/inquiry/contact.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "業務支援・ソリューション",
+    "url": "https://www.secom.co.jp/inquiry/contact.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの詳細やアカウント登録については、以下の「お客さまポータルについて詳しく見る」をご覧ください",
+    "url": "https://www.secom.co.jp/inquiry/contact.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "ご契約中のサービス情報を",
+    "url": "https://www.secom.co.jp/inquiry/contact.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "商品・サービスの導入ご検討",
+    "url": "https://www.secom.co.jp/inquiry/contact.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "各種サービス・",
+    "url": "https://www.secom.co.jp/inquiry/contact.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "セコム・ホームサービス",
+    "url": "https://www.secom.co.jp/inquiry/contact.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "セコム・ホームサービスについて詳しく見る",
+    "url": "https://www.secom.co.jp/inquiry/contact.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "電子メールお知らせサービス",
+    "url": "https://www.secom.co.jp/inquiry/contact.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "電子契約およびサービスの契約約款など",
+    "url": "https://www.secom.co.jp/inquiry/contact.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "ホームセキュリティサービス",
+    "url": "https://www.secom.co.jp/inquiry/contact.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "安全・安心をご提供する生活支援サービスなら、「セコム･ホームサービス」がオススメです",
+    "url": "https://www.secom.co.jp/inquiry/contact.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "最適なソリューションをご案内",
+    "url": "https://www.secom.co.jp/inquiry/contact.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "サービス内容",
+    "url": "https://www.secom.co.jp/business/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "個人向けサービス・商品",
+    "url": "https://www.secom.co.jp/business/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "個人向けサービス・",
+    "url": "https://www.secom.co.jp/business/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "商品 トップ",
+    "url": "https://www.secom.co.jp/business/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "見守りサービス一覧",
+    "url": "https://www.secom.co.jp/business/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "法人向けサービス・商品",
+    "url": "https://www.secom.co.jp/business/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "セコムの法人向けサービス・商品トップ",
+    "url": "https://www.secom.co.jp/business/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "サービス・商品から探す",
+    "url": "https://www.secom.co.jp/business/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "防犯商品・サービス",
+    "url": "https://www.secom.co.jp/business/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "カスハラ対策支援サービス",
+    "url": "https://www.secom.co.jp/business/?link=header",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "セコム暮らしのパートナー久我山",
+    "url": "https://www.secom.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "セコム暮らしのパートナー久我山",
+    "url": "https://www.secom.co.jp/inquiry/contact.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "お客さまご紹介制度のご案内",
+    "url": "https://www.secom.co.jp/inquiry/contact.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "セコム暮らしのパートナー久我山",
+    "url": "https://www.secom.co.jp/business/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "24時間営業店舗向け",
+    "url": "https://www.secom.co.jp/business/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "オフィスや店舗、工場、倉庫への侵入や盗難、火災や設備異常など、企業の身近にあるリスクに備える",
+    "url": "https://www.secom.co.jp/business/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "警備が必要なシーン別でおすすめのサービスを紹介",
+    "url": "https://www.secom.co.jp/business/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "屋外設置におすすめの防犯カメラを紹介！選び方のポイントや設置事例を解説",
+    "url": "https://www.secom.co.jp/business/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "屋外向けの防犯カメラをご検討の方へ、屋外向け防犯カメラの選び方や導入事例をご紹介します",
+    "url": "https://www.secom.co.jp/business/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "ご自宅やオフィスの主な設置場所の具体例やポイント、注意点についてご紹介します",
+    "url": "https://www.secom.co.jp/business/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "玄関に防犯カメラは必要？という疑問から効果的な防犯カメラの設置方法までご紹介します",
+    "url": "https://www.secom.co.jp/business/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "防犯カメラのさまざまな種類から形状や配線方式・便利機能を説明し、選ぶ際のポイントや設置例までご紹介します",
+    "url": "https://www.secom.co.jp/business/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "スマートフォンやパソコンでの確認方法、保存方法の違い、選び方、注意点まで、自宅や店舗の防犯に役立つ情報を紹介します",
+    "url": "https://www.secom.co.jp/business/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "防犯カメラの違いや活用場面、導入時のポイントをわかりやすく紹介します",
+    "url": "https://www.secom.co.jp/business/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "画質、圧縮方式、フレームレート、接続台数で保存期間が変わる理由や、録画保存期間を延ばす方法も紹介します",
+    "url": "https://www.secom.co.jp/business/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "車上荒らしや迷惑行為などの対策に役立つ機能や、設置時の注意点も紹介します",
+    "url": "https://www.secom.co.jp/business/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "映像の撮影・保存・確認方法、アナログカメラとネットワークカメラの違い、赤外線機能やAI画像解析機能などを紹介します",
+    "url": "https://www.secom.co.jp/business/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "セコム暮らしのパートナー久我山",
+    "url": "https://www.secom.co.jp/business/solution/office/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "店舗・オフィス向けの、手軽に導入可能なセキュリティ",
+    "url": "https://www.secom.co.jp/business/solution/office/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "家族経営の小さな店舗でも対応してくれますか？",
+    "url": "https://www.secom.co.jp/business/solution/office/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "警備が必要なシーン別でおすすめのサービスを紹介",
+    "url": "https://www.secom.co.jp/business/solution/office/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "セコム暮らしのパートナー久我山",
+    "url": "https://www.secom.co.jp/business/solution/large/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "大規模な建物全体のセキュリティをお願いするにあたり、業界での実績はもちろん、技術力や当社の店舗におけるシェアなどからセコムさんに相談することにしました",
+    "url": "https://www.secom.co.jp/business/solution/large/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "家族経営の小さな店舗でも対応してくれますか？",
+    "url": "https://www.secom.co.jp/business/solution/large/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "警備が必要なシーン別でおすすめのサービスを紹介",
+    "url": "https://www.secom.co.jp/business/solution/large/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "小売・店舗向けセキュリティ｜法人向けセキュリティ対策・防犯対策のセコム",
+    "url": "https://www.secom.co.jp/business/solution/store/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "セコム暮らしのパートナー久我山",
+    "url": "https://www.secom.co.jp/business/solution/store/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "小売・店舗向けセキュリティ",
+    "url": "https://www.secom.co.jp/business/solution/store/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "あなたの小売・店舗で考えられるリスク・課題",
+    "url": "https://www.secom.co.jp/business/solution/store/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "店舗の運営管理や犯罪抑止、お客さまトラブル発生時の映像確認のために、",
+    "url": "https://www.secom.co.jp/business/solution/store/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "店舗内を見渡せる場所に",
+    "url": "https://www.secom.co.jp/business/solution/store/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "24時間営業店舗向けの、画像監視セキュリティ",
+    "url": "https://www.secom.co.jp/business/solution/store/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "グループ全店舗のセキュリティをセコムさんにお願いしていますが、いつも安心感を得られていることが決め手となりました",
+    "url": "https://www.secom.co.jp/business/solution/store/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "家族経営の小さな店舗でも対応してくれますか？",
+    "url": "https://www.secom.co.jp/business/solution/store/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "警備が必要なシーン別でおすすめのサービスを紹介",
+    "url": "https://www.secom.co.jp/business/solution/store/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "小売・店舗向けセキュリティのページです",
+    "url": "https://www.secom.co.jp/business/solution/store/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "セコム暮らしのパートナー久我山",
+    "url": "https://www.secom.co.jp/business/solution/warehouse/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "家族経営の小さな店舗でも対応してくれますか？",
+    "url": "https://www.secom.co.jp/business/solution/warehouse/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "警備が必要なシーン別でおすすめのサービスを紹介",
+    "url": "https://www.secom.co.jp/business/solution/warehouse/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "セコム暮らしのパートナー久我山",
+    "url": "https://www.secom.co.jp/business/security/online/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "店舗・オフィス向け、手軽に導入可能なオンライン・セキュリティシステムです",
+    "url": "https://www.secom.co.jp/business/security/online/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "24時間営業店舗向け",
+    "url": "https://www.secom.co.jp/business/security/online/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "店舗やATMの異常を一元監視",
+    "url": "https://www.secom.co.jp/business/security/online/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "警備が必要なシーン別でおすすめのサービスを紹介",
+    "url": "https://www.secom.co.jp/business/security/online/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "セコム暮らしのパートナー久我山",
+    "url": "https://www.secom.co.jp/business/security/goods/kanshicamera.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "設置したカメラを活用して遠隔地から店舗の様子を確認したり、AIカメラで混雑を検知するなど、運営業務の効率化も支援します",
+    "url": "https://www.secom.co.jp/business/security/goods/kanshicamera.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "24時間営業店舗向け",
+    "url": "https://www.secom.co.jp/business/security/goods/kanshicamera.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "店舗内を見渡せる場所に",
+    "url": "https://www.secom.co.jp/business/security/goods/kanshicamera.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "小規模・多拠点展開する店舗やオフィスの省スペース・省力化、記録画像データの保全性向上を実現するために、カメラをインターネット回線で",
+    "url": "https://www.secom.co.jp/business/security/goods/kanshicamera.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "42歳/外食/店舗運営",
+    "url": "https://www.secom.co.jp/business/security/goods/kanshicamera.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "、事務所や店舗、工場、倉庫など幅広い施設において、用途やご要望に応じた",
+    "url": "https://www.secom.co.jp/business/security/goods/kanshicamera.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "を利用して、遠隔地から映像を確認できるため、防犯対策はもちろん、店舗やオフィスなどの状況把握にも活用できます",
+    "url": "https://www.secom.co.jp/business/security/goods/kanshicamera.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "複数店舗の映像をまとめて管理できますが？",
+    "url": "https://www.secom.co.jp/business/security/goods/kanshicamera.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "警備が必要なシーン別でおすすめのサービスを紹介",
+    "url": "https://www.secom.co.jp/business/security/goods/kanshicamera.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "屋外設置におすすめの防犯カメラを紹介！選び方のポイントや設置事例を解説",
+    "url": "https://www.secom.co.jp/business/security/goods/kanshicamera.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "屋外向けの防犯カメラをご検討の方へ、屋外向け防犯カメラの選び方や導入事例をご紹介します",
+    "url": "https://www.secom.co.jp/business/security/goods/kanshicamera.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "ご自宅やオフィスの主な設置場所の具体例やポイント、注意点についてご紹介します",
+    "url": "https://www.secom.co.jp/business/security/goods/kanshicamera.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "玄関に防犯カメラは必要？という疑問から効果的な防犯カメラの設置方法までご紹介します",
+    "url": "https://www.secom.co.jp/business/security/goods/kanshicamera.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "防犯カメラのさまざまな種類から形状や配線方式・便利機能を説明し、選ぶ際のポイントや設置例までご紹介します",
+    "url": "https://www.secom.co.jp/business/security/goods/kanshicamera.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "スマートフォンやパソコンでの確認方法、保存方法の違い、選び方、注意点まで、自宅や店舗の防犯に役立つ情報を紹介します",
+    "url": "https://www.secom.co.jp/business/security/goods/kanshicamera.html?link=header",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "令和8年熊本地震により被災された皆様へのお見舞いと復旧に向けた体制について",
+    "url": "https://www.secom.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1966年、日本初のオンラインによる",
+    "url": "https://www.secom.co.jp/business/solution/office/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "令和6年版 救急・救助の現況 総務省消防庁",
+    "url": "https://www.secom.co.jp/business/medical/aed/guide/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "令和6年度版 救急・救助の現況",
+    "url": "https://www.secom.co.jp/business/medical/aed/guide/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月末時点",
+    "url": "https://www.secom.co.jp/business/saigai/anpi/anpi.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "1966年、日本初のオンラインによる安全システム「SPアラーム」（建物内の異常感知、管制センターとの連携、緊急時発進）を開発しました",
+    "url": "https://www.secom.co.jp/business/search/s18.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025 年 2 月 3 日",
+    "url": "https://www.secom.co.jp/corporate/pdf/customer-harassment-policy.pdf",
+    "pass": 2
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "エレベーターの保守",
+    "url": "https://www.secom.co.jp/business/solution/large/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "給排水設備の保守",
+    "url": "https://www.secom.co.jp/business/solution/large/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "火災報知設備の保守",
+    "url": "https://www.secom.co.jp/business/solution/large/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "建物設備の機能維持に欠かせない消防、空調などの定期保守点検や清掃管理、不具合箇所の設備改修などを行うビルメンテナンスを導入",
+    "url": "https://www.secom.co.jp/business/solution/large/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "エレベーターの保守",
+    "url": "https://www.secom.co.jp/business/solution/warehouse/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "給排水設備の保守",
+    "url": "https://www.secom.co.jp/business/solution/warehouse/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "火災報知設備の保守",
+    "url": "https://www.secom.co.jp/business/solution/warehouse/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "保守契約で安心！",
+    "url": "https://www.secom.co.jp/business/security/goods/kanshicamera.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "万が一の故障時に迅速な対応・処置を可能にするオンコール対応や、有寿命機器の無償交換を含めた保守契約により、導入後のメンテナンス面でもご安心いただけます",
+    "url": "https://www.secom.co.jp/business/security/goods/kanshicamera.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "料金：月額1,320円～（税込）",
+    "url": "https://www.secom.co.jp/business/security/goods/kanshicamera.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "導入後も安心の保守契約をご用意",
+    "url": "https://www.secom.co.jp/business/security/goods/kanshicamera.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "オンコール対応や有寿命機器の無償交換を含む保守契約をご用意",
+    "url": "https://www.secom.co.jp/business/security/goods/kanshicamera.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "設置工事や保守も依頼できますか？",
+    "url": "https://www.secom.co.jp/business/security/goods/kanshicamera.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "設置工事はもちろん、保守契約もご用意しております",
+    "url": "https://www.secom.co.jp/business/security/goods/kanshicamera.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "商標「QRコードリーダー」は、株式会社デンソーウェーブのライセンスにもとづき使用されています",
+    "url": "https://www.secom.co.jp/business/security/goods/room.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "レンタルで保守不要、講習会対応",
+    "url": "https://www.secom.co.jp/business/medical/aed/guide/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "サービス利用料金",
+    "url": "https://www.secom.co.jp/business/saigai/anpi/anpi.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "月額基本料金",
+    "url": "https://www.secom.co.jp/business/saigai/anpi/anpi.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "月額従量料金",
+    "url": "https://www.secom.co.jp/business/saigai/anpi/anpi.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "サービス開始が月の途中となる場合、当該月の利用料金はご請求しません",
+    "url": "https://www.secom.co.jp/business/saigai/anpi/anpi.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "サービス終了月の月額利用料は、1ヵ月分全額お支払いいただきます",
+    "url": "https://www.secom.co.jp/business/saigai/anpi/anpi.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "従量料金の起算日は毎月1日です",
+    "url": "https://www.secom.co.jp/business/saigai/anpi/anpi.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "サービス開始が月の中途となる場合、当該月の利用料金はご請求しません",
+    "url": "https://www.secom.co.jp/business/saigai/anpi/anpi.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "初期費用不要&月額330円（税込）／1IDから",
+    "url": "https://www.secom.co.jp/business/kintai.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "個人やグループ単位で、時間帯における勤務人数やパターン、単価などを管理でき、従業員側からの申請機能もあるので、",
+    "url": "https://www.secom.co.jp/business/kintai.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "月額システム",
+    "url": "https://www.secom.co.jp/business/kintai.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "多彩な打刻方法、さまざまな就業ルールに対応する機能などを備え、初期費用ナシ・月額330円（税込）／1IDのシンプル価格",
+    "url": "https://www.secom.co.jp/business/kintai.html?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "エレベーターの保守",
+    "url": "https://www.secom.co.jp/business/solution/factory/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "給排水設備の保守",
+    "url": "https://www.secom.co.jp/business/solution/factory/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "火災報知設備の保守",
+    "url": "https://www.secom.co.jp/business/solution/factory/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "エレベーターの保守",
+    "url": "https://www.secom.co.jp/business/solution/unmanned/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "給排水設備の保守",
+    "url": "https://www.secom.co.jp/business/solution/unmanned/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "火災報知設備の保守",
+    "url": "https://www.secom.co.jp/business/solution/unmanned/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "エレベーターの保守",
+    "url": "https://www.secom.co.jp/business/solution/owner/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "給排水設備の保守",
+    "url": "https://www.secom.co.jp/business/solution/owner/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "火災報知設備の保守",
+    "url": "https://www.secom.co.jp/business/solution/owner/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "エレベーターの保守",
+    "url": "https://www.secom.co.jp/business/solution/hotel/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "給排水設備の保守",
+    "url": "https://www.secom.co.jp/business/solution/hotel/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "火災報知設備の保守",
+    "url": "https://www.secom.co.jp/business/solution/hotel/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "エレベーターの保守",
+    "url": "https://www.secom.co.jp/business/solution/nursing/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "給排水設備の保守",
+    "url": "https://www.secom.co.jp/business/solution/nursing/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "火災報知設備の保守",
+    "url": "https://www.secom.co.jp/business/solution/nursing/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "エレベーターの保守",
+    "url": "https://www.secom.co.jp/business/solution/hospital/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "給排水設備の保守",
+    "url": "https://www.secom.co.jp/business/solution/hospital/?link=header",
+    "pass": 1
+   },
+   {
+    "quote": "火災報知設備の保守",
+    "url": "https://www.secom.co.jp/business/solution/hospital/?link=header",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "セコム グループの事業領域｜ セコム のサステナビリティ経営 — セコム グループの事業領域｜ セコム のサステナビリティ経営 セコム株式会社 https://www.secom.co.jp > management > business",
+    "url": "https://www.secom.co.jp/corporate/sustainability/management/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "セコム グループ2030年ビジョン｜ビジョンと戦略 — セコム グループ2030年ビジョン｜ビジョンと戦略 セコム株式会社 https://www.secom.co.jp > 企業情報 > サステナビリティ",
+    "url": "https://www.secom.co.jp/corporate/sustainability/strategic/vision.html",
+    "pass": 3
+   },
+   {
+    "quote": "「社会システム産業」の構築をビジョンに掲げる会社 | セコム ... — 「社会システム産業」の構築をビジョンに掲げる会社 | セコム ... タナベコンサルティング https://review.tanabeconsulting.co.jp > 100年経営対談",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/10484/",
+    "pass": 3
+   },
+   {
+    "quote": "セコム の知財戦略：社会システム産業の深化に向けた「人 ... — セコム の知財戦略：社会システム産業の深化に向けた「人 ... TechnoProducer株式会社 https://www.techno-producer.com > AIレポート > 企業分析",
+    "url": "https://www.techno-producer.com/ai-report/secom_ip_strategy_report/",
+    "pass": 3
+   },
+   {
+    "quote": "セコム | 東洋経済オンライン | ふれるたび、視点がふえる — セコム | 東洋経済オンライン | ふれるたび、視点がふえる 東洋経済オンライン https://toyokeizai.net > タグ一覧",
+    "url": "https://toyokeizai.net/list/company/f8a01489d3c621d",
+    "pass": 3
+   },
+   {
+    "quote": "[ セコム ] 決算 短信｜IR情報｜ セコム 株式会社（9735） — [ セコム ] 決算 短信｜IR情報｜ セコム 株式会社（9735） セコム株式会社 https://www.secom.co.jp > ... > IR情報 > IRライブラリー",
+    "url": "https://www.secom.co.jp/corporate/ir/lib02.html",
+    "pass": 3
+   },
+   {
+    "quote": "[ セコム ]IR情報（IRカレンダー・株価情報）｜ セコム 株式会社 ... — [ セコム ]IR情報（IRカレンダー・株価情報）｜ セコム 株式会社 ... セコム株式会社 https://www.secom.co.jp > 企業情報",
+    "url": "https://www.secom.co.jp/corporate/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報｜ セコム 株式会社（9735）−信頼される安心を — IR情報｜ セコム 株式会社（9735）−信頼される安心を セコム株式会社 https://www.secom.co.jp > 企業情報 > IR情報",
+    "url": "https://www.secom.co.jp/corporate/ir/lib01.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報｜ セコム 株式会社（9735）−信頼される安心を — IR情報｜ セコム 株式会社（9735）−信頼される安心を セコム株式会社 https://www.secom.co.jp > ... > IR情報 > IRライブラリー",
+    "url": "https://www.secom.co.jp/corporate/ir/lib01_b.html",
+    "pass": 3
+   },
+   {
+    "quote": "株主通信 - IR情報｜ セコム 株式会社（9735） — 株主通信 - IR情報｜ セコム 株式会社（9735） セコム株式会社 https://www.secom.co.jp > ... > IR情報 > IRライブラリー",
+    "url": "https://www.secom.co.jp/corporate/ir/lib06.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜【 セコム 】防犯、警備、ホームセキュリティの ... — 会社概要｜【 セコム 】防犯、警備、ホームセキュリティの ... セコム株式会社 https://www.secom.co.jp > 企業情報 > 会社案内",
+    "url": "https://www.secom.co.jp/corporate/outline/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "グループ会社一覧｜【 セコム 】防犯、警備、ホーム ... — グループ会社一覧｜【 セコム 】防犯、警備、ホーム ... セコム株式会社 https://www.secom.co.jp > 企業情報 > 会社案内",
+    "url": "https://www.secom.co.jp/corporate/outline/group.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業 ｜ セコム 採用ポータルサイト｜SECOM — 事業 ｜ セコム 採用ポータルサイト｜SECOM セコム株式会社 https://www.secom.co.jp > ... > セコムグループの事業",
+    "url": "https://www.secom.co.jp/recruit/portal/business-field/",
+    "pass": 3
+   },
+   {
+    "quote": "セコム グループ ロードマップ2027｜ビジョンと戦略 — セコム グループ ロードマップ2027｜ビジョンと戦略 セコム株式会社 https://www.secom.co.jp > ... > ビジョンと戦略",
+    "url": "https://www.secom.co.jp/corporate/sustainability/strategic/vision2027.html",
+    "pass": 3
+   },
+   {
+    "quote": "社長 メッセージ｜【 セコム 】防犯、警備、ホームセキュリティ ... — 社長 メッセージ｜【 セコム 】防犯、警備、ホームセキュリティ ... セコム株式会社 https://www.secom.co.jp > 企業情報 > 会社案内",
+    "url": "https://www.secom.co.jp/corporate/outline/greeting/",
+    "pass": 3
+   },
+   {
+    "quote": "支 社長 ｜ セコム の人｜ セコム 新卒採用サイト｜ SECOM — 支 社長 ｜ セコム の人｜ セコム 新卒採用サイト｜ SECOM セコム株式会社 https://www.secom.co.jp > recruit > people > people11",
+    "url": "https://www.secom.co.jp/recruit/01/people/people11/",
+    "pass": 3
+   },
+   {
+    "quote": "（Leader's View インタビュー ） セコム ・吉田保幸 ... — （Leader's View インタビュー ） セコム ・吉田保幸 ... 朝日新聞 https://www.asahi.com > articles",
+    "url": "https://www.asahi.com/articles/DA3S16529573.html",
+    "pass": 3
+   },
+   {
+    "quote": "【リーダーナビ100】 セコム 株式会社 中山泰男 — 【リーダーナビ100】 セコム 株式会社 中山泰男 リーダーナビ 100 https://www.leader-navi.com > i-company > interview01",
+    "url": "https://www.leader-navi.com/i-company/interview01/",
+    "pass": 3
+   },
+   {
+    "quote": "役員一覧｜【 セコム 】防犯、警備、ホームセキュリティの ... — 役員一覧｜【 セコム 】防犯、警備、ホームセキュリティの ... セコム株式会社 https://www.secom.co.jp > 企業情報 > 会社案内",
+    "url": "https://www.secom.co.jp/corporate/outline/officer.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.secom.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.secom.co.jp/inquiry/contact.html?link=header",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.secom.co.jp/business/?link=header",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.secom.co.jp/business/solution/office/?link=header",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.secom.co.jp/business/solution/large/?link=header",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.secom.co.jp/business/solution/store/?link=header",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.secom.co.jp/business/solution/warehouse/?link=header",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.secom.co.jp/business/security/online/?link=header",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.secom.co.jp/business/security/goods/kanshicamera.html?link=header",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.secom.co.jp/business/security/goods/room.html?link=header",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.secom.co.jp/business/medical/aed/guide/?link=header",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.secom.co.jp/business/saigai/anpi/anpi.html?link=header",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.secom.co.jp/business/kintai.html?link=header",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.secom.co.jp/business/solution/factory/?link=header",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.secom.co.jp/business/solution/restaurant/?link=header",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.secom.co.jp/business/solution/unmanned/?link=header",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.secom.co.jp/business/solution/home/?link=header",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.secom.co.jp/business/solution/owner/?link=header",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.secom.co.jp/business/solution/hotel/?link=header",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.secom.co.jp/business/solution/nursing/?link=header",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.secom.co.jp/business/solution/hospital/?link=header",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.secom.co.jp/business/solution/school/?link=header",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.secom.co.jp/business/solution/amusement/?link=header",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.secom.co.jp/business/solution/financial/?link=header",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.secom.co.jp/business/search/s18.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.secom.co.jp/corporate/pdf/customer-harassment-policy.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.secom.co.jp/utility/unsoyakkan/pdf/unsoyakkan.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.secom.co.jp/business/img_v5/top/bus_kv_01_pc.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.secom.co.jp/business/img_v5/top/bus_kv_01_sp.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.secom.co.jp/business/img_v5/top/bus_kv_02_pc.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.secom.co.jp/business/img_v5/top/bus_kv_02_sp.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.secom.co.jp/business/img_v5/top/bus_kv_03_pc.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.secom.co.jp/business/img_v5/top/bus_kv_03_sp.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.secom.co.jp/business/img_v5/top/bus_kv_04_pc.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.secom.co.jp/business/img_v5/top/bus_kv_04_sp.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": []
+ },
+ "search_log": [
+  {
+   "query": "セコム",
+   "results": [
+    "https://www.secom.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%B3%E3%83%A0",
+    "https://x.com/SECOM_jp",
+    "https://www.secomtrust.net/",
+    "https://www.instagram.com/secom_jp/",
+    "https://grokipedia.com/page/SECOM_Trust_Systems",
+    "https://ja.wikipedia.org/wiki/セコム",
+    "https://en.wikipedia.org/wiki/Secom",
+    "https://www.secom.co.jp/personal/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=9735"
+   ]
+  },
+  {
+   "query": "セコム ビジネスモデル",
+   "results": [
+    "https://www.secom.co.jp/corporate/sustainability/management/business.html",
+    "https://www.secom.co.jp/corporate/sustainability/strategic/vision.html",
+    "https://review.tanabeconsulting.co.jp/100fcc/10484/",
+    "https://www.techno-producer.com/ai-report/secom_ip_strategy_report/",
+    "https://toyokeizai.net/list/company/f8a01489d3c621d",
+    "https://www.secom.co.jp/corporate/sustainability/infra/environment/circulation.html",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251223/20251104587251.pdf",
+    "https://www.secom.co.jp/recruit/portal/history/",
+    "https://www.secomtrust.net/aboutus/",
+    "https://bizi-mo.com/c/secom"
+   ]
+  },
+  {
+   "query": "セコム 決算説明資料",
+   "results": [
+    "https://www.secom.co.jp/corporate/ir/lib02.html",
+    "https://www.secom.co.jp/corporate/ir/",
+    "https://www.secom.co.jp/corporate/ir/lib01.html",
+    "https://www.secom.co.jp/corporate/ir/lib01_b.html",
+    "https://www.secom.co.jp/corporate/ir/lib06.html",
+    "https://www.secom-sonpo.co.jp/bspl/",
+    "https://www.secom.co.jp/corporate/ir/lib04.html",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=9735",
+    "https://www.secom.co.jp/corporate/ir/calendar.html",
+    "https://edinetdb.jp/company/E04773/presentations/"
+   ]
+  },
+  {
+   "query": "セコム 事業系統図",
+   "results": [
+    "https://www.secom.co.jp/corporate/outline/about.html",
+    "https://www.secom.co.jp/corporate/outline/group.html",
+    "https://www.secom.co.jp/recruit/portal/business-field/",
+    "https://www.secom.co.jp/corporate/sustainability/strategic/vision2027.html",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251223/20251104587251.pdf",
+    "https://www.secom.co.jp/corporate/vision/system/security.html",
+    "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%B3%E3%83%A0",
+    "https://www.secom.co.jp/corporate/ir/stockinfo01.html",
+    "https://www.techno-producer.com/ai-report/secom_ip_strategy_report/",
+    "https://www.secom.co.jp/corporate/vision/system/"
+   ]
+  },
+  {
+   "query": "セコム 社長 インタビュー",
+   "results": [
+    "https://www.secom.co.jp/corporate/outline/greeting/",
+    "https://www.secom.co.jp/recruit/01/people/people11/",
+    "https://www.asahi.com/articles/DA3S16529573.html",
+    "https://www.leader-navi.com/i-company/interview01/",
+    "https://www.secom.co.jp/corporate/outline/officer.html",
+    "https://th-biz.com/jp-exective-secom/",
+    "https://the-shashi.com/tse/9735/ceo/",
+    "https://jobtalk.jp/companies/54/answers/1049137",
+    "https://www.youtube.com/channel/UCx5fLmsmT05rv6PmhkVf66w",
+    "https://www.asahi.com/articles/DA3S16299790.html"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式25頁／PDF・画像10件／外部0頁・検索5回）",
+  "従業員数": "記載なし（3回確認済み：公式25頁／PDF・画像10件／外部0頁・検索5回）",
+  "事業内容": "記載なし（3回確認済み：公式25頁／PDF・画像10件／外部0頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像10件／外部0頁・検索5回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式25頁／PDF・画像10件／外部0頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式25頁／PDF・画像10件／外部0頁・検索5回）",
+  "利益の源泉": "記載なし（3回確認済み：公式25頁／PDF・画像10件／外部0頁・検索5回）"
+ }
+}

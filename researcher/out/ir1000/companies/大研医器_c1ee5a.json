@@ -1,0 +1,909 @@
+{
+ "name": "大研医器",
+ "aliases": [],
+ "context": "証券コード7775／精密機器／スタンダード（内国株式）／2026.03期 売上高10,291百万円 営業利益率12.4%",
+ "researched_at": "2026-11-02T19:51:02.126247+00:00",
+ "official_url": "https://daiken-iki.co.jp/",
+ "identified_by": "search:yahoo_jp:大研医器",
+ "profile": {
+  "従業員数": [
+   {
+    "label": "大研医器従業員持株会",
+    "value": "266,200 0.93",
+    "url": "https://daiken-iki.co.jp/ir/kabushiki/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "286名（2024年03月現在）",
+    "url": "https://shachomeikan.jp/industry_article/3238",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高 （解説）",
+    "value": "8,540 9,137 9,750 9,951 10,290",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=7775",
+    "pass": 3
+   },
+   {
+    "label": "売上高 （解説）",
+    "value": "4,454 4,824 4,914 5,057 5,097",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=7775",
+    "pass": 3
+   }
+  ],
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1968年",
+    "url": "https://shachomeikan.jp/industry_article/3238",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業概要",
+    "value": "医療用機械器具製造販売、医療用機械器具輸出入",
+    "url": "https://shachomeikan.jp/industry_article/3238",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "フジテレビ 「救命病棟24時」に製品提供を行いました",
+    "url": "https://daiken-iki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "フジテレビ 「Kidnap GAME」に製品提供を行いました",
+    "url": "https://daiken-iki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Netflix 「ダウンタイム」 に製品提供を行いました",
+    "url": "https://daiken-iki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品一覧 | 大研医器株式会社",
+    "url": "https://daiken-iki.co.jp/iryo/seihin.html",
+    "pass": 1
+   },
+   {
+    "quote": "吸引関連製品",
+    "url": "https://daiken-iki.co.jp/iryo/seihin.html",
+    "pass": 1
+   },
+   {
+    "quote": "医薬品注入器関連製品",
+    "url": "https://daiken-iki.co.jp/iryo/seihin.html",
+    "pass": 1
+   },
+   {
+    "quote": "手洗水装置関連製品",
+    "url": "https://daiken-iki.co.jp/iryo/seihin.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品についての",
+    "url": "https://daiken-iki.co.jp/iryo/seihin.html",
+    "pass": 1
+   },
+   {
+    "quote": "不織布ディスポーザブル製品を発売",
+    "url": "https://daiken-iki.co.jp/company/enkaku/",
+    "pass": 1
+   },
+   {
+    "quote": "「ウエットマット」1995年度日経産業新聞優秀製品・優秀賞受賞",
+    "url": "https://daiken-iki.co.jp/company/enkaku/",
+    "pass": 1
+   },
+   {
+    "quote": "新社屋（本社・商品開発研究所・アセンブリーセンター）完成、操業開始",
+    "url": "https://daiken-iki.co.jp/company/enkaku/",
+    "pass": 1
+   },
+   {
+    "quote": "商品開発研究所",
+    "url": "https://daiken-iki.co.jp/company/enkaku/",
+    "pass": 1
+   },
+   {
+    "quote": "硬膜外麻酔キット製品「硬膜外カテーテルキット」、注射筒輸液ポンプ「シリンジポンプ」、大容量携帯型ディスポーザブル持続注入器「バルーンジェクター」、分離肺換気用チューブ「気管支ブロッカーチューブ」をそれぞれ開発・発売",
+    "url": "https://daiken-iki.co.jp/company/enkaku/",
+    "pass": 1
+   },
+   {
+    "quote": "「シリンジポンプ」財団法人日本産業デザイン振興会のグッドデザイン賞を受賞（商品デザイン部門）",
+    "url": "https://daiken-iki.co.jp/company/enkaku/",
+    "pass": 1
+   },
+   {
+    "quote": "「ビデオラリンゴスコープポータブル」が財団法人日本産業デザイン振興会のグッドデザイン賞を受賞（商品デザイン部門）",
+    "url": "https://daiken-iki.co.jp/company/enkaku/",
+    "pass": 1
+   },
+   {
+    "quote": "新領域向け製品の開発を目的とする新市場開発部を首都圏に設立",
+    "url": "https://daiken-iki.co.jp/company/enkaku/",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品取引業者",
+    "url": "https://daiken-iki.co.jp/ir/kabushiki/",
+    "pass": 1
+   },
+   {
+    "quote": "主要な製品は、手術中に出る血液などの排液を吸引する吸引器（フィットフィックス）と手術後の痛みを軽減するための局所麻酔剤や鎮痛剤を体内へ持続的に注入するための持続注入器（シリンジェクター）です",
+    "url": "https://daiken-iki.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "製品はどんな所で使用されていますか？",
+    "url": "https://daiken-iki.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ブランド名は何ですか？",
+    "url": "https://daiken-iki.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ブランド名の由来は何ですか？",
+    "url": "https://daiken-iki.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "医療現場第一主義で現場ニーズを最大限に汲み取った独創的で特許性のある製品開発を行う研究開発型メーカーです",
+    "url": "https://daiken-iki.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の主力製品は国内トップシェアを獲得しており、特に麻酔科領域においては認知度が高いことです",
+    "url": "https://daiken-iki.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "麻酔科の先生方との太いパイプを活かした麻酔関連の製品開発だけでなく外科領域あるいは救急救命領域へと製品開発の幅を広げていっております",
+    "url": "https://daiken-iki.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "製販一貫で独創的な製品を創り出す",
+    "url": "https://daiken-iki.co.jp/ir/30sec_daikeniki/",
+    "pass": 1
+   },
+   {
+    "quote": "大研医器は製販一貫で医療機器製品の開発から販売まで手掛ける医療機器メーカーです",
+    "url": "https://daiken-iki.co.jp/ir/30sec_daikeniki/",
+    "pass": 1
+   },
+   {
+    "quote": "主に麻酔関連、病院感染防止関連製品の企画開発・製造販売を行っております",
+    "url": "https://daiken-iki.co.jp/ir/30sec_daikeniki/",
+    "pass": 1
+   },
+   {
+    "quote": "大研医器では、研究開発型医療機器メーカーとして、主に麻酔関連、病院感染防止関連製品の企画開発・製造販売を行っています",
+    "url": "https://daiken-iki.co.jp/ir/30sec_daikeniki/",
+    "pass": 1
+   },
+   {
+    "quote": "5つの製品群に分類し当社の事業をご紹介いたします",
+    "url": "https://daiken-iki.co.jp/ir/30sec_daikeniki/",
+    "pass": 1
+   },
+   {
+    "quote": "病院感染防止関連の製品であり、手術室、集中治療室、病棟等において医療配管設備を吸引源とし、血液、組織液、唾液等の体液や体液を含んだ排液を吸引する非電動式の真空吸引器です",
+    "url": "https://daiken-iki.co.jp/ir/30sec_daikeniki/",
+    "pass": 1
+   },
+   {
+    "quote": "麻酔関連の製品であり、主に手術後の痛みを軽減する目的でカテーテル（医療用の細いチューブ）等に接続し、局所麻酔剤や鎮痛剤を微量、持続的に投与するために使用する、加圧式医薬品注入器（携帯型ディスポーザブル注入ポンプ）です",
+    "url": "https://daiken-iki.co.jp/ir/30sec_daikeniki/",
+    "pass": 1
+   },
+   {
+    "quote": "麻酔関連の製品であり、極めて微量の薬液を精密に制御しながら持続的に投与するために使用するME機器（医療用電気機器）です",
+    "url": "https://daiken-iki.co.jp/ir/30sec_daikeniki/",
+    "pass": 1
+   },
+   {
+    "quote": "手洗い水装置関連の製品であり、手術室、集中治療室、病棟等において医療従事者の衛生的な手洗いに使用される、設備装置です",
+    "url": "https://daiken-iki.co.jp/ir/30sec_daikeniki/",
+    "pass": 1
+   },
+   {
+    "quote": "不織布ディスポーザブル製品を発売",
+    "url": "https://daiken-iki.co.jp/ir/30sec_daikeniki/",
+    "pass": 1
+   },
+   {
+    "quote": "新社屋（本社・商品開発研究所・アセンブリーセンター）完成、操業開始",
+    "url": "https://daiken-iki.co.jp/ir/30sec_daikeniki/",
+    "pass": 1
+   },
+   {
+    "quote": "独創性の高い新製品拡販",
+    "url": "https://daiken-iki.co.jp/ir/30sec_daikeniki/",
+    "pass": 1
+   },
+   {
+    "quote": "改良バイロン（特許第7269851号）、エイミー（特許第6726166号）などを拡販し、既存製品置き換えを実施",
+    "url": "https://daiken-iki.co.jp/ir/30sec_daikeniki/",
+    "pass": 1
+   },
+   {
+    "quote": "新製品（エイミー）を海外市場へ拡販",
+    "url": "https://daiken-iki.co.jp/ir/30sec_daikeniki/",
+    "pass": 1
+   },
+   {
+    "quote": "新分野・新製品の開発",
+    "url": "https://daiken-iki.co.jp/ir/30sec_daikeniki/",
+    "pass": 1
+   },
+   {
+    "quote": "フィットフィックス | 製品一覧 | 大研医器株式会社",
+    "url": "https://daiken-iki.co.jp/iryo/seihin_ff.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品紹介動画",
+    "url": "https://daiken-iki.co.jp/iryo/seihin_ff.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品バリエーションが豊富",
+    "url": "https://daiken-iki.co.jp/iryo/seihin_ff.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品についての",
+    "url": "https://daiken-iki.co.jp/iryo/seihin_ff.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療用 製品一覧",
+    "url": "https://daiken-iki.co.jp/iryo/seihin_ff.html",
+    "pass": 1
+   },
+   {
+    "quote": "吸引関連製品",
+    "url": "https://daiken-iki.co.jp/iryo/seihin_ff.html",
+    "pass": 1
+   },
+   {
+    "quote": "医薬品注入機器関連製品",
+    "url": "https://daiken-iki.co.jp/iryo/seihin_ff.html",
+    "pass": 1
+   },
+   {
+    "quote": "手洗い水装置関連製品",
+    "url": "https://daiken-iki.co.jp/iryo/seihin_ff.html",
+    "pass": 1
+   },
+   {
+    "quote": "クーデック キューインポット | 製品一覧 | 大研医器株式会社",
+    "url": "https://daiken-iki.co.jp/iryo/seihin_qp.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品紹介動画",
+    "url": "https://daiken-iki.co.jp/iryo/seihin_qp.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品についての",
+    "url": "https://daiken-iki.co.jp/iryo/seihin_qp.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療用 製品一覧",
+    "url": "https://daiken-iki.co.jp/iryo/seihin_qp.html",
+    "pass": 1
+   },
+   {
+    "quote": "吸引関連製品",
+    "url": "https://daiken-iki.co.jp/iryo/seihin_qp.html",
+    "pass": 1
+   },
+   {
+    "quote": "医薬品注入機器関連製品",
+    "url": "https://daiken-iki.co.jp/iryo/seihin_qp.html",
+    "pass": 1
+   },
+   {
+    "quote": "手洗い水装置関連製品",
+    "url": "https://daiken-iki.co.jp/iryo/seihin_qp.html",
+    "pass": 1
+   },
+   {
+    "quote": "クーデック コネクティングチューブ | 製品一覧 | 大研医器株式会社",
+    "url": "https://daiken-iki.co.jp/iryo/seihin_ct.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品についての",
+    "url": "https://daiken-iki.co.jp/iryo/seihin_ct.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療用 製品一覧",
+    "url": "https://daiken-iki.co.jp/iryo/seihin_ct.html",
+    "pass": 1
+   },
+   {
+    "quote": "吸引関連製品",
+    "url": "https://daiken-iki.co.jp/iryo/seihin_ct.html",
+    "pass": 1
+   },
+   {
+    "quote": "医薬品注入機器関連製品",
+    "url": "https://daiken-iki.co.jp/iryo/seihin_ct.html",
+    "pass": 1
+   },
+   {
+    "quote": "手洗い水装置関連製品",
+    "url": "https://daiken-iki.co.jp/iryo/seihin_ct.html",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "沿革｜企業情報｜大研医器株式会社 - 医療の未来を創造するイノベーション",
+    "url": "https://daiken-iki.co.jp/company/enkaku/",
+    "pass": 1
+   },
+   {
+    "quote": "会社情報・沿革について",
+    "url": "https://daiken-iki.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "1968年11月です",
+    "url": "https://daiken-iki.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "2009年3月に東京証券取引所に上場し、",
+    "url": "https://daiken-iki.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月3日（火）",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=7775",
+    "pass": 3
+   },
+   {
+    "quote": "1982年大研医器株式会社入社",
+    "url": "https://shachomeikan.jp/industry_article/3238",
+    "pass": 3
+   },
+   {
+    "quote": "1989年に常務取締役、1997年に専務取締役、2004年に社長に就任",
+    "url": "https://shachomeikan.jp/industry_article/3238",
+    "pass": 3
+   },
+   {
+    "quote": "2016年取締役を経て2019年に再び社長に就任",
+    "url": "https://shachomeikan.jp/industry_article/3238",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "ご紹介します",
+    "url": "https://daiken-iki.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "5つの製品群に分類し当社の事業をご紹介いたします",
+    "url": "https://daiken-iki.co.jp/ir/30sec_daikeniki/",
+    "pass": 1
+   },
+   {
+    "quote": "製品紹介動画",
+    "url": "https://daiken-iki.co.jp/iryo/seihin_ff.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品紹介動画",
+    "url": "https://daiken-iki.co.jp/iryo/seihin_qp.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品紹介動画",
+    "url": "https://daiken-iki.co.jp/iryo/seihin_amy.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品紹介動画",
+    "url": "https://daiken-iki.co.jp/iryo/seihin_sp.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品紹介動画",
+    "url": "https://daiken-iki.co.jp/iryo/seihin_brc.html",
+    "pass": 1
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=7775",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=7775",
+    "pass": 3
+   },
+   {
+    "quote": "進出企業紹介",
+    "url": "https://www.fbri-kobe.org/kbic/company/detail.php?company_id=680",
+    "pass": 3
+   },
+   {
+    "quote": "ドラッグセイムスなど1200店舗以上を運営する複合型医薬品企業",
+    "url": "https://shachomeikan.jp/industry_article/3238",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "強みは何ですか？",
+    "url": "https://daiken-iki.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "大研医器の強み",
+    "url": "https://daiken-iki.co.jp/ir/30sec_daikeniki/",
+    "pass": 1
+   },
+   {
+    "quote": "営業利益率（%）",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=7775",
+    "pass": 3
+   },
+   {
+    "quote": "ーー貴社の事業内容とその強みについてお聞かせください",
+    "url": "https://shachomeikan.jp/industry_article/3238",
+    "pass": 3
+   },
+   {
+    "quote": "これが私たちの強みです",
+    "url": "https://shachomeikan.jp/industry_article/3238",
+    "pass": 3
+   },
+   {
+    "quote": "このような製品はまさに私たちの強みが活かされた製品だと思っています",
+    "url": "https://shachomeikan.jp/industry_article/3238",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "特定保守管理医療機器",
+    "url": "https://daiken-iki.co.jp/iryo/seihin_ff.html",
+    "pass": 1
+   },
+   {
+    "quote": "特定保守管理医療機器",
+    "url": "https://daiken-iki.co.jp/iryo/seihin_qp.html",
+    "pass": 1
+   },
+   {
+    "quote": "特定保守管理医療機器",
+    "url": "https://daiken-iki.co.jp/iryo/seihin_amy.html",
+    "pass": 1
+   },
+   {
+    "quote": "特定保守管理医療機器",
+    "url": "https://daiken-iki.co.jp/iryo/seihin_sp.html",
+    "pass": 1
+   },
+   {
+    "quote": "特定保守管理医療機器",
+    "url": "https://daiken-iki.co.jp/iryo/seihin_st.html",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "企業ビジョン - 大研医器株式会社 — 企業ビジョン - 大研医器株式会社 大研医器株式会社 https://daiken-iki.co.jp > 企業情報",
+    "url": "https://daiken-iki.co.jp/company/vision/",
+    "pass": 3
+   },
+   {
+    "quote": "個人投資家向け会社説明会の動画公開のお知らせ — 個人投資家向け会社説明会の動画公開のお知らせ 大研医器株式会社 https://daiken-iki.co.jp > ニュース・トピックス",
+    "url": "https://daiken-iki.co.jp/4204/",
+    "pass": 3
+   },
+   {
+    "quote": "大研医器 株式会社｜KBIC 神戸医療産業都市ポータルサイト — 大研医器 株式会社｜KBIC 神戸医療産業都市ポータルサイト 神戸医療産業都市推進機構 https://www.fbri-kobe.org > kbic > company > detail",
+    "url": "https://www.fbri-kobe.org/kbic/company/detail.php?company_id=680",
+    "pass": 3
+   },
+   {
+    "quote": "大研医器 (株)【7775】 | 未来金融研究部《ミラキン》 — 大研医器 (株)【7775】 | 未来金融研究部《ミラキン》 未来金融研究部 https://mirakin.jp > ... > 東証スタンダード > 大阪府",
+    "url": "https://mirakin.jp/seizou/seimitsukiki/daiken-iki/",
+    "pass": 3
+   },
+   {
+    "quote": "大研医器 (株)【東証スタンダード上場企業】 - マイナビ — 大研医器 (株)【東証スタンダード上場企業】 - マイナビ マイナビ https://job.mynavi.jp > search > corp104492 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp104492/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 資料 - 株主・投資家情報 - 大研医器株式会社 — 決算説明 会 資料 - 株主・投資家情報 - 大研医器株式会社 大研医器株式会社 https://daiken-iki.co.jp > 株主・投資家情報 > IR資料",
+    "url": "https://daiken-iki.co.jp/ir/shiryo/setumeikai/",
+    "pass": 3
+   },
+   {
+    "quote": "【 大研医器 】[7775] 決算 発表や業務・財務情報 | 日経電子版 — 【 大研医器 】[7775] 決算 発表や業務・財務情報 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kessan",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=7775",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家情報 - 大研医器株式会社 — 株主・投資家情報 - 大研医器株式会社 大研医器株式会社 https://daiken-iki.co.jp > ...",
+    "url": "https://daiken-iki.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "大研医器 【7775】のIR動画 - キタイシホン — 大研医器 【7775】のIR動画 - キタイシホン キタイシホン https://kitaishihon.com > company > ir-meeting",
+    "url": "https://kitaishihon.com/company/7775/ir-meeting",
+    "pass": 3
+   },
+   {
+    "quote": "大研医器 、2026年3月期は増収減益 2027年3 ... - インベストーク — 大研医器 、2026年3月期は増収減益 2027年3 ... - インベストーク インベストーク https://investalk.jp > daiken-iki-2026-03-earnings",
+    "url": "https://investalk.jp/7775/daiken-iki-2026-03-earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "コンプライアンス｜企業情報 - 大研医器株式会社 — コンプライアンス｜企業情報 - 大研医器株式会社 大研医器株式会社 https://daiken-iki.co.jp > 企業情報",
+    "url": "https://daiken-iki.co.jp/company/konp/",
+    "pass": 3
+   },
+   {
+    "quote": "研究開発・生産体制 - 大研医器株式会社 — 研究開発・生産体制 - 大研医器株式会社 大研医器株式会社 https://daiken-iki.co.jp > kenkyu > s_taisei",
+    "url": "https://daiken-iki.co.jp/kenkyu/s_taisei.html",
+    "pass": 3
+   },
+   {
+    "quote": "大研医器 (株)【東証スタンダード上場企業】 - マイナビ — 大研医器 (株)【東証スタンダード上場企業】 - マイナビ マイナビ https://job.mynavi.jp > search > corp104492 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp104492/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 大研医器 様 会社案内ビデオ「Challenge～オンリー ... — 株式会社 大研医器 様 会社案内ビデオ「Challenge～オンリー ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=NBz3aGOaJBw",
+    "pass": 3
+   },
+   {
+    "quote": "業界毎特集記事－ 大研医器 株式会社 代表取締役 社長 山田 圭一 — 業界毎特集記事－ 大研医器 株式会社 代表取締役 社長 山田 圭一 社長名鑑 https://shachomeikan.jp > industry_article",
+    "url": "https://shachomeikan.jp/industry_article/3238",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報｜ 大研医器 株式会社 - 医療の未来を創造する ... — 企業情報｜ 大研医器 株式会社 - 医療の未来を創造する ... 大研医器株式会社 https://daiken-iki.co.jp > company",
+    "url": "https://daiken-iki.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "[ 大研医器 7775.T] 代表取締役の異動に関するお知らせ — [ 大研医器 7775.T] 代表取締役の異動に関するお知らせ BigGo ファイナンス https://finance.biggo.jp > jpx_tdnet_140120260227571515",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260227571515",
+    "pass": 3
+   },
+   {
+    "quote": "大研医器 【7775】の 社長 ・役員 - キタイシホン — 大研医器 【7775】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/7775/board-of-director",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=7775",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://daiken-iki.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daiken-iki.co.jp/iryo/seihin.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daiken-iki.co.jp/company/enkaku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daiken-iki.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daiken-iki.co.jp/ir/management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daiken-iki.co.jp/ir/gyoseki/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daiken-iki.co.jp/ir/shiryo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daiken-iki.co.jp/news/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daiken-iki.co.jp/ir/kabushiki/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daiken-iki.co.jp/ir/ircal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daiken-iki.co.jp/ir/kojin/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daiken-iki.co.jp/ir/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daiken-iki.co.jp/ir/30sec_daikeniki/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daiken-iki.co.jp/iryo/seihin_ff.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daiken-iki.co.jp/iryo/seihin_qp.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daiken-iki.co.jp/iryo/seihin_ct.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daiken-iki.co.jp/iryo/seihin_amy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daiken-iki.co.jp/iryo/seihin_rj.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daiken-iki.co.jp/iryo/seihin_be.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daiken-iki.co.jp/iryo/seihin_sp.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daiken-iki.co.jp/iryo/seihin_st.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daiken-iki.co.jp/iryo/seihin_tearai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daiken-iki.co.jp/iryo/seihin_wipeh.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daiken-iki.co.jp/iryo/seihin_brc.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daiken-iki.co.jp/iryo/seihin_brcR.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://daiken-iki.co.jp/resource/manual/manual_ff_0600450201_caster.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://daiken-iki.co.jp/resource/manual/manual_ff_0600450301_caster3.5.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://daiken-iki.co.jp/resource/manual/manual_ff_0600450101_wallhang.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://daiken-iki.co.jp/resource/manual/manual_ff_0230450201_TF_bag.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://daiken-iki.co.jp/resource/manual/manual_ff_0030450402_bottle.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://daiken-iki.co.jp/iryo/images/ff/document_FF_014.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://daiken-iki.co.jp/iryo/images/ff/document_FF_0980460104.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://daiken-iki.co.jp/iryo/images/ff/catalog_FF_20260723.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://daiken-iki.co.jp/commons/img/ir/30sec/business_img01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://daiken-iki.co.jp/commons/img/ir/30sec/business_img02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://daiken-iki.co.jp/commons/img/ir/30sec/business_img03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://daiken-iki.co.jp/commons/img/ir/30sec/business_img04.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://daiken-iki.co.jp/commons/img/ir/30sec/business_img05.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=7775",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fbri-kobe.org/kbic/company/detail.php?company_id=680",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shachomeikan.jp/industry_article/3238",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "大研医器",
+   "results": [
+    "https://daiken-iki.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%A0%94%E5%8C%BB%E5%99%A8",
+    "https://x.com/COOPDECH",
+    "https://www.fbri-kobe.org/kbic/company/detail.php?company_id=680",
+    "https://ja.wikipedia.org/wiki/大研医器",
+    "https://daiken-iki.co.jp/company/jigyo/",
+    "https://finance.yahoo.co.jp/quote/7775.T",
+    "https://www.nikkei.com/nkd/company/?scode=7775",
+    "https://shikiho.toyokeizai.net/stocks/7775",
+    "https://kabutan.jp/stock/?code=7775"
+   ]
+  },
+  {
+   "query": "大研医器 ビジネスモデル",
+   "results": [
+    "https://daiken-iki.co.jp/company/vision/",
+    "https://daiken-iki.co.jp/4204/",
+    "https://www.fbri-kobe.org/kbic/company/detail.php?company_id=680",
+    "https://mirakin.jp/seizou/seimitsukiki/daiken-iki/",
+    "https://job.mynavi.jp/28/pc/search/corp104492/outline.html",
+    "https://daiken-iki.co.jp/company/shimei/",
+    "https://p.sokai.jp/7775/report/index.html",
+    "https://ameblo.jp/furupanko1130/entry-12954162188.html",
+    "https://x.com/COOPDECH",
+    "https://daiken-iki.co.jp/ir/management/jigyo/"
+   ]
+  },
+  {
+   "query": "大研医器 決算説明資料",
+   "results": [
+    "https://daiken-iki.co.jp/ir/shiryo/setumeikai/",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=7775",
+    "https://daiken-iki.co.jp/ir/",
+    "https://kitaishihon.com/company/7775/ir-meeting",
+    "https://investalk.jp/7775/daiken-iki-2026-03-earnings/",
+    "https://www.moomoo.com/ja/stock/7775-JP/earnings",
+    "https://s.kabutan.jp/stocks/7775/news/",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250630/20250617592180.pdf",
+    "https://daiken-iki.co.jp/ir/shiryo/kessan/",
+    "https://edinetdb.jp/company/E22509/presentations/"
+   ]
+  },
+  {
+   "query": "大研医器 事業系統図",
+   "results": [
+    "https://daiken-iki.co.jp/company/konp/",
+    "https://www.fbri-kobe.org/kbic/company/detail.php?company_id=680",
+    "https://daiken-iki.co.jp/kenkyu/s_taisei.html",
+    "https://job.mynavi.jp/27/pc/search/corp104492/outline.html",
+    "https://www.youtube.com/watch?v=NBz3aGOaJBw",
+    "https://choujin.jp/story/238/",
+    "https://www.openwork.jp/a0C3000000CbWQT/analysis/",
+    "https://shachomeikan.jp/corporations/23445",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250630/20250617592180.pdf",
+    "https://ja.wikipedia.org/wiki/大研医器"
+   ]
+  },
+  {
+   "query": "大研医器 社長 インタビュー",
+   "results": [
+    "https://shachomeikan.jp/industry_article/3238",
+    "https://daiken-iki.co.jp/company/",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260227571515",
+    "https://kitaishihon.com/company/7775/board-of-director",
+    "https://mirakin.jp/seizou/seimitsukiki/daiken-iki/",
+    "https://x.com/COOPDECH",
+    "https://www.nikkei.com/article/DGXZQODZ00023_X20C26A2000000/",
+    "https://www.openwork.jp/company.php?m_id=a0C3000000CbWQT",
+    "https://daiken-iki.co.jp/news/media/post_126/",
+    "https://daiken-iki.co.jp/4340/"
+   ]
+  }
+ ],
+ "missing": {
+  "ビジネスモデル": "記載なし（3回確認済み：公式25頁／PDF・画像13件／外部3頁・検索5回）",
+  "誰に": "記載なし（3回確認済み：公式25頁／PDF・画像13件／外部3頁・検索5回）"
+ }
+}

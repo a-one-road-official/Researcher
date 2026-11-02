@@ -1,0 +1,1682 @@
+{
+ "name": "上組",
+ "aliases": [],
+ "context": "証券コード9364／倉庫・運輸関連業／プライム（内国株式）／2026.03期 売上高294,758百万円 営業利益率12.4%",
+ "researched_at": "2026-11-02T19:53:15.437506+00:00",
+ "official_url": "https://www.kamigumi.co.jp/",
+ "identified_by": "search:yahoo_jp:上組",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1947年2月28日（創業：1867年）",
+    "url": "https://www.kamigumi.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "label": "東神戸造船鉄工を設立（現",
+    "value": "カミックス）",
+    "url": "https://www.kamigumi.co.jp/company/history/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "連結：4,389人、 単体：3,633人（2026年3月末日現在）",
+    "url": "https://www.kamigumi.co.jp/company/overview/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "物流事業 港湾運送、倉庫、国内運送、工場荷役請負、国際運送、物流その他 その他 重量・建設、その他",
+    "url": "https://www.kamigumi.co.jp/company/overview/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "お客様の工場・倉庫などの構内で発生する本船からの原料受入、原料ヤードから各加工工程への運搬、製品の出荷に至るまでの運搬・輸送業務をトータルカバー",
+    "url": "https://www.kamigumi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の生産工程を把握・分析し、生産性向上と安全確保を実現しています",
+    "url": "https://www.kamigumi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のオーダーに応じて出荷します",
+    "url": "https://www.kamigumi.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の荷物に合わせて",
+    "url": "https://www.kamigumi.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のビジネスを強力に支援します",
+    "url": "https://www.kamigumi.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "全国各地の港湾ネットワークを通じて、車両・部品・建機など多様な貨物に対応し、お客様のニーズに合わせた総合物流サービスを展開しています",
+    "url": "https://www.kamigumi.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "保管に係る一切の業務を当社保有施設および従業員で行う事で、お客様の要望に合わせたきめ細やかでスピーデイーで効率的なサービスを提供しています",
+    "url": "https://www.kamigumi.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "輸出入貨物から国内物流まで、ワンストップで対応し、お客様の物流業務を包括的にサポートします",
+    "url": "https://www.kamigumi.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "日用品を取り扱う製造小売業、建設用クレーンなどの製造販売業、工作機械の卸売業など様々なお客様にご利用いただいており、単なる物流委託ではなく、お客様の事業成長を支える戦略的パートナーとして、最適なサプライチェーンを提供します",
+    "url": "https://www.kamigumi.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "同時に顧客ニーズも変化し、商品の受け入れ、",
+    "url": "https://www.kamigumi.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "同時に顧客ニーズも変化し、商品の受け入れ、在庫管理から最終地へのデリバリーまでの一貫サービスが求められるようになった",
+    "url": "https://www.kamigumi.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "この変化に対応すべく、当社は従来の港湾運送や倉庫業に加え、新規事業として顧客の物流機能全般を請け負う3ＰＬ（サード・パーティー・ロジスティクス）に取り組み始めた",
+    "url": "https://www.kamigumi.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "その積み重ねが、お客様の信頼を",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/31650f961fac427249c1d9e6170d2c7e87685109.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "いっ て顧客に感謝された時には、仕事のやりがいを感じます",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/31650f961fac427249c1d9e6170d2c7e87685109.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "のお客様の物流ニーズに応えていきたいと思っ ています",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/31650f961fac427249c1d9e6170d2c7e87685109.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1. お客様満足の向上",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/kamigumi_sus_jp_2025_250930.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "提供するこ とで、 顧客の満足と信頼を獲得するとともに、 社会貢献",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/kamigumi_sus_jp_2025_250930.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "を貫徹し、 顧客の多様化するニーズに対応した独自のサービスを",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/kamigumi_sus_jp_2025_250930.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● 当社グループの機密情報のみならず業務上知り得た顧客情報等",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/kamigumi_sus_jp_2025_250930.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● 取引先との契約に基づく対等な関係で取引を行う",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/kamigumi_sus_jp_2025_250930.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "認識し、 率先して関連企業や取引先に周知させる",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/kamigumi_sus_jp_2025_250930.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① お客様満足の向上",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/kamigumi_sus_jp_2025_250930.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サービスを提供するこ とで、 顧客の満足と信頼を獲得す",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/kamigumi_sus_jp_2025_250930.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "そのためには、 株主、 顧客や協力会社、 従業員、 地域社会といったステークホルダーとの",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/kamigumi_sus_jp_2025_250930.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "手段を活用した顧客のBCP （事業継続計画） への貢献 ●人間尊",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/kamigumi_sus_jp_2025_250930.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "あるこ とを認識し、 率先して関連企業や取引先に周知",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/kamigumi_sus_jp_2025_250930.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客のBCP （事業継続計画） への貢献",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/kamigumi_sus_jp_2025_250930.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、 大規模災害発生時に顧客のBCPおよびサプライチェーン",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/kamigumi_sus_jp_2025_250930.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "最新の試みとしては、 「平時は東京港で荷揚げしていた顧客の貨物",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/kamigumi_sus_jp_2025_250930.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "を、 利用者のみではなく、 周りの理解も深めるために社内報を通じて",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/kamigumi_sus_jp_2025_250930.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① 顧客や関係者への介在価値を高めるため、 自らの専門領域を広",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/kamigumi_sus_jp_2025_250930.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "」 「取引先との",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/kamigumi_sus_jp_2025_250930.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "いつの時代も、お客様に、そして社会のニーズ",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/Kamigumi_Purpose_LongTermVision2035_MidTermPlan2030_JP.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "私たちは、お客様とともに挑戦と変革を続け、",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/Kamigumi_Purpose_LongTermVision2035_MidTermPlan2030_JP.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社はお客様に徹底的に 「よりそう 」ことで、多くのお客様に",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/Kamigumi_Purpose_LongTermVision2035_MidTermPlan2030_JP.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「よりそう 」姿勢は、当社がお客様へ価値を提供する上での根幹であり",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/Kamigumi_Purpose_LongTermVision2035_MidTermPlan2030_JP.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "港湾は、国を超え、お客様同士やその先の生産者と消費者を 「つなぐ 」",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/Kamigumi_Purpose_LongTermVision2035_MidTermPlan2030_JP.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "社会やお客様のニーズは時代とともに変化していきます",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/Kamigumi_Purpose_LongTermVision2035_MidTermPlan2030_JP.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社自身が進化を続けることでお客様の変化を支え、時にはお客様と",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/Kamigumi_Purpose_LongTermVision2035_MidTermPlan2030_JP.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " 一方、トップライン向上に向けた 重点エリアへの集中投資、顧客開拓には課題",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/Kamigumi_Purpose_LongTermVision2035_MidTermPlan2030_JP.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "世界で顧客の物流課題",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/Kamigumi_Purpose_LongTermVision2035_MidTermPlan2030_JP.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "アカウントマネジメントを起点に 既存顧客の深耕 を図る",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/Kamigumi_Purpose_LongTermVision2035_MidTermPlan2030_JP.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客の窓口となる",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/Kamigumi_Purpose_LongTermVision2035_MidTermPlan2030_JP.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "を設置し、全社横断で顧客に",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/Kamigumi_Purpose_LongTermVision2035_MidTermPlan2030_JP.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "既存顧客を中心に付帯作業や",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/Kamigumi_Purpose_LongTermVision2035_MidTermPlan2030_JP.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客深耕・逸失機会の取込み",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/Kamigumi_Purpose_LongTermVision2035_MidTermPlan2030_JP.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客のバリューチェーン全体を支援",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/Kamigumi_Purpose_LongTermVision2035_MidTermPlan2030_JP.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "日系/現地顧客を開拓",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/Kamigumi_Purpose_LongTermVision2035_MidTermPlan2030_JP.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客への提案力",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/Kamigumi_Purpose_LongTermVision2035_MidTermPlan2030_JP.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "既存顧客からの案件開拓を通した",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/Kamigumi_Purpose_LongTermVision2035_MidTermPlan2030_JP.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客体験価値（CX）を向上",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/Kamigumi_Purpose_LongTermVision2035_MidTermPlan2030_JP.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " お客様の脱炭素化推進によって発生する",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/Kamigumi_Purpose_LongTermVision2035_MidTermPlan2030_JP.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■顧客ニーズ捉え",
+    "url": "https://www.jmd.co.jp/article.php?no=314937",
+    "pass": 3
+   },
+   {
+    "quote": "あたらしい力になる』の通り、顧客のニーズを捉え寄り添う基本方針を今まで以上に推し進める」",
+    "url": "https://www.jmd.co.jp/article.php?no=314937",
+    "pass": 3
+   },
+   {
+    "quote": "サイロや定温倉庫、生鮮燻蒸（くんじょう）庫といった特殊機能を持つ港湾アセットは、顧客のニーズを取り込んだものであり、安定した収益基盤だ",
+    "url": "https://www.jmd.co.jp/article.php?no=314937",
+    "pass": 3
+   },
+   {
+    "quote": "一方、利用運送は顧客が定着しにくい課題がある",
+    "url": "https://www.jmd.co.jp/article.php?no=314937",
+    "pass": 3
+   },
+   {
+    "quote": "顧客だけでなく従業員にも寄り添い、大切にしなければならないだろう」",
+    "url": "https://www.jmd.co.jp/article.php?no=314937",
+    "pass": 3
+   },
+   {
+    "quote": "お客様情報の外部送信について",
+    "url": "https://www.jmd.co.jp/article.php?no=314937",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "株式会社上組｜港湾を起点に日本と世界をつなぐ物流サービス",
+    "url": "https://www.kamigumi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.kamigumi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "総合物流サービス",
+    "url": "https://www.kamigumi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "工場構内サービス",
+    "url": "https://www.kamigumi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "重量貨物輸送サービス",
+    "url": "https://www.kamigumi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "その他サービス",
+    "url": "https://www.kamigumi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社上組 - 港湾を起点に日本と世界をつなぐ総合物流サービス -",
+    "url": "https://www.kamigumi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "コンテナ物流最適化サービスを提供するスタートアップ企業「OneStream株式会社」への出資のお知らせ",
+    "url": "https://www.kamigumi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介を詳しく見る",
+    "url": "https://www.kamigumi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の工場・倉庫などの構内で発生する本船からの原料受入、原料ヤードから各加工工程への運搬、製品の出荷に至るまでの運搬・輸送業務をトータルカバー",
+    "url": "https://www.kamigumi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "輸送サービス",
+    "url": "https://www.kamigumi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "発電プラント、化学プラントや産業機械、鉄道車両などの超重量貨物を、世界最大級のユニットキャリアをはじめ、様々な特殊車両や大型クレーンを駆使し、工場搬出から現地輸送・据付工事まで一貫したサービスを提供します",
+    "url": "https://www.kamigumi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "総合物流その他サービスサービス",
+    "url": "https://www.kamigumi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "豊富な保有施設と物流機器を基盤として、上組はコンテナから機械、プラント、鉄鋼製品、木材をはじめ、青果物や穀物など、",
+    "url": "https://www.kamigumi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.kamigumi.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "総合物流サービス",
+    "url": "https://www.kamigumi.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "工場構内サービス",
+    "url": "https://www.kamigumi.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "重量貨物輸送サービス",
+    "url": "https://www.kamigumi.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "その他サービス",
+    "url": "https://www.kamigumi.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "全てのサービスを提供しています",
+    "url": "https://www.kamigumi.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "上組は輸出入のサービスを",
+    "url": "https://www.kamigumi.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "国境を越えたシームレスな物流サービスを提供し、",
+    "url": "https://www.kamigumi.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.kamigumi.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "総合物流サービス",
+    "url": "https://www.kamigumi.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "工場構内サービス",
+    "url": "https://www.kamigumi.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "重量貨物輸送サービス",
+    "url": "https://www.kamigumi.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "その他サービス",
+    "url": "https://www.kamigumi.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "関連サービス",
+    "url": "https://www.kamigumi.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、輸入青果物の主力商品であるフィリピン産・南米産・東南アジア産の輸入バナナ、ニュージーランド産キウイ、各種輸入かんきつ類について、専用船での荷役作業からコンテナデバン、入庫、燻蒸、通関、保管に至るまでの一連の業務を迅速に実施しております",
+    "url": "https://www.kamigumi.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "全国の主要港湾において、完成車や中古車、自動車関連部品の輸出入、通関、本船荷役、保管、点検整備など、車両物流に関わる幅広いサービスを提供しています",
+    "url": "https://www.kamigumi.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "また、豊橋港をはじめとする主要拠点では、自社ヤードと新車整備センターを活用し、輸入車に対する納車前整備（PDI）、塗装、国内車検対応の整備など、付加価値の高いサービスを提供しています",
+    "url": "https://www.kamigumi.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "全国各地の港湾ネットワークを通じて、車両・部品・建機など多様な貨物に対応し、お客様のニーズに合わせた総合物流サービスを展開しています",
+    "url": "https://www.kamigumi.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、製鉄原料だけでなく、製品の保管や構内での仕分け・積み替え・移送作業など、製鉄所内の各種構内作業にも対応し、安定した生産体制を支える総合的な物流サービスを提供しています",
+    "url": "https://www.kamigumi.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "全国各地の当社保有施設・荷役機器・車両などで本船荷役・くん蒸・通関・定温保管・配達などのサービスを長年提供しています",
+    "url": "https://www.kamigumi.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "保管に係る一切の業務を当社保有施設および従業員で行う事で、お客様の要望に合わせたきめ細やかでスピーデイーで効率的なサービスを提供しています",
+    "url": "https://www.kamigumi.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "食品や食品原料の輸出入に関する本船荷役、通関、倉庫保管、国内配送・内航船手配、各種検疫対応および燻蒸など、輸出入に関わる業務全般を当社施設・従業員によって一気通貫でサービスの提供を行っています",
+    "url": "https://www.kamigumi.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "また、全国各地の港湾近郊にサイロや定温倉庫を多数展開しており、港湾と倉庫間の二次輸送に費やす時間やコストについてもメリットあるサービスの提供が可能です",
+    "url": "https://www.kamigumi.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "一例として輸入は米粉、タピオカ、澱粉、カカオバターなどの原料ならびにパスタ・チョコレート・加工食品などの製品、輸出は酒類、菓子類、鶏卵などがあります",
+    "url": "https://www.kamigumi.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "コンテナ貨物から在来船貨物まで、多様な貨物に対応した総合物流サービスを全国の港湾で提供しています",
+    "url": "https://www.kamigumi.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "コンテナ貨物については、東京港・神戸港でのコンテナターミナル単独運営をはじめ、全国各港で本船荷役・通関・倉庫保管などの一貫したサービスを展開しています",
+    "url": "https://www.kamigumi.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "長年のノウハウと全国ネットワークを活かし、貨物の特性に応じた最適な荷役・保管・輸送サービスを提供しています",
+    "url": "https://www.kamigumi.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は全国各港に多数の自社施設を展開しており、一般的なフォワーディングに留まらない、一貫輸送サービスを提供する事が可能です",
+    "url": "https://www.kamigumi.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "フォワーディングの枠を超え、ドレージや倉庫保管や加工、通関、バンニング、梱包など港湾運送事業独自のサービスを提供できます",
+    "url": "https://www.kamigumi.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "東南アジア・南西アジア・北米を中心に拠点を有し、食品・自動車部品・プラント貨物などの多岐にわたる貨物の国際輸送から流通加工、設備据付まで一貫した総合物流サービスを提供しています",
+    "url": "https://www.kamigumi.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、港湾運送事業で培った豊富な実績と、全国に展開する自社倉庫ネットワークを活かし、総合３ＰＬサービスを提供しています",
+    "url": "https://www.kamigumi.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "国内外の多様なプロジェクトに参画し、高品質な施工サービスを提供しています",
+    "url": "https://www.kamigumi.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.kamigumi.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "総合物流サービス",
+    "url": "https://www.kamigumi.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "工場構内サービス",
+    "url": "https://www.kamigumi.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "重量貨物輸送サービス",
+    "url": "https://www.kamigumi.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "その他サービス",
+    "url": "https://www.kamigumi.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.kamigumi.co.jp/company/library/",
+    "pass": 1
+   },
+   {
+    "quote": "総合物流サービス",
+    "url": "https://www.kamigumi.co.jp/company/library/",
+    "pass": 1
+   },
+   {
+    "quote": "工場構内サービス",
+    "url": "https://www.kamigumi.co.jp/company/library/",
+    "pass": 1
+   },
+   {
+    "quote": "重量貨物輸送サービス",
+    "url": "https://www.kamigumi.co.jp/company/library/",
+    "pass": 1
+   },
+   {
+    "quote": "その他サービス",
+    "url": "https://www.kamigumi.co.jp/company/library/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.kamigumi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "総合物流サービス",
+    "url": "https://www.kamigumi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "工場構内サービス",
+    "url": "https://www.kamigumi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "重量貨物輸送サービス",
+    "url": "https://www.kamigumi.co.jp/company/history/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "国内ネットワーク・施設紹介",
+    "url": "https://www.kamigumi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.kamigumi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介を詳しく見る",
+    "url": "https://www.kamigumi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "国内ネットワーク・施設紹介",
+    "url": "https://www.kamigumi.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.kamigumi.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介｜企業情報｜株式会社上組",
+    "url": "https://www.kamigumi.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "国内ネットワーク・施設紹介",
+    "url": "https://www.kamigumi.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.kamigumi.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "日用品を取り扱う製造小売業、建設用クレーンなどの製造販売業、工作機械の卸売業など様々なお客様にご利用いただいており、単なる物流委託ではなく、お客様の事業成長を支える戦略的パートナーとして、最適なサプライチェーンを提供します",
+    "url": "https://www.kamigumi.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "国内ネットワーク・施設紹介",
+    "url": "https://www.kamigumi.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.kamigumi.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "国内ネットワーク・施設紹介",
+    "url": "https://www.kamigumi.co.jp/company/library/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.kamigumi.co.jp/company/library/",
+    "pass": 1
+   },
+   {
+    "quote": "国内ネットワーク・施設紹介",
+    "url": "https://www.kamigumi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.kamigumi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "国内ネットワーク・施設紹介",
+    "url": "https://www.kamigumi.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.kamigumi.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "国内ネットワーク・施設紹介",
+    "url": "https://www.kamigumi.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.kamigumi.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "国内ネットワーク・施設紹介",
+    "url": "https://www.kamigumi.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.kamigumi.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "歩みを紹介していきます",
+    "url": "https://www.kamigumi.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "国内ネットワーク・施設紹介",
+    "url": "https://www.kamigumi.co.jp/news/news2026/news_20260130/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.kamigumi.co.jp/news/news2026/news_20260130/",
+    "pass": 1
+   },
+   {
+    "quote": "本報告書は、当社グループが、当社の原点である「現場力」と「港湾を核とする総合物流の実行力」をどのように磨き、社内外のパートナーと共に「共創する物流」をどのように具体化していくか、またその先にどのような未来像を描いているか、という点に重点を置いて構成いたしました",
+    "url": "https://www.kamigumi.co.jp/news/news2026/news_20260130/",
+    "pass": 1
+   },
+   {
+    "quote": "国内ネットワーク・施設紹介",
+    "url": "https://www.kamigumi.co.jp/ir/strategy/vision-plan/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.kamigumi.co.jp/ir/strategy/vision-plan/",
+    "pass": 1
+   },
+   {
+    "quote": "国内ネットワーク・施設紹介",
+    "url": "https://www.kamigumi.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.kamigumi.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "財務情報と非財務情報の両面から、当社の価値創造や中長期的な成長戦略を紹介するレポートです",
+    "url": "https://www.kamigumi.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "国内ネットワーク・施設紹介",
+    "url": "https://www.kamigumi.co.jp/sustainability/environment/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.kamigumi.co.jp/sustainability/environment/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "国内ネットワーク・施設紹介",
+    "url": "https://www.kamigumi.co.jp/sustainability/environment/climate-response/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.kamigumi.co.jp/sustainability/environment/climate-response/",
+    "pass": 1
+   },
+   {
+    "quote": "フランチャイズ",
+    "url": "https://www.kamigumi.co.jp/sustainability/environment/climate-response/",
+    "pass": 1
+   },
+   {
+    "quote": "国内ネットワーク・施設紹介",
+    "url": "https://www.kamigumi.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.kamigumi.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "国内ネットワーク・施設紹介",
+    "url": "https://www.kamigumi.co.jp/ir/strategy/message/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.kamigumi.co.jp/ir/strategy/message/",
+    "pass": 1
+   },
+   {
+    "quote": "国内ネットワーク・施設紹介",
+    "url": "https://www.kamigumi.co.jp/ir/strategy/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.kamigumi.co.jp/ir/strategy/",
+    "pass": 1
+   },
+   {
+    "quote": "義にとらわれず、信頼できるパートナーや有望なベンチャー",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/31650f961fac427249c1d9e6170d2c7e87685109.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "や ASEAN など成長著しい地域では、現地パートナーとの連携",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/31650f961fac427249c1d9e6170d2c7e87685109.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "はありませんが、現地パートナーとの信頼関係を土台にすれば、",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/31650f961fac427249c1d9e6170d2c7e87685109.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部の知見やパートナーシップを柔軟に取り入",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/31650f961fac427249c1d9e6170d2c7e87685109.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "設置されている指名・報酬委員会、それぞれがきちんと機",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/31650f961fac427249c1d9e6170d2c7e87685109.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "していただけるサービスを提供すること、 ビジネスパートナー",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/kamigumi_sus_jp_2025_250930.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "たビジネスパートナーに対しても、 本方針をご理解いただけるよう",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/kamigumi_sus_jp_2025_250930.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は地域とのパートナーシップを大切にしながら、 社会性 ・ 公共",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/kamigumi_sus_jp_2025_250930.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "判断基準を満たしておりますので、 同氏を独立役員として指名いたしました",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/kamigumi_sus_jp_2025_250930.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "基準を満たしておりますので、 同氏を独立役員として指名いたしました",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/kamigumi_sus_jp_2025_250930.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=9364",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=9364",
+    "pass": 3
+   },
+   {
+    "quote": "「海外でわれわれのアセットビジネスが展開できるかは、ゲートウエーを見定め、ローカルパートナーを正しく選ぶことが重要となる",
+    "url": "https://www.jmd.co.jp/article.php?no=314937",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "令和８年熊本地震被害に対する寄付について",
+    "url": "https://www.kamigumi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算説明会 書き起こし記事公開のお知らせ(ログミーFinance)",
+    "url": "https://www.kamigumi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算説明会質疑要旨",
+    "url": "https://www.kamigumi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.kamigumi.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.kamigumi.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年3月期",
+    "url": "https://www.kamigumi.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "2035年3月期",
+    "url": "https://www.kamigumi.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "1947年2月28日（創業：1867年）",
+    "url": "https://www.kamigumi.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革｜企業情報｜株式会社上組",
+    "url": "https://www.kamigumi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算説明会資料",
+    "url": "https://www.kamigumi.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "1925年に新築移転した",
+    "url": "https://www.kamigumi.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1925年11月には、本店事務所を現在の本店所在地に新築移転した",
+    "url": "https://www.kamigumi.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1945年第二次世界大戦が終結",
+    "url": "https://www.kamigumi.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1950年には、朝鮮戦争が勃発して特需ブームが起こり、大量かつ緊急の運送作業のため、一気に繁忙となり、営業活動は戦前を凌ぐ活況となる",
+    "url": "https://www.kamigumi.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1967年、アメリカからのコンテナ船を神戸港に迎え、日本の海上コンテナ輸送が開始された",
+    "url": "https://www.kamigumi.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1968年には本店にコンテナー課を発足し、コンテナ貨物取り扱いを開始",
+    "url": "https://www.kamigumi.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1973年には、上組ポートアイランド・コンテナセンターを建設",
+    "url": "https://www.kamigumi.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1970年代に活況だったプラント輸出は、1980年代に入るとイラン・イラク戦争勃発や、プラザ合意による円の急騰の影響から中東向けをはじめ減少期を迎えるが、一部の大型プロジェクトは継続した",
+    "url": "https://www.kamigumi.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1980年代に輸出停滞などで足踏み状態だった業績は、1990年代には積極的な設備投資の成果もあり、右肩上がりとなった",
+    "url": "https://www.kamigumi.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1990年後半になると、各部署が競うようにして3ＰＬ事業に参入し、2000年代にはさらに拡大、当社の事業の大きな柱へと成長していく",
+    "url": "https://www.kamigumi.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2003年、港運業界初となる単独運営の上組神戸コンテナターミナルがオープンした",
+    "url": "https://www.kamigumi.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2013年には神戸ポートアイランド総合物流センターが完成",
+    "url": "https://www.kamigumi.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年には脱炭素社会の実現に向けて、重量エネルギー輸送事業本部が、風力やバイオマス、水素等の関連事業全般を行う「新エネルギープロジェクト事業部」を新設",
+    "url": "https://www.kamigumi.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2035年にありたい姿を「",
+    "url": "https://www.kamigumi.co.jp/ir/strategy/vision-plan/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年3月期の財務目標",
+    "url": "https://www.kamigumi.co.jp/ir/strategy/vision-plan/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年に金融安定理事会（FSB）により設置された気候関連財務情報開示タスクフォース（TCFD）が取りまとめた提言に賛同し、気候変動が金融市場にもたらすリスクを分析・評価し、同提言が推奨する「ガバナンス」「リスク管理」「戦略」「指標と目標」の項目に沿った情報開示を行います",
+    "url": "https://www.kamigumi.co.jp/sustainability/environment/climate-response/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度",
+    "url": "https://www.kamigumi.co.jp/sustainability/environment/climate-response/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://www.kamigumi.co.jp/sustainability/environment/climate-response/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.kamigumi.co.jp/sustainability/environment/climate-response/",
+    "pass": 1
+   },
+   {
+    "quote": "2035 年に 4500 億円という目標を実現します",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/31650f961fac427249c1d9e6170d2c7e87685109.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2020 年に始動した前中計は、新型コロナウ",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/31650f961fac427249c1d9e6170d2c7e87685109.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022 年に、業績目標をコロナ前の水準に戻す見直しを行いま",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/31650f961fac427249c1d9e6170d2c7e87685109.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023 年の人事制度改正を受け、所属長 （経営層） ・ 部長 ・",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/31650f961fac427249c1d9e6170d2c7e87685109.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2015年に金融",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/kamigumi_sus_jp_2025_250930.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年度の水使用量は250,205㎥",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/kamigumi_sus_jp_2025_250930.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2006年12⽉1日 制定",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/kamigumi_sus_jp_2025_250930.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年3⽉末時点のドライブレコーダー搭載率は",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/kamigumi_sus_jp_2025_250930.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年度は女性総合職を対象としたキャ リア形成に関するプログラムを実施いたしました",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/kamigumi_sus_jp_2025_250930.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年10⽉10日",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/kamigumi_sus_jp_2025_250930.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年度より、 当社グループの事業活動によって引き起こし、 助長",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/kamigumi_sus_jp_2025_250930.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年度は、 社内複数部署および外部専門家と協力し、 上組グループ",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/kamigumi_sus_jp_2025_250930.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年度は、 既存の内部通報制度を含む相談窓口における課題を",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/kamigumi_sus_jp_2025_250930.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年度は、 ビジネスと人権について、 経営層 ・ マネジメ ン ト層 ・",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/kamigumi_sus_jp_2025_250930.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2009年より神戸市の六甲山系の一角を 「うさぎの森」 として植樹 ・",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/kamigumi_sus_jp_2025_250930.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年度の取締役会は取締役8名 （うち社外取締役3名） で構成さ",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/kamigumi_sus_jp_2025_250930.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年度は取締役会を17回開催しております",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/kamigumi_sus_jp_2025_250930.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2010年度より 「RiskManagementだより （RMだより） 」 を発行",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/kamigumi_sus_jp_2025_250930.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年は22件の事案を受け付けました",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/kamigumi_sus_jp_2025_250930.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年度中における環境関連の違反は0件でした",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/kamigumi_sus_jp_2025_250930.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年5月",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/Kamigumi_Purpose_LongTermVision2035_MidTermPlan2030_JP.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "201５年4月を起点として株価の推移を比較すると、足元で",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/Kamigumi_Purpose_LongTermVision2035_MidTermPlan2030_JP.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2015年４月 20２０年4月 20２5年3月",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/Kamigumi_Purpose_LongTermVision2035_MidTermPlan2030_JP.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年3月期 2030年3月期 2035年3月期",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/Kamigumi_Purpose_LongTermVision2035_MidTermPlan2030_JP.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2035年に向けては成長事業での収益拡大を進め、 連結営業収益 4,５00億円 を目指す",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/Kamigumi_Purpose_LongTermVision2035_MidTermPlan2030_JP.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2015年3月期 2020年3月期",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/Kamigumi_Purpose_LongTermVision2035_MidTermPlan2030_JP.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2030年3月期の計数目標",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/Kamigumi_Purpose_LongTermVision2035_MidTermPlan2030_JP.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/Kamigumi_Purpose_LongTermVision2035_MidTermPlan2030_JP.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "20３０年3月期",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/Kamigumi_Purpose_LongTermVision2035_MidTermPlan2030_JP.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年3月期 2030年3月期",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/Kamigumi_Purpose_LongTermVision2035_MidTermPlan2030_JP.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年3月期～2030年3月期累計",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/Kamigumi_Purpose_LongTermVision2035_MidTermPlan2030_JP.pdf",
+    "pass": 2
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.kamigumi.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "グラフのカッコ内数値は構成比",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/Kamigumi_Purpose_LongTermVision2035_MidTermPlan2030_JP.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの切り分けもあるが、海外向けのプラント事業など国際事業分野の一部の売り上げにとどまっており、現中期経営計画で海外事業のストラクチャーをどう構築していくかが課題だ」",
+    "url": "https://www.jmd.co.jp/article.php?no=314937",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "在庫管理から最終地へのデリバリーまでの",
+    "url": "https://www.kamigumi.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "同時に顧客ニーズも変化し、商品の受け入れ、在庫管理から最終地へのデリバリーまでの一貫サービスが求められるようになった",
+    "url": "https://www.kamigumi.co.jp/history/",
+    "pass": 1
+   },
+   {
+    "quote": "も、日本には他国にはない強みがあります",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/31650f961fac427249c1d9e6170d2c7e87685109.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これらの強みを",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/31650f961fac427249c1d9e6170d2c7e87685109.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "全国の港がそれぞれの強みを生かし て",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/31650f961fac427249c1d9e6170d2c7e87685109.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "みと強みを結 び、 産 業の芯を太くする",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/31650f961fac427249c1d9e6170d2c7e87685109.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その強みを生かしながら、さらなる増床や機能拡充を計画的に",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/31650f961fac427249c1d9e6170d2c7e87685109.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社が強みを持つ 「食」に関する物",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/31650f961fac427249c1d9e6170d2c7e87685109.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "教育と実践の良い循環をつく り、既存の強みを次の柱へと育て",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/31650f961fac427249c1d9e6170d2c7e87685109.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "強みや魅力、仕事の誇りといったものが、まだ十分に伝えきれ",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/31650f961fac427249c1d9e6170d2c7e87685109.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の強みと歴史を持っ ています",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/31650f961fac427249c1d9e6170d2c7e87685109.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "人の力が生きる 「現場力」が上組の強み",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/31650f961fac427249c1d9e6170d2c7e87685109.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "上組の強みは人材力、そしてそれを生",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/31650f961fac427249c1d9e6170d2c7e87685109.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ているというところが、上組の強みなのではないでしょうか",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/31650f961fac427249c1d9e6170d2c7e87685109.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "社 員に聞く上 組の強み",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/31650f961fac427249c1d9e6170d2c7e87685109.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "除き、大半の地域で、われわれの強みであるアセッ トも持たない業",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/31650f961fac427249c1d9e6170d2c7e87685109.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "内に根付き始めており、 この “真面目さ” は上組の強みで、",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/31650f961fac427249c1d9e6170d2c7e87685109.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "リスクもあり参入障壁も高いですが、上組の資金力とノウ",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/31650f961fac427249c1d9e6170d2c7e87685109.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "そうした事例が多いのは間違いなく上組の強み",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/31650f961fac427249c1d9e6170d2c7e87685109.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「投資なくして成長なし」 の気概を持ち、当社の強みである強固な",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/Kamigumi_Purpose_LongTermVision2035_MidTermPlan2030_JP.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " 強みを活かし、エネルギー・官公需・",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/Kamigumi_Purpose_LongTermVision2035_MidTermPlan2030_JP.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社がこれまで培ってきた強みを活かした事業展開を志向",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/Kamigumi_Purpose_LongTermVision2035_MidTermPlan2030_JP.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社がこれまで培ってきた強み",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/Kamigumi_Purpose_LongTermVision2035_MidTermPlan2030_JP.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "それぞれの強みを生かして案件を獲得した事例があるほか、相互に応援を要請し合うなど、実利主義で確実に連携は進んでいる」",
+    "url": "https://www.jmd.co.jp/article.php?no=314937",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "して導入 ・保守コストを削減する",
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/31650f961fac427249c1d9e6170d2c7e87685109.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "事業紹介｜企業情報｜株式会社 上組 — 事業紹介｜企業情報｜株式会社 上組 株式会社上組 https://www.kamigumi.co.jp > 企業情報",
+    "url": "https://www.kamigumi.co.jp/company/business/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 上組 ｜港湾を起点に日本と世界をつなぐ物流サービス — 株式会社 上組 ｜港湾を起点に日本と世界をつなぐ物流サービス 株式会社上組 https://www.kamigumi.co.jp",
+    "url": "https://www.kamigumi.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "長期ビジョン2035・中期経営計画2030｜株式会社 上組 — 長期ビジョン2035・中期経営計画2030｜株式会社 上組 株式会社上組 https://www.kamigumi.co.jp > IR情報 > 経営方針",
+    "url": "https://www.kamigumi.co.jp/ir/strategy/vision-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "すぐわかる 上組 ｜株式会社 上組 — すぐわかる 上組 ｜株式会社 上組 株式会社上組 https://www.kamigumi.co.jp > about",
+    "url": "https://www.kamigumi.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "上組 の 企業研究一覧（全9件） - 就活会議 — 上組 の 企業研究一覧（全9件） - 就活会議 就活会議 https://syukatsu-kaigi.jp > ... > ES・体験記一覧",
+    "url": "https://syukatsu-kaigi.jp/companies/12739/experiences/company_study",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報｜株式会社 上組 — IR情報｜株式会社 上組 株式会社上組 https://www.kamigumi.co.jp > ...",
+    "url": "https://www.kamigumi.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "【 上組 】[9364]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 上組 】[9364]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=9364",
+    "pass": 3
+   },
+   {
+    "quote": "上組 （9364）の 決算 発表 資料 一覧 - IRBANK — 上組 （9364）の 決算 発表 資料 一覧 - IRBANK IRBANK https://irbank.net > 倉庫・運輸関連 > 上組",
+    "url": "https://irbank.net/E04345/reports",
+    "pass": 3
+   },
+   {
+    "quote": "ニュース一覧｜株式会社 上組 — ニュース一覧｜株式会社 上組 株式会社上組 https://www.kamigumi.co.jp > news",
+    "url": "https://www.kamigumi.co.jp/news/",
+    "pass": 3
+   },
+   {
+    "quote": "【QAあり】 上組 、2Qは前年比営業利益 ＋14.3％と大幅増益 ... — 【QAあり】 上組 、2Qは前年比営業利益 ＋14.3％と大幅増益 ... ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/383089",
+    "pass": 3
+   },
+   {
+    "quote": "組織｜企業情報｜株式会社 上組 — 組織｜企業情報｜株式会社 上組 株式会社上組 https://www.kamigumi.co.jp > 企業情報",
+    "url": "https://www.kamigumi.co.jp/company/organization/",
+    "pass": 3
+   },
+   {
+    "quote": "事業 紹介｜企業情報｜株式会社 上組 — 事業 紹介｜企業情報｜株式会社 上組 株式会社上組 https://www.kamigumi.co.jp > 企業情報",
+    "url": "https://www.kamigumi.co.jp/company/business/",
+    "pass": 3
+   },
+   {
+    "quote": "国内ネットワーク・施設紹介｜企業情報 - 上組 — 国内ネットワーク・施設紹介｜企業情報 - 上組 株式会社上組 https://www.kamigumi.co.jp > 企業情報",
+    "url": "https://www.kamigumi.co.jp/company/domestic/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜企業情報 - 上組 — 会社概要｜企業情報 - 上組 株式会社上組 https://www.kamigumi.co.jp > 企業情報",
+    "url": "https://www.kamigumi.co.jp/company/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント情報（セグメント別営業収益）｜財務情報 - 上組 — セグメント情報（セグメント別営業収益）｜財務情報 - 上組 株式会社上組 https://www.kamigumi.co.jp > IR情報 > 財務情報",
+    "url": "https://www.kamigumi.co.jp/ir/financials/segments/",
+    "pass": 3
+   },
+   {
+    "quote": "【 インタビュー 新トップに聞く】 上組社長 ・田原典人氏 — 【 インタビュー 新トップに聞く】 上組社長 ・田原典人氏 日本海事新聞 電子版 https://www.jmd.co.jp > 物流/港運の記事一覧",
+    "url": "https://www.jmd.co.jp/article.php?no=314937",
+    "pass": 3
+   },
+   {
+    "quote": "トップメッセージ｜サステナビリティ｜株式会社 上組 — トップメッセージ｜サステナビリティ｜株式会社 上組 株式会社上組 https://www.kamigumi.co.jp > サステナビリティ",
+    "url": "https://www.kamigumi.co.jp/sustainability/message/",
+    "pass": 3
+   },
+   {
+    "quote": "＜新 社長 ＞ 上組 は田原典人氏 - 産経ニュース — ＜新 社長 ＞ 上組 は田原典人氏 - 産経ニュース 産経ニュース https://www.sankei.com > 経済 > 人事",
+    "url": "https://www.sankei.com/article/20251213-24MRTIAOOJLOTHPGF7NYKCJVFE/",
+    "pass": 3
+   },
+   {
+    "quote": "トップメッセージ｜企業情報｜株式会社 上組 — トップメッセージ｜企業情報｜株式会社 上組 株式会社上組 https://www.kamigumi.co.jp > 企業情報",
+    "url": "https://www.kamigumi.co.jp/company/message/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.kamigumi.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kamigumi.co.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kamigumi.co.jp/company/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kamigumi.co.jp/company/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kamigumi.co.jp/company/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kamigumi.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kamigumi.co.jp/sustainability/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kamigumi.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kamigumi.co.jp/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kamigumi.co.jp/news/news2026/news_20260130/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kamigumi.co.jp/ir/strategy/vision-plan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kamigumi.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kamigumi.co.jp/sustainability/environment/philosophy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kamigumi.co.jp/sustainability/environment/climate-response/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kamigumi.co.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kamigumi.co.jp/ir/strategy/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kamigumi.co.jp/ir/strategy/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/all_kamigumi_profile_Jp_2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/31650f961fac427249c1d9e6170d2c7e87685109.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/kamigumi_sus_jp_2025_250930.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/Kamigumi_Purpose_LongTermVision2035_MidTermPlan2030_JP.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/news_2026_0130.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kamigumi.co.jp/dcms_media/image/gnav_company_business.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/promotion-structure_system.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kamigumi.co.jp/dcms_media/other/ico_flower.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=9364",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmd.co.jp/article.php?no=314937",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/kaijiweb/status/2050374712430411851",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "上組",
+   "results": [
+    "https://www.kamigumi.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E4%B8%8A%E7%B5%84",
+    "https://job.mynavi.jp/28/pc/search/corp58139/outline.html",
+    "https://minkabu.jp/stock/9364",
+    "https://www.kamiriku.jp/",
+    "https://www.kamigumi-nagoya-cfs.jp/",
+    "https://ja.wikipedia.org/wiki/上組",
+    "https://www.kamigumi.co.jp/company/",
+    "https://finance.yahoo.co.jp/quote/9364.T",
+    "https://jobree.co.jp/tips/上組-やばい"
+   ]
+  },
+  {
+   "query": "上組 ビジネスモデル",
+   "results": [
+    "https://www.kamigumi.co.jp/company/business/",
+    "https://www.kamigumi.co.jp/",
+    "https://www.kamigumi.co.jp/ir/strategy/vision-plan/",
+    "https://www.kamigumi.co.jp/about/",
+    "https://syukatsu-kaigi.jp/companies/12739/experiences/company_study",
+    "https://job.mynavi.jp/28/pc/search/corp58139/outline.html",
+    "https://www.kamigumi.co.jp/recruit/about-us/",
+    "https://auba.eiicon.net/projects/45904",
+    "https://note.com/llama_kon/n/n0f60fbe9d15e",
+    "https://consovation.com/魅力あふれる総合物流企業-株式会社上組のビジネ/"
+   ]
+  },
+  {
+   "query": "上組 決算説明資料",
+   "results": [
+    "https://www.kamigumi.co.jp/ir/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=9364",
+    "https://irbank.net/E04345/reports",
+    "https://www.kamigumi.co.jp/news/",
+    "https://finance.logmi.jp/articles/383089",
+    "https://edinetdb.jp/company/E04345/presentations/",
+    "https://www.kamigumi.co.jp/ir/library/presentation/",
+    "https://www.kamigumi.co.jp/ir/library/",
+    "https://irbank.net/9364/ir",
+    "https://kaijiwire.jp/companies/6140001006951"
+   ]
+  },
+  {
+   "query": "上組 事業系統図",
+   "results": [
+    "https://www.kamigumi.co.jp/company/organization/",
+    "https://www.kamigumi.co.jp/company/business/",
+    "https://www.kamigumi.co.jp/company/domestic/",
+    "https://www.kamigumi.co.jp/company/overview/",
+    "https://www.kamigumi.co.jp/ir/financials/segments/",
+    "https://www.kamigumi.co.jp/company/group/",
+    "https://www.kamigumi.co.jp/dcms_media/other/news_2026_0130.pdf",
+    "https://www.kamigumi.co.jp/company/domestic/overseas/",
+    "https://ja.wikipedia.org/wiki/上組",
+    "https://enehub.jp/news/上組、兵庫県で13mwの系統用蓄電池事業を2026年に運転/"
+   ]
+  },
+  {
+   "query": "上組 社長 インタビュー",
+   "results": [
+    "https://www.jmd.co.jp/article.php?no=314937",
+    "https://x.com/kaijiweb/status/2050374712430411851",
+    "https://www.kamigumi.co.jp/sustainability/message/",
+    "https://www.sankei.com/article/20251213-24MRTIAOOJLOTHPGF7NYKCJVFE/",
+    "https://www.kamigumi.co.jp/company/message/",
+    "https://www.nikkei.com/article/DGXZQOUF126ZL0S5A211C2000000/",
+    "https://online.logi-biz.com/136526/",
+    "https://www.nikkan.co.jp/articles/view/768919",
+    "https://mainichi.jp/articles/20251213/ddm/008/020/090000c",
+    "https://apl.jmd.co.jp/apl/article.php?no=314937"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式17頁／PDF・画像8件／外部3頁・検索5回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式17頁／PDF・画像8件／外部3頁・検索5回）"
+ }
+}

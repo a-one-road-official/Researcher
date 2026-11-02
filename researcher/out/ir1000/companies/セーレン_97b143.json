@@ -1,0 +1,1756 @@
+{
+ "name": "セーレン",
+ "aliases": [],
+ "context": "証券コード3569／繊維製品／プライム（内国株式）／2026.03期 売上高171,765百万円 営業利益率12.1%",
+ "researched_at": "2026-11-02T19:57:51.484424+00:00",
+ "official_url": "https://www.seiren.com/",
+ "identified_by": "search:yahoo_jp:セーレン",
+ "profile": {
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "1,717億円",
+    "url": "https://www.firstcvc.jp/company/seiren.com",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "連結: 1596.53億円 (2025/3月期)",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3",
+    "pass": 3
+   }
+  ],
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1923年 5月1日 （福井精練加工株式会社）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "単体1,609人、連結6,121人 （2021年3月期）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "ビジネスモデル": [
+   {
+    "quote": "究極のビジネスモデル「ビスコテックス」",
+    "url": "https://www.seiren.com/",
+    "pass": 1
+   },
+   {
+    "quote": "究極のビジネスモデル「ビスコテックス」",
+    "url": "https://www.seiren.com/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "究極のビジネスモデル「ビスコテックス」",
+    "url": "https://www.seiren.com/product/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "究極のビジネスモデル「ビスコテックス」",
+    "url": "https://www.seiren.com/inquiry/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "究極のビジネスモデル「ビスコテックス」",
+    "url": "https://www.seiren.com/products/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "小ロット、短納期、在庫レス、オンネット、カスタマイズを実現し、「ほしいものを・ほしいときに・ほしいだけ」作る環境に優しい究極のビジネスモデルです",
+    "url": "https://www.seiren.com/products/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "究極のビジネスモデル「ビスコテックス」",
+    "url": "https://www.seiren.com/products/electro/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "究極のビジネスモデル「ビスコテックス」",
+    "url": "https://www.seiren.com/products/electro/electronics/metaflex/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "究極のビジネスモデル「ビスコテックス」",
+    "url": "https://www.seiren.com/products/electro/electronics/fabric/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "究極のビジネスモデル「ビスコテックス」",
+    "url": "https://www.seiren.com/products/electro/electronics/moisture_permeable_waterproof_tape/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "究極のビジネスモデル「ビスコテックス」",
+    "url": "https://www.seiren.com/products/materials/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "究極のビジネスモデル「ビスコテックス」",
+    "url": "https://www.seiren.com/products/materials/civil_engineering/glassguard/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "究極のビジネスモデル「ビスコテックス」",
+    "url": "https://www.seiren.com/products/materials/architecture/mistguard/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "究極のビジネスモデル「ビスコテックス」",
+    "url": "https://www.seiren.com/products/materials/architecture/premiumthermo/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "究極のビジネスモデル「ビスコテックス」",
+    "url": "https://www.seiren.com/products/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ビスコテックスは、過剰生産による生地や基材、染色のムダを究極までリデュースし、無公害型の生産ラインでエネルギーの使用量を従来の1/5 ～1/20に削減、在庫レスを実現する地球にやさしい新しいビジネスモデルです",
+    "url": "https://www.seiren.com/products/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "究極のビジネスモデル「ビスコテックス」",
+    "url": "https://www.seiren.com/products/environment/fiberweed/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "究極のビジネスモデル「ビスコテックス」",
+    "url": "https://www.seiren.com/quole/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "究極のビジネスモデル「ビスコテックス」",
+    "url": "https://www.seiren.com/products/medical/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "究極のビジネスモデル「ビスコテックス」",
+    "url": "https://www.seiren.com/products/medical/composite_material/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "究極のビジネスモデル「ビスコテックス」",
+    "url": "https://www.seiren.com/products/medical/medical_device/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "究極のビジネスモデル「ビスコテックス」",
+    "url": "https://www.seiren.com/products/medical/byerus/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "究極のビジネスモデル「ビスコテックス」",
+    "url": "https://www.seiren.com/products/health/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "究極のビジネスモデル「ビスコテックス」",
+    "url": "https://www.seiren.com/products/health/oem/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "究極のビジネスモデル「ビスコテックス」",
+    "url": "https://www.seiren.com/products/livingware/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "究極のビジネスモデル「ビスコテックス」",
+    "url": "https://www.seiren.com/products/auto/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "世界に類のないビジネスモデルで、時代とお客先の求めるニーズにグローバルに対応します",
+    "url": "https://www.seiren.com/products/auto/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "セーレン株式会社のビジネスモデルを深掘り 最新IR資料が示す成長戦略の魅力 | チームマイクの企業分析",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "セーレン株式会社のビジネスモデルを深掘り 最新IR資料が示す成長戦略の魅力",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "国内製紙業界を支える日本フエルトのビジネスモデルとIR資料から読み解く成長戦略",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "TSIホールディングスのビジネスモデルで読み解く成長戦略とIR資料の注目ポイントを徹底解説",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ナイガイの魅力を探るビジネスモデルと成長戦略",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "企業の成長戦略を徹底解剖するビジネスモデルの全貌が分かるIR資料級ガイドを公開",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "数字で紐解くビジネスモデルとIR資料から見る成長戦略 アクサスホールディングスの魅力を徹底解析",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "シキボウのビジネスモデルと成長戦略に迫る最新情報徹底解説",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "企業成長を加速するFOOD & LIFE COMPANIESのビジネスモデルと成長戦略を徹底解剖します",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "高品質な染色技術で未来を拓く 株式会社ソトーのビジネスモデルと成長戦略を徹底解説",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ドライケミカル株式会社の『ビジネスモデル』と圧倒的競争力を解",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社動力のIR資料から紐解く次世代へのビジネスモデルと成長戦略",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ガイシの驚異的なビジネスモデルと次世代へ向けた成長戦略を徹底解説",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "マーチャント・バンカーズの隠された成長戦略と驚異のビジネスモデル",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "・IT化・ビジネスモデル転換：ITを活用して新しいビジネスモデルを構築する",
+    "url": "https://www.firstcvc.jp/company/seiren.com",
+    "pass": 3
+   },
+   {
+    "quote": "・「生活価値創造企業」を目指し、「素材から製品化、BtoBからBtoC」を中期事業戦略とする付加価値の高い流通ポジションでの販売事業拡大と高収益モデルへの転換",
+    "url": "https://www.firstcvc.jp/company/seiren.com",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "個人のお客様のお買い物",
+    "url": "https://www.seiren.com/",
+    "pass": 1
+   },
+   {
+    "quote": "法人のお客様はこちら",
+    "url": "https://www.seiren.com/",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様はこちら",
+    "url": "https://www.seiren.com/",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様のお買い物",
+    "url": "https://www.seiren.com/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様のお買い物 | セーレン株式会社",
+    "url": "https://www.seiren.com/product/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様のお買い物",
+    "url": "https://www.seiren.com/product/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "セーレン株式会社の個人のお客様向け商品リストがご覧いただけます",
+    "url": "https://www.seiren.com/product/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様のお買い物",
+    "url": "https://www.seiren.com/inquiry/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様のお買い物",
+    "url": "https://www.seiren.com/products/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "原糸製造から染色加工、素材開発、商品企画、小売り事業まで、衣料繊維事業におけるお客様の様々なお悩みを解決いたします",
+    "url": "https://www.seiren.com/products/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様のお買い物",
+    "url": "https://www.seiren.com/products/electro/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "染色加工技術とエレクトロニクス技術を融合、さらにユーザー志向にもとづいた先進のメカトロニクス技術で、省力化に向けた繊維・産業資材機器の開発・製造・販売をします",
+    "url": "https://www.seiren.com/products/electro/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様のお買い物",
+    "url": "https://www.seiren.com/products/electro/electronics/metaflex/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様のお買い物",
+    "url": "https://www.seiren.com/products/electro/electronics/fabric/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様のお買い物",
+    "url": "https://www.seiren.com/products/electro/electronics/moisture_permeable_waterproof_tape/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様のお買い物",
+    "url": "https://www.seiren.com/products/materials/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "国内トップシェアを誇る透湿防水シート、床合板養生シートをはじめ、メンテナンスフリーの商品防草シートなど、多くのお客様から高い評価を受けています",
+    "url": "https://www.seiren.com/products/materials/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様とのコミュニケーションを通じて、当社がこれまで培った技術を最大限活用し求められる高い性能や品質、デザイン、環境を配慮した製品作りを実現いたします",
+    "url": "https://www.seiren.com/products/materials/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ビスコテックスで培ったインクジェット技術でお客様の課題に対するソリューションを提供します",
+    "url": "https://www.seiren.com/products/materials/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "スクリーン／グラビア印刷のインクジェット化、機能性コーティングのインクジェット化等のお客様の様々な小ロット・多品種生産ニーズに自社内のインクジェット一貫生産によってお応えします",
+    "url": "https://www.seiren.com/products/materials/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様のお買い物",
+    "url": "https://www.seiren.com/products/materials/civil_engineering/glassguard/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様のお買い物",
+    "url": "https://www.seiren.com/products/materials/architecture/mistguard/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様のお買い物",
+    "url": "https://www.seiren.com/products/materials/architecture/premiumthermo/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様のお買い物",
+    "url": "https://www.seiren.com/products/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様のお買い物",
+    "url": "https://www.seiren.com/products/environment/fiberweed/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の排水処理槽の形状やサイズに合わせた設計が可能",
+    "url": "https://www.seiren.com/products/environment/fiberweed/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様のお買い物",
+    "url": "https://www.seiren.com/quole/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様のお買い物",
+    "url": "https://www.seiren.com/products/medical/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様のお買い物",
+    "url": "https://www.seiren.com/products/medical/composite_material/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様のお買い物",
+    "url": "https://www.seiren.com/products/medical/medical_device/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様のお買い物",
+    "url": "https://www.seiren.com/products/medical/byerus/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様のお買い物",
+    "url": "https://www.seiren.com/products/health/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ピュアセリシンに特化した処方をはじめ、容器やパッケージのご提案まで、お客様のニーズの実現に向けてサポートいたします",
+    "url": "https://www.seiren.com/products/health/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様のお買い物",
+    "url": "https://www.seiren.com/products/health/oem/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の化粧品展開をトータルサポートします",
+    "url": "https://www.seiren.com/products/health/oem/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ピュアセリシンに特化した処方をはじめ、容器やパッケージのご提案まで、お客様のニーズの実現に向けてサポートいたします",
+    "url": "https://www.seiren.com/products/health/oem/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のご要望を丁寧にヒアリングし、ご要望に沿った満足度の高い化粧品をご提案いたします",
+    "url": "https://www.seiren.com/products/health/oem/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "セーレンだからこそ提案できる、ピュアセリシン™に特化した処方から、容器やパッケージのご提案まで、お客様のニーズの実現に向けてサポートいたします",
+    "url": "https://www.seiren.com/products/health/oem/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の安全・安心を守ることを第一に、常に優れた品質を提供するために、安全性に関する試験や製品の安定性をしっかり確認します",
+    "url": "https://www.seiren.com/products/health/oem/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の多彩なニーズに最適なカタチで応えるために様々な化粧品OEMをご提供しております",
+    "url": "https://www.seiren.com/products/health/oem/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様のお買い物",
+    "url": "https://www.seiren.com/products/livingware/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様のお買い物",
+    "url": "https://www.seiren.com/products/auto/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "高度でタイムリーな企画・開発力と、リーズナブルな価格設定で、時代とお客様の求めるニーズに対応します",
+    "url": "https://www.seiren.com/products/auto/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ものづくりのあらゆる段階で地球環境への配慮と、品質向上に向けた活動を行い、お客様の満足度向上に努めています",
+    "url": "https://www.seiren.com/products/auto/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "全世界に通用する品質保証システムを構築し、お客様に高品質な製品を継続的にお届けするために、セーレングループ全体でISO9001、ISO14001、更に自動車産業の国際的な品質マネジメントシステム規格であるIATF16949の認証取得に取り組んでいます",
+    "url": "https://www.seiren.com/products/auto/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客それぞれのニーズに合わせて、少量でも高品質を維持できる生産体制を整えています",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザーが高付加価値で個性的な素材を求める時代背景が大きく影響しています",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "環境規制や顧客のサステナブル要請に対応するための新素材開発や品質保証体制の構築",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "また顧客企業と長期的な協力関係を築くために、技術サポートから販売・アフターサービスに至るまでトータルな活動を行うことが重要だと判断し、その結果として研究開発から販売促進まで一貫した主要活動を展開しています",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "幅広いチャネルを確保することで、より多くの顧客層にアプローチできる体制を構築しています",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との関係",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客のグローバル展開に合わせたサービス提供",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、単発の取引だけでなく、顧客企業の技術チームと連携して品質改善や機能向上を行う方が双方にメリットがあります",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客セグメント",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "セーレン株式会社では、独自の生産システム「ビスコテックス」を活用し、多品種・小ロット生産を可能にすることで顧客満足度を高めています",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "この高い顧客満足が新たな受注を生む好循環を形成し、さらなる研究開発投資を促す仕組みが整っていることが特徴です",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、顧客が特殊素材やオリジナルデザインのニーズを提示した際、ビスコテックスを中心とする柔軟な生産ラインが即応し、その結果として「セーレンに相談すれば対応してもらえる」という評判が広がります",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "その評判が新規顧客や追加受注を呼び込み、企業規模の拡大と技術力向上のための投資拡充につながるのです",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "今後も顧客との共創を深めることで、より高い技術水準と差別化された製品ポートフォリオを築いていくことが期待されます",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "・セーレンシステムテクノロジー株式会社：ソフトウェアの開発・販売、保守及び顧客サポート業務",
+    "url": "https://www.firstcvc.jp/company/seiren.com",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "事業・製品TOP",
+    "url": "https://www.seiren.com/",
+    "pass": 1
+   },
+   {
+    "quote": "医療･介護･健康向け製品･素材",
+    "url": "https://www.seiren.com/",
+    "pass": 1
+   },
+   {
+    "quote": "インクジェットソリューションサービス",
+    "url": "https://www.seiren.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションから探す",
+    "url": "https://www.seiren.com/",
+    "pass": 1
+   },
+   {
+    "quote": "バリュープロポジション商品",
+    "url": "https://www.seiren.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスを通じたSDGsへの取り組み",
+    "url": "https://www.seiren.com/",
+    "pass": 1
+   },
+   {
+    "quote": "事業・製品TOP",
+    "url": "https://www.seiren.com/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療･介護･健康向け製品･素材",
+    "url": "https://www.seiren.com/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "インクジェットソリューションサービス",
+    "url": "https://www.seiren.com/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションから探す",
+    "url": "https://www.seiren.com/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "バリュープロポジション商品",
+    "url": "https://www.seiren.com/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスを通じたSDGsへの取り組み",
+    "url": "https://www.seiren.com/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "超小型人工衛星の量産化サービスを実現し、拡大する宇宙ビジネスに本格参入していきます",
+    "url": "https://www.seiren.com/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.seiren.com/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスを探す",
+    "url": "https://www.seiren.com/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業・製品TOP",
+    "url": "https://www.seiren.com/product/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療･介護･健康向け製品･素材",
+    "url": "https://www.seiren.com/product/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "インクジェットソリューションサービス",
+    "url": "https://www.seiren.com/product/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションから探す",
+    "url": "https://www.seiren.com/product/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "バリュープロポジション商品",
+    "url": "https://www.seiren.com/product/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスを通じたSDGsへの取り組み",
+    "url": "https://www.seiren.com/product/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "セーレンの商品をご購入の方はこちらから",
+    "url": "https://www.seiren.com/product/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "セーレン株式会社の個人のお客様向け商品リストがご覧いただけます",
+    "url": "https://www.seiren.com/product/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "独自の繊維技術と先端技術の融合で生まれた、生活、美容、健康に役立つオリジナル商品を販売している通販ショップです",
+    "url": "https://www.seiren.com/product/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "全ての商品を見る",
+    "url": "https://www.seiren.com/product/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "デオエストのストーマケア消臭商品",
+    "url": "https://www.seiren.com/product/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業・製品TOP",
+    "url": "https://www.seiren.com/inquiry/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療･介護･健康向け製品･素材",
+    "url": "https://www.seiren.com/inquiry/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "インクジェットソリューションサービス",
+    "url": "https://www.seiren.com/inquiry/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションから探す",
+    "url": "https://www.seiren.com/inquiry/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "バリュープロポジション商品",
+    "url": "https://www.seiren.com/inquiry/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスを通じたSDGsへの取り組み",
+    "url": "https://www.seiren.com/inquiry/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスに関する",
+    "url": "https://www.seiren.com/inquiry/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業・製品一覧 | セーレン株式会社",
+    "url": "https://www.seiren.com/products/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業・製品TOP",
+    "url": "https://www.seiren.com/products/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療･介護･健康向け製品･素材",
+    "url": "https://www.seiren.com/products/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "インクジェットソリューションサービス",
+    "url": "https://www.seiren.com/products/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションから探す",
+    "url": "https://www.seiren.com/products/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "バリュープロポジション商品",
+    "url": "https://www.seiren.com/products/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスを通じたSDGsへの取り組み",
+    "url": "https://www.seiren.com/products/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業・製品一覧",
+    "url": "https://www.seiren.com/products/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "エレクトロニクス製品・素材事業",
+    "url": "https://www.seiren.com/products/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "『インクジェット』ソリューションサービス事業",
+    "url": "https://www.seiren.com/products/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療用消臭商品 デオエスト・メディカル",
+    "url": "https://www.seiren.com/products/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "繭から生まれたエイジングケア化粧品「コモエース」や高性能消臭素材を使用した、消臭アンダーウエア「デオエスト」など、美と健康をサポートする商品を展開します",
+    "url": "https://www.seiren.com/products/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "繊維技術と複合化技術を生かし、ロールスクリーンやインテリア家具などの製品に要求される様々な機能とデザインを高いスペックで実現し展開します",
+    "url": "https://www.seiren.com/products/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "原糸製造から染色加工、素材開発、商品企画、小売り事業まで、衣料繊維事業におけるお客様の様々なお悩みを解決いたします",
+    "url": "https://www.seiren.com/products/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスから探す",
+    "url": "https://www.seiren.com/products/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトウェア・サービス",
+    "url": "https://www.seiren.com/products/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "消臭商品（ストーマほか）",
+    "url": "https://www.seiren.com/products/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "事業・製品TOP",
+    "url": "https://www.seiren.com/products/electro/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療･介護･健康向け製品･素材",
+    "url": "https://www.seiren.com/products/electro/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "インクジェットソリューションサービス",
+    "url": "https://www.seiren.com/products/electro/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションから探す",
+    "url": "https://www.seiren.com/products/electro/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "バリュープロポジション商品",
+    "url": "https://www.seiren.com/products/electro/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスを通じたSDGsへの取り組み",
+    "url": "https://www.seiren.com/products/electro/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "エレクトロニクス製品・素材事業",
+    "url": "https://www.seiren.com/products/electro/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "主力製品である自動布目矯正機は世界各国に輸出しており、そのセンサー技術を応用して、産業資材分野など異業種向け計測装置の開発にも挑戦しています",
+    "url": "https://www.seiren.com/products/electro/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製造プロセスに関わる研究開発用途や、光部品製造プロセスに関わる製品用途において使用される熱酸化膜を中心とした各種膜付ウェーハをご提供します",
+    "url": "https://www.seiren.com/products/electro/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスから探す",
+    "url": "https://www.seiren.com/products/electro/index.html",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "会社紹介動画",
+    "url": "https://www.seiren.com/",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介動画",
+    "url": "https://www.seiren.com/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介動画",
+    "url": "https://www.seiren.com/product/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "セーレングループの概要を動画でご紹介するほか、事業概要や歴史などをわかりやすくご紹介します",
+    "url": "https://www.seiren.com/product/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "セーレン会社紹介動画",
+    "url": "https://www.seiren.com/product/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "【comoace】人気美容家が人気TV番組でマイルドソープ を紹介",
+    "url": "https://www.seiren.com/product/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介動画",
+    "url": "https://www.seiren.com/inquiry/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介動画",
+    "url": "https://www.seiren.com/products/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介動画",
+    "url": "https://www.seiren.com/products/electro/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介動画",
+    "url": "https://www.seiren.com/products/electro/electronics/metaflex/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介動画",
+    "url": "https://www.seiren.com/products/electro/electronics/fabric/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介動画",
+    "url": "https://www.seiren.com/products/electro/electronics/moisture_permeable_waterproof_tape/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介動画",
+    "url": "https://www.seiren.com/products/materials/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介動画",
+    "url": "https://www.seiren.com/products/materials/civil_engineering/glassguard/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "土木資材製品紹介",
+    "url": "https://www.seiren.com/products/materials/civil_engineering/glassguard/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介動画",
+    "url": "https://www.seiren.com/products/materials/architecture/mistguard/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "建築資材製品紹介",
+    "url": "https://www.seiren.com/products/materials/architecture/mistguard/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介動画",
+    "url": "https://www.seiren.com/products/materials/architecture/premiumthermo/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "建築資材製品紹介",
+    "url": "https://www.seiren.com/products/materials/architecture/premiumthermo/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介動画",
+    "url": "https://www.seiren.com/products/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介動画",
+    "url": "https://www.seiren.com/products/environment/fiberweed/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介動画",
+    "url": "https://www.seiren.com/quole/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介動画",
+    "url": "https://www.seiren.com/products/medical/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介動画",
+    "url": "https://www.seiren.com/products/medical/composite_material/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介動画",
+    "url": "https://www.seiren.com/products/medical/medical_device/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介動画",
+    "url": "https://www.seiren.com/products/medical/byerus/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "BYERUS（バイラス）の商品紹介",
+    "url": "https://www.seiren.com/products/medical/byerus/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介動画",
+    "url": "https://www.seiren.com/products/health/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介動画",
+    "url": "https://www.seiren.com/products/health/oem/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介動画",
+    "url": "https://www.seiren.com/products/livingware/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介動画",
+    "url": "https://www.seiren.com/products/auto/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "特に車両の内装材やエレクトロニクス部材は安全規格や高い品質基準を満たす必要があるため、大手メーカーとのパートナーシップを深めることが有効な戦略となりました",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "BtoBを中心とした直販による大口受注",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "海外を含む代理店ネットワーク",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、アパレルなど小口の需要に応えるためには代理店網を活用し、海外展開をスムーズに進める必要がありました",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "長期的なパートナーシップを重視し、共同開発や品質管理で継続的に連携",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "特にビスコテックスなど独自技術を求めるパートナー企業が増えたことで、製品販売以外の収入源も確保できる構造になりました",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "Synspectiveやアークエッジ・スペース等のスタートアップ企業については、業務提携・受託製造パートナーとしての関係が公式発表されており、直接の資本出資関係は確認できません",
+    "url": "https://www.firstcvc.jp/company/seiren.com",
+    "pass": 3
+   },
+   {
+    "quote": "オープンイノベーションや技術提携は主に「研究開発センター」（人工衛星グループ等）や各事業部門が主体となり、産学官連携やパートナー企業との共同開発・量産化プロジェクトを推進しています",
+    "url": "https://www.firstcvc.jp/company/seiren.com",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "小ロット、短納期、在庫レス、オンネット、カスタマイズを実現し、「ほしいものを・ほしいときに・ほしいだけ」作る環境に優しい究極のビジネスモデルです",
+    "url": "https://www.seiren.com/products/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "「ビスコテックス」の高い表現力や製作サイズ制約なしといった強みを生かしたPR用ツールの作成や、お手持ちのプリンターでお使いいただける布製インクジェットメディアなど、サインディスプレイ業界の常識を覆す商材を展開します",
+    "url": "https://www.seiren.com/products/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ビスコテックスは、過剰生産による生地や基材、染色のムダを究極までリデュースし、無公害型の生産ラインでエネルギーの使用量を従来の1/5 ～1/20に削減、在庫レスを実現する地球にやさしい新しいビジネスモデルです",
+    "url": "https://www.seiren.com/products/environment/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "世界中のお客さまに信頼され、選ばれるサプライヤーを目指し、培ってきたモノづくりの強みを生かして、徹底した品質の向上に取り組んでいます",
+    "url": "https://www.seiren.com/products/auto/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "同社は、企画・開発から製造・販売までを一貫して行う独自の生産システムや、合成皮革・各種シート素材における圧倒的な開発力、そして自動車用シート資材のグローバルな供給体制を最大の強みとしています",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、独自の技術力を活かした環境配慮型素材やサステナブル製品のラインナップを強化し、国内外の自動車メーカーや大手クライアントへの提案活動を活発化させたことが実を結び、高い売上総利益率の維持と劇的な利益拡大へと直結しています",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした自己強化ループが企業の競争優位を一層高め、結果的に売上高や営業利益の成長へと直結していきます",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "・「生活価値創造企業」を目指し、「素材から製品化、BtoBからBtoC」を中期事業戦略とする付加価値の高い流通ポジションでの販売事業拡大と高収益モデルへの転換",
+    "url": "https://www.firstcvc.jp/company/seiren.com",
+    "pass": 3
+   },
+   {
+    "quote": "・パーソナルオーダーシステム「Viscotecs make your brand®」の改良と在庫レス小売経営を目指したSPA事業拡大",
+    "url": "https://www.firstcvc.jp/company/seiren.com",
+    "pass": 3
+   },
+   {
+    "quote": "・D2C／在庫レス小売・SPA｜「在庫レス小売経営を目指したSPA事業拡大」「BtoCビジネスの拡大」を施策としており、販売・小売テック領域との親和性がある",
+    "url": "https://www.firstcvc.jp/company/seiren.com",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2019年1月22日",
+    "url": "https://www.seiren.com/quole/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2018年3月",
+    "url": "https://www.seiren.com/quole/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2014年11月",
+    "url": "https://www.seiren.com/quole/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期の配当金は1株あたり60円が予想されており、投資家にとっても魅力的な還元姿勢がうかがえます",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年1月29日時点の株価は2,725円となっており、配当利回りはおおむね2%強と安定感があります",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年2月",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1月",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年8月",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年7月",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年5月",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年4月",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年2月",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年1月",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.firstcvc.jp/company/seiren.com",
+    "pass": 3
+   },
+   {
+    "quote": "2018年4月",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "1969年12月1日上場",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "2019年3月17日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "2021年4月17日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月31日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "1960年代",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "1970年代",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "1980年代",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "1990年代",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "2000年代",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "1962年上場の企業",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "1923年設立の企業",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月26日 （月曜日）",
+    "url": "https://www.sen-i-news.co.jp/seninews/view/?article=425300&banner=10000001",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4～9月期は、売上高と各利益項目で上半期として過去最高を狙える水準で推移している",
+    "url": "https://www.sen-i-news.co.jp/seninews/view/?article=425300&banner=10000001",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "各種ライセンス収入や技術提供によるロイヤルティ",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "高機能繊維や素材を自社生産して販売することが中心ですが、技術力を活かしたライセンス収入や共同開発案件のロイヤルティも企業収益を安定させる要素となります",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "・セーレンシステムテクノロジー株式会社：ソフトウェアの開発・販売、保守及び顧客サポート業務",
+    "url": "https://www.firstcvc.jp/company/seiren.com",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3",
+    "pass": 3
+   },
+   {
+    "quote": "記事利用料金",
+    "url": "https://www.sen-i-news.co.jp/seninews/view/?article=425300&banner=10000001",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "その一方で、環境・生活資材事業においては、国内の住宅着工戸数の減少による住宅向け資材の伸び悩みや、医療関連の制度変更に伴う一部商材の苦戦といったマイナス要因もありましたが、他の成長セグメントがこれらを十分に補う形となりました",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客セグメント",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの異なるニーズに応えることが企業成長に有利と判断し、各セグメントに特化した体制を整えることで市場の拡大を実現してきました",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "企業概要と最近の業績アクサスホールディングス株式会社【全体の業績】アクサスホールディングス株式会社は、徳島県に本社を置き、小売、卸売、不動産の３つのセグメントを柱に多角的なライフスタイル提案を行う企業グループです",
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "pass": 3
+   },
+   {
+    "quote": "事業部門・セグメント",
+    "url": "https://www.firstcvc.jp/company/seiren.com",
+    "pass": 3
+   },
+   {
+    "quote": "商社流通と製造の2大区分で4つの報告セグメントを展開する企業",
+    "url": "https://www.firstcvc.jp/company/seiren.com",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "セーレン株式会社のビジネスモデルを深掘り 最新IR資料が示す成長戦略... — Jan 31, 2025 · 従来の大量生産・低コスト志向だけでは差別化が難しくなっているため、セーレン株式会社は独自技術を開発し、一社一社の要望に応える高品質・多機能素材を提供することで優位性を確立してきました。",
+    "url": "https://consovation.com/セーレン株式会社のビジネスモデルを深掘り-最新i/",
+    "pass": 3
+   },
+   {
+    "quote": "セーレン株式会社 | 事業概要・投資方針・投資実績 | FIRST CVC — セーレン株式会社は、1889年（明治22年）に絹織物の精練業として創業し、1923年に設立された総合繊維・先端材料メーカーです（福井本社：福井県福井市、東京本社：東京都港区）。 従来の繊維加工の下請け構造から脱却し、企画・開発・製造・販売を一...",
+    "url": "https://www.firstcvc.jp/company/seiren.com",
+    "pass": 3
+   },
+   {
+    "quote": "最新テック×一貫生産が可能にする、セーレン、世界で1着だけのパーソ... — IT化にいち早く着手し、ビジネスモデルの転換、非衣料・非繊維化、グローバル化と進化を遂げてきた綜合繊維メーカーのセーレン。 原糸から最終製品に至るまで、国内での「一貫生産体制」にこだわる。",
+    "url": "https://diamond-rm.net/management/91020/",
+    "pass": 3
+   },
+   {
+    "quote": "セーレン中計、環境対応車シート材の売上高6割増 6年で — Jul 25, 2024 · セーレン は2031年3月期までに売上高を25年3月期予想比56%増の2300億円に引き上げる中期経営計画を策定した。そのうち1500億円は「成長分野」と ...",
+    "url": "https://www.nikkei.com/article/DGXZQOCC11AG00R10C24A7000000/",
+    "pass": 3
+   },
+   {
+    "quote": "セーレン（3569）の事業内容、事業の状況や経営戦略、事業等のリスク... — 最新の経営戦略、ビジネスモデル、財務状況、および将来の展望を含む包括的な情報をご提供します。 ～の成功要因や課題、業界内でのポジショニングを理解することで、今後のビジネス展開における重要な洞察を得ることができます。",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=3569",
+    "pass": 3
+   },
+   {
+    "quote": "決算報告 - セーレン株式会社 — セーレンの決算短信のページです。決算短信、決算説明会資料・動画などを掲載しています。",
+    "url": "https://www.seiren.com/invest/financial_results/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 | セーレン株式会社 — May 13, 2026 · 売上高、営業利益、経常利益及び親会社株主に帰属する当期純利益はいずれも過去最高を更新しました。 なお、当連結会計年度の連結業績には、2026年1月に連結子会社としたNBセーレン㈱の業績が反映されております。",
+    "url": "https://www.seiren.com/invest/",
+    "pass": 3
+   },
+   {
+    "quote": "セーレン株式会社（3569）適時開示・決算短信 一覧｜毎日更新｜Treela... — Aug 3, 2026 · セーレン株式会社（3569）の適時開示 4 件：決算短信・決算説明会資料・業績予想修正など、TDnet から毎日収集。PDF 原文へのリンク付き。",
+    "url": "https://treelazy.com/stock-jp/3569/conference",
+    "pass": 3
+   },
+   {
+    "quote": "セーレンのIR資料 - 3569 / プライム / 繊維製品 | バフェット・コー... — セーレン（3569 / プライム / 繊維製品）のIR資料の一覧を表示しています。 有価証券報告書や決算短信、そしてTDnetで開示された適時開示資料をPDFでご覧になれます。",
+    "url": "https://www.buffett-code.com/company/3569/library",
+    "pass": 3
+   },
+   {
+    "quote": "セーレン株式会社 — IR資料 - EDINET DB — Apr 16, 2026 · EDINET DB > 企業一覧 > セーレン株式会社 > IR資料 セーレン株式会社 — IR資料 統合報告書・中期経営計画・決算説明資料などのIR資料を、AIがセクション単位で構造化したデータです。 本文の検索・テーマタグでの絞り込みが可能です。",
+    "url": "https://edinetdb.jp/company/E00562/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "セーレン - Wikipedia — 社名の由来は、創業当時の事業である「精練」から [1]。 染色 などの生地加工が中心であったが、 カネボウ の繊維事業を継承して KBセーレン を設立し、原糸製造にも参入している。",
+    "url": "https://ja.wikipedia.org/wiki/セーレン",
+    "pass": 3
+   },
+   {
+    "quote": "事業・製品一覧 - セーレン株式会社 — ものづくりの常識を変革するセーレンのデジタルプロダクションシステム。 繊維素材から合皮や木材、コンクリート、ガラスや金属に至るまで、あらゆる素材に加飾表現が可能。 インクジェット技術をベースに、新たなビジネスの可能性を創造します。",
+    "url": "https://www.seiren.com/products/",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 - セーレン株式会社 — セーレンの企業情報についてご紹介します。会社概要、遠隔、経営理念、役員、事業所・グループ会社情報などを掲載して ...",
+    "url": "https://www.seiren.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "3569 セーレン | 事業内容 - 有価証券報告書-第150期 (令和3年4月1日-... — Jun 22, 2022 · セーレンケーピー㈱では主として当社製品の編織加工を行い、セーレン商事㈱及び世聯美仕生活用品 (上海)有限公司 (中国)では物品の販売等を行っており、当社は原材料等を仕入れております。 事業の系統図は次のとおりであります。",
+    "url": "https://irbank.net/E00562/business?f=S100OBXX",
+    "pass": 3
+   },
+   {
+    "quote": "セーレン株式会社 | 事業概要・投資方針・投資実績 | FIRST CVC — 事業内容 原糸製造から製織編、染色・高次加工、縫製までの一貫生産体制を敷き、5つの事業領域（車輌資材、ハイファッション、エレクトロニクス、環境・生活資材、メディカル）を軸にグローバル展開を行っています。",
+    "url": "https://www.firstcvc.jp/company/seiren.com",
+    "pass": 3
+   },
+   {
+    "quote": "2026秋季総合特集（7）／Topインタビュー／セーレン 社長 山田 英幸 ... — Oct 26, 2026 · 2026秋季総合特集（7）／Topインタビュー／セーレン 社長 山田 英幸 氏／八つの重点分野を攻める／業績けん引役は車輌資材 2026年10月26日 （月曜日） セーレンの業績が順調だ。2026年4～9月期は、売上高と各利益項目で上半期として過去最高を狙える水準で推移している。現在は車輌資材がけん引 ...",
+    "url": "https://www.sen-i-news.co.jp/seninews/view/?article=425300&banner=10000001",
+    "pass": 3
+   },
+   {
+    "quote": "メディア掲載情報 - セーレン株式会社 — Aug 25, 2023 · 2022.01.20 ITmedia ビジネスオンライン 「トップインタビュー 会社を強くする」の連載3回目として、川田達男会長兼CEOが紹介されました。 「本社にこもっている経営者はダメ」 セーレン・川田達男会長が徹底する「現場主義」",
+    "url": "https://www.seiren.com/company/media/",
+    "pass": 3
+   },
+   {
+    "quote": "《トップインタビュー2026》セーレン社長 山田英幸氏 車両資材、世界... — Jan 28, 2026 · ホーム インタビュー 《トップインタビュー2026》セーレン社長 山田英幸氏 車両資材、世界で生産の強み 2026/01/28 12:00 更新 有料会員限定 この記事を保存 山田英幸氏",
+    "url": "https://senken.co.jp/posts/seiren-260128",
+    "pass": 3
+   },
+   {
+    "quote": "《トップインタビュー2024》セーレン社長 山田英幸氏 合成皮革「クオ... — Feb 16, 2024 · 【関連記事】 《繊維トップに聞く》セーレン執行役員スポーツ・ファッション事業部長兼ビスコテックス・ブランド部長 久嶋祐司氏 在庫リスクのない物作りを 好調続く合成皮革 ――昨年を振り返って。",
+    "url": "https://senken.co.jp/posts/seiren-240216",
+    "pass": 3
+   },
+   {
+    "quote": "山田英幸氏の経歴｜セーレンの歴代社長（2022年〜現任） — Oct 19, 2026 · 山田英幸 セーレン ・ 代表取締役 社長執行役員 兼 経営執行責任者 兼 技術責任者 技術・生産統括 Yamada Hideyuki（敬称略） 更新：2026/10/19 歴代社長 セーレン 山田英幸 2022年就任 坪田光司 2018年就任 結川孝一 2014年就任 川田達男 1987年就任",
+    "url": "https://the-shashi.com/tse/3569/executives/ceo/yamada-hideyuki/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.seiren.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seiren.com/business.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seiren.com/english/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seiren.com/product/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seiren.com/inquiry/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seiren.com/products/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seiren.com/products/electro/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seiren.com/products/electro/electronics/metaflex/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seiren.com/products/electro/electronics/fabric/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seiren.com/products/electro/electronics/moisture_permeable_waterproof_tape/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seiren.com/products/materials/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seiren.com/products/materials/civil_engineering/glassguard/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seiren.com/products/materials/architecture/mistguard/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seiren.com/products/materials/architecture/premiumthermo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seiren.com/products/environment/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seiren.com/products/environment/fiberweed/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seiren.com/quole/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seiren.com/products/medical/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seiren.com/products/medical/composite_material/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seiren.com/products/medical/medical_device/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seiren.com/products/medical/byerus/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seiren.com/products/health/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seiren.com/products/health/oem/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seiren.com/products/livingware/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seiren.com/products/auto/index.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.seiren.com/_userdata/pdf/instructions/glassguard.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.seiren.com/_userdata/pdf/instructions/ramitekuto02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.seiren.com/_src/45211805/top-business-1.png?v=1793326684907",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.seiren.com/_src/45211807/top-business-2.png?v=1793326684907",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.seiren.com/_src/45211832/top-business-3.png?v=1793326684907",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.seiren.com/_src/45211812/top-business-4.png?v=1793326684907",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.seiren.com/_src/45211814/top-business-5.png?v=1793326684907",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.seiren.com/_src/45211816/top-business-6.png?v=1793326684907",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.seiren.com/_src/45211830/top-business-7.png?v=1793326684907",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.seiren.com/_src/45211901/top-business-8.png?v=1793326684907",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://consovation.com/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A-%E6%9C%80%E6%96%B0i/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.firstcvc.jp/company/seiren.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sen-i-news.co.jp/seninews/view/?article=425300&banner=10000001",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "セーレン",
+   "results": [
+    "https://www.seiren.com/",
+    "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%BC%E3%83%AC%E3%83%B3",
+    "https://www.instagram.com/seiren.official/",
+    "https://www.nikkei.com/nkd/company/?scode=3569",
+    "https://ja.wikipedia.org/wiki/セーレン",
+    "https://grokipedia.com/page/fukui_prefectural_stadium",
+    "https://en.wikipedia.org/wiki/Seiren_Co.",
+    "https://www.seiren.com/company/profile/",
+    "https://www.nbseiren.com/",
+    "https://finance.yahoo.co.jp/quote/3569.T"
+   ]
+  },
+  {
+   "query": "セーレン ビジネスモデル",
+   "results": [
+    "https://consovation.com/セーレン株式会社のビジネスモデルを深掘り-最新i/",
+    "https://www.firstcvc.jp/company/seiren.com",
+    "https://diamond-rm.net/management/91020/",
+    "https://www.nikkei.com/article/DGXZQOCC11AG00R10C24A7000000/",
+    "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=3569",
+    "https://www.seiren.com/invest/mid_term/",
+    "https://www.seiren.com/invest/strategy.html"
+   ]
+  },
+  {
+   "query": "セーレン 決算説明資料",
+   "results": [
+    "https://www.seiren.com/invest/financial_results/",
+    "https://www.seiren.com/invest/",
+    "https://treelazy.com/stock-jp/3569/conference",
+    "https://www.buffett-code.com/company/3569/library",
+    "https://edinetdb.jp/company/E00562/ir-docs/",
+    "https://kaijiwire.jp/companies/9210001001785",
+    "https://edinetdb.jp/company/E00562/presentations/"
+   ]
+  },
+  {
+   "query": "セーレン 事業系統図",
+   "results": [
+    "https://ja.wikipedia.org/wiki/セーレン",
+    "https://www.seiren.com/products/",
+    "https://www.seiren.com/company/",
+    "https://irbank.net/E00562/business?f=S100OBXX",
+    "https://www.firstcvc.jp/company/seiren.com",
+    "https://moat-sensei.com/stocks/3569/business",
+    "https://www.kbseiren.com/company_info/organization.html"
+   ]
+  },
+  {
+   "query": "セーレン 社長 インタビュー",
+   "results": [
+    "https://www.sen-i-news.co.jp/seninews/view/?article=425300&banner=10000001",
+    "https://www.seiren.com/company/media/",
+    "https://senken.co.jp/posts/seiren-260128",
+    "https://senken.co.jp/posts/seiren-240216",
+    "https://the-shashi.com/tse/3569/executives/ceo/yamada-hideyuki/",
+    "https://the-shashi.com/tse/3569/executives/ceo/tsubota-koji/",
+    "https://www.seiren.com/company/officer/"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式25頁／PDF・画像10件／外部4頁・検索5回）"
+ }
+}

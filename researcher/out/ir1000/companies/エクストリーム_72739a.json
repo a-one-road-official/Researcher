@@ -1,0 +1,810 @@
+{
+ "name": "エクストリーム",
+ "aliases": [],
+ "context": "証券コード6033／サービス業／グロース（内国株式）／2026.03期 売上高11,796百万円 営業利益率12.2%",
+ "researched_at": "2026-11-02T19:52:58.607322+00:00",
+ "official_url": "https://extreme-inc.jp/",
+ "identified_by": "search:ddgs:google:エクストリーム",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2004年6月1日",
+    "url": "https://extreme-inc.jp/company/company_profile/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "【DX推進事業】 中小企業のデジタルシフト推進サポート IT関連補助金・助成金導入サポート 【WEBマーケティング事業】 Web戦略コンサルティング アクセス解析によるサイト改善/SEO対策 Web・スマートフォンサイトの企画/制作/デザイン Webシステム開発 WordPressCMS構築｜ECサイト｜メディアサイト 求人システム｜会員機能｜ポイント管理機能 Webサイト制作 レスポンシブサイト｜企業サイト｜求人サイト｜多言語サイト｜LP Webサイト運用 オウンドメディア運用｜コンテンツサイト運用 サイト・サーバー移管｜サイト保守運用 【映像事業】 映像コンテンツの 企画/撮影/編集 CM・MV・SNSプロモーション映像 【クリエイティブ事業】 企業ブランディング/商品ブランディング グラフィックツールの企画/制作/デザイン スチール撮影/映像撮影/キャスティング/翻訳",
+    "url": "https://extreme-inc.jp/company/company_profile/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "デジタル人材事業は、プログラミング・グラフィック等の開発スキルを持った当社社員（クリエイター＆ITエンジニア）が顧客企業に常駐し、開発業務を提供しております。 受託開発事業は、スマートフォンアプリ開発案件、クラウドプラットフォーム構築、CRM(Customer Relationship Management)構築～導入～運用など、案件を持ち帰り形式にて受託し、納品するサービスを提供しております。案件種別としては、「新規開発」「保守・運用」「追加開発」「ラボ型開発」の４つに大別されます。 子会社の株式会社エクスラボ（現 株式会社エクスラボ＆コンサルティング）、EXTREME VIETNAM Co.,LTD.、エス・エー・エス株式会社、酒田エス・エー・エス株式会社については当該事業に含まれます。 コンテンツプロパティ事業は、当社グループが保有するゲーム・キャラクター等の知的財産を活用し、様々な事業展開を行うセグメントであり、具体的には、ゲーム開発・販売・運営のほかに、当社グループが保有するゲームタイトルまたはキャラクターなどを様々な商材へ使用許諾を行うライセンス事業が含まれております。 子",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "6,329,462 3,539,360 1,467,436 11,336,259 － 11,336,259",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部 売上高又は振替高",
+    "value": "96,942 200 － 97,142 △97,142 －",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "7,129,713 3,742,381 924,015 11,796,110 － 11,796,110",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部 売上高又は振替高",
+    "value": "106,859 － 1,600 108,459 △108,459 －",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "お客様のビジネスを加速いたします",
+    "url": "https://extreme-inc.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "デジタル人材事業は、プログラミング・グラフィック等の開発スキルを持った当社社員（クリエイター＆ITエンジニア）が顧客企業に常駐し、開発業務を提供しております",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、顧客常駐型で技術ソリューションを提供する「デジタル人材事業」、各種システムやアプリ開発などを請け負う「受託開発事業」、当社グループが保有するゲームタイトル等のコンテンツを用いて自社サービスやライセンスサービスを行う「コンテンツプロパティ事業」を展開しております",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "こうした経営環境の中、新規取引先の開拓や、人材の確保および育成が重要であるとの認識のもと、事業の拡大と成長に取り組んでまいりました",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "受託開発事業は、主にデジタル人材事業を通じて顧客から持ち込まれるスマートフォンアプリ開発案件、クラウドプラットフォーム構築、CRM(Customer Relationship Management)構築～導入～運用など、案件を持ち帰り形式にて受託し、納品するサービスを提供しております",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "「受託開発事業」は、主にデジタル人材事業を通じて顧客から持ち込まれるスマートフォンアプリ開発案件、クラウドプラットフォーム構築、CRM (Customer Relationship Management)構築～導入～運用など、案件を持ち帰り形式にて受託し、納品するサービスを提供しております",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "本邦の外部顧客への売上高が連結損益計算書の売上高の90％を超えるため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "３．主要な顧客ごとの情報",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の名称又は氏名",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイターやエンジニアがお客様の会社に常駐し、技術提供する事でパフォーマンスを出しています",
+    "url": "https://keiei-note.wizbiz.jp/100-2/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様からソフトウェア開発の依頼を受け、その成果物を納品しています",
+    "url": "https://keiei-note.wizbiz.jp/100-2/",
+    "pass": 3
+   },
+   {
+    "quote": "自社ブランド製品や、ゲームなどのIPをお客様に直接お届けしています",
+    "url": "https://keiei-note.wizbiz.jp/100-2/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "Webソリューション",
+    "url": "https://extreme-inc.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「CRAIDオフショア開発サービス」サービスサイト",
+    "url": "https://extreme-inc.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Webソリューション",
+    "url": "https://extreme-inc.jp/company/company_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "企業ブランディング/商品ブランディング",
+    "url": "https://extreme-inc.jp/company/company_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "Webソリューション",
+    "url": "https://extreme-inc.jp/works/minoh-sembahiroba/",
+    "pass": 1
+   },
+   {
+    "quote": "今後は3本柱の各サービスを強化し、視覚表現力、演出力などのクリエイティブな開発スキルを セールスポイントとして、市場規模が大きいネットビジネス・WEBサービス事業者などへ応用的に展開させ、 事業規模を拡大させていく方針",
+    "url": "https://www.youtube.com/watch?v=BB3q0DzP4SY",
+    "pass": 3
+   },
+   {
+    "quote": "事業区分は、法人向けにゲーム・WEBシステムなどのソフトウェア開発サービスを提供する「デジタル人材事業」及び「受託開発事業」、個人向けに当社グループが保有するゲーム関連知的財産を活用し、家庭用及びスマートフォンゲーム、キャラクターグッズなどのサービスまたは商品を提供する「コンテンツプロパティ事業」の３事業に大別されます",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "受託開発事業は、スマートフォンアプリ開発案件、クラウドプラットフォーム構築、CRM(Customer Relationship Management)構築～導入～運用など、案件を持ち帰り形式にて受託し、納品するサービスを提供しております",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、顧客常駐型で技術ソリューションを提供する「デジタル人材事業」、各種システムやアプリ開発などを請け負う「受託開発事業」、当社グループが保有するゲームタイトル等のコンテンツを用いて自社サービスやライセンスサービスを行う「コンテンツプロパティ事業」を展開しております",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度においては、技術ソリューションに対する旺盛な需要を背景に、IT企業やWEBサービス事業者からの受注が好調に推移いたしました",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "受託開発事業は、主にデジタル人材事業を通じて顧客から持ち込まれるスマートフォンアプリ開発案件、クラウドプラットフォーム構築、CRM(Customer Relationship Management)構築～導入～運用など、案件を持ち帰り形式にて受託し、納品するサービスを提供しております",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループで行う各事業は、提供するサービスの性格上、生産実績の記載になじまないため、当該記載を省略しております",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "主力事業であるデジタル人材事業における売上高は、前年同期比12.6％の増加となりました",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "本事業は創業来順調に成長してきた事業セグメントであり、「デジタルクリエイター＆ITエンジニアプロダクション」として、デジタルクリエイターという新しい職能ポジションの確立を実現し、様々な企業に当社のソリューションを提供し、唯一無二の人材サービスを提供することを引き続き目指してまいります",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社といたしましては、デジタル人材事業を基盤事業としながら、人材派遣に留まらない開発案件については、当社及び本事業セグメントに属する子会社を活用し、開発案件に関する幅広なソリューション提供を行うことで売上高及びグループ全体の利益向上につなげるものとして、今後も注力していきたいと考えております",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "本事業セグメントにおいては、2018年に当社の代表的な知的財産である「ラングリッサー」がライセンス許諾という形でスマートフォンアプリとして中国を起点にアジア地域でヒットしたものの、2017年以降は自社開発・運営タイトルがなく、サービスラインナップの拡充が課題となっております",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社といたしましては、今後も株式会社Ｄｒａｇａｍｉ Ｇａｍｅｓとの協業等を通じ、当社の保有する知的財産を有効的に活用し、コンテンツプロパティ事業におけるサービスラインナップの拡充を実現するとともに、安定的な収益を確保する手段の確立を目指してまいります",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "「デジタル人材事業」は、労働者派遣及び業務請負契約による技術サービスを提供しております",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "「受託開発事業」は、主にデジタル人材事業を通じて顧客から持ち込まれるスマートフォンアプリ開発案件、クラウドプラットフォーム構築、CRM (Customer Relationship Management)構築～導入～運用など、案件を持ち帰り形式にて受託し、納品するサービスを提供しております",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "「コンテンツプロパティ事業」は、主にライセンスサービスを提供しております",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "１．製品及びサービスごとの情報",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "そんなとき、新卒の社員が「パチスロの実機をスーパーファミコンに移植しゲームにしてはどうか？」という当時は無かった企画提案を受けて、面白いと思い、営業部門へプレゼンし商品化することが出来ました",
+    "url": "https://keiei-note.wizbiz.jp/100-2/",
+    "pass": 3
+   },
+   {
+    "quote": "1つ目はソリューション事業です",
+    "url": "https://keiei-note.wizbiz.jp/100-2/",
+    "pass": 3
+   },
+   {
+    "quote": "自社ブランド製品や、ゲームなどのIPをお客様に直接お届けしています",
+    "url": "https://keiei-note.wizbiz.jp/100-2/",
+    "pass": 3
+   },
+   {
+    "quote": "その後、常務執行役に就任し、経営コンサルティング部門や営業部門、サービス提供部門を統括",
+    "url": "https://keiei-note.wizbiz.jp/100-2/",
+    "pass": 3
+   },
+   {
+    "quote": "また、経営者向けサービス提供としては、ネットだけでなく、リアルの場も力をいれており、年500回以上のセミナーを開催し、4000名を越す経営者が参加",
+    "url": "https://keiei-note.wizbiz.jp/100-2/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "クリエイティブワークスの主な実績をご紹介いたします",
+    "url": "https://extreme-inc.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "今回、ご紹介する経営者は、佐藤昌平氏（株式会社エクストリーム 代表取締役社長CEO）です",
+    "url": "https://keiei-note.wizbiz.jp/100-2/",
+    "pass": 3
+   },
+   {
+    "quote": "まずは経歴のご紹介です",
+    "url": "https://keiei-note.wizbiz.jp/100-2/",
+    "pass": 3
+   },
+   {
+    "quote": "※インタビュー出演、企業紹介などにご興味をお持ちの方は",
+    "url": "https://keiei-note.wizbiz.jp/100-2/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年 夏季休業のお知らせ",
+    "url": "https://extreme-inc.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年ゴールデンウィーク休業のご案内",
+    "url": "https://extreme-inc.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年 夏季休業のお知らせ",
+    "url": "https://extreme-inc.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2004年6月1日",
+    "url": "https://extreme-inc.jp/company/company_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期有価証券報告書より",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "2014年12月には東証マザーズに上場し、スターへの道を突き進むエピソードから経営のヒントが得られますので、ぜひインタビューをお読みください",
+    "url": "https://keiei-note.wizbiz.jp/100-2/",
+    "pass": 3
+   },
+   {
+    "quote": "1964年大阪府生まれ",
+    "url": "https://keiei-note.wizbiz.jp/100-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2000年5月には、株式会社クロスノーツを設立し、代表取締役に就任",
+    "url": "https://keiei-note.wizbiz.jp/100-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2014年12月には、東証マザーズに上場をされました",
+    "url": "https://keiei-note.wizbiz.jp/100-2/",
+    "pass": 3
+   },
+   {
+    "quote": "1971年、東京都生まれ",
+    "url": "https://keiei-note.wizbiz.jp/100-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2010年、当時赤字だった「",
+    "url": "https://keiei-note.wizbiz.jp/100-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2011年、レカムと光通信の出資分を全て買い取る",
+    "url": "https://keiei-note.wizbiz.jp/100-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年12月、TOKYO PRO Market（東京プロマーケット）市場へ上場",
+    "url": "https://keiei-note.wizbiz.jp/100-2/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "サイト・サーバー移管｜サイト保守運用",
+    "url": "https://extreme-inc.jp/company/company_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "スマホゲーム開発に技術者派遣や受託開発、ライセンス供与、M&A積極的なエクストリーム",
+    "url": "https://www.youtube.com/watch?v=BB3q0DzP4SY",
+    "pass": 3
+   },
+   {
+    "quote": "案件種別としては、「新規開発」「保守・運用」「追加開発」「ラボ型開発」の４つに大別されます",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "コンテンツプロパティ事業は、当社グループが保有するゲーム・キャラクター等の知的財産を活用し、様々な事業展開を行うセグメントであり、具体的には、ゲーム開発・販売・運営のほかに、当社グループが保有するゲームタイトルまたはキャラクターなどを様々な商材へ使用許諾を行うライセンス事業が含まれております",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、顧客常駐型で技術ソリューションを提供する「デジタル人材事業」、各種システムやアプリ開発などを請け負う「受託開発事業」、当社グループが保有するゲームタイトル等のコンテンツを用いて自社サービスやライセンスサービスを行う「コンテンツプロパティ事業」を展開しております",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "コンテンツプロパティ事業は、当社が保有するゲーム・キャラクター等の知的財産を活用し、様々な事業展開を行うセグメントであり、具体的には、ゲーム運営のほかに、当社が保有するゲームタイトルまたはキャラクターなどを様々な商材へ使用許諾を行うライセンス事業が含まれております",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度においては、当社が権利保有するゲームタイトルのライセンス収益の他、株式会社Ｄｒａｇａｍｉ Ｇａｍｅｓにおけるゲーム販売額も含まれております",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "稼働単価については、2026年３月期実績において709千円となり、前年度実績695千円から14千円の増加となりました",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "当事業における重要業績評価指標は、「クリエイター＆エンジニア社員数」「稼働単価」「稼働率」であります",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "「稼働単価」については、人材不足といった市場環境の影響により、前連結会計年度に引き続き上昇いたしました",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "本事業セグメントにおいては、2018年に当社の代表的な知的財産である「ラングリッサー」がライセンス許諾という形でスマートフォンアプリとして中国を起点にアジア地域でヒットしたものの、2017年以降は自社開発・運営タイトルがなく、サービスラインナップの拡充が課題となっております",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "主な内訳は、給料手当2,253,186千円、支払手数料284,754千円及び外注加工費4,794,418千円であります",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "主な内訳は、役員報酬177,274千円、給料手当605,862千円及び業務委託手数料302,501千円であります",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "「コンテンツプロパティ事業」は、主にライセンスサービスを提供しております",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "【M&A】「3つの源泉」と「4つの強み」｜2024年6月18日新規上場！〈インテグループ（192A）〉",
+    "url": "https://www.youtube.com/watch?v=BB3q0DzP4SY",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "トータルソリューション事業 - 株式会社エクストリーム — トータルソリューション事業 - 株式会社エクストリーム 株式会社エクストリーム https://www.e-xtreme.co.jp > 事業案内",
+    "url": "https://www.e-xtreme.co.jp/service/total_solution/",
+    "pass": 3
+   },
+   {
+    "quote": "【IRTV 6033】 エクストリーム /会社概要および今後の成長戦略 ... — 【IRTV 6033】 エクストリーム /会社概要および今後の成長戦略 ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=BB3q0DzP4SY",
+    "pass": 3
+   },
+   {
+    "quote": "エクストリーム (6033) の企業概要・業績・財務・IR資料 — エクストリーム (6033) の企業概要・業績・財務・IR資料 crex-data.com https://www.crex-data.com > 企業",
+    "url": "https://www.crex-data.com/company/6033",
+    "pass": 3
+   },
+   {
+    "quote": "【大阪】WEB／クラウドエンジニア  グロース上場 ... - doda — 【大阪】WEB／クラウドエンジニア  グロース上場 ... - doda doda https://doda.jp > ... > 株式会社エクストリームの求人情報",
+    "url": "https://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3016054261/",
+    "pass": 3
+   },
+   {
+    "quote": "エクストリーム ーD株式会社｜事業内容・特徴・採用・求人 — エクストリーム ーD株式会社｜事業内容・特徴・採用・求人 スタクラ https://startupclass.co.jp > 企業を探す > AI",
+    "url": "https://startupclass.co.jp/online/companies/2129/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 - 株式会社エクストリーム — 決算説明資料 - 株式会社エクストリーム 株式会社エクストリーム https://www.e-xtreme.co.jp > IR情報トップ",
+    "url": "https://www.e-xtreme.co.jp/ir/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報トップ - 株式会社エクストリーム — IR情報トップ - 株式会社エクストリーム 株式会社エクストリーム https://www.e-xtreme.co.jp > ...",
+    "url": "https://www.e-xtreme.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "【 エクストリーム 】[6033] 決算 発表や業務・財務情報 | 日経 ... — 【 エクストリーム 】[6033] 決算 発表や業務・財務情報 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kessan",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=6033",
+    "pass": 3
+   },
+   {
+    "quote": "6033 東証グロース 決算 ： エクストリーム - 株式市況 - 松井証券 — 6033 東証グロース 決算 ： エクストリーム - 株式市況 - 松井証券 松井証券 https://finance.matsui.co.jp > ... > エクストリーム(6033)",
+    "url": "https://finance.matsui.co.jp/stock/6033/settlement/index",
+    "pass": 3
+   },
+   {
+    "quote": "エクストリーム （6033）のIR情報・ 決算資料 - IRBANK — エクストリーム （6033）のIR情報・ 決算資料 - IRBANK IRBANK https://irbank.net > エクストリーム",
+    "url": "https://irbank.net/6033/ir",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 株式会社エクストリーム — 会社概要 - 株式会社エクストリーム 株式会社エクストリーム https://www.e-xtreme.co.jp > 会社情報",
+    "url": "https://www.e-xtreme.co.jp/company/company_profile/",
+    "pass": 3
+   },
+   {
+    "quote": "エクストリーム 【6033】の 事業 内容 - キタイシホン — エクストリーム 【6033】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 エクストリーム (@extreme_mpo) / X — 株式会社 エクストリーム (@extreme_mpo) / X X https://x.com > extreme_mpo",
+    "url": "https://x.com/extreme_mpo",
+    "pass": 3
+   },
+   {
+    "quote": "【会社概要】 エクストリーム ってどんな会社？ - Wantedly — 【会社概要】 エクストリーム ってどんな会社？ - Wantedly Wantedly https://www.wantedly.com > ... > ストーリー",
+    "url": "https://www.wantedly.com/companies/www-e-xtreme-co/post_articles/915605",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 エクストリーム の企業情報・エンジニア採用情報 — 株式会社 エクストリーム の企業情報・エンジニア採用情報 paiza https://paiza.jp > 企業検索",
+    "url": "https://paiza.jp/recruiters/1826",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 エクストリーム 代表取締役 社長 CEO 佐藤昌平氏 ... — 株式会社 エクストリーム 代表取締役 社長 CEO 佐藤昌平氏 ... 経営ノート https://keiei-note.wizbiz.jp > ... > 上場企業の経営者",
+    "url": "https://keiei-note.wizbiz.jp/100-2/",
+    "pass": 3
+   },
+   {
+    "quote": "社長 ブログ Archives - 株式会社エクストリーム — 社長 ブログ Archives - 株式会社エクストリーム 株式会社エクストリーム https://www.e-xtreme.co.jp > blog > president",
+    "url": "https://www.e-xtreme.co.jp/blog/president/",
+    "pass": 3
+   },
+   {
+    "quote": "ドラガミゲームスの新 社長 に エクストリーム の佐藤昌平氏が就任 — ドラガミゲームスの新 社長 に エクストリーム の佐藤昌平氏が就任 電ファミニコゲーマー https://news.denfaminicogamer.jp > news",
+    "url": "https://news.denfaminicogamer.jp/news/2504012a",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "［事業系統図］",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル人材事業における堅実なビジネスモデル及びラングリッサー関連のロイヤルティ収益により、盤石なキャッシュポジションを確立しており、現預金、流動性の高い投資有価証券（高格付外債等）の保有残高は、当連結会計年度末時点において6,103,970千円と潤沢な状況にあると考えております",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、上記事業区分は「第５ 経理の状況 １ 連結財務諸表等 (1）連結財務諸表 注記事項（セグメント情報等）」に掲げるセグメントの区分と同一であります",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "事業セグメントの名称",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "コンテンツプロパティ事業は、当社グループが保有するゲーム・キャラクター等の知的財産を活用し、様々な事業展開を行うセグメントであり、具体的には、ゲーム開発・販売・運営のほかに、当社グループが保有するゲームタイトルまたはキャラクターなどを様々な商材へ使用許諾を行うライセンス事業が含まれております",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントごとの業績は次のとおりであります",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "この結果、当連結会計年度における売上高は7,236,573千円（前年同期比12.6％増）、セグメント利益は974,085千円（前年同期比21.9％増)となりました",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "この結果、当連結会計年度における売上高は3,742,381千円（前年同期比5.7％増）、セグメント利益は869,534千円（前年同期比4.8％減）となりました",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "コンテンツプロパティ事業は、当社が保有するゲーム・キャラクター等の知的財産を活用し、様々な事業展開を行うセグメントであり、具体的には、ゲーム運営のほかに、当社が保有するゲームタイトルまたはキャラクターなどを様々な商材へ使用許諾を行うライセンス事業が含まれております",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "この結果、当連結会計年度における売上高は925,615千円（前年同期比36.9％減）、セグメント利益は460,979千円（前年同期比31.3％減）となりました",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度における販売実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "（注）セグメント間取引については、相殺消去しております",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別の経営成績についての分析は以下のとおりであります",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "本事業は創業来順調に成長してきた事業セグメントであり、「デジタルクリエイター＆ITエンジニアプロダクション」として、デジタルクリエイターという新しい職能ポジションの確立を実現し、様々な企業に当社のソリューションを提供し、唯一無二の人材サービスを提供することを引き続き目指してまいります",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "本事業セグメントは、企業のデジタル施策への投資拡大を背景に売上高、営業利益ともに引き続き堅調に推移しました",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社といたしましては、デジタル人材事業を基盤事業としながら、人材派遣に留まらない開発案件については、当社及び本事業セグメントに属する子会社を活用し、開発案件に関する幅広なソリューション提供を行うことで売上高及びグループ全体の利益向上につなげるものとして、今後も注力していきたいと考えております",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "本事業セグメントにおいては、2018年に当社の代表的な知的財産である「ラングリッサー」がライセンス許諾という形でスマートフォンアプリとして中国を起点にアジア地域でヒットしたものの、2017年以降は自社開発・運営タイトルがなく、サービスラインナップの拡充が課題となっております",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "（セグメント情報等）",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   },
+   {
+    "quote": "１．報告セグメントの概要",
+    "url": "https://kitaishihon.com/company/6033/business",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://extreme-inc.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://extreme-inc.jp/company/company_profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://extreme-inc.jp/works/minoh-sembahiroba/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.e-xtreme.co.jp/service/total_solution/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=BB3q0DzP4SY",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.e-xtreme.co.jp/ir/presentation/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.e-xtreme.co.jp/ir/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.e-xtreme.co.jp/company/company_profile/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kitaishihon.com/company/6033/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://keiei-note.wizbiz.jp/100-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-xtreme.co.jp/blog/president/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "エクストリーム",
+   "results": [
+    "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%A0_(%E3%83%90%E3%83%B3%E3%83%89)",
+    "https://www.jvcmusic.co.jp/-/Profile/A021853.html",
+    "https://www.e-xtreme.co.jp/",
+    "https://open.spotify.com/intl-ja/artist/6w7j5wQ5AI5OQYlcM15s2L",
+    "https://eow.alc.co.jp/search?q=extreme",
+    "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%A0",
+    "https://www.youtube.com/user/extreme050506/featured",
+    "https://www.facebook.com/extremeband/?locale=ja_JP",
+    "https://ejje.weblio.jp/content/extreme",
+    "https://ja.wikipedia.org/wiki/エクストリーム_(バンド)"
+   ]
+  },
+  {
+   "query": "エクストリーム ビジネスモデル",
+   "results": [
+    "https://www.e-xtreme.co.jp/service/total_solution/",
+    "https://www.youtube.com/watch?v=BB3q0DzP4SY",
+    "https://www.crex-data.com/company/6033",
+    "https://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3016054261/",
+    "https://startupclass.co.jp/online/companies/2129/",
+    "https://x.com/extreme_mpo",
+    "https://www.wantedly.com/companies/www-e-xtreme-co/post_articles/915605",
+    "https://www.openwork.jp/company_answer.php?m_id=a0C3000000lssS5&q_no=9",
+    "https://sights-kyoto.com/post-730/",
+    "https://www.e-xtreme.co.jp/"
+   ]
+  },
+  {
+   "query": "エクストリーム 決算説明資料",
+   "results": [
+    "https://www.e-xtreme.co.jp/ir/presentation/",
+    "https://www.e-xtreme.co.jp/ir/",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=6033",
+    "https://finance.matsui.co.jp/stock/6033/settlement/index",
+    "https://irbank.net/6033/ir",
+    "https://www.resorttrust.co.jp/ir/library/presentation/",
+    "https://www.youtube.com/watch?v=yX0H5yV2LIE",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260514533609",
+    "https://kabutan.jp/stock/finance?code=6033",
+    "https://edinetdb.jp/company/E31079/presentations/"
+   ]
+  },
+  {
+   "query": "エクストリーム 事業系統図",
+   "results": [
+    "https://www.e-xtreme.co.jp/company/company_profile/",
+    "https://kitaishihon.com/company/6033/business",
+    "https://x.com/extreme_mpo",
+    "https://www.wantedly.com/companies/www-e-xtreme-co/post_articles/915605",
+    "https://paiza.jp/recruiters/1826",
+    "https://www.crex-data.com/company/6033",
+    "https://mid-tenshoku.com/agency/a-7598/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=6033",
+    "http://www.bridge-salon.jp/database/code_6033.html"
+   ]
+  },
+  {
+   "query": "エクストリーム 社長 インタビュー",
+   "results": [
+    "https://keiei-note.wizbiz.jp/100-2/",
+    "https://www.e-xtreme.co.jp/blog/president/",
+    "https://x.com/extreme_mpo",
+    "https://www.youtube.com/watch?v=7b_0x4Il4Lo",
+    "https://news.denfaminicogamer.jp/news/2504012a",
+    "https://www.youtube.com/watch?v=FeGlSZt8y0I",
+    "https://jobtalk.jp/companies/21013/answers/9181663",
+    "https://kigyo-scope.jp/company/6033/ceo/",
+    "https://kitaishihon.com/company/6033/board-of-director",
+    "https://x.com/extreme_mpo/status/2074036294674792567"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部8頁・検索5回）"
+ }
+}

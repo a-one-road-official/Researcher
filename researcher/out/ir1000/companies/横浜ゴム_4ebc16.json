@@ -1,0 +1,1782 @@
+{
+ "name": "横浜ゴム",
+ "aliases": [],
+ "context": "証券コード5101／ゴム製品／プライム（内国株式）／2025.12期 売上高1,234,959百万円 営業利益率12.4%",
+ "researched_at": "2026-11-02T19:52:01.752246+00:00",
+ "official_url": "https://www.y-yokohama.com/",
+ "identified_by": "search:yahoo_jp:横浜ゴム",
+ "profile": {
+  "設立": [
+   {
+    "label": "創立",
+    "value": "大正6年（1917年）10月13日",
+    "url": "https://www.y-yokohama.com/profile/company/",
+    "pass": 1
+   },
+   {
+    "label": "Q01 会社の設立はいつですか？",
+    "value": "A01 1917年（大正6年）に横濱電線製造（株）（現在の古河電気工業）と米国BFグッドリッチ社との共同出資により、「横濱護謨製造株式会社」として神奈川県横浜市に設立されました。「横浜ゴム株式会社」に社名変更したのは1963年です。",
+    "url": "https://www.y-yokohama.com/ir/faq/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上収益",
+    "value": "1,234,959百万円（2025年12月期）",
+    "url": "https://www.y-yokohama.com/profile/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "5,559人（2025年12月末現在・単独） 34,471人（2025年12月末現在・連結）",
+    "url": "https://www.y-yokohama.com/profile/company/",
+    "pass": 1
+   },
+   {
+    "label": "全従業員",
+    "value": "8,440名(26％)(連結)",
+    "url": "https://www.y-yokohama.com/sustainability/report/pdf/reference_2026.pdf",
+    "pass": 2
+   },
+   {
+    "label": "全従業員",
+    "value": "10,289名(31％)(連結)",
+    "url": "https://www.y-yokohama.com/sustainability/report/pdf/reference_2026.pdf",
+    "pass": 2
+   },
+   {
+    "label": "全従業員",
+    "value": "794名(2.6％)(連結)",
+    "url": "https://www.y-yokohama.com/sustainability/report/pdf/reference_2026.pdf",
+    "pass": 2
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "Q07 事業内容について教えてください。",
+    "value": "A07 タイヤ事業が売上高の80％を占めていますが、タイヤ事業で培ったゴム高分子技術をベースにホース、工業資材、航空部品、ゴルフ用品など多彩なビジネスを展開しています。",
+    "url": "https://www.y-yokohama.com/ir/faq/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "海外サービス情報",
+    "url": "https://www.y-yokohama.com/",
+    "pass": 1
+   },
+   {
+    "quote": "その他の製品",
+    "url": "https://www.y-yokohama.com/product/tire/",
+    "pass": 1
+   },
+   {
+    "quote": "その他の製品一覧",
+    "url": "https://www.y-yokohama.com/product/tire/",
+    "pass": 1
+   },
+   {
+    "quote": "「SUVにお乗りの方へ」製品一覧へ",
+    "url": "https://www.y-yokohama.com/product/tire/",
+    "pass": 1
+   },
+   {
+    "quote": "「雨の日の不安を解消したい方へ」製品一覧へ",
+    "url": "https://www.y-yokohama.com/product/tire/",
+    "pass": 1
+   },
+   {
+    "quote": "「燃費を良くしたい方へ」製品一覧へ",
+    "url": "https://www.y-yokohama.com/product/tire/",
+    "pass": 1
+   },
+   {
+    "quote": "「ハンドリング性能を良くしたい方へ」製品一覧へ",
+    "url": "https://www.y-yokohama.com/product/tire/",
+    "pass": 1
+   },
+   {
+    "quote": "「夏も冬も一つのタイヤで過ごしたい方へ」製品一覧へ",
+    "url": "https://www.y-yokohama.com/product/tire/",
+    "pass": 1
+   },
+   {
+    "quote": "「ランフラットタイヤをお探しの方へ」製品一覧へ",
+    "url": "https://www.y-yokohama.com/product/tire/",
+    "pass": 1
+   },
+   {
+    "quote": "「冬道を安全に運転したい方へ」製品一覧へ",
+    "url": "https://www.y-yokohama.com/product/tire/",
+    "pass": 1
+   },
+   {
+    "quote": "スポーツ用品、情報処理サービスなど",
+    "url": "https://www.y-yokohama.com/profile/company/",
+    "pass": 1
+   },
+   {
+    "quote": "主力事業はタイヤ",
+    "url": "https://www.y-yokohama.com/ir/nutshell/02_businessscope/",
+    "pass": 1
+   },
+   {
+    "quote": "タイヤが売上の約9割を占める主力事業で、オフハイウェイタイヤを生産販売する「OHT」を含んでいます",
+    "url": "https://www.y-yokohama.com/ir/nutshell/02_businessscope/",
+    "pass": 1
+   },
+   {
+    "quote": "そのほか、ホース、コンベヤベルト、海洋商品、航空部品などのマルチプル・ビジネスの売上をMBとして計上しています",
+    "url": "https://www.y-yokohama.com/ir/nutshell/02_businessscope/",
+    "pass": 1
+   },
+   {
+    "quote": "マリンホースや防舷材などの海洋商品、コンベヤベルト、化粧室ユニットや飲料水タンクなどの航空部品など",
+    "url": "https://www.y-yokohama.com/ir/nutshell/02_businessscope/",
+    "pass": 1
+   },
+   {
+    "quote": "インドネシアに海洋商品工場を建設",
+    "url": "https://www.y-yokohama.com/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「CRITERION」ブランドの急傾斜コンベヤベルトシリーズ「Z」から難燃耐油性に優れた商品を発売",
+    "url": "https://www.y-yokohama.com/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "をしていただきますと、決算情報を東京証券取引所のホームページ上にある「適時開示情報閲覧サービス」で公開した後に、決算リリースを配信いたします",
+    "url": "https://www.y-yokohama.com/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "その他の製品",
+    "url": "https://www.y-yokohama.com/product/tire/iceguard-mamoru/",
+    "pass": 1
+   },
+   {
+    "quote": "その他の製品一覧",
+    "url": "https://www.y-yokohama.com/product/tire/iceguard-mamoru/",
+    "pass": 1
+   },
+   {
+    "quote": "その他の製品",
+    "url": "https://www.y-yokohama.com/product/tire/wet-a/",
+    "pass": 1
+   },
+   {
+    "quote": "その他の製品一覧",
+    "url": "https://www.y-yokohama.com/product/tire/wet-a/",
+    "pass": 1
+   },
+   {
+    "quote": "タイヤ交換時の総合的なサービス力を競う「サービス技能コンテスト全国大会」を開催、今年から生産財に加え消費財でも実施",
+    "url": "https://www.y-yokohama.com/product/truckbustire/",
+    "pass": 1
+   },
+   {
+    "quote": "“eco method（エコメソッド）”は、「安全運行」「環境対応」「コスト削減」「効率化」などお客様が直面している経営課題の解決をサポートするYOKOHAMA独自のソリューションです",
+    "url": "https://www.y-yokohama.com/product/truckbustire/",
+    "pass": 1
+   },
+   {
+    "quote": "『新品タイヤ購入～サービス・点検～運送事業者様の日常の安全・始業点検～日常の安全管理～緊急サービス～更生タイヤ購入』と、効率的な運用が可能となります",
+    "url": "https://www.y-yokohama.com/product/truckbustire/",
+    "pass": 1
+   },
+   {
+    "quote": "従来からの総合的なサービスがより一層アップグレードされ、運送事業者様のさらなる「安全運行」「環境対応」「コスト削減」「効率化」に貢献します",
+    "url": "https://www.y-yokohama.com/product/truckbustire/",
+    "pass": 1
+   },
+   {
+    "quote": "ヨコハマタイヤのサービス",
+    "url": "https://www.y-yokohama.com/product/truckbustire/",
+    "pass": 1
+   },
+   {
+    "quote": "タイヤ運用情報のデータベースを活用したサービスです",
+    "url": "https://www.y-yokohama.com/product/truckbustire/",
+    "pass": 1
+   },
+   {
+    "quote": "YNS（ヨコハマ・ネットワーク・サービス）",
+    "url": "https://www.y-yokohama.com/product/truckbustire/",
+    "pass": 1
+   },
+   {
+    "quote": "日本最大のネットワークを持つロードサービス会社と提携し、全国に約3,900拠点を展開",
+    "url": "https://www.y-yokohama.com/product/truckbustire/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス技能コンテスト",
+    "url": "https://www.y-yokohama.com/product/truckbustire/",
+    "pass": 1
+   },
+   {
+    "quote": "トラック･バス用タイヤのメンテナンスにおいて、全国レベルで作業品質を向上させると共に、どこの店舗でもお客様に高水準の作業を均一にご提供するため、ヨコハマでは「サービス技能コンテスト」を開催しています",
+    "url": "https://www.y-yokohama.com/product/truckbustire/",
+    "pass": 1
+   },
+   {
+    "quote": "ヨコハマは、タイヤを安全に正しくお使い頂くために、タイヤ商品説明会やタイヤ安全講習会を開催しています",
+    "url": "https://www.y-yokohama.com/product/truckbustire/",
+    "pass": 1
+   },
+   {
+    "quote": "■タイヤについて：商品特徴や各種性能、選び方、基本構造等",
+    "url": "https://www.y-yokohama.com/product/truckbustire/",
+    "pass": 1
+   },
+   {
+    "quote": "その他の製品",
+    "url": "https://www.y-yokohama.com/product/tire/searchbytiresize/",
+    "pass": 1
+   },
+   {
+    "quote": "その他の製品一覧",
+    "url": "https://www.y-yokohama.com/product/tire/searchbytiresize/",
+    "pass": 1
+   },
+   {
+    "quote": "その他の製品",
+    "url": "https://www.y-yokohama.com/product/tire/searchbycarmodel/",
+    "pass": 1
+   },
+   {
+    "quote": "その他の製品一覧",
+    "url": "https://www.y-yokohama.com/product/tire/searchbycarmodel/",
+    "pass": 1
+   },
+   {
+    "quote": "その他の製品",
+    "url": "https://www.y-yokohama.com/product/tire/searchbycartype/",
+    "pass": 1
+   },
+   {
+    "quote": "その他の製品一覧",
+    "url": "https://www.y-yokohama.com/product/tire/searchbycartype/",
+    "pass": 1
+   },
+   {
+    "quote": "その他の製品",
+    "url": "https://www.y-yokohama.com/product/tire/searchbyoe/",
+    "pass": 1
+   },
+   {
+    "quote": "その他の製品一覧",
+    "url": "https://www.y-yokohama.com/product/tire/searchbyoe/",
+    "pass": 1
+   },
+   {
+    "quote": "その他の製品",
+    "url": "https://www.y-yokohama.com/product/tire/searchbycartype/suv/",
+    "pass": 1
+   },
+   {
+    "quote": "その他の製品一覧",
+    "url": "https://www.y-yokohama.com/product/tire/searchbycartype/suv/",
+    "pass": 1
+   },
+   {
+    "quote": "※タイヤの性能を商品ごとに比較することができます",
+    "url": "https://www.y-yokohama.com/product/tire/searchbycartype/suv/",
+    "pass": 1
+   },
+   {
+    "quote": "その他の製品",
+    "url": "https://www.y-yokohama.com/product/tire/searchbycartype/minivan/",
+    "pass": 1
+   },
+   {
+    "quote": "その他の製品一覧",
+    "url": "https://www.y-yokohama.com/product/tire/searchbycartype/minivan/",
+    "pass": 1
+   },
+   {
+    "quote": "※タイヤの性能を商品ごとに比較することができます",
+    "url": "https://www.y-yokohama.com/product/tire/searchbycartype/minivan/",
+    "pass": 1
+   },
+   {
+    "quote": "スポーツ用品など、 数々の製品を世に送り出してきました",
+    "url": "https://www.y-yokohama.com/profile/pdf/co-profileJ.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "横浜ゴムは、 日本の近代化に不可欠なゴム製品の国産を目的に、 「高級ゴム製品の製造を通じての社会貢献」 を掲げ、 1917年に",
+    "url": "https://www.y-yokohama.com/profile/pdf/co-profileJ.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "カバーする豊富な商品、 タイヤサイズを保有",
+    "url": "https://www.y-yokohama.com/profile/pdf/co-profileJ.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "理論から生み出されるPRGR製品",
+    "url": "https://www.y-yokohama.com/profile/pdf/co-profileJ.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "横浜ゴムはタイヤに加えて、 ホース、 コンベヤベルト、 航空部品など、 特徴ある商品を提供しており、 これらの事業をMB",
+    "url": "https://www.y-yokohama.com/profile/pdf/co-profileJ.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "既成概念にとらわれない新しい素材開発や商品設計を行い、 日本初、 世界初の技術を生み出していきます",
+    "url": "https://www.y-yokohama.com/profile/pdf/co-profileJ.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "幅広い素材を組み合わせ、 安全性に優れ環境に配慮した新商品を生み出しています",
+    "url": "https://www.y-yokohama.com/profile/pdf/co-profileJ.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "高圧水素ガス用ホースなど、 次の時代に向けた商品開発にも力を入れています",
+    "url": "https://www.y-yokohama.com/profile/pdf/co-profileJ.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "工業資材事業では、 石油輸送用のマリンホースや防舷材などの海洋商品において、 1950年代から長年にわたり培ってきた技術",
+    "url": "https://www.y-yokohama.com/profile/pdf/co-profileJ.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "防舷材まで幅広い製品ポートフォリオを有しています",
+    "url": "https://www.y-yokohama.com/profile/pdf/co-profileJ.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ベルトや圧倒的な耐熱性能と耐久性を誇るベルトなど際立った製品をグローバルに展開しているほか、 独自の遠隔監視技術に",
+    "url": "https://www.y-yokohama.com/profile/pdf/co-profileJ.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "提案する 「総合ソリューションサービス」 の構築を推進しています",
+    "url": "https://www.y-yokohama.com/profile/pdf/co-profileJ.pdf",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "ヨコハマの強み",
+    "url": "https://www.y-yokohama.com/product/tire/",
+    "pass": 1
+   },
+   {
+    "quote": "ヨコハマタイヤの強み",
+    "url": "https://www.y-yokohama.com/product/tire/",
+    "pass": 1
+   },
+   {
+    "quote": "横浜ゴムの強み",
+    "url": "https://www.y-yokohama.com/ir/nutshell/02_businessscope/",
+    "pass": 1
+   },
+   {
+    "quote": "横浜ゴムの強み",
+    "url": "https://www.y-yokohama.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "横浜ゴムの強み",
+    "url": "https://www.y-yokohama.com/ir/nutshell/",
+    "pass": 1
+   },
+   {
+    "quote": "のページで企業規模や事業内容、強みや経営戦略、ESGについてわかりやすく紹介しています",
+    "url": "https://www.y-yokohama.com/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "ヨコハマの強み",
+    "url": "https://www.y-yokohama.com/product/tire/iceguard-mamoru/",
+    "pass": 1
+   },
+   {
+    "quote": "ヨコハマタイヤの強み",
+    "url": "https://www.y-yokohama.com/product/tire/iceguard-mamoru/",
+    "pass": 1
+   },
+   {
+    "quote": "中期経営計画「YX2026」では2021年度から2023年度までの前中期経営計画「Yokohama Transformation 2023（YX2023）」から推進してきた既存事業における強みの「深化」と新しい価値の「探索」をさらに推し進め、次世代に負の遺産を残さないという強い意志を持って変革の「総仕上げ」を行います",
+    "url": "https://www.y-yokohama.com/ir/company/yx2026/",
+    "pass": 1
+   },
+   {
+    "quote": "ヨコハマタイヤの強み_雨の日に強い- ヨコハマタイヤ [YOKOHAMA TIRE] - ヨコハマタイヤ [YOKOHAMA TIRE]",
+    "url": "https://www.y-yokohama.com/product/tire/wet-a/",
+    "pass": 1
+   },
+   {
+    "quote": "ヨコハマの強み",
+    "url": "https://www.y-yokohama.com/product/tire/wet-a/",
+    "pass": 1
+   },
+   {
+    "quote": "ヨコハマタイヤの強み",
+    "url": "https://www.y-yokohama.com/product/tire/wet-a/",
+    "pass": 1
+   },
+   {
+    "quote": "ヨコハマの強み",
+    "url": "https://www.y-yokohama.com/product/tire/searchbytiresize/",
+    "pass": 1
+   },
+   {
+    "quote": "ヨコハマタイヤの強み",
+    "url": "https://www.y-yokohama.com/product/tire/searchbytiresize/",
+    "pass": 1
+   },
+   {
+    "quote": "ヨコハマの強み",
+    "url": "https://www.y-yokohama.com/product/tire/searchbycarmodel/",
+    "pass": 1
+   },
+   {
+    "quote": "ヨコハマタイヤの強み",
+    "url": "https://www.y-yokohama.com/product/tire/searchbycarmodel/",
+    "pass": 1
+   },
+   {
+    "quote": "ヨコハマの強み",
+    "url": "https://www.y-yokohama.com/product/tire/searchbycartype/",
+    "pass": 1
+   },
+   {
+    "quote": "ヨコハマタイヤの強み",
+    "url": "https://www.y-yokohama.com/product/tire/searchbycartype/",
+    "pass": 1
+   },
+   {
+    "quote": "ヨコハマの強み",
+    "url": "https://www.y-yokohama.com/product/tire/searchbyoe/",
+    "pass": 1
+   },
+   {
+    "quote": "ヨコハマタイヤの強み",
+    "url": "https://www.y-yokohama.com/product/tire/searchbyoe/",
+    "pass": 1
+   },
+   {
+    "quote": "ヨコハマの強み",
+    "url": "https://www.y-yokohama.com/product/tire/searchbycartype/suv/",
+    "pass": 1
+   },
+   {
+    "quote": "ヨコハマタイヤの強み",
+    "url": "https://www.y-yokohama.com/product/tire/searchbycartype/suv/",
+    "pass": 1
+   },
+   {
+    "quote": "ヨコハマの強み",
+    "url": "https://www.y-yokohama.com/product/tire/searchbycartype/minivan/",
+    "pass": 1
+   },
+   {
+    "quote": "ヨコハマタイヤの強み",
+    "url": "https://www.y-yokohama.com/product/tire/searchbycartype/minivan/",
+    "pass": 1
+   },
+   {
+    "quote": "市場展開、 顧客要望への対応力を強みに事業拡大を進め、 さらに成長を加速させていき",
+    "url": "https://www.y-yokohama.com/profile/pdf/co-profileJ.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "推進してきた既存事業における強みの 「深化」 と新しい価値の",
+    "url": "https://www.y-yokohama.com/profile/pdf/co-profileJ.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "タイヤでは、 Tier （ティア） ごとに持つ生 ・ 販 ・ 技の強みを活か",
+    "url": "https://www.y-yokohama.com/profile/pdf/co-profileJ.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "高収益体制の確立",
+    "url": "https://www.y-yokohama.com/ir/pdf/document/yx2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益 営業利益率",
+    "url": "https://www.y-yokohama.com/ir/pdf/document/26_2Qpresentation.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "私たちの強みは、日本国内だけにとどまらず、世界中のお客様へ確かな技術をお届けしてきたことです",
+    "url": "https://navi.handy.school/interviews/yokohama-rubber",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年10月29日",
+    "url": "https://www.y-yokohama.com/product/tire/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年上期PC総合カタログ 訂正のお詫びとご連絡",
+    "url": "https://www.y-yokohama.com/product/tire/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月22日",
+    "url": "https://www.y-yokohama.com/product/tire/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月21日",
+    "url": "https://www.y-yokohama.com/product/tire/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月01日",
+    "url": "https://www.y-yokohama.com/product/tire/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革│横浜ゴム株式会社/THE YOKOHAMA RUBBER CO., LTD.",
+    "url": "https://www.y-yokohama.com/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1957年頃の本社の様子（東京都港区芝田村町5丁目9番地：現在の新橋5丁目36番11号）",
+    "url": "https://www.y-yokohama.com/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度第2四半期決算説明会",
+    "url": "https://www.y-yokohama.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度 第2四半期決算会資料",
+    "url": "https://www.y-yokohama.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度第2四半期決算短信",
+    "url": "https://www.y-yokohama.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度半期報告書",
+    "url": "https://www.y-yokohama.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度期末報告書",
+    "url": "https://www.y-yokohama.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度統合報告書",
+    "url": "https://www.y-yokohama.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度第3四半期決算発表",
+    "url": "https://www.y-yokohama.com/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度第2四半期決算発表",
+    "url": "https://www.y-yokohama.com/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度第1四半期決算発表",
+    "url": "https://www.y-yokohama.com/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度決算発表",
+    "url": "https://www.y-yokohama.com/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度第3四半期決算発表",
+    "url": "https://www.y-yokohama.com/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度第2四半期決算発表",
+    "url": "https://www.y-yokohama.com/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度第1四半期決算発表",
+    "url": "https://www.y-yokohama.com/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度決算発表",
+    "url": "https://www.y-yokohama.com/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度第3四半期決算発表",
+    "url": "https://www.y-yokohama.com/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度第2四半期決算発表",
+    "url": "https://www.y-yokohama.com/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度第1四半期決算発表",
+    "url": "https://www.y-yokohama.com/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度決算発表",
+    "url": "https://www.y-yokohama.com/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度第3四半期決算発表",
+    "url": "https://www.y-yokohama.com/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度第2四半期決算発表",
+    "url": "https://www.y-yokohama.com/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度第1四半期決算発表",
+    "url": "https://www.y-yokohama.com/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度決算発表",
+    "url": "https://www.y-yokohama.com/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度第3四半期決算発表",
+    "url": "https://www.y-yokohama.com/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度第2四半期決算発表",
+    "url": "https://www.y-yokohama.com/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度第1四半期決算発表",
+    "url": "https://www.y-yokohama.com/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年度決算発表",
+    "url": "https://www.y-yokohama.com/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年度第3四半期決算発表",
+    "url": "https://www.y-yokohama.com/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年度第2四半期決算発表",
+    "url": "https://www.y-yokohama.com/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年度第1四半期決算発表",
+    "url": "https://www.y-yokohama.com/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年度決算発表",
+    "url": "https://www.y-yokohama.com/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年度第3四半期決算発表",
+    "url": "https://www.y-yokohama.com/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2012年度から1－12月決算となっています",
+    "url": "https://www.y-yokohama.com/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "1917年（大正6年）に横濱電線製造（株）（現在の古河電気工業）と米国BFグッドリッチ社との共同出資により、「横濱護謨製造株式会社」として神奈川県横浜市に設立されました",
+    "url": "https://www.y-yokohama.com/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "1950年に東京証券取引所市場第一部、大阪証券取引所市場第一部に上場し、1961年に名古屋証券取引所市場第一部に上場しました",
+    "url": "https://www.y-yokohama.com/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月に「YX2026」の業績目標を上方修正しました",
+    "url": "https://www.y-yokohama.com/ir/company/yx2026/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度決算説明資料 (3,018KB)",
+    "url": "https://www.y-yokohama.com/ir/company/yx2026/",
+    "pass": 1
+   },
+   {
+    "quote": "令和6年度の大型車の車輪脱落事故発生件数は",
+    "url": "https://www.y-yokohama.com/product/truckbustire/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年にOHT専門 メーカーのAlliance Tire Group B.V. （ATG)、 2017年にニュー",
+    "url": "https://www.y-yokohama.com/profile/pdf/co-profileJ.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年に農業 機 械 用・建 設 車 両 用・産 業 車 両 用 の 各 品 種 に お い て欧州で高いシェアを",
+    "url": "https://www.y-yokohama.com/profile/pdf/co-profileJ.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2030年にCO2排出量 （Scope1+2） を2019年比40％削減、 2050年には排出量ネッ トゼロを目指します",
+    "url": "https://www.y-yokohama.com/profile/pdf/co-profileJ.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年4月に策定した 「横浜ゴムグルー プ 人権方針」 に基づき、 横浜ゴムグルー プの",
+    "url": "https://www.y-yokohama.com/profile/pdf/co-profileJ.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年度の",
+    "url": "https://www.y-yokohama.com/profile/pdf/co-profileJ.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年度は",
+    "url": "https://www.y-yokohama.com/profile/pdf/co-profileJ.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年度は配当性向30％、 総還元性向30％以上へと方針を",
+    "url": "https://www.y-yokohama.com/profile/pdf/co-profileJ.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年度に着工から11ヵ月",
+    "url": "https://www.y-yokohama.com/profile/pdf/co-profileJ.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年2月にグッドイヤー社のOTR事業を買収しました",
+    "url": "https://www.y-yokohama.com/profile/pdf/co-profileJ.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年度財務目標（現在見込み）",
+    "url": "https://www.y-yokohama.com/profile/pdf/co-profileJ.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.y-yokohama.com/sustainability/report/pdf/reference_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.y-yokohama.com/sustainability/report/pdf/reference_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年度 2024年度",
+    "url": "https://www.y-yokohama.com/sustainability/report/pdf/reference_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年度 2025年度",
+    "url": "https://www.y-yokohama.com/sustainability/report/pdf/reference_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://www.y-yokohama.com/sustainability/report/pdf/reference_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年度自社 2023年度",
+    "url": "https://www.y-yokohama.com/sustainability/report/pdf/reference_2026.pdf",
+    "pass": 2
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "個人投資家の皆さま向けに横浜ゴムのことをわかりやすく紹介します",
+    "url": "https://www.y-yokohama.com/ir/nutshell/02_businessscope/",
+    "pass": 1
+   },
+   {
+    "quote": "写真は1930年代のタイヤ販売店の様子",
+    "url": "https://www.y-yokohama.com/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "英国プレミアリーグ「チェルシーFC」とパートナーシップ契約を締結",
+    "url": "https://www.y-yokohama.com/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "競泳の池江璃花子選手とパートナーシップ契約を締結",
+    "url": "https://www.y-yokohama.com/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "のページで企業規模や事業内容、強みや経営戦略、ESGについてわかりやすく紹介しています",
+    "url": "https://www.y-yokohama.com/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "トラック･バス用タイヤのメンテナンスにおいて、全国レベルで作業品質を向上させると共に、どこの店舗でもお客様に高水準の作業を均一にご提供するため、ヨコハマでは「サービス技能コンテスト」を開催しています",
+    "url": "https://www.y-yokohama.com/product/truckbustire/",
+    "pass": 1
+   },
+   {
+    "quote": "原材料のサステナブル化を推進し、 独自の探索 ・ 開発に加えて、 パートナーとの",
+    "url": "https://www.y-yokohama.com/profile/pdf/co-profileJ.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "販社化 ・ 代理店政策",
+    "url": "https://www.y-yokohama.com/profile/pdf/co-profileJ.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "についても、 国内の販売店で行われる試打会や試打クラブのレンタル、 フィッティングスタ ッフによるお客様に合った",
+    "url": "https://www.y-yokohama.com/profile/pdf/co-profileJ.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "販社化・代理店政策",
+    "url": "https://www.y-yokohama.com/ir/pdf/document/yx2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "販社化・代理店政策",
+    "url": "https://www.y-yokohama.com/ir/pdf/document/26_2Qpresentation.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "パートナー 補助金",
+    "url": "https://www.y-yokohama.com/ir/pdf/document/26_2Qpresentation.pdf",
+    "pass": 2
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント別損益状況",
+    "url": "https://www.y-yokohama.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別損益状況",
+    "url": "https://www.y-yokohama.com/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "(中央円グラフ：オフハイウェイ・タイヤの世界需要構成比)",
+    "url": "https://www.y-yokohama.com/ir/pdf/document/yx2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間消去 0 ▲0 +0 － － +0 － +0",
+    "url": "https://www.y-yokohama.com/ir/pdf/document/26_2Qmanagement.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業別セグメント（第２四半期累計）",
+    "url": "https://www.y-yokohama.com/ir/pdf/document/26_2Qmanagement.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間消去 ▲0 ▲0 +0 － － +0",
+    "url": "https://www.y-yokohama.com/ir/pdf/document/26_2Qmanagement.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業別セグメント（第２四半期）",
+    "url": "https://www.y-yokohama.com/ir/pdf/document/26_2Qmanagement.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業別セグメント（通期）",
+    "url": "https://www.y-yokohama.com/ir/pdf/document/26_2Qmanagement.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間消去 － ▲0 +0 － － －",
+    "url": "https://www.y-yokohama.com/ir/pdf/document/26_2Qmanagement.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "地域別構成比",
+    "url": "https://www.y-yokohama.com/ir/pdf/document/26_2Qmanagement.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "AGW構成比",
+    "url": "https://www.y-yokohama.com/ir/pdf/document/26_2Qmanagement.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "18インチ以上構成比",
+    "url": "https://www.y-yokohama.com/ir/pdf/document/26_2Qmanagement.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等） …………………………………………………………………………………………11",
+    "url": "https://www.y-yokohama.com/ir/pdf/document/tan26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "タイヤセグメントの売上収益は5,803億60百万円（前年同期比10.8％増）で、当社グループの連結売上収益の90.8",
+    "url": "https://www.y-yokohama.com/ir/pdf/document/tan26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "MB（マルチプル・ビジネス）セグメントの売上収益は548億63百万円（前年同期比6.9％増）で、当社グループの",
+    "url": "https://www.y-yokohama.com/ir/pdf/document/tan26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等）",
+    "url": "https://www.y-yokohama.com/ir/pdf/document/tan26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(1) 報告セグメントの概要",
+    "url": "https://www.y-yokohama.com/ir/pdf/document/tan26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの事業セグメントは、当社グループの構成単位のうち分離された財務情報が入手可能であり、当社",
+    "url": "https://www.y-yokohama.com/ir/pdf/document/tan26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "各報告セグメントに属する主要な製品",
+    "url": "https://www.y-yokohama.com/ir/pdf/document/tan26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント 主要製品",
+    "url": "https://www.y-yokohama.com/ir/pdf/document/tan26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(2) セグメント収益及び業績に関する情報",
+    "url": "https://www.y-yokohama.com/ir/pdf/document/tan26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメントの数値は事業利益ベースの数値であります",
+    "url": "https://www.y-yokohama.com/ir/pdf/document/tan26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の売上収益は市場実勢価格に基づいて",
+    "url": "https://www.y-yokohama.com/ir/pdf/document/tan26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント その他",
+    "url": "https://www.y-yokohama.com/ir/pdf/document/tan26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間 592 50 11,130 11,771 △11,771 －",
+    "url": "https://www.y-yokohama.com/ir/pdf/document/tan26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益",
+    "url": "https://www.y-yokohama.com/ir/pdf/document/tan26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益(事業利益)は、売上収益から売上原価、販売費及び一般管理費を控除して算出しておりま",
+    "url": "https://www.y-yokohama.com/ir/pdf/document/tan26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．セグメント利益の調整額は、セグメント間取引消去等によるものであります",
+    "url": "https://www.y-yokohama.com/ir/pdf/document/tan26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間 541 68 11,312 11,921 △11,921 －",
+    "url": "https://www.y-yokohama.com/ir/pdf/document/tan26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "タイヤセグメントの売上収益は5,803億60百万円（前年同期比10.8％増）で、当社グループの連結売上収益の90.8",
+    "url": "https://www.y-yokohama.com/ir/pdf/library/YUHO/151-2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "MB（マルチプル・ビジネス）セグメントの売上収益は54 8億63百万円（前年同期比6 .9％増）で、当社グループの",
+    "url": "https://www.y-yokohama.com/ir/pdf/library/YUHO/151-2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「注記５．セグメント情報」に記載しております",
+    "url": "https://www.y-yokohama.com/ir/pdf/library/YUHO/151-2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "５．セグメント情報",
+    "url": "https://www.y-yokohama.com/ir/pdf/library/YUHO/151-2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(1) 報告セグメントの概 要",
+    "url": "https://www.y-yokohama.com/ir/pdf/library/YUHO/151-2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの事業セグメントは、当社グループの構成単位のうち分離された財務情報が入手可能であり、当社",
+    "url": "https://www.y-yokohama.com/ir/pdf/library/YUHO/151-2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "各報告セグメントに属する主要な製品",
+    "url": "https://www.y-yokohama.com/ir/pdf/library/YUHO/151-2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント 主要製品",
+    "url": "https://www.y-yokohama.com/ir/pdf/library/YUHO/151-2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(2) セグメント収益及び業績 に関する情報",
+    "url": "https://www.y-yokohama.com/ir/pdf/library/YUHO/151-2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告されているセグメントの会計処理の方法は、 「注記３．重要性のある会計方針」における記載と同一であり",
+    "url": "https://www.y-yokohama.com/ir/pdf/library/YUHO/151-2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメントの数値は事業利益ベースの数値であります",
+    "url": "https://www.y-yokohama.com/ir/pdf/library/YUHO/151-2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の売上収益は市場実勢価格に基づいて",
+    "url": "https://www.y-yokohama.com/ir/pdf/library/YUHO/151-2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント その他",
+    "url": "https://www.y-yokohama.com/ir/pdf/library/YUHO/151-2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間 592 50 1 1,130 1 1,771 △ 11,771 －",
+    "url": "https://www.y-yokohama.com/ir/pdf/library/YUHO/151-2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益",
+    "url": "https://www.y-yokohama.com/ir/pdf/library/YUHO/151-2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益(事業利益)は、売上収益から売上原価、販売費及び一般管理費を控除して算出しておりま",
+    "url": "https://www.y-yokohama.com/ir/pdf/library/YUHO/151-2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．セグメント利益の調整額は、セグメント間取引消去等によるものであります",
+    "url": "https://www.y-yokohama.com/ir/pdf/library/YUHO/151-2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間 541 68 1 1,312 1 1,921 △ 11,921 －",
+    "url": "https://www.y-yokohama.com/ir/pdf/library/YUHO/151-2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "分解した収益とセグメント収益の関連は、以下のとおりであります",
+    "url": "https://www.y-yokohama.com/ir/pdf/library/YUHO/151-2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）売上収益は顧客の所在地を基礎とし、セグメント間の内部取引控除後の金額を表示しております",
+    "url": "https://www.y-yokohama.com/ir/pdf/library/YUHO/151-2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）当中間連結会計期間において 、売却目的で保有する非流動資産に分類しておりましたタイヤ事業セグメント",
+    "url": "https://www.y-yokohama.com/ir/pdf/library/YUHO/151-2Q.pdf",
+    "pass": 2
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "“eco method（エコメソッド）”は、「安全運行」「環境対応」「コスト削減」「効率化」などお客様が直面している経営課題の解決をサポートするYOKOHAMA独自のソリューションです",
+    "url": "https://www.y-yokohama.com/product/truckbustire/",
+    "pass": 1
+   },
+   {
+    "quote": "プロのタイヤ点検でデータを蓄積し、摩耗状況や推定タイヤ交換時期など、お客様毎にベストなご提案をいたします",
+    "url": "https://www.y-yokohama.com/product/truckbustire/",
+    "pass": 1
+   },
+   {
+    "quote": "トラック･バス用タイヤのメンテナンスにおいて、全国レベルで作業品質を向上させると共に、どこの店舗でもお客様に高水準の作業を均一にご提供するため、ヨコハマでは「サービス技能コンテスト」を開催しています",
+    "url": "https://www.y-yokohama.com/product/truckbustire/",
+    "pass": 1
+   },
+   {
+    "quote": "その一つひとつがお客様の豊かさにつながるものとなる",
+    "url": "https://www.y-yokohama.com/profile/pdf/co-profileJ.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "心をこめて、 横浜ゴムは、 世界中のお客様から信頼され必要とされる企業を目指してまいります",
+    "url": "https://www.y-yokohama.com/profile/pdf/co-profileJ.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "よっ て、 冬季路面におけるお客様の安全に",
+    "url": "https://www.y-yokohama.com/profile/pdf/co-profileJ.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "市場展開、 顧客要望への対応力を強みに事業拡大を進め、 さらに成長を加速させていき",
+    "url": "https://www.y-yokohama.com/profile/pdf/co-profileJ.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "横浜ゴムが開発・ 生産・ 販売するさまざまなタイヤは、 社会のあらゆる場面で、 高い品質でユーザーの信頼を獲得しています",
+    "url": "https://www.y-yokohama.com/profile/pdf/co-profileJ.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ビス強化によるお客様の利便性 ・ 効率性の向上に注力しています",
+    "url": "https://www.y-yokohama.com/profile/pdf/co-profileJ.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "最先端のデジタル技術を組み合わせることで、 お客様が抱える多様な課題を解決する",
+    "url": "https://www.y-yokohama.com/profile/pdf/co-profileJ.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "天然ゴムは横浜ゴムグルー プの原料使用量の約20%を占めており、 お客様に製品を絶やすことなく提供するためには欠かせない",
+    "url": "https://www.y-yokohama.com/profile/pdf/co-profileJ.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "個人消費者を対象とする乗用車用タイヤやゴルフ用品の販売においては、 店頭やイベント会場でのお客様とのふれあいが",
+    "url": "https://www.y-yokohama.com/profile/pdf/co-profileJ.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ホイールをじっくりご覧になっていただくとともに、 お客様との密接なコミ ュニケーションを図っています",
+    "url": "https://www.y-yokohama.com/profile/pdf/co-profileJ.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "についても、 国内の販売店で行われる試打会や試打クラブのレンタル、 フィッティングスタ ッフによるお客様に合った",
+    "url": "https://www.y-yokohama.com/profile/pdf/co-profileJ.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様の要望を聞くことからはじまります",
+    "url": "https://www.y-yokohama.com/profile/pdf/co-profileJ.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "何度も現場へ足を運ぶことで、 お客様の真のニーズを把握し、 そこから一つ",
+    "url": "https://www.y-yokohama.com/profile/pdf/co-profileJ.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客と横浜ゴムの物流、従業員の通勤や",
+    "url": "https://www.y-yokohama.com/sustainability/report/pdf/reference_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ついて顧客に報告しています",
+    "url": "https://www.y-yokohama.com/sustainability/report/pdf/reference_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サプライヤー、顧客とのかかわり)",
+    "url": "https://www.y-yokohama.com/sustainability/report/pdf/reference_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "リスク：行政・顧客・NPOなどからの厳しい環境",
+    "url": "https://www.y-yokohama.com/sustainability/report/pdf/reference_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "CSR活動に対する取引先さまとの勉強会とアン",
+    "url": "https://www.y-yokohama.com/sustainability/report/pdf/reference_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・取引先(地域別に)",
+    "url": "https://www.y-yokohama.com/sustainability/report/pdf/reference_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取引先：929名",
+    "url": "https://www.y-yokohama.com/sustainability/report/pdf/reference_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取引先：677名",
+    "url": "https://www.y-yokohama.com/sustainability/report/pdf/reference_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取引先：693名",
+    "url": "https://www.y-yokohama.com/sustainability/report/pdf/reference_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "上記事例が原因で、取引先と契約破棄",
+    "url": "https://www.y-yokohama.com/sustainability/report/pdf/reference_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客プライバシーの侵害や顧客データの紛",
+    "url": "https://www.y-yokohama.com/sustainability/report/pdf/reference_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客プライバシーの侵害や顧客データの紛失に",
+    "url": "https://www.y-yokohama.com/sustainability/report/pdf/reference_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "□顧客プライバシー",
+    "url": "https://www.y-yokohama.com/sustainability/report/pdf/reference_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■顧客の安全衛生 自社 2023年度 2024年度",
+    "url": "https://www.y-yokohama.com/sustainability/report/pdf/reference_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "での新規開拓や既存顧客との取引拡大が寄与しました",
+    "url": "https://www.y-yokohama.com/ir/pdf/document/tan26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "じた顧客との関係強化により、販売数量が順調に推移し前年同期を上回りました",
+    "url": "https://www.y-yokohama.com/ir/pdf/document/tan26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客 523,556 51,316 4,329 579,201 － 579,201",
+    "url": "https://www.y-yokohama.com/ir/pdf/document/tan26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客 580,360 54,863 4,173 639,397 － 639,397",
+    "url": "https://www.y-yokohama.com/ir/pdf/document/tan26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "での新規開拓や既存顧客との取引拡大が寄与しました",
+    "url": "https://www.y-yokohama.com/ir/pdf/library/YUHO/151-2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "た顧客との関係強化により、販売数量が順調に推移し前年同期を上回りました",
+    "url": "https://www.y-yokohama.com/ir/pdf/library/YUHO/151-2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "横浜ゴム取引先持株会 神奈川県平塚市追分２番１号 2,164 1.37",
+    "url": "https://www.y-yokohama.com/ir/pdf/library/YUHO/151-2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客 523,556 5 1,316 4 ,329 5 79,201 － 5 79,201",
+    "url": "https://www.y-yokohama.com/ir/pdf/library/YUHO/151-2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客 580,360 5 4,863 4 ,173 6 39,397 － 6 39,397",
+    "url": "https://www.y-yokohama.com/ir/pdf/library/YUHO/151-2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）売上収益は顧客の所在地を基礎とし、セグメント間の内部取引控除後の金額を表示しております",
+    "url": "https://www.y-yokohama.com/ir/pdf/library/YUHO/151-2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これらのビジネスでは、当社グループ自体が顧客との契約主体となります",
+    "url": "https://www.y-yokohama.com/ir/pdf/library/YUHO/151-2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "タイヤ、ＭＢいずれの事業においても、主要な顧客である自動車メーカー 、小売業者、その他の事業者に対して計",
+    "url": "https://www.y-yokohama.com/ir/pdf/library/YUHO/151-2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "上される収益の履行義務は 、当社グループの製品が顧客へ納品された時点で充足されるものであり、この時点で収益",
+    "url": "https://www.y-yokohama.com/ir/pdf/library/YUHO/151-2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これは当社グループの製品が納品された時点で、顧客は自己の意思で製品を使用、売却するこ",
+    "url": "https://www.y-yokohama.com/ir/pdf/library/YUHO/151-2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客への納品後、主として１年以内に支払いを受けているため、約束した対価の金額に重要な金融要素は含まれて",
+    "url": "https://www.y-yokohama.com/ir/pdf/library/YUHO/151-2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、タイヤ、ＭＢいずれの事業においても、各顧客との取引開始時点で製品の取引価格を決定してお",
+    "url": "https://www.y-yokohama.com/ir/pdf/library/YUHO/151-2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客に支払う変動対価の金額は合理的に見積り可能であることから 、認識した収益",
+    "url": "https://www.y-yokohama.com/ir/pdf/library/YUHO/151-2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "私たちの強みは、日本国内だけにとどまらず、世界中のお客様へ確かな技術をお届けしてきたことです",
+    "url": "https://navi.handy.school/interviews/yokohama-rubber",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "(環境リスク)がないよう監視し、漏洩など保守を",
+    "url": "https://www.y-yokohama.com/sustainability/report/pdf/reference_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（単価差 +3)",
+    "url": "https://www.y-yokohama.com/ir/pdf/document/26_2Qmanagement.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（単価差 ▲5)",
+    "url": "https://www.y-yokohama.com/ir/pdf/document/26_2Qmanagement.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(単価差 ▲1)",
+    "url": "https://www.y-yokohama.com/ir/pdf/document/26_2Qmanagement.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① 【 ストックオプション制度の内容】",
+    "url": "https://www.y-yokohama.com/ir/pdf/library/YUHO/151-2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取引には数ヵ月から１年までの一定期間の取引数量等に応じた割戻しや販売手数料を支給するものがあり 、",
+    "url": "https://www.y-yokohama.com/ir/pdf/library/YUHO/151-2Q.pdf",
+    "pass": 2
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "OHT（オフハイウェイタイヤ）は、厳しい需要環境下においても「需要サイクルに左右されない収益構造を確保」",
+    "url": "https://www.y-yokohama.com/ir/pdf/document/tan26_2Q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "OHT（オフハイウェイタイヤ）は、厳しい需要環境下においても「需要サイクルに左右されない収益構造を確保」",
+    "url": "https://www.y-yokohama.com/ir/pdf/library/YUHO/151-2Q.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "YOKOHAMAの事業展開 - 横浜ゴム — YOKOHAMAの事業展開 - 横浜ゴム 横浜ゴム https://www.y-yokohama.com > about > business_field",
+    "url": "https://www.y-yokohama.com/recruit/graduate/about/business_field",
+    "pass": 3
+   },
+   {
+    "quote": "横浜ゴム の事業 — 横浜ゴム の事業 横浜ゴム https://www.y-yokohama.com > 02_businessscope",
+    "url": "https://www.y-yokohama.com/ir/nutshell/02_businessscope/",
+    "pass": 3
+   },
+   {
+    "quote": "はじめての 横浜ゴム — はじめての 横浜ゴム 横浜ゴム https://www.y-yokohama.com > nutshell > 01_basic",
+    "url": "https://www.y-yokohama.com/ir/nutshell/01_basic/",
+    "pass": 3
+   },
+   {
+    "quote": "横浜ゴム - Wikipedia — 横浜ゴム - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 横浜ゴム",
+    "url": "https://ja.wikipedia.org/wiki/%E6%A8%AA%E6%B5%9C%E3%82%B4%E3%83%A0",
+    "pass": 3
+   },
+   {
+    "quote": "企業サイトトップ | 横浜ゴム /THE YOKOHAMA RUBBER CO ... — 企業サイトトップ | 横浜ゴム /THE YOKOHAMA RUBBER CO ... 横浜ゴム https://www.y-yokohama.com",
+    "url": "https://www.y-yokohama.com/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 - 横浜ゴム — 決算説明資料 - 横浜ゴム 横浜ゴム https://www.y-yokohama.com > library > meeting",
+    "url": "https://www.y-yokohama.com/ir/library/meeting/",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリ - 横浜ゴム — IRライブラリ - 横浜ゴム 横浜ゴム https://www.y-yokohama.com > library",
+    "url": "https://www.y-yokohama.com/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "決算 報告書 - 横浜ゴム — 決算 報告書 - 横浜ゴム 横浜ゴム https://www.y-yokohama.com > library > report",
+    "url": "https://www.y-yokohama.com/ir/library/report/",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家の皆様へ - 横浜ゴム — 株主・投資家の皆様へ - 横浜ゴム 横浜ゴム https://www.y-yokohama.com > ...",
+    "url": "https://www.y-yokohama.com/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信・業績修正 - 横浜ゴム — 決算 短信・業績修正 - 横浜ゴム 横浜ゴム https://www.y-yokohama.com > library > tanshin",
+    "url": "https://www.y-yokohama.com/ir/library/tanshin/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 横浜ゴム — 会社概要 - 横浜ゴム 横浜ゴム https://www.y-yokohama.com > profile > company",
+    "url": "https://www.y-yokohama.com/profile/company/",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報 | 横浜ゴム /THE YOKOHAMA RUBBER CO., LTD. — 会社情報 | 横浜ゴム /THE YOKOHAMA RUBBER CO., LTD. 横浜ゴム https://www.y-yokohama.com > profile",
+    "url": "https://www.y-yokohama.com/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "横浜ゴム の 事業 — 横浜ゴム の 事業 横浜ゴム https://www.y-yokohama.com > 02_businessscope",
+    "url": "https://www.y-yokohama.com/ir/nutshell/02_businessscope/",
+    "pass": 3
+   },
+   {
+    "quote": "有 価 証 券 報 告 書 - 横浜ゴム — 有 価 証 券 報 告 書 - 横浜ゴム 横浜ゴム PDF https://www.y-yokohama.com > library > YUHO",
+    "url": "https://www.y-yokohama.com/ir/pdf/library/YUHO/150-4Q.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "YOKOHAMAの 事業 展開 - 横浜ゴム — YOKOHAMAの 事業 展開 - 横浜ゴム 横浜ゴム https://www.y-yokohama.com > about > business_field",
+    "url": "https://www.y-yokohama.com/recruit/graduate/about/business_field",
+    "pass": 3
+   },
+   {
+    "quote": "社長インタビュー - 横浜ゴム 株式会社 - 高卒求人ナビ — 社長インタビュー - 横浜ゴム 株式会社 - 高卒求人ナビ Handy進路指導室 https://navi.handy.school > interviews > yokohama-rubber",
+    "url": "https://navi.handy.school/interviews/yokohama-rubber",
+    "pass": 3
+   },
+   {
+    "quote": "【新年 インタビュー 】 横浜ゴム 清宮眞二 社長 - ゴムタイムス — 【新年 インタビュー 】 横浜ゴム 清宮眞二 社長 - ゴムタイムス ゴムタイムス https://www.gomutimes.co.jp > ...",
+    "url": "https://www.gomutimes.co.jp/?p=210062",
+    "pass": 3
+   },
+   {
+    "quote": "【新 社長インタビュー 】 横浜ゴム社長 山石昌孝氏、収益を伴っ ... — 【新 社長インタビュー 】 横浜ゴム社長 山石昌孝氏、収益を伴っ ... ゴム報知新聞ＮＥＸＴ https://gomuhouchi.com > 企業・ビジネス",
+    "url": "https://gomuhouchi.com/business/7194/",
+    "pass": 3
+   },
+   {
+    "quote": "トップメッセージ - 横浜ゴム — トップメッセージ - 横浜ゴム 横浜ゴム https://www.y-yokohama.com > profile > message",
+    "url": "https://www.y-yokohama.com/profile/message/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.y-yokohama.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.y-yokohama.com/product/tire/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.y-yokohama.com/profile/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.y-yokohama.com/ir/nutshell/02_businessscope/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.y-yokohama.com/profile/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.y-yokohama.com/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.y-yokohama.com/ir/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.y-yokohama.com/ir/financial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.y-yokohama.com/ir/nutshell/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.y-yokohama.com/ir/information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.y-yokohama.com/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.y-yokohama.com/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.y-yokohama.com/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.y-yokohama.com/ir/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.y-yokohama.com/sustainability/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.y-yokohama.com/product/tire/iceguard-mamoru/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.y-yokohama.com/ir/company/yx2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.y-yokohama.com/product/tire/wet-a/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.y-yokohama.com/product/truckbustire/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.y-yokohama.com/product/tire/searchbytiresize/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.y-yokohama.com/product/tire/searchbycarmodel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.y-yokohama.com/product/tire/searchbycartype/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.y-yokohama.com/product/tire/searchbyoe/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.y-yokohama.com/product/tire/searchbycartype/suv/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.y-yokohama.com/product/tire/searchbycartype/minivan/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.y-yokohama.com/profile/pdf/co-profileJ.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.y-yokohama.com/sustainability/report/pdf/reference_2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.y-yokohama.com/profile/company/pdf/hiratsuka_directions_ja.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.y-yokohama.com/ir/pdf/document/yx2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.y-yokohama.com/ir/pdf/document/26_2Qpresentation.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.y-yokohama.com/ir/pdf/document/26_2Qmanagement.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.y-yokohama.com/ir/pdf/document/tan26_2Q.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.y-yokohama.com/ir/pdf/library/YUHO/151-2Q.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://navi.handy.school/interviews/yokohama-rubber",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yrc-yours.com/newgraduate/area/web-seminar/000886.php",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "横浜ゴム",
+   "results": [
+    "https://www.y-yokohama.com/",
+    "https://ja.wikipedia.org/wiki/%E6%A8%AA%E6%B5%9C%E3%82%B4%E3%83%A0",
+    "https://www.facebook.com/YokohamaRubber/",
+    "https://www.instagram.com/yokohama.rubber_jp/",
+    "https://www.yokohamatire.com/",
+    "https://ja.wikipedia.org/wiki/横浜ゴム",
+    "https://en.wikipedia.org/wiki/Yokohama_Rubber_Company",
+    "https://www.y-yokohama.com/profile/company/",
+    "https://finance.yahoo.co.jp/quote/5101.T",
+    "https://finance.yahoo.co.jp/quote/5101.T/profile"
+   ]
+  },
+  {
+   "query": "横浜ゴム ビジネスモデル",
+   "results": [
+    "https://www.y-yokohama.com/recruit/graduate/about/business_field",
+    "https://www.y-yokohama.com/ir/nutshell/02_businessscope/",
+    "https://www.y-yokohama.com/ir/nutshell/01_basic/",
+    "https://ja.wikipedia.org/wiki/%E6%A8%AA%E6%B5%9C%E3%82%B4%E3%83%A0",
+    "https://www.y-yokohama.com/",
+    "https://www.youtube.com/watch?v=dUdZCiFo_a8",
+    "https://note.com/tisobro/n/n38377d7abf25",
+    "https://www.y-yokohama.com/profile/philosophy/",
+    "https://txbiz.tv-tokyo.co.jp/wbs/newsl/post_349188",
+    "https://ja.wikipedia.org/wiki/横浜ゴム"
+   ]
+  },
+  {
+   "query": "横浜ゴム 決算説明資料",
+   "results": [
+    "https://www.y-yokohama.com/ir/library/meeting/",
+    "https://www.y-yokohama.com/ir/library/",
+    "https://www.y-yokohama.com/ir/library/report/",
+    "https://www.y-yokohama.com/ir/",
+    "https://www.y-yokohama.com/ir/library/tanshin/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=5101",
+    "https://www.y-yokohama.com/ir/library/securities/",
+    "https://www.y-yokohama.com/ir/calendar/",
+    "https://minkabu.jp/stock/5101/settlement",
+    "https://www.buffett-code.com/company/5101/library"
+   ]
+  },
+  {
+   "query": "横浜ゴム 事業系統図",
+   "results": [
+    "https://www.y-yokohama.com/profile/company/",
+    "https://www.y-yokohama.com/profile/",
+    "https://www.y-yokohama.com/ir/nutshell/02_businessscope/",
+    "https://www.y-yokohama.com/ir/pdf/library/YUHO/150-4Q.pdf",
+    "https://www.y-yokohama.com/recruit/graduate/about/business_field",
+    "https://www.youtube.com/watch?v=dUdZCiFo_a8",
+    "https://www.y-yokohama.com/profile/location/lab/",
+    "https://note.com/bright_bee861/n/n3de532dd2f87",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=5101",
+    "https://ja.wikipedia.org/wiki/横浜ゴム"
+   ]
+  },
+  {
+   "query": "横浜ゴム 社長 インタビュー",
+   "results": [
+    "https://navi.handy.school/interviews/yokohama-rubber",
+    "https://www.yrc-yours.com/newgraduate/area/web-seminar/000886.php",
+    "https://www.gomutimes.co.jp/?p=210062",
+    "https://gomuhouchi.com/business/7194/",
+    "https://www.y-yokohama.com/profile/message/",
+    "https://y-colors.brandmedia.i-myrefer.jp/media/tags/307",
+    "https://www.netdenjd.com/archives/484591",
+    "https://txbiz.tv-tokyo.co.jp/senshi/vod/post_82709",
+    "https://the-shashi.com/tse/5101/ceo/",
+    "https://ja.wikipedia.org/wiki/山石昌孝"
+   ]
+  }
+ ],
+ "missing": {}
+}

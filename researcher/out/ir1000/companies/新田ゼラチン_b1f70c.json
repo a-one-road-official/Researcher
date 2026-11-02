@@ -1,0 +1,1307 @@
+{
+ "name": "新田ゼラチン",
+ "aliases": [],
+ "context": "証券コード4977／化学／スタンダード（内国株式）／2026.03期 売上高38,048百万円 営業利益率12.3%",
+ "researched_at": "2026-11-02T19:54:52.273455+00:00",
+ "official_url": "https://www.nitta-gelatin.co.jp/",
+ "identified_by": "search:yahoo_jp:新田ゼラチン",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1918年（大正7年）1月",
+    "url": "https://www.nitta-gelatin.co.jp/ja/company/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1945年（昭和20年）2月",
+    "url": "https://www.nitta-gelatin.co.jp/ja/company/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1945年2月",
+    "url": "https://www.mcframe.com/case/nittagelatin",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "単体：231億円（2026年3月期） 連結：380億円（2026年3月期）",
+    "url": "https://www.nitta-gelatin.co.jp/ja/company/outline.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "単体：341名（2026年3月末現在） 連結：851名（2026年3月末現在） ※単体の従業員数には嘱託・パートタイマー等を含む",
+    "url": "https://www.nitta-gelatin.co.jp/ja/company/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "1,222名（2017年3月末現在）",
+    "url": "https://www.mcframe.com/case/nittagelatin",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "ゼラチン（製菓用、総菜用、カプセル用、医療素材用、写真用ほか） コラーゲンペプチド（美容用・健康食品用ほか） コラーゲン（医療素材用ほか） 食用ゲル化剤・安定剤（デザートゼリー用、総菜用、飲料用ほか）",
+    "url": "https://www.nitta-gelatin.co.jp/ja/company/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "食用、医薬用、写真などに用いられるゼラチンやコラーゲンペプチド、コラーゲンケーシングの製造販売。化粧品用、生体材料用、生化学用コラーゲンの製造販売。食品材料、包装用、製本用、建材用、衛材用接着剤の製造販売。",
+    "url": "https://www.mcframe.com/case/nittagelatin",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "お客様や社会のニーズに合わせた、様々な製品・サービスを提供しています",
+    "url": "https://www.nitta-gelatin.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、様々な素材の配合技術によって、お客様のニーズにマッチする高付加価値製品も製造・販売しています",
+    "url": "https://www.nitta-gelatin.co.jp/ja/business_activites/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の「もっと」を叶える製品づくり",
+    "url": "https://www.nitta-gelatin.co.jp/ja/business_activites/market.html",
+    "pass": 1
+   },
+   {
+    "quote": "様々な形でゼラチンをアレンジした食品やコラーゲンなどの化粧品素材の開発、再生医療の分野で活用される細胞培養素材等で、お客様のニーズに合った製品を提供します",
+    "url": "https://www.nitta-gelatin.co.jp/ja/business_activites/market.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、様々な素材の配合技術によって、お客様のニーズにマッチする高付加価値製品も製造・販売しています",
+    "url": "https://www.nitta-gelatin.co.jp/ja/company/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様等の個人情報をご本人様の同意を得ることなく第三者に開示・提供することはありません（法令などにより開示を求められた場合を除く）",
+    "url": "https://www.nitta-gelatin.co.jp/ja/ir/contact6.html",
+    "pass": 1
+   },
+   {
+    "quote": "新田ゼラチンでは、お客様のご要望にきめ細かに対応するため、新製品・新技術の研究開発はもちろん、安心・安全な原料の調達、自社工場での製造、品質管理、そして販売にいたるまで一貫生産体制を構築しています",
+    "url": "https://www.nitta-gelatin.co.jp/ja/recruit/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本では、当社製品を使用した一部顧客の商品販売が減少したことなどにより、売上高は減少しました",
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news/ir_news_20260807_02/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "収益性向上を目的とした製品構成見直しを進めた一方、顧客商品への新規採用が売上を牽引したことなどに",
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news/ir_news_20260807_02/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "▎日本では、当社製品を使用した一部顧客の商品の販売が減少",
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news/ir_news_20260807_01/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "▎顧客商品への新規採用が売上を牽引",
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news/ir_news_20260807_01/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様の状況/ニーズに合わせて、多彩な製品シリーズを用意しています",
+    "url": "https://www.mcframe.com/case/nittagelatin",
+    "pass": 3
+   },
+   {
+    "quote": "システム稼働後もお客様とのコミュニケーションを大切にしています",
+    "url": "https://www.mcframe.com/case/nittagelatin",
+    "pass": 3
+   },
+   {
+    "quote": "さらに藤井氏は、「当社の取引先に、mcframeを導入している会社があったので、その会社を訪問し、経理担当者とシステム担当者に、mcframe導入時の注意点や導入効果などの話を聞くことができたことも大きな要因でした",
+    "url": "https://www.mcframe.com/case/nittagelatin",
+    "pass": 3
+   },
+   {
+    "quote": "導入企業概要",
+    "url": "https://www.mcframe.com/case/nittagelatin",
+    "pass": 3
+   },
+   {
+    "quote": "ミツカン、顧客の個人情報漏えいか＝佐川急便への不正アクセスで【時事通信速報】",
+    "url": "https://news.nissyoku.co.jp/kojocho/hayashi20250421020620981",
+    "pass": 3
+   },
+   {
+    "quote": "法人用電子版５ユーザー版・月払い（申込）",
+    "url": "https://news.nissyoku.co.jp/kojocho/hayashi20250421020620981",
+    "pass": 3
+   },
+   {
+    "quote": "法人用電子版５ユーザー年払い（申込）",
+    "url": "https://news.nissyoku.co.jp/kojocho/hayashi20250421020620981",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "お客様や社会のニーズに合わせた、様々な製品・サービスを提供しています",
+    "url": "https://www.nitta-gelatin.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "フードソリューション",
+    "url": "https://www.nitta-gelatin.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品案内・文献・マニュアル",
+    "url": "https://www.nitta-gelatin.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "フードソリューション",
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news/ir_news_20261027.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品案内・文献・マニュアル",
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news/ir_news_20261027.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品別 | 製品／市場・用途別事業紹介 | 新田ゼラチン株式会社",
+    "url": "https://www.nitta-gelatin.co.jp/ja/business_activites/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品別事業紹介",
+    "url": "https://www.nitta-gelatin.co.jp/ja/business_activites/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "動物の骨や皮、魚の鱗や皮に含まれるコラーゲンを原料とした関連製品を製造・販売しています",
+    "url": "https://www.nitta-gelatin.co.jp/ja/business_activites/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、様々な素材の配合技術によって、お客様のニーズにマッチする高付加価値製品も製造・販売しています",
+    "url": "https://www.nitta-gelatin.co.jp/ja/business_activites/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "フードソリューション",
+    "url": "https://www.nitta-gelatin.co.jp/ja/business_activites/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品案内・文献・マニュアル",
+    "url": "https://www.nitta-gelatin.co.jp/ja/business_activites/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "市場・用途別 | 製品／市場・用途別事業紹介 | 新田ゼラチン株式会社",
+    "url": "https://www.nitta-gelatin.co.jp/ja/business_activites/market.html",
+    "pass": 1
+   },
+   {
+    "quote": "フードソリューション",
+    "url": "https://www.nitta-gelatin.co.jp/ja/business_activites/market.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の「もっと」を叶える製品づくり",
+    "url": "https://www.nitta-gelatin.co.jp/ja/business_activites/market.html",
+    "pass": 1
+   },
+   {
+    "quote": "新田ゼラチンは「フードソリューション」「ヘルスサポート」「バイオメディカル」の3つのフィールドで製品を展開",
+    "url": "https://www.nitta-gelatin.co.jp/ja/business_activites/market.html",
+    "pass": 1
+   },
+   {
+    "quote": "様々な形でゼラチンをアレンジした食品やコラーゲンなどの化粧品素材の開発、再生医療の分野で活用される細胞培養素材等で、お客様のニーズに合った製品を提供します",
+    "url": "https://www.nitta-gelatin.co.jp/ja/business_activites/market.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品案内・文献・マニュアル",
+    "url": "https://www.nitta-gelatin.co.jp/ja/business_activites/market.html",
+    "pass": 1
+   },
+   {
+    "quote": "フードソリューション",
+    "url": "https://www.nitta-gelatin.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品案内・文献・マニュアル",
+    "url": "https://www.nitta-gelatin.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "新商品『のせる生ジャムミックス』発売のお知らせ",
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news.html",
+    "pass": 1
+   },
+   {
+    "quote": "発行価格等の決定に関するお知らせ（金融商品取引法第15条第5項に基づく公表文）",
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news.html",
+    "pass": 1
+   },
+   {
+    "quote": "フードソリューション",
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品案内・文献・マニュアル",
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news.html",
+    "pass": 1
+   },
+   {
+    "quote": "動物の骨や皮、魚の鱗や皮に含まれるコラーゲンを原料とした関連製品を製造・販売しています",
+    "url": "https://www.nitta-gelatin.co.jp/ja/company/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、様々な素材の配合技術によって、お客様のニーズにマッチする高付加価値製品も製造・販売しています",
+    "url": "https://www.nitta-gelatin.co.jp/ja/company/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "フードソリューション",
+    "url": "https://www.nitta-gelatin.co.jp/ja/company/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品案内・文献・マニュアル",
+    "url": "https://www.nitta-gelatin.co.jp/ja/company/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "フードソリューション",
+    "url": "https://www.nitta-gelatin.co.jp/ja/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品案内・文献・マニュアル",
+    "url": "https://www.nitta-gelatin.co.jp/ja/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社の主力製品であるゼラチンやコラーゲンペプチドの製造には多くのエネルギーや水を必要とします",
+    "url": "https://www.nitta-gelatin.co.jp/ja/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品の品質を維持しながら、引き続き取水量の削減や再利用への取り組みを強化します",
+    "url": "https://www.nitta-gelatin.co.jp/ja/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "フードソリューション",
+    "url": "https://www.nitta-gelatin.co.jp/ja/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品案内・文献・マニュアル",
+    "url": "https://www.nitta-gelatin.co.jp/ja/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品／市場・用途別事業紹介 | 新田ゼラチン株式会社",
+    "url": "https://www.nitta-gelatin.co.jp/ja/business_activites.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品／市場・用途別事業紹介",
+    "url": "https://www.nitta-gelatin.co.jp/ja/business_activites.html",
+    "pass": 1
+   },
+   {
+    "quote": "新田ゼラチンは、天然由来のコラーゲンを素材に様々な製品を開発し、ゼラチン販売で国内シェアの約６割を占めるリーディングカンパニーです",
+    "url": "https://www.nitta-gelatin.co.jp/ja/business_activites.html",
+    "pass": 1
+   },
+   {
+    "quote": "コラーゲン原料から生産されるゼラチン、コラーゲンペプチドをはじめ、ゲル化剤や安定剤などの食品材料、バイオメディカルといった幅広い製品を、食品市場のみならず、健康・医療分野など様々な市場・用途へ販売しています",
+    "url": "https://www.nitta-gelatin.co.jp/ja/business_activites.html",
+    "pass": 1
+   },
+   {
+    "quote": "フードソリューション",
+    "url": "https://www.nitta-gelatin.co.jp/ja/business_activites.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品案内・文献・マニュアル",
+    "url": "https://www.nitta-gelatin.co.jp/ja/business_activites.html",
+    "pass": 1
+   },
+   {
+    "quote": "フードソリューション",
+    "url": "https://www.nitta-gelatin.co.jp/ja/ir/governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品案内・文献・マニュアル",
+    "url": "https://www.nitta-gelatin.co.jp/ja/ir/governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "フードソリューション",
+    "url": "https://www.nitta-gelatin.co.jp/ja/ir/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品案内・文献・マニュアル",
+    "url": "https://www.nitta-gelatin.co.jp/ja/ir/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "フードソリューション",
+    "url": "https://www.nitta-gelatin.co.jp/ja/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品案内・文献・マニュアル",
+    "url": "https://www.nitta-gelatin.co.jp/ja/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "フードソリューション",
+    "url": "https://www.nitta-gelatin.co.jp/ja/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品案内・文献・マニュアル",
+    "url": "https://www.nitta-gelatin.co.jp/ja/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社のコラーゲン商品を所有株式数、保有期間に応じて贈呈いたします",
+    "url": "https://www.nitta-gelatin.co.jp/ja/ir/benefit.html",
+    "pass": 1
+   },
+   {
+    "quote": "フードソリューション",
+    "url": "https://www.nitta-gelatin.co.jp/ja/ir/benefit.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品案内・文献・マニュアル",
+    "url": "https://www.nitta-gelatin.co.jp/ja/ir/benefit.html",
+    "pass": 1
+   },
+   {
+    "quote": "フードソリューション",
+    "url": "https://www.nitta-gelatin.co.jp/ja/ir/stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品案内・文献・マニュアル",
+    "url": "https://www.nitta-gelatin.co.jp/ja/ir/stock.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、金融商品取引法等の諸法令及び東京証券取引所の定める適時開示規則を遵守します",
+    "url": "https://www.nitta-gelatin.co.jp/ja/ir/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "フードソリューション",
+    "url": "https://www.nitta-gelatin.co.jp/ja/ir/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品案内・文献・マニュアル",
+    "url": "https://www.nitta-gelatin.co.jp/ja/ir/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "フードソリューション",
+    "url": "https://www.nitta-gelatin.co.jp/ja/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品案内・文献・マニュアル",
+    "url": "https://www.nitta-gelatin.co.jp/ja/ir/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "フードソリューション",
+    "url": "https://www.nitta-gelatin.co.jp/ja/ir/contact6.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品案内・文献・マニュアル",
+    "url": "https://www.nitta-gelatin.co.jp/ja/ir/contact6.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社の電⼦公告は、株式会社プロネクサスが運営する電⼦公告掲載サービス「",
+    "url": "https://www.nitta-gelatin.co.jp/ja/ir/publicnotice.html",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年10月14日（水）開催 「個人投資家向けWEBセミナー」の動画が公開されました",
+    "url": "https://www.nitta-gelatin.co.jp/ja/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月14日（水）開催 「個人投資家向けWEBセミナー」の動画が公開されました | IRニュース | ニュース一覧 | 新田ゼラチン",
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news/ir_news_20261027.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月14日（水）13:00～14:00",
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news/ir_news_20261027.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期 決算短信",
+    "url": "https://www.nitta-gelatin.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期 決算説明",
+    "url": "https://www.nitta-gelatin.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月14日（水）開催 「個人投資家向けWEBセミナー」の動画が公開されました",
+    "url": "https://www.nitta-gelatin.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.nitta-gelatin.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第１四半期決算説明資料",
+    "url": "https://www.nitta-gelatin.co.jp/ja/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月14日（水）開催 「個人投資家向けWEBセミナー」の動画が公開されました",
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第１四半期決算説明資料",
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年定時株主総会（交付書面非記載事項）",
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年定時株主総会招集通知及び株主総会資料",
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期決算及び中期経営計画進捗説明内容 公開のお知らせ",
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 決算説明及び中期経営計画進捗について",
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 決算短信〔日本基準〕（連結）",
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月1日（日）開催 「個人投資家向けオンライン会社説明会」の動画が公開されました",
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月21日（土）開催 「個人投資家向けWEB説明会」の動画が公開されました",
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年1月23日（金）開催 「個人投資家向けIRセミナー」の動画が公開されました",
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月1日（日）開催「個人投資家向けオンライン会社説明会」のお知らせ",
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 第３四半期決算説明資料",
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 第３四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月21日（土）開催「個人投資家向けWEB説明会」のお知らせ",
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月14日（土）開催「個人投資家向けIRセミナー」のお知らせ",
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年1月15日（木）開催 「個人投資家向けWEBセミナー」の動画が公開されました",
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年1月23日（金）開催「個人投資家向けIRセミナー」のお知らせ",
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年1月15日（木）開催 「個人投資家向けWEBセミナー」のお知らせ",
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月10日（水）開催 「個人投資家向けIRセミナー」の資料を公開しました",
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 第２四半期決算説明資料",
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月10日（水）開催「個人投資家向けIRセミナー」のお知らせ",
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 第１四半期決算説明資料",
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 第１四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news.html",
+    "pass": 1
+   },
+   {
+    "quote": "1918年（大正7年）1月",
+    "url": "https://www.nitta-gelatin.co.jp/ja/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "1945年（昭和20年）2月",
+    "url": "https://www.nitta-gelatin.co.jp/ja/company/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度の大阪工場全体のCO₂排出量は18.3千tとなり、",
+    "url": "https://www.nitta-gelatin.co.jp/ja/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度の製造エネルギー原単位は",
+    "url": "https://www.nitta-gelatin.co.jp/ja/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度は、設備の安定稼働と効率的な運用管理の徹底により、エネルギー消費の最適化を再構築し、省エネルギーを推進します",
+    "url": "https://www.nitta-gelatin.co.jp/ja/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度は一部生産設備の稼働状況の変動などの影響を受け、取水量は1,106千㎥、取水量原単位は173.2㎥/tとなり目標未達となりました",
+    "url": "https://www.nitta-gelatin.co.jp/ja/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月31日時点の株主名簿に記載されており、上表の条件に当てはまる株主様が対象となります",
+    "url": "https://www.nitta-gelatin.co.jp/ja/ir/benefit.html",
+    "pass": 1
+   },
+   {
+    "quote": "1975年、インドにNitta Gelatin India Ltd.を設立したことを皮切りに、グローバルな事業展開を行っています",
+    "url": "https://www.nitta-gelatin.co.jp/ja/recruit/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 会社概要 | 会社情報 | 新田ゼラチン株式会社",
+    "url": "https://www.nitta-gelatin.co.jp/ja/company/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1918年（大正7年）",
+    "url": "https://www.nitta-gelatin.co.jp/ja/company/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1935年（昭和10年）",
+    "url": "https://www.nitta-gelatin.co.jp/ja/company/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1945年（昭和20年）",
+    "url": "https://www.nitta-gelatin.co.jp/ja/company/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1960年（昭和35年）",
+    "url": "https://www.nitta-gelatin.co.jp/ja/company/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1968年（昭和43年）",
+    "url": "https://www.nitta-gelatin.co.jp/ja/company/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1971年（昭和46年）",
+    "url": "https://www.nitta-gelatin.co.jp/ja/company/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1974年（昭和49年）",
+    "url": "https://www.nitta-gelatin.co.jp/ja/company/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1975年（昭和50年）",
+    "url": "https://www.nitta-gelatin.co.jp/ja/company/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1979年（昭和54年）",
+    "url": "https://www.nitta-gelatin.co.jp/ja/company/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1982年（昭和57年）",
+    "url": "https://www.nitta-gelatin.co.jp/ja/company/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1990年（平成2年）",
+    "url": "https://www.nitta-gelatin.co.jp/ja/company/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1996年（平成8年）",
+    "url": "https://www.nitta-gelatin.co.jp/ja/company/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1998年（平成10年）",
+    "url": "https://www.nitta-gelatin.co.jp/ja/company/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1999年（平成11年）",
+    "url": "https://www.nitta-gelatin.co.jp/ja/company/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2004年（平成16年）",
+    "url": "https://www.nitta-gelatin.co.jp/ja/company/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2010年（平成22年）",
+    "url": "https://www.nitta-gelatin.co.jp/ja/company/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2011年（平成23年）",
+    "url": "https://www.nitta-gelatin.co.jp/ja/company/outline/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2012年（平成24年）",
+    "url": "https://www.nitta-gelatin.co.jp/ja/company/outline/history.html",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "製品別 | 製品／市場・用途別事業紹介 | 新田ゼラチン株式会社",
+    "url": "https://www.nitta-gelatin.co.jp/ja/business_activites/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品別事業紹介",
+    "url": "https://www.nitta-gelatin.co.jp/ja/business_activites/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "市場・用途別 | 製品／市場・用途別事業紹介 | 新田ゼラチン株式会社",
+    "url": "https://www.nitta-gelatin.co.jp/ja/business_activites/market.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品／市場・用途別事業紹介 | 新田ゼラチン株式会社",
+    "url": "https://www.nitta-gelatin.co.jp/ja/business_activites.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品／市場・用途別事業紹介",
+    "url": "https://www.nitta-gelatin.co.jp/ja/business_activites.html",
+    "pass": 1
+   },
+   {
+    "quote": "仕事紹介 | 採用情報 | 新田ゼラチン株式会社",
+    "url": "https://www.nitta-gelatin.co.jp/ja/recruit/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "ゼラチン事業 | 製品別 | 製品／市場・用途別事業紹介 | 新田ゼラチン株式会社",
+    "url": "https://www.nitta-gelatin.co.jp/ja/business_activites/products/gelatin.html",
+    "pass": 1
+   },
+   {
+    "quote": "コラーゲンペプチド | 製品別 | 事業紹介 | 新田ゼラチン",
+    "url": "https://www.nitta-gelatin.co.jp/ja/business_activites/products/wellnex.html",
+    "pass": 1
+   },
+   {
+    "quote": "導入パートナー",
+    "url": "https://www.mcframe.com/case/nittagelatin",
+    "pass": 3
+   },
+   {
+    "quote": "同社は1995年に会計パッケージを導入するなどして新田ゼラチンの業務改善を支えており、このBBSがB-EN-Gのビジネスパートナーであったこと、BBSの提案や導入後のサポート体制が他社の提案やサポート体制よりも優れていたこともmcframeの採用を後押しした",
+    "url": "https://www.mcframe.com/case/nittagelatin",
+    "pass": 3
+   },
+   {
+    "quote": "みなさんの業務に役立つ情報を紹介しています",
+    "url": "https://www.mcframe.com/case/nittagelatin",
+    "pass": 3
+   },
+   {
+    "quote": "パートナー専用サイト",
+    "url": "https://www.mcframe.com/case/nittagelatin",
+    "pass": 3
+   },
+   {
+    "quote": "mcframe GAパートナー専用サイト",
+    "url": "https://www.mcframe.com/case/nittagelatin",
+    "pass": 3
+   },
+   {
+    "quote": "媒体紹介ページはこちら",
+    "url": "https://news.nissyoku.co.jp/kojocho/hayashi20250421020620981",
+    "pass": 3
+   },
+   {
+    "quote": "コンテンツ紹介",
+    "url": "https://news.nissyoku.co.jp/kojocho/hayashi20250421020620981",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザ機能紹介",
+    "url": "https://news.nissyoku.co.jp/kojocho/hayashi20250421020620981",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "株式報酬型ストックオプションの導入について",
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news.html",
+    "pass": 1
+   },
+   {
+    "quote": "付株式に関する報酬等として支給する金銭報酬債権の総額を年額80百万円以内として設定すること、対象取締",
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news/ir_news_20260807_02/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "関する報酬等として支給する金銭報酬債権の総額を年額 8,000 万円以内として設定する",
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news/auto_20260723598320/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "個人用電子版月額（申込）",
+    "url": "https://news.nissyoku.co.jp/kojocho/hayashi20250421020620981",
+    "pass": 3
+   },
+   {
+    "quote": "個人用電子版年額（申込）",
+    "url": "https://news.nissyoku.co.jp/kojocho/hayashi20250421020620981",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "（セグメント情報等の注記） ……………………………………………………………………………………… 8",
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news/ir_news_20260807_02/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、当社グループは、コラーゲン事業の単一セグメントを適用しておりますが、製品区分別の販売概況は",
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news/ir_news_20260807_02/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news/ir_news_20260807_02/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news/ir_news_20260807_02/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、コラーゲン事業の単一セグメントであるため、記載を省略しております",
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news/ir_news_20260807_02/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "現在、海外の売上比率は44.9％（2017年3月期）だが、今後も海外市場でのさらなる売上拡大を目指している",
+    "url": "https://www.mcframe.com/case/nittagelatin",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "営業利益率 13.7% 12.0% ▲ 1.8pt ー",
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news/ir_news_20260807_01/pdfFile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "中森氏は、「原価だけでなく、在庫や販売なども含め、会社全体の経営管理情報として見せることができないかを考えています」と話す",
+    "url": "https://www.mcframe.com/case/nittagelatin",
+    "pass": 3
+   },
+   {
+    "quote": "食品、健康・美容、医療などの分野へ市場や用途を切り開き、ゼラチンの国内販売シェアにおいて約6割を占める同社は、竹宮秀典社長の下、高収益企業への転換と持続的成長を目指す",
+    "url": "https://news.nissyoku.co.jp/kojocho/hayashi20250421020620981",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "サステナビリティ | 新田ゼラチン 株式会社 — サステナビリティ | 新田ゼラチン 株式会社 新田ゼラチン株式会社 https://www.nitta-gelatin.co.jp > sustainability",
+    "url": "https://www.nitta-gelatin.co.jp/ja/sustainability.html",
+    "pass": 3
+   },
+   {
+    "quote": "新田ゼラチン (4977) の企業概要・業績・財務・IR資料 — 新田ゼラチン (4977) の企業概要・業績・財務・IR資料 crex-data.com https://www.crex-data.com > 企業",
+    "url": "https://www.crex-data.com/company/4977",
+    "pass": 3
+   },
+   {
+    "quote": "新田ゼラチン 株式会社 個人投資家説明会 - YouTube — 新田ゼラチン 株式会社 個人投資家説明会 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=EUr5ALIpHpk",
+    "pass": 3
+   },
+   {
+    "quote": "新田ゼラチン 株式会社(4977)：グローバル展開と構造改革 ... — 新田ゼラチン 株式会社(4977)：グローバル展開と構造改革 ... note https://note.com > NOBITA",
+    "url": "https://note.com/nobita_tqqq/n/nf8665621513b",
+    "pass": 3
+   },
+   {
+    "quote": "プレゼンテーション 資料 - IR情報 - 新田ゼラチン — プレゼンテーション 資料 - IR情報 - 新田ゼラチン 新田ゼラチン株式会社 https://www.nitta-gelatin.co.jp > library > presentation",
+    "url": "https://www.nitta-gelatin.co.jp/ja/ir/library/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 | 新田ゼラチン 株式会社 — IR情報 | 新田ゼラチン 株式会社 新田ゼラチン株式会社 https://www.nitta-gelatin.co.jp > ...",
+    "url": "https://www.nitta-gelatin.co.jp/ja/ir.html",
+    "pass": 3
+   },
+   {
+    "quote": "新田ゼラチン 、2期連続最高益を達成し中計目標を上方修正 次 ... — 新田ゼラチン 、2期連続最高益を達成し中計目標を上方修正 次 ... ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/384834",
+    "pass": 3
+   },
+   {
+    "quote": "IRカレンダー | IR情報 | 新田ゼラチン 株式会社 — IRカレンダー | IR情報 | 新田ゼラチン 株式会社 新田ゼラチン株式会社 https://www.nitta-gelatin.co.jp > calendar",
+    "url": "https://www.nitta-gelatin.co.jp/ja/ir/calendar.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 会社情報 | 新田ゼラチン 株式会社 — 会社概要 | 会社情報 | 新田ゼラチン 株式会社 新田ゼラチン株式会社 https://www.nitta-gelatin.co.jp > company > outline",
+    "url": "https://www.nitta-gelatin.co.jp/ja/company/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "新田ゼラチン 株式会社 - 導入事例 - MCFrame — 新田ゼラチン 株式会社 - 導入事例 - MCFrame MCFrame https://www.mcframe.com > case > nittagelatin",
+    "url": "https://www.mcframe.com/case/nittagelatin",
+    "pass": 3
+   },
+   {
+    "quote": "新田ゼラチン 、収益性が改善し利益面が好調に推移 法人税等 ... — 新田ゼラチン 、収益性が改善し利益面が好調に推移 法人税等 ... ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/383282",
+    "pass": 3
+   },
+   {
+    "quote": "新田ゼラチン 【4977】の 事業 内容 - キタイシホン — 新田ゼラチン 【4977】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/4977/business",
+    "pass": 3
+   },
+   {
+    "quote": "社長 メッセージ | 会社情報 | 新田ゼラチン 株式会社 — 社長 メッセージ | 会社情報 | 新田ゼラチン 株式会社 新田ゼラチン株式会社 https://www.nitta-gelatin.co.jp > company > message",
+    "url": "https://www.nitta-gelatin.co.jp/ja/company/message.html",
+    "pass": 3
+   },
+   {
+    "quote": "トップ インタビュー ： 新田ゼラチン ・竹宮秀典 社長 — トップ インタビュー ： 新田ゼラチン ・竹宮秀典 社長 日本食糧新聞・電子版 https://news.nissyoku.co.jp > 食品工場長",
+    "url": "https://news.nissyoku.co.jp/kojocho/hayashi20250421020620981",
+    "pass": 3
+   },
+   {
+    "quote": "新田ゼラチン ・竹宮秀典 社長 - 日本食糧新聞・電子版 - X — 新田ゼラチン ・竹宮秀典 社長 - 日本食糧新聞・電子版 - X X https://x.com > @foodjournal2",
+    "url": "https://x.com/foodjournal2/status/1917851527424926105",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.nitta-gelatin.co.jp/ja/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news/ir_news_20261027.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nitta-gelatin.co.jp/ja/business_activites/products.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nitta-gelatin.co.jp/ja/business_activites/market.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nitta-gelatin.co.jp/ja/ir.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nitta-gelatin.co.jp/ja/company/business.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nitta-gelatin.co.jp/ja/company/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nitta-gelatin.co.jp/ja/sustainability/environment.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nitta-gelatin.co.jp/ja/business_activites.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nitta-gelatin.co.jp/ja/ir/governance.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nitta-gelatin.co.jp/ja/ir/finance.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nitta-gelatin.co.jp/ja/ir/library.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nitta-gelatin.co.jp/ja/ir/calendar.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nitta-gelatin.co.jp/ja/ir/benefit.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nitta-gelatin.co.jp/ja/ir/stock.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nitta-gelatin.co.jp/ja/ir/policy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nitta-gelatin.co.jp/ja/ir/faq.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nitta-gelatin.co.jp/ja/ir/contact6.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nitta-gelatin.co.jp/ja/ir/publicnotice.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nitta-gelatin.co.jp/ja/ir/disclaimer.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nitta-gelatin.co.jp/ja/recruit/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nitta-gelatin.co.jp/ja/company/outline/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nitta-gelatin.co.jp/ja/business_activites/products/gelatin.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nitta-gelatin.co.jp/ja/business_activites/products/wellnex.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.nitta-gelatin.co.jp/ja/ir/main/0/teaserItems3/0/linkList/00/link/202703_1Q_Earnings_report.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nitta-gelatin.co.jp/ja/ir/main/0/teaserItems3/0/linkList/01/link/202703_1Q_setsumei.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news/auto_20260917537606/pdfFile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news/ir_news_20260807_02/pdfFile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news/ir_news_20260807_01/pdfFile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news/auto_20260807514691/pdfFile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news/auto_20260804508109/pdfFile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nitta-gelatin.co.jp/ja/news/ir_news/auto_20260723598320/pdfFile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nitta-gelatin.co.jp/ja/business_activites/products/main/02/teaserItems1/0/binaryNodeName/DSC00062_r1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.nitta-gelatin.co.jp/ja/business_activites/products/main/02/teaserItems2/0/binaryNodeName/products-02.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.nitta-gelatin.co.jp/ja/business_activites/products/main/03/teaserItems1/0/binaryNodeName/products-03.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.nitta-gelatin.co.jp/ja/business_activites/products/main/03/teaserItems2/0/binaryNodeName/products-04.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.nitta-gelatin.co.jp/ja/business_activites/market/main/01/teaserItems1/0/binaryNodeName/T-2-05.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.nitta-gelatin.co.jp/ja/business_activites/market/main/01/teaserItems2/0/binaryNodeName/T-02-07.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.nitta-gelatin.co.jp/ja/business_activites/market/main/01/teaserItems3/0/binaryNodeName/T-2-07_01-03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.nitta-gelatin.co.jp/ja/company/business/main/00/teaserItems1/01/binaryNodeName/DSC00062_r2.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.crex-data.com/company/4977",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mcframe.com/case/nittagelatin",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.nissyoku.co.jp/kojocho/hayashi20250421020620981",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "新田ゼラチン",
+   "results": [
+    "https://www.nitta-gelatin.co.jp/ja/index.html",
+    "https://www.amazon.co.jp/%E6%96%B0%E7%94%B0%E3%82%BC%E3%83%A9%E3%83%81%E3%83%B3/s?k=%E6%96%B0%E7%94%B0%E3%82%BC%E3%83%A9%E3%83%81%E3%83%B3",
+    "https://ja.wikipedia.org/wiki/%E6%96%B0%E7%94%B0%E3%82%BC%E3%83%A9%E3%83%81%E3%83%B3",
+    "https://search.rakuten.co.jp/search/mall/%E6%96%B0%E7%94%B0+%E3%82%BC%E3%83%A9%E3%83%81%E3%83%B3/",
+    "https://search.kakaku.com/%E6%96%B0%E7%94%B0%20%E3%82%BC%E3%83%A9%E3%83%81%E3%83%B3/",
+    "https://ja.wikipedia.org/wiki/新田ゼラチン",
+    "https://www.nitta-gelatin.jp/",
+    "https://www.nitta-gelatin.co.jp/ja/company/outline.html",
+    "https://finance.yahoo.co.jp/quote/4977.T",
+    "https://www.amazon.co.jp/新田ゼラチン/s?k=新田ゼラチン"
+   ]
+  },
+  {
+   "query": "新田ゼラチン ビジネスモデル",
+   "results": [
+    "https://www.nitta-gelatin.co.jp/ja/sustainability.html",
+    "https://www.crex-data.com/company/4977",
+    "https://www.youtube.com/watch?v=EUr5ALIpHpk",
+    "https://note.com/nobita_tqqq/n/nf8665621513b",
+    "https://www.projectdesign.jp/articles/e3e31b32-f109-47de-9267-c9d488fd550a",
+    "https://kitaishihon.com/company/4977/human-capital",
+    "https://webcast.net-ir.ne.jp/49772610/index.html",
+    "https://www.mcframe.com/case/nittagelatin",
+    "https://moneyworld.jp/news/detail?id=215711",
+    "https://ja.wikipedia.org/wiki/新田ゼラチン"
+   ]
+  },
+  {
+   "query": "新田ゼラチン 決算説明資料",
+   "results": [
+    "https://www.nitta-gelatin.co.jp/ja/ir/library/presentation.html",
+    "https://www.nitta-gelatin.co.jp/ja/ir.html",
+    "https://finance.logmi.jp/articles/384834",
+    "https://www.daiwair.co.jp/td_download.cgi?c=4977&i=3275788",
+    "https://www.nitta-gelatin.co.jp/ja/ir/calendar.html",
+    "https://www.nitten.co.jp/ir/library/materials/",
+    "https://www.buffett-code.com/company/4977/library",
+    "https://finance.logmi.jp/companies/843",
+    "https://ufocatch.com/document/TD2026051401076",
+    "https://ufocatch.com/document/OT2025112800183"
+   ]
+  },
+  {
+   "query": "新田ゼラチン 事業系統図",
+   "results": [
+    "https://www.nitta-gelatin.co.jp/ja/company/outline.html",
+    "https://www.mcframe.com/case/nittagelatin",
+    "https://finance.logmi.jp/articles/383282",
+    "https://kitaishihon.com/company/4977/business",
+    "https://www.youtube.com/watch?v=EUr5ALIpHpk",
+    "https://job.mynavi.jp/28/pc/search/corp112547/outline.html",
+    "https://edinetdb.jp/company/E26061/midterm-plans/",
+    "https://www.nitta-gelatin.co.jp/ja/ir/governance.html",
+    "https://www.belletk.com/niltutazerachinn201503.pdf",
+    "https://ja.wikipedia.org/wiki/新田ゼラチン"
+   ]
+  },
+  {
+   "query": "新田ゼラチン 社長 インタビュー",
+   "results": [
+    "https://www.nitta-gelatin.co.jp/ja/company/message.html",
+    "https://news.nissyoku.co.jp/kojocho/hayashi20250421020620981",
+    "https://www.youtube.com/watch?v=EUr5ALIpHpk",
+    "https://www.projectdesign.jp/articles/e3e31b32-f109-47de-9267-c9d488fd550a",
+    "https://x.com/foodjournal2/status/1917851527424926105",
+    "https://kitaishihon.com/company/4977/board-of-director",
+    "https://www.nitta-gelatin.co.jp/ja/recruit/interview/01.html",
+    "https://kigyo-scope.jp/company/4977/ceo/",
+    "https://syukatsu-kaigi.jp/companies/47312",
+    "https://shachomeikan.jp/presidents/detail/10063041"
+   ]
+  }
+ ],
+ "missing": {
+  "ビジネスモデル": "記載なし（3回確認済み：公式25頁／PDF・画像16件／外部3頁・検索5回）"
+ }
+}

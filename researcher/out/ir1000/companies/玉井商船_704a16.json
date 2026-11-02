@@ -1,0 +1,1220 @@
+{
+ "name": "玉井商船",
+ "aliases": [],
+ "context": "証券コード9127／海運業／スタンダード（内国株式）／2026.03期 売上高5,122百万円 営業利益率12.8%",
+ "researched_at": "2026-11-02T19:44:35.639335+00:00",
+ "official_url": "https://www.tamaiship.co.jp/",
+ "identified_by": "search:yahoo_jp:玉井商船",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立 （創業）",
+    "value": "昭和7年3月10日 （昭和4年5月31日）",
+    "url": "https://www.tamaiship.co.jp/about/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "設立年月日",
+    "value": "1932年3月10日",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=9127",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "22 人",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=9127",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "沿革": [
+   {
+    "quote": "2027年3月期 第1四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.tamaiship.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算短信",
+    "url": "https://www.tamaiship.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.tamaiship.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度から2026年度までの当社グループ中期経営計画 「STEP Forward 2026」を発表いたします",
+    "url": "https://www.tamaiship.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2029年は当社100周年を迎えることとなります",
+    "url": "https://www.tamaiship.co.jp/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和8年 / 2026年",
+    "url": "https://www.tamaiship.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 8月 5日",
+    "url": "https://www.tamaiship.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算短信",
+    "url": "https://www.tamaiship.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算短信",
+    "url": "https://www.tamaiship.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 5月14日",
+    "url": "https://www.tamaiship.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 3月24日",
+    "url": "https://www.tamaiship.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 3月23日",
+    "url": "https://www.tamaiship.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期決算短信",
+    "url": "https://www.tamaiship.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 2月 5日",
+    "url": "https://www.tamaiship.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和7年 / 2025年",
+    "url": "https://www.tamaiship.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第2四半期（中間期）決算短信",
+    "url": "https://www.tamaiship.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年11月 6日",
+    "url": "https://www.tamaiship.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第2四半期（中間期）業績予想との差異及び通期業績予想の修正に関するお知らせ",
+    "url": "https://www.tamaiship.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第1四半期決算短信",
+    "url": "https://www.tamaiship.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年 8月 7日",
+    "url": "https://www.tamaiship.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第2四半期（中間期）業績予想の修正に関するお知らせ",
+    "url": "https://www.tamaiship.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年 5月15日",
+    "url": "https://www.tamaiship.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 決算短信",
+    "url": "https://www.tamaiship.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第3四半期決算短信",
+    "url": "https://www.tamaiship.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年 2月 6日",
+    "url": "https://www.tamaiship.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和6年 / 2024年",
+    "url": "https://www.tamaiship.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第2四半期（中間期）決算短信",
+    "url": "https://www.tamaiship.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年11月 7日",
+    "url": "https://www.tamaiship.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期第2四半期（中間期）業績予想との差異、通期業績予想の修正及び配当予想の修正に関するお知らせ",
+    "url": "https://www.tamaiship.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第1期半期決算短信",
+    "url": "https://www.tamaiship.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "昭和7年3月10日 （昭和4年5月31日）",
+    "url": "https://www.tamaiship.co.jp/about/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "玉井商船株式会社 │ 会社案内 │ 会社沿革",
+    "url": "https://www.tamaiship.co.jp/about/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "昭和4年5月",
+    "url": "https://www.tamaiship.co.jp/about/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "昭和7年3月",
+    "url": "https://www.tamaiship.co.jp/about/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "昭和34年8月",
+    "url": "https://www.tamaiship.co.jp/about/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "昭和39年4月",
+    "url": "https://www.tamaiship.co.jp/about/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "昭和53年5月",
+    "url": "https://www.tamaiship.co.jp/about/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "昭和61年8月",
+    "url": "https://www.tamaiship.co.jp/about/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "平成3年4月",
+    "url": "https://www.tamaiship.co.jp/about/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "平成8年2月",
+    "url": "https://www.tamaiship.co.jp/about/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "平成8年4月",
+    "url": "https://www.tamaiship.co.jp/about/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "平成9年1月",
+    "url": "https://www.tamaiship.co.jp/about/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "平成13年5月",
+    "url": "https://www.tamaiship.co.jp/about/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "平成15年6月",
+    "url": "https://www.tamaiship.co.jp/about/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "平成20年8月",
+    "url": "https://www.tamaiship.co.jp/about/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1997年1月20日、日本海事協会よりISMの適合証書（Document of Compliance）を取得、下記の基本方針を基に「安全管理システム」を構築し、海陸従業員が力をあわせ“海難事故ゼロ”をめざし船舶の安全運航と環境保護に努めております",
+    "url": "https://www.tamaiship.co.jp/about/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年８月５日",
+    "url": "https://www.tamaiship.co.jp/260805_02gyousekiyosousyuuseihaitouyosousyuusei.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027 年３月期の配当予想につきましては、前述の 2027 年３月期通期連結業績予想値と当社の還",
+    "url": "https://www.tamaiship.co.jp/260805_02gyousekiyosousyuuseihaitouyosousyuusei.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期 第１四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.tamaiship.co.jp/260805_01kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年８月５日",
+    "url": "https://www.tamaiship.co.jp/260805_01kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期第１四半期 1,473 46.6 338 ― 368 ― 247 ―",
+    "url": "https://www.tamaiship.co.jp/260805_01kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年３月期第１四半期 1,004 △29.8 △36 ― △127 ― △61 ―",
+    "url": "https://www.tamaiship.co.jp/260805_01kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期第１四半期 162.06 ―",
+    "url": "https://www.tamaiship.co.jp/260805_01kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年３月期第１四半期 △32.10 ―",
+    "url": "https://www.tamaiship.co.jp/260805_01kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期第１四半期 12,325 8,023 64.7",
+    "url": "https://www.tamaiship.co.jp/260805_01kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年３月期 12,266 7,982 64.7",
+    "url": "https://www.tamaiship.co.jp/260805_01kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年３月期 ― ― ― 125 125",
+    "url": "https://www.tamaiship.co.jp/260805_01kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期 ―",
+    "url": "https://www.tamaiship.co.jp/260805_01kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期(予想) 40 ― 70 110",
+    "url": "https://www.tamaiship.co.jp/260805_01kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年４～６月期の外航ドライバルク船市況は、非常に堅調に推移しており、年内についても慎重ながら楽観的な",
+    "url": "https://www.tamaiship.co.jp/260805_01kessantanshin.pdf",
+    "pass": 2
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "企業は株主・取引先・従業員・地域社会がその存在基盤であるとの認識のもと、調和のとれた経営を行い、社会的に尊敬に値する企業を目指す",
+    "url": "https://www.tamaiship.co.jp/about/philosophy.html",
+    "pass": 1
+   },
+   {
+    "quote": "永年培った海運技術及びノウハウの蓄積と展開により、様々なニーズに柔軟に対応することで顧客に信頼される特色ある優良企業を目指す",
+    "url": "https://www.tamaiship.co.jp/about/philosophy.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客との契約から生じる収益 721,918 252,319 ― 974,237 ― 974,237",
+    "url": "https://www.tamaiship.co.jp/260805_01kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への営業収益 721,918 252,319 30,567 1,004,805 ― 1,004,805",
+    "url": "https://www.tamaiship.co.jp/260805_01kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益 1,173,649 272,238 ― 1,445,887 ― 1,445,887",
+    "url": "https://www.tamaiship.co.jp/260805_01kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への営業収益 1,173,649 272,238 27,586 1,473,473 ― 1,473,473",
+    "url": "https://www.tamaiship.co.jp/260805_01kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の環境規制への対策を踏まえ、刻々と変わる事業環境に都度対応し、事業を通じて顧客と",
+    "url": "https://www.tamaiship.co.jp/260529_syousyuutuuti.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、株主の皆様やお得意様をはじめ、取引先、地域社会、社員等の各ステークホルダ",
+    "url": "https://www.tamaiship.co.jp/260529_syousyuutuuti.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、顧客と締結している契約が貨物運送契約又は貸船契約かを識別しそれぞれ履行義務を",
+    "url": "https://www.tamaiship.co.jp/260529_syousyuutuuti.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "貸船契約については、現在までに企業の履行が完了した部分に対する顧客にとっての価値に直接対応す",
+    "url": "https://www.tamaiship.co.jp/260529_syousyuutuuti.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "る対価の額を顧客から受け取る権利を有しているため、請求する権利を有している金額で収益を認識して",
+    "url": "https://www.tamaiship.co.jp/260529_syousyuutuuti.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "貨物運送契約については、１航海を１履行義務として識別し、取引価格は航海毎に顧客と合意した金額",
+    "url": "https://www.tamaiship.co.jp/260529_syousyuutuuti.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※4 顧客との契約から生じた債権の残高及び契約資産は、それぞれ以下のとおりである",
+    "url": "https://www.tamaiship.co.jp/260529_syousyuutuuti.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業債権である海運業未収金及び契約資産は、取引先の信用リスクに晒されている",
+    "url": "https://www.tamaiship.co.jp/260529_syousyuutuuti.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① 信用リス ク（取引先の契約不履行等に係るリスク）の管理",
+    "url": "https://www.tamaiship.co.jp/260529_syousyuutuuti.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、経理規程等に従い、営業債権について、経理部が主要な取引先の状況を定期的にモニタリング",
+    "url": "https://www.tamaiship.co.jp/260529_syousyuutuuti.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当期の連結決算日現在における営業債権のうち72.1％が特定の取引先に対するものである",
+    "url": "https://www.tamaiship.co.jp/260529_syousyuutuuti.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．顧客との契約から生じる収益を分解した情報",
+    "url": "https://www.tamaiship.co.jp/260529_syousyuutuuti.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益 4 ,047,288 9 50,535 ― 4 ,997,823",
+    "url": "https://www.tamaiship.co.jp/260529_syousyuutuuti.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への営業収益 4,047,288 950,535 124,204 5,122,027",
+    "url": "https://www.tamaiship.co.jp/260529_syousyuutuuti.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ステップ１：顧客との契約を識別する",
+    "url": "https://www.tamaiship.co.jp/260529_syousyuutuuti.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "貸船契約については、現在までに企業の履行が完了した部分に対する顧客にとっての価値に直接対応する",
+    "url": "https://www.tamaiship.co.jp/260529_syousyuutuuti.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "対価の額を顧客から受け取る権利を有しているため、請求する権利を有している金額で収益を認識している",
+    "url": "https://www.tamaiship.co.jp/260529_syousyuutuuti.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "貨物運送契約については、１航海を１履行義務として識別し、取引価格は航海毎に顧客と合意した金額と",
+    "url": "https://www.tamaiship.co.jp/260529_syousyuutuuti.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じた債権 156,308 107,190",
+    "url": "https://www.tamaiship.co.jp/260529_syousyuutuuti.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "り、個別に又は集計すると、連結計算書類の利用者の意思決定に影響を与えると合理的に見込まれる場",
+    "url": "https://www.tamaiship.co.jp/260529_syousyuutuuti.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、顧客と締結している契約が貨物運送契約又は貸船契約かを識別しそれぞれ履行義務を識別して",
+    "url": "https://www.tamaiship.co.jp/260529_syousyuutuuti.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "に又は集計すると、計算書類等の利用者の意思決定に影響を与えると合理的に見込まれる場合に、重要性",
+    "url": "https://www.tamaiship.co.jp/260529_syousyuutuuti.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益 4,280,746 992,268 ― 5,273,015 ― 5,273,015",
+    "url": "https://www.tamaiship.co.jp/260514_3_kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への営業収益 4,280,746 992,268 116,037 5,389,052 ― 5,389,052",
+    "url": "https://www.tamaiship.co.jp/260514_3_kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益 4,047,288 950,535 ― 4,997,823 ― 4,997,823",
+    "url": "https://www.tamaiship.co.jp/260514_3_kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への営業収益 4,047,288 950,535 124,204 5,122,027 ― 5,122,027",
+    "url": "https://www.tamaiship.co.jp/260514_3_kessantanshin.pdf",
+    "pass": 2
+   }
+  ],
+  "何を": [
+   {
+    "quote": "当社は、国内外において海上サービスを行なう上で“船舶の安全運航”を第一に考えております",
+    "url": "https://www.tamaiship.co.jp/about/policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、2026年６月22日の定時株主総会において、決議事項が決議されましたので、金融商品取引法第24条の５第",
+    "url": "https://www.tamaiship.co.jp/260623_rinjihoukokusyo.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "東京証券取引所ウェブサイト（東証上場会社情報サービス）",
+    "url": "https://www.tamaiship.co.jp/260529_syousyuutuuti.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）1. 当社と会計監査人との間の監査契約において 、会社法に基づく監査と金融商品取引法に基づく監査と",
+    "url": "https://www.tamaiship.co.jp/260529_syousyuutuuti.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の報酬の額を区分していませんので、上記金額には金融商品取引法に基づく監査の報酬等の額を含め",
+    "url": "https://www.tamaiship.co.jp/260529_syousyuutuuti.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "を図るとともに、リスク管理体制の強化にも取組み、また、金融商品取引法及び会社法に基",
+    "url": "https://www.tamaiship.co.jp/260529_syousyuutuuti.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、金融商品取引法及び",
+    "url": "https://www.tamaiship.co.jp/260529_syousyuutuuti.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金融商品取引法及び会社法上の内部統制体制を整備するため、代表取締役社長を委員長",
+    "url": "https://www.tamaiship.co.jp/260529_syousyuutuuti.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "６．金融商品に関する注記",
+    "url": "https://www.tamaiship.co.jp/260529_syousyuutuuti.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1. 金融商品の状況に関する 事項",
+    "url": "https://www.tamaiship.co.jp/260529_syousyuutuuti.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（1）金融商品に対する取組方針",
+    "url": "https://www.tamaiship.co.jp/260529_syousyuutuuti.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（2）金融商品の内容及びそのリスク",
+    "url": "https://www.tamaiship.co.jp/260529_syousyuutuuti.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（3）金融商品に係るリスク管理体制",
+    "url": "https://www.tamaiship.co.jp/260529_syousyuutuuti.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（4）金融商品の時価等に関する事項についての補足説明",
+    "url": "https://www.tamaiship.co.jp/260529_syousyuutuuti.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金融商品の時価には、市場価格に基づく価額のほか、市場価格がない場合には合理的に算定された価額が",
+    "url": "https://www.tamaiship.co.jp/260529_syousyuutuuti.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2. 金融商品の時価等に関す る事項",
+    "url": "https://www.tamaiship.co.jp/260529_syousyuutuuti.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．金融商品の時価のレベルごとの内訳等に関する事項",
+    "url": "https://www.tamaiship.co.jp/260529_syousyuutuuti.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金融商品の時価を、時価の算定に係るインプットの観察可能性及び重要性に応じて、以下の３つのレベル",
+    "url": "https://www.tamaiship.co.jp/260529_syousyuutuuti.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(1) 時価で連結貸借対照表に計上している金融商品",
+    "url": "https://www.tamaiship.co.jp/260529_syousyuutuuti.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(2) 時価で連結貸借対照表に計上している金融商品以外の金融商品",
+    "url": "https://www.tamaiship.co.jp/260529_syousyuutuuti.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=9127",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=9127",
+    "pass": 3
+   },
+   {
+    "quote": "テクノロジー/製品",
+    "url": "https://online.logi-biz.com/102104/",
+    "pass": 3
+   },
+   {
+    "quote": "CBcloud、荷物とトラックのマッチングサービス「PickGo」でバイクと自転車を追加",
+    "url": "https://online.logi-biz.com/102104/",
+    "pass": 3
+   },
+   {
+    "quote": "「モノのMaaS」推進 CBcloudは8月21日、荷物とトラックのマッチングサービス「PickGo」に関し、新たにバイクと自転車を組み合わせた配送サ[…]",
+    "url": "https://online.logi-biz.com/102104/",
+    "pass": 3
+   },
+   {
+    "quote": "トーヨーカネツ／物流ソリューション事業 横浜センター 厚木サテライト移転のお知らせ",
+    "url": "https://online.logi-biz.com/102104/",
+    "pass": 3
+   },
+   {
+    "quote": "COSPAウエルネス、職業ドライバーの安全・健康・長期就業支援する新サービス開始",
+    "url": "https://online.logi-biz.com/102104/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "次期中期経営計画における船舶管理方針の策定に伴い、船舶の安全運航及び保守管理における中間検査の重要",
+    "url": "https://www.tamaiship.co.jp/260805_01kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "入、貸船料、運航手数料等の収益を得ることを目的とする外航海運業・内航海運業及び賃貸用不",
+    "url": "https://www.tamaiship.co.jp/260529_syousyuutuuti.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "150,000千円以内（年額） 、監査役の報酬総額を50,000千円以内（年額）と決議してお",
+    "url": "https://www.tamaiship.co.jp/260529_syousyuutuuti.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "貨物運送契約については、１航海を１履行義務として識別し、取引価格は積高に約定単価を乗じた航海",
+    "url": "https://www.tamaiship.co.jp/260529_syousyuutuuti.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "前連結会計年度において区分掲記していた営業外費用の「 支払手数料」(当連結会計年度2,604千円)につ",
+    "url": "https://www.tamaiship.co.jp/260529_syousyuutuuti.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "貨物運送契約については、１航海を１履行義務として識別し、取引価格は積高に約定単価を乗じた航海毎",
+    "url": "https://www.tamaiship.co.jp/260529_syousyuutuuti.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "保有する7隻の船価を保守的に見積もっても合計140億円以上",
+    "url": "https://note.com/invest_papa57/n/n7c100e32c316",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "（セグメント情報等の注記） …………………………………………………………………………………９",
+    "url": "https://www.tamaiship.co.jp/260805_01kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "更に関する注記）及び（セグメント情報等の注記）」をご覧ください",
+    "url": "https://www.tamaiship.co.jp/260805_01kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別の業績を示すと、次のとおりであります",
+    "url": "https://www.tamaiship.co.jp/260805_01kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.tamaiship.co.jp/260805_01kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.tamaiship.co.jp/260805_01kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメントごとの営業収益及び利益又は損失の金額に関する情報並びに収益の分解情報",
+    "url": "https://www.tamaiship.co.jp/260805_01kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント 調整額",
+    "url": "https://www.tamaiship.co.jp/260805_01kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部営業",
+    "url": "https://www.tamaiship.co.jp/260805_01kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益又は損失（△） 52,935 34,604 8,189 95,729 △132,552 △36,822",
+    "url": "https://www.tamaiship.co.jp/260805_01kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注）1 セグメント利益の調整額 △132,552千円は、各報告セグメントに配分していない全社費用で、提出会社の一",
+    "url": "https://www.tamaiship.co.jp/260805_01kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2 セグメント利益又は損失（△）は、四半期連結損益計算書の営業損失と調整を行っております",
+    "url": "https://www.tamaiship.co.jp/260805_01kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1. 報告セグメントごとの営業収益及び利益又は損失の金額に関する情報並びに収益の分解情報",
+    "url": "https://www.tamaiship.co.jp/260805_01kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 434,845 45,351 16,107 496,304 △158,246 338,057",
+    "url": "https://www.tamaiship.co.jp/260805_01kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注）1 セグメント利益の調整額 △158,246千円は、各報告セグメントに配分していない全社費用で、提出会社の一",
+    "url": "https://www.tamaiship.co.jp/260805_01kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2 セグメント利益は、四半期連結損益計算書の営業利益と調整を行っております",
+    "url": "https://www.tamaiship.co.jp/260805_01kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2. 報告セグメントの変更等に関する事項",
+    "url": "https://www.tamaiship.co.jp/260805_01kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "を見直したため、事業セグメントの利益又は損失の算定方法を同様に変更しております",
+    "url": "https://www.tamaiship.co.jp/260805_01kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "は遡及適用され、前第１四半期連結累計期間については遡及適用後のセグメント情報となっております",
+    "url": "https://www.tamaiship.co.jp/260805_01kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、遡及適用を行う前と比べて、前第１四半期連結累計期間の外航海運業セグメントのセグメント利",
+    "url": "https://www.tamaiship.co.jp/260805_01kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "益が79,663千円増加し、内航海運業セグメントのセグメント利益が5,285千円増加しております",
+    "url": "https://www.tamaiship.co.jp/260805_01kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループでは、各セグメントの収益性や中長期の船舶投資等に伴う取り組みを中期",
+    "url": "https://www.tamaiship.co.jp/260529_syousyuutuuti.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（5）企業集団の主要な事業セグメント",
+    "url": "https://www.tamaiship.co.jp/260529_syousyuutuuti.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(セグメント情報等) ……………………………………………………………………………………………14",
+    "url": "https://www.tamaiship.co.jp/260514_3_kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(セグメント情報等)",
+    "url": "https://www.tamaiship.co.jp/260514_3_kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.tamaiship.co.jp/260514_3_kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１ 報告セグメントの概要",
+    "url": "https://www.tamaiship.co.jp/260514_3_kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメントの決定方法",
+    "url": "https://www.tamaiship.co.jp/260514_3_kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の報告セグメントは、当社の構成単位のうち分離された財務情報が入手可能であり、取締役会が、経営資源",
+    "url": "https://www.tamaiship.co.jp/260514_3_kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "従って、当社は海運業を基礎とした外航・内航海運業及び不動産賃貸業セグメントから構成されており、「外航",
+    "url": "https://www.tamaiship.co.jp/260514_3_kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "海運業」、「内航海運業」及び「不動産賃貸業」の３つを報告セグメントとしております",
+    "url": "https://www.tamaiship.co.jp/260514_3_kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２ 報告セグメントごとの営業収益、利益又は損失、資産その他の項目の金額の算定方法",
+    "url": "https://www.tamaiship.co.jp/260514_3_kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告されている事業セグメントの会計処理の方法は、連結財務諸表作成において採用している会計処理と概ね同",
+    "url": "https://www.tamaiship.co.jp/260514_3_kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメントの利益は、営業利益ベースの数値であります",
+    "url": "https://www.tamaiship.co.jp/260514_3_kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３ 報告セグメントごとの営業収益、利益又は損失、資産その他の項目の金額に関する情報及び収益の分解情報",
+    "url": "https://www.tamaiship.co.jp/260514_3_kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント 調整額",
+    "url": "https://www.tamaiship.co.jp/260514_3_kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部営業",
+    "url": "https://www.tamaiship.co.jp/260514_3_kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 1,276,072 67,520 31,481 1,375,074 △487,027 888,047",
+    "url": "https://www.tamaiship.co.jp/260514_3_kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント資産 8,928,014 1,249,061 918,728 11,095,804 1,552,053 12,647,857",
+    "url": "https://www.tamaiship.co.jp/260514_3_kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(1) セグメント利益の調整額△487,027千円は、各報告セグメントに配分していない全社費用で、提出会社の",
+    "url": "https://www.tamaiship.co.jp/260514_3_kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(2) セグメント資産の調整額1,552,053千円は、各報告セグメントに配分していない全社資産で、主に提出会",
+    "url": "https://www.tamaiship.co.jp/260514_3_kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2 セグメント利益は、連結損益計算書の営業利益と調整を行っております",
+    "url": "https://www.tamaiship.co.jp/260514_3_kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3 経営者が経営の意思決定上、負債を各セグメントに配分していないことから、負債に関するセグメント情報",
+    "url": "https://www.tamaiship.co.jp/260514_3_kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 996,168 93,634 51,518 1,141,320 △483,542 657,778",
+    "url": "https://www.tamaiship.co.jp/260514_3_kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント資産 8,817,716 1,049,485 1,003,601 10,870,804 1,395,324 12,266,128",
+    "url": "https://www.tamaiship.co.jp/260514_3_kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(1) セグメント利益の調整額△483,542千円は、各報告セグメントに配分していない全社費用で、提出会社の",
+    "url": "https://www.tamaiship.co.jp/260514_3_kessantanshin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(2) セグメント資産の調整額1,395,324千円は、各報告セグメントに配分していない全社資産で、主に提出会",
+    "url": "https://www.tamaiship.co.jp/260514_3_kessantanshin.pdf",
+    "pass": 2
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "この謎を解くために、彼らのビジネスモデル、これからの計画、そして物言う株主（アクティビスト）からの鋭い指摘について、詳しく調べてみました",
+    "url": "https://note.com/invest_papa57/n/n7c100e32c316",
+    "pass": 3
+   },
+   {
+    "quote": "1. ビジネスモデル：船は「動く資産」である",
+    "url": "https://note.com/invest_papa57/n/n7c100e32c316",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "中期経営計画（2025/3月期 - 玉井商船 — 中期経営計画（2025/3月期 - 玉井商船 玉井商船株式会社 PDF https://www.tamaiship.co.jp > ...",
+    "url": "https://www.tamaiship.co.jp/chukikeieikeikaku%20STEP%20Forward%202026.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "玉井商船 （9127）の深層を探る｜ひろき_ note日記 — 玉井商船 （9127）の深層を探る｜ひろき_ note日記 note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/invest_papa57/n/n7c100e32c316",
+    "pass": 3
+   },
+   {
+    "quote": "好財務があだとなる、 玉井商船 （9127） — 好財務があだとなる、 玉井商船 （9127） hikako8amago3iwana3.com https://www.hikako8amago3iwana3.com > 企業分析",
+    "url": "https://www.hikako8amago3iwana3.com/tamaisyosen9127",
+    "pass": 3
+   },
+   {
+    "quote": "#100 【海運業】 玉井商船 株式会社（9127）の人的資本開示 ... — #100 【海運業】 玉井商船 株式会社（9127）の人的資本開示 ... はてなブログ https://jinteki-shihon-kaiji.hatenablog.com > 海運業",
+    "url": "https://jinteki-shihon-kaiji.hatenablog.com/entry/2026/09/07/182853",
+    "pass": 3
+   },
+   {
+    "quote": "【 玉井商船 】[9127]企業概要 社員数や役員報酬・資本金 | 日経 ... — 【 玉井商船 】[9127]企業概要 社員数や役員報酬・資本金 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=9127",
+    "pass": 3
+   },
+   {
+    "quote": "玉井商船 株式会社 IR情報 — 玉井商船 株式会社 IR情報 玉井商船株式会社 https://www.tamaiship.co.jp > ...",
+    "url": "https://www.tamaiship.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "【 玉井商船 】[9127]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 玉井商船 】[9127]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=9127",
+    "pass": 3
+   },
+   {
+    "quote": "玉井商船 【9127】の最新 決算 発表、業績修正 - 株探 — 玉井商船 【9127】の最新 決算 発表、業績修正 - 株探 株探 https://kabutan.jp > 玉井商船 (9127) > 決算",
+    "url": "https://kabutan.jp/stock/finance?code=9127",
+    "pass": 3
+   },
+   {
+    "quote": "玉井商船 （9127）のIR情報・ 決算資料 - IRBANK — 玉井商船 （9127）のIR情報・ 決算資料 - IRBANK IRBANK https://irbank.net > 玉井商船",
+    "url": "https://irbank.net/9127/ir",
+    "pass": 3
+   },
+   {
+    "quote": "玉井商船 株式会社 — 玉井商船 株式会社 玉井商船株式会社 https://www.tamaiship.co.jp",
+    "url": "https://www.tamaiship.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "玉井商船 株式会社 会社案内 組織図 — 玉井商船 株式会社 会社案内 組織図 玉井商船株式会社 https://www.tamaiship.co.jp > about > organization",
+    "url": "https://www.tamaiship.co.jp/about/organization.html",
+    "pass": 3
+   },
+   {
+    "quote": "玉井商船 株式会社 会社案内 会社概要 — 玉井商船 株式会社 会社案内 会社概要 玉井商船株式会社 https://www.tamaiship.co.jp > about > outline",
+    "url": "https://www.tamaiship.co.jp/about/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "玉井商船 の「組織体制・企業文化」 OpenWork — 玉井商船 の「組織体制・企業文化」 OpenWork OpenWork https://www.openwork.jp > ... > 玉井商船",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000FruZ&q_no=1",
+    "pass": 3
+   },
+   {
+    "quote": "玉井商船 株式会社 様｜BizForecastシリーズの導入事例 — 玉井商船 株式会社 様｜BizForecastシリーズの導入事例 プライマル株式会社 https://www.primal-inc.com > bizforecast > case > entry",
+    "url": "https://www.primal-inc.com/bizforecast/case/entry/00067.html",
+    "pass": 3
+   },
+   {
+    "quote": "玉井商船 株式会社 会社案内 社長 挨拶 — 玉井商船 株式会社 会社案内 社長 挨拶 玉井商船株式会社 https://www.tamaiship.co.jp > about",
+    "url": "https://www.tamaiship.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "玉井商船 の次期 社長 に清崎常務取締役が昇格へ - LOGI-BIZ online — 玉井商船 の次期 社長 に清崎常務取締役が昇格へ - LOGI-BIZ online LOGI-BIZ online https://online.logi-biz.com > 経営/業界動向",
+    "url": "https://online.logi-biz.com/102104/",
+    "pass": 3
+   },
+   {
+    "quote": "玉井商船 、 社長 に清崎哲也氏 | 日刊工業新聞 電子版 — 玉井商船 、 社長 に清崎哲也氏 | 日刊工業新聞 電子版 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/710050",
+    "pass": 3
+   },
+   {
+    "quote": "玉井商船 | Hibiki Path Advisors Official Website — 玉井商船 | Hibiki Path Advisors Official Website hibiki-path-advisors.com https://www.hibiki-path-advisors.com > engagement",
+    "url": "https://www.hibiki-path-advisors.com/ja/category/engagement/9127/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=9127",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=9127",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=9127",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=9127",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.tamaiship.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tamaiship.co.jp/about/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tamaiship.co.jp/ir/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tamaiship.co.jp/about/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tamaiship.co.jp/about/philosophy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tamaiship.co.jp/about/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tamaiship.co.jp/about/organization.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tamaiship.co.jp/about/policy.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.tamaiship.co.jp/260805_02gyousekiyosousyuuseihaitouyosousyuusei.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tamaiship.co.jp/260805_01kessantanshin.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tamaiship.co.jp/260623_rinjihoukokusyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tamaiship.co.jp/260529_syousyuutuuti.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tamaiship.co.jp/260514_4_kabunushimukehoukokusyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tamaiship.co.jp/260514_3_kessantanshin.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tamaiship.co.jp/260514_2_jyouyokinnhaitou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tamaiship.co.jp/260514_1_tyuukanhaitouteikanhennkou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.com/invest_papa57/n/n7c100e32c316",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=9127",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=9127",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://online.logi-biz.com/102104/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "玉井商船",
+   "results": [
+    "https://www.tamaiship.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E7%8E%89%E4%BA%95%E5%95%86%E8%88%B9",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=9127",
+    "https://kabutan.jp/stock/?code=9127",
+    "https://ja.wikipedia.org/wiki/玉井商船",
+    "https://finance.yahoo.co.jp/quote/9127.T",
+    "https://finance.yahoo.co.jp/quote/9127.T/profile",
+    "https://www.nikkei.com/nkd/company/?scode=9127",
+    "https://shikiho.toyokeizai.net/stocks/9127/corporate",
+    "https://www.tamaiship.co.jp/about/outline.html"
+   ]
+  },
+  {
+   "query": "玉井商船 ビジネスモデル",
+   "results": [
+    "https://www.tamaiship.co.jp/chukikeieikeikaku%20STEP%20Forward%202026.pdf",
+    "https://note.com/invest_papa57/n/n7c100e32c316",
+    "https://www.hikako8amago3iwana3.com/tamaisyosen9127",
+    "https://jinteki-shihon-kaiji.hatenablog.com/entry/2026/09/07/182853",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=9127",
+    "https://www.buffett-code.com/company/9127/",
+    "https://envalith.com/ja/companies/9127/segments",
+    "https://kitaishihon.com/company/9127/story",
+    "https://www.openwork.jp/company.php?m_id=a0910000000FruZ",
+    "https://ja.wikipedia.org/wiki/玉井商船"
+   ]
+  },
+  {
+   "query": "玉井商船 決算説明資料",
+   "results": [
+    "https://www.tamaiship.co.jp/ir/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=9127",
+    "https://kabutan.jp/stock/finance?code=9127",
+    "https://irbank.net/9127/ir",
+    "https://www.tamaiship.co.jp/",
+    "https://kabuyoho.jp/sp/report?bcode=9127",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250515/20250514549724.pdf",
+    "https://kitaishihon.com/company/9127/ir-library",
+    "https://www.buffett-code.com/company/9127/library",
+    "https://treelazy.com/stock-jp/9127"
+   ]
+  },
+  {
+   "query": "玉井商船 事業系統図",
+   "results": [
+    "https://www.tamaiship.co.jp/about/organization.html",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=9127",
+    "https://www.tamaiship.co.jp/about/outline.html",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000FruZ&q_no=1",
+    "https://www.primal-inc.com/bizforecast/case/entry/00067.html",
+    "https://www.buffett-code.com/company/9127/",
+    "https://jp.kabumap.com/servlets/kabumap/Action?SRC=chart/base&codetext=9127",
+    "https://kabutan.jp/stock/?code=9127",
+    "https://ja.wikipedia.org/wiki/玉井商船",
+    "https://www.tamaiship.co.jp/"
+   ]
+  },
+  {
+   "query": "玉井商船 社長 インタビュー",
+   "results": [
+    "https://www.tamaiship.co.jp/about/",
+    "https://online.logi-biz.com/102104/",
+    "https://www.jmd.co.jp/article.php?no=307184",
+    "https://www.nikkan.co.jp/articles/view/710050",
+    "https://www.hibiki-path-advisors.com/ja/category/engagement/9127/",
+    "https://kitaishihon.com/company/9127/board-of-director",
+    "https://hibiki-investment-news.com/eng/tamaisteamship_20251104/",
+    "https://www.kaijipress.com/news/shipping/2024/05/183863/",
+    "https://kigyo-scope.jp/company/9127/ceo/",
+    "https://ja.wikipedia.org/wiki/玉井商船"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式8頁／PDF・画像8件／外部4頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式8頁／PDF・画像8件／外部4頁・検索5回）",
+  "利益の源泉": "記載なし（3回確認済み：公式8頁／PDF・画像8件／外部4頁・検索5回）"
+ }
+}

@@ -1,0 +1,885 @@
+{
+ "name": "ジェイドグループ",
+ "aliases": [],
+ "context": "証券コード3558／小売業／グロース（内国株式）／2026.02期 売上高19,441百万円 営業利益率12.4%",
+ "researched_at": "2026-11-02T19:52:22.723580+00:00",
+ "official_url": "https://jade-group.jp/",
+ "identified_by": "search:yahoo_jp:ジェイドグループ",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立年月日",
+    "value": "2010年10月22日",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=3558",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "164 人",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=3558",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "顧客応対、倉庫運営、商品撮影など、すべてのオペレーションを弊社が請け負うため、ブランド様は商品を預けていただくだけで、EC売上の最大化を期待できます",
+    "url": "https://jade-group.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "dfashion ドコモユーザー スタッフ・システム",
+    "url": "https://jade-group.jp/wp-content/themes/jade-group-theme/common/images/our_business_2025.png",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様",
+    "url": "https://jade-group.jp/wp-content/themes/jade-group-theme/common/images/our_business_2025.png",
+    "pass": 1
+   },
+   {
+    "quote": "ECモールでのユーザー接点、プラットフォーム事業による業界への浸透、そしてブランド運営で収益のコントロール力を持ち、これらを全て自社IT基盤で統合しています",
+    "url": "https://note.com/bold_roses_rism/n/n2238f8612518",
+    "pass": 3
+   },
+   {
+    "quote": "また、ユーザーが『ロコンド』と『マガシーク』の商品を同時に購入することもできなかった",
+    "url": "https://www.fashionsnap.com/article/2024-03-30/jadegroup-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "ーーこれまで、さまざまファッションECを買収してきたが、マガシークは規模もユーザー数も多い",
+    "url": "https://www.fashionsnap.com/article/2024-03-30/jadegroup-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "19年に『モバコレ』を買収したときは、会員もサイトも『ロコンド』に吸収したが、サイトが違うことで離脱する顧客が出てしまったのは反省点だ",
+    "url": "https://www.fashionsnap.com/article/2024-03-30/jadegroup-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、サイトによってユーザーが求めているものが違うので、例えば『ロコンド』では靴を前面に出すし、『マガシーク』ではアパレルを前面に出す",
+    "url": "https://www.fashionsnap.com/article/2024-03-30/jadegroup-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "『マガシーク』は百貨店系ブランドに強く、『ゾゾタウン』とは中心顧客の年齢層が異なるものの、市場の近さが影響しているのではないか",
+    "url": "https://www.fashionsnap.com/article/2024-03-30/jadegroup-ceo/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "顧客応対、倉庫運営、商品撮影など、すべてのオペレーションを弊社が請け負うため、ブランド様は商品を預けていただくだけで、EC売上の最大化を期待できます",
+    "url": "https://jade-group.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "プラットフォーム事業の各種サービスを活用することで、ECだけでなく店舗や卸の運営も展開しています",
+    "url": "https://jade-group.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ジェイドグループは2011年2月にサービスを開始し2017年3月には上場しましたが、",
+    "url": "https://jade-group.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新規商品・ブランドお取引やご商談に関するお問い合わせ",
+    "url": "https://jade-group.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "靴革命 – サービス動画 (2019) –",
+    "url": "https://jade-group.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "購入商品を返品されてもクーポンは戻りません",
+    "url": "https://jade-group.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "」のサービス詳細は",
+    "url": "https://jade-group.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "一部対象外の商品もございます",
+    "url": "https://jade-group.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "サービス提供 GrJede6Scpの LOCOPORT II",
+    "url": "https://jade-group.jp/wp-content/themes/jade-group-theme/common/images/our_business_2025.png",
+    "pass": 1
+   },
+   {
+    "quote": "サービス提供 BOEM 3.0 ブランド公式 EC 運営",
+    "url": "https://jade-group.jp/wp-content/themes/jade-group-theme/common/images/our_business_2025.png",
+    "pass": 1
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=3558",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=3558",
+    "pass": 3
+   },
+   {
+    "quote": "マガシークは、主に『マガシーク』サイトと、ドコモさんの『d fashion』を運営するECモール事業と、ブランドの自社EC構築運営事業のふたつが主力だ",
+    "url": "https://www.fashionsnap.com/article/2024-03-30/jadegroup-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、相互出店といっても在庫共有するのは倉庫在庫だけで、予約商品や取り寄せ品は対象外だったし、タイムセールやクーポンなどの相互プロモーションは実施しなかった",
+    "url": "https://www.fashionsnap.com/article/2024-03-30/jadegroup-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "また、ユーザーが『ロコンド』と『マガシーク』の商品を同時に購入することもできなかった",
+    "url": "https://www.fashionsnap.com/article/2024-03-30/jadegroup-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "同じファッションECであっても『ロコンド』と『マガシーク』が取り扱う商品の重複率は3割前後と見ていて、両社の在庫データベースを共通化することで、どちらも品ぞろえを現状の1・7倍程度に広げられる",
+    "url": "https://www.fashionsnap.com/article/2024-03-30/jadegroup-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "靴は正方形の画像を使うが、アパレルは縦長の画像を使うなど、主力の商品カテゴリーでUIも変わってくる",
+    "url": "https://www.fashionsnap.com/article/2024-03-30/jadegroup-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "品ぞろえは統合して販売できる商品を大幅に増やしながら、見せ方は両サイトの特性に合わせる",
+    "url": "https://www.fashionsnap.com/article/2024-03-30/jadegroup-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば『モバコレ』をM&Aしたときは、商品担当者が多くなったので、各社員との面談結果を反映させ、出店ショップのサポート担当としてSAT(ショップアシスタントチーム)という部署を新設した",
+    "url": "https://www.fashionsnap.com/article/2024-03-30/jadegroup-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "従来は商品担当者が仕入れや分析、運営サポートも行っていたため、ショップへのサポートが手薄になっていた",
+    "url": "https://www.fashionsnap.com/article/2024-03-30/jadegroup-ceo/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "プラットフォーム事業の各種サービスを活用することで、ECだけでなく店舗や卸の運営も展開しています",
+    "url": "https://jade-group.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2021SSパートナー様説明会資料［PDF/2MB］",
+    "url": "https://jade-group.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2020AWパートナー様説明会資料［PDF/763KB］",
+    "url": "https://jade-group.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "【2019年秋冬】パートナー様向け説明会資料 – 靴革命 -［PDF/2MB］",
+    "url": "https://jade-group.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "【2019年春夏】パートナー様向け説明会資料 ［PDF/3MB］",
+    "url": "https://jade-group.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、健全な倫理観に基づくコンプライアンス体制を徹底し、株主、投資家及び事業パートナーをはじめとするステークホルダー（利害関係者）の信頼を得ることも重要な経営課題と認識しております",
+    "url": "https://jade-group.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "LOCOCHDC / LOCOPOS 店舗システム",
+    "url": "https://jade-group.jp/wp-content/themes/jade-group-theme/common/images/our_business_2025.png",
+    "pass": 1
+   },
+   {
+    "quote": "プラットフォーム事業では、リアル店舗の在庫やPOSとECを一元管理するLOCOPOSや、店舗在庫の欠品をEC倉庫から補完するLOCOCHOCなど、オムニチャネル対応を自社開発で実現",
+    "url": "https://note.com/bold_roses_rism/n/n2238f8612518",
+    "pass": 3
+   },
+   {
+    "quote": "ジェイドが得意とするリアル店舗とECの在庫一元化は、今後この成長市場で圧倒的な強みになります",
+    "url": "https://note.com/bold_roses_rism/n/n2238f8612518",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=3558",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=3558",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=3558",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=3558",
+    "pass": 3
+   },
+   {
+    "quote": "2018年に掲げたファッションEC専業モールでの”圧倒的な2位”のポジションを得るとともに、ドコモおよび伊藤忠とパートナーシップを開始したことで、「集客面と品ぞろえで強力なバックアップ体制を構築した」と語る田中裕輔社長(写真)に、M&Aの背景や今後の展開などを聞いた",
+    "url": "https://www.fashionsnap.com/article/2024-03-30/jadegroup-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、マガシークが最大化できなかった、NTTドコモさん、伊藤忠商事さんとのパートナーシップについても、当社が参画することで圧倒的な2位に満足することなく、1位を目指すための完璧なパートナーシップだ",
+    "url": "https://www.fashionsnap.com/article/2024-03-30/jadegroup-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "マガシークは、主に『マガシーク』サイトと、ドコモさんの『d fashion』を運営するECモール事業と、ブランドの自社EC構築運営事業のふたつが主力だ",
+    "url": "https://www.fashionsnap.com/article/2024-03-30/jadegroup-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "一方のブランド自社EC構築では、『FILA』や『レリアン』『レスポートサック』など伊藤忠さんが国内ライセンスを取得したり、子会社として運営したりしているブランドと同じグループとして対話ができるという利点がある",
+    "url": "https://www.fashionsnap.com/article/2024-03-30/jadegroup-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、完全独立型で勝ち残る難しさも感じていたので、今回、共同パートナーという形になるが、ドコモさん、伊藤忠さんと組めたのは良かった",
+    "url": "https://www.fashionsnap.com/article/2024-03-30/jadegroup-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、ブランド自社EC構築の事業については各ブランドとのすり合わせなどに時間が必要なので、さらに半年くらいかかると思う",
+    "url": "https://www.fashionsnap.com/article/2024-03-30/jadegroup-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "多くのPMI(買収後の統合)を経験して物流とIT基盤をバージョンアップしてきたが、実店舗も卸もECも展開しているリーボックのPMIによって、あらゆる事業に対応できる物流・ITインフラに磨き上げることができた",
+    "url": "https://www.fashionsnap.com/article/2024-03-30/jadegroup-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "リーボックの国内事業を継承したときの実店舗は少なかったので、リアルを強化することで実店舗売り上げが伸びるだけでなく、ブランドの認知度を高められる",
+    "url": "https://www.fashionsnap.com/article/2024-03-30/jadegroup-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "また、リーボック事業で卸や実店舗の運営ノウハウがグループに蓄積されたので、ほかのブランドをM&Aするというストーリーが描きやすくなった",
+    "url": "https://www.fashionsnap.com/article/2024-03-30/jadegroup-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "ECモール事業ではマガシークの買収で両社の品ぞろえを大幅に拡充することができるし、ブランド自社EC構築でも、伊藤忠さんとの協力関係も含めてまだまだ伸ばせるので、取扱高1000億円の達成はより具体的になってきた",
+    "url": "https://www.fashionsnap.com/article/2024-03-30/jadegroup-ceo/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "在庫およびデータを一元化できるため、在庫回転率や業務効率などの大幅な向上を図れます",
+    "url": "https://jade-group.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "瞬時に在庫とデータを完全統合できるオムニ戦略 (OMO) 基盤 “ALL-IN-ONE”第一弾で株式会社fitfit様での導入を開始！[PDF870KB]",
+    "url": "https://jade-group.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "プラットフォーム事業では、リアル店舗の在庫やPOSとECを一元管理するLOCOPOSや、店舗在庫の欠品をEC倉庫から補完するLOCOCHOCなど、オムニチャネル対応を自社開発で実現",
+    "url": "https://note.com/bold_roses_rism/n/n2238f8612518",
+    "pass": 3
+   },
+   {
+    "quote": "競合他社では難しい「在庫の一元化」「会員情報の共有」を推進しています",
+    "url": "https://note.com/bold_roses_rism/n/n2238f8612518",
+    "pass": 3
+   },
+   {
+    "quote": "ZOZOは広告やAIコーディネートに注力し、SHOPLISTは価格訴求に強みを持ち、アイルミネは百貨店との強力な結びつきを活かしています",
+    "url": "https://note.com/bold_roses_rism/n/n2238f8612518",
+    "pass": 3
+   },
+   {
+    "quote": "ジェイドが得意とするリアル店舗とECの在庫一元化は、今後この成長市場で圧倒的な強みになります",
+    "url": "https://note.com/bold_roses_rism/n/n2238f8612518",
+    "pass": 3
+   },
+   {
+    "quote": "ーーそのマガシークとは18年に業務提携し、在庫連携する形で「ロコンド」と「マガシーク」の相互出店を試した",
+    "url": "https://www.fashionsnap.com/article/2024-03-30/jadegroup-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、相互出店といっても在庫共有するのは倉庫在庫だけで、予約商品や取り寄せ品は対象外だったし、タイムセールやクーポンなどの相互プロモーションは実施しなかった",
+    "url": "https://www.fashionsnap.com/article/2024-03-30/jadegroup-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "同じファッションECであっても『ロコンド』と『マガシーク』が取り扱う商品の重複率は3割前後と見ていて、両社の在庫データベースを共通化することで、どちらも品ぞろえを現状の1・7倍程度に広げられる",
+    "url": "https://www.fashionsnap.com/article/2024-03-30/jadegroup-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "マガシークの在庫を当社物流センターの『ロコポート』に移管することで、空いているスペースが埋まってしまうので、今後の成長に向け、千葉県八千代市内の既存倉庫から歩いて2～3分の場所にある倉庫を借りる",
+    "url": "https://www.fashionsnap.com/article/2024-03-30/jadegroup-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "「服好きな社員が多いのが強み」ゾゾタウンがデータ分析で出店ブランドの課題を解決",
+    "url": "https://www.fashionsnap.com/article/2024-03-30/jadegroup-ceo/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年10月10日（土）発売[PDF／1MB]",
+    "url": "https://jade-group.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月9日（金）発売[PDF／1MB]",
+    "url": "https://jade-group.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月期 第2四半期（中間期）決算説明会動画",
+    "url": "https://jade-group.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月期 第2四半期決算説明会資料",
+    "url": "https://jade-group.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月期 第2四半期（中間期）決算短信",
+    "url": "https://jade-group.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月期 第1四半期 決算説明会動画",
+    "url": "https://jade-group.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月期 第1四半期決算説明会資料",
+    "url": "https://jade-group.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月期第1四半期決算短信",
+    "url": "https://jade-group.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月期 (2026年度) の業績予想に関して",
+    "url": "https://jade-group.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月期 決算説明会動画",
+    "url": "https://jade-group.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月期 決算説明会資料",
+    "url": "https://jade-group.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月期決算短信",
+    "url": "https://jade-group.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月期 第3四半期 決算説明会動画",
+    "url": "https://jade-group.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月期 第3四半期決算説明会資料",
+    "url": "https://jade-group.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月期第3四半期決算短信",
+    "url": "https://jade-group.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月期 第2四半期 決算説明会動画",
+    "url": "https://jade-group.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月期 第2四半期決算説明会資料",
+    "url": "https://jade-group.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月期第2四半期（中間期）決算短信",
+    "url": "https://jade-group.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月期 第1四半期 決算説明会動画",
+    "url": "https://jade-group.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月期 第1四半期決算説明会資料",
+    "url": "https://jade-group.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年２月期（第16期）配当予想の修正に関するお知らせ",
+    "url": "https://jade-group.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月期第1四半期決算短信",
+    "url": "https://jade-group.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2025年2月期 決算説明会動画",
+    "url": "https://jade-group.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2025年2月期 決算説明会資料",
+    "url": "https://jade-group.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2025年2月期決算短信",
+    "url": "https://jade-group.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2025年2月期 第3四半期 決算説明会動画",
+    "url": "https://jade-group.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2025年2月期 第3四半期決算説明会資料",
+    "url": "https://jade-group.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2025年07月15日｜ジェイドグループ｜決算分析・業績とビジネスモデル（EC・物流・ブランド）【決算記録】｜リズム",
+    "url": "https://note.com/bold_roses_rism/n/n2238f8612518",
+    "pass": 3
+   },
+   {
+    "quote": "2025年07月15日｜ジェイドグループ｜決算分析・業績とビジネスモデル（EC・物流・ブランド）【決算記録】",
+    "url": "https://note.com/bold_roses_rism/n/n2238f8612518",
+    "pass": 3
+   },
+   {
+    "quote": "2025年7月15日 20:27",
+    "url": "https://note.com/bold_roses_rism/n/n2238f8612518",
+    "pass": 3
+   },
+   {
+    "quote": "2026年2月期の第1四半期も堅調な滑り出しを見せ、今後もM&AとIT統合を通じたスケールアップが続くことが予想されそうです",
+    "url": "https://note.com/bold_roses_rism/n/n2238f8612518",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月3日（火）",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=3558",
+    "pass": 3
+   },
+   {
+    "quote": "2027年2月期 第2四半期（中間期）決算短信〔日本基準〕（連結）",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=3558",
+    "pass": 3
+   },
+   {
+    "quote": "2027年2月期 第2四半期決算説明会資料",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=3558",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月3日（火）",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=3558",
+    "pass": 3
+   },
+   {
+    "quote": "業務内容・沿革",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=3558",
+    "pass": 3
+   },
+   {
+    "quote": "2010年10月22日",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=3558",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月28日",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=3558",
+    "pass": 3
+   },
+   {
+    "quote": "2026年2月期 （百万円） ［］内は人数",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=3558",
+    "pass": 3
+   },
+   {
+    "quote": "2026年2月期 （百万円）",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=3558",
+    "pass": 3
+   },
+   {
+    "quote": "2018年に掲げたファッションEC専業モールでの”圧倒的な2位”のポジションを得るとともに、ドコモおよび伊藤忠とパートナーシップを開始したことで、「集客面と品ぞろえで強力なバックアップ体制を構築した」と語る田中裕輔社長(写真)に、M&Aの背景や今後の展開などを聞いた",
+    "url": "https://www.fashionsnap.com/article/2024-03-30/jadegroup-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年03月30日",
+    "url": "https://www.fashionsnap.com/article/2024-03-30/jadegroup-ceo/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "募集新株予約権（有償ストック・オプション）の発行内容確定に関するお知らせ",
+    "url": "https://jade-group.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "募集新株予約権（有償ストック・オプション）の発行に関するお知らせ",
+    "url": "https://jade-group.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "Reebok国内事業の運営に関する伊藤忠商事株式会社とのライセンス契約締結および合弁会社の設立のお知らせ",
+    "url": "https://jade-group.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "受託手数料中心のビジネスでは、分かりにくいという課題があります",
+    "url": "https://note.com/bold_roses_rism/n/n2238f8612518",
+    "pass": 3
+   },
+   {
+    "quote": "リーボックの日本における販売権・ライセンスを取得した金額は開示していないが、それよりも大きい",
+    "url": "https://www.fashionsnap.com/article/2024-03-30/jadegroup-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "一方のブランド自社EC構築では、『FILA』や『レリアン』『レスポートサック』など伊藤忠さんが国内ライセンスを取得したり、子会社として運営したりしているブランドと同じグループとして対話ができるという利点がある",
+    "url": "https://www.fashionsnap.com/article/2024-03-30/jadegroup-ceo/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "2025年07月15日｜ジェイドグループ｜決算分析・業績とビジネスモデル（EC・物流・ブランド）【決算記録】｜リズム",
+    "url": "https://note.com/bold_roses_rism/n/n2238f8612518",
+    "pass": 3
+   },
+   {
+    "quote": "2025年07月15日｜ジェイドグループ｜決算分析・業績とビジネスモデル（EC・物流・ブランド）【決算記録】",
+    "url": "https://note.com/bold_roses_rism/n/n2238f8612518",
+    "pass": 3
+   },
+   {
+    "quote": "この記事は、2025年7月15日に発表されたジェイドグループの決算資料をもとに、業績（売上・営業利益）やビジネスモデル（EC・物流・ブランド）を整理した記録です",
+    "url": "https://note.com/bold_roses_rism/n/n2238f8612518",
+    "pass": 3
+   },
+   {
+    "quote": "「ジェイドグループ 決算分析」「ロコンド ビジネスモデル」「ファッションEC 物流」といった観点から整理しています",
+    "url": "https://note.com/bold_roses_rism/n/n2238f8612518",
+    "pass": 3
+   },
+   {
+    "quote": "ジェイドグループのビジネスモデル｜EC・物流・ブランドの3本柱",
+    "url": "https://note.com/bold_roses_rism/n/n2238f8612518",
+    "pass": 3
+   },
+   {
+    "quote": "ジェイドグループの課題｜利益率・PMI・収益構造のリスク",
+    "url": "https://note.com/bold_roses_rism/n/n2238f8612518",
+    "pass": 3
+   },
+   {
+    "quote": "1. 収益構造の複雑さと説明力",
+    "url": "https://note.com/bold_roses_rism/n/n2238f8612518",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://note.com/bold_roses_rism/n/n2238f8612518",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ジェイドグループ ｜決算分析・業績と ビジネスモデル （EC ... — ジェイドグループ ｜決算分析・業績と ビジネスモデル （EC ... note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/bold_roses_rism/n/n2238f8612518",
+    "pass": 3
+   },
+   {
+    "quote": "ジェイドグループ 株式会社 – JADE GROUP,Inc. — ジェイドグループ 株式会社 – JADE GROUP,Inc. ジェイドグループ株式会社 https://jade-group.jp",
+    "url": "https://jade-group.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ジェイドグループ - Wikipedia — ジェイドグループ - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > ジェイドグループ",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%89%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97",
+    "pass": 3
+   },
+   {
+    "quote": "[G- ジェイドグループ 3558.T] 事業計畫及び成長可能性 ... — [G- ジェイドグループ 3558.T] 事業計畫及び成長可能性 ... BigGo 財經 https://finance.biggo.com.tw > news > jpx_tdnet_140120...",
+    "url": "https://finance.biggo.com.tw/news/jpx_tdnet_140120260414503686",
+    "pass": 3
+   },
+   {
+    "quote": "IR | ジェイドグループ 株式会社 – JADE GROUP,Inc. — IR | ジェイドグループ 株式会社 – JADE GROUP,Inc. ジェイドグループ株式会社 https://jade-group.jp > ...",
+    "url": "https://jade-group.jp/ir",
+    "pass": 3
+   },
+   {
+    "quote": "【 ジェイドグループ 】[3558]IR情報 中期経営計画や 決算 短信 — 【 ジェイドグループ 】[3558]IR情報 中期経営計画や 決算 短信 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=3558",
+    "pass": 3
+   },
+   {
+    "quote": "ジェイドグループ 【3558】の最新 決算 発表、業績修正 - 株探 — ジェイドグループ 【3558】の最新 決算 発表、業績修正 - 株探 株探 https://kabutan.jp > ジェイドグループ (3558) > 決算",
+    "url": "https://kabutan.jp/stock/finance?code=3558",
+    "pass": 3
+   },
+   {
+    "quote": "news | ジェイドグループ 株式会社 – JADE GROUP,Inc. — news | ジェイドグループ 株式会社 – JADE GROUP,Inc. ジェイドグループ株式会社 https://jade-group.jp > news",
+    "url": "https://jade-group.jp/news",
+    "pass": 3
+   },
+   {
+    "quote": "ジェイドグループ （3558）のIR情報・ 決算資料 - IRBANK — ジェイドグループ （3558）のIR情報・ 決算資料 - IRBANK IRBANK https://irbank.net > ジェイドグループ",
+    "url": "https://irbank.net/3558/ir",
+    "pass": 3
+   },
+   {
+    "quote": "【 ジェイドグループ 】[3558]企業概要 社員数や役員報酬・資本金 — 【 ジェイドグループ 】[3558]企業概要 社員数や役員報酬・資本金 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=3558",
+    "pass": 3
+   },
+   {
+    "quote": "ジェイドグループ (株)（LOCONDO／Reebok／d fashion ... — ジェイドグループ (株)（LOCONDO／Reebok／d fashion ... マイナビ https://job.mynavi.jp > search > corp207279 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp207279/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ジェイドグループ 株式会社の採用・求人情報-engage — ジェイドグループ 株式会社の採用・求人情報-engage エンゲージ https://en-gage.net > jade-group_saiyo",
+    "url": "https://en-gage.net/jade-group_saiyo/",
+    "pass": 3
+   },
+   {
+    "quote": "2030年にEC取扱高1000億円をめざす ジェイドグループ の中 ... — 2030年にEC取扱高1000億円をめざす ジェイドグループ の中 ... ネットショップ担当者フォーラム https://netshop.impress.co.jp > ニュース",
+    "url": "https://netshop.impress.co.jp/node/12192",
+    "pass": 3
+   },
+   {
+    "quote": "マガシーク買収で「圧倒的2位」に、 ジェイドグループ の田中 ... — マガシーク買収で「圧倒的2位」に、 ジェイドグループ の田中 ... fashionsnap.com https://www.fashionsnap.com > ポスト > 通販新聞",
+    "url": "https://www.fashionsnap.com/article/2024-03-30/jadegroup-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "〈田中裕輔 社長 に聞く ジェイドグループ のM＆A戦略 ... — 〈田中裕輔 社長 に聞く ジェイドグループ のM＆A戦略 ... 通販新聞社 https://www.tsuhanshimbun.com > products > detail",
+    "url": "https://www.tsuhanshimbun.com/products/detail/8216",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://jade-group.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jade-group.jp/ir",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jade-group.jp/wp-content/themes/jade-group-theme/common/images/our_business_2025.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://jade-group.jp/ir",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://jade-group.jp/wp-content/themes/jade-group-theme/common/download/jade_group_%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81_202604.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jade-group.jp/wp-content/themes/jade-group-theme/common/download/jade_group_company-profile_202604.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jade-group.jp/wp-content/uploads/2026/10/20261016_ReZARDコラボ.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jade-group.jp/wp-content/uploads/2026/10/【Reebok│PRESS-RELEASE】AVIREX-PDF.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jade-group.jp/wp-content/uploads/2026/10/【Reebok│PRESS-RELEASE】_HAMMER-STREET-Kinetics-Exclucive.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jade-group.jp/wp-content/uploads/2026/09/【Reebok│PRESS-RELEASE】NAUTICA_Collab.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jade-group.jp/wp-content/uploads/2026/09/【Reebok│PRESS-RELEASE】川口春奈ブランドアンバサダー就任のお知らせ.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jade-group.jp/wp-content/uploads/2026/08/【Reebok│PRESS-RELEASE】DMX-SERIES-3000-KICS-LAB.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jade-group.jp/wp-content/themes/jade-group-theme/common/images/our_business_2025.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.com/bold_roses_rism/n/n2238f8612518",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=3558",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=3558",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fashionsnap.com/article/2024-03-30/jadegroup-ceo/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ジェイドグループ",
+   "results": [
+    "https://jade-group.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%89%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=3558",
+    "https://www.r-agent.com/company/88418/",
+    "https://job.mynavi.jp/27/pc/search/corp207279/outline.html",
+    "https://www.openwork.jp/a0C1000000YopMw/analysis/",
+    "https://ja.wikipedia.org/wiki/ジェイドグループ"
+   ]
+  },
+  {
+   "query": "ジェイドグループ ビジネスモデル",
+   "results": [
+    "https://note.com/bold_roses_rism/n/n2238f8612518",
+    "https://jade-group.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%89%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97",
+    "https://finance.biggo.com.tw/news/jpx_tdnet_140120260414503686",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20261015/20261014550531.pdf",
+    "https://job.mynavi.jp/27/pc/search/corp207279/outline.html",
+    "https://en-gage.net/jade-group_saiyo/",
+    "https://netshop.impress.co.jp/node/12192",
+    "https://www.openwork.jp/a0C1000000YopMw/analysis/",
+    "https://consovation.com/ジェイドグループ株式会社の成長戦略を徹底解剖/"
+   ]
+  },
+  {
+   "query": "ジェイドグループ 決算説明資料",
+   "results": [
+    "https://jade-group.jp/ir",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=3558",
+    "https://kabutan.jp/stock/finance?code=3558",
+    "https://jade-group.jp/news",
+    "https://irbank.net/3558/ir",
+    "https://www.jgroup.jp/ir/library/explanation/",
+    "https://edinetdb.jp/company/E32966/presentations/",
+    "https://edinetdb.jp/company/E32966/ir-docs/",
+    "https://treelazy.com/stock-jp/3558/conference",
+    "https://www2.jpx.co.jp/disc/35580/140120240711548220.pdf"
+   ]
+  },
+  {
+   "query": "ジェイドグループ 事業系統図",
+   "results": [
+    "https://jade-group.jp/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=3558",
+    "https://job.mynavi.jp/27/pc/search/corp207279/outline.html",
+    "https://en-gage.net/jade-group_saiyo/",
+    "https://netshop.impress.co.jp/node/12192",
+    "https://jade-group.jp/ir",
+    "https://note.com/bold_roses_rism/n/ne866f1a22537",
+    "https://www.tsuhannews.jp/news/detail/71239",
+    "https://edinetdb.jp/company/E32966/text",
+    "https://edinetdb.jp/company/E32966/midterm-plans/"
+   ]
+  },
+  {
+   "query": "ジェイドグループ 社長 インタビュー",
+   "results": [
+    "https://jade-group.jp/",
+    "https://www.fashionsnap.com/article/2024-03-30/jadegroup-ceo/",
+    "https://x.com/Yusuke_Tanaka",
+    "https://www.tsuhanshimbun.com/products/detail/8216",
+    "https://netshop.impress.co.jp/n/2026/04/16/15931",
+    "https://www.green-japan.com/company/4815/interview",
+    "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%89%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97",
+    "https://www.instagram.com/yusuke.tanaka.1980/",
+    "https://senken.co.jp/posts/jade-group-260420"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式4頁／PDF・画像9件／外部4頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像9件／外部4頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式4頁／PDF・画像9件／外部4頁・検索5回）"
+ }
+}

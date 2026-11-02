@@ -1,0 +1,1552 @@
+{
+ "name": "ラクオリア創薬",
+ "aliases": [],
+ "context": "証券コード4579／医薬品／グロース（内国株式）／2025.12期 売上高3,980百万円 営業利益率12.2%",
+ "researched_at": "2026-11-02T19:57:00.939624+00:00",
+ "official_url": "https://www.riem.nagoya-u.ac.jp/",
+ "identified_by": "search:ddgs:google:株式会社ラクオリア創薬",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立日",
+    "value": "2008年2月19日",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "2008年 （ 平成 20年） 2月19日",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "医薬品の研究開発",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "27億76百万円",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "67名",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC",
+    "pass": 3
+   },
+   {
+    "label": "従業員",
+    "value": "連結 85人・単体 64人",
+    "url": "https://zukaikeizai.com/kaisha/4579/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "どうやって売るか": [
+   {
+    "quote": "研究所紹介 | 名古屋大学 環境医学研究所",
+    "url": "https://www.riem.nagoya-u.ac.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "このような価値提案が医療現場やパートナー企業に認められ、ライセンス収入やロイヤルティに結びつく構造が確立されています",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "同社は大手製薬会社のみならず、学術機関や研究所、バイオベンチャーなどさまざまなパートナーとオープンにコラボレーションを行っています",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "新薬の製造販売には大規模なインフラや販売網が必要であり、中小規模の創薬ベンチャー単独ではカバーしきれないからです",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "また、特定地域ですでに販売網を持つ企業へライセンスアウトすることで、スピーディーに海外進出が実現し、収益を確保しながら自社の認知度や評価を高めることができます",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "研究開発に特化しながらも、販路をパートナーに委ねることで効率よくビジネスを拡大する仕組みを形成しています",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、顧客との関係は長期的なパートナーシップの構築が中心です",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "このような好循環が続くほど、研究開発力や知的財産ポートフォリオが質量ともに充実し、外部パートナーからの信頼も高まります",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "ラクオリア創薬は海外での販売パートナーを拡大しつつ、新薬パイプラインの充実を進めています",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーシップ・提携",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "HK inno.N社との共同研究では代謝・内分泌疾患領域の創薬研究に着手し、産学官のパートナーとの連携を軸に創薬研究の効率を高める",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "HK inno.N社とのパートナーシップ",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "HK inno.N社とのパートナーシップに関する補足資料",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "ヒト用医薬品としてテゴプラザン、ペット用医薬品としてグラピプラント、カプロモレリン、タイシンザンの4製品を当社発の上市医薬品として紹介",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "宋根石氏と棚瀬敦氏はHK inno.N社との株主間契約に基づき指名された取締役候補者",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "谷匡治氏（1974年生）は、サントリー㈱入社後、武田薬品工業㈱に入社、㈱ウィズ・パートナーズでダイレクター、㈱レグイミューンで事業開発部長、㈱ジーンテクノサイエンスで執行役員事業開発担当部長、ORTHOREBIRTH㈱で社外取締役、同社で取締役CFO兼事業開発担当部長、代表取締役社長、㈱セルテクノロジーで代表取締役、㈱日本再生医療で取締役、reverSASP Therapeutics㈱で取締役、シコニア・バイオベンチャーズ㈱でCOO兼CBOを経て現任",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "競争力の源泉として上市製品が挙げられ、ヒト用医薬品のテゴプラザン（K-CAB®、泰欣赞®など）とペット用医薬品のグラピプラント（GALLIPRANT®）、カプロモレリン（ENTYCE™、ELURA™）の4製品が紹介されている",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "自社パイプラインとしてグレリン受容体作動薬（便秘、悪液質に伴う食欲不振）とIRAK-M分解誘導薬（各種がん）が紹介されている",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "この変更は、戦略的パートナーシップの強化と、企業価値向上のための資本構造の見直しの一環として実施されたもの",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "今後は新たなパートナー獲得を目指す導出活動を進める",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年3月、指名・報酬委員会を設置",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "これらのプログラムはイオンチャネルや非開示の標的分子に取り組んでおり、多様なパートナーとの連携を通じて創薬の可能性を広げている",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "1943年（昭和18年）",
+    "url": "https://www.riem.nagoya-u.ac.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "1946年3月（昭和21年）",
+    "url": "https://www.riem.nagoya-u.ac.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "1949年5月（昭和24年）",
+    "url": "https://www.riem.nagoya-u.ac.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "1960年5月（昭和35年）",
+    "url": "https://www.riem.nagoya-u.ac.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "1964年2月（昭和39年）",
+    "url": "https://www.riem.nagoya-u.ac.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "1966年12月 （昭和41年）",
+    "url": "https://www.riem.nagoya-u.ac.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "1967年6月（昭和42年）",
+    "url": "https://www.riem.nagoya-u.ac.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "1979年5月（昭和54年）",
+    "url": "https://www.riem.nagoya-u.ac.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "1991年4月（平成3年）",
+    "url": "https://www.riem.nagoya-u.ac.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "1994年3月（平成6年）",
+    "url": "https://www.riem.nagoya-u.ac.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "1996年10月（平成8年）",
+    "url": "https://www.riem.nagoya-u.ac.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "2001年4月（平成13年）",
+    "url": "https://www.riem.nagoya-u.ac.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "2004年4月（平成16年）",
+    "url": "https://www.riem.nagoya-u.ac.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "2004年10月（平成16年）",
+    "url": "https://www.riem.nagoya-u.ac.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "2005年1月（平成17年）",
+    "url": "https://www.riem.nagoya-u.ac.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "2006年4月（平成18年）",
+    "url": "https://www.riem.nagoya-u.ac.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "2009年4月（平成21年）",
+    "url": "https://www.riem.nagoya-u.ac.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "2010年3月（平成22年）",
+    "url": "https://www.riem.nagoya-u.ac.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "2010年9月（平成22年）",
+    "url": "https://www.riem.nagoya-u.ac.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "2012年10月（平成24年）",
+    "url": "https://www.riem.nagoya-u.ac.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "2014年4月（平成26年）",
+    "url": "https://www.riem.nagoya-u.ac.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "2015年4月（平成27年）",
+    "url": "https://www.riem.nagoya-u.ac.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "2015年7月（平成27年）",
+    "url": "https://www.riem.nagoya-u.ac.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年4月（平成31年）",
+    "url": "https://www.riem.nagoya-u.ac.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年4月（令和3年）",
+    "url": "https://www.riem.nagoya-u.ac.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年2月",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1月",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年8月",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年7月",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年5月",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年4月",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年2月",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年1月",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年版",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年版",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年版（FY2024-2026）",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年版",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年版",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年版",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年版",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年12月期から2028年12月期までの3期連続営業黒字を見込み、2028年12月期には営業利益9.1億円への増益を計画",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "2008年2月に設立され、医薬品の研究開発、知的財産の販売・許諾、企業・大学との提携を事業内容とする",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月にファイメクス株式会社を完全子会社化",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年1月6日から2026年1月30日までの期間でTOPIXやグロース指数を上回る株価パフォーマンスを示した",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には営業黒字化と過去最高の売上高を達成した",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年から2025年の5カ年累計で研究開発費71億円、売上高146億円、当期純利益938百万円を計上",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年中に世界初のTPDが承認される見込み",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年期初における探索研究段階のプログラム数は12個",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "新薬開発で注目を集めるラクオリア創薬のビジネスモデルと成長戦略を徹底解説 | チームマイクの企業分析",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "新薬開発で注目を集めるラクオリア創薬のビジネスモデルと成長戦略を徹底解説",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "一度製薬会社と契約を結ぶと、開発マイルストンや成果物のロイヤルティなど長期にわたる契約関係が発生するため、互いに安定したビジネスモデルを確立できます",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "新薬の開発リスクは依然として高いものの、もし追加で複数の製品が上市されれば収益構造の改善が大いに進む可能性があります",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "ネクセラファーマが描くビジネスモデルと成長戦略 最新IR資料から見る未来の可能性",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ペルセウスプロテオミクスの成長戦略に迫る魅力のビジネスモデル",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "Veritas In Silicoのビジネスモデル徹底解説と成長戦略の可能性",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "新時代へ挑む小野薬品工業のビジネスモデル徹底分析と成長戦略の鍵とは",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社Heartseedのビジネスモデルと成長戦略が見逃せません",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "室町ケミカル株式会社の成長戦略とビジネスモデルの魅力を徹底解説",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルを深掘りするシンバイオ製薬の成長戦略と最新IR資料の魅力を徹底解説",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "カイオム・バイオサイエンスのビジネスモデルから見る成長戦略と今後の注目ポイント",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ドライケミカル株式会社の『ビジネスモデル』と圧倒的競争力を解",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社動力のIR資料から紐解く次世代へのビジネスモデルと成長戦略",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ガイシの驚異的なビジネスモデルと次世代へ向けた成長戦略を徹底解説",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "マーチャント・バンカーズの隠された成長戦略と驚異のビジネスモデル",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要、ビジネスモデル、事業戦略、事業計画、事業リスク、次回開示の予定時期、補足資料の7つの主要項目で構成されている",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "研究段階から収益を獲得するハイブリッド型ビジネスモデルを強化し、成長性と収益性の両輪で株主価値向上を目指す",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルと収益構造",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "ラクオリア創薬のビジネスモデルと収益構造",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品候補物質の研究開発成果の導出だけでなく、共同研究の契約一時金、研究協力金、マイルストン等を得るハイブリッド型のビジネスモデルを採用",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "重点４施策：ビジネスモデルの強化",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "企業価値・株主価値向上のための重点4施策の一つ、ビジネスモデルの強化",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "研究段階から契約一時金、研究協力金、マイルストン等を得るハイブリッド型のビジネスモデルを推進",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "テゴプラザンのグローバル成長によるロイヤルティ収入拡大、導出済みパイプラインの進捗とマイルストン収益、HK inno.N社との戦略的提携による財務基盤強化、創薬研究基盤の強化、研究開発ポートフォリオの強化、ハイブリッド型ビジネスモデルの強化を柱とする",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "ハイブリッド型ビジネスモデルにより、ロイヤルティ収入によるROE向上とパイプライン成長によるPER向上で株主価値を向上させる",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "企業価値・株主価値向上のための重点4施策は、1)創薬研究基盤の強化、2)研究開発ポートフォリオの拡充、3)ビジネスモデルの強化、4)提携関係の強化",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "ロイヤルティ収益の成長に加え、「研究段階で収益を上げる」ハイブリッド型ビジネスモデルを採用",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル｜「研究段階で収益を上げる」ハイブリッド型モデル",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "研究段階から契約一時金、研究協力金、マイルストン、ロイヤルティを得るハイブリッド型ビジネスモデル",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "本資料の目次が記載されており、「会社概要」「ビジネスモデル」「事業戦略」「事業計画」「事業リスク」「次回開示の予定時期」「補足資料」といった主要な項目とそれぞれの開始ページが示されている",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "ラクオリア創薬の事業領域と収益構造について説明されている",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルは、プラットフォーム型とパイプライン型が融合したハイブリッド型であり、契約一時金、マイルストン、ロイヤルティ、研究協力金といった多様な収益源を持つ",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "ハイブリッド型のビジネスモデルにより、研究段階から契約一時金やマイルストンを獲得し、早期からの収益確保を目指す",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "主なセクションは「要約」「主要経営指標の推移」「業績動向」「事業内容」「ビジネスモデルの概要」「パイプラインの概要」「市場とバリューチェーン」「SW分析」「過去の業績と財務諸表」「ニュース&トピックス」など",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルや投資戦略に変更はない",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容とビジネスモデル",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "収益構造は、契約一時金、マイルストン収入、研究協力金、ロイヤルティ収入から構成",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "M&Aによるビジネスモデル変革とハイブリッド型構築",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "同社はパイプライン型ビジネスモデルに対し、ファイメクス社はプラットフォーム型",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "顧客との関係",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、顧客との関係は長期的なパートナーシップの構築が中心です",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客セグメント",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "同社の顧客セグメントは、創薬を自社で完結できない、あるいは特定の研究開発テーマに外部リソースを求める製薬会社やバイオ企業などです",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "こうしたマッチングにより、同社のノウハウが広く医薬品市場に生かされ、最終的に患者やペットオーナーなど多様なエンドユーザーへ利益をもたらす流れが生まれています",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "導出収益獲得リスクには、良質な開発候補化合物の創出、幅広い顧客ニーズへの対応、プログラム数の確保によるリスク分散、臨床試験実施による成功確率向上と期間短縮で対応",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "テゴプラザンのグローバル展開では、韓国での順調な販売推移、中国でのピロリ菌除菌補助療法が国家保険償還対象薬リストに収載されたことによる売上伸長（年間200億円超期待）、米国でのFDA承認申請と2027年初頭の承認取得見込み（2030年に年間売上500億円期待）、日本でのHK inno.N社へのライセンス許諾による実用化推進（2030年代のロイヤルティ収入の柱期待）、欧州での開発・販売先獲得による「2028年に世界100カ国」達成への貢献、その他地域での販売・承認拡大が挙げられている",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "欧州ではHK inno.N社による開発・販売先の獲得が進むと期待され、2028年に世界100カ国という目標の鍵を握る",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客企業のレポートを掲載・更新",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "この業績推移は、主力の胃酸分泌抑制剤「tegoprazan」の処方拡大に伴う韓国での販売が非常に好調に推移しロイヤルティ収入が伸長したものの、前年同期に計上された一時的なマイルストーン収入の反動減があったことによるものです",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "市場のニーズと技術の方向性を的確に捉えた研究開発が行われているため、テゴプラザンのような次世代型の胃酸分泌抑制剤の開発を成功させ、海外市場にも展開できる製品を生み出しているのです",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "主力となる活動は、新薬候補物質の探索と前臨床・臨床試験の推進、そして製薬会社へのライセンスアウトです",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "ラクオリア創薬が直接的に製品を販売する相手は、最終的には医療現場ではなくライセンス契約先の製薬会社になります",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに製品の発売後はロイヤルティ収入が継続的に発生し、契約により研究協力金などを受け取ることもあります",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "契約一時金やマイルストン収益は研究段階を支える資金源となり、ロイヤルティ収入は製品の市場導入後の安定的なキャッシュフローを生み出します",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした流れが自己強化ループとして機能することで、同社は一つの製品成功だけでなく、複数のパイプラインを同時に拡充するチャンスを得ることができるのです",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "新薬の開発リスクは依然として高いものの、もし追加で複数の製品が上市されれば収益構造の改善が大いに進む可能性があります",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "企業概要と最近の業績株式会社Ｈｅａｒｔｓｅｅｄ【全体の業績】株式会社Ｈｅａｒｔｓｅｅｄは、重症心不全に対する根本的な治療法の確立を目指し、iPS細胞を用いた心筋再生医療等製品の研究開発を展開するバイオベンチャーです",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "ガラス・土石製品",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "石油・石炭製品",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "証券・商品先物取引業",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "ラクオリア創薬の上市製品に関する事業戦略",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "ヒト用医薬品としてテゴプラザン、ペット用医薬品としてグラピプラント、カプロモレリン（ENTYCE、ELURA）の計4製品が上市されている",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "ペット用医薬品は、犬の慢性骨関節炎治療薬GALLIPRANT®が日米欧で販売され、2021年にブロックバスター製品に成長",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの製品からのロイヤルティ収入の拡大を見込む",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "創薬ベンチャーの株主価値は成長性が中心だが、同社は上市製品を持つことで投資回収フェーズにあり、成長性と収益性の両輪で株主価値を高めることを目指す",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "このモデルは、製薬会社等とのライセンス契約締結時に得られる契約一時金、開発の進展や製品発売後の売上達成時に得られるマイルストン、製品発売後の売上高に応じたロイヤルティ、研究を請け負った際に得られる研究協力金で構成され、早期からの収益確保と投資回収を可能にする",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "2028年には米国でのテゴプラザン製品販売に基づくロイヤルティが収益に寄与し始め、事業収益合計4,686百万円を見込む",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "主なカタリストとして、テゴプラザンの米国での承認取得と製品発売、日本での導出契約締結、中国での後期臨床試験の実施、TRPM8遮断薬の臨床試験の進展、グレリン受容体作動薬とIRAK-M分解誘導薬の導出、既存・新規共同研究プログラムの進展、P2X7受容体拮抗薬の開発計画再検討と開発再開などが挙げられている",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "リスクや不確実性には、一般的な業界・市場状況、金利、為替変動といった経済状況に加え、製品（研究開発プログラムおよび化合物）に関連する技術的進歩、特許競合、臨床試験の完了、製品の安全性・効果に関する懸念、規制当局の承認取得、国内外の医療保険制度改革、医療費抑制傾向、政府の法規制、新製品開発の課題などが含まれる",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "本資料に含まれる見通し情報（forward-looking statements）について、不確実性やリスク（金利、為替、規制、臨床試験の進捗、特許競合、製品安全性・効果、医療保険制度変化等）を明記",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "主なセクションとして「2025年12月期ハイライト」「事業計画」「事業戦略」「今後のカタリスト」「組織・人事等」「上市製品・開発パイプラインの状況」を列挙",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年はテゴプラザンのグローバル展開継続と、米国での製品販売に基づくロイヤルティ収益の寄与が開始される",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "2028年はテゴプラザンのグローバル展開が継続し、米国での製品販売が収益に寄与し始める年と見込まれる",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "上市製品・開発パイプラインの状況",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "上市製品および開発パイプラインの状況を示すセクションのタイトルページ",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "ヒト用医薬品としてテゴプラザン、ペット用医薬品としてグラピプラント、カプロモレリン、タイシンザンの4製品を当社発の上市医薬品として紹介",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "各製品の一般名、作用機序、適応症、主な製品名・販売元を一覧で示す",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "当社発の上市医薬品4製品の概要を示す",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "ヒト用医薬品テゴプラザン製品概要",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "ヒト用医薬品テゴプラザンの製品概要",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "製品名はK-CAB®（韓国ほか）、泰欣赞®（中国）等",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は日本を除く地域の権利をHK inno.N社に許諾し、開発進捗に応じたマイルストンと製品売上に応じたロイヤルティを受取る",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "米国ではPPIに対する優位性を確立した世界初のP-CABとして、2027年中の製品発売を目指し、FDA承認申請済（2026年1月）、2027年初頭の承認取得を見込む",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "日本では「起源の地」である日本国内での実用化を推進し、世界第3位の市場（2,500億円）での製品発売を目指し、2030年代のロイヤルティ収入の柱となる見込み",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "ペット用医薬品上市製品概要",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "当ウェブサイトは、サービス向上の目的のためCookieを利用しています",
+    "url": "https://www.raqualia.com/ja/news/news8583345878964695055.html",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "胃食道逆流症治療薬「tegoprazan」や動物用医薬品などの画期的な自社開発パイプラインを多数保有し、研究開発成果を国内外の製薬企業等へライセンスアウト（導出）することで、ロイヤルティ収入やマイルストーン収入を獲得する独自のグローバル創薬ビジネスを展開しています",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "このような価値提案が医療現場やパートナー企業に認められ、ライセンス収入やロイヤルティに結びつく構造が確立されています",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "主力となる活動は、新薬候補物質の探索と前臨床・臨床試験の推進、そして製薬会社へのライセンスアウトです",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "新薬の研究開発サイクルは長期にわたるため、ライセンス契約による収入を確保しながら次の研究に投資を回す必要があるからです",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "また、ペット用医薬品や胃酸分泌抑制剤など、特定の領域で強みを発揮できるプロジェクトに集中し、それを早期に製薬会社へライセンスアウトすることで、研究投資のリスクヘッジと資金確保を両立しています",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、製薬会社とのライセンス契約を通じて製造販売機能を確保し、研究機関や大学との共同研究で基礎科学や新技術の知見を取り入れています",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "同社の医薬品や技術は、主にライセンス契約を結んだ製薬会社を経由して世界各国の医療現場や動物医療分野へ届けられます",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "また、特定地域ですでに販売網を持つ企業へライセンスアウトすることで、スピーディーに海外進出が実現し、収益を確保しながら自社の認知度や評価を高めることができます",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "ラクオリア創薬が直接的に製品を販売する相手は、最終的には医療現場ではなくライセンス契約先の製薬会社になります",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "また、動物薬分野など新規領域を開拓したい企業にとって、ラクオリア創薬が保有する技術や化合物のライセンスは大きな魅力となります",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "同社はライセンス契約を締結するときに契約一時金を受け取り、その後は開発が進むごとにマイルストン収益を得る仕組みになっています",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "こうしたコスト構造を維持しながら、ライセンスアウトによる収益とのバランスを保つことで、長期的に研究開発を継続できる仕組みが形成されています",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "特許を取得した化合物は、製薬会社とのライセンス契約を通じてマイルストンやロイヤルティをもたらし、その収益が次なる研究開発への投資源となるのです",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "結果として、さらなる共同研究やライセンス契約の機会が増え、同社の成長が加速していく構造が生まれています",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "研究開発の進捗やライセンス契約のニュースなどが株価に大きな影響を与えるケースも多く、投資判断には同社の開発 pipeline や提携動向の把握が欠かせません",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "そうした取り組みが実現すれば、ライセンス収入のベースが広がり、研究開発費の先行投資をより安定して行うことができるでしょう",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "このモデルは、製薬会社等とのライセンス契約締結時に得られる契約一時金、開発の進展や製品発売後の売上達成時に得られるマイルストン、製品発売後の売上高に応じたロイヤルティ、研究を請け負った際に得られる研究協力金で構成され、早期からの収益確保と投資回収を可能にする",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "契約面では、導出準備プログラムから毎年1件のライセンス契約、ファイメクスのプラットフォーム事業において毎年1件の共同研究契約を目標とする",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "テゴプラザンのグローバル展開では、韓国での順調な販売推移、中国でのピロリ菌除菌補助療法が国家保険償還対象薬リストに収載されたことによる売上伸長（年間200億円超期待）、米国でのFDA承認申請と2027年初頭の承認取得見込み（2030年に年間売上500億円期待）、日本でのHK inno.N社へのライセンス許諾による実用化推進（2030年代のロイヤルティ収入の柱期待）、欧州での開発・販売先獲得による「2028年に世界100カ国」達成への貢献、その他地域での販売・承認拡大が挙げられている",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "導出済みパイプラインの開発進捗に応じたマイルストン獲得、新規ライセンス契約締結による一時金収入（年1件以上）、子会社ファイメクス株式会社のプラットフォーム事業（アステラス製薬との共同研究継続、新規共同研究契約年1件以上）が業績に寄与する見込み",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "導出に関する主な契約として、EP4拮抗薬、グレリン受容体作動薬、カリウムイオン競合型アシッドブロッカー（テゴプラザン）、P2X7受容体拮抗薬、TRPM8遮断薬、ナトリウムチャネル遮断薬のライセンス契約先と締結日が記載されている",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "導出準備プログラムではHK inno.N社との独占ライセンス契約を締結",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "研究開発ではTRPM8遮断薬の開発が進展、P2X7受容体拮抗薬はサブライセンス先で開発中止",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "3期連続営業黒字、3期累計事業収益111億円、開発候補化合物2個創出、グレリン受容体作動薬/IRAK-M分解誘導薬の導出と臨床試験開始、新たな開発プログラムの前臨床試験開始、導出準備プログラムから毎年1件のライセンス契約、ファイメクスのプラットフォーム事業で毎年1件の共同研究契約を目標としていた",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "ラクオリア/ファイメクスの協働体制による成果、HK inno.N社との共同研究による成果、グレリン受容体作動薬/IRAK-M分解誘導薬の導出と臨床試験開始、新たな開発プログラムの前臨床試験開始、導出準備プログラムから毎年1件のライセンス契約、ファイメクスのプラットフォーム事業で毎年1件の共同研究契約を計画",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "サブライセンス地域の拡大が進む",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "製薬会社等とのライセンス契約締結時に契約一時金、開発進展や製品発売後にマイルストン、製品発売後にロイヤルティを獲得",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年12月期までの目標として、3期連続営業黒字、3期累計事業収益111億円、開発候補化合物2個創出、グレリン受容体作動薬/IRAK-M分解誘導薬の導出と臨床試験開始、毎年1件のライセンス契約、毎年1件の共同研究契約を掲げている",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "日本におけるテゴプラザンのライセンス契約締結を2025年に見込む",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "自社開発からライセンスアウト戦略に変更し、POC取得後に導出する方針に変更",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "弱みとして、創薬モダリティが低分子に偏っていること、マイルストンやロイヤルティ収入がライセンス先の開発進捗に依存し収益コントロールが難しいこと、研究者の専門性による採用・育成の難しさを指摘",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "テゴプラザンの中東・北アフリカ地域におけるサブライセンス地域拡大",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "ラクオリア創薬は、胃酸分泌抑制剤tegoprazanの中東・北アフリカ地域におけるサブライセンス地域を、Tabuk社との契約によりエジプト、スーダン、エチオピア、モロッコ、イエメン、リビアの6カ国に拡大",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "HKイノエン社がTabuk社にライセンスを提供し、同地域での市場浸透を期待",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "タミバロテンのライセンス契約終了",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "テムリック社とSyros社のタミバロテンに関するライセンス契約を終了",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "両社協議の結果、ライセンス契約を終了し、開発販売権はテムリック社に返還された",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "HKイノエン社とのサブライセンス契約により、世界48カ国に進出中",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "導出準備プログラムでは、グレリン受容体作動薬の前臨床試験を完了し、ライセンスアウト交渉中",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "また、日産化学社との独占的ライセンス契約を締結し、神経疾患関連ノウハウを取得",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "契約面では、導出準備プログラムから毎年1件のライセンス契約、ファイメクス社のプラットフォーム事業で毎年1件の共同研究契約を目標に設定",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "、RQ-00000008）をライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC",
+    "pass": 3
+   },
+   {
+    "quote": "AskAt社はArrys Therapeutics社と癌免疫における全世界を対象としたライセンス契約締結を発表しましたのでお知らせします",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC",
+    "pass": 3
+   },
+   {
+    "quote": "導出（ライセンスアウト）：自社が持つ化合物の権利を、契約で他の会社に使わせること",
+    "url": "https://zukaikeizai.com/kaisha/4579/",
+    "pass": 3
+   },
+   {
+    "quote": "同社の株価が高値圏であった2017~2018年ごろに取得した投資家は、大手企業とのライセンスアウトによる契約一時金の獲得など株価回復に直結する短期材料を重視する傾向が強く、構造改革型の施策は評価されにくかったとされる",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E5%86%85%E5%8D%9A%E6%96%87",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E5%86%85%E5%8D%9A%E6%96%87",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "顧客セグメント",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "同社の顧客セグメントは、創薬を自社で完結できない、あるいは特定の研究開発テーマに外部リソースを求める製薬会社やバイオ企業などです",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "事業セグメント",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "事業収益の主な寄与要因は、上市3品の販売ロイヤルティ収入で、連結売上高に占める構成比は約47%と見通し",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "分類は提供物で分け、会計セグメントの分割ではない",
+    "url": "https://zukaikeizai.com/kaisha/4579/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント表なし（単一セグメント）",
+    "url": "https://zukaikeizai.com/kaisha/4579/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "ラクオリア創薬株式会社は、ファイザーの日本研究開発部門を前身とし、イオンチャネルやGタンパク質共役受容体（GPCR）などを標的とした低分子創薬を強みとする創薬バイオベンチャーです",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "特に消化器領域や動物用医薬品分野に強みを持ち、既存の薬剤では十分な効果が得られない症例に対してイノベーティブな選択肢を提示することで高い付加価値を生み出しています",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "また、ペット用医薬品や胃酸分泌抑制剤など、特定の領域で強みを発揮できるプロジェクトに集中し、それを早期に製薬会社へライセンスアウトすることで、研究投資のリスクヘッジと資金確保を両立しています",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、独自の研究プラットフォームや大学・研究機関との連携により、複数のパイプラインを同時進行で育成できる点も強みです",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "これらのリソースを最大限活用して高付加価値の薬剤を生み出すことが、ラクオリア創薬の競争優位を支える大きな要素となっています",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "特に韓国や中国などアジアでの成功を背景に、中東や北アフリカ、中南米といった新興国市場へ積極展開していることは大きな強みといえます",
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "pass": 3
+   },
+   {
+    "quote": "この提携は、テゴプラザンの日本国内での事業化をHK inno.N社に託し、両社の強みを活かした共同研究を通じて、日本発のイノベーションを世界の患者に届けることを目的としている",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "これは、理論上10億以上の組み合わせを自動合成し、毎週1,500化合物を合成可能で、高い生産性と新規E3結合分子を見出すスクリーニングアプローチ、自社オリジナルの新規E3リガーゼ結合分子、経口治療薬の創出力といった競争優位性を持つ",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "両社の強みを活かした共同研究により、世界の患者に早く届ける",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "創薬研究基盤｜RaPPIDSTMの競争優位性",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "RaPPIDSTMの競争優位性は、①高い生産性（週1,500化合物合成、ハイスループット評価）、②新規E3結合分子のスクリーニングアプローチ（独自手法で優れた化合物創出）、③自社オリジナルの新規E3リガーゼ結合分子（複数同定済み、組織特異的標的分解可能）、④経口治療薬の創出力（TPDの低バイオアベイラビリティを克服）にあり",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "強みと弱み（SW分析）",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "強みとして、製薬会社基準の研究プロセスに注力、数百件の特許保有、膨大な化合物ライブラリーとSCARAロボットシステムによる効率的な候補選定を挙げる",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率は9.6%（前年比2.7ポイント上昇）",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "イオンチャネル創薬の技術的特徴と競争優位",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "同社は低分子創薬が強みだが、新規モダリティへの挑戦を進める",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "業界内他社の直近通期実績を比較表で示し、売上高、営業利益率、ROE、研究開発費、営業CF、現預金、ネットデット等の財務指標を掲載",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "同社は売上高3,108百万円、営業利益率-6.9%、ROE-8.5%と赤字だが、研究開発費1,704百万円を投入し、現預金3,340百万円を保有",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "SW分析：同社の強みと競争優位性",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "同社の強みとして、製薬会社基準の研究プロセスに基づくイオンチャネル創薬に注力している点を挙げ、前身のファイザー社中央研究所のノウハウを継承し、数十万化合物のライブラリーから候補品を次々と創出している",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "創薬ベンチャーとしては、低分子医薬品の研究開発に携わるパイプライン型であり、探索研究から前期臨床段階に強みを持っています",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率の推移",
+    "url": "https://zukaikeizai.com/kaisha/4579/",
+    "pass": 3
+   },
+   {
+    "quote": "ラクオリア創薬（4579）：営業利益率の推移",
+    "url": "https://zukaikeizai.com/kaisha/4579/",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率12.5%は、図鑑にある「製薬」の会社102社の中で上から18番目",
+    "url": "https://zukaikeizai.com/kaisha/4579/",
+    "pass": 3
+   },
+   {
+    "quote": "インタビューでは、これまでのキャリアと共に歩んできた会社の強み、今後の戦略や未来のビジョンなどについてお話ししています",
+    "url": "https://www.raqualia.com/ja/news/news8583345878964695055.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "新薬開発で注目を集めるラクオリア創薬のビジネスモデルと成長戦略を... — Feb 4, 2025 · 未来展望と注目ポイント ラクオリア創薬は海外での販売パートナーを拡大しつつ、新薬パイプラインの充実を進めています。 今後はペット用医薬品を含む複数の領域で、新規候補化合物を早期開発に乗せることが期待されます。",
+    "url": "https://consovation.com/新薬開発で注目を集めるラクオリア創薬のビジネ/",
+    "pass": 3
+   },
+   {
+    "quote": "ラクオリア創薬株式会社 中期経営計画 — EDINET DB — 新薬開発の長期的なプロセスにおいて、同社は探索研究から前期臨床試験までを事業領域とする。 医薬品候補物質の研究開発成果の導出だけでなく、共同研究の契約一時金、研究協力金、マイルストン等を得るハイブリッド型のビジネスモデルを採用。",
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "ラクオリア創薬株式会社 - RaQualia Pharma Inc. — 真に必要とされる新薬を創出するため、サイエンスに基づいた創薬に取り組んでいます。 ラクオリア創薬の豊富な開発化合物をご覧ください。 これまでに上市された医薬品は、世界中に届き始めています。",
+    "url": "https://www.raqualia.com/ja/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "ラクオリア創薬（4579）のビジネスモデルと成長戦略 - 経営陣インタビ... — ラクオリア創薬（4579）の経営陣に取材。ビジョン、成長ストーリー、収益構造と資本効率、リスクへの向き合い方、ESGについて経営陣の見解を整理しています。",
+    "url": "https://envalith.com/ja/companies/4579/management-voice",
+    "pass": 3
+   },
+   {
+    "quote": "ラクオリア創薬｜独自の創薬技術によるライセンスアウトモデルとグロ... — Aug 9, 2026 · 独自に創出した開発候補の知的財産権を製薬企業へライセンスアウトすることで収益を獲得するビジネスモデルを基本としています。 研究開発の範囲は、探索研究から前臨床試験、初期臨床試験までを主たる事業領域としています。",
+    "url": "https://stock-insights.net/articles/4579-snapshot-2026q3",
+    "pass": 3
+   },
+   {
+    "quote": "ラクオリア創薬 - Wikipedia — ラクオリア創薬 ... ラクオリア創薬株式会社 （ラクオリアそうやく、 英: RaQualia Pharma Inc.）は、 愛知県 名古屋市 中村区 に本社を置く 創薬 系 バイオベンチャー。",
+    "url": "https://ja.wikipedia.org/wiki/ラクオリア創薬",
+    "pass": 3
+   },
+   {
+    "quote": "ラクオリア創薬（4579）の事業内容・業績｜平均年収756万円・売上40億... — Oct 16, 2026 · ラクオリア創薬は、何で稼いでいる？ 2025年12月期の事業収益は40億円。 英文社名は「RaQualia Pharma Inc.」。 事業収益40億円前期比 +29% 営業利益5億円前期から黒字に 純利益3億円前期から黒字に 営業利益率12.5%前期 -6.5%",
+    "url": "https://zukaikeizai.com/kaisha/4579/",
+    "pass": 3
+   },
+   {
+    "quote": "ラクオリア創薬（4579）事業内容 20年推移｜モート先生 — 事業の内容 ラクオリア創薬グループは、医薬品の研究開発を行う創薬ベンチャー企業です。 主に、新しい薬の候補（開発化合物）を自社で作り、その特許権を製薬会社に提供（ライセンスアウト）することで収益を得ています。",
+    "url": "https://moat-sensei.com/stocks/4579/business",
+    "pass": 3
+   },
+   {
+    "quote": "事業紹介 | 企業情報 | ラクオリア創薬株式会社 — 新薬の研究開発には多大な投資が必要ですが、現在では、創薬ベンチャーが生み出した新薬の種を製薬企業にライセンスアウト（導出）し、その後の開発や製造販売を製薬会社が行うという分業が主流です。",
+    "url": "https://www.raqualia.com/ja/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "中期経営計画 | IRライブラリ | IR情報 | ラクオリア創薬株式会社 — 事業計画及び成長可能性に関する事項 2026年12月期 2026.02.13 事業計画および成長可能性に関する事項（2026年12月期～2028年12月期）（PDF:5,119KB）",
+    "url": "https://www.raqualia.com/ja/ir/library/plan.html",
+    "pass": 3
+   },
+   {
+    "quote": "武内博文 - Wikipedia — ラクオリア創薬株式会社 代表取締役社長（2021年–2024年） 就任の経緯 2021年3月、株主提案が 株主総会 で可決されたことを受け、代表取締役社長に就任した [4]。 同年4月には、株主提案の経緯や就任後の姿勢について本人インタビューが掲載された [1]。",
+    "url": "https://ja.wikipedia.org/wiki/武内博文",
+    "pass": 3
+   },
+   {
+    "quote": "業界毎特集記事－ラクオリア創薬株式会社 元最高経営責任者 代表取締...武内博文 - Wikipediaラクオリア創薬株式会社 の企業情報｜社長\"直結\"メディア『社長名鑑』グローバルニュースサイト「The Worldfolio」に、代表取締役 須藤正樹...ラクオリア創薬（4579）のビジネスモデルと成長戦略 - 経営陣インタビ... — 世界的な製薬企業、ファイザー株式会社中央研究所の閉鎖を受けて設立されたラクオリア創薬株式会社。 同社は、新薬の「種」を生み出す圧倒的な研究開発力を武器に、独自のビジネスモデルで持続的な成長を続けている。 ラクオリア創薬株式会社 代表取締役社長（2021年–2024年） 就任の経緯 2021年3月、株主提案が 株主総会 で可決されたことを受け、代表取締役社長に就任した [4]。 同年4月には、株主提案の経緯や就任後の姿勢について本人インタビューが掲載された",
+    "url": "https://shachomeikan.jp/industry_article/5426",
+    "pass": 3
+   },
+   {
+    "quote": "ラクオリア創薬株式会社 の企業情報｜社長\"直結\"メディア『社長名鑑』グローバルニュースサイト「The Worldfolio」に、代表取締役 須藤正樹...ラクオリア創薬（4579）のビジネスモデルと成長戦略 - 経営陣インタビ... — 「ラクオリア創薬株式会社」の会社概要、社長のインタビューを掲載しています。 社長名鑑に掲載しているインタビュー動画や記事を見て、社長に直接メッセージを送ったり、右腕に立候補したりすることが可能です。 Aug 18, 2025 · このたび、グローバルニュースサイト「The Worldfolio（ワールドフォリオ）」に、当社代表取締役 須藤正樹のインタビュー記事が掲載されましたので、お知らせいたします。 ラクオリア創薬（4579）の経営陣に取材。ビジョン、成長ストーリー、収益構造と資本効率、リスクへの向き合い方、ESGについて経営陣の見解を整理しています。",
+    "url": "https://shachomeikan.jp/corporations/25585",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.riem.nagoya-u.ac.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.riem.nagoya-u.ac.jp/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.riem.nagoya-u.ac.jp/en/about.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.riem.nagoya-u.ac.jp/images/pdf/brochure2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.riem.nagoya-u.ac.jp/images/pdf/brochure2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.riem.nagoya-u.ac.jp/images/pdf/brochure2024.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.riem.nagoya-u.ac.jp/images/pdf/brochure2023.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.riem.nagoya-u.ac.jp/images/pdf/brochure2022.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.riem.nagoya-u.ac.jp/images/pdf/brochure2021.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.riem.nagoya-u.ac.jp/images/pdf/brochure2020.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.riem.nagoya-u.ac.jp/images/pdf/brochure2019.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://consovation.com/%E6%96%B0%E8%96%AC%E9%96%8B%E7%99%BA%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%82%8B%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zukaikeizai.com/kaisha/4579/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E5%86%85%E5%8D%9A%E6%96%87",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.raqualia.com/ja/news/news8583345878964695055.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ラクオリア創薬",
+   "results": [
+    "https://www.raqualia.com/ja/index.html",
+    "https://www.nikkei.com/nkd/company/?scode=4579",
+    "https://www.raqualia.com/ja/company/outline.html",
+    "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2%E5%89%B5%E8%96%AC",
+    "https://x.com/RaQualia_Offic",
+    "https://ja.wikipedia.org/wiki/ラクオリア創薬",
+    "https://finance.yahoo.co.jp/quote/4579.T",
+    "https://finance.yahoo.co.jp/quote/4579.T/profile",
+    "https://kabutan.jp/stock/?code=4579",
+    "https://www.reuters.com/jp/markets/companies/4579.T/"
+   ]
+  },
+  {
+   "query": "株式会社ラクオリア創薬",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ラクオリア創薬",
+    "https://ja.wikipedia.org/wiki/武内博文",
+    "https://www.raqualia.com/ja/index.html",
+    "https://www.raqualia.com/ja/company/outline.html",
+    "https://finance.yahoo.co.jp/quote/4579.T/profile",
+    "https://www.riem.nagoya-u.ac.jp/4/rcrc/introduction.html",
+    "https://shikiho.toyokeizai.net/stocks/4579/corporate"
+   ]
+  },
+  {
+   "query": "ラクオリア創薬 ビジネスモデル",
+   "results": [
+    "https://consovation.com/新薬開発で注目を集めるラクオリア創薬のビジネ/",
+    "https://edinetdb.jp/company/E25269/midterm-plans/",
+    "https://www.raqualia.com/ja/index.html",
+    "https://envalith.com/ja/companies/4579/management-voice",
+    "https://stock-insights.net/articles/4579-snapshot-2026q3",
+    "https://www.raqualia.com/ja/company/business.html",
+    "https://stock-insights.net/articles/4579-snapshot-2026q2"
+   ]
+  },
+  {
+   "query": "ラクオリア創薬 決算説明資料",
+   "results": []
+  },
+  {
+   "query": "ラクオリア創薬 事業系統図",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ラクオリア創薬",
+    "https://zukaikeizai.com/kaisha/4579/",
+    "https://moat-sensei.com/stocks/4579/business",
+    "https://www.raqualia.com/ja/company/business.html",
+    "https://www.raqualia.com/ja/ir/library/plan.html",
+    "https://jigyou.kabu-trendpro.com/company.php?ticker=4579",
+    "https://data.swcms.net/file/raqualia-corp/ja/news/auto_20250214575870/pdfFile.pdf"
+   ]
+  },
+  {
+   "query": "ラクオリア創薬 社長 インタビュー",
+   "results": [
+    "https://ja.wikipedia.org/wiki/武内博文",
+    "https://www.raqualia.com/ja/news/news8583345878964695055.html",
+    "https://shachomeikan.jp/industry_article/5426",
+    "https://shachomeikan.jp/corporations/25585",
+    "https://envalith.com/ja/companies/4579/management-voice",
+    "https://toyokeizai.net/articles/-/876599",
+    "https://www.raqualia.com/ja/news/news6896109261313802116.html"
+   ]
+  }
+ ],
+ "missing": {}
+}

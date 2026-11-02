@@ -1,0 +1,1585 @@
+{
+ "name": "日本マクドナルドホールディングス",
+ "aliases": [],
+ "context": "証券コード2702／小売業／スタンダード（内国株式）／2025.12期 売上高416,602百万円 営業利益率12.8%",
+ "researched_at": "2026-11-02T19:44:49.462209+00:00",
+ "official_url": "https://www.mcd-holdings.co.jp/",
+ "identified_by": "search:yahoo_jp:日本マクドナルドホールディングス",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立年月日",
+    "value": "1971年(昭和46年)05月01日",
+    "url": "https://www.mcd-holdings.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "会社設立（現",
+    "value": "日本マクドナルドホールディングス株式会社）",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "連結社員数",
+    "value": "2,808名(2025年12月31日現在)",
+    "url": "https://www.mcd-holdings.co.jp/company/profile/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "317,695 352,300 381,989 405,477 416,602",
+    "url": "https://www.mcd-holdings.co.jp/ir/summary/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "416,602",
+    "url": "https://www.mcd-holdings.co.jp/ir/summary/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "約3,820億円 （前期比+8.4%） 増収を継続",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "label": "全店売上高",
+    "value": "約7,777億円 過去最高（直営＋加盟店の合計）",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "IR情報配信サービスのご登録",
+    "url": "https://www.mcd-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報・キャンペーン情報",
+    "url": "https://www.mcd-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "IR情報配信サービスのご登録",
+    "url": "https://www.mcd-holdings.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスのご登録",
+    "url": "https://www.mcd-holdings.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "IR情報配信サービスのご登録",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "マクドナルド「世界子どもの日」チャリティーキャンペーンにて、商品売上の一部と店頭設置の募金箱による募金を財団法人ドナルド・マクドナルド・ハウスへ寄付",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "第14回優良フードサービス事業者等表彰事業",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "品質、サービス、新商品などを総合的に研究・検証可能な総合研究施設「スタジオM」を新設",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「ニンテンドーDS®」を活用したマクドナルドの新サービス「マックでDS」全国で導入開始",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「クォーター パウンダー®」日本上陸1周年記念して、新商品「クォーター パウンダー® ベーコン＆バーベキュー」と「クォーター パウンダー® レタス＆トマト」を期間限定販売",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "商品ご購入のお客様に新聞朝刊をご提供",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "全国17万人のマクドナルドクルーから選ばれた5人がロンドンで最高のサービスを提供",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "安心・安全な商品を提供するための取り組みを強化",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "商品の加工国、原産国の一層詳しい情報の公開と品質管理体制を追加対応策で強化",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "5月25日（月）より、野菜をよりお楽しみいただける新商品やより分かりやすい価格設定やメニュー表を導入",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ウェブサイトを大幅リニューアルし、各商品に関する詳細情報を公開",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "商品パッケージにはサイトへのアクセスが可能な「QRコード」をより大きく分かりやすく配置",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "6月1日からは「楽天スーパーポイント」、8月1日（火）からは「nanaco」、「Suica」等の電子マネーを取り扱いをスタートさせ、11月20日（月）にはクレジットカードによる決済サービスを導入",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「森永ミルクキャラメル」とのコラボレーション商品「マックフルーリー® 森永ミルクキャラメル」を5月31日（水）から期間限定販売",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のさらなる利便性の向上を目指し、6月29日（木）から東京都内33店舗でデリバリーサービス「UberEATS（ウーバー イーツ）」を導入",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "26年目にして初のリニューアル！「二代目月見バーガー」を9月6日（水）から期間限定販売し、ダブルビーフの新商品「月食バーガー」を9月29日（金）「肉の日」から“数量限定”販売",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "定番バーガー商品がプラス100円でパティが倍に！！",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「ビッグマック®」シリーズに、海外で好評なあの商品が初登場！",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "マクドナルドの次世代サービス「未来型店舗体験」",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "新商品「赤辛てりやき」「黒胡椒てりやき」に加え「親子てりやき」も復活",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1991年に誕生して以降、秋の風物詩として人気商品に",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "レギュラー化から1年、2商品で累計8,000万食突破！",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "歴代＆今大会をイメージした、熱狂先取りの新商品バーガー3種を",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "マクドナルド独自の宅配サービス「マックデリバリーサービス」機能を統合",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "IR情報配信サービスのご登録",
+    "url": "https://www.mcd-holdings.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスのご登録",
+    "url": "https://www.mcd-holdings.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "IR情報配信サービスのご登録",
+    "url": "https://www.mcd-holdings.co.jp/ir/summary/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスのご登録",
+    "url": "https://www.mcd-holdings.co.jp/ir/summary/",
+    "pass": 1
+   },
+   {
+    "quote": "IR情報配信サービスのご登録",
+    "url": "https://www.mcd-holdings.co.jp/ir/library_result/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスのご登録",
+    "url": "https://www.mcd-holdings.co.jp/ir/library_result/",
+    "pass": 1
+   },
+   {
+    "quote": "IR情報配信サービスのご登録",
+    "url": "https://www.mcd-holdings.co.jp/ir/sales_report/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスのご登録",
+    "url": "https://www.mcd-holdings.co.jp/ir/sales_report/",
+    "pass": 1
+   },
+   {
+    "quote": "IR情報配信サービスのご登録",
+    "url": "https://www.mcd-holdings.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品取引業者",
+    "url": "https://www.mcd-holdings.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスのご登録",
+    "url": "https://www.mcd-holdings.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "IR情報配信サービスのご登録",
+    "url": "https://www.mcd-holdings.co.jp/ir/schedule/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスのご登録",
+    "url": "https://www.mcd-holdings.co.jp/ir/schedule/",
+    "pass": 1
+   },
+   {
+    "quote": "IR情報配信サービスのご登録",
+    "url": "https://www.mcd-holdings.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスのご登録",
+    "url": "https://www.mcd-holdings.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "IR情報配信サービスのご登録",
+    "url": "https://www.mcd-holdings.co.jp/ir/koukoku/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスのご登録",
+    "url": "https://www.mcd-holdings.co.jp/ir/koukoku/",
+    "pass": 1
+   },
+   {
+    "quote": "IR配信サービスへのご登録|IR情報|McDonald's",
+    "url": "https://www.mcd-holdings.co.jp/ir/irmail/",
+    "pass": 1
+   },
+   {
+    "quote": "IR情報配信サービスのご登録",
+    "url": "https://www.mcd-holdings.co.jp/ir/irmail/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスのご登録",
+    "url": "https://www.mcd-holdings.co.jp/ir/irmail/",
+    "pass": 1
+   },
+   {
+    "quote": "IR情報配信サービスのご登録",
+    "url": "https://www.mcd-holdings.co.jp/special-notice/coupon_forgery/",
+    "pass": 1
+   },
+   {
+    "quote": "IR情報配信サービスのご登録",
+    "url": "https://www.mcd-holdings.co.jp/ir/individual/shareholder_benefits/",
+    "pass": 1
+   },
+   {
+    "quote": "証券会社の貸株サービスをご利用されている場合",
+    "url": "https://www.mcd-holdings.co.jp/ir/individual/shareholder_benefits/",
+    "pass": 1
+   },
+   {
+    "quote": "デリバリーサービス、モバイルオーダー、セルフオーダーキオスク（※タッチパネル式の注文端末）ではご利用いただけません",
+    "url": "https://www.mcd-holdings.co.jp/ir/individual/shareholder_benefits/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗・時間帯により一部販売していない商品がある場合がございます",
+    "url": "https://www.mcd-holdings.co.jp/ir/individual/shareholder_benefits/",
+    "pass": 1
+   },
+   {
+    "quote": "お引換えできる商品は、都合により事前にお知らせすることなく変更する場合がございます",
+    "url": "https://www.mcd-holdings.co.jp/ir/individual/shareholder_benefits/",
+    "pass": 1
+   },
+   {
+    "quote": "セットのバーガー類にお選びいただける商品（期間限定商品、朝マック商品",
+    "url": "https://www.mcd-holdings.co.jp/ir/individual/shareholder_benefits/",
+    "pass": 1
+   },
+   {
+    "quote": "セットのサイドにお選びいただける商品（期間限定商品、朝マック商品",
+    "url": "https://www.mcd-holdings.co.jp/ir/individual/shareholder_benefits/",
+    "pass": 1
+   },
+   {
+    "quote": "セットのドリンクにお選びいただける商品いずれかおひとつとお引換えいただけます",
+    "url": "https://www.mcd-holdings.co.jp/ir/individual/shareholder_benefits/",
+    "pass": 1
+   },
+   {
+    "quote": "マックカフェバイバリスタ販売商品は対象外になります",
+    "url": "https://www.mcd-holdings.co.jp/ir/individual/shareholder_benefits/",
+    "pass": 1
+   },
+   {
+    "quote": "※2 一部の商品ではご利用になれない場合がございます",
+    "url": "https://www.mcd-holdings.co.jp/ir/individual/shareholder_benefits/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "店舗情報・メニュー等はこちらから",
+    "url": "https://www.mcd-holdings.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "日本で初めてのフランチャイズ契約店となる牧港店（沖縄県）をオープン",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "日本で初めての本格的なドライブスルー方式を採用した店舗をオープン（東京都杉並区「環八高井戸店」）",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "国内のハンバーガー業界の基礎を築き、ファーストフード店舗の経営方式の確立、食生活向上の寄与等の功績により、外食産業部門で農林水産大臣賞を受賞",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "愛知万博開催期間中、愛知県内の全店舗でごみ削減を呼びかける「マクドナルド・エコキャンペーン」を実施",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ドライブスルー店舗を中心に24時間営業を強化",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "東京23区内店舗より順次導入拡大",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "World Baseball Classic™の日本代表オフィシャルパートナーに決定",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "4月29日（水・祝）に1日あたりの店舗売上記録を更新（1,245万円）",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "神奈川県内で全面禁煙（一部店舗は完全分煙）",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年3月1日（月）より県内298店舗で開始",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「ポケモンフラッグシップ店舗」期間限定オープン",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "マックカフェ®「スペシャリティコーヒー」が全国約2,500店舗に導入完了",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "日本初導入となる新世代デザイン・ドライブスルー店舗 野々市新庄店（石川県）をオープン",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "日本新聞協会との共同キャンペーンを47都道府県各1店舗で実施",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "全国のマクドナルド店舗で300円以上を募金した方に「スマイルソックス」を提供",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様と店舗がつながるスマートフォンアプリ「KODO」を4月21日（火）より国内全店舗に拡充",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "12月1日（火）より新潟県内のマクドナルド店舗にて、日本マクドナルド史上最多となる“48ピース入りチキンマックナゲット®”を期間限定販売",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "6月15日（水）から全国のマクドナルド店舗で期間限定販売",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「Pokémon GO」日本マクドナルド単独ローンチパートナーシップ締結",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "マクドナルド「オリンピック・チャンピオン・クルー」日本代表、オリンピック・ビレッジの特別店舗で活躍",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗でのさらなる利便性向上のため、3月1日（水）「dポイント」の取り扱い開始",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のさらなる利便性の向上を目指し、6月29日（木）から東京都内33店舗でデリバリーサービス「UberEATS（ウーバー イーツ）」を導入",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1月15日（月）から、Sサイズ150円～で全国の店舗でご提供開始",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2月23日（金）からハッピーセット®のおもちゃリサイクル「ハッピーりぼーん」プロジェクトを全国の店舗で実施",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "6月27日（水）から「FSC認証」を取得したトレイマットを、全国約2,900店舗に順次導入",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "※既存店売上高は、少なくとも13ヵ月以上開店している店舗を対象店舗として、その店舗の売上高を当年と前年それぞれ合計して比較したものです",
+    "url": "https://www.mcd-holdings.co.jp/ir/sales_report/",
+    "pass": 1
+   },
+   {
+    "quote": "「株主ご優待券」の非正規品は、いかなる事情であってもマクドナルドの店舗でご利用いただくことはできません",
+    "url": "https://www.mcd-holdings.co.jp/special-notice/coupon_forgery/",
+    "pass": 1
+   },
+   {
+    "quote": "日本国内のマクドナルド店舗でご利用いただけます",
+    "url": "https://www.mcd-holdings.co.jp/ir/individual/shareholder_benefits/",
+    "pass": 1
+   },
+   {
+    "quote": "（一部ご利用いただけない店舗がございます",
+    "url": "https://www.mcd-holdings.co.jp/ir/individual/shareholder_benefits/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗・時間帯により一部販売していない商品がある場合がございます",
+    "url": "https://www.mcd-holdings.co.jp/ir/individual/shareholder_benefits/",
+    "pass": 1
+   },
+   {
+    "quote": "社長のトーマス・コウがチャリティ活動「青いマックの日」に店舗へ訪問しました",
+    "url": "https://www.mcd-holdings.co.jp/ir/individual/shareholder_benefits/",
+    "pass": 1
+   },
+   {
+    "quote": "マクドナルドのビジネスモデル完全解説｜フランチャイズと不動産で稼ぐ仕組み",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "を、フランチャイズと不動産という二つの軸から解き明かし、その強み・収益構造・競争戦略を分解",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "店舗の大半をフランチャイズ（加盟店）で運営し、本部は「ロイヤリティ」と「賃料（不動産）」を主な収益源とする仕組み",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "約40,000店舗",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "約93%がフランチャイズ店",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、本部がフランチャイズから得る収入のうち",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "フランチャイズと不動産を組み合わせ、加盟店の売上の浮き沈みに関わらず、安定した収益が入り続ける仕組み",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、マクドナルドとはどんな会社かを押さえたうえで、「不動産業」と呼ばれる収益構造、フランチャイズの強み、コストリーダーシップとブランド戦略、マーケティングとイノベーションへと進み、最後に「中小企業が活かせる5つの本質」と「よくある質問」で締めくくります",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "彼はこの仕組みをフランチャイズによって全米、そして全世界へと広げていきました（その創業の物語は、映画『ファウンダー ハンバーガー帝国のヒミツ』にも描かれています）",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "現在では、世界100カ国以上に約40,000店舗を展開する、ファストフードの代名詞ともいえる存在です",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "日本においても約2,900店舗を構え、中国に次ぐアジア有数の市場となっています",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "※出典：日本マクドナルドホールディングス「2023年12月期 決算」、店舗数は同社公表値",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "マクドナルドの店舗の約93%は、本部直営ではなくフランチャイズ（加盟店）が運営しています",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "「フランチャイズという仕組みを動かすこと」から多くの収益を得ている",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "彼は「本部が店舗用地を確保し、加盟店に貸し出す」という不動産モデルを考案し、専門の不動産会社（McDonald’s Franchise Realty Corp.）まで設立します",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "店舗を使うための",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "McDonald’sの年次報告書（Form 10-K）によれば、本部がフランチャイズから得る収入のうち、",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "本部が直接運営する店舗の売上",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "マクドナルドの強み｜フランチャイズ×不動産はなぜ強いのか",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "マクドナルドの強みは、フランチャイズと不動産を掛け合わせた、この収益構造の堅牢さにあります",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "利害が一致したパートナーシップ",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "直営・一般的なフランチャイズと比べると、マクドナルド型モデルの特徴が際立ちます",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "フランチャイズで拡大スピードを得ながら、不動産で収益を底支えする",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "ゴールデンアーチ（金色のM）のロゴ、統一された店舗デザイン、変わらない定番メニュー",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーの成功を自社の成功にする",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "フランチャイズオーナー募集",
+    "url": "https://www.mcdonalds.co.jp/company/outline/kessan/",
+    "pass": 3
+   },
+   {
+    "quote": "ハッピーセット 本・おもちゃ紹介",
+    "url": "https://www.mcdonalds.co.jp/company/outline/kessan/",
+    "pass": 3
+   },
+   {
+    "quote": "フランチャイズ社員採用",
+    "url": "https://www.mcdonalds.co.jp/company/outline/kessan/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "1971年(昭和46年)05月01日",
+    "url": "https://www.mcd-holdings.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革・歴史|企業情報|McDonald's",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年3月1日（月）より県内298店舗で開始",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年8月度、月間の全店売上高で過去最高を達成（513億9,200万円）",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年11月15日（木）からリサイクルトレイ約10万枚を順次全店舗に導入",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "令和元年度グリーン物流パートナーシップ会議「特別賞」を受賞",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1991年に誕生して以降、秋の風物詩として人気商品に",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2002年 アジアの興奮！「こく旨かるびマック」",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年 ブラジルの衝撃！「ワイルドビーフバーガー オニオンリング＆チーズ」",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年 待望のカタール！「ケバブ風チキンバーガー」",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月31日現在",
+    "url": "https://www.mcd-holdings.co.jp/ir/summary/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年1月1日から2025年12月31日まで",
+    "url": "https://www.mcd-holdings.co.jp/ir/summary/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月30日現在",
+    "url": "https://www.mcd-holdings.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度の配当につきましては、1株当たり年間64円を想定しております",
+    "url": "https://www.mcd-holdings.co.jp/ir/individual/shareholder_benefits/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年12月期",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年9月",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年2月",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1月",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年8月",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年7月",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年5月",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年4月",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年2月",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年1月",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年12月",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度から2027年度を対象とする中期経営計画は以下の通りです",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=1916&brand=74&data=483445&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度から2027年度を対象とする中期経営計画の詳細は、以下をご参照ください",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=1916&brand=74&data=483445&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度は、分析・評価を第三者機関を利用して行い、2025年度の取締役会について、取締役会全体として、その役割・責務を実効性をもって果",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=1916&brand=74&data=483445&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度は、更なる取締役会の機能強化に向けて、中長期的な課題に関する議論や内部統制に関する議論、サス",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=1916&brand=74&data=483445&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度における、連結報酬等の総額１億円以上の役員としては、代表取締役トーマス・コウ氏が該当いたします",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=1916&brand=74&data=483445&filename=pdf_file.pdf",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "商品ご購入のお客様に新聞朝刊をご提供",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様と店舗がつながるスマートフォンアプリ「KODO」を4月21日（火）より国内全店舗に拡充",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のさらなる利便性の向上を目指し、6月29日（木）から東京都内33店舗でデリバリーサービス「UberEATS（ウーバー イーツ）」を導入",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗でのお客様からのあたたかいご支援に加え、芸能人やスポーツ選手など、多くの著名人が出品する「チャリティオークション」も開催し、募金総額は44,813,100円に",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様と店舗がつながるアプリ「KODO」",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "お寄せいただいたお客様の声が累計1,200万件を突破",
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様、ならびに株主の皆様にはご心配をおかけいたしますが、何卒ご理解とご協力を賜りますよう、よろしくお願い申し上げます",
+    "url": "https://www.mcd-holdings.co.jp/special-notice/coupon_forgery/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客一人ひとりのデータを活かして、来店頻度を高める",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "：取引先や加盟者と利害を一致させ、共に成長する関係を築く",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様相談窓口",
+    "url": "https://www.mcdonalds.co.jp/company/outline/kessan/",
+    "pass": 3
+   },
+   {
+    "quote": "）は、株主の皆様やお客様をはじめ、地",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=1916&brand=74&data=483445&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・お客様のニーズは多種多様であり、目まぐるしく変化し続けています",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=1916&brand=74&data=483445&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "この変化の時代において私たちがお客様のご要望に応え続けるには、組",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=1916&brand=74&data=483445&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "お客様だけではなく、従業員、そして地域の皆さまに笑顔になっていただくことがマクドナルドの存在意義です",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=1916&brand=74&data=483445&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、フランチャイジー店舗を含む全てのマクドナルドレストランにおいて、食の安全・安心を徹底し、お客様に利便性と最高のクオリ",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=1916&brand=74&data=483445&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、当社グループは、株主の皆様やお客様をはじめ、地域社会、従業員、フランチャイジー、サプライヤー等の全てのステークホルダーと良好な",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=1916&brand=74&data=483445&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、株主の皆様やお客様をはじめ、地域社会、従業員、フランチャイジー、サプライヤー等の全てのステークホルダーと良好な関係",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=1916&brand=74&data=483445&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "A.当社および当社の子会社を主要な取引先とする者(注1)又はその業務執行者（注2）",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=1916&brand=74&data=483445&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "B.当社グループの主要な取引先(注3)又はその業務執行者",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=1916&brand=74&data=483445&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1.当社グループを主要な取引先とする者とは、直前事業年度における当社グループへの当該取引先の取引額が100百万円若しくは当該取引先グ",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=1916&brand=74&data=483445&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3当社グループの主要な取引先とは、以下のいずれかに該当する者をいう",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=1916&brand=74&data=483445&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "①当社グループの取引先であって、直前事業年度における当社グループの当該取引先との取引額が当社グループの連結売上高の２％を超える",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=1916&brand=74&data=483445&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、独立社外取締役・監査役には年初のフランチャイジー・取引先も含めた経営説明会「キックオフミーティン",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=1916&brand=74&data=483445&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "d 上場会社を主要な取引先とする者又はその業務執行者",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=1916&brand=74&data=483445&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "e 上場会社の主要な取引先又はその業務執行者",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=1916&brand=74&data=483445&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "h 上場会社の取引先（d、e及びｆのいずれにも該当しないもの）の業務執行者（本人のみ）",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=1916&brand=74&data=483445&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "f 上場会社を主要な取引先とする者又はその業務執行者",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=1916&brand=74&data=483445&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "g 上場会社の主要な取引先又はその業務執行者",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=1916&brand=74&data=483445&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "j 上場会社の取引先（f、g及びhのいずれにも該当しないもの）の業務執行者（本人のみ）",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=1916&brand=74&data=483445&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、新規の取引先と取引を開始するにあたり、事前にコンプライアンスチェックを行い、取引の相手方等が反社会的勢力に該当しないことについ",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=1916&brand=74&data=483445&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "マクドナルドは、「おいしさと笑顔を地域の皆さまに」をパーパスに掲げ、年間延べ約14億人のお客様をお迎えしています",
+    "url": "https://www.mcdonalds.co.jp/sustainability/people/leader/",
+    "pass": 3
+   },
+   {
+    "quote": "日本全国の老若男女、さまざまなお客様に最高の店舗体験をご提供するためには、私たち自身が多様性に富んだチームであることが不可欠です",
+    "url": "https://www.mcdonalds.co.jp/sustainability/people/leader/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、Z世代のお客様のニーズは、長く働いているベテランクルーよりも若手のクルーの方がより深く理解できるかもしれません",
+    "url": "https://www.mcdonalds.co.jp/sustainability/people/leader/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、人生経験の豊富なシニアのクルーならではのサービスをお求めのお客様もいるはずです",
+    "url": "https://www.mcdonalds.co.jp/sustainability/people/leader/",
+    "pass": 3
+   },
+   {
+    "quote": "多様性があるからこそ、多種多様なお客様のご要望に応えることができるのです",
+    "url": "https://www.mcdonalds.co.jp/sustainability/people/leader/",
+    "pass": 3
+   },
+   {
+    "quote": "これからさらにマクドナルドのブランド価値を高め、より多くのお客様にマクドナルドを好きになってもらうこと",
+    "url": "https://www.mcdonalds.co.jp/sustainability/people/leader/",
+    "pass": 3
+   },
+   {
+    "quote": "今でも定期的に店舗の皆さまとお話しさせていただいていますが、日々、お客様に最高の店舗体験を提供してくださっている皆さまは本当に素晴らしく、「ピープルビジネス」とはこういうことなのだと、実感しています",
+    "url": "https://www.mcdonalds.co.jp/sustainability/people/leader/",
+    "pass": 3
+   },
+   {
+    "quote": "マクドナルドはお子さまからシニアの方まで、朝一番のコーヒーから、仕事帰りの夕食まで、本当に様々なお客様が来店され、マクドナルドを楽しんでくださっています",
+    "url": "https://www.mcdonalds.co.jp/sustainability/people/leader/",
+    "pass": 3
+   },
+   {
+    "quote": "そんな多くのお客様に広く愛されるブランドにしていくためには、店舗の皆さまやレストランサポートオフィスの私達が、それぞれの専門性や多様な価値観を補い合いながら、力を合わせていくことがとても大切だと考えています",
+    "url": "https://www.mcdonalds.co.jp/sustainability/people/leader/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様相談窓口",
+    "url": "https://www.mcdonalds.co.jp/sustainability/people/leader/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "客単価（％）",
+    "url": "https://www.mcd-holdings.co.jp/ir/sales_report/",
+    "pass": 1
+   },
+   {
+    "quote": "ストック型（積み上げ型）の安定収益",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "「ストック収益」を設計する",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "：売上連動のフロー収益だけでなく、毎月積み上がる安定収益（保守・サブスク・賃貸など）の柱をつくれないかを考える",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "最初の一歩としておすすめなのは、「売上連動のフロー収益」だけに頼らず、毎月積み上がる「ストック収益」の柱をつくれないかを考えることです",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "保守契約・サブスク・定期サービスなど、自社の事業に合った安定収益の仕組みを一つ加えるだけで、経営は大きく安定します",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "ライセンスビジネスの仕組みを中小企業向けに解説｜自...",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "ストックオプションの付与対象者",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=1916&brand=74&data=483445&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "取締役の報酬限度額は、2018年３月28日開催の第47回定時株主総会において年額1,200百万円以内（うち社外取締役の報酬額は、年",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=1916&brand=74&data=483445&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ける事故が発生した場合の対応方法については、「店舗商品・製品の品質の危機レベル管理とストックリカバリーに関する規程」を策定して、事故",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=1916&brand=74&data=483445&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "マクドナルド・コーポレーション CFOインターナショナルディベロップメンタルライセンスドマー",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=1916&brand=74&data=483445&filename=pdf_file.pdf",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "マクドナルドのビジネスモデル完全解説｜フランチャイズと不動産で稼ぐ仕組み",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "経営戦略やビジネスモデル、人材・組織づくり、マーケティング、財務、法務など、日々の意思決定に役立つ実践的な知見と、経営者自身の言葉による気づきをお届けします",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "を、フランチャイズと不動産という二つの軸から解き明かし、その強み・収益構造・競争戦略を分解",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "マクドナルドのビジネスモデルとは？まず結論",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、マクドナルドとはどんな会社かを押さえたうえで、「不動産業」と呼ばれる収益構造、フランチャイズの強み、コストリーダーシップとブランド戦略、マーケティングとイノベーションへと進み、最後に「中小企業が活かせる5つの本質」と「よくある質問」で締めくくります",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "マクドナルドのビジネスモデルの核心｜「不動産業」という正体",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "マクドナルドの収益構造を理解する最大の鍵が、「不動産」です",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "この収益構造を設計したのが、レイ・クロックの右腕で財務を担ったハリー・ソナボーンでした",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "これは比喩であると同時に、収益構造の核心を突いた表現でもあります",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "マクドナルドの収益構造を整理すると、次の3本柱に分けられます",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "マクドナルドの強みは、フランチャイズと不動産を掛け合わせた、この収益構造の堅牢さにあります",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "プラットフォーム型の収益構造に関心のある方は、関連記事「",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "ロケットナウのビジネスモデルから学ぶ経営の本質｜無料配達の仕組みと中小企業が活かせる戦略的思考",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "収益構造の強さを支えているのが、徹底した競争戦略です",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "マクドナルドのビジネスモデルに関するよくある質問",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "Q. マクドナルドのビジネスモデルを一言で説明すると？",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "マクドナルドが教えてくれるのは、「何を売るか」と同じくらい、「どう稼ぐか（収益構造をどう設計するか）」が経営を左右する、という事実です",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "メルカリのビジネスモデルを徹底解説｜強みと成功要因・収益構造をわかりやすく",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル一覧｜事業企画者が選ぶべき収益の仕組み30種と実践的選択法",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "楽天グループのビジネスモデル｜経済圏の利益は金融が...",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "ライセンスビジネスの仕組みを中小企業向けに解説｜自...",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "経営戦略・ビジネスモデル",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "akippaはどうやって稼ぐ？土地を持たないビジネスモデル",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "を、フランチャイズと不動産という二つの軸から解き明かし、その強み・収益構造・競争戦略を分解",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、マクドナルドとはどんな会社かを押さえたうえで、「不動産業」と呼ばれる収益構造、フランチャイズの強み、コストリーダーシップとブランド戦略、マーケティングとイノベーションへと進み、最後に「中小企業が活かせる5つの本質」と「よくある質問」で締めくくります",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "マクドナルドの強み｜フランチャイズ×不動産はなぜ強いのか",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "マクドナルドの強みは、フランチャイズと不動産を掛け合わせた、この収益構造の堅牢さにあります",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "強み①：売上に左右されにくい「安定収益」",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "強み②：加盟店の成功が、本部の成功になる",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "立地・資産という「持つ強み」を活かす",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "Q. マクドナルドの強みは何ですか？",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "自社が持つ資産や強みを、どうすれば安定した収益に変えられるでしょうか",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "メルカリのビジネスモデルを徹底解説｜強みと成功要因・収益構造をわかりやすく",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "掛け率の計算方法｜卸値の決め方で中小メーカーの粗利が残る",
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "pass": 3
+   },
+   {
+    "quote": "バックグラウンドをもった多様な人材が、個々の強みを最大限発揮し、ワンチームとなってビジネスの成長に貢献できる職場の実現を目指していま",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=1916&brand=74&data=483445&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "は、性別、年齢、国籍等、さまざまな個性やバックグラウンドを持った多様な人材が、個々の強みを最大限に発揮していきいきと働ける職場の実現",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=1916&brand=74&data=483445&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "）」の達成に向け、当社グループの持つ強みと規模を生かした取り組みを引き続き展開してまいります",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=1916&brand=74&data=483445&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "収益性 ：営業利益成長率、営業利益率",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=1916&brand=74&data=483445&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率13％",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=1916&brand=74&data=483445&filename=pdf_file.pdf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "決算 情報|IRライブラリー - 日本マクドナルドホールディングス — 決算 情報|IRライブラリー - 日本マクドナルドホールディングス 日本マクドナルドホールディングス株式会社 https://www.mcd-holdings.co.jp > library_result",
+    "url": "https://www.mcd-holdings.co.jp/ir/library_result/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報|McDonald's - 日本マクドナルドホールディングス — IR情報|McDonald's - 日本マクドナルドホールディングス 日本マクドナルドホールディングス株式会社 https://www.mcd-holdings.co.jp > ...",
+    "url": "https://www.mcd-holdings.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "IRSTREET (2702: 日本マクドナルドホールディングス ) JP — IRSTREET (2702: 日本マクドナルドホールディングス ) JP IRStreet https://www.irstreet.com > new > brand",
+    "url": "https://www.irstreet.com/new/jp/brand/index.php?brand=74&contents=brand_presentation",
+    "pass": 3
+   },
+   {
+    "quote": "日本マクドナルドホールディングス 決算 ・修正履歴 - 株探 — 日本マクドナルドホールディングス 決算 ・修正履歴 - 株探 株探 https://kabutan.jp > ... > 決算",
+    "url": "https://kabutan.jp/stock/finance?code=2702",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要|企業情報|McDonald's — 会社概要|企業情報|McDonald's 日本マクドナルドホールディングス株式会社 https://www.mcd-holdings.co.jp > company > profile",
+    "url": "https://www.mcd-holdings.co.jp/company/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "日本マクドナルドホールディングス 株式会社 - IRSTREET — 日本マクドナルドホールディングス 株式会社 - IRSTREET IRSTREET PDF https://ircms.irstreet.com > contents > data_file",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=1916&brand=74&data=483445&filename=pdf_file.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本マクドナルドホールディングス 【2702】の 事業 内容 — 日本マクドナルドホールディングス 【2702】の 事業 内容 キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/2702/business",
+    "pass": 3
+   },
+   {
+    "quote": "コーポレート・ガバナンス|企業情報|McDonald's — コーポレート・ガバナンス|企業情報|McDonald's 日本マクドナルドホールディングス株式会社 https://www.mcd-holdings.co.jp > company > governance",
+    "url": "https://www.mcd-holdings.co.jp/company/governance/",
+    "pass": 3
+   },
+   {
+    "quote": "代表挨拶|企業情報|McDonald's — 代表挨拶|企業情報|McDonald's 日本マクドナルドホールディングス株式会社 https://www.mcd-holdings.co.jp > company > message",
+    "url": "https://www.mcd-holdings.co.jp/company/message/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "ケットセグメント",
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=1916&brand=74&data=483445&filename=pdf_file.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.mcd-holdings.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mcd-holdings.co.jp/company/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mcd-holdings.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mcd-holdings.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mcd-holdings.co.jp/ir/summary/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mcd-holdings.co.jp/ir/library_result/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mcd-holdings.co.jp/ir/sales_report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mcd-holdings.co.jp/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mcd-holdings.co.jp/ir/schedule/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mcd-holdings.co.jp/ir/individual/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mcd-holdings.co.jp/ir/koukoku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mcd-holdings.co.jp/ir/irmail/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mcd-holdings.co.jp/special-notice/coupon_forgery/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mcd-holdings.co.jp/ir/individual/shareholder_benefits/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://comtri.jp/businessmodel-mcdonalds/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mcdonalds.co.jp/recruit/staff_recruiting/corporate/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mcdonalds.co.jp/company/outline/kessan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ircms.irstreet.com/contents/data_file.php?template=1916&brand=74&data=483445&filename=pdf_file.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mcdonalds.co.jp/sustainability/people/leader/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日本マクドナルドホールディングス",
+   "results": [
+    "https://www.mcd-holdings.co.jp/",
+    "https://www.mcdonalds.co.jp/company/outline/gaiyo/",
+    "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%83%9E%E3%82%AF%E3%83%89%E3%83%8A%E3%83%AB%E3%83%89%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "https://www.nikkei.com/nkd/company/?scode=2702",
+    "https://kabutan.jp/stock/?code=2702",
+    "https://ja.wikipedia.org/wiki/日本マクドナルドホールディングス",
+    "https://ja.wikipedia.org/wiki/日本マクドナルド",
+    "https://finance.yahoo.co.jp/quote/2702.T",
+    "https://finance.yahoo.co.jp/quote/2702.T/profile",
+    "https://www.nikkei.com/nkd/company/chart/?scode=2702"
+   ]
+  },
+  {
+   "query": "日本マクドナルドホールディングス ビジネスモデル",
+   "results": [
+    "https://comtri.jp/businessmodel-mcdonalds/",
+    "https://www.mcdonalds.co.jp/recruit/staff_recruiting/corporate/business/",
+    "https://dhbr.diamond.jp/articles/-/13714",
+    "https://note.com/jungoto/n/n845ea20db7d2",
+    "https://www.omnimosouq.jp/mcdonalds-business-model/",
+    "https://dyzo.consulting/structural-formula/",
+    "https://www.mcd-holdings.co.jp/ir/individual/business_strength/",
+    "https://en-hyouban.com/company/10013185150/kuchikomi/14687216/",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AF%E3%83%89%E3%83%8A%E3%83%AB%E3%83%89",
+    "https://foodmedia.tenpos.com/newstrend/news/47003/"
+   ]
+  },
+  {
+   "query": "日本マクドナルドホールディングス 決算説明資料",
+   "results": [
+    "https://www.mcd-holdings.co.jp/ir/library_result/",
+    "https://www.mcdonalds.co.jp/company/outline/kessan/",
+    "https://www.mcd-holdings.co.jp/ir/",
+    "https://www.irstreet.com/new/jp/brand/index.php?brand=74&contents=brand_presentation",
+    "https://kabutan.jp/stock/finance?code=2702",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260205548971/",
+    "https://www.buffett-code.com/company/2702/library",
+    "https://finance.matsui.co.jp/stock/2702/settlement/index",
+    "https://treelazy.com/stock-jp/2702/conference",
+    "https://kaijiwire.jp/companies/8011101029028"
+   ]
+  },
+  {
+   "query": "日本マクドナルドホールディングス 事業系統図",
+   "results": [
+    "https://www.mcd-holdings.co.jp/company/profile/",
+    "https://ircms.irstreet.com/contents/data_file.php?template=1916&brand=74&data=483445&filename=pdf_file.pdf",
+    "https://kitaishihon.com/company/2702/business",
+    "https://www.mcdonalds.co.jp/recruit/staff_recruiting/corporate/business/",
+    "https://www.mcd-holdings.co.jp/company/governance/",
+    "https://www.otsu-international.com/financial_statements/11-mcdonalds/",
+    "https://www.mcdonalds.co.jp/recruit/staff_recruiting/work/work-1/",
+    "https://dhbr.diamond.jp/articles/-/13714",
+    "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%83%9E%E3%82%AF%E3%83%89%E3%83%8A%E3%83%AB%E3%83%89",
+    "https://ja.wikipedia.org/wiki/日本マクドナルドホールディングス"
+   ]
+  },
+  {
+   "query": "日本マクドナルドホールディングス 社長 インタビュー",
+   "results": [
+    "https://www.mcd-holdings.co.jp/company/message/",
+    "https://www.mcdonalds.co.jp/sustainability/people/leader/",
+    "https://tokyonew.metro.tokyo.lg.jp/story/06.html",
+    "https://dot.asahi.com/articles/-/124004?page=1",
+    "https://www.fujisan.co.jp/trends/business/33668/",
+    "https://business.nikkei.com/atcl/NBD/19/00119/00167/",
+    "https://www.isssc.com/interview/8429/",
+    "https://www.ryutsuu.biz/strategy/q052918.html",
+    "https://www.nikkan.co.jp/articles/view/739467",
+    "https://ja.wikipedia.org/wiki/日色保"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部5頁・検索5回）"
+ }
+}

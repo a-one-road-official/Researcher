@@ -1,0 +1,1751 @@
+{
+ "name": "ＮＴＴ",
+ "aliases": [],
+ "context": "証券コード9432／情報・通信業／プライム（内国株式）／2026.03期 売上高14,409,121百万円 営業利益率12.4%",
+ "researched_at": "2026-11-02T19:53:01.530409+00:00",
+ "official_url": "https://group.ntt/",
+ "identified_by": "search:yahoo_jp:NTT",
+ "profile": {
+  "設立": [
+   {
+    "label": "会社が設立されたのはいつですか",
+    "value": "1985年4月に日本電信電話公社が民営化され、日本電信電話株式会社が設立されました。2025年7月1日には、NTT株式会社に商号を変更いたしました。 会社の概要につきましては「 会社概要 」をご覧ください。",
+    "url": "https://group.ntt/jp/ir/faq/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "営業収益",
+    "value": "14兆4,091億円 15兆600億円 +6,509億円",
+    "url": "https://group.ntt/jp/ir/fin/forecast.html",
+    "pass": 1
+   },
+   {
+    "label": "営業収益",
+    "value": "1兆1,557億円 1兆250億円 ▲1,307億円",
+    "url": "https://group.ntt/jp/ir/fin/forecast.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "電信電話債券（加入者債券）をお持ちのお客様へ",
+    "url": "https://group.ntt/jp/",
+    "pass": 1
+   },
+   {
+    "quote": "NTTグループは、今まで培ってきた顧客基盤・通信ネットワーク・ICT技術のノウハウを活用し、",
+    "url": "https://group.ntt/jp/",
+    "pass": 1
+   },
+   {
+    "quote": "NTTは、多くのユーザーから期待を寄せられていたハンドヘルド型の携帯電話を発売",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者は、サービス開始半年後に100万人、わずか1年後に1,000万人に達しました",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "これまでパソコン利用者に限られていたオンラインサービスが携帯電話だけでできるようになり、電子メール、チケット予約、レストランガイドやタウンページ検索など生活に便利なサービスを、いつでも、どこでも手軽に利用できるようになりました",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "コンシューマ通信事業においては、顧客基盤の維持・拡大とネットワーク品質の改善を推進し、将来の成長に向けた施策を加速しました",
+    "url": "https://group.ntt/jp/business/integrated_ict.html",
+    "pass": 1
+   },
+   {
+    "quote": "法人事業においては、ネットワーク機能やセキュリティ機能を組み合わせたサービスの展開や、パートナーとの連携強化により、顧客基盤の拡大を図りました",
+    "url": "https://group.ntt/jp/business/integrated_ict.html",
+    "pass": 1
+   },
+   {
+    "quote": "帯域確保やサービス品質保証に加え、24時間以内の故障駆け付け対応などの保守体制を備え、通信の安定性・信頼性を確保するとともに、クラウド利用や多拠点接続など企業の業務利用に適した通信環境を提供し、法人向けサービスの強化および顧客基盤の拡大を図りました",
+    "url": "https://group.ntt/jp/business/regional_communications.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客接点・決済",
+    "url": "https://group.ntt/jp/group/product/category/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客体験（CX）を改善したい",
+    "url": "https://group.ntt/jp/group/product/category/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "一方で、モバイル事業においては、顧客基盤の維持・拡大に向けた施策の強化や、通信トラフィック増大への対応が必要となるなど、競争環境は一段と激化しております",
+    "url": "https://group.ntt/jp/ir/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "今後は、国内法人ビジネスにおけるAIビジネスを通じた顧客提供価値起点の事業拡大に加え、データセンターを核とした海外事業の成長および金融を中心としたパーソナル領域の拡大により、成長分野（バリュー分野）の拡大を図るとともに、既存分野（コネクティビティ分野）についても、GPU・ネットワーク・電力等を最適化したAIネイティブな次世代インフラ「AIOWN」への転換を進め、2030年度にEBITDA 4兆円の達成をめざします",
+    "url": "https://group.ntt/jp/ir/message.html",
+    "pass": 1
+   }
+  ],
+  "何を": [
+   {
+    "quote": "商品・サービス",
+    "url": "https://group.ntt/jp/",
+    "pass": 1
+   },
+   {
+    "quote": "グローバル・ソリューション事業",
+    "url": "https://group.ntt/jp/",
+    "pass": 1
+   },
+   {
+    "quote": "商品・サービス トップ",
+    "url": "https://group.ntt/jp/",
+    "pass": 1
+   },
+   {
+    "quote": "法人向けサービス",
+    "url": "https://group.ntt/jp/",
+    "pass": 1
+   },
+   {
+    "quote": "50音別商品サービス一覧",
+    "url": "https://group.ntt/jp/",
+    "pass": 1
+   },
+   {
+    "quote": "提供会社別商品サービス一覧",
+    "url": "https://group.ntt/jp/",
+    "pass": 1
+   },
+   {
+    "quote": "災害時安否確認サービス",
+    "url": "https://group.ntt/jp/",
+    "pass": 1
+   },
+   {
+    "quote": "災害時安否確認サービス トップ",
+    "url": "https://group.ntt/jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの早期復旧",
+    "url": "https://group.ntt/jp/",
+    "pass": 1
+   },
+   {
+    "quote": "技術・サービスの提供",
+    "url": "https://group.ntt/jp/",
+    "pass": 1
+   },
+   {
+    "quote": "商品・サービス",
+    "url": "https://group.ntt/jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "グローバル・ソリューション事業",
+    "url": "https://group.ntt/jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "商品・サービス トップ",
+    "url": "https://group.ntt/jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "法人向けサービス",
+    "url": "https://group.ntt/jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "50音別商品サービス一覧",
+    "url": "https://group.ntt/jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "提供会社別商品サービス一覧",
+    "url": "https://group.ntt/jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "災害時安否確認サービス",
+    "url": "https://group.ntt/jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "災害時安否確認サービス トップ",
+    "url": "https://group.ntt/jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの早期復旧",
+    "url": "https://group.ntt/jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "技術・サービスの提供",
+    "url": "https://group.ntt/jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "コンシューマ通信事業（携帯電話サービス、光ブロードバンドサービス等）、スマートライフ事業（金融サービス、コンテンツ・ライフスタイルサービス等）、法人事業（法人向け通信サービス、ソリューション事業、システム開発事業等）およびそれに関連する事業を主な事業内容としています",
+    "url": "https://group.ntt/jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "コンサルティング事業、ITソリューション事業、システム・ソフトウェア開発事業、メンテナンス・サポート事業、データセンター事業およびそれに関連する事業を主な事業内容としています",
+    "url": "https://group.ntt/jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "光サービス事業、法人事業、固定電話事業およびそれに関連する事業を主な事業内容としています",
+    "url": "https://group.ntt/jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "商品・サービス",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "グローバル・ソリューション事業",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "商品・サービス トップ",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "法人向けサービス",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "50音別商品サービス一覧",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "提供会社別商品サービス一覧",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "災害時安否確認サービス",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "災害時安否確認サービス トップ",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの早期復旧",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "技術・サービスの提供",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "電報サービス開始",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "前年に現場第一主義のサービスをモットーとした日本電信電話公社（現NTT）が発足したことで、電信電話の拡張は民間資金で調達が可能に",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ポケットベルサービス開始",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "たとえば会社や自動車（自動車電話が既にあったので）から離れたところで仕事をしている人に、個別に最小限の情報を送りたいというニーズから研究が始まったのが、ポケットベル（無線呼び出しサービス）です",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "｢ベルボーイ・サービス｣という名称で、命名はホテルのベルボーイの意からきています",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "東京23区でポケットベルサービスが始まりました",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "その後、携帯普及とともにニーズは減り、'07年、サービスは終了しました",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ファックスサービス開始",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "押し花電報サービス、航空機公衆電話サービス、伝言ダイヤル通話サービスが始まり、土曜に通話料金が値下げされるなど、お客さま本位の事業が精力的に展開されていきます",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "携帯電話サービス開始",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「持って歩ける」携帯電話サービスを開始しました",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "この年の携帯電話サービス契約者数は初めて10万件を突破しました",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "世界初のISDN（商用サービス総合ディジタル網）",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス提供開始",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "東京、名古屋、大阪の3地域にて、世界で始めてのISDN（Integrated Services Digital Network; 商用サービス総合ディジタル網）サービス、「INSネット64」の提供を開始しました",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "商品・サービス",
+    "url": "https://group.ntt/jp/business/integrated_ict.html",
+    "pass": 1
+   },
+   {
+    "quote": "グローバル・ソリューション事業",
+    "url": "https://group.ntt/jp/business/integrated_ict.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品・サービス トップ",
+    "url": "https://group.ntt/jp/business/integrated_ict.html",
+    "pass": 1
+   },
+   {
+    "quote": "法人向けサービス",
+    "url": "https://group.ntt/jp/business/integrated_ict.html",
+    "pass": 1
+   },
+   {
+    "quote": "50音別商品サービス一覧",
+    "url": "https://group.ntt/jp/business/integrated_ict.html",
+    "pass": 1
+   },
+   {
+    "quote": "提供会社別商品サービス一覧",
+    "url": "https://group.ntt/jp/business/integrated_ict.html",
+    "pass": 1
+   },
+   {
+    "quote": "災害時安否確認サービス",
+    "url": "https://group.ntt/jp/business/integrated_ict.html",
+    "pass": 1
+   },
+   {
+    "quote": "災害時安否確認サービス トップ",
+    "url": "https://group.ntt/jp/business/integrated_ict.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの早期復旧",
+    "url": "https://group.ntt/jp/business/integrated_ict.html",
+    "pass": 1
+   },
+   {
+    "quote": "技術・サービスの提供",
+    "url": "https://group.ntt/jp/business/integrated_ict.html",
+    "pass": 1
+   },
+   {
+    "quote": "当事業は、コンシューマ通信事業（携帯電話サービス、光ブロードバンドサービス等）、スマートライフ事業（金融サービス、コンテンツ・ライフスタイルサービス等）、法人事業（法人向け通信サービス、ソリューション事業、システム開発事業等）およびそれに関連する事業を主な事業内容としています",
+    "url": "https://group.ntt/jp/business/integrated_ict.html",
+    "pass": 1
+   },
+   {
+    "quote": "コンシューマ通信事業（携帯電話サービス、光ブロードバンドサービス等）、スマートライフ事業（金融サービス、コンテンツ・ライフスタイルサービス等）、法人事業（法人向け通信サービス、ソリューション事業、システム開発事業等）およびそれに関連する事業など",
+    "url": "https://group.ntt/jp/business/integrated_ict.html",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "AI検索時代における地域の中小企業・店舗の集客力向上を支援する「おまかせネット集客サポート」を提供開始",
+    "url": "https://group.ntt/jp/",
+    "pass": 1
+   },
+   {
+    "quote": "NTTグループが取組む様々な分野やパートナーとのコラボレーションをご紹介しています",
+    "url": "https://group.ntt/jp/",
+    "pass": 1
+   },
+   {
+    "quote": "こころと知性を解き明かし、人やAIが生み出す未来を紹介 「NTTコミュニケーション科学基礎研究所 オープンハウス2026」",
+    "url": "https://group.ntt/jp/",
+    "pass": 1
+   },
+   {
+    "quote": "経営方針、財務、業務情報、株式・債券情報、IR資料などをご紹介しています",
+    "url": "https://group.ntt/jp/",
+    "pass": 1
+   },
+   {
+    "quote": "NTT（NTT株式会社）の会社概要や組織図などの情報をご紹介しています",
+    "url": "https://group.ntt/jp/",
+    "pass": 1
+   },
+   {
+    "quote": "NTTグループの事業についてご紹介します",
+    "url": "https://group.ntt/jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "こころと知性を解き明かし、人やAIが生み出す未来を紹介 「NTTコミュニケーション科学基礎研究所 オープンハウス2026」",
+    "url": "https://group.ntt/jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "通信の歴史や社会の出来事とともにご紹介します",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "IOWN構想の実現に向けて、NTT、インテルコーポレーション(インテル)、ソニー株式会社(ソニー)の3社がパイオニアとなって、IOWNの研究開発を世界中のパートナーと連携し推進する国際的な取り組みとして、新たな業界フォーラムである「IOWN Global Forum」の設立を発表しました",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "こころと知性を解き明かし、人やAIが生み出す未来を紹介 「NTTコミュニケーション科学基礎研究所 オープンハウス2026」",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "法人事業においては、ネットワーク機能やセキュリティ機能を組み合わせたサービスの展開や、パートナーとの連携強化により、顧客基盤の拡大を図りました",
+    "url": "https://group.ntt/jp/business/integrated_ict.html",
+    "pass": 1
+   },
+   {
+    "quote": "こころと知性を解き明かし、人やAIが生み出す未来を紹介 「NTTコミュニケーション科学基礎研究所 オープンハウス2026」",
+    "url": "https://group.ntt/jp/business/integrated_ict.html",
+    "pass": 1
+   },
+   {
+    "quote": "AI領域においては、お客さまの多様なニーズやシステム環境に対応するため、さまざまなパートナーと連携しながらソリューション提供を推進しています",
+    "url": "https://group.ntt/jp/business/global_solutions.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社が開発した、軽量で日本語性能に優れた特性を有する「tsuzumi」の活用に加え、2025年5月よりOpenAIと「ChatGPT Enterprise」の日本初の販売代理店として提供を開始しているほか、2025年8月には「Google Cloud」とのグローバルパートナーシップを通じて業界特化型AIエージェントの開発を進めるなど、パートナーとの連携を幅広く展開しています",
+    "url": "https://group.ntt/jp/business/global_solutions.html",
+    "pass": 1
+   },
+   {
+    "quote": "こころと知性を解き明かし、人やAIが生み出す未来を紹介 「NTTコミュニケーション科学基礎研究所 オープンハウス2026」",
+    "url": "https://group.ntt/jp/business/global_solutions.html",
+    "pass": 1
+   },
+   {
+    "quote": "こころと知性を解き明かし、人やAIが生み出す未来を紹介 「NTTコミュニケーション科学基礎研究所 オープンハウス2026」",
+    "url": "https://group.ntt/jp/business/regional_communications.html",
+    "pass": 1
+   },
+   {
+    "quote": "こころと知性を解き明かし、人やAIが生み出す未来を紹介 「NTTコミュニケーション科学基礎研究所 オープンハウス2026」",
+    "url": "https://group.ntt/jp/business/others.html",
+    "pass": 1
+   },
+   {
+    "quote": "NTTグループ各社の法人向けサービス紹介ページをご案内いたします",
+    "url": "https://group.ntt/jp/group/product/category/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "通信ネットワークからシステム構築までのニーズにトータルで応え、企業の抱える経営課題を解決する各種ソリューションをご紹介しています",
+    "url": "https://group.ntt/jp/group/product/category/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "情報システムの構築、拠点間を結ぶネットワークの構築、ITを駆使した経営戦略の企画立案、IT導入に関するコンサルティングなど、経営課題を解決する各種ソリューションをご紹介しています",
+    "url": "https://group.ntt/jp/group/product/category/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗・個人事業主のお客さま向け特設ページ(",
+    "url": "https://group.ntt/jp/group/product/category/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "オフィス・工場・店舗の防犯対策をしたい",
+    "url": "https://group.ntt/jp/group/product/category/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "OEMパートナー",
+    "url": "https://group.ntt/jp/group/product/category/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "情報技術による、新しい「しくみ」や「価値」それを創造する各種ソリューションをご紹介しています",
+    "url": "https://group.ntt/jp/group/product/category/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "コミュニケーションの力で経営課題を解決し、新しいビジネスの形を創る各種ICTソリューションをご紹介しています",
+    "url": "https://group.ntt/jp/group/product/category/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "こころと知性を解き明かし、人やAIが生み出す未来を紹介 「NTTコミュニケーション科学基礎研究所 オープンハウス2026」",
+    "url": "https://group.ntt/jp/group/product/category/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "NTTのIR情報サイトでは、経営方針、財務、業務情報、株式・債券情報、IR資料などをご紹介しています",
+    "url": "https://group.ntt/jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "NTTグループが取組む様々な分野やパートナーとのコラボレーションをご紹介しています",
+    "url": "https://group.ntt/jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "こころと知性を解き明かし、人やAIが生み出す未来を紹介 「NTTコミュニケーション科学基礎研究所 オープンハウス2026」",
+    "url": "https://group.ntt/jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "NTTグループの経営方針をご紹介します",
+    "url": "https://group.ntt/jp/ir/mgt/",
+    "pass": 1
+   },
+   {
+    "quote": "NTTグループの中期経営戦略、役員、日本電信電話株式会社等に関する法律第12条に基づく事業計画、コーポレート・ガバナンス、事業等のリスクについてご紹介します",
+    "url": "https://group.ntt/jp/ir/mgt/",
+    "pass": 1
+   },
+   {
+    "quote": "各役員の略歴を紹介しています",
+    "url": "https://group.ntt/jp/ir/mgt/",
+    "pass": 1
+   },
+   {
+    "quote": "社長記者会見の内容をテキストで紹介しています",
+    "url": "https://group.ntt/jp/ir/mgt/",
+    "pass": 1
+   },
+   {
+    "quote": "こころと知性を解き明かし、人やAIが生み出す未来を紹介 「NTTコミュニケーション科学基礎研究所 オープンハウス2026」",
+    "url": "https://group.ntt/jp/ir/mgt/",
+    "pass": 1
+   },
+   {
+    "quote": "こころと知性を解き明かし、人やAIが生み出す未来を紹介 「NTTコミュニケーション科学基礎研究所 オープンハウス2026」",
+    "url": "https://group.ntt/jp/ir/fin/",
+    "pass": 1
+   },
+   {
+    "quote": "こころと知性を解き明かし、人やAIが生み出す未来を紹介 「NTTコミュニケーション科学基礎研究所 オープンハウス2026」",
+    "url": "https://group.ntt/jp/ir/shares/",
+    "pass": 1
+   },
+   {
+    "quote": "さまざまな視点でNTTグループのIR資料をご紹介しています",
+    "url": "https://group.ntt/jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "こころと知性を解き明かし、人やAIが生み出す未来を紹介 「NTTコミュニケーション科学基礎研究所 オープンハウス2026」",
+    "url": "https://group.ntt/jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "こころと知性を解き明かし、人やAIが生み出す未来を紹介 「NTTコミュニケーション科学基礎研究所 オープンハウス2026」",
+    "url": "https://group.ntt/jp/ir/private_investor/",
+    "pass": 1
+   },
+   {
+    "quote": "NTTグループが取組む様々な分野やパートナーとのコラボレーションをご紹介しています",
+    "url": "https://group.ntt/jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "こころと知性を解き明かし、人やAIが生み出す未来を紹介 「NTTコミュニケーション科学基礎研究所 オープンハウス2026」",
+    "url": "https://group.ntt/jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "こころと知性を解き明かし、人やAIが生み出す未来を紹介 「NTTコミュニケーション科学基礎研究所 オープンハウス2026」",
+    "url": "https://group.ntt/jp/ir/shares/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "こころと知性を解き明かし、人やAIが生み出す未来を紹介 「NTTコミュニケーション科学基礎研究所 オープンハウス2026」",
+    "url": "https://group.ntt/jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "こころと知性を解き明かし、人やAIが生み出す未来を紹介 「NTTコミュニケーション科学基礎研究所 オープンハウス2026」",
+    "url": "https://group.ntt/jp/ir/contact/",
+    "pass": 1
+   },
+   {
+    "quote": "また、「AIOWN」の実現に向け、IOWN APNを2027年度までに県庁所在地へ展開、2030年に全国への面的拡大をめざすとともに、多様なパートナーとの連携を通じて光電融合デバイスのエコシステムを拡大し、IOWNの社会実装を加速してまいります",
+    "url": "https://group.ntt/jp/ir/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "こころと知性を解き明かし、人やAIが生み出す未来を紹介 「NTTコミュニケーション科学基礎研究所 オープンハウス2026」",
+    "url": "https://group.ntt/jp/ir/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "こころと知性を解き明かし、人やAIが生み出す未来を紹介 「NTTコミュニケーション科学基礎研究所 オープンハウス2026」",
+    "url": "https://group.ntt/jp/ir/mgt/managementstrategy/",
+    "pass": 1
+   },
+   {
+    "quote": "役員紹介 | 経営方針 | 株主・投資家情報 | NTT",
+    "url": "https://group.ntt/jp/ir/mgt/management/",
+    "pass": 1
+   },
+   {
+    "quote": "各役員の略歴を紹介しています",
+    "url": "https://group.ntt/jp/ir/mgt/management/",
+    "pass": 1
+   },
+   {
+    "quote": "こころと知性を解き明かし、人やAIが生み出す未来を紹介 「NTTコミュニケーション科学基礎研究所 オープンハウス2026」",
+    "url": "https://group.ntt/jp/ir/mgt/management/",
+    "pass": 1
+   },
+   {
+    "quote": "NTTグループの事業案内をご紹介します",
+    "url": "https://group.ntt/jp/ir/mgt/others.html",
+    "pass": 1
+   },
+   {
+    "quote": "こころと知性を解き明かし、人やAIが生み出す未来を紹介 「NTTコミュニケーション科学基礎研究所 オープンハウス2026」",
+    "url": "https://group.ntt/jp/ir/mgt/others.html",
+    "pass": 1
+   },
+   {
+    "quote": "こころと知性を解き明かし、人やAIが生み出す未来を紹介 「NTTコミュニケーション科学基礎研究所 オープンハウス2026」",
+    "url": "https://group.ntt/jp/ir/mgt/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "こころと知性を解き明かし、人やAIが生み出す未来を紹介 「NTTコミュニケーション科学基礎研究所 オープンハウス2026」",
+    "url": "https://group.ntt/jp/ir/fin/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "こころと知性を解き明かし、人やAIが生み出す未来を紹介 「NTTコミュニケーション科学基礎研究所 オープンハウス2026」",
+    "url": "https://group.ntt/jp/ir/fin/forecast.html",
+    "pass": 1
+   },
+   {
+    "quote": "自社/パートナーのお客さま情報の蓄積",
+    "url": "https://group.ntt/jp/ir/library/presentation/2022/230512_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "パートナーお客さま基盤",
+    "url": "https://group.ntt/jp/ir/library/presentation/2022/230512_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "さまざまなパートナーとのアライアンスを推進",
+    "url": "https://group.ntt/jp/ir/library/presentation/2022/230512_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "パートナーとの",
+    "url": "https://group.ntt/jp/ir/library/presentation/2022/230512_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "NTTグループ各社/パートナー",
+    "url": "https://group.ntt/jp/ir/library/presentation/2022/230512_2.pdf",
+    "pass": 2
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント別情報",
+    "url": "https://group.ntt/jp/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別情報",
+    "url": "https://group.ntt/jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別構成比（2025年度）",
+    "url": "https://group.ntt/jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別情報",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別情報",
+    "url": "https://group.ntt/jp/business/integrated_ict.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別情報",
+    "url": "https://group.ntt/jp/business/global_solutions.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本セグメントにおいては、公共・社会基盤分野、金融分野および法人分野において大型案件の獲得などにより、デジタル化需要を取り込みました",
+    "url": "https://group.ntt/jp/business/global_solutions.html",
+    "pass": 1
+   },
+   {
+    "quote": "海外セグメントにおいては、フルスタックソリューションの提供やデータセンター事業の拡大などによりサービス提供力を強化するとともに、大型案件の売上展開やクラウド・セキュリティ分野の成長などにより収益性の改善を進めました",
+    "url": "https://group.ntt/jp/business/global_solutions.html",
+    "pass": 1
+   },
+   {
+    "quote": "グローバル・ソリューション事業の海外セグメントにおける大型案件の獲得を背景に、NTTグループ全体のデータセンター事業も大きく伸長しました",
+    "url": "https://group.ntt/jp/business/global_solutions.html",
+    "pass": 1
+   },
+   {
+    "quote": "MW数は総合ICTセグメント、地域通信セグメントで保有するデータセンター並びに第三者とのジョイントベンチャーを含む電力容量",
+    "url": "https://group.ntt/jp/business/global_solutions.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別情報",
+    "url": "https://group.ntt/jp/business/regional_communications.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別情報",
+    "url": "https://group.ntt/jp/business/others.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別情報",
+    "url": "https://group.ntt/jp/group/product/category/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別情報",
+    "url": "https://group.ntt/jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別情報",
+    "url": "https://group.ntt/jp/ir/mgt/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別情報",
+    "url": "https://group.ntt/jp/ir/fin/",
+    "pass": 1
+   },
+   {
+    "quote": "NTTグループの連結業績ハイライト、業績予想概要、4つの事業セグメント毎の経営成績、",
+    "url": "https://group.ntt/jp/ir/fin/",
+    "pass": 1
+   },
+   {
+    "quote": "4つの事業セグメント毎の経営成績等について掲載しています",
+    "url": "https://group.ntt/jp/ir/fin/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別情報",
+    "url": "https://group.ntt/jp/ir/shares/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別情報",
+    "url": "https://group.ntt/jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別情報",
+    "url": "https://group.ntt/jp/ir/private_investor/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別情報",
+    "url": "https://group.ntt/jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別情報",
+    "url": "https://group.ntt/jp/ir/shares/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別情報",
+    "url": "https://group.ntt/jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別情報",
+    "url": "https://group.ntt/jp/ir/contact/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別情報",
+    "url": "https://group.ntt/jp/ir/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別情報",
+    "url": "https://group.ntt/jp/ir/mgt/managementstrategy/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別情報",
+    "url": "https://group.ntt/jp/ir/mgt/management/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別情報",
+    "url": "https://group.ntt/jp/ir/mgt/others.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別情報",
+    "url": "https://group.ntt/jp/ir/mgt/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別情報",
+    "url": "https://group.ntt/jp/ir/fin/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別情報",
+    "url": "https://group.ntt/jp/ir/fin/forecast.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度 セグメント別業績予想",
+    "url": "https://group.ntt/jp/ir/fin/forecast.html",
+    "pass": 1
+   },
+   {
+    "quote": "総合ICT事業セグメント",
+    "url": "https://group.ntt/jp/ir/fin/forecast.html",
+    "pass": 1
+   },
+   {
+    "quote": "グローバル・ソリューション事業セグメント",
+    "url": "https://group.ntt/jp/ir/fin/forecast.html",
+    "pass": 1
+   },
+   {
+    "quote": "地域通信事業セグメント",
+    "url": "https://group.ntt/jp/ir/fin/forecast.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント間取引を含んでいます",
+    "url": "https://group.ntt/jp/ir/fin/forecast.html",
+    "pass": 1
+   },
+   {
+    "quote": "実際、中核を担うNTTデータグループの2025年3月期連結決算では、売上高が4兆6,387億円（前期比6.2%増）に達し、海外セグメントが2兆7,509億円と全体の約6割（59.4%）を占めるまでに拡大しました",
+    "url": "https://mindmeister.jp/posts/bm-NTT",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2022年6月16日をもって、Microsoft社による",
+    "url": "https://group.ntt/jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度 第2四半期決算説明会Webライブ中継（2026年11月4日13:30～）",
+    "url": "https://group.ntt/jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度 第2四半期決算説明会Webライブ中継",
+    "url": "https://group.ntt/jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月 2日",
+    "url": "https://group.ntt/jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月29日",
+    "url": "https://group.ntt/jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月22日",
+    "url": "https://group.ntt/jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月14日",
+    "url": "https://group.ntt/jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月24日",
+    "url": "https://group.ntt/jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月 7日",
+    "url": "https://group.ntt/jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月22日",
+    "url": "https://group.ntt/jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月21日",
+    "url": "https://group.ntt/jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年6月16日をもって、Microsoft社による",
+    "url": "https://group.ntt/jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月24日",
+    "url": "https://group.ntt/jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年6月16日をもって、Microsoft社による",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1952年の日本電信電話公社発足以来、NTTは様々な技術を開発し、時代の要請に応えてきました",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1950年代",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1960年代",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1980年代",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1990年代",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年代",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年代",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年代",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1962年に登場した600形電話機は、通話性能と経済性の両面で\"完成された電話機\"といわれています",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1968年に誕生したポケットベルは、オフィスから離れて仕事をする営業担当者への連絡・通信手段としては大変便利で、広く普及しました",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1988年に発売された101型は携帯専用型",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1992年、NTTは移動体通信事業本部をNTT移動通信網㈱として分離独立",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1995年には、簡易型携帯電話・PHS（Personal Handy phone System）も登場",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1999年2月22日、iモードサービスに対応できる機種はmova 501iのみ1機種でした",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1981年には、中継市外系に初めてGI型ファイバーケーブルを導入（商用試験）",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1989年には、太平洋横断海底ケーブルシステムを完成させます",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1990年代より海外事業に進出、アジア・欧州・米国を中心に事業を展開してきたNTTグループ",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年には、DimensionDataおよびKeane（現在のNTT DATA,Inc）を買収し、豪州、南米、アフリカ、中近東なども含め、グローバルにトータルICTサービスを提供できる体制を整えました",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2012年11月公表の中期経営戦略「新たなステージをめざして」での取組みを加速させるため、2015年5月、中期経営戦略「新たなステージをめざして 2.0」を策定、発表しました",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年3月期までに海外売上高を220億ドル（2015年3月期150億ドル）とする等の目標を掲げながら、「2020」「地方創生」を契機としてさまざまな事業者とコラボレーションして付加価値の高いサービスを創出してきました",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年度にはNTTグループの温室効果ガス排出量80％削減 (2013年度比)とモバイル(NTTドコモ)、データセンターのカーボンニュートラルの実現、2040年度にはNTTグループのカーボンニュートラルの実現を目標に掲げ、取り組みを進めています",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月24日",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年6月16日をもって、Microsoft社による",
+    "url": "https://group.ntt/jp/business/integrated_ict.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度の実績",
+    "url": "https://group.ntt/jp/business/integrated_ict.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月、NTTドコモは、お客さまのライフスタイルやドコモならではのバリューに合わせて選べる料金プラン「ドコモ MAX」「ドコモ ポイ活 MAX」の提供を開始し、2026年3月に300万契約を突破しました",
+    "url": "https://group.ntt/jp/business/integrated_ict.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年10月、NTTドコモは、住信SBIネット銀行株式会社を連結子会社とし、新サービスブランド「d NEOBANK」の提供を開始しました",
+    "url": "https://group.ntt/jp/business/integrated_ict.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年4月にNTTドコモが参画する株式会社ジャパンナショナルスタジアム・エンターテイメント（JNSE）が「MUFGスタジアム（国立競技場）」の運営を開始しました",
+    "url": "https://group.ntt/jp/business/integrated_ict.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月24日",
+    "url": "https://group.ntt/jp/business/integrated_ict.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年6月16日をもって、Microsoft社による",
+    "url": "https://group.ntt/jp/business/global_solutions.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度の実績",
+    "url": "https://group.ntt/jp/business/global_solutions.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年7月にシンガポール・マレーシア・インド間を結ぶ海底通信ケーブル「MIST」の運用を開始しました",
+    "url": "https://group.ntt/jp/business/global_solutions.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月には、先端AI技術の社会実装の加速化、およびAIネイティブなビジネスの創出を目的として、NTTデータグループが米国・シリコンバレーに「NTT DATA AIVista」を設立しました",
+    "url": "https://group.ntt/jp/business/global_solutions.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月24日",
+    "url": "https://group.ntt/jp/business/global_solutions.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年6月16日をもって、Microsoft社による",
+    "url": "https://group.ntt/jp/business/regional_communications.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度の実績",
+    "url": "https://group.ntt/jp/business/regional_communications.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月、NTT東日本およびNTT西日本は、利用減少や老朽化により、2035年頃までに現行のサービスレベル維持が困難となる見込みであることを踏まえ、メタル設備を用いた「加入電話」サービスを、光回線やモバイル回線による代替サービスへ段階的に移行する方針を発表しました",
+    "url": "https://group.ntt/jp/business/regional_communications.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月24日",
+    "url": "https://group.ntt/jp/business/regional_communications.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年6月16日をもって、Microsoft社による",
+    "url": "https://group.ntt/jp/business/others.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月24日",
+    "url": "https://group.ntt/jp/business/others.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年6月16日をもって、Microsoft社による",
+    "url": "https://group.ntt/jp/group/product/category/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月24日",
+    "url": "https://group.ntt/jp/group/product/category/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年6月16日をもって、Microsoft社による",
+    "url": "https://group.ntt/jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月 2日",
+    "url": "https://group.ntt/jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月14日",
+    "url": "https://group.ntt/jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度 第2四半期決算説明会Webライブ中継（2026年11月4日開催予定）",
+    "url": "https://group.ntt/jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月 1日",
+    "url": "https://group.ntt/jp/ir/",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "サービスラインナップのうち、「OCNエコノミー」は128kbpsの常時接続サービスで、当時としては破格の月額費用だったことで、大企業のみならず、中小企業や個人にまで利用が拡大しました",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "前年から試験的に提供していた、光ファイバーを利用し、インターネットに高速で接続する定額制サービスを、2001年8月1日から本格提供を開始（当初は最大100M月額9000円）",
+    "url": "https://group.ntt/jp/group/history/",
+    "pass": 1
+   },
+   {
+    "quote": "帯域確保やサービス品質保証に加え、24時間以内の故障駆け付け対応などの保守体制を備え、通信の安定性・信頼性を確保するとともに、クラウド利用や多拠点接続など企業の業務利用に適した通信環境を提供し、法人向けサービスの強化および顧客基盤の拡大を図りました",
+    "url": "https://group.ntt/jp/business/regional_communications.html",
+    "pass": 1
+   },
+   {
+    "quote": "iPhone商標は、アイホン株式会社のライセンスに基づき使用されています",
+    "url": "https://group.ntt/jp/group/product/category/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "証券会社等にお申し出の場合は、直接証券会社等に手数料をお問合せください",
+    "url": "https://group.ntt/jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "dポイントとは、ドコモのサービスのご利用料金、カフェやコンビニといった街のお店、ネットショッピングなどでためる/つかえるおトクなポイントです",
+    "url": "https://group.ntt/jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "ドコモのケータイ／ドコモ光／ドコモでんき／ドコモ ガスのご利用料金に対するポイント進呈及び左記サービスのご契約を前提とする恒常的なポイント進呈",
+    "url": "https://group.ntt/jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "世界各国のDX需要を機動的に取り込み、安定したストック型のソリューションビジネスへと転換させることで、成長のサイクルを構築しています",
+    "url": "https://mindmeister.jp/posts/bm-NTT",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "海外営業利益率の算定にあたっては、買収に伴う無形資産の償却費等、一時的なコストを除外しています",
+    "url": "https://group.ntt/jp/ir/fin/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "海外営業利益率※2",
+    "url": "https://group.ntt/jp/ir/library/presentation/2022/230512_2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本記事では、成功企業の強みを直感的に理解し、自社の事業計画に転用できるよう、同社の戦略を1枚のマップに「構造化」して公開します",
+    "url": "https://mindmeister.jp/posts/bm-NTT",
+    "pass": 3
+   },
+   {
+    "quote": "上で提示した3つの強みの柱について、NTTの模倣困難な競争優位性がどこにあるのか、構造を深掘りして解説します",
+    "url": "https://mindmeister.jp/posts/bm-NTT",
+    "pass": 3
+   },
+   {
+    "quote": "とくに、長年培った信頼性と広範な接続環境は、競合他社がゼロから構築するには数十年単位の時間を要する参入障壁です",
+    "url": "https://mindmeister.jp/posts/bm-NTT",
+    "pass": 3
+   },
+   {
+    "quote": "部品レベルから、データセンタ、ネットワーク、AIコンピューティング基盤、ソリューションまでそろうAI時代のフルスタック事業体であるNTTの強みを、IOWN（Innovative Optical and Wireless Network）をAIOWNへと進化させ、社会実装で世界と勝負している海老原孝NTT技術企画部門長に、注力している技術領域と技術企画部門の姿勢について伺いました",
+    "url": "https://journal.ntt.co.jp/series/topinterview",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "【ビジネスモデル図解2026】NTTの事業戦略を構造化する（公開マップあり） ｜【公式】MindMeister（マインドマイスター）",
+    "url": "https://mindmeister.jp/posts/bm-NTT",
+    "pass": 3
+   },
+   {
+    "quote": "【ビジネスモデル図解2026】NTTの事業戦略を構造化する（公開マップあり） ｜【公式】MindMeister（マインドマイスター） has loaded",
+    "url": "https://mindmeister.jp/posts/bm-NTT",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル図解",
+    "url": "https://mindmeister.jp/posts/bm-NTT",
+    "pass": 3
+   },
+   {
+    "quote": "【ビジネスモデル図解2026】NTTの事業戦略を構造化する（公開マップあり）",
+    "url": "https://mindmeister.jp/posts/bm-NTT",
+    "pass": 3
+   },
+   {
+    "quote": "💁‍♂️ この記事は、身近な企業をテーマに、マインドマップツールを用いて、メタ的にビジネスモデルを図解する試みです",
+    "url": "https://mindmeister.jp/posts/bm-NTT",
+    "pass": 3
+   },
+   {
+    "quote": "「ビジネスモデル図解」一覧",
+    "url": "https://mindmeister.jp/posts/bm-NTT",
+    "pass": 3
+   },
+   {
+    "quote": "1. NTTのビジネスモデル構造マップ",
+    "url": "https://mindmeister.jp/posts/bm-NTT",
+    "pass": 3
+   },
+   {
+    "quote": "以下は、NTTがグローバル規模で展開するビジネスモデルの全体像を、わかりやすく階層化して構築したマインドマップです",
+    "url": "https://mindmeister.jp/posts/bm-NTT",
+    "pass": 3
+   },
+   {
+    "quote": "【ビジネスモデル図解2026】Sansanの事業戦略を構造化する（公開マップあり）",
+    "url": "https://mindmeister.jp/posts/bm-NTT",
+    "pass": 3
+   },
+   {
+    "quote": "【ビジネスモデル図解2026】ベイカレントの事業戦略を構造化する（公開マップあり）",
+    "url": "https://mindmeister.jp/posts/bm-NTT",
+    "pass": 3
+   },
+   {
+    "quote": "【ビジネスモデル図解2026】アイシンの事業戦略を構造化する（公開マップあり）",
+    "url": "https://mindmeister.jp/posts/bm-NTT",
+    "pass": 3
+   },
+   {
+    "quote": "【ビジネスモデル図解2026】デンソーの事業戦略を構造化する（公開マップあり）",
+    "url": "https://mindmeister.jp/posts/bm-NTT",
+    "pass": 3
+   },
+   {
+    "quote": "【ビジネスモデル図解2026】DeNAの事業戦略を構造化する（公開マップあり）",
+    "url": "https://mindmeister.jp/posts/bm-NTT",
+    "pass": 3
+   },
+   {
+    "quote": "【ビジネスモデル図解2026】東京海上HDの事業戦略を構造化する（公開マップあり）",
+    "url": "https://mindmeister.jp/posts/bm-NTT",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "NTT グループ中期経営戦略 | 経営方針 | 株主・投資家情報 — NTT グループ中期経営戦略 | 経営方針 | 株主・投資家情報 group.ntt https://group.ntt > ... > 株主・投資家情報 > 経営方針",
+    "url": "https://group.ntt/jp/ir/mgt/managementstrategy/",
+    "pass": 3
+   },
+   {
+    "quote": "【 ビジネスモデル 図解2026】 NTT の事業戦略を構造化する ... — 【 ビジネスモデル 図解2026】 NTT の事業戦略を構造化する ... mindmeister.jp https://mindmeister.jp > posts > bm-NTT",
+    "url": "https://mindmeister.jp/posts/bm-NTT",
+    "pass": 3
+   },
+   {
+    "quote": "DX戦略・ ビジネスモデル 変革 | プロフェッショナルサービス — DX戦略・ ビジネスモデル 変革 | プロフェッショナルサービス 株式会社NTTデータ経営研究所 https://www.nttdata-strategy.com > strategy > dx-strategy",
+    "url": "https://www.nttdata-strategy.com/services/strategy/dx-strategy/",
+    "pass": 3
+   },
+   {
+    "quote": "NTT の ビジネスモデル をわかりやすく｜リス企業研究員 - note — NTT の ビジネスモデル をわかりやすく｜リス企業研究員 - note note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/doctor_kessan/n/nf1d39a88600e",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューション モデル ｜ NTT ドコモ ビジネス 法人のお客さま — ソリューション モデル ｜ NTT ドコモ ビジネス 法人のお客さま NTTドコモビジネス https://www.ntt.com > business > solmodel",
+    "url": "https://www.ntt.com/business/lp/solmodel.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 - IR 資料 室 - NTT Group — 決算説明 会 - IR 資料 室 - NTT Group group.ntt https://group.ntt > ... > IR資料室 > IRイベント・説明会",
+    "url": "https://group.ntt/jp/ir/library/presentation/financial/",
+    "pass": 3
+   },
+   {
+    "quote": "IRイベント・ 説明 会 | IR 資料 室 | 株主・投資家情報 - NTT Group — IRイベント・ 説明 会 | IR 資料 室 | 株主・投資家情報 - NTT Group group.ntt https://group.ntt > ... > 株主・投資家情報 > IR資料室",
+    "url": "https://group.ntt/jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "IRイベント・ 説明 会 | 企業情報 - NTTドコモ — IRイベント・ 説明 会 | 企業情報 - NTTドコモ NTTドコモ https://www.docomo.ne.jp > library > presentation",
+    "url": "https://www.docomo.ne.jp/corporate/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度 NTT 第3四半期 決算 会見 - YouTube — 2025年度 NTT 第3四半期 決算 会見 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=aJDn30JmcPU",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報について（ 決算 発表について） - NTT東日本 — 企業情報について（ 決算 発表について） - NTT東日本 NTT東日本 https://www.ntt-east.co.jp > 企業情報 > お知らせ・報道発表",
+    "url": "https://www.ntt-east.co.jp/info/company_kessan.html",
+    "pass": 3
+   },
+   {
+    "quote": "組織図 | 会社情報 - NTT Group — 組織図 | 会社情報 - NTT Group group.ntt https://group.ntt > トップページ > 会社情報",
+    "url": "https://group.ntt/jp/corporate/organization/",
+    "pass": 3
+   },
+   {
+    "quote": "グループ企業一覧 | NTT グループについて - NTT Group — グループ企業一覧 | NTT グループについて - NTT Group group.ntt https://group.ntt > トップページ > NTTグループについて",
+    "url": "https://group.ntt/jp/group/gnavi/",
+    "pass": 3
+   },
+   {
+    "quote": "【 NTT 西日本】会社案内 組織図 - 通信・ICTサービス ... — 【 NTT 西日本】会社案内 組織図 - 通信・ICTサービス ... NTT西日本 https://www.ntt-west.co.jp > 企業情報 > 会社案内",
+    "url": "https://www.ntt-west.co.jp/corporate/about/sosikizu.html",
+    "pass": 3
+   },
+   {
+    "quote": "組織図 | NTT 東日本について | 企業情報 — 組織図 | NTT 東日本について | 企業情報 NTT東日本 https://www.ntt-east.co.jp > ... > NTT東日本について",
+    "url": "https://www.ntt-east.co.jp/aboutus/organization.html",
+    "pass": 3
+   },
+   {
+    "quote": "組織図 | NTT ME — 組織図 | NTT ME NTT ME https://www.ntt-me.co.jp > company > organization",
+    "url": "https://www.ntt-me.co.jp/company/organization.html",
+    "pass": 3
+   },
+   {
+    "quote": "代表取締役 社長 前田 義晃 インタビュー | 事業を知る — 代表取締役 社長 前田 義晃 インタビュー | 事業を知る NTTドコモ採用 https://information.nttdocomo-fresh.jp > interview",
+    "url": "https://information.nttdocomo-fresh.jp/docomo/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "トップ インタビュー - NTT技術ジャーナル — トップ インタビュー - NTT技術ジャーナル NTT技術ジャーナル https://journal.ntt.co.jp > series > topinterview",
+    "url": "https://journal.ntt.co.jp/series/topinterview",
+    "pass": 3
+   },
+   {
+    "quote": "ドコモシェア縮小「業界2位になるかも」 NTT社長 ... — ドコモシェア縮小「業界2位になるかも」 NTT社長 ... 朝日新聞 https://www.asahi.com > articles",
+    "url": "https://www.asahi.com/articles/DA3S16390269.html",
+    "pass": 3
+   },
+   {
+    "quote": "インフラ企業からエンタメの主役へ。 NTT ドコモがスポーツ ... — インフラ企業からエンタメの主役へ。 NTT ドコモがスポーツ ... Esquire https://www.esquire.com > LIFESTYLE > SPORTS",
+    "url": "https://www.esquire.com/jp/lifestyle/sports/a70961652/interview-with-yoshiaki-maeda-president-of-ntt-docomo/",
+    "pass": 3
+   },
+   {
+    "quote": "社長 メッセージ | 株主・投資家情報 - NTT Group — 社長 メッセージ | 株主・投資家情報 - NTT Group group.ntt https://group.ntt > トップページ > 株主・投資家情報",
+    "url": "https://group.ntt/jp/ir/message.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://group.ntt/jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://group.ntt/jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://group.ntt/jp/group/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://group.ntt/jp/business/integrated_ict.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://group.ntt/jp/business/global_solutions.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://group.ntt/jp/business/regional_communications.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://group.ntt/jp/business/others.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://group.ntt/jp/group/product/category/business.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://group.ntt/jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://group.ntt/jp/ir/mgt/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://group.ntt/jp/ir/fin/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://group.ntt/jp/ir/shares/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://group.ntt/jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://group.ntt/jp/ir/private_investor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://group.ntt/jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://group.ntt/jp/ir/shares/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://group.ntt/jp/ir/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://group.ntt/jp/ir/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://group.ntt/jp/ir/message.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://group.ntt/jp/ir/mgt/managementstrategy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://group.ntt/jp/ir/mgt/management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://group.ntt/jp/ir/mgt/others.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://group.ntt/jp/ir/mgt/governance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://group.ntt/jp/ir/fin/highlight.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://group.ntt/jp/ir/fin/forecast.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://group.ntt/jp/ir/library/annual/pdf/integrated_report_26j.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://group.ntt/jp/ir/library/results/2026/pdf/fy2026q1kessan0806.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://group.ntt/jp/ir/library/presentation/2026/260806.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://group.ntt/jp/ir/library/yuho/2025/pdf/41yuho.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://group.ntt/jp/ir/library/annual/pdf/integrated_report_26j.pdf?1014",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://group.ntt/jp/newsrelease/2026/05/08/pdf/260508ba.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://group.ntt/jp/ir/private_investor/benefit/pdf/entry_manual.pdf?250619",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://group.ntt/jp/ir/library/presentation/2022/230512_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://group.ntt/common/img/business/img_keyvisual_pc.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://group.ntt/common/img/business/img_keyvisual_sp.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://group.ntt/common/img/business/img_business1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://group.ntt/common/img/business/img_business3.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://group.ntt/common/img/business/img_business2_2024.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://group.ntt/common/img/business/img_business5.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://group.ntt/jp/business/img/img_composition-ratio_jp_fy2025.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://group.ntt/jp/business/img/mobile_communications/kv.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://mindmeister.jp/posts/bm-NTT",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://information.nttdocomo-fresh.jp/docomo/interview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://journal.ntt.co.jp/series/topinterview",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "NTT",
+   "results": [
+    "https://group.ntt/jp/",
+    "https://www.nttdata.com/global/en/",
+    "https://ja.wikipedia.org/wiki/NTT",
+    "https://www.global.ntt/",
+    "https://www.ntt-east.co.jp/",
+    "https://group.ntt/en/",
+    "https://www.ntt.com/en/index.html",
+    "https://group.ntt/jp/corporate/overview/",
+    "https://en.wikipedia.org/wiki/Nippon_Telegraph_and_Telephone",
+    "https://group.ntt/en/group/"
+   ]
+  },
+  {
+   "query": "NTT ビジネスモデル",
+   "results": [
+    "https://group.ntt/jp/ir/mgt/managementstrategy/",
+    "https://mindmeister.jp/posts/bm-NTT",
+    "https://www.nttdata-strategy.com/services/strategy/dx-strategy/",
+    "https://note.com/doctor_kessan/n/nf1d39a88600e",
+    "https://www.ntt.com/business/lp/solmodel.html",
+    "https://group.ntt/jp/group/iown/",
+    "https://japan.zdnet.com/article/35235118/",
+    "https://www.nttdata.com/jp/ja/trends/data-insight/2021/030901/",
+    "https://www.ntt-west.co.jp/corporate/about/group.html",
+    "https://consovation.com/nttの成長戦略がすごい-ビジネスモデルを徹底解説/"
+   ]
+  },
+  {
+   "query": "NTT 決算説明資料",
+   "results": [
+    "https://group.ntt/jp/ir/library/presentation/financial/",
+    "https://group.ntt/jp/ir/library/presentation/",
+    "https://www.docomo.ne.jp/corporate/ir/library/presentation/",
+    "https://www.youtube.com/watch?v=aJDn30JmcPU",
+    "https://www.ntt-east.co.jp/info/company_kessan.html",
+    "https://group.ntt/jp/ir/library/presentation/2026/260806.pdf",
+    "https://group.ntt/jp/ir/",
+    "https://group.ntt/jp/ir/library/results/",
+    "https://www.ntt-finance.co.jp/ir/",
+    "https://group.ntt/jp/ir/library/"
+   ]
+  },
+  {
+   "query": "NTT 事業系統図",
+   "results": [
+    "https://group.ntt/jp/corporate/organization/",
+    "https://group.ntt/jp/group/gnavi/",
+    "https://www.ntt-west.co.jp/corporate/about/sosikizu.html",
+    "https://www.ntt-east.co.jp/aboutus/organization.html",
+    "https://www.ntt-me.co.jp/company/organization.html",
+    "https://www.ntt.com/about-us/company-profile/organization.html",
+    "https://www.nttdata.com/jp/ja/about-us/organization/",
+    "https://group.ntt/jp/business/",
+    "https://unistyleinc.com/techniques/1704",
+    "https://ja.wikipedia.org/wiki/NTTグループ"
+   ]
+  },
+  {
+   "query": "NTT 社長 インタビュー",
+   "results": [
+    "https://information.nttdocomo-fresh.jp/docomo/interview/",
+    "https://journal.ntt.co.jp/series/topinterview",
+    "https://www.asahi.com/articles/DA3S16390269.html",
+    "https://www.esquire.com/jp/lifestyle/sports/a70961652/interview-with-yoshiaki-maeda-president-of-ntt-docomo/",
+    "https://group.ntt/jp/ir/message.html",
+    "https://www.nikkei.com/article/DGXZQOUC245UI0U5A221C2000000/",
+    "https://toyokeizai.net/articles/-/573006?display=b",
+    "https://www.nttdata.com/global/ja/about-us/message/",
+    "https://japan.cnet.com/article/35234579/",
+    "https://toyokeizai.net/feature/6943979d6b208da1700008e1"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式25頁／PDF・画像16件／外部3頁・検索5回）",
+  "事業内容": "記載なし（3回確認済み：公式25頁／PDF・画像16件／外部3頁・検索5回）"
+ }
+}

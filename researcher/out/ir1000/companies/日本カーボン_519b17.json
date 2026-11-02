@@ -1,0 +1,1621 @@
+{
+ "name": "日本カーボン",
+ "aliases": [],
+ "context": "証券コード5302／ガラス・土石製品／プライム（内国株式）／2025.12期 売上高37,735百万円 営業利益率12.7%",
+ "researched_at": "2026-11-02T19:45:43.992405+00:00",
+ "official_url": "https://www.carbon.co.jp/",
+ "identified_by": "search:yahoo_jp:日本カーボン",
+ "profile": {
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "（百万円） 35,799 37,867 37,956 37,735",
+    "url": "https://www.carbon.co.jp/ir/highlights.html",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "",
+    "url": "https://kitaishihon.com/company/5302/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "34,371 2,700 885 37,956 － 37,956",
+    "url": "https://kitaishihon.com/company/5302/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の 内部売上高又は振替高",
+    "value": "0 17 636 654 △654 －",
+    "url": "https://kitaishihon.com/company/5302/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "32,397 4,128 1,209 37,735 － 37,735",
+    "url": "https://kitaishihon.com/company/5302/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の 内部売上高又は振替高",
+    "value": "1 8 463 473 △473 －",
+    "url": "https://kitaishihon.com/company/5302/business",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "炭素繊維製品",
+    "url": "https://www.carbon.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "特殊炭素製品",
+    "url": "https://www.carbon.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品から探す",
+    "url": "https://www.carbon.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "各種工業製品",
+    "url": "https://www.carbon.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "炭素繊維製品",
+    "url": "https://www.carbon.co.jp/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "特殊炭素製品",
+    "url": "https://www.carbon.co.jp/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1938年 横浜海岸工場建設、電刷子等高級炭素製品用素材の大量生産開始",
+    "url": "https://www.carbon.co.jp/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2003年 特殊炭素製品を中心とする子会社 新日本テクノカーボン株式会社を設立",
+    "url": "https://www.carbon.co.jp/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2005年 化学産業向け不浸透黒鉛製品の販売会社",
+    "url": "https://www.carbon.co.jp/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "炭素繊維製品",
+    "url": "https://www.carbon.co.jp/info/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "特殊炭素製品",
+    "url": "https://www.carbon.co.jp/info/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "炭素繊維製品",
+    "url": "https://www.carbon.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "特殊炭素製品",
+    "url": "https://www.carbon.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "炭素繊維製品",
+    "url": "https://www.carbon.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "特殊炭素製品",
+    "url": "https://www.carbon.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社へのお問い合わせや製品に関するご質問は、フォームにて随時承っております",
+    "url": "https://www.carbon.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "炭素繊維製品",
+    "url": "https://www.carbon.co.jp/ir/highlights.html",
+    "pass": 1
+   },
+   {
+    "quote": "特殊炭素製品",
+    "url": "https://www.carbon.co.jp/ir/highlights.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社へのお問い合わせや製品に関するご質問は、フォームにて随時承っております",
+    "url": "https://www.carbon.co.jp/ir/highlights.html",
+    "pass": 1
+   },
+   {
+    "quote": "炭素繊維製品",
+    "url": "https://www.carbon.co.jp/ir/memo.html",
+    "pass": 1
+   },
+   {
+    "quote": "特殊炭素製品",
+    "url": "https://www.carbon.co.jp/ir/memo.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社へのお問い合わせや製品に関するご質問は、フォームにて随時承っております",
+    "url": "https://www.carbon.co.jp/ir/memo.html",
+    "pass": 1
+   },
+   {
+    "quote": "炭素繊維製品",
+    "url": "https://www.carbon.co.jp/ir/kokoku.html",
+    "pass": 1
+   },
+   {
+    "quote": "特殊炭素製品",
+    "url": "https://www.carbon.co.jp/ir/kokoku.html",
+    "pass": 1
+   },
+   {
+    "quote": "炭素繊維製品",
+    "url": "https://www.carbon.co.jp/ir/governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "特殊炭素製品",
+    "url": "https://www.carbon.co.jp/ir/governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社へのお問い合わせや製品に関するご質問は、フォームにて随時承っております",
+    "url": "https://www.carbon.co.jp/ir/governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "１ 本書は半期報告書を金融 商品取引法第27条の30の２に規定する開示",
+    "url": "https://www.carbon.co.jp/ir/securities_R08q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【根拠条文】 金融商品取引法第24条の５第１項の表の第１号",
+    "url": "https://www.carbon.co.jp/ir/securities_R08q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(炭素製品関連)",
+    "url": "https://www.carbon.co.jp/ir/securities_R08q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "電極材関連製品",
+    "url": "https://www.carbon.co.jp/ir/securities_R08q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(炭化けい素製品関連)",
+    "url": "https://www.carbon.co.jp/ir/securities_R08q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "炭化けい素連続繊維製品につき ましては、航空機エンジン用途を中 心とした需要が引き続き 堅調",
+    "url": "https://www.carbon.co.jp/ir/securities_R08q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの炭素製品 関連事業における当中間 連結会計期間の研究開発費は2億9千万円であり",
+    "url": "https://www.carbon.co.jp/ir/securities_R08q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "上場金融商品取引所",
+    "url": "https://www.carbon.co.jp/ir/securities_R08q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品取引業協会名",
+    "url": "https://www.carbon.co.jp/ir/securities_R08q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、金融商品取引法第193条の２第１項の規定に基づき、中間連結会計期間(2026年１月１日か",
+    "url": "https://www.carbon.co.jp/ir/securities_R08q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品及び製品 3,451 2,976",
+    "url": "https://www.carbon.co.jp/ir/securities_R08q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品関連 その他 計",
+    "url": "https://www.carbon.co.jp/ir/securities_R08q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ファインカーボン関連製品 9,871 － － 9,871 － 9,871",
+    "url": "https://www.carbon.co.jp/ir/securities_R08q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "電極材関連製品 5,823 － － 5,823 － 5,823",
+    "url": "https://www.carbon.co.jp/ir/securities_R08q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "炭化けい素関連製品 － 2,095 － 2,095 － 2,095",
+    "url": "https://www.carbon.co.jp/ir/securities_R08q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ファインカーボン関連製品 10,024 － － 10,024 － 10,024",
+    "url": "https://www.carbon.co.jp/ir/securities_R08q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "電極材関連製品 6,003 － － 6,003 － 6,003",
+    "url": "https://www.carbon.co.jp/ir/securities_R08q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "炭化けい素関連製品 － 2,414 － 2,414 － 2,414",
+    "url": "https://www.carbon.co.jp/ir/securities_R08q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業の内容 炭素製品製造事業",
+    "url": "https://www.carbon.co.jp/ir/securities_R08q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業の内容 製品加工の請負",
+    "url": "https://www.carbon.co.jp/ir/securities_R08q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当監査法人は、金融商品取引法第193条の２第１項の規定に基づき、「経理の状況」に掲げられている日本カーボン株",
+    "url": "https://www.carbon.co.jp/ir/securities_R08q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【根拠条文】 金融商品取引法第24条の５の２第１項",
+    "url": "https://www.carbon.co.jp/ir/securities_R08q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "載内容が金融商品取引法令に基づき適正に記載されていることを確認いたしました",
+    "url": "https://www.carbon.co.jp/ir/securities_R08q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（金融商品取引法第24条第１項に基づく報告書）",
+    "url": "https://www.carbon.co.jp/ir/topic_260325_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１ 本書は金融商品取引法第 24条第１項に基づく有価証券報告 書を、同",
+    "url": "https://www.carbon.co.jp/ir/topic_260325_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【根拠条文】 金融商品取引法第24条第１項",
+    "url": "https://www.carbon.co.jp/ir/topic_260325_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1938年 横浜海岸工場建設、電刷子等高級炭素製品用素材の大量生産開始",
+    "url": "https://www.carbon.co.jp/ir/topic_260325_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2003年 特殊炭素製品事業を会社分割により、子会社新日本テクノカーボン株式会社に承継する事業統合",
+    "url": "https://www.carbon.co.jp/ir/topic_260325_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "れ、炭素製品及び炭化けい素 製品の製造及び販売を主 な事業内容とし、産業機械製造及び修 理、不動産賃貸等の事業",
+    "url": "https://www.carbon.co.jp/ir/topic_260325_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "○炭素製品関連",
+    "url": "https://www.carbon.co.jp/ir/topic_260325_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "炭素製品の素材製造…当社及び連結子会社日本テクノカーボン㈱が素材を製造しております",
+    "url": "https://www.carbon.co.jp/ir/topic_260325_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "炭素製品の加工………当社、連結子会社日本カーボンエンジニアリング㈱、連結子会社日本テクノカーボン㈱が",
+    "url": "https://www.carbon.co.jp/ir/topic_260325_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Co.,Ltd.が当社の製品等を販売し、当社及び中央炭素股份有限公司が日本テクノカーボン",
+    "url": "https://www.carbon.co.jp/ir/topic_260325_02.pdf",
+    "pass": 2
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "会社沿革 | 日本カーボン株式会社",
+    "url": "https://www.carbon.co.jp/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1915年 横浜市神奈川区浦島ヶ丘に設立、天然黒鉛電極製造開始",
+    "url": "https://www.carbon.co.jp/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1926年 水溶液電解用人造黒鉛電極（電解板）の製造開始",
+    "url": "https://www.carbon.co.jp/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1927年 我国最初の人造黒鉛電極製造に成功",
+    "url": "https://www.carbon.co.jp/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1932年 電動機用電刷子工業化",
+    "url": "https://www.carbon.co.jp/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1933年 電解板製造のため山梨工場を建設",
+    "url": "https://www.carbon.co.jp/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1934年 製鋼用人造黒鉛電極製造のため富山工場を建設",
+    "url": "https://www.carbon.co.jp/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1938年 横浜海岸工場建設、電刷子等高級炭素製品用素材の大量生産開始",
+    "url": "https://www.carbon.co.jp/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1949年 化学構造材料用不浸透黒鉛（レスボン）の工業化",
+    "url": "https://www.carbon.co.jp/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1957年 原子炉用黒鉛（減速材、反射材）の技術確立",
+    "url": "https://www.carbon.co.jp/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1962年 炭素繊維（カーボロン）の工業化",
+    "url": "https://www.carbon.co.jp/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1966年 ロータリーエンジン用アペックスシールの工業化",
+    "url": "https://www.carbon.co.jp/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1970年 高強度・高弾性炭素繊維（カーボロン-Z）の販売開始",
+    "url": "https://www.carbon.co.jp/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1974年 可とう性黒鉛シール材（ニカフィルム）の販売開始",
+    "url": "https://www.carbon.co.jp/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1980年 炭化けい素連続繊維（ニカロン）の製造技術確立のため、新技術開発事業団より開発受託",
+    "url": "https://www.carbon.co.jp/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1983年 山梨工場にて等方性黒鉛製造開始、炭化けい素連続繊維（ニカロン）の製造技術開発につき、新技術開発事業団より成功認定を受く",
+    "url": "https://www.carbon.co.jp/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1985年 デミング賞実施賞を受賞",
+    "url": "https://www.carbon.co.jp/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1986年 繊維状活性炭の販売開始",
+    "url": "https://www.carbon.co.jp/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1987年 高機能摺動材（SCカーボン）加工工場として白河工場稼動開始",
+    "url": "https://www.carbon.co.jp/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1992年 電子線照射法による超耐熱性炭化けい素連続繊維（ハイニカロン）の、工業化のため新技術事業団（旧名 新技術開発事業団）より開発受託",
+    "url": "https://www.carbon.co.jp/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1993年 富山工場ISO9001認証取得",
+    "url": "https://www.carbon.co.jp/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1994年 滋賀工場（新日本カーボン）ISO9002認証取得（1997年ISO9001に更改）",
+    "url": "https://www.carbon.co.jp/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1995年 超耐熱性炭化けい素連続繊維（ハイニカロン）の、工業化技術に対して新技術事業団より成功認定を受く",
+    "url": "https://www.carbon.co.jp/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1998年 山梨工場ISO9001認定取得",
+    "url": "https://www.carbon.co.jp/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1999年 新日本カーボン（株）を吸収合併し滋賀工場とする",
+    "url": "https://www.carbon.co.jp/info/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和8年（2026）",
+    "url": "https://www.carbon.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和7年（2025）",
+    "url": "https://www.carbon.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和6年（2024）",
+    "url": "https://www.carbon.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和5年（2023）",
+    "url": "https://www.carbon.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和4年（2022）",
+    "url": "https://www.carbon.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第2四半期（中間期）決算短信",
+    "url": "https://www.carbon.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第1四半期決算短信",
+    "url": "https://www.carbon.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期決算短信",
+    "url": "https://www.carbon.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期 第3四半期決算短信",
+    "url": "https://www.carbon.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期第2四半期（中間期）決算短信",
+    "url": "https://www.carbon.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期 第1四半期決算短信",
+    "url": "https://www.carbon.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年12月期決算短信",
+    "url": "https://www.carbon.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年12月期 第3四半期決算短信",
+    "url": "https://www.carbon.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年12月期第2四半期（中間期）決算短信",
+    "url": "https://www.carbon.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年12月期 第1四半期決算短信",
+    "url": "https://www.carbon.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年12月期決算短信",
+    "url": "https://www.carbon.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年12月期 第3四半期決算短信",
+    "url": "https://www.carbon.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年12月期 第2四半期決算短信",
+    "url": "https://www.carbon.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年12月期 第1四半期決算短信",
+    "url": "https://www.carbon.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年12月期決算短信",
+    "url": "https://www.carbon.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年12月期 第3四半期決算短信",
+    "url": "https://www.carbon.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年12月期 第2四半期決算短信",
+    "url": "https://www.carbon.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年12月期 第1四半期決算短信",
+    "url": "https://www.carbon.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年 12 月期中間連結会計期間の連結業績予想と実績値との差異に関するお知らせ",
+    "url": "https://www.carbon.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "令和７年（2025）",
+    "url": "https://www.carbon.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度",
+    "url": "https://www.carbon.co.jp/ir/highlights.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://www.carbon.co.jp/ir/highlights.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.carbon.co.jp/ir/highlights.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.carbon.co.jp/ir/highlights.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年１月１日～",
+    "url": "https://www.carbon.co.jp/ir/securities_R08q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年６月30日 ― 11,832,504 ― 7,402 ― 1,851",
+    "url": "https://www.carbon.co.jp/ir/securities_R08q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年６月30日現在",
+    "url": "https://www.carbon.co.jp/ir/securities_R08q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年３月28日",
+    "url": "https://www.carbon.co.jp/ir/securities_R08q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年８月８日",
+    "url": "https://www.carbon.co.jp/ir/securities_R08q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年３月27日",
+    "url": "https://www.carbon.co.jp/ir/securities_R08q2.pdf",
+    "pass": 2
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "顧客との契約から生じる",
+    "url": "https://www.carbon.co.jp/ir/securities_R08q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 15,694 2,095 516 18,305 － 18,305",
+    "url": "https://www.carbon.co.jp/ir/securities_R08q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 16,028 2,414 580 19,023 － 19,023",
+    "url": "https://www.carbon.co.jp/ir/securities_R08q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益を 分解した情報は、「注記事項(セグメント情報等)」に記載のとお",
+    "url": "https://www.carbon.co.jp/ir/securities_R08q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "原材料メーカーの生産体 制などにより、原材料の需給が逼 迫した場合、顧客への製品提供が不可 能となり、経営成",
+    "url": "https://www.carbon.co.jp/ir/topic_260325_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループで は、当社のテクニカルセンタ ーが販売部門と連携し、お客様のニーズを的確に 把握し、各事業所の",
+    "url": "https://www.carbon.co.jp/ir/topic_260325_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様の多岐にわたるニ ーズにお応えするた め、既存製品の高性能化およ びコストダウンに 繋がる新たな技術の",
+    "url": "https://www.carbon.co.jp/ir/topic_260325_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "とにより、法令遵守はもとよ り、リスク管理の徹 底、株主、取引先、地域社会等ステー クホルダーへの透明",
+    "url": "https://www.carbon.co.jp/ir/topic_260325_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "一方、純投資目的以外と は、当社の販売・仕入・金融等に関する重要な取引先と の関係強化及び取引の円 滑",
+    "url": "https://www.carbon.co.jp/ir/topic_260325_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、株式数の増加は、取引先持株会での",
+    "url": "https://www.carbon.co.jp/ir/topic_260325_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、販売・仕入・金融等に関する重要な取引先との関係強化及び",
+    "url": "https://www.carbon.co.jp/ir/topic_260325_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる",
+    "url": "https://www.carbon.co.jp/ir/securities_R07q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 17,095 1,310 394 18,800 － 18,800",
+    "url": "https://www.carbon.co.jp/ir/securities_R07q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 15,694 2,095 516 18,305 － 18,305",
+    "url": "https://www.carbon.co.jp/ir/securities_R07q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益を 分解した情報は、「注記事項(セグメント情報等)」に記載のとお",
+    "url": "https://www.carbon.co.jp/ir/securities_R07q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "原材料メーカーの生産体 制などにより、原材料の需給が逼 迫した場合、顧客への製品提供が不可 能となり、経営成",
+    "url": "https://www.carbon.co.jp/ir/securities_r06kimatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループで は、当社のテクニカルセンタ ーが販売部門と連携し、お客様のニーズを的確に 把握し、各事業所の",
+    "url": "https://www.carbon.co.jp/ir/securities_r06kimatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様の多岐にわたるニ ーズにお応えするた め、既存製品の高性能化およ びコストダウンに 繋がる新たな技術の",
+    "url": "https://www.carbon.co.jp/ir/securities_r06kimatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "とにより、法令遵守はもとよ り、リスク管理の徹 底、株主、取引先、地域社会等ステー クホルダーへの透明",
+    "url": "https://www.carbon.co.jp/ir/securities_r06kimatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "一方、純投資目的以外と は、当社の販売・仕入・金融等に関する重要な取引先と の関係強化及び取引の円 滑",
+    "url": "https://www.carbon.co.jp/ir/securities_r06kimatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、株式数の増加は、取引先持株会での",
+    "url": "https://www.carbon.co.jp/ir/securities_r06kimatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、販売・仕入・金融等に関する重要な取引先との関係強化及び",
+    "url": "https://www.carbon.co.jp/ir/securities_r06kimatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ファインカーボン関連製品につ きましては、パワー半導体向け顧客の 販売が堅調に推移いたし ま",
+    "url": "https://www.carbon.co.jp/ir/securities_R06q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる",
+    "url": "https://www.carbon.co.jp/ir/securities_R06q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 16,591 1,048 455 18,096 － 18,096",
+    "url": "https://www.carbon.co.jp/ir/securities_R06q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 17,095 1,310 394 18,800 － 18,800",
+    "url": "https://www.carbon.co.jp/ir/securities_R06q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益を 分解した情報は、「注記事項(セグメント情報等)」に記載のとお",
+    "url": "https://www.carbon.co.jp/ir/securities_R06q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる",
+    "url": "https://www.carbon.co.jp/ir/securities_R06q1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 7,116 328 251 7,695 － 7,695",
+    "url": "https://www.carbon.co.jp/ir/securities_R06q1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 7,843 373 222 8,438 － 8,438",
+    "url": "https://www.carbon.co.jp/ir/securities_R06q1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益を 分解した情報は、「注記事項(セグメント情報等)」に記載のとお",
+    "url": "https://www.carbon.co.jp/ir/securities_R06q1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これまで当社グループは 炭素製品等の総合技術を 基に、お客様の安全で効率的な 操業を支え豊かな社会の実現に",
+    "url": "https://www.carbon.co.jp/ir/securities_r05kimatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "原材料メーカーの生産体 制などにより、原材料の需給が逼 迫した場合、顧客への製品提供が不可 能となり、経営成",
+    "url": "https://www.carbon.co.jp/ir/securities_r05kimatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社黒鉛電極の主要な取引先の一社である韓国大手電炉メーカーKISCOは、建材用棒鋼を中心に高品質の電炉鋼材を製",
+    "url": "https://www.carbon.co.jp/ir/securities_r05kimatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "造時の黒鉛電極消費量を 抑制するなど、黒鉛電極の品質の改善に取り組 むことで、市場での競争力の強化及 びお客様満",
+    "url": "https://www.carbon.co.jp/ir/securities_r05kimatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループで は、当社のテクニカルセンタ ーが、販売部門と連携しお客様のニーズ を的確に把握し、各事業所の",
+    "url": "https://www.carbon.co.jp/ir/securities_r05kimatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様の多岐にわたるニ ーズにお応えするた め、既存製品の高性能化およ びコストダウンに 繋がる新たな技術の",
+    "url": "https://www.carbon.co.jp/ir/securities_r05kimatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "とにより、法令遵守はもとよ り、リスク管理の徹 底、株主、取引先、地域社会等ステー クホルダーへの透明",
+    "url": "https://www.carbon.co.jp/ir/securities_r05kimatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "一方、純投資目的以外と は、当社の販売・仕入・金融等に関する重要な取引先と の関係強化及び取引の円 滑",
+    "url": "https://www.carbon.co.jp/ir/securities_r05kimatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "式取得及び取引先持株会での定期買付",
+    "url": "https://www.carbon.co.jp/ir/securities_r05kimatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、株式数の増加は、取引先持株会での",
+    "url": "https://www.carbon.co.jp/ir/securities_r05kimatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、販売・仕入・金融等に関する重要な取引先との関係強化及び",
+    "url": "https://www.carbon.co.jp/ir/securities_r05kimatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "スク負担が顧客に移転した時点で収益を認識しております",
+    "url": "https://www.carbon.co.jp/ir/securities_r05kimatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる",
+    "url": "https://www.carbon.co.jp/ir/securities_R05q3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 24,616 1,457 609 26,683 － 26,683",
+    "url": "https://www.carbon.co.jp/ir/securities_R05q3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 24,603 1,531 705 26,840 － 26,840",
+    "url": "https://www.carbon.co.jp/ir/securities_R05q3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益を 分解した情報は、「注記事項(セグメント情報等)」に記載のとお",
+    "url": "https://www.carbon.co.jp/ir/securities_R05q3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益",
+    "url": "https://kitaishihon.com/company/5302/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高",
+    "url": "https://kitaishihon.com/company/5302/business",
+    "pass": 3
+   },
+   {
+    "quote": "(注) 売上高は顧客の所在地を基礎とし、国又は地域に分類しております",
+    "url": "https://kitaishihon.com/company/5302/business",
+    "pass": 3
+   },
+   {
+    "quote": "３ 主要な顧客ごとの情報",
+    "url": "https://kitaishihon.com/company/5302/business",
+    "pass": 3
+   },
+   {
+    "quote": "連結損益計算書の総売上高の金額の10％を超える顧客が存在しないため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/5302/business",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/5302/business",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "① 【ストックオプション制度の内容】",
+    "url": "https://www.carbon.co.jp/ir/securities_R08q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "品の運送費・包装費、手数料等の販売費のため の運転資金が主な内容となりま す",
+    "url": "https://www.carbon.co.jp/ir/topic_260325_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① 【ストックオプション制度の内容】",
+    "url": "https://www.carbon.co.jp/ir/topic_260325_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、2007年３月29日開催の第148回定時株主総会におい て、取締役は年額 300百万円、監査役は年額50百万円",
+    "url": "https://www.carbon.co.jp/ir/topic_260325_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "固定賞与 現金 固定 ― 基本月額報酬の50％程度であります",
+    "url": "https://www.carbon.co.jp/ir/topic_260325_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① 【ストックオプション制度の内容】",
+    "url": "https://www.carbon.co.jp/ir/securities_R07q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "品の運送費・包装費、手数料等の販売費のため の運転資金が主な内容となりま す",
+    "url": "https://www.carbon.co.jp/ir/securities_r06kimatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① 【ストックオプション制度の内容】",
+    "url": "https://www.carbon.co.jp/ir/securities_r06kimatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、2007年３月29日開催の第148回定時株主総会におい て、取締役は年額 300百万円、監査役は年額50百万円",
+    "url": "https://www.carbon.co.jp/ir/securities_r06kimatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "固定賞与 現金 固定 ― 基本月額報酬の50％程度であります",
+    "url": "https://www.carbon.co.jp/ir/securities_r06kimatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① 【ストックオプション制度の内容】",
+    "url": "https://www.carbon.co.jp/ir/securities_R06q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① 【ストックオプション制度の内容】",
+    "url": "https://www.carbon.co.jp/ir/securities_R06q1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "品の運送費・包装費、手数料等の販売費のため の運転資金が主な内容となりま す",
+    "url": "https://www.carbon.co.jp/ir/securities_r05kimatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① 【ストックオプション制度の内容】",
+    "url": "https://www.carbon.co.jp/ir/securities_r05kimatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、2007年３月29日開催の定時株主総会において、取締役は年額300百万円、監査役は年額50百万円を限度と",
+    "url": "https://www.carbon.co.jp/ir/securities_r05kimatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "固定賞与 現金 固定 ― 基本月額報酬の50％程度であります",
+    "url": "https://www.carbon.co.jp/ir/securities_r05kimatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① 【ストックオプション制度の内容】",
+    "url": "https://www.carbon.co.jp/ir/securities_R05q3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "運転資金需要につきましては、生産活動に必要な原材料、外注費及び人件費等の製造費用、販売における製品の運送費・包装費、手数料等の販売費のための運転資金が主な内容となります",
+    "url": "https://kitaishihon.com/company/5302/business",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "なお、当中間連結会計期間におけるセグメント別の経営成績は次のとおりであります",
+    "url": "https://www.carbon.co.jp/ir/securities_R08q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(セグメント情報等)",
+    "url": "https://www.carbon.co.jp/ir/securities_R08q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.carbon.co.jp/ir/securities_R08q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメントごとの売上高及び利益の金額に関する情報並びに収益の分解情報",
+    "url": "https://www.carbon.co.jp/ir/securities_R08q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント 調整額",
+    "url": "https://www.carbon.co.jp/ir/securities_R08q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部売上高",
+    "url": "https://www.carbon.co.jp/ir/securities_R08q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 1,684 798 122 2,604 4 2,609",
+    "url": "https://www.carbon.co.jp/ir/securities_R08q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注) １．セグメント間取引消去によるものであります",
+    "url": "https://www.carbon.co.jp/ir/securities_R08q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益は中間連結損益計算書の営業利益と一致しております",
+    "url": "https://www.carbon.co.jp/ir/securities_R08q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 1,295 953 222 2,471 3 2,475",
+    "url": "https://www.carbon.co.jp/ir/securities_R08q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益を 分解した情報は、「注記事項(セグメント情報等)」に記載のとお",
+    "url": "https://www.carbon.co.jp/ir/securities_R08q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの事業に係わる位置づけ及びセグメントとの関連は次のとおりです",
+    "url": "https://www.carbon.co.jp/ir/topic_260325_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの名称 従業員数(名)",
+    "url": "https://www.carbon.co.jp/ir/topic_260325_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別の業績は次のとおりであります",
+    "url": "https://www.carbon.co.jp/ir/topic_260325_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当連結会計年度の生産実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://www.carbon.co.jp/ir/topic_260325_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの名称 生産高(百万円) 前期比(％)",
+    "url": "https://www.carbon.co.jp/ir/topic_260325_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注) １ セグメント間取引については、相殺消去しております",
+    "url": "https://www.carbon.co.jp/ir/topic_260325_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当連結会計年度の販売実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://www.carbon.co.jp/ir/topic_260325_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの名称 販売高(百万円) 前期比(％)",
+    "url": "https://www.carbon.co.jp/ir/topic_260325_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注) セグメント間取引については、相殺消去しております",
+    "url": "https://www.carbon.co.jp/ir/topic_260325_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(1) セグメント内訳",
+    "url": "https://www.carbon.co.jp/ir/topic_260325_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://www.carbon.co.jp/ir/topic_260325_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの",
+    "url": "https://www.carbon.co.jp/ir/topic_260325_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "会社名 事業所名(所在地) セグメントの名称 設備の内容 帳簿価額(百万円) 従業員数(名)建物及び",
+    "url": "https://www.carbon.co.jp/ir/topic_260325_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※ 構成比は支給係数が100％の場合の大凡の構成比であり、実際の構成比は業績連動指標により変動いたします",
+    "url": "https://www.carbon.co.jp/ir/topic_260325_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、当中間連結会計期間におけるセグメント別の経営成績は次のとおりであります",
+    "url": "https://www.carbon.co.jp/ir/securities_R07q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(セグメント情報等)",
+    "url": "https://www.carbon.co.jp/ir/securities_R07q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.carbon.co.jp/ir/securities_R07q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメントごとの売上高及び利益の金額に関する情報並びに収益の分解情報",
+    "url": "https://www.carbon.co.jp/ir/securities_R07q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント 調整額",
+    "url": "https://www.carbon.co.jp/ir/securities_R07q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部売上高",
+    "url": "https://www.carbon.co.jp/ir/securities_R07q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 2,883 370 130 3,384 8 3,393",
+    "url": "https://www.carbon.co.jp/ir/securities_R07q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注) １．セグメント間取引消去によるものであります",
+    "url": "https://www.carbon.co.jp/ir/securities_R07q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益は中間連結損益計算書の営業利益と一致しております",
+    "url": "https://www.carbon.co.jp/ir/securities_R07q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 1,684 798 122 2,604 4 2,609",
+    "url": "https://www.carbon.co.jp/ir/securities_R07q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益を 分解した情報は、「注記事項(セグメント情報等)」に記載のとお",
+    "url": "https://www.carbon.co.jp/ir/securities_R07q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの事業に係わる位置づけ及びセグメントとの関連は次のとおりです",
+    "url": "https://www.carbon.co.jp/ir/securities_r06kimatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの名称 従業員数(名)",
+    "url": "https://www.carbon.co.jp/ir/securities_r06kimatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別の業績は次のとおりであります",
+    "url": "https://www.carbon.co.jp/ir/securities_r06kimatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当連結会計年度の生産実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://www.carbon.co.jp/ir/securities_r06kimatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの名称 生産高(百万円) 前期比(％)",
+    "url": "https://www.carbon.co.jp/ir/securities_r06kimatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注) １ セグメント間取引については、相殺消去しております",
+    "url": "https://www.carbon.co.jp/ir/securities_r06kimatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当連結会計年度の販売実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://www.carbon.co.jp/ir/securities_r06kimatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの名称 販売高(百万円) 前期比(％)",
+    "url": "https://www.carbon.co.jp/ir/securities_r06kimatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注) セグメント間取引については、相殺消去しております",
+    "url": "https://www.carbon.co.jp/ir/securities_r06kimatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(1) セグメント内訳",
+    "url": "https://www.carbon.co.jp/ir/securities_r06kimatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://www.carbon.co.jp/ir/securities_r06kimatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの",
+    "url": "https://www.carbon.co.jp/ir/securities_r06kimatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "会社名 事業所名(所在地) セグメントの名称 設備の内容 帳簿価額(百万円) 従業員数(名)建物及び",
+    "url": "https://www.carbon.co.jp/ir/securities_r06kimatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※ 構成比は支給係数が100％の場合の大凡の構成比であり、実際の構成比は業績連動指標により変動いたします",
+    "url": "https://www.carbon.co.jp/ir/securities_r06kimatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、当中間連結会計期間におけるセグメント別の経営成績は次のとおりであります",
+    "url": "https://www.carbon.co.jp/ir/securities_R06q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(セグメント情報等)",
+    "url": "https://www.carbon.co.jp/ir/securities_R06q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.carbon.co.jp/ir/securities_R06q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメントごとの売上高及び利益の金額に関する情報並びに収益の分解情報",
+    "url": "https://www.carbon.co.jp/ir/securities_R06q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント 調整額",
+    "url": "https://www.carbon.co.jp/ir/securities_R06q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部売上高",
+    "url": "https://www.carbon.co.jp/ir/securities_R06q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 2,933 83 147 3,164 7 3,171",
+    "url": "https://www.carbon.co.jp/ir/securities_R06q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注) １．セグメント間取引消去によるものであります",
+    "url": "https://www.carbon.co.jp/ir/securities_R06q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益は中間連結損益計算書の営業利益と一致しております",
+    "url": "https://www.carbon.co.jp/ir/securities_R06q2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 2,883 370 130 3,384 8 3,393",
+    "url": "https://www.carbon.co.jp/ir/securities_R06q2.pdf",
+    "pass": 2
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "ド・パートナーズ会計事務所)開業",
+    "url": "https://www.carbon.co.jp/ir/securities_r05kimatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2016年６月 株式会社ベイサイド・パートナーズ設立",
+    "url": "https://www.carbon.co.jp/ir/securities_r05kimatsu.pdf",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "④ 特殊炭素材料の高収益化",
+    "url": "https://www.carbon.co.jp/ir/securities_r05kimatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "コスト増がありましたが、在庫一巡後の稼働率上昇と売価是正の進捗により、収益性は大幅に改善しました",
+    "url": "https://www.carbon.co.jp/ir/securities_r05kimatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "は、前連結会計年度の期 末日から一定期間を経過 しているものを長期滞留 在庫と判断し、処分可能価額まで評",
+    "url": "https://www.carbon.co.jp/ir/securities_r05kimatsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "格は上昇しましたが、在庫一巡後の稼働率上昇により原価率は大幅に改善しました",
+    "url": "https://www.carbon.co.jp/ir/securities_R05q3.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "日本カーボン 株式会社 — 日本カーボン 株式会社 日本カーボン株式会社 https://www.carbon.co.jp",
+    "url": "https://www.carbon.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリ | 日本カーボン 株式会社 — IRライブラリ | 日本カーボン 株式会社 日本カーボン株式会社 https://www.carbon.co.jp > library",
+    "url": "https://www.carbon.co.jp/ir/library.html",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家情報 | 日本カーボン 株式会社 — 株主・投資家情報 | 日本カーボン 株式会社 日本カーボン株式会社 https://www.carbon.co.jp > ...",
+    "url": "https://www.carbon.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "【 日本カーボン 】[5302]IR情報 中期経営計画や 決算 短信 | 日経 ... — 【 日本カーボン 】[5302]IR情報 中期経営計画や 決算 短信 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=5302",
+    "pass": 3
+   },
+   {
+    "quote": "日本カーボン 株式会社 IR 資料 - EDINET DB — 日本カーボン 株式会社 IR 資料 - EDINET DB EDINET DB https://edinetdb.jp > 日本カーボン株式会社",
+    "url": "https://edinetdb.jp/company/E01140/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "有価証券報告書（第166期） - 日本カーボン株式会社 — 有価証券報告書（第166期） - 日本カーボン株式会社 日本カーボン株式会社 PDF https://www.carbon.co.jp > ...",
+    "url": "https://www.carbon.co.jp/ir/securities_r06kimatsu.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本カーボン 【5302】の 事業 内容 - キタイシホン — 日本カーボン 【5302】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/5302/business",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内 | 日本カーボン 株式会社 — 会社案内 | 日本カーボン 株式会社 日本カーボン株式会社 https://www.carbon.co.jp > info",
+    "url": "https://www.carbon.co.jp/info/",
+    "pass": 3
+   },
+   {
+    "quote": "日本カーボン 株式会社の会社概要・製品情報 - Metoree — 日本カーボン 株式会社の会社概要・製品情報 - Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/45966/",
+    "pass": 3
+   },
+   {
+    "quote": "日本カーボン 株式会社 — 日本カーボン 株式会社 一般社団法人 日本工業炉協会 https://www.jifma.or.jp > member > carbon",
+    "url": "https://www.jifma.or.jp/member/carbon/",
+    "pass": 3
+   },
+   {
+    "quote": "『Newsweeks International』 インタビュー 記事掲載のお知らせ — 『Newsweeks International』 インタビュー 記事掲載のお知らせ 日本カーボン株式会社 https://www.carbon.co.jp > newsweeks_international",
+    "url": "https://www.carbon.co.jp/topics/newsweeks_international.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本カーボン 、 社長 に宮下尚史氏 | 人物 ニュース - 日刊工業新聞 — 日本カーボン 、 社長 に宮下尚史氏 | 人物 ニュース - 日刊工業新聞 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/406597",
+    "pass": 3
+   },
+   {
+    "quote": "日本カーボン 【5302】の 社長 ・役員 - キタイシホン — 日本カーボン 【5302】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/5302/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "日本カーボン 株式会社 元執行役員が語る 産業の川上から川下 ... — 日本カーボン 株式会社 元執行役員が語る 産業の川上から川下 ... TAKUWIL https://takuwil.spool.co.jp > タクウィルコラム",
+    "url": "https://takuwil.spool.co.jp/column/article/%E6%97%A5%E6%9C%AC%E3%82%AB%E3%83%BC%E3%83%9C%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E5%85%83%E5%9F%B7%E8%A1%8C%E5%BD%B9%E5%93%A1%E3%81%8C%E8%AA%9E%E3%82%8B%E3%80%80%E7%94%A3%E6%A5%AD%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "佐々木譲 - 日本カーボン マネジメント株式会社 — 佐々木譲 - 日本カーボン マネジメント株式会社 ONLYSTORY https://onlystory.co.jp > その他業界",
+    "url": "https://onlystory.co.jp/stories/189",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.carbon.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.carbon.co.jp/info/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.carbon.co.jp/info/environment.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.carbon.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.carbon.co.jp/ir/library.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.carbon.co.jp/ir/highlights.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.carbon.co.jp/ir/memo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.carbon.co.jp/ir/kokoku.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.carbon.co.jp/ir/governance.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.carbon.co.jp/ir/securities_R08q2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.carbon.co.jp/ir/topic_260325_02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.carbon.co.jp/ir/securities_R07q2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.carbon.co.jp/ir/securities_r06kimatsu.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.carbon.co.jp/ir/securities_R06q2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.carbon.co.jp/ir/securities_R06q1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.carbon.co.jp/ir/securities_r05kimatsu.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.carbon.co.jp/ir/securities_R05q3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://carbon-credit.co.jp/contents/business-model",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kai-law.jp/venture-startups/carbon-credit-business-model/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/5302/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/406597",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日本カーボン",
+   "results": [
+    "https://www.carbon.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%AB%E3%83%BC%E3%83%9C%E3%83%B3",
+    "https://www.nikkei.com/nkd/company/?scode=5302",
+    "https://www.jifma.or.jp/member/carbon/",
+    "https://kabutan.jp/stock/?code=5302",
+    "https://ja.wikipedia.org/wiki/日本カーボン",
+    "https://www.carbon.co.jp/info/",
+    "https://finance.yahoo.co.jp/quote/5302.T",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=5302",
+    "https://finance.yahoo.co.jp/quote/5302.T/profile"
+   ]
+  },
+  {
+   "query": "日本カーボン ビジネスモデル",
+   "results": [
+    "https://carbon-credit.co.jp/contents/business-model",
+    "https://kai-law.jp/venture-startups/carbon-credit-business-model/",
+    "https://www.carbon.co.jp/",
+    "https://zero-carbon.pref.ehime.jp/businessmodels/",
+    "https://www.youtube.com/watch?v=pL2KtqF1lsE",
+    "https://www.accenture.com/jp-ja/blogs/strategy/decarbonization",
+    "https://www.ricoh.co.jp/magazines/green-transformation/column/carbon-credits/",
+    "https://biz-model.org/2021/06/06/2021spring/",
+    "https://kitaishihon.com/company/5302/business",
+    "https://ja.wikipedia.org/wiki/日本カーボン"
+   ]
+  },
+  {
+   "query": "日本カーボン 決算説明資料",
+   "results": [
+    "https://www.carbon.co.jp/ir/library.html",
+    "https://www.carbon.co.jp/ir/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=5302",
+    "https://edinetdb.jp/company/E01140/ir-docs/",
+    "https://www.tokaicarbon.co.jp/ir/library/briefing_materials.html",
+    "https://sec-carbon.com/ir/financial-results/",
+    "https://irbank.net/5302/ir",
+    "https://www.nikkei.com/nkd/company/ednr/?scode=5302",
+    "https://kitaishihon.com/company/5302/ir-library",
+    "https://edinetdb.jp/company/E01140/presentations/"
+   ]
+  },
+  {
+   "query": "日本カーボン 事業系統図",
+   "results": [
+    "https://www.carbon.co.jp/ir/securities_r06kimatsu.pdf",
+    "https://kitaishihon.com/company/5302/business",
+    "https://www.carbon.co.jp/info/",
+    "https://metoree.com/companies/45966/",
+    "https://www.jifma.or.jp/member/carbon/",
+    "https://www.tokaicarbon.co.jp/first/",
+    "https://www.technocarbon.co.jp/company/profile/",
+    "https://www.atengineer.com/pr/carbon/company",
+    "https://job.mynavi.jp/28/pc/search/corp299070/outline.html",
+    "https://ja.wikipedia.org/wiki/日本カーボン"
+   ]
+  },
+  {
+   "query": "日本カーボン 社長 インタビュー",
+   "results": [
+    "https://www.carbon.co.jp/topics/newsweeks_international.html",
+    "https://www.nikkan.co.jp/articles/view/406597",
+    "https://kitaishihon.com/company/5302/board-of-director",
+    "https://takuwil.spool.co.jp/column/article/%E6%97%A5%E6%9C%AC%E3%82%AB%E3%83%BC%E3%83%9C%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E5%85%83%E5%9F%B7%E8%A1%8C%E5%BD%B9%E5%93%A1%E3%81%8C%E8%AA%9E%E3%82%8B%E3%80%80%E7%94%A3%E6%A5%AD%E3%81%AE/",
+    "https://onlystory.co.jp/stories/189",
+    "https://www.nikkei.com/article/DGXLASDZ10HHE_Q6A111C1TJC000/",
+    "https://the-shashi.com/tse/5302/ceo/",
+    "https://www.carbon.co.jp/info/president.html",
+    "https://www.technocarbon.co.jp/recruit/interview/i11/"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式9頁／PDF・画像8件／外部4頁・検索5回）",
+  "従業員数": "記載なし（3回確認済み：公式9頁／PDF・画像8件／外部4頁・検索5回）",
+  "事業内容": "記載なし（3回確認済み：公式9頁／PDF・画像8件／外部4頁・検索5回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式9頁／PDF・画像8件／外部4頁・検索5回）"
+ }
+}

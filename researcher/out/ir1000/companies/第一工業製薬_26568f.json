@@ -1,0 +1,2022 @@
+{
+ "name": "第一工業製薬",
+ "aliases": [],
+ "context": "証券コード4461／化学／プライム（内国株式）／2026.03期 売上高82,886百万円 営業利益率12.2%",
+ "researched_at": "2026-11-02T19:56:00.876105+00:00",
+ "official_url": "https://www.dks-web.co.jp/",
+ "identified_by": "search:yahoo_jp:第一工業製薬",
+ "profile": {
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "732億円 810億円 1,000億円",
+    "url": "https://www.dks-web.co.jp/ir/management-policy/strategy/",
+    "pass": 1
+   },
+   {
+    "label": "売上高研究開発費率（連結）",
+    "value": "5.1% 5.3% 5.3%以上",
+    "url": "https://www.dks-web.co.jp/ir/management-policy/strategy/",
+    "pass": 1
+   },
+   {
+    "label": "売上高比率",
+    "value": "30%以上",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   }
+  ],
+  "設立": [
+   {
+    "label": "設立と沿革",
+    "value": "絹産業の革新から始まった100年の歩み",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "多岐にわたるポートフォリオと社会への貢献",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社風・従業員満足度",
+    "value": "真面目で誠実な「研究者集団」",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "技術力でお客様のニーズに応えていきます",
+    "url": "https://www.dks-web.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "界面制御技術を核に多様な技術を融合し、お客様のニーズに応じて材料を最適にカスタマイズし、",
+    "url": "https://www.dks-web.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "界面活性剤をはじめとする独自の技術を掛け合わせ、お客様のニーズに寄り添い、",
+    "url": "https://www.dks-web.co.jp/corporate/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "国内外に広がる1,155人の従業員が、日々、お客様と社会のために製品づくりに励んでいます",
+    "url": "https://www.dks-web.co.jp/corporate/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の強みは、お客様が求める機能や性能に合わせて材料を最適にカスタマイズし、複数の技術を組み合わせて最良のソリューションを提案できる技術力にあります",
+    "url": "https://www.dks-web.co.jp/rd/strengths/",
+    "pass": 1
+   },
+   {
+    "quote": "その根源は、顧客が求める機能や製法にカスタマイズし、最適な組み合わせで提案できる技術力です",
+    "url": "https://www.dks-web.co.jp/rd/strengths/",
+    "pass": 1
+   },
+   {
+    "quote": "界面活性剤は、性質の異なる物質同士をつなぐ役割を担うことで、顧客や社会が求める多様な性能の実現に貢献しています",
+    "url": "https://www.dks-web.co.jp/rd/strengths/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、化学メーカーとして研究開発型企業を志し、お客様のニーズに応え、総合提案力で選ばれる企業となることを目標としています",
+    "url": "https://www.dks-web.co.jp/ir/management-policy/top-message/",
+    "pass": 1
+   },
+   {
+    "quote": "従来の「材料別」の6つのセグメントから、市場や用途に基づいた「分野別」のセグメントへと再編することで、顧客との関係性をより深め、潜在的なニーズを掘り起こし、的確な課題解決の提案につなげていきます",
+    "url": "https://www.dks-web.co.jp/ir/management-policy/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、化学メーカーとして研究開発型企業を志し、お客様のニーズに応え、総合提案力で選ばれる企業となることを目標としています",
+    "url": "https://www.dks-web.co.jp/ir/investor/",
+    "pass": 1
+   },
+   {
+    "quote": "（２）取引先様の特定個人情報等",
+    "url": "https://www.dks-web.co.jp/pdf/tokuteikojin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "さらに、今後の市場拡大と顧客ニーズに応えるため、将来的には追加投",
+    "url": "https://www.dks-web.co.jp/news/news_file/file/%E3%83%AA%E3%83%81%E3%82%A6%E3%83%A0%E3%82%A4%E3%82%AA%E3%83%B3%E4%BA%8C%E6%AC%A1%E9%9B%BB%E6%B1%A0%E8%B2%A0%E6%A5%B5%E7%94%A8%E6%B0%B4%E7%B3%BB%E8%A4%87%E5%90%88%E6%8E%A5%E7%9D%80%E5%89%A4%20%20%E5%9B%9B%E6%97%A5%E5%B8%82%E5%B7%A5%E5%A0%B4%20%E9%9C%9E%E5%9C%B0%E5%8C%BA%E3%81%AB%E6%96%B0%E3%81%9F%E3%81%AA%E8%A3%BD%E9%80%A0%E8%A8%AD%E5%82%99%E6%8A%95%E8%B3%87%E3%82%92%E6%B1%BA%E5%AE%9A.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客・DKSに貢献しな",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・顧客活動の行動管理実施",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "社員・顧客・パートナーと共感、尊重し、ともに成長",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■ 環境貢献型製品の拡大 顧客の環境課題解決に貢献する製品の開発と提供",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客が求める機能や製法にカスタマイズし、最適な組み合わせで提案できる技術力",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "② 顧客の選定",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・分野に強い顧客との関係強化",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・国内顧客の海外工場への現地提供",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客海外拠点",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・成長分野の技術取得と顧客基盤拡大を狙ったM&A推進",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "基本方針 成長分野の技術取得と顧客基盤拡大を狙ったM＆A推進",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "技術・顧客基盤が自社に適合する企業",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・代理店、サプライヤー、顧客との連携",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "④ 取引先の数が多い",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客の細かなニーズに合わせて製品をカスタマイズする「多品種少量生産」が特徴であり、高い技術力とノウハウが求められる領域だ",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "顧客にとっては「第一工業製薬にしか頼めない」という唯一無二のパートナーとなり、強固な信頼関係を築き上げているのだ",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "これらの分野では、顧客の最先端の要求に応える高度な技術力が求められ、製品の付加価値も高い",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "競合優位性：「顧客密着型」の研究開発が生む参入障壁",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "同社の強みは、「顧客の課題解決」を起点とした研究開発スタイルだ",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "営業担当者と研究開発者が一体となって顧客の元へ足を運び、製造現場の悩みや、開発中の新製品に必要な性能などを直接ヒアリングする",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "時には、顧客の研究所に常駐して共同開発を行うこともあるという",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "このプロセスを通じて、顧客の潜在的なニーズまでをも掘り起こし、まさに「かゆいところに手が届く」オーダーメイドの製品を開発していく",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "この「顧客密着型」の開発プロセスは、単に優れた製品を生み出すだけでなく、以下のような強固な参入障壁を構築する",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の製造プロセスや配合に関する深い知識が社内に蓄積され、それが次の製品開発に活かされる",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "共同で課題を乗り越える経験を通じて、顧客との間には単なるサプライヤーとバイヤーという関係を超えた、強固な信頼関係が生まれる",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、顧客は安易に他社製品に乗り換えることが難しくなる（スイッチングコストの増大）",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の要求に対して、迅速かつ柔軟に試作品を提供できる体制も強みだ",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "このようにして開発された製品は、顧客の最終製品の品質や性能を左右する重要な役割を担うことが多い",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "前述の通り、顧客の課題解決を起点とした「御用聞き型」でありながら、同時に市場の未来を見据えたシーズ志向の基礎研究も怠らない",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との対話の中から新たなビジネスチャンスを創出していくスタイルは、まさに同社の真骨頂だ",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "顧客が製品を使いこなせるまで、きめ細やかな技術サポートを続ける",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "この姿勢が、顧客満足度を高め、次の取引へと繋がっていく",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "長年にわたる顧客との信頼関係と、同社製品の代替困難性を背景に、コスト上昇分を製品価格へ反映させる交渉を粘り強く進めている様子が見て取れる",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "仮に、横軸を「事業領域の広さ（多角化）」、縦軸を「顧客ニーズへの対応力（カスタマイズ性）」としてポジショニングマップを作成すると、第一工業製薬は**「右上」**に位置づけられるだろう",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "この「右上」のポジションは、**「幅広い技術基盤を持ちながら、それぞれの分野で顧客に寄り添ったきめ細やかな対応ができる」**という、他に類を見ないユニークな存在であることを示している",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "この設計能力の高さが、顧客の高度な要求に応える製品開発を可能にしている",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "商品開発力：顧客との「共創」が生み出す価値",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、その真骨頂は、カタログに載っていない「特殊グレード品」や「顧客専用品」にある",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "前述の通り、同社の商品開発は顧客との「共創」を基本とする",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.dks-web.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ",
+    "url": "https://www.dks-web.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "事業分野別主要製品",
+    "url": "https://www.dks-web.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "受託製造ソリューション",
+    "url": "https://www.dks-web.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "環境貢献型製品",
+    "url": "https://www.dks-web.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "繊維・樹脂・生活資材からライフサイエンスまで幅広い分野に付加価値ある製品を提供しています",
+    "url": "https://www.dks-web.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品名または用途を入力してください",
+    "url": "https://www.dks-web.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「用途」や「分野」で製品検索ができます",
+    "url": "https://www.dks-web.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品サイト紹介",
+    "url": "https://www.dks-web.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "見えないところで活躍している当社の製品をご紹介します",
+    "url": "https://www.dks-web.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.dks-web.co.jp/corporate/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ",
+    "url": "https://www.dks-web.co.jp/corporate/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "事業分野別主要製品",
+    "url": "https://www.dks-web.co.jp/corporate/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "受託製造ソリューション",
+    "url": "https://www.dks-web.co.jp/corporate/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "環境貢献型製品",
+    "url": "https://www.dks-web.co.jp/corporate/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "第一工業製薬が提供するのは、化粧品や日用品といった身近な製品から、",
+    "url": "https://www.dks-web.co.jp/corporate/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "そして健康長寿社会を目指すライフサイエンス製品まで、",
+    "url": "https://www.dks-web.co.jp/corporate/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "暮らしと社会を支える多種多様な化学製品です",
+    "url": "https://www.dks-web.co.jp/corporate/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "暮らしの中で役立つ製品",
+    "url": "https://www.dks-web.co.jp/corporate/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "第一工業製薬の製品は、私たちの暮らしの中でさまざまな製品の素材や部材に活用されています",
+    "url": "https://www.dks-web.co.jp/corporate/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "国内外に広がる1,155人の従業員が、日々、お客様と社会のために製品づくりに励んでいます",
+    "url": "https://www.dks-web.co.jp/corporate/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "14の分野領域から生み出される多種多様な製品が、様々な産業分野の課題を解決しています",
+    "url": "https://www.dks-web.co.jp/corporate/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "環境・エネルギー | 製品情報 | 第一工業製薬",
+    "url": "https://www.dks-web.co.jp/product/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.dks-web.co.jp/product/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ",
+    "url": "https://www.dks-web.co.jp/product/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "事業分野別主要製品",
+    "url": "https://www.dks-web.co.jp/product/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "受託製造ソリューション",
+    "url": "https://www.dks-web.co.jp/product/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "環境貢献型製品",
+    "url": "https://www.dks-web.co.jp/product/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "環境に優しい製品、エネルギー分野対応製品を提案します",
+    "url": "https://www.dks-web.co.jp/product/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "天然由来である「ショ糖」「セルロース」を用いた製品をラインアップしています",
+    "url": "https://www.dks-web.co.jp/product/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "他にも、省エネルギー化を実現する「光硬化樹脂材料」、ポリ乳酸用改質剤「TRIBIO」、水系材料や非石化材料などさまざまな製品を提案します",
+    "url": "https://www.dks-web.co.jp/product/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "ショ糖由来製品",
+    "url": "https://www.dks-web.co.jp/product/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "セルロース由来製品",
+    "url": "https://www.dks-web.co.jp/product/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "水系ポリマー製品 水系ウレタン樹脂",
+    "url": "https://www.dks-web.co.jp/product/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.dks-web.co.jp/rd/strengths/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ",
+    "url": "https://www.dks-web.co.jp/rd/strengths/",
+    "pass": 1
+   },
+   {
+    "quote": "事業分野別主要製品",
+    "url": "https://www.dks-web.co.jp/rd/strengths/",
+    "pass": 1
+   },
+   {
+    "quote": "受託製造ソリューション",
+    "url": "https://www.dks-web.co.jp/rd/strengths/",
+    "pass": 1
+   },
+   {
+    "quote": "環境貢献型製品",
+    "url": "https://www.dks-web.co.jp/rd/strengths/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の強みは、お客様が求める機能や性能に合わせて材料を最適にカスタマイズし、複数の技術を組み合わせて最良のソリューションを提案できる技術力にあります",
+    "url": "https://www.dks-web.co.jp/rd/strengths/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、ショ糖誘導体製品として、ショ糖脂肪酸エステル（SE）、ショ糖安息香酸エステル（SB）、ショ糖酢酸エステル（SOA）を展開しています",
+    "url": "https://www.dks-web.co.jp/rd/strengths/",
+    "pass": 1
+   },
+   {
+    "quote": "優れた乳化性、難溶性物質の可溶化能、起泡性などの機能と高い安全性を兼ね備えていることから、加工食品、製菓、乳製品をはじめとする食品分野や、医薬品や香粧品分野など、国内外で幅広く利用されています",
+    "url": "https://www.dks-web.co.jp/rd/strengths/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.dks-web.co.jp/sustainability/ecology/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ",
+    "url": "https://www.dks-web.co.jp/sustainability/ecology/",
+    "pass": 1
+   },
+   {
+    "quote": "事業分野別主要製品",
+    "url": "https://www.dks-web.co.jp/sustainability/ecology/",
+    "pass": 1
+   },
+   {
+    "quote": "受託製造ソリューション",
+    "url": "https://www.dks-web.co.jp/sustainability/ecology/",
+    "pass": 1
+   },
+   {
+    "quote": "環境貢献型製品",
+    "url": "https://www.dks-web.co.jp/sustainability/ecology/",
+    "pass": 1
+   },
+   {
+    "quote": "環境貢献製品",
+    "url": "https://www.dks-web.co.jp/sustainability/ecology/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.dks-web.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ",
+    "url": "https://www.dks-web.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "事業分野別主要製品",
+    "url": "https://www.dks-web.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "受託製造ソリューション",
+    "url": "https://www.dks-web.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "環境貢献型製品",
+    "url": "https://www.dks-web.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.dks-web.co.jp/ir/management-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ",
+    "url": "https://www.dks-web.co.jp/ir/management-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "事業分野別主要製品",
+    "url": "https://www.dks-web.co.jp/ir/management-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "受託製造ソリューション",
+    "url": "https://www.dks-web.co.jp/ir/management-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "環境貢献型製品",
+    "url": "https://www.dks-web.co.jp/ir/management-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.dks-web.co.jp/ir/management-policy/top-message/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カタログ",
+    "url": "https://www.dks-web.co.jp/ir/management-policy/top-message/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "私たちは、ユニークな化学で社会課題を解決するスマート・ケミカルパートナーとして、",
+    "url": "https://www.dks-web.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "界面活性剤のパイオニアとして培ってきた豊富な経験を基に、さまざまな課題を解決するケミカルパートナーとして、",
+    "url": "https://www.dks-web.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品サイト紹介",
+    "url": "https://www.dks-web.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "時代の変化に応え、挑戦を続ける第一工業製薬グループの企業情報をご紹介します",
+    "url": "https://www.dks-web.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "見えないところで活躍している当社の製品をご紹介します",
+    "url": "https://www.dks-web.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "社会・生活環境の場面から一例を紹介します",
+    "url": "https://www.dks-web.co.jp/corporate/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "これまでの私たちの歩みと、未来に向けた成長の軌跡を、数字で分かりやすくご紹介します",
+    "url": "https://www.dks-web.co.jp/corporate/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "ストックボイス「東京マーケットワイド」で 当社の四日市霞工場が紹介されました！（2026.3.18）",
+    "url": "https://www.dks-web.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "社会・生活環境の場面から一例を紹介します",
+    "url": "https://www.dks-web.co.jp/ir/management-policy/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、化学の力で社会のさまざまな課題を解決するスマート・ケミカルパートナーをめざします",
+    "url": "https://www.dks-web.co.jp/ir/management-policy/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介動画",
+    "url": "https://www.dks-web.co.jp/ir/investor/",
+    "pass": 1
+   },
+   {
+    "quote": "配当・株式に関する基本事項についてご紹介します",
+    "url": "https://www.dks-web.co.jp/ir/investor/",
+    "pass": 1
+   },
+   {
+    "quote": "見えないところで活躍している当社の製品をご紹介します",
+    "url": "https://www.dks-web.co.jp/ir/investor/",
+    "pass": 1
+   },
+   {
+    "quote": "◇保有技術・技術紹介 ◇関係会社技術紹介 京都エレックス・第一セラモ ◇国内・海外ネットワーク ◇11年間の財務・非財務サマリー ◇財務・非財務ハイライト ◇会社概要 ◇真正性表明／編集後記",
+    "url": "https://www.dks-web.co.jp/ir/library/ir-report/",
+    "pass": 1
+   },
+   {
+    "quote": "社員・顧客・パートナーと共感、尊重し、ともに成長",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "スマート・ケミカルパートナー",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "有機アルカリ拡販 提携パートナー発掘/探索",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Vision 「社会のさまざまな課題を解決するスマート・ケミカルパートナー」",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "販売強化・代理店",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "応用評価力の強化、技術マーケティング強化、パートナー共同開発",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "代理店との協力",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・代理店、サプライヤー、顧客との連携",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客にとっては「第一工業製薬にしか頼めない」という唯一無二のパートナーとなり、強固な信頼関係を築き上げているのだ",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "「SMART 2030」は、**「社会のさまざまな課題を解決するスマート・ケミカルパートナー」**となることを長期ビジョンとして掲げている",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "自社製品とのシナジーが見込める製品群や、新たな地域での販売網を持つ企業を取り込むことで、市場アクセスを効率的に拡大する",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "メディアで大きく取り上げられることは少ないかもしれないが、業界専門誌や化学系のニュースサイトでは、同社の新技術や新製品が紹介されることがある",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.dks-web.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.dks-web.co.jp/corporate/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.dks-web.co.jp/product/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.dks-web.co.jp/rd/strengths/",
+    "pass": 1
+   },
+   {
+    "quote": "第一工業製薬（DKS）は、「産業を通じて、国家・社会に貢献する」という社是（パーパス）のもと、4つの事業セグメントを持ちます",
+    "url": "https://www.dks-web.co.jp/rd/strengths/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.dks-web.co.jp/sustainability/ecology/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.dks-web.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.dks-web.co.jp/ir/management-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.dks-web.co.jp/ir/management-policy/top-message/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.dks-web.co.jp/ir/management-policy/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "4つの事業セグメント",
+    "url": "https://www.dks-web.co.jp/ir/management-policy/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、2030年に向けた成長戦略の一環として、開示セグメントの見直しを行いました",
+    "url": "https://www.dks-web.co.jp/ir/management-policy/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "従来の「材料別」の6つのセグメントから、市場や用途に基づいた「分野別」のセグメントへと再編することで、顧客との関係性をより深め、潜在的なニーズを掘り起こし、的確な課題解決の提案につなげていきます",
+    "url": "https://www.dks-web.co.jp/ir/management-policy/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.dks-web.co.jp/ir/management-policy/strategy/",
+    "pass": 1
+   },
+   {
+    "quote": "3-2. 2030年に向けた成長戦略 ～4つの事業セグメント～",
+    "url": "https://www.dks-web.co.jp/ir/management-policy/strategy/",
+    "pass": 1
+   },
+   {
+    "quote": "～4つの事業セグメント～",
+    "url": "https://www.dks-web.co.jp/ir/management-policy/strategy/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.dks-web.co.jp/ir/management-policy/disclosure-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.dks-web.co.jp/ir/investor/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.dks-web.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.dks-web.co.jp/ir/library/tanshin/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.dks-web.co.jp/ir/library/annual-report/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.dks-web.co.jp/ir/library/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.dks-web.co.jp/ir/library/briefing/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.dks-web.co.jp/ir/library/ir-report/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.dks-web.co.jp/ir/library/mid-term/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.dks-web.co.jp/ir/library/newsletter/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.dks-web.co.jp/ir/library/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.dks-web.co.jp/ir/library/governance-report/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.dks-web.co.jp/ir/library/video/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.dks-web.co.jp/ir/financial-performance/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.dks-web.co.jp/ir/financial-performance/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメントデータ",
+    "url": "https://www.dks-web.co.jp/ir/financial-performance/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別売上高比率",
+    "url": "https://www.dks-web.co.jp/ir/financial-performance/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別売上高",
+    "url": "https://www.dks-web.co.jp/ir/financial-performance/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別営業利益比率",
+    "url": "https://www.dks-web.co.jp/ir/financial-performance/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別営業利益",
+    "url": "https://www.dks-web.co.jp/ir/financial-performance/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "（１）従来の材料別6 セグメントから分野別「電子・情報」 、 「環境・エネルギー」 、 「ライフ・ウェ",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030_intro.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ルネス」 、 「コア・マテリアル」の4 セグメントへ変更します",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030_intro.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント体制の強化）",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・開示セグメント変更",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● 開示セグメントの変更により、DKSがめざすべき姿の明確化を図る",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "６つの事業セグメント",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "4つの事業セグメント",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3-3-3. 2030年に向けた成長戦略 ～開示セグメント変更～",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "新セグメント",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "旧セグメント",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント管理の強化と技術転用・改良による拡大",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "現在の第一工業製薬の事業は、大きく分けて4つのセグメントで構成されている",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂薬剤や受託製造など、上記のセグメントに分類されないものの、同社の技術力を活かした事業を展開している",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "利益率の低い汎用品から、技術的な優位性を発揮できる電子材料分野やライフサイエンス分野といった高収益製品への販売構成比を高めることで、会社全体の収益性を向上させようという明確な意志が感じられる",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "DKS技術の強み",
+    "url": "https://www.dks-web.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "高機能材料を幅広い産業分野へ提供できる技術力が当社の強みです",
+    "url": "https://www.dks-web.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "DKS技術の強み",
+    "url": "https://www.dks-web.co.jp/corporate/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "化学メーカーとしての強みを最大限に生かし、市場をリードする独自性と社会貢献への挑戦を通じて、",
+    "url": "https://www.dks-web.co.jp/corporate/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "DKS技術の強み",
+    "url": "https://www.dks-web.co.jp/product/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "DKS技術の強み | 研究開発 | 第一工業製薬",
+    "url": "https://www.dks-web.co.jp/rd/strengths/",
+    "pass": 1
+   },
+   {
+    "quote": "DKS技術の強み",
+    "url": "https://www.dks-web.co.jp/rd/strengths/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の強みは、お客様が求める機能や性能に合わせて材料を最適にカスタマイズし、複数の技術を組み合わせて最良のソリューションを提案できる技術力にあります",
+    "url": "https://www.dks-web.co.jp/rd/strengths/",
+    "pass": 1
+   },
+   {
+    "quote": "DKS技術の強み",
+    "url": "https://www.dks-web.co.jp/sustainability/ecology/",
+    "pass": 1
+   },
+   {
+    "quote": "DKS技術の強み",
+    "url": "https://www.dks-web.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "DKS技術の強み",
+    "url": "https://www.dks-web.co.jp/ir/management-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "DKS技術の強み",
+    "url": "https://www.dks-web.co.jp/ir/management-policy/top-message/",
+    "pass": 1
+   },
+   {
+    "quote": "DKS技術の強み",
+    "url": "https://www.dks-web.co.jp/ir/management-policy/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "DKS技術の強み",
+    "url": "https://www.dks-web.co.jp/ir/management-policy/strategy/",
+    "pass": 1
+   },
+   {
+    "quote": "115年を越える歴史の中で、幅広い産業分野へ材料提供していることが当社の強みです",
+    "url": "https://www.dks-web.co.jp/ir/management-policy/strategy/",
+    "pass": 1
+   },
+   {
+    "quote": "DKS技術の強み",
+    "url": "https://www.dks-web.co.jp/ir/management-policy/disclosure-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "DKS技術の強み",
+    "url": "https://www.dks-web.co.jp/ir/investor/",
+    "pass": 1
+   },
+   {
+    "quote": "DKS技術の強み",
+    "url": "https://www.dks-web.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "DKS技術の強み",
+    "url": "https://www.dks-web.co.jp/ir/library/tanshin/",
+    "pass": 1
+   },
+   {
+    "quote": "DKS技術の強み",
+    "url": "https://www.dks-web.co.jp/ir/library/annual-report/",
+    "pass": 1
+   },
+   {
+    "quote": "DKS技術の強み",
+    "url": "https://www.dks-web.co.jp/ir/library/presentation/",
+    "pass": 1
+   },
+   {
+    "quote": "DKS技術の強み",
+    "url": "https://www.dks-web.co.jp/ir/library/briefing/",
+    "pass": 1
+   },
+   {
+    "quote": "DKS技術の強み",
+    "url": "https://www.dks-web.co.jp/ir/library/ir-report/",
+    "pass": 1
+   },
+   {
+    "quote": "DKS技術の強み",
+    "url": "https://www.dks-web.co.jp/ir/library/mid-term/",
+    "pass": 1
+   },
+   {
+    "quote": "DKS技術の強み",
+    "url": "https://www.dks-web.co.jp/ir/library/newsletter/",
+    "pass": 1
+   },
+   {
+    "quote": "DKS技術の強み",
+    "url": "https://www.dks-web.co.jp/ir/library/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "DKS技術の強み",
+    "url": "https://www.dks-web.co.jp/ir/library/governance-report/",
+    "pass": 1
+   },
+   {
+    "quote": "DKS技術の強み",
+    "url": "https://www.dks-web.co.jp/ir/library/video/",
+    "pass": 1
+   },
+   {
+    "quote": "DKS技術の強み",
+    "url": "https://www.dks-web.co.jp/ir/financial-performance/",
+    "pass": 1
+   },
+   {
+    "quote": "DKS技術の強み",
+    "url": "https://www.dks-web.co.jp/ir/financial-performance/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "（４）115 年を越える歴史の中で、幅広い産業分野へ材料提供していることが当社の強みです",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030_intro.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・在庫削減、製造業務DX化などを実施",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 6.8% 8.1% 10.0%",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3-6-1. DKS技術の強み",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 13%",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 10%",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 7%",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "新たな高収益事業の確立",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・在庫や固定資産の圧縮で総資産を圧縮",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・製造/物流拠点の分散/見直し、在庫の分散",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "競合優位性：「顧客密着型」の研究開発が生む参入障壁",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "同社の強みは、「顧客の課題解決」を起点とした研究開発スタイルだ",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "この「顧客密着型」の開発プロセスは、単に優れた製品を生み出すだけでなく、以下のような強固な参入障壁を構築する",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の要求に対して、迅速かつ柔軟に試作品を提供できる体制も強みだ",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "大手企業では難しい小回りの利く対応が、開発サイクルの速い分野では特に競争優位となる",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "バリューチェーン分析：研究開発から販売までの一貫した強み",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "第一工業製薬の強みは、研究開発だけに留まらない",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "そのバリューチェーン全体に、競争優位性を高める工夫が凝らされている",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "多品種少量生産に対応できる柔軟な生産設備と、長年培われた生産技術が強みだ",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "利益率の低い汎用品から、技術的な優位性を発揮できる電子材料分野やライフサイエンス分野といった高収益製品への販売構成比を高めることで、会社全体の収益性を向上させようという明確な意志が感じられる",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "将来、有望なM&A案件や大規模な設備投資の機会が訪れた際に、機動的に動ける財務体質は大きな強みとなる",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "特に、不純物を極限まで減らす高純度化技術は、品質要求の厳しい電子材料や医薬品分野で不可欠であり、同社の強みとなっている",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "経営トップが自社の技術の強みと可能性を深く理解していることは、適切な研究開発投資や、将来を見据えた事業ポートフォリオの構築において極めて重要だ",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "特に、大学の研究室との長年にわたる強固な関係は、優秀な学生を獲得する上で大きな強みとなっている",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "従来からの強みである「独自性で評価されるニッチトップ」戦略をさらに深化させる",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "競争優位性の高い分野に経営資源を集中投下し、収益性を盤石にする",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "これまで第一工業製薬の強みを中心に分析してきたが、投資判断を下す上では、潜在的なリスクや課題についても冷静に目を向ける必要がある",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、これを新たなビジネスチャンスと捉え、環境対応型製品の開発をリードできれば、逆に競争優位に繋がる可能性も秘めている",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の個別ニーズに応える多品種少量生産は、同社の強みの源泉である一方、生産性の観点からは非効率性を内包している",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "安定や着実性を重んじる企業文化は、強みであると同時に、大胆なイノベーションや迅速な意思決定を阻害する要因にもなり得る",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2030年に向かって新たな一歩を踏み出しました",
+    "url": "https://www.dks-web.co.jp/corporate/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "1909年の創業以来、私たちは化学の力で社会のニーズに応え続けてきました",
+    "url": "https://www.dks-web.co.jp/corporate/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年度GX戦略目標として、GHG排出量30%削減（2013年度比）を目標に掲げ、地球に優しいものづくりを追求しています",
+    "url": "https://www.dks-web.co.jp/corporate/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年4月に始動した中期経営計画「SMART 2030」は、本年より2年目に入ります",
+    "url": "https://www.dks-web.co.jp/ir/management-policy/top-message/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年の",
+    "url": "https://www.dks-web.co.jp/ir/management-policy/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年の日本は、労働人口の減少、少子・高齢化により雇用や医療・社会保障に大きな影響が出るという社会問題を抱えています",
+    "url": "https://www.dks-web.co.jp/ir/management-policy/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.dks-web.co.jp/ir/management-policy/strategy/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期",
+    "url": "https://www.dks-web.co.jp/ir/management-policy/strategy/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年3月期",
+    "url": "https://www.dks-web.co.jp/ir/management-policy/strategy/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度",
+    "url": "https://www.dks-web.co.jp/ir/library/video/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期決算説明会",
+    "url": "https://www.dks-web.co.jp/ir/library/video/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第2四半期決算説明会",
+    "url": "https://www.dks-web.co.jp/ir/library/video/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.dks-web.co.jp/ir/library/video/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 通期決算説明会",
+    "url": "https://www.dks-web.co.jp/ir/library/video/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第3四半期決算説明会",
+    "url": "https://www.dks-web.co.jp/ir/library/video/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第2四半期決算説明会",
+    "url": "https://www.dks-web.co.jp/ir/library/video/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.dks-web.co.jp/ir/library/video/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 通期決算説明会",
+    "url": "https://www.dks-web.co.jp/ir/library/video/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第3四半期決算説明会",
+    "url": "https://www.dks-web.co.jp/ir/library/video/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第2四半期決算説明会",
+    "url": "https://www.dks-web.co.jp/ir/library/video/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://www.dks-web.co.jp/ir/library/video/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 通期決算説明会",
+    "url": "https://www.dks-web.co.jp/ir/library/video/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 第2四半期決算説明会",
+    "url": "https://www.dks-web.co.jp/ir/library/video/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度",
+    "url": "https://www.dks-web.co.jp/ir/library/video/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期 通期決算説明会",
+    "url": "https://www.dks-web.co.jp/ir/library/video/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期 第2四半期決算説明会",
+    "url": "https://www.dks-web.co.jp/ir/library/video/",
+    "pass": 1
+   },
+   {
+    "quote": "2024 年 8 月 1 日",
+    "url": "https://www.dks-web.co.jp/pdf/tokuteikojin.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025 年7 月 29 日",
+    "url": "https://www.dks-web.co.jp/news/news_file/file/%E3%83%AA%E3%83%81%E3%82%A6%E3%83%A0%E3%82%A4%E3%82%AA%E3%83%B3%E4%BA%8C%E6%AC%A1%E9%9B%BB%E6%B1%A0%E8%B2%A0%E6%A5%B5%E7%94%A8%E6%B0%B4%E7%B3%BB%E8%A4%87%E5%90%88%E6%8E%A5%E7%9D%80%E5%89%A4%20%20%E5%9B%9B%E6%97%A5%E5%B8%82%E5%B7%A5%E5%A0%B4%20%E9%9C%9E%E5%9C%B0%E5%8C%BA%E3%81%AB%E6%96%B0%E3%81%9F%E3%81%AA%E8%A3%BD%E9%80%A0%E8%A8%AD%E5%82%99%E6%8A%95%E8%B3%87%E3%82%92%E6%B1%BA%E5%AE%9A.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年 1月 29日",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030_intro.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2030 年に向かう世界経済は、年平均約 3%の成長が見込まれます",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030_intro.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2021 年 3月期～2022 年3月期は、事業ポートフォリ",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030_intro.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年 3月期は、売上高が過去最高に到達した",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030_intro.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年 3月期以降は、ハイエンドサーバ向け光硬化樹脂材料の好",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030_intro.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025 年 3 月期の第 3 四半期決算は、売上高 542 億円",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030_intro.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年１月２９日",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2020年度～ 2022年度～ 2024年度～",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年度～202１年度～",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2030年に向けた成長戦略",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年 2025年 2026年 2027年 2028年 2029年 2030年",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年3月期",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2030年3月期",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1912年 西本願寺前",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1915年 石鹸製造開始",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1934年 日本初の合成洗剤",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1909年 創業",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年 202７年 2030年",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "202６年3月期～2030年3月期（累計予想）",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年7月30日 05:17",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "1909年の創業から1世紀以上の歴史を誇る京都の老舗化学メーカー",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "設立と沿革：絹産業の革新から始まった100年の歩み",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "1918年（大正7年）に「第一工業製薬株式会社」として設立されて以来、同社はその技術の根幹である「界面化学」を軸に、次々と事業領域を拡大していく",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "この沿革が物語るのは、同社が単なる化学品の製造企業ではなく、常に産業界が抱える課題を化学の力で解決してきた「ソリューションプロバイダー」であるという事実だ",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "2022年4月に社長に就任し、2026年3月期の期末時点で在任3年です",
+    "url": "https://kigyo-scope.jp/company/4461/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年4月",
+    "url": "https://kigyo-scope.jp/company/4461/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "2015年4月",
+    "url": "https://kigyo-scope.jp/company/4461/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "2016年4月",
+    "url": "https://kigyo-scope.jp/company/4461/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "2017年4月",
+    "url": "https://kigyo-scope.jp/company/4461/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "2017年6月",
+    "url": "https://kigyo-scope.jp/company/4461/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年4月",
+    "url": "https://kigyo-scope.jp/company/4461/ceo/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "ストックボイス「東京マーケットワイド」で 当社の四日市霞工場が紹介されました！（2026.3.18）",
+    "url": "https://www.dks-web.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "一方で、老舗企業にありがちな保守的な側面や、意思決定のスピード感といった点には課題を感じる声も散見される",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "保守的な組織風土からの脱却:",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "100年以上の歴史を持つ老舗企業ゆえの保守的な側面",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "ビジネスモデル構築 〇",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "単なる業績分析に留まらず、その独自のビジネスモデル、脈々と受け継がれる企業文化、そして未来に向けた成長戦略まで、投資家が本当に知りたい情報を、多角的な視点から紐解いていく",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルの詳細分析：なぜ第一工業製薬は「強い」のか",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "特定の業界の好不況に左右されにくい、安定した収益構造を構築している点も特筆すべきだろう",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "収益構造：安定性と成長性を両立する事業ポートフォリオ",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "第一工業製薬の収益構造の最大の特徴は、その安定性にある",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "これは、前述した強固なビジネスモデルが、着実に現金を生み出していることの証左である",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "「ユニ・トップ」戦略による強固なビジネスモデルは最大の魅力",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "中期経営計画 「SMART 2030」説明資料 - 第一工業製薬 — 中期経営計画 「SMART 2030」説明資料 - 第一工業製薬 第一工業製薬 PDF https://www.dks-web.co.jp > strategy > smart2030",
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第一工業製薬 （4461）の真髄に迫る超詳細DD - note — 第一工業製薬 （4461）の真髄に迫る超詳細DD - note note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "pass": 3
+   },
+   {
+    "quote": "兼業投資家向け 第一工業製薬 （4461）の事業 モデル と2027年 ... — 兼業投資家向け 第一工業製薬 （4461）の事業 モデル と2027年 ... note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/sokyokutei/n/n0900b972335b",
+    "pass": 3
+   },
+   {
+    "quote": "中期経営計画「SMART 2030」概要 - 第一工業製薬 — 中期経営計画「SMART 2030」概要 - 第一工業製薬 第一工業製薬 https://www.dks-web.co.jp > IR情報 > 経営方針",
+    "url": "https://www.dks-web.co.jp/ir/management-policy/strategy/",
+    "pass": 3
+   },
+   {
+    "quote": "第一工業製薬 【4461】の事業内容 - キタイシホン — 第一工業製薬 【4461】の事業内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/4461/business",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 資料 | IRライブラリ | IR情報 - 第一工業製薬 — 決算説明 会 資料 | IRライブラリ | IR情報 - 第一工業製薬 第一工業製薬 https://www.dks-web.co.jp > IR情報 > IRライブラリ",
+    "url": "https://www.dks-web.co.jp/ir/library/briefing/",
+    "pass": 3
+   },
+   {
+    "quote": "決算 発表 資料 | IRライブラリ | IR情報 - 第一工業製薬 — 決算 発表 資料 | IRライブラリ | IR情報 - 第一工業製薬 第一工業製薬 https://www.dks-web.co.jp > IR情報 > IRライブラリ",
+    "url": "https://www.dks-web.co.jp/ir/library/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信 | IRライブラリ | IR情報 - 第一工業製薬 — 決算 短信 | IRライブラリ | IR情報 - 第一工業製薬 第一工業製薬 https://www.dks-web.co.jp > IR情報 > IRライブラリ",
+    "url": "https://www.dks-web.co.jp/ir/library/tanshin/",
+    "pass": 3
+   },
+   {
+    "quote": "中期経営計画 説明資料 | IRライブラリ | IR情報 - 第一工業製薬 — 中期経営計画 説明資料 | IRライブラリ | IR情報 - 第一工業製薬 第一工業製薬 https://www.dks-web.co.jp > IR情報 > IRライブラリ",
+    "url": "https://www.dks-web.co.jp/ir/library/mid-term/",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリ | IR情報 - 第一工業製薬 — IRライブラリ | IR情報 - 第一工業製薬 第一工業製薬 https://www.dks-web.co.jp > IR情報",
+    "url": "https://www.dks-web.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年1月 29 日 各 位 会 社 名 第一工業製薬 株式会社 代表者 ... — 2025 年1月 29 日 各 位 会 社 名 第一工業製薬 株式会社 代表者 ... 第一工業製薬 PDF https://www.dks-web.co.jp > news > news_file > file",
+    "url": "https://www.dks-web.co.jp/news/news_file/file/20250129_18301.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第一工業製薬 株式会社 — 第一工業製薬 株式会社 第一工業製薬 PDF https://www.dks-web.co.jp > catalog > tech_intro",
+    "url": "https://www.dks-web.co.jp/pdf/product/catalog/tech_intro.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第一工業製薬 【4461】の 事業 内容 - キタイシホン — 第一工業製薬 【4461】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/4461/business",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 会社情報 - 第一工業製薬 — 会社概要 | 会社情報 - 第一工業製薬 第一工業製薬 https://www.dks-web.co.jp > 会社情報",
+    "url": "https://www.dks-web.co.jp/corporate/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "第一工業製薬の社長は誰？山路 直貴氏の経歴・就任年【4461】 | 企業... — Jun 19, 2026 · 第一工業製薬株式会社の社長は山路 直貴氏（代表取締役社長・62歳）。 2022年4月に社長に就任。 有価証券報告書（2026年3月期）の「役員の状況」から、経歴と取締役の一覧をまとめました。",
+    "url": "https://kigyo-scope.jp/company/4461/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "役員一覧 | 会社情報 | 第一工業製薬 — 第一工業製薬株式会社 入社 生産管理本部 四日市再編推進部 企画担当部長 社長特命室長 事業本部 樹脂材料事業部長 兼 東京本社担当 総合企画本部長 取締役 兼 人事総務本部担当 兼 生産管理本部担当 常務取締役 管理統括 研究統括 代表取締役社長（現任）",
+    "url": "https://www.dks-web.co.jp/corporate/directors/",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリ | IR情報 | 第一工業製薬 — Jul 29, 2026 · 第一工業製薬株式会社のIRライブラリを掲載しています。株主・投資家の皆様へ向けた、最新の決算情報、経営方針、財務データ、IR資料などを公開しています。",
+    "url": "https://www.dks-web.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "【第一工業製薬】組織変更および人事異動のお知らせ｜2026年10月1日 |... — Sep 30, 2026 · 第一工業製薬株式会社 2026年10月1日付で組織変更を実施。グループ統括本部を社長直轄とし、グループ会社への経営支援を強化。執行役員・部長級の異動内容は別紙添付、発令日2026年10月1日。",
+    "url": "https://japanir.jp/company/company-4461/ir/4461-20260930-01_wp_executive_change/",
+    "pass": 3
+   },
+   {
+    "quote": "トップインタビュー 第一工業製薬 山路直貴社長に聞く 「水」と「油」... — Sep 8, 2022 · 蚕 (かいこ)の繭 (まゆ)の糸をほぐす薬剤を作って産業革命に貢献した同社が、「人生100年時代」を迎えて、再び蚕由来の健康ビジネスに参入した経緯などを、山路直貴社長 (写真)に聞いた。 ――「製薬」という名の化学の素材メーカー。",
+    "url": "https://www.nsjournal.jp/トップインタビュー　第一工業製薬　山路直貴社/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.dks-web.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dks-web.co.jp/corporate/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dks-web.co.jp/product/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dks-web.co.jp/rd/strengths/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dks-web.co.jp/sustainability/ecology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dks-web.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dks-web.co.jp/ir/management-policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dks-web.co.jp/ir/management-policy/top-message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dks-web.co.jp/ir/management-policy/philosophy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dks-web.co.jp/ir/management-policy/strategy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dks-web.co.jp/ir/management-policy/disclosure-policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dks-web.co.jp/ir/investor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dks-web.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dks-web.co.jp/ir/library/tanshin/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dks-web.co.jp/ir/library/annual-report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dks-web.co.jp/ir/library/presentation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dks-web.co.jp/ir/library/briefing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dks-web.co.jp/ir/library/ir-report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dks-web.co.jp/ir/library/mid-term/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dks-web.co.jp/ir/library/newsletter/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dks-web.co.jp/ir/library/meeting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dks-web.co.jp/ir/library/governance-report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dks-web.co.jp/ir/library/video/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dks-web.co.jp/ir/financial-performance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dks-web.co.jp/ir/financial-performance/highlight/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.dks-web.co.jp/pdf/tokuteikojin.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.dks-web.co.jp/news/news_file/file/%E3%83%AA%E3%83%81%E3%82%A6%E3%83%A0%E3%82%A4%E3%82%AA%E3%83%B3%E4%BA%8C%E6%AC%A1%E9%9B%BB%E6%B1%A0%E8%B2%A0%E6%A5%B5%E7%94%A8%E6%B0%B4%E7%B3%BB%E8%A4%87%E5%90%88%E6%8E%A5%E7%9D%80%E5%89%A4%20%20%E5%9B%9B%E6%97%A5%E5%B8%82%E5%B7%A5%E5%A0%B4%20%E9%9C%9E%E5%9C%B0%E5%8C%BA%E3%81%AB%E6%96%B0%E3%81%9F%E3%81%AA%E8%A3%BD%E9%80%A0%E8%A8%AD%E5%82%99%E6%8A%95%E8%B3%87%E3%82%92%E6%B1%BA%E5%AE%9A.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030_intro.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.dks-web.co.jp/pdf/ir/DKSreport/separate1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.dks-web.co.jp/pdf/ir/DKSreport/separate2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.dks-web.co.jp/pdf/ir/DKSreport/separate3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.dks-web.co.jp/pdf/ir/DKSreport/separate4.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.com/tatsuya_sabato/n/n756856506991",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kigyo-scope.jp/company/4461/ceo/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "第一工業製薬",
+   "results": [
+    "https://www.dks-web.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E7%AC%AC%E4%B8%80%E5%B7%A5%E6%A5%AD%E8%A3%BD%E8%96%AC",
+    "https://www.nikkei.com/nkd/company/?scode=4461",
+    "https://job.mynavi.jp/28/pc/search/corp51799/outline.html",
+    "https://minkabu.jp/stock/4461",
+    "https://ja.wikipedia.org/wiki/第一工業製薬",
+    "https://www.dks-web.co.jp/corporate/profile/",
+    "https://finance.yahoo.co.jp/quote/4461.T",
+    "https://shikiho.toyokeizai.net/stocks/4461",
+    "https://shikiho.toyokeizai.net/stocks/4461/corporate"
+   ]
+  },
+  {
+   "query": "第一工業製薬 ビジネスモデル",
+   "results": [
+    "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "https://note.com/tatsuya_sabato/n/n756856506991",
+    "https://note.com/sokyokutei/n/n0900b972335b",
+    "https://www.dks-web.co.jp/ir/management-policy/strategy/",
+    "https://kitaishihon.com/company/4461/business",
+    "https://www.dks-web.co.jp/pdf/sustainability/data/rc2025.pdf",
+    "https://www.projectdesign.jp/articles/f4d27b22-152f-49d3-93af-239aa8d01866",
+    "https://www.chemical-info.com/dsk1/",
+    "https://consovation.com/化学メーカーを一歩先へ導く成長戦略を深掘り-第/",
+    "https://www.dks-web.co.jp/ir/library/"
+   ]
+  },
+  {
+   "query": "第一工業製薬 決算説明資料",
+   "results": [
+    "https://www.dks-web.co.jp/ir/library/briefing/",
+    "https://www.dks-web.co.jp/ir/library/presentation/",
+    "https://www.dks-web.co.jp/ir/library/tanshin/",
+    "https://www.dks-web.co.jp/ir/library/mid-term/",
+    "https://www.dks-web.co.jp/ir/library/",
+    "https://www.dks-web.co.jp/ir/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=4461",
+    "https://www.dks-web.co.jp/ir/investor/",
+    "https://www.dks-web.co.jp/ir/library/annual-report/",
+    "https://irbank.net/E00885/reports"
+   ]
+  },
+  {
+   "query": "第一工業製薬 事業系統図",
+   "results": [
+    "https://www.dks-web.co.jp/news/news_file/file/20250129_18301.pdf",
+    "https://www.dks-web.co.jp/pdf/product/catalog/tech_intro.pdf",
+    "https://kitaishihon.com/company/4461/business",
+    "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "https://www.dks-web.co.jp/corporate/profile/",
+    "https://www.dks-web.co.jp/rd/organization/",
+    "https://finance.stockweather.co.jp/contents/dispPDF.aspx?disclosure=20260224567222",
+    "https://www.dks-web.co.jp/ir/library/mid-term/",
+    "https://ja.wikipedia.org/wiki/第一工業製薬",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20250128556653/"
+   ]
+  },
+  {
+   "query": "第一工業製薬 社長 インタビュー",
+   "results": [
+    "https://kigyo-scope.jp/company/4461/ceo/",
+    "https://www.dks-web.co.jp/corporate/directors/",
+    "https://www.dks-web.co.jp/ir/library/",
+    "https://japanir.jp/company/company-4461/ir/4461-20260930-01_wp_executive_change/",
+    "https://www.nsjournal.jp/トップインタビュー　第一工業製薬　山路直貴社/",
+    "https://www.nikkei.com/article/DGXZQOUF2281X0S2A220C2000000/",
+    "https://chemicaldaily.com/archives/757379"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -1,0 +1,1175 @@
+{
+ "name": "ニチリン",
+ "aliases": [],
+ "context": "証券コード5184／ゴム製品／スタンダード（内国株式）／2025.12期 売上高73,668百万円 営業利益率12.3%",
+ "researched_at": "2026-11-02T19:56:33.981197+00:00",
+ "official_url": "https://www.nichirin.co.jp/",
+ "identified_by": "search:yahoo_jp:ニチリン",
+ "profile": {
+  "設立": [
+   {
+    "label": "創立",
+    "value": "大正３年５月14日（1914年）",
+    "url": "https://www.nichirin.co.jp/corporate/corporate02",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "単体349億円、連結736億円（2025年12月31日現在）",
+    "url": "https://www.nichirin.co.jp/corporate/corporate02",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "既存 売上高：拡販 営業利益",
+    "url": "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.pdf",
+    "pass": 2
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "354名 （2025年12月31日現在）",
+    "url": "https://www.nichirin.co.jp/corporate/corporate02",
+    "pass": 1
+   },
+   {
+    "label": "連結従業員数",
+    "value": "2,441名 （2025年12月31日現在）",
+    "url": "https://www.nichirin.co.jp/corporate/corporate02",
+    "pass": 1
+   },
+   {
+    "label": "女性従業員採用率",
+    "value": "30％以上",
+    "url": "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.pdf",
+    "pass": 2
+   },
+   {
+    "label": "女性従業員採用率",
+    "value": "18％",
+    "url": "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.pdf",
+    "pass": 2
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "主な事業内容",
+    "value": "自動車用各種ホース、住宅関連ホース、同部品等の製造販売",
+    "url": "https://www.nichirin.co.jp/corporate/corporate02",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "世界のお客様のご期待に応え",
+    "url": "https://www.nichirin.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちはスピードを持って真のマーケティングと継続的なイノベーションを行い、\"In Step with the Future\"のスローガンのもと、 ALLニチリンの全従業員が一体となり、世界のお客様のご期待に応え、感動を与え安心して頂ける製品をお届けする真のグローバルサプライヤーを目指してまいります",
+    "url": "https://www.nichirin.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客ニーズに柔軟に対応します",
+    "url": "https://www.nichirin.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ニチリンではグループの研究開発技術の中核となる「NICHIRIN R&Dセンター」で、多様化する顧客ニーズへ迅速に対応すべく更なる技術開発力の強化を図っています",
+    "url": "https://www.nichirin.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のご要望に合わせて、対応させて頂きます",
+    "url": "https://www.nichirin.co.jp/product",
+    "pass": 1
+   },
+   {
+    "quote": "・ 世界中のお客様からのスペックに対応するため、様々な試験を実施し開発",
+    "url": "https://www.nichirin.co.jp/product/product01",
+    "pass": 1
+   },
+   {
+    "quote": "世界のお客様の期待に応える真のグローバルサプライヤーとして、多様性に富んだ持続可能な企業集団を目指して",
+    "url": "https://www.nichirin.co.jp/corporate/corporate01",
+    "pass": 1
+   },
+   {
+    "quote": "ニチリンのコア技術※となる「フローエンジニアリング」は、単なる部品製造に留まらず、顧客の製品性能を最大化し、その先のユーザーの安全・快適・利便性を追求します",
+    "url": "https://www.nichirin.co.jp/corporate/corporate07",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、グローバルな視点に立った経営を推進するとともに、公正・透明な経営を行うことにより、株主・取引先から高く評価され、社会からも信頼される企業グループを目指すことを基本方針とし、「ニチリングループ企業行動憲章」・「ニチリングループコンプライアンス方針」を定める",
+    "url": "https://www.nichirin.co.jp/csr/csr07",
+    "pass": 1
+   },
+   {
+    "quote": "このディスクブレーキは車種ごとに微妙なブレーキフィーリングは求められますが、当社はこれに対応するため、いち早く膨張量の異なるホースをシリーズ化し、またバラエティーに富んだ口金具を取り揃えるなど、ユーザーのいかなる要求にも迅速に応えてきたことによるものと判断しております",
+    "url": "https://www.nichirin.co.jp/corporate/faq",
+    "pass": 1
+   },
+   {
+    "quote": "ニチリンは、当社のコア技術であるフローエンジニアリングによって、単に部品を製造するだけでなく、顧客（メーカー）の製品性能を最大化し、その先のユーザー（ドライバーや一般家庭）の安全性、快適性、利便",
+    "url": "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "そして柔軟に制御・伝達するための卓越した技術、顧客提案、そして信頼性の高い品質と供給能力",
+    "url": "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 顧客の声を速やかに技術・生産",
+    "url": "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 顧客のイメージカラー版など、自分だけのバイク",
+    "url": "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 事業領域の拡大（新顧客開拓、2輪製品拡販、熱マネジメント製品受注）",
+    "url": "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "維持を実現し、顧客要求への柔軟な対応を図る",
+    "url": "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 顧客の工場がある国内への直接輸送へ変更",
+    "url": "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "例）顧客のカナダ工場、メキシコ工場向は、アメリカ経由から、",
+    "url": "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客ニーズへの迅速な対応",
+    "url": "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "削減や顧客の信頼性と満足度の向上を図る",
+    "url": "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "各拠点において、お客様や取引先、株主、従業員、地域社会など多様なステークホルダーに支えられ事業を展開",
+    "url": "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "新製品の拡販（新規顧客含む） グループ連携による未開拓市場への事業拡大",
+    "url": "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「日系自動車メーカーに依存するだけでなく、現地ローカルメーカーの顧客開拓にもグローバルで取り組む」と語るニチリンの曽我浩之社長",
+    "url": "https://gomuhouchi.com/business/64376/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.nichirin.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "感動を与え安心して頂ける製品をお届けする",
+    "url": "https://www.nichirin.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちはスピードを持って真のマーケティングと継続的なイノベーションを行い、\"In Step with the Future\"のスローガンのもと、 ALLニチリンの全従業員が一体となり、世界のお客様のご期待に応え、感動を与え安心して頂ける製品をお届けする真のグローバルサプライヤーを目指してまいります",
+    "url": "https://www.nichirin.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ニチリン独自の技術力・開発力をもって耐久性に優れた高品質・高機能な製品をご提供します",
+    "url": "https://www.nichirin.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.nichirin.co.jp/contact-E",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.nichirin.co.jp/sitemap",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報 - 株式会社ニチリン",
+    "url": "https://www.nichirin.co.jp/product",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報 - ニチリン 自動車用ホース 二輪車用ホース ホース製造 ブレーキホース",
+    "url": "https://www.nichirin.co.jp/product",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.nichirin.co.jp/product",
+    "pass": 1
+   },
+   {
+    "quote": "ニチリン製品のご紹介",
+    "url": "https://www.nichirin.co.jp/product",
+    "pass": 1
+   },
+   {
+    "quote": "搭載システムの高機能化にも柔軟に対応する製品づくりに努めます",
+    "url": "https://www.nichirin.co.jp/product",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報 - ニチリン 自動車用ホース 二輪車用ホース ホース製造 ブレーキホース",
+    "url": "https://www.nichirin.co.jp/product/product01",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.nichirin.co.jp/product/product01",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報 - ニチリン 自動車用ホース 二輪車用ホース ホース製造 ブレーキホース",
+    "url": "https://www.nichirin.co.jp/product/product02",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.nichirin.co.jp/product/product02",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報 - ニチリン 自動車用ホース 二輪車用ホース ホース製造 ブレーキホース",
+    "url": "https://www.nichirin.co.jp/product/product04",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.nichirin.co.jp/product/product04",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報 - ニチリン 自動車用ホース 二輪車用ホース ホース製造 ブレーキホース",
+    "url": "https://www.nichirin.co.jp/product/product05",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.nichirin.co.jp/product/product05",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報 - ニチリン 自動車用ホース 二輪車用ホース ホース製造 ブレーキホース",
+    "url": "https://www.nichirin.co.jp/product/product06",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.nichirin.co.jp/product/product06",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報 - ニチリン 自動車用ホース 二輪車用ホース ホース製造 ブレーキホース バス 風呂 キッチン 台所",
+    "url": "https://www.nichirin.co.jp/product/product09",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.nichirin.co.jp/product/product09",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報 - ニチリン 自動車用ホース 二輪車用ホース ホース製造 ブレーキホース バス 風呂 キッチン 台所",
+    "url": "https://www.nichirin.co.jp/product/product10",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.nichirin.co.jp/product/product10",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報 - ニチリン 自動車用ホース 二輪車用ホース ホース製造 ブレーキホース",
+    "url": "https://www.nichirin.co.jp/product/product07",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.nichirin.co.jp/product/product07",
+    "pass": 1
+   },
+   {
+    "quote": "標準機は規格に沿った安全対策対応製品です",
+    "url": "https://www.nichirin.co.jp/product/product07",
+    "pass": 1
+   },
+   {
+    "quote": "実際のワークをお持ち込みもしくはご送付いただければ、テストマーキングのサービスを無料で行っております",
+    "url": "https://www.nichirin.co.jp/product/product07",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.nichirin.co.jp/corporate",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.nichirin.co.jp/corporate/corporate01",
+    "pass": 1
+   },
+   {
+    "quote": "世界が求める、世界が認める製品を",
+    "url": "https://www.nichirin.co.jp/corporate/corporate01",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.nichirin.co.jp/corporate/corporate07",
+    "pass": 1
+   },
+   {
+    "quote": "ニチリンのコア技術※となる「フローエンジニアリング」は、単なる部品製造に留まらず、顧客の製品性能を最大化し、その先のユーザーの安全・快適・利便性を追求します",
+    "url": "https://www.nichirin.co.jp/corporate/corporate07",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.nichirin.co.jp/csr/csr07",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.nichirin.co.jp/corporate/corporate08",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.nichirin.co.jp/newspage",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.nichirin.co.jp/corporate_news01",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.nichirin.co.jp/corporate/faq",
+    "pass": 1
+   },
+   {
+    "quote": "自動車用ホースと一口に言っても用途により多数の品種がありますが、当社の製品は、ブレーキホース、カーエアコンホース、パワーステアリングホースなど保安部品といわれる自動車用高機能ホースに特化しております",
+    "url": "https://www.nichirin.co.jp/corporate/faq",
+    "pass": 1
+   },
+   {
+    "quote": "当社の製品については、",
+    "url": "https://www.nichirin.co.jp/corporate/faq",
+    "pass": 1
+   },
+   {
+    "quote": "〈製品情報〉",
+    "url": "https://www.nichirin.co.jp/corporate/faq",
+    "pass": 1
+   },
+   {
+    "quote": "またFMVSS（米国自動車安全基準）、CCC（中国自動車部品安全基準）等各国の安全基準に適合した製品造りを行っております",
+    "url": "https://www.nichirin.co.jp/corporate/faq",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.nichirin.co.jp/corporate/corporate02",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.nichirin.co.jp/corporate/corporate03",
+    "pass": 1
+   },
+   {
+    "quote": "自転車タイヤ・チューブ、各種ゴムホースおよび工業用ゴム製品の製造・販売を開始",
+    "url": "https://www.nichirin.co.jp/corporate/corporate03",
+    "pass": 1
+   },
+   {
+    "quote": "人造絹糸製造用フェノール樹脂製品の製造開始",
+    "url": "https://www.nichirin.co.jp/corporate/corporate03",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.nichirin.co.jp/corporate/corporate04",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.nichirin.co.jp/corporate/corporate05",
+    "pass": 1
+   },
+   {
+    "quote": "ニチリン・サービス株式会社",
+    "url": "https://www.nichirin.co.jp/corporate/corporate05",
+    "pass": 1
+   },
+   {
+    "quote": "自動車用ホース類の製造、損害保険代理業、環境整備・労務サービスの提供",
+    "url": "https://www.nichirin.co.jp/corporate/corporate05",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.nichirin.co.jp/corporate/corporate06",
+    "pass": 1
+   },
+   {
+    "quote": "フローエンジニアリングの定義 -製品・技術",
+    "url": "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ニチリンは、当社のコア技術であるフローエンジニアリングによって、単に部品を製造するだけでなく、顧客（メーカー）の製品性能を最大化し、その先のユーザー（ドライバーや一般家庭）の安全性、快適性、利便",
+    "url": "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "私たちの製品は、見えないところで社会の基盤を「動かし、支え、最適化する」ことで、人々の豊かな",
+    "url": "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 機能性と耐久性を兼ね備えた製品づくり",
+    "url": "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "最適な製品設計の「提案」",
+    "url": "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "［ 会社の製品・技術 ］としてのフローエンジニアリング",
+    "url": "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• ニチリンのコア技術：製品を通じて社会に提供する“価値そのもの”となる物理的な「流れ」の制御技術",
+    "url": "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "」において、核となる「フローエンジニアリング」は、単なる技術や製品に留まらない",
+    "url": "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.pdf",
+    "pass": 2
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "令和８年熊本地震被災者に対する支援について",
+    "url": "https://www.nichirin.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1980年代からグローバル化を進めてきたニチリンは、国内だけではなく海外でも高い評価を頂いております",
+    "url": "https://www.nichirin.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年中期経営計画資料",
+    "url": "https://www.nichirin.co.jp/corporate/corporate08",
+    "pass": 1
+   },
+   {
+    "quote": "令和８年熊本地震被災者に対する支援について",
+    "url": "https://www.nichirin.co.jp/newspage",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度のCDPにおいて、気候変動は「B」、水セキュリティは「A-」の評価を獲得",
+    "url": "https://www.nichirin.co.jp/newspage",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月23日に公開した「ESGデータブック2026」について、温室効果ガス（GHG）排出量お",
+    "url": "https://www.nichirin.co.jp/corporate_news01",
+    "pass": 1
+   },
+   {
+    "quote": "令和８年熊本地震被災者に対する支援について",
+    "url": "https://www.nichirin.co.jp/corporate_news01",
+    "pass": 1
+   },
+   {
+    "quote": "2026年７月23日、当社グループは、「サステナビリティレポート2026」「ESGデータブック202",
+    "url": "https://www.nichirin.co.jp/corporate_news01",
+    "pass": 1
+   },
+   {
+    "quote": "1914年（大正3年）5月です",
+    "url": "https://www.nichirin.co.jp/corporate/faq",
+    "pass": 1
+   },
+   {
+    "quote": "1997年8月に大阪証券取引所第2部（現東京証券取引所）に上場",
+    "url": "https://www.nichirin.co.jp/corporate/faq",
+    "pass": 1
+   },
+   {
+    "quote": "2022年4月に東京証券取引所市場再編によりスタンダード市場に移行しました",
+    "url": "https://www.nichirin.co.jp/corporate/faq",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 - 株式会社ニチリン",
+    "url": "https://www.nichirin.co.jp/corporate/corporate03",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 - ニチリン 自動車用ホース 二輪車用ホース ホース製造 AQUA GREEN ブレーキホース",
+    "url": "https://www.nichirin.co.jp/corporate/corporate03",
+    "pass": 1
+   },
+   {
+    "quote": "1914年 (大正3年) 5月",
+    "url": "https://www.nichirin.co.jp/corporate/corporate03",
+    "pass": 1
+   },
+   {
+    "quote": "1924年 (大正13年) 3月",
+    "url": "https://www.nichirin.co.jp/corporate/corporate03",
+    "pass": 1
+   },
+   {
+    "quote": "1931年 (昭和6年) 2月",
+    "url": "https://www.nichirin.co.jp/corporate/corporate03",
+    "pass": 1
+   },
+   {
+    "quote": "1934年 (昭和9年) 5月",
+    "url": "https://www.nichirin.co.jp/corporate/corporate03",
+    "pass": 1
+   },
+   {
+    "quote": "1937年 (昭和12年) 4月",
+    "url": "https://www.nichirin.co.jp/corporate/corporate03",
+    "pass": 1
+   },
+   {
+    "quote": "1943年 (昭和18年) 8月",
+    "url": "https://www.nichirin.co.jp/corporate/corporate03",
+    "pass": 1
+   },
+   {
+    "quote": "1945年 (昭和20年) 7月",
+    "url": "https://www.nichirin.co.jp/corporate/corporate03",
+    "pass": 1
+   },
+   {
+    "quote": "1946年 (昭和21年) 3月",
+    "url": "https://www.nichirin.co.jp/corporate/corporate03",
+    "pass": 1
+   },
+   {
+    "quote": "1957年 (昭和32年) 4月",
+    "url": "https://www.nichirin.co.jp/corporate/corporate03",
+    "pass": 1
+   },
+   {
+    "quote": "1958年 (昭和33年) 3月",
+    "url": "https://www.nichirin.co.jp/corporate/corporate03",
+    "pass": 1
+   },
+   {
+    "quote": "1965年 (昭和40年) 4月",
+    "url": "https://www.nichirin.co.jp/corporate/corporate03",
+    "pass": 1
+   },
+   {
+    "quote": "1967年 (昭和42年) 4月",
+    "url": "https://www.nichirin.co.jp/corporate/corporate03",
+    "pass": 1
+   },
+   {
+    "quote": "1970年 (昭和45年) 3月",
+    "url": "https://www.nichirin.co.jp/corporate/corporate03",
+    "pass": 1
+   },
+   {
+    "quote": "1986年 (昭和61年) 10月",
+    "url": "https://www.nichirin.co.jp/corporate/corporate03",
+    "pass": 1
+   },
+   {
+    "quote": "1987年 (昭和62年) 2月",
+    "url": "https://www.nichirin.co.jp/corporate/corporate03",
+    "pass": 1
+   },
+   {
+    "quote": "1988年 (昭和63年) 7月",
+    "url": "https://www.nichirin.co.jp/corporate/corporate03",
+    "pass": 1
+   },
+   {
+    "quote": "1989年 (平成元年) 7月",
+    "url": "https://www.nichirin.co.jp/corporate/corporate03",
+    "pass": 1
+   },
+   {
+    "quote": "1989年 (平成元年) 9月",
+    "url": "https://www.nichirin.co.jp/corporate/corporate03",
+    "pass": 1
+   },
+   {
+    "quote": "1991年 (平成3年) 7月",
+    "url": "https://www.nichirin.co.jp/corporate/corporate03",
+    "pass": 1
+   },
+   {
+    "quote": "1994年 (平成6年) 6月",
+    "url": "https://www.nichirin.co.jp/corporate/corporate03",
+    "pass": 1
+   },
+   {
+    "quote": "1995年 (平成7年) 8月",
+    "url": "https://www.nichirin.co.jp/corporate/corporate03",
+    "pass": 1
+   },
+   {
+    "quote": "1995年 (平成7年) 10月",
+    "url": "https://www.nichirin.co.jp/corporate/corporate03",
+    "pass": 1
+   },
+   {
+    "quote": "1996年 (平成8年) 7月",
+    "url": "https://www.nichirin.co.jp/corporate/corporate03",
+    "pass": 1
+   },
+   {
+    "quote": "2008年5月",
+    "url": "https://www.nichirin.co.jp/corporate/corporate06",
+    "pass": 1
+   },
+   {
+    "quote": "2010年10月",
+    "url": "https://www.nichirin.co.jp/corporate/corporate06",
+    "pass": 1
+   },
+   {
+    "quote": "2011年4月",
+    "url": "https://www.nichirin.co.jp/corporate/corporate06",
+    "pass": 1
+   },
+   {
+    "quote": "1994年6月",
+    "url": "https://www.nichirin.co.jp/corporate/corporate06",
+    "pass": 1
+   },
+   {
+    "quote": "2012年12月",
+    "url": "https://www.nichirin.co.jp/corporate/corporate06",
+    "pass": 1
+   },
+   {
+    "quote": "2022年10月",
+    "url": "https://www.nichirin.co.jp/corporate/corporate06",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月24日",
+    "url": "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年2024年2023年2022年2021年連結経営目標",
+    "url": "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2028年をマイルストーン(最終年)とする中期経営計画を策定し、経営ビジョン・行動指針も刷新のうえ、持続可能な成⾧の実現に取り組む",
+    "url": "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年 2026年 2027年 2028年 2030年",
+    "url": "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2030年：将来のHVACシステム向けラインナップ",
+    "url": "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年~：現在のHVACシステム向けラインナップ",
+    "url": "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年 2025年 2026年 2027年 2028年 2029年 2030年",
+    "url": "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2030年までのDX投資",
+    "url": "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2021年 2022年 2023年 2024年 2025年 2028年",
+    "url": "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2028年度までに、PBR＝1.0倍以上を目指す",
+    "url": "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2028年：目標",
+    "url": "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年：実績",
+    "url": "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年：対比",
+    "url": "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年：実績（当社）",
+    "url": "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年：実績",
+    "url": "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年：対比",
+    "url": "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025 年 11 月 17 日 改定",
+    "url": "https://www.nichirin.co.jp/data/202511/NICHIRIN_BUS_20251117.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年2月24日",
+    "url": "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.jpg",
+    "pass": 2
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "ニチリン製品のご紹介",
+    "url": "https://www.nichirin.co.jp/product",
+    "pass": 1
+   },
+   {
+    "quote": "ニチリンの経営理念などをご紹介します",
+    "url": "https://www.nichirin.co.jp/corporate",
+    "pass": 1
+   },
+   {
+    "quote": "皆様から頂く「よくあるご質問」の一部をご紹介します",
+    "url": "https://www.nichirin.co.jp/corporate/faq",
+    "pass": 1
+   },
+   {
+    "quote": "• 営業人員の強化と外部リソースの活用",
+    "url": "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "持続可能な社会の実現に向けた、ゴム業界内外の先進事例を紹介する『SUSTAINABLE ＆ RUBBER』の第2弾",
+    "url": "https://gomuhouchi.com/business/64376/",
+    "pass": 3
+   },
+   {
+    "quote": "ゴム・エラストマー製品・市場分野別の動向、新製品・技術、原材料動向、設備・機械の紹介、インタビュー、海外企業情報、統計などをコンパクトに掲載しています",
+    "url": "https://gomuhouchi.com/business/64376/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "ニチリンの強み、目指す姿を再認識し、「経営理念」を制定",
+    "url": "https://www.nichirin.co.jp/corporate/corporate07",
+    "pass": 1
+   },
+   {
+    "quote": "目標（売上高 750億円以上、営業利益率 12.7%以上、親",
+    "url": "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "12.3%12.9%13.6%12.0%11.7%12.7%以上営業利益率",
+    "url": "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ニチリンの強み、目指す姿を再認識し、新たな「経営理念」を制定",
+    "url": "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.pdf",
+    "pass": 2
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "• 為替や関税の変動に対応すべく、生産拠点の移管や商流の見直し、更に部材の現調化",
+    "url": "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "海外子会社 - 株式会社 ニチリン — 海外子会社 - 株式会社 ニチリン 株式会社ニチリン https://www.nichirin.co.jp > 企業情報",
+    "url": "https://www.nichirin.co.jp/corporate/corporate06",
+    "pass": 3
+   },
+   {
+    "quote": "トップページ - 株式会社 ニチリン — トップページ - 株式会社 ニチリン 株式会社ニチリン https://www.nichirin.co.jp",
+    "url": "https://www.nichirin.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "中期経営計画2026 - 2028年 - ニチリン — 中期経営計画2026 - 2028年 - ニチリン 株式会社ニチリン PDF https://www.nichirin.co.jp > data > NICHIRINFlowE...",
+    "url": "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "トップメッセージ - 株式会社 ニチリン — トップメッセージ - 株式会社 ニチリン 株式会社ニチリン https://www.nichirin.co.jp > サステナビリティ",
+    "url": "https://www.nichirin.co.jp/csr/csr01",
+    "pass": 3
+   },
+   {
+    "quote": "数字で見る ニチリン ｜ NICHIRIN （ ニチリン ）採用サイト — 数字で見る ニチリン ｜ NICHIRIN （ ニチリン ）採用サイト 株式会社ニチリン https://www.nichirin.co.jp > recruit2 > number",
+    "url": "https://www.nichirin.co.jp/recruit2/number/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社・ 決算説明資料 - 株式会社 ニチリン — 会社・ 決算説明資料 - 株式会社 ニチリン 株式会社ニチリン https://www.nichirin.co.jp > IR情報",
+    "url": "https://www.nichirin.co.jp/ir/library/material",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 - 株式会社 ニチリン — IR情報 - 株式会社 ニチリン 株式会社ニチリン https://www.nichirin.co.jp > ...",
+    "url": "https://www.nichirin.co.jp/ir",
+    "pass": 3
+   },
+   {
+    "quote": "IRカレンダー - 株式会社 ニチリン — IRカレンダー - 株式会社 ニチリン 株式会社ニチリン https://www.nichirin.co.jp > IR情報",
+    "url": "https://www.nichirin.co.jp/ir/ir16",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ニチリン 決算説明資料 - EDINET DB — 株式会社 ニチリン 決算説明資料 - EDINET DB EDINET DB https://edinetdb.jp > 株式会社ニチリン > IR資料",
+    "url": "https://edinetdb.jp/company/E01114/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 - 株式会社 ニチリン — 企業情報 - 株式会社 ニチリン 株式会社ニチリン https://www.nichirin.co.jp > corporate",
+    "url": "https://www.nichirin.co.jp/corporate",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 株式会社 ニチリン — 会社概要 - 株式会社 ニチリン 株式会社ニチリン https://www.nichirin.co.jp > 企業情報",
+    "url": "https://www.nichirin.co.jp/corporate/corporate02",
+    "pass": 3
+   },
+   {
+    "quote": "事業 所・工場 - 株式会社 ニチリン — 事業 所・工場 - 株式会社 ニチリン 株式会社ニチリン https://www.nichirin.co.jp > 企業情報",
+    "url": "https://www.nichirin.co.jp/corporate/corporate04",
+    "pass": 3
+   },
+   {
+    "quote": "【新年トップ インタビュー 】 ニチリン社長 曽我浩之氏 — 【新年トップ インタビュー 】 ニチリン社長 曽我浩之氏 ゴム報知新聞ＮＥＸＴ https://gomuhouchi.com > 企業・ビジネス",
+    "url": "https://gomuhouchi.com/business/64376/",
+    "pass": 3
+   },
+   {
+    "quote": "【新年 インタビュー 】 ニチリン 曽我浩之 社長 - ゴムタイムス — 【新年 インタビュー 】 ニチリン 曽我浩之 社長 - ゴムタイムス ゴムタイムス https://www.gomutimes.co.jp > ...",
+    "url": "https://www.gomutimes.co.jp/?p=210052",
+    "pass": 3
+   },
+   {
+    "quote": "ニチリン の歴代 社長 - The社史 — ニチリン の歴代 社長 - The社史 The社史 https://the-shashi.com > ニチリンの歴史",
+    "url": "https://the-shashi.com/tse/5184/ceo/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.nichirin.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nichirin.co.jp/contact-E",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nichirin.co.jp/sitemap",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nichirin.co.jp/product",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nichirin.co.jp/product/product01",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nichirin.co.jp/product/product02",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nichirin.co.jp/product/product04",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nichirin.co.jp/product/product05",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nichirin.co.jp/product/product06",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nichirin.co.jp/product/product09",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nichirin.co.jp/product/product10",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nichirin.co.jp/product/product07",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nichirin.co.jp/corporate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nichirin.co.jp/corporate/corporate01",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nichirin.co.jp/corporate/corporate07",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nichirin.co.jp/csr/csr07",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nichirin.co.jp/corporate/corporate08",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nichirin.co.jp/newspage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nichirin.co.jp/corporate_news01",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nichirin.co.jp/corporate/faq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nichirin.co.jp/corporate/corporate02",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nichirin.co.jp/corporate/corporate03",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nichirin.co.jp/corporate/corporate04",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nichirin.co.jp/corporate/corporate05",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nichirin.co.jp/corporate/corporate06",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.nichirin.co.jp/data/202505/Nichirin_LaserMarker_StandardType.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nichirin.co.jp/data/202505/Marking_shade_sample.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nichirin.co.jp/data/202511/NICHIRIN_BUS_20251117.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://gomuhouchi.com/business/64376/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gomutimes.co.jp/?p=210052",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ニチリン",
+   "results": [
+    "https://www.nichirin.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%81%E3%83%AA%E3%83%B3",
+    "http://www.hyogo-gomu.or.jp/syokai/nichirin.htm",
+    "https://www.marklines.com/ja/top500/nichirin",
+    "https://www.suzukishoten-museum.com/profile/cooperative_firm/nichirin/",
+    "https://ja.wikipedia.org/wiki/ニチリン",
+    "https://www.nichirin.co.jp/newspage",
+    "https://nichirin-intl.com/",
+    "https://www.nichirin-intl.com/company/",
+    "https://www.nichirei.co.jp/english"
+   ]
+  },
+  {
+   "query": "ニチリン ビジネスモデル",
+   "results": [
+    "https://www.nichirin.co.jp/corporate/corporate06",
+    "https://www.nichirin.co.jp/",
+    "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.pdf",
+    "https://www.nichirin.co.jp/csr/csr01",
+    "https://www.nichirin.co.jp/recruit2/number/index.html",
+    "https://note.com/hr793/n/n647cd74bd5a9",
+    "https://www.marklines.com/ja/top500/nichirin",
+    "https://www.meti.go.jp/press/2026/09/20260903001.html",
+    "https://kitaishihon.com/company/5184/story",
+    "https://consovation.com/株式会社ニチリンのビジネスモデルと成長戦略を/"
+   ]
+  },
+  {
+   "query": "ニチリン 決算説明資料",
+   "results": [
+    "https://www.nichirin.co.jp/ir/library/material",
+    "https://www.nichirin.co.jp/ir",
+    "https://www.nichirin.co.jp/ir/ir16",
+    "https://edinetdb.jp/company/E01114/presentations/",
+    "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20240910_archive/ewpvsy/140120240905581794.pdf",
+    "https://irbank.net/5184/ir",
+    "https://www.nichirin.co.jp/corporate/corporate08",
+    "https://kabutan.jp/stock/finance?code=5184",
+    "https://kitaishihon.com/company/5184/ir-library"
+   ]
+  },
+  {
+   "query": "ニチリン 事業系統図",
+   "results": [
+    "https://www.nichirin.co.jp/corporate",
+    "https://www.nichirin.co.jp/corporate/corporate02",
+    "https://www.nichirin.co.jp/corporate/corporate04",
+    "https://www.nichirin.co.jp/data/202603/NICHIRINFlowEngineeringChallenge2030.pdf",
+    "https://www.nichirin.co.jp/corporate/corporate06",
+    "https://www.nichirin.co.jp/",
+    "https://kitaishihon.com/company/5184/story",
+    "https://rikeino-shigoto.jp/story/182",
+    "https://www.nichirin.co.jp/recruit2/business/index.html",
+    "https://gomuhouchi.com/business/81038/"
+   ]
+  },
+  {
+   "query": "ニチリン 社長 インタビュー",
+   "results": [
+    "https://gomuhouchi.com/business/64376/",
+    "https://www.gomutimes.co.jp/?p=210052",
+    "https://www.kobe-np.co.jp/data/soga_hiroyuki/",
+    "https://www.netdenjd.com/archives/454541",
+    "https://the-shashi.com/tse/5184/ceo/",
+    "https://gomuhouchi.com/business/72423/",
+    "https://www.nichirin.co.jp/corporate/corporate01",
+    "https://kitaishihon.com/company/5184/board-of-director",
+    "https://www.nikkan.co.jp/articles/view/663487",
+    "https://www.gomutimes.co.jp/?p=200284"
+   ]
+  }
+ ],
+ "missing": {
+  "お金の形": "記載なし（3回確認済み：公式25頁／PDF・画像5件／外部2頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式25頁／PDF・画像5件／外部2頁・検索5回）"
+ }
+}

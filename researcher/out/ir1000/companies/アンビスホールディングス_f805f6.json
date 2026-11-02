@@ -1,0 +1,1365 @@
+{
+ "name": "アンビスホールディングス",
+ "aliases": [],
+ "context": "証券コード7071／サービス業／プライム（内国株式）／2025.09期 売上高49,174百万円 営業利益率12.5%",
+ "researched_at": "2026-11-02T19:49:01.551133+00:00",
+ "official_url": "https://www.amvis.com/",
+ "identified_by": "search:yahoo_jp:アンビスホールディングス",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2016年10月",
+    "url": "https://www.amvis.com/oshirase/926/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2020年３月",
+    "url": "https://www.amvis.com/oshirase/926/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2016年10月",
+    "url": "https://www.amvis.com/oshirase/1029/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2013年9月",
+    "url": "https://www.amvis.com/_cms/wp-content/uploads/2026/11/Kita-Narashino_open-release.pdf",
+    "pass": 2
+   },
+   {
+    "label": "設立",
+    "value": "2013 年9 月",
+    "url": "https://www.amvis.com/_cms/wp-content/uploads/2026/10/Narita_open-release_j.pdf",
+    "pass": 2
+   },
+   {
+    "label": "設立",
+    "value": "2016 年 10 月",
+    "url": "https://www.amvis.com/_cms/wp-content/uploads/2026/08/260803_Futamatagawa_open_release_ja-1.pdf",
+    "pass": 2
+   },
+   {
+    "label": "設立",
+    "value": "2016 年 10 月",
+    "url": "https://www.amvis.com/_cms/wp-content/uploads/2026/07/20260701_Amvis.pdf",
+    "pass": 2
+   },
+   {
+    "label": "設立",
+    "value": "2016 年 10 月",
+    "url": "https://www.amvis.com/_cms/wp-content/uploads/2026/05/f27a19d936d1d0fa9bae9102fb9b76de-1.pdf",
+    "pass": 2
+   },
+   {
+    "label": "設立",
+    "value": "2016 年 10 月",
+    "url": "https://www.amvis.com/_cms/wp-content/uploads/2026/03/b8b1402dcac644609c2b3dda0ce1356f.pdf",
+    "pass": 2
+   },
+   {
+    "label": "設立",
+    "value": "2016 年 10 月",
+    "url": "https://www.amvis.com/_cms/wp-content/uploads/2026/03/6ed5bd8cce22e89dad7ddffe88f0b474.pdf",
+    "pass": 2
+   },
+   {
+    "label": "設立",
+    "value": "2016 年 10 月",
+    "url": "https://www.amvis.com/_cms/wp-content/uploads/2026/01/45de8aff0337736bfecf7b2408e44ad9.pdf",
+    "pass": 2
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "医療依存度が高い方を対象とする、慢性期と終末期の看護・介護ケアに特化した医療施設型ホスピス「医心館」を運営",
+    "url": "https://www.amvis.com/oshirase/926/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "医療機関・介護施設の経営に関する総合的な支援を実施",
+    "url": "https://www.amvis.com/oshirase/926/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "がん末期状態にある方や人工呼吸器を装着されている方等医療依存度が高い方を対象とし、慢性期と終末期の看護・介護ケアに特化した医療施設型ホスピス「医心館」を運営",
+    "url": "https://www.amvis.com/oshirase/1029/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "医療施設型ホスピス「医心館」および訪問看護サービス「医ごころ」の運営を通じた、地域の",
+    "url": "https://www.amvis.com/_cms/wp-content/uploads/2026/11/Kita-Narashino_open-release.pdf",
+    "pass": 2
+   },
+   {
+    "label": "事業内容",
+    "value": "医療施設型ホスピス 「医心館」 および訪問看護サービス 「医ごころ」 の運営を通じた、地域の",
+    "url": "https://www.amvis.com/_cms/wp-content/uploads/2026/10/Narita_open-release_j.pdf",
+    "pass": 2
+   },
+   {
+    "label": "事業内容",
+    "value": "がん末期状態にある方や人工呼吸器を装着されている方等医療依存度が高い方を対象とし、",
+    "url": "https://www.amvis.com/_cms/wp-content/uploads/2026/08/260803_Futamatagawa_open_release_ja-1.pdf",
+    "pass": 2
+   },
+   {
+    "label": "事業内容",
+    "value": "医療依存度が高い方を対象とし、24 時間 365 日の手厚い看護・介護ケアに特化したホスピス",
+    "url": "https://www.amvis.com/_cms/wp-content/uploads/2026/07/20260701_Amvis.pdf",
+    "pass": 2
+   },
+   {
+    "label": "事業内容",
+    "value": "がん末期状態にある方や人工呼吸器を装着されている方等医療依存度が高い方を対象とし、",
+    "url": "https://www.amvis.com/_cms/wp-content/uploads/2026/05/f27a19d936d1d0fa9bae9102fb9b76de-1.pdf",
+    "pass": 2
+   },
+   {
+    "label": "事業内容",
+    "value": "がん末期状態にある方や人工呼吸器を装着されている方等医療依存度が高い方を対象とし、",
+    "url": "https://www.amvis.com/_cms/wp-content/uploads/2026/03/b8b1402dcac644609c2b3dda0ce1356f.pdf",
+    "pass": 2
+   },
+   {
+    "label": "事業内容",
+    "value": "がん末期状態にある方や人工呼吸器を装着されている方等医療依存度が高い方を対象とし、",
+    "url": "https://www.amvis.com/_cms/wp-content/uploads/2026/03/6ed5bd8cce22e89dad7ddffe88f0b474.pdf",
+    "pass": 2
+   },
+   {
+    "label": "事業内容",
+    "value": "がん末期状態にある方や人工呼吸器を装着されている方等医療依存度が高い方を対象とし、",
+    "url": "https://www.amvis.com/_cms/wp-content/uploads/2026/01/45de8aff0337736bfecf7b2408e44ad9.pdf",
+    "pass": 2
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "有料老人ホーム事業、訪問看護、訪問介護、居宅介護支援、障害福祉サービス（居宅介護等）、コンサルティング事業、その他付随事業",
+    "url": "https://www.amvis.com/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "いずれも既存の制度で規定されるサービスであり、他の施設でもしばしば見られる形態です",
+    "url": "https://www.amvis.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "新しい発想を具現化しサービス内容を向上させるため、当社はオペレーションの強化も重ねてきました",
+    "url": "https://www.amvis.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "医療・介護の早払いサービス",
+    "url": "https://www.amvis.com/business/medical/",
+    "pass": 1
+   },
+   {
+    "quote": "診療報酬・介護報酬の債権を当社が買い取り、社会保険診療報酬支払基金や国民健康保険団体連合会による支払期日前に事業者様へお支払いするサービスです",
+    "url": "https://www.amvis.com/business/medical/",
+    "pass": 1
+   },
+   {
+    "quote": "ファクタリングサービスを利用することで、通常より約1.5ヶ月早い資金化が可能となります",
+    "url": "https://www.amvis.com/business/medical/",
+    "pass": 1
+   },
+   {
+    "quote": "ファクタリングサービスによる",
+    "url": "https://www.amvis.com/business/medical/",
+    "pass": 1
+   },
+   {
+    "quote": "今回の連携によりネクサスケアは、医心館の入居対象である医療依存度が高い方への介護提供が可能となり、サービスの幅が広がります",
+    "url": "https://www.amvis.com/oshirase/926/",
+    "pass": 1
+   },
+   {
+    "quote": "医心館事業と医療機関や介護施設との連携事業を企画するほか、診療報酬・介護報酬債権の早払いサービス（ファクタリング）等も運用",
+    "url": "https://www.amvis.com/oshirase/926/",
+    "pass": 1
+   },
+   {
+    "quote": "事業内容：医療施設型ホスピス「医心館」および訪問看護サービス「医ごころ」の運営を通じた、地域の",
+    "url": "https://www.amvis.com/_cms/wp-content/uploads/2026/11/Kita-Narashino_open-release.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業内容：医療施設型ホスピス 「医心館」 および訪問看護サービス 「医ごころ」 の運営を通じた、地域の",
+    "url": "https://www.amvis.com/_cms/wp-content/uploads/2026/10/Narita_open-release_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "アンビスでは、有料老人ホーム「医心館」事業所内における訪問看護、訪問介護、居宅介護支援及び障害者を対象とした居宅介護といった各種サービスの提供と事業所運営により、ホスピス事業を行うことを「医心館事業」と称し、現在のところ当社グループの主軸事業となっております",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、アンビスがこれら各種サービスの提供と事業所運営を行い、当社が「医心館」の開設戦略の企画から協力医療機関の獲得、顧客営業先の開拓、集客・サービス提供状況の分析及び改善、適正運営の確保、診療／介護報酬請求、債権管理、物品調達までのサポートを行うことで、当社グループは一気通貫型の地域医療／看護の強化再生ビジネスモデル(以下、これらの総称を「医心館事業」と言います",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "※ 本文中の有料老人ホームにはサービス付き高齢者向け住宅も含みます",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "サービス付き高齢者向け住宅とは、高齢者住まい法に定められた手続きを経て設置された賃貸住宅であり、国土交通省が所管しています",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "主にはアンビスが運営する医心館事業では、訪問系サービスである「訪問看護」、「訪問介護」及び「居宅介護支援」等と施設系サービスである「有料老人ホーム」とを有機複合的に組み合わせることにより、退院後の行き先に不安や心配がある医療依存度が高い方やその家族といった顧客の幅広いニーズに応える「医心館」を１都１道",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、医心館では障害者の受入れにも取り組んでおり、障害者総合支援法によるサービス提供を行っております",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "医心館事業で提供する各サービスの内容は以下のとおりであります",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "アンビスの売上高は、主にこれらサービスの提供を通じて社会保険診療報酬支払基金や国民健康保険団体連合会等(以下、「国保連等」と言います",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "・利用者に対する訪問看護サービスを提供し、このことに対して、国保連等の審査支払機関から得た報酬(医療保険制度による場合は診療報酬、介護保険制度による場合は介護報酬)を主に売上として計上いたします",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "・提供したサービスの対価は、原則として、負担割合に応じたサービス利用料の１割～３割を利用者に請求し、残り７割～９割を国保連等に請求します",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、サービスを提供する法人形態は、医療法人、社会福祉法人、特殊法人をはじめ、株式会社等の営利組織、非営利組織など様々であります",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "・アンビスでは、医心館の同一敷地内に訪問看護事業所を併設し、入居者に対し、訪問看護サービスと訪問介護サービスを併せて提供しております",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "・利用者に対する訪問介護サービス等を提供し、①同様、国保連等の審査支払機関から得た報酬を主に売上として計上いたします",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "・①同様、提供したサービスの対価は、原則として、負担割合に応じたサービス利用料の１割～３割を利用者に請求し、残り７割～９割を国保連等に請求します",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "・アンビスでは、医心館の同一敷地内に訪問介護事業所を併設し、入居者に対し、訪問介護サービスと訪問看護サービスを併せて提供しております",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "サービス内容は、ケアマネジャーなどが作成したケアプランに基づいて設定されています",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "・アンビスでは、各種サービスの利用者に説明を行ったうえで契約を締結、その後にケアプランに沿ったサービス提供を行います",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "医心館の入居者は要介護度が高い方が多いため、主として身体介護サービスを提供しております",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "・サービスの利用者から依頼を受けて、その心身の状況やおかれている環境、本人や家族の希望などを考慮したうえで、利用するサービスの種類や内容などの居宅サービス計画書(ケアプラン)を作成するサービスのことであります",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "・居宅サービス計画書の作成の他にも、その計画に基づいてサービスが適切に提供されるよう、サービス事業者や事業所などとの連絡調整も行います",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "・アンビスには、居宅介護支援事業所を併設している事業所もありますが、当該事業所においても、医心館の入居者は外部の居宅介護支援事業所のサービスを受けることが可能であり、その選択は自由であります",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "・アンビスでは、同社のケアマネジャーがケアプランを作成するなど、要介護認定者の介護保険サービス利用を支援した場合、介護保険での報酬を請求し、これを売上として計上いたします",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "報酬額はサービス利用者の要介護度に応じて設定されており、居宅介護支援サービスについては、利用者の負担はなく全額が介護保険から給付されます",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "・障害者総合支援法に基づき、障害のある方が住み慣れた地域で生活するため、日常生活や社会生活の総合的な支援を目的とした居宅介護サービス及び重度訪問介護サービスの提供を行うものです",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "・これらのサービスは、個々の方の障害程度や勘案すべき事項(社会活動や介護者、居住等の状況)を踏まえ、個別に報酬の支給決定が行われます",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "売出価格等の決定に関するお知らせ（金融商品取引法第15条第5項に基づく公表文）",
+    "url": "https://ir.amvis.com/ja/ir/news.html",
+    "pass": 3
+   },
+   {
+    "quote": "発行価格等の決定に関するお知らせ（金融商品取引法第15条第5項に基づく公表文）",
+    "url": "https://ir.amvis.com/ja/ir/news.html",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2016年10月",
+    "url": "https://www.amvis.com/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2013年9月",
+    "url": "https://www.amvis.com/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年5月",
+    "url": "https://www.amvis.com/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年8月",
+    "url": "https://www.amvis.com/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年10月",
+    "url": "https://www.amvis.com/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月",
+    "url": "https://www.amvis.com/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年4月",
+    "url": "https://www.amvis.com/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月",
+    "url": "https://www.amvis.com/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月",
+    "url": "https://www.amvis.com/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月期・29施設開設（全130施設6,706名）",
+    "url": "https://www.amvis.com/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月期第3四半期決算発表日の決定に関するお知らせ",
+    "url": "https://www.amvis.com/oshirase/?category=timely-disclosure",
+    "pass": 1
+   },
+   {
+    "quote": "2025 年９月期第３四半期決算短信の開示が 四半期末後 45 日を超えることに関するお知らせ",
+    "url": "https://www.amvis.com/oshirase/?category=timely-disclosure",
+    "pass": 1
+   },
+   {
+    "quote": "2025 年９月期半期報告書の提出完了に関するお知らせ",
+    "url": "https://www.amvis.com/oshirase/?category=timely-disclosure",
+    "pass": 1
+   },
+   {
+    "quote": "2025年９月期半期報告書の提出期限延長申請に係る承認のお知らせ",
+    "url": "https://www.amvis.com/oshirase/?category=timely-disclosure",
+    "pass": 1
+   },
+   {
+    "quote": "2025年９月期半期報告書の提出期限延長に関する承認申請書提出のお知らせ",
+    "url": "https://www.amvis.com/oshirase/?category=timely-disclosure",
+    "pass": 1
+   },
+   {
+    "quote": "2025年９月期第２四半期（中間期）決算発表の延期に関するお知らせ",
+    "url": "https://www.amvis.com/oshirase/?category=timely-disclosure",
+    "pass": 1
+   },
+   {
+    "quote": "令和４年春の叙勲においてアンビス取締役の大柴福子が「瑞宝双光章」を受章",
+    "url": "https://www.amvis.com/oshirase/?category=press-release",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月期第3四半期決算発表日の決定に関するお知らせ",
+    "url": "https://www.amvis.com/oshirase/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "2025 年９月期第３四半期決算短信の開示が 四半期末後 45 日を超えることに関するお知らせ",
+    "url": "https://www.amvis.com/oshirase/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "2025 年９月期半期報告書の提出完了に関するお知らせ",
+    "url": "https://www.amvis.com/oshirase/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "2006年の設立時から24時間365日看護師常駐、専任の理学療法士配置を先駆的に打ち出し、自立の方から重度の要介護者まで幅広く受け入れてきました",
+    "url": "https://www.amvis.com/oshirase/926/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 11月 2日",
+    "url": "https://www.amvis.com/_cms/wp-content/uploads/2026/11/Kita-Narashino_open-release.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年 10 月 1 日",
+    "url": "https://www.amvis.com/_cms/wp-content/uploads/2026/10/Narita_open-release_j.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年８月３日",
+    "url": "https://www.amvis.com/_cms/wp-content/uploads/2026/08/260803_Futamatagawa_open_release_ja-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年９月末時点において、医心館は 138 施設 7,178 名となることを予定",
+    "url": "https://www.amvis.com/_cms/wp-content/uploads/2026/08/260803_Futamatagawa_open_release_ja-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年7 月 1 日",
+    "url": "https://www.amvis.com/_cms/wp-content/uploads/2026/07/20260701_Amvis.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年５月 13 日",
+    "url": "https://www.amvis.com/_cms/wp-content/uploads/2026/05/f27a19d936d1d0fa9bae9102fb9b76de-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年４月１日",
+    "url": "https://www.amvis.com/_cms/wp-content/uploads/2026/03/b8b1402dcac644609c2b3dda0ce1356f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年９月末時点において、医心館は 138 施設 7,178 名となることを予定",
+    "url": "https://www.amvis.com/_cms/wp-content/uploads/2026/03/b8b1402dcac644609c2b3dda0ce1356f.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年４月１日",
+    "url": "https://www.amvis.com/_cms/wp-content/uploads/2026/03/6ed5bd8cce22e89dad7ddffe88f0b474.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年９月末時点において、医心館は 138 施設 7,178 名となることを予定",
+    "url": "https://www.amvis.com/_cms/wp-content/uploads/2026/03/6ed5bd8cce22e89dad7ddffe88f0b474.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年２月２日",
+    "url": "https://www.amvis.com/_cms/wp-content/uploads/2026/01/45de8aff0337736bfecf7b2408e44ad9.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年９月末時点において、医心館は138 施設7,178 名となることを予定",
+    "url": "https://www.amvis.com/_cms/wp-content/uploads/2026/01/45de8aff0337736bfecf7b2408e44ad9.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年05月30日 12:00",
+    "url": "https://strainer.jp/stories/4174",
+    "pass": 3
+   },
+   {
+    "quote": "2023年9月期の業績予想は売上307億円、営業利益79億円にのぼる",
+    "url": "https://strainer.jp/stories/4174",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月期有価証券報告書より",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "2024年10月～2025年９月の間においては、アンビスの職員数を上回る約11,000人の看取りを対応し、医心館で終末期に係る医療や介護の経験を個人として、また組織として次回の看取りに還元しています(デスカンファレンスの実施など)",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "2025年９月末日",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "1992年の医療法二次改正により「居宅等」が医療を行う場として法的根拠を持つに至り、2008年の診療報酬にその範囲が定められている",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "2014年４月から対象者は重度の知的障害者・精神障害者にまで拡大されている",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "2018年度の診療報酬改定においても、入院から在宅へという流れを一層促進するため、病床機能評価を厳格化し、地域の住まいを拠点とした総合的な医療介護連携を地域包括ケアシステムによって実現することが目標に掲げられている",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "2024年９月",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "2025年９月",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "2023年10月１日",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "2024年９月30日",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "2024年10月１日",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "2025年９月30日",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月26日（火）19：45 ～ 20：30",
+    "url": "https://ir.amvis.com/ja/ir/library.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月15日（金）16：00 ～ 17：00",
+    "url": "https://ir.amvis.com/ja/ir/library.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月11日（火）18：30 ～ 19：15",
+    "url": "https://ir.amvis.com/ja/ir/library.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月10日（月）16：00 ～ 17：00",
+    "url": "https://ir.amvis.com/ja/ir/library.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年12月3日（火）19:45 ～ 20:30",
+    "url": "https://ir.amvis.com/ja/ir/library.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年11月11日（月）16：00 ～ 17：00",
+    "url": "https://ir.amvis.com/ja/ir/library.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年5月14日（火）18：30 ～ 19：15",
+    "url": "https://ir.amvis.com/ja/ir/library.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年5月13日（月）16：00 ～ 17：00",
+    "url": "https://ir.amvis.com/ja/ir/library.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月12日（火）13：00 ～ 13：40",
+    "url": "https://ir.amvis.com/ja/ir/library.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年11月14日（火）19：45 ～ 20：30",
+    "url": "https://ir.amvis.com/ja/ir/library.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年11月13日（月）16：00 ～ 17：00",
+    "url": "https://ir.amvis.com/ja/ir/library.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年5月23日（火）19：45 ～ 20：30",
+    "url": "https://ir.amvis.com/ja/ir/library.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年5月15日（月）16：00 ～ 17：00",
+    "url": "https://ir.amvis.com/ja/ir/library.html",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "ホスピス事業｜事業紹介｜株式会社アンビスホールディングス",
+    "url": "https://www.amvis.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "医療依存度が高い方の“最後の砦”として機能するため、医療の必要度が低い方については適切な他の施設をご紹介することもあります",
+    "url": "https://www.amvis.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "地域医療再生事業｜事業紹介｜株式会社アンビスホールディングス",
+    "url": "https://www.amvis.com/business/medical/",
+    "pass": 1
+   },
+   {
+    "quote": "介護施設と連携する場合は、① 入居者の相互紹介、② ノウハウを持った人材による運営支援、③事業譲受/M&A――が考えられます",
+    "url": "https://www.amvis.com/business/medical/",
+    "pass": 1
+   },
+   {
+    "quote": "他社の介護施設の一部に医心館を開設し、互いに入居対象が異なることから入居者の相互紹介を実施しています",
+    "url": "https://www.amvis.com/business/medical/",
+    "pass": 1
+   },
+   {
+    "quote": "テレビ宮崎「U-doki」にて医心館が紹介されました",
+    "url": "https://www.amvis.com/oshirase/?category=media",
+    "pass": 1
+   },
+   {
+    "quote": "新スキームによる開設は、株式会社アンビスホールディングスの子会社である株式会社 明日の医療（本社：東京都中央区、代表取締役：柴原慶一）が企画する、医療機関・介護施設との連携における訪問看護事業及び入居者の相互紹介に該当し、明日の医療における医療機関・介護施設との連携の第一歩となるものです",
+    "url": "https://www.amvis.com/oshirase/926/",
+    "pass": 1
+   },
+   {
+    "quote": "３．ネクサスケアが運営するフロアと当社が運営するフロアでは、入居対象者が異なるため、両事業者間で入居者を相互紹介するという、同一建物内での入居者紹介制度を導入します",
+    "url": "https://www.amvis.com/oshirase/926/",
+    "pass": 1
+   },
+   {
+    "quote": "また、当社の高い営業力に基づいた入居者紹介という紹介事業の先駆けとなる新しい事業モデルの運用を開始します",
+    "url": "https://www.amvis.com/oshirase/926/",
+    "pass": 1
+   },
+   {
+    "quote": "本記事は中堅上場企業「NEXT1000」を対象に2021年4～6月期の営業増益額をランキングし、トップとして当社を紹介",
+    "url": "https://www.amvis.com/oshirase/1029/",
+    "pass": 1
+   },
+   {
+    "quote": "介護という成長分野で医療依存度が高い方のケアに特化し、ニッチ市場で着実にニーズをつかみ取る企業として紹介されました",
+    "url": "https://www.amvis.com/oshirase/1029/",
+    "pass": 1
+   },
+   {
+    "quote": "連携・患者紹介",
+    "url": "https://www.amvis.com/assets/images/business/img04.png",
+    "pass": 2
+   },
+   {
+    "quote": "先日紹介したエムスリー子会社「シーユーシー」も在宅ホスピスを事業の一つとして展開、定員数で業界2位をアピールしていた",
+    "url": "https://strainer.jp/stories/4174",
+    "pass": 3
+   },
+   {
+    "quote": "今回の記事では、その来歴とビジネスモデル、今後の野心的な計画について紹介する",
+    "url": "https://strainer.jp/stories/4174",
+    "pass": 3
+   },
+   {
+    "quote": "医心館では、常時複数の医師と連携して入居者に必要な医療を提供しており、仮に入居者の病状が変化して、現在の主治医では対応が難しいような場合、専門分野を異にする医師の診療が必要になるような場合には、医心館の看護師を介して入居者への紹介が行われます",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "・指定居宅介護サービス事業所、介護保険施設の紹介及び提供事業所との連絡調整",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "テレビ宮崎「U-doki」にて医心館が紹介されました",
+    "url": "https://ir.amvis.com/ja/ir/news.html",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "手数料（0.8％）と送金手数料を控除いたします",
+    "url": "https://www.amvis.com/business/medical/",
+    "pass": 1
+   },
+   {
+    "quote": "・提供したサービスの対価は、原則として、負担割合に応じたサービス利用料の１割～３割を利用者に請求し、残り７割～９割を国保連等に請求します",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "・①同様、提供したサービスの対価は、原則として、負担割合に応じたサービス利用料の１割～３割を利用者に請求し、残り７割～９割を国保連等に請求します",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "募集新株予約権(有償ストック・オプション)の発行内容確定に関するお知らせ",
+    "url": "https://ir.amvis.com/ja/ir/news.html",
+    "pass": 3
+   },
+   {
+    "quote": "有償ストック・オプション（新株予約権）の発行に関するお知らせ",
+    "url": "https://ir.amvis.com/ja/ir/news.html",
+    "pass": 3
+   },
+   {
+    "quote": "ストック・オプション（新株予約権）の付与に関するお知らせ",
+    "url": "https://ir.amvis.com/ja/ir/news.html",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "在宅ホスピス最大手「アンビスホールディングス」のビジネスモデル | ストレイナー",
+    "url": "https://strainer.jp/stories/4174",
+    "pass": 3
+   },
+   {
+    "quote": "在宅ホスピス最大手「アンビスホールディングス」のビジネスモデル",
+    "url": "https://strainer.jp/stories/4174",
+    "pass": 3
+   },
+   {
+    "quote": "今回の記事では、その来歴とビジネスモデル、今後の野心的な計画について紹介する",
+    "url": "https://strainer.jp/stories/4174",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、アンビスがこれら各種サービスの提供と事業所運営を行い、当社が「医心館」の開設戦略の企画から協力医療機関の獲得、顧客営業先の開拓、集客・サービス提供状況の分析及び改善、適正運営の確保、診療／介護報酬請求、債権管理、物品調達までのサポートを行うことで、当社グループは一気通貫型の地域医療／看護の強化再生ビジネスモデル(以下、これらの総称を「医心館事業」と言います",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "［事業系統図］",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "事業の内容を事業系統図により示すと図１のとおりであります",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "図１ 事業系統図",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "② 収益構造からみた医心館事業の特徴",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "具体的には、アンビスがこれら各種サービスの提供と事業所運営を行い、当社が「医心館」の開設戦略の企画から協力医療機関の獲得、顧客営業先の開拓、集客・サービス提供状況の分析及び改善、適正運営の確保、診療／介護報酬請求、債権管理、物品調達までのサポートを行うことで、当社グループは一気通貫型の地域医療／看護の強化再生ビジネスモデル(以下、これらの総称を「医心館事業」と言います",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "主にはアンビスが運営する医心館事業では、訪問系サービスである「訪問看護」、「訪問介護」及び「居宅介護支援」等と施設系サービスである「有料老人ホーム」とを有機複合的に組み合わせることにより、退院後の行き先に不安や心配がある医療依存度が高い方やその家族といった顧客の幅広いニーズに応える「医心館」を１都１道",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "・利用者に対する訪問看護サービスを提供し、このことに対して、国保連等の審査支払機関から得た報酬(医療保険制度による場合は診療報酬、介護保険制度による場合は介護報酬)を主に売上として計上いたします",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "・提供したサービスの対価は、原則として、負担割合に応じたサービス利用料の１割～３割を利用者に請求し、残り７割～９割を国保連等に請求します",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "・利用者に対する訪問介護サービス等を提供し、①同様、国保連等の審査支払機関から得た報酬を主に売上として計上いたします",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "・①同様、提供したサービスの対価は、原則として、負担割合に応じたサービス利用料の１割～３割を利用者に請求し、残り７割～９割を国保連等に請求します",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "・アンビスでは、各種サービスの利用者に説明を行ったうえで契約を締結、その後にケアプランに沿ったサービス提供を行います",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "・サービスの利用者から依頼を受けて、その心身の状況やおかれている環境、本人や家族の希望などを考慮したうえで、利用するサービスの種類や内容などの居宅サービス計画書(ケアプラン)を作成するサービスのことであります",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "報酬額はサービス利用者の要介護度に応じて設定されており、居宅介護支援サービスについては、利用者の負担はなく全額が介護保険から給付されます",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "これまで、延べ45,365人(2025年９月末日現在)の利用者を得ております",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "介護保険で被保険者である利用者にサービスを提供できる施設",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "単一の製品・サービスの区分の外部顧客への売上高が損益計算書の売上高の90％を超えているため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "本邦以外の外部顧客への売上高がないため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "３ 主要な顧客ごとの情報",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の名称又は氏名",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "（単一セグメント）",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "単一セグメントの企業の場合は、連結（あるいは単体）の売上と営業利益を反映しています",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、当社グループの報告セグメントは医心館事業のみの単一セグメントであります",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、当社グループは医心館事業の単一セグメントであるため、セグメント別の記載を省略しております",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの報告セグメントは、医心館事業のみの単一セグメントであります",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "(セグメント情報等)",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、医心館事業の単一セグメントであるため、セグメント別の記載は省略しております",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "(注) 当社グループは、医心館事業の単一セグメントであるため、セグメント別の記載は省略しております",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "【報告セグメントごとの固定資産の減損損失に関する情報】",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "【報告セグメントごとののれんの償却額及び未償却残高に関する情報】",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "【報告セグメントごとの負ののれん発生益に関する情報】",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "(営業利益率)",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、この事業は運営が難しいため参入障壁が高い",
+    "url": "https://note.com/brandedshorts/n/nb9e59b1949ac",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "在宅ホスピス最大手「 アンビスホールディングス 」の ビジネス ... — 在宅ホスピス最大手「 アンビスホールディングス 」の ビジネス ... ストレイナー https://strainer.jp > stories",
+    "url": "https://strainer.jp/stories/4174",
+    "pass": 3
+   },
+   {
+    "quote": "アンビスホールディングス 【7071】の事業内容 - キタイシホン — アンビスホールディングス 【7071】の事業内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "ホスピス事業｜事業紹介 - 株式会社アンビスホールディングス — ホスピス事業｜事業紹介 - 株式会社アンビスホールディングス 株式会社アンビスホールディングス https://www.amvis.com > business",
+    "url": "https://www.amvis.com/business/",
+    "pass": 3
+   },
+   {
+    "quote": "IR 資料 室 - 投資家情報 - 株式会社アンビスホールディングス — IR 資料 室 - 投資家情報 - 株式会社アンビスホールディングス 株式会社アンビスホールディングス https://ir.amvis.com > library",
+    "url": "https://ir.amvis.com/ja/ir/library.html",
+    "pass": 3
+   },
+   {
+    "quote": "IRニュース - 投資家情報 - 株式会社アンビスホールディングス — IRニュース - 投資家情報 - 株式会社アンビスホールディングス 株式会社アンビスホールディングス https://ir.amvis.com > news",
+    "url": "https://ir.amvis.com/ja/ir/news.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 アンビスホールディングス 】[7071]IR情報 ... - 日本経済新聞 — 【 アンビスホールディングス 】[7071]IR情報 ... - 日本経済新聞 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=7071",
+    "pass": 3
+   },
+   {
+    "quote": "アンビスホールディングス 【7071】のIR 資料 - キタイシホン — アンビスホールディングス 【7071】のIR 資料 - キタイシホン キタイシホン https://kitaishihon.com > company > ir-library",
+    "url": "https://kitaishihon.com/company/7071/ir-library",
+    "pass": 3
+   },
+   {
+    "quote": "投資家情報 | 株式会社 アンビスホールディングス — 投資家情報 | 株式会社 アンビスホールディングス 株式会社アンビスホールディングス https://ir.amvis.com > ...",
+    "url": "https://ir.amvis.com/ja/ir.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アンビスホールディングス — 株式会社 アンビスホールディングス 株式会社アンビスホールディングス https://www.amvis.com",
+    "url": "https://www.amvis.com/",
+    "pass": 3
+   },
+   {
+    "quote": "アンビスホールディングス 【7071】の 事業 内容 - キタイシホン — アンビスホールディングス 【7071】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/7071/business",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜企業情報 - 株式会社アンビスホールディングス — 会社概要｜企業情報 - 株式会社アンビスホールディングス 株式会社アンビスホールディングス https://www.amvis.com > company > profile",
+    "url": "https://www.amvis.com/company/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アンビスホールディングス — 株式会社 アンビスホールディングス crex-data.com https://www.crex-data.com > 企業",
+    "url": "https://www.crex-data.com/company/7071",
+    "pass": 3
+   },
+   {
+    "quote": "社長 メッセージ｜企業情報 - 株式会社アンビスホールディングス — 社長 メッセージ｜企業情報 - 株式会社アンビスホールディングス 株式会社アンビスホールディングス https://www.amvis.com > company",
+    "url": "https://www.amvis.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アンビスホールディングス ／取締役CFO 中川 徹哉 氏 — 株式会社 アンビスホールディングス ／取締役CFO 中川 徹哉 氏 バリューアップパートナー https://vu-p.com > column",
+    "url": "https://vu-p.com/column/2704/2",
+    "pass": 3
+   },
+   {
+    "quote": "アンビスホールディングス ｜紹介ムービー① - YouTube — アンビスホールディングス ｜紹介ムービー① - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=PJqYpBsws80",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.amvis.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amvis.com/oshirase/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amvis.com/company/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amvis.com/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amvis.com/business/medical/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amvis.com/oshirase/?category=timely-disclosure",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amvis.com/oshirase/?category=newopen",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amvis.com/oshirase/?category=media",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amvis.com/oshirase/?category=press-release",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amvis.com/oshirase/?category=notice",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amvis.com/oshirase/page/2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amvis.com/en/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amvis.com/en/business/medical/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amvis.com/oshirase/926/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amvis.com/oshirase/page/2/?category=timely-disclosure",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amvis.com/oshirase/page/2/?category=newopen",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amvis.com/oshirase/1029/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amvis.com/oshirase/page/2/?category=notice",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amvis.com/oshirase/926/oshirase",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amvis.com/oshirase/1029/oshirase",
+    "status": "http_404",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.amvis.com/_cms/wp-content/uploads/2026/11/Kita-Narashino_open-release.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.amvis.com/_cms/wp-content/uploads/2026/10/Narita_open-release_j.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.amvis.com/_cms/wp-content/uploads/2026/08/260803_Futamatagawa_open_release_ja-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.amvis.com/_cms/wp-content/uploads/2026/07/20260701_Amvis.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.amvis.com/_cms/wp-content/uploads/2026/05/f27a19d936d1d0fa9bae9102fb9b76de-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.amvis.com/_cms/wp-content/uploads/2026/03/b8b1402dcac644609c2b3dda0ce1356f.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.amvis.com/_cms/wp-content/uploads/2026/03/6ed5bd8cce22e89dad7ddffe88f0b474.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.amvis.com/_cms/wp-content/uploads/2026/01/45de8aff0337736bfecf7b2408e44ad9.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.amvis.com/assets/images/kv/business.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.amvis.com/assets/images/business/logo_ishinkan.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.amvis.com/assets/images/business/img01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.amvis.com/assets/images/business/img02.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.amvis.com/assets/images/business/img03.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.amvis.com/assets/images/business/img04.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.amvis.com/assets/images/common/nav_business_medical.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.amvis.com/assets/images/kv/business_medical.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://strainer.jp/stories/4174",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/7071/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.amvis.com/ja/ir/library.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.amvis.com/ja/ir/news.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/7071/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/brandedshorts/n/nb9e59b1949ac",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "アンビスホールディングス",
+   "results": [
+    "https://www.amvis.com/",
+    "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%93%E3%82%B9%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20261030561731/",
+    "https://facta.co.jp/article/202611044.html",
+    "https://ja.wikipedia.org/wiki/アンビスホールディングス",
+    "https://www.amvis.com/company/profile/",
+    "https://ir.amvis.com/ja/ir.html",
+    "https://ir.amvis.com/ja/ir/news.html",
+    "https://finance.yahoo.co.jp/quote/7071.T",
+    "https://info.manda.bz/2026/09/29/ambis-hd-ishikan-nissan-ma/"
+   ]
+  },
+  {
+   "query": "アンビスホールディングス ビジネスモデル",
+   "results": [
+    "https://strainer.jp/stories/4174",
+    "https://kitaishihon.com/company/7071/business",
+    "https://www.amvis.com/business/",
+    "https://www.youtube.com/watch?v=kdCSl6Ie6lw",
+    "https://shikiho.toyokeizai.net/news/0/468174",
+    "https://www.crex-data.com/company/7071",
+    "https://strainer.jp/notes/7884",
+    "https://data.swcms.net/file/amvis-ir/dam/jcr:26d75c20-b536-422e-8e73-cd4cc60b48c1/140120241106512991.pdf",
+    "https://note.com/irukabu/n/ndba504cc8380",
+    "https://ja.wikipedia.org/wiki/アンビスホールディングス"
+   ]
+  },
+  {
+   "query": "アンビスホールディングス 決算説明資料",
+   "results": [
+    "https://ir.amvis.com/ja/ir/library.html",
+    "https://ir.amvis.com/ja/ir/news.html",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=7071",
+    "https://kitaishihon.com/company/7071/ir-library",
+    "https://ir.amvis.com/ja/ir.html",
+    "https://www.nikkei.com/nkd/company/ednr/?scode=7071",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260813519645",
+    "https://www.buffett-code.com/company/7071/library",
+    "https://finance.matsui.co.jp/stock/7071/settlement/index",
+    "https://tdnet-pdf.kabutan.jp/20251110/140120251110593229.pdf"
+   ]
+  },
+  {
+   "query": "アンビスホールディングス 事業系統図",
+   "results": [
+    "https://www.amvis.com/",
+    "https://kitaishihon.com/company/7071/business",
+    "https://www.amvis.com/company/profile/",
+    "https://data.swcms.net/file/amvis-ir/dam/jcr:3bbc8da5-805d-4341-b367-4d0d33ed4e88/140120221114565820.pdf",
+    "https://www.crex-data.com/company/7071",
+    "https://compalyze.co.jp/company/3190001021189",
+    "https://sbi.ifis.co.jp/index.php?Param1=report_sbi_report_detail&Param4=15501-1.pdf&ahash=dcae6ab5975f95dd64ac77b985fdff1fdce545904dade4c058da2a16dc74ca4f&hhash=33ae7b40deea1d7e84b6f992b87255b6886f4999ef2248b470e779b6169213d1&ihash=91df5f2d9879d9a69957f25ef68a50966eb8b70f",
+    "https://www.buffett-code.com/company/7071/",
+    "https://note.com/irukabu/n/ndba504cc8380",
+    "https://ja.wikipedia.org/wiki/アンビスホールディングス"
+   ]
+  },
+  {
+   "query": "アンビスホールディングス 社長 インタビュー",
+   "results": [
+    "https://note.com/brandedshorts/n/nb9e59b1949ac",
+    "https://www.amvis.com/company/",
+    "https://vu-p.com/column/2704/2",
+    "https://www.youtube.com/watch?v=PJqYpBsws80",
+    "https://shikiho.toyokeizai.net/news/0/468174",
+    "https://kitaishihon.com/company/7071/board-of-director",
+    "https://the-shashi.com/tse/7071/executives/ceo/shibahara-keiichi/",
+    "https://www.youtube.com/watch?v=QDtXOcJQO3A",
+    "https://jobtalk.jp/companies/9363995/answers/8185952",
+    "https://ja.wikipedia.org/wiki/柴原慶一"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像16件／外部6頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像16件／外部6頁・検索5回）"
+ }
+}
